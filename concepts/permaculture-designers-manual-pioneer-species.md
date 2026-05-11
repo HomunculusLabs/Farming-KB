@@ -88,11 +88,3 @@ The designer can accelerate natural succession by decades through strategic spec
 Pioneer species require active management to prevent them from suppressing the very succession they are meant to facilitate:
 
 - **Coppicing and pollarding**: Regular cutting of pioneer trees stimulates regrowth and provides mulch or fuel while preventing them from overtopping the desired climax species.
-
-- **Chop-and-drop mulching**: Cutting pioneer vegetation and leaving it in place as surface mulch feeds soil organisms and retains moisture for establishing understory crops.
-
-- **Grazing integration**: Livestock can be used to manage pioneer growth. Goats and sheep are particularly effective at controlling aggressive woody pioneers while converting vegetation to manure.
-
-- **Successional thinning**: As climax species mature, pioneers should be progressively thinned or removed to reduce competition for light, water, and nutrients.
-
-Bill Mollison emphasized that the permaculture designer should think of pioneer species as "nature's toolkit" for landscape rehabilitation. By selecting the right combination of pioneers for a given site and managing their transition to climax communities, the designer can create productive, resilient agricultural systems that mimic the stability and self-regulation of natural ecosystems.

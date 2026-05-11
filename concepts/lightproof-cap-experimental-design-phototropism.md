@@ -1,5 +1,5 @@
 ---
-title: Lightproof Cap and Opaque Tube lightproof cap experimental design phototropism in Phototropism Research
+title: Lightproof Cap Experimental Design Phototropism
 tags: [botany, phototropism, experimental-methodology, darwin, plant-physiology, history-of-science]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ The **lightproof cap and opaque tube experimental design** stands as one of the
 most elegant methodological innovations in the history of plant biology. Developed
 by Charles Darwin and his son Francis to localise the light-sensing organ in plant
 seedlings, this approach used simple physical barriers to answer a fundamental
-question about plant perception. The design remains a canonical example in
+question about [[plant-perception]]. The design remains a canonical example in
 textbooks of how minimal, carefully controlled experiments can yield profound
 biological insights.
 
@@ -58,7 +58,7 @@ leaving the tip fully exposed to directional light from the gas lamp.
 
 ## The Five Experimental Conditions
 
-The experiment compared five canary grass seedlings, each prepared identically
+The experiment compared five [[canary-grass-phototropism-model-organism]] seedlings, each prepared identically
 through several days of dark growth, and then subjected to one of the following
 treatments before exposure to the same dim, directional gas lamp:
 
@@ -88,54 +88,3 @@ the presence of the barrier.
 
 **Condition five (opaque tube on midsection):** An opaque tube sheathed the
 middle of the coleoptile where bending typically occurs. The seedling bent
-normally. This showed that the bending tissue did not need to receive light
-directly. The tip could perceive the light and communicate directional
-information to the covered midsection, which then executed the bending response
-despite being in complete darkness.
-
-## Methodological Strengths
-
-Several features made this experimental design exceptionally rigorous for its
-era. First, it was **comparative**: each condition was tested alongside the
-others under identical environmental conditions, allowing direct comparison of
-outcomes. Second, it was **controlled**: the untreated seedling established the
-baseline, and the glass cap controlled for the physical presence of a barrier.
-Third, it was **incrementally specific**: each condition tested a slightly
-different hypothesis about where light perception occurred.
-
-The design also exemplified what is now called the **method of exclusion**. By
-systematically eliminating each possible site of light perception, the Darwins
-converged on the correct answer through a process of elimination. The tip was
-necessary (condition two), the tip had to receive light (condition three), the
-barrier itself was not the cause (condition four), and the bending region did
-not need light (condition five). Together, these conditions pointed
-unambiguously to the coleoptile tip as the exclusive site of light perception.
-
-## The Signal Transmission Implication
-
-Perhaps the most far-reaching implication of the experiment was not what happened
-at the tip but what happened below it. Condition five demonstrated that the
-bending tissue did not need to receive light directly. The tip perceived the
-light and somehow communicated directional information downward to the
-midsection, which executed the growth response. This implied the existence of a
-**mobile signalling molecule** that travelled from the illuminated tip to the
-shaded side of the stem.
-
-This hypothesis was confirmed decades later when auxin (indole-3-acetic acid) was
-identified as the hormone responsible. Auxin is produced in the coleoptile tip
-and redistributed to the shaded side of the stem in response to directional
-light, where it promotes [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and causes the characteristic bending
-toward the light source.
-
-## Influence on Subsequent Research
-
-The lightproof cap methodology directly inspired the work of later plant
-physiologists. Frits Went, working in the 1920s, placed agar blocks on
-decapitated coleoptile tips to collect the diffusible signalling substance, then
-transferred these blocks to one side of decapitated coleoptiles and observed
-asymmetric bending. This experiment led directly to the isolation and
-identification of auxin as the phototropic growth hormone.
-
-The general principle of using localised light barriers to dissect sensory
-pathways in plants has been extended to studies of shade avoidance, de-etiolation,
-and photoperiodic flowering control. The underlying logic, that selectively

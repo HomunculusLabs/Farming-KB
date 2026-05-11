@@ -87,10 +87,3 @@ Cold storage of spawn is widely utilized by the commercial Agaricus ([[growing-g
 If the spawn fails, the excuse heard more often than not is that the spawn was mishandled by the purchaser. This type of business relationship is intrinsically problematic and represents yet another reason why mushroom farms should generate their own spawn whenever possible.
 
 ## See Also
-
-- [[growing-gourmet-spawn-production]]
-- growing-gourmet-stock-culture-library
-- [[growing-gourmet-strain-senescence-degeneration]]
-- [[oyster-mushroom]]
-- [[pleurotus-ostreatus]]
-- [[volvariella-volvacea]]

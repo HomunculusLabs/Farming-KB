@@ -1,7 +1,7 @@
 ---
 title: "Earthworks"
 created: 2026-04-28
-tags: [permaculture, earthworks, swales, berms, terracing, keyline]
+tags: [[permaculture]], earthworks, swales, berms, terracing, keyline]
 date: 2026-04-25
 updated: 2026-04-27
 sources: [william-ozier-williams-pdc_-a-permaculture-design-cours.md]
@@ -14,7 +14,7 @@ type: concept
 Earthworks can have many roles in a permaculture design.
 Perhaps the most important is using earthworks to slow
 erosion and to create the proper conditions for plants to
-grow. Earthworks for rain water harvesting include berms,
+grow. Earthworks for [[williams-pdc-rain-water-harvesting]] include berms,
 swales, and keylining, but berms, swales, and keylines are
 hardly the whole story of permaculture earthworks. See also mollison-keyline-water-conservation for keyline systems.
 
@@ -30,7 +30,7 @@ large flat plane of ground for some reason.
 Terraces turn otherwise unusable sloped land into productive
 [[cotter-growing-space-design-fruiting-rooms]]. They are a time-tested technique used by
 cultures [[fungi-around-the-world-species-distribution]], from the rice terraces of Southeast
-Asia to the Andean agricultural terraces of South America.
+Asia to the Andean agricultural terraces of [[guzman-psilocybin-mushrooms-south-america]].
 
 ## Bio-Swales
 
@@ -88,34 +88,3 @@ beginning any earthworks, and start small.
 Before beginning any earthworks, conduct a thorough site
 assessment. Map the existing contours, identify natural water
 flows, observe where erosion is already occurring, and note
-areas where soil is compacted or depleted. Plan your
-earthworks on paper first, considering how each modification
-will interact with existing features and with other elements
-of your design.
-
-## Starting Small and Observing
-
-Always start with small earthworks and observe their effects
-before scaling up. A single small swale can teach you a great
-deal about how water moves across your site, how quickly your
-soil infiltrates water, and what adjustments may be needed.
-Patience and observation are your most important earthworks
-tools.
-
-## Integration with Other Design Elements
-
-As you study other design elements of permaculture such as
-gardens or building you will learn more about their specific
-earthworks requirements. However earthworks can also exist
-as its own discipline, shaping the ecology of your site
-independently of other elements. The best approach integrates
-earthworks with water harvesting, plant systems, and built
-structures into a coherent whole design.
-
-## See Also
-
-- permaculture-designers-manual-swale-design-detailed — detailed [[comparison-swale-design-vs-contour-swale-irrigation-design]]
-- pdc-earthworks-and-earth-resources — PDC earthworks course material
-- [[permaculture-design]]
-- [[permaculture-earthworks]]
-- [[keyline-design]]

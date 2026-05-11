@@ -2,9 +2,9 @@
 
 Clamp connections are hook-shaped hyphal outgrowths unique to many Basidiomycota
 that maintain the dikaryotic state — two genetically distinct nuclei per cell —
-throughout the vegetative mycelium. They are among the most recognizable features
+throughout the vegetative [[mycelium]]. They are among the most recognizable features
 of mushroom fungi and serve as the primary morphological indicator of a fertile,
-dikaryotic mycelium capable of producing fruiting bodies.
+dikaryotic mycelium capable of producing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Structure and Purpose
 
@@ -88,46 +88,3 @@ In commercial cultivation, clamp connections serve several practical purposes:
 
 - **Dikaryon verification**: Confirming that spawn cultures are dikaryotic
   (fertile) rather than monokaryotic (infertile). Monokaryotic cultures that
-  have lost their dikaryotic state through senescence or contamination will
-  not produce mushrooms.
-- **Compatibility testing**: When performing strain crosses, the appearance
-  of clamp connections at the interaction zone between two monokaryotic
-  isolates is the first indicator of successful mating.
-- **Quality control**: Regular microscopic checks of production cultures can
-  detect reversion to monokaryotic growth, which would signal the need to
-  restart the culture from verified dikaryotic stock.
-
-## Nuclear Migration
-
-Nuclear migration through the [[gadd-mycelial-network-dynamics]] is controlled by the **B mating-
-type locus**. When the B locus is heteroallelic, pheromone signaling triggers
-dissolution of septal walls at hyphal fusion points, creating open channels
-through which nuclei can travel.
-
-Nuclear migration rates vary significantly between species. In **Coprinopsis
-cinerea**, nuclei can migrate at rates of several centimeters per hour through
-established [[fungal-mycelial-networks-nutrient-translocation]]. This rapid migration allows a single compatible
-mating event to rapidly convert an entire monokaryotic mycelium to dikaryotic.
-
-In tetrapolar matings where only the A locus differs (A≠B=), clamp connections
-form but nuclear migration is blocked. The resulting "barrage" zone shows
-dense, clamped hyphae that cannot expand because nuclei cannot travel beyond
-the initial contact point.
-
-## Clamp Connections and Fruiting
-
-The presence of clamp connections is necessary but not sufficient for fruiting.
-The dikaryotic state they maintain is a prerequisite for fruiting body initiation
-in most Basidiomycota, but environmental triggers (temperature, light, humidity)
-and species-specific genetic factors also play essential roles.
-
-Some cultivated species, notably **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]**, produce fruiting bodies
-from a predominantly homokaryotic mycelium with limited clamp formation, making
-this species an exception to the general rule.
-
-## See Also
-
-- [[mushroom-mating-systems-bipolar-tetrapolar-genetics]]
-- [[single-spore-isolation-and-monokaryon-culture]]
-- [[mushroom-strain-improvement-and-breeding-methods]]
-- [[spore-germination-triggers-and-dormancy-breaking]]

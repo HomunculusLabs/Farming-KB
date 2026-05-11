@@ -88,23 +88,3 @@ combinations and timing.
 ## Application Timing Principles
 
 The source emphasizes precise timing for fruit treatments:
-
-- Sweetness promotion requires two applications: 15 days and 2 days
-  before harvest.
-- Crack prevention requires proactive application during drought,
-  before rain arrives.
-- All NF foliar treatments should generally be applied in the
-  evening or late afternoon to avoid UV damage to microorganisms
-  and ensure maximum absorption.
-- The basic dilution ratio across all treatments is 1:1000, ensuring
-  consistent and safe [[ingham-compost-tea-application-rates-and-timing]].
-
-## Key Principles
-
-## See Also
-
-- [[knf-input-application-timing]] — detailed timing guidance for all NF inputs
-- [[knf-water-soluble-calcium]] — WCA preparation for fruit firmness
-- [[knf-fermented-seawater-preparation]] — [[knf-fermented-seawater-preparation]] preparation methods
-- [[knf-vegetative-growth-stage]] — [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] input schedules
-- [[knf-soap-water-and-hot-pepper]] — additional pest control inputs

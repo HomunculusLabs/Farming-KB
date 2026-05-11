@@ -88,29 +88,3 @@ Multiple factors influence the tryptamine content of fungal collections:
 - **Mycena sanguinolenta** — Bleeds a reddish fluid when cut, typically smaller
 
 Accurate identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and cheilocystidia characteristics, as macroscopic features alone are often insufficient for reliable species determination in this genus.
-
-## Cultural and Historical Context
-
-The psychoactive properties of *Mycena* species are less well-documented in the ethnobotanical literature compared to Psilocybe species. There are no confirmed traditional or indigenous uses of *M. purpureofusca* as an entheogen. Interest in this species arises primarily from modern phytochemical investigations and the broader study of bioluminescent fungi and their secondary metabolite profiles.
-
-## Research Significance
-
-*Mycena purpureofusca* is of interest to mycologists for several reasons:
-
-1. **Bioluminescence research** — As one of the bioluminescent *Mycena* species, it contributes to understanding fungal luciferase-luciferin systems and their potential applications in biotechnology and environmental monitoring
-2. **Tryptamine distribution** — The presence of psychoactive compounds in this genus expands the known phylogenetic distribution of psilocybin biosynthesis beyond the traditional Psilocybe and Panaeolus genera
-3. **Ecological role** — As a saprotroph on hardwood debris, it plays a role in forest nutrient cycling and carbon decomposition
-4. **Chemical ecology** — Understanding why some *Mycena* species produce tryptamines while others do not may reveal ecological functions of these compounds in fungal biology
-
-## Cultivation Notes
-
-*Mycena purpureofusca* is not cultivated commercially or by hobbyists. The small size, uncertain psychoactive content, and difficulty of cultivation make it impractical compared to more readily cultivated species such as [[mycena-citrinomarginata]]
-
-- [[mycena-galopus]] — Common lookalike species
-- [[psilocybe-cyanescens]] — Potent psychoactive species for comparison of tryptamine profiles
-
-## References
-
-- Schultes, R.E. (1976). *A Golden Guide to Hallucinogenic Plants*. Golden Press, New York.
-- Desjardin, D.E., et al. Bioluminescent *Mycena* species from tropical and temperate forests.
-- Stamets, P. (1996). *[[psilocybin-mushrooms]] of the World*. Ten Speed Press.

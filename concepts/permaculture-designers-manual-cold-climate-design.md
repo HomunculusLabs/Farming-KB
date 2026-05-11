@@ -7,14 +7,14 @@ tags: [permaculture, climate, season-extension, earth-building]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Cold Climate Design Strategies
-**Source:** Bill Mollison, Permaculture: A Designers' Manual (1988)
+**Source:** [[bill-mollison]], Permaculture: A Designers' Manual (1988)
 ## Overview
-In cold climates, the primary design challenges are heat retention, frost
+[[query-how-do-i-grow-figs-in-cold-climates]], the primary design challenges are heat retention, frost
 protection, food storage through winter, and managing snow and ice.
 Primarily carnivorous diets have a valid place in special ecologies such as
 areas of cold, where gardening cannot be a sufficient food base. A
 preliminary design choice is to choose house sites for the maximisation of
-solar radiation in subtropical to cool climates.
+solar radiation in subtropical to [[greenhouse-cool-climates-mollison]].
 ## Cool Climate House Design
 ### Orientation and Shape
 - Houses should be no more than two rooms (10 m) deep on the north/south
@@ -48,7 +48,7 @@ solar radiation in subtropical to cool climates.
 - Double entries essential in areas of cold winds and blizzards
 - In alpine and snowy areas, farm housing conjoined to barns, feed
   storages, and fuel storage
-- Cellar storage of house food essential
+- [[mollison-designers-cold-caves-root-cellar-storage]] of house food essential
 - Deep placement (1-1.5 m) of all water lines
 - Dense, sun-facing tiers of housing are the most economical systems for
   [[mollison-designers-passive-solar-heating-building-design]] in cities or cold deserts
@@ -70,7 +70,7 @@ solar radiation in subtropical to cool climates.
 - Loess soils (50-80% silica) used for underground housing in China
 ## Cold Climate Gardens
 ### The Winter Food Gap
-The middle of spring is the "hungry gap" when winter crops are finished and
+The middle of spring is the "hungry gap" when [[coleman-semi-hibernating-winter-crops-harvest-extension]] are finished and
 new crops not yet yielding. The winter food gap is bridged by:
 - **Root crops:** potato, parsnip, carrot, oca, sunroot (Jerusalem
   artichoke), onions
@@ -82,32 +82,11 @@ new crops not yet yielding. The winter food gap is bridged by:
 - First months of spring: [[hamilton-salad-vegetables-organic]] and all summer crop
 - Last month of summer / first month of autumn: all over-winter crop and
   root crops
-- Milder areas: green manure sown before winter (oats, tares, fava beans),
+- Milder areas: [[coleman-mobile-greenhouse-green-manure-soil-building]] sown before winter (oats, tares, fava beans),
   slashed or dug-in in spring
 ### Storage Methods
 - **Potatoes:** stored in straw or ash in dark boxes or humid cellars
 - **Carrots and parsnips:** mounds of sand or ash, tops removed
 - **Apples:** separately wrapped or spread on attic floors (never stored
-  with root crop due to ethylene production)
-- **Cabbage/kale:** covered with hay in open, as sauerkraut in jars, or
-  frozen
-### Perennialising Annuals
-- **Carrots:** cut disc off top, sprout on wet paper, replant
-- **Leeks:** let one in four go to seed, remove bulbils, replant
-- **Cabbage:** cut head 8 cm above ground, deeply crosscut stem for four
-  small regrowths
-## Greenhouse and Season Extension
-Chicken-heated greenhouses for short-season mountain areas use body heat
-from poultry to extend growing season. Glasshouses save up to 80% of fuel
-energy, particularly important in cold continental interiors. Small
-glasshouse for seedling trays and a series of cloches for early transplants
-are essential cold climate investments.
-## See Also
-- [[permaculture-designers-manual-cold-climate-greenhouse]] - Cold climate
-  [[passive-solar-design]]
-- [[permaculture-designers-manual-temperate-climate-design]] - Temperate
-  zone strategies
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - [[holzer-frost-protection-techniques]]
-  methods
-- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-  - Core [[holmgren-permaculture-twelve-design-principles-framework]]
+
+See also [[permaculture-designers-manual-highland-design]] for related information from the Permaculture Designer's Manual.

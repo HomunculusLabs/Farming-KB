@@ -6,7 +6,7 @@ type: species
 tags:
   - conifer
   - toxic
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
   - taxol
   - ethnobotany
@@ -74,7 +74,7 @@ The primary toxins are **taxine alkaloids**, particularly taxine B:
 - **Taxine B (C₃₅H₄₇NO₁₀):** Cardiotoxic diterpenoid alkaloid; blocks cardiac
   sodium and calcium channels, causing arrhythmia and asystole
 - **Taxine A:** Less abundant, similar mechanism of action
-- **Ephedrine:** Present in small quantities in some populations
+- **[[ephedrine]]:** Present in small quantities in some populations
 - **Taxol (paclitaxel, C₄₇H₅₁NO₁₄):** Diterpenoid in bark and needles; inhibits
   microtubule depolymerization, arresting cell division
 
@@ -88,30 +88,3 @@ tachycardia progressing to cardiac arrest within hours.
 **Paclitaxel (Taxol):** Originally isolated from *T. brevifolia* (Pacific yew), the
 compound is now produced semi-synthetically from precursors in *T. baccata* needles
 —a sustainable source that avoids harvesting bark from endangered species.
-
-- **Mechanism:** Binds β-tubulin, stabilizing microtubules, preventing mitosis
-- **Indications:** Ovarian, breast, lung, and pancreatic cancers; [[blesching-cannabis-kaposi-sarcoma]]
-- **Market:** Annual global market exceeding $4 billion at peak; now generic
-
-Traditional European use of yew was limited by its toxicity, but some folk
-traditions used minute aril preparations for rheumatism and as a purgative.
-
-## Ecological Role and Permaculture
-
-- **Wildlife:** Arils are consumed by blackbirds, thrushes, and waxwings, which
-  disperse seeds intact (the toxin is in the seed, not the aril)
-- **Soil:** Deep roots stabilize slopes; fallen needles acidify surface soil
-- **Hedging:** Dense, shade-tolerant, and responsive to clipping; the traditional
-  European hedgerow conifer for 500+ years
-- **Pitfalls for permaculture:** Extreme toxicity to livestock and children
-  limits its use in food-producing systems; best suited to boundary hedging,
-  windbreaks, and ornamental roles
-
-The yew's combination of extreme longevity, shade tolerance, and hedging capacity
-makes it valuable in designed landscapes where toxicity risk is managed.
-
-## See Also
-
-- [[cicuta-maculata]] — Water hemlock, another extremely toxic plant
-- [[atropa-belladonna]] — [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]], cardiotoxic alkaloid parallel
-- [[nicotine]] — Nicotine, plant-derived neurotoxin with medicinal history

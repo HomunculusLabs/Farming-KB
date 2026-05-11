@@ -12,7 +12,7 @@ nationality: American
 fields:
   - polygraphy
   - parapsychology
-  - plant-perception
+  - [[plant-perception]]
 tags:
   - primary-perception
   - backster-effect
@@ -29,7 +29,7 @@ polygraph examiner and interrogation specialist best known for his controversial
 claims about "[[mycelium-running-partnerships-with-plants]], eggs, and human cells, conducted using
 polygraph instrumentation, made him one of the most prominent figures in fringe
 science and parapsychology. His work was popularized through Peter Tompkins and
-Christopher Bird's bestselling *The Secret Life of Plants* (1973) and remains a
+Christopher Bird's bestselling *[[plant-communication-volatile-organic-compounds]] of Plants* (1973) and remains a
 cultural reference point in discussions about plant intelligence and the
 boundaries [[psychedelic-research-legal-history-united-states]] Navy and was assigned to the Counter
 Intelligence Corps, where he first encountered lie detection technology. His
@@ -70,7 +70,7 @@ moment he formed the conscious intention to burn the leaf — before any physica
 movement toward the plant. When he merely pretended to go for matches without
 genuine intent to harm, the plant showed no reaction. On subsequent actual burn
 attempts, the plant's response diminished, which Backster interpreted as
-habituation. He coined the term "primary perception" to describe his theory
+habituation. He coined the term "[[tompkins-cleve-backster-primary-perception]]" to describe his theory
 that all living cells communicate at a fundamental biocommunicative level,
 responding to threats and emotional states across distances.
 
@@ -88,44 +88,3 @@ conducting what he reported as more than 10,000 hours of experimentation:
   stimuli — even when separated by miles.
 - **Yogurt cultures and distance experiments:** Reported that plant and cell
   responses persisted across significant distances, suggesting the effect was
-  not electromagnetic but potentially some form of nonlocal biocommunication.
-
-## Scientific Reception and Criticism
-
-Backster published preliminary findings in the *International Journal of
-Parapsychology* (1968) and presented at the Parapsychological Association
-conference the same year. However, the mainstream scientific community has not
-accepted the Backster Effect as a valid phenomenon:
-
-- **Kenneth A. Horowitz (1975):** A Cornell graduate student who found no
-  evidence of the effect under controlled conditions, publishing negative
-  results in *Science*.
-- **John Kmetz (1977–1978):** Concluded that observed effects could be
-  explained by instrument artifacts — changes in electrode contact, humidity
-  fluctuations, temperature shifts, or mechanical vibrations affecting the
-  extremely sensitive polygraph equipment.
-- **Arthur W. Galston:** A Yale botanist who noted that plants lack a nervous
-  system and that no known biological mechanism could account for the claimed
-  perception abilities.
-- **James Randi:** Noted that the polygraph's sensitivity could detect minute
-  electrical changes from the experimenter's breathing, body heat, static
-  electricity, or unconscious physical movements.
-
-Critics identified methodological deficiencies: lack of proper controls,
-absence of double-blind protocols, inadequate sample sizes, and failure to
-apply statistical analysis.
-
-## Publications and Legacy
-
-Backster's primary published work was his self-published book *Primary
-Perception: Biocommunication with Plants, Living Foods, and Human Cells*
-(2003). His 1968 article in the *International Journal of Parapsychology*
-remains his only peer-reviewed publication on the subject. He was featured in
-*Popular Science*, *Psychology Today*, and the 1979 documentary film *The
-Secret Life of Plants* (directed by Walon Green, soundtrack by Stevie Wonder).
-
-Backster's work introduced the concept of plant consciousness to a massive
-popular audience and influenced environmental and [[jagadis-chandra-bose]] — Historical precursor who pioneered plant
-  electrophysiology research using sensitive instruments
-- [[mimosa-pudica]] — The sensitive plant, used as a model organism in plant
-  perception research including Backster's experiments

@@ -52,13 +52,13 @@ Spores are cylindrical to ellipsoid, measuring 5–7 × 2–3 µm, smooth, and h
 
 Panus conchatus has a broad distribution across temperate Europe and Asia.
 
-It is also reported from North America, though records there are less common and sometimes disputed.
+It is also reported from [[guzman-psilocybin-mushrooms-north-america]], though records there are less common and sometimes disputed.
 
 The species fruits in late summer through autumn, typically from August to November.
 
 It grows saprotrophically on dead hardwood, especially oak, beech, ash, and birch.
 
-Fruiting bodies may appear in clusters or individually on fallen branches, logs, and stumps.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] may appear in clusters or individually on fallen branches, logs, and stumps.
 
 It prefers moist, shaded woodland habitats with well-decayed woody substrates.
 
@@ -70,7 +70,7 @@ It has been investigated experimentally as a candidate for cultivation on lignoc
 
 Like other Panus species, it readily colonizes sawdust-based substrates supplemented with bran.
 
-Fruiting requires high humidity and cooler temperatures, similar to conditions for Pleurotus species.
+Fruiting requires high humidity and cooler temperatures, similar to conditions for [[pleurotus-species]].
 
 [[stamets-biological-efficiency-yield]] is moderate, estimated at 30–50% on hardwood sawdust.
 
@@ -86,40 +86,4 @@ Lanostane-type triterpenes have been isolated from the fruiting bodies.
 
 These triterpenes show moderate anti-inflammatory activity in cell-based assays.
 
-The species also produces phenolic compounds contributing to its antioxidant capacity.
-
-Antibacterial activity has been observed against Gram-positive bacteria in preliminary studies.
-
-Further pharmacological investigation is needed to validate these preliminary findings.
-
-## Ecological Role
-
-As a white-rot fungus, Panus conchatus plays an important role in forest carbon cycling.
-
-It degrades lignin and cellulose in dead hardwood, contributing to nutrient recycling.
-
-The species is part of the saprotrophic [[air-pollution-fungal-community-responses]] on fallen timber in mixed forests.
-
-It may compete with other wood-decay fungi for substrate colonization.
-
-Its preference for well-decoded wood suggests a secondary colonizer strategy.
-
-## Related Species
-
-Panus tigrinus (the tiger sawgill) is a closely related species with a similar habitat.
-
-Panus lecomtei is a tropical Asian species with a more consistently violet coloration.
-
-Lentinus crinitus shares the lignicolous habit but has conspicuous hairy caps.
-
-Pleurotus ostreatus ([[cotter-oyster-mushroom-cultivation]]) occupies a similar ecological niche.
-
-Panus conchatus is distinguished from Pleurotus species by its tougher, leathery flesh.
-
-## See Also
-
-- [[pleurotus-ostreatus]]
-- [[trametes-versicolor-entity]]
-- [[laetiporus-sulphureus]]
-- [[coprinus-comatus]]
-- [[agaricus-bisporus]]
+The species also produces [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] contributing to its antioxidant capacity.

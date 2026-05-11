@@ -88,29 +88,3 @@ Growth rings in the woody stems are poorly defined due to the absence of distinc
 *Larrea nitida* Cav. is another South American species with a more restricted range in the Atacama Desert. It is distinguished by its glossy leaf surface and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
 
 ## Ecological Role and Permaculture Value
-
-Creosote bush is a keystone species in North American warm desert ecosystems. It provides shade and microhabitat for numerous desert organisms, including burrowing rodents, reptiles, and insects.
-
-The species is nitrogen-fixing through an association with actinorhizal bacteria (*Frankia* spp.) in its root nodules. This makes it a valuable component of desert restoration and permaculture systems in arid regions.
-
-However, its strong allelopathic activity limits understory development beneath mature shrubs. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], creosote bush is best used as a perimeter windbreak or pioneer species rather than within polyculture plantings.
-
-Dried creosote foliage can be used as a mulch with insecticidal and fungicidal properties, though the allelopathic chemicals may inhibit seed germination of desired understory species.
-
-In desert agroforestry systems, creosote bush interplanted with mesquite (*Prosopis glandulosa*) and palo verde (*Parkinsonia florida*) creates a multi-layered windbreak that reduces soil erosion and evaporation.
-
-## Legal Status and Conservation
-
-*Larrea tridentata* is not listed as threatened or endangered. Its vast range and ecological dominance ensure stable populations across all three North American warm deserts.
-
-Commercial harvesting of chaparral for herbal supplements has raised concerns about local overharvesting, particularly in the Sonoran Desert where collection pressure is highest. Several U.S. states regulate commercial collection on public lands.
-
-The sale of chaparral as a dietary supplement is permitted in the United States under DSHEA, but the FDA has mandated warning labels regarding hepatotoxicity since 1992. Health Canada has prohibited the sale of chaparral-containing products as food.
-
-## See Also
-
-- [[opuntia-ficus-indica]]
-- [[trametes-versicolor-entity]]
-- [[glycyrrhiza-uralensis]]
-- [[schisandra-chinensis]]
-- [[rhodiola-rosea]]

@@ -87,34 +87,3 @@ Bay 11 is a versatile medical strain with applications for:
 ## Cultivation Tips
 
 Based on the breeder's recommendations and observed characteristics:
-
-1. Provide structural support early—don't wait until flowering to stake or trellis
-2. Keep lights close during the vegetative stage to minimize legginess indoors
-3. For outdoor grows, give the plants room to reach their full potential
-4. Monitor for mold in the later stages of flowering due to dense bud formation
-5. Allow a full 9-10 weeks of flowering indoors; don't rush the harvest
-6. Plan outdoor harvests for late October and have protection ready for early rain
-7. Consider LST (low stress training) to manage height and create an even canopy
-8. The strain performs well in both organic soil and hydroponic setups
-9. Heavy feeding during flowering supports the large bud development
-
-## Comparison with Related Strains
-
-Bay 11 comes from the same breeder as Grand Daddy Purp, but the two strains are quite different:
-- Grand Daddy Purp is indica-dominant and known for its purple coloration and relaxing effects
-- Bay 11 is sativa-dominant, with energetic effects and a more colorful (green/white/orange/blue) palette
-- Both share the heavy yield potential and medical focus characteristic of Granddaddy Purp Genetics
-
-## Market Position
-
-Bay 11 occupies a specific niche in the California medical cannabis market:
-- It bridges the gap between heavy-yielding commercial strains and high-quality medical genetics
-- The award-winning status provides brand recognition and consumer confidence
-- The sweet, fruity flavor profile appeals to patients who find harsher strains unpleasant
-- The daytime-appropriate effects make it suitable for patients who need relief without impairment
-- Outdoor yields are among the highest of any sativa-dominant strain in its class, making it attractive to commercial growers who need volume alongside quality
-- The strain's combination of visual appeal, flavor, and potency makes it a strong candidate for competition entries and connoisseur markets
-
-## Summary
-
-Bay 11 represents Granddaddy Purp Genetics' successful expansion beyond their signature indica into sativa-dominant territory. With its award-winning status, exceptional outdoor yields (up to 2,500g per plant), and targeted medical applications for chronic pain, appetite disorders, and sleep conditions, Bay 11 has earned its place among the notable California sativa strains. Its primary limitation is the late October outdoor finish date, which restricts it to regions with long, dry autumns. For indoor growers with adequate space and support systems, Bay 11 delivers heavy yields of visually stunning, medically potent buds in a manageable 9-10 week flowering window. (see [[tropicana-cookies]]).

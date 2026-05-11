@@ -88,33 +88,3 @@ beyond simple growth rate enhancement.
 
 The annulus is a remnant of the partial veil covering gills during
 early development. Its suppression indicates altered timing or
-expression of veil-related developmental processes, suggesting
-brassinosteroids interact with fungal developmental gene regulation
-in ways paralleling their effects on plant development.
-
-## Future Research Directions
-
-The spectrum of responsive fungal species has not been surveyed.
-It is unknown whether effects extend to commercial species like
-[[agaricus-bisporus]], [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], or [[lentinula-edodes]].
-Molecular mechanisms in fungi require elucidation, and resistance
-development potential with repeated use has not been studied.
-
-Research should explore whether brassinosteroids occur naturally in
-fungal tissue, suggesting an endogenous physiological role.
-Interaction with other growth-promoting substances used in mushroom
-cultivation (vegetable oils, mineral supplements) also warrants
-investigation. Synergistic or antagonistic effects between
-brassinosteroids and these additives could significantly impact
-practical cultivation protocols.
-
-## See Also
-
-- [[22s-23s-homobrassinolide]]
-- [[psilocybe-cubensis-mycelial-growth-optimization]]
-
-## References
-
-1. Gartz, J., Adam, G., & Vorbrodt, H.-M. (1990). Naturwissenschaften, 77, 388-389.
-2. Yokota, T. & Takahashi, N. (1986). Plant Growth Substances, p. 129. Springer.
-3. Adam, G. & Marquardt, V. (1986). Phytochemistry, 25, 1787.

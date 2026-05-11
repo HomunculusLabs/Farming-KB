@@ -17,7 +17,7 @@ Hyphal anastomosis — the fusion of hyphae from the same or different fungal in
 ### Types of Anastomosis
 
 1. **Vegetative (somatic) fusion**: Hyphal fusion between vegetative hyphae of the same mycelium (self-fusion) or between compatible colonies of the same species.
-2. **Parasexual fusion**: Fusion leading to nuclear migration and genetic recombination without meiosis.
+2. **Parasexual fusion**: Fusion leading to [[clamp-connection-formation-and-nuclear-migration]] and genetic recombination without meiosis.
 3. **Sexual fusion**: Fusion of specialized hyphal structures (gametangia) during the sexual cycle, leading to karyogamy and meiosis.
 4. **Heterokaryon formation**: Fusion resulting in a mycelium containing genetically distinct nuclei.
 
@@ -53,14 +53,14 @@ When incompatible hyphae undergo fusion, the incompatibility reaction is trigger
 
 1. **Het gene product interaction**: When het alleles from different individuals are brought into common cytoplasm, their protein products interact. In some systems, het proteins form heterodimeric complexes that are toxic.
 2. **Programmed cell death (PCD)**: Incompatible fusion triggers a PCD-like response. Vacuolar collapse, cytoplasmic coagulation, and septal plugging occur within minutes to hours of fusion.
-3. **Reactive oxygen species (ROS)**: The incompatibility reaction generates a burst of ROS that contributes to cell death at the fusion point.
+3. **[[reactive-oxygen-species-and-oxidative-stress]] (ROS)**: The incompatibility reaction generates a burst of ROS that contributes to cell death at the fusion point.
 4. **Hyphal compartmentalization**: Septa near the fusion site rapidly plug with Woronin bodies (in ascomycetes) or other occlusion structures, isolating the damaged compartment.
 
 The end result is a characteristic "barrage" or "clear zone" — an area of dead or arrested hyphae at the confrontation zone between incompatible colonies.
 
 ### The NIP1/HET-C Paradigm
 
-In *Neurospora crassa*, the best-characterized het system involves the het-c and het-6/vic-2 loci:
+In *[[neurospora-crassa]]*, the best-characterized het system involves the het-c and het-6/vic-2 loci:
 
 - **HET-C**: A glycine-leucine-rich (GLR) protein with a HET domain. Different HET-C alleles encode variant GLR repeats.
 - **HET-6**: A protein containing a HET domain and a coiled-coil region.
@@ -68,7 +68,7 @@ In *Neurospora crassa*, the best-characterized het system involves the het-c and
 
 ### Toll/IL-1 Receptor (TIR) Domain Proteins
 
-Recent work has revealed that many het loci encode proteins with TIR (Toll/Interleukin-1 Receptor) domains. In animals and plants, TIR domains are central to innate immune signaling. In fungi, TIR-domain het proteins appear to function as intracellular immune sensors that detect "non-self" het alleles and activate cell death pathways. The structural similarity to animal immune receptors suggests deep evolutionary conservation of innate immunity mechanisms.
+Recent work has revealed that many het loci encode proteins with TIR (Toll/Interleukin-1 Receptor) domains. In animals and plants, TIR domains are central to innate immune signaling. In fungi, TIR-domain het proteins appear to function as intracellular immune sensors that detect "non-self" het alleles and activate cell death pathways. The structural similarity to animal immune receptors suggests deep evolutionary conservation of [[plant-innate-immunity-pti-eti-defense]] mechanisms.
 
 ## Functional Significance of Self-Non-Self Recognition
 
@@ -86,54 +86,5 @@ The primary function of vegetative incompatibility is to protect fungal individu
 In many plant pathogenic fungi, vegetative incompatibility directly affects virulence:
 
 - **Cryphonectria parasitica** (chestnut blight): Hypovirulent strains containing the Cryphonectria hypovirus 1 (CHV1) are used as biocontrol agents. CHV1 spreads through anastomosis, but only within compatible VCGs. Natural populations of *C. parasitica* are subdivided into many VCGs, limiting the spread of hypovirulence. The effectiveness of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] depends on the diversity and distribution of VCGs in the target population.
-- **Fusarium oxysporum**: VCG structure determines the potential for horizontal gene transfer of pathogenicity chromosomes. Horizontal chromosome transfer between strains within the same VCG has generated new pathogenic lineages.
-- **Verticillium dahliae**: Vegetative compatibility affects the formation and stability of microsclerotia (survival structures), which influence disease epidemiology.
-
-### Genetic Exchange and Evolution
-
-Vegetative incompatibility creates a tension between two competing evolutionary forces:
-
-- **Restriction of gene flow**: Incompatibility barriers maintain genetic diversity by preventing fusion between divergent individuals.
-- **Facilitation of gene flow**: Within VCGs, hyphal anastomosis enables horizontal gene transfer, including the exchange of entire chromosomes, mitochondrial genomes, and mycoviruses.
-
-The balance between these forces shapes fungal population structure, with VCG diversity being a key determinant of genetic connectivity.
-
-## Anastomosis in Mycorrhizal Networks
-
-### Arbuscular Mycorrhizal Fungi (AMF)
-
-AMF form extensive hyphal networks that connect multiple plant roots. Hyphal anastomosis between AMF networks enables:
-
-- **[[mycelial-network-resource-sharing-plants]]**: Carbon, phosphorus, and nitrogen can move between plants through common mycorrhizal networks (CMNs).
-- **Signal transmission**: Defense signals (systemic acquired resistance elicitors) can propagate through CMNs, warning neighboring plants of pathogen attack.
-- **[[gadd-mycelial-network-resilience-graph-theory]]**: Anastomosis creates redundancy, so damage to part of the network doesn't isolate individual plants.
-
-AMF anastomosis is less genetically restrictive than in many saprophytic fungi, potentially because the asexual lifestyle of most AMF species has reduced the selective pressure for maintaining diverse het loci. However, some degree of compatibility sorting still occurs.
-
-### Ectomycorrhizal Networks
-
-Ectomycorrhizal fungi form extensive underground networks that connect trees in forests. The "wood wide web" concept describes these networks as communication and resource-sharing systems. Hyphal anastomosis between different individuals of the same ectomycorrhizal species enables the formation of large, genetically heterogeneous networks that can span hundreds of meters. The extent of genetic compatibility within these networks remains an active research question.
-
-## Biotechnological Applications
-
-### Strain Improvement
-
-Vegetative compatibility testing is essential in fungal strain improvement programs:
-
-- **Protoplast fusion**: Forcing fusion between incompatible strains requires bypassing het systems, often through polyethylene glycol (PEG)-mediated protoplast fusion or electrofusion.
-- **Heterokaryon breeding**: Creating heterokaryons between strains with desirable traits (e.g., high enzyme production + fast growth) requires compatibility at all het loci.
-
-### Biocontrol
-
-Understanding VCG structure in pathogenic populations is essential for designing biocontrol strategies using hypovirulent strains. VCG typing is a standard tool in chestnut blight management.
-
-### Mycovirus Transmission
-
-Manipulating vegetative compatibility to control mycovirus spread has potential for managing fungal diseases. Conversely, deliberate transmission of beneficial mycoviruses (e.g., those that reduce pathogen virulence) requires understanding anastomosis compatibility.
-
-## See Also
-
-- [[amf-hyphal-anastomosis-self-recognition]]
-- [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]]
-- [[arbuscular-mycorrhizal-networks]]
-- [[wood-wide-web]]
+- **[[fusarium-oxysporum]]**: VCG structure determines the potential for horizontal gene transfer of pathogenicity chromosomes. Horizontal chromosome transfer between strains within the same VCG has generated new pathogenic lineages.
+- **[[verticillium-dahliae]]**: Vegetative compatibility affects the formation and stability of microsclerotia (survival structures), which influence disease epidemiology.

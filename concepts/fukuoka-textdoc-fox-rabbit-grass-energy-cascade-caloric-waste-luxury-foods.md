@@ -87,38 +87,3 @@ The energy loss at each trophic level follows a consistent pattern:
 When these percentages are multiplied through a food chain, the cumulative loss is staggering. A 10,000-calorie investment in grass yields roughly 1,000 calories of rabbit meat, which yields roughly 100 calories of fox tissue. The other 9,900 calories are dissipated as heat, movement, and waste at each conversion step.
 
 ## The Bantam vs. Leghorn: A Detailed Comparison
-
-The comparison between Japanese Bantam and White Leghorn deserves closer examination:
-
-- **Japanese Bantam**: One small egg every other day when free-ranging; breeding pair produces flock of 10-20 birds per year; feeds itself entirely; zero purchased inputs; net caloric producer
-- **White Leghorn**: One large egg daily in cage; requires feed grain with twice the caloric value of eggs produced; requires housing, heating, veterinary care; net caloric deficit
-
-The Bantam appears less productive only if you count eggs per bird per day while ignoring all inputs. When the full energy accounting is done — including the energy cost of growing, transporting, and processing feed grain — the Bantam produces vastly more food energy per unit of human labor invested.
-
-## Why Genetics Cannot Solve Thermodynamics
-
-The modern response to [[fukuoka-livestock-energy-inefficiency-caloric-cost]] inefficiency has been genetic improvement — breeding larger, faster-growing animals that convert feed more efficiently. But this approach cannot overcome the fundamental thermodynamic constraint. Even a theoretically perfect animal that converted 50% of its feed into edible tissue would still represent a net energy loss compared to eating the feed directly.
-
-The resources devoted to genetic improvement programs — research facilities, breeding stock, feed trials, veterinary infrastructure — all represent additional energy expenditures. The harder humanity works to make animal agriculture efficient, the more energy it wastes on the effort itself.
-
-## The Net Energy Equation
-
-When the full energy accounting is done, the net energy return of animal agriculture is often negative. The feed grain must be grown using fossil fuel energy for fertilizer, machinery, irrigation, and processing. It must then be transported to the livestock operation, where more energy is consumed in feeding, housing, and processing the animals. The final product contains fewer usable calories than were invested in producing it.
-
-This negative energy return is masked by economic accounting that prices feed grain at market rates rather than at its full energy cost. If the fossil fuel energy embedded in feed grain production were included in the calculation, the net energy deficit of animal agriculture would be even larger. The economics appear favorable only because the energy subsidies are hidden in the price of fossil fuels, which are themselves underpriced because their environmental costs are not included.
-
-## Implications for Natural Diet
-
-This energy analysis supports Fukuoka's argument for a grain-based natural diet. The minor grains — millet, buckwheat, Job's tears — deserve attention not only as prototypic health foods essential for maintaining physical well-being, but as the most energy-efficient foods available. They also played a vital role as coarse organic matter essential for soil preservation, a dual function lost when agriculture shifted to feed grain monocultures for livestock.
-
-A diet based on grains and vegetables, supplemented by small amounts of animal products from free-ranging animals that feed themselves, represents the optimal balance between human caloric needs and the energy budgets of natural systems.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]]
-- [[fukuoka-livestock-energy-inefficiency-caloric-cost]]
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
-- [[fukuoka-critique-modern-livestock]]
-- [[fukuoka-textdoc-natural-livestock-caloric-efficiency]]

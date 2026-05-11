@@ -1,5 +1,5 @@
 ---
-title: "Cytochrome P450 Enzymes — Drug Metabolism and Xenobiotic Biotransformation"
+title: Cytochrome P450 Enzymes Drug Metabolism
 created: 2026-04-28
 updated: 2026-05-06
 tags: [biochemistry, pharmacology, drug-metabolism, enzymology, toxicology]
@@ -45,7 +45,7 @@ the substrate, ultimately yielding the hydroxylated product.
 CYP1A1 and CYP1A2 metabolize planar aromatic compounds
 including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and heterocyclic
 amines. CYP1A2 is constitutively expressed in the liver and
-metabolizes caffeine, theophylline, and acetaminophen. Both
+metabolizes [[caffeine]], theophylline, and acetaminophen. Both
 enzymes are transcriptionally activated by the aryl
 hydrocarbon receptor (AhR) pathway, which upregulates
 expression upon exposure to dioxins and cigarette smoke.
@@ -56,7 +56,7 @@ The CYP2 family is the largest and most diverse in humans.
 CYP2D6 metabolizes approximately 25% of all drugs, including
 beta-blockers, antidepressants, and opioid analgesics.
 CYP2C9 metabolizes warfarin, phenytoin, and NSAIDs. CYP2C19
-metabolizes proton pump inhibitors, clopidogrel, and certain
+metabolizes [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]] inhibitors, clopidogrel, and certain
 antidepressants. These enzymes exhibit extensive genetic
 polymorphism, producing poor, intermediate, extensive, and
 ultrarapid metabolizer phenotypes with significant clinical
@@ -88,30 +88,3 @@ are the basis for FDA pharmacogenomic labeling and clinical
 [[cannabis-dosing-guidelines-by-condition]] for dozens of drugs.
 
 ## Drug-Drug Interactions
-
-CYP-mediated drug interactions are a major cause of adverse
-drug events. Inhibition can be reversible (competitive),
-quasi-irreversible (mechanism-based), or irreversible
-(suicide inhibition). Classic inhibitors include
-ketoconazole (CYP3A4), quinidine (CYP2D6), and fluconazole
-(CYP2C9). Induction requires new enzyme synthesis over days
-to weeks. Rifampin potently induces CYP3A4 and CYP2C9,
-reducing plasma concentrations of oral contraceptives,
-immunosuppressants, and many other co-administered drugs.
-
-## Role in Toxicology and Carcinogenesis
-
-Beyond drug metabolism, CYP enzymes activate many
-procarcinogens into reactive electrophilic intermediates
-that form DNA adducts. CYP1A1 activates benzo[a]pyrene from
-tobacco smoke. CYP2E1 activates acetaminophen into the
-hepatotoxic metabolite NAPQI, normally detoxified by
-[[lignin-degradation]]. The expansion of CYP families in
-different lineages reflects adaptation to diverse ecological
-niches and chemical environments.
-
-## See Also
-
-- [[glutathione-biochemistry-and-redox-biology]]
-- structure activity relationship medicinal chemistry
-- [[enzyme-kinetics-michaelis-menten-model]]

@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-"The dragonfly will be the messiah" is a philosophical statement by Masanobu Fukuoka,
+"The dragonfly will be the messiah" is a philosophical statement by [[masanobu-fukuoka]],
 appearing at the conclusion of Chapter 1 of *Sowing Seeds in the Desert*. It encapsulates
 his conviction that true salvation for humanity lies not in religious doctrine, sacred
 scriptures, or institutionalized belief systems, but in a direct, unmediated relationship
@@ -29,7 +29,7 @@ The "dragonfly as messiah" concept emerges from Fukuoka's broader critique of hu
 intellectual alienation from nature, which he traces to the dawn of discriminating
 knowledge. In the same chapter, Fukuoka recounts his transformative experience at age
 twenty-five, when, after a bout of pneumonia and a night of aimless wandering, the cry
-of a [[fukuoka-night-heron-revelation-origin-story|night heron]] awakened him to what
+of a [[fukuoka-night-heron-revelation-origin-story]] awakened him to what
 he calls "true nature." In that moment, he perceived the world with an empty mind and
 saw that the natural world before him was "the only deity I would ever worship."
 
@@ -83,18 +83,8 @@ Fukuoka's position resonates with several strands of [[fukuoka-western-eastern-p
 
 - **Zen Buddhism**: The emphasis on direct perception, the rejection of scriptures and
   conceptual thinking, and the value of an "egoless state" all align with Zen. Fukuoka
-  explicitly references the [[fukuoka-do-nothing-farming-philosophy-and-practice|"do-nothing"  farming]] method.
+  explicitly references the [[fukuoka-do-nothing-farming-philosophy-and-practice]] method.
 
 - **Buddhist rejection of intellectual knowledge**: Fukuoka notes that "the religion
   of Buddhism rejects knowledge acquired through the human intellect as nothing more
   than illusion," comparing this to the Western myth of the [[allegro-garden-of-eden-and-delight]], where
-  eating from the Tree of Knowledge led to humanity's banishment.
-
-## Connection to [[fukuoka-natural-farming-philosophy|Natural Farming Philosophy]]
-- [[fukuoka-mu-nothingness-philosophy|Philosophy of Mu (Nothingness)]]
-- [[fukuoka-errors-human-intellect|Errors of Human Intellect]]
-- Cave of the Intellect
-
-## See Also
-
-- [[bromo-dragonfly]]

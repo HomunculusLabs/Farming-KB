@@ -39,7 +39,7 @@ Archaeological evidence indicates that C. esculentus was cultivated in ancient E
 
 The genus Cyperus is one of the largest genera of monocots, with over 600 species worldwide.
 
-C. esculentus is part of the Cyperus rotundus species complex and exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range.
+C. esculentus is part of the [[cyperus-rotundus]] species complex and exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range.
 
 Several infraspecific taxa and cultivated varieties have been described, particularly in West Africa and the Mediterranean.
 
@@ -65,7 +65,7 @@ Cyperus esculentus has a nearly [[four-groups-neurotropic-fungi-global-distribut
 
 It is believed to be native to Africa, the Mediterranean, and southern Asia, though its exact origin is debated due to ancient cultivation.
 
-The species has been introduced widely and is now naturalized in the Americas, Australia, and Pacific islands.
+The species has been introduced widely and is now naturalized in the Americas, Australia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 As a weed, it is particularly problematic in maize, cotton, peanut, and vegetable crops in warm climates.
 
@@ -88,53 +88,3 @@ Dietary fiber content is high, with significant amounts of resistant starch.
 Mineral content includes potassium, phosphorus, calcium, magnesium, and iron in meaningful quantities.
 
 Vitamin E (tocopherols) and vitamin C are present at moderate levels.
-
-The tubers are naturally gluten-free, making tigernut-derived products suitable for celiac diets.
-
-Tigernut milk (horchata) provides a plant-based alternative to dairy milk with favorable sensory properties.
-
-## Culinary and Traditional Uses
-
-In Valencia, Spain, tigernut tubers are the exclusive ingredient in horchata de chufa, a sweet, milky beverage consumed since the 13th century.
-
-The tubers are dried, cleaned, soaked, ground, and mixed with water and sugar to produce the drink.
-
-In West Africa, particularly Nigeria, tigernut is consumed fresh as a snack, roasted, or processed into milk and flour.
-
-Nigerian "kunu aya" is a traditional fermented beverage made from tigernut tubers.
-
-Tigernut flour is increasingly used in gluten-free baking as a substitute for wheat flour.
-
-The oil pressed from the tubers has culinary applications similar to olive or groundnut oil.
-
-In ancient Egypt, tubers were roasted and used as a sweet food and in the production of beer.
-
-Modern applications include tigernut-based ice cream, yogurt alternatives, and energy bars.
-
-## Cultivation
-
-Cultivated tigernut is typically planted from whole tubers or tuber segments in spring after soil temperatures reach 15°C.
-
-Planting density ranges from 30,000 to 50,000 tubers per hectare, depending on soil fertility and cultivar.
-
-The crop requires a [[savory-growing-season-and-non-growing-season-management]] of approximately 90–120 days from planting to tuber maturity.
-
-Irrigation is essential for commercial production, particularly during tuber-filling stages.
-
-Harvest involves lifting tubers from the soil, traditionally by hand but increasingly with mechanical harvesters.
-
-Yields of cultivated varieties range from 8–15 tonnes of fresh tubers per hectare.
-
-Post-harvest, tubers are washed, dried, and stored in cool, dry conditions.
-
-A major cultivation challenge is volunteer weed emergence from incompletely harvested tubers in subsequent seasons.
-
-In [[fukuoka-weed-management-and-green-manure]] contexts, C. esculentus is notoriously difficult to control due to its extensive tuber bank.
-
-## See Also
-
-- [[colocasia-esculenta]]
-- [[maranta-arundinacea]]
-- [[manihot-esculenta]]
-- typha-latifolia-entity
-- [[lathyrus-tuberosus]]

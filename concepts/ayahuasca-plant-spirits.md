@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca Plant Spirits and [[spirit-mothers-of-plants]]
+title: Ayahuasca Plant Spirits
 source: ayahuasca-visions
 topics:
   - plant-spirits

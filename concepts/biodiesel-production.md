@@ -3,17 +3,17 @@ title: Biodiesel Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
+tags: [[homesteading]], off-grid, chemistry, processing, sustainability, energy, safety]
 sources: []
 ---
 
 ## Overview
 
-Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a homestead scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost. (see [[homestead-dairy-equipment]]).
+Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a [[homestead-scale-assessment]], biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
 
 ## The Chemistry of Transesterification
 
-Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct. (see [[homestead-dairy-guide]]).
+Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
 
 The reaction:
 - Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
@@ -140,7 +140,7 @@ After washing, biodiesel contains suspended water droplets:
 ### Other Tests
 
 - **pH test** — Biodiesel should be neutral (pH 7). High pH indicates residual catalyst
-- **Cloud point** — The temperature at which biodiesel begins to gel. Important for cold climate use
+- **Cloud point** — The temperature at which biodiesel begins to gel. Important for [[cold-climate-farming-and-season-extension]] use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
 ## Glycerin Byproduct

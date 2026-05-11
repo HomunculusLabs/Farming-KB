@@ -87,17 +87,3 @@ Shifting to old-style spacing won't actually be a sacrifice. Instead of having t
 Instead of growing many small, crowded vegetables that take a longer time to harvest and clean, people will spend less time harvesting larger, more manageable produce. Species that produce an ongoing harvest over many weeks will yield surprisingly well when given room and then stopped (as they do in intensive beds from overcompetition).
 
 ## Soil Preparation for Unirrigated Gardening
-
-### Dust Mulch
-
-Maintaining a "dust mulch" - a loose, dry surface layer of soil - is critical for unirrigated gardening. This dry surface layer prevents moisture from wicking up from deeper layers and evaporating. After each rain, go out with a hoe and loosen the surface of every accessible part of the garden. This allows the soil to fully accept the next chance shower and helps keep the moisture now in the earth from evaporating.
-
-### Organic Matter in the Surface
-
-It is vital that the surface inch (2.5 centimeters) or so of soil contains a fair amount of decomposed manure or compost. This will prevent crust formation and help form large stable crumbs that the wind won't blow away, creating the dust mulch.
-
-### Deep Soil Moisture
-
-Unirrigated gardening works only if the soil has been charged with moisture to considerable depth, if weed competition is minimal, and if the soil is kept loose at the surface. Winter rains and snowmelt must be allowed to charge the subsoil.
-
-## Drought Response Strategy

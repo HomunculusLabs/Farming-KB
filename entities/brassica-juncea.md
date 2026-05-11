@@ -87,32 +87,3 @@ The species' effectiveness stems from its high [[dighton-fungal-biomass-producti
 Phytoremediation applications include decontamination of industrial sites, mine tailings, and agricultural soils treated with sewage sludge. The harvested contaminated biomass requires appropriate disposal or processing — typically incineration or smelting for metal recovery.
 
 [[fukuoka-textdoc-genetic-engineering-critique-warning]] approaches have been explored to enhance the phytoremediation capacity of B. juncea. Transgenic lines overexpressing genes for metal chelation, transport, and sequestration have shown 2–3 fold increases in [[dighton-fungal-heavy-metal-accumulation-bioremediation]] compared to wild-type plants.
-
-## Cover Cropping and Soil Health
-
-Brassica juncea is widely used as a cover crop and green manure in sustainable agriculture systems. Its rapid growth produces substantial biomass that suppresses weeds and, when incorporated into soil, adds organic matter and releases nutrients.
-
-The species is valued as a **biofumigant** cover crop. When chopped and incorporated into soil, glucosinolate-containing tissues hydrolyze to release isothiocyanates — [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] toxic to soil-borne pathogens, nematodes, and weed seeds. This biofumigation effect has been documented against Pythium, Rhizoctonia, and Meloidogyne spp.
-
-Deep taproot growth (up to 1 meter) improves soil structure by breaking compacted layers and increasing water infiltration. The crop's ability to scavenge residual nitrogen from deep soil profiles reduces nitrate leaching between cash crop cycles.
-
-B. juncea as a cover crop is commonly followed by high-value vegetable crops or cereals in rotation sequences. In California and the Pacific Northwest, mustard cover crops are standard in organic strawberry and vegetable production systems.
-
-## Varieties and Breeding
-
-Three main subspecies are recognized based on morphology and use: subsp. **juncea** (oilseed and leaf types, erect growth), subsp. **integrifolia** (leaf types with entire leaf margins), and subsp. **napiformis** (root vegetable types producing turnip-like roots).
-
-Oilseed cultivars are classified by their fatty acid composition into high-erucic-acid types (for industrial oil) and low-erucic-acid types (LEA, for food-grade oil). LEA cultivars were developed through conventional breeding and contain less than 2% erucic acid.
-
-Leaf vegetable cultivars vary in leaf color (green to reddish-purple), leaf texture (smooth to crumpled), pungency, and bolt resistance. Popular Asian leaf cultivars include 'Green Wave,' 'Red Giant,' 'Osaka Purple,' and 'Southern Giant Curled.'
-
-Indian breeding programs have focused on combining high yield potential with resistance to Alternaria blight and white rust. Hybrid cultivars developed through CMS (cytoplasmic male sterility) systems have shown 15–25% yield advantages over open-pollinated varieties.
-
-## See Also
-
-- [[raphanus-sativus]]
-- [[arachis-hypogaea]]
-- [[cicer-arietinum]]
-- [[zingiber-officinale]]
-
-- [[crotalaria-juncea]]

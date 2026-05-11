@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Methods of Administration"
+title: Cannabis Health Methods Of Administration
 created: 2026-04-28
 tags: [cannabis, administration, vaporization, ingestion, topical,
        tincture, dosing, delivery]
@@ -15,7 +15,7 @@ Cannabis may be eaten raw, cooked into foods, drunk as juice, inhaled
 after vaporization, smoked in a pipe, wrapped in paper and smoked, or
 rubbed into the skin. Each method of administration has distinct
 pharmacokinetic properties affecting onset time, duration of effect,
-and therapeutic profile. It is not safe to drive or operate heavy
+and [[cannabidiol-cbd-therapeutic-profile-blesching]]. It is not safe to drive or operate heavy
 machinery after taking any psychoactive form of cannabis.
 
 ## Inhalation (Smoking)
@@ -58,7 +58,7 @@ full stomach) before increasing the dose.
 
 ## Tinctures and Oils
 
-Infused oils or tinctures often come in dropper bottles, which allow
+[[blesching-cannabis-tinctures-infused-oils-topical-preparations]] or tinctures often come in dropper bottles, which allow
 for precise dosing. Start slowly with a few drops and wait at least one
 hour to feel the effect, then slowly increase by a couple of drops
 until the desired therapeutic effect is achieved. Many patients start
@@ -68,14 +68,14 @@ not standardized, the [[blesching-cannabis-therapeutic-window-dosing]] may need 
 with each new bottle.
 
 Alcohol or glycerin may be used as a medium to dissolve plant material
-and produce a tincture useful in oral or topical preparations, often
+and produce a tincture useful in oral or [[cannabis-topical-preparations]], often
 called "green dragon." Hemp oil, almond oil, or coconut oil may be
 mixed with cannabis as an additive to create topical skin creams and
 food products.
 
 ## Raw Cannabis (Juicing)
 
-Fresh cannabis leaf contains CBD and THC in their acid forms, which are
+Fresh [[cannabis-leaf-morphology-and-phyllotaxy]] contains CBD and THC in their acid forms, which are
 non-psychoactive. Fresh raw leaves can be juiced and diluted with other
 vegetable juices to disguise the bitter taste. Raw cannabis is ideal
 for patients advised to consume large quantities of CBD. The juice of
@@ -88,57 +88,3 @@ tolerated at doses 60 times higher than heated preparations.
 Topical creams deliver medicine to specific and isolated problem areas.
 Absorption rates may be similar to ingestion but tend to be less
 systemic and more local. Tinctures extracted using alcohol, glycerin,
-or oil form the basis of various medicinal creams, balms, and lotions.
-Topical cannabinoids have been shown to significantly reduce nerve
-pain after flare-ups of conditions such as herpes zoster.
-
-## Suppository
-
-Some patients who want to deliver cannabinoids to the lower half of the
-intestinal tract use suction-bulbs filled with cannabis-infused oils
-inserted into the rectum similar to a suppository. This method can be
-effective for localized conditions in the lower GI tract.
-
-## Solvent-Based Extracts
-
-Solvents such as hexane, butane, or isopropyl alcohol may be employed
-to dissolve the ingredients of cannabis, producing the highest
-concentration of cannabinoids. However, this method is dangerous due to
-flammability of the solvents. Explosions have led to serious injuries
-and deaths. Additionally, solvent residue may linger in the concentrate
-and introduce toxic materials into the medicine.
-
-## Kief and Hashish
-
-Kief and hashish are the collected resin of mature and ripe cannabis
-flower buds. Separation is usually accomplished by using a sieve or ice
-water. Kief is resin crystals in loose form, while hashish is heated
-and pressed kief. These concentrated forms offer higher cannabinoid
-potency per unit of material.
-
-## Decarboxylation and the Raw Advantage
-
-In fresh and raw cannabis leaf, CBD and THC cannabinoids exist as
-CBD-acid and THC-acid, both non-psychoactive. Once the plant
-cannabinoids become heated, dried, or stored, decarboxylation takes
-place, changing molecular structure and resultant properties. While
-CBD remains non-psychoactive after decarboxylation, THC-acid becomes
-THC, the main psychoactive molecule. Raw THC-acid has unique therapeutic
-properties of its own and does not make users "high." Dutch scientists
-found that raw THC-acid inhibits tumor necrosis factor alpha (TNF-a)
-levels, associated with inflammation and immune response regulation.
-
-## Choosing the Right Method
-
-The choice of administration method depends on several factors:
-- Desired onset time (fast: inhalation; slow: ingestion)
-- Desired duration of effect (short: inhalation; long: ingestion)
-- Need for psychoactive vs. non-psychoactive effects
-- Target area (systemic vs. localized)
-- Lung health considerations (vaporization preferred over smoking)
-- Need for precise dosing (tinctures and oils preferred)
-
-## See Also
-- [[cannabis-health-pain-management]]
-- [[cannabis-health-strains-sativa-indica]]
-- [[cannabis-administration-methods-comparison]]

@@ -1,6 +1,6 @@
 ---
-title: "Fungal Evolution Across the Geologic Timescale"
-source: "Mycelium Running (Stamets)"
+title: Mycelium Running Fungal Evolution Geologic Timescale
+source: "[[mycelium-running-conservation-biology-and-fungi]] (Stamets)"
 tags: [mycology, evolution, paleontology, geology, fossil-record, diversification]
 created: 2026-05-09
 ---
@@ -29,7 +29,7 @@ partnerships in Earth history. Fungi provided early land plants with mineral
 nutrients scavenged from rock, while plants provided fungi with carbohydrates
 produced through photosynthesis. This mutualistic relationship was almost
 certainly essential for the successful colonization of land by plants. Without
-mycorrhizal fungi to extract minerals from the thin soils of the early
+[[arbuscular-mycorrhizal-fungi]] to extract minerals from the thin soils of the early
 terrestrial environment, plants may never have established themselves on land.
 
 ## The Age of Coal Forests
@@ -44,8 +44,8 @@ Revolution.
 
 Stamets and other mycologists have proposed that the Carboniferous coal deposits
 exist largely because fungi had not yet evolved the enzymatic machinery to
-efficiently break down lignin, the tough polymer that gives wood its structural
-rigidity. White rot fungi, which produce lignin-degrading enzymes called
+efficiently [[query-how-do-white-rot-fungi-break-down-lignin]], the tough polymer that gives wood its structural
+rigidity. [[brown-rot-and-white-rot-fungi-in-mycoremediation]], which produce lignin-degrading enzymes called
 peroxidases and laccases, appear to have diversified significantly toward the
 end of the Carboniferous period. Once these fungi evolved the ability to
 decompose lignin, the massive accumulation of undecomposed woody material that
@@ -72,7 +72,7 @@ beneficiaries of the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]
 Stamets interprets this fungal spike as evidence that fungi are nature primary
 agents of ecological recovery after catastrophic disturbances. When most plant
 and animal species were eliminated, the vast quantities of dead organic matter
-created ideal conditions for fungal decomposition. The fungi that proliferated
+created ideal conditions for [[dighton-fungal-decomposition-leaf-litter-dynamics]]. The fungi that proliferated
 in this post-extinction environment were likely generalist decomposers capable
 of breaking down a wide range of organic materials, recycling nutrients and
 rebuilding soil for eventual ecosystem recovery.
@@ -88,62 +88,3 @@ kingdom of organisms on the planet.
 ## Coevolution with Animals and Plants
 
 Throughout their evolutionary history, fungi have formed intimate associations
-with virtually every group of organisms. Mycorrhizal partnerships with plants
-are the most widespread and ecologically significant, with an estimated 90
-percent of all plant species forming [[plants-without-mycorrhizal-associations]]. Endophytic fungi
-live within plant tissues without causing disease, often conferring benefits
-including [[dighton-fungal-drought-tolerance-plant-water-relations]], pest resistance, and enhanced growth. Lichens,
-symbiotic associations between fungi and algae or cyanobacteria, were among the
-first organisms to colonize land.
-
-Fungi have also co-evolved extensively with animals. Entomopathogenic fungi that
-infect and kill insects have been evolving alongside their hosts for hundreds of
-millions of years, resulting in an arms race of ever-more-sophisticated
-infection strategies and immune defenses. Leaf-cutter ants and termites
-cultivate fungi as food sources, representing some of the most complex
-agricultural systems on Earth, systems that predate human agriculture by tens of
-millions of years.
-
-The human relationship with fungi, while relatively recent in evolutionary
-terms, has been transformative. The domestication of yeasts for bread and
-alcohol production may represent the earliest form of biotechnology, dating back
-at least 9000 years. Modern applications of fungi in medicine, including the
-discovery of penicillin and the development of immunosuppressive drugs from
-cyclosporine, demonstrate the vast untapped pharmaceutical potential of this
-ancient kingdom of organisms.
-
-## Modern Fungal Diversity and Future Evolution
-
-Today, the fungal kingdom encompasses an estimated 2.2 to 3.8 million species,
-though fewer than 150,000 have been formally described. This enormous
-undocumented diversity represents a vast reservoir of genetic, biochemical, and
-ecological potential that is only beginning to be explored. Modern molecular
-techniques, particularly environmental DNA sequencing, are revealing fungal
-diversity in virtually every habitat examined, from deep ocean sediments to
-Antarctic soils to [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] canopies.
-
-Fungi continue to evolve in response to changing environmental conditions. The
-emergence of new fungal pathogens affecting amphibians, bats, and crops
-demonstrates that fungal evolution is an ongoing process with direct
-consequences for human welfare. Climate change is altering fungal distributions
-and phenology, with warm-adapted species expanding their ranges and cold-adapted
-species retreating. The fungal kingdom, which has survived every mass extinction
-in Earth history, is now being called upon as a potential ally in addressing the
-environmental crises of the Anthropocene.
-
-Stamets envisions a future in which human beings consciously partner with fungi
-to address some of the most pressing challenges facing civilization: restoring
-degraded ecosystems, cleaning polluted environments, producing sustainable food
-and medicine, and even developing new materials and energy sources. This vision
-is grounded in the demonstrated capabilities that fungi have evolved over
-billions of years of shaping the course of life on Earth.
-
-## See Also
-
-- [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
-- [[mycelium-running-mycelium-sentient-network-bioneering]]
-- [[mycelium-running-mushroom-life-cycle-detailed]]
-
-## Sources
-
-- Stamets, P. (2005). Mycelium Running. Chapter on fungal evolution and geologic history.

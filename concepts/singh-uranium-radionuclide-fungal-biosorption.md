@@ -13,7 +13,7 @@ type: concept
 
 The biosorption of radionuclides by fungi represents a critical
 application of mycoremediation for nuclear industry waste management
-and environmental cleanup of radioactive contamination. Singh's review
+and environmental cleanup of [[radioactive-contamination-and-fungi]]. Singh's review
 places uranium at the highest consideration in biosorption research due
 to the great interest from the nuclear industry. Fungi demonstrate
 remarkable abilities to accumulate, sequester, and transport various
@@ -25,11 +25,11 @@ and radium.
 Uranium is given the highest priority among metals for biosorption
 research due to intense interest from the nuclear industry. Fungi
 belonging to the Order Mucorales are identified as particularly good
-biosorbents of uranium. Mucor hiemalis achieves 229 mg/g of UO2(II)
+biosorbents of uranium. [[mucor-hiemalis]] achieves 229 mg/g of UO2(II)
 removal from 125 mg/l solutions within 1 hour at pH 5.8. Mucor
 javanicus demonstrates even higher capacity at 343 mg/g. Neurospora
-sitophila achieves 285 mg/g, Penicillium chrysogenum 101 mg/g, P.
-lilacinum 154 mg/g, Rhizopus arrhizus 170 mg/g, R. oryzae 227 mg/g,
+sitophila achieves 285 mg/g, [[penicillium-chrysogenum]] 101 mg/g, P.
+lilacinum 154 mg/g, [[rhizopus-arrhizus]] 170 mg/g, R. oryzae 227 mg/g,
 and Trichoderma viride 98 mg/g. Aspergillus flavus removes 40 mg/g of
 U(VI) at 1 x 10(-3) M concentration and 8 mg/g of Th(IV) at 2.5 x
 10(-4) M concentration. Electron microscopy has revealed strongly
@@ -60,7 +60,7 @@ capacities of 4 to 79 MBq/g biomass (dry weight), equivalent to 33 to
 that [[dighton-fungal-biosorption-heavy-metal-remediation]] could play a significant role in the treatment
 of nuclear waste streams containing transuranic elements. Little is
 known about the removal of radium, thorium, strontium, and neodymium
-by filamentous fungi, representing an important area for future
+[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], representing an important area for future
 research in radionuclide biosorption.
 
 ## Cesium Transport and Accumulation
@@ -69,7 +69,7 @@ Cesium-137 is a major radionuclide of concern due to its long half-life
 (30.2 years) and high solubility. Gray et al. estimated a fivefold
 higher flux of Cs-137 through rhizomorphs of Armillaria gallica than
 through undifferentiated hyphae. Accumulation of Cs-137 occurs at the
-sites of initiation of basidiocarp primordia in Schizophyllum commune
+sites of initiation of basidiocarp primordia in [[schizophyllum-commune]]
 when [[chamovitz-julius-von-sachs-blue-light-phototropism]] induces fructification. High concentrations of Cs-137
 and lower concentrations of Pb-210 and Ra-226 have been detected in
 [[edible-wild-mushrooms-by-region]]. Autoradiography and image analysis reveal the
@@ -88,50 +88,3 @@ of radiocesium is known in Scandinavian forests in the form of local
 enrichment by fungal clusters. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role in
 the long-term retention of radiocesium in organic horizons of forest
 soil. Quantitative prediction of radiocesium concentrations in different
-soil horizons can be conducted using compartment models.
-
-## Mycorrhizal Fungi in Radionuclide Remediation
-
-Plants inoculated with specific mycorrhizal fungi have increased ability
-to obtain necessary nutrients while removing large quantities of Cs-137
-and Sr-90 from contaminated soils. Three grass species inoculated with
-Glomus mosseae or G. intraradices remove 26 to 72% of Cs-137 and 24 to
-89% of Sr-90 from contaminated soil. Grasses inoculated with these VAM
-fungi exhibit higher aboveground plant biomass, higher radionuclide
-concentrations in plant tissue, higher percentage accumulation from soil,
-and higher plant bioconcentration ratios. Inoculation of grasses with
-VAM fungi offers a feasible, low-cost strategy to remediate and reclaim
-sites contaminated with radionuclides. Hebeloma crustuliniforme reduces
-Cs-134 concentrations in Picea abies seedlings.
-
-## Cobalt Accumulation by Fungi
-
-Among radionuclides, cobalt-60 is also significant. Neurospora crassa
-mutant varieties CSM-I and CSM-II have the highest Co-60 and Fe(II)
-pickup capacities under stationary conditions, though capacities decrease
-under shaking conditions. Penicillium citrinum exhibits twice the
-increase in Co-60 pickup capacity under shaking conditions. N. crassa
-mutant CSM-1 shows 295.3 ng/g Co and 17.3 mg/g Fe accumulation, while
-CSM-11 achieves 331 ng/g Co and 13.6 mg/g Fe after 44 hours. N. crassa
-wild type achieves 90% Co(II) removal from 500 mg/l solutions within 24
-hours. These findings suggest potential for cobalt radionuclide removal
-using engineered fungal strains.
-
-## Transfer Factors and Modeling
-
-Transfer factors are employed to quantify radionuclide transfer from soil
-to [[brassinosteroid-fungal-fruiting-body-morphology]] bodies. Transfer factors for radiocesium and stable
-cesium have been calculated for three fungal species and Vaccinium
-myrtillus in seminatural coniferous forests. The relationship between
-radiocesium and stable cesium in mushrooms from forest ecosystems with
-different contamination levels has been summarized. A three-phase model
-to quantify radiocesium migration in coniferous forest soils has been
-proposed. These transfer factors and models provide essential tools for
-predicting radionuclide behavior in fungal-impacted ecosystems and for
-designing effective [[comparison-bioremediation-strategies-vs-biostimulation-techniques]].
-
-## See Also
-
-- [[radioactive-contamination-and-fungi]]
-- [[mycoremediation-of-heavy-metals]]
-- [[singh-mycorrhizal-fungi-rhizosphere-remediation]]

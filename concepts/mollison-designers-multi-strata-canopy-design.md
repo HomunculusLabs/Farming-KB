@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -20,18 +21,18 @@ Multi-strata canopy design is the art and science of stacking productive
 plant layers vertically to maximize the yield from a given area of land. This
 approach mimics the structure of natural forests, where light, water, and
 nutrients are captured and recycled through multiple layers of vegetation.
-Bill Mollison considered multi-strata systems the highest expression of
+[[bill-mollison]] considered multi-strata systems the highest expression of
 [[food-forest-design]]. Understanding these layers is essential for allocating
 species and managing light competition:
 
-1. **Canopy layer (overstory)**: The tallest trees, typically 15 to 30+
+1. **[[canopy-layer-design-food-forests]] (overstory)**: The tallest trees, typically 15 to 30+
    metres. These provide the structural framework and modify microclimate
    for all layers below. Species include timber trees, large nut producers,
    and nitrogen-fixing overstory species.
 
 2. **Sub-canopy layer**: Medium-height trees, typically 8 to 15 metres.
    This layer captures light that filters through the canopy and includes
-   most fruit and nut trees along with smaller nitrogen fixers.
+   most fruit [[holzer-sweet-chestnut-and-nut-trees]] along with smaller nitrogen fixers.
 
 3. **Shrub layer**: Woody plants from 2 to 5 metres. Berry bushes,
    coffee, cacao, currants, and nitrogen-fixing shrubs occupy this layer.
@@ -40,7 +41,7 @@ species and managing light competition:
    Includes [[holzer-medicinal-and-culinary-herbs-compendium]], medicinal plants, comfrey, and perennial
    vegetables.
 
-5. **Ground cover layer**: Low-growing plants that form a living mulch,
+5. **[[fukuoka-citrus-orchard-ground-cover-cultivation]] layer**: Low-growing plants that form a [[comparison-living-mulch-vs-cover-crops]],
    suppressing weeds, retaining moisture, and protecting soil from erosion.
    Strawberries, clovers, and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] serve this function.
 
@@ -85,19 +86,5 @@ nutrients. Mollison describes this as the "root complementarity" principle.
 
 Deep-rooted trees such as oak, walnut, and comfrey mine minerals and water
 from depths of 2 metres or more. Shallow-rooted species such as berries and
-herbaceous perennials occupy the top 30 to 60 centimetres. Nitrogen-fixing
+[[permaculture-plants-herbaceous-perennials]] occupy the top 30 to 60 centimetres. Nitrogen-fixing
 species with their associated rhizobial bacteria access nitrogen from air
-and share it through mollison-designers-windbreak-design-species, [[savory-livestock-grazing-planning]], and Mollison Designers  Aquaculture. Poultry can be run through the understory to [[query-how-to-control-pests-without-chemicals]]
-and cycle nutrients. [[mollison-course-swales-and-earthworks-design]] can be incorporated to manage
-water distribution across the sloping land typical of [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]].
-
-The key principle is that every element in a multi-strata design should
-perform multiple functions and be connected to multiple other elements.
-This web of beneficial relationships is what distinguishes a designed food
-forest from a simple collection of trees.
-
-## See Also
-- [[mollison-designers-forest-garden-layer-canopy-understory]]
-- [[forest-gardens]]
-- [[bill-mollison]]
-- [[mollison-designers-food-forest-succession-design]]

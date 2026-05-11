@@ -1,5 +1,5 @@
 ---
-title: How do query how do [[photonic-crystals]] create structural color create structural color?
+title: Query How Do Photonic Crystals Create Structural Color
 created: 2026-04-28
 subtitle: FAQ on color produced by nanoscale geometry rather than ordinary pigment
 tags: [photonic-crystals, structural-color, optics, materials-science, faq]

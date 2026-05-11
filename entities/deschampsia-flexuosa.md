@@ -88,32 +88,3 @@ It prefers acidic to neutral soils (pH 4.5–6.5) and performs poorly on chalky 
 Propagation is by seed sown in spring or autumn, or by division of established clumps in early spring. Seed germination is typically high (80–95%) without stratification requirements. Plants establish within one [[savory-growing-season-and-non-growing-season-management]].
 
 Plants maintain attractive form through winter in mild climates, with the golden-brown panicles providing persistent visual interest. Cutting back to ground level in early spring before new growth emerges promotes vigorous regrowth.
-
-The species is hardy to USDA Zone 4 (−34 °C) and has no significant pest or disease problems. It self-seeds moderately in garden conditions but is not considered invasive outside its native range.
-
-In naturalistic planting design, it pairs effectively with [[vaccinium-myrtillus]], [[calluna-vulgaris]], and other heathland species. The golden-tinged autumn foliage provides extended seasonal interest.
-
-## Uses and Ethnobotany
-
-Historically, **Deschampsia flexuosa** had limited direct economic use but served as a reliable indicator of soil conditions. Farmers and foresters recognized its presence as a sign of acidic, infertile land unsuitable for arable crops without liming.
-
-The grass was traditionally used as rough stuffing and bedding in rural communities across northern Europe. In Scandinavia, it was occasionally gathered for thatching small outbuildings and animal shelters.
-
-In traditional medicine, a mild decoction of the aerial parts was used as a wash for skin irritations in some European folk traditions. These uses were not widespread and are poorly documented in ethnobotanical literature.
-
-Modern applications focus on ecological restoration and ornamental horticulture. The species is widely used in heathland re-creation projects, mine reclamation on acidic substrates, and as a nurse crop for establishing heathland vegetation.
-
-In sustainable landscaping, it serves as a low-maintenance ground cover for shaded areas under trees where conventional lawn grasses fail. Its fine texture and tolerance of root competition make it suitable for planting beneath [[quercus-robur]] and [[fagus-sylvatica]].
-
-## See Also
-
-- [[deschampsia-caespitosa]]
-- [[pennisetum-setaceum]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[vaccinium-myrtillus]]
-- [[betula-pendula]]
-- [[acer-saccharum]]
-- [[pseudotsuga-menziesii]]

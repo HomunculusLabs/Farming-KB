@@ -40,17 +40,17 @@ Some fungi are obligately biotrophic — they require living host tissue to comp
 
 ### Phytophthora — A Devastating Pathogen
 
-*Phytophthora* species are filamentous stramenopiles of the order Oomycete, family Pythiaceae. *Phytophthora nicotianae* has shown virulence over 72 genera and 40 families of angiosperms and is responsible for important yield losses of various agricultural crops and fruit trees, including tomato.
+*Phytophthora* species are filamentous stramenopiles of the order Oomycete, family Pythiaceae. *Phytophthora nicotianae* has shown virulence over 72 genera and 40 families of angiosperms and is responsible for important yield losses of various [[fungal-endophytes-agricultural-crops]] and fruit trees, including tomato.
 
 **Life cycle and infection:** The genus *Phytophthora* possesses a diploid life cycle with meiosis during reproductive cell formation. It proliferates mainly through mobile zoospores formed during asexual reproduction. Conditions leading to zoospore formation include high temperature (20-25 degrees C) and humidity. Sporangia at the extremities of hyphae differentiate zoospores that swim towards roots in the soil solution.
 
-**Chemotaxis:** Zoospores are attracted to the subapices of roots where most exudates are liberated. Their chemotaxy is influenced by sugars (sucrose, dextrose, fructose, rhamnose, maltose), amino acids (asparagine, glutamine), organic acids, [[antifungal-secondary-metabolites-coprophilous-fungi]], and volatiles. Attraction depends on pH and experimental conditions, and is strain- and species-dependent — more host-specific species show more specific zoospore attraction.
+**Chemotaxis:** Zoospores are attracted to the subapices of roots where most exudates are liberated. Their chemotaxy is influenced by sugars (sucrose, dextrose, fructose, rhamnose, maltose), amino acids (asparagine, glutamine), organic acids, [[antifungal-secondary-metabolites-coprophilous-fungi]], and volatiles. Attraction depends on pH and [[darwin-five-seedling-phototropism-experimental-conditions]], and is strain- and species-dependent — more host-specific species show more specific zoospore attraction.
 
 **Infection process:** The reduction in zoospores attracted to roots, their encystment and germination, and their ability to form appressoria on root surfaces allow the plant to efficiently activate defence pathways. If these pre-infection steps are not hampered, many cycles of zoospore production occur and the pathogen proliferates rapidly, inducing disease symptoms.
 
 ## Mycorrhizal Bioprotection Against Pathogens
 
-Mycorrhizal fungi provide significant protection against soilborne pathogens through multiple, often synergistic, mechanisms. In a [[fukuoka-natural-ecosystem-food-chain-interconnection]] where phosphorus uptake is low, a major role of mycorrhizal fungi may be protection of the root system from endemic pathogens such as *Fusarium* spp.
+[[arbuscular-mycorrhizal-fungi]] provide significant protection against soilborne pathogens through multiple, often synergistic, mechanisms. In a [[fukuoka-natural-ecosystem-food-chain-interconnection]] where phosphorus uptake is low, a major role [[query-what-are-the-different-types-of-mycorrhizal-fungi]] may be protection of the root system from endemic pathogens such as *Fusarium* spp.
 
 ### 1. Physical Barrier
 
@@ -82,38 +82,9 @@ Root exudates from mycorrhizal plants profoundly affect pathogen behaviour. In s
 - Exudates from mature mycorrhizal roots attracted significantly fewer zoospores than water or exudates from non-mycorrhizal roots
 - Conversely, exudates from actively growing mycorrhizal roots were more attractive than those from non-mycorrhizal roots
 
-This suggests temporal changes in exudate chemistry: young mycorrhizal roots may release more attractive molecules, while older mycorrhizal roots contain repulsive compounds. The accumulation of secondary metabolite blumenin in barley and wheat roots colonised with G. intraradices peaks at 3-4 weeks and declines to trace amounts after 5 weeks, supporting the idea of stage-dependent exudate changes.
+This suggests temporal changes in exudate chemistry: young mycorrhizal roots may release more attractive molecules, while older mycorrhizal roots contain repulsive compounds. The accumulation of [[fungal-elicitors-enhanced-secondary-metabolite-production]] blumenin in [[ergot-of-barley-and-wheat-alkaloid-composition]] roots colonised with G. intraradices peaks at 3-4 weeks and declines to trace amounts after 5 weeks, supporting the idea of stage-dependent exudate changes.
 
 ## Biocontrol of Phytophthora nicotianae by AMF
 
 Colonisation of tomato with G. mosseae (BEG 12) was shown to protect plants subsequently infected by P. nicotianae. Documented effects include:
 - Reduction in number of infection loci
-- Reduction in root necroses
-- Reduced intraradical pathogen development
-- Reduced biomass loss compared to non-mycorrhizal plants
-
-G. intraradices (DAOM 181,602) expressed similar biocontrol ability. Pathogen biomass was significantly reduced within precolonised tomato roots. With G. mosseae, the biocontrol effect was systemic, occurring in both mycorrhizal root tissues and non-colonised parts of the root system (Pozo et al. 2002b).
-
-## Mycorrhizosphere Effects on Pathogens
-
-The mycorrhizosphere — the zone of soil influenced by [[singh-mycorrhizal-exudates-root-exudate-interactions]] and associated microbial communities — plays an important role in biocontrol. Changes in root exudation after mycorrhizal colonisation have been reported frequently, with both quantitative and qualitative differences in sugars, amino acids, and organic acids. Among 27 compounds quantified, proline and isocitric acid concentrations differed between mycorrhizal and non-mycorrhizal roots.
-
-These changes in the mycorrhizosphere can influence:
-- Attraction and germination of pathogen propagules
-- Competition with soilborne pathogens
-- The soil [[edaphic-factors-microbial-community-structure]] that may include antagonistic bacteria
-
-Many soil bacteria have been shown to act as biocontrol agents, and mycorrhizal establishment may enhance the efficacy of these already-present biocontrol agents. Understanding repercussions on soil microbial communities after [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] is essential for efficient use in agriculture.
-
-## The Parasitism-Mutualism Continuum
-
-Some fungal endophytes blur the line between parasitism and mutualism. Piriformospora indica, while broadly beneficial, requires host cell death for proliferation — hyphae either actively kill cells or sense cells undergoing programmed cell death. This demonstrates that mutualistic fungi can employ mechanisms typically associated with pathogenicity. The net outcome depends on the balance between beneficial effects (growth promotion, nutrient acquisition, defence induction) and detrimental effects (host cell death, carbon drain), with the host's regulatory mechanisms ultimately determining whether the interaction is net beneficial.
-
-## See Also
-
-- [[fungal-parasites]]
-- fungal-pathogens-ecosystems
-- [[mycorrhizal-biocontrol]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]
-- [[symbiotic-fungi-endophytic-fungi-plant-protection]]

@@ -49,9 +49,9 @@ The shrub thrives on disturbed soils, abandoned agricultural land, roadsides, an
 
 *Elaeagnus umbellata* forms a symbiotic association with actinorhizal bacteria of the genus *Frankia* within root nodules. Nitrogen fixation rates of 15–60 kg N/ha/year have been measured, depending on site conditions and plant age.
 
-This nitrogen-fixing capacity makes autumn olive a valuable nurse plant in agroforestry and ecological restoration. Intercropping with fruit trees or timber species can reduce or eliminate the need for synthetic nitrogen inputs.
+This nitrogen-fixing capacity makes autumn olive a valuable nurse plant in agroforestry and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. Intercropping with fruit trees or timber species can reduce or eliminate the need for synthetic nitrogen inputs.
 
-The nitrogen contribution extends beyond the root zone through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Annual leaf fall adds both nitrogen and organic matter to surface soils, gradually improving fertility of degraded sites.
+The nitrogen contribution extends beyond the root zone through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Annual leaf fall adds both nitrogen [[hamilton-composting-and-organic-matter-management]] to surface soils, gradually improving fertility of degraded sites.
 
 ## Nutritional Value
 
@@ -67,11 +67,11 @@ Autumn olive is listed as a noxious or invasive weed in multiple U.S. states and
 
 Once established, the shrub alters soil chemistry through nitrogen enrichment, favoring nitrophilic species over native plants adapted to low-nitrogen soils. This "nitrogen shadow" effect can persist for decades after removal.
 
-Control methods include mechanical removal (cutting and pulling), herbicide application (glyphosate or triclopyr), and prescribed fire. Effective management requires multi-year treatment due to the species' extensive seed bank.
+[[cho-natural-pest-control-methods]] include mechanical removal (cutting and pulling), herbicide application (glyphosate or triclopyr), and prescribed fire. Effective management requires multi-year treatment due to the species' extensive seed bank.
 
 ## Permaculture Applications
 
-In permaculture design, autumn olive is valued as a multifunctional pioneer species. Its rapid growth, nitrogen fixation, wildlife habitat value, and prolific fruit production make it a productive element in food forest systems.
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], autumn olive is valued as a multifunctional pioneer species. Its rapid growth, nitrogen fixation, [[hemenway-backyard-wildlife-habitat]] value, and prolific fruit production make it a productive element in food forest systems.
 
 Recommended placement includes the outer edges of food forests as a windbreak, on degraded or compacted soils for site rehabilitation, and in hedgerows providing both fruit and nitrogen input to adjacent plantings.
 
@@ -81,34 +81,10 @@ Domesticated cultivars selected for larger, sweeter fruit (e.g., 'Brilliant Rose
 
 Autumn olive is easily propagated from seed, which requires 60–90 days of cold stratification at 1–5°C. Seed germination rates of 70–90% are typical. Softwood cuttings taken in June–July root readily under mist (60–80% rooting) with IBA treatment.
 
-The species is extremely hardy, tolerating temperatures to -30°C (USDA Zone 3). It establishes rapidly on disturbed sites, often producing fruit within 3–5 years from seed. Once established, plants are drought-tolerant and require no irrigation in temperate climates.
+The species is extremely hardy, tolerating temperatures to -30°C (USDA Zone 3). It establishes rapidly on disturbed sites, often producing fruit within 3–5 years from seed. Once established, plants are drought-tolerant and require no irrigation [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 Pruning is beneficial for maintaining productivity and controlling spread. Annual pruning of older branches stimulates new growth and increases fruit production. Plants respond well to coppicing, regrowing vigorously from the base.
 
 Spacing in agroforestry systems is typically 2–3 m between plants in hedgerows or 4–6 m in wider plantings. Closer spacing accelerates site stabilization and nitrogen input but may require more frequent management.
 
 ## Wildlife and Ecological Interactions
-
-The fruit of autumn olive is highly attractive to birds, which are the primary dispersal agents. Over 40 bird species have been documented consuming the berries, including American robin, cedar waxwing, European starling, and northern mockingbird.
-
-Mammalian consumers include white-tailed deer, raccoons, foxes, and black bears. Deer also browse young shoots and foliage, though mature plants are relatively resistant to browsing damage due to their woody structure.
-
-The dense thicket-forming habit provides excellent cover and nesting habitat for songbirds, rabbits, and other small wildlife. In degraded landscapes, autumn olive thickets serve as important successional habitat during forest regeneration.
-
-However, the displacement of native shrub species (e.g., native *Viburnum*, *Cornus*, and *Sambucus*) reduces overall plant diversity and can simplify food web structure. The net ecological impact depends on landscape context and management intensity.
-
-## See Also
-
-- [[elaeagnus-multiflora]]
-
-- elaeagnus-angustifolia
-- [[robinia-pseudoacacia]]
-- hippophae-rhamnoides
-- [[lathyrus-tuberosus]]
-- [[gleditsia-triacanthos]]
-- [[opuntia-ficus-indica]]
-- [[urtica-dioica]]
-- achillea-millefolium
-- [[plantago-major]]
-- [[stellaria-media]]
-- [[leonurus-cardiaca-entity]]

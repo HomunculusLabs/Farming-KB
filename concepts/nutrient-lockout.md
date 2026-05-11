@@ -10,7 +10,7 @@ tags: [nutrients]
 
 # Nutrient Lockout in Cannabis
 
-Nutrient lockout occurs when nutrients present in the growing medium or solution become unavailable for plant uptake, despite being physically present. This is one of the most frustrating problems for cannabis growers because plants show deficiency symptoms even when nutrients have been properly applied.
+Nutrient lockout occurs when nutrients present in the [[cervantes-green-algae-growing-medium]] or solution become unavailable for plant uptake, despite being physically present. This is one of the most frustrating problems for cannabis growers because plants show [[knf-calcium-deficiency-symptoms]] even when nutrients have been properly applied.
 
 ## What Is Nutrient Lockout?
 
@@ -18,7 +18,7 @@ Nutrient lockout is a condition where one or more essential nutrients cannot be 
 
 - **Incorrect pH**: The most common cause — pH outside the optimal range changes the chemical form of nutrients
 - **Nutrient antagonism**: Excess of one nutrient makes another unavailable
-- **Salt buildup**: Toxic [[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
+- **[[cervantes-salt-buildup-leaching-management]]**: Toxic [[jadam-salt-accumulation-in-soil]] in the growing medium locks up nutrients
 - **Chemical precipitation**: Nutrients combine into insoluble compounds
 
 ## pH-Related Lockout
@@ -88,24 +88,3 @@ Containers have very little growing medium to hold nutrients, making toxic salt 
 - Use complete, balanced fertilizers
 - Follow dosage instructions carefully
 - Adding more fertilizer will not fix lockout and may worsen it
-- Start with an EC of 1.6 and build up as needed; absolute maximum EC is 2.3
-
-## Prevention
-
-- Monitor pH regularly in both soil and hydroponic systems
-- Use a quality pH meter for accurate readings
-- Do not over-fertilize — follow manufacturer instructions
-- Flush growing medium periodically to prevent salt accumulation
-- Use fresh growing medium for each crop
-- Monitor EC in hydroponic systems
-- Use chelated micronutrients for better availability
-
-## Diagnostic Difficulty
-
-Once a plant shows symptoms, it has already undergone severe nutritional stress. It will take time for the plant to resume vigorous growth. [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] crops are harvested so fast that plants do not always have time to recover from nutrient imbalances. One small imbalance could cost a week of growth — more than 10% of the plant's life.
-
-Do not confuse [[hamilton-nutrient-deficiencies-and-treatment]] or toxicities with [[cannabis-pest-management-guide]] — overall plant health
-- [[humidity-cannabis-growing]] — [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[flushing-nutrients]] — flushing technique for recovery
-- [[cannabis-chemical-burn-vs-deficiency]]
-- [[cannabis-plant-stress-types-and-recovery]]

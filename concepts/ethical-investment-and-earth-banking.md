@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
@@ -12,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. [[bill-mollison]]'s Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and fair shares.
+Ethical investment represents "one of the truly new phenomena of this century" -- a reaction to the misuse of money by governments, large aid agencies, and rapacious investors. [[bill-mollison]]'s Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] (Chapter 14, Section 14.13) provides a comprehensive framework for redirecting capital toward earth care, people care, and [[holmgren-ethical-principles-care-earth-people-fair-shares]].
 
 ## The Ethical Investment Movement
 
@@ -87,31 +88,3 @@ Enterprises that:
 - Research into new energy forms
 
 ### Permanent
-- Forestry (shares tradeable as values increase)
-- Purchase of natural remnant forest
-- Wildlife reserves and rainforest preservation
-
-## The Mondragon Principle
-
-In the Mondragon system, cash/income differentials are limited to 1:4 or 1:5 -- a sweeper cannot receive less than 25% of a doctor's wage. This provides a basis for ethical sharing in any system.
-
-## Charter Rewriting
-
-Existing banks, credit unions, cooperatives, and businesses are discussing rewriting charters to include:
-- Earth care values
-- People care values
-- Production of socially useful products
-
-Some credit unions already employ corporate watchdogs whose sole job is to monitor companies for unethical behaviour.
-
-## Key Insight
-
-"If taxes were not used to raise armies and enrich a minority, we would all live in a society where the need to work would be negligible, and both employment and unemployment absent."
-
-## Related Topics
-
-- permaculture-local-currency-systems
-- right-livelihood-and-permaculture-business
-- mollison-property-trusts-ethical-investment
-- [[permaculture-on-farm-alcohol-fuel-production]]
-- [[permaculture-design]]

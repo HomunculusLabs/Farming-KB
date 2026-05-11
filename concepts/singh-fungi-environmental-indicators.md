@@ -39,7 +39,7 @@ making them effective indicators of heavy metal pollution:
 
 - **Thelephora caryophyllea** accumulates metals from soil and has been
   used to map metal distribution in contaminated sites
-- **Lycoperdon perlatum** (puffball) serves as a bioindicator of heavy
+- **[[lycoperdon-perlatum]]** (puffball) serves as a bioindicator of heavy
   metals and selenium in soil pollution surveys
 - **Scopulariopsis** and **Candida** species indicate sand beach quality
   in coastal monitoring programs
@@ -57,7 +57,7 @@ lower sensitivity than bacteria due to limited permeability, their
 eukaryotic nature provides complementary information about genotoxic
 effects.
 
-The D7ts1 test using enhanced-permeability Saccharomyces cerevisiae
+The D7ts1 test using enhanced-permeability [[saccharomyces-cerevisiae]]
 strains offers improved detection of environmental mutagens. This test:
 - Measures mutagenic activity in soil, air, and water samples
 - Detects carcinogenic compounds missed by bacterial assays
@@ -73,56 +73,18 @@ be incorporated into biosensor arrays on silicon chips, optical fibers,
 and other configurations for real-time monitoring.
 
 Key applications of fungal biosensors include:
-- Detection of phenolic compounds in wastewater
+- Detection of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in wastewater
 - Monitoring of heavy metal contamination
 - Immunoassay-based quantification of specific contaminants
 - Enzyme-based systems for continuous pollutant tracking
 
 ## Fungal Community Analysis
 
-Changes in fungal community structure serve as indicators of broader
+Changes in fungal [[edaphic-determinants-cannabis-microbiome-community-structure]] serve as indicators of broader
 ecosystem health. Molecular methods including DNA extraction protocols
-(FDM), PCR-based detection, and community profiling enable rapid
-[[monitoring-and-assessment-of-fungal-bioremediation]] diversity in contaminated environments.
+(FDM), PCR-based detection, and [[fungal-community-profiling-rock-mineral-surfaces-gadd]] enable rapid
+[[monitoring-and-assessment-of-fungal-bioremediation]] diversity [[singh-fungal-biofilms-in-contaminated-environments]].
 
 Soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] respond to:
 - Organic and inorganic pollutant loading
 - pH shifts from acid deposition
-- Heavy metal contamination gradients
-- Hydrocarbon contamination events
-- Agricultural chemical inputs
-
-## Limitations and Considerations
-
-Fungal species alone cannot map pollution precisely. Their use as
-indicators requires:
-- Taxonomic expertise for accurate species identification
-- Standardized [[lichen-biodiversity-sampling-protocols-data-analysis]] across sites
-- Consideration of seasonal and temporal variation
-- Integration with chemical and physical monitoring data
-- Reference databases of expected community composition
-
-## Radioactive Contamination Monitoring
-
-Fungi demonstrate remarkable capacity for accumulating radionuclides from
-contaminated environments. Measurements of radiocaesium in fungal fruiting
-bodies provide data on the distribution and bioavailability of radioactive
-fallout. The ratio of 137Cs to 134Cs in fungal tissues serves as an
-indicator of both the source term and the residence time of contamination
-in forest ecosystems. This approach has proven valuable for mapping
-Chernobyl fallout patterns across European forests.
-
-## Practical Applications
-
-Environmental monitoring programs that incorporate fungal indicators can
-achieve cost-effective early warning of contamination. Integration with
-molecular tools such as eco-molecular markers and microanalysis methods
-provides more reliable results than culture-dependent techniques alone.
-Field applications range from rapid screening of industrial sites to
-long-term ecological monitoring of remediated areas.
-
-## See Also
-
-- [[singh-fungal-biosensors-environmental-monitoring]]
-- [[singh-fungal-biosorption-heavy-metals]]
-- [[dighton-fungal-biosorption-heavy-metal-remediation]]

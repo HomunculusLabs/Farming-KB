@@ -1,5 +1,5 @@
 ---
-title: LSD Transition from [[hofmann-lsd-animal-experiments-toxicity]] remedy to inebriant transition
+title: Hofmann Lsd Remedy To Inebriant Transition
 created: 2026-04-28
 tags:
   - lsd
@@ -88,51 +88,10 @@ furthered the hippie movement and conversely.
 
 The rapid rise of nonmedicinal LSD consumption at the beginning of the
 1960s was partly attributable to the fact that drug laws in most
-countries did not include LSD. Drug habitués changed from legally
-proscribed narcotics to the still-legal substance LSD. Moreover, the
-last Sandoz patents for LSD production expired in 1963, removing a
-further hindrance to illegal manufacture.
 
-The Sandoz management found the situation an unproductive, laborious
-burden. National control laboratories and health authorities requested
-statements about chemical and pharmacological properties, stability,
-toxicity, and analytical methods for detecting LSD. This brought
-voluminous correspondence expanding with inquiries about accidents,
-poisonings, and criminal acts resulting from misuse.
-
-## LSD Hysteria (1964-1966)
-
-The publicity about LSD attained its high point in the years 1964 to
-1966, with both enthusiastic claims about wondrous effects by drug
-fanatics and hippies, and reports of accidents, mental breakdowns,
-criminal acts, murders, and suicide under the influence of LSD. A
-veritable LSD hysteria reigned. Professor Stoll, managing director of
-Sandoz at the time, told Hofmann reproachfully: "I would rather you
-had not discovered LSD."
-
-## Hofmann's Personal Doubt
-
-At times Hofmann was assailed by doubts whether the valuable
-pharmacological and psychic effects of LSD might be outweighed by its
-dangers and possible injuries due to misuse. Would LSD become a
-blessing for humanity, or a curse? His other preparations, Methergine,
-Dihydroergotamine, and Hydergine, caused no such problems. They were
-not "problem children"; lacking extravagant properties leading to
-misuse, they had developed satisfactorily into therapeutically valuable
-medicines.
-
-Objective informative books about LSD also appeared, such as Sidney
-Cohen's The Beyond Within (Atheneum, 1967), which clearly exposed the
-dangers of careless use. This had, however, no power to stop the LSD
-epidemic. The spread continued despite growing recognition of risks,
-driven by sociological forces far beyond the control of science or
-medicine.
-
-## Related Topics
-
-- [[hofmann-leary-case-and-harvard-research]] for [[timothy-leary]]'s role in
-  popularizing LSD
-- [[hofmann-lsd-psychedelic-art-expression]] for artistic dimensions of the
-  cultural spread
-- [[hofmann-lsd-consciousness-and-philosophy]] for the intellectual and
-  philosophical dimensions of the movement
+## See Also
+- [[hofmann-lsd-clinical-research-early-studies]]
+- [[hofmann-sandoz-crisis-lsd-withdrawal]]
+- [[wasson-hofmann-psilocybin-connection]]
+- [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]
+- [[hofmann-ololiuqui-morning-glory-investigation]]

@@ -7,6 +7,7 @@ tags: [mycology, mushroom-cultivation, spawn, agar, sterilization,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - grain-spawn-preparation
   - sterile-cultivation-technique
   - agar-culture-and-isolation

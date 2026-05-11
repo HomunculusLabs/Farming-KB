@@ -87,38 +87,3 @@ Species that can dynamically adjust their growth orientation to maximize spacing
 The tropic spacing mechanism is particularly elegant because it does not require any centralized coordination. Each stipe responds independently to its local evaporative environment, and the collective result is an efficient, well-spaced cluster.
 
 ## Species-Specific Variations
-
-Different cespitose species may rely on tropic spacing to varying degrees. Species that typically fruit in very sheltered environments (such as inside hollow logs or under dense canopy) may have less opportunity for wind-driven spacing and may rely more on genetic programming or other mechanisms. Species that fruit in exposed locations (such as on open stumps or in grassland) may benefit more strongly from anemotropic spacing.
-
-The density of cespitose clusters also varies widely between species. Some, like oyster mushrooms, can form extremely dense clusters with dozens of overlapping caps. Others, like maitake, form looser clusters with more space between individual fronds. These differences likely reflect a combination of genetic factors, substrate characteristics, and the degree to which tropic spacing operates in each species.
-
-## Research Gaps
-
-Several aspects of cespitose spacing through tropism remain poorly understood and represent opportunities for future research:
-
-- Direct experimental quantification of spacing effects in controlled wind environments for clustered fruiting bodies
-- Comparison of cluster morphology under different airflow regimes (still air, laminar flow, turbulent flow)
-- Investigation of whether the evaporative demand mechanism operates at the scale of individual cells within the stipe, as proposed by Badham, or whether tissue-level signaling is involved
-- Study of how tropic spacing interacts with other spacing mechanisms such as thigmotropism and genetic growth patterns
-- Investigation of whether the spacing effect is more pronounced in species from open, windy habitats compared to those from sheltered forest environments
-
-Understanding these factors could help cultivators optimize environmental conditions for cespitose species, potentially improving both yield and quality.
-
-## Comparison with Other Spacing Mechanisms
-
-Tropism-driven spacing is not the only mechanism that influences cespitose cluster morphology. Other factors include:
-
-- **Genetic programming** — Some species have inherent growth patterns that limit cluster density
-- **Substrate nutrition** — Rich substrates may support more densely packed clusters
-- **Inoculation density** — Higher spawn rates tend to produce more primordia in a given area
-- **Physical obstacles** — Stipes encountering each other may redirect growth through thigmotropic responses
-
-The tropic mechanism likely works in concert with these other factors to determine the final cluster morphology.
-
-## See Also
-
-- [[evaporative-demand-hypothesis-mushroom-tropism]] — The physical mechanism underlying wind-directed stipe growth
-- [[mushroom-tropisms-phototropism-geotropism]] — Overview of all tropic responses in mushrooms
-- [[psilocybe-cubensis-development-stages]] — Developmental staging system for Psilocybe cubensis
-- [[partial-veil-tropism-protection-before-spore-release]] — How the veil protects developing stipes
-- [[mushroom-geotropism]] — The gravity-directed reorientation that dominates at maturity

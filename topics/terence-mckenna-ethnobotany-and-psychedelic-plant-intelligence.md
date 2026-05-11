@@ -1,5 +1,5 @@
 ---
-title: "Terence McKenna, Ethnobotany, and the Intelligence of [[psychedelic-research-legal-history-united-states|Psychedelic]] Plants"
+title: Terence Mckenna Ethnobotany And Psychedelic Plant Intelligence
 subtitle: "The life, theories, and legacy of the philosopher-ethnobotanist who argued that psychedelic plants shaped human evolution and consciousness."
 tags: [mckenna, ethnobotany, psychedelics, stoned-ape, archaic-revival, dmt, tryptamine, consciousness, shamanism, food-of-the-gods]
 date: 2026-05-09
@@ -29,7 +29,7 @@ between psychoactive plants, human consciousness, and cultural
 evolution. Over a career spanning three decades, McKenna developed a
 comprehensive framework -- articulated most fully in his 1992 book
 *Food of the Gods: The Search for the Original Tree of Knowledge* --
-arguing that humanity's relationship with psychedelic plants was not
+arguing that humanity's [[i-thou-relationship-with-psychedelic-entities]] plants was not
 an incidental feature of prehistory but a driving force in the
 emergence of language, religion, art, and social organization. His
 ideas, though controversial within mainstream science, have profoundly
@@ -43,7 +43,7 @@ Gordon Wasson, Mircea Eliade, Riane Eisler, Carl Jung, and Julian
 Jaynes, weaving their insights into an original narrative about the
 deep history of human-plant relationships. Whether one accepts his
 more speculative claims, his body of work raises enduring questions
-about the role of psychoactive substances in human evolution, the
+about the role of [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]] in human evolution, the
 suppression of ecstatic religious experience, and the possibility that
 plants possess forms of intelligence that Western science has barely
 begun to investigate.
@@ -73,7 +73,7 @@ Dennis, an experience that would define his intellectual life. Working
 with indigenous shamans in the Lower Putumayo region, he encountered
 ayahuasca -- the DMT-containing brew that would become one of the
 central pillars of his thought. This fieldwork, later chronicled in
-*The Invisible Landscape* (1975, co-authored with Dennis), gave
+*The [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975, co-authored with Dennis), gave
 McKenna firsthand experience of the shamanic worldview he would spend
 the rest of his career articulating and defending.
 
@@ -124,7 +124,7 @@ psychoactive substances.
 *Food of the Gods* (1992) is McKenna's magnum opus and the most
 complete expression of his historical philosophy. The book is
 organized as a four-part narrative -- Paradise, Paradise Lost, Hell,
-and Paradise Regained -- that traces humanity's relationship with
+and [[mckenna-paradise-regained-dmt-hyperspace]] -- that traces humanity's relationship with
 psychoactive plants from the Upper Paleolithic to the present and into
 an imagined future. This structure is not merely chronological but
 mythological, recapitulating the universal narrative arc of a Golden
@@ -132,10 +132,10 @@ Age, a Fall, a period of darkness, and the possibility of redemption.
 
 McKenna adapted the partnership-dominator framework from Riane
 Eisler's *The Chalice and the Blade* (1987), using it to organize
-his analysis of human cultural evolution. Partnership societies, in
+his analysis of human [[cultural-evolution-and-psychoactive-substances]]. Partnership societies, in
 McKenna's formulation, are characterized by egalitarian social
 organization, Goddess-centered religion, respect for nature, and the
-sacred use of psychoactive plants. Dominator societies are
+sacred use of psychoactive plants. [[partnership-vs-dominator-societies]] are
 characterized by hierarchy, patriarchy, male sky-god religion, the
 exploitation of nature, and the suppression of ecstatic experience.
 

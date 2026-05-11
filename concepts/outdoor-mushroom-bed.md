@@ -1,5 +1,5 @@
 ---
-title: Outdoor Mushroom Bed Cultivation
+title: Outdoor Mushroom Bed
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Outdoor Mushroom Bed Cultivation
 
-Growing mushrooms in outdoor garden beds is the most low-tech, scalable approach to mushroom cultivation. It leverages natural weather cycles and requires minimal equipment compared to indoor methods. Outdoor beds are ideal for wood-decomposing and mulch-loving species, and they integrate directly into permaculture and homestead designs.
+[[falconer-growing-mushrooms-in-sheds]] outdoor garden beds is the most low-tech, scalable approach to mushroom cultivation. It leverages natural weather cycles and requires minimal equipment compared to indoor methods. Outdoor beds are ideal for wood-decomposing and mulch-loving species, and they integrate directly into permaculture and homestead designs.
 
 ## Why Outdoor Beds
 
@@ -28,14 +28,14 @@ Growing mushrooms in outdoor garden beds is the most low-tech, scalable approach
 | Wine cap (Stropharia rugoso-annulata) | Wood chips, straw | Easy | 3-5 years | Most reliable outdoor species; grows in garden paths |
 | King stropharia | Wood chips, sawdust | Easy | 2-4 years | Excellent mycofilter for garden runoff |
 | Oyster (Pleurotus ostreatus) | Straw, wood chips | Easy | 1-2 years | Fast colonizer; multiple flushes per season |
-| Elm oyster (Hypsizygus ulmarius) | Hardwood chips | Moderate | 2-3 years | Good companion for garden beds |
+| Elm oyster ([[hypsizygus-ulmarius]]) | Hardwood chips | Moderate | 2-3 years | Good companion for garden beds |
 | Blewit (Clitocybe nuda) | Leaf litter, compost | Moderate | 2-3 years | Fruits in cool weather; excellent edible |
-| Shaggy mane (Coprinus comatus) | Compost, disturbed soil | Moderate | 1-2 years | Must harvest immediately; deliquesces |
+| Shaggy mane ([[coprinus-comatus]]) | Compost, disturbed soil | Moderate | 1-2 years | Must harvest immediately; deliquesces |
 | Psilocybe cyanescens/azurescens | Alder chips, dune grass | Moderate | 3-5+ years | See [[outdoor-wood-lover-cultivation]] for specifics |
 
 ### Species to Avoid Outdoors
 
-- Shiitake — prefers logs or supplemented sawdust blocks
+- Shiitake — prefers logs or [[oyster-mushroom-supplemented-sawdust-blocks]]
 - Reishi — needs high humidity; better suited to logs or indoor bags
 - Lion's mane — sensitive to contamination in outdoor settings
 - Button/portobello (Agaricus bisporus) — requires specialized compost
@@ -95,7 +95,7 @@ The primary substrate for most outdoor bed species. Key considerations:
 
 ### Spring Inoculation (March-May)
 
-- Best timing for most temperate climates
+- Best timing for most [[fukuoka-natural-farming-temperate-climates]]
 - Ground is warming; rain provides moisture
 - Spawn colonizes through summer
 - First fruiting in late summer to fall

@@ -88,30 +88,3 @@ The species is moderately palatable to grazing livestock and white-tailed deer, 
 It is a component of native prairie seed mixes used in ecological restoration, particularly for dry-mesic upland sites.
 
 Pollinator value is moderate, as the wind-pollinated flowers do not produce nectar, but the foliage supports grass-feeding insects.
-
-## Landscape Applications
-
-Pink muhly grass is widely used in mass plantings, borders, meadow-style landscapes, and container cultivation.
-
-Its fine texture provides contrast against broad-leaved perennials, succulents, and architectural elements.
-
-The species is a key component of "new American" garden design, which emphasizes native plants and naturalistic planting schemes.
-
-It is commonly planted in highway medians, public parks, and commercial landscapes in the southern and central United States.
-
-The autumn floral display provides seasonal interest when many other perennials have finished blooming.
-
-Its drought tolerance makes it suitable for xeriscaping and low-input sustainable landscapes.
-
-Deer resistance and minimal pest or disease issues further contribute to its popularity in residential and public plantings.
-
-## See Also
-
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[bouteloua-curtipendula]]
-- [[deschampsia-caespitosa]]
-- [[miscanthus-sinensis]]
-- [[pennisetum-setaceum]]
-- [[spartina-alterniflora]]
-- [[phragmites-australis]]

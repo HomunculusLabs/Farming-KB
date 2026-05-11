@@ -38,16 +38,16 @@ mushroom's active compounds.
 The notion that Santa descends the chimney bearing gifts parallels the
 shaman's return from the spirit-world bearing knowledge and healing
 for the community. The entire Santa Claus legend, in this reading, is
-a domesticated remnant of an ancient shamanic practice centred on the
+a domesticated remnant of an ancient [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] centred on the
 fly-agaric mushroom.
 
 ## Origins of the Story
 
 The story has a surprisingly recent origin. It was first proposed by
-Robert Graves, the English poet, who made characteristically throwaway
+[[robert-graves-british-mushroom-connection]], the English poet, who made characteristically throwaway
 remarks about the supposed history of hallucinogenic fungi. The idea
-was picked up by the American writer Jonathan Ott, presumably via
-Gordon Wasson, with whom both men were friends, who mentioned it in
+was picked up by the American writer [[jonathan-ott]], presumably via
+[[gordon-wasson-comparative-method-ethnomycology]], with whom both men were friends, who mentioned it in
 his popular 1976 book about the narcotic plants of [[psilocybin-north-america-pacific-northwest]].
 
 From there, the idea was seized upon by the young academic Rogan
@@ -68,7 +68,7 @@ place entirely in an otherworldly dimension.
 
 Hutton reiterated the fact that fly-agaric use among Siberian peoples
 was intermittent and uneven among shamans, and that Americans only
-began to be aware of Siberian shamanism towards the end of the
+began to be aware of [[harner-amanita-muscaria-siberian-shamanism]] towards the end of the
 [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], long after Clement Clark Moore composed his famous
 poem in 1822.
 
@@ -84,54 +84,7 @@ of children on his feast day.
 
 New Amsterdam was eventually captured by the English, who renamed it
 New York, and Santa Claus was forgotten. However, Santa was revived in
-the early nineteenth century by writers such as Washington Irving and,
+the early [[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]] by writers such as Washington Irving and,
 most importantly, Clement Clark Moore (1779-1863), whose hugely
 popular 1822 poem "A Visit from St Nicholas" created the modern image
 of Santa: a fur-clad, magical figure in a reindeer-driven sleigh,
-delivering presents via the chimney.
-
-It was Moore, with his vivid imagination, who pretty well singlehandedly
-created the modern Santa. He had acquired his red-and-white garb by
-the end of the nineteenth century, before Coca-Cola started to employ
-him in their advertising in the 1930s, so that particular suggestion
-can be discounted.
-
-## Why the Myth Persists
-
-Charming and appealing as the fly-agaric Santa story is, we can say
-with great certainty that Moore was drawing not upon any shamanistic
-folk memory, but upon his particular talent for creative writing. Yet
-the story persists because it performs a crucial function within
-psychedelic culture. It functions in exactly the same way that Alice
-in Wonderland did for the sixties generation, providing a comforting
-narrative that links modern Western life to an imagined ancient
-psychedelic heritage.
-
-The story of the shaman, the man with a foot in two worlds, is one
-that has captivated Western armchair-bound imaginations and been spread
-around the globe. Whenever and wherever Westerners have encountered
-something that appears remotely similar to their constructed idea of
-shamanism, they have named it as such. So often, in fact, that many in
-the West believe shamanism is some primal human urge that will always
-push its way to the surface. These are stories that tell us more about
-ourselves than about the cultures we purport to describe.
-
-## The Urine-Drinking Reindeer
-
-One element of the broader Siberian fly-agaric complex that is well
-attested is the relationship between the mushroom, reindeer, and human
-urine. Reindeer become intoxicated after eating fly-agaric and will
-actively seek it out. During winter months, when they survive largely
-by eating lichen, they seem compulsively to crave human urine,
-presumably for its mineral content. Humans discovered the properties
-of the mushroom by observing their animals and then progressed to
-urine-drinking themselves, though it is a modern urban myth that anyone
-drank reindeer urine directly. An intoxicated deer would simply be
-slaughtered and eaten, passing on the effects.
-
-## Related Topics
-
-- [[fly-agaric-siberian-shamanic-practice]] - [[fly-agaric-siberian-shamanic-practice]] use
-- [[fly-agaric-western-literature]] - fly agaric in Western culture
-- mushroom-symbolism-visual-art - visual symbolism
-- [[fly-agaric-santa-claus-myth]]

@@ -88,10 +88,3 @@ Palmer calls puff-balls "the safest mushrooms for the beginner" and provides the
 Palmer did not write as a detached theorist. He recounts his own illness from eating a favorite Boletus, the *sud-tomentosus* (olive-red Boletus), noting that he was "perfectly sure of the culprit, because the very specimens by which I was made ill were plucked from the matrix from whence I had eaten some bushels of the plant." This personal experience reinforced his cautionary message: conditions of growth and individual specimen variation can make an ordinarily edible species dangerous.
 
 ## The Agarics: Greatest Challenge
-
-Palmer reserved his greatest caution for the gilled mushrooms (Agaricini): "The Agaricini cannot be thus generalized, and I regard them as the least safe for the amateur, although it is to this class that the celebrated individual honored by English-speaking people with the title of 'a mushroom' belongs." He notes that the common mushroom (*Agaricus campestris*) "varies so widely with its circumstances" that even detailed description may not be sufficient for certain identification.
-
-## The Role of Drawings and Observation
-
-Palmer produced colored plates to accompany his written descriptions, arguing that the hand and eye acquire "a delicacy of analysis, impossible to communicate in words." His approach combined written guidance with visual illustration, recognizing that mushroom identification is ultimately a perceptual skill that must be cultivated through direct experience rather than learned from text alone.
-- [[field-guide-psilocybin-mushroom-species-identification]]

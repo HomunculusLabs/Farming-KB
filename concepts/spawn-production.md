@@ -88,13 +88,3 @@ density. Liquid culture should be used within 30 days.
 
 Contamination usually results from incomplete sterilization, poor
 [[pf-tek-inoculation-technique-and-syringe-management]], or compromised filter patches. Slow or stalled
-colonization can indicate overly wet grain, insufficient gas exchange,
-old mycelium, or suboptimal temperature. Bacterial wet spot, caused by
-excess moisture creating anaerobic pockets, is a frequent issue. The
-solution is better grain hydration and proper drying before bagging.
-
-## See Also
-
-- [[mushroom-cultivation-in-kenya]]
-- [[mushroom-substrates]]
-- [[sterilization]]

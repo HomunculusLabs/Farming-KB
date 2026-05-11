@@ -87,35 +87,3 @@ Pests include narcissus bulb fly (*Merodon equestris*) and the bulb mite (*Rhizo
 *G. nivalis* is closely related to *G. elwesii* (giant snowdrop), which has broader leaves and larger flowers. *G. plicatus* (Crimean snowdrop) is another close relative, distinguished by folded (plicaté) leaf margins and a green blotch on the inner tepals.
 
 Other notable species include *G. woronowii* (the primary commercial source of galantamine), *G. ikariae* (from the eastern Aegean islands), and *G. reginae-olgae* (autumn-flowering, from Greece and Sicily). Hybrids between species are common in cultivation.
-
-The genus has received CITES Appendix II protection due to over-harvesting of wild populations for the pharmaceutical trade and horticultural bulb trade. All *Galanthus* species are protected from wild collection in most European countries.
-
-## Chemistry and Pharmacology
-
-The Amaryllidaceae alkaloid profile of *G. nivalis* has been extensively studied due to the pharmaceutical importance of galantamine. The bulb is the richest source, containing approximately 0.1–0.5% galantamine by dry weight.
-
-Galantamine is a reversible, competitive acetylcholinesterase inhibitor that also modulates nicotinic acetylcholine receptors. It was first isolated from the bulbs of *Galanthus woronowii* by Soviet pharmacologists in the 1950s and approved for Alzheimer's treatment in 2001.
-
-Other notable alkaloids include lycorine (a cytotoxic and antiviral compound), nivaline (a derivative of galantamine), and galanthine. Lycorine inhibits protein synthesis and has demonstrated antiviral activity against several RNA viruses in vitro.
-
-Nivaline has been investigated as an adjunct to galantamine therapy, with some studies suggesting synergistic effects on cholinergic neurotransmission. The complete alkaloid profile of *G. nivalis* includes over 30 distinct Amaryllidaceae alkaloids.
-
-Traditional use of snowdrop bulbs as a medicine dates back centuries in Eastern European and Caucasian folk medicine, where preparations were used for neurological conditions, poliomyelitis, and musculoskeletal pain. This ethnobotanical knowledge directly led to the modern pharmaceutical development of galantamine.
-
-Soviet pharmacologist Mikhail Mashkovsky first investigated the clinical use of galantamine-containing preparations in the 1950s for post-polio paralysis and myasthenia gravis. The transition to Alzheimer's therapy came decades later, after the cholinergic hypothesis of Alzheimer's disease gained acceptance in the 1980s.
-
-Commercial galantamine is now primarily synthesized chemically rather than extracted from plant material. However, wild harvesting of *Galanthus* species for alkaloid extraction continues in parts of Turkey and the Caucasus, contributing to conservation concerns.
-
-## See Also
-
-- [[galantamine]]
-- [[crocus-sativus]]
-- [[colchicum-autumnale]]
-- [[convallaria-majalis]]
-- [[allium-schoenoprasum]]
-- [[allium-cepa]]
-- narcissus pseudonarcissus
-- [[iris-pseudacorus]]
-- [[nerium-oleander]]
-- [[digitalis-purpurea]]
-- [[atropa-belladonna]]

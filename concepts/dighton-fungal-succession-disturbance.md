@@ -1,5 +1,5 @@
 ---
-title: Fungal Succession in Disturbance
+title: Dighton Fungal Succession Disturbance
 created: 2026-04-26
 sources: Dighton (2003) "Fungi in fungal-ecosystem-processes-overview" Ch. 2, 3, 5
 tags: [succession, disturbance, fire, clear-cut, deforestation, colonization, pioneer, primary-succession]
@@ -38,7 +38,7 @@ Fire is a natural disturbance that maintains both plant and fungal diversity (Vi
 
 ### Fire Intensity and Soil Damage
 - **Minimal soil damage**: Residual ECM communities survive on dying roots of former trees. If forest re-establishes rapidly, these act as inoculum sources, maintaining species diversity similar to the pre-fire community (Baar et al., 1999; Jonsson et al., 1999b)
-- **Severe soil damage**: Loss of organic matter and inoculum requires colonization from spores or vegetative propagules, resulting in different [[core-endorhiza-bacterial-community-composition-cannabis]]
+- **Severe soil damage**: Loss of [[savory-soil-organic-matter-and-decomposition-dynamics]] inoculum requires colonization from spores or vegetative propagules, resulting in different [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Environmental Changes After Fire
 - **Nutrient mineralization**: Fire releases nutrients, creating a temporary "fertilizer effect"
@@ -47,8 +47,8 @@ Fire is a natural disturbance that maintains both plant and fungal diversity (Vi
 - These changes affect relative survival and physiological function of different ECM species
 
 ### Successional Dynamics
-- **Early successional species**: Rapid colonizers with high spore production, broad host range (e.g., *Thelephora terrestris*, *Laccaria laccata*)
-- **Late successional species**: Slower-growing, often host-specific, with greater enzyme capabilities for organic nutrient acquisition
+- **Early successional species**: Rapid colonizers with high spore production, broad host range (e.g., *[[thelephora-terrestris]]*, *[[laccaria-laccata]]*)
+- **Late successional species**: Slower-growing, often host-specific, with greater enzyme capabilities for organic [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 - **Frankland (1992, 1998)** and **Boerner et al. (1996)** described succession of ECM fungi during forest re-establishment
 
 ## Post-Agricultural Succession
@@ -81,37 +81,9 @@ Titus and Tsuyuzaki (2002) studied primary succession on Mt. Koma volcanic subst
 
 Lack of viable communal ECM networks post-disturbance is attributed to reduced tree survival. These networks provide ecosystem stability through:
 - Carbon exchange between connected plants
-- Nutrient sharing between individuals
+- [[lowenfels-mycorrhizal-network-nutrient-sharing]] between individuals
 - Buffering against environmental stress
 
 ## Litter Manipulation and Succession
 
 ### Litter Removal and Addition Experiments
-
-- **Baar and de Vries (1995)**: Complete litter removal on Scots pine forest floor increased ECM species diversity; doubling litter reduced diversity below controls
-- **Mahmood et al. (1999)**: Repeated litter harvesting in Swedish spruce forest reduced ECM abundance but not species number
-- **Baar et al. (1994)**: Pine leaf litter extracts reduced growth of *Laccaria proxima* and *Rhizopogon luteolus*; grass extracts inhibited *L. proxima*, *P. involutus*, and *R. luteolus* but enhanced *Laccaria bicolor*
-- **Koide et al. (1998)**: Phenolic compounds (catechin, epicatechin gallate) differentially affected ECM species -- stimulating *Suillus intermedius* while reducing *Amanita rubescens*
-
-## Succession on Glacial Outwash and Volcanic Soils
-
-- **Gehring and Whitham (1994)**: Pinyon pine on cinder soils showed doubled growth with ECM compared to adjacent loam soil, overcoming multiple stresses (half moisture, one-third P, no mineralizable N)
-- **Jumpponen et al. (1998)**: Dark septate mycorrhizal fungus *Phialocephala fortinii* enhanced phosphate acquisition for lodgepole pine on glacial outwash
-
-## Key References
-
-- Frankland, J.C. (1992, 1998). Fungal succession. In: *The Fungal Community*.
-- Visser, S. (1995). Post-fire ECM succession. *Can. J. Bot.*
-- Baar, J. et al. (1999). Post-fire ECM inoculum sources. *Mycorrhiza*.
-- Barni, E. and Siniscalco, C. (2000). Post-agricultural [[dighton-mycorrhizal-succession-forest-ecosystems]]. *Acta Oecol.*
-- Titus, J.H. and Tsuyuzaki, S. (2002). Primary succession on Mt. Koma. *Am. J. Bot.*
-
-## See Also
-
-- fungal-succession
-- fungal-communities-succession
-- [[fungal-succession-leaf-litter]]
-- [[fungal-succession-wood]]
-- [[decomposition]]
-- [[lignin-degradation]]
-- [[laccaria-bicolor]]

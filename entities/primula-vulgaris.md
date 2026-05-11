@@ -21,9 +21,9 @@ sources:
 
 **Primula vulgaris**, the common primrose, is a small herbaceous perennial native to Europe and western Asia. It is one of the most recognizable and beloved spring wildflowers of the British Isles and temperate Europe.
 
-The species produces clusters of pale yellow, funnel-shaped flowers on short hairy stems arising from a rosette of crinkled basal leaves. Flowers appear from late winter through early spring, often among the first blooms of the year.
+The species produces clusters of pale yellow, funnel-shaped flowers on short hairy stems arising from a rosette of crinkled basal leaves. Flowers appear from late winter through [[coleman-overwintered-onions-and-early-spring-crops]], often among the first blooms of the year.
 
-Primroses have been cultivated for centuries and hold deep cultural significance in European folklore, literature, and horticulture. Shakespeare referenced primroses in several works, and the flower has been associated with youth, spring, and first love.
+Primroses have been cultivated for centuries and hold deep [[amanita-muscaria]] [[mandrake-mandragora-officinarum-in-european-folklore]], literature, and horticulture. Shakespeare referenced primroses in several works, and the flower has been associated with youth, spring, and first love.
 
 In "A Midsummer Night's Dream," Shakespeare writes of "the primrose path of dalliance," cementing the flower's literary association with pleasant but potentially deceptive ease. The phrase has entered common English idiom.
 
@@ -57,17 +57,17 @@ The species is most abundant in the British Isles, where it is a characteristic 
 
 Typical habitats include deciduous woodlands, shady hedge banks, road verges, and damp meadows. It prefers partial shade and moist, humus-rich, neutral to slightly acidic soils.
 
-Primroses thrive in the dappled light beneath deciduous canopies, flowering before the tree canopy closes in late spring. This phenological strategy allows the plant to complete its reproductive cycle during the high-light period.
+Primroses thrive in the dappled light beneath deciduous canopies, flowering before the [[tree-canopy-fungal-sampling-techniques]] closes in late spring. This phenological strategy allows the plant to complete its reproductive cycle during the high-light period.
 
-Primroses are found from sea level to approximately 1,400 meters elevation. They avoid waterlogged soils and exposed, windswept sites. The species has been widely naturalized beyond its native range in temperate regions.
+Primroses are found from sea level to approximately 1,400 meters elevation. They avoid waterlogged soils and exposed, windswept sites. The species has been widely naturalized beyond its native range in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
-Naturalized populations exist in eastern North America, New Zealand, and parts of Australia. In some areas, garden escapes have interbred with locally native *Primula* species, raising conservation concerns for endemic taxa.
+Naturalized populations exist in [[polypore-fungi-eastern-north-america]], New Zealand, and parts of Australia. In some areas, garden escapes have interbred with locally native *Primula* species, raising conservation concerns for endemic taxa.
 
 ## Cultivation
 
 Primroses are easily cultivated in moist, humus-rich soil in partial shade. They tolerate full sun in cooler climates but require consistent moisture and protection from afternoon heat in warmer regions.
 
-Plants are typically propagated by division after flowering, separating the rosette offsets from the parent plant. Seed germination benefits from cold stratification at 4°C for 2–4 weeks.
+Plants are typically propagated by division after flowering, separating the rosette offsets from the parent plant. [[cannabis-seed-germination]] benefits from cold stratification at 4°C for 2–4 weeks.
 
 Seeds should be sown on the soil surface and not covered, as they require light to germinate. Fresh seed germinates readily, but viability declines rapidly with storage.
 
@@ -88,32 +88,3 @@ The heterostylous system ensures effective cross-pollination. Pin flowers have l
 This polymorphic system was first described by Charles Darwin, who used primroses as a model for his studies on the evolution of plant reproductive strategies. Darwin's work on heterostyly in *Primula* was foundational to modern plant breeding system theory.
 
 Other frequent visitors include hoverflies (*Syrphidae*), butterflies, and small moths. Short-tongued insects often act as pollen thieves, collecting pollen without effectively transferring it between flower morphs.
-
-The foliage serves as a food plant for the caterpillars of several moth species, including the primrose moth (*Xanthorhoe montanata*) and the silver-ground carpet (*Xanthorhoe montanata*). Slugs and snails also feed heavily on the leaves and flowers.
-
-Deer and rabbits generally avoid primroses due to the slightly toxic saponin content in the foliage. This natural resistance makes the species useful in gardens where browsing pressure is a concern.
-
-## Uses and Folklore
-
-Primrose flowers and young leaves are edible and have a mild, slightly sweet flavor. Flowers are used as garnishes, in salads, and can be crystallized for cake decoration. Young leaves can be eaten raw or cooked like spinach.
-
-In traditional European herbal medicine, primrose roots and flowers were used as an expectorant, mild sedative, and anti-inflammatory. The roots contain saponins, which may account for some of the documented expectorant activity.
-
-Primrose root tea was historically prescribed for headaches, tremors, and nervous conditions. The German Commission E has evaluated *Primula veris* root (not *P. vulgaris*) and recognized its use as an expectorant.
-
-In English folklore, primroses were associated with fairies and were believed to protect against witchcraft. Bouquets of primroses were traditionally left on doorsteps on May Day. Children were warned never to bring fewer than 13 primroses indoors, as this would invite misfortune.
-
-The flower is the county flower of Devon, England, and appears on the coat of arms of several British municipalities. Primrose Day, April 19th, commemorates the death of Benjamin Disraeli, who was fond of the flower.
-
-## See Also
-
-- [[narcissus-pseudonarcissus]]
-- [[galanthus-nivalis]]
-- [[convallaria-majalis]]
-- [[digitalis-purpurea]]
-- [[allium-ursinum]]
-- [[taraxacum-officinale]]
-- [[mentha-piperita]]
-- [[thymus-vulgaris-entity]]
-- [[viola-odorata]]
-- [[cyclamen-purpurascens]]

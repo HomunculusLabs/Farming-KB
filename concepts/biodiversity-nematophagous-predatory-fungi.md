@@ -88,18 +88,3 @@ as [[comparison-crop-rotation-vs-cover-cropping]] and tillage.
 
 Some nematophagous fungi also attack rotifers (bdelloid rotifers), which
 are abundant in terrestrial mosses, soil, and freshwater habitats.
-Rotifer-destroying fungi include both predatory species with trapping
-devices and endoparasitic species with adhesive spores. Aquatic rotifer
-habitats including freshwater ponds, mosses, and sediments harbor
-specialized fungi adapted to these environments.
-
-## Diversity and Discovery
-
-The full diversity of nematophagous fungi is far from catalogued.
-Many species likely remain undescribed, particularly in tropical
-soils and aquatic habitats that have been poorly sampled. Describing
-new or rare parasites requires careful observation of trapping or
-infection structures, spore morphology, and host specificity.
-## See Also
-
-See also: [[nematodes-in-soil-ecology]]

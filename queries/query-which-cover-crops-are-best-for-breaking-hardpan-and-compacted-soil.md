@@ -134,5 +134,5 @@ This rotation progressively addresses compaction at increasing depths while main
 - [[query-best-cover-crops-for-sandy-soil]]
 
 - [[cover-crop-quick-reference]] — comprehensive cover crop selection guide
-- [[soil-food-web]] — how soil biology improves soil structure
+- [[soil-foodweb]] — how soil biology improves soil structure
 - [[raised-beds-vs-in-ground-vs-containers]] — alternatives for severely compacted sites

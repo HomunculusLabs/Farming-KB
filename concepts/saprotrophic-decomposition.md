@@ -88,23 +88,3 @@ waterlogged wood and in tropical environments.
   and waterlogging suppress fungal activity.
 - **Temperature**: Roughly doubles for every 10C increase (Q10 ~ 2),
   up to optima around 25-30C for most temperate species.
-- **Fungal diversity**: Mixed-species communities often decompose
-  faster than monocultures due to complementary enzyme production.
-
-## Carbon Fate After Decomposition
-
-1. **CO2 release**: Fungal respiration returns 40-70% to the atmosphere.
-2. **Fungal biomass**: 10-30% is incorporated into living tissue.
-3. **Soil organic matter**: 10-40% persists as humus and mineral-
-  associated organic matter (MAOM) for centuries to millennia.
-
-The balance among these pathways determines whether an ecosystem
-functions as a net carbon source or sink. See
-[[fungal-role-in-carbon-cycling]] and [[fungal-ecology]] for broader
-context on fungal contributions to ecosystem carbon dynamics.
-
-## See Also
-
-- [[fungal-ecology]]
-- [[singh-lignin-peroxidase-lip-fungal-degradation]]
-- [[fungal-role-in-carbon-cycling]]

@@ -11,8 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Berde, B. & Schild, H.O. (1978). Ergot Alkaloids and Related Compounds. Springer-Verlag."
-  - "Hofmann, A. (1978). \"The ergot alkaloids: History, chemistry, and pharmacology.\" In: Ergot Alkaloids. Springer, 3-24."
+  - "Berde, B. & Schild, H.O. (1978). claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
+  - "Hofmann, A. (1978). \"The [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]: History, chemistry, and pharmacology.\" In: Ergot Alkaloids. Springer, 3-24."
   - "Schultz, J.E. & Tatlock, J.H. (2018). \"Biosynthesis of ergot alkaloids in fungi.\" Applied Microbiology and Biotechnology, 102(15), 6467-6482."
   - "Pertz, H.H. & Eich, E. (1999). \"Ergot alkaloids and their derivatives as ligands for serotoninergic, dopaminergic, and adrenergic receptors.\" Current Pharmaceutical Design, 5(5), 317-339."
 ---
@@ -82,41 +82,9 @@ additional activity at serotonin 5-HT₁A, 5-HT₂A, and adrenergic α₁ and
 
 The dopaminergic agonism produces:
 - Inhibition of prolactin secretion from anterior pituitary lactotrophs
-- Reduction in growth hormone secretion
+- Reduction in [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] secretion
 - Antiemetic activity via the chemoreceptor trigger zone
 - Vasoconstriction via peripheral α-adrenergic action
 
 β-Ergocryptine (ergocristinine) has significantly reduced receptor affinity
 due to the unfavorable stereochemistry at the cyclol bridge, demonstrating
-the critical importance of epimeric configuration for biological activity.
-
-## Biosynthesis
-
-Ergocryptine is assembled in *Claviceps* spp. via the ergot alkaloid
-biosynthetic pathway:
-
-1. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
-   (DMATS) → 4-dimethylallyl-L-tryptophan
-2. **Methylation** by FAD-dependent oxidoreductase → chanoclavine-I
-3. **Oxidative rearrangement** through chanoclavine-I aldehyde →
-   agroclavine → elymoclavine
-4. **Hydroxylation and lysergyl peptide formation** — lysergyl-CoA is
-   coupled to the tripeptide (L-Ala-L-Pro-Aib) by the non-ribosomal
-   peptide synthetase complex ergopeptine synthase
-5. **Cyclol formation** — spontaneous or enzyme-catalyzed cyclization
-   yields the ergopeptine scaffold
-
-The specific incorporation of α-aminoisobutyric acid (Aib) into the
-tripeptide chain distinguishes ergocryptine biosynthetically from
-ergocristine (valine) and ergocornine (α-aminobutyric acid).
-
-## Related Compounds
-
-| Compound | Key Difference |
-|----------|---------------|
-| [[ergocornine]] | L-α-aminobutyric acid in tripeptide; MW 561.7 |
-| ergocristinine | C-8 epimer of ergocristine (β-epimer) |
-| [[ergotamine]] | L-Phenylalanine in tripeptide; MW 581.7 |
-| [[ergocristine]] — Structurally related ergopeptine with L-valine
-- [[ergotamine]] — Clinically important ergopeptine with broader use
-- [[lysergic-acid-amide]] — Biosynthetic precursor to all ergopeptines

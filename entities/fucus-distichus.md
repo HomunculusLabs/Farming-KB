@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Druehl, L.D. (2000). "Pacific Seaweeds." Harbour Publishing.
-  - Gabriel, W.L. (1974). "Taxonomy and distribution of Fucus distichus." Journal of Phycology, 10, 46–51.
+  - Gabriel, W.L. (1974). "[[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] of Fucus distichus." Journal of Phycology, 10, 46–51.
   - Kawai, H. et al. (2007). "Taxonomic revision of Fucus distichus." Phycological Research, 55(2), 77–88.
   - Burtin, P. (2003). "Nutritional value of seaweeds." Journal of Applied Phycology, 15, 517–525.
 ---
@@ -44,17 +44,17 @@ F. distichus has a bipolar distribution in cold to temperate waters. In the Paci
 
 The species occupies the high to mid-intertidal zone on rocky shores, often forming the uppermost algal band above other fucoids. It is remarkably tolerant of desiccation, temperature extremes, and salinity fluctuations.
 
-Optimal growth occurs at 5–15°C in areas with moderate to strong wave action. The species is less common in sheltered habitats where it is outcompeted by larger fucoids such as *Fucus vesiculosus*.
+Optimal growth occurs at 5–15°C in areas with moderate to strong wave action. The species is less common in sheltered habitats where it is outcompeted by larger fucoids such as *[[fucus-vesiculosus]]*.
 
 It attaches to stable rock substrates in areas with clean, nutrient-rich water. The species is absent from heavily sedimented or polluted coasts.
 
 ## Nutritional and Culinary Use
 
-F. distichus is consumed as food in several cultures. In Alaska, British Columbia, and the Pacific Northwest, it is harvested as a wild edible seaweed, eaten fresh, dried, or pickled.
+F. distichus is consumed as food in several cultures. In Alaska, British Columbia, and the [[psilocybin-north-america-pacific-northwest]], it is harvested as a wild edible seaweed, eaten fresh, dried, or pickled.
 
-The fronds have a mild, slightly salty flavor with a chewy texture when fresh. Dried rockweed can be reconstituted in soups, stir-fries, and salads. It is rich in iodine, potassium, magnesium, and trace minerals.
+The fronds have a mild, slightly salty flavor with a chewy texture when fresh. Dried rockweed can be reconstituted in soups, stir-fries, and salads. It is rich in iodine, potassium, magnesium, and [[dynamic-accumulator-plants-trace-minerals]].
 
-Nutritional analysis shows approximately 10–15% protein (dry weight), 40–50% carbohydrates, and 1–3% fat. The polysaccharide fraction includes alginate, fucoidan, and laminarin, all with bioactive properties.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows approximately 10–15% protein (dry weight), 40–50% carbohydrates, and 1–3% fat. The polysaccharide fraction includes alginate, fucoidan, and laminarin, all with bioactive properties.
 
 In traditional Chinese cuisine, related Fucus species are used in soups and health foods. The species is sometimes marketed as a dietary supplement for thyroid support due to its iodine content.
 
@@ -70,7 +70,7 @@ The species also produces fucoxanthin, a carotenoid pigment with demonstrated an
 
 F. distichus is a foundational species in intertidal ecosystems. Its dense canopies provide shelter, food, and attachment surfaces for a diverse community of invertebrates, juvenile fish, and other algae.
 
-The species serves as primary food for herbivorous gastropods (*Littorina* spp.) and isopods. Grazing pressure significantly affects thallus morphology, with heavily grazed plants producing shorter, more branched forms.
+The species serves as primary food for herbivorous gastropods (*Littorina* spp.) and isopods. [[gadd-mycelial-network-resilience-grazing-pressure]] significantly affects thallus morphology, with heavily grazed plants producing shorter, more branched forms.
 
 The holdfast and thallus surface support diverse epiphytic communities including diatoms, red algae, and sessile invertebrates. The species contributes substantially to primary productivity in the intertidal zone.
 
@@ -87,26 +87,3 @@ The F. distichus species complex has undergone extensive taxonomic revision. Som
 Molecular phylogenetic studies using ITS and rbcL markers have supported the recognition of distinct genetic lineages corresponding to geographic populations. However, morphological intergradation at contact zones complicates formal species delimitation.
 
 The related species *Fucus gardneri* has been variously treated as a separate species or synonym of F. distichus. Current molecular evidence suggests F. gardneri warrants species status, though some morphological overlap persists.
-
-Pacific populations from Alaska to California show considerable variation in vesicle presence, thallus width, and branching pattern. [[duggar-mushroom-environmental-factors-temperature-moisture-light]], particularly wave exposure, strongly influence morphology and contribute to [[neurotropic-fungi-taxonomic-confusion-and-identification]].
-
-## Traditional and Ethnobotanical Use
-
-Indigenous peoples of the Pacific Northwest have long harvested rockweed as a food source and for medicinal purposes. The seaweed was eaten fresh, dried for winter storage, or boiled into broth.
-
-Coastal First Nations communities used Fucus species as a topical treatment for [[cannabis-for-skin-conditions-detailed]], wounds, and joint pain. The seaweed was applied as a poultice or mixed with other medicinal plants.
-
-In traditional Chinese medicine, related Fucus species are prescribed for goiter, edema, and as a diuretic. The iodine content of the algae supports thyroid function, and the fucoidan fraction is believed to have immune-modulating effects.
-
-In Japan and Korea, Fucus species are less commonly consumed than Laminariales but are used in regional dishes and health preparations. The species is sometimes included in anti-obesity dietary supplements due to its fucoxanthin content.
-
-## See Also
-
-- [[fucus-serratus]]
-- [[laminaria-digitata]]
-- [[alaria-esculenta]]
-- [[chondrus-crispus]]
-- [[ulva-lactuca]]
-- [[grateloupia-turuturu]]
-- [[bangia-atropurpurea]]
-- [[caulerpa-racemosa]]

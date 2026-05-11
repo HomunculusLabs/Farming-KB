@@ -1,5 +1,5 @@
 ---
-title: [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] Tropisms
+title: Psilocybe Cubensis Tropisms
 created: 2026-05-09
 tags: [mycology, tropism, psilocybe, mushroom-development, phototropism]
 date: 2026-05-09
@@ -88,49 +88,3 @@ At Stage 2, a negative geotropic response emerges in fertile basidiocarps:
 
 When mushrooms are rotated horizontally to equalize gravity under constant
 illumination, growth and pileus expansion are both horizontal. Rotation
-parallel to the airflow results in [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] with the pileus opening
-into the wind.
-
-### Light Requirements
-
-Light plays multiple roles in P. [[light-multi-phase-regulatory-signal-psilocybe-cubensis-development]]:
-1. **Initiation of basidiocarps** — required for [[fungal-fruiting-body-formation-environmental-triggers]]
-2. **Spore formation** — necessary for sporulation
-3. **Geotropic sensitivity** — appears to be required for negative geotropic
-   response, likely indirectly through its role in spore production
-4. **Stipe elongation inhibition** — light exerts some inhibitory effect on
-   stipe elongation
-
-### Sterile Mutant Behavior
-
-A sterile (sporeless) mutant strain was studied as a control. Key differences:
-- Exhibited anemotropic response during Stages 1–2 (identical to fertile)
-- Did NOT show negative geotropic recurvation at Stage 2
-- Continued growing in the wind direction without correction
-
-This strongly supports the hypothesis that [[mushroom-negative-geotropism]] is
-linked to substances produced in the gills during spore formation.
-
-## Proposed Mechanism
-
-Badham proposed that stipe elongation involves a gradient of evaporative demand
-across the stipe surface. The windward side of the stipe is exposed to greater
-drying effect than the leeward side due to boundary layer redistribution. This
-differential in evaporative demand (a function of wind, humidity, light, and
-temperature) causes cells of the stipe to grow at different rates, resulting in
-curvature toward the direction of greatest evaporative demand.
-
-At Stage 2, a substance produced in the gills during spore formation modifies
-this primary tropism, causing the mushroom to respond primarily to gravity
-instead.
-
-## Adaptive Significance
-
-The tropic responses serve adaptive functions:
-- [[mushroom-anemotropism]] may place caps in favorable positions for spore
-  dispersal and increase spacing between stipes of [[cespitose-fruiting-body-spacing-and-tropism]] bodies
-- [[mushroom-negative-geotropism]] ensures horizontal pileus orientation optimal
-  for spore release, particularly important for lignicolous and coprophagous
-  species occupying unstable habitats
-- The partial veil may protect the upper stipe from wind and light prior to
-  final cap repositioning before spore release

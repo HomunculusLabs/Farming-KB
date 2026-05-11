@@ -12,11 +12,11 @@ sources: []
 ## Overview
 
 St. John's Wort is a perennial herbaceous plant native to Europe, western
-Asia, and North Africa, now naturalized throughout much of North America. (see [[echinacea-growing-guide]]).
+Asia, and North Africa, now naturalized throughout much [[berry-growing]].
 Named for flowering around St. John's Day (June 24), it has been used
 medicinally for over 2,400 years and is one of the most clinically studied
 herbal remedies, particularly for mild to moderate depression. It also
-produces a beautiful red oil infusion valued in topical herbal medicine. (see [[hawthorn-berry-guide]]).
+produces a beautiful red oil infusion valued in topical [[childrens-herbal-medicine]].
 
 ## Botanical Profile
 
@@ -30,7 +30,7 @@ produces a beautiful red oil infusion valued in topical herbal medicine. (see [[
 The name "perforatum" refers to the translucent oil glands visible in the
 leaves when held up to light. Flowers are bright yellow with five petals
 and prominent stamens. When flower buds or flowers are crushed, they release
-a reddish-purple pigment (hypericin), which is the signature of this plant. (see [[chamomile-growing-guide]]).
+a reddish-purple pigment (hypericin), which is the signature of this plant.
 
 ## Medicinal Uses
 
@@ -41,7 +41,7 @@ serotonin, dopamine, and norepinephrine reuptake.
 
 Internal uses:
 - Mild to moderate depression: The most extensively studied use. Numerous
-  clinical trials and meta-analyses support its efficacy, showing it is
+  [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] and meta-analyses support its efficacy, showing it is
   comparable to standard SSRIs for mild to moderate depression with fewer
   side effects for many people.
 - Anxiety: Often co-occurs with depression treatment; may help with
@@ -60,7 +60,7 @@ Topical uses:
 
 ## Critical Drug Interactions
 
-St. John's Wort is notorious for drug interactions and must be used with
+St. John's Wort is notorious for [[cannabis-drug-interactions-and-contraindications]] must be used with
 caution. It is a potent inducer of cytochrome P450 enzymes (particularly
 CYP3A4) and P-glycoprotein, which speeds up the metabolism of many drugs:
 
@@ -139,7 +139,7 @@ Management:
 For medicinal use, harvest the upper 6-12 inches of the plant (flowering
 tops including buds, flowers, and upper leaves) during peak bloom.
 
-Optimal harvest timing:
+Optimal [[cannabis-harvest-timing-visual-cues]]:
 - Harvest on a dry, sunny day in mid-morning after dew has dried
 - The highest hypericin content is when approximately 50% of flowers are
   open and 50% are in bud

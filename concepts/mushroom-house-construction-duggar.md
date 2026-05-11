@@ -8,7 +8,7 @@ sources: [raw/papers/benjamin-duggar-mushroom-culture.md]
 ---
 # Mushroom House Construction — Double Walls, Beds, and Ventilation (Duggar)
 Updated: 2026-04-18
-Source: Benjamin Minge Duggar, *Mushroom Growing* (1915), Chapters on
+Source: [[benjamin-minge-duggar-mushroom-cultivation-research]], *[[duggar-mushroom-growing-history-and-methods]]* (1915), Chapters on
 mushroom house construction.
 ## Mushroom House Design Principles
 Duggar's mushroom house design reflects the state of the art in early 20th
@@ -30,10 +30,10 @@ space between them. Key details:
 ### Moisture Management
 A persistent problem in mushroom houses is condensation ("sweating") on
 cold walls. Duggar addressed this with:
-- **Sloped roof design** — encourages air circulation and prevents
+- **Sloped roof design** — encourages [[stamets-growing-room-air-circulation-co2-management]] and prevents
   moisture dripping onto beds
 - **Air space between ceiling and roof** — provides a buffer zone where
-  moisture can accumulate without contacting the growing space
+  moisture can accumulate without contacting the [[cotter-growing-space-design-fruiting-rooms]]
 - The roof ventilator system (preferred over wall ventilators) promotes
   upward air movement that carries excess moisture away
 ## Ventilation Systems
@@ -85,37 +85,6 @@ Duggar recommended gas pipe as a superior alternative to wood:
 - **Earthen floors** — acceptable but harder to sanitize
 - Grading should slope slightly toward drains
 ## Open Air Culture
-Duggar noted that in southern England, open-air mushroom culture was
-practiced using modified cold frames:
+Duggar noted that in southern England, open-air [[cultivator-contaminants-of-mushroom-culture]] was
+practiced using modified [[faires-season-extension-cold-frames]]:
 - No glass covers (unlike standard cold frames)
-- Sheet iron or boards as covers, with straw insulation on top
-- Not generally practical for commercial operations
-- Demonstrates mushrooms can grow without specialised structures given
-  suitable climate conditions
-## Temperature Management
-The ideal temperature range for [[bacteria-and-microorganisms-in-mushroom-fruiting]] is 55-60°F (13-16°C).
-This narrow window makes the double-wall insulation system critical. In
-summer months, ventilation becomes the primary cooling mechanism. In
-winter, supplemental heat may be needed, especially in northern climates.
-The thermal mass of the compost beds themselves contributes significantly
-to maintaining stable temperatures during the active growing period.
-## Pest and Disease Considerations
-Early mushroom houses faced challenges from flies, mites, and fungal
-contaminants. The gas pipe bed supports were specifically recommended
-because wooden structures could harbour pest populations in cracks and
-joints. The emphasis on sanitation — concrete floors, cleanable surfaces,
-and proper drainage — reflects the need to exclude competitors like
-Trichoderma and Coprinus that thrive in poorly managed environments.
-## Modern Relevance
-While modern mushroom growing uses purpose-built concrete structures with
-sophisticated [[chen-maitake-growth-parameters-environmental-control]], Duggar's principles remain valid:
-insulation, ventilation, moisture management, and sanitary bed supports
-are universal requirements. His designs are particularly relevant for
-low-cost mushroom production in [[low-cost-mushroom-growing-house-construction-developing-countries]] where expensive
-climate control systems are unavailable.
-## See Also
-- [[mushroom-growing-environmental-parameters]]
-- mushroom-bed-installation-spawning-duggar-1915
-- [[agaricus-bisporus-cultivation-biology]]
-- mushroom-lighting-and-environmental-requirements
-- [[fukuoka-vegetable-growing-natural-method]]

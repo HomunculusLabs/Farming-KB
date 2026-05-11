@@ -21,7 +21,7 @@ British gardening establishment was slow to respond. The prevailing
 attitude among British gardeners was one of skepticism toward
 continental methods, and the scale of investment required to adopt
 the French system — the cold frames, the cloches, the enormous
-volumes of horse manure — seemed impractical to many.
+volumes of [[coleman-french-maraicher-horse-manure-hotbed-system]] — seemed impractical to many.
 
 ## Prince Peter Kropotkin's Influence
 
@@ -32,7 +32,7 @@ maraichers enthusiastically in his book *Fields, Factories and
 Workshops* (1899). Kropotkin was not primarily a gardening writer;
 his interest in the Parisian system was political and economic.
 
-Kropotkin saw in the French intensive system a model for how small
+Kropotkin saw in the [[coleman-british-adoption-of-french-intensive-gardening]] system a model for how small
 plots of land could support their cultivators abundantly. He used
 the Parisian maraichers as evidence that decentralized, small-scale
 production could be highly productive — a key argument in his
@@ -49,12 +49,12 @@ desirable gave it an appeal that went beyond horticultural interest.
 
 ## The 1905 British Delegation to Paris
 
-The turning point came in 1905, when a group of British market
+The [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] came in 1905, when a group of British market
 gardeners traveled to Paris to see the maraicher system firsthand.
 They were understandably impressed by the great productivity of the
 French gardens. The British growers were working in basically the
-same climate zone as Paris but were unable to produce salads for
-winter harvest, let alone export them.
+same [[holzer-climate-zone-microclimate-creation]] as Paris but were unable to produce salads for
+[[cold-house-winter-harvest-system]], let alone export them.
 
 Upon their return home, the delegation spoke in glowing terms about
 the French gardens. Their reports generated significant public
@@ -77,7 +77,7 @@ books on the subject, *French Gardening*, which featured an
 introduction by Prince Kropotkin himself. Other books followed
 rapidly, including one with the ambitious title *Gold Producing
 Soil*. Most of these publications gave the impression that easy
-riches could be gained through French gardening techniques.
+riches could be gained through French [[container-gardening-techniques]].
 
 ## The Hype Problem and Eventual Decline
 
@@ -87,53 +87,3 @@ detrimental to the outcome in the long run. Many French-style
 gardens established in England failed through incompetence or did
 not live up to the extravagant economic expectations that had been
 set.
-
-The high level of expertise needed for successful French intensive
-gardening and the long hours of hard physical labor involved were
-somehow lost in the glowing promotional descriptions. One
-commentator claimed the system would never succeed in Britain
-because British growers would never work as hard as French peasants.
-
-Additionally, the world was changing rapidly at the start of the
-[[coleman-louis-savier-twentieth-century-maraicher]]. The early days of tractors and chemical
-fertilizers were pushing agriculture toward a preference for
-large-scale, mechanized production. Automobiles were replacing
-horses, which meant that the supply of horse manure — the
-foundation of the French system — was diminishing. By 1915,
-garden writers were noting the difficulties of finding sufficient
-horse manure and complaining about the much higher prices they
-had to pay.
-
-## Lessons for Modern Growers
-
-The British experience with the French maraicher system offers
-several cautionary lessons for modern adopters of intensive growing
-methods:
-
-1. **Hype is counterproductive**: Overselling a system's benefits
-   leads to unrealistic expectations and subsequent disappointment.
-   Honest assessment of both the advantages and the demands of any
-   growing system is essential.
-
-2. **Skill and labor matter**: The French system required
-   extraordinary skill and dedication. Simplified versions that
-   maintain the principles while reducing the labor demands are
-   more likely to succeed with modern growers.
-
-3. **Infrastructure dependence**: The French system depended on
-   the urban horse economy for its fertility inputs. Modern systems
-   must be designed to work with the resources actually available.
-
-4. **Adaptation is necessary**: Direct transplantation of a system
-   from one culture to another rarely works without significant
-   adaptation to local conditions, labor patterns, and economic
-   realities.
-
-### See Also
-
-- [[coleman-french-maraicher-parisian-intensive-market-gardening]]
-- [[coleman-french-intensive-bed-method]]
-
-## See Also
-
-- [[coleman-willow-basket-hotte-manure-transport]]

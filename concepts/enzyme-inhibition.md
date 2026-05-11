@@ -1,6 +1,6 @@
 ---
 title: "Enzyme Inhibition"
-aliases: [enzyme inhibitors, reversible inhibition, irreversible inhibition]
+aliases: [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]], reversible inhibition, irreversible inhibition]
 tags: [biochemistry, enzymology, pharmacology, drug-discovery, toxicology]
 created: 2026-05-03
 updated: 2026-05-06
@@ -88,60 +88,6 @@ many [[plant-signaling-pathways]] depend on protein- protein interactions that o
 Reversible inhibition is especially useful for physiology because it can be rapidly tuned. Irreversible inhibition is more common
 in defense, toxicity, and pharmacology where durable suppression of a target is desired.
 
-## Drug Discovery Applications
-
-Drug discovery often begins by identifying a biochemical target whose inhibition should change a disease process. Screening then
-finds molecules that reduce activity, followed by medicinal chemistry to improve potency, selectivity, solubility, permeability,
-and metabolic stability.
-
-Transition-state analogues can be exceptionally potent because enzymes bind transition states more tightly than ground-state
-substrates. Many antiviral and antibacterial strategies exploit this principle by mimicking high-energy intermediates of essential
-enzymes.
-
-Selectivity is a central challenge. Kinases, proteases, phosphodiesterases, and cytochrome P450 enzymes belong to families with
-similar active sites, so an inhibitor designed for one member may inhibit related enzymes and cause [[adverse-effects-and-harm-reduction-psilocybin]].
-
-Covalent inhibitors have regained importance in modern [[bioisosterism-in-drug-design]]. Electrophiles can be tuned to react with a specific cysteine,
-serine, lysine, or tyrosine near a binding pocket, combining reversible recognition with controlled covalent capture.
-
-## Toxicology
-
-Many poisons are enzyme inhibitors. Cyanide inhibits cytochrome c oxidase, organophosphates inhibit acetylcholinesterase, heavy
-metals inhibit enzymes by binding thiols, and some [[mushroom-toxins-and-poisoning]] inhibit RNA polymerase or protein phosphatases.
-
-Toxicity depends on target essentiality, reversibility, tissue exposure, compensation by parallel pathways, and the time required
-for new enzyme synthesis. Irreversible inhibition of a small but essential enzyme pool can be lethal even when the inhibitor
-concentration is low.
-
-Antidotes often work by removing the inhibitor, reactivating the enzyme, bypassing the blocked pathway, or supporting physiology
-until new enzyme is made. Oximes used after some organophosphate poisonings illustrate chemical reactivation of a covalently
-inhibited enzyme.
-
-## Experimental Pitfalls
-
-Assays can produce false inhibition through aggregation, fluorescence interference, redox cycling, metal chelation, detergent
-sensitivity, or nonspecific protein denaturation. Counter-screens and orthogonal assays are essential before interpreting a
-compound as a mechanistic inhibitor.
-
-Enzyme concentration matters when an inhibitor is extremely potent. If the inhibitor concentration is comparable to the enzyme
-concentration, the free inhibitor concentration differs substantially from the added concentration, creating tight- binding
-behavior.
-
-Substrate purity and coupled-assay enzymes can also mislead. An apparent inhibitor of the target enzyme may actually inhibit the
-auxiliary enzyme used to detect NADH, ATP, phosphate, or chromogenic product formation.
-
-## Related Concepts
-
-Enzyme inhibition is closely tied to [[allosteric-regulation]], [[cannabis-therapeutic-index-overview]], and [[reactive-metabolites-and-bioactivation-toxicology]]. It connects molecular recognition to organism-
-level pharmacology and toxicology.
-
-The same mathematical language appears in [[cannabis-cannabinoid-receptor-pharmacology]], transporter inhibition, and drug-drug interaction prediction. The
-biochemical mechanism, however, must always be checked against the physical chemistry of the actual enzyme system.
-
-## References
-
-- Cornish-Bowden, A. Fundamentals of [[enzyme-kinetics-michaelis-menten-model]].
-- Copeland, R. A. Evaluation of Enzyme Inhibitors in Drug Discovery.
-- Walsh, C. Enzymatic Reaction Mechanisms.
-- Wikipedia: Enzyme inhibitor and Michaelis-Menten kinetics, consulted for orientation
-during mining.
+## See Also
+- [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]]
+- [[biological-nitrification-inhibition]]

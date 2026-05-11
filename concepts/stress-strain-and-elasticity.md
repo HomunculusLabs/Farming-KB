@@ -3,16 +3,17 @@ title: "Stress, Strain, and Elasticity"
 type: concept
 category: materials-science
 related:
-  - fracture-mechanics-engineering-materials
+  - [[fracture-mechanics-engineering-materials]]
 tags: [mechanics, materials-science, elasticity, stress, strain, hooke-law, solid-mechanics, engineering]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
 ---
 
-Stress, strain, and elasticity form the foundational framework of solid mechanics mollison [[mollison-tropical-mulch-systems-and-materials]] systems and materials science, describing how solid bodies deform and recover under applied forces. These concepts are essential for structural design, materials selection, and predicting failure modes in everything from microscopic semiconductor structures to massive bridges and spacecraft.
+Stress, strain, and elasticity form the foundational framework of solid mechanics mollison [[mollison-tropical-mulch-systems-and-materials]] systems and materials science, describing how solid bodies deform and recover under applied forces. These concepts are essential for structural design, materials selection, and predicting [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] in everything from microscopic semiconductor structures to massive bridges and spacecraft.
 
 Understanding the relationship between applied loads and resulting deformation is critical for ensuring safety, durability, and performance. This page covers the fundamental definitions, constitutive laws, yield criteria, anisotropic behavior, viscoelastic effects, and practical measurement techniques that form the backbone of continuum solid mechanics.
 
@@ -87,19 +88,3 @@ Plastic deformation is permanent, non-recoverable deformation above the yield st
 **Von Mises criterion** (maximum distortional energy, 1913): yielding when the distortional strain energy reaches a critical value: σ_vm = √[½((σ₁−σ₂)² + (σ₂−σ₃)² + (σ₃−σ₁)²)] = σ_y. This defines a circle on the deviatoric (π) plane. More accurate for most ductile metals, the von Mises cylinder circumscribes the Tresca hexagon; maximum difference between them is ~15.5%.
 
 For the general stress state: σ_vm = √(σ_x² + σ_y² + σ_z² − σ_xσ_y − σ_yσ_z − σ_zσ_x + 3τ_xy² + 3τ_yz² + 3τ_zx²).
-
-**Hardening rules** describe how the yield surface evolves: isotropic hardening (uniform expansion, σ_y increases with plastic strain); kinematic hardening (translation without shape change, capturing the Bauschinger effect where compressive yield decreases after prior tension); and combined hardening (most realistic for cyclic loading). True stress–true strain curves often follow power-law hardening: σ = K·ε_p^n, where K is the strength coefficient and n is the strain-hardening exponent (low-carbon steel ~0.2, austenitic stainless ~0.4–0.5, aluminum ~0.15–0.25, copper ~0.3–0.5).
-
-## Practical Applications and Design
-
-**Structural design** uses elastic analysis with a factor of safety (FS): σ_working ≤ σ_yield/FS, where FS typically ranges from 1.5 to 3.0. Load and Resistance Factor Design (LRFD) uses factored loads: R_n ≥ ΣγᵢQᵢ, with load factors γ ≈ 1.2 for dead load, 1.6 for live load.
-
-**Stress concentrations** at geometric discontinuities (holes, notches, fillets) cause local stress amplification: K_t = σ_max/σ_nominal. A circular hole in an infinite plate: K_t = 3.0. Sharp V-notches: K_t can exceed 10. Fatigue failure almost always initiates at stress concentrations; Peterson’s handbook is the standard reference.
-
-**Elastic instability** (buckling) occurs when compressive loads exceed the critical value: P_cr = π²EI/(KL)², where K is the effective length factor (1.0 for pinned-pinned, 0.7 for fixed-fixed, 2.0 for fixed-free). Buckling is especially dangerous because it occurs suddenly, often below the material yield strength, with little visible warning.
-
-**Saint-Venant’s Principle** (1855) states that the stress distribution far from a loaded region is independent of the exact load application mode. “Far” typically means a distance of approximately the largest cross-sectional dimension, allowing simplified boundary conditions in analysis.
-
-**[[protein-folding-and-misfolding-diseases-biochemistry]]
-
-- [[fracture-mechanics-engineering-materials]]

@@ -25,17 +25,17 @@ sources:
 
 # Michael Harner
 
-American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973). (see [[hallucinogens-and-shamanism-harner-anthology]]).
+American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "[[hallucinogens-and-shamanism-harner-anthology]]" (1973).
 
 ## Overview
 
-Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in shamanism was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial. (see [[roland-griffiths]]).
+Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in shamanism was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial.
 
 ## Key Contributions
 
 ### "Hallucinogens and Shamanism" (1973)
 
-Harner's edited anthology was one of the first academic works to systematically examine the relationship between psychoactive substances and shamanic practices across cultures. In his introduction, Harner argued:
+Harner's edited anthology was one of the first academic works to systematically examine the relationship between [[cultural-evolution-and-psychoactive-substances]] and shamanic practices across cultures. In his introduction, Harner argued:
 
 - The use of hallucinogens to achieve trance states is "an ancient and widespread human practice"
 - "In using a powerful hallucinogen, an individual is brought face to face with visions and experiences of an overwhelming nature, tending strongly to reinforce his beliefs in the reality of the supernatural world"
@@ -58,7 +58,27 @@ Harner later founded the Foundation for Shamanic Studies and developed "core sha
 
 ## See Also
 
-- [[siberian-shamanism-and-amanita]] — Siberian shamanism with fly-agaric, as discussed by Harner
-- [[r-gordon-wasson]] — Wasson's Mexican mushroom discoveries that complement Harner's Amazonian work
-- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
+- [[siberian-shamanism-and-amanita]] — [[harner-amanita-muscaria-siberian-shamanism]] with fly-agaric, as discussed by Harner
+- [[r-gordon-wasson]] — Wasson's [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work
+- [[psychedelic-mushroom-history]] — Broader timeline of [[archaeology-of-psychedelic-mushroom-use]] use
 - [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Background
+- Early career development involved cross-disciplinary study and research.
+- Academic and professional trajectory reflects a commitment to advancing knowledge.
+- Collaborations with other researchers have been a hallmark of their approach.

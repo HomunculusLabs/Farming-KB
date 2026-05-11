@@ -23,11 +23,11 @@ sources:
 
 # Psilocybin Pharmacology Detail
 
-Detailed pharmacokinetics, route of administration, toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
+Detailed pharmacokinetics, [[mushroom-taste-route-of-administration-and-consumption-barriers]], toxicity data, psychological risks, and legal status for psilocybin mushrooms. See [[psilocybin-mushroom-chemistry]] for dosage guidelines, subjective effects, and acute incidents.
 
 ## Gartz's Aeruginascin Hypothesis
 
-In a fascinating observation, [[jochen-gartz]] noted that users of Inocybe aeruginascens (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
+In a fascinating observation, [[jochen-gartz]] noted that users of [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]] (which contains aeruginascin alongside psilocybin and baeocystin) reported predominantly positive experiences with very few "bad trips" compared to users of other species. Gartz hypothesized that aeruginascin might act as a euphoriant, counteracting anxiety-producing aspects of the psilocybin experience. This hypothesis remains untested in formal clinical settings but represents one of the few examples of a naturally occurring mushroom alkaloid potentially modulating the quality of the psychedelic experience.
 
 ## Route of Administration and Pharmacokinetics (EMCDDA Data)
 
@@ -113,7 +113,7 @@ From clinical and self-report data compiled by Gartz:
 ### Psychological Risks
 
 - **HPPD (Hallucinogen Persisting Perception Disorder):** Rare condition involving persistent visual disturbances after psychedelic use. Prevalence estimated at 1-4% of regular users. Not specific to psilocybin; more commonly associated with LSD.
-- **Precipitation of latent mental illness:** Psilocybin can trigger psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder.
+- **Precipitation of latent mental illness:** Psilocybin can trigger psychotic episodes in individuals with personal or family history of schizophrenia or [[blesching-cannabis-bipolar-disorder]].
 - **Traumatic experiences:** "Bad trips" can be psychologically harmful, especially without preparation or integration support. Set and setting are critical.
 - **Impaired judgment:** Users may engage in risky behavior during acute effects.
 
@@ -123,21 +123,21 @@ From clinical and self-report data compiled by Gartz:
 - Current use of SSRIs or MAOIs (may diminish effects or cause serotonin syndrome with MAOIs)
 - Pregnancy (insufficient safety data)
 - Cardiovascular conditions (elevated heart rate and blood pressure)
-- Severe anxiety disorders
+- Severe [[cannabis-for-anxiety-disorders]]
 
 ### Harm Reduction Principles
 
 1. **Start low, go slow** — Begin with low doses; potency varies enormously between species and specimens
 2. **Set and setting** — Choose comfortable, familiar environments with trusted companions
 3. **Trip sitter** — Have a sober, experienced person present, especially for first experiences or higher doses
-4. **Substance testing** — Verify species identification; toxic lookalikes exist (Galerina marginata, Conocybe filaris)
+4. **Substance testing** — Verify species identification; toxic lookalikes exist ([[galerina-marginata]], Conocybe filaris)
 5. **Medication interactions** — Research interactions with any medications, especially psychiatric drugs
 6. **Integration** — Allow time for processing the experience afterward
 7. **Abstain from driving** — Impaired coordination and perception for 6-12 hours after dosing
 
 ## Legal Status
 
-Psilocybin and psilocin are Schedule I under the UN Convention on Psychotropic Substances (1971). However, the legal status of the mushrooms themselves varies by country:
+[[hplc-analysis-of-psilocybin-and-psilocin]] are Schedule I under the UN Convention on Psychotropic Substances (1971). However, the legal status of the mushrooms themselves varies by country:
 
 - **Prohibited:** Most countries criminalize both psilocybin and psilocybin-containing mushrooms
 - **Decriminalized:** Several US cities (Denver, Oakland, Santa Cruz, Ann Arbor, Washington DC, Somerville, Cambridge, Northampton, Seattle)

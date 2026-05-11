@@ -1,5 +1,5 @@
 ---
-title: "mollison designers forest condensation and micro climate rainfall and Micro-Climate Rainfall"
+title: Mollison Designers Forest Condensation And Micro Climate Rainfall
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 
 One of the most significant yet underappreciated functions of
 forests is their ability to generate water through condensation and
-fog drip. In *Permaculture: A Designers' Manual*, Bill Mollison
+fog drip. In *Permaculture: A Designers' Manual*, [[bill-mollison]]
 explains how tree canopies intercept moisture from the air and
 convert it to usable water, effectively increasing precipitation
 beyond what rainfall alone provides.
@@ -48,9 +49,9 @@ condense sea vapours for their use. Thus, islands and sea coasts
 have dry and wet sides suited to different plant species.
 
 A ragged or spiky forest canopy, where palms and tall pines or fruit
-trees lift above the general canopy layer, will ensure more
+trees lift above the general [[canopy-layer-design-food-forests]], will ensure more
 condensation from sea air than will a level and relatively closed
-canopy. This design principle has direct implications for
+canopy. This [[design-principle-integration]] has direct implications for
 [[mollison-tree-biomass-and-forest-as-living-entity]].
 
 ## The Water Balance of Forests
@@ -87,38 +88,3 @@ precipitation when winds blow inland from an ocean or large lake:
 
 The overall picture is that trees are responsible for more water
 in streams than rainfall alone provides. Mollison's conclusion is
-stark: "if we clear the forest, what is left but dust?" This
-perspective fundamentally changes how we value forests. They are
-not merely timber or habitat resources; they are active water-
-generating systems.
-
-This connects to [[mollison-rain-interception-and-throughfall-in-forests]].
-
-## Crown Drip and Soil Moisture Distribution
-
-The tree crowns create their own water distribution on the ground.
-Crown drip can direct in excess of 100% of rain to a "gutter" on
-the ground, and for some tree species with down-sweeping limbs and
-leaves, this is a profound effect. At the rain-shadow edges of
-forests, dry areas are to be expected. The "wet" edges are more
-often than not also away from the sun, as most rain comes from the
-polar side of sites.
-
-## Design Implications for Condensation
-
-Several practical [[holmgren-permaculture-twelve-design-principles-framework]] emerge:
-
-- Plant ragged, multi-layered canopies rather than uniform ones
-- Include tall emergent species (palms, pines) above the general
-  canopy layer
-- Orient forest edges perpendicular to prevailing moisture-
-  bearing winds
-- Maintain tree lines of 12 m or more height to trigger Ekman
-  spiral rainfall enhancement
-- Use coastal-permaculture-design-mollison and mollison-permaculture-high-islands.
-## See Also
-- [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[bill-mollison]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[mollison-designers-food-forest-succession-design]]
-- [[mollison-designers-temperate-zone-food-forest-design]]

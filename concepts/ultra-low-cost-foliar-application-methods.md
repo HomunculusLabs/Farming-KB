@@ -88,14 +88,3 @@ in the JADAM system. Advantages include:
 ## Making Inputs at Home
 
 A core principle of the JADAM foliar system is that all inputs are made
-by the farmer at home. This eliminates the cost of purchasing commercial
-products and gives the farmer complete control over what is applied to
-crops. The guide provides recipes and ratios for every input, all designed
-to be produced with commonly available materials.
-
-## Related Concepts
-
-- Jadam Ultra Low Cost Microorganism Solution And Soil Foundation
-- [[ultra-low-cost-soil-fertility]]
-- [[ultra-low-cost-mineral-leaching-and-sea-salt-replenishment]]
-- [[jadam-ultra-low-cost-methods]]

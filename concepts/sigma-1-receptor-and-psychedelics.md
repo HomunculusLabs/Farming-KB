@@ -4,7 +4,8 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [pharmacology, psychedelics]
-sources: []
+sources:
+  - "raw/papers/blesching-cannabis-pain-management.md"
 ---
 ---
 title: Sigma-1 Receptor and Psychedelics
@@ -87,23 +88,3 @@ psychedelic influence.
 The involvement of sigma-1 receptors in psychedelic pharmacology opens new
 avenues for drug development. Selective sigma-1 agonists that reproduce
 the neuroprotective and potentially therapeutic effects of psychedelics
-without the full psychoactive experience could represent a novel class of
-psychiatric medications. Several sigma-1 agonists are already in clinical
-development for neurodegenerative diseases and neuropsychiatric conditions.
-
-The neuroplasticity-promoting effects of sigma-1 activation, particularly
-through BDNF upregulation and synaptic remodeling, may be relevant to the
-therapeutic mechanisms of both classical psychedelics and ketamine.
-Understanding the relative contributions of sigma-1 activation versus
-5-HT2A activation to the therapeutic effects of psychedelics is an active
-area of research with significant clinical implications.
-
-## Future Research Directions
-
-Key questions remain about the sigma-1 receptor's role in psychedelic
-action. The relative contribution of sigma-1 activation to subjective
-psychedelic effects versus purely therapeutic effects is unclear. The
-development of highly selective sigma-1 ligands that can be administered
-alone or in combination with 5-HT2A ligands would help disentangle these
-contributions and may lead to optimized therapeutic combinations with
-reduced psychoactive burden.

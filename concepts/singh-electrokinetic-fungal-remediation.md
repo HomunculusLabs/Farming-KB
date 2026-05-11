@@ -88,26 +88,3 @@ fungal inocula in the root zone.
 
 At sites with co-occurring organic and inorganic contamination, electrokinetic
 separation concentrates metals at one electrode and organics at the other,
-allowing targeted fungal treatment of each contaminant class. This spatial
-separation addresses the common challenge where metal toxicity inhibits
-organic [[query-how-does-lignin-degradation-by-fungi-work]].
-
-## System Design Considerations
-
-Key design parameters for electrokinetic-fungal remediation include:
-
-- **Electrode configuration**: Vertical rod electrodes, horizontal plate
-  electrodes, or electrode arrays can be configured based on contamination
-  depth and geometry. [[singh-cost-analysis-fungal-bioremediation]] of remediation feasibility.
-- Electrode corrosion and byproduct generation (chlorine gas, hydrogen gas)
-  require safety management.
-- Soil heterogeneity creates preferential flow paths that reduce treatment
-  uniformity.
-- Scaling lab to field results has proven challenging, with field-scale
-  demonstrations limited compared to laboratory successes.
-
-## Research Directions
-
-Current research explores pulsed electric fields to reduce energy consumption,
-bioelectrochemical systems coupling [[microbial-fuel-cells-remediation]] with fungal
-## See Also

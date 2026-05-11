@@ -88,20 +88,3 @@ The eschatological endpoint is thus not a destruction but a transformation—a m
 One's body image would exist as a "holographic wave transform while one is at play in the fields of the Lord and living in Elysium."
 This vision, while fantastical, is presented as the logical extension of the acceleration pattern identified in history: consciousness becoming ever more plastic, ever more capable of self-transformation.
 The concept of the "psychedelic Bar Mitzvah" is a metaphor for a rite of passage in which the individual consciousness makes the transition from biological to translinguistic existence.
-
-## Language as Self-Replicating Information
-
-McKenna extends his framework to consider the nature of language itself as a self-replicating information system.
-"What is loose on this planet is language, self-replicating information systems that reflect functions of DNA: learning, coding, templating, recording, testing, re-testing, re-coding against DNA functions."
-Language may thus be a quality of an entirely different order than biological evolution—a second replicator operating through cultural rather than genetic transmission.
-The tryptamine experiences suggest that language is "in us monkeys now and moving through us and moving out of our hands and into the noosphere with which we have surrounded ourselves."
-Perhaps a human language is possible in which the intent of meaning is actually beheld in three-dimensional space, rather than being encoded in sequential auditory or visual symbols.
-This vision of a visual language ties the eschatological theme to McKenna's broader interest in the evolution of communication and the nature of meaning itself.
-The ultimate language would be one in which communication is instantaneous and total, bypassing the limitations of sequential symbol processing entirely.
-In McKenna's eschatological framework, the evolution of language toward this ultimate form is itself part of the historical acceleration toward the singularity.
-
-## See Also
-
-- [[tryptamine-consciousness-theory]]
-- [[tryptamine-hypercontinuum]]
-- [[mckenna-mushroom-extraterrestrial-symbiote-hypothesis]]

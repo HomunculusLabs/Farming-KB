@@ -33,7 +33,7 @@ through two general pathways:
    promote the chemical breakdown of organometallic compounds.
 
 Both mechanisms contribute to the overall detoxification capacity of
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in contaminated environments. The ability of fungi
+[[biodiversity-of-fungi-soil-fungal-communities-agriculture]] [[singh-fungal-biofilms-in-contaminated-environments]]. The ability of fungi
 to modify their local microenvironment through [[arbuscule-isolation-metabolic-activity-assays]]
 creates conditions favorable for both biological and chemical
 transformation of organometallic pollutants.
@@ -88,58 +88,3 @@ enzymatic reactions:
 This two-step enzymatic pathway effectively converts highly toxic
 organomercury compounds into elemental mercury, which is far less
 bioavailable and toxic. The similarity between fungal and bacterial
-organomercury detoxification systems suggests a convergent evolutionary
-solution to a common environmental challenge.
-
-## Alkyllead Degradation
-
-Alkyllead compounds, particularly tetraethyllead and tetramethyllead,
-were historically used as antiknock additives in gasoline. Although
-largely phased out in many countries, residual contamination persists
-in soils and groundwater near former fuel storage and distribution
-sites. Trimethyllead, a degradation intermediate, is also of concern.
-
-[[singh-fungal-degradation-endocrine-disrupting-compounds]] of alkyllead compounds has been demonstrated in
-several fungal species:
-
-- An alkyllead-tolerant yeast isolated from contaminated environments
-  demonstrated the ability to degrade trimethyllead (Macaskie & Dean,
-  1987).
-- The wood-decay basidiomycete Phaeolus schweinitzii was shown to
-  degrade trimethyllead compounds (Macaskie & Dean, 1990).
-
-The involvement of a wood-decay basidiomycete in alkyllead
-degradation is significant, as it extends the known range of fungal
-organometallic detoxification beyond specialized tolerant species to
-include common wood-decay fungi that may be introduced into
-contaminated environments for remediation purposes.
-
-## Environmental Significance
-
-The fungal capacity for organometallic dealkylation has several
-important implications for environmental management:
-
-- **Water treatment**: Fungal organometallic transformations are
-  particularly suited to the removal of alkylleads and organotins
-  from water systems, where these compounds tend to accumulate.
-- **Broad substrate range**: The diversity of organometallic
-  compounds susceptible to fungal degradation (tins, mercury, lead)
-  suggests potential for broader application to other metal-carbon
-  bonded pollutants.
-- **Combined mechanisms**: The dual capacity for both enzymatic and
-  pH-mediated abiotic degradation provides fungi with flexibility
-  in diverse environmental conditions.
-
-## Related
-
-- [[staycare-fungal-biosorption-of-heavy-metals]] — Broader treatment of
-  [[singh-fungal-interactions-with-heavy-metals-in-soil]] with metallic elements and compounds
-- staycare [[dighton-fungal-biosorption-heavy-metal-remediation]] heavy metal removal — Metal removal
-  through fungal biosorption processes
-- staycare fungal microbial interactions pollutant degradation —
-  Fungal-microbial consortia in pollutant degradation
-- [[cotter-mycoremediation-overview]] — General principles of fungal
-  bioremediation
-- [[mycoremediation]]
-- [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
-- [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]]

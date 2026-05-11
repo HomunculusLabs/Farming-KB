@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
 ---
@@ -87,16 +88,3 @@ aligns with the broader permaculture water management philosophy of
 keeping water on the land for as long as possible.
 
 ## Climate and Elevation Adaptation
-
-At the [[holzer-climate-zone-microclimate-creation]]
-is enhanced by the moisture these ditches provide to surrounding vegetation.
-
-## Low Effort, High Return
-
-One of the most appealing aspects of humus storage ditches is their minimal
-maintenance requirements. Once created, they function passively, collecting
-nutrients and water year after year. The only periodic work involved is
-extracting accumulated humus material for use elsewhere on the farm. This
-makes them an excellent investment of time and energy for any permaculture
-system, large or small. The ditches represent [[permaculture-farm-design-principles]] by connecting water management, soil
-building, and crop production into a single integrated element.

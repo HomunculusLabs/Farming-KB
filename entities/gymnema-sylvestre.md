@@ -75,7 +75,7 @@ seeds bearing silky coma.
 
 ## Distribution and Habitat
 
-*G. sylvestre* is native to tropical forests of India, Sri Lanka,
+*G. sylvestre* is native to [[fungal-biodiversity-tropical-forests]] of India, Sri Lanka,
 southern China, [[psilocybe-southeast-asia-pacific]], tropical Africa, and northern Australia.
 
 In India, it occurs in dry deciduous forests up to 600 meters in
@@ -88,59 +88,3 @@ commonly climbing trees at forest edges and along stream banks.
 
 The primary bioactive constituents are **gymnemic acids**, triterpenoid
 saponins structurally similar to glucose.
-
-- **Gymnemic acid I–V, VII–IX** — major active saponins responsible
-  for anti-sweet and hypoglycemic effects.
-- **Gymnemagenin** — the aglycone backbone obtained after hydrolysis.
-- **Stigmasterol** — phytosterol with lipid-lowering properties.
-- **Gurmarin** — a 35-amino-acid polypeptide that selectively
-  suppresses sweet taste by binding to T1R2/T1R3 receptors.
-
-Gymnemic acids comprise 3–10% of leaf dry weight. They competitively
-bind sweet taste receptor sites on the tongue, preventing sugar
-activation. This effect persists 15–60 minutes after chewing leaves
-and is specific to sweet taste; sour, salty, and bitter perception
-remain unaffected.
-
-## Pharmacology and Traditional Uses
-
-**Anti-diabetic:** Most extensively studied use. Gymnemic acids
-enhance insulin secretion from pancreatic β-cells, increase
-peripheral glucose utilization, and inhibit intestinal glucose
-absorption. [[mushroom-cancer-clinical-trials-overview]] show fasting blood glucose reductions
-of 10–25 mg/dL and HbA1c reductions of 0.4–1.0% over 60–90 days.
-
-**Anti-sweet activity:** Chewing leaves abolishes sweet taste for
-up to an hour, used to reduce sugar cravings.
-
-**Lipid-lowering:** Reduces serum triglycerides (10–20%), LDL
-cholesterol (8–15%), and total cholesterol in clinical studies.
-
-**Weight management:** Reduced caloric intake from sweets, combined
-with improved glucose metabolism, supports modest weight loss.
-
-**Anti-inflammatory:** Gymnemic acids inhibit NF-κB and COX-2
-pathways in vitro.
-
-**Wound healing:** Traditional use supported by enhanced collagen
-deposition in animal studies.
-
-## Cultivation
-
-Propagation by seeds or stem cuttings. Seeds require light
-scarification; germinate in 2–3 weeks at 25–30°C. Stem cuttings
-root readily under mist.
-
-Plants spaced 1–2 m apart, trained on trellises. Commercial harvests
-yield 2–3 leaf crops per year from year two onward, producing
-1,000–2,500 kg/ha dry weight. Drought-tolerant once established.
-
-## Dosage
-
-Standardized leaf extract (25% gymnemic acids): 200–400 mg
-twice daily with meals. Leaf powder: 2–4 g/day divided doses.
-
-## See Also
-- [[dom]]
-- [[swertia-chirata]]
-- [[herbal-plant-remedies]]

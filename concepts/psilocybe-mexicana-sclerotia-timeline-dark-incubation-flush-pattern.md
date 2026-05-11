@@ -2,7 +2,7 @@
 
 ## Overview
 
-Among the species suitable for cultivation on sterilized grass seed, *Psilocybe mexicana* occupies a unique position due to its ability to produce **sclerotia** (hardened, dense masses of mycelial tissue that serve as survival structures) without requiring the induction of fruiting conditions. The exotic mushroom cultivation guide provides specific observations about the [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] timeline for *P. mexicana* and contrasts its fruiting behavior with that of other grass-seed-cultivated species.
+Among the species suitable for cultivation on sterilized grass seed, *Psilocybe mexicana* occupies a unique position due to its ability to produce **sclerotia** (hardened, dense masses of mycelial tissue that serve as survival structures) without requiring the induction of fruiting conditions. The [[exotic-mushroom-cultivation-guide]] guide provides specific observations about the [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] timeline for *P. mexicana* and contrasts its fruiting behavior with that of other grass-seed-cultivated species.
 
 ## What Are Sclerotia?
 
@@ -16,11 +16,11 @@ Sclerotia (singular: sclerotium) are compact, hardened aggregations of fungal my
 
 ## Sclerotia in Psilocybe mexicana
 
-*Psilocybe mexicana* is one of several *Psilocybe* species known to produce sclerotia. Others include *P. tampanensis* and *P. atlantis* (though *P. atlantis* was not discussed in the source cultivation guide). In the wild, *P. mexicana* sclerotia form underground, often in association with grass roots in subtropical and tropical regions of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
+*Psilocybe mexicana* is one of several *Psilocybe* species known to produce sclerotia. Others include *P. tampanensis* and *P. atlantis* (though *P. atlantis* was not discussed in the source cultivation guide). In the wild, *P. mexicana* sclerotia form underground, often in association with grass roots in subtropical and [[fukuoka-natural-farming-in-tropical-regions]] of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 ### Distinction from Tampanensis Sclerotia
 
-The cultivation guide notes that experience with sclerotia production was primarily with *P. tampanensis*, for which sclerotia "will continue to enlarge until 4 months after inoculation." The guide implies that *P. mexicana* follows a similar but potentially different timeline, though specific duration data for *P. mexicana* sclerotia was not provided. Both species share the fundamental characteristic of producing sclerotia on colonized grass seed without requiring casing or fruiting conditions.
+The cultivation guide notes that experience with [[in-vitro-sclerotia-production-timeline-psilocybe]] was primarily with *P. tampanensis*, for which sclerotia "will continue to enlarge until 4 months after inoculation." The guide implies that *P. mexicana* follows a similar but potentially different timeline, though specific duration data for *P. mexicana* sclerotia was not provided. Both species share the fundamental characteristic of producing sclerotia on colonized grass seed without requiring casing or fruiting conditions.
 
 ## In-Vitro Sclerotia Production
 
@@ -28,7 +28,7 @@ One of the most practical aspects of sclerotia production described in the guide
 
 - **No casing required** — colonized grass seed need not be cased for [[growing-gourmet-sclerotia-formation-biology-mushrooms]] to occur
 - **No fruiting chamber needed** — the jars themselves serve as the production vessel
-- **No light required** — sclerotia formation occurs in darkness, simplifying incubation requirements
+- **No light required** — [[mushroom-sclerotia-formation]] occurs in darkness, simplifying incubation requirements
 - **No fresh air exchange management** — unlike fruiting, which requires careful CO₂ and humidity management, sclerotia production in sealed jars requires only that the mycelium can breathe (loose lids)
 
 This makes sclerotia production one of the simplest forms of mushroom-related cultivation, requiring only sterilized grain jars, a pressure cooker, and a clean inoculation workspace.
@@ -39,7 +39,7 @@ The guide specifies that jars intended for sclerotia production "should be put i
 
 - **Energy conservation** — in darkness, the fungus allocates resources to storage rather than to light-responsive developmental pathways (fruiting)
 - **Stress signaling** — darkness may simulate underground conditions, triggering the sclerotium-forming program as an adaptation to subterranean environments
-- **Contamination reduction** — dark conditions may reduce the growth of light-dependent contaminant organisms (though this benefit is likely minor compared to the primary metabolic effects)
+- **Contamination reduction** — dark conditions may reduce the growth of light-dependent contaminant organisms (though this benefit is likely minor compared to the [[primary-metabolic-precursors-to-the-shikimate-pathway]] effects)
 - **Practical convenience** — dark storage is easier to maintain than controlled lighting conditions
 
 The parenthetical "preferably" suggests that complete darkness is not absolutely required — sclerotia may form under ambient light conditions — but that dark incubation produces better results.
@@ -85,45 +85,5 @@ Based on the cultivation guide's observations, the approximate timeline for *P. 
 1. **Inoculation** — Day 0
 2. **Colonization** — 5–20 days (depending on temperature and inoculation method)
 3. **Sclerotia initiation** — begins during or shortly after full colonization
-4. **Sclerotia maturation** — continues for up to approximately 4 months (based on *P. tampanensis* data)
+4. **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — continues for up to approximately 4 months (based on *P. tampanensis* data)
 5. **Optimal harvest** — likely 2–4 months after inoculation, when sclerotia have reached maximum size
-
-## Species Comparison: Sclerotia-Forming Psilocybe Species
-
-The cultivation guide discusses two sclerotia-forming species side by side, enabling direct comparison:
-
-| Characteristic | *P. mexicana* | *P. tampanensis* |
-|---|---|---|
-| Sclerotia in jars | Yes | Yes |
-| Sclerotia in casing | Yes | Yes |
-| Fruit body production | Yes (cased) | Yes (cased) |
-| Sclerotia maturation | ~2–4 months (estimated) | ~4 months (confirmed) |
-| Flush pattern (fruiting) | One big + one small | Not specified |
-| Cold shock benefit | Not beneficial | Not beneficial |
-| Difficulty rating | Moderate | Moderate |
-
-## Yield Considerations
-
-When comparing sclerotia harvests to fruit body harvests, several factors influence the relative productivity:
-
-- **Dry weight basis** — sclerotia have lower water content than fresh fruit bodies, so dry-weight comparisons are more meaningful than fresh-weight comparisons
-- **Substrate conversion** — the [[stamets-biological-efficiency-yield]] of sclerotia production may differ significantly from fruit body production
-- **Harvest labor** — sclerotia are harvested by breaking open jars and separating the hard nodules from grain, which is more labor-intensive than picking mushrooms from a casing surface
-- **Jar reuse** — sclerotia production renders the jar contents non-recoverable, while cased trays could theoretically be spawned to bulk substrates for additional yields
-
-## Limitations of the Source Information
-
-The cultivation guide has several gaps in its coverage of *P. mexicana* sclerotia production that limit the completeness of cultivation guidance:
-
-- **No yield data** — the guide does not provide expected sclerotia yields per jar or per gram of substrate
-- **No potency data** — no information on the relative potency of sclerotia compared to fruit bodies of the same species
-- **No strain differentiation** — different strains of *P. mexicana* may vary in their sclerotia-producing capacity, but this is not addressed
-- **No storage recommendations** — while the guide notes that sclerotia form in jars, it does not specify optimal conditions for long-term storage of harvested sclerotia
-- **Tampanensis-centric experience** — the authors note that their experience is primarily with *P. tampanensis*, so some observations may not transfer directly to *P. mexicana*
-
-## See Also
-
-- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] — Dark incubation for sclerotia
-- [[fungal-sclerotia-and-resting-structures]] — Sclerotia biology across fungal species
-- [[grass-seed-substrate-for-mushroom-cultivation]] — Grass seed [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-- [[exotic-cultivation-flush-management-and-casing-hygiene]] — Flush management across species

@@ -87,36 +87,3 @@ Monitoring the transition requires close attention to the plant's growth habit. 
 ## Crop-Specific Reproductive Applications
 
 Different crops present different challenges during the reproductive stage, and KNF practitioners have developed crop-specific modifications to the standard protocol:
-
-- **Tomatoes and peppers:** These solanaceous crops are heavy calcium feeders and are particularly susceptible to blossom-end rot, a disorder directly linked to [[knf-calcium-deficiency-symptoms]] during fruit development. Preventive WCA applications beginning at first flower significantly reduce incidence. Increasing the standard WCA application from 2 ml to 3 ml per liter during peak fruit set provides additional protection.
-- **Fruit trees (apples, pears, stone fruits):** Perennial crops benefit from multiple sweetness promotion treatments timed to the ripening curve of each variety. Early-ripening varieties may require treatment 20 days before harvest rather than the standard 15 days. The [seawater component is especially important for tree fruits, as the broader mineral spectrum supports the complex flavor profiles that develop during the final ripening period.
-- **Leafy greens and herbs:** For crops harvested before true reproductive development (bolting), the reproductive stage protocol is largely irrelevant. However, preventing premature bolting in warm conditions can be supported by maintaining adequate potassium levels, which help the plant manage heat stress that would otherwise trigger flowering.
-- **Root vegetables:** Carrots, beets, and radishes store carbohydrates in the root rather than in a fruit, but the reproductive stage protocol still applies. The calcium and potassium inputs support cell wall integrity in the storage root and improve sugar accumulation. Some practitioners report that the crack prevention protocol, originally designed for fruits, also reduces splitting in carrots and beets.
-
-## Soil Health During the Reproductive Stage
-
-While foliar applications dominate the reproductive stage protocol, soil health remains a critical foundation. The soil food web must be capable of mobilizing calcium and potassium from organic matter and mineral sources. [LAB serum applied to the soil during the reproductive stage helps maintain the microbial populations that solubilize minerals for root uptake. Similarly, maintaining adequate soil moisture is essential — calcium is an immobile nutrient in the plant, meaning deficiencies cannot be corrected once the fruit has formed without direct foliar application, but consistent soil moisture ensures the plant can translocate calcium from roots to developing fruits through the xylem stream.
-
-Mulching during the reproductive stage provides dual benefits: moisture conservation for calcium transport and organic matter incorporation that supports the microbial bridge between soil minerals and plant-available nutrients. The combination of healthy soil biology and timely foliar inputs is the hallmark of a well-managed KNF reproductive stage.
-
-## Foliar vs. Soil Application During Reproduction
-
-KNF emphasizes foliar application during the reproductive stage because the plant's energy is directed toward fruit development rather than root growth, making foliar nutrient absorption more efficient than soil uptake during this phase. Foliar sprays deliver calcium and potassium directly to the tissues that need them most — developing fruits, flowers, and leaves — bypassing the soil-root-xylem pathway that can be slow and inefficient, especially for immobile nutrients like calcium.
-
-However, foliar application has limitations. The cuticle of fruit skin is often less permeable than leaf surfaces, meaning that fruits may not absorb foliar nutrients as readily. Spraying during the early morning or late evening, when stomata are open and humidity is higher, improves absorption. Adding a small amount of [BRV to the spray solution can act as a surfactant, helping the solution spread evenly and penetrate leaf surfaces more effectively. Excessive foliar spraying, particularly during hot weather, can cause leaf burn and should be avoided.
-
-## Advanced Techniques: Fermented Seawater
-
-[Fermented Seawater (FSW) represents an advanced KNF input that is particularly valuable during the reproductive stage. While raw seawater provides trace minerals, fermentation with lactic acid bacteria and brown rice vinegar makes these minerals more bioavailable and adds beneficial microorganisms to the spray solution. FSW has been reported to improve fruit flavor complexity beyond what standard seawater applications provide, likely due to the chelation of minerals by organic acids produced during fermentation.
-
-## See Also
-
-- [[knf-vegetative-growth-stage]] — The preceding growth stage.
-- [[knf-water-soluble-calcium]] — Detailed preparation and use of WCA.
-- [[knf-troubleshooting]] — Diagnosing and resolving reproductive-stage problems.
-
-## Common Reproductive Stage Mistakes
-
-Novice KNF practitioners often make several recurring errors during the reproductive stage. The most common is continuing nitrogen-rich inputs (particularly FAA) too late into the cycle, which promotes vegetative flush at the expense of fruit development. Another frequent mistake is neglecting calcium applications entirely, leading to soft fruit, poor shelf life, and disorders like blossom-end rot. Over-application of inputs at concentrations above 1:1000 can also cause leaf burn and stress the plant during a phase when it is already investing heavily in fruit production. Consistency in application timing — following the 7 to 14 day schedule — matters more than occasional heavy treatments.
-
-]

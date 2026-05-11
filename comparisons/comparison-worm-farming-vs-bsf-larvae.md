@@ -1,5 +1,5 @@
 ---
-title: "comparison worm farming vs bsf larvae vs comparison-black-soldier-fly-composting-vs-bokashi [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]"
+title: Comparison Worm Farming Vs Bsf Larvae
 created: 2026-04-28
 tags: [comparison, composting, livestock-feed, protein-production]
 date: 2026-04-25

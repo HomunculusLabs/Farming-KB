@@ -30,8 +30,8 @@ sources:
 
 **Suillus pungens** is an ectomycorrhizal bolete fungus in the family Suillaceae,
 notable for its strong, pungent odor and exclusive association with Monterey pine
-(*Pinus radiata*). Originally described by Harry Thiers from coastal California,
-it is among the most distinctive Suillus species in western North America due to
+(*[[pinus-radiata]]*). Originally described by Harry Thiers from coastal California,
+it is among the most distinctive Suillus species in western [[guzman-psilocybin-mushrooms-north-america]] due to
 its acrid, almost chemical fragrance that can be detected from several meters away.
 
 The species was first collected and documented in the Monterey Peninsula region,
@@ -83,43 +83,7 @@ Basidiomycota → Agaricomycetes → Boletales → **Suillaceae → *Suillus →
 
 ## Ecological Role
 
-S. pungens forms obligate ectomycorrhizal associations with Monterey pine,
-facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the fungal mycelium and host root
+S. pungens forms obligate [[ectomycorrhizal-associations]] with Monterey pine,
+facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between the [[fungal-mycelium-hyphae-and-the-feeding-phase]] and host root
 system. The fungus aids in phosphorus and nitrogen uptake for the tree while
 receiving photosynthetically derived carbon compounds.
-
-Monterey pine forests along the California coast are relatively restricted in
-extent, making S. pungens a specialist of a narrowly distributed ecosystem.
-Its strong odor may serve a role in [[aquatic-fungi-spore-dispersal-ingold]] attraction or deterrence
-of mycophagous invertebrates, though this has not been experimentally verified.
-
-## Cultivation Notes
-
-No established [[synthetic-log-cultivation-methods-guide]] exist for S. pungens. Like most Suillus species,
-it is dependent on living host roots for survival and cannot be grown on
-sterile substrates. Inoculation of pine seedlings with spore slurries has been
-attempted experimentally for other Suillus species with limited success.
-
-## Edibility
-
-Considered edible but not highly regarded. The pungent odor can be off-putting,
-and the slimy cap cuticle should be removed before cooking. The flesh is soft
-and does not store well. Some foragers report it as acceptable when prepared
-in dishes with strong complementary flavors. As with all Suillus species, the
-pore layer should be removed and the cap peeled.
-
-## Similar Species
-
-- **Suillus luteus** — Also associates with pines but has a more prominent
-  persistent ring and less pungent odor; cap is darker brown.
-- **Suillus granulatus** — Lacks a partial veil and ring entirely; pore surface
-  exudes latex droplets when young.
-- **Suillus pungens** is readily distinguished by its strong odor and its
-  near-exclusive association with Monterey pine.
-
-## See Also
-
-- [[suillus-luteus]]
-- [[boletus-edulis-entity]]
-- pinus radiata
-- [[ectomycorrhiza]]

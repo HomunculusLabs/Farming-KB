@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-endorhiza-microbiome]] Structure
+title: Cannabis Endorhiza Microbiome Structure
 created: 2026-05-09
 tags: [microbiome, cannabis, endorhiza, endophyte, rhizosphere]
 date: 2026-05-09
@@ -87,50 +87,3 @@ plants grown in two different soils. Endorhiza samples shared significantly
 more OTUs with the soil they were grown in (mean = 2934) than with the
 alternative soil (mean = 2162) (t = -10.05, p = 1.209e-15), confirming the
 soil-origin hypothesis while also demonstrating cultivar-mediated selection.
-
-## Alpha Diversity Patterns
-
-Alpha diversity follows a clear gradient from bulk soil to endorhiza:
-
-- **Bulk soil** (chao1: m = 4947; s = 717) — highest diversity
-- **Rhizosphere** (chao1: m = 4525; s = 542) — slight reduction
-- **Endorhiza** (chao1: m = 3321; s = 420) — dramatic reduction
-
-This funneling effect reflects the selective pressures exerted by the root
-environment, where only bacteria capable of tolerating plant immune responses
-and competing for root exudates successfully colonize internal tissues.
-
-## Functional Implications
-
-Endorhiza bacteria support plant growth through multiple mechanisms:
-
-- Production of phytohormones and low molecular weight compounds regulating
-  growth and metabolism
-- Enzyme production involved in nutrient cycling
-- Suppression of plant diseases through competitive exclusion
-- Assistance in tolerating phytotoxic effects of environmental toxicants
-- Potential contributions to localized terroir, as demonstrated in other
-  crop plants such as wine grapes
-
-## Relationship to Secondary Metabolism
-
-Cannabis produces numerous secondary metabolic compounds, including
-cannabinoids and terpenes, which may directly influence endorhiza community
-composition. While Winston et al. found significant correlation between
-cannabinoid profiles and endorhiza community structure (unweighted r-stat:
-0.863, p = 0.001), the strong edaphic [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] direct
-attribution. Plants grown in Orange County soil had both higher THC and
-distinct soil chemistry, making it difficult to disentangle host biochemistry
-from soil physicochemical effects on the microbiome.
-
-This interplay between plant secondary metabolism and root microbiome
-assembly represents a frontier in Cannabis science, with potential
-implications for both agricultural practice and our understanding of
-[[cultivar-specific-root-microbial-communities]].
-
-## See Also
-
-- [[two-tier-selection-model-plant-microbiome]]
-- [[cultivar-specific-root-microbial-communities]]
-- [[16s-rrna-sequencing-microbiome-analysis]]
-- [[edaphic-factors-microbial-community-structure]]

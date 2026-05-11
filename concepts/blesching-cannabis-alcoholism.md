@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and [[cannabis-for-alcohol-dependence]]"
+title: [[blesching-cannabis-abortion-miscarriage-fertility]] Alcoholism
 created: 2026-04-26
 tags: [cannabis, alcoholism, addiction, substitution, harm-reduction]
 date: 2026-04-25
@@ -23,7 +23,7 @@ The four studies reviewed represent a growing but still preliminary body
 of evidence:
 
 - **Substitution surveys**: Multiple studies found that 30-50% of medical
-  cannabis patients reported substituting cannabis for alcohol, with many
+  cannabis patients reported substituting [[cannabis-for-alcohol-dependence]], with many
   reporting decreased alcohol consumption
 - **Epidemiological data**: Population-level studies in medical cannabis
   states showed associations between cannabis availability and reduced
@@ -88,12 +88,6 @@ Blesching frames cannabis in the context of a harm reduction approach:
 - Any reduction in alcohol consumption, even without complete
   abstinence, produces meaningful health benefits
 
-## Related Topics
-
-- [[blesching-cannabis-anxiety]] - anxiety in withdrawal
-- [[blesching-cannabis-neuroprotection]] - neuroprotective effects
-- blesching [[blesching-cannabis-liver-cancer]] disease - potential hepatoprotective effects
-
 ## See Also
-
-- [[blesching-cannabis-copd]]
+- [[blesching-cannabis-addiction-dependence]]
+- [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]

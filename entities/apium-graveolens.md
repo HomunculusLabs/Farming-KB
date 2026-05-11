@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Kooti W, Daraei N (2017). "A review of the antioxidant activity of celery (Apium graveolens L.)." Journal of Evidence-Based Complementary & Alternative Medicine, 22(4), 1029–1034.
   - Sowbhagya HB (2014). "Chemistry, technology, and nutraceutical functions of celery (Apium graveolens L.): an overview." Critical Reviews in Food Science and Nutrition, 54(3), 389–398.
   - Moghaddam PS, et al. (2013). "Celery (Apium graveolens) essential oil: a review of its phytochemistry and pharmacology." Journal of Medicinal Plants Research, 7(34), 2495–2503.
@@ -87,27 +88,3 @@ Celery was introduced to China via the Silk Road and is now one of the most wide
 ## Notable Cultivars and Varieties
 
 The three major cultivar groups of celery reflect distinct selection pressures. Stalk celery (var. *dulce*) includes green varieties like 'Pascal' and self-blanching gold types like 'Golden Self-Blanching'. Modern [[cervantes-hybrid-varieties-types]] such as 'Tango' and 'Conquistador' offer improved disease resistance, uniformity, and reduced stringiness.
-
-Celeriac (var. *rapaceum*) cultivars include 'Mars', 'Prague', and 'Diamant', selected for root size, smoothness, and keeping quality. Leaf celery (var. *secalinum*) is closer to the wild type and is widely used in East Asian and Southeast Asian cuisines for its intensely flavored leaves. Chinese celery (*qin cai*) is a distinct leaf celery type with thinner stalks and stronger aroma than Western varieties.
-
-## Bioactive Peptides and Emerging Research
-
-Celery contains bioactive peptides with documented antihypertensive activity. Hydrolyzed celery protein exhibits angiotensin-converting enzyme (ACE) inhibitory effects in vitro, suggesting a mechanism for the traditional use of celery in managing hypertension beyond the phthalide contribution.
-
-Recent metabolomic studies have identified over 40 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] in celery essential oil using GC-MS analysis. The composition varies significantly by cultivar, plant part, and geographic origin. Stalks are richest in phthalides, while seeds contain higher concentrations of terpenes (limonene, selinene). Seasonal variation affects the ratio of these constituents.
-
-Celery polyacetylenes, particularly falcarinol and falcarindiol, have attracted research interest for their cytotoxic activity against certain cancer cell lines. These compounds also contribute to the characteristic bitter aftertaste of wild celery and are reduced in modern sweet cultivars through selective breeding.
-
-Preliminary clinical trials on celery seed extract (standardized to 85% 3nB) have shown modest reductions in systolic blood pressure (3–5 mmHg) and improvements in gout symptoms through uric acid modulation. Larger randomized controlled trials are needed to confirm these findings.
-
-## See Also
-
-- [[coriandrum-sativum]]
-- [[daucus-carota]]
-- [[anethum-graveolens]]
-- [[mentha-piperita]]
-- [[luteolin]]
-- [[myrrhis-odorata]]
-- [[eucalyptol]]
-- [[safrole]]
-- [[beta-caryophyllene]]

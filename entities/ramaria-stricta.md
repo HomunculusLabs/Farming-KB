@@ -25,12 +25,12 @@ sources:
 
 *Ramaria stricta* is a species of coral fungus in the family Gomphaceae,
 widely distributed across temperate forests of the Northern Hemisphere.
-It is recognizable by its upright, branching fruiting bodies that are
+It is recognizable by its upright, branching [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that are
 tan to ochre-colored with darker branch tips, often arising from buried
 wood.
 
 Unlike many colorful *Ramaria* species, *R. stricta* is comparatively
-drab but is one of the more commonly encountered coral fungi in mixed
+drab but is one of the more commonly encountered [[coral-fungi-clavariaceae]] in mixed
 and coniferous forests. The species plays a significant role as a
 wood-decomposing saprotroph, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest
 ecosystems. The epithet *stricta* derives from Latin for "upright,"
@@ -78,66 +78,13 @@ regions of Europe, [[psilocybin-north-america-pacific-northwest]], and parts of 
 recorded from Scandinavia to the Mediterranean and from the British
 Isles eastward through Russia.
 
-In North America, it occurs across much of the continent, from the
+In [[guzman-psilocybin-mushrooms-north-america]], it occurs across much of the continent, from the
 Pacific Northwest through the Rocky Mountains and into the northeastern
 deciduous forests. Isolated collections have also been reported from
-East Asia, including Japan.
+[[neurotropic-fungi-japan-east-asia-species-cultural-context]], including Japan.
 
 The species shows strong preference for mixed and coniferous forests,
 particularly those dominated by oaks (*Quercus* spp.), beeches (*Fagus*
 spp.), and pines (*Pinus* spp.). Fruiting occurs from late summer
 through autumn (July to November), often appearing in the same locations
 across successive years.
-
-It is terrestrial but obligately associated with buried wood — stumps,
-roots, and subsurface woody debris. The fungus is not found on exposed
-logs or standing timber, which helps distinguish it from other
-wood-inhabiting coral fungi.
-
-## Ecological Role
-
-*Ramaria stricta* functions primarily as a brown-rot saprotroph,
-decomposing cellulose and hemicellulose of dead wood while leaving
-lignin largely intact. This makes it an important contributor to the
-brown-rot nutrient cycling pathway in forest ecosystems.
-
-Brown-rot fungi are particularly significant in coniferous forests,
-where they serve as primary decomposers of gymnosperm wood. Their
-ability to depolymerize cellulose without fully degrading lignin creates
-characteristic residue contributing to soil [[lowenfels-humus-formation-benefits]].
-
-Fruiting bodies serve as food for various invertebrates, particularly
-dipteran larvae developing within decaying basidiocarps. Slugs and
-gastropods feed on branches, facilitating short-distance [[aquatic-fungi-spore-dispersal-ingold]]
-on the forest floor. The species may also have weak mycorrhizal
-associations, though evidence remains limited.
-
-## Edibility and Culinary Use
-
-*R. stricta* is generally considered inedible to mildly poisonous.
-Reports of edibility vary by region, with some European sources listing
-it as edible when thoroughly cooked, while [[growing-gourmet-north-american-reishi-species]] mycologists
-caution against consumption.
-
-The flesh has a peppery or bitter taste in some collections, which may
-correlate with specific host-tree associations. The firm, brittle
-texture and unremarkable flavor do not recommend it for culinary use.
-
-⚠️ **Caution:** Many *Ramaria* species are difficult to identify in the
-field. Consumption should only follow positive identification by an
-experienced mycologist. Several species cause significant
-gastrointestinal distress including nausea, vomiting, and diarrhea.
-
-## Similar Species
-
-*R. stricta* is part of a complex of morphologically similar species
-difficult to separate without [[fungal-microscopic-examination-mounting-media-techniques]] of spore
-ornamentation.
-
-- **[[trametes-versicolor-entity]]** — Common wood-decomposing bracket fungus
-  occupying similar niche on decaying logs, different growth form.
-- **[[armillaria-mellea-entity]]** — Root-rot pathogen and saprotroph sharing
-  forest-floor habitat, but forming agaricoid mushroom clusters.
-## See Also
-
-- [[boletus-edulis-entity]] — Ectomycorrhizal associate of the same temperate

@@ -1,7 +1,7 @@
 ---
 title: Cannabis, Depression, and Anger Release
 created: 2026-04-28
-tags: [cannabis, depression, anger, emotions, endocannabinoid-system,
+tags: [cannabis, depression, anger, emotions, [[endocannabinoid-system],
   mind-body-medicine, cb1-receptors, neurogenesis, antidepressant]
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Evidence-Based Confidence Level
 
-The [[endocannabinoid-neurogenesis-neuroplasticity-blesching-[[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]]] offers a fundamentally different therapeutic
+The [[endocannabinoid-neurogenesis-neuroplasticity]] [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] [[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]] offers a fundamentally different therapeutic
 pathway through neurochemical modulation and processing of suppressed
 emotions. The hippocampus, central to memory and emotion, is rich in CB1
 receptors and plays a critical role in depression.
@@ -88,13 +88,3 @@ German and Canadian researchers demonstrated that gait directly impacts
 selective memory:
 
 - **Depressed gait** (slumped, hanging shoulders) made it easier to
-  remember negative things.
-- **Happy gait** (upright, energized) increased the tendency to remember
-  positive things.
-
-This provides a simple, free intervention requiring no medication.
-
-## Let Food Be Thy Medicine
-
-**Cacao:** Scientists in Tucson, AZ found that cacao increases [[blesching-cannabis-serotonin-endocannabinoid-system]]
-- [[blesching-cannabis-serotonin-endocannabinoid-system]]

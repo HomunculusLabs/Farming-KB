@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Achan, J. et al. (2011). "Quinine, an old anti-malarial drug in a modern world." Malaria Journal, 10, 144.
   - White, N.J. (1998). "Cardiotoxicity of antimalarial drugs." Lancet Infectious Diseases, 7(8), 549-558.
-  - Wernsdorfer, W.H. & McGregor, I. (1988). Malaria: Principles and Practice of Malariology. Churchill Livingstone.
+  - Wernsdorfer, W.H. & McGregor, I. (1988). Malaria: [[biodynamic-farming-principles-and-practice]] of Malariology. Churchill Livingstone.
   - Krames, E.N. & Pechère, J.C. (1983). "Pharmacokinetics of quinine." Clinical Pharmacokinetics, 8(6), 485-501.
   - Warhurst, D.C. (2003). "Antimalarial drug discovery." British Journal of Pharmacology, 140(7), 1147-1153.
 ---
@@ -55,7 +55,7 @@ Quinine is primarily effective against the asexual erythrocytic stages of *Plasm
 
 ### Pharmacokinetics
 
-- **Absorption:** Nearly complete oral bioavailability (~80%). Peak plasma levels in 1–3 hours.
+- **Absorption:** Nearly complete [[first-pass-metabolism-and-oral-bioavailability]] (~80%). Peak plasma levels in 1–3 hours.
 - **Half-life:** 8–14 hours in healthy adults; prolonged in severe malaria (up to 26 hours)
 - **Volume of distribution:** 1.5–3.0 L/kg
 - **Plasma protein binding:** ~70% (primarily to alpha-1-acid glycoprotein)
@@ -88,38 +88,6 @@ Quinine is primarily effective against the asexual erythrocytic stages of *Plasm
 
 ## Dose Ranges
 
-- **10 mg/kg (oral, antimalarial)** — typical loading dose for uncomplicated malaria; 600–650 mg three times daily for 3–7 days
-- **20 mg/kg (IV, severe malaria)** — loading dose over 4 hours, followed by 10 mg/kg every 8 hours
-- **200–300 mg (nocturnal cramps)** — taken at bedtime; off-label use
-- **>2 g/day (chronic)** — risk of severe cinchonism, retinal damage, and cardiac toxicity
-- **>3 g (acute)** — may cause potentially fatal cardiotoxicity
-- **Tonic water** — contains ~20 mg/L quinine (far below therapeutic doses)
-
-## Natural Source
-
-### Cinchona Bark
-
-Quinine is extracted from the bark of *Cinchona* species (Rubiaceae), native to the Andean slopes of South America. Bark alkaloid content ranges from 4–14%, with quinine constituting 2–8% depending on species and provenance.
-
-The most important commercial species include *Cinchona officinalis*, *Cinchona ledgeriana* (highest quinine content, up to 13%), *Cinchona succirubra*, and *Cinchona calisaya*. Cultivation expanded to Java and India in the 19th century after Dutch and British colonial programs.
-
-The name "quinine" derives from the Quechua word *quina* (bark), reflecting its indigenous origin. Jesuit missionaries introduced cinchona bark to Europe in the 17th century.
-
-### Related Alkaloids
-
-The cinchona bark contains a complex mixture of related alkaloids including quinidine, cinchonine, and cinchonidine. These share the quinuclidine-quinoline core structure and exhibit overlapping pharmacological activities.
-
-## Legal Status
-
 ## See Also
-
-- [[cinchona-officinalis]]
-- [[artemisinin]]
-- [[caffeine]]
-- [[theobromine]]
-- [[ephedra-sinica]]
-- [[curcuma-longa]]
-- [[curcumin]]
-- [[berberine]]
-- [[piper-nigrum-entity]]
-- [[piperine]]
+- [[metzner-shamanic-healing-three-forms-extraction-soul-retrieval-dismemberment]]
+- [[metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment]]

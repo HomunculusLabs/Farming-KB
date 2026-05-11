@@ -14,7 +14,7 @@ Fermented Plant Juice (FPJ) is a fermented extract of plants that helps crops ab
 
 ## Origin and Principles
 
-The method is inspired by Korean kimchi, where lactic [[lactic-acid-bacteria-knf]] grow abundantly. About 100,000-150,000 microbes per 1 sq cm of a leaf are mostly lactic bacteria and yeast useful for plant growth. The essence of the plant is extracted using brown sugar through osmotic pressure. During fermentation, FPJ produces weak alcohols which dissolve chlorophylls.
+The method is inspired by Korean kimchi, where lactic [[lactic-acid-bacteria-knf]] grow abundantly. About 100,000-150,000 microbes per 1 sq cm of a leaf are mostly lactic bacteria and yeast useful for plant growth. The essence of the plant is extracted using brown sugar through [[fungal-fruiting-body-mechanics-osmotic-pressure]]. During fermentation, FPJ produces weak alcohols which dissolve chlorophylls.
 
 The fermentation process occurs in 5 steps: 1) recognition of each other (between microbes and ingredients); 2) harmony; 3) fermentation; 4) affection (stabilization); 5) producing [[comparison-natural-farming-vs-permaculture]] materials. Fill 2/3 of the jar with materials, leaving 1/3 for the three "chi" (water, air, and heat).
 
@@ -28,7 +28,7 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 ### Fast-Growing and Vigorous Plants
 
 - **Bamboo shoots**: Grow fast after rain. Remove soil but not outer skin. Ferments in about 5 days.
-- **Lateral buds** of all plants: abundant growth hormone and vitality.
+- **Lateral buds** of all plants: abundant [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] and vitality.
 - **Japanese arrowroot/kudzu** (Pueraria lobata): Pick 15cm new spring vines. Ferments in about 5 days.
 - **Thinned-out fruits**: lots of gibberellins for healthier plants with thicker foliage.
 
@@ -41,16 +41,16 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 
 ### Special Materials
 
-- **Japanese cedar fruit** (Cryptomeria japonica): June harvest. A small amount mixed with other FPJs becomes a powerful reinforcing agent.
+- **Japanese cedar fruit** ([[cryptomeria-japonica]]): June harvest. A small amount mixed with other FPJs becomes a powerful reinforcing agent.
 - **Chocolate vine fruit** (Akebia quinata): Pick immature fruits in September.
-- **False acacia flowers** (Robinia pseudoacacia): Promotes flower bud formation, increases sugar content. Collect just before bees visit.
+- **False acacia flowers** ([[robinia-pseudoacacia]]): Promotes flower bud formation, increases sugar content. Collect just before bees visit.
 - **Child liquid**: Use thinned-out fruit and auxiliary buds of general crops.
 
 ## When to Collect
 
 - **Just before sunrise**: Plants have the most nutrients and strongest vitality. From 3pm to the following sunrise, catabolism is active and energy is stored.
 - **Quickly snap growing points**: If collection takes too long, dip picked materials in same-kind FPJ (x1/500) to form a protective film.
-- Avoid excessive sunshine (drought) or rainfall (rainy season washes away lactic acid bacteria and yeast).
+- Avoid excessive sunshine (drought) or rainfall (rainy season washes away [[bionutrients-lab-lactic-acid-bacteria-serum]] and yeast).
 - Do not wash ingredients before fermentation.
 
 ## How to Make FPJ
@@ -86,21 +86,5 @@ The fermentation process occurs in 5 steps: 1) recognition of each other (betwee
 
 | [[cho-plant-growth-stage-treatment-protocols]] | Recommended FPJ | Dilution |
 |---|---|---|
-| Germination to early growth | Japanese mugwort, dropwort, bamboo shoot | x1/500 |
+| Germination to [[cervantes-seedling-care-early-growth]] | Japanese mugwort, dropwort, bamboo shoot | x1/500 |
 | [[cannabis-vegetative-growth-stage]] | Mugwort, dropwort, bamboo, reed, arrowroot vine | x1/500 |
-| Cross-over period | False acacia flower, child liquid, mulberry, grape | x1/500 |
-| [[knf-reproductive-growth-stage]] | Ripe fruit enzymes (chocolate vine, apple, peach, grape) | less than x1/2000 |
-| Maturity | Purslane FPJ | less than x1/5000 |
-
-- Do not use FPJ when fungal diseases appear under poor ventilation.
-- Use well-ripened FPJ (diluted less than x1/2000) in reproductive growth when fruits are large, but note sugar content can cause leaf spots.
-- FPJ is used in IMO #3 and IMO #4 preparation.
-
-## See Also
-
-- [[master-cho-knf-fish-aminos-and-sea-minerals]]
-
-- [[knf-oriental-herbal-nutrient]]
-- [[knf-lactic-acid-bacteria-serum]]
-- [[knf-input-application-timing]]
-- [[monster-cropping]]

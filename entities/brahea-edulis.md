@@ -14,7 +14,7 @@ sources:
   - Felger R.S. & Joyal R.W. (1999). "The Palms of Guadalupe Island, Mexico." Principes.
   - Dransfield J., Uhl N.W. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - IUCN Red List (2020). "Brahea edulis."
-  - Henderson A., Galeano G., Bernal R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
+  - Henderson A., Galeano G., Bernal R. (1995). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Palms of the Americas." Princeton University Press.
 ---
 
 # Brahea edulis
@@ -54,7 +54,7 @@ to reveal a smooth grey trunk.
 **Leaves:** Palmate, 1.2 to 1.5 meters in diameter, on a petiole 60 to 100
 centimeters long. Divided into 40 to 55 segments, each 50 to 80 centimeters
 long. Stiff, dark green above, glaucous green below. Not conspicuously
-blue-silver like Brahea armata.
+blue-silver like [[brahea-armata]].
 
 **Inflorescence:** Interfoliar, erect, 1.0 to 1.5 meters long, branching to
 two or three orders. Flowers small, cream to yellowish, male and female on
@@ -73,7 +73,7 @@ of the Baja California peninsula. The island is roughly 35 kilometers long and
 The species occurs primarily on north-facing slopes and in canyon bottoms
 between 200 and 1200 meters elevation. It grows in mixed chaparral and pine
 forest communities alongside island oak (Quercus tomentella) and island pine
-(Pinus radiata var. binata).
+([[pinus-radiata]] var. binata).
 
 The island has a Mediterranean climate with cool wet winters and warm dry
 summers. Annual precipitation ranges from 200 to 400 millimeters, primarily as
@@ -88,56 +88,3 @@ formerly degraded areas.
 For over 150 years, feral goats reduced Brahea edulis to a relict population on
 cliffs. A systematic goat eradication program completed by 2007 led to dramatic
 recovery within a decade.
-
-The species is listed as Vulnerable on the IUCN Red List (2020). While recovery
-is strong, it remains vulnerable due to its extremely restricted natural range
-and the threat of invasive species reintroduction.
-
-Climate change poses a long-term threat through potential alterations to fog
-regime and precipitation patterns. The island is designated as a Biosphere
-Reserve by the Mexican government.
-
-## Cultivation
-
-Brahea edulis is widely cultivated as an ornamental in Mediterranean and warm-
-temperate climates, valued for moderate size, attractive form, and reliable cold
-tolerance.
-
-**Climate:** Adaptable to USDA Zones 9A through 11. Tolerates approximately
-−7°C when established. Thrives in Mediterranean climates with dry summers.
-
-**Soil:** Tolerates clay, loam, and sandy soils. Prefers well-drained
-conditions and tolerates moderately alkaline soils.
-
-**Propagation:** From seed, germinating within 2 to 4 months at 20 to 25°C.
-Container-grown seedlings are ready for planting within 2 to 3 years.
-
-**Growth rate:** Moderate, with 20 to 30 centimeters of trunk growth per year.
-Responds well to regular irrigation and fertilization.
-
-**Pests:** Relatively pest-free and notably resistant to red palm weevil
-(Rhynchophorus ferrugineus) that affects other ornamental palms.
-
-## Uses
-
-The ripe fruits are edible and sweet, historically consumed by sealers and
-whalers visiting Guadalupe Island. Indigenous use by the now-extinct island
-population has not been documented.
-
-The primary modern use is ornamental. Brahea edulis is valued for its robust
-trunk, fan-shaped crown, and tolerance of drought, wind, and moderate frost. It
-is widely planted in California, southern Europe, South Africa, and Australia.
-
-The fibrous leaf sheaths have been used for rope and coarse textiles, though
-this use is not commercially significant.
-
-## See Also
-
-- [[brahea-armata]]
-- [[washingtonia-robusta]]
-- [[washingtonia-filifera]]
-- [[trachycarpus-fortunei]]
-- [[chamaerops-humilis]]
-- [[jubaea-chilensis]]
-- [[phoenix-canariensis]]
-- [[butia-capitata]]

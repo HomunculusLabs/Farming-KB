@@ -2,10 +2,10 @@
 
 ## Overview
 Photon-counting scintillation imaging (PCSI) is a non-invasive technique that enables
-real-time visualization of nutrient movement through fungal mycelial [[mycelial-cord-network-topology-graph-theory-bebber]] networks. By
+real-time visualization of [[nutrient-movement-through-soil-to-plant-roots]] fungal mycelial [[mycelial-cord-network-topology-graph-theory-bebber]] networks. By
 using radioactively labeled amino acid analogs (such as ¹⁴C-aminoisobutyric acid,
 or ¹⁴C-AIB) and a scintillation screen, researchers can observe the spatial and
-temporal dynamics of nutrient translocation in living fungal [[fungal-mycelial-networks-nutrient-translocation]] colonies over extended
+temporal dynamics of [[dighton-fungal-nutrient-translocation-element-redistribution]] in living fungal [[fungal-mycelial-networks-nutrient-translocation]] colonies over extended
 periods — from hours to weeks.
 
 ## Principle of Operation
@@ -23,8 +23,8 @@ The PCSI technique works by combining radioactive tracing with imaging:
 ## Key Advantages of PCSI
 - **Non-destructive**: The fungal colony remains alive and functional throughout
   imaging. No sampling or sectioning is required.
-- **Real-time**: Nutrient dynamics are captured as they happen, revealing temporal
-  patterns that destructive sampling methods miss.
+- **Real-time**: [[mycelial-network-nutrient-dynamics]] are captured as they happen, revealing temporal
+  patterns that [[fungal-destructive-sampling-herbarium-dna-extraction]] methods miss.
 - **Spatial resolution**: The technique provides spatial information about where
   nutrients are within the colony, not just total amounts.
 - **Extended duration**: Colonies can be imaged continuously for periods exceeding
@@ -34,7 +34,7 @@ The PCSI technique works by combining radioactive tracing with imaging:
 
 ## Pulsatile Nutrient Transport
 One of the most significant discoveries made using PCSI is that nutrient transport
-in fungal mycelial networks is not continuous but pulsatile — nutrients move in
+in fungal [[fungal-pulsatile-nutrient-transport-mycelial-networks]] is not continuous but pulsatile — nutrients move in
 waves or pulses rather than in a steady flow.
 
 ### Characteristics of Pulsatile Transport
@@ -79,7 +79,7 @@ Modified PCSI systems using wood-block inocula and sand or soil substrata overla
 with translucent scintillation screens allow imaging of more realistic growth
 conditions:
 - Continuous imaging for over 6 weeks is possible.
-- Complex sequences of shifts in nitrogen distribution and transport priority are
+- Complex sequences of shifts in [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]] and transport priority are
   observed as the network develops over time.
 - Contact with new wood resources triggers increased local branching and
   proliferation, followed by reorganization of transport routes.
@@ -88,44 +88,3 @@ conditions:
 A particularly interesting observation is the transient nature of cord transport:
 - Pre-existing cords may show no ¹⁴C-AIB movement for extended periods, then
   suddenly begin transporting at rates similar to primary cords.
-- These cords act as transport routes only transiently — signal may decline after
-  approximately 30 hours.
-- Some subsidiary cords show two distinct phases of transport, initiated at
-  different times.
-- This behavior suggests that the fungal network maintains "backup" transport
-  routes that can be activated as needed.
-
-## Implications for Fungal Ecology
-The PCSI technique has revealed several fundamental principles about how fungal
-mycelial networks function:
-
-1. **Dynamic resource allocation**: Fungi continuously adjust where nutrients
-   are sent based on current demands and resource availability.
-2. **Network-level coordination**: Despite being distributed organisms with no
-   central nervous system, fungi coordinate nutrient transport across their
-   entire network through pulsatile signaling.
-3. **Resilience through redundancy**: Route switching and multiple transport
-   pathways provide resilience against damage or disruption.
-4. **Efficient exploration**: Pulsatile transport may be more energy-efficient
-   than continuous flow, allowing the fungus to sample multiple directions
-   before committing resources to a particular pathway.
-
-## Technical Considerations
-- The scintillation screen must be in direct contact with the colony for optimal
-  signal detection.
-- Background radiation must be accounted for in quantitative analyses.
-- ¹⁴C-AIB is a non-metabolizable amino acid analog — it is transported but not
-  incorporated into proteins, making it a pure transport tracer.
-- Signal attenuation occurs with distance from the screen, so thick or
-  three-dimensional colonies present challenges.
-
-## Source
-- Bebber, D.P. et al. "Imaging mycelial nutrient dynamics." In Gadd, G.M.,
-  Watkinson, S.C. & Dyer, P.S. (eds.) *Fungi in the Environment*. Cambridge
-  University Press. Lines 600-1500 of the full text.
-
-## See Also
-- [[fungal-pulsatile-nutrient-transport-mycelial-networks]]
-- [[gadd-mycelial-network-resilience-graph-theory]]
-- [[mycelial-cord-network-topology-analysis]]
-- [[fungal-nutrient-cycling-mineral-transformations]]

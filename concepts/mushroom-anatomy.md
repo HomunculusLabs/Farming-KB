@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom Anatomy
 
-A mushroom is the spore-producing fruiting body of certain fungi, primarily
+A mushroom is the spore-producing [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] of certain fungi, primarily
 basidiomycetes and some ascomycetes. While "mushroom" colloquially refers to
 the visible above-ground structure, the vast majority of the organism exists
 as an underground [[gadd-mycelial-network-dynamics]]. Understanding mushroom anatomy is essential
@@ -19,7 +19,7 @@ for identification, foraging, and cultivation.
 ## The Fruiting Body Overview
 
 The classic mushroom shape -- a cap atop a stalk -- is the most recognizable
-form, but fruiting bodies vary enormously across species. Some grow as brackets
+form, but [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] vary enormously across species. Some grow as brackets
 on wood (polypores), others form coral-like branches, puffballs, truffles
 underground, or intricate lattice structures (like Dictyophora). Despite this
 diversity, most share a common architectural purpose: to elevate spores into
@@ -46,7 +46,7 @@ There are several main types:
 - **Gills (Lamellae)** -- Thin, blade-like structures radiating from the
   stalk. The most common hymenophore type. Gills may be attached to the
   stalk (adnate, adnexed, decurrent) or free from it. Their color at
-  maturity (spore print color) is a fundamental identification trait.
+  maturity ([[boil-a-bag-spore-print-technique-jarrold]] color) is a fundamental identification trait.
 - **Pores (Tubes)** -- Found in boletes and polypores. The underside of the
   cap has a spongy surface of tiny holes, each the opening of a tube lined
   with spore-producing cells.
@@ -57,7 +57,7 @@ There are several main types:
 
 ## Stalk (Stipe)
 
-The stalk supports the cap and elevates it for spore dispersal. Key features
+The stalk supports the cap and elevates it for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. Key features
 include:
 
 - **Annulus** -- A ring of tissue around the stalk, remnants of the partial
@@ -69,7 +69,7 @@ include:
   characteristic of Amanita species.
 - **Base** -- The stalk base may be bulbous, rooting, or attached to a
   sclerotium (a dense mass of hyphae). A rhizomorph (cord-like mycelial
-  strand) may connect it to the underground network.
+  strand) may connect it to [[teaming-with-microbes-fungi-the-underground-network]].
 
 ## Spores and Spore Print
 
@@ -87,61 +87,3 @@ can narrow possibilities dramatically.
 ## Veils
 
 Mushrooms may be protected by veils during development:
-
-- **Universal veil** -- Encloses the entire young mushroom (button stage).
-  Remnants form the volva at the stalk base and warts or patches on the
-  cap surface.
-- **Partial veil** -- Connects the cap margin to the stalk, protecting the
-  developing hymenophore. It may tear away completely or leave a persistent
-  annulus (ring) on the stalk.
-
-## Development and Growth
-
-[[ectomycorrhizal-mushroom-fruiting-ecology]] bodies grow through hyphal inflation (cells swelling with
-water) rather than cell division, which is why mushrooms can appear to grow
-rapidly, sometimes overnight. This process is called hyphal expansion. The
-triggering of fruiting depends on environmental cues: temperature shifts,
-humidity, light, and [[ph-and-nutrient-availability-garden-soils]]. Many mushrooms require specific
-conditions to fruit, which is why they appear seasonally.
-
-## Microscopic Features
-
-[[fungal-microscopic-examination-mounting-media-techniques]] provides additional identification data. Gill trama
-(the internal tissue of gills) may be regular (uniformly parallel hyphae) or
-irregular (interwoven hyphae). The presence of cystidia -- specialized sterile
-cells projecting from the gill surface -- is taxonomically important. Cheilocystidia
-occur on the gill edge, while pleurocystidia occur on the gill face. Their
-shape, size, and staining reactions help distinguish species within genera.
-
-## Life Cycle Stages
-
-Mushroom development follows a characteristic sequence:
-
-1. **Primordium** -- A tiny knot of hyphae forms, the earliest visible stage
-   of fruiting body development, often appearing as a pinhead-sized bump.
-2. **Button stage** -- The young mushroom is fully enclosed by the universal
-   veil, resembling a small egg or button in shape.
-3. **Veil rupture** -- The expanding cap tears the universal veil, revealing
-   the gills or pores. The partial veil may still connect cap to stalk.
-4. **Maturity** -- The cap fully expands, the partial veil breaks (forming
-   the annulus), and spores are actively discharged. Gills change color as
-   spores mature.
-5. **Senescence** -- Spore release declines, tissues soften, and the
-   mushroom begins to decay, often consumed by invertebrates or bacteria.
-
-## Defensive Mechanisms
-
-Mushrooms have evolved various defenses against predation:
-
-- **Toxins** -- Many contain amatoxins, muscarine, psilocybin, ibotenic
-  acid, or other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that deter or harm would-be consumers.
-- **Latex** -- Lactarius species exude a milky fluid when cut, which may
-  be acrid, peppery, or otherwise unpalatable.
-- **Bruising reactions** -- Some species develop intense blue or black
-  staining when damaged, often indicating oxidation of psychoactive or
-  toxic compounds that may deter insects.
-## See Also
-
-- [[mycelium]]
-- [[mycorrhiza]]
-- [[edible-wild-mushrooms-by-region]]

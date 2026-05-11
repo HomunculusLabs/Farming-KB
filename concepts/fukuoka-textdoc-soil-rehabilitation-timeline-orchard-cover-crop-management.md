@@ -1,10 +1,11 @@
 ---
-title: "Soil fukuoka textdoc soil rehabilitation timeline orchard cover crop management and fukuoka-orchard-cover-crop-black-wattle-system Crop Management"
+title: Fukuoka Textdoc Soil Rehabilitation Timeline Orchard Cover Crop Management
 created: 2026-04-28
 tags: [fukuoka, natural-farming, soil-management, cover-crops, ladino-clover, alfalfa, black-wattle, orchard, soil-building]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,10 +14,10 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka provides a detailed practical account of how
+[[masanobu-fukuoka]] provides a detailed practical account of how
 depleted orchard soil can be rehabilitated through natural means
 over a period of decades. This process centers on the use of
-cover crops, particularly ladino clover, alfalfa, and the black
+cover crops, particularly [[fukuoka-ladino-clover-ground-cover-management]], alfalfa, and the black
 wattle tree, to rebuild soil structure, fertility, and
 biological activity without any chemical inputs.
 
@@ -43,7 +44,7 @@ he came to the general conclusion that he should grow a weed
 cover using ladino clover as the primary crop and herbs such
 as alfalfa, lupine, and bur clover as secondary crops. To
 condition the deeper soil strata in the hard, depleted soil,
-he companion-planted fertilizer trees such as black wattle,
+he companion-planted fertilizer trees such as [[fukuoka-black-wattle-fertilizer-tree-method]],
 myrtle, and podocarpus.
 
 ## Ladino Clover: Features and Management
@@ -87,59 +88,3 @@ ashes scattered.
 
 The only disadvantages of ladino clover are susceptibility to
 summer-killing and sclerotium disease during hot, dry weather,
-and retarded growth in the shade and under trees.
-
-## Alfalfa for Arid and Warm Regions
-
-Nothing surpasses ladino clover in dealing with weeds, but in
-warm regions where clover tends to lose its vigor in the
-summer, and in cold, dry areas, mixed seeding with alfalfa is
-desirable. Alfalfa is very deep-rooted, sending roots down to
-depths of six feet or more. A hardy perennial, it is resistant
-to droughty and cold conditions as well as to high
-temperatures.
-
-Bur clover, useful in controlling spring weeds, withers in the
-summer but grows back again in the fall and suppresses winter
-weeds as well. Other legumes such as lupine may also be used
-with good results.
-
-## The Black Wattle as Fertilizer Tree
-
-Up to about ten black wattle trees should be planted per
-quarter-acre among the fruit trees. No other evergreen tree
-of the pea family grows as quickly. It grows five feet or
-more in a year, creating a shelterbelt in just three to four
-years.
-
-After five to six years of growth, Fukuoka felled these and
-buried the trunks and tops in trenches within the orchard.
-An area of more than 100 square yards of what had been hard,
-lean soil about each tree had become soft and porous. Each
-tree gave as much as a half-ton of high-quality organic
-material for burying.
-
-The black wattle grows constantly throughout the year, always
-sending out new shoots. These attract aphids and scales, which
-support a growing population of ladybugs. Planting five or so
-of these trees per quarter-acre keeps scales and mites down to
-a minimum.
-
-## The Long-Term Soil Building Timeline
-
-Five to ten years are needed to build up six inches of topsoil
-through soil improvement by the cultivation of cover crops. To
-current economic perceptions, one disadvantage of natural
-[[natural-farming-methods-comparison]] is that they take too long. But if farmland
-were to be correctly understood as a legacy to be preserved for
-future generations, the general opinion of [[comparison-natural-farming-vs-permaculture]]
-would improve.
-## See Also
-
-- [[fukuoka-textdoc-citrus-orchard-soil-rehabilitation-timeline]]
-
-- [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
-  for detailed clover lifecycle analysis
-- [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]]
-  for the [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] process
-- [[fukuoka-natural-farming-philosophy]] for

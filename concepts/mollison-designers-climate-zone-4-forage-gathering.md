@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,28 +88,3 @@ erosion and improving downstream water quality. This relates to
 Mollison assigns Zone 4 a critical role as a genetic reservoir. Wild plant
 populations in Zone 4 contain genetic diversity that may be needed for future
 breeding programs. Climate-adapted local ecotypes of useful species should be
-identified, mapped, and protected. Seed collection from Zone 4 wild
-populations supports [[zone-and-sector-analysis]] for identifying fire risk
-directions and [[permaculture-slope-analysis-and-reading]] for understanding fire behavior on
-different landforms.
-
-## Minimal Input Management
-
-The defining characteristic of Zone 4 management is its low intensity.
-Mollison lists the acceptable management activities:
-- Annual or seasonal harvesting visits
-- Occasional selective tree felling
-- Fence maintenance for grazing areas
-- Trail and access track maintenance
-- Firebreak maintenance
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] at boundaries with managed zones
-- Monitoring and observation
-
-Zone 4 should not receive regular irrigation, fertilization, or planting.
-Nature is the primary manager; humans are occasional harvesters and observers.
-
-## Wildlife Corridors and Monitoring
-
-Zone 4 provides critical connectivity for wildlife movement. Mollison
-recommends maintaining continuous vegetation corridors linking Zone 5
-wilderness areas through Zone 4. These corridors support [[cho-natural-pest-control-methods]]

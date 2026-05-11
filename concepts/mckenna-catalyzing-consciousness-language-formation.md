@@ -1,5 +1,5 @@
 ---
-title: mckenna-catalyzing-consciousness-and-language and Language Formation
+title: [[mckenna-catalyzing-consciousness-and-language]] [[mckenna-psilocybin-and-language-formation]]
 created: 2026-04-28
 tags:
   - consciousness
@@ -43,7 +43,7 @@ The first encounters between hominids and psilocybin-containing mushrooms
 may have occurred on the African grasslands. The strategy of early hominid
 omnivores was to eat everything that seemed foodlike and to test
 everything for its food potential. The eminent ethnobotanist Richard
-[[richard-evans-schultes-updated]] has documented the presence of psychoactive mushrooms in
+[[richard-evans-schultes-updated]] has documented the presence of [[ceremonial-shamanic-use-psychoactive-mushrooms]] in
 virtually every area of the world where cattle graze.
 
 Hominids and hallucinogenic plants were in close association for a long
@@ -70,7 +70,7 @@ mushroom into their diet.
 
 At high doses, the mushrooms dissolve the ego and produce visionary
 experiences, ecstatic states, and the dissolution of boundaries between
-self and other. These experiences form the basis of shamanism and
+self and other. These experiences form the basis of [[shamanism]] and
 religion.
 
 ## Language as Synesthetic Activity
@@ -88,57 +88,3 @@ from awareness. Language under such conditions is seen, beheld, just as
 we would ordinarily see our homes and surroundings. The collectively
 designed cultural environment in which we all live is recognized as the
 objectification of our collective linguistic intent.
-
-## The Mushroom of Language
-
-Henry Munn described this phenomenon in his essay on [[maria-sabina-mazatec-mushroom-ceremony]]
-use: "Language is an ecstatic activity of signification. Intoxicated by
-the mushrooms, the fluency, the ease, the aptness of expression one
-becomes capable of are such that one is astounded by the words that issue
-forth from the contact of the intention of articulation with the matter
-of experience. The spontaneity the mushrooms liberate is not only
-perceptual, but linguistic. For the shaman, it is as if existence were
-uttering itself through him."
-
-Psilocybin specifically activates areas of the brain concerned with
-processing signals. A common occurrence with psilocybin intoxication is
-spontaneous outbursts of poetry and other vocal activity such as speaking
-in tongues, though in a manner distinct from ordinary glossolalia. In
-cultures with a tradition of mushroom use, these phenomena gave rise to
-the notion of discourse with spirit doctors and supernatural allies.
-
-## The Ego Drift and Cultural Decline
-
-Once activities involving syntactic self-expression were established
-habits among early human beings, the continued evolution of language in
-environments where mushrooms were scarce or unavailable permitted a
-tendency toward the expression and emergence of the ego.
-
-If the ego is not regularly and repeatedly dissolved in the unbounded
-hyperspace of the Transcendent Other, there will always be slow drift
-away from the sense of self as part of nature's larger whole. The
-ultimate consequence of this drift is the fatal ennui that now permeates
-Western civilization. The connection between mushroom use and the
-maintenance of ecological consciousness is direct.
-
-## Huxley's Reducing Valve
-
-Aldous Huxley contrasted ordinary consciousness with the psychedelic
-experience. Following C.D. Broad's suggestion that the function of the
-brain is "eliminative and not productive," Huxley proposed that Mind at
-Large must be funneled through the reducing valve of the brain and
-nervous system. What comes out at the other end is a measly trickle of
-consciousness sufficient for biological survival.
-
-Plant hallucinogens can reliably and repeatedly open the floodgates of
-this reducing valve and expose the individual to the full force of
-consciousness. The way we internalize the impact of this experience is to
-generalize and extrapolate our world view through acts of imagination,
-which represent our adaptive response to information conveyed by the
-senses and by the deeper dimensions of awareness.
-
-## See Also
-
-- [[psychedelic-mushroom-set-and-setting]]
-- [[mckenna-language-and-reality]]
-- [[mckenna-vegetable-mind-and-gaian-holism]]

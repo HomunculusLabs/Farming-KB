@@ -1,5 +1,5 @@
 ---
-title: "[[solomon-vegetable-demand-classification-low-medium-high]] nutritional decline [[dynamic-accumulator-plants-trace-minerals]] Decline and Trace Minerals - [[steve-solomon]]"
+title: Solomon Vegetable Nutritional Decline Trace Minerals
 created: 2026-04-26
 tags:
   - gardening
@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md"
 type: concept
 ---
@@ -87,29 +88,3 @@ Technical challenges often relate to the complexity of interactions
 between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

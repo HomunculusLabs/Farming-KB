@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Kovanda, M. (1970). "Polyploidy and Variation in the Campanula rotundifolia Complex." Preslia, 42, 142–155.
+  - Kovanda, M. (1970). "Polyploidy and Variation in the campanula-rotundifolia Complex." Preslia, 42, 142–155.
   - Shetek WG, Rayner DA (1994). "Campanulas: A Gardener's Guide." Timber Press.
   - Akeroyd JR (1993). "Campanula L." In: Tutin TG et al. (eds.), Flora Europaea, 2nd ed., Vol. 4. Cambridge University Press.
   - Kiehn M (2005). "Cytogeography of the Campanula rotundifolia L. Aggregate in the Alps." Plant Systematics and Evolution, 253(1-4), 33–47.
@@ -55,25 +55,25 @@ The species is absent from the Pyrenees and the Scandinavian mountains, which ar
 
 Fairy's thimble requires full sun to partial shade and sharply drained, alkaline to neutral soil. It performs best in rock crevices, dry-stone walls, and gritty scree beds where its roots can remain cool while the foliage stays dry.
 
-Propagation is by seed sown in late winter on the surface of a gritty compost. Seeds require a period of cold stratification (4–6 weeks at 0–4 °C) for reliable germination, which typically occurs in early spring. Division of established clumps in early spring is also effective.
+Propagation is by seed sown in late winter on the surface of a gritty compost. Seeds require a period of cold stratification (4–6 weeks at 0–4 °C) for reliable germination, which typically occurs in [[coleman-overwintered-onions-and-early-spring-crops]]. Division of established clumps in early spring is also effective.
 
 The plant self-seeds freely in suitable conditions, naturalizing between paving stones and along gravel paths. Seedlings often appear in the crevices of rock walls and between stepping stones, where they establish without any assistance.
 
 It is hardy to USDA zones 4–8 and tolerates temperatures below −25 °C when protected from winter wet. The primary cause of losses in cultivation is crown rot from waterlogged soil during the dormant season, not cold damage.
 
-No major pests or diseases affect this species in cultivation. Aphids may colonize young growth in greenhouses but are rarely problematic outdoors. Slugs and snails generally avoid the foliage.
+No major pests or diseases affect this species in cultivation. Aphids may colonize young growth in greenhouses but are rarely problematic outdoors. [[jadam-pesticide-for-slugs-and-snails]] generally avoid the foliage.
 
 A top-dressing of coarse grit or limestone chippings around the crown helps prevent stem rot and simulates the plant's natural scree habitat. Avoid organic mulches, which retain too much moisture at the crown.
 
 ## Ecological Role
 
-The nodding flowers are visited by small solitary bees and flies adapted to alpine conditions. Pollinators include species of Bombus (alpine bumblebees) and hoverflies in the genus Cheilosia. The plant serves as a minor nectar source in alpine meadow communities.
+The nodding flowers are visited by small [[comparison-honey-bees-vs-native-solitary-bees]] and flies adapted to alpine conditions. Pollinators include species of Bombus (alpine bumblebees) and hoverflies in the genus Cheilosia. The plant serves as a minor nectar source in alpine meadow communities.
 
 Campanula cochleariifolia contributes to soil stabilization on loose scree and moraine substrates through its fibrous root network. It forms part of the pioneer community that colonizes recently deglaciated terrain alongside other calcicole alpines such as Saxifraga and Draba species.
 
 It is a larval host for several species of micro-moths in the Gelechiidae that specialize on Campanula in montane habitats. The species is not known to be toxic to grazing mammals and is generally avoided only due to its small size and low palatability.
 
-The plant's ability to establish in rock crevices creates microhabitats for invertebrates and other small organisms. Mosses and lichens often colonize the shaded root zones beneath established clumps.
+The plant's ability to establish in rock crevices creates microhabitats for invertebrates and other small organisms. Mosses and [[lichens]] often colonize the shaded root zones beneath established clumps.
 
 ## Horticultural Significance
 
@@ -81,21 +81,10 @@ Fairy's thimble is a classic subject for the alpine trough and crevice garden. I
 
 It is frequently used in replica alpine landscapes alongside other European alpines such as gentians, saxifrages, and creeping thymes. The white-flowered form, sometimes sold as 'Alba', is particularly valued for contrast against dark rock surfaces.
 
-In the cut-flower trade the species has no commercial significance due to its short stems and small flower size. However, it is a staple of specialist alpine nurseries across Europe and North America, where it is propagated primarily by seed.
+In the cut-flower trade the species has no commercial significance due to its short stems and small flower size. However, it is a staple of specialist alpine nurseries across Europe and [[guzman-psilocybin-mushrooms-north-america]], where it is propagated primarily by seed.
 
-The species is also featured in alpine house displays at major botanical gardens, where it is grown in plung beds of sand to simulate natural scree conditions. It responds well to the high light and good air circulation of the alpine house environment.
+The species is also featured in alpine house displays at major botanical gardens, where it is grown in plung beds of sand to simulate natural scree conditions. It responds well to the high light and good [[stamets-growing-room-air-circulation-co2-management]] of the alpine house environment.
 
-Several cultivars have been selected for flower color intensity and compact growth. These include 'Bavaria Blue' with deeper blue flowers and the white-flowered 'Alba', both commonly available from alpine plant specialists.
+Several cultivars have been selected for flower color intensity and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]. These include 'Bavaria Blue' with deeper blue flowers and the white-flowered 'Alba', both commonly available from alpine plant specialists.
 
 ## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-carpatica]]
-- [[campanula-barbata]]
-- [[campanula-zoysii]]
-- [[campanula-garganica]]
-- [[gentiana-acaulis]]
-- [[ranunculus-glacialis]]
-- [[primula-auricula]]
-- [[sedum-acre]]
-- [[achillea-millefolium]]

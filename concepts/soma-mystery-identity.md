@@ -11,8 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - McKenna, Terence. *Food of the Gods: The Search for the Original
-    Tree of Knowledge*. Bantam Books, 1992.
-  - Wasson, R. Gordon. *Soma: Divine Mushroom of Immortality*.
+    [[stropharia-cubensis-tree-of-knowledge]]*. Bantam Books, 1992.
+  - Wasson, R. Gordon. *Soma: [[soma-controversy-fly-agaric-as-divine-mushroom]] of Immortality*.
     Harcourt Brace Jovanovich, 1968.
 related_concepts:
   - stoned-ape-hypothesis
@@ -50,7 +50,7 @@ its identity.
 
 ## Wasson's Amanita Theory
 
-The most influential modern hypothesis was proposed by R. Gordon Wasson
+The most influential modern hypothesis was proposed by R. [[gordon-wasson-comparative-method-ethnomycology]]
 in his 1968 book *Soma: Divine Mushroom of Immortality*. Wasson argued
 that Soma was the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom, *[[allegro-amanita-muscaria-properties-and-pharmacology]]*. This
 brightly colored red-and-white mushroom is widely distributed across
@@ -84,62 +84,7 @@ deserved serious consideration.
 
 ### Peganum harmala (Syrian Rue)
 
-Several scholars, including Terence McKenna, have proposed that Soma
-may have been *Peganum harmala*, commonly known as Syrian rue. This
+Several scholars, including [[terence-mckenna]], have proposed that Soma
+may have been *[[peganum-harmala]]*, commonly known as Syrian rue. This
 plant contains harmine and harmaline, beta-carboline alkaloids that
-are MAO inhibitors. The Zoroastrian sacred plant Haoma, the Iranian
-counterpart to Soma, has stronger connections to P. harmala than to
-any mushroom species.
-
-### Psilocybin Mushrooms
-
-McKenna and others have argued that various psilocybin-containing
-mushrooms better match the visionary effects described in Vedic hymns.
-The ecstatic, revelatory quality of psilocybin experiences more closely
-parallels Vedic descriptions of Soma-induced illumination than the
-deliriant effects of A. muscaria.
-
-However, the psilocybin hypothesis faces distribution challenges. The
-most commonly cited psilocybin species, *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, is a
-tropical and subtropical species that does not naturally occur in the
-northwestern Indian mountains where Soma was traditionally gathered.
-
-### Other Candidates
-
-Additional candidates have included ephedra, cannabis, lotus, and
-various fermentation products. Each has supporting evidence but also
-significant inconsistencies with the Vedic descriptions. The truth
-may be that "Soma" referred to different plants at different periods,
-or that the original identity was lost when the Indo-Aryans migrated
-from their Central Asian homeland to the Indian subcontinent.
-
-## McKenna's Contribution
-
-Terence McKenna addressed the Soma mystery extensively in *Food of the
-Gods*. He used the question of Soma's identity as a case study in his
-broader argument that psychedelic plants played a foundational role in
-human cultural and spiritual development. For McKenna, the loss of Soma
-was emblematic of humanity's larger estrangement from the visionary
-plants that shaped early civilization.
-
-He favored a combination of Peganum harmala (as the botanical core)
-and psilocybin-containing mushrooms (as the source of the visionary
-effects), possibly used together in a synergistic preparation. This
-interpretation aligns with the ayahuasca analog model, where
-beta-carboline MAO inhibitors from one plant enable the oral
-activity of DMT from another.
-
-## The Indo-European Context
-
-The Soma/Haoma question connects to the broader mystery of
-Indo-European ritual practices. The close parallels between [[mckenna-vedic-soma-indo-european-mysteries]]
-and Iranian Haoma suggest a common proto-Indo-Iranian sacrament dating
-to perhaps 2000 BCE or earlier. If the identity of this original plant
-could be established, it would illuminate the ritual life of one of
-humanity's most influential cultural groupings.
-
-## See Also
-
-- [[terence-mckenna]]
-- [[amanita-muscaria-entity]]
-- [[psychedelic-mushroom-set-and-setting]]
+are [[mao-inhibitors-and-psychedelics]]. The Zoroastrian sacred plant Haoma, the Iranian

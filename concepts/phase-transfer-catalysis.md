@@ -11,7 +11,7 @@ sources:
 
 Phase transfer catalysis is a strategy for making two immiscible reaction phases behave as if the reactive species could meet in the same solution.
 
-It is most often used when an inorganic anion or other ionic reagent is [[cho-water-soluble-calcium-and-potassium|soluble]] [[pericyclic-reactions-organic-chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
+It is most often used when an inorganic anion or other ionic reagent is [[cho-water-soluble-calcium-and-potassium]] [[pericyclic-reactions-organic-chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
 
 In industry, phase transfer catalysis is valued because it combines high reaction rates with simple workups, concentrated media, and comparatively mild operating conditions.
 
@@ -49,7 +49,7 @@ Stirring intensity matters because the interfacial area controls how quickly ion
 
 Solid-liquid phase transfer catalysis replaces the aqueous phase with a solid inorganic salt or base, such as potassium carbonate, sodium hydroxide, or potassium permanganate.
 
-In solid-liquid systems, the catalyst may extract reactive ions from a crystal surface, making particle size, moisture content, and mixing especially important.
+In solid-liquid systems, the catalyst may extract reactive ions from a crystal surface, making [[vermiculite-particle-size-water-retention-calibration-pf-tek]], moisture content, and mixing especially important.
 
 Triphasic systems immobilize the catalyst on a polymer or inorganic support so that it contacts two liquid phases while remaining recoverable as a third phase.
 

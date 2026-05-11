@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 

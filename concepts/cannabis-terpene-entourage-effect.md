@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-The entourage effect refers to the synergistic interactions between the multiple active compounds in cannabis -- including cannabinoids, terpenes, terpenoids, and other plant constituents -- that together produce therapeutic effects greater than the sum of individual isolated components. The Cannabis Health Index documents numerous examples of this synergy and emphasizes that researchers are increasingly looking at plant constituents such as terpenoids as important co-factors in inducing therapeutic effects.
+cannabis terpene entourage effect refers to the synergistic interactions between the multiple active compounds in cannabis -- including cannabinoids, terpenes, terpenoids, and other plant constituents -- that together produce [[cbd-therapeutic-effects]] greater than the sum of individual isolated components. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents numerous examples of this synergy and emphasizes that researchers are increasingly looking at plant constituents such as terpenoids as important co-factors in inducing therapeutic effects.
 
 ## The Case for Whole-Plant Synergy
 
@@ -27,7 +27,7 @@ Blesching presents a compelling case that isolated cannabinoids may not achieve 
 
 ### THC and CBD Synergy in Cancer Treatment
 
-Research from the California Pacific Medical Center Research Institute (2010) demonstrated that THC and CBD acted synergistically to inhibit brain cancer cell growth by inducing reactive oxygen species to produce apoptosis. Each cannabinoid works independently in inhibiting cancer cell development, but still greater effect is produced synergistically when THC and CBD are applied together.
+Research from the California Pacific Medical Center Research Institute (2010) demonstrated that THC and CBD acted synergistically to inhibit brain cancer cell growth by inducing [[reactive-oxygen-species-and-oxidative-stress]] to produce apoptosis. Each cannabinoid works independently in inhibiting cancer cell development, but still greater effect is produced synergistically when THC and CBD are applied together.
 
 In leukemia research, the Department of Oncology at St George's University of London found "clear synergistic interactions between THC and the cytotoxic agents in leukemic cells," confirming that cannabinoids enhance conventional chemotherapy effectiveness.
 
@@ -60,7 +60,7 @@ The most extensively documented terpene in the Cannabis Health Index, (E)-beta-c
 
 ### Linalool
 
-Found in basil (Ocimum basilicum), linalool is identified as one of the purified components exhibiting broad-spectrum antiviral activity. It contributes to the aromatic profile and therapeutic properties of various cannabis strains.
+Found in basil (Ocimum basilicum), linalool is identified as one of the purified components exhibiting broad-spectrum antiviral activity. It contributes to the aromatic profile and [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of various cannabis strains.
 
 ### Apigenin and Ursolic Acid
 
@@ -77,7 +77,7 @@ The 2009 meta-analysis from the University of Massachusetts Medical School highl
 - Flavonoids (apigenin, quercetin, and others)
 - Terpenes and terpenoids (myrcene, pinene, limonene, caryophyllene, linalool)
 - Fatty acids and plant sterols
-- Various phenolic compounds
+- Various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 
 ## Strain Chemistry and the Entourage Effect
 
@@ -88,33 +88,3 @@ The ratio of cannabinoids and terpenes varies significantly between and within c
 - These ratios determine the degree to which balancing properties are additive or cancel each other out
 - Both basic strains deliver the full range of plant cannabinoids and terpenes
 - Raw, fresh cannabis leaf juice contains significantly higher amounts of CBD-acid and other acidic precursors than heated or processed plant material
-
-## Implications for Medical Practice
-
-The entourage effect has significant implications for how cannabis medicine should be practiced:
-
-1. **Whole-plant preparations may outperform isolated cannabinoids** for many conditions
-2. **[[blesching-cannabis-strain-selection-receptor-targeting]] matters** because different cannabinoid-terpene profiles produce different therapeutic effects
-3. **Raw cannabis preparations** preserve acidic cannabinoid precursors (THC-acid, CBD-acid) with their own therapeutic properties
-4. **Combination with dietary spices** rich in terpenes (black pepper, cloves, cinnamon, basil, rosemary, oregano) may enhance therapeutic outcomes through shared CB2 activation pathways
-5. **Pharmaceutical isolates** (Dronabinol, Nabilone) lack the full spectrum of synergistic co-factors present in whole-plant cannabis
-
-## Spice Plants as Entourage Partners
-
-Blesching proposes that (E)-beta-caryophyllene-containing spices can work synergistically with cannabis:
-
-- In conjunction with cannabis, a synergy of beneficial effects may result
-- Common cooking spices provide an inexpensive natural pharmacy for CB2 activation
-- The FDA-approved status of these spices makes them accessible adjunctive therapies
-
-## Future Directions
-
-Research on the entourage effect is still evolving. Possible synergistic effects of using complete cannabinoid profiles against conditions like MRSA have not yet been fully tested. The complex interplay between 111+ cannabinoids and 200-250 non-cannabinoid constituents represents a vast frontier for understanding how whole-plant cannabis achieves its remarkable therapeutic breadth.
-
-## See Also
-
-- [[beta-caryophyllene-dietary-cannabinoid]]
-- [[cannabis-pain-management-protocols]]
-- [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- [[cannabis-and-cancer-research]]
-- [[cannabis-safety-profile-and-overdose-risk]]

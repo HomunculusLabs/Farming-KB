@@ -6,8 +6,8 @@ type: concept
 tags: [permaculture, design, sustainability]
 sources: ["papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 ---
-Source: David Holmgren, *Permaculture: Principles and Pathways
-Beyond Sustainability* (2002)
+Source: [[david-holmgren]], *Permaculture: Principles and Pathways
+[[holmgren-beyond-sustainability]]* (2002)
 ## Genetic Engineering: Explosive Evolution or Techno Dream?
 ### Gene Transfer in Nature
 Gene transfer between bacteria in nature has been identified as common.
@@ -17,7 +17,7 @@ microbes will spread to the limits set by ecological constraints, not
 those set by human management or edict, much faster than the spread of
 introduced plants and animals.
 ### Scenarios
-1. **GE succeeds:** Mines the world's genetic diversity to generate
+1. **GE succeeds:** Mines the world's [[biodiversity-fungal-genetic-diversity]] to generate
    real wealth. The Maximum Power Law would predict rapid economic and
    technological reorganisation, potentially including transformation
    of humanity into "some new recombinant species."
@@ -73,7 +73,7 @@ depression.
 ### Ecological and Organisational Limits
 Beyond physical and metabolic limits, there are organisational and
 ecological limits. Ecosystem self-organisation provides niches.
-Example: in most temperate forests, rodents occupy the forest floor.
+Example: in most temperate forests, rodents occupy the [[fungal-ecology-forest-floor]].
 In New Zealand (no native rodents), flightless wrens evolved to fill
 that niche. Arrival of rodents with Maori and Europeans drove the wrens
 to extinction.
@@ -88,32 +88,3 @@ as bestowing gifts of abundance.
 The extensive extinction of specialised species and replacement by
 hardy generalists has led many biologists to conclude we are witnessing
 the "McDonaldisation of the world's biota." While the evidence is
-strong, the catastrophic changes causing extinctions also create novel
-conditions that may stimulate or accelerate new species emergence.
-Factors potentially stimulating evolutionary jumps include mining and
-use of nearly half the fossil fuels accumulated over 1000 million
-years, 6 billion people highly connected as one global population,
-world trade causing unintentional lifeform transfer on unprecedented
-scale, and the rapid expansion of genetically engineered organisms.
-## System Evolution
-### Beyond Species
-The concept of evolution has wider currency when applied to more fluid
-self-organised systems: natural ecosystems, landscapes, businesses,
-organisations, communities, and cultures. System evolution results
-from "emergent" behaviour that transforms the system to a degree where
-it would be called something fundamentally different.
-### Holling's Model Applied
-In the Four-Phase Model:
-- Conservation phase: highly connected structures maintain current
-  diversity but prevent new possibilities
-- Release (disturbance): breaks connectivity
-- Reorganisation: risky development of new connections
-- Exploitation: exhibits real power before settling into new
-  Conservation phase
-If a Conservation phase lasts a long time and survives several
-disturbance cycles, it could be accepted as having achieved some
-evolutionary success.
-## See Also
-- [[david-holmgren]]
-- [[holmgren-gigantism-intermediate-technology-and-small-scale]]
-- [[mollison-designers-design-client-interview-and-site-assessment-process]]

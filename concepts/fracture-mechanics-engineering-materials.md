@@ -43,7 +43,7 @@ Values vary widely: structural steel (4340) K_IC ~ 50-150 MPa*sqrt(m),
 7075-T6 aluminum ~29 MPa*sqrt(m), Ti-6Al-4V ~55-115 MPa*sqrt(m),
 alumina ceramic ~3-5 MPa*sqrt(m), PMMA polymer ~1-2 MPa*sqrt(m).
 When K >= K_IC, rapid fracture occurs. This enables leak-before-break
-design where detectable crack growth precedes catastrophic failure.
+design where detectable [[fatigue-crack-growth]] precedes catastrophic failure.
 
 ## Crack Propagation Modes
 
@@ -88,59 +88,7 @@ Norton's law: epsilon_dot = A*sigma^n*exp(-Q/RT), where n ~ 3-8 and Q
 is activation energy (Inconel 718 at 650 C: Q ~ 270-300 kJ/mol).
 Tertiary creep involves accelerating strain from void formation leading
 to rupture. The Larson-Miller parameter P = T(C + log t_r) extrapolates
-short-term data to service life, with C ~ 20 for many steels. Jet engine
-turbine blades operate at ~1100 C in nickel single-crystal superalloys
-where creep life is critical.
 
-## Ductile Versus Brittle Fracture
-
-Ductile fracture involves significant plastic deformation: necking, void
-nucleation, growth, and coalescence producing a fibrous cup-and-cone
-surface absorbing high energy (>100 J in Charpy tests). Brittle fracture
-occurs with minimal plastic deformation, producing flat cleavage facets
-and absorbing low energy (<10 J). The ductile-to-brittle transition
-temperature (DBTT) for mild steel is ~-20 to +10 C. Below DBTT, BCC
-metals fracture brittlely; ceramics are brittle at all temperatures.
-The WWII Liberty ship failures from brittle fracture of welded hull
-steel near operating temperatures demonstrated fracture mechanics
-importance.
-
-## Material-Specific Behavior
-
-Metals are generally ductile above their DBTT, but toughness trades off
-with strength: low-carbon steel K_IC ~ 200 MPa*sqrt(m) versus
-high-strength martensitic steel ~30 MPa*sqrt(m). Ceramics have inherent
-brittleness (K_IC ~ 1-6 MPa*sqrt(m)); transformation-toughened zirconia
-reaches K_IC ~ 10-12 MPa*sqrt(m). Polymers are brittle below glass
-transition T_g and ductile above it. Composites show anisotropic
-fracture: longitudinal carbon fiber/epoxy strength reaches 1500-2000
-MPa but transverse strength only 50-80 MPa. Damage modes include fiber
-breakage, matrix cracking, debonding, and delamination.
-
-## Testing Methods and Standards
-
-The Charpy V-notch impact test (ASTM E23) uses a 10x10x55 mm bar with
-2 mm V-notch struck by a pendulum; energy absorbed reveals DBTT. Compact
-tension specimens (ASTM E399) determine K_IC with W = 2B geometry and
-fatigue pre-cracking. Validity requires a, B >= 2.5*(K_IC/sigma_y)^2.
-Three-point bend specimens (ASTM E399/E1820) serve both K_IC and J_IC
-testing. Additional standards include CTOD (ASTM E1290), [[fatigue-crack-growth]]
-growth (ASTM E647), and creep testing (ASTM E139, 1000+ hours).
-
-## Engineering Applications
-
-Damage-tolerant aerospace design (FAA AC 25.571) uses crack growth
-predictions to set inspection intervals. The 1988 Aloha Airlines Flight
-243 fuselage failure resulted from fatigue cracking along rivet rows.
-Pressure vessel design follows ASME Boiler Code Section XI with leak-
-before-break criteria. Pipeline assessment uses API 579 fitness-for-
-service methods. Failure analysis involves visual examination,
-fractography (SEM), [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], mechanical testing, and stress
-analysis. Non-destructive evaluation includes ultrasonic testing (~1 mm
-crack detection), radiography, eddy current, and acoustic emission.
 ## See Also
-
-- [[stress-strain-and-elasticity]]
-
-- [[building-with-natural-materials]]
-- [[comparison-cob-building-vs-adobe-construction]]
+- [[office-template-engineering]]
+- [[genetic-engineering-fungal-bioremediation]]

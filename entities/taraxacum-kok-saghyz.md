@@ -87,21 +87,3 @@ Compared to Hevea, TKS offers several advantages: it grows in temperate climates
 Guayule produces rubber in its bark and branches rather than roots, with similar quality characteristics. Guayule requires arid conditions and is better suited to semi-desert regions, while TKS is adapted to temperate agricultural zones. The two species are complementary rather than competitive, potentially diversifying global rubber supply chains.
 
 ## See Also
-
-- [[moringa-oleifera]]
-- [[borago-officinalis]]
-- [[thymus-vulgaris-entity]]
-- [[mentha-piperita]]
-- [[trifolium-repens]]
-- [[lotus-corniculatus]]
-- permaculture
-- [[chop-and-drop]]
-- [[companion-planting]]
-- [[mulching-guide]]
-- hippophae-rhamnoides
-- [[glycyrrhiza-glabra]]
-- [[morus-alba]]
-- [[calendula-officinalis]]
-- achillea-millefolium
-- [[plantago-major]]
-- [[sambucus-nigra]]

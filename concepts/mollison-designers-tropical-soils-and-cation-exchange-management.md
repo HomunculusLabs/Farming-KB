@@ -1,5 +1,5 @@
 ---
-title: "mollison designers tropical soils and cation exchange management and cation-exchange-capacity Management"
+title: Mollison Designers Tropical Soils And Cation Exchange Management
 created: 2026-04-26
 tags:
   - soil-science
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -22,8 +23,8 @@ as Indonesia, soils are old (not renewed by glaciation) and
 deeply leached. Understanding the chemistry of
 mollison-green-manure-soil-fertility in humid tropical
 [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
-- Perennial crops rather than annuals
-- Any cultivation loses humus as carbon dioxide, so
+- [[perennial-vegetables-and-edible-perennial-crops]] rather than annuals
+- Any cultivation loses humus as [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], so
   intercropping is essential to maintain soil cover
 
 ### Add Phosphate Carefully
@@ -43,7 +44,7 @@ nutrients.
 Whatever is added or available as fertiliser, give as a
 light spread all year at 6-week intervals until plants are
 well grown. This matches the application rate to the soil's
-limited holding capacity, preventing waste through leaching.
+limited [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], preventing waste through leaching.
 
 ### Perennials Over Annuals
 If at all possible, substitute perennial for annual crop,
@@ -56,7 +57,7 @@ leaching rains.
 
 ### Basalt Dust
 Basalt provides essential silica, calcium, iron, magnesium,
-and trace minerals. It acts as a slow-release fertiliser
+and [[dynamic-accumulator-plants-trace-minerals]]. It acts as a slow-release fertiliser
 that also helps buffer soil pH.
 
 ### Cement Powder
@@ -87,28 +88,3 @@ hold calcium, sodium, and phosphates against leaching.
 
 This interaction is the key to tropical soil management:
 by raising pH towards neutral (or slightly alkaline), we
-increase the CEC, which means the soil can hold more
-nutrients, which supports more plant growth, which produces
-more organic matter, which further improves soil structure
-and water-holding capacity.
-
-## Coral Cay Soils
-
-On coral cays, the calcium-rich sands bind to phosphate
-to form insoluble calcium triphosphate, so that a sort of
-cement (platin or calcrete) forms. This may be naturally
-evolved from the guano of seabirds, but superphosphate
-rapidly forms the platin by its greater solubility. In
-calcium-rich tropical soils, fine rock phosphate yields
-more slowly and is therefore more likely to provide
-long-term benefits.
-
-A return of crop wastes as mollison-mulching-and-soil-health
-is also essential on coral cays, which can reduce pH and
-improve conditions for a wider range of crops.
-## See Also
-- [[cation-exchange-capacity]]
-- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
-- [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-designers-cloudburst-and-stormwater-management]]
-- [[mollison-designers-coppicing-management-of-legume-trees]]

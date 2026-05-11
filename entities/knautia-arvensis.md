@@ -88,33 +88,3 @@ The species tolerates annual cutting after seed set, making it compatible with t
 Dead flower stems persist through winter, providing structural habitat for overwintering invertebrates. Leaving uncut margins around meadow patches benefits these overwintering populations.
 
 ## Uses
-
-The common name "scabious" derives from the historical use of *Knautia* and related genera to treat scabies and skin afflictions. The roots and leaves were applied externally as a poultice or infusion.
-
-In modern horticulture, *K. arvensis* is valued as a long-flowering border plant and cut flower. Several cultivars are available, including white and deep violet forms.
-
-In ecological restoration, it is a standard component of species-rich grassland seed mixes across northern Europe. Its combination of long flowering period and high pollinator value makes it particularly useful in agri-environment schemes.
-
-The species has been the subject of several studies on nectar quality and pollinator preference, confirming its high sugar concentration in nectar (approximately 40–60% sucrose equivalents).
-
-In traditional European herbalism, the entire plant was used as a vulnerary and anti-inflammatory remedy. Preparations from the root were applied to wounds, ulcers, and skin eruptions.
-
-## See Also
-
-- [[centaurea-nigra]]
-- [[centaurea-cyanus]]
-- [[succisa-pratensis]]
-- [[tragopogon-pratensis]]
-- [[plantago-lanceolata]]
-- [[achillea-millefolium]]
-- [[trifolium-pratense]]
-- [[trifolium-repens]]
-- [[lotus-corniculatus]]
-- [[sambucus-nigra]]
-- [[taraxacum-officinale]]
-- [[galium-aparine]]
-- [[plantago-major]]
-- [[rumex-acetosa]]
-- [[digitalis-purpurea]]
-- [[salix-alba]]
-- [[quercus-robur]]

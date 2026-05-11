@@ -1,5 +1,5 @@
 ---
-title: [[symbiotic-fungi-arbuscular-mycorrhizal-proteomics-techniques]]
+title: Mycorrhizal Proteomics
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -88,45 +88,3 @@ Heat shock proteins and antioxidant enzymes including superoxide dismutase
 and peroxidase are commonly upregulated in mycorrhizal roots. These
 proteins may protect both partners from oxidative stress generated during
 the intense [[arbuscule-isolation-metabolic-activity-assays]] of the symbiotic interface. The upregulation
-of these stress-response proteins appears to be a general feature of
-mycorrhizal symbiosis across diverse plant-fungal combinations.
-
-### Transport and Metabolic Proteins
-
-Proteins involved in nutrient transport show significant changes during
-mycorrhizal development. Phosphate transporters, ammonium transporters, and
-sugar transporters are among the most consistently identified proteins in
-proteomic studies. The induction of plant phosphate transporters in
-arbusculated cells reflects the enhanced phosphate delivery capacity of the
-fungal partner, while fungal sugar transporters enable carbon flow from
-plant to fungus.
-
-Metabolic enzymes involved in the glycolysis pathway, the tricarboxylic
-acid cycle, and amino acid biosynthesis are also modulated during symbiosis.
-These changes reflect the altered metabolic demands of the mycorrhizal root,
-which must support both its own metabolism and the carbon demands of the
-fungal partner. The metabolic reprogramming observed in proteomic studies
-correlates with transcriptomic data but reveals additional layers of
-regulation through protein-level control.
-
-## Challenges and Future Directions
-
-Mycorrhizal proteomics faces several technical challenges that limit current
-understanding. The obligate nature of arbuscular mycorrhizal fungi means
-that fungal tissue cannot be cultured independently, making it difficult to
-distinguish fungal proteins from plant proteins in mixed tissue extracts.
-Isotopic labeling strategies using fungal-specific markers are being developed
-to address this limitation and enable partner-specific proteomic analysis.
-
-Emerging technologies including data-independent acquisition (DIA) mass
-spectrometry, single-cell proteomics, and spatial proteomics promise to
-overcome many current limitations. These approaches will enable researchers
-to map protein expression patterns at the cellular and sub-cellular level
-within mycorrhizal roots, revealing the spatial organization of metabolic
-and signaling processes at the symbiotic interface.
-
-## Related Topics
-
-- [[mycorrhizal-biocontrol]]
-- [[plant-cell-membrane-transport-proteins]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

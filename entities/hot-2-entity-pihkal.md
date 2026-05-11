@@ -88,20 +88,6 @@ THF at reflux. After cooling again to room temperature, all was
 
 poured into 1 L H2O and washed with 3x75 mL CH2Cl2, which removed all
 of the color but little of the product. The aqueous phase was made
-basic with 25% NaOH, and extracted with 3x75 mL CH2Cl2. The extracts
-were pooled and the solvent removed under vacuum to give a residue of
-3.88 g of an amber oil. This was dissolved in 30 mL IPA, acidified
-with concentrated HCL to a bright red on universal pH paper, and then
-diluted with 200 mL anhydrous Et2O. After a short period of time,
-crystals started to form. These were removed by filtration, washed
-with Et2O, and air dried to constant weight. Thus was obtained 2.86 g
-2,5-dimethoxy-4-ethylthio-N-hydroxyphenethylamine hydrochloride
-(HOT-2) as off-white crystals, with a melting point of 122 deg C with
-[[tryptamine]] research varies by jurisdiction.
 
 ## See Also
-
-- [[hot-7-entity-pihkal]]
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[3-4-dma-entity-pihkal]]

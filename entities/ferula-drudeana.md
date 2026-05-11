@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Cappers, R.T.J. (2022). 'Ferula drudeana and the identity of the ancient Greek drug silphium.' Economic Botany 76(4): 1–15."
+  - "Cappers, R.T.J. (2022). 'Ferula drudeana and the identity of the ancient-greek-mystery-cults-comparison drug silphium.' Economic Botany 76(4): 1–15."
   - "Alphonso, A., et al. (2023). 'Phytochemical analysis of Ferula drudeana reveals psychoactive compounds.' Journal of Pharmacy and Pharmacology 75(2): 218–229."
   - "Mabberley, D.J. (2017). Mabberley's Plant-Book (4th ed.). Cambridge University Press."
   - "Hytten, J. (2023). 'The silphium mystery: could Ferula drudeana be the answer?' Mediterranean Botany 44(1): e78102."
@@ -71,7 +71,7 @@ Province by researcher Mahmut Miski, who had been searching for a botanical
 candidate for silphium for over three decades.
 
 The restricted distribution and small population size have led to concerns
-about conservation status. The species appears to be a narrow endemic adapted
+about [[fungal-biodiversity-conservation-status]]. The species appears to be a narrow endemic adapted
 to specific soil and climatic conditions of the central Anatolian plateau,
 where cold winters and dry summers create a harsh but stable environment.
 
@@ -88,28 +88,3 @@ Notably, the resin contains compounds that may act as GABAergic modulators
 and dopamine [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], consistent with classical accounts of
 silphium's effects as a euphoriant, aphrodisiac, and general tonic. The
 alkaloid content and exact pharmacological mechanisms remain under active
-investigation.
-
-## The Silphium Hypothesis
-
-Silphium was a plant of extraordinary importance in the ancient
-Mediterranean world, harvested in Cyrenaica (modern Libya) and valued as a
-medicine, contraceptive, seasoning, and perfume. The plant was driven to
-extinction by overharvesting by the 1st century CE, and its precise botanical
-identity has been debated for centuries.
-
-F. drudeana has been proposed as a candidate for silphium based on multiple
-lines of evidence: its resin chemistry, its morphological similarity to
-depictions on ancient Cyrenaican coins, its ecological requirements matching
-descriptions of silphium's habitat, and the overlap of its natural range with
-ancient Greek and Persian trade routes. The hypothesis remains debated, as
-no definitive archaeological or textual evidence directly links F. drudeana
-to Cyrenaican silphium.
-
-## See Also
-
-- [[ferula-assafoetida]]
-
-- [[boswellia-sacra]]
-- [[mescaline]]
-- [[psilocybin]]

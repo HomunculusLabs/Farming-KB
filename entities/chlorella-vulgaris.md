@@ -24,9 +24,9 @@ sources:
 
 **Chlorella vulgaris** is a spherical, unicellular green microalga in the division Chlorophyta. It is among the most widely cultivated microalgae globally, valued as a dietary supplement, animal feed ingredient, and biofuel feedstock.
 
-First described by Martinus Beijerinck in 1890, *C. vulgaris* has become a model organism for photosynthetic research and commercial algal production. Its robust growth, high protein content, and tolerance of diverse cultivation conditions make it a workhorse species in the microalgae industry.
+First described by Martinus Beijerinck in 1890, *C. vulgaris* has become a [[canary-grass-phototropism-model-organism]] for photosynthetic research and commercial algal production. Its robust growth, high protein content, and tolerance of diverse cultivation conditions make it a workhorse species in the microalgae industry.
 
-Global annual production exceeds several thousand metric tons of dried biomass. Major producers operate in Taiwan, Japan, Germany, and the United States.
+Global annual production exceeds several thousand metric tons of dried biomass. Major producers operate in Taiwan, Japan, Germany, and the [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Morphology
 
@@ -52,13 +52,13 @@ Notable micronutrients include vitamins B1, B2, B6, B12, C, and E. The B12 conte
 
 *C. vulgaris* grows photoautotrophically, heterotrophically, and mixotrophically. Photoautotrophic cultivation in open raceway ponds is the lowest-cost method, achieving biomass densities of 0.5–1.5 g/L.
 
-Heterotrophic cultivation using organic carbon sources (glucose, acetate) in fermenters reaches far higher densities of 10–100 g/L. This approach is preferred for nutritional supplement production where cell-wall quality and controlled growth are priorities.
+Heterotrophic cultivation using [[dighton-fungal-dissolved-organic-carbon-production]] sources (glucose, acetate) in fermenters reaches far higher densities of 10–100 g/L. This approach is preferred for nutritional supplement production where cell-wall quality and controlled growth are priorities.
 
 Mixotrophic growth combines light and organic carbon, potentially exceeding the biomass productivity of either mode alone. Optimal temperature is 25–35°C with pH maintained between 6.0 and 8.0.
 
 Light intensity of 2,000–6,000 lux supports near-maximal photoautotrophic growth rates. Higher intensities can induce photoinhibition without adequate mixing or CO2 supplementation.
 
-Industrial-scale photobioreactors and thin-layer cascade systems have improved volumetric productivity to 0.3–0.7 g/L/day. Closed systems reduce contamination risk and improve product consistency compared to open ponds.
+Industrial-scale photobioreactors and thin-layer cascade systems have improved volumetric productivity to 0.3–0.7 g/L/day. Closed systems reduce [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] and improve product consistency compared to open ponds.
 
 ## Applications
 
@@ -70,9 +70,9 @@ In fish feed, partial replacement of fishmeal with chlorella (up to 10–15%) ha
 
 **Biofuel:** Lipid-extracted *C. vulgaris* residue can be processed into biodiesel via transesterification.
 
-Biomass productivity and lipid yield under stress conditions remain below economic viability targets for standalone fuel production. Integration with biorefinery approaches, where high-value coproducts subsidize fuel production, is considered more promising.
+Biomass productivity and lipid yield under stress conditions remain below economic viability targets for standalone [[permaculture-on-farm-alcohol-fuel-production]]. Integration with biorefinery approaches, where high-value coproducts subsidize fuel production, is considered more promising.
 
-**[[mollison-designers-wastewater-treatment-wetlands]]:** The species efficiently removes nitrogen, phosphorus, and heavy metals from municipal and agricultural wastewater. Coupled cultivation-bioremediation systems are an active area of commercial development.
+**[[mollison-designers-wastewater-treatment-wetlands]]:** The species efficiently removes nitrogen, phosphorus, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from municipal and agricultural wastewater. Coupled cultivation-bioremediation systems are an active area of commercial development.
 
 **Bioproducts:** Pigment extracts (lutein, chlorophyll), bioactive peptides, and polysaccharides with reported antioxidant and immunomodulatory activities are high-value coproducts.
 
@@ -87,36 +87,3 @@ In eutrophic systems, *C. vulgaris* can contribute to algal blooms. These blooms
 Its ability to sequester CO2 during photosynthesis (approximately 1.8 kg CO2 per kg biomass) has attracted interest in carbon capture applications. Integration with industrial flue gas streams is under investigation.
 
 ## Strain Improvement and Genetics
-
-The *C. vulgaris* genome was first sequenced in 2010, revealing a compact nuclear genome of approximately 46–56 Mb. Multiple strains exist with significant phenotypic variation in growth rate, lipid content, and [[fungal-lichen-stress-tolerance-and-poikilohydry]].
-
-Classical mutagenesis using UV, gamma radiation, and chemical mutagens has produced strains with enhanced lipid accumulation and thermal tolerance. Adaptive laboratory evolution under high-light or high-CO2 conditions has also yielded improved production strains.
-
-[[fukuoka-textdoc-genetic-engineering-critique-warning]] tools remain less developed than for model organisms like *Chlamydomonas reinhardtii*. However, electroporation-based transformation, CRISPR-Cas9 editing, and RNA interference have been demonstrated, enabling targeted pathway modification.
-
-## Related Species
-
-*Chlorella pyrenoidosa* (often considered conspecific with *C. sorokiniana*) is a closely related thermotolerant species used in similar commercial applications. *C. sorokiniana* tolerates temperatures up to 42°C, making it suited to tropical outdoor cultivation.
-
-*Chlorella protothecoides* is distinguished by its ability to grow heterotrophically to very high cell densities with lipid contents exceeding 50% under appropriate conditions. It is considered one of the most promising species for algal [[biodiesel-production]].
-
-The genus *Chlorella* has undergone significant taxonomic revision using molecular phylogenetics. Several former *Chlorella* species have been reclassified into genera such as *Auxenochlorella*, *Parachlorella*, and *Chlorella* sensu stricto based on 18S rRNA sequencing.
-
-## See Also
-
-- [[pocillopora-damicornis]]
-
-- [[amphiprion-ocellaris]]
-
-- [[saccharomyces-cerevisiae]]
-- [[permaculture]]
-- aquaculture
-- fermentation
-- sustainability
-- [[dighton-fungi-climate-change-feedback]]
-- photosynthesis
-- [[cannabis-anti-inflammatory-applications]]
-- bioenergy
-- nutrition
-- proteomics
-- transcriptomics

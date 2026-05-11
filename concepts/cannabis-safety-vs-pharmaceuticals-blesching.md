@@ -1,6 +1,6 @@
 ---
-title: Cannabis Comparative Safety Profile vs Pharmaceuticals
-source: Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015)
+title: Cannabis Safety Vs Pharmaceuticals Blesching
+source: [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015)
 tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reduction, evidence-based-medicine, cannabis]
 ---
 
@@ -8,7 +8,7 @@ tags: [cannabis-safety, pharmaceutical-comparison, fda, mortality, harm-reductio
 
 ## Overview
 
-Uwe Blesching's *The Cannabis Health Index* places [[blesching-cannabis-safety-adverse-effects-evidence]] in
+Uwe Blesching's *The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]* places [[blesching-cannabis-safety-adverse-effects-evidence]] in
 the context of broader pharmaceutical risk, arguing that the plant's
 safety profile is dramatically more favorable than commonly prescribed
 alternatives. Drawing on FDA data, CDC mortality statistics, and his
@@ -32,7 +32,7 @@ compared to mortality data for other substances:
 ## Cannabis vs Other Drugs in Emergency Context
 
 Blesching's 20 years of emergency medical service experience provides
-anecdotal but telling context for cannabis safety. He ranks drugs by the
+anecdotal but telling context for [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]. He ranks drugs by the
 frequency of 911 emergency calls they generate:
 
 1. **Nicotine** (tobacco) — most frequent, due to lasting and serious
@@ -87,58 +87,3 @@ the standard of care for many chronic conditions.
 ## Common Cannabis Concerns Addressed
 
 Blesching systematically addresses the most frequently cited concerns:
-
-### Addiction and Dependence
-
-- Cannabis dependency, when it occurs, is psychological rather than
-  physical (unlike tobacco, alcohol, and heroin)
-- Large enrollment numbers in drug treatment programs are misleading —
-  many participants are court-mandated rather than voluntarily seeking
-  treatment
-- Risk can be further reduced by using raw cannabis preparations with
-  little or no psychoactive effect, or by infusing mindfulness into
-  the healing process
-
-### Lung Health
-
-- Blesching acknowledges concerns about inhaling burned plant material
-- Vaporization offers a harm-reduction alternative that avoids
-  combustion byproducts
-- Edible and tincture preparations eliminate respiratory risk entirely
-
-### Mental Health
-
-- Cannabis may be a co-factor in schizophrenia for individuals with
-  pre-existing vulnerability, but causation has not been established
-- The subjective [[blesching-cannabis-therapeutic-window-dosing]] concept helps users avoid
-  anxiety-inducing doses
-
-### Adolescent Development
-
-- Blesching acknowledges that cannabis use during adolescent brain
-  development warrants caution, as the ECS plays a key role in
-  neurodevelopment
-- This concern is separate from adult medical use
-
-## The Harm Reduction Perspective
-
-Blesching frames cannabis safety not as "cannabis is harmless" but as
-"cannabis is significantly less harmful than the alternatives":
-
-- For chronic pain patients, the choice is often between opioids (with
-  known addiction and overdose risk) and cannabis
-- For nausea and [[cannabis-for-cachexia-and-appetite-stimulation]], the comparison is often
-  pharmaceuticals with significant side-effect profiles
-- For [[cannabis-anxiety-and-ptsd-treatment]] patients, the comparison includes benzodiazepines
-  (with physical dependency risk) and SSRIs (with numerous side
-  effects)
-
-The evidence-based approach advocated by the Cannabis Health Index
-encourages patients and physicians to consider the full risk-benefit
-profile of all treatment options, including cannabis.
-
-## See Also
-
-- [[cannabis-subjective-therapeutic-window-dosing]]
-- [[epigenetics-and-mind-body-medicine-blesching]]
-- endocannabinoid system

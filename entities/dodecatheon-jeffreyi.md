@@ -11,27 +11,27 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Hickman, J.C. (1993). "The Jepson Manual: Higher Plants of California." University of California Press.
-  - Flora of North America Editorial Committee. "Dodecatheon." FNA Vol. 8.
+  - Flora [[berry-growing]] Editorial Committee. "Dodecatheon." FNA Vol. 8.
   - Thompson, H.J. (1953). "The Biosystematics of Dodecatheon." Contributions from the Dudley Herbarium, 4(4), 73–154.
 ---
 
 ## Overview
 
-**Dodecatheon jeffreyi** is a species of herbaceous perennial plant in the family Primulaceae, native to western North America. It is commonly known as Jeffrey's shooting star, tall shooting star, or Sierra shooting star.
+**Dodecatheon jeffreyi** is a species of herbaceous perennial plant in the family Primulaceae, native to western [[guzman-psilocybin-mushrooms-north-america]]. It is commonly known as Jeffrey's shooting star, tall shooting star, or Sierra shooting star.
 
-The species is among the most conspicuous and widely distributed shooting stars in the western United States and Canada, recognized by its tall stems bearing clusters of reflexed magenta flowers with a pronounced beak of fused stamens.
+The species is among the most conspicuous and widely distributed shooting stars in the western [[dmt-containing-plants-united-states-halpern]] and Canada, recognized by its tall stems bearing clusters of reflexed magenta flowers with a pronounced beak of fused stamens.
 
-Jeffrey's shooting star is valued in native plant gardening for its striking flowers and its role as a nectar source for native bees. It has received the Royal Horticultural Society's Award of Garden Merit.
+Jeffrey's shooting star is valued in [[native-plant-gardening]] for its striking flowers and its role as a nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]]. It has received the Royal Horticultural Society's Award of Garden Merit.
 
 ## Taxonomy and Morphology
 
-Dodecatheon jeffreyi was described by the American botanist John Thomas Howell in 1930. The specific epithet honors the Scottish botanist John Jeffrey, who collected extensively in the Pacific Northwest during the mid-nineteenth century.
+Dodecatheon jeffreyi was described by the American botanist John Thomas Howell in 1930. The specific epithet honors the Scottish botanist John Jeffrey, who collected extensively in the [[psilocybin-north-america-pacific-northwest]] during the mid-nineteenth century.
 
 Modern phylogenetic studies have shown that Dodecatheon is nested within Primula, and some taxonomic treatments now place the species as Primula jeffreyi. However, the traditional genus Dodecatheon remains in widespread use.
 
 The plant produces a basal rosette of leaves and one or more erect, leafless scapes measuring 20–60 cm tall. The scapes are slender, slightly sticky near the inflorescence, and green to reddish in color.
 
-Leaves are elliptic to lanceolate, measuring 8–20 cm long and 2–5 cm wide. The leaf surface is glabrous to sparsely glandular-hairy, with entire or very finely toothed margins.
+Leaves are elliptic to lanceolate, measuring 8–20 cm long and 2–5 cm wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous to sparsely glandular-hairy, with entire or very finely toothed margins.
 
 The leaf blade tapers gradually to the base and forms a short, broad petiole. Leaves are typically dark green above and lighter below, with a prominent midrib.
 
@@ -47,7 +47,7 @@ The root system consists of a cluster of fleshy, tuberous roots radiating from a
 
 ## Distribution and Habitat
 
-Dodecatheon jeffreyi ranges from southern Alaska and the Yukon Territory south through British Columbia, Alberta, and the western United States to California, Nevada, and northern Arizona.
+Dodecatheon jeffreyi ranges from southern Alaska and the Yukon Territory south through British Columbia, Alberta, and the western [[dmt-maoi-plants-united-states]] to California, Nevada, and northern Arizona.
 
 The species is most abundant in the Cascade Range, Sierra Nevada, and Rocky Mountains, where it occurs in moist montane and subalpine habitats. Populations also extend to coastal ranges in the Pacific Northwest.
 
@@ -83,27 +83,8 @@ Propagation is by seed, which requires a period of cold stratification for relia
 
 Seed-grown plants typically flower in their second or third year. The species can also be propagated by division of dormant tuberous roots in early autumn, though this is less commonly practiced.
 
-Several Native American groups in the Pacific Northwest traditionally used Dodecatheon species for minor medicinal purposes. The roots were prepared as poultices for wounds or as mild remedies for various ailments.
+Several [[halpern-sacramental-peyote-and-native-american-church]] groups in the Pacific Northwest traditionally used Dodecatheon species for minor medicinal purposes. The roots were prepared as poultices for wounds or as mild remedies for various ailments.
 
 No significant modern pharmaceutical or commercial applications exist for the species. Its primary value is ornamental and ecological as a component of native wildflower meadows.
 
 ## Conservation Status
-
-Dodecatheon jeffreyi is not considered threatened at the species level and has a broad distribution across western North America. However, local populations face pressure from habitat loss and fragmentation.
-
-Wetland drainage, road construction, and recreational development in montane meadows have reduced populations in some areas. Overgrazing by livestock can also damage flowering plants in meadow habitats.
-
-Climate change poses a significant long-term threat through altered snowmelt timing, reduced snowpack, and increased summer drought. Montane and subalpine species with narrow moisture requirements are particularly vulnerable.
-
-The species is protected within numerous national parks, wilderness areas, and forest reserves across its range. Conservation of montane meadow habitats is essential for maintaining healthy populations.
-
-## See Also
-
-- [[dodecatheon-meadia]]
-- [[primula-vulgaris]]
-- [[cyclamen-coum]]
-- [[anagallis-arvensis]]
-- [[lysimachia-vulgaris]]
-- [[solidago-odora]]
-- [[monarda-fistulosa]]
-- [[echinacea-purpurea]]

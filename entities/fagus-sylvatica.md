@@ -88,33 +88,3 @@ In silvopastoral systems, beech provides late-season shade for livestock while i
 ## Wood Properties and Uses
 
 Beech wood is pale cream to pinkish-brown, straight-grained with a fine, even texture. Key properties:
-
-- **Density:** 680–720 kg/m³ at 12% moisture content
-- **Janka hardness:** ~6,500 N
-- **Workability:** Good; machines well but tends to warp during drying; steam-bends excellently
-- **Durability:** Low; susceptible to decay when exposed to moisture; not recommended for outdoor use without treatment
-- **Primary uses:** Furniture, plywood, flooring, turned objects, tool handles, musical instruments, railway sleepers (historically)
-
-Beech is the most commonly used hardwood in Europe for furniture framing, plywood production, and turned goods. Its availability, consistent quality, and reasonable price make it a workhorse species in the European timber industry.
-
-## Associated Fungi
-
-- **Mycorrhizal partners:** *Laccaria laccata*, *Cortinarius* spp., *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *Russula* spp.
-- **Saprotrophs on dead beech:** *Fomes fomentarius*, *Hypoxylon fragiforme*, *Meripilus giganteus*, *Armillaria mellea*
-- **Parasitic:** *Armillaria mellea* (butt rot), *Heterobasidion annosum* (root and butt rot)
-
-## Similar Species
-
-| Species | Range | Key Differences |
-|---------|-------|-----------------|
-| F. grandifolia | Eastern North America | Leaves with more pronounced veins, smaller nuts |
-| F. orientalis | Western Asia, SE Europe | More pubescent leaves, larger cupule |
-| F. crenata | Japan | Smaller stature, smaller leaves, cold-hardy |
-| F. engleriana | China | Evergreen in mild climates, smaller form |
-
-## See Also
-
-- [[hypoxylon-fragiforme]] — Common ascomycete on dead beech wood
-- [[amanita-muscaria-entity]] — Mycorrhizal associate of beech forests
-- [[platanus-x-hispanica]] — Urban planting alternative with similar form
-- [[arctium-lappa-entity]] — Forest-edge herb companion in temperate ecosystems

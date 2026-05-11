@@ -36,7 +36,7 @@ Kombucha experienced a surge in popularity in the West during the 1990s and 2000
 
 ### Ingredients
 
-- Tea: Black tea is traditional and provides the most nutrients for the SCOBY. Green tea, white tea, or oolong can also be used. Herbal teas should be blended with true tea ([[camellia-sinensis-entity]]) to ensure adequate nitrogen for the culture.
+- Tea: Black tea is traditional and provides the most nutrients for the SCOBY. Green tea, white tea, or oolong can also be used. Herbal teas should be blended with true tea ([[camellia-sinensis]]) to ensure adequate nitrogen for the culture.
 - Sugar: White cane sugar is standard. The SCOBY consumes most of the sugar during fermentation. Avoid honey (it has [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] that can inhibit the culture), artificial sweeteners, and stevia.
 - Water: Filtered or dechlorinated water. Chlorine can harm the SCOBY.
 - SCOBY and starter liquid: A healthy SCOBY with at least 1 cup of mature kombucha from a previous batch.
@@ -88,9 +88,3 @@ However, the scientific evidence for many of these claims is limited. Kombucha s
 - Too sweet: The SCOBY needs more time to consume the sugar, or the SCOBY may be unhealthy.
 - Too sour: Fermentation has gone too long. Dilute with fresh tea or use as vinegar.
 - No carbonation: Secondary fermentation needs more sugar (fruit or juice) or more time. Ensure bottles are properly sealed.
-
-## See  brewing for additional brewing details
-- [[vinegar-making]] for making vinegar from kombucha or other fermented liquids
-- [[yeast-biology]] for the yeast component of kombucha
-- faires-food-fermentation-methods for homestead fermentation techniques
-- faires-herbal-medicine-from-the-garden

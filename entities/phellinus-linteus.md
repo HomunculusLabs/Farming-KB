@@ -1,5 +1,5 @@
 ---
-title: "Phellinus linteus"
+title: Phellinus Linteus
 created: 2026-04-28
 tags: [species, fungi, medicinal-mushroom, polypore]
 date: 2026-04-25
@@ -18,7 +18,7 @@ Meshima
 ## Overview
 Phellinus linteus is a woody polypore mushroom that has long been
 used in traditional Chinese medicine as hot water extracts from
-fruiting bodies. In recent decades it has become the subject of
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. In recent decades it has become the subject of
 major national research programmes, particularly in Korea, where a
 fermenter-cultivated mycelium polysaccharide product (Meshima) has
 been approved as a pharmaceutical medicine since 1997. It shows
@@ -82,21 +82,9 @@ Korean and Japanese patents are now in place.
 
 ### Traditional Use
 In traditional Chinese medicine, hot water extracts of the
-fruiting body have been used for centuries to treat digestive
+[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] have been used for centuries to treat digestive
 disorders, inflammation, and various cancers. Practitioners of TCM
-have reported improvements in digestive system cancer symptoms.
+have reported improvements in digestive system [[blesching-cannabis-cancer-symptoms]].
 
 ## Relevance
 P. linteus exemplifies the transition from traditional herbal
-medicine to modern pharmaceutical development. Its approval as a
-medicine in Korea (1997) makes it one of the few mushroom-derived
-products with full pharmaceutical status. The multi-stakeholder
-research model (industry, government, academia) in Korea provides
-a template for developing other [[gourmet-medicinal-mushroom-casing-layer-techniques]] products. The
-shift from wild-harvested fruiting bodies to fermenter-cultured
-mycelium addresses both sustainability and quality control concerns.
-
-## See Also
-- [[trametes-versicolor-entity]]
-- [[schizophyllum-commune]]
-- [[phellinus-ferreus]]

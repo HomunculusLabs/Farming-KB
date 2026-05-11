@@ -13,18 +13,18 @@ updated: 2026-04-28
 sources:
   - Trappe JM, Molina R, Castellano MA (2007). "Kalapuya, a new genus of truffle." Mycotaxon 100: 437-447.
   - Trappe JM, Castellano MA, Molina R (2010). "The Oregon truffles: Kalapuya brunnea and K. fibuliformis." growing-gourmet-north-american-reishi-species Truffling Society.
-  - Palfner G, et al. (2019). "query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with of Pacific Northwest forests." Mycorrhiza 29(4): 329-351.
+  - Palfner G, et al. (2019). "query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with of [[psilocybin-north-america-pacific-northwest]] forests." Mycorrhiza 29(4): 329-351.
   - Kuo M (2024). "Oregon Truffles." MushroomExpert.com.
   - Trudell SA, Ammirati JF (2009). Mushrooms of the Pacific Northwest. Timber Press.
 ---
 
 ## Overview
 
-**Kalapuya brunnea** is a **hypogeous** (underground) ectomycorrhizal fungus commonly known as the **Oregon brown truffle**. It is native to the Pacific Northwest of North America, where it fruits in association with Douglas-fir and other conifers.
+**Kalapuya brunnea** is a **hypogeous** (underground) ectomycorrhizal fungus commonly known as the **Oregon brown truffle**. It is native to the Pacific Northwest [[berry-growing]], where it fruits in association with Douglas-fir and other conifers.
 
 The genus *Kalapuya* was described in 2007 by Trappe, Molina, and Castellano and is named after the Kalapuya people indigenous to the Willamette Valley of Oregon. The genus contains two species, with *K. brunnea* being the more commercially significant.
 
-Oregon brown truffles are harvested commercially and are used in Pacific Northwest cuisine. They have a milder aroma than European truffles but are valued for their unique **pineapple-like and tropical fruit** fragrance when fully mature.
+Oregon brown truffles are harvested commercially and are used in Pacific Northwest cuisine. They have a milder aroma than [[european-truffles]] but are valued for their unique **pineapple-like and tropical fruit** fragrance when fully mature.
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ The genus *Kalapuya* was segregated from *Tuber* based on phylogenetic analyses 
 
 *Kalapuya brunnea* is endemic to the **Pacific Northwest** of North America, occurring from southern British Columbia through Washington and Oregon to northern California. The species is most abundant in the Willamette Valley and Cascade Range foothills.
 
-It forms **ectomycorrhizal** associations primarily with Douglas-fir (*Pseudotsuga menziesii*). Other documented hosts include western hemlock, Sitka spruce, and grand fir. The fungus is found in young to mature conifer forests, often in second-growth stands 20–60 years old.
+It forms **ectomycorrhizal** associations primarily with Douglas-fir (*[[pseudotsuga-menziesii]]*). Other documented hosts include western hemlock, Sitka spruce, and grand fir. The fungus is found in young to mature conifer forests, often in second-growth stands 20–60 years old.
 
 Fruiting occurs underground at depths of 2–15 cm, typically from October through March. Peak harvest season is November through January. The species fruits prolifically in years with adequate autumn rainfall.
 
@@ -80,35 +80,10 @@ The underground fruiting bodies provide food for forest-dwelling mammals includi
 
 Cultivation of *K. brunnea* has been attempted through **inoculation of Douglas-fir seedlings** with spore slurries and mycelial cultures. Limited success has been reported in controlled plantation settings, with truffle production beginning 5–8 years after planting.
 
-Compared to European [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]], Oregon truffle cultivation remains experimental. Key challenges include establishing the correct soil microbiome, managing competing ectomycorrhizal fungi, and achieving consistent fruiting.
+Compared to European [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]], Oregon [[growing-gourmet-chanterelle-truffle-cultivation-challenges]] remains experimental. Key challenges include establishing the correct soil microbiome, managing competing ectomycorrhizal fungi, and achieving consistent fruiting.
 
 ### Host Tree Management
 
-Successful plantations require well-drained, slightly acidic soils (pH 5.5–6.5) typical of Douglas-fir forest soils. Canopy management is critical — too much shade suppresses truffle production, while excessive exposure dries the soil surface and disrupts the mycorrhizal network.
+Successful plantations require well-drained, slightly acidic soils (pH 5.5–6.5) typical of Douglas-fir forest soils. Canopy management is critical — too much shade suppresses truffle production, while excessive exposure dries the soil surface and disrupts the [[lowenfels-mycorrhizal-network-nutrient-sharing]].
 
 [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with understory species that support the soil microbiome without competing for mycorrhizal space has shown promise in experimental plots.
-
-## Comparison with European Truffles
-
-*Kalapuya brunnea* differs from European truffles in several important respects. The **aroma profile** is distinctly tropical rather than the earthy, garlicky notes of *Tuber melanosporum* or the pungent musk of *Tuber magnatum*.
-
-The **market position** is also different — Oregon truffles occupy a niche as a domestic alternative to imported European products. While prices are lower, the shorter supply chain and guaranteed freshness appeal to Pacific Northwest chefs.
-
-From a **taxonomic perspective**, *Kalapuya* is more closely related to *Leucangium* and *Pachyphloeus* than to true *Tuber* species, reflecting the complex evolutionary history of hypogeous fungi in the Boletales.
-
-## Conservation Status
-
-*Kalapuya brunnea* is not currently listed as threatened or endangered. However, its reliance on Douglas-fir forests means that **habitat loss** through urbanization and conversion of forest land to agriculture poses a long-term concern.
-
-Sustainable harvesting guidelines developed by the North American Truffling Society recommend leaving a portion of each truffle patch undisturbed, avoiding raking, and refraining from harvesting during drought conditions.
-
-[[dighton-fungi-climate-change-feedback]] models predict reduced winter precipitation in the Pacific Northwest, which could impact the species' fruiting patterns. Warmer, drier autumns may reduce truffle abundance and shift the geographic range northward over coming decades.
-
-## See Also
-
-- [[tuber-aestivum]]
-- [[suillus-luteus]]
-- [[trametes-versicolor-entity]]
-- [[laetiporus-sulphureus]]
-- [[paul-stamets]]
-- [[lactarius-indigo]]

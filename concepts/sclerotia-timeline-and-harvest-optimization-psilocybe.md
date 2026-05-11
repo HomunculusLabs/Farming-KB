@@ -1,5 +1,5 @@
 ---
-title: "psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern and sclerotia timeline and harvest optimization psilocybe for Psilocybe Species"
+title: Sclerotia Timeline And Harvest Optimization Psilocybe
 tags:
   - sclerotia
   - psilocybe-mexicana
@@ -8,7 +8,7 @@ tags:
   - in-jar-cultivation
   - mycology
   - grass-seed-method
-source: "Grass Seed Cultivation Guide — psilocybe-mexicana|Psilocybe mexicana, P. tampanensis"
+source: "[[grass-seed-cultivation-of-psilocybe-mushrooms]] Guide — psilocybe-mexicana|[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], P. tampanensis"
 ---
 
 # Sclerotia Timeline and Harvest Optimization
@@ -37,19 +37,19 @@ formers:
   produce sclerotia within the casing layer itself, meaning cultivators can
   harvest both mushrooms and sclerotia from the same tray.
 
-Both species are inoculated onto the standard grass seed substrate (110 g grass
+Both species are inoculated onto the standard [[grass-seed-substrate]] (110 g grass
 seed + 180 ml water per 720 ml jar) and follow the same sterilization and
 inoculation procedures as other species in the guide.
 
 ## The 4-Month Maturation Window
 
-The single most critical piece of timing information for [[sclerotia-cultivation|sclerotia cultivation]]
+The single most critical piece of timing information for [[sclerotia-cultivation]]
 is the **4-month maturation period**. After inoculation, sclerotia will
 continue to enlarge steadily inside the jar for up to approximately four
 months. This is not a colonization timeline — the grain substrate itself is
 fully colonized much earlier (typically within 5–20 days at 20 °C or slightly
 higher). Rather, the 4-month figure describes the ongoing biological process
-of [[sclerotia-formation|sclerotia formation]] and expansion within the already-colonized substrate.
+of [[sclerotia-formation]] and expansion within the already-colonized substrate.
 
 ### Why Patience Matters
 
@@ -61,7 +61,7 @@ extended period, resulting in harder, more compact masses.
 
 ## In-Jar Production Without Casing
 
-Sclerotia production requires **no casing layer, no fruiting chamber, and no
+[[in-vitro-sclerotia-production-timeline-psilocybe]] requires **no casing layer, no fruiting chamber, and no
 light exposure**. This is the fundamental operational distinction from
 conventional [[accessible-mushroom-cultivation-for-disabilities]]:
 
@@ -81,43 +81,10 @@ preferably dark** location. Darkness serves two functions:
 
 - It discourages premature fruiting body initiation, redirecting the organism's
   energy toward sclerotia formation rather than mushroom production.
-- It reduces the likelihood of contamination vectors associated with light and
+- It reduces the likelihood of [[mushroom-contamination-vectors]] associated with light and
   air exchange.
 
 Room temperature storage (approximately 18–22 °C) is sufficient. No special
 temperature cycling, cold shocking, or [[stamets-cultivator-humidity-management-fogging-systems]] is required.
 
 ## Sclerotia in Cased Trays
-
-An important secondary observation from the source material is that sclerotia
-also form **within the casing layer of cased trays**. When P. mexicana is
-cased and introduced to fruiting conditions (rather than left in-jar), the
-organism will produce both mushrooms and sclerotia simultaneously. This dual
-output means that:
-
-- Cased P. mexicana trays yield a mushroom harvest (typically one large flush
-  followed by a smaller second flush) plus an additional sclerotia harvest from
-  within the casing.
-- The sclerotia in cased trays may be smaller than those produced in dedicated
-  in-jar batches, since metabolic energy is split between two reproductive
-  pathways.
-
-## Harvest Timing Considerations
-
-| Factor | Recommendation |
-|--------|---------------|
-| Minimum wait | 2 months (sub-optimal weight) |
-| Optimal harvest | 4 months post-inoculation |
-| Beyond 4 months | Diminishing returns; contamination risk rises |
-| Visual indicator | Hard, dense masses visible through glass |
-| Jar condition | Substrate may appear heavily consumed |
-
-## Summary
-
-Sclerotia cultivation via the grass seed method represents the most streamlined
-approach in the guide. Two species — P. tampanensis and P. mexicana — produce
-harvestable sclerotia entirely in-jar over a 4-month window with no casing or
-fruiting infrastructure required. The trade-off is time: cultivators must be
-willing to wait the full maturation period for maximum yield.
-## See Also
-- [[mycelium]]

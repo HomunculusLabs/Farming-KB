@@ -1,5 +1,5 @@
 ---
-title: [[williams-pdc-additional-permaculture-principles]] Water Treatment
+title: Williams Pdc Water Treatment
 created: 2026-04-28
 tags: [permaculture, water-treatment, greywater, blackwater, constructed-wetlands, reed-beds, hydro-cycle, biocompatible]
 date: 2026-04-25

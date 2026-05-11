@@ -1,8 +1,8 @@
 ---
-title: Vegetative Growth Phase
+title: Cervantes Vegetative Phase
 created: 2026-04-26
 sources: Marijuana Horticulture (Cervantes)
-synonyms: vegetative stage, veg phase, vegetative growth
+synonyms: [[cannabis-vegetative-stage]], veg phase, vegetative growth
 type: concept
 tags: [cannabis]
 updated: 2026-04-26
@@ -18,7 +18,7 @@ The seedling growth stage lasts about two to three weeks after seeds have germin
 
 ## Growth Rate
 
-Properly maintained, marijuana will grow from one-half to two inches per day during the vegetative phase. A plant stunted now could take weeks to resume normal growth. A strong, unrestricted root system is essential to supply the much-needed water and nutrients. The larger a plant gets and the bigger the root system, the faster the soil will dry out.
+Properly maintained, marijuana will grow from one-half to two inches per day during the [[green-cannabis-grow-bible-vegetative-phase-management]]. A plant stunted now could take weeks to resume normal growth. A strong, unrestricted root system is essential to supply the much-needed water and nutrients. The larger a plant gets and the bigger the root system, the faster the soil will dry out.
 
 ## Light Requirements
 
@@ -26,7 +26,7 @@ Vegetative growth is maintained with 16 or more hours of light. Research shows t
 
 ## Nutrient Demands
 
-A plant's nutrient and water intake changes during vegetative growth. Transpiration is carried on at a more rapid rate, requiring more water. High levels of nitrogen are needed; potassium, phosphorus, calcium, magnesium, sulfur, and trace elements are used at much faster rates. The key to strong vegetative growth and a heavy harvest is supplying roots and plants with the perfect environment.
+A plant's nutrient and water intake changes during vegetative growth. Transpiration is carried on at a more rapid rate, requiring more water. High levels of nitrogen are needed; potassium, phosphorus, calcium, magnesium, sulfur, [[teaming-with-nutrients-micronutrients-and-trace-elements]] are used at much faster rates. The key to strong vegetative growth and a heavy harvest is supplying roots and plants with the perfect environment.
 
 ## Pre-flowering
 
@@ -82,34 +82,8 @@ Identifying plant sex during the vegetative phase allows growers to eliminate ma
 
 ## Training Techniques During Vegetative Growth
 
-The vegetative phase is the ideal time to apply training techniques that shape the plant's architecture for maximum light exposure and yield. Topping (removing the apical meristem or growing tip) forces the plant to develop two main colas instead of one, increasing the number of bud sites. Low-stress training (LST) involves gently bending and tying branches to create an even canopy, which is particularly effective with sativa-dominant strains that tend to grow vertically. Screen of Green (SCROG) uses a horizontal screen or net to train branches into a flat, even canopy that maximizes light utilization. Super cropping involves intentionally crushing or bending stems to create knuckle-like joints that strengthen the branch and redirect growth hormone (auxin) to lower branches. All of these techniques should be applied during the vegetative phase when the plant has sufficient time to recover before flowering begins.
+The vegetative phase is the ideal time to apply training techniques that shape the plant's architecture for maximum light exposure and yield. Topping (removing the apical meristem or growing tip) forces the plant to develop two main colas instead of one, increasing the number of bud sites. Low-stress training (LST) involves gently bending and tying branches to create an even canopy, which is particularly effective with sativa-dominant strains that tend to grow vertically. Screen of Green (SCROG) uses a horizontal screen or net to train branches into a flat, even canopy that maximizes light utilization. [[cannabis-super-cropping-technique]] involves intentionally crushing or bending stems to create knuckle-like joints that strengthen the branch and redirect growth hormone (auxin) to lower branches. All of these techniques should be applied during the vegetative phase when the plant has sufficient time to recover before flowering begins.
 
 ## Transplanting During Vegetative Growth
 
-Most cannabis plants benefit from one or more transplants during the vegetative phase, progressing from small starter containers to progressively larger ones. Transplanting serves several purposes: it prevents root binding, allows the grower to inspect root health, provides fresh growing medium with available nutrients, and stimulates new root growth. Cervantes recommends transplanting when roots are visible at the drainage holes of the current container. The general progression is from seedling plug to 1-gallon pot to 3-5 gallon pot (for indoor) or larger containers (for outdoor). Transplanting should be done carefully to minimize root disturbance — water the plant a day before transplanting to keep the root ball intact, and avoid deep planting (cannabis stems should remain at the same soil level they were at before). Transplant shock can slow growth for several days, so avoid transplanting too close to the flowering transition.
-
-## Cannabis Growth Stages and Vegetative Markers
-
-The vegetative phase encompasses several recognizable substages as the plant develops from a fragile seedling into a robust, pre-flowering specimen. Cervantes describes the progression through seedling stage (first 2-3 weeks, characterized by the development of the first true leaves and initial root establishment), early vegetative stage (weeks 3-5, when the plant develops its basic branching structure and begins rapid upward growth), mid vegetative stage (weeks 5-8, when the canopy fills in and secondary branching becomes prominent), and late vegetative stage (the final weeks before flowering transition, when the plant reaches its maximum vegetative size). Each substage has distinct care requirements: seedlings need higher humidity and gentler light intensity, early vegetative plants benefit from training to establish optimal branching architecture, mid vegetative plants require the highest nutrient inputs, and late vegetative plants may need nutrient reduction to prepare for the metabolic shift that flowering demands. Recognizing these substages allows the grower to adjust environmental conditions, nutrient programs, and training techniques to match the plant's changing needs throughout the vegetative phase, maximizing both growth rate and overall plant health.
-
-## Vegetative Duration and the Flowering Transition
-
-The length of the vegetative phase is one of the most important decisions a grower makes, as it directly determines final plant size and yield potential. Cervantes provides guidelines for vegetative duration based on the intended cultivation method. For indoor growers using Sea of Green (SOG) techniques, the vegetative phase may be as short as 1-2 weeks from seed or immediately after rooting for clones, with plants flowered at 6-12 inches in height. For standard indoor cultivation, 4-8 weeks of vegetative growth is typical, producing plants 18-36 inches tall at the flowering transition. For large specimen plants or outdoor cultivation, the vegetative phase may extend to 3-4 months or more. The relationship between vegetative duration and yield is not linear: doubling the vegetative period does not double the yield, because larger plants require more light energy to maintain their increased canopy area. Cervantes advises growers to match vegetative duration to their available light system — the vegetative phase should end when the plant has developed sufficient leaf area to fully utilize the available light during flowering. Transitioning to flowering too early wastes light capacity; transitioning too late produces an oversized plant with lower branches that receive insufficient light.
-
-## Environmental Control During Vegetative Growth
-
-Precise environmental control during the vegetative phase directly determines the quality of the finished plant. Temperature should be maintained between 70-85 degrees F (21-29 degrees C) during the light period, with a 5-10 degree F drop during the dark period. This diurnal temperature fluctuation strengthens cell walls and promotes vigorous growth. Relative humidity should be kept between 50-70%, with higher humidity appropriate for young plants and seedlings that have not yet developed robust root systems. As plants mature and their root systems expand, humidity can be gradually reduced to 40-50% to minimize the risk of fungal pathogens such as powdery mildew and botrytis. CO2 supplementation to 1200-1500 ppm during the vegetative phase can increase growth rates by 20-30%, provided that light intensity, temperature, and [[ph-and-nutrient-availability-garden-soils]] are simultaneously increased to match the accelerated metabolic rate. Air circulation is critical: oscillating fans should provide gentle but constant movement of air across the canopy, which strengthens stems, prevents stagnant microclimates, and ensures uniform CO2 distribution.
-
-## Medium and Container Selection
-
-The choice of growing medium during the vegetative phase affects root development, nutrient availability, and the frequency of watering required. Soil or soilless mixes (such as peat-based blends with perlite) remain the most popular medium for their buffering capacity, nutrient retention, and forgiveness of watering errors. Coco coir, a byproduct of coconut processing, has gained popularity for its excellent water retention combined with good aeration, and it can be used in both hand-watered and drip-irrigated systems. Hydroponic systems ([[cannabis-deep-water-culture-guide]], nutrient film technique, and ebb and flow) offer faster vegetative growth rates due to direct nutrient availability to roots, but they require more precise management of pH, electrical conductivity, and dissolved oxygen. Container selection affects root zone health: fabric pots promote air pruning and prevent root circling, while plastic pots are inexpensive and retain moisture longer. The container should be matched to the expected final plant size during the vegetative phase — undersized containers restrict root growth and limit the plant's potential, while oversized containers waste growing medium and increase the risk of overwatering.
-
-## See Also
-
-- [[cervantes-seed-germination]]
-- [[cervantes-flowering-phase]]
-- [[cervantes-lighting-systems]]
-- [[cervantes-mother-plants]]
-- [[low-stress-training]]
-- [[fimming]]
-- [[supercropping]]
+Most cannabis plants benefit from one or more transplants during the vegetative phase, progressing from small starter containers to progressively larger ones. Transplanting serves several purposes: it prevents root binding, allows the grower to inspect root health, provides fresh growing medium with available nutrients, and stimulates new root growth. Cervantes recommends transplanting when roots are visible at the drainage holes of the current container. The general progression is from seedling plug to 1-gallon pot to 3-5 gallon pot (for indoor) or larger containers (for outdoor). Transplanting should be done carefully to minimize root disturbance — water the plant a day before transplanting to keep the root ball intact, and avoid deep planting (cannabis stems should remain at the same soil level they were at before). [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] can slow growth for several days, so avoid transplanting too close to the flowering transition.

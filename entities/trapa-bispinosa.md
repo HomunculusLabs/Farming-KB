@@ -13,18 +13,18 @@ sources:
   - Tardieu, M. (1970). "Les Trapa d'Asie orientale." Adansonia, 10(2), 215–232.
   - Hummel, M. & Kiviat, E. (2004). "Review of world literature on water chestnut." Journal of Aquatic Plant Management, 42, 17–28.
   - Groth, D. et al. (1996). "Seed bank dynamics of Trapa natans." Aquatic Botany, 54(2-3), 183–194.
-  - Zhai, S. et al. (2020). "Nutritional composition of Trapa bispinosa." Food Chemistry, 312, 126063.
+  - Zhai, S. et al. (2020). "[[dighton-fungal-nutritional-composition-animal-diets]] of Trapa bispinosa." Food Chemistry, 312, 126063.
 ---
 
 ## Overview
 
 Trapa bispinosa, commonly known as the water caltrop or singhara nut, is an annual aquatic plant in the family Trapaceae (sometimes placed within Lythraceae).
 
-It is native to warm temperate and tropical regions of Eurasia and has been cultivated for its edible fruits for thousands of years.
+It is native to warm temperate and [[fukuoka-natural-farming-in-tropical-regions]] of Eurasia and has been cultivated for its edible fruits for thousands of years.
 
 The plant produces distinctive horned or spined fruits that float on the water surface and contain a single large starchy seed.
 
-Trapa bispinosa is economically important as a traditional food crop in South and East Asia, and ecologically significant as an invasive species in parts of North America and Australia.
+Trapa bispinosa is economically important as a traditional food crop in South and East Asia, and ecologically significant as an invasive species in parts [[berry-growing]] and Australia.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ Inside the fruit lies a single large seed rich in starch and protein, which is t
 
 ## Distribution and Habitat
 
-Trapa bispinosa is native to southern and eastern Asia, including India, Bangladesh, China, Japan, Korea, and Southeast Asia.
+Trapa bispinosa is native to southern and eastern Asia, including India, Bangladesh, China, Japan, Korea, and [[psilocybe-southeast-asia-pacific]].
 
 It has been widely introduced outside its native range for cultivation and has naturalized in parts of Europe, North America, and Australia.
 
@@ -68,7 +68,7 @@ The submerged stem grows rapidly during summer, reaching the surface within four
 
 Floating leaf rosettes form a dense canopy that can shade out submerged vegetation and reduce water oxygen levels.
 
-In introduced ranges, this shading effect makes Trapa bispinosa a problematic invasive species that alters aquatic community structure.
+In introduced ranges, this shading effect makes Trapa bispinosa a problematic invasive species that alters aquatic [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 In parts of the northeastern United States, Trapa natans and related species have been subject to aggressive eradication programs using mechanical harvesters and herbicides.
 
@@ -76,7 +76,7 @@ Cultivation of Trapa bispinosa as a food crop involves broadcasting seeds into s
 
 Yields of 2 to 5 tonnes per hectare are typical in traditional cultivation systems.
 
-The plant is relatively low-maintenance and does not require fertilization or pest control in traditional pond systems.
+The plant is relatively low-maintenance and does not require fertilization or [[hamilton-beneficial-insects-and-biological-pest-control]] in traditional pond systems.
 
 ## Nutritional and Traditional Uses
 
@@ -87,34 +87,3 @@ In India, the dried seeds are known as singhara and are consumed during fasting 
 In China, the fresh or boiled nuts are eaten as a snack or used in stir-fries and soups.
 
 Nutritionally, the seeds contain approximately 20 percent starch, 5 percent protein, and small amounts of fat, vitamins B and C, and minerals including potassium and phosphorus.
-
-In traditional Ayurvedic medicine, Trapa bispinosa fruits are used as a cooling agent, diuretic, and tonic.
-
-The dried fruit powder is traditionally prescribed for diarrhea, dysentery, and fatigue.
-
-In Chinese traditional medicine, the seeds are considered sweet and cooling, and are used to relieve fever and promote digestion.
-
-Modern pharmacological studies have identified antioxidant and anti-inflammatory compounds in the seed extracts.
-
-## Conservation
-
-Trapa bispinosa is not considered threatened globally, but local populations in its native range have declined due to habitat destruction and water pollution.
-
-Cultivation of the species has decreased in some regions as traditional pond agriculture gives way to modern rice monoculture.
-
-In its introduced range, conservation efforts focus on controlling rather than protecting the species, due to its invasive potential.
-
-Eradication programs in the northeastern United States have successfully reduced Trapa populations in several waterways.
-
-Genetic diversity studies suggest that introduced populations in North America are derived from a limited number of introductions, which may affect their long-term invasive potential.
-
-## See Also
-
-- [[trapa-natans]]
-- [[nymphaea-alba]]
-- [[nuphar-lutea]]
-- [[potamogeton-natans]]
-- [[lemna-minor]]
-- [[ceratophyllum-demersum]]
-- [[elodea-canadensis]]
-- [[vallisneria-americana]]

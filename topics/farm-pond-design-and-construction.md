@@ -5,6 +5,7 @@ tags: [permaculture, water-management, earthworks, aquaculture, farm-infrastruct
 date: 2026-05-10
 updated: 2026-05-10
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
   - ~/wiki/raw/papers/sepp-holzer-practical-guide.md
   - ~/wiki/raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
@@ -129,7 +130,7 @@ At the Krameterhof, Holzer has found that even ponds in sandy loams gradually se
 ## Pond Liners for Backyard and Small-Scale Ponds
 ## See Also
 
-- [[permaculture-water-harvesting-earthworks][[swale-design-and-earthwork-construction]] tion
+- [[permaculture-water-harvesting-earthworks]] and [[swale-design-and-earthwork-construction]]
 - keyline design and water management in permacultur [[rainwater-harvesting-and-graywater-recycling]] ling
 - aquaponics and backyard aq [[constructed-wetlands-and-ecological-wastewater-treatment]] er treatment
 - amphibians and pond ecolog [[aquatic-plants-and-pond-ecosystems]] tems

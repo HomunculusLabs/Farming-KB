@@ -15,7 +15,7 @@ type: concept
 
 Anadenanthera is a genus of two species of leguminous trees whose
 seeds have been used as hallucinogenic snuffs for approximately 4,500
-years in South America. In *Plants of the Gods*, Schultes, Hofmann,
+years in [[guzman-psilocybin-mushrooms-south-america]]. In *Plants of the Gods*, Schultes, Hofmann,
 and Ratsch document two major traditions: Yopo (from A. peregrina) in
 the Orinoco and Amazon, and Cebil or Villca (from A. colubrina) in the
 southern Andes. The snuff traditions of Anadenanthera represent some
@@ -51,7 +51,7 @@ Islands from the Orinoco regions of South America.
 
 In the Orinoco and parts of the Amazon, a powerful snuff called Yopo
 or Niopo is made from the toasted seeds. The seeds are primarily used
-in shamanism for divination, healing, and communication with the spirit
+in [[shamanism]] for divination, healing, and communication with the spirit
 world. Among the Waika and other tribes of the upper Orinoco, Yopo
 snuff is employed alongside [[entheogen-virola-snuff-ethnobotany-chemistry]] for the production of Epena,
 the shamanic preparation used in ceremonial contexts.
@@ -61,7 +61,7 @@ the shamanic preparation used in ceremonial contexts.
 The seeds of A. peregrina contain tryptamines, primarily N,N-dimethyl-
 tryptamine (DMT), as well as 5-MeO-DMT and other tryptamine
 derivatives. The seeds of A. colubrina (Cebil/Villca) also contain
-tryptamines, especially bufotenine (5-hydroxy-DMT). The snuff is
+tryptamines, especially [[bufotenine]] (5-hydroxy-DMT). The snuff is
 prepared by toasting the seeds, grinding them to a powder, and mixing
 with alkaline ashes (often from tree bark) to facilitate absorption
 through the nasal mucosa. This alkaline admixture is analogous to the
@@ -87,37 +87,3 @@ central to Taino religion that chiefs and shamans (behiques) used it
 for divination, diagnosis of illness, and political decision-making.
 
 ## Modern Context
-
-The Anadenanthera snuff tradition continues among some indigenous
-groups of South America. The seeds are either worked into a snuff
-powder, smoked, or used as an additive for beer. The Cebil/Villca
-tradition persists in northwest Argentina among indigenous communities
-who maintain pre-Columbian practices associated with this sacred plant.
-
-## Distribution and Trade
-
-Anadenanthera snuffs were widely traded across South America before
-European contact. The spread of snuff-taking cultures from the Orinoco
-to the Caribbean and throughout the Amazon basin suggests extensive
-trade networks. Archaeological finds of snuff tubes, snuff trays, and
-seed remains confirm the antiquity and geographical breadth of this
-practice, which may represent one of the most widespread single-plant
-hallucinogenic traditions in indigenous South America.
-
-## Pharmacological Considerations
-
-DMT, the primary active compound in Anadenanthera seeds, is not
-orally active due to rapid degradation by monoamine oxidase (MAO)
-enzymes in the gut. However, when insufflated as a snuff, it bypasses
-the digestive system and rapidly enters the bloodstream through the
-nasal mucosa. The addition of alkaline ashes increases bioavailability
-by creating a basic environment that facilitates absorption. This
-pharmacological reality explains why snuff (rather than oral
-administration) became the dominant mode of use for Anadenanthera.
-
-## Related Topics
-
-- [[ayahuasca-preparation-and-ceremony]] - Cebil snuff details
-- [[yopo-snuff]] - general Yopo reference
-- [[entheogen-jurema-mimosa-hostilis-ethnobotany]] - related snuffs
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey

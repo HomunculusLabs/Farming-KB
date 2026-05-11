@@ -1,5 +1,5 @@
 ---
-title: "Chamaecytisus palmensis"
+title: Chamaecytisus Palmensis
 created: 2026-04-28
 tags: [species, tree, nitrogen-fixer, fodder, pioneer]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: entity
 **Also known as:** permaculture. In Western Australia alone, 50,000 hectares of
 marginal farmland have been planted to tagasaste, with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
-productive stock feed with exceptional drought tolerance.
+productive stock feed with exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Key [[det]] ails
 
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,24 +87,3 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-See [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] for more on Query How Does Cover Cropping Benefit Soil And When Should I Plant Them.
-See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

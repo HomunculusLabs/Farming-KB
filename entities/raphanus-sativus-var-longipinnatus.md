@@ -1,5 +1,5 @@
 ---
-title: Daikon Radish (Raphanus raphanus sativus var longipinnatus. longipinnatus)
+title: Raphanus Sativus Var Longipinnatus
 created: 2026-05-06
 type: species
 tags:
@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Raphanus+sativus+longipinnatus
-  - SARE (Sustainable Agriculture Research and Education). "Managing Cover Crops Profitably." 3rd ed.
+  - SARE ([[phosphate-accumulators-sustainable-agriculture]] Research and Education). "Managing [[query-what-is-biofumigation-and-how-does-it-work]] Profitably." 3rd ed.
   - USDA Natural Resources Conservation Service. "Plant Guide: Daikon Radish (Raphanus sativus)."
   - Ashworth, S. (2013). Seed to Seed. Chelsea Green Publishing.
   - Jeavons, J. (2012). How to Grow More Vegetables. 8th ed. Ten Speed Press.
@@ -23,7 +23,7 @@ sources:
 
 # Daikon Radish (Raphanus sativus var. longipinnatus)
 
-**Daikon radish** (*Raphanus sativus* var. *longipinnatus*), also known as **forage radish**, **tillage radish**, **oilseed radish**, or **Japanese radish**, is a large-rooted annual or biennial plant in the family Brassicaceae. Native to East Asia, it has been cultivated for over 2,000 years as a food crop and, more recently, has gained widespread recognition in permaculture, regenerative agriculture, and no-till farming as a powerful biological tillage tool, cover crop, and [[nutrient-dynamic-accumulator-reference]].
+**Daikon radish** (*Raphanus sativus* var. *longipinnatus*), also known as **forage radish**, **tillage radish**, **oilseed radish**, or **Japanese radish**, is a large-rooted annual or biennial plant in the family Brassicaceae. Native to East Asia, it has been cultivated for over 2,000 years as a food crop and, more recently, has gained widespread recognition in permaculture, [[biochar]], and no-till farming as a powerful biological tillage tool, cover crop, and [[nutrient-dynamic-accumulator-reference]].
 
 The name "daikon" comes from Japanese *dai* (大, "large") and *kon* (根, "root"). In permaculture contexts, the specific forage/tillage varieties are often referred to collectively as **tillage radish** or **groundhog radish** for their soil-penetrating capabilities.
 
@@ -76,73 +76,15 @@ Seed pods (siliques) are cylindrical, 3–8 cm long, containing 4–12 seeds per
 | Calcium | 27 mg | 2% |
 | Magnesium | 10 mg | 2% |
 
-The root is low in calories but rich in vitamin C, potassium, and digestive enzymes (particularly myrosinase, which activates glucosinolate compounds). Daikon is a staple vegetable in Japanese, Korean, Chinese, and Southeast Asian cuisines.
+The root is low in calories but rich in vitamin C, potassium, and digestive enzymes (particularly myrosinase, which activates glucosinolate compounds). Daikon is a staple vegetable in Japanese, Korean, Chinese, and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines.
 
 ## Permaculture and Soil Functions
 
 ### Biological Tillage
 The primary permaculture function of tillage radish is biological subsoiling:
-- **Hardpan penetration:** The thick taproot grows downward with enough force to penetrate compacted soil layers (plow pans, traffic pans, fragipans) that restrict water movement and root growth of other crops
+- **Hardpan penetration:** The thick taproot grows downward with enough force to penetrate compacted soil layers (plow pans, traffic pans, fragipans) that restrict water movement [[soil-moisture-management-and-root-growth]] of other crops
 - **Soil channel creation:** When the root decomposes (typically in late winter for fall-planted radishes), it leaves behind vertical channels (macropores) 2–5 cm in diameter that improve water infiltration by 50–300% compared to compacted soil
 - **Root zone expansion:** Subsequent crops can follow the decomposed root channels deeper into the soil profile, accessing nutrients and moisture unavailable in compacted conditions
 
 ### Nitrogen Scavenging
 Daikon radish is an exceptional nitrogen scavenger:
-- Can absorb 50–150 kg N/ha from residual soil nitrogen that would otherwise leach into groundwater
-- Deep roots access nitrogen that has moved below the root zone of shallow-rooted crops
-- Absorbed nitrogen is stored in the root and top growth, then released as the plant decomposes, becoming available to the following crop (slow-release nitrogen source)
-
-### Dynamic Accumulation
-Mines minerals from deep soil: sulfur (20–40 kg/ha — highest among common cover crops), boron, calcium, magnesium, and phosphorus. When decomposed, these minerals are deposited in the upper soil profile.
-
-### Organic Matter Addition
-- Fall-planted radishes produce 2–5 t/ha of dry biomass (root + top growth)
-- Root decomposition adds significant organic matter to both surface soil and the subsoil channel
-- The high water content of the root (95%+) means rapid decomposition in spring, leaving minimal surface residue that could interfere with planting
-
-### Weed Suppression
-- Rapid canopy closure shades out winter annual weeds within 3–4 weeks of emergence
-- Allelopathic compounds (glucosinolate degradation products, particularly isothiocyanates) inhibit weed seed germination
-- Dense planting (30–50 plants/m²) provides effective weed competition
-
-### Biofumigation and Erosion Control
-When terminated, glucosinolates hydrolyze to isothiocyanates (ITCs) — [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that suppress soilborne pathogens (*Fusarium*, *Rhizoctonia*, *Pythium*), reduce nematode populations, and inhibit weed seed germination. The combination of rapid canopy closure, extensive roots, and winter persistence provides effective erosion control.
-
-## Cultivation as a Cover Crop
-
-### Planting Parameters
-
-| Parameter | Recommendation |
-|---|---|
-| Planting window | Late summer to early fall (6–10 weeks before first fall frost) |
-| Seeding rate | 8–12 kg/ha (drilled); 14–18 kg/ha (broadcast) |
-| Seeding depth | 1–1.5 cm |
-| Row spacing | 15–20 cm (drilled); broadcast and lightly harrowed |
-| Soil pH | 5.5–7.0 |
-| Soil type | Wide tolerance; best in well-drained loams |
-| Fertilization | Generally unnecessary; performs well on residual fertility |
-
-### Termination
-- **Winter kill:** In USDA Zones 7 and colder, plants are killed by hard freezes (below -6°C for extended periods), eliminating the need for mechanical termination
-- **[[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]:** Killed roots decompose rapidly in spring, leaving channels without surface residue
-- **Mowing/crimping:** In warmer zones where plants overwinter, terminate by mowing or roller-crimping at flowering
-- **Herbicide:** Glyphosate can be used as a last resort but is incompatible with organic/regenerative systems
-
-### Crop Rotation Integration
-Daikon radish is most effective when used in rotation with:
-- **Following:** Corn, soybeans, small grains, vegetables (scavenges residual nitrogen)
-- **Preceding:** Corn, soybeans, cotton, vegetables (improves soil conditions for planting)
-
-Avoid consecutive plantings of brassica species to prevent disease buildup (clubroot, blackleg) and pest cycles (flea beetles, cabbage root maggot).
-
-## Companion Planting
-
-Compatible companions include peas, beans, lettuce, spinach, carrots, onions, and herbs. Avoid consecutive brassica plantings (3–4 year rotation) to prevent clubroot, blackleg, flea beetles, and cabbage root maggot buildup.
-
-## See Also
-
-- permaculture-horseradish
-- [[companion-planting]]
-- [[cover-crop-species-comparison]]
-- [[raphanus-sativus]]
-- [[decomposition]]

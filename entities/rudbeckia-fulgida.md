@@ -43,7 +43,7 @@ Chromosomal studies confirm *R. fulgida* is a diploid with 2n = 36. Hybridisatio
 
 ## Distribution and Habitat
 
-*Rudbeckia fulgida* is native to the eastern United States, from New York and Connecticut southward to Florida, and westward to Ohio, Indiana, and Missouri. Its range is concentrated in the Appalachian region and Piedmont.
+*Rudbeckia fulgida* is native to the eastern United States, from New York and Connecticut southward to Florida, and westward to Ohio, Indiana, and Missouri. Its range is concentrated in the [[bolete-fungi-appalachian-region]] and Piedmont.
 
 The species occurs naturally in moist open woods, stream banks, meadows, and wet prairies. It prefers full sun to partial shade and tolerates a range of soil types, from clay loams to sandy soils.
 
@@ -51,7 +51,7 @@ It is found at elevations from sea level to approximately 600 metres. The specie
 
 Naturalised populations exist in Europe and Asia, where the species has escaped from cultivation. It is not considered invasive, as it spreads slowly by rhizomes and does not aggressively self-seed.
 
-The species has been used extensively in ecological restoration projects, particularly in native meadow plantings and riparian buffer zones. Its tolerance of both wet and dry conditions makes it versatile for stormwater management landscapes.
+The species has been used extensively in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects, particularly in native meadow plantings and riparian buffer zones. Its tolerance of both wet and dry conditions makes it versatile for [[mollison-designers-cloudburst-and-stormwater-management]] landscapes.
 
 In naturalistic garden design, *R. fulgida* is a key component of prairie-style plantings popularised by Piet Oudolf and other landscape architects. Its architectural seed heads provide winter structure.
 
@@ -67,7 +67,7 @@ The species is largely pest-free and deer-resistant due to its hairy, slightly b
 
 Deadheading extends the bloom period, though leaving spent flowers provides winter interest and seeds for birds. The seed heads persist attractively through winter.
 
-The species combines well with ornamental grasses such as *Panicum virgatum* and *Schizachyrium scoparium* in mixed perennial borders. The golden flower colour complements blue, purple, and white companions.
+The species combines well with [[ornamental-grasses-guide]] such as *[[panicum-virgatum]]* and *[[schizachyrium-scoparium]]* in mixed perennial borders. The golden flower colour complements blue, purple, and white companions.
 
 'Goldsturm' typically blooms for 8–10 weeks from mid-July through September, longer than the straight species. Its compact habit (60–75 cm) makes it suitable for smaller gardens and container plantings.
 
@@ -88,23 +88,3 @@ In agricultural landscapes, *R. fulgida* plantings support beneficial insect pop
 The Cherokee used a root infusion for colds and as a wash for sores. The Iroquois applied mashed roots to snakebite wounds, though these uses are not supported by modern pharmacological evidence.
 
 The Potawatomi used an infusion of the root as a wash for snakebite and as an emetic. Ethnobotanical records from multiple tribes consistently cite the roots as the primary medicinal part.
-
-The species has no significant modern medicinal applications and is not widely used in contemporary herbal medicine. Its primary value lies in horticulture and ecological landscaping.
-
-Phytochemical analysis of *Rudbeckia* species has identified sesquiterpene lactones, polyacetylenes, and flavonoid glycosides. Some of these compounds exhibit moderate antimicrobial and cytotoxic activity in laboratory studies.
-
-The roots contain small quantities of essential oil. However, the genus has not been subjected to systematic pharmacological investigation, and no [[mushroom-cancer-clinical-trials-overview]] have evaluated *R. fulgida* specifically.
-
-## See Also
-
-- [[rudbeckia-laciniata]]
-- [[echinacea-angustifolia]]
-- [[coreopsis-lanceolata]]
-- [[monarda-fistulosa]]
-- [[gaillardia-pulchella]]
-- solidago-virgaurea
-- [[coreopsis-tinctoria]]
-- [[helianthus-tuberosus]]
-- [[echinacea-pallida]]
-- [[asclepias-tuberosa]]
-- [[rudbeckia-triloba]]

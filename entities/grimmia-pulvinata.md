@@ -88,34 +88,3 @@ Nitrogen uptake efficiency is enhanced by the presence of nitrogen-fixing epiphy
 ## Cultivation and Conservation
 
 G. pulvinata is occasionally cultivated in moss gardens and green roof installations. Its low maintenance requirements and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for extensive green roof systems.
-
-Propagation from collected cushions is straightforward, as the species establishes readily on stone, concrete, and brick substrates. It has been trialed in living wall systems with mixed results due to its requirement for excellent drainage.
-
-Conservation status is secure globally due to its cosmopolitan distribution. However, local populations can be threatened by the cleaning of historic masonry and the application of biocidal treatments to buildings.
-
-The species is used as a bioindicator of air quality in some European monitoring programs. Its response to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and heavy metal contamination provides data on atmospheric pollution gradients.
-
-Comparative studies have shown that G. pulvinata populations in urban areas exhibit altered chlorophyll fluorescence patterns compared to rural populations. These changes reflect chronic exposure to atmospheric pollutants including nitrogen oxides and ozone.
-
-## See Also
-
-- [[syntrichia-ruralis]]
-- [[ceratodon-purpureus]]
-- [[dicranum-scoparium]]
-- [[bryum-argenteum]]
-- [[hypnum-cupressiforme]]
-- [[polytrichum-commune]]
-- [[funaria-hygrometrica]]
-- [[leucobryum-glaucum]]
-- [[pleurozium-schreberi]]
-- [[sphagnum-palustre]]
-- [[aulacomnium-palustre]]
-- [[climacium-dendroides]]
-- [[thuidium-delicatulum]]
-- [[mnium-hornum]]
-- [[rhytidiadelphus-triquetrus]]
-- [[polytrichum-formosum]]
-- [[sphagnum-cuspidatum]]
-- [[sphagnum-magellanicum]]
-- [[rhodobryum-giganteum]]
-- [[dicranum-polysetum]]

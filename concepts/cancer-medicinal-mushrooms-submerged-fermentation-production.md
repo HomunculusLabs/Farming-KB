@@ -1,5 +1,5 @@
 ---
-title: cancer medicinal mushrooms submerged fermentation production for gourmet-medicinal-mushroom-casing-layer-techniques Mycelium Production
+title: Cancer Medicinal Mushrooms Submerged Fermentation Production
 created: 2026-04-26
 tags: [biotechnology, fermentation, medicinal-mushrooms, mycelium]
 date: 2026-04-25
@@ -16,7 +16,7 @@ important approach for cultivating [[comparison-chaga-vs-turkey-tail-medicinal-m
 the need for the mushroom fruitbody is bypassed, with the mycelium of
 the medicinal mushroom being cultivated in deep-tank liquid fermentation
 culture. This technology is a relatively new approach but if the
-important medicinal compounds can be produced in this way it will lead
+important [[cotter-mushroom-nutrition-medicinal-compounds]] can be produced in this way it will lead
 to major innovations and product diversity.
 
 ## Advantages of Submerged Fermentation
@@ -43,12 +43,12 @@ be produced through submerged fermentation. The most notable example is
 PSK and PSP from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], both of which are purified from
 this fungus by deep tank fermentation of mycelial cultures. The success
 of PSK and PSP production via fermentation validates this approach for
-pharmaceutical-grade medicinal mushroom compounds.
+pharmaceutical-grade [[medicinal-mushroom-compounds]].
 
 Med Myco Ltd. (Israel) developed a submerged fermentation method to
-produce Tremellastin from Tremella mesenterica mycelium which contains
+produce Tremellastin from [[tremella-mesenterica]] mycelium which contains
 50% glucuronoxylomannan, together with proteins rich in amino acids,
-dietary fibre and B-group vitamins. Dietary supplements from Tremella
+dietary fibre and B-group vitamins. [[medicinal-mushroom-dietary-supplements]] from Tremella
 are beginning to expand into the Asian market.
 
 ## Four Sources of Antitumour Polysaccharides
@@ -58,7 +58,7 @@ mushrooms can be derived from four primary sources:
 
 1. Mushroom fruit-bodies: traditional harvesting, highest levels
    and variety of polysaccharides
-2. Submerged cultured mycelial biomass: fermentation in bioreactors
+2. Submerged cultured [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]]: fermentation in bioreactors
 3. Liquid cultured broth: fermentation supernatant
 4. Solid substrate cultured mycelium: alternative cultivation method
 
@@ -88,21 +88,3 @@ as with antibiotics.
 
 A further advantage of the fermentation approach would be the mycelial
 cultivation of medicinal mushroom species that have defied axenic
-culture, including many mycorrhizal species such as Truffles and
-Chantarelles. Fermenter cultivation of mycorrhizal mycelium may help
-overcome the difficulty of successful total cultivation for these
-commercially valuable species. The ability to use pure substrates and
-controlled growth environments will aid in the final purity of products.
-
-## Other Bioactive Compounds from Fermentation
-
-Lovastatin has been detected in submerged fermentation broth of
-Pleurotus saca and in surface fermentation broth of P. sapidus
-(Gunde-Cimerman et al., 1993), demonstrating the range of bioactive
-compounds accessible through this technology beyond just polysaccharides.
-
-## Related Topics
-
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[medicinal-mushroom-cancer-regulatory-frameworks]]
-- [[cancer-medicinal-mushrooms-extraction-bioavailability]]

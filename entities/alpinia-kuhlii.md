@@ -66,7 +66,7 @@ The species occurs in lowland tropical rainforests, forest margins, and
 secondary growth areas from sea level to about 500 meters elevation. It
 thrives in humid conditions with well-distributed annual rainfall.
 
-It has been introduced and naturalized in other tropical regions as an
+It has been introduced and naturalized in other [[fukuoka-natural-farming-in-tropical-regions]] as an
 ornamental escape. Established populations exist in Hawaii, Fiji, and
 northeastern Australia, where it can occasionally become invasive in disturbed
 habitats.
@@ -88,31 +88,3 @@ to promote digestive comfort.
 Pacific Island communities use the shredded leaves as a poultice for treating
 headaches and fevers. The leaves are applied to the forehead and secured with
 a cloth bandage, a practice documented in ethnobotanical surveys of Vanuatu.
-
-## Bioactive Compounds
-
-Phytochemical studies of A. kuhlii have identified several classes of
-[[antifungal-secondary-metabolites-coprophilous-fungi]] in the rhizome and leaf tissues. [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] extracted
-from the rhizome contain 1,8-cineole, α-terpineol, and linalool as major
-components.
-
-Flavonoid compounds isolated from leaf extracts include kaempferol and
-quercetin glycosides. These compounds contribute to the observed antioxidant
-activity in standard free radical scavenging assays.
-
-Laboratory studies have demonstrated moderate antibacterial activity of
-rhizome extracts against selected pathogenic bacteria. The essential oil shows
-greater potency than crude extracts, suggesting that volatile terpenoids are
-the primary bioactive constituents.
-
-Anti-inflammatory activity has been reported in in vitro models, with
-rhizome extracts inhibiting pro-inflammatory cytokine production. The specific
-compounds responsible for this activity remain to be fully characterized.
-
-## See Also
-
-- [[alpinia-officinarum]]
-- [[alpinia-nigra]]
-- [[alpinia-melanocarpa]]
-- [[hedychium-gardnerianum]]
-- [[elettaria-cardamomum]]

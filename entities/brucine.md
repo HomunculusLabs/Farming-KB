@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-Brucine is a dimethoxy derivative of [[strychnine]] and a major alkaloid constituent of *Strychnos nux-vomica* seeds, where it co-occurs with strychnine at a ratio of approximately 1:1 to 1:2. While structurally similar to strychnine and sharing the same mechanism as a competitive glycine receptor antagonist, brucine is approximately 10–30 times less potent as a convulsant. This reduced toxicity, combined with its intensely bitter taste, has made brucine a subject of interest in both traditional medicine and modern pharmacological research. Recent studies have revealed promising anti-inflammatory, analgesic, anti-angiogenic, and neuroprotective properties that distinguish brucine from its more notorious relative. Brucine is also notable as a chiral resolving agent in synthetic organic chemistry.
+Brucine is a dimethoxy derivative of [[strychnine]] and a major alkaloid constituent of *Strychnos nux-vomica* seeds, where it co-occurs with strychnine at a ratio of approximately 1:1 to 1:2. While structurally similar to strychnine and sharing the same mechanism as a competitive glycine receptor antagonist, brucine is approximately 10–30 times less potent as a convulsant. This reduced toxicity, combined with its intensely bitter taste, has made brucine a subject of interest in both traditional medicine and modern pharmacological research. Recent studies have revealed promising anti-inflammatory, analgesic, anti-angiogenic, and neuroprotective properties that distinguish brucine from its more notorious relative. Brucine is also notable as a chiral resolving agent in synthetic [[pericyclic-reactions-organic-chemistry]].
 
 ## Chemical Profile
 
@@ -42,7 +42,7 @@ Brucine is a dimethoxy derivative of [[strychnine]] and a major alkaloid constit
 - **pKa**: 8.26 (protonated tertiary amine)
 - **Appearance**: White to pale yellow crystalline powder; extremely bitter taste detectable at <1 ppm
 - **UV absorption**: λmax 254 nm, 264 nm (in methanol)
-- **Structure**: Pentacyclic indole alkaloid identical to strychnine except for two methoxy substituents at positions 9 and 10 on ring D
+- **Structure**: Pentacyclic [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] identical to strychnine except for two methoxy substituents at positions 9 and 10 on ring D
 
 ## Natural Sources
 
@@ -52,7 +52,7 @@ Brucine is biosynthesized via the same pathway as strychnine, with tryptamine an
 - **Strychnos ignatii** (Ignatius bean): Seeds contain 0.5–1.0% brucine. Used traditionally in Chinese medicine.
 - **Strychnos angustiflora**: Chinese species containing brucine in seeds and bark; used in traditional formulations.
 - **Strychnos wallichiana**: Himalayan species containing brucine among a complex alkaloid profile.
-- **Strychnos colubrina**: Southeast Asian species; bark and seeds contain brucine and related alkaloids.
+- **Strychnos colubrina**: [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] species; bark and seeds contain brucine and related alkaloids.
 
 ## Pharmacology
 
@@ -62,11 +62,11 @@ Brucine acts as a competitive antagonist at the strychnine-sensitive glycine rec
 
 ### Anti-inflammatory and Analgesic Activity
 
-Brucine demonstrates significant anti-inflammatory and analgesic effects in multiple experimental models. It suppresses TNF-α, IL-1β, IL-6, and NF-κB signaling in activated macrophages and LPS-challenged animals. In carrageenan-induced paw edema and formalin tests, brucine produces dose-dependent anti-inflammatory and analgesic effects comparable to indomethacin at equivalent doses. The analgesic mechanism involves both peripheral COX-2 inhibition and central modulation of pain signaling pathways. Notably, brucine shows a wider therapeutic window than [[strychnine]] for these anti-inflammatory applications, as effective anti-inflammatory doses are well below convulsant thresholds.
+Brucine demonstrates significant anti-inflammatory and analgesic effects in multiple experimental models. It suppresses TNF-α, IL-1β, IL-6, and NF-κB signaling in activated macrophages and LPS-challenged animals. In carrageenan-induced paw edema and formalin tests, brucine produces dose-dependent anti-inflammatory and analgesic effects comparable to indomethacin at equivalent doses. The analgesic mechanism involves both peripheral COX-2 inhibition and central modulation of pain [[plant-signaling-pathways]]. Notably, brucine shows a wider [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] than [[strychnine]] for these anti-inflammatory applications, as effective anti-inflammatory doses are well below convulsant thresholds.
 
 ### Anti-angiogenic and Anticancer Activity
 
-Brucine has demonstrated anti-angiogenic and antiproliferative effects in several cancer models. It inhibits endothelial cell proliferation, migration, and tube formation in vitro, and suppresses tumor growth in murine xenograft models. Proposed mechanisms include inhibition of VEGF/VEGFR2 signaling, induction of apoptosis via mitochondrial pathways, and cell cycle arrest at G0/G1 phase. Brucine has shown activity against breast, lung, liver, and gastric cancer cell lines, with IC₅₀ values typically in the 10–50 µM range. Importantly, brucine exhibits lower general cytotoxicity than strychnine at equivalent concentrations.
+Brucine has demonstrated anti-angiogenic and antiproliferative effects in several cancer models. It inhibits endothelial cell proliferation, migration, and tube formation in vitro, and suppresses tumor growth in murine xenograft models. Proposed mechanisms include inhibition of VEGF/VEGFR2 signaling, induction of apoptosis via mitochondrial pathways, and cell cycle arrest at G0/G1 phase. Brucine has shown activity against breast, lung, liver, and [[cancer-medicinal-mushrooms-psk-gastric-cancer]] cell lines, with IC₅₀ values typically in the 10–50 µM range. Importantly, brucine exhibits lower general cytotoxicity than strychnine at equivalent concentrations.
 
 ### Neuroprotective Effects
 
@@ -88,27 +88,3 @@ Brucine is toxic but considerably less so than strychnine, with an estimated let
 ### Traditional Medicine
 
 Brucine-containing *Strychnos* preparations have been used in Ayurvedic medicine (as "Kuchla"), traditional Chinese medicine (as "Maqianzi"), and Southeast Asian folk medicine for centuries. Traditional applications include treatment of digestive disorders, paralysis, rheumatism, and respiratory ailments. In Ayurveda, purified and detoxified *Strychnos nux-vomica* preparations are used after elaborate shodhana (purification) processes intended to reduce strychnine and brucine toxicity while retaining therapeutic activity.
-
-### Modern Applications
-
-- **Pharmaceutical research**: Investigated as a lead compound for anti-inflammatory, analgesic, and anti-angiogenic drug development; nanoparticle formulations are being studied to improve bioavailability and reduce toxicity
-- **Synthetic chemistry**: Standard chiral resolving agent for enantiomeric separation of organic acids
-- **Traditional formulations**: Brucine-containing products remain available in some herbal medicine systems, though regulatory restrictions on strychnos alkaloids limit their availability in most Western countries
-- **Forensic toxicology**: Detected alongside strychnine in poisoning cases involving strychnos seed ingestion
-
-## Safety and Regulatory Status
-
-Brucine is classified as a toxic alkaloid in most jurisdictions and is subject to regulatory controls similar to strychnine, though with slightly less restrictive scheduling in some countries. It is listed on the WHO Model List of Essential Medicines neither as a therapeutic agent nor as an antidote. In many countries, brucine-containing products require prescription or are restricted to professional use. The margin between therapeutic anti-inflammatory doses and convulsant doses is narrower than for many conventional anti-inflammatory drugs, limiting its direct clinical utility.
-
-## See Also
-
-- [[strychnine]] — Closely related Strychnos alkaloid and more potent GlyR antagonist
-- [[gelsemine]] — Gelsemium alkaloid with distinct neurotoxic mechanism
-- [[atropine]] — Tropane alkaloid antimuscarinic with anticholinergic toxicity
-- [[scopolamine]] — Tropane alkaloid with sedative and antiemetic properties
-- [[colchicine]] — Plant alkaloid with antimitotic mechanism of toxicity
-- [[caffeine]] — Mild CNS stimulant with contrasting pharmacological profile
-- [[nicotine]] — Alkaloid nicotinic receptor agonist and stimulant
-- [[morphine]] — Opioid alkaloid with CNS depressant effects opposing brucine
-- [[muscarine]] — Fungal alkaloid with muscarinic receptor agonism
-- [[ibogaine]] — Indole alkaloid with anti-addiction and neuropharmacological activity

@@ -87,36 +87,3 @@ Kushi Mints is considered moderately difficult to cultivate, requiring some expe
 Indoor flowering time is approximately 8–10 weeks, with outdoor harvests typically ready by mid to late October in northern temperate climates. The plants have a moderately bushy growth pattern with strong lateral branching.
 
 Yields are moderate to above average when grown under optimal conditions. Indoor yields of 350–450 g/m² are typical, while outdoor plants can produce 400–600 g each depending on training method and [[savory-growing-season-and-non-growing-season-management]].
-
-The strain responds well to low-stress training (LST), scrogging, and topping. It is relatively resistant to common pests and molds but can be sensitive to nutrient burn, particularly during the mid-flowering stage when calyx production peaks.
-
-Temperature control during late flowering is important for maximizing the purple coloration. Nighttime temperatures of 15–18°C (59–64°F) during weeks 6–8 of flowering promote anthocyanin expression and deeper purple hues.
-
-The strain can be grown in both soil and hydroponic systems. Organic soil cultivation tends to enhance the complex terpene profile, while hydroponic methods often produce slightly higher yields at the cost of some aromatic nuance.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, which are typical of high-THC cannabis varieties.
-
-Some users report mild anxiety or paranoia at higher doses, particularly among those with lower tolerance. The sedative effects can be stronger than expected for inexperienced users.
-
-In rare cases, the strain may cause dizziness or mild headaches, especially when consumed in large quantities or on an empty stomach. These effects are transient and typically resolve within 30–60 minutes.
-
-Due to the indica-dominant effects, Kushi Mints is not recommended for daytime use when alertness or productivity is required. The couch-lock potential makes it a poor choice for social or active settings.
-
-## Notable Phenotypes
-
-Several phenotype expressions have been identified within Kushi Mints populations.
-
-The "Mint" pheno emphasizes the limonene and linalool profile, producing buds with a more pronounced minty aroma and lighter green coloration. This pheno tends to have slightly more balanced hybrid effects.
-
-The "Cookies" pheno leans heavily toward the Cookies genetic expression, with denser trichome coverage, sweeter cookie-dough aroma, and more purple coloration. This pheno typically tests slightly higher in THC.
-
-The "Kush" pheno expresses more of the Bubba Kush heritage, with earthier aromas, more relaxing body effects, and a slightly shorter flowering time. This pheno is preferred by medical users seeking maximum sedation.
-
-## See Also
-
-- [[thin-mint-cookies]]
-- [[gelato]]
-- [[cannabis-terpene-profiles]]
-- [[query-how-does-no-till-cannabis-cultivation-work]]

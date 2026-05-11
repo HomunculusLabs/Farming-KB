@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - cotter-organic-mushroom-farming-mycoremediation
 type: concept
 ---
@@ -87,15 +88,3 @@ fruitbodies and refrigerating them, which maintains dryness while preserving
 viable tissue.
 
 ## Spore Prints as Backup
-
-Whenever attempting tissue culture from a wild polypore, making a spore  print simultaneously is advisable. If the tissue culturing does not produce
-clean isolates, [[growing-gourmet-spore-germination-strain-isolation]] provides an alternative path to establishing
-the culture, though it will produce a different genetic individual than the
-parent mushroom rather than an exact clone.
-
-## See Also
-
-- [[comparison-tissue-culture-vs-wild-isolation]]
-
-- stamets-spore-germination-and-tissue-culture for Stamets' approach
-- [[agar-work-guide]] for comprehensive agar work techniques

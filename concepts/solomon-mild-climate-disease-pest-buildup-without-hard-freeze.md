@@ -19,7 +19,7 @@ sanitation function:
   eggs, and pupae are killed by sustained deep freezing
 - **Eliminates disease organisms:** Many soil-borne pathogens cannot survive
   prolonged freezing temperatures
-- **Breaks pest life cycles:** When the soil freezes solid, the continuous
+- **Breaks pest [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]:** When the soil freezes solid, the continuous
   cycle of pest reproduction is interrupted
 - **Reduces weed seed viability:** Many weed seeds are killed by freeze-thaw
   cycles at depth
@@ -52,7 +52,7 @@ Without a killing frost, populations of:
 - **Wireworms:** Tunnel through roots and tubers
 - **Root-knot nematodes:** Create galls on roots, stunting growth
 - **Cutworms and leatherjackets:** Sever seedlings at ground level
-- **Carrot rust fly:** Maggots destroy root crops
+- **Carrot rust fly:** Maggots destroy [[permaculture-plants-root-crops-and-tubers]]
 
 These pests build to plague levels over 3-5 years when not checked by winter
 freezing.
@@ -61,7 +61,7 @@ freezing.
 Fungal and bacterial pathogens that would be set back by hard freezes include:
 - **Clubroot:** Affects all brassicas, caused by *Plasmodiophora brassicae*
 - **Verticillium wilt:** Affects tomatoes, potatoes, eggplants, peppers
-- **Fusarium wilt:** Similar host range, soil-persistent
+- **[[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]]:** Similar [[powdery-mildews-erysiphaceae-diversity-host-range]], soil-persistent
 - **Various root rots:** Pythium, Rhizoctonia, Phytophthora species
 
 These organisms persist in soil indefinitely when not exposed to killing
@@ -88,33 +88,3 @@ recommends:
 
 ### Site Rotation (Ultimate Solution)
 If possible, maintain multiple garden sites and rotate between them. The
-British wartime allotment model of a fixed plot is less suitable for mild
-climates than a system that moves the garden to fresh ground periodically.
-
-### Resistant Varieties
-When growing in mild climates, prioritize varieties bred for disease
-resistance. This is especially important for brassicas (clubroot resistance)
-and tomatoes (Fusarium and Verticillium wilt resistance).
-
-## Climate Assessment
-
-Solomon's rule of thumb: if your winter temperatures regularly drop below
-25°F (-4°C) and the ground freezes to 18+ inches deep for weeks, your
-climate provides natural pest and [[aact-disease-suppression-mechanisms-ingham]]. If not, you must
-actively manage these problems through rotation, ley farming, and variety
-selection.
-
-Regions at highest risk include:
-- Coastal California and the [[psilocybin-north-america-pacific-northwest]]
-- Southern England and western Europe
-- Southern Australia, New Zealand
-- Most Mediterranean climates
-- USDA Zones 8b and warmer without sustained freezes
-
-## See Also
-
-- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
-- [[solomon-crop-rotation-and-garden-planning]]
-- [[solomon-garden-ley-rotation-soil-restoration]]
-- [[solomon-insects-and-diseases-integrated-approach]]
-- solomon plant disease management

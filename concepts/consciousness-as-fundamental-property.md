@@ -88,11 +88,3 @@ neural activity and subjective experience.
 The integrated information theory (IIT) of consciousness, proposed by Giulio Tononi, attempts to bridge this gap by providing a mathematical framework for quantifying consciousness as a fundamental property of systems with high integrated information. While IIT remains controversial, it represents one of the most rigorous attempts to develop a scientific framework compatible with consciousness-as-fundamental. The theory predicts that consciousness is not unique to biological brains but exists in any system with sufficiently high integrated information — a prediction that, if confirmed, would have profound implications for our understanding of both consciousness and the nature of reality. See [[psilocybin-neuroscience]] for neuroscience perspectives on the debate.
 
 ## See Also
-
-[[psilocybin-and-mystical-experience]]
-
-[[philosophical-implications-of-psychedelics]]
-
-[[psilocybin-neuroscience]]
-
-[[psilocybin-consciousness-as-information-in-process]]

@@ -87,12 +87,3 @@ Youngsang Cho is the son of Hankyu Cho and the founder/developer of the JADAM ul
 ## From Father to Son
 
 Youngsang Cho acknowledges: "If it were not for the achievements made by Han-kyu Cho, my father, JADAM system would not have been born. He has devoted his entire life in promoting [[query-what-is-korean-natural-farming-and-how-does-it-work]] built a strong foundation for the ultra-low-cost agriculture system of JADAM organic farming."
-
-Hankyu Cho writes: "It is my utmost pleasure to see the same spirit being inherited and developed by Youngsang Cho of JADAM."
-
-## See Also
-
-- [[jadam-natural-pesticide-philosophy]] - Pesticide philosophy
-- [[jadam-vision-four-aims]] - JADAM's four objectives
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]

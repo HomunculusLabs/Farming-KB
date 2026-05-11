@@ -3,14 +3,14 @@ source: "Mr. Bloomfield's Orchard - Nicholas P. Money"
 source_file: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 extracted: 2026-04-11
 type: concept
-tags: [mycology, fungi, rust-fungi, life-cycles, heteroecism, gymnosporangium, puccinia, basidiomycetes, alternation-of-generations, plant-pathology]
+tags: [[mycology]], fungi, rust-fungi, life-cycles, heteroecism, gymnosporangium, puccinia, basidiomycetes, alternation-of-generations, plant-pathology]
 ---
 
 # Heteroecious Rust Fungi Life Cycles: Gymnosporangium and Beyond
 
 ## Summary
 
-Rust fungi possess some of the most complex life cycles in the biological world, requiring two unrelated host plant species and producing up to five different spore types.
+[[rust-fungi]] possess some of the most complex life cycles in the biological world, requiring two unrelated host plant species and producing up to five different [[spore]] types.
 
 Gymnosporangium globosum (hawthorn-cedar rust) exemplifies heteroecism, producing entirely different spore types on hawthorns versus junipers, with a lifecycle that alternates between diploid and haploid phases through meiosis, plasmogamy, and karyogamy.
 
@@ -38,7 +38,7 @@ On hawthorns, the rust causes leaves to become covered with yellow spots, and so
 
 The rust produces masses of spores at the base of each of these hollow chimneys, so that elongating towers of infectious cells are driven toward their openings, continually replacing the uppermost spores that escape into the air.
 
-Gymnosporangium behaves in a similar fashion on hawthorns and fruit trees, but produces entirely different kinds of spores when it grows on evergreens.
+Gymnosporangium behaves in a similar fashion on hawthorns and [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]], but produces entirely different kinds of spores when it grows on evergreens.
 
 Its life on hawthorns and its life on junipers are separate phases of the rust's existence, which can be summarized in a life cycle diagram.
 
@@ -87,40 +87,3 @@ Rust species often encompass a number of special races called formae speciales (
 ## Teliospores and the Return to Sexual Reproduction
 
 Black stem rust refers to black streaks or open sores containing a second spore type called the teliospore, which develop within the reddish uredial lesions toward the end of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-Each teliospore is a pair of swollen cells attached to a stalk — like a lollipop with two circles of candy, one on top of the other.
-
-These spores have thick pigmented walls and are not designed for wind dispersal; instead, they survive the winter months in frozen stubble.
-
-The warmth of spring triggers germination: both cells produce short hyphae, and a nucleus in each hypha is divided by meiosis into four daughter nuclei, packaged into bean-shaped spores.
-
-Then comes a surprise: a droplet of fluid appears at the base of every spore before it is launched — Buller's drop, which establishes that these spores are basidiospores, confirming that rusts are [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], distant cousins of mushrooms.
-
-The nucleus within each rust basidiospore is produced by meiosis, the same type of nuclear division that makes the nuclei of eggs and sperm in animals.
-
-## Heteroecism: Two Hosts, Four Spore Types
-
-The basidiospores are dispersed in air currents above the stubble, and survival depends on delivery to a different plant species — for Puccinia graminis, a thorny bush called the barberry.
-
-On the barberry leaf, a mycelium grows between the cells, forming tiny flasks called spermagonia that rupture the upper epidermis and exude sugary nectar and spermatia.
-
-Flies and other insects carry spermatia between spermagonia, functioning as pollinators — rusts cannot make love without the active participation of insects.
-
-Transfer of a spermatial nucleus transforms the mycelium into a dikaryon (with two different types of nuclei), and cup-shaped aecia on the leaf's underside sprout columns of aeciospores.
-
-When an aeciospore lands on a wheat leaf, it germinates, penetrates through a stoma, feeds with haustoria, and soon uredial pustules burst through the leaf — another crop infection is under way.
-
-Two hosts, four types of spore, the counterpart of sperm cells, and three acts of plant penetration: this is the Fabergé egg of a life cycle that rusts have fashioned over 100 million years.
-
-The standard answer for why this life cycle is so complicated centers on resilience: the opportunity for survival is boosted by the availability of two hosts with different [[jeavons-climate-adaptation-growing-seasons]].
-
-Some rusts infect even more distantly related hosts — one rust infects fir trees and ferns, another attacks white pines and gooseberries.
-
-Another remote possibility, founded on pure speculation, is that rust species are hybrids formed from two distinct parasites that once lived on different hosts.
-
-## See Also
-
-- [[bloomfield-apple-orchard-fungal-disease-devastation]]
-- bloomfield basidiomycete ballistospore discharge bullers drop
-- bloomfield fungal arms race insect pathogen coevolution
-- bloomfield puccinia graminis stem rust wheat epidemic

@@ -24,13 +24,13 @@ created: 2026-04-28
 
 ## Overview
 
-**Vigna radiata** (L.) R. Wilczek, commonly known as **mung bean** or **green gram**, is an annual legume in the family Fabaceae.
+**Vigna radiata** (L.) R. Wilczek, commonly known as **[[comparison-cowpea-vs-mung-bean]]** or **green gram**, is an annual legume in the family Fabaceae.
 
 It is cultivated primarily for its edible seeds, which are rich in protein, dietary fiber, and essential micronutrients.
 
-Mung bean is one of the most important pulse crops in South and [[psilocybe-southeast-asia-pacific]], where it has been domesticated for over 4,500 years.
+Mung bean is one of the most important [[grain-legumes-and-pulse-crops]] in South and [[psilocybe-southeast-asia-pacific]], where it has been domesticated for over 4,500 years.
 
-The crop is increasingly recognized for its role in sustainable agriculture due to its nitrogen-fixing ability and short [[savory-growing-season-and-non-growing-season-management]].
+The crop is increasingly recognized for its role in [[phosphate-accumulators-sustainable-agriculture]] due to its nitrogen-fixing ability and short [[savory-growing-season-and-non-growing-season-management]].
 
 ## Taxonomy and Morphology
 
@@ -68,11 +68,11 @@ The crop thrives in warm conditions with optimal temperatures of 25–35°C and 
 
 It is adaptable to a wide range of soil types but performs best in well-drained loamy soils with pH 6.2–7.2.
 
-Mung bean is well-suited as a catch crop between rice and wheat rotations in irrigated systems.
+Mung bean is well-suited as a [[holzer-catch-crop-and-polyculture-design]] between rice and wheat rotations in irrigated systems.
 
 ## Nutritional Profile
 
-Mung bean seeds are approximately 20–25% protein by dry weight, with a balanced amino acid profile.
+Mung bean seeds are approximately 20–25% protein by dry weight, with a balanced [[cho-fish-amino-acid-preparation]] profile.
 
 The protein is particularly rich in lysine but limiting in methionine and cysteine, complementing cereal-based diets.
 
@@ -87,32 +87,3 @@ Anti-nutritional factors including phytic acid, trypsin inhibitors, and tannins 
 ## Cultivation
 
 Mung bean has a short growing cycle of 55–70 days, making it an ideal crop for relay and intercropping systems.
-
-It is commonly sown as a rainfed crop during the monsoon season or as an irrigated crop in dry periods.
-
-Seed rates of 10–15 kg/ha are typical, with row spacing of 25–30 cm and plant-to-plant spacing of 5–10 cm.
-
-Inoculation with appropriate *Bradyrhizobium* strains enhances nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], often eliminating the need for nitrogen fertilizer.
-
-Average yields range from 500 to 1,500 kg/ha depending on variety, management, and environmental conditions.
-
-## Permaculture Applications
-
-Mung bean is a versatile component in permaculture and regenerative agriculture systems due to its multiple ecological functions.
-
-As a nitrogen-fixing legume, it contributes 40–80 kg N/ha to the soil through [[biological-nitrogen-fixation-agriculture]] fixation.
-
-The crop serves as an effective green manure when incorporated into the soil before pod maturity, adding [[hamilton-composting-and-organic-matter-management]] and nutrients.
-
-Its short lifecycle allows multiple plantings per season, maximizing ground cover and reducing weed pressure.
-
-Mung bean is an excellent catch crop for breaking [[hamilton-pest-and-disease-control-organic]] cycles in cereal-dominated rotations.
-
-The crop residue (straw and husks) provides valuable mulch and animal fodder, supporting integrated farming systems.
-
-## See Also
-
-- [[mycorrhiza]]
-- [[anethum-graveolens]]
-- [[artemisia-dracunculus]]
-- [[ashwagandha-withania-somnifera]]

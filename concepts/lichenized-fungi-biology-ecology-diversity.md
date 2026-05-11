@@ -35,7 +35,7 @@ The fungal-photobiont relationship has been described as:
 
 ## Morphological Types
 Most lichen thalli fall into five general categories:
-1. **Leprose:** Mealy particles of intertwined fungal hyphae and algal
+1. **Leprose:** Mealy particles of intertwined [[fungal-hyphae-and-mycelium]] algal
    cells
 2. **Crustose:** Embedded on or in the surface of the substratum (most
    common)
@@ -46,7 +46,7 @@ Most lichen thalli fall into five general categories:
 ## Ecological Characteristics
 
 ### Growth and Competition
-- Slow growth; small size; long life
+- [[holmgren-long-rotation-forestry-slow-growth]]; small size; long life
 - Nonseasonal vegetative morphology
 - Mineral nutrition mostly from airborne sources
 - Greater tolerance of desiccation than most photosynthetic organisms
@@ -85,35 +85,5 @@ deterring herbivory and microbial attack. Some have antibiotic,
 antifungal, or antiviral properties. Others influence substrate
 chemistry by dissolving minerals from rock surfaces. Lichen chemistry
 has historically been important for species identification and remains
-a valuable taxonomic character, though modern molecular methods
+a valuable taxonomic character, though modern [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 increasingly complement [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
-
-## Sensitivity to Environmental Change
-Lichens are widely recognized as bioindicators of environmental quality.
-Their reliance on atmospheric sources of moisture and nutrients makes
-them exceptionally sensitive to air pollution, particularly sulfur
-dioxide and nitrogen compounds. Many species show clear distributional
-responses to pollution gradients, declining or disappearing in areas
-with poor [[cervantes-air-quality-ventilation]] and recovering as conditions improve. Climate
-change is also affecting lichen distributions, with range shifts
-documented for numerous species. Their slow growth rates make them
-integrators of long-term conditions.
-
-## Human Uses of Lichens
-Humans have utilized lichens for millennia. Traditional uses include
-dyes (Orcein from Roccella, cudbear from Ochrolechia), food (Iceland
-moss as a tonic and thickener), and medicine. Modern applications include
-perfume fixatives (oakmoss), fermentation starters in Asian cuisines,
-and biomonitoring programs. Lichens contribute to soil formation through
-weathering of rock surfaces, making them pioneer organisms in primary
-succession. Their ecological importance far exceeds their modest biomass.
-
-- [[lichen-symbiosis-mechanisms-photobiont-selection]]
-- [[lichen-biodiversity-sampling-protocols-data-analysis]]
-- old-growth-forest-fungi-conservation
-## See Also
-- [[biodiversity-lichenized-fungi-symbiosis]]
-- [[lichenicolous-fungi]]
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
-- [[biodiversity-endolithic-fungi]]
-- [[rock-inhabiting-oligotrophic-extremophilic-fungi]]

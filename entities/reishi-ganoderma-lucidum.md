@@ -12,12 +12,12 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Paterson, R.R.M. (2006). Ganoderma – A therapeutic fungal biofactory. Phytochemistry, 67(18), 1985–2001."
-  - "Boh, B., Berovic, M., et al. (2007). Ganoderma lucidum and the lingzhi mushroom. Acta Pharmaceutica, 57(1), 1–15."
+  - "Boh, B., Berovic, M., et al. (2007). [[ganoderma-lucidum]] and the lingzhi mushroom. Acta Pharmaceutica, 57(1), 1–15."
   - "Chen, S., et al. (2022). Ganoderma lucidum: A comprehensive review of its immunomodulatory activities. Journal of Ethnopharmacology, 292, 115074."
   - "Wang, J., et al. (2021). Anticancer effects of Ganoderma lucidum polysaccharides and triterpenoids. Frontiers in Pharmacology, 12, 640257."
   - "Liu, Y.T., et al. (2019). Cultivation of Ganoderma lucidum – A review. Molecules, 24(21), 3900."
   - "Cao, L.Z., & Lin, Z.B. (2004). Regulation on maturation and function of dendritic cells by Ganoderma lucidum polysaccharides. Immunology Letters, 91(1), 35–41."
-  - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press."
+  - "Stamets, P. (2000). [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press."
 ---
 
 # Reishi (*[[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.
@@ -51,7 +51,7 @@ Reishi is a **shelf fungus** (bracket fungus) with a distinctive fan or kidney-s
 - Exhibit anti-inflammatory, hepatoprotective, antihypertensive, and anti-tumor properties.
 
 ### Other Compounds
-- **Ganoderan** (peptidoglycan), **ergosterol**, **cordycepin** (trace amounts), **nucleosides** (adenosine, guanosine), **sterols** (ergosterol, cerevisterol), and trace minerals (germanium, selenium, zinc).
+- **Ganoderan** (peptidoglycan), **ergosterol**, **cordycepin** (trace amounts), **nucleosides** (adenosine, guanosine), **sterols** (ergosterol, cerevisterol), and [[dynamic-accumulator-plants-trace-minerals]] (germanium, selenium, zinc).
 
 ## Modern Research
 
@@ -63,7 +63,7 @@ Reishi polysaccharides demonstrate potent immunomodulatory effects across in vit
 - Enhancement of NK cell cytotoxicity against virus-infected and tumor cells.
 - Promotion of dendritic cell maturation and antigen presentation capacity.
 - Biphasic regulation: stimulates immune response in immunocompromised states while modulating hyperactive responses (potential in [[cannabis-autoimmune-conditions-detailed]]).
-- Clinical trials show increased CD4+ T-cell counts and reduced chemotherapy side effects.
+- [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] show increased CD4+ T-cell counts and reduced chemotherapy side effects.
 ### Anticancer Properties
 
 - **Direct antitumor effects**: Ganoderic acids induce apoptosis and cell cycle arrest in breast, prostate, lung, colorectal, and hepatocellular carcinoma lines via caspase activation, ROS generation, and inhibition of PI3K/Akt/mTOR and NF-κB pathways.
@@ -72,7 +72,7 @@ Reishi polysaccharides demonstrate potent immunomodulatory effects across in vit
 - **Chemotherapy adjuvant**: Improves quality of life, reduces fatigue and nausea during conventional treatment. Large-scale RCTs remain limited.
 
 ### Other Therapeutic Areas
-- **Neuroprotective**: Reduces neural oxidative stress; investigated for Alzheimer's and Parkinson's.
+- **Neuroprotective**: Reduces neural [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]; investigated for Alzheimer's and Parkinson's.
 - **Cardiometabolic**: Lowers blood pressure, cholesterol, and blood glucose in animal and preliminary human studies.
 - **Hepatoprotective**: Reduces liver fibrosis; protects against chemically induced injury.
 - **Anti-fatigue**: Improves endurance and reduces exercise-induced oxidative damage.
@@ -87,18 +87,4 @@ Reishi polysaccharides demonstrate potent immunomodulatory effects across in vit
 
 ### Submerged (Liquid) Fermentation
 - **Substrate**: Liquid nutrient broth (glucose, peptone, minerals). Bioreactor cultivation at 25–28°C for 5–10 days.
-- Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]; produces mycelial biomass and extracellular polysaccharides.
-- **Limitation**: Lower triterpene concentrations than fruiting body cultivation.
-
-### Solid-State (Bag) Cultivation
-- **Substrate**: [[oyster-mushroom-supplemented-sawdust-blocks]] (oak, maple) with bran and gypsum.
-- Sterilized bags inoculated, incubated 30–60 days; fruiting induced by environmental controls.
-- **Advantages**: Higher yield per area, shorter cycle, scalable.
-
-### Dual Extraction
-Sequential water extraction (90–100°C, 2–3 hrs) followed by ethanol extraction captures both polysaccharides and triterpenes.
-
-## Permaculture Applications
-
-- **[[chaga-inonotus-obliquus-medicinal-profile]] — Chaga, another prominent [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
-- [[turkey-tail-trametes-versicolor]] — Turkey Tail, rich in PSK/PSP polysaccharides
+- Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]; produces [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] and extracellular polysaccharides.

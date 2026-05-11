@@ -9,12 +9,12 @@ tags: [ethnobotany, entheogens, consciousness, history]
 
 ## Overview
 
-Tabernanthe iboga is a small shrub native to the rainforests of West
+[[tabernanthe-iboga]] is a small shrub native to the rainforests of West
 Central Africa, particularly Gabon, Cameroon, and the Republic of the
 Congo. Its [[iboga-root-bark-preparation]] contains the powerful psychoactive alkaloid
 ibogaine, a compound belonging to a pharmacological class entirely
 distinct from the tryptamines and beta-carbolines. In *Food of the
-Gods*, Terence McKenna presents iboga as one of the most important
+Gods*, [[terence-mckenna]] presents iboga as one of the most important
 yet understudied entheogenic plants, pointing to its central role in
 the religious and social life of the Fang people of Gabon and the
 Bwiti initiation cult that spread across Central Africa.
@@ -58,7 +58,7 @@ brought it to her people, and its use spread rapidly.
 
 Traditional Fang iboga use was embedded in an egalitarian social
 context. Unlike patrilineal, hierarchical societies adopting alcohol,
-Fang society was characterized by flat structures, gender equality, and
+[[entheogen-bwiti-iboga-initiation-fang-society]] was characterized by flat structures, gender equality, and
 communal decision-making. McKenna argues this is not coincidental —
 the nature of one's chosen intoxicant profoundly shapes social
 organization.
@@ -79,7 +79,7 @@ The ceremony occurs in a specially constructed "aban" temple decorated
 with symbolic imagery.
 
 Bwiti cosmology centers on Nzame, the supreme being who created the
-world and withdrew. Beneath Nzame are ancestors, nature spirits, and
+world and withdrew. Beneath Nzame are ancestors, [[tompkins-findhorn-garden-devas-nature-spirits]], and
 the spirit of iboga itself — a maternal figure guiding the initiate.
 Christian elements, particularly Jesus as an initiate who journeyed to
 the land of the dead, are woven into this framework, creating a
@@ -88,54 +88,3 @@ synthesis both distinctively African and open to universal truth.
 ## Egalitarian Sexual Politics vs. Patrilineal Alcohol Cultures
 
 One of McKenna's most provocative arguments concerns the relationship
-between intoxicant choice and social organization. He contrasts the
-egalitarian sexual politics of iboga-using Fang society with the
-patriarchal structures of African societies that adopted alcohol.
-
-Among the Fang, women participate fully in religious life. Female
-initiates undergo the same ceremonies and can achieve spiritual
-authority. The Bwiti temple is conceived as a womb, and the iboga
-experience is described in terms emphasizing birth, rebirth, and the
-maternal principle. This contrasts sharply with alcohol cultures,
-which McKenna argues reinforce male dominance, patrilineal inheritance,
-and hierarchy.
-
-He extends this argument globally: societies built around entheogenic
-plants tend toward egalitarianism, [[holmgren-gender-balance-and-sustainability]], and ecological
-awareness. Societies adopting alcohol tend toward hierarchy, patriarchy,
-and environmental exploitation. This reflects fundamentally different
-effects on human consciousness and social behavior.
-
-## Ibogaine's Anti-Addictive Properties
-
-Modern research confirms what Bwiti practitioners have known for
-generations: ibogaine has remarkable anti-addictive properties. A
-single large dose can dramatically reduce withdrawal symptoms and
-cravings for opioids, cocaine, alcohol, and other substances, with
-effects lasting weeks, months, or years.
-
-The mechanism involves multiple pathways. Ibogaine metabolizes into
-noribogaine, acting on serotonin, dopamine, and opioid receptors
-simultaneously. It appears to "reset" the brain's reward pathways,
-interrupting neurochemical addiction patterns. The visionary
-experience may also allow addicts to confront psychological roots of
-dependency in ways conventional therapy cannot.
-
-## Iboga as a Non-Psilocybin Entheogenic Tradition
-
-Iboga is significant for its pharmacological uniqueness and what it
-represents culturally. It is a major entheogenic tradition developing
-independently of the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] cults of Mesoamerica and
-ayahuasca traditions of Amazonia. Its survival into the modern era
-demonstrates the resilience of humanity's impulse to seek
-transcendence through plant medicines.
-
-## See Also
-
-- Bwiti religion and Central African spiritual traditions
-- Ibogaine therapy and addiction treatment
-- Entheogens and social organization
-- Ayahuasca and tryptamine-based traditions
-- [[entheogen-bwiti-iboga-initiation-fang-society]]
-- [[mckenna-food-gods-ibogaine-bwiti-fang]]
-- [[iboga-and-the-bwiti-cult-initiation]]

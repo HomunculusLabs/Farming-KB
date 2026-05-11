@@ -3,6 +3,7 @@ title: green cannabis lighting guide Guide - Greg Green's green-cannabis-grow-bi
 created: 2026-04-26
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
 tags: [cannabis]
@@ -87,61 +88,3 @@ systems.
 | Lamp Type  | Watts | Lumens  |
 |------------|-------|---------|
 | MV         | 175   | 8,000   |
-| MH         | 400   | 36,000  |
-| HPS        | 600   | 45,000  |
-| HPS        | 600   | 36,000  |
-
-Note: Two HPS 600W lights can produce different lumens. The higher
-lumens kit is better quality. Check lumens when buying -- it is a good
-indicator of how professional the light is.
-
-### Lumens Guidelines
-
-- **Minimum:** 2,500 lumens even for one plant
-- **Target:** 45,000+ lumens
-- **One 45,000 lumen light** covers roughly 3ft x 3ft (9 sq ft)
-- **9 sq ft** fits approximately 6-9 plants
-- **For 4 plants:** Aim for 45,000 lumens (600W HID)
-- **For pumping up:** 60,000 lumens (1000W HID)
-- **Maximum bulb:** 1,000W. Use multiple 1K bulbs for larger areas
-- **Do not exceed:** 4,000W bulbs -- they bleach cannabis and are
-  extremely hot
-- **General rule:** When in doubt, buy a 400W HPS or better
-- **Budget option:** 250W HPS can produce good-sized buds
-
-### Light Costs
-
-HID kits range from $220-$700 for a full kit. A 600W HPS kit should
-cost about $250. This is money well spent for great plants with big
-buds.
-
-## Buying Checklist
-
-1. **Certified** and in good shape
-2. **Air-cooled** preferred (has built-in fan, needs venting)
-   - Air-cooled lights last longer and don't heat grow area
-   - Non-air-cooled requires wall vent and fan for temperature control
-3. **Support system:** Ceiling hooks/chains or light stand
-4. **Electrical fittings:** Check plugs, adapters, extension cords
-5. **Bulb compatibility:** 600W HPS system = 600W HPS bulbs only
-6. **Switchable ballast:** Some kits accept both MH and HPS bulbs
-7. **Warranty/guarantee:** Check manufacturer terms
-8. **Wattage and lumens:** Most important spec
-
-## Getting the Most from Your Light
-
-### Reflectors
-
-The reflector can cause a difference in lumens between two systems
-using the same bulb. Good reflectors direct light down to plants.
-Poor reflectors waste light. Reflectors should be white or polished
-metal only. Remove any green plastic film on reflector interiors.
-
-### Wall Reflection
-
-**CRITICAL: Do NOT use mirrors or shiny tin foil.** Mirrors absorb
-light -- only a small amount is reflected back. What you need is
-
-## See Also
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
-- [[cannabis-lighting-guide]]

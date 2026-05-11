@@ -87,32 +87,3 @@ White poplar is easily propagated from hardwood cuttings, softwood cuttings, and
 Growth rates are rapid, with young trees capable of adding 1.5–2.5 m in height per year under favorable conditions. The species coppices vigorously and can be managed for [[dighton-fungal-biomass-production-aquatic-ecosystems]] on short rotation cycles of 3–5 years.
 
 The primary management challenge in cultivation is controlling root suckering. Unchecked suckering can produce dense thickets extending 10–20 m from the parent tree. Root barriers and regular removal of suckers are necessary for landscape maintenance.
-
-Male clones are preferred in urban planting because they do not produce the cottony seed masses that can cause nuisance litter. The 'Pyramidalis' cultivar is particularly valued for its narrow columnar form, which suits confined urban spaces.
-
-Wood is light and soft, with a specific gravity of approximately 0.40. It is used for pulpwood, crates, and rough carpentry. The species has been investigated as a short-rotation bioenergy crop due to its rapid growth and coppicing ability.
-
-Biomass yields of 8–15 tonnes per hectare per year have been reported in European trials. The wood has relatively low energy density compared to conifers but produces clean-burning fuel with low ash content, making it suitable for residential wood [[clay-seed-pellet-production-method-concrete-mixer]].
-
-In traditional medicine, bark preparations were used as an antipyretic and anti-inflammatory. Leaf extracts have demonstrated antioxidant and antimicrobial activity in laboratory studies.
-
-The bark contains salicin and related phenolic glycosides, compounds related to the active ingredient in aspirin. Traditional use of white poplar bark for fever and pain relief parallels the ethnobotanical use of other Salicaceae species throughout Eurasia.
-
-Invasive populations in North America are managed through mechanical removal, herbicide application, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research. The species is listed as a noxious weed in Connecticut, Massachusetts, and Vermont.
-
-Complete eradication is difficult because of the extensive root sucker network. Cutting alone stimulates vigorous resprouting, so herbicide treatment of cut stumps is recommended. Integrated management combining mechanical removal with follow-up herbicide application over multiple years yields the best long-term control results.
-
-## See Also
-
-- [[populus-tremuloides]]
-- [[populus-deltoides]]
-- [[populus-nigra]]
-- [[populus-balsamifera]]
-- [[salix-alba]]
-- [[salix-nigra]]
-- [[salix-babylonica]]
-- [[acer-saccharum]]
-- [[betula-pendula]]
-- [[platanus-occidentalis]]
-- [[fagus-sylvatica]]
-- [[quercus-robur]]

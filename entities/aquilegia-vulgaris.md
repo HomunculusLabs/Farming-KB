@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Aquilegia vulgaris, commonly known as common columbine or European columbine, is a herbaceous perennial in the Ranunculaceae family. It is native to Europe and naturalized across temperate regions worldwide.
+Aquilegia vulgaris, commonly known as common columbine or European columbine, is a herbaceous perennial in the Ranunculaceae family. It is native to Europe and naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is characterized by its nodding, bell-shaped flowers with five spurred petals in shades of blue, purple, pink, and white. The distinctive spurred nectaries are a hallmark of the genus Aquilegia.
 
@@ -33,13 +33,13 @@ The common name "columbine" derives from the Latin "columbina" (dove-like), as t
 
 **Classification:** Kingdom Plantae → Order Ranunculales → Family Ranunculaceae → Genus Aquilegia → Species A. vulgaris.
 
-The species was described by Carl Linnaeus in 1753. Aquilegia comprises approximately 70 species distributed across the northern hemisphere, with centers of diversity in North America and central Asia.
+The species was described by Carl Linnaeus in 1753. Aquilegia comprises approximately 70 species distributed across the northern hemisphere, with centers of diversity in [[guzman-psilocybin-mushrooms-north-america]] and central Asia.
 
 Basal leaves are biternate, glaucous green, and held on long petioles. Leaflets are deeply lobed with rounded teeth, giving a delicate, ferny appearance.
 
 Stem leaves are smaller and less divided, clasping the flowering stem. Stems are branched, bearing multiple pendant flowers on thin pedicels.
 
-Flowers are 3–5 cm across with five sepals and five spurred petals. The spurs are short and hooked in A. vulgaris, distinguishing it from the long-spurred North American species.
+Flowers are 3–5 cm across with five sepals and five spurred petals. The spurs are short and hooked in A. vulgaris, distinguishing it from the long-spurred [[growing-gourmet-north-american-reishi-species]] species.
 
 Fruit is a follicle with five beaked segments, splitting open to release numerous small black seeds. Seeds require light for germination and are typically surface-sown.
 
@@ -57,11 +57,11 @@ Aquilegia vulgaris is often found in association with calcareous substrates, tho
 
 In Britain it is a familiar wildflower of limestone woods and railway banks, often persisting long after gardens have been abandoned. Naturalized populations show considerable flower color variation.
 
-The species is classified as a hemicryptophyte, dying back to a rootstock in winter. Fresh basal growth emerges in early spring, with flowering occurring from May to July.
+The species is classified as a hemicryptophyte, dying back to a rootstock in winter. Fresh basal growth emerges in [[coleman-overwintered-onions-and-early-spring-crops]], with flowering occurring from May to July.
 
 Elevational range extends from lowland to approximately 1,900 meters in montane woodlands. The species is absent from the Mediterranean lowlands where summer drought limits its survival.
 
-In North America it has naturalized in the northeastern states and Pacific Northwest, where it hybridizes with native Aquilegia species. This hybridization has raised conservation concerns in some areas.
+In North America it has naturalized in the northeastern states and [[psilocybin-north-america-pacific-northwest]], where it hybridizes with native Aquilegia species. This hybridization has raised conservation concerns in some areas.
 
 ## Cultivation
 
@@ -73,7 +73,7 @@ The species self-seeds prolifically, producing volunteer seedlings throughout th
 
 Notable cultivars include 'Nivea' (white), 'William Guinness' (deep purple-black with white corolla), and the various Nora Barlow double-flowered forms. The var. stellata (star columbine) has distinctive spurless flowers.
 
-Columbine is relatively pest-free, though leaf miners can disfigure the foliage in midsummer. The damaged foliage can be cut back to produce a fresh flush of leaves.
+Columbine is relatively pest-free, though [[leaf-miners-cannabis]] can disfigure the foliage in midsummer. The damaged foliage can be cut back to produce a fresh flush of leaves.
 
 Plants are relatively short-lived perennials, typically persisting 3–4 years. However, self-seeding ensures a continuing presence in the garden.
 
@@ -88,34 +88,3 @@ Honeybees also visit columbine flowers but are generally too small to access the
 Columbine is a larval food plant for several moth species, including the dotted chestnut and small fan-foot. The cyanogenic glycosides deter most generalist herbivores.
 
 The foliage is rarely browsed by deer or rabbits, making columbine useful in gardens with heavy wildlife pressure. Slugs may damage emerging spring growth but generally leave mature plants alone.
-
-In naturalized settings, Aquilegia vulgaris provides early summer nectar for a wide range of pollinators. The open flower form also allows access for smaller bees and hoverflies.
-
-The species hybridizes freely with other Aquilegia in cultivation, creating complex hybrid swarms. This propensity has been exploited by plant breeders to create the complex garden hybrids available today.
-
-## Toxicity
-
-All parts of Aquilegia vulgaris contain cyanogenic glycosides, particularly in the seeds and roots. Ingestion can cause nausea, vomiting, diarrhea, and heart palpitations in severe cases.
-
-The plant has been used in traditional European folk medicine as an astringent and diuretic. These medicinal uses are not supported by modern clinical evidence and are discouraged due to toxicity.
-
-In medieval herbalism, columbine was associated with the Holy Spirit due to the dove-like appearance of the inverted flowers. It appeared frequently in illuminated manuscripts and monastery garden plans.
-
-Handling the sap may cause mild skin irritation in sensitive individuals. Gardeners should wear gloves when collecting seeds or dividing plants.
-
-Despite its toxicity, columbine was historically consumed in small quantities as a salad green in some European regions. This practice has been abandoned in modern times.
-
-The plant has also been used as a source of natural dyes, producing a greenish-yellow color from the leaves and flowers.
-
-## See Also
-
-- [[aquilegia-canadensis]]
-- [[delphinium-consolida]]
-- [[ranunculus-acris]]
-- [[clematis-vitalba]]
-- [[nigella-damascena]]
-- [[anemone-nemorosa]]
-- [[helleborus-niger]]
-- [[eranthis-hyemalis]]
-- [[thalictrum-aquilegiifolium]]
-- [[aconitum-napellus]]

@@ -88,37 +88,3 @@ An interesting and unexpected observation was that brassinosteroid-treated fruit
 Several methods are known to accelerate fruiting in [[accessible-mushroom-cultivation-for-disabilities]]. The brassinosteroid approach can be compared to these alternatives:
 
 | Method | Time Saved | Yield Impact | Mechanism | Complexity |
-|--------|-----------|-------------|-----------|------------|
-| Brassinosteroid (10⁻² ppm) | 1–2 weeks | +48–70% dry mass | Hormonal stimulation | Low (add to substrate) |
-| Cold shock | Variable | Variable | Temperature stress | Very low (refrigerator) |
-| Optimized temperature cycling | 3–7 days | +10–20% | Metabolic priming | Moderate |
-| Enhanced FAE | 3–5 days | +10–30% | CO₂ reduction | Moderate |
-| Light manipulation | 2–5 days | +5–15% | Phototropic trigger | Low |
-
-The brassinosteroid effect stands out for combining significant time savings with substantial yield improvement, while requiring minimal operational complexity. Unlike cold shock or environmental manipulation, brassinosteroid treatment is applied once at substrate preparation and requires no ongoing management.
-
-## Historical and Scientific Context
-
-The Gartz (1990) paper was published in *Naturwissenschaften* and represents one of the earliest documented studies of brassinosteroid effects on fungi. At the time of publication, about 30 brassinosteroid members had been identified across higher plants, but no studies on their occurrence or [[phytohormone-activity-in-fungi-steroid-growth-regulation]] had been published. The study noted that "promising results in the application of such compounds to produce higher crop yields and anti-stress effects have also been reported" in plant science, and the extension to fungal systems was a logical but previously unexplored avenue.
-
-The specific compound used, 22S,23S-homobrassinolide, was synthesized from stigmasterol by Adam and Marquardt (1986). This synthetic route from a readily available plant sterol made the compound accessible for experimental use, though large-scale production would require further development for commercial agricultural or mycological application.
-
-## Potential for Commercial Application
-
-The commercial viability of brassinosteroid-enhanced mushroom cultivation depends on several factors:
-
-- **Cost of compound**: 22S,23S-Homobrassinolide synthesis from stigmasterol is a multi-step chemical process. However, the extremely low effective concentration (0.01 ppm) means that very small quantities are needed per unit of substrate, potentially making treatment cost negligible relative to substrate and labor costs.
-- **Regulatory status**: Brassinosteroids are registered as plant growth regulators in some jurisdictions. Their use in mushroom cultivation would require separate regulatory evaluation for food safety.
-- **Reproducibility**: The ten-replicate design of the original study provides reasonable confidence in reproducibility, but independent confirmation by other research groups would strengthen the case for commercial adoption.
-- **Intellectual property**: As a NASA-era publication (1990), the original findings are in the public domain, removing one barrier to commercial development.
-
-## See Also
-
-- [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]
-- mushroom-flush-dynamics-variation-fruiting-cycles
-- [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
-- [[brassinosteroid]]
-- [[homobrassinolide]]
-- [[fruiting-body-development]]
-
-- [[psilocybin-psilocin-biosynthetic-timing-first-flush-absence]]

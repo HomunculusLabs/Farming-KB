@@ -27,7 +27,7 @@ in greenhouses and flower beds, requiring more completely fermented
 compost and higher temperature. *A. placomyces* is a woodland species
 found from early summer until late fall, with a large, flat, thin cap.
 *A. silvicola*, an inhabitant of woods, is almost pure white.
-The commercial [[agaricus-bisporus]] (button mushroom) is the most
+The commercial [[agaricus-bisporus]] ([[growing-gourmet-button-mushroom-agaricus-cultivation]]) is the most
 widely cultivated fungus worldwide, descended from wild Agaricus
 species originally foraged in open fields and meadows.
 
@@ -35,7 +35,7 @@ species originally foraged in open fields and meadows.
 
 The genus *Coprinus* is characterized by the deliquescence of gills
 and other parts to an inky black liquid when fully mature.
-*C. comatus*, the Shaggy Mane, is often 6 to 8 inches tall and
+*C. comatus*, the [[growing-gourmet-shaggy-mane-coprinus-cultivation]], is often 6 to 8 inches tall and
 considered one of the best fungi. *C. atramentarius*, the true Ink-Cap,
 is smaller and slaty gray, found in clusters about sidewalks.
 *C. micaceus* is smaller still, often covering several square feet
@@ -75,7 +75,7 @@ The genus *Amanita* contains the most deadly poisonous species, but
 also some excellent edible ones. The identification of the volva (cup
 at the stem base) and annulus (ring on the stem) is essential.
 *A. phalloides* is the Death Angel, extremely poisonous.
-*A. muscaria* is the handsome Fly Agaric, also poisonous.
+*A. muscaria* is the handsome [[amanita-muscaria-fly-agaric-history-and-pharmacology]], also poisonous.
 *A. Caesarea*, the Royal Agaric, is regarded as a great delicacy but
 should be omitted by amateur collectors.
 
@@ -83,67 +83,8 @@ should be omitted by amateur collectors.
 
 *P. ostreatus*, the [[oyster-mushroom]], grows in clusters on decaying
 trunks and logs. The gills are strongly decurrent. It is found from
-early spring until frost. No species of *Pleurotus* are even suspicious,
+[[coleman-overwintered-onions-and-early-spring-crops]] until frost. No species of *Pleurotus* are even suspicious,
 though the flavor is not regarded as among the best. *P. ulmarius* has
 a more definite stem, and *P. sapidus* is distinguished by
 lilac-tinted spores.
-Oyster mushrooms are among the easiest edible fungi to cultivate at
-home. They grow readily on straw, [[oyster-mushroom-coffee-grounds-cultivation]], sawdust, and other
-lignocellulosic substrates, making them an excellent entry point for
-beginning mushroom cultivators.
-
-### Collybia and Lactarius
-
-*Collybia velutipes* occurs in clusters on stumps in late fall or
-early winter, with reddish brown caps and excellent flavor.
-*Lactarius* species yield a milky juice when cut. *L. deliciosus* is
-yellow buff with orange mottling and colored juice. *L. volemus* is
-brown orange with white juice. The related genus *Russula* lacks the
-milky juice and includes both edible and inedible species with white,
-greenish, violaceous, or red caps.
-
-(Section truncated for length.)
-
-## Nutritional Value of Edible Agarics
-
-Edible agaric mushrooms are nutritionally dense foods offering several
-health benefits:
-
-- **Protein content:** 20-35% of dry weight, containing all essential
-  amino acids, though limiting in methionine and cysteine
-- **B vitamins:** Rich in riboflavin (B2), niacin (B3), and folate
-- **Minerals:** Good sources of selenium, potassium, copper, and
-  phosphorus
-- **Beta-glucans:** Soluble dietary fibers that modulate immune
-  function and may help regulate blood cholesterol
-- **Low calorie:** Most cultivated agarics provide approximately
-  22 calories per 100 grams fresh weight
-- **Ergothioneine:** A unique antioxidant amino acid abundant in
-  mushrooms, linked to cellular protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-
-## Cultivation of Edible Agarics
-
-The history of agaric cultivation stretches back centuries and continues
-to evolve with modern techniques:
-
-### Traditional Methods
-
-- **Mushroom houses:** Controlled-environment structures using
-  fermented horse manure compost as substrate
-- **Log cultivation:** [[query-difference-between-shiitake-and-oyster-mushrooms]] mushrooms grown on
-  hardwood logs inoculated with spawn
-- **Bed cultivation:** Outdoor raised beds using composted materials,
-  traditional in [[european-mushroom-poisoning-history]] growing
-
-### Modern Innovations
-
-- **Spawn technology:** Pure culture spawn production using grain,
-  sawdust, or [[query-how-to-make-liquid-culture-for-mushroom-cultivation]] reliable inoculation
-- **Controlled environment agriculture:** Climate-controlled growing
-  rooms optimizing temperature, humidity, CO2, and light
-- **Alternative substrates:** Agricultural waste streams including
-  straw, coffee grounds, and sawdust pellets
-- **Indoor kits:** Pre-inoculated substrate blocks enabling home
-## See Also
-
-- [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]
+[[cultivation-of-oyster-mushrooms]] are among the easiest edible fungi to cultivate at

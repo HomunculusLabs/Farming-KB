@@ -1,5 +1,5 @@
 ---
-title: Reversed reversed phase hplc psilocybin psilocin quantification bigwood beug Quantification of Psilocybin and Psilocin in Bigwood and Beug 1982
+title: Reversed Phase Hplc Psilocybin Psilocin Quantification Bigwood Beug
 tags:
   - HPLC
   - reversed-phase
@@ -38,7 +38,7 @@ mobile phase is a polar solvent mixture, typically water and an organic modifier
 The phosphate group on psilocybin makes it substantially more polar than psilocin, resulting in earlier elution from the reversed-phase
 column. This polarity difference produces clean baseline separation between the two compounds, allowing unambiguous identification and
 quantification of each peak in the chromatogram. The ability to resolve psilocybin and psilocin as separate peaks was essential for the
-study because the two compounds follow entirely different accumulation patterns across flushes.
+study because the two compounds follow entirely different [[psilocybin-psilocin-flush-accumulation-patterns]] [[psilocin-accumulation-pattern-across-flushes]].
 
 Quantification was performed using a Hewlett-Packard 8380A reporting integrator-plotter, which provided both digital peak area measurements
 and analog chromatographic tracings for visual inspection and permanent record-keeping. This instrument was state-of-the-art for early 1980s
@@ -88,12 +88,3 @@ The relationship between analytical precision (10% repeatability) and biological
 the study design. The signal-to-noise ratio was approximately 30:1 to 100:1, meaning that biological variation overwhelmed analytical
 variation by one to two orders of magnitude. This favorable ratio allowed Bigwood and Beug to draw confident conclusions about genuine
 differences between flushes, strains, and sources without needing to account for significant measurement uncertainty.
-
-## Historical Significance in Fungal Alkaloid Analysis
-
-The Bigwood and Beug analytical protocol represents one of the earliest systematic applications of reversed-phase HPLC to the study of
-flush-by-flush alkaloid variation in cultivated [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. The use of NIDA-calibrated standards, the documentation of linear
-range and detection limits, and the TLC confirmation step established methodological precedents that subsequent researchers in
-[[hplc-analysis-of-tryptamine-alkaloids]]
-- [[psilocybin-psilocin-chemistry]]
-- bigwood-beug-psilocybin-psilocin-variation-analysis

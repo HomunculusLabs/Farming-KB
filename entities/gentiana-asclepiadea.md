@@ -60,7 +60,7 @@ The species inhabits damp woodland margins, stream banks, and subalpine meadows.
 
 Plants prefer humus-rich, moist, well-drained soils in partial to full shade. Unlike most gentians, it tolerates acidic conditions and grows well under deciduous trees.
 
-The species associates with mycorrhizal fungi that enhance nutrient uptake. This relationship helps it thrive in the low-light, nutrient-poor soils of forest floors.
+The species associates with [[arbuscular-mycorrhizal-fungi]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]. This relationship helps it thrive in the low-light, nutrient-poor soils of forest floors.
 
 ## Cultivation
 
@@ -70,9 +70,9 @@ The species is hardy to USDA zones 4–8. It tolerates winter cold well but disl
 
 In hot climates, afternoon shade is essential to prevent leaf scorch. Plants may go dormant early if stressed by heat or drought.
 
-Propagation is by seed sown fresh in autumn, or by division in early spring. Division every 4–5 years rejuvenates congested clumps.
+Propagation is by seed sown fresh in autumn, or by division in [[coleman-overwintered-onions-and-early-spring-crops]]. Division every 4–5 years rejuvenates congested clumps.
 
-Plants require consistent moisture throughout the growing season. A mulch of leaf mold or compost helps retain moisture and mimic woodland conditions.
+Plants require consistent moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. A mulch of [[comparison-leaf-mold-composting-vs-hot-composting-method]] or compost helps retain moisture and mimic woodland conditions.
 
 The species has received the RHS Award of Garden Merit. Notable cultivars include 'Alba' (white flowers) and 'Shirley' (large, dark blue flowers).
 
@@ -87,34 +87,3 @@ Seedlings are slow-growing and may take 3–4 years to reach flowering size. Thi
 In its native range, the species is an important component of tall-herb communities. It grows alongside Aconitum, Delphinium, and Cirsium in subalpine meadow ecotones.
 
 The species is classified as Least Concern by IUCN. However, local populations have declined in some areas due to habitat loss and overcollection.
-
-Deer and grazing mammals avoid the bitter foliage. This chemical defense allows the species to persist in grazed woodlands where palatable species are suppressed.
-
-## Uses
-
-Gentiana asclepiadea has been used in European folk medicine for centuries. The roots are harvested in autumn and dried for use as a bitter tonic.
-
-Key phytochemicals include gentiopicroside, swertiamarin, and amarogentin. These iridoid glycosides stimulate gastric secretion and appetite.
-
-In traditional Swiss and Austrian herbalism, the root tincture was used to treat indigestion and liver complaints. The bitter flavor is considered one of the most intense in the plant kingdom.
-
-Modern pharmacological studies have confirmed anti-inflammatory and antioxidant properties. Extracts show moderate activity against Helicobacter pylori in vitro.
-
-The species is occasionally used in bitter liqueur production. However, it is less commercially important than Gentiana lutea for this purpose.
-
-Gentiana asclepiadea is primarily cultivated as an ornamental today. Its arching stems and late-summer flowers make it popular for woodland gardens.
-
-The cut flowers are long-lasting in arrangements. Their deep blue color provides a rare late-season accent in floral design.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-purpurea]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-cruciata]]
-- [[gentiana-acaulis]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[gentiana-verna]]
-- [[codonopsis-pilosula]]
-- [[lobelia-inflata]]

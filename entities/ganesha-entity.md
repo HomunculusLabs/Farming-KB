@@ -51,7 +51,7 @@ GANESHA (with methyls at both the 3 and 4 positions) and its phenethylamine coun
 
 GANESHA's tranquil, placid character distinguishes it from the more stimulating DOM. The "extremely tranquil" quality with "no hint of body toxicity" suggests a pharmacological profile with less sympathetic nervous system activation than many psychedelic amphetamines. This could reflect a different balance of receptor activities, possibly with less alpha-adrenergic or dopaminergic contribution relative to 5-HT2A agonism.
 
-The 3-position hydrogen hypothesis proposed by Shulgin is pharmacologically intriguing. If the 3-position hydrogen participates in a metabolic transformation that converts DOM to an active metabolite (perhaps through aromatic hydroxylation), then replacing this hydrogen with a methyl group would block this metabolic pathway, reducing the effective concentration of the active species.
+The 3-position hydrogen hypothesis proposed by Shulgin is pharmacologically intriguing. If the 3-position hydrogen participates in a metabolic transformation that converts DOM to an active metabolite (perhaps through aromatic hydroxylation), then replacing this hydrogen with a methyl group would block this [[gluconeogenesis-biochemistry-metabolic-pathway]], reducing the effective concentration of the active species.
 
 Alternatively, the 3-position methyl may alter the molecule's binding conformation at the 5-HT2A receptor, reducing intrinsic efficacy while maintaining affinity. This would be consistent with the compound's continued activity (it is not inactive, merely less potent than DOM) but with different qualitative characteristics.
 
@@ -88,27 +88,3 @@ The relationship between GANESHA and 2C-G is the most pharmacologically signific
 ## Legal Status
 
 GANESHA is not specifically scheduled in most jurisdictions. As a 2,5-dimethoxy-substituted amphetamine, it bears structural similarity to DOM (which is Schedule I in the US). Analogue legislation could potentially apply. The compound's extreme rarity and the difficulty of its synthesis have kept it largely unavailable outside of research contexts.
-
-## Cultural and Historical Significance
-
-The name GANESHA, drawn from the Hindu elephant-headed deity of wisdom and new beginnings, reflects the compound's place in the "Classic Ladies" series. The series as a whole represents one of the most systematic SAR studies ever conducted on psychedelic amphetamines, and GANESHA's unexpected equipotency with its phenethylamine counterpart 2C-G provided a fundamental insight that challenged prevailing assumptions in the field.
-
-The compound's tranquil, peaceful character -- "completely at peace, in a beautiful, benign, and placid place" -- has made it a subject of interest in discussions about the therapeutic potential of different psychedelic profiles. The absence of stimulation and body discomfort at moderate doses suggests a favorable profile for therapeutic applications where patient comfort is paramount.
-
-## References and Bibliography
-
-- Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-
-- Nichols, D.E. (2004). "Hallucinogens." Pharmacology & Therapeutics, 101(2), 131-181.
-
-- Shulgin, A.T. (1978). "Psychotomimetic amphetamines." Journal of Psychedelic Drugs.
-
-- Trachsel, D. (2013). "NH2: The Psychedelic Index." Mercury Press.
-
-## Related Compounds
-
-- [[2c-g-entity]] -- the phenethylamine analogue (similar potency)
-
-- [[aleph-1-entity]] -- ALEPH (PARA-DOT)
-
-- [[phenethylamine-pharmacology]] -- general pharmacology

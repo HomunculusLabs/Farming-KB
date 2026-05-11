@@ -14,7 +14,7 @@ type: concept
 The influence of magnetic fields on plant growth has been observed
 across centuries and cultures, from folk wisdom about planting seeds
 in particular orientations to modern scientific experiments with
-magnetized soil amendments. Research documented in The Secret Life of
+magnetized soil amendments. Research documented in The [[plant-communication-volatile-organic-compounds]]
 Plants reveals that plants are far more sensitive to magnetic forces
 than conventional agriculture has acknowledged.
 
@@ -28,7 +28,7 @@ two Russian researchers, A. V. Krylov and G. A. Tarakanova, showed
 that tomatoes ripen inexplicably faster nearer the south than the north
 pole of a magnet.
 
-In Canada, Dr. U. J. Pittman of the Agricultural Research Station in
+In Canada, Dr. U. J. Pittman of the [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Station in
 Lethbridge, Alberta, observed across the [[growing-gourmet-north-american-reishi-species]] continent that
 the roots of various domestic and wild cereal grains, as well as those
 of many weed species, consistently aligned themselves in a north-south
@@ -53,7 +53,7 @@ could stimulate plant growth.
 A metallurgist friend suggested magnetite, a useless ferrous ore with
 billions of tons of deposits accessible in nearby Wyoming. Cox ground
 the ore into powder, charged it in a magnetic field of undisclosed
-strength, mixed it with trace minerals, and sifted it into the soil of
+strength, mixed it with [[dynamic-accumulator-plants-trace-minerals]], and sifted it into the soil of
 a garden plot where it contacted the roots of red and white radishes.
 
 The results exceeded his wildest expectations. Not only were the
@@ -88,45 +88,3 @@ what the Elizabethan physicist William Gilbert called "its animate
 mother" -- the living earth.
 
 ## Historical Electroculture Experiments
-
-The broader history of electroculture -- the use of electrical and
-magnetic forces to stimulate plant growth -- extends back centuries.
-Selim Lemstrom, a Finnish professor, conducted extensive experiments
-in the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] showing that plants exposed to
-atmospheric electricity grew more vigorously. His work was published
-in 1902 and included observations that strawberries grown under
-electrical stimulation not only produced more abundantly but were
-sweeter and more flavorful.
-
-The French chemist Pierre Berthelot hypothesized that the continuous
-presence of electricity high in Alpine ranges accounts for the
-luscious growth of plants in very poor soil, a theory that, if
-simulated at sea level, might allow the cultivation of giant plants.
-
-John Nash Ott later suggested that the roots of plants grow downward
-partly to escape from cosmic radiation coming from the zenith, the
-point directly overhead, which penetrates through less atmosphere and
-is therefore more powerful than radiation arriving at other angles.
-
-## Scientific Debate and Skepticism
-
-Despite the impressive anecdotal results, the scientific community
-has remained skeptical of magnetoculture. Critics argue that the
-effects could be due to trace minerals in the magnetite ore rather
-than magnetism itself, or that the magnetic field merely improved
-soil structure and water retention. Cox himself acknowledged that the
-mechanism remained a mystery, stating: "No one knows how it functions
-any more than doctors know why aspirin has its effect."
-
-The connection between geomagnetic fields and plant growth continues
-to intrigue researchers. The earth's magnetic field varies across
-the planet's surface, and ancient agricultural traditions in many
-cultures oriented planting and harvesting practices according to
-magnetic or astronomical principles that modern science is only
-beginning to investigate.
-
-## See Also
-
-- [[plant-bioelectricity]]
-- [[tompkins-plant-roots-intelligence]] for root sensitivity
-- [[tompkins-photosynthesis-biophotons]] for biophoton research

@@ -36,7 +36,7 @@ individuals with a haploid set from each parent.
 Offspring may resemble the staminate parent, the pistillate parent,
 both, or neither, and considerable variation is to be expected. Traits
 may be controlled by a single gene or a combination of genes, resulting
-in further potential diversity. Imported cannabis strains usually
+in further potential diversity. Imported [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] usually
 exhibit great seedling diversity for most traits, and many types are
 discovered when growing from imported seed.
 
@@ -60,7 +60,7 @@ selection acts in a [[cervantes-breeding-program-design-goal-setting]].
 ## Controlled Pollination Techniques
 
 Controlled pollination is essential for maintaining and improving
-cannabis strains. Seeds from most imported strains represent varied
+[[purple-and-color-changing-cannabis-strains]]. Seeds from most imported strains represent varied
 genotypes resulting from random pollinations among many individuals.
 If random pollination occurs again, the population not only fails to
 improve but may degenerate through natural and accidental selection
@@ -88,44 +88,3 @@ As the pollen tube grows, the vegetative cell remains in the pollen
 grain while the generative cell enters the tube and migrates toward
 the ovule. The generative cell divides into two gametes as it travels
 the length of the pollen tube. Fertilization may take up to two days in
-cooler temperatures. After fertilization, the pistils wither as the
-ovule and surrounding calyx begin to swell. Seed matures in
-approximately 14 to 35 days.
-
-## Pollen Storage and Viability
-
-Pollen may be stored for short periods for later breeding use. The
-hard mature seed is partially surrounded by the calyx and is patterned
-in grey, brown, or black. Seeds are elongated and slightly compressed,
-measuring 2 to 6 millimeters in length and 2 to 4 millimeters in
-maximum diameter. Fresh seeds approach 100 percent viability, but
-viability decreases with age.
-
-## Data Collection for Breeding Programs
-
-Accurate record keeping is essential for successful plant breeding.
-Crosses among ten pure strains (ten staminate and ten pistillate
-parents) result in ten pure and ninety hybrid crosses. A systematic
-numbering system for each member of the breeding population prevents
-confusion. The single most important task in proper data collection
-is establishing undeniable credibility through careful documentation
-of crosses, phenotypes, and growth conditions.
-
-## The Role of Staminate Plants
-
-Many cultivators overlook the staminate plant, considering it useless
-or detrimental. However, the staminate plant contributes half of the
-genotype expressed in the offspring. Staminate plants must be allowed
-to mature, uninhibited, until their phenotypes can be determined and
-the most favorable individuals selected for breeding. Not only are
-staminate plants preserved for breeding, but they must be evaluated
-with the same rigor applied to pistillate selections.
-
-## See Also
-
-- [[cannabis-flowering-cycles]] for photoperiodic control of sexual
-  expression
-- [[cannabis-plant-anatomy]] for morphological features used in
-  selection
-- cannabis [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] for the biochemical traits
-  targeted in breeding programs

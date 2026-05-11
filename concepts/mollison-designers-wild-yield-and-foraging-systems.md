@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,29 +87,3 @@ management once established. Chestnuts, walnuts, hazelnuts, pecans, hickories,
 and almonds can be planted as extensive groves or integrated into broader
 agroforestry systems. Many nut species are long-lived and productive for
 decades or centuries with little more than occasional harvesting.
-
-Nut groves serve multiple functions beyond food production. They provide
-timber, wildlife habitat, [[cervantes-wind-protection-outdoor-cannabis]], and [[mollison-designers-water-purification-and-storage-principles]]
-creates multi-function water systems that produce food while managing water
-quality.
-
-## Integrating Forage into Landscape Design
-
-Wild yield systems should be deliberately woven into the overall landscape
-design rather than relegated to marginal areas. Foraging zones can serve as
-buffer strips between different land uses, as understory components of food
-forests, as part of [[mollison-designers-intensifying-small-farm-production]]
-plan. The key principle is that wild food production is a designed function,
-not an afterthought.
-
-## Summary
-
-> **Definition:** Wild yield and foraging systems are designed landscape
-> components that produce food with minimal human management through mushroom
-> cultivation on logs, wild greens zones, nut groves, berry hedgerows, and
-> aquatic food systems. These systems reduce labor inputs, increase food
-> security and biodiversity, and integrate with broader permaculture elements
-> including food forests, water systems, and [[permplant-willows-salix-erosion-control-fodder]] structures to
-> create multi-functional, self-maintaining food-producing landscapes.
-
-## See Also

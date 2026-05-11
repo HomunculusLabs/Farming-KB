@@ -88,28 +88,3 @@ chemical pesticides. Fungi also cause devastating plant diseases, threaten food
 security, and produce mycotoxins. In environmental management, fungi play
 important roles in bioremediation of contaminated soils, including accumulation
 of heavy metals and radionuclides.
-
-## Environmental Stress and Fungal Adaptation
-
-Fungi exhibit remarkable adaptations to environmental stress, inhabiting
-virtually every terrestrial and aquatic habitat on Earth. The R-C-S life history
-strategy framework (ruderal, combatitive, stress-tolerant) provides a useful
-model for understanding fungal community responses to environmental variation.
-
-## Integrating Fungal Ecology into Ecosystem Science
-
-Understanding fungal contributions to ecosystem processes requires integrating
-knowledge of fungal physiology, community ecology, and biogeochemistry.
-Molecular tools, isotope tracer techniques, and process-based models for scaling
-fungal activity are advancing our ability to predict how fungal communities will
-respond to environmental change.
-
-## Related Concepts
-
-- [[fungal-ecosystem-roles]]
-- [[fungal-decomposition-processes]]
-- [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-microaggregate-formation-and-soil-stability]]
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[fungal-radionuclide-accumulation-and-bioremediation]]
-- fungal-carbon-substrate-utilization-efficiency

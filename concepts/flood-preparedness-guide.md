@@ -9,11 +9,11 @@ sources: []
 
 # Flood Preparedness Guide
 
-Floods are the most common and costly natural disaster in the United States. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery. (see [[wildfire-preparedness-guide]]).
+Floods are the most common and costly natural disaster in the [[dmt-containing-plants-united-states-halpern]]. Homesteads near rivers, streams, low-lying areas, or in regions with intense rainfall are at elevated risk. Even areas far from waterways can experience flash flooding, storm surge, or localized flooding from overwhelmed drainage. This guide covers flood risk assessment, protection measures, evacuation, and recovery.
 
 ## Flood Risk Assessment
 
-Understanding your flood risk is the first step in preparation. (see [[earthworks-for-water-management]]).
+Understanding your flood risk is the first step in preparation.
 
 ### Risk Factors
 - **Flood zone classification:** Check FEMA flood maps (floodsmart.gov) for your property zone. Zones A and V are high risk; Zone X is moderate risk; Zones B and C are lower risk.
@@ -57,7 +57,7 @@ Understanding your flood risk is the first step in preparation. (see [[earthwork
 **Waterproofing:**
 - Apply waterproof sealant to foundation walls
 - Install backflow prevention valves on sewer lines to prevent floodwater from backing up into the house
-- Use water-resistant building materials (concrete, tile, closed-cell foam insulation) in flood-prone areas
+- Use water-resistant [[gadd-fungal-biodegradation-concrete-building-materials]] (concrete, tile, closed-cell foam insulation) in flood-prone areas
 - Raise electrical outlets and switches above projected flood levels
 
 ### Sandbagging Guide
@@ -117,7 +117,7 @@ In addition to standard emergency supplies, include:
 - Ensure livestock trailers are accessible and road-ready
 - Do not tie animals — they need freedom to seek higher ground
 - Provide access to elevated feed and fresh water
-- After flooding, check animals for injuries, foot rot, respiratory illness, and waterborne diseases
+- After flooding, check animals for injuries, foot rot, [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]], and waterborne diseases
 - Contaminated floodwater can carry bacteria, chemicals, and debris — do not allow animals to drink it
 
 ## Recovery After Flooding
@@ -131,7 +131,7 @@ In addition to standard emergency supplies, include:
 
 ### Cleanup
 - Pump out standing water as soon as possible (generator-powered pump if electricity is out)
-- Remove all wet materials (carpet, drywall, insulation, furniture) within 24-48 hours to prevent mold
+- Remove all wet materials (carpet, drywall, insulation, furniture) within 24-48 hours to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Disinfect all surfaces with a solution of 1 cup bleach per gallon of water
 - Run fans and dehumidifiers continuously
 - Document all damage with photos and video before cleanup for insurance
@@ -146,5 +146,5 @@ In addition to standard emergency supplies, include:
 
 ## Long-Term Flood Mitigation
 
-- Work with local agencies on watershed management and drainage improvements
+- Work with local agencies on [[ozier-pdc-hydro-cycle-and-watershed-management]] and drainage improvements
 - Consider relocating structures if flooding is frequent and severe

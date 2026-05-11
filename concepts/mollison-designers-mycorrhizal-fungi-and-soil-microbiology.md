@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -78,7 +79,7 @@ nitrate back to atmospheric N2 under waterlogged conditions, representing a
 nitrogen loss pathway. This is why good drainage in
 mollison-soil-gaseous-exchange-and-micro-sites.
 
-The implications for [[soil-food-web]] as a pyramid of feeding relationships:
+The implications for [[soil-foodweb]] as a pyramid of feeding relationships:
 
 1. **Primary producers**: Photosynthetic plants and algae (above ground and
    at the soil surface).

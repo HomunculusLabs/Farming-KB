@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Lobelia fulgens**, commonly known as Mexican lobelia or cardinal flower (though this name more often refers to Lobelia cardinalis), is a herbaceous perennial native to Mexico and Central America. It produces tall spikes of brilliant scarlet to deep red flowers that are among the most vivid reds in the plant kingdom.
+**Lobelia fulgens**, commonly known as Mexican lobelia or cardinal flower (though this name more often refers to [[lobelia-cardinalis]]), is a herbaceous perennial native to Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It produces tall spikes of brilliant scarlet to deep red flowers that are among the most vivid reds in the plant kingdom.
 
 The species is prized in ornamental horticulture for its dramatic vertical accent and ability to attract hummingbirds. It is commonly grown in bog gardens, pond margins, and perennial borders where consistent moisture is available.
 
@@ -63,7 +63,7 @@ It is often found growing alongside other moisture-loving species such as *Salvi
 
 In the Trans-Mexican Volcanic Belt, L. fulgens is a characteristic species of the zacatal (alpine meadow) community. These high-elevation grasslands experience frequent frost and occasional snowfall during winter months.
 
-The species has naturalized in parts of the southwestern United States and southern Europe where garden escapes have established along irrigation ditches and streams.
+The species has naturalized in parts of the southwestern [[dmt-containing-plants-united-states-halpern]] and southern Europe where garden escapes have established along irrigation ditches and streams.
 
 ## Cultivation
 
@@ -73,11 +73,11 @@ Hardiness is rated to USDA Zone 7 (−18 °C) with winter mulching. The crown sh
 
 In optimal conditions plants form vigorous clumps that expand 5–10 cm per year. Established clumps may produce 10–20 flowering stems simultaneously, creating a spectacular display of vertical red spires.
 
-Propagation is by seed sown on the surface in early spring at 18–22 °C. Seeds require light for germination, which occurs in 14–21 days. Basal cuttings in spring and division of established clumps are alternative methods.
+Propagation is by seed sown on the surface in [[coleman-overwintered-onions-and-early-spring-crops]] at 18–22 °C. Seeds require light for germination, which occurs in 14–21 days. Basal cuttings in spring and division of established clumps are alternative methods.
 
 The species hybridizes readily with Lobelia cardinalis, and many cultivated forms are of hybrid origin. Named cultivars include 'Queen Victoria' (dark bronze foliage) and 'Sparkle Devine' (compact habit).
 
-The popular garden hybrid × Lobelia speciosa combines the hardiness of L. cardinalis with the vibrant flower color of L. fulgens. This hybrid group has largely replaced the pure species in commercial horticulture.
+The popular garden hybrid × Lobelia speciosa combines the hardiness of L. cardinalis with the vibrant flower color of L. fulgens. This hybrid group has largely replaced the pure species in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
 
 ## Ecological Role
 
@@ -87,35 +87,4 @@ The pollen deposition mechanism is highly specialized. As a hummingbird probes t
 
 This precise pollen-placement mechanism promotes outcrossing between individual plants. Self-pollination is mechanically difficult because the stigma only becomes receptive after the pollen has been shed, a temporal separation known as protandry.
 
-In North American gardens, the flowers attract ruby-throated hummingbirds (Archilochus colubris) and are among the most reliable hummingbird attractants. Butterflies also visit the flowers but are less effective pollinators due to their shorter proboscises.
-
-The plant serves as a late-season nectar source when many other perennials have finished blooming. Flowering extends from July through October in cultivation.
-
-Individual flowers remain receptive for 3–5 days. Nectar production is highest in the morning, coinciding with peak hummingbird foraging activity. Each flower produces approximately 2–4 µL of dilute nectar with 15–20% sugar concentration.
-
-## Toxicity and Uses
-
-Like other Lobelia species, L. fulgens contains toxic alkaloids including lobeline and lobelanine. All parts of the plant are poisonous if ingested in quantity.
-
-Symptoms of poisoning include nausea, vomiting, diarrhea, and in severe cases, respiratory depression. Handling the sap may cause skin irritation in sensitive individuals.
-
-The alkaloid content is highest in the roots and seeds, with leaves containing moderate levels. Dried plant material retains toxicity for extended periods, making composting of garden waste advisable rather than ingestion by livestock.
-
-Despite toxicity, some Mexican indigenous groups used the plant cautiously in traditional medicine for respiratory complaints. However, its medicinal use is far less documented than that of Lobelia inflata.
-
-The primary modern use is ornamental. The species has been cultivated in European gardens since the early 1800s and remains popular in tropical and subtropical landscapes worldwide.
-
-It is particularly effective in mass plantings alongside water features, where the red flower spikes create dramatic reflections. The species is also used in cut-flower production, with stems lasting 5–7 days in arrangements.
-
-## See Also
-
-- [[lobelia-cardinalis]]
-- [[lobelia-siphilitica]]
-- [[lobelia-inflata]]
-- [[lobelia-erinus]]
-- [[lobelia-dortmanna]]
-- [[codonopsis-pilosula]]
-- [[platycodon-grandiflorus]]
-- [[campanula-lactiflora]]
-- [[phyteuma-spicatum]]
-- [[campanula-medium]]
+In [[growing-gourmet-north-american-reishi-species]] gardens, the flowers attract ruby-throated hummingbirds (Archilochus colubris) and are among the most reliable hummingbird attractants. Butterflies also visit the flowers but are less effective pollinators due to their shorter proboscises.

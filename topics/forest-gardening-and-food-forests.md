@@ -5,6 +5,7 @@ tags: [permaculture, food-forest, agroforestry, polyculture, guild-design, self-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - bill-mollison-permaculture-a-designers-manual.md
   - gaia-garden-plant-guilds.md
   - faires-forest-garden-design.md

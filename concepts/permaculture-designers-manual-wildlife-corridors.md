@@ -88,33 +88,3 @@ Insectary plantings within corridors provide nectar and pollen for
 parasitic wasps, hoverflies, and ladybirds.
 ### Pollination
 Corridors that connect natural habitat to agricultural areas support
-native pollinator populations. Bees, butterflies, moths, and other
-pollinators use corridor vegetation for nesting, foraging, and overwintering
-habitat. This reduces dependence on managed honeybee hives.
-### Gene Flow
- Corridors enable genetic exchange between isolated populations, maintaining
- genetic diversity and resilience. This is important for species with
- limited dispersal ability.
-### Microclimate Regulation
-Dense corridor vegetation moderates temperature extremes, reduces wind
-speed, and increases humidity in adjacent areas. This creates more
-favourable growing conditions for crops and livestock near corridors.
-## Key Principles
-1. **Connect, don't isolate:** Every corridor should link two or more
-   habitat patches
-2. **Multiple layers:** Design corridors with canopy, understorey, and
-   [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]
-3. **Native species first:** Use locally native plants adapted to local
-   soil and climate conditions
-4. **Multiple functions:** Every corridor should serve wildlife, shelter,
-   and production purposes
-5. **Maintain continuity:** Avoid gaps or breaks in corridor vegetation
-6. **Plan at landscape scale:** Most effective across property boundaries
-## See Also
-- [[permaculture-designers-manual-settlement-types]] - Settlement layout
-  and zoning
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - Windbreak and
-  corridor plant species
-- [[permaculture-designers-manual-pattern-application]] - Pattern language in design
-- [[permaculture-designers-manual-temperate-climate-design]] - Climate-specific
-  corridor strategies

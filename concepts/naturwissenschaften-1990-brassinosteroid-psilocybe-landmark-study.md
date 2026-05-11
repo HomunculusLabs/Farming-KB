@@ -42,7 +42,7 @@ This short communication, published in **Naturwissenschaften** (Springer-Verlag,
 - **G. Adam** — Institut für Biochemie der Pflanzen, Halle/S., Germany
 - **H.-M. Vorbrodt** — Institut für Biochemie der Pflanzen, Halle/S., Germany
 
-The collaboration bridged two East German research institutes: the biotechnology group in Leipzig, led by Gartz (who was already well known for his work on psychoactive mushrooms and their cultivation chemistry), and the plant biochemistry group in Halle, which brought deep expertise in brassinosteroid synthesis and structural characterization. This cross-institutional partnership was characteristic of the integrated research networks within the East German Academy of Sciences.
+The collaboration bridged two East German research institutes: the biotechnology group in Leipzig, led by Gartz (who was already well known for his work on [[ceremonial-shamanic-use-psychoactive-mushrooms]] and their [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]), and the plant biochemistry group in Halle, which brought deep expertise in brassinosteroid synthesis and structural characterization. This cross-institutional partnership was characteristic of the integrated research networks within the East German Academy of Sciences.
 
 ## Publication Context
 
@@ -62,13 +62,13 @@ Despite this growing body of plant literature, the fungal kingdom remained entir
 
 ## The Experimental Compound
 
-The study employed **synthetic 22S,23S-homobrassinolide**, a brassinosteroid analogue prepared from **stigmasterol** as a starting material. Homobrassinolide differs from brassinolide by the presence of an additional methylene group in the side chain (a C-28 homologue), making it one of the more accessible synthetic brassinosteroids for experimental use at the time.
+The study employed **synthetic 22S,23S-homobrassinolide**, a brassinosteroid analogue prepared from **stigmasterol** as a [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]. Homobrassinolide differs from brassinolide by the presence of an additional methylene group in the side chain (a C-28 homologue), making it one of the more accessible synthetic brassinosteroids for experimental use at the time.
 
-The use of a synthetic rather than naturally derived compound was significant: it allowed the researchers to control for purity and stereochemistry while testing the fundamental biological question of whether fungi could respond to brassinosteroid signaling at all. The stigmasterol-derived synthesis route was well-established in the Halle laboratory.
+The use of a synthetic rather than naturally derived compound was significant: it allowed the researchers to control for purity and stereochemistry while testing the fundamental biological question of whether fungi could respond to brassinosteroid signaling at all. The stigmasterol-derived [[four-hydroxyindole-psilocin-synthesis-route-shirota]] was well-established in the Halle laboratory.
 
 ## Key Findings
 
-The paper reported a **growth-promoting effect** of 22S,23S-homobrassinolide on mycelial cultures of *Psilocybe cubensis*. When applied to the fungal cultures, the brassinosteroid stimulated increased mycelial growth compared to untreated controls. This was a striking result because it demonstrated that:
+The paper reported a **growth-promoting effect** of 22S,23S-homobrassinolide on mycelial cultures of *Psilocybe cubensis*. When applied to the [[brassinosteroids-in-fungal-cultures]], the brassinosteroid stimulated increased [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] compared to untreated controls. This was a striking result because it demonstrated that:
 
 1. Fungal cells are capable of **perceiving and responding** to brassinosteroid molecules.
 2. The response was **growth-promoting**, paralleling the well-documented effects of brassinosteroids on plant cell elongation and division.
@@ -88,22 +88,3 @@ The paper, despite its brevity, raised several questions that would inform futur
 
 - Do fungi **biosynthesize** brassinosteroids endogenously, or are they solely responsive to exogenous sources from their environment or plant hosts?
 - What is the **molecular mechanism** of brassinosteroid perception in fungal cells? Do fungi possess receptor kinases analogous to the plant BRI1 receptor, or do they utilize entirely different recognition systems?
-- Could brassinosteroids or their analogues be used to **enhance yields** in cultivated mushroom species, representing a novel class of growth supplements for commercial mycology?
-- Are brassinosteroid-like compounds present in fungal fruiting bodies or mycelium as **undiscovered [[antifungal-secondary-metabolites-coprophilous-fungi]]** that have been overlooked in standard chemical screening?
-
-## Citation Context and Legacy
-
-As a short communication in a high-visibility journal, this paper served primarily as a **proof-of-concept** and catalyst for further investigation. It has been cited in discussions of:
-
-- Cross-kingdom signaling between plants and fungi
-- The broader question of whether classical plant hormones have functional analogues or receptors in non-plant organisms
-- The chemical ecology of *Psilocybe* species, within Gartz's wider body of work on psychoactive mushroom chemistry
-
-The study remains a frequently referenced milestone in mycochemical literature when discussing the overlap between plant and fungal steroid biochemistry. Its value lies not in providing comprehensive mechanistic answers, but in having been the **first to ask the question** in a rigorous, published context.
-
-## Related Topics
-
-- **Brassinosteroid biosynthesis** in plants and its potential parallels in fungi
-- **Steroid hormones in fungi** — including ergosterol and fungal-specific sterol pathways
-- **Phytohormone effects on fungi** — a broader area encompassing auxins, cytokinins, and other plant regulators tested on fungal systems
-- **Mycelial culture optimization** for both research and commercial cultivation

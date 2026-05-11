@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,60 +88,3 @@ Mollison describes several forage-based pig systems:
     crops to harvest fallen fruit and nuts
   - Crop residues: Post-harvest vegetable fields, fruit orchards
     with windfall fruit, and failed crop areas provide supplemental
-    forage, reducing waste and feed costs
-  - Compost access: Pigs can be allowed limited access to compost
-    piles, consuming kitchen scraps and garden waste while turning
-    the pile with their rooting activity
-
-## Rooting Behavior Management
-
-Rooting is natural pig behavior that serves important functions in
-permaculture systems: soil cultivation, weed control, pest reduction
-(grubs and soil insects), and site preparation for planting. However,
-uncontrolled rooting can be destructive. Mollison recommends managing
-rooting through:
-
-  - Time-controlled access: Limiting the duration pigs spend in any
-    one area to the desired level of soil disturbance
-  - Nose ringing: Traditional practice of inserting a ring through
-    the nasal septum to prevent deep rooting; controversial from an
-    animal welfare perspective and less recommended in modern systems
-  - Strategic placement: Directing rooting to areas where cultivation
-    is desired, such as future garden beds or pasture renovation zones
-  - Seasonal timing: Allowing deeper rooting in autumn for site
-    preparation, restricting access in spring when soils are wet and
-    easily compacted
-
-## Manure Cycling
-
-Pig manure is high in nitrogen and phosphorus, making it a valuable
-fertility source. In tractor systems, manure is distributed directly
-onto the land as pigs are moved. Management considerations:
-  - Stocking density: Avoid over-concentration of manure, which can
-    lead to nutrient leaching, pasture burn, and odor problems
-  - Composting: Manure from pig shelters should be composted with
-    carbon-rich bedding (straw, sawdust) before application to
-    food gardens to eliminate pathogens
-  - Integration with worm systems: Pig manure (aged, not fresh) can
-    feed vermiculture systems, creating a closed nutrient loop
-
-## Forest Pig Systems
-
-Silvopastoral pig systems integrate pigs with forestry or food forest
-plantings. Pigs forage on fallen fruit, nuts, acorns, and understory
-vegetation while controlling weeds and cycling nutrients through the
-system. Mollison describes European oak-pig systems (dehesa/montado)
-as a model, where pigs fatten on acorns beneath widely spaced oak
-trees, producing high-quality meat while maintaining the forest
-ecosystem. In tropical systems, pigs can be integrated with
-coconut, mango, and breadfruit plantings.
-
-## See Also
-
-- mollison [[mollison-designers-integrated-vermiculture-composting-systems]] animal systems
-- mollison designers silvopasture design
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- mollison-designers-duck-pond-integrated-systems
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[jerusalem-artichoke]]
-- [[bill-mollison]]

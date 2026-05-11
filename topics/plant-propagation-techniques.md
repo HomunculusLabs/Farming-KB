@@ -14,6 +14,7 @@ tags:
 date: 2026-04-29
 updated: 2026-04-29
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/concepts/plant-propagation-methods.md
   - ~/wiki/concepts/plant-propagation-techniques.md
   - ~/wiki/concepts/plant-propagation.md

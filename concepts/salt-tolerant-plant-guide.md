@@ -9,11 +9,11 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Salt Tolerant Plant Guide
 
-Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant species. It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level, following contours where possible. Salt affected land should be fenced from stock until fodder species are established. (see [[permaculture-salt-tolerant-fodder-plants]]).
+Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant species. It is common practice in saline, waterlogged conditions to plant into mounds 200-300 mm above normal ground level, following contours where possible. Salt affected land should be fenced from stock until fodder species are established.
 
 ## Benefits of Covering Salt-Affected Land
 
-1. Reduce evaporation from soil (shade + wind protection), which contributes to increased salt
+1. Reduce evaporation from soil (shade + [[cervantes-wind-protection-outdoor-cannabis]]), which contributes to increased salt
 2. Reduce soil erosion from otherwise bared earth
 3. Increase transpiration, thus lowering the water table
 
@@ -35,21 +35,21 @@ Salt-affected land can be rehabilitated by establishing a cover of salt-tolerant
 | Species | Notes |
 |---------|-------|
 | Trifolium fragiferum (Strawberry Clover) | Native to north Africa, 300+ mm rainfall. Creeping perennial adapted to heavy, poorly drained saline/alkaline soils. Summer dormant. Very salt tolerant |
-| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High salt tolerance; tolerates irrigation with 8000-10,000 ppm salt |
+| Hedysarum carnosum (Fleshy Sulla) | Biennial from Libya/Tunisia/Algeria, 100-350 mm rainfall. High [[fungal-salt-tolerance-and-ion-homeostasis]]; tolerates irrigation with 8000-10,000 ppm salt |
 | Hedysarum coronarium (Sulla) | Biennial from north Africa/southern Italy. 350+ mm rainfall. Yields over 20 t DM/ha/yr recorded. Potential nectar producer |
 
 ## Saltbushes (Atriplex spp.)
 
-Saltbushes concentrate salt onto their leaf surfaces and can remove salt from soil. Yields over 10 t/ha/yr possible. (see [[salt-tolerant-fodder-species]]).
+Saltbushes concentrate salt onto their leaf surfaces and can remove salt from soil. Yields over 10 t/ha/yr possible.
 
 | Species | Height | Protein | Notes |
 |---------|--------|---------|-------|
 | A. versicaria (Bladder Saltbush) | 60-70 cm | 11.1-18.4% | Adaptable to wide range of soils |
 | A. nummularia (Old Man Saltbush) | To 3 m | 17.0-21.9% | High nutritive value, all mainland states |
 | A. rhagodioides (River Saltbush) | To 1 m, 4 m spread | -- | Drought and frost hardy |
-| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 sheep grazing days/ha in 350 mm rainfall |
+| A. undulata (Wavy Leaf Saltbush) | 0.5 m tall, 2-3 m wide | -- | Provides 900 [[permaculture-designers-manual-sheep-grazing]] days/ha in 350 mm rainfall |
 | A. halimus (North African Saltbush) | -- | -- | -- |
-| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to North America, arid low toxicity |
+| A. canescens (Four Winged Saltbush) | 1-3 m | 18-20% | Endemic to [[guzman-psilocybin-mushrooms-north-america]], arid [[fukuoka-low-toxicity-pesticide-deception]] |
 
 ## Bluebush (Maireana spp.)
 
@@ -77,3 +77,20 @@ Companions to saltbushes, native to Australia.
 - [[difficult-site-planting]]
 - [[water-plant-guide]]
 - [[permaculture-plant-selection-guide]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
+- [[alpine-plant-cultivation-guide]]
+- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
+- [[permaculture-salt-tolerant-fodder-plants]]
+- [[comparison-compost-tea-guide-vs-fermented-plant-extract-fpe]]

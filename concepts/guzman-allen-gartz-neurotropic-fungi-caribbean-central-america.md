@@ -70,7 +70,7 @@ Puerto Rico is one of the better-studied Caribbean islands for neurotropic fungi
 - **Psilocybe portoricensis** — an endemic species described by Guzmán, Tapia, and Nieves-Rivera (1997b), found only in Puerto Rico
 - **[[archaeology-of-psychedelic-mushroom-use]] (Gerhardt, 1996)
 - **Bermuda** — Claviceps paspali and Copelandia cyanescens
-- **Guadalupe** — Psilocybe cubensis, P. plutonia, [[amanita-muscaria-entity]]
+- **Guadalupe** — Psilocybe cubensis, P. plutonia, [[amanita-muscaria]]
 - [[copelandia-cyanescens]]
 ## Practical Considerations
 

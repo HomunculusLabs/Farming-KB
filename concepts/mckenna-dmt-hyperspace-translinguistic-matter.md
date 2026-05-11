@@ -1,5 +1,5 @@
 ---
-title: "DMT Hyperspace and Translinguistic Matter"
+title: Mckenna Dmt Hyperspace Translinguistic Matter
 aliases: [DMT hyperspace, translinguistic matter, [[mckenna-hyperspace-and-human-freedom]], DMT mode shift]
 tags: [psychedelics, consciousness, DMT, philosophy, tryptamines, phenomenology]
 source: mckenna_t-tryptamines_consciousness.md
@@ -16,7 +16,7 @@ into a trance state, hearing a sound described as "[[mckenna-dmt-onset-phenomeno
 crumpling up plastic film and throwing it away." An ascending tone accompanies the
 visual phenomena.
 
-McKenna's colleague suggested this sound represents "our radio entelechy ripping
+McKenna's colleague suggested this sound represents "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping
 out of the organic matrix." The experience is so overwhelming that despite living in
 a society "absolutely obsessed with every kind of sensation imaginable" that
 "adores every therapy, every intoxication, every sexual configuration, and all
@@ -58,8 +58,8 @@ sense of the incoming signal.
 
 The Logos, as McKenna used the term, refers to a self-transforming, self-revealing
 informational matrix encountered in the DMT state. It communicates through a
-language that cannot be translated into English—a translinguistic object that
-produces profound cognitive dissonance in the human brain.
+language that cannot be translated into English—a [[mckenna-cognitive-dissonance-translinguistic-object]] that
+produces profound [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] in the human brain.
 
 When humans encounter this translinguistic information, the hindbrain attempts to
 overlay language upon it, and it "sheds it like water off a duck's back." One tries
@@ -84,66 +84,6 @@ soul would exist as "a superconducting lens of translinguistic matter generated
 out of the body of each of us at a critical juncture at our psychedelic Bar
 Mitzvah." One's body image would exist as a "holographic wave transform while
 one is at play in the fields of the Lord and living in Elysium." This vision
-draws on the Kabbalistic primal language (*Ursprache*), Robert Graves' *The
-White Goddess*, and Philo Judeaus' description of the Logos passing "from
+draws on the Kabbalistic [[mckenna-glossolalia-and-primal-language-tryptamine-states]] (*Ursprache*), Robert Graves' *The
+[[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, and Philo Judeaus' description of the Logos passing "from
 things heard to things beheld."
-
-## Glossolalia and the Assembly Language
-
-Under the influence of DMT, some experiencers report glossolalia (speaking in
-tongues), but this differs markedly from the classical glossolalia studied in
-religious contexts. Classical glossolalia has been documented with physical
-evidence—pools of saliva eighteen inches across on church floors—yet practitioners
-often cannot recall the experience and ask afterward "Did I speak in tongues?"
-
-The DMT-induced phenomenon is entirely different: it is a conscious, intentional
-production of vocalizations corresponding to the visual and informational content.
-McKenna described it as "a brain state that allows the expression of the assembly
-language that lies behind language." The experiencer discovers they can make
-"extra-dimensional objects—feeling-toned, meaning-toned, three-dimensional rotating
-complexes of transforming light and color" appear through vocalization alone.
-McKenna speculated that given sufficient cultural involvement, this ability could
-become "a cultural convenience in the same way that mathematics or language has."
-
-## Temporal Aspects and the Standing Now
-
-McKenna described the tryptamine state as "transtemporal"—a stepping out of the
-moving image of time and into eternity. He referenced Plato's metaphor that time is
-"the moving image of eternity" and Thomas Aquinas' concept of the *nunc stans* (the
-standing now). In that state, all of human history is seen to lead toward a
-culminating moment.
-
-The rapid onset and brief duration of smoked DMT mean the brain is "absolutely at
-home with this compound," consistent with DMT's status as an endogenous
-hallucinogen found in small amounts in the human brain. McKenna emphasized that
-"the most richly organized material in the universe is the human cerebral cortex,
-and the densest and richest experience in the universe is the experience you are
-having right now."
-
-## Authenticity, Terror, and the I/Thou Encounter
-
-A distinctive feature of the DMT experience is that it sometimes inspires genuine
-fear. McKenna regarded this as a marker of [[mckenna-psychedelic-terror-and-existential-authenticity]]: "A touch of
-terror gives the stamp of validity to the experience because it means 'This is
-real.'" He advocated approaching the entity encounter with dignity, drawing on
-Martin Buber's I/Thou philosophy.
-
-His famous couplet captures the epistemological challenge: "Some are made of ions,
-some of mind; the ones of ketamine, you'll find, stutter often and are blind."
-
-## Quantum Mechanical Correlates
-
-McKenna cited work by John Smythies and [[alexander-shulgin]] demonstrating quantum
-mechanical correlates to hallucinogenesis. Moving a single atom on the molecular
-ring of an inactive compound can render it highly active—this represents, for
-McKenna, "a perfect proof of the dynamic linkage at the formative level between
-quantum mechanically described matter and mind." He argued that hallucinatory
-states, along with dreams, represent "the major quantum mechanical phenomena that
-we all experience."
-## See Also
-
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- serotonin 5 ht receptor system overview
-- dmt endogenous tryptamine biosynthesis
-- psilocybin pharmacology and mechanism of action

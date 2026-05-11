@@ -1,10 +1,11 @@
 ---
-title: "[[fukuoka-textdoc-absence-no-fertilizer-tests]] production costs not coming down Are Not Coming Down"
+title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Production Costs Not Coming Down
 created: 2026-04-28
-tags: [economics, production-costs, [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming|scientific]]-farming, food-prices, critique]
+tags: [economics, production-costs, [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming|scientific]-farming, food-prices, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -24,7 +25,7 @@ while human effort always demands payment in return.
 
 Suppose an entrepreneur decided to grow rice and vegetables in a large building
 right at the center of a major city. He would make full spatial use of the
-building in [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future|three]] dimensions, equipping it with central heating and air
+building in [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] dimensions, equipping it with central heating and air
 conditioning, artificial lighting, and automatic spraying devices for carbon
 dioxide and nutrient solutions.
 

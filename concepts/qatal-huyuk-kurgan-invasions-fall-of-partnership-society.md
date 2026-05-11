@@ -1,5 +1,5 @@
 ---
-title: Qatal Huyuk, the qatal huyuk kurgan invasions fall of partnership society, and the Fall of mckenna-dominator-vs-partnership-society-model
+title: Qatal Huyuk Kurgan Invasions Fall Of Partnership Society
 source: Food of the Gods (McKenna, 1992)
 tags: [history, archaeology, partnership-society, dominator-culture, kurgan, catal-huyuk, goddess-worship, neolithic]
 created: 2026-05-09
@@ -12,8 +12,8 @@ Anatolia (modern Turkey) that flourished from approximately 7400 to
 6200 BCE. At its peak, it was one of the largest cities in the world,
 with an estimated population of 5,000-8,000 people. For Terence
 McKenna, Qatal Huyuk represented the apogee of partnership society, a
-civilization organized around Goddess worship, shamanic practice, and
-symbiotic relationships with the natural world. Its eclipse marked the
+civilization organized around Goddess worship, [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]], and
+[[fungi-in-the-environment-symbiotic-relationships]] with the natural world. Its eclipse marked the
 beginning of the dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]] that persists to this day.
 
 ## The Partnership Model
@@ -51,7 +51,7 @@ rooms, suggesting a culture obsessed with religious observance.
 - **Built-in recliners**: Some shrines contained built-in platforms or
   "recliners" suggesting shamanic curing or midwifery rites.
 - **Wall paintings**: The range of pigments used was unmatched in the
-  Near East, featuring naturalistic depictions of animals, human
+  [[allegro-fertility-philosophy-of-the-ancient-near-east]], featuring naturalistic depictions of animals, human
   figures, geometric spirals, and meander patterns.
 
 ## African Connections
@@ -87,56 +87,3 @@ mediated through psychedelic plants:
   hence to the partnership style of social organization.
 - When psychedelic use was suppressed, the boundary-dissolving
   experiences that reinforced partnership values were lost.
-
-## The Kurgan Wave Theory
-
-The fall of partnership society was precipitated by the arrival of
-Indo-European invaders from the Pontic-Caspian steppe, described by
-Marija Gimbutas as the "Kurgan Waves":
-
-- **First wave** (~4500-4200 BCE): Kurgan I culture expanded from the
-  lower Dnieper into the Danube basin.
-- **Second wave** (~3500 BCE): Kurgan III expansion brought horse
-  domestication and wheeled vehicles into Europe.
-- **Third wave** (~3000-2800 BCE): Final expansion completed the
-  Indo-Europeanization of Europe.
-
-The domestication of the horse and the invention of the wheel gave
-these steppe populations an overwhelming military advantage. Horse-
-mounted plunder replaced pastoralism across Anatolia. Mead cults
-completed the already-advanced process of supplanting mushroom use
-with alcohol. Human god-kings replaced the religion of the Goddess.
-
-### Alternative: Renfrew's Anatolian Hypothesis
-
-Colin Renfrew challenged the Kurgan theory, arguing that Qatal Huyuk
-was itself the point of origin of Indo-European languages. Linguistic
-evidence from Vladislav Illich-Svitych and Aron Dolgopolsky, and
-Sergei Starostin's finding that Indo-Europeans borrowed words from
-North Caucasian languages approximately 7,000 years ago, supported
-the view that the settlement was not founded by Indo-Europeans, who
-arrived much later.
-
-## The Suppression Continues
-
-McKenna traced a continuous line from the fall of Qatal Huyuk through
-the suppression of the Minoan civilization, the closure of the
-[[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] in 268 CE, the medieval witch burnings, and into
-modern drug prohibition. At each stage, knowledge of the natural world
-and access to boundary-dissolving plants was suppressed by
-institutional authority:
-
-- The medieval Church wanted all magic attributed to the Devil and
-  suppressed knowledge of plants like Datura, deadly nightshade, and
-  monkshood used in witches' flying ointments.
-- The central role of tropane alkaloids in producing the visionary
-experience attributed to witchcraft was deliberately obscured,
-because a natural explanation would have diminished the Devil's
-stature as a worthy foe of Christendom.
-
-The consequence of this severed connection, in McKenna's view, is the
-
-## See Also
-- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
-- [[mckenna-kurgan-waves-indo-european-invasion-partnership-collapse]]
-- [[mckenna-dominator-vs-partnership-society-model]]

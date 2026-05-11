@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 # Rainwater Harvesting and Swale Systems
 
 Swales are one of the most important earthworks in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
-described extensively by Bill Mollison in Permaculture: A Designers'
+described extensively by [[bill-mollison]] in Permaculture: A Designers'
 Manual (Chapter 2: Concepts and Themes in Resource Design, and Chapter
 8: Water in the Landscape). A swale is a level ditch and berm system
 constructed on contour to intercept, slow, spread, and sink surface
@@ -38,7 +39,7 @@ gradient, and the total catchment area contributing runoff to each swale.
 Mollison emphasizes that swales are not universal solutions. They work
 best on gentle to moderate slopes (2-15%) with soils that have moderate
 infiltration rates. On very steep slopes, swales may require additional
-stabilization. On heavy clay soils with very low infiltration, swales
+stabilization. On [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils with very low infiltration, swales
 can become waterlogged and may need integration with drainage outlets.
 On very sandy or porous soils, swale water may infiltrate too rapidly to
 spread effectively downslope, requiring closer spacing or alternative
@@ -46,7 +47,7 @@ approaches such as contour ripping.
 
 ## Contour Measurement and Layout
 
-Accurate contour measurement is essential for swale construction. Tools
+Accurate contour measurement is essential for [[swale-construction-guide]]. Tools
 range from simple A-frame levels and water tube levels (bunyip levels)
 to laser levels and transit instruments. The A-frame level is the most
 accessible: two legs of equal length connected at the apex with a
@@ -84,63 +85,6 @@ water capture.
 A practical rule of thumb is to calculate the catchment area above each
 swale and size the swale to hold the expected runoff from a 1-in-10 or
 1-in-25 year rainfall event. The swale should fill and infiltrate within
-24-48 hours to prevent mosquito breeding and root rot in plantings.
+24-48 hours to prevent mosquito breeding and [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] plantings.
 
 ## Overflow Design
-
-Every swale must have a well-designed overflow spillway to safely convey
-excess water during intense storms without eroding the swale berm or
-creating uncontrolled runoff. The overflow is typically placed at the
-high point of the swale (the point where contour measurement began) and
-armored with rock, geotextile, or grass to prevent scouring. Overflow
-water should be directed into the next swale downslope or into a stable
-watercourse.
-
-Mollison warns that overflow failure is the most common cause of swale
-damage. The overflow must be wide enough to handle peak flow, with a
-level sill that distributes water across its width rather than
-concentrating it into a single erosive channel. Rock armoring (riprap)
-with graded stone sizes is the standard treatment for overflow points.
-
-## Planting on Swales
-
-Swale berms are prime planting sites in permaculture systems. The berm
-provides a raised, well-drained position above the moisture-saturated
-swale floor, creating a productive microsite that benefits from both
-good drainage and subsurface moisture availability. Mollison recommends
-planting tree crops on the berm, including fruit and nut trees,
-nitrogen-fixing species, and timber trees. The swale floor and lower
-berm can support ground covers, fodder crops, and food forests.
-
-Common berm plantings include:
-  - Fruit trees: citrus, stone fruit, apples, pears, figs
-  - Nitrogen fixers: tagasaste, acacia, alder, carob, honey locust
-  - Ground covers: comfrey, clover, vetch, lucerne
-  - Fodder: pigeon pea, leucaena, moringa
-
-The root systems of berm plantings stabilize the earthwork, preventing
-erosion while accessing the moist soil profile below. Over time, the
-swale system becomes a self-reinforcing water management and food
-production infrastructure.
-
-## Integration with Other Earthworks
-
-Swales function as part of an integrated water harvesting design that
-includes dams, ponds, contour strips, gabions, and keyline cultivation.
-In a full permaculture design, swales feed water into storage systems
-or direct it across the landscape to maximize infiltration and minimize
-erosion. They are a primary tool in broadscale [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
-and reforestation projects.
-
-## See Also
-
-- mollison designers water in the landscape
-- mollison designers keyline design
-- mollison [[mollison-designers-earthworks-for-erosion-control]] and ponds
-- mollison [[mollison-designers-contour-surveying-a-frame-bunyip-level]] planting
-- mollison-designers-duck-pond-integrated-systems
-- [[rainwater-harvesting-systems]]
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[building-soil]]
-- [[water-management]]

@@ -14,7 +14,7 @@ type: concept
 Olive mill wastewater (OMW) is a highly polluting effluent generated
 during olive oil extraction, particularly in Mediterranean countries that
 account for approximately 98% of global olive production. The wastewater
-contains high concentrations of phenolic compounds, organic matter, and
+contains high concentrations of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and
 toxic substances that resist conventional treatment, making fungal
 bioremediation an attractive alternative approach.
 
@@ -44,15 +44,15 @@ and reduce toxicity more effectively.
   semistatic cultures at 30 degrees Celsius, eliminating up to 70%
   toxicity as measured by Microtox assay. Produces MnP and laccase
   simultaneously
-- **Pleurotus ostreatus**: Shows 49% decolorization efficiency among
+- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]**: Shows 49% decolorization efficiency among
   eight white-rot fungi screened; highest laccase activity detected.
   Phenol detoxification accompanies increasing phenol oxidase production
-- **Lentinus edodes**: Achieves 90% phenolic reduction and 85%
+- **[[lentinus-edodes-entity-the-mushroom-cultivator]]**: Achieves 90% phenolic reduction and 85%
   decolorization of 20% diluted OMW over 12 days; highly significant
   correlation between color reduction, TOC, and total phenols
 
 ### Molds and Yeasts
-- **Aspergillus niger**: Removes 61.6% COD in flasks and 52.5% in
+- **[[aspergillus-niger]]**: Removes 61.6% COD in flasks and 52.5% in
   fermentors after 72 hours; achieves 73.5% tannin degradation through
   adsorption-based decolorization
 - **Penicillium strain P4**: Produces 21.5 g dry weight per liter
@@ -69,7 +69,7 @@ Immobilization enhances fungal treatment performance for OMW:
 - Highest decolorization (85%) and COD removal (50%) occurs in media
   producing high [[fungal-lignin-peroxidase-veratryl-alcohol]] activity
 - Ultrafiltration pretreatment removing polyphenolic fractions above 60
-  kDa significantly improves subsequent fungal decolorization
+  kDa significantly improves subsequent [[molasses-wastewater-fungal-decolorization]]
 - Lentiinus edodes UEC-2019 removes 73% color in 5 days without
   additional carbon source when combined with preirradiation
 
@@ -87,44 +87,3 @@ results:
   compared to untreated OMW in subsequent [[biogas-digester-basics]]
 
 ## Enzyme Systems in OMW Degradation
-
-The lignin-degrading enzyme system plays a central role in OMW treatment
-by white-rot fungi. Key enzymes include laccase, [[fungal-manganese-peroxidase-remediation]]
-(MnP), manganese-independent peroxidase (MIP), and phenol oxidase. Early
-detection of laccase activity correlates with the final amount of total
-phenolic reduction in treated OMW. MnP is necessary for efficient
-decolorization, while LiP and veratryl alcohol oxidase are generally not
-detected in OMW treatment systems. NMR analysis confirms bioconversion of
-both phenolic and aliphatic compounds in OMW through fungal metabolic
-activity. Species of Pleurotus produce large amounts of laccase,
-significantly reducing phenolic and toxic compound concentrations.
-
-## Economic and Practical Considerations
-
-The economic viability of fungal OMW treatment depends on several factors:
-- Evaporation can separate vegetation water into an aqueous fraction for
-  biological purification and a concentrated residue containing 98% of
-  organic load
-- Fungal biomass produced during treatment has potential value as animal
-  feed or soil amendment
-- OMW must often be diluted prior to treatment due to its antimicrobial
-  properties, though some fungal strains tolerate undiluted effluent
-- Process optimization through factorial design can improve treatment
-  efficiency and reduce retention time in bioreactors
-
-## Kinetic Modeling
-
-Fermentation follows Monod kinetics using COD or TOC as substrate. The
-phenolic compound removal sequence among fungi is P. chrysosporium
-greater than A. niger greater than A. terreus. Anaerobic digestion of
-fungus-pretreated OMW follows first-order kinetics, with kinetic
-constants increasing as phenolic content and biotoxicity decrease.
-
-## See Also
-
-- singh-fungal-treatment-industrial-wastewaters-overview
-- singh-fungal-metabolism-phenols-chlorophenols
-- [[singh-starch-oil-wastewater-fungal-treatment]]
-- [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
-- [[fungal-treatment-of-olive-mill-wastewater]]
-- [[fungal-olive-mill-wastewater-treatment]]

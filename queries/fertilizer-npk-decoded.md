@@ -40,7 +40,7 @@ NPK stands for Nitrogen (N) - Phosphorus (P) - Potassium (K), the three primary 
 - 3% Phosphorus (P2O5 equivalent)
 - 3% Potassium (K2O equivalent)
 
-The remaining percentage is filler, organic matter, micronutrients, and other inert ingredients. A 10 lb bag of 5-3-3 contains 0.5 lbs N, 0.3 lbs P, 0.3 lbs K.
+The remaining percentage is filler, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], micronutrients, and other inert ingredients. A 10 lb bag of 5-3-3 contains 0.5 lbs N, 0.3 lbs P, 0.3 lbs K.
 
 **Important convention**: Fertilizer P and K values are expressed as oxide equivalents (P2O5 and K2O), not elemental P and K. To convert:
 - Elemental P = P2O5 x 0.44
@@ -52,7 +52,7 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 
 ### Nitrogen (N) -- The Growth Nutrient
 - Drives leafy green growth, stem elongation, chlorophyll production
-- Highest demand during vegetative stage
+- Highest demand during [[cannabis-vegetative-stage]]
 - **Deficiency**: Lower leaves pale yellow (chlorosis), stunted growth, thin stems
 - **Excess**: Dark green foliage, excessive stretching, delayed flowering, soft pest-susceptible growth, salt buildup
 - **Mobility**: Mobile -- deficiency shows in OLDER leaves first
@@ -69,7 +69,7 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 - Osmoregulation, enzyme activation, stomatal function, disease resistance, cold hardiness, bud density
 - Demand increases through flowering -- critical for bud size and density
 - **Deficiency**: Brown leaf edges and tips (scorch), weak stems, poor bud development, drought sensitivity
-- **Excess**: Can antagonize calcium and magnesium uptake
+- **Excess**: Can antagonize [[dynamic-accumulator-plants-calcium-and-magnesium]] uptake
 - **Mobility**: Mobile -- deficiency shows in older leaves
 - **Note**: Most soils have adequate K -- deficiency is less common than N or P
 
@@ -86,8 +86,8 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 | Bone meal | 3-15-0 | Phosphorus and calcium | Slow release (1-4 months). Essential for flowering and roots. |
 | Rock phosphate | 0-3-0 | Long-term P reserves | Very slow release (years). Best for building soil P over time. |
 | Bat guano (high P) | 3-10-1 | Flowering boost | Fast-acting P source. Use as top-dress during flower. |
-| Bat guano (high N) | 10-3-1 | Vegetative growth | Fast-acting N source. Water-soluble for teas. |
-| Kelp meal | 1-0.5-2 | Micronutrients + K | Contains all trace minerals, cytokinins, auxins. Excellent all-around. |
+| Bat guano (high N) | 10-3-1 | [[cannabis-vegetative-growth-stage]] | Fast-acting N source. Water-soluble for teas. |
+| Kelp meal | 1-0.5-2 | Micronutrients + K | Contains all [[dynamic-accumulator-plants-trace-minerals]], cytokinins, auxins. Excellent all-around. |
 | Langbeinite (K-Mag) | 0-0-22 | Potassium + Mg + S | Fast-release K. Neutral pH -- won't affect soil acidity. |
 | Wood ash | 0-1-3 (variable) | K + Ca, raises pH | Use sparingly. 3-7% K2O. Raises pH significantly. |
 | Greensand | 0-0-3 | Slow K release | Very slow (1+ years). Also contains iron and trace minerals. |
@@ -107,7 +107,7 @@ The remaining percentage is filler, organic matter, micronutrients, and other in
 | Fertilizer | NPK | Best Use | Notes |
 |---|---|---|---|
 | Jack's Classic 20-20-20 | 20-20-20 | All-purpose vegetative | Popular synthetic. Can disrupt soil biology with repeated use. |
-| General Hydroponics Flora Series | Varies by mix | Hydroponic cannabis | 3-part system: Gro, Micro, Bloom. Precise control. |
+| General Hydroponics Flora Series | Varies by mix | [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] | 3-part system: Gro, Micro, Bloom. Precise control. |
 | Fox Farm Tiger Bloom | 2-8-4 | Flowering boost | Synthetic-organic blend. Popular bottle line. |
 | Advanced Nutrients pH Perfect | Varies | Cannabis-specific | Expensive, marketing-heavy. Works but similar to cheaper options. |
 | Miracle-Gro All Purpose | 24-8-16 | General garden | High salt index. Burns living soil biology. Avoid in regenerative systems. |

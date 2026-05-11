@@ -6,7 +6,7 @@ tags:
   - fungi
   - boletaceae
   - boletales
-  - mycology
+  - [[mycology]]
   - ectomycorrhizal
   - peppery-bolete
   - edible
@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Chalciporus piperatus." MushroomExpert.com. https://www.mushroomexpert.com/chalciporus_piperatus.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
   - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Royal Botanic Gardens, Kew.
   - Klofac, W. (2011). "The genus Chalciporus (Boletales) — a review." Österreichische Zeitschrift für Pilzkunde, 20, 31–44.
 ---
@@ -70,7 +70,7 @@ key diagnostic character.
 the base, solid or slightly hollow at maturity. Surface is pale yellow
 above, often streaked with red or brown below. The stipe lacks reticulation,
 distinguishing it from many *Boletus* species. Base may show whitish
-mycelium.
+[[mycelium]].
 
 **Flesh:** Pale yellow to whitish in the cap, reddish in the stipe base.
 The flesh turns bluish when exposed to air, particularly in the stipe and
@@ -84,52 +84,6 @@ Odor is mild and not distinctive.
 ## Distribution and Habitat
 
 *Chalciporus piperatus* has a broad circumboreal distribution. It is common
-throughout Europe, North America (particularly in coniferous forests of the
-northeast, Pacific Northwest, and montane regions), and temperate Asia.
+throughout Europe, [[guzman-psilocybin-mushrooms-north-america]] (particularly in coniferous forests of the
+northeast, [[psilocybin-north-america-pacific-northwest]], and montane regions), and temperate Asia.
 Reports also exist from North Africa and parts of Australia.
-
-It is strongly associated with coniferous trees, especially *Pinus sylvestris*
-(Scots pine) and other two- and three-needle pines, but also occurs under
-spruce and fir. Fruiting occurs from summer through autumn (June–November),
-often in acidic forest soils. The species fruits singly to scattered and can
-be locally abundant in favorable years.
-
-## Ecology
-
-The ecological role of *C. piperatus* has been debated. While historically
-classified as ectomycorrhizal, molecular and observational evidence suggests
-it may be a facultative mycoparasite. It is frequently found fruiting in
-close proximity to, or directly from the decaying remains of, other bolete
-species, particularly *Suillus* and *Boletus* species. Some researchers
-propose it obtains nutrients from the [[fungal-mycelial-networks-nutrient-translocation]] of other fungi in
-addition to, or instead of, direct tree root associations.
-
-## Edibility and Culinary Use
-
-The peppery bolete is technically edible but generally considered poor
-quality for the table due to its hot, peppery taste. Some foragers collect
-young specimens and parboil them thoroughly (discarding the water) to
-reduce the peppery intensity, after which they can be used in mixed mushroom
-dishes, pickles, or sauces. The flavor is not universally appreciated, and
-most field guides rate it as "edible but not recommended" or "inferior."
-
-No cases of poisoning have been documented. The blue-staining reaction is
-not an indicator of toxicity in this species.
-
-## Similar Species
-
-- **Suillus species** (*S. luteus*, *S. granulatus*) share the conifer
-  habitat and smooth stipe but have glandular dots on the stipe and
-  generally milder taste.
-- **Rubroboletus satanas** is much larger with a pale cap, pink pores,
-  and a reticulate stipe — and is mildly toxic.
-- **Chalciporus amarellus** is a smaller, rarer species with a distinctly
-  bitter (not peppery) taste and occurs under *Pinus cembra*.
-
-## See Also
-
-- [[suillus-luteus]]
-- [[boletus-edulis-entity]]
-- [[leccinum-scabrum]]
-- [[gyroporus-cyanescens]]
-- xerocomellus chrysenteron

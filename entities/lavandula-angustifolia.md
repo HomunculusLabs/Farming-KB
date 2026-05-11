@@ -15,14 +15,14 @@ sources:
   - Upson, T.M. & Andrews, S. (2004). "The Genus Lavandula." Royal Botanic Gardens, Kew.
   - Cavanagh, H.M.A. & Wilkinson, J.M. (2002). "Biological activities of lavender permaculture-designers-manual-essential-oil-plants." Phytotherapy Research.
   - European Medicines Agency (2013). "Assessment report on Lavandula angustifolia Mill." EMA/HMPC/5892/2009.
-  - Prashar, A. et al. (2004). "Chemical composition of essential oil of Lavandula angustifolia." Phytotherapy Research.
+  - Prashar, A. et al. (2004). "Chemical composition of [[permaculture-designers-manual-essential-oil-plants]] of Lavandula angustifolia." Phytotherapy Research.
 ---
 
 ## Overview
 
 **Lavandula angustifolia** Mill., commonly known as English lavender or true lavender, is an aromatic evergreen subshrub in the family Lamiaceae.
 
-Native to the western Mediterranean, it is the most commercially important Lavandula species for essential oil production.
+Native to the western Mediterranean, it is the most commercially important Lavandula species for essential [[cannabis-honey-oil-production]].
 
 Lavender essential oil is among the top-selling [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] globally, valued in aromatherapy, cosmetics, pharmaceuticals, and food flavoring.
 
@@ -70,9 +70,9 @@ Hardiness ranges from USDA zones 5–9, though winter wetness is more limiting t
 
 The essential oil (1.0–3.0% v/w in dried flowers) has a complex profile of over 150 identified constituents.
 
-Linalool (25–38%) and linalyl acetate (25–45%) are the two dominant compounds, together comprising 50–80% of the oil.
+[[linalool]] (25–38%) and linalyl acetate (25–45%) are the two dominant compounds, together comprising 50–80% of the oil.
 
-Minor constituents include β-caryophyllene, terpinen-4-ol, 1,8-cineole, lavandulyl acetate, and camphor.
+Minor constituents include β-caryophyllene, terpinen-4-ol, 1,8-cineole, lavandulyl acetate, and [[camphor]].
 
 Linalool demonstrates anxiolytic-like effects via modulation of GABA-A receptors in animal models.
 
@@ -87,40 +87,3 @@ The essential oil demonstrates spasmolytic effects on smooth muscle preparations
 The European Medicines Agency recognizes lavender flower preparations as traditional herbal medicines for relief of mild anxiety and sleep disturbances.
 
 ## Culinary Use
-
-Lavender flowers are used as a flavoring in both sweet and savory culinary applications.
-
-The herb imparts a distinctive floral, slightly sweet, and camphoraceous flavor to dishes.
-
-Common uses include lavender-infused honey, shortbread cookies, lemonade, ice cream, and chocolate confections.
-
-The Provence region of France uses lavender in the spice blend *herbes de Provence*.
-
-A few dried flowers are sufficient to flavor a dish — excessive quantities produce a soapy or bitter taste.
-
-Culinary-grade lavender should be low in camphor and high in linalool; *L. angustifolia* is preferred over *L. x intermedia* for this reason.
-
-## Cultivation
-
-Commercial propagation is primarily through semi-hardwood cuttings taken in late summer.
-
-Seed-grown plants exhibit genetic variability in oil composition; cuttings ensure chemotype uniformity.
-
-Plants are spaced 30–40 cm apart in rows 1.0–1.5 m wide on well-drained [[comparison-raised-beds-vs-hugelkultur]].
-
-Flower harvest occurs at full bloom when linalyl acetate content is highest, typically mid-summer.
-
-Yield of dried flowers ranges from 1–3 tonnes per hectare; essential oil yield is 10–25 kg/ha.
-
-Distillation is performed within 24 hours of harvest using [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] for 60–90 minutes.
-
-Plants require replacement every 10–15 years as productivity declines with age.
-
-Lavender serves as an excellent pollinator plant, attracting bees, butterflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
-
-## See Also
-
-- [[ocimum-basilicum]]
-- [[rosmarinus-officinalis-entity]]
-- [[scutellaria-baicalensis]]
-- [[verbena-officinalis]]

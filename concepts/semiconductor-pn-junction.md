@@ -88,29 +88,7 @@ A reverse-biased p-n junction behaves like a voltage-dependent capacitor because
 Increasing reverse bias widens the depletion region and usually lowers junction capacitance.
 This property is exploited in varactor diodes for tuning radio-frequency circuits.
 Forward-biased junctions exhibit diffusion capacitance because injected minority carriers are stored near the junction.
-When a diode switches from forward to reverse bias, this stored charge must be removed before the diode blocks effectively.
-The reverse-recovery effect matters in rectifiers, switching power supplies, motor drives, and radio-frequency circuits.
-Fast-recovery diodes, Schottky diodes, and wide-bandgap devices are chosen when switching loss or recovery noise is critical.
-Small-signal diode models include dynamic resistance, junction capacitance, diffusion capacitance, and sometimes package parasitics.
-At high frequency, the physical package and contacts can matter as much as the ideal junction physics.
-Transient behavior is therefore a device-level consequence of carrier transport and geometry.
 
-## Optoelectronic Junctions
-
-A solar cell is a p-n junction designed to separate photogenerated carriers before they recombine.
-Light creates electron-hole pairs, and the built-in electric field helps collect them as electrical current.
-A photodiode uses a similar principle but is optimized for detection speed, sensitivity, or wavelength range.
-An LED is a forward-biased junction in which electron-hole recombination emits photons.
-Efficient light emission requires a semiconductor with a suitable band gap and favorable radiative recombination pathways.
-Direct-bandgap materials such as [[semiconductor-band-structure]] explains energy bands, band gaps, and carrier populations.
-[[maxwell-equations-electromagnetism]] underlies the electrostatic field and potential in the depletion region.
-Future pages on depletion regions and the Shockley diode equation could expand the space-charge and exponential-current details.
-Related engineering pages include MOSFET, bipolar junction transistor, solar cell, LED, avalanche breakdown, and Schottky barrier.
-The p-n junction is a compact example of how materials processing creates useful electrical nonlinearity.
-
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
-
-## References
-
-Research basis: Wikipedia articles on p-n junction, depletion region, diode, Shockley diode equation, and semiconductor, consulted 2026-05-02.
+## See Also
+- [[semiconductor-band-structure]]
+- [[semiconductor-physics-and-devices]]

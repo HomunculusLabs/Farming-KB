@@ -1,9 +1,9 @@
 ---
-title: Cannabis for cannabis-sleep-disorders-and-insomnia and Insomnia
+title: Blesching Cannabis Sleep Disorders
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-ptsd-anxiety cannabis-chronic-pain-management"
+wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
 type: concept
 tags: [cannabis]
 ---
@@ -88,60 +88,3 @@ Practical reports from patients using cannabis to improve their sleep have
 shown that the use of indica and indica-dominant strains with their particular
 mix of cannabinoid ratios, namely a relatively lower THC:CBD combination,
 encourages sedation, relaxation, and grounding effects.
-
-Indicas or indica-heavy hybrids contain a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2
-expression when compared to sativas or sativa-heavy strains. This may
-contribute to their more pronounced sedative effects.
-
-## Sleep Disturbances in Other Conditions
-
-Insomnia and sleep disturbances are commonly reported comorbidities across
-many of the conditions covered in the [[blesching-cannabis-health-index-autoimmune-conditions]]:
-
-### Cancer Patients
-
-[[blesching-cannabis-cancer-night-sweats]] and pain frequently disrupt sleep. Nabilone (a synthetic THC
-analog) has been shown to effectively treat night sweats and improve quality
-of life in cancer patients. The cannabinoid positively affected pains,
-anorexia, and nausea in addition to its sleep benefits.
-
-### Fibromyalgia
-
-A 2008 Montreal study compared Nabilone (0.5-1.0 mg before bedtime) with
-amitriptyline (10-20 mg before bedtime) in 29 fibromyalgia patients. While
-both medications significantly improved sleep, Nabilone was superior.
-
-### Multiple Sclerosis
-
-Cannabis has been shown to reduce sleep disturbances as a secondary benefit
-alongside reductions in spasticity and pain. Multiple studies reported improved
-sleep as one of the consistent benefits of cannabinoid therapy in MS patients.
-
-### PTSD
-
-Cannabis may remove fear responses to stressors such as nightmares, poor
-sleep, and night sweats. An Ottawa study reported that the majority of
-patients (72%) receiving Nabilone experienced either cessation of nightmares
-or a significant reduction in nightmare intensity. Subjective improvement in
-sleep time and quality of sleep were also noted.
-
-## Mind-Body Medicine and Insomnia
-
-Researchers discovered that insomniac patient populations appear to have two
-characteristic traits that may make them vulnerable to developing the disorder
-but also provide a potential basis for therapeutic interventions:
-
-- A poor mechanism for managing stress
-- States of cognitive-emotional hyperarousal (exaggerated mental-emotional
-  responses and/or tensions)
-
-Since both insomnia and hyperarousal are frequently present in post-traumatic
-stress disorders, some clinicians suggest a potential similar connection with
-past traumatic events in cases of insomniacs.
-
-Whatever the physical reasons for insomnia may be, a commonly observed thread
-is the inability to let go and relax. The mind is constantly engaged in
-## See Also
-- [[cannabis-for-sleep-disorders]]
-- [[cannabis-for-anorexia-and-cachexia]]
-- [[cannabis-for-cough-and-bronchospasm]]

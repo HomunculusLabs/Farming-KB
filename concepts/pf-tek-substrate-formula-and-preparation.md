@@ -1,5 +1,5 @@
 ---
-title: PF TEK [[pf-substrate-formula]] and Preparation Method
+title: Pf Tek Substrate Formula And Preparation
 source: "PF TEK - [[pf-tek-psilocybe-fanaticus]] (1996)"
 tags: [cultivation, pf-tek, substrate, vermiculite, brown-rice, sterilization]
 created: 2026-05-09
@@ -87,51 +87,3 @@ level it off at the jar rim. This upper dry vermiculite layer is the critical
 innovation of the PF TEK — it acts as a contaminant barrier that protects the
 wet substrate from airborne contaminants while also absorbing and regulating
 moisture transpiration and condensation.
-
-### Step 3: Lid Preparation
-
-Prepare the canning lid by placing it rubber sealing edge up on a supporting
-surface. Using a sharpened 3-penny nail held with vise grip pliers, punch 4 holes
-inside the periphery of the rubber sealing edge. Place the lid on the jar with
-rubberized edge up (jagged needle hole edges facing down). Screw the lid band on
-and place pieces of professional-grade masking tape over the needle holes to
-prevent contaminant entry during sterilization.
-
-### Step 4: Steam Sterilization
-
-A 3-piece vegetable steamer (pot, basket insert, and lid) is used. Anything that
-keeps jar bottoms off the direct pot bottom is acceptable, as direct contact with
-high heat will crack the glass. Place jars in the pot with lid bands loose for
-steam penetration. The jars can sit in water but must not have boiling water
-sloshing into them. Heat to a boil, then reduce to the lowest possible gentle
-boil. Steam for 1 hour in a tightly covered pot (gas stoves are easiest to
-control). A good-fitting pot lid is essential.
-
-**Critical**: Do not overheat, as this dries the substrate. Dried substrate
-evidences as spore germination followed by halted growth — the fungus spreads
-but stops at a certain point depending on dryness. The remedy is increasing water
-content in the formula. After steaming, let jars cool completely, tighten lids,
-and store in a cool, draft-free place until inoculation.
-
-## Substrate Moisture Management
-
-Not all vermiculite is the same — coarseness varies considerably between brands.
-Coarser types hold less water than finer types, altering water-holding capacity.
-If the formula results in a wet or sloppy substrate, use less water. If growth
-halts without contamination, the substrate is too dry — increase water. Only
-through direct experimentation and careful note-taking can the right balance be
-found for a given set of conditions.
-
-## Contamination Control
-
-The dry vermiculite barrier layer is the primary defense against contamination.
-After sterilization, a "control jar" technique can verify sterilization
-effectiveness: leave one jar uninoculated for several days and watch for colored
-growths or sour odors. If contamination appears, the sterilization time was
-insufficient. If contamination appears only after inoculation, the syringe or
-technique was contaminated, or the dry vermiculite barrier was breached.
-
-## See Also
-
-- [[pf-tek-sterilization-and-inoculation-techniques]]
-- [[psilocybin-mushroom-markets-and-availability-europe]]

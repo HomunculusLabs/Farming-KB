@@ -87,15 +87,3 @@ certain Panaeolus species. Summer fruiting is rare and typically
 requires unusually wet conditions.
 
 ## Legal Status in Europe
-
-The legal status of neurotropic fungi varies significantly across
-European countries. The Netherlands famously tolerated the sale of
-fresh "[[guzman-magic-mushrooms-african-species]]" in "smart shops" until a 2007 ban. Other
-countries have various restrictions, ranging from complete prohibition
-to unregulated status. The legal landscape continues to evolve as
-scientific and public [[weil-cultural-attitudes-toward-altered-states]] psychedelic fungi change.
-
-## See Also
-
-- [[tropical-vs-temperate-distribution-neurotropic-fungi]]
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]

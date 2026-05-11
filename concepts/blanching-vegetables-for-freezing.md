@@ -57,7 +57,7 @@ Some foods do not need blanching:
 | Asparagus (medium) | 3 min | 2-3 min |
 | Bamboo shoots | 10 min | -- |
 | Bean sprouts | 5 min | -- |
-| Beet greens | 2.5 min | -- |
+| [[coleman-beet-greens-cold-house-winter-production]] | 2.5 min | -- |
 | Black-eyed peas | 2 min | 2.5 min |
 | Broccoli | -- | 5 min |
 | Brussels sprouts (medium) | -- | 4 min |
@@ -88,21 +88,6 @@ Some foods do not need blanching:
 | Rutabaga diced | 2 min | 2.5 min |
 | Shell beans | -- | 1.75 min |
 | Snap beans | 3 min | -- |
-| Soybean in pod | 4 min | 3 min |
-| Spinach | 2.5 min | -- |
-| Summer squash | -- | 2 min |
-| Sweet peppers halves | -- | 3 min |
-| Turnip diced | 2 min | 2.5 min |
-| Wax beans | 3 min | 2.5 min |
-
-Note: For corn, cooling time doubles after blanching.
 
 ## See Also
-
 - [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]]
-
-- [[root-cellaring-and-no-energy-food-storage]]
-- [[kitchen-composting-and-vermicomposting]]
-- faires-low-energy-cooking-and-food-preservation
-- mushroom-submerged-fermentation-pharmaceutical
-- [[vermicomposting]]

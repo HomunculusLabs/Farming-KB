@@ -13,12 +13,12 @@ Seed saving networks are community-based systems for preserving, sharing, and br
 
 ## Why Seed Saving Matters
 
-- **Genetic diversity** — preserving a wide gene pool protects against crop failure, disease, and climate variability
+- **Genetic diversity** — preserving a wide gene pool protects against crop failure, disease, and [[macrofungal-fruiting-phenology-climate-variability]]
 - **Regional adaptation** — seeds saved locally year after year become better adapted to local climate, soil, and pest pressures
 - **Self-reliance** — reduces dependence on commercial seed companies, many of which sell F1 hybrids that do not breed true
 - **Cost reduction** — seeds are free once the initial stock is acquired
 - **Food sovereignty** — communities control their own food supply chain from seed to plate
-- **Cultural preservation** — heirloom varieties carry cultural history, flavor, and nutritional qualities
+- **Cultural preservation** — [[cannabis-landrace-and-heirloom-varieties]] carry cultural history, flavor, and nutritional qualities
 
 ## Open-Pollinated vs Hybrid Seeds
 
@@ -58,7 +58,7 @@ Select seeds from the best plants — not just the best fruit. Consider:
 - Yield
 - Earliness or lateness (for extending the season)
 - Growth habit (bush vs. vining, compact vs. sprawling)
-- Local adaptation traits (drought tolerance, cold hardiness, pest resistance)
+- Local adaptation traits ([[dighton-fungal-drought-tolerance-plant-water-relations]], cold hardiness, pest resistance)
 
 Save from multiple plants (minimum 20-50 for outcrossing species) to maintain genetic diversity.
 
@@ -84,12 +84,12 @@ Seed libraries are community collections where members can borrow seeds, grow pl
 2. Members "check out" seeds for planting
 3. Members grow plants and save seeds from the healthiest individuals
 4. Members return a portion of saved seeds to the library
-5. The library maintains the collection and provides education on seed saving techniques
+5. The library maintains the collection and provides education on [[seed-saving-techniques]]
 
 ### Hosting Models
 - **Public libraries** — many public libraries host seed collections as a community service
 - **Community centers** — attached to existing community gathering spaces
-- **Farms and gardens** — hosted at community gardens, farms, or [[permaculture-community-resilience]] hubs
+- **Farms and gardens** — hosted at [[gaias-garden-creating-community-gardens]], farms, or [[permaculture-community-resilience]] hubs
 - **Online platforms** — digital catalogs connecting savers across regions
 
 ### Challenges

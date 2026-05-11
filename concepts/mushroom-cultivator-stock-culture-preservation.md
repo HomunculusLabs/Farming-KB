@@ -1,5 +1,5 @@
 ---
-title: "mushroom cultivator stock culture preservation Preservation Methods"
+title: Mushroom Cultivator Stock Culture Preservation
 created: 2026-04-28
 tags: [mycology], strain-preservation, culture-storage, slant-culture,
       mushroom-cultivator, strain-vitality]
@@ -21,17 +21,17 @@ sterilized and inoculated with mushroom [[mushroom-cultivator-agar-media-formula
 2. Fill test tubes one-third of the way
 3. Plug with cotton and cover with aluminum foil (or screw on cap
    if tubes are of this type)
-4. Sterilize in a pressure cooker for 30 minutes at 15 psi
+4. Sterilize in a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] for 30 minutes at 15 psi
 5. Allow the cooker to return to atmospheric pressure, then take
    it into the sterile room before opening
 6. Remove slants, gently shake to distribute liquified media
 7. Lay tubes at a 15-30 degree angle to cool and solidify
 
 ### Inoculation and Labeling
-Inoculate slants with a fragment of mushroom mycelium. Label each
+Inoculate slants with a fragment of [[antimicrobial-compounds-mushroom-mycelium]]. Label each
 tube with:
 - The date
-- Type of agar medium
+- Type of [[agar-medium-preparation]]
 - Species name
 - Strain designation
 
@@ -88,33 +88,3 @@ growth and yielded uncontaminated cultures when subcultured.
 
 ### Longevity Limits
 Strains saved for more than 5 years under mineral oil showed distinct
-signs of degeneration, while the same strains were just as productive
-at 2.5 years as when first preserved. Cultures can be stored up to
-two years without serious impairment to vitality.
-
-## Alternative Preservation Methods
-
-Four additional methods are described in the Mushroom Cultivator:
-
-1. **Liquid nitrogen immersion**: An expensive but highly effective
-   procedure for long-term cryopreservation
-2. **Compost storage**: Inoculation of washed, sterilized horse
-   manure/straw compost kept at 36-38 degrees Fahrenheit
-3. **Sawdust/bran storage**: Inoculation of sawdust/bran media for
-   wood decomposer species (see wood-based substrates)
-4. **[[mushroom-cultivator-strain-selection]].
-
-## Key Considerations
-
-- Do not expect mycelium grown for several years at optimum
-  temperatures to resemble the primary culture from which it came
-- After many cell divisions and continual transfers, a sub-strain
-  may be selected that distantly resembles the original in vitality,
-  appearance, and fruiting potential
-- Returning strains to storage when not in use, rather than keeping
-  them in continuous active growth, significantly extends their
-  productive lifespan
-
-## See Also
-
-- [[mushroom-stock-culture-preservation]]

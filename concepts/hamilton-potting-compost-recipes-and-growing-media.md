@@ -1,5 +1,5 @@
 ---
-title: "hamilton potting compost recipes and growing media Recipes and Growing Media"
+title: Hamilton Potting Compost Recipes And Growing Media
 created: 2026-04-28
 tags: [potting-compost, growing-media, greenhouse, propagation, organic-gardening]
 date: 2026-04-25
@@ -14,14 +14,14 @@ Choosing and making the right potting compost is essential for success with
 container-grown plants, greenhouse crops, and propagation. Plants grown in
 containers have different requirements from those cultivated in open ground,
 depending entirely on the gardener for nutrients, water, and a suitable
-growing medium. Several approaches to potting compost are available to the
+[[cervantes-green-algae-growing-medium]]. Several approaches to potting compost are available to the
 organic gardener, ranging from commercially produced mixes to homemade
 recipes.
 
 ## Commercial Organic Composts
 
 A number of organic potting and seed composts are commercially available,
-either peat-free or peat mixed with animal manure, worm-worked material, or
+either peat-free or peat mixed with [[animal-manure-guide]], worm-worked material, or
 kelp. Because commercial products vary greatly in quality and performance,
 trial and error is the only way to evaluate them. Once you find a compost
 that suits you and your plants, it is worth staying with it.
@@ -30,7 +30,7 @@ that suits you and your plants, it is worth staying with it.
 
 Many gardeners prefer soil-based composts, and there are clear advantages.
 Soil retains moisture longer than peat and is much easier to rewet if it
-does dry out. Most good garden soils also contain trace elements that are
+does dry out. Most good [[ph-and-nutrient-availability-garden-soils]] also contain [[teaming-with-nutrients-micronutrients-and-trace-elements]] that are
 absent from peat-based products. Soil-based composts are particularly
 recommended for plants grown in containers outside, where they may receive
 less frequent attention, and for plants like chrysanthemums and fuchsias
@@ -61,7 +61,7 @@ your own loam over a period of about three years.
 
 Making fibrous loam for soil-based potting compost is straightforward but
 requires patience. Use the space between and around rows of raspberries,
-soft fruit bushes, or apple trees. Sow the ground with grass and use it as
+[[holzer-soft-fruit-bushes-and-berries]], or apple trees. Sow the ground with grass and use it as
 a path for at least a year. Then strip off the grass with a 1in (2.5cm)
 layer of soil and stack it, grass side down, for a year.
 
@@ -88,49 +88,3 @@ liquid kelp feed applied when needed, provides good nutrition.
 ### Leaf Mold and Vermiculite Compost
 
 Mix leaf mold with vermiculite in roughly equal parts for a lightweight,
-free-draining potting medium suitable for a wide range of plants. This is
-particularly good for propagation and for plants that resent sitting in
-wet conditions.
-
-### Worm-Worked Compost Mix
-
-Worm-worked compost can be mixed with peat for a rich growing medium, or
-for a fully peat-free version, [[query-how-to-make-and-use-leaf-mold-in-your-garden]] mixed with vermiculite. Worm
-compost is nutrient-rich and biologically active, making it an excellent
-component of any [[solomon-potting-mix-and-seedling-soil-recipe]].
-
-## Feeding Container-Grown Plants
-
-The base fertilizer contained in all composts will be used up by plants
-within about eight weeks. This is because there is less soil life than
-outside to create and release nutrients, and because constant watering
-washes nutrients away more quickly. Container plants must therefore be
-provided with additional food regularly.
-
-Use homemade animal-manure tea or a commercial liquid kelp or
-animal-manure feed. Kelp is ideal for most purposes because it contains
-the full range of nutrients needed for healthy plant growth. Always use
-fertilizers at the recommended strength and frequency; overfeeding causes
-more damage than underfeeding. At the height of the [[savory-growing-season-and-non-growing-season-management]],
-demanding plants such as tomatoes and cucumbers may need feeding every
-time they are watered.
-
-## Repotting Plants
-
-When roots completely fill the pot, the plant must be repotted into a
-slightly larger container. Do this in spring or summer, never during winter
-dormancy. Plants should not be moved into pots very much larger than the
-current one, as surrounding roots with a mass of cold, wet compost is not
-conducive to root growth. A convenient method is to pack fresh compost
-around the discarded pot to form a mold into which the root ball fits,
-preventing any damage during transplanting.
-
-## Related
-
-- [[hamilton-melon-and-pumpkin-growing]]
-
-- [[hamilton-peat-free-gardening-and-alternatives]]
-- [[hamilton-leaf-mold-making-using]]
-- [[hamilton-container-raised-bed-gardening]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
-- [[stellaria-media]]

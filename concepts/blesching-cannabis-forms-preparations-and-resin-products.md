@@ -1,13 +1,13 @@
 # Cannabis Forms, Preparations, and Resin Products
 
 ## Source
-- **Book:** The Cannabis Health Index: Combining the Science of Medical Marijuana with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
+- **Book:** The [[blesching-cannabis-health-index-autoimmune-conditions]]: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
 - **Author:** Uwe Blesching, PhD (2015)
 - **Chapter:** Chapter I — Forms of Cannabis
 
 ## Overview
 
-Blesching catalogs the diverse forms in which cannabis is used medicinally, ranging from dried flower buds to concentrated extracts and pharmaceutical preparations. Each form has distinct pharmacokinetic properties affecting onset time, duration of effect, bioavailability, and therapeutic applications. This page details the major categories of cannabis preparations, their production methods, advantages, and risks.
+Blesching catalogs the diverse forms in which cannabis is used medicinally, ranging from dried flower buds to concentrated extracts and pharmaceutical preparations. Each form has distinct pharmacokinetic properties affecting onset time, duration of effect, bioavailability, and [[psilocybin-therapeutic-applications]]. This page details the major categories of cannabis preparations, their [[hashish-production-methods]], advantages, and risks.
 
 ## Dried Cannabis Flower
 
@@ -20,7 +20,7 @@ The most traditional and widely used form. Dried buds, flowers, and leaves of th
 - Must be stored in airtight, light-proof containers for optimal preservation
 
 ### Advantages
-- Full entourage effect from whole-plant chemistry
+- Full [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] from whole-plant chemistry
 - Immediate onset when smoked or vaporized (seconds to minutes)
 - Easy dose titration with inhalation (one puff at a time)
 - Wide availability through dispensaries
@@ -81,67 +81,10 @@ Fresh, unheated cannabis leaf and flower contain cannabinoids in their acid form
 - THCA and CBDA have documented anti-inflammatory, anti-nausea, and neuroprotective properties
 - High doses can be consumed without psychoactive effects
 - Raw cannabis provides a concentrated source of acidic cannabinoids that are largely lost during drying and heating
-- Patient testimonials and physician case studies suggest benefits, though controlled clinical trials are limited
+- Patient testimonials and physician case studies suggest benefits, though controlled [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] are limited
 
 ### Limitations
 - Requires access to fresh plant material (best for home growers)
 - Bitter taste requires masking with other ingredients
 - Acidic cannabinoids are less well-studied than their decarboxylated forms
 - Shelf life is very short compared to dried preparations
-
-## Kief and Hashish
-
-Kief and hashish are concentrated resin products derived from the trichomes (resin glands) of mature, ripe cannabis flower buds.
-
-### Kief
-- Loose, powdery resin crystals separated from plant material using screens or sieves
-- Typically 2-4× the potency of regular dried flower by weight
-- Can be sprinkled on bowls or joints for enhanced potency
-- Collects passively in multi-chamber grinders
-
-### Hashish
-- Kief that has been heated and pressed into a dense, cohesive mass
-- Production methods include hand-rubbing (charas), dry-sieving, and ice-water extraction
-- Ice-water extraction uses cold water and agitation to mechanically separate trichomes, filtering through progressively finer mesh bags
-- Potency ranges from 20-60% THC depending on quality and method
-- More compact and stable for storage than loose kief
-
-## Tinctures
-
-Liquid extracts made by dissolving cannabis in alcohol or glycerin. Alcohol tinctures ("green dragon") extract cannabinoids efficiently, allow sublingual dosing for faster absorption, and have long shelf life. Glycerin tinctures are sweeter and alcohol-free but extract less efficiently. Both allow precise dropper-based dosing.
-
-## Topical Preparations
-
-Cannabis-infused creams, balms, and oils applied to the skin for localized pain relief, skin conditions, and anti-inflammatory action. Since cannabinoid receptors (CB1 and CB2) are present in the skin, topicals provide therapeutic benefits without systemic psychoactive effects. Carrier bases include coconut oil, almond oil, hemp seed oil, beeswax, and shea butter.
-
-## Pharmaceutical Cannabinoid Preparations
-
-Blesching lists four pharmaceutical products derived from cannabis:
-
-| Product | Form | Primary Cannabinoid | Status |
-|---------|------|--------------------|--------|
-| Dronabinol (Marinol) | Oral capsule | Synthetic THC | FDA-approved |
-| Nabilone (Cesamet) | Oral capsule | Synthetic THC analog | FDA-approved |
-| Sativex | Oral spray | THC + CBD (whole plant) | Available in many countries |
-| Rimonabant (Acomplia) | Oral tablet | CB1 antagonist (inverse agonist) | Withdrawn (psychiatric side effects) |
-
-## Solvent-Based Concentrates
-
-Blesching warns about the dangers of solvent extraction. Solvents (hexane, butane, isopropyl alcohol) produce the highest cannabinoid concentrations but are highly flammable — home production explosions have caused serious injuries and deaths. Solvent residue may also contaminate the final product. Commercial CO2 extraction is safer and produces clean products.
-
-## Key Takeaways
-
-- Cannabis is consumed in at least six major forms: dried flower, edibles, fresh raw, resin (kief/hashish), tinctures, and topicals
-- Each form has distinct onset times, durations, and effect profiles
-- Vaporization eliminates combustion byproducts while preserving therapeutic compounds
-- Edibles produce delayed, longer-lasting effects through hepatic conversion to 11-hydroxy-THC
-- Raw cannabis provides non-psychoactive acidic cannabinoids (THCA, CBDA) with anti-inflammatory properties
-- Solvent-based concentrates carry significant safety risks from flammable solvents and residual contamination
-- Pharmaceutical preparations offer standardized dosing but lack the full entourage effect of whole-plant preparations
-
-## See Also
-- [[blesching-cannabis-administration-methods]]
-- [[blesching-cannabis-therapeutic-window-dosing]]
-- [[cannabis-flavonoids]]
-- [[cannabis-terpenoid-profiles-detailed]]
-- [[blesching-cannabis-terpenoids-and-flavonoids]]

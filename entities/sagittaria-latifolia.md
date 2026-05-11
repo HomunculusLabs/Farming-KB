@@ -87,26 +87,3 @@ The species can become weedy in rice paddies and irrigation ditches in agricultu
 ## Cultivation
 
 *S. latifolia* is easily cultivated in shallow ponds, bog gardens, and water features. Planting is done by setting rhizome sections 5–10 cm deep in muddy substrate at the desired water depth.
-
-Plants establish rapidly from rhizome divisions and tubers. Spring planting produces flowering stems by mid-summer and tuber formation by autumn. No fertilizer is typically required in nutrient-rich substrates. Over-fertilization should be avoided as it promotes excessive leaf growth at the expense of tuber production.
-
-In ornamental water gardens, the species provides vertical interest and attracts pollinators. The white flower racemes bloom from July through September. Plants die back to rhizomes after first frost and resprout in spring. The architectural leaf form adds texture contrast alongside broader-leaved marginal plants.
-
-Propagation from seed requires cold, wet stratification for 60–90 days. Seed germination is irregular, so vegetative propagation from rhizome division is the preferred method for cultivated plantings. Seeds are small and buoyant, dispersing via water currents to colonize new sites.
-
-Container culture in aquatic plant baskets allows control of the plant's aggressive spread. Regular division every 2–3 years prevents overcrowding and maintains vigor. Hardy to USDA zones 3–10, the species is one of the most cold-tolerant aquatic ornamentals available.
-
-## See Also
-
-- [[sagittaria-sagittifolia]]
-
-- [[phragmites-australis]] — Common reed, dominant grass in freshwater marshes
-- nelumbo-nucifera — Sacred lotus, aquatic plant with edible tubers and seeds
-- [[lemna-minor]] — Common duckweed, free-floating aquatic plant
-- [[eichhornia-crassipes]] — Water hyacinth, free-floating aquatic plant
-- [[portulaca-oleracea]] — Purslane, wild edible with succulent leaves
-- [[azolla-filiculoides]] — Mosquito fern, floating aquatic fern with nitrogen-fixing symbionts
-- [[oxalis-tuberosa]] — Oca, Andean tuber crop in the Oxalidaceae family
-- [[plantago-major]] — Broadleaf plantain, common edible and medicinal herb
-- [[rumex-acetosa]] — Common sorrel, edible wild herb with tart leaves
-- [[colocasia-esculenta]] — Taro, widely cultivated tropical tuber crop

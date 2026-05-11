@@ -1,5 +1,5 @@
 ---
-title: mollison pdc arid landscape settlement Settlement and Water Strategy
+title: Mollison Pdc Arid Landscape Settlement
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -47,7 +48,7 @@ of the scarp onto the pediment. Key placement principles:
 - Gutters can be cut along cliff tops to redirect rain away from cliff
   faces
 
-The American Indians of the southwest desert areas long made homes in
+The [[yage-common-themes-south-american-indians]] of the southwest desert areas long made homes in
 these scarps and niches at the foot of the scarp. In Anatolia, southern
 Iran, and Egypt, people carved dwellings into the soft desert rock with
 primitive tools.
@@ -87,39 +88,3 @@ canyons, up on cliffs within the box canyons." The advantages are:
 ## Growth Potential in the Desert
 
 Despite the harsh environment, desert vegetation responds very quickly
-to water. The PDC emphasizes that the limiting factor in the desert is
-not food but water. When water reaches wadi soils:
-
-- Growth response is very fast -- fruiting grapes from a cutting within
-  15 months
-- Citrus, grapes, apricots, pistachios, and almonds are typical desert
-  crops
-- Most normal vegetable crops can grow, particularly melons
-- Dates grow in soaked desert sands where damp soils persist for a
-  couple of years after rain
-- Soils are unexploited: fresh mineral, every sort of mineral, in
-  enormous quantities
-
-## Desert Agriculture and Water Storage
-
-The PDC describes strategies for reliable agriculture in limited desert
-water situations. See [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for [[permplant-willows-salix-erosion-control-fodder]] in arid regions:
-
-- Rock wall dams can store 100,000 gallons, built from rock and cement
-- Rock [[mollison-designers-diversion-drains-and-interceptor-banks]] from molded concrete or low stonewalls can
-  consolidate scattered flow
-- Die ponds (hand-dug) never dry up and provide reliable stock water
-- Limited situations exist where catchment is large and reliable enough
-  for modest agriculture
-- Desert vegetation grows very quickly when watered; the response is
-  "very fast"
-
-## Animal Systems in Arid Landscapes
-
-Mollison discusses the complex role of animals in desert ecology. For Mollison's analysis of aquaculture in arid environments, see mollison-pdc-arid-landscape-scarp-ecology-and-settlement
-## See Also
-- [[permaculture-design]]
-- [[arid-landscape-scarp-wadi-desert-settlement]]
-- [[mollison-designers-check-dam-types-and-landscape-placement]]
-- [[mollison-arid-lands-aquatic-species]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

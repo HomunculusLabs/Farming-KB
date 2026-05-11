@@ -10,7 +10,7 @@ tags: [fungi, plants]
 
 # Symbiotic Fungi — Endophytic Fungi in Plants
 
-Endophytic fungi and bacteria live within plant tissues without causing substantive harm to the host plant. They may benefit the host, or benefits may be reciprocal (Bacon et al. 2002). Endophytes are a poorly investigated group of microorganisms that represent an abundant, dependable source of biologically important and chemically novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with potential for exploitation in pharmaceutical and agricultural fields.
+[[query-what-are-endophytic-fungi-and-why-do-they-matter]] bacteria live within plant tissues without causing substantive harm to the host plant. They may benefit the host, or benefits may be reciprocal (Bacon et al. 2002). Endophytes are a poorly investigated group of microorganisms that represent an abundant, dependable source of biologically important and chemically novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with potential for exploitation in pharmaceutical and agricultural fields.
 
 ## Definition and Context
 
@@ -34,7 +34,7 @@ P. indica vastly improves growth and overall biomass production of diverse hosts
 
 - *Bacopa monniera* (Sahay and Varma 1999, 2000)
 - *Azadirachta indica* (Singh et al. 2002, 2003)
-- *Withania somnifera* (Rai et al. 2001)
+- *[[ashwagandha-withania-somnifera]]* (Rai et al. 2001)
 - *Spilanthes calva* (Rai et al. 2001)
 - *Adhatoda vasica* (Rai and Varma 2005)
 - *Chlorophytum borivilianum* (Mathur et al. 2008)
@@ -54,22 +54,22 @@ The majority of hyphae are present in dead rhizodermal and cortical cells that b
 
 ### Gene Expression and Signalling
 
-P. indica promotes growth of Arabidopsis and tobacco seedlings, and stimulates nitrogen accumulation and the expression of genes for nitrate reductase and the starch-degrading enzyme glucan-water dikinase (SEX1) in roots (Sherameti et al. 2005). Deactivating the Arabidopsis single-copy gene DMI-1, which encodes an ion carrier required for mycorrhiza formation in legumes, does not affect the beneficial interaction. A leucine-rich repeat protein is required for growth promotion and enhanced seed production mediated by P. indica in Arabidopsis thaliana (Shahollari et al. 2007).
+P. indica promotes growth of Arabidopsis and tobacco seedlings, and stimulates nitrogen accumulation and the expression of genes for nitrate reductase and the starch-degrading enzyme glucan-water dikinase (SEX1) in roots (Sherameti et al. 2005). Deactivating the Arabidopsis single-copy gene DMI-1, which encodes an ion carrier required for mycorrhiza formation in legumes, does not affect the beneficial interaction. A leucine-rich repeat protein is required for growth promotion and enhanced seed production mediated by P. indica in [[arabidopsis-thaliana]] (Shahollari et al. 2007).
 
 ### Defence Induction
 
-In barley, P. indica induces local and systemic resistance to fungal diseases and tolerance to salt stress. The beneficial effect on the defence status is detected in distal leaves, demonstrating a systemic induction of resistance by a root-endophytic fungus. The systemically altered "defence readiness" is associated with an elevated antioxidative capacity due to activation of the glutathione-ascorbate cycle, and an overall increase in grain yield (Waller et al. 2005).
+In barley, P. indica induces local and [[endophytic-mycorrhizal-induced-systemic-resistance]] to fungal diseases and tolerance to salt stress. The beneficial effect on the defence status is detected in distal leaves, demonstrating a systemic induction of resistance by a root-endophytic fungus. The systemically altered "defence readiness" is associated with an elevated antioxidative capacity due to activation of the glutathione-ascorbate cycle, and an overall increase in grain yield (Waller et al. 2005).
 
 ### Biotechnological Potential
 
 P. indica is a potential candidate to serve as:
 - **Biofertilizer** — stimulates nitrate assimilation, solubilises insoluble phosphatic components
 - **Bioprotector** — induces resistance against fungal diseases
-- **Bioregulator** — modulates plant growth and development
+- **Bioregulator** — modulates plant [[cytokinin-plant-growth-and-development]]
 - **Bioherbicide/weedicide** — potential allelopathic applications
 - **Environmental stress combatant** — resistance against heavy-metal contamination, salt stress, thermal and physical stresses
 
-The fungus also preserves soil fertility and improves plant health. It has great potential for application in agro-forestry, flori-horticulture, arboriculture, viticulture, and especially for better establishment of tissue culture-raised plants.
+The fungus also [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertility]] and improves plant health. It has great potential for application in agro-forestry, flori-horticulture, arboriculture, viticulture, and especially for better establishment of tissue culture-raised plants.
 
 ## Isolation and Cultivation of Endophytes from Plant Roots
 
@@ -87,24 +87,3 @@ Around 30,000 plant species exist on earth, with each individual plant hosting o
 It is important to select healthy and disease-free plant material to prevent isolation of localised pathogenic endophytic microorganisms.
 
 ### Surface Sterilisation
-
-The first step is surface sterilisation of explants. Most commonly employed agents include sodium hypochlorite, mercuric chloride, ethanol, [[cervantes-hydrogen-peroxide-sterilization]], and chloramine T. The standard three-step procedure uses 70% ethanol, sodium hypochlorite, and 70% ethanol again. Nonionic detergents like Tween 20, Triton X-100, or Tween-80 can improve penetration of sterilising agents into niches beyond epidermal cells.
-
-Care must be taken because sterilising agents may penetrate internal tissue and kill the endophytic flora, resulting in lower recovery. Concentration, combination, and incubation period need to be optimised for each plant species and tissue type.
-
-### Cultivation
-
-Surface-sterilised root tissue is cut into small pieces (7-8 mm) and subjected to cultivation on nutrient media. Most endophytic bacteria grow on routine laboratory media: Luria broth, glucose [[marmite-yeast-extract-straw-substrate]] agar, tryptic soy agar, King's B medium, and MacConkey agar. Maceration (using sterile mortar and pestle, homogeniser, or blender) helps isolate both slow- and fast-growing cultures.
-
-## Co-Culture Applications
-
-The interaction between P. indica and plant cells can be exploited in co-culture systems. In co-culture of *Linum album* cells with P. indica, the fungus acts as a biotic elicitor to enhance production of podophyllotoxin, an anticancer aryltetralin lignan. The phenylalanine ammonia lyase (PAL) enzyme, a rate-limiting step of lignan biosynthesis, serves as a key indicator of yield enhancement.
-
-## See Also
-
-- [[symbiotic-fungi-piriformospora-indica]]
-- [[endophyte-isolation-techniques]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhizal-biocontrol]]
-- [[mycorrhizal-carbon-allocation]]
-- [[symbiotic-fungi-endophytic-fungi-plant-protection]]

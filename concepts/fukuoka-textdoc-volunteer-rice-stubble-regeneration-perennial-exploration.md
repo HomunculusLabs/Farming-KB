@@ -88,33 +88,3 @@ other aspects of rice production. In contrast, [[fukuoka-illusions-of-scientific
 cultivation into narrow specialties — experts on germination, specialists in tillage,
 and separate authorities on seeding, transplanting, and pest control. Fukuoka argued
 that this fragmentation was fundamentally misguided. In rice cultivation, preparing
-the field, sowing the seed, tilling, covering the seed with soil, fertilizing,
-weeding, and disease and pest control are all organically interrelated. No problem
-in any one area is truly solved unless a common solution is found for all areas.
-
-His famous formulation captured this insight: "One thing is all things. To resolve
-one matter, one must resolve all matters. Changing one thing changes all things."
-Once he made the decision to sow rice in the fall, he found that he could also stop
-transplanting, stop plowing, stop applying [[cannabis-chemical-fertilizers]], stop preparing
-compost, and stop spraying pesticides. The perennial rice question was not merely
-about a different [[coleman-winter-harvest-planting-schedule]] — it was about a fundamentally different
-relationship with the land.
-
-## Legacy and Significance
-
-Although Fukuoka never achieved practical perennial rice cultivation, his exploration
-of the concept has inspired subsequent researchers. Modern agricultural science has
-begun to take perennial grains more seriously as a response to soil erosion, energy
-inputs, and the environmental costs of annual tillage. Fukuoka's observations about
-volunteer rice shoots and stubble regeneration were prescient, pointing toward
-possibilities that conventional agriculture had long ignored in its pursuit of
-maximized annual yields through intensive intervention.
-
-## See Also
-
-- [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]] and the one-straw revolution
-- Clay pellet seed coating technique
-- [[clay-seed-pellets-direct-seeding]] vs. transplanting in rice cultivation
-- No-tillage rice/barley [[no-tillage-rice-barley-succession-cropping]]
-- Perennial grain research in [[fukuoka-critique-modern-agriculture]]
-- The ecological role of grain waste in winter food webs

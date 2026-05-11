@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in North America north of Mexico." Flora of North America, Vol. 23.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in guzman-psilocybin-mushrooms-north-america north of Mexico." Flora huckleberries-and-wild-berries-of-north-america, Vol. 23.
   - Egorova, T.V. (1999). "The Sedges (Carex L.) of Russia and Adjacent States." Missouri Botanical Garden Press.
   - Welsh, S.L. (1974). "Anderson's Flora of Alaska and Adjacent Parts of Canada." Brigham Young University Press.
 ---
@@ -18,7 +18,7 @@ sources:
 
 Carex aquatilis is a widespread circumpolar sedge commonly known as water sedge or leafy tussock sedge.
 
-It is one of the most broadly distributed Carex species in the Northern Hemisphere, ranging across arctic and subarctic regions of North America, Europe, and Asia.
+It is one of the most broadly distributed Carex species in the Northern Hemisphere, ranging across arctic and subarctic regions [[huckleberries-and-wild-berries-of-north-america]], Europe, and Asia.
 
 This species is a dominant graminoid in wetland and riparian communities, often forming extensive stands along streambanks, lake margins, and pond edges.
 
@@ -78,63 +78,12 @@ Rhizomatous growth makes this species an effective soil stabilizer along streamb
 
 The dense root network binds alluvial soils and reduces erosion during spring snowmelt and flood events.
 
-Carex aquatilis is moderately tolerant of moderate grazing pressure and can persist in grazed wet meadows.
+Carex aquatilis is moderately tolerant of moderate [[gadd-mycelial-network-resilience-grazing-pressure]] and can persist in grazed wet meadows.
 
 It is often an early colonizer of disturbed riparian habitats and can establish on freshly deposited alluvium.
 
-The species is adapted to cold climates and exhibits high photosynthetic efficiency at low temperatures.
+The species is adapted to [[query-best-kiwifruit-varieties-for-cold-climates]] and exhibits high photosynthetic efficiency at low temperatures.
 
 Phenology is closely tied to snowmelt, with active growth beginning immediately after thaw in May or June.
 
-Seed production is variable, with sexual reproduction playing a secondary role to clonal spread in most populations.
-
-## Cultivation
-
-Carex aquatilis is occasionally cultivated for wetland restoration and ecological landscaping in cold climates.
-
-Propagation is most commonly achieved through division of established clumps in early spring.
-
-Seed germination requires cold stratification for 60 to 90 days, though germination rates are often low and variable.
-
-Transplants establish readily when planted at the appropriate water depth in saturated or shallowly inundated soils.
-
-The species is not widely available in the commercial horticultural trade but is grown by specialty native plant nurseries.
-
-It is hardy to USDA zone 1, making it one of the most cold-tolerant ornamental sedges available.
-
-Growth rate is moderate, with established plants filling in a one-square-meter area within two to three growing seasons.
-
-No significant pest or disease problems affect cultivated plants in garden settings.
-
-## Uses and Conservation
-
-Water sedge has traditional uses among indigenous peoples of the Arctic and subarctic.
-
-Inuit and Athabascan peoples have used the leaves for weaving baskets and mats, and the tussocks as insulation in shelters.
-
-The plant provides early-season forage for both wild and domesticated reindeer in Scandinavian and Siberian tundra.
-
-Carex aquatilis is widely used in wetland restoration projects across boreal North America.
-
-Its soil-binding capacity and tolerance of inundation make it valuable for streambank bioengineering and erosion control.
-
-The species is considered secure globally and is not at risk of extinction.
-
-However, local populations may be threatened by wetland drainage, peat extraction, and climate-driven permafrost degradation in arctic regions.
-
-Warming temperatures and altered hydrology may shift the competitive balance between Carex aquatilis and more southerly sedge species in boreal wetlands.
-
-## See Also
-
-- [[carex-acutiformis]]
-
-- [[ranunculus-aquatilis]]
-
-- [[carex-stricta]]
-- [[carex-stipata]]
-- [[carex-pensylvanica]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]
-- [[typha-latifolia]]
-- [[schoenoplectus-lacustris]]
-- [[phalaris-arundinacea]]
+[[cannabis-controlled-pollination-seed-production]] is variable, with [[basidiomycete-mating-systems-sexual-reproduction]] playing a secondary role to clonal spread in most populations.

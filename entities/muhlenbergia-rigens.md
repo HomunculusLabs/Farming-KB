@@ -88,34 +88,3 @@ The species is deer-resistant once established, despite its common name. The fol
 Plants prefer full sun and well-drained soils but tolerate clay, seasonal flooding, and summer drought. No irrigation is needed after establishment in most California [[mollison-climate-zones-permaculture-strategies]]. Supplemental summer irrigation maintains greener foliage but is not required.
 
 Planting is best done in fall through early spring to take advantage of seasonal rainfall. Space plants 0.9–1.2 m apart. Establishment takes one to two growing seasons, with rapid growth in the second year.
-
-Maintenance is minimal. Cutting back to 10–15 cm above ground in late winter or early spring removes old foliage and stimulates fresh growth. Division of large clumps every three to five years rejuvenates older plantings.
-
-The species is generally free of significant [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]. Root rot can occur in poorly drained, persistently waterlogged sites. Deer occasionally browse new growth but rarely cause significant damage.
-
-## Uses and Ethnobotany
-
-Deergrass holds considerable ethnobotanical significance among Indigenous California peoples. The Cahuilla, Kumeyaay, and other groups used the flower stalks extensively in coiled basketry.
-
-Harvested flower stalks were split and used as the foundation or warp elements in coiled baskets. The long, straight, flexible culms were prized for their durability and uniformity. Basket weavers managed deergrass stands through controlled burning to promote the production of straighter, more uniform stems.
-
-Traditional land management practices included periodic burning of deergrass stands every two to three years. Fire removed accumulated thatch, stimulated new culm production, and maintained the health and productivity of the grass colonies.
-
-In modern ecological restoration, deergrass is widely used for riparian revegetation, streambank stabilization, and native grassland re-creation projects throughout California. Its deep root system and rapid establishment make it a reliable species for [[permplant-willows-salix-erosion-control-fodder]].
-
-The species is a staple of the California native plant landscaping movement. It provides textural contrast, vertical accent, and year-round structure in residential and commercial sustainable landscapes.
-
-## See Also
-
-- [[brachiaria-brizantha]]
-
-- [[deschampsia-flexuosa]]
-- [[pennisetum-setaceum]]
-- [[pseudotsuga-menziesii]]
-- [[quercus-robur]]
-- [[salix-alba]]
-- [[populus-tremuloides]]
-- [[juncus-effusus]]
-- [[acer-saccharum]]
-- [[ulmus-americana]]
-- [[juniperus-communis]]

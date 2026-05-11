@@ -39,7 +39,7 @@ Sanshō is considered one of Japan's essential seasonings alongside wasabi, shis
 
 **Botanical authority:** Augustin Pyramus de Candolle, 1824.
 
-The genus *Zanthoxylum* contains approximately 250 species distributed across temperate and tropical regions worldwide.
+The genus *Zanthoxylum* contains approximately 250 species distributed across temperate and [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
 
 Several related species produce similar spices, including Chinese *Z. bungeanum* (huājiāo) and Nepalese *Z. armatum* (timur).
 
@@ -69,7 +69,7 @@ Natural populations are found in mountainous forests, forest margins, and stream
 
 The plant prefers partial shade to full sun in well-drained, slightly acidic to neutral forest soils.
 
-It is cold-hardy to approximately -15°C, making it suitable for cultivation in temperate regions.
+It is cold-hardy to approximately -15°C, making it suitable for cultivation in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Wild populations have declined in some areas due to habitat loss, though the species is not currently considered threatened.
 
@@ -88,46 +88,3 @@ The young spring shoots (kinome) are used as a garnish and flavoring in traditio
 Kinome has a fresh, minty-citrus flavor and is typically lightly bruised or slapped against the hand to release its aroma before use.
 
 Sanshō pairs particularly well with fatty meats and fish, as the numbing sensation enhances the perception of richness.
-
-The spice is also used in simmered dishes (nimono) and in the preparation of certain types of tsukemono (pickles).
-
-## Cultivation and Harvesting
-
-Cultivation is primarily centered in Wakayama Prefecture, Japan, which produces approximately 80% of the domestic sanshō supply.
-
-Plants are typically propagated from seed, though cuttings and root division are also practiced.
-
-Male and female plants must be grown in proximity to ensure successful fruit set through cross-pollination.
-
-Harvesting of pericarps occurs from mid-summer to early autumn when fruits turn reddish-brown.
-
-The entire fruit cluster is harvested and the pericarps are separated from the seeds by drying and winnowing.
-
-Young shoots (kinome) are harvested in [[coleman-overwintered-onions-and-early-spring-crops]] before the leaves fully expand.
-
-Commercial production is relatively small-scale compared to other spices, with most Japanese sanshō sourced from small farms.
-
-The plant has few serious pest or disease problems, though scale insects and leaf miners can affect ornamental specimens.
-
-## Bioactive Compounds and Pharmacology
-
-The characteristic numbing sensation is caused by **hydroxy-α-sanshool**, an unsaturated alkylamide that activates trigeminal nerve endings.
-
-Sanshool acts on the TRPA1 and TRPV1 ion channels, producing a tingling, slightly analgesic sensation distinct from the burning heat of capsaicin.
-
-The pericarps contain 2–4% [[permaculture-designers-manual-essential-oil-plants]], with major constituents including limonene, geranyl acetate, and citronellal.
-
-Flavonoids isolated from the species include quercitrin, hyperin, and rutin with documented antioxidant activity.
-
-Traditional Japanese medicine (Kampo) uses sanshō as a carminative, digestive stimulant, and anti-parasitic agent.
-
-Modern pharmacological studies have demonstrated antibacterial, anti-inflammatory, and hepatoprotective activities in vitro.
-
-The essential oil shows insecticidal and antifungal properties, supporting the plant's traditional use as a natural preservative.
-
-## See Also
-
-- [[zingiber-officinale]]
-- [[elettaria-cardamomum]]
-- [[coriandrum-sativum]]
-- [[laurus-nobilis]]

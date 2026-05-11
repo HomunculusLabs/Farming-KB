@@ -46,7 +46,7 @@ The calyx is shorter than the corolla tube and bears five narrow lobes. Flowerin
 
 The fruit is a dry, two-valved capsule containing numerous small, light brown seeds. Seeds are wind-dispersed and require light for germination.
 
-This species is distinguished from the closely related Gentiana acaulis by its shorter calyx lobes and absence of green stripes inside the corolla tube. The two species are frequently confused in cultivation and in older botanical literature.
+This species is distinguished from the closely related [[gentiana-acaulis]] by its shorter calyx lobes and absence of green stripes inside the corolla tube. The two species are frequently confused in cultivation and in older botanical literature.
 
 ## Distribution and Habitat
 
@@ -56,7 +56,7 @@ Notable populations occur in the Swiss Alps, the Dolomites of Italy, the Austria
 
 It grows at elevations between 1,500 and 3,000 meters, inhabiting alpine meadows, rocky grasslands, and scree slopes. The species prefers calcareous (limestone) substrates, which distinguishes it ecologically from Gentiana acaulis that favors acidic soils.
 
-Typical habitats include short alpine turf, limestone pavements, and crevices in calcareous rock outcrops. It thrives in full sun to light shade and requires excellent drainage with consistent moisture during the growing season.
+Typical habitats include short alpine turf, limestone pavements, and crevices in calcareous rock outcrops. It thrives in full sun to light shade and requires excellent drainage with consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Populations are often localized, restricted to bands of suitable limestone geology within mountain ranges. In the Dolomites and Northern Calcareous Alps, the species can be locally abundant on south-facing slopes.
 
@@ -74,11 +74,11 @@ Seed-grown plants may take 3–5 years to reach flowering size. Patience is requ
 
 **Watering:** Keep moderately moist during active growth but avoid waterlogging at all times. Winter wet is a primary cause of losses in cultivation.
 
-A top dressing of limestone chips around the crown helps prevent crown rot and maintains the alkaline soil conditions the species requires. Mulching with grit also deters slugs.
+[[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]] of limestone chips around the crown helps prevent crown rot and maintains the alkaline soil conditions the species requires. Mulching with grit also deters slugs.
 
-**Companion plants:** It pairs well with other lime-loving alpines such as Saxifraga, Androsace, and Primula auricula in rock garden settings.
+**Companion plants:** It pairs well with other lime-loving alpines such as Saxifraga, Androsace, and [[primula-auricula]] in rock garden settings.
 
-**Pests and diseases:** Slugs and snails can damage new growth in spring. Crown rot occurs in poorly drained soils and is the most common cause of plant death in cultivation.
+**[[mushroom-pests-and-diseases]]:** [[jadam-pesticide-for-slugs-and-snails]] can damage new growth in spring. Crown rot occurs in poorly drained soils and is the most common cause of plant death in cultivation.
 
 ## Ecological Role
 
@@ -87,34 +87,3 @@ Gentiana clusii is pollinated primarily by bumblebees (Bombus spp.) that are str
 The species contributes to alpine biodiversity by providing an important early-season nectar source. Its flowering period coincides with the emergence of many overwintering bumblebee queens.
 
 In its native limestone grasslands, it is an indicator species for calcareous alpine turf communities. These communities are among the most species-rich plant assemblages in Europe at small spatial scales.
-
-Mycorrhizal associations are important for nutrient uptake in the nutrient-poor alpine soils where the species grows. The plant forms partnerships with arbuscular mycorrhizal fungi common in limestone substrates.
-
-## Uses and Ethnobotany
-
-Gentiana clusii is primarily valued as an ornamental plant for rock gardens and alpine houses. Its vivid blue flowers and compact growth habit make it a favorite among alpine plant enthusiasts.
-
-Like other Gentiana species, it contains bitter gentiopicroside compounds in its roots, though it is not a commercially significant source of gentian bitters. Traditional alpine communities occasionally used the roots as a flavoring agent.
-
-The bitter principles have been studied pharmacologically, with gentiopicroside showing anti-inflammatory activity in laboratory assays. However, no clinical applications have been developed from this species specifically.
-
-The species has horticultural merit and has received the Royal Horticultural Society's Award of Garden Merit. It is featured in botanical gardens with alpine collections throughout the temperate world.
-
-In the wild, the intensity of its blue flowers has made it a symbol of the European Alps. It appears on postage stamps and in alpine tourism imagery for Switzerland, Austria, and Slovenia.
-
-Conservation concern is moderate, as alpine habitats face pressure from climate change, ski resort development, and overgrazing. However, populations remain stable across much of the core Alpine range.
-
-Collection from the wild for horticultural trade has been reported in some areas, though most nursery stock is now seed-raised. The species is protected by law in several Alpine countries.
-
-## See Also
-
-- [[gentiana-acaulis]]
-- [[gentiana-lutea]]
-- [[gentiana-verna]]
-- [[gentiana-amarella]]
-- [[gentiana-cruciata]]
-- [[gentiana-pneumonanthe]]
-- [[centaurium-erythraea]]
-- [[swertia-chirata]]
-- [[campanula-rotundifolia]]
-- [[campanula-cochlearifolia]]

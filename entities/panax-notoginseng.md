@@ -61,7 +61,7 @@ sources:
 - **Flavonoids**: Quercetin, kaempferol derivatives — antioxidant activity
 - **Volatile oils**: Nerolidol, linalool, and other sesquiterpenes
 - **Amino acids**: Rich in GABA and arginine
-- **Trace elements**: Germanium, selenium, zinc, iron
+- **[[teaming-with-nutrients-micronutrients-and-trace-elements]]**: Germanium, selenium, zinc, iron
 - **Dencichine** (β-N-oxalyl-L-α,β-diaminopropionic acid): Hemostatic amino acid; promotes platelet aggregation
 ### Processing Effects
 - **Raw (sheng) San Qi**: Stronger hemostatic and blood-stasis-resolving action
@@ -75,8 +75,8 @@ sources:
 ### Key Indications
 - Traumatic injury, bruises, and swelling
 - Internal and external bleeding (hemoptysis, hematuria, metrorrhagia)
-- Coronary heart disease and angina pectoris
-- Cerebrovascular disease and ischemic stroke recovery
+- Coronary [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]] and angina pectoris
+- Cerebrovascular disease and ischemic [[cannabis-for-stroke-recovery]]
 - Hyperlipidemia and atherosclerosis
 ### Key Formulations
 - **Yunnan Baiyao**: Proprietary hemostatic powder; *P. notoginseng* is primary active ingredient
@@ -87,28 +87,4 @@ sources:
 ### Ecological Status
 - Wild populations rare and declining due to overharvesting and habitat loss
 - Listed as endangered in some regional assessments; commercial cultivation reduces wild harvest pressure
-- Requires specific mycorrhizal associations; [[root-exudates]] exhibit allelopathic effects, contributing to soil sickness in monoculture.
-### Commercial Grades
-- **Premium (120-head)**: ≥120 roots/500g; small, dense, highest saponin content
-- **Standard (60-head)**: 60–80 roots/500g
-- **Bulk (20-head)**: 20–40 roots/500g; larger roots, lower saponin density
-## Wiki Relevance
-- **Medicinal plant pharmacology**: Exemplifies dual hemostatic/anticoagulant properties challenging simplistic categorization
-- **Saponin chemistry**: Rich dammarane-type ginsenoside source; unique notoginsenosides not found in other *Panax* species
-- **TCM materia medica**: Core herb demonstrating TCM concept of "invigorating blood while stopping bleeding"
-- **Ethnobotany**: One of the most economically significant medicinal plants in traditional Chinese medicine
-- **Permaculture potential**: Shade-tolerant understory crop for montane agroforestry (soil sickness is a management challenge)
-- **Comparative adaptogen research**: Part of broader *Panax* genus for cross-species comparison with Asian and American ginseng
-- **Sustainability**: Overharvesting and soil degradation highlight ecological pressures on high-value medicinal plants
-- **Quality control**: Notoginsenoside R1 content serves as the primary chemical marker for pharmacopeial quality assessment of *P. notoginseng* products.
-## See Also
-
-- [[cylindrocarpon-destructans]]
-- [[endophytic-fungi]]
-- [[panax-ginseng|Panax ginseng]] — Asian ginseng; related adaptogen with overlapping ginsenoside profile
-- [[panax-quinquefolius]]](panax-quinquefolius.md) — American ginseng
-- [[salvia-miltiorrhiza|Salvia miltiorrhiza]] — Danshen; frequently combined with San Qi in cardiovascular formulas
-- Araliaceae — Ginseng family overview
-- Ginsenosides — Triterpenoid saponin compounds shared across *Panax* species
-- Yunnan Baiyao — Famous proprietary formula with San Qi as primary ingredient
-- Adaptogens — Substances supporting stress resistance and homeostasis
+- Requires specific [[plants-without-mycorrhizal-associations]]; [[root-exudates]] exhibit allelopathic effects, contributing to soil sickness in monoculture.

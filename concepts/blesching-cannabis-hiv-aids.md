@@ -88,23 +88,3 @@ properties of cannabinoids, discussed in
 may offer benefits for patients experiencing cognitive decline related to
 HIV infection. CBD in particular has shown neuroprotective effects that
 could be relevant to preserving cognitive function in long-term HIV
-survivors.
-
-## Limitations of the Evidence Base
-
-Blesching acknowledges that the CHI rating of 3 (based on a single study,
-albeit a large one) reflects the limited number of dedicated clinical
-trials for cannabis in HIV/AIDS. Additional randomized controlled trials
-are needed to strengthen the evidence base, particularly regarding optimal
-dosing, [[blesching-cannabis-strain-selection-receptor-targeting]], and long-term effects on immune function and
-disease progression.
-
-## Key Takeaways
-
-- CHI rating of 3 based on 1 major study of 775 patients
-- Cannabis outperformed standard medications in 5 of 6 symptom categories
-- Superior appetite stimulation, nausea control, pain relief, anxiety
-  reduction, and sleep improvement
-- Immunomodulatory effects may provide benefits beyond symptom management
-- Drug interactions with antiretroviral therapy require medical oversight
-- Additional [[mushroom-cancer-clinical-trials-overview]] are needed to strengthen the evidence base

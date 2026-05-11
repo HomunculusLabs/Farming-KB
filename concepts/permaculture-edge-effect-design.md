@@ -111,3 +111,17 @@ Williams defines an ecotone as a "clash zone" where two or more biomes come toge
 - [[mandala-garden-design]]
 - [[permaculture-pond-and-water-garden]]
 - [[permaculture-pattern-literacy]]
+## Design Integration
+
+This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
+
+## Economic Considerations
+
+Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
+
+## See Also
+- [[aboriginal-ecology-permaculture-two]]
+- [[bamboo-permaculture-and-construction]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]

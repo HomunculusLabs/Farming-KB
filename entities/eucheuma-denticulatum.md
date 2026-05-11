@@ -87,29 +87,3 @@ Market prices for dried *E. denticulatum* fluctuate with global carrageenan dema
 *Eucheuma denticulatum* farming areas function as de facto artificial reefs, providing structure and shelter for a diverse community of fish, crustaceans, and mollusks.
 
 The species absorbs dissolved inorganic nitrogen and phosphorus from surrounding water, contributing to nutrient remediation in coastal zones affected by agricultural runoff or aquaculture waste.
-
-However, large-scale monoculture operations can alter benthic [[core-endorhiza-bacterial-community-composition-cannabis]] through shading, reduced water flow, and organic enrichment beneath farm structures.
-
-Epiphytic colonization by filamentous algae and bryozoans is common and can reduce growth rates and carrageenan quality if not managed through appropriate stocking densities and harvest timing.
-
-Introduced populations of *E. denticulatum* have established in several locations outside its native range, including Hawaii and parts of the Caribbean, raising concerns about potential invasiveness.
-
-## Life History and Reproduction
-
-The species reproduces primarily through vegetative fragmentation, which facilitates rapid clonal propagation in aquaculture settings.
-
-Sexual reproduction involves a triphasic life cycle typical of the Gigartinales, with alternation between haploid gametophytes and diploid tetrasporophytes.
-
-In natural populations, tetrasporophytic and gametophytic thalli are morphologically indistinguishable (isomorphic alternation). Cystocarps containing carpospores develop on female gametophytes after fertilization.
-
-Vegetative propagation in commercial settings bypasses the sexual cycle entirely, but the lack of genetic diversity in cultivated stocks increases vulnerability to disease and environmental stress.
-
-## See Also
-
-- [[chondrus-crispus]]
-- [[pyropia-yezoensis]]
-- [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
-- [[laminaria-digitata]]
-- [[ingham-seaweed-sea-minerals-compost-tea]]
-- agar

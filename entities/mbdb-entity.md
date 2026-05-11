@@ -11,7 +11,7 @@ sources:
 
 **Chemical name:** N-Methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine; 2-Methylamino-1-(3,4-methylenedioxyphenyl)butane
 
-**PiHKAL #128** | mdma|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+**PiHKAL #128** | mdma|MDMA. It is the alpha-ethyl homologue of MDMA, meaning the carbon chain between the phenyl ring and the amine group is one carbon longer. This structural modification produces a compound with similar empathogenic qualities but reduced stimulant effects and approximately two-thirds the potency of MDMA. MBDB was explored by [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[ayahuasca-tourism-legal-status-by-country]]: Scheduled in many countries as a controlled substance analogue
 
 ## Related Compounds
@@ -88,12 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

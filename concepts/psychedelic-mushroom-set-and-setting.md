@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Mushroom Set and Setting
+title: Psychedelic Mushroom Set And Setting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-The concepts of "set" and "setting" are foundational principles in psychedelic [[powell-omega-point-and-cosmic-evolution]] use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a psychedelic experience — often more so than the dose itself.
+The concepts of "set" and "setting" are foundational principles in psychedelic use, first articulated by Timothy Leary and popularized through the counterculture movement. Set refers to the internal psychological state of the person, while setting refers to the external physical and social environment. Together, they are the most significant determinants of the quality, safety, and therapeutic value of a [[leary-psychedelic-experience-bardo-mapping]] — often more so than the dose itself.
 
 ## Set: Mental Preparation
 
 ### Intention
 
-Establishing a clear intention before a psychedelic [[powell-omega-point-and-cosmic-evolution]] experience provides direction without rigidly constraining the experience:
+Establishing a clear intention before a psychedelic experience provides direction without rigidly constraining the experience:
 
 - **Therapeutic intention**: Working through specific psychological challenges, trauma, grief, or patterns of behavior
 - **Creative intention**: Seeking inspiration, breaking creative blocks, or exploring new perspectives
@@ -35,8 +35,8 @@ Current mental health significantly affects the experience:
 - **Recent stress**: Can amplify anxiety during the experience; consider postponing
 - **Grief or loss**: Can surface powerfully; may be therapeutic with proper support or destabilizing without
 - **Depression**: Clinical depression does not preclude therapeutic use but requires careful screening and professional guidance
-- **Anxiety disorders**: Generalized anxiety can be amplified; controlled settings with professional support are essential
-- **Bipolar disorder**: Risk of manic episodes; generally contraindicated without psychiatric supervision
+- **[[cannabis-for-anxiety-disorders]]**: Generalized anxiety can be amplified; controlled settings with professional support are essential
+- **[[blesching-cannabis-bipolar-disorder]]**: Risk of manic episodes; generally contraindicated without psychiatric supervision
 - **Psychosis risk**: Personal or family history of psychotic disorders is a strong contraindication
 - **Recent substance use**: Alcohol, stimulants, and other drugs can unpredictably interact; avoid for at least 24-48 hours before
 
@@ -61,7 +61,7 @@ The physical space profoundly influences the experience:
 - **Familiar spaces**: Home or a well-known location provides safety and reduces anxiety
 - **Nature**: Natural environments (forests, gardens, beaches) are consistently rated as positive settings — connection to nature is often enhanced
 - **Dedicated ceremony spaces**: Rooms intentionally prepared with meaningful objects, art, and altars
-- **Clinical settings**: Structured, comfortable rooms designed for psychedelic therapy — increasingly used in clinical trials
+- **Clinical settings**: Structured, comfortable rooms designed for [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] — increasingly used in clinical trials
 - **Avoid**: Unfamiliar, chaotic, crowded, or institutional environments
 
 ### Environmental Controls
@@ -142,13 +142,8 @@ Integration is the process of making sense of and incorporating the insights, em
 - Start with lower doses and increase gradually
 - Always have a trusted trip sitter, especially at moderate to high doses
 - Test substances when possible — see [[fungal-toxins-reference]] for risks of misidentification
-- Never combine with alcohol, stimulants, or other psychoactive substances without expert guidance
+- Never combine with alcohol, stimulants, or other [[cultural-evolution-and-psychoactive-substances]] without expert guidance
 - Avoid driving or operating machinery during and for at least 12 hours after the experience
 - Have a plan for difficult experiences — breathing techniques, change of setting, grounding objects
 - Know your limits and respect them
 - Leave adequate time between experiences (minimum 1-2 weeks; ideally 1-3 months)
-
-
-
-## See Also
-- [[weil-psychedelic-experience-set-and-setting]]

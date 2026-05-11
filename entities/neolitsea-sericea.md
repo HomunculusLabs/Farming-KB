@@ -88,37 +88,3 @@ Propagation is primarily from seed, which requires cold stratification for 2–3
 In traditional Japanese horticulture, the wood has been used for small turned articles and tool handles. The aromatic bark and leaves have limited use in local craft traditions.
 
 Dried leaves have been traditionally used as a flavoring agent in some regional cuisines, imparting a subtle citrus-like aroma to pickled vegetables and rice dishes. This culinary use is documented in historical Japanese food culture texts.
-
-The species shows good tolerance of urban pollution and compacted soils, making it increasingly popular for municipal plantings in temperate East Asian cities.
-
-In Japan, several cultivar selections have been made for enhanced ornamental characteristics, particularly for brighter bronze new growth and more compact habit. These selections are propagated vegetatively to maintain desirable traits.
-
-The aromatic essential oils extracted from leaves contain citral, linalool, and various sesquiterpenes. Research interest in the species' phytochemistry has grown due to potential applications in natural product chemistry.
-
-## Conservation Status
-
-*Neolitsea sericea* is listed as Least Concern on the IUCN Red List. The species has a wide distribution across Japan, Korea, China, and Taiwan, with stable populations in protected forest areas.
-
-Habitat loss from urbanization and agricultural conversion has reduced populations in lowland areas of Japan and eastern China. However, the species persists in secondary forests and is actively cultivated, reducing extinction risk.
-
-The species' ability to regenerate in disturbed habitats and its widespread cultivation provide buffer against wild population declines. It is one of the more resilient Lauraceae species in the face of habitat fragmentation.
-
-Genetic diversity studies using molecular markers have revealed moderate population structure across the species' range. Japanese and Taiwanese populations show measurable genetic differentiation, reflecting historical biogeographic barriers.
-
-[[dighton-fungi-climate-change-feedback]] projections suggest potential northward range expansion into areas currently too cold for establishment. However, the species may face increased competition from deciduous broadleaved species in southern portions of its range.
-
-## See Also
-
-- [[cornus-sericea]]
-- [[neolitsea-aurata]]
-
-- [[litsea-cubeba]]
-- [[litsea-glauca]]
-- [[lindera-benzoin]]
-- [[lindera-obtusiloba]]
-- [[cinnamomum-camphora]]
-- [[cinnamomum-verum]]
-- [[persea-borbonia]]
-- [[laurus-nobilis]]
-- [[sassafras-albidum]]
-- [[cinnamomum-cassia]]

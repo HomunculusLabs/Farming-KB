@@ -87,38 +87,3 @@ Different ecological guilds of macrofungi exhibit distinct phenological patterns
 Some macrofungal species are capable of fruiting multiple times per year or even year-round under favorable conditions. Species of Volvariella, for example, can fruit repeatedly during warm, wet periods. In tropical and subtropical regions, where seasonal temperature variation is minimal, moisture availability becomes the dominant driver of fruiting phenology, and some species may produce sporocarps nearly continuously. This contrasts sharply with temperate regions, where most species have a single, well-defined fruiting season.
 
 ## Phenological Data in Practice
-
-### Herbarium Records as Historical Data
-
-Herbarium specimen labels contain date and locality information that can be used to reconstruct historical fruiting phenology. This archival data source is particularly valuable for establishing baselines in regions where systematic long-term field studies have not been conducted. However, herbarium records are subject to collection bias — collectors tend to visit sites during expected fruiting seasons and during favorable weather, potentially underrepresenting early-season, late-season, or weather-anomalous fruiting events.
-
-### Citizen Science and Phenological Monitoring
-
-Citizen science initiatives, such as fungal foray records maintained by mycological societies, can provide broad-scale phenological data across geographic gradients. While these records typically lack the systematic sampling design of formal research studies, their geographic and temporal coverage can complement intensive local studies and help identify regional phenological patterns that would be difficult for individual research groups to document.
-
-Digital platforms for recording fungal observations have further expanded the potential for phenological monitoring, though challenges remain in standardizing identification quality and effort reporting across contributors with varying levels of expertise.
-
-### Quantitative Phenological Metrics
-
-Researchers have developed several quantitative approaches to characterize fruiting phenology, including first fruiting date, last fruiting date, peak fruiting date, and total fruiting duration. These metrics can be compared across species, sites, and years to identify systematic patterns. Fruiting duration varies from a few days for some agarics to several months for tough, persistent polypores, and this variation must be accounted for when designing sampling schedules.
-
-## Practical Guidance
-
-1. **Plan for multi-year studies** — budget for at least five years, preferably ten or more
-2. **Sample every one to two weeks** throughout the fruiting season to maximize species capture
-3. **Record weather data** alongside fruiting observations to correlate environmental drivers with phenological patterns
-4. **Be prepared for overwhelm years** — have contingency plans for periods of peak simultaneous fruiting
-5. **Use herbarium records** to supplement field observations when historical phenological data are needed
-6. **Conduct pilot studies** before committing to a full sampling design, especially in poorly studied regions
-7. **Report phenological metadata** — include sampling dates, weather conditions, and effort metrics in all publications
-8. **Consider ecological guild** when designing sampling schedules, as different guilds peak at different times
-9. **Document non-fruiting visits** to distinguish absence of fruiting from absence of sampling effort
-10. **Preserve voucher specimens** from every fruiting event to enable retrospective verification of identifications
-
-## See Also
-
-- [[macrofungal-fruiting-phenology-interannual-variation]]
-
-- [[fungal-species-accumulation-rarefaction-estimators]]
-- [[fungal-biodiversity-patterns]]
-- [[fungal-diversity-indices-community-analysis]]

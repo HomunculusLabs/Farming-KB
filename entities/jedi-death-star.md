@@ -22,16 +22,16 @@ sources:
   - Leafly strain database (leafly.com)
   - AllBud strain database (allbud.com)
   - Weedmaps strain information (weedmaps.com)
-  - Cannabis genetic lineage databases
+  - [[cannabis-genetic-stability]] lineage databases
   - Phylos Bioscience genetic testing data
   - Steep Hill cannabinoid/terpene analysis reports
 ---
 
 # Jedi Death Star
 
-**Lineage:** Death Star × [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × Sensi Star (bred by Empire Genetics, Ohio)
-- **Jedi Kush:** Death Star × [[og-kush-cannabis-entity]]
-- **Origin:** Pacific Northwest / California — West Coast creation combining
+**Lineage:** Death Star × [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × [[sensi-star]] (bred by Empire Genetics, Ohio)
+- **[[jedi-kush]]:** Death Star × [[og-kush-cannabis-entity]]
+- **Origin:** [[psilocybin-north-america-pacific-northwest]] / California — [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] creation combining
   Midwestern and European-bred Death Star lines
 
 ## Cannabinoid Profile
@@ -88,46 +88,3 @@ terpene stack that synergizes with high THC for potent sedative and analgesic ef
 - **Insomnia:** Powerful sedative; reliable sleep aid for treatment-resistant insomnia
 - **Muscle spasms:** Deep muscle relaxation reduces cramping and spasticity
 - **Stress/anxiety:** Euphoric onset calms racing thoughts; terpenes enhance anxiolysis
-- **PTSD:** Cerebral euphoria with physical grounding helps manage symptoms
-- **Nausea/appetite:** Effective anti-emetic; strong munchies for cachexia and eating disorders
-
-Best suited for evening and nighttime use. Patients needing daytime functionality should
-look elsewhere.
-
-## Growing Information
-
-| Parameter | Details |
-|-----------|---------|
-| Difficulty | Medium |
-| Flowering time | 8–10 weeks |
-| Yield | Moderate to high |
-| Height | Medium |
-| Structure | Bushy, indica-dominant |
-| Climate preference | Warm and dry |
-| Mold resistance | Good |
-| Nutrient sensitivity | Moderate — sensitive to overfeeding |
-
-### Growth Characteristics
-- Dense, bushy indica structure with broad fan leaves and thick branches
-- Heavy colas requiring staking late in flower
-- Strong odor during flowering — carbon filtration essential for discreet grows
-- Mold/[[cervantes-powdery-mildew-prevention-treatment]] resistant but monitor humidity; nutrient-sensitive — watch for burn
-
-### Recommended Techniques
-- **LST / ScrOG:** Highly effective for canopy management and yield maximization
-- **Topping:** Responds well; encourages lateral branching
-- **Defoliation:** Light defoliation in early flower improves airflow; bamboo stakes or trellis for support
-
-### Harvest
-- Trichomes shift cloudy to amber at 8–10 weeks; amber-heavy = more sedative, cloudy = more cerebral
-
-## Cultural Significance
-- Part of the broader "Death Star" family with a devoted following
-- Name draws from Star Wars; "Jedi" modifier references the Jedi Kush parent
-- Popular among West Coast medical patients for reliable potency and sedation
-- Sought after by experienced users as a creeper strain with devastating effects
-- Represents the trend of backcrossing proven genetics rather than novel combinations
-
-## See Also
-- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
-- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

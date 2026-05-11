@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TIM
 
-PIHKAL entry #153. 3-THIOMESCALINE; 2,4-DIMETHOXY-3-METHYLTHIOPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #153. 3-THIOMESCALINE; 2,4-DIMETHOXY-3-METHYLTHIOPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -37,7 +37,7 @@ introduction of a sulfur into the molecule in place of an oxygen could
 have increased the potency to where it might have some effect. The
 absence of any activity from this TIM, and the other two TIMs, might
 well suggest that isomescaline is really very "non-active," if that
-makes sense!
+[[coleman-first-rule-nature-makes-sense]]!
 
 ## Synthesis
 
@@ -86,14 +86,4 @@ concentrated HCl, and diluted with 15 mL anhydrous Et2O. Scratching
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[pe-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[mescaline]]
-
-- [[3-meo-pcp]]
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.

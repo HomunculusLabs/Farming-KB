@@ -18,18 +18,18 @@ sources:
   - Bruhn, J.G. & Holmstedt, B. (1974). "Early peyote research: an interdisciplinary study." Economic Botany, 28(4), 353–390.
   - Halberstadt, A.L. et al. (2018). "Pharmacological profiles of classical psychedelics." In: Behavioral Pharmacology of Psychedelics. Springer.
   - Torres, C.M. & Repke, D.B. (2006). Anadenanthera: Visionary Plant of Ancient South America. Haworth Herbal Press.
-  - Terry, M.B. & Woolley, D.W. (1954). "The role of serotonin in the action of lysergic acid diethylamide." Annals of the New York Academy of Sciences, 60(2), 212–221.
+  - Terry, M.B. & Woolley, D.W. (1954). "The role of serotonin in the action of [[lsd-d-lysergic-acid-diethylamide]]." Annals of the New York Academy of Sciences, 60(2), 212–221.
   - Stoff, D.M. et al. (2019). "Mescaline: a review of pharmacology, pharmacokinetics, and pharmacodynamics." Journal of Psychoactive Drugs, 51(5), 399–410.
 created: 2026-05-09
 ---
 
 ## Overview
 
-**Mescaline** (3,4,5-trimethoxyphenethylamine) is a naturally occurring psychedelic alkaloid of the phenethylamine class. It is the principal psychoactive compound found in several species of Cactaceae, most notably peyote (*Lophophora williamsii*), San Pedro (*Echinopsis pachanoi*), and the Peruvian torch (*Echinopsis peruviana*). Mescaline is one of the oldest known psychoactive substances, with evidence of ceremonial use spanning over 5,700 years in the archaeological record.
+**Mescaline** (3,4,5-trimethoxyphenethylamine) is a naturally occurring psychedelic alkaloid of the phenethylamine class. It is the principal psychoactive compound found in several species of Cactaceae, most notably peyote (*[[lophophora-williamsii]]*), San Pedro (*[[echinopsis-pachanoi]]*), and the Peruvian torch (*[[echinopsis-peruviana]]*). Mescaline is one of the oldest known psychoactive substances, with evidence of ceremonial use spanning over 5,700 years in the archaeological record.
 
 The compound produces profound alterations in consciousness, including vivid visual hallucinations, altered perception of time and space, and deep introspective experiences. It acts primarily as a serotonin 5-HT2A receptor agonist, sharing this mechanism with other classical psychedelics such as [[lsd]] and [[psilocin]]. Despite its long history of human use, mescaline remains one of the least studied classical psychedelics in modern clinical research.
 
-Mescaline is classified as a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). However, exemptions exist for the traditional ceremonial use of peyote by members of the Native American Church in the United States, a protection codified in the American Indian Religious Freedom Act Amendments of 1994.
+Mescaline is classified as a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances (1971). However, exemptions exist for the traditional ceremonial use of peyote by members of the [[halpern-sacramental-peyote-and-native-american-church]] in the United States, a protection codified in the American Indian Religious Freedom Act Amendments of 1994.
 
 ## Chemical Properties
 
@@ -49,7 +49,7 @@ The three methoxy groups at the 3, 4, and 5 positions on the phenyl ring are ess
 
 Mescaline is a chiral molecule, though it is typically encountered as the racemate. The (R)-enantiomer has been reported to be modestly more potent than the (S)-enantiomer in animal behavioral models, though clinical differences in humans are not well characterized. The compound is stable under normal storage conditions and does not degrade significantly when kept dry and protected from light.
 
-The trimethoxy substitution pattern is shared with several other psychoactive phenethylamines, though the specific 3,4,5-trimethoxy arrangement is unique to mescaline and its direct analogues. This substitution pattern maximizes electron density on the phenyl ring, which correlates with increased 5-HT2A receptor binding affinity relative to mono- or dimethoxy-substituted compounds.
+The trimethoxy substitution pattern is shared with several other psychoactive phenethylamines, though the specific 3,4,5-trimethoxy arrangement is unique to mescaline and its direct analogues. This substitution pattern maximizes [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]] on the phenyl ring, which correlates with increased 5-HT2A receptor binding affinity relative to mono- or dimethoxy-substituted compounds.
 
 ## Pharmacology
 
@@ -87,35 +87,3 @@ Interindividual variation in CYP2D6 metabolism significantly affects mescaline p
 ## Toxicology
 
 The therapeutic index of mescaline is relatively wide compared to many psychoactive substances. The LD50 in mice is approximately 370 mg/kg (intraperitoneal) and 1320 mg/kg (oral), suggesting a substantial safety margin at recreational doses of 200–500 mg. No confirmed human fatalities from mescaline overdose alone have been documented in the medical literature.
-
-**Cardiovascular effects:** Dose-dependent increases in heart rate (10–30 bpm) and systolic blood pressure (5–15 mmHg) are typical. These effects are generally well tolerated in healthy individuals but may pose risks for those with pre-existing cardiovascular conditions. Extreme doses can produce dangerous hypertension and tachyarrhythmias.
-
-**Hepatotoxicity:** Mescaline has not been associated with liver toxicity in clinical or ethnographic reports. However, heavy chronic use has not been systematically studied, and potential interactions with CYP2D6-metabolized medications warrant caution.
-
-**Psychiatric risks:** Individuals with personal or family histories of psychotic disorders, bipolar disorder, or severe anxiety disorders may be at increased risk for adverse psychiatric reactions. Precipitation of persistent psychotic episodes is rare but has been documented in vulnerable populations.
-
-**Drug interactions:** Mescaline is metabolized by MAO-A and CYP2D6. Concurrent use with MAO inhibitors can potentiate and prolong effects. Serotonergic drug combinations (SSRIs, [[mdma]], tramadol) carry theoretical risk of serotonin syndrome, though documented cases specifically involving mescaline are exceedingly rare.
-
-**Legal status:** Mescaline is listed in Schedule I of the United Nations Convention on Psychotropic Substances (1971), making it illegal in most signatory nations. In the United States, it is a Schedule I controlled substance, with notable exemptions for ceremonial peyote use by the Native American Church under the American Indian Religious Freedom Act (1978, amended 1994). Canada controls mescaline under Schedule III of the CDSA, also with NAC exemptions. In many countries, live cactus plants occupy a legal grey area distinct from the isolated alkaloid.
-
-## History and Related Compounds
-
-Mescaline was first isolated from peyote in 1897 by the German chemist Arthur Heffter, who self-experimented to identify the psychoactive principle among several cactus alkaloids. Its chemical structure was determined by Ernst Späth in 1919, and the first total synthesis was achieved in the same year.
-
-The compound gained scientific prominence through the work of Aldous Huxley, whose 1954 essay *The Doors of Perception* described his mescaline experience and popularized the concept of the "mind-expanding" psychedelic. Humphry Osmond, who coined the term "psychedelic," administered mescaline in early clinical studies exploring its potential therapeutic applications.
-
-Mescaline was used in clinical psychotherapy research during the 1950s and 1960s, particularly in the treatment of alcoholism and neurosis. Early studies by Humphry Osmond and Abram Hoffer reported abstinence rates in alcoholic patients significantly exceeding those of conventional treatments, though methodological limitations prevented definitive conclusions.
-
-Archaeological evidence from the Shumla caves in Texas and the Cuatro Ciénegas basin in Coahuila, Mexico, demonstrates that peyote has been used ceremonially for at least 5,700 years. Radiocarbon-dated peyote buttons found in archaeological contexts confirm continuity of use by indigenous peoples of the Rio Grande Valley.
-
-**Key related compounds:**
-
-- **DMPEA** (3,4-dimethoxyphenethylamine): A demethylated mescaline analogue with minimal psychedelic activity, studied in early schizophrenia research.
-- **2C-B**: A synthetic phenethylamine with potent 5-HT2A activity, shorter duration, and significantly higher potency than mescaline.
-- **2C-T-7**: A thioether-substituted phenethylamine with longer duration and increased potency, developed by Alexander Shulgin.
-- **Mescaline acetate**: A common pharmaceutical preparation form, offering improved water solubility for research applications.
-
-## See Also
-
-[[lsd]] [[psilocin]] [[psilocybin]] [[dmt]] [[5-meo-dmt-entity]]
-[[mdma]] [[harmine]] [[harmaline]] [[tetrahydroharmine]] [[ibogaine]]

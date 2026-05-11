@@ -6,6 +6,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
   - /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
@@ -63,7 +64,7 @@ The benefits of crop rotation extend far beyond simple nutrient management.
 A well-designed rotation addresses multiple dimensions of garden and farm
 health simultaneously, creating synergistic effects that compound over time.
 
-For those interested in understanding the relationship between [[comparisons/comparison-companion-planting-vs-crop-rotation]], it's important to recognize that while companion planting focuses on spatial relationships (what grows together), rotation focuses on temporal relationships (what grows when). Both approaches work together to create resilient growing systems.
+For those interested in understanding the relationship between [[comparison-companion-planting-vs-crop-rotation]], it's important to recognize that while companion planting focuses on spatial relationships (what grows together), rotation focuses on temporal relationships (what grows when). Both approaches work together to create resilient growing systems.
 
 Pest and disease disruption is perhaps the most immediate benefit. Many
 insect pests and soil-borne diseases are host-specific, meaning they depend
@@ -115,7 +116,7 @@ The Fabaceae, or legume family, includes beans, peas, lentils, fava beans,
 clover, and vetch. These are the "givers" in rotation terminology, fixing
 nitrogen through rhizobial symbiosis. Their placement at the beginning of a
 rotation cycle enriches the soil for demanding crops that follow. This process
-is enhanced by practices like [[comparisons/comparison-biochar-vs-compost]] which
+is enhanced by practices like [[comparison-biochar-vs-compost]] which
 can further improve soil fertility and structure when combined with legume-based rotations.
 
 The Apiaceae family covers carrots, parsnips, celery, celeriac, dill,
@@ -147,4 +148,3 @@ through a rotation cycle.
 - Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green, 2009.
 - Fukuoka, Masanobu. *The Natural Way of Farming*. Japan Publications, 1985.
 - Hamilton, Geoff. *The Organic Gardening Book*. BBC Books, 1990.
-- Jeavons, John. *How to Grow More Vegetables*. Ten Speed Press, 2012.

@@ -21,7 +21,7 @@ penetrates the host tissue, and develops into a thallus — a saclike structure 
 absorbs nutrients from the host. After a period of growth, the thallus develops exit
 ducts and releases hundreds of new zoospores, perpetuating the infection cycle.
 
-The chytrid cell wall contains microfibrils of chitin, the same compound that comprises
+The chytrid [[chitin-chitosan-fungal-cell-wall]] contains microfibrils of chitin, the same compound that comprises
 the exoskeletons of insects and crustaceans. This biochemical similarity to animals
 reflects the deep evolutionary history of the fungi and their closer relationship to
 the animal kingdom than to plants.
@@ -31,7 +31,7 @@ the animal kingdom than to plants.
 Olpidium brassicae is a root-infecting chytrid that causes relatively minor direct
 damage to its plant hosts. Its true significance lies in its role as a vector for plant
 viruses. Viral particles attach to the surface of zoospores as they swim through
-contaminated soils. When the fungus infects a plant root, it transmits rod-shaped,
+[[fungal-competition-survival-contaminated-soils]]. When the fungus infects a plant root, it transmits rod-shaped,
 RNA-carrying viruses, including the agent that causes lettuce big-vein disease.
 
 This mode of viral transmission — where a fungal vector carries virus particles on its
@@ -78,7 +78,7 @@ material, anaerobic chytrids facilitate the growth of other microorganisms criti
 the digestive mechanism, including the bacteria responsible for methane production.
 
 This food processing activity parallels the ecological role of Ingoldian fungi in
-creeks, where [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] break down [[dighton-fungal-decomposition-leaf-litter-dynamics]] and make its nutrients available
+creeks, where [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]] [[query-can-fungi-break-down-plastic-pollution]] [[dighton-fungal-decomposition-leaf-litter-dynamics]] and make its nutrients available
 to other organisms in the food web. In both cases, chytrids occupy a foundational
 position in a decomposition-based ecosystem, converting complex plant polymers into
 forms that other organisms can utilize.
@@ -88,37 +88,3 @@ forms that other organisms can utilize.
 Some chytrid species infect mosquito larvae and other aquatic insects, raising the
 possibility of using these fungi as biological control agents against disease vectors.
 The zoospores locate mosquito larvae in standing water, encyst on the larval cuticle,
-and penetrate to consume the host from within. While promising in principle, the
-practical application of chytrids for mosquito control remains largely unexplored,
-in part because the same water bodies that harbor mosquito larvae also support
-non-target organisms that might be affected.
-
-## Evolutionary Significance
-
-Chytrids are believed to be the earliest diverging lineage of true fungi, and their
-flagellated spores are thought to represent an ancestral trait that was lost in most
-other fungal groups. The retention of motility in chytrids, combined with their
-diverse ecological roles — as plant pathogens, viral vectors, rumen symbionts,
-insect parasites, and free-living decomposers — makes them a key group for
-understanding fungal evolution and the transition from aquatic to terrestrial
- lifestyles.
-
-## The Challenge of Identification
-
-Many chytrid species are difficult to identify and study because of their microscopic
-size and simple morphology. Unlike the showy fruiting bodies of mushrooms and [[bloomfield-truffle-evolution-cup-fungi-hypogeous]],
-chytrids produce no visible structures above ground. Their entire [[bloomfield-fungal-life-cycle-spiral-versus-circle]] occurs
-within the tissues of their hosts or in water films on soil surfaces. This invisibility
-means that chytrid diversity is almost certainly underestimated, and many species remain
-undiscovered or poorly characterized.
-
-Modern molecular techniques have begun to reveal the true extent of chytrid diversity,
-with [[fungal-dark-taxa-environmental-dna-sequencing]] surveys from soil and water samples detecting chytrid sequences
-that correspond to no known species. Some of these may represent lineages that diverged
-from other fungi hundreds of millions of years ago and have persisted in specialized
-niches ever since, awaiting discovery by science.
-
-## See Also
-- [[bloomfield-chytrid-fungi-early-fungal-evolution]]
-- [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
-- [[bloomfield-mycoparasites-fungi-infecting-fungi-trichoderma-biocontrol]]

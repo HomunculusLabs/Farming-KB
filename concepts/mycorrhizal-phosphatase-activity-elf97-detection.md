@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal mycorrhizal phosphatase activity elf97 detection Detection by ELF-97 Substrate
+title: Mycorrhizal Phosphatase Activity Elf97 Detection
 created: 2026-04-18
 updated: 2026-05-09
 type: concept
@@ -50,7 +50,7 @@ mycorrhizal hyphae.
    fluorescence
 ## Sample Preparation
 ### Roots and Intraradical Mycelium
-- Collect roots or mycorrhizal root tips, remove soil/debris, wash with
+- Collect roots or [[mycorrhizal-root-exudates-pathogen-interactions]] tips, remove soil/debris, wash with
   dH2O
 - Cut root sections with razor blade or microtome
 - Cut roots in 0.5 cm pieces, apply vacuum to remove air bubbles for
@@ -65,7 +65,7 @@ mycorrhizal hyphae.
 - Wash clean and keep humid and cold until use
 ## Key Considerations
 - Permeabilisation increases risk of cytoplasm and phosphatase enzyme
-  leaking from non-septate AM fungal hyphae
+  leaking from non-septate AM [[fungal-hyphae]]
 - The fluorescent precipitate is very photostable, supporting long
   visualization periods
 - Do NOT mount samples in glycerol (ELF crystals dissolve within hours)
@@ -75,7 +75,7 @@ mycorrhizal hyphae.
   gentle washing
 ## Applications in Mycorrhizal Research
 ### Ectomycorrhizal Fungi
-- Used to quantify acid and alkaline phosphatase activity of Hebeloma
+- Used to quantify [[acid-and-alkaline-soil-management]] phosphatase activity of Hebeloma
   cylindrosporum extramatrical hyphae with Pinus pinaster in different
   soil types
 - Combined with confocal laser scanning microscopy to study surface-bound
@@ -83,38 +83,8 @@ mycorrhizal hyphae.
 - Acid phosphatase activity of ectomycorrhizal hyphae is typically much
   more pronounced than alkaline phosphatase activity
 ### Arbuscular Mycorrhizal Fungi
-- For Glomus intraradices, alkaline phosphatase activity is normally higher
+- For [[glomus-intraradices]], alkaline phosphatase activity is normally higher
   than acid phosphatase activity
 - Suitable for visualizing both alkaline and acid phosphatase activity even
   in root sections, unlike colorimetric methods
 - Higher sensitivity than non-fluorogenic substrates (e.g., p-nitrophenyl
-  phosphate)
-## Comparison with Colorimetric Methods
-Previous methods (Fast Blue RR salt with alpha-naphthyl phosphate) produced
-dark stains visible by light microscopy but had significant limitations:
-- Could not detect mycorrhizal acid phosphatase in root sections due to
-  high background of plant acid phosphatases
-- Lower spatial resolution than fluorescence-based approaches
-- Stains were not photostable, limiting observation time
-The ELF substrate's higher sensitivity allows detection of both enzyme types
-even in root sections, and the photostable crystalline precipitate enables
-detailed spatial mapping of phosphatase activity at subcellular resolution.
-## Significance for Phosphorus Nutrition
-Phosphatase enzymes are critical for phosphorus acquisition in mycorrhizal
-symbioses. Mycorrhizal fungi release extracellular phosphatases that
-hydrolyse organic phosphorus compounds in soil, making phosphate available
-for both fungal and plant uptake. The ELF method enables researchers to:
-- Map the spatial distribution of phosphatase activity along hyphae
-- Compare phosphatase expression between different fungal taxa
-- Assess how soil conditions affect [[ligninolytic-enzyme-production-bioremediation]]
-- Study functional differences between ecto- and arbuscular
- mycorrhizal fungi in [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]
-## See Also
-- [[ectomycorrhizal-remediation]] - Exploration types relevant to
-  phosphatase [[guzman-global-distribution-patterns-neurotropic-fungi]]
-- [[nutrient-movement-through-soil-to-plant-roots]] - Phosphorus cycling
-  pathways in soil-plant systems
-- [[fungal-enzymatic-capabilities]] - Broader fungal enzyme systems
-  including phosphatases
-- [[compartmented-in-vitro-systems-am-transport]] - Compartmented culture
-  methods for mycorrhizal research

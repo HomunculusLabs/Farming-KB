@@ -34,7 +34,7 @@ this completely inactive compound. There is no way of saying that it
 is or is not in-active. All that can be said is that trials were made
 (in this case using three separate individuals) at an oral level of
 100 milligrams. And, at this level, nothing happened. And since a
-bottom threshold for mescaline would be perhaps 200 milligrams, it can
+bottom threshold for [[mescaline]] would be perhaps 200 milligrams, it can
 be honestly said that the activity of this compound, if expressed
 
 relative to mescaline (using mescaline units) is less than 2 M.U. Had
@@ -88,11 +88,3 @@ IPA, had a mp of 148-149 deg C. Anal. (C12H20ClNO3) C,H.
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

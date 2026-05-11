@@ -26,7 +26,7 @@ A practical comparison of two foundational fermentation cultures — **koji** (*
 | **Active temperature** | 30–35 °C (86–95 °F) | 20–28 °C (68–82 °F) |
 | **Typical duration** | 36–72 hours (koji itself); months for finished products | 7–21 days per batch |
 | **Equipment needs** | Steamer, incubator, wooden trays, [[fukuoka-why-natural-farming-blocked-in-japan]] | Manchuria/Northeast China (~200 BCE) |
-| **Scalability** | Moderate — requires [[camellia-sinensis-entity]]) is traditional for kombucha, while green tea or a green/oolong blend is used for jun. Sugar (white, cane, or honey for jun) feeds the yeast. The tea provides nitrogen, tannins, and [[aflatoxin]]
+| **Scalability** | Moderate — requires [[camellia-sinensis]]) is traditional for kombucha, while green tea or a green/oolong blend is used for jun. Sugar (white, cane, or honey for jun) feeds the yeast. The tea provides nitrogen, tannins, and [[aflatoxin]]
 - [[aspergillus-oryzae]]
 ## Practical Applications
 

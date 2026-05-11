@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Motion Sickness
+title: Blesching Cannabis Motion Sickness
 created: 2026-04-26
 tags:
   - cannabis
@@ -27,7 +27,7 @@ estimated 7-28% of travelers experience acute motion sickness.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 4
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 4
 
 ## Research Evidence
 
@@ -46,8 +46,8 @@ A 2010 multi-institutional German study on human subjects further revealed that
 [[cannabis-cannabinoid-receptor-pharmacology]] (CB1) expression was significantly lower in subjects who
 suffered from motion sickness compared to those who felt fine. This indicates a
 relationship between reduced endocannabinoid activity and motion sickness.
-Anandamide levels fell in subjects who got sick but rose in subjects who felt
-fine, suggesting that the endocannabinoid system plays a natural role in
+[[anandamide]] levels fell in subjects who got sick but rose in subjects who felt
+fine, suggesting that the [[endocannabinoid-system]] plays a natural role in
 preventing motion-related nausea.
 
 These discoveries represent a new possibility for treating aspects of motion
@@ -87,19 +87,3 @@ involuntary, possibly indicative of fear as a response to mismatching
 experiences beyond one's control. NASA's "vomit comet" parabolic flights show
 roughly two-thirds of participants experience nausea or vomiting, with
 researchers blaming anxiety or anticipation of unknown sensations.
-
-Anandamide levels dropped in subjects who experienced motion sickness but rose
-in those who felt fine, suggesting those feeling fear may reject change by
-ejecting stomach contents. Aggravating factors may include anxiety, fearful
-anticipation, or reaction to unfamiliar sensations beyond one's control.
-
-Consider the possibility of releasing anxiety by embracing excitement and
-feeding your curiosity rather than your anxiety. Suggested blessings: "May you
-relax and let go of fear. May you find it as easy as 1-2-3 to let go of
-beliefs that produce unwarranted fear of change."
-
-## See Also
-
-- [[blesching-cannabis-gastrointestinal-disorders]]
-- [[blesching-cannabis-ptsd-anxiety]]
-- [[blesching-cannabis-dosing-strategies]]

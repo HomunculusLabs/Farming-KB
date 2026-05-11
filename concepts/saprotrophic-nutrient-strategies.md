@@ -87,17 +87,3 @@ Saprotrophs vary in environmental stress tolerance:
   precipitate them extracellularly, enabling growth on [[soil-food-web-structure]] describes how these interact with bacteria
   and microfauna.
 - **Fungal saprotrophs:** Mycophagous fungi that decompose other fungi
-
-## Implications for Ecosystem Models
-
-Accurate representation of saprotrophic strategies is critical for predicting
-ecosystem responses to environmental change:
-
-- **Warming effects:** Temperature-driven decomposition increases may be
-  limited by fungal-enzyme-activity-nutrient-availability if warming increases metabolic demand
-  faster than nutrient supply
-- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]:** Anthropogenic nitrogen may shift fungal communities
-  from resource-efficient to resource-expensive strategies, reducing soil
-  [[holmgren-soil-humus-carbon-storage-rebuilding]]
-- **Carbon feedbacks:** The balance between fungal CUE and decomposition rate
-  determines whether warming accelerates or decelerates soil carbon loss.

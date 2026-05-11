@@ -13,14 +13,14 @@ sources:
   - "Shulgin, A. & Shulgin, A. (1997). 'Tryptamines I Have Known and Loved (TIHKAL).' Transform Press."
   - "Shulgin, A.T. et al. (1967). 'Psychotomimetic Agents.' Science, 158(3803), 877-880."
   - "Ray, T.S. (2010). 'Psychedelics and the Human Receptorome.' PLoS ONE, 5(2), e9019."
-  - "Dean, A.C. et al. (2019). 'Psilocybin-Assisted Treatment for Alcohol Dependence.' Journal of Psychopharmacology."
+  - "Dean, A.C. et al. (2019). 'Psilocybin-Assisted Treatment [[cannabis-for-alcohol-dependence]].' Journal of Psychopharmacology."
   - "Nichols, D.E. (2016). 'Psychedelics.' Pharmacological Reviews, 68(2), 264-355."
 ---
 
 ## Overview
 
 N-Methyl-N-isopropyltryptamine (MIPT) is a synthetic psychedelic tryptamine
-compound first synthesized and characterized by Alexander Shulgin. It is
+compound first synthesized and characterized by [[alexander-shulgin]]. It is
 documented in TIHKAL (Tryptamines I Have Known and Loved) with a full
 self-experiment report.
 
@@ -88,62 +88,3 @@ via vaporization or insufflation. Onset is 15–30 minutes orally, with peak
 effects at 60–90 minutes and total duration of 3–5 hours.
 
 Body load is generally mild. Some users report transient nausea during onset
-and slight physical heaviness during peak effects. The comedown is described
-as smooth with minimal residual stimulation or dysphoria.
-
-## Synthesis
-
-MIPT is synthesized from tryptamine or indole via N-alkylation. The standard
-route involves reductive amination of tryptamine with acetone and formaldehyde,
-or direct N-alkylation using isopropyl bromide followed by N-methylation.
-
-Yields vary depending on the specific route and purification method. The
-Shulgin synthesis in TIHKAL uses tryptamine, isopropylamine, and
-formaldehyde in a reductive amination with sodium cyanoborohydride. A second
-N-methylation step with formaldehyde and sodium borohydride produces the
-final compound.
-
-Purification typically involves acid-base extraction and column
-chromatography. The freebase is converted to a crystalline salt for storage.
-Analytical verification (GC-MS, NMR) is essential for research-grade
-material.
-
-## Legal Status
-
-MIPT is unscheduled in most jurisdictions but is controlled as an analog of
-DMT or psilocin in countries with comprehensive analog acts. In the United
-States, it may fall under the Federal Analog Act (21 U.S.C. § 813) if
-intended for human consumption.
-
-In the United Kingdom, MIPT is controlled under the Psychoactive Substances
-Act 2016. In Germany, it is controlled under the NpSG (New Psychoactive
-[[controlled-substances-act-and-psychedelic-research]]). Japan and Australia have also placed it under regulatory
-control as a tryptamine analog.
-
-The compound has no recognized medical use and is not approved for human
-consumption by any regulatory authority. Its primary context remains
-underground research and clandestine use.
-
-## Related Compounds
-
-MIPT is part of the N-alkyltryptamine series that includes DMT
-(dimethyl), DET (diethyl), DPT (dipropyl), and DIPT (diisopropyl). The
-pattern of increasing [[phenethylamine-chain-length-effects]] correlates with increasing duration and
-decreasing potency.
-
-4-HO-MIPT (moxy) is the 4-hydroxylated analog and a significantly more
-potent psychedelic with [[tihkal-oral-activity-mao-inhibition]] and MAO-insensitivity. 5-MeO-MIPT
-(Moxy) is the 5-methoxylated analog with distinct pharmacological properties.
-
-## See Also
-
-- [[dmt]]
-- [[psilocin]]
-- [[4-ho-mipt]]
-- [[5-meo-mipt]]
-- [[dipt]]
-- [[dpt]]
-- [[tryptamine]]
-- [[ergine-entity]]
-- [[bufotenin]]
-- [[5-meo-dmt-reference]]

@@ -1,5 +1,5 @@
 ---
-title: "Mental mental contrasting technique for goal achievement for Goal Achievement"
+title: Mental Contrasting Technique For Goal Achievement
 type: concept
 tags:
   - psychology
@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
+  - Blesching, U. (2015). "The [[blesching-cannabis-health-index-autoimmune-conditions]]." North Atlantic Books.
   - Oettingen, G. et al. (2001). University of Hamburg / University of New York.
   - Fredrickson, B.L. (2003). "The value of positive emotions." American Scientist.
   - University of Gottingen. (2009). "Single emotional words and anxiety."
@@ -45,7 +45,7 @@ However, the mechanism by which they support physical health and
 healing was only later investigated.
 
 A 2005 London study showed positive emotions such as happiness lower
-cortisol, reduce heart rate, and decrease fibrinogen stress responses.
+cortisol, reduce heart rate, and decrease fibrinogen [[fungal-stress-responses]].
 A Harvard experiment that same year demonstrated that curiosity and
 hope decrease the likelihood of developing hypertension.
 
@@ -89,46 +89,7 @@ their goals, other approaches — such as building self-efficacy through
 small wins or addressing underlying limiting beliefs — may be more
 appropriate before attempting mental contrasting.
 
-## The 5:1 and 3:1 Positivity Ratios
-
-Research has established specific ratios of positive to negative
-emotions that predict flourishing and success.
-
-University of Washington studies (1998) showed couples working through
-stressful conflict are much more likely to succeed if they maintain a
-5:1 ratio of positive feelings to negative ones during the process.
-
-University of Michigan researchers found that for humans to flourish —
-to live within an optimal range of functioning connoting goodness,
-productivity, growth, and resilience — a 3:1 positive-to-negative
-affect ratio is required.
-
-These ratios can be applied to self-talk. When recognizing hurtful
-self-judgments like "I am such an idiot," the negative impact can be
-dispelled by acknowledging "I just judged myself" and following with
-multiple compassionate reframes.
-
-## Self-Application in Health Contexts
-
-In the context of chronic illness or healing, mental contrasting can
-be applied to health goals such as dietary changes, exercise routines,
-medication adherence, or stress management practices.
-
-The technique helps patients move beyond either passive optimism ("it
-will all work out") or defeatism ("nothing I do matters") toward an
-engaged, realistic engagement with their healing process.
-
-Combined with the 3:1 positivity ratio applied to self-talk, mental
-contrasting offers a structured approach to maintaining motivation
-while honestly acknowledging the challenges of health recovery.
-
 ## See Also
-
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[bias-prejudice-judgment-and-health]]
-- [[gratitude-compassion-forgiveness-healing-effects]]
-- [[habit-transformation-trigger-reaction-reward]]
-- [[cannabis-health-index-scoring-system]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[endocannabinoid-system-and-cannabis-pharmacology]]
+- [[mental-contrasting-positivity-ratio-healing-blesching]]
+- [[blesching-cannabis-health-index-mental-health-applications]]
+- [[blesching-cannabis-mental-disorders]]

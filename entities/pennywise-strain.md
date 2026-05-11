@@ -9,7 +9,7 @@ tags:
   - medical
   - ptsd
   - anti-anxiety
-  - TGA Subcool Seeds
+  - [[oner-choke-berry-jack-the-ripper-querkle-tga-subcool]] Seeds
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -28,7 +28,7 @@ sources:
 ## Overview
 
 Pennywise is an indica-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] bred by TGA Subcool
-Seeds, created by crossing Harlequin with Jack the Ripper. Released
+Seeds, created by crossing Harlequin with [[oner-jack-the-ripper-jacks-cleaner-space-queen]]. Released
 around 2012, the strain was named for its ominous lineage (Jack the
 Ripper) and its paradoxical combination of psychoactive and
 non-psychoactive cannabinoids.
@@ -47,7 +47,7 @@ intoxication.
 | Jack the Ripper | Sativa-dominant | High THC (18–23%), citrus/lemon |
 
 The cross was selected for combining Harlequin's CBD production with
-Jack the Ripper's potency and terpene profile. TGA Subcool stabilized
+Jack the Ripper's potency and [[cannabis-terpene-profile]]. TGA Subcool stabilized
 the 1:1 ratio through [[vic-high-cannabis-phenotype-selection-criteria]] over multiple generations,
 targeting plants where CBD and THC levels tracked within 2% of each
 other.
@@ -58,7 +58,7 @@ other.
 
 ## Appearance
 
-- **Bud structure:** Dense, compact indica-type colas with tight node
+- **[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]:** Dense, compact indica-type colas with tight node
   spacing
 - **Color:** Deep [[trichoderma-forest-green-mold-guide]] with prominent purple and violet hues,
   especially in cooler nighttime temperatures during late flowering
@@ -88,56 +88,3 @@ other.
 | Cannabinoid | Range | Notes |
 |---|---|---|
 | THC | 5–8% | Moderate, functional |
-| CBD | 5–8% | Balances THC effects |
-| CBG | 0.3–1.0% | Secondary |
-| CBC | Trace | Present |
-| CBD:THC ratio | 1:1 to 1.5:1 | Target phenotype dependent |
-
-## Effects
-
-- **Onset:** Moderate (10–20 minutes inhaled; 45–90 minutes oral)
-- **Duration:** 2–3 hours inhaled; 4–6 hours oral
-- **Physical:** Deep body relaxation, muscle tension relief, mild
-  sedation at higher doses
-- **Mental:** Calm, grounded, anxiolytic; minimal cognitive
-  impairment at standard therapeutic doses
-- **Progression:** Initially uplifting with Harlequin-inherited
-  clarity, transitioning to Jack the Ripper body sedation
-
-## Medical Applications
-
-- **PTSD:** The 1:1 ratio is specifically associated with reduced
-  fear response and anxiety; CBD moderates THC-induced paranoia
-  while both compounds address hyperarousal symptoms
-- **[[cannabis-chronic-pain-management]]:** Combined THC analgesia with CBD anti-inflammatory
-  action provides broader pain relief than either compound alone
-- **Anxiety disorders:** CBD counteracts THC anxiogenic potential
-  while both cannabinoids modulate serotonin 5-HT1A receptors
-- **Insomnia:** Myrcene-dominant profile promotes sleep onset;
-  indica dominance supports sustained rest
-- **Spasticity:** CBD-THC synergy reduces muscle spasms documented
-  in multiple sclerosis research
-
-## Cultivation
-
-- **Flowering time:** 8–9 weeks indoors
-- **Yield:** Moderate (350–450 g/m² indoor)
-- **Height:** Short to medium (90–130 cm); compact indica structure
-- **Climate:** Prefers warm, dry conditions; purple coloration
-  enhanced by cool nights (below 15 °C) in weeks 6–8
-- **Difficulty:** Beginner-friendly; resilient to common pests
-  and molds
-- **Nutrient needs:** Moderate feeder; benefits from calmag
-  supplementation during flowering
-
-## Side Effects
-
-- **Common:** Dry mouth, dry eyes, mild dizziness at higher doses
-- **Uncommon:** Mild anxiety at doses exceeding personal tolerance
-  (unusual for a 1:1 strain)
-- **Contraindication:** Patients sensitive to THC should start with
-  low doses; the 1:1 ratio does not eliminate all psychoactive
-  effects
-
-## See Also
-- [[cannabis-health-strains-sativa-indica]]

@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,63 +87,3 @@ whitish larvae hatch several days later with a voracious
 appetite.
 
 ### Damage
-
-- Maggots chew and burrow into stems and roots
-- The seed corn maggot attacks seeds and seedling
-  roots specifically
-- Cabbage maggots attack roots, leaving hollowed-out
-  channels and holes in larger roots
-- Both species destroy small hair-like feeder roots
-- Wounds foster [[staycare-soft-rot-fungi-in-pollutant-degradation]] and fungal diseases including
-  Fusarium and Pythium
-
-### Control
-
-- **Cleanliness:** Use fresh, new store-bought soil
-  when planting in containers to prevent introduction.
-- **Physical barriers:** Cover seedlings with Agrofabric
-  netting to exclude egg-laying flies.
-- **Collars:** Place a collar of foam rubber, 18 inches
-  (45 cm) tall, around the base of plants.
-- **Timing:** Plant later in the year to avoid peak
-  adult fly emergence periods.
-- **Beneficial nematodes:** Steinernema feltiae or
-  Heterorhabditis bacteriophora parasitize root
-  maggot larvae in the soil.
-- **Neem oil** and horticultural oil used as a soil
-  drench can kill root maggots.
-
-See also: [[cervantes-seedling-care-early-growth]]
-
-## Mealybugs and Scales
-
-### Identification
-
-**Mealybugs** are somewhat common indoors. These 0.08 to
-0.2 inch (2 to 7 mm) oblong, waxy-white insects move
-very little, mature slowly, and live in colonies usually
-located at stem joints. Like aphids, they excrete sticky
-honeydew that encourages sooty mold growth.
-
-**Scales** are similar but usually more round than
-oblong. They may be white, yellow, brown, gray, or
-black. Their hard protective shell is 0.08 to 0.15 inch
-(2 to 4 mm) across. Scales rarely move and are found
-around stem joints.
-
-### Control
-
-- **Manual removal** with a Q-tip dipped in rubbing
-  alcohol is tedious but very effective. A small knife,
-  fingernails, or tweezers may be necessary to scrape
-  and pluck tightly affixed insects.
-- **Insecticidal soap**, pyrethrum, and neem oil are
-  all recommended sprays.
-- **Homemade sprays** containing rubbing alcohol,
-  nicotine, and soaps also kill these pests.
-
-## Leafhoppers
-
-## See Also
-
-- [[cervantes-root-maggots-cutworms]]

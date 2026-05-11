@@ -4,7 +4,7 @@ created: 2026-05-10
 updated: 2026-05-10
 type: concept
 tags:
-  - mycology
+  - [[mycology]]
   - human-health
   - respiratory
   - puffballs
@@ -29,7 +29,7 @@ party in which they had snorted puffball spores. They were probably hoping
 for some hallucinogenic experience, and indeed at least one puffball species
 does have psychoactive effects if eaten. But squeezing a puffball close to
 your nose is a hazardous adventure. Such vast quantities of basidiospores
-sit inside these dry fruiting bodies that a spritz up the nostrils delivers
+sit inside these dry [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that a spritz up the nostrils delivers
 millions of the spiny cells directly into the lungs.
 
 Within a few days of exposure, the Wisconsin teens developed breathing
@@ -40,7 +40,7 @@ in contact with masses of basidiospores.
 ## Pulmonary Response to Spore Inhalation
 
 Puffball spores are sufficiently small to enter the narrowest airways in
-the lung and lodge in the alveoli, the tiny air sacs where gas exchange
+the lung and lodge in the alveoli, the tiny air sacs where [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
 occurs. In this location, macrophages that patrol the glistening lung
 linings for foreign objects engulf the spores and attempt to digest their
 prey.
@@ -68,7 +68,7 @@ medical intervention.
 The universal teenage pursuit of self-evasion is not responsible for all
 cases of lycoperdonosis. Intentional limited inhalation of puffball spores
 is a folk remedy used to stop nosebleeds, exploiting the hemostatic
-properties of the spore mass. Spores were also applied by midwives to the
+properties of the [[growing-gourmet-spore-mass-inoculation-techniques]]. Spores were also applied by midwives to the
 stump of the cut umbilical cord of newborns to stop bleeding. These
 traditional uses reflect the recognition, across cultures, that puffball
 spores have properties that can affect human tissue.
@@ -88,38 +88,3 @@ allergies, asthma, or compromised immune systems, elevated spore counts
 can trigger significant respiratory symptoms.
 
 ## Indoor Spore Exposure and Sick Building Syndrome
-
-Modern building practices have inadvertently created environments favorable
-to certain fungi. Well-insulated, hermetically sealed buildings with poor
-ventilation can develop moisture problems behind walls and under floors,
-creating conditions for mold growth. The [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]] scare of the 1990s highlighted the potential for serious health consequences when moisture-loving toxigenic molds colonize indoor environments.
-
-The interaction between building design, moisture management, and fungal
-growth represents an ongoing challenge for public health. Older, draftier
-houses were often more effective at protecting themselves and their
-occupants from molds because they allowed water vapor to escape. The
-modern polymer-wrapped house creates living spaces with very stale air,
-where the spaces between wall materials can become extremely humid.
-
-## Spore Size and Respiratory Deposition
-
-The fate of an inhaled spore depends critically on its size. Spores larger
-than approximately 10 micrometers tend to be deposited in the upper
-airways and cleared by the mucociliary escalator. Smaller spores, in the
-1 to 5 micrometer range, penetrate deep into the lungs and may reach the
-alveoli. The smallest spores, less than 1 micrometer, can potentially
-enter the bloodstream.
-
-Fungi produce spores across this entire size range, meaning that a single
-mushroom or mold colony can generate particles capable of affecting every
-level of the respiratory system. This physical reality underlies the
-diversity of human responses to fungal spore exposure, from mild
-allergies to serious pneumonias.
-
-## See Also
-
-- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]
-- [[bloomfield-aspergillus-biology-and-aflatoxins]]
-- [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]]
-- [[bloomfield-amatoxin-poisoning-mechanism]]
-- [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]

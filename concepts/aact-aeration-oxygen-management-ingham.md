@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -87,45 +88,3 @@ The key relationship:
 
 Tea must remain aerated until applied:
 - After turning off aeration, you have about 5-6 hours before oxygen loss kills fungi
-- One documented case: a 250-gallon tank of 8.0 ppm tea dropped to 3.0 ppm within 2.5 hours of turning off aeration — fast enough to lose fungi
-- Transport tanks MUST have aeration systems
-- Tea that has been applied to plant surfaces is fine — the thin layer on a leaf is nicely aerobic through diffusion
-
-## Holding Tea
-
-If circumstances force holding tea:
-- With proper aeration, tea can be held up to 5 days
-- BUT diversity diminishes over time
-- Do NOT add food to held tea — starving organisms will consume it violently with extreme oxygen demand, losing beneficials within 4-6 hours
-- Tank-mixing nutrients has the same effect
-- Apply within 48-72 hours when possible
-- Older tea can be applied to weed patches or bare soil as a soil biology inoculant
-
-## The Smell Test (Simple Quality Check)
-
-No oxygen meter? Use this simple test:
-1. Fill a clean plastic bottle half-full with finished tea
-2. Seal it and let it sit at room temperature overnight
-3. Open carefully and smell
-
-Results:
-- Smells good + dark brown color = tea was likely aerobic and good
-- Bottle blown up or sucked in = problem with the tea maker
-- Stinks = anaerobic conditions existed, tea is compromised
-
-This test is useful for calibrating your relationship between oxygen readings and smell — over time you learn to recognize the threshold.
-
-See also: [[aact-brewing-ingredients-ingham]], [[aact-troubleshooting-ingham]]
-
-## Related
-
-- [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]
-- [[post-flush-watering-regime-mushroom-casing-moisture-management]]
-
-- [[ingham-soil-food-web-bacteria-fungi-succession-cycle]]
-
-- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
-
-- [[ingham-anaerobic-vs-aerobic-compost-tea]]
-- [[ingham-weed-control-through-biology]]
-- [[fukuoka-weed-diversity-soil-nutrients]]

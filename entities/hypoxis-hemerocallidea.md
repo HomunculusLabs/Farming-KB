@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Drewes, S.E. et al. (2008). "A reassessment of the medicinal potential of Hypoxis hemerocallidea." kanna-sceletium-south-african-narcotic Journal of Botany, 74(4), 632-636.
   - Mahomed, I.M. & Ojewole, J.A.O. (2006). "Antidiabetic activity of Hypoxis hemerocallidea corm (African potato) aqueous extract in rats." Methods and Findings in Experimental and Clinical Pharmacology, 28(1), 57-61.
-  - Mills, S. et al. (2005). "Plant-based traditional medicines for HIV-infected patients." South African Medical Journal, 95(1), 59.
+  - Mills, S. et al. (2005). "Plant-based traditional medicines for HIV-infected patients." [[kanna-sceletium-south-african-narcotic]] Medical Journal, 95(1), 59.
   - van Wyk, B.E. & Wink, M. (2015). Medicinal Plants of the World. 2nd ed. CABI Publishing.
   - Nair, J.J. et al. (2013). "A phytochemical and pharmacological review of African potato (Hypoxis hemerocallidea)." Phytochemistry, 95, 206-220.
 ---
@@ -43,7 +43,7 @@ H. hemerocallidea is native to southern and eastern Africa, with a range extendi
 
 The species occurs naturally in open grassland, savanna, and rocky outcrops at elevations of 300–2000 m. It prefers well-drained, sandy or loamy soils with moderate rainfall (600–1200 mm annually).
 
-Wild populations have declined significantly due to unsustainable harvesting for the herbal medicine trade. The species is now considered of conservation concern in parts of its range.
+Wild populations have declined significantly due to unsustainable harvesting for the [[childrens-herbal-medicine]] trade. The species is now considered of conservation concern in parts of its range.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -88,25 +88,3 @@ Trace amounts of various alkaloids and flavonoids have been detected in phytoche
 H. hemerocallidea is listed as Near Threatened on the South African National Biodiversity Institute's Red List. Wild harvesting for the traditional medicine trade is the primary threat to natural populations.
 
 Demand for the corm has increased dramatically since the mid-1990s, driven by commercial promotion as an immune booster. Estimates suggest that several hundred tonnes of corm are harvested annually from wild populations.
-
-Sustainable harvesting protocols recommend leaving a portion of the corm intact to allow regrowth. However, enforcement of these guidelines in the informal trade sector is limited.
-
-## Related Species
-
-The genus *Hypoxis* contains approximately 90 species distributed across Africa, the Americas, Asia, and Australia. Several other African species are used in traditional medicine.
-
-H. colchicifolia is a closely related species with similar pharmacological properties, also used in Zulu medicine. H. obtusa and H. rigidula are two additional southern African species with documented ethnomedicinal use.
-
-H. angustifolia, native to [[polypore-fungi-eastern-north-america]] America, was historically used by indigenous peoples as a food source. Its corm is smaller and less chemically characterized than H. hemerocallidea.
-
-## See Also
-
-- [[pelargonium-sidoides]]
-- [[centella-asiatica]]
-- [[withania-somnifera]]
-- [[aloe-vera]]
-- [[moringa-oleifera]]
-- [[boswellia-sacra]]
-- [[silybum-marianum]]
-- [[artemisia-absinthium]]
-- [[curcumin]]

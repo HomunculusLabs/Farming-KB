@@ -14,7 +14,7 @@ involving downstream signaling adaptations have also been identified.
 ## Clinical Observations of Psychedelic Tolerance
 
 The phenomenon of psychedelic tolerance was first systematically documented in the
-1950s and 1960s during the initial wave of clinical research with LSD and psilocybin.
+1950s and 1960s during the initial wave of [[hofmann-lsd-clinical-research-early-studies]] with LSD and [[psilocybin]].
 Researchers consistently observed that subjects who received LSD on consecutive days
 reported markedly diminished effects on the second and subsequent administrations,
 even when doses were maintained or increased. Isbell and colleagues at the Addiction
@@ -22,8 +22,8 @@ Research Center in Lexington, Kentucky, conducted some of the most detailed earl
 studies, demonstrating that tolerance to LSD developed within 24 hours and was
 essentially complete after 3-4 consecutive daily doses.
 
-Similar tolerance patterns have been observed across the psychedelic tryptamine
-class, including psilocybin, DMT, and mescaline. Notably, there is substantial cross-
+Similar tolerance patterns have been observed across the psychedelic [[tryptamine]]
+class, including psilocybin, DMT, and [[mescaline]]. Notably, there is substantial cross-
 tolerance between different classical psychedelics, consistent with their shared
 mechanism of action at the 5-HT2A receptor. A person tolerant to LSD will also show
 reduced sensitivity to psilocybin and mescaline, and vice versa. This cross-tolerance
@@ -88,38 +88,3 @@ neuroplasticity-promoting effects (such as dendritic spine growth and BDNF
 upregulation) may be less subject to tachyphylaxis than the acute hallucinogenic
 effects. This dissociation has implications for understanding [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
 protocols and the optimal spacing of treatment sessions.
-
-## Practical Implications for Psychedelic Therapy
-
-The rapid development and relatively quick resolution of psychedelic tolerance has
-important practical implications for clinical trial design and therapeutic practice.
-Most modern psilocybin therapy protocols space sessions 1-4 weeks apart, which allows
-sufficient time for 5-HT2A receptor recovery. Some protocols for treatment-resistant
-depression have used two sessions separated by one week, based on evidence that
-partial receptor recovery may be sufficient for therapeutic effect when combined with
-psychological support and integration.
-
-Understanding tolerance also informs harm reduction counseling. Recreational users
-should be aware that daily or near-daily psychedelic use leads to rapidly diminishing
-returns and is essentially ineffective. This natural tolerance mechanism is one
-factor that limits the abuse potential of classical psychedelics, as users cannot
-maintain desired effects through escalating dose frequency. The lack of a significant
-withdrawal syndrome upon discontinuation further distinguishes psychedelic tolerance
-from the adaptive changes associated with substances of dependence.
-
-The phenomenon of psychedelic tolerance is also relevant to understanding the
-pharmacology of microdosing. Proponents of microdosing typically recommend cycling
-protocols with regular off days, in part based on the recognition that daily sub-
-threshold doses would be subject to the same [[fungal-metal-tolerance-mechanisms]] that affect full
-doses. While the degree to which tolerance develops at sub-threshold doses is less
-well studied, the shared [[psilocybin-pharmacology-5ht2a-receptor-mechanism]] suggests that some degree of adaptation
-is likely with continuous daily administration.
-
-## Key References
-
-Isbell, H., et al. (1956). "Tolerance to LSD in normal subjects."
-Psychopharmacologia, 7, 35-47. Buckholtz, N.S., et al. (1990). "Chronic LSD
-administration selectively downregulates 5-HT2 receptors in rat brain."
-Neuropsychopharmacology, 3(1), 31-40. Grayson, B. & Roth, B.L. (2012). "Serotonin
-receptors and psychedelic drug action." Handbook of Experimental Pharmacology, 211,
-145-166.

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,16 +88,3 @@ extensive grazing and cropping at greater distances. Windbreaks are planted on
 exposed boundaries using multi-row designs of productive species. Corridors of
 native vegetation connect remnant patches, supporting wildlife that provides
 [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] services.
-
-## Economic Considerations
-
-Broadacre permaculture reduces input costs by replacing synthetic fertilisers
-with legume-fixed nitrogen, replacing herbicides with competitive pastures and
-cover crops, and replacing pesticides with biological diversity. While
-transition may temporarily reduce yields, the long-term trajectory increases
-soil health, reduces risk, and diversifies income through integrated tree
-crops, livestock, and grain products.
-
-## See Also
-
-- [[mollison-designers-climate-classification-and-design-zones]]

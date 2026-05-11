@@ -25,9 +25,9 @@ that native oaks support over 500 species of Lepidoptera (butterflies
 and moths), while exotic ginkgos support virtually none. Native plants
 are adapted to local climate and soils, often requiring less water and
 care once established. They also tend to be more resistant to local
-pests and diseases, having evolved natural defenses over millennia.
+[[mushroom-pests-and-diseases]], having evolved natural defenses over millennia.
 
-Native plants preserve regional character and genetic diversity. They
+Native plants preserve regional character and [[biodiversity-fungal-genetic-diversity]]. They
 connect our gardens to the broader landscape, allowing wildlife to move
 through corridors of familiar habitat. They provide a sense of place
 that generic, globally-sourced landscapes cannot match. For many
@@ -36,11 +36,11 @@ ecological purposes, natives are excellent choices.
 ## The Case Against Exclusivity
 
 However, the strict native-only approach has limitations. Many valuable
-food plants are not native to North America: apples, pears, peaches,
+food plants are not native to [[guzman-psilocybin-mushrooms-north-america]]: apples, pears, peaches,
 plums, most vegetables, and many herbs originated elsewhere. Eliminating
 all non-native species would mean giving up most of our food supply.
 
-Some exotics actually provide superior ecological functions. Certain
+Some exotics actually provide superior [[fungal-melanin-biosynthesis-ecological-functions]]. Certain
 non-native nitrogen fixers, such as Russian olive (Elaeagnus
 angustifolia) and Siberian pea shrub ([[ecological-gardening-principles]]
 - permaculture
@@ -61,7 +61,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -87,22 +87,3 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single [[dom]] ain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.

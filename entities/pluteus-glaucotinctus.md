@@ -88,39 +88,3 @@ considered uncommon to rare in most of its range.
 P. glaucotinctus has been confirmed to contain [[psilocin]]
 through TLC, GC-MS, and HPLC analysis. The concentration is generally low to
 moderate, with reports suggesting approximately 0.1 to 0.3% psilocybin by dry
-weight, though data from multiple independent collections is limited. The
-bluish-green discoloration is associated with psilocin oxidation, though the
-reaction in Pluteus tends to be less intense than in Psilocybe species.
-
-Among Pluteus, psychoactive species include [[archaeology-of-psychedelic-mushroom-use]], [[pluteus-saliginus]] shares the lignicolous habit and bluing potential but
-typically has a more grayish cap with less glaucous tinting and more
-consistent bluing. [[pluteus-romellii]] has a yellowish cap and larger stature. Various
-Entoloma species may share the habitat and pink spore print but are
-distinguished by angular spores visible under microscopy.
-
-## Cultivation
-
-No established [[synthetic-log-cultivation-methods-guide]] exist for Pluteus glaucotinctus. Its
-lignicolous nature would require wood-based substrates. The rarity and low
-potency of the species have discouraged cultivation efforts compared to more
-accessible psychoactive species.
-
-## Legal Status
-
-As a confirmed psilocybin-containing species, P. glaucotinctus is subject to
-legal controls in jurisdictions where psilocybin is scheduled. The practical
-legal risk is minimal due to the species' rarity and difficulty of
-distinguishing it from numerous non-controlled Pluteus species.
-
-## Etymology
-
-The specific epithet "glaucotinctus" combines Latin "glaucus" (bluish-gray)
-and "tinctus" (tinged), describing the characteristic blue-green tint of the
-cap and stipe.
-
-## See Also
-
-- [[pluteus-saliginus]] — the most commonly encountered psychoactive Pluteus
-- [[psilocybin]] — the primary psychoactive alkaloid produced by this species
-- Pluteaceae — the family containing Pluteus and Volvariella
-- [[psilocin]] — the dephosphorylated, bluing-inducing metabolite

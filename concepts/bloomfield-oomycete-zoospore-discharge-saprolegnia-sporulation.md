@@ -4,8 +4,8 @@
 *Nicholas P. Money — Mr. Bloomfield's Orchard (2002)*
 
 ## Summary
-Oomycete water molds produce biflagellate zoospores through an exquisitely choreographed
-sporangial discharge process. In Saprolegnia, cytoplasm is cleaved into spores within
+[[bloomfield-pythium-oomycete-water-molds]] produce biflagellate zoospores through an exquisitely choreographed
+[[bloomfield-oomycete-zoospore-mechanics-and-sporangial-discharge]] process. In Saprolegnia, cytoplasm is cleaved into spores within
 a pressurized sporangium, the internal membrane breaks, and spores are ejected through
 a nozzle in continuous file. Money's doctoral research demonstrated that this discharge
 is driven by residual [[bloomfield-turgor-pressure-and-hyphal-invasion]] of approximately one-hundredth of one atmosphere
@@ -88,42 +88,3 @@ teardrop-shaped primary spores are expelled within 30 seconds, leaving an empty
 sporangium.
 
 ## The Pressure Mechanism
-
-Before cytoplasmic cleavage, sporangia are pressurized to 4 or 5 atmospheres, like
-the hyphae from which they develop. When the membrane breaks, pressure drops by 99.8
-percent to one-hundredth of one atmosphere. A mathematical model devised by Roland
-Ennos demonstrated that this residual pressure was sufficient to push spores through
-the sporangial nozzle — confirming the 1923 hypothesis of William Coker.
-
-## Reversing Spore Discharge
-
-By washing sporangia with compounds that counteract the normal flux of water into the
-sporangium — specifically polyethylene glycols (chains of antifreeze molecules) —
-Money discovered it was possible to slow the motion of spores, halt them in mid-transit,
-and even reverse their movement. For hundreds of millions of years, water molds had been
-crafting sporangia and expelling spores; now, for the first time, spores had reversed
-direction.
-
-## Different Discharge Patterns
-
-Different water mold genera have evolved distinct discharge strategies. In Achlya,
-discharged spores cluster at the apex of the sporangium and become cysts. In
-Thraustotheca, spores spill through the wall of the sporangium. In Dictyuchus, cysts
-form inside the sporangium, and each discharges a single secondary zoospore through an
-exit tube. Each pattern represents a different solution to the same problem: getting
-getting motile spores from a fixed structure into the surrounding water.
-
-## Significance for Plant Pathology
-
-Understanding zoospore production and discharge is critical for managing diseases caused
-by zoosporic fungi. In frog diseases, human pythiosis, [[bloomfield-potato-blight-phytophthora-infestans]], and all of the
-maladies caused by water molds, zoospores are the agents that initiate infection.
-Knowing how they are produced and expelled provides insights into the infection process
-and potential points of intervention. The discovery that osmotic conditions can reverse
-discharge suggests that manipulation of the aquatic environment around susceptible crops
-might influence the dynamics of zoospore release and infection.
-
-## See Also
-- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
-- [[bloomfield-pythium-oomycete-water-molds]]

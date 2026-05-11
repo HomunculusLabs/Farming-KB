@@ -87,27 +87,3 @@ Irrigation management is critical because both under-irrigation (tree stress, re
 ### Weed Control
 
 Weed and vegetation control in the root zone of young trees is critical during the establishment phase. Competing vegetation reduces water and [[ph-and-nutrient-availability-garden-soils]] for the inoculated trees and may introduce competing mycorrhizal fungi.
-
-Mowing or mulching within the tree row is preferred over herbicide use near tree roots. A vegetation-free strip 1-2 meters wide along each tree row is commonly maintained during the first 3-5 years.
-
-### Tree Training and Pruning
-
-Young trees should be trained to develop a balanced crown structure that allows adequate light penetration to the soil surface. For hazelnut, this typically involves selecting 3-5 main scaffold branches. For oak, training is less intensive but may involve removing lower branches as the tree develops.
-
-Canopy management should aim for approximately 70% light transmission to the soil surface at the orchard floor. This light level is optimal for truffle development and soil warming.
-
-### Mycorrhizal Monitoring
-
-Periodic root sampling should be conducted to verify that the introduced truffle fungus is maintaining its position on tree roots. Root samples are collected from the fine root zone, examined under a microscope for characteristic mycorrhizal morphology, and ideally tested by molecular methods to confirm species identity.
-
-Declining [[arbuscular-mycorrhizal-colonization-patterns]] rates may indicate problems such as competing fungi, soil chemistry changes, or tree stress that need to be addressed before they lead to orchard failure.
-
-## See Also
-
-- [[truffle-inoculated-seedlings]]
-
-- [[doi-entity]]
-
-- [[mycorrhizal-fungi]]
-
-- [[mollison-permaculture-two-zone-planning-and-site-layout]]

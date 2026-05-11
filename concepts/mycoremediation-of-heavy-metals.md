@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Mycoremediation of heavy metals uses fungi to remove, immobilize, or transform toxic metals such as lead (Pb), cadmium (Cd), mercury (Hg), arsenic (As), and chromium (Cr) from contaminated soils and water. Unlike organic pollutants, heavy metals cannot be degraded -- they must be sequestered, transformed to less toxic forms, or accumulated for removal. (see [[rhizofiltration]]).
+Mycoremediation of heavy metals uses fungi to remove, immobilize, or transform toxic metals such as lead (Pb), cadmium (Cd), mercury (Hg), arsenic (As), and chromium (Cr) from contaminated soils and water. Unlike organic pollutants, heavy metals cannot be degraded -- they must be sequestered, transformed to less toxic forms, or accumulated for removal.
 
 ## Mechanisms of Metal Remediation
 
 ### Biosorption
 
-Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making spent mushroom substrate a practical remediation material. (see [[mycoremediation-techniques]]).
+Fungal cell walls contain chitin, glucans, and proteins with functional groups (amino, carboxyl, hydroxyl, phosphate) that bind metal ions. Dead biomass can be equally or more effective than living mycelium for biosorption, making [[fao-spent-mushroom-substrate-composting-recycling]] a practical remediation material.
 
 Key binding mechanisms:
 - Ion exchange at cell wall sites
@@ -25,7 +25,7 @@ Key binding mechanisms:
 
 ### Bioaccumulation
 
-Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. Arbuscular mycorrhizal fungi (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
+Living fungi actively transport metals across cell membranes via transport channels normally used for essential micronutrients. [[arbuscular-mycorrhizal-fungi]] (AMF) can accumulate metals in intracellular structures, preventing translocation into plant tissues.
 
 ### Biomineralization
 
@@ -50,15 +50,15 @@ Fungi can alter the oxidation state of metals, changing their toxicity and mobil
 
 ### Brown-rot Fungi
 - **Fomitopsis palustris**: Effective copper biosorbent
-- **Gloeophyllum trabeum**: Studied for arsenic and chromium remediation
+- **[[gloeophyllum-trabeum]]**: Studied for arsenic and chromium remediation
 
 ### Mycorrhizal Fungi
-- **Glomus intraradices** (Rhizophagus irregularis): Reduces heavy metal uptake in host plants while accumulating metals in its own tissues
+- **Glomus intraradices** ([[rhizophagus-irregularis]]): Reduces heavy metal uptake in host plants while accumulating metals in its own tissues
 - **Pisolithus tinctorius**: Tolerant of high metal concentrations; used in mine reclamation
 
 ### Ascomycetes and Others
 - **Aspergillus niger**: Excellent biosorbent; produces oxalic acid for metal precipitation
-- **Saccharomyces cerevisiae** (brewer's yeast): Widely studied for cadmium and lead biosorption
+- **[[saccharomyces-cerevisiae]]** (brewer's yeast): Widely studied for cadmium and lead biosorption
 - **Mucor spp.**: Effective for lead and chromium removal
 
 ## Field Applications and Studies
@@ -70,7 +70,7 @@ Field trials using inoculated plants with mycorrhizal fungi on lead-zinc mine ta
 - Reduced metal leaching into groundwater
 
 ### Industrial Site Cleanup
-- Textile dye effluent containing chromium(VI) treated with Phanerochaete chrysosporium achieved >90% reduction
+- [[fungal-textile-dye-effluent-decolorization]] containing chromium(VI) treated with Phanerochaete chrysosporium achieved >90% reduction
 - Tannery wastewater treated with Aspergillus niger biomass columns removed 85% of chromium
 - Electronic waste sites using Pleurotus-based systems showed lead accumulation in fruiting bodies
 
@@ -108,6 +108,20 @@ Fungi that accumulate metals become hazardous waste themselves. Options include:
 - Metal accumulation varies by species, strain, and growth conditions
 - Regular soil and tissue testing is essential during remediation projects
 - Worker protection protocols are needed when handling contaminated biomass
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[fungal-bioaccumulation-biosorption-metals-gadd]]
+- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+- [[mycelium-running-mushroom-bioaccumulation-heavy-metals-species-guide]]
+- [[mycoremediation-heavy-metals]]
+- [[singh-bioaccumulation-heavy-metals-fungi]]
 
 ## See Also
 

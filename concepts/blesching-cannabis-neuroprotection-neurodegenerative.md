@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Neuroprotection Across Neurodegenerative Diseases"
+title: Blesching Cannabis Neuroprotection Neurodegenerative
 source: "uwe-blesching-the-cannabis-health-index.md"
 source_author: "Uwe Blesching"
 published: 2015
@@ -10,12 +10,12 @@ tags: [cannabis, neuroprotection, neurodegenerative, THC, CBD, endocannabinoid, 
 
 ## Overview
 
-Blesching's *The Cannabis Health Index* dedicates substantial coverage to
+Blesching's *The [[blesching-cannabis-health-index-autoimmune-conditions]]* dedicates substantial coverage to
 the neuroprotective properties of cannabis constituents, particularly THC
-and CBD, across a wide spectrum of neurological conditions. The
+and CBD, across a wide spectrum of [[cannabis-and-neurological-conditions]]. The
 endocannabinoid system plays a central role in maintaining neural
 homeostasis, and its modulation through phytocannabinoids offers
-therapeutic potential for conditions involving neuronal damage,
+[[metzner-ayahuasca-therapeutic-potential]] for conditions involving neuronal damage,
 inflammation, and excitotoxicity.
 
 ## Neuroprotective Mechanisms of Cannabis
@@ -70,7 +70,7 @@ FAAH, the enzyme that breaks down anandamide, thereby extending the
   associated with alcohol poisoning
 - **Schizophrenia** — CBD reduces acute paranoid schizophrenia
   symptoms comparably to Amisulpride, without significant side effects
-- **Anxiety modulation** — CBD engages serotonin receptors to produce
+- **Anxiety modulation** — CBD engages [[psilocybin-pharmacology-and-serotonin-receptors]] to produce
   calming effects on autonomic stress responses
 - **Antidepressant effects** — demonstrated anxiolytic and
   antidepressant properties in clinical studies
@@ -88,59 +88,3 @@ is specifically approved for MS spasticity in numerous countries.
 ## Parkinson's Disease
 
 Parkinson's involves progressive loss of dopaminergic neurons in
-the substantia nigra. The ECS is heavily expressed in basal ganglia
-circuits affected by Parkinson's. THC and CBD may protect remaining
-dopaminergic neurons through anti-inflammatory and antioxidant
-mechanisms. CBD's ability to modulate glutamate excitotoxicity is
-particularly relevant given the role of excessive glutamate in
-dopaminergic neuron death.
-
-## Huntington's Disease
-
-Huntington's involves a CAG repeat expansion producing mutant
-huntingtin protein that causes neuronal death, particularly in the
-striatum. CB1 receptor density is reduced in Huntington's patients,
-suggesting endocannabinoid deficiency contributes to pathology.
-Cannabinoid therapies may slow neurodegeneration by: (1) reducing
-excitotoxic damage through glutamate modulation, (2) providing
-antioxidant protection, (3) reducing neuroinflammation via CB2
-receptors, and (4) improving motor symptoms and quality of life.
-
-## ALS (Amyotrophic Lateral Sclerosis)
-
-ALS involves progressive degeneration of motor neurons. Cannabis may
-address ALS through multiple mechanisms: (1) neuroprotection of
-remaining motor neurons via anti-inflammatory CB2 activation,
-(2) reduction of glutamate excitotoxicity, (3) antioxidant activity
-protecting neurons from oxidative damage, (4) management of symptoms
-including spasticity, pain, and appetite loss, and (5) saliva
-reduction management through CB1-mediated effects.
-
-## Alzheimer's Disease
-
-Alzheimer's pathology includes amyloid-beta plaques, neurofibrillary
-tangles, and neuroinflammation. THC has been shown to reduce amyloid
-beta production and enhance amyloid clearance through multiple
-pathways. The anti-inflammatory action of both THC and CBD through
-CB2 receptors on microglia may slow disease progression. Cannabinoids
-may also protect against tau hyperphosphorylation, another key
-pathological feature of Alzheimer's.
-
-## Therapeutic Window Considerations
-
-For neurological conditions, Blesching emphasizes the importance of
-finding the subjective therapeutic window. CB1-dominant conditions
-generally benefit from higher THC:CBD ratios, while the presence of
-CBD helps moderate THC's psychoactive effects and provides additional
-anti-inflammatory and neuroprotective benefits. Starting with low
-doses and titrating slowly is essential, especially for patients
-with cognitive impairment.
-
-## See Also
-
-- [[blesching-cannabis-parkinsons-disease]]
-- [[blesching-cannabis-huntingtons-disease]]
-- [[blesching-cannabis-als]]
-- [[blesching-cannabis-migraine]]
-- [[cannabis-epilepsy-research-detailed]]
-- [[anandamide-and-the-endocannabinoid-system]]

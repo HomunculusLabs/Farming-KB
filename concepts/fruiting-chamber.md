@@ -88,9 +88,3 @@ settling on overly wet substrate.
 
 For cultivators scaling beyond the basic SGFC, automated systems incorporate
 humidifiers controlled by hygrometers, intake and exhaust fans for air
-exchange, and sometimes temperature-controlled environments. The "Martha"
-greenhouse setup uses a commercially available greenhouse tent with an
-ultrasonic humidifier on a timer or humidity controller. More sophisticated
-builds use Arduino or Raspberry Pi controllers to maintain precise environmental
-parameters. The key principle remains the same: high humidity with adequate FAE,
-indirect light, and appropriate temperature.

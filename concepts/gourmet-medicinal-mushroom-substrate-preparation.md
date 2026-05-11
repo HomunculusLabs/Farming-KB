@@ -1,8 +1,9 @@
 ---
-title: "Gourmet and Medicinal Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation"
+title: Gourmet Medicinal Mushroom Substrate Preparation
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
   - "Oyster accessible-mushroom-cultivation-for-disabilities (MushWorld, 2004)"
 type: concept
@@ -11,7 +12,7 @@ tags: [bulk-substrate, medicine, mushroom-cultivation]
 
 # Gourmet and Medicinal Mushroom Substrate Preparation
 
-Substrate preparation is the foundation of successful mushroom cultivation. The substrate serves as both the nutritional base and physical structure for mycelial growth and fruiting. Different mushroom species have evolved to decompose specific materials, and selecting the right substrate is critical to achieving high [[stamets-biological-efficiency-yield]].
+Substrate preparation is the foundation of successful [[accessible-mushroom-cultivation-for-disabilities]]. The substrate serves as both the nutritional base and physical structure for [[mycelial-growth-and-colonization]] fruiting. Different mushroom species have evolved to decompose specific materials, and selecting the right substrate is critical to achieving high [[stamets-biological-efficiency-yield]].
 
 ## Categories of Substrate Materials
 
@@ -25,13 +26,13 @@ The primary structural components provide the bulk of the carbohydrate nutrition
 
 - **Hardwood sawdust**: Oak, alder, poplar, cottonwood, maple, birch, beech, wild cherry, and elm are all suitable. Pine, cedar, and redwood sawdust contain resins that inhibit mycelial growth and should be avoided. Sawdust from fast-decomposing hardwoods (alder, poplar, cottonwood) is preferred for [[oyster-mushroom-supplemented-sawdust-blocks]] formulas, while denser hardwoods (oak, ironwood) produce longer-lasting logs.
 
-- **Wood chips**: Hardwood chips 1/2 to 4 inches are mixed with sawdust to improve aeration and structure in supplemented sawdust blocks.
+- **Wood chips**: Hardwood chips 1/2 to 4 inches are mixed with sawdust to improve aeration and structure in [[stamets-supplemented-sawdust-substrate-preparation]] blocks.
 
 - **Corn cobs**: Contains 0.49% nitrogen, 38% hemicellulose, 28% cellulose, and 11% lignin. Can be used alone or mixed with straw (e.g., 55% wheat straw and 38% corn cobs).
 
 - **Cottonseed hulls**: Produce higher yields than sawdust for many species, but have low moisture retention capacity (maximum 55-58%). Should be mixed with other materials to achieve adequate water content.
 
-- **Agricultural wastes**: Over 200 different waste materials have been documented as oyster mushroom substrates, including sugarcane bagasse, coffee grounds, banana leaves, water hyacinth, sunflower seed hulls, and many others.
+- **Agricultural wastes**: Over 200 different waste materials have been documented as [[oyster-mushroom-substrates]], including sugarcane bagasse, coffee grounds, banana leaves, water hyacinth, sunflower seed hulls, and many others.
 
 ### Nutritional Additives
 
@@ -45,7 +46,7 @@ Additives provide supplemental nitrogen and minerals, typically used at 2-10% of
 
 ## The Stamets Fruiting Formula
 
-The standard supplemented sawdust formula for indoor gourmet mushroom production:
+The standard supplemented sawdust formula for indoor [[gourmet-mushroom-cultivation]] production:
 
 | Component | Amount |
 |-----------|--------|
@@ -86,42 +87,3 @@ For accurate measurement, weigh 100 grams of substrate, dry in an oven at 300 de
 ## pH Considerations
 
 Optimal pH varies by species and cultivation stage:
-
-- **Oyster mushroom mycelial growth**: pH 5.0-6.5 (survives between 4.2-7.5)
-- **Oyster primordia induction**: pH 5.0-5.5
-- **Shiitake sawdust blocks at make-up**: pH 5.5-6.0
-- **Shiitake at fruiting**: pH 3.5-4.5
-
-A falling pH during the grow cycle is normal and indicates active mycelial metabolism. When substrate pH drops below 4.0, it signals the end of productive harvest cycles.
-
-## Heat Treatment Methods
-
-Substrates must be heat-treated before inoculation to kill competitors. Two approaches exist:
-
-### Pasteurization (for straw and agricultural wastes)
-
-- **Hot water bath (submerged)**: Straw is stuffed into a wire basket, submerged in water at 160 degrees F (71 degrees C) for 1-2 hours. A propane burner heats a stainless steel 55-gallon drum. After two soakings, the water must be discarded as it becomes toxic ("straw tea").
-
-- **Phase II steam chamber**: Straw is moistened to 75% over 2-4 days, loaded into an insulated room, and live steam is injected. Minimum 2 hours above 160 degrees F (71 degrees C). Temperature must be monitored at three points (low, mid, high) with thermometers. If temperature exceeds 200 degrees F (93 degrees C), beneficial organisms are killed and the substrate becomes vulnerable to competitors. Upon cooling, the chamber should be positive-pressurized with HEPA-filtered air.
-
-### Sterilization (for supplemented sawdust and grain)
-
-Supplemented substrates must be sterilized (not merely pasteurized) because the added nutrients make them highly susceptible to contamination:
-
-- **Autoclave/retort**: 15 psi (250 degrees F) for 2-4 hours depending on container size
-- **Normal [[boil-a-bag-pressure-sterilization-technique]]**: 90-95 degrees C for 5-8 hours, or 100 degrees C for 4 hours
-
-Straw is a "forgiving" substrate for small cultivators because pasteurization is sufficient, whereas supplemented sawdust requires full sterilization and more expensive equipment.
-
-## Substrate-to-Yield Conversion
-
-Oyster mushrooms demonstrate some of the highest biological efficiencies in cultivation. In decomposing dry straw, approximately 50% of mass is liberated as CO2, 20% is lost as water, 20% remains as spent compost, and 10% is converted into dry mushrooms. This equates to roughly 25% conversion of wet substrate mass into fresh mushrooms. Biological efficiencies for oyster mushrooms frequently exceed 100%.
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
-- mushroom-sawdust-bran-spawn-preparation
-- oyster-mushroom-agricultural-waste-substrates-survey
-## See Also
-- [[mushroom-substrate-preparation]]
-- [[substrate-preparation]]
-- [[oyster-mushroom]]
-- [[mushroom-substrates]]
-- [[oyster-mushrooms]]

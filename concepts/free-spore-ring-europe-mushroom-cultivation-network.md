@@ -88,26 +88,3 @@ In addition to standard spore prints and growkits, the European market included 
 These truffle products represented an intermediate point between fresh mushrooms and home cultivation materials. They were sold by smartshops and online retailers at prices ranging from 10 to 17.50 EUR for 15 grams of Psilocybe mexicana truffles, and were consumed directly rather than requiring cultivation. The FSRE's spore distribution complemented this market by providing the starting materials for users who wanted to progress from purchasing finished products to producing their own, whether that meant standard fruiting bodies or the more exotic sclerotia-forming species.
 
 ## Internet Information Ecosystem
-
-The FSRE operated within a rich ecosystem of internet-based information resources that supported hallucinogenic mushroom cultivation across Europe. Major US-based repositories including Erowid, Lycaeum, Mycotopia, and Shroomery provided extensive cultivation guides, species identification resources, and community forums. In addition, dedicated European websites emerged in multiple languages, providing locally relevant information on effects, dosages, chemistry, mushroom classification, and legal status.
-
-These information resources typically included photo galleries of various hallucinogenic mushroom species, cultivation tutorials, and trip reports documenting user experiences. Community features such as discussion forums and event listings enabled visitors to share personal information on use, cultivation techniques, and supply channels. The FSRE's role as a spore distributor was embedded within this broader information-sharing ecosystem, which collectively enabled a self-sustaining culture of home cultivation that operated largely independently of commercial retail channels.
-
-## Market Data and Pricing Context
-
-A January 2006 snapshot of online shops selling hallucinogenic mushroom products identified 39 active websites, with 82% based in the Netherlands. The remaining 18% included four Austrian online shops selling growkits and spore prints, two German sites, and a UK site linked to a Dutch online shop. The pricing data from these shops provides context for understanding the FSRE's value proposition. Fresh Psilocybe cubensis (Mexican variety) in 30 gram quantities ranged from 8.50 to 45.28 EUR. Fresh Copelandia cyanescens in 10 gram quantities cost 13 to 17.50 EUR. Spore prints or syringes from commercial outlets ranged from 9 to 28 EUR per unit. Against these commercial prices, the FSRE's 1 EUR per print offering represented a 90% or greater discount, making it an exceptionally economical option for users willing to invest the time and effort required for home cultivation from spores.
-
-The majority of online shops offered international shipping, though many excluded countries where sales were prohibited and advised customers to verify the legal status of products before ordering. Many sites provided different language versions (mainly English, French, and German) to attract foreign customers, reflecting the pan-European nature of the market that the FSRE also served. The FSRE's non-profit distribution model, combined with the multilingual internet information ecosystem, meant that geographic and linguistic barriers to home cultivation were remarkably low for motivated individuals across Europe.
-
-## Relationship to the "Return to Nature" Trend
-
-The FSRE's model of enabling self-sufficient home cultivation aligned with the broader "return to nature" consumer megatrend identified as a contributing factor to the emerging interest in hallucinogenic mushrooms. Consumer market analysts (Datamonitor, 2004) noted a trend toward people actively seeking more intense experiences and being more prepared to experiment with new products, alongside increasing interest in natural and organic products. Home cultivation from spores represented the most natural and self-directed approach to obtaining hallucinogenic mushrooms, appealing to users who valued autonomy, self-sufficiency, and connection to the cultivation process itself.
-
-## See Also
-
-- [[emcdda-free-spore-ring-europe-spore-distribution-network]]
-
-- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
-- [[smartshop-hallucinogenic-mushroom-market]]
-- emcdda-hallucinogenic-mushroom-legal-loopholes
-- emcdda-hallucinogenic-mushroom-eu-legislation-timeline-2001-2006

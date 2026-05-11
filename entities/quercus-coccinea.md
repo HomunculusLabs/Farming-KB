@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sander, I.L. (1990). "Quercus coccinea Muenchh." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
   - Farrar, J.L. (1995). Trees of the Northern dmt-containing-plants-united-states-halpern and Canada. Iowa State University Press.
-  - Burns, R.M., Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Agriculture Handbook 654.
+  - Burns, R.M., Honkala, B.H. (1990). Silvics [[berry-growing]], Vol. 2. USDA Agriculture Handbook 654.
   - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
   - Johnson, P.S., Shifley, S.R., Rogers, R. (2009). The Ecology and Silviculture of Oaks. CABI Publishing.
 ---
@@ -21,9 +21,9 @@ sources:
 
 **Quercus coccinea**, the scarlet oak, is a medium-sized deciduous tree native to [[polypore-fungi-eastern-north-america]] America. It is renowned for its brilliant scarlet-red autumn foliage, considered among the most vivid of any [[growing-gourmet-north-american-reishi-species]] oak.
 
-Scarlet oak is a member of the red oak group (*Quercus* section *Lobatae*). It occupies dry, acidic upland sites throughout the Appalachian region and northeastern United States, where it is a dominant component of oak-heath forests.
+Scarlet oak is a member of the red oak group (*Quercus* section *Lobatae*). It occupies dry, acidic upland sites throughout the [[bolete-fungi-appalachian-region]] and northeastern United States, where it is a dominant component of oak-heath forests.
 
-The species is economically important for timber, wildlife habitat, and ornamental planting. Its strong, durable wood is marketed collectively with other red oaks, and its acorns are a critical food resource for wildlife.
+The species is economically important for timber, [[hemenway-backyard-wildlife-habitat]], and ornamental planting. Its strong, durable wood is marketed collectively with other red oaks, and its acorns are a critical food resource for wildlife.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ Bark on young trees is smooth and gray-brown, developing broad, scaly ridges wit
 
 Leaves are alternate, simple, broadly obovate, 9–15 cm long and 10–16 cm wide, with 5–9 (usually 7) deeply cut lobes. Lobes are bristle-tipped, and the sinuses between lobes extend more than halfway to the midrib.
 
-Acorns are 1.2–2.0 cm long, ovoid, enclosed one-third to one-half in a shallow, saucer-shaped cup. The cup scales are reddish-brown and appressed. Acorns ripen over two growing seasons.
+Acorns are 1.2–2.0 cm long, ovoid, enclosed one-third to one-half in a shallow, saucer-shaped cup. The cup scales are reddish-brown and appressed. Acorns ripen over two [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Distribution and Habitat
 
@@ -71,13 +71,13 @@ The wood is heavy, hard, and strong with a specific gravity of 0.63. Heartwood i
 
 Scarlet oak is a popular ornamental tree for parks and large landscapes. Its compact root system, compared to other oaks, makes it somewhat easier to transplant. The spectacular fall color is its primary ornamental asset.
 
-Several cultivars are available, including 'Splendens' with particularly vivid fall color and 'Fastigiata' with a narrow, columnar form. The species is hardy to USDA Zone 4 and tolerates urban conditions including compacted soils and air pollution.
+Several cultivars are available, including 'Splendens' with particularly vivid fall color and 'Fastigiata' with a narrow, columnar form. The species is hardy to USDA Zone 4 and tolerates urban conditions including compacted soils and [[air-pollution-fungal-community-responses]].
 
 ## Bioactive Compounds and Tannins
 
 Scarlet oak bark and acorns contain significant concentrations of tannins, including ellagitannins and gallotannins. These polyphenolic compounds contribute to the astringent taste of raw acorns and provide defense against herbivores and pathogens.
 
-Oak tannins have been historically important in leather tanning, with scarlet oak bark yielding 8–12% tannin by dry weight. North American oak bark was a major export commodity in the 18th and 19th centuries.
+Oak tannins have been historically important in leather tanning, with scarlet oak bark yielding 8–12% tannin by dry weight. [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] oak bark was a major export commodity in the 18th and 19th centuries.
 
 Quercetin and kaempferol glycosides have been isolated from scarlet oak leaves. These flavonoids exhibit antioxidant and anti-inflammatory activities in vitro. The leaves also contain triterpenoids including betulinic acid.
 
@@ -88,37 +88,3 @@ Acorn extracts demonstrate antimicrobial activity against gram-positive bacteria
 Scarlet oak acorns are among the most palatable of the red oak group for wildlife. They are consumed by white-tailed deer, wild turkey, black bear, squirrels, blue jays, woodpeckers, and numerous small mammals.
 
 The species provides important nesting habitat for woodland birds. Its open canopy structure allows light penetration to the forest floor, supporting diverse understory communities that benefit ground-nesting birds and [[mollison-designers-winter-forest-foraging-wildlife-cooperation]].
-
-Scarlet oak supports a diverse community of insects, including leaf-mining moths, gall wasps, and specialist beetles. These herbivores in turn support insectivorous birds, forming an important link in forest food webs.
-
-As a component of oak-heath and oak-pine forests, scarlet oak contributes to fire-adapted ecosystem dynamics. Its presence maintains habitat for fire-dependent species including certain wildflowers and ground-dwelling invertebrates.
-
-Scarlet oak is a valuable mycorrhizal host, forming associations with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] including species of *Amanita*, *Laccaria*, *Russula*, and *Cortinarius*. These fungal partnerships enhance nutrient and water uptake on nutrient-poor upland sites.
-
-The species is susceptible to oak wilt (*Ceratocystis fagacearum*), a fatal vascular disease that has killed millions of oaks in the eastern United States. Other pathogens include the oak leaf blister fungus (*Taphrina caerulescens*) and various *Armillaria* root rot species.
-
-## See Also
-
-- [[quercus-alba]]
-- [[quercus-rubra]]
-- [[quercus-robur]]
-- [[quercus-palustris]]
-- [[quercus-macrocarpa]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[betula-pendula]]
-- [[pinus-strobus]]
-- [[castanea-sativa]]
-- [[castanea-dentata]]
-- [[juglans-nigra]]
-- [[juglans-regia]]
-- [[carya-illinoinensis]]
-- [[carya-ovata]]
-- [[acer-rubrum]]
-- [[acer-negundo]]
-- [[populus-tremuloides]]
-- [[betula-alleghaniensis]]
-- [[ulmus-americana]]
-- [[ulmus-rubra]]
-- [[tilia-americana]]
-- [[platanus-occidentalis]]

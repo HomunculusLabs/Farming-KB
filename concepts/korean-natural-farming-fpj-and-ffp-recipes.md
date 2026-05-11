@@ -9,7 +9,7 @@ sources:
 ---
 # Korean Natural Farming FPJ and FFP Recipes
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean Natural [[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, growth hormones, and enzymes. Both are simple to make from locally available materials.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and Fermented Fish Protein (FFP/FAA) are key Korean Natural [[natural-farming-inputs-cho]] that provide plants with bioavailable nutrients, [[gibberellins-plant-growth-hormones]], and enzymes. Both are simple to make from locally available materials.
 
 ## Fermented Plant Juice (FPJ)
 
@@ -22,9 +22,9 @@ sources:
 ### Plant Selection
 - Choose fast-growing plants with abundant sap (high "chi" energy)
 - Collect before sunrise when plant sugars are highest
-- Best plants by growth stage:
-  - **Early spring**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
-  - **Summer**: Bamboo shoots, sweet potato vines, fast-growing weeds
+- Best plants by [[cannabis-growth-stage-checklist]]:
+  - **[[coleman-overwintered-onions-and-early-spring-crops]]**: Japanese mugwort (Artemisia princeps), dropwort (Oenanthe javanica)
+  - **Summer**: Bamboo shoots, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] vines, fast-growing weeds
   - **Flowering**: Flowering branches of any plant (for [[knf-reproductive-growth-stage]] stimulation)
   - **Fruiting**: Unripe fruit of the target crop (tomato FPJ for tomatoes)
 
@@ -51,7 +51,7 @@ sources:
 ## Fermented Fish Amino Acid (FFP/FAA)
 
 ### Purpose
-- Provides nitrogen and amino acids for vegetative growth
+- Provides nitrogen and amino acids for [[green-cannabis-vegetative-growth]]
 - Excellent for crops needing a nitrogen boost
 - Faster-acting than compost nitrogen
 - Fish oil byproduct acts as insect repellent
@@ -74,7 +74,7 @@ sources:
 - Stores indefinitely at room temperature (high sugar content preserves it)
 - Dilution: 1:1000 with water (very concentrated)
 - Apply as soil drench or foliar spray
-- Best applied during vegetative growth stage
+- Best applied during [[knf-vegetative-growth-stage]]
 - Apply every 2-3 weeks
 - Fish oil that separates to the top can be used as insect repellent (dilute 1:1000)
 
@@ -88,18 +88,3 @@ sources:
 ### Vegetative Stage
 - FPJ from fast-growing plants: 1:500 dilution, every 7-10 days
 - FAA: 1:1000 dilution, every 2-3 weeks
-- Combine in same spray tank (compatible)
-
-### Flowering Stage
-- FPJ from flowering branches: 1:500 dilution, every 10-14 days
-- Reduce or stop FAA (too much nitrogen reduces flowering)
-
-### Fruiting Stage
-- FPJ from unripe fruit of the target crop: 1:500 dilution
-- OHN ([[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient): 1:1000 dilution for disease resistance
-
-## Related
-- [[korean-natural-farming-lab-and-ohn-recipes]] — for LAB and OHN recipes
-- [[compost-tea-brewing]] — for compost tea (similar concept)
-- [[jadam-natural-pest-control-methods]]
-- [[jadam-fruit-tree-winter-pest-control]]

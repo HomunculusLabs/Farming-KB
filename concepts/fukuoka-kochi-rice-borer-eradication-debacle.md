@@ -1,10 +1,11 @@
 ---
-title: "fukuoka kochi rice borer eradication debacle Borer Eradication Campaign and Its Lessons"
+title: Fukuoka Kochi Rice Borer Eradication Debacle
 created: 2026-04-28
-tags: [rice-borer, pest-eradication, integrated-pest-management, kochi, post-season-cultivation, japan]
+tags: [rice-borer, pest-eradication, [[integrated-pest-management]], kochi, post-season-cultivation, japan]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -58,7 +59,7 @@ singled out in Kochi because they feed only on rice. Nature does
 not go on unbalanced rampages. It has mechanisms for self-control
 in places unknown to man. What sense does it make if, having
 exterminated yellow rice borers, damage by rice stem borers and
-cutworms increases? Insect pests and crop diseases sometimes offset
+cutworms increases? [[duggar-mushroom-insect-pests-and-fungal-diseases]] crop diseases sometimes offset
 each other.
 
 The lack of a significant increase in yields despite elimination
@@ -87,37 +88,3 @@ natural scheme of things.
 ## Scientific Farming as Temporary Expedient
 
 That the post-season cultivation program, which represented a
-cross-section of the most advanced agricultural technology of the
-time, succeeded only in preventing further losses was very
-significant. It demonstrated that, since the purpose of scientific
-agriculture is always and everywhere convenience to man, no matter
-how large and complete the technology amassed, it will never amount
-to more than a temporary expedient.
-
-Before the war, attempts were made to wipe out the rice borer by
-putting up light traps all over the Kochi Plain. The same thing
-was tried again after the war with a blanket application of
-organophosphate pesticides. The campaign through post-season
-cultivation was merely another drastic measure. Eradicating one
-pest out of dozens was bound to end up as nothing more than a
-temporary expedient.
-
-## Finding the True Cause
-
-The first thing that pops into the head of an agricultural
-scientist when he sees a pest emerge in the fields is how to kill
-it. Instead, he should examine the causes of the outbreak and cut
-outbreak and cut off the problem at its roots. This, at any rate, is the way
-[[comparison-natural-farming-vs-permaculture]] would handle the matter. There is something
-basically wrong with arbitrarily deciding that an insect is a
-pest and trying to destroy it without understanding why it
-flourished in the first place. This incident taught Fukuoka not
-to rely on human action and strengthened his resolve to move
-toward a natural way of farming.
-
-## See Also
-
-- [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]]
-
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
-- [[fukuoka-rice-and-barley-natural-farming]]

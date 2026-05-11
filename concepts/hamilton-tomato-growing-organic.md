@@ -88,29 +88,3 @@ with liquid kelp or animal-manure fertilizer every time you water.
 
 Tomatoes may be affected by whitefly, aphids, leaf mold, red spider
 mites, [[bloomfield-potato-blight-phytophthora-infestans]], and virus diseases. Hose down daily and shake
-supporting wires to move pollen around. Remove bottom leaves when
-they turn yellow but do not remove leaves above the ripening fruit
-cluster. See [[hamilton-greenhouse-management-organic]] for
-greenhouse-specific pest management.
-
-## Harvesting
-
-Pick fruits as soon as they are ripe to get the sweetest flavor and
-encourage the production of more fruits at the end of the season.
-Covering bush tomatoes with [[hamilton-greenhouse-management-organic]] for detailed
-environmental management. Remove bottom leaves when they yellow but
-preserve foliage above ripening clusters to protect fruit from sun
-scald in hot conditions.
-
-## Summary
-
-Tomatoes thrive under organic management with proper attention to
-soil preparation, regular feeding with liquid [[hamilton-organic-fertilizers-and-plant-nutrition]],
-and careful training. The key distinction is between bush types,
-which require minimal maintenance but benefit from mulching, and
-upright types, which need regular side-shooting and staking.
-Greenhouse cultivation allows earlier sowing and extended harvesting,
-while outdoor growing suits bush varieties in warmer areas. Consistent
-moisture, adequate potassium through organic feeds, and vigilant pest
-monitoring ensure healthy plants and abundant, flavorful crops
-throughout the season.

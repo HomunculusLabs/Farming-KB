@@ -9,7 +9,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/amaringo-p-ayahuasca-visions.md]
 
 # Amazonian Shamanic Battles and Defensive Powers
 
-A major theme in Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]] is the shamanic battle -- direct confrontations between healers (curanderos/vegetalistas) and sorcerers (brujos). These battles take place entirely in the visionary realm and involve complex arsenals of magical weapons, spirit allies, and defensive barriers. Understanding these battles is essential to understanding Amazonian shamanic practice.
+A major theme in [[pablo-amaringo]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]] is the shamanic battle -- direct confrontations between healers (curanderos/vegetalistas) and sorcerers (brujos). These battles take place entirely in the visionary realm and involve complex arsenals of magical weapons, spirit allies, and defensive barriers. Understanding these battles is essential to understanding Amazonian [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]].
 
 ## The Nature of Shamanic Combat
 
@@ -76,7 +76,7 @@ Spiritual defenses given to vegetalistas by [[metzner-spirit-beings-multiple-rea
 Powerful fairy-queens who assist healers in battle:
 - **Queen Nefina**: Can fly with hair of fire; has a magnetizing mirror with luminous waves that negate enemy magic. Accompanied by ladies Lebina and Magg with powerful fans and net-like hair.
 - **Queen Pulsarium Coya**: Gives vegetalistas the power to diagnose by pulsation. Wears red and green mantle with golden crown.
-- **The Six Queens** (Cushirima, Silove, Gabat, Manchahuarmi, Allimpaica, Callpaican-Kapak): Each possesses specific powers -- icaros, perfumes, clairvoyance, warfare, healing, and rapid travel.
+- **The Six Queens** (Cushirima, Silove, Gabat, Manchahuarmi, Allimpaica, Callpaican-Kapak): Each possesses specific powers -- [[icaros]], perfumes, clairvoyance, warfare, healing, and rapid travel.
 
 ### Anaconda Protection
 
@@ -88,23 +88,3 @@ Queen Pulsarium Coya teaches vegetalistas to diagnose illness through pulsation 
 - White and pink waves: Apprentice pulsations
 - Blue waves: Muraya healer pulsations
 - Red and yellow waves: Banco master pulsations
-- Black and red waves: Evil banco pulsations
-
-## Shape-Shifting in Battle
-
-Vegetalistas can transform themselves into wolves, drinking ayahuasca from a gourd, accompanied by their duenas (owner-queens). They are protected by anacondas and manilay-rucos (great beings) wearing crowns of fire knives, magnetic armor, and electromagnetic belts.
-
-## The Electric Chain
-
-A healer can bind all attacking sorcerers together with an electric chain. Once bound, the healer's animal allies (tiger, wolf) can seize or drive off the enemies. This is one of the most powerful defensive techniques.
-
-## Sacred Perfume as Weapon
-
-Certain sacred perfumes can make witches flee. Perfume and balsamic ointments prepared by queens like Silove and Allimpaica are used both defensively and offensively in shamanic combat.
-
-## Related Topics
-
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] -- shamanic ranks
-- [[yakuruna-water-spirits-of-the-amazon]] -- water realm allies
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]

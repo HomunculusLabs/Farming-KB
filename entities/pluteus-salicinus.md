@@ -1,5 +1,5 @@
 ---
-title: Pluteus salicinus
+title: Pluteus Salicinus
 created: 2026-05-09
 updated: 2026-05-09
 type: entity
@@ -14,7 +14,7 @@ sources:
 **Pluteus salicinus** (Pers.: Fr.) P. Kumm. is a small, wood-inhabiting
 mushroom in the family Pluteaceae confirmed to contain [[psilocybin]] and
 [[baeocystin]]. It is one of the least studied psychoactive agarics, known
-primarily from Europe and North America, where it grows on dead hardwood
+primarily from Europe and [[guzman-psilocybin-mushrooms-north-america]], where it grows on dead hardwood
 in moist, shaded environments. The species was first described by Persoon
 and later placed in *Pluteus* by Kummer. Its name refers to its association
 with willow (*Salix*) wood, though it is not restricted to that substrate.
@@ -31,7 +31,7 @@ with willow (*Salix*) wood, though it is not restricted to that substrate.
 
 The genus *Pluteus* contains approximately 45 European species. Several
 Pluteus species have been confirmed to contain psilocybin, placing the
-genus among the non-hymenogastraceous psilocybian fungi. The Pluteaceae
+genus among the non-hymenogastraceous [[psilocybian-fungi-law-australia-nz]]. The Pluteaceae
 are closely related to the Amanitaceae, but unlike the mycorrhizal
 [[amanita-muscaria]], all Pluteus species are saprotrophic wood-decomposers.
 
@@ -44,7 +44,7 @@ young, often developing a low umbo at maturity. The surface is smooth to
 slightly wrinkled, with colors ranging from grayish-brown to dark brown.
 Some specimens develop a bluish or bluish-green tint, particularly at the
 center or near the base. Albino forms have been documented in which the
-entire fruiting body is white, though these still display characteristic
+entire [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is white, though these still display characteristic
 blue staining at the stem base.
 
 ### Gills (Lamellae)
@@ -76,7 +76,7 @@ compared to more robust psychoactive species.
 
 *Pluteus salicinus* has a broad but scattered distribution across the
 Northern Hemisphere, documented from North America, Europe, Asia, and
-Africa. In the Guzman, Allen, and Gartz worldwide survey, the species was
+Africa. In the Guzman, Allen, and Gartz [[mushworld-oyster-substrate-materials-worldwide-survey]], the species was
 recorded from numerous European countries and from Illinois, Indiana,
 Tennessee, and other states in the USA. Gartz (1996) confirmed its
 presence across temperate Europe. It has also been reported from North
@@ -86,58 +86,5 @@ The species is a saprotroph that fruits on dead hardwood, including willow,
 oak, beech, ash, and elm. It typically grows singly or in small groups on
 logs, stumps, branches, and woody debris in damp, shaded forest
 environments. Fruiting occurs from late summer through autumn. Its small
-size and preference for shaded wood substrates make it easy to overlook in
+size and preference for shaded [[fungal-succession-wood-substrates]] make it easy to overlook in
 the field.
-
-## Chemistry
-
-Chemical analysis has confirmed the presence of [[psilocybin]] and
-[[baeocystin]] in *Pluteus salicinus*. The detection of these indole
-alkaloids was reported by Saupe (1981), Stijve and Kuyper (1985), Stijve
-and Bonnard (1986), Gartz (1987c, 1996), and Ohenoja et al. (1987).
-Gartz noted the presence of urea in *P. salicinus*, a chemotaxonomic
-feature shared with relatively few other psilocybin-containing species.
-
-The psilocybin content is generally considered low to moderate compared
-to more potent species like [[psilocybe-azurescens]] or
-[[psilocybe-cyanescens]]. The blue staining sometimes observed on the cap
-and stem base is attributed to the oxidation of psilocin, the
-dephosphorylated active metabolite of psilocybin. However, blue staining
-in *P. salicinus* can be subtle and is not always present, so its absence
-should not be used to rule out the species.
-
-## Field Identification Challenges
-
-*Pluteus salicinus* is easily overlooked for several reasons. Its small
-size makes it inconspicuous compared to more robust mushrooms. The growth
-habit on dead wood in shaded environments further reduces visibility. Many
-non-psychoactive Pluteus species share similar morphology, and the
-variability in coloration from typical brownish forms to entirely white
-albino specimens adds to identification difficulty.
-
-The pink spore print is the most reliable macroscopic feature for placing
-a specimen in the genus *Pluteus*. However, this does not distinguish
-psychoactive from non-psychoactive species within the genus. Microscopic
-examination of cystidia is typically required for definitive species-level
-identification.
-
-## Edibility and Safety
-
-*Pluteus salicinus* is not considered edible in the culinary sense. While
-it contains psilocybin, there are no well-documented cases of intentional
-recreational use in the mycological literature. Accurate identification
-within the genus *Pluteus* requires microscopic examination, and confusion
-with other Pluteus species poses no significant toxic risk since the genus
-is generally non-toxic. However, the small size and low potency make it
-an impractical choice for any purpose.
-
-## See Also
-
-- [[psilocybe-semilanceata]] — Europe's most common psychoactive mushroom
-- [[psilocybe-cyanescens]] — Potent wood-inhabiting species for comparison
-- [[gymnopilus-spectabilis-entity]] — Another non-Psilocybe psilocybian genus
-- [[pluteus-cyanopus]] — Related psychoactive Pluteus species
-- [[pluteus-cervinus]] — Common non-psychoactive Pluteus for comparison
-- [[inocybe-corydalina]] — Mycorrhizal psilocybin mushroom, different ecology
-- [[psilocybin]] — Primary psychoactive compound
-- [[baeocystin]] — Related indole alkaloid found in this species

@@ -1,6 +1,6 @@
 ---
-title: Psilocin Accumulation Across Flushes
-aliases: [psilocin flush pattern, psilocin absence first flush, psilocybin dephosphorylation flushes]
+title: Psilocin Accumulation Flushes
+aliases: [psilocin [[psilocin-biosynthetic-accumulation-flush-pattern-bigwood-beug]], psilocin absence first flush, psilocybin dephosphorylation flushes]
 tags: [mycology, psilocin, psilocybe-cubensis, alkaloid-variation, tryptamine-biochemistry]
 created: 2026-05-09
 source: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"]
@@ -8,7 +8,7 @@ source: ["variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"]
 
 # Psilocin Accumulation Across Flushes
 
-Psilocin, the dephosphorylated and more labile psychoactive compound found in [[psilocybe-cubensis]], shows a distinctive accumulation pattern across successive flushes that differs markedly from [[psilocybin-variation-across-flushes|psilocybin's unpredictable variation]]. Bigwood and Beug (1982) found that psilocin is generally absent in the first one or two flushes, reaches a maximum concentration by the fourth flush, and then begins to decline. This pattern suggests a flush-dependent biosynthetic regulation that may be linked to mycelial maturation or substrate depletion.
+Psilocin, the dephosphorylated and more labile psychoactive compound found in [[psilocybe-cubensis]], shows a distinctive accumulation pattern across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] that differs markedly from [[psilocybin-variation-across-flushes]]. Bigwood and Beug (1982) found that psilocin is generally absent in the first one or two flushes, reaches a maximum concentration by the fourth flush, and then begins to decline. This pattern suggests a flush-dependent biosynthetic regulation that may be linked to mycelial maturation or substrate depletion.
 
 ## The Psilocin Flush Pattern
 
@@ -59,11 +59,11 @@ Several hypotheses could explain the absence of psilocin in early flushes:
 2. **Substrate availability**: Early flushes may deplete a precursor or cofactor required for psilocin production
 3. **Regulatory suppression**: Early in the fruiting cycle, metabolic resources may be directed toward [[mycelial-growth-and-colonization]] [[gottlieb-psilocybin-production-extraction-methods]], with psilocin biosynthesis suppressed until later
 4. **Oxidative degradation**: Psilocin is more susceptible to oxidation than psilocybin; early flush conditions may favor degradation
-5. **Compartmentalization**: Psilocin may be produced but rapidly converted or sequestered in early developmental stages
+5. **Compartmentalization**: Psilocin may be produced but rapidly converted or sequestered in early [[psilocybe-cubensis-developmental-stages]]
 
 ## Strain Differences in Psilocin Distribution
 
-Analysis of three strains revealed significant differences in how psilocin is distributed between cap and stem tissues:
+Analysis of three strains revealed significant differences in how psilocin is distributed between [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] tissues:
 
 ### First Flush Distribution
 
@@ -88,47 +88,3 @@ Street samples consistently showed very low psilocin levels regardless of psiloc
 | 2 | 6.2 | 0 | — |
 | 3 | 0.7 | 0.3 | 2.3:1 |
 | 4 | 0.7 | 0.3 | 2.3:1 |
-| 5 | 1.3 | 0.3 | 4.3:1 |
-
-The consistently low psilocin in street samples could reflect:
-- Harvest from early flushes (where psilocin is naturally low or absent)
-- Degradation of psilocin during drying, storage, or transport (psilocin is less stable than psilocybin)
-- Cultivation practices that favor early harvesting for yield rather than maximum alkaloid diversity
-
-## Chemical Stability Considerations
-
-Psilocin is significantly less stable than psilocybin due to the absence of the phosphate group:
-
-- Psilocin oxidizes readily in the presence of air, light, and moisture
-- The phenolic hydroxyl group makes psilocin more reactive than psilocybin's phosphate ester
-- Proper storage (freeze-drying, sealed containers, −5°C) is critical for preserving psilocin content
-- Air-drying at room temperature, as commonly practiced in informal cultivation, likely results in significant psilocin loss
-
-This instability complicates both the measurement and the pharmacological contribution of psilocin. Even if substantial psilocin is present at harvest, post-harvest handling may reduce it to undetectable levels before analysis.
-
-## Pharmacological Relevance
-
-Despite typically being present at lower concentrations than psilocybin, psilocin may contribute meaningfully to the overall psychoactive effect:
-
-- Psilocin is the **active metabolite** — psilocybin is dephosphorylated to psilocin in the body before crossing the blood-brain barrier
-- Orally administered psilocin may have a faster onset than psilocybin due to the absence of the dephosphorylation step
-- The relative contribution of pre-formed psilocin vs. psilocybin to subjective effects remains under investigation
-- In later flushes where psilocin levels are highest, the [[dosage-unpredictability-psilocybin-subjective-experience]] may differ from early-flush mushrooms even at equal psilocybin concentrations
-
-## Practical Implications for Cultivators
-
-The flush-dependent psilocin pattern has several implications for those seeking to maximize or standardize alkaloid profiles:
-
-- **Maximum psilocin**: Harvest flush 4 for the highest psilocin content
-- **Consistent dosing**: Early flushes (1–2) may produce more predictable psilocybin-only effects
-- **Full spectrum**: Later flushes (3–5) provide the most complete alkaloid profile
-- **Storage**: Freeze-drying and cold storage are essential for preserving psilocin
-- **Strain selection**: Different strains show different psilocin compartmentalization patterns
-
-## Related Topics
-
-- [[psilocybin-variation-across-flushes]] — the contrasting pattern of psilocybin across flushes
-- psilocybin biosynthesis — enzymatic pathways for tryptamine [[mycelial-broth-alkaloid-production]]
-- psilocin chemistry — chemical properties, stability, and metabolism of psilocin
-- [[psilocybe-cubensis-cultivation]] — [[mushroom-growing-methods-comparison]] and flush management
-- tryptamine alkaloids fungi — broader context of psychoactive fungal compounds

@@ -13,7 +13,7 @@ sources:
   - Bai, Y. & Lindhout, P. (2007). "Domestication and Breeding of Tomatoes: What Have We Gained and What Can We Gain in the Future?" Annals of Botany, 100(5), 1085-1094.
   - Bombarely, A. et al. (2011). "Insights into the Evolution of the Solanaceae from the Domesticated Genome of Tomato." Nature Genetics, 43, 676-682.
   - USFDA (2019). "Tomatoes — Raw." FoodData Central, fdc.nal.usda.gov.
-  - Peralta, I.E. & Spooner, D.M. (2007). "History, Origin and Early Cultivation of Tomato." in Genetic Improvement of Solanaceous Crops, Vol. 2, 1-27.
+  - Peralta, I.E. & Spooner, D.M. (2007). "History, Origin and Early Cultivation of Tomato." in [[genetic-improvement-agaricus-bisporus-molecular-approaches]] of Solanaceous Crops, Vol. 2, 1-27.
 ---
 
 ## Overview
@@ -21,10 +21,10 @@ sources:
 **Solanum lycopersicum**, the cultivated tomato, is a herbaceous perennial plant grown
 worldwide as an annual crop in the nightshade family Solanaceae.
 
-Native to the Andean region of South America, it was domesticated in Mesoamerica
+Native to the Andean region of [[guzman-psilocybin-mushrooms-south-america]], it was domesticated in Mesoamerica
 by pre-Columbian peoples and subsequently spread globally following Spanish colonization.
 
-Tomato is the second-most-consumed vegetable crop worldwide after potato, with annual
+Tomato is the second-most-consumed [[vegetable-crop-demand-classification-fertility-matching-solomon]] worldwide after potato, with annual
 global production exceeding 186 million tonnes.
 
 The fruit is botanically classified as a berry and is consumed fresh, cooked,
@@ -71,7 +71,7 @@ where the earliest archaeological evidence of cultivated tomatoes dates to ~500 
 Spanish conquistadors introduced the tomato to Europe in the early 16th century,
 where it was initially grown as an ornamental curiosity due to unfounded toxicity concerns related to its Solanaceae relatives. Cultivation spread to the Mediterranean basin, [[psilocybe-southeast-asia-pacific]], and worldwide by the 18th century.
 
-Today, tomatoes are cultivated in temperate, subtropical, and tropical regions
+Today, tomatoes are cultivated in temperate, subtropical, and [[fukuoka-natural-farming-in-tropical-regions]]
 on every inhabited continent, with China, India, Turkey, and the [[dmt-containing-plants-united-states-halpern]]
 as the leading producers.
 
@@ -84,62 +84,7 @@ Temperatures above 35°C or below 10°C cause flower drop and poor fruit
 development, making greenhouse production essential in [[greenhouse-cool-climates-mollison]].
 
 Seedlings are typically started indoors 6–8 weeks before the last frost date and
-transplanted after hardening off.
+transplanted after [[hamilton-cold-frames-and-hardening-off]].
 
 Indeterminate cultivars require staking, trellising, or caging to support
 heavy fruit loads and reduce disease pressure from soil contact.
-
-Determinate bush types are well-suited to mechanized harvest for processing
-markets and require minimal support. Major diseases include *Fusarium oxysporum* f. sp.
-*lycopersici* (Fusarium wilt), *Verticillium dahliae* (Verticillium wilt),
-*Phytophthora infestans* (late blight), and *Cladosporium fulvum* ([[comparison-leaf-mold-composting-vs-hot-composting-method]]).
-
-Grafted rootstock using wild *Solanum* species confers resistance to soilborne
-pathogens and improves tolerance to abiotic stress.
-
-Yield of field-grown processing tomatoes ranges from 60–120 tonnes per hectare,
-while greenhouse production can exceed 300 tonnes per hectare.
-
-## Nutritional Value
-
-Tomatoes are an outstanding dietary source of **lycopene**, a carotenoid pigment
-with potent antioxidant properties linked to reduced cardiovascular disease risk.
-
-Lycopene bioavailability increases substantially with thermal processing and
-the presence of dietary lipids, making cooked tomato products particularly
-nutritious.
-
-A 100 g serving of raw tomato provides approximately 18 kcal, 3.9 g
-carbohydrates, 0.9 g protein, and 14 mg vitamin C (16% DV).
-
-Tomatoes also contain significant amounts of potassium (237 mg), folate
-(15 μg), and vitamin K1 (7.9 μg).
-
-Other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include β-carotene, lutein, and the glycoalkaloid
-tomatine, which exhibits antimicrobial and anti-inflammatory activity at
-low concentrations.
-
-## Ecological Role
-
-In its native Andean habitat, wild tomato relatives occupy disturbed sites,
-dry riverbeds, and coastal fog oases as early-successional colonizers.
-
-The glandular trichomes on leaves and stems produce volatile terpenes and
-acyl sugars that deter herbivorous arthropods including whiteflies and spider
-mites.
-
-Tomato is a moderate nitrogen consumer and benefits from [[comparison-crop-rotation-vs-cover-cropping]] with
-legumes to maintain soil fertility and break pathogen cycles.
-
-As a companion plant, tomatoes are reported to repel certain pests when
-intercropped with basil, marigold, or borage in organic systems.
-
-The species is a key model organism in plant genetics and molecular biology,
-with the genome sequenced in 2012 and numerous mutant collections available.
-## See Also
-
-- [[solanum-melongena]]
-- [[capsicum-chinense]]
-- [[physalis-peruviana]]
-- [[datura-stramonium]]
-- [[brugmansia-suaveolens]]

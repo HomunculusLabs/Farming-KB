@@ -87,34 +87,3 @@ There is an urgent need for ethnobotanical documentation of remaining gasteromyc
 
 ### Comparative Perspective: Gasteromycete Mycolatry Worldwide
 The veneration of gasteromycetes is not unique to Mesoamerica. Several cultures worldwide have attributed sacred or symbolic significance to puffballs and related fungi:
-
-- **European traditions**: In medieval Europe, puffballs were associated with fairies and supernatural beings. Fairy rings (both of puffballs and of agarics like [[marasmius-oreades]]) were considered portals to the fairy realm, and disturbing them was believed to bring bad luck. The spore release of puffballs — a dramatic cloud of fine dust — was interpreted as supernatural activity.
-
-- **Asian traditions**: In China and Japan, certain puffball species have been used in traditional medicine for centuries. The Chinese pharmacopeia mentions puffballs (Ma Bo) as a treatment for sore throat and hemorrhage, reflecting the same wound-healing applications documented in the Americas.
-
-- **African traditions**: Some African cultures associate puffballs with ancestral spirits, particularly in regions where puffballs emerge from termite mounds or anthills — structures that are themselves associated with the underworld and the dead in many African cosmologies.
-
-The cross-cultural pattern of gasteromycete veneration — from Mesoamerica to Europe, Asia, and Africa — suggests that the unusual morphology and life cycle of these fungi naturally elicit spiritual and symbolic responses in human societies. The sudden appearance of fairy rings, the dramatic spore release, the round shape evoking celestial bodies and skulls, and the association with death and decay all contribute to a natural basis for mycolatry (mushroom worship) that transcends cultural boundaries.
-
-## Modern Research Directions
-
-### Chemical Investigation
-Modern analytical techniques including LC-MS/MS and GC-MS have enabled more thorough investigation of gasteromycete chemistry than was possible in earlier eras. However, relatively few species have been subjected to comprehensive chemical profiling, and the traditional ceremonial species used by Mixtec and other indigenous peoples remain particularly understudied.
-
-### Ethnopharmacological Studies
-New ethnopharmacological research combining chemical analysis with ethnobotanical documentation offers the best prospect for understanding the traditional uses of gasteromycetes. Such studies should be conducted in collaboration with indigenous communities and should respect traditional knowledge protocols, including intellectual property rights and the principle of prior informed consent.
-
-### Spore Biology
-The spores of gasteromycetes have unique physical and chemical properties that are of interest beyond their traditional uses. Puffball spores are among the most efficient natural particulate systems known, with applications in materials science, pharmaceuticals, and environmental remediation. Understanding the traditional knowledge surrounding these spores may contribute to their modern applications.
-
-## References
-
-- Guzmán, G. (1959). Sinopsis de los conocimientos sobre los hongos alucinantes de Mexico.
-- Guzmán, G. (1997). Diversity and distribution of the genus Psilocybe in the world.
-- Guzmán, G., Allen, J.W., & Gartz, J. (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto, 14, 189-280.
-- Wasson, R.G. (1980). The Wondrous Mushroom: Mycolatry in Mesoamerica.
-- Schultes, R.E. & Hofmann, A. (1979). Plants of the Gods: Origins of Hallucinogenic Use.
-- Lowy, B. (1971). New records of Gasteromycetes from Mexico. Mycologia, 63(5), 986-991.
-- Heim, R. (1967). Nouvelles investigations sur les champignons hallucinogènes.
-- Ott, J. (1993). Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History.
-- Deacon, J.W. (2006). Fungal Biology. Blackwell Publishing.

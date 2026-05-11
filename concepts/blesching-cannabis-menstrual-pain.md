@@ -37,7 +37,7 @@ anti-inflammatory drugs (NSAIDs) such as ibuprofen or Aleve.
 From [[uwe-blesching]]'s [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI):
 
 - Number of Studies Reviewed: 1
-- CHI Value: 3
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 3
 
 ## Cannabis and Menstrual Pain
 
@@ -63,7 +63,7 @@ dysmenorrhea (painful menses) and to diminish uterine pain in general.
 
 ## Complementary Approaches
 
-Fennel extract was found to be a more potent pain relief agent than mefenamic
+Fennel extract was found to be a more potent [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] agent than mefenamic
 acid (such as Ponstel) in primary dysmenorrhea of high-school girls whose age
 averaged thirteen. In fact, it proved so effective that 80% of the fennel
 group no longer needed to rest in order to cope with the aches and pain.
@@ -88,19 +88,3 @@ report similar stories of "not being heard by my doctor" and "feeling
 disrespected" or "belittled" by health care providers when searching for
 relief from menstrual pain. These stories reveal an underlying theme of power
 and powerlessness.
-
-This theme is further confirmed by women who empowered themselves through
-their own research or by joining other women with the same problems in their
-search for solutions to menstrual pain. These women discovered the importance
-of listening to subtle and not so subtle changes in their bodies.
-
-Aggravating factors may include dehydration, unhealthy food choices, and
-denial or judgments of feminine energy. Consider drinking more water about
-seven days before the start of menstruation, limiting unhealthy foods, and
-embracing and cherishing the feminine in yourself.
-
-## Related Topics
-
-- [[cannabis-chronic-pain-management]]
-- [[cannabis-and-fibromyalgia]]
-- [[blesching-cannabinoid-pharmacology]]

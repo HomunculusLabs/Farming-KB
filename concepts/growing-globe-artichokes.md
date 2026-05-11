@@ -87,36 +87,3 @@ Avoid planting artichokes near root vegetables (carrots, potatoes) that compete 
 Globe artichokes have been cultivated for over 2,500 years. They originated in the Mediterranean region, likely from the wild cardoon (*Cynara cardunculus*) of North Africa and southern Europe. The ancient Greeks and Romans valued artichokes both as food and medicine, with Dioscorides recommending them for liver and digestive ailments. Catherine de' Medici is credited with introducing artichokes to France in the 16th century, where they became a fashionable delicacy among the aristocracy.
 
 The artichoke's reputation as a luxury vegetable persisted into the modern era. California produces virtually all of the United States commercial artichoke crop, centered around Castroville, which proclaims itself the "Artichoke Center of the World." Italy, Spain, and France are the major European producers. The vegetable's relatively high labor requirements and specific climate needs limit commercial production to areas with mild, foggy summers and frost-free or lightly frosty winters.
-
-## Common Varieties
-
-Several named varieties are available to home gardeners and market growers:
-- **Green Globe:** The standard variety, reliable in zones 7-10. Produces 3-5 primary buds per plant. Good flavor, moderate spine development on outer bracts.
-- **Imperial Star:** Bred specifically for annual production. Reaches harvest in 85-90 days from transplant. Reliable bud production without vernalization in most climates, though cold treatment improves yield.
-- **Purple of Romagna:** Italian heirloom with purple-tinged buds. Considered among the most flavorful artichokes. Tolerant of slightly heavier soils than Green Globe.
-- **Violetto:** Another Italian variety with striking purple buds and excellent flavor. Smaller buds than Green Globe but more tender.
-- **Big Heart:** Thornless variety with large, rounded buds. Good for gardeners who find bract spines objectionable. Perennial in zones 7-11.
-
-## The Soil-Fussy Plant Category
-
-Solomon groups globe artichoke with other species that express their soil intolerance through pest and disease susceptibility:
-
-- Globe artichoke (intolerant of clay)
-- Celery (needs deep sandy loam)
-- Celeriac (needs deep sandy loam)
-- Melons (need loose, warm soil)
-- Cauliflower (needs loose, well-drained soil)
-
-The opposite problem exists with Brussels sprouts, which dislike light soils. In loose ground, the sprouts tend to blow up and be loose rather than firm, and the tall plants fall over.
-
-## Related Concepts
-
-- [[building-soil-fertility-long-term]]
-- permaculture-climate-zones-and-strategies
-
-Sources: Steve Solomon, *Gardening When It Counts*
-- [[transplanting-techniques-low-input]]
-- permaculture-cold-climate-strategies
-- [[cynara-cardunculus]]
-- [[steve-solomon]]
-- [[companion-planting]]

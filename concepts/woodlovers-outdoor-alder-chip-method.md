@@ -10,7 +10,7 @@ sources:
 ---
 # Woodlovers Outdoor Alder Chip Method
 
-Alder (Alnus spp.) is one of the premier wood substrates for outdoor cultivation of wood-loving Psilocybe species. In its native Pacific Northwest range, alder is the dominant hardwood associated with natural P. cyanescens fruitings, and it performs well for P. azurescens cultivation too.
+Alder (Alnus spp.) is one of the premier [[fungal-succession-wood-substrates]] for outdoor cultivation of wood-loving Psilocybe species. In its native [[psilocybin-north-america-pacific-northwest]] range, alder is the dominant hardwood associated with natural P. cyanescens fruitings, and it performs well for P. azurescens cultivation too.
 
 ## Why Alder
 
@@ -18,9 +18,9 @@ Alder offers several advantages as a cultivation substrate:
 
 - **Native association**: P. cyanescens is most commonly found on decaying alder chips in the Pacific Northwest; this is its natural substrate
 - **Nitrogen-fixing tree**: Alder roots host nitrogen-fixing actinomycetes (Frankia spp.), resulting in wood with relatively higher nitrogen content than many other hardwoods
-- **Soft hardwood**: Alder is a softer hardwood that decomposes relatively quickly, making it readily colonized by mushroom mycelium
-- **Widely available**: Common in riparian zones across temperate regions; often available as arborist waste or municipal mulch
-- **Moisture retention**: Alder chips hold moisture well while maintaining adequate air exchange
+- **Soft hardwood**: Alder is a softer hardwood that decomposes relatively quickly, making it readily colonized by [[antimicrobial-compounds-mushroom-mycelium]]
+- **Widely available**: Common in riparian zones across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]; often available as arborist waste or municipal mulch
+- **Moisture retention**: Alder chips hold moisture well while maintaining adequate [[growing-gourmet-growing-room-ventilation-air-exchange]]
 
 ## Alder vs. Other Hardwoods
 
@@ -57,7 +57,7 @@ For spawn bags, adding a nitrogen supplement accelerates colonization:
 - Load soaked (and optionally supplemented) chips into autoclavable bags or jars
 - **Jars**: Sterilize at 121C for 1+ hours
 - **Bags**: Sterilize at 121C for 3 full hours
-- The longer bag sterilization is necessary due to the greater thermal mass and less uniform heat penetration
+- The longer bag sterilization is necessary due to the greater [[comparison-windbreak-vs-thermal-mass]] and less uniform heat penetration
 
 ### Inoculation and Incubation
 1. Inoculate cooled bags/jars with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] or agar wedges
@@ -87,17 +87,3 @@ For spawn bags, adding a nitrogen supplement accelerates colonization:
 - Alder decomposes faster than beech or oak, meaning beds may need topping up with fresh chips sooner
 - The faster decomposition rate also means potentially faster colonization and earlier fruiting
 - In regions where alder is native, using locally sourced alder may introduce beneficial native microorganisms that support the mycelium
-
-## Cross-Species Compatibility
-
-Alder chips work well for all major woodlovers:
-- **P. azurescens**: Listed as suitable in the azurescens cultivation guide
-- **P. cyanescens**: Natural substrate; optimal choice
-- **P. subaeruginosa**: Performed well on alder in Australian/New Zealand cultivation
-- **P. cyanofibrillosa**: Native to PNW alder habitats
-
-## See Also
-
-- [[azurescens-spawn-preparation-grain-to-wood]] — [[growing-gourmet-sawdust-spawn-production-use]] methods
-- [[mushroom-substrates]] — broader substrate options
-- [[outdoor-wood-lover-cultivation]] — complete outdoor cultivation guide

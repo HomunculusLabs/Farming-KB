@@ -88,33 +88,3 @@ Vermiculite filter cans are single-use. Once exposed to the colonisation environ
 
 | Method | Cost | Effectiveness | Reusability | Complexity |
 |--------|------|-------------|-------------|------------|
-| Vermiculite filter can | Very low | Good | Single-use | Low |
-| Polyfill stuffed hole | Very low | Moderate | Single-use | Very low |
-| Micropore tape | Low | Good | Single-use | Very low |
-| Commercial filter bag | Moderate | Excellent | Single-use | None |
-| HEPA filter port | High | Excellent | Reusable | High |
-
-## Common Problems and Solutions
-
-- **No mycelial growth**: Filter may be packed too tightly, preventing gas exchange. Repack with looser vermiculite.
-- **Contamination at filter site**: End barriers are compromised. Replace barrier material and ensure airtight seal around the can.
-- **Slow colonisation**: Filter may be undersized for the substrate volume. Add a second filter can.
-- **Vermiculite falling out**: End barriers are not secure. Use rubber bands or tape to firmly attach barriers.
-
-## Assembly Best Practices
-
-Clean assembly is critical. The filter can and all components should be wiped with 70% isopropyl alcohol before assembly. Work in a still-air environment—a recently cleaned bathroom with the door closed and fan off is often the cleanest room in a typical home. Minimise the time the filter can is open during assembly. Pre-measure vermiculite and barriers before starting. Tape all seams securely and inspect for gaps before inserting the filter into the grow bag.
-
-## See Also
-
-- boil a bag mushroom cultivation method overview — the complete technique
-- [[jarrold-straw-substrate-preparation-marmite-supplementation]] — substrate preparation
-- mushroom substrate pasteurisation vs sterilisation — heat treatment methods
-- mushroom fruiting chamber fresh air exchange requirements
-- mushroom colonisation stalling causes and solutions
-- still air box construction for mushroom inoculation
-
----
-
-*Last updated: 2026-05-10 via automated mining from Jarrold mushroom guide*
-*Mined by automated cron job — wiki entity mining workflow*

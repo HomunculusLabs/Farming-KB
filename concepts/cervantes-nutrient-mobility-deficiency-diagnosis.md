@@ -1,10 +1,11 @@
 ---
-title: "Cervantes - cervantes nutrient mobility deficiency diagnosis and Deficiency Diagnosis"
+title: [[cervantes-nutrient-burn-over-fertilization]] Mobility [[plant-nutrient-deficiency-diagnosis]]
 created: 2026-04-26
 tags: [cannabis, nutrients, deficiency, mobility, diagnosis]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -28,7 +29,7 @@ Mobile nutrients are able to translocate, or move, from
 one portion of the plant to another as needed. When a
 deficiency occurs, the plant relocates these nutrients
 from older tissue to support new growth. Because of this
-redistribution, deficiency symptoms of mobile nutrients
+redistribution, [[knf-calcium-deficiency-symptoms]] of mobile nutrients
 appear first on the **older, lower leaves**.
 
 The mobile nutrients are:
@@ -48,7 +49,7 @@ The mobile nutrients are:
 
 - **Potassium (K):** Deficiency causes older leaf
   edges and tips to brown and curl. Interveinal
-  chlorosis, weak stems, and slow growth follow.
+  chlorosis, weak stems, and [[holmgren-long-rotation-forestry-slow-growth]] follow.
 
 - **Magnesium (Mg):** Deficiency shows as interveinal
   chlorosis on older leaves, with veins remaining
@@ -63,7 +64,7 @@ The mobile nutrients are:
 
 Immobile nutrients do not translocate to new growing
 areas as needed. Once deposited in older leaves, they
-remain in place. This is why deficiency symptoms of
+remain in place. This is why [[knf-phosphoric-acid-deficiency-symptoms]] of
 immobile nutrients appear first on the **upper, new
 leaves** at the top of the plant.
 
@@ -87,16 +88,3 @@ The immobile nutrients are:
   deficiency but with less contrast.
 - **Molybdenum (Mo):** Deficiency resembles nitrogen
   deficiency, causing middle-aged leaves to yellow.
-- **Silicon (Si):** Not essential but beneficial for
-  stronger cell walls and [[cannabis-disease-pest-resistance-breeding-clarke]].
-- **Sulfur (S):** Deficiency causes uniform yellowing
-  of new growth, unlike nitrogen which yellows older
-  leaves first.
-
-See also: [[cervantes-secondary-nutrient-deficiency]]
-See also: [[cervantes-troubleshooting-guide]]
-See also: [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-
-## See Also
-
-- [[plant-nutrient-deficiency-diagnosis]]

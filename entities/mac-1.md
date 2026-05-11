@@ -1,5 +1,5 @@
 ---
-title: "MAC 1 (Miracle Alien Cookies 1)"
+title: Mac 1
 created: 2026-04-28
 type: strain
 tags:
@@ -35,7 +35,7 @@ sources:
 
 ## Appearance
 
-MAC flowers are visually distinctive with among the highest resin production in commercial circulation. Buds
+MAC flowers are visually distinctive with among the highest [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] commercial circulation. Buds
 are medium-to-large with tapered, slightly elongated structure reflecting sativa influence. Coloration is
 striking: bright lime-to-chartreuse green with occasional deep purple patches, covered in opaque white
 trichomes often giving a nearly white or silver appearance. **Pistils** are abundant, long, and vivid
@@ -79,7 +79,7 @@ users maintain mental clarity and functional capacity while experiencing signifi
 physical relaxation.
 
 **Onset (0–10 minutes):** Rapid cerebral onset with immediate euphoric pressure behind the eyes and
-forehead, accompanied by mood elevation and enhanced sensory perception. Creative thought processes are
+forehead, accompanied by mood elevation and enhanced [[plant-sensory-perception]]. Creative thought processes are
 enhanced without the racing quality sometimes associated with sativa-dominant strains.
 
 **Peak (15–45 minutes):** Physical effects develop as warm, soothing body sensation that relaxes muscles
@@ -88,50 +88,3 @@ Many users report enhanced ability to engage in creative work, social activities
 
 **Duration (2–3 hours):** Effects taper gradually with smooth comedown. Some residual relaxation persists
 but doesn't interfere with normal activities. Mental clarity returns fully within 3–4 hours.
-
-## Medical Applications
-
-- **Depression:** The rapid euphoric onset and sustained mood elevation make MAC a popular choice for
-  treatment-resistant depression and anhedonia
-- **ADHD:** Enhanced focus and creative engagement reported by many users, though clinical evidence is
-  limited and individual responses vary significantly
-- **[[cannabis-chronic-fatigue-research]]:** Uplifting, energizing cerebral effects without jitters or anxiety make MAC
-  suitable for daytime fatigue management
-- **Pain:** Moderate analgesic effects, particularly for tension headaches, migraines, and mild
-  musculoskeletal pain; the anti-inflammatory caryophyllene contribution is additive
-- **Anxiety:** The balanced profile avoids the anxiety-provoking peaks sometimes associated with pure
-  sativas; however, high-THC phenotypes may exacerbate anxiety in sensitive individuals
-
-## Side Effects
-
-- **Dry mouth and dry eyes** (very common, dose-dependent)
-- **Mild anxiety or paranoia** (possible at high doses or in anxiety-prone individuals, though less
-  frequent than with sativa-dominant strains due to the myrcene content)
-- **Dizziness** (uncommon, typically with excessive consumption)
-- **Increased heart rate** (transient, typical of THC; more noticeable with high-THC phenotypes)
-- **Cognitive impairment** (dose-dependent; high doses impair reaction time and memory despite "lucid" reputation)
-
-## Cultivation
-
-MAC 1 is moderately challenging, rewarding attentive growers with exceptional quality.
-
-- **Flowering time:** 9–10 weeks indoors; early to mid-October outdoor harvest
-- **Yield:** Moderate-to-high, ~350–450 g/m² indoor; 400–550 g/plant outdoor
-- **Indoor notes:** Responds well to training; requires [[stamets-growing-room-air-circulation-co2-management]] to prevent bud rot at >55% RH
-- **Temperature:** Prefers 22–28°C; tolerates warmth due to Colombian genetics; nights of 16–18°C
-  enhance trichome production and terpene expression
-- **Nutrient requirements:** Heavy feeder weeks 3–7; benefits from cal-mag supplementation; reduce N in final 2 weeks
-- **Extraction suitability:** Among the best for ice-water hash, dry sift, and rosin due to extraordinary
-  trichome density; hash yields consistently top-tier
-- **Difficulty:** Intermediate to advanced
-
-## Notable Crosses and Derivatives
-
-- **Runtz** (MAC × Zkittlez): Most commercially successful MAC cross, combining resin production with candy terpenes
-- **MAC Stomper** (MAC × Grape Stomper): Amplifies purple coloration and grape-forward aromatics
-- **Miracle 15** (MAC × Alien Rift): Heavy indica cross with intensified sedation
-- **Cap's Cut:** Breeder's reserve phenotype, most potent expression of the MAC lineage
-## See Also
-- [[chemdawg]]
-- [[girl-scout-cookies]]
-- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

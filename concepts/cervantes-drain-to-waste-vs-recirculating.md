@@ -6,26 +6,27 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Drain-to-Waste vs Recirculating Hydroponic Systems
 
-Hydroponic cannabis systems are broadly categorized by how they
-handle [[cannabis-nutrient-solution-preparation]] after it passes through the growing medium.
-Jorge Cervantes describes both drain-to-waste (also called run-to-
+[[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] systems are broadly categorized by how they
+handle [[cannabis-nutrient-solution-preparation]] after it passes through the [[cervantes-green-algae-growing-medium]].
+[[jorge-cervantes]] describes both drain-to-waste (also called run-to-
 waste) and recirculating approaches, each with distinct advantages
 and maintenance requirements that affect [[green-cannabis-grow-bible-nutrient-management-ppm]], disease
 risk, and operational complexity.
 
 ## Recirculating Systems
 
-In recirculating systems, nutrient solution that drains from the
+In recirculating systems, [[cervantes-ec-tds-nutrient-solution-strength]] that drains from the
 growing medium is collected and returned to the central reservoir
 for reuse. The solution is pumped from the reservoir, delivered to
 plants, and the runoff drains back to be pumped again. Most of the
 hydroponic systems Cervantes describes -- including deep water
-culture, nutrient film technique, ebb and flow, and many top-feed
+culture, [[nutrient-film-technique]], ebb and flow, and many top-feed
 configurations -- are inherently recirculating.
 
 ### Advantages of Recirculating Systems
@@ -70,7 +71,7 @@ growers commonly use run-to-waste systems.
 
 - No pathogen recirculation: diseases cannot spread from one plant
   to another through the nutrient solution
-- Simpler nutrient management: fresh solution is mixed for each
+- Simpler [[cannabis-nutrient-management]]: fresh solution is mixed for each
   irrigation cycle, eliminating pH and EC drift concerns
 - Cleaner root zone environment with less [[cervantes-salt-buildup-leaching-management]]
 - Easier to isolate and treat individual plants with problems
@@ -87,45 +88,3 @@ growers commonly use run-to-waste systems.
 - Environmental considerations for nutrient-rich wastewater
 
 ### Drain-to-Waste Best Practices
-
-- Always allow at least ten percent, preferably more, of the
-  applied solution to drain from the bottom of containers to prevent
-  salt accumulation
-- Monitor runoff EC to ensure the solution applied is appropriate
-  for the plant's current uptake rate
-- Use emitters and spaghetti tubing for precise, repeatable dosing
-- Maintain consistent irrigation schedules to avoid fluctuations
-  in root zone moisture
-
-## Choosing Between Systems
-
-Cervantes does not explicitly recommend one approach over the other,
-but provides guidance based on context. Recirculating systems are
-more water-efficient but demand vigilant monitoring. Drain-to-waste
-systems offer cleaner root zones and disease isolation at higher
-operating cost. Commercial operations often favor drain-to-waste for
-reliability and [[cervantes-pest-disease-prevention-overview]]. Home growers may prefer
-recirculating systems for simplicity and lower resource consumption.
-
-The choice also depends on the growing medium used. Rockwool and
-coco slabs work well in both configurations but are particularly
-suited to drain-to-waste because their fiber structure retains
-moisture between irrigations. Expanded clay and other free-draining
-media may require more frequent irrigation in drain-to-waste setups
-to prevent drying between cycles.
-
-## Irrigation Frequency Considerations
-
-Regardless of system type, irrigation frequency must match the
-plant's water uptake rate. In recirculating systems, timers control
-flood/drain or drip cycles. In drain-to-waste systems, timers or
-solenoid valves meter out precise doses. Cervantes recommends
-monitoring runoff volume and EC to fine-tune irrigation schedules.
-Allowing 10-20 percent runoff ensures adequate flushing of
-accumulated salts from the root zone.
-
-## See Also
-
-- [[cervantes-hydroponic-systems]] - overview of all system types
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water-based [[mushroom-growing-methods-comparison]]
-- [[cervantes-ph-management-testing]] - pH and EC monitoring

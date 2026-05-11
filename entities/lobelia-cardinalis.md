@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Bowden, W.M. (1959). "Phylogenetic relationships and taxonomy of *Lobelia* cardinalis and *L. splendens*." Canadian Journal of Genetics and Cytology 1(1): 49–62.
-  - Gleason, H.A. & Cronquist, A. (1991). *Manual of Vascular Plants of Northeastern United States and Adjacent Canada*, 2nd ed. New York Botanical Garden.
-  - Molano-Flores, B. (2001). "Reproductive biology of *Lobelia cardinalis*." In: Proceedings of the 17th growing-gourmet-north-american-reishi-species Prairie Conference.
+  - Gleason, H.A. & Cronquist, A. (1991). *Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada*, 2nd ed. New York Botanical Garden.
+  - Molano-Flores, B. (2001). "[[clarke-marijuana-botany-sex-determination-reproductive-biology]] of *Lobelia cardinalis*." In: Proceedings of the 17th growing-gourmet-north-american-reishi-species Prairie Conference.
   - Sutherland, S. (2004). "High rates of outcrossing in *Lobelia cardinalis*." International Journal of Plant Sciences 165(4): 705–710.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 **Lobelia cardinalis**, the cardinal flower, is a perennial herbaceous plant native to the Americas, renowned for its brilliant scarlet-red flower spikes. It is among the most striking native wildflowers of [[polypore-fungi-eastern-north-america]] America and a favorite of hummingbirds and gardeners alike.
 
-The species was introduced to European cultivation in the 1620s and was named for the red vestments of Catholic cardinals. It has since become one of the most widely grown native perennials in North American gardens.
+The species was introduced to European cultivation in the 1620s and was named for the red vestments of Catholic cardinals. It has since become one of the most widely grown native perennials in [[growing-gourmet-north-american-reishi-species]] gardens.
 
 The Royal Horticultural Society has awarded *L. cardinalis* the Award of Garden Merit. It has been in continuous cultivation in Europe for over 400 years, making it one of the oldest North American native plants in the horticultural trade.
 
@@ -35,7 +35,7 @@ The inflorescence is a terminal raceme 15–30 cm long bearing 10–30 flowers. 
 
 The calyx is five-lobed with a narrow tube. Five stamens are fused into a tube surrounding the style, which protrudes beyond the anthers. The stigma is bifid and recurved.
 
-Fruit is a many-seeded capsule 8–12 mm long. Seeds are numerous, tiny (less than 1 mm), oblong, and light brown. Seed production per plant ranges from 5,000 to 100,000 seeds depending on plant vigor.
+Fruit is a many-seeded capsule 8–12 mm long. Seeds are numerous, tiny (less than 1 mm), oblong, and light brown. [[cannabis-controlled-pollination-seed-production]] per plant ranges from 5,000 to 100,000 seeds depending on plant vigor.
 
 Seeds lack endosperm and require light for germination. They remain viable in the soil seed bank for approximately 3 years. Optimal germination occurs on moist, bare mineral soil at temperatures of 18–22°C.
 
@@ -45,7 +45,7 @@ The species exhibits significant morphological [[psilocybin-psilocin-variation-a
 
 ## Distribution and Habitat
 
-*L. cardinalis* ranges from New Brunswick and Quebec south to Florida and Texas, and west through the Great Plains to Arizona and New Mexico. Disjunct populations occur in California and throughout Central America into northern Colombia.
+*L. cardinalis* ranges from New Brunswick and Quebec south to Florida and Texas, and west through the Great Plains to Arizona and New Mexico. Disjunct populations occur in California and throughout [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] into northern Colombia.
 
 The species inhabits wet meadows, stream banks, marsh edges, roadside ditches, and woodland seeps. It requires consistently moist to saturated soils and tolerates shallow flooding.
 
@@ -79,7 +79,7 @@ The pungent alkaloid lobeline, concentrated in the foliage and roots, provides c
 
 The Cherokee used a root tea to treat stomach cramps and intestinal worms. The Penobscot combined cardinal flower leaves with other herbs in a tea for colds and coughs. The plant was listed in the U.S. Pharmacopoeia from 1820 to 1880.
 
-Lobeline, the primary alkaloid, was once investigated as a smoking cessation aid due to its nicotinic receptor activity. However, clinical trials showed limited efficacy and it was largely abandoned for this purpose by the late 20th century.
+Lobeline, the primary alkaloid, was once investigated as a smoking cessation aid due to its nicotinic receptor activity. However, [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] showed limited efficacy and it was largely abandoned for this purpose by the late 20th century.
 
 In cultivation, *L. cardinalis* prefers rich, organic soils with consistent moisture. It performs best in full sun in northern gardens and partial shade in the South. It is hardy in USDA zones 3–9.
 
@@ -88,32 +88,3 @@ The species is relatively short-lived as a perennial, typically persisting 3–5
 Several cultivars are available, including 'Queen Victoria' (deep red with dark foliage) and 'Alba' (white-flowered). These selections maintain the species' ornamental appeal while offering color variations.
 
 Deadheading spent flower spikes can extend the bloom period by 2–4 weeks. Cutting plants back to the basal rosette after flowering often promotes a second, smaller flush of blooms in early autumn.
-
-In rain gardens and bioswales, *L. cardinalis* provides both ornamental value and stormwater management benefits. Its tolerance of periodic flooding and nutrient uptake capacity make it a popular choice for [[comparison-constructed-wetland-vs-backyard-pond]] systems.
-
-## Conservation
-
-*L. cardinalis* is widespread and generally secure throughout most of its range. It is listed as endangered in New York state and of special concern in several New England states, primarily due to habitat loss.
-
-Wetland drainage, stream channelization, and urban development have eliminated many historic populations. The species is sensitive to changes in hydrology and may decline rapidly when water tables drop.
-
-Climate change poses a long-term threat by altering precipitation patterns and increasing the frequency and severity of droughts. Populations in the southwestern mountains may be particularly vulnerable to warming temperatures.
-
-Phenological monitoring suggests that flowering onset has advanced by 1–2 weeks over the past 50 years in some regions, potentially creating a mismatch with hummingbird migration timing.
-
-The species is protected in several states and is included in wetland mitigation planting protocols. Nursery-propagated plants are widely available, reducing pressure on wild collection.
-
-Invasive purple loosestrife (*Lythrum salicaria*) poses a competitive threat in some wetland habitats. The two species occupy similar ecological niches, and loosestrife can displace cardinal flower populations through rapid colonization and dense growth.
-
-## See Also
-
-- [[lobelia-inflata]]
-- [[monarda-didyma]]
-- [[eupatorium-perfoliatum]]
-- [[eupatorium-purpureum]]
-- [[solidago-odora]]
-- [[sambucus-canadensis]]
-- [[hypericum-perforatum]]
-- [[pontederia-cordata]]
-- [[solidago-speciosa]]
-- [[rudbeckia-laciniata]]

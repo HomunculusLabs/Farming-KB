@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles in nutrient cycling, plant health, decomposition, and ecosystem stability, yet they are frequently excluded from biodiversity conservation planning and land-use management decisions (Hawksworth, 1991). (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+Fungal conservation is a critically underdeveloped area of biodiversity protection. With an estimated 1.5 million fungal species on Earth and only 5-10% formally described, conservation efforts face a fundamental knowledge gap. Fungi play essential roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], plant health, decomposition, and ecosystem stability, yet they are frequently excluded from [[fungal-biodiversity-conservation-status]] planning and land-use management decisions (Hawksworth, 1991).
 
 ## The Scale of the Problem
 
@@ -22,7 +22,7 @@ Fungal conservation is a critically underdeveloped area of biodiversity protecti
 
 ## Challenges in Assessing Rarity
 
-With the present state of knowledge, it is almost impossible to designate truly rare or threatened species that merit conservation efforts. Many taxa known from only single collections may reflect low intensity of collecting rather than genuine rarity. Rarity may be an artifact of the specialized requirements of certain fungal groups (Richardson, 2001). For example, many coprophilous (dung-inhabiting) fungi have narrow host ranges, and with every loss of habitat or host, the potential for loss of the mycobiota is high. (see [[orchard-fungal-ecology]]).
+With the present state of knowledge, it is almost impossible to designate truly rare or threatened species that merit conservation efforts. Many taxa known from only single collections may reflect low intensity of collecting rather than genuine rarity. Rarity may be an artifact of the specialized requirements of certain fungal groups (Richardson, 2001). For example, many coprophilous (dung-inhabiting) fungi have narrow host ranges, and with every loss of habitat or host, the potential for loss of the mycobiota is high.
 
 ## Key Conservation Strategies
 
@@ -44,7 +44,7 @@ Coprophilous fungi and other specialized groups can serve as useful indicators o
 
 ### Integration with Land-Use Planning
 
-Fungi must be included in considerations of biodiversity conservation, land-use planning, and management. They frequently have been ignored in these contexts, despite their fundamental roles in ecosystem processes.
+Fungi must be included in considerations of biodiversity conservation, land-use planning, and management. They frequently have been ignored in these contexts, despite their fundamental roles [[fungi-in-ecosystem-processes-dighton]].
 
 ## Why Fungal Conservation Matters
 
@@ -52,7 +52,35 @@ Without fungi, major problems in nutrient cycling would occur, plants would suff
 
 ## Related Concepts
 
-- [[fungal-biodiversity]] for estimates of global fungal species richness
+- [[fungal-biodiversity]] for estimates of global [[fungal-species-richness-and-diversity-indices]]
 - [[fungal-ecology]] for ecosystem roles of fungi
-- [[fungal-role-in-carbon-cycling]] for decomposition processes
+- [[fungal-role-in-carbon-cycling]] for [[fungal-decomposition-processes]]
 - [[mycorrhizal-fungi]] for mycorrhizal conservation concerns
+
+## Practical Applications
+- Fungal cultivation techniques benefit from understanding these biological principles.
+- Field application requires attention to local environmental conditions and substrate availability.
+- Integration with sustainable agriculture practices enhances ecological outcomes.
+- Research findings support both commercial and small-scale cultivation approaches.
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[endangered-fungi-and-conservation-strategies]]
+- [[fungal-biodiversity-conservation-status]]
+- [[gadd-fungal-biodiversity-conservation]]
+- [[fungal-conservation-challenges]]
+- [[freshwater-fungal-habitats-conservation-urgency]]

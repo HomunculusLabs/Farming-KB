@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Networks and Forest Communication
+title: Mycorrhizal Networks And Forest Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-[[common-mycorrhizal-networks]] (CMNs), sometimes called "wood wide webs," a [[underground-fungal-networks]] rks that connect individu [[plants-and-electromagnetism]] and trees, enabling resource sharing, chemical signaling, a [[transcendent-other-and-plant-human-information-transfer]] fer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
+[[common-mycorrhizal-networks]] (CMNs), sometimes called "wood wide webs," are [[underground-fungal-networks]] that connect individual plants and trees, enabling resource sharing, chemical signaling, and [[transcendent-other-and-plant-human-information-transfer]] between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
 
-[[fukuoka-four-types-of-diet]] [[mycorrhizal-networks]] rks
+## Types of Mycorrhizal Networks
 
-[[arbuscular-mycorrhizal-networks]] orks
+### Arbuscular Mycorrhizal Networks
 - Formed by Glomeromycota fungi
 - Associate with most herbaceous plants and tropical trees
 - Hyphal connections are relatively short-range (cm scale)
@@ -56,7 +56,7 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ### Defense Signaling
 - Plants under insect or pathogen attack send chemical signals through CMNs
 - Neighboring plants receive these signals and activate defense responses
-- Volatile organic compounds and systemic signals transmitted through fungal hyphae
+- [[chamovitz-plant-scent-communication-volatile-organic-compounds]] and systemic signals transmitted through fungal hyphae
 - Documented in: tomato (defense against aphids), bean (defense against Botrytis), ponderosa pine (defense against bark beetles)
 - Primer effect: pre-exposed plants respond faster and stronger to subsequent attacks
 
@@ -141,7 +141,7 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 
 ## Controversies and Open Questions
 
-- The extent and ecological significance of resource transfer through CMNs is debated
+- The extent [[lichen-biology-guide]] of resource transfer through CMNs is debated
 - Some researchers argue that resource movement is small relative to total plant budgets
 - Kin selection through CMNs is supported by some studies but not universally accepted
 - The signaling function of CMNs is well-documented but field significance is debated

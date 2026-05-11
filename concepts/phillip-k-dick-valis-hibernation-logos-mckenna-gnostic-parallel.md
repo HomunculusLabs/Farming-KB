@@ -6,7 +6,7 @@ In his 1981 novel VALIS (Vast Active Living Intelligence System), Phillip K. Dic
 proposed a radical theory of information as a living, dormant entity — a "creature of
 pure information" that could exist in stasis for millennia before being reactivated by
 the act of reading or comprehension. [[terence-mckenna]] drew a direct parallel between
-Dick's concept and the nature of mushroom consciousness and the tryptamine Logos,
+Dick's concept and the nature of [[psilocybin-mushroom-consciousness]] and the [[tryptamine-logos]],
 suggesting that both describe the same phenomenon: an information symbiote that
 hibernates in static form and comes alive when introduced into human consciousness.
 
@@ -42,7 +42,7 @@ consciousness itself
 
 This model parallels McKenna's understanding of mushroom consciousness as
 "the consciousness of the Other in hyperspace, which means in dream and in the
-psilocybin trance, at the quantum foundation of being, in the human future, and
+[[psilocybin]] trance, at the quantum foundation of being, in the human future, and
 after death."
 
 ## Convergence of Gnostic and Psychedelic Cosmology
@@ -88,62 +88,3 @@ remarkable structural resemblance to Gnostic archons, though McKenna's elves are
 generally described as benevolent rather than malevolent. Both classes of entity
 exist in dimensions adjacent to ordinary reality and interact with human
 consciousness through non-linguistic means.
-
-## The Mushroom Consciousness as Information Symbiote
-
-McKenna extended Dick's model by proposing that mushroom consciousness operates
-according to the same principle as Dick's Logos:
-
-1. **Dormancy**: The mushroom exists as a biological organism (mycelium, fruiting
-body, spores) — a material vehicle for information
-2. **Activation**: When ingested by a human being, the psilocybin/psilocin
-molecules interact with the brain's serotonin system, activating latent
-information-processing capabilities
-3. **Transmission**: The activated state allows the transmission of information
-between the mushroom's "consciousness" and the human mind
-4. **Integration**: The human may integrate this information into cultural
-practices, art, philosophy, or technology, thereby propagating the information
-symbiote through human culture
-
-The key insight is that information, when it enters a sufficiently complex
-processing system (like the human brain), becomes "alive" in a functional sense —
-it can self-replicate, evolve, and influence the behavior of its host.
-
-## Temporal Dimensions: Dream, Trance, Future, Death
-
-Both Dick and McKenna converge on the idea that these information dimensions —
-dream, psychedelic trance, the human future, and death — are not separate realms
-but "part of a single continuum." The Logos exists at the quantum foundation of
-being and is accessible through multiple portals:
-
-- **Dream**: The ordinary nightly access point, available to all humans
-- **Psychedelic trance**: The deliberate, intensified access through
-hallucinogenic compounds
-- **The human future**: The attractor at the end of time that "casts an enormous
-shadow over human history"
-- **After death**: The final transition into the translinguistic dimension
-
-## Historical Context: 1947 and the Rediscovery
-
-The year 1947 is significant in multiple ways. The Nag Hammadi texts were
-discovered in 1945 and began circulating among scholars by 1947. Simultaneously,
-the "modern" psychedelic era can be said to have begun with Albert Hofmann's
-discovery of LSD's effects in 1943, with the compound beginning to circulate
-among researchers by the late 1940s. The UFO phenomenon also entered modern
-awareness with the Kenneth Arnold sighting and the Roswell incident in 1947.
-
-McKenna noted that these three developments — the rediscovery of Gnostic texts,
-the emergence of [[controlled-substances-act-and-psychedelic-research]], and the UFO phenomenon — may represent
-the simultaneous reactivation of an information symbiote that had been dormant
-since the suppression of the ancient mystery traditions.
-## See Also
-
-- [[dmt-entity-encounters-and-the-logos]]
-- [[hyperspace-logos-consciousness]]
-- [[mckenna-exteriorization-soul-translinguistic-matter]]
-- [[dmt-self-transforming-machine-elves-mckenna]]
-
-## Sources
-
-- McKenna, T. "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]], 1992
-- Dick, P.K. VALIS. Doubleday, 1981

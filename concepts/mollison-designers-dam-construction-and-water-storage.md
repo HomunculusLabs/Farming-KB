@@ -1,15 +1,16 @@
 ---
-title: comparison-dam-construction-vs-swale-design and Water Storage
+title: Mollison Designers Dam Construction And Water Storage
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - earthworks
   - water-storage
   - dams
-  - appropriate-technology
+  - [[appropriate-technology]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -37,7 +38,7 @@ more permeable than earth dams and may require additional sealing measures.
 small diversion weirs, spillway armoring, and sites with very steep
 topography. Mollison notes that concrete dams are expensive and often
 unnecessary for farm-scale water storage, though small concrete or masonry
-structures serve well as check dams in gully reclamation.
+structures serve well as [[comparison-gabions-vs-check-dams]] in gully reclamation.
 
 ## Site Selection
 
@@ -87,34 +88,3 @@ Proper compaction is the difference between a durable dam and a leaky one:
 - Maintain moisture content at optimal level during compaction (soil should
   hold shape when squeezed but not release water)
 - Key the wall into the foundation trench to prevent seepage under the wall
-- Clay cores or membranes provide additional impermeability where natural
-  soils are marginal
-
-Sealing methods for leaky dams:
-- Bentonite clay blankets applied to the upstream face
-- Plastic or rubber liners (effective but expensive and UV-sensitive)
-- Gleying: flooding the dam with [[hamilton-composting-and-organic-matter-management]] (manure, leaves, straw) and
-  allowing anaerobic bacteria to create an impermeable biological layer
-
-## Maintenance
-
-Ongoing maintenance ensures dam longevity:
-
-- Inspect spillways after every major storm
-- Repair erosion on the upstream face immediately
-- Control woody vegetation on the dam wall (roots create seepage paths)
-- Monitor water levels for unexpected drops indicating leaks
-- Desilt periodically to maintain storage capacity
-
-## Integration
-
-Dams connect to the broader system through gravity-fed water distribution,
-aquaculture, fire control reserves, irrigation, and microclimate moderation.
-In the [[mollison-designers-cold-caves-root-cellar-storage]],
-alexander shulgin, [[keypoint-dam-water-storage-earthworks]]
-
-## See Also
-
-- [[water-tank-selection-and-construction]]
-
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

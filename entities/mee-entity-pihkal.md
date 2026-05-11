@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MEE
 
-PIHKAL entry #121. 4,5-DIETHOXY-2-METHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #121. 4,5-DIETHOXY-2-METHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,27 +88,6 @@ the formation of an intensely hydrated complex of the product phenol,
 reminiscent of the problem encountered with 3-ethoxy-4-methoxyphenol.
 This was worked up in three parts. The entire acidified aqueous phase
 was extracted with Et2O (3x200 mL) which on evaporation gave 80 g of
-an oil. The hydrated glob was separately ground up under boiling
-CH2Cl2 which, on evaporation, gave an additional 30 g of oil, and the
-aqueous mother liquor from the glob was extracted with 2x200 mL CH2Cl2
-which provided, after removal of the solvent, an additional 10 g.
-These crude phenol fractions were combined and distilled at 1.5 mm/Hg.
-Following a sizeable forerun, a fraction boiling at 158-160 deg C was the
-anhydrous product, 3,4-diethoxyphenol. It was a clear, amber oil, and
-weighed 70.0 g. The slightest exposure to H2O, even moist air, give a
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[tma-2-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[ethyl-j-entity-pihkal]]

@@ -3,7 +3,7 @@ title: "Bacteria and Their Role in Soil"
 created: 2026-04-26
 updated: 2026-04-25
 sources: "jeff-lowenfels & wayne-lewis, teaming-with-microbes-actinomycetes"
-wikilinks: "lowenfels-soil-food-web-overview lowenfels-fungi-role-soil lowenfels-protozoa-nematodes lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle"
+wikilinks: "lowenfels-soil-food-web-overview [[lowenfels-fungi-role-soil]] [[lowenfels-protozoa-nematodes]] [[lowenfels-nutrients-soil-chemistry-ph-cec]] [[lowenfels-nutrients-nitrogen-cycle]]"
 type: concept
 tags: [soil]
 ---
@@ -87,25 +87,3 @@ release excess nitrogen as ammonium waste in the rhizosphere. Without bacteria,
 most applied fertilizer would drain through soil to the water table.
 
 ## Disease Suppression
-
-Soil bacteria compete with pathogens for space and nutrients, keeping them in
-check. High bacterial diversity means more nonpathogenic bacteria outcompeting
-pathogenic bacteria. Some bacteria produce broad-spectrum antibiotics (e.g.,
-Pseudomonas produces phenazines to control fungal wheat diseases). Bacterial
-activity also breaks down pollutants and toxins, including oil and gasoline
-spills. A healthy soil food web's natural defenses are the best way to control
-pathogens.
-
-## Cellulose and Lignin Decay
-
-Specialized bacteria like Cellulomonas carry cellulose-breaking enzymes, but
-most bacteria reach their limit with lignin -- the tough brown component of bark
-and woody materials. Lignin consists of chains of interlinked alcohols resistant
-to most bacterial enzymes and is left for fungi to decay. This division of labor
-between bacteria (simple sugars, green material) and fungi (complex compounds,
-brown material) is fundamental to soil food web dynamics.
-
-## See Also
-- [[lowenfels-aerobic-anaerobic-soil-conditions]]
-- [[lowenfels-rhizosphere-bacteria-plant-interaction]]
-- [[savory-soil-organic-matter-and-decomposition-dynamics]]

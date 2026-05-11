@@ -87,14 +87,3 @@ The most severe form of the disease, disseminated histoplasmosis occurs when the
 ### Ocular and Pericardial Complications
 
 Less common manifestations include ocular histoplasmosis syndrome (presumed ocular histoplasmosis), which can cause choroidal neovascularization and vision loss, and pericarditis, which may follow acute pulmonary infection. These complications highlight the diverse tropism of the organism beyond the respiratory and reticuloendothelial systems.
-
-## Laboratory Diagnosis
-
-Accurate diagnosis of histoplasmosis relies on a combination of methods:
-
-- **[[biodiversity-fungal-culture-preservation]]**: The gold standard for definitive diagnosis, though cultures may take 2–4 weeks for growth. Mold-phase colonies are white and cottony, converting to the yeast phase at 37°C on appropriate media. Culture must be performed under BSL-3 containment
-- **Histopathology**: Examination of tissue biopsies reveals small, oval yeast cells (2–4 µm) within macrophages, sometimes with narrow-based budding. Gomori methenamine silver (GMS) and periodic acid-Schiff (PAS) stains highlight the organisms. The intracellular location of the yeast form is a characteristic feature
-- **Antigen detection**: Detection of *Histoplasma* polysaccharide antigen in urine, serum, or bronchoalveolar lavage fluid by enzyme immunoassay (EIA) is the most rapid and sensitive method for diagnosing acute and disseminated disease. Urine antigen detection is particularly useful for monitoring treatment response
-- **Antibody detection**: Complement fixation and immunodiffusion tests detect host antibody responses. These are useful for chronic and subacute forms but may be negative in early acute infection and in immunocompromised patients. A rising titer in paired sera is diagnostic of active infection
-- **[[coccidioides-immitis]] — related Onygenalean pathogen, also biohazard class 3
-- [[fungal-infections-human]]

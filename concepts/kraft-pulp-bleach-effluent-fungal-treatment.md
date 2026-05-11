@@ -87,25 +87,3 @@ cycles of decolorization covering periods of several weeks to months, and can
 be stored at 4 degrees Celsius for up to 4 months while retaining full
 decolorization activity. This storage stability is a valuable property for
 industrial treatment applications requiring rapid deployment capability.
-
-## Process Integration and Economic Considerations
-
-Integration of fungal decolorization with existing pulp mill wastewater
-treatment infrastructure presents both opportunities and challenges. While
-[[singh-biopile-fungal-treatment-contaminated-soil]] can effectively reduce color and toxicity of bleach plant
-effluents, scaling laboratory results to industrial throughput requires careful
-process engineering. Reactor design must accommodate the filamentous growth
-form of white rot fungi, which can cause clogging in conventional reactor
-configurations. Economic analysis must consider the cost of fungal inoculum
-production, nutrient supplementation, and energy inputs relative to conventional
-physicochemical treatment alternatives. Despite these challenges, the growing
-regulatory pressure on effluent color discharge limits continues to drive
-interest in fungal treatment technologies as sustainable alternatives.
-
-## Related
-
-- [[fungal-textile-dye-effluent-decolorization]] for textile effluent
-  comparison
-- [[ligninolytic-enzyme-systems-white-rot-fungi]] for enzyme mechanisms
-- [[fungal-laccase-and-textile-dye-decolorization]] for laccase-specific
-  applications

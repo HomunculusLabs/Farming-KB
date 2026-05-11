@@ -14,25 +14,25 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Jungle Cake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2023). "Jungle Cake Strain Review." AllBud.
-  - Seedsman (2022). "Jungle Cake Feminized Seeds." Seedsman Ltd.
+  - Seedsman (2022). "Jungle Cake [[cannabis-feminized-seeds]]." Seedsman Ltd.
   - Weedmaps (2023). "Jungle Cake Strain." Weedmaps.
 ---
 
 ## Overview
 
-Jungle Cake is a balanced hybrid cannabis strain created by Seed Junky Genetics
+Jungle Cake is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by Seed Junky Genetics
 through the cross of White Fire #43 (also known as WiFi #43) and Wedding Cake.
 It first gained commercial availability around 2019 and has since become a
 sought-after variety among experienced consumers for its potent effects and
-complex terpene profile.
+complex [[cannabis-terpene-profile]].
 
 The strain typically tests between 25–30% THC, placing it among the
-higher-potency modern hybrids. Its reputation centers on a smooth onset that
+higher-potency [[african-landrace-sativa-modern-hybrids]]. Its reputation centers on a smooth onset that
 builds into deeply relaxing body effects paired with an uplifted cerebral state.
 
 ## Lineage
 
-- **Female parent:** Wedding Cake (Triangle Kush × Animal Cookies)
+- **Female parent:** Wedding Cake (Triangle Kush × [[animal-cookies]])
 - **Male parent:** White Fire #43 (Fire OG × White Rhino)
 
 The Wedding Cake lineage contributes dense, resinous bud structure and a
@@ -87,41 +87,4 @@ experience is cerebral — euphoric and slightly focused — before transitionin
 into a deeply relaxing body stone. Most users report a balanced experience
 suitable for late afternoon or evening use.
 
-Common therapeutic applications include stress relief, mild [[cannabis-pain-management-protocols]],
-appetite stimulation, and insomnia. The strain is popular among medical
-cannabis patients dealing with [[cannabis-chronic-pain-management]] and anxiety, though high THC
-content may provoke anxiety in sensitive individuals.
-
-Cultivation difficulty is rated as moderate. Flowering time is 8–9 weeks
-indoors, with yields of 400–500 g/m². The plants respond well to
-low-stress training and produce heavy, resinous colas. Outdoor harvest
-occurs in early to mid-October. The strain is moderately resistant to
-common pests but can be sensitive to high humidity during late flowering.
-
-## Notable Phenotypes
-
-Several notable phenotypes and cuts have circulated among cultivators since
-the strain's release. The most sought-after is the "Jungle Cake #22" cut,
-selected for its exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and fuel-forward aroma.
-
-Cross-breeding derivatives include Jungle Cake × (various Runtz selections),
-producing strains like Jungle Runtz that combine Jungle Cake's potency with
-Runtz's candy-sweet terpene expression. These crosses have become popular
-in the West Coast commercial market.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of high-THC
-varieties. Some users report mild dizziness or paranoia at higher doses,
-particularly those with low THC tolerance. Couch-lock can occur with
-heavy consumption, making the strain less suitable for daytime use.
-
-## See Also
-
-- [[wedding-cake-cannabis]]
-
-- [[girl-scout-cookies]]
-- [[chemdawg]]
-- [[mac-1]]
-- [[kush-mints]]
-- [[gsc-cannabis]]
+Common [[psilocybin-therapeutic-applications]] include stress relief, mild [[cannabis-pain-management-protocols]],

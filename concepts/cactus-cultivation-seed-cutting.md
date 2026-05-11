@@ -99,6 +99,27 @@ If dopamine unavailable, use tyramine + dopa mixture 6 weeks before harvest.
 - The woody core cannot be eaten but can be boiled for tea
 - To dry: slice into 1/2 inch disks (stars), dry in sun or oven at 250F
 
+
+## Practical Considerations
+Implementation requires careful attention to local conditions,
+available resources, and the specific goals of the practitioner.
+Documenting results and adapting approaches based on observed
+outcomes leads to continuous improvement over time.
+
+
+## Integration Strategies
+Combining multiple approaches often yields better results than
+relying on any single technique. Consider how this topic relates
+to broader system design and look for synergies between methods
+that can amplify overall effectiveness.
+
+
+## See Also
+- [[species-specific-fruiting-timelines-grass-seed-cultivation]]
+- [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem]]
+- [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
+- [[fukuoka-seed-ball-one-seed-technique]]
+- [[grass-seed-cultivation-of-psilocybe-mushrooms]]
 ## Related
 
 - [[psychoactive-cacti-guide]] — Full cultivation, grafting, and preparation reference
@@ -106,3 +127,4 @@ If dopamine unavailable, use tyramine + dopa mixture 6 weeks before harvest.
 - [[psychoactive-cacti-species-reference]] — Species identification and alkaloid profiles
 - [[mescaline-reference]] — Mescaline pharmacology and dosage (Turner)
 - [[hallucinogenic-plants-new-world]] — New World hallucinogenic species survey
+

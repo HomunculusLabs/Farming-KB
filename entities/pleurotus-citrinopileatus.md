@@ -27,11 +27,11 @@ sources:
 | Genus | *Pleurotus* |
 | Species | *P. citrinopileatus* |
 
-The species was first described by Japanese mycologist Tsuguo Hongo in 1976. Some early taxonomic treatments placed it as a variety of *Pleurotus cornucopiae* (P. cornucopiae var. citrinopileatus), but molecular phylogenetic studies have confirmed its status as a distinct species within the *Pleurotus* genus. It is closely related to *P. cornucopiae*, *P. ostreatus*, and *P. eryngii*.
+The species was first described by Japanese mycologist Tsuguo Hongo in 1976. Some early taxonomic treatments placed it as a variety of *[[pleurotus-cornucopiae]]* (P. cornucopiae var. citrinopileatus), but molecular phylogenetic studies have confirmed its status as a distinct species within the *Pleurotus* genus. It is closely related to *P. cornucopiae*, *P. ostreatus*, and *P. eryngii*.
 
 ## Description
 
-The golden oyster is one of the most visually striking cultivated mushrooms, producing vividly colored fruiting bodies:
+The golden oyster is one of the most visually striking [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]], producing vividly colored fruiting bodies:
 
 - **Cap:** 2–6 cm diameter, convex to plane with age, sometimes slightly depressed at center. Surface smooth, bright golden-yellow to deep yellow, fading to pale yellow or whitish with age. Margin inrolled when young, becoming wavy and sometimes lobed at maturity.
 - **Gills:** Decurrent (running down the stem), narrow, crowded, white to pale cream, sometimes with a yellowish tint. Cross-veins (anastomosing) are often present between gills.
@@ -44,7 +44,7 @@ Golden oysters typically grow in shelf-like clusters (caespitose), with many ind
 
 ## Distribution and Habitat
 
-*P. citrinopileatus* is native to the subtropical and temperate regions of East Asia:
+*P. citrinopileatus* is native to the subtropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of East Asia:
 
 - **China:** Widely distributed in southern and central provinces, commonly found in Yunnan, Sichuan, and Guangxi.
 - **Japan:** Found in warm-temperate forests of Honshu, Shikoku, and Kyushu.
@@ -61,8 +61,8 @@ Golden oysters are among the fastest-colonizing and most productive of all culti
 - **Sterilization:** Substrate bags sterilized at 121°C for 90 minutes. Larger blocks may require up to 120 minutes.
 - **Inoculation:** Grain spawn (rye, millet, or wheat) at 5–10% rate. Liquid culture inoculation is widely used due to the species' rapid colonization speed.
 - **Colonization:** Incubation at 22–28°C with 85–90% humidity. Full colonization typically occurs in 10–14 days — significantly faster than most other oyster species.
-- **Fruiting initiation:** Temperature drop to 18–22°C, high humidity (90–95%), abundant fresh air exchange, and 500–1000 lux of indirect light. High FAE is critical; insufficient air exchange causes elongated, stringy stems.
-- **Fruiting and harvest:** Primordia form within 3–7 days after induction. Mature mushrooms are ready 5–10 days after pinning. Harvest before caps fully flatten and before spore release begins. Multiple flushes (3–5) are typical.
+- **[[fruiting-initiation]]:** Temperature drop to 18–22°C, high humidity (90–95%), abundant fresh air exchange, and 500–1000 lux of indirect light. High FAE is critical; insufficient air exchange causes elongated, stringy stems.
+- **Fruiting and harvest:** Primordia form within 3–7 days after induction. Mature mushrooms are ready 5–10 days after pinning. Harvest before caps fully flatten and [[partial-veil-tropism-protection-before-spore-release]] begins. Multiple flushes (3–5) are typical.
 - **Yield:** [[stamets-biological-efficiency-yield]] of 100–150% under optimized conditions, among the highest of any cultivated oyster mushroom.
 - **Pitfall:** Golden oysters are extremely aggressive colonizers and can fruit at temperatures up to 30°C, but high temperatures produce thin-fleshed, rapidly maturing mushrooms with reduced shelf life. Cooler fruiting temperatures (18–20°C) produce denser, more flavorful fruiting bodies.
 
@@ -75,7 +75,7 @@ Golden oysters are nutritionally dense, with a profile comparable to other *Pleu
 - **Fat:** 2–5% of dry weight, rich in linoleic acid
 - **Ergosterol:** Significant provitamin D2 content
 - **Minerals:** Rich in potassium, phosphorus, zinc, and selenium
-- **Antioxidants:** Contains phenolic compounds, flavonoids, and carotenoids (likely responsible for the yellow pigmentation)
+- **Antioxidants:** Contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], flavonoids, and carotenoids (likely responsible for the yellow pigmentation)
 - **β-Glucans:** (1,3)-(1,6)-D-glucans with documented immunomodulatory activity
 
 ## Medicinal Properties
@@ -87,47 +87,3 @@ Research on *P. citrinopileatus* bioactivity, while less extensive than for some
 - **Antimicrobial activity:** Crude extracts demonstrate inhibitory effects against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 - **Hypocholesterolemic effects:** Animal studies show that dietary supplementation reduces serum total cholesterol and LDL cholesterol, likely through β-glucan-mediated bile acid binding.
 - **Anti-tumor activity:** Polysaccharide fractions have demonstrated anti-proliferative effects against human cancer cell lines in vitro, though clinical evidence is lacking.
-
-## Culinary Uses
-
-Golden oysters are considered a gourmet edible with a distinctive flavor profile:
-
-- **Flavor:** Mild, sweet, and distinctly nutty with notes of almond and cashew. Less meaty than king oyster but more aromatic than common oyster.
-- **Texture:** Very tender and delicate, more fragile than other oyster mushrooms. Caps are thin and cook quickly.
-- **Cooking methods:** Best sautéed quickly in butter or oil over medium-high heat for 3–5 minutes. Also excellent in stir-fries, tempura, soups, and risottos. The delicate texture is lost with prolonged cooking.
-- **Visual appeal:** The bright golden color is retained through cooking, making it an attractive garnish and presentation element.
-- **Storage:** Extremely short shelf life compared to other cultivated mushrooms — typically 3–5 days refrigerated. Best consumed as fresh as possible.
-- **Drying:** Can be dehydrated and reconstituted, though the bright color fades significantly and the texture becomes chewier.
-
-## Invasive Potential
-
-Golden oyster mushrooms have become naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe after escaping cultivation. The species is an aggressive colonizer that can outcompete native wood-decay fungi. It has been documented growing wild in the eastern United States, the Pacific Northwest, and parts of Central Europe. While not considered a serious ecological threat, its spread has raised awareness about the importance of responsible disposal of spent [[gourmet-medicinal-mushroom-substrate-preparation]].
-
-### Documented Naturalized Populations
-- **United States:** First reported in the wild in the Midwest (Ohio, Illinois) in the 2010s, now found across much of the eastern US and Pacific Northwest. Spreads rapidly along waterways where logs and woody debris are present.
-- **Europe:** Established in parts of Germany, the Netherlands, and the Czech Republic. Observed fruiting on stumps, fallen logs, and mulched garden beds.
-- **Ecological impact:** Studies suggest *P. citrinopileatus* can monopolize woody substrates, potentially reducing niche availability for native saprotrophic fungi. However, its ecological impact is considered moderate compared to truly destructive invasive species.
-
-### Responsible Cultivation Practices
-- Autoclave or thoroughly compost spent substrate before disposal
-- Avoid dumping spent blocks near natural waterways or forest edges
-- Local regulations may apply to the outdoor cultivation of non-native fungal species
-
-## Comparison with Other Oyster Species
-
-| Feature | P. citrinopileatus | P. ostreatus | P. eryngii |
-|---------|-------------------|--------------|------------|
-| Cap color | Bright yellow | White to gray-brown | White to tan |
-| Fruiting temp | 18–30°C | 10–20°C | 12–18°C |
-| Colonization speed | Very fast (10–14 d) | Fast (14–21 d) | Slow (21–30 d) |
-| Biological efficiency | 100–150% | 75–100% | 60–85% |
-| Shelf life | 3–5 days | 7–10 days | 14–21 days |
-| Texture | Very delicate | Tender | Firm and meaty |
-| Aroma | Almond/cashew | Mild, anise-like | Mild, umami |
-
-## See Also
-
-- [[candida-albicans]]
-- [[pleurotus-ostreatus]] — Common oyster mushroom, the most widely cultivated *Pleurotus* species
-- [[trametes-versicolor-entity]] — Turkey tail mushroom, another prolific wood-decay fungus with medicinal properties
-- [[hericium-erinaceus]] — Lion's mane mushroom, a non-gilled [[holzer-medicinal-and-culinary-herbs-compendium]] fungus

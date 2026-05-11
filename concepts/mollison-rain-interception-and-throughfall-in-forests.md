@@ -2,13 +2,14 @@
 title: mollison rain interception and throughfall in forests and Throughfall in Forests
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - water
   - forest-ecology
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -22,8 +23,8 @@ into nutrient-rich water as it passes through the [[food-forest-layers-and-speci
 
 ## The Canopy as First Filter
 
-When rain falls on a forest, a complex process begins. Firstly, the
-tree canopy shelters and nullifies the impact effect of raindrops,
+When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] on a forest, a complex process begins. Firstly, the
+[[tree-canopy-fungal-sampling-techniques]] shelters and nullifies the impact effect of raindrops,
 reducing the rain to a thin mist below the canopy, even in the most
 torrential showers. There is slight measurable silt loss from mature
 forests, exceeded by the creation of soils by forests.
@@ -86,56 +87,3 @@ the tree itself directs water via insloping branches and fissured bark
 to its tap roots, with spiders catching their share on webs, and
 fungi soaking up what they need. Some trees trail weeping branches to
 direct throughfall to their fibrous peripheral roots.
-
-## The Humus Layer: A Living Sponge
-
-With the aerial reservoirs filled, the throughfall enters the humus
-layer of the forest, which can itself (like a great blotter) absorb
-1 cm of rain for every 3 cm of depth. In old beech forests, this
-humus blanket is at least 40 cm deep, and the earth below is a mass
-of fungal hyphae. In undisturbed rainforest, deep mosses may carpet
-the forest floor. So, for 40-60 cm depth, the throughfall is absorbed
-by the decomposers and living systems of the humus layer.
-
-Again, the composition of the water changes, picking up humic
-exudates, and water from deep forests and bogs may then take on a
-clear golden colour, rather like tea.
-
-## From Leaf Litter to Frost Protection
-
-Organic tea leaf litter caused water to freeze in a test at
--4 degrees C, compared with points of -11 degrees C for eucalyptus
-grove leaf litter, and -8 degrees C for bare soil. Leaf litter
-therefore provides significant frost protection for the forest
-interior, another benefit of the forest canopy system.
-
-## Design Applications
-
-Understanding interception and throughfall informs design:
-
-- **Canopy density management**: Thin or prune forest canopies to
-  adjust the balance between interception (water retention) and
-  throughfall (water delivery to the soil).
-
-- **Mulch systems**: Replicate the forest humus layer with deep
-  mulches that absorb and slowly release water and nutrients.
-
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Recognise that throughfall delivers nutrients
-  to the soil surface; design ground-cover species to capture and
-  cycle these nutrients before they leach away.
-
-- **Frost protection**: Use leaf litter and canopy cover to moderate
-  ground temperatures and reduce frost damage to sensitive crops.
-
-- **Water harvesting**: Design collection systems that work with the
-  forest's natural water [[guzman-global-distribution-patterns-neurotropic-fungi]] rather than
-  interrupting them.
-
-## See Also
-
-- [[mollison-orographic-and-forest-rainfall-effects]]
-- mollison-mulching-and-soil-health
-- [[mollison-water-harvesting-management-permaculture]]
-- [[fungal-hyphae]]
-- [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]

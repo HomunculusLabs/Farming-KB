@@ -1,5 +1,5 @@
 ---
-title: Natural Form of Fruit Trees
+title: Fukuoka Textdoc Natural Form Fruit Trees
 created: 2026-04-28
 tags:
   - natural-farming
@@ -11,13 +11,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Natural Form of Fruit Trees
 
-Masanobu Fukuoka's investigation into the natural form of fruit trees
+[[masanobu-fukuoka]]'s investigation into the natural form of fruit trees
 represents one of the most practical yet philosophically rich aspects of
 his work in *The Natural Way of Farming*. Through decades of observation,
 experimentation, and the sacrifice of hundreds of trees, he arrived at
@@ -31,13 +32,13 @@ not to prune. He thought that pruning would not be needed if the tree
 assumed its natural form. His unpleasant experiences taught him that the
 so-called natural forms in textbooks, showing hemispherical shapes with
 scaffold branches meandering upwards, were not true natural forms at all
-but the shapes of abandoned trees. A natural tree does not die of its own
+but the shapes of abandoned trees. A [[fukuoka-natural-tree-form-argument]] does not die of its own
 accord.
 
 ## Sacrificing Trees for Knowledge
 
 In his search for the natural form, Fukuoka sacrificed another four
-hundred citrus trees. His citrus trees had been trained into a wineglass
+hundred [[fukuoka-textdoc-search-natural-form-citrus-trees]]. His citrus trees had been trained into a wineglass
 shape from the moment they were transplanted as saplings, so when left
 unpruned they became increasingly deformed rather than reverting to their
 natural state. The damage of artificial shaping is cumulative and often
@@ -86,45 +87,3 @@ The shaddock and summer orange have an upright central trunk resembling a
 cedar, while the Satsuma orange has an irregularly flattened shape. This
 basic conical shape occurs in infinite variations depending on species
 and conditions.
-
-The proper way to grow a naturally formed citrus tree would be to plant
-the seed directly, but the seed is no longer truly natural — it is the
-product of extensive cross-breeding. Direct planting is not practical for
-fruit production, yet it reveals the natural form, which is constant and
-permits pruning to be dispensed with entirely.
-
-## Practical Implications for Modern Orchards
-
-Even in a mechanized orchard, it makes more sense to work on a tree
-trained on a single stem than to allow it to grow freely and later cut it
-with a saw. The closer the form to nature, the more reasonable on all
-counts.
-
-The first step in [[comparison-natural-farming-vs-permaculture]] of any fruit tree is to know its natural
-form. Whatever new pruning techniques arise, knowing the true natural
-form can never be a disadvantage.
-
-## The Philosophy Behind Natural Form
-
-If the tree has a natural form, then there should be no need for research
-on the desirable number of scaffold branches, the number and angle of
-the lateral branches, and the proper spacing between adjoining branches.
-
-Nature knows the answers and can take care of these matters quite well
-by itself. Everything is resolved if we let the tree adopt its natural
-form through natural farming. The only problem that remains is how to
-induce the tree to grow in its natural form, a question that leads
-inevitably back to the fundamental challenge of natural farming: how to
-begin from a state that has already been thoroughly corrupted by human
-intervention.
-
-The answer, as always, is to start from seed whenever possible and allow
-nature to determine the outcome.
-
-## Related
-
-- [[fukuoka-textdoc-search-natural-form-citrus-trees]] Concepts
-
-- [[fukuoka-textdoc-what-plowing-really-is]] for soil cultivation philosophy
-- [[fukuoka-textdoc-leave-nature-alone-philosophy]] for non-intervention
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]] for [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]

@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [soil, agriculture]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Soil Food Web Assessment
@@ -87,21 +88,3 @@ Ingham strongly advocates direct microscopy over plate count methods:
 | Conifers | Strongly fungal dominated |
 
 ## Interpretation Guidelines
-
-Per Ingham's framework:
-
-- **All groups low**: Add quality [[cervantes-compost-tea-organic-brewing]]
-- **Ciliates too high**: Soil is anaerobic or compacted; improve aeration
-- **Fungi too low**: Add fungal foods (humic acid, [[comparison-fish-hydrolysate-vs-fish-emulsion]]); use [[bacterial-vs-fungal-compost-teas]]
-- **Bacteria too low**: Add bacterial foods (molasses); use compost tea
-- **Root-feeding nematodes present**: Improve soil structure and aeration; the pests thrive in reduced oxygen conditions
-- **Pathogens detected**: Add compost tea with high diversity to out-compete
-
-## See Also
-
-- [[aact-soil-food-web-twelve-step-balancing-protocol]]
-
-- [[compost-tea-brewing-methods]]
-- [[compost-tea-application-rates]]
-- [[fungi-soil-food-webs]]
-- [[nutrient-movement-through-soil-to-plant-roots]]

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique of fukuoka western cooking taste numbing japanese food boom and the Return of True Taste"
+title: Fukuoka Western Cooking Taste Numbing Japanese Food Boom
 source: masanobu-fukuoka-the-road-back-to-nature
 topics: food-culture, western-cooking, macrobiotics, taste, japan, philosophy-of-food
 ---
@@ -8,9 +8,9 @@ topics: food-culture, western-cooking, macrobiotics, taste, japan, philosophy-of
 
 ## The Japanese Food Boom in America
 
-During his 1979 visit to the United States, Masanobu Fukuoka observed
+During his 1979 visit to the [[dmt-containing-plants-united-states-halpern]], [[masanobu-fukuoka]] observed
 a remarkable phenomenon: a growing boom in Japanese food among
-Americans. Health food stores across the country stocked brown rice
+Americans. Health food stores across the country stocked [[brown-rice-flour-substrate]]
 in 5-pound and 25-pound bags, bottles of amazake (sweet fermented
 rice beverage), popped rice cakes, miso, soy sauce (sold as "shoyu"
 or "tamari"), and other traditional Japanese foods. In many West
@@ -45,7 +45,7 @@ in the West:
 Fukuoka was sharply critical of Western cooking. He characterized
 it as having "little variety in the materials used" and being "all
 very crude and careless, the only principle at work being that of
-nutritional science."
+[[fukuoka-critique-western-dietetics-nutritional-science]]."
 
 ### Cooking as Nutrition Science
 
@@ -77,7 +77,7 @@ remained alive enough to impress Western visitors.
 ## The Herman Aihara Visit
 
 Fukuoka's analysis was reinforced by a visit from Herman Aihara,
-leader of the macrobiotic movement on the American West Coast.
+leader of the macrobiotic movement on the American [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]].
 Aihara brought about twenty students to Japan to study the current
 state of [[fukuoka-natural-diet-as-foundation]]. The group was not impressed with what they
 ate at a first-class Japanese restaurant in the city.
@@ -88,60 +88,3 @@ greens picked from nearby. Because there weren't enough bowls, he
 made cups by cutting cylindrical sections from overgrown bamboo
 shoots. Everyone sat down to breakfast on the clover growing in the
 orchard.
-
-Without the least hint of flattery, the visitors said: "This gruel
-is great!" Fukuoka took this as evidence that "the American palate
-has changed." People who had been raised on nutritionist cooking
-could recognize and appreciate the taste of genuinely natural food
-when they encountered it.
-
-## The Macrobiotic Bridge
-
-Fukuoka traced the Japanese food boom to the macrobiotic movement
-pioneered by George Ohsawa and spread in America by figures like
-Herman Aihara and Michio Kushi. The macrobiotic movement served as
-a bridge that introduced Westerners to the principles of traditional
-Japanese food — whole grains, fermented foods, [[fukuoka-seasonal-eating-natural-food-calendar]] —
-in a framework that made sense within Western philosophical categories.
-
-### Natural Brown Rice in Europe
-
-The food boom had spread to Europe as well. Rice grown in France
-and Italy was shipped to Great Britain, Belgium, and Holland. The
-bulk of this rice was brown rice grown by [[comparison-natural-farming-vs-permaculture]] methods.
-"Naturally grown brown rice from the Milan area is especially
-prized," Fukuoka noted. "Rice grown scientifically is regarded
-today as second-rate food."
-
-This was a striking reversal: in the land where modern agricultural
-science originated, consumers were coming to prefer naturally grown
-food over scientifically produced alternatives.
-
-## The Spiritual Dimension of Taste
-
-Fukuoka connected the question of taste to deeper philosophical
-and spiritual concerns. He argued that:
-
-- **Taste is a faculty that connects humans to nature**: The
-  ability to perceive the flavor of natural food is not merely a
-  sensory pleasure but a form of communication with the natural
-  world.
-
-- **Modern food degrades this faculty**: Processing, chemical
-  additives, and the dominance of a few strong flavors (salt, sugar,
-  fat) dull the palate's sensitivity to the subtle tastes of natural
-  foods.
-
-- **Recovering taste means recovering connection**: When Westerners
-  began eating brown rice and switching to vegetarianism, their
-  sense of taste returned, and with it came a reconnection to the
-  natural world that produced the food.
-
-## The Paradox of Japanese Modernization
-
-While Westerners were discovering the virtues of traditional Japanese
-
-## See Also
-- [[fukuoka-japanese-cooking-culture-disappearing]]
-- [[fukuoka-western-vs-japanese-attitudes]]
-- [[fukuoka-western-commitment-and-japanese-halfheartedness]]

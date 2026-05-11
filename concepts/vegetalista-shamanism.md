@@ -1,5 +1,5 @@
 ---
-title: amazonian-vegetalista-shamanism-degrees-and-hierarchy in the Peruvian Amazon
+title: Vegetalista Shamanism
 source: amaringo-p-ayahuasca-visions.md
 tags: [vegetalista, shamanism, amazon, peru, plant-medicine, ayahuasca, shipibo]
 ---
@@ -24,7 +24,7 @@ and plant knowledge:
 1. **Muraya**: The first advanced degree. A muraya has mastered the
    basic plant medicines and can perform standard healings. They have
    established relationships with several plant spirits and learned
-   their [[icaros]] (power songs).
+   their [[icaros]] ([[icaros-power-songs]]).
 
 2. **Sumi** (sumiruna): The second degree, representing deeper mastery.
    Sumis command greater spiritual power and can perform more complex
@@ -51,7 +51,7 @@ alcohol, minimal social contact, and purification through tobacco and
 bathing. The dieta typically lasts weeks or months.
 
 During this period, the plant spirit appears in dreams and ayahuasca
-visions, teaching the practitioner the plant's medicinal properties,
+visions, teaching the practitioner the plant's [[panax-ginseng]],
 the appropriate icaros, and the specific dietary and behavioral
 requirements for using the medicine safely. Each plant teacher demands
 different conditions, and violating these conditions during or after
@@ -88,40 +88,3 @@ reveal what was asked.
 visions, sometimes preceded by a prayer to Jesus or another divinity
 depending on their religious affiliation. The icaros guide and shape
 the visionary experience.
-
-## Healing Through Visions
-
-Vegetalista diagnosis and treatment occur primarily through visionary
-experience during ayahuasca sessions. The vegetalista sees the
-spiritual causes of illness — sorcery, spiritual intrusions, soul
-loss, or imbalance with nature — and addresses them through icaros,
-plant remedies, and spiritual interventions. This approach treats the
-spiritual and energetic dimensions of illness that Western medicine
-does not recognize.
-
-## Tools and Defenses
-
-Vegetalistas employ several tools and defensive practices:
-- **Arkana** (defenses): Spiritual protections placed around the
-  ceremonial space and participants
-- **Mariri** (magical phlegm): A substance received from plant spirits
-  that serves as a defensive and healing tool, available in different
-  colors (yana/black, yura/white, puka/red) each with specific
-  functions
-- **Virotes** (magical darts): Extracted from poisonous snakes, fish
-  quills, or wasp stingers, swallowed by the vegetalista to acquire
-  their spiritual power
-- **The dog**: Every vegetalista keeps a dog as both physical and
-  spiritual guardian, capable of perceiving threats invisible to humans
-
-## The Ciencia Vegetalista
-
-The complete body of vegetalista knowledge is called *ciencia
-vegetalista* or *alquimia palística* (plant alchemy). This encompasses
-not only medicinal plant knowledge but also a complex spiritual
-cosmology involving plant spirits, supernatural beings, enchanted
-cities, and interdimensional travel. Amaringo's paintings document
-this cosmology in extraordinary visual detail, depicting the entities,
-landscapes, and phenomena encountered during ayahuasca-preparation-brew
-- [[icaros-power-songs]]
-- [[chacruna-psychotria-viridis]]

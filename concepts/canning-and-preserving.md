@@ -1,5 +1,5 @@
 ---
-title: Canning and Preserving
+title: Canning And Preserving
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Canning and Preserving
 
-Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: water bath canning for high-acid foods and pressure canning for low-acid foods. Understanding which method to use for each food is critical for safety. (see [[mason-jar-preserving-guide]]).
+Canning is a heat-based food preservation method that destroys microorganisms and creates a vacuum seal in jars, making food shelf-stable at room temperature for 1-5 years. There are two primary methods: [[comparison-pressure-canning-vs-water-bath-canning]] for high-acid foods and [[pressure-canning-food-preservation]] for low-acid foods. Understanding which method to use for each food is critical for safety.
 
 ## Botulism Safety
 
-Clostridium botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible. (see [[comparison-fermented-vegetables-vs-canning]]).
+Clostridium botulinum is the primary safety concern in home canning. This bacterium produces a lethal toxin in anaerobic (oxygen-free), low-acid environments -- exactly the conditions inside a sealed jar. The toxin is tasteless, odorless, and invisible.
 
 Key safety rules:
 - Low-acid foods (pH above 4.6) MUST be pressure canned at 240-250 F to destroy C. botulinum spores
@@ -74,7 +74,7 @@ Water bath canning is appropriate for high-acid foods with a pH of 4.6 or below.
 
 ## Pressure Canning
 
-Pressure canning is required for all low-acid foods. A pressure canner reaches 240-250 F (at 10-15 PSI), which is hot enough to destroy C. botulinum spores.
+Pressure canning is required for all low-acid foods. A [[pf-tek-pressure-canner-sterilization]] reaches 240-250 F (at 10-15 PSI), which is hot enough to destroy C. botulinum spores.
 
 ### Foods Requiring Pressure Canning
 
@@ -87,7 +87,7 @@ Pressure canning is required for all low-acid foods. A pressure canner reaches 2
 
 ### Equipment
 
-- Pressure canner (not a pressure cooker -- must be large enough for jars and have a dial gauge or weighted gauge)
+- Pressure canner (not a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] -- must be large enough for jars and have a dial gauge or weighted gauge)
 - Dial gauge canners should be tested annually for accuracy
 - Same jar, lid, and tool requirements as water bath
 
@@ -129,6 +129,6 @@ Store canned goods in a cool, dark, dry place (50-70 F). Avoid temperature fluct
 
 ## Related Topics
 
-- [[food-dehydration-guide]] for non-heat preservation methods
+- [[food-dehydration-guide]] for non-heat [[egg-preservation-methods]]
 - [[root-cellaring-guide]] for cool storage without canning
 - [[food-fermentation-guide]] for acid-based preservation through fermentation

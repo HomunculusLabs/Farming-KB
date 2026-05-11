@@ -1,7 +1,7 @@
 ---
-title: Phototropism and Light Sensing in Plants
+title: Phototropism Light Sensing
 created: 2026-05-09
-source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+source: grahamholmes-what-a-plant-knowsindd.md
 tags: [phototropism, auxin, plant-growth, blue-light, shade-avoidance, botany]
 aliases: [phototropism, plant light tracking, [[shade-avoidance-syndrome]] syndrome, heliotropism]
 ---
@@ -38,7 +38,7 @@ The study of phototropism has a rich scientific history:
 
 Phototropins (phot1 and phot2) are the primary blue-light receptors mediating
 phototropism. They contain two LOV (Light, Oxygen, or Voltage) domains that
-bind flavin mononucleotide (FMN) as a chromophore. Upon absorbing blue light,
+bind flavin mononucleotide (FMN) as a chromophore. Upon absorbing [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]],
 the FMN undergoes a conformational change that activates the receptor kinase
 domain.
 
@@ -56,7 +56,7 @@ Key properties of phototropin-mediated phototropism:
 
 The current model for phototropic bending involves several steps:
 
-1. **Light perception**: Phototropins on the illuminated side of the stem
+1. **[[chamovitz-ultraviolet-and-infrared-plant-light-perception]]**: Phototropins on the illuminated side of the stem
    detect the light gradient across the organ.
 2. **[[fungal-environmental-sensing-signal-transduction]]**: Activated phototropins trigger a signaling cascade
    involving calcium ions, [[reactive-oxygen-species-and-oxidative-stress]] species, and phosphorylation events.
@@ -75,75 +75,16 @@ Roots exhibit **negative phototropism** — growing away from light. This keeps
 roots oriented downward into the soil. However, root phototropism involves
 different signaling components than shoot phototropism, and the auxin
 gradient is reversed. In some conditions, roots can show positive phototropism
-at very low light intensities, which may help roots grow toward moist soil
+at very [[darkness-low-light-facilitation-entheogenic-ceremonies]] intensities, which may help roots grow toward moist soil
 surfaces.
 
 ## Shade Avoidance Syndrome
 
 When plants detect the presence of neighboring vegetation through reduced
-red-to-far-red light ratios (sensed by [[plant-photoreception|phytochromes]]),
+red-to-far-red light ratios (sensed by [[plant-photoreception]]),
 they activate the **shade avoidance syndrome**:
 
 - **Stem elongation**: Rapid upward growth to overtop competitors
 - **Reduced branching**: Allocating resources to vertical growth rather than
   lateral spread
 - **Accelerated flowering**: Attempting to reproduce before being shaded out
-- **Reduced leaf development**: Thinner leaves with less chlorophyll per area
-- **Altered leaf angle**: Leaves become more erect to reduce self-shading
-
-This response is adaptive in natural competition but can reduce yield in
-agricultural settings where plants are grown at high density. In Cannabis
-cultivation, excessive shade avoidance can reduce bud development and
-overall yield if plants are spaced too closely.
-
-## Circadian Regulation
-
-Phototropic responses are modulated by the **circadian clock**, with maximum
-sensitivity occurring at different times depending on the species. This
-circadian gating ensures that phototropism is most responsive when it is most
-ecologically relevant — typically during the morning hours when light
-direction changes most rapidly.
-
-## Types of Light-Directed Growth
-
-### Heliotropism (Solar Tracking)
-
-Some plants track the sun across the sky throughout the day:
-
-- **D tracking**: Leaves or flowers face east in the morning and follow the
-  sun westward through the day (e.g., sunflowers, alpine snow buttercups).
-- **Motor cells**: Pulvinus cells at the leaf base drive movement through
-  [[bloomfield-turgor-pressure-and-hyphal-invasion]] changes — potassium ion fluxes cause cells to swell or
-  shrink, reorienting the leaf blade.
-
-### Skototropism
-
-Growth toward darkness, observed in tropical vine seedlings that grow away
-from light until they encounter a tree trunk, then switch to positive
-phototropism to climb toward the canopy.
-
-### Gravitropism Interaction
-
-Phototropism interacts with **gravitropism** (growth in response to gravity).
-In many situations, the two systems work together or in opposition. Young
-seedlings exhibit strong phototropism (light overrides gravity), while mature
-roots are primarily gravitropic (gravity overrides light). The relative
-strength of each response depends on hormone levels, light intensity, and
-developmental stage.
-
-## Agricultural Applications
-
-Understanding phototropism is relevant to cultivation practices:
-
-- **Light positioning**: Angling grow lights to create uniform light
-  distribution prevents asymmetric growth and stretching.
-- **Photoperiod control**: Manipulating dark periods to control flowering
-  timing in photoperiod-sensitive crops like Cannabis.
-- **Canopy management**: [[cannabis-sativa-indoor-training-techniques]] (LST, SCROG) manipulate the
-  phototropic response to create even canopy exposure.
-- **Seedling orientation**: Ensuring uniform light exposure during
-  establishment prevents leggy, stretched growth.
-## See Also
-
-- [[plant-photoreception]]
-- [[plant-sensory-biology]]

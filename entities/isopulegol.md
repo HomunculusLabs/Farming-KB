@@ -19,7 +19,7 @@ aliases:
   - Isopulegol
   - (−)-Isopulegol
 sources:
-  - Levin M, Villalobos A, Eiteman MA (2010). "Biosynthesis of (−)-Menthol from (−)-Isopulegol by a Mentha spicata Cell Suspension Culture." Biotechnology Letters 32(12): 1893–1897.
+  - Levin M, Villalobos A, Eiteman MA (2010). "Biosynthesis of (−)-Menthol from (−)-Isopulegol by a mentha-spicata Cell Suspension Culture." Biotechnology Letters 32(12): 1893–1897.
   - de Carvalho CCCR, da Fonseca MMR (2006). "Carvone: Why and How Should One Bother to Produce This Terpene." Food Chemistry 95(3): 413–422.
   - Sell CS (2003). "The Chemistry of Fragrances." Royal Society of Chemistry.
   - "Isopulegol." PubChem Compound Summary. pubchem.ncbi.nlm.nih.gov.
@@ -57,7 +57,7 @@ The compound is classified as a p-menthane-type monoterpene, sharing its carbon 
 
 Isopulegol has three stereocenters, giving rise to eight possible stereoisomers.
 
-The (−)-isopulegol isomer is the most pharmacologically relevant and is the direct biosynthetic precursor to (−)-menthol.
+The (−)-isopulegol isomer is the most pharmacologically relevant and is the direct [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] to (−)-menthol.
 
 ## Natural Sources
 
@@ -65,7 +65,7 @@ Isopulegol is found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticid
 
 **Peppermint** (*Mentha × piperita*): Present as a biosynthetic intermediate in the menthol pathway, typically at low concentrations.
 
-**[[comparison-lemon-balm-vs-passionflower]]** (*Melissa officinalis*): Minor constituent of the essential oil alongside citronellal and citral.
+**[[comparison-lemon-balm-vs-passionflower]]** (*[[lemon-balm-melissa-officinalis]]*): Minor constituent of the [[permaculture-designers-manual-essential-oil-plants]] alongside citronellal and citral.
 
 **Geranium** (*Pelargonium* spp.): Detected in the leaf oils of several Pelargonium species used in perfumery.
 
@@ -79,7 +79,7 @@ It has been reported at higher concentrations in certain hemp cultivars bred for
 
 ## Pharmacology and Bioactivity
 
-Isopulegol demonstrates several pharmacological activities that support its potential therapeutic applications.
+Isopulegol demonstrates several pharmacological activities that support its potential [[psilocybin-therapeutic-applications]].
 
 **Anticonvulsant activity:** Animal studies have shown isopulegol exhibits anticonvulsant effects in pentylenetetrazole-induced seizure models.
 
@@ -88,41 +88,3 @@ The mechanism may involve modulation of GABAergic neurotransmission and enhancem
 These findings suggest potential application as an adjunctive anticonvulsant agent.
 
 **Anti-inflammatory effects:** Isopulegol reduces carrageenan-induced paw edema in rodent models of acute inflammation.
-
-It inhibits pro-inflammatory mediator release including prostaglandin E2 and nitric oxide.
-
-**Gastroprotective activity:** Studies demonstrate isopulegol protects gastric mucosa against ethanol-induced lesions.
-
-The gastroprotective effect involves increased gastric mucus production and reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
-
-**Bronchodilator properties:** Preliminary evidence suggests isopulegol may have relaxant effects on airway smooth muscle.
-
-This activity is consistent with the traditional use of mint-family plants for respiratory conditions.
-
-## Cannabis Terpene Profile
-
-Isopulegol contributes subtle minty, herbal, and slightly camphoraceous notes to cannabis aroma.
-
-It is not a dominant terpene in most cultivars but may play a synergistic role in the [[cannabis-terpene-entourage-effect-profiles]].
-
-Some Kush-descended and indica-dominant strains show detectable isopulegol concentrations.
-
-Its presence may contribute to the characteristic "cooling" sensation reported with certain cannabis chemovars.
-
-## Industrial Significance
-
-The primary industrial importance of isopulegol lies in its role as a precursor to synthetic (−)-menthol.
-
-The Takasago process uses a chiral rhodium catalyst to convert myrcene to (−)-isopulegol, which is then hydrogenated to (−)-menthol.
-
-This asymmetric synthesis produces over 30% of the world's menthol supply annually.
-
-Isopulegol is also used as a fragrance ingredient in perfumes, soaps, and personal care products.
-
-## See Also
-
-- [[linalool]]
-- [[limonene]]
-- [[cannabidiol-cbd]]
-- [[pinene]]
-- [[pulegone]]

@@ -11,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -19,7 +20,7 @@ type: concept
 One option for [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] growers is to remove the reflective
 hood entirely and run HID lamps as "bare bulbs." With no hood, the lamp
 burns cooler and emits only direct light. This approach has specific
-advantages and limitations that Jorge Cervantes explores in Chapter 9
+advantages and limitations that [[jorge-cervantes]] explores in Chapter 9
 of *Marijuana Horticulture*.
 
 ## How Bare Bulb Lighting Works
@@ -86,44 +87,3 @@ atmosphere. Excessive heat around the bulb causes premature burnout.
 
 For growers who do use reflective hoods and wall coverings, the
 following chart shows reflectivity of common materials:
-
-| Material | Percent Reflected |
-|----------|------------------|
-| Foylon | 94-95% |
-| Reflective Mylar | 90-95% |
-| Flat white paint | 85-93% |
-| Semi-gloss white | 75-80% |
-| Flat yellow | 70-80% |
-| Aluminum foil | 70-75% |
-| Black | Less than 10% |
-
-### Material Notes
-
-- **Foylon:** Durable, ripstop-reinforced, acts as an insulator, and
-  is heat and flame resistant.
-- **Reflective Mylar:** One of the most reflective surfaces possible.
-  Must be positioned flat against the wall; loosely affixed Mylar
-  reflects light poorly. Keep clean for maximum effectiveness.
-- **Flat white paint:** Contains little or no light-absorbing pigment.
-  Matte texture provides more reflective surface area. Do not use
-  glossy white, as the varnish inhibits reflection.
-- **Aluminum foil:** One of the worst reflective surfaces. It crinkles
-  and reflects light in wrong directions, wasting light. Also
-  reflects more harmful UV rays than other surfaces.
-- **Mirrors:** Reflect much less light than expected because light
-  must pass through glass twice, losing intensity each time.
-
-## When to Consider Bare Bulb
-
-Bare bulb setups may be appropriate when:
-- Heat from hoods is a primary concern
-- Plants are trained to grow around the bulb (vertical farming)
-- The grower wants to minimize hot spots on the canopy
-- Supplemental side lighting is the primary goal
-
-## See Also
-
-- [[cervantes-reflective-materials-grow-room-walls]]
-- [[cervantes-high-pressure-sodium-lighting]]
-- [[cervantes-light-movers]]
-- [[cervantes-light-measurement-meters]]

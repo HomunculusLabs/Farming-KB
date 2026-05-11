@@ -19,7 +19,7 @@ type: concept
 Lichens represent one of the most successful fungal lifestyles on Earth,
 consisting of fungi that exist in facultative or obligate symbioses with one
 or more photosynthesizing partners (algae and/or cyanobacteria). They play
-important roles in biogeochemical cycling processes, soil formation, rock
+important roles [[mycorrhizal-fungi-in-biogeochemical-cycling]] processes, soil formation, rock
 weathering, and as pioneer organisms colonizing fresh rock surfaces. An
 estimated 6% of the Earth's land surface is covered by lichen-dominated
 vegetation.
@@ -37,14 +37,14 @@ protection from light and irradiation to the fungal partner. In return, the
 fungal mycobiont provides mineral nutrients, water retention, and a protected
 environment for the photobiont. This mutualistic relationship is one of the
 most successful means for fungi to survive in extreme sub-aerial environments
-and represents an extremely biogeochemically active fungal growth form.
+and represents an extremely biogeochemically active [[brassinosteroid-fungal-growth-promotion]] form.
 
 ## Role as Pioneer Organisms
 
 Lichens are commonly thought of as pioneer colonizers of fresh rock outcrops
 and were possibly one of the earliest life forms to occupy Earth's land
 surfaces. Their ability to colonize bare rock and initiate soil formation
-makes them critical organisms in primary succession:
+makes them critical organisms in [[dighton-fungi-volcanic-glacier-primary-succession]]:
 
 - Physical penetration of rock surfaces by lichen hyphae and rhizines
 - Chemical dissolution of minerals through [[fungal-organic-acid-metal-solubilization]] secretion
@@ -60,7 +60,7 @@ processes:
 
 - **Retention and distribution of nutrients**: lichens accumulate and cycle
   essential nutrients including carbon (C) and nitrogen (N), as well as
-  trace elements from atmospheric deposition.
+  [[teaming-with-nutrients-micronutrients-and-trace-elements]] from atmospheric deposition.
 - **Trace element accumulation**: lichens can accumulate metals such as lead
   (Pb), copper (Cu), and others of environmental concern, including
   radionuclides, making them useful bioindicators of atmospheric
@@ -87,19 +87,3 @@ important implications:
 - **Element cycling**: through accumulation and subsequent release during
   decomposition, lichens participate in the cycling of both essential and
   non-essential elements.
-
-## Lichens in Limestone Environments
-
-In limestone, fungi and lichens are considered to be important agents of both
-mineral deterioration and formation. Many near-surface limestones (calcretes)
-and calcic and petrocalcic horizons in soils are secondarily cemented with
-calcite (CaCO3) and [[fungal-calcium-oxalate-crystals]] minerals, with lichen activity
-contributing to both dissolution and reprecipitation processes.
-
-## Interaction with Rock-Dwelling Fungi
-
-The lichen symbiosis is closely related to free-living rock-dwelling fungi.
-The [[gadd-lichen-biogeochemistry-pioneer]]
-
-- [[mycogenic-mineral-precipitation]]
-- [[gadd-fungal-symbiosis-mycorrhizae]]

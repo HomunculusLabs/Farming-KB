@@ -3,6 +3,7 @@ title: Multipurpose Plants for the Ecological Garden
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - "Hemenway - Gaia's Garden"
 type: concept
 tags: [gardening, plants]
@@ -87,35 +88,3 @@ The best plants score highly across several categories. A mediocre fruit tree th
 When considering a new plant for the garden, score it on each of these functions. A plant that serves 4+ functions deserves a prime location; one serving only 1-2 functions should justify its space through exceptional performance in that role.
 
 1. **Food value**: Does it produce edible fruit, nuts, leaves, roots, flowers, or seeds? How much? How reliably?
-2. **Wildlife support**: Does it provide food, shelter, or nesting sites for birds, insects, amphibians, or other wildlife?
-3. **Soil building**: Does it fix nitrogen, accumulate nutrients, produce mulch, or improve soil structure?
-4. **Microclimate**: Does it provide shade, wind protection, humidity, or [[holzer-frost-protection-techniques]]?
-5. **Pest management**: Does it attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], repel pests, or serve as a trap crop?
-6. **Water management**: Does it slow runoff, increase infiltration, transpire excess water, or tolerate wet/dry conditions?
-7. **Erosion control**: Does it hold soil on slopes or along waterways?
-8. **Beauty**: Does it provide flowers, foliage color, bark interest, form, or fragrance?
-9. **Materials**: Does it produce wood, fiber, or other useful materials?
-10. **Nurse plant capacity**: Can it shelter and prepare conditions for other species?
-
-## Multipurpose Plants and the Food Forest
-
-In a gaias-garden-food-forest-layers of the forest contains plants selected for multiple functions:
-
-- **Canopy trees**: Food (nuts, fruit), shade, microclimate, bird habitat, timber, leaf mulch
-- **Understory trees**: Food (fruit), partial shade, bird perches, pollinator forage
-- **Shrubs**: Food (berries), privacy screening, bird habitat, erosion control, mulch production
-- **Herbaceous layer**: Food (vegetables, herbs), insectary plants, nutrient accumulators, ground cover
-- **Ground cover**: Soil protection, weed suppression, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], moisture retention
-- **Root layer**: Food (root crops), soil aeration, nutrient mining from deep layers
-- **Vine layer**: Food (fruit), seasonal shade, pollinator attraction, vertical space utilization
-
-By selecting multipurpose plants for each layer, the food forest becomes a self-maintaining, highly productive ecosystem that requires minimal external inputs.
-
-## Related
-
-- [[gaias-garden-weeds-pioneer-plants]] Concepts
-
-- gaias-garden-berry-bushes-guide as multipurpose food and habitat plants
-- hemenway-cover-crops-guide for soil-building multipurpose plants
-- gaias-garden-food-forest-layers for vertical stacking of multipurpose plants
-- [[comparison-perennial-vegetables-vs-cover-crops]] for multipurpose food crops

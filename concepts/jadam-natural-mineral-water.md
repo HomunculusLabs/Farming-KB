@@ -88,13 +88,3 @@ Practitioners may encounter several common issues when establishing mineral wate
 JADAM recommends soaking seeds in natural mineral water before planting to improve germination rates and seedling vigour. Seeds soaked for 6-12 hours in mineral water absorb trace minerals that support the initial growth phase before the seedling develops its root system sufficiently to access soil minerals. This practice is particularly beneficial for seeds of [[jadam-seawater-mineral-supplementation]] -- using seawater as mineral source
 - [[jadam-phyllite-solution]] -- rock-based mineral supplementation
 - [[jadam-leaf-mold-soil-method]]
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-water-quality-softening]]
-- [[knf-agricultural-mineral-water]]
-- [[jadam-water-spraying-guidelines]]
-## Connection to JADAM Philosophy
-
-The natural mineral water method embodies core principles of the [[jadam-do-as-nature-does-philosophy]] is directly expressed in the mineral water method: natural water bodies are purified by the interaction of water with rocks, soil, and biological communities, and the JADAM system simply replicates this natural process in a farm container. The method also reflects the [[jadam-water-spraying-guidelines]] uses simple gravity-fed or pump-driven delivery to ensure that treated water reaches plants without re-contamination. For larger farms, a network of interconnected storage tanks allows treated water to flow by gravity from a central treatment point to peripheral growing areas. The key principle is that water should be treated once and then distributed through a clean system that preserves the microbial and mineral quality established during treatment. JADAM practitioners avoid mixing treated mineral water with untreated water in the same distribution system, as this dilutes the beneficial effects of the treatment. The [[jadam-ultra-low-cost-agriculture]] approach treats water treatment not as an expense but as a zero-cost farm activity that simultaneously improves crop quality and reduces the need for purchased mineral supplements. JADAM's cost-benefit analysis shows that the value of improved crop quality, reduced [[hamilton-pest-and-disease-control-organic]] pressure, and decreased fertilizer purchases far exceeds the minimal labour investment required to maintain the mineral water system.
-## Integration with Other JADAM Inputs
-
-Natural mineral water is not used in isolation but forms part of the integrated [[jadam-making-organic-farming-inputs]] behind this integration is that every input should reinforce every other input, creating a synergistic system where the whole is greater than the sum of its parts.

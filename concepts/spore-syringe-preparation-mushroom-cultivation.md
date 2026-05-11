@@ -1,5 +1,5 @@
 ---
-title: [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]] [[grass-seed-substrate-for-mushroom-cultivation]]
+title: Spore Syringe Preparation Mushroom Cultivation
 slug: spore-syringe-preparation-mushroom-cultivation
 tags: [mycology, spore-syringe, mushroom-cultivation, inoculation, sterilization]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, humidity-chamber-mushroom-fruiting]
@@ -88,34 +88,3 @@ This is the preferred method when a long needle is available:
 
 1. Tape the filter can on both sides of the bag for security
 2. Flame-sterilize the long needle
-3. Lift the lid of the filter can
-4. Pass the needle all the way through the rock wool and vermiculite filter
-5. Inject 10 mL of spore solution directly into the substrate
-6. Withdraw the needle and close the filter can lid
-7. Secure the lid with a small piece of tape if it tends to lift
-
-The long needle method is easier, quicker, and more reliable because the needle passes through the sterilized filter medium rather than piercing the bag directly, reducing contamination risk.
-
-## Post-Inoculation
-
-After inoculation, place the bags in a cardboard box in a warm location (typically 24-28°C for most species) for the germination and colonization phase. Within a few days, visible white mycelium growth should appear at the inoculation points and gradually spread throughout the substrate. Full colonization typically takes 2-4 weeks depending on species, temperature, and substrate volume.
-
-## Troubleshooting Spore Syringe Issues
-
-- **No growth after 2 weeks** — spores may be non-viable (old or improperly stored), water may have been too hot, or the substrate may be too dry
-- **Contamination in multiple bags** — likely a contaminated spore print or syringe; discard everything and start with fresh materials
-- **Clumpy spore suspension** — spores not fully dispersed; more scraping and agitation needed before loading the syringe
-- **Slow colonization** — check temperature (too cold slows growth), [[pf-tek-substrate-moisture-diagnosis-and-correction]], and ensure filter is allowing adequate gas exchange
-
-## Spore Print Storage and Viability
-
-Proper storage of spore prints is essential for long-term viability. After taking a spore print, allow the spores to dry thoroughly in a clean, draft-free area for at least 24 hours (with the mushroom cap removed). Once dry, tighten the jar lid firmly and store in a cool, dark location.
-
-Spore viability decreases over time but can be preserved for months to years under ideal conditions (cool, dry, dark). Refrigeration at 2-4°C extends viability significantly. For long-term storage, some cultivators freeze spore syringes, though freezing may reduce germination rates for some species.
-
-When using old spore prints, expect longer germination times and lower success rates compared to fresh prints. A single spore print from one mushroom cap can typically produce dozens of spore syringes, each capable of inoculating multiple substrate bags.
-
-## See Also
-
-- [[straw-substrate-mushroom-cultivation-boil-bag]] — preparing the substrate for inoculation
-- [[humidity-chamber-mushroom-fruiting]] — fruiting the fully colonized substrate

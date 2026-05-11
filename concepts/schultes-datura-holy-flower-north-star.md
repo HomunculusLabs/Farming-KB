@@ -29,7 +29,7 @@ the gods: revered for its visionary power yet feared for its malevolence.
 
 The most extensive ceremonial use of Datura centers in Mexico and the
 American Southwest, where the most important psychoactive species is
-*Datura innoxia*. This is the famous Toloache of Mexico, one of the
+*[[datura-innoxia]]*. This is the famous Toloache of Mexico, one of the
 plants of the gods among the Aztecs and other indigenous peoples. The
 modern Tarahumara of Mexico add the roots, seeds, and leaves of *D.
 innoxia* to tesquino, a ceremonial drink prepared from maize.
@@ -47,7 +47,7 @@ diameter, covered with sharp spines.
 ## Datura metel: Old World Ceremonial Use
 
 In the Old World, the most culturally important species of Datura for
-medicinal and hallucinogenic use is *Datura metel*. Native probably to
+medicinal and hallucinogenic use is *[[datura-metel]]*. Native probably to
 the mountainous regions of Pakistan or Afghanistan westward, *D. metel*
 is a spreading herb, sometimes becoming shrubby, three to six feet tall.
 The triangular-ovate, sinuate, and deeply toothed leaves measure five and
@@ -59,7 +59,7 @@ grow at an angle or upright toward the sky.
 
 ## Datura stramonium: Thorn Apple
 
-*Datura stramonium*, known as Thorn Apple or Jimsonweed, is an annual
+*[[datura-stramonium]]*, known as Thorn Apple or Jimsonweed, is an annual
 [[medicinal-herb-growing]] to about four feet with many-forked branches. The funnel-
 shaped flowers are five-pointed, stand erect, and open upward. The common
 variety carries white flowers that at two to three inches long are among
@@ -70,7 +70,7 @@ The origins of this powerful hallucinogenic species are uncertain and its
 botanical history ardently argued. Some authors suggest that *Datura
 stramonium* is an ancient species originating in the region of the Caspian
 Sea. Others believe that Mexico or [[psilocybin-north-america-pacific-northwest]] is the original habitat.
-Today the herb is found throughout North, Central, and South America;
+Today the herb is found throughout North, Central, and [[guzman-psilocybin-mushrooms-south-america]];
 North Africa; Central and Southern Europe; the [[ancient-cannabis-use-near-east-and-egypt]]; and the
 Himalayas. It was reportedly employed by the Algonquin and others, and
 served as an ingredient of the witches' brews of medieval Europe.
@@ -87,42 +87,3 @@ The active dose is dangerously close to the toxic dose, making Datura
 among the most hazardous of all hallucinogenic plants.
 
 ## Mexican Shamanic Use
-
-Multiple Datura species are employed in Mexican shamanic contexts: *D.
-innoxia*, *D. discolor*, *D. kymatocarpa*, *D. pruinosa*, *D.
-quercifolia*, *D. reburra*, *D. stramonium*, and *D. wrightii*. Known
-also as *D. meteloides*, *D. innoxia* is used in Mexico and the American
-Southwest. The plant's association with malevolent spirits reflects the
-often terrifying nature of its effects, which can include complete
-dissociation, inability to distinguish hallucination from reality, and
-dangerous physical side effects.
-
-## Indian Use and Ayurvedic Tradition
-
-In India, *Datura metel* has been used for centuries in Ayurvedic medicine
-and religious practice. The plant's intoxicating properties were
-recognized in ancient Sanskrit texts, and it continues to be used in
-certain Tantric rituals and [[entheogen-cimora-folk-healing-ceremony]] practices. The seeds and leaves
-are prepared in various ways depending on the intended application, with
-dosage carefully controlled by traditional practitioners who have
-inherited knowledge of the plant's extreme potency.
-
-## The Witches' Brews of Medieval Europe
-
-In medieval Europe, Datura species were among the most important
-ingredients in the concoctions attributed to witches. The tropane
-alkaloids produced effects that contemporary observers interpreted as
-flying, shape-shifting, and communion with supernatural forces. Modern
-scholarship suggests that many accounts of witchcraft may have been
-rooted in the genuine pharmacological effects of Solanaceous plants
-applied to the skin as ointments, producing a deliriant state
-interpreted through the cultural framework of the time.
-
-## See Also
-
-- [[schultes-ololiuqui-vines-serpent]] for the Mexican hallucinogen
-  seeds that were once mistakenly identified as Datura
-- [[schultes-ergot-st-anthonys-fire]] for another European plant
-  associated with mass intoxication and visionary experiences
-- [[schultes-ayahuasca-magic-drink-amazon]] for a safer visionary plant
-  preparation from the Amazonian tradition

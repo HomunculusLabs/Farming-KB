@@ -9,19 +9,19 @@ sources:
 ---
 # Psychedelic 1960s Counterculture and Mushrooms
 
-The 1960s counterculture represented a fundamental turning point in the relationship
-between Western societies and psychoactive mushrooms. What had been an obscure
+The 1960s counterculture represented a fundamental [[fukuoka-textdoc-post-season-cultivation-kochi-turning-point]] in the relationship
+between Western societies and [[ceremonial-shamanic-use-psychoactive-mushrooms]]. What had been an obscure
 anthropological curiosity became, within a decade, one of the defining symbols of a
 generation's rebellion against mainstream values.
 
 ## From Wasson to the Masses
 
-The [Wasson Mexico expeditions of the 1950s set the
+The [[wasson-mexico-expeditions]] of the 1950s set the
 stage, but it was [Wasson's 1957 Life magazine article "Seeking
 the Magic Mushroom" that ignited the fuse. Read by millions, the article introduced
 the concept of psychoactive mushrooms to a vast Western audience for the first time.
 
-Key figures of the emerging psychedelic movement, including Timothy Leary at Harvard, experimented with psychedelics as a direct result. Leary
+Key figures of the emerging psychedelic movement, including [[timothy-leary]] at Harvard, experimented with psychedelics as a direct result. Leary
 transferred his focus from LSD to mushrooms after reading Wasson's account, helping
 to establish psilocybin as a central element of the emerging psychedelic
 consciousness.
@@ -60,14 +60,14 @@ healing power.
 ## The Underground Mushroom Economy
 
 As [prohibition made obtaining mushrooms
-increasingly difficult, an underground economy developed. Growing magic mushrooms,
+increasingly difficult, an underground economy developed. Growing [[1960s-counterculture-and-magic-mushrooms]],
 particularly with intent to supply, was a felony in most jurisdictions, but this
 did little to deter enthusiasts.
 
 Like the secret stills supplying moonshine during alcohol prohibition, mushroom
 cultivation became celebrated as an illicit folk art. The development of
 [[holzer-mushroom-cultivation-methods]] including the PF Tek and
-the McKenna brothers' method turned [[duggar-mushroom-growing-history-and-methods]] into an accessible underground
+the [[mckenna-brothers-la-chorrera-experiment-1971]]' method turned [[duggar-mushroom-growing-history-and-methods]] into an accessible underground
 practice.
 
 Robert McPherson, better known as [[pf-tek-psilocybe-fanaticus-cultivation-method]], became an underground hero
@@ -88,31 +88,3 @@ performance aesthetics.
 ## The Turn Against Wasson
 
 Gordon Wasson himself had little time for hippie culture. He was treated as a
-psychedelic guru despite himself, and expressed contempt for Timothy Leary and the
-counterculture his discoveries had helped spawn. He later berated the hippies,
-declaring he had taken the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] "but never for a 'kick'. Knowing as I
-did from the outset the lofty regard in which they are held," he stated, "I would
-not, could not, profane them."
-
-Yet Wasson's own behaviour was not always consistent with these protestations. When
-US federal prohibition made obtaining mushrooms a criminal offence during the
-1970s, Wasson arranged for Albert Hofmann to risk his job by
-posting psilocybin pills from the Sandoz factory in Switzerland to a California
-address for Wasson's personal use.
-
-## Legacy of the 1960s Mushroom Culture
-
-The 1960s counterculture established several enduring patterns in mushroom culture.
-The association of mushrooms with authenticity, naturalness, and spiritual seeking
-became deeply embedded. The tension between indigenous sacred use and Western
-recreational use was established but never resolved.
-
-Perhaps most significantly, the counterculture created the narrative framework
-within which mushroom use would be understood for decades: not merely as drug use
-but as a form of spiritual exploration and [[mckenna-consciousness-expansion-and-drug-war]], however
-problematic that framework might be from an anthropological perspective.
-
-## See Also
-- [[wasson-mexico-expeditions]] - The expeditions that started it all
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] - Mushroom influence on music
-- magic-mushroom-cultural-history - Full [[shroom-cultural-history-hippie-revolution-and-counterculture]]

@@ -12,7 +12,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "Rocha, F. et al. (2001). \"Cephalopod life cycles.\" Fisheries Research, 54, 1-6."
+  - "Rocha, F. et al. (2001). \"Cephalopod [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]].\" Fisheries Research, 54, 1-6."
   - "Boyle, P.R. & Rodhouse, P. (2005). Cephalopods: Ecology and Fisheries. Blackwell Publishing."
   - "Guerra, Á. (1992). \"Mollusca, Cephalopoda.\" Fauna Iberica, vol. 1. CSIC."
 ---
@@ -88,56 +88,8 @@ coinciding with vertical migration periods.
 The species occupies a central trophic position, serving as prey for
 numerous predators including dolphins, tuna, swordfish, seabirds, and larger
 cephhalopods. Its high reproductive output and rapid growth support
-substantial predation pressure without population collapse under normal
-conditions.
-
-### Schooling Behavior
-
-*Loligo vulgaris* forms schools of varying size, from small groups of 10–20
-individuals to aggregations of thousands during spawning migrations.
-Schooling provides hydrodynamic efficiency and reduces individual predation
-risk through collective vigilance. Schools are typically size-stratified,
-with individuals of similar mantle length occupying the same group.
-
-## Reproduction and Life Cycle
-
-Spawning occurs in coastal waters at depths of 5–50 meters, typically from
-January to May in Mediterranean populations and from April to September in
-northeast Atlantic populations. Males transfer spermatophores to females
-using a modified hectocotylus arm. Females attach gelatinous egg capsules
-(finger-like strings) to submerged substrates including rocks, seagrass,
-and artificial structures.
-
-Each female deposits 1,000–20,000 eggs in multiple spawning events over
-several weeks. Eggs incubate for 25–40 days depending on water temperature.
-Hatchlings are planktonic paralarvae resembling miniature adults. The
-species is semelparous, with adults dying after a single spawning season.
-
-Growth is extremely rapid, reaching mantle lengths of 10–15 cm within three
-months. Total lifespan is 12–18 months, though some individuals in colder
-northern waters may survive up to 24 months. Sexual maturity is reached at
-4–6 months.
-
-## Fisheries and Conservation
-
-*Loligo vulgaris* is among the most commercially significant cephalopods
-in European waters, with annual landings of 10,000–20,000 metric tons. It
-is caught primarily by bottom trawls, jigging, and set nets. Major
-fisheries operate in the English Channel, Celtic Sea, Adriatic Sea, and
-off the northwest African coast.
-
-The IUCN classifies the species as Least Concern, and populations are
-considered stable overall. However, regional overexploitation has been
-documented in the North Adriatic and some Mediterranean trawl grounds.
-Management measures include seasonal spawning closures, minimum mesh size
-regulations, and effort limitations in heavily fished areas.
 
 ## See Also
-
-- [[anemone-nemorosa]] — Contrasts cnidarian and molluscan marine body plans
-- [[corallina-officinalis]] — Marine calcareous alga of continental shelf habitats
-- [[chlorella-vulgaris]] — Aquatic organism illustrating photosynthetic marine trophics
-- [[nostoc-commune]] — Cyanobacterium relevant to coastal nitrogen cycling
-- [[polypodium-vulgare]] — Contrasts terrestrial and marine life cycle strategies
-- [[polyporus-umbellatus]] — Fungal organism with alternative reproductive strategies
-- [[echinacea-purpurea]] — Terrestrial species for comparative conservation approaches
+- [[berberis-vulgaris]]
+- [[syringa-vulgaris]]
+- [[pulsatilla-vulgaris]]

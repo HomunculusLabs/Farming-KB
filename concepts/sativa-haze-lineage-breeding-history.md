@@ -87,29 +87,3 @@ Haze genetics express differently depending on the growing environment. In Medit
 The Rev, a noted cannabis cultivator and author, described Haze as a staple for creative work: "When I sit down to write, it's always a Diesel strain that I pack into my bowl. When I need to get some fire in me to go outside when it's -10 and the snow sits thick on the ground, it's a Haze that I go for. When I need to find my creativity when it's hidden beneath layers of tiredness and apathy, I'll dig into a landrace African that sets my soul on fire."
 
 ## Haze in the Context of Sativa Classification
-
-The Haze family challenges simplistic sativa/indica classification. Most modern "Haze" strains are technically hybrids with varying degrees of indica influence. The term "Haze" has become something of a brand or genetic marker rather than a botanical classification. Strains labeled as Haze may contain anywhere from 50% to 95% sativa genetics, and the effects profile varies accordingly.
-
-This complexity reflects a broader reality in cannabis taxonomy: the traditional three-species model (Cannabis sativa, C. indica, C. ruderalis) fails to capture the genetic reality of modern breeding, where landrace genes from multiple regions have been combined and recombined over decades. The Haze lineage, with its Southeast Asian, South American, and South African influences, exemplifies this genetic complexity. Some breeders argue that the term "Haze" should be reserved for strains with direct lineage to the original California-bred stock, while others use it more broadly to describe any strain exhibiting the characteristic Haze effects profile: a long-lasting, cerebral, and often creative high that distinguishes sativa from indica experiences.
-
-## Future Directions in Haze Breeding
-
-Contemporary breeders continue to push Haze genetics in new directions:
-
-- **Auto-flowering Haze crosses** — Breeders like AutoFem Seeds have introduced ruderalis genetics to create auto-flowering versions of classic Haze strains, sacrificing some potency for convenience and faster harvest cycles.
-- **CBD-rich Haze hybrids** — As medical cannabis markets expand, breeders are selecting for high-CBD phenotypes within Haze genetic backgrounds, creating strains that offer the focused, uplifting sativa experience with reduced psychoactive intensity.
-- **Terpene-specific breeding** — Modern analytical testing allows breeders to select for specific terpene profiles within Haze populations, creating strains optimized for particular aromatic and effect characteristics rather than relying solely on THC content as a quality metric.
-
-The continued evolution of Haze genetics demonstrates the enduring value of landrace preservation. As breeding technology advances with genomic tools and analytical chemistry, the genetic diversity preserved in Haze lineage strains becomes increasingly valuable as raw material for future innovation.
-
-## Related Topics
-
-- [[african-landrace-sativa-strains]]
-- [[cannabis-sativa-dominant-growing-challenges]]
-- [[chemdawg-lineage-and-legacy]]
-- [[cannabis-terpene-entourage-effect]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-
-## Sources
-
-- S.T. Oner, The Rev (2014). *Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains*. Green Candy Press.

@@ -27,8 +27,8 @@ psilocybin-containing mushroom to be brought to scientific attention.
 ## Two Chains of Research United
 
 McKenna emphasises the significance of this moment: "Thus Reko initiated the study of
-the indole hallucinogens of Mexico and two chains of research and discovery, which would
-eventually be reunited when Albert Hofmann, the Swiss pharmaceutical chemist,
+the [[four-families-of-indole-hallucinogens]] of Mexico and two chains of research and discovery, which would
+eventually be reunited when [[albert-hofmann]], the Swiss pharmaceutical chemist,
 characterized both compounds in his laboratory." The [[golden-guide-morning-glory-and-ololiuqui]] seeds and the
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], though botanically unrelated, shared a common biochemical family —
 the indole alkaloids — and would ultimately be connected through Hofmann's work at
@@ -45,9 +45,9 @@ each contributing pieces that others would later assemble into a coherent pictur
 Reko had obtained his mushroom sample from Roberto Weitlander, a European engineer
 working in Mexico. The following year, 1938, a small group including Weitlander's
 daughter and anthropologist Jean Basset Johnson became "the first whites to attend a
-nightlong mushroom ceremony, or velada." This event marked the beginning of direct
+nightlong [[maria-sabina-and-mazatec-mushroom-ceremony]], or velada." This event marked the beginning of direct
 ethnographic documentation of the mushroom ritual that would later become famous through
-the work of Gordon and Valentina Wasson.
+the work of Gordon and [[shroom-cultural-history-western-discovery-valentina-wasson]].
 
 McKenna presents the 1938 velada as a watershed moment, though one whose significance
 would not be fully appreciated for decades. The interruption of the Second World War
@@ -63,9 +63,9 @@ study of psychoactive plants. "Schultes believed that Reko's mushroom might be t
 mysterious teonanacatl described by the Spanish chroniclers."
 
 Schultes and an anthropology student from Yale, Weston La Barre, published a summation
-of the evidence for teonanacatl being a psychoactive mushroom. In 1938, Schultes
+of the evidence for teonanacatl being a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]. In 1938, Schultes
 accompanied Reko to the village of Huatla de Jimenez in the Sierra Mazatecan highlands,
-where specimens of psychoactive mushrooms were collected and forwarded to Harvard.
+where specimens of [[ceremonial-shamanic-use-psychoactive-mushrooms]] were collected and forwarded to Harvard.
 
 McKenna emphasises the timing of this work. "Larger forces were afoot during the late
 thirties; like research in many other areas, ethnobotanical research slowed to a stop as
@@ -87,12 +87,3 @@ argued in 1919 — Schultes established the factual basis for all subsequent res
 the cultural and pharmacological significance of psilocybin-containing mushrooms.
 
 ## Connecting to the Wasson and Hofmann Discoveries
-
-McKenna places the Reko-Schultes episode within the larger narrative that culminates in
-Gordon Wasson's famous 1957 Life magazine article and Albert Hofmann's 1958 isolation
-and synthesis of psilocybin. The work of Reko, Wassen, Johnson, Schultes, and La Barre
-created the intellectual foundation upon which these later breakthroughs were built.
-
-See also [[mckenna-discovery-and-impact-of-lsd]] for Hofmann's role, and
-[[schultes-peyote-and-mescaline]] for Schultes's broader contributions to
-ethnopharmacology.

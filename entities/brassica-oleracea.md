@@ -36,7 +36,7 @@ B. oleracea is rich in glucosinolates, vitamin C, vitamin K, and fiber. Epidemio
 
 **Species:** B. oleracea L.
 
-The wild type (var. oleracea) is a biennial or perennial herb growing along sea cliffs. It forms a rosette of thick, glaucous leaves and produces yellow flowers with four petals in a typical crucifer arrangement.
+The wild type (var. oleracea) is a biennial or perennial [[herb-growing-guide]] along sea cliffs. It forms a rosette of thick, glaucous leaves and produces yellow flowers with four petals in a typical crucifer arrangement.
 
 Domesticated forms exhibit extreme morphological variation, all derived from artificial selection on wild-type traits.
 
@@ -57,9 +57,9 @@ Cabbage and Brussels sprouts are typically transplanted as seedlings. Broccoli a
 
 The species is moderately nutrient-demanding, requiring adequate nitrogen and consistent moisture. Clubroot (Plasmodiophora brassicae) and cabbage aphid (Brevicoryne brassicae) are the most significant pests.
 
-Crop rotation with non-Brassicaceae species for 3–4 years reduces clubroot pressure. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with aromatic herbs (mint, rosemary, thyme) can deter flea beetles and cabbage moths.
+[[coleman-cover-crop-rotation-and-soil-health]] with non-Brassicaceae species for 3–4 years reduces clubroot pressure. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with aromatic herbs (mint, rosemary, thyme) can deter flea beetles and cabbage moths.
 
-Successional sowing every 2–3 weeks extends the harvest window. In temperate climates, late-season kale and Brussels sprouts improve in flavor after frost exposure.
+Successional sowing every 2–3 weeks extends the [[harvest-window-cannabis]]. [[query-how-to-grow-and-use-oca-in-temperate-climates]], late-season kale and Brussels sprouts improve in flavor after frost exposure.
 
 ## Nutritional Value
 
@@ -73,13 +73,13 @@ Carotenoids including lutein, zeaxanthin, and beta-carotene are present in darke
 
 ## Bioactive Compounds and Pharmacology
 
-The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] B. oleracea are glucosinolates, a class of sulfur-containing secondary metabolites. Major glucosinolates include glucoraphanin (precursor to sulforaphane), sinigrin, and glucobrassicin.
+The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] B. oleracea are glucosinolates, a class of sulfur-containing [[antifungal-secondary-metabolites-coprophilous-fungi]]. Major glucosinolates include glucoraphanin (precursor to sulforaphane), sinigrin, and glucobrassicin.
 
 Myrosinase, an endogenous enzyme, hydrolyzes glucosinolates upon tissue damage (chewing, cutting, cooking disruption). This produces isothiocyanates, nitriles, and indoles with documented biological activity.
 
 Sulforaphane has been extensively studied for its Nrf2 pathway activation, which upregulates phase II detoxification enzymes. In vitro and animal studies demonstrate anti-inflammatory, neuroprotective, and chemopreventive properties.
 
-Indole-3-carbinol, derived from glucobrassicin, modulates estrogen metabolism via the 2-hydroxylation pathway. This has generated research interest in breast cancer risk reduction, though human trial data remain inconclusive.
+Indole-3-carbinol, derived from glucobrassicin, modulates estrogen metabolism via the 2-hydroxylation pathway. This has generated research interest in [[blesching-cannabis-breast-cancer]] risk reduction, though human trial data remain inconclusive.
 
 Regular consumption of Brassica vegetables is inversely associated with colorectal, lung, and gastric cancers in prospective cohort studies. The evidence is strongest for raw or minimally cooked preparations that preserve myrosinase activity.
 
@@ -88,30 +88,3 @@ Regular consumption of Brassica vegetables is inversely associated with colorect
 Wild B. oleracea is a pioneer species on coastal cliffs and shingle beaches in Atlantic Europe. It tolerates salt spray and nutrient-poor substrates, making it ecologically significant in maritime plant communities.
 
 In permaculture systems, kale and collards serve as productive perennial-style vegetables. They produce edible leaves for 6–9 months in temperate climates with minimal maintenance after establishment.
-
-The crop functions as a nutrient accumulator, drawing minerals from deep soil layers. Its large leaf canopy provides weed suppression and can serve as a living mulch when intercropped with shallow-rooted species.
-
-B. oleracea residues contribute significant biomass to compost systems. The high sulfur content of Brassica residues supports microbial activity in thermophilic composting.
-
-Fall-planted kale and Brussels sprouts provide winter forage for poultry and livestock in temperate zones. Their cold tolerance allows harvest when other green fodder is unavailable.
-
-biofumigation and brassica cover crops for pest management crops, including forage radish (Raphanus [[raphanus-sativus-var-longipinnatus]]. longipinnatus) and mustard greens, are used as biofumigants. When incorporated into soil, glucosinolate hydrolysis products suppress soil-borne pathogens and nematodes.
-
-In traditional [[fukuoka-european-agriculture-observations]], cabbage was a critical winter storage vegetable. Fermentation as sauerkraut (with lactic acid bacteria) preserved the crop for months and enhanced its nutritional profile through vitamin C retention and probiotic development.
-
-## Historical Significance
-
-B. oleracea was first domesticated in the eastern Mediterranean and Asia Minor around 1000 BCE. Selective breeding by ancient Greeks and Romans produced early head cabbage and kohlrabi forms.
-
-By the Middle Ages, distinct morphotypes had spread throughout Europe. Belgian farmers developed Brussels sprouts in the 16th century, and broccoli was cultivated in Italy by the Roman era.
-
-The species became a global commodity crop through European colonization. It now ranks among the top 10 vegetable crops worldwide by production volume.
-
-## See Also
-
-- [[sinapis-alba]]
-- [[arabidopsis-thaliana]]
-- [[quercetin]]
-- [[capsicum-annuum]]
-- [[daucus-carota]]
-- [[allium-cepa]]

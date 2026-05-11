@@ -88,39 +88,3 @@ Modern [[hofmann-lsd-clinical-research-early-studies]] has formalized the connec
 mystical-type experiences. The [[early-paris-psilocybin-research-1960s]] program at Johns Hopkins
 developed validated scales (the Mystical Experience Questionnaire) to quantify
 psychedelic experiences that participants rate as among the most meaningful of
-their lives. These experiences are characterized by a sense of unity, transcendence
-of time and space, deeply felt positive mood, and the noetic quality of
-encountering objective truth — precisely the features that [[metzner-william-james-radical-empiricism-multiple-consciousness]]
-identified as the marks of genuine mystical experience in his landmark work "The
-Varieties of Religious Experience."
-
-Long-term follow-up studies show that a single high-dose psilocybin session can
-produce sustained increases in openness to experience, prosocial behavior, and
-nature-relatedness — effects that mirror the transformative outcomes reported in
-traditional religious contexts. The convergence between laboratory findings and
-millennia of indigenous practice suggests that psychedelics reliably catalyze
-certain types of spiritual experience across cultures and historical periods,
-though the interpretive frameworks used to make sense of these experiences vary
-enormously.
-
-## Theology and Philosophy of Psychedelic Experience
-
-Psychedelic experiences have generated rich theological and philosophical
-discourse. Huston Smith argued that psychedelics function as "chemical
-facilitators" — tools that can facilitate genuine mystical insight when used
-within appropriate frameworks, but which cannot substitute for the sustained
-spiritual practice that traditions cultivate over years or decades. R. Gordon
-Wasson and others proposed that psychoactive mushrooms were central to the
-origins of human religion itself, a controversial but influential hypothesis in
-the field of ethnomycology. The ongoing dialogue between psychedelic science
-and religious studies continues to illuminate fundamental questions about
-consciousness, meaning, and the nature of religious experience.
-
-## Related
-
-- [[psilocybin-and-mystical-experience]]
-- [[eleusinian-mysteries-history-and-structure]]
-- [[amanita-muscaria-ethnobotany]]
-- psychedelic spirituality and religion
-- [[sacred-sacrament-mushroom-rites]]
-- [[turner-brief-history-psychedelics-ancient-to-modern]]

@@ -1,5 +1,5 @@
 ---
-title: permaculture Access Design
+title: Permaculture Access Design
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -8,11 +8,11 @@ sources: [papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Permaculture Access and Circulation Design
 Updated: 2026-18-04
-Access design in permaculture encompasses roads, paths, tracks, and
+Access [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] encompasses roads, paths, tracks, and
 circulation patterns that connect zones, minimise energy expenditure, and
-integrate with water harvesting and earthworks. Mollison's Designers' Manual
+integrate with water [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]. Mollison's Designers' Manual
 treats access as a critical element that shapes the entire site layout and
-must be planned early in the design process.
+must be planned early in the [[gaias-garden-design-process]].
 ## Access Planning Principles
 Access routes should:
 - Follow contours to minimise grade and erosion
@@ -61,7 +61,7 @@ Permaculture access routes serve multiple functions simultaneously:
   as evacuation routes and management access during fire events
 - **Windbreaks**: Roadside plantings provide wind protection for adjacent
   crops and livestock while stabilising road edges against erosion
-- **Wildlife corridors**: Hedgerows along access routes create habitat
+- **[[permaculture-designers-manual-wildlife-corridors]]**: Hedgerows along access routes create habitat
   connectivity across the landscape, linking remnant vegetation patches
 - **Fencing**: Access routes define paddock boundaries, reducing the total
   length of fencing needed when roads serve double duty as boundary features
@@ -83,16 +83,8 @@ Roads and paths are inseparable from water management design. Every road is a
 water catchment surface, and every path is a potential drainage line. Mollison
 recommends designing road crowns, culverts, and energy dissipators as integral
 components of the site water management system. Road runoff can be directed to
-stock tanks, garden irrigation, or wetland systems. In urban contexts,
+stock tanks, [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]], or wetland systems. In urban contexts,
 permeable paving materials allow rainwater infiltration rather than generating
 stormwater runoff. The most elegant access designs make water management
 invisible -- the road appears simply as a road, while simultaneously
 performing sophisticated hydrological functions.
-## Related Concepts
-- [[permaculture-urban-design]]
-- [[permaculture-designers-manual-temperate-climate-design]]
-- [[query-how-does-keyline-design-work-in-permaculture]]
-- [[permaculture-building-design]]
-- [[permaculture-water-harvesting]]
-- [[keyline-design]]
-- [[zone-and-sector-analysis]]

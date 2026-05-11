@@ -1,5 +1,5 @@
 ---
-title: Elastomer-Penetrating [[microwave-sterilization-of-enclosed-systems]] Enclosed Biological Systems
+title: Elastomer Penetrating Microwave Sterilization Enclosed Systems
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 topics: [microwave, sterilization, elastomer, enclosed system, NASA, aseptic transfer]
 ---
@@ -88,62 +88,3 @@ The effective sterilization depth [[microwave-penetration-through-elastomeric-ma
 
 - **Material thickness**: Thicker elastomers attenuate the microwave signal more.
   Practical penetration depths for 2.45 GHz in silicone are on the order of
-  several centimeters, far exceeding typical seal thicknesses (1–5 mm).
-- **Frequency**: Higher frequencies (e.g., 5.8 GHz) have shorter penetration depths
-  but higher energy density at the surface. The 2.45 GHz frequency was chosen as
-  a compromise between penetration and heating efficiency.
-- **Antenna design**: Focused or directional antennas can deliver higher power
-  density to specific areas, improving sterilization effectiveness through
-  thicker barriers.
-- **Exposure time**: Longer exposure compensates for reduced power delivery through
-  absorbing materials.
-
-## Implications for Mycological Sterilization
-
-The elastomer-penetration capability has direct relevance to [[accessible-mushroom-cultivation-for-disabilities]]:
-
-### Syringe Needle Sterilization
-Spore syringes and liquid culture syringes use rubber stoppers and elastomeric
-plunger seals. Microwave sterilization could potentially sterilize the entire
-internal fluid path, including behind rubber components, without disassembly.
-
-### Jar Lid Systems
-Mushroom cultivation jars with self-healing injection ports (typically silicone)
-could be sterilized in situ, maintaining sterility of the port material while
-simultaneously treating any contaminated surfaces beneath.
-
-### Tubing and Transfer Lines
-Liquid culture transfer lines often use silicone or vinyl tubing with barbed
-fittings. Microwave energy could penetrate the tubing walls to sterilize
-internal surfaces that are difficult to reach with chemical methods.
-
-### Glove Box and Still Air Box Seals
-The elastomeric gloves and seals of contamination-controlled workspaces could be
-sterilized without removal, potentially improving sterility between uses.
-
-## Terrestrial Applications Beyond Space
-
-While developed for NASA spaceflight applications, the technology has broader
-relevance:
-
-- **Pharmaceutical manufacturing**: Aseptic filling lines with elastomeric seals
-- **Medical device sterilization**: Devices with rubber components that cannot
-  withstand autoclaving
-- **Food processing**: Sealed packaging systems requiring terminal sterilization
-- **Biological research**: Tissue culture ports and sampling systems
-- **Veterinary medicine**: Reproductive and diagnostic equipment sterilization
-
-## Limitations
-
-The elastomer-penetration approach has constraints:
-- Not all elastomers are microwave-transparent; material selection is critical
-- Metal components near elastomeric seals can create microwave shielding or
-  arcing problems
-- Sterilization effectiveness must be validated for each specific configuration
-- The trace water requirement for spore kill still applies within enclosed systems
-## See Also
-
-- [[microwave-sterilizable-access-port-nasa-space-biology]] — Full MSAP system
-- [[trace-water-flash-steam-microwave-sterilization]] — Water-enhanced sterilization
-- [[microwave-sterilization-system-hardware-architecture]] — Antenna and waveguide design
-- [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] — Spore resistance

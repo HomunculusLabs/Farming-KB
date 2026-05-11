@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Endometriosis — Pain and Inflammatory Management"
+title: Blesching Cannabis Endometriosis Pain Inflammation
 source: uwe-blesching-the-cannabis-health-index.md
 author: Blesching
 tags: [cannabis, endometriosis, pelvic-pain, inflammation, CBD, THC, endometrium, dysmenorrhea]
@@ -26,7 +26,7 @@ Despite its prevalence, diagnosis is frequently delayed by an average of 7-10
 years from symptom onset, partly because symptoms overlap with other conditions
 and partly because definitive diagnosis requires laparoscopic surgery.
 
-The disease [[blesching-cannabis-sickle-cell-disease-pain-inflammation]] carries enormous economic and social costs: lost work productivity,
+The disease [[blesching-cannabis-sickle-cell-disease-pain-inflammation]] carries enormous [[holmgren-economic-and-social-succession]] costs: lost work productivity,
 repeated medical consultations, surgical interventions, and the psychological
 burden of chronic pain and potential infertility.
 
@@ -64,7 +64,7 @@ Symptoms vary widely in severity and may include:
 
 ### Conventional Treatment Approaches
 
-Standard management strategies include:
+Standard [[weed-management-strategies]] include:
 
 - **Pain management**: NSAIDs, acetaminophen, and opioid analgesics for
   symptom relief
@@ -83,56 +83,8 @@ nature of both diagnosis and treatment.
 ### Cannabis and Endometriosis Research
 
 The endocannabinoid system is increasingly recognized as relevant to
-endometriosis pathophysiology and symptom management:
+endometriosis pathophysiology and [[cannabis-cancer-symptom-management]]:
 
 **Endocannabinoid System in the Uterus**: Both CB1 and CB2 receptors are
 expressed in human endometrial tissue, and levels fluctuate with the menstrual
 cycle. The endocannabinoid anandamide (AEA) appears to play a role in
-embryo implantation and uterine function. Dysregulation of the endocannabinoid
-system has been observed in women with endometriosis.
-
-**Anti-inflammatory Mechanisms**: Cannabinoids, particularly CBD, demonstrate
-potent anti-inflammatory effects through multiple pathways — inhibition of
-COX-2 and prostaglandin production, suppression of pro-inflammatory cytokines
-(TNF-alpha, IL-1beta, IL-6), and modulation of immune cell activity. Since
-prostaglandins are major mediators of endometriosis-associated pain, this
-mechanism is directly relevant.
-
-**Pain Modulation**: THC acts on CB1 receptors in pain pathways of the central
-nervous system, while CBD modulates pain through multiple receptor-independent
-mechanisms including TRPV1 (vanilloid) activation and inhibition of endocannabin
-oid reuptake. This multi-target approach may be particularly effective for
-the complex, multi-factorial pain of endometriosis.
-
-**Patient-Reported Outcomes**: Growing numbers of women with endometriosis
-report using cannabis to manage pelvic pain, dysmenorrhea, and associated
-symptoms. Surveys indicate many patients find cannabis more effective than
-conventional pain medications, with fewer side effects.
-
-### Strain Considerations
-
-Based on the inflammatory and pain-dominant profile of endometriosis,
-indica-dominant strains with higher CBD content may offer particular benefit
-by combining analgesic effects with anti-inflammatory properties. However,
-individual responses vary considerably, and some patients prefer sativa-dominant
-strains for daytime symptom management.
-
-### Summary
-
-Endometriosis is a complex inflammatory condition with significant unmet
-medical needs. The endocannabinoid system's presence in uterine tissue, its
-role in pain modulation, and the anti-inflammatory properties of cannabinoids
-provide a strong theoretical basis for cannabis as an adjunctive therapy.
-While clinical trials specific to endometriosis remain limited, the converging
-evidence from related research areas and growing patient reports support
-further investigation of cannabinoid-based treatments.
-
-## See Also
-
-- Cannabis and pain management
-- Endocannabinoid system in reproductive health
-- Cannabis anti-inflammatory properties
-- Cannabidiol (CBD) and prostaglandin inhibition
-- [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]
-- [[harlequin-high-cbd-medical-sativa-strain]]
-- [[anandamide-and-the-endocannabinoid-system]]

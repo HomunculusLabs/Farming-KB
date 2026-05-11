@@ -1,5 +1,5 @@
 ---
-title: Soil Type cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains vs Strain Community Structure in cultivar-cannabis-microbiome-two-tier-selection-model
+title: Soil Type Otu Abundance Vs Strain Structure Cannabis Microbiome
 created: 2026-05-08
 tags: [microbiology, cannabis, microbiome, soil-science, otu-analysis, plant-microbe-interactions, community-ecology, endorhiza]
 date: 2026-05-08
@@ -21,7 +21,7 @@ The two-tier [[two-tier-selection-model-plant-microbiome]] predicts that edaphic
 the broad composition of available microbial taxa in bulk soil, while host
 genotype (cultivar/strain) fine-tunes the community that actually colonizes
 the endorhiza. This model was tested by analyzing OTU distributions across
-multiple Cannabis strains grown in different soil types.
+multiple [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] grown in different soil types.
 
 ## Unweighted vs Weighted UniFrac Results
 
@@ -71,7 +71,7 @@ The most dramatic strain-specific abundance difference was the enrichment of
 *Pseudomonas* in one cultivar's endorhiza versus its near-absence in another.
 One OTU of *Methylophilus* comprised 13% of the [[edaphic-factors-microbial-community-structure]] in the
 Bookoo Kush endorhiza, only 0.13% in Burmese, and was entirely absent from
-Sour Diesel. This extreme enrichment illustrates how strain-level differences
+[[cannabis-sour-diesel]]. This extreme enrichment illustrates how strain-level differences
 can produce large shifts in community proportions even when the underlying
 taxonomic membership is similar.
 
@@ -85,50 +85,6 @@ predominantly Proteobacteria, specifically from the orders:
 - *Rhizobiales*
 
 Bacteroidetes from the orders *Sphingobacteriales* and *Flavobacteriales*
-also contributed to strain differentiation. Notably, *Sphingomonas wittichii*
-was prevalent in the Maui Wowie strain and has been implicated in increased
+also contributed to [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]. Notably, *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*
+was prevalent in the [[maui-wowie]] strain and has been implicated in increased
 survival in soil environments through its ability to metabolize phenazine-1-
-carboxylic acid.
-
-## Implications for Agricultural Practice
-
-These findings suggest that:
-- Soil selection has the largest single effect on the microbial community
-  available to Cannabis roots
-- Cultivar choice fine-tunes which of those available organisms thrive
-- Breeding for specific microbial associations would need to focus on
-  [[amf-biocontrol-phytophthora-root-exudate-modification]] profiles that selectively enrich beneficial taxa
-- Soil amendment strategies can shift the available species pool more
-  dramatically than cultivar selection alone
-
-## Methodological Considerations
-
-The use of paired unweighted and weighted UniFrac analyses is essential for
-distinguishing between compositional and structural effects in microbiome
-studies. A study relying on only one metric would miss half the picture.
-The 16S rRNA V4 region sequencing approach (via the Earth Microbiome
-Project standard pipeline) provided adequate resolution for genus-level
-differentiation, though strain-level functional differences within genera
-remain an open question.
-
-## Broader Relevance
-
-This pattern — where environment governs community membership and host
-genotype governs relative abundance — has been observed in other plant
-species including Arabidopsis, maize, and rice, suggesting it may be a
-general principle of plant-microbiome assembly rather than a Cannabis-
-specific phenomenon.
-
-## See Also
-
-- [[two-tier-selection-model-plant-microbiome]]
-- [[cannabis-endorhiza-microbiome]]
-- [[alpha-beta-diversity-cannabis-root-microbiomes]]
-- [[cannabis-endorhiza-shared-otu-soil-source-validation]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]
-
-## Source
-
-- Winston ME, Hampton-Marcell J, Zarraonaindia I, et al. Understanding
-  Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome.
-  *PLoS ONE* 9(6): e99641, 2014.

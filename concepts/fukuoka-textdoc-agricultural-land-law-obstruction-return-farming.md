@@ -1,10 +1,11 @@
 ---
-title: "[[fukuoka-textdoc-absence-no-fertilizer-tests]] agricultural land law obstruction return farming Law as Obstruction to Return Farming"
+title: Fukuoka Textdoc Agricultural Land Law Obstruction Return Farming
 created: 2026-04-28
-tags: [fukuoka, natural-farming, land-policy, agricultural-law, farming-for-all, quarter-acre-farming]
+tags: [fukuoka, [[natural-farming]], land-policy, agricultural-law, farming-for-all, quarter-acre-farming]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,59 +88,10 @@ buy land nor formally lease and work it as tenant farmers.
 It is not that there is no farmland available, but that
 there is no category of land that anyone can freely work.
 Not one square yard of land that goes by the name of
-farmland is available for purchase by city people.
-
-## Eighty Percent Wilderness Locked Away
-
-The mountains, forests, and other wilderness land that
-accounts for about eighty percent of Japan's land area is
-tied up by titles and laws that prevent its practical use.
-If even a small portion of this area were freed for use as
-agricultural land, homesteading would begin immediately.
-These farmlands can be expanded and made fluid not by
-establishing new laws but by abolishing unnecessary ones.
-
-## Artificial Inflation of Farmland Prices
-
-The current price of farmland has been artificially inflated
-over the natural price. For prime farmland, the best price
-was 110 bushels of rice per quarter-acre. Farmers used this
-rate as a yardstick whenever they bought and sold land to
-each other. This standard should continue to be maintained.
-
-Prices and taxes on farmland became unjustly high when
-farmland began to be assessed on the same scale as housing
-land by local government. This was clearly designed to drive
-farmers off the land by burdening them with taxes too high
-for them to afford with the meager earnings generated on
-their land.
-
-## The Tragedy of Urban Expansion
-
-The oases of green left in towns and cities are no longer
-farmlands and are vanishing from the reach of the farmer.
-Someday, the hardships of the farmer will return, in the
-form of calamity, to threaten the well-being of those
-living in the cities. The net result is that the land is
-being taken out of the hands of farmers. The Agricultural
-Land Law, established to protect tenant farmers, today
-serves no other purpose than to thwart the hopes of those
-wishing to become farmers.
-
-## Fukuoka's Proposed Alternative
-
-No one knows more about farmland than farmers. If things
-had been left in their hands, there would have been no need
-for any laws. When people can do without a law, it is best
-not to have that law. Only the barest minimum of laws is
-needed to create a world that can get along without laws.
 
 ## See Also
-
-- [[fukuoka-textdoc-farming-all-land-law-obstacles]]
-
-- [[fukuoka-textdoc-farming-for-all-vision]] for the
-  broader vision of quarter-acre farming
 - [[fukuoka-textdoc-farmland-law-obstruction-return-farming]]
-  for related legal analysis
-- fukuoka-textdoc-mu-economics-natural-farming-beyond-money
+- [[fukuoka-textdoc-farming-all-land-law-obstacles]]
+- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
+- [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
+- [[fukuoka-textdoc-three-types-farming-comparison-yields]]

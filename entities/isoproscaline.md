@@ -88,25 +88,3 @@ As with all phenethylamines, individuals with cardiovascular conditions, schizop
 Isoproscaline is unscheduled in most jurisdictions but may fall under analogue acts in countries with comprehensive drug scheduling frameworks. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act potentially applies, though prosecution specifically for isoproscaline is unrecorded.
 
 In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 may encompass isoproscaline as a psychoactive substance. In Germany, the NpSG (New Psychoactive Substances Act) may apply to unlisted phenethylamine derivatives.
-
-The compound is controlled by name in few countries due to its rarity. Legal status should be verified for each jurisdiction as regulations evolve with emerging psychoactive substances.
-
-## Related Compounds
-
-**Proscaline** (3,5-dimethoxy-4-ethoxyphenethylamine) is the closest structural analog, differing only in the 4-position alkoxy [[phenethylamine-chain-length-effects]] (ethoxy vs. isopropoxy). Proscaline has a similar dose range and slightly shorter duration.
-
-**Mescaline** (3,4,5-trimethoxyphenethylamine) is the parent compound of this series, with all three positions substituted by methoxy groups. Mescaline is significantly less potent (200–400 mg dose) with a shorter duration (6–10 hours).
-
-**Escaline** (3,5-dimethoxy-4-ethoxyphenethylamine, an isomer) and **allylescaline** (3,5-dimethoxy-4-allyloxyphenethylamine) represent further structural variations. The allyloxy group in allylescaline introduces potential for covalent receptor binding.
-
-## See Also
-
-- [[mescaline]]
-- [[allylescaline]]
-- [[2c-b]]
-- [[pihkal-introduction-and-methodology]]
-- [[myristicin-entity]]
-- [[lophophora-williamsii]]
-- [[echinopsis-bridgesii]]
-- [[muscimol-entity]]
-- ibotenic-acid-entity

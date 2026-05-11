@@ -1,5 +1,5 @@
 ---
-title: williams pdc learning exercises and field activities and Field Activities from the PDC
+title: Williams Pdc Learning Exercises And Field Activities
 created: 2026-04-28
 tags: [permaculture, learning-exercises, field-activities, PDC, hands-on-learning]
 date: 2026-04-28
@@ -32,7 +32,7 @@ Go for a long walk through your neighborhood and observe the physical
 and behavioral patterns at play. Look for flow patterns, edge patterns,
 and the relationship between built and natural environments. This
 develops the pattern recognition skills essential for the design from
-patterns to details principle.
+[[permaculture-design-from-patterns-to-details]] principle.
 
 ## Site Analysis Exercise
 
@@ -73,7 +73,7 @@ potential.
 
 Go on the internet and join the FreeCycle group for your area. This
 exercise demonstrates the abundance of reusable materials available in
-any community and connects to the permaculture principle of producing
+any community and connects to the [[permaculture-principle-apply-self-regulation]] of producing
 no waste by valuing resources that others discard.
 
 ## Design Project
@@ -87,21 +87,3 @@ observation, sectors, soil samples, surface water flow, zones), running
 charettes, and making a final presentation.
 
 ## Key Learning Principles
-
-- The outside world is the best research tool for understanding ecology
-- Learning is a combination of reading, discussion, field observation,
-  and hands-on practice
-- Each exercise builds skills that integrate with the broader
-  [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] framework
-- Local knowledge and site-specific research are always prioritized
-  over generic solutions
-- Observation should precede interpretation in all exercises
-- Understanding permaculture is a lifetime endeavor; the PDC provides
-  the framework for continued learning
-
-## See Also
-
-- pdc-practical-exercises-and-field-activities
-
-- [[williams-pdc-sustainability-history-and-definition]]
-- [[williams-pdc-inventories-and-observation]]

@@ -1,8 +1,8 @@
 ---
-title: [[falconer-mushroom-bed-boxing-and-protection]] Cooking Selection and Preparation
+title: Falconer Mushroom Cooking Selection And Preparation
 created: 2026-04-28
-tags: [mushroom-cultivation]], victorian-cooking, food-preparation,
-   mushroom-identification, kitchen-skills]
+tags: [[mushroom-cultivation]], victorian-cooking, food-preparation,
+   [[mushroom-identification]], kitchen-skills]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -88,61 +88,3 @@ using these principles.
 ## Storing Gathered Mushrooms
 
 When the frill is broken wide apart at gathering time, the caps are apt
-to open out flat in a day or two, and the gills darken and spread their
-spores, just as if the mushrooms were still unsevered from the ground.
-This makes prompt use essential. For best quality, gather mushrooms
-just as the frill begins to separate, and cook them the same day. If
-storage is necessary, the cool, dark earthenware vessel method will
-preserve them for one to two days at most.
-
-See [[falconer-mushroom-preserving-and-drying]] for longer-term storage
-methods including drying, pickling, and bottling.
-
-## Preventing Darkening
-
-If, after preparing but before cooking the mushrooms, you pour some
-boiling water over them and into this drop a little vinegar or lemon
-juice, then drain them off through a colander, you can prevent, to a
-great extent, their darkening influence on soups and stews, but always
-at the expense of their flavor. The preference should always be for
-flavor over appearance.
-
-## Key Principles for the Cook
-
-Several principles emerge from Falconer's treatment of mushroom
-preparation and cooking:
-
-- Peel large mushrooms; rub small ones with vinegar
-- Serve immediately and always hot
-- Keep covered during cooking and serving to preserve aroma
-- Prefer flavor over appearance in all cases
-- Use stems separately for ketchup, sauces, and flavouring
-- Never wash mushrooms unless absolutely necessary
-
-## Victorian Cooking Methods
-
-Falconer's era offered several distinct cooking methods, each producing
-different textures and flavours:
-
-- **Broiling:** Quick, high-heat cooking that produces a concentrated
-  flavour with slightly crisp edges. Place caps gill-side up on a
-  broiler, season with butter and salt, and cook until juices run.
-- **Baking:** Slow, even cooking in a covered dish. Mushrooms stew in
-  their own juices, producing a tender, deeply flavoured result.
-  This was Falconer's preferred method.
-- **Stewing:** Mushrooms are gently simmered in butter, cream, or a
-  light stock. Suitable for older mushrooms with tougher texture.
-- **Frying:** Fast cooking in butter or dripping. Best for small,
-  tender buttons. The key is very hot butter and quick cooking to
-  avoid making them tough.
-- **Stuffing:** Large caps are filled with seasoned breadcrumb
-  mixtures, sometimes including chopped stems, herbs, and cheese,
-  then baked until golden.
-
-## Nutritional Considerations
-
-Mushrooms were valued in the Victorian era for more than just flavour.
-They offered important nutritional benefits, particularly during winter
-## See Also
-
-- [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]

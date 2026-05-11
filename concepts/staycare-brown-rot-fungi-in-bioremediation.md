@@ -88,26 +88,3 @@ chemical oxidation of contaminated soils.
 ## Synergistic Applications
 
 The complementary enzyme profiles of brown rot and white rot fungi suggest
-potential for synergistic applications in bioremediation. Brown rot fungi
-could be used for initial pollutant transformation and tolerance at high
-concentrations, followed [[fungal-degradation-of-pcbs-by-white-rot-fungi]] fungi for more complete
-mineralization through ligninolytic enzyme systems. Such sequential or
-co-culture approaches may overcome limitations of using either group alone.
-
-## Future Research Directions
-
-Future research on brown rot fungi in bioremediation should focus on
-elucidating the specific non-enzymatic mechanisms responsible for pollutant
-transformation, characterizing the metabolites produced during degradation,
-and evaluating the toxicity of these metabolites. Screening programs
-targeting diverse brown rot species may identify strains with enhanced
-degradative capabilities. Field trials comparing brown rot and white rot
-fungi would provide valuable data on the practical applicability of brown
-rot fungi for environmental remediation at commercial scales.
-
-## See Also
-
-- [[bioremediation-fenton-chemistry-brown-rot-fungi]]
-
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[staycare-fungal-pesticide-pop-degradation]]

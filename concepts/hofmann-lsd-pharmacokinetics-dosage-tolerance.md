@@ -1,5 +1,5 @@
 ---
-title: hofmann lsd pharmacokinetics dosage tolerance Dosage and Tolerance
+title: Hofmann [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]] Dosage Tolerance
 created: 2026-04-28
 tags:
   - lsd
@@ -20,7 +20,7 @@ type: concept
 
 LSD occupies a unique position among psychopharmaceuticals, not only
 because of its qualitative specificity for the human psyche, but due
-to its extraordinary quantitative potency. The active dose of mescaline,
+to its extraordinary quantitative potency. The active dose of [[mescaline]],
 0.2 to 0.5 g, is comparable to merely 0.00002 to 0.0001 g of LSD. In
 other words, LSD is some 5,000 to 10,000 times more active than
 mescaline. The first self-experiment by Hofmann used 0.25 mg of LSD
@@ -88,52 +88,7 @@ kg body weight).
 
 The effect of orally administered Delysid sets in after 30 to 90
 minutes and generally lasts 5 to 12 hours. However, intermittent
-disturbances of affect may occasionally persist for several days. The
-subconscious aftereffects can extend even further. Werner A. Stoll
-reported a casual, slightly dream-like condition persisting into the
-afternoon of the day following his experiment, and mild but distinct
-depression during the following week. The duration appears to vary
-significantly between individuals and depends on dosage, set, and
-setting.
 
-## Tolerance Characteristics
-
-LSD exhibits rapid development of tolerance. With daily administration,
-increasingly larger doses are required to achieve the same psychic
-effects. This tolerance fades quickly with abstinence, typically within
-a few days. This characteristic distinguishes LSD from many other
-psychoactive substances and has important implications for both
-therapeutic use and recreational consumption. The rapid tolerance
-development may partly explain why LSD does not produce the pattern of
-compulsive daily use seen with many other drugs of abuse.
-
-## Stability and Storage
-
-The Delysid prospectus noted that unopened ampoules protected against
-light and stored in a cool place were stable for an unlimited period.
-Opened ampoules or diluted solutions retained effectiveness for 1 to 2
-days if stored in a refrigerator. This stability contrasts with many
-other sensitive [[fungal-volatile-organic-compounds-communication]] and reflects the inherent chemical
-robustness of the [[ergot-and-lysergic-acid-history]] framework. The stability of LSD
-contributed to its practical utility as a research tool and, ironically,
-to its attractiveness as an illicit substance, as it could be
-transported and stored without special precautions.
-
-## Administration Routes
-
-For oral administration, the contents of one ampoule of Delysid were
-diluted with distilled water, a 1% solution of tartaric acid, or
-halogen-free tap water. The absorption of the solution was somewhat
-more rapid and constant than that of the tablets. The solution could
-also be injected subcutaneously or intravenously, with effects
-identical to oral administration but more rapid in onset. These
-multiple administration routes gave clinicians flexibility in designing
-LSD sessions for different therapeutic purposes.
-
-## Related Topics
-
-- [[hofmann-lsd-pharmacology-serotonin-brain]] for neurotransmitter
-  interactions
-- [[hofmann-delysid-product-psychotherapy]] for clinical [[blesching-cannabis-health-index-dosage-guidelines-medical]]
-- [[hofmann-lsd-clinical-research-early-studies]] for early human dosing
-  studies
+## See Also
+- [[hofmann-delysid-product-psychotherapy]]
+- [[pf-tek-stamets-dosage-reference-psilocybin-potency-guidelines]]

@@ -87,37 +87,3 @@ a core technique in [[permaculture-succession]].
 smothers existing weeds and creates a planting bed without tilling, preserving
 soil structure and fungal networks while providing a clean slate for planting
 desired species at any succession stage.
-
-**Design [[permaculture-guild-design]] where species support each other,**
-mimicking the interdependent plant communities found in mature ecosystems.
-Combined plantings that include nitrogen fixers, [[comparison-dynamic-accumulators-vs-cover-crops]], pest
-confusers, and food producers create functional analogs of mature forest
-communities.
-
-## The Bullock Brothers Example
-
-The Bullock brothers of Orcas Island, Washington, transformed a brambled,
-overgrown field into a verdant young food forest in less than a decade. Above
-a restored wetland, where blackberries once sprawled, branches laden with
-plums and cherries now cast dappled shade on nasturtium blossoms. Nut trees
-shelter a bamboo grove, and vegetable beds wind into the woods. They created
-this rich landscape by working with nature rather than against her, using
-accelerated succession as their overarching strategy.
-
-## Succession as a Design Tool
-
-Understanding succession helps gardeners in several practical ways. Choose the
-right plants for each stage by planting fast-growing pioneers for quick soil
-building and shade, then interplanting longer-lived species that will
-eventually dominate. Anticipate change by recognizing that your garden will
-evolve, and design for that evolution rather than fighting it. Reduce
-maintenance since a mature ecosystem maintains itself. Work with ecological
-forces by channeling nature relentless push toward forest toward productive
-ends.
-
-## See Also
-
-- [[backyard-food-forest-design|permaculture forest garden design]]
-- [[hemenway-native-versus-exotic-plants-debate]]
-- [[permaculture-designers-manual-pioneer-species|mollison pioneer species]]
-- [[permaculture-pioneer-species]]

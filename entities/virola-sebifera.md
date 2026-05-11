@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-**Virola sebifera**, commonly known as the **uccuba** or **bloodwood tree**, is a tropical tree species in the family Myristicaceae, native to lowland rainforests of Central and South America.
+**Virola sebifera**, commonly known as the **uccuba** or **bloodwood tree**, is a tropical tree species in the family Myristicaceae, native to lowland rainforests of Central and [[guzman-psilocybin-mushrooms-south-america]].
 
-The species is one of several *Virola* species that serve as sources of psychoactive tryptamine alkaloids, particularly 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT), used by indigenous Amazonian peoples in snuff preparations.
+The species is one of several *Virola* species that serve as sources of psychoactive [[hplc-analysis-of-tryptamine-alkaloids]], particularly 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT), used by indigenous Amazonian peoples in snuff preparations.
 
 Beyond its ethnopharmacological significance, *V. sebifera* is valued for its timber, seed fat, and ecological role as a canopy tree in primary and secondary rainforest.
 
@@ -38,7 +38,7 @@ Beyond its ethnopharmacological significance, *V. sebifera* is valued for its ti
 - Genus: *Virola*
 - Species: *V. sebifera* Aubl. (1775)
 
-**Synonyms:** *Myristica sebifera* (Aubl.) Warb., *Virola surinamensis* (Rol. ex Rottb.) Warb. (pro parte)
+**Synonyms:** *Myristica sebifera* (Aubl.) Warb., *[[virola-surinamensis]]* (Rol. ex Rottb.) Warb. (pro parte)
 
 The species epithet *sebifera* derives from Latin *sebum* (tallow) and *ferre* (to bear), referring to the waxy, tallow-like aril that surrounds the seeds.
 
@@ -48,7 +48,7 @@ The species epithet *sebifera* derives from Latin *sebum* (tallow) and *ferre* (
 
 The bark is smooth to finely fissured, grayish-brown to reddish-brown, and exudes a reddish to blood-colored latex when cut — hence the common name "bloodwood."
 
-This reddish exudate is characteristic of many *Virola* species and is one of the key field identification features.
+This reddish exudate is characteristic of many *Virola* species and is one of the key [[palmer-mushroom-hunting-field-identification]] features.
 
 The inner bark is pinkish to reddish and contains the highest concentrations of psychoactive alkaloids.
 
@@ -74,7 +74,7 @@ The seed oil, known locally as "ucuuba butter," has traditional uses as a candle
 
 *V. sebifera* is distributed from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to the Amazon basin, reaching as far south as Bolivia and Brazil's Paraná region.
 
-It occurs in lowland tropical rainforest at elevations up to 800 meters, in both primary and secondary growth forests.
+It occurs in lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] at elevations up to 800 meters, in both primary and secondary [[fungal-roles-in-old-growth-forests]].
 
 The species shows a preference for well-drained soils on terra firme (non-flooded) forest sites, though it can also be found in seasonally flooded areas.
 
@@ -87,34 +87,3 @@ It is a relatively common canopy component, often associated with other Myristic
 Indigenous peoples of the Amazon basin, particularly in the upper Orinoco and Rio Negro regions, traditionally prepare snuff (locally called *epena*, *nyakwana*, or *yakee*) from the inner bark resin.
 
 The preparation process involves collecting fresh inner bark, boiling or toasting it to concentrate the resin, grinding it into a fine powder, and mixing with alkaline plant ash to facilitate nasal absorption.
-
-The snuff is administered via bamboo tubes blown forcefully into the nostrils, producing rapid-onset intense visionary experiences lasting 15–30 minutes.
-
-The primary psychoactive effects are attributed to 5-MeO-DMT, which is active without the addition of a monoamine oxidase inhibitor (MAOI) unlike oral DMT preparations.
-
-## Bioactive Compounds
-
-The principal alkaloids identified in *V. sebifera* inner bark resin include 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) as the dominant constituent.
-
-N,N-dimethyltryptamine (DMT) and 5-hydroxy-N,N-dimethyltryptamine (bufotenine) occur in smaller quantities.
-
-Trace amounts of β-carboline alkaloids, including harmine and harmaline, have also been detected in some populations, though typically at sub-psychoactive levels.
-
-The total tryptamine alkaloid content of dried inner bark can reach 0.1–0.5%, depending on the population, season, and individual tree.
-
-## Ecological and Economic Importance
-
-As a canopy tree, *V. sebifera* provides habitat, food, and nesting sites for numerous arboreal animals including birds, monkeys, and epiphytic plants.
-
-The timber is moderately dense and workable, used locally for construction, furniture, and boat building, though it is not a major commercial timber species.
-
-Ucuuba butter extracted from the seed aril is used in traditional medicine for wound healing, [[cannabis-for-skin-conditions-detailed]], and as a massage oil.
-
-Modern cosmetic and soap industries have shown interest in ucuuba butter as a sustainable alternative to palm oil in certain formulations.
-
-## See Also
-
-- [[dmt]]
-- [[bufotenin]]
-- [[psychotria-viridis]]
-- [[tabernanthe-iboga]]

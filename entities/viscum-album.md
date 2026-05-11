@@ -13,8 +13,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Urech, K. et al. (2005). \"Preparation of Viscum album L. extracts: Optimized methods for the manufacture of standardized preparations.\" Planta Medica, 71(10), 925-930."
-  - "Hübner, J. & Mürl, G. (2006). \"Mistletoe extracts in oncology: An overview of the evidence.\" Journal of Cancer Research and Clinical Oncology, 132(S1), 13."
-  - "Hostettmann, K. et al. (2017). \"psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Viscum album L.: A review.\" Natural Product Communications, 12(7), 1123-1132."
+  - "Hübner, J. & Mürl, G. (2006). \"Mistletoe extracts in oncology: An overview of the evidence.\" Journal of [[cancer-reishi-cancer-research]] and Clinical Oncology, 132(S1), 13."
+  - "Hostettmann, K. et al. (2017). \"[[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of Viscum album L.: A review.\" Natural Product Communications, 12(7), 1123-1132."
   - "Büssing, A. (2000). Mistletoe: The Genus Viscum. Harwood Academic Publishers."
 ---
 
@@ -73,7 +73,7 @@ Native to Europe and western/southern Asia, from the British Isles and
 Scandinavia south to the Mediterranean and east to the Himalayas.
 Naturalized in [[psilocybin-north-america-pacific-northwest]] (northern California, British Columbia).
 
-Host range varies by subspecies:
+[[powdery-mildews-erysiphaceae-diversity-host-range]] varies by subspecies:
 - Subsp. *album*: broad host range on deciduous trees — apple (*Malus*),
   poplar (*Populus*), willow (*Salix*), linden (*Tilia*), oak (*Quercus*)
 - Subsp. *abietis*: restricted to silver fir (*[[quercetin]], homoeriodictyol, and rhamnetin glycosides
@@ -86,41 +86,5 @@ Host range varies by subspecies:
 
 *Viscum album* extracts are the most extensively studied botanical
 anticancer agents in Europe. Standardized fermented extracts (Iscador,
-Helixor, Abnoba) are prescribed as complementary therapy alongside
+Helixor, Abnoba) are prescribed as [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] alongside
 conventional cancer treatment.
-
-Documented effects in clinical and preclinical studies:
-- Improved quality of life in cancer patients (reduced fatigue, nausea,
-  improved sleep and emotional state)
-- Enhanced immune function — increased NK cell activity, elevated
-  neutrophil phagocytosis, and higher CD4⁺/CD8⁺ ratios
-- Reduced chemotherapy and radiation side effects
-- Possible direct antitumor activity via viscotoxin- and lectin-induced
-  apoptosis
-
-⚠️ Evidence for direct tumor regression remains controversial.
-The European Medicines Agency classifies *V. album* preparations
-as traditional herbal medicines, not as proven cancer therapeutics.
-They should complement — not replace — conventional oncology treatment.
-
-### Cardiovascular Effects
-
-Historically used in European folk medicine for hypertension and
-tachycardia. Mild hypotensive effects documented, attributed to
-viscotoxin-mediated vasodilation.
-
-### Traditional European Medicine
-
-Used since antiquity for epilepsy, nervous disorders, and menstrual
-complaints. Dioscorides and Pliny documented its medicinal use.
-The Druidic ritual of harvesting mistletoe with a golden sickle
-is among the most enduring images in European ethnobotany.
-
-## Cultivation and Harvesting
-
-Cultivation is uncommon; most commercial material is wild-harvested.
-Harvest during dormancy (November–March) when lectin content peaks.
-## See Also
-
-- [[aphanocladium-album]]
-- [[lamium-album]]

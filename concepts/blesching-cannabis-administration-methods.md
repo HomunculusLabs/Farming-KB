@@ -88,19 +88,3 @@ and other phytonutrients:
 - **Considerations**: Requires access to fresh cannabis plant material;
   acidic cannabinoids have different pharmacological profiles than their
   decarboxylated forms; preparation is labor-intensive; stability and
-  storage challenges
-
-Blesching notes that [[cannabis-raw-juice-non-psychoactive]] is particularly valued by patients seeking
-high-dose anti-inflammatory effects without any psychoactivity, making it
-suitable for daytime use and patients sensitive to THC.
-
-## Rectal Suppositories
-
-Rectal administration offers a middle ground between oral and inhaled
-routes:
-
-- **Onset**: 15-45 minutes
-## See Also
-
-- [[blesching-cannabis-health-index-dosage-guidelines-medical]] — dosing strategies by administration route
-- [[tetrahydrocannabinolic-acid-thca]] — THCA pharmacology relevant to raw juice

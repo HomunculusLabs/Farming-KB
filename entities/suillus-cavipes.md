@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Smith, A.H. & Thiers, H.D. (1964). "A Contribution toward a Monograph of growing-gourmet-north-american-reishi-species Species of Suillus." University of Michigan Press.
   - Kuo, M. (2024). "Suillus cavipes." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "North American Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
   - Association of Official Analytical Chemists (2012). "Official Methods of Analysis of AOAC International."
 ---
 
@@ -22,7 +22,7 @@ sources:
 *Suillus cavipes*, commonly known as the hollow-stalked slippery Jack, is an
 ectomycorrhizal bolete fungus in the family Suillaceae.
 
-It is most closely associated with five-needled pines (*Pinus strobus*,
+It is most closely associated with five-needled pines (*[[pinus-strobus]]*,
 *P. monticola*, *P. flexilis*) across North America.
 
 The species is distinguished by its prominently hollow stipe, sticky
@@ -55,7 +55,7 @@ olive-yellow. Pores are angular, 1–2 per mm. Stains brownish where bruised.
 
 **Stipe:** 5–12 cm tall, 1–2.5 cm thick, central but prominently hollow
 (chambers visible in cross-section), which is the diagnostic feature.
-Surface is white above the annulus, brownish below. Partial veil leaves a
+Surface is white above the annulus, brownish below. [[partial-veil-tropism-protection-before-spore-release]] leaves a
 membranous ring that often collapses.
 
 **Flesh:** Pale yellow to white, soft, unchanging or slowly brownish on
@@ -72,72 +72,19 @@ Lakes region to the Rocky Mountains.
 
 Its distribution closely tracks that of five-needled (white pine) hosts,
 particularly eastern white pine (*Pinus strobus*) and western white pine
-(*Pinus monticola*).
+(*[[pinus-monticola]]*).
 
 Fruiting occurs from July through October, singly or scattered on soil
 beneath pines, often along forest edges or in recently disturbed sites
 where pines are establishing.
 
-The species is less common in the Pacific Northwest compared to other
+The species is less common in the [[psilocybin-north-america-pacific-northwest]] compared to other
 *Suillus* species associated with *P. ponderosa* and other hard pines.
 
 ## Edibility and Culinary Use
 
 *Suillus cavipes* is generally regarded as edible and choice by some
 foragers, though it receives less culinary attention than the related
-*Suillus luteus* or *S. brevipes*.
+*[[suillus-luteus]]* or *S. brevipes*.
 
 The cap is the most commonly consumed part; the stipe is often discarded
-due to its hollow, chambered interior which provides little substance.
-
-Like many *Suillus* species, the slimy cap cuticle can cause gastrointestinal
-distress in some individuals and is typically peeled before cooking.
-
-Recommended preparations include sautéing, drying, or pickling.
-
-Some sources rate it as mediocre compared to other boletes, noting a
-tendency toward soft texture and bland flavor in mature specimens.
-
-Young specimens with firm flesh are preferred.
-
-## Cultivation
-
-There are no established commercial [[synthetic-log-cultivation-methods-guide]] for *Suillus
-cavipes*.
-
-As an obligate ectomycorrhizal species, it requires a living host pine
-root system and cannot be grown saprophytically on substrate like
-*Pleurotus* or *Lentinula* species.
-
-Inoculation of pine seedlings with spore slurries or mycelial cultures
-has been explored for forestry applications, primarily to improve
-seedling survival and growth in reforestation projects.
-
-Success rates for artificial [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] of *Suillus* species
-are variable and generally lower than for *Pisolithus* or *Rhizopogon*.
-
-## Ecology
-
-*Suillus cavipes* forms obligate ectomycorrhizal associations with
-five-needled pines (*Pinus strobus*, *P. monticola*, *P. flexilis*).
-
-The fungal mantle surrounds short lateral roots, facilitating nutrient
-and water exchange.
-
-This relationship is particularly important for pine regeneration in
-disturbed or nutrient-poor sites, where *Suillus* species can enhance
-phosphorus uptake and provide some protection against root pathogens.
-
-The species is one of the earlier successional [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] to
-colonize young pines, often appearing within 2–5 years of seedling
-establishment.
-
-Slugs and small mammals consume the fruiting bodies and may contribute
-to [[aquatic-fungi-spore-dispersal-ingold]].
-
-## See Also
-- [[boletus-edulis-entity]]
-- [[lactarius-deliciosus]]
-- [[suillus-luteus]]
-- [[ectomycorrhiza]]
-- [[mycorrhizal-inoculation]]

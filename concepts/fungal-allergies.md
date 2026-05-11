@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal allergies represent a significant and often underdiagnosed category of allergic disease. Fungal spores and fragments are ubiquitous in both indoor and outdoor environments, and sensitization to fungal allergens can cause a range of conditions from mild rhinitis to severe, progressive lung disease. An estimated 3-10% of the general population is sensitized to fungal allergens, with higher rates among atopic individuals. (see [[fungal-biodiversity-built-environments-indoor-mycobiome]]).
+Fungal allergies represent a significant and often underdiagnosed category of allergic disease. Fungal spores and fragments are ubiquitous in both indoor and outdoor environments, and sensitization to fungal allergens can cause a range of conditions from mild rhinitis to severe, progressive lung disease. An estimated 3-10% of the general population is sensitized to fungal allergens, with higher rates among atopic individuals.
 
 ## Fungal Allergens and Sources
 
@@ -19,10 +19,10 @@ Fungal allergies represent a significant and often underdiagnosed category of al
 
 The fungi most commonly implicated in human allergic disease:
 
-- **Alternaria alternata**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
-- **Cladosporium cladosporioides and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant in temperate climates during summer months
+- **[[alternaria-alternata]]**: One of the most important outdoor fungal allergens. A dematiaceous (darkly pigmented) mold found on plants, soil, and decaying organic matter. Spores are large (20-60 microns) and tend to settle quickly, causing higher exposure near the source
+- **[[cladosporium-cladosporioides]] and C. herbarum**: The most common airborne fungi worldwide. Found on dead plant material, soil, and food. Extremely abundant [[query-how-to-grow-and-use-oca-in-temperate-climates]] during summer months
 - **Aspergillus fumigatus**: Ubiquitous soil fungus; important both as an allergen and a pathogen. Spores are small (2-3 microns) and can reach deep into the lungs. See [[fungal-infections-human]] for pathogenic effects
-- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. Penicillium chrysogenum and P. citrinum are the most commonly implicated in allergy
+- **Penicillium species**: Common indoor molds. Found in water-damaged buildings, on food, and in soil. [[penicillium-chrysogenum]] and P. citrinum are the most commonly implicated in allergy
 - **Trichoderma viride**: Common in damp indoor environments; significant sensitization rates among occupants of water-damaged buildings
 - **Epicoccum nigrum**: Outdoor fungus common on decaying vegetation and grasses
 - **Curvularia lunata**: Common in tropical and subtropical regions; associated with allergic fungal sinusitis
@@ -36,7 +36,7 @@ Indoor mold growth is a major source of fungal allergen exposure:
 - **Water-damaged buildings**: Chronic moisture problems (leaks, flooding, condensation) create conditions for mold growth on drywall, wood, ceiling tiles, carpet, and other building materials
 - **HVAC systems**: Air conditioning ducts and components can harbor fungal growth, distributing spores throughout a building
 - **Bathrooms and kitchens**: High-humidity areas are common sites for mold colonization
-- **Basements and crawlspaces**: Poor ventilation and moisture intrusion promote fungal growth
+- **Basements and crawlspaces**: Poor [[falconer-mushroom-cellar-ventilation-and-moisture]] intrusion promote fungal growth
 - **House dust**: Settled spores and hyphal fragments accumulate in house dust and become resuspended during cleaning or activity
 
 ## Spore Seasons and Environmental Patterns
@@ -108,7 +108,7 @@ Hypersensitivity pneumonitis (HP), also called extrinsic allergic alveolitis, is
 - **Woodworker's lung**: Various fungi contaminating wood dust
 - **Maple bark stripper's lung**: Cryptostroma corticale (maple bark fungus)
 - **Cheese worker's lung**: Penicillium casei, P. roqueforti
-- **Mushroom worker's lung**: Spores from commercial mushroom cultivation
+- **Mushroom worker's lung**: Spores from [[history-of-commercial-mushroom-cultivation]]
 - **Suberosis**: Cork dust contaminated with Penicillium frequentans
 
 ### Allergic Fungal Sinusitis

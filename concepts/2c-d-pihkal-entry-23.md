@@ -51,7 +51,7 @@ A rapid "rocket" from the half-hour to the 1.5-hour mark, going from nothing to 
 A +++ experience emphasizing talk and communication over personal interaction. Users report "putting out" while maintaining personal boundaries intact. Communication described as "excellent." Sleep possible at the sixth hour. Fast onset, moderate duration. Proposed as a "therapy tool."
 
 ### 150 mg (German therapeutic research)
-A "truly remarkable psychedelic" that "could compare favorably with 2C-B." Intense colors characterize the experience, with the sense that more would be too much. This is the dose at which 2C-D transforms from its teasing, ambiguous nature into a fully-realized [[2c-t-7-pihkal-43]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
+A "truly remarkable psychedelic" that "could compare favorably with 2C-B." Intense colors characterize the experience, with the sense that more would be too much. This is the dose at which 2C-D transforms from its teasing, ambiguous nature into a fully-realized [[shulgin-a-pihkal-2c-t-7-25-dimethoxy-4-propylthiophenethylamine]] of potency loss from the amphetamine to the phenethylamine form. [DOM (the amphetamine homologue) is active at approximately 3 mg, while 2C-D requires 20-60 mg for comparable effects -- roughly one-tenth the potency. This pattern of reduced potency in the 2-carbon vs 3-carbon form is common but particularly pronounced in the methyl-substituted series.
 
 ### Tweetio Homologues (Ethoxy Variants)
 
@@ -88,16 +88,3 @@ Look for repeated patterns across seasons instead of relying on a single
 observation. Useful indicators include substrate or soil condition, moisture
 availability, disturbance history, plant or fungal associates, and the timing
 of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[psychedelic-safety-and-harm-reduction]]
-- [[allegro-amanita-muscaria-properties-and-pharmacology]]

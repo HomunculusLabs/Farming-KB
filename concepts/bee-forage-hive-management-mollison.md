@@ -1,15 +1,16 @@
 ---
-title: Bee Forage and bee forage hive management mollison (Mollison)
+title: Bee Forage Hive Management Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, design, animal-husbandry, beekeeping, forage]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Bee Forage and Hive Management (Mollison)
 Updated: 2026-04-18
-Source: Permaculture: A Designers' Manual, Bill Mollison, Section 12.11
+Source: Permaculture: A Designers' Manual, [[bill-mollison]], Section 12.11
 (pp. 428-430)
 
 ## Bee Products
@@ -87,60 +88,3 @@ people. Eaten, these honeys or pollens act to prevent allergic reaction.
 Given that we have designed a range for bees, then the same area presents a
 unique opportunity to grow crops, especially seed crops, dependent on bee
 pollination. Such crops are: kiwifruit, any bramble berry, smallfruit, mustards
-and Brassicas, clovers, apples or pome fruits, buckwheat, Acacia, stone pine,
-and so on.
-
-Crops within a mile of hives will outyield crop in bee-deficient areas by a
-factor of 3-10 times. See also [[grassland-pasture-management-mollison]]
-
-## Hive Placement and Shelter
-
-Mollison emphasizes that hive placement within the permaculture system is as
-important as forage selection. Hives should be sheltered from prevailing winds
-by windbreaks, hedgerows, or buildings. Facing the hive entrance toward morning
-sun helps warm the colony early in the day, increasing foraging activity.
-Avoid placing hives in frost pockets or low-lying areas where cold air
-accumulates.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], hives serve multiple functions beyond [[mollison-designers-beekeeping-honey-production-permaculture]].
-They provide pollination services for surrounding crops, produce wax for
-candles and polish, and their presence supports the overall biodiversity of
-the system. Integrating hives into zone 2 or 3 placements ensures regular
-observation and management access.
-
-## Swarm Management in Permaculture Systems
-
-Swarming is natural colony reproduction and can be managed rather than simply
-prevented. In a permaculture context, swarms represent an opportunity to expand
-apiaries or share with neighbors. Providing bait hives (empty hives with
-attractive scent) in strategic locations captures swarms before they establish
-in unwanted cavities.
-
-Regular inspections during swarm season (spring through early summer) allow
-beekeepers to identify queen cells and make management decisions. Creating
-nucleus colonies from strong hives increases hive numbers while reducing swarm
-pressure. This aligns with permaculture principles of增殖 and yield, turning a
-potential problem into a productive opportunity.
-
-## Diseases and Integrated Pest Management
-
-Mollison's approach to bee health emphasizes prevention over treatment. Strong,
-well-fed colonies with access to diverse forage naturally resist most diseases.
-Varroa mite infestations can be managed through integrated approaches including
-screened bottom boards, drone brood trapping, and selective breeding for mite
-resistance.
-
-Chemical treatments should be used sparingly and only when necessary, as they
-can contaminate honey and wax. In permaculture systems, maintaining genetic
-diversity through local queen rearing and avoiding the importation of bees from
-distant sources helps develop locally adapted, resilient stock. Good hive
-hygiene, regular equipment rotation, and monitoring are the foundations of
-sustainable bee health management.
-
-## See Also
-
-- [[grassland-pasture-management-mollison]]
-- [[orchard-plant-guilds-mollison]]
-- permaculture-designers-manual-food-forest-guilds
-- permaculture-designers-manual-seed-saving-varieties
-- permaculture-designers-manual-crop-pollination

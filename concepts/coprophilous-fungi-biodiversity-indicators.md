@@ -88,27 +88,3 @@ delayed [[growing-gourmet-spore-germination-strain-isolation]]. Several factors 
 isolation attempts:
 
 - Age of the spore is correlated with probability of germination
-- Media supplemented with antibiotics (chlortetracycline
-  hydrochloride, streptomycin sulphate, benzylpenicillin) can
-  eliminate faster-growing molds
-- Some species are sensitive to antibiotics, requiring alternative
-  selective agents
-- Benomyl at 2-20 ppm is effective for isolating Zygomycetes from
-  natural substrata
-- Moist-chamber techniques can stimulate fruiting of species that do
-  not grow readily in culture
-
-## Assessment of Conservation Status
-
-With the current state of knowledge, it is almost impossible to
-designate truly rare or threatened coprophilous species that merit
-conservation efforts. However, this situation reflects inadequate
-sampling rather than inherent limitations of the group. As survey
-effort increases and taxonomic knowledge improves, it should become
-possible to identify genuinely rare and threatened coprophilous fungi.
-
-Efforts should focus on habitat conservation as the primary strategy
-## See Also
-
-- [[biodiversity-coprophilous-zygomycetes-dung]]
-- [[spore-dispersal]]

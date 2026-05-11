@@ -87,39 +87,3 @@ Coleman categorizes winter brassicas by their harvest style:
 Coleman's variety recommendations for winter brassica production emphasize cold tolerance and flavor quality at low temperatures:
 
 **Kale**: Winterbor, Red Russian, and Siberian types all perform well. Winterbor has superior cold tolerance with tightly curled leaves that shed snow and ice. Red Russian develops sweeter flavor with cold exposure but is slightly less cold-hardy.
-
-**Tatsoi**: Standard green tatsoi forms a beautiful rosette and handles cold extremely well. The spoon-shaped leaves are tender even after freezing temperatures.
-
-**Mizuna**: Both green and red-stemmed varieties work. The fine, feathery leaves dry quickly after rain or condensation, reducing disease pressure.
-
-**Pak choi**: Joi Choi and Mei Qing Choi are reliable varieties. For baby leaf production, any standard pak choi works well when spaced closely and harvested at 3–4 inches tall.
-
-**Radish**: French Breakfast for quick fall harvest; larger daikon types for storage. In cold houses, small round varieties are preferred for their rapid maturity.
-
-**Turnip**: Hakurei is the standard winter turnip—smooth, white, sweet, and ready in approximately 30 days from sowing.
-
-## Pest and Disease Management
-
-Brassicas in winter cold houses face relatively few pest and disease challenges compared to summer field production. Coleman notes that the cold temperatures and enclosed environment naturally suppress most brassica pests:
-
-- **Aphids**: The most common winter pest in cold houses. Coleman manages them through nitrogen flushing—reducing nitrogen fertility in late fall to produce tougher, less succulent growth that is less attractive to aphids.
-- **Flea beetles**: Rarely a problem in winter due to cold temperatures.
-- **Cabbage worms and loopers**: Absent during winter months; the adults do not survive freezing temperatures.
-- **Downy mildew**: Can develop if humidity is excessive and air circulation is poor. Ensure adequate spacing and ventilation.
-- **Botrytis**: Rare in cold houses where temperatures are too low for active fungal growth.
-
-## Integration with Crop Rotation
-
-Coleman integrates winter brassicas into his mobile greenhouse rotation system. A typical sequence might be:
-1. Summer: Tomatoes or other heat-loving crops in the greenhouse.
-2. October: Greenhouse moved to cover winter brassica plantings.
-3. November–December: Harvest of fall-sown brassicas.
-4. January–February: Overwintered kale provides maintenance harvests.
-5. March–April: Final kale harvest, bed preparation, and transplanting of earliest tomatoes.
-
-This rotation ensures that brassica-family crops do not occupy the same ground year after year, reducing soil-borne disease risk.
-
-## References
-
-- Coleman, E. (2009). The Winter Harvest Handbook. Chelsea Green Publishing.
-- Coleman, E. (1995). The New Organic Grower (revised edition). Chelsea Green Publishing.

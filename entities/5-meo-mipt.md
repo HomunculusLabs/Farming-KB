@@ -88,10 +88,3 @@ under analog drug provisions or generic tryptamine controls. In the US, it exist
 in a regulatory gray area under the Federal Analog Act but is not specifically
 listed in the Controlled [[controlled-substances-act-and-psychedelic-research]]. It is controlled in the UK under the
 Psychoactive Substances Act (2016) and in several other European countries. Its
-legal status varies significantly by jurisdiction.
-
-## See Also
-
-- [[5-meo-dipt-entity-tihkal]]
-- [[psilocin]]
-- [[miprocin]]

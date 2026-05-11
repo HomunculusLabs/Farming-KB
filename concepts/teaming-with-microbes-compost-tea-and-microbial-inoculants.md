@@ -3,6 +3,7 @@ title: "Compost Tea and Microbial Inoculants"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 tags: [composting, sterile-technique]
@@ -87,43 +88,3 @@ additives during brewing:
   vegetables, lawns, and grasses that prefer nitrates.
 - **Fungal dominance:** Add kelp, [[teaming-with-microbes-humic-and-fulvic-acids]] acids, fish hydrolysate,
   or aloe vera extract (without preservatives) to encourage fungal growth.
-  Fungal teas suit perennials, shrubs, and trees that prefer ammonium.
-- **Protozoa and nematodes:** Present naturally in good compost; they carry
-  over into the tea.
-
-It can be difficult to grow fungi in compost teas. A strategy is to
-cultivate fungi in the compost prior to making tea, allowing populations to
-multiply before extraction.
-
-## Mycorrhizal Inoculants
-
-[[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] inoculants (particularly endomycorrhizal spores) can be
-mixed with seeds at planting time or applied to roots at transplanting. Rule
-#19 requires soil food web gardeners to always use endomycorrhizal fungi with
-annuals and vegetables. The longer the season, the bigger their role, as
-these fungi take time to establish and grow. Note: Brassicaceae (cabbage,
-mustard, broccoli) and Chenopodiaceae (spinach, beets, lamb's-quarters) do
-not form mycorrhizal associations -- using inoculants on these is wasteful.
-
-Mycorrhizal inoculants are fragile and can be destroyed by rough handling.
-Since mycorrhizal fungi live only on living roots, they should be applied
-directly at planting time, not broadcast on soil.
-
-## Application Methods
-
-Tea can be applied as a soil drench or foliar spray. As a drench, it
-inoculates soil and delivers microbes to the rhizosphere. As a foliar spray,
-it coats leaf surfaces with beneficial microbes that outcompete pathogens.
-For sprayer application, tea must be strained (compost in a porous bag during
-brewing eliminates this step). Soil drenching can be done weekly to monthly
-depending on plant performance.
-
-## See Also
-
-- [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]
-
-- [[teaming-with-microbes-compost-tea-brewing-guide]]
-- [[teaming-with-microbes-compost-mulch-tea]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-soil-food-web-overview]]
-- [[teaming-with-microbes-phyllosphere]]

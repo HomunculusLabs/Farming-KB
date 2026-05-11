@@ -22,13 +22,13 @@ Drosera filiformis, commonly known as the thread-leaved sundew, is a temperate c
 
 The species produces distinctive linear leaves that can reach 20–40 cm in height, making it one of the tallest [[growing-gourmet-north-american-reishi-species]] sundews. Its unusual [[cannabis-leaf-morphology-and-phyllotaxy]] distinguishes it from most other Drosera species.
 
-D. filiformis is found in boggy, nutrient-poor habitats along the Atlantic coastal plain. Two subspecies are recognized, differing in geographic distribution and flower morphology.
+D. filiformis is found in boggy, nutrient-poor habitats along the Atlantic coastal plain. Two subspecies are recognized, differing in [[geographic-distribution-of-psilocybe-species]] and flower morphology.
 
 ## Taxonomy and Morphology
 
 D. filiformis was first described by Constantine Samuel Rafinesque in 1808. The specific epithet "filiformis" refers to the thread-like (filiform) leaves that characterize the species.
 
-Two subspecies are currently recognized. Subspecies *filiformis* occurs in the northeastern United States and southeastern Canada. Subspecies *tracyi* (D. filiformis var. tracyi) is restricted to the Gulf Coast region.
+Two subspecies are currently recognized. Subspecies *filiformis* occurs in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada. Subspecies *tracyi* (D. filiformis var. tracyi) is restricted to the Gulf Coast region.
 
 Subspecies *tracyi* produces larger, more robust leaves and taller scapes than the nominate form. Its leaves are also distinctly greener, while the nominate subspecies tends toward reddish coloration.
 
@@ -56,9 +56,9 @@ The tall, erect leaf form of D. filiformis may provide a functional advantage by
 
 ## Cultivation
 
-D. filiformis is a popular subject for carnivorous plant collectors, though it requires a cold dormancy period. Plants are typically grown outdoors in temperate climates or in unheated greenhouses.
+D. filiformis is a popular subject for carnivorous plant collectors, though it requires a cold dormancy period. Plants are typically grown outdoors [[query-how-to-grow-and-use-oca-in-temperate-climates]] or in unheated greenhouses.
 
-The standard [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] employs the tray system, where pots sit in 2–5 cm of distilled or rainwater. A peat-to-sand ratio of 1:1 provides suitable growing medium.
+The standard [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] employs the tray system, where pots sit in 2–5 cm of distilled or rainwater. A peat-to-sand ratio of 1:1 provides suitable [[cervantes-green-algae-growing-medium]].
 
 Subspecies *tracyi* is somewhat easier to cultivate than the nominate form, being more tolerant of warm summer conditions. The nominate subspecies can suffer in extended heat above 32°C.
 
@@ -70,7 +70,7 @@ D. filiformis is considered vulnerable or imperiled across much of its range due
 
 The nominate subspecies has been extirpated from several historic locations in the northeastern United States. Subspecies *tracyi* faces similar pressures from coastal development along the Gulf Coast.
 
-Prescribed burning is an important management tool for maintaining suitable habitat. Many natural populations occur in fire-adapted ecosystems where periodic burning prevents woody encroachment and maintains open bog conditions.
+Prescribed burning is an important [[savory-fire-as-management-tool]] for maintaining suitable habitat. Many natural populations occur in fire-adapted ecosystems where periodic burning prevents woody encroachment and maintains open bog conditions.
 
 ## Flowers and Reproduction
 
@@ -87,27 +87,3 @@ Vegetative reproduction occurs through division of the root crown, which natural
 D. filiformis is known to hybridize naturally with several other Drosera species. The hybrid with D. intermedia (D. × hybrida) occurs where the two species co-occur along the Atlantic coast.
 
 The hybrid with D. rotundifolia has been reported from New England bogs. These inter-specific hybrids typically show intermediate leaf morphology and may backcross with either parent species.
-
-Within the genus, D. filiformis is placed in the *Filiformes* section, which also includes the Australian D. peltata complex. Molecular studies suggest this section represents an ancient lineage within Drosera.
-
-The unusual linear leaf form of D. filiformis has evolved independently in several Drosera lineages. Similar thread-leaved forms occur in the D. indica complex of Australia and Asia.
-
-## Ecological Interactions
-
-The pitcher plant bogs where D. filiformis grows support diverse invertebrate communities. The sticky leaves capture ants, flies, small moths, and other small arthropods.
-
-Several species of assassin bugs and crab spiders have been observed hunting on or near D. filiformis leaves. These predators exploit the sundew's prey-trapping ability, stealing captured insects.
-
-The flowers attract small pollinators including bees and syrphid flies. Despite the carnivorous leaves, pollinators are rarely captured, likely because flowers are held well above the trapping surface.
-
-D. filiformis contributes to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of bog ecosystems by extracting insect-derived nitrogen and depositing it in the substrate through leaf decomposition.
-
-## See Also
-
-- [[drosera-capensis]]
-- [[drosera-spatulata]]
-- [[sarracenia-flava]]
-- [[pinguicula-vulgaris]]
-- [[utricularia-vulgaris]]
-- darlingtonia californica
-- [[sarracenia-alata]]

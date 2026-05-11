@@ -6,7 +6,7 @@ tags:
   - cactaceae
   - cactus
   - edible
-  - permaculture
+  - [[permaculture]]
   - xeriscaping
   - drought-tolerant
   - forage
@@ -29,8 +29,8 @@ sources:
 
 ## Overview
 
-Opuntia ficus-indica, commonly known as Indian fig opuntia or prickly pear,
-is a species of cactus in the family Cactaceae native to central Mexico. It
+Opuntia ficus-indica, commonly known as Indian fig opuntia or [[comparison-agave-vs-prickly-pear-cultivation]],
+is a species of cactus in the family Cactaceae native to [[psychoactive-cacti-of-central-mexico]]. It
 has been cultivated for thousands of years as a food crop, producing both
 edible pads (nopales) and sweet fruits (tunas or figs). The species is a
 cornerstone of arid-land agriculture, valued for its extreme drought
@@ -76,7 +76,7 @@ a productive crop and an aggressive invader.
 - **Native:** Central Mexico, cultivated since pre-Columbian times; depicted
   in [[teonanacatl-aztec-codices-archaeology]].
 - **Naturalized:** Mediterranean Europe, North and South Africa, East Africa,
-  Middle East, India, Australia, South America, and southwestern US.
+  Middle East, India, Australia, [[guzman-psilocybin-mushrooms-south-america]], and southwestern US.
 - Thrives in arid and semi-arid climates with 200–800 mm annual rainfall;
   tolerates temperatures from -5°C to 50°C.
 - Grows on rocky, shallow, saline, and alkaline substrates; pH tolerance
@@ -88,47 +88,3 @@ a productive crop and an aggressive invader.
 
 - **Food — pads (nopales):** Young cladodes used raw in salads, cooked in
   stews (nopalitos), scrambled with eggs, or grilled; mucilaginous texture
-  similar to okra; rich in fiber, vitamin C (40 mg/100g), calcium
-  (160 mg/100g), and antioxidants (betalains, flavonoids).
-- **Food — fruits (tunas):** Eaten fresh, juiced, or made into jams, jellies,
-  syrups, and beverages (colonche); commercial production significant in
-  Mexico (200,000+ tonnes/year), Italy, South Africa, and Chile.
-- **Livestock fodder:** Cladodes used as emergency drought feed; high water
-  content (85–90%) provides hydration; must be cleaned of spines and
-  glochids; digestible by cattle, goats, sheep, and rabbits.
-- **Cochineal dye:** Pads host the cochineal insect (*Dactylopius coccus*),
-  historically the premier source of carmine red dye for textiles and food
-  coloring; production remains economically important in Peru and the
-  Canary Islands.
-- **Soil conservation:** Living fences, windbreaks, and [[permplant-willows-salix-erosion-control-fodder]] on
-  degraded slopes; cladode mulch retains soil moisture.
-
-## Permaculture Applications
-
-- Excellent multi-functional plant for food-forest systems in arid and
-  Mediterranean climates.
-- Acts as a living fence and windbreak, providing microclimate shelter for
-  understory crops.
-- Supports pollinators (flowers rich in nectar, visited by bees and
-  hummingbirds) and provides bird nesting habitat.
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with agave, mesquite, and fruit trees (olive,
-  pomegranate, fig) in dryland polycultures.
-- High Water Use Efficiency via CAM photosynthesis, requiring 4–10× less
-  water per unit biomass than C3 or C4 crops.
-
-## Invasive Potential
-
-- Classified as invasive in Australia (Weed of National Significance), South
-  Africa, and parts of the Mediterranean and East Africa.
-- Spreads vegetatively when cladode segments detach and root; forms dense,
-  impenetrable thickets excluding native vegetation.
-- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using *Cactoblastis cactorum* (cactus moth) was
-  dramatically effective in Australia (90%+ reduction) but has become a
-  threat to native *Opuntia* species in [[psilocybin-north-america-pacific-northwest]].
-
-## See Also
-
-- [[yucca-filamentosa|Yucca filamentosa]]
-- Tagasaste
-- [[arundo-donax|Arundo donax]]
-- [[companion-planting]]

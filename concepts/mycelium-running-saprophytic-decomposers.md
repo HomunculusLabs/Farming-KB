@@ -88,33 +88,3 @@ soil in forms that living plants can absorb. Mycelial networks
 physically transport these nutrients through the soil profile,
 moving them from zones of decomposition to root zones where they
 are most needed. In forest ecosystems, up to 80% of plant
-nitrogen uptake passes through fungal decomposer pathways.
-This nutrient mobilisation function makes saprophytic fungi
-indispensable to [[mycelium-running-mycelium-soil-building]]
-and the long-term fertility of any landscape.
-
-## See Also
-
-- [[mycelium-running-mycorestoration-habitat-survey]]
-
-- [[mycelium-running-mycelium-soil-building]]
-- [[mycelium-running-multi-kingdom-bioremediation]]
-
-## Practical Considerations
-
-Successful implementation of Saprophytic Mushrooms and Decomposition requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

@@ -1,5 +1,5 @@
 ---
-title: Powell powell psilocybin neuronal pharmacology synaptic mechanisms Pharmacology Synaptic Mechanisms
+title: Powell Psilocybin Neuronal Pharmacology Synaptic Mechanisms
 created: 2026-04-28
 tags: [psilocybin, neuroscience, neurons, synapse, neurotransmitter, brain, powell]
 date: 2026-04-25
@@ -88,46 +88,10 @@ original impulse is regenerated in that neuron.
 ## Speed and Complexity of Synaptic Transmission
 
 Powell emphasizes the extraordinary speed at which synaptic transmission
-occurs: no more than 100 microseconds, or 100 millionths of a second. In
-this outrageously short space of time, tens of thousands of
-neurotransmitting molecules are released from one neuron, diffuse across
-the synaptic cleft, attach to receptors on the next neuron, cause an
-impulse to be generated or not, and are finally reabsorbed and recycled.
-This process is repeated across billions of synapses virtually non-stop.
 
-The potassium and sodium chemical pumps in the axon, the vast oceans of
-charged particles being continuously pumped through special membrane
-channels, and the emergent wave of electrical activity all represent the
-millennia-old work of environmental forces in shaping the evolution of
-the mammalian brain. Traditional scientific approaches tend to fail in
-fully conveying the immense organisational complexity of the neuronal
-system as a whole.
-
-## Neuronal Patterns and Psychological Function
-
-Organised patterns of neuronal firing become useful when considering how
-the brain works in everyday situations. Each face we see generates a
-unique pattern of neuronal firing, a neuronal signature, in our brain.
-The neuronal processing of faces resides in specific brain areas that can
-be selectively damaged, resulting in prosopagnosia, a disorder where
-sufferers fail to recognize faces even of close family members.
-
-This principle of localised neuronal patterns extends to all cognitive
-functions. When psilocybin enters the brain and alters serotonergic
-transmission, it changes the patterns of neuronal firing across vast
-networks of neurons, thereby altering the informational basis of
-consciousness itself. The global shift in neuronal firing patterns
-produced by psilocybin is what accounts for the dramatic changes in
-perception, cognition, and self-awareness that characterize the
-psychedelic experience.
-
-## Implications for Understanding Consciousness
-
-Powell argues that by examining the chemical changes associated with
-changes in consciousness, we can come to a deeper understanding of the
-nature of mind. Just as brain damage research allows speculation about
-normal brain function, so too can the analysis of [[weil-the-natural-mind-altered-states-normalcy]] of
-consciousness lead to insights about the nature of normal consciousness.
-The synapse is where psilocybin, [[powell-psilocybin-brain-plasticity]]
-- [[powell-mutability-of-consciousness-chemical-lens]]
+## See Also
+- [[psilocybin-ego-dissolution-mechanisms]]
+- [[psilocybin-psychological-mechanisms]]
+- [[psilocybin-chemistry-pharmacology]]
 - [[powell-psilocybin-set-and-setting]]
+- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]

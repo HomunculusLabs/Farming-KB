@@ -88,29 +88,3 @@ or specific bans.
 ## Legal Status
 
 - **[[dmt-containing-plants-united-states-halpern]]:** Prosecutable under the Federal Analogue Act
-  (Schedule I). Some states have specifically scheduled LSZ.
-- **United Kingdom:** Covered under the Psychoactive [[controlled-substances-act-and-psychedelic-research]]
-  2016, prohibiting production, supply, and importation.
-- **EU:** Status varies; many states explicitly scheduled LSZ or
-  covered it under broader lysergamide controls.
-- **International:** Not scheduled under the UN Convention on
-  Psychotropic Substances.
-
-## Harm Reduction
-
-- **[[lsd-set-and-setting-framework]]:** Mental state, environment, and trusted
-  companions are critical. Adverse reactions correlate with poor
-  set and setting.
-- **Psychological risks:** Individuals with personal or family
-  history of psychotic disorders or bipolar disorder should avoid
-  psychedelics. HPPD is a rare but documented risk.
-- **[[cannabis-drug-interactions-and-contraindications]]:** Contraindicated with lithium, tramadol,
-  MAOIs, and certain antidepressants. Serotonin syndrome risk
-  increases with serotonergic combinations.
-- **Purity:** Unregulated research chemical — may be misidentified,
-  contaminated, or inaccurately dosed. Reagent testing recommended.
-## See Also
-
-- [[ergine-entity]]
-
-- [[gordon-wasson-comparative-method-ethnomycology]]

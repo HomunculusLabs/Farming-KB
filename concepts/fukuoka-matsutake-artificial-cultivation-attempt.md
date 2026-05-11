@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Matsutake Artificial Cultivation Attempt
@@ -87,13 +88,3 @@ protects Japan's mountains and forests, not something that can or
 should be privately owned. His true desire was to leave the secrets of
 the mountains as secrets and not create a spurious nature. His
 microscope stayed in the closet.
-
-## The Philosophical Turn
-
-Fukuoka reflected: "Come to think of it, I accomplished nothing at all
-during those three years of intent research. This is as it should have
-been." This aligned with his broader [[fukuoka-pine-rot-root-cause]]
-- [[fukuoka-pine-blight-matsutake-research]]
-- [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[fukuoka-matsutake-culture-medium-appendix]]

@@ -87,27 +87,3 @@ The phenolic hydroxyl group of thymol serves as a hydrogen donor, neutralizing f
 Thymol has been utilized across multiple traditional medicine systems for millennia. Ancient Egyptians employed thyme-infused preparations for embalming. Greek physicians including Dioscorides prescribed thyme preparations for respiratory ailments and wound healing. In Ayurvedic medicine, ajwain (thymol-rich) seeds are used to treat digestive disorders, flatulence, and colic. European folk medicine traditions used thyme decoctions as expectorants, antiseptics, and digestive tonics.
 
 ### Modern Applications
-
-- **Dentistry**: Thymol is a key ingredient in mouthwashes (notably Listerine, containing 0.064% thymol) and dental root canal sealers due to its antiseptic and analgesic properties
-- **Pharmaceuticals**: Used in cough suppressants, bronchial expectorants, and topical analgesic formulations; thymol lozenges remain popular for sore throat relief
-- **Food preservation**: Approved food additive (E-number E3301 in some jurisdictions) with GRAS status; effective against foodborne pathogens including *Listeria monocytogenes* and *Salmonella enterica*
-- **Agriculture**: Employed as a natural pesticide, fungicide, and nematicide in organic farming; effective against post-harvest spoilage organisms
-- **Veterinary medicine**: Used in livestock feed additives and anthelmintic preparations
-- **Aromatherapy**: Thyme essential oil (high-thymol chemotype) is used for respiratory support, immune stimulation, and mental clarity
-
-## Safety and Toxicology
-
-Thymol has a favorable safety profile at typical dietary and therapeutic exposures. The oral LD₅₀ in rats is 980 mg/kg, indicating low acute toxicity. It is generally recognized as safe (GRAS) by the FDA for use as a flavoring agent. The acceptable daily intake (ADI) has been estimated at 0.01 mg/kg body weight. At high concentrations, thymol can cause mucous membrane irritation, and topical application of concentrated essential oil may produce contact dermatitis in sensitive individuals. Thymol exhibits low dermal absorption but can be hepatotoxic at very high doses (>500 mg/kg) in animal models. Drug interactions are possible due to CYP450 enzyme inhibition, particularly affecting CYP1A2 and CYP2C9 metabolism.
-
-## See Also
-
-- [[carvacrol]] — Structural isomer found predominantly in oregano
-- [[thymus-vulgaris-entity]] — Primary botanical source of thymol
-- [[origanum-vulgare-entity]] — Oregano, a major source plant
-- [[eugenol]] — Phenolic compound with similar antimicrobial properties
-- [[beta-caryophyllene]] — Sesquiterpene with complementary anti-inflammatory effects
-- [[camphor]] — Monoterpene ketone with overlapping TRPV1-mediated analgesic activity
-- [[menthol]] — Cyclic monoterpene alcohol with analogous cooling and analgesic mechanisms
-- [[thujone]] — Monoterpene ketone found in wormwood and sage
-- [[linalool]] — Monoterpene alcohol with anxiolytic and sedative properties
-- [[pinene]] — Most abundant terpene in nature, found alongside thymol in many herbs

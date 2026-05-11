@@ -12,10 +12,10 @@ tags: [maitake, medicine, mushroom-cultivation, mushrooms]
 
 ## Overview
 
-Grifola frondosa (Maitake, Hen of the Woods) is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] with
+[[grifola-frondosa]] (Maitake, Hen of the Woods) is a [[gourmet-medicinal-mushroom-casing-layer-techniques]] with
 significant anti-cancer and immunomodulatory properties. Beta-glucan fractions
 from Maitake are used by over 3,000 health professionals in the US for
-prevention and treatment of a range of conditions including flu, HIV, diabetes,
+[[cannabis-root-rot-prevention-and-treatment]] of a range of conditions including flu, HIV, diabetes,
 hypertension, hypercholesterolaemia, and urinary tract infections. Maitake
 capsules, tea, powder, and drinks are widely marketed in the US and Europe.
 
@@ -68,7 +68,7 @@ Human clinical studies:
 
 Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
 
-  - Achieved >95% cell death of androgen-independent prostate cancer PC-3
+  - Achieved >95% [[blesching-cannabis-apoptosis-and-cancer-cell-death]] of androgen-independent [[blesching-cannabis-prostate-cancer]] PC-3
     cells in 24 hours at >=480 ug/ml
   - Vitamin C acts synergistically: 30-60 ug/ml GD plus 200 uM vitamin C
     matched the effect of 480 ug/ml GD alone
@@ -78,7 +78,7 @@ Grifron-D demonstrates both immunomodulatory and direct cytotoxic effects:
   - May inactivate glyoxalase I, a detoxifying enzyme in cancer cells,
     potentially enhancing chemotherapy efficacy
   - Approved by FDA for trial under Investigational New Drug Application
-    (IND) for advanced cancer patients
+    (IND) for [[blesching-cannabis-pain-advanced-cancer]] patients
   - FDA exempted Grifron-D from Phase I study due to absence of adverse
     reactions in previous trials and no significant pre-clinical toxicity
 
@@ -87,32 +87,4 @@ gastric cancers are underway in the US and Japan.
 
 ## Additional Medicinal Properties
 
-G. frondosa demonstrates multiple therapeutic effects beyond cancer:
-
-  - Reduces total cholesterol and triglycerides
-  - Lowers glycemia and insulinaemia in non-insulin-dependent diabetes
-  - Lowers arterial blood pressure
-  - Anti-HIV activity
-  - Anti-obesity effects
-  - High fibre content beneficial as a functional food
-
-## Safety
-
-Maitake D-Fraction and related extracts have shown no significant toxicity
-in pre-clinical or clinical studies. The mushroom is commercially cultivated,
-ensuring proper identification and product purity.
-
-## Key Source
-
-Smith, Rowan and Sullivan (2002). [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]: Their therapeutic
-properties and current medical usage with special emphasis on cancer
-treatments. University of Strathclyde.
-- [[psk-breast-lung-cancer-clinical-trials]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[schizophyllan-cancer-clinical-trials]]
-- [[maitake-d-fraction-research]]
-
-## See Also
-
-- [[cancer-medicinal-mushrooms-apoptosis-mechanisms]]
-- [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]
+G. frondosa demonstrates multiple [[cbd-therapeutic-effects]] beyond cancer:

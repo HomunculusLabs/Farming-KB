@@ -88,37 +88,3 @@ controversial areas of plant sensory biology. While plants lack any structure
 analogous to animal ears or auditory hair cells, there is some evidence that
 they respond to mechanical vibrations transmitted through air or substrate.
 Some studies have reported that plants exposed to specific sound frequencies
-show altered growth rates, seed germination patterns, or changes in gene
-expression profiles. However, these findings have been difficult to replicate
-consistently, and the mechanisms — if they exist — remain poorly understood.
-
-A more plausible form of acoustic perception involves the detection of
-substrate vibrations rather than airborne sound waves. Plants growing near
-running water or in environments with regular seismic or vibrational patterns
-might benefit from perceiving these mechanical signals through their existing
-mechanoreceptor systems. The mechanoreceptor channels and calcium-signaling
-pathways already known to mediate touch responses could, in principle, also
-detect low-frequency vibrations transmitted through the plant's tissues or the
-surrounding substrate. However, the ecological significance of vibration
-detection in plants, if any, remains speculative and an active area of ongoing
-research.
-
-## Implications of Plant Sensory Biology
-
-Recognizing that plants possess sophisticated sensory capabilities challenges
-traditional assumptions about plant passivity. While plant senses operate
-through fundamentally different mechanisms than animal senses — involving
-[[plant-hormones-and-chemical-signaling-systems]], electrical impulses, calcium waves, and changes in gene
-expression rather than neurons and synapses — the functional outcomes are
-remarkably similar: plants gather information about their environment and use
-it to guide adaptive responses. Understanding plant sensory biology has
-practical implications for agriculture, pest management, and ecology, offering
-new approaches to crop optimization and environmental monitoring based on
-leveraging plants' innate sensory capabilities.
-
-## See Also
-- [[phytochrome-signaling-plant-light-perception]]
-- [[plant-olfaction-volatile-organic-compound-signaling]]
-- [[mimosa-pudica]]
-- [[daniel-chamovitz]]
-- [[dionaea-muscipula]]

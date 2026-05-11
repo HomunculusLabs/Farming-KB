@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 updated: 2026-04-18 Polyaromatic hydrocarbon (PAH) [[query-how-does-lignin-degradation-by-fungi-work]] is one of the most promising applications of white-rot-fungi-effluent-decolorization to break down recalcitrant environmental pollutants that resist bacterial attack.
 
@@ -88,12 +89,3 @@ Introducing specific fungal species via formulated inocula:
 - **Substrate carrier**: Wheat straw most effective for P. ostreatus
 - **Selective biocides**: Benomyl (115 ppm) selectively benefits white rot
 - **Inoculum density**: Higher initial inoculum improves colonization
-
-### Composting
-Mixing contaminated soil with organic materials and white-rot fungi.
-- [[fungal-formulation-and-inoculation-for-in-situ-bioremediation]]
-- [[composting-methods-comparison]]
-
-## Source
-
-Gadd, G.M. (ed.) (2001). *Fungi in Bioremediation*. Cambridge University Press. Chapters 4 (Singleton) and 5 (Bennett et al.).

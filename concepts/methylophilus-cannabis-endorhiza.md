@@ -88,37 +88,3 @@ oxidation can be assimilated into biomass, effectively converting a waste
 product of plant metabolism into bacterial biomass that may eventually become
 available to other soil organisms upon bacterial cell lysis. The cultivar
 specificity of this interaction raises the possibility that breeding programs
-could inadvertently select for or against beneficial root-associated
-methylotrophs.
-
-## Statistical Significance and Methodology
-
-The FDR-adjusted p-value of 0.012 for Methylophilus differential abundance
-was derived from 16S rRNA gene amplicon sequencing of endorhiza samples. DNA
-was extracted from surface-sterilized root tissue, ensuring that only
-[[endorhiza-endophytic-bacteria]] — those residing within the root interior — were
-represented. Sequencing was performed on the Illumina platform, and sequences
-were clustered into operational taxonomic units (OTUs) or amplicon sequence
-variants (ASVs) before taxonomic assignment. The statistical test compared
-relative abundances across cultivar groups while accounting for multiple
-comparisons across all detected taxa. The 100-fold difference between Bookoo
-Kush and Burmese, combined with the complete absence in Sour Diesel, makes
-this one of the most robust cultivar-specific signals in the dataset.
-
-## Related Topics
-
-- [[cannabis-core-endorhiza-microbiome]]
-- [[sphingomonas-wittichii-cannabis-microbiome]]
-- rhizosphere microbiome assembly
-- methylotrophic bacteria soil carbon cycle
-
-## Sources
-
-- Winston, M.E., et al. "Cultivar-specificity in the cannabis root
-  microbiome." (unpublished study data, as referenced in research
-  communications)
-- Chistoserdova, L. "Methylotrophs in natural environments: current
-  understanding through metagenomics." Applied Microbiology and
-  Biotechnology (2015).
-- Vorholt, J.A. "Microbial life in the phyllosphere." Nature Reviews
-  Microbiology (2012).

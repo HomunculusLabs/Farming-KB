@@ -48,13 +48,13 @@ Stapelia gigantea forms clumps of four-angled, upright stems measuring fifteen t
 
 Stem surfaces are smooth with slightly tuberculate angles and marked by short, rigid hairs. The stems branch freely from the base, forming dense cushions that may cover fifty to one hundred centimeters in diameter after several years.
 
-The root system is shallow and fibrous, adapted to absorb brief rainfall in arid environments. No caudex or significant water-storage organ is developed; water retention occurs primarily in the fleshy stem parenchyma.
+The root system is shallow and fibrous, adapted to absorb brief rainfall in [[fungal-diversity-arid-environments]]. No caudex or significant water-storage organ is developed; water retention occurs primarily in the fleshy stem parenchyma.
 
 Anatomical studies reveal a chlorenchymatous cortex surrounding a central vascular cylinder. The cortical cells contain large vacuoles that store water and mucilage, enabling the stems to maintain turgor during extended drought.
 
 Flowers emerge from the lower portions of stems near the base, held on short peduncles that curve downward as the bud develops. The corolla is broadly campanulate to flat, with five triangular lobes reflexed at maturity.
 
-The corolla surface is densely covered with fine, clavate hairs that give a velvety appearance. These trichomes generate a convective microclimate that warms the flower interior above ambient temperature, increasing volatile dispersion.
+The corolla surface is densely covered with fine, clavate hairs that give a velvety appearance. These trichomes generate a convective microclimate that warms the flower interior above [[jadam-ambient-temperature-principle]], increasing volatile dispersion.
 
 The gynostegium is a complex structure typical of Asclepiadoideae, comprising fused stamens and stigma forming a pentagonal pollinarium apparatus. Pollinia are transferred as paired units (pollinia masses) by visiting flies.
 
@@ -62,11 +62,11 @@ The gynostegium is a complex structure typical of Asclepiadoideae, comprising fu
 
 Stapelia gigantea is native to South Africa, Botswana, Zimbabwe, Mozambique, Tanzania, and Malawi. It occurs in arid and semi-arid regions including the Kalahari Desert fringe, dry savanna, and rocky outcrops at elevations from three hundred to eighteen hundred meters.
 
-The species has been introduced to cultivation worldwide and has occasionally naturalized in arid regions with suitable climate, including parts of southern California and the Mediterranean basin. Naturalized populations remain small and localized.
+The species has been introduced to cultivation worldwide and has occasionally naturalized [[fukuoka-natural-farming-in-arid-regions]] with suitable climate, including parts of southern California and the Mediterranean basin. Naturalized populations remain small and localized.
 
 The species typically grows in shallow, well-drained soils among rocks or in open grassland with sparse shrub cover. It is often found sheltered beneath larger shrubs or rock overhangs that provide partial shade during the hottest part of the day.
 
-Rainfall in its native range varies from two hundred to six hundred millimeters annually, concentrated in summer thunderstorms. The species survives prolonged dry seasons of six to eight months through stem succulence and CAM photosynthesis.
+Rainfall in its native range varies from two hundred to six hundred millimeters annually, concentrated in summer thunderstorms. The species survives prolonged dry seasons of six to eight months through stem succulence [[c4-and-cam-photosynthesis]].
 
 Frost tolerance is minimal, with tissue damage occurring below five degrees Celsius. Plants in cultivation require protection from freezing temperatures and prolonged exposure to cool, damp conditions that promote fungal stem rot.
 
@@ -76,7 +76,7 @@ In its native habitat, Stapelia gigantea frequently grows in the partial shade o
 
 Stapelia gigantea is propagated from stem cuttings taken during the active growing period in spring and summer. Cuttings of five to ten centimeters are allowed to callus for three to five days before placement on dry sand to root.
 
-Rooting typically occurs within two to four weeks. Established cuttings should not be watered until roots are visibly emerging, as premature watering causes rapid decomposition of the callus tissue.
+Rooting typically occurs within two to four weeks. Established cuttings should not be watered until roots are visibly emerging, as premature watering causes rapid [[decomposition]] of the callus tissue.
 
 Hormone rooting powders are generally unnecessary for Stapelia propagation and may in some cases promote fungal contamination of the cut surface. The natural wound response produces adequate auxin concentrations for root initiation.
 
@@ -87,35 +87,3 @@ Watering follows a wet-dry cycle: thorough saturation followed by complete subst
 The primary cultivation challenge is stem rot caused by the fungus Fusarium and various bacterial pathogens. Infected stems become dark and mushy at the base and must be removed immediately to prevent spread to adjacent stems. Well-ventilated growing conditions and minimal overhead watering reduce rot incidence.
 
 Flowering occurs from late summer through autumn on two-to-three-year-old plants. Individual flowers open sequentially and last five to seven days before senescing.
-
-The flowers of Stapelia gigantea hold the record for the largest blooms among all stem succulents. Specimens in cultivation have produced flowers exceeding thirty-eight centimeters in diameter under optimal growing conditions.
-
-## Pollination Ecology
-
-Stapelia gigantea employs sapromyiophily, a pollination strategy that deceives carrion-feeding flies into visiting flowers that mimic the appearance and scent of rotting meat. This strategy has evolved independently in multiple plant lineages occupying arid environments where traditional pollinators are scarce.
-
-The flower produces a complex volatile blend dominated by oligosulfides, indole, and skatole, compounds also produced during protein decomposition. Chemical analysis has identified over thirty volatile compounds, with dimethyl disulfide and dimethyl trisulfide comprising the largest fractions.
-
-Scent emission follows a diurnal pattern, with peak volatile release occurring during morning hours when carrion flies are most actively foraging. The flower remains scentless during nighttime hours, conserving metabolic resources.
-
-Female blowflies (Calliphoridae) and flesh flies (Sarcophagidae) are the primary pollinators. Flies are attracted to the flower by scent, land on the corolla surface, and crawl toward the center where they contact the pollinaria.
-
-In some cases, female flies lay eggs on the corolla surface, mistaking the flower for actual carrion. The larvae subsequently die as there is no food source, representing a reproductive cost to the flies that serves the plant's pollination strategy.
-
-Pollinia attach to the fly's proboscis or tarsi through aclip mechanism unique to Asclepiadoideae. The fly inadvertently deposits pollinia from a previous visit onto the stigmatic surface while acquiring new pollinia, enabling cross-pollination between flowers.
-
-The dense corolla pubescence serves multiple ecological functions beyond fly attraction. Trichome mats create a warm, humid microclimate that encourages flies to remain on the flower for extended periods, increasing the probability of pollinarium contact.
-
-Thermographic studies have recorded flower surface temperatures three to five degrees Celsius above ambient air temperature during peak sun exposure. This temperature differential enhances the volatilization rate of scent compounds and creates a thermal cue that reinforces the carrion mimicry.
-
-## See Also
-
-- [[asclepias-tuberosa]]
-- [[asclepias-syriaca]]
-- [[catharanthus-roseus]]
-- [[nerium-oleander]]
-- [[agave-americana]]
-- [[aloe-arborescens]]
-- [[echinopsis-pachanoi]]
-- [[lophophora-williamsii]]
-- [[linaria-vulgaris]]

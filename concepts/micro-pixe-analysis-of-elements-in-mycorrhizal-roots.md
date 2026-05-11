@@ -88,13 +88,3 @@ This compartmentalization has important physiological consequences. By restricti
 - Quantitative accuracy depends on accurate thickness measurements from STIM data
 
 - The technique requires access to a particle accelerator facility, limiting its availability
-
-- Radiation damage can potentially alter sensitive biological samples during prolonged analysis
-
-## See Also
-
-- [[mycorrhiza-soil-bioremediation]]
-
-- [[mycoremediation-of-heavy-metals]]
-- [[micro-pixe-analysis-mycorrhizal-metal-tolerant-plants]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae

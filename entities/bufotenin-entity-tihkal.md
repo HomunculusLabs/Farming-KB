@@ -1,5 +1,5 @@
 ---
-title: [[bufotenin]] (5-HO-DMT) — TIHKAL Entry #19
+title: Bufotenin Entity Tihkal
 created: 2026-04-15
 updated: 2026-04-15
 type: entity

@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - "Chemdog: The Unlikely Strain That Changed Everything." Leafly (2023).
   - "The History of Chemdawg." High Times, 2019.
-  - Pearson, D. et al. (2019). "A genetic and chemical survey of Cannabis chemotypes." Cannabis and Cannabinoid Research 4(1): 15-24.
+  - Pearson, D. et al. (2019). "A genetic and chemical survey of [[cannabis-chemotypes]]." Cannabis and Cannabinoid Research 4(1): 15-24.
   - "Chem 91 Strain Review." AllBud, 2024.
 created: 2026-04-28
 ---
@@ -21,13 +21,13 @@ created: 2026-04-28
 
 ## Overview
 
-Chem 91 (also written Chem '91 or Chemdog '91) is a foundational cannabis hybrid that serves as the direct parent or grandparent of dozens of the most influential modern strains.
+Chem 91 (also written Chem '91 or Chemdog '91) is a foundational [[cannabis-hybrid-vigor-and-phenotypes-clarke]] that serves as the direct parent or grandparent of dozens of the most influential modern strains.
 
-It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a Grateful Dead concert in Colorado.
+It emerged from the legendary Chemdawg phenotype lineage that surfaced in the early 1990s at a [[oner-chemdawg-origin-legend-grateful-dead-genetics]] concert in Colorado.
 
 Chem 91 is distinguished from other Chemdawg cuts by its distinctly pungent, chemically diesel aroma and balanced hybrid effects.
 
-It is widely regarded as the most potent of the original Chemdawg phenotypes, with THC content regularly testing between 22–28%.
+It is widely regarded as the most potent of the original Chemdawg phenotypes, with [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly testing between 22–28%.
 
 ## Lineage and History
 
@@ -75,7 +75,7 @@ Secondary terpenes include pinene, linalool, and humulene in trace amounts.
 
 - THC: 22–28% (occasionally testing above 30% in top-shelf phenotype selections).
 - CBD: Typically below 0.1% (negligible).
-- Minor cannabinoids: THCV traces in some phenotypes.
+- [[cannabis-minor-cannabinoids]]: THCV traces in some phenotypes.
 
 The terpene-to-cannabinoid ratio produces what breeders describe as a "gassy" or "chemmy" chemotype, characteristic of the Diesel/Kush family.
 
@@ -83,42 +83,8 @@ The terpene-to-cannabinoid ratio produces what breeders describe as a "gassy" or
 
 Chem 91 delivers a fast-acting, cerebral onset that transitions into deep physical relaxation.
 
-The high begins with an immediate head rush characterized by euphoria, heightened sensory perception, and creative energy.
+The high begins with an immediate head rush characterized by euphoria, heightened [[plant-sensory-perception]], and creative energy.
 
 This cerebral phase gradually gives way to a heavy body stone that can be profoundly sedative at higher doses.
 
 Users commonly report relief from [[cannabis-chronic-pain-management]], stress, anxiety, and insomnia.
-
-The effects are long-lasting, typically persisting 2–4 hours depending on dosage and individual tolerance.
-
-Beginners should approach with caution — the potency and intensity can be overwhelming at full dose.
-
-Common side effects include dry mouth, dry eyes, and in some cases, anxiety or paranoia at high doses.
-
-## Cultivation
-
-Chem 91 is considered a moderately difficult strain to cultivate, best suited for experienced growers.
-
-It can be grown indoors or outdoors but performs best in a controlled indoor environment with stable [[greg-green-temperature-and-humidity-control]].
-
-**Flowering time:** 9–10 weeks indoors.
-
-**Yield:** Moderate, typically 300–400 g/m² indoors.
-
-The plants exhibit strong, stretching growth during the [[green-cannabis-grow-bible-vegetative-phase-management]] and develop dense, resinous colas.
-
-Chem 91 is sensitive to nutrient burn and requires careful feeding schedules with moderate nitrogen during veg and reduced nitrogen during flower.
-
-[[cannabis-disease-pest-resistance-breeding-clarke]] is moderate; the dense bud structure can be susceptible to botrytis (bud rot) in humid conditions.
-
-The strain responds well to [[cannabis-training-techniques-comparison]] including SCROG, LST, and supercropping.
-
-## See Also
-
-- [[chemdog]]
-
-- [[og-kush-cannabis-entity]]
-- [[sfv-og]]
-- [[tahoe-og]]
-- [[starfighter]]
-- [[ice-cream-cake-cannabis]]

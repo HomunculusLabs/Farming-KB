@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Homesteading Water Systems
 
-A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water. (see [[rainwater-harvesting-systems]]).
+A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water.
 
 ## Rainwater Harvesting
 
@@ -70,3 +70,18 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - [[permaculture-water-harvesting]] — for earthworks and swale design
 - [[swale-construction-guide]] — for swale building
 - [[irrigation-watering-techniques]] — for garden irrigation methods
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[query-what-is-the-rhizosphere-and-why-does-it-matter-for-plants]]
+- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

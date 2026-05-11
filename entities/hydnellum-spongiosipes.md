@@ -88,30 +88,3 @@ The fruiting bodies serve as habitat for fungivorous insects, particularly Coleo
 ## Edibility
 
 *Hydnellum spongiosipes* is considered inedible. The flesh is extremely tough and corky, even when young, and would not soften with cooking. The taste is strongly acrid and peppery, rendering it unpalatable.
-
-No toxic compounds have been specifically isolated from this species, but it is generally avoided by foragers due to its unappealing texture and taste. There are no documented cases of poisoning attributed to *H. spongiosipes*.
-
-The species has no culinary or commercial value. Its primary significance lies in its ecological role and its utility as an indicator species for forest health assessment.
-
-### Comparison with Congeners
-
-Several *Hydnellum* species share similar habitats and can be confused in the field.
-
-*H. peckii* is the most frequently encountered lookalike, differing primarily in its production of vivid red fluid droplets on the cap surface when young and fresh. *H. ferrugineum* has a more uniformly rust-colored cap and longer spines reaching 8 mm.
-
-*H. fuligineoviolaceum* develops distinctly violet tints in the cap margin and stipe that are absent in *H. spongiosipes*. *H. scrobiculatum* has a smoother, less felty cap surface and a more strongly zonate flesh pattern in cross-section.
-
-### Conservation Status
-
-*Hydnellum spongiosipes* is listed on several European fungal Red Lists. In the Netherlands, it is classified as endangered due to habitat loss from intensive forestry and atmospheric nitrogen deposition.
-
-The species is protected under regional conservation legislation in parts of Scandinavia and Germany. Its decline mirrors the broader pattern of Bankeraceae retreat across nitrogen-saturated European forest landscapes.
-
-Conservation recommendations include maintaining continuous forest canopy cover, reducing soil disturbance, and establishing buffer zones around known populations. Old-growth forest reserves provide the most reliable habitat protection for this and related mycorrhizal species.
-
-## See Also
-
-- [[phellodon-niger]]
-- [[laccaria-laccata]]
-- [[fomes-fomentarius]]
-- [[cantharellus-cibarius-entity]]

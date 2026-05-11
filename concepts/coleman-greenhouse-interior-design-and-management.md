@@ -1,20 +1,20 @@
 ---
-title: [[coleman-greenhouse-summer-crops]] Interior silvopasture systems design and management
-source: raw/papers/eliot-coleman-winter-harvest-handbook.md
+title: Coleman Greenhouse Interior Design And Management
+source: eliot-coleman-winter-harvest-handbook.md
 tags: [winter-harvest, greenhouse-design, eliot-coleman, protected-cultivation, interior-layout]
 created: 2026-05-09
 ---
 
 # Coleman Greenhouse Interior Design and Management
 
-Eliot Coleman's winter-harvest system depends not just on the
+[[eliot-coleman]]'s winter-harvest system depends not just on the
 greenhouse structure itself but on the careful design and
-management of the growing space within it.
+management of the [[cotter-growing-space-design-fruiting-rooms]] within it.
 
 The interior layout of a winter-harvest greenhouse is a
 deceptively important factor in overall productivity. Small
 decisions about bed width, path placement, and equipment
-positioning compound across an entire growing season.
+positioning compound across an entire [[extending-growing-season]].
 
 ## Bed Dimensions and Layout
 
@@ -26,7 +26,7 @@ One-quarter of Coleman's cool house is devoted to a concrete washing and packing
 
 ## Wire Wicket Support System
 
-The double-layer protection system (greenhouse plastic plus
+The double-layer protection system ([[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] plus
 inner row cover) requires physical support for the inner
 layer above the crops.
 
@@ -50,7 +50,7 @@ Even in unheated winter houses, some air circulation is necessary to prevent sta
 A foundational principle of Coleman's system is that the
 soil itself serves as the heat storage medium.
 
-Unlike heated greenhouses that use stone ballast, water tanks, or other thermal mass systems, the cold house relies entirely on the thermal mass of the soil in the growing beds. Well-prepared soil with high organic matter freezes later and thaws earlier than mineral soil, extending the effective season. The double-layer protection insulates the soil surface, reducing heat loss and preserving stored warmth.
+Unlike heated greenhouses that use stone ballast, water tanks, or other thermal mass systems, the cold house relies entirely on the thermal mass of the soil in the growing beds. Well-prepared soil with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] freezes later and thaws earlier than mineral soil, extending the effective season. The double-layer protection insulates the soil surface, reducing heat loss and preserving stored warmth.
 
 ## Space Utilization Strategy
 
@@ -88,59 +88,3 @@ for temperature monitoring equipment.
 Thermometers placed at crop height inside the house provide
 the data needed to assess whether interior conditions are
 within acceptable ranges for the crops being grown.
-
-Coleman recommends placing thermometers at multiple locations
-within each house, as temperature can vary significantly
-between the center and the edges, and between the ends that
-receive different amounts of wind exposure.
-
-## Seasonal Management Adjustments
-
-The interior management of a [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] shifts with the
-seasons. During fall planting (August through October), the
-primary concern is cooling — removing row covers and opening
-sidewalls moderates temperatures for transplanting winter crops.
-
-As temperatures drop through November, management shifts to heat
-retention: all openings sealed, inner row cover deployed, and the
-goal becomes maximizing the insulating double-layer effect.
-
-During the coldest months (December through February in Zone 5),
-very little active management is needed — crops are essentially in
-storage, growing so slowly that the main task is monitoring and
-harvest. In late winter and early spring, light levels increase
-and growth accelerates, making ventilation management critical
-again as sunny days cause rapid temperature spikes.
-
-## Tools and Equipment Layout
-
-An efficient interior layout includes designated storage for
-commonly used tools near the work areas where they are needed
-most.
-
-Hand tools (trowels, pruners, harvest knives) should be stored
-in a rack near the entrance, cleaned and returned after each
-use.
-
-Seeding supplies (flats, potting soil, labels) are best kept
-in a dry area near the transplanting station.
-
-The washing and packing area should have ready access to
-harvest bins, scales, and packaging materials.
-
-A notebook or whiteboard near the entrance is valuable for
-recording planting dates, harvest dates, and observations
-about crop performance throughout the season.
-
-## See Also
-
-- [[coleman-cold-greenhouse-double-layer-protection]] — The
-  two-layer system that makes unheated winter growing possible
-- [[coleman-mobile-greenhouse-system]] — Mobile
-  greenhouse system for alternating summer and winter beds
-- coleman [[comparison-passive-solar-vs-earth-sheltered]] greenhouse temperature performance
-  — Temperature data and thermal dynamics
-- [[coleman-bed-preparation-and-minimal-tillage]] — Soil
-  [[duggar-mushroom-spawn-preparation-techniques]] for winter growing beds
-- [[coleman-winter-greens-variety-selection]] — Crop selection
-  for winter production

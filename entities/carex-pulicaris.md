@@ -13,7 +13,7 @@ sources:
   - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
   - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
   - Luceño, M. & Jiménez-Mejías, P. (2008). "Systematics of Carex section Paludosae." *Botanical Journal of the Linnean Society* 158: 1-22.
-  - Global Biodiversity Information Facility (GBIF). *Carex pulicaris L.* https://www.gbif.org/species/2723244
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). *Carex pulicaris L.* https://www.gbif.org/species/2723244
   - Rodwell, J.S. (1991). *British Plant Communities, Vol. 2: Mires and Heaths*. Cambridge University Press.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 **Carex pulicaris** is a small perennial sedge of the family Cyperaceae, commonly known as flea sedge. It is native to Europe and western Asia, where it grows in acidic bogs, wet heaths, and damp peaty ground.
 
-The species epithet "pulicaris" means flea-like, referring to the small, dark, densely clustered female spikes that superficially resemble fleas. This distinctive appearance aids field identification.
+The species epithet "pulicaris" means flea-like, referring to the small, dark, densely clustered female spikes that superficially resemble fleas. This distinctive appearance aids [[palmer-mushroom-hunting-field-identification]].
 
 Carex pulicaris belongs to Carex section Paludosae, a group of small, tufted sedges adapted to acidic mire conditions. The species typically flowers from April through June.
 
@@ -71,7 +71,7 @@ Elevational range extends from near sea level in oceanic regions to approximatel
 
 Carex pulicaris is a characteristic species of acidic mire and wet heath plant communities. It is often found in association with Sphagnum mosses, occupying the wetter parts of the mire microtopography.
 
-Common associates include Sphagnum capillifolium, Sphagnum papillosum, Eriophorum angustifolium, Carex nigra, Carex canescens, Calluna vulgaris, and Erica tetralix.
+Common associates include [[sphagnum-capillifolium]], Sphagnum papillosum, Eriophorum angustifolium, Carex nigra, [[carex-canescens]], [[calluna-vulgaris]], and Erica tetralix.
 
 The small size of Carex pulicaris allows it to grow in the spaces between Sphagnum hummocks and in shallow waterlogged depressions. This microhabitat specialization reduces competition with taller sedges and grasses.
 
@@ -83,39 +83,8 @@ In mire restoration contexts, the presence of Carex pulicaris can indicate succe
 
 The species has been used as a monitoring indicator in several European peatland restoration projects. Its sensitivity to water table depth makes it a reliable gauge of restoration success.
 
-Population dynamics of Carex pulicaris are closely tied to weather patterns, with wet years favoring expansion and dry years causing local retreat. This responsiveness makes it a useful barometer of mire condition.
+[[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] of Carex pulicaris are closely tied to weather patterns, with wet years favoring expansion and dry years causing local retreat. This responsiveness makes it a useful barometer of mire condition.
 
 ## Conservation and Threats
 
 Carex pulicaris is assessed as Least Concern at the European level but has experienced significant regional declines. Local extinctions have occurred in intensively drained lowland areas.
-
-Peatland drainage for agriculture and forestry is the primary threat across much of its range. The species is particularly vulnerable because it requires both acidic conditions and consistently high water tables.
-
-Atmospheric nitrogen deposition may favor competitive grasses and ericaceous shrubs over small sedges like Carex pulicaris. This threat is significant in central European mire systems.
-
-Overgrazing by livestock in upland areas can damage mire surfaces through trampling and poaching, though light grazing may benefit the species by reducing competition from taller vegetation.
-
-Climate change poses a potential long-term threat through increased summer drought stress. Raised water temperatures and reduced precipitation could desiccate the shallow peat layers that the species depends on.
-
-Conservation efforts focus on protecting intact bog complexes and restoring hydrological conditions in degraded mires. The species responds positively to drain blocking and rewetting measures.
-
-## Related Species
-
-Carex pulicaris is closely related to Carex curta within section Paludosae. It is distinguished from Carex curta by its darker, more clustered female spikes and smaller overall stature.
-
-Other small mire sedges that may occur in similar habitats include Carex canescens and Carex echinata. Carex pulicaris is distinguished from both by its dark brown to blackish inflorescence.
-
-The section Paludosae is part of the Vignea clade (two-stigmate species). Molecular studies have confirmed the monophyly of the section and its relationship to other European mire sedge groups.
-
-## See Also
-
-- [[carex-nigra]]
-- [[carex-canescens]]
-- [[carex-echinata]]
-- [[carex-rostrata]]
-- [[carex-lasiocarpa]]
-- [[carex-flacca]]
-- [[sphagnum-palustre]]
-- [[molinia-caerulea]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]

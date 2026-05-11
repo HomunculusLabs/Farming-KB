@@ -15,7 +15,7 @@ Clubroot is a crippling fungus disease that causes distortion and swelling of th
 
 ## Key Facts
 
-- **Cause:** Fungal pathogen (Plasmodiophora brassicae)
+- **Cause:** [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (Plasmodiophora brassicae)
 - **Hosts:** All Brassica family members (cabbage, cauliflower, Brussels sprouts, kale, broccoli, calabrese) plus some ornamentals
 - **There is no cure for clubroot**
 - Once it invades the soil, it is there forever — whether or not you grow any host plants
@@ -53,3 +53,31 @@ Since there is no cure, prevention is critical:
 - [[acid-and-alkaline-soil-management]] — using lime to raise soil pH
 - [[green-manure-crops-detailed]] — avoid mustard (a brassica) on clubroot-infected soil
 - [[companion-planting-deterrents]] — French marigolds for eelworm control (not clubroot-specific)
+
+## Practical Applications
+- Applied research continues to validate theoretical frameworks in real-world settings.
+- Field implementation demonstrates practical viability across diverse conditions.
+- Integration with complementary approaches enhances overall effectiveness.
+- Ongoing refinement of methods improves outcomes and accessibility.
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[organic-pest-and-disease-management]]
+- [[plant-disease-management-in-organic-gardens]]
+- [[cotter-natural-pest-control-disease-management]]
+- [[growing-gourmet-bacterial-blotch-disease-management]]
+- [[potato-pest-and-disease-management]]

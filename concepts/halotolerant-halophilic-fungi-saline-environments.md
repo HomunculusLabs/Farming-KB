@@ -1,5 +1,5 @@
 ---
-title: "Halotolerant and halotolerant halophilic fungi saline environments in Saline Environments"
+title: Halotolerant Halophilic Fungi Saline Environments
 created: 2026-04-26
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 [[marine-mycelial-fungi]]. The
 diversity of halophilic fungi in extreme saline habitats
 remains poorly documented and likely represents a
-significant reservoir of undescribed fungal species.
+significant reservoir of [[undescribed-fungal-taxa]] species.
 
 ### Halotolerant Fungi
 
@@ -55,8 +55,8 @@ These include:
   fungal cells, accumulating in response to osmotic stress.
 - **Mannitol and other sugar alcohols (polyols)**: Commonly
   accumulated by marine and halophilic fungi. Mannitol
-  is used in culture media to maintain osmotic conditions
-  for isolating marine fungi.
+  is used in [[agar-culture-media]] to maintain osmotic conditions
+  for isolating [[marine-fungi-diversity-sampling]].
 - **Erythritol, arabitol, and other polyols**: Less common
   but reported from some halophilic species.
 
@@ -72,7 +72,7 @@ external environment.
 
 ### Cell Wall Modifications
 
-The fungal cell wall may be modified in response to saline
+The [[chitin-chitosan-fungal-cell-wall]] may be modified in response to saline
 conditions, with changes in the composition and cross-linking
 of wall polysaccharides. These modifications can affect the
 permeability of the wall to water and solutes and may
@@ -88,59 +88,3 @@ facultative marine fungi. Estuarine environments, where
 salinity fluctuates with tides and freshwater input,
 select for euryhaline species capable of tolerating rapid
 changes in salt concentration.
-
-### Saline Soils and Desert Crusts
-
-Arid and semi-arid regions with saline soils support
-distinctive [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. In Saudi Arabian deserts,
-halotolerant and halophilic fungi have been isolated from
-soil, and studies have found that fungi from more saline
-environments tend to be more halotolerant than fungi from
-more mesic environments. Alkaline soda lakes and soda
-deserts present particularly challenging conditions,
-with both high pH and high salinity. Low calcium
-concentrations in these environments not only exert an
-osmotic effect but adversely affect fungal cell wall
-integrity.
-
-### Hypersaline Habitats
-
-Hypersaline environments, including salt pans, solar
-salterns, and the [[allegro-dead-sea-scrolls-and-early-christian-sects]], represent the extreme end
-of saline habitats. Few fungi can grow at the highest
-salinities, but some species have been isolated from
-these environments. The fungal communities of hypersaline
-habitats are dominated by melanized species, which may
-derive additional protection from their dark pigments.
-
-### Salt-Affected Agricultural Soils
-
-Salinization of agricultural soils due to irrigation is
-a growing global problem. The fungi that persist in these
-affected soils include both halotolerant saprotrophs and
-plant pathogens. Changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
-due to salinization can affect soil health, nutrient
-cycling, and plant productivity.
-
-### Hortaea and Black Yeasts
-
-Hortaea werneckii is one of the best-studied halophilic
-fungi, isolated from hypersaline environments including
-salterns and the Dead Sea. This melanized yeast-like fungus
-can grow at sodium chloride concentrations up to
-approximately 30% and is truly halophilic, showing optimal
-growth at moderate to high salinities. Related species
-include Cladosporium halotolerans and other dematiaceous
-fungi from saline environments. Halotolerant dothideaceous
-black yeasts have been the subject of taxonomic and
-physiological studies.
-
-### Aspergillus and Penicillium
-
-Several species of Aspergillus and Penicillium show
-
-## See Also
-
-- [[saprotrophic-fungi-heterogeneous-environments]]
-
-- [[dematiaceous-fungi-melanin-fungal-ecology]]

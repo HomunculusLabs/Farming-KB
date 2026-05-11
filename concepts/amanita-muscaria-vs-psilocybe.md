@@ -1,6 +1,6 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology vs Psilocybe Mushrooms
-source: raw/papers/carolina-mushrooms_08qxp.md
+title: Amanita Muscaria Vs Psilocybe
+source: carolina-mushrooms_08qxp.md
 tags: [mycology, taxonomy, amanita, psilocybe, toxicology, hallucinogens]
 created: 2026-05-09
 ---
@@ -26,7 +26,7 @@ is critical because some closely related Amanita species are lethal.
   Cortinariaceae
 - **Genus**: Psilocybe (primary), also Conocybe, Copelandia, Panaeolus,
   Inocybe
-- **Common names**: Magic mushrooms, liberty caps, wavy caps
+- **Common names**: [[1960s-counterculture-and-magic-mushrooms]], liberty caps, wavy caps
 
 ## Active Compounds
 
@@ -45,8 +45,8 @@ The active chemicals are **completely different** from psilocybin:
 
 ### Psilocybe mushrooms
 - **Psilocybin** (4-PO-DMT): Prodrug converted to psilocin
-- **Psilocin** (4-HO-DMT): Active 5-HT2A serotonin receptor agonist
-- **Baeocystin, Norbaeocystin**: Minor tryptamine alkaloids
+- **Psilocin** (4-HO-DMT): Active 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]] agonist
+- **Baeocystin, Norbaeocystin**: Minor [[hplc-analysis-of-tryptamine-alkaloids]]
 
 See [[psilocybin-psilocin-chemistry]] for detailed chemistry.
 
@@ -66,7 +66,7 @@ See [[psilocybin-psilocin-chemistry]] for detailed chemistry.
 ## Toxicity Risk
 
 ### Amanita muscaria
-- Carries **substantial toxicity risks** even within the Amanita genus
+- Carries **substantial toxicity risks** even within the [[amanita-genus-morphology]]
 - Closely related species (A. phalloides, A. virosa) contain amatoxins
   that cause fatal liver failure
 - Misidentification with deadly Amanita species is a genuine and
@@ -77,7 +77,7 @@ See [[psilocybin-psilocin-chemistry]] for detailed chemistry.
   and prolonged unconsciousness
 
 ### Psilocybe species
-- Acute toxicity of psilocybin is **low**
+- [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] of psilocybin is **low**
 - Fatal intoxications are extremely rare
 - No evidence of chronic toxicity, organ damage, mutagenicity, or
   teratogenicity
@@ -88,50 +88,3 @@ See [[psilocybin-psilocin-chemistry]] for detailed chemistry.
 ## Preparation and Conversion
 
 Amanita muscaria requires specific preparation for safer use:
-
-1. **Drying or heating** converts ibotenic acid (excitatory, more toxic)
-   to muscimol (sedative, primary active compound)
-2. Traditional Siberian practices involved drying, then reconstituting
-   in water or urine recycling to concentrate muscimol
-3. Fresh Amanita muscaria contains higher ibotenic acid ratios,
-   increasing the risk of unpleasant or dangerous effects
-
-Psilocybe mushrooms are typically consumed fresh, dried, or brewed into
-tea with no chemical conversion required.
-
-## Legal Status Differences
-
-The two groups have different legal trajectories:
-
-- **Psilocybe mushrooms**: Six EU countries tightened legislation
-  between 2001-2006 (Denmark, Netherlands, Germany, Estonia, UK, Ireland).
-  Psilocybin and psilocin are Schedule I under the 1971 UN Convention.
-- **Amanita muscaria**: Remains legal in many jurisdictions where
-  [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are prohibited. This legal gap has led retailers
-  to market A. muscaria as a "legal alternative" following psilocybin
-  mushroom bans — a practice that raises health concerns given the
-  toxicity profile.
-
-## Ecological and Identification Notes
-
-- A. muscaria is mycorrhizal, forming associations with birch and pine
-  trees in temperate and boreal forests. The iconic red cap with white
-  warts is unmistakable when mature.
-- Psilocybe species are typically saprotrophic, growing in grassy fields,
-  pastures, and on decaying wood. Most are small, brown/tan mushrooms
-  that could be confused with non-psychoactive or poisonous species.
-- Blueing upon bruising is characteristic of psilocybin mushrooms but
-  not exclusive to them.
-- A. muscaria does not blue when bruised.
-
-- [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
-## See Also
-
-- [[psilocybin-psilocin-chemistry]] — [[psilocybin-tryptamine-chemistry-fungi]]
-- [[hallucinogenic-mushroom-dosage-effects]] — [[cannabis-dosing-guidelines-by-condition]]
-
-## References
-
-- Hillebrand J, Olszewski D, Sedefov R. [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: an
-  emerging trend case study. EMCDDA Thematic Papers, 2006.
-- Stamets P. Psilocybin Mushrooms of the World. Ten Speed Press, 1996.

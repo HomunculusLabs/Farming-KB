@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [soil, agriculture]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Soil Compaction Solutions (Ingham Approach)
@@ -17,7 +18,7 @@ Dr. [[mycorrhizal-networks]]**: [[soil-compaction-solutions]]
 
 # Soil Compaction and Drainage
 
-Soil compaction is one of the greatest enemies of the [[soil-food-web]]. When soil is compacted, the entire biological system that supports plant health breaks down.
+Soil compaction is one of the greatest enemies of the [[soil-foodweb]]. When soil is compacted, the entire biological system that supports plant health breaks down.
 
 ## Effects of Compaction
 
@@ -87,28 +88,3 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

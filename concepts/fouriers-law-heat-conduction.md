@@ -88,11 +88,3 @@ At very short times, very low temperatures, or nanoscale dimensions, non-Fourier
 When carrier mean free paths approach device dimensions, heat flow depends on boundaries and may not be captured by bulk conductivity.
 
 Strongly nonlinear conductivity requires solving with k as a function of temperature, phase, composition, or damage state.
-
-Moving boundaries complicate the picture in melting, freezing, ablation, and solidification problems.
-
-Contact resistance can dominate a joint even when both solids individually have high conductivity.
-
-Radiation across gaps or convection in fluids can masquerade as conduction if an experiment is not c [[heat-exchanger-effectiveness-ntu]] through wall conduction and overall heat-transfer coefficients.
-
-In numerical simulation it is commonly solved with [[nitrogen-transfer-through-common-mycorrhizal-networks]]

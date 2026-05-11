@@ -1,6 +1,6 @@
 # Fukuoka's Hotel Analogy: A Model for Understanding Crop Yields
 
-**Source:** Masanobu Fukuoka, *The Natural Way of Farming* (1985)
+**Source:** [[masanobu-fukuoka]], *The Natural Way of Farming* (1985)
 
 ## Overview
 
@@ -28,7 +28,7 @@ best and highest yield possible.
 3. **Actual harvest is always less:** The actual harvest falls short of maximum yield
 because some rooms are invariably vacant — flaws or weaknesses in some elements of
 cultivation hold down yields. The actual harvest equals total rooms minus vacancies.
-4. **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] fills vacancies:** The approach of scientific farming is to fill
+4. **[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] fills vacancies:** The approach of [[fukuoka-illusions-of-scientific-farming]] is to fill
 as many rooms as possible. But this is merely minimizing losses, not truly raising yields.
 5. **The artificial annex:** Any attempt to outdo nature — increasing production by
 purely industrial methods that disregard the [[fukuoka-textdoc-natural-order-food-chain-unity]] — is analogous to adding an
@@ -41,9 +41,9 @@ floor do not always exert a negative influence on another.
 
 ## Critique of Liebig's Law of Minimum
 
-Fukuoka used the hotel model to directly challenge Justus von Liebig's principle that
+Fukuoka used the [[fukuoka-hotel-model-harvest-yield-architecture]] to directly challenge Justus [[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s principle that
 yield is dominated by the nutrient present in shortest supply. Under Liebig's reasoning,
-applying more fertilizer or improving pest control would raise yields — equivalent to
+applying more fertilizer or improving [[hamilton-beneficial-insects-and-biological-pest-control]] would raise yields — equivalent to
 renovating just one room or one floor of the hotel.
 
 The problem is that there are no absolute criteria for judging whether an element is
@@ -75,7 +75,7 @@ work and what will not, there is no reason for excessive concern about minor imp
 ## Inductive Versus Deductive Reasoning in Agriculture
 
 Fukuoka connected the hotel analogy to his broader [[fukuoka-critique-of-scientific-agriculture]] methodology.
-Scientific farming studies all aspects of rice production through inductive
+Scientific farming studies all aspects of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]] through inductive
 experimentation — running tests without a clear goal, oblivious to the direction research
 takes them. Scientists amass new data they call progress, but in the absence of a clear
 goal, this activity is "just aimless wandering."
@@ -87,49 +87,3 @@ always been the driving force behind rapid leaps in development, invariably trig
 "some oddball idea dreamed up by an eccentric or a zealous farmer."
 
 ## True Deduction and Intuitive Reasoning
-
-Fukuoka distinguished between restricted deduction (merely the inverse of induction)
-and true deduction, which originates "at a point beyond the world of phenomena." True
-deduction arises from philosophical understanding of nature's essence and grasping the
-ultimate goal.
-
-He likened induction and deduction to two climbers ascending a rock face. The lower
-climber, who checks his footing before boosting the lead climber, plays an inductive
-role. The lead climber, who lets down a rope and pulls the lower climber up, plays a
-deductive role. Together they make only slow progress.
-
-To achieve dramatically improved yields, one would need a different approach entirely
-— "descending onto the peak by rope from a helicopter." It is from intuitive reasoning,
-which goes beyond both induction and deduction, that [[comparison-natural-farming-vs-permaculture]] arises.
-
-## High-Yield Theory as Prevention, Not Production
-
-Fukuoka identified three fundamental flaws in high-yield theory:
-
-1. **Irreversibility of analysis:** Science can break nature down and analyze it, but
-cannot reassemble the parts into the same whole. What appears to be reconstructed nature
-is just an imperfect imitation that can never produce higher yields than natural farming.
-2. **Prevention confused with production:** High-yield theory amounts to an attempt to
-approach natural harvests rather than exceed them. Measures trumpeted as yield-boosting
-are really measures to stave off crop losses.
-3. **The breakdown spiral:** Artificially achieving yields that surpass natural output
-only increases imperfection and invites breakdown in agriculture. Yields that outstrip
-nature can never be achieved.
-
-## The Mu Economy Connection
-
-Fukuoka extended the hotel analogy into economics. In a nation where everyone tends small
-farms, [[fukuoka-textdoc-production-costs-not-coming-down]] for natural farming are zero — no chemical inputs, no labor
-reckoned as expense. Crops grown by natural farming should be assessed on the basis of a
-natural economy, not a monetary economy. Establishing "Mu economics" requires discarding
-the false system of values and unearthing the original and true value of agriculture.
-
-The hotel's rock foundation — nature — provides freely and without discrimination.
-Prices are a man-made device that do not exist in nature. "Nothing has less to do with
-the crops of nature than money."
-
-See also: [[fukuoka-critique-of-liebig-law-of-minimum]], [[fukuoka-mu-economics]], [[fukuoka-critique-inductive-deductive]], [[fukuoka-high-yield-theory-photosynthesis-critique]]
-
-## See Also
-
-- [[fukuoka-hotel-model-harvest-yield-architecture]]

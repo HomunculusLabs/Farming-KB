@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
   - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
-  - Packee, E.C. (1990). "Sitka Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1.
+  - Packee, E.C. (1990). "Sitka Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics [[berry-growing]], Vol. 1.
   - IUCN Red List (2023). "Picea sitchensis."
 ---
 
@@ -20,9 +20,9 @@ sources:
 
 **Picea sitchensis**, the Sitka spruce, is a large evergreen conifer in the family Pinaceae and the largest species of spruce. It is native to the coastal temperate rainforests of northwestern North America.
 
-The species is among the most commercially important timber trees in the world, forming the backbone of the forestry industry in the Pacific Northwest of the [[dmt-containing-plants-united-states-halpern]] and in the British Isles.
+The species is among the most commercially important timber trees in the world, forming the backbone of the forestry industry in the [[psilocybin-north-america-pacific-northwest]] of the [[dmt-containing-plants-united-states-halpern]] and in the British Isles.
 
-Mature trees routinely exceed 60 meters in height, with the current champion reaching over 96 meters. The species is distinguished by its large, sharp-pointed cones, scaly bark, and remarkably fast growth rate in favorable coastal conditions.
+Mature trees routinely exceed 60 meters in height, with the current champion reaching over 96 meters. The species is distinguished by its large, sharp-pointed cones, scaly bark, and remarkably fast [[soil-temperature-plant-growth-rate-doubling-rule]] in favorable coastal conditions.
 
 Maximum recorded age is approximately 700–800 years, though most trees in managed stands are harvested well before maturity. Old-growth individuals develop massive buttressed root systems and spreading crowns.
 
@@ -60,7 +60,7 @@ The species thrives in the cool, wet maritime climate of the Pacific Northwest, 
 
 It grows on a wide range of soil types but performs best on deep, well-drained alluvial and colluvial soils with ample [[hamilton-composting-and-organic-matter-management]].
 
-Stands at the southern edge of the range in California are increasingly fragmented and show signs of climate-related stress, with declining growth rates and increased mortality.
+Stands at the southern edge of the range in California are increasingly fragmented and show signs of climate-related stress, with declining [[coleman-sunlight-and-winter-crop-growth-rates]] and increased mortality.
 
 ## Cultivation and Silviculture
 
@@ -87,29 +87,3 @@ Primary uses include [[singh-wood-rot-fungi-structural-timber-decay]] for constr
 Sitka spruce soundboards are highly prized by musical instrument makers, particularly for acoustic guitars, pianos, and harpsichords, due to their excellent acoustic resonance properties.
 
 The species accounts for a significant proportion of commercial softwood production in both the Pacific Northwest and the British Isles.
-
-Sitka spruce pulp is particularly valued for its long fiber length, which produces strong, high-quality paper and packaging materials.
-
-## Ecological Role
-
-Sitka spruce is a defining species of the coastal temperate rainforests of the Pacific Northwest, one of the most productive forest ecosystems on Earth.
-
-It forms ectomycorrhizal associations with numerous fungal species, including commercially valuable mushrooms such as chanterelles (*Cantharellus* spp.) and matsutake (*Tricholoma matsutake*).
-
-Old-growth Sitka spruce forests provide critical habitat for the northern spotted owl (*Strix occidentalis caurina*), marbled murrelet (*Brachyramphus marmoratus*), and numerous salmonid fish species that depend on the forested stream systems.
-
-The species plays an important role in coastal geomorphology, stabilizing streambanks and moderating sediment input into aquatic ecosystems.
-
-Standing dead trees (snags) and fallen logs from old-growth spruce provide essential habitat for cavity-nesting birds, arboreal mammals, and epiphytic plants.
-
-Windthrow is the primary natural disturbance regime in Sitka spruce forests. The species' shallow root system makes it vulnerable to uprooting during severe coastal storms, creating canopy gaps that drive regeneration dynamics.
-
-## See Also
-
-- [[picea-abies]]
-- [[abies-alba]]
-- [[sequoia-sempervirens]]
-- [[juniperus-communis]]
-- [[larix-decidua]]
-- [[abies-grandis]]
-- [[larix-kaempferi]]

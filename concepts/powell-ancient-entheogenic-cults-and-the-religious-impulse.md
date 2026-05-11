@@ -1,5 +1,5 @@
 ---
-title: powell ancient entheogenic cults and the religious impulse Cults and the Religious Impulse
+title: Powell Ancient Entheogenic Cults And The Religious Impulse
 created: 2026-04-28
 tags: [entheogens, ancient-religion, eleusinian-mysteries, aztec,
   teotihuacan, religious-impulse, shamanism, theophany]
@@ -14,15 +14,15 @@ type: concept
 Simon G. Powell argues that psychoactive plants and fungi played a
 fundamental role in the birth and development of human religious consciousness.
 Rather than reducing religion to "damnable drugs," Powell contends that
-understanding the entheogenic origins of religious experience actually
+understanding the [[mithraism-entheogenic-origins]] of religious experience actually
 empowers and strengthens our comprehension of religion, revealing its roots
-in direct encounters with numinous states of consciousness.
+in direct encounters with numinous [[mckenna-food-gods-designer-states-of-consciousness]].
 
 ## The Historical Pattern of Ritual Entheogen Use
 
 The historical pattern in which indigenous visionary agents are consumed
 ritually to induce theophany and religious solidarity appears across
-cultures and epochs. In ancient Greece, the classic [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] cult
+cultures and epochs. [[psychedelic-use-in-ancient-greece]], the classic [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] cult
 echoed the scenario occurring at Mesoamerican temples. The mystery rites at
 Eleusis near Athens centred around the drinking of a secret potion that
 granted a numinous vision to initiates, the entire sacred ceremony taking
@@ -45,11 +45,11 @@ ceremonial contexts to induce visionary states and commune with the divine.
 The Spanish friars who witnessed these practices denounced them as
 devil-worship, a reaction Powell attributes to the fear generated when a
 rigidly established mental model of reality is confronted with incompatible
-data from the entheogenic experience.
+data from the [[pineal-gland-dmt-entheogenic-experience]].
 
 ## Empowering Rather Than Reducing Religion
 
-Powell insists that claims linking psychoactive plants to ancient religion do
+Powell insists that claims linking psychoactive plants to [[amanita-in-ancient-religion]] do
 not belittle religion but empower it. The religion becomes firmly entwined
 with the unequivocal numinous effects of vision-inducing fungi and plant
 species. These substances "cannot fail but have a dramatic impact." God
@@ -88,31 +88,3 @@ knowledge throughout history. The Spanish friars who denounced Aztec mushroom
 use, the medieval Inquisitors who burned witches, and modern authorities
 who prohibited [[mckenna-suppression-psychedelic-research-lsd-therapy]] all share a common trait: they possess a
 rigidly established mental model of reality that is threatened by the
-entheogenic experience. An open-minded approach to psilocybin is therefore
-essential if it is to have a beneficial effect. The experience must be
-somehow integrated into life in a way that minimises social disharmony.
-
-## Wasson and the Xochipilli Statue
-
-One of the most remarkable pieces of evidence for the exalted role of
-psychoactive plants in Mesoamerican culture is the early sixteenth century
-statue of the Aztec god Xochipilli, or "The Prince of Flowers." The statue
-depicts a cross-legged male figure caught up in an ecstatic trance. Upon
-close examination by Wasson and ethnobotanist R.E. Schultes, the carved
-"flowers" were identified as psychoactive species including Nicotiana tabacum,
-[[plants-of-the-gods-turbina-corymbosa-ololiuqui]] (morning glory), and [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]. Wasson regarded
-the statue as a "cultural Rosetta Stone," bypassing the theological
-preconceptions of the Spanish friars and speaking directly with the voice of
-the pre-Conquest Aztecs.
-
-## Nahuatl Poetry and the Language of Flowers
-
-Wasson also discovered that pre-Conquest Aztec poetry written in Nahuatl
-frequently references "flowers" in peculiar and elaborate ways — "the
-flowers that inebriate," "the joyous flowers," "the precious flowers" —
-without distinguishing between them. This makes sense only if the "flowers"
-referred to visionary plants, most notably the psilocybin mushroom. The
-Aztec poets were producing art from direct entheogenic experience, their
-works channelling their deific respect for the sacred flora.
-
-See also: [[powell-the-other-and-sentient-presence]], [[calea-zacatechichi-dream-herb-ethnobotany]]

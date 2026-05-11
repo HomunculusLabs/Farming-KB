@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # LOPHOPHINE
 
-PIHKAL entry #95. 3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #95. 3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -24,7 +24,7 @@ PIHKAL entry #95. 3-METHOXY-4,5-METHYLENEDIOXYPHENETHYLAMINE.
 ## Qualitative Comments
 
 > (with 150 mg) Between two and five hours, very
-> peaceful and euphoric mood elevation, similar to mescaline, but
+> peaceful and euphoric mood elevation, similar to [[mescaline]], but
 > without any visual distortion. Mild enhancement of color perception,
 > possibly a function of mood elevation. There was no nausea, no
 > eyes-closed vision. Slept easily that evening.
@@ -88,23 +88,3 @@ containing 133 g H2SO4. The phases were separated, and the aqueous
 phase was washed with 2x100 mL Et2O. To it was then added 625 g
 potassium sodium tartrate, and sufficient base to bring the pH to >9.
 This was extracted with 3x250 mL CH2Cl2, and the pooled extracts
-stripped of solvent under vacuum. The residue was dissolved in
-anhydrous Et2O and saturated with anhydrous HCl gas, giving a heavy
-
-crystallization of salts. These were removed by filtration, Et2O
-washed, and air dried, to give 17.7 g
-3-methoxy-4,5-methylenedioxyphenethylamine (LOPHOPHINE) as an
-off-white solid with a mp of 160-161 deg C. This was dissolved in CH3CN
-containing 5% EtOH, decolorized with activated charcoal, filtered, and
-the removed charcoal washed with boiling CH3CN. Slow cooling of the
-solution provided 11.7 g of a white product which melted at 164-164.5
-deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[lophophine-entity]]
-- [[phenethylamine-chemistry-basics]]

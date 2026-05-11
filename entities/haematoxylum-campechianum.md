@@ -23,7 +23,7 @@ sources:
 
 It is one of the most historically significant dye plants in world commerce, producing hematoxylin, a pigment that yields deep reds, purples, blues, and blacks.
 
-Logwood was a major driver of European colonial expansion into the Caribbean and Central America during the 16th–18th centuries.
+Logwood was a major driver of European colonial expansion into the Caribbean and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] during the 16th–18th centuries.
 The tree continues to be harvested for hematoxylin, which remains important in histology and microscopy as a biological stain.
 
 ## Taxonomy and Morphology
@@ -48,7 +48,7 @@ Logwood is native to the coastal regions of southern Mexico (particularly the Yu
 
 It has been widely introduced throughout the tropics and is naturalized in many Caribbean islands, West Africa, and parts of [[psilocybe-southeast-asia-pacific]].
 
-The species thrives in lowland tropical forests, coastal thickets, mangrove margins, and seasonally flooded areas.
+The species thrives in lowland [[fungal-biodiversity-tropical-forests]], coastal thickets, mangrove margins, and seasonally flooded areas.
 
 It tolerates a range of soil types including saline, calcareous, and poorly drained soils.
 
@@ -64,7 +64,7 @@ Spanish conquistadors encountered its use in the Yucatán in the early 16th cent
 
 The dye quickly became highly valued for producing blacks, purples, and blues in the European [[staycare-fungal-treatment-of-textile-industry-wastewater]].
 
-Conflicts between Spanish, British, and French interests over logwood harvesting rights in Central America were frequent from the 17th to 19th centuries.
+Conflicts between Spanish, British, and French interests over logwood harvesting rights [[neurotropic-fungi-in-central-america]] were frequent from the 17th to 19th centuries.
 
 British logwood cutters established settlements in Belize (then British Honduras) that eventually became the colony of British Honduras.
 
@@ -87,29 +87,3 @@ Hematoxylin is extracted by boiling chopped heartwood in water, yielding a deep 
 Different mordants produce a remarkable range of colors: alum yields purples and mauves, iron produces deep blacks, chrome gives blues, and tin produces bright reds.
 
 The combination of hematoxylin with iron mordants was the standard method for producing true black in European textile dyeing.
-
-In histology, hematoxylin is the most widely used nuclear stain, typically counterstained with eosin (H&E staining).
-
-It has been used in microscopy since the 1860s and remains indispensable in pathology laboratories worldwide.
-
-## Bioactive Compounds
-
-Hematoxylin and hematein are the primary bioactive compounds, both belonging to the flavonoid class.
-
-Hematein has demonstrated antioxidant, anti-inflammatory, and antimicrobial activities in laboratory studies.
-
-Antibacterial activity has been reported against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
-
-Heartwood extracts have shown antifungal activity against dermatophytes and yeasts.
-
-In traditional medicine, bark and heartwood decoctions have been used to treat diarrhea, dysentery, and wound infections.
-
-The astringent properties of the heartwood are attributed to its high tannin content.
-
-## See Also
-
-- [[cedrela-odorata]]
-- [[prosopis-juliflora]]
-- [[acacia]]
-- [[senna-alexandrina]]
-- [[curcuma-longa]]

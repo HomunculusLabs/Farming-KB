@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 9)
 
-Sea of Green (SOG) is a growing technique that maximizes yield per unit of time and space by cultivating many small plants with short vegetative periods. The grow space becomes a dense "sea" of green bud tops.
+[[cannabis-sea-of-green-sog-method]] (SOG) is a growing technique that maximizes yield per unit of time and space by cultivating many small plants with short vegetative periods. The grow space becomes a dense "sea" of green bud tops.
 
 ## Core Concept
 
@@ -50,7 +50,7 @@ Instead of growing fewer large plants over a long period, SOG grows many small p
 Select indica-dominant strains or strains known for:
 - Naturally compact structure
 - Single-cola dominance
-- Fast flowering time
+- [[cannabis-strain-jamaican-dream-fast-flowering-sativa]] time
 - Uniform growth patterns (especially important with clones)
 
 ### 2. Prepare Containers
@@ -62,7 +62,7 @@ Select indica-dominant strains or strains known for:
 ### 3. Plant Density
 
 - **Standard density**: 1 plant per 1–2 square feet
-- **High density**: 4–9 plants per square foot (using very small containers like Solo cups)
+- **High density**: 4–9 plants per [[comparison-deep-bed-cultivation-vs-square-foot-gardening]] (using very small containers like Solo cups)
 - Spacing depends on container size, light coverage, and strain spread
 
 ### 4. Vegetative Phase
@@ -83,23 +83,7 @@ Select indica-dominant strains or strains known for:
 
 - Monitor for height differences and manage accordingly
 - Remove any male plants immediately if growing from seed
-- Standard flowering care: nutrients, watering, pest monitoring
+- Standard flowering care: nutrients, watering, [[cervantes-sticky-traps-pest-monitoring]]
 - Support bud-laden colas if they become top-heavy (use bamboo stakes or Y-supports)
 
 ## SOG vs SCROG
-
-| Feature | SOG | SCROG |
-|---------|-----|-------|
-| Plant count | Many small plants | Fewer large plants |
-| Vegetative time | Very short (2–3 weeks) | Longer (4–8 weeks) |
-| Training required | Minimal | Extensive (screen training) |
-| Yield per plant | Low | High |
-| Yield per time | High | Medium-High |
-| Best for | Fast turnover, indica strains | Maximizing per-plant yield |
-| Legal limitation | Problematic in plant-count-limited areas | Better for limited plant counts |
-
-See [[cannabis-screen-of-green-scrog-guide]] — SCROG technique comparison
-- [[cannabis-cloning-and-mother-plants]] — clone production for SOG
-- [[cannabis-grow-room-setup]] — grow space planning
-- [[cannabis-perpetual-grow-cycle]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]

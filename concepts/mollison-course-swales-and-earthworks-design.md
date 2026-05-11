@@ -1,10 +1,11 @@
 ---
-title: [[mollison-course-coppice-forest-management]] [[pdc-swales-and-earthworks-water-management]] design Design
+title: Mollison Course Swales And Earthworks Design
 created: 2026-04-28
 tags: [permaculture, swales, earthworks, water-harvesting, contour, mulch, gley, fire-protection, forest-management, net-and-pan, slope-design]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -87,9 +88,3 @@ current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
 
 Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[mollison-permaculture-design-course-curriculum]]

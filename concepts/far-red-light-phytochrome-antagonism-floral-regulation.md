@@ -24,7 +24,7 @@ source:
 
 Far-red light (wavelengths 700-750 nm, centred around 730 nm) acts as a biological antagonist to red light in the phytochrome [[phytochrome-signaling-plant-light-perception]] signalling system that controls flowering in plants. Discovered by Borthwick, Hendricks, and colleagues in the early 1950s, the red/far-red reversibility of photoperiodic responses revealed that a single photoreceptor could exist in two interconvertible forms, each responding to a different wavelength and producing opposite biological effects.
 
-Far-red light converts the active phytochrome form (Pfr) back to the inactive form (Pr), effectively cancelling any flowering signal initiated by red light. This antagonistic relationship is one of the most elegant examples of molecular signal switching in plant biology, and it has profound practical implications for agriculture, horticulture, and indoor cultivation.
+Far-red light converts the active phytochrome form (Pfr) back to the inactive form (Pr), effectively cancelling any flowering signal initiated by red light. This antagonistic relationship is one of the most elegant examples of molecular signal switching in plant biology, and it has profound practical implications for agriculture, horticulture, and [[cannabis-sativa-indoor-cultivation-techniques]].
 
 ## The Discovery
 
@@ -59,11 +59,11 @@ The conversion quantum yield is approximately 0.2 for both directions (red→Pfr
 
 ### Sunset Signal
 
-In nature, the far-red antagonism serves an important ecological function. At sunset, the ratio of red to far-red light drops dramatically because sunlight passes through a longer atmospheric path and because chlorophyll in vegetation preferentially absorbs red while transmitting far-red. This natural far-red enrichment at dusk converts remaining Pfr to Pr, providing a reliable daily signal that night is beginning.
+In nature, the far-red antagonism serves an important [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. At sunset, the ratio of red to far-red light drops dramatically because sunlight passes through a longer atmospheric path and because chlorophyll in vegetation preferentially absorbs red while transmitting far-red. This natural far-red enrichment at dusk converts remaining Pfr to Pr, providing a reliable daily signal that night is beginning.
 
 ### Shade Detection
 
-Plants growing beneath a canopy receive light with a reduced red-to-far-red ratio because the chlorophyll in upper canopy leaves absorbs most red light while transmitting far-red. Phytochrome detects this spectral shift and triggers shade avoidance responses: accelerated stem elongation, reduced leaf expansion, and accelerated flowering. The far-red component effectively acts as an "antagonist" to the red-light signal of full sunlight, informing the plant that it is being shaded.
+Plants growing beneath a canopy receive light with a reduced red-to-far-red ratio because the chlorophyll in upper canopy leaves absorbs most red light while transmitting far-red. Phytochrome detects this spectral shift and triggers [[shade-avoidance-syndrome]] responses: accelerated stem elongation, reduced leaf expansion, and accelerated flowering. The far-red component effectively acts as an "antagonist" to the red-light signal of full sunlight, informing the plant that it is being shaded.
 
 ### End-of-Day Far-Red Treatment
 
@@ -77,44 +77,14 @@ In Cannabis, which is a short-day plant, the natural decline in Pfr during long 
 
 ## Molecular Consequences of Pfr
 
-When Pfr is present in sufficient quantities, it translocates to the cell nucleus and interacts with transcription factors called PIFs (Phytochrome Interacting Factors). Pfr binding causes phosphorylation and degradation of PIFs, releasing their repression of light-responsive genes. When far-red converts Pfr to Pr, this nuclear signalling ceases, PIFs accumulate, and dark-adapted gene expression patterns resume. The flowering response depends on the cumulative time Pfr is absent from the nucleus.
+When Pfr is present in sufficient quantities, it translocates to the cell nucleus and interacts with transcription factors called PIFs (Phytochrome Interacting Factors). Pfr binding causes phosphorylation and degradation of PIFs, releasing their repression of light-responsive genes. When far-red converts Pfr to Pr, this nuclear signalling ceases, PIFs accumulate, and dark-adapted gene expression patterns resume. The [[mollison-designers-day-length-and-flowering-response]] depends on the cumulative time Pfr is absent from the nucleus.
 
 ## Phytochrome Gene Families
 
-Plants typically possess multiple phytochrome genes (PHYA through PHYE in Arabidopsis), each with distinct roles in far-red and red light sensing. PHYA is particularly sensitive to far-red light and is responsible for the "far-red high irradiance response" (FR-HIR), which operates at very low light levels. PHYB is the primary mediator of the red/far-red reversible responses described above, including shade avoidance and photoperiodic flowering control. PHYC, D, and E have more specialised roles in specific developmental contexts. The diversity of phytochrome genes allows plants to respond to a broader range of light conditions than would be possible with a single photoreceptor type.
+Plants typically possess multiple phytochrome genes (PHYA through PHYE in Arabidopsis), each with distinct roles in far-red and red [[darwin-phototropism-experiments-plant-light-sensing]]. PHYA is particularly sensitive to far-red light and is responsible for the "far-red high irradiance response" (FR-HIR), which operates at very low light levels. PHYB is the primary mediator of the red/far-red reversible responses described above, including shade avoidance and photoperiodic flowering control. PHYC, D, and E have more specialised roles in specific developmental contexts. The diversity of phytochrome genes allows plants to respond to a broader range of light conditions than would be possible with a single photoreceptor type.
 
 ## Far-Red in Indoor Cultivation
 
-Understanding far-red antagonism is critical for indoor growers, particularly those cultivating Cannabis or other photoperiod-sensitive species. Grow lights vary in their far-red output: high-pressure sodium (HPS) lamps emit significant far-red, while some LED fixtures emit very little. The far-red content of the light source affects plant morphology—HPS-grown plants tend to be taller than LED-grown plants, partly because of the far-red component.
+Understanding far-red antagonism is critical for indoor growers, particularly those cultivating Cannabis or other photoperiod-sensitive species. [[cmh-grow-lights]] vary in their far-red output: high-pressure sodium (HPS) lamps emit significant far-red, while some LED fixtures emit very little. The far-red content of the light source affects plant morphology—HPS-grown plants tend to be taller than LED-grown plants, partly because of the far-red component.
 
 Some advanced LED fixtures include dedicated far-red LEDs that can be programmed for end-of-day treatments, allowing growers to manipulate plant height without changing the photoperiod. Conversely, growers who want compact plants must ensure their lighting does not include excessive far-red, as this would trigger unwanted stem elongation through the phytochrome shade-avoidance pathway.
-
-## Agricultural Applications Beyond Flowering
-
-The red/far-red phytochrome switch regulates more than just flowering timing. Seed germination in many species is controlled by phytochrome—red light promotes germination while far-red light inhibits it. Lettuce seeds, for example, require red light to break dormancy, and this effect is fully reversible by far-red. This germination control ensures seeds only sprout when exposed to full sunlight (rich in red) rather than under leaf canopy shade (rich in far-red).
-
-De-etiolation (the greening response when dark-grown seedlings are exposed to light) is also mediated by phytochrome. The expansion of cotyledons, development of chloroplasts, and suppression of stem elongation all depend on the Pfr/Pr ratio. Far-red light reverses these developmental changes, causing seedlings to revert to an etiolated growth pattern even after light exposure.
-
-## Limitations of the Model
-
-While the simple Pr/Pfr switch model explains most photoperiodic responses, the reality is more complex. Phytochrome signalling involves multiple downstream pathways, cross-talk with other photoreceptors (cryptochromes and phototropins), and tissue-specific responses. The kinetics of Pfr destruction (dark reversion) vary between phytochrome types and species, making it difficult to predict exact flowering responses from simple light measurements.
-
-Modern photoperiodic models incorporate circadian clock interactions, which modulate the plant's sensitivity to Pfr at different times of day. The circadian gating of phytochrome responses explains why night-break treatments are most effective when applied in the middle of the dark period and less effective near dusk or dawn. This temporal dimension adds complexity to what was originally conceived as a simple binary switch.
-
-## See Also
-
-- [[phytochrome-red-far-red-light-switch]] — detailed molecular mechanism
-- [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] — practical application
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] — contrast with blue-light sensing
-- [[shade-avoidance-response-phytochrome-red-far-red-ratio]] — ecological role
-- [[end-of-day-far-red-treatment-stem-elongation]] — horticultural application
-- [[cannabis-photoperiodic-flowering-dark-period-requirements]]
-- [[seed-germination-phytochrome-red-light-control]]
-- [[phytochrome-gene-family-phya-phyb-phyc-phyd-phye]]
-- [[shade-avoidance-response-low-red-to-far-red-ratio]]
-- [[photoperiodic-circadian-clock-gating-phytochrome-sensitivity]]
-
----
-
-*Last updated: 2026-05-10 via automated mining from Chamovitz (2012)*
-*Mined by automated cron job — wiki entity mining workflow*

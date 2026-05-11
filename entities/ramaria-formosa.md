@@ -47,11 +47,11 @@ coral mushrooms.
 *Corallium formosum* (Pers.) G.Hahn.
 
 The epithet *formosa* derives from the Latin for "beautiful," referring to
-the species' striking multi-branched fruiting body.
+the species' striking multi-branched [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 ### Fruit Body Description
 
-Fruiting bodies are large, reaching 15–20 cm tall and 10–15 cm wide.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are large, reaching 15–20 cm tall and 10–15 cm wide.
 The base is short and stout, with the upper portion dividing into multiple
 repeatedly branched arms.
 
@@ -62,7 +62,7 @@ or orange-pink.
 
 With age, branches develop yellowish tones and may bruise brownish.
 The flesh is white, brittle, and has a mild to slightly acrid odor.
-Spore print is pale yellow to ochre.
+[[boil-a-bag-spore-print-technique-jarrold]] is pale yellow to ochre.
 
 Spores are ellipsoid to somewhat cylindrical, 8–12 × 3.5–5 µm,
 finely roughened (echinulate), and non-amyloid.
@@ -70,7 +70,7 @@ finely roughened (echinulate), and non-amyloid.
 ## Distribution and Habitat
 
 *R. formosa* is found across temperate broadleaf and mixed forests of
-Europe, North America, and parts of Asia.
+Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia.
 
 In Europe, it is particularly common in deciduous woodlands dominated by
 oak, beech, and spruce. In North America, it occurs primarily in the
@@ -87,44 +87,3 @@ vitro against Gram-positive bacteria, though this has no clinical
 application due to toxicity.
 
 ## Edibility and Toxicity
-
-**⚠️ *R. formosa* is poisonous and should not be consumed.**
-
-Symptoms of poisoning include nausea, vomiting, abdominal cramps, and
-diarrhea, typically onset 30 minutes to 3 hours after ingestion. Most
-cases resolve within 24 hours without long-term effects, though severe
-dehydration may require medical attention.
-
-Confusion with edible coral fungi is the primary risk factor for poisoning.
-*R. formosa* is most commonly mistaken for:
-
-- *[[ramaria-stricta|Ramaria stricta]]* — smaller, tan-colored, generally considered
-  inedible but not notably toxic.
-- *Clavulina cristata* — delicate white branching, edible though
-  insubstantial.
-
-**Key distinguishing features:** *R. formosa* has distinctly pink-to-orange
-branch tips (especially when young), a more robust stature, and an acrid
-taste. Edible species tend to be whiter and milder.
-
-## Ecological Role
-
-As an ectomycorrhizal species, *R. formosa* plays an important role in
-forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The [[gadd-mycelial-network-dynamics]] connects with tree root
-systems, facilitating exchange of soil minerals (phosphorus, nitrogen)
-for photosynthate carbon from host trees.
-
-Fruiting bodies provide a seasonal food source for invertebrates and small
-mammals. [[query-how-to-get-rid-of-slugs-and-snails-organically]] are frequent consumers of Ramaria fruiting
-bodies, while certain beetle species specialize in coral fungus substrates.
-
-The species is an indicator of mature forest ecosystems with intact
-[[symbiotic-fungi-ectomycorrhizal-networks-overview]]. Its presence suggests minimal soil disturbance
-and a healthy diversity of mycorrhizal host trees.
-
-Populations appear sensitive to heavy [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and soil
-acidification, declining in areas with intensive agricultural runoff or
-air pollution.
-
-## See Also
-- [[coprophilous-fungi-ecology-diversity]]

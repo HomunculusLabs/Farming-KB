@@ -88,28 +88,3 @@ This ability to assess light quality enables plants to optimize their growth
 strategy for the specific light environment they occupy. Under direct
 sunlight, plants invest in thicker leaves and shorter stems, while under
 shade they elongate rapidly and produce thinner leaves to maximize light
-capture. The phytochrome system thus functions as a sophisticated
-environmental sensor that integrates spectral information over time.
-
-## Evolutionary Conservation
-
-Phytochrome-related photoreceptors are found across diverse groups of
-photosynthetic organisms including algae, mosses, ferns, and all seed plants.
-Bacteria and fungi also possess phytochrome-like proteins, suggesting that
-this photoreceptor family originated before the divergence of plants and
-animals. The conservation of phytochrome signaling across such vast
-evolutionary distances underscores its fundamental importance in biological
-light sensing and adaptation.
-
-## Interaction with Other Photoreceptors
-
-In nature, phytochromes do not operate in isolation. They interact with
-cryptochromes ([[chamovitz-julius-von-sachs-blue-light-phototropism]] receptors), phototropins (which mediate
-phototropic bending), and other photoreceptor systems to provide a
-comprehensive picture of the light environment. The integration of signals
-from multiple photoreceptor types allows plants to make nuanced decisions
-about growth, development, and resource allocation.
-
-## Related
-
-- [[arabidopsis-thaliana]]

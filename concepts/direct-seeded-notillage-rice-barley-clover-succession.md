@@ -5,6 +5,7 @@ tags: [farming, rice, barley, clover, notillage, fukuoka, cover-crops, successio
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,58 +88,3 @@ soil-enriching microbes, a testament to the biological fertility maintained
 by this system.
 
 ## Rice Straw Mulching
-
-The practice of scattering uncut rice and barley straw over the field surface
-replaces compost preparation, one of the most labor-intensive activities in
-organic farming. In conventional organic systems, straw must be collected,
-composted with manure or other materials over months, and then spread back on
-the fields. This process not only requires significant labor but depletes the
-land from which the organic material is taken.
-
-In Fukuoka's system, the straw is returned directly to the field where it
-grew, creating a closed nutrient cycle. The straw serves as mulch, protecting
-the soil from direct sun and rain, suppressing weeds, retaining moisture, and
-providing [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms. As it decomposes, it releases
-nutrients gradually, feeding the soil ecosystem and the growing crop. This
-simple act of returning straw to the field replaces an entire chain of
-conventional operations: composting, fertilizing, weeding, and soil
-cultivation.
-
-## Clay Pellet Seed Coating
-
-The clay pellet technique was developed by Fukuoka as a method of direct
-seeding that eliminates the need for nursery beds and transplanting. Seeds
-are coated in a layer of soil and then a layer of clay, forming small pellets
-that can be broadcast over the field. The clay protects the seeds from being
-eaten by birds and rodents while allowing moisture to penetrate when rainfall
-occurs. The seeds remain dormant within the pellets until conditions are
-favorable for germination, at which point they sprout and grow.
-
-This technique has applications beyond rice cultivation. Fukuoka proposed
-using clay pellets to revegetate deserts by mixing the seeds of green manure
-trees such as black wattle, clover, alfalfa, and grain seeds, coating them in
-clay, and scattering them by hand over barren land. The pellets would protect
-the seeds until rain fell, after which several species would survive and
-provide clues about what was suited to the local climate and soil conditions.
-
-## Yields and Labor Efficiency
-
-The labor required for this system is remarkably low. Fukuoka stated that the
-work of one or two people was more than sufficient to grow crops on a
-quarter-acre. The entire annual cycle reduces essentially to sowing seed and
-spreading straw. Despite this minimal labor input, yields consistently
-approached 22 bushels of rice and 22 bushels of winter grain per
-quarter-acre, with a target of 33 bushels each under optimized conditions.
-
-These yields compare favorably with conventional methods requiring
-significantly greater labor, capital, and chemical inputs. The field typically
-produced about 250 heads of grain per square yard with an average of 200
-grains per head, demonstrating that natural biological processes are fully
-capable of maintaining high productivity when allowed to function without
-disruption from human intervention.
-
-## See Also
-
-- [[fukuoka-road-back-clover-barley-rice-method]]
-- [[no-till-rice-barley-succession]]
-- [[fukuoka-rice-and-barley-natural-farming]]

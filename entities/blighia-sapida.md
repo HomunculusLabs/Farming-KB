@@ -46,7 +46,7 @@ The fruit is a pear-shaped capsule, 7–10 cm long, turning from green to yellow
 
 *Blighia sapida* is native to the Guinean forest-savanna mosaic of West Africa, occurring from Ivory Coast eastward to Ghana, Togo, Benin, and Nigeria. It has been widely introduced throughout the Caribbean and tropical Americas.
 
-In the Caribbean, Jamaica is the primary center of cultivation and consumption. The tree has naturalized in parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America, and southern Florida.
+In the Caribbean, Jamaica is the primary center of cultivation and consumption. The tree has naturalized in parts of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern [[guzman-psilocybin-mushrooms-south-america]], and southern Florida.
 
 The species grows at elevations from sea level to approximately 900 meters. It prefers tropical lowland climates with annual rainfall of 900–1,800 mm and mean temperatures of 18–30 degrees Celsius.
 
@@ -84,16 +84,6 @@ Beyond Jamaica, ackee is consumed in other Caribbean nations and among Caribbean
 
 Trees are typically propagated from seed, which germinates within 2–4 weeks when fresh. Seedling trees begin bearing fruit at 4–6 years of age, with full production reached at approximately 8–10 years.
 
-Vegetative propagation by air layering or grafting is practiced for superior selections. Grafted trees may begin bearing as early as 2–3 years after planting.
+[[hamilton-vegetative-propagation]] by air layering or grafting is practiced for superior selections. Grafted trees may begin bearing as early as 2–3 years after planting.
 
 Fruiting season in Jamaica occurs primarily from January to March and June to August, though some trees produce year-round in favorable conditions. Annual yield per tree ranges from 30 to 100 fruits.
-
-Spacing of 8–10 meters between trees is recommended. The tree's spreading canopy requires adequate room for light penetration and [[stamets-growing-room-air-circulation-co2-management]].
-
-## See Also
-
-- [[manihot-esculenta]]
-- [[physalis-peruviana]]
-- [[gelsemium-sempervirens]]
-- [[moringa-oleifera]]
-- [[azadirachta-indica]]

@@ -27,13 +27,13 @@ genus contains over 180 described species and is one of the most commercially
 important groups of seaweeds worldwide.
 
 Gracilaria species are the primary source of industrial agar, a phycocolloid
-used extensively in food, pharmaceutical, and biotechnology applications. Global
+used extensively in food, pharmaceutical, and [[fungal-chitosan-biotechnology-applications]]. Global
 production exceeds several million tonnes annually, with cultivation centered in
-East and Southeast Asia.
+East and [[psilocybe-southeast-asia-pacific]].
 
 Several Gracilaria species are also consumed directly as food, particularly in
 East Asian and Pacific Island cuisines. The genus is valued for its relatively
-fast growth rate and tolerance of a range of environmental conditions.
+fast [[soil-temperature-plant-growth-rate-doubling-rule]] and tolerance of a range of environmental conditions.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ dense tufts or mats. Branch attachment is typically secund or bilateral.
 
 The color ranges from deep red to purplish-brown depending on species, light
 exposure, and depth. Some species exhibit significant color variation
-throughout the [[savory-growing-season-and-non-growing-season-management]]. In low light conditions, thalli may appear
+throughout the [[savory-growing-season-and-non-growing-season-management]]. In [[darkness-low-light-facilitation-entheogenic-ceremonies]] conditions, thalli may appear
 greenish due to reduced phycoerythrin production.
 
 The internal anatomy consists of a filamentous medulla surrounded by a cortex
@@ -78,7 +78,7 @@ but also creates harvestable biomass for agar extraction.
 ## Cultivation
 
 Gracilaria is among the most extensively cultivated seaweed genera globally.
-The primary [[synthetic-log-cultivation-methods-guide]] include **vegetative propagation** by fragment
+The primary [[synthetic-log-cultivation-methods-guide]] include **[[hamilton-vegetative-propagation]]** by fragment
 attachment and **[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]** from explants.
 
 **Offshore raft culture** is the dominant method in China, Vietnam, and
@@ -88,55 +88,3 @@ species and growing conditions.
 
 **Pond cultivation** is practiced in Taiwan, Thailand, and the Philippines.
 Seaweed is grown in brackishwater ponds, often in polyculture with shrimp or
-fish. This method benefits from nutrient recycling but can suffer from
-epiphyte overgrowth and salinity fluctuations.
-
-Typical biomass yields range from 10 to 40 tonnes fresh weight per hectare per
-year. Gracilaria chilensis and G. tenuistipitata are among the highest-yielding
-commercial species.
-
-## Chemistry and Bioactive Compounds
-
-The defining biochemical feature of Gracilaria is its production of **agar**,
-a sulfated galactan polymer composed of agarose and agaropectin. Agar content
-varies from 15% to 40% of dry weight depending on species, season, and
-growing conditions.
-
-Gracilaria agar has a lower gel strength than Gelidium agar, requiring
-chemical modification (alkaline pretreatment) to improve gelling properties for
-commercial use. Despite this, Gracilaria has largely replaced Gelidium as the
-primary agar source due to its lower cost and faster growth.
-
-Beyond agar, Gracilaria species produce a range of [[antifungal-secondary-metabolites-coprophilous-fungi]]
-including **halogenated compounds**, **terpenoids**, and **phenolic acids**.
-Several species exhibit antibacterial, antiviral, and antioxidant activities
-in vitro.
-
-The genus accumulates **pigments** including R-phycoerythrin, R-phycocyanin,
-and chlorophyll a. These proteins have commercial value as natural colorants
-and fluorescent markers in biomedical research.
-
-## Ecology and Applications
-
-Gracilaria plays significant ecological roles in coastal [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]].
-Dense Gracilaria beds provide habitat and nursery grounds for juvenile fish and
-invertebrates. The genus contributes to **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** by efficiently
-absorbing dissolved nitrogen and phosphorus from the water column.
-
-In integrated multi-trophic aquaculture (IMTA) systems, Gracilaria is
-cultivated alongside fish or shrimp cages to absorb waste nutrients. This
-bioremediation function reduces environmental impact while producing a
-commercial crop.
-
-Seaweed cultivation generally has a low environmental footprint compared to
-terrestrial agriculture. Gracilaria does not require freshwater, arable land,
-fertilizers, or pesticides. It sequesters carbon and may contribute to
-coastal acidification mitigation.
-
-## See Also
-
-- [[ulva-lactuca]]
-- [[saccharina-latissima]]
-- [[laminaria-digitata]]
-- [[chondrus-crispus]]
-- [[arthrospira-platensis]]

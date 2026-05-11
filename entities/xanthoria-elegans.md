@@ -13,16 +13,16 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Poelt, J. (1969). "Bestimmungsschlüssel europäischer Flechten." J. Cramer.
   - Wirth, V. (1995). "Die Flechten Baden-Württembergs." Eugen Ulmer Verlag.
-  - Nash, T.H. III (2008). "Lichen Biology." 2nd ed. Cambridge University Press.
+  - Nash, T.H. III (2008). "[[fungi-in-the-environment-lichen-biology]]." 2nd ed. Cambridge University Press.
 ---
 
 ## Overview
 
 **Xanthoria elegans** is a widespread foliose lichen in the family Teloschistaceae, commonly known as the **elegant sunburst lichen** or **map lichen**. It is one of the most visually distinctive lichens, forming bright orange to orange-red rosettes on rocks and stone surfaces.
 
-The species has a nearly cosmopolitan distribution and is particularly abundant in montane, arctic, and coastal environments. Its vivid coloration and preference for exposed rock surfaces make it a familiar sight to hikers and naturalists worldwide.
+The species has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and is particularly abundant in montane, arctic, and coastal environments. Its vivid coloration and preference for exposed rock surfaces make it a familiar sight to hikers and naturalists worldwide.
 
-X. elegans is notable for its use as a biological weathering agent and as a bioindicator of substrate stability. Its ability to colonize fresh rock surfaces makes it a primary succession species.
+X. elegans is notable for its use as a biological weathering agent and as a bioindicator of substrate stability. Its ability to colonize fresh rock surfaces makes it a [[dighton-fungi-volcanic-glacier-primary-succession]] species.
 
 ## Taxonomy and Morphology
 
@@ -56,11 +56,11 @@ X. elegans is a pioneer species on fresh rock surfaces and contributes significa
 
 The species is among the first organisms to colonize recently deglaciated terrain, retreating glaciers, and fresh volcanic rock. Its rapid establishment helps initiate soil formation processes.
 
-X. elegans serves as a substrate for lichenicolous fungi, including *Xanthoriicola physciae* and several *Arthonia* species. These parasites can reduce thallus vitality and reproductive output.
+X. elegans serves as a substrate for [[lichenicolous-fungi]], including *Xanthoriicola physciae* and several *Arthonia* species. These parasites can reduce thallus vitality and reproductive output.
 
 The bright orange coloration results from parietin accumulation, which functions as a UV-protective sunscreen. High-altitude and high-latitude populations typically produce more parietin than shaded lowland populations.
 
-Growth rates have been measured at approximately 0.5–1.0 mm per year in diameter. Radial growth measurements make X. elegans useful for dating rock surfaces through lichenometry.
+[[coleman-sunlight-and-winter-crop-growth-rates]] have been measured at approximately 0.5–1.0 mm per year in diameter. Radial growth measurements make X. elegans useful for dating rock surfaces through lichenometry.
 
 The species provides microhabitat for tardigrades, nematodes, and various microarthropods. These communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on otherwise barren rock surfaces.
 
@@ -87,25 +87,3 @@ Parietin has documented antioxidant, antimicrobial, and antifungal properties. I
 The chemical profile is relatively stable across the species' range, making spot tests a reliable identification tool. Geographic chemical variation has not been reported at the species level.
 
 ## Lichenometry and Scientific Applications
-
-X. elegans is one of the most widely used lichens in lichenometric dating of rock surfaces. Its slow, predictable radial growth rate allows researchers to estimate the exposure age of glacial deposits, rockfalls, and archaeological stone structures.
-
-The species was instrumental in developing lichenometry as a scientific technique in the mid-20th century. Researchers including Roland Beschel established growth curves for X. elegans that are still referenced in Quaternary geology.
-
-Growth rates vary with altitude, latitude, and substrate type, requiring locally calibrated growth curves for accurate dating. Typical maximum diameters of 5–8 cm suggest thallus ages of several decades to over a century.
-
-The species has been used to date glacial moraines in the Arctic, Alpine, and Himalayan regions. Lichenometric ages derived from X. elegans have been cross-validated with radiocarbon and dendrochronological methods.
-
-## See Also
-
-- [[xanthoria-candelaria]]
-
-- [[cladonia-rangiferina]]
-- [[lecanora-muralis]]
-- [[evernia-prunastri]]
-- [[lobaria-pulmonaria]]
-- [[flavoparmelia-caperata]]
-- [[ramalina-fastigiata]]
-- [[cladonia-alpestris]]
-- [[cladonia-fimbriata]]
-- [[hypogymnia-physodes]]

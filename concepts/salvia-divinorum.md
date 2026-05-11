@@ -60,7 +60,7 @@ The Mazatec use S. divinorum primarily for:
 - The leaves are traditionally chewed fresh in pairs (quid method), with the juice held in the mouth for absorption through the buccal mucosa
 - Sessions typically occur at night, in darkness or dim candlelight, often accompanied by prayer
 
-See [[maria-sabina-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
+See [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on broader Mazatec entheogenic practices.
 
 ## Extraction and Preparation
 
@@ -113,7 +113,21 @@ The rapid spread of online videos showing recreational use contributed significa
 ## Related Pages
 
 - [[psychedelic-compounds-reference]] for pharmacological comparison with other psychoactive plants
-- [[maria-sabina-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
+- [[maria-sabina-and-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
 - [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[golden-guide-salvia-divinorum-and-diviner-sage]]
+- [[hofmann-salvia-divinorum-discovery]]
+- [[plants-of-the-gods-salvia-divinorum-diviners-sage]]
+- [[salvia-apiana]]
+- [[salvia-divinorum-and-salvinorin]]

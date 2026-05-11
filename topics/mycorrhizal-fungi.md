@@ -124,7 +124,7 @@ exchange occurs. Ectomycorrhizal fungi are incredibly diverse taxonomically,
 [[arbuscular-mycorrhizal-fungi]] [[common-mycorrhizal-networks]]
 [[arbuscular-mycorrhizal-networks]]
 [[agricultural-chemicals-mycorrhizal-impact]]
-fungal-soil-food-web [[soil-food-web]]
+fungal-soil-food-web [[soil-foodweb]]
 [[dighton-ectomycorrhizal-ecosystem-impact]]
 
 ## References

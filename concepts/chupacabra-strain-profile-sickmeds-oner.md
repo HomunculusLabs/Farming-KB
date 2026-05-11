@@ -9,7 +9,7 @@ topics: [cannabis, strain-profile, sativa, trainwreck, medical-cannabis, spanish
 
 ## Overview
 
-Chupacabra is a sativa-dominant hybrid (70% sativa) bred by Spain's SickMeds Seeds. Named after the legendary Latin American cryptid, this resinous strain shares the same mother as SickMeds' The Wreck and Strawberry Fire. It is valued for its clear, focused psychoactive effects and therapeutic potential for stress and muscular pain relief. The strain represents the successful integration of Trainwreck genetics into modern European breeding programs.
+Chupacabra is a sativa-dominant hybrid (70% sativa) bred by Spain's SickMeds Seeds. Named after the legendary Latin American cryptid, this resinous strain shares the same mother as SickMeds' The Wreck and Strawberry Fire. It is valued for its clear, focused psychoactive effects and [[metzner-ayahuasca-therapeutic-potential]] for stress and muscular pain relief. The strain represents the successful integration of Trainwreck genetics into modern European breeding programs.
 
 ## Lineage and Genetics
 
@@ -19,22 +19,22 @@ Chupacabra is a sativa-dominant hybrid (70% sativa) bred by Spain's SickMeds See
 - **THC Content**: 17.9%
 - **Family Line**: Trainwreck lineage through SickMeds' inbred line program
 
-The Trainwreck IBL (Inbred Line) BCO component provides the sativa-dominant structure, potency, and characteristic Trainwreck effects. Strawberry Fire contributes indica-influenced traits including bud density, resin production, and a complex aromatic profile with berry and incense undertones.
+The Trainwreck IBL (Inbred Line) BCO component provides the sativa-dominant structure, potency, and characteristic Trainwreck effects. Strawberry Fire contributes indica-influenced traits including bud density, [[cannabis-glandular-trichome-types-resin-production-clarke]], and a complex aromatic profile with berry and incense undertones.
 
 ## Growth Characteristics
 
 ### Plant Structure
 
 - Tall and gangly structure typical of sativa-dominant strains
-- Significant stretching during the early flowering period
+- Significant stretching during the [[equatorial-photoperiod-early-flowering]] period
 - Requires training and management of vertical height
 - Benefits from early vegetative training (LST, topping, or ScrOG)
 - Moderate lateral branching once trained
 
 ### Cultivation
 
-- **Indoor**: Requires height management; training recommended from early vegetative stage
-- **Outdoor**: Well-suited to Mediterranean and warm temperate climates
+- **Indoor**: Requires height management; training recommended from early [[cannabis-vegetative-stage]]
+- **Outdoor**: Well-suited to Mediterranean and warm [[fukuoka-natural-farming-temperate-climates]]
 - **Resistance**: Good resistance to mold and pests — a practical advantage
 - **Nutrient demands**: Not overly demanding; moderate feeding regime sufficient
 - **Flowering time**: 60-70 days (dependent on grow style and conditions)
@@ -80,7 +80,7 @@ The Rev notes this is "perfect for a cheeky toke before work or in the middle of
 
 ### Within the Trainwreck Family
 
-Chupacabra sits within the modern Trainwreck breeding lineage alongside:
+Chupacabra sits within the modern Trainwreck [[haze-breeding-lineage]] alongside:
 
 - **Original Trainwreck**: The legendary Mexican-Thai hybrid from Northern California
 - **Arcata Trainwreck**: The Humboldt-selected cut used in CookieWreck and other crosses
@@ -88,43 +88,3 @@ Chupacabra sits within the modern Trainwreck breeding lineage alongside:
 - **Strawberry Fire** (SickMeds): The other parent, adding fruity resin characteristics
 
 The Trainwreck IBL (Inbred Line) designation indicates that SickMeds stabilized the Trainwreck genetics through multiple generations of inbreeding, selecting for consistent expression of desirable traits before crossing with Strawberry Fire.
-
-### Within Spanish Cannabis Breeding
-
-Spain has become a significant center for cannabis breeding, particularly for sativa-dominant genetics:
-
-- Climate suits outdoor sativa cultivation
-- Spanish breeders skilled at reducing flowering times while retaining sativa character
-- SickMeds is known for working with American West Coast genetics in European conditions
-- Chupacabra exemplifies the trans-Atlantic genetic exchange in modern breeding
-
-## Growing Tips
-
-Based on the breeder and reviewer recommendations:
-
-1. Plan for height management from the start — this plant stretches significantly
-2. Begin LST or ScrOG training during the second week of vegetative growth
-3. The strain is forgiving of minor errors, making it suitable for intermediate growers
-4. Nutrient requirements are moderate — avoid overfeeding
-5. Good air circulation helps manage the moderate stretch during early flowering
-6. Allow a full cure to develop the complex incense-citrus flavor profile
-
-## Terpene Profile Considerations
-
-While the source does not provide a full terpene analysis, the described aromas suggest:
-
-- **Myrcene**: Contributing to the earthy, herbal base notes and sedative undertones
-- **Limonene**: Responsible for the fresh citrus character in both aroma and flavor
-- **Caryophyllene**: Likely present in the "dank" and slightly spicy base
-- **Pinene**: May contribute to the focused, clear-headed effects (pinene is associated with alertness)
-
-The absence of paranoia in the effects profile may relate to the balance of these terpenes with the 17.9% THC content — a moderate level for modern genetics that may contribute to the functional, clear-headed experience.
-
-## See Also
-
-- [[cannabis-sativa-dominant-growing-challenges]]
-- [[cannabis-sativa-breeding-evolution]]
-- [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]
-- [[cannabis-chemdawg-origin-story-lineage]]
-- [[oner-super-lemon-haze-greenhouse-strain-profile]]
-- [[haze-lineage-and-history]]

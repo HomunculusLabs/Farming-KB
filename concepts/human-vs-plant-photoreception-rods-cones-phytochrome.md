@@ -1,6 +1,6 @@
 ---
 title: "Human vs Plant Photoreception: Rods, Cones, and Phytochrome Compared"
-source: "Chamovitz (2012) - What a Plant Knows: A Field Guide to the Senses"
+source: "Chamovitz (2012) - What a Plant Knows: A [[field-guide-psilocybin-bluing-reaction-identification]] to the Senses"
 tags: [plant-biology, photoreception, vision, photoreceptor, phytochrome, phototropin, rods, cones]
 created: 2026-05-10
 ---
@@ -28,16 +28,16 @@ a specific photopsin protein that absorbs a different wavelength of light. (see 
 
 ### Rhodopsin and Photopsins
 The chemical basis of human photoreception lies in light-absorbing proteins. Rods contain
-rhodopsin, which absorbs across the visual spectrum. Cones contain photopsins tuned to
+rhodopsin, which absorbs across the [[human-photoreception-rods-cones-visual-spectrum]]. Cones contain photopsins tuned to
 specific wavelengths: blue photopsin absorbs short wavelengths, green photopsin absorbs
 medium wavelengths, and red photopsin absorbs long wavelengths. Purple light is absorbed
 by rhodopsin, blue photopsin, and red photopsin simultaneously, but not by green photopsin.
 
 ### Visual Spectrum
 Humans perceive electromagnetic waves between approximately 400 and 700 nanometres in
-length. Blue light has the shortest wavelengths (approximately 400-500 nm) and red light
+length. [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] has the shortest wavelengths (approximately 400-500 nm) and [[far-red-light-phytochrome-antagonism-floral-regulation]]
 the longest (approximately 620-700 nm), with green, yellow, and orange in between. This
-range represents only a small fraction of the full electromagnetic spectrum.
+range represents only a small fraction of the full [[electromagnetic-spectrum-plant-light-perception]].
 
 ## Plant Photoreception: A Multi-Receptor System
 
@@ -52,7 +52,7 @@ and many other developmental processes.
 
 ### Phototropin: Blue Light Detection
 Phototropin receptors detect blue light and mediate phototropism — the bending of plant
-stems toward light. Discovered through Darwin's classic experiments with canary grass
+stems toward light. Discovered through Darwin's classic experiments with [[canary-grass-phototropism-model-organism]]
 seedlings, blue-light phototropism is the plant equivalent of directional vision.
 Phototropins sense light direction, intensity, and quality, enabling plants to orient
 their growth toward optimal light sources.
@@ -88,34 +88,3 @@ the elevated far-red signal triggers shade-avoidance responses.
 Plants demonstrate a form of light memory through phytochrome's reversible switching.
 The phytochrome system effectively "remembers" the last colour of light the plant
 perceived. If the last light was far-red (signalling dusk), the plant enters a night
-mode. If red light interrupts the dark period, the plant's molecular clock is reset.
-This ability to retain and process information about past light conditions meets a
-reasonable definition of memory.
-
-## Philosophical Implications: What Counts as Sight?
-
-Chamovitz poses the question of whether plant light perception constitutes "vision."
-Using a thought experiment — considering whether giving a blind person the ability to
-distinguish light from dark, and then colour, would constitute sight — he argues that
-plants' ability to discriminate between colours, detect light direction, and respond
-appropriately does qualify as a form of vision, albeit fundamentally different from
-human image-based sight. The relevant question is not whether plants see pictures,
-but whether they extract meaningful information from light — which they demonstrably do.
-
-## Evolutionary Convergence in Photoreception
-
-Both human and plant photoreceptors rely on proteins that change conformation when they
-absorb photons of specific wavelengths. Despite converging on this basic mechanism, the
-evolutionary origins of animal and plant photoreceptors are independent. Animals evolved
-opsin-based photoreceptors (rhodopsin, photopsins) from G-protein coupled receptors,
-while plants evolved distinct photoreceptor families. The shared principle — a protein
-that absorbs light and triggers a cellular response — represents a remarkable case of
-functional convergence driven by the universal availability of light as an
-information source.
-
-## See Also
-
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
-- [[phytochrome-photoreceptor-plant-vision]]
-- [[electromagnetic-spectrum-visible-light-plant-perception]]
-- [[phototropism-and-plant-light-responses]]

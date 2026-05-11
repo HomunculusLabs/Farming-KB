@@ -14,9 +14,9 @@ sources:
 synopsis: >-
   Clay soils present significant gardening challenges: poor drainage,
   extreme hardness when dry, difficult workability, and airless compaction
-  when wet. Steve Solomon outlines realistic strategies for managing clay,
-  including organic matter incorporation, gypsum application, and the
-  critical ready-to-till moisture test for determining workable conditions.
+  when wet. [[steve-solomon]] outlines realistic strategies for managing clay,
+  including [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] incorporation, gypsum application, and the
+  critical ready-to-till [[solomon-ready-to-till-soil-moisture-test]] for determining workable conditions.
 ---
 
 # Clay Soil Management
@@ -27,7 +27,7 @@ Clay is the heaviest, most airless soil type a vegetable [[clay-soil-management-
 encounter. While clay has agricultural uses — orchards and permanent
 pastures, for example — no sensible farmer or gardener would willingly
 choose clay soil for crops that require creating a seedbed, which is
-exactly what vegetable gardening demands. (see [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]).
+exactly what [[dryland-vegetable-gardening]] demands. (see [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]).
 
 Clay soils present several fundamental problems:
 
@@ -88,53 +88,3 @@ separate clay particles, improving drainage and aeration without
 significantly changing soil pH.
 
 Gypsum is particularly useful because:
-
-- It provides calcium without raising pH
-- It helps break up compacted clay particles
-- It improves water penetration in heavy soils
-- It does not contribute to alkalinity problems
-
-## Strategic Approaches
-
-### Raised Beds on Clay
-Rather than trying to amend clay in-ground, building raised beds filled
-with imported soil and compost can be more practical. This avoids the
-endless cycle of clay amendment while providing excellent growing
-conditions.
-
-### Crop Selection
-Choose vegetables that tolerate heavier soils better: root crops like
-carrots may struggle, but brassicas, beans, and many leafy greens can
-perform adequately in improved clay.
-
-### Timing
-Work clay soil strategically — prepare beds in autumn when possible so
-winter freeze-thaw cycles help break up clay structure naturally before
-spring planting.
-
-### Avoid Compaction
-Never walk on wet clay garden beds. Design pathways to keep foot
-traffic off growing areas, as compaction from footsteps reverses
-amelioration efforts.
-
-## Lime Considerations
-
-Excessive liming can be harmful to soil. Solomon recommends following
-the prescribed amounts in the fertility gradient system rather than
-attempting to correct clay's naturally tight structure with lime alone.
-The combination of organic matter and appropriate liming (or gypsum)
-produces better results than any single amendment.
-
-## Realistic Expectations
-
-Solomon is candid that remedial clay will never match light loam for
-vegetable production. Gardeners with clay should set realistic
-expectations and invest their effort where it yields the greatest
-return — often in raised beds or targeted zones of high-value crops
-rather than attempting wholesale clay transformation.
-
-## See Also
-
-- [[soil-fertility-gradient-approach]]
-- [[complete-organic-fertilizer-cof]]
-- [[vegetable-demand-classification]]

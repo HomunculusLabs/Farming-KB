@@ -17,7 +17,7 @@ sources:
 
 # Psilocybin in the Counter-Culture
 
-The role of psilocybin [[cia-mkultra-and-psilocybin]] mushrooms in the 1960s counterculture, from Harvard research to the hippie movement.
+The role of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] in the 1960s counterculture, from Harvard research to the hippie movement.
 
 ## From Medicine to Counterculture
 
@@ -34,7 +34,7 @@ The evolution of psychedelics from legitimate research tools to countercultural 
 Timothy Leary and Richard Alpert, both psychology professors at Harvard University, became the pivotal figures in bringing psychedelics into the cultural mainstream:
 
 - **1960**: Leary traveled to Cuernavaca, Mexico and consumed psilocybin mushrooms, an experience he described as the most profound of his life. He returned to Harvard and, with Alpert, founded the **Harvard Psilocybin Project**.
-- The Project administered psilocybin to volunteers including graduate students, prisoners at Concord State Prison, and divinity students. The **Good Friday Experiment** (1962), conducted by Walter Pahnke, tested whether psilocybin could induce genuine mystical experiences in religious settings.
+- The Project administered psilocybin to volunteers including graduate students, prisoners at Concord State Prison, and divinity students. The **[[good-friday-experiment-marsh-chapel]]** (1962), conducted by Walter Pahnke, tested whether psilocybin could induce genuine [[psilocybin-mystical-experiences-personality-change]] in religious settings.
 - **1963**: Leary and Alpert were dismissed from Harvard amid controversy over their methods, their distribution of psychedelics to students, and their increasingly public advocacy.
 - After Harvard, Leary became a full-time counterculture figure, coining slogans like "Turn on, tune in, drop out." He moved to Millbrook, New York, where he hosted psychedelic sessions and became, in Hofmann's words, an "apostle of LSD."
 
@@ -48,9 +48,9 @@ Despite the counterculture's embrace of psychedelics, serious academic research 
 
 - Mycologists described and identified new psilocybin-containing species without censure.
 - Anthropologists, ethnobotanists, and pharmacologists studied indigenous use of plant hallucinogens in distant cultures.
-- Journals like the *Journal of Psychedelic Drugs*, the *Journal of Altered States of Consciousness*, and the *Journal of Ethnopharmacology* published extensively on indigenous drug use.
+- Journals like the *Journal of Psychedelic Drugs*, the *Journal of Altered [[mckenna-food-gods-designer-states-of-consciousness]]*, and the *Journal of Ethnopharmacology* published extensively on indigenous drug use.
 - Major conferences on ethnopharmacology were held, including a 1967 San Francisco conference organized by the National Institute of Mental Health.
-- Peter Furst's *Flesh of the Gods* (1972) and Michael Harner's *Hallucinogens and Shamanism* (1973) kept academic inquiry alive.
+- Peter Furst's *Flesh of the Gods* (1972) and Michael Harner's *[[hallucinogens-and-shamanism-harner-anthology]]* (1973) kept academic inquiry alive.
 
 ## Folk Knowledge and the Mushroom Underground
 
@@ -59,7 +59,7 @@ In the 1970s, psilocybin mushrooms "tipped" from academic curiosity to popular d
 - Folk knowledge spread from returning Mexican mushroom pilgrims and from those who discovered hallucinogenic species growing locally.
 - Hostile press coverage of mushroom pickers on farmland paradoxically brought mushrooms to wider attention.
 - Academic publications on taxonomy, identification, pharmacology, and dosage filtered into popular culture, serving as practical guides.
-- Paul Stamets published *Psilocybe Mushrooms and Their Allies* (1976), providing reliable identification and cultivation information.
+- Paul Stamets published *[[grass-seed-cultivation-of-psilocybe-mushrooms]] and Their Allies* (1976), providing reliable identification and cultivation information.
 - Jonathan Ott published reference works combining chemistry, pharmacology, and ethnobotany.
 
 ## Castaneda and Psychedelic Shamanism
@@ -76,3 +76,20 @@ The association between psychedelics and the counterculture had a double-edged l
 - [[psilocybin-mushroom-legal-history]] for the legal consequences
 - [[terence-mckenna-stoned-ape-hypothesis]] for later psychedelic thought
 - [[psychedelic-mushroom-pharmacology]] for the science
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[piriformospora-indica-in-plant-fungal-co-culture]]
+- [[fungi-in-the-environment-fungal-radionuclide-interactions]]
+- [[fungi-in-the-environment-symbiotic-relationships]]
+- [[psilocybin-containing-mushrooms-in-us]]
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]

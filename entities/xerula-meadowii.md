@@ -64,13 +64,13 @@ elements.
 ## Distribution and Habitat
 
 *Xerula meadowii* has been documented in temperate grasslands and meadow-forest
-ecotones of North America and Europe. It fruits singly or in small scattered groups
+ecotones [[berry-growing]] and Europe. It fruits singly or in small scattered groups
 on well-decayed hardwood stumps, buried roots, and [[fungal-succession-woody-debris-ecology]] embedded in soil.
 
 The species is strongly associated with buried wood rather than exposed deadwood.
 Fruiting typically occurs in late summer through autumn following periods of
 sustained rainfall. The long rooting stipe suggests adaptation for accessing deeply
-buried woody substrates in grassland soils.
+buried woody substrates in [[dighton-fungal-communities-grassland-soils]].
 
 Meadow habitats with scattered mature trees, hedgerows, and old pasture with
 subsurface roots are the most productive collecting sites. The fungus is considered
@@ -79,7 +79,7 @@ uncommon to rare throughout its range.
 ## Ecology
 
 As a primary wood decomposer, *X. meadowii* contributes to the breakdown of buried
-hardwood material in grassland ecosystems. Its deep-rooting stipe morphology appears
+hardwood material in [[biodiversity-fungi-grassland-ecosystems]]. Its deep-rooting stipe morphology appears
 to be an adaptation specifically for this niche, allowing the fungus to connect
 to woody substrates that other agarics cannot access.
 
@@ -87,43 +87,3 @@ The genus *Xerula* includes species that are known to be nematophagous — trapp
 and consuming nematodes as a supplementary nitrogen source. This predatory behavior
 has been documented in several congeners including *X. furfuracea*, though it has
 not been confirmed specifically in *X. meadowii*.
-
-The underground [[gadd-mycelial-network-dynamics]] of *Xerula* species can persist for years on a
-single piece of buried wood, producing fruiting bodies annually until the wood
-resource is fully decomposed. This long-term substrate fidelity distinguishes
-*Xerula* from many other grassland agarics that colonize fresh substrates each season.
-
-## Microscopic Features
-
-The pileipellis is a cutis composed of repent, cylindrical hyphae 3–6 μm wide,
-with occasional clamp connections. Pigmented hyphae are present in the surface
-layer, giving rise to the brown cap coloration. The context is composed of
-interwoven, parallel hyphae with frequent clamps.
-
-Pileocystidia are absent in most *Xerula* species, a useful microscopic character
-for separating the genus from morphologically similar taxa that possess
-cystidial elements in their pileal surface tissue.
-
-## Similar Species
-
-*Xerula meadowii* can be confused with other *Xerula* species, particularly
-*X. radicata* (the rooting shank), which is more common and larger. *X. radicata*
-has a darker cap, broader pileus, and more robust stipe.
-
-*X. furfuracea* is distinguished by its conspicuously farinaceous (mealy) odor and
-taste. *X. longipes* has a distinctly longer stipe relative to cap size and is found
-primarily on conifer wood.
-
-Members of the genus *Oudemansiella* (also in Physalacriaceae) share the long stipe
-habit but differ in having a viscid to glutinous pileus surface and larger spores
-with a distinctive dextrinoid reaction.
-
-## See Also
-
-- [[xerula-furfuracea]]
-
-- [[agaricus-bisporus]]
-- [[mycelium]]
-- [[trametes-versicolor-entity]]
-- [[volvariella-volvacea]]
-- [[pleurotus-eryngii]]

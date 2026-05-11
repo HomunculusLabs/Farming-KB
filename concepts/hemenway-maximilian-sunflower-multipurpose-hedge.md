@@ -1,19 +1,20 @@
 ---
 title: hemenway maximilian sunflower multipurpose hedge as Multipurpose Hedge Plant
 created: 2026-04-26
-tags: [plants, hedges, deer, permaculture, polyculture]
+tags: [plants, hedges, deer, [[permaculture]], polyculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
 type: concept
 ---
 
 # Maximilian Sunflower as Multipurpose Hedge Plant
 
-Toby Hemenway uses the Maximilian sunflower (Helianthus
+[[toby-hemenway]] uses the Maximilian sunflower (Helianthus
 maximilianii) as a detailed case study of how a single species
-can fulfill multiple functions in an ecological garden. This
+can fulfill multiple functions in an [[ecological-garden-design]]. This
 perennial sunflower exemplifies the principle that each element
 should perform many functions, serving as a deer barrier, wildlife
 habitat, soil builder, and ornamental feature simultaneously.
@@ -41,7 +42,7 @@ alternative or complement to a formal gaias-garden-living-mulches-ground-covers 
 
 ## Ornamental Value
 
-Beyond its functional roles, the Maximilian sunflower has
+Beyond its [[hemenway-mulch-makers-and-plant-functional-roles]], the Maximilian sunflower has
 significant ornamental value. The tall stems topped with bright
 yellow flowers create a striking visual effect, especially when
 planted in mass as a hedge or border. The late bloom time fills
@@ -87,9 +88,3 @@ in small gardens. It is best suited to larger properties where
 its rhizomatous spread can be managed or is even desirable. In
 smaller spaces, consider confining it with root barriers or
 choosing less aggressive gaias-garden-deer-deflecting-food-hedges
-- gaias-garden-host-plants-beneficial-insects
-- gaias-garden-living-mulches-ground-covers
-## See Also
-- [[toby-hemenway]]
-- [[mollison-designers-chestnut-as-multipurpose-tree-crop]]
-- [[oyster-mushroom-sunflower-seed-hull-substrate]]

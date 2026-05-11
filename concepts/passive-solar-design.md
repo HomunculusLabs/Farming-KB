@@ -9,7 +9,7 @@ sources: []
 
 # Passive Solar Design
 
-Passive solar design uses building orientation, window placement, thermal mass, and overhangs to heat and cool a building without mechanical systems. By working with the sun's seasonal path, a well-designed passive solar building can reduce heating costs by 50-80% and cooling costs by 30-50%. This approach is foundational for any off-grid or energy-efficient homestead.
+Passive solar design uses building orientation, window placement, [[comparison-windbreak-vs-thermal-mass]], and overhangs to heat and cool a building without mechanical systems. By working with the sun's seasonal path, a well-designed passive solar building can reduce heating costs by 50-80% and cooling costs by 30-50%. This approach is foundational for any off-grid or energy-efficient homestead.
 
 ## Solar Principles
 
@@ -40,7 +40,7 @@ The long axis of the building should face within 15 degrees of true south (not m
 - Low-emissivity (low-E) coatings: Low-E with high solar heat gain coefficient (SHGC) on south windows
 
 **Window specifications by climate:**
-- Cold climates (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
+- [[query-best-kiwifruit-varieties-for-cold-climates]] (Zone 5-7): Triple-glazed, argon-filled, SHGC 0.50+
 - Moderate climates (Zone 3-5): Double-glazed, argon-filled, SHGC 0.45+
 - Warm climates (Zone 1-3): Double-glazed, low SHGC 0.30 or less
 
@@ -58,9 +58,9 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
 - Adobe and compressed earth block
-- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
+- [[cob-building-basics-detailed]] walls: Excellent thermal mass in [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
 - Water: The highest volumetric heat capacity of any common material
-- Earthen plaster over straw bale: Moderate mass
+- [[comparison-lime-plaster-vs-earthen-plaster]] over straw bale: Moderate mass
 
 **Placement:**
 - Directly behind south-facing windows (sun must hit the mass)
@@ -100,7 +100,7 @@ Fixed overhangs are calculated to block summer sun while admitting winter sun.
 Even the best passive solar design fails without proper insulation and air sealing. Heat collected by passive solar must be retained.
 
 **Insulation recommendations by climate:**
-- Walls: R-20 to R-40 (higher in cold climates)
+- Walls: R-20 to R-40 (higher [[query-how-do-i-grow-figs-in-cold-climates]])
 - Ceiling/Roof: R-40 to R-60 (heat rises — roof insulation is critical)
 - Floor: R-20 to R-30 (especially over unheated crawlspaces)
 - Foundation: R-10 to R-20 (frost-protected shallow foundations)
@@ -136,7 +136,7 @@ Even the best passive solar design fails without proper insulation and air seali
 
 ## Design for Specific Building Types
 
-### [[tiny-house-on-wheels|Tiny Houses]]
+### [[tiny-house-on-wheels]]
 
 - Maximize south-facing windows relative to wall area
 - Heavy floor or a water-filled thermal mass container
@@ -144,7 +144,7 @@ Even the best passive solar design fails without proper insulation and air seali
 - Overhangs sized for your latitude
 - Insulation priority: Tiny houses have high surface-to-volume ratio
 
-### [[earthbag-building|Earthbag Structures]]
+### [[earthbag-building]]
 
 - Thick earth walls provide excellent thermal mass
 - Small, well-placed windows on south side

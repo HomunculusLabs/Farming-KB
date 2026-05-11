@@ -1,5 +1,5 @@
 ---
-title: "Carbon-Nitrogen Ratios and Soil hamilton-composting-and-organic-matter-management - Steve Solomon"
+title: Solomon Carbon Nitrogen Ratios
 created: 2026-04-26
 tags:
   - gardening
@@ -31,7 +31,7 @@ C/N or C:N.
 The absolute standard of comparison is the C/N of soil itself. Except in
 the driest, hottest deserts, all soil contains humus -- the stable
 residue of decomposed organic matter. Humus is a complex substance highly
-resistant to further decomposition. While it does eventually [[query-can-fungi-break-down-plastic-pollution]]
+resistant to further [[decomposition]]. While it does eventually [[query-can-fungi-break-down-plastic-pollution]]
 completely and vanish from the soil, this happens very slowly.
 
 Soil humus has a carbon-nitrogen ratio of around 12:1 in every climate.
@@ -76,7 +76,7 @@ than before. This is also what happens with [[cervantes-chemical-fertilizers-gui
 - **Low C/N materials** (below 12:1) produce immediate nitrates and rapid
   plant growth, but slightly reduce soil humus and long-term health.
 - **High C/N materials** (above 12:1) temporarily tie up nutrients while
-  building soil humus. Plants grow less well initially, but the soil
+  [[building-soil]] humus. Plants grow less well initially, but the soil
   becomes healthier.
 
 ## Practical Implications for Gardeners
@@ -88,33 +88,3 @@ of high-carbon (brown) and low-carbon (green) materials, blended to
 approach an overall C/N of roughly 25-30:1, will decompose efficiently
 without excessive nitrogen loss or nutrient tie-up. See
 [[solomon-sheet-composting-mulch-gardening]].
-
-### For Mulching
-
-Permanent mulching with high-carbon materials (straw, leaves) can
-gradually build soil humus but may temporarily tie up nitrogen near the
-surface. This is one reason Solomon cautions against relying solely on
-mulch gardening for nutrient supply. See
-[[solomon-complete-organic-fertilizer-guide]].
-
-## Soil Fertility Decline
-
-Solomon traces the historical decline of soil fertility. When
-English-speaking peoples first settled their lands, agricultural practice
-consisted of clearing the forest, burning the duff (the forest's capital
-accumulation of centuries), and then growing crops. Abundant harvests
-could be enjoyed for a while. But without the steady nutrient addition
-from falling leaves, with nutrients exported as crops went to market, and
-without the animal manure produced by a complete farm ecosystem, soil
-fertility decreased. Today, without chemical fertilizers, most croplands
-would be considered worn out.
-
-This historical context underscores why rebuilding and maintaining soil
-organic matter through proper C/N management is essential for the
-food-producing garden.
-
-## Related Topics
-
-- [[solomon-sheet-composting-mulch-gardening]]
-- [[solomon-compost-organic-matter]]
-- [[solomon-soil-mineral-depletion]]

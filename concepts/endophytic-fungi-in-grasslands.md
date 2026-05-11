@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Endophytic fungi live within plant tissues without causing visible disease
+[[endophytic-fungi]] live within plant tissues without causing visible disease
 symptoms. In grasslands, the most important group is the Clavicipitaceous
 endophytes (family Clavicipitaceae), which form systemic, asymptomatic
 infections in above-ground tissues of cool-season grasses. These fungi produce
@@ -23,7 +23,7 @@ ecosystem dynamics.
 
 Systemic colonization of all above-ground plant parts. Vertically transmitted
 through seeds. Sexual stage: Epichloe species (choke disease); asexual stage:
-Neotyphodium/Epichloe festucae. Host range is primarily cool-season grasses
+Neotyphodium/[[epichloe-festucae]]. [[powdery-mildews-erysiphaceae-diversity-host-range]] is primarily cool-season grasses
 (Poaceae subfamily Pooideae).
 
 ### Non-Clavicipitaceous Endophytes (Classes 2-3)
@@ -70,7 +70,7 @@ insecticidal. Cause ryegrass staggers in sheep and cattle.
 ### Fescue Toxicosis
 
 Endophyte-infected tall fescue dominates approximately 35 million acres in the
-United States. The wild-type endophyte produces ergovaline and lolitrem B,
+[[dmt-containing-plants-united-states-halpern]]. The wild-type endophyte produces ergovaline and lolitrem B,
 causing reduced weight gain, elevated body temperature, reproductive failure,
 and rough hair coats. Annual economic losses exceed  billion.
 
@@ -88,20 +88,3 @@ interseed legumes to dilute alkaloid concentration.
 ## Ecological Consequences
 
 Endophyte-infected grasses can dominate pastures, reducing plant diversity.
-Alkaloids reduce herbivorous insect populations, cascading through food webs.
-Endophyte-mediated changes in root exudates and [[dighton-litter-quality-fungal-decomposition-rates]] affect
-decomposer communities and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. See
-[[ericoid-and-orchid-mycorrhizae]] for comparison with other fungal symbioses.
-
-## Evolutionary Considerations
-
-The mutualism is context-dependent. Endophytes impose fitness costs offset by
-herbivore protection only when herbivory pressure is high, explaining coexistence
-of infected and uninfected grasses in many populations.
-
-## See Also
-
-- [[ericoid-and-orchid-mycorrhizae]]
-- [[fungal-biopesticides]]
-- [[fungal-endophytes-plant-fitness]]
-- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

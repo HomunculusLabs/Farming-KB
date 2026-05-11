@@ -88,26 +88,3 @@ Mollison lists bee forage systems as a medium-term ethical investment
 viable investment category that produces returns while [[soil-building-ecological-garden]]
 capital. The initial investment in planting bee forage yields ongoing
 returns through honey production and improved crop pollination.
-## Key Principles
-1. **Continuous bloom:** Select species for year-round nectar and pollen
-   supply
-2. **Multiple functions:** Every bee plant should serve at least two other
-   functions
-3. **Avoid pesticides:** Design systems that eliminate need for biocides
-   near hives
-4. **Water access:** Provide clean water near every apiary
-5. **Shelter:** Protect hives from wind and extreme heat
-6. **Native species:** Include native flowering plants adapted to local
-   conditions
-7. **Diversity:** Plant many species rather than monocultures; resilience
-   through variety
-## See Also
-- [[permaculture-designers-manual-essential-oil-plants]] - Aromatic plant
-  systems
-- [[permaculture-designers-manual-beverage-plants]] - Beverage plant
-  systems
-- [[permaculture-designers-manual-fibre-plants]] - Fibre plant systems
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - Cover crops that
-  also serve bee forage
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - Species
-  reference lists

@@ -21,7 +21,7 @@ sources:
 
 It is native to the mountains of western [[psilocybin-north-america-pacific-northwest]], ranging from southern British Columbia through the Cascades and Sierra Nevada to the Rocky Mountains of Wyoming and Colorado.
 
-The species is one of the smallest *Vaccinium* species in western North America, forming extensive low mats in subalpine coniferous forests and meadows.
+The species is one of the smallest *Vaccinium* species in western [[guzman-psilocybin-mushrooms-north-america]], forming extensive low mats in subalpine coniferous forests and meadows.
 
 Its tiny red to orange berries are an important food for ruffed grouse, hence the common name, and are also consumed by bears, deer, and songbirds.
 
@@ -59,7 +59,7 @@ The species is tolerant of shallow soils and exposed sites, frequently occupying
 
 ## Ecology
 
-Grouseberry flowers are pollinated primarily by bumblebees and small solitary bees active during the short alpine [[savory-growing-season-and-non-growing-season-management]].
+Grouseberry flowers are pollinated primarily by bumblebees and small [[comparison-honey-bees-vs-native-solitary-bees]] active during the short alpine [[savory-growing-season-and-non-growing-season-management]].
 
 The species is a primary food source for ruffed grouse (*Bonasa umbellus*) in montane forests of the Pacific Northwest, hence its common name.
 
@@ -71,7 +71,7 @@ White-tailed deer and elk browse the foliage lightly in winter and [[coleman-ove
 
 The species is an early colonizer of volcanic disturbance, establishing rapidly on the pumice deposits of Mount St. Helens after the 1980 eruption.
 
-It commonly co-occurs with *Vaccinium membranaceum*, *Vaccinium cespitosum*, *Xerophyllum tenax*, and *Clintonia uniflora* in subalpine plant communities.
+It commonly co-occurs with *[[vaccinium-membranaceum]]*, *[[vaccinium-cespitosum]]*, *Xerophyllum tenax*, and *Clintonia uniflora* in subalpine plant communities.
 
 ## Edibility and Culinary Use
 
@@ -88,34 +88,3 @@ Nutritional content has not been extensively studied, but is presumed similar to
 The species has no commercial [[cuthill-mushroom-cultivation-history-19th-century]] and is gathered exclusively from wild populations.
 
 ## Cultivation
-
-*Vaccinium scoparium* is virtually unknown in cultivation due to its small size and limited fruit production.
-
-It could potentially serve as an ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]] for alpine and rock gardens in cool, moist climates.
-
-The species requires acidic soils (pH 4.0–5.5), partial shade to full sun, and excellent drainage with consistent moisture.
-
-[[coleman-cold-hardiness-testing-ratings]] is excellent (USDA zones 4–7), and the species tolerates heavy snowpack and prolonged freezing.
-
-Propagation from seed requires cold stratification for 60–90 days, and establishment from seed is slow.
-
-Division of established mats is the most reliable vegetative propagation method.
-
-Its primary value in horticulture and breeding is as a source of cold-hardiness, compact form, and adaptation to volcanic mineral soils.
-
-## See Also
-
-- [[vaccinium-membranaceum]]
-- [[vaccinium-deliciosum]]
-- [[vaccinium-cespitosum]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-corymbosum-entity]]
-- arctostaphylos-uva-ursi
-- [[gaultheria-shallon]]
-- [[kalmia-latifolia]]
-- [[vaccinium-ovatum]]
-- [[vaccinium-arboreum]]
-- [[vaccinium-pallidum]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-uliginosum]]

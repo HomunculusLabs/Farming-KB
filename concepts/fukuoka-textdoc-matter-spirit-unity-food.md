@@ -1,10 +1,11 @@
 ---
 title: Matter and Spirit Unity in Food
 created: 2026-04-28
-tags: [fukuoka, natural-diet, philosophy, buddhism, food-theory, zen, matter-spirit]
+tags: [fukuoka, [[natural-diet]], philosophy, buddhism, food-theory, zen, matter-spirit]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,45 +88,3 @@ without removing their natural astringency, who savors the subtle flavors of sun
 hearth, is experiencing food as matter-spirit unity.
 
 ## Zen and Food as One
-
-Fukuoka states explicitly that zen and food are one. For those who would sample the
-delights of a [[fukuoka-natural-diet-as-foundation]], there is Buddhist vegetarian cooking and Japanese high tea.
-The practical wisdom of early man who sun-dried root vegetables and pickled them in
-salt, rice bran, or miso, enjoying their special taste and aroma at the end of his
-meals, represents the essence of the flavors of nature.
-
-The refined green tea of the tea ceremony is inferior to the simple green tea sipped
-by the open hearth. The elaborate banquet is inferior to the simple meal of barley and
-rice with vegetables gathered from the garden. This is not asceticism but the
-recognition that true flavor emerges when food is closest to its natural state.
-
-## True Culture Arises from Nature
-
-Culture, Fukuoka argues, is seen as a human product created, maintained, and refined
-through human invention by the separation of man from nature. However, the culture
-actually associated with food always originates in a return to the source of nature,
-forming of itself when [[fukuoka-god-nature-and-man-as-one]] fuse into a single whole.
-
-A culture born of human recreation and vanity that is divorced from nature cannot
-become a true culture. True culture arises from within nature, and is pure, modest,
-and simple. When mankind forsakes a natural diet for a civilized diet, he turns away
-from a true culture and sets off on the road to decline.
-
-## Implications for Modern Food Systems
-
-Fukuoka's matter-spirit unity critique applies directly to modern food technology.
-The pursuit of "complete food" in pill form, the creation of instant foods in
-factories, the breeding of crops for appearance and transport rather than flavor,
-all represent the triumph of discriminating knowledge over natural wholeness.
-
-A complete food containing all necessary nutrients in sufficient quantity must include
-every component in the roots, leaves, and fruits of all vegetation, the flesh of all
-birds and beasts, fish and shellfish, and all grains, plus unknown ingredients. Such a
-food would be incredibly bulky and expensive. Those forced to eat it would complain
-that natural food is easier, cheaper, and tastier.
-
-## See Also
-
-- [[fukuoka-textdoc-nature-of-food]]
-- [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]

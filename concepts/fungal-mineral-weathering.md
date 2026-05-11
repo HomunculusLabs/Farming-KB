@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Mineral Weathering
 
-Fungi are among the most significant biological agents of mineral weathering — the process by which rocks and minerals break down into soil. Through a combination of mechanical and chemical mechanisms, fungi accelerate the conversion of rock into soil by orders of magnitude compared to abiotic processes alone. (see [[gadd-fungal-metal-interactions]]).
+Fungi are among the most significant biological agents of mineral weathering — the process by which rocks and minerals break down into soil. Through a combination of mechanical and chemical mechanisms, fungi accelerate the conversion of rock into soil by orders of magnitude compared to abiotic processes alone.
 
 ## Mechanisms of Weathering
 
@@ -22,14 +22,14 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Chemical Weathering
 - **Organic acid exudation**: Oxalic, citric, gluconic acids dissolve minerals
   - Oxalic acid is the most important — complexes with Ca, Fe, Al
-  - Forms metal-oxalate crystals (calcium oxalate, iron oxalate) visible on fungal hyphae
+  - Forms metal-oxalate crystals ([[fungal-calcium-oxalate-and-carbonate-precipitation]], iron oxalate) visible on fungal hyphae
 - **Proton extrusion**: Fungi pump H+ ions into their environment, lowering pH and dissolving minerals
-- **Siderophore production**: Low-molecular-weight chelators that bind and solubilize iron from minerals
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Low-molecular-weight chelators that bind and solubilize iron from minerals
 - **CO2 respiration**: Fungal respiration produces carbonic acid (H2CO3) in soil solution
-- **Extracellular enzymes**: Oxidoreductases (laccases, peroxidases) that attack mineral structures
+- **[[fungal-extracellular-enzymes]]**: Oxidoreductases (laccases, peroxidases) that attack mineral structures
 
 ### Biochemical Mineral Transformations
-- Biomineralization: fungi precipitate secondary minerals (oxalates, carbonates)
+- Biomineralization: fungi precipitate [[gadd-mycogenic-mineral-precipitation-secondary-minerals]] (oxalates, carbonates)
 - Metal oxidation/reduction: fungal enzymes change metal oxidation states
 - Biosorption: fungal cell walls bind metal ions from solution
 
@@ -56,7 +56,7 @@ Fungi are among the most significant biological agents of mineral weathering —
 ### Soil Formation
 - Fungi are primary agents of soil formation from rock
 - In early succession (lichens, then free-living fungi), fungal weathering creates the first soil
-- Without fungal weathering, soil formation rates would be 10-100x slower
+- Without fungal weathering, [[mollison-soil-formation-rates-and-erosion-costs]] would be 10-100x slower
 
 ### Plant Nutrition
 - Mycorrhizal fungi weather minerals to access phosphorus, potassium, calcium
@@ -74,6 +74,18 @@ Fungi are among the most significant biological agents of mineral weathering —
 - Fungal siderophores and oxalates mediate metal mobility
 
 ## Applications
-- [[mycoremediation-overview]] — fungal weathering for bioremediation
+- [[cotter-mycoremediation-overview]] — fungal weathering for bioremediation
 - [[fungal-role-in-phosphorus-cycling]] — P release from minerals
 -  — fungi in pedogenesis
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## See Also
+- [[dighton-fungal-rock-weathering-mineral-dissolution]]
+- [[fungal-bioweathering-and-mineral-transformations]]
+- [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]]
+- [[fungal-mineral-transformations-biogeochemical-cycles]]
+- [[gadd-fungal-rock-weathering]]

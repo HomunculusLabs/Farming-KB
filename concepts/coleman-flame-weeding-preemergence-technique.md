@@ -1,5 +1,5 @@
 ---
-title: "Flame Weeding Techniques for Pre-Emergence and Post-Emergence Weed Control"
+title: Coleman Flame Weeding Preemergence Technique
 source: "The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - [[eliot-coleman]] (2009)"
 chapter: "14 - Weeds"
 tags: [flame-weeding, weed-control, organic, pre-emergence, thermal-weed-control, coleman]
@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Overview
 
-Chapter 14 of *The Winter Harvest Handbook* presents flame weeding as a central component
+Chapter 14 of *The [[cold-house-winter-harvest-system]] Handbook* presents flame weeding as a central component
 of [[hamilton-organic-weed-management]]. Thermal weed control kills or severely damages weeds through
 cellular disruption from brief heat exposure—without affecting soil structure or beneficial
 biology. Coleman integrates flame weeding into a comprehensive strategy alongside mechanical
@@ -66,7 +66,7 @@ and crop emergence.
 ### Technique
 
 1. Prepare the seedbed and direct-seed the crop
-2. Mark the sowing date precisely
+2. Mark the [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]] precisely
 3. 3-5 days after sowing (depending on soil temperature), flame the entire bed surface
 4. Walk at a steady pace—approximately 1 foot per second—to deliver uniform heat
 5. Keep the flame 2-3 inches above the soil surface
@@ -87,58 +87,3 @@ Pre-emergence flaming works best for crops with slow germination relative to wee
 - **Corn and beans**: Large seeds germinate as fast as weeds—no effective window
 - **Pre-sprouted crops**: Already germinating, so flame will kill them too
 - **Shallow-rooted crops**: Heat penetrates deeper than seed placement depth
-
-## Post-Emergence Flame Weeding
-
-### Directed Flaming
-
-Post-emergence flaming requires careful direction to avoid crop damage:
-
-- Direct flame at weed growing points, not crop leaves
-- Shield the crop with your body or a physical barrier when possible
-- Flaming is most effective when weeds are at cotyledon stage
-- Established crops with woody stems tolerate brief flame exposure better than weeds
-
-### Inter-Row Flaming
-
-For row crops, flamers with hooded shields can treat the inter-row space:
-
-- Protects crop plants while killing weeds between rows
-- Effective from crop establishment through canopy closure
-- Walking speed determines heat dose—slower = more kill
-
-## Integration with Mechanical Weed Control
-
-Coleman pairs flame weeding with mechanical tools in a layered strategy:
-
-1. **Stale seedbed technique**: Till the bed, wait for weeds to germinate, flame before
-   planting. Repeat if needed for heavily weed-infested soil.
-2. **Flame + hoe**: Pre-emergence flaming handles the first weed flush; subsequent flushes
-   are managed with collinear hoes or wire weeders.
-3. **Flame between rows**: After crop establishment, flame between rows while hoeing
-   within rows.
-
-## Fuel Efficiency and Economics
-
-- A standard 20-lb propane cylinder provides approximately 2-3 hours of flaming
-- Walking speed of 1 foot/second covers roughly 3000 square feet per hour
-- Fuel cost is roughly $2-5 per acre at typical rates
-- The labor savings from reduced hand weeding typically pay for equipment in one season
-
-## Safety Considerations
-
-- Never flame in dry grass, windy conditions, or near combustible materials
-- Maintain 10 feet clearance from mulch, [[cervantes-season-extension-cloches-row-covers]], and dry vegetation
-- Wear leather gloves, closed-toe boots, and long pants
-- Carry a charged fire extinguisher within arm's reach
-- Check local regulations—some municipalities restrict open-flame weed control
-- Flame weeding is most practical in humid climates or irrigated fields where fire risk
-  is minimal
-
-## See Also
-
-- [[coleman-weed-control]] — Comprehensive weed management chapter
-- coleman collinear hoe technique — Mechanical weed control tool
-- coleman precision seeding — [[clay-seed-pellets-direct-seeding]] methods
-- coleman stale seedbed technique — Pre-planting weed depletion
-- coleman organic farm maintenance — Seasonal farm operations

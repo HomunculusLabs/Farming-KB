@@ -1,5 +1,5 @@
 ---
-title: Psilocybe psilocybe semilanceata distribution ecology and Ecology
+title: Psilocybe Semilanceata Distribution Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -12,13 +12,13 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification"
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification"
 type: concept
 ---
 
 # Psilocybe semilanceata Distribution and Ecology
 
-**Psilocybe semilanceata**, commonly known as the **liberty cap**, is one of the most widely distributed and well studied neurotropic fungi in the world. It holds the distinction of being the most commonly collected psychoactive mushroom in Europe, where it fruits abundantly in autumn pastures. Remarkably, despite its pantropical and pantemperate distribution spanning six continents, it is **absent from Mexico**, the global center of Psilocybe diversity.
+**Psilocybe semilanceata**, commonly known as the **liberty cap**, is one of the most widely distributed and well studied [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] the world. It holds the distinction of being the most commonly collected [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in Europe, where it fruits abundantly in autumn pastures. Remarkably, despite its pantropical and pantemperate distribution spanning six continents, it is **absent from Mexico**, the global center of Psilocybe diversity.
 
 ## Taxonomy and Naming
 
@@ -70,7 +70,7 @@ P. semilanceata is extremely widespread and common across Europe, documented fro
 ### North America
 
 **United States**:
-- **Washington**: Very common; one of the most frequently encountered species in the Pacific Northwest (Hofmann et al., 1963; Repke & Leslie, 1977)
+- **Washington**: Very common; one of the most frequently encountered species in the [[psilocybin-north-america-pacific-northwest]] (Hofmann et al., 1963; Repke & Leslie, 1977)
 - **Oregon**: Present
 - **California**: Documented
 - **Virginia**: Documented (Guzmán, 1983; Redhead, 1989)
@@ -87,59 +87,3 @@ P. semilanceata has a disjunct distribution in South America:
 - **Peru**: Reported (Redhead, 1989)
 
 ### Asia
-
-- **India**: Documented from the Himalayan region and elsewhere (Bhide et al., 1987)
-- **Japan**: Not specifically listed for P. semilanceata in this source
-
-### Australasia
-
-- **Australia**: Documented from multiple states (Margot & Watling, 1981; Allen et al., 1991; Guzmán, 1995)
-- **Tasmania**: Well documented (Guzmán, 1983; Chang & Mills, 1992; Samorini, 1992)
-- **New Zealand**: Documented (Allen et al., 1991; Guzmán et al., 1993b)
-
-### Africa
-
-- **South Africa**: Questionable; reported with a question mark by Samorini (1992)
-
-## Notable Absence from Mexico
-
-One of the most biogeographically interesting aspects of P. semilanceata is its complete absence from Mexico, despite:
-
-1. Mexico having the highest Psilocybe diversity in the world (44 species)
-2. P. semilanceata being widespread in temperate North America
-3. Other Psilocybe species showing continuous distributions from North to South America
-
-This suggests that P. semilanceata is adapted to temperate grassland ecosystems that are not well represented in Mexico's predominantly subtropical to tropical climate. The Mexican species that occupy similar grassland niches (such as P. mexicana) are distinct evolutionary lineages.
-
-## Chemistry and Potency
-
-P. semilanceata has been the subject of extensive chemical analysis:
-
-- **Psilocybin content**: Variable, typically 0.2% to 1.0% dry weight; one of the more potent Psilocybe species
-- **Psilocin content**: Usually present at lower levels than psilocybin
-- **Baeocystin**: Present in most specimens
-- **Variability**: Potency varies significantly by [[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]], geographic origin, and growing conditions
-
-### Notable Chemical Studies
-
-- **Christiansen, Rasmussen & Høiland (1981)**: Analyzed Norwegian specimens, finding significant psilocybin content
-- **Christiansen & Rasmussen (1982)**: HPLC and MS analysis of Norwegian P. semilanceata
-- **Gartz (1986c)**: Quantitative determination of indole derivatives
-- **Ohenoja et al. (1987)**: Found that psilocybin content increases in more recent collections, possibly due to environmental changes or improved analytical methods
-- **Semerdzieva et al. (1986)**: Czech specimens analyzed
-
-### Age Related Potency Loss
-
-Ohenoja et al. (1987) made the notable discovery that herbarium specimens lose potency over time:
-- 1869 specimen: 0.014% psilocybin (dry weight)
-- 1954 specimen: 0.67% psilocybin (dry weight)
-- 1976 specimen: 0.84% psilocybin (dry weight)
-
-This finding corroborates [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] knowledge, where dried specimens older than one year are considered inactive and discarded.
-## See Also
-
-- [[psilocybe-cubensis]]
-- Mexico as Center of Neurotropic [[freshwater-fungi-diversity-and-sampling]]
-- Psilocybin Chemistry
-- [[baeocystin]]
-- [[neurotropic-fungi]]

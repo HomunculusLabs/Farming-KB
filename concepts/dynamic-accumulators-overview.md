@@ -1,5 +1,5 @@
 ---
-title: comparison-dynamic-accumulators-vs-cover-crops overview
+title: Dynamic Accumulators Overview
 created: 2026-04-28
 tags:
 permacultureture
@@ -47,7 +47,7 @@ external amendments, gardeners can grow [[growing-gourmet-indoor-growing-environ
 Choosing the right accumulator plants depends on your specific soil needs,
 climate, and the nutrients you wish to cycle. The comprehensive list of
 known dynamic accumulators includes dozens of species spanning many
-families, from comfrey and borage to dandelion and chicory. Each
+families, from comfrey and borage to [[dandelion]] and chicory. Each
 species tends to concentrate particular nutrients, so matching the plant
 to the soil deficiency is essential for effective results.
 
@@ -74,7 +74,7 @@ soil-building functions. Other foundational works include Ben Easey's
 - Legume [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] is the most well-documented example of true
   bioaccumulation icover-crops Cover [[cover-crops-green-manures]] manures provide a practical framework for using
   accumulator plants in fungal-diversity-agricultural-systems.
-- Phosphate accumulators like buckwheat and mustard play a critical role
+- [[phosphate-accumulators-sustainable-agriculture]] like buckwheat and mustard play a critical role
   in liberating bound phosphorus from soil minerals.
 ## Practical Considerations
 
@@ -87,16 +87,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[dynamic-accumulators]]
-- [[decomposition]]
-- [[comparison-dynamic-accumulators-vs-cover-crops]]
-- [[dynamic-nutrient-accumulators]]
-- [[query-what-are-the-best-dynamic-accumulators-for-permaculture]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,16 +88,3 @@ term strategy for improving CEC in any soil type. Regular applications of
 compost, green manures, and mulch increase both the quantity and the quality
 of cation exchange sites. See [[nitrogen-fixing-trees]] can access minerals from subsoil layers and bring them
 to the surface through leaf fall. [[permaculture-design]]
-
-The permaculture approach to soil minerals is fundamentally cyclical rather
-than linear. Instead of mining soil fertility and replacing it with synthetic
-inputs, the designer creates closed loops where minerals are continuously
-captured, cycled, and returned. Deep-rooting trees mine subsoil minerals.
-Composting and mulching return those minerals to the surface. Livestock
-integrated into the system concentrate minerals in their manure, which is
-redistributed through careful grazing management. The goal is a self-
-renewing system where external mineral inputs become unnecessary over time.
-
-## See Also
-
-- [[mollison-designers-soil-water-storage-and-field-capacity]]

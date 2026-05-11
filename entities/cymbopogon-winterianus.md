@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Rao, B.R.R. et al. (2005). "Chemical composition of the permaculture-designers-manual-essential-oil-plants of Cymbopogon winterianus." Journal of Essential Oil Research, 17(4), 397–399.
+  - Rao, B.R.R. et al. (2005). "Chemical composition of the permaculture-designers-manual-essential-oil-plants of Cymbopogon winterianus." Journal of permaculture-designers-manual-essential-oil-plants Research, 17(4), 397–399.
   - Gsell, W. (1971). "Cymbopogon winterianus Jowitt, its botany, chemistry, and utilisation." Tropical Science, 13(2), 141–154.
   - Jain, S.C. et al. (2005). "Antimicrobial activity of Cymbopogon winterianus essential oil." Fitoterapia, 76(3–4), 391–393.
   - Mahalwal, M.S. & Ali, M. (2003). "Volatile oil composition of Cymbopogon winterianus." Journal of Essential Oil-Bearing Plants, 6(2), 147–150.
@@ -60,7 +60,7 @@ It performs best in full sun but tolerates partial shade, particularly during es
 
 ## Cultivation
 
-Java citronella is propagated primarily through slips (rooted tillers) rather than seed, as commercial seed production is inconsistent.
+Java citronella is propagated primarily through slips (rooted tillers) rather than seed, as commercial [[cannabis-controlled-pollination-seed-production]] is inconsistent.
 
 Slips are planted at the onset of the monsoon season at spacing of 45–60 cm within rows and 60–90 cm between rows.
 
@@ -68,13 +68,13 @@ The first harvest typically occurs 3–4 months after planting, with subsequent 
 
 Annual fresh herbage yield ranges from 20–40 tonnes per hectare, yielding 100–250 kg of essential oil per hectare.
 
-Oil yield and quality decline after 3–4 years, necessitating replanting of established stands.
+Oil yield and [[fukuoka-petroleum-agriculture-food-quality-decline]] after 3–4 years, necessitating replanting of established stands.
 
 Nitrogen fertilization at 80–120 kg/ha annually significantly improves herbage and oil yield.
 
 The essential oil is extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of fresh or partially dried herbage, with distillation typically completed within 3–4 hours.
 
-Major pests include stem borer (*Chilo partellus*) and shoot fly (*Atherigona* spp.), while leaf rust (*Puccinia cymbopogonis*) is the primary disease concern.
+Major pests include [[fukuoka-stem-borer-thinning-effect-natural-pest-balance]] (*Chilo partellus*) and shoot fly (*Atherigona* spp.), while leaf rust (*Puccinia cymbopogonis*) is the primary disease concern.
 
 ## Chemistry and Pharmacology
 
@@ -86,39 +86,4 @@ Minor components include limonene, methyl isoeugenol, geranyl acetate, and borne
 
 The citronellal content distinguishes Java citronella oil from Ceylon citronella oil, which is dominated by citronellal at only 5–15%.
 
-The oil demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*.
-
-Antifungal activity has been documented against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* in vitro.
-
-Topical application of the oil exhibits significant insect repellent properties, particularly against *Aedes aegypti* and *Anopheles* mosquitoes.
-
-The repellent efficacy is attributed primarily to citronellal and geraniol, which interfere with insect olfactory receptor neurons.
-
-Oral toxicity studies in rodents indicate moderate toxicity (LD50 ~4,000 mg/kg), with the primary effects being CNS depression and respiratory irritation.
-
-## Uses and Applications
-
-The primary commercial use of Java citronella oil is as an insect repellent, formulated in candles, lotions, sprays, and wearable devices.
-
-The United States EPA recognizes citronella oil as a biopesticide with minimal risk, and it is widely used in personal care products.
-
-In perfumery, the oil serves as a source of natural geraniol and citronellol, used in soaps, detergents, and floral fragrance compositions.
-
-The oil is employed in aromatherapy for its reputed calming and stress-relieving properties, though clinical evidence remains limited.
-
-Traditional uses in Southeast Asian medicine include topical application for headache, rheumatic pain, and as a febrifuge.
-
-The spent herbage after distillation serves as mulch or livestock fodder, though palatability is moderate due to residual oil content.
-
-## See Also
-
-- [[cymbopogon-citratus]]
-- [[cymbopogon-martinii]]
-- [[cymbopogon-flexuosus]]
-- [[geraniol]]
-- [[eucalyptus-globulus]]
-- [[melaleuca-alternifolia]]
-- [[mentha-piperita]]
-- [[pelargonium-graveolens]]
-- [[ocimum-basilicum]]
-- [[lavandula-angustifolia]]
+The oil demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria, including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*.

@@ -88,38 +88,3 @@ The concurrent suppression of aborts and alteration of annulus
 formation may indicate that brassinosteroids modulate a common
 developmental signaling pathway that controls multiple aspects of
 fruit body development. The annulus is a remnant of the partial
-veil, and its absence suggests altered timing or execution of the
-veil rupture process during fruit body maturation.
-
-## Practical Cultivation Implications
-
-If brassinosteroid-mediated abort suppression proves reproducible
-across species and cultivation systems, it could have significant
-practical value. Aborts are not merely cosmetic defects — they
-represent lost yield and create contamination risk. Reducing abort
-frequency would improve both the economic efficiency and the
-hygienic reliability [[history-of-mushroom-cultivation]] operations.
-
-The conventional approach to reducing aborts focuses on environmental
-management: maintaining stable temperature, humidity, and fresh air
-exchange during the critical pinning and fruiting phases. A chemical
-approach using brassinosteroids would complement environmental
-controls by addressing the biological basis of abort formation at the
-cellular level.
-
-## Research Gaps
-
-Key unanswered questions include: the molecular mechanism of abort
-suppression, dose-response relationships for this specific effect,
-whether the phenomenon extends to other cultivated mushroom species,
-and whether the morphological side effects (annulus loss) can be
-decoupled from the abort suppression effect. The practical
-availability and cost of brassinosteroids for cultivation use also
-remain unexplored.
-
-## See Also
-
-- [[brassinosteroid-fungal-fruiting-body-morphology]]
-- [[brassinosteroid-mushroom-yield-dry-mass]]
-- [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
-- [[brassinosteroid-growth-promotion-psilocybe-cubensis]]

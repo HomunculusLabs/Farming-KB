@@ -20,7 +20,7 @@ sources:
 
 Elaeagnus angustifolia, commonly known as Russian olive, silverberry, or oleaster, is a deciduous shrub or small tree in the family Elaeagnaceae. It is native to western and central Asia, ranging from southern Russia and Kazakhstan to Turkey and Iran. The species is widely naturalized across North America and Europe, where it was introduced as an ornamental and windbreak plant.
 
-Russian olive is recognized for its silvery-scaled foliage, fragrant yellow flowers, and edible fruit. It forms a symbiotic relationship with actinorhizal bacteria (Frankia spp.), enabling atmospheric nitrogen fixation. This trait makes it valuable in ecological restoration and permaculture systems.
+Russian olive is recognized for its silvery-scaled foliage, fragrant yellow flowers, and edible fruit. It forms a symbiotic relationship with actinorhizal bacteria (Frankia spp.), enabling atmospheric [[biological-nitrogen-fixation-agriculture]]. This trait makes it valuable in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and permaculture systems.
 
 The plant has become invasive in riparian areas of the western United States, displacing native cottonwood and willow communities. Despite its invasive tendencies, it remains important in traditional medicine and dryland agroforestry.
 
@@ -38,15 +38,15 @@ The fruit is a drupe-like achene, 8-14 mm long, silvery-yellow when mature, cont
 
 Root systems are extensive, with both deep taproots reaching 2-4 meters and lateral roots that spread well beyond the canopy drip line. Actinorhizal root nodules containing Frankia bacteria form on lateral roots, enabling nitrogen fixation rates of 10-60 kg per hectare per year.
 
-Wood is dense, hard, and fine-grained with a yellow-brown heartwood. It has been used locally for tool handles, fence posts, and turning. The wood burns hot with a pleasant fragrance, making it a valued fuelwood in arid regions.
+Wood is dense, hard, and fine-grained with a yellow-brown heartwood. It has been used locally for tool handles, fence posts, and turning. The wood burns hot with a pleasant fragrance, making it a valued fuelwood [[fukuoka-natural-farming-in-arid-regions]].
 
 ## Distribution and Habitat
 
 Elaeagnus angustifolia is native to dry regions of western and central Asia, including Iran, Turkey, Afghanistan, Kazakhstan, and western China. It naturally occurs along riverbanks, floodplains, and mountain slopes at elevations up to 2,000 meters.
 
-The species was introduced to North America in the late 1800s and widely planted for windbreaks, erosion control, and wildlife habitat across the Great Plains and Intermountain West. It is now naturalized across much of the United States and southern Canada.
+The species was introduced to North America in the late 1800s and widely planted for windbreaks, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and [[hemenway-backyard-wildlife-habitat]] across the Great Plains and Intermountain West. It is now naturalized across much of the United States and southern Canada.
 
-In Europe, Russian olive is cultivated as an ornamental and has naturalized locally in Mediterranean and central European countries. It is particularly common in the Danube basin and Balkan regions.
+In Europe, Russian olive is cultivated as an ornamental and has naturalized locally in Mediterranean and [[psilocybe-bohemica-central-european]] countries. It is particularly common in the Danube basin and Balkan regions.
 
 The plant thrives in alkaline, saline, and sandy soils where few other woody species survive. It tolerates extreme drought, temperatures from -35 to 40 degrees Celsius, and pH levels from 6.0 to 9.0.
 
@@ -54,15 +54,15 @@ The plant thrives in alkaline, saline, and sandy soils where few other woody spe
 
 Russian olive is propagated from seed (requiring 60-90 days cold stratification), hardwood cuttings, or suckers. Seedlings establish rapidly and begin producing fruit within 3-5 years. Growth rates of 60-90 cm per year are common in favorable conditions.
 
-In permaculture design, Elaeagnus angustifolia serves multiple functions as a nitrogen-fixing support species. Its deep root system breaks compacted subsoil and brings up minerals. The canopy provides wind protection for understory crops.
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], Elaeagnus angustifolia serves multiple functions as a nitrogen-fixing support species. Its deep root system breaks compacted subsoil and brings up minerals. The canopy provides wind protection for understory crops.
 
-The species is widely used in windbreak and shelterbelt plantings across arid regions. A single row planted at 2-3 meter spacing creates an effective windbreak within 5 years. The dense root network stabilizes streambanks and dunes.
+The species is widely used in [[windbreak-and-shelterbelt-design]] plantings across arid regions. A single row planted at 2-3 meter spacing creates an effective windbreak within 5 years. The dense root network stabilizes streambanks and dunes.
 
-Companion planting combinations include Russian olive as a nurse tree for fruit trees, intercropped with nitrogen-demanding species like apple or plum. The leaf litter enriches surrounding soil with nitrogen and organic matter.
+[[cervantes-companion-planting-pest-deterrent]] combinations include Russian olive as a nurse tree for fruit trees, intercropped with nitrogen-demanding species like apple or plum. The leaf litter enriches surrounding soil with nitrogen [[hamilton-composting-and-organic-matter-management]].
 
-Pest and disease resistance is generally high, though coral spot (Nectria cinnabarina) and Verticillium wilt can affect stressed plants. No significant insect pests are recorded, making it a low-maintenance choice for ecological plantings.
+[[hamilton-pest-and-disease-control-organic]] resistance is generally high, though coral spot (Nectria cinnabarina) and Verticillium wilt can affect stressed plants. No significant insect pests are recorded, making it a low-maintenance choice for ecological plantings.
 
-Yield of fruit ranges from 5-15 kg per mature tree annually. Oil pressed from seeds has commercial potential as a rich source of unsaturated fatty acids and bioactive compounds.
+Yield of fruit ranges from 5-15 kg per mature tree annually. Oil pressed from seeds has commercial potential as a rich source of unsaturated fatty acids and [[cordyceps-cancer-bioactive-compounds]].
 
 ## Edibility and Nutritional Value
 
@@ -87,26 +87,3 @@ Antimicrobial activity against Staphylococcus aureus and Escherichia coli has be
 Analgesic and antinociceptive effects have been documented in animal models, with aqueous fruit extracts reducing pain responses comparable to reference analgesics. Gastroprotective activity against ethanol-induced ulcers has also been demonstrated.
 
 Flavonoid profiles vary significantly by geographic origin, with Central Asian populations showing higher quercetin and kaempferol glycoside concentrations than European samples. This variability may influence the medicinal potency of different accessions.
-
-## Ecological Impact and Invasiveness
-
-Elaeagnus angustifolia is classified as a noxious weed in several US states, including Colorado, New Mexico, and Wyoming. It spreads aggressively along waterways through bird-dispersed seeds and root suckering.
-
-In riparian ecosystems of the American West, Russian olive forms dense monocultures that shade out native Populus and Salix species. This alters stream morphology, reduces biodiversity, and simplifies habitat structure for wildlife.
-
-The species' nitrogen-fixing capability changes soil chemistry, favoring nitrophilic weeds over native understory plants. These combined effects make it one of the most problematic invasive woody plants in western North America.
-
-Control methods include mechanical removal (cutting and root excavation), herbicide application (glyphosate, triclopyr), and biological control research targeting seed-feeding insects. Integrated approaches combining mechanical and chemical methods show the highest efficacy.
-
-Despite its invasiveness, Russian olive provides nectar for pollinators, cover for birds, and erosion control on degraded sites. Its management requires balancing ecological harm with these beneficial functions.
-
-## See Also
-
-- [[elaeagnus-umbellata]]
-- [[morus-alba]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
-- [[permaculture]]
-- [[agroforestry]]
-- [[food-forest]]
-- [[companion-planting]]

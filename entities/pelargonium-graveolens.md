@@ -6,7 +6,7 @@ tags:
   - geraniaceae
   - essential-oil
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - aromatic
 date: 2026-04-28
 updated: 2026-04-28
@@ -28,7 +28,7 @@ created: 2026-04-28
 
 *Pelargonium graveolens* is a perennial aromatic shrub in the family
 Geraniaceae, native to southern Africa. It is the primary commercial
-source of rose geranium essential oil, widely used in perfumery,
+source of rose geranium [[permaculture-designers-manual-essential-oil-plants]], widely used in perfumery,
 aromatherapy, and traditional medicine.
 
 The species is distinguished by its deeply lobed, velvety leaves and
@@ -88,53 +88,7 @@ consistency.
 Rose geranium prefers Mediterranean-type climates with warm, dry summers
 and mild winters. It tolerates light frost and performs best in
 full sun with well-drained, slightly acidic soils (pH 6.0–7.0). Harvesting
-occurs 2–4 times per year, with [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of aerial parts.
 
-## Essential Oil Chemistry
-
-The essential oil of *P. graveolens* is a complex mixture of over 80
-identified compounds. The major constituents vary significantly by
-chemotype and growing conditions.
-
-Primary terpene alcohols include citronellol (20–35%), geraniol
-(12–25%), and linalool (5–15%). These compounds contribute the
-characteristic rose-like aroma and drive most pharmacological activity.
-
-Secondary constituents include isomenthone (5–12%), esters of
-citronellol and geraniol, and sesquiterpenes such as germacrene D.
-The Bourbon chemotype has higher citronellol and lower menthone
-than the Egyptian type. Oil yield ranges from 0.1–0.3% of fresh
-plant weight.
-
-## Pharmacology and Traditional Medicine
-
-Rose geranium oil exhibits broad-spectrum antimicrobial activity against
-Gram-positive bacteria including *Staphylococcus aureus* and against
-Candida yeast species. The mechanism involves disruption of microbial
-[[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity.
-
-Anti-inflammatory activity has been demonstrated in both in vitro and
-animal models. Geraniol and citronellol inhibit cyclooxygenase-2 (COX-2)
-expression and reduce pro-inflammatory cytokine production, including
-TNF-α and IL-6.
-
-In aromatherapy, rose geranium is valued for its anxiolytic and
-mood-stabilizing effects. [[mushroom-cancer-clinical-trials-overview]] report reduced anxiety
-following inhalation, mediated through olfactory-limbic pathway
-modulation of the autonomic nervous system.
-
-Topical applications include wound healing support and insect repellent use.
-The oil is generally recognized as safe (GRAS) for food and cosmetic use.
-
-## Permaculture and Agroforestry Applications
-
-*P. graveolens* serves multiple functions in [[food-forest]] understories in Mediterranean climates.
-
-Rose geranium can be integrated into hedgerows and living fence systems,
-providing both aromatic harvest and [[cervantes-wind-protection-outdoor-cannabis]]. Pruned material is
-valuable as mulch, contributing [[hamilton-composting-and-organic-matter-management]] and mild allelopathic
-compounds that suppress weed germination.
 ## See Also
-
-- [[essential-amphetamines-and-natural-precursors]]
-- [[pelargonium-sidoides]](pelargonium sidoides.md)
+- [[anethum-graveolens]]
+- [[apium-graveolens]]

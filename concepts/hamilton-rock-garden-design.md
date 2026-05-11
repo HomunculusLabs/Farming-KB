@@ -1,5 +1,5 @@
 ---
-title: Rock comparison-mandala-garden-design-vs-keyhole-garden-design and Alpine Plants
+title: Hamilton Rock [[community-garden-design]]
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -89,12 +89,6 @@ Weeding can be time consuming among alpines, especially when the plants are very
 
 ### Protection
 
-In their natural habitat, alpines are covered with snow that protects them in the winter. Many, especially those with gray, woolly foliage, are not happy in the wet climate of lower areas. It is a good idea to cover susceptible plants with a small piece of glass supported by wire to keep the foliage dry. This creates a mini-cloche that repels excessive winter moisture.
-
-## Related
-
-- [[hamilton-perennial-flowers-organic]]
-- [[hamilton-wildflower-meadow]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-garden-planning-and-site-assessment]]
-- [[holzer-stone-fruit-varieties-and-growing]]
+## See Also
+- [[hamilton-cottage-garden-design]]
+- [[hamilton-herb-garden-design]]

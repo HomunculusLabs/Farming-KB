@@ -88,27 +88,3 @@ Vitamin content includes measurable amounts of vitamin A (as beta-carotene), vit
 They also contain significant amounts of pectin, which contributes to their characteristic gelatinous texture when consumed raw. This texture, combined with the popping mouthfeel of the vesicles, makes them popular in Japanese and Filipino cuisine.
 
 ## Cultivation and Harvest
-
-*Caulerpa racemosa* is cultivated commercially in Vietnam, the Philippines, Japan, and Okinawa for the edible sea grape market. Aquaculture typically uses land-based tanks with controlled seawater flow, temperature, and light.
-
-Growth rates in cultivation are rapid, with harvest cycles of 30–45 days under optimal conditions. Farmers propagate the alga vegetatively by cutting and replanting stolon fragments in new tanks or ponds.
-
-Yields can reach 10–20 kg per square meter per cycle in well-managed systems. The crop is typically sold fresh to restaurants and wet markets, with some processing into dried or pickled products.
-
-Market prices for fresh sea grapes range from $10–30 per kg depending on quality and origin. Premium products from controlled aquaculture systems command the highest prices in Japanese and Taiwanese markets.
-
-Water quality management is critical, as the alga accumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and pathogens from contaminated seawater. Certified organic operations use filtered and tested seawater to ensure product safety.
-
-Sustainable harvest from wild populations is practiced in parts of Southeast Asia and Oceania. However, the invasive status of var. *cylindracea* in the Mediterranean prohibits intentional cultivation or harvest of that variety in European waters.
-
-Eradication efforts in the Mediterranean have focused on manual removal, smothering with opaque covers, and chemical treatments. None of these methods have achieved complete eradication, and the species is now considered permanently established in most of its introduced range.
-
-## See Also
-
-- [[ulva-lactuca]]
-- [[sargassum-fusiforme]]
-- [[kappaphycus-alvarezii]]
-- [[porphyra-umbilicalis]]
-- [[fucus-vesiculosus]]
-- [[laminaria-digitata]]
-- [[saccharina-latissima]]

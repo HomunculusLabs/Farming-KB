@@ -88,20 +88,3 @@ Albert Hofmann noted the rapid development of tolerance in his earliest self-exp
 During the [[timothy-leary-harvard-psilocybin-experiments]] initially used frequent dosing schedules before adjusting to account for tolerance. The Harvard group's experience with tolerance contributed to the development of more systematic dosing protocols.
 
 ## Tolerance vs. Addiction
-
-### The Anti-Addiction Property
-
-Tolerance to psilocybin is actually one of the strongest arguments against its addictive potential:
-
-- Physical addiction requires the development of tolerance AND withdrawal symptoms
-- While psilocybin produces rapid tolerance, it does NOT produce withdrawal symptoms
-- The lack of withdrawal, combined with the rapid tolerance, makes daily use both unrewarding and unnecessary
-- This pharmacological profile is fundamentally different from that of addictive substances
-
-### The Self-Limiting Nature
-
-The rapid development of tolerance makes psilocybin essentially self-limiting:
-
-- Users cannot maintain the desired effects through frequent use
-- There is no pharmacological incentive to increase dose frequency
-- The compound naturally encourages spaced use

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -51,11 +52,11 @@ In design, branching patterns inform:
 - Road and path networks (main roads branch into smaller tracks)
 - Water distribution systems (mains branching to laterals to drippers)
 - Organizational structures (central administration branching to local units)
-- Plant root zone design for water and nutrient distribution
+- Plant root [[natural-farming-guide-zone-design-system]] for water [[savory-dung-behavior-and-nutrient-distribution]]
 
 ### Spiral Patterns
 
-Spirals appear in nautilus shells, sunflower seed heads, pinecones, weather
+Spirals appear in nautilus shells, [[oyster-mushroom-sunflower-seed-hull-substrate]] heads, pinecones, weather
 systems, galaxy arms, and the arrangement of leaves on stems (phyllotaxis).
 The spiral is nature's solution to [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] with maximum exposure and
 access.
@@ -69,73 +70,20 @@ Design applications include:
 ### Wave and Sine Patterns
 
 Waves appear in ocean surfaces, sound propagation, light, seasonal cycles,
-population dynamics, and market fluctuations. The wave pattern describes the
+[[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]], and market fluctuations. The wave pattern describes the
 movement of energy through a medium in a rhythmic, repeating cycle.
 
 Design applications include:
 - Contour cultivation following wave-like landform patterns
-- Seasonal planning using wave-like cycles of planting, growth, harvest,
+- [[seasonal-planning]] using wave-like cycles of planting, growth, harvest,
   and rest
 - Zoning as concentric waves of intensity from the center outward
 - Succession as waves of species replacing each other over time
 
 ### Net and Mesh Patterns
 
-Nets appear in spider webs, fungal mycelium, and social networks. They
+Nets appear in spider webs, [[fungal-mycelium-hyphae-and-the-feeding-phase]], and social networks. They
 provide maximum connectivity with minimum material -- every point connects
 through multiple paths, creating redundancy and resilience. Design
 applications include plant guilds, [[savory-community-organization-and-shared-grazing]], water
 distribution, and information networks.
-
-### Scatter and Distribution Patterns
-
-Scatter patterns describe how organisms distribute in space: random, uniform,
-clumped, or gradient. Design applications include scatter planting of tree
-crops (more natural, better [[cervantes-wind-protection-outdoor-cannabis]]), scatter housing for privacy and
-habitat, and distributions following mathematical optimization principles.
-
-### Edge Patterns
-
-The edge or boundary between two systems (forest and field, water and land,
-warm and cold) is where the greatest diversity and productivity occur.
-Mollison emphasizes that edge is the most valuable and productive part of any
-system. The principle "maximize edge" is one of the most frequently applied
-in permaculture design.
-
-Design applications include:
-- Pond edges (richer than open water or dry land) for [[food-forest-design]]
-- Keyline cultivation creating more edge between cultivated and uncultivated
-  soil
-- Zigzag and crenellated boundaries instead of straight lines to maximize
-  edge length
-
-### Centralization Patterns
-
-Centralization (also called the "bull's eye" or target pattern) appears in
-tree cross-sections, spider webs, city layouts, and social organization.
-Centralization places the most important or frequently-used element at the
-center with decreasing intensity outward.
-
-Design applications include:
-- Zone planning with the home at the center
-- Mandala gardens with the most intensive planting at center
-- Circular village layouts with common facilities at center
-- Radial access patterns minimizing travel from center to periphery
-
-### Fractal Patterns
-
-Fractals are self-similar patterns that repeat at different scales -- tree
-branches mirror the whole tree; river tributaries mirror the whole system.
-Mollison notes fractal patterns in design create systems that work at all
-scales, from backyard to region.
-
-## Pattern Application in Design
-
-Mollison describes a systematic approach: (1) identify the function needed,
-(2) find the natural pattern that performs it most efficiently, (3) adapt
-the pattern to site conditions and scale, (4) layer multiple patterns for
-compound solutions, and (5) test against permaculture principles. A critical
-insight is that patterns operate at all scales -- design solutions
-discovered at one scale apply at any other. This fractal quality means
-garden patterns inform regional planning and vice versa. See
-[[permaculture-principles]] for how pattern understanding connects to the

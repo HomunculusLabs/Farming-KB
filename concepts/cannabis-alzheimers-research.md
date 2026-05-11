@@ -41,9 +41,9 @@ No cure exists. Current treatments focus on:
 | Substance | Study Type | Key Finding | CHI |
 |-----------|-----------|-------------|-----|
 | THC | Laboratory study (2006, Madrid) | THC reduced amyloid-beta plaque deposition in brain tissue | 2 |
-| WIN55,212-2 (synthetic cannabinoid) | Laboratory study (2006, Madrid) | CB2 receptor activation reduced neuroinflammation | 2 |
+| WIN55,212-2 ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]) | Laboratory study (2006, Madrid) | CB2 receptor activation reduced neuroinflammation | 2 |
 | CBD | Laboratory study (various) | Anti-inflammatory and neuroprotective effects on brain cells | 2 |
-| **Total CHI Value** | | | **6** |
+| **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **6** |
 
 ### Key Research Findings
 
@@ -53,7 +53,7 @@ No cure exists. Current treatments focus on:
 
 3. **Neuroprotection:** Both THC and CBD demonstrated neuroprotective properties, potentially slowing the death of brain cells
 
-4. **Antioxidant effects:** CBD has well-documented antioxidant properties that may protect neurons from oxidative stress, a key factor in neurodegeneration
+4. **Antioxidant effects:** CBD has well-documented antioxidant properties that may protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], a key factor in neurodegeneration
 
 5. **Behavioral [[cannabis-cancer-symptom-management]]:** Anecdotal and clinical evidence suggests cannabis may help manage agitation, aggression, sleep disturbance, and appetite loss in Alzheimer's patients
 
@@ -68,7 +68,7 @@ The endocannabinoid system plays multiple roles relevant to Alzheimer's:
 
 ## Strain-Specific Considerations
 
-For Alzheimer's patients, the goals are neuroprotection and symptom management:
+For Alzheimer's patients, the goals are neuroprotection and [[cannabis-hiv-aids-symptom-management-blesching]]:
 
 - **CBD-dominant preparations:** Non-intoxicating; may be preferred for daytime use and for patients who cannot tolerate psychoactive effects
 - **Balanced THC:CBD:** May provide both neuroprotection and symptom relief with moderated psychoactivity
@@ -79,64 +79,12 @@ For Alzheimer's patients, the goals are neuroprotection and symptom management:
 - Use non-smoked [[cannabis-delivery-methods-comparison]] (tinctures, edibles, capsules)
 - Monitor for confusion, dizziness, or increased disorientation
 - Consult with neurologist and caregivers
-- Be aware of drug interactions with Alzheimer's medications
+- Be aware of [[ayahuasca-drug-interactions]] with Alzheimer's medications
 
 ## Mind-Body Medicine
 
 Research supports several non-pharmacological approaches for Alzheimer's:
 - **Cognitive stimulation:** Puzzles, reading, social interaction, learning new skills
 - **Physical exercise:** Reduces risk and slows progression; improves mood and sleep
-- **Diet:** Mediterranean diet, omega-3 fatty acids, antioxidants
+- **Diet:** Mediterranean diet, omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], antioxidants
 - **Social engagement:** Maintains cognitive function and emotional well-being
-- **Music therapy:** Reduces agitation and improves mood
-- **Art therapy:** Provides expression and engagement
-
-The relationship between emotional well-being and cognitive function is well-documented. Depression, loneliness, and chronic stress accelerate cognitive decline.
-
-## See Also
-
-- [[blesching-cannabis-alzheimers-dementia]] research
-- [[cannabis-for-neurological-conditions]]
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-health-index]]
-
-## Source
-
-[[uwe-blesching]], *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Alzheimer's section
-## Merged: Cannabis for Alzheimer's Disease
-
-# Cannabis for Alzheimer's Disease
-
-Alzheimer's disease (AD) is a chronic degenerative illness affecting the mind and brain, partially characterized by selective neuronal loss and cognitive deficits. Early symptoms include forgetfulness and decreased cognitive function, eventually progressing to loss of communication abilities and significant behavioral changes. AD is the main culprit for dementia and was the sixth leading cause of death in the United States as of 2007. The disease affects more women than men and typically begins between ages 50 and 60.
-
-## Evidence Base
-
-The Cannabis Health Index (CHI) rates the evidence for cannabis in Alzheimer's disease at a CHI value of 10, based on 4 studies reviewed. While clinical trials remain limited, preclinical research has produced compelling findings regarding the endocannabinoid system's role in AD pathology.
-
-## Endocannabinoid System and Alzheimer's Pathology
-
-Recent experiments suggest the endocannabinoid system plays a significant role in the development of Alzheimer's disease. A 2005 study from Madrid, Spain, discovered that cannabinoid receptors are important in the pathology of AD and that cannabinoids succeed in preventing the neurodegenerative process occurring in the disease.
-
-A subsequent Madrid experiment (2009) demonstrated that the CB2 agonist JWH-015 could induce the removal of native beta-amyloid from frozen human tissue. This is significant because beta-amyloid plaque accumulation is a leading hypothesis for AD causation.
-
-Scientists from Naples, Italy, conducted a meta-analysis (2008) suggesting that endocannabinoids likely produce a response that might counteract both the neurochemical and inflammatory consequences of beta-amyloid-induced tau protein hyperactivity. This may represent the most important underlying mechanism in Alzheimer's disease.
-
-## Behavioral Symptom Management
-
-A case study from British Columbia, Canada (2008), tested a patient with Alzheimer's-related behavioral symptoms including agitation and aggression who failed to respond to pharmaceuticals such as neurontin, trazodone, quetiapine, and olanzapine. The patient received 0.5 mg of Nabilone, which significantly reduced agitation levels. After doubling the dose, symptoms were further reduced without side effects.
-
-This finding is particularly relevant since behavioral disturbances in AD patients are among the most challenging aspects of care and often lead to institutionalization.
-
-## Proposed Mechanisms
-
-The anti-inflammatory properties of cannabinoids may address the neuroinflammation component of Alzheimer's disease. CBD in particular has demonstrated neuroprotective effects in preclinical models, including protection against glutamate toxicity and reduction of microglial activation, both of which are implicated in AD progression.
-
-The ability of certain cannabinoids to enhance the removal of beta-amyloid plaques through CB2 receptor activation represents a potentially disease-modifying approach rather than merely symptomatic treatment.
-
-## Strain and Cannabinoid Considerations
-
-Research on Alzheimer's has primarily focused on THC, CBD, and CB2-specific agonists like JWH-015. CB2 agonists have shown particular promise for beta-amyloid clearance without psychoactive effects.
-
-Indica or indica-dominant strains, which typically have a lower THC:CBD ratio, may favor CB2 expression and could be worth considering for elderly patients who are sensitive to psychoactive effects.
-
-## Safety Considerations

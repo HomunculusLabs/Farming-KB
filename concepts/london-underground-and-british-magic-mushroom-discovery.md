@@ -1,5 +1,5 @@
 ---
-title: "The London Underground and the london underground and british magic mushroom discovery psilocybin-mushroom-discovery-historical-periods"
+title: London Underground And British Magic Mushroom Discovery
 created: 2026-04-26
 tags:
   - british-counterculture
@@ -34,12 +34,12 @@ magazine. What is striking is that it took someone so long. Just as in
 America, LSD was being used illicitly from the early 1960s onwards, and
 with it came news of mushrooms, Siberian shamans, and the pilgrimage
 to Mexico. All the pieces of the puzzle were in place, and by rights,
-the Liberty Cap should have been discovered a decade earlier.
+the [[liberty-cap-british-discovery-1970s]] should have been discovered a decade earlier.
 
 In March 1961, Arthur Koestler published his essay "Trip to Nirvana"
-detailing his psilocybin experience with Timothy Leary in the Sunday
+detailing his psilocybin experience with [[timothy-leary]] in the Sunday
 Telegraph. A month later, a prime-time BBC television documentary,
-Eye on Research, devoted an entire programme to "The Sacred Mushrooms,"
+Eye on Research, devoted an entire programme to "The [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]],"
 featuring interviews with Wasson and Hofmann. The documentary showed
 pictures of [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], the species most similar in appearance
 to the Liberty Cap, sprouting from a Petri dish, yet nobody grasped
@@ -58,7 +58,7 @@ that most other people were as well.
 The tenacity with which the improbable fly-agaric clung to the
 psychedelic limelight is explicable given its lurid visual appearance,
 but remains surprising considering that scientists had known Liberty
-Caps to be hallucinogenic since 1963. Roger Heim and Albert Hofmann,
+Caps to be hallucinogenic since 1963. Roger Heim and [[albert-hofmann]],
 flushed with their Mexican discoveries, tested European species using
 chromatographic techniques. Only the Liberty Cap, Psilocybe
 semilanceata, turned up trumps.
@@ -78,7 +78,7 @@ British Mycological Society.
 
 ## Lynn Darnton and the Tribe of the Sacred Mushroom
 
-The earliest published account of British magic mushroom use appeared
+The earliest published account of British [[european-prevalence-and-patterns-of-magic-mushroom-use]] appeared
 in Oz magazine, written by Lynn Darnton, who seems to have been a
 young hippy immersed in the London underground. Documents show he
 spent much of 1967 living in North London with members of Exploding
@@ -88,39 +88,3 @@ and made news in 1968 by setting up what IT called "the first rural
 hippy eco-commune" in Suffolk.
 
 The group eked out a living making psychedelic posters and
-experimenting with macrobiotics. They were overtly spiritual, mixing
-Druids, pyramids and Atlantis into their heady bricolage. Darnton was
-their high priest, leading a series of psychedelic rituals designed to
-answer the portentous appearance of the comet Kohoutek by "raising
-vibrations." In scenes worthy of Henry Livings's play eh?, London's
-famous club Middle Earth only succeeded in attracting the police.
-
-## The Role of LSD Dominance
-
-In the underground, where status was measured in part by what drugs you
-took, mushrooms came a poor second to LSD. To be "experienced" in the
-Jimi Hendrix sense was to have dropped Acid. Cannabis served as a
-conspicuous marker of alterity, but only one other drug conferred
-membership of the underground's inner sanctum. This LSD dominance
-meant that mushrooms were largely ignored even by those most receptive
-to [[leary-psychedelic-experience-bardo-mapping]].
-
-Darnton's article was met largely with indifference, possibly because
-he focused on the fly-agaric, a drug never destined to catch on in
-Britain. Four years later, Richard Cooper published A Guide to British
-Psychoactive Mushrooms in 1974, offering rudimentary descriptions of
-biology and cultivation techniques. Its initial impact was muted. The
-Liberty Cap made an unimpressive debut: by 1978 its use was confined
-to small numbers of hippies, mainly in London and southeast England.
-
-## Related
-
-- falconer-london-ridge-mushroom-picking-and-market-grades Topics
-
-- [[psychedelic-mushroom-set-and-setting]] - broader counterculture context
-- mushroom-music-psychedelic-underground - music and underground
-  - culture
-- mushroom-cultivation-underground-history - [[cuthill-mushroom-cultivation-history-19th-century]]
-- [[psilocybin-mushrooms]]
-- [[psilocybe-mexicana]]
-- [[timothy-leary]]

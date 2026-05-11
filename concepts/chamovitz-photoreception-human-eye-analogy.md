@@ -9,8 +9,8 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 # Plant Photoreception and the Human Eye Analogy
 
-In "What a Plant Knows" (2012), Daniel Chamovitz develops a systematic
-analogy between human photoreception and plant light sensing to argue
+In "What a Plant Knows" (2012), [[daniel-chamovitz]] develops a systematic
+analogy between human photoreception and [[darwin-phototropism-experiments-plant-light-sensing]] to argue
 that plants possess a legitimate form of **vision** — not picture-
 forming imagination but a sophisticated capacity to detect, discriminate,
 and respond to light information that meets any reasonable definition
@@ -22,7 +22,7 @@ Chamovitz begins by explaining the mechanics of human vision. The human
 retina, a layer at the back of the eyeballs roughly the size of a
 passport photo, is covered with two types of photoreceptors:
 
-- **Rods** (~125 million): sensitive to all visible light, enable night
+- **Rods** (~125 million): sensitive to all [[electromagnetic-spectrum-visible-light-plant-perception]], enable night
   vision and low-light perception, but do not discriminate color
 - **Cones** (~6 million): respond to different colors of light; come in
   three varieties tuned to red, green, and blue wavelengths
@@ -35,7 +35,7 @@ molecular structures that enable them to absorb light of different
 wavelengths:
 
 - Rhodopsin absorbs [[chamovitz-julius-von-sachs-blue-light-phototropism]]
-- Blue photopsin absorbs blue light
+- Blue photopsin absorbs [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - Red photopsin absorbs [[phytochrome-red-far-red-light-switch]]
 - Green photopsin absorbs green light
 - Purple light is absorbed by rhodopsin, blue photopsin, and red
@@ -85,40 +85,6 @@ Plants use this information in remarkably specific ways:
 Chamovitz describes two distinct color-sensing systems in plants:
 
 1. **Blue light system** — used for [[phototropism]] (directional
-   growth toward light). Discovered by Julius von Sachs in 1864, who
+   growth toward light). Discovered by [[julius-von-sachs-blue-light-phototropism-discovery]] in 1864, who
    showed that blue light is the primary color inducing phototropism
    while plants are generally "blind" to other colors for this purpose.
-
-2. **Red/far-red system** — used for photoperiodism (measuring
-   night length to regulate flowering). Discovered through experiments
-   with the [[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco strain. Plants respond to red light
-   flashes during the night, but not to blue or green. Far-red light
-   cancels the red light effect.
-
-These two systems use different photoreceptors (cryptochrome for
-blue, phytochrome for red/far-red), detect different properties of
-light (direction vs. duration), and serve different biological functions
-(growth direction vs. reproductive timing).
-
-## The Merriam-Webster Test
-
-Chamovitz consults the dictionary definition of sight: "the physical
-sense by which light stimuli received by the eye are interpreted by the
-brain and constructed into a representation of the position, shape,
-brightness, and usually colour of objects in space."
-
-While plants lack eyes and brains, they possess proteins that "know how
-to receive [light] energy, to absorb it, in the same way that an antenna
-absorbs radio waves." The question is whether the physiological
-interpretation of light information — without neural processing —
-constitutes "sight." Chamovitz argues that it does, or at least that
-the plant version of photoreception is close enough to the human version
-to warrant the term.
-
-## See Also
-
-- [[human-vs-plant-photoreception-comparison]]
-
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]
-- [[cryptochrome-and-blue-light-photoreception]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]

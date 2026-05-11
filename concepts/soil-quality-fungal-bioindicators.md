@@ -88,13 +88,3 @@ DNA-based measures of fungal community diversity (Shannon index, species richnes
 Soil fungal bioindicators are most powerful when integrated with:
 
 - Soil organic matter content
-- Aggregate stability measurements
-- Nutrient analysis (N, P, K, pH)
-- Soil physical properties (bulk density, porosity, water-holding capacity)
-
-## See Also
-
-- [[fungal-ecosystem-indicator-species]]
-- [[microfungal-diversity-host-plant-relationship]]
-- [[fungal-species-richness-and-diversity-indices]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

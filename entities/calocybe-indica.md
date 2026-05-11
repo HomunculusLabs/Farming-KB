@@ -7,6 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
 # Calocybe indica
@@ -87,27 +88,3 @@ Calocybe indica is a nutritious food source with a favorable protein-to-carbohyd
 - **Total lipids:** 2–4 g
 - **Ash:** 6–9 g
 - **Energy:** 280–340 kcal
-
-Vitamin content includes appreciable amounts of thiamine (B1), riboflavin (B2), and niacin (B3). Fat-soluble vitamin D2 (ergocalciferol) is present at low levels and increases with UV exposure post-harvest.
-
-The protein contains all essential amino acids, with lysine and leucine present in relatively high proportions. Tryptophan and methionine are the limiting amino acids. Mineral content is notable for potassium, phosphorus, and calcium. [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including phenolics and β-glucans have been documented, suggesting potential antioxidant and immunomodulatory properties, though clinical data remain limited. Compared to [[volvariella-volvacea]] in the button stage.
-
-In cultivation settings, contaminants such as *Coprinus* spp. or other weed mushrooms may appear on poorly prepared substrate but are readily distinguished by their different growth habits and spore colors.
-
-## Relevance
-
-Calocybe indica occupies a significant niche in tropical [[accessible-mushroom-cultivation-for-disabilities]] as one of the few high-yield species adapted to consistently warm conditions. Its cultivation requires lower capital investment than [[lentinula-edodes]] because it needs no climate-controlled growing rooms in tropical zones. This makes it accessible to smallholder farmers and rural cooperatives across South and Southeast Asia.
-
-The species is increasingly recognized as a vehicle for rural women's empowerment in India, where self-help groups have adopted milky mushroom cultivation as a primary income-generating activity. Low substrate costs and minimal infrastructure requirements lower barriers to entry compared to most other commercially cultivated fungi.
-
-Global production figures are not separately tracked from other specialty mushrooms by FAO, but regional estimates place Indian milky mushroom output at several thousand tonnes annually, with Karnataka, Tamil Nadu, and Andhra Pradesh as the leading producing states. The species is also cultivated commercially in Thailand, Malaysia, and the Philippines, and pilot programs have been established in Nigeria and Kenya.
-
-The species has attracted research interest for its β-glucan content and potential nutraceutical applications. Preliminary in vitro studies have shown antimicrobial activity against select gram-positive bacteria, though in vivo data are lacking.
-
-Medicinal mushroom research has also examined its spent substrate as a biofertilizer and animal feed supplement. Enzyme profiles (cellulase, laccase, xylanase) produced during substrate degradation have potential applications in bioremediation and industrial processing. In India, government agricultural extension programs actively promote milky mushroom cultivation as a livelihood diversification strategy, and the species is among the top three cultivated mushrooms by volume in several southern Indian states.
-
-## See Also
-
-- [[pleurotus-eryngii]] — King oyster mushroom, temperate cultivation comparison
-- [[agaricus-subrufescens]] — Almond mushroom, temperate button mushroom relative
-- [[ganoderma-lucidum]] — Reishi, medicinal mushroom research context

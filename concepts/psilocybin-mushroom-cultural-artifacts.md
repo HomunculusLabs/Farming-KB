@@ -88,30 +88,3 @@ human history of mushroom-inspired art.
 ### The Batik Tradition
 
 Batik is a traditional Indonesian textile art using wax-resistant
-dyeing techniques. Hot wax is applied to specific areas to resist dye,
-then the fabric is dyed. Multiple layers create complex, multicolored
-designs. The mushroom batik from Bali fuses this ancient art form with
-mycological subject matter. John W.
-Allen's documentation of these batik works during his travels in
-[[psilocybe-southeast-asia-pacific]] highlights the intersection of mycological interest
-and local artistic traditions.
-
-### Cultural Bridges
-
-The Balinese mushroom batik works serve as a modern bridge between
-traditional Southeast Asian artistry and the global interest in
-psychoactive mushrooms. Bali has its own rich tradition of
-psychoactive plant use, and the creation of mushroom-themed batik
-art reflects an ongoing cultural engagement with these organisms
-that parallels the ancient traditions documented in the
-archaeological artifacts from Mexico and West Africa.
-
-## Significance of the Collection
-
-Together, these artifacts span roughly three millennia of human
-engagement with psychoactive mushrooms. From the ancient mushroom
-stones of Mesoamerica to the terra cotta figurines of early Mexico,
-from West African sculptural traditions to contemporary Balinese
-## See Also
-
-- [[asian-psilocybin-mushroom-guide]]

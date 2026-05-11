@@ -87,25 +87,3 @@ The species is also valued for biomass energy production due to its rapid growth
 ## Cultivation
 
 Paper birch is widely planted as an ornamental tree for its striking white bark and golden autumn foliage. It is most effective in group plantings or as a specimen tree against dark backgrounds.
-
-The species performs best in full sun with consistent moisture. It is relatively intolerant of drought, heat, and urban pollution compared to river birch (B. nigra) and other more adaptable species.
-
-Establishment is straightforward from container-grown or bareroot stock. Young trees establish rapidly and can achieve 60–90 cm of height growth per year under favorable conditions.
-
-Pruning should be minimal and performed during dormancy. Wounds are slow to close and provide entry points for fungal decay and bronze birch borer infestation.
-
-In landscaping, the species has declined in popularity in urban areas due to its susceptibility to bronze birch borer and heat stress. Betula nigra (river birch) and hybrids such as 'Heritage' are increasingly recommended as alternatives for warmer climates.
-
-Several cultivars are commercially available, including 'Renaissance Reflection' with improved borer resistance and 'Snowy' with exceptionally white bark. These selections aim to combine the ornamental appeal of paper birch with greater adaptability to urban conditions.
-
-## See Also
-
-- [[populus-tremuloides]]
-- [[picea-abies]]
-- [[larix-decidua]]
-- [[ulmus-americana]]
-- [[quercus-rubra]]
-- [[pseudotsuga-menziesii]]
-- [[fagus-grandifolia]]
-- [[abies-grandis]]
-- [[taxus-baccata]]

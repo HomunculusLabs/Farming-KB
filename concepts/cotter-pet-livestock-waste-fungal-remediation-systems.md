@@ -1,5 +1,5 @@
 ---
-title: "cotter pet livestock waste fungal remediation systems Systems for Pet and Livestock Waste"
+title: Cotter Pet Livestock Waste Fungal Remediation Systems
 created: 2026-04-28
 tags:
   - mycoremediation
@@ -27,13 +27,13 @@ amendments for garden use.
 Mycoremediation addresses microbial contaminants through several mechanisms:
 inactivation by disrupting pathogen replication, erosion of cell membranes,
 enforcement of species exclusion, and alteration of chemical gradients such as
-pH and [[ph-and-nutrient-availability-garden-soils]]. Fungi secrete extracellular enzymes that begin
+pH and [[ph-and-nutrient-availability-garden-soils]]. Fungi secrete [[fungal-extracellular-enzymes]] that begin
 metabolic work ahead of the advancing mycelium, digesting material before
 direct contact. This is especially useful against fecal coliforms in water,
 soil, manures, and failing septic systems.
 
 Unlike bacteria, which must come into intimate contact with a compound to
-degrade it, fungal enzymes work cell-free in the environment. While fungi
+degrade it, [[fungal-enzymes-in-decomposition]] work cell-free in the environment. While fungi
 break down complex compounds, metabolites they do not digest are utilized by
 associated bacteria in a species-sequence approach, recycling elements back
 into a self-perpetuating food chain.
@@ -49,7 +49,7 @@ erosion and improve water-holding capacity of the soil.
 
 ## Cat Waste Remediation
 
-With an estimated 86.4 million domestic cats in the United States, cat litter
+With an estimated 86.4 million domestic cats in the [[dmt-containing-plants-united-states-halpern]], cat litter
 represents a significant waste stream. The best litter substrates for fungal
 remediation are those made from wheat gluten or finely powdered corncob
 debris, since wheat and corn clump and are easier to scoop.
@@ -57,7 +57,7 @@ debris, since wheat and corn clump and are easier to scoop.
 The most effective mushroom species for remediating feline feces are king
 stropharia (pleurotus-species-guide
 spp.). Pine-based litters are generally incompatible with most cultivated
-fungi, though newer isolates of Neolentinus Lepideus suitable for pine are
+fungi, though newer isolates of [[neolentinus-lepideus]] suitable for pine are
 under development.
 
 ### Cat Litter Processing Method
@@ -68,7 +68,7 @@ threads through the substrate, decomposing and deodorizing waste within
 approximately twelve weeks. After fungal colonization, run the myceliated
 litter through a vermicomposting cycle before mixing into garden compost.
 
-Spent [[gourmet-medicinal-mushroom-substrate-preparation]] from primary decomposers like oyster mushrooms also
+Spent [[gourmet-medicinal-mushroom-substrate-preparation]] from primary decomposers like [[cultivation-of-oyster-mushrooms]] also
 works as litter. Dry and shred it for fluffy bedding, alone or mixed with
 existing litter. When changing litter, place it outdoors in a well-ventilated
 spot to reduce ammonia, then rehydrate with warm water to revive the mycelium.
@@ -88,58 +88,3 @@ Occasionally tamp the mixture by lifting and dropping the bucket from a few
 inches high to increase density and mycelial contact points.
 
 After adding materials, allow several weeks for full colonization. The
-finished block smells sweet rather than putrid. Start a second bucket while the
-first finishes. Remove the mycelium cake by inverting the bucket and tapping
-its sides, then place the biomass in a worm composting bin in a shady
-location for decomposition into rich topsoil and worm castings.
-
-## City Chicken Coop and Run Systems
-
-Urban chickens present specific challenges: odor control and coliform bacteria
-from poultry droppings. King stropharia mycelium provides an elegant solution
-with its naturally sweet smell and ability to consume excess nitrates and
-phosphates in poultry waste. Living fungal filters typically last about one
-year before becoming a rich garden amendment.
-
-### Materials Needed
-
-- Hardwood chips harvested within the past four weeks, no conifer mixed in
-- Poultry wire to separate base layer from scratchable upper layer
-- King stropharia sawdust spawn (5 pounds covers about 1 cubic yard)
-- Garden tools: wheelbarrow, shovel, rake, hoe
-
-### Installation Process
-
-Calculate the volume needed: measure the coop area plus one extra foot on each
-side, multiply by 8 inches depth, then convert to cubic yards. Transfer birds
-to another area. Rake out the coop and lay a 1-inch layer of wood chips.
-
-Break up the sawdust spawn bag well and sprinkle spawn over the chip surface,
-raking gently. Repeat until inoculated chips reach 2 inches less than the
-desired total depth. Install poultry wire over the entire surface, which keeps
-chickens scratching only about 2 inches deep without destroying the mycelial
-biomass below.
-
-Add another 4 to 6 inches of uninoculated chips on top of the wire. This gives
-chickens comfortable footing while protecting the fungal filter beneath. The
-mycelium colonizes the lower layer and remediates waste as it filters down
-through the wire.
-
-### Benefits of the Fungal Coop System
-
-- Complete elimination of foul odors
-- Reduction of coliform bacteria in runoff
-- Consumption of excess nitrates and phosphates
-- Attraction of earthworms that further enrich the soil
-- Production of rich worm castings as annual garden amendment
-- Natural pest suppression through microbial competition
-
-## Related Concepts
-
-- [[staycare-bioavailability-pollutants-fungal-bioremediation]] for pollutant
-  bioavailability principles
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] for
-  [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] fundamentals
-- [[decomposition]]
-- [[vermicomposting]]
-- [[oyster-mushroom]]

@@ -63,13 +63,13 @@ reliable identification.
   though a faint cortina may be present in young specimens
 - **Flesh:** White, firm, thick; odor mild and pleasant, sometimes
   faintly mealy or farinaceous; taste mild, slightly nutty
-- **Spore print:** White to pale cream; spores ellipsoid, smooth,
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** White to pale cream; spores ellipsoid, smooth,
   7–9 × 4.5–5.5 μm, amyloid; cheilocystidia variable, often
   clavate or ventricose with a narrow neck
 
 ## Distribution and Habitat
 
-*Melanoleuca cognata* is widely distributed across temperate regions of
+*Melanoleuca cognata* is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
 Europe and [[psilocybin-north-america-pacific-northwest]], with scattered reports from Asia. It typically
 fruits from April through July, making it one of the earlier agarics
 to appear in the season. The species grows on soil in a variety of
@@ -88,33 +88,3 @@ for novice foragers because of the inherent difficulty of species-level
 identification within *Melanoleuca*. Several *Melanoleuca* species are
 poisonous or of unknown edibility, and the genus lacks reliable
 macroscopic features for safe field separation. Those who do collect it
-typically prepare it by sautéing or adding to mixed mushroom dishes.
-No significant [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been documented from this
-species.
-
-## Ecological Role
-
-As a saprotrophic basidiomycete, *M. cognata* decomposes organic
-matter in soil. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and
-grassland ecosystems by breaking down leaf litter and other plant
-debris. The species is a component of the [[decomposer-fungi-succession| decomposer fungi succession]] in temperate woodlands. Its spring
-[[macrofungal-fruiting-phenology-climate-variability]] positions it as an early-season decomposer,
-complementing the autumn-dominated fruiting patterns of many other
-agarics. It is occasionally found fruiting alongside [[tricholoma-terreum| Tricholoma terreum]] and [[clitocybe-gibba|Clitocybe gibba]] in
-mixed woodland floors.
-
-The mycelium of *M. cognata* forms extensive networks in humus-rich
-soil layers, interacting with soil microfauna and contributing to
-soil aggregation. Its presence is often an indicator of well-decomposed
-organic matter and relatively undisturbed forest floor conditions.
-
-## See Also
-
-- [[tricholoma-terreum]]
-- [[tricholoma-portentosum]]
-- [[clitocybe-nebularis]]
-- [[clitocybe-nuda]]
-- [[lyophyllum-decastes]]
-- [[collybia-butyracea]]
-- [[marasmius-oreades]]
-- [[agaricus-campestris]]

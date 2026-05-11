@@ -24,7 +24,7 @@ Asia, widely cultivated for its attractive variegated foliage and prolonged
 flowering season.
 
 The common name "dead-nettle" refers to the resemblance of its leaves to those
-of stinging nettles (*Urtica dioica*), combined with the absence of stinging
+of stinging nettles (*[[urtica-dioica]]*), combined with the absence of stinging
 hairs. The species epithet *maculatum* refers to the characteristic silver
 markings on the leaves.
 
@@ -79,7 +79,7 @@ division, and seed, though cultivars must be vegetatively propagated to
 maintain variegation patterns.
 
 The plant performs best in partial to full shade with consistently moist soil.
-It is hardy to USDA zone 3, making it suitable for cold climates. Full sun is
+It is hardy to USDA zone 3, making it suitable [[query-best-kiwifruit-varieties-for-cold-climates]]. Full sun is
 tolerated in cooler regions but may cause leaf scorch in hotter areas.
 
 Popular cultivars include 'Beacon Silver' (silver leaves with pink flowers),
@@ -88,47 +88,3 @@ and 'Purple Dragon' (large purple flowers with silver foliage).
 
 Regular trimming after the first flush of flowers encourages reblooming and
 maintains a compact habit. The plant can become invasive in favorable
-conditions, spreading aggressively by creeping stems.
-
-## Traditional Uses
-
-Spotted dead-nettle has a modest history in European folk medicine. The aerial
-parts were traditionally used as an astringent and anti-inflammatory agent.
-
-In European herbal traditions, poultices of the leaves were applied to minor
-wounds, cuts, and insect bites. The mild astringent properties were believed
-to promote healing and reduce swelling.
-
-Young leaves are edible and have been consumed as a pot herb, either raw in
-salads or cooked as a potherb. The flavor is mild and slightly sweet, similar
-to other mild Lamiaceae greens.
-
-The flowers are also edible and are sometimes used as a garnish. The plant has
-not been extensively studied for its phytochemistry or pharmacological
-properties.
-
-## Ecological Role
-
-Spotted dead-nettle provides important nectar and pollen resources for bees
-and other pollinators. Its exceptionally long flowering season makes it one of
-the most reliable garden plants for supporting pollinators from spring through
-autumn.
-
-Bumblebees (*Bombus* spp.) are frequent visitors, using the lower lip as a
-landing platform. Honeybees, solitary bees, and various fly species also
-forage on the flowers.
-
-As a dense ground cover, spotted dead-nettle suppresses weed growth and helps
-conserve soil moisture. However, its aggressive spreading habit can make it
-a problematic invader of natural areas outside its native range.
-
-The plant is generally avoided by mammalian herbivores due to the slightly
-hairy foliage, which provides a protective benefit in garden settings.
-
-## See Also
-
-- [[lamium-purpureum]]
-- [[stachys-officinalis]]
-- [[salvia-officinalis]]
-- [[prunella-vulgaris]]
-- [[nepeta-cataria]]

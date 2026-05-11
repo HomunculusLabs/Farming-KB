@@ -1,5 +1,5 @@
 ---
-title: "schultes ololiuqui and morning glory Glory Seeds"
+title: Schultes Ololiuqui And Morning Glory
 created: 2026-04-28
 tags:
   - ololiuqui
@@ -52,7 +52,7 @@ has always been difficult. The plant has been assigned to the genera
 *Convolvulus*, *Ipomoea*, *Legendrea*, *Rivea*, and *Turbina*. Most
 chemical and ethnobotanical studies were reported under the name *Rivea
 corymbosa*, but recent critical evaluation indicates the most
-appropriate binomial is *Turbina corymbosa*. It is a large woody vine
+appropriate binomial is *[[turbina-corymbosa]]*. It is a large woody vine
 with round, brown seeds.
 
 *Turbina corymbosa* is the original Ololiuqui of the Aztecs. In
@@ -67,7 +67,7 @@ has unpleasant aftereffects.
 
 ## Ipomoea violacea
 
-Another Morning Glory, *Ipomoea violacea*, was valued as a sacred
+Another Morning Glory, *[[ipomoea-violacea]]*, was valued as a sacred
 hallucinogen among the Aztecs, who called the seeds Tlitliltzin, from
 the Nahuatl term for "black" with a reverential suffix. The seeds are
 elongate, angular, and black, whereas those of *Turbina corymbosa* are
@@ -87,45 +87,3 @@ known locally as Piule, although each tribe has its own name. Used in
 divination and witchcraft, Ololiuqui is taken at night and, in contrast
 to Peyote and the mushrooms, is administered to a single individual
 alone in a quiet, secluded place.
-
-The use of the hallucinogenic [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], so significant in the
-life of pre-Hispanic Mexico, hid in the hinterlands until the present
-century. As with the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], the seeds "still serve the
-natives as an ever present help in time of trouble."
-
-## Chemistry: Lysergic Acid Amides
-
-The chemical investigation of Ololiuqui by [[ethnomycology-cultural-significance-sacred-fungi]]. Lysergic acid alkaloids are the
-hallucinogenic compounds of Ololiuqui. They are indole alkaloids also
-isolated from Ergot. Lysergic acid amide (also known as ergine) and
-lysergic acid hydroxyethylamide are the main components of the alkaloid
-mixture. The tryptamine radical in the ring structure of lysergic acid
-establishes its relationship with these ergoline alkaloids as well as
-with the active principles of *Psilocybe* and the brain hormone
-serotonin.
-
-LSD (lysergic [[lsd-lysergic-acid-diethylamide-experience-guide]]), a semi-synthetic compound, is the
-most potent hallucinogen known. It differs from lysergic acid amide
-only by replacement of two hydrogen atoms for two ethyl groups. The
-active principle of Ololiuqui (hallucinogenic dose 2-5 mg), however,
-is about 100 times less potent than LSD (hallucinogenic dose 0.05 mg).
-
-## Misidentification and Rediscovery
-
-In 1916, an American botanist erroneously suspected that Ololiuqui was
-a species of *Datura*, reasoning that no psychoactive principle was
-known from the Morning Glory family. This misidentification was widely
-accepted. Only in 1939 was identifiable material of *Turbina
-corymbosa* collected among the Chinantec and Zapotec of Oaxaca, where
-it was cultivated for hallucinogenic use. An ancient Indian Mother
-Goddess mural from Teotihuacan (circa AD 500) depicts a highly stylized
-vine of Ololiuqui with hallucinogenic nectar flowing from its blossoms
-and "disembodied eyes," stylistic features associated with hallucinogenic
-intoxication.
-
-## See Also
-
-- [[hofmann-lsd-pharmacology-serotonin-brain]] -- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of lysergic acid amides
-- [[schultes-peyote-tracks-little-deer]] -- Other major Mesoamerican hallucinogen
-- [[entheogen-tetrapteris-methystica-alternative-caapi]] -- Plants in sacred ceremonial contexts
-- [[hofmann-ololiuqui-morning-glory-investigation]]

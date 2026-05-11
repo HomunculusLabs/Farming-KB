@@ -1,9 +1,9 @@
 ---
 title: Glossolalia and Translinguistic Objects
 created: 2026-05-09
-source: raw/papers/mckenna_t-tryptamines_consciousness.md
+source: mckenna_t-tryptamines_consciousness.md
 tags: [glossolalia, dmt, language, psychedelics, mcKenna, logos]
-aliases: [speaking in tongues, DMT language, [[mckenna-dmt-hyperspace-translinguistic-matter]]]
+aliases: [speaking in tongues, DMT language, [[mckenna-dmt-hyperspace-translinguistic-matter]]
 ---
 
 # Glossolalia and Translinguistic Objects
@@ -88,46 +88,3 @@ McKenna proposed DMT accesses a deeper layer of linguistic processing — an
 "assembly language" underlying conscious language production. This parallels:
 
 - **Chomsky's universal grammar**: Innate linguistic structures shared by all
-  humans
-- **Computational metaphor**: Low-level code beneath high-level programming
-- **Jung's collective unconscious**: Shared symbolic structures beneath
-  individual consciousness
-- **Vedic *Vak* and *Shabda Brahman***: Primordial sound/speech as ground of
-  creation
-
-Ordinary language is a filtered, compressed output of a richer underlying
-process that DMT temporarily makes accessible.
-
-## Guidance for Navigation
-
-McKenna offered practical guidance for translinguistic encounters:
-
-1. **Control wonder**: Don't let astonishment overwhelm comprehension
-2. **Engage actively**: Enter the dialogue rather than passively observe
-3. **Use voice**: Experimenting with vocalization produces unanticipated
-   phenomena
-4. **Maintain critical faculty**: Approach with discernment, not worship
-5. **Don't flee**: Fear is part of authentic engagement; avoidance means
-   missing essential content
-
-## Current Research Perspectives
-
-Modern neuroscience offers partial explanations:
-
-- **5-HT2A activation** in language cortex may disrupt normal processing while
-  activating lower-level pattern-generating circuits
-- **[[default-mode-network-and-ego-dissolution]] network suppression** may release constraints on language
-  production, allowing novel vocal patterns
-- **Global connectivity increases** (fMRI during DMT) integrate normally
-  segregated brain regions, creating novel associations that feel like
-  encountering a new language
-
-However, neurobiological reductionism does not fully account for the
-consistency, complexity, and communicative quality reported across thousands
-of independent experiences.
-
-## See Also
-
-- [[dmt-phenomenology]]
-- [[tryptamine-hallucinogens]]
-- [[machine-elf-entities]]

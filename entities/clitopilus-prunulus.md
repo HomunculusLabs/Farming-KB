@@ -28,7 +28,7 @@ sources:
 
 ## Overview
 
-*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and [[psilocybin-north-america-pacific-northwest]], fruiting on the ground in mixed woodlands, grassy clearings, and along forest edges from midsummer through autumn. The species is edible and highly regarded for its mild, pleasant flavor resembling fresh meal or bread dough, but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
+*Clitopilus prunulus*, commonly known as the miller mushroom or sweetbread mushroom, is a gilled basidiomycete fungus in the family Clitopilaceae. It is widely distributed across Europe and [[psilocybin-north-america-pacific-northwest]], fruiting on the ground in mixed woodlands, grassy clearings, and along forest edges from midsummer through autumn. The species is edible and highly regarded for its mild, pleasant flavor resembling fresh meal or [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], but it is notorious among foragers for its dangerous resemblance to several toxic *Clitocybe* species that contain lethal levels of muscarine.
 
 ## Taxonomy
 
@@ -52,11 +52,11 @@ Basidiomycota → Agaricomycetes → Agaricales → **Clitopilaceae → *Clitopi
 - **Geographic range:** Widespread across temperate Europe (especially common in Britain, France, Germany, and Scandinavia) and [[polypore-fungi-eastern-north-america]] America; also reported from parts of Asia and Australia
 - **Habitat:** Terrestrial, growing singly or in scattered groups on soil in deciduous and mixed woodlands, forest edges, old pastures, and grassy clearings; often associated with oak, beech, and hornbeam
 - **Season:** Late summer to late autumn (July–November in the Northern Hemisphere); fruiting triggered by cool, damp conditions
-- **Ecological role:** Saprotrophic, decomposing leaf litter and organic matter in soil; may have a weak ectomycorrhizal association with some hardwoods
+- **Ecological role:** Saprotrophic, decomposing leaf litter [[hamilton-composting-and-organic-matter-management]] in soil; may have a weak ectomycorrhizal association with some hardwoods
 
 ## Edibility and Culinary Use
 
-- *C. prunulus* is considered an excellent edible mushroom with a mild, nutty, farinaceous flavor
+- *C. prunulus* is considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a mild, nutty, farinaceous flavor
 - Best collected when young and firm; older specimens become soft and may develop an off-flavor
 - Suitable for sautéing, drying, and adding to soups and cream sauces
 - The flour-like aroma persists through cooking and is considered a desirable quality
@@ -67,8 +67,8 @@ Basidiomycota → Agaricomycetes → Agaricales → **Clitopilaceae → *Clitopi
 
 The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* species:
 
-- ***Clitocybe dealbata*** (ivory funnel) and ***C. rivulosa*** (fool's funnel): White to pale grey caps, decurrent gills that remain white (never turn pink), white spore print; contain muscarine at dangerous concentrations causing sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure and death
-- ***Clitocybe nebularis*** (clouded agaric): Larger, stockier mushroom with a grey clouded cap and white gills; mildly toxic causing gastrointestinal distress
+- ***[[clitocybe-dealbata]]*** (ivory funnel) and ***C. rivulosa*** (fool's funnel): White to pale grey caps, decurrent gills that remain white (never turn pink), white spore print; contain muscarine at dangerous concentrations causing sweating, salivation, lacrimation, blurred vision, abdominal cramps, and in severe cases respiratory failure and death
+- ***[[clitocybe-nebularis]]*** (clouded agaric): Larger, stockier mushroom with a grey clouded cap and white gills; mildly toxic causing gastrointestinal distress
 - ***Entoloma* species:** Pink gills at maturity can resemble *C. prunulus*, but *Entoloma* spores are angular (not ridged) and many species are toxic
 
 **Critical identification rule:** Always verify the spore print color. *C. prunulus* produces a salmon-pink spore print; toxic *Clitocybe* species produce a white spore print. If the spore print is not confirmed white, discard the specimen.
@@ -81,38 +81,10 @@ The greatest risk in foraging *C. prunulus* is confusion with toxic *Clitocybe* 
 4. Spore print salmon-pink (not white)
 5. Spores elliptical with longitudinal ridges under microscopy
 6. Flesh white, firm, mealy-smelling
-7. No ring, no volva, no partial veil remnants
+7. No ring, no volva, no [[partial-veil-tropism-protection-before-spore-release]] remnants
 8. Found on soil in woodlands or grassy areas, not on wood
 9. Flesh does not change color significantly when cut or bruised (distinguishes it from some toxic species that discolor)
 
 ## Cultivation
 
 - *C. prunulus* is not commercially cultivated due to its slow growth and the difficulty of reliably simulating its natural woodland conditions
-- No established cultivation protocols exist; the species has not been successfully grown at commercial scale
-- Some amateur mycologists report limited success with enriched compost substrates in outdoor beds, but yields are inconsistent and not commercially viable
-- The species appears to benefit from mycorrhizal associations with mature hardwood trees, which are difficult to replicate in [[fukuoka-matsutake-artificial-cultivation-attempt]] systems
-- Fruiting in the wild is strongly influenced by seasonal rainfall patterns and soil temperature, suggesting specific environmental triggers that are not fully understood
-
-## Chemical Constituents
-
-- The characteristic farinaceous odor is attributed to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including oct-1-en-3-ol and related C8 alcohols/aldehydes
-- Contains small amounts of proteins, carbohydrates, and minerals typical of edible agarics
-- No significant bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] have been isolated; the species is valued primarily as a food source rather than for medicinal properties
-- Nutritional analysis shows moderate levels of potassium, phosphorus, and B vitamins; low fat content and moderate protein (approximately 15–20% dry weight)
-
-## Cultural and Historical Notes
-
-- The common name "miller" has been used in English-speaking countries for centuries, referencing the flour-like smell that would have been familiar in communities with local grain mills
-- The mushroom has a long history of collection in rural Europe, particularly in France, Germany, and Eastern Europe where it is considered a choice edible
-- In some regions of France, it is known as *le clitopile pruneau* and is sold in local markets during the autumn foraging season
-- The species was one of the earliest gilled mushrooms described in European mycological literature, originally classified by Scopoli in 1772
-- In Italy it is called *fungo mugnaio* (miller's mushroom) and is traditionally paired with polenta or served in risotto
-- Eastern European foraging traditions hold *C. prunulus* in high regard, often ranking it alongside porcini and chanterelles in regional preference lists
-- In modern mycophagy, the species is considered a reliable but underappreciated edible; its reputation suffers from the fear of confusion with toxic clitocybes rather than from any quality deficiency of its own
-- The farinaceous aroma is persistent even after thorough cooking, making it one of the few mushrooms whose scent survives heat processing intact
-
-## See Also
-
-- [[psilocybe-cubensis]] — cultivated [[archaeology-of-psychedelic-mushroom-use]] for spore print comparison
-- [[coprinus-comatus]] — another edible woodland mushroom with distinctive identification features
-- [[russula-cyanoxantha]] — edible russula with mild flavor, shares woodland habitat

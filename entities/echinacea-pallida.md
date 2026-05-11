@@ -88,28 +88,3 @@ Polysaccharides from Echinacea roots have demonstrated immunostimulatory activit
 [[permaculture-designers-manual-essential-oil-plants]] from the roots and aerial parts has been characterized by gas chromatography, revealing germacrene D, caryophyllene, and borneol as major constituents.
 
 The alkylamide content of cultivated roots varies considerably depending on harvest time, geographic origin, and post-harvest processing methods. Roots harvested in autumn generally show higher alkylamide concentrations than spring-harvested material.
-
-## Ethnobotanical and Modern Use
-
-The Plains tribes, including the Lakota, Omaha, and Ponca, used Echinacea pallida extensively as a medicinal plant. The roots were chewed or prepared as decoctions for toothache, sore throat, snakebite, and various internal ailments.
-
-The Omaha used the fresh root topically as an analgesic, while the Lakota applied a root poultice to burns and wounds. The smoke from the burning plant was inhaled for headache relief.
-
-The roots were also used in sweat lodge ceremonies by some Plains tribes, where the aromatic steam was believed to have purifying properties.
-
-European settlers adopted Echinacea as a medicinal herb in the late 19th century, and it became one of the most popular patent medicine ingredients in the United States before the rise of antibiotics. Eclectic physicians of the era recommended it for infections, snakebite, and "blood purification."
-
-In modern herbal medicine, E. pallida root preparations are used primarily for immune support, typically as tinctures, capsules, or teas. The German Commission E and the European Medicines Agency have issued positive monographs for Echinacea preparations for the common cold.
-
-The species is collected from the wild for the herbal trade, raising conservation concerns. Sustainable cultivation is increasingly promoted as an alternative to wild harvesting, and organic certification programs for Echinacea root production have been established in several states.
-
-The species is included in restoration seed mixes for tallgrass prairie reconstruction in the midwestern United States, where it provides both ecological function and cultural resonance.
-
-## See Also
-
-- [[echinacea-angustifolia]]
-- [[rudbeckia-laciniata]]
-- [[achillea-millefolium]]
-- [[inula-helenium]]
-- [[coreopsis-lanceolata]]
-- [[monarda-didyma]]

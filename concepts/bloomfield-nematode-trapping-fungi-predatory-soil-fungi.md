@@ -2,11 +2,11 @@
 title: Nematode-Trapping Fungi and Predatory Soil Fungi
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - predatory-fungi
   - nematodes
   - soil-ecology
-  - fungal-ecology
+  - [[fungal-ecology]]
   - basidiomycetes
 date: 2026-04-28
 updated: 2026-04-28
@@ -44,7 +44,7 @@ trapping and killing nematode worms.
 The simplest nemode-trapping system involves short hyphal branches that
 exude a powerful adhesive. Passing worms become cemented to the tips of
 these snares, and in their attempts to escape become stuck on adjacent
-branches. Sometimes the branches detach from the mycelium, but the
+branches. Sometimes the branches detach from the [[mycelium]], but the
 animal's fate remains the same. Within hours the fungus penetrates the
 nematode's skin, called the cuticle, and dissolves the internal tissues.
 The worm is consumed from the outside in, its contents absorbed by the
@@ -54,7 +54,7 @@ This adhesive strategy is remarkably effective given its simplicity.
 The glue-like substance exuded by the hyphal branches is strong enough
 to hold a struggling worm, and the adhesive properties persist even in
 moist soil conditions where many adhesives would fail. Once the worm is
-immobilized, specialized infection structures form and penetrate the
+immobilized, specialized [[fungal-appressorium-and-infection-structures]] form and penetrate the
 cuticle, releasing digestive enzymes into the nematode's body cavity.
 
 ## Constricting Rings: Explosive Carnivory
@@ -66,7 +66,7 @@ chemical attractants, described as [[bloomfield-siren-songs-fungal-chemical-comm
 secretes into the surrounding soil. As the animal glides through an
 opening in the ring, the trap inflates and grips the animal with a
 pressure of up to 18 atmospheres. This is one of the fastest movements
-in the fungal kingdom, occurring in milliseconds.
+in the [[fungal-kingdom-diversity]], occurring in milliseconds.
 
 The constricting ring is a marvel of biomechanical engineering. The
 hyphal cells that form the ring are maintained under tension, and when
@@ -81,57 +81,9 @@ trigger to constriction takes less than one-tenth of a second.
 The chemical attractants that draw nematodes toward fungal traps are a
 critical component of the predatory strategy. Nematodes are
 chemotactic, meaning they navigate toward or away from chemical
-gradients in their environment. Predatory fungi exploit this by
+gradients in their environment. [[biodiversity-nematophagous-predatory-fungi]] exploit this by
 releasing compounds that mimic the nematode's natural food sources or
 [[bloomfield-fungal-sex-pheromones-mating-communication]]. The worms follow these chemical trails directly into
 the traps. This chemical deception transforms what might seem like a
 passive trap into an active hunting system, comparable in principle to
 a spider's web augmented with pheromone lures.
-
-## Ecological Significance
-
-Nematode-trapping fungi play an important role in soil [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-and population control. Nematodes are among the most abundant animals
-on Earth, and in agricultural soils many species are plant parasites.
-Predatory fungi that suppress nematode populations provide a natural
-form of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. The nitrogen released when nematodes are
-digested becomes available to other soil organisms and ultimately to
-plants, creating a pathway from animal protein through fungal
-decomposition to plant nutrition. This predatory ecology underscores
-the fact that fungi are not merely decomposers but active hunters in
-the soil food web.
-
-## Diversity of Predatory Strategies
-
-Beyond adhesive branches and constricting rings, predatory fungi employ
-a remarkable diversity of trapping structures. Some species produce
-three-dimensional adhesive nets that ensnare nematodes as they swim
-through water films in the soil. Others form adhesive knobs on short
-stalks that function like flypaper. The production of different trap
-types can be regulated by the nutritional status of the fungus and the
-presence of nematodes in the environment. When nematodes are abundant,
-many species dramatically increase their production of trap structures,
-a developmental switch that ensures energy is not wasted on trap
-formation when prey are scarce. This inducible predatory behavior
-represents one of the most sophisticated examples of phenotypic
-plasticity in the fungal kingdom.
-
-## Agricultural Applications
-
-The ability of nematode-trapping fungi to suppress plant-parasitic
-nematodes has attracted considerable interest in biological control.
-Certain species of Arthrobotrys and Monacrosporium have been
-investigated as biocontrol agents for protecting crops from root-knot
-nematodes and other agricultural pests. Unlike chemical nematicides,
-which can harm beneficial soil organisms and contaminate groundwater,
-fungal predators offer a targeted approach to nematode management that
-works within existing soil ecosystems.
-
-## See Also
-
-- gadd-nematode-trapping-fungi-functional-genomics
-
-- [[query-how-do-fungi-improve-soil-structure]]
-- biodiversity-fungi-soil-ecosystems
-- [[bloomfield-fungal-reproduction-and-chemical-communication]]
-- [[stachybotrys-chartarum]]

@@ -37,11 +37,11 @@ one of the principal bioactive constituents responsible for the plant's
 antidepressant, antiviral, and photosensitizing properties.
 
 First isolated in the mid-19th century, hypericin is a [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-quinone with potent photodynamic activity. When exposed to visible light
-(especially 590–660 nm wavelengths), it generates reactive oxygen species
+quinone with potent photodynamic activity. When exposed to [[electromagnetic-spectrum-visible-light-plant-perception]]
+(especially 590–660 nm wavelengths), it generates [[reactive-oxygen-species-and-oxidative-stress]]
 (ROS) that can damage cellular membranes, proteins, and nucleic acids.
 
-This photosensitizing property underlies both its therapeutic potential in
+This photosensitizing property underlies both its [[metzner-ayahuasca-therapeutic-potential]] in
 photodynamic therapy and its risk of causing severe photosensitivity
 reactions in humans and livestock consuming the compound.
 
@@ -69,7 +69,7 @@ fluorescence at approximately 590–650 nm.
 primary antidepressant compound in St. John's wort through inhibition of
 monoamine oxidase (MAO-A and MAO-B). However, subsequent research revealed
 that hypericin concentrations in standard extracts are too low for
-significant MAO inhibition at therapeutic doses. The antidepressant effect
+significant [[tihkal-oral-activity-mao-inhibition]] at therapeutic doses. The antidepressant effect
 of *H. perforatum* extracts is now attributed primarily to hyperforin and
 adhyperforin, though hypericin may contribute through modulation of
 dopamine, [[serotonin]], and GABA receptor systems.
@@ -83,64 +83,8 @@ photosensitizers known.
 
 **Antiviral activity:** Hypericin exhibits broad-spectrum antiviral activity
 in vitro against enveloped viruses including HIV-1, hepatitis C, influenza,
-and herpes simplex virus. The mechanism involves photodynamic disruption of
+and [[cannabis-antiviral-herpes-simplex-blesching]] virus. The mechanism involves photodynamic disruption of
 viral envelopes and inactivation of viral particles. In vivo efficacy is
 limited by poor bioavailability and photosensitivity toxicity.
 
 ## Occurrence and Biosynthesis
-
-Hypericin accumulates primarily in the dark glands (translucent dots
-visible on *H. perforatum* leaves and petals when held to light). It is
-concentrated in flower buds, flowers, and young leaves.
-
-The biosynthetic pathway originates from the polyketide pathway via
-emodin anthrone, which undergoes oxidative dimerization to form
-protohypericin, which is then converted to hypericin through
-photooxidation. This light-dependent conversion explains why the compound
-accumulates most in sun-exposed aerial plant parts.
-
-Hypericin content in *H. perforatum* varies with genotype, harvest time,
-drying conditions, and geographic origin, typically ranging from 0.05–0.3%
-dry weight.
-
-## Effects and Dosage
-
-**Standardized extracts:** *H. perforatum* extracts standardized to
-0.3% hypericin are the most common commercial form, with typical doses of
-300 mg extract 2–3 times daily (delivering 0.9–2.7 mg hypericin/day).
-
-**Duration of effect:** Antidepressant effects typically require 2–4 weeks
-of consistent use to become clinically apparent.
-
-**Photosensitivity:** The primary adverse effect. Consumption of hypericin-
-rich preparations increases sensitivity to UV radiation, causing
-erythema, pruritus, and in severe cases, blistering. Livestock
-(particularly sheep, cattle, and horses) grazing on *Hypericum* species
-develop photosensitization syndrome ("hypericism"), leading to skin
-inflammation, edema, and secondary infections.
-
-**[[cannabis-drug-interactions-and-contraindications]]:** Hypericin induces cytochrome P450 enzymes
-(CYP3A4, CYP2C9) and P-glycoprotein, reducing plasma concentrations of
-numerous drugs including oral contraceptives, warfarin, cyclosporine,
-and antiretroviral protease inhibitors.
-
-## Therapeutic Applications
-
-**Photodynamic therapy (PDT):** Hypericin's potent photosensitizing
-properties have been investigated for treatment of basal cell carcinoma,
-actinic keratosis, and cutaneous T-cell lymphoma. [[mushroom-cancer-clinical-trials-overview]]
-demonstrate tumor-selective accumulation and effective lesion regression
-with topical or systemic hypericin followed by visible light irradiation.
-
-**Antimicrobial PDT:** Hypericin-mediated photodynamic inactivation
-shows promise against antibiotic-resistant bacteria (*MRSA*) and fungal
-pathogens (*Candida* spp.) in wound care applications.
-
-**Diagnostic imaging:** Hypericin's strong fluorescence enables tumor
-visualization during fluorescence-guided surgery and endoscopic detection
-of premalignant lesions in the bladder and gastrointestinal tract.
-## See Also
-
-- [[psilocybin]]
-- [[berberine]]
-- resveratrol

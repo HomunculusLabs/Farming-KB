@@ -88,38 +88,3 @@ The therapist maintains an active, interpretive role, guiding the patient's expl
 In the psychedelic model, set and setting are managed to maximize the likelihood of a mystical or transcendental experience, often incorporating music, art, and natural settings.
 
 The therapist takes a more passive, supportive role, trusting the experience to unfold according to its own logic and intervening only to provide reassurance or guidance.
-
-Both models recognize that the quality of the therapist-patient relationship is the single most important determinant of therapeutic outcome.
-
-## Historical Results
-
-Both models produced significant clinical results during the brief period in which they were actively researched.
-
-The psycholytic approach showed particular promise in the treatment of neurotic disorders, with several European clinics reporting high rates of improvement in patients who had not responded to conventional psychotherapy.
-
-The psychedelic approach produced dramatic results in the treatment of alcoholism, with several studies reporting abstinence rates of 50% or higher following a single psychedelic session.
-
-The most famous study of the psychedelic model is Walter Pahnke's "Good Friday Experiment," which demonstrated that psilocybin could produce genuine mystical experiences under controlled conditions.
-
-Both models were effectively shut down by the scheduling of LSD and other hallucinogens in the late 1960s, which made research extremely difficult and stigmatized the entire field.
-
-The recent revival of psychedelic research has drawn primarily on the psychedelic model, with contemporary studies of psilocybin for depression and end-of-life anxiety following the high-dose, mystical-experience paradigm.
-
-## Relevance to Contemporary Research
-
-The distinction between psycholytic and psychedelic models remains relevant to contemporary psychedelic research and therapy.
-
-The current revival has focused almost exclusively on the psychedelic model, with studies of psilocybin, MDMA, and ketamine emphasizing the production of peak or breakthrough experiences.
-
-However, there is growing interest in the psycholytic approach, particularly for conditions that respond poorly to a single high-dose session, such as complex PTSD and personality disorders.
-
-Some contemporary clinicians have begun to integrate elements of both models, using low-dose sessions for preparation and integration alongside high-dose sessions for breakthrough experiences.
-
-The challenge for the field is to develop a more nuanced understanding of when each model is most appropriate and how they can be optimally combined.
-
-Metzner's analysis provides a valuable historical framework for this ongoing work, reminding contemporary researchers that the therapeutic use of hallucinogens has a rich and complex history that extends well beyond the current focus on mystical experience.
-
-## See Also
-- [[set-and-setting-psychedelic-therapy-framework]]
-- [[psychedelic-integration-practices]]
-- [[metzner-psycholytic-psychedelic-therapy-models]]

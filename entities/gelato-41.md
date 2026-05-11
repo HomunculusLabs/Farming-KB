@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Leafly Staff (2024). "Gelato #41 Strain Information." Leafly.com.
   - AllBud (2024). "Gelato 41 Marijuana Strain." AllBud.com.
   - Cookies SF (2023). "Strain Library: Gelato Lineage." Cookies.com.
@@ -22,7 +23,7 @@ sources:
 
 **Gelato 41** is a premium cannabis strain and a specific phenotype of the original **Gelato** cross. It is numbered "41" as one of the numbered phenotypes selected by the breeders at Cookie Family genetics in San Francisco during their Gelato [[cervantes-breeding-program-design-goal-setting]].
 
-Gelato 41 is widely regarded as the **most potent and desirable** of the numbered Gelato phenotypes. It combines the sweet, dessert-like aroma of the Gelato line with exceptional resin production and a balanced but powerful hybrid effect profile.
+Gelato 41 is widely regarded as the **most potent and desirable** of the numbered Gelato phenotypes. It combines the sweet, dessert-like aroma of the Gelato line with exceptional [[cannabis-resin-production-and-quality-traits-clarke]] a balanced but powerful hybrid effect profile.
 
 The strain has become a foundational parent in modern [[oner-cannabis-breeding-fundamentals]], contributing genetics to numerous popular crosses including **Jungle Cake**, **Ice Cream Cake**, and **Jealousy**.
 
@@ -30,7 +31,7 @@ The strain has become a foundational parent in modern [[oner-cannabis-breeding-f
 
 Gelato 41 is phenotype #41 of the cross between:
 
-- **Female parent:** Thin Mint Cookies (Girl Scout Cookies × OG Kush × Durban Poison)
+- **Female parent:** [[thin-mint-cookies]] ([[girl-scout-cookies]] × OG Kush × Durban Poison)
 - **Male parent:** Sunset Sherbet (Girl Scout Cookies × Pink Panties)
 
 The Girl Scout Cookies lineage appears on both sides of the pedigree, giving Gelato 41 a heavily **Cookie-dominant** genetic profile. The Sunset Sherbet male contributes enhanced sweetness, coloration, and indica-leaning growth characteristics.
@@ -73,9 +74,9 @@ Gelato 41 is considered a **high-THC** strain even by contemporary standards. Po
 
 ## Effects
 
-Onset is relatively quick (5–10 minutes), beginning with a **cerebral uplift** characterized by euphoria, creative energy, and enhanced sensory perception. This mental stimulation gradually transitions into a **full-body relaxation** over 30–60 minutes.
+Onset is relatively quick (5–10 minutes), beginning with a **cerebral uplift** characterized by euphoria, creative energy, and enhanced [[plant-sensory-perception]]. This mental stimulation gradually transitions into a **full-body relaxation** over 30–60 minutes.
 
-The effect is described as **balanced hybrid**, providing functional euphoria without overwhelming sedation at moderate doses. Medical users report benefits for stress, mild pain, mood disorders, and appetite stimulation.
+The effect is described as **balanced hybrid**, providing functional euphoria without overwhelming sedation at moderate doses. Medical users report benefits for stress, mild pain, mood disorders, [[cannabis-for-cachexia-and-appetite-stimulation]].
 
 At higher doses, the indica influence becomes more pronounced, potentially leading to couch-lock and sleepiness. Novice consumers should approach with caution due to the high THC content.
 
@@ -85,36 +86,4 @@ At higher doses, the indica influence becomes more pronounced, potentially leadi
 
 **Yield:** Moderate to high (400–500 g/m² indoors). The dense bud structure benefits from support trellising to prevent branch breakage in late flowering.
 
-**Difficulty:** Moderate. The strain responds well to both SOG and SCROG training methods. It is relatively resistant to common pathogens but can be sensitive to nutrient burn — a light feeding schedule is recommended.
-
-**Climate preference:** Mediterranean or warm, dry climates outdoors. Indoor cultivation allows consistent expression of color and terpene profiles. Nighttime temperatures below 15°C during late flowering enhance purple coloration.
-
-### Pests and Diseases
-
-Gelato 41 shows moderate resistance to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis. The dense bud structure can trap moisture, making the late flowering period a critical window for [[stamets-cultivator-humidity-management-fogging-systems]]. Spider mites are the most common pest issue.
-
-Preventive measures include maintaining adequate airflow, avoiding overhead watering during flowering, and applying integrated pest management (IPM) protocols with biological controls (ladybugs, predatory mites) before chemical interventions.
-
-## Medical Applications
-
-Medical cannabis patients commonly use Gelato 41 for **chronic stress management**, reporting rapid onset of mood elevation and mental relaxation. The balanced hybrid effect allows functional use during the day at lower doses.
-
-The strain has shown anecdotal effectiveness for **neuropathic pain**, fibromyalgia, and tension headaches. The high myrcene and caryophyllene content may contribute to anti-inflammatory and analgesic effects, though [[hofmann-lsd-clinical-research-early-studies]] is lacking.
-
-Some patients report appetite stimulation benefits, making Gelato 41 potentially useful for conditions involving nausea or appetite suppression. The linalool content may provide mild anxiolytic effects that complement THC's therapeutic properties.
-
-## Notable Crosses
-
-- **Jungle Cake** — Gelato 41 × Wedding Cake
-- **Ice Cream Cake** — Gelato 33 × Wedding Cake (Gelato lineage)
-- **Jealousy** — Gelato 41 × Sherbet BX1
-- **Georgia Pie** — Gelato 41 × Kush Mints
-- **Biscotti** — Gelato 25 × South Florida OG (Gelato lineage)
-
-## See Also
-
-- [[sunset-sherbet]]
-- [[girl-scout-cookies]]
-- [[larry-og]]
-- [[ice-cream-cake-cannabis]]
-- [[jealousy-cannabis-strain-entity]]
+**Difficulty:** Moderate. The strain responds well to both SOG and SCROG [[mckenna-shamanic-identification-signs-and-training-methods]]. It is relatively resistant to common pathogens but can be sensitive to nutrient burn — a light feeding schedule is recommended.

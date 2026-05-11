@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - concepts/humanure-composting.md
   - concepts/humanure-composting-systems.md
   - concepts/graywater-systems.md

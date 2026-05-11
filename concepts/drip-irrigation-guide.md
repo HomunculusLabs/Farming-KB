@@ -9,7 +9,7 @@ sources: []
 
 # Drip Irrigation Guide
 
-Drip irrigation (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient irrigation method available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
+Drip irrigation (microirrigation) delivers water directly to the root zone of plants through a network of tubes, pipes, and emitters. It is the most water-efficient [[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]] available, reducing water use by 30-50% compared to sprinkler systems while minimizing foliar disease, weed growth, and evaporation losses.
 
 ## Components
 
@@ -68,7 +68,7 @@ Discrete devices inserted into the lateral pipe at each plant location. Flow rat
 - **Non-pressure-compensating**: Flow varies with pressure. Cheaper but less accurate. Suitable for flat terrain only.
 - **Adjustable flow**: Twist to change flow rate. Useful where water needs vary between plants.
 
-Best for: widely spaced plants (tomatoes, peppers, fruit trees), container plants, irregular layouts.
+Best for: widely spaced plants (tomatoes, peppers, [[comparison-grafting-vs-budding-fruit-trees]]), container plants, irregular layouts.
 
 ### Drip Tape
 
@@ -77,7 +77,7 @@ Flat polyethylene tape with built-in emitters spaced at regular intervals (typic
 - **DripLine (dripperline)**: Round pipe with pre-installed inline emitters. More durable than tape, can be buried.
 - **T-Tape**: Flat tape, thinner wall, less expensive. Single-season use (though can last 2-3 seasons with care).
 
-Best for: densely planted rows (vegetable beds, strawberries, cut flowers), raised beds.
+Best for: densely planted rows (vegetable beds, strawberries, cut flowers), [[cervantes-raised-beds-mound-planting]].
 
 ### Micro-Sprinklers
 
@@ -86,7 +86,7 @@ Small spray heads that deliver water in a circular pattern (radius 1-10 feet). F
 - **Spinner type**: Rotating stream, good coverage area, lower clog risk.
 - **Spray type**: Fixed spray pattern, higher precipitation rate.
 
-Best for: ground covers, densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
+Best for: [[permaculture-plants-food-forest-ground-covers-bamboos]], densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
 
 ### Soaker Hoses
 
@@ -147,4 +147,3 @@ Fertigation delivers soluble fertilizers through the drip system, providing nutr
 - **Check valve**: Prevents fertilizer from siphoning back into the water source.
 
 ### Fertigation Schedule
-

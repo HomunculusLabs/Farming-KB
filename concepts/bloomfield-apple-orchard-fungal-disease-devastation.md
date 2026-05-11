@@ -87,35 +87,3 @@ The diversity of these fungal pathogens attacking a single tree species in one l
 The diseases devastating Bloomfield's orchard are part of a broader catalog of [[bloomfield-fungal-plant-pathogens]] that spans every major crop and ecosystem on Earth.
 
 Rusts, smuts, and bunts primarily affect cereal grains — the foundation of human caloric intake worldwide.
-
-Mildews attack a vast range of plants from grapes to cucurbits, forming characteristic powdery or downy coatings on leaf surfaces.
-
-Potato blight, caused by an oomycete fungus, triggered the Irish Potato Famine of the 1840s and remains a threat to potato crops worldwide.
-
-Rice blast, caused by the ascomycete Magnaporthe oryzae, destroys enough rice annually to feed tens of millions of people.
-
-Each of these pathogens has evolved specialized mechanisms for penetrating plant defenses, accessing nutrients, and dispersing to new hosts.
-
-## Coffee Rust: A Continental-Scale Fungal Threat
-
-Coffee rust exemplifies how a single fungal pathogen can threaten an entire agricultural economy spanning multiple nations.
-
-The disease demonstrates that the devastation Money witnessed in Bloomfield's orchard operates on a continental scale, with consequences measured in billions of dollars.
-
-Where Bloomfield's apples were consumed quietly in an English village, coffee rust has the power to reshape national economies and displace rural populations across South America.
-
-## The Unending Arms Race
-
-The scale of agricultural losses has driven centuries of effort to understand and combat fungal pathogens, from medieval prayers to modern biotechnology.
-
-Despite these efforts, fungi continue to evolve new strategies for infecting crops, and the arms race between plant and pathogen shows no sign of abating.
-
-Each new resistant crop variety is eventually overcome by a new fungal race, in a coevolutionary struggle that has persisted since the dawn of agriculture.
-
-## See Also
-
-- [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
-- bloomfield apple scab venturia inaequalis orchard disease
-- bloomfield powdery mildew fungal surface colonization
-- bloomfield potato blight phytophthora infestans famine
-- bloomfield fungal arms race insect pathogen coevolution

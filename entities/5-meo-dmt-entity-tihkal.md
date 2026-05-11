@@ -8,7 +8,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # 5-MeO-DMT (5-Methoxy-N,N-Dimethyltryptamine)
 
-TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found naturally in the venom of the Bufo alvarius toad, in numerous plant species (Dictyoloma incanescens, Virola species), and as a minor endogenous trace amine. Known also as bufotenine methyl ether, O-methylbufotenine, and N,N,O-trimethylserotonin.
+TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found naturally in the venom of the [[5-meo-dmt-and-bufo-alvarius]] toad, in numerous plant species (Dictyoloma incanescens, Virola species), and as a minor endogenous [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]. Known also as bufotenine methyl ether, O-methylbufotenine, and N,N,O-trimethylserotonin.
 
 ## Chemical Names
 
@@ -37,7 +37,7 @@ TIHKAL entry #38. An extremely potent, fast-acting tryptamine psychedelic. Found
 
 - **6 mg, smoked**: "I felt it in a minute -- not really light head, but the head feels close to the lower parts of the body -- close to the ground -- knees weak -- distinct shakes. I peaked at 2 or three minutes. Overall comparison to DMT, more potent, slightly faster, but like DMT is largely a simple, stoning drug with no sensory contribution, no intellectual contribution."
 - **8 mg, smoked**: "I was blown away, far away I might add, but only for 10 minutes and effects were gone by half an hour. During this episode mental activity was almost absent."
-- **10 mg, smoked**: "This is like adding the MDMA experience to DMT. DMT for me is terrifying (I still go back though). The 5-MeO-DMT was much more relaxed, a kind of cosmic consciousness type of experience. I felt a little shaky (tremor-like) coming down."
+- **10 mg, smoked**: "This is like adding the MDMA experience to DMT. DMT for me is terrifying (I still go back though). The 5-MeO-DMT was much more relaxed, a kind of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] type of experience. I felt a little shaky (tremor-like) [[fukuoka-textdoc-production-costs-not-coming-down]]."
 - **15 mg, smoked**: "At about 60 seconds... I beheld every thought going on everywhere in the universe and all possible realities while I was wracked out with this horrible ruthless love. A definite ++++."
 - **20 mg, smoked**: "A twenty minute experience. The entire universe imploded through my consciousness... This was simply the most intense experience possible; a singularity, a white-out."
 - **25 mg, smoked**: "The entire universe imploded through my consciousness. I felt that my mind was perceiving all objects, situations and feelings at once. There was no distance, no possibility of examining the experience."
@@ -77,7 +77,7 @@ Shulgin recounts a visit to Sydney where he learned about Australia's cane toad 
 
 The drug is not orally active at any dose tested (up to 35 mg). Smoked onset is within seconds, with peak effects reached in under a minute. Some trial i.v. experiments showed no effects at 100 micrograms, but real effects at 250 micrograms. The injection process is faster than smoking and avoids the odd smoke flavor.
 
-6-HO-5-MeO-DMT has been shown in several animal models to be pharmacologically less active than its parent compound, suggesting that 6-hydroxylation (a common metabolic pathway) deactivates the compound. This pattern of 6-hydroxylation reducing potency holds for simpler N,N-dialkyltryptamines as well.
+6-HO-5-MeO-DMT has been shown in several animal models to be pharmacologically less active than its parent compound, suggesting that 6-hydroxylation (a common [[gluconeogenesis-biochemistry-metabolic-pathway]]) deactivates the compound. This pattern of 6-hydroxylation reducing potency holds for simpler N,N-dialkyltryptamines as well.
 
 ### The MAOI Potentiation Question
 
@@ -88,24 +88,3 @@ A true academic challenge exists with studies of 5-MeO-DMT involving drug mixtur
 Removing one N-methyl group provides 5-MeO-NMT, which has its own entry. Removal of both methyl groups gives 5-methoxytryptamine (5-MeO-T, Mexamine), explored by Soviet researchers as a treatment for radiation exposure and known as a potentiator of centrally active drugs. As with the simpler N,N-dialkyltryptamines, metabolic introduction of a hydroxyl group at the 6-position leads to a lowering of pharmacological potency.
 
 ## Synthesis Notes
-
-Synthesized from 5-methoxyindole via [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] to form 5-methoxyindol-3-ylglyoxyl chloride, followed by reaction with dimethylamine and reduction with LAH. Free base mp 69-70 C; HCl salt mp 145-146 C. Overall yield approximately 78% from the glyoxylamide intermediate.
-
-## Physical Properties
-
-- Free base mp: 69–70 C
-- HCl salt mp: 145–146 C
-- MS (m/z): C3H8N+ 58 (100%); parent ion 218
-
-## Safety Notes
-
-High doses (reported overdose at unknown but large smoked amount) have produced near-fatal respiratory depression, requiring cardiopulmonary resuscitation. One subject experienced prolonged psychological disturbance requiring antipsychotic medication for three days afterward. See [[5-meo-dalt-entity]]
-
-- [[5-meo-dipt-entity-tihkal]] -- 5-methoxy analogue with diisopropyl substitution, orally active
-- [[bufotenin-entity-tihkal]] -- 5-hydroxy analogue (O-demethylated 5-MeO-DMT)
-- [[psychedelic-mushroom-pharmacology]]
-
-## Related
-
-- [[psilocin-entity-tihkal]]
-- [[lsd-entity-tihkal]]

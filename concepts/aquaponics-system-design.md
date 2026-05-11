@@ -5,7 +5,7 @@ Aquaponics is an integrated food production system that combines aquaculture
 loop. Fish waste provides nutrients for plants, and plants filter the water for
 fish, creating a symbiotic ecosystem that produces both protein and vegetables
 with minimal external inputs. The design of an aquaponics system requires
-balancing fish biology, plant nutrition, microbial ecology, and hydraulic
+balancing fish biology, plant nutrition, [[fukuoka-microbial-ecology-decomposition]], and hydraulic
 engineering to maintain water quality within acceptable ranges for all organisms.
 
 ## The Nitrogen Cycle in Aquaponics
@@ -39,7 +39,7 @@ excellent plant growth rates and are the simplest to build and operate, but
 require large water volumes and careful oxygen management to prevent root
 suffocation.
 
-Nutrient film technique (NFT) systems pump a thin film of water through narrow
+[[nutrient-film-technique]] (NFT) systems pump a thin film of water through narrow
 channels where roots are suspended. NFT provides efficient nutrient delivery but
 is less forgiving of pump failures. Media bed systems use gravel, expanded clay,
 or volcanic rock as both growing medium and biofilter — robust but prone to
@@ -68,7 +68,7 @@ specific applications.
 
 Fish stocking density affects nutrient production directly. Typical densities
 range from 10-30 kg per cubic meter of water in DWC systems. Higher densities
-increase nutrient availability but also raise ammonia spike risk. The feeding
+increase [[ph-and-nutrient-availability-garden-soils]] but also raise ammonia spike risk. The feeding
 rate — grams of feed per day relative to system volume — is critical, typically
 10-20 grams per square meter of plant growing area per day.
 
@@ -82,69 +82,9 @@ may exceed fish waste output. Potassium, calcium, and iron are typically
 deficient and must be supplemented via potassium hydroxide, calcium hydroxide,
 and chelated iron (Fe-DTPA).
 
-Cannabis cultivation [[mycorrhizal-mushroom-cultivation-challenges]] in aquaponics systems has gained interest, though regulatory
+[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] [[mycorrhizal-mushroom-cultivation-challenges]] in aquaponics systems has gained interest, though regulatory
 constraints and the high nutrient demands of cannabis present challenges.
 Aquaponic cannabis typically requires additional phosphorus and potassium
 supplementation beyond what fish waste provides, and careful monitoring of
 micronutrient levels. The biological complexity of aquaponics can contribute to
 terpene diversity through plant-microbiome interactions, though research on this
-relationship remains limited.
-
-## Water Quality Parameters
-
-Maintaining water quality within acceptable ranges is the primary operational
-challenge in aquaponics. The ideal pH range is 6.8-7.2, which represents a
-compromise between the preferred ranges of fish (7.0-8.0), nitrifying bacteria
-(7.0-8.5), and plants (5.5-6.5). Dissolved oxygen must be maintained above 4-5
-mg/L for fish health, with 6-8 mg/L being optimal. Air stones, venturi
-injectors, or trickle filters provide oxygenation.
-
-Temperature management affects fish metabolism, bacterial activity, and plant
-growth simultaneously. Most systems operate at 18-26°C, balancing warm-water fish
-needs with lettuce cooling requirements. In hot climates, shade structures or
-evaporative cooling are necessary; in cold climates, greenhouse enclosures or
-water heaters maintain temperature.
-
-Total ammonia nitrogen (TAN) should remain below 1.0 ppm, with nitrite below
-0.5 ppm and nitrate below 150 ppm (though plants can tolerate much higher
-levels). Alkalinity (carbonate hardness) should be maintained at 50-150 mg/L as
-calcium carbonate to provide buffering capacity against pH changes caused by
-nitrification, which consumes alkalinity as bacteria oxidize ammonia to nitrate.
-
-## Solid Waste Management
-
-Fish produce both dissolved waste (ammonia) and solid waste (uneaten food,
-feces). In media bed systems, the growing medium captures solids and provides
-surface area for mineralization by heterotrophic bacteria. In DWC and NFT
-systems, separate mechanical filtration is required to prevent solids from
-settling in plant channels or degrading water quality.
-
-Solids removal typically involves a swirl filter or radial flow settler, which
-uses centrifugal force to separate suspended particles from the water stream.
-Captured solids can be composted, applied to outdoor gardens, or mineralized in
-a separate aerobic digester to release additional nutrients into the system.
-Mineralization — the aerobic decomposition of organic solids into dissolved
-inorganic nutrients — provides a supplemental nutrient source but must be managed
-carefully to avoid oxygen depletion in the main system.
-
-## System Sizing and Economics
-
-The fundamental sizing ratio in aquaponics links fish feed input to plant growing
-area. A common rule of thumb is 40-60 grams of fish feed per day per square
-meter of DWC growing area. This ratio assumes leafy green crops and standard
-pelleted fish feed with 30-35% protein content. For fruiting crops or higher
-protein feeds, the ratio must be adjusted accordingly.
-
-Water volume ratios are also important. A fish tank volume of 200-500 liters per
-square meter of growing area provides sufficient nutrient dilution and buffer
-capacity. Systems with too little water relative to plant area experience rapid
-nutrient depletion; systems with too much water may have insufficient nutrient
-concentration for optimal plant growth.
-
-Startup costs for small home systems (100-500 liter fish tank) range from
-$500-2,000 for DIY builds. Commercial systems processing 500+ kg of fish per
-year require investments of $20,000-100,000 depending on greenhouse
-infrastructure, automation level, and market scale. Economic viability depends
-on premium pricing for fresh, locally produced fish and vegetables, with
-aquaponic products typically commanding 20-40% price premiums over conventionally
-produced equivalents in direct-market settings.

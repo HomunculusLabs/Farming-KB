@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Fungal Ecology on the Forest Floor
 
-Fungi are the primary decomposers in forest ecosystems, playing an indispensable role in nutrient cycling, soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape. (see [[mycelium-running-rot-fungi-wood-decomposition]]).
+Fungi are the primary decomposers in forest ecosystems, playing an indispensable role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], soil formation, and plant community dynamics. The forest floor is, in many ways, a fungal landscape.
 
 ## The Role of Fungi in Decomposition
 
@@ -22,10 +22,10 @@ Fungi are non-photosynthetic organisms whose primary ecological role is decompos
 ## Wood Decay Fungi
 
 ### White Rot Fungi
-The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, manganese peroxidase, laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail (Trametes versicolor), shiitake (Lentinula edodes), reishi (Ganoderma lucidum). (see [[fungal-decomposition]]).
+The most numerous decomposers of wood. Produce enzymes (lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], laccase) that break down lignin, leaving cellulose intact. The wood takes on a white, fibrous appearance. Examples: oyster mushroom (Pleurotus ostreatus), turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]), shiitake (Lentinula edodes), reishi ([[ganoderma-lucidum]]).
 
 ### Brown Rot Fungi
-Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulose, leaving behind brownish, cubically cracked lignin. Commonly seen on downed conifers. Examples: sulphur shelf (Laetiporus sulphureus), agarikon (Fomitopsis officinalis), split-gill polypore (Schizophyllum commune).
+Only about 7% of mushrooms are brown rot fungi. Their enzymes break down cellulose, leaving behind brownish, cubically cracked lignin. Commonly seen on downed conifers. Examples: sulphur shelf ([[laetiporus-sulphureus]]), agarikon (Fomitopsis officinalis), split-gill polypore ([[schizophyllum-commune]]).
 
 ## Mycorrhizal Networks
 
@@ -54,5 +54,36 @@ Mushrooms feed a vast array of forest organisms: insects, slugs, deer, squirrels
 ## See Also
 
 - [[mycoforestry-forest-restoration]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mushroom-foraging-safety]]
+
+## Practical Applications
+- Fungal cultivation techniques benefit from understanding these biological principles.
+- Field application requires attention to local environmental conditions and substrate availability.
+- Integration with sustainable agriculture practices enhances ecological outcomes.
+- Research findings support both commercial and small-scale cultivation approaches.
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

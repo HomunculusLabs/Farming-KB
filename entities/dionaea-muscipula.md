@@ -87,26 +87,3 @@ Fire is an essential ecological process for maintaining open, sunny conditions. 
 *Dionaea muscipula* is widely cultivated and is one of the most commonly grown carnivorous plants worldwide. Commercial propagation is primarily through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and vegetative division.
 
 Cultivated plants require nutrient-poor substrate such as a mix of sphagnum peat and silica sand. Tap water must be avoided due to mineral content; rainwater, distilled water, or reverse-osmosis water is standard.
-
-Despite its abundance in cultivation, wild populations face significant threats. Urban development, agriculture, fire suppression, and illegal poaching for the horticultural trade have severely reduced natural populations.
-
-Conservation efforts include habitat preservation through the North Carolina Plant Conservation Program and cultivation of poaching laws. The species was proposed for ESA listing in 2023, with a final determination pending.
-
-## History and Cultural Significance
-
-The Venus flytrap was first formally described by John Ellis in 1768, based on specimens collected in North Carolina. The specific epithet *muscipula* is derived from Latin, meaning "mousetrap," referring to the trapping mechanism.
-
-Charles Darwin conducted extensive experiments on *Dionaea* in the 1860s and 1870s, detailed in his 1875 book *Insectivorous Plants*. He was the first to rigorously document the trigger-hair sensitivity threshold and the two-phase closure response.
-
-The plant has become an iconic subject in popular culture, appearing in literature, film, video games, and music. Its dramatic trap-closing behavior has made it a staple of science fiction and horror genres.
-
-A robust international horticultural community exists around Venus flytrap cultivation, with hundreds of registered cultivars exhibiting variations in trap size, coloration, dentition, and growth habit.
-
-## See Also
-
-- [[myrica-gale]]
-- wetland
-- ecosystem
-- [[mycelium]]
-- [[decomposition]]
-- [[singh-ergot-alkaloid-fungal-secondary-metabolites]]

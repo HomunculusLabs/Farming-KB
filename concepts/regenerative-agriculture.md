@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: concept
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 tags: [regenerative, agriculture, soil-health, carbon-sequestration, farming, ecology, sustainability, biology, conservation, soil-building]
 ---
 
@@ -14,7 +15,7 @@ Regenerative agriculture is a holistic land management philosophy and suite of f
 
 The term was coined by **Robert Rodale** (1930–1990) in the 1980s, who distinguished "regenerative organic agriculture" from standard organic farming by emphasizing [[allan-savory]] odiversity, enriches soils, improves watersheds, and enhances ecosystem services."
 
-Key figures include **[[gabe-brown]] wn]]** (North Dakota rancher, *Dirt to Soil*, 2018), who pioneered practical implementation on a large commercial farm; **Allan Savory** (Zimbabwean ecologist, Holistic Planned Grazing); **Dr. [[elaine-ingham]]** (soil microbiologist, Soil Foodweb Inc.); **Dr. Rattan Lal** (Ohio State, soil carbon sequestration, World Food Prize 2020); **Dr. Christine Jones** (Australian soil ecologist, "liquid carbon pathway"); **Dr. David Johnson** (New Mexico State, BEAM compost system); and **Walter Jehne** (soil carbon sponge concept).
+Key figures include **[[gabe-brown]]** (North Dakota rancher, *Dirt to Soil*, 2018), who pioneered practical implementation on a large commercial farm; **Allan Savory** (Zimbabwean ecologist, Holistic Planned Grazing); **Dr. [[elaine-ingham]]** (soil microbiologist, Soil Foodweb Inc.); **Dr. Rattan Lal** (Ohio State, soil carbon sequestration, World Food Prize 2020); **Dr. Christine Jones** (Australian soil ecologist, "liquid carbon pathway"); **Dr. David Johnson** (New Mexico State, BEAM compost system); and **Walter Jehne** (soil carbon sponge concept).
 
 Timeline: Rodale articulates concept (1980s); Savory's Holistic Management gains traction (1990s); Brown's ranch as demonstration site (2000s); Rodale white paper on agriculture and climate (2014); Regenerative Organic Alliance forms (2017); ROC launches (2018); *Kiss the Ground* documentary brings mainstream awareness (2020); EU Farm to Fork references regenerative (2020); COP28 Declaration by 159 countries (2023).
 
@@ -87,25 +88,3 @@ inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

@@ -87,25 +87,3 @@ Fresh curry leaves are rich in vitamins A, B, C, and E, as well as minerals incl
 Vitamin A content is notably high, contributing to the leaves' traditional use in treating eye disorders. Beta-carotene and other carotenoids account for much of the provitamin A activity.
 
 The leaves also contain significant amounts of fiber and plant sterols. Their low calorie content makes them a nutrient-dense addition to the diet.
-
-## Related Species
-
-The genus *Murraya* contains two widely recognized species: M. koenigii (curry leaf) and M. paniculata (orange jasmine, mock orange). M. paniculata is native to southern China and Southeast Asia and is grown as an ornamental for its fragrant white flowers.
-
-M. paniculata is sometimes confused with M. koenigii in the nursery trade, but its leaves are not used culinarily. It is, however, used in traditional Chinese medicine for various ailments.
-
-Several other Murraya species occur in tropical Asia and Australia, though none have the culinary significance of M. koenigii. The genus is closely related to *Citrus* and shares many secondary metabolites with commercial citrus species.
-
-## See Also
-
-- [[eugenia-caryophyllata]]
-- [[cymbopogon-citratus]]
-- [[boesenbergia-rotunda]]
-- turmeric
-- [[capsicum-annuum]]
-- ocimum-sanctum
-- [[azadirachta-indica]]
-- [[berberine]]
-- ricinus communis
-- [[aloe-vera]]
-- jatropha curcas

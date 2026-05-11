@@ -88,26 +88,3 @@ Individual daily production:
 4. **No direct contact with edible portions** -- apply to soil around plants, or as foliar only on non-edible plant parts
 5. **Hygiene:** Use dedicated containers, tools, and gloves. Wash hands thoroughly after handling
 6. **Toilet design:** Throw in wood chips, rice stalks, or sawdust before each use to absorb moisture and reduce odor/splashing
-
-## Comparison to Other JLF Types
-
-| JLF Source | T-N% | Relative N Strength |
-|-----------|------|-------------------|
-| Wild grass/fruit | ~0.05% | 1x (baseline) |
-| Human feces | 3.92% | ~80x |
-| Human urine | 2.48% | ~50x |
-| Mackerel fish | 10.98% | ~220x |
-| Fish meal | 4.69% | ~94x |
-
-Human feces JLF has 3x the nitrogen of human urine JLF and ~80x that of wild grass JLF.
-
-## Historical Context
-
-In Korea's past, human manure was so treasured that a trade existed for buying and selling collection rights. The introduction of flush toilets in the name of hygiene "completely exterminated human manure from farming." Cho argues this was a catastrophic loss of a free, complete, and irreplaceable nutrient source.
-
-## See Also
-
-- [[jadam-microorganism-solution-jms]] -- leaf mold microbial culturing
-- [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-calcium-fertilizer]]
-- [[temperature-effects-plant-nutrient-uptake]]

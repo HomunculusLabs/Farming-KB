@@ -9,12 +9,12 @@ sources: []
 ---
 # Grain Spawn Types and Preparation for Mushroom Cultivation
 
-Grain spawn is the next step in the exponential expansion of mycelial mass from agar culture into bulk substrates. The intent and purpose of grain spawn is to boost the mycelium to a state of vigor where it can be launched into bulk substrates. The grain is not only a vehicle for evenly distributing the mycelium, but also a nutritional supplement. Whole grain is used because each kernel becomes a mycelial capsule, a platform from which mycelium can leap into the surrounding expanse. Smaller kernels of grain provide more points of inoculation per pound of spawn.
+Grain spawn is the next step in the exponential expansion of mycelial mass from [[agar-culture-and-isolation]] into [[mushroom-cultivation-bulk-substrates]]. The intent and purpose of grain spawn is to boost the mycelium to a state of vigor where it can be launched into bulk substrates. The grain is not only a vehicle for evenly distributing the mycelium, but also a nutritional supplement. Whole grain is used because each kernel becomes a mycelial capsule, a platform from which mycelium can leap into the surrounding expanse. Smaller kernels of grain provide more points of inoculation per pound of spawn.
 
 ## Common Grain Types
 
 ### Rye Grain
-The most popular choice among [[growing-gourmet-mushroom-dehydration-methods-equipment]] growers worldwide. Rye has an ideal kernel size and shape, a good nutritional profile, and separates readily upon shaking after sterilization. It is the standard referenced in most cultivation literature including The Mushroom Cultivator. Organically grown rye is widely available and cost-effective.
+The most popular choice among [[growing-gourmet-mushroom-dehydration-methods-equipment]] growers worldwide. Rye has an ideal kernel size and shape, a good nutritional profile, and separates readily upon shaking after sterilization. It is the standard referenced in most cultivation literature including [[coprinus-atrementarius-entity-the-mushroom-cultivator]]. Organically grown rye is widely available and cost-effective.
 
 ### Wheat
 Second most common grain for [[growing-gourmet-sawdust-spawn-production-use]]. Performs comparably to rye in most applications and is widely available. Some cultivators prefer wheat for certain species, and it is the traditional grain used in many parts of Europe.
@@ -35,7 +35,7 @@ Every spawn maker favors the grain which, from experience, has produced the most
 ## Two Methods of Grain Preparation
 
 ### Method 1: Boiling/Steeping
-Grain is submerged in boiling water for approximately one hour (or steeped). The saturated grain is then drained of water (discarded) and scooped into awaiting spawn containers fitted with lids having microporous filter discs, then sterilized in a pressure cooker. This ensures even moisture absorption and consistency. The soaking period (12-24 hours) allows heat-resistant bacterial endospores to germinate, making them vulnerable to subsequent heat sterilization. Before use, filter discs should be soaked in a weak (5%) bleach solution to dislodge and disinfect any imbedded contaminants.
+Grain is submerged in boiling water for approximately one hour (or steeped). The saturated grain is then drained of water (discarded) and scooped into awaiting spawn containers fitted with lids having microporous filter discs, then sterilized in a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]. This ensures even moisture absorption and consistency. The soaking period (12-24 hours) allows heat-resistant bacterial endospores to germinate, making them vulnerable to subsequent heat sterilization. Before use, filter discs should be soaked in a weak (5%) bleach solution to dislodge and disinfect any imbedded contaminants.
 
 ### Method 2: Dry Grain with Added Water
 Dry grain is placed into spawn jars, a measured amount of water (preferably hot) is added, and jars sit overnight. The jars are capped and sterilized. Simpler and a one-step process with less fuel consumption and less handling. However, this technique causes the grains to have an uneven moisture content, which can lead to pockets of bacterial growth.
@@ -45,7 +45,7 @@ Dry grain is placed into spawn jars, a measured amount of water (preferably hot)
 Moisture content plays a critical role in successful colonization. The optimum moisture for grain spawn falls within 45-55%, with an ideal around 50%.
 
 - **Too dry (below 40%):** Growth is retarded, mycelium forms fine threads and grows slowly
-- **Too wet (above 55%):** Grain kernels explode, exposing inner nutrients; clumping occurs; sites of depressed gas exchange form where bacteria proliferate
+- **Too wet (above 55%):** Grain kernels explode, exposing inner nutrients; clumping occurs; sites of depressed [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] form where bacteria proliferate
 
 To determine moisture content: weigh 100g of prepared grain, dry it in an oven at 300°F (150°C) for 8 hours, and re-weigh. The difference is water lost. Moisture percentage = mass of water / total mass (water + dried grain). This is NOT a ratio of water to dry mass.
 
@@ -81,26 +81,9 @@ The exponential expansion potential of grain spawn is remarkable. From a single 
 1. Petri dish to G1 Grain Masters (4-20 cups of grain per dish)
 2. G1 to G2 (each G1 inoculates multiple G2 jars)
 3. G2 to G3
-4. G3 to sawdust spawn (each jar inoculates a sawdust spawn bag)
+4. G3 to [[comparison-grain-spawn-vs-sawdust-spawn]] (each jar inoculates a sawdust spawn bag)
 5. Sawdust spawn expands 10x into fruiting blocks
 
 Theoretically, one petri dish can produce over 1,000,000 lbs of mushrooms in as few as 80 days, depending on species and strain.
 
 ## Inoculation Rates
-
-- Commercial spawn (purchased): typically 3-7% of [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] weight, or 30-70 lbs wet spawn per 1000 lbs substrate
-- Self-produced spawn: 8-15% wet spawn/dry substrate (80-150 lbs per 1000 lbs)
-- Higher rates accelerate colonization, narrow the window for competitor invasion, and boost yields
-- Major drawback of high spawning rates: increased thermogenesis (substrate heating from mycelial metabolism)
-
-## Liquid Inoculation Alternative
-
-[[spawn-grain-performance-research]], [[agar-culture-techniques-detailed]], [[mushroom-cultivation-bulk-substrates]], [[six-vectors-of-contamination]]
-
-*Source: Stamets, P. "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]" -- Chapter 15: Generating Grain Spawn*
-
-## See Also
-
-- [[maitake-spawn-types-and-suppliers]]
-
-- [[cultivator-grain-spawn-preparation-and-inoculation]]

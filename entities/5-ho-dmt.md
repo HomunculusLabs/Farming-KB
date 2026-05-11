@@ -34,15 +34,15 @@ created: 2026-04-28
 
 ## Overview
 
-**5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring tryptamine alkaloid and a positional isomer of serotonin.
+**5-HO-DMT** (5-hydroxy-N,N-dimethyltryptamine), commonly known as bufotenine or bufotenin, is a naturally occurring [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] and a positional isomer of serotonin.
 
-It is found in the skin and venom glands of several toad species (Bufo alvarius, Bufo marinus) and in numerous plant species including [[yopo-anadenanthera-peregrina-snuff]] and Anadenanthera colubrina.
+It is found in the skin and venom glands of several toad species ([[5-meo-dmt-and-bufo-alvarius]], Bufo marinus) and in numerous plant species including [[yopo-anadenanthera-peregrina-snuff]] and [[anadenanthera-colubrina]].
 
 Bufotenine has been used as an entheogen for at least 4,000 years, principally in the form of snuff powders prepared from Anadenanthera seeds (yopo and cebil).
 
 It is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] and is internationally regulated under the UN Convention on Psychotropic Substances.
 
-The compound was profiled in TIHKAL by Alexander and Ann Shulgin, who assigned it the entry number 31.
+The compound was profiled in TIHKAL by Alexander and [[ann-shulgin]], who assigned it the entry number 31.
 
 ## Chemical Properties
 
@@ -64,7 +64,7 @@ The freebase form has a melting point of 146–147°C; the hydrochloride salt me
 
 ## Pharmacology
 
-5-HO-DMT acts primarily as a non-selective serotonin receptor agonist with highest affinity for the 5-HT2A receptor (Ki = 21 nM), the primary mediator of psychedelic effects.
+5-HO-DMT acts primarily as a non-selective [[serotonin-receptor-interference-psychedelic-mechanism]] agonist with highest affinity for the 5-HT2A receptor (Ki = 21 nM), the primary mediator of psychedelic effects.
 
 It also binds to 5-HT1A (Ki = 152 nM), 5-HT2B, 5-HT2C, and 5-HT3 receptors with varying affinities.
 
@@ -87,33 +87,3 @@ The experience is generally described as less cerebral and more "body-centered" 
 High doses (40+ mg) can produce overwhelming visionary states, [[psilocybin-ego-dissolution-mechanisms]], and purgative effects including nausea and vomiting.
 
 The compound has been reported to produce a pronounced "afterglow" period characterized by enhanced mood and clarity lasting several hours post-experience.
-
-Subjective effects are strongly influenced by set, setting, and route of administration; vaporized bufotenine from Bufo alvarius venom produces markedly different profiles than insufflated plant snuff.
-
-## Natural Occurrence
-
-The primary animal source is the Sonoran Desert toad (*Incilius alvarius*, formerly *Bufo alvarius*), whose parotoid gland secretions contain 5–15% bufotenine by dry weight.
-
-Plant sources include seeds of *Anadenanthera peregrina* (yopo, 0.04–0.16% bufotenine) and *Anadenanthera colubrina* (cebil, up to 12% total alkaloids).
-
-Bufotenine also occurs in *Virola* species (bark resin), *Erythrina* species, and several *Acacia* species used in Australian Aboriginal practices.
-
-Trace amounts have been detected in human urine as a normal metabolite, and elevated levels have been associated with certain psychiatric conditions.
-
-## Legal Status
-
-In the United States, bufotenine is classified as Schedule I under the Controlled [[controlled-substances-act-and-psychedelic-research]].
-
-Internationally, it is listed in Schedule I of the UN Convention on Psychotropic Substances (1971).
-
-Legal status varies significantly by country; some jurisdictions exempt traditional indigenous use while restricting synthetic or extracted forms.
-
-The rising popularity of Bufo alvarius venom ("toad medicine") has prompted increased law enforcement attention in several countries.
-
-## See Also
-
-- [[dmt]]
-- [[bufotenin]]
-- [[mescaline]]
-- [[elemicin]]
-- [[ergotamine]]

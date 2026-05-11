@@ -87,36 +87,3 @@ Fountain grass provides minimal forage value for livestock and wildlife compared
 The dense thatch layer inhibits native seedling establishment by creating a physical barrier and altering soil surface microclimate. Allelopathic compounds have not been conclusively demonstrated, but competitive exclusion through resource preemption is well documented.
 
 Several insect herbivores have been recorded on the species in its introduced range, but none provide effective biological control. Pathogens including rust fungi (*Puccinia* spp.) occasionally affect ornamental plantings.
-
-Soil nitrogen accumulation beneath fountain grass stands has been documented, potentially altering [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and favoring continued invasion by nitrophilic species. Changes in soil microbial communities under fountain grass may further reinforce invasion through feedback mechanisms.
-
-Pollination is primarily by wind, which is typical for open-flowered grasses. The exposed anthers and feathery stigmas facilitate efficient cross-pollination, contributing to high genetic diversity within populations.
-
-The species' phenology is determinate, with a single flowering flush in summer followed by senescence. This contrasts with some native grasses that remain photosynthetically active longer into the dry season.
-
-Genetic diversity within naturalized populations reflects multiple introduction events from different source populations. Molecular studies using AFLP and microsatellite markers have revealed significant population structure among invasive populations in the United States and Australia.
-
-The taxonomic relationship between *Pennisetum setaceum* and related species including *P. orientale*, *P. villosum*, and *P. divisum* remains the subject of ongoing revision. Some authors have proposed subsuming portions of the genus into *Cenchrus* based on phylogenetic evidence.
-
-In its native range, the species plays a role in supporting some native herbivore communities and contributes to soil stabilization on arid slopes. The ecological consequences of invasion therefore depend on the recipient community and the degree of functional replacement of native species.
-
-## See Also
-
-- [[arundo-donax]]
-- [[miscanthus-sinensis]]
-- [[panicum-virgatum]]
-- [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
-- [[phragmites-australis]]
-- [[spartina-alterniflora]]
-- [[sorghum-bicolor]]
-- [[coix-lacryma-jobi]]
-- [[phyllostachys-edulis]]
-- [[avena-sativa]]
-- [[hordeum-vulgare]]
-- [[triticum-aestivum]]
-- [[zea-mays]]
-- [[oryza-sativa]]
-- [[pennisetum-glaucum]]
-- [[quercus-robur]]
-- [[salix-alba]]

@@ -1,6 +1,6 @@
 ---
-title: Cannabis, Motion Sickness, CB1 Receptors, and Anandamide
-source: The Cannabis Health Index, Uwe Blesching, PhD (North Atlantic Books, 2015)
+title: Blesching Cannabis Motion Sickness Cb1 Anandamide
+source: The [[blesching-cannabis-health-index-autoimmune-conditions]], [[uwe-blesching]], PhD (North Atlantic Books, 2015)
 type: concept
 extracted: 2026-05-10
 tags:
@@ -30,7 +30,7 @@ of travelers experience acute motion sickness.
 ## Cannabis Health Index (CHI) Score
 
 - **Total Studies Reviewed:** 2
-- **Total CHI Value:** 4
+- **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]:** 4
 
 ## Research Evidence
 
@@ -45,7 +45,7 @@ motion-induced vomiting.
 **Key finding:** THC (0.5–10 mg/kg) successfully prevented motion-induced
 vomiting. [[cannabidiol-cbd]], tested across a wide dose range of 0.5 to 40 mg/kg, did
 **not** prevent motion-induced vomiting at any dose. This strongly suggests
-that THC's binding to the [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb1-receptor]] is the critical anti-emetic
+that THC's binding to the [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] is the critical anti-emetic
 mechanism, and that CBD's CB2-favoring profile does not confer the same
 benefit for motion sickness.
 
@@ -61,8 +61,8 @@ findings about the [[endocannabinoid-system-overview]]'s role:
    subjects who became sick but **rose** in subjects who remained well.
 
 This indicates a direct relationship between reduced endocannabinoid activity
-and motion sickness susceptibility. [[Anandamide]], the body's endogenous
-cannabinoid, appears to serve a natural protective role. When the
+and motion sickness susceptibility. [[anandamide]], the body's endogenous
+cannabinoid, appears to serve a [[fukuoka-natural-protective-forests-appendix]] role. When the
 endocannabinoid system is robust and anandamide rises in response to vestibular
 stress, individuals resist motion sickness. When CB1 expression is low and
 anandamide declines, susceptibility increases.
@@ -77,7 +77,7 @@ anandamide declines, susceptibility increases.
 ## Strain Considerations
 
 The cannabinoid studies employed anandamide, CBD, and THC. Anandamide and THC
-bind both [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb1-receptor]] and CB2 with relatively equal affinity, while
+bind both [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] and CB2 with relatively equal affinity, while
 [[cannabidiol-cbd]] tends to favor CB2. Given that the Bradford study showed THC — not CBD
 — prevented motion-induced vomiting, **sativa-dominant strains with a higher
 THC:[[cannabidiol-cbd]] ratio** may be preferable for maximizing CB1 engagement, which is
@@ -88,58 +88,3 @@ vomiting center.
 
 The German study's finding that anandamide — often called the **"bliss
 molecule"** — levels correlate with motion sickness susceptibility bridges the
-physiological and psychological dimensions. Anandamide modulates both nausea
-responses and emotional states including anxiety and fear.
-
-Researchers Grace and Graham, in psychosomatic investigations, proposed that
-**"nausea and vomiting occurred when an individual was thinking of something
-which he wished had never happened."** Their work frames vomiting as a symbolic
-act of **"undoing"** — a psychosomatic rejection of overwhelming experiences.
-The involuntary physiology of motion-induced nausea may reflect a deeper
-response to fear and mismatching experiences beyond one's control.
-
-Aggravating factors for motion sickness include anxiety, fearful anticipation,
-perceived loss of control, emotional distress, and sensory conflict that
-triggers a threat response.
-
-## NASA "Vomit Comet" Research
-
-NASA's parabolic flight program — the "vomit comet" — has provided extensive
-motion sickness data. Roughly **two-thirds** of participants experience nausea
-or vomiting during parabolic flights. Crucially, NASA researchers linked the
-difference between sick and well participants to **anxiety versus excitement**.
-Those who approached the experience with excitement and curiosity were far less
-likely to experience nausea than those who felt anxious about unknown sensations.
-
-This aligns with the German study's anandamide data: adaptive endocannabinoid
-responses (rising anandamide) may correlate with positive emotional states,
-while fear-based responses compounded vestibular stress.
-
-## Therapeutic Implications
-
-These discoveries open significant possibilities for cannabinoid-based
-treatment of motion sickness:
-
-1. **CB1 agonists as anti-emetics:** THC and other CB1-binding cannabinoids
-   target the brainstem's vomiting center through [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb1-receptor]] activation,
-   providing direct anti-emetic action against motion-induced nausea.
-2. **Endocannabinoid system support:** Individuals with lower CB1 expression
-   or blunted anandamide responses may benefit from exogenous cannabinoid
-   supplementation to compensate for endogenous deficiencies.
-3. **Anxiety modulation:** Since anandamide modulates both nausea and emotional
-   responses, cannabinoid therapies may address psychological aggravating
-   factors (anxiety, fear, loss of control) that amplify symptoms.
-4. **Holistic approach:** The most effective intervention may combine
-   physiological treatment (CB1 agonists) with psychological strategies
-   (reframing anxiety as excitement, embracing curiosity, releasing fear).
-
-## See Also
-
-- [[endocannabinoid-system-overview]]
-- [[tetrahydrocannabinol-thc]]
-- [[cannabidiol-cbd]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb1-receptor]]
-- [[blesching-cannabis-gastrointestinal-disorders]]
-- [[blesching-cannabis-ptsd-anxiety]]
-- [[blesching-cannabis-dosing-strategies]]

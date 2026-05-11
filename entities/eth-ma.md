@@ -3,7 +3,7 @@ title: "Eth-Ma"
 type: chemical
 tags:
   - psychedelic
-  - tryptamine
+  - [[tryptamine]]
   - tiikal
   - entactogen
   - serotonin-agonist
@@ -21,7 +21,7 @@ created: 2026-05-07
 
 **Eth-Ma** (N-ethyl-N-methyltryptamine) is a synthetic psychedelic tryptamine and a lesser-known analogue from the Shulgin catalog.
 
-It appears as entry #52 in TIHKAL (*Tryptamines I Have Known and Loved*), where Alexander Shulgin reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
+It appears as entry #52 in TIHKAL (*Tryptamines I Have Known and Loved*), where [[alexander-shulgin]] reports a threshold-level [[leary-psychedelic-experience-bardo-mapping]] at a 15 mg oral dose.
 
 The compound is structurally positioned between DMT (N,N-dimethyltryptamine) and Eth-MiPT, sharing the N-ethyl substituent with several pharmacologically active tryptamines.
 
@@ -36,7 +36,7 @@ Eth-Ma has seen limited research outside the Shulgin investigations, with most a
 - **CAS number:** Not assigned
 - **SMILES:** CCN(C)CCc1c[nH]c2ccccc12
 
-The structure consists of an indole ring linked via a 2-carbon chain to a tertiary amine carrying one methyl and one ethyl substituent.
+The structure consists of an [[indole]] ring linked via a 2-carbon chain to a tertiary amine carrying one methyl and one ethyl substituent.
 
 This substitution pattern places it between DMT (two methyl groups) and N-ethyl-N-propyltryptamine in terms of steric bulk.
 
@@ -84,35 +84,6 @@ A common route involves reacting tryptamine with acetaldehyde to form N-methyltr
 
 Alternative routes include the Leuckart reaction or Eschweiler-Clarke methylation on N-ethyltryptamine.
 
-The synthesis requires moderate organic chemistry skill and is typically performed on small scale for research purposes.
+The synthesis requires moderate [[pericyclic-reactions-organic-chemistry]] skill and is typically performed on small scale for research purposes.
 
 Starting materials are commercially available, though distribution is controlled in many jurisdictions.
-
-## Legal Status
-
-Eth-Ma is not specifically scheduled in most countries due to its obscurity and limited history of recreational use.
-
-In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as a positional isomer of a Schedule I substance, depending on intent.
-
-The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016.
-
-Many EU countries apply generic tryptamine analogue controls that would encompass Eth-Ma.
-
-## Related Compounds
-
-- **DMT** — the fully methylated parent; vastly more potent and shorter-acting, inactive orally without MAOI.
-- **MiPT** — N-methyl-N-isopropyltryptamine; similar potency profile with different character.
-- **Eth-MiPT** — N-ethyl-N-isopropyltryptamine; more potent analogue with longer duration.
-- **4-HO-MET** — the 4-hydroxy-N-methyl-N-ethyltryptamine ("metocin"); significantly more potent and popular.
-- **N-ethyltryptamine** — the monoethylated compound; primarily anxiogenic rather than psychedelic.
-
-The Eth-Ma scaffold has not been extensively explored in medicinal chemistry programs, though N-alkyl tryptamine analogues continue to attract interest as potential antidepressants and anxiolytics.
-
-Several pharmaceutical companies have investigated 5-HT2A partial agonists in the tryptamine class for treatment-resistant depression, though Eth-Ma itself has not entered [[mushroom-cancer-clinical-trials-overview]].
-
-## See Also
-
-- [[4-ho-met]]
-- [[4-ho-mipt]]
-- [[psilocin]]
-- [[lsd]]

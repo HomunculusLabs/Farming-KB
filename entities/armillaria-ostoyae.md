@@ -87,18 +87,3 @@ The genus *Armillaria* contains approximately 10 described species in North Amer
 ## Biochemical Compounds and Secondary Metabolites
 
 *Armillaria ostoyae* produces a range of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] relevant to its [[king-stropharia-ecological-interactions-permaculture]] and pathogenicity:
-
-- **Armillarin and Armillaric Acid:** Sesquiterpene compounds isolated from *Armillaria* species with reported antimicrobial and cytotoxic properties. Armillaric acid is a notable metabolite with potential pharmaceutical interest
-- **Melanin:** Deposited in rhizomorph cell walls, melanin provides mechanical strength, UV protection, and resistance to microbial degradation. Melanized rhizomorphs are more persistent and invasive in soil
-- **Cellulolytic and [[singh-ligninolytic-enzymes-fungal-bioremediation]]:** Produces endoglucanases, cellobiohydrolases, laccases, and manganese peroxidases that enable degradation of both cellulose and lignin components of wood, classifying it as a white rot fungus despite its primary pathogenic lifestyle
-- **Oxalic Acid:** Secreted during wood decay, contributing to demineralization of wood cell walls and creating acidic microenvironments that favor fungal colonization
-- **Volatile Organic Compounds (VOCs):** Emits a characteristic musmalt-extract-agarfruiting bodies, while underground metabolism produces VOCs that may influence soil microbial communities
-
-## Laboratory Methods
-
-Standard methods for working with *A. ostoyae* in research and diagnostics include:
-
-- **Isolation:** Basidiocarp tissue can be placed directly on [[wood-decay-fungi]]
-- forest-pathology
-- Ectomycorrhizas
-- armillaria-gallica

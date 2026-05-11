@@ -23,7 +23,7 @@ Albizia julibrissin, commonly known as the Persian silk tree, pink silk tree, or
 
 In traditional Chinese medicine (TCM), the dried bark (Albiziae Cortex, he huan pi) and flowers (Albiziae Flos, he huan hua) have been used for centuries as sedatives, anxiolytics, and antidepressants. Modern pharmacological research has partially validated these traditional uses through the identification of saponin, flavonoid, and alkaloid constituents.
 
-The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern United States, where it is both appreciated as an ornamental and regarded as an invasive species in some contexts. Its rapid growth, nitrogen-fixing capability, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it a candidate for permaculture and agroforestry applications.
+The tree has become naturalized in many temperate and subtropical regions worldwide, including the southeastern [[dmt-containing-plants-united-states-halpern]], where it is both appreciated as an ornamental and regarded as an invasive species in some contexts. Its rapid growth, nitrogen-fixing capability, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it a candidate for permaculture and agroforestry applications.
 
 The genus name honors Filippo degli Albizzi, an 18th-century Italian nobleman who introduced the species to European horticulture. The specific epithet *julibrissin* is a corruption of the Persian *gul-i-abrisham*, meaning "silk flower."
 
@@ -53,13 +53,13 @@ Several cultivars have been selected for ornamental use. 'Summer Chocolate' feat
 
 A. julibrissin is native to a broad region spanning from Iran through Central Asia to China (Zhejiang, Fujian, Guangdong provinces) and Japan. It occurs naturally in warm-temperate to subtropical deciduous forests, forest margins, and riparian corridors at elevations up to 1,500 m.
 
-The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern United States from New York to Texas, in southern Europe, South Africa, eastern Australia, and parts of South America.
+The species has been widely planted as an ornamental across temperate and subtropical regions worldwide. It is naturalized in the eastern and southeastern United States from New York to Texas, in southern Europe, South Africa, eastern Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
-It thrives in full sun to partial shade on a wide range of well-drained soils, including sandy, loamy, and clay substrates. The tree is drought-tolerant once established and tolerates urban conditions including air pollution and compacted soils, contributing to its popularity as a street and garden tree.
+It thrives in full sun to partial shade on a wide range of well-drained soils, including sandy, loamy, and clay substrates. The tree is drought-tolerant once established and tolerates urban conditions including [[air-pollution-fungal-community-responses]] and compacted soils, contributing to its popularity as a street and garden tree.
 
 In the southeastern United States, A. julibrissin is listed as invasive in several states due to its prolific [[cervantes-seed-production-storage]], rapid growth, and ability to form dense thickets that displace native vegetation. It readily colonizes disturbed sites, roadsides, and forest edges.
 
-Cold tolerance is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
+[[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] is moderate, with hardiness rated to USDA Zone 6b in sheltered locations. However, young trees are susceptible to winter dieback in zones below 7, and the species performs best in regions with warm summers and mild winters.
 
 ## Bioactive Compounds
 
@@ -88,28 +88,3 @@ Neuroprotective effects have been observed in vitro, where julibroside compounds
 Preliminary clinical observations in small Chinese studies suggest that he huan pi decoctions may improve sleep quality in patients with generalized anxiety disorder. However, large-scale randomized controlled trials are lacking, and the evidence remains preclinical.
 
 The bark extract has also shown immunomodulatory properties, with studies demonstrating suppression of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) in LPS-stimulated macrophages. This dual anti-inflammatory and neuroprotective profile aligns with the TCM concept of calming the shen through harmonizing systemic imbalances.
-
-## Permaculture Applications
-
-A. julibrissin functions as a nitrogen-fixing tree through its symbiotic association with rhizobial bacteria (Bradyrhizobium spp.) in root nodules. This capability allows it to improve soil fertility in agroforestry systems, making it a potential nurse tree for companion plantings.
-
-Its rapid growth rate — up to 1–1.5 m per year in favorable conditions — makes it useful for quick establishment of shade, windbreaks, and visual screens. The broad, spreading canopy provides dappled shade suitable for understory crops and livestock.
-
-The flowers are an excellent nectar source for bees and butterflies, supporting pollinator populations in designed ecosystems. The tree's ornamental value also adds aesthetic diversity to permaculture landscapes and food forests.
-
-The wood is soft and not commercially valuable for timber, but it can be used for light construction, tool handles, and fuelwood. Leaf litter decomposes readily, contributing [[hamilton-composting-and-organic-matter-management]] and nitrogen to the soil surface.
-
-Invasive potential must be carefully managed in warm climates. [[vic-high-selfing-and-regular-seed-production]] pod removal, sterile cultivar selection, and avoiding planting near natural areas can mitigate escape risk while still utilizing the tree's nitrogen-fixing and ornamental benefits.
-
-The tree coppices readily, allowing for managed harvest of leaf biomass for mulch or green manure. In silvopastoral systems, the light shade can improve livestock comfort during hot summers while maintaining sufficient light penetration for understory forage production.
-
-## See Also
-
-- [[robinia-pseudoacacia]]
-- [[glycyrrhiza-glabra]]
-- [[astragalus-membranaceus]]
-- tithonia-diversifolia
-- sesbania-grandiflora
-- [[valeriana-officinalis]]
-- [[bacopa-monnieri]]
-- [[schisandra-chinensis]]

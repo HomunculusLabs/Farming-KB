@@ -2,7 +2,7 @@
 
 ## Overview
 
-Rock dust, also called rock powder or stone meal, refers to finely ground rock material applied to soil as a mineral amendment. The practice of soil remineralization through rock dust application aims to restore trace minerals and elements that have been depleted through decades of intensive agriculture, erosion, and leaching. Unlike soluble fertilizers that provide immediately available NPK, rock dust acts as a slow-release source of the full spectrum of elements found in the Earth's crust, mimicking the natural mineralization process that occurs over geological time.
+Rock dust, also called rock powder or stone meal, refers to finely ground rock material applied to soil as a [[azomite-mineral-amendment]]. The practice of soil remineralization through rock dust application aims to restore trace minerals and elements that have been depleted through decades of intensive agriculture, erosion, and leaching. Unlike soluble fertilizers that provide immediately available NPK, rock dust acts as a slow-release source of the full spectrum of elements found in the Earth's crust, mimicking the natural mineralization process that occurs over geological time.
 
 ## Geological Sources of Rock Dust
 
@@ -32,7 +32,7 @@ Rock dust provides both macronutrients and micronutrients that are essential for
 - Sulfur (S): Amino acid synthesis, protein formation
 
 **Micronutrients supplied:**
-- Iron (Fe): Chlorophyll synthesis, electron transport
+- Iron (Fe): Chlorophyll synthesis, [[electron-transport-chain-mitochondrial-respiration]]
 - Manganese (Mn): Photosynthesis, enzyme cofactor
 - Zinc (Zn): Auxin synthesis, enzyme activation
 - Copper (Cu): Lignin synthesis, reproductive development
@@ -44,9 +44,9 @@ Rock dust provides both macronutrients and micronutrients that are essential for
 
 Rock dust minerals become plant-available through several mechanisms:
 
-1. **Chemical weathering**: Carbonic acid formed from CO2 dissolved in water slowly dissolves silicate minerals, releasing cations. This process is accelerated by lower pH and higher temperatures. In healthy soils with active microbial populations, organic acids produced by bacteria and fungi significantly enhance mineral dissolution rates.
+1. **Chemical weathering**: Carbonic acid formed from CO2 dissolved in water slowly dissolves silicate minerals, releasing cations. This process is accelerated by lower pH and higher temperatures. In healthy soils with active microbial populations, organic acids produced by bacteria and fungi significantly enhance [[dighton-fungal-rock-weathering-mineral-dissolution]] rates.
 
-2. **Biological weathering**: Mycorrhizal fungi and free-living soil microorganisms produce organic acids (citric, oxalic, gluconic) that chelate and solubilize mineral cations from rock particles. Certain bacteria, including Pseudomonas and Bacillus species, are particularly effective at solubilizing phosphorus and potassium from mineral sources.
+2. **Biological weathering**: [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] free-living soil microorganisms produce organic acids (citric, oxalic, gluconic) that chelate and solubilize mineral cations from rock particles. Certain bacteria, including Pseudomonas and Bacillus species, are particularly effective at solubilizing phosphorus and potassium from mineral sources.
 
 3. **[[mollison-designers-tropical-soils-and-cation-exchange-management]]**: As minerals weather, released cations are held on clay and organic matter exchange sites, preventing leaching and making them available for root uptake through cation exchange processes.
 
@@ -57,7 +57,7 @@ Rock dust minerals become plant-available through several mechanisms:
 Application rates vary depending on the source material, soil mineral status, and intended crop:
 
 - **General application**: 100-500 kg per hectare (10-50 grams per square meter) annually for maintenance
-- **Deficient soils**: Up to 2,000 kg per hectare for initial correction of severe mineral depletion
+- **Deficient soils**: Up to 2,000 kg per hectare for initial correction of severe [[solomon-soil-mineral-depletion]]
 - **Compost activation**: 5-10% by volume mixed into compost piles to inoculate with minerals
 - **Potting mixes**: 2-5 cups per cubic foot of soil mix
 
@@ -68,7 +68,7 @@ Application rates vary depending on the source material, soil mineral status, an
 
 **Compatibility considerations:**
 - Rock dust is compatible with compost, organic matter, and biological amendments
-- Avoid mixing rock dust with high-nitrogen synthetic fertilizers, as rapid nitrogen release can increase soil acidity and alter [[chelation-microbial-mineral-availability-ingham]]
+- Avoid mixing rock dust with high-nitrogen [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], as rapid nitrogen release can increase soil acidity and alter [[chelation-microbial-mineral-availability-ingham]]
 - In acidic soils, combine with lime to raise pH and enhance mineral solubility
 - In alkaline soils, basalt dust is preferred over limestone-based products
 
@@ -88,38 +88,3 @@ Research on rock dust efficacy shows mixed but generally positive results:
 - **Variable quality**: Mineral content varies enormously between sources and even between batches from the same quarry. Regular mineral analysis is recommended for quality control
 - **Particle size matters**: Finer particles weather faster and provide more immediate benefit, but are more dusty and difficult to handle. A mix of particle sizes provides both immediate and long-term release
 - **Transportation costs**: Rock dust is heavy and bulky. The environmental and economic costs of long-distance transport can negate benefits for distant users. Sourcing locally is strongly preferred
-- **Soil-specific response**: Soils already rich in minerals may show little to no response. Soil testing is essential to avoid unnecessary application
-
-## Rock Dust in Permaculture and Organic Systems
-
-Within [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], rock dust is considered a foundation amendment for soil rehabilitation. It is often applied during the initial establishment phase of food forests, orchards, and broadacre systems. The slow-release nature aligns well with perennial systems where annual fertilizer applications are impractical. Rock dust is frequently combined with biochar, compost, and mulch in sheet-mulching recipes for new garden beds. In organic certification programs, most natural rock dusts are approved as soil amendments.
-
-## Paramagnetic Properties and Soil Energy
-
-Some proponents of rock dust, particularly followers of Philip Callahan's work, emphasize the paramagnetic properties of certain rock dusts. Basalt and other volcanic rocks exhibit paramagnetism — the ability to become weakly magnetized in the presence of a magnetic field. Callahan hypothesized that paramagnetic soils enhance plant growth by concentrating atmospheric electromagnetic energy, particularly in the very low frequency (VLF) range. While this hypothesis remains controversial and is not widely accepted in mainstream soil science, the concept has influenced organic and [[comparison-biodynamic-farming-vs-organic-farming]] practices. Measurable paramagnetic values (using a CGS meter) range from near zero for limestone and sand to over 2,000 for some volcanic basalt deposits.
-
-## Sourcing and Quality Assessment
-
-When selecting a rock dust product, several factors should be evaluated:
-
-- **Mineral analysis**: Request a complete mineral analysis including major elements, trace elements, and heavy metal screening. Avoid products with elevated levels of lead, arsenic, cadmium, or other toxic metals
-- **Particle size distribution**: Look for products with a significant fraction passing through a 200-mesh (75 micron) screen. Finer particles provide greater surface area for weathering and faster nutrient release
-- **Silica content**: Higher silica content indicates greater potential for long-term soil building, as silica is a structural element that improves soil aggregation and plant resistance to disease and stress
-- **Moisture content**: Dry rock dust is easier to handle and apply uniformly. Excess moisture adds shipping weight and can cause clumping during storage
-- **Source verification**: Quarries processing mixed or contaminated materials may produce rock dust unsuitable for agricultural use. Agricultural-grade certification provides some assurance of purity
-
-## Rock Dust and Microbial Communities
-
-Rock dust serves as a habitat and substrate for diverse soil microbial communities. The rough, porous surfaces of mineral particles provide colonization sites for bacteria, actinomycetes, and fungi. Silicate-dissolving bacteria such as Bacillus mucilaginosus and Pseudomonas fluorescens thrive in rock-dust-amended soils, forming biofilms on mineral surfaces and accelerating nutrient release. This synergistic relationship between minerals and microbiology is a key reason why rock dust performs best in biologically active soils with adequate organic matter. Applying rock dust to sterile or compacted soils without addressing biological health first often yields disappointing results.
-
-## Cost-Benefit Analysis
-
-For small-scale growers and home gardeners, rock dust represents a modest investment with long-term returns. At typical application rates of 10-50 kg per 100 square meters, the material cost ranges from $5-30 depending on source and transport distance. When amortized over 3-5 years of benefit, the annual cost is comparable to or less than synthetic micronutrient supplements. For large-scale broadacre operations, the economics become more challenging due to the sheer volume of material required and transportation costs. On-farm sources such as quarry byproducts, gravel pit screenings, or locally available volcanic materials dramatically improve the economic equation.
-
-## Related Topics
-
-- [[biochar-soil-amendment]]
-- [[cation-exchange-capacity]]
-- [[dynamic-accumulator-plants-trace-minerals]]
-- [[soil-testing-and-interpretation]]
-- [[nutrient-cycling-in-soil]]

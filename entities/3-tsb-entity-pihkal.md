@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TSB
 
-PIHKAL entry #176. 3-THIOSYMBESCALINE;.
+[[2c-b-pihkal-entry-20]] #176. 3-THIOSYMBESCALINE;.
 
 ## Chemical Name
 
@@ -88,32 +88,3 @@ C,H. The crude distillate was used in the following reactions.
 
 Several attempts were made to prepare the nitrostyrene from this
 aldehyde and nitromethane. The most successful, but still inadequate,
-procedure is described here. A solution of 1.0 g
-3-ethoxy-5-ethylthio-4-methoxybenzaldehyde in 10 mL nitromethane was
-treated with about 150 mg of anhydrous ammonium acetate and heated on
-the steam bath. The course of the reaction was followed by TLC. The
-bulk of the aldehyde had disappeared in 45 min, and there were several
-UV-absorbing spots visible. Removal of the excess nitromethane under
-vacuum gave an orange oil which, when rubbed under cold MeOH, gave 200
-mg of yellow solids. This was (by TLC) a mixture of nitrostyrene,
-starting aldehyde, and several slow-moving scrudge impurities.
-Recrystallization from MeOH gave a poor recovery of a yellow solid
-with a mp of 102.5-104 deg C but this was still contaminated with the
-same impurities. Several repetitions of this synthetic procedure gave
-little if any of the desired
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[3-t-tris-entity-pihkal]]
-
-- [[3-tasb-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

@@ -8,7 +8,7 @@ tags: [psilocybe, neurotropic-fungi, biogeography, south-america, mesophytic-for
 
 ## Overview
 
-Psilocybe subyungensis is a neurotropic mushroom species belonging to the genus Psilocybe, primarily documented in South American mesophytic forests. The species was discussed by Guzmán, Allen & Gartz (1998) in their comprehensive worldwide distribution survey of neurotropic fungi as an example of the strong biogeographic connections between South American and Mesoamerican mycobiota through mesophytic forest corridors.
+Psilocybe subyungensis is a neurotropic mushroom species belonging to the genus Psilocybe, primarily documented in South American mesophytic forests. The species was discussed by Guzmán, Allen & Gartz (1998) in their comprehensive [[worldwide-distribution-psilocybin-mushrooms]] survey [[distribution-of-neurotropic-fungi]] as an example of the strong biogeographic connections between South American and Mesoamerican mycobiota through mesophytic forest corridors.
 
 ## Taxonomic Classification
 
@@ -35,7 +35,7 @@ Psilocybe subyungensis is primarily known from South America, where it occurs in
 
 ### Mesophytic Forest Corridors
 
-One of the most significant aspects of P. subyungensis's distribution is its occurrence within mesophytic forest corridors that connect South and Central America. Guzmán (1973, 1983) and Guzmán et al. (1988) documented how these corridors serve as pathways for fungal migration between the northern and southern hemispheres:
+One of the most significant aspects of P. subyungensis's distribution is its occurrence within mesophytic forest corridors that connect South and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. Guzmán (1973, 1983) and Guzmán et al. (1988) documented how these corridors serve as pathways for fungal migration between the northern and southern hemispheres:
 
 1. **Northern extension:** P. subyungensis, along with P. yungensis, reached Mexico through mesophytic forests associated with Alnus (alder) trees
 2. **Southern origin:** Both species are originally South American in distribution
@@ -63,20 +63,20 @@ The distribution of P. subyungensis contributes to the broader pattern identifie
 
 ### Americas Mycobiota Connection
 
-P. subyungensis exemplifies the strong biogeographic relationships between South American and Mesoamerican fungal communities. This connection has been documented across multiple genera:
+P. subyungensis exemplifies the strong biogeographic relationships between South American and Mesoamerican [[biodiversity-fungi-soil-fungal-communities]]. This connection has been documented across multiple genera:
 
 - **Cystoagaricus** - shows South America to Southeast Asia connections
 - **Galerina** - widespread but with distinct South American lineages
 - **Mycena** - similar [[guzman-global-distribution-patterns-neurotropic-fungi]] to Psilocybe
 - **Paxillus** - demonstrates comparable north-south connections
 
-The Horak (1983) analysis of agarics and boletes in the South Pacific hemisphere found that South American and Mesoamerican species are closely related to those of Southeastern Asia (New Guinea, Indonesia, and Australia), further supporting the global distribution patterns that include P. subyungensis.
+The Horak (1983) analysis of agarics and boletes in the South Pacific hemisphere found that South American and Mesoamerican species are closely related to those of Southeastern Asia (New Guinea, Indonesia, and Australia), further supporting the global [[fungal-biogeography-distribution-patterns]] that include P. subyungensis.
 
 ### Guzmán's Distribution Analysis
 
 Guzmán (1975a) analyzed the distribution of Pleurotus species to establish the broader framework:
 - P. hirtus (South American) reached Mexico but only in tropical forests
-- P. levis ([[growing-gourmet-north-american-reishi-species]]) reached Mexico in mesophitic/temperate regions
+- P. levis ([[growing-gourmet-north-american-reishi-species]]) reached Mexico in mesophitic/[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 - P. subyungensis (South American) reached Mexico through mesophitic forests with Alnus
 
 This demonstrates that Mexico functions as a conjugation point for both northern and southern mycobiotas, making it one of the most diverse regions for neurotropic fungi globally.
@@ -88,57 +88,3 @@ This demonstrates that Mexico functions as a conjugation point for both northern
 P. subyungensis requires specific ecological conditions found in mesophytic forests:
 
 1. **Moisture:** Consistently high humidity, often in cloud forest settings
-2. **Temperature:** Moderate, without extreme heat or cold
-3. **Substrate:** Likely grows on decaying plant material or in association with specific tree species
-4. **Altitude:** Mid-elevation forest zones where mesophytic conditions prevail
-
-### Symbiotic and Saprotrophic Functions
-
-As with other Psilocybe species, P. subyungensis likely plays roles in:
-- Decomposition of organic matter in forest ecosystems
-- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mesophytic forest environments
-- Potential mycorrhizal associations with forest trees (though this is less common in Psilocybe)
-
-## Conservation and Research Status
-
-### Underexplored Regions
-
-The distribution of P. subyungensis highlights significant gaps in mycological knowledge of South American fungi. Many regions remain poorly explored despite the high biodiversity they likely contain. Areas of particular interest include:
-
-- The Andean cloud forest corridors connecting Colombia, Ecuador, Peru, and Bolivia
-- The Atlantic coastal forests of Brazil
-- Transitional zones between Amazonian and temperate forests in southern South America
-
-### Taxonomic Challenges
-
-As with many Psilocybe species, P. subyungensis faces taxonomic uncertainties:
-- Potential confusion with closely related species (P. yungensis, P. mexicana)
-- Need for modern molecular phylogenetic analysis
-- Limited number of collections and herbarium specimens
-- Geographic variation may indicate cryptic species complexes
-
-## Related Species
-
-Several Psilocybe species share distributional or ecological characteristics with P. subyungensis:
-
-- **P. yungensis** - closely related, same geographic origin and dispersal pattern
-- **P. caerulipes** - northern counterpart found in [[polypore-fungi-eastern-north-america]] American deciduous forests that also reaches northeastern Mexico
-- **P. mexicana** - Section Mexicanae, found in Mexico and Guatemala, related through the broader mesophytic forest connection
-- **P. zapotecorum** - [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]], widely distributed in the Americas, shares similar habitat preferences
-
-## See Also
-
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998|Four Groups of Neurotropic Fungi - Global Distribution]]
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types|Neurotropic Fungi Diversity and Vegetation Types]]
-- [[psilocybe-section-classification|Psilocybe Section Classification]]
-- [[global-distribution-of-neurotropic-fungi|Global Distribution of Neurotropic Fungi]]
-- [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998|Psilocybe semilanceata Worldwide Distribution]]
-
-## References
-
-- Guzmán, G. (1973). Monografía del género Psilocybe. Beih. Nova Hedwigia 74: 1-225
-- Guzmán, G. (1975a). Distribution of Pleurotus in South America. Mycologia
-- Guzmán, G. (1983). The genus Psilocybe: a world monograph. Cramer, Vaduz
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto 14: 189-280
-- Guzmán, G. et al. (1988). Biogeographic relationships of Mesoamerican and South American fungi
-- Horak, E. (1983). Mycogeography in the South Pacific region

@@ -25,14 +25,14 @@ sources:
 Craterellus ignicolor, commonly called the flame chanterelle or flame
 trumpet, is an edible ectomycorrhizal fungus in the family
 Cantharellaceae. It is widely distributed across [[polypore-fungi-eastern-north-america]] America,
-where it fruits in summer and autumn on the forest floor in association
+where it fruits in summer and autumn on the [[fungal-ecology-forest-floor]] in association
 with hardwoods.
 
 The species is distinguished by its bright orange to yellow-orange
 funnel-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], well-developed false gills (ridges) on
 the outer surface, and a smooth, often paler hymenium (spore-bearing
 surface) on the inner surface. It is closely related to *C. tubaeformis*
-(the yellowfoot) but differs in color, stature, and host specificity.
+(the yellowfoot) but differs in color, stature, and [[fungal-endemism-host-specificity]].
 
 ## Taxonomy and Morphology
 
@@ -73,12 +73,12 @@ no change with Melzer's reagent.
 
 ## Distribution and Habitat
 
-C. ignicolor is found across eastern North America, from eastern Canada
+C. ignicolor is found across eastern [[guzman-psilocybin-mushrooms-north-america]], from eastern Canada
 (Québec, Ontario) south to Florida, and west to Minnesota and Texas.
-It is most common in the Appalachian region and the Great Lakes states.
+It is most common in the [[bolete-fungi-appalachian-region]] and the Great Lakes states.
 
 **Habitat:** Ectomycorrhizal, forming associations primarily with oaks
-(*Quercus* spp.) and occasionally with beech (*Fagus grandifolia*),
+(*Quercus* spp.) and occasionally with beech (*[[fagus-grandifolia]]*),
 hickory (*Carya* spp.), and other hardwoods. Found in mixed deciduous
 and oak-hickory forests, often on well-drained sandy or loamy soils.
 
@@ -88,38 +88,3 @@ same locations as other chanterelles (*Cantharellus* spp.) and
 yellowfoots (*C. tubaeformis*).
 
 ## Edibility and Culinary Use
-
-C. ignicolor is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a mild, slightly
-fruity flavor and a firm, waxy texture that holds up well to cooking.
-
-- **Preparation:** Brush clean or rinse briefly; the thin flesh dries
-  quickly so avoid prolonged soaking. Sauté in butter or oil over
-  medium heat for 5–8 minutes.
-- **Flavor profile:** Mild, with subtle apricot notes. Less intensely
-  fruity than golden chanterelles (*C. cibarius*) but more delicate.
-- **Culinary applications:** Sautéed as a side dish, incorporated into
-  risotto, pasta, cream sauces, omelets, and quiches. Pairs well with
-  thyme, cream, poultry, and light meats.
-- **Preservation:** Dries well with minimal flavor loss; reconstitutes
-  readily in warm water or stock. Also freezes well after light sautéing.
-- **Nutritional notes:** Low in calories; good source of potassium,
-  phosphorus, and B vitamins. Contains ergosterol (provitamin D2).
-
-⚠️ **Caution:** As with all [[edible-wild-mushrooms-by-region]], positive identification is
-essential. C. ignicolor is not known to contain toxins, but confusion
-with *Omphalotus olearius* (jack-o'-lantern, which is bioluminescent
-and causes GI distress) should be avoided.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| [[craterellus-tubaeformis]] | Yellowfoot; brown cap, dark stem, grows in fall/winter under conifers; smaller and darker |
-| [[craterellus-odoratus]]
-
-- [[craterellus-tubaeformis]] — Yellowfoot chanterelle, a close
-  relative with different habitat and season
-- [[boletus-edulis-entity]] — Another prized mycorrhizal edible sharing
-  oak forest habitat
-- [[laccaria-laccata]] — Common mycorrhizal associate in the same
-  forest types

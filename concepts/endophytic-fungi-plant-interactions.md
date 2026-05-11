@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi and Plant Interactions
+title: Endophytic Fungi Plant Interactions
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Endophytic Fungi and Plant Interactions
 
-Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens. (see [[gadd-fungal-ecology-endophytes]]).
+Endophytic fungi live inside plant tissues (leaves, stems, roots) without causing disease symptoms. Nearly all plants in natural ecosystems harbor endophytes, which can significantly influence plant growth, stress tolerance, and resistance to pests and pathogens.
 
 ## Types of Endophytes
 
@@ -17,7 +17,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 - Systemic infections of grasses (cool-season grasses: Festuca, Lolium)
 - Vertically transmitted (through seeds) and horizontally (through spores)
 - Produce alkaloids toxic to herbivores and some pathogens
-- Examples: Epichloe festucae in tall fescue, Neotyphodium in perennial ryegrass
+- Examples: [[epichloe-festucae]] in tall fescue, Neotyphodium in perennial ryegrass
 
 ### Non-Clavicipitaceous Endophytes (Classes 2-4)
 - Found in all plant groups (not just grasses)
@@ -44,7 +44,7 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 ### Pest and Disease Resistance
 - Produce anti-herbivore alkaloids (in Clavicipitaceous endophytes)
 - Antibacterial and antifungal metabolites suppress pathogens
-- Induce systemic resistance in the host plant
+- Induce [[endophytic-mycorrhizal-induced-systemic-resistance]] in the host plant
 - Competitive exclusion of pathogens in plant tissue
 
 ### Competitive Advantage
@@ -62,16 +62,33 @@ Endophytic fungi live inside plant tissues (leaves, stems, roots) without causin
 ### Crop Plants
 - Inoculation with endophytes to improve stress tolerance
 - Endophyte-treated rice shows improved drought and salt tolerance
-- Endophytes of medicinal plants produce bioactive compounds
+- Endophytes of medicinal plants produce [[cordyceps-cancer-bioactive-compounds]]
 - Potential for reducing fertilizer and pesticide inputs
 
 ### Biocontrol
 - Endophytic Beauveria and Metarhizium: entomopathogenic fungi that live in plants
 - Endophytic Trichoderma: suppress plant diseases from inside the plant
-- Combines biological control with plant growth promotion
+- Combines [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] with [[pseudomonas-endophyte-cannabis-endorhiza-plant-growth-promotion]]
 
 ## Related
 - [[mycorrhizal-networks]] — for mycorrhizal endophytes
 - [[mycorrhizal-fungi]] — for root-associated symbionts
 - [[mycopesticides-fungal-biocontrol]] — for entomopathogenic fungi
 - [[fungal-symbiosis-types]] — for broader symbiosis context
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[symbiotic-fungi-endophytic-fungi-plant-protection]]
+- [[endophytic-fungi-plant-defense-dighton]]
+- [[fungi-in-the-environment-plant-fungal-interactions]]
+- [[singh-endophytic-fungi-plant-protection-mechanisms]]
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]

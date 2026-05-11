@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
@@ -86,15 +87,3 @@ Poultry on range as weeding mechanisms: if plant species useful to people but no
 Tree-forage systems allow ducks, pigeons, guinea-fowl, and hens to escape into shrubberies or roost in trees. Hens at roost used as "baits" for ground predators with sheds fitted with ground-level live-traps. Large flocks of pigeon in secure, raised lofts are largely immune from predation and may be most useful for "wild" areas.
 
 ## Storage
-
-Stored food from two sources: hard seed pods and seed heads from strawyards; gathered or raked windfalls from walnut, oak, carob, and like trees. Needs: racks, dry shelves, bins, wires for corn cobs, drying floors or pits for acorns and chestnuts, overhead hooks for sunflower heads. Pest-proofing from rats and sparrows essential. A small hammer mill is a great asset.
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 8.
-- Smith, R. Tree Crops: a Permanent Agriculture. Devine-Adair, 1977.
-
-## See Also
-- [[mollison-designers-free-range-forage-design-principles]]
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- [[ceratonia-siliqua]]

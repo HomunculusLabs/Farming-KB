@@ -11,7 +11,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 # Epichloe typhina
 
 **Type:** Species (Fungus)
-**Category:** Clavicipitaceous Grass Endophyte
+**Category:** [[clavicipitaceous-grass-endophytes]] Endophyte
 **Also known as:** Choke disease agent
 
 ## Overview
@@ -20,8 +20,8 @@ systemic, asymptomatic associations with grasses (Poaceae) and is the
 causal agent of choke disease, characterized by the production of
 stromata that surround and suppress the host inflorescence. The species
 represents a key evolutionary transition between mutualistic endophytes
-and pathogenic fungi in grasses. E. typhina has been central to research
-on fungal endophyte biology, including the origin of asexual Neotyphodium
+and [[cordyceps-insect-pathogenic-fungi]] in grasses. E. typhina has been central to research
+on [[fungal-endophyte-colonization-patterns]] biology, including the origin of asexual Neotyphodium
 endophytes through hybridization events with sexual Epichloe species.
 The source text documents the species in the context of endophyte-host
 associations and molecular phylogenetic studies of mitochondrial DNA
@@ -71,7 +71,7 @@ inheritance.
 - Symptomless endophytic colonization provides host grasses
   with enhanced resistance to herbivores, [[dighton-fungal-drought-tolerance-plant-water-relations]],
   and competitive ability
-- Alkaloid production (ergot alkaloids, lolines, peramine)
+- [[mycelial-broth-alkaloid-production]] ([[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]], lolines, peramine)
   deters insect and mammalian herbivory
 - Choke disease results when stromata develop on
   inflorescences, preventing [[cervantes-seed-production-storage]]
@@ -88,56 +88,3 @@ inheritance.
 - This hybridization event gave rise to Neotyphodium
   endophytes with novel combinations of host-specificity
   genes
-- Mitochondrial DNA and plasmid inheritance patterns in
-  E. typhina have been studied by Chung, Leuchtmann, and
-  Schardl (1996)
-- Multiple hybridization events within Epichloe have
-  generated asexual lineages with increased genetic diversity
-
-### Life Cycle
-- Vertically transmitted via infected seeds; hyphae grow
-  into the embryo during seed development
-- Infected plants harbor systemic mycelium in leaf sheaths
-  and stems
-- Under appropriate conditions (often related to flowering
-  induction), stromata form on inflorescences
-- Perithecia on stromata produce ascospores that infect
-  florets of neighboring plants (horizontal transmission)
-- Conidia produced in honeydew on stromata also serve for
-  horizontal dispersal
-
-### Research Methods
-- Molecular phylogenetic analysis using ITS rDNA, beta-
-  tubulin, and translation elongation factor genes
-- Mitochondrial DNA inheritance studies (Chung et al. 1996)
-- [[fungal-microscopic-examination-mounting-media-techniques]] of host tissue for intercellular
-  hyphae
-- Alkaloid profiling using HPLC and GC-MS
-- Staining procedures for analyzing endophytic colonization
-  (Bacon and White 1994)
-
-### Economic Significance
-- Beneficial endophyte associations in turf and forage
-  grasses reduce insecticide and irrigation requirements
-- Choke disease can reduce seed production in [[disposable-tray-casing-method-grass-seed-substrate]]
-  crops
-- Endophyte-infected tall fescue (Festuca arundinacea)
-  causes fescue toxicosis in livestock due to ergot
-  alkaloid production
-
-## Relevance
-Epichloe typhina is a model system for studying the evolutionary
-transition between mutualism and parasitism in [[fungi-in-the-environment-fungal-endophytes-plant-communities]]. The
-hybridization events documented in the source text, which gave rise to
-asexual Neotyphodium lineages, illustrate how fungal endophytes
-generate genetic diversity. Understanding the ecological and
-physiological features of E. typhina is essential for managing
-endophyte-enhanced grasses in agriculture and turf management.
-
-## See Also
-
-- [[epichloe-festucae]]
-
-- [[claviceps-purpurea]]
-- [[trichoderma-viride]]
-- [[botrytis-cinerea]]

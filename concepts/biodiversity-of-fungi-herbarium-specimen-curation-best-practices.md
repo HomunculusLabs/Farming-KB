@@ -6,13 +6,13 @@ concepts: [herbarium, specimen-curation, voucher-specimens, fungal-taxonomy, bio
 
 # Herbarium Specimen Curation
 
-Herbaria serve as **conservatories of voucher specimens** that document the occurrence of fungi at specific places and times. They are indispensable infrastructure for mycological research, providing the physical evidence upon which taxonomic, ecological, and biogeographic conclusions rest. Unlike living culture collections, herbarium specimens capture the morphological state of an organism as it existed in nature — preserving sporulating structures, host associations, and microhabitat context that cannot be reconstructed from cultures alone.
+Herbaria serve as **conservatories of voucher specimens** that document the occurrence of fungi at specific places and times. They are indispensable infrastructure for mycological research, providing the physical evidence upon which taxonomic, ecological, and biogeographic conclusions rest. Unlike living culture collections, [[herbarium-specimens-fungal-collections]] capture the morphological state of an organism as it existed in nature — preserving sporulating structures, host associations, and microhabitat context that cannot be reconstructed from cultures alone.
 
-Chapter 2 of *Biodiversity of Fungi* (Wu, Thiers & Pfister) outlines the principles and practices that ensure herbarium collections remain scientifically valuable and accessible over centuries. This page summarises those best practices and highlights their importance for fungal biodiversity documentation.
+Chapter 2 of *Biodiversity of Fungi* (Wu, Thiers & Pfister) outlines the principles and practices that ensure [[biodiversity-fungal-herbarium-collections]] remain scientifically valuable and accessible over centuries. This page summarises those best practices and highlights their importance for fungal biodiversity documentation.
 
 ## The Urgency of Fungal Documentation
 
-Accelerated deforestation and habitat destruction worldwide are creating an urgent need for **rapid biodiversity inventories**. Fungi — many of which are narrowly endemic or associated with particular host species — are especially vulnerable to habitat loss. Because the vast majority of fungal species remain undescribed, each uncollected population may represent a lineage that will never be documented. Tropical regions, which harbour the highest fungal diversity, are also experiencing the highest rates of forest conversion.
+Accelerated deforestation and habitat destruction worldwide are creating an urgent need for **rapid biodiversity inventories**. Fungi — many of which are narrowly endemic or associated with particular host species — are especially vulnerable to habitat loss. Because the vast majority of fungal species remain undescribed, each uncollected population may represent a lineage that will never be documented. [[fukuoka-natural-farming-in-tropical-regions]], which harbour the highest fungal diversity, are also experiencing the highest rates of forest conversion.
 
 The **Systematics Agenda 2000** initiative set an ambitious goal: to survey and document the global biota within 25 years. Herbaria are central to meeting this goal, as every collected specimen permanently records a data point in space and time that cannot be reconstructed after a habitat disappears. Without herbarium vouchers, biodiversity assessments rest on unverifiable observations that cannot be re-examined as taxonomic concepts change.
 
@@ -27,7 +27,7 @@ Responsible herbaria operate under explicit acquisition policies to ensure that 
 3. **Not already represented** — the taxon or geographic population is underrepresented in the existing collection; redundancy is minimised except for types, morphological variants, and systematically important vouchers.
 4. **Specialist-identified** — the determination has been made or confirmed by a qualified taxonomic expert whose authority is noted on the packet label alongside the date of determination.
 5. **Cited in publication** — the specimen serves as a voucher for a published taxonomic or ecological study, grounding the publication in verifiable physical evidence accessible to future researchers.
-6. **Proper permits** — collection and export were conducted in compliance with all applicable national and international regulations, including the Convention on Biological Diversity and the Nagoya Protocol on access and benefit-sharing.
+6. **Proper permits** — collection and export were conducted in compliance with all applicable national and international regulations, including the [[fungi-convention-on-biological-diversity]] Diversity and the Nagoya Protocol on access and benefit-sharing.
 
 These criteria are not applied rigidly in all cases; newly established herbaria in undercollected regions may accept material more broadly to build baseline representation. Similarly, herbaria with taxonomic or geographic specialisation may apply additional criteria relevant to their collecting mandates.
 
@@ -62,12 +62,12 @@ Long-term preservation requires controlled environmental conditions and active p
 
 ### Facilities
 
-- **Temperature and humidity control** are the first line of defence against fungal growth on specimens and mould on paperwork. Recommended ranges are roughly 18–22 °C and 35–50 % relative humidity, with minimal diurnal fluctuation to prevent repeated expansion and contraction of hygroscopic materials.
+- **[[greg-green-temperature-and-humidity-control]] control** are the first line of defence against fungal growth on specimens and mould on paperwork. Recommended ranges are roughly 18–22 °C and 35–50 % relative humidity, with minimal diurnal fluctuation to prevent repeated expansion and contraction of hygroscopic materials.
 - Air filtration and regular HVAC maintenance prevent the ingress of outdoor spores, dust, and pollutants that accelerate specimen degradation and introduce contaminant organisms into the collection environment.
 
 ### Pest Control
 
-- **Integrated pest management (IPM)** employs monitoring traps, regular inspections, quarantine protocols for incoming material, and environmental controls rather than blanket chemical treatments that may themselves damage specimens.
+- **[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM)** employs monitoring traps, regular inspections, quarantine protocols for incoming material, and environmental controls rather than blanket chemical treatments that may themselves damage specimens.
 - **Insect hormones** (pheromone-based lures) attract and capture specific pests such as cigarette beetles (*Lasioderma serricorne*) and drugstore beetles (*Stegobium paniceum*) before they colonise collections.
 - **Freezing** — cycling specimens through −20 °C or colder for 48–72 hours — is a highly effective, non-chemical treatment for established infestations and is now standard practice at major institutions worldwide.
 
@@ -76,51 +76,14 @@ Long-term preservation requires controlled environmental conditions and active p
 Herbaria are working research collections, not static museums. Several mechanisms facilitate access while protecting physical integrity and ensuring specimens remain available for future study:
 
 - **Outgoing loans** ship duplicated or non-type material to requesting researchers under formal loan agreements specifying care conditions, insurance, and return deadlines. Type specimens are rarely loaned and are increasingly digitised instead to reduce handling risk.
-- **Incoming specimens** (gifts, exchanges, type deposits) are accessioned following the same quality standards applied to newly collected material; each incoming sheet or packet is frozen before integration into the main collection to prevent pest introduction.
+- **Incoming specimens** (gifts, exchanges, type deposits) are accessioned following the same [[aact-compost-quality-standards-ingham]] applied to newly collected material; each incoming sheet or packet is frozen before integration into the main collection to prevent pest introduction.
 - **Herbarium visitors** may study collections on-site; herbaria commonly provide work space, compound microscopes, stereomicroscopes, and reference libraries to support visiting taxonomists and ecologists.
-- **Destructive sampling** for DNA extraction, secondary metabolite analysis, or anatomical sectioning is permitted only with explicit authorisation and requires that a voucher fragment be retained in the packet, documenting what was removed, by whom, and for what purpose.
+- **[[fungal-destructive-sampling-herbarium-dna-extraction]]** for DNA extraction, [[fungal-elicitors-enhanced-secondary-metabolite-production]] analysis, or anatomical sectioning is permitted only with explicit authorisation and requires that a voucher fragment be retained in the packet, documenting what was removed, by whom, and for what purpose.
 
 ## Record Keeping
 
 Each specimen record integrates multiple data elements: precise locality (with coordinates), collector identity and number, collection date, habitat description, substrate, associated organisms, elevation, and taxonomic identification (with determiner name and date). These records serve critical functions across multiple research programmes:
 
 - **Taxonomic studies** — comparison of morphological variation across geographic ranges and host associations to delimit species, genera, and higher taxa.
-- **Ecological studies** — correlating fungal occurrence with host plants, soil types, successional stage, and environmental gradients to understand community assembly and functional roles.
+- **[[mycorrhiza-bioassays-ecological-studies]]** — correlating fungal occurrence with host plants, soil types, successional stage, and [[fungal-adaptations-environmental-gradients]] to understand [[biodiversity-fungal-community-assembly]] and functional roles.
 - **Distributional studies** — mapping species ranges, identifying disjunctions, and tracking range shifts over time in response to climate change or land-use conversion.
-
-Well-maintained specimen records transform individual vouchers into a distributed, community-wide database of fungal occurrence.
-
-## Electronic Specimen Catalogues
-
-Digitisation transforms herbarium records from local, paper-bound resources into globally accessible data. The transition from card catalogues to relational databases and web portals has fundamentally changed how fungal biodiversity data are discovered, analysed, and shared.
-
-### Elements
-
-- **Digital records** capture the full set of specimen metadata in structured, searchable databases that can be exported in standard interchange formats such as Darwin Core Archive.
-- **Images** — macroscopic field photographs, microscopic preparations, and high-resolution label scans — complement physical access and reduce handling of fragile material.
-
-### Functions
-
-- **Search and comparison** — researchers can query by taxon, geography, collector, date, or habitat across entire collections and across institutions simultaneously, enabling analyses impossible with physical visits alone.
-- **Online access** through aggregated portals such as GBIF, MycoPortal, and iDigBio enables distribution mapping and biodiversity analysis at continental and global scales, supporting conservation prioritisation and policy development.
-
-### Digitisation Process
-
-The digitisation workflow typically involves several stages: (1) label transcription or data entry from existing records, (2) georeferencing of locality descriptions that lack coordinates, (3) imaging of packets, slides, and specimens, and (4) quality review and publication to online portals. Volunteer and citizen-science programmes have accelerated transcription at many institutions, though expert review remains essential for taxonomic fields.
-
-### Concerns
-
-- **Data quality** — transcription errors, incomplete records, georeferencing inaccuracies, and outdated nomenclature can propagate if databases are not actively curated and updated.
-- **Standardisation** — interoperability between institutions requires consistent use of controlled vocabularies (Darwin Core, ABCD) and geospatial reference systems, along with community agreement on data fields and formats.
-
----
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-
-## See Also
-
-- [[biodiversity-of-fungi-fungal-culture-preservation-techniques]]
-- [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
-
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

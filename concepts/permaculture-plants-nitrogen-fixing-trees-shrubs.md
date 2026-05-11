@@ -88,37 +88,3 @@ native to Australia:
   250mm and saline conditions.
 
 ## Nitrogen Fixation and Soil Building
-
-Nugent and Boniface document several mechanisms by which nitrogen fixers build soil:
-
-1. **Leaf litter deposition**: Regular cycling of nitrogen-rich leaves adds organic
-   matter and nutrients to soil surface
-2. **Root exudation**: Nitrogen compounds released from roots benefit adjacent
-   plants within the root zone
-3. **Green manure**: Cutting nitrogen fixers for mulch around crop trees
-   concentrates nitrogen where needed
-4. **Rotation cropping**: Indonesian A. mearnsii rotation doubles subsequent crop
-   yields through green manure effects
-5. **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Crop trees within 1m of tagasaste consistently outperform
-   controls without tagasaste
-
-## Design Integration
-
-Nitrogen fixers should be integrated throughout a Permaculture design:
-
-- As pioneer/nurse trees establishing conditions for longer-term species
-- As interplanted companions within orchards and food forests
-- In windbreaks and shelterbelts providing multiple functions
-- In fodder systems providing protein-rich browse for livestock
-- In degraded land restoration accelerating soil recovery
-- In bee forage systems providing both nectar and pollen
-
-The key principle is that nitrogen fixers are not merely support plants—they are
-foundational elements that enable the entire system to function without imported
-fertility.
-
-## See Also
-
-- [[permaculture-plants-pioneer-nurse-trees]]
-- [[gaias-garden-soil-food-web-living-soil]]
-- [[ozier-pdc-composting-and-soil-building]]

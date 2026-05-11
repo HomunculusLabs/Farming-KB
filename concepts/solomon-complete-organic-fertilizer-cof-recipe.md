@@ -1,7 +1,7 @@
 ---
-title: Solomon's [[complete-organic-fertilizer-cof]] Fertilizer (COF) Recipe
+title: Solomon Complete Organic Fertilizer Cof Recipe
 source: gardening-when-it-counts-steve-solomon.md
-source_author: Steve Solomon
+source_author: [[steve-solomon]]
 tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solomon, gardening]
 ---
 
@@ -11,13 +11,13 @@ tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solo
 
 Steve Solomon's Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
 designed to provide balanced plant nutrition for [[maintaining-organic-matter-in-vegetable-gardens]]. Developed through
-decades of gardening experience and seed company [[coleman-seed-selection-and-variety-trials]], COF addresses the
+decades of gardening experience and [[seed-company-supplier-reference]] [[coleman-seed-selection-and-variety-trials]], COF addresses the
 nutritional gaps left by manure and compost alone. Solomon considers COF far superior to
-relying solely on organic matter for crop nutrition.
+relying solely on [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] for crop nutrition.
 
 ## The Problem with Manure and Compost Alone
 
-Many organic gardeners rely primarily on manure and compost for soil fertility. While
+Many [[soil-food-web-and-building-living-soil]] rely primarily on manure and compost for soil fertility. While
 these materials [[query-how-do-fungi-improve-soil-structure]] and feed soil microbes, they often fail to provide
 adequate mineral nutrition for demanding vegetable crops. Manure, particularly the sacked
 steer manure commonly sold at supermarkets, may contain semi-decomposed sawdust and usually
@@ -88,22 +88,3 @@ with organic matter improves soil structure, enhancing both nutrition and aerati
 ## Economic Considerations
 
 Solomon frames the economics compellingly: spending five or ten cents to grow a dollar's
-worth of food seems entirely reasonable. COF is made from [[agricultural-waste-substrates]] products
-and crushed rock minerals, making it inexpensive relative to its nutritional value.
-For gardeners with limited budgets, COF provides the most nutritional bang per dollar
-spent on soil amendments.
-
-## Context of Hard Times
-
-COF was developed with the coming hard times in mind. [[cannabis-chemical-fertilizers]] and many
-organic ones are made with petroleum or natural gas and will become increasingly
-expensive. COF provides a sustainable, petroleum-independent approach to maintaining
-soil fertility that will remain accessible even as conventional fertilizer costs rise
-with energy prices.
-
-## See Also
-
-- clay soil management organic amendments solomon
-- vegetable demand classification fertility requirements solomon
-- garden self sufficiency space requirements hard times solomon
-- seed saving and varietal selection solomon

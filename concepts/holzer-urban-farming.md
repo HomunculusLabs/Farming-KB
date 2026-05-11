@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Permaculture in Small Spaces
 
@@ -86,15 +87,3 @@ For areas where soil cannot be replaced (deep contamination, concrete):
 - Use imported uncontaminated soil
 - The "bypass" means plants never contact the polluted substrate
 - This allows food production in virtually any urban location
-
-## See Also
-
-- [[holzer-problem-plant-regulation-with-livestock]]
-- [[holzer-water-power-hydraulic-ram]]
-- [[holzer-catch-crop-and-polyculture-design]]
-- [[holzer-crater-garden-design]]
-
-- [[holzer-balcony-garden]]
-- [[raised-bed-gardening]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[cover-crops-soil-health]]

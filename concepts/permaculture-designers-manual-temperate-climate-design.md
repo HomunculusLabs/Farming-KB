@@ -1,5 +1,5 @@
 ---
-title: permaculture designers manual temperate climate design Design Strategies
+title: Permaculture Designers Manual Temperate Climate Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-The temperate zones (Zones 5-9 on the Koeppen scale) include mixed forests, cool prairies, broadleaf deciduous forests, and arid grasslands. Design for temperate regions must account for distinct seasonal changes, frost risk, and variable precipitation.
+The temperate zones (Zones 5-9 on the Koeppen scale) include mixed forests, cool prairies, broadleaf deciduous forests, and arid grasslands. Design for [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] must account for distinct seasonal changes, frost risk, and variable precipitation.
 
 A principle to observe: avoid introducing temperate (European) techniques and species to tropical and arid lands on any large scale. Conversely, true tropical plants can stand much higher levels of solar radiation, temperature, and humidity than temperate plants.
 
@@ -53,7 +53,7 @@ No region suits berry production as the cool humid climates. Berries occupy nich
 - **Hawk kites**: tethered predator kites above crops at critical ripening periods
 
 ### Greenhouse Systems
-The cool temperate climates are where greenhouses are most commonly used:
+The cool [[fukuoka-natural-farming-temperate-climates]] are where greenhouses are most commonly used:
 - 70-90% of crop cost is artificial heating; insulation essential
 - Poleward walls and roof can be solid insulated
 - Water tanks or drums as heat mass (some can be fish ponds)
@@ -67,11 +67,11 @@ The cool temperate climates are where greenhouses are most commonly used:
 ### Shelter Trees
 - **Tagasaste**: 1 m x 2 m spacing, yields up to 7 m of mulch trimmings per annum; sheep forage
 - **Matsudana willow**: strict windbreak for kiwifruit
-- **Autumn olive (Elaeagnus umbellata)**: turkey forage, berry production, nitrogen fixer
+- **Autumn olive ([[elaeagnus-umbellata]])**: turkey forage, berry production, nitrogen fixer
 - **Lycium ferocissimum**: hedge with hops or passionfruit trained through
 
 ### Fruit Systems
-- Bramble and cane thickets protect and nourish young fruit trees
+- [[bramble-and-cane-fruit-cultivation]] thickets protect and nourish young fruit trees
 - Oak, chestnut, plum, apple, and birch thrive in berry thicket succession
 - As trees age and brambles are shaded out, hoofed animals eat fallen fruit
 - Cage walls [[cervantes-plant-support-trellis-stakes-cages]] of bramble fruits (youngberry, boysenberry)
@@ -88,16 +88,3 @@ Primary tall windbreak of Araucaria, Cupressus, Casuarina, Pinus, hardy Phoenix 
 
 ### Erosion Control
 Contours at 10 m on medium slopes (2-7 degrees) and at 5 m on steep slopes, planted with Canna, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], lemongrass, or pampas grass at 0.3-0.6 m spacing.
-
-### Grassland Rehabilitation
-Sod seeding with clover (0.7 kg/ha), trace elements, and water-retaining gels. Coastal pasture establishment without ploughing to prevent Juncus/rush spread.
-
-## Related
-
-- [[permaculture-designers-manual-island-climate]] Topics
-
-- permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] temperate climate design - Temperate climate overview
-- permaculture-designers-manual-greenhouse-design - Greenhouse systems
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] - Guild design
-- [[permaculture-designers-manual-cold-climate-greenhouse]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

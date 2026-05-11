@@ -1,5 +1,5 @@
 ---
-title: [[comparison-mead-making-vs-beer-brewing]] vs kvass fermented beverages — Fermented Honey vs Fermented Bread Beverages
+title: Comparison Mead Vs Kvass Fermented Beverages
 tags:
   - mead
   - kvass

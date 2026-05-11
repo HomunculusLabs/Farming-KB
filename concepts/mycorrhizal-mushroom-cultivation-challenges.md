@@ -88,24 +88,3 @@ sexually reproductive fruiting bodies. Maintaining genetic diversity
 in cultivated strains through periodic outcrossing or collection of
 new wild isolates is important for preventing senescence-related
 declines in productivity.
-
-## Truffle Cultivation: A Notable Success
-
-Truffles represent the most significant exception to the rule that
-mycorrhizal mushrooms cannot be commercially cultivated. European
-black truffle (Tuber melanosporum) cultivation has been practiced
-since the 1800s, using inoculated seedling plantings. The method
-involves germinating host tree seeds (typically hazelnut or oak),
-inoculating seedling roots with truffle spores under controlled
-conditions, growing the mycorrhizal seedlings in a nursery for one
-to two years, and outplanting them to suitable field sites. With
-proper site selection (calcareous, well-drained soils), tree
-management, and patience, truffle production can begin 5-15 years
-after planting and continue for decades. This model may eventually
-be adapted to other mycorrhizal species, but each presents unique
-challenges.
-
-## See Also
-- [[mycorrhizal-fungi-diversity-ecology-mutualism]]
-- [[outdoor-mushroom-cultivation]]
-- [[mycorrhizal-edible-mushroom-species-overview]]

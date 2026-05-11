@@ -6,10 +6,11 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Sepp Holzer Terracing and Hugelkultur
 
-Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in the Austrian Alps. His methods include terracing steep slopes, creating hugelkultur beds, and integrating animals and water systems. His approach emphasizes observation, working with nature, and creating self-sustaining systems.
+Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in the Austrian Alps. His methods include terracing steep slopes, creating [[hugelkultur-beds]], and integrating animals and water systems. His approach emphasizes observation, working with nature, and creating self-sustaining systems.
 
 ## Hugelkultur
 
@@ -37,15 +38,15 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 
 ### Benefits
 - **Water retention**: Wood acts like a sponge, absorbing and slowly releasing water. Hugel beds can go weeks without watering
-- **Soil warming**: Decomposing wood generates heat, extending the growing season
-- **Nutrient release**: Wood decomposition provides slow-release nutrients for 10-20 years
-- **Soil building**: Fungal decomposition creates humus, improving soil structure
+- **Soil warming**: Decomposing wood generates heat, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
+- **[[solomon-cool-climate-compost-soil-temperature-nutrient-release]]**: [[fungal-wood-decomposition-spatial-variation]] provides slow-release nutrients for 10-20 years
+- **Soil building**: [[dighton-fungal-decomposition-leaf-litter-dynamics]] creates humus, improving soil structure
 - **Raised bed advantages**: Better drainage, no compaction, extended growing season
 - **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Buried wood stores carbon long-term
 - **Uses "waste" material**: Fallen trees, branches, brush piles
 
 ### Variations
-- **[[natfarm-hugelkultur-raised-beds]] bed**: 3-6 ft tall, rectangular, for vegetable gardens
+- **[[natfarm-hugelkultur-raised-beds]] bed**: 3-6 ft tall, rectangular, [[soil-ph-management-for-vegetable-gardens]]
 - **Hugelkultur swale**: Hugel bed on contour, intercepting water runoff
 - **Hugelkultur terrace**: Mound built into a slope, creating a level growing area
 - **Crater garden**: Sunken center with hugel mound rim (Holzer's variation for arid climates)
@@ -87,18 +88,3 @@ Sepp Holzer, the "Agri-Rebel" of Austria, farms 110 acres at 1,500m elevation in
 - **Upper edge (berm)**: Fruit trees, nitrogen fixers, deep-rooted plants
 - **Terrace face**: Ground covers, herbs, trailing plants (strawberry, thyme)
 - **Terrace floor**: Vegetables, grains, pasture
-- **Lower edge**: Deep-rooted plants to stabilize (comfrey, vetiver, fruit trees)
-
-### Water Management on Terraces
-- Each terrace has a slight level area that holds water
-- Swales or [[mollison-designers-diversion-drains-and-interceptor-banks]] direct water to each terrace
-- Excess water flows to the next terrace below
-- Ponds at intervals for water storage and microclimate
-
-## Related
-
-- [[sepp-holzer-earth-cellars-and-philosophy]]
-- [[permaculture-slope-analysis-and-reading]] — for [[mollison-designers-slope-analysis-keyline-design]]
-- sepp-holzer-livestock-integration — for Holzer's [[mollison-animal-integration-permaculture-design]]
-- faires-hugelkultur-and-soil-building
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]

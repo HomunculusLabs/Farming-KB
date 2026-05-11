@@ -14,14 +14,14 @@ tags:
   - medicinal-plant
   - anti-inflammatory
   - nootropic
-  - permaculture
+  - [[permaculture]]
   - root-medicine
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zhou, L. et al. (2005). "Salvianolic acid B protects against ischemia." Cardiovascular Drug Reviews, 23(1), 71-82.
   - Cheng, T.O. (2006). "Danshen: what every cardiologist should know." International Journal of Cardiology, 110(3), 411-412.
-  - Wang, X. & Morris-Natschke, S.L. (2007). "New developments in Chinese herbal medicine." Natural Product Reports, 24, 1-13.
+  - Wang, X. & Morris-Natschke, S.L. (2007). "New developments in Chinese [[childrens-herbal-medicine]]." Natural Product Reports, 24, 1-13.
   - Li, L.N. (1998). "Biologically active components from traditional Chinese medicines." Pure and Applied Chemistry, 70(3), 547-554.
 ---
 
@@ -30,7 +30,7 @@ sources:
 **Salvia miltiorrhiza**, commonly known as **danshen** (丹参) or Chinese sage,
 is a perennial flowering plant in the family Lamiaceae. One of the most
 important herbs in Traditional Chinese Medicine (TCM), it has been used
-for over 2,000 years to treat cardiovascular disorders, liver conditions,
+for over 2,000 years to treat cardiovascular disorders, [[cannabis-for-hepatitis-and-liver-conditions]],
 and inflammation. The dried root is the primary medicinal part, valued
 for its unique diterpenoid quinones (tanshinones) and water-soluble
 phenolic acids (salvianolic acids).
@@ -80,67 +80,10 @@ classes with distinct chemical properties and therapeutic roles:
 
 - **Tanshinone IIA:** The most studied diterpenoid quinone; cardioprotective,
   anti-angiogenic, and anti-inflammatory. Used as the reference marker
-  for quality control in Chinese Pharmacopoeia
+  for [[blesching-cannabis-contaminants-testing-quality-control]] in Chinese Pharmacopoeia
 - **Tanshinone I:** Cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines;
   contributes to antimicrobial effects
 - **Cryptotanshinone:** Precursor to tanshinone IIA; anti-inflammatory
   and anti-coagulant activity
 - **Dihydrotanshinone I:** Anti-HIV and antibacterial activity,
   especially against Gram-positive bacteria
-
-### Hydrophilic Salvianolic Acids
-
-- **Salvianolic acid B:** The most abundant phenolic acid; potent
-  antioxidant (15–20× stronger than vitamin E), protects endothelial
-  cells, inhibits platelet aggregation
-- **Salvianolic acid A:** Strongest antioxidant among salvianolic acids;
-  neuroprotective in ischemia models
-- **Rosmarinic acid:** Anti-inflammatory, antiviral; contributes to
-  the herb's overall antioxidant capacity
-- **Protocatechualdehyde:** Vasodilatory and anti-platelet effects
-
-## Pharmacology and Clinical Applications
-
-Danshen is one of the most clinically researched TCM herbs, with
-substantial evidence supporting several applications:
-
-- **Cardiovascular disease:** Tanshinone IIA and salvianolic acid B
-  improve coronary blood flow, reduce myocardial ischemia, inhibit
-  platelet aggregation, and protect against atherosclerosis. Danshen
-  injections and tablets are approved pharmaceuticals in China
-- **Angina pectoris:** Compound danshen dripping pills (Fufang Danshen
-  Diwan) are among the top-selling cardiovascular drugs in China,
-  validated in multiple RCTs
-- **Cerebrovascular protection:** Salvianolic acids reduce infarct size
-  in ischemic stroke models and improve neurological outcomes
-- **Hepatoprotection:** Tanshinones protect hepatocytes from CCl₄-induced
-  injury and reduce liver fibrosis
-- **Anti-cancer potential:** Tanshinone IIA induces apoptosis in breast,
-  prostate, and [[lentinan-gastric-cancer-combination-therapy]] cell lines; in early-phase [[mushroom-cancer-clinical-trials-overview]]
-
-## Cultivation and Permaculture Applications
-
-- **Propagation:** Seed (stratification required) or root division;
-  division preferred for uniform quality
-- **Planting:** Autumn sowing or spring transplanting; spacing 30 × 40 cm
-- **Harvest:** Roots dug after 2–3 years of growth; highest tanshinone
-  content in autumn (October–November)
-- **Yield:** 200–300 kg dry root per mu (~0.07 ha) under good conditions
-- **Permaculture role:** Deep taproot breaks compacted subsoil; flowers
-  attract pollinators; aromatic foliage may deter some pests. Compatible
-  with partial shade intercropping under [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-
-## Safety and Contraindications
-
-Generally well-tolerated at therapeutic doses. Key cautions include:
-
-- **Anticoagulant interaction:** Danshen potentiates warfarin and
-  antiplatelet drugs; increased bleeding risk
-- **Pregnancy:** Contraindicated in TCM practice due to blood-moving
-  properties; may stimulate uterine contractions
-- **Digoxin interaction:** May increase digoxin plasma levels
-- **Hypotension:** May lower blood pressure; caution with antihypertensives
-
-- [[astragalus-membranaceus]]
-- [[salvia-officinalis]]
-- [[ganoderma-lucidum]]

@@ -88,27 +88,3 @@ Indigenous Amazonian peoples distinguish multiple cultivar types based on tuber 
 The species was first described to European science by Humboldt and Bonpland during their 1799–1804 expedition to South America. Despite early recognition of its potential, it never achieved the international commercial success of its relative P. erosus (jícama), partly due to the longer growing season and higher fiber content.
 
 ## Permaculture and Agroforestry Applications
-
-P. tuberosus is exceptionally well-suited to tropical permaculture systems due to its multiple yields and ecological functions. As a nitrogen-fixing climber, it can be integrated into food forest designs as a productive vine layer growing on support trees such as Inga, Gliricidia, or Leucaena species.
-
-The species serves several permaculture functions simultaneously: nitrogen fixation, [[dighton-fungal-biomass-production-aquatic-ecosystems]], soil improvement through deep root penetration, edible tuber yield, and ground cover when allowed to sprawl. In a seven-layer food forest model, P. tuberosus occupies the vine layer while contributing to the root zone and soil layers.
-
-Agroforestry trials in Brazil, Peru, and West Africa have demonstrated successful integration with cocoa, coffee, banana, and timber tree systems. The vine provides shade regulation during establishment, nitrogen inputs to companion trees, and a supplementary root crop harvest. Establishment costs are low as the species readily establishes from direct seeding.
-
-## Pests, Diseases, and Limitations
-
-P. tuberosus is relatively pest-resistant compared to other root crops. The most significant insect pest is the bean weevil (Callosobruchus spp.), which attacks stored seeds rather than tubers. Root-knot nematodes (Meloidogyne spp.) can cause galling on tubers in infested soils, reducing yield and market quality.
-
-Fungal diseases include anthracnose (Colletotrichum spp.) on foliage and root rot caused by Fusarium and Pythium species in waterlogged conditions. Good drainage and crop rotation minimize disease pressure. The species shows good tolerance to the major cassava diseases affecting the related Manihot esculenta.
-
-Primary limitations for wider adoption include the long growing season (8–14 months), which restricts cultivation to continuously frost-free tropical areas. Tuber fiber content is higher than P. erosus, reducing market acceptance in some regions. Lack of improved cultivars and seed availability outside the native range also limits dissemination.
-
-## See Also
-
-- [[lathyrus-tuberosus]]
-- [[canavalia-ensiformis]]
-- dioclea grandiflora
-- arachis hypogaea
-- [[moringa-oleifera]]
-- [[stropharia-rugosoannulata]]
-- [[pisolithus-tinctorius]]

@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Falk, B. (2013). The Resilient Farm and Homestead: An Innovative Permaculture and Whole Systems Design Approach. Chelsea Green Publishing."
   - "Falk, B. (2019). The Resilient Farm and Homestead, Revised and Expanded Edition. Chelsea Green Publishing."
   - "Falk, B. (2021). \"Adaptive Land Use in a Changing Climate.\" bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Magazine, 98, 22-29."
@@ -86,18 +87,3 @@ literature.
   remediation and food production
 - **[[eric-toensmeier|Eric Toensmeier]]:** Perennial vegetable systems for
   cold climates
-
-## Selected Publications and Media
-
-- *The Resilient Farm and Homestead* (Chelsea Green, 2013)
-- *The Resilient Farm and Homestead, Revised and Expanded* (Chelsea Green,
-  2019)
-- Numerous articles in Permaculture Design Magazine
-- Featured in documentary films on homesteading and regenerative agriculture
-- Active speaker at permaculture and farming conferences
-
-## See Also
-
-- [[bill-mollison]] — Co-originator of permaculture design framework
-- [[hugelkultur]] — Core technique featured extensively in Falk's work
-- [[eric-toensmeier]] — Perennial polyculture specialist; cold-climate focus

@@ -1,5 +1,5 @@
 ---
-title: Fungal [[dighton-fungal-decomposition-leaf-litter-dynamics]] succession [[fungal-decomposition-resource-quality-determinants]] and fungal-decomposition-resource-quality-determinants
+title: Fungal Decomposition Succession Resource Quality
 created: 2026-04-14
 updated: 2026-04-14
 type: concept

@@ -27,7 +27,7 @@ sources:
   - Okano K, Fukamiya N, Okutani K, et al. (1990). "Structures of
     New Quassinoids from Picrasma quassioides." Chemical &
     Pharmaceutical Bulletin 38(5): 1372-1375.
-  - Zhu YP (1998). Chinese Materia Medica: Chemistry, Pharmacology
+  - Zhu YP (1998). Chinese [[herbal-materia-medica]]: Chemistry, Pharmacology
     and Applications. CRC Press, Boca Raton.
   - http://www.worldfloraonline.org/taxon/wfo-0000542263
   - Lee IS, Nishikawa M, Iinuma M (1995). "Quassinoids from the
@@ -36,16 +36,16 @@ sources:
 
 ## Overview
 
-picrasma quassioides es]] es]] is a deciduous tree in the family Simaroubaceae,
-native to East Asia. It is one of the principal sources of quassinoids,
+picrasma quassioides es es is a deciduous tree in the family Simaroubaceae,
+native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. It is one of the principal sources of quassinoids,
 a class of highly bitter triterpenoid lactones with diverse
 pharmacological activities including anti-inflammatory, antimalarial,
 and antitumor properties.
 
 The species has a long history of use in traditional Chinese medicine
 (TCM) and Japanese Kampo medicine, where the bark and wood are prepared
-as decoctions for gastrointestinal disorders, infections, and fever. Its
-extreme bitterness has also earned it use as a natural insecticide and
+as decoctions for [[blesching-cannabis-gastrointestinal-disorders]], infections, and fever. Its
+extreme bitterness has also earned it use as a [[mollison-designers-neem-tree-as-natural-insecticide]] and
 bittering agent.
 
 ## Taxonomy and Morphology
@@ -67,7 +67,7 @@ lighter below, turning yellow in autumn.
 
 Flowers are small, greenish-yellow, arranged in axillary panicles
 appearing in May–June. The fruit is a drupe, 5–8 mm in diameter, blue-
-black when ripe, containing a single seed.
+black when ripe, containing a [[cervantes-selfing-single-seed-descent]].
 
 ## Distribution and Habitat
 
@@ -77,7 +77,7 @@ elevations of 500–2,000 meters.
 
 The species grows in mixed deciduous forests, forest margins, and along
 stream banks. It prefers well-drained, slightly acidic soils and is
-hardy to USDA Zone 6. Natural regeneration occurs through seed dispersal
+hardy to USDA Zone 6. Natural regeneration occurs through [[clay-pellet-seed-dispersal]]
 and root suckering.
 
 ## Bioactive Compounds
@@ -88,55 +88,3 @@ degraded triterpenoid lactones exclusive to the Simaroubaceae family. Over
 neoquassin, picrasin, and nigakilactone.
 
 Major bioactive quassinoids include nigakilactone A, B, C, D, H, and J,
-which demonstrate significant anti-inflammatory activity by inhibiting
-NF-κB signaling and COX-2 expression. Picrasidine I and II show
-antimicrobial activity against Gram-positive bacteria and Candida species.
-
-Additional constituents include β-carboline alkaloids (canthin-6-one and
-derivatives), phenolic acids, and flavonoids. Canthin-6-one exhibits
-antitumor activity through induction of apoptosis and cell cycle arrest
-in multiple cancer cell lines.
-
-The total quassinoid content varies by plant part: bark (3–5%) > wood
-(1–3%) > roots (0.5–2%) > leaves (trace). Seasonal variation peaks
-during active growth in summer months.
-
-## Traditional and Modern Pharmacology
-
-In TCM, the bark and wood (苦木, kumu) are classified as bitter, cold,
-and toxic. Traditional indications include treatment of dysentery,
-gastroenteritis, eczema, snakebite, and upper respiratory infections. The
-standard decoction uses 3–9 g of dried bark.
-
-In Kampo medicine, extracts are used in formulas for gastrointestinal
-disorders and as a bitter digestive tonic. The extreme bitterness
-stimulates gastric acid secretion and bile production.
-
-Modern pharmacological studies have validated several traditional uses.
-Anti-inflammatory activity has been demonstrated in carrageenan-induced
-paw edema and LPS-stimulated macrophage models. Antimalarial screening
-identified several quassinoids with in vitro activity against Plasmodium
-falciparum.
-
-Antitumor research shows promising results in preclinical models.
-Clinical trials remain limited to in vitro and animal studies.
-
-## [[agroforestry]] Applications
-
-P. quassioides has several applications in designed ecosystems. The wood
-and bark can be processed into natural insecticides and antifeedants for
-crop protection, offering an alternative to synthetic pesticides. The
-bitter extracts [[det]] er herbivorous insects without harming beneficial
-pollinators.
-
-As a nitrogen-fixing associate and soil-stabilizing tree, it contributes
-to slope stabilization and riparian buffer zones. The dense canopy
-provides shade for understory crops, and the autumn leaf fall contributes
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] for more on Query How Do I Use Knf Inputs Through The Plant Growth Cycle.
-
-## See Also
-
-- mollison-native-seed-forage-systems-and-arid-species-lists
-- [[teaming-with-microbes-old-growth-forest]]

@@ -7,6 +7,7 @@ tags: [aquaponics, aquaculture, permaculture, hydroponics, fish-farming,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - aquaponics
   - aquaponics-guide
   - aquaponics-fish-species

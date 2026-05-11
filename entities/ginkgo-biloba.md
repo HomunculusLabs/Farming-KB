@@ -1,5 +1,5 @@
 ---
-title: Ginkgo biloba
+title: Ginkgo Biloba
 type: species
 tags:
   - herbal-plant
@@ -73,12 +73,12 @@ The species is native to a small area in the mountains of eastern China:
 
 ### Cultivated Distribution
 
-Ginkgo has been widely planted as an ornamental tree across temperate regions worldwide:
+Ginkgo has been widely planted as an ornamental tree across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide:
 
-- East Asia (China, Japan, Korea) — thousands of years of cultivation
+- [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea) — thousands of years of cultivation
 - Europe — introduced circa 1730
 - [[psilocybin-north-america-pacific-northwest]] — introduced circa 1784
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] — planted as ornamental in Australia, New Zealand, South America
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] — planted as ornamental in Australia, New Zealand, [[guzman-psilocybin-mushrooms-south-america]]
 
 ### Ecological Resilience
 
@@ -88,60 +88,3 @@ Ginkgo is remarkably resilient:
 - Resistant to most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
 - Survived the atomic bombing of Hiroshima — six ginkgo trees within 1–2 km of ground zero survived and regrew
 - Deeply drought-tolerant once established
-
-## Phytochemistry
-
-The medicinal properties of ginkgo are attributed to two [[ascomycota-phylogeny-major-classes-lineages]] of compounds:
-
-### Flavonoid Glycosides (~24%)
-
-Primarily flavonol derivatives:
-
-- [[kaempferol]], and isorhamnetin glycosides
-- Account for the antioxidant and free-radical scavenging activity
-- Standardized extracts contain 22–27% flavonoid glycosides
-
-### Terpene Lactones (~6%)
-
-Unique diterpenes and sesquiterpenes:
-
-| Compound | Class | Properties |
-|----------|-------|------------|
-| Ginkgolide A | Diterpene | PAF antagonist; anti-platelet |
-| Ginkgolide B | Diterpene | Most potent PAF antagonist; neuroprotective |
-| Ginkgolide C | Diterpene | PAF antagonist |
-| Ginkgolide J | Diterpene | PAF antagonist |
-| Ginkgolide M | Diterpene | PAF antagonist |
-| Bilobalide | Sesquiterpene | Neuroprotective; anti-inflammatory |
-
-Ginkgolides are found nowhere else in nature and are unique to *Ginkgo biloba*.
-
-### Other Constituents
-
-- **Ginkgolic acids:** Alkylphenol compounds found in the seed coat; allergenic and potentially toxic (removed in standardized extracts)
-- **Proanthocyanidins:** Condensed tannins with antioxidant activity
-- **Organic acids:** Ascorbic acid, shikimic acid, vanillic acid
-
-## Standardized Extract: EGb 761
-
-The most studied ginkgo preparation is **EGb 761** (Tebonin/Tanakan), manufactured by Dr. Willmar Schwabe Pharmaceuticals:
-
-- **Standardization:** 24% flavonoid glycosides, 6% terpene lactones
-- **Ginkgolic acid content:** < 5 ppm (to minimize allergic reactions)
-- **Dosage in studies:** Typically 120–240 mg/day, divided into 2–3 doses
-- **[[mushroom-cancer-clinical-trials-overview]]:** Over 400 clinical studies and 50+ meta-analyses published
-
-## Pharmacological Actions
-
-### Cerebral Circulation
-
-## See Also
-
-- [[adaptogenic-herbs-guide]]
-- [[medicinal-mushroom-guide]]
-
-- flavonoids — Polyphenolic antioxidant compounds
-- platelet activating factor — Target of ginkgolide antagonism
-- cognitive enhancers — Category of nootropic compounds
-- ginkgo biloba — Other species with deep evolutionary lineages
-- egb 761 — Standardized ginkgo extract

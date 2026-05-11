@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,61 +88,3 @@ life in the soil.
 ## Loam Soil
 
 Loam soil has all the advantages of clay and sand;
-it holds moisture and water like clay but is quick
-to warm and has good drainage and a work-friendly
-structure like sand. It is the perfect growing
-medium for cannabis.
-
-Most soils are a combination of sand and clay.
-Silty loam falls in between and feels almost
-greasy when rubbed in your hand, though it is less
-slippery than clay. The ultimate soil for growing
-plants is loam found in ancient river bottoms and
-lake beds where sedimentary soil builds up. It is
-dark, fertile, and crumbly in the hand.
-
-## Forest Soil
-
-Forest soils vary greatly in pH and fertility. The
-needles and deadfall from the trees usually make
-the soil acidic. Most of the forests in North
-America and Europe are on hillsides. Long-needle
-pines grow in poor soils such as those found in
-mountainous and tropical regions, with deep roots
-to search for elements. When a layer of humus
-evolves, short-needle conifers dominate, spreading
-roots on the surface to search for nourishment.
-
-## Mountain Soil
-
-Mountain soils are often very rich in minerals but
-lack humus. Alpine valleys hold the best alluvial-
-plain soil that is the product of volcanic rock
-erosion. Hillsides are generally less fertile, and
-soil must be amended to grow a good crop.
-
-## Grassland Soil
-
-Grasslands often have wonderful soil that recycles
-nutrients. Sunshine is likely to be good, but
-detection could be a problem in wide-open spaces.
-Plant in areas that are protected from wind and
-curious eyes.
-
-## Bog Soil
-
-Bog soils are moist and spongy. Bogs are filled
-with vegetation and often have very rich soil. They
-present a perfect place to grow individual plants.
-Cut a square yard (90 cm) of moist sod from the
-ground, turn it over, and plant. Marsh ground
-supplies sufficient water on its own. Add a bit of
-time-release fertilizer during transplanting and
-another handful of flowering formula during a
-check-up in early August.
-
-## Related Topics
-
-- [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
-- [[cervantes-dolomite-lime-ph-buffering]]
-- [[cervantes-ph-management-testing]]

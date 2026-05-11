@@ -88,36 +88,3 @@ Tea organisms cause the plant to become less stressed by improving nutrient avai
 ## Disease-Specific Notes
 
 ### Black Spot
-
-Black spot is one of the easiest diseases to control with compost tea. The key is coverage: if beneficial organisms are already present on the leaf surface, the black spot fungus cannot displace them due to its weak competitive ability. The main reason black spot is prevalent is that standard practices destroy leaf surface biology.
-
-### Sooty Mold
-
-Sooty mold does not harm the plant directly—it is primarily cosmetic. It grows on honeydew produced by sap-feeding insects (aphids, scale). When beneficial organisms from compost tea consume the honeydew, sooty mold lacks its food source and cannot develop. The primary control strategy is eliminating the sap-feeding insects through the pest deterrence mechanisms described above.
-
-### Scale Insects
-
-Good compost tea with excellent fungal biomass has been shown to eliminate scale on rhododendrons and apples. Scale control requires a strong fungal component in the tea. This approach is expected to work on scale affecting other plants as well, though documented data is currently limited.
-
-## Regulatory Considerations
-
-Evidence about disease control has not been accepted by the EPA, USDA, or other federal regulatory agencies as of the publication date. When discussing compost tea's disease control potential:
-
-- Frame it as research in progress rather than established claims
-- Reference data showing effects can occur when tea is made correctly
-- Emphasize the biological mechanisms (competition, site occupation) rather than antimicrobial claims
-- Note that failure in research settings often results from methodological problems: tea transported without aeration, fields with <0.5% organic matter, plowing followed by 3-week delay before planting
-
-## Troubleshooting Foliar Applications
-
-If the tea does not produce expected results:
-
-1. **Check the compost**: If beneficial organisms are not in the compost, they will not be in the tea
-2. **Verify organism levels**: Ensure total and active bacteria, total and active fungi are adequate
-3. **Check protozoa**: If bacterial/fungal levels are adequate, assess protozoan populations
-4. **Consider a beneficial organism assay**: Identify specific organisms lacking for the target disease
-5. **Confirm coverage**: Ensure complete leaf surface coverage during application
-
-## Key Insight
-
-The approach to foliar disease management with compost tea mirrors ecological pest management principles used in other contexts. The microorganism interactions are mechanical (competition, predation, resource consumption) rather than biochemical. As Ingham notes: "You have to say that evidence about disease control has not been accepted by the EPA, the USDA, or other federal regulatory agencies." The regulatory status should be clearly communicated while sharing the growing body of observational and research evidence.

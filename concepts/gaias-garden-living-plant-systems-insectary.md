@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
@@ -87,36 +88,3 @@ Birds are major insect predators. To attract them:
 - Avoid pesticides that kill their insect food supply
 
 ## The Meadow Garden
-
-Meadow gardens offer an alternative to lawns:
-
-- Support enormous biodiversity compared to turf
-- Require minimal maintenance once established
-- Provide nectar and pollen for pollinators
-- Create seasonal beauty with native wildflowers
-- Can include mown paths for access
-
-### Establishing a Meadow
-
-1. Remove existing vegetation
-2. Prepare seed bed (light raking, no deep tilling)
-3. Sow native wildflower and grass seed mix
-4. Keep moist until established
-5. Mow once or twice per year (spring and late fall)
-6. Allow some areas to go to seed for self-seeding
-
-## Net-and-Pan Pattern for Drylands
-
-In dryland gardens, plant trees in small depressions connected by shallow trenches:
-
-- Rain and runoff collected by trench network and delivered to tree bases
-- Mulch collects in basins, building soil
-- Expands the effective water capture area enormously
-- Trees survive and thrive on rainfall alone
-
-## See Also
-
-- [[gaia-garden-plant-guilds]] — plant guild design
-- [[sepp-holzer-garden-helpers-and-pest-regulation]] — [[sepp-holzer-garden-helpers-and-pest-regulation]]
-- gaias-garden-fruit-tree-selection
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]

@@ -8,12 +8,12 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # DMT (N,N-Dimethyltryptamine)
 
-TIHKAL entry #6. The archetypal short-acting psychedelic tryptamine, found endogenously in the human brain and widely distributed in nature (plants, animals). Known also as desoxybufotenine and nigerine. DMT is the primary active component in Amazonian snuffs and the basis of ayahuasca pharmacology.
+TIHKAL entry #6. The archetypal short-acting psychedelic tryptamine, found endogenously in the human brain and widely distributed in nature (plants, animals). Known also as desoxybufotenine and nigerine. DMT is the primary active component in Amazonian snuffs and the basis of [[ayahuasca-pharmacology]].
 
 ## Chemical Names
 
 - Tryptamine, N,N-dimethyl
-- Indole, 3-[2-(dimethylamino)ethyl]
+- [[indole]], 3-[2-(dimethylamino)ethyl]
 - N,N-Dimethyltryptamine
 - 3-[2-(Dimethylamino)ethyl]indole
 - Desoxybufotenine
@@ -61,7 +61,7 @@ Up to 1 hour (smoked/i.v.); effects peak within minutes and resolve rapidly.
 
 ## Natural Occurrence: Snuffs and Decoctions
 
-DMT and 5-MeO-DMT are the mainstay chemicals in most Amazonian snuffs. A major plant source for cohoba is the ground beans of Piptadenia peregrina (also classified as Anadenanthera or Mimosa). The alkaloid content among species is most variable. With P. peregrina and P. macrocarpa, the major contents of the beans and their pods appears to be bufotenine, its N-oxide, and the oxide of DMT.
+DMT and 5-MeO-DMT are the mainstay chemicals in most Amazonian snuffs. A major plant source for cohoba is the ground beans of Piptadenia peregrina (also classified as Anadenanthera or [[mimosa]]). The alkaloid content among species is most variable. With P. peregrina and P. macrocarpa, the major contents of the beans and their pods appears to be bufotenine, its N-oxide, and the oxide of DMT.
 
 The roots of [[entheogen-jurema-mimosa-hostilis-ethnobotany]] are reputed to be the source of the drink jumera, or vinho de jurema. The only alkaloid present, originally called nigerine, has proved to be DMT. Pasture grasses such as reed canarygrass (Phalaris tuberosa, P. arundinacea) have also revealed the presence of alkaloids like DMT and 5-MeO-DMT.
 
@@ -87,12 +87,4 @@ DMT can be synthesized by multiple routes: from indole via [[shirota-glyoxalylam
 
 ## See Also
 
-- [[psilocin-entity-tihkal]] — the 4-hydroxy analogue (psilocybin's active metabolite)
-- [[det-entity-tihkal]] — the diethyl homologue, orally active
-- [[5-meo-dmt-compound-profile]] — additional compound profile
-- [[ayahuasca-brewing-guide]] — [[kava-traditional-preparation-ceremonial-context]] using DMT-containing plants
-
-## Related
-
-- [[2-me-dmt-entity-tihkal]]
-- [[a-et-entity-tihkal]]
+- [[psilocin-entity-tihkal]] — the 4-hydroxy analogue ([[psilocybin]]'s active metabolite)

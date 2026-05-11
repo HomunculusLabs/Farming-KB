@@ -1,6 +1,6 @@
 ---
 title: Macrofungal biodiversity-sampling-protocol-design Design and Plot Selection
-source: raw/papers/unknown-biodiversity-of-fungi.md
+source: unknown-biodiversity-of-fungi.md
 tags: [mycology, sampling-protocol, macrofungi, biodiversity-survey, plot-design, fungal-inventory, biodiversity-of-fungi]
 created: 2026-05-09
 ---
@@ -11,8 +11,8 @@ Designing effective [[lichen-biodiversity-sampling-protocols-data-analysis]] for
 careful consideration of plot size, substratum type, and
 sampling frequency.
 
-The edited volume "Biodiversity of Fungi" provides detailed
-guidance on approaches to sampling macrofungi for biodiversity
+The edited volume "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" provides detailed
+guidance on approaches to [[recommended-protocols-sampling-macrofungi]] for biodiversity
 inventory and monitoring.
 
 ## Substratum and Area Considerations
@@ -27,7 +27,7 @@ distribution and frequency of different diameter classes.
 Discovery of cryptic fungi often requires more intensive
 searching of designated subplots.
 
-Canopy inspection in tropical forests may reveal additional
+Canopy inspection in [[fungal-biodiversity-tropical-forests]] may reveal additional
 species, though most canopy fungi also occur on fallen
 branches or in gaps.
 
@@ -87,63 +87,3 @@ standing dead trees along transect lines.
 
 GPS coordinates and GIS mapping are recommended for large
 survey areas to facilitate specimen relocation.
-
-## Sampling Frequency
-
-How often plots should be sampled depends on species turnover
-between sampling dates.
-
-For Xylariaceae and small ascomycetes in the tropics,
-3-month intervals provide an optimal balance between species
-discovery and sampling effort.
-
-Fruiting agarics show high turnover in both temperate and
-tropical forests, requiring weekly or biweekly sampling.
-
-Corticoid and polypore fungi can be sampled at approximately
-2-month intervals due to their longer fruiting persistence.
-
-## Data Collection Parameters
-
-For each specimen collected, the following data should be
-recorded.
-
-- Date and collector information
-- Macrohabitat (forest type, plant association, climatic zone)
-- Substratum/host class and diameter
-- Substratum preference and size class
-- Decay class of wood (hard and sound, hard and decayed,
-  softened and punky, well decayed and humus-like)
-- Condition of bark (tight, loose, or absent)
-- GPS coordinates and elevation
-
-Detailed notes on fresh specimen appearance should be
-recorded at the time of collection since colour and
-texture change dramatically during drying.
-
-## Inconspicuous and Indistinguishable Species
-
-Two main challenges complicate macrofungal sampling on wood.
-
-Many resupinate basidiomycetes and small ascomycetes are not
-detectable or recognisable in the field.
-
-Removing all [[macrofungi-woody-substrata-survey-design]] to the laboratory for microscopic
-examination resolves this but precludes resampling.
-
-It is also frequently difficult to determine whether a species
-has already been collected within a subplot.
-
-Different maturity stages of some species are hard to
-recognise, and similar-looking species may be confused.
-
-No assumptions should be made about the identity of
-inconspicuous fungi — all separate patches should be collected.
-
-## See Also
-
-- [[fungal-specimen-preparation-preservation-herbarium-storage]]
-- [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
-- [[fungal-inventory-and-survey-methods]]
-- [[biodiversity-of-fungi-soil-isolation-methods]]
-- [[fungal-discovery-methods]]

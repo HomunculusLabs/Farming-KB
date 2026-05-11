@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,11 +88,3 @@ and begins giving out directions like a know-nothing director, the play will be 
 something goes wrong in nature, the biosystem changes course. Unlike in a factory where the
 damage may consist of only a broken gear, in nature a disruption gives rise to an unending
 series of repercussions.
-
-## See Also
-
-- [[microbial-ecology-fungi]]
-- [[fukuoka-bushman-scrabbling-existence-not-natural]]
-- [[fukuoka-illusions-of-natural-science]]
-- [[fukuoka-textdoc-man-sole-heretic-natural-order]]
-- [[fukuoka-california-desertification-myth-natural-aridity]]

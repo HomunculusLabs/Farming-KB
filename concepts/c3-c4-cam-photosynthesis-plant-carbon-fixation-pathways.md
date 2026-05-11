@@ -2,17 +2,17 @@
 title: "C3, C4, and comparison-c3-c4-and-cam-photosynthesis-pathways — Plant Carbon Fixation Pathways"
 created: 2026-04-28
 updated: 2026-05-06
-aliases: [photosynthesis pathways, carbon fixation, C4 photosynthesis, CAM photosynthesis, Hatch-Slack pathway, crassulacean acid metabolism, Kranz anatomy]
+aliases: [[comparison-c3-c4-and-cam-photosynthesis-pathways]], carbon fixation, C4 photosynthesis, CAM photosynthesis, Hatch-Slack pathway, crassulacean acid metabolism, Kranz anatomy]
 tags: [botany, plant-physiology, photosynthesis, agriculture, crop-science, plant-biology, biochemistry, ecology]
 type: concept
 sources: []
 ---
 
-Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, temperature tolerance, and growth rate. Understanding these pathways is central to crop science, plant breeding, and predicting agricultural responses to [[dighton-fungi-climate-change-feedback]].
+Photosynthetic carbon fixation in plants occurs through three principal pathways: C3 (Calvin-Benson-Bassham cycle), C4 (Hatch-Slack pathway), and CAM (crassulacean acid metabolism). These pathways differ fundamentally in how they acquire, concentrate, and fix atmospheric CO₂, resulting in distinct trade-offs between water use efficiency, energy cost, [[mycorrhizal-drought-and-temperature-tolerance]], and growth rate. Understanding these pathways is central to crop science, plant breeding, and predicting agricultural responses to [[dighton-fungi-climate-change-feedback]].
 
 ## C3 Photosynthesis: The Calvin-Benson-Bassham Cycle
 
-C3 photosynthesis is the ancestral pathway, present in approximately 85% of all plant species (~250,000–300,000 species). It is the primary pathway for most temperate crops including wheat (*Triticum aestivum*), rice (*Oryza sativa*), soybean (*Glycine max*), and potato (*Solanum tuberosum*). The pathway is named for the three-carbon compound 3-phosphoglycerate (3-PGA) produced as the first stable product of CO₂ fixation.
+C3 photosynthesis is the ancestral pathway, present in approximately 85% of all plant species (~250,000–300,000 species). It is the primary pathway for most temperate crops including wheat (*[[triticum-aestivum]]*), rice (*Oryza sativa*), soybean (*Glycine max*), and potato (*[[solanum-tuberosum]]*). The pathway is named for the three-carbon compound 3-phosphoglycerate (3-PGA) produced as the first stable product of CO₂ fixation.
 
 The cycle operates entirely within the chloroplast stroma of mesophyll cells. Ribulose-1,5-bisphosphate carboxylase/oxygenase (Rubisco) catalyzes the fixation of CO₂ onto ribulose-1,5-bisphosphate (RuBP), yielding two molecules of 3-PGA. These are then reduced to glyceraldehyde-3-phosphate (G3P) using ATP and NADPH. Five of every six G3P molecules regenerate RuBP; one G3P exits the cycle as net product for carbohydrate synthesis. The energy cost is 3 ATP and 2 NADPH per net CO₂ fixed.
 
@@ -20,7 +20,7 @@ Rubisco is the most abundant protein on Earth (~500 Mt), yet it is notoriously i
 
 ## C4 Photosynthesis: The Hatch-Slack Pathway
 
-C4 photosynthesis, discovered by M.D. Hatch and C.R. Slack in 1966 (building on Hugo Kortschak's 1965 work in sugarcane), is a carbon concentrating mechanism (CCM) that suppresses photorespiration. Though only ~3% of plant species (~7,500–8,000 species) use C4 photosynthesis, these plants contribute approximately 20–25% of global terrestrial primary productivity. Major C4 crops include maize (*Zea mays*), sugarcane (*Saccharum officinarum*), sorghum (*Sorghum bicolor*), and millet.
+C4 photosynthesis, discovered by M.D. Hatch and C.R. Slack in 1966 (building on Hugo Kortschak's 1965 work in sugarcane), is a carbon concentrating mechanism (CCM) that suppresses photorespiration. Though only ~3% of plant species (~7,500–8,000 species) use C4 photosynthesis, these plants contribute approximately 20–25% of global terrestrial primary productivity. Major C4 crops include maize (*Zea mays*), sugarcane (*[[saccharum-officinarum]]*), sorghum (*[[sorghum-bicolor]]*), and millet.
 
 The pathway employs a two-cell system: **mesophyll cells** for initial CO₂ capture and **bundle sheath cells** for the Calvin cycle. In mesophyll cells, phosphoenolpyruvate carboxylase (PEPC) fixes bicarbonate (HCO₃⁻) onto phosphoenolpyruvate (PEP) to form oxaloacetate (OAA), a four-carbon compound — hence "C4." PEPC has no oxygenase activity and a catalytic rate ~67× faster than Rubisco (~200 s⁻¹). OAA is then converted to malate or aspartate and transported to bundle sheath cells, where decarboxylation releases CO₂ at concentrations of 1,000–2,000 ppm around Rubisco — 10–60× ambient. This elevated CO₂ virtually eliminates photorespiration.
 
@@ -87,11 +87,3 @@ Altitude effects are pronounced: C4 plants decline above ~2,500–3,000 m becaus
 ## Climate Change Implications
 
 Rising atmospheric CO₂ concentrations (projected 550–700 ppm by 2100) directly favor C3 plants through CO₂ fertilization. FACE (Free-Air CO₂ Enrichment) experiments demonstrate an average ~15% biomass increase in C3 plants at doubled CO₂. At 700 ppm and 30°C, photorespiration in C3 drops from ~35% to ~15% of gross fixation. However, rising temperatures partially offset this benefit — each 1°C increase raises C3 photorespiration by approximately 5–8%.
-
-C4 plants benefit less from elevated CO₂ since their CCM already saturates Rubisco with CO₂, but maintain superior performance as temperatures rise. C3 crops at elevated CO₂ show decreased protein content (~5–15% reduction in grain protein) and mineral content, raising concerns for global nutrition. CAM plants may expand in arid regions where both temperature and water stress increase. The net effect varies by region: temperate zones likely favor C3 crops, while tropical and subtropical regions maintain C4 advantages. Global productivity models suggest terrestrial productivity will increase primarily through CO₂ fertilization of C3
-- [[stomata-transpiration-and-plant-water-regulation]]
-- [[water-use-efficiency-plants]]
-
-## See Also
-
-- [[comparison-c3-c4-and-cam-photosynthesis-pathways]]

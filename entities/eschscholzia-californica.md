@@ -27,7 +27,7 @@ sources:
 
 # Eschscholzia californica
 
-**Eschscholzia californica**, commonly known as the **California poppy**, **golden poppy**, or **cup of gold**, is a flowering plant in the family [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA]] receptors.
+**Eschscholzia californica**, commonly known as the **California poppy**, **golden poppy**, or **cup of gold**, is a flowering plant in the family [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] receptors.
 
 ## Key Details
 
@@ -65,35 +65,25 @@ Named by Adelbert von Chamisso in 1820 after Johann Friedrich von Eschscholtz, h
 
 ## Active Compounds
 
-*E. californica* contains a characteristic profile of isoquinoline alkaloids common to the Papaveraceae, though it lacks the opiate alkaloids found in [[passiflora-incarnata]] or [[passiflora-incarnata]], [[melatonin-entity-tihkal]], or [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptors:
+*E. californica* contains a characteristic profile of isoquinoline alkaloids common to the Papaveraceae, though it lacks the opiate alkaloids found in [[passiflora-incarnata]] or [[passiflora-incarnata]], [[melatonin-entity-tihkal]], or [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] receptors:
 
 - **Allosteric modulation**: Crude extracts and isolated alkaloids (particularly protopine and allocryptopine) potentiate GABA-evoked chloride currents, similar to but less potent than benzodiazepines
-- **Benzodiazepine-like profile**: Behavioral effects in animal models are partially reversed by flumazenil, suggesting binding at or near the benzodiazepine site on the [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor subtypes, potentially offering a different side-effect profile compared to classical benzodiazepines
+- **Benzodiazepine-like profile**: Behavioral effects in animal models are partially reversed by flumazenil, suggesting binding at or near the benzodiazepine site on the [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] receptor subtypes, potentially offering a different side-effect profile compared to classical benzodiazepines
 
 ### Other Mechanisms
 
 - **Calcium channel modulation**: Protopine and related alkaloids inhibit voltage-gated calcium channels, contributing to spasmolytic effects
-- **Anti-inflammatory**: Berberine and chelidonine inhibit NF-κB signaling and reduce pro-inflammatory cytokine production
-- **Opioid receptor interaction**: Weak affinity reported but not considered the primary mechanism of action
+- **Anti-inflammatory**: [[berberine]] and chelidonine inhibit NF-κB signaling and reduce pro-inflammatory cytokine production
+- **[[salvinorin-a-kappa-opioid-receptor-pharmacology]] interaction**: Weak affinity reported but not considered the primary mechanism of action
 
 ## Antimicrobial and Antioxidant Activity
 
 ### Antimicrobial
 
-Extracts demonstrate broad-spectrum antimicrobial activity *in vitro*, primarily attributed to berberine: moderate activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*), weaker activity against Gram-negatives, and antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophytes.
+Extracts demonstrate broad-spectrum antimicrobial activity *in vitro*, primarily attributed to berberine: moderate activity against Gram-positive bacteria (*[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*), weaker activity against Gram-negatives, and antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophytes.
 
 ### Antioxidant
 
 Flavonoid constituents contribute to significant antioxidant activity: DPPH radical scavenging, inhibition of lipid peroxidation, and protective effects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neuronal cell models. Total phenolic content correlates with antioxidant capacity.
 
 ## Cultivation
-
-*E. californica* is among the easiest garden plants for Mediterranean and dry-climate gardens: full sun (minimum 6 hours), well-draining sandy or loamy soil (pH 6.0–7.5), drought-tolerant once established with minimal irrigation needed. Direct sow in fall or [[coleman-overwintered-onions-and-early-spring-crops]]; seeds germinate in 10–21 days at 15–20°C. Perennial in USDA zones 6–10; grown as annual in colder regions. Prolific self-seeder that can become aggressive groundcover. Generally pest-free; susceptible to aphids and [[cervantes-powdery-mildew-prevention-treatment]]. RHS Award of Garden Merit cultivars include 'Apricot Chiffon', 'Dali', and 'Rose Chiffon'. Commercial seeds are widely available, typically sold as mixtures that do not breed true on reseeding.
-
-## Safety and Toxicity
-
-*E. californica* is generally regarded as safe at typical herbal doses. Acute toxicity is low (LD₅₀ in rodents >2000 mg/kg for aqueous extracts), and the plant contains no addictive opiate alkaloids. Traditionally contraindicated in pregnancy due to potential uterine-stimulating effects of Papaveraceae alkaloids. Potential additive sedation when combined with benzodiazepines, barbiturates, or other CNS depressants, and may potentiate [[blesching-cannabis-gaba-glutamate-endocannabinoid-system|GABA_A]] receptor modulation. It serves as a point of comparison with [[passiflora-incarnata]], [[melatonin-entity-tihkal]], and [[eriodictyon-californicum]]
-
-- [[passiflora-incarnata]] — Passionflower; herbal anxiolytic and sedative with shared [[valeriana-officinalis]] — Valerian; widely used herbal sedative often combined with California poppy
-- [[bacopa-monnieri]] — Nootropic herb with anxiolytic and cognitive-enhancing effects
-- [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]] — Primary inhibitory neurotransmitter; target receptor for California poppy alkaloids

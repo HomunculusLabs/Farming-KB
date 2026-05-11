@@ -88,30 +88,3 @@ Diploschistes scruposus can be confused with several other crustose and squamulo
 Diploschistes muscorum is the most frequently confused species, as it shares a similar crustose to squamulose growth form and often occupies comparable habitats. However, D. muscorum typically grows on mosses and organic substrates, has a thinner thallus, and produces smaller ascospores. D. scruposus, by contrast, is more commonly saxicolous and terricolous with larger, more prominently muriform spores.
 
 Species of Aspicilia, particularly A. calcarea and A. cinerea, can resemble Diploschistes scruposus in their white to gray crustose thalli and black apothecia. However, Aspicilia species produce simple, ellipsoid ascospores rather than the large muriform spores characteristic of Diploschistes. Additionally, Aspicilia lacks the distinctive chemistry of Diploschistes.
-
-Pertusaria species may superficially resemble D. scruposus when their apothecia are immersed in the thallus, giving a cracked appearance. Pertusaria differs in having Ostropalean-type asci, often larger apothecia that are erumpent from pits in the thallus, and different chemistry including stictic acid complexes. The thallus of Pertusaria is also typically smoother and more continuous.
-
-Verrucaria species, particularly V. nigrescens, can also be mistaken for Diploschistes scruposus on calcareous substrates. Verrucaria differs in its perithecial fruiting bodies rather than apothecia, its typically darker thallus coloration, and a different suite of lichen acids. Careful examination of reproductive structures resolves most field confusion between these genera.
-
-## Conservation
-
-Diploschistes scruposus is not considered threatened and is classified as Least Concern across its global range. Its wide distribution, ecological tolerance, and ability to colonize disturbed substrates provide a strong buffer against population declines. The species is among the most resilient lichens in regions experiencing habitat modification and urbanization.
-
-Despite its overall secure status, local populations may face threats from intensive agricultural practices, herbicide application, and the removal of stone walls and old buildings that serve as primary substrates. In some heavily developed areas, populations have declined as traditional stone structures are replaced by modern construction materials unsuitable for lichen colonization.
-
-Conservation of Diploschistes scruposus is best achieved through maintaining a diversity of undisturbed stone and soil substrates. The preservation of old walls, historic buildings, and natural rock outcrops provides essential habitat for this and other crustose lichens. Minimal use of herbicides and fungicides in areas adjacent to suitable substrates also supports healthy lichen communities.
-
-The species serves as a useful reference taxon in air quality biomonitoring programs throughout Europe and North America. Its intermediate pollution tolerance places it between sensitive species such as Usnea and tolerant species such as Xanthoria, making it a reliable indicator of moderate air quality conditions.
-
-## See Also
-
-- [[xanthoria-parietina]]
-- [[physcia-stellaris]]
-- [[cladonia-rangiferina]]
-- [[cetraria-islandica]]
-- [[hypogymnia-physodes]]
-- [[evernia-prunastri]]
-- [[anaptychia-ciliaris]]
-- [[xanthoparmelia-conspersa]]
-- [[usnea-barbata]]
-- [[melanelia-fuliginosa]]

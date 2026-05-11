@@ -23,11 +23,11 @@ created: 2026-04-28
 
 2C-E (2,5-dimethoxy-4-ethylphenethylamine) is a synthetic psychedelic phenethylamine of the 2C family.
 
-It was first synthesized and characterized by Alexander Shulgin, who described it in detail in his 1991 book *PiHKAL* (Phenethylamines I Have Known and Loved). Shulgin assigned it the number 25 in his subjective rating scale and noted its potency and pronounced visual effects.
+It was first synthesized and characterized by [[alexander-shulgin]], who described it in detail in his 1991 book *PiHKAL* (Phenethylamines I Have Known and Loved). Shulgin assigned it the number 25 in his subjective [[shulgin-rating-scale]] and noted its potency and pronounced visual effects.
 
 The compound belongs to the 2,5-dimethoxy-4-substituted phenethylamine series, which includes several of the most potent oral psychedelics known. The 4-ethyl substitution distinguishes it structurally from the more widely known 2C-B (4-bromo) and 2C-I (4-iodo) analogues.
 
-2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the [[dmt-containing-plants-united-states-halpern]], where it was placed under the Controlled Substances Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
+2C-E is classified as a Schedule I controlled substance in several jurisdictions, including the [[dmt-containing-plants-united-states-halpern]], where it was placed under the [[controlled-substances-act-and-psychedelic-research]] Analogue Enforcement Act. It is also controlled under the UN Convention on Psychotropic Substances in some signatory nations.
 
 ## Chemical Properties
 
@@ -49,7 +49,7 @@ The free base is an oily liquid at room temperature. It is most commonly encount
 
 ## Pharmacology
 
-The primary mechanism of action of 2C-E is agonism at the 5-HT₂A serotonin receptor, which is the principal receptor responsible for classical psychedelic effects.
+The primary mechanism of action of 2C-E is agonism at the 5-HT₂A [[serotonin-receptor-interference-psychedelic-mechanism]], which is the principal receptor responsible for classical psychedelic effects.
 
 Binding affinity studies indicate that 2C-E has moderate-to-high affinity for 5-HT₂A, with reported Kᵢ values in the low nanomolar range. It also shows activity at 5-HT₂C and α-adrenergic receptors, contributing to its overall pharmacological profile.
 
@@ -87,39 +87,3 @@ Duration of effects is typically 8–12 hours, with aftereffects persisting for 
 The extended duration and intensity of 2C-E mean that adequate preparation and a safe, comfortable environment are essential. The compound is generally considered unsuitable for inexperienced psychedelic users.
 
 ## Legal Status
-
-2C-E is classified as a Schedule I controlled substance in the United States under the Federal Analogue Act, making it illegal to manufacture, distribute, or possess.
-
-In the European Union, 2C-E is controlled in most member states, though specific scheduling varies. It is listed as a controlled substance in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 and in Australia as a Schedule 9 prohibited substance.
-
-The compound is also controlled in Canada (Schedule III), New Zealand (Class C), Japan, and several other countries. Despite legal restrictions, 2C-E has been identified in forensic drug seizures across Europe and [[psilocybin-north-america-pacific-northwest]].
-
-International controls vary. The EMCDDA has monitored 2C-E as a new psychoactive substance (NPS) since the early 2000s, with periodic risk assessments issued.
-
-## History
-
-2C-E was first synthesized by Alexander Shulgin in the 1970s–1980s as part of his systematic exploration of the phenethylamine pharmacophore.
-
-Shulgin documented his experience with 2C-E at a dose of 2 mg in *PiHKAL*, Entry #25. He described it as "not at all like anything I had ever seen before" and noted its capacity to produce "extraordinarily rich visual effects."
-
-The compound remained relatively obscure until the early 2000s, when the emergence of online research chemical vendors made 2C compounds widely available. 2C-E gained popularity in the psychedelic community for its visual intensity and extended duration.
-
-Reports of [[blesching-cannabis-safety-adverse-effects-evidence]], including hospitalizations and at least one death associated with high-dose 2C-E use, contributed to increased regulatory scrutiny. These incidents prompted scheduling actions in multiple jurisdictions between 2011 and 2015.
-
-## Related Compounds
-
-The 2C family includes numerous structural analogues with varying pharmacological profiles.
-
-**2C-B** (4-bromo-2,5-dimethoxyphenethylamine) is the most well-known 2C compound, with shorter duration (4–8 hours) and different visual character. 2C-I (4-iodo) and 2C-P (4-propyl) are longer-acting and more potent analogues.
-
-**DOE** (2,5-dimethoxy-4-ethylamphetamine) is the amphetamine analogue of 2C-E, with substantially greater potency and duration. **2C-T-2** and **2C-T-7** are thioether-substituted variants with distinct pharmacokinetic properties.
-
-**25I-NBOMe** and related N-benzyl derivatives represent a newer generation of phenethylamine psychedelics with extremely high potency but greater toxicity concerns.
-
-## See Also
-
-- [[2c-i]]
-- [[pihkal-introduction-and-methodology]]
-- [[psychedelic-fungi-taxonomy]]
-- [[psilocybin]]
-- nps

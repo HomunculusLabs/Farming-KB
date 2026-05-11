@@ -1,5 +1,5 @@
 ---
-title: Cloning and jeavons-seed-propagation-techniques - Greg Green's Cannabis Grow Bible
+title: Green Cannabis Grow Bible Cloning And Seed Propagation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -28,7 +28,7 @@ Green describes three methods ranked by [[maitake-fruiting-body-success-rate-man
 2. **Towel/wool germination (moderate to high)**: Seeds placed on
    damp cheesecloth, cotton wool, or paper towels and covered. Keep
    moist at all times. Check daily for roots. Transfer immediately to
-   grow medium with tweezers when roots appear (do not touch the
+   [[query-what-is-the-best-cannabis-grow-medium-for-beginners]] with tweezers when roots appear (do not touch the
    root). 8-9 out of 10 seeds typically germinate. Risk of
    [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
@@ -55,7 +55,7 @@ Green describes three methods ranked by [[maitake-fruiting-body-success-rate-man
   never tie thread above a growing shoot. Simulate wind by gently
   shaking the stem morning and evening to develop stronger stems
 - **Outdoor sticks**: Never bring sticks from outdoors for support --
-  they may carry spider mites or other pests
+  they may carry [[cervantes-spider-mites-identification-control]] or other pests
 
 ### Transplanting Seedlings
 
@@ -88,51 +88,3 @@ Cloning allows a grower to:
 2. Take cuttings above a node with at least 2 nodes above it; minimum
    3 inches in length
 3. Use a clean or sterile cutting instrument
-4. Dip the cut area into rooting hormone (e.g., Clonex, ~$3)
-5. Place in rockwool cubes or Oasis foam bricks (best media for
-   cloning)
-6. Provide low light -- fluorescent tubes or a window with outdoor
-   light; avoid HID bulbs
-7. Roots develop in 1-3 weeks; visible roots jutting from rockwool
-   sides indicate readiness for transplant
-
-Cloning straight to soil and rooting in water alone both have low
-success rates.
-
-### Air Layering (Alternative Cloning Method)
-
-A method that roots a cutting while still attached to the mother plant:
-
-1. Sterilize all cutting tools
-2. Find a branch at least 1/8 inch thick with minimum two nodes
-3. Split the branch vertically with a razor blade; open the slit with
-   tweezers without breaking it
-4. Apply rooting hormone (Clonex) to the wound
-5. Tape a matchstick parallel to the stem for support
-6. Pack the wound with grow medium or a split rockwool cube
-7. Wrap with plastic wrap to create a funnel-shaped enclosure
-8. Pack with grow medium, seal with tape, and pin holes for air
-9. Keep medium moist daily with an eyedropper
-10. After 2 weeks, roots develop; cut the branch below the roots
-
-## Seed Strategy
-
-Green recommends staggered germination for new growers: germinate 3
-seeds first, then 3 more the following week, then the remaining 4
-after two weeks. Experienced growers can do 5 and 5. This reduces
-risk of total germination failure.
-
-For those who purchase 10 seeds and find a particularly good female,
-they can produce 100-2000 seeds from that plant through breeding, or
-maintain the genetics indefinitely through cloning.
-
-## Related
-
-- green cannabis grow bible [[cannabis-seed-germination-methods]] methods Pages
-
-- [[cannabis-cloning-guide]]
-- [[cannabis-clone-rooting-and-transplanting]]
-- [[cannabis-seed-germination-methods]]
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
-- [[cannabis-clone-rooting-and-transplanting]]

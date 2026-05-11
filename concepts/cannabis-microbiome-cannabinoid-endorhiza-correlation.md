@@ -1,5 +1,5 @@
 ---
-title: "Cannabinoid Concentration Correlation with Cannabis Endorhiza Microbiome Structure"
+title: Cannabis Microbiome Cannabinoid Endorhiza Correlation
 source: "Winston et al. (2014) - Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome"
 tags: [cannabis, microbiome, cannabinoids, THC, endorhiza, host-microbe, secondary-metabolites]
 created: 2026-05-10
@@ -11,10 +11,10 @@ created: 2026-05-10
 
 One of the most intriguing findings of the Winston et al. (2014) study was the significant
 correlation between cannabinoid concentration and composition and the structure of the
-Cannabis endorhiza bacterial community. However, this correlation is confounded by the
-simultaneous influence of soil physicochemical properties on both cannabinoid production
-and microbial community structure, making it difficult to establish a direct causal
-relationship between the plant's secondary metabolites and its root microbiome.
+Cannabis [[core-endorhiza-bacterial-community-composition-cannabis]]. However, this correlation is confounded by the
+simultaneous influence of [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] on both cannabinoid production
+and [[edaphic-factors-microbial-community-structure]], making it difficult to establish a direct causal
+relationship between the plant's [[antifungal-secondary-metabolites-coprophilous-fungi]] and its root microbiome.
 
 ## The Cannabinoid-Microbiome Correlation
 
@@ -22,7 +22,7 @@ relationship between the plant's secondary metabolites and its root microbiome.
 Cannabinoid data from the second experiment — including delta-9-tetrahydrocannabinol
 (THC) and other cannabinoid measurements — was correlated with endorhiza community
 composition using Mantel tests. The analysis revealed a statistically significant
-correlation between cannabinoid profiles and endorhiza community structure for
+correlation between cannabinoid profiles and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] for
 unweighted analysis (r-stat: 0.863, p-value = 0.001). This suggests that the types
 of bacteria present in the root interior are associated with the cannabinoid profile
 of the plant.
@@ -88,47 +88,3 @@ effects from edaphic effects on the endorhiza microbiome:
 Growing the same Cannabis cultivars in standardized, sterilized soil media under
 controlled conditions would eliminate soil-driven variation. By manipulating only the
 cannabinoid profile (e.g., using genetic mutants or chemical inhibitors of cannabinoid
-biosynthesis), researchers could isolate the effect of cannabinoids on microbiome
-composition.
-
-### Time-Series Sampling
-Sampling endorhiza communities across the reproductive cycle of Cannabis — from
-vegetative growth through flowering and cannabinoid peak production — would reveal
-whether changes in cannabinoid concentration are temporally correlated with shifts in
-microbial community structure. If community changes track cannabinoid accumulation
-within individual plants over time, this would strengthen the case for a direct
-relationship.
-
-### Expanded Cannabinoid Profiling
-The study tested primarily for THC, but Cannabis produces over 100 cannabinoids. A
-comprehensive cannabinoid profile (including CBD, CBG, CBC, THCV, and their acid
-precursors) correlated with microbiome data might reveal more specific associations
-between individual cannabinoids and bacterial taxa.
-
-### Metagenomic and Metatranscriptomic Approaches
-16S rRNA gene sequencing reveals community composition but not function. Metagenomic
-sequencing could identify cannabinoid-metabolizing genes in endorhiza bacteria, while
-metatranscriptomics could show whether these genes are actively expressed. Finding
-bacterial genes for cannabinoid degradation or modification in the endorhiza would
-provide strong evidence for direct metabolic interaction.
-
-## Implications for Cannabis Cultivation
-
-If a direct relationship between cannabinoids and the root microbiome is confirmed,
-this could have significant implications for Cannabis agriculture:
-- **Cultivar-specific inoculants**: Understanding which microbes are associated with
-  high-cannabinoid cultivars could lead to the development of targeted bioinoculant
-  products that boost cannabinoid production.
-- **Soil-cultivar matching**: If certain soil conditions simultaneously promote
-  beneficial microbiomes and cannabinoid production, growers could optimize soil
-  management to support both.
-- **Breeding targets**: Cannabis breeding programs could select for genotypes that
-  both produce desired cannabinoid profiles and support beneficial root microbiome
-  communities.
-
-## See Also
-
-- [[cannabis-microbiome-cultivar-specificity]]
-- [[cannabis-endorhiza-core-community-bacterial-endophytes]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]
-- [[cannabis-microbiome-agricultural-implications-and-future-directions]]

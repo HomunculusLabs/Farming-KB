@@ -1,6 +1,6 @@
 ---
 title: Straw cotter-compost-substrate-preparation-manure-mushroom-cultivation with Marmite and marmite-yeast-extract-straw-substrate Soak
-source: raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, substrate-preparation, straw, yeast-extract, marmite, boil-a-bag]
 created: 2026-05-09
 ---
@@ -10,25 +10,25 @@ created: 2026-05-09
 Straw-based substrates are among the most accessible growing
 media for home [[accessible-mushroom-cultivation-for-disabilities]].
 
-Wheat straw, oat straw, or barley straw can all be used.
+[[non-sterilized-wheat-straw-oyster-cultivation]], oat straw, or barley straw can all be used.
 
 The Jarrold boil-a-bag method uses yeast extract or Marmite
 as a germination supplement during straw preparation.
 
 This step is critical for rapid [[growing-gourmet-spore-germination-strain-isolation]] and fast
-mycelial colonisation of the substrate.
+[[jar-shaking-grain-redistribution-mycelial-colonisation]] of the substrate.
 
 ## Why Yeast Extract or Marmite
 
 Yeast extract products like Marmite or Vegemite provide
 concentrated B vitamins, amino acids, and minerals.
 
-These nutrients accelerate spore germination and early
-mycelium growth, giving cultivated fungi a head start
+These nutrients accelerate [[mushroom-cultivator-tissue-culture-spore-germination]] and early
+[[mushroom-mycelium-growth-monitoring-colonization-cues]], giving cultivated fungi a head start
 over potential contaminants.
 
 The supplementation is especially important when working
-with spore syringes rather than established cultures.
+with [[mushroom-spore-syringes]] rather than established cultures.
 
 Spores have limited energy reserves and benefit greatly
 from exogenous nutrients during initial germination.
@@ -83,61 +83,8 @@ wet promotes anaerobic conditions and bacterial growth.
 
 Straw that is too dry slows mycelial expansion.
 
-The target is "field capacity" — damp but not dripping.
+The target is "[[bulk-substrate-field-capacity]]" — damp but not dripping.
 
 ## Adding Brown Rice Flour
 
 After draining, approximately three to four handfuls of
-brown rice flour are sprinkled over the straw for every
-six bags worth of substrate.
-
-The flour must be thoroughly mixed in by hand for even
-distribution throughout the straw mass.
-
-Brown rice flour provides complex carbohydrates and
-additional nutrients supporting sustained [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
-
-Care must be taken not to add excessive rice flour, as
-surplus nutrients can favour contamination.
-
-## Bag Filling and Sterilisation
-
-The prepared straw mixture is firmly packed into heat-
-resistant boil-a-bag containers.
-
-Each bag is filled almost completely, leaving room for
-the filter can assembly at the top.
-
-Firm packing eliminates air pockets and ensures good
-contact between straw pieces for mycelial transfer.
-
-After filling, the filter can is inserted and secured
-with wide masking tape wrapped three times.
-
-Bags are then pressure sterilised at 15 psi for 60
-minutes as the definitive sterilisation step.
-
-## Common Mistakes
-
-- Failing to keep straw submerged during soaking
-- Insufficient draining time leading to waterlogged substrate
-- Uneven mixing of brown rice flour creating nutrient hotspots
-- Over-packing bags which restricts gas exchange
-- Using straw that is too long, creating air pockets
-
-## Nutritional Roles
-
-- **Yeast extract/Marmite**: B vitamins, amino acids,
-  minerals stimulating spore germination
-- **Brown rice flour**: Complex carbohydrates and
-  moderate protein for sustained [[cannabis-vegetative-growth-stage]]
-- **Straw**: Cellulose, hemicellulose, and lignin as
-  primary carbon sources for the fungus
-
-## See Also
-
-- [[straw-based-mushroom-cultivation-boil-bag-method]]
-- [[mushroom-spore-syringe-preparation]]
-- [[mushroom-fruiting-chamber-designs]]
-- [[filter-can-construction-mushroom-cultivation]]
-- [[mushroom-cultivation]]

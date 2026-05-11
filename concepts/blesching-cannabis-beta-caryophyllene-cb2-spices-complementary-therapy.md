@@ -87,12 +87,3 @@ At 5% (E)-BCP, Mexican oregano is used in Mexican traditional healing and has de
 At 5% (E)-BCP, this basil variety has shown protective gastrointestinal abilities and antibacterial properties against *E. coli* and *Staphylococcus aureus*.
 
 ### Clove (*Syzygium aromaticum*)
-
-At approximately 4% (E)-BCP, clove offers a remarkably broad therapeutic profile including analgesic, anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (herpes simplex I and II, hepatitis C), antibacterial (including multi-drug-resistant strains), anticancer, cancer protective (skin and lung), and antidiabetic properties. See [[beta-caryophyllene-entourage-effects-cannabis]]
-
-- [[cannabis-indoor-growing-basics]] for curcumin as complementary therapy
-- [[blesching-cannabis-telomeres-telomerase-longevity]] for CB2 in anti-aging
-
-## See Also
-
-- [[blesching-cannabis-clove-medicinal-cb2-botanical]]

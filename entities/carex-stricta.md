@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Bryson, C.T., Decker-Walters, D.S. & Wofford, B.E. (2006). "Sedges of the Mississippi Alluvial Valley." USDA Forest Service General Technical Report SRS-95.
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora of North America North of Mexico, Vol. 23. Oxford University Press.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora [[berry-growing]] North of Mexico, Vol. 23. Oxford University Press.
   - Mackenzie, K.K. (1935). "Carex." In North American Flora, Vol. 18, Part 7. New York Botanical Garden.
   - USDA NRCS. "Plant Guide — Tussock Sedge (Carex stricta)." USDA Natural Resources Conservation Service.
   - Crins, W.J. & Ball, P.W. (1989). "The taxonomy of the Carex stricta complex (Cyperaceae, section Acrocystis) in North America." Canadian Journal of Botany 67(3): 632-651.
@@ -25,7 +25,7 @@ It forms distinctive dense tussocks or hummocks that can reach 60 to 90 cm in he
 
 The species is a keystone component of many sedge meadow and calcareous fen communities throughout the northeastern and midwestern United States.
 
-It is widely used in ecological restoration projects for stormwater management, riparian buffer stabilization, and constructed wetlands.
+It is widely used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects for [[mollison-designers-cloudburst-and-stormwater-management]], riparian buffer stabilization, and [[comparison-constructed-wetlands-vs-bioswales]].
 
 ## Taxonomy and Morphology
 
@@ -35,7 +35,7 @@ The species was described by Jean-Baptiste Lamarck in 1791, with the epithet "st
 
 Carex stricta is part of the large and taxonomically complex section Acrocystis, which contains approximately 60 species worldwide.
 
-Plants are cespitose, forming dense tussocks consisting of accumulated leaf bases and root material from successive growing seasons.
+Plants are cespitose, forming dense tussocks consisting of accumulated leaf bases and root material from successive [[jeavons-climate-adaptation-growing-seasons]].
 
 Mature tussocks can be 30 to 60 cm tall and 30 to 50 cm in diameter, with living green foliage emerging from the upper portion.
 
@@ -81,45 +81,10 @@ Amphibians and aquatic invertebrates use the spaces between tussocks for foragin
 
 The dense root mat stabilizes streambanks and shorelines, reducing erosion and trapping suspended sediments.
 
-Carex stricta is an important component of stormwater treatment wetlands, where its root zone filters nutrients and pollutants.
+Carex stricta is an important component of stormwater [[mollison-designers-wastewater-treatment-wetlands]], where its root zone filters nutrients and pollutants.
 
 It greens up early in spring, providing forage for migrating waterfowl and newly emerged insects.
 
 The species is moderately fire-tolerant, resprouting from tussock bases after prescribed burns in sedge meadow communities.
 
 Its litter production contributes to peat accumulation in fen and bog ecosystems over long time scales.
-
-Carex stricta provides food for various lepidopteran larvae, including several sedge specialist moths.
-
-## Cultivation and Uses
-
-Propagation is primarily from seed, though division of established tussocks is also effective for small-scale plantings.
-
-Seed germination is improved by cold stratification at 1 to 4 degrees Celsius for 60 to 90 days prior to sowing.
-
-Recommended planting density for restoration projects ranges from 10,000 to 20,000 plugs per hectare in wetland mitigation sites.
-
-Plants establish within one to two growing seasons under appropriate hydrologic conditions.
-
-Carex stricta is one of the most commonly specified species in constructed wetland and stormwater treatment designs.
-
-It is valued for its ability to tolerate fluctuating water levels, high nutrient loads, and periodic inundation.
-
-In riparian buffer plantings, it provides effective bank stabilization and water quality filtration.
-
-The species is used in rain gardens and bioswales in residential and commercial landscapes across the eastern United States.
-
-Native American peoples reportedly used the tough leaves for basket weaving and mat construction in some regions.
-
-Its ornamental value in naturalistic landscapes includes the textural contrast of tussocks and the subtle golden inflorescences in late spring.
-
-## See Also
-
-- [[typha-latifolia]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
-- [[deschampsia-caespitosa]]
-- [[phalaris-arundinacea]]
-- [[calamagrostis-x-acutiflora]]
-- [[panicum-virgatum]]

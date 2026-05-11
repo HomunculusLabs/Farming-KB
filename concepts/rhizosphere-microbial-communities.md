@@ -1,7 +1,7 @@
 ---
-title: [[cannabis-rhizosphere-microbial-communities]] Communities
+title: Rhizosphere Microbial Communities
 created: 2026-05-09
-source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [rhizosphere, microbiome, soil-biology, plant-microbe-interactions, root-exudates]
 aliases: [rhizosphere microbiology, rhizosphere effect, root zone microbiome]
 ---
@@ -88,60 +88,3 @@ dynamics:
 
 - **Endomycorrhizal (arbuscular mycorrhizal, AM) fungi**: Form symbiotic
   associations with Cannabis roots, extending the effective absorptive surface
-  area and facilitating phosphorus uptake. AM fungi also influence bacterial
-  community composition through hyphal exudates and competitive interactions.
-- **Ectomycorrhizal fungi**: Less commonly associated with Cannabis but present
-  in some growing environments, forming sheaths around root tips.
-- **Saprotrophic fungi**: Decompose organic matter in the rhizosphere, releasing
-  nutrients that become available to both plants and bacteria.
-
-Mycorrhizal community structure has been shown to vary with cultivar in some
-plant species, suggesting that fungal communities may also be subject to host
-selection, though this has not been extensively studied in Cannabis.
-
-## Soil Physicochemical Influences
-
-In the Cannabis microbiome study, edaphic factors measured across sites
-included:
-
-| Parameter | Range Observed | Influence |
-|---|---|---|
-| pH | 6.63 – 6.94 | Strong predictor of community structure |
-| Salinity | 1.73 – 7.15 dS/m | Affects osmotic adaptation |
-| Total N | 0.26 – 1.41% | Nutrient base for copiotrophs |
-| Total Organic C | 3.02 – 20.0% | Carbon source for heterotrophs |
-| Water Content | 0.101 – 0.371 | Affects aerobic niche availability |
-
-BEST analysis (Best Subset of Environmental Variables) identified pH and
-organic carbon as the strongest predictors of community dissimilarity across
-sample types.
-
-## Agricultural Significance
-
-Understanding rhizosphere communities has direct applications in Cannabis
-cultivation:
-
-- **Biofertilizers**: Inoculants applied to soil must first establish in the
-  rhizosphere before potentially colonizing root tissues.
-- **Crop rotation**: Different crops select different rhizosphere communities,
-  and rotating crops can disrupt pathogen buildup.
-- **Soil health management**: Maintaining diverse rhizosphere communities
-  through organic amendments supports plant resilience.
-- **Container vs. field growing**: The rhizosphere in container cultivation
-  has different constraints than field soil, affecting microbial diversity.
-
-## Comparison Across Compartments
-
-| Feature | Bulk Soil | Rhizosphere | Endorhiza |
-|---|---|---|---|
-| Primary structuring factor | Soil type | Soil type | Cultivar |
-| Microbial density | Low | High | Moderate |
-| Diversity | Highest | Intermediate | Lowest |
-| Cultivar effect | Minimal | Minimal | Significant |
-| Community stability | High | Dynamic | Moderate |
-
-## See Also
-
-- [[two-tier-selection-model]]
-- [[cannabis-endorniza-microbiome]]
-- [[cultivar-specificity-microbiome]]

@@ -23,7 +23,7 @@ The species was long known as Glaux maritima and is still frequently referred to
 
 Sea milkwort is recognized by its small, fleshy, opposite leaves and its inconspicuous pink to white flowers that lack true petals. It is one of the few flowering plants that thrives in the upper reaches of salt marshes and coastal drift lines.
 
-The species plays an important ecological role in salt marsh zonation, often occupying the transition zone between strictly halophytic communities and terrestrial vegetation. Its tolerance of saline conditions makes it a model organism for studying salt adaptation in plants.
+The species plays an important ecological role in salt marsh zonation, often occupying the transition zone between strictly halophytic communities and terrestrial vegetation. Its tolerance of saline conditions makes it a [[canary-grass-phototropism-model-organism]] for studying salt adaptation in plants.
 
 ## Taxonomy and Morphology
 
@@ -49,13 +49,13 @@ Flowering occurs from June through August, with peak bloom in midsummer. The fru
 
 Lysimachia maritima has a circumpolar distribution in the Northern Hemisphere. In Europe, it occurs along the Atlantic and Baltic coasts from northern Norway and Iceland southward to northern Spain and the Black Sea.
 
-The species extends across northern Asia through Siberia to the Russian Far East and into North America, where it occurs along the Arctic and subarctic coasts of Alaska and Canada. Disjunct populations are found in the Great Lakes region.
+The species extends across northern Asia through Siberia to the Russian Far East and into [[guzman-psilocybin-mushrooms-north-america]], where it occurs along the Arctic and subarctic coasts of Alaska and Canada. Disjunct populations are found in the Great Lakes region.
 
 In the British Isles, sea milkwort is common along the coasts of Scotland, England, Wales, and Ireland. It is particularly abundant on the salt marshes of eastern England and the estuaries of major rivers.
 
 The primary habitat is the upper salt marsh zone, where it grows in the transition between the low marsh dominated by Spartina species and the terrestrial vegetation of the cliff tops and sea walls. It tolerates regular inundation by brackish water.
 
-The species also colonizes shingle beaches, drift lines, coastal cliff ledges, and the margins of saline lagoons. It is frequently found growing among Limonium vulgare, Plantago maritima, and other typical salt marsh species.
+The species also colonizes shingle beaches, drift lines, coastal cliff ledges, and the margins of saline lagoons. It is frequently found growing among [[limonium-vulgare]], Plantago maritima, and other typical salt marsh species.
 
 Soil preferences include sandy or silty substrates with moderate to high salinity. The species can tolerate a wide range of salinity levels, from nearly freshwater to full seawater concentrations.
 
@@ -67,17 +67,17 @@ Sea milkwort is a key component of upper salt marsh plant communities, where it 
 
 The flowers are visited by a variety of small insects, including bees, flies, and beetles. Despite the absence of petals, the brightly colored calyx serves as an effective visual attractant for pollinators.
 
-The species exhibits a degree of self-compatibility, which is advantageous in isolated coastal populations where pollinator visitation rates may be low. Seed production is generally reliable even in years with poor pollinator activity.
+The species exhibits a degree of self-compatibility, which is advantageous in isolated coastal populations where pollinator visitation rates may be low. [[cannabis-controlled-pollination-seed-production]] is generally reliable even in years with poor pollinator activity.
 
-Field observations have documented hybridization between Lysimachia maritima and Lysimachia vulgaris in areas where their ranges overlap, particularly along estuarine margins. These natural hybrids are intermediate in morphology and may contribute to gene flow between coastal and inland populations.
+Field observations have documented hybridization between Lysimachia maritima and [[lysimachia-vulgaris]] in areas where their ranges overlap, particularly along estuarine margins. These natural hybrids are intermediate in morphology and may contribute to gene flow between coastal and inland populations.
 
-Seed dispersal is facilitated by water, with seeds floating on tidal waters and being deposited on suitable substrates during high tides. This hydrochorous dispersal mechanism explains the species' ability to colonize new coastal sites.
+[[clay-pellet-seed-dispersal]] is facilitated by water, with seeds floating on tidal waters and being deposited on suitable substrates during high tides. This hydrochorous dispersal mechanism explains the species' ability to colonize new coastal sites.
 
-Lysimachia maritima accumulates salts in its tissues as a physiological adaptation to saline conditions. This salt accumulation may deter herbivory by generalist insects and mammals that cannot tolerate high sodium levels.
+Lysimachia maritima accumulates salts in its tissues as a physiological adaptation to saline conditions. This [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]] may deter herbivory by generalist insects and mammals that cannot tolerate high sodium levels.
 
 The species is an indicator of moderate salinity conditions in salt marsh vegetation surveys. Its presence typically marks the boundary between regularly inundated lower marsh and occasionally flooded upper marsh communities.
 
-In North American Arctic coastal systems, Lysimachia maritima often grows alongside Carex subspathacea and Stellaria humifusa. These communities form important nesting habitat for migratory shorebirds during the brief Arctic summer.
+In [[growing-gourmet-north-american-reishi-species]] Arctic coastal systems, Lysimachia maritima often grows alongside Carex subspathacea and Stellaria humifusa. These communities form important nesting habitat for migratory shorebirds during the brief Arctic summer.
 
 The root system of sea milkwort is relatively shallow but extensive, forming a dense network that contributes to soil stability. This root mat is particularly important on shingle beaches and mobile substrates subject to wave action.
 
@@ -85,33 +85,6 @@ Comparative studies of salt marsh zonation across European coastlines have shown
 
 ## Biochemistry and Salt Tolerance
 
-Lysimachia maritima employs a combination of salt exclusion at the roots and salt accumulation in vacuoles to manage osmotic stress. This dual strategy allows it to maintain cellular function across a wide range of external salinity concentrations.
+Lysimachia maritima employs a combination of salt exclusion at the roots and [[jadam-salt-accumulation-in-soil]] vacuoles to manage osmotic stress. This dual strategy allows it to maintain cellular function across a wide range of external salinity concentrations.
 
 The fleshy leaves contain elevated levels of proline and other compatible solutes that protect cellular proteins from salt-induced denaturation. These biochemical adaptations have been studied as potential models for improving crop salt tolerance.
-
-Concentrations of sodium and chloride ions in leaf tissues can reach levels that would be toxic to most glycophytic plant species. The ability to compartmentalize these ions in vacuoles is essential for the species' survival in high-salinity environments.
-
-Research has identified several genes upregulated in Lysimachia maritima under salt stress that are homologous to known salt tolerance genes in Arabidopsis and other model organisms. These findings have implications for understanding the evolution of halophytism in angiosperms.
-
-## Cultivation
-
-Sea milkwort is occasionally cultivated in rock gardens and coastal plantings where conditions mimic its native habitat. It requires full sun and free-draining sandy soil with regular salt or brackish water applications.
-
-The species is hardy to USDA Zone 4 and tolerates extreme cold, making it suitable for gardens in northern temperate regions. It is not widely available commercially but can be grown from seed collected from wild populations where permitted.
-
-In cultivation, the species is relatively slow-growing and forms compact mats that are best appreciated at close range. It is well-suited to trough gardens, alpine house cultivation, and specialized coastal plant collections.
-
-Overwatering with fresh water can reduce the plant's vigor and alter its characteristic compact growth habit. A light application of sea salt or mineral-rich water once or twice monthly improves growth and flowering.
-
-## See Also
-
-- [[lysimachia-vulgaris]]
-- [[lysimachia-nummularia]]
-- [[lysimachia-nemorum]]
-- [[lysimachia-clethroides]]
-- [[juncus-effusus]]
-- [[typha-latifolia]]
-- [[carex-stricta]]
-- [[salicornia-europaea]]
-- [[limonium-vulgare]]
-- [[primula-vulgaris]]

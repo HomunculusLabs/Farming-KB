@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,15 +88,3 @@ The cascade effects extend far beyond the pines themselves:
 - When pines die, thickets of bamboo grass rise up
 - Mice feed on abundant bamboo grass berries and multiply
 - Mice attack cedar saplings, prompting rodenticide application
-- Weasels and snakes that feed on mice decline
-- Man then begins raising mice to restore the rodent population
-
-This chain of ecological disruption — each intervention creating the need for further intervention — demonstrates the futility of symptom-based approaches to what are systemic problems.
-
-## Related
-
-- [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]] Concepts
-
-- [[fukuoka-pine-environment-collapse-japan|Pine Environment Collapse in Japan]]
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature|No Cause and Effect in Nature]]
-- [[fukuoka-rodenticide-ecosystem-disruption-chain|Rodenticide Ecosystem Disruption Chain]]

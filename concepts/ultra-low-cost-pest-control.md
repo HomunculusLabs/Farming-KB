@@ -88,17 +88,3 @@ JADAM directly challenges the conventional practice of removing all crop residue
 ## [[integrated-pest-management]]: The JADAM Way
 
 JADAM's approach can be summarized as a form of integrated pest management that prioritizes prevention over treatment:
-
-1. Build healthy soil with diverse microorganisms (apply JMS with every watering)
-2. Maintain nutritional balance through crop-residue-based liquid fertilizers
-3. Manage soil temperature through mulching and cover crops
-4. Encourage biodiversity by co-existing with wild grass
-5. Use natural pesticides only when needed, made from local herbs with JWA
-6. Continuously observe and learn from nature
-
-Pesticides are probably the most expensive part of farming. By making natural pesticides at home, farmers can reduce this cost to nearly zero while maintaining effective pest control.
-
-## See Also
-
-- [[cho-pest-control-methods]]
-- [[bee-feeding-and-fungal-pesticides]]

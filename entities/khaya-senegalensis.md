@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Nair, K.S.S. (2000). "Entomology and Pest Management in the Tropics." Oxford & IBH Publishing.
+  - Nair, K.S.S. (2000). "Entomology garden-myths-weeds-and-pest-management in the Tropics." Oxford & IBH Publishing.
   - CTFT (Centre Technique Forestier Tropical) (1989). "Khaya senegalensis." Bois et Forêts des Tropiques, 220, 31-50.
   - Orwa, C. et al. (2009). "Agroforestree Database: Khaya senegalensis." World Agroforestry Centre.
   - Keay, R.W.J. (1989). "Trees of Nigeria." Oxford University Press.
@@ -22,7 +22,7 @@ sources:
 
 The species is valued for its high-quality timber, which is traded as a substitute for true mahogany (*Swietenia* spp.). It also serves important roles in traditional medicine, agroforestry, and urban landscaping.
 
-African mahogany has been widely planted across tropical Africa and beyond for timber, shade, and windbreak purposes. Its drought tolerance makes it particularly valuable in arid and semi-arid regions.
+African mahogany has been widely planted across tropical Africa and beyond for timber, shade, and windbreak purposes. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it particularly valuable in arid and semi-arid regions.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ Khaya senegalensis is notably drought-tolerant compared to other Khaya species. 
 
 Optimal growth occurs on deep, fertile, well-drained soils. The species also tolerates lateritic and sandy soils, though growth rates are reduced.
 
-It has been introduced to many tropical regions including Australia, Southeast Asia, and the Caribbean. Plantations in northern Australia have shown promising growth rates.
+It has been introduced to many [[fukuoka-natural-farming-in-tropical-regions]] including Australia, Southeast Asia, and the Caribbean. Plantations in northern Australia have shown promising growth rates.
 
 ## Timber Properties and Uses
 
@@ -72,13 +72,13 @@ Seedlings are raised in nursery beds or polybags for 4–6 months before outplan
 
 Spacing in plantations ranges from 3 × 3 to 4 × 4 meters depending on management objectives. Thinning begins at 8–10 years, targeting final stockings of 150–200 trees per hectare.
 
-Rotation lengths in plantations are typically 35–50 years for timber production. Mean annual increment ranges from 8–15 m³/ha/year on suitable sites.
+Rotation lengths in plantations are typically 35–50 years for [[honey-locust-pod-fodder-timber-production]]. Mean annual increment ranges from 8–15 m³/ha/year on suitable sites.
 
 The species coppices vigorously, making it suitable for fuelwood production systems. Coppice rotations of 10–15 years can produce sustainable biomass yields.
 
 In agroforestry systems, Khaya senegalensis is planted as a shade tree for crops including cocoa and coffee. Root competition can reduce crop yields if spacing is inadequate.
 
-Fertilizer application of 50–100 g NPK per tree annually improves early growth rates on nutrient-poor sites.
+[[cervantes-fertilizer-application-strain-feeding]] of 50–100 g NPK per tree annually improves early growth rates on nutrient-poor sites.
 
 ## Ecology and Conservation
 
@@ -86,21 +86,4 @@ In its native range, Khaya senegalensis provides food and habitat for numerous w
 
 The species is a significant component of riparian forest ecosystems, contributing to streambank stabilization and water cycle regulation. Its deep root system helps maintain groundwater levels.
 
-Natural regeneration is often poor under heavy grazing pressure. Seedlings are palatable to livestock and frequently browsed before they can establish.
-
-Over-exploitation for timber and bark has reduced natural populations in many areas. The species is classified as Vulnerable on the IUCN Red List due to habitat loss and logging.
-
-Plantations and agroforestry systems help reduce pressure on natural stands. However, the genetic base of planted material is often narrow, raising concerns about long-term adaptability.
-
-The shoot borer (*Hypsipyla robusta*) is the most significant pest in plantations, causing stem deformation and branching. No effective silvicultural control has been developed for this pest.
-
-## See Also
-
-- [[swietenia-macrophylla]]
-- [[swietenia-mahagoni]]
-- [[cedrela-odorata]]
-- [[azadirachta-indica]]
-- [[tectona-grandis]]
-- [[eucalyptus-globulus]]
-- [[acacia-nilotica]]
-- [[dalbergia-sissoo]]
+Natural regeneration is often poor under heavy [[gadd-mycelial-network-resilience-grazing-pressure]]. Seedlings are palatable to livestock and frequently browsed before they can establish.

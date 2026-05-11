@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca ayahuasca tourism shamanic tourism economics ayahuasca-tourism-economics-commodification-peru
+title: Ayahuasca Tourism Shamanic Tourism Economics
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [ayahuasca, shamanism]
 
 # [[ayahuasca-preparation]] for details on the brew itself.
 
-The article's section heading "A Religion and an Industry" captures this dual identity precisely.
+The article's section heading "A Religion and an Industry" captures this [[bloomfield-eurotium-aspergillus-pleomorphism-dual-identity]] precisely.
 
 The economic flows associated with ayahuasca tourism both support local communities and create significant distortions, operating across multiple price tiers and organizational models.
 
@@ -87,61 +87,3 @@ Commercial tourism extracts this practice from its communal context and reconsti
 This shift from communal to individual economics represents a fundamental transformation of the practice's social meaning.
 
 ## Supply Chain and Raw Materials
-
-The brew and its raw materials are openly sold in Peruvian markets, indicating a developed commercial supply chain:
-
-- **Ayahuasca vine** ([[harmala-alkaloids]] that function as MAO inhibitors.
-
-- **Chacruna leaves** ([[psychotria-viridis]]): The DMT-containing admixture plant that provides the visionary component of the brew.
-
-- **Other admixture plants**: Various additional plants may be included in different preparations, each available through local botanical supply networks.
-
-The commercial availability of these materials lowers barriers to entry for new practitioners and retreat operators, contributing to industry growth.
-
-It also means that the economic value of ayahuasca extends beyond the ceremony itself to include harvesting, transportation, and retail sales of botanical materials.
-
-## Industry Structure and Scale
-
-### Individual Practitioners
-
-Independent shamans operating from their homes or communities, often with informal marketing through word of mouth among travelers.
-
-These practitioners set their own prices and terms, with quality varying enormously based on individual character, skill, and motivation.
-
-### Family Operations
-
-Shipibo families with multi-generational shamanic traditions who host tourists alongside community ceremonies.
-
-The article notes that "there are at least a couple of ayahuasqueros in almost every Shipibo family," suggesting an enormous potential supply of practitioners.
-
-This distributed supply creates competitive pressure that can drive both quality improvements and exploitative practices.
-
-### Training Programs
-
-Two-week training sessions offered by visiting ayahuasqueros add another revenue stream beyond single ceremonies.
-
-The article describes two visiting shamans who spent two weeks in Yarina conducting training, indicating demand for extended educational experiences.
-
-### Formal Retreat Centers
-
-Organized businesses with dedicated facilities, marketing, and booking systems.
-
-These operations represent the most capitalized tier, with investments in infrastructure, staff, and international marketing.
-
-### International Facilitators
-
-North American and European operators who organize trips, handle logistics, and mediate between tourists and local practitioners.
-
-These facilitators capture value by reducing friction and uncertainty, though their intermediary role adds cost and distance between seekers and practitioners.
-
-## Government Involvement
-
-Government tourist agencies sponsor ayahuasca festivals, treating the practice as both cultural heritage and economic asset.
-
-This official promotion represents government investment in the tourism industry, using ayahuasca as a cultural brand to attract foreign visitors.
-
-The openness of ayahuasca commerce creates a business-friendly environment that supports industry growth without regulatory overhead.
-
-## Cost-Benefit Analysis for Tourists
-
-The article questions the economic rationality of traveling to South America solely for ayahuasca.

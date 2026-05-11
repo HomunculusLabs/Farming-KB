@@ -19,7 +19,7 @@ sources:
 
 Nymphaea tetragona, commonly known as the pygmy water lily or dwarf white water lily, is a small aquatic perennial in the family Nymphaeaceae.
 
-It is among the most widely distributed water lily species, ranging across northern Europe, northern Asia, and western North America.
+It is among the most widely distributed water lily species, ranging across northern Europe, northern Asia, and western [[guzman-psilocybin-mushrooms-north-america]].
 
 The species produces small white flowers and narrow floating leaves, typically reaching only 5 to 15 centimeters in diameter.
 
@@ -29,7 +29,7 @@ Nymphaea tetragona is significant as an ornamental pond plant, a subject of ecol
 
 Nymphaea tetragona was described by Georgi in 1775. It belongs to the subgenus Nymphaea, section Nymphaea within the genus Nymphaea.
 
-Some authorities have treated Nymphaea tetragona as a synonym of Nymphaea alba or Nymphaea odorata, but molecular phylogenetic studies support its status as a distinct species.
+Some authorities have treated Nymphaea tetragona as a synonym of [[nymphaea-alba]] or [[nymphaea-odorata]], but molecular phylogenetic studies support its status as a distinct species.
 
 The rhizome is slender and creeping, producing roots at nodes along its length.
 
@@ -47,11 +47,11 @@ The fruit is a globose capsule 1 to 1.5 centimeters in diameter, containing nume
 
 ## Distribution and Habitat
 
-Nymphaea tetragona has a circumboreal distribution, occurring across subarctic and temperate regions of the Northern Hemisphere.
+Nymphaea tetragona has a circumboreal distribution, occurring across subarctic and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 In Eurasia, it ranges from Scandinavia eastward through Siberia to northern China, Korea, and Japan.
 
-In North America, populations are found in Alaska, northern Canada, and the Pacific Northwest.
+In North America, populations are found in Alaska, northern Canada, and the [[psilocybin-north-america-pacific-northwest]].
 
 The species grows in shallow freshwater habitats including ponds, lake margins, slow-moving streams, and marshes.
 
@@ -77,7 +77,7 @@ The floating leaves provide shade and habitat for aquatic invertebrates and smal
 
 Nymphaea tetragona is a food source for various herbivores, including beavers, muskrats, and waterfowl.
 
-Decomposing leaf litter from Nymphaea tetragona contributes organic matter to the benthic environment, supporting detritivore food webs.
+Decomposing leaf litter from Nymphaea tetragona contributes [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to the benthic environment, supporting detritivore food webs.
 
 ## Cultivation
 
@@ -88,33 +88,3 @@ Its compact size makes it particularly suitable for tub gardens and balcony pond
 Cultivation requires full sun to partial shade and still or very slow-moving water.
 
 The rhizome should be planted in loam or clay-based aquatic soil at a depth of 15 to 45 centimeters below the water surface.
-
-Hardiness is excellent, with the species surviving winters in USDA zones 4 through 10.
-
-Fertilization with aquatic plant tablets during the growing season promotes flowering and leaf production.
-
-Pests include aphids and leaf miners, which can be managed by removing affected leaves or introducing predatory insects.
-
-## Conservation
-
-Nymphaea tetragona is listed as a species of least concern by the IUCN, owing to its wide geographic range.
-
-However, local populations are threatened by habitat loss due to drainage of wetlands, eutrophication from agricultural runoff, and competition from invasive aquatic plants.
-
-In parts of northern China, populations have declined due to urbanization of pond and marsh habitats.
-
-The species is protected under regional conservation laws in several European countries.
-
-Conservation efforts focus on maintaining shallow freshwater habitats with clean water and low nutrient loading.
-
-## See Also
-
-- [[nymphaea-alba]]
-- [[nymphaea-odorata]]
-- [[nymphaea-caerulea]]
-- [[nuphar-lutea]]
-- [[nuphar-advena]]
-- [[trapa-natans]]
-- [[potamogeton-natans]]
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]

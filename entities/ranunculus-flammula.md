@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Ranunculus flammula, the lesser spearwort, is a slender perennial herb in the family Ranunculaceae. It is considerably smaller than its relative Ranunculus lingua, typically reaching 15–60 cm in height.
+Ranunculus flammula, the lesser spearwort, is a slender perennial herb in the family Ranunculaceae. It is considerably smaller than its relative [[ranunculus-lingua]], typically reaching 15–60 cm in height.
 
-The species is widespread across temperate regions of the Northern Hemisphere. It inhabits wet meadows, stream margins, pond edges, and other damp habitats from sea level to subalpine elevations.
+The species is widespread across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It inhabits wet meadows, stream margins, pond edges, and other damp habitats from sea level to subalpine elevations.
 
 Like other buttercups, it contains protoanemonin and is toxic to livestock if ingested in quantity. The species epithet *flammula* means "small flame," likely referring to the bright yellow flowers.
 
@@ -65,13 +65,13 @@ The roots are fibrous and relatively shallow, spreading horizontally in the uppe
 
 ## Distribution and Habitat
 
-Ranunculus flammula occurs throughout Europe, including Iceland and the Faeroe Islands, and extends eastward across northern Asia to Japan and Kamchatka. In North America it is found across Canada and the northern United States.
+Ranunculus flammula occurs throughout Europe, including Iceland and the Faeroe Islands, and extends eastward across northern Asia to Japan and Kamchatka. In [[guzman-psilocybin-mushrooms-north-america]] it is found across Canada and the northern United States.
 
 The species occupies a broad range of wet habitats including wet meadows, marshes, stream banks, lake margins, ditches, and damp heathland. It tolerates water depths up to 10 cm and seasonally flooded ground.
 
-It grows in acidic to neutral soils, preferring peaty or sandy substrates. Common associates include Juncus effusus, Carex nigra, and various Sphagnum species.
+It grows in acidic to neutral soils, preferring peaty or sandy substrates. Common associates include [[juncus-effusus]], Carex nigra, and various Sphagnum species.
 
-The species tolerates moderate salinity and can be found in brackish marshes near the coast. This salt tolerance is unusual among Ranunculus species.
+The species tolerates moderate salinity and can be found in brackish marshes near the coast. This [[fungal-salt-tolerance-and-ion-homeostasis]] is unusual among Ranunculus species.
 
 Populations in northern Scandinavia and Iceland show greater morphological variability than southern populations. Alpine forms are consistently shorter and more compact.
 
@@ -85,37 +85,6 @@ The bright yellow flowers are visited by a variety of small insects, particularl
 
 Ranunculus flammula serves as a food plant for the larvae of several moth species. The toxicity of its foliage limits herbivory by most mammalian grazers.
 
-The species colonizes newly exposed mud along receding waterlines through seed dispersal. It can form dense stands in disturbed wetland areas before being succeeded by taller competitors.
+The species colonizes newly exposed mud along receding waterlines through [[clay-pellet-seed-dispersal]]. It can form dense stands in disturbed wetland areas before being succeeded by taller competitors.
 
 Seeds are dispersed by water and by adhesion to the feet and feathers of waterfowl. This dispersal mechanism enables rapid colonization of newly created wetland habitats.
-
-In oligotrophic wetlands it persists as part of the stable community. In more eutrophic sites it is typically outcompeted by taller emergent species.
-
-Ranunculus flammula has been used as a model organism in studies of plant responses to flooding. Its ability to alter leaf morphology in response to submergence is well documented.
-
-## Cultivation
-
-Ranunculus flammula is cultivated as a marginal aquatic plant for native plant gardens and wildlife ponds. It is planted at the water's edge in shallow water or saturated soil.
-
-The plant prefers acidic to neutral, peaty substrates in full sun to light shade. It is hardy to USDA zones 4–8 and requires consistently moist conditions.
-
-Propagation is by seed or division. Seeds benefit from cold stratification and should be sown on moist compost in autumn. Division is straightforward in spring.
-
-Plants can also be propagated from stem cuttings placed in water. Roots develop at the nodes within 2–3 weeks during the growing season.
-
-It has received the Royal Horticultural Society's Award of Garden Merit for its reliability and wildlife value. The compact habit and long flowering season make it a versatile choice for small ponds.
-
-Slugs may damage young growth in spring but serious pest problems are rare. The plant self-seeds readily in suitable conditions and may spread beyond its intended location.
-
-## See Also
-
-- [[ranunculus-lingua]]
-- [[ranunculus-acris]]
-- [[ranunculus-bulbosus]]
-- [[ranunculus-ficaria]]
-- [[caltha-palustris]]
-- [[anemone-nemorosa]]
-- [[helleborus-niger]]
-- [[pulsatilla-vulgaris]]
-- [[clematis-vitalba]]
-- [[aconitum-napellus]]

@@ -6,6 +6,7 @@ tags: [regenerative-agriculture, grazing, land-management, holism, sustainabilit
 related: [savory-holistic-decision-making, savory-livestock-grazing-planning, savory-brittle-environments]
 type: concept
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
@@ -86,27 +87,3 @@ Savory identifies several common errors that produce what he calls "nongoals"—
 ## Universal Application
 
 HRM is not limited to ranching or agriculture. It applies to national parks, forestry, watershed management, urban planning, and policy development. The model can be used in diagnostic mode (analyzing what went wrong), policy analysis mode (predicting outcomes of proposed actions), and research orientation mode (identifying where knowledge is most needed).
-
-Savory emphasizes that solutions to global resource problems must be simple and understandable by ordinary people. Millions of ordinary people, in making their living from the land, control our collective fate. If environmental disasters are to be averted, it must be through methods that do not require advanced degrees to apply.
-
-## A Paradigm Shift
-
-HRM represents more than a new management technique—it is a fundamental shift in how humans understand their relationship to the natural world. The holistic perspective recognizes that humans are not separate from or above ecosystems but are integral parts of them. Management decisions that ignore this interconnection inevitably produce unintended consequences that undermine the very goals they seek to achieve.
-
-The framework's power lies in its simplicity and universality. It does not require specialized knowledge to apply, yet it can accommodate the most advanced scientific understanding. It works at any scale and in any cultural context, provided practitioners are willing to think holistically and monitor their results honestly.
-
-## Sources
-
-- Savory, Allan. *Holistic Resource Management*. Island Press, 1988.
-- Savory, Allan, and Jody Butterfield. *Holistic Management: A New Framework for Decision Making*. Island Press, 1999.
-- Center for Holistic Resource Management (now Savory Institute)
-
-## See Also
-
-- [[keyline-design-water-management]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
-- [[savory-brittle-environments]]
-- [[savory-holistic-decision-making]]
-- [[savory-livestock-grazing-planning]]
-- [[savory-soil-carbon-sequestration]]
-- [[savory-wildlife-livestock-integration]]

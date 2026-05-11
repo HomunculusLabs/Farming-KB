@@ -42,7 +42,7 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 10 mg) Nothing psychedelic, but awfully hard on the bod. The
 > next day (24 hours later) I had a severe response to 5 milligrams of
-> psilocybin.
+> [[psilocybin]].
 
 ## Extensions and Commentary
 
@@ -70,7 +70,7 @@ effective dose of A will make a next-day's normally effective dose of
 B weaker than expected. Or not active at all. And B will do the same
 job on A. If two drugs are different in their ways of doing things in
 the body, there is most often no cross-tolerance seen. This was
-described for MDMA and MDA, and is the basis of the argument that they
+described for [[mdma]] and MDA, and is the basis of the argument that they
 act by distinctly separate mechanisms. A person who used what would
 be held as an active dose of MDMA for several days lost all response
 to the drug. He was tolerant to its effects. But an exposure to an
@@ -88,55 +88,3 @@ have heard of, from here and there. I have been told of an experiment
 with the dextro-isomer of DOM (this is the inactive optical isomer) at
 a level that was, not surprisingly, without any effects. The
 researcher had a severe reaction the following day with what was
-referred to as "poor" hashish. A similar form of potentiation has
-been commented upon under the recipe for TOMSO, where an inactive
-drug, and a most modest amount of alcohol, add together to create an
-unexpectedly intense intoxication. But note that in each of these
-cases, it is a phenethylamine interacting with a non-phenethylamine
-(psilocybin is an indole, hashish is a non-alkaloid terpene thing, and
-alcohol is, well, alcohol).
-
-The bottom line with METHYL-DOB is, as with the other N-methylated
-psychedelics, that it is way down in potency, and probably not worth
-pursuing.
-
-## Synthesis
-
-To a solution of 6.0 g of the free base of
-2,5-dimethoxy-N-methyl-amphetamine (see recipe under METHYL-DMA) in 30
-mL glacial acetic acid there was added, dropwise and with good
-stirring, a solution of 5.5 g bromine in 15 mL acetic acid. The
-reaction became quite warm, and turned very dark. After stirring an
-additional 45 min, the mixture was poured into 200 mL H2O and treated
-with a little sodium hydrosulfite which lightened the color of the
-reaction. There was added 20 mL concentrated HCl, and the reaction
-mixture was washed with 2x100 mL CH2Cl2 which removed most of the
-color. The aqueous. phase was made basic with 25% NaOH, and extracted
-with 3x100 mL CH2Cl2. The removal of the solvent from the pooled
-extracts under vacuum gave 1.8 g of an oil which was dissolved in 10
-mL IPA, neutralized with concentrated HCl, and diluted with 100 mL
-anhydrous Et2O. No crystals were obtained, but rather an oily and
-somewhat granular insoluble lower phase. The Et2O was decanted, and
-the residue washed by grinding up under 3x100 mL Et2O. The original
-decanted material was combined with the three washes, and allowed to
-stand for several h. The product
-4-bromo-2,5-dimethoxy-N-methylamphetamine hydrochloride (METHYL-DOB)
-separated as fine white crystals which weighed, after filtering and
-air drying, 0.3 g and had a mp of 149-150 deg C. The Et2O-insoluble
-residue finally set up to a pale pink mass which was finely ground
-under a few mL acetone. Filtration and air drying gave a second crop
-of product as 0.9 g of pale lavender solids, with a mp of 143-145 deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[p-entity]]
-
-- [[mme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

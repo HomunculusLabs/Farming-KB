@@ -9,7 +9,7 @@ topics: [potato, calorie-crop, food-self-sufficiency, vegetable-gardening, stapl
 
 ## Overview
 
-Steve Solomon identifies the potato (*Solanum tuberosum*) as the single most important crop for home food self-sufficiency. In a garden intended to produce a significant portion of a family's calories, no other vegetable approaches the potato's ability to convert garden space into edible food energy. Understanding why the potato dominates calorie production, and how to grow it effectively, is essential for anyone serious about food self-sufficiency.
+Steve Solomon identifies the potato (*[[solanum-tuberosum]]*) as the single most important crop for home food self-sufficiency. In a garden intended to produce a significant portion of a family's calories, no other vegetable approaches the potato's ability to convert garden space into edible food energy. Understanding why the potato dominates [[solomon-garden-planning-calorie-production]], and how to grow it effectively, is essential for anyone serious about food self-sufficiency.
 
 ## Why Potato Dominates
 
@@ -54,7 +54,7 @@ For families seeking near-complete calorie self-sufficiency:
 - **Full calories**: ~4,500 ft² (420 m²) growing beds plus root cellar for winter storage
 - **With rotation**: Double the growing area for ley rotation, requiring ~9,000 ft² total
 - **Add 500 ft²**: For additional calories per adult in the family
-- **Without irrigation**: Add ~7,000 ft² (650 m²) in the rainier parts of North America
+- **Without irrigation**: Add ~7,000 ft² (650 m²) in the rainier parts [[berry-growing]]
 
 Potatoes and sweet potatoes form the caloric foundation of all these scenarios.
 
@@ -65,7 +65,7 @@ Potatoes and sweet potatoes form the caloric foundation of all these scenarios.
 Potatoes are classified as **high-demand vegetables** requiring:
 
 - **Rich, deep soil**: Loose, well-drained soil allows tubers to expand freely
-- **Complete Organic Fertilizer (COF)**: Solomon's COF provides balanced NPK plus trace minerals
+- **[[complete-organic-fertilizer-cof]] (COF)**: Solomon's COF provides balanced NPK plus [[dynamic-accumulator-plants-trace-minerals]]
 - **High organic matter**: Compost or well-rotted manure improves soil structure and moisture retention
 - **pH consideration**: While Solomon de-emphasizes pH correction in favor of balanced mineral nutrition, potatoes benefit from adequate calcium
 
@@ -87,64 +87,4 @@ Choose varieties based on local adaptation, storage quality (late-season varieti
 
 Common potato challenges and organic responses:
 
-- **Colorado potato beetle**: Hand-picking, Bt (Bacillus thuringiensis) applications, row covers for early season
-- **Late blight (*Phytophthora infestata*)**: The most serious potato disease; requires resistant varieties, good air circulation, and avoidance of overhead watering
-- **Wireworm**: Crop rotation, mustard cover crops as biofumigants
-- **Scab**: Adequate moisture during tuber formation; balanced soil nutrition
-
-## Storage and Preservation
-
-### Root Cellaring
-
-Potatoes are among the easiest crops to store through winter:
-
-- **Temperature**: 38-40°F (3-4°C) — cool but above freezing
-- **Humidity**: 85-90% relative humidity to prevent shriveling
-- **Darkness**: Essential to prevent greening (solanine production, which is toxic)
-- **Ventilation**: Some air circulation prevents moisture buildup and rot
-- **Duration**: Properly stored potatoes can last 4-6 months or longer
-
-### Other Preservation Methods
-
-Freezing works best as mashed or pre-cooked preparations. Dehydrating produces dried slices or flakes for long-term storage. Pressure-canning is required due to low acidity.
-
-## Nutritional Value
-
-Potatoes are often underestimated nutritionally:
-
-- **Vitamin C**: A single medium potato provides ~45% of daily vitamin C requirements
-- **Potassium**: More potassium per serving than bananas
-- **Fiber**: Especially with skin; significant soluble and insoluble fiber
-- **Protein**: While not protein-dense, the protein in potatoes is high-quality with a complete amino acid profile
-- **B vitamins**: Good source of B6, niacin, and folate
-- **Minerals**: Contains iron, magnesium, phosphorus, and zinc
-
-Solomon notes that commercial growers who push potassium levels for higher yields produce potatoes with increased starch and fiber but decreased protein, vitamins, enzymes, and minerals. Home-grown potatoes with balanced fertilization are nutritionally superior.
-
-## Integration with the Ley Rotation System
-
-Potatoes benefit from and contribute to Solomon's recommended rotation system:
-
-- **After grass/clover break**: Newly broken sod produces the best potato crops for the first two years
-- **Soil-building role**: The deep cultivation required for potatoes helps incorporate organic matter
-- **Disease break**: Potatoes should not follow other solanaceous crops (tomatoes, peppers, eggplant) due to shared diseases
-- **Position in rotation**: Potatoes typically go in the first or second year after breaking sod, when soil fertility and biological activity are highest
-
-## Historical Context
-
-The potato's importance in human history reinforces Solomon's recommendation:
-
-- **Irish Potato Famine**: Demonstrated both the potato's capacity to feed a population and the danger of over-reliance on a single variety
-- **Global adoption**: The potato spread from the Andes to become a staple across Europe, Asia, and beyond
-- **Cuban model**: In Cuba's post-Soviet urban gardens, potatoes and sweet potatoes formed the caloric foundation of a nationally self-sufficient food system
-
-## See Also
-
-- solomon potato growing guide solomon
-- [[solomon-self-sufficiency-calorie-production-economics]]
-- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
-- [[solomon-garden-planning-calorie-production]]
-- [[solomon-root-cellaring-food-preservation]]
-- [[solomon-vegetable-demand-classification-low-medium-high]]
-- solomon complete organic fertilizer cof recipe solomon
-- [[solomon-vegetable-nutritional-decline-trace-minerals]]
+- **Colorado potato beetle**: Hand-picking, Bt ([[bacillus-thuringiensis]]) applications, row covers for early season

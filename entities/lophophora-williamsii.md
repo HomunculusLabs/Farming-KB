@@ -37,7 +37,7 @@ Kingdom Plantae → Clade Eudicots → Order Caryophyllales → Family Cactaceae
 
 ## Habitat and Distribution
 
-Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan Desert into central Mexico (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, Zacatecas). Found under nurse plants (*Acacia*, *Prosopis*, *Larrea*) in shrubland and thornscrub at 100–1,800 m elevation. Arid to semi-arid; 200–500 mm annual rainfall; extreme temperature variation from freezing winters to 45 °C summers. Limestone-derived, well-drained alkaline soils.
+Native to south Texas (Rio Grande Valley, Big Bend) south through the Chihuahuan Desert into [[psychoactive-cacti-of-central-mexico]] (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas, Zacatecas). Found under nurse plants (*Acacia*, *Prosopis*, *Larrea*) in shrubland and thornscrub at 100–1,800 m elevation. Arid to semi-arid; 200–500 mm annual rainfall; extreme temperature variation from freezing winters to 45 °C summers. Limestone-derived, well-drained alkaline soils.
 
 ## Bioactive Compounds
 
@@ -72,10 +72,10 @@ Onset 45–120 minutes, come-up 1–2 hours, peak 3–5 hours, total experience 
 
 ### Therapeutic Potential
 
-- **Substance use disorders**: NAC members show very low rates of alcoholism compared to general Native American populations
-- **PTSD and trauma**: NAC participants report significant symptom reductions; controlled trials pending
+- **Substance use disorders**: NAC members show very low rates of alcoholism compared to general [[native-american-church-peyote-ceremony-structure-roles-roadman]] populations
+- **[[cannabis-for-ptsd-and-trauma]]**: NAC participants report significant symptom reductions; controlled trials pending
 - **Depression/anxiety**: Open-label studies show antidepressant effects persisting weeks after single sessions
-- **Neuroimaging**: fMRI shows decreased default mode network activity and increased global connectivity, consistent with the entropy model of psychedelic action
+- **Neuroimaging**: fMRI shows decreased [[default-mode-network-and-ego-dissolution]] activity and increased global connectivity, consistent with the entropy model of psychedelic action
 
 ## Conservation Status
 
@@ -83,29 +83,8 @@ CITES Appendix II; IUCN Vulnerable (30%+ population decline). Primary threats: i
 
 ### Legal Status by Region
 
-- **United States**: Exempt for members of the Native American Church (AIRFA 1994); Schedule I for all other uses; Texas state-jail felony for possession outside NAC context
+- **United States**: Exempt for members of the [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] (AIRFA 1994); Schedule I for all other uses; Texas state-jail felony for possession outside NAC context
 - **Mexico**: Protected species under NOM-059-SEMARNAT-2010; harvest restricted to NAC members and Wixárika with permits; enforcement inconsistent
-- **Canada**: Controlled under the Controlled Drugs and Substances Act; Schedule III; exempt for Indigenous ceremonial use under specific conditions
+- **Canada**: Controlled under the Controlled Drugs and [[controlled-substances-act-and-psychedelic-research]]; Schedule III; exempt for Indigenous ceremonial use under specific conditions
 - **Europe**: Not scheduled in most countries (mescaline itself is scheduled, but not the plant); Germany and some Eastern European nations restrict cultivation
 - **Australia**: Schedule I (mescaline); plant itself is controlled in some states
-
-## Cultivation
-
-Extremely slow: 1–2 cm diameter per year; flowering at 5–10+ years. Propagation by seed (scarify, cold stratify 60–90 days) or grafting onto faster rootstock (*Pereskiopsis*, *Trichocereus*) for conservation purposes. Highly mineral limestone-based soil (50%+ grit, low [[hamilton-composting-and-organic-matter-management]]). Infrequent deep watering in summer; bone dry October–April. Full morning sun, shade from intense afternoon. Min 5 °C, max 40 °C.
-
-### Conservation Cultivation
-
-Grafted specimens on *Trichocereus* rootstock can grow 10–20× faster than own-root plants, providing material for legitimate conservation programs without impacting wild populations. Responsible cultivators should:
-
-- Source seeds or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] from verified legal suppliers only
-- Never purchase wild-collected specimens
-- Label and track all cultivated material to prevent laundering of wild plants
-- Share genetic material with botanical gardens and conservation programs
-- Maintain documentation of provenance for all cultivated stock
-
-### Grafting Technique
-
-- Use young *[[lophophora-diffusa]]
-
-- [[psychedelic-plant-sources]]
-- [[entheogens-in-ancient-cultures]]

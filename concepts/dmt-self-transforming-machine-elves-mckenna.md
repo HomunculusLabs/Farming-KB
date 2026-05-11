@@ -88,37 +88,3 @@ Subsequent research has documented consistent reports of entity encounters acros
 ## The Mushroom as Symbiote Hypothesis
 
 McKenna reported that within the mushroom trance, he was informed that [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] "is a symbiote, and it desires ever deeper symbiosis with the human species." He proposed it achieved early symbiosis through association with domesticated cattle and human nomads, so that "where human genes went these other genes would be carried." The mushroom, in this view, uses human civilization as a vehicle for its own dispersal, offering expanded consciousness in exchange for propagation.
-
-## The Black Hole Effect
-
-McKenna described what he called the "black hole effect" surrounding DMT: "once one knows about it, it is very hard for others to understand what one is talking about. One cannot be heard. The more one is able to articulate what it is, the less others are able to understand." He compared this metaphorically to a black hole's gravity curving space so that no light or signal can escape. This communicative impossibility, McKenna suggested, may be why enlightenment is traditionally described in silence, and why the DMT phenomenon has received so little scientific attention despite its extraordinary nature.
-
-## DMT as Endogenous Compound
-
-McKenna emphasized the significance of DMT being an endogenous hallucinogen, present in small amounts in the human brain. He noted that psilocybin is 4-phosphoraloxy-N,N-dimethyltryptamine, while serotonin, the major neurotransmitter in the human brain, is 5-hydroxytryptamine. The structural similarity between these compounds and the extreme rapidity of DMT onset (forty-five seconds, lasting five minutes) suggested to McKenna that "the brain is absolutely at home with this compound," unlike LSD which is retained in the body for extended periods.
-
-This endogenous presence raises profound questions about the nature of the DMT experience: if the brain produces this compound naturally, the states it induces may represent latent capacities of human consciousness rather than purely artificial alterations.
-
-## The Shamanic Context
-
-McKenna contrasted the absence of a Western shamanic tradition with the sophisticated approaches of indigenous cultures. In archaic societies, shamans are identified by signs including epilepsy, survival of unusual ordeals, and a general "extraordinary centeredness." They are "the true phenomenologists of this world" who "know plant chemistry" but call energy fields "spirits," using the word "spirit" as "a technical gloss for a very complicated concept."
-
-McKenna reported that when he asked Amazonian informants about their abilities, they said: "Let's take our machetes and hike out here half a mile and get some vine and boil it up and we will show you what we can show you." The mushroom answered the question of why McKenna was chosen as an ambassador: "Because you did not believe in anything. Because you have never given over your belief to anyone."
-
-## The Ontological Shock
-
-McKenna described his first full DMT experience in 1966 as producing a complete shattering of "ontological categories." He came down saying repeatedly, "I cannot believe this; this is impossible, this is completely impossible." He described a "declension of gnosis" that proved to him "that right here and now, one quanta away, there is raging a universe of active intelligence that is transhuman, hyperdimensional, and extremely alien."
-
-This ontological shock connects to McKenna's broader argument that "the human soul is so alienated from us in our present culture that we treat it as an extraterrestrial." He suggested that "the most alien thing in the cosmos is the human soul," and that DMT reveals dimensions that remain inaccessible to ordinary consciousness.
-
-## See Also
-
-- [[dmt-machine-elves]]
-
-- [[self-transforming-machine-elves]]
-
-- [[psilocybin-mushroom-extraterrestrial-hypothesis]]
-
-- [[the-logos-and-translinguistic-matter]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- gartz-tryptamine-enrichment-psilocybin-biosynthesis

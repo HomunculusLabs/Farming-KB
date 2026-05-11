@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # European Distribution System Critique
@@ -87,18 +88,3 @@ He pointed to the Italian farmers who had begun practicing [[fukuoka-origin-agri
 ## The Role of Media in Food Price Perception
 
 Fukuoka noted that media played a crucial role in maintaining the distribution system's power. By controlling information about supply, demand, and pricing, media outlets could shape both farmer and consumer behavior to benefit the middlemen. The contradictory newspaper reports he observed in Austria and Italy — one claiming scarcity, the other surplus — illustrated how information itself becomes a commodity manipulated within the distribution chain.
-
-This media dynamic has only intensified with globalization. Today, food prices are influenced not just by local conditions but by commodity futures markets, international trade agreements, and financial speculation — layers of abstraction that further separate the consumer from the reality of food production. Fukuoka's observation that "the price of farm products everywhere is under the control of the merchandisers and the media" has proven prescient in an era where algorithmic trading can shift grain prices within seconds based on weather reports half a world away.
-
-## Lessons for Building Resilient Food Systems
-
-Fukuoka's observations point toward practical principles for building food systems resistant to the manipulations he identified. Direct farmer-to-consumer relationships, whether through farmers' markets, CSAs, or on-farm sales, eliminate the informational asymmetry that enables price manipulation. When consumers know the farmer and understand the conditions of production, the media narrative about scarcity or surplus can be evaluated against [[fukuoka-direct-observation-method]].
-
-Community food sovereignty — the right of communities to define their own food and agriculture systems — represents a structural answer to the distribution problem Fukuoka identified. By localizing food production and decision-making, communities reduce their vulnerability to distant market forces and media manipulation. Fukuoka's ideal was not merely economic localism but ecological integration: food systems so deeply embedded in their landscapes and communities that the concept of "distribution" as a separate function would become obsolete.
-
-## See Also
-
-- [[fukuoka-european-agriculture-observations]]
-- [[fukuoka-mu-economics]]
-- [[fukuoka-natural-diet-food-philosophy]]
-- [[fukuoka-italian-agriculture-observations]]

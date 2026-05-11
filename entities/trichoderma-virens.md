@@ -19,7 +19,7 @@ Trichoderma virens is a polyphagous mycoparasitic ascomycete and
 one of the most effective [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against soil-
 borne plant pathogens. Formerly known as Gliocladium virens, the
 species was reclassified following modern phylogenetic analysis.
-T. virens has been widely tested against Pythium ultimum damping-
+T. virens has been widely tested against [[pythium-ultimum]] damping-
 off in cotton (Howell 1982, 1987, 1991) and other crops,
 demonstrating consistent efficacy across diverse agricultural
 systems.
@@ -29,7 +29,7 @@ epipolythiodioxopiperazine class of fungal metabolites, which is
 a potent antibiotic effective against a wide range of fungal
 pathogens. The toxinogenic T. virens efficiently suppressed
 Pythium ultimum in cotton fields (Howell 1991), and suppression
-of damping-off of peas was achieved in a commercial potting mix
+of damping-off of peas was achieved in a commercial [[solomon-potting-mix-and-seedling-soil-recipe]]
 (Howell 1991).
 
 T. virens is also rhizosphere-competent, able to colonize plant
@@ -84,37 +84,7 @@ protection against diverse soil-borne pathogens.
 ### Efficacy Against Soil Pathogens
 T. virens efficiently suppressed Pythium ultimum in cotton fields
 (Howell 1991). Suppression of damping-off of peas was achieved in
-a commercial potting mix. Alongside Coniothyrium minitans, T.
+a commercial potting mix. Alongside [[coniothyrium-minitans]], T.
 virens was identified as one of the most active agents against
-Sclerotinia sclerotiorum, both singly and in combination (Whipps
+[[sclerotinia-sclerotiorum]], both singly and in combination (Whipps
 and Budge 1990).
-
-The species' broad-spectrum activity against multiple pathogen
-genera makes it a versatile biocontrol agent suitable for
-integrated pest management programs targeting complex disease
-complexes involving Pythium, Rhizoctonia, Sclerotinia, and other
-soil-borne pathogens.
-
-### Selective Isolation
-Selective isolation uses medium with benomyl, sodium propionate,
-rose bengal, and antibacterial antibiotics supplemented with
-gliotoxin and acriflavine (Park et al. 1992). The addition of
-gliotoxin to the medium selectively favors T. virens, which is
-resistant to its own metabolite, while inhibiting sensitive
-fungal competitors. A similar formulation is used for
-Clonostachys rosea.
-
-## Relevance
-T. virens is one of the most thoroughly characterized
-mycoparasitic biocontrol agents, with well-documented efficacy
-against multiple soil-borne plant pathogens. Its production of
-gliotoxin as a primary antibiotic mechanism provides a model for
-understanding [[solomon-root-exudates-and-allelopathy]] in [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. The species
-exemplifies how combining multiple biocontrol mechanisms can
-provide robust, broad-spectrum [[aact-disease-suppression-mechanisms-ingham]].
-
-## See Also
-Related: [[ingham-trichoderma-biocontrol-fungi-aact]], [[trichoderma-harzianum]]
-- [[sclerotinia-sclerotiorum]]
-- [[clonostachys-rosea]]
-- [[pythium-oligandrum]]

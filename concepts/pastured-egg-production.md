@@ -9,11 +9,11 @@ sources: []
 
 # Pastured Egg Production
 
-Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs. (see [[chickshaw-and-poultry-tractors]]).
+Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs.
 
 ## Mobile Coop Systems
 
-The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly. (see [[chicken-keeping]]).
+The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
 
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
@@ -25,7 +25,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or hoop house design
+- A-frame or hoop [[energy-efficient-house-design]]
 - Lightweight materials: PVC, cattle panels, plywood
 - Best for homestead-scale production
 
@@ -91,7 +91,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 
 ### Nutritional Differences
 Pastured eggs vs. conventional:
-- 2-3x more omega-3 fatty acids
+- 2-3x more omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]
 - 3-6x more vitamin D
 - 25% more vitamin E
 - 70% more vitamin A
@@ -108,7 +108,7 @@ Pastured eggs vs. conventional:
 ## Feed Management
 
 ### Supplemental Feed
-- Pasture provides 20-30% of diet in peak growing season
+- Pasture provides 20-30% of diet in peak [[extending-growing-season]]
 - Feed a quality layer ration (16% protein) free-choice
 - Consumption: 1/4 to 1/3 lb per hen per day
 - Scratch grains as treat only (not a complete feed)

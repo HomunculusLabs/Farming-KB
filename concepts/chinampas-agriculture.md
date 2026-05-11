@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -87,20 +88,3 @@ water treatment services, demonstrating the permaculture principle of
 multiple functions.
 
 ## Ecological Benefits
-
-The genius of the chinampa system lies in its integrated nutrient
-cycling. The canals between islands provide irrigation water, support
-aquatic plants harvested for mulch, host fish and amphibians that
-deposit nutrient-rich waste, and supply dredged canal mud for fertilizer.
-
-This creates a nearly closed nutrient loop where nothing is wasted.
-Mollison described it as "the most productive agricultural system ever
-devised by humans." The water between chinampa islands moderates
-temperature extremes, cooling during hot days and reducing frost risk
-on cold nights.
-
-## See Also
-
-- [[water-garden-and-ponds]]
-- [[aquatic-polyculture-design-mollison]]
-- [[natives-vs-exotics]]

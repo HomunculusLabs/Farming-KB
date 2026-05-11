@@ -1,5 +1,5 @@
 ---
-title: Straw-Based [[gourmet-medicinal-mushroom-substrate-preparation]]
+title: Straw Based Mushroom Substrate Preparation
 slug: straw-based-mushroom-substrate-preparation
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag
 tags: [mushrooms, substrate, straw, pasteurization, cultivation, mycology]
@@ -88,34 +88,3 @@ Straw is soaked in cold water with hydrated lime (calcium hydroxide) added to ra
 ## Moisture Content Management
 
 Proper moisture content is one of the most critical factors in successful straw substrate preparation:
-
-- **Too dry** (below 50%): Mycelium grows slowly or fails to colonize. Fruiting may be poor or absent.
-- **Too wet** (above 70%): Anaerobic conditions develop, favoring bacterial contamination (souring). Substrate becomes compacted, reducing air exchange.
-- **Ideal range** (60-65%): The substrate holds together when squeezed but no water drips out. Mycelium colonizes rapidly and produces robust fruiting bodies.
-
-The squeeze test is the simplest field method for assessing moisture content: grab a handful of substrate and squeeze firmly. A few drops of water should emerge, but the substrate should not drip freely. If no water appears, the substrate is too dry; if water streams out, it is too wet.
-
-## Common Problems and Solutions
-
-### Contamination
-- **Mold (Trichoderma, Aspergillus)**: Usually indicates insufficient pasteurization or excess moisture. Improve sterilization and drainage.
-- **Bacterial souring**: Wet, slimy substrate with a foul smell. Caused by overhydration and anaerobic conditions. Reduce moisture and ensure adequate air exchange.
-- **Cobweb mold (Dactylium)**: Fine, grayish mycelial growth. Often introduced through contaminated spore syringes or poor sterile technique.
-
-### Slow Colonization
-- **Substrate too dry**: Increase hydration time or add more water
-- **Substrate too compacted**: Use longer straw pieces and pack more loosely
-- **Insufficient supplementation**: Add more brown rice flour or yeast extract
-- **Old or weak spawn**: Use fresh, vigorously growing spawn
-
-### Uneven Colonization
-- **Poor mixing**: Ensure supplements are evenly distributed
-- **Uneven packing**: Pack substrate uniformly, avoiding dense patches and air pockets
-- **Temperature gradients**: Ensure consistent incubation temperature throughout the substrate
-
-## See Also
-
-- [[pressure-cooker-sterilization-mycology]]
-- spore syringe preparation mushroom cultivation
-- [[filter-can-design-mushroom-grow-bags]]
-- liquid culture vs grain spawn

@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
@@ -87,36 +88,3 @@ While a young tree grown from seed grows faster than grafted stock in theory, th
 - **With great care**: Trees grown from seed eventually develop more quickly and outperform grafted trees
 - **Citrus rootstock**: Takes more time and sends down shallower roots initially, requiring patience
 - **Long-term advantage**: Seed-grown trees develop deeper, more balanced root systems that support greater longevity and resilience
-- **Natural form emergence**: Seed-grown trees naturally develop the shape Fukuoka advocated — horizontal spreading branches with a low center of gravity
-
-## The Possibility of a Natural Orchard of Surprises
-
-Fukuoka envisioned a different model for fruit growing than the commercial clone orchard:
-
-"An unusual fruit will arise from the seed. Indeed, why not multiply the joys of life by creating a natural orchard full of variety and surprises?"
-
-Apple trees can be trained into dwarf trees using dwarfing stock, but it may also be interesting to plant seed directly and grow young saplings into majestic trees having a natural form. Such a tree bears fruit of vastly differing sizes and shapes that may be unfit for the market, but the possibility of discovering exceptional new varieties always exists.
-
-This vision challenges the fundamental assumption that uniformity equals quality. A natural orchard of seed-grown trees would produce fruit of unpredictable character — some inferior, some merely different, and perhaps some genuinely superior to anything available through conventional breeding. The loss of market uniformity would be compensated by genetic resilience, reduced inputs, and the joy of discovery.
-
-## Practical Considerations for Natural Orchard Establishment
-
-When establishing a natural orchard, Fukuoka recommended a specific sequence:
-
-1. Dig fairly deep holes, fill with coarse organic matter, and plant saplings over this
-2. Plant both unpruned saplings and fruit seed over the site, leaving them unattended as in reforestation
-3. Allow natural succession to proceed — suckers grow from cut tree stumps and weeds and low brush flourish
-4. Management consists primarily of cutting weeds and underbrush twice a year with a large sickle
-5. After four to five years, when non-fruit trees recede, broadcast clover seed over the entire orchard to control or suppress remaining weed growth
-
-## The Compromise: Modified Natural Form
-
-For practical fruit production, direct seeding of citrus is not viable because the seed is the product of extensive cross-breeding between artificially cultivated varieties. If allowed to grow to maturity, the tree either reverts to an ancestral form or produces inferior hybrid fruit.
-
-Yet growing from seed remains invaluable for understanding the natural form of the tree. The practical solution Fukuoka eventually adopted was to grow grafted nursery stock but train it toward the natural form through minimal, careful formative pruning — achieving a compromise between market viability and natural tree health.
-
-## Connection to Other Concepts
-
-- [[fukuoka-no-prune-fruit-tree-method|No-Prune Fruit Tree Method]]
-- [[fukuoka-citrus-orchard-establishment-bare-hillside|Citrus Orchard Establishment on Bare Hillside]]
-- [[fukuoka-three-dimensional-orchard-design|Three-Dimensional Orchard Design]]

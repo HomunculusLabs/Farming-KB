@@ -3,6 +3,7 @@ title: Cannabis Solvent Extraction
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -12,7 +13,7 @@ tags: [cannabis]
 
 ## Overview
 
-Solvent extraction uses chemical solvents to dissolve THC and other cannabinoids from cannabis plant material. According to Cervantes, while these methods can produce extremely potent concentrates, they carry significant health risks from explosion, fire, toxic fumes, and residual solvent contamination. The book deliberately omits detailed instructions for chemical extraction methods because of these safety concerns, noting that chemical damage may result from premature use of the end product before all solvents and residuals have been extracted.
+Solvent extraction uses chemical solvents to dissolve THC and other cannabinoids from cannabis plant material. According to Cervantes, while these methods can produce extremely potent concentrates, they carry significant health risks from explosion, fire, toxic fumes, and residual solvent contamination. The book deliberately omits detailed instructions for chemical [[arbuscular-mycorrhizal-spore-extraction-methods]] because of these safety concerns, noting that chemical damage may result from premature use of the end product before all solvents and residuals have been extracted.
 
 ## Types of Solvent Extraction
 
@@ -31,7 +32,7 @@ The general process involves [[knf-seed-soaking-cannabis-germination]] in the so
 
 ### Isomerization
 
-Isomerization is a chemical resin extraction process that was very popular in the 1970s and early 1980s. It has fallen out of favor because of the harsh and dangerous chemical solvents required, including white gas, sulfuric acid, and hydrochloric acid. These chemicals pose serious health risks to both the producer and consumer.
+Isomerization is a chemical resin extraction process that was very popular in the 1970s and early 1980s. It has fallen out of favor because of the harsh and dangerous chemical solvents required, including white gas, [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], and hydrochloric acid. These chemicals pose serious health risks to both the producer and consumer.
 
 ### Butane Extraction (BHO)
 
@@ -81,31 +82,9 @@ Cannabis oil can be consumed in several ways:
 - Applied to pipe screens before smoking
 - Smoked using hot knives (a traditional method)
 - Vaporized in an oil pipe (a stem with a glass bubble on one end)
-- Added to cooking recipes as an ingredient
+- Added to [[falconer-victorian-mushroom-cooking-recipes]] as an ingredient
 - Applied to the tip of a cigarette
 
 A popular smoking method involves placing a little oil inside the glass bubble of an oil pipe. When heat is applied, the THC vaporizes and is inhaled through the stem.
 
 ## Potency
-
-Well-made cannabis oil is extremely potent, often registering more than 70 percent THC. This makes solvent-extracted oil one of the most concentrated forms of cannabis available, far exceeding the potency of flower or even traditional hashish.
-
-## Why Hash Oil Never Became Super Popular
-
-Cervantes notes several reasons hash oil never achieved mainstream popularity:
-
-- It is inconvenient to smoke compared to flower or hash
-- Many users do not want to be exposed to health risks from processing solvents
-- There are many safe ways to separate THC-potent glands from foliage
-- Residual solvent contamination is a persistent concern
-- The risk of explosion during production deters many potential producers
-
-## Safer Alternatives
-
-The book recommends several safer methods of separating THC-potent glands from foliage:
-
-- [[comparison-cannabis-kief-collection-vs-hashish-guide]] using screens of various micron sizes
-- [[cannabis-hashish-production]]
-- [[cannabis-oil-extraction]]
-- [[cannabis-cannabutter-preparation]]
-- [[cannabis-hash-making-from-extracted-oil]]

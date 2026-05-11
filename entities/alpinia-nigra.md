@@ -88,27 +88,3 @@ Cultivation of *Alpinia nigra* is primarily at the subsistence level, with most 
 Vegetative propagation through rhizome division is the standard method. Rhizome segments with 2–3 buds are planted at 5–8 cm depth during the pre-monsoon period, typically March to April.
 
 The crop performs best under partial shade (40–60% light reduction) simulating its natural forest understory habitat. Full sun exposure reduces leaf size and rhizome quality, while excessive shade slows growth.
-
-A planting spacing of 60 × 45 cm is recommended, accommodating the plant's larger stature compared to other cultivated *Alpinia* species. Organic manure application (10–15 t/ha) at planting supports establishment.
-
-Harvest of rhizomes begins 10–12 months after planting. Yields under cultivated conditions are estimated at 6–10 t/ha, though systematic yield trials have not been conducted.
-
-**Post-harvest, rhizomes are washed, sliced, and dried in shade to preserve essential oil content.** Sun-drying at excessive temperatures can volatilize the aromatic compounds and reduce medicinal quality.
-
-## Related Species
-
-*Alpinia nigra* belongs to subgenus *Alpinia*, one of four subgenera within the genus. It is most closely related to *A. galanga* (greater galangal) based on molecular phylogenetic analyses using ITS and matK DNA sequences.
-
-Compared to greater galangal, black galangal has a darker rhizome, less pungent flavor, and a distinct essential oil profile richer in sesquiterpenes. *Alpinia officinarum* (lesser galangal) differs by its smaller stature, more intense pungency, and higher concentration of galangin.
-
-*Alpinia zerumbet* (shell ginger) is primarily an ornamental species with showy pendant inflorescences, though it shares some medicinal properties. *Alpinia purpurata* (red ginger) is grown as a cut flower and has limited documented ethnobotanical use.
-
-## See Also
-
-- [[alpinia-officinarum]]
-- [[alpinia-purpurata]]
-- [[boesenbergia-rotunda]]
-- [[curcuma-longa]]
-- [[zingiber-mioga]]
-- [[zingiber-cassumunar]]
-- [[hedychium-gardnerianum]]

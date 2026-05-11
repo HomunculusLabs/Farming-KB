@@ -1,10 +1,11 @@
 ---
-title: cervantes volatile solvent extraction Extraction and Hash Oil
+title: Cervantes Volatile Solvent Extraction
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, extraction, solvent, BHO, hash-oil]
 ---
@@ -22,7 +23,7 @@ residue in the final product.
 
 Hash oil is a concentrate of hash or marijuana ([[cervantes-hash-cannabis-oil-production]])
 that has been dissolved in hydrocarbon solvents such as ether
-and alcohol to extract THC. Hash and cannabis oil frequently
+and alcohol to extract THC. Hash and [[cannabis-oil-capsules-preparation]] frequently
 retain residues from the solvents used to extract the THC.
 These residues pose a health risk to consumers.
 
@@ -77,8 +78,8 @@ Dangers of butane extraction:
 Isomerization is a chemical resin extraction process that was
 popular in the 1970s and early 1980s but has fallen out of
 favor because of the harsh and dangerous chemical solvents
-used: white gas, sulfuric acid, hydrochloric acid, and others.
-The process converts CBD to THC through chemical
+used: white gas, [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]], hydrochloric acid, and others.
+The process converts [[cbd-to-thc-isomerization-chemistry]] through chemical
 transformation, but the risks and complexity make it
 impractical for most users.
 
@@ -87,35 +88,3 @@ impractical for most users.
 Jelly hash is a combination of high-quality hash and cannabis
 oil, typically extracted with butane. The typical recipe
 contains eight parts hash and one part cannabis oil (hash oil).
-Although very strong, the dark jelly hash has a characteristic
-sticky, oily consistency that makes it difficult to handle.
-The combination of water-extracted hash purity with
-concentrated oil potency produces one of the strongest cannabis
-products available.
-
-## Smoking Methods for Hash Oil
-
-The oil can be consumed in several ways:
-- Wiped on joint papers or cigarettes
-- Applied to pipe screens
-- Smoked using hot knives
-- Vaporized in an oil pipe (a stem with a glass bubble on one
-  end where a little oil is placed and heated until THC
-  vaporizes)
-- Used as an ingredient in jelly hash
-
-## Safer Alternatives
-
-Cervantes emphasizes that there are many safe ways to separate
-THC-potent glands from foliage without using volatile solvents.
-Water extraction, dry sieving, and hand rubbing all produce
-quality hash without the explosion, fire, and health risks
-associated with chemical solvents. For home extraction, these
-mechanical methods are strongly preferred over solvent-based
-approaches.
-
-## See Also
-
-- [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cervantes-dry-sieve-hash-pollinator]]

@@ -39,7 +39,7 @@ diverse. As documented in [[vermicompost-tea]] brewed from worm castings is
 widely used as a foliar spray and soil drench in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]].
 
 Choosing the right system is important for successful vermicomposting. The
-[[soil-food-web]] benefits enormously from vermicomposting. Worm castings
+[[soil-foodweb]] benefits enormously from vermicomposting. Worm castings
 improve soil structure by increasing aggregate stability, enhancing water
 retention, and creating channels for root growth and air movement. The humic
 acids and plant [[ingham-natural-growth-regulators-soil-microbes]] present in castings can stimulate seed

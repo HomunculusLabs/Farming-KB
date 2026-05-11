@@ -69,7 +69,7 @@ Minas Gerais, and Espírito Santo at elevations of 600–2,000 m.
 The species grows as an epiphyte on moss-covered tree trunks and branches,
 or as a lithophyte on humid rock faces and cliffs near waterfalls. It is
 frequently found in the "campos de altitude" (high-altitude grasslands)
-and cloud forest zones.
+and [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]] zones.
 
 Habitats are characterized by high humidity, frequent mist and fog, and
 cool temperatures. The plants receive dappled shade from surrounding
@@ -78,7 +78,7 @@ forest canopy and are often found growing alongside orchids and bromeliads.
 ## Carnivorous Adaptations
 
 Utricularia reniformis captures prey using specialized underground bladder
-traps, which are among the most sophisticated trapping mechanisms in the
+traps, which are among the most sophisticated [[fungal-nematode-predation-and-trapping-mechanisms]] in the
 plant kingdom. Each bladder is a hollow, translucent organ with a trapdoor
 mechanism.
 
@@ -88,56 +88,3 @@ pulls the prey into the bladder within milliseconds. The door then seals
 shut, trapping the prey inside.
 
 Digestion is accomplished by glands on the interior bladder walls, which
-secrete a combination of proteases and phosphatases. Prey typically
-consists of protozoa, nematodes, rotifers, and small crustaceans that
-inhabit the moist substrate.
-
-The bladder traps operate continuously, providing the plant with a
-supplemental nutrient source in the nutrient-poor epiphytic environments
-it inhabits. A single plant may possess hundreds to thousands of active
-traps across its stolon network.
-
-## Cultivation
-
-Utricularia reniformis is considered a challenging species for cultivation
-and is recommended for experienced growers. It requires conditions that
-closely replicate its native cloud forest habitat.
-
-The standard growing medium is live sphagnum moss or a long-fiber sphagnum
-and perlite mix. The plant should be kept in a shallow tray of distilled
-water to maintain high humidity around the root zone.
-
-Temperatures should be maintained between 15–22 °C during the day, with
-a drop to 10–15 °C at night. The species does not tolerate heat above
-28 °C and will decline rapidly in warm conditions.
-
-Light should be bright but indirect. Under artificial lighting, 12–14
-hours of LED illumination at moderate intensity is appropriate. Direct
-sun will scorch the delicate foliage.
-
-## Conservation
-
-Utricularia reniformis faces significant conservation concerns due to the
-extensive deforestation of the Atlantic Forest biome. Less than 12% of the
-original Atlantic Forest cover remains, and habitat loss continues at an
-accelerating rate.
-
-The species has not been formally assessed by the IUCN, but its restricted
-range and habitat specificity suggest it is likely vulnerable or endangered.
-Urban expansion, agriculture, and tourism development threaten remaining
-populations.
-
-Ex situ conservation through botanical gardens and private collections
-plays an important role in preserving the species. Seed banking and tissue
-[[stamets-cultivator-liquid-culture-propagation-methods]] are recommended for long-term conservation efforts.
-
-## See Also
-
-- [[utricularia-vulgaris]]
-- [[pinguicula-moranensis]]
-- [[drosera-rotundifolia]]
-- [[nepenthes-rajah]]
-- [[cephalotus-follicularis]]
-- darlingtonia californica
-- [[genlisea-aurea]]
-- [[dionaea-muscipula]]

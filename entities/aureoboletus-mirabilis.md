@@ -21,7 +21,7 @@ sources:
 
 **Aureoboletus mirabilis** is an edible bolete mushroom found in the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is commonly called the **admirable bolete** or **velvet bolete** due to its striking dry, velvety golden-yellow cap.
 
-The species is a mycorrhizal associate of conifers, particularly **western hemlock** (*Tsuga heterophylla*) and **Sitka spruce** (*Picea sitchensis*). It fruits in late autumn through winter, making it one of the latest-fruiting boletes in its range.
+The species is a mycorrhizal associate of conifers, particularly **western hemlock** (*[[tsuga-heterophylla]]*) and **Sitka spruce** (*[[picea-sitchensis]]*). It fruits in late autumn through winter, making it one of the latest-fruiting boletes in its range.
 
 Its combination of a bright yellow cap, reddish pore surface, and reticulate stipe makes it relatively easy to identify in the field. It is considered one of the better edible boletes in the Pacific Northwest.
 
@@ -57,7 +57,7 @@ The species was originally described by William A. Murrill in 1912 as *Boletus m
 
 ## Distribution and Habitat
 
-*A. mirabilis* is found along the Pacific coast of North America, from British Columbia through Washington and Oregon to northern California. It has also been reported in the Rocky Mountains of Idaho and Montana.
+*A. mirabilis* is found along the Pacific coast [[berry-growing]], from British Columbia through Washington and Oregon to northern California. It has also been reported in the Rocky Mountains of Idaho and Montana.
 
 It is an obligate **ectomycorrhizal** species, forming associations primarily with conifers. Common host trees include western hemlock, Sitka spruce, Douglas-fir, and western redcedar. It fruits on the ground in conifer forests, often near fallen logs or in moss.
 
@@ -69,7 +69,7 @@ Fruiting occurs from October through January, with peak production in November a
 
 It can be prepared by sautéing, drying, or pickling. The firm texture holds up well in soups and stews. Dried specimens reconstitute well and retain good flavor.
 
-As with all boletes, specimens should be checked for insect larva infestation, which is common in older fruiting bodies. The stipe can become tough in mature specimens and is often discarded.
+As with all boletes, specimens should be checked for insect larva infestation, which is common in older [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The stipe can become tough in mature specimens and is often discarded.
 
 There are no known toxic look-alikes in its range. The combination of golden-yellow velvety cap, red reticulate stipe, and late-season fruiting make misidentification unlikely.
 
@@ -77,7 +77,7 @@ There are no known toxic look-alikes in its range. The combination of golden-yel
 
 As an ectomycorrhizal species, *A. mirabilis* plays an important role in **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]** in Pacific Northwest conifer forests. The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] it forms with host trees facilitates exchange of soil minerals for photosynthetically fixed carbon.
 
-The species contributes to **forest soil aggregation** through hyphal growth and contributes organic matter to the forest floor. Late-season fruiting bodies provide a food source for deer, small mammals, and invertebrates during months when other fungal resources are scarce.
+The species contributes to **forest soil aggregation** through [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] contributes organic matter to the forest floor. Late-season fruiting bodies provide a food source for deer, small mammals, and invertebrates during months when other fungal resources are scarce.
 
 ## Cultivation
 
@@ -85,31 +85,6 @@ Cultivation of *Aureoboletus mirabilis* has not been commercially achieved. As a
 
 Some mycologists have attempted **greenhouse inoculation** of conifer seedlings with *A. mirabilis* spore slurries or mycelial cultures, with limited success. Fruiting in pot cultures has been observed only rarely and unpredictably.
 
-The species is primarily harvested from wild populations. Sustainable foraging practices are recommended, including cutting mushrooms at the base rather than uprooting and leaving smaller specimens to mature.
+The species is primarily harvested from wild populations. Sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] are recommended, including cutting mushrooms at the base rather than uprooting and leaving smaller specimens to mature.
 
 ## Chemical Composition
-
-Limited analytical data exist for *A. mirabilis*. Preliminary analyses indicate the presence of **ergosterol**, **phenolic compounds**, and **beta-glucans** consistent with other bolete species.
-
-The bright yellow cap coloration is attributed to **carotenoid pigments**, possibly including variants of boletaxanthin and related tetrahydropyran carotenoids. These compounds are of interest for their antioxidant properties.
-
-The species has not been investigated for novel bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]], representing a potential area for future pharmacognostic research. Related *Aureoboletus* species have yielded antimicrobial and anti-inflammatory compounds.
-
-## Similar Species
-
-- **Boletus aereus** — darker cap, lacks bright yellow coloration; [[fukuoka-european-distribution-system-critique]].
-- **Xerocomus subtomentosus** — has a darker, brownish cap and less prominent reticulation.
-- **Boletus edulis** — much larger, white reticulation on stipe, different pore color at maturity.
-- **Rubroboletus satanas** — pinkish-red pores, bitter taste; not found in the Pacific Northwest.
-
-## See Also
-
-- [[welwitschia-mirabilis]]
-
-- [[boletus-aereus]]
-- [[suillus-luteus]]
-- [[cantharellus-cibarius-entity]]
-- [[hericium-erinaceus]]
-- [[paul-stamets]]
-- [[trametes-versicolor-entity]]
-- [[laetiporus-sulphureus]]

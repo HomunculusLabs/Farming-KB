@@ -1,5 +1,5 @@
 ---
-title: Permaculture Zones and Sectors
+title: Permaculture Zones And Sectors
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- Passive solar design elements
+- [[passive-solar-design]] elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 
@@ -33,7 +33,7 @@ Zone 0 design focuses on energy efficiency, thermal comfort, and integrating gro
 Immediately surrounding the home, visited daily. Contains high-maintenance, high-yield elements:
 
 - Annual vegetable beds
-- Salad gardens and culinary herbs
+- Salad gardens [[holzer-medicinal-and-culinary-herbs-compendium]]
 - Seedling nursery and propagation area
 - Small greenhouse or cold frame
 - Compost bins (close for kitchen scrap delivery)
@@ -51,7 +51,7 @@ Visited every few days. Lower maintenance than Zone 1 but still actively managed
 - Berry patches (raspberries, blackberries, strawberries)
 - Perennial vegetables (asparagus, rhubarb, artichokes)
 - Larger composting systems
-- Poultry housing and forage areas
+- [[poultry-housing-guide]] and forage areas
 - Pond or small water feature
 - Guild plantings around fruit trees
 - Beehives
@@ -79,7 +79,7 @@ Visited occasionally for foraging and observation. Semi-wild productive landscap
 - Foraging for wild mushrooms, nuts, berries
 - Timber and firewood production
 - Hunting and fishing zones
-- Wildlife corridors
+- [[permaculture-designers-manual-wildlife-corridors]]
 - Seed collection from wild plants
 - Minimal intervention — observe and harvest only
 
@@ -147,4 +147,3 @@ Key design response: [[permaculture-earthworks]] such as swales and keyline syst
 ### Wildlife Sector
 
 Track animal movement corridors and foraging patterns:
-

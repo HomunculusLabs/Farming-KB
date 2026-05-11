@@ -51,7 +51,7 @@ The chromosome number is 2n = 22, consistent with many diploid Centaurea species
 
 In its native range, it occupies a wide ecological amplitude, from lowland to montane zones up to approximately 800 m elevation.
 
-The species is a strong indicator of unimproved grassland. It tolerates moderate grazing pressure and is characteristic of neutral to slightly acidic hay meadows.
+The species is a strong indicator of unimproved grassland. It tolerates moderate [[gadd-mycelial-network-resilience-grazing-pressure]] and is characteristic of neutral to slightly acidic hay meadows.
 
 It thrives on well-drained to moist soils, including loams, clays, and sandy substrates. It is less common on very acidic peat or highly calcareous soils.
 
@@ -75,11 +75,11 @@ The root system contributes to soil structure in permanent pasture. Its deep tap
 
 Common knapweed is easily grown from seed sown in autumn or [[coleman-overwintered-onions-and-early-spring-crops]] onto bare soil. No stratification is required, though a brief cold period can improve germination rates.
 
-Seed should be sown at 1–2 g per square metre in wildflower meadow mixtures. It typically germinates within 2–4 weeks under warm, moist conditions.
+Seed should be sown at 1–2 g per square metre in [[hamilton-wildflower-meadow]] mixtures. It typically germinates within 2–4 weeks under warm, moist conditions.
 
 Plants usually flower in their second year from seed, though early-sown seed may produce flowers in the first autumn. Flowering period extends from June to September.
 
-Established plants are drought-tolerant once mature and require no irrigation in temperate climates. They persist for many years in permanent grassland without needing reseeding.
+Established plants are drought-tolerant once mature and require no irrigation [[query-how-to-grow-and-use-oca-in-temperate-climates]]. They persist for many years in permanent grassland without needing reseeding.
 
 ## Uses
 
@@ -88,33 +88,3 @@ In traditional agriculture, *C. nigra* was considered a moderate-quality forage 
 The species is a core component of native wildflower seed mixes marketed for meadow creation, pollinator strips, and highway verge management in the UK and continental Europe.
 
 It has limited ethnobotanical use. Dried flower heads have been used ornamentally, and the plant has occasionally been used in folk medicine as an astringent and wound herb.
-
-In ecological landscaping, knapweed is valued for its long flowering period and robust nature. It tolerates cutting regimes associated with hay meadow management and recovers well from annual mowing.
-
-## Conservation Status
-
-*Centaurea nigra* is listed as Least Concern on the IUCN Red List and has no significant conservation concerns across most of its native range. However, it has declined substantially in intensively farmed agricultural landscapes.
-
-In the UK, the species is a component of several Biodiversity Action Plan priority habitats, including lowland meadow and lowland calcareous grassland. Its presence is used as an indicator of favourable management in agri-environment scheme monitoring.
-
-The decline of species-rich hay meadows since the mid-twentieth century has reduced the overall population of *C. nigra* in western Europe. Agricultural intensification, particularly the use of nitrogen fertilisers and herbicides, has eliminated it from many formerly occupied sites.
-
-## See Also
-
-- [[centaurea-cyanus]]
-- [[tragopogon-pratensis]]
-- [[plantago-lanceolata]]
-- [[filipendula-ulmaria]]
-- [[achillea-millefolium]]
-- [[plantago-major]]
-- [[galium-aparine]]
-- [[trifolium-pratense]]
-- [[trifolium-repens]]
-- [[taraxacum-officinale]]
-- [[lotus-corniculatus]]
-- [[sambucus-nigra]]
-- [[digitalis-purpurea]]
-- [[rumex-acetosa]]
-- [[juncus-effusus]]
-- [[betula-pendula]]
-- [[quercus-robur]]

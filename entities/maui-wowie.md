@@ -10,6 +10,7 @@ tags:
   - hawaiian
   - tropical
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Clarke, R.C. (1998). "Hashish!" Red Door Books.
   - Rosenthal, E. (2001). "The Big Book of Buds." Quick American Archives.
   - The Cannabist. "Maui Wowie Strain Review." cannabist.com.
@@ -87,35 +88,3 @@ The strain responds well to **[[cannabis-training-techniques-comparison]]** incl
 ## Cannabinoid Profile
 
 Original landrace Maui Wowie contained **moderate THC levels** by modern standards, typically ranging from 10–15% in well-grown specimens. CBD content is generally low, usually below 0.5%.
-
-The cannabinoid profile is relatively simple compared to modern poly-hybrids:
-
-- **THC** — 10–15% (landrace); modern hybrids reach 18–22%
-- **CBD** — < 0.5% (negligible)
-- **THCV** — trace amounts, possibly contributing to the energetic effects
-- **CBG** — present in minor quantities
-
-Modern cultivars sold as Maui Wowie tend to have significantly higher THC content (15–20%) due to crossbreeding with high-potency lines. Purists consider this a departure from the original's moderate, manageable effects.
-
-The relatively low cannabinoid concentration is offset by a **rich and diverse terpene profile**, which contributes significantly to the overall psychoactive experience through the [[cannabis-terpene-entourage-effect-profiles]].
-
-## Medical Applications
-
-Maui Wowie is used therapeutically primarily for **mood disorders and fatigue-related conditions**. Its uplifting, energizing profile makes it suited to daytime symptom management.
-
-Documented applications include:
-
-- **Depression** — euphoric effects provide temporary mood elevation
-- **Fatigue** — stimulating properties combat low energy and lethargy
-- **Stress and anxiety** — anxiolytic effects at moderate doses
-- **ADHD** — some patients report improved focus
-- **Mild pain relief** — anti-inflammatory terpenes offer peripheral analgesia
-
-The strain is generally not recommended for conditions requiring sedation, such as severe insomnia or acute pain. Its functional, clear-headed effects make it one of the more practical daytime medical options.
-
-## See Also
-
-- [[trainwreck-cannabis]] — sativa-dominant hybrid with energetic profile
-- [[blue-dream]] — balanced hybrid with cerebral qualities
-- [[cannabis-indoor-growing-basics]] — pure landrace sativa from Africa
-- [[super-lemon-haze]] — citrusy sativa-dominant hybrid

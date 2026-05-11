@@ -2,7 +2,7 @@
 title: Cannabis for Cardiovascular Health (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-diabetes cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -13,7 +13,7 @@ tags: [cannabis]
 ## Evidence-Based Confidence Level and Therapeutic Potential
 
 - Total Number of Studies Reviewed: 7
-- CHI Value: 16
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 16
 
 ## Overview
 
@@ -84,56 +84,7 @@ A Geneva study (2009) showed that CB2 activation might also protect ischemic
 | Drugs | Study | Year, Place, Key Results | CHI |
 |-------|-------|--------------------------|-----|
 | CB2 agonist JWH-133 | Animal (mice) | 2009, Geneva, Switzerland: Reduction of infarct size and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] | 2 |
-| CBD | Animal (rats) | 2009, Sao Paulo, Brazil: Reduced all stress responses -- anxiety, high blood pressure, rapid heart rate | 2 |
+| CBD | Animal (rats) | 2009, Sao Paulo, Brazil: Reduced all [[fungal-stress-responses]] -- anxiety, high blood pressure, rapid heart rate | 2 |
 | Cannabinoid drugs | Meta-analysis | 2007, Dunedin, New Zealand: Endocannabinoid receptors involved in vasodilation, cardiac protection, blood pressure control, anti-inflammation, anti-atherosclerosis | 4 |
 | CBD | Animal (rats) | 2007, Jerusalem, Israel: Substantial in vivo cardioprotective effect from ischemia | 3 |
-| Endocannabinoids, synthetic cannabinoids | Animal (rats/mice) | 2006, Montreal, Canada: Direct cardioprotective effects confirmed in vivo and in vitro | 2 |
-| THC | Laboratory | 2006, Ramat-Gan, Israel: THC protects cardiac cells against hypoxia | 1 |
-| CBD and THC | Animal (mice) | 2004, Fukuoka City, Japan: CBD and THC significantly reduced heart attack size | 2 |
-
-Total CHI Value: 16
-
-## Strain- and Form-Specific Considerations
-
-Pre-clinical trials proved that cannabinoids (whether plant, synthetic, or
-endogenous) have cardioprotective properties.
-
-- Sativas and indicas activate CB1 and CB2 receptors
-- Indicas and indica-heavy hybrids tend to possess higher CBD content than
-  sativas
-- Raw, fresh leaf or leaf juice contains significantly higher amounts of
-  CBD-acid than heated or processed plant matter
-- CB2 activation via (E)-beta-caryophyllene (found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves,
-  cinnamon, basil, rosemary, oregano) can stimulate cardioprotective pathways
-  without psychoactive effects
-
-## Mind-Body Medicine and Heart Disease
-
-"From the beginning of our understanding of coronary heart disease, emotions
-have been considered a contributing factor." A meta-analysis confirmed
-correlations between emotions and heart disease. Hostility and anger were
-linked to higher rates of cardiovascular disease and lower life expectancy.
-
-Alexander identified factors playing a role in the development of illness:
-hereditary constitution, birth trauma, nature of infant care, accidental
-physical and emotional traumatic experiences, emotional climate of family,
-late physical injuries, and the nature of coping strategies.
-
-## Key Takeaways
-
-- THC and CBD significantly reduce heart attack size in animal models
-- The endocannabinoid system naturally resides in heart tissue and provides
-  intrinsic cardioprotection via CB2 activation
-- CBD calms autonomic stress responses including rapid heart rate and high
-  blood pressure
-- Cannabinoids promote vasodilation, inhibit endothelial inflammation, and
-  slow atherosclerosis progression
-- CB2-specific activation (via CBD or caryophyllene-containing spices) offers
-  cardioprotection without psychoactive effects
-
-## See Also
-
-- [[blesching-cannabis-als]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-diabetes]]
-- [[cannabis-chronic-pain-management]]
+| Endocannabinoids, [[blesching-cannabis-synthetic-cannabinoids]] | Animal (rats/mice) | 2006, Montreal, Canada: Direct cardioprotective effects confirmed in vivo and in vitro | 2 |

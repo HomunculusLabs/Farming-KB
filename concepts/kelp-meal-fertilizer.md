@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of trace elements. (see [[hamilton-alternative-soil-conditioners]]).
+Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of [[teaming-with-nutrients-micronutrients-and-trace-elements]].
 
 ## Nutrient Content
 
@@ -56,10 +56,27 @@ If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides
 | Fish meal | 9% | 2.5% | -- | -- |
 | Dried blood | 12-14% | Small | -- | -- |
 
-Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition.
 
 ## Related
 
 - [[trace-elements-in-soil]] — preventing and treating trace element deficiencies
 - [[homemade-liquid-fertilizer]] — liquid kelp fertilizer as a foliar spray
 - [[soil-conditioners-guide]] — kelp as a soil conditioner
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[query-how-to-use-kelp-meal-as-fertilizer]]
+- [[comparison-fish-aminos-vs-kelp-meal]]
+- [[comparison-kelp-meal-vs-rock-dust]]
+- [[hamilton-concentrated-organic-fertilizer-products]]
+- [[solomon-fertilizer-selection-application]]

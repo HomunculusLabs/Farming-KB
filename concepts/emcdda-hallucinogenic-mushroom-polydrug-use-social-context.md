@@ -77,7 +77,7 @@ Bad trips involving panic reactions and psychosis-like states are commonly repor
 
 ## The Amanita Muscaria Shift After Legal Restrictions
 
-Since 2001, six EU Member States have tightened legislation on hallucinogenic mushrooms: Denmark (2001), Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006). Following these legal restrictions, retailers began switching sales to alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria-entity|Amanita muscaria]], muscimol, ibotenic acid, and [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] -- growkit market details
+Since 2001, six EU Member States have tightened legislation on hallucinogenic mushrooms: Denmark (2001), Netherlands (2002), Germany, Estonia, UK (2005), and Ireland (2006). Following these legal restrictions, retailers began switching sales to alternative legal hallucinogenic mushrooms, particularly [[amanita-muscaria|Amanita muscaria]], muscimol, ibotenic acid, and [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] -- growkit market details
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]] -- smartshop retail context
 - [[amanita-muscaria-chemistry-and-pharmacology]] -- Amanita muscaria [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[hallucinogenic-mushroom-legal-status-europe]] -- European legal overview

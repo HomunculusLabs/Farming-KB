@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 # Hypsizygus tessulatus
 
-**Hypsizygus tessulatus**, commonly known as the elm oyster, buna-shimeji, or hon-shimeji, is a highly prized edible mushroom in the family Lyophyllaceae. Native to temperate hardwood forests ooyster-mushroomsAmerica, and East Asia, it has become a commercially important cultivated mushroom, particularly in Japan where it ranks among the top cultivated species by market value. Despite the common name "elm oyster," it is not closely related to true [[oyster-mushrooms]] ms]] ms]] (*Pleurotus* spp.) and belongs to a different family and order.
+**Hypsizygus tessulatus**, commonly known as the elm oyster, buna-shimeji, or hon-shimeji, is a highly prized edible mushroom in the family Lyophyllaceae. Native to temperate hardwood forests ooyster-mushroomsAmerica, and East Asia, it has become a commercially important cultivated mushroom, particularly in Japan where it ranks among the top cultivated species by market value. Despite the common name "elm oyster," it is not closely related to true [[oyster-mushrooms]] (*Pleurotus* spp.) and belongs to a different family and order.
 
 ## Taxonomy and Clarification
 

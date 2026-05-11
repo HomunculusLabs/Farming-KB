@@ -1,5 +1,5 @@
 ---
-title: "guzman allen gartz copelandia genus diversity biogeography Diversity and Biogeography"
+title: Guzman Allen Gartz Copelandia Genus Diversity Biogeography
 created: 2026-04-28
 tags:
   - guzman-allen-gartz
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
+  - Guzman G, Allen JW, Gartz J (2000) A worldwide psilocybe-geographical-distribution-patterns
     of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
 type: concept
@@ -20,7 +20,7 @@ type: concept
 
 ## Overview
 
-The genus Copelandia comprises 12 recognized species of neurotropic fungi
+The genus Copelandia comprises 12 recognized species [[distribution-of-neurotropic-fungi]]
 within the family Coprinaceae, making it the third most species-rich genus among
 psilocybin-containing mushrooms after Psilocybe (116 species) and
 Gymnopilus (14 species). Copelandia is classified within the Panaeoloideae,
@@ -38,7 +38,7 @@ and predominantly tropical distribution.
 
 Copelandia was originally described within Panaeolus but was later elevated to
 generic rank by Singer and Weeks. The genus is distinguished from Panaeolus by
-its bluing reaction when bruised, a characteristic it shares with many
+its [[metol-testing-bluing-reaction-mushrooms]] when bruised, a characteristic it shares with many
 neurotropic Psilocybe species. This bluing reaction is caused by the oxidation
 of psilocin, a dephosphorylated derivative of psilocybin.
 
@@ -48,7 +48,7 @@ considered C. mexicana to be a nomen excluded. However, Guzman, Allen and Gartz
 (2000) maintained C. mexicana as a valid species, noting the importance of
 preserving taxonomic distinctions pending further study.
 
-Copelandia species are frequently confused with Panaeolus antillarum, an
+Copelandia species are frequently confused with [[panaeolus-antillarum-misidentification-copelandia-confusion]], an
 edible white mushroom that grows on cow dung alongside Copelandia species. P.
 antillarum does not turn blue when bruised, but recreational users often
 misidentify it as Copelandia, leading to erroneous reports of neurotropic
@@ -68,7 +68,7 @@ The 12 species of Copelandia recognized by Guzman, Allen and Gartz (2000):
    for its Cambodian type locality; one of the most common tropical species
 5. **C. chlorocystis** Singer and R.A. Weeks
 6. **C. cyanescens** (Berk. and Broome) Singer -- The type species and most
-   widespread member; reported from virtually all tropical regions
+   widespread member; reported from virtually all [[fukuoka-natural-farming-in-tropical-regions]]
 7. **C. lentisporus** (Ew. Gerhardt) Guzman -- A lens-spored species described
    by Guzman based on Gerhardt's original work
 8. **C. mexicana** Guzman -- Endemic to Mexico; considered valid by Guzman
@@ -88,12 +88,3 @@ The 12 species of Copelandia recognized by Guzman, Allen and Gartz (2000):
 
 Copelandia species are predominantly tropical and subtropical in distribution.
 Unlike copelandia-genus
-
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
-## See Also
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[neurotropic-fungi]]
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

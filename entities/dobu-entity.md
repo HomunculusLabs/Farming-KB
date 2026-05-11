@@ -65,7 +65,7 @@ This systematic approach, varying one substituent while keeping the rest of the 
 - dopr-entity|DOPR (propyl)
 - doam-entity|DOAM (amyl)
 - [[phenethylamine-duration-and-timing]]
-- [[psychedelic-harm-reduction]]
+- [[harm-reduction-guide]]
 - [[2c-family-compounds-overview]]
 - [[jadam-fertilizer-program-design]]
 ## Practical Considerations

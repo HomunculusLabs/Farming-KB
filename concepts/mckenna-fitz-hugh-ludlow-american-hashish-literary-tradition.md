@@ -17,7 +17,7 @@ sources:
 
 Fitz Hugh Ludlow (1834-1870) occupies a singular position in American literary
 history as the author of *The Hasheesh Eater* (1857), the first sustained work
-of American [[history-psychedelics-ancient|psychedelic]] literature. Writing decades before the
+of American [[history-psychedelics-ancient]] literature. Writing decades before the
 wider European fascination with [[harner-shamanic-journey-and-altered-states]] reached American shores, Ludlow
 created a tradition of pharmo-picaresque literature that would later find
 practitioners in William S. Burroughs and Hunter S. Thompson. His work stands
@@ -79,7 +79,7 @@ description that would deeply influence Ludlow.
 
 Both Taylor and Ludlow followed the example of English opium habitués,
 particularly Samuel Taylor Coleridge and Thomas De Quincey, whose *Confessions
-of an English Opium-Eater* (1821) established the template for drug literature
+of an English Opium-Eater* (1821) established the template for [[mckenna-de-quincey-birth-of-drug-literature]]
 in English. The American hashish writers adopted what McKenna termed the "joys
 and horrors" style, yet forged a distinctively American voice -- more
 exuberant, more democratic, and more inclined toward transcendental optimism.
@@ -87,55 +87,4 @@ exuberant, more democratic, and more inclined toward transcendental optimism.
 ## The Club des Hachischins: Parisian Precedents
 
 The American hashish literary tradition was foreshadowed by the Parisian
-[[mckenna-club-des-hachischins-nineteenth-century-literary-hashish|Club des Hachischins]], the famous hashish circle of the 1840s. Founded by French
-writers and bohemians including Théophile Gautier, Charles Baudelaire, Gérard
-de Nerval, Alexandre Dumas, and Honoré de Balzac, the club held weekly meetings
-in the damask-hung rooms of the Hôtel Luzan on the Île St.-Louis in Paris.
-Psychiatrist J.J. Moreau de Tours provided Algerian dawamesc for these private
-explorations by successful and respected literary figures.
-
-Moreau's *Du Hachisch et de l'Aliénation Mentale* (*Hashish and Mental
-Illness*, 1845) provided the first systematic medical account of cannabis
-intoxication and sparked interest in both medical and literary circles. His
-detailed observations "set off a wave of experimentation" that ultimately
-reached across the Atlantic to influence the American literary imagination.
-
-## Cannabis and the Partnership-Dominator Spectrum
-
-McKenna situated the American hashish literary tradition within his broader
-framework of [[archaic-revival-partnership-vs-dominator-cultures|partnership versus dominator cultures]]. Cannabis, he argued, is "second only to mushrooms
-in its promotion of the social values and sensory ratios that typified the
-original partnership societies." The drug's capacity to dissolve social
-conditioning, diminish ego, and promote intuitive, less competitive behavior
-patterns made it fundamentally inimical to dominator values.
-
-The writers who explored hashish in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] shared what McKenna
-identified as a partnership-oriented sensibility: attention to beauty, openness
-to visionary experience, and a willingness to question received authority. Their
-"scientific" attitude toward drug exploration reflected an intellectual
-seriousness that contrasted sharply with the trivializing "recreational"
-paradigm later imposed on cannabis use. For Ludlow and his contemporaries, the
-hashish experience raised genuine questions about human psychology -- questions
-that [[mckenna-dissolution-of-the-dominator-culture]] preferred to suppress.
-
-## Legacy and the Archaic Revival
-
-The tradition Ludlow inaugurated -- of serious literary engagement with
-psychoactive experience -- proved remarkably persistent. From the Beat
-Generation through the psychedelic counterculture and into contemporary
-psychedelic literature, writers have continued to use cannabis and other
-substances as tools for creative exploration. McKenna noted that the "innate
-drive to restore the psychological balance typifying the [[dominator-culture-and-partnership-society]],
-once it finds a suitable vehicle, is not easily deterred." Ludlow's work
-represents one of the earliest literary expressions of that drive in American
-culture, making *The Hasheesh Eater* a foundational document in the ongoing
-[[mckenna-archaic-revival|Archaic Revival]].
-
-The history of cannabis in the United States after Ludlow was "at first a
-happy one" -- use was neither stigmatized nor popularized -- before the moral
-panics of the 1930s transformed public perception. The suppression of cannabis
-literature represents, in McKenna's framing, the dominator culture's defensive
-reaction against a plant that threatens its fundamental values. Ludlow's
-writing survives as evidence that this conflict is not new, but a recurring
-pattern in the long history of humanity's relationship with psychoactive
-plants.
+[[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]], the famous hashish circle of the 1840s. Founded by French

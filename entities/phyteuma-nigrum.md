@@ -24,7 +24,7 @@ sources:
 
 **Phyteuma nigrum**, commonly known as black rampion, is a rhizomatous perennial herb in the Campanulaceae family. It is native to the mountains of central Europe, where it produces distinctive dark violet to nearly black, globe-shaped flower heads.
 
-The species differs from the more commonly cultivated Phyteuma spicatum by its darker flower color, more compact habit, and preference for acidic rather than calcareous soils. It is a subtle but attractive plant for woodland and shade gardens.
+The species differs from the more commonly cultivated [[phyteuma-spicatum]] by its darker flower color, more compact habit, and preference for acidic rather than calcareous soils. It is a subtle but attractive plant for woodland and shade gardens.
 
 The genus name Phyteuma derives from the Greek "phyteuma" meaning "plant" or "growth," while the specific epithet "nigrum" refers to the dark, almost black appearance of the flower heads before they fully open.
 
@@ -49,19 +49,19 @@ The fruit is a capsule opening by two pores near the apex. Seeds are small (1–
 
 ## Distribution and Habitat
 
-Phyteuma nigrum is native to the central European mountain ranges including the Alps, Carpathians, Sudetes, and the Bohemian Forest. It occurs in Austria, Germany, Czech Republic, Slovakia, Poland, and Switzerland.
+Phyteuma nigrum is native to the [[psilocybe-bohemica-central-european]] mountain ranges including the Alps, Carpathians, Sudetes, and the Bohemian Forest. It occurs in Austria, Germany, Czech Republic, Slovakia, Poland, and Switzerland.
 
 It grows in montane and subalpine beech and spruce forests, forest clearings, and tall-herb communities at elevations of 500–1,800 m. Unlike many Phyteuma species, it prefers acidic soils over limestone.
 
-The species occupies sites with partial to deep shade and consistent soil moisture. It is typically found on north-facing slopes, along forest streams, and in damp depressions where organic matter accumulates.
+The species occupies sites with partial to deep shade and consistent soil moisture. It is typically found on north-facing slopes, along forest streams, and in damp depressions where [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] accumulates.
 
-Associated species include *Oxalis acetosella*, *Luzula sylvatica*, *Vaccinium myrtillus*, and various ferns characteristic of central European acidophilous forest communities.
+Associated species include *Oxalis acetosella*, *Luzula sylvatica*, *[[vaccinium-myrtillus]]*, and various ferns characteristic of central European acidophilous forest communities.
 
 ## Cultivation
 
 Phyteuma nigrum requires humus-rich, acidic to neutral soil in partial to full shade. It is well-suited to woodland gardens, shaded rock gardens, and north-facing borders.
 
-The species is hardy to USDA Zone 4 (−34 °C) and reliably perennial in cool, temperate climates. It dislikes heat and drought and may go summer-dormant in warm regions.
+The species is hardy to USDA Zone 4 (−34 °C) and reliably perennial in cool, [[fukuoka-natural-farming-temperate-climates]]. It dislikes heat and drought and may go summer-dormant in warm regions.
 
 Propagation is by seed sown fresh in autumn or after cold stratification. Germination is irregular over 30–90 days at 10–15 °C. Division of rhizomes in early spring is possible but slow to establish.
 
@@ -85,15 +85,6 @@ Habitat loss through conifer monoculture forestry, road construction, and touris
 
 The species benefits from protected forest reserves and national parks in the Alps and Carpathians. Many populations occur within Natura 2000 sites designated for montane forest habitat conservation.
 
-Climate change poses a long-term threat as warming temperatures shift suitable habitat upward in elevation. Populations at the lower edge of the altitudinal range are most vulnerable.
+[[dighton-fungal-responses-climate-change]] poses a long-term threat as warming temperatures shift suitable habitat upward in elevation. Populations at the lower edge of the altitudinal range are most vulnerable.
 
 ## See Also
-
-- [[phyteuma-spicatum]]
-- [[campanula-rotundifolia]]
-- [[campanula-barbata]]
-- [[campanula-cochlearifolia]]
-- [[campanula-cenisia]]
-- [[lobelia-dortmanna]]
-- [[codonopsis-pilosula]]
-- [[platycodon-grandiflorus]]

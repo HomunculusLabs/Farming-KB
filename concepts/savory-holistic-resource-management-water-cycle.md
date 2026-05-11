@@ -88,16 +88,3 @@ favors broad-leaved grasses with rapid growth potential.
 The potential gains from improving water cycle effectiveness are enormous.
 A manager in an arid area could effectively double their rainfall simply
 by applying tools that cover soil and maintain crumb structure, keeping
-the water that falls available for use. This applies not only to rangelands
-but to croplands, forests, cities, and all activities dependent upon
-healthy water supplies from healthy watersheds.
-
-## Management Implications
-
-To achieve an effective water cycle, management tools must be applied so
-that soil acquires and maintains adequate organic content and animal
-activity. The [[savory-holistic-resource-management-mineral-cycle]]
-
-- [[holmgren-mineral-balance-soil-fertility]]
-- [[savory-animal-impact-and-herd-effect]]
-- [[desertification]]

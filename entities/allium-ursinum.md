@@ -26,7 +26,7 @@ created: 2026-04-28
 
 **Allium ursinum**, commonly known as wild garlic, bear's garlic, ramsons, or wood garlic, is a bulbous perennial herbaceous plant in the family Amaryllidaceae (formerly Alliaceae). It is native to the temperate broadleaved woodlands of Europe and western Asia, where it forms extensive carpets on the forest floor each spring.
 
-The species is widely foraged for its edible leaves, flowers, and bulbs, which possess a milder, more complex garlic flavor than cultivated garlic (*Allium sativum*). It has a long history of culinary and medicinal use dating back to Celtic and Germanic traditions.
+The species is widely foraged for its edible leaves, flowers, and bulbs, which possess a milder, more complex garlic flavor than cultivated garlic (*[[allium-sativum-entity]]*). It has a long history of culinary and medicinal use dating back to Celtic and Germanic traditions.
 
 Its Latin epithet *ursinum* (bear's) refers to the belief that bears emerging from hibernation would seek out and consume the bulbs to replenish their strength.
 
@@ -64,7 +64,7 @@ All parts of the plant are edible. The young leaves (harvested before flowering,
 
 The flowers are edible and make an attractive garnish with a mild allium flavor. Bulbs can be used like cultivated garlic but are small and time-consuming to harvest sustainably.
 
-**Confusion risk with toxic species** is the primary safety concern. *A. ursinum* leaves resemble those of **lily of the valley** (*Convallaria majalis*), **autumn crocus** (*Colchicum autumnale*), and young **arum** leaves (*Arum maculatum*). Crushing the leaves to release the garlic odor is the standard field identification test.
+**Confusion risk with toxic species** is the primary safety concern. *A. ursinum* leaves resemble those of **lily of the valley** (*[[convallaria-majalis]]*), **autumn crocus** (*[[colchicum-autumnale]]*), and young **arum** leaves (*Arum maculatum*). Crushing the leaves to release the garlic odor is the standard field identification test.
 
 ## Bioactive Compounds
 
@@ -80,37 +80,10 @@ The total sulfur compound content is comparable to or slightly higher than *A. s
 
 ## Pharmacology
 
-Antimicrobial activity has been demonstrated against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and select fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). Allicin acts by inhibiting thiol-containing enzymes essential for microbial metabolism.
+Antimicrobial activity has been demonstrated against Gram-positive bacteria (*[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*) and select fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*). Allicin acts by inhibiting thiol-containing enzymes essential for microbial metabolism.
 
-Cardiovascular benefits observed in animal models include mild antihypertensive effects, reduction in LDL cholesterol oxidation, and antiplatelet aggregation activity. These effects are attributed to the organosulfur compound profile.
+Cardiovascular benefits observed in animal models include mild antihypertensive effects, reduction in LDL cholesterol oxidation, and antiplatelet aggregation activity. These effects are attributed to the organosulfur [[2c-b-compound-profile]].
 
 Anti-inflammatory effects have been documented in vitro, with extracts showing inhibition of cyclooxygenase-2 (COX-2) and reduction of pro-inflammatory cytokines.
 
 Clinical evidence remains limited compared to the extensive data available for *A. sativum*. Most pharmacological data derives from in vitro and animal studies.
-
-## Ecological Role
-
-*A. ursinum* is a keystone spring ephemeral in European deciduous forests. It captures a significant fraction of the [[savory-growing-season-and-non-growing-season-management]]'s available light before the canopy closes, storing resources in its bulb for the following year.
-
-The flowers provide early nectar and pollen for bees, hoverflies, and beetles. The seeds are dispersed by ants, which carry them to their nests, facilitating germination in nutrient-rich microsites.
-
-The species forms dense monocultures that suppress competing ground flora through allelopathic sulfur compounds released from decomposing leaves. This chemical dominance contributes to its reputation as an ancient woodland indicator.
-
-## Permaculture Applications
-
-In forest garden designs, *A. ursinum* occupies the **herb layer** beneath fruit trees and nitrogen-fixing shrubs. Its early spring emergence captures light before canopy closure, making it an efficient use of vertical space.
-
-The species functions as a pest deterrent in food forests — the sulfur compounds repel certain aphids and cabbage white butterflies when interplanted with susceptible crops. [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with brassicas has shown reduced pest pressure in temperate trials.
-
-It serves as a **[[nutrient-dynamic-accumulator-reference]]** of potassium and trace minerals, cycling nutrients from deep soil layers to the surface through its annual leaf dieback. This [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] supports adjacent plant growth.
-
-Propagation is primarily by bulb division in autumn or seed sowing in late summer. [[cannabis-seed-germination-methods]] requires a cold stratification period of 8–12 weeks. Once established, colonies spread slowly by bulb offsets and can persist indefinitely in undisturbed sites.
-
-## See Also
-
-- [[borago-officinalis]]
-- [[taraxacum-officinale]]
-- [[glycyrrhiza-glabra]]
-- [[valeriana-officinalis]]
-- [[echinacea-purpurea]]
-- [[tropaeolum-majus]]

@@ -1,5 +1,5 @@
 ---
-title: "DMT (N,N-Dimethyltryptamine) Pharmacology and Effects"
+title: Tihkal Dmt Pharmacology
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [DMT, pharmacology, psychedelic, tryptamine, endogenous]
@@ -33,7 +33,7 @@ The principal reason DMT must be administered parenterally is its rapid and effi
 - **Oxidation to the N-oxide**
 - **Cyclization to beta-carbolines** (with and without N-methyl groups)
 - **N-dealkylation** to N-methyltryptamine (NMT) and simple tryptamine
-- **Oxidative destruction by monoamine oxidase (MAO)** to inactive indoleacetic acid (the primary metabolic pathway)
+- **Oxidative destruction by monoamine oxidase (MAO)** to inactive indoleacetic acid (the [[primary-metabolic-precursors-to-the-shikimate-pathway]] pathway)
 - **Biochemical conversion to N,N-dimethylkynuramine (DMK)** via indole-2-carbon removal (parallel to tryptophan-to-kynurenine pathway)
 
 ## Clinical Findings
@@ -41,7 +41,7 @@ The principal reason DMT must be administered parenterally is its rapid and effi
 Recent FDA-approved studies in New Mexico (using the fumarate salt) demonstrated:
 - **0.05 mg/Kg (approx. 4 mg i.v.)**: Indistinguishable from placebo
 - **8 mg**: Physical effects without mental effects
-- **15 mg** (threshold psychedelic dose): Nearly all subjects had visual hallucinations; auditory changes were rare
+- **15 mg** (threshold [[psychedelic-dose-response]]): Nearly all subjects had visual hallucinations; auditory changes were rare
 - **30 mg**: Effects overwhelming in both speed and intensity
 
 Repeated administrations of 16 mg i.v. at half-hour intervals showed **no development of tolerance**.
@@ -57,12 +57,12 @@ As an endogenous psychotogen candidate, DMT does not produce tolerance upon repe
 ## Natural Sources
 
 DMT is extraordinarily widespread in nature:
-- **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods (cohoba snuff)
+- **Piptadenia peregrina** and **P. macrocarpa**: Beans and pods ([[cohoba-snuff]])
 - **[[entheogen-jurema-mimosa-hostilis-ethnobotany]]**: Roots (jumera/vinho de jurema drink)
 - **Phalaris** species (reed canarygrass): Pasture grasses
 - **Acacia** species: Africa and Australia
 - **Virola** species: Amazon basin snuffs (yakee, yato, parica, epena, nyakwana)
-- **Sonora Desert Toad** (Bufo alvarius): Venom contains DMT and 5-MeO-DMT
+- **Sonora Desert Toad** ([[5-meo-dmt-and-bufo-alvarius]]): Venom contains DMT and 5-MeO-DMT
 
 ## Serotonin Receptor Interaction
 
@@ -88,26 +88,3 @@ DMT has identical serotonin binding capacity to its 1-methyl homologue. It has b
 **20 mg i.m.**: "I began to see patterns on the wall that were continuously moving. They were transparent, and were not colored. After a short period these patterns became the heads of animals, a fox, a snake, a dragon. Then kaleidoscopic images appeared to me in my inner eye, fantastically beautiful and colored."
 
 **75 mg i.m.**: "The third or fourth minute after the injection vegetative symptoms appeared, such as tingling sensation, trembling, slight nausea, mydriasis, elevation of the blood pressure and increase of the pulse rate. At the same time, eidetic phenomena, optical illusions, pseudohallucinations, and later real hallucinations, appeared. The hallucinations consisted of moving, brilliantly colored oriental motifs, and later I saw wonderful scenes altering very rapidly. The faces of people seemed to be masks."
-
-### Smoked Administration
-
-**60 mg smoked**: "We did it together. Swift entry -- head overwhelmed -- elaborate and exotic. Slightly threatening patterns -- no insight -- slight sense of cruelty and sharpness between us, but enjoying. Heavy, massive intoxication. Time extension extraordinary. What seemed like 2 hrs was about 30 minutes."
-
-**100 mg smoked**: "As I exhaled I became terribly afraid, my heart very rapid and strong, palms sweating. A terrible sense of dread and doom filled me -- I knew what was happening, I knew I couldn't stop it, but it was so devastating; I was being destroyed -- all that was familiar, all reference points, all identity -- all viciously shattered in a few seconds. Up, up, out, out, eyes closed, I am at the speed of light, expanding, expanding, expanding, faster and faster until I have become so large that I no longer exist -- my speed is so great that everything has come to a stop -- here I gaze upon the entire universe."
-
-## Serotonin Antagonist Interaction
-
-In a Hungarian study, administration of the serotonin antagonist **UML-491** (methysergide, 1-2 mg orally 30-40 minutes before DMT) served to greatly intensify the effects, with intense and agitated hallucinations, highly intensified colors, and a more extreme loss of time and space perception. This supports the hypothesis that DMT acts primarily at serotonin receptor sites.
-
-## The "DMT is Everywhere" Chapter
-
-Shulgin notes that DMT's extraordinary natural distribution has led to the observation that "DMT is everywhere." Beyond the well-known plant sources, DMT and related compounds have been found in marine sponges (*Smenospongia auria* and *S. echina*), in grasses of the genus *Phalaris* (reed canarygrass), and in the venom of the Sonoran Desert Toad (*Bufo alvarius*). Its presence as an endogenous human compound further blurs the line between "drug" and "natural neurotransmitter."
-
-## See Also
-
-- [[tihkal-5meo-dmt-pharmacology]]
-
-- [[tihkal-introduction-and-methodology]]
-- [[tryptamine-family-overview]]
-- [[psychedelic-safety-and-harm-reduction]]
-- [[mao-inhibitors-and-psychedelics]]

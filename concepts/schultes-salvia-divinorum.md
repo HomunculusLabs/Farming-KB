@@ -18,7 +18,7 @@ type: concept
 
 # Salvia Divinorum
 
-*Salvia divinorum* is among the rarest of [[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
+*[[salvia-divinorum]]* is among the rarest of [[entheogen-tetrapteris-methystica-alternative-caapi]]. R. Gordon r-gordon-wasson|Wasson was the
 first outsider to witness [[maria-sabina-mazatec-mushroom-ceremony]] ceremonies, and the broader
 investigation of Mazatec psychoactive plants revealed the use of this
 remarkable sage. Inquisition files from 1696, 1698, and 1706 in the
@@ -29,14 +29,14 @@ intoxicating effects, possibly referring to *Salvia divinorum*.
 
 The male or female shamans of the Mazatec use *Salvia divinorum* in
 rituals associated with divination or healing, generally as a substitute
-for the otherwise preferred psychoactive mushrooms. The famous Mazatec
+for the otherwise preferred [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The famous Mazatec
 shaman [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] remarked: "When I am in the time that there are no
 mushrooms and want to heal someone who is sick, then I must fall back
 on the leaves of pastora. When you grind them up and eat them, they
 work just like the ninos. But, of course, pastora has nowhere near as
 much power as the mushrooms."
 
-The ritual use is remarkably similar to mushroom ceremonies. Salvia
+The ritual use is remarkably similar to [[sacred-mushroom-ceremonies]]. Salvia
 rituals take place at night in complete darkness and stillness. Either
 the healer is alone with the patient or there are also other patients
 and possibly healthy participants present. Before the shaman chews and
@@ -65,7 +65,7 @@ significantly shorter time than those of mushrooms.
 
 Most people who have smoked, chewed, or taken a tincture of *Salvia
 divinorum* report very bizarre, unusual psychoactive effects, which are
-not very comparable with euphoric or psychedelic substances. There is
+not very comparable with euphoric or [[psychedelic-substances-comparison]]. There is
 often perceived to be a "bending" of space; a feeling of swaying or
 out-of-body experiences is also typical. If the visions are strong
 enough, the healer finds the cause of the illness and gives the patient
@@ -86,31 +86,4 @@ designated divinorin A by Valdes et al. (1984). The plant also contains
 loliolid. The neurochemistry of salvinorin was described in the source
 as "still an unsolved puzzle," though subsequent research has identified
 it as a potent kappa-opioid receptor agonist, a mechanism entirely
-distinct from the serotonin receptor agonism of classical psychedelics.
-
-## Mazatec Taxonomy
-
-In the traditional taxonomy of the Mazatec, *Salvia divinorum* is
-related to two forms of labiates. Salvia is known as the "mother" (la
-hembra). *[[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]* is considered the "father" (el macho), and
-*Coleus blumei* is known as el nene (the child). Painted nettle is
-used by the Mazatec as a replacement for *Salvia divinorum*. The fresh
-leaves of these related plants are chewed like chewing tobacco, giving
-Coleus the reputation of being psychoactive plants.
-
-## Conservation Concerns
-
-*Salvia divinorum* grows naturally in tropical rain forests at
-altitudes of three hundred to eighteen hundred meters. Its limited
-geographic habitat in Oaxaca makes it one of the rarest psychoactive
-plants. Because it rarely sets viable seed, propagation occurs almost
-exclusively through vegetative cuttings, which has implications for
-genetic diversity. The growing interest in this plant worldwide has
-raised concerns about sustainable sourcing and the protection of its
-native habitat.
-
-## See Also
-
-- [[schultes-peyote-tracks-little-deer]] -- Ethnobotanical fieldwork in Mexico
-- [[psychoactive-cacti-species-reference]] -- Broader survey of hallucinogenic flora
-- [[entheogen-tetrapteris-methystica-alternative-caapi]] -- Plants used in sacred ceremonial contexts
+distinct from the [[serotonin-receptor-interference-psychedelic-mechanism]] agonism of classical psychedelics.

@@ -88,14 +88,6 @@ sources: ["Shulgin - PIHKAL"]
 > better.
 >
 
-## Extensions and Commentary
-
-This is about as potent a phenethylamine as they come. There are a couple in the 2C-G family that are similar in potency, buserotonine much longer lived. The motivation for the use of the [[beta-d-entity-pihkal|beta]]-fluoroethyl group can be seen under the discussion of DOEF, where there was an amalgamation of two lines of reasoning: the imitation of potent [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the 2C-T series
-
 ## See Also
-
-- [[tma-5-entity-pihkal]]
+- [[methyl-j-entity-pihkal]]
+- [[5-toet-entity-pihkal]]

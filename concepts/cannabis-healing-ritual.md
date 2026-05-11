@@ -1,5 +1,5 @@
 ---
-title: cannabis healing ritual
+title: [[blesching-cannabis-healing-practices-setting-intention-affirmations]] Ritual
 created: 2026-04-28
 tags:
   - ritual
@@ -88,13 +88,7 @@ The practitioner drinks from the chalice while pointing toward the south.
 
 While the cannabis takes effect, the practitioner repeats the incantation:
 "Ohm, ye, ohm, ye, kwan, ye, kwan, ye, verd, ye, verd, ye, gran, ye, gran,
-ye" for several minutes.
-
-During this time, the practitioner visualizes [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] as athames
-pointing toward celestial space, acting as lightning rods attracting bolts of
-positive energy. Colors of energy are imagined soaking into the [[cannabis-spiritual-use]] for the philosophical context
-- [[blessing-ground-ritual]] for the earth-blessing ceremony
 
 ## See Also
-
-- [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]]
+- [[practitioner-cannabis-ritual-use-and-sacrament]]
+- [[blesching-cannabis-emotional-intelligence-healing-framework]]

@@ -1,5 +1,5 @@
 ---
-title: KNF Fermented Fruit Juice
+title: Knf Fermented Fruit Juice
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,18 +11,18 @@ sources:
 
 # KNF Fermented Fruit Juice (FFJ)
 
-Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms. (see [[fermented-plant-juice]]).
+Fermented Fruit Juice is made by extracting plant juice using [[fungal-fruiting-body-mechanics-osmotic-pressure]] from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
 
 ## Purpose and Effects
 
 - Promotes plant growth through bio-active substances and natural hormones
 - Enzymes in FFJ help manufacturing of nutrients for plant growth
 - Supports microorganisms in the soil
-- Different fruits provide different benefits based on their growing season
+- Different fruits provide different benefits based on their [[extending-growing-season]]
 
 ## Selecting Fruits
 
-Choose fruits appropriate to the plant's growth stage:
+Choose fruits appropriate to the plant's [[cannabis-growth-stage-checklist]]:
 
 | Season | Recommended Fruits |
 |--------|-------------------|
@@ -32,7 +32,7 @@ Choose fruits appropriate to the plant's growth stage:
 
 - Banana peel FFJ: very effective for fruiting/flowering plants
 - Tomato FFJ: good for leafy growth
-- Mango FFJ: excellent for flowering stage
+- Mango FFJ: excellent for [[cannabis-flowering-stage]]
 - Papaya FFJ: contains lots of enzymes
 
 ## Best Time to Pick
@@ -76,7 +76,7 @@ Choose fruits appropriate to the plant's growth stage:
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- For foliar spray: 1:500 during early growth
+- For foliar spray: 1:500 during [[cervantes-seedling-care-early-growth]]
 - Can be mixed with other KNF inputs
 - Apply during recommended plant growth phases
 

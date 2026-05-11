@@ -1,5 +1,5 @@
 ---
-title: "fungal-biodiversity fungal-species-estimation-methods-total-diversity"
+title: Biodiversity [[fungal-biodiversity-estimation]] Methods
 created: 2026-04-28
 tags:
   - biodiversity-estimation
@@ -88,12 +88,3 @@ species. Sampling effort had a major impact on macrofungal diversity
 discovered, but habitat type and tree diversity played larger roles in
 explaining differences between studies than sampling effort alone.
 Differences in [[lichen-biodiversity-sampling-protocols-data-analysis]] also interfered with direct comparisons
-of results.
-
-## Factors Influencing Estimated Richness
-
-Diversity at a site depends on habitat type ([[fungal-biodiversity-species-estimation]]
-
-## See Also
-
-- [[fungal-biodiversity-scale-discovery-estimation]]

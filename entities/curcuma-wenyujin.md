@@ -14,8 +14,8 @@ sources:
   - Liao JC et al. (2018). "Curcuma wenyujin: phytochemistry, pharmacology, and clinical applications." Journal of Traditional and Complementary Medicine, 8(3), 335-344.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press.
   - Zhang J et al. (2014). "β-elemene from Curcuma wenyujin: pharmacology and clinical use." Chinese Journal of Natural Medicines, 12(5), 321-330.
-  - Wang Y et al. (2017). "Furanodiene from Curcuma wenyujin inhibits triple-negative breast cancer." Oncology Reports, 37(5), 2927-2935.
-  - Deng Y et al. (2006). "Chemical constituents of the essential oil from Curcuma wenyujin." Journal of Agricultural and Food Chemistry, 54(16), 5785-5789.
+  - Wang Y et al. (2017). "Furanodiene from Curcuma wenyujin inhibits triple-negative [[blesching-cannabis-breast-cancer]]." Oncology Reports, 37(5), 2927-2935.
+  - Deng Y et al. (2006). "[[guzman-magic-mushrooms-chemical-constituents]] of the [[permaculture-designers-manual-essential-oil-plants]] from Curcuma wenyujin." Journal of Agricultural and Food Chemistry, 54(16), 5785-5789.
 ---
 
 ## Overview
@@ -52,7 +52,7 @@ The compound exhibits broad-spectrum antitumor activity through multiple mechani
 
 Furanodiene is a furanosesquiterpenoid with potent antiproliferative activity. It induces endoplasmic reticulum stress-mediated apoptosis in cancer cells and suppresses NF-κB signaling.
 
-Recent studies show furanodiene inhibits metastasis by downregulating MMP-2 and MMP-9 expression. It also sensitizes cancer cells to cisplatin and doxorubicin, making it a candidate for combination therapy.
+Recent studies show furanodiene inhibits metastasis by downregulating MMP-2 and MMP-9 expression. It also sensitizes cancer cells to cisplatin and doxorubicin, making it a candidate for [[lentinan-gastric-cancer-combination-therapy]].
 
 ## Pharmacology
 
@@ -87,26 +87,3 @@ The rhizome also contains diarylheptanoids, including turmerone derivatives and 
 Phenolic content ranges from 15–25 mg GAE/g dried rhizome. The antioxidant capacity (DPPH IC₅₀) is approximately 45 μg/mL for the ethanol extract, significantly higher than the aqueous extract.
 
 The essential oil composition varies significantly with [[cannabis-harvest-timing-visual-cues]], processing method, and geographic origin. Shade-drying preserves volatile content better than sun-drying, with 20–30% higher curdione retention.
-
-Aromatic water distillation of fresh rhizome yields a volatile oil rich in β-elemene suitable for pharmaceutical extraction. Industrial β-elemene production uses [[cannabis-fractional-distillation-cannabinoids]] of the crude oil, achieving >95% purity.
-
-## Ecological and Economic Significance
-
-*C. wenyujin* cultivation is a major agricultural industry in Rui'an City, Wenzhou. The crop provides primary income for an estimated 5,000+ farming households in the region, with total annual production value exceeding ¥100 million.
-
-The species has been studied for its phytoremediation potential, showing capacity to accumulate heavy metals from contaminated soils. However, this trait raises food safety concerns for rhizomes harvested from polluted sites.
-
-Conservation efforts focus on maintaining genetic diversity in cultivated populations, as the narrow endemic range and long [[cuthill-mushroom-cultivation-history-19th-century]] have led to genetic bottlenecking. Germplasm banks in Zhejiang maintain >50 accessions for breeding programs.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[curcuma-aromatica]]
-- [[zingiber-officinale]]
-- [[elettaria-cardamomum]]
-- [[hedychium-coronarium]]
-- [[kaempferia-galanga]]
-- [[alpinia-galanga]]
-- [[curcuma-caesia]]
-- [[zingiber-mioga]]
-- [[kaempferia-parviflora]]

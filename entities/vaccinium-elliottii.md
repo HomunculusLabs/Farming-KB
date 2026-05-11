@@ -88,27 +88,3 @@ The ornamental value of *V. elliottii* is increasingly recognized in native plan
 Commercial cultivation of pure *V. elliottii* is essentially nonexistent, but the species is highly valued in blueberry breeding programs. Its early ripening, heat tolerance, and adaptation to low-chill southern climates are key breeding targets.
 
 Hybridization with *V. corymbosum* has produced cultivars combining the fruit size of highbush blueberry with the early season and climatic adaptability of *V. elliottii*. Researchers at the University of Georgia and USDA-ARS have been particularly active in this work.
-
-The species exhibits good resistance to several major blueberry diseases, including mummy berry (*Monilinia vaccinii-corymbosi*) and anthracnose fruit rot (*Colletotrichum acutatum*). These resistance traits are actively being introgressed into commercial germplasm.
-
-Propagation is typically by softwood cuttings taken in early summer, though seed germination is also possible following cold stratification. Rooting percentages from cuttings are generally high (70–90%) under mist propagation with bottom heat.
-
-Seed viability is moderate, declining significantly after one year of dry storage at room temperature. Cold stratification at 2–4°C for 60–90 days improves germination rates substantially.
-
-Plants require acidic soil (pH 4.0–5.5) and benefit from organic mulch amendments such as pine needles or peat moss. Recommended spacing for hedgerow plantings is 1.0–1.5 meters within rows.
-
-Chilling requirement is estimated at 300–500 hours below 7°C, classifying it as a low-chill species. This makes it particularly suited to the Gulf Coast and peninsular Florida, where higher-chill species perform poorly.
-
-Yield potential in cultivated settings is lower than highbush blueberry, typically 1–2 kg per mature plant. However, the extended harvest window and early season command premium market prices in some regions.
-
-## See Also
-
-- [[pinus-elliottii]]
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-ovatum]]
-- [[vaccinium-pallidum]]
-- [[gaylussacia-baccata]]
-- gaultheria-procumbens
-- [[oxydendrum-arboreum]]

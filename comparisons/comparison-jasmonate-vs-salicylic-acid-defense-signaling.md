@@ -1,5 +1,5 @@
 ---
-title: "Jasmonate vs comparison jasmonate vs salicylic acid defense signaling Defense Signaling Pathways"
+title: Comparison Jasmonate Vs Salicylic Acid Defense Signaling
 tags:
   - plant-defense
   - phytohormones
@@ -66,11 +66,11 @@ The central regulatory hub is **NPR1 (Nonexpressor of PR Genes 1)**:
 
 ### Defense Outputs
 
-SA-dependent defenses are most effective against **biotrophic pathogens** (e.g., powdery mildews, rusts, downy mildews) that require living host tissue. The pathway also triggers **hypersensitive cell death (HR)** at infection sites, walling off biotrophs by sacrificing local cells.
+SA-dependent defenses are most effective against **biotrophic pathogens** (e.g., [[biodiversity-powdery-mildews]], rusts, downy mildews) that require living host tissue. The pathway also triggers **hypersensitive cell death (HR)** at infection sites, walling off biotrophs by sacrificing local cells.
 
 ### Systemic Acquired Resistance (SAR)
 
-SA is the primary mobile signal driving **systemic acquired resistance (SAR)**, which provides long-lasting, broad-spectrum immunity throughout the plant following a local infection. Methyl salicylate (MeSA) and other derivatives serve as phloem-mobile signals. Unlike ISR (JA-dependent), SAR (SA-dependent) typically requires prior pathogen recognition and PR gene activation.
+SA is the primary [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] driving **systemic acquired resistance (SAR)**, which provides long-lasting, broad-spectrum immunity throughout the plant following a local infection. Methyl salicylate (MeSA) and other derivatives serve as phloem-mobile signals. Unlike ISR (JA-dependent), SAR (SA-dependent) typically requires prior pathogen recognition and PR gene activation.
 
 ## Crosstalk: Antagonism and Integration
 
@@ -109,7 +109,7 @@ Methyl jasmonate is commercially available and can be applied as a foliar spray 
 
 ### Salicylic Acid and Aspirin Sprays
 
-Diluted **acetylsalicylic acid (aspirin)** or pure SA solutions have been widely tested as SAR-inducing foliar sprays. Typical rates range from 0.5–1.0 mM (~75–150 mg/L of aspirin in water with a surfactant). Reported benefits include reduced powdery mildew, downy mildew, and some bacterial diseases in cucurbits, grapes, and solanaceous crops. CAUTION: SA sprays can suppress JA-dependent defenses, potentially increasing susceptibility to herbivores if applied indiscriminately.
+Diluted **acetylsalicylic acid (aspirin)** or pure SA solutions have been widely tested as SAR-inducing [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. Typical rates range from 0.5–1.0 mM (~75–150 mg/L of aspirin in water with a surfactant). Reported benefits include reduced powdery mildew, downy mildew, and some [[plant-viral-and-bacterial-diseases]] in cucurbits, grapes, and solanaceous crops. CAUTION: SA sprays can suppress JA-dependent defenses, potentially increasing susceptibility to herbivores if applied indiscriminately.
 
 ### Integrated Approaches
 

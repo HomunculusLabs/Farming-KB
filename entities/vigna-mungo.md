@@ -87,27 +87,3 @@ Black gram seeds contain approximately 24-26% protein on a dry weight basis, mak
 The protein is rich in the essential amino acid methionine but relatively low in lysine and tryptophan.
 
 The methionine content of black gram protein is notably higher than that of most other pulse crops. This makes it a particularly valuable protein complement in vegetarian diets that rely heavily on cereals. This profile complements cereal proteins well, making black gram a nutritionally important component of cereal-based diets.
-
-Carbohydrate content is approximately 55-60%, predominantly starch. The seeds contain approximately 1-2% lipids, 3-4% dietary fiber, and 3-4% minerals including calcium, phosphorus, iron, and magnesium.
-
-Anti-nutritional factors include phytic acid, trypsin inhibitors, and flatulence-causing oligosaccharides. These are substantially reduced by soaking, sprouting, or cooking, which improves digestibility and protein availability.
-
-Sprouted black gram shows enhanced vitamin C content and reduced phytic acid levels compared to dry seeds. Fermentation further increases B-vitamin content and protein digestibility.
-
-In Indian cuisine, black gram is used whole, split, or ground into flour (urad dal flour). It is the primary ingredient in idli and dosa batters, where fermentation by lactic acid bacteria enhances [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and flavor.
-
-Dried black gram is also an important commodity in international trade, particularly as split dal. India is both the largest producer and consumer, with limited exports to countries with significant South Asian diaspora communities.
-
-Black gram flour is also used in papad preparation, a thin crispy snack popular across South Asia. The mucilaginous texture of ground black gram provides binding properties valued in many traditional food preparations.
-
-## See Also
-
-- [[vigna-radiata]]
-- [[arachis-hypogaea]]
-- [[vicia-faba]]
-- [[lens-culinaris]]
-- crotalaria-juncea
-- lupinus-albus
-- [[arctium-lappa-entity]]
-- nigella-sativa
-- [[pimpinella-anisum]]

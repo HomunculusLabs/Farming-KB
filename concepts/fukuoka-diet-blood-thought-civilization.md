@@ -1,10 +1,11 @@
 ---
-title: Fukuoka fukuoka diet blood thought civilization Thought and Civilization
+title: [[fukuoka-diet-non-discrimination-diet-of-the-sick]] Blood Thought Civilization
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [diet, philosophy, civilization]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,10 +88,6 @@ Fukuoka witnessed a striking reversal in dietary preferences during his lifetime
 
 Fukuoka's alternative vision for civilization:
 
-- "All man had to do was to follow the course of nature and feed randomly on the foods that arise naturally in the region that he lives"
-- The question is not what to grow, "but what grows here"
-- "First there is natural food and people who live in a 'do-nothing' nature"
-- This was "the original way of living in Japan and the proper way of eating (a sacred act)"
-- The Japanese farmer "did not ask what food to grow and eat. He simply harvested and ate what grew naturally in his fields in each passing season"
-
-See also: [[fukuoka-japanese-diet-worse]], [[fukuoka-natural-diet-four-types]], [[fukuoka-specter-food-scarcity]], [[fukuoka-western-vs-japanese-attitudes]]
+## See Also
+- [[fukuoka-westerners-zen-diet-dedication]]
+- [[fukuoka-european-civilization-standstill]]

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schuster, R.M. (1969). "The Hepaticae and Anthocerotae of North America, Vol. 1." Columbia University Press.
+  - Schuster, R.M. (1969). "The Hepaticae and Anthocerotae huckleberries-and-wild-berries-of-north-america, Vol. 1." Columbia University Press.
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Damsholt, K. (2002). "Illustrated Flora of Nordic Liverworts and Hornworts." Nordic Bryological Society.
   - Söderström, L. et al. (2016). "World checklist of hornworts and liverworts." PhytoKeys, 59, 1–89.
@@ -61,17 +61,17 @@ In Europe, it is found from the British Isles and northern France across to the 
 
 The species is strongly associated with boreal and montane coniferous forests, particularly those dominated by spruce, fir, and hemlock. It colonizes a variety of substrates including decaying logs, tree bark at the base of trunks, humus-covered rocks, and occasionally soil banks.
 
-Optimal habitats are shaded, consistently moist locations with high humidity. It frequently grows in association with other boreal liverworts such as *Barbilophozia barbata* and mosses including *Hylocomium splendens* and *Pleurozium schreberi*.
+Optimal habitats are shaded, consistently moist locations with high humidity. It frequently grows in association with other boreal liverworts such as *[[barbilophozia-barbata]]* and mosses including *Hylocomium splendens* and *[[pleurozium-schreberi]]*.
 
 The species shows moderate substrate specificity. It is most abundant on well-decayed conifer logs with a pH between 4.5 and 6.0. Bark colonization is more common on mature, furrowed bark of spruce and hemlock than on smooth-barked species.
 
 ## Ecology and Reproduction
 
-Ptilidium ciliare is a prominent component of boreal cryptogamic communities. It contributes to moisture retention and nutrient cycling on decaying wood surfaces in late-successional forests.
+Ptilidium ciliare is a prominent component of boreal cryptogamic communities. It contributes to moisture retention [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] on decaying wood surfaces in late-successional forests.
 
 The species is moderately shade-tolerant but declines in deep shade where light levels fall below 5% of full sun. It achieves maximum biomass on well-decayed logs in partial canopy gaps.
 
-Vegetative propagation occurs through fragmentation of the ciliated leaf margins. The fragile cilia break off readily and can establish new colonies when dispersed by wind, water, or animal movement to suitable substrates.
+[[hamilton-vegetative-propagation]] occurs through fragmentation of the ciliated leaf margins. The fragile cilia break off readily and can establish new colonies when dispersed by wind, water, or animal movement to suitable substrates.
 
 Sexual reproduction is sporadic in many populations, with archegoniophores and antheridiophores observed most frequently in years following wet, cool growing seasons. Sporophyte production is relatively uncommon across much of the species' range.
 
@@ -87,34 +87,4 @@ However, the species has experienced local declines in heavily managed forest la
 
 Air pollution, particularly acid deposition and nitrogen enrichment, may negatively affect populations in central Europe. The species is considered an indicator of relatively undisturbed boreal forest conditions.
 
-Heavy metal accumulation in thalli has been documented near industrial point sources, making *P. ciliare* a potential biomonitor for atmospheric pollution in remote boreal regions.
-
-Climate warming poses a potential long-term threat by shifting boreal forest boundaries northward. Populations at the southern margins of the range in mountainous areas may become isolated as suitable habitat contracts.
-
-Monitoring programs in Fennoscandia have documented northward range shifts of approximately 50 km per decade for several boreal bryophyte species, suggesting *P. ciliare* may be experiencing similar dynamics.
-
-## Related Species
-
-The genus *Ptilidium* contains only three species, all sharing the characteristic ciliate leaf margins that define the family Ptilidiaceae.
-
-- *Ptilidium pulcherrimum* (Beautiful ptilidium) — larger cilia, more robust habit, prefers drier microsites on tree bases; primarily North American distribution
-- *Ptilidium clemensii* — Asian species, less well known, reported from Japan and eastern Siberia
-
-*Ptilidium ciliare* is readily distinguished from *P. pulcherrimum* by its smaller plant size, shorter cilia, and preference for more mesic habitats. The two species occasionally co-occur on the same log but typically occupy different micro-topographic positions.
-
-Within the broader liverwort flora, the ciliate leaf margins are a convergent feature also seen in some *Trichocolea* species. However, *Trichocolea* belongs to the Trichocoleaceae and can be separated by its more delicate, filamentous leaf structure.
-
-Molecular phylogenetic studies have confirmed that *Ptilidium* is monophyletic and sister to the Trichocoleaceae, supporting the morphological similarity as reflecting shared ancestry rather than pure convergence.
-
-## See Also
-
-- [[barbilophozia-barbata]]
-- [[jungermannia-subulata]]
-- [[marchantia-polymorpha]]
-- [[bryum-argenteum]]
-- [[funaria-hygrometrica]]
-- [[sphagnum-palustre]]
-- [[polytrichum-commune]]
-- [[hypnum-cupressiforme]]
-- [[pleurozium-schreberi]]
-- [[dicranum-scoparium]]
+[[dighton-fungal-heavy-metal-accumulation-bioremediation]] in thalli has been documented near industrial point sources, making *P. ciliare* a potential biomonitor for atmospheric pollution in remote boreal regions.

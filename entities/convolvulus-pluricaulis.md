@@ -84,52 +84,6 @@ epilepsy, and cognitive decline associated with aging. It is also used as a
 mild sedative for children and as a general tonic for the nervous system.
 
 The herb is traditionally administered as a decoction of the whole plant,
-often in combination with other medhya herbs such as *Bacopa monnieri*
-(Brahmi), *Centella asiatica* (Mandukaparni), and *Withania somnifera*
+often in combination with other medhya herbs such as *[[bacopa-monnieri]]*
+(Brahmi), *[[centella-asiatica]]* (Mandukaparni), and *[[ashwagandha-withania-somnifera]]*
 (Ashwagandha).
-
-## Bioactive Compounds and Pharmacology
-
-The principal bioactive constituents include:
-
-- **Alkaloids:** Shankhpushpine, convolvine, convoline, convolidine, and
-  convolvuline — tropane-type alkaloids with reported CNS activity.
-- **Flavonoids:** Kaempferol, quercetin, and their glycosides, contributing
-  antioxidant and anti-inflammatory effects.
-- **Triterpenoids:** β-amyrin and lupeol derivatives.
-- **Coumarins:** Scopoletin and umbelliferone.
-
-Experimental studies have demonstrated nootropic activity in animal models,
-including improved acquisition and retention in passive avoidance and maze
-tests. The alkaloid fraction has shown anxiolytic and sedative effects
-comparable to diazepam in some rodent assays.
-
-Anti-inflammatory activity has been documented through inhibition of
-carrageenan-induced paw edema and reduction of pro-inflammatory cytokines.
-Antioxidant assays demonstrate significant free radical scavenging activity,
-primarily attributed to the flavonoid content.
-
-## Cultivation
-
-*C. pluricaulis* is cultivated commercially in several Indian states,
-particularly Rajasthan, Madhya Pradesh, and Uttar Pradesh. Propagation is by
-seed, sown directly in prepared beds after the onset of monsoon rains.
-
-The crop requires minimal inputs and is well suited to marginal agricultural
-land. Harvesting of the aerial parts occurs 90–120 days after sowing, during
-the [[cannabis-flowering-stage-management]] when bioactive alkaloid content is highest.
-
-Post-harvest processing involves shade-drying the whole plant, followed by
-powdering or extraction. Average dry herb yield is approximately 2,000–3,000
-kg/ha under rainfed conditions.
-
-## See Also
-
-- [[convolvulus-prostratus]]
-
-- [[centella-asiatica]]
-- [[withania-somnifera]]
-- tinospora-cordifolia
-- ocimum-sanctum
-- [[passiflora-incarnata]]
-- [[scutellaria-baicalensis]]

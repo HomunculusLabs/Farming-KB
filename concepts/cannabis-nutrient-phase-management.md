@@ -1,5 +1,5 @@
 ---
-title: green-cannabis-nutrient-schedules Phase Management
+title: Cannabis Nutrient Phase Management
 created: 2026-04-28
 tags: [cannabis, nutrients, growing, plant-nutrition]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 Cannabis [[green-cannabis-grow-bible-nutrient-management-ppm]] is one of the most critical skills for
 successful cultivation. The plant's nutritional requirements shift
 dramatically between vegetative and flowering phases. Understanding
-NPK ratios, secondary nutrients, micronutrients, and deficiency
+NPK ratios, [[calcium-magnesium-secondary-nutrients]], micronutrients, and deficiency
 symptoms is essential for maximizing bud production and plant vigor.
 
 ## The Three Tiers of Plant Nutrition
@@ -40,7 +40,7 @@ nutrient prevents absorption of others.
 
 ## Vegetative Phase Nutrient Requirements
 
-During vegetative growth, cannabis plants require good levels of
+During [[cannabis-vegetative-growth-stage]], cannabis plants require good levels of
 nitrogen and normal levels of phosphorus and potassium. The plant is
 actively producing leaves, stems, and branches, and nitrogen is the
 primary driver of this foliar growth.
@@ -64,7 +64,7 @@ represented. A bag labeled 10-20-0 would be insufficient.
 
 When cannabis transitions to flowering under a 12/12 [[query-best-light-schedule-for-cannabis]],
 its nutritional needs shift dramatically. Phosphorus becomes the most
-critical nutrient, as it drives flower and resin production. Nitrogen
+critical nutrient, as it drives flower [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]. Nitrogen
 requirements decrease significantly; excess nitrogen during flowering
 can delay bud development and reduce terpene production.
 
@@ -74,13 +74,13 @@ We simply use plant feeds to bring up the P levels during flowering."
 
 During flowering, growers should switch to a fertilizer where the
 phosphorus value exceeds both nitrogen and potassium. The transition
-should occur gradually, beginning when the 12/12 light cycle is
+should occur gradually, beginning when the 12/12 [[green-cannabis-photoperiod-12-12-light-cycle]] is
 initiated and pre-flowers begin to appear.
 
 ## Feeding Schedule and Dilution
 
 Cannabis plants burn easily from excess nutrients, a condition known
-as chemical burn. The source text strongly recommends never mixing
+as [[cannabis-chemical-burn-vs-deficiency]]. The source text strongly recommends never mixing
 nutrient solutions at full label strength. If a product recommends
 1 capful per 3 gallons of water, the grower should use 1 capful per
 6 gallons instead, operating at 50% or less of the recommended
@@ -88,59 +88,3 @@ concentration.
 
 Most plants need feeding only every two weeks at these reduced
 levels. Growers should never need to feed daily. Secondary nutrients
-can be added once every three weeks as a supplement.
-
-## pH Management and Nutrient Availability
-
-Cannabis plants prefer a steady soil pH around 7.0, with an acceptable
-range of 6.0 to 8.0. As plants absorb minerals and release waste, the
-pH can drift. Growers should check pH at least weekly and again a day
-or two after feeding.
-
-pH problems can cause nutrient lockout, where the plant cannot access
-nutrients even if they are present in the soil. When pH drifts beyond
-the acceptable range, correction methods include pH adjustment products
-or, in severe cases, a soil flush -- leaching the medium with plain
-water to remove excess salts and restore chemical balance.
-
-## Deficiency Symptoms Diagnostic Guide
-
-The source text provides a systematic approach to diagnosing nutrient
-problems. A chemical burn from overfeeding presents differently from a
-true [[cannabis-grow-nutrient-deficiency-problem-solving]]: burns start at leaf tips and progress inward
-with crispy, ash-like tissue, while deficiencies show as cell collapse
-with discoloration but without the burnt appearance.
-
-**Nitrogen (N) deficiency:** Leaves turn very yellow, especially in
-vegetative growth. During flowering, causes stunted growth and
-yellowing with a dying appearance.
-
-**Phosphorus (P) deficiency:** During flowering, plants appear red or
-dark green with yellowing but do not look as if dying.
-
-**Magnesium (Mg) deficiency:** Leaves curl upward, twist, and turn
-yellow. Corrected with Epsom salts at 1/4 to 1/3 tablespoon per 3
-gallons of water.
-
-**Potassium (K) deficiency:** Leaf tips turn brown and curl slightly.
-
-**Iron (Fe) deficiency:** Leaf veins remain green while the leaf blade
-turns yellow (interveinal chlorosis).
-
-**Manganese (Mn) deficiency:** Yellowing at the base of leaves while
-tips remain fine; leaves are not twisted.
-
-## Nutrient Lockout
-
-Nutrient lockout occurs when the plant cannot access nutrients despite
-their presence in the growing medium. This can be caused by chemical
-reactions creating toxic substances that block root uptake, or by
-excess of one nutrient altering the availability of others. pH
-problems, soil composition, and water quality can all contribute.
-The remedy is to transplant into fresh soil or flush the existing
-medium thoroughly.
-## Related Concepts
-
-- [[flowering-phase-cannabis]]
-- [[cannabis-nutrient-lockout-and-ph]]
-- [[cannabis-chemical-burn-vs-deficiency]]

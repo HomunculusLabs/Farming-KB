@@ -9,16 +9,16 @@ sources: []
 
 # Homestead Winter Preparations
 
-Winter preparation is a critical annual cycle for any homestead. In cold climates, inadequate preparation means frozen pipes, hungry livestock, cold buildings, and unnecessary hardship. A systematic approach beginning in late summer ensures that buildings, animals, water systems, food stores, and energy supplies are ready for months of cold, snow, and short days.
+Winter preparation is a critical annual cycle for any homestead. [[query-how-do-i-grow-figs-in-cold-climates]], inadequate preparation means frozen pipes, hungry livestock, cold buildings, and unnecessary hardship. A systematic approach beginning in late summer ensures that buildings, animals, water systems, food stores, and energy supplies are ready for months of cold, snow, and short days.
 
 ## Timeline
 
 ### August-September: Planning and Procurement
 
 - Order firewood (or begin cutting and splitting your own)
-- Order livestock feed and bedding for winter (prices rise in winter)
+- Order [[livestock-feed-formulation]] and bedding for winter (prices rise in winter)
 - Inspect and order replacement parts for heating systems
-- Test [[homestead-internet-options|internet]] and communication equipment
+- Test [[homestead-internet-options]] and communication equipment
 - Review last winter's problems and plan solutions
 - Stock up on supplies before roads become difficult
 
@@ -52,12 +52,12 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 - Consider insulating window film for single-pane windows
 
 **Heating System:**
-- Schedule annual inspection for furnace, boiler, or [[masonry-heater-design|masonry heater]]
+- Schedule annual inspection for furnace, boiler, or [[masonry-heater-design]]
 - Clean or replace furnace filters
 - Test backup heat sources (wood stove, space heaters)
 - Stock at least 1-2 weeks of backup fuel (propane, wood, kerosene)
-- Check [[radiant-floor-heating|radiant floor]] systems for proper operation
-- Verify [[passive-solar-design|passive solar]] features are unobstructed (clean south-facing windows)
+- Check [[radiant-floor-heating]] systems for proper operation
+- Verify [[passive-solar-design]] features are unobstructed (clean south-facing windows)
 
 **Windows and Doors:**
 - Install storm windows or insulating window inserts
@@ -77,17 +77,17 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 ### Greenhouses and Season Extension
 
 - Insulate north wall with reflective insulation
-- Add thermal mass (water barrels painted black) for nighttime heat retention
+- Add [[comparison-windbreak-vs-thermal-mass]] (water barrels painted black) for nighttime heat retention
 - Install a backup heater for extreme cold events
 - Double-layer poly film or add bubble wrap for insulation
 - Ensure automatic vent openers are disabled or adjusted for winter
-- See also: [[season-extension-techniques|season extension methods]]
+- See also: [[season-extension-techniques]]
 
 ## Winterizing Livestock
 
 ### General Principles
 
-- Most livestock tolerate cold better than heat — focus on wind protection and dry bedding
+- Most livestock tolerate cold better than heat — focus on [[cervantes-wind-protection-outdoor-cannabis]] and dry bedding
 - Access to clean, unfrozen water is the most critical winter livestock challenge
 - Increase feed rations 10-20% in cold weather (animals burn more calories to stay warm)
 - Provide shelter from wind and precipitation (not necessarily heated space)
@@ -147,4 +147,3 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 - Drain sprinkler systems
 - Insulate any exposed pipes with foam insulation or heat tape
 - Open cabinet doors under sinks on exterior walls during extreme cold
-

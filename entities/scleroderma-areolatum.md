@@ -88,17 +88,3 @@ Beginning foragers sometimes confuse Scleroderma areolatum with edible puffballs
 The areolate cracking pattern on the peridium of S. areolatum is a useful diagnostic feature, though this character develops primarily at maturity. Immature specimens may require sectioning to distinguish from true puffballs.
 
 Unlike Calvatia gigantea, which can reach impressive sizes, S. areolatum rarely exceeds 4 cm in diameter. Its small stature combined with its dark gleba makes it one of the easier Scleroderma species to recognize with practice.
-
-## Related Species
-
-- **Scleroderma citrinum** — the common earthball, larger (3–8 cm) with a thicker, more prominently reticulate peridium
-- **Scleroderma verrucosum** — similar size, with a coarsely warted peridium and stronger mycorrhizal preference for oaks
-- **Scleroderma bovista** — larger species with a smooth to finely granular surface when young
-- **Pisolithus tinctorius** — the dyeball, another ectomycorrhizal boletalean puffball used in forestry
-
-## See Also
-
-- [[pisolithus-tinctorius]]
-- [[suillus-luteus]]
-- [[rhizophagus-irregularis]]
-- [[russula-vesca]]

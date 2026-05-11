@@ -87,34 +87,3 @@ The species is widely used in native grass seedings for livestock forage, wildli
 Seed dormancy is common in freshly harvested seed, with germination improved by cold stratification or after-ripening periods of 6–12 months. Seedling vigor is moderate, with establishment typically requiring 1–2 growing seasons under adequate moisture.
 
 The species responds well to moderate nitrogen fertilization in forage plantings, though phosphorus and potassium are typically the limiting nutrients on the calcareous soils where it commonly grows. Over-fertilization with nitrogen favors weedy annual grasses at the expense of sideoats grama.
-
-Several improved cultivars have been released for forage and conservation use, including 'Butte', 'El Reno', 'Niner', and 'Vaughn'. These selections offer improved seed yield, germination, and forage production compared to common seed sources.
-
-## Conservation and Restoration
-
-Sideoats grama is a standard component of native seed mixes for prairie restoration across the Great Plains and southwestern United States. Its broad ecological amplitude and reliable establishment make it a versatile species for diverse site conditions.
-
-The species is particularly effective for erosion control on steep slopes, roadcuts, and mine reclamation sites. Its dense root system stabilizes soil effectively, and its drought tolerance ensures persistence on sites where irrigation is unavailable.
-
-In urban landscapes, sideoats grama is used in xeriscaping and low-input lawn alternatives. The cultivar 'Pestanes' has been selected for improved turf characteristics, though the species does not form a dense sod comparable to introduced turf grasses.
-
-Competition from introduced species such as Kentucky bluegrass and smooth brome can limit sideoats grama establishment in restoration plantings. Management strategies including herbicide pretreatment and delayed seeding improve restoration success on invaded sites.
-
-## See Also
-
-- [[andropogon-gerardii]]
-- [[panicum-virgatum]]
-- [[sorghum-bicolor]]
-- [[zea-mays]]
-- [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
-- [[spartina-alterniflora]]
-- [[festuca-arundinacea]]
-- [[deschampsia-caespitosa]]
-- [[pennisetum-setaceum]]
-- [[arundo-donax]]
-- [[miscanthus-sinensis]]
-- [[avena-sativa]]
-- [[triticum-aestivum]]
-- [[pennisetum-glaucum]]
-- [[coix-lacryma-jobi]]

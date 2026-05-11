@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Climate Classification
 
-Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture [[solomon-climate-zones-and-growing-seasons]] design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
+Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
 ## Classification of Broad Climatic Zones
 
-The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones [[solomon-climate-zones-and-growing-seasons]] addressed include:
+The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones addressed include:
 
-- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, Central America, Sri Lanka, Malaya, Borneo, New Guinea.
+- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], Sri Lanka, Malaya, Borneo, New Guinea.
 
 - **Dry tropics and subtropics**: Areas with seasonal drought, including savannah, desert, and semi-arid regions.
 
@@ -29,7 +29,7 @@ The Manual uses the Trewartha (1954) classification system as its primary framew
 
 - **Cool temperate to cold**: Mesothermal climates with distinct seasons, frost, and snow. Includes humid cool climates and cold continental zones with permafrost.
 
-- **Polar and high alpine**: Extreme cold with permafrost, short growing seasons.
+- **Polar and high alpine**: Extreme cold with permafrost, short [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Key Climatic Factors
 
@@ -39,7 +39,7 @@ The engines of the atmosphere -- solar radiation, earth rotation, and the distri
 
 ### Precipitation
 
-Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds transpiration and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring water conservation strategies.
+Rainfall amount, distribution, reliability, and intensity are critical design factors. The Manual distinguishes between areas where precipitation exceeds transpiration and evaporation (enabling dams, wetlands, and swamps as long-term water and wildlife reserves) and deficit areas requiring water [[endangered-fungi-and-conservation-strategies]].
 
 ### Radiation
 
@@ -65,4 +65,21 @@ A subtropical site may have severe frosts, cold winds, torrential summer rains, 
 
 - [[permaculture-temperate-design-strategies]] -- Strategies for cool and cold climates
 - [[permaculture-forestry-systems]] -- Tree systems across climate zones
-- [[permaculture-zone-and-sector-analysis]] -- Sector analysis for climate factors
+- [[permaculture-zone-and-sector-analysis]] -- [[ozier-pdc-sector-analysis-for-site-design]] climate factors
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mollison-climate-site-analysis-permaculture]]
+- [[permaculture-climate-strategies]]
+- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
+- [[permaculture-designers-manual-cold-climate-design]]
+- [[mollison-designers-climate-classification-and-design-zones]]

@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Gonzales GF et al. "Maca (lepidium-meyenii-entity Walp.), a nutritious Andean crop." Natural Product Communications, 2019.
   - Panossian A, Wikman G. "Evidence-based efficacy of [[rhodiola-rosea]] L. in stress and fatigue." Phytomedicine, 2022.
   - Valerio LG, Gonzales GF. "Toxicological aspects of the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] herbs cat's claw (uncaria-tomentosa) and maca ([[lepidium-meyenii-entity]])." Toxicology Reviews, 2005.
@@ -147,4 +148,3 @@ Both species benefit from crop rotation and excellent drainage as primary [[cerv
 
 ### Maca — Challenges
 - Requires a full 8–10 month cool growing season; difficult in areas with hot summers
-- Annual lifecycle means replanting every year

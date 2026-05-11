@@ -1,5 +1,5 @@
 ---
-title: "EMCDDA emcdda hallucinogenic mushroom amanita muscaria emerging alternative allegro-amanita-muscaria-properties-and-pharmacology Emerging Alternative"
+title: Emcdda Hallucinogenic Mushroom Amanita Muscaria Emerging Alternative
 created: 2026-04-28
 tags:
   - emcdda
@@ -39,7 +39,7 @@ fundamentally different active chemicals:
 - **Muscarine**: A parasympathomimetic compound (present in small
   quantities).
 
-These active chemicals are totally different from psilocybin and psilocin,
+These active chemicals are totally different from [[hplc-analysis-of-psilocybin-and-psilocin]],
 producing qualitatively different effects. The experience is generally
 described as more deliriant and dissociative rather than the classic
 psychedelic effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
@@ -63,7 +63,7 @@ mushrooms:
 
 ## The Substitution Effect Following Prohibition
 
-The EMCDDA observed that legal responses to hallucinogenic mushrooms were
+The EMCDDA observed that [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] were
 followed by an emerging interest of retailers in selling alternative, legal
 types of hallucinogenic mushroom such as Amanita muscaria. Specific examples
 included:
@@ -75,10 +75,10 @@ Following the July 2005 ban on psilocybin-containing fungi as Class A drugs:
   switching their sales to legal alternatives.
 - Fly Agaric (Amanita muscaria) was prominently marketed as a legal
   substitute.
-- The closely related Amanita pantherina (Panther mushroom or Panther cap)
+- The closely related [[amanita-pantherina]] (Panther mushroom or Panther cap)
   was also offered as an alternative.
 - Purple Ohms capsules, whose main ingredient is [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
-  (Hawaiian Baby Woodrose) containing Lysergic Acid Amide (LSA), were
+  (Hawaiian Baby Woodrose) containing [[lysergic-acid-amide]] (LSA), were
   increasingly marketed as having similar effects to LSD.
 
 ### Market Dynamics
@@ -88,49 +88,3 @@ a broader pattern in drug markets: when one substance is prohibited,
 economic interests drive the promotion of available alternatives, regardless
 of whether those alternatives carry greater health risks. The EMCDDA
 highlighted that the use of these alternative substances may pose health
-risks which call for further legal and prevention responses.
-
-## Pharmacological Differences from Psilocybin Mushrooms
-
-Understanding the fundamental differences between psilocybin and Amanita
-mushrooms is important for assessing risk:
-
-| Aspect          | Psilocybin Mushrooms         | Amanita Muscaria             |
-|-----------------|------------------------------|------------------------------|
-| Active compounds| Psilocybin, psilocin         | Muscimol, ibotenic acid      |
-| Chemical class  | Tryptamines (indolealkylamines) | Ibotenic acid derivatives  |
-| Receptor action | Serotonin 5-HT2A agonist     | GABA-A agonist, glutamate    |
-| Effects         | Psychedelic, visual          | Deliriant, dissociative      |
-| Toxicity        | Low physical toxicity        | Substantial toxicity risks   |
-| Fatal risk      | Extremely rare               | Possible with misidentification |
-
-## Regulatory Implications
-
-The Amanita muscaria substitution trend raises important regulatory
-questions:
-
-- The legal status of Amanita muscaria varied across EU Member States,
-  with some countries having no specific controls while others regulated it.
-- Prohibition of one substance can inadvertently increase demand for
-  potentially more dangerous alternatives.
-- Prevention and harm reduction information may need to specifically address
-  the risks of Amanita muscaria, particularly for users seeking it as a
-  substitute for psilocybin mushrooms.
-- The marketing of Amanita muscaria as a "legal high" may give consumers a
-  false sense of safety, as legal status does not correlate with lower
-  health risk.
-
-## EMCDDA Conclusions
-
-The EMCDDA concluded that the emergence of Amanita muscaria as a marketed
-alternative to prohibited hallucinogenic mushrooms highlights the importance
-of considering the "crucial part that contextual forces play in reinforcing
-or legitimating forms of regulation." The organisation warned that the use
-of these alternative mushrooms may pose health risks requiring further legal
-and prevention responses.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[emcdda-hallucinogenic-mushroom-harm-reduction]]

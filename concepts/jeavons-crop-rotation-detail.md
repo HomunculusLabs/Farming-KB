@@ -77,3 +77,20 @@ framework for crop rotation.
 ## [[jeavons-companion-planting]]
 [[jeavons-soil-fertility]]
 [[jeavons-grow-biointensive-method-overview]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[jeavons-crop-rotation-system]]
+- [[coleman-yearly-schedule-multi-crop-winter-rotation-planning]]
+- [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
+- [[crop-rotation-and-soil-health-planning]]
+- [[mushroom-crop-rotation-and-substrate-reuse]]

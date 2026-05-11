@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-A backyard orchard brings tree fruit production to the home landscape. Even small yards can support multiple fruit trees through careful planning, appropriate rootstock selection, and smart spacing. This guide covers layout principles, spacing, pollination groups, rootstock selection, and understory planting.
+[[query-how-to-start-a-backyard-orchard]] brings tree fruit production to the home landscape. Even small yards can support multiple fruit trees through careful planning, appropriate rootstock selection, and smart spacing. This guide covers layout principles, spacing, pollination groups, rootstock selection, and understory planting.
 
 ## Layout Principles
 
@@ -125,19 +125,19 @@ Rootstocks determine tree size, hardiness, soil adaptation, and precocity (how q
 - Medium yard: Semi-dwarf (MM106 for apples, OHxF 333 for pears)
 - Poor soil: MM111 (apples) or Lovell (peaches)
 - Cold climate: Ensure rootstock is rated for your zone
-- Container growing: Dwarf rootstocks only
+- [[container-growing-vegetables-herbs]]: Dwarf rootstocks only
 
 ## Understory Planting
 
 The space beneath and between fruit trees can be productive if designed carefully.
 
 ### What to Plant Under Trees
-- **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, suppress weeds, deter rodents
-- **Comfrey**: Deep-rooted dynamic accumulator; chop and drop for mulch. Plant at the drip line, not near the trunk
+- **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, [[query-how-do-cover-crops-suppress-weeds]], deter rodents
+- **Comfrey**: Deep-rooted [[comparison-hyperaccumulator-vs-dynamic-accumulator]]; chop and drop for mulch. Plant at the drip line, not near the trunk
 - **Nitrogen-fixing ground covers**: White clover, crimson clover
 - **Herbs**: Chives, garlic, chamomile — deter pests, attract pollinators
 - **Berry bushes**: Currants, gooseberries tolerate partial shade
-- **Nasturtiums**: Pest deterrent, edible flowers, ground cover
+- **Nasturtiums**: Pest deterrent, [[comparison-scented-geraniums-vs-edible-flowers]], ground cover
 
 ### What NOT to Plant Under Trees
 - Grass — competes aggressively with tree roots for water and nutrients

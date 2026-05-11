@@ -1,6 +1,6 @@
 ---
 title: Fukuoka's Clay Pellet Revegetation Method
-source: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [agriculture, natural-farming, revegetation, desert-greening, ecology]
 created: 2026-05-09
 ---
@@ -88,33 +88,3 @@ Fukuoka acknowledged that natural farming would never see general application in
 - Political barriers: Desert regions often span national boundaries with conflicting interests
 - Time horizon: Full ecosystem recovery takes decades, exceeding political and economic planning cycles
 - Monitoring: Without controlled experiments, it is difficult to assess which interventions succeed
-
-## Proposed Global Application
-
-Fukuoka called for immediate action rather than further study. Standing in an American desert, he was struck by the realization that the same patterns of ecological destruction he had witnessed in Japan—overgrazing, chemical agriculture, deforestation—had been repeated across the American West. Livestock farming had destroyed the ecology of natural grasses, devastating the land. The resulting low productivity drove farmers to large-scale mechanized operations, which further broke down soil structure in a negative spiral.
-
-He proposed that the seed pellets could be prepared using locally adapted species and scattered over deserts and savannahs by hand. The method required no heavy machinery, no irrigation infrastructure, and no chemical inputs—making it accessible even in regions with minimal resources. "Even one person can begin," he wrote.
-
-Certain tropical plants were noted as particularly promising: species that grow on rocks and trees and store water could help blanket deserts rapidly with a green cover. "Anything will do, as long as we get the deserts blanketed rapidly with a green cover of grass. This will bring back the rains."
-
-## Connection to Natural Farming Principles
-
-The clay pellet method is a direct extension of [[fukuoka-natural-farming-five-principles]]:
-
-- **No tillage**: Seeds are placed on the surface, not buried in plowed soil
-- **No fertilizer**: Soil microbes within the pellets provide natural fertility
-- **No pesticides**: Natural plant diversity creates its own pest resistance
-- **No weeding**: All species in the seed mix are valued for their ecological function
-- **No pruning**: Trees and plants grow in their natural forms
-
-The method embodies Fukuoka's deepest conviction: that nature, not human knowledge, possesses the capacity for true restoration. The pellets are a humble tool—a "spark" rather than a solution—designed to initiate natural processes that then sustain themselves without further human intervention.
-
-## Relevance to Contemporary Climate Challenges
-
-Fukuoka's proposal predates but anticipates many modern concerns about desertification, biodiversity loss, and climate change. His observation that vegetation loss creates a feedback loop reducing rainfall aligns with current understanding of land-atmosphere interactions and the albedo effect. The emphasis on soil microbiomes as essential to revegetation has been confirmed by modern research into mycorrhizal networks and the soil carbon cycle.
-
-## See Also
-
-- [[fukuoka-natural-farming-five-principles]] — Core philosophy and grain production methods
-- [[natural-farming-soil-management]] — Soil microbial communities in natural farming
-- [[mycorrhizal-networks]] — Fungal networks supporting plant establishment

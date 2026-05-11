@@ -36,7 +36,7 @@ sources:
 
 ## Overview
 
-2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by Alexander Shulgin in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD  in) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced sensory perception, and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
+2C-B is a synthetic psychedelic phenethylamine and the most well-known member of the 2C family of compounds, first synthesized by [[alexander-shulgin]] in 1974. It occupies a unique pharmacological niche between classical psychedelics (like LSD  in) and empathogens (like MDMA), producing effects that include visual hallucinations, emotional openness, enhanced [[plant-sensory-perception]], and mild stimulant qualities. It is widely regarded as one of the most "balanced" psychedelics — possessing significant psychedelic depth while maintaining a relatively manageable psychological intensity profile.
 
 The compound gained significant popularity in the  community during [[hallucinogenic-mushroom-user-terminology-and-brand-names]] like "Nexus" and "Erox" before being scheduled internationally. It remains one of the most commonly used novel psychedelics worldwide.
 
@@ -54,11 +54,11 @@ The compound gained significant popularity in the  community during [[hallucinog
 
 ### Pharmacokinetics
 
-- **Route of administration**: Oral (most common), insufflation, sublingual, rectal
+- **[[mushroom-taste-route-of-administration-and-consumption-barriers]]**: Oral (most common), insufflation, sublingual, rectal
 - **Onset**: Oral 20–60 minutes; insufflation 5–15 minutes
 - **Duration**: Oral 4–8 hours (typically 5–6 hours); insufflation 2–4 hours
 - **Peak effects**: Oral 1.5–2.5 hours post-dose
-- **Bioavailability**: Oral bioavailability is moderate (estimated 20–40%); first-pass metabolism significant
+- **Bioavailability**: [[first-pass-metabolism-and-oral-bioavailability]] is moderate (estimated 20–40%); first-pass metabolism significant
 - **Metabolism**: palmer-about-mushrooms-foraging-basics-and-safety
 
 2C-B has a relatively favorable [[cannabis-safety-profile-and-overdose-risk]] based on both animal studies and decades of human use:
@@ -78,7 +78,7 @@ The compound gained significant popularity in the  community during [[hallucinog
 
 - **1974**: First synthesized by Alexander Shulgin; human bioassay described in PIHKAL (Entry #20)
 - **1980s**: Marketed legally in Europe and the US as an aphrodisiac ("Nexus," "Erox")
-- **1995**: Emergency scheduled in the United States (DEA)
+- **1995**: Emergency scheduled in the [[dmt-maoi-plants-united-states]] (DEA)
 - **2002**: Scheduled under the UN Convention on Psychotropic Substances
 ## Related Compounds
 
@@ -88,10 +88,3 @@ The compound gained significant popularity in the  community during [[hallucinog
 - **2C-T-2**: Thioalkyl analogue, significantly more potent
 - **25B-NBOMe**: N-benzyl derivative, vastly more potent (µg range), higher risk profile — **not** the same compound despite sharing the "2C-B" letters
 - **DOB**: Amphetamine analogue of 2C-B, much longer duration (18–30 hours)
-
-## See Also
-
-- [[4-fma]]
-- [[miproscaline]]
-- [[i-thou-relationship-with-psychedelic-entities]]
-- [[mdma-qualitative-effects-phenomenology]]

@@ -30,7 +30,7 @@ Early mycologists described roughly 70,000 fungal species by the late
 taxonomy dominated the field.
 
 Hawksworth's landmark 1991 paper proposed 1.5 million species based on
-ratios of fungi to plants in well-studied temperate regions, a figure
+ratios of fungi to plants in well-studied [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], a figure
 that remained influential for decades and shaped conservation priorities.
 
 More recent molecular surveys have pushed estimates dramatically higher,
@@ -45,7 +45,7 @@ the methodological limitations of each approach.
 
 ### Ratio-Based Methods
 
-The classic approach correlates known fungal diversity with plant
+The classic approach correlates known [[arbuscular-mycorrhizal-fungal-diversity]] with plant
 diversity in well-studied temperate regions and extrapolates globally.
 
 Hawksworth used a ratio of approximately 6 fungal species per plant
@@ -54,7 +54,7 @@ plant species.
 
 This assumes a relatively stable fungus-to-plant ratio across
 ecosystems, which tropical studies have challenged. In reality,
-tropical regions show much higher fungal diversity per plant species
+[[fukuoka-natural-farming-in-tropical-regions]] show much higher fungal diversity per plant species
 than temperate zones, suggesting ratio-based methods significantly
 underestimate global totals.
 
@@ -67,7 +67,7 @@ Soil cores, air samples, and [[dighton-fungal-decomposition-leaf-litter-dynamics
 operational taxonomic units (OTUs) or amplicon sequence variants (ASVs)
 that correspond to no described species.
 
-High-throughput sequencing studies in tropical forests suggest that
+High-throughput sequencing studies in [[fungal-biodiversity-tropical-forests]] suggest that
 most fungal diversity remains unsampled.
 
 A landmark 2017 study by Tedersoo and colleagues using extrapolation
@@ -80,7 +80,7 @@ soil habitats.
 Studies of plant-fungal associations, particularly endophytes and
 mycorrhizal partners, estimate species numbers based on host plant
 diversity. Each tropical tree species may host dozens to hundreds of
-unique fungal endophyte species.
+unique [[fungal-endophyte-colonization-patterns]] species.
 
 When multiplied across the estimated 60,000+ tree species globally, and
 accounting for non-tree hosts (grasses, herbaceous plants, bryophytes),
@@ -88,62 +88,3 @@ this approach alone implies millions of undiscovered species.
 
 The specificity of many plant-pathogenic fungi further inflates these
 estimates, as coevolution with distinct host lineages drives speciation.
-
-### Extrapolation from Known Diversity Curves
-
-Some researchers use species accumulation curves from well-sampled
-habitats to extrapolate global totals.
-
-The persistent failure of these curves to plateau, even in intensively
-studied temperate forests, suggests that a large fraction of diversity
-remains undetected even in regions considered mycologically well-known.
-
-Non-parametric estimators like Chao1 and ACE consistently predict
-substantially higher diversity than observed counts.
-
-## Current Consensus
-
-Most contemporary mycologists accept a working estimate of 2.2 to 3.8
-million fungal species.
-
-The UN Biodiversity Convention and major mycological organizations
-including the International Mycological Association now commonly cite
-approximately 2.5 million as a reasonable central estimate.
-
-Currently, approximately 150,000 fungal species have been formally
-described, meaning somewhere between 93% and 97% of fungal species
-remain unknown to science, making fungi arguably the most underdescribed
-major kingdom of life.
-
-## Key Challenges
-
-### Cryptic Species
-
-Morphologically identical but genetically distinct lineages are common
-in fungi, inflating true diversity beyond what morphology-based
-taxonomy captures.
-
-Molecular phylogenetics consistently reveals cryptic diversity within
-what were thought to be single widespread species.
-
-Many so-called cosmopolitan fungal species have been found to represent
-complexes of regionally endemic cryptic species upon molecular
-examination.
-
-### Undersampled Regions
-
-Tropical forests, deep soils, aquatic environments, and extreme
-habitats (deserts, polar regions, deep sea vents) remain severely
-underexplored by mycologists.
-
-The canopy of tropical rainforests is particularly undersampled, with
-many epiphytic and [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] likely unknown.
-
-Marine fungi represent another vast gap; the oceans cover 71% of
-Earth's surface but marine fungal diversity is poorly documented.
-## See Also
-- evolution and ecology of plant fungal mutualisms
-- [[piriformospora-indica-in-plant-fungal-co-culture]]
-- [[fungal-species-estimates-biodiversity-overview]]
-- [[fungal-species-concepts-estimates]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]

@@ -11,7 +11,7 @@ type: concept
 
 # Ibogaine, Bwiti, and the Fang in Food of the Gods
 
-In *Food of the Gods*, Terence McKenna discusses the Bwiti cults of West
+In *Food of the Gods*, [[terence-mckenna]] discusses the Bwiti cults of West
 Africa as an instructive example of how hallucinogenic indole-containing
 plants can shape social cohesion and sexual dynamics within a tribal
 society. The Bwiti use of *[[plants-of-the-gods-tabernanthe-iboga-chemistry]]* provides not only visionary
@@ -20,9 +20,9 @@ sees as central to the partnership model of social organization.
 
 ## The Bwiti Cults of the Fang
 
-The Fang people of West Africa maintain the Bwiti religion, a syncretic
+The Fang people of West Africa maintain the [[iboga-bwiti-religion]], a syncretic
 spiritual tradition built around the consumption of ibogaine, the
-principal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the [[iboga-root-bark-preparation]] of *Tabernanthe iboga*.
+principal [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the [[iboga-root-bark-preparation]] of *[[plants-of-the-gods-tabernanthe-iboga]]*.
 McKenna presents the Bwiti as a living example of a partnership-oriented
 society that has successfully resisted both commercial and missionary
 incursions into its cultural integrity, a resilience he attributes in
@@ -49,7 +49,7 @@ He considers ibogaine to be perhaps one of the few plants among the
 many dozens claimed to be aphrodisiacs that actually performs as
 advertised. Most other candidates, he notes, are in fact merely
 stimulants that can cause generalized arousal and sustained erection
-without genuinely altering the psychological mechanisms underlying
+without genuinely altering the [[psilocybin-psychological-mechanisms]] underlying
 sexual drive.
 
 Ibogaine, by contrast, appears to genuinely change, deepen, and enhance
@@ -64,7 +64,7 @@ boundary-dissolving visionary hallucinogen.
 ## Dominator Attitudes and Sexual Suppression
 
 McKenna uses the Bwiti example to illustrate a broader argument about
-how dominator societies approach sexuality and psychoactive plants. He
+how [[partnership-vs-dominator-societies]] approach sexuality and psychoactive plants. He
 notes that dominator societies that arose to replace partnership
 societies were far less eager to suppress group sexual activities than
 they were to suppress hallucinogenic plant religions. Group sexual
@@ -88,38 +88,3 @@ McKenna connects the Bwiti example back to his larger thesis about
 fundamental to the partnership model, a tendency that was synergized
 and strengthened by the orgiastic behavior that was certainly part of
 the African Goddess and mushroom religion. Group sexual activity within
-small tribes of hunter-gatherers and group experiences with
-hallucinogens acted to dissolve boundaries and differences between
-people, promoting the open and unstructured sexuality naturally part of
-nomadic tribalism.
-
-McKenna is careful to note that this is not to imply that contemporary
-mushroom rituals are "orgies," despite what a sensation-hungry segment
-of the public may believe. The archaic sexuality he describes was an
-organic expression of community bonding, not the commodified spectacle
-that [[mckenna-dominator-culture-and-suppression-of-ecstasy]] projects onto the unfamiliar.
-
-## Implications for Modern Understanding
-
-McKenna argues that these powerful plants that change our relationship
-to sexuality and our view of self and world are the special province of
-peoples whom dominator culture is accustomed to thinking of as
-primitive. This, for McKenna, is one more indication of the extent to
-which unconsciously imbibed dominator attitudes have robbed modern
-people of participation in the wider and richer world of eros and the
-spirit.
-
-The ibogaine research that McKenna anticipates, particularly into its
-effects on sexual dysfunction, represents another example of scientific
-investigation only waiting for social attitudes to change before it can
-proceed. If the impact of [[mckenna-huxley-mind-at-large-reducing-valve]]
-
-- [[mckenna-dioscorea-population-reproduction-effects]]
-
-- [[mckenna-food-gods-archaic-revival]]
-- [[entheogen-bwiti-iboga-initiation-fang-society]]
-- [[mckenna-food-gods-fall-consciousness]]
-
-## See Also
-
-- [[mckenna-iboga-tabernanthe-ibogaine-fang-bwiti-initiation-cult]]

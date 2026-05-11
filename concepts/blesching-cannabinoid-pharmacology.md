@@ -2,7 +2,7 @@
 title: Cannabinoid Pharmacology - THC and CBD Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview cannabis-chronic-pain-management cannabis-for-epilepsy-and-seizure-disorders blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis, pharmacology]
@@ -46,16 +46,16 @@ damage from hypoxia by induction of nitric oxide, in a sense preparing heart
 cells to better withstand hypoxia (poor perfusion of heart cells and a direct
 cause of heart attacks) - THC is neuroprotective via CB1 - THC causes
 bronchodilation (enlargement of the airways leading to increased air supply -- a
-potent therapeutic element in heart disease) - THC causes weight gain and an
+potent therapeutic element in [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]) - THC causes weight gain and an
 increase in walking distance in chronic obstructive pulmonary disease (COPD)
 
 ### Synthetic THC Pharmaceuticals
 
-Synthetic drugs containing THC include Sativex, Dronabinol, Marinol, and
+[[mckenna-distillation-and-the-birth-of-synthetic-drugs]] containing THC include Sativex, Dronabinol, Marinol, and
 Nabilone. These pharmaceuticals are approved by the FDA and are used to treat a
 large number of conditions, some of which include AIDS-related
 anorexia/cachexia, nausea and vomiting secondary to chemotherapy cancer
-treatments, neurological disorders, inflammatory conditions, and PTSD. With the
+treatments, neurological disorders, [[cannabis-for-inflammatory-conditions]], and PTSD. With the
 exception of Sativex, which is essentially a plant-derived tincture,
 pharmaceuticals that contain THC do not contain any of the other biologically
 active components of cannabis that may play an important therapeutic role in the
@@ -63,7 +63,7 @@ human body.
 
 ### Plant-Based THC Considerations
 
-Plant-based THC content varies by [[blesching-cannabis-strain-selection-receptor-targeting]] and depending upon whether it
+Plant-based [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] varies by [[blesching-cannabis-strain-selection-receptor-targeting]] and depending upon whether it
 is fresh or dried (and if dried, its age), and whether it is grown indoors or
 outdoors. Some strains may be especially potent in THC while others may contain
 only trace amounts. Fresh cannabis contains THC in the form of
@@ -88,50 +88,3 @@ amide hydrolase or FAAH) that breaks down anandamide, thus keeping "the Bliss
 Molecule" active at higher concentrations and for a longer duration. At the same
 time, CBD tames the psychoactive influence of THC, allowing patients to focus on
 THC's other therapeutic powers at higher concentrations.
-
-### CBD and Neurological Diseases
-
-While the full complexity of how CBD interacts with the body's endocannabinoid
-system is yet to be revealed, numerous studies have shown that CBD affects
-diseases of both the mind and the body, particularly neurological diseases,
-inflammatory illness, and cancer. More specifically, CBD is considered a very
-promising agent with the highest prospect for therapeutic use in the treatment
-of neurodegenerative illness.
-
-An oil-based solution of CBD has been documented as effective for pediatric
-patients suffering from epileptic seizures who failed to respond to traditional
-pharmaceutical anti-seizure medications. See [[cannabis-anxiety-research]] for more on cannabinoid-based psychiatric applications.
-
-### CBD and Inflammatory Conditions
-
-CBD has been shown to have a clear and measurable therapeutic impact on
-inflammatory and anti-inflammatory regulation mechanisms such as in inflammatory
-bowel disease, arthritis, periodontitis, and atherosclerosis. See [[blesching-cannabis-inflammatory-bowel-disease]] for condition-specific evidence.
-
-### CBD and Cancer
-
-As regards cancer, CBD is able to produce significant anti-tumor activity both
-in vitro and in vivo. Further, CBD has been shown to selectively produce
-[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in cancer cells, thus producing apoptosis (cancer cell suicide)
-without impacting normal cells.
-
-## (E)-beta-Caryophyllene ((E)-BCP)
-
-An international group of researchers from Switzerland, Germany, Italy, and the
-U.S. reported that certain plants, most notably spice-producing plants, contain
-a functional non-psychoactive CB2 agonist called (E)-beta-caryophyllene or
-(E)-BCP. This molecule is considered by some researchers to be a food-based
-cannabinoid. While some chemists may be more inclined to consider the molecule a
-terpene or terpenoid, this distinction has little practical value to patients
-who may benefit from its use.
-
-Scientists suggest that activation of CB2 receptors via this newly discovered
-dietary plant-based cannabinoid might present a new and additional therapeutic
-strategy in the treatment of a multitude of diseases associated with
-inflammation and oxidative stress, both underlying factors in a host of
-different pathologies. Additional research has shown that (E)-beta-caryophyllene
-may also protect against microbes, pain, and cancer. See [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
-
-## See Also
-
-- [[reishi-triterpenoids-pharmacology]]

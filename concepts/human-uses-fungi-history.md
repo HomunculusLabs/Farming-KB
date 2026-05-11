@@ -88,24 +88,3 @@ metabolites can address major human health challenges.
 
 Fungi are prolific producers of industrial enzymes. Cellulases and
 hemicellulases are used in biofuel production and textile processing. Proteases
-serve as detergent additives and food processing aids. Amylases are essential
-for starch processing, brewing, and baking. Laccases and peroxidases from
-white-rot fungi are used in bioremediation and textile dye decolorization.
-Citric acid production by Aspergillus niger exceeds 2 million metric tons
-annually. White-rot fungi degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and
-polychlorinated biphenyls for environmental cleanup.
-
-## Biotechnology and Research
-
-Saccharomyces cerevisiae was the first eukaryotic organism with a fully
-sequenced genome completed in 1996. Fungal expression systems including
-Pichia pastoris, Aspergillus niger, and Trichoderma reesei are used for
-industrial production of recombinant proteins including enzymes, antibodies,
-vaccines, and therapeutic proteins. These biotechnological applications
-continue to expand as [[fukuoka-textdoc-genetic-engineering-critique-warning]] tools for fungi improve.
-
-## See Also
-
-- [[entheogenic-fungi-history]]
-- [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-- [[symbiotic-fungi-mycorrhiza-history-frank-discovery]]

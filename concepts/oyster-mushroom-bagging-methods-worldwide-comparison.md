@@ -1,6 +1,6 @@
 ---
-title: "Oyster Mushroom Bagging Methods: Worldwide Comparison"
-source: "MushWorld - Oyster Mushroom Cultivation (Mushrooms Handbook Vol. 1)"
+title: Oyster Mushroom Bagging Methods Worldwide Comparison
+source: "MushWorld - [[oyster-mushroom-cultivation]] (Mushrooms Handbook Vol. 1)"
 topic: mushroom-cultivation
 tags: [oyster-mushroom, bagging, cultivation, substrate, worldwide, packaging]
 ---
@@ -20,7 +20,7 @@ risk, and overall yield.
 
 The prepared substrate mixture is usually filled into bags before heat-treatment,
 though some growers pasteurise or sterilise in bulk and fill bags afterward. The
-first method is recommended to minimise contamination risk.
+first method is recommended to minimise [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
 
 After filling and compressing, a 2–3 cm diameter hole in the centre allows for
 inoculation down at the bottom of the bag. This permits deeper inoculation and
@@ -29,7 +29,7 @@ the bags don't always need to make an inoculation hole.
 
 Proper ventilated sealing is critical. Mycelia need oxygen to breathe, so
 breathable plugs or stoppers with cotton balls or breathable micro-filters
-provide free air exchange while filtering out contaminants.
+provide free [[growing-gourmet-growing-room-ventilation-air-exchange]] while filtering out contaminants.
 
 ## Country-Specific Methods
 
@@ -40,7 +40,7 @@ watered and sterilised before being put into polypropylene bags measuring
 25 × 20 cm. The small bag size suits the sawdust-based substrate and limited
 scale of operations typical in Bangladeshi smallholder cultivation.
 
-**Key features**: Mango sawdust substrate, small polypropylene bags, sterilised
+**Key features**: Mango [[stamets-supplemented-sawdust-substrate-preparation]], small polypropylene bags, sterilised
 rather than pasteurised, wheat bran supplementation at 20% of sawdust volume.
 
 ### Nepal
@@ -87,51 +87,3 @@ polyethylene ducting cut into 2-metre columns (50 cm diameter) with metal
 support, holding approximately 50 kg of substrate. Small-scale growers use
 small plastic bags containing about 20 kg of substrate with holes punched for
 aeration and mushroom maturation.
-
-**Key features**: Wide size range (20 kg bags to 50 kg columns), polyethylene
-ducting for large operations, metal support structures, punched holes for
-aeration rather than filtered plugs, dual-track approach for different scales.
-
-### Hungary (From Related Documentation)
-
-After heat treatment, the substrate is watered with a benomyl solution and
-spawned at 4–5% of wet weight. While specific bagging details differ, the
-Hungarian approach emphasises post-treatment fungicidal wash and relatively
-high spawning rate compared to other countries.
-
-**Key features**: Chemical treatment after pasteurisation (benomyl wash), high
-spawning rate at 4–5% of wet weight, fungicidal protection against
-contamination.
-
-## Comparison Matrix
-
-| Country | Container | Size | Substrate | Filling Method | Ventilation |
-|---------|-----------|------|-----------|---------------|-------------|
-| Bangladesh | PP bags | 25×20cm | Sawdust+bran | Direct fill | Filter plug |
-| Nepal | PE bags | 14×24" / 18×26" | Straw | Layer method | Pre-punched |
-| Vietnam | PE bags | 20×30cm / 18×25cm | Straw | Compact layers | Cotton plug |
-| India | Block (frame) | 45×30×15cm | Straw | Layer compress | Jute rope |
-| S. Africa | PE ducting/bags | 50cm×2m / ~20kg | Straw+lime | Direct fill | Punched holes |
-| Hungary | Bags | Variable | Mixed | Direct fill | Standard |
-
-## Practical Considerations
-
-1. **Bag material choice**: Polypropylene (PP) withstands autoclave
-   sterilisation at 121°C; polyethylene (PE) is limited to pasteurisation
-   temperatures. Choosing the wrong material leads to bag failure.
-2. **Compression matters**: Proper compaction ensures good mycelial contact
-   with substrate particles but must be balanced against aeration needs.
-3. **Hanging vs. shelving**: Vietnam's rope-hanging method saves floor space
-   but requires structural support; India's block method needs shelving.
-4. **Scale-appropriate design**: The contrast between South Africa's large
-   columns and Bangladesh's small bags shows how infrastructure investment
-   shapes bagging choices.
-
-## See Also
-
-- [[oyster-mushroom-substrate-preparation]]
-- [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]
-- [[oyster-mushroom-spawning-methods-worldwide-comparison]]
-- [[mushroom-substrate-preparation-sterilization]]
-- [[oyster-mushroom-cultivation-bag-log-bottle-methods]]
-- [[oyster-mushroom-shelf-fermentation-substrate-preparation]]

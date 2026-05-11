@@ -15,7 +15,7 @@ tags: [shamanism, hallucinogens, healing, divination, indigenous, psychedelics]
 
 Shamanism represents the oldest known human tradition of working with
 hallucinogenic plants for healing, divination, and the exploration of
-nonordinary states of consciousness. Both Terence McKenna and Ralph Metzner —
+nonordinary [[mckenna-food-gods-designer-states-of-consciousness]]. Both [[terence-mckenna]] and [[ralph-metzner]] —
 drawing on decades of fieldwork, anthropological literature, and personal
 experience — emphasized that shamanism is fundamentally a set of techniques
 rather than merely ritual, and that indigenous hallucinogenic plant use reflects
@@ -65,7 +65,7 @@ experience."
 
 Metzner identified three main variations of shamanic healing:
 1. **Extraction**: Removal of a toxin implanted through sorcery
-2. **Soul retrieval**: Recovery of a split-off psychic fragment
+2. **[[metzner-shamanic-healing-three-forms-extraction-soul-retrieval-dismemberment]]**: Recovery of a split-off psychic fragment
 3. **Dismemberment and reconstitution**: Destruction followed by reconstitution
    with a healthier, stronger "body"
 
@@ -82,64 +82,9 @@ intelligence associated with the medicine that communicates interiorly.
 
 Metzner documented key ceremonial forms across cultures:
 
-**Peyote ceremonies** ([[halpern-sacramental-peyote-and-native-american-church]] Church, Huichol): Participants sit around
+**[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]** ([[halpern-sacramental-peyote-and-native-american-church]] Church, Huichol): Participants sit around
 a central fire in a tipi; ceremonies last all night with a roadman, drummer,
 firekeeper, and cedar-man; rapid rhythmic peyote songs are sung continuously.
 
 **[[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]** (Mazatec, Mexico): Participants sit or lie in near-total
 darkness with a small candle; the healer sings almost uninterrupted throughout
-the night, weaving Christian saints, spirit allies, and nature spirits into
-chants.
-
-**[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]** (Amazon): Small groups sit in semidarkness while
-healers sing *icaros* — songs with rapid rhythmic pulse that keep the visionary
-experience moving; shamanic "sucking" methods extract toxic psychic residues.
-
-**San Pedro ceremonies** (Andes): Around a fire or at an altar with figurines
-representing light and dark spirits.
-
-**Bwiti ceremonies** (Gabon/Zaire, iboga): Temples with ancestral images;
-initiates daubed with white mud; mirrors allow them to "see" ancestral spirits.
-
-### Common Ceremonial Features
-- Minimal talking among participants during the experience
-- Singing or chanting considered essential to success
-- Ceremonies are almost always conducted in darkness or low light
-- Small groups (typically 6–12 participants)
-
-## Multiple Worlds and Spirit Beings
-
-The two elements of shamanic cosmology most radically challenging to the
-Western worldview are:
-
-1. **Multiple worlds**: "Inner world," "spirit world," "upper/lower world,"
-   "dreamtime," or "otherworld." Access may come through journeying or by
-   seeing into the spirit world while remaining aware of ordinary reality.
-
-2. **Spirit beings**: Nonmaterial entities associated with particular animals,
-   plants, trees, places, deceased ancestors, or nonordinary entities such as
-   "extraterrestrials or elves." Healing is experienced as done by or with
-   the assistance of such spirits, also called "allies," "power animals,"
-   "guardians," or "helpers."
-
-## The Word "Spirit" as Technical Language
-
-McKenna noted that Westerners hear "spirit" through "narrowing declensions of
-meaning" that obscure its original richness. Shamans use "spirit" as a
-technical gloss for a complicated concept — the way a quantum physicist uses
-"charm."
-
-McKenna concluded that the absence of a living shamanic tradition in modern
-Western culture represents a profound loss. The tragedy is that "we have no
-shamanic tradition" to guide exploration of these states.
-
-> Our normal waking consciousness, rational consciousness as we call it, is but
-> one special type of consciousness, whilst all about it, parted from it by the
-> filmiest of screens, there lie potential forms of consciousness entirely
-> different. No account of the universe in its totality can be final which
-> leaves these other forms of consciousness quite disregarded.
-
-## See Also
-- [[psilocybin-mushrooms-as-alien-symbiotes]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

@@ -20,15 +20,15 @@ sources:
 
 ## Overview
 
-**Phoenix sylvestris** (wild date palm, Indian date palm, or silver date palm) is a species of flowering palm native to the Indian subcontinent and Southeast Asia. It is closely related to the cultivated date palm Phoenix dactylifera.
+**Phoenix sylvestris** (wild date palm, Indian date palm, or silver date palm) is a species of flowering palm native to the Indian subcontinent and Southeast Asia. It is closely related to the cultivated date palm [[phoenix-dactylifera]].
 
 The species is a major source of toddy (palm wine) and sugar throughout its range. Sap tapping from Phoenix sylvestris inflorescences supports millions of rural livelihoods in India, Bangladesh, and Pakistan.
 
 Phoenix sylvestris is widely planted as an ornamental landscape palm in tropical and subtropical regions. Its graceful crown and silvery-green foliage make it a popular street and garden tree.
 
-The palm has significant ethnobotanical importance in Ayurvedic and folk medicine systems. Various plant parts are used to treat respiratory conditions, digestive disorders, and skin ailments.
+The palm has significant ethnobotanical importance in Ayurvedic and folk medicine systems. Various plant parts are used to treat [[cannabis-respiratory-conditions]], digestive disorders, and skin ailments.
 
-Modern pharmacological studies have identified several bioactive compounds in Phoenix sylvestris tissues. These include flavonoids, tannins, and phenolic acids with documented anti-inflammatory and antioxidant activities.
+Modern pharmacological studies have identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Phoenix sylvestris tissues. These include flavonoids, tannins, and phenolic acids with documented anti-inflammatory and antioxidant activities.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ Fruits are ovoid drupes, 1.5–2.5 cm long, ripening from green through yellow t
 
 Phoenix sylvestris is native to India, Pakistan, Bangladesh, Nepal, Sri Lanka, Myanmar, and Thailand. It is most abundant in the Gangetic plain and Deccan plateau of India.
 
-The species grows in a wide range of habitats, from semi-arid plains to humid tropical forests. It is commonly found along riverbanks, in open grasslands, and at forest edges at elevations up to 1,500 meters.
+The species grows in a wide range of habitats, from semi-arid plains to humid [[fungal-biodiversity-tropical-forests]]. It is commonly found along riverbanks, in open grasslands, and at forest edges at elevations up to 1,500 meters.
 
 Optimal growth occurs with annual rainfall of 500–1,500 mm and mean temperatures of 24–30 °C. The palm tolerates light frost and can survive brief temperature drops to -5 °C.
 
@@ -56,11 +56,11 @@ Phoenix sylvestris is highly adaptable to disturbed habitats and is frequently f
 
 The species has been widely introduced beyond its native range as an ornamental palm. Naturalized populations exist in parts of East Africa, Florida, and the Caribbean.
 
-In its introduced range, Phoenix sylvestris can hybridize with other Phoenix species, including the commercial date palm. This hybridization potential complicates taxonomic identification and conservation genetics.
+In its introduced range, Phoenix sylvestris can hybridize with other Phoenix species, including the commercial date palm. This hybridization potential complicates [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and conservation genetics.
 
 ## Cultivation
 
-Propagation is primarily from seed, which germinates within 2–4 weeks under warm, moist conditions. Vegetative propagation from offshoots (suckers) is also practiced, particularly for maintaining desirable genotypes.
+Propagation is primarily from seed, which germinates within 2–4 weeks under warm, moist conditions. [[hamilton-vegetative-propagation]] from offshoots (suckers) is also practiced, particularly for maintaining desirable genotypes.
 
 Seedlings establish quickly and begin producing sap-yielding inflorescences within 8–12 years. Mature palms produce multiple inflorescences per year, with peak sap flow during the winter months.
 
@@ -87,30 +87,3 @@ The leaves are used for thatching, basket weaving, and making brooms. The trunk 
 Dried petiole midribs are used as garden stakes, fencing material, and fuelwood. The spiny leaf bases have traditionally been used as fish traps and animal pens in rural South Asian communities.
 
 ## Ecological Role
-
-Phoenix sylvestris provides food and habitat for numerous bird species, including parakeets, pigeons, and mynas that feed on the fruit. The dense crown offers nesting sites for cavity-nesting birds.
-
-The palm serves as a roosting site for fruit bats (Pteropus spp.), which are important pollinators and seed dispersers across tropical South Asia. Bat-mediated pollination is critical for fruit set in wild populations.
-
-In agroforestry systems, Phoenix sylvestris provides shade for understory crops while its deep taproot system improves soil structure. The palm is commonly intercropped with cereals, legumes, and vegetables in traditional farming systems.
-
-The species contributes to landscape heterogeneity in agricultural areas, creating vertical structure that supports arboreal wildlife in otherwise flat terrain. Its presence increases local biodiversity in monoculture landscapes.
-
-Ground litter from fallen fronds and fruit creates microhabitats for detritivorous invertebrates. These invertebrate communities support insectivorous birds, amphibians, and reptiles that forage in the palm's root zone.
-
-In riparian areas, Phoenix sylvestris helps stabilize stream banks with its deep and extensive root system. The palm's tolerance of seasonal flooding makes it particularly valuable for watershed protection in monsoonal regions.
-
-## See Also
-
-- [[phoenix-theophrasti]]
-
-- [[phoenix-dactylifera]]
-- [[phoenix-canariensis]]
-- [[borassus-flabellifer]]
-- [[cocos-nucifera]]
-- [[saccharum-officinarum]]
-- [[areca-catechu]]
-- [[elaeis-guineensis]]
-- [[serenoa-repens]]
-- [[roystonea-regia]]
-- [[trachycarpus-fortunei]]

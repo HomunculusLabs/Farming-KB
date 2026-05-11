@@ -3,7 +3,7 @@ title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture|permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
+  - "raw/papers/[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]|permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -36,7 +36,7 @@ The posterior encodes what the model says after the data are taken into account.
 ## Priors
 A prior distribution can be informative, weakly informative, or intended to be diffuse.
 An informative prior uses substantial previous knowledge.
-A weakly informative prior rules out implausible values without [[dom|dom]] inating ordinary data.
+A weakly informative prior rules out implausible values without [[dom]] inating ordinary data.
 A diffuse prior attempts to express little prior preference.
 No prior is completely assumption-free.
 Good Bayesian practice makes prior assumptions explicit.
@@ -84,21 +84,7 @@ Software systems have made sophisticated models accessible to non-specialists.
 The theorem is named after Thomas Bayes, an eighteenth-century minister and mathematician.
 Pierre-Simon Laplace independently developed and expanded inverse probability methods.
 Bayesian reasoning was influential in early probability theory.
-During the twentieth century, frequentist methods became dominant in many scientific fields.
+During the [[coleman-louis-savier-twentieth-century-maraicher]], frequentist methods became dominant in many scientific fields.
 Critics objected that priors could be subjective.
 Bayesians responded that all statistical modeling contains assumptions and that explicit assumptions are preferable.
 The late twentieth century brought renewed Bayesian growth through better computation.
-MCMC methods made previously impossible models practical.
-Today Bayesian and frequentist methods coexist, compete, and often complement each other.
-The historical debate continues, but practical modeling often matters more than philosophical labels.
-
-## Applications in science
-bayesian inference is used to estimate physical constants from experimental measurements.
-It is used in astronomy to infer cosmological parameters from telescope data.
-It helps combine evidence from multiple clinical trials in medical research.
-Ecologists use hierarchical Bayesian models for population estimates and species distributions.
-Neuroscientists use Bayesian models to describe perception and [[kalman-filter]]
-
-## See Also
-- [[fungal-biodiversity-data-analysis]]
-- mollison-designers-data-overlay-map-[[maps|maps]]

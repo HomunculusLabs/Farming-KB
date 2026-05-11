@@ -11,7 +11,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Craigie, J.S. (1990). \"Cell walls of marine algae.\" In: Biology of the Red Algae. Cambridge University Press."
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "Craigie, J.S. (1990). \"[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of marine algae.\" In: Biology of the Red Algae. Cambridge University Press."
   - "Pereira, L. and Critchley, A.T. (2020). \"The carrageenan industry.\" In: Seaweed Sustainability. Academic Press."
   - "Hotchkiss, S. et al. (2016). \"Extraction and characterization of carrageenan.\" In: Seaweed Polysaccharides. Elsevier."
   - "McHugh, D.J. (2003). \"A guide to the seaweed industry.\" FAO Fisheries Technical Paper 441."
@@ -41,7 +42,7 @@ Fronds are dichotomously branched, flat, and 5–15 cm in height. The branching 
 
 Branch width is 2–8 mm, with edges that may be smooth or slightly undulating. The surface texture is cartilaginous when wet and brittle when dry, producing a characteristic snapping fracture.
 
-Reproduction involves a triphasic life cycle with tetrasporophyte, gametophyte, and carposporophyte phases. Carrageenan type varies between life stages: gametophytes produce kappa carrageenan while tetrasporophytes produce lambda carrageenan.
+Reproduction involves a triphasic [[agaricus-campestris-biology-and-life-cycle]] with tetrasporophyte, gametophyte, and carposporophyte phases. Carrageenan type varies between life stages: gametophytes produce kappa carrageenan while tetrasporophytes produce lambda carrageenan.
 
 ## Distribution and Habitat
 
@@ -79,35 +80,10 @@ Degraded carrageenan (poligeenan, molecular weight below 50 kDa) has been associ
 
 ## Industrial Applications
 
-Carrageenan from *C. crispus* is used in over 50 food product categories globally. Major applications include stabilizing chocolate milk, preventing ice crystal formation in ice cream, and binding water in processed deli meats.
+Carrageenan from *C. crispus* is used in over 50 food product categories globally. Major applications include stabilizing chocolate milk, preventing ice crystal formation in [[ice-cream-bean-entity]], and binding water in processed deli meats.
 
 In the pharmaceutical industry, carrageenan serves as an excipient in tablet formulations, a controlled-release matrix, and a suspending agent for liquid medications. Its mucoadhesive properties make it useful for topical formulations.
 
 Cosmetic applications include thickening toothpaste, stabilizing lotions, and forming the gel matrix in air fresheners. Carrageenan films have been investigated as biodegradable packaging materials.
 
 The species itself is sold dried as a whole-food thickener for home cooking, particularly in vegan cuisine as a gelatin substitute. Rehydrated Irish moss is blended into smoothies, desserts, and sauces for its mucilaginous texture.
-
-## Ecology and Harvest
-
-*Chondrus crispus* provides substrate and shelter for small invertebrates including amphipods, isopods, and juvenile gastropods. It is an important food source for sea urchins and grazing mollusks.
-
-The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within intertidal communities. Carrageenan exudation releases [[dighton-fungal-dissolved-organic-carbon-production]] carbon into surrounding waters, fueling microbial productivity.
-
-Wild harvest occurs primarily in Nova Scotia, Prince Edward Island, and Ireland. Hand-raking from small boats is the traditional method, cutting fronds above the holdfast to allow regrowth.
-
-Aquaculture production has been developed using vegetative propagation from fragment cuttings. Seeded ropes are deployed in coastal waters with yields reaching 5–10 tonnes fresh weight per hectare per year.
-
-Sustainable management requires rotation of harvest beds with 6–12 month recovery periods. Overharvesting has depleted some historically productive beds in the Canadian Maritimes.
-
-## See Also
-
-- [[potamogeton-crispus]]
-
-- [[laminaria-digitata]] — brown alga with alginate chemistry parallel to carrageenan
-- [[pleurotus-ostreatus]] — edible fungus for cross-kingdom comparison of structural polysaccharides
-- bioremediation — seaweed cultivation for coastal water [[green-cannabis-grow-bible-nutrient-management-ppm]]
-- permaculture — coastal permaculture systems incorporating Irish moss harvesting
-- [[glycine-max]] — soybean-derived emulsifiers compared with carrageenan as food stabilizers
-- [[phytoremediation]] — algal nutrient extraction complements terrestrial phytoremediation
-- mollison-marine-aquaculture — marine aquaculture design from [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] manual
-- fungal-bioremediation — fungal approaches to water quality parallel algal systems

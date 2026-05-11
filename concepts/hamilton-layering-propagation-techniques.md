@@ -1,5 +1,5 @@
 ---
-title: hamilton layering propagation techniques Techniques
+title: Hamilton Layering [[cannabis-propagation-techniques]]
 created: 2026-04-28
 tags:
   - organic-gardening
@@ -88,32 +88,3 @@ will produce the new shoots. The layers develop roots at each buried
 point and new shoots at each exposed bud.
 
 When the shoots show signs of active growth, separate the layers from
-the parent plant and split them up to provide several individual new
-plants. Serpentine layering is an extremely efficient way to multiply
-a favourite clematis or vigorous climber from a single stem.
-
-## Aftercare
-
-Newly separated layers should be transplanted carefully to avoid
-damaging their often delicate root systems. Prepare the planting hole
-well with [[hamilton-taking-cuttings-softwood-hardwood]] and
-[[hamilton-grafting-budding-techniques]] as essential skills
-in the organic gardener's propagation repertoire.
-
-### Aftercare of Layered Shoots
-
-Once a layered stem has rooted sufficiently, usually after one
-[[savory-growing-season-and-non-growing-season-management]] for simple layering, it should be severed from
-the parent plant. Hamilton advises doing this gradually over
-a week or two: first nicking the stem halfway through, then
-completing the cut once the new plant shows no signs of wilt.
-
-The newly separated plant should be left in place for another
-few weeks to establish independently before lifting and
-transplanting to its final position. A handful of bonemeal
-worked into the planting hole gives the young plant the
-phosphorus it needs for continued root development.
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]

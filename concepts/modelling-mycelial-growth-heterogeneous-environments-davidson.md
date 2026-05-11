@@ -1,12 +1,12 @@
 # Modelling Mycelial Growth in Heterogeneous Environments
 
 ## Overview
-Mathematical modelling provides a powerful tool for understanding how fungal mycelia
+[[gadd-mathematical-modelling-fungal-mycelia]] provides a powerful tool for understanding how fungal mycelia
 grow, function, and interact with their environments. By combining continuum
 (partial differential equation) models with discrete (cellular automaton) approaches,
 researchers can simulate mycelial growth in both uniform and heterogeneous
 environments — including soils — with remarkable accuracy. This work, pioneered by
-F.A. Davidson, G.P. Boswell, and colleagues, bridges experimental mycology with
+F.A. Davidson, G.P. Boswell, and colleagues, bridges [[bloomfield-buller-experimental-mycology]] with
 computational biology. (see [[mathematical-modelling-fungal-mycelia-davidson]]).
 
 ## The Continuum Model
@@ -27,16 +27,16 @@ as a density field over space and time. The model captures several key processes
 5. **Hyphal inactivation and reactivation**: Hyphae can become inactive when
    nutrient-depleted and be reactivated when nutrients become available.
 6. **Branching**: New hyphal tips are produced through branching, with branching
-   rate influenced by internal nutrient status.
+   rate influenced by internal [[leaf-tissue-analysis-crop-nutrient-status]].
 7. **Anastomosis**: Hyphae fuse where they contact each other, creating
-   connections that enable nutrient sharing and network formation.
+   connections that enable [[lowenfels-mycorrhizal-network-nutrient-sharing]] and network formation.
 
 ### Environmental Interactions
 The model accounts for the fungus's impact on its environment:
-- **Acidification**: Fungal metabolism acidifies the surrounding medium, which
+- **Acidification**: [[singh-fungal-metabolism-pahs]] acidifies the surrounding medium, which
   is modelled as proportional to internal substrate concentration.
 - **Nutrient depletion**: External substrate is consumed as the colony grows,
-  creating gradients that influence growth direction.
+  creating gradients that influence [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
 
 ## Tessellated Agar Droplet Experiments
 The model was validated against experimental data from a tessellated agar droplet
@@ -88,58 +88,3 @@ researchers developed a hybrid model:
 The model uniquely combines:
 - **"Cell" models**: Used for modelling internal/external substrate and hyphal
   tips (each cell takes a value representing current state).
-- **"Bond" models**: Used for modelling active/inactive hyphae as connections
-  between cells.
-
-This distinction is critical because a cell-based approach alone would
-automatically connect adjacent hyphae, allowing nutrient transfer that wouldn't
-occur in reality. The bond-based approach explicitly models anastomosis points,
-accurately representing when parallel hyphae can and cannot share resources.
-
-## Growth and Function in Soils
-Soils present particular challenges: spatiotemporal, nutritional, and structural
-heterogeneity. The model simulates soil conditions by randomly removing hexagonal
-blocks to create artificial pore spaces.
-
-### Key Findings
-- Early biomass growth is confined to water films where external substrate is
-  available.
-- A small number of tips emerge from water films and extend rapidly across pore
-  spaces to locate new substrate resources.
-- Water surface tension plays a significant role: reducing surface tension in the
-  model results in greater biomass distribution in pore spaces and faster overall
-  expansion.
-- The fractal dimension of model growth matches experimental observations from
-  real soil systems.
-
-## Biotechnology Applications
-Mathematical modelling of mycelial growth has direct applications:
-- **Biological control agents**: Fungi used as biocontrol agents against plant
-  pests and diseases operate in heterogeneous soil environments.
-- **Bioremediation**: Fungi that transform toxic metals operate in contaminated
-  soils with complex spatial heterogeneity.
-- **Nutrient cycling**: Understanding how fungi explore and exploit soil resources
-  improves predictions of decomposition and nutrient availability.
-
-The combination of modelling with experimental data yields more detailed results
-than either approach alone. Mathematical modelling is predicted to play a central
-role in the successful application of fungi to biotechnological areas.
-
-## Quantitative Validation
-The hybrid model replicates many important qualitative and quantitative features:
-- Colony radial expansion rates
-- Biomass distribution patterns
-- Acidification of the growth environment
-- Fractal dimension of mycelial networks
-- Relations between substrate concentration and fractal dimension
-
-## Source
-- Davidson, F.A. "Modelling of mycelial form and function." In Gadd, G.M.,
-  Watkinson, S.C. & Dyer, P.S. (eds.) *Fungi in the Environment*. Cambridge
-  University Press. Lines 3500-3770 of the full text.
-
-## See Also
-- [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]]
-- [[mycelial-cord-network-topology-graph-theory-bebber]]
-- [[fungal-mycelial-foraging-heterogeneous-environments]]
-- [[fungal-biogeochemical-mineral-transformations]]

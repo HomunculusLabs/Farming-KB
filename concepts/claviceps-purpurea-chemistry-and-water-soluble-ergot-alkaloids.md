@@ -19,8 +19,8 @@ Ergot (Claviceps purpurea) produces two major families of alkaloids:
 ### Water-Soluble (Hallucinogenic) Alkaloids
 
 These dissolve readily in water:
-- **[[ergot-and-lysergic-acid-history]] amide (LSA, ergine)**: Primary psychoactive constituent of ololiuhqui (Rivea corymbosa [[golden-guide-morning-glory-and-ololiuqui]] seeds). Effective dose: 1-2 mg orally.
-- **Lysergic acid hydroxyethylamide (LSH)**: Present in ololiuhqui and Claviceps. Potent psychoactive compound.
+- **[[ergot-and-lysergic-acid-history]] amide (LSA, ergine)**: Primary psychoactive constituent of ololiuhqui ([[rivea-corymbosa]] [[golden-guide-morning-glory-and-ololiuqui]] seeds). Effective dose: 1-2 mg orally.
+- **[[lysergic-acid-hydroxyethylamide]] (LSH)**: Present in ololiuhqui and Claviceps. Potent psychoactive compound.
 - **Ergonovine (ergometrine)**: Used medically as a uterotonic agent. Hofmann proved it is hallucinogenic at appropriate doses (1.5 mg base). Potency approximately one-twentieth of LSD, about five times psilocybin.
 
 ### Water-Insoluble (Medicinal) Alkaloids
@@ -45,11 +45,11 @@ This requires no sophisticated chemistry -- only water, grinding, and straining.
 
 ## Comparison with Mesoamerican Preparations
 
-The same water-soluble alkaloids found in ergot are the active constituents of ololiuhqui and tlitliltzin (morning glory seeds used in Mesoamerican ritual since pre-Columbian times):
+The same water-soluble alkaloids found in ergot are the active constituents of ololiuhqui and tlitliltzin ([[hofmann-ololiuqui-morning-glory-investigation]] seeds used in Mesoamerican ritual since pre-Columbian times):
 
 | Alkaloid | Ololiuhqui | Claviceps purpurea |
 |----------|-----------|-------------------|
-| Lysergic acid amide | Yes (major) | Sometimes (traces) |
+| [[lysergic-acid-amide]] | Yes (major) | Sometimes (traces) |
 | Lysergic acid hydroxyethylamide | Yes (major) | Yes |
 | Ergonovine | Yes (minor) | Yes |
 | Ergotamine | No | Yes (major) |
@@ -63,8 +63,8 @@ Ergot is not uniform. It occurs in biological/chemical races with different alka
 
 - **Swiss rye ergot**: Three varieties identified -- one producing ergotamine group, one ergotoxine group, and one with no alkaloids
 - **Wheat and barley ergot**: Basically the same alkaloids as rye ergot, including ergonovine and sometimes traces of lysergic acid amide
-- **Paspalum ergot** (Claviceps paspali): Contains only hallucinogenic alkaloids -- no ergotamine or ergotoxine. Native to tropical and subtropical regions.
-- **Darnel ergot** (Lolium temulentum): Variable chemistry; some strains contain substantial ergonovine
+- **Paspalum ergot** ([[claviceps-paspali]]): Contains only hallucinogenic alkaloids -- no ergotamine or ergotoxine. Native to tropical and subtropical regions.
+- **Darnel ergot** ([[lolium-temulentum-darnel-and-ergot]]): Variable chemistry; some strains contain substantial ergonovine
 
 ## The Unknowable Variable
 
@@ -88,13 +88,3 @@ All ergot alkaloids share a common structural core: lysergic acid. This molecule
 - An indole ring system (also found in serotonin, psilocybin, DMT)
 - A carboxamide group that determines water solubility
 - Various substituents that modify potency and pharmacology
-
-LSD (lysergic acid diethylamide) is a semi-synthetic derivative. The addition of two ethyl groups to the amide nitrogen dramatically increases potency -- LSD is approximately 20 times more potent than LSA.
-
-## Related
-
-- [[hofmann-self-experiment-with-ergonovine]] -- the experimental proof
-- [[ergot-and-lysergic-acid-history]] -- the full historical context
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[lolium-temulentum-darnel-and-ergot]]
-- [[digitalis-purpurea]]

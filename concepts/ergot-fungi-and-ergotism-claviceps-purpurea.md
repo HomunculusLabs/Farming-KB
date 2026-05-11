@@ -1,5 +1,5 @@
 ---
-title: Ergot ergot fungi and ergotism claviceps purpurea in Human History
+title: Ergot Fungi And Ergotism Claviceps Purpurea
 created: 2026-04-28
 tags:
   - mycology
@@ -52,7 +52,7 @@ The ergot alkaloids produce diverse pharmacological effects. Ergotamine
 constricts blood vessels and has been used medicinally to treat migraine
 headaches. Ergometrine (also called ergonovine) stimulates uterine
 contractions and has been used to control postpartum hemorrhage. Lysergic
-acid diethylamide (LSD), one of the most potent [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] known,
+[[lsd-d-lysergic-acid-diethylamide]] (LSD), one of the most potent [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] known,
 is a semisynthetic derivative of ergot alkaloids.
 
 ## Forms of Ergotism
@@ -82,42 +82,9 @@ problem.
 
 One of the most famous possible ergotism epidemics occurred in Salem,
 Massachusetts, in 1692. Some historians have proposed that the symptoms
-experienced by the "afflicted" girls during the Salem witch trials,
+experienced by the "afflicted" girls during the [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]],
 including hallucinations, convulsions, and bizarre behavior, may have been
 caused by ergot-contaminated rye. This hypothesis remains debated but
 illustrates the profound social consequences that ergotism could produce.
 
 ## Impact on Agriculture
-
-Ergot contamination of grain crops remained a serious problem until the
-development of modern grain cleaning techniques. The dark sclerotia can be
-removed from grain by mechanical sorting, flotation, or hand-picking, but
-these methods were not always available or effective in pre-industrial
-societies. Modern grain inspection standards set strict limits on ergot
-content in food-grade grain.
-
-The cultivation of wheat, which is less susceptible to ergot than rye,
-contributed to the decline of ergotism in Europe. As wheat replaced rye as
-the primary bread grain, the incidence of ergot poisoning declined
-accordingly. However, ergot remains a concern in rye-growing regions and can
-also infect other cereals including wheat, barley, and oats.
-
-## Medical Applications
-
-Despite its deadly history, ergot has made important contributions to
-medicine. The discovery of ergot's uterotonic properties led to the
-development of drugs for managing childbirth and postpartum hemorrhage.
-Ergotamine derivatives have been used for decades to treat migraine
-headaches and cluster headaches.
-
-The ergot alkaloids have also been important tools in pharmacological
-research. Their effects on neurotransmitter receptors have helped scientists
-understand the functioning of the nervous system and have led to the
-development of drugs for conditions including Parkinson's disease and
-hyperprolactinemia.
-
-## See Also
-
-- [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
-- [[endophytic-fungi-living-inside-plants]]
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

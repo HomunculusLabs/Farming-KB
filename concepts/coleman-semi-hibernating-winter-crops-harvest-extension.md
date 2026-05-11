@@ -9,7 +9,7 @@ topics: [winter-harvest, semi-hibernation, harvest-extension, plant-growth, day-
 
 ## Overview
 
-Eliot Coleman's Winter Harvest Handbook introduces the concept of "semi-hibernating" winter crops — a fundamental paradigm shift from the traditional greenhouse model. Unlike heated greenhouses that extend the **growing** season by providing warmth for continued growth, Coleman's unheated cold houses extend the **harvest** season by protecting crops that have essentially stopped growing. This distinction is central to understanding the winter harvest system and has profound implications for planting schedules, greenhouse design, and farm economics.
+Eliot Coleman's Winter Harvest Handbook introduces the concept of "semi-hibernating" winter crops — a fundamental [[psilocybin-as-catalyst-for-paradigm-shift]] from the traditional greenhouse model. Unlike heated greenhouses that extend the **growing** season by providing warmth for continued growth, Coleman's unheated cold houses extend the **harvest** season by protecting crops that have essentially stopped growing. This distinction is central to understanding the winter harvest system and has profound implications for planting schedules, greenhouse design, and farm economics.
 
 ## The Growing Season vs. Harvest Season
 
@@ -24,7 +24,7 @@ Eliot Coleman's Winter Harvest Handbook introduces the concept of "semi-hibernat
 ### Coleman's Cold House Model
 
 - Goal: Protect already-grown crops so they can be harvested through winter
-- No heating required (passive thermal mass of soil)
+- No heating required ([[coleman-soil-heat-mass-passive-thermal-storage]] mass of soil)
 - Plants stop growing but remain alive and harvestable
 - Sowing happens in late summer/early fall; harvesting happens through winter
 - Minimal operating costs; no fossil fuel consumption
@@ -35,7 +35,7 @@ Coleman describes the winter crops as "just idling their engines, so to speak, w
 
 ### What Happens When Growth Stops
 
-Once past the middle of November in Coleman's Zone 5 Maine climate, most cold-house crops enter a state of minimal metabolic activity:
+Once past the middle of November in Coleman's Zone 5 Maine climate, most cold-house crops enter a state of minimal [[arbuscule-isolation-metabolic-activity-assays]]:
 
 - Photosynthesis continues at very reduced rates due to short days and low light
 - Root activity slows dramatically
@@ -50,7 +50,7 @@ A critical aspect of the semi-hibernation model is how harvesting works:
 - Leafy crops (salad mix, spinach, Asian greens) are harvested by cutting above the growing point
 - After cutting, plants slowly regenerate new leaves
 - This regrowth is the primary source of midwinter harvests
-- The regrowth rate is extremely slow during the Persephone months
+- The regrowth rate is extremely slow during the [[coleman-winter-day-length-and-persephone-months]]
 - As day length increases past 10 hours in February, regrowth accelerates
 
 Coleman emphasizes that the goal is to have crops "almost to maturity before the day length becomes shorter than ten hours." Plants that reach near-maturity before the Persephone months are the ones that provide reliable winter harvests.
@@ -61,7 +61,7 @@ Coleman's key insight is that day length, not temperature, is the primary factor
 
 - Below 10 hours of daylight (roughly November through February at his latitude), growth essentially stops regardless of temperature
 - This means that heating a greenhouse during the Persephone months has limited benefit for growth
-- The cold-hardy vegetables have inherently lower light requirements than warm-season crops
+- The cold-hardy vegetables have inherently lower [[growing-gourmet-light-requirements-mushroom-fruiting]] than warm-season crops
 - They can survive and maintain quality at light levels that would stop warm-season crops entirely
 
 This is why Coleman distinguishes between cold houses (minimum 32°F/0°C) and cool houses (maintained at minimum 45-55°F/7-13°C). The cool house provides earlier spring production but doesn't dramatically increase winter growth because light is still the limiting factor.
@@ -72,7 +72,7 @@ The semi-hibernation model requires a completely different approach to planting:
 
 ### The "Second Spring" (August 1)
 
-- Winter harvest planting begins August 1
+- [[coleman-winter-harvest-planting-schedule]] begins August 1
 - This is the start of what Coleman calls the "second spring"
 - Sowing continues through September and October
 - The goal is to have plants reach near-maturity by late November
@@ -87,61 +87,3 @@ In fall planting, the seasons are reversed from the usual spring experience:
 - The time from sowing to harvest increases as days shorten
 - Planting too late means crops won't reach sufficient size before growth stops
 - Planting too early means crops may be oversized and less cold-hardy
-
-Younger plants are generally hardier than older ones, so there is a balance to strike between getting plants large enough to harvest and keeping them young enough to survive the coldest periods.
-
-### Succession Planting Through Winter
-
-- Multiple sowing dates spread the harvest over the winter months
-- Some crops benefit from two, three, or more successive planting dates
-- Late-fall and early-winter sowings slowly reach productive size for spring harvest
-- The system aims for never leaving a greenhouse bed unplanted
-- Within 24 hours of harvest, beds are replanted
-
-## The Backwards Farm Experiment
-
-Coleman and his team tested the semi-hibernation concept intensively by running a "backwards farm":
-
-- Production from October 1 through May 31 only
-- Summer months used for soil building with green manure crops
-- The result: a viable eight-month harvest season from winter-only production
-- Summer "vacation" was limited to late June through mid-July
-- The experience proved that winter production could stand on its own economically
-
-This experiment demonstrated that the winter harvest system is not merely an extension of summer growing but a fundamentally independent production approach.
-
-## Commercial Implications
-
-### Economics of Semi-Hibernation
-
-The winter harvest system has distinct economic characteristics:
-
-- Lower operating costs (no heating fuel)
-- Lower labor intensity during the semi-hibernation period
-- Premium prices for fresh, local winter produce
-- Extended market presence (8 months vs. 4-6 months for summer-only)
-- Summer production can be added for year-round revenue
-
-### Customer Appreciation
-
-The quality advantage of semi-hibernated crops drives customer loyalty:
-
-- Exceptional sweetness and flavor from cold-sweetening
-- "Just-harvested" freshness impossible to match with shipped produce
-- Customers report winter seems less bleak with reliable local produce
-- Children prefer raw winter carrots (a quality endorsement)
-- Salad mix described as "healthy fast food"
-
-### The Regional Advantage
-
-Coleman notes over 85% of the US is further south than his Maine location, with more sun and warmer winters. The only barriers are knowledge of the system and appropriate low-cost technology.
-
-## See Also
-
-- [[coleman-winter-harvest-three-components]]
-- [[coleman-persephone-months-winter-day-length]]
-- [[coleman-second-spring-august-planting-window]]
-- [[coleman-succession-planting]]
-- [[coleman-winter-harvest-planting-schedule]]
-- [[coleman-backwards-farm-experiment-winter-only]]
-- [[coleman-cold-greenhouse-double-layer-protection]]

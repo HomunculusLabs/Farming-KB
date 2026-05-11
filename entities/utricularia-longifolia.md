@@ -77,7 +77,7 @@ When trigger hairs on the trapdoor are contacted by prey, the door buckles inwar
 
 Terrestrial traps capture soil microfauna including nematodes, protozoa, rotifers, and small arthropods. The nutrient contribution from carnivory supplements the limited [[chelation-microbial-mineral-availability-ingham]] in the sandy, acidic substrates the species typically inhabits.
 
-Digestion is mediated by enzymes secreted by quadrifid and bifid glands lining the trap interior. Phosphatases and proteases break down prey tissues over several hours, after which the resulting nutrients are absorbed through the trap walls.
+Digestion is mediated by enzymes secreted by quadrifid and bifid glands lining the trap interior. Phosphatases and proteases [[query-can-fungi-break-down-plastic-pollution]] prey tissues over several hours, after which the resulting nutrients are absorbed through the trap walls.
 
 ## Ecology and Interactions
 
@@ -85,35 +85,6 @@ U. longifolia is part of the diverse carnivorous plant assemblage found in Brazi
 
 Pollinators are not definitively documented but are presumed to include bees attracted to the large, colorful flowers. The species is capable of self-pollination, which likely aids reproduction in isolated populations.
 
-Seed capsules contain numerous tiny seeds that are dispersed by water and wind. The seeds can remain viable in the soil seed bank for extended periods, allowing the species to persist through unfavorable conditions.
+Seed capsules contain numerous tiny seeds that are dispersed by water and wind. The seeds can remain viable in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for extended periods, allowing the species to persist through unfavorable conditions.
 
 Prey items include nematodes, protozoa, rotifers, and small aquatic arthropods found in the water film surrounding the substrate. The bladders function as passive pitfall traps supplemented by active suction, giving the plant access to nutrients unavailable in the nutrient-poor soils it inhabits.
-
-Research has shown that Utricularia bladders can capture prey in as little as 0.5 milliseconds, making them the fastest known botanical movement. The trap mechanism involves the sudden release of elastic energy stored in the bent trap walls, triggered by mechanical stimulation of the sensory hairs.
-
-The digestive fluid within the bladders contains a complex mixture of phosphatases, nucleases, and proteases. Nutrient absorption occurs across the trap walls through specialized transfer cells, allowing the plant to supplement photosynthesis with prey-derived nitrogen and phosphorus.
-
-## Cultivation
-
-U. longifolia is considered one of the easier large-flowered bladderworts to cultivate. It performs well in a mix of peat and sand or peat and perlite, kept consistently moist but not waterlogged. A shallow water tray method works effectively for maintaining consistent moisture levels.
-
-The species tolerates a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], from approximately 10°C to 32°C. It does not require a pronounced dormancy period, though growth may slow during cooler months. Strong light produces the most vigorous growth and best flower production.
-
-Propagation from seed is straightforward, with seeds germinating on wet peat within several weeks. Vegetative propagation through stolon division is also effective and produces flowering-sized plants more quickly.
-
-U. longifolia is widely available from specialist nurseries and carnivorous plant societies. Several horticultural forms exist, including plants with deeper purple coloration and those with more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habits. A white-flowered form has been reported in cultivation, though it is less common.
-
-Pests are rarely a problem for U. longifolia, though aphids may occasionally attack flower buds. Fungal issues can arise if the substrate is kept too wet or if [[stamets-growing-room-air-circulation-co2-management]] is poor. The species is susceptible to crown rot if watered with mineral-rich tap water.
-
-## See Also
-
-- [[utricularia-reniformis]]
-- [[utricularia-sandersonii]]
-- [[utricularia-subulata]]
-- [[drosera-regia]]
-- [[pinguicula-moranensis]]
-- [[cephalotus-follicularis]]
-- [[darlingtonia-californica]]
-- [[heliamphora-nutans]]
-- [[byblis-liniflora]]
-- [[pinguicula-grandiflora]]

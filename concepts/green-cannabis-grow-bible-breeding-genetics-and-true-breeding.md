@@ -1,5 +1,5 @@
 ---
-title: oner-cannabis-breeding-fundamentals, Genetics, and cannabis-true-breeding-ibl-strains - greg-green's [[green-cannabis-cola-development-bud-architecture]] grow bible breeding genetics and [[cannabis-true-breeding-ibl-strains]] Bible
+title: Green Cannabis Grow Bible Breeding Genetics And True Breeding
 created: 2026-04-26
 tags:
   - breeding
@@ -88,26 +88,10 @@ they are homozygous in the population:
 Important caveats:
 - Known true-breeding strains like Skunk #1 and Afghani #1 took 20
   years to develop.
-- Anyone claiming to develop a true-breeding strain in 1-2 years
-  started with genetics that were already mostly true-breeding.
-- A "perfect IBL" (100% true-breeding for every phenotype) is
-  extremely unlikely. Locking down 90% of phenotypes is acceptable.
-- Concentrate on 4-5 main phenotypes first, then expand.
-## Cubing and Backcrossing
-### Backcrossing
-Backcrossing involves crossing offspring back to a cloned parent to
-increase the frequency of a desired trait:
-1. Make an F1 hybrid cross (e.g., [[master-kush]] x [[super-silver-haze]]).
-2. Clone the parent plant (MM).
-3. Cross the cloned parent with the Mm offspring.
-4. Result: 50% MM (homozygous) and 50% Mm (heterozygous).
-Without backcrossing, crossing two Mm heterozygous offspring would give
-25% BB, 50% Bb, 25% bb. Backcrossing dramatically increases the
-frequency of the desired trait.
-The second backcross (using the same cloned parent) is called
-"squaring." If all offspring become MM, the trait is true-breeding.
-### Cubing
 
 ## See Also
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[cannabis-genetics-and-breeding]]
+- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
+- [[green-cannabis-grow-bible-outdoor-growing]]
+- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
+- [[green-cannabis-grow-bible-vegetative-phase-management]]

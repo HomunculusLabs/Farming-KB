@@ -73,3 +73,20 @@ A more assured income from tree crops, coupled with wider market for relatively 
 - [[permaculture-livestock-forage-systems]] -- tree fodder as a forage strategy
 - [[permaculture-woody-mulch-systems]] -- tree prunings as mulch resource
 - [[permaculture-settlement-design]] -- tree crops in village and community landscapes
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mollison-tree-crop-systems-permaculture]]
+- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
+- [[permaculture-woody-mulch-systems]]
+- [[tagasaste-nurse-crop-fodder-systems]]
+- [[nut-tree-cultivation-for-permaculture-food-forests]]

@@ -25,12 +25,12 @@ In grassland ecosystems, the primary pathway for nutrient cycling is through fun
 ### Arbuscular Mycorrhizae in Grasslands
 Arbuscular mycorrhizal (AM) fungi are the dominant mycorrhizal type in grasslands, forming associations with virtually all grass species. Their roles include:
 
-- **Phosphorus acquisition** — AM hyphae extend beyond the root depletion zone to access phosphorus from soil volumes unavailable to roots alone
+- **[[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]]** — AM hyphae extend beyond the root depletion zone to access phosphorus from soil volumes unavailable to roots alone
 - **Soil aggregation** — AM hyphae and glomalin production stabilize soil aggregates, critical for grassland soil structure and resistance to erosion
 - **Plant community interactions** — AM networks can mediate competition between grass species, influencing [[core-endorhiza-bacterial-community-composition-cannabis]]
 
 ### Soil Crust Fungi in Arid Grasslands
-States and Christensen (2001) described fungi associated with biological soil crusts in desert grasslands of Utah and Wyoming. These communities include:
+States and Christensen (2001) described fungi associated with [[biological-soil-crusts]] in desert grasslands of Utah and Wyoming. These communities include:
 - Dark septate fungi
 - Melanized hyphomycetes
 - Yeast-like fungi
@@ -43,7 +43,7 @@ Soil crust fungal communities contribute to [[comparison-biological-nitrogen-fix
 Wright and Upadhyaya (1996, 1998) identified glomalin, a glycoprotein produced by arbuscular mycorrhizal fungal hyphae, as a major contributor to soil aggregate stability. Glomalin is remarkably persistent in soil, with turnover times estimated at 7-42 years, making it a significant long-term carbon storage pool.
 
 ### Hyphal Binding
-Tisdall and Oades (1982) and Tisdall (1994) demonstrated that fungal hyphae physically bind soil particles into water-stable aggregates. Miller and Jastrow (1990) showed a hierarchy of root and mycorrhizal fungal interactions with soil aggregates, with mycorrhizal fungi providing both enmeshment of particles and production of sticky extracellular materials.
+Tisdall and Oades (1982) and Tisdall (1994) demonstrated that fungal hyphae physically bind soil particles into water-stable aggregates. Miller and Jastrow (1990) showed a hierarchy of root and mycorrhizal [[fungal-interactions-with-microbes]] soil aggregates, with mycorrhizal fungi providing both enmeshment of particles and production of sticky extracellular materials.
 
 ## Agriculture and Mycorrhizal Function
 
@@ -54,7 +54,7 @@ Fitter (1985, 1991) noted that while the nutritional benefit of mycorrhizae in n
 - Crop rotation and tillage affect mycorrhizal community continuity
 
 ### Collembola Grazing in Agroecosystems
-Warnock et al. (1982) demonstrated that collembolan grazing on AM extraradical hyphae significantly reduces the efficiency of mycorrhizal nutrient acquisition. This effect is amplified in agroecosystems where:
+Warnock et al. (1982) demonstrated that collembolan grazing on AM extraradical hyphae significantly reduces the efficiency of [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]. This effect is amplified in agroecosystems where:
 - Soil fauna diversity is reduced by tillage and pesticides
 - High densities of individual collembola species can develop in the absence of predators
 - The mycorrhizal community is already stressed by disturbance
@@ -68,7 +68,7 @@ Agricultural tillage disrupts:
 - Soil aggregates stabilized by fungal hyphae and glomalin
 - The continuity of mycorrhizal inoculum from one crop to the next
 
-Reduced tillage and no-till systems generally maintain higher [[arbuscular-mycorrhizal-colonization-patterns]] and diversity than conventional tillage systems.
+[[comparison-no-till-vs-reduced-tillage]] and no-till systems generally maintain higher [[arbuscular-mycorrhizal-colonization-patterns]] and diversity than [[comparison-no-till-vs-conventional-tillage]] systems.
 
 ## Nutrient Cycling in Agroecosystems
 
@@ -88,41 +88,3 @@ Agricultural intensification typically shifts soil microbial communities toward 
 - Monoculture reduces the diversity of organic substrates available for fungal decomposers
 
 This shift has implications for soil structure, nutrient retention, and disease suppression, as fungal-dominated systems tend to be more stable and retain nutrients more effectively.
-
-## Grass Endophytes in Pasture Systems
-
-### Agricultural Significance
-Endophyte-infected tall fescue and perennial ryegrass dominate millions of hectares of pasture globally. The endophytes (*Neotyphodium coenophialum* in tall fescue, *N. lolii* in perennial ryegrass) provide:
-- Insect resistance through alkaloid production
-- Possible [[dighton-fungal-drought-tolerance-plant-water-relations]] (environment-dependent)
-- Increased persistence under grazing
-
-### Toxicosis Problems
-Ergovaline production causes fescue toxicosis in cattle, leading to:
-- Reduced weight gain
-- Reproductive problems
-- Heat intolerance
-- Rough hair coats
-
-Novel endophyte strains have been developed that retain insect-deterrent alkaloids (peramine, lolines) without producing ergovaline.
-
-## Ecosystem Services Summary for Grasslands and Agriculture
-
-| Service | Fungal Group | Mechanism |
-|---------|-------------|-----------|
-| Soil structure | AM fungi | Hyphal binding, glomalin |
-| Nutrient availability | AM fungi, saprotrophs | P acquisition, organic matter decomposition |
-| Disease suppression | Saprotrophs, mycorrhizae | Competition, antibiosis |
-| Soil carbon storage | AM fungi | Glomalin, hyphal turnover |
-| Plant defense | Endophytes | Alkaloid production |
-| Water relations | AM fungi, endophytes | Hyphal water transport, osmoregulation |
-
-## Related
-
-- fungi-in-agricultural-ecosystems Pages
-
-- [[arbuscular-mycorrhizal-networks]]
-- fungal-biodiversity-in-soil-ecosystems
-- [[fungal-decomposition-nutrient-cycling]]
-- [[clavicipitaceous-grass-endophytes]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

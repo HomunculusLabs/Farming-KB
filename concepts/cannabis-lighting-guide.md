@@ -9,7 +9,7 @@ sources: []
 
 # Cannabis Lighting Guide
 
-Light is the single most important factor in indoor cannabis cultivation. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.
+Light is the single most important factor in indoor [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. It drives photosynthesis, regulates the plant's life cycle through photoperiod, and directly influences yield, potency, and morphology. This guide covers the science of grow lighting, fixture types, and practical setup guidance.
 
 ## Light Science Fundamentals
 
@@ -25,7 +25,7 @@ PPFD measures the number of PAR photons hitting a given area per second, express
 |-------------|------------|--------------------------|
 | Seedling/Clone | 100-300 μmol/m²/s | 8-12 mol/m²/d |
 | Vegetative | 300-600 μmol/m²/s | 15-25 mol/m²/d |
-| Early Flowering | 600-900 μmol/m²/s | 30-40 mol/m²/d |
+| [[equatorial-photoperiod-early-flowering]] | 600-900 μmol/m²/s | 30-40 mol/m²/d |
 | Late Flowering | 800-1200 μmol/m²/s | 35-45 mol/m²/d |
 
 ### Light Spectrum
@@ -33,7 +33,7 @@ Different wavelengths serve different functions:
 
 - **Blue light (400-500nm)**: Promotes compact, leafy vegetative growth. Essential for strong stems and healthy leaf development.
 - **Green light (500-600nm)**: Less efficiently absorbed but penetrates deeper into the canopy.
-- **Red light (600-700nm)**: Drives flowering, stem elongation, and biomass production. Most efficient for photosynthesis.
+- **Red light (600-700nm)**: Drives flowering, stem elongation, and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Most efficient for photosynthesis.
 - **Far-red light (700-750nm)**: Influences the phytochrome system, affecting flowering triggers and plant stretching. Some growers use far-red at the end of the light period to accelerate flowering onset (Emerson effect).
 
 ## Light Fixture Types
@@ -114,7 +114,7 @@ Best for seedlings, clones, and very early vegetative growth. Not sufficient for
 - **24 hours on**: Some growers use this for maximum vegetative growth. Most research suggests dark periods are beneficial for root development and metabolic recovery.
 
 ### Flowering Stage: 12/12
-- 12 hours light / 12 hours dark triggers the flowering response in photoperiod cannabis strains.
+- 12 hours light / 12 hours dark triggers the [[mollison-designers-day-length-and-flowering-response]] in [[photoperiod-cannabis]] strains.
 - **Critical**: The dark period must be completely uninterrupted. Even brief light leaks during the dark cycle can cause stress, hermaphroditism, or delayed flowering.
 - Use light-proof timers and seal any light leaks in the grow space.
 

@@ -87,12 +87,3 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 - [[2-tim-entity-pihkal]]
 - [[3-tim-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
-- [[4-aco-met]]

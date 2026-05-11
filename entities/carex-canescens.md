@@ -19,15 +19,15 @@ sources:
 
 ## Overview
 
-**Carex canescens**, commonly known as hoary sedge or silvery sedge, is a perennial sedge of the family Cyperaceae. It has a circumboreal distribution, occurring across northern Europe, Asia, and North America.
+**Carex canescens**, commonly known as hoary sedge or silvery sedge, is a perennial sedge of the family Cyperaceae. It has a circumboreal distribution, occurring across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
-The species is characteristic of acidic bog and mire habitats. It is one of the indicator species for ombrotrophic (rain-fed) peatland communities in boreal and temperate regions.
+The species is characteristic of acidic bog and mire habitats. It is one of the indicator species for ombrotrophic (rain-fed) peatland communities in boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Hoary sedge is named for the greyish-silvery appearance of its inflorescence, which gives the plant a frosted or hoary look. This distinctive coloration makes it identifiable even from a distance in peatland landscapes.
 
 The species is a modestly sized sedge that typically forms loose tussocks in open, wet habitats. It is a component of many important peatland plant communities across its range.
 
-In North America, hoary sedge occurs from Alaska across Canada to the northeastern United States. Disjunct populations exist in the Rocky Mountains and the Appalachian region.
+In North America, hoary sedge occurs from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]]. Disjunct populations exist in the Rocky Mountains and the [[bolete-fungi-appalachian-region]].
 
 The species is diploid with 2n = 54 chromosomes throughout most of its range. Polyploid populations have been reported from isolated mountain locations in Europe.
 
@@ -81,43 +81,10 @@ Peatland drainage and afforestation have reduced the extent of suitable habitat 
 
 The root systems of hoary sedge are relatively shallow, concentrated in the aerobic zone above the water table. This makes the species sensitive to changes in water table depth.
 
-Arbuscular mycorrhizal fungi have been isolated from Carex canescens roots in boreal peatlands. These associations may enhance phosphorus uptake in nutrient-impoverished peat soils.
+[[arbuscular-mycorrhizal-fungi]] have been isolated from Carex canescens roots in boreal peatlands. These associations may enhance phosphorus uptake in nutrient-impoverished peat soils.
 
 ## Cultivation and Uses
 
 Hoary sedge is occasionally cultivated in specialised bog gardens and ecological plantings. It requires permanently moist to waterlogged, acidic conditions and full sun or light shade.
 
 Propagation from seed is possible but germination can be slow and irregular. Cold stratification for 4–8 weeks improves germination rates significantly.
-
-The species has no significant economic or medicinal uses. Its primary value lies in its ecological role as a peatland indicator species and its contribution to biodiversity.
-
-In ecological restoration, hoary sedge is sometimes introduced to re-wetted peatland sites. It can establish from both seed and transplanted tussocks, though success rates vary.
-
-The species is not widely available commercially as horticultural stock. Specialist native plant nurseries in Britain and Scandinavia occasionally offer it for peatland restoration projects.
-
-In the garden context, hoary sedge is best suited to purpose-built bog gardens with rainwater irrigation. It cannot tolerate tap water in areas with alkaline water supplies.
-
-The species is deer-resistant due to the tough texture of its foliage. It provides winter interest in bog gardens through its persistent silvery inflorescences.
-
-## Conservation
-
-**Carex canescens** is classified as Least Concern globally. However, peatland habitat loss has led to regional declines in several European countries.
-
-In the British Isles, the species has declined significantly due to peatland drainage for agriculture and forestry. Large-scale peat extraction has also destroyed populations in lowland raised bogs.
-
-The species is protected under various national conservation designations where peatland habitats are legally safeguarded. It is listed as a component of several priority peatland habitat types under the EU Habitats Directive.
-
-Peatland restoration initiatives across northern Europe are creating new habitat for hoary sedge and other peatland specialists. Rewetting of drained bogs has led to natural recolonisation in several documented cases.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-rostrata]]
-- [[carex-aquatilis]]
-- [[carex-lasiocarpa]]
-- [[carex-utriculata]]
-- [[carex-flava]]
-- [[carex-nebrascensis]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
-- [[cladium-jamaicense]]

@@ -59,7 +59,7 @@ The species prefers well-drained soils in full sun but tolerates partial shade a
 
 It is hardy in USDA zones 4–9 and shows good heat tolerance in southern regions.
 
-Naturalized occurrences have been recorded in parts of Europe and northeastern North America beyond its historical range.
+Naturalized occurrences have been recorded in parts of Europe and northeastern [[guzman-psilocybin-mushrooms-north-america]] beyond its historical range.
 
 ## Cultivation
 
@@ -85,38 +85,6 @@ Its compact form and reliable bloom make it suitable for borders, containers, ma
 
 ## Ecological Role
 
-The flowers provide nectar and pollen for a wide range of pollinators, including native bees, honey bees, butterflies, and syrphid flies.
+The flowers provide nectar and pollen for a wide range of pollinators, including [[query-how-to-attract-native-bees-and-beneficial-insects]], [[comparison-honey-bees-vs-native-solitary-bees]], butterflies, and syrphid flies.
 
 Long-tongued bees such as bumble bees (*Bombus* spp.) are especially effective pollinators of Coreopsis species.
-
-The abundant and accessible pollen makes it a valuable resource for specialist and generalist pollinators alike.
-
-Seeds are consumed by songbirds including goldfinches, sparrows, and towhees during fall and winter.
-
-The foliage supports larvae of the dimorphic gray moth (*Rheumaptera hastata*) and several leaf-mining flies.
-
-As a clump-forming species, it provides moderate [[fukuoka-citrus-orchard-ground-cover-cultivation]] that benefits soil stabilization in planting beds.
-
-Its extended bloom period fills an important mid-season nectar niche in pollinator gardens and meadow mixtures.
-
-## Cultural Significance
-
-The species was among the first [[growing-gourmet-north-american-reishi-species]] wildflowers exported to European horticulture, cultivated in England by the early 18th century.
-
-It has received the Royal Horticultural Society's Award of Garden Merit for reliable garden performance.
-
-The genus *Coreopsis* was designated the state wildflower of Florida in 1991, though *C. leavenworthii* is the primary representative species there.
-
-In ecological landscaping, *C. grandiflora* is frequently specified in native meadow seed mixes and roadside revegetation projects.
-
-Its golden blooms are emblematic of the tallgrass prairie aesthetic in restoration plantings throughout the Midwest.
-
-The species has contributed parentage to numerous hybrid Coreopsis cultivars developed for the ornamental trade.
-
-## See Also
-
-- [[coreopsis-tinctoria]]
-- [[echinacea-purpurea]]
-- [[helianthus-annuus-entity]]
-- [[gaillardia-pulchella]]
-- [[rudbeckia-fulgida]]

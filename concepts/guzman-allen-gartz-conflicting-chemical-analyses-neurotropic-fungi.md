@@ -1,5 +1,5 @@
 ---
-title: guzman allen gartz conflicting chemical analyses neurotropic fungi Analyses of challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
+title: Guzman Allen Gartz Conflicting Chemical Analyses Neurotropic Fungi
 created: 2026-04-28
 tags:
   - chemistry
@@ -48,7 +48,7 @@ with the majority of [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribu
 Stijve and Kuyper (1988) conducted a systematic investigation that
 failed to find psilocybin in several species previously reported as
 neurotropic. Their negative results included Gerronema fibula,
-Gymnopilus fulgens, G. spectabilis, Hygrocybe psittacina, H.
+[[gymnopilus-fulgens]], G. spectabilis, Hygrocybe psittacina, H.
 psittacina var. californica, Psathyrella candolleana, and
 Rickenella swartzii. Similarly, Stijve and Meijer (1993) could not
 detect psilocybin or other psilocybian compounds in Gymnopilus
@@ -66,7 +66,7 @@ a single taxon. In one notable case, material used by Leslie and
 Repke to isolate psilocybin contained a mixture of Panaeolus species
 and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] together with P. coprophila, all identified
 under a single name. Psilocybe pseudobullacea was reported by
-Marcano et al. (1994) to contain psilocybin and psilocin from
+Marcano et al. (1994) to contain [[hplc-analysis-of-psilocybin-and-psilocin]] from
 Venezuelan specimens, but this species does not blue and has no
 known neurotropic properties. The Venezuelan material likely
 belonged to a genuinely neurotropic species that had not yet been
@@ -78,51 +78,12 @@ lookalike species such as P. coprinifacies or P. maire.
 
 Bresinsky and Besl (1990) considered reports of hallucinogenic
 compounds in several species to be doubtful, including Stropharia
-cyanea, S. coronilla, Mycena pura, and Amanita gemmata. Samorini
+cyanea, S. coronilla, Mycena pura, and [[amanita-gemmata]]. Samorini
 (1989) independently reached the same conclusion about Mycena pura.
-The Guzmán, Allen and Gartz paper excluded Psilocybe atrobrunnea,
+The Guzmán, Allen and Gartz paper excluded [[psilocybe-atrobrunnea]],
 P. coprophila, P. pseudobullacea, and Psathyrella sepulchralis from
 the neurotropic list based on these critical reviews. Panaeolus
 antillarum was also excluded because it is frequently confused with
 Copelandia species by recreational users due to their similar white
 fruit bodies and shared cow dung habitat, despite lacking the bluing
 reaction entirely and being considered an edible fungus.
-
-## Analytical Standards and Verification
-
-The authors emphasized that many published chemical studies lack
-a proper taxonomic foundation. Without voucher specimens preserved
-in recognized herbaria, it becomes impossible for later researchers
-to verify the identity of material that was analyzed. This problem
-is compounded when chemical studies are conducted on commercially
-acquired or illegally traded specimens where provenance and
-identification are unknown. Ott (1993) and Stijve (1995) have been
-particularly important voices calling for methodological rigor in
-this field. Their critiques have led to a more conservative approach
-in which species are only considered neurotropic when multiple
-independent analyses confirm the presence of active compounds in
-correctly identified material.
-
-## Implications for the Global Checklist
-
-These conflicting analyses directly affected the construction of the
-Guzmán, Allen and [[guzman-allen-gartz-global-psilocybe-biogeography]] checklist. Rather than including every
-species ever reported as neurotropic, the authors applied strict
-criteria: species must either demonstrate the [[field-guide-psilocybin-bluing-reaction-identification]], contain
-confirmed indolic substances, or have strong ethnobotanical evidence
-of traditional use as sacred fungi. This conservative approach reduced
-the total count from over 250 reported species to 216 accepted
-neurotropic taxa. The excluded species represent a category of
-provisional or disputed taxa that may be clarified by future chemical
-and taxonomic work using modern analytical methods.
-
-## See also
-
-[[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-[[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-
-## See Also
-
-- [[specimen-misidentification-erroneous-chemical-analyses-guzman-1998]]
-
-- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

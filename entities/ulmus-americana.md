@@ -18,13 +18,13 @@ sources:
 
 ## Overview
 
-**Ulmus americana**, commonly known as American elm or white elm, is a large deciduous tree native to eastern and central North America.
+**Ulmus americana**, commonly known as American elm or white elm, is a large deciduous tree native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
 
 It was once among the most abundant and beloved street trees in North America, valued for its graceful vase-shaped form, rapid growth, and tolerance of urban conditions.
 
 The species was devastated by Dutch elm disease (DED) in the mid-20th century, which killed an estimated 77 million elms in the [[dmt-containing-plants-united-states-halpern]] and Canada between 1930 and 1980.
 
-American elm remains a culturally and ecologically important species, and disease-resistant cultivars are now enabling its reintroduction in urban forestry and ecological restoration.
+American elm remains a culturally and ecologically important species, and disease-resistant cultivars are now enabling its reintroduction in urban forestry and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ Common associates include silver maple, eastern cottonwood, sycamore, green ash,
 
 ## Dutch Elm Disease
 
-Dutch elm disease is caused by the ascomycete fungus *Ophiostoma novo-ulmi* (formerly *Ophiostoma ulmi*), which is transmitted by native elm bark beetles (*Hylurgopinus rufipes*) and introduced European elm bark beetles (*Scolytus multistriatus*).
+Dutch elm disease is caused by the ascomycete fungus *Ophiostoma novo-ulmi* (formerly *Ophiostoma ulmi*), which is transmitted by native elm [[dighton-fungus-cultivation-ants-termites-bark-beetles]] (*Hylurgopinus rufipes*) and introduced European elm bark beetles (*Scolytus multistriatus*).
 
 The fungus spreads through the xylem vessels, causing wilting, yellowing, and eventual death of branches and, in susceptible trees, the entire crown.
 
@@ -72,7 +72,7 @@ Between 1930 and 1980, Dutch elm disease killed an estimated 75–80% of all mat
 
 The disease continues to spread and kill susceptible trees, though at a reduced rate as resistant cultivars and management programs have been implemented.
 
-Sanitation programs that involve rapid removal and destruction of infected trees remain the primary management strategy for controlling DED spread in urban environments.
+Sanitation programs that involve rapid removal and destruction of infected trees remain the primary management strategy for controlling DED spread in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 ## Disease-Resistant Cultivars
 
@@ -87,30 +87,3 @@ Recent research has also identified naturally resistant American elm genotypes i
 ## Ecological Role
 
 American elm seeds are an important early-spring food source for birds and small mammals when few other food sources are available.
-
-The species provides nesting habitat for a variety of birds, and its vase-shaped canopy creates distinctive microhabitats in floodplain forests.
-
-American elm is a host for numerous specialist insect herbivores and the larvae of several butterfly species, contributing to riparian insect diversity.
-
-## Timber and Uses
-
-American elm wood is valued for its interlocked grain, which provides exceptional resistance to splitting under mechanical stress.
-
-Historically, the wood was used extensively for wagon wheel hubs, chair seats, hockey sticks, and agricultural implements where shock resistance was critical.
-
-It is also used for veneer, paneling, crates, and pallets, though its commercial importance has declined significantly since the DED epidemic reduced available timber volumes.
-
-Elm wood bends well when steamed and has been used traditionally for cooperage, barrel staves, and archery bows.
-
-The wood works easily with hand and machine tools but can be challenging to glue due to its interlocked grain pattern.
-
-## See Also
-
-- [[ulmus-procera]]
-
-- [[quercus-alba]]
-- [[fagus-grandifolia]]
-- [[quercus-robur]]
-- [[tilia-cordata]]
-- [[pinus-sylvestris]]
-- [[juglans-nigra]]

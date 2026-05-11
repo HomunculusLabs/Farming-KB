@@ -6,6 +6,7 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, extraction, dry-sieve, kief]
 ---
 
@@ -26,7 +27,7 @@ Resin heads come in different sizes. With the help of sieves,
 you can use the differences in resin head sizes to separate
 them from other plant matter. Typically, a minimum of two
 sieves are used. The first sieve filters out large plant matter
-and larger debris, letting resin glands and small debris pass
+and larger debris, letting [[greg-green-trichomes-and-resin-glands]] and small debris pass
 through to the second sieve.
 
 Recommended sieve pore sizes:
@@ -87,49 +88,3 @@ thousandth of a millimeter (1/1000 mm). The symbol used to
 denote a micron is the Greek letter mu.
 
 ## The Pollinator Machine
-
-Mila, based in Amsterdam, invented and popularized the
-Pollinator, a motorized cylindrical-shaped sieve to separate
-resin powder from leaf and buds. The Pollinator consists of a
-drum that turns inside a box. Cold, dried cannabis is placed
-inside the drum made from 150-micron screen. A motor turns
-the drum, [[greg-green-trichomes-and-resin-glands]] fall through the screen as the
-cannabis tumbles inside.
-
-Operation guidelines:
-
-1. Prepare dry cannabis by placing it in an airtight bag in
-   the freezer for two hours to make it hard and brittle.
-2. Fill the drum about half full of dry leaf material so the
-   cannabis has enough room to tumble inside.
-3. Let the drum turn for two to five minutes using a kitchen
-   timer.
-4. The purest resin falls through the screen first.
-5. THC-rich resin collects on the bottom of the box underneath
-   the drum.
-6. Remove the drum and scrape the resin from the bottom.
-
-Highest quality resin falls through the screen first.
-Progressively lower quality resin falls through the mesh the
-longer the drum turns. More green matter and other adulterants
-fall through when the Pollinator runs for longer periods.
-
-To grade the resin, make several batches: first batch turns
-for two to five minutes, second batch five to six minutes, and
-third batch more than six minutes. Inspect each batch with a
-microscope to see progressively more debris in longer runs.
-
-## Yield Expectations
-
-From 100 grams of leaf, dry sieve extraction yields 4-6 grams
-of hash. Water extraction yields 6-10 grams from the same
-material. The yield from 7 ounces (200 grams) of leaves and
-small buds is around 0.2-0.7 ounces (6-20 grams), with the
-average around 0.36 ounce (10 grams). Yield depends largely on
-the quality of the original material.
-
-## See Also
-
-- [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-pressing-hash]]
-- [[cervantes-manicuring-trimming-buds]]

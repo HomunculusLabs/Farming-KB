@@ -15,7 +15,7 @@ tags: [pf-tek, psilocybin]
 Robert McPherson (born 1947) is better known on the internet as Psilocybe
 Fanaticus, famed for his so-called "PF Tek" (Psilocybe Fanaticus Technique).
 A jazz-blues guitarist, he was a hippy living in the Haight-Ashbury district
-during the height of the psychedelic sixties, and discovered psilocybin during
+during the height of the [[mckenna-invention-of-lsd-and-psychedelic-sixties]], and discovered psilocybin during
 the 1970s. He obtained Pollock's spores and succeeded in growing a handful of
 mushrooms, more by luck than by judgement. This early experience with
 cultivation failures and partial successes drove him to innovate.
@@ -23,7 +23,7 @@ cultivation failures and partial successes drove him to innovate.
 ## The Innovation: Vermiculite as Contamination Shield
 
 Realising that the problem with the cased-grain method -- the standard
-cultivation technique derived from the McKenna brothers' 1976 publication and
+[[boil-a-bag-mushroom-cultivation-technique]] derived from the [[mckenna-brothers-la-chorrera-experiment-1971]]' 1976 publication and
 Stephen Pollock's work -- was the likelihood of contamination when the rye was
 being inoculated, McPherson wondered whether it might not be possible to
 colonise spores directly onto the grain. He found that it was, provided that
@@ -44,7 +44,7 @@ The PF Tek procedure involved several steps that could be performed with basic
 kitchen equipment. [[cho-brown-rice-vinegar-preparation]] flour was mixed with water and vermiculite to
 create a substrate, which was loaded into half-pint mason jars. The jars were
 covered with foil and sterilised by boiling in a large pot, rather than in a
-pressure cooker -- a significant simplification over previous methods that
+[[double-layer-tinfoil-jar-covering-pressure-cooker-method]] -- a significant simplification over previous methods that
 required specialised laboratory equipment.
 
 After cooling, spore solution was injected through holes punched in the jar
@@ -60,7 +60,7 @@ yield, and the method was so easy that McPherson claimed the mushrooms would
 grow themselves. It was also financially successful. McPherson distributed his
 method freely -- while he copyrighted the technique, he released it for free,
 ensuring that there was a huge demand for the [[query-spore-syringes-vs-liquid-culture]] produced by his
-company. At one point he was earning $30,000 a month from spore syringe sales
+company. At one point he was earning $30,000 a month from [[comparison-mushroom-liquid-culture-vs-spore-syringe]] sales
 alone.
 
 ## Legal Troubles
@@ -87,19 +87,3 @@ through foraging. The cultivation revolution began with the McKenna brothers
 -- Terence and Dennis -- who published their method as Psilocybin: Magic
 Mushroom Grower's Guide in 1976, under the pseudonyms O.T. Oss and O.N.
 Oeric. It has been reprinted eight times and by 1981 had sold 100,000 copies.
-
-The McKenna method had three stages. First, spores were collected from a
-mushroom specimen and germinated in Petri dishes on agar jelly. When the
-jelly was suitably colonised by healthy mycelium, pieces were transferred to
-jars filled with sterilised rye grains. Then, the grain was "cased" with
-non-sterilised soil -- a technique used to trick the fungus into producing
-mushrooms by depriving the mycelium of oxygen while keeping it moist, which
-quadrupled the yield.
-
-The McKenna book was followed by others, including a similar method put
-forward by Stephen Pollock in 1977, and then the exhaustive guide The
-Mushroom Cultivator by psilocybe-fanaticus
-
-- [[psilocybe-semilanceata-eight-indole-compounds]]
-- [[psychedelic-mushroom-set-and-setting]]
-- [[psilocybe-genus-classification]]

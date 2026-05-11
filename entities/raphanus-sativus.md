@@ -1,5 +1,5 @@
 ---
-title: "Raphanus sativus"
+title: Raphanus Sativus
 type: species
 aliases:
   - Radish
@@ -25,9 +25,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Wang, H. et al. (2014). "Raphanus sativus L.: phytochemical and pharmacological profile." Journal of Ethnopharmacology, 153(2), 261–273.
-  - Björkman, T. et al. (2008). "Integrating winter annual cover crops into dry-gardening-unirrigated-vegetable-production-solomon systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
-  - Weil, R. & Kremen, A. (2007). "Thinking across and beyond the no-till and organic paradigms." Journal of Sustainable Agriculture, 30(1), 53–65.
+  - Björkman, T. et al. (2008). "Integrating winter annual [[query-what-is-biofumigation-and-how-does-it-work]] into dry-gardening-unirrigated-vegetable-production-solomon systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
+  - Weil, R. & Kremen, A. (2007). "Thinking across and beyond the no-till and organic paradigms." Journal of [[phosphate-accumulators-sustainable-agriculture]], 30(1), 53–65.
   - Duke, J.A. (2011). "Handbook of Alternative Cash Crops." CRC Press.
 created: 2026-05-07
 ---
@@ -56,13 +57,13 @@ Leaves are pinnately lobed, 10–30 cm long, with a rough, hairy surface; the in
 
 ## Distribution and History
 
-The wild ancestor (*Raphanus raphanistrum*) is native to the Mediterranean basin and Western Asia, and the species was domesticated independently in Europe and East Asia.
+The wild ancestor (*Raphanus raphanistrum*) is native to the Mediterranean basin and Western Asia, and the species was domesticated independently in Europe and [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 Radishes were among the first vegetables brought to the Americas by European colonists, and daikon varieties were introduced to East Asia via China and Korea in ancient times.
 
 Today, the species is cultivated worldwide in temperate and subtropical regions, with the greatest diversity of cultivated forms found in China, Japan, and Korea.
 
-Daikon radish is the most-consumed vegetable in Japan by weight, and features prominently in Chinese, Korean, Indian, and Southeast Asian cuisines in pickled, stir-fried, and soup preparations.
+Daikon radish is the most-consumed vegetable in Japan by weight, and features prominently in Chinese, Korean, Indian, and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines in pickled, stir-fried, and soup preparations.
 
 The tillage radish (also called "bio-driller" or "forage radish") was developed specifically as a cover crop and has become widely adopted in no-till and reduced-tillage farming systems across [[psilocybin-north-america-pacific-northwest]] and Europe.
 
@@ -87,33 +88,3 @@ The characteristic pungency of radish roots is produced primarily by **glucosino
 **4-Methylthio-3-butenyl isothiocyanate** (MTBITC) is the principal pungent compound, responsible for both the sharp flavor and many of the documented pharmacological activities.
 
 Radish roots contain significant amounts of vitamin C (ascorbic acid), potassium, and anthocyanins (in red-skinned varieties), as well as digestive enzymes including amylase and diastase.
-
-Studies have demonstrated antioxidant, hepatoprotective, and anti-inflammatory activities of radish extracts in vitro and in animal models.
-
-The seeds contain approximately 35–45% oil rich in erucic acid, which has industrial applications and has been investigated as a potential biodiesel feedstock.
-
-## Permaculture Applications
-
-Daikon radish is widely used as a "bio-drill" in permaculture and regenerative agriculture, where its deep taproot (up to 1.5–2 m in loose soils) penetrates compacted subsoil layers.
-
-This soil-penetrating action creates vertical channels that improve drainage, increase aeration, and provide pathways for earthworms and subsequent crop roots.
-
-The species is an effective nutrient scavenger, pulling nitrogen, phosphorus, and other minerals from deep soil horizons and making them available to surface crops after the root decomposes.
-
-In chop-and-drop mulch systems, the large above-ground biomass provides substantial [[hamilton-composting-and-organic-matter-management]] when cut and left to decompose as surface mulch.
-
-Daikon roots also serve as a trap crop for certain nematode species, reducing soil populations of root-knot nematodes (*Meloidogyne* spp.) when used as a rotation or intercrop.
-
-The rapid growth and broad leaf canopy provide effective weed suppression during the fall [[savory-growing-season-and-non-growing-season-management]], reducing the need for mechanical or chemical [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]].
-
-## See Also
-
-- [[lathyrus-sativus]]
-
-- [[biochar]]
-- no till
-- [[dynamic-accumulators]]
-- [[hugelkultur]]
-- [[medicago-sativa]]
-- [[vicia-villosa]]
-- [[fagopyrum-esculentum]]

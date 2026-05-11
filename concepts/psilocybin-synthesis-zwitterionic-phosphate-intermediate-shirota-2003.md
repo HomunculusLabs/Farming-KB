@@ -11,11 +11,11 @@ type: concept
 
 # Psilocybin Synthesis via Zwitterionic Phosphate Intermediate
 
-The 2003 paper by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences achieved gram-scale syntheses of both psilocin and psilocybin without any chromatographic purification. The key innovation was the discovery of a **zwitterionic N,O-dibenzyl phosphate intermediate** that could be isolated by simple filtration, dramatically simplifying the synthesis of psilocybin compared to all previous methods.
+The 2003 paper by Shirota, Hakamata, and Goda at Japan's National Institute of Health Sciences achieved gram-scale syntheses of both [[psilocin-and-psilocybin-chemistry]] without any chromatographic purification. The key innovation was the discovery of a **zwitterionic N,O-dibenzyl phosphate intermediate** that could be isolated by simple filtration, dramatically simplifying the synthesis of psilocybin compared to all previous methods.
 
 ## Background and Motivation
 
-Psilocin and psilocybin are the principal hallucinogenic constituents of Psilocybe mushrooms. They closely resemble the n, and their hallucinogenic effect is probably caused by interference with normal brain serotonin actions. Standard compounds are needed for chromatographic [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) used in forensic analysis of magic mushrooms. However, isolating psilocybin from mushrooms on a gram scale is impractical because psilocin decomposes easily and psilocybin has high polarity.
+Psilocin and psilocybin are the principal hallucinogenic constituents [[grass-seed-cultivation-of-psilocybe-mushrooms]]. They closely resemble the n, and their hallucinogenic effect is probably caused by interference with normal brain serotonin actions. [[shirota-forensic-standard-compounds-magic-mushroom-identification]] are needed for chromatographic [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (TLC, GC, HPLC) used in [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]] of magic mushrooms. However, isolating psilocybin from mushrooms on a gram scale is impractical because psilocin decomposes easily and psilocybin has high polarity.
 
 Previous syntheses of psilocybin had achieved yields of only 20% (Hofmann et al., 1959) and 47% (Nichols and Frescas, 1999), and typically required chromatographic purification.
 
@@ -24,14 +24,14 @@ Previous syntheses of psilocybin had achieved yields of only 20% (Hofmann et al.
 The synthesis starts from commercially available **4-hydroxyindole** and proceeds through four steps:
 
 1. **Acetyl protection**: 4-hydroxyindole is acetylated using acetic anhydride and pyridine in dichloromethane at 0°C to room temperature, yielding 4-acetylindole as ivory white crystals
-2. **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]**: The acetyl-protected indole is treated with oxalyl chloride in ether at 0°C, forming yellow crystals of the oxalyl chloride intermediate, which is then reacted with dimethylamine in THF to give the glyoxalylamide in over 80% yield
+2. **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]**: The acetyl-protected indole is treated with [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] in ether at 0°C, forming yellow crystals of the oxalyl chloride intermediate, which is then reacted with dimethylamine in THF to give the glyoxalylamide in over 80% yield
 3. **Reduction**: The glyoxalylamide is reduced by lithium aluminum hydride (LiAlH4) in THF under argon atmosphere, refluxing for 2 hours, yielding psilocin as white crystals in over 85% yield
 
 The acetyl protection route was chosen over benzyl ether protection because the 4-O-benzyl derivative of 4-hydroxyindole was somewhat unstable and required careful reaction control, whereas the acetylated intermediate was stable and easily crystallized.
 
 ## The Phosphorylation Challenge
 
-Converting psilocin to psilocybin requires phosphorylation of the 4-hydroxy group. Several phosphorylation methods were evaluated:
+Converting psilocin to psilocybin requires phosphorylation of the 4-hydroxy group. Several [[phosphorylation-methods-psilocybin-production-comparison]] were evaluated:
 
 - **Phosphite/I2/DMAP method** — appeared promising
 - **Pyrophosphate method** using tetrabenzylpyrophosphate and n-BuLi — selected for large-scale production due to easy handling and reagent stability
@@ -87,56 +87,3 @@ The zwitterionic nature of compound 8 made large-scale isolation possible by **s
 The elimination of chromatographic purification makes this route practical for producing gram-scale quantities of analytical reference standards needed for forensic identification of magic mushrooms.
 
 ## Psilocin Characterization Data
-
-The psilocin intermediate was also fully characterized:
-
-| Property | Value |
-|----------|-------|
-| Melting point | 169-174°C (dec.) (lit. 173-176°C dec.) |
-| UV (MeOH) λmax | 222.5, 268.0, 284.5, 294.0 nm |
-| HRMS [M+H]+ | 205.1303 (calcd 205.1341) |
-| ESIMS [M+H]+ | 205.1 (100%) |
-
-Psilocin was obtained as white crystals after careful workup involving addition of anhydrous Na2SO4 powder followed by dropwise addition of saturated Na2SO4 solution to quench excess LiAlH4.
-
-## 4-Acetylindole Intermediate
-
-The first intermediate, 4-acetylindole, was obtained as ivory white crystals in constant yield from 4-hydroxyindole. Key spectroscopic data:
-
-- **1H NMR** (CDCl3, 400 MHz): δ 8.27 (br s, H-1), 7.22 (d, H-7), 7.15 (t, H-6), 7.11 (t, H-2), 6.85 (dd, H-5), 6.41 (m, H-3), 2.39 (s, OCOCH3)
-- **ESIMS**: m/z 176.1 [M + H]+ (53%), 134.0 [M - Ac + H]+ (100%)
-
-The acetyl protection was chosen over benzyl ether because the 4-O-benzyl derivative was unstable without careful reaction control, while the acetylated product crystallized readily and was directly usable in subsequent steps.
-
-## Zwitterion Characterization Data
-
-The zwitterionic intermediate (compound 8) was thoroughly characterized:
-
-| Technique | Key Observations |
-|-----------|-----------------|
-| 1H NMR (CD3OD) | Two sets of benzyl protons; N-CH2 at δ 4.56 (shifted high field); O-CH2 at δ 4.98, 4.96 |
-| 13C NMR (CD3OD) | Psilocin core plus two benzyl groups; N-linked benzyl at δ 134.2 (ipso) |
-| 31P NMR (CD3OD) | δ -5.45 confirming phosphate moiety |
-| ESIMS [M+H]+ | m/z 465.2 (100%) |
-| HRMS [M+H]+ | 465.1883 (calcd 465.1943) |
-
-The key HMBC and NOESY correlations proved that one benzyl group migrated from the phosphate oxygen to the dimethylamino nitrogen, forming the quaternary ammonium center of the zwitterion.
-
-## Forensic and Regulatory Context
-
-Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law in Japan. The identification of magic mushrooms using morphologic and microscopic analyses is difficult without experts, so chromatographic methods (TLC, GC, and HPLC) are usually employed. Pure standard compounds are always needed for these analyses, motivating the development of practical large-scale synthesis routes.
-
-## Glyoxalylamide Intermediate
-
-The 3-dimethylaminooxalyl-4-acetylindole intermediate (compound 6) was obtained as ivory white crystalline powder in 80% yield:
-
-- **1H NMR** (CDCl3, 400 MHz): δ 10.40 (br s, H-1), 7.52 (d, H-2), 7.15 (t, H-6), 7.06 (d, H-7), 6.91 (d, H-5), 3.02 (s, NCH3), 2.92 (s, NCH3), 2.50 (s, OCOCH3)
-- **ESIMS**: m/z 275.1 [M + H]+ (77%), 233.1 [M - Ac + H]+ (100%)
-
-This compound was formed by treating the acetyl-protected indole with oxalyl chloride in ether, yielding yellow crystals of the oxalyl chloride intermediate, followed by reaction with dimethylamine in THF with pyridine.
-
-## See Also
-
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[shirota-psilocin-psilocybin-synthesis]]
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]

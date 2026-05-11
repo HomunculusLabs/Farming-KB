@@ -37,7 +37,7 @@ process reverses for a new cycle.
 Permanent greenhouses develop problems with excess nutrients, salt
 accumulation, and compaction. The uncovered year allows natural
 restoration: rain leaches salts, freeze-thaw cycles improve structure,
-and [[green-manure-crops]] ps]] add [[savory-soil-organic-matter-and-decomposition-dynamics]] fix nitrogen.
+and [[green-manure-crops]] add [[savory-soil-organic-matter-and-decomposition-dynamics]] fix nitrogen.
 
 ### Pest and Disease Break
 
@@ -88,37 +88,3 @@ The greenhouse protects winter crops. Outdoor temperatures of -15°F
 (-26°C) translate to only 15–18°F under the inner row cover layer.
 Continuous harvest of spinach, carrots, leeks, and salad greens occurs
 throughout winter.
-
-### Fallow or Green Manure (November–September)
-
-The vacated site rests outdoors. Coleman plants long-term leguminous
-green manure crops for up to thirteen months, protecting, enriching, and
-aerating soil. Green manures are turned under three to four weeks before
-the next planting date.
-
-## Sled vs. Rail Systems
-
-Coleman developed two designs. The sled system uses skids pulled by a
-tractor — simpler and less expensive but more labor-intensive to move.
-The rail system uses pipe rails and wheels for smooth rolling between
-sites. Rails require initial investment but dramatically reduce moving
-labor. Sled houses are typically 20×48 feet; rail houses range from
-22×48 to 30×96 feet.
-
-## Key Considerations
-
-The mobile greenhouse rotation requires more planning than permanent
-structures. Crop timing, site preparation, and the physical move must
-be coordinated. However, benefits in soil health, pest management, and
-energy savings make additional planning worthwhile. Coleman considers
-the mobile greenhouse one of the most important tools for sustainable
-four-season farming.
-
-## See Also
-
-- Coleman mobile greenhouse system
-- [[coleman-rolling-greenhouse-wheel-rail-design]] wheel rail design
-- [[coleman-backwards-farm-experiment-winter-only]] experiment winter only
-- Coleman summer fallow green manure greenhouse
-- Coleman Persephone months winter day length
-- [[coleman-winter-harvest-philosophy]] planting schedule

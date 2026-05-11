@@ -9,9 +9,9 @@ sources: []
 # Fungal Appressorium and Infection Structures
 
 Fungal infection structures are specialized hyphal morphologies that
-enable pathogenic fungi to breach the physical and chemical defenses of
+enable [[cordyceps-insect-pathogenic-fungi]] to breach the physical and chemical defenses of
 host organisms. Among the most studied of these are appressoria, which
-are melanin-rich cells that generate enormous turgor pressure to force
+are melanin-rich cells that generate enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] to force
 penetration pegs through host surfaces. These structures represent a
 remarkable convergence of mechanical force generation, biochemical
 modification, and developmental regulation.
@@ -19,7 +19,7 @@ modification, and developmental regulation.
 ## Appressorium Formation and Development
 
 The formation of an appressorium begins when a fungal spore lands on a
-suitable host surface. In the rice blast fungus *Magnaporthe grisea*,
+suitable host surface. In the [[rice-blast-fungus-functional-genomics]] *[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]*,
 three-celled conidia dispersed by wind, dew, or rain splash attach to
 the hydrophobic rice leaf surface using adhesive material released from
 the conidial apex. Within an hour, a germ tube 15 to 30 micrometers in
@@ -47,7 +47,7 @@ biochemical process is tightly regulated by the cAMP-PKA and MAP kinase
 
 ## Alternative Infection Strategies
 
-Not all fungal pathogens employ appressoria. Biotrophic fungi often
+Not all [[bloomfield-fungal-pathogens-and-parasites]] employ appressoria. Biotrophic fungi often
 use a stomatal entrance strategy, gaining access to host tissue through
 natural openings in the leaf surface rather than mechanical penetration.
 This approach avoids the energy cost of generating turgor pressure but
@@ -55,7 +55,7 @@ requires the fungus to locate stomata on the leaf surface.
 
 For root-infecting fungi such as *Gaeumannomyces graminis*, specialized
 structures called hyphopodia are employed instead of appressoria.
-*Magnaporthe grisea* itself, despite primarily being a foliar pathogen,
+*Magnaporthe grisea* itself, despite primarily being a [[foliar-pathogen-entry-mechanisms-stomata-cuticle-wounds]],
 has been shown to infect roots under laboratory conditions using
 hyphopodium-like structures rather than appressoria. This suggests an
 ancestral relationship between foliar and soil-borne pathogenic fungi.
@@ -88,60 +88,3 @@ nutrition, combining elements of both strategies.
 ## Genetic Regulation of Infection Structure Development
 
 The development of appressoria and other infection structures is under
-tight genetic control. In *M. grisea*, the PMK1 gene is essential for
-appressorium formation and invasive growth. This mitogen-activated
-protein kinase pathway regulates the expression of genes involved in
-appressorial development, turgor generation, and penetration.
-
-The MPG1 gene encodes a hydrophobin involved in surface recognition
-and attachment. Mutations in melanin biosynthetic pathway genes,
-including a reductase involved in [[fungal-melanin-biosynthesis-ecological-functions]], produce
-non-functional appressoria that cannot generate sufficient turgor
-pressure for penetration. [[functional-genomics-arbuscular-mycorrhiza]] studies using cDNA
-libraries from appressorial, conidial, and perithecial stages have
-identified numerous genes specifically expressed during infection
-structure development, many associated with metabolism, cell wall
-modification, and [[fungal-environmental-sensing-signal-transduction]].
-
-## Ecological Significance
-
-Infection structures are central to the ecological success of fungal
-pathogens. The rice blast disease caused by *M. grisea* destroys
-between 11 and 30 percent of the rice harvest annually despite modern
-advances in fungicides and resistant cultivars. A serious blast
-epidemic in Bhutan in 1995 resulted in losses of 1090 tonnes of rice,
-with up to 100 percent crop losses for some farmers.
-
-The American Centre for [[hamilton-pest-and-disease-control-organic]] and Prevention has classified
-rice blast disease as a significant biological weapon threat,
-underscoring the importance of understanding infection structure
-biology for food security and biosecurity. The evolution of diverse
-infection strategies among fungal pathogens reflects adaptations to
-different host surfaces, environmental conditions, and evolutionary
-histories. The specificity of these structures means that disrupting
-their formation or function offers potential targets for disease
-[[jadam-weed-control-strategies-natural]].
-
-## Disruption as a Disease Control Strategy
-
-Because appressorium formation depends on surface hydrophobicity
-recognition, melanin biosynthesis, and turgor generation, each step
-represents a potential target for fungicide development. Compounds that
-inhibit melanin biosynthesis, such as tricyclazole, are already used
-as commercial rice blast fungicides. Research into disrupting the
-cAMP signaling pathway or glycerol accumulation mechanisms may yield
-new classes of antifungal agents with novel modes of action.
-
-Plant breeding for resistance has historically focused on single major
-genes, but the rapid evolution of pathogenic races has led to
-interest in quantitative resistance and durable multi-gene approaches.
-Understanding the molecular dialogue between infection structures and
-host cells helps identify resistance genes that block specific steps
-in the infection process.
-
-## See Also
-
-- [[fungal-enzymatic-capabilities]]
-- [[fungal-ecology-extreme-environments]]
-- [[fungal-cellulose-degradation]]
-- [[decomposition]]

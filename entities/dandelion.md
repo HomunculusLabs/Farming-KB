@@ -87,25 +87,3 @@ Dandelions are among the most important early-season nectar and pollen sources f
 - **Hoverflies**: Adults feed on dandelion nectar; larvae are important aphid predators
 
 ### Soil Health
-
-- **Taproot**: Penetrates compacted subsoil, creating channels for water infiltration and root growth of subsequent plants
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep taproot mines calcium, potassium, and other minerals from subsoil layers, depositing them on the surface through leaf decomposition
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Dense root systems stabilize soil on slopes and disturbed sites
-
-### Food Web
-
-Dandelion serves as a host plant for several Lepidoptera species and provides forage for rabbits, deer, groundhogs, and numerous bird species that consume the seeds.
-
-## Permaculture Applications
-
-In [[chop-and-drop]] mulch**: Leaves can be cut and left as surface mulch, rapidly decomposing to release accumulated minerals
-- **Pest management**: The latex contains compounds toxic to some insect pests; interplanting with vulnerable crops provides mild pest deterrence
-- **Soil indicator**: Dandelion abundance indicates compacted, calcium-rich, or slightly acidic soils
-- **Inulin crop**: Root cultivation for prebiotic inulin production in food forests and agroforestry systems
-
-## See Also
-
-- permaculture-dandelion
-- [[lactobacillus]]
-- [[decomposition]]
-- [[taraxacum-officinale]]

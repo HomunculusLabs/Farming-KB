@@ -21,7 +21,7 @@ Research from The [[cannabis-sativa]] L." Pharmacology Biochemistry and Behavior
 ## Anxiety
 
 ### Biphasic Effects
-**Witkin, Tzavara, and Nomikos (2005)**: "A role for cannabinoid CB1 receptors in mood and anxiety disorders." Behavioural Pharmacology 16(5-6):315-31.
+**Witkin, Tzavara, and Nomikos (2005)**: "A role for cannabinoid CB1 receptors in mood and [[cannabis-for-anxiety-disorders]]." Behavioural Pharmacology 16(5-6):315-31.
 
 Cannabinoids have biphasic effects on anxiety: low doses can be anxiolytic (reducing anxiety) while high doses can be anxiogenic (increasing anxiety). This is critical for dosing guidance.
 
@@ -39,7 +39,7 @@ Cannabinoid activation in the amygdala -- the brain's fear center -- blocks the 
 
 **Fraser (2009)**: "The use of a synthetic cannabinoinabilone management of treatment-resistant nightmares in posttraumatic stress disorder." CNS Neuroscience and Therapeutics 15(1):84-88.
 
-Nabilone (synthetic cannabinoid) reduced treatment-resistant nightmares in PTSD patients -- one of the most debilitating symptoms.
+Nabilone ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]) reduced treatment-resistant nightmares in PTSD patients -- one of the most debilitating symptoms.
 
 ### Memory and Trauma
 **Redondo et al. (2014)**: "Bidirectional switch of the valence associated with a hippocampal contextual memory engram." Nature 513(7518):426-30.
@@ -77,36 +77,13 @@ Childhood trauma is associated with more severe bipolar illness course, connecti
 
 CBD showed antipsychotic effects in schizophrenia patients.
 
-**Giuffrida et al. (2004)**: "Cerebrospinal fluid anandamide levels are elevated in acute schizophrenia." Neuropsychopharmacology.
+**Giuffrida et al. (2004)**: "Cerebrospinal fluid [[anandamide]] levels are elevated in acute schizophrenia." Neuropsychopharmacology.
 
 Elevated anandamide in schizophrenia may represent a compensatory upregulation -- the brain producing more endocannabinoids to counteract the psychotic process.
 
 **Caspi et al. (2005)**: "Moderation of the effect of adolescent-onset cannabis use on adult psychosis by a functional polymorphism in the COMT gene."
 
-The gene-environment interaction: adolescent cannabis use increases psychosis risk only in individuals with the COMT valine variant.
+The gene-environment interaction: adolescent cannabis use increases [[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]] only in individuals with the COMT valine variant.
 
 ### Childhood Trauma
 **Read et al. (2005)**: "Childhood trauma, psychosis and schizophrenia: A literature review." Acta Psychiatrica Scandinavica 112(5):330-50.
-
-Childhood trauma is a significant risk factor for psychosis and schizophrenia, independent of cannabis use.
-
-## Alcohol Dependence
-
-**Mikuriya (1970, 2004)**: Cannabis substitution as an adjunctive therapeutic tool in alcoholism and as a harm-reduction approach.
-
-**Thanos et al. (2005)**: Mice lacking CB1 receptors showed reduced ethanol self-administration and preference, suggesting CB1 antagonism could treat alcohol dependence.
-
-## Dosing Considerations for Mental Health
-
-### CBD-First Approach
-For mental health conditions, CBD-dominant preparations are generally preferred:
-- Anxiolytic without biphasic anxiety increase
-- Antipsychotic without psychoactivity
-- Antidepressant via neurogenesis
-- No risk of triggering psychotic symptoms
-
-### THC Caution
-THC should be used cautiously in mental health contexts:
-- Can trigger anxiety at higher doses
-- May worsen psychotic symptoms in vulnerable individuals
-- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

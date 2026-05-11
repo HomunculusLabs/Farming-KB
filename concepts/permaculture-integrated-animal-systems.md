@@ -6,6 +6,7 @@ type: concept
 tags: permaculture, design]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # permaculture integrated animal systems
 In [[decomposition]]

@@ -21,9 +21,9 @@ sources:
 
 **Cupressus macrocarpa**, the Monterey cypress, is a medium-sized evergreen conifer in the family Cupressaceae native to a highly restricted natural range on the central coast of California. In the wild, the species is confined to just two small populations at Point Cypress (Monterey County) and Point Lobos, occupying a combined area of approximately 15 square kilometers.
 
-Wild populations contain an estimated 10,000–15,000 mature trees, distributed across the two native stands. Genetic analysis indicates low genetic diversity within each population but significant differentiation between them, suggesting long-term isolation. The species is one of the rarest naturally occurring conifers in North America.
+Wild populations contain an estimated 10,000–15,000 mature trees, distributed across the two native stands. Genetic analysis indicates low [[biodiversity-fungal-genetic-diversity]] within each population but significant differentiation between them, suggesting long-term isolation. The species is one of the rarest naturally occurring conifers in [[guzman-psilocybin-mushrooms-north-america]].
 
-Molecular studies using microsatellite markers have confirmed the two populations represent distinct management units, each requiring separate conservation strategies.
+Molecular studies using microsatellite markers have confirmed the two populations represent distinct management units, each requiring separate [[endangered-fungi-and-conservation-strategies]].
 
 Despite its extremely limited native distribution, Monterey cypress is one of the most widely planted ornamental conifers in the world. Its rapid growth, [[fungal-salt-tolerance-and-ion-homeostasis]], and tolerance of coastal exposure have made it a standard choice for windbreaks, hedges, and landscape plantings in temperate maritime regions. The species is critically endangered in its native range due to habitat loss, disease, and hybridization with closely related species.
 
@@ -39,7 +39,7 @@ The largest recorded native specimen, located at Point Lobos, measured approxima
 
 The bark is gray-brown, fibrous, and fissured into long, narrow ridges on mature trees. Branchlets are flattened, with scale leaves arranged in four ranks. Leaves are 1–2 mm long, dark green with conspicuous glandular dots on the back, producing a resinous aroma when crushed.
 
-The aromatic foliage contains volatile monoterpenes that may serve a defensive function against herbivory and pathogen attack. Crushing the branchlets releases a strong scent of resin and citrus, characteristic of the species and useful for field identification. The specific epithet *macrocarpa* refers to the relatively large cones compared to other *Cupressus* species.
+The aromatic foliage contains volatile monoterpenes that may serve a defensive function against herbivory and pathogen attack. Crushing the branchlets releases a strong scent of resin and citrus, characteristic of the species and useful for [[palmer-mushroom-hunting-field-identification]]. The specific epithet *macrocarpa* refers to the relatively large cones compared to other *Cupressus* species.
 
 Cone maturation takes approximately two years, with pollination occurring in late winter and seed release in autumn of the following year.
 
@@ -63,7 +63,7 @@ The Point Lobos population has been the subject of intensive ecological study du
 
 ## Ecology
 
-In its native range, Monterey cypress forms a distinct forest type characterized by open, wind-pruned canopy and a sparse understory. Associated species include Monterey pine (*Pinus radiata*), coast live oak (*Quercus agrifolia*), and various coastal scrub species.
+In its native range, Monterey cypress forms a distinct forest type characterized by open, wind-pruned canopy and a sparse understory. Associated species include Monterey pine (*[[pinus-radiata]]*), coast live oak (*[[quercus-agrifolia]]*), and various coastal scrub species.
 
 The species provides habitat for a variety of wildlife, including raptors that nest in its dense canopy. The endangered Smith's blue butterfly (*Euphilotes enoptes smithi*) uses coastal scrub species found within Monterey cypress groves. Dead standing trees and fallen logs provide habitat for cavity-nesting birds and saproxylic invertebrates.
 
@@ -88,28 +88,3 @@ The species is also a source of [[permaculture-designers-manual-essential-oil-pl
 In traditional aromatherapy, Monterey cypress essential oil is used as a respiratory aid and stress reliever. The wood contains tropolone compounds, including nootkatin, which contribute to its natural durability and resistance to wood-boring insects. These compounds have attracted pharmaceutical interest for their antifungal and antibacterial activities.
 
 ## Cultivation
-
-Monterey cypress is propagated from seed, which germinates readily without stratification. Vegetative propagation by semi-hardwood cuttings is also successful, with strike rates of 60–80% under mist propagation. Selected cultivars, including the popular 'Goldcrest' and 'Wilma', are maintained clonally.
-
-The species exhibits remarkable phenotypic plasticity. Trees grown as hedges develop dense, compact foliage with reduced scale leaf size, while open-grown specimens produce long, spreading branches with larger leaves. This responsiveness to training has made the species popular for topiary and bonsai.
-
-The species is widely planted as a windbreak and hedge plant in coastal regions of California, the British Isles, New Zealand, Australia, and South Africa. Its tolerance of salt spray and strong winds makes it particularly valuable for coastal landscape stabilization. Dense hedges of Monterey cypress are effective wind filters, reducing wind speeds by 50–80%.
-
-In the British Isles, the species has been planted since the 1830s and is one of the most common conifers in coastal gardens. It tolerates the cool, wet maritime climate exceptionally well but is susceptible to cypress aphid (*Cinara cupressi*) and cypress canker in milder western regions. Despite these issues, it remains a standard component of coastal planting schemes.
-
-The species is hardy to approximately -15°C (USDA zone 8) but is susceptible to cold damage in continental climates. It performs best in maritime climates with cool summers and mild winters. In hot, dry interior climates, the species requires supplemental irrigation and is prone to spider mite infestations. Ornamental cultivars with golden or variegated foliage are popular in the nursery trade.
-
-The Leyland cypress (*× Cupressocyparis leylandii*), a fertile hybrid between C. macrocarpa and Nootka cypress (*Callitropsis nootkatensis*), is one of the most widely planted hedging plants in the world. First raised in Wales in 1888, it inherits the rapid growth of Monterey cypress and the [[coleman-cold-hardiness-testing-ratings]] of Nootka cypress, making it adaptable to a broader range of climates than either parent.
-
-## See Also
-
-- [[cupressus-arizonica]]
-
-- [[pinus-sylvestris]]
-- [[taxus-baccata]]
-- [[thuja-occidentalis]]
-- [[larix-decidua]]
-- [[abies-alba]]
-- [[sequoiadendron-giganteum]]
-- [[abies-grandis]]
-- [[tsuga-heterophylla]]

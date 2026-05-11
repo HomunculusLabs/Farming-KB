@@ -1,5 +1,5 @@
 ---
-title: dighton-fungal-biosorption-heavy-metal-remediation of [[dighton-fungal-biosorption-heavy-metal-remediation]] [[mycoremediation-of-heavy-metals]] by filamentous fungi by Filamentous Fungi
+title: Fungal Biosorption Of Heavy Metals By Filamentous Fungi
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -20,8 +20,8 @@ biosorption are:
 3. Flocculation and sedimentation efficiency
 4. Desorption efficiency for biomass regeneration
 5. Preservation of biosorptive capacity through reuse cycles
-Fungal melanins contribute significantly to metal removal. The cell
-wall, particularly chitin and chitosan components, serves as the
+Fungal melanins contribute significantly to [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]. The cell
+wall, particularly [[chitin-and-chitosan-in-agriculture]] components, serves as the
 predominant target for metal binding.
 ## Mechanisms of Metal Binding
 Fungal biosorption involves several physicochemical mechanisms at
@@ -43,14 +43,14 @@ sites for metal ions.
 Mucorales are excellent uranium biosorbents. Uptake capacities
 in mg/g dry weight:
 - Mucor javanicus: 343 mg/g UO2(II)
-- Rhizopus arrhizus: 170 mg/g UO2(II)
+- [[rhizopus-arrhizus]]: 170 mg/g UO2(II)
 - Rhizopus oryzae: 227 mg/g UO2(II)
 - Neurospora sitophila: 285 mg/g UO2(II)
 ### Lead Biosorption
-- Aspergillus niger: 580 mg/g Pb(II)
+- [[aspergillus-niger]]: 580 mg/g Pb(II)
 - Phellinus badius: 170 mg/g Pb(II)
 - Rhizopus nigricans: 68 mg/g Pb(II) at 500 mg/l
-- Penicillium chrysogenum: 116 mg/g Pb(II)
+- [[penicillium-chrysogenum]]: 116 mg/g Pb(II)
 ### Chromium Biosorption
 - Rhizopus nigricans (APTS-treated): 212 mg/g Cr(VI)
 - Rhizopus nigricans (PEI-treated): 160 mg/g Cr(VI)
@@ -59,7 +59,7 @@ in mg/g dry weight:
 Mucor rouxii (dead biomass) showed higher uptake than live biomass
 for multiple metals simultaneously: Pb(II) 53.75 mg/g, Ni(II)
 20.49 mg/g, Cd(II) 20.31 mg/g, Zn(II) 53.85 mg/g. Metal
-enrichment selectivity by Mucor hiemalis follows: Cr(III) > Cu(II)
+enrichment selectivity by [[mucor-hiemalis]] follows: Cr(III) > Cu(II)
 > Pb(II) > Ag(I) > Al(III) > Co(II) > Zn(II) > Ni(II) > Fe(II).
 ## Biomass Pretreatment and Regeneration
 Common metal eluants for regeneration include:
@@ -88,16 +88,3 @@ concentrations. Metallothioneins (MTs) are gene-encoded
 cysteine-rich metal-binding proteins. Several metals induce
 phytochelatin synthesis, and intracellular chelation is an
 established tolerance mechanism. Glutathione, metal-binding
-peptides, and sulfide ions play roles in protective responses.
-## Environmental Applications
-Fungal biosorption has been applied to treat mineral-processing
-wastewater, electroplating effluents, and contaminated groundwater.
-Dead biomass serves as a cost-effective substitute for ion-exchange
-resins. Introduction of filamentous fungi into contaminated soils
-enables absorption and translocation of metals, eventually
-concentrating them in harvestable basidiocarps.
-## See Also
-- [[fungal-metal-transformations]]
-- [[mycorrhiza-soil-bioremediation]]
-- fungal-heavy-metal-uptake-and-translocation
-- [[staycare-fungal-metal-transformations-soil]]

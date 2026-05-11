@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 Updated: 2026-04-18 Oaks (Quercus spp.) are massive, long-lived trees providing
 timber, wildlife habitat, and a traditional food source — acorns — that predated
@@ -87,49 +88,3 @@ biodiversity.
 ## Tannin Content by Species
 
 Acorn tannin content varies enormously between species, directly affecting
-processing time. White oak group species (Q. alba, Q. macrocarpa, Q. bicolor)
-generally contain 0.5-2.5% tannins and require minimal leaching. Red oak group
-species (Q. rubra, Q. velutina, Q. coccinea) contain 5-10% tannins and require
-extensive boiling or cold soaking. California live oaks tend toward higher
-tannin levels. Indigenous peoples of California developed sophisticated
-processing techniques including earth-oven baking and multi-week cold leaching
-in stream beds.
-
-## Oak as a Permaculture Keystone Species
-
-Oaks are keystone species in temperate and Mediterranean food forests, supporting
-over 2,300 species including 500+ caterpillar types, hundreds of moth and
-butterfly species, and numerous birds, mammals, and fungi. Oak leaf litter
-creates a deep, moisture-retentive mulch layer that builds soil organic matter.
-The canopy provides dappled shade ideal for understory fruiting shrubs like
-currants and gooseberries. In food forest design, oaks are typically placed in
-zone 3 or 4, functioning as permanent infrastructure elements requiring minimal
-management while providing ongoing yield and ecological services for generations.
-
-## Acorn Oil Extraction
-
-Beyond flour, acorns can be pressed for oil containing 5-30% of dry nutmeat
-weight. Acorn oil is rich in oleic acid, similar to olive oil. Traditional
-extraction involves shelling, leaching, drying, and pressing. The remaining
-press cake can still be ground into flour. Interest in acorn oil as a specialty
-culinary product has been growing in the sustainable food communities.
-
-## Oak Timber and Coppice Uses
-
-Oaks produce some of the most durable timber in temperate forests. White oak
-heartwood is exceptionally rot-resistant due to high tylose content, making it
-preferred for barrels and boat building. Red oak is widely used for flooring and
-cabinetry. Certain oak species respond to coppice management, producing new
-shoots from the cut stump on 15-25 year rotations, providing sustainable
-firewood and small-diameter timber. Pollarded oaks were traditionally maintained
-in European landscapes for livestock fodder.
-
-## See Also
-
-- [[permaculture-multipurpose-trees]]
-
-- [[organic-pest-and-disease-management]]
-
-## Related
-
-- [[permaculture-pine-nut-guide]]

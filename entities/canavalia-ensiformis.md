@@ -88,37 +88,3 @@ C. ensiformis is adapted to tropical and subtropical climates (0–1,500 m eleva
 **Establishment:** [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] at 30–50 kg/ha, 50–100 cm row spacing, or broadcast as a cover crop at 80–120 kg/ha. Scarification improves germination of the hard-coated seeds. Seed inoculation with Bradyrhizobium is recommended on first planting.
 
 **[[chen-maitake-growth-parameters-environmental-control]]:**
-
-- Days to flowering: 60–90
-- Days to maturity: 180–270
-- Fresh biomass yield: 20–50 t/ha/year
-- Dry matter yield: 5–12 t/ha/year
-- Nitrogen fixation: 200–400 kg N/ha/year
-- Seed yield: 1–3 t/ha
-
-**Permaculture functions:** Jack bean serves as a living mulch, suppressing weeds through rapid canopy closure and shading. The deep taproot breaks compacted soil layers and cycles nutrients from subsoil to surface. As green manure, incorporated biomass decomposes rapidly, releasing fixed nitrogen for subsequent crops.
-
-The species is effective on degraded and marginal soils, including acidic tropical ultisols and oxisols where conventional legumes perform poorly. It has been used successfully for [[permplant-willows-salix-erosion-control-fodder]] on steep slopes and mine reclamation sites.
-
-**Pest resistance:** Jack bean has few serious pest problems in the tropics. Foliage is relatively unpalatable to cattle and goats, reducing grazing pressure. The canavanine content provides insect resistance to bruchid beetles and other seed predators.
-
-## Uses and Applications
-
-**Food use:** Mature seeds require extensive processing — soaking (12–24 hours), boiling (1–2 hours), and repeated water changes — to reduce antinutritional factors to safe levels. Young pods and immature seeds are consumed as vegetables in parts of Southeast Asia and Africa without toxicity concerns.
-
-**Animal feed:** Properly processed jack bean meal can replace 20–30% of soybean meal in poultry and swine rations. For ruminants, the processing requirement is less stringent due to rumen detoxification of canavanine.
-
-**Industrial applications:** Con A purification is the primary industrial use. Jack bean urease is used in clinical blood urea nitrogen (BUN) assays. Research continues into canatoxin as a bioinsecticide.
-
-**Soil improvement:** Jack bean is intercropped with maize, cassava, and tree crops in tropical farming systems. The legume provides nitrogen, mulch, and erosion control while the companion crop provides structural support for the climbing vine.
-
-## See Also
-
-- [[pteris-ensiformis]]
-
-- [[canavalia-gladiata]]
-
-- [[vicia-villosa]] — Hairy vetch, temperate cover crop legume
-- [[robinia-pseudoacacia]] — Black locust, temperate nitrogen-fixing tree
-- lupinus-albus — White lupin, another legume with antinutritional seed alkaloids
-- [[glycine-max]] — Soybean, major leguminous oilseed

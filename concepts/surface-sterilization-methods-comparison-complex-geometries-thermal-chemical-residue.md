@@ -1,5 +1,5 @@
 ---
-title: Surface [[sterilization-methods-comparison]] for Complex Geometries
+title: Surface Sterilization Methods Comparison Complex Geometries Thermal Chemical Residue
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
 author: James E. Atwater, Neil D. Streech, Frank C. Garmon
 year: unknown (NASA MSC-22484)
@@ -12,7 +12,7 @@ topics: [sterilization, microbiology, aerospace, food-science, contamination-con
 ## Overview
 
 The NASA Technical Support Package MSC-22484 describes the Microwave
-Sterilizable Access Port (MSAP) development, which required a systematic
+[[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] (MSAP) development, which required a systematic
 comparison of existing surface sterilization technologies. The document
 identifies specific limitations of each conventional method when applied to
 complex surface geometries and thermally sensitive systems. This page
@@ -21,7 +21,7 @@ sterilization development.
 
 ## The Core Problem
 
-NASA's [[chen-maitake-growth-parameters-environmental-control]] and Life Support System (ECLSS) required a
+NASA's [[chen-maitake-growth-parameters-environmental-control]] and [[eclss-environmental-control-life-support]] System (ECLSS) required a
 reliable means of accessing biologically sensitive systems including
 sterile waters and flight experiments. The specific challenge was aseptically
 removing samples and adding materials to sterile systems without compromising
@@ -87,63 +87,3 @@ residues, long cycle times.
 
 **Alcohols (ethanol, isopropanol)**: Effective against vegetative cells but
 unreliable against spores; rapid evaporation limits contact time; flammable.
-
-**Quaternary ammonium compounds**: Leave residues, limited spore efficacy,
-surface-active properties may interfere with biological assays.
-
-**[[cervantes-hydrogen-peroxide-sterilization]]**: Effective but leaves residues, can corrode metals,
-requires concentration management.
-
-**Elemental iodine**: Persistent residues, can stain sensitive surfaces,
-limited biological compatibility.
-
-## The Microwave Innovation
-
-Microwave surface sterilization at 2.45 GHz addresses these combined
-limitations through a fundamentally different mechanism:
-
-- **Minimal thermal impact**: Trace water (9 μL/cm²) couples with microwave
-  energy while the bulk system remains cool. Only the water film and
-  microorganisms experience significant heating.
-- **Complex geometry coverage**: Microwaves penetrate into recessed
-  surfaces through waveguide and antenna systems that can be designed to
-  irradiate all mating surfaces of complex assemblies.
-- **No [[ingham-manure-antibiotics-chemical-residues-composting]]**: The process uses only water and electromagnetic
-  energy, leaving no chemical contamination.
-- **Rapid cycle**: 13.1 W-hr total exposure achieves complete sterilization,
-  significantly faster than autoclaving or EtO.
-- **Penetration through elastomers**: Microwaves have been shown to
-  sterilize surfaces after penetrating [[microwave-penetration-elastomeric-materials]], enabling
-  sterilization of fully enclosed systems.
-
-## Specific Application Domains
-
-The comparative analysis applies to:
-
-1. **Space biology**: ECLSS water systems, flight experiment access ports
-2. **Pharmaceutical manufacturing**: Aseptic filling line fittings and
-  connections
-3. **Mushroom cultivation**: Inoculation ports, transfer windows, laminar
-  flow hood surfaces
-4. **Clinical settings**: Complex medical device sterilization where
-  conventional methods are inadequate
-5. **Food processing**: Surface sterilization of equipment with complex
-  geometries
-
-## Summary Table
-
-| Method | Thermal Impact | Chemical Residue | Complex Geometry | Speed |
-|--------|---------------|-----------------|-----------------|-------|
-| Autoclave | High | None | Moderate | Slow |
-| Gamma | Moderate | None | Poor | Moderate |
-| UV | Low | None | Poor | Fast |
-| EtO | Low | High | Moderate | Slow |
-| Alcohol | Low | Low | Good | Fast |
-| H₂O₂ | Low | Moderate | Good | Moderate |
-| Microwave (2.45 GHz) | Very Low | None | Good | Fast |
-
-## See Also
-
-- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
-- [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
-- [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]

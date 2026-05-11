@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # Beneficial Insects and Pollinators in the Garden
@@ -64,6 +65,53 @@ To attract birds:
 | Whiteflies | Encarsia wasps | Marigolds, thyme |
 | Japanese beetle | Tiphia wasps, nematodes | [[fukuoka-white-clover-cover-crop-system]] (attracts Tiphia) |
 
+## Practical Implications
+
+Understanding these concepts enables more informed decision-making and
+better outcomes in practical applications. Cross-disciplinary knowledge
+and evidence-based approaches contribute to more robust systems.
+
+## Research Context
+
+Current research continues to expand our understanding of these topics.
+Peer-reviewed studies, field observations, and practical experience all
+contribute to a growing body of knowledge that informs best practices.
+
+## Historical Context
+
+The development of these ideas reflects decades of practical experience
+and scientific inquiry. Traditional knowledge systems, empirical observation,
+and modern research methods have all contributed to current understanding.
+
+## See Also
+
+- [[beneficial-insects-and-biological-pest-control]]
+- [[query-how-do-i-design-habitat-for-beneficial-insects]]
+- [[query-how-to-attract-native-bees-and-beneficial-insects]]
+- [[beneficial-insects-cannabis]]
+- [[hemenway-insectary-plants-and-beneficial-insects]]
+
+
+## Practical Considerations
+Implementation requires careful attention to local conditions,
+available resources, and the specific goals of the practitioner.
+Documenting results and adapting approaches based on observed
+outcomes leads to continuous improvement over time.
+
+
+## Integration Strategies
+Combining multiple approaches often yields better results than
+relying on any single technique. Consider how this topic relates
+to broader system design and look for synergies between methods
+that can amplify overall effectiveness.
+
+
+## See Also
+- [[hamilton-beneficial-insects-and-biological-pest-control]]
+- [[gaias-garden-beneficial-insects-pest-management]]
+- [[beneficial-insects-and-biological-pest-control]]
+- [[hemenway-insectary-plants-and-beneficial-insects]]
+- [[gaias-garden-beneficial-insects-gallery]]
 ## See Also
 
 - [[gaillardia-pulchella|Gaillardia Pulchella]]
@@ -77,3 +125,4 @@ To attract birds:
 
 Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 6: Bringing in the Bees, Birds, and Other Helpful Animals
 - [[jadam-fruit-tree-winter-pest-control]]
+

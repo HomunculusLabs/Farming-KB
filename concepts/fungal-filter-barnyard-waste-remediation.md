@@ -15,7 +15,7 @@ fecal coliforms and nutrient runoff from barnyard and poultry
 operations. By installing living fungal barriers in and around
 animal enclosures, growers can trap pathogens, reduce odors, and
 convert waste into valuable soil amendments. This approach
-leverages the natural enzymatic activity of saprophytic fungi to
+leverages the natural enzymatic activity of [[saprophytic-fungi]] to
 decompose organic waste and inactivate harmful microorganisms.
 
 ## Principles of Microbial Mycoremediation
@@ -32,9 +32,9 @@ systems.
 
 ## Poultry and Chicken Coop Applications
 
-Urban [[comparison-chicken-keeping-vs-beekeeping-basics]] is growing in popularity, but odor control
+Urban [[comparison-chicken-keeping-vs-beekeeping-basics]] is growing in popularity, but [[cannabis-odor-control-and-carbon-filters]]
 and coliform bacteria from poultry droppings remain obstacles.
-King stropharia (Stropharia rugoso-annulata) mycelium has a sweet
+[[comparison-enoki-vs-king-stropharia-cultivation]] (Stropharia rugoso-annulata) mycelium has a sweet
 smell and is highly effective at managing poultry waste. The
 mycelium consumes excess nitrates and phosphates that accumulate
 in poultry waste while attracting earthworms and other organisms
@@ -42,7 +42,7 @@ that collaborate to build rich, sweet-smelling soil.
 
 Living fungal filters are easy to install and typically last about
 one year, after which they become a garden amendment filled with
-worm castings. Installation involves layering inoculated hardwood
+[[ingham-vermicompost-worm-castings]]. Installation involves layering inoculated hardwood
 chips in the coop or run area to a depth of approximately 8
 inches. A layer of poultry wire is placed 2 inches below the
 surface to prevent chickens from scratching down into the mycelial
@@ -57,7 +57,7 @@ The basic materials for a chicken coop fungal filter include:
   sometimes stockpile chips from tree trimming crews.
 - **Poultry wire**: Separates the base mycelial layer from the
   upper scratch layer, covering the entire enclosure area.
-- **King stropharia sawdust spawn**: A 5-pound bag covers
+- **King stropharia [[comparison-grain-spawn-vs-sawdust-spawn]]**: A 5-pound bag covers
   approximately 1 cubic yard of chips.
 - **Garden tools**: Wheelbarrow, shovel, rake, and hoe for
   installation and maintenance.
@@ -73,7 +73,7 @@ target total.
 
 Next, install poultry wire over the entire surface. Cover the
 wire with another 2 inches of inoculated wood chips. Install a
-1-foot-wide inoculated wood chip bed around the perimeter of the
+1-foot-wide inoculated [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] around the perimeter of the
 enclosure to catch excess runoff. This barrier bed can be mounded
 against the enclosure fencing or built with untreated landscape
 timbers or even [[ectomycorrhizal-mushroom-fruiting-ecology]] logs.
@@ -88,54 +88,3 @@ droppings deeper into the chips to feed the waiting mycelium.
 Every year, the filter should be rebuilt. Remove the poultry wire
 and examine the chips for patches of white mycelium, which can be
 harvested as spawn for the new bed. The decomposed wood chips
-become a rich humus that can be finished through vermicomposting
-before use as garden amendment.
-
-## Cardboard Manure Capture
-
-A complementary technique places cardboard strips under roosting
-areas to catch accumulating litter. Once removed, the
-litter-covered cardboard is inoculated with king stropharia spawn,
-watered lightly, and stacked into a tight tower covered with a
-tarp. After full colonization, the remediated cardboard can be
-used as spawn to line coops, gardens, or other areas.
-
-## Dog and Cat Waste Remediation
-
-Similar fungal filtration principles apply to domestic pet waste.
-For cat litter, scoop soiled material into a lidded bucket and
-periodically cover with fresh, wet biodegradable litter inoculated
-with spawn. King stropharia and oyster mushrooms are the best
-species for remediating feline feces. The mycelium decomposes and
-deodorizes the waste in approximately twelve weeks.
-
-For dog waste, designate a 5-gallon lidded bucket for collection
-and periodically add spawned substrate using moistened hardwood
-sawdust or spent [[oyster-mushroom-coffee-grounds-cultivation]]. Once fully colonized, the
-resulting mycelium block can be transferred to a worm composting
-bin for safe decomposition into topsoil.
-
-## Pet Waste Runoff Barriers
-
-For yards where pets relieve themselves on lawns, place a barrier
-of myceliated wood chips at the lowest point of the property.
-Rain will wash fecal coliforms into the fungal filter, where they
-are trapped and remediated before passing into the local watershed.
-This approach uses myceliated wood chips or bales of wheat straw
-to improve water quality and reduce erosion on sloped areas.
-
-## Simple Slope-Side Filtration
-
-Myceliated wood chips or wheat straw bales can be positioned on
-slopes to reduce erosion and improve water-holding capacity of
-soil. Rainfall washes contaminants through the fungal matrix,
-where mycelium traps and breaks down pathogens before they reach
-waterways. This low-tech approach requires no special equipment
-and is accessible to home cultivators and commercial operators
-alike.
-
-## See Also
-
-- [[tabletop-mycofiltration-unit-construction]]
-- [[cotter-mycoremediation-overview]] concepts
-- [[mushroom-strain-preservation-species-banking]] cultivation

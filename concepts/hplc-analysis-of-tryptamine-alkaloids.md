@@ -1,11 +1,11 @@
 ---
-title: HPLC hplc analysis of tryptamine alkaloids Alkaloids
+title: Hplc Analysis Of Tryptamine Alkaloids
 created: 2026-04-28
 tags: [HPLC, analytical-chemistry, psilocybin, psilocin, tryptamines, quantification, chromatography, quality-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bigwood, J. and Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
+  - Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin-and-psilocin-chemical-synthesis Levels with Repeated Flushes of Mature Sporocarps of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting. Journal of Ethnopharmacology, 5, 287-291.
 type: concept
 ---
 
@@ -40,17 +40,17 @@ The method demonstrated reliable quantitative performance across the relevant co
 - **Repeatability**: Approximately 10% relative standard deviation across repeated measurements of the same sample
 - **Detection limit**: Approximately 0.01 micrograms of psilocybin or psilocin per injection
 
-The 10% repeatability means that a measured value of 5.0 mg/g has an uncertainty of roughly plus or minus 0.5 mg/g (at one standard deviation). While this level of precision is adequate for comparing alkaloid levels across flushes where differences of 2x to 4x were observed, it would be insufficient for detecting smaller differences or for quality control applications requiring tighter specifications.
+The 10% repeatability means that a measured value of 5.0 mg/g has an uncertainty of roughly plus or minus 0.5 mg/g (at one standard deviation). While this level of precision is adequate for comparing alkaloid levels [[psilocin-accumulation-pattern-across-flushes]] where differences of 2x to 4x were observed, it would be insufficient for detecting smaller differences or for [[blesching-cannabis-contaminants-testing-quality-control]] applications requiring tighter specifications.
 
 ### Linear Calibration Model
 
-The calibration curve was constructed by injecting known amounts of NIDA-certified psilocybin and psilocin standards and plotting peak area against mass injected. The resulting linear relationship allows unknown sample concentrations to be calculated from their measured peak areas using the calibration equation. Linearity across the 15-fold concentration range (0.2 to 3.0 micrograms) ensures accurate quantification without the need for sample dilution or concentration adjustment for most naturally occurring alkaloid levels.
+The calibration curve was constructed by injecting known amounts of NIDA-certified [[psilocybin-and-psilocin-chemical-synthesis]] standards and plotting peak area against mass injected. The resulting linear relationship allows unknown sample concentrations to be calculated from their measured peak areas using the calibration equation. Linearity across the 15-fold concentration range (0.2 to 3.0 micrograms) ensures accurate quantification without the need for sample dilution or concentration adjustment for most naturally occurring alkaloid levels.
 
 ## Confirmatory Analysis by TLC
 
 HPLC results were qualitatively confirmed using thin-layer chromatography (TLC) as a secondary analytical technique:
 
-- **Stationary phase**: Silica gel TLC plates
+- **Stationary phase**: [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] TLC plates
 - **Mobile phase**: Butanol-acetic acid-water (12:3:5 by volume)
 - **Detection**: Visual comparison of spot positions (Rf values) between samples and reference standards
 - **Purpose**: Verify compound identity by confirming that HPLC peak fractions co-migrate with authentic psilocybin and psilocin standards on TLC
@@ -87,32 +87,3 @@ The clarified extract is injected directly into the HPLC system without further 
 ## Challenges in Tryptamine Analysis
 
 ### Psilocin Instability
-
-[[psilocybin]] and poses special analytical challenges that must be addressed at every step of the workflow:
-
-- **Oxidation**: The free phenolic hydroxyl group is susceptible to oxidation, forming blue-colored quinone polymers. This is the same reaction responsible for the characteristic blue bruising observed when [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are handled or damaged.
-- **Light sensitivity**: Exposure to UV and visible light accelerates psilocin degradation
-- **Thermal lability**: Elevated temperatures promote both oxidation and potential thermal decomposition
-- **pKa considerations**: At neutral to basic pH, psilocin exists in its free base form and is more prone to oxidation
-
-Mitigation strategies include rapid freeze-drying, cold storage in the dark, acidification of extracts, and analysis as soon as possible after extraction.
-
-### Matrix Effects
-
-Mushroom tissue contains numerous compounds that can interfere with chromatographic analysis:
-
-- **Pigments and melanins**: Dark-colored compounds from the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] that can absorb at the same UV wavelengths as tryptamines
-- **Lipids and [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]**: [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] components that can co-extract and potentially foul the HPLC column over time
-- **Sugars and amino acids**: Primary metabolites present at much higher concentrations than the target alkaloids
-
-The reversed-phase separation provides adequate resolution for most samples, but heavily pigmented or lipid-rich extracts may require additional cleanup steps such as solid-phase extraction (SPE) prior to HPLC injection.
-
-### Detection Limit Constraints
-
-With detection limits around 0.01 micrograms per injection, the method may miss very low psilocin concentrations. The observation that many early-flush samples showed zero detectable psilocin could reflect either true absence of the compound or concentrations below the analytical detection threshold. More sensitive methods such as liquid chromatography tandem mass spectrometry (LC-MS/MS) with detection limits in the nanogram range would be needed to distinguish these possibilities definitively.
-
-## Comparison With Modern Methods
-
-While the 1982 HPLC-UV method was state-of-the-art for its time, contemporary analysis of [[psilocybin-variation-across-flushes]]
-- [[cap-vs-stem-alkaloid-distribution]]
-- [[psilocybe-cubensis-miniculture-method]]

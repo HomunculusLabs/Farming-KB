@@ -1,5 +1,5 @@
 ---
-title: mollison designers mulberry and sericulture in permaculture in Permaculture
+title: Mollison Designers Mulberry And Sericulture In Permaculture
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Mulberry and Sericulture in Permaculture
 
-The mulberry (Morus spp.) is presented in the Permaculture Designers
+The mulberry (Morus spp.) is presented in the [[permaculture-principle-apply-self-regulation]]
 Manual as a dual-purpose tree, valued both for its fruit and as the sole
 food source for silkworms (Bombyx mori). Mollison uses the mulberry-silk
 relationship as a prime example of how permaculture designers can
@@ -26,7 +27,7 @@ between species.
 ## The Designer's Perspective on Underground Connections
 
 Mollison's discussion of root systems and underground ecology provides
-the philosophical foundation for understanding mulberry's role. He states
+the [[fukuoka-spiritual-philosophical-foundation]] for understanding mulberry's role. He states
 that it is as valid to plant a mulberry for silkworms as it is to plant an
 Acacia for the considerable by-product of swift moth or ghost moth
 larvae. The implication is that designers should think in terms of the
@@ -36,7 +37,7 @@ product.
 The mulberry tree supports a complex of organisms: silkworms that produce
 silk, birds that eat the fruit, leaf-feeding insects that feed insectivores,
 and soil organisms that process the [[dighton-fungal-decomposition-leaf-litter-dynamics]]. This web of interactions
-is the essence of permaculture design thinking.
+is the essence of permaculture [[holmgren-wholistic-design-thinking]].
 
 ## Guild Analysis and Companion Planting
 
@@ -63,7 +64,7 @@ Mollison references the traditional Chinese carp-pond complex, where
 mulberries, ducks, and silkworms were integrated in a classic example of
 permaculture thinking long before the term was coined. In this system:
 
-- Mulberry trees grow on pond edges
+- [[query-how-do-i-grow-mulberry-trees]] grow on pond edges
 - Silkworms fed on mulberry leaves produce silk
 - Silkworm waste and mulberry leaf fall feed the pond
 - Fish in the pond produce manure that fertilises the mulberries
@@ -87,20 +88,3 @@ fruit also attracts birds that contribute to [[mushroom-pests-insect-control-sta
 system.
 
 ## Species Selection
-
-The Manual lists Morus spp. (mulberry) in the species appendix. Key
-species include:
-- Morus alba (white mulberry) -- preferred for silkworm production
-- Morus nigra (black mulberry) -- excellent fruit quality
-- Morus rubra (red mulberry) -- native to [[psilocybin-north-america-pacific-northwest]]
-
-White mulberry is the traditional food for silkworms, while black
-mulberry produces the finest fruit for human consumption.
-
-## Related
-
-- [[permaculture-mulberry]] Concepts
-
-- [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- [[aquatic-polyculture-design-mollison]]

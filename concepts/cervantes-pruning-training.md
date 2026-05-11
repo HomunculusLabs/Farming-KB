@@ -1,20 +1,21 @@
 ---
-title: "Cannabis hamilton-pruning-and-training-fruit-trees Techniques (SOG, SCROG, LST)"
+title: Cervantes Pruning Training
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis, pruning]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Pruning and Training Techniques (SOG, SCROG, LST)
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## Hormonal Basis
 
-Pruning and bending redirect growth hormones (auxins). Removing or bending a branch tip causes hormonal balances to shift. Cutting the meristem (top growth tip) diffuses auxins and causes greater concentrations in lower branch tips. Bending changes hormone concentrations less drastically than pruning.
+Pruning and bending redirect [[gibberellins-plant-growth-hormones]] (auxins). Removing or bending a branch tip causes hormonal balances to shift. Cutting the meristem (top growth tip) diffuses auxins and causes greater concentrations in lower branch tips. Bending changes hormone concentrations less drastically than pruning.
 
 ## Pruning
 
@@ -87,54 +88,3 @@ Super cropping is a high-stress training (HST) technique that involves gently cr
 Super cropping has several benefits:
 - Reduces overall plant height by bending tall branches horizontally
 - Increases light penetration to lower branches
-- The knuckle joint formed at the bend point can transport more water and nutrients
-- Can be performed multiple times on the same plant during vegetative growth
-- Stressed plants may increase resin production as a response
-
-The key is to be gentle — the stem should bend easily without snapping. If the stem breaks completely, wrap it with tape or a tie and it will usually heal.
-
-## Sea of Green (SOG)
-
-Sea of Green is a technique designed to maximize yield per square foot by growing many small plants harvested frequently. Rather than growing a few large plants, SOG uses dozens or even hundreds of small plants (often clones) grown in small containers and flowered at a small size — typically 6-12 inches tall.
-
-SOG workflow:
-1. Take many clones from a mother plant
-2. Root clones and establish in small containers (6-inch pots or solo cups)
-3. Vegetative growth is brief — 1-2 weeks after rooting
-4. Switch to 12/12 photoperiod to induce flowering
-5. Plants stretch to 12-24 inches during early flowering
-6. Harvest in 6-8 weeks with each plant producing one large central cola
-
-SOG works best with strains that naturally produce a dominant central cola and branch minimally. Indica-dominant strains are ideal. The advantage is a continuous harvest cycle — new clones are started as flowering plants approach maturity.
-
-## Screen of Green (SCROG)
-
-Screen of Green (SCROG) uses a horizontal screen or net (often chicken wire or trellis netting) positioned above the plants. As plants grow through the screen, branches are woven through the mesh to create an even, flat canopy. This maximizes light exposure across the entire growing area.
-
-SCROG advantages:
-- Creates a perfectly even canopy for uniform light distribution
-- Allows plants to be grown larger than in SOG while still maintaining even light exposure
-- Each bud site receives direct light, increasing overall quality
-- Excellent for training fewer, larger plants
-
-The screen is typically placed 8-12 inches above the growing medium. Branches are tucked under the screen and guided through openings during vegetative growth. Once the screen is mostly filled, flowering is induced. During flowering, the canopy remains flat and even as all bud sites develop at approximately the same height.
-
-## LST (Low Stress Training)
-
-Low Stress Training uses soft ties (pipe cleaners, garden wire, plant ties) to gently bend branches and secure them in new positions without cutting or damaging the plant. LST is performed throughout vegetative growth to:
-- Open up the center of the plant for better light penetration
-- Expose lower bud sites to more light
-- Control plant shape and height
-- Create an even canopy
-
-Unlike topping or super cropping, LST causes minimal stress and the plant continues growing without any recovery period. It is the safest training method for novice growers.
-
-## Related
-
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-light-spectrum-photomorphogenesis]]
-- [[cervantes-seed-production-storage]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] Topics
-- [[cervantes-lighting-systems]] — Light efficiency and training
-- [[cervantes-flowering-phase]] — Training effects on flowering

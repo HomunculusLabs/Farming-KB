@@ -23,11 +23,11 @@ Stratiotes aloides is a perennial aquatic plant in the family Hydrocharitaceae, 
 
 The species resembles a small pineapple or yucca plant floating on the water surface, with rigid, serrated leaves arranged in a rosette. It is one of the few aquatic plants that can tolerate freezing temperatures while floating.
 
-Water soldier has become an invasive species in parts of North America, particularly the Great Lakes basin. Its dense floating mats can outcompete native aquatic vegetation and impede water flow.
+Water soldier has become an invasive species in parts [[berry-growing]], particularly the Great Lakes basin. Its dense floating mats can outcompete native aquatic vegetation and impede water flow.
 
 In its native European range, the species has experienced significant population declines due to eutrophication and habitat loss. Several European countries list Stratiotes aloides as a species of conservation concern.
 
-The plant is increasingly used in constructed wetlands and water treatment systems for its nutrient uptake capacity. Its ability to accumulate heavy metals from contaminated water has attracted interest in phytoremediation applications.
+The plant is increasingly used in [[constructed-wetland-design]] water treatment systems for its nutrient uptake capacity. Its ability to accumulate heavy metals from contaminated water has attracted interest in phytoremediation applications.
 
 ## Taxonomy
 
@@ -51,7 +51,7 @@ The plant is increasingly used in constructed wetlands and water treatment syste
 
 Stratiotes is a monotypic genus, meaning it contains only this single species. The genus name derives from the Greek word "stratiotes" meaning soldier, referring to the plant's armored, sword-like leaf appearance.
 
-The species epithet "aloides" means "aloe-like," referencing the resemblance of the leaf rosette to terrestrial Aloe species. Common names include water soldier, water aloe, and crab's claw in various European languages.
+The species epithet "aloides" means "aloe-like," referencing the resemblance of the leaf rosette to terrestrial Aloe species. Common names include water soldier, water aloe, and crab's claw in various [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]].
 
 Fossil records indicate that Stratiotes has existed since at least the Eocene epoch, approximately 50 million years ago. Fossil Stratiotes seeds have been found across Europe, suggesting a much broader historical distribution.
 
@@ -81,41 +81,10 @@ In its native range, the species inhabits shallow lakes, ponds, slow-moving rive
 
 The plant is tolerant of a wide range of substrates including mud, sand, and clay. Optimal water depth ranges from 0.5 to 3 meters, though plants occasionally occur in deeper water.
 
-Flowering occurs from June through August in temperate regions. Male flowers are more commonly observed than female flowers, and successful sexual reproduction is relatively rare in northern populations.
+Flowering occurs from June through August in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Male flowers are more commonly observed than female flowers, and successful [[basidiomycete-mating-systems-sexual-reproduction]] is relatively rare in northern populations.
 
 ## Ecological Role
 
-Water soldier provides important habitat structure in aquatic ecosystems. Floating rosettes create microhabitats for invertebrates, amphibian larvae, and small fish seeking refuge from predators.
+Water soldier provides important habitat structure in [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Floating rosettes create microhabitats for invertebrates, amphibian larvae, and small fish seeking refuge from predators.
 
 The submerged leaf rosettes support periphyton growth, providing food for grazing invertebrates and larval amphibians. The dense root systems absorb dissolved nutrients, contributing to water quality improvement.
-
-In its native range, the plant supports a specialized invertebrate community including several species of aquatic beetles and moth larvae that feed exclusively on Stratiotes leaves. This herbivore pressure helps control population density naturally.
-
-The aquatic moth Nymphula stratiotata develops entirely within the leaf rosettes of Stratiotes aloides, mining the leaves from within protective silk shelters. This specialized herbivore is absent from North American populations, contributing to the plant's invasive success there.
-
-## Invasive Potential
-
-Water soldier was first documented in North America in the Trent-Severn Waterway of Ontario, Canada, in 2008. Populations have since spread to several lakes in the Great Lakes basin and portions of the northeastern United States.
-
-Genetic analysis of North American populations suggests a single introduction event, likely from the European horticultural trade. The clonal nature of introduced populations limits genetic diversity and may affect long-term adaptation potential.
-
-Dense floating mats can reduce light penetration to submerged native vegetation, alter water chemistry, and impede recreational water use. Mechanical removal and herbicide treatments are the primary management strategies.
-
-The species is classified as a prohibited invasive plant in several U.S. states and Canadian provinces. Regulation aims to prevent further spread through the aquarium and water garden trade, which is believed to be the primary introduction pathway.
-
-Public education campaigns targeting water gardeners have been implemented in Ontario and New York State. Disposal of unwanted aquarium plants into natural waterways is identified as the most common vector for new introductions.
-
-Biological control research has investigated the potential use of European herbivorous insects to manage invasive populations. However, the risk to native Hydrocharitaceae species complicates the approval of biological control agents.
-
-## See Also
-
-- [[pistia-stratiotes]]
-- [[eichhornia-crassipes]]
-- [[lemna-minor]]
-- [[azolla-filiculoides]]
-- [[nymphaea-alba]]
-- [[nuphar-lutea]]
-- [[elodea-canadensis]]
-- [[hydrilla-verticillata]]
-- [[ceratophyllum-demersum]]
-- [[potamogeton-natans]]

@@ -87,21 +87,3 @@ P. dentata is a wild species found along the coasts of Japan and Korea that shar
 P. okamurae occurs in the northwest Pacific and is occasionally harvested from wild populations in Japan. It produces smaller, thinner blades than P. haitanensis.
 
 The genus Pyropia is the most species-rich genus of Bangiales, with over 130 species worldwide. Molecular phylogenetics has revealed multiple independent transitions between free-living and shell-boring life history strategies within the genus.
-
-## Ecological Interactions
-
-P. haitanensis cultivation nets provide habitat for numerous epiphytic and epifaunal organisms. These include diatoms, filamentous algae, small crustaceans, and juvenile fish.
-
-Epiphytic fouling by diatoms and green algae can reduce nori quality and yield. Farmers manage fouling through net-drying periods, timing of deployment, and selective harvesting.
-
-The species is susceptible to several diseases, particularly red rot caused by Pythium-like oomycetes and green spot disease caused by opportunistic bacteria. Disease outbreaks can cause significant crop losses.
-
-Cultivation may affect local nutrient dynamics, as the large biomass of Pyropia extracts significant quantities of dissolved nitrogen and phosphorus from surrounding waters. This nutrient extraction effect is generally considered beneficial in eutrophic coastal areas.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[ulva-lactuca]]
-- [[gracilaria-verrucosa]]
-- [[palmaria-palmata]]
-- [[laminaria-digitata]]

@@ -88,21 +88,3 @@ Shotgun metagenomics goes beyond metabarcoding by sequencing all DNA in a soil s
 Soil fungal diversity varies predictably with climate, latitude, and vegetation type. Tropical forests generally support the highest species richness, though the relationship between latitude and fungal diversity is less pronounced than for plants and animals. Arid and semi-arid soils harbor surprisingly diverse communities of melanized fungi adapted to desiccation and UV stress. Polar and alpine soils, despite their low temperatures, support distinct communities of cold-adapted fungi including psychrotolerant basidiomycetes and yeasts. The global distribution of soil fungi is influenced by both contemporary [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and historical biogeographic events. [[fungal-dispersal-limitation-biogeographic-barriers]] appears to play a greater role in fungal biogeography than was previously assumed: many soil fungal species have restricted geographic ranges, and the distance-decay relationship (the decline in community similarity with increasing geographic distance) is as strong for soil fungi as for plants and animals. Island biogeography principles apply to soil fungal communities, with larger landmasses and closer proximity to continental source pools supporting higher diversity.
 
 ## Land Use Effects on Soil Fungal Diversity
-
-Land use change is the most significant driver of soil fungal diversity loss globally. The conversion of natural ecosystems to agriculture typically reduces fungal species richness by 30 to 50 percent, with the greatest losses occurring among ectomycorrhizal fungi and specialized saprobes. Intensive tillage disrupts hyphal networks, accelerates organic matter decomposition, and favors rapid-growing r-selected fungal species over slower-growing K-selected specialists. Monoculture cropping reduces the diversity of organic substrates entering the soil, narrowing the niche space available for fungal decomposers. The use of fungicides, particularly in cereal crops, has direct toxic effects on non-target soil fungi and can shift community composition toward resistant taxa. In contrast, conservation tillage, cover cropping, organic fertilization, and crop rotation all support higher soil fungal diversity than intensive conventional management. Agroforestry systems, which combine trees with crops or livestock, maintain fungal diversity at levels approaching those of natural ecosystems because the diverse plant community provides a continuous supply of varied organic inputs.
-
-## Functional Guilds in Soil Fungal Communities
-
-Soil fungal communities can be categorized into functional guilds based on their ecological roles:
-
-- **Decomposers (saprotrophs)**: The most diverse guild in most soils, responsible for breaking down dead organic matter including leaf litter, wood, and root residues. Decomposers produce a wide array of extracellular enzymes and are critical for carbon and nutrient cycling.
-- **Mycorrhizal fungi**: Form mutualistic associations with plant roots. [[lowenfels-earthworms-soil-food-web]] ecology is fundamentally a concept of soil biological diversity, and management practices that promote fungal diversity are increasingly recognized as essential for sustainable agriculture.
-
-## Related Topics
-
-- [[fungal-decomposition-nutrient-cycling]] — functional roles of soil fungi
-- [[fungal-ecology]] — broader ecological framework
-- [[saprobic-soil-fungi]] — saprobic soil fungal ecology
-- [[ethanol-pasteurization-selective-fungal-isolation]]
-- [[ingham-soil-food-web-assessment-methods]]
-- [[fungal-ecosystem-services]]

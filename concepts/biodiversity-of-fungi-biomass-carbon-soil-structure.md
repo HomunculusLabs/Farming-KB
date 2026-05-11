@@ -12,7 +12,7 @@ Source: Biodiversity of Fungi (Hyde et al., eds.), Chapters 11, 13, and related 
 ## The Scale of Fungal Biomass in Soils
 Fungi are the dominant [[savory-living-organisms-as-tools]] in many soils by biomass. In grassland soils, fungi comprise an estimated 78-90% of total decomposer biomass. In a British deciduous forest, fungal mycelia contributed approximately 89% of total living microbial biomass. In the total litter and humus of a British deciduous forest, including woody debris and dead roots, basidiomycetes alone accounted for approximately 60% of total living microbial biomass.
 This immense fungal biomass represents a substantial carbon and nutrient pool in agricultural soils. Changes in fungal biomass -- driven by management practices -- can significantly alter soil carbon storage, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and soil physical properties.
-See also: [[soil-food-web-nutrient-cycling]], [[soil-food-web]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
+See also: [[soil-food-web-nutrient-cycling]], [[soil-foodweb]], carbon flows from plant material through decomposer fungi before reaching higher trophic levels. The fungal pathway has several [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]]:
 1. **High carbon use efficiency**: Fungi convert a larger proportion of consumed carbon into biomass (higher CUE) compared to bacteria. Typical fungal CUE ranges from 30-60%, compared to 10-30% for bacteria.
 2. **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Fungal biomass and necromass contribute to stable soil organic matter. Fungal cell walls contain chitin and melanin that are resistant to decomposition.
 3. **Recalcitrant metabolites**: Fungi produce glomalin (from AMF), melanin, and other recalcitrant compounds that persist in soil for years to decades.
@@ -88,16 +88,3 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

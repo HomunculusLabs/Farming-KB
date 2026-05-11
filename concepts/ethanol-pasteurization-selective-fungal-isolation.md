@@ -1,5 +1,5 @@
 ---
-title: Ethanol Pasteurization for ethanol pasteurization selective fungal isolation Isolation
+title: Ethanol Pasteurization Selective Fungal Isolation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Ethanol Pasteurization for Selective Fungal Isolation
 
-Ethanol pasteurization is a selective technique that preferentially isolates fungi with resistant propagules — particularly ascomycetes and basidiomycetes with thick-walled spores, sclerotia, or chlamydospores — from soil. It shifts the isolated population away from rapidly growing mitosporic fungi and Zygomycetes toward more resistant, often slower-growing species.
+Ethanol pasteurization is a selective technique that preferentially isolates fungi with resistant propagules — particularly ascomycetes and basidiomycetes with thick-walled spores, sclerotia, or chlamydospores — from soil. It shifts the isolated population away from rapidly growing [[mitosporic-fungi-diversity-species-estimates]] and Zygomycetes toward more resistant, often slower-growing species.
 
 ## Principle
 
-Treatment of soil with 60% ethanol (or 2% phenol) kills or inactivates thin-walled, sensitive propagules (conidia of mitosporic fungi, Zygomycete sporangiospores) while allowing thick-walled resistant structures (ascospores, basidiospores, sclerotia, chlamydospores) to survive and subsequently germinate on culture media.
+Treatment of soil with 60% ethanol (or 2% phenol) kills or inactivates thin-walled, sensitive propagules (conidia of mitosporic fungi, Zygomycete sporangiospores) while allowing thick-walled resistant structures (ascospores, basidiospores, sclerotia, chlamydospores) to survive and subsequently germinate on [[agar-culture-media]].
 
 ## What Ethanol Pasteurization Selects For
 
@@ -83,31 +83,7 @@ In Galapagos Islands study (Mahoney 1972), of 250 taxonomic entities recovered b
 ## Combination with Other Techniques
 
 ### Ethanol + Mild Heat
-- Some investigators combine ethanol treatment with mild heat treatment
+- Some investigators combine ethanol treatment with mild [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]
 - Heat (40-50C) thought to stimulate ascospore germination
 - Warcup and Baker (1963): effective combination
 - However, ethanol alone is often sufficient (Galapagos study)
-
-### After Particle Filtration
-- Ethanol pasteurization can be applied to particles after initial separation
-- Useful for selectively recovering basidiomycetes from washed particles
-
-## Safety Considerations
-- 60% ethanol is flammable — keep away from open flames
-- Work in fume hood if using phenol (toxic)
-- Autoclave all waste materials, especially foreign soils
-
-## Applications
-
-1. **Biodiversity surveys:** Extend species lists beyond what standard plating recovers
-2. **Coprophilous fungi:** Isolate dung-inhabiting ascomycetes from soil
-3. **[[biodiversity-ascomycete-diversity-taxonomy]]:** Specifically target teleomorphic (sexual) fungi
-4. **Soil [[gadd-fungal-ecology-endophytes]]:** Compare communities with and without pasteurization
-5. **Rare species detection:** Many species only recovered by this method
-
-## See Also
-
-- [[particle-filtration-dilution-plating-microfungal-isolation]]
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- fungal-culture-media-formulas-applications
-- [[biodiversity-of-fungi-soil-isolation-methods]]

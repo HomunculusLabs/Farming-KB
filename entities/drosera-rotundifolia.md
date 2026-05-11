@@ -28,7 +28,7 @@ The species is named for its round, spoon-shaped leaf blades covered in glandula
 
 Insects are attracted to the glistening droplets, become trapped, and are slowly digested by proteolytic enzymes.
 
-Drosera rotundifolia has a centuries-long history of medicinal use, particularly in European herbal medicine for respiratory complaints.
+Drosera rotundifolia has a centuries-long history of medicinal use, particularly in European [[childrens-herbal-medicine]] for respiratory complaints.
 
 ## Taxonomy and Morphology
 
@@ -56,11 +56,11 @@ Flowering occurs June through August. Each flower produces a capsule with numero
 
 ## Distribution and Habitat
 
-Drosera rotundifolia has a circumboreal distribution, occurring across northern Europe, northern Asia, and northern North America.
+Drosera rotundifolia has a circumboreal distribution, occurring across northern Europe, northern Asia, and northern [[guzman-psilocybin-mushrooms-north-america]].
 
 In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]] and the Great Lakes region.
 
-Disjunct populations exist in the Appalachian Mountains and in mountainous areas of the western United States.
+Disjunct populations exist in the Appalachian Mountains and in mountainous areas of the western [[dmt-maoi-plants-united-states]].
 
 The species is found in acidic, nutrient-poor wetland habitats including bogs, fens, marsh edges, and wet heathland.
 
@@ -87,43 +87,3 @@ Experiments have shown that fed plants grow significantly larger and produce mor
 Charles Darwin conducted extensive experiments on D. rotundifolia, detailed in his 1875 work "Insectivorous Plants."
 
 ## Medicinal Uses
-
-Drosera rotundifolia has a long tradition of use in European phytotherapy, particularly as an antispasmodic and expectorant.
-
-The primary historical application was for treating respiratory conditions including coughs, bronchitis, whooping cough, and asthma.
-
-The aerial parts are harvested during flowering and dried for use in teas, tinctures, and pharmaceutical extracts.
-
-The German Commission E and the European Medicines Agency (EMA) have both recognized Drosera for respiratory indications.
-
-Active compounds include naphthoquinones (plumbagin, droserone), flavonoids, and ellagic acid derivatives.
-
-Plumbagin exhibits antibacterial, antifungal, and anti-inflammatory properties in pharmacological studies.
-
-Modern herbal preparations of Drosera are included in cough syrup formulations, often combined with thyme and ivy extracts.
-
-## Cultivation
-
-Drosera rotundifolia is cultivated by carnivorous plant enthusiasts and requires specific conditions to thrive.
-
-Plants must be grown in a nutrient-free medium, typically a mix of sphagnum peat moss and silica sand or perlite.
-
-Water must be low in dissolved minerals — distilled, rain, or reverse-osmosis water is required.
-
-The tray method (sitting the pot in a shallow tray of water) is the standard cultivation technique.
-
-Full sun produces the deepest red coloration in the glandular tentacles.
-
-Plants require a winter dormancy period of 3–4 months at temperatures of 2–5°C to maintain long-term health.
-
-Propagation is typically from seed (which requires cold stratification) or by leaf cuttings in sphagnum moss.
-
-## See Also
-
-- [[pellaea-rotundifolia]]
-
-- [[arctium-lappa-entity]]
-- [[glycyrrhiza-glabra]]
-- [[hypericum-perforatum]]
-- [[scutellaria-baicalensis]]
-- [[artemisia-vulgaris-entity]]

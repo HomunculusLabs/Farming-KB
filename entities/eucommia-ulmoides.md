@@ -9,7 +9,7 @@ tags:
   - medicinal-tree
   - adaptogen
   - anti-hypertensive
-  - permaculture
+  - [[permaculture]]
   - rubber-producing
 date: 2026-04-28
 updated: 2026-04-28
@@ -52,7 +52,7 @@ spreading crown.
 dark glossy green above, lighter below. Diagnostic feature: torn leaves
 stretch thin rubber threads between surfaces.
 
-**Flowers:** Dioecious, small, green, appearing in early spring before
+**Flowers:** Dioecious, small, green, appearing in [[coleman-overwintered-onions-and-early-spring-crops]] before
 leaf emergence.
 
 **Fruit:** Flattened elliptic samara, 3–4 cm, containing one seed.
@@ -87,54 +87,3 @@ and hypocholesterolemic compound. Additional lignans include
 medioresinol, syringaresinol, and lariciresinol.
 
 ### Natural Rubber and Other Compounds
-
-Leaves contain 2–6% trans-1,4-polyisoprene by dry weight in latex cells
-throughout the mesophyll — chemically identical to Hevea rubber but with
-trans configuration (higher crystallinity, lower elasticity).
-
-Flavonoids (quercetin, kaempferol glycosides), GABA, and minerals
-(zinc, selenium, calcium) are also present.
-
-## Pharmacology and Traditional Uses
-
-In TCM, Eucommia bark is a kidney-yang tonic for lower back and knee
-pain, weakness, frequent urination, and hypertension.
-
-Modern research validates multiple traditional applications.
-
-Anti-hypertensive effects are well-documented: aqueous bark extracts
-lower blood pressure in animal models and [[mushroom-cancer-clinical-trials-overview]] through
-modulation of the renin-angiotensin system and direct vasodilation.
-
-Anti-osteoporotic activity includes osteoblast stimulation, increased
-bone mineral density in ovariectomized rats, and clinical improvement
-in postmenopausal women.
-
-Immunomodulatory effects encompass enhanced macrophage phagocytosis,
-lymphocyte proliferation, and elevated serum IgG.
-
-Leaves, increasingly used as a bark substitute, share bioactive
-compounds and show comparable hypotensive and antioxidant effects.
-Eucommia leaf extracts are marketed as functional food ingredients in
-Japan and Korea for blood pressure management.
-
-## Cultivation and Permaculture
-
-Propagated from seed (60–90 day cold stratification at 2–5°C) or
-softwood cuttings in early summer. Trees require 5–8 years before
-sustainable bark harvest; commercial plantations strip vertical bark
-sections rotationally.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. ulmoides serves as a multipurpose temperate
-tree: medicinal bark, edible young leaves, rubber-producing biomass,
-deep taproot for [[dighton-fungal-drought-tolerance-plant-water-relations]], [[permplant-willows-salix-erosion-control-fodder]], and effective
-windbreak or shade canopy.
-
-Interplanting with understory medicinal herbs creates productive
-temperate forest-garden systems.
-
-## See Also
-
-- [[astragalus-membranaceus]] — TCM qi-tonic with complementary immunomodulatory effects
-- [[glycyrrhiza-uralensis]] — Chinese licorice, co-prescribed in kidney-tonic formulas
-- [[moringa-oleifera]] — Multipurpose permaculture tree with medicinal uses

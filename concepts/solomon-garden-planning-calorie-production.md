@@ -77,3 +77,20 @@ Solomon warns that his calculations assume several conditions:
 - Adequate water supply, whether from rainfall or irrigation.
 - Climate-appropriate [[solomon-root-cellaring-food-preservation]] for preserving the calorie harvest
 - [[solomon-irrigation-water-scarce]] for water requirements by crop
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[solomon-garden-size-calorie-production-self-sufficiency]]
+- [[solomon-vegetableatarian-experiment-calorie-production-home-garden]]
+- [[solomon-crop-rotation-and-garden-planning]]
+- [[solomon-self-sufficiency-garden-production]]
+- [[solomon-self-sufficiency-calorie-production-economics]]

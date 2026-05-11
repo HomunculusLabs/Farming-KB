@@ -1,5 +1,5 @@
 ---
-title: Four Chemical Groups of Neurotropic Fungi
+title: Guzman Allen Gartz Four Chemical Groups Neurotropic Fungi
 created: 2026-04-28
 tags:
   - chemistry
@@ -23,7 +23,7 @@ known neurotropic fungi into four distinct chemical groups based on
 the types of psychoactive compounds they contain. This classification
 system is fundamental to understanding the pharmacological diversity
 of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] and related fungi, and it reflects the
-very different biochemical pathways and ecological roles that have
+very different biochemical pathways and [[ecological-roles-fungi-ecosystems]] that have
 led to the independent evolution of neurotropic properties across
 multiple fungal lineages.
 
@@ -38,7 +38,7 @@ is caused by the oxidation of psilocin and serves as a field
 indicator of neurotropic potential. Within Psilocybe, the bluing
 species belong to sections Aztecorum, Brunneocystidiatae,
 Cordisporae, Cubensies, Mexicanae, Semilanceatae, Stuntzae,
-Subaeruginosae, and Zapotecorum. Beyond Psilocybe, indole
+Subaeruginosae, and Zapotecorum. [[psilocybin-containing-genera-beyond-psilocybe]], indole
 compounds are also found or suspected in species of Conocybe,
 particularly C. cyanopus, C. kuehneriana, and C. smithii, and
 in the genus Copelandia with 12 accepted species. Non-bluing
@@ -52,10 +52,10 @@ The second chemical group consists of fungi containing ibotenic acid
 and its decarboxylation product muscimol. These are the iconic Amanita
 species: [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric), A. pantherina (the
 panther cap), and A. regalis (the royal agaric). Unlike the indole-
-containing fungi, these species do not produce a bluing reaction and
+containing fungi, these species do not produce a [[metol-testing-bluing-reaction-mushrooms]] and
 their psychoactive effects are qualitatively different, including
 sedation, dissociation, and ataxia rather than the primarily visual
-and cognitive effects of psilocybin. Amanita muscaria is the most
+and cognitive effects of psilocybin. [[allegro-colour-and-consistency-of-the-amanita-muscaria]] is the most
 widely distributed of all neurotropic fungi, occurring across the
 northern hemisphere in mycorrhizal association with Pinus and Betula
 species. It has also been introduced to pine plantations in tropical
@@ -66,7 +66,7 @@ group's pharmacological profile.
 
 ## Group Three: Ergot Alkaloid Fungi
 
-The third group contains fungi with ergot alkaloids, the well-known
+The third group contains fungi with [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]], the well-known
 compounds produced by species of Claviceps and possibly Cordyceps.
 Five species of Claviceps are considered: C. nigricans, C. paspali,
 C. purpurea (the classic ergot fungus), C. rolfesii, and C.
@@ -88,54 +88,3 @@ The fourth group is the most problematic from a scientific perspective.
 It includes fungi used as sacred by indigenous peoples around the
 world but for which no reliable chemical studies have confirmed the
 presence of known neurotropic compounds. This group contains several
-boletes in the genera Boletus (6 species), Heimiella (2 species), and
-Russula (6 species), as well as gasteromycetes including 6 species
-belonging to the Lycoperdales and Phallales. Many of these species
-were first reported as hallucinogenic by Heim (1963, 1966, 1978) from
-New Guinea, though Ott (1993) later stated that the boletes do not
-possess neurotropic properties. The puffballs used by the Mixtec
-Indians of Oaxaca, including Lycoperdon mixtecorum and L. marginatum,
-were reported as narcotic fungi but Ott et al. (1975) later showed
-that the [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]] were a mixture of at least nine species,
-most of which contained no active compounds. Despite these
-uncertainties, the authors retained these fungi in their checklist
-due to their cultural importance to indigenous communities.
-
-## The Bluing Reaction as a Diagnostic Criterion
-
-The bluing reaction serves as the primary practical criterion for
-identifying neurotropic fungi in the field and for evaluating species
-in the checklist. Guzmán, following Singer and Smith (1958) and his
-own monographic work (1983), considered a species neurotropic if it
-demonstrated the bluing feature, contained confirmed indolic
-substances, or showed evidence suggesting such substances. Species
-that do not blue and lack confirmed chemistry were generally excluded
-unless they had strong ethnobotanical documentation. This pragmatic
-approach balanced scientific rigor with respect for indigenous
-knowledge, producing a checklist that is both chemically grounded
-and culturally informed.
-
-## Taxonomic Implications of Chemical Grouping
-
-The four-group classification reveals that neurotropic properties
-have evolved independently multiple times across the fungal kingdom.
-Indole-containing species are scattered across more than a dozen
-genera in multiple families, indicating convergent evolution toward
-[[gottlieb-psilocybin-production-extraction-methods]]. The ergot alkaloid group represents a
-completely different biosynthetic pathway found in the Ascomycota,
-while the ibotenic acid group is restricted to the Amanitaceae
-within the Basidiomycota. The sacred fungi group highlights the
-possibility that additional, as yet unidentified psychoactive
-compounds may exist in fungi that have not been subjected to modern
-chemical analysis. This chemical diversity underscores the
-complexity of the neurotropic fungi as a biological category that
-defies simple taxonomic classification.
-
-## See also
-
-[[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-[[guzman-allen-gartz-psilocybin-volatility-specimen-age-degradation]]
-
-## See Also
-
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]

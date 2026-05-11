@@ -88,20 +88,6 @@ addition was adjusted to allow the evolved heat of the exothermic
 reaction to be removed by an external ice bath at a rate that kept the
 internal temperature within a degree of 25 deg C. When the addition was
 complete and there was no more heat being evolved, the reaction
-mixture was diluted with 3 volumes of H2O, and neutralized with solid
-K2CO3. All was extracted with 3x250 mL Et2O, and the removal of the
-solvent from the pooled extracts under vacuum gave 42 g of residue
-that appeared to be mainly phenol, with a little formate and aldehyde.
-This was dissolved in 200 mL of 10% NaOH, allowed to stand for 2 h at
-[[scythian-cannabis-steam-bath-ritual]] methyl iodide and the
-mixture was held on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. This was poured into
-aqueous base, and extracted with 3x100 mL CH2Cl2. Removal of the
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
 
 ## See Also
-
-- [[tma-2-entity-pihkal]]
-- [[idnna-entity-pihkal]]
+- [[methyl-j-entity-pihkal]]

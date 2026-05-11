@@ -1,5 +1,5 @@
 ---
-title: "mollison farm forestry and woodlot design and Woodlot Design in Permaculture"
+title: Mollison Farm Forestry And Woodlot Design
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -29,7 +30,7 @@ or forestry research centres.
 The [[query-benefits-of-integrating-chickens-into-permaculture]] trees into farm systems are
 numerous and well-documented:
 
-- Trees provide forages in hard times for livestock and
+- Trees provide forages [[gardening-in-hard-times]] for livestock and
   wildlife
 - Variation of product buffers economic changes in prices
 - A more assured income from tree crops, coupled with wider
@@ -51,7 +52,7 @@ sheep or geese.
 
 Many trees are hostile to pasture, competing for water or
 nutrients (forest eucalypts, some pines), while others are less
-competitive (Acacia melanoxylon, Eucalyptus camaldulensis,
+competitive (Acacia melanoxylon, [[eucalyptus-camaldulensis]],
 Grevillea robusta, [[permaculture-honey-locust-pod-fodder-system]]). Trees such as poplar, fig,
 willow, chestnut, oak, and pine may all provide forage and
 other products in the medium term.
@@ -62,12 +63,12 @@ Woodlots are planted primarily for forest yields, and although
 they provide shelter and some browse for livestock, are usually
 less integrated with livestock. Woodlot types include:
 
-- Firewood production on a 2-7 year rotation. Species chosen
+- Firewood production on a 2-7 [[jeavons-garden-planning-four-year-rotation]]. Species chosen
   for persistent coppice and good fuel value include tagasaste,
   Acacia species, Casuarina, and eucalypt species.
 - Polewood production for fencing, house, and furniture
   construction. Durable timbers include chestnut, raspberry jam
-  acacia, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], black or honey locust, and cedars.
+  acacia, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], black or [[comparison-black-locust-vs-honey-locust]], and cedars.
 - Long-term fine timbers such as black walnut, oak, rosewood,
   fine cedars, redwoods, and blackwood, planted as retirement
   trusts for farmers or their families.
@@ -87,62 +88,3 @@ dyes or tannin, medicinals, and mulches on a sustainable basis.
 ## Nursery Enterprises
 
 Support services for farm forestry include combined plant
-nurseries and new species collections providing seed, bud, and
-scion materials, vegetative propagules, and grafted, layered,
-or tissue-cultured plants. Important nursery enterprises include:
-
-- Bamboo nursery, together with canegrasses and large clump
-  grasses (bamboos are a currently neglected forestry)
-- Aquatic and edge plant nursery for fish forages, insectary
-  species, and marshland perennials
-- Berry fruit and vine nursery
-- Fish breeding for farm ponds
-- Poultry species for local conditions
-- Bee fodder plants and butterfly and insectivorous bird
-  attractors
-- Conservation and reforestation trees
-- Speciality nurseries for herbs, salt-affected areas,
-  medicinals, and food dyes
-
-None of these enterprises are competitive with each other.
-Troubles occur only where large investors create large areas
-of identical crops, usually from out-of-region investment.
-
-## The Danger of Monoculture Forestry
-
-A whole bioregional forestry devoted to one species of eucalypt
-or pine is the antithesis of a secure approach, setting up
-conditions for several undesirable results: glut conditions in
-market leading to depressed local economy; land ownership
-change based on remote ownership; catastrophic fire conditions
-(eucalypts and pines provide fuels for firestorm in settled
-districts); and displacement of bioregional needs by industrial
-feedstocks, causing unemployment and social disruption. All
-these problems have been developed by industrial, not regional
-or village, forestry.
-
-## Multiple Forest Types on One Farm
-
-There can be 5-6 types of forestry on any farm of 50 ha or more
-(or in and around villages), including orchard production. Some
-special forests are possible on specific sites such as swamps
-or acid uplands. Farm [[comparison-food-forest-design-vs-backyard-orchard-design]] should be oriented to site
-and purpose to enhance other farm enterprises, to supply local
-needs, and to give potential for a wide range of end products.
-
-## Design for Small Farms
-
-For very small farms, trees need to be carefully selected and
-placed to maximise short- to medium-term uses (forage, mulch,
-honey, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in soils), to assist crop and building
-efficiency, and to assist the microclimate of the property.
-Small farm design needs as much detailing as large forest
-design systems.
-
-## See Also
-
-- [[mollison-farm-dam-design-modifications]]
-
-- [[woodlot-and-coppicing]]
-- [[mollison-tree-biomass-and-forest-as-living-entity]]
-- mollison-windbreak-design

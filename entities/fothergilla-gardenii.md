@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
-  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
+  - Weakley, A.S. (2023). Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]. University of [[north-carolina-mycodiversity]] Herbarium.
   - Royal Horticultural Society (2024). "Fothergilla." https://www.rhs.org.uk/
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
 ---
@@ -36,7 +36,7 @@ botanist who practiced in Charleston, South Carolina.
 
 Fothergilla gardenii was described by Linnaeus in 1765 and is classified in
 the family Hamamelidaceae. The genus contains only two species, with the other
-being the larger Fothergilla major.
+being the larger [[fothergilla-major]].
 
 The shrub is low and mounding, typically reaching 0.6 to 1 meter in height and
 1 to 1.5 meters in width. It forms dense colonies through slow suckering from
@@ -69,12 +69,12 @@ edges of swamps and seepage slopes. It prefers acidic, organic-rich soils with
 consistent moisture.
 
 It grows at low elevations, typically below 100 meters, in the Atlantic and
-Gulf coastal plains. The species is adapted to the warm, humid climate of the
+Gulf coastal plains. The species is adapted to the warm, [[mollison-designers-cool-humid-climate-design-overview]] of the
 southeastern coastal plain.
 
 Dwarf fothergilla is hardy to USDA Zone 5, making it suitable for cultivation
 well beyond its native range. It is grown successfully in the northeastern
-United States, the Pacific Northwest, and parts of Europe.
+United States, the [[psilocybin-north-america-pacific-northwest]], and parts of Europe.
 
 ## Ecology and Pollinators
 
@@ -84,66 +84,7 @@ bloom provides a critical nectar source when few other woody plants are in
 flower.
 
 The flowers are protandrous, with anthers releasing pollen before the stigmas
-become receptive. This promotes cross-pollination and genetic diversity within
+become receptive. This promotes cross-pollination and [[biodiversity-fungal-genetic-diversity]] within
 populations.
 
 In its native habitat, dwarf fothergilla is a component of pocosin and wetland
-shrub communities, associating with Atlantic white cedar and sweetbay magnolia.
-
-The dense, low-growing habit provides cover for ground-nesting birds. The
-foliage is generally avoided by deer, making it useful for landscapes with
-heavy browsing pressure.
-
-The species has no significant pest or disease problems. Root rot can occur in
-poorly drained soils but is uncommon in sites matching its native conditions.
-
-## Cultivation
-
-Fothergilla gardenii is propagated from softwood cuttings taken in early
-summer, with rooting occurring under mist in 4 to 6 weeks. Seed propagation
-requires cold stratification for 60 to 90 days.
-
-The species performs best in full sun to partial shade with consistently moist,
-acidic soil. It tolerates periodic flooding and seasonal wetness, reflecting
-its native wetland habitat.
-
-Unlike many ornamental shrubs, dwarf fothergilla does not require regular
-pruning. Its naturally compact, mounding form is one of its principal
-landscape attributes. Removal of dead wood is the only routine maintenance.
-
-The shrub is slow-growing, typically adding 5 to 10 centimeters of height per
-year. It may take 5 to 7 years to reach mature dimensions in the landscape.
-
-A layer of organic mulch helps conserve soil moisture and maintain acidic
-conditions. The species responds poorly to alkaline soils above pH 6.5.
-
-## Uses and Landscaping
-
-Dwarf fothergilla is used as a low specimen shrub, in mass plantings, mixed
-borders, rock gardens, and as an alternative to invasive species such as
-burning bush for fall color.
-
-Its compact size makes it suitable for smaller residential gardens where larger
-shrubs would overwhelm the space. It works well at the front of borders or as
-an edging plant along pathways.
-
-The species combines beautifully with other native acid-loving plants including
-azaleas, blueberries, and mountain laurel. Its white spring flowers contrast
-effectively with pink and purple spring-blooming companions.
-
-Fothergilla gardenii is increasingly recommended for ecological landscaping,
-rain gardens, and bioswales due to its tolerance of wet conditions and its
-value to native pollinators.
-
-The species has received the Award of Garden Merit from the Royal Horticultural
-Society and is widely available in the North American nursery trade.
-## See Also
-
-- [[hamamelis-virginiana]]
-- [[viburnum-dentatum]]
-- [[cornus-florida]]
-- [[kalmia-latifolia]]
-- [[rhododendron-maximum]]
-- [[spiraea-japonica]]
-- [[vaccinium-corymbosum-entity]]
-- [[gaultheria-procumbens]]

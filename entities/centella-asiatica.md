@@ -32,7 +32,7 @@ sources:
 
 ## Overview
 
-**Centella asiatica** (L.) Urb., commonly known as gotu kola, Indian pennywort, or spadeleaf, is a herbaceous perennial in the family Apiaceae. Native to tropical and temperate regions of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and Southeast Asian folk medicine. Known as *Mandukaparni* in Sanskrit ("frog-leaved"), it is classified as a **Medhya Rasayana** — a rejuvenating intellect tonic. Modern research focuses on its triterpenoid saponins (asiaticoside, madecassoside) for wound healing, venous insufficiency, cognitive enhancement, and anxiolytic effects. It also serves as a living [[fukuoka-citrus-orchard-ground-cover-cultivation]] in permaculture and a phytoremediation tool for [[dighton-fungal-biosorption-heavy-metal-remediation]] extraction.
+**Centella asiatica** (L.) Urb., commonly known as [[comparison-gotu-kola-vs-chinese-skullcap]], Indian pennywort, or spadeleaf, is a herbaceous perennial in the family Apiaceae. Native to tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Africa, Asia, Australia, and the western Pacific, it has been used for millennia in Ayurveda, Traditional Chinese Medicine (TCM), and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] folk medicine. Known as *Mandukaparni* in Sanskrit ("frog-leaved"), it is classified as a **Medhya Rasayana** — a rejuvenating intellect tonic. Modern research focuses on its triterpenoid saponins (asiaticoside, madecassoside) for wound healing, venous insufficiency, cognitive enhancement, and anxiolytic effects. It also serves as a living [[fukuoka-citrus-orchard-ground-cover-cultivation]] in permaculture and a phytoremediation tool for [[dighton-fungal-biosorption-heavy-metal-remediation]] extraction.
 
 ## Botanical Description
 
@@ -47,9 +47,9 @@ sources:
 | **Roots** | Rhizomatous rootstock, cream-colored, growing vertically |
 | **Chromosomes** | Diploid, tetraploid, or hexaploid (2n = 18/36/54) |
 
-Native to the Indian subcontinent, Southeast Asia, tropical Africa, Australia, and wetland regions of the southeastern US. Thrives in swampy areas, marshes, and damp soils from sea level to ~1,800 m. Considered invasive on several Pacific islands (Hawaii, French Polynesia, Seychelles). Crop matures in approximately 3 months.
+Native to the Indian subcontinent, Southeast Asia, tropical Africa, Australia, and wetland regions of the southeastern US. Thrives in swampy areas, marshes, and damp soils from sea level to ~1,800 m. Considered invasive on several [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] (Hawaii, French Polynesia, Seychelles). Crop matures in approximately 3 months.
 
-**Note:** In Southern India, *Centella asiatica* is called "Brahmi" or "Vallarai," while *Bacopa monnieri* is "Neer Brahmi." In Northern India the names are reversed — a frequent source of commercial misidentification.
+**Note:** In Southern India, *Centella asiatica* is called "Brahmi" or "Vallarai," while *[[bacopa-monnieri]]* is "Neer Brahmi." In Northern India the names are reversed — a frequent source of commercial misidentification.
 
 ## Phytochemistry
 
@@ -87,37 +87,3 @@ Inhibits NF-κB, COX-2, and iNOS expression. Reduces pro-inflammatory cytokines 
 
 ### Anxiolytic and Nootropic
 Inhibits acetylcholinesterase (AChE), enhancing cholinergic transmission. Modulates serotonin, dopamine, and norepinephrine systems. Enhances GABA-A [[tihkal-receptor-binding-serotonin]]. Upregulates BDNF and NGF expression. Reverses scopolamine-induced memory deficits in animal models.
-
-### Venotropic Activity
-Strengthens venous vessel walls, improves venous tone, reduces capillary permeability and edema. Basis for European phytomedicine use in chronic venous insufficiency.
-
-## Medicinal Applications
-
-### Chronic Venous Insufficiency
-Best-supported clinical application. Multiple RCTs show significant improvement in ankle edema, heaviness, and pain at 60–120 mg/day of standardized extract (~30–60 mg total triterpenoids). Approved as prescription phytomedicine in some European countries.
-
-### Wound Healing and Skin Repair
-Topical and oral preparations accelerate healing of surgical wounds, burns, diabetic ulcers, and keloids. Creams with 1% asiaticoside widely used in dermatology. Also studied for preventing stretch marks (striae gravidarum).
-
-### Cognitive Enhancement
-Modest improvements in memory, attention, and executive function in elderly subjects after 8–12 weeks at 500–1,000 mg/day of standardized leaf extract.
-
-### Anxiety and Stress
-Significant reductions in Hamilton Anxiety Rating Scale scores after 60 days at 500 mg/day. Anxiolytic effect comparable to low-dose benzodiazepines in some studies, without sedation.
-
-## Cultivation and Permaculture
-
-- **Climate:** Tropical to subtropical; USDA zones 7–11
-- **Soil:** Prefers moist to wet soils; tolerates waterlogging and boggy conditions
-- **Light:** Partial shade to full sun; shade produces larger, more tender leaves
-- **Propagation:** Primarily by stolon cuttings — nodal segments root within 1–2 weeks. Spacing: 30–45 cm
-- **Harvest:** Aerial parts every 2–3 months once established
-
-### Permaculture Functions
-- **Living ground cover:** Dense, weed-suppressing mat for food forest understories
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Stabilizes moist banks and wetland edges
-- **Phytoremediation:** Extracts [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (lead, cadmium, arsenic) from contaminated soils
-- **[[bacopa-monnieri]] — fellow Medhya Rasayana herb, often confused with Centella
-- [[ginkgo-biloba]] — nootropic herb for circulation and memory
-- [[rhodiola-rosea]] — adaptogenic herb for fatigue and mental performance
-- triterpenoid saponins — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in medicinal plants

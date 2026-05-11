@@ -3,6 +3,7 @@ title: "Fukuoka Natural Way of Farming - Theory of Natural Farming"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Fukuoka - The Natural Way of Farming: The Theory and Practice of Green Philosophy (Masanobu Fukuoka)"
 type: concept
 tags: [fukuoka, natural-farming]
@@ -87,15 +88,3 @@ The ideal farmer lives "in concert with nature, free of plans, designs, and effo
 ## Legacy and Influence
 
 While Fukuoka feared natural farming would "never be perfected" and "never see general application in its true form," he hoped it would "serve as a brake to slow the mad onslaught of scientific agriculture." The "Happy Hill" rice strain he developed -- a hardy variety yielding 5,000 grains from a single seed in one year -- represents his practical contribution to food security, capable of expanding to feed a nation within four years through natural [[synthetic-log-cultivation-methods-guide]].
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-critique-organic-farming-ecology]]
-- [[fukuoka-compost-unnecessary-philosophy]]
-- [[fukuoka-clay-pellet-desert-greening]]
-- [[fukuoka-decentralized-self-sufficient-communities]]
-- [[no-tillage-grain-systems]]
-- [[permaculture-farm-design-principles]]

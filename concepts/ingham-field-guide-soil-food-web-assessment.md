@@ -3,6 +3,7 @@ title: "Ingham Field Guide: Soil Food Web Assessment"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: concept
 tags: [soil]
@@ -87,25 +88,3 @@ The assessment directly determines what kind of tea to brew:
 - The goal is to match the F:B ratio to the successional stage of the desired plant community
 
 ## Seasonal Monitoring
-
-The foodweb changes through the year. SFI has published data showing how active and total organisms shift with soil type, season, and plant communities. Regular monitoring tracks whether management practices are moving the foodweb in the desired direction. After 4-5 years of healthy management, application rates can decrease to seasonal-only.
-
-## Nutrient Cycling Assessment
-
-The foodweb assessment also reveals nutrient dynamics:
-- Total bacterial and fungal biomass indicates nutrient retention capacity
-- Protozoa and nematode numbers indicate nutrient cycling rate
-- If bacteria and fungi are present but protozoa are absent, nutrients are immobilized but not cycling to plants
-- Compost provides approximately 25 lbs of N per acre; N is recycled through the foodweb until the plant takes it up
-
-## See Also
-
-- [[soil-food-web-assessment]]
-- [[soil-food-web]]
-- [[soil-food-web-nutrient-cycling]]
-- [[microscope-identification-soil-organisms]]
-- [[aact-compost-quality-standards-ingham]]
-- [[bacterial-to-fungal-soil-succession]]
-- [[nematode-roles-in-soil]]
-- mycorrhizal-fungi-in-aact
-- [[keyline-design]]

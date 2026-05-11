@@ -88,28 +88,3 @@ Recovery of *C. chlorophaea* populations has been documented following reduction
 The photobiont partner is typically a unicellular green alga of the genus *Asterochloris*. Photobiont identity can influence the growth rate and chemical profile of the lichen thallus.
 
 In permafrost-affected soils of the boreal zone, *C. chlorophaea* contributes to the development of biological soil crusts. These crusts play a role in nitrogen and carbon cycling in cold ecosystems.
-
-## Similar Species
-
-*Cladonia pyxidata* is the most similar species, distinguished by its coarser squamules, broader cups, and the presence of farinose soredia on the podetia surface.
-
-*Cladonia fimbriata* has podetia that are more extensively sorediate and typically form pointed tips rather than distinct cups. Its chemistry also differs, usually containing fumarprotocetraric and thamnolic acids.
-
-*Cladonia deformis* has more robust podetia and a distinctively proliferating cup margin. It is less common and typically found in more northern or alpine habitats.
-
-*Cladonia coniocraea* lacks well-developed cups and has more decumbent, strap-shaped podetia. It often grows intermixed with *C. chlorophaea* in similar habitats but is chemically distinct.
-
-*Cladonia chlorophaea* sensu lato has been variously split by different authors. Some chemotypes have been elevated to species rank, including *C. grayi* (grayanic acid chemotype) in some treatments.
-
-Field identification requires careful examination of podetia morphology, soredia presence, and chemistry. Beginners frequently confuse *C. chlorophaea* with several other cup-forming *Cladonia* species that co-occur in the same habitats.
-
-Molecular phylogenetic studies have confirmed that *C. chlorophaea* is a distinct lineage within the *Cladonia* clade. However, relationships within the *C. pyxidata* species complex remain partially unresolved.
-
-## See Also
-
-- [[cladonia-pyxidata]]
-- [[cladonia-portentosa]]
-- [[usnea-barbata]]
-- [[hypogymnia-physodes]]
-- [[flavoparmelia-caperata]]
-- [[mycology]]

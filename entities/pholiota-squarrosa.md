@@ -22,7 +22,7 @@ sources:
   - Noordeloos, M.E. (2011). "Strophariaceae s.l." Funga Europaea 13: 1–636.
   - Courtecuisse, R. & Duhem, B. (1995). "Mushrooms and Toadstools of Britain and Europe." HarperCollins.
   - Kuo, M. (2024). "Pholiota squarrosa." MushroomExpert.com. https://www.mushroomexpert.com/pholiota_squarrosa.html
-  - Stamets, P. (1996). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
+  - Stamets, P. (1996). "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
 ---
 
 # Pholiota squarrosa
@@ -34,7 +34,7 @@ is a saprotrophic and weakly parasitic basidiomycete fungus in the family
 Strophariaceae. It is immediately recognizable by its dry, prominently scaly
 cap and stipe, giving it a bristly, almost reptilian appearance. The species
 grows in dense clusters on living or dead hardwood trees, particularly oak,
-elm, and beech, and is widespread across temperate regions of the Northern
+elm, and beech, and is widespread across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
 Hemisphere.
 
 Although P. squarrosa is technically edible after thorough cooking, it is
@@ -62,7 +62,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Strophariaceae → *Pholio
   to cinnamon-brown with maturity as spores mature. Crowded.
 - **Stipe:** 4–12 cm long, 0.5–1.5 cm thick, cylindrical with a slightly
   clavate base. Surface pale yellow below the ring zone, covered with scales
-  similar to those on the cap. Partial veil forms a persistent membranous ring.
+  similar to those on the cap. [[partial-veil-tropism-protection-before-spore-release]] forms a persistent membranous ring.
 - **Flesh:** Whitish to pale yellow, firm. Odor mild or slightly farinaceous.
   Taste distinctly bitter to acrid — the main reason it is not widely eaten.
 - **[[comparison-spore-print-collection-vs-spore-syringe-production]]:** Rusty brown to cinnamon-brown (Ferruginous).
@@ -85,39 +85,6 @@ Basidiomycota → Agaricomycetes → Agaricales → **Strophariaceae → *Pholio
 ## Bioactive Compounds
 
 - **Polysaccharides:** Beta-glucans and other immunomodulatory polysaccharides
-  have been isolated from fruiting bodies, consistent with findings across
+  have been isolated from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], consistent with findings across
   the genus Pholiota.
 - **Strobilurins:** Some Pholiota species produce strobilurin compounds with
-  antifungal activity; P. squarrosa has not been specifically studied for
-  these metabolites but shares the biosynthetic potential of the genus.
-- **Flavonoids and phenolic compounds:** Antioxidant constituents documented
-  in related Pholiota species.
-
-## Edibility and Toxicity
-
-P. squarrosa is generally classified as edible but undesirable. The bitter
-taste persists through cooking and the flesh can be slimy when cooked. Some
-sources recommend parboiling before further preparation. A small number of
-reports document gastrointestinal upset following consumption, suggesting
-individual sensitivity or confusion with lookalike species.
-
-**Important:** P. squarrosa should be distinguished from the deadly
-*Galerina marginata*, which can grow in similar clustered habits on wood.
-Galerina has a brown spore print that is similar in color, but its scales
-are far less prominent, the ring is less substantial, and it grows more
-commonly on conifer debris.
-
-## Similar Species
-
-- **Pholiota squarrosoides** — Very similar but with a slimy, glutinous cap
-  surface and scales that wash off easily in rain; flesh is less bitter.
-- **Pholiota aurivella** — Larger, with golden-yellow scales; grows on
-  hardwoods and conifers. Edible and better-regarded.
-- **Galerina marginata** — Deadly poisonous; has a brown spore print, less
-  conspicuous scales, and a less substantial ring.
-
-## See Also
-
-- [[pholiota-adiposa]]
-- [[galerina-marginata]]
-- [[trametes-versicolor-entity]]

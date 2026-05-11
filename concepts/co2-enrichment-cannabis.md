@@ -1,5 +1,5 @@
 ---
-title: CO2 [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
+title: Co2 Enrichment Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:

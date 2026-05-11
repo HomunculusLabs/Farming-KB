@@ -88,16 +88,3 @@ Psilocybe caerulescens contains the classic psilocybin mushroom alkaloid profile
 - **Baeocystin:** 0.01-0.10% dry weight (present in most collections)
 
 **Total tryptamine content:** Approximately 0.2-0.8% dry weight, placing it in the moderate potency range among Psilocybe species — less potent than [[psilocybe-cyanescens]], comparable to [[psilocybe-mexicana]] under the name *derrumbe* (landslide), referencing their growth habitat.
-
-**Wasson expedition:** Roger Heim identified collections from Wasson's 1955-1956 expeditions as P. zapotecorum and P. caerulescens var. mazatecorum. These identifications contributed to the scientific validation of Mesoamerican mushroom cults and ultimately led to Albert Hofmann's isolation of psilocybin in 1958.
-
-**Traditional use context:** Consumed in nocturnal healing ceremonies (*veladas*) led by a curandero. The mushrooms are regarded as sentient spiritual beings rather than mere drugs. Ceremonies involve prayer, chanting, and diagnostic divination for illness.
-
-## Cultivation
-
-Cultivation of P. caerulescens is less documented than [[psilocybe-mexicana]] — Close relative with overlapping Mazatec traditional use
-
-## See Also
-
-- psilocybin-mushroom-potency-comparison-by-species
-- [[psilocybin-mushroom]]

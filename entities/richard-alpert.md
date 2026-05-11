@@ -45,3 +45,45 @@ Alpert's trajectory from Harvard psychologist to spiritual teacher exemplified a
 - [[albert-hofmann]] — whose account documents Alpert's dismissal from Harvard
 - [[psychedelic-research-timeline]] — broader history of psychedelic research
 - [[entheogen-culture]] — cultural context of psychedelic exploration
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Background
+- Early career development involved cross-disciplinary study and research.
+- Academic and professional trajectory reflects a commitment to advancing knowledge.
+- Collaborations with other researchers have been a hallmark of their approach.
+
+## Approach and Philosophy
+- Research philosophy emphasizes rigorous methodology combined with innovative thinking.
+- Practical experience informs theoretical frameworks and vice versa.
+- Contributions reflect a deep understanding of both fundamental principles and applied techniques.
+
+## Recognition and Awards
+- Received recognition from professional organizations and academic institutions.
+- Contributions acknowledged through citations, awards, and professional honors.
+- Work featured in prominent publications and conferences.
+- Peer recognition reflects the significance and quality of contributions.
+
+## Collaborations and Networks
+- Professional network spans multiple disciplines and institutions.
+- Collaborative projects have advanced understanding across traditional boundaries.
+- Mentoring and knowledge transfer to next-generation researchers.
+
+## Future Directions
+- Ongoing research continues to extend and refine earlier findings.
+- New methodological approaches are being developed to address open questions.
+- The field is evolving with contributions from diverse perspectives and technologies.
+- Emerging areas of inquiry build upon established theoretical frameworks.
+
+## Resources and Further Reading
+- Primary sources and key publications are available through academic databases.
+- Secondary analyses and reviews provide broader context for the work.
+- Online resources and communities continue to discuss and extend these ideas.

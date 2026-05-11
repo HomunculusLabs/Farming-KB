@@ -87,22 +87,3 @@ In Japan, the root (Hamabofu) has historically been used in Kampo medicine for c
 The young leaves and stems are also consumed as a coastal vegetable in some Japanese regions, where they are blanched and served with soy sauce or miso. This culinary use is relatively localized and not widely known outside coastal communities.
 
 ## Ecology and Applications
-
-G. littoralis is a psammophyte (sand-loving plant) specialized for coastal dune environments. It stabilizes sand through an extensive root system and contributes to dune succession by trapping wind-blown sand and creating microhabitats for other species.
-
-The species is adapted to saline conditions, salt spray, and periodic sand burial. Its thick waxy leaves and deep taproot enable survival in the nutrient-poor, drought-prone, and physically dynamic beach environment.
-
-The plant is pollinated by a variety of generalist insects including flies, small bees, and beetles. Its coastal habitat means it provides nectar and pollen resources in an ecosystem where flowering plants are relatively scarce.
-
-Conservation status varies by region. In parts of China, wild populations have declined due to coastal development and overharvesting for the medicinal root trade. The species is listed as a protected plant in several Chinese provinces.
-
-In coastal restoration projects, G. littoralis has been planted for dune stabilization and as a component of native coastal vegetation restoration. Its ornamental value (attractive white umbels and silvery foliage) has also led to limited use in seaside gardens.
-
-## See Also
-
-- [[coriandrum-sativum]]
-- [[rehmannia-glutinosa]]
-- [[polygonatum-biflorum]]
-- atractylodes macrocephala
-- [[astragalus-membranaceus]]
-- [[borago-officinalis]]

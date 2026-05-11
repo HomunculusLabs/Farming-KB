@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Stropharia rugosoannulata**, commonly known as the wine cap mushroom, garden giant, burgundy mushroom, or king stropharia, is a large edible basidiomycete fungus in the family Strophariaceae. It is one of the most versatile and accessible mushrooms for permaculture and home cultivation, valued both as a culinary species and for its remarkable ecological functions in soil building, water filtration, and bioremediation.
+**Stropharia rugosoannulata**, commonly known as the wine cap mushroom, garden giant, burgundy mushroom, or king stropharia, is a large edible basidiomycete fungus in the family Strophariaceae. It is one of the most versatile and accessible mushrooms for permaculture and home cultivation, valued both as a culinary species and for its remarkable [[fungal-melanin-biosynthesis-ecological-functions]] in soil building, water filtration, and bioremediation.
 
 First described by Czech mycologist Julius Vincenz von Krombholz in 1836, *S. rugosoannulata* has gained prominence in the permaculture movement through the work of [[stropharia-rugosoannulata-permaculture]]
 - [[kings-stropharia-garden-giant]] Species
@@ -37,7 +37,7 @@ The genus *Stropharia* contains approximately 30 species. Notable relatives incl
 - **Shape:** Convex when young, expanding to broadly convex or plano-convex with age; occasionally with a slight umbo
 - **Color:** Highly variable — burgundy, wine-red, reddish-brown, or copper-colored when young, fading to tan or pale ochre with age. Cap color is strongly influenced by light exposure; mushrooms grown in shade tend to be lighter.
 - **Surface:** Smooth and slightly viscid when moist (hygrophanous), often developing small scales (squamules) as it expands
-- **Margin:** Inrolled when young, decurved with age; occasionally with remnants of the partial veil attached
+- **Margin:** Inrolled when young, decurved with age; occasionally with remnants of the [[partial-veil-tropism-protection-before-spore-release]] attached
 
 ### Gills (Lamellae)
 - **Attachment:** Adnate to slightly decurrent (running slightly down the stem)
@@ -72,47 +72,19 @@ The genus *Stropharia* contains approximately 30 species. Notable relatives incl
 - Compost piles and amended garden soil
 - Edges of forests and clearings
 - Riverbanks and riparian zones (particularly on willow debris)
-- Pastures and meadows with decaying organic matter
+- Pastures and meadows with decaying [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 
 ### Geographic Distribution
 - **Native range:** Europe, temperate Asia
-- **Introduced/naturalized:** North America (widespread), South America, Australia, New Zealand
+- **Introduced/naturalized:** [[guzman-psilocybin-mushrooms-north-america]] (widespread), [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand
 - **Cultivated worldwide:** Grown commercially and in permaculture systems across temperate and subtropical regions
 
 The species fruits from spring through autumn (May–October in the Northern Hemisphere), with peak fruiting in early summer and again in early autumn. It is particularly prolific after heavy rainfall when temperatures are between 15–25°C.
 
 ## Cultivation
 
-*Stropharia rugosoannulata* is one of the easiest mushrooms to cultivate outdoors and is ideally suited for permaculture integration:
+*Stropharia rugosoannulata* is one of the easiest mushrooms to cultivate outdoors and is ideally suited for [[mycological-permaculture-integration]]:
 
 ### Substrate Requirements
 - **Primary substrate:** Hardwood chips or sawdust (oak, beech, maple, alder, willow)
 - **Supplementary substrate:** Straw, hay, [[fungi-in-composting-and-agricultural-waste-conversion]]
-- **Amendments:** Compost, manure (aged), leaf mold
-- **Substrate pH:** 5.5–7.5 (broadly tolerant)
-
-### Outdoor Bed Method (Most Common)
-1. Select a shaded or partially shaded location (under trees, along fences, in garden pathways)
-2. Prepare a bed 10–20 cm deep, 1–3 m long, in wood chips or a straw/chip mix
-3. Inoculate with grain spawn or cardboard-grown mycelium at 10–20% by volume
-4. Cover with additional wood chips and water thoroughly
-5. Maintain moisture (keep consistently moist but not waterlogged)
-6. First fruiting typically occurs 4–12 months after inoculation
-7. Beds can be productive for 3–7 years with occasional chip replenishment
-
-### Key Cultivation Parameters
-- **Temperature for mycelial growth:** 18–25°C (optimal 20–22°C)
-- **Temperature for fruiting:** 12–20°C
-- **Relative humidity:** 80–95%
-- **Light:** Indirect or dappled sunlight; tolerant of low light
-- **Moisture:** Requires consistent moisture; benefits from mulch layer to retain water
-- **CO₂ tolerance:** High — can fruit in relatively CO₂-rich environments, making it suitable for raised beds
-
-### [[building-soil]] organic matter and water-holding capacity
-- Creating self-sustaining fertility cycles in food forests
-### Water Filtration
-*Stropharia rugosoannulata* has demonstrated exceptional capacity for biological water filtration:
-- Mycelial mats can be established in swales, drainage channels, and [[comparison-constructed-wetlands-vs-bioswales]]
-- Effectively filters *E. coli*, *Salmonella*, and *Staphylococcus* from greywater and agricultural runoff
-- Paul Stamets' research demonstrated that wine cap mycelium reduced coliform bacteria in downstream water by 99%
-- Can be used in bioswale systems along roadsides and agricultural field margins

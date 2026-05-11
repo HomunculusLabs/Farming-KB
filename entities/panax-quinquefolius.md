@@ -88,49 +88,7 @@ sources:
 
 ### Traditional Chinese Medicine (TCM)
 - Classified as a **yin tonic** (cooling, nourishing)
-- Counterpart to Asian ginseng (*P. ginseng*), which is a **yang tonic** (warming, stimulating)
-- Indicated for: yin deficiency with heat signs, irritability, thirst, night sweats
-- Nourishes lung and kidney yin; generates fluids
-- Major export commodity to China since the 18th century
-
-### Modern Pharmacological Evidence
-- **Adaptogenic activity:** Modulates HPA axis; reduces stress-induced cortisol elevation
-- **Cognitive enhancement:** Improved working memory and attention in [[mushroom-cancer-clinical-trials-overview]]
-- **[[cancer-immune-modulation-mechanisms]]:** Enhanced natural killer cell activity; improved vaccine response
-- **Blood sugar regulation:** Reduces postprandial glycemia; potential adjunct in type 2 diabetes
-- **Anti-inflammatory:** NF-κB pathway inhibition via ginsenosides
-- **Safety:** Generally well tolerated; possible interactions with anticoagulants and hypoglycemics
-
-## Cultivation & Ecology
-
-### Habitat Requirements
-- **Soil:** Well-drained, loamy, high org anic-matter; pH 5.5–6.5
-- **Light:** 70–80% shade; dappled woodland canopy ideal
-- **Moisture:** Consistent; prefers 35–50 inches annual precipitation
-- **Temperature:** Cold stratification required; winter dormancy essential
-
-### Cultivation Methods
-- **Wild-simulated:** Seeds planted in natural forest habitat; minimal intervention; 7–10 [[hamilton-three-year-crop-rotation]]; highest market value
-- **Woods-cultivated:** Tilled forest beds with some fertilization; 5–7 years
-- **Artificial shade:** Intensive field production under shade cloth; 3–4 years; lower ginsenoside content
-- **Stratification:** Seeds require 18–22 months cold-moist stratification before germination
-
-### Production & Trade
-- **Largest US producer:** Wisconsin (Marathon County — "Ginseng Capital of the World")
-- **Other US production:** Ontario (Canada), West Virginia, Tennessee, North Carolina
-- **Major export market:** China and Hong Kong (accounts for >80% of US export)
-- **Annual US farm value:** $20–30 million (varies with market price)
-- **Root price range:** $300–$1000+ per dry pound (wild-simulated commands premium)
-
-### Conservation Status
-- **IUCN Red List:** Endangered (EN)
-- **CITES:** Appendix II (international trade regulated since 1975)
-- **USFWS:** Harvest of wild plants prohibited on federal lands; permits required on some state lands
-- **Threats:** Overharvesting, habitat loss (deforestation, urbanization), poaching, [[dighton-fungi-climate-change-feedback]]
-- **Wild population decline:** Estimated 60–80% reduction over the past century
-
-## Wiki Relevance
 
 ## See Also
-- [[teaming-with-nutrients-essential-plant-nutrients]]
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
+- [[comparison-panax-ginseng-vs-siberian-ginseng]]
+- [[comparison-ginkgo-biloba-vs-panax-ginseng]]

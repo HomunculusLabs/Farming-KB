@@ -1,5 +1,5 @@
 ---
-title: bloomfield boletus satanus edible mushroom hazards and the Hazards of Edible psilocybin-mushroom-identification-guide
+title: Bloomfield Boletus Satanus Edible Mushroom Hazards
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 # Boletus satanus and the Hazards of Edible Mushroom Identification
 
-Nicholas Money's account of accidentally consuming Satan's
+[[nicholas-money]]'s account of accidentally consuming Satan's
 bolete provides a vivid illustration of the genuine risks
 surrounding [[emcdda-wild-mushroom-foraging-misidentification-hazards]] identification. The incident, recounted
 with characteristic humor, also opens a window into the broader
@@ -51,7 +51,7 @@ poisonous boletes remain unknown.
 Money compounds the lesson with a second culinary misadventure.
 Attempting to impress colleagues and students, he cooked the dryad's
 saddle (Polyporus squamosus) using a saffron-flavored stew recipe
-from a field guide. The fresh fruiting bodies emitted a strong
+from a [[field-guide-psilocybin-bluing-reaction-identification]]. The fresh [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] emitted a strong
 perfume resembling cheap cologne. As the broth simmered, the scent
 intensified until it matched the pungency of a slaughterhouse
 disinfectant. Removing the lid before his guests arrived, Money
@@ -64,7 +64,7 @@ guidebooks that describe a species as edible can lead to profoundly
 unpleasant culinary experiences. Edibility is not a binary
 property. Individual sensitivity varies enormously, and preparation
 methods can dramatically alter both flavor and safety. Even the
-delicious sulfur shelf (Laetiporus sulphureus) sickens some people.
+delicious sulfur shelf ([[laetiporus-sulphureus]]) sickens some people.
 
 ## The Galerina Identification Challenge
 
@@ -87,54 +87,3 @@ consequences of misidentification range from gastrointestinal
 distress to death. Between ten and twenty Galerina fruiting bodies
 constitute a lethal dose of amatoxins, the same toxins found in
 destroying angels and death caps.
-
-## Captain Charles McIlvaine and Mycophagist Eccentricity
-
-Money introduces Captain Charles McIlvaine, coauthor of "One
-Thousand American Fungi," as an extreme example of mycophagist
-enthusiasm. McIlvaine celebrated the culinary merits of earth
-tongues, phallic mushrooms, earthstars, and birch conks, though
-even he refused to eat false morels. David Arora discusses
-McIlvaine's "psychosis" in "Mushrooms Demystified" and quotes an
-equally eccentric mycologist, Luen Miller, whose assessment of a
-waxy [[wine-cap-mushroom-cultivation]] reads like parody of food criticism.
-
-The culture of mycophagy attracts personalities who find deep
-satisfaction in eating things that others reject. This eccentricity
-is partly a response to the genuine nutritional value of many
-fungi, but also reflects a desire to demonstrate mastery over the
-natural world through consumption of its most intimidating
-products. The willingness to eat phallic mushrooms and tree
-conks marks a particular kind of adventurousness that is far from
-universal.
-
-## Lessons for Mushroom Foragers
-
-The cumulative lesson of Money's misadventures is that mushroom
-foraging demands humility. Guidebooks provide general guidance
-but cannot substitute for expert knowledge accumulated through
-years of field experience. Even experts make mistakes, as Money's
-Satan's bolete incident demonstrates. The stakes of those mistakes
-range from an unpleasant evening to acute liver failure.
-
-Money's advice, implicit in his narratives, is straightforward:
-approach wild mushroom consumption with extreme caution, test
-small quantities before committing to a full meal, and never
-assume that a mushroom is safe because it resembles something
-you have eaten before. The fungal kingdom's chemical diversity
-means that closely related species can differ dramatically in
-their toxicity profiles.
-
-## See also
-
-- bloomfield-poisonous-mushrooms-and-mycotoxins
-- [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
-- bloomfields-orchard-mushroom-hunting-and-identification
-## See Also
-
-- [[edible-agarics]]
-- [[nicholas-money]]
-- mushroom-identification
-- [[laetiporus-sulphureus]]
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]

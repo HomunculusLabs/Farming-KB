@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, S.G. (2002). "Eleocharis." Flora of North America North of Mexico, Vol. 23.
+  - Smith, S.G. (2002). "Eleocharis." Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 23.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
   - USDA NRCS (2024). The PLANTS Database. National Plant Data Team, Greensboro, NC.
   - Strong, A.S. (2020). "Eleocharis (Cyperaceae) of the Continental United States and Canada." Memoirs of the New York Botanical Garden.
@@ -56,15 +56,15 @@ It occurs in vernal pools, pond margins, reservoir drawdown zones, muddy ditches
 
 The species is equally common in natural wetlands and anthropogenic habitats such as agricultural ditches, construction sites, and stormwater retention areas. This adaptability contributes to its wide distribution.
 
-The species is tolerant of a wide range of soil textures including clay, silt, and sand. It establishes readily on mineral soils with low organic matter where competition from perennial species is limited.
+The species is tolerant of a wide range of soil textures including clay, silt, and sand. It establishes readily on mineral soils with low [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] where competition from perennial species is limited.
 
-Elevation ranges from near sea level to approximately 2500 m in the Rocky Mountains. It is absent from most arid regions of the southwestern United States.
+Elevation ranges from near sea level to approximately 2500 m in the Rocky Mountains. It is absent from most [[fukuoka-natural-farming-in-arid-regions]] of the southwestern United States.
 
 At high elevations it is restricted to snowmelt-fed wetlands and alpine pool margins. Populations above 2000 m are typically smaller in stature and produce fewer achenes than lowland populations.
 
 ## Ecology
 
-Eleocharis obtusa is a pioneer species that colonizes bare wet substrates following disturbance or water level drawdown. Its annual life cycle allows rapid establishment and seed production before conditions become unfavorable.
+Eleocharis obtusa is a pioneer species that colonizes bare wet substrates following disturbance or water level drawdown. Its annual life cycle allows rapid establishment and [[cannabis-controlled-pollination-seed-production]] before conditions become unfavorable.
 
 The species is a facultative annual, sometimes persisting as a short-lived perennial in consistently moist sites. However, most populations behave as strict annuals tied to seasonal hydrology.
 
@@ -76,7 +76,7 @@ Germination is triggered by exposure to light and fluctuating temperatures. Ache
 
 Eleocharis obtusa provides food for waterfowl and shorebirds that consume achenes from exposed mudflats. Its dense stands also offer foraging habitat for dabbling ducks probing the substrate for invertebrates.
 
-The species frequently co-occurs with other annual wetland plants including Cyperus erythrorhizos, Fimbristylis autumnalis, and Juncus bufonius in ephemeral wetland communities.
+The species frequently co-occurs with other annual wetland plants including Cyperus erythrorhizos, [[fimbristylis-autumnalis]], and [[juncus-bufonius]] in ephemeral wetland communities.
 
 In vernal pools of California it grows with Downingia, Lasthenia, and Plagiobothrys species. These annual communities are among the most threatened wetland types in North America due to agricultural and urban development.
 
@@ -87,34 +87,3 @@ Eleocharis obtusa is considered globally secure (G5) with no significant conserv
 Local populations can fluctuate dramatically from year to year depending on water levels and timing of drawdown. In drought years, populations may be absent from sites where they were previously abundant.
 
 Drainage of ephemeral wetlands for agriculture has reduced habitat availability in some regions. Vernal pool conservation programs in California and the Pacific Northwest have helped protect important populations.
-
-California vernal pools have lost over 90 percent of their historic extent, making the preservation of remaining populations ecologically significant. Eleocharis obtusa is one of the characteristic species of this endangered ecosystem.
-
-The species benefits from wetland restoration projects that recreate ephemeral hydrology. Drawdown management in reservoirs and retention ponds often creates ideal conditions for colonization.
-
-## Cultivation
-
-Eleocharis obtusa is occasionally used in constructed wetland projects and ephemeral pool restoration. Its ability to establish from seed on bare substrate makes it useful for colonizing newly created wetland surfaces.
-
-Seed does not require cold stratification for germination, though a brief period of moist chilling can improve uniformity. Surface sowing onto wet mineral soil in late spring produces the best results.
-
-The species performs best in full sun with seasonal inundation followed by gradual drawdown. It does not persist in permanently flooded conditions or in drought-prone sites.
-
-In created vernal pools it contributes to plant diversity and provides habitat for amphibian breeding. Its small stature and fine texture make it a useful companion to taller emergent species.
-
-Dense stands of Eleocharis obtusa can stabilize bare mud surfaces and trap wind-blown seeds of other species, facilitating secondary succession. This facilitative effect enhances overall plant community development in restored wetlands.
-
-Commercial availability is limited, but seed can be collected from wild populations in late summer. Ethical collection guidelines should be followed to avoid degrading source populations.
-
-## See Also
-
-- [[eleocharis-palustris]]
-- [[eleocharis-acicularis]]
-- [[carex-stricta]]
-- [[juncus-effusus]]
-- [[juncus-bufonius]]
-- [[typha-latifolia]]
-- [[schoenoplectus-lacustris]]
-- [[cyperus-rotundus]]
-- [[cladium-jamaicense]]
-- [[cyperus-esculentus]]

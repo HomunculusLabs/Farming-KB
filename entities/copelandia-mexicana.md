@@ -13,7 +13,7 @@ sources: []
 ---
 # Copelandia mexicana
 
-Copelandia mexicana is a psychoactive mushroom in the genus
+Copelandia mexicana is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the genus
 Copelandia (sometimes treated as a subgenus or section of
 Panaeolus), belonging to the family Strophariaceae. The genus
 Copelandia is distinguished from Panaeolus sensu stricto by
@@ -27,7 +27,7 @@ subtropical regions. The species is of particular
 mycogeographical interest as part of the diverse psychoactive
 fungi flora of Mexico, a region that has been central to the
 study of neurotropic mushrooms since the pioneering work of
-R. Gordon Wasson and Roger Heim in the 1950s.
+R. [[gordon-wasson-comparative-method-ethnomycology]] and [[roger-heim]] in the 1950s.
 ## Taxonomy and Naming
 - **Order:** Agaricales
 - **Family:** Strophariaceae (some treatments place
@@ -58,7 +58,7 @@ R. Gordon Wasson and Roger Heim in the 1950s.
 - Color: Dark brown to greyish-brown when wet, becoming
   pale greyish-tan to almost white when dry
 - Margin: Slightly striate when moist, often with
-  partial veil remnants in young specimens
+  [[partial-veil-tropism-protection-before-spore-release]] remnants in young specimens
 - Context: Thin, whitish, bruising blue or blue-green
   where damaged
 ### Gills
@@ -88,53 +88,3 @@ R. Gordon Wasson and Roger Heim in the 1950s.
 | Spore wall | Smooth, moderately thick |
 | Germ pore | Distinct, truncate |
 | Basidia | Two- and four-spored |
-| Cheilocystidia | Lageniform, with swollen capitate |
-|                 | apices (diagnostic for Copelandia) |
-| Pleurocystidia | Similar to cheilocystidia, lageniform |
-| Pileipellis | Cutis of repent hyphae |
-## Distribution and Habitat
-- **Geographic range:** Mexico (type locality); also
-  reported from [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], parts of South America,
-  and possibly the Caribbean
-- **Substrate:** Strictly coprophilous, growing on the
-  dung of herbivorous mammals, especially cattle and
-  horses
-- **Habitat:** Tropical and subtropical grasslands,
-  pastures, and open areas with abundant herbivore dung;
-  also found along forest edges and in disturbed areas
-- **Seasonality:** Primarily during the rainy season in
-  tropical climates; in Mexico, fruiting occurs mainly
-  from June to October during periods of heavy rainfall
-- **Frequency:** Moderately common within its known range;
-  often found alongside other Copelandia species in the
-  same pastures
-## Chemistry and Active Compounds
-Copelandia mexicana contains the classic psilocybin
-alkaloid profile characteristic of the genus Copelandia:
-- **Psilocybin:** Present in moderate concentrations,
-  comparable to C. cyanescens but typically lower;
-  values generally range from 0.3–0.8% of dry weight
-- **Psilocin:** Detected in notable amounts; some
-  collections show higher psilocin-to-psilocybin ratios
-  than is typical for other genera, suggesting active
-  enzymatic dephosphorylation
-- **Baeocystin:** Present in minor quantities
-- **Norbaeocystin:** Trace amounts reported
-- **Urea and urea derivatives:** Some Copelandia species
-  accumulate urea, which may serve a protective or
-  osmotic function in the coprophilous habitat
-- **[[field-guide-psilocybin-bluing-reaction-identification]]:** The prominent blue bruising of C.
-  mexicana is caused by the oxidation of psilocin and
-  related phenolic compounds when cells are damaged,
-  providing a useful field indicator of psychoactive
-  content (though not definitive proof)
-## Similar Species
-| Species | Distinguishing Features |
-|---|---|
-| [[copelandia-tropicalis]] | Tropical distribution; different cystidia |
-| [[copelandia-anomalus]] | Rare; anomalous morphology |
-| [[psilocybe-cubensis]] | Larger; purple-brown spore print |
-## See Also
-- [[copelandia-tropicalis]]
-- [[psilocybe-cubensis]]
-- [[panaeolus-subbalteatus]]

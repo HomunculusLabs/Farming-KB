@@ -88,31 +88,3 @@ Stamets warns against excessive toxic fungicides and bacteriocides, noting
 workers experienced shortness of breath, numbness, and convulsions from
 phenol-based germicides. Prefer alternatives posing little health hazard and
 wear appropriate personal protective equipment.
-
-## When to Use Antibiotics
-
-Antibiotics are most appropriate when spore germinating from wild-collected
-prints (heavily contaminated with environmental bacteria), performing tissue
-culture from field specimens, dealing with persistent low-level
-contamination despite proper sterile technique, or isolating specific strains
-from contaminated plates. The goal is to gain clean cultures maintainable
-without antibiotics on standard media.
-
-## Integration with Agar Media Formulas
-
-Antibiotics can be added to any standard agar media: PDY, [[malt-extract-agar|MEA]],
-or MPG agar. pH is a major consideration; most mycelia grow well in the
-5.5-7.5 range. Adjust using 1 molar HCl or NaOH before sterilization. See
-[[agar-culture-technique]] for detailed media preparation protocols.
-
-## Alternatives to Antibiotics
-
-Before resorting to antibiotics: improve laboratory hygiene, install HEPA
-filtration, use a glove box or laminar flow hood, ensure proper
-[[sterilization]] times and pressures, verify water quality, and pre-treat
-specimens with [[cervantes-hydrogen-peroxide-sterilization]] dips. Addressing root causes produces more sustainable results.
-
-## Related Concepts
-
-- [[mushroom-cultivation]]
-- [[contamination-identification-prevention-mushroom-cultivation|stamets contamination identification and control]]

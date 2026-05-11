@@ -88,30 +88,3 @@ exchange (adjustable CO2 from 500 to 5,000 ppm), and lighting (0 to
 smooth, washable, and resistant to repeated disinfection.[[growing-gourmet-hepa-filtration-laboratory-air-systems]] g systems should
 provide HEPA filtration on incoming air and sufficient [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
 for the room volume.
-
-## Common Environmental Problems
-
-| Symptom                    | Likely Cause               | Remedy                          |
-|---------------------------|----------------------------|---------------------------------|
-| No primordia form         | CO2 too high or light low  | Increase fresh air, check light |
-| Fluffy aerial mycelium    | Humidity too high          | Reduce RH to 70–80%             |
-| Long stems, small caps    | Insufficient fresh air     | Increase ventilation            |
-| Cap cracking              | Humidity fluctuations      | Stabilize RH at 85–95%          |
-| Pale or etiolated bodies  | Insufficient light         | Increase to 200–500 lux         |
-| Contamination             | Poor  or air  | Improve clean-room protocols    |
-
-## Environmental Parameters Summary
-
-| Parameter   | Spawn Run   | Coat Formation | Primordia Init | Fruiting     |
-|-------------|-------------|----------------|----------------|-------------|
-| Temp (°C)   | 20–25       | 18–22          | 15–20          | 15–18       |
-| RH (%)      | 60–70       | 70–80          | 85–95          | 85–95       |
-| CO2 (ppm)   | 2000–5000   | 1000–2000      | <1000          | 600–1000    |
-| Light (lux) | 0           | 50–100         | 200–500        | 200–500     |
-| Duration    | 20–30 d     | 7–14 d         | 5–10 d         | 10–21 d     |
-
-## See Also
-
-- [[chen-maitake-growth-parameters-environmental-control]]
-- [[growing-gourmet-light-requirements-mushroom-fruiting]]
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]

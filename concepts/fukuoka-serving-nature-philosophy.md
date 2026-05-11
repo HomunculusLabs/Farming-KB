@@ -1,7 +1,8 @@
 ---
-title: fukuoka serving [[fukuoka-return-to-nature-philosophy]] — The Philosophy of Non-Intervention
+title: Fukuoka Serving Nature Philosophy
 created: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
     author: masanobu-fukuoka

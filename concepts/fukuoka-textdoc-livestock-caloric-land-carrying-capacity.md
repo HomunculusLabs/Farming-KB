@@ -1,7 +1,7 @@
 ---
-title: Fukuoka's Caloric Analysis of Livestock vs Grain Diets and Earth's Carrying Capacity
+title: Fukuoka Textdoc Livestock Caloric Land Carrying Capacity
 source: administrator-microsoft-word-fukuoka-textdoc.md
-topics: livestock, caloric-efficiency, carrying-capacity, natural-farming, land-use
+topics: livestock, caloric-efficiency, carrying-capacity, [[natural-farming]], land-use
 type: concept
 created: 2026-05-08
 ---
@@ -88,17 +88,3 @@ partnership between man, animal, and nature"? His answer is clear — "an enviro
 comfortable for small animals is also an ideal setting for man."
 
 ## Mechanization and the Vicious Cycle
-
-Fukuoka extends his critique to mechanized farming. A two-acre farmer who buys a 30-
-horsepower tractor will not magically become a 50-acre farmer. Mechanization only lowers
-the number of laborers required, and surplus income cannot come from the land — yields
-decrease while energy requirements skyrocket. Machinery, [[cervantes-chemical-fertilizers-guide]], and
-pesticides create a vicious cycle: they rob nature of its powers, leaving man no choice
-but to tend vast fields by hand, which in turn makes large machinery, high-grade
-fertilizers, and powerful poisons "indispensable."
-
-## Key Takeaways
-
-1. Beef requires 10x the land of grain and represents the most energy-wasteful food
-2. [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] ratios decline sharply: 50% broiler, 20% pork, 15% milk, 8% beef
-3. Free-ranging native breeds outperform confined improved breeds in true [[fukuoka-livestock-energy-inefficiency-caloric-cost]]

@@ -3,6 +3,7 @@ title: Cannabis Yield Optimization
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,9 +88,3 @@ Optimal harvest timing preserves maximum yield and potency:
 Proper post-harvest handling preserves the yield that was grown:
 
 - Slow, even drying over 5-7 days preserves THC content
-- Fast drying causes weight loss through uneven moisture distribution
-- Proper curing in [[cannabis-manicuring-techniques]]
-- [[cannabis-curing-jars]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-indoor-growing-basics]]
-- [[cannabis-flushing-before-harvest]]

@@ -12,13 +12,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 
 # Aerobic vs Anaerobic Tea Benefits Comparison
 
-A central distinction in compost tea production is between aerobic (actively aerated) and anaerobic methods. While both produce liquid extracts from compost, their biological composition, mechanisms of action, and suitability for plant health differ dramatically. Dr. Elaine Ingham's framework evaluates both approaches across five key benefit categories, concluding that aerobic teas provide comprehensive soil health benefits while anaerobic brews carry significant risks.
+A central distinction in compost tea production is between aerobic ([[actively-aerated-compost-tea-aact-brewing]]) and anaerobic methods. While both produce liquid extracts from compost, their biological composition, mechanisms of action, and suitability for plant health differ dramatically. Dr. Elaine Ingham's framework evaluates both approaches across five key benefit categories, concluding that aerobic teas provide comprehensive soil health benefits while anaerobic brews carry significant risks.
 
 ## Five Benefit Categories
 
@@ -41,16 +42,16 @@ The mechanisms by which plants are protected differ fundamentally between the tw
 - **Competition for food**: Beneficial organisms consume food resources faster than pathogens, leaving nothing for disease-causing organisms
 - **Competition for space**: Beneficial organisms physically occupy all available infection sites on leaves and roots
 - **Competition for infection sites**: All surfaces are protected by beneficial biofilms
-- **Predation**: Protozoa and nematodes in the tea consume disease-causing organisms
+- **Predation**: [[teaming-with-microbes-protozoa-and-nematodes]] in the tea consume disease-causing organisms
 
-These are described as mechanical control methods, analogous to cats controlling mice. No toxic chemicals are involved. Importantly, aerobic compost tea should not be considered a pesticide because its mode of action is competitive, not toxic.
+These are described as mechanical control methods, analogous to cats controlling mice. No toxic chemicals are involved. Importantly, [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]] should not be considered a pesticide because its mode of action is competitive, not toxic.
 
 ### Anaerobic Brew Mechanisms
 
 Anaerobic brews protect plants through an entirely different mechanism: the production of toxic compounds. These include organic acids, alcohols, and other metabolic byproducts that inhibit or kill disease organisms. This approach is fundamentally a pesticide mechanism and carries inherent risks:
 
 - Some toxins are harmful to plants, humans, and animals
-- pH problems arise from organic acid production
+- pH problems arise from [[staycare-fungal-organic-acid-production-metal-leaching]]
 - Unpleasant odors indicate nutrient loss from the brew
 - Anaerobic brews should technically be registered with the EPA as pesticides
 
@@ -65,11 +66,11 @@ Aerobic compost teas contain the full spectrum of organisms needed for nutrient 
 - **Nematodes** consume fungi and bacteria, cycling additional nutrients
 - If no plants are present, other bacteria and fungi consume released nutrients, maintaining the cycle
 
-This creates a self-regulating nutrient delivery system where the plant controls its own nutrition.
+This creates a self-regulating [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]] where the plant controls its own nutrition.
 
 ### Anaerobic Brews
 
-Anaerobic conditions eliminate most organisms involved in nutrient cycling. Beneficial fungi, protozoa, and nematodes are all killed. Nutrients become locked in bacterial biomass with no predators to release them. Nitrogen is lost as ammonia and nitrous oxide, sulfur is lost as hydrogen sulfide gas (the rotten egg smell), and pH drops into the acidic range. Nutrient cycling stops entirely and anaerobic brews actively deplete soil nutrients.
+Anaerobic conditions eliminate most organisms involved [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]. Beneficial fungi, protozoa, and nematodes are all killed. Nutrients become locked in bacterial biomass with no predators to release them. Nitrogen is lost as ammonia and nitrous oxide, sulfur is lost as hydrogen sulfide gas (the rotten egg smell), and pH drops into the acidic range. Nutrient cycling stops entirely and anaerobic brews actively deplete soil nutrients.
 
 ## 3. Soil Nutrient Levels
 
@@ -87,34 +88,3 @@ Aerobic compost teas add the specific organisms needed to break down and remove 
 
 - Certain bacteria decompose pesticide residues, herbicide carryover, and hydrocarbon contamination
 - Fungi produce enzymes that break down complex toxic compounds
-- The full foodweb provides multiple pathways for detoxification
-
-### Anaerobic Brews
-
-Rather than removing toxins, anaerobic brews add them:
-
-- Anaerobic metabolism produces organic acids, alcohols, phenols, and other toxic byproducts
-- These compounds can be harmful to plants, humans, and animals
-- Anaerobic conditions can actually increase the persistence of some toxins in soil
-
-## Summary Table
-
-The comparison across all five benefit categories shows why aerobic methods are preferred:
-
-| Benefit | Aerobic Tea (AACT) | Anaerobic Brew |
-|---------|-------------------|----------------|
-| Plant Protection | Competitive exclusion (safe) | Toxic inhibition (risky) |
-| Nutrient Cycling | Full cycle with all organism groups | No cycling; nutrient loss |
-| Soil Nutrients | Adds and retains nutrients | Depletes nutrients |
-| Soil Structure | Builds micro and macro aggregates | Destroys aggregates |
-| Toxin Decomposition | Removes toxins | Adds toxins |
-
-## Recovery from Anaerobic Conditions
-
-If a tea goes anaerobic and is then re-aerated, the beneficial communities never return to the full range of diversity needed in soil. The anaerobic phase can grow human pathogens including Clostridium species, E. coli, Salmonella, and Shigella. A tea that has gone anaerobic and lost its beneficial fungi, protozoa, and nematodes should not be called compost tea. Oxygen must be monitored throughout brewing, food additions should not cause bacterial blooms that deplete oxygen, and foul odors indicate anaerobic conditions requiring the tea to be discarded.
-
-## See Also
-
-- [[aact-definitions-and-types-ingham]]
-- [[soil-food-web-nutrient-cycling]]
-- [[nutrient-cycling-in-soil]]

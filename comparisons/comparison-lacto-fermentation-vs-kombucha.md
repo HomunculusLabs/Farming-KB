@@ -87,7 +87,7 @@ The only requirements are: a fermentable sugar source, suitable bacteria (either
 
 Kombucha is essentially limited to sweetened tea as a substrate. While creative brewers experiment with different tea types and additions, the core fermentation requires:
 
-- **Tea** ([[camellia-sinensis-entity]]) for nitrogen compounds (caffeine, theanine) and tannins
+- **Tea** ([[camellia-sinensis]]) for nitrogen compounds (caffeine, theanine) and tannins
 - **Sugar** (sucrose preferred) as the primary carbon source for the SCOBY
 - **A healthy SCOBY culture** adapted to the tea-sugar medium
 

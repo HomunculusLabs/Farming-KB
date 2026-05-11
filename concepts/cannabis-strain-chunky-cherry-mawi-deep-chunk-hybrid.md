@@ -1,0 +1,90 @@
+---
+title: Cannabis Strain Chunky Cherry Mawi Deep Chunk Hybrid
+source: "[[blesching-cannabis-sativa-indica-classification]] Vol 3 - S.T. Oner"
+tags: [cannabis, strain, sativa, malawi, deep-chunk, african, kingdom-organic, genetics]
+type: concept
+created: 2026-05-10
+---
+
+# Chunky Cherry Malawi
+
+> **A sativa-dominant F1 hybrid marrying the legendary potency of
+> southern [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] genetics with the brute yield and resin
+> production of a classic Afghani hashplant — bred through fully
+> organic, living-soil methods.**
+
+## At a Glance
+
+| Attribute        | Detail                                          |
+|------------------|-------------------------------------------------|
+| **Breeder**      | [[kingdom-organic-seeds]] (The Rev), USA        |
+| **Genetics**     | cannabis strain chunky cherry mawi deep chunk hybrid × [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] (three-way F1 hybrid) |
+| **Type**         | Sativa-dominant hybrid                          |
+| **Flowering**    | 50–60 days                                      |
+| **Yield**        | Medium–heavy                                    |
+| **Aroma**        | Cherry Cola                                     |
+| **Effect**       | Energetic, balanced high; excellent daytime smoke |
+| **Environment**  | Indoor and outdoor                               |
+
+## Breeder — The Rev & Kingdom Organic Seeds
+
+Chunky Cherry Malawi was created by **The Rev**, cultivation columnist
+for [[skunk-magazine]] and author of *True Living Organics*. His
+breeding philosophy centres on [[true-living-organics-(tlo)]], a
+living-soil methodology that rejects all synthetic bottled nutrients in
+favour of a biologically active soil food web. Kingdom Organic Seeds
+operates out of the United States
+(facebook.com/KingdomOrganicSeeds). His genetics are selected for
+performance in living soil systems — plants that express full terpene
+potential without chemical inputs.
+
+## Genetic Lineage
+
+### cannabis strain chunky cherry mawi deep chunk hybrid — The Indica Anchor
+
+Deep Chunk is a pure indica bred from original [[afghani-hashplant]]
+genetics, renowned for extreme yields ("like it's a million feet tall")
+despite compact, short stature. It produces dense, resinous buds rich
+in trichomes — a hallmark of its hashplant heritage. As a largely
+landrace-derived indica, Deep Chunk passes on consistent, predictable
+traits to offspring. In this cross it tames the towering African
+sativa, compressing the flowering window to 50–60 days and lending
+the buds their characteristic density and fat calyxes.
+
+### [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]] — The African Sativa Fire
+
+Cherry Malawi descends from [[malawi-gold-entity]], one of Africa's most
+legendary landrace sativas. These [[comparison-cavendish-vs-east-african-highland-bananas]] landraces from the
+highlands of Malawi are revered for potent, psychedelic highs and
+unique [[cannabis-terpene-profiles]], though pure forms can require 14+ weeks to
+flower. The Rev describes the Cherry Malawi parents as "among the
+dankest sativas from southern Africa," making them a prized — if
+challenging — genetic resource for modern breeders.
+
+## Plant Morphology & Cultivation
+
+The split heritage is visible in the plant's phenotype:
+
+- **Leaves** are pale yellow and thin — a clear nod to the sativa
+  influence.
+- **Buds** are dense and fat, inherited from the Deep Chunk indica
+  side, contrasting with typically airy sativa flower structure.
+- **Hybrid vigour** of this F1 cross delivers medium-to-heavy yields.
+- The strain grows well indoors and outdoors. The 50–60 day flowering
+  period is remarkably short for a cross containing African sativa
+  genetics — a direct benefit of Deep Chunk's influence.
+
+## The Cherry Terpene Phenotype
+
+The distinctive **Cherry Cola aroma** places Chunky Cherry Malawi within
+a broader category of "cherry" [[oner-cannabis-phenotypes-genetic-expression]]. These aromas arise
+from specific terpene interactions:
+
+- **Myrcene** — the most common [[cannabis-terpene-and-aroma-chemistry-clarke]], contributing a
+  fruity, earthy base note.
+- **Caryophyllene** — adds spicy warmth and acts as a dietary
+  cannabinoid (CB2 receptor agonist).
+- **Benzaldehyde** (trace) — an aromatic aldehyde imparting the
+  characteristic sweet cherry and almond notes.
+
+This combination is particularly well-expressed here, likely due to the

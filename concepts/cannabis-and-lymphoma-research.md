@@ -88,13 +88,3 @@ Strains rich in [[cannabis-terpene-profile]] of selected strains, particularly t
 ## Symptom Management
 
 Beyond potential direct anti-cancer effects, cannabis may help manage lymphoma symptoms:
-
-- Fatigue and weakness from cancer-related anemia
-- Night sweats and fever (B symptoms of lymphoma)
-- Pain from enlarged lymph nodes pressing on adjacent structures
-- [[cannabis-for-nausea-and-appetite-stimulation]] loss during chemotherapy
-- Anxiety and depression related to diagnosis and treatment
-
-The [[cannabis-endocannabinoid-system]]
-- [[cannabis-and-leukemia-research]]
-- [[cannabis-drug-interactions-and-contraindications]]

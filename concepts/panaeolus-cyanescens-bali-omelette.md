@@ -87,30 +87,3 @@ During the 1970s, a group of teenagers in Samoa independently discovered the psy
 The teenagers' parents considered the experience "a foolish, but totally harmless episode and a part of normal teenage development." This pragmatic parental response contrasts sharply with the legal approaches taken in Western countries and recalls the ancient European designation of psychoactive mushrooms as "fool's mushrooms."
 
 ## Global Distribution
-
-### Pacific Islands
-
-Panaeolus cyanescens is found across the Pacific Islands, including:
-
-- **Bali, Indonesia** -- The most famous location
-- **Sumatra, Java, Philippines** -- Similar tourist-oriented mushroom dishes reported
-- **Samoa** -- Independent discovery by teenagers
-- **New Zealand** -- Present but not native; usage patterns modeled after Australia
-
-### Southeast Asia
-
-On the Asian mainland:
-
-- **Thailand** -- Found alongside [[psilocybe-cubensis]] documented by Patouillard (1907)
-
-### Africa
-
-- **Kenya** -- Intoxication cases documented from Nairobi
-- **North Africa** -- Panaeolus africanus and P. tropicales described by Ola'h
-- **South Africa** -- Related species present
-
-### Differentiation Challenge
-
-In most cases, the differentiation of Panaeolus cyanescens from closely related species (such as Panaeolus tropicales) is an extremely difficult task, even for experienced mycologists. This taxonomic challenge complicates both [[roger-heim-scientific-study-psilocybin]] and harm reduction efforts.
-
-## Comparison with [[panaeolus-campanulatus]]

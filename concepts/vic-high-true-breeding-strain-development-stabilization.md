@@ -1,5 +1,5 @@
 ---
-title: cannabis-true-breeding-ibl-strains Strain Development and Stabilization
+title: Vic High True Breeding Strain Development Stabilization
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -89,43 +89,9 @@ Backcrossing increases the proportion of the original parent's genes in the gene
 - Second backcross / Squaring (B2): 87.5%.
 - Third backcross / Cubing (B3): 93.75%.
 
-### Cubing Effectiveness by Trait Type
-
-- Cubing a homozygous recessive source: 88% true breeding after 3 backcrosses.
-- Cubing a heterozygous dominant source (no selection): only 22% true breeding.
-- Cubing a heterozygous dominant source (with selection): 35% true breeding.
-
-Critical limitation: cubing a heterozygous dominant source can never produce a true breeding strain regardless of how many backcrosses are performed.
-
-## The Limits of Stabilization
-
-Vic High identifies important theoretical and practical limits:
-
-- Heterozygous dominant traits cap at 50% gene frequency under backcrossing.
-- Polygenic trait probabilities multiply: two recessive genes yield 76.6%, three genes yield 55%.
-- Half-sib breeding significantly reduces stabilization rate compared to full-sib.
-- Gene linkage means selection for one trait inadvertently affects hundreds of others.
-
-## Starting Points for Stabilization Projects
-
-Vic High describes several possible starting scenarios:
-
-1. **A single special individual (selfing route)**: The plant is self-pollinated to create seed.
-2. **A single special individual (F1 route)**: Crossed with another plant, then either backcrossed or generationally inbred.
-3. **Multiple similar individuals**: Several outstanding plants form the starting population for direct generational inbreeding.
-
-Each starting point leads to different optimal strategies and timelines.
-
-## Key Takeaways
-
-- True breeding means population-level homozygosity for target traits, not zero variation.
-- Gene frequency is the breeder's primary measure of stabilization progress.
-- Phenotype reflects both genotype and environment, so some variation is inevitable under new conditions.
-- Generational inbreeding can achieve complete fixation; backcrossing alone cannot when the source is heterozygous.
-- Full-sib selection dramatically outperforms half-sib selection at every generation.
-- Practical stabilization focuses on acceptable uniformity across key traits.
-- Methodical, single-trait approaches yield better results than attempting to fix many traits at once.
-- Recessive traits can be fixed in as few as 3 generations with full-sib selection.
-- [[vic-high-cannabis-phenotype-selection-criteria]]
-- [[cannabis-phenotype-and-genotype-guide]]
-- [[cannabis-growing-environment-setup]]
+## See Also
+- [[strain-selection-development]]
+- [[cannabis-true-breeding-ibl-strains]]
+- [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]
+- [[oner-satori-mandala-seeds-nepalese-high-thc-strain-profile]]
+- [[oner-harlequin-green-haven-genetics-high-cbd-strain-profile]]

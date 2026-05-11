@@ -1,5 +1,5 @@
 ---
-title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Diversity in Grassland Ecosystems
+title: Singh Arbuscular Mycorrhizal Diversity Grassland Ecosystems
 created: 2026-04-28
 tags: [arbuscular-mycorrhiza, grassland-ecology, biodiversity, soil-ecology]
 date: 2026-04-25
@@ -29,7 +29,7 @@ fluctuations in diversity, abundance, and activity patterns:
   distinct phenological patterns and environmental optima
 - Winter dormancy reduces but does not eliminate AMF activity, with
   some cold-tolerant species maintaining low-level hyphal growth and
-  nutrient exchange under snow cover
+  [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] under snow cover
 
 Molecular monitoring studies have revealed that rare AMF taxa may serve
 as a seed bank that responds rapidly to changing environmental conditions,
@@ -39,7 +39,7 @@ seasonal fluctuations.
 ## Grazing Effects on AMF Communities
 
 Herbivory is a defining feature of grassland ecosystems, and grazing
-intensity profoundly influences AMF community structure and function:
+intensity profoundly influences AMF [[edaphic-determinants-cannabis-microbiome-community-structure]] and function:
 
 - Moderate grazing generally increases AMF diversity and root colonization
   by reducing dominant plant competitive exclusion and promoting root
@@ -47,7 +47,7 @@ intensity profoundly influences AMF community structure and function:
 - Heavy grazing can reduce AMF abundance through loss of photosynthetic
   tissue that limits carbon supply to fungal partners, particularly when
   defoliation is severe or frequent
-- Grazing-induced changes in plant community composition cascade to affect
+- Grazing-induced changes in [[mycorrhizal-effects-on-plant-community-composition]] cascade to affect
   AMF communities, as different plant species host distinct AMF assemblages
 - Dung deposition creates localized nutrient hotspots that alter AMF
   community composition and stimulate spore germination of nitrophilic
@@ -67,7 +67,7 @@ AMF community change in grassland ecosystems:
 
 - Nitrogen addition consistently reduces AMF diversity and root
   colonization intensity, as plants reduce carbon allocation to fungal
-  partners when soil nitrogen availability increases
+  partners when soil [[nitrogen-availability-in-legumes]] increases
 - Phosphorus fertilization has even more dramatic effects, essentially
  eliminating the mutualistic benefit of AMF symbiosis and leading to
   rapid decline of dependent fungal species
@@ -76,7 +76,7 @@ AMF community change in grassland ecosystems:
   within a few growing seasons
 - Fertilization effects are mediated through both direct soil chemistry
   changes and indirect shifts in plant community composition
-- Organic amendments including manure and compost have more moderate
+- [[cervantes-organic-amendments-chart]] including manure and compost have more moderate
   effects on AMF communities compared to mineral fertilizers, as nutrient
   release is gradual and accompanied by organic matter inputs that
   support saprotrophic microbial activity
@@ -88,29 +88,3 @@ community restoration in some cases.
 ## Soil Properties and AMF Diversity
 
 [[soil-edaphic-factors-microbial-communities]] that structure AMF communities in grasslands include:
-
-- Soil pH strongly filters AMF species composition, with acidic soils
-  favoring Acaulosporaceae and alkaline soils supporting Glomeraceae
-  dominance
-- Soil texture influences hyphal exploration patterns, with sandy soils
-  selecting for species with extensive extraradical networks and clay
-  soils supporting species with intensive intraradical colonization
-- Organic matter content correlates positively with AMF diversity through
-  improved soil structure, moisture retention, and [[ph-and-nutrient-availability-garden-soils]]
-- Soil moisture regime distinguishes hygrophilous from xerophilous AMF
-  communities, with implications for grassland responses to drought and
-  climate change
-
-## Functional Significance of AMF Diversity
-
-The functional consequences of AMF diversity loss in grasslands include
-reduced plant productivity, decreased plant community stability, impaired
-nutrient cycling, and increased susceptibility to invasion by non-mycorrhizal
-plant species. Conservation of AMF diversity is therefore essential for
-maintaining grassland [[biodiversity-of-fungi-ecosystem-services-agriculture]] including forage production, carbon
-sequestration, and biodiversity support.
-## See Also
-
-- arbuscular [[singh-mycorrhizal-network-chemical-signaling-plants]] - Plant communication
-  through AMF networks in grassland communities
-- [[singh-mycorrhiza-mediated-plant-nutrient-uptake-pathways]] - Nutrient

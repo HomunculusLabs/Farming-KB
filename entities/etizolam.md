@@ -59,7 +59,7 @@ It displays full agonist activity at the benzodiazepine site with comparable eff
 
 The short half-life and lack of active metabolites distinguish etizolam from many longer-acting benzodiazepines.
 
-Metabolism occurs primarily via hepatic CYP3A4-mediated hydroxylation and glucuronidation.
+Metabolism occurs primarily via hepatic CYP3A4-mediated hydroxylation and [[glucuronidation]].
 
 ## Dose Ranges
 
@@ -89,34 +89,5 @@ Withdrawal onset typically begins within 12–24 hours of the last dose, peaking
 
 Gradual tapering over 4–12 weeks is recommended for discontinuation after prolonged use.
 
-## Legal Status
-
-Etizolam is a prescription medication in Japan, India, and Italy, where it is marketed under [[emcdda-brand-names-user-terms-smartshop-marketing]] including Depas, Etizest, and Sedekopan.
-
-It is unscheduled or uncontrolled in many countries, contributing to its availability as a research chemical.
-
-The UK classified etizolam as a Class C drug under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2017).
-
-In the [[dmt-containing-plants-united-states-halpern]], etizolam is not federally scheduled but is controlled in several states (e.g., Virginia, Georgia, Alabama).
-
-## Toxicology
-
-Fatalities involving etizolam are increasingly reported, typically in combination with opioids or alcohol.
-
-Postmortem blood concentrations in fatal cases range from 0.01 to 4.0 mg/L.
-
-The primary mechanism of death in overdose is respiratory depression, potentiated by CNS depressant polydrug use.
-
-## Related Compounds
-
-- **Deschloroetizolam** — Deschloro analogue, approximately 10× more potent
-- **Flunitrazolam** — Fluorinated analogue with longer duration
-- **Clonazolam** — Chlorinated analogue, significantly more potent
-- **Flualprazolam** — Fluorinated alprazolam analogue, very high potency
-
 ## See Also
-
-- [[dimethyltryptamine]] — Natural psychoactive tryptamine
-- [[mescaline]] — Natural phenethylamine psychedelic
-- [[cannabis-endocannabinoid-system]] — Psychoactive plant compounds
-- cannabis — Major psychoactive plant genus
+- [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]

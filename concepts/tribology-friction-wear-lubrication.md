@@ -82,62 +82,11 @@ Hard coatings such as nitrides, carbides, diamond-like carbon, and ceramics resi
 
 Surface texturing can trap lubricant, store debris, or create micro-hydrodynamic pressure pockets.
 
-Heat treatment, carburizing, nitriding, shot peening, and laser processing alter hardness, residual stress, and fatigue resistance near the surface.
+[[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]], carburizing, nitriding, shot peening, and laser processing alter hardness, residual stress, and fatigue resistance near the surface.
 
 Solid lubricants such as graphite, molybdenum disulfide, PTFE, and some layered materials are useful where oils cannot survive.
 
 Additives in oils can form anti-wear, extreme-pressure, detergent, dispersant, antioxidant, or friction-modifying films.
 
-## Testing and Measurement
-Tribology testing must reproduce the contact mode, speed, load, temperature, environment, and lubricant supply relevant to the application.
-
-Common laboratory tests include pin-on-disk, ball-on-disk, block-on-ring, four-ball, reciprocating, fretting, scratch, and rolling contact fatigue rigs.
-
-Friction is measured with force or torque sensors, while wear may be measured by mass loss, profilometry, microscopy, dimensional change, or debris analysis.
-
-Surface characterization uses roughness metrics, hardness testing, scanning electron microscopy, spectroscopy, and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of tribofilms.
-
-Accelerated tests are useful, but they can change the dominant mechanism if load, speed, or temperature are pushed beyond realistic ranges.
-
-A good tribological test plan includes baseline materials, repeated trials, controlled humidity or lubricant condition, and post-test failure analysis.
-
-## Applications
-In engines, tribology governs piston rings, cylinder liners, cam followers, bearings, valve trains, fuel pumps, and lubricant additives.
-
-In manufacturing, it affects cutting tool wear, forming friction, die life, surface finish, rolling, extrusion, machining energy, and process stability.
-
-In [[holmgren-wind-power-and-renewable-energy-debate]], gearboxes, yaw bearings, blade pitch systems, hydraulic equipment, and generators all contain tribological contacts.
-
-In electronics, sliding connectors and microelectromechanical systems face wear, stiction, oxidation, and contact resistance problems.
-
-In biomedical engineering, artificial hips, knees, dental implants, and contact lenses require low wear debris and biocompatible lubrication.
-
-In aerospace and space systems, vacuum, radiation, temperature swings, and limited maintenance make lubricant selection especially difficult.
-
-## Failure Prevention
-Tribological failures are prevented by reducing load, improving alignment, increasing film thickness, selecting compatible materials, filtering contaminants, and controlling temperature.
-
-Designers often use softer sacrificial materials against harder counterfaces so that wear occurs in a replaceable component.
-
-Sealing and filtration are as important as lubricant chemistry because hard particles can convert a lubricated contact into an abrasive system.
-
-Startup and shutdown deserve special attention because full hydrodynamic films may not yet exist.
-
-Condition monitoring uses oil analysis, vibration, acoustic emission, temperature, torque, and debris sensors to detect developing damage.
-
-Failure analysis should ask whether the root cause was material selection, surface finish, lubrication starvation, overload, contamination, corrosion, misalignment, or an unexpected duty cycle.
-
 ## See Also
-
-- [[dislocation-theory-crystal-plasticity]]
-- [[heat-transfer-mechanisms]]
-- reynolds number and flow regimes
-
-## References
-
-- Wikipedia, "Tribology," accessed 2026-05-02.
-- Wikipedia, "Friction," accessed 2026-05-02.
-- Wikipedia, "Wear," accessed 2026-05-02.
-- Wikipedia, "Lubrication," accessed 2026-05-02.
-
-See also: [[natural-building]]
+- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]

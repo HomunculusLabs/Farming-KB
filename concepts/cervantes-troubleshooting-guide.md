@@ -88,9 +88,3 @@ Excess fertilizer salts accumulate in [[cervantes-growing-mediums-comparison]] o
 
 - [[cervantes-indica-sativa-ruderalis-differences]]
 - [[cervantes-downy-mildew-fungal-blight]]
-- [[cervantes-passive-wick-hydroponic-systems]]
-- [[cervantes-ventilation-fan-carbon-filter-setup]]
-- [[cervantes-beetle-borers-bees-wasps-loopers]]
-- [[cervantes-green-algae-growing-medium]]
-- cannabis pest disease troubleshooting
-- [[cervantes-viral-diseases-cannabis]]

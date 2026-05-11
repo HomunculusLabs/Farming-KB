@@ -26,10 +26,10 @@ two millennia.
 The species is one of the most important and most toxic medicinal plants in
 the Chinese pharmacopoeia. Its tuberous roots, known as fuzi (prepared lateral
 rootlets) and caowu (parent root), are prescribed for conditions including
-heart failure, rheumatoid arthritis, and chronic pain.
+heart failure, [[blesching-cannabis-rheumatoid-arthritis]], and [[cannabis-chronic-pain-management]].
 
 All parts of Aconitum carmichaelii contain potent diterpenoid alkaloids,
-primarily aconitine, mesaconitine, and hypaconitine. These compounds act on
+primarily [[aconitine]], mesaconitine, and hypaconitine. These compounds act on
 voltage-gated sodium channels, producing both therapeutic and toxic effects.
 
 ## Taxonomy and Morphology
@@ -72,7 +72,7 @@ produces the majority of commercial fuzi. Agricultural cultivation involves
 specific soil preparation, shade management, and careful harvesting schedules.
 
 The plant requires cool, moist conditions and is intolerant of prolonged
-drought or extreme heat. Well-drained, humus-rich soils with a slightly
+drought or [[extreme-heat-preparedness]]. Well-drained, humus-rich soils with a slightly
 acidic pH are preferred.
 
 ## Chemistry and Pharmacology
@@ -88,54 +88,3 @@ inactivation, causing persistent sodium influx and neuronal hyperexcitability.
 At therapeutic doses, the cardiac effects include positive inotropy,
 bradycardia, and improved cardiac output. These properties support the
 traditional use of fuzi in treating congestive heart failure.
-
-The therapeutic window is extremely narrow. Toxic doses produce cardiac
-arrhythmias, ventricular fibrillation, respiratory paralysis, and death.
-Fatal poisoning has been reported at doses as low as 2 mg of aconitine.
-
-Additional compounds include benzoylaconine and benzoylmesaconitine
-(less toxic monoester alkaloids), as well as the non-toxic alkaloid
-songorine and the higenamine derivative kobusine.
-
-Modern pharmacological studies have confirmed anti-inflammatory,
-analgesic, and cardioprotective activities for processed Aconitum extracts.
-These activities are attributed to the combined action of multiple alkaloids.
-
-## Traditional Medicine and Processing
-
-The raw roots of Aconitum carmichaelii are extremely toxic and are never
-consumed without processing. Traditional processing methods (paozhi) reduce
-toxicity while preserving or enhancing therapeutic activity.
-
-The most common processing method involves repeated soaking and boiling the
-roots. Commercial fuzi is typically steamed for 6-8 hours or boiled for 4-6
-hours until no tingling sensation remains on the tongue.
-
-Paozhi converts the highly toxic diester alkaloids into less toxic
-monoester and hydrolysis products. Aconitine is hydrolysed to
-benzoylaconine and then to aconine, reducing toxicity by approximately
-200-fold.
-
-In traditional Chinese medicine, fuzi is classified as acrid, sweet, and
-very hot. It is used to restore yang, dispel cold, and alleviate pain.
-
-Common clinical applications include treatment of yang-deficiency syndromes
-with cold extremities, chronic heart failure, and joint pain associated with
-cold-damp bi syndrome.
-
-Despite careful processing, aconitine poisoning remains a significant
-clinical problem in China. Cases typically result from improper home
-preparation, excessive dosing, or use of unprocessed material.
-
-## See Also
-
-- [[aconitum-columbianum]]
-
-- [[aconitum-napellus]]
-- [[digitalis-purpurea]]
-- [[veratrum-album]]
-- [[conium-maculatum]]
-- [[atropa-belladonna]]
-- [[datura-stramonium]]
-- [[aconitine]]
-- [[colchicum-autumnale]]

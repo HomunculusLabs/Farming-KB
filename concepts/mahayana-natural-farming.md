@@ -9,6 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of Green Philosophy." Japan Publications.
 ---
 
@@ -86,36 +87,3 @@ unnaturalness of scientific farming leads to incompleteness in all its
 outputs.
 
 ## The Swordfighting Analogy
-
-Fukuoka borrowed an analogy from Japanese swordsmanship to clarify the
-three approaches. Scientific farming is the "two-sword school" directed
-outward, using all possible means. Hinayana natural farming is the
-"one-sword school" directed toward the center, reducing means. Mahayana
-natural farming is the "unmoving no-sword school," operating on a
-fundamentally different level where no sword is needed because the farmer
-does not fight nature at all.
-
-## Energy Efficiency
-
-Fukuoka provided quantitative evidence through energy accounting. His
-natural method required only one man-day of labor to recover 200,000
-kilocalories of food energy from a quarter-acre of land, with an energy
-input of roughly 2,000 kilocalories. Cultivation with draft animals
-required five to ten times as much energy. Mechanized agriculture required
-ten to fifty times as much. Natural farming is up to fifty times more
-energy-efficient than scientific methods.
-
-## Critique of Organic Farming
-
-Fukuoka placed organic farming firmly in the Hinayana category. Organic
-farmers move organic materials from place to place, process them, and apply
-them with purposeful effort. Any gains are local and temporal. The only
-genuine path forward is to relinquish all human knowledge and action,
-allowing nature to recover its ability to nurture all forms of life.
-
-## See Also
-
-- [[natural-farming]]
-- [[green-manure-cover-crops]]
-- [[natural-diet]]
-- desert greening

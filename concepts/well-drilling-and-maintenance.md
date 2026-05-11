@@ -3,7 +3,7 @@ title: Well Drilling and Maintenance
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, off-grid, water, water-management, engineering, construction]
+tags: [[homesteading]], off-grid, water, [[water-management]], engineering, construction]
 sources: []
 ---
 
@@ -11,14 +11,14 @@ sources: []
 
 A reliable well provides a consistent water supply independent of rainfall
 and surface water availability. This guide covers drilling methods, pump
-types, well maintenance, water quality testing, and considerations for the
-off-grid homestead. (see [[homestead-water-purification]]).
+types, well maintenance, water [[cannabis-quality-testing]], and considerations for the
+off-grid homestead.
 
 ## Site Selection
 
 ### Finding Water
 - **Geological surveys** — state geological surveys provide well logs and
-  groundwater maps for your area
+  groundwater [[maps]] for your area
 - **Dowsing/water witching** — anecdotal; not scientifically validated
   but some drillers respect the practice
 - **Neighboring wells** — ask nearby property owners about well depth,
@@ -42,7 +42,7 @@ off-grid homestead. (see [[homestead-water-purification]]).
 ### Mud Rotary Drilling
 The most common method for modern wells. A rotating drill bit cuts through
 soil and rock while a bentonite mud slurry is pumped down the drill string
-to carry cuttings to the surface and stabilize the borehole wall. (see [[land-selection-for-homesteading]]).
+to carry cuttings to the surface and stabilize the borehole wall.
 
 **Characteristics:**
 - Fast in unconsolidated formations (sand, gravel, clay)
@@ -145,6 +145,5 @@ direct drive.
 
 - Ideal for off-grid homesteads
 - Pair with a solar-direct system for daytime pumping into a cistern
-- See [[solar-water-heating]] for complementary solar energy systems
+- See [[solar-water-heating]] for complementary [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] systems
 - See [[rainwater-harvesting-systems]] for combining well and rainwater
-

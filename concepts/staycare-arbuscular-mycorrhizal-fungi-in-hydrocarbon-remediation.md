@@ -88,10 +88,3 @@ compounds:
   the bioavailability and distribution of hydrocarbon contaminants.
 
 ## fungal-bioremediation.
-
-## See Also
-
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhizal-fungi]]
-- [[mycorrhizal-fungi-hydrocarbon-remediation]]

@@ -27,7 +27,7 @@ sources:
 
 # KNF Preparations — Complete Input Guide
 
-Korean Natural Farming (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace synthetic fertilizers and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
+[[korean-natural-farming]] (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
 
 ## Core Inputs Overview
 
@@ -55,15 +55,15 @@ Korean Natural Farming (KNF) uses fermented biological inputs to feed plants and
 
 JADAM (Youngsang Cho, Korea) extends KNF toward zero-budget agriculture. Key innovations:
 
-- **JADAM Wetting Agent (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
+- **[[jadam-wetting-agent-jwa]] (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
 - **JADAM Sulfur (JS)**: Sulfur + caustic soda + red clay/phyllite powder + sea salt. Powerful germicide.
-- **JADAM Microorganism Solution (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
+- **[[jadam-microorganism-solution-culturing]] (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
 - **JADAM Mineral Water (JMW)**: Leaf mold + rocks in water. Slow-release mineral input.
 - **Cost**: ~$100/acre/year target. 10-100x reduction vs conventional. All inputs made on-farm from local materials.
 - **Pesticide combos**: JNP (JWA+JS+JHS), JMS-JHS (JMS+JHS+JWA), JS-JHS. Combine wetting agent with sulfur/herb solution.
 - **Philosophy**: "Bring farming back to farmers" — no patents, all knowledge shared openly.
 
-Based on Cho's Nutritive Cycle Theory — see [[nutritive-cycle-theory]] for full explanation.
+Based on Cho's [[cho-nutritive-cycle-theory]] — see [[nutritive-cycle-theory]] for full explanation.
 
 ### Vegetative Growth Stage
 - FPJ (from fast-growing plants like mugwort, bamboo shoots, arrowroot) at 1:800-1000
@@ -124,7 +124,7 @@ Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before
 
 ## Pest Control Methods
 
-KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for biological pest control.
+KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for [[beneficial-insects-and-biological-pest-control]].
 
 ### Aromatic Insect Attractant (AIA)
 - Slit open a PET bottle on two sides

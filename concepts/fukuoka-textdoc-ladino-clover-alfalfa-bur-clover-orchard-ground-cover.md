@@ -5,6 +5,7 @@ tags: [natural-farming, cover-crops, clover, alfalfa, orchard-management, weed-c
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "5889-5968"
 type: concept
@@ -14,7 +15,7 @@ type: concept
 
 ## Overview
 
-Fukuoka's ground cover system using leguminous plants is central to his natural [[fukuoka-orchard-management-detailed]]. By replacing conventional weeding with strategic cover crop management, he eliminates the need for both herbicides and fertilizers while building soil fertility. The three primary cover crops in his system are ladino clover as the mainstay, alfalfa for deep soil improvement, and bur clover for seasonal weed suppression, each serving distinct and complementary functions in the orchard ecosystem.
+Fukuoka's [[fukuoka-natural-orchard-ground-cover-system]] using leguminous plants is central to his natural [[fukuoka-orchard-management-detailed]]. By replacing conventional weeding with strategic cover [[mushroom-crop-management-flush-harvesting]], he eliminates the need for both herbicides and fertilizers while [[building-soil-fertility-long-term]]. The three primary [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]] his system are ladino clover as the mainstay, alfalfa for deep soil improvement, and bur clover for seasonal [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]], each serving distinct and complementary functions in the orchard ecosystem.
 
 ## Why Use a Ground Cover: The Problem with Clean Cultivation
 
@@ -26,7 +27,7 @@ In order to make full use of the soil, soil management must be based on the use 
 
 ### Fukuoka's Motivation: The Depleted Orchard
 
-When Fukuoka set out to revive his father's orchard of old citrus trees following World War II, he began by studying soil conditioning, and especially ground cover cultivation. His reasons were twofold:
+When Fukuoka set out to revive his father's orchard of old citrus trees following World War II, he began by studying soil conditioning, and especially [[fukuoka-citrus-orchard-ground-cover-cultivation]]. His reasons were twofold:
 
 1. With all the topsoil washed away and only red clay remaining, passive efforts to reinvigorate the old trees by applying lots of fertilizer, root-grafting, and thinning blossoms would only have invited a further decline in the trees. Nor would planting new saplings have worked any better since these would not have thrived in the poor soil.
 
@@ -87,34 +88,3 @@ Alfalfa fills the ecological niche that clover cannot occupy. While clover impro
 ## Bur Clover: Seasonal Weed Suppression
 
 Bur clover is useful in controlling spring weeds. It withers in the summer but grows back again in the fall and suppresses winter weeds as well. A useful [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] crop, it is also valuable in the rotation as a crop preceding summer vegetables.
-
-The seasonal pattern of bur clover complements the other cover crops. It is most vigorous during the seasons when clover may be weakened, providing continuous ground coverage throughout the year. Its ability to suppress both spring and winter weeds makes it a valuable bridge between the clover's periods of maximum and minimum growth.
-
-## The Synergy Between Cover Crop Species
-
-The three cover crop species described above work together as a system rather than as independent elements. Ladino clover dominates the surface soil and suppresses weeds through dense growth. Alfalfa extends the soil improvement downward to six feet or more, accessing nutrients and minerals unavailable to shallow-rooted species. Bur clover fills the seasonal gaps in clover growth, preventing weeds from establishing during periods when clover is weakened.
-
-This complementary relationship means that no single species can be replaced without losing some capability. A clover-only system would leave deep soil layers unimproved. An alfalfa-only system would not provide adequate surface weed suppression. A bur clover-only system would not persist through the summer months. Only the combination of all three provides complete, year-round soil management.
-
-## Key Principles
-
-- Ground cover replaces both weeding and fertilization simultaneously
-- Ladino clover is the primary cover crop, alfalfa and bur clover serve complementary roles
-- Clover suppresses weeds by outcompeting them through dense growth, not by aggressive allelopathy
-- Regular cutting and management are essential for long-term clover persistence
-- Alfalfa reaches soil depths that clover cannot, providing deep soil improvement
-- Cover crop management requires the same care and attention as lawn maintenance
-- Wood ashes help control problem weeds within the clover stand
-- Thirty species were tested empirically to arrive at the recommended combination
-- The goal is trees that grow as the soil enriches, not at the soil's expense
-- The three species form a synergistic system that covers surface, depth, and seasonal gaps
-- Proper seeding technique, including not covering clover seed with soil, is critical for success
-- Failure to manage clover leads to dominance reversal within five to six years
-
-## Related
-
-- [[fukuoka-ladino-clover-ground-cover-management]] Topics
-
-- [[fukuoka-natural-farming-philosophy]] for companion tree planting
-- [[fukuoka-textdoc-clover-decline-and-weed-succession-orchard]] for managing [[fukuoka-cover-crop-lifespan-clover-decline-weed-reemergence]]
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] for the full rehabilitation timeline

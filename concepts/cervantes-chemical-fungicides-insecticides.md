@@ -1,10 +1,11 @@
 ---
-title: "cervantes chemical fungicides insecticides Insecticides and Safety"
+title: Cervantes Chemical Fungicides Insecticides
 created: 2026-04-28
 tags: [pesticides, fungicides, insecticides, chemical-control, EPA-toxicity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -12,7 +13,7 @@ type: concept
 # Chemical Fungicides, Insecticides, and Safety
 
 Chemical pest and [[hamilton-pest-and-disease-control-organic]] represents the last resort in
-Jorge Cervantes' integrated pest management hierarchy. While he
+[[jorge-cervantes]]' [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] hierarchy. While he
 does not recommend using chemical fungicides, fungistats,
 insecticides, or miticides on plants destined for human
 consumption, he provides comprehensive guidance on their proper
@@ -23,8 +24,8 @@ for cannabis consumers.
 
 ## EPA Toxicity Classification System
 
-The Environmental Protection Agency classifies pesticides into
-four categories based on acute toxicity. Understanding these
+The [[fungal-melanin-environmental-protection-stress-resistance-gadd]] Agency classifies pesticides into
+four categories based on [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]. Understanding these
 classifications helps growers select the least toxic effective
 product and handle chemicals safely.
 
@@ -60,7 +61,7 @@ Copper-based fungicides including copper sulfate and Bordeaux
 mixture (copper sulfate plus lime) fall into Classes III and II
 respectively. Sulfur is available in dust and wettable powder
 formulations. Insecticidal soap is a Class IV option for soft
-bodied pests. Diatomaceous earth provides mechanical pest control
+bodied pests. [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] provides mechanical pest control
 through its abrasive action on insect exoskeletons.
 
 Pyrethrins, derived from chrysanthemum flowers, are available
@@ -86,45 +87,3 @@ spreader-sticker, spray droplets tend to bead up and roll off
 foliage, significantly reducing the effectiveness of treatments.
 
 ## Key Chemical Controls
-
-### Abamectin
-
-Abamectin derivatives include emamectin and milbemectin. This
-compound does not bioaccumulate and is used extensively on hops.
-It is not truly systemic but exhibits translaminar activity,
-meaning it is absorbed from the exterior of foliage and moves to
-other leaf parts, especially young leaves. It controls russet mites,
-spider mites, and fire ants.
-
-### Heavy-Duty Chemical Miticides
-
-For severe mite infestations resistant to softer controls,
-heavy-duty chemical miticides are available. These should be
-considered a last resort due to their toxicity and potential for
-leaving harmful residues on consumable cannabis flowers. They
-require strict adherence to pre-harvest intervals to ensure
-consumer safety.
-
-## Application Safety Principles
-
-When using any chemical control, several safety principles apply.
-Always wear appropriate personal protective equipment including
-gloves, eye protection, and a respirator when handling toxic
-chemicals. Apply treatments during the dark period when possible to
-avoid photodegradation of active ingredients and to protect
-[[coleman-beneficial-insects-and-ecological-pest-control]]. Maintain adequate ventilation during and after
-application.
-
-Never apply chemical pesticides during flowering if the product
-will contact buds destined for consumption. Many growers who use
-chemical controls restrict their use to the vegetative growth phase
-only, switching to biological controls or manual removal during
-flowering. Pre-harvest intervals specified on product labels must
-be strictly observed.
-
-## See Also
-
-- [[cervantes-biological-pest-control-predators]]
-- [[cervantes-bacillus-thuringiensis-bt-control]]
-- [[cervantes-pyrethrum-pyrethroid-insecticides]]
-- [[cervantes-foliar-feeding]]

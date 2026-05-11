@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Adenium obesum is a succulent shrub or small tree in the family Apocynaceae, native to the arid regions of sub-Saharan Africa and the Arabian Peninsula. It is widely cultivated as an ornamental plant for its swollen basal caudex, sculptural form, and showy terminal flowers.
+Adenium obesum is a succulent shrub or small tree in the family Apocynaceae, native to the [[fukuoka-natural-farming-in-arid-regions]] of sub-Saharan Africa and the Arabian Peninsula. It is widely cultivated as an ornamental plant for its swollen basal caudex, sculptural form, and showy terminal flowers.
 
 The species is commonly known as desert rose, a reference to its rose-like flowers and arid habitat. It is one of the most commercially significant succulent ornamentals, with extensive breeding programs producing cultivars in red, pink, white, and bicolor patterns.
 
@@ -27,7 +27,7 @@ All parts of Adenium obesum contain potent cardiac glycosides structurally relat
 
 The genus name derives from the Arabic "aden," referring to the Gulf of Aden region where the species was first collected by European botanists. The specific epithet "obesum" describes the characteristically swollen trunk base.
 
-Adenium obesum holds cultural significance across its range. In Oman, it is planted near homes as a protective ornamental and its wood is carved into small decorative objects. The species appears on the coat of arms of several Saharan nations.
+Adenium obesum holds [[amanita-muscaria]] across its range. In Oman, it is planted near homes as a protective ornamental and its wood is carved into small decorative objects. The species appears on the coat of arms of several Saharan nations.
 
 ## Taxonomy
 
@@ -57,15 +57,15 @@ Nectar is produced at the base of the corolla tube and accumulates in a narrow c
 
 The fruit is a paired follicle fifteen to twenty-five centimeters long containing numerous linear seeds with a tuft of silky coma hairs at each end for wind dispersal.
 
-Root anatomy reveals a specialized vascular structure with wide-band tracheids that facilitate efficient water transport during brief rainfall events. The caudex parenchyma contains mucilaginous cells that retain water through extended drought periods.
+[[root-anatomy-structure-and-nutrient-uptake]] reveals a specialized vascular structure with wide-band tracheids that facilitate efficient water transport during brief rainfall events. The caudex parenchyma contains mucilaginous cells that retain water through extended drought periods.
 
 ## Distribution and Habitat
 
 Adenium obesum occupies a broad range across sub-Saharan Africa from Senegal east to Sudan, Ethiopia, and Somalia, and south through Kenya, Tanzania, and into Namibia and Angola. Disjunct populations occur on the Arabian Peninsula in Yemen, Saudi Arabia, and Oman.
 
-The species serves as an indicator plant for arid ecosystems and is one of the few woody perennials able to colonize extremely degraded, shallow soils in the Sahel zone. Its presence often signals underlying groundwater within two to five meters of the surface.
+The species serves as an indicator plant for [[dighton-fungi-desert-arid-ecosystems]] and is one of the few woody perennials able to colonize extremely degraded, shallow soils in the Sahel zone. Its presence often signals underlying groundwater within two to five meters of the surface.
 
-The species grows in arid and semi-arid environments including rocky hillsides, dry savanna, thorn scrub, and sandy alluvial plains. It is found at elevations from sea level to approximately two thousand meters, often in association with Commiphora, Acacia, and Euphorbia species.
+The species grows in arid and semi-arid environments including rocky hillsides, dry savanna, thorn scrub, and sandy alluvial plains. It is found at elevations from sea level to approximately two thousand meters, often in association with Commiphora, [[acacia]], and Euphorbia species.
 
 Adenium obesum is well-adapted to extreme drought, surviving extended dry periods of six to twelve months by drawing on water stored in its caudex. Established plants can lose all leaves and enter dormancy without tissue damage.
 
@@ -83,39 +83,8 @@ Seed viability declines rapidly at room temperature, dropping below fifty percen
 
 Grafting onto seedling rootstock combines the superior caudex form of seed-grown plants with the rapid flowering of named cultivars. Adenium obesum subsp. obesum rootstock is universally compatible with all cultivated varieties.
 
-Container cultivation requires a coarse, fast-draining substrate amended with perlite or pumice at ratios of fifty to seventy percent. Plants are watered thoroughly during the growing season and kept nearly dry during winter dormancy.
+Container cultivation requires a coarse, fast-draining substrate amended with perlite or pumice at ratios of fifty to seventy percent. Plants are watered thoroughly during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and kept nearly dry during winter dormancy.
 
-Fertilization with a low-nitrogen, high-phosphorus formulation at half-strength every two weeks during active growth promotes flowering without excessive vegetative growth. Excess nitrogen produces elongated, weak stems susceptible to wind damage.
+Fertilization with a low-nitrogen, high-phosphorus formulation at half-strength every two weeks during active growth promotes flowering without excessive [[cannabis-vegetative-growth-stage]]. Excess nitrogen produces elongated, weak stems susceptible to wind damage.
 
-Common pests include mealybugs (Pseudococcidae), spider mites, and root-knot nematodes (Meloidogyne spp.). Fungal rot from overwatering is the most frequent cause of plant loss, particularly during cool, humid conditions when plants are dormant.
-
-The international trade in Adenium cultivars has grown substantially since 2000, with Thailand becoming the leading producer of grafted multi-flowered hybrids. Thai nurseries export several million grafted plants annually to markets in Europe, North America, and East Asia.
-
-## Toxicity and Traditional Uses
-
-All plant parts contain cardiac glycosides including ouabain-like compounds, hongheloside A, and adeniumoside A through D. The dried stem bark of subspecies boehmianum contains glycoside concentrations up to six percent dry weight.
-
-Among the Himba people of Namibia, the sap and pulverized wood of subspecies boehmianum are applied to arrow tips for hunting large game. The toxin causes rapid cardiac arrest in prey animals at doses of approximately two hundred milligrams per kilogram body weight.
-
-The Himba prepare arrow poison by boiling the fresh bark and roots for several hours, concentrating the glycoside extract to a thick paste. This preparation is applied to the shaft behind the arrowhead, where it enters the bloodstream without being destroyed by gastric enzymes.
-
-In East African traditional medicine, diluted latex preparations are applied topically to treat skin infections, wounds, and ringworm. Oral administration of small doses is used as a diuretic and treatment for venereal disease, though the narrow therapeutic window makes this practice dangerous.
-
-In Nigerian folk medicine, the root bark is prepared as a decoction for treating gastrointestinal parasites. The San people of the Kalahari use the sap topically for snakebite, though no clinical validation supports this application.
-
-The cardiac glycosides in Adenium obesum show positive inotropic activity comparable to digitalis compounds. In vitro studies demonstrate inhibition of sodium-potassium ATPase with IC50 values in the nanomolar range, consistent with the cardenolide mechanism of action.
-
-Accidental poisoning in domestic animals has been reported, particularly in cattle and goats that browse the plant during drought when other forage is scarce. Symptoms include excessive salivation, colic, ataxia, and cardiac arrhythmias progressing to ventricular fibrillation.
-
-No specific antidote exists for adenium poisoning. Treatment is supportive and includes gastric lavage, activated charcoal administration, and cardiac monitoring with intravenous potassium supplementation. Fatalities are most common in livestock with pre-existing cardiac conditions.
-
-## See Also
-
-- [[nerium-oleander]]
-- [[catharanthus-roseus]]
-- [[asclepias-syriaca]]
-- [[vinca-minor]]
-- [[echinopsis-pachanoi]]
-- [[aloe-vera]]
-- [[agave-americana]]
-- [[lophophora-williamsii]]
+Common pests include mealybugs (Pseudococcidae), [[cervantes-spider-mites-identification-control]], and root-knot nematodes (Meloidogyne spp.). Fungal rot from overwatering is the most frequent cause of plant loss, particularly during cool, humid conditions when plants are dormant.

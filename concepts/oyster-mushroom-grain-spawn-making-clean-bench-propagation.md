@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom Grain Spawn Production — Clean Bench Inoculation and Propagation
+title: Oyster Mushroom Grain Spawn Making Clean Bench Propagation
 source: unknown-oyster-mushroom-cultivation.md
 author: unknown
 topics: [mushrooms, grain-spawn, inoculation, sterilization, mycelium, cultivation, oyster-mushroom]
@@ -40,7 +40,7 @@ The preparation process involves several precise steps:
    contaminants
 2. **Soaking**: Grain is soaked in water, typically for 12-24 hours, to
    achieve consistent moisture content throughout the kernel. Soaking time
-   depends on grain type and ambient temperature
+   depends on grain type and [[jadam-ambient-temperature-principle]]
 3. **Draining and drying**: After soaking, grain is drained and allowed to air
    dry until the surface is no longer wet. The goal is internal moisture
    without surface water that could promote bacterial growth during
@@ -57,7 +57,7 @@ The preparation process involves several precise steps:
 Sterilization is the most critical step in spawn production. The goal is to
 eliminate all competing microorganisms from the grain substrate:
 
-- **Pressure sterilization**: Grain spawn containers are sterilized in an
+- **[[boil-a-bag-pressure-sterilization-technique]]**: Grain spawn containers are sterilized in an
   autoclave or pressure cooker at 121°C (250°F) for 60-90 minutes, depending
   on container size and load. Larger containers require longer sterilization
   times to ensure heat penetration to the center
@@ -65,7 +65,7 @@ eliminate all competing microorganisms from the grain substrate:
   atmospheric steaming at 100°C for 8-12 hours can achieve adequate
   sterilization, though with lower reliability
 - **Cooling**: After sterilization, containers must cool completely (to below
-  30°C / 86°F) before inoculation. Hot grain will kill the mushroom mycelium
+  30°C / 86°F) before inoculation. Hot grain will kill the [[antimicrobial-compounds-mushroom-mycelium]]
 
 Contamination during sterilization usually results from inadequate heat
 penetration (overloaded autoclave, insufficient time) or from contaminated
@@ -88,54 +88,3 @@ The clean bench (laminar flow hood) is the standard tool:
 Proper clean bench technique is more important than the sophistication of the
 equipment. A well-maintained simple laminar flow hood in the hands of a
 careful operator will outperform an expensive facility used carelessly.
-
-## Inoculation Process
-
-The inoculation procedure follows a strict protocol:
-
-1. **Work area preparation**: The clean bench is turned on 15-30 minutes before
-  use to establish stable laminar flow. The work surface is wiped with 70%
-   isopropyl alcohol
-2. **Tool sterilization**: Inoculation tools are flame-sterilized and allowed
-   to cool briefly
-3. **Source mycelium preparation**: The spawn source — either a pure culture
-   on agar (transferred with a scalpel) or existing grain spawn (transferred
-   by pouring or with a sterile spoon) — is prepared
-4. **Transfer**: Under laminar flow, the sterile container is opened, the
-   mycelium is introduced, and the container is resealed. The entire
-   exposure time should be under 10 seconds
-5. **Mixing**: After inoculation, grain spawn containers are gently shaken to
-   distribute the mycelium throughout the grain. This is typically done once
-   after 30-50% colonization to ensure even growth
-
-## Incubation and Quality Control
-
-After inoculation, grain spawn is incubated at the species-appropriate
-temperature:
-
-- Oyster mushroom species (*Pleurotus* spp.) typically incubate at 22-28°C
-- Full colonization of grain spawn takes 10-21 days depending on species,
-  grain type, and inoculation rate
-- Containers are inspected regularly for signs of contamination: abnormal
-  colors (green, pink, black), sour or sweet odors, slimy textures
-- Contaminated containers are discarded immediately to prevent spread
-
-High-quality grain spawn should be fully colonized (white mycelium visible
-throughout), have a fresh mushroomy smell, and show no signs of contamination.
-Spawn that has been stored too long may show senescence (yellowing, reduced
-vigor) and should be used promptly.
-
-## Storage and Viability
-
-Grain spawn can be stored at 2-4°C for 2-4 months without significant loss of
-viability. Extended storage reduces vigor and increases the risk of
-contamination during subsequent use. For best results, grain spawn should be
-used within 2 months of full colonization.
-
-## See Also
-
-- [[oyster-mushroom-substrate-pasteurization-alkaline]]
-- [[oyster-mushroom-spent-substrate-recycling]]
-- [[oyster-mushroom-fruiting-environment-parameters]]
-- [[oyster-mushroom-species-identification-characteristics]]
-- [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]

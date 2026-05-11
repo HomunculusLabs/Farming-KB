@@ -20,7 +20,7 @@ sources:
 
 **Amaranthus tricolor**, commonly known as **Joseph's coat**, **Chinese spinach**, or **tampala**, is an annual plant in the family Amaranthaceae. It is widely cultivated across tropical and subtropical regions as a leafy vegetable and ornamental plant.
 
-The species is valued for its strikingly colored foliage, which can display combinations of red, yellow, green, orange, and purple. As a vegetable, it is one of the most important leafy greens in tropical Asia and West Africa.
+The species is valued for its strikingly colored foliage, which can display combinations of red, yellow, green, orange, and purple. As a vegetable, it is one of the most important [[lettuce-and-leafy-greens]] in tropical Asia and West Africa.
 
 *Amaranthus tricolor* is fast-growing, reaching harvestable size in 20–30 days from sowing. It tolerates heat and poor soils better than many conventional leafy greens.
 
@@ -70,7 +70,7 @@ The ornamental varieties were extensively developed in Victorian-era European ho
 
 *Amaranthus tricolor* is among the most nutritious leafy vegetables, with exceptionally high concentrations of vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
-Protein content of fresh leaves ranges from 3–5%, with dried leaves reaching 25–35%. The protein quality is high, with a favorable amino acid profile including substantial lysine (5–6% of protein).
+Protein content of fresh leaves ranges from 3–5%, with dried leaves reaching 25–35%. The protein quality is high, with a favorable [[cho-fish-amino-acid-preparation]] profile including substantial lysine (5–6% of protein).
 
 Vitamin A content (as beta-carotene) is extremely high, ranging from 5,000–15,000 µg RAE per 100 g fresh weight. This makes it one of the richest plant sources of provitamin A, far exceeding spinach or kale.
 
@@ -78,7 +78,7 @@ Vitamin C content ranges from 60–150 mg per 100 g fresh weight. Folate content
 
 Mineral content includes iron (3–6 mg/100 g fresh), calcium (200–400 mg/100 g), and magnesium (50–80 mg/100 g). Calcium bioavailability is moderate due to oxalate content.
 
-The leaves contain significant amounts of phenolic compounds, including betalains in red-pigmented varieties. Total antioxidant capacity is high, comparable to or exceeding common fruits and vegetables.
+The leaves contain significant amounts of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], including betalains in red-pigmented varieties. Total antioxidant capacity is high, comparable to or exceeding common fruits and vegetables.
 
 ## Cultivation
 
@@ -87,29 +87,3 @@ The leaves contain significant amounts of phenolic compounds, including betalain
 The crop tolerates a wide range of soil types but prefers well-drained, fertile loams with pH 5.5–7.0. It has moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established but produces best with regular moisture.
 
 [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, with seed rate of 2–5 kg/ha. Seeds are sown shallowly (0.5–1 cm depth) in rows 30–50 cm apart. Germination occurs within 3–7 days.
-
-Leaf harvest begins 20–30 days after sowing, with successive cuttings every 10–15 days for 2–4 months. The whole-plant harvest method (cutting at ground level) allows regrowth for multiple harvests.
-
-Yields of fresh leaves range from 10–30 tonnes/ha depending on variety, management, and harvest frequency. Ornamental cultivars are grown for 60–90 days before full color development.
-
-[[hamilton-pest-and-disease-control-organic]] pressure includes leaf-chewing insects (caterpillars, beetles), aphids, and fungal leaf spots. The crop is relatively disease-resistant compared to many leafy vegetables.
-
-## Uses and Varieties
-
-The primary use of *Amaranthus tricolor* is as a cooked leafy vegetable. Leaves are boiled, stir-fried, or added to soups. The cooked leaves have a mild, slightly spinach-like flavor with no bitterness.
-
-In India, it is known as *lal shaak* (red amaranth) and is a common ingredient in Bengali, Odia, and Assamese cuisine. In China, it is called *xian cai* and is widely used in stir-fries.
-
-In West Africa, particularly Nigeria and Benin, *A. tricolor* is an important traditional vegetable. It is often sold in local markets alongside other indigenous leafy greens.
-
-Ornamental varieties include 'Illumination', 'Early Splendor', 'Joseph's Coat', and 'Molten Fire'. These are selected for their vivid, multi-colored foliage and are widely used in summer bedding displays.
-
-The seeds are edible and nutritionally similar to other amaranth grains, but *A. tricolor* is primarily harvested for leaves rather than grain. [[fukuoka-no-till-grain-production-method]] requires longer season length.
-
-## See Also
-
-- [[amaranthus-hypochondriacus]]
-- [[beta-vulgaris]]
-- [[phaseolus-vulgaris]]
-- [[moringa-oleifera]]
-- [[sorghum-bicolor]]

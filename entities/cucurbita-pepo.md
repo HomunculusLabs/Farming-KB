@@ -25,7 +25,7 @@ sources:
 
 The species was domesticated approximately 8,000–10,000 years ago in what is now Mexico.
 
-It is one of the foundational crops of Mesoamerican agriculture. Along with maize (*Zea mays*) and beans (*Phaseolus vulgaris*), it forms the **Three Sisters** [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] system that sustained Indigenous [[growing-gourmet-north-american-reishi-species]] civilizations for millennia.
+It is one of the foundational crops of Mesoamerican agriculture. Along with maize (*[[zea-mays]]*) and beans (*[[phaseolus-vulgaris]]*), it forms the **Three Sisters** [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] system that sustained Indigenous [[growing-gourmet-north-american-reishi-species]] civilizations for millennia.
 
 ## Taxonomy and Cultivar Groups
 
@@ -37,7 +37,7 @@ It is one of the foundational crops of Mesoamerican agriculture. Along with maiz
 
 The species is divided into several cultivar groups based on fruit characteristics:
 
-- **Pumpkin** — large, round to oval, orange or white rind; used for carving, pies, and livestock feed
+- **Pumpkin** — large, round to oval, orange or white rind; used for carving, pies, and [[livestock-feed-formulation]]
 - **Zucchini (Courgette)** — cylindrical, harvested immature, dark green to yellow; the most widely consumed summer squash
 - **Crookneck** — curved neck, yellow rind, bumpy surface; traditional American summer squash
 - **Scallop (Pattypan)** — disc-shaped with scalloped edges; white, yellow, or green
@@ -60,7 +60,7 @@ Seeds are flat, oval, white to brown, 1–2 cm long, and rich in oil and protein
 
 ## Distribution and Habitat
 
-Wild *Cucurbita pepo* (subsp. *fraterna* and free-living populations of subsp. *ovifera*) is native to northeastern Mexico and the southwestern United States. Domesticated forms are now grown worldwide in temperate and subtropical regions.
+Wild *Cucurbita pepo* (subsp. *fraterna* and free-living populations of subsp. *ovifera*) is native to northeastern Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]]. Domesticated forms are now grown worldwide in temperate and subtropical regions.
 
 The species requires warm temperatures (optimal 20–30°C), full sun, and consistent moisture.
 
@@ -72,7 +72,7 @@ It is frost-sensitive and grows as a summer annual in temperate zones. Soils sho
 
 The seeds contain 30–50% oil rich in **linoleic acid** (C18:2 ω-6), oleic acid, and phytosterols (β-sitosterol, stigmasterol). Pumpkin seed oil is a commercial product valued for its nutty flavor and health benefits.
 
-**Carotenoids** accumulate in the flesh and rind: β-carotene, lutein, and zeaxanthin in orange-fleshed varieties. **L-tryptophan** in the seeds has been studied for its role in serotonin synthesis and mood regulation. **Phenolic compounds** in the flesh include caffeic acid, vanillic acid, and ferulic acid.
+**Carotenoids** accumulate in the flesh and rind: β-carotene, lutein, and zeaxanthin in orange-fleshed varieties. **L-tryptophan** in the seeds has been studied for its role in serotonin synthesis and mood regulation. **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]** in the flesh include caffeic acid, vanillic acid, and ferulic acid.
 
 ## Edible and Medicinal Use
 
@@ -87,36 +87,3 @@ Traditional medicinal uses include treatment of intestinal parasites (attributed
 In Mexican traditional medicine, the seeds (*pepitas*) are ground and consumed with honey or milk as an anthelmintic.
 
 The preparation is taken on an empty stomach, followed by a laxative to expel paralyzed parasites. This traditional practice has been validated by modern clinical studies showing 75–95% efficacy against tapeworms using whole-seed preparations.
-
-## Permaculture and Companion Planting
-
-*Cucurbita pepo* occupies the ground-cover layer in [[query-what-is-a-permaculture-guild-and-how-do-i-design-one]] plantings. Its broad leaves suppress weeds, retain soil moisture, and create a living mulch. In the Three Sisters system, squash vines shade the soil around maize and bean roots, reducing weed competition and evaporation.
-
-Companion planting with **radishes and nasturtiums** deters cucumber beetles and squash bugs.
-
-Marigolds planted nearby repel nematodes in the root zone. The plant's growth habit makes it incompatible with potatoes, which compete for the same soil resources.
-
-The species is a heavy feeder — it benefits from compost-rich soils and nitrogen-fixing companion plants.
-
-In no-till systems, pumpkins can be direct-seeded into killed cover crop residues. Spent vines and fruit residues contribute significant [[hamilton-composting-and-organic-matter-management]] to the soil.
-
-## Cultivation
-
-Direct sowing after the last frost is standard practice. Seeds germinate in 5–10 days at soil temperatures above 20°C. Hills spaced 1–2 m apart with 3–5 seeds per hill are traditional; modern row spacing is 0.9–1.5 m with 30–60 cm within rows.
-
-Summer squashes mature in 50–65 days from sowing; winter squashes require 80–120 days.
-
-Yields range from 10–40 tonnes per hectare depending on cultivar and growing conditions. Hand pollination may be necessary when pollinator populations are low.
-
-Major global producers include China, India, Russia, the United States, and Mexico.
-
-The species is susceptible to squash vine borer (*Melittia cucurbitae*), [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*), and cucumber mosaic virus.
-
-## See Also
-
-- [[cucurbita-maxima]]
-
-- [[colocasia-esculenta]]
-- [[cajanus-cajan]]
-- [[lemna-minor]]
-- cucurbitaceae

@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Osmorhiza claytonii, commonly known as sweet cicely, Clayton's sweetroot, or mountain sweet cicely, is a perennial herbaceous plant in the family Apiaceae native to deciduous forests of [[polypore-fungi-eastern-north-america]] America. It is closely related to the European sweet cicely (Myrrhis odorata) but is a distinct species native to the [[growing-gourmet-north-american-reishi-species]] continent.
+Osmorhiza claytonii, commonly known as sweet cicely, Clayton's sweetroot, or mountain sweet cicely, is a perennial herbaceous plant in the family Apiaceae native to deciduous forests of [[polypore-fungi-eastern-north-america]] America. It is closely related to the European sweet cicely ([[myrrhis-odorata]]) but is a distinct species native to the [[growing-gourmet-north-american-reishi-species]] continent.
 
 The plant is valued for its anise-scented roots, which have been used traditionally as both food and medicine by Indigenous peoples and early European settlers.
 
@@ -56,11 +56,11 @@ The fruit is a schizocarp (splitting fruit) 12–25 mm long, linear and elongate
 
 ## Distribution and Habitat
 
-Osmorhiza claytonii is native to eastern North America, ranging from Quebec and Ontario south to Georgia and Alabama, and west to Minnesota and Iowa. It is most abundant in the Appalachian region and the mixed hardwood forests of the Great Lakes states.
+Osmorhiza claytonii is native to eastern [[guzman-psilocybin-mushrooms-north-america]], ranging from Quebec and Ontario south to Georgia and Alabama, and west to Minnesota and Iowa. It is most abundant in the [[bolete-fungi-appalachian-region]] and the mixed hardwood forests of the Great Lakes states.
 
 The species is an understory plant of rich, moist deciduous forests.
 
-It is most commonly found in mature woodlands with deep, well-drained loamy soils high in [[hamilton-composting-and-organic-matter-management]]. Typical canopy associates include sugar maple (Acer saccharum), American beech (Fagus grandifolia), basswood (Tilia americana), and various oaks (Quercus spp.).
+It is most commonly found in mature woodlands with deep, well-drained loamy soils high in [[hamilton-composting-and-organic-matter-management]]. Typical canopy associates include sugar maple (Acer saccharum), American beech ([[fagus-grandifolia]]), basswood ([[tilia-americana]]), and various oaks (Quercus spp.).
 
 It tolerates moderate shade but can also persist in woodland edges and semi-open conditions.
 
@@ -79,7 +79,7 @@ The root of Osmorhiza claytonii is the primary part used for both food and medic
 
 ### Medicinal Uses
 
-Traditional medicinal applications documented among North American Indigenous peoples include:
+Traditional medicinal applications documented among [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] Indigenous peoples include:
 
 - Treatment of digestive complaints including flatulence, colic, and indigestion.
 - Use as a carminative and stomachic, consistent with the anise-like [[permaculture-designers-manual-essential-oil-plants]] content.
@@ -87,28 +87,3 @@ Traditional medicinal applications documented among North American Indigenous pe
 - Use as a general tonic and cold remedy among the Cherokee and Iroquois.
 
 The essential oil of Osmorhiza species contains anethole and related compounds, which likely account for the carminative properties. Modern pharmacological studies are limited.
-
-## Permaculture and Forest Garden Applications
-
-Osmorhiza claytonii is an excellent candidate for inclusion in temperate food forests and woodland gardens due to its shade tolerance and low maintenance requirements.
-
-As a native understory herb, it integrates well into existing forest ecosystems without requiring site modification. It spreads slowly by seed and can form small colonies over time in suitable conditions.
-
-The plant serves multiple functions in a designed ecosystem:
-
-- **Edible root crop:** Provides a perennial spice crop requiring no annual cultivation.
-- **Ground cover:** The low-growing foliage provides light ground cover in forest garden understories.
-- **Insectary:** The small umbelliferous flowers attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including predatory wasps and syrphid flies.
-- **Soil stabilization:** The fibrous root system helps stabilize soil in woodland settings.
-
-## Similar Species
-
-- **Osmorhiza longistylis (long-styled sweet cicely):** Very similar but has longer styles (2–4 mm vs. less than 1 mm in O. claytonii) and shorter, less bristly fruits. More common in the western part of the range.
-- **Myrrhis odorata (European sweet cicely):** Introduced ornamental occasionally naturalized in North America. Has more finely divided, fern-like foliage and smoother fruits.
-- **Cicuta maculata (water hemlock):** Extremely toxic species that shares the Apiaceae family. Grows in wet habitats, not dry woods. Has purple stem blotches and swollen rootstock bases — critical to distinguish.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[plantago-major]]
-- [[food-forest]]

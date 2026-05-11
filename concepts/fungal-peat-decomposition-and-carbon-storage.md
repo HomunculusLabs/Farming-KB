@@ -9,7 +9,7 @@ sources: []
 Peat formation represents one of the most significant long-term
 carbon storage mechanisms in terrestrial ecosystems. Fungi play a
 central but paradoxical role in peatland dynamics: they are the
-primary decomposers of organic matter in peat, yet the slow rate of
+primary decomposers of [[maintaining-organic-matter-in-vegetable-gardens]] peat, yet the slow rate of
 decomposition under peatland conditions allows organic matter to
 accumulate over millennia, creating vast carbon reservoirs.
 ## Peat Formation Process
@@ -46,13 +46,13 @@ Multiple factors interact to limit decomposition:
   over bacteria but still constrain overall decomposition rates.
 - **Recalcitrant litter quality**, particularly high lignin and
   polyphenol content from Sphagnum moss, provides chemical
-  resistance to enzymatic degradation.
+  resistance to [[enzymatic-degradation-in-mycoremediation]].
 ## Carbon Storage Significance
 Peatlands contain approximately 30% of global soil carbon despite
 covering only about 3% of Earth's land surface. The imbalance
 between organic matter input and decomposition has operated over
 thousands of years, building vast carbon stores critical to the
-global carbon cycle. During the Carboniferous period, the rapid
+[[fungal-decomposition-and-the-global-carbon-cycle]]. During the Carboniferous period, the rapid
 demise of forests combined with climatic limitations for complete
 decomposition resulted in huge carbon deposits now existing as
 coal and oil.
@@ -81,20 +81,10 @@ dominance in these systems. This fungal-dominated community
 structure is an important factor in the slow carbon turnover that
 characterizes peatland ecosystems.
 ## Enzyme Systems in Peat Decomposition
-Fungi produce a suite of extracellular enzymes adapted to peatland
+Fungi produce a suite of [[fungal-extracellular-enzymes]] adapted to peatland
 conditions. Phenol oxidases, laccases, and peroxidases target the
-recalcitrant phenolic compounds abundant in Sphagnum litter and
+recalcitrant [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] abundant in Sphagnum litter and
 woody peat components. Cellulases and hemicellulases break down
 polysaccharide fractions. The production rates of these enzymes are
 strongly influenced by water table position, temperature, and
-nutrient availability. In waterlogged conditions, oxidative enzyme
-activity is suppressed, contributing to organic matter preservation.
-Sphagnum-dominated peatlands show particularly low enzymatic
-decomposition potential compared to sedge or woody peat types.
-## See Also
-- [[fungal-nitrogen-mineralization-pathways]]
-- fungal-carbon-storage-mycorrhizal-pathways
-- [[fungal-decomposition-processes]]
-- [[fungal-antarctic-polar-diversity]]
-- [[fungal-ecosystem-processes-overview]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]
+[[ph-and-nutrient-availability-garden-soils]]. In waterlogged conditions, oxidative enzyme

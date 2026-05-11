@@ -14,14 +14,14 @@ sources:
   - Smith, W.H. (1978). "Nutrient losses from American hazelnut litter and soil." Plant and Soil, 50(1), 21-32.
   - Corden, T.C. (2005). "American hazelnut as an alternative crop for the Midwest." HortTechnology, 15(3), 510-514.
   - Andrews, M. (2011). "The use of nitrogen isotope ratios in environmental studies." In Nitrogen in the Environment. Elsevier.
-  - Molano-Flores, B. (2001). "Reproductive biology of Corylus americana." American Midland Naturalist, 145(1), 65-72.
+  - Molano-Flores, B. (2001). "[[clarke-marijuana-botany-sex-determination-reproductive-biology]] of Corylus americana." American Midland Naturalist, 145(1), 65-72.
 ---
 
 ## Overview
 
-Corylus americana, commonly known as American hazelnut, is a deciduous shrub in the family Betulaceae native to eastern and central North America.
+Corylus americana, commonly known as American hazelnut, is a deciduous shrub in the family Betulaceae native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
 
-The species produces edible nuts that are smaller but similarly flavored to commercially grown European hazelnuts from Corylus avellana.
+The species produces edible nuts that are smaller but similarly flavored to commercially grown European hazelnuts from [[corylus-avellana]].
 
 American hazelnut is an ecologically important understory shrub that provides food and habitat for numerous wildlife species.
 
@@ -31,7 +31,7 @@ The plant is increasingly recognized for its potential as a sustainable nut crop
 
 Corylus americana Marshall, family Betulaceae, tribe Coryleae. The species was described by Humphry Marshall in 1785 from Pennsylvania collections.
 
-The genus Corylus contains approximately 15 to 20 species of deciduous trees and shrubs distributed across temperate regions of the Northern Hemisphere.
+The genus Corylus contains approximately 15 to 20 species of deciduous trees and shrubs distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 American hazelnut typically grows as a multi-stemmed shrub 2 to 4 meters tall, occasionally reaching 5 meters under favorable conditions.
 
@@ -55,7 +55,7 @@ Nuts ripen in late summer to early autumn, turning brown as the involucres dry a
 
 ## Distribution and Habitat
 
-Corylus americana ranges from Maine and Nova Scotia west to Minnesota, eastern North Dakota, and south to Georgia and Oklahoma.
+Corylus americana ranges from Maine and Nova Scotia west to Minnesota, [[polypore-fungi-eastern-north-america]] Dakota, and south to Georgia and Oklahoma.
 
 The species is most abundant in the central hardwood forest region, particularly in Ohio, Indiana, Illinois, Iowa, and Missouri.
 
@@ -73,7 +73,7 @@ American hazelnut is winter-hardy to USDA zone 3, making it more cold-tolerant t
 
 ## Ecology and Wildlife Value
 
-American hazelnut is among the most important mast-producing shrubs for wildlife in eastern North American forest ecosystems.
+American hazelnut is among the most important mast-producing shrubs for wildlife in eastern [[growing-gourmet-north-american-reishi-species]] forest ecosystems.
 
 The nuts are consumed by numerous bird species including wild turkey, ruffed grouse, woodpeckers, blue jays, and red-bellied woodpeckers.
 
@@ -88,53 +88,3 @@ American hazelnut is a larval host plant for several moth species, including the
 The catkins provide early-season pollen for bees and other pollinating insects emerging from winter dormancy.
 
 Root systems contribute to soil stabilization on slopes and stream banks, reducing erosion in riparian areas.
-
-The species forms mycorrhizal associations with both ectomycorrhizal and arbuscular mycorrhizal fungi.
-
-## Nutritional and Agricultural Value
-
-American hazelnut kernels contain approximately 60 to 65 percent fat, 15 to 18 percent protein, and 15 to 18 percent carbohydrate.
-
-The oil is rich in monounsaturated fatty acids, particularly oleic acid, and contains tocopherols with antioxidant properties.
-
-Nutritional composition is broadly similar to European hazelnut, though kernel size is roughly one-third to one-half that of commercial cultivars.
-
-Interest in American hazelnut as a crop has increased due to its resistance to eastern filbert blight caused by Anisogramma anomala.
-
-This fungal pathogen devastates European hazelnut plantings in eastern North America but rarely affects native American hazelnut.
-
-Breeding programs at Oregon State University and the University of Nebraska have developed hybrid crosses combining nut size from Corylus avellana with disease resistance from Corylus americana.
-
-American hazelnut yields in wild stands typically range from 0.5 to 2 kilograms per plant, with potential for improvement through selection.
-
-The species shows promise in agroforestry systems, producing nuts while providing windbreaks, wildlife habitat, and soil conservation benefits.
-
-Nuts can be used raw, roasted, or pressed for culinary oil, similar to European hazelnut products.
-
-## Cultivation
-
-American hazelnut is easily propagated from seed, though stratification at 2 to 4 degrees Celsius for 90 to 120 days improves germination.
-
-Vegetative propagation by softwood cuttings, layering, and tissue culture is also possible but less efficient than seed propagation.
-
-The species establishes quickly on disturbed sites and begins producing nuts at approximately 3 to 5 years of age from seed.
-
-Optimal planting density for nut production is approximately 1,000 to 2,000 plants per hectare in managed orchards.
-
-Pruning involves removing older stems to maintain productivity, as nut production is highest on 2 to 4 year old wood.
-
-The species is relatively pest-free compared to European hazelnut, with filbert bud mite and hazelnut weevil being the primary insect concerns.
-
-Fertilizer requirements are modest, and the species performs well on low-nitrogen sites due to efficient nutrient cycling.
-
-## See Also
-
-- [[corylus-avellana]]
-- [[corylus-cornuta]]
-- [[acer-saccharum]]
-- [[betula-papyrifera]]
-- [[fagus-grandifolia]]
-- [[juglans-regia]]
-- [[castanea-dentata]]
-- [[vaccinium-corymbosum-entity]]
-- [[rubus-idaeus]]

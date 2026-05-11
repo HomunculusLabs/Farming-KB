@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Ju, Y.-M. & Rogers, J.D. (1996). "A revision of the genus Hypoxylon." Mycologia Memoir No. 20. APS Press.
   - Whalley, A.J.S. (1996). "The xylariaceous way of life." Mycological Research, 100(8), 897-904.
-  - Petrini, O. et al. (1995). "Host specificity and biodiversity in xylariaceous endophytes." Canadian Journal of Botany, 73(S1), S84-S91.
+  - Petrini, O. et al. (1995). "[[fungal-endemism-host-specificity]] and biodiversity in [[xylariaceous-endophytes]]." Canadian Journal of Botany, 73(S1), S84-S91.
   - Stadler, M. et al. (2014). "A polythetic approach to the genus Hypoxylon." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 64(1), 1–51.
   - Sieber, T.N. (2007). "comparison-endophytic-fungi-vs-mycorrhizal-fungi in forest trees." In: Microbial Root Endophytes. Springer, Berlin.
 created: 2026-04-28
@@ -29,7 +29,7 @@ effused-reflexed cushions.
 
 Beyond its saprotrophic role, H. fuscum is recognized as a common endophytic
 fungus, colonizing living tissues of healthy host plants asymptomatically.
-This dual lifestyle — endophyte in living tissue, saprotroph on dead wood —
+This dual lifestyle — endophyte in living tissue, saprotroph on [[fungal-dead-wood-diversity]] —
 is characteristic of many Xylariaceae and has significant ecological implications.
 
 ## Taxonomy and Morphology
@@ -82,40 +82,8 @@ forests, including shaded ravines and stream corridors.
 ## Bioactive Compounds
 
 H. fuscum produces a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] characteristic of the
-Xylariaceae, including cytotoxic and antimicrobial compounds.
+Xylariaceae, including cytotoxic and [[antimicrobial-compounds-mushroom-mycelium]].
 
 The species is a known producer of hypoxylonol and related metabolites,
 which have demonstrated antimicrobial activity against Gram-positive bacteria
-including Staphylococcus aureus and Bacillus subtilis.
-
-Pigment production is significant, with the dark stromatal coloration
-resulting from deposition of melanins and other polymeric phenolic compounds.
-These melanins contribute to UV resistance and desiccation tolerance.
-
-Endophytic isolates of H. fuscum have been shown to produce different
-metabolite profiles compared to saprotrophic fruiting collections, suggesting
-that gene expression for secondary metabolism shifts with the fungal lifestyle.
-
-## Ecological Role
-
-As a saprotroph, H. fuscum contributes to the decomposition of hardwood
-branches, facilitating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems. It acts as a
-primary colonizer of dead twigs, often succeeded by other fungal species in
-a well-documented succession sequence.
-
-Its endophytic phase involves asymptomatic colonization of living host
-tissues, where it may confer protection against herbivorous insects and
-pathogenic fungi through production of deterrent secondary metabolites.
-
-The fungus may play a role in forest health by pre-colonizing living tissues
-and accelerating decomposition after host branch death, effectively creating
-a priority effect that structures the subsequent decomposer community.
-
-Interactions with other Xylariaceae species include both competitive
-exclusion on shared substrates and potential synergistic relationships
-during wood decomposition, as different species target different wood
-components.
-
-## See Also
-
-[[daldinia-concentrica]] · [[xylaria-longipes]] · [[coriolopsis-gallica]] · [[ganoderma-applanatum]]
+including [[staphylococcus-aureus]] and [[bacillus-subtilis]].

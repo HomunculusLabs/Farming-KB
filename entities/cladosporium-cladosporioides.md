@@ -25,7 +25,7 @@ Cladosporium cladosporioides is an anamorphic (asexual) ascomycete
 in the class Dothideomycetes. The genus Cladosporium is one of the
 largest genera of dematiaceous hyphomycetes, characterized by darkly
 pigmented (melanized) conidia and conidiophores. Related species
-include *Cladosporium herbarum* and *C. sphaerospermum*.
+include *[[cladosporium-herbarum]]* and *C. sphaerospermum*.
 
 ## Agricultural Disturbance Indicator
 
@@ -47,7 +47,7 @@ mycelial disruption and rapid colonization of newly available substrates.
 The shift toward Cladosporium-dominated communities reflects a broader
 transition from fungal-controlled nutrient mineralization to
 bacterial-dominated decomposition. Interest has grown in returning to
-less intensive agricultural practices that would shift the decomposer
+less intensive [[mycorrhizal-agricultural-practices]] that would shift the decomposer
 community back toward fungi with integrated functions including
 [[dighton-fungal-nutrient-immobilization-turnover]], [[soil-aggregate-formation-fungal-contributions]], and decomposition.
 
@@ -60,7 +60,7 @@ value. Mites showed little food selection among Trichoderma,
 Cladosporium, and Pythium, whereas collembola preferred mixed
 microfungal diets. C. cladosporioides occupies a position as a primary
 decomposer whose dark pigmentation provides UV protection, but it
-channels relatively little energy to higher trophic levels through
+channels relatively little energy to higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through
 grazing.
 
 ## Atmospheric Pollution Interactions
@@ -68,8 +68,8 @@ grazing.
 ### Sulfite and Sulfur Dioxide Effects
 
 Dursun et al. (1996a) and Boddy et al. (1996) showed that sulfite at
-12.5–100 µM inhibited mycelial growth and spore germination of C.
-cladosporioides, *Mycena galopus*, *Phoma exigua*, and *Aureobasidium
+12.5–100 µM inhibited [[mycelial-growth-and-colonization]] [[growing-gourmet-spore-germination-strain-isolation]] of C.
+cladosporioides, *[[mycena-galopus]]*, *Phoma exigua*, and *Aureobasidium
 pullulans*, with spores more resistant than mycelia. Decomposition of
 Sitka spruce litter was also reduced. However, respiration of C.
 cladosporioides was unaffected by SO2 concentration on any leaf litter
@@ -88,47 +88,3 @@ pollution and soil chemistry.
 Zhdanova et al. (2001) isolated 37 microfungal species from the
 Chernobyl reactor room walls under conditions of 1.5–800 mR/h in the
 presence of plutonium, americium-241, curium-244, and cesium-137.
-C. cladosporioides was among the species isolated, with 26.8% isolation
-frequency at lower radiation levels (1.5–25 mR/h) but only 11.1% at
-higher levels (40–220 mR/h). This contrasts with *C. sphaerospermum*,
-which showed the highest radiation tolerance at 73.7% and 99.9%
-respectively. Vember et al. (1999) demonstrated that different strains
-of C. cladosporioides exhibit different directional growth responses
-to radiation (positive or negative radiotropism), indicating complex
-intrapspecific physiological adaptations.
-
-## Ecological Significance
-
-Cladosporium cladosporioides serves as a key indicator species for
-agricultural soil disturbance and atmospheric pollution effects. Its
-dramatic increase in frequency under cultivation (from 10% to 100%
-of soil samples) makes it a reliable bioindicator of the transition
-from natural to agricultural soil ecosystems. Its moderate sensitivity
-to sulfite and SO2, combined with its radiation tolerance documented
-at Chernobyl, positions it as a species that persists across a wide
-range of environmental stress conditions. Its relatively low food value
-for soil microarthropods suggests it plays a greater role in
-competitive interactions within the decomposer community than in
-channeling energy to higher trophic levels.
-
-## Key Studies
-
-| Year | Researchers | Finding |
-|------|------------|---------|
-| 1985 | Kurakov and Mirchink | C. cladosporioides increases from 10% to 100% under cultivation |
-| 1996 | Dursun et al. | Sulfite inhibits C. cladosporioides mycelial growth |
-| 2000 | Zhdanova et al. | C. cladosporioides isolated from Chernobyl reactor walls |
-| 2001 | Zhdanova et al. | Higher fungal isolation frequency at greater radiation levels |
-
-## See Also
-
-- [[cladosporium-herbarum]]
-
-- lichen-air-quality-biomonitoring-sampling-protocols
-
-- [[soil-food-web-nutrient-cycling]]
-
-- [[hebeloma-crustuliniforme]] - ectomycorrhizal fungus with low collembola palatability
-- [[glomus-mosseae]] - [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus in grasslands
-- [[hymenoscyphus-ericae]] - [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungus in heathlands
-- [[paxillus-involutus]] - ectomycorrhizal species with heavy [[fungal-metal-tolerance-mechanisms]]

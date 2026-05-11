@@ -89,36 +89,6 @@ is theoretically unlimited."
 
 ### The Life-Ethic Thesis
 
-"Living organisms and living systems are not only means but ends. In
-addition to their value to man, they have an intrinsic worth which we
-don't allow them. That a tree is something of value in itself, even
-if it has no value to us, that notion is a pretty foreign sort of
-thought to us."
-
-## Design for Remedial Action
-
-The course advocates designing for permanence: forests, permanent
-pastures, lakes and ponds, and non-tillage agriculture. Three methods
-of water storage are identified: in soils, in surface earth tanks,
-and in sealed catchments. For every 5,000 gallons stored in concrete,
-250,000 gallons can be stored in earth tanks at the same cost.
-
-The ethical imperative is stated clearly: "We have to make our
-knowledge active. We have to move from a passive to an active thought
-level." The course aims to "break the monopoly of the elite
-alternative" by training hundreds of permaculture designers.
-
-## Cooperative Rather Than Competitive
-
-"What we are involved in is a cooperative, not a competitive, system."
-The course emphasises delegation of work, open sharing of information,
-and rapid dissemination of skills. "There is no hope that we can get
-this done in the next five years if we keep it to ourselves."
-
 ## See Also
-
-- permaculture-chicken-forage-systems-design-course
-- [[mollison-designers-pattern-understanding-in-design]]
-- coastal-permaculture-design-mollison
-
-- [[permaculture-design-course-methodology|Permaculture Design Course]] - [[permaculture-ethics-and-principles|Permaculture Ethics]] - [[mollison-permaculture-two-introduction-design-principles]] - [[zone-and-sector-analysis|Zone and Sector Analysis]] - [[bill-mollison]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[mollison-permaculture-two-introduction-design-principles]]

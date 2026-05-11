@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Gaylussacia baccata**, commonly known as black huckleberry, is a deciduous shrub in the family Ericaceae, closely related to blueberries (*Vaccinium* spp.). It is native to eastern North America, ranging from Nova Scotia west to Wisconsin and south to Georgia and Alabama.
+**Gaylussacia baccata**, commonly known as black huckleberry, is a deciduous shrub in the family Ericaceae, closely related to blueberries (*Vaccinium* spp.). It is native to [[polypore-fungi-eastern-north-america]], ranging from Nova Scotia west to Wisconsin and south to Georgia and Alabama.
 
 The species produces sweet, dark blue to black berries that have been gathered from wild stands for centuries. Unlike true blueberries, huckleberry fruit bear ten hard seed-like nutlets that give the berries a distinctive gritty texture.
 
@@ -47,13 +47,13 @@ The species was originally described as *Vaccinium baccatum* by Johann Gottfried
 
 ## Distribution and Habitat
 
-Black huckleberry ranges from Newfoundland and Nova Scotia west to Ontario, Wisconsin, and Minnesota, and south through the Appalachian Mountains to northern Georgia and Alabama. It is most abundant in the northeastern United States and southeastern Canada.
+Black huckleberry ranges from Newfoundland and Nova Scotia west to Ontario, Wisconsin, and Minnesota, and south through the Appalachian Mountains to northern Georgia and Alabama. It is most abundant in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada.
 
 The species occurs in dry to mesic acidic forests, rocky ledges, barrens, and openings in oak-pine and mixed hardwood forests. It is a common component of the heath layer in pitch pine-scrub oak barrens and other fire-prone communities.
 
 Elevation ranges from sea level to approximately 1,500 m in the southern Appalachians. The species is more drought-tolerant than most *Vaccinium* species and thrives on well-drained sandy or rocky soils.
 
-Black huckleberry prefers acidic soils with pH 4.0–5.5 and moderate organic matter content. It is frequently found on glacial till, sandy outwash plains, and acidic rocky ridges. The species is shade-tolerant but produces more fruit in open, sunny conditions.
+Black huckleberry prefers acidic soils with pH 4.0–5.5 and moderate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content. It is frequently found on glacial till, sandy outwash plains, and acidic rocky ridges. The species is shade-tolerant but produces more fruit in open, sunny conditions.
 
 ## Nutritional Value and Chemistry
 
@@ -73,9 +73,9 @@ The flowers provide nectar for native bees, particularly bumblebees and sweat be
 
 The shrub provides cover and nesting habitat for ground-nesting birds and small mammals. Dense huckleberry thickets offer thermal refuge for wildlife during both summer heat and winter cold.
 
-Black huckleberry responds positively to fire. Top-killed plants resprout vigorously from the root crown, often producing heavier berry crops in the first few post-fire growing seasons. This fire-adapted response has maintained the species' abundance in fire-prone barrens ecosystems.
+Black huckleberry responds positively to fire. Top-killed plants resprout vigorously from the root crown, often producing heavier berry crops in the first few post-fire [[jeavons-climate-adaptation-growing-seasons]]. This fire-adapted response has maintained the species' abundance in fire-prone barrens ecosystems.
 
-The species forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that facilitate nutrient uptake in nutrient-poor acidic soils. These mycorrhizal connections may also facilitate nutrient transfer between forest plants through common [[dighton-mycorrhizal-networks-carbon-transfer]].
+The species forms [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations that facilitate [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in nutrient-poor acidic soils. These mycorrhizal connections may also facilitate nutrient transfer between forest plants through common [[dighton-mycorrhizal-networks-carbon-transfer]].
 
 ## Ethnobotanical Use
 
@@ -85,35 +85,6 @@ The Iroquois used black huckleberry leaf infusions as a treatment for diarrhea a
 
 European settlers quickly adopted huckleberry gathering, and the fruit became a beloved feature of rural American foodways. Mark Twain immortalized huckleberries in *Huckleberry Finn*, cementing the fruit's place in American cultural heritage.
 
-Commercial wild harvesting of black huckleberries continues in parts of the Appalachian region and northeastern United States. The berries are sold at farmers' markets and used in jams, pies, and other baked goods. Limited cultivation has been attempted but the species remains primarily wild-harvested.
+Commercial wild harvesting of black huckleberries continues in parts of the [[bolete-fungi-appalachian-region]] and northeastern United States. The berries are sold at farmers' markets and used in jams, pies, and other baked goods. Limited cultivation has been attempted but the species remains primarily wild-harvested.
 
 ## Related Species
-
-The genus *Gaylussacia* comprises approximately 50 species distributed primarily in the Americas. In eastern North America, *G. baccata* co-occurs with *G. frondosa* (dangleberry), *G. ursina* (bear huckleberry), and *G. dumosa* (dwarf huckleberry).
-
-*G. frondosa* is distinguished by its larger, dangling fruit and more open growth habit. *G. ursina* produces yellowish-green berries and is restricted to mountainous areas of the southern Appalachians. *G. dumosa* is a diminutive species of coastal plain pine barrens.
-
-*Gaylussacia* is most closely related to *Vaccinium* within the Ericaceae. The primary morphological distinction is the presence of ten bony nutlets per fruit in *Gaylussacia* versus numerous small seeds in *Vaccinium*. The resinous glandular leaf undersides of *Gaylussacia* are another diagnostic feature absent in most *Vaccinium* species.
-
-## Conservation Status
-
-Black huckleberry is widespread and secure across most of its range. It is listed as globally secure (G5) by NatureServe. However, localized populations in heavily developed areas of the northeastern United States have declined due to habitat fragmentation and fire suppression.
-
-Fire suppression is the primary conservation concern for black huckleberry. In the absence of regular fire, successional processes allow taller woody species to outcompete huckleberry in the understory, leading to population declines in fire-adapted barrens communities.
-
-[[dighton-fungi-climate-change-feedback]] may affect the species through shifts in the timing of flowering and fruiting. Warmer temperatures and altered precipitation patterns could impact berry production, pollinator synchrony, and the suitability of current habitat in the southern portions of the range.
-
-## See Also
-
-- [[gaylussacia-ursina]]
-
-- [[gaylussacia-dumosa]]
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-vitis-idaea]]
-- [[vaccinium-ovatum]]
-- [[rubus-fruticosus]]
-- arctostaphylos-uva-ursi
-- [[sambucus-nigra]]
-- [[ribes-nigrum]]
-- [[vaccinium-uliginosum]]

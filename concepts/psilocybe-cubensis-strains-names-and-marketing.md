@@ -88,17 +88,3 @@ Cap, or simply cubensis.
 The development of cultivation techniques, particularly the
 [[mckenna-brothers-la-chorrera-experiment-1971]] stumbled upon growing so abundantly at La Chorrera in
 Colombia was Psilocybe cubensis. As luck would have it, it was the one
-species that has proved the most compliant with human needs, being the
-easiest magic mushroom to grow and producing the most bountiful yields.
-Whether this discovery was fluky, serendipitous or portentous depends
-entirely upon your point of view.
-
-## Dosage Standards
-
-A street dose of cubensis is typically in the region of fifteen to
-thirty grams of fresh mushrooms, though experienced users may double
-this. [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]
-
-- [[pf-tek-psilocybe-fanaticus]]
-- [[psilocybin-mushroom-chemistry]]
-- mushroom-cultivation-underground-history

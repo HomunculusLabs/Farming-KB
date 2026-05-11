@@ -88,43 +88,7 @@ norepinephrine.
 
 The demethylated homologue, BOHH, is the methylenedioxy
 analogue of norepinephrine itself and might hydrolytically open
-in the body to provide this neurotransmitter. BOHH is discussed
-in the DME entry.
-
-## Tryptamine Analogy
-
-Shulgin draws a compelling parallel in the tryptamine world:
-[[serotonin]], like norepinephrine, is a neurotransmitter. By putting
-an O-ether on the indolic phenol (to hide its polarity) and an
-alpha-methyl group next to the primary amine (to protect from
-metabolic deaminase), the result was alpha,O-dimethylserotonin
-(a,O-DMS), an extremely potent and complex psychedelic. The
-analogy between this tryptamine and BOH is described as "uncanny."
-
-## Optical Isomers
-
-Only the racemic mixture has been tasted. Shulgin speculates that
-one optical isomer may produce the predominantly physical effects
-while the other produces the mental effects. Separation and
-individual testing of isomers could clarify this.
 
 ## See Also
-
-- [[pihkal-mda]]
-- [[bod-pihkal-entry-14]]
+- [[2c-t-pihkal-entry-39]]
 - [[bob-pihkal-entry-13]]
-
-BOH's pronounced hypotensive effect distinguishes it from most other
-compounds in the PIHKAL series, which tend to be evaluated primarily for
-their central psychedelic activity. The cardiovascular effects may
-suggest partial agonism at alpha-adrenergic receptors or interaction
-with the sympathetic nervous system. This pharmacological profile is
-more reminiscent of certain beta-blockers or alpha-agonists than of
-classical psychedelics.
-
-The contrast between BOH and its close structural relative BOD (entry
-#14) is instructive: while both are beta-hydroxy substituted, their
-different ring substitution patterns lead to markedly different effect
-profiles, with BOD showing central activity at high doses and BOH
-primarily showing cardiovascular effects. This underscores the
-sensitivity of receptor interactions to subtle structural changes.

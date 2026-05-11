@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Kumar, S. et al. (2021). \"Phyllanthus emblica L.: A Comprehensive Review.\" Phytomedicine, 86, 153568."
   - "Khopde, S.M. et al. (2001). \"Antioxidant Activity of Amla.\" Phytotherapy Research, 15(6), 505-510."
-  - "Bhatt, I.D. et al. (2017). \"Phyllanthus emblica: Chemistry and Medicinal Properties.\" Elsevier."
+  - "Bhatt, I.D. et al. (2017). \"Phyllanthus emblica: Chemistry [[panax-ginseng]].\" Elsevier."
   - "Dwivedi, S. (2012). Terminalia and Phyllanthus Species. CRC Press."
 ---
 
@@ -34,7 +34,7 @@ documented use across South Asian medical traditions.
 - **Kingdom:** Plantae — **Order:** Malpighiales — **Family:** Phyllanthaceae
 - **Genus:** Phyllanthus — **Species:** P. emblica L.
 - **Authority:** Carl Linnaeus (1753)
-- **Synonyms:** Emblica officinalis Gaertn.
+- **Synonyms:** [[emblica-officinalis]] Gaertn.
 - **Common names:** Amla (Hindi), Indian gooseberry, Āmalakī (Sanskrit),
   Nelli (Tamil), Yiu-zi-tau (Chinese)
 
@@ -60,7 +60,7 @@ the Arabic/Persian name for the fruit.
 
 - **Native range:** India, Sri Lanka, Nepal, Bangladesh, Myanmar, Thailand,
   southern China, Malaysia, Indonesia
-- **Introduced:** Pakistan, Iran, tropical Africa, Caribbean, Pacific Islands
+- **Introduced:** Pakistan, Iran, tropical Africa, Caribbean, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
 - **Climate:** Tropical and subtropical; tolerates 5-47 °C
 - **Altitude:** Sea level to 1,800 m
 - **Soil:** Wide-ranging tolerance; prefers well-drained loam but survives in
@@ -88,29 +88,3 @@ mechanism not found in other vitamin C-rich fruits.
 ## Pharmacology
 
 ### Validated Bioactivities
-
-- **Antioxidant:** Potent free radical scavenging; activates Nrf2/ARE pathway;
-  increases endogenous SOD, CAT, GPx in hepatic and renal tissues
-- **Anti-inflammatory:** Inhibits NF-κB; reduces TNF-α, IL-1β, IL-6 in vitro
-  and in animal models
-- **Hepatoprotective:** Protects against CCl₄ and acetaminophen toxicity in
-  rodents; clinical evidence for fatty liver improvement
-- **Hypolipidemic:** Reduces total cholesterol, LDL, triglycerides; increases
-  HDL; comparable to simvastatin in some human trials (500-1000 mg/day, 12-24 wk)
-- **Antidiabetic:** Improves fasting glucose and HbA1c; inhibits α-glucosidase
-- **Immunomodulatory:** Enhances humoral and cell-mediated immunity; increases
-  antibody titers and macrophage activity
-- **Antiulcerogenic:** Reduces gastric acid; increases mucosal prostaglandin E₂
-
-## Traditional Medicine
-
-In Ayurveda, amla is one of the most important rasayana herbs and one of the
-three fruits in *Triphala* (with [[curcuma-longa]], ginger, medicinal
-  herbs in early years before canopy closure
-
-## See Also
-
-- [[terminalia-chebula]] — Co-component of Triphala formulation
-- [[curcuma-longa]] — Intercrop companion in tropical systems
-- tinospora-cordifolia — Ayurvedic rasayana often combined with amla
-- [[bacopa-monnieri]] — Nootropic Ayurvedic herb, common formulation partner

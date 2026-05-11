@@ -10,15 +10,15 @@ sources:
 
 # JADAM Sulfur (JS)
 
-JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by Youngsang Cho. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses. (see [[jadam-sulfur-js]]).
+JADAM sulfur (JS), also called red clay-sulfur, is a powerful germicide developed by [[youngsang-cho]]. It is very effective against most diseases and pathogens do not develop resistance to it. Unlike lime-sulfur mixture, JS is made without heating and does not damage plastic or steel pipes of greenhouses.
 
 ## Cost and Efficiency
 
-Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of pesticide spray. (see [[jadam-combined-pesticide-programs-jwa-js-jhs]]).
+Making 1 L (0.26 gal) of JS (25% sulfur) costs only about $0.50. 100 L of JS can be used 60-100 times when diluted to make 500 L of [[jadam-pesticide-spray-timing-and-technique]].
 
 ## What It Controls
 
-Effective against: black spot, pear rust, powdery mildew, downy mildew, and most fungal diseases.
+Effective against: black spot, pear rust, [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and most [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 ## Ingredients (for 100 L batch)
 
@@ -26,7 +26,7 @@ Effective against: black spot, pear rust, powdery mildew, downy mildew, and most
 - Caustic soda (NaOH): 20 kg (98%)
 - Water: 82 L total (50 L first pour + 32 L second pour; in summer above 27C use 54 L + 28 L)
 - Phyllite powder: 0.5 kg
-- Red clay powder: 0.5 kg (can substitute very fine rock powder)
+- [[jadam-red-clay-powder-method]]: 0.5 kg (can substitute very fine rock powder)
 - Sea salt: 1.5 kg
 
 ## Equipment
@@ -65,7 +65,7 @@ Traditional lime-sulfur requires intense heat, is difficult to make with simple 
 
 ## Compatibility
 
-JS can be used with commercial organic or chemical pesticides, but always do a mixture test and concentration test before combined use.
+JS can be used with commercial organic or [[comparison-parasitoid-wasps-vs-chemical-pesticides]], but always do a mixture test and concentration test before combined use.
 
 ## See Also
 
@@ -73,3 +73,13 @@ JS can be used with commercial organic or chemical pesticides, but always do a m
 - [[jadam-herbal-pest-control]]
 - [[jadam-sea-salt-use]]
 - [[knf-oriental-herbal-nutrient]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

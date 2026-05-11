@@ -14,7 +14,7 @@ type: concept
 More than a dozen species of "[[guzman-magic-mushrooms-african-species]]" are known from Australia and
 New Zealand. Four of these species are dung-inhabiting mushrooms:
 *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and/or *P. subcubensis* (known locally as "gold caps"
-or "gold tops"), *Psilocybe subaeruginosa*, and *Copelandia cyanescens*
+or "gold tops"), *[[psilocybe-subaeruginosa]]*, and *[[copelandia-cyanescens]]*
 (known locally as "blue meanies"). These four species contain the mind-altering
 alkaloids psilocybine and psilocine and are the most common hallucinogenic
 mushrooms in Australia.
@@ -28,7 +28,7 @@ Brisbane at Indooroopilly, Brisbane, Carboolture, and Beechmont, Queensland;
 and Hobart, Tasmania. Gregarious, rarely solitary or scattered, on cow dung,
 sometimes on rich pasture soils. *P. cubensis* is the most popular of these
 species and is well known throughout much of the world. It was first
-documented as a psychoactive mushroom from Australia in 1958 by Aberdeen and
+documented as a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] from Australia in 1958 by Aberdeen and
 Vogt. Wild Australian specimens are comparatively low in potency according
 to Margot and Watling (1981).
 
@@ -45,7 +45,7 @@ seasons.
 
 Documented in Darwin, Northern Territory; New South Wales; Brisbane,
 Queensland; Coffs Harbour and Sydney, NSW; Tasmania; and Auckland, New
-Zealand. This species has a cosmopolitan distribution and occurs in the
+Zealand. This species has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and occurs in the
 tropics and neotropics of both hemispheres. Common in the dung of cows,
 water buffalo, and sometimes horses. Known for its intense blue-staining
 reaction and relatively high potency. The epithet "blue meanies" refers to
@@ -68,7 +68,7 @@ years later Dr. Malcomb Hall reported its use as a recreational drug.
 Known only from around New South Wales: near Canberra, Cotterdam, Blue
 Mountains west of Sydney; Tidbinbilla Nature Reserve; near Sydney, Mt.
 Wilson. Gregarious on soil with wood or leafy debris, on tracks and
-roadsides, in *Pinus radiata* plantations, or in temperate rain forests.
+roadsides, in *[[pinus-radiata]]* plantations, or in temperate rain forests.
 Very similar to *P. cyanescens* Wakefield. Fruits in April.
 
 ### *Psilocybe eucalypta* Guzman and Watling
@@ -87,45 +87,3 @@ or in small groups on dung, or at least on debris (wood and leaves)
 intermixed with dung (sometimes kangaroo). Exhibited a blue-green tone at
 the base of the stipe. Closely related to *P. subaeruginosa* but somewhat
 similar to *P. cyanescens*. Fruits in April and May.
-
-### *Psilocybe semilanceata* (Fr. ex Secr.) Kummer
-
-First reported from Australia in 1892, then NSW in 1895. In 1974,
-documented from Victoria and Tasmania. Scattered to gregarious on rich soil
-among grass in pastures and meadows. Frequently abundant around clumps of
-tall grass, lawns, parks, and playgrounds. Though very common and much
-prized throughout Europe, no reports of recreational use in Australia
-existed until recently. In Tasmania, documented at Mt. Field National Park.
-
-## Taxonomic History
-
-In 1978, the renowned Mexican mycologist Dr. Gaston Guzman and Dr. Roy
-Watling carried out a taxonomic investigation of Australian mushrooms. They
-suggested that the identification of *P. collybioides*, previously reported
-by Dr. Hall and Dr. Southcott, was inexact. They also suggested that
-*Psilocybe kumaenorum*, a species previously recognized only from New
-Guinea, might also occur in Australia because of the appropriate ecological
-conditions along the Gold Coast area of New South Wales. They reported three
-additional new Psilocybe species: *P. eucalypta*, *P. australiana*, and
-*P. tasmaniana*, all exhibiting blue-staining reactions at the stipe base.
-
-## Non-Psychoactive Species Often Confused
-
-Several species are commonly mistaken for psychoactive mushrooms:
-*[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]* (probably not hallucinogenic), *Panaeolus antillarum*
-(the "hysteria fungus," not truly hallucinogenic), *Psilocybe coprophila*
-(cosmopolitan but does not contain psilocybin), and *Psilocybe collybioides*
-(its identification in Australia is inexact and it probably only occurs in
-Argentina).
-
-## See Also
-
-- [[psilocybe-aucklandii]]
-- [[psilocybe-eucalypta]]
-
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[allen-psilocybin-potency-australian-species]]
-- allen-magic-mushrooms-australia-newzealand-species-guide
-- [[psilocybe-heterophyllia]]
-- [[psilocybe-venenata]]
-- [[psilocybe-viridescens]]

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Arai M. (2008). "Seaweeds of Japan." Hokkaido University Press.
   - Nisizawa K. (1971). "Seaweeds and their uses in Japan." Botanica Marina, 14, 89–96.
-  - Jiménez-Escrig A. et al. (2001). "Nutritional evaluation and physiological effects of edible seaweeds." Archives of Latinoamerican Nutrition, 51, 89–94.
+  - Jiménez-Escrig A. et al. (2001). "Nutritional evaluation and [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of edible seaweeds." Archives of Latinoamerican Nutrition, 51, 89–94.
   - Phang S.M. et al. (2015). "Seaweed resources in Malaysia." In: Advances in Seaweed Biology and Aquaculture, Springer.
   - Tsuchiya Y. (1969). "Arsenic compounds in marine algae." Records of Oceanographic Works in Japan, 10, 51–58.
 ---
@@ -38,7 +38,7 @@ However, *H. fusiformis* has attracted significant scientific and regulatory att
 - Genus: *Hizikia*
 - Species: *H. fusiformis* (Harvey) Okamura (1932)
 
-Note: some authorities place this species within the genus *Sargassum* as *Sargassum fusiforme* (Harvey) Setchell. The taxonomy has been debated, with molecular phylogenetic studies supporting treatment as a distinct genus within Sargassaceae.
+Note: some authorities place this species within the genus *[[sargassum]]* as *[[sargassum-fusiforme]]* (Harvey) Setchell. The taxonomy has been debated, with molecular phylogenetic studies supporting treatment as a distinct genus within Sargassaceae.
 
 The thallus is erect, repeatedly dichotomously branched, and cylindrical to slightly compressed. Main axes reach 2–4 mm in diameter with numerous lateral branches arising at regular intervals. The holdfast is a conical disc that firmly anchors the plant to rock surfaces.
 
@@ -56,7 +56,7 @@ Optimal growth temperatures range from 15–22°C, with the species intolerant o
 
 Seasonal growth patterns are pronounced. New frond elongation begins in [[coleman-overwintered-onions-and-early-spring-crops]] (March–April), reaching maximum biomass by mid-summer. Fronds senesce and erode through autumn and winter, with the holdfast persisting as the overwintering structure.
 
-Growth rates vary with exposure and [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
+[[coleman-sunlight-and-winter-crop-growth-rates]] vary with exposure and [[ph-and-nutrient-availability-garden-soils]]. Shaded, wave-protected sites produce longer but thinner fronds, while exposed sites yield shorter, sturdier plants. Anthropogenic nutrient inputs from coastal agriculture and aquaculture have been associated with increased growth rates and expanded distribution in some regions.
 
 The species plays a significant ecological role as habitat and refuge for small invertebrates and juvenile fish. The dense branching structure provides substrate for epiphytic diatoms and microalgae, forming a micro-ecosystem on each thallus. During storms, detached fronds contribute to detrital food webs in deeper coastal waters.
 
@@ -70,7 +70,7 @@ The species is notable for elevated levels of inorganic arsenic (arsenite and ar
 
 Fucoidan, a sulfated polysaccharide abundant in brown seaweeds, is present at 5–10% dry weight. Fucoidan from *H. fusiformis* has demonstrated antioxidant, antitumor, and immunomodulatory activities in laboratory studies. The degree of sulfation and molecular weight distribution vary seasonally, with spring-harvested material showing higher bioactivity.
 
-Dietary fiber from *H. fusiformis* is predominantly insoluble, composed of alginate, fucoidan, and cellulose derivatives. In vitro fermentation studies indicate moderate prebiotic potential, with selective stimulation of beneficial gut bacteria including *Bifidobacterium* and *Lactobacillus* species.
+Dietary fiber from *H. fusiformis* is predominantly insoluble, composed of alginate, fucoidan, and cellulose derivatives. In vitro fermentation studies indicate moderate prebiotic potential, with selective stimulation of beneficial gut bacteria including *Bifidobacterium* and *[[lactobacillus]]* species.
 
 ## Culinary Use
 
@@ -87,27 +87,3 @@ The reconstituted seaweed can also be deep-fried as a tempura ingredient, produc
 Dietary surveys in Japan estimate average per-capita consumption at 1–3 g dried hijiki per day, with higher intake among older demographics. This traditional consumption level provides 10–20% of the recommended daily calcium intake and significant contributions to iron and dietary fiber requirements.
 
 ## Cultivation and Harvesting
-
-Wild harvest remains the primary source of commercial *H. fusiformis*, with major collection areas along the coastlines of Ise Bay, Mie Prefecture, and the Chiba Peninsula in Japan. Harvesting is conducted by hand during low spring tides (April–June) when biomass is at its peak.
-
-Sustainable harvest practices involve cutting fronds above the holdfast, allowing regrowth. Annual harvest in Japan averages 5,000–8,000 tonnes fresh weight. Regulations in some prefectures limit harvest quantities and establish seasonal closures.
-
-Cultivation efforts have been explored but with limited commercial success. Artificial seeding of cleared rocky substrates has been trialed, and nursery-reared juveniles show acceptable survival rates. However, the multi-year growth cycle and competition from wild populations make cultivated hijiki economically marginal compared to wild harvest.
-
-Post-harvest processing involves washing, boiling in freshwater, and sun-drying or machine-drying. The boiling step reduces arsenic content by approximately 30–50% by leaching water-soluble arsenic species into the cooking water. Despite processing, residual inorganic arsenic remains a food safety consideration.
-
-Quality grading of dried hijiki is based on color (darker is preferred), branch uniformity, absence of sand and debris, and moisture content below 15%. Premium grades command prices 2–3 times higher than standard commercial grades. Japanese consumers strongly associate darker color with superior quality.
-
-The global market for hijiki is largely confined to East Asia, with limited export to diaspora communities. Total annual trade is estimated at 3,000–5,000 tonnes dried weight, valued at approximately USD 30–50 million. Japan accounts for roughly 80% of global consumption.
-
-Environmental monitoring programs in Japan regularly test wild populations for [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination beyond arsenic, including cadmium, lead, and mercury. Most harvest areas show levels well within safety standards, though localized pollution hotspots near industrial areas have led to temporary harvest closures.
-
-## See Also
-
-- [[saccharina-latissima]]
-- [[sargassum-fusiforme]]
-- [[porphyra-umbilicalis]]
-- [[palmaria-palmata]]
-- [[gelidium-amansii]]
-- [[chlorella-vulgaris]]
-- [[caulerpa-lentillifera]]

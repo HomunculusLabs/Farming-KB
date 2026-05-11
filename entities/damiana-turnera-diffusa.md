@@ -87,19 +87,3 @@ sources:
 ## Safety and Interactions
 
 Damiana is generally well-tolerated at typical herbal doses. Side effects are rare and mild, including occasional gastrointestinal discomfort, headache, or dizziness at higher doses.
-
-**Pregnancy and lactation:** Traditionally classified as an abortifacient in some herbal systems; contraindicated during pregnancy due to insufficient safety data and theoretical uterine-stimulating effects. Avoid during breastfeeding.
-
-**Diabetes:** May potentiate hypoglycemic medications; blood glucose should be monitored when used concurrently with antidiabetic drugs.
-
-**Iron absorption:** Tannin content may reduce non-heme iron absorption; separate administration from iron supplements by 2+ hours.
-
-**Hormone-sensitive conditions:** Theoretical progestogenic activity warrants caution in hormone-sensitive conditions (estrogen receptor-positive breast cancer, endometriosis).
-
-**[[cannabis-drug-interactions-and-contraindications]]:** Additive sedation with CNS depressants (benzodiazepines, barbiturates, alcohol). Theoretically may interact with anticoagulants due to flavonoid content.
-
-**Dosage ceiling:** No established upper limit, but excessive doses (>10 g dried leaf/day) may cause mild toxicity from cyanogenic glycoside content.
-## See Also
-
-- [[rhodiola-rosea]]
-- [[bacopa-monnieri]]

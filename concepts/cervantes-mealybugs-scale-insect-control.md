@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -20,7 +21,7 @@ feeding habits and [[jadam-weed-control-strategies-natural]].
 
 ## Mealybug Identification
 
-Mealybugs are somewhat common in indoor cannabis gardens.
+Mealybugs are somewhat common in [[query-how-to-set-up-an-indoor-cannabis-grow-room]] gardens.
 Key identification features include:
 
 - Oblong, waxy-white insects measuring 0.08-0.2 inch
@@ -83,31 +84,7 @@ problematic because it creates conditions favorable for
 ## Cultural and Physical Control
 
 These pests present little problem when caught early.
-The most effective control methods are physical:
+The most effective [[cho-natural-pest-control-methods]] are physical:
 
 - Manual removal is somewhat tedious but very effective
 - Wet a cotton swab (Q-tip) in rubbing alcohol and wash
-  pests away
-- A small knife, fingernails, or tweezers may be
-  necessary to scrape and pluck tightly affixed insects
-  after alcohol treatment
-- Inspect stem joints regularly, especially during
-  [[cervantes-biological-pest-control-predators]] for detailed guidance on using beneficial
-insects in cannabis gardens.
-
-## Chemical and Spray Control
-
-When physical and biological methods are insufficient,
-several spray options are available:
-
-- Homemade sprays containing rubbing alcohol effectively
-  dissolve waxy coatings
-- Tobacco-based [[cervantes-neem-oil-organic-pest-control]] is
-  effective against both pests
-- [[cervantes-pyrethrum-pyrethroid-insecticides]] penetrates waxy coatings
-- Pyrethrum formulations provide additional control
-
-Apply sprays thoroughly, ensuring coverage of stem joints,
-leaf axils, and other protected areas where these pests
-hide. Multiple applications at five to seven day intervals
-may be necessary to eliminate all life stages.

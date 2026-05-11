@@ -1,7 +1,7 @@
 ---
 title: Psilocybe Species Taxonomy and World Checklist
 created: 2026-04-28
-tags: [mycology, taxonomy, psilocybe, fungal-systematics, species-checklist]
+tags: [[mycology]], taxonomy, psilocybe, fungal-systematics, species-checklist]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md]
@@ -88,42 +88,3 @@ P. rostrata, P. rzedowskii, P. samuiensis, P. sanctorum, P. schultesii*
 90. P. sierrae Singer (= P. subfimetaria)
 91. P. silvatica (Peck) Singer & A.H. Sm.
 92. P. singerii Guzman
-93. P. strictipes Singer & A.H. Sm.
-94. P. stuntzii Guzman & Ott
-95. P. subacutipilea Guzman et al.
-96. P. subaeruginascens var. subaeruginascens
-97. P. subaeruginosa Cleland
-98. P. subcaerulipes Hongo
-99. P. subcubensis Guzman
-100. P. subtropicalis Guzman
-101. P. subyungensis Guzman
-102. P. subzapotecorum Guzman
-103. P. tampanensis Guzman & S.H. Pollock
-104. P. tasmaniana Guzman & Watling
-105. P. uruguayensis Singer ex Guzman
-106. P. uxpanapensis Guzman
-107. P. venenata (S. Imai) Imaz. & Hongo (= P. fasciata)
-108. P. veraecrucis Guzman & Perez-Ortiz
-109. P. villarrealii Guzman
-110. P. wassoniorum Guzman & S.H. Pollock
-111. P. weilii Guzman, Tapia & Stamets
-112. P. weldenii Guzman
-113. P. wrightii Guzman
-114. P. xalapensis Guzman & A. Lopez
-115. P. yungensis Singer & A.H. Sm. (= P. acutissima)
-116. P. zapotecorum R. Heim emend. Guzman (= P. aggericola)
-
-## Endemic Species
-
-Several Psilocybe species are endemic to restricted areas:
-- P. hispanica: endemic to Spain
-- P. columbiana: endemic to Colombia
-- P. portoricensis and P. guilartensis: endemic to Puerto Rico
-- P. samuiensis: endemic to Koh Samui, Thailand
-- P. aucklandii and P. makarorae: endemic to New Zealand
-- P. chiapanensis: endemic to Chiapas, Mexico
-
-## See Also
-
-- [[guzman-magic-mushrooms-chemical-constituents]] for [[ergot-alkaloid-chemistry-history]]
-- [[guzman-magic-mushrooms-habitat-ecology]] for ecological preferences

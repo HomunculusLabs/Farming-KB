@@ -6,6 +6,7 @@ type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -87,24 +88,3 @@ Earthworms are among the most important garden helpers. Three local varieties at
 ### Application
 - Scatter bred worms with soil and worm eggs over new terraces and raised beds in the evening during wet weather
 - Use nutrient-rich worm humus for especially valuable and demanding plants
-
-## Bird Conservation for Pest Control
-
-Birds play a valuable role in controlling insect populations and propagating plants. Even small gardens contribute:
-- Well-structured gardens with diverse hedges offer habitat and food
-- Chemical use must be abandoned
-- Greater plant diversity leads to greater insect diversity, providing balanced bird diet
-- Insectivorous birds (robins, wrens) find a "generous buffet" -- beetle, butterfly, greenfly, and whitefly populations never become damaging
-
-## Town Gardens
-
-Holzer emphasises the therapeutic and educational value of gardens, especially for children:
-- The desire to discover nature exists in every child
-- Learning begins with observation and hands-on experience
-- "If children have the chance to grow up around nature, then they will be able to learn from it"
-- Town gardens should use terraces, raised beds, microclimates, and vertical surfaces
-- Masonry stove effect from house walls enables growing heat-loving fruit (peach, apricot) as espaliers
-
-See also:,, [[sepp-holzer-soil-fertility-and-green-manure]],, [[sepp-holzer-method]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- [[nutrient-movement-through-soil-to-plant-roots]]

@@ -88,9 +88,3 @@ The Shirota acetylation route achieved **87.5% yield for psilocin** and **87.5% 
 - **Inert atmosphere**: The LiAlH4 reduction was performed under argon, a standard precaution for pyrophoric reducing agents.
 - **Careful quenching**: The LiAlH4 workup required cautious addition of anhydrous Na2SO4 powder followed by dropwise addition of saturated Na2SO4 solution to control hydrogen gas evolution.
 - **Reagent quality**: Commercial reagents were used without further purification, simplifying the workflow.
-- **Product stability**: The authors noted that psilocin "easily decomposes," requiring careful handling and storage, while psilocybin has "high polarity," making isolation from mushroom material challenging on gram scale.
-
-## Relationship to the Psilocybin Synthesis
-
-The psilocin produced by this acetylation route served as the direct starting material for the phosphorylation step to produce psilocybin. The phosphory [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
-- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]

@@ -1,5 +1,5 @@
 ---
-title: DMT dmt phenomenology and hyperspace geometry Geometry
+title: Dmt Phenomenology And Hyperspace Geometry
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -13,9 +13,9 @@ sources: [raw/papers/mckenna_t-tryptamines_consciousness.md]
 
 N,N-Dimethyltryptamine (DMT) is the most intense and brief-acting of the classical [[mckenna-tryptamine-hallucinogens-and-consciousness]].
 
-Terence McKenna, who first experimented with DMT in 1965, described its phenomenology as uniquely distinct from other psychedelics — producing experiences that feel more like "visits" to autonomous realms than the extended, internally reflective states characteristic of [[lsd-compound-profile|LSD]] or [[mescaline-compound-profile|mescaline]].
+[[terence-mckenna]], who first experimented with DMT in 1965, described its phenomenology as uniquely distinct from other psychedelics — producing experiences that feel more like "visits" to autonomous realms than the extended, internally reflective states characteristic of [[lsd-compound-profile]] or [[mescaline-compound-profile]].
 
-The tryptamine family — including DMT, psilocybin, and the ayahuasca complex — is distinguished by the extraordinary intensity of visual hallucinations concentrated in the visual cortex.
+The [[tryptamine-family-overview]] — including DMT, psilocybin, and the ayahuasca complex — is distinguished by the extraordinary intensity of visual hallucinations concentrated in the visual cortex.
 
 These compounds present interior imagery that feels three-dimensionally deployed and fourth-dimensionally evolving.
 
@@ -27,7 +27,7 @@ When DMT is smoked, onset begins in approximately fifteen seconds.
 
 The experience progresses through several distinct phases that have been remarkably consistent across reports from independent experiencers over decades.
 
-**Phase 1 — Auditory phenomena**: A sound described as "ripping cellophane" or crumpling plastic film, accompanied by an ascending tone. McKenna's associate suggested this sound represents "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix."
+**Phase 1 — Auditory phenomena**: A sound described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film, accompanied by an ascending tone. McKenna's associate suggested this sound represents "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix."
 
 **Phase 2 — Geometric phase**: Shifting geometric surfaces of migrating, colored forms — the standard hallucinogenic modality common to many psychedelics, but in DMT experienced with unusual density and speed.
 
@@ -77,73 +77,14 @@ The sense of childlike wonder is not regressive but revelatory — a return to a
 
 McKenna argues that hallucinatory states — including DMT experiences — arise at the quantum mechanical level.
 
-He cites the work of John Smythies, Alexander Shulgin, and others who have demonstrated quantum mechanical correlates to hallucinogenesis: moving a single atom on the molecular ring of an inactive compound can render it highly active.
+He cites the work of John Smythies, [[alexander-shulgin]], and others who have demonstrated quantum mechanical correlates to hallucinogenesis: moving a single atom on the molecular ring of an inactive compound can render it highly active.
 
 For McKenna, this sensitivity represents "perfect proof of the dynamic linkage at the formative level between quantum mechanically described matter and mind."
 
 This argument positions DMT not merely as a neurochemical curiosity but as a tool for investigating the quantum mechanical basis of consciousness itself.
 
-The specificity of tryptamine-receptor interactions at the molecular level, and the vast experiential consequences of minute structural changes, suggests a point of contact between quantum physics and subjective experience that orthodox neuroscience has been reluctant to explore.
+The specificity of tryptamine-receptor interactions at the molecular level, and the vast experiential consequences of minute structural changes, suggests a point of contact between quantum physics and [[dosage-unpredictability-psilocybin-subjective-experience]] that orthodox neuroscience has been reluctant to explore.
 
 McKenna suggests that dreams and hallucinations represent the major quantum mechanical phenomena that we all experience, alongside waking consciousness itself, occurring when the large amounts of radiation conveyed by the senses are restricted.
 
 ## Tryptamines vs. Other Hallucinogen Families
-
-McKenna insists that the tryptamine family occupies a unique position among hallucinogenic compounds.
-
-While psilocybin is often lumped together with [[lsd-compound-profile|LSD]] and mescaline in public perception and legal frameworks, each compound constitutes "a phenomenologically defined universe unto itself."
-
-The distinguishing features of tryptamines include:
-
-- **Greater intensity**: DMT is described as "too much" even for a society "absolutely obsessed with every kind of sensation imaginable."
-
-- **Visual cortex concentration**: Activity is concentrated in the visual processing centers to a degree not seen with other classes.
-
-- **Logos activation**: Tryptamines "invoke the Logos" — they work directly on language centers, producing an interior dialogue that is a central feature of the experience.
-
-- **Entity contact**: The consistent reporting of encounters with apparently autonomous entities is a hallmark of the tryptamine experience, not reliably reproduced by other classes.
-
-- **Brevity**: The smoked DMT experience is extremely short compared to the 8-12 hour duration of LSD or mescaline.
-
-## Authenticity Through Terror
-
-A notable feature McKenna identifies is the role of fear in validating the DMT experience.
-
-He argues that a "touch of terror gives the stamp of validity" because it indicates genuine contact with an existentially significant reality.
-
-To not be terrified means either being a fool or having taken a compound that paralyzes the fear response.
-
-The experience must "deal with the issues of life and death" to be genuine, and if it does, it will move one to fear, tears, and laughter simultaneously.
-
-These places are "profoundly strange and alien."
-
-This criterion of existential authenticity contrasts sharply with the comfort-oriented frameworks of recreational drug use and even with the clinical settings of [[psychedelic-psychotherapy-paradigms|psychedelic-assisted psychotherapy]], where anxiety is typically managed or minimized.
-
-McKenna suggests that one's ego and fear reflexes remain fully intact during the DMT experience — one is not "fuzzed out" at all — which means the natural reaction is one of "profound astonishment that persists and persists."
-
-## Cognitive Dissonance and the Translinguistic Object
-
-A central feature of the DMT experience is the encounter with what McKenna calls "[[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]" — phenomena that carry meaning but resist all attempts at verbal description.
-
-Being "monkeys" who rely on language, humans experience cognitive dissonance when confronted with information that cannot be "Englished."
-
-The brain attempts to pour language over the experience and "it sheds it like water off a duck's back."
-
-This repeated failure produces the "wow" or "flutter" that builds into wonder, astonishment, and awe at the brink of terror.
-
-The resolution, according to McKenna, lies not in trying harder to describe but in doing what the entities suggest: participating in the process itself, matching the mode of expression rather than attempting to translate it into conventional language.
-
-One must control the cognitive dissonance — the way to control it is to do what the entities are telling one to do, to do what they are doing.
-
-## Glossolalia and the Primal Language
-
-One of the unanticipated phenomena of DMT experimentation is the experience of glossolalia — speaking in tongues.
-
-Unlike classical glossolalia, which has been studied in religious contexts, the DMT-induced phenomenon is described as a brain state that allows expression of "the assembly language that lies behind language."
-
-## See Also
-
-- [[psilocybin-compound-profile|Psilocybin]] — the orally active tryptamine found in [[guzman-magic-mushrooms-african-species]]
-- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca]] — the DMT-containing Amazonian brew combining DMT with MAO inhibition
-- [[tryptamine-receptor-pharmacology|Tryptamine Receptor Pharmacology]] — neuropharmacology of tryptamine binding
-- [[self-transforming-machine-elves|Self-Transforming Machine Elves]] — McKenna's account of DMT entities

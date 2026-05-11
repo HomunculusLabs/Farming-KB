@@ -28,7 +28,7 @@ sources:
 
 # Lactarius sanguifluus (Red Pine Milky Cap)
 
-**Lactarius sanguifluus** (Paulet) Fr., commonly known as the **red pine milky cap**, **bloody milk cap**, or **weeping milk mushroom**, is an edible ectomycorrhizal basidiomycete in the family **Russulaceae** (order Russulales). It is highly prized as an edible mushroom in Southern Europe, particularly in Spain, France, and Italy, where it is collected from pine forests and sold in local markets. The species is distinguished by its striking wine-red to orange-red latex ("milk") that exudes from cut or broken flesh, and its association with **mountain pine** (*Pinus* spp.) forests. The epithet *sanguifluus* combines Latin *sanguis* (blood) and *fluere* (to flow), referring to the blood-red latex.
+**Lactarius sanguifluus** (Paulet) Fr., commonly known as the **red pine milky cap**, **bloody milk cap**, or **weeping milk mushroom**, is an edible ectomycorrhizal basidiomycete in the family **Russulaceae** (order Russulales). It is highly prized as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in Southern Europe, particularly in Spain, France, and Italy, where it is collected from pine forests and sold in local markets. The species is distinguished by its striking wine-red to orange-red latex ("milk") that exudes from cut or broken flesh, and its association with **mountain pine** (*Pinus* spp.) forests. The epithet *sanguifluus* combines Latin *sanguis* (blood) and *fluere* (to flow), referring to the blood-red latex.
 
 ## Taxonomy
 
@@ -77,57 +77,14 @@ Molecular phylogenetic studies (Nuytinck 2005, 2008) support recognition of *L. 
 
 *Lactarius sanguifluus* is an obligate **ectomycorrhizal species** forming associations exclusively with **pines** (*Pinus* spp.), particularly:
 
-- **Primary associates**: Scots pine (*Pinus sylvestris*), maritime pine (*Pinus pinaster*), Aleppo pine (*Pinus halepensis*), stone pine (*Pinus pinea*), mountain pine (*Pinus mugo*), black pine (*Pinus nigra*)
+- **Primary associates**: Scots pine (*[[pinus-sylvestris]]*), maritime pine (*Pinus pinaster*), Aleppo pine (*Pinus halepensis*), stone pine (*[[pinus-pinea]]*), mountain pine (*Pinus mugo*), black pine (*[[pinus-nigra]]*)
 - **Elevation**: Lowland to montane, typically 200–1,800 m a.s.l.
 - **Soil preference**: Acidic to neutral soils; sandy or loamy; well-drained
 - **Season**: Late summer to late autumn (September–December in Mediterranean climate)
 
-Geographic distribution is centered on the **Mediterranean basin**:
+[[geographic-distribution-of-psilocybe-species]] is centered on the **Mediterranean basin**:
 
 - **Europe**: Spain (widespread, especially Catalonia, Pyrenees), France (southern, especially Provence and Alps), Italy (widespread), Portugal, Greece, Balkans
 - **North Africa**: Morocco, Algeria, Tunisia (Atlas Mountains)
 - **Asia Minor**: Turkey, Cyprus
-- **North America**: Reported from western North America, though taxonomic status of these populations is debated
-
-The species is most abundant in **young to mature pine plantations and natural pine forests** on acidic soils. It fruits abundantly in years with adequate late-summer rainfall. In Spain, it is one of the most commercially important wild mushrooms, collected in vast quantities from pine forests in Catalonia, Aragon, and Castilla y León.
-
-## Culinary Significance
-
-*Lactarius sanguifluus* is a highly prized edible mushroom in Southern European cuisine:
-
-- **Spain**: Known as *níscalo* (Catalan/Valencian) or *rovellón* (Castilian); one of the most commercially important wild mushrooms; sold fresh in autumn markets, also preserved in oil or vinegar; traditional dishes include *níscalos a la plancha* (grilled with garlic and parsley), stews, and rice dishes
-- **France**: Known as *sanguin*; collected in Provence and the Alps; used in omelets, sautés, and daubes
-- **Italy**: Known as *lattario rosso* or *sanguinello*; used in pasta sauces, risottos, and grilled preparations
-
-**Preparation requirements**: Raw flesh has a slightly bitter taste and can cause GI upset. Must be cooked thoroughly — typically sautéed, grilled, or braised for 15–20 minutes. The red latex disappears during cooking. The mushroom develops a rich, nutty, slightly peppery flavor when properly prepared. It pairs exceptionally well with garlic, olive oil, parsley, thyme, and rosemary.
-
-## Nutritional and Medicinal Properties
-
-- **Nutritional value**: Good source of protein, fiber, B-vitamins (especially B2, B3, B5), potassium, phosphorus, and selenium
-- **Antioxidants**: Moderate total phenolic content; β-carotene and other carotenoids contribute to the orange coloration
-- **Antimicrobial**: Lactarius-specific sesquiterpenes (lactarorufins) show antibacterial and antifungal activity in vitro
-- **Anti-inflammatory**: Extracts demonstrate COX-2 inhibitory activity in preliminary studies
-- **Note**: The green staining compounds have not been fully characterized but are believed to be oxidation products of guaiane-type sesquiterpenes
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| [[lactarius-indigo]] | Blue to indigo latex; entirely different color scheme; North American species |
-| [[lactarius-rufus]] | Reddish but latex white; hot peppery taste; acrid and inedible |
-
-## Conservation and Foraging Ethics
-
-*Lactarius sanguifluus* populations are generally stable across their range but face pressure from:
-
-- Overharvesting in popular foraging areas (especially near urban centers in Spain)
-- Habitat loss from pine forest conversion and urbanization
-- [[dighton-fungi-climate-change-feedback]] affecting Mediterranean rainfall patterns and autumn fruiting
-
-Best practices include cutting mushrooms at the base (not uprooting), leaving some specimens for spore dispersal, avoiding raking of forest floor litter, and following local collection regulations. In Spain, commercial collectors require permits in many regions.
-
-## See Also
-
-- [[lactarius-indigo]] — Indigo milk cap, North American species with dramatically different coloration
-- [[russula-cyanoxantha]] — Russula from the same habitat for comparison
-- [[fungal-ecology-forest-ecosystems]] — [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] fungal ecology
+- **[[guzman-psilocybin-mushrooms-north-america]]**: Reported from western North America, though taxonomic status of these populations is debated

@@ -88,11 +88,3 @@ ECM fungi survive in petroleum-contaminated soils and utilize crude oil as nutri
 ### ECM Fungi
 - Five ECM species metabolize 14C-labeled lignin/lignocellulose (rate lower than white-rot fungi)
 - Paxillus involutus (facultative ECM): degrades lignin more readily than obligate ECM (Suillus bovinus, Rhizopogon roseolus)
-- ECM fungi release >24% of [14CH3]DHP of coniferyl alcohol
-- [[hymenoscyphus-ericae]]: well-developed tannin degradation abilities
-- Phenol-degrading abilities more developed in ERM than ECM fungi
-- H. ericae metabolizes all phenolic acids except benzoic and p-methoxybenzoic
-- Tannic acid degradation enhanced by NH4+ assimilation
-- H. ericae induces extracellular polyphenol oxidase with tannic acid (ECM fungi do not)
-
-### Enzyme Production

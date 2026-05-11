@@ -147,4 +147,3 @@ Community gardens are shared growing spaces where individuals or groups manage p
 ### Getting Started
 - Find existing gardens through local parks departments or the American Community Garden Association
 - Typical plot size: 10x20 to 20x30 feet; fees: $20-100 per year
-

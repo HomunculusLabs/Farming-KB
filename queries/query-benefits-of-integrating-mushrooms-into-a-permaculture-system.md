@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: query
 tags: [mushroom-cultivation, mycology, permaculture]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 --- title: "What Are the Benefits of Integrating Mushrooms Into a Permaculture System" tags: [query, permaculture, mycology, mushrooms, food-forest] date: 2026-04-25 updated: 2026-04-25 sources:

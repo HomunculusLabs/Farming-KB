@@ -53,9 +53,9 @@ Crisphead lettuce forms dense, spherical heads with crisp, tightly packed inner 
 
 Romaine lettuce forms elongated, upright heads with elongated leaves and prominent midribs. It is the traditional lettuce of Mediterranean cuisine and the basis of Caesar salad.
 
-Modern breeding programs have developed heat-tolerant, disease-resistant, and slow-bolting cultivars. Organic seed production has increased demand for open-pollinated and heirloom varieties.
+Modern breeding programs have developed heat-tolerant, disease-resistant, and slow-bolting cultivars. Organic seed production has increased demand for open-pollinated [[cannabis-landrace-and-heirloom-varieties]].
 
-Hydroponic lettuce production achieves harvest in 35–45 days from sowing, compared to 60–80 days in field conditions. Nutrient film technique (NFT) and deep water culture (DWC) are the most common hydroponic methods.
+Hydroponic lettuce production achieves harvest in 35–45 days from sowing, compared to 60–80 days in field conditions. [[nutrient-film-technique]] (NFT) and [[cannabis-deep-water-culture-guide]] (DWC) are the most common hydroponic methods.
 
 ## Nutritional and Chemical Composition
 
@@ -67,15 +67,15 @@ Beta-carotene and lutein content varies significantly among varieties, with dark
 
 Lettuce latex contains sesquiterpene lactones including lactucin, lactucopicrin, and their derivatives. These bitter-tasting compounds contribute to the characteristic flavor and may possess mild analgesic properties.
 
-Phenolic compounds including chlorogenic acid, caffeic acid, and flavonols (quercetin, kaempferol) contribute antioxidant capacity. Red-leaf varieties show higher antioxidant activity due to anthocyanin content.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including chlorogenic acid, caffeic acid, and flavonols (quercetin, kaempferol) contribute antioxidant capacity. Red-leaf varieties show higher antioxidant activity due to anthocyanin content.
 
-Nitrate accumulation in lettuce can exceed 2,500 mg/kg under certain growing conditions, particularly in greenhouse production with high nitrogen fertilization. This has prompted regulatory attention in the European Union.
+Nitrate accumulation in lettuce can exceed 2,500 mg/kg under certain growing conditions, particularly in greenhouse production with high nitrogen fertilization. This has prompted regulatory attention in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]].
 
 ## History and Domestication
 
 Lettuce was first domesticated from wild Lactuca serriola in the Fertile Crescent approximately 5,000 years ago. Ancient Egyptian tomb paintings from circa 2,500 BCE depict lettuce cultivation.
 
-The Greeks and Romans cultivated lettuce extensively and documented its medicinal properties. The species name "sativa" reflects its long history as a cultivated plant, distinguishing it from wild relatives.
+The Greeks and Romans cultivated lettuce extensively and documented its [[panax-ginseng]]. The species name "sativa" reflects its long history as a cultivated plant, distinguishing it from wild relatives.
 
 Roman authors including Pliny the Elder described multiple lettuce types and prescribed the plant as a sleep aid. The Roman practice of serving lettuce at the end of meals reflected its believed soporific effects.
 
@@ -88,28 +88,3 @@ By the mid-20th century, the development of vacuum cooling technology allowed ic
 Lettuce production has expanded into subtropical and tropical highland regions through the development of heat-tolerant cultivars. Israel, Kenya, and highland Southeast Asia now produce significant off-season lettuce for export markets.
 
 ## Ecological Role and Pests
-
-Lettuce serves as a host for numerous insect pests including aphids (Nasonovia ribisnigri, Myzus persicae), thrips, leafminers, and the lettuce root aphid (Pemphigus bursarius).
-
-Major fungal diseases include downy mildew (Bremia lactucae), powdery mildew (Golovinomyces cichoracearum), and bottom rot caused by Rhizoctonia solani. Downy mildew is the most economically significant lettuce disease worldwide.
-
-Integrated pest management strategies combine resistant cultivars, biological control agents, and targeted pesticide applications. Lacewing larvae and ladybird beetles provide effective aphid biological control in organic systems.
-
-Post-harvest losses from bacterial soft rot (Erwinia carotovora) and grey mould (Botrytis cinerea) can reach 20–30% without proper cold chain management. Modified atmosphere packaging extends shelf life by 5–10 days.
-
-The seed production cycle requires vernalization and long-day conditions for flowering. Commercial seed crops are typically grown in regions with cool summers, with major seed-producing areas in California's Imperial Valley and France's Loire Valley.
-
-Lettuce has served as a model organism in plant genetics research. The Compositae Genome Project has developed molecular markers and linkage maps that facilitate marker-assisted selection for disease resistance and quality traits.
-
-Genetically engineered lettuce expressing pharmaceutical proteins, including vaccines and antibodies, has been demonstrated in research settings. The edible leaf tissue offers a potential oral delivery platform for biopharmaceuticals.
-
-## See Also
-
-- [[cichorium-intybus]]
-- [[taraxacum-officinale]]
-- [[helianthus-annuus-entity]]
-- [[carthamus-tinctorius]]
-- [[achillea-millefolium]]
-- [[calendula-officinalis]]
-- [[arctium-lappa-entity]]
-- [[cynara-scolymus-entity]]

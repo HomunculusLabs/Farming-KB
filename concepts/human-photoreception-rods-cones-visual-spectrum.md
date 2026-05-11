@@ -1,5 +1,5 @@
 ---
-title: Human [[human-photoreception-rods-cones-and-visual-pigments]] Cones and the Visual Spectrum
+title: Human Photoreception Rods Cones Visual Spectrum
 created: 2026-05-09
 tags: [plant-biology, photoreception, vision, rods, cones, visual-spectrum]
 date: 2026-05-09
@@ -88,39 +88,3 @@ possess a form of vision.
 In humans, photoreceptors absorb light and send signals to the brain, which
 processes all signals from millions of receptors into a coherent picture.
 Blindness can result from defects at multiple stages: structural problems in
-the retina, inability of rhodopsin or photopsins to sense light, or failure
-to transfer information to the brain. This multi-stage processing chain is
-relevant to the plant comparison because plants also detect light through
-specific photoreceptor proteins and transduce those signals into biological
-responses, though without a centralized processing organ equivalent to the
-brain.
-
-## Comparative Framework for Plant Photoreception
-
-The human visual system described by Chamovitz serves as a direct contrast
-to [[phytochromes-and-plant-light-sensing]]. Humans detect light with rhodopsin and photopsins;
-plants use phototropins for blue light detection and phytochrome for red and
-far-red light. Humans form images in the brain; plants integrate light
-signals through distributed hormonal [[plant-signaling-pathways]]. Despite these
-differences in mechanism and processing architecture, both systems achieve
-the same fundamental outcome: they extract biologically relevant information
-from the light environment and use it to guide adaptive responses. This
-comparison underpins Chamovitz's broader thesis that plants possess
-sensory capacities analogous to human senses, even when implemented through
-entirely different biological machinery.
-
-## Evolutionary Convergence in Light Detection
-
-The parallel evolution of light-sensing systems in plants and animals
-represents a striking case of functional convergence. Both kingdoms
-independently evolved protein-based photoreceptors that absorb specific
-wavelengths of light and trigger biochemical signaling cascades, despite
-using fundamentally different protein families. Animals rely on opsin-based
-G-protein-coupled receptors, while plants use phytochromes, cryptochromes,
-phototropins, and other photoreceptor families. This convergence reflects
-the universal importance of light as an environmental information source
-and the physical constraints imposed by the electromagnetic spectrum on
-what any biological system can detect. Chamovitz uses this comparison to
-argue that the question is not whether plants sense their environment, but
-rather how their sensory systems achieve the same informational goals as
-animal senses through different molecular implementations.

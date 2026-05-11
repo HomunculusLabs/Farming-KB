@@ -4,23 +4,24 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [aquaponics, animal-husbandry, species, homesteading, water-management, sustainability]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 # Aquaponics Fish Species
 
-Choosing the right fish species is critical to aquaponics system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop. (see [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]).
+Choosing the right fish species is critical to aquaponics system success. Fish provide the nutrient source (ammonia via waste) that feeds plants through bacterial conversion to nitrates. The best species for a given system depends on water temperature, climate, system size, and whether the fish are also a food crop.
 
 ## Tilapia (Oreochromis spp.)
 
-Tilapia is the most popular aquaponics fish worldwide for good reason. (see [[aquaponics]]).
+Tilapia is the most popular aquaponics fish worldwide for good reason.
 
-- Temperature range: 20-30 C (68-86 F), optimal 26-28 C
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 20-30 C (68-86 F), optimal 26-28 C
 - Growth rate: Fast — reach harvest size (350-500g) in 6-9 months
 - Stocking density: 1 fish per 10-20 liters (conservative) up to 1 per 5 liters (aggressive with aeration)
 - pH tolerance: 6.5-8.5, prefer 7.0-7.5
 - Pros: Hardy, tolerate poor water quality, fast growth, readily breed in captivity, mild-flavored white flesh, efficient feed converters (1.5-2.0 FCR)
-- Cons: Require warm water (need heaters in cool climates), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
+- Cons: Require warm water (need heaters in [[greenhouse-cool-climates-mollison]]), invasive risk (never release), can overpopulate if breeding is uncontrolled, some jurisdictions restrict or ban tilapia possession
 - Notes: Use all-male populations to prevent uncontrolled breeding. Hand-sorting or hormone-treated fry are common. Maintain water temperature above 20 C at all times.
 
 ## Channel Catfish (Ictalurus punctatus)
@@ -31,7 +32,7 @@ Catfish are well-suited to larger aquaponics systems, especially in warm climate
 - Growth rate: Moderate — harvest size (450-700g) in 12-18 months
 - Stocking density: 1 fish per 20-40 liters
 - pH tolerance: 6.0-8.0
-- Pros: Very hardy, tolerate low dissolved oxygen, tolerant of wide water quality ranges, excellent table fish, can be raised in murky water
+- Pros: Very hardy, tolerate low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], tolerant of wide water quality ranges, excellent table fish, can be raised in murky water
 - Cons: Bottom feeders (produce more waste than mid-water fish), can be aggressive toward each other, slower growth than tilapia, difficult to harvest from deep tanks (need traps or draining)
 - Notes: Need hiding structures in the tank. They are nocturnal and may startle easily. Best suited for raft or deep-water culture aquaponics rather than media beds.
 
@@ -45,7 +46,7 @@ Trout are the premium choice for cool-climate aquaponics and produce excellent f
 - pH tolerance: 6.5-8.0, prefer 7.0
 - Pros: Excellent-tasting fish, high market value, fast growth in cool water, relatively clean (less waste than catfish)
 - Cons: Require cold water (unsuitable for warm climates without chillers), demand high dissolved oxygen (6+ mg/L), sensitive to water quality fluctuations, stressed by handling and noise
-- Notes: Trout systems need robust aeration and water cooling capacity. Ideal for basement or indoor systems in temperate climates. Pair well with cool-season plants like lettuce and herbs in [[aquaponics-plant-selection]].
+- Notes: Trout systems need robust aeration and water cooling capacity. Ideal for basement or indoor systems [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Pair well with cool-season plants like lettuce and herbs in [[aquaponics-plant-selection]].
 
 ## Koi (Cyprinus rubrofuscus)
 
@@ -106,4 +107,18 @@ Regular water testing is essential. Test ammonia, nitrite, nitrate, and pH at le
 
 ## Integration with Homestead Systems
 
-Aquaponics fish production integrates with broader homestead nutrient cycling. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per square foot than hydroponics alone.
+Aquaponics fish production integrates with broader homestead [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]. Fish waste feeds plants, plant-filtered water returns to fish tanks, and excess fish can be processed through a [[home-butcher-shop-setup]]. Water from the system can supplement [[rainwater-harvesting-systems]] for irrigation during drought periods. The fish production component makes aquaponics significantly more productive per [[comparison-biointensive-vs-square-foot-gardening]] than hydroponics alone.
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[african-truffle-species]]
+- [[agaricus-cultivation-and-species-guide]]
+- [[agaricus-species-guide]]
+- [[allen-australian-psilocybe-species-comprehensive-guide]]
+- [[allen-psilocybin-potency-australian-species]]

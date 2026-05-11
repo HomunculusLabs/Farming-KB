@@ -88,39 +88,3 @@ Rather than removing the entire bag, cut off the top portion, leaving
 3-4 inch side walls of plastic. These walls collect moisture and
 enhance primordia formation. The mushroom stems elongate to exactly
 the height of these walls, facilitating harvest.
-
-## Growth Parameters
-
-### Spawn Run
-- Temperature: 75-85 degrees F (24-29 degrees C)
-- Humidity: 95-100%; Duration: 2 weeks
-- CO2: >5000 ppm; Fresh Air: 0-1 per hour; No light
-
-### Primordia Formation
-- Temperature: 50-60 degrees F (10-15.6 degrees C)
-- Humidity: 98-100%; Duration: 7-10 days
-- CO2: 500-1000 ppm; Fresh Air: 4-8 per hour
-- Light: 500-1000 lux
-
-### Fruitbody Development
-- Temperature: 55-65 degrees F (13-18 degrees C)
-- Humidity: 90-95%; Duration: 5-8 days
-- CO2: 800-1200 ppm; Fresh Air: 4-8 per hour
-- Light: 500-1000 lux
-
-### Cropping Cycle
-Two crops in 60 days, 10-14 days apart.
-
-## Yield Potential
-
-On the first flush, slightly more than 1 lb. of mushrooms from 5 lb.
-blocks of hardwood sawdust supplemented with rice bran. To achieve a
-third flush, the surface should be roughened to expose viable
-mycelium. A paddle with extruding nails or a wire brush serves this
-purpose. Fourth and fifth flushes are usually not substantial.
-
-## Advantages of No Casing
-
-Less work; less risk of [[shiitake-mushroom-cultivation]]
-- [[growing-gourmet-fruiting-parameters]]
-- [[pholiota-squarrosa]]

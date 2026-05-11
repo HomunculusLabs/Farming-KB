@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Osborn, T.G.B. & Kershaw, L. (1934). "The biology of Brasenia schreberi." Journal of Ecology, 22(2), 336–347.
-  - Kubo, H. et al. (2011). "Reproductive biology and pollination ecology of Brasenia schreberi." Aquatic Botany, 94(4), 143–149.
+  - Kubo, H. et al. (2011). "[[clarke-marijuana-botany-sex-determination-reproductive-biology]] and pollination ecology of Brasenia schreberi." Aquatic Botany, 94(4), 143–149.
   - Schneider, E.L. & Ford, J.L. (1978). "Observations on the pollination biology of Brasenia schreberi." Aquatic Botany, 4, 323–328.
   - Cook, C.D.K. (1996). "permaculture-plants-aquatic-and-wetland-species Plants of India." Oxford University Press.
 ---
@@ -43,7 +43,7 @@ Petioles are long and flexible, 30–100 cm, connecting submerged rhizomes to fl
 
 Floating leaves are elliptic to oblong, 5–12 cm long and 3–6 cm wide, with entire margins and no lobes.
 
-The upper leaf surface is glossy green, while the underside is reddish-purple and densely covered with a slippery mucilage.
+The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glossy green, while the underside is reddish-purple and densely covered with a slippery mucilage.
 
 This gelatinous coating, secreted by specialized trichomes, is a unique feature that protects leaves from herbivory and desiccation.
 
@@ -59,7 +59,7 @@ The fruit is a small leathery capsule containing 1–3 seeds, approximately 8 mm
 
 **Brasenia schreberi** has a broad disjunct distribution across the Northern and Southern Hemispheres.
 
-In North America it occurs from eastern Canada and the northeastern United States south to Florida and Texas, and west to the Great Plains.
+In [[guzman-psilocybin-mushrooms-north-america]] it occurs from eastern Canada and the northeastern [[dmt-containing-plants-united-states-halpern]] south to Florida and Texas, and west to the Great Plains.
 
 In East Asia it is found in China, Japan, Korea, and eastern Russia, where it is more widely distributed than in North America.
 
@@ -83,55 +83,8 @@ The floating leaf canopy provides shade and habitat for fish, amphibian larvae, 
 
 Submerged foliage offers attachment surfaces for periphyton and shelter for small aquatic organisms.
 
-The plant contributes organic matter to aquatic food webs through leaf senescence and rhizome decomposition.
+The plant contributes [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to aquatic food webs through [[leaf-senescence-autumn-colour-change-active-plant-process]] and rhizome decomposition.
 
 Pollination occurs primarily through self-pollination, though some insect visitation has been documented.
 
 Beetles and flies are occasional floral visitors, but the flowers are largely autogamous.
-
-**Brasenia schreberi** can form extensive floating mats in nutrient-rich shallow water, reducing light to submerged vegetation.
-
-## Human Uses
-
-Watershield is most notable as an edible aquatic vegetable in East Asian cuisine, particularly in Japan where it is called *junsai*.
-
-Young unfurled leaves and shoots coated in mucilage are harvested in spring and early summer as a delicacy.
-
-The mucilage is rich in polysaccharides and gives the cooked product a distinctive smooth, slippery texture valued in Japanese cuisine.
-
-In Japan the annual market for junsai cultivation exceeds several billion yen, with commercial production concentrated in Akita and Yamagata prefectures.
-
-Nutritional analysis shows high content of vitamin K, dietary fiber, and polyphenolic antioxidants.
-
-In traditional Chinese medicine the plant has been used as an anti-inflammatory agent and to treat fever and skin conditions.
-
-[[growing-gourmet-north-american-reishi-species]] Indigenous peoples reportedly consumed the rhizomes and seeds, though this use was less developed than in Asia.
-
-The mucilage has been investigated for industrial applications including food thickening and cosmetic formulations.
-
-## Cultivation
-
-Commercial cultivation of watershield is well-established in Japan, where it is grown in shallow ponds and flooded rice paddies.
-
-Propagation is primarily through rhizome division in early spring before the [[savory-growing-season-and-non-growing-season-management]] begins.
-
-Rhizome segments 10–15 cm long with at least two nodes are planted in 15–30 cm of water in organically rich sediment.
-
-Optimal water temperature for growth is 20–28°C during the active season from April to October.
-
-Plants prefer slightly acidic conditions with pH 5.5–7.0 and soft, muddy substrates rich in decomposing organic matter.
-
-Regular harvesting of young shoots stimulates continued production throughout the growing season.
-
-Pest pressures include snail grazing on young leaves and algal overgrowth in nutrient-enriched water.
-
-Winter dormancy occurs naturally; rhizomes survive freezing temperatures in the sediment for the next growing season.
-
-## See Also
-
-- [[nuphar-lutea]]
-- [[ceratophyllum-demersum]]
-- [[sagittaria-latifolia]]
-- [[eichhornia-crassipes]]
-- [[trapa-natans]]
-- wetland

@@ -29,9 +29,9 @@ sources:
 
 ## Overview
 
-Sundae Driver is an indica-dominant hybrid cannabis strain bred by
+Sundae Driver is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by
 Cannabitoasis Genetics by crossing **Fruit Punch** with **GMO** (also known
-as Garlic Cookies). Released in the late 2010s, it gained rapid popularity
+as [[gmo-garlic-cookies]]). Released in the late 2010s, it gained rapid popularity
 for its sweet, fruity aroma reminiscent of a sundae dessert and its deeply
 relaxing but not overwhelmingly sedating effects.
 
@@ -41,12 +41,12 @@ category alongside cultivars like Wedding Cake, Ice [[ice-cream-cake-cannabis]],
 
 Sundae Driver carries awards and recognition in the California cannabis
 community and has become a popular parent strain for further breeding,
-contributing its sweet terpene profile and purple coloration to crosses.
+contributing its sweet [[cannabis-terpene-profile]] and purple coloration to crosses.
 
 ## Lineage
 
-- **Female parent:** Fruit Punch (Williams Wonder × Skunk × Hawaiian)
-- **Male parent:** GMO (Girl Scout Cookies × Chemdawg)
+- **Female parent:** Fruit Punch ([[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]] × Skunk × Hawaiian)
+- **Male parent:** GMO ([[girl-scout-cookies]] × Chemdawg)
 - **Genetic ratio:** Approximately 70% indica / 30% sativa
 - **Breeder:** Cannabitoasis Genetics
 
@@ -64,7 +64,7 @@ particularly in cooler growing conditions. Bright orange pistils curl
 throughout the calyxes in moderate abundance.
 
 Trichome coverage is exceptionally heavy, giving buds a frosty, almost
-white appearance under magnification. The resin production makes Sundae
+white appearance under magnification. The [[cannabis-resin-production-and-quality-traits-clarke]] makes Sundae
 Driver a strong candidate for hash and concentrate extraction.
 
 ## Aroma and Flavor
@@ -88,59 +88,3 @@ lingeringly sweet with a slight chemical pungency.
   myrcene with slight uplifting brightness
 - **Linalool** (trace) — floral, calming; adds complexity to the bouquet
 - **Humulene** (trace) — earthy, woody; rounds out the flavor profile
-
-## Cannabinoid Profile
-
-- **THC:** 18–24% (commonly 20–22% in well-grown phenotypes)
-- **CBD:** <0.1% (negligible)
-- **CBG:** Low trace amounts
-
-Potency is moderate to high. The effects are manageable for experienced
-users but can be intense for novices at higher THC percentages.
-
-## Effects
-
-**Onset:** 5–10 minutes, building gradually.
-
-**Progression:** Initial cerebral uplift — mild euphoria, enhanced mood,
-and a gentle creative spark. Within 30–45 minutes, indica effects dominate
-with a warm body buzz, muscle relaxation, and a sense of physical heaviness.
-
-**Duration:** 2–3 hours, tapering gradually.
-
-**Common applications:** Evening relaxation, stress relief, mild pain
-management, appetite stimulation, and winding down before sleep. The
-balanced onset makes it suitable for social situations before transitioning
-to sedentary relaxation.
-
-## Cultivation
-
-- **Flowering time:** 8–9 weeks indoors; late September to mid-October
-  outdoors
-- **Yield:** Moderate to high (350–450 g/m² indoor)
-- **Difficulty:** Moderate — resistant to common pests but sensitive to
-  humidity during late flowering
-- **Climate preference:** Temperate to warm; cooler night temperatures
-  (below 15°C) enhance purple coloration
-- **Plant height:** Medium, with moderate stretching in early flower
-
-Sundae Driver responds well to low-stress training (LST) and scrog
-methods. Nutrient requirements are moderate; avoid excess nitrogen in late
-flowering to maintain flavor quality. The strain benefits from a 2-week
-flush before harvest for optimal terpene expression.
-
-## Side Effects
-
-- **Common:** Dry mouth, dry eyes, mild dizziness at higher doses
-- **Less common:** Anxiety or paranoia in sensitive individuals, especially
-  with high-THC phenotypes
-- **Rare:** Couch-lock in high doses; generally less sedating than other
-  indica-dominant strains at moderate doses
-
-## See Also
-
-- [[wedding-cake]]
-- [[girl-scout-cookies]]
-- jungle-cake
-- [[gelato]]
-- [[slurricane]]

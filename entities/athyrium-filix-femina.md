@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Athyrium filix-femina, the lady fern, is a large, graceful fern native to temperate regions throughout the Northern Hemisphere and extending into montane tropical areas. It is among the most abundant and widely recognized ferns in northern forests, valued both for its ornamental qualities and its edible fiddleheads.
+Athyrium filix-femina, the lady fern, is a large, graceful fern native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] throughout the Northern Hemisphere and extending into montane tropical areas. It is among the most abundant and widely recognized ferns in northern forests, valued both for its ornamental qualities and its edible fiddleheads.
 
 The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, resulting in numerous named varieties and cultivars. Its delicate, finely divided fronds and tolerance of a wide range of growing conditions have made it a staple of shade gardens and naturalistic landscapes worldwide.
 
@@ -30,7 +30,7 @@ Athyrium filix-femina belongs to the family Athyriaceae within the order Polypod
 
 The species was described by Carl Linnaeus in 1753 as Polypodium filix-femina and transferred to Athyrium by Alphonse Pyramus de Candolle in 1805. The specific epithet filix-femina (lady fern) contrasts with Dryopteris filix-mas (male fern), reflecting a traditional pairing in European botany.
 
-The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in [[psilocybin-north-america-pacific-northwest]] and subsp. cyclosorum ranges across Asia. Additional varieties are found in montane tropical regions.
+The species complex includes several recognized subspecies and varieties. In Europe, subsp. filix-femina is the typical form, while subsp. angustum occurs in [[psilocybin-north-america-pacific-northwest]] and subsp. cyclosorum ranges across Asia. Additional varieties are found in montane [[fukuoka-natural-farming-in-tropical-regions]].
 
 The rhizome is ascending to shortly creeping, producing a dense crown of fronds that forms an open, vase-shaped clump. The rhizome is covered with dark-brown, lanceolate scales and produces fibrous roots.
 
@@ -48,7 +48,7 @@ The indusium of Athyrium filix-femina is characteristically hooked (uncinate) at
 
 ## Distribution and Habitat
 
-Athyrium filix-femina has a circumboreal distribution, occurring across Europe, Asia, North America, and extending into Central and South America at high elevations. In North America, its range extends from Alaska to Newfoundland, south to California, New Mexico, and North Carolina.
+Athyrium filix-femina has a circumboreal distribution, occurring across Europe, Asia, [[guzman-psilocybin-mushrooms-north-america]], and extending into Central and South America at high elevations. In North America, its range extends from Alaska to Newfoundland, south to California, New Mexico, and [[north-carolina-mycodiversity]].
 
 In Europe, the species occurs from the Mediterranean to northern Scandinavia and from the British Isles across Russia to Siberia. Asian populations range from Turkey and the Caucasus through the Himalayas to Japan and Taiwan.
 
@@ -64,7 +64,7 @@ The species is particularly abundant in riparian zones, alluvial floodplains, an
 
 ## Edibility and Culinary Use
 
-The young fiddleheads of Athyrium filix-femina are edible and have been harvested as a spring vegetable in various cultures, though they are less commercially significant than those of Matteuccia struthiopteris. Proper identification is essential to avoid confusion with toxic fern species.
+The young fiddleheads of Athyrium filix-femina are edible and have been harvested as a spring vegetable in various cultures, though they are less commercially significant than those of [[matteuccia-struthiopteris]]. Proper identification is essential to avoid confusion with toxic fern species.
 
 Fiddleheads are best harvested when 5–10 cm tall and still tightly coiled. They should be cleaned of any brown scales and boiled for 10–15 minutes before consumption. The flavor is mild and slightly sweet, less robust than ostrich fern fiddleheads.
 
@@ -86,35 +86,4 @@ The lady fern spreads slowly by short rhizomes, forming dense but non-invasive c
 
 Pests are generally uncommon, though slugs may damage emerging fronds in wet springs, and deer occasionally browse the fronds. The species is resistant to most fern diseases and is not known to be invasive in any region.
 
-The Japanese painted fern cultivar group (often classified as Athyrium niponicum var. pictum) has become one of the most popular shade garden plants worldwide. These selections feature silvery-gray fronds with burgundy midribs and provide striking color contrast in shaded plantings.
-
-In regions with hot summers, the lady fern may go partially dormant, with fronds browning and dying back during extended dry periods. Consistent watering and mulching help maintain frond quality through summer heat.
-
-## Ecological Role
-
-Athyrium filix-femina is a significant component of the herbaceous understory in temperate and [[fungal-diversity-boreal-forests-taiga]], contributing to biodiversity and ecosystem function. Its fronds provide habitat structure for ground-dwelling invertebrates and amphibians.
-
-The species serves as a food source for several specialist herbivorous insects, including larvae of the fern-borer moth (Pterophorus pentadactyla) and various sawfly species. These herbivores typically cause only minor damage to frond appearance.
-
-Lady fern colonies contribute to soil formation through the accumulation of frond litter, which decomposes to add organic matter and nutrients to the forest floor. The decomposition rate is moderate, creating a humus layer that supports diverse microbial communities.
-
-In riparian corridors, the dense root systems of lady fern help stabilize stream banks and reduce erosion during flood events. The species often colonizes disturbed sites rapidly, facilitating the establishment of other plant species through microclimate modification.
-
-The lady fern is an important component of forest regeneration dynamics, colonizing canopy gaps and disturbed areas before being gradually replaced by more shade-tolerant species as succession progresses. This role as an early- to mid-successional species contributes to forest structural diversity.
-
-Several species of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] have been documented in association with lady fern roots, though the fern is less dependent on mycorrhizae than many co-occurring understory plants. The relationship appears facultative, with [[arbuscular-mycorrhizal-colonization-patterns]] enhancing phosphorus uptake in nutrient-poor soils.
-
-## See Also
-
-- [[thelypteris-noveboracensis]]
-
-- [[matteuccia-struthiopteris]]
-- [[osmunda-regalis]]
-- osmunda cinnamomea
-- [[allium-ursinum]]
-- [[vaccinium-angustifolium]]
-- [[fagus-sylvatica]]
-- [[betula-pendula]]
-- [[vaccinium-macrocarpon]]
-
-- [[athyrium-niponicum]]
+The Japanese painted fern cultivar group (often classified as [[athyrium-niponicum]] var. pictum) has become one of the most popular shade garden plants worldwide. These selections feature silvery-gray fronds with burgundy midribs and provide striking color contrast in shaded plantings.

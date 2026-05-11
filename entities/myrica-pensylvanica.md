@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-**Myrica pensylvanica** (northern bayberry) is an upright, semi-evergreen shrub native to the eastern coast of [[psilocybin-north-america-pacific-northwest]]. It ranges from Nova Scotia to North Carolina, commonly found on coastal dunes, sandy barrens, and rocky headlands. The species is valued in landscaping for salt tolerance, nitrogen-fixing root symbiosis, and aromatic waxy fruit.
+**Myrica pensylvanica** (northern bayberry) is an upright, semi-evergreen shrub native to the eastern coast of [[psilocybin-north-america-pacific-northwest]]. It ranges from Nova Scotia to [[north-carolina-mycodiversity]], commonly found on coastal dunes, sandy barrens, and rocky headlands. The species is valued in landscaping for salt tolerance, nitrogen-fixing root symbiosis, and aromatic waxy fruit.
 
-The plant typically reaches 1.5–3 m in height with a spreading, colony-forming habit. It is dioecious, with separate male and female plants. Female plants produce clusters of grayish-white, waxy drupes that persist through winter and are historically used for candle-making. Northern bayberry is one of the most cold-hardy members of the Myricaceae, making it a valuable subject for studying actinorhizal symbiosis in cold climates.
+The plant typically reaches 1.5–3 m in height with a spreading, colony-forming habit. It is dioecious, with separate male and female plants. Female plants produce clusters of grayish-white, waxy drupes that persist through winter and are historically used for candle-making. Northern bayberry is one of the most cold-hardy members of the Myricaceae, making it a valuable subject for studying [[actinorhizal-symbiosis-frankia]] [[query-how-do-i-grow-figs-in-cold-climates]].
 
 ## Taxonomy
 
@@ -39,7 +39,7 @@ Some modern treatments place this species within *Morella* rather than *Myrica*,
 
 The Myricaceae is a small family of approximately 50 species distributed across five genera. Molecular phylogenetic studies have confirmed the family's placement within Fagales as sister to the Juglandaceae. The family is distinguished by its actinorhizal root nodules, aromatic foliage, and waxy fruit coatings. Fossil Myricaceae pollen extends back to the Late Cretaceous, suggesting an ancient lineage.
 
-Chromosome number for *M. pensylvanica* is 2n = 32, consistent with other diploid Myricaceae species. Polyploid forms have not been documented. The species shows moderate genetic diversity across its range, with greater differentiation between northern and southern populations than between coastal and inland sites.
+Chromosome number for *M. pensylvanica* is 2n = 32, consistent with other diploid Myricaceae species. Polyploid forms have not been documented. The species shows moderate [[biodiversity-fungal-genetic-diversity]] across its range, with greater differentiation between northern and southern populations than between coastal and inland sites.
 
 ## Morphology
 
@@ -83,39 +83,8 @@ The waxy fruit is consumed by at least 20 bird species, including northern flick
 
 Bayberry foliage supports caterpillars of several specialist Lepidoptera. The imperial moth (*Eacles imperialis*) and laurel sphinx (*Sphinx kalmiae*) both feed on Myricaceae foliage. Deer browsing is generally light due to the aromatic, resinous foliage.
 
-In coastal dune ecosystems, northern bayberry serves as a primary sand-stabilizing shrub. Its extensive lateral root system, supplemented by nitrogen fixation, allows it to colonize nutrient-poor foredune sands where few other woody plants establish. As bayberry colonies mature, they trap windblown sand and accumulate organic matter, raising soil nitrogen levels and creating favorable microsites for succession by species such as beach plum (*Prunus maritima*) and eastern red cedar (*Juniperus virginiana*). This nurse-plant function has been documented extensively along the mid-Atlantic barrier island systems.
+In coastal dune ecosystems, northern bayberry serves as a primary sand-stabilizing shrub. Its extensive lateral root system, supplemented by [[biological-nitrogen-fixation-agriculture]], allows it to colonize nutrient-poor foredune sands where few other woody plants establish. As bayberry colonies mature, they trap windblown sand and accumulate organic matter, raising soil nitrogen levels and creating favorable microsites for succession by species such as beach plum (*Prunus maritima*) and eastern red cedar (*[[juniperus-virginiana]]*). This nurse-plant function has been documented extensively along the mid-Atlantic barrier island systems.
 
 Actinorhizal nodules on bayberry roots can fix an estimated 5–15 kg N/ha/year. This nitrogen input is significant in nutrient-limited dune and barrens ecosystems, where total soil nitrogen may be below 0.05%. The Frankia strains associated with Myricaceae are cross-infective to some degree with other actinorhizal hosts including Alnus and Hippophae, though specificity patterns vary geographically.
 
 ## Uses
-
-Bayberry wax, extracted by boiling the fruit in water and skimming the solidified wax, was historically used for making fragrant, slow-burning candles. Wax yield is approximately 15–20% of fresh fruit weight. This use was widespread among colonial-era settlers in [[polypore-fungi-eastern-north-america]] America and remained economically significant into the 19th century.
-
-[[halpern-sacramental-peyote-and-native-american-church]] tribes used northern bayberry medicinally. The bark and root were brewed into teas for treating fevers, colds, and digestive complaints. The wax was applied topically to burns and wounds. The Mohegan and Delaware peoples are documented as using root preparations as an astringent. Modern pharmacological studies have confirmed antibacterial and anti-inflammatory properties of bayberry leaf extracts, supporting some traditional uses. However, clinical data remains limited and the species is not widely used in contemporary herbal medicine.
-
-In modern landscaping, the species serves as a salt-tolerant hedge, foundation planting, and dune stabilizer. Its semi-evergreen foliage, aromatic character, and wildlife value make it popular in native plant gardens and ecological restoration projects along the Atlantic seaboard. Several cultivars are commercially available, including 'Morton' (developed at the Morton Arboretum for improved compact form) and various unnamed selections for superior fruit production.
-
-The species is increasingly specified in green infrastructure projects, particularly bioswales and stormwater retention basins in coastal municipalities. Its tolerance of periodic inundation, combined with nitrogen-fixing root activity, makes it effective at improving water quality in runoff filtration systems.
-
-## Related Species
-
-Northern bayberry is closely related to other Myricaceae species with which it shares its nitrogen-fixing capability and waxy fruit. [[myrica-gale]] (sweet gale) is a smaller, deciduous shrub of northern bogs and lake margins, easily distinguished by its smaller, more aromatic leaves. *Morella cerifera* (southern wax myrtle) is a more southern species, evergreen to semi-evergreen, reaching 6–9 m and extending from New Jersey to Texas.
-
-*M. pensylvanica* is intermediate between *M. gale* and *M. cerifera* in both size and cold hardiness. Hybridization occurs where ranges overlap, producing intermediate forms. The genus *Comptonia* contains a single species, *C. peregrina* (sweetfern), which shares the distinctive aromatic foliage and actinorhizal root nodules of the Myricaceae but is readily separated by its deeply lobed, fern-like leaves.
-
-Among non-Myricaceae associates, northern bayberry frequently co-occurs with beach plum (*Prunus maritima*), bearberry (*Arctostaphylos uva-ursi*), and various *Vaccinium* species in coastal heath communities. In pine barrens habitats, it is found alongside pitch pine (*Pinus rigida*) and blackjack oak (*Quercus marilandica*).
-
-## See Also
-
-- [[myrica-gale]]
-- [[quercus-robur]]
-- [[pinus-sylvestris]]
-- [[vaccinium-corymbosum-entity]]
-- arctostaphylos-uva-ursi
-- [[gaylussacia-baccata]]
-- [[kalmia-latifolia]]
-- [[salix-alba]]
-- [[betula-pendula]]
-- [[prunus-serotina]]
-
-Bayberry is not considered invasive anywhere in its native or introduced range. It is listed as endangered or threatened in several inland states at the edge of its range, including Ohio and Indiana.

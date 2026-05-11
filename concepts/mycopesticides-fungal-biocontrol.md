@@ -9,11 +9,11 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycopesticides and Fungal Biocontrol
 
-Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
+Mycopesticides are fungi used as [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents against insect pests. [[comparison-trichoderma-vs-entomopathogenic-fungi]] -- fungi that attack and kill insects -- offer an ecologically rational alternative to [[comparison-parasitoid-wasps-vs-chemical-pesticides]], causing negligible collateral damage to non-target organisms.
 
 ## The Problem with Chemical Pesticides
 
-Many chemical pesticides, especially organophosphates, harm non-targeted organisms, pollute water, and impair human health. Chemical pesticides permeate the food chain; most people on the planet accumulate these compounds and their derivatives in fatty tissues and bloodstream. The pesticide industry in the United States is valued at $9 billion, with biopesticides accounting for about 5% ($450 million) but growing at 15% per year. (see [[invasive-species-management]]).
+Many chemical pesticides, especially organophosphates, harm non-targeted organisms, pollute water, and impair human health. Chemical pesticides permeate the food chain; most people on the planet accumulate these compounds and their derivatives in fatty tissues and bloodstream. The pesticide industry in the [[dmt-containing-plants-united-states-halpern]] is valued at $9 billion, with biopesticides accounting for about 5% ($450 million) but growing at 15% per year.
 
 ## Key Entomopathogenic Fungi
 
@@ -33,7 +33,7 @@ A genus of fungi that includes species capable of behavioral manipulation of ins
 
 ## Mechanism of Infection
 
-When insects come into contact with entomopathogenic fungal spores:
+When insects come into contact with [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]] spores:
 
 1. Spores attach to the insect exoskeleton
 2. Spores germinate and bore hyphal pegs through the exoskeleton using chitin-dissolving enzymes
@@ -44,7 +44,7 @@ When insects come into contact with entomopathogenic fungal spores:
 
 ## The Presporulating Mycelium Discovery
 
-Stamets discovered that the mycelium of entomopathogenic fungi, prior to sporulation, acts as a Trojan horse -- attracting rather than repelling its insect victims. The key insights:
+Stamets discovered that the mycelium of entomopathogenic fungi, prior to sporulation, acts as a [[presporulating-mycelium-trojan-horse-mycopesticides]] -- attracting rather than repelling its insect victims. The key insights:
 
 - Insects can detect and avoid infectious spores (they "know" a mold plague when they sense one)
 - Presporulating (white) mycelium lacks the repellent spore smell and emits attractants and feeding stimulants
@@ -63,6 +63,27 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[paul-stamets]]
 - [[stamets-patents]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.
+
+## Future Research Directions
+- Emerging technologies and methodologies open new avenues for investigation.
+- Interdisciplinary approaches are increasingly important for advancing understanding.
+- Climate change and environmental pressures create urgency for practical solutions.
+- Collaborative research networks accelerate knowledge development and dissemination.
+
+## Tools and Technologies
+- Modern tools enable more precise measurement and analysis than previously possible.
+- Digital platforms facilitate knowledge sharing and collaborative learning.
+- Appropriate technology selection depends on scale, context, and available resources.

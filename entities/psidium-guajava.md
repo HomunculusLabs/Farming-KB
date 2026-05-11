@@ -87,33 +87,3 @@ In Ayurvedic medicine, guava fruit is valued for its astringent, digestive, and 
 Traditional Chinese medicine classifies guava as sweet and astringent, using the fruit for chronic diarrhea and the leaves for diabetes management. Guava leaf tea is widely consumed in Taiwan as a health beverage.
 
 In Mexican folk medicine, guava leaf decoctions are used for digestive complaints, menstrual pain, and as a mouthwash for toothache and gum inflammation. Similar traditions exist across Central America and the Caribbean.
-
-African traditional healers use the bark for skin infections and the roots for dysentery. The species is one of the most widely used medicinal plants across the tropical belt.
-
-## Ecological Role
-
-Guava provides food for a diverse range of frugivorous birds, bats, and mammals. In its native range, the fruit is consumed by toucans, parrots, monkeys, and iguanas.
-
-The species is an important early-successional tree in disturbed tropical habitats. Its rapid growth and prolific seed production allow it to colonize cleared land quickly.
-
-However, P. guajava is listed as invasive on several Pacific islands including Hawaii, Fiji, and the Galápagos. It can form dense thickets that shade out native vegetation, particularly in island ecosystems lacking natural dispersers.
-
-## Notable Cultivars and Varieties
-
-Commercial guava cultivation centers on a limited number of named cultivars selected for fruit quality, yield, and disease resistance. Varieties are broadly categorized by pulp color.
-
-'Lucknow-49' (Sardar) is the leading commercial variety in India, producing large, white-fleshed fruits with few seeds. 'Allahabad Safeda' is another important Indian cultivar known for its sweet, aromatic white pulp.
-
-'Red Malaysian' produces pink-red fleshed fruit with high lycopene content. 'Barcelona' is a Mexican cultivar with large, rounded, yellow-skinned fruits and firm pink pulp.
-
-'Tropical White' and 'Tropical Pink' are widely grown in Florida and the Caribbean. Thai guavas are typically selected for crisp texture and mild sweetness, suited to the Southeast Asian preference for eating unripe fruit.
-
-## See Also
-
-- [[psidium-cattleianum]]
-
-- [[terminalia-chebula]]
-- punica-granatum
-- [[curcuma-longa]]
-- [[eugenol]]
-- caryophyllene

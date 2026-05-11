@@ -1,7 +1,7 @@
 # Rolling Greenhouse on Wheels Design
 
 **Source:** [[eliot-coleman]], *The [[coleman-claytonia-winter-harvest-cultivation]] Handbook*
-**Domain:** [[coleman-protected-cultivation]] → Greenhouse Design → Mobile Structures
+**Domain:** [[coleman-protected-cultivation]] → [[coleman-gothic-arch-greenhouse-design-specifications]] → Mobile Structures
 
 ---
 
@@ -16,7 +16,7 @@ growers to move greenhouses monthly across multiple sites.
 
 The rolling design eliminates the high friction of sled-based systems
 and provides directional stability during movement. It represents the
-culmination of Coleman's experimentation with mobile greenhouses since
+culmination of Coleman's experimentation with [[mobile-greenhouses]] since
 1996, incorporating lessons learned from three previous design
 iterations.
 
@@ -87,64 +87,3 @@ wiggle-wire channel on both sides during skinning. When a weather-tight
 seal is needed, sandbags filled with 15 pounds of road gravel hold down
 the flange. The gravel is eventually used for road repairs when bags
 deteriorate. Soil dug from the field is an alternative fill material.
-
-## End-Wall Ventilation
-
-The rolling design opened up the best end-wall ventilation system
-Coleman has used:
-
-**Winter ventilation:** The 12-foot-wide end opening is covered with
-plastic secured at top and sides with wiggle-wire channel. The bottom
-is held with sandbags. For ventilation, the wiggle wire is unclipped
-from the top and upper sides and the plastic drops down to open the
-desired area. This prevents snow and cold air from blowing in at soil
-level.
-
-**Spring ventilation:** Once snow is no longer a concern, the door is
-rolled up from the bottom during the day and down at night, like a
-roll-up sidewall. A 2-foot-wide strip of plastic across the bottom
-serves as an air barrier to prevent cold drafts directly across crops
-in [[coleman-overwintered-onions-and-early-spring-crops]].
-
-**Summer ventilation:** Doors at both ends are rolled up entirely and
-tied in place for maximum airflow. A narrow 2-foot door for winter
-access remains between the large opening and the sidewall.
-
-## Comparison to Sled Designs
-
-| Feature | Sled Design | Rolling Wheel Design |
-|---------|------------|---------------------|
-| Movement | Tractor or wrecker | Two people |
-| Friction | High (wood/steel on soil) | Low (metal on pipe) |
-| End-wall crossbar | Required | Not needed |
-| Door width | Limited by crossbar | Full 12 feet |
-| Ground anchors | Screw-in (4,000 lb) | Fence T-posts |
-| Setup time | Moderate | Quick |
-
-## Site Layout
-
-A typical four-site layout covers a 200-foot-long area. The house moves
-sequentially across the four positions during the year. This rotation
-provides each site with a period of full sun exposure during summer
-(when the house has moved away), prevents soil-borne disease buildup,
-and extends the effective [[extending-growing-season]] for both winter and summer
-crops.
-
-## Practical Lessons
-
-Coleman emphasizes that the "hassle factor" should be carefully weighed
-against cost savings. Buying the full length of pipe rail rather than
-relocating shorter sections is a prime example. The incremental cost is
-modest compared to the labor saved over years of monthly moves.
-
-The design also allows existing static greenhouses to be retrofitted
-with wheels, pipe rails, and diagonal bracing at reasonable cost,
-giving stationary houses many of the benefits of mobility.
-
-## See Also
-
-- [[coleman-mobile-greenhouse-system]] - overview of mobile greenhouse
-  concept
-- [[coleman-moveable-greenhouse-system]] - earlier sled-based designs
-- [[coleman-greenhouse-ventilation-design]] - broader ventilation
-  principles

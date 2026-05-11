@@ -88,31 +88,3 @@ for consistent, high-quality harvests.
 ## Harvesting and Drying
 
 Mushrooms are harvested just before or as the veil beneath the cap tears.
-They are dried using a food dehydrator at 95-115 degrees F until cracker-dry,
-then stored in airtight containers with desiccant packets. Properly dried
-mushrooms retain potency for 1-2 years.
-
-## Common Contaminants
-
-- **Trichoderma** (green mold): The most common contaminant. Fast-growing
-  green patches indicate contaminated substrate that should be discarded.
-- **Cobweb mold** (Dactylium): Gray, fluffy growth that smothers mycelium.
-  See [[dactylium-cobweb-mold-mushroom-pathogens]] for identification.
-- **Bacteria**: Sour smell and slimy texture on grain, usually from
-  insufficient sterilization.
-- **Penicillium**: Blue-green mold that colonizes substrates aggressively.
-
-## Potency and Safety
-
-Psilocybin and psilocin content varies between species, strains, and growing
-conditions. Younger mushrooms tend to be more potent by weight. [[lsd-set-and-setting-framework]]
-are critical for safe experiences. Starting with low doses (0.5-1g dried),
-having a trusted trip sitter present, and avoiding combinations with other
-substances are foundational harm reduction practices.
-
-## See Also
-
-- [[pf-tek-fruiting-chamber]]
-- [[mushroom-spawn-preparation]]
-- [[agar-culture-and-isolation]]
-- [[fruiting-chambers-and-environmental-control]]

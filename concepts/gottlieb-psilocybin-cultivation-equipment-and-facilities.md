@@ -28,12 +28,12 @@ simplifies the equipment list considerably.
   17-degree angle ("slants") to maximize surface area. A wooden rack can be
   easily constructed to hold slants at this angle.
 - Baby bottles with cut rubber nipples and cotton wicks pulled through
-  (about 1/2 inch sticking out), filled 1/3 with agar medium and kept at a
+  (about 1/2 inch sticking out), filled 1/3 with [[agar-medium-preparation]] and kept at a
   17-degree angle. Sold in sets of 9-10 with steam sterilizers.
 
 ### Sterilization
 
-- Canning-type pressure cooker ("autoclave") for sterilizing medium
+- Canning-type [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] ("autoclave") for sterilizing medium
   containers. Operated at 15-20 psi (250 degrees F) for 30 minutes.
   Higher temperatures or longer periods caramelize dextrose/maltose sugars,
   inhibiting growth and [[gottlieb-psilocybin-production-extraction-methods]].
@@ -48,14 +48,14 @@ simplifies the equipment list considerably.
   jars.
 - Pipettes or syringes for transferring spore water suspensions and mycelium
   liquid.
-- Dissecting needles (3 per cap) for pinning mushroom caps during tissue
+- Dissecting needles (3 per cap) for pinning [[alkaloid-distribution-mushroom-caps-stems]] during tissue
   culture excision.
 - X-acto blades (flame-sterilized) for carving outer skin and cutting inner
   tissue from mushroom caps.
 - Q-tips and 7% iodine solution for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]] of caps.
 - Filter paper, Buchner funnel, and Celite for extraction filtration.
-- Flasks for extraction and media preparation.
-- Saccharimeter for tracking sugar consumption and determining harvest time.
+- Flasks for extraction and [[water-activity-osmophilic-fungal-media-preparation]].
+- Saccharimeter for tracking sugar consumption and determining [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]].
 
 ### Sources and Costs (1976)
 
@@ -88,49 +88,3 @@ production of 5,000+ doses per week using Gottlieb's methods.
   verathane or polyurethane. No cloth or carpeting permitted.
 - Lighting: wide-spectrum fluorescent tubes, 10-12 hours daily, evenly
   distributed across the ceiling. Fixtures are dust catchers and must be
-  wiped clean periodically.
-- Work table: painted with hard smooth white finish. If the table is metal,
-  a small clean cutting board must be provided for pinning mushroom caps
-  during dissection.
-- Shelf boards on the wall next to the table extended above it to provide
-  storage space for work equipment and ready containers.
-
-### Environmental Controls
-
-- Hood constructed around the work table to protect from dust.
-- Fume hood with flu vent and spark-free exhaust fan over the extraction
-  area to remove toxic and combustible methanol vapors.
-- Extraction preferably conducted in a separate room. If done in the
-  cultivation room, care must be taken that extraction heat does not alter
-  room temperature (fume hood helps carry off most heat).
-- Vinyl shower curtain hung around the work table to shield the area from
-  breezes when anyone enters or exits the room.
-- Second vinyl curtain hung just inside the entrance as a dust trap. A
-  person entering closes the door behind them before pulling the curtain
-  aside, and vice versa on exiting.
-
-### Furniture and Accessories
-
-- Stool at the work table.
-- Three-step ladder for reaching upper shelves.
-- Small table on rollers ("cake cart") for placing jars and dishes when
-  making rounds of the shelves.
-- No cloth or carpeting except for a supply of clean work clothing and
-  surgical masks.
-
-## Key Operating Parameters
-
-- Cultivation temperature: 70-75 degrees F for [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]; adjusted
-  for other species per their requirements.
-- Jars shaken every 2-3 days to aerate and disperse mycelium.
-- Growth cycle: 10-12 days from inoculation to harvest.
-- Work rate: approximately 100 jars per hour for inoculation.
-- Continuous rotation with 12 groups of 235 jars each.
-
-## See Also
-
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
-- [[gottlieb-psilocybin-cultivation-contamination-prevention]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[spore-syringe-vs-liquid-culture]]
-- [[psilocybin-large-scale-production]]

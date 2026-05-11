@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many psychoactive substances means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
+Drug testing is one of the most important [[adverse-effects-and-harm-reduction-psilocybin]] practices available. The unregulated nature of many [[cultural-evolution-and-psychoactive-substances]] means that what you receive may not be what you expect. Adulterants, substitutes, and misidentified compounds can turn a manageable experience into a dangerous or fatal one. Reagent testing and fentanyl test strips provide accessible, low-cost methods to verify substance identity before consumption.
 
 ## Why Test Matters
 
@@ -29,7 +29,7 @@ Reagent tests use chemical solutions that change color in the presence of specif
 
 #### Marquis Reagent
 
-- **Contains**: Formaldehyde and sulfuric acid
+- **Contains**: Formaldehyde and [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
 - **Detects**: MDxx compounds (MDMA, MDA, MDEA), amphetamines, opioids, 2C-x compounds, tryptamines
 - **Color reactions**:
   - MDMA/MDA: Black/dark purple
@@ -63,7 +63,7 @@ Reagent tests use chemical solutions that change color in the presence of specif
 #### Ehrlich Reagent
 
 - **Contains**: p-Dimethylaminobenzaldehyde (p-DMAB) in ethanol
-- **Detects**: Indole compounds -- LSD, [[psilocin]], DMT, 5-MeO-DMT, tryptamines
+- **Detects**: [[psilocybe-semilanceata-eight-indole-compounds]] -- LSD, [[psilocin]], DMT, 5-MeO-DMT, tryptamines
 - **Color reactions**:
   - LSD: Purple/pink
   - Psilocybin/psilocin: Purple/pink
@@ -88,62 +88,3 @@ Reagent tests use chemical solutions that change color in the presence of specif
 3. **Apply**: Place the sample on the testing surface. Add 1-2 drops of reagent.
 4. **Observe**: Watch the color change over 30-60 seconds. Compare to the reference color chart for that specific reagent.
 5. **Document**: Photograph the result next to the color chart for your records.
-6. **Multiple tests**: Test with at least 2-3 different reagents for better identification. One reagent alone cannot positively identify a compound.
-7. **Dispose**: Reagents are hazardous waste. Neutralize with baking soda before disposal.
-
-## Fentanyl Test Strips
-
-### What They Detect
-
-Fentanyl test strips detect the presence of fentanyl and many fentanyl analogs at concentrations as low as 0.5 ng/mL. They do NOT detect all novel fentanyl analogs, but they catch the most common ones.
-
-### How to Use
-
-1. Dissolve a small amount in water (powder: tiny scoop; pill: crush and dissolve)
-2. Dip test strip in for 15 seconds, remove and lay flat
-3. Read at exactly 2 minutes (second line may fade after)
-4. **Two lines**: No fentanyl detected | **One line (top only)**: Fentanyl detected | **Invalid**: Try again
-
-### When to Test
-
-Test every substance that did not come directly from a pharmaceutical source or a trusted, tested supply chain. Fentanyl has been found in:
-- Cocaine and crack cocaine
-- MDMA (powder and pills)
-- Methamphetamine
-- Counterfeit pharmaceuticals (Xanax, OxyContin, Adderall)
-- Heroin (ubiquitously in [[psilocybin-north-america-pacific-northwest]])
-
-## Interpreting Results
-
-### What Reagent Tests CAN Tell You
-
-- The general class of compound present (indole vs. phenethylamine vs. amphetamine)
-- Whether a substance is likely NOT the expected compound (wrong color reaction)
-- Whether a second compound may be present (mixed or shifting colors)
-
-### What Reagent Tests CANNOT Tell You
-
-- Exact compound identity (many compounds share similar reactions)
-- Purity or concentration
-- Presence of compounds the reagent does not react to
-- Safety of the substance (a correct identification does not mean it is safe for you)
-
-### False Confidence
-
-A reagent test that matches expected results significantly increases confidence but never provides certainty. The only way to definitively identify a compound is through laboratory analysis (GC/MS, HPLC, NMR). Services like Energy Control (Spain), DrugsData (US), and similar organizations provide mail-in lab testing.
-
-## Where to Get Testing Supplies
-
-- **DanceSafe (dancesafe.org)**: Reagent kits, fentanyl test strips, educational materials
-- **Bunk Police (bunkpolice.com)**: Individual reagents and multi-reagent kits
-- **TestKitPlus**: Reagent kits with detailed instructions and color charts
-- **Harm Reduction organizations**: Many local harm reduction groups distribute free fentanyl test strips
-- **Online harm reduction stores**: Multiple vendors; verify reputation before ordering
-
-## Important Safety Notes
-
-- Reagents are corrosive; handle with gloves and eye protection
-- Never touch reagent to skin or eyes; store in cool, dark locations
-- Replace kits every 6-12 months; never mix reagent bottles
-- Dispose of used reagents and test materials safely
- For further reading on safety practices, see [[lsd-pharmacology]], and [[ecstasy-mdma-guide]].

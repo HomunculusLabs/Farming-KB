@@ -88,22 +88,3 @@ There the partnership society arose and flourished; there hunter-gatherer cultur
 ## The Genesis Connection
 
 At the beginning of Western civilization, in the Book of Genesis, McKenna reads an account of history's first drug bust: Eve, mistress of the magical plants, eats and shares the fruits of the Tree of Knowledge, fruits which are "pleasing to the eye and pleasing to contemplate." The eyes of both of them were opened. This mysterious fruit is identified by McKenna as the psilocybin-containing mu [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] cubensis* that catalyzed the Tassili partnership Eden.
-
-The angel with flashing sword who guards the return to Eden seems an obvious symbol of the unforgiving harshness of the desert sun and the severe drought conditions that accompany it. The retreat of the glaciers from the Eurasian landmass and the simultaneous acceleration of aridity in the African grasslands eventually brought the "casting out of Eden" allegorically conveyed in Genesis.
-
-## See Also
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
-- Mckenna Tryptamines Consciousness
-
-## Henri Lhote and the Discovery of the Tassili Frescoes
-
-Henri Lhote, a French ethnographer and explorer, conducted extensive expeditions to the Tassili-n-Ajjer Plateau between 1956 and the early 1970s. His work, published in *The Search for the Tassili Frescoes* (1959), brought worldwide attention to the remarkable rock art of the central Sahara. Lhote documented thousands of paintings across multiple sites, including the famous "Great Martian God" at Jabbaren and the mushroom-bearing shamans at Matalen-Amazar and Ti-nTazarift.
-
-Lhote's interpretations were sometimes speculative and controversial. Modern researchers have both praised his documentation efforts and critiqued some of his more imaginative readings of the paintings. Jean-Dominique Lajoux's *The Rock Paintings of the Tassili* (1963) provided a more measured photographic record that has served as a primary reference for subsequent scholarship.
-
-The broader significance of the Tassili paintings extends beyond mushroom iconography. They document a period when the Sahara was green and fertile, supporting large pastoral populations with cattle herds and complex religious practices — a dramatic contrast to the arid desert it is today. Climate change over thousands of years transformed this landscape, forcing the mushroom-using pastoral peoples to migrate.
-
-UNESCO designated the Tassili-n-Ajjer as a World Heritage Site in 1982, recognizing both its outstanding natural geological formations and its extraordinary collection of prehistoric rock art, one of the most important in the world.
-- mushroom-stone-artifacts
-- [[psilocybin-mushroom-legal-history]]
-- [[sacred-mushroom-names-cross-cultural-synonyms]]

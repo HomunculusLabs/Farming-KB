@@ -88,25 +88,3 @@ In Thai folk medicine, the dried flowers are used as a carminative and for reduc
 Modern research has investigated longan polysaccharides for their effects on immune cell proliferation, anti-fatigue activity in mice, and neuroprotective properties in cell culture models.
 
 Clinical validation remains limited, though a few small human trials have reported improvements in sleep quality and subjective well-being after daily consumption of dried longan aril over 4–8 weeks. Larger randomized controlled trials are needed.
-
-## Ecology and Applications
-
-Longan trees provide food and habitat for wildlife in their native range. The flowers attract bees and other pollinators, and the fruit is consumed by birds, bats, and primates in forest ecosystems.
-
-The tree is widely planted as an ornamental shade tree in tropical and subtropical gardens and urban landscapes. Its dense canopy and attractive glossy foliage make it a popular street tree in southern Chinese cities.
-
-Longan seeds, which are otherwise a waste product of canning operations, contain saponins and tannins. Research has explored their use as a natural surfactant, antimicrobial agent, and source of industrial starch.
-
-The pericarp (shell) is rich in polyphenols and has been investigated for its antioxidant, anti-inflammatory, and anti-tyrosinase activities, with potential applications in cosmetics and nutraceuticals as a value-added byproduct.
-
-Longan wood is moderately hard and has been used locally for tool handles, furniture, and fuelwood. However, timber production is secondary to fruit production, and the species is not commercially important as a timber tree.
-
-## See Also
-
-- litchi chinensis
-- nephelium lappaceum
-- [[ziziphus-jujuba]]
-- [[mangifera-indica]]
-- citrus
-- [[vitis-vinifera]]
-- [[theobroma-cacao]]

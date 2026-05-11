@@ -88,37 +88,3 @@ McKenna uses the concept of the Logos to challenge conventional assumptions abou
 He argues that searching for radio signals from space is "probably as culture-bound a presumption as to search the galaxy for a good Italian restaurant."
 
 Meanwhile, people all over the world — "psychics, shamans, mystics, schizophrenics" — have heads "filled with information" that has been "ruled a priori irrelevant, incoherent, or mad."
-
-Only that which is validated through consensus via "certain sanctioned instrumentalities" is accepted as a signal, while the overwhelming quantity of information coming through non-standard channels is dismissed as noise.
-
-McKenna suggests that the Logos represents a form of communication with an intelligence that is already present and accessible — not located in distant star systems but "one quanta away" from ordinary reality.
-
-The problem is not that the signal is absent but that "we are so inundated by these signals — these other dimensions — that there is a great deal of noise in the circuit."
-
-## The Explorer's Stance
-
-McKenna calls himself "an explorer rather than a scientist" because the area he investigates "contains insufficient data to support even the dream of being a science."
-
-He compares the current state of [[mckenna-baconian-exploration-tryptamine-research-methodology]] to early cartography — mapping one river while only indicating others flowing into it, leaving many rivers unascended.
-
-This Baconian approach — collecting data without assumptions about what it might eventually yield — has pushed McKenna to conclusions he did not anticipate.
-
-The Logos is not a conclusion he sought but a phenomenon he encountered, and his writing represents an attempt to describe it with as much precision and intellectual honesty as the subject allows.
-
-## The Logos and Ecological Consciousness
-
-McKenna suggests that the Logos may be related to the Earth itself — "some kind of diffuse consciousness that is in the ecosystem."
-
-This ecological dimension connects the tryptamine Logos to broader theories of planetary consciousness and Gaia-like intelligence.
-
-The fact that the primary natural sources of DMT and psilocybin are fungal and plant organisms — organisms deeply integrated into terrestrial ecosystems — supports the possibility that these compounds mediate communication between human consciousness and some form of ecological intelligence.
-
-McKenna does not insist on this interpretation but includes it among the hypotheses worth investigating through continued direct experience and dialogue with the Logos.
-
-## See Also
-
-- [[tryptamine-logos]]
-
-- [[dmt-phenomenology-and-hyperspace-geometry|DMT Phenomenology]] — the experiential context of Logos encounters
-- [[self-transforming-machine-elves|Self-Transforming Machine Elves]] — the entities as agents of the Logos
-- [[psychedelic-psychotherapy-paradigms|Psychedelic Psychotherapy Paradigms]] — clinical approaches to similar phenomena

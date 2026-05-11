@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Berg, C.C. & Corner, E.J.H. (2005). "Ficus L. (Moraceae)." Flora Malesiana, Ser. I, 17(2), 1-730.
-  - Chaudhary, R.P. (1998). "Biodiversity in Nepal: Status and Conservation." Tecpress Books.
+  - Chaudhary, R.P. (1998). "Biodiversity in Nepal: [[gottlieb-peyote-legal-status-and-conservation]]." Tecpress Books.
   - Singh, S. et al. (2011). "Ficus religiosa L.: A Phytopharmacological Review." International Journal of Pharmaceutical Sciences and Research, 2(8), 1956-1962.
   - Harrison, R.D. (2005). "Figs and the Diversity of Tropical Rainforests." BioScience, 55(12), 1053-1061.
   - Kirschner, R. (2006). "Ficus religiosa — Bo Tree, Peepul." In: Lemmens, R.H.M.J. et al., Plant Resources of South-East Asia. PROSEA Foundation.
@@ -26,7 +26,7 @@ The species is famous as the tree under which Siddhartha Gautama, the Buddha, is
 
 Ficus religiosa is a large, fast-growing tree that can reach 30 meters in height. It is distinguished by its distinctive heart-shaped leaves with long, tapering drip tips and its habit of producing aerial roots that descend from the branches.
 
-The species is widely planted throughout the tropics as an ornamental and shade tree. Its broad canopy and cultural significance make it a common feature of temple grounds, parks, and roadside plantings in South and Southeast Asia.
+The species is widely planted throughout the tropics as an ornamental and shade tree. Its broad canopy [[amanita-muscaria]] make it a common feature of temple grounds, parks, and roadside plantings in South and Southeast Asia.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ The leaf surface is smooth and leathery, with 5 to 7 pairs of lateral veins. New
 
 The figs (syconia) are small, globose, 1 to 1.5 centimeters in diameter, borne in pairs in the leaf axils. They ripen from green to dark purple-black and contain numerous tiny seeds. The figs are pollinated by a species-specific wasp, Pleistodontes froggatti.
 
-Aerial roots develop abundantly from the branches of mature trees. These roots grow downward toward the ground and, upon contact, thicken into pillar-like prop roots that can provide additional structural support.
+Aerial roots develop abundantly from the branches of mature trees. These roots grow downward toward the ground and, upon contact, thicken into pillar-like prop roots that can provide additional [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]].
 
 ## Distribution and Habitat
 
@@ -66,7 +66,7 @@ The species has been widely planted and naturalized beyond its native range thro
 
 Sacred fig grows in a variety of habitats from semi-arid to moist tropical conditions. It is found in deciduous and semi-evergreen forests, along riverbanks, in village groves, and on temple grounds throughout its range.
 
-The species tolerates a wide temperature range from approximately 5°C to 45°C and annual rainfall from 500 to 3,000 millimeters. It is somewhat drought-tolerant but performs best with reliable moisture during the growing season.
+The species tolerates a wide [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] from approximately 5°C to 45°C and annual rainfall from 500 to 3,000 millimeters. It is somewhat drought-tolerant but performs best with reliable moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 It typically grows at low to middle elevations, from sea level to approximately 1,500 meters. In the Himalayan foothills, it occurs up to about 1,700 meters elevation.
 
@@ -80,47 +80,10 @@ In Jainism, Ficus religiosa is one of the sacred trees under which Tirthankaras 
 
 The tree is a central motif in Indian art, literature, and philosophy. It symbolizes longevity, wisdom, and the interconnectedness of all life. The distinctive leaf shape appears on the national flag of India and is a common decorative motif.
 
-Throughout South and Southeast Asia, sacred fig trees are commonly planted near temples, shrines, and sacred sites. Their shade provides gathering spaces for community activities, religious ceremonies, and meditation.
+Throughout South and Southeast Asia, sacred fig trees are commonly planted near temples, shrines, and sacred sites. Their shade provides gathering spaces for community activities, [[entheogenic-folk-religious-ceremonies]], and meditation.
 
 ## Cultivation and Uses
 
 **Propagation and Growth:**
 
 Propagation is primarily by seed or by cuttings from mature branches. Seeds germinate readily in moist, well-drained soil but require exposure to the species-specific pollinating wasp for fig production.
-
-Trees grow rapidly in their early years, often reaching 5 to 8 meters within five years. They prefer full sun but tolerate partial shade when young. The species is relatively adaptable to different soil types.
-
-In cultivation, the tree requires ample space due to its eventual large size and extensive root system. It should not be planted near buildings, sidewalks, or underground utilities, as the roots can cause significant structural damage.
-
-**Medicinal Uses:**
-
-In Ayurvedic and traditional medicine systems, virtually all parts of Ficus religiosa are used medicinally. The bark is prescribed for diabetes, diarrhea, and skin diseases. Leaf extracts are applied to wounds and used as an anti-inflammatory.
-
-Modern pharmacological studies have validated several traditional uses. Bark extracts have demonstrated significant hypoglycemic activity in animal models, supporting the traditional use for managing diabetes.
-
-Antimicrobial activity has been documented for leaf and bark extracts against various Gram-positive and Gram-negative bacteria. Antioxidant, anti-inflammatory, and hepatoprotective activities have also been reported in laboratory studies.
-
-## Ecological Role
-
-Ficus religiosa is a keystone species in tropical forest ecosystems due to its role as a fig-producing tree. Figs are available year-round and provide a critical food resource for frugivorous birds, bats, monkeys, and other wildlife during periods of food scarcity.
-
-The species-specific pollination mutualism with the fig wasp Pleistodontes froggatti is a classic example of coevolution. Female wasps enter the enclosed fig syconium through a small opening (ostiole) to lay eggs and simultaneously pollinate the internal flowers.
-
-As a hemiepiphytic strangler fig, Ficus religiosa can establish as an epiphyte on a host tree and eventually produce aerial roots that encircle and may kill the host. This life strategy contributes to gap-phase dynamics in tropical forests.
-
-The broad canopy provides shade that moderates understory temperatures and moisture levels. Fallen leaves contribute substantial organic matter to the soil, supporting decomposition and nutrient cycling processes.
-
-The aerial root system creates complex three-dimensional habitat structure. Cavities formed between aerial roots and the main trunk provide nesting sites and shelter for birds, bats, reptiles, and invertebrates.
-
-## See Also
-
-- [[ficus-carica]]
-- [[ficus-lyrata]]
-- [[morus-alba]]
-- [[morus-rubra]]
-- [[broussonetia-papyrifera]]
-- [[maclura-pomifera]]
-- [[permaculture]]
-- [[mycorrhiza]]
-- [[agroforestry]]
-- [[artocarpus-heterophyllus]]

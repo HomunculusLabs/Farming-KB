@@ -1,7 +1,7 @@
 # Fungal Spore Discharge Mechanics
 
 Fungal spore discharge is the process by which mushrooms and other fungi eject
-reproductive spores from their fruiting bodies into the air for dispersal. The
+reproductive spores from their [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] into the air for dispersal. The
 mechanism is one of the most remarkable feats of biological engineering in the
 natural world, involving microscopic catapults powered by [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] forces
 and the evaporation of water. The study of spore discharge was pioneered by
@@ -20,7 +20,7 @@ is catapulted horizontally from its basidium.
 
 ## The Catapult Mechanism
 
-The discharge mechanism relies on the condensation of water on the surface of the
+The [[basidiospore-discharge-mechanism]] relies on the condensation of water on the surface of the
 spore. A few seconds before discharge, a small bead of liquid develops at the
 base of each spore, grows until it becomes almost as wide as the spore itself,
 and then — instantly — fluid and spore disappear from the basidium as the spore
@@ -76,8 +76,8 @@ swimming — actually promotes spore discharge by slowing water molecule movemen
 and encouraging condensation on the spore surface.
 
 An earlier report by Richard Falck that mushrooms could be up to 9°C warmer than
-surrounding air was likely due to decomposition of mushrooms brought into the
-laboratory. The discovery of mushroom cooling revealed the forest floor as a
+surrounding air was likely due to [[decomposition]] of mushrooms brought into the
+laboratory. The discovery of mushroom cooling revealed the [[fungal-ecology-forest-floor]] as a
 thermal mosaic, with mushrooms as its coldest inhabitants.
 
 ## Spore Dispersal After Launch
@@ -88,39 +88,3 @@ spores become trapped inside the [[comparison-fruiting-body-vs-mycelium-extracts
 separated by less than 0.2 millimeters and the tubes of some boletes and brackets
 are only 0.1 millimeters in diameter. Several adaptations minimize spore loss
 through impaction on internal surfaces, ensuring efficient dispersal into air
-currents that carry them to new colonization sites.
-
-## Other Fungal Spore Discharge Mechanisms
-
-Not all fungi use the basidial catapult mechanism. Different groups have evolved
-diverse strategies for launching spores:
-
-- **Ascomycetes** ([[bloomfield-truffle-evolution-cup-fungi-hypogeous]], morels, truffles): Many use pressurized asci that
-  rupture explosively, firing spores like microscopic cannons. [[truffle-guide]]
-  spores, however, rely on animal consumption for dispersal.
-- **Zygomycetes** (bread molds): Sporangia burst to release vast clouds of
-  spores passively into the air.
-- **Oomycetes** (water molds): Produce motile zoospores that swim through
-  water films using flagella, seeking hosts by chemical sensing.
-- **Puffballs**: Rely on external disturbance — raindrops, falling debris, or
-  animals compress the puffball and force spores out through the ostiole.
-
-## Significance
-
-Spore discharge mechanics represent an intersection of physics, biology, and
-ecology at the microscopic scale. The efficiency of these mechanisms determines
-how far and how widely [[biodiversity-fungal-genetic-diversity]] material disperses, influencing fungal
-population genetics, disease transmission in pathogenic species, and
-decomposition rates in forest ecosystems. Understanding these mechanisms has
-practical applications in plant pathology, indoor [[cervantes-air-quality-ventilation]] assessment, and
-aerobiology.
-
-## Source
-
-- Nicholas P. Money, *Mr. Bloomfield's Orchard: The Mysterious World of
-  Mushrooms, Molds, and Mycologists* (2002), Oxford University Press
-  (mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md)
-
-## See Also
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]

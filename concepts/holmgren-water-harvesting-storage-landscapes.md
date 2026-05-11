@@ -1,5 +1,5 @@
 ---
-title: "Water [[grain-harvesting-and-storage]] in permaculture Landscapes"
+title: Holmgren Water Harvesting Storage Landscapes
 created: 2026-04-26
 tags:
   - water
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
@@ -87,9 +88,3 @@ Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[holmgren-aboriginal-management-edge-landscapes]]

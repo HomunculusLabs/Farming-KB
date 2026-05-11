@@ -77,7 +77,7 @@ The oceanic lithosphere cools, thickens, and densifies as it ages.
 That aging makes subduction possible and drives [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on.
 Porphyry copper deposits often form abo [[teaming-with-microbes-photosynthesis-exudates-carbon-cycle]] sts locate ore belts.
 The theory explains the long-term [[photosynthesis-carbon-cycle-plants]].
-Volcanism releases carbon dioxide from Earth's interior.
+Volcanism releases [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from Earth's interior.
 Weathering of uplifted rocks removes carbon dioxide from the atmosphere.
 Subduction recycles carbon-bearing rocks into the mantle.
 This cycle influences climate over millions of years.
@@ -88,22 +88,3 @@ Some scientists argue that tectonics helps regulate climate and nutrients.
 Others note that life may persist under different geodynamic regimes.
 Comparisons with Venus, Mars, and icy moons sharpen these questions.
 Plate tectonics also shapes culture and history.
-
-Fertile volcanic soils support agriculture in many regions.
-Earthquakes and eruptions have altered societies, cities, and religious interpretations.
-Maps of tectonic risk influence infrastructure, insurance, and diplomacy.
-The concept reminds us that apparently stable landscapes are temporary.
-Continents assemble into supercontinents and later split apart.
-Oceans open, close, and reopen through the Wilson cycle.
-## Related Concepts
-geology
-geophysics
-earthquakes
-volcanology
-mantle convection
-subduction zones
-seafloor spreading
-paleomagnetism
-rock cycle
-rock-eating-fungi-and-mineral-weathering
-- [[endolithic-fungi-rock-colonizing-communities]]

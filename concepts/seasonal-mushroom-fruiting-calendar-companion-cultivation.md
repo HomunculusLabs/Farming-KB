@@ -1,5 +1,5 @@
 ---
-title: Seasonal Mushroom Fruiting Calendar and Companion Cultivation Design
+title: Seasonal Mushroom Fruiting Calendar Companion Cultivation
 created: 2026-05-10
 tags: [mushrooms, fruiting-seasons, cultivation, companion-planting, mycelium-running, stamets, mycogardening]
 sources:
@@ -13,13 +13,13 @@ from early spring through late winter. Paul Stamets advocates
 designing mycological landscapes where species are selected
 and sited to fruit in succession, complementing the feast from
 plants with fungal bounty and flavor diversity. This transforms
-mushrooms [[companion-cultivation-of-mushrooms-with-garden-vegetables]] from occasional foraged treats into reliable seasonal garden crops.
+mushrooms [[companion-cultivation-of-mushrooms-with-garden-vegetables]] from occasional foraged treats into reliable [[seasonal-garden-tasks-calendar]] crops.
 
 ## The Concept of Companion Cultivation
 
 Companion cultivation with saprophytic and mycorrhizal
 mushrooms is increasingly popular as gardeners discover the
-benefits of integrating fungi alongside plants. Mushrooms
+[[query-benefits-of-integrating-chickens-into-permaculture]] fungi alongside plants. Mushrooms
 increase garden yields, reduce fertilizer needs, and build
 long-term soil structure. Carbon dioxide from mycelium fuels
 plant growth while plant sugars feed mycorrhizal partners,
@@ -29,17 +29,17 @@ creating self-maintaining ecosystems that improve each season. (see [[mushroom-p
 
 ### Morels (Morchella spp.)
 
-Morels appear in April and May in temperate regions and are among
+Morels appear in April and May in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and are among
 the most eagerly anticipated spring mushrooms. They fruit in
 association with dying or stressed hardwoods, particularly elms,
 ash, and tulip poplars. Outdoor cultivation remains challenging
 but can be encouraged by establishing beds near dying trees and
-maintaining the soil temperature and moisture gradients that
+maintaining the soil [[mushroom-growing-temperature-and-moisture]] gradients that
 trigger fruiting. (see [[oyster-mushroom-species-comparison]]).
 
 ### Spring Oysters (Pleurotus ostreatus and allies)
 
-Oyster mushrooms are among the easiest species for outdoor
+[[cultivation-of-oyster-mushrooms]] are among the easiest species for outdoor
 cultivation, fruiting prolifically in spring when temperatures
 moderate and humidity rises. Wood chip beds inoculated the
 previous fall often produce their first substantial flushes in
@@ -87,64 +87,3 @@ flush approximately one week later.
 ## Late Summer to Early Fall Species
 
 ### Button and Meadow Mushrooms (Agaricus species)
-
-[[agaricus-bisporus]], A. campestris, A. subrufescens, and A.
-brasiliensis fruit as temperatures moderate in late summer and
-early fall. These compost-loving species thrive in enriched
-garden soils. The Brazilian blazei has gained attention for
-its potent medicinal properties, particularly strong aromatase
-inhibition.
-
-### King Oyster (Pleurotus eryngii)
-
-The king oyster fruits from late summer into fall, producing
-large, thick-stemmed mushrooms with a meaty texture. More
-heat-tolerant than other oyster species, it extends the
-oyster harvest season well into autumn.
-
-### Maitake (Grifola frondosa)
-
-Maitake fruits at the base of oaks and other hardwoods from
-late summer through fall. In outdoor cultivation, it can be
-established on inoculated stumps or root systems. Its clustered
-fronds can weigh several pounds, making it one of the most
-productive species per fruiting event.
-
-## Late Fall to Early Winter Species
-
-### Fall Oysters ([[pleurotus-ostreatus]] and P. pulmonarius)
-
-Cool-weather oysters are among the most reliable late-season
-fruiters. As temperatures drop and frosts begin, they produce
-some of their best-quality mushrooms. Cold weather reduces
-insect competition and slows bacterial growth, resulting in
-cleaner, longer-lasting fruiting bodies.
-
-### Shaggy Mane ([[coprinus-comatus]])
-
-The shaggy mane is a distinctive heliotrope that fruits in
-grasslands through late fall. Its elongated caps autodigest
-into ink within hours of maturity, requiring timely harvest.
-Despite the narrow window, shaggy manes are prolific and
-appear in large numbers in grass-mushroom companion plantings.
-
-### Blewitt (Lepista nuda)
-
-The blewitt fruits from late fall through early winter,
-persisting through light frosts. Its distinctive lilac-blue
-color and nutty flavor make it a valued late-season species.
-Blewitts often naturalize in mulched garden areas without
-deliberate inoculation.
-
-## Designing a Year-Round Fruiting Schedule
-
-The practical approach to year-round availability involves
-selecting three to five complementary species whose fruiting
-windows overlap or abut. A simple three-species plan might
-combine spring oysters (March through May), garden giants
-(June through August), and fall oysters (October through
-December). More ambitious designs can incorporate eight or
-more species. Key principles include selecting species adapted
-to your climate, providing appropriate substrates and
-microclimates for each, and maintaining diverse mycelial
-networks that strengthen each growing season.

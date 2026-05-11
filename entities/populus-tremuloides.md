@@ -12,15 +12,15 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Mitton, J.B. & Grant, M.C. (1996). "Genetic variation and the natural history of quaking aspen." BioScience, 46(1), 25-31.
-  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: Ecology and Management in the Western dmt-containing-plants-united-states-halpern." USDA Forest Service General Technical Report RM-119.
+  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: [[nematode-management]] in the Western dmt-containing-plants-united-states-halpern." USDA Forest Service General Technical Report RM-119.
   - Kemperman, J.A. & Barnes, B.V. (1976). "Clone size in American aspens." Canadian Journal of Botany, 54(22), 2605-2609.
 ---
 
 ## Overview
 
-**Populus tremuloides**, commonly known as quaking aspen or trembling aspen, is a deciduous tree native to cooler regions of North America.
+**Populus tremuloides**, commonly known as quaking aspen or trembling aspen, is a deciduous tree native to cooler regions [[berry-growing]].
 
-It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to central Mexico.
+It is the most widely distributed tree species on the continent, ranging from Alaska to Newfoundland and south to [[psychoactive-cacti-of-central-mexico]].
 
 Quaking aspen is famous for forming massive clonal colonies through root suckering, including the "Pando" clone in Utah, which is considered one of the largest organisms on Earth by mass.
 
@@ -42,9 +42,9 @@ The distinctive white bark provides effective camouflage against winter snow and
 
 This fluttering movement reduces heat loading, increases photosynthetic efficiency through improved [[stamets-growing-room-air-circulation-co2-management]], and produces the characteristic "quaking" sound of aspen groves.
 
-Leaf color in autumn is a brilliant golden-yellow, creating some of the most visually striking fall displays in the western United States and Canada.
+Leaf color in autumn is a brilliant golden-yellow, creating some of the most visually striking fall displays in the western [[dmt-containing-plants-united-states-halpern]] and Canada.
 
-**Flowers:** Dioecious, appearing in pendulous catkins before leaf emergence in early spring. Male catkins are gray and 3–6 cm long; female catkins are greenish and 5–12 cm.
+**Flowers:** Dioecious, appearing in pendulous catkins before leaf emergence in [[coleman-overwintered-onions-and-early-spring-crops]]. Male catkins are gray and 3–6 cm long; female catkins are greenish and 5–12 cm.
 
 **Fruit:** Small capsules that split to release numerous minute seeds, each topped with a tuft of white cottony hairs for wind dispersal.
 
@@ -84,36 +84,6 @@ The species' early-successional nature creates a shifting mosaic of open and clo
 
 Aspen forests support higher avian species richness than adjacent conifer stands, including cavity-nesters that depend on the soft wood for excavation.
 
-[[bloomfield-fungal-pathogens-and-parasites]], particularly those causing canker diseases and root rot, play a natural role in stand dynamics by creating gaps that trigger new sucker growth.
+[[bloomfield-fungal-pathogens-and-parasites]], particularly those causing canker diseases and [[cannabis-root-rot-prevention-and-treatment]], play a natural role in stand dynamics by creating gaps that trigger new sucker growth.
 
 ## Timber and Uses
-
-Aspen lumber has limited structural value due to its low density and strength, but it is widely used for pulp, paper products, engineered wood panels, and matchsticks.
-
-The wood takes paint and stain well and is used for interior paneling, crates, pallets, and lightweight furniture frames.
-
-Aspen is increasingly valued for biomass energy production due to its rapid growth rate, high moisture content, and ability to coppice vigorously after harvest.
-
-In traditional Indigenous medicine, aspen bark was used for its salicylate content (related to aspirin) as an analgesic and anti-inflammatory agent.
-
-## Cultivation
-
-Quaking aspen establishes readily from seed on exposed mineral soil but is more commonly propagated vegetatively through root cuttings and container stock.
-
-In forestry, aspen is regenerated primarily through clearcutting or shelterwood harvests that stimulate root suckering from the parent root system.
-
-Growth rates are exceptionally fast, with young trees capable of 60–120 cm of height growth per year under optimal conditions.
-
-Trees typically reach 15–25 m in height at maturity, with a trunk diameter of 20–60 cm. Maximum age for individual stems is approximately 150–200 years.
-
-The species is highly susceptible to browsing damage by ungulates, which can suppress regeneration and prevent stand replacement in heavily grazed areas.
-
-## See Also
-
-- [[populus-grandidentata]]
-
-- [[acer-saccharum]]
-- [[betula-pendula]]
-- [[fagus-sylvatica]]
-- [[tilia-cordata]]
-- [[quercus-suber]]

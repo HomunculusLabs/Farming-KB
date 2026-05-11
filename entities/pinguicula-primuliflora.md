@@ -37,7 +37,7 @@ The plant forms a flat rosette 5–10 cm in diameter. Leaves are elliptic to obl
 
 The upper [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] is densely covered with two types of glandular trichomes. Pedunculate glands produce the sticky mucilage that traps prey, while sessile glands secrete digestive enzymes.
 
-The leaf surface is a bright green to yellowish-green, often with a slight reddish tint along the margins. The mucilage coating gives the leaves a glossy, wet appearance in bright light.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is a bright green to yellowish-green, often with a slight reddish tint along the margins. The mucilage coating gives the leaves a glossy, wet appearance in bright light.
 
 The flower scape is 8–18 cm tall, bearing a single flower (rarely two). The corolla is 2–3 cm in diameter with five lobes.
 
@@ -51,7 +51,7 @@ Petals are pale lavender to deep violet with a white or pale throat. The palate 
 
 ## Distribution and Habitat
 
-*P. primuliflora* is native to the southeastern United States, primarily the Gulf Coastal Plain from southeastern Mississippi through southern Alabama to the Florida Panhandle and northern Florida.
+*P. primuliflora* is native to the southeastern [[dmt-maoi-plants-united-states]], primarily the Gulf Coastal Plain from southeastern Mississippi through southern Alabama to the Florida Panhandle and northern Florida.
 
 The species inhabits wet, sandy soils in bogs, seepage slopes, wet pine savannas, and margins of streams and ponds. It requires permanently moist to saturated substrates.
 
@@ -88,27 +88,3 @@ Temperatures between 18–28 °C are ideal, with high humidity preferred. The sp
 Propagation is readily achieved through leaf cuttings placed on moist peat. Plantlets emerge from the leaf margins within 3–6 weeks. The species also produces plantlets from the leaf tips in terrarium conditions.
 
 The species can self-pollinate, producing abundant seed. Seeds are small and dust-like, requiring light for germination. Sowing on the surface of moist peat yields good results.
-
-In terrarium culture, the species readily produces plantlets from leaf tips. These offsets can be separated once they develop roots and several leaves.
-
-## Related Species
-
-*P. primuliflora* is part of a Gulf Coast species complex that includes *P. ionantha*, *P. lutea*, *P. planifolia*, and *P. caerulea*. These species often grow in proximity and share similar ecological requirements.
-
-*P. ionantha*, the violet butterwort, is smaller and produces deeper violet flowers. It is endangered and restricted to a small area of the Florida Panhandle.
-
-*P. lutea* produces distinctive yellow flowers and is more tolerant of drier conditions. It typically grows in slightly more elevated sites than *P. primuliflora*.
-
-Natural hybrids between *P. primuliflora* and *P. lutea* have been documented in areas where the two species co-occur. Hybrid plants produce intermediate flower colors and morphology.
-
-The genus *Pinguicula* has undergone significant diversification in the southeastern United States, with the Gulf Coastal Plain serving as a center of species richness for temperate butterworts.
-
-## See Also
-
-- [[pinguicula-moranensis]]
-- [[drosera-rotundifolia]]
-- [[utricularia-gibba]]
-- [[nepenthes-maxima]]
-- [[drosera-adelae]]
-- [[utricularia-australis]]
-- [[nepenthes-rafflesiana]]

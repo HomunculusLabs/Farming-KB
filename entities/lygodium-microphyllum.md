@@ -23,11 +23,11 @@ The species has become one of the most destructive invasive plants in the Florid
 
 Unlike most ferns, Lygodium microphyllum produces an indeterminate climbing rachis that can extend continuously, enabling it to smother trees and form dense mats over large areas.
 
-Its capacity to alter fire regimes, displace native plant communities, and threaten endangered species has made it a priority target for invasive species management.
+Its capacity to alter fire regimes, displace native plant communities, and threaten endangered species has made it a priority target for [[invasive-species-management]].
 
 ## Taxonomy and Morphology
 
-Lygodium microphyllum was described by Antonio José Cavanilles in 1799 and is placed in the family Lygodiaceae alongside its congener Lygodium japonicum.
+Lygodium microphyllum was described by Antonio José Cavanilles in 1799 and is placed in the family Lygodiaceae alongside its congener [[lygodium-japonicum]].
 
 The species epithet "microphyllum" refers to the relatively small leaflets, which distinguish it from larger-leaved Lygodium species.
 
@@ -49,7 +49,7 @@ Vegetative reproduction through rhizome fragmentation also contributes to local 
 
 ## Distribution and Habitat
 
-Lygodium microphyllum is native to a broad range across tropical and subtropical Africa, Southeast Asia, Australia, and the Pacific Islands.
+Lygodium microphyllum is native to a broad range across tropical and subtropical Africa, Southeast Asia, Australia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 In its native range, the species typically occurs in forest margins, swamps, marshes, and riparian areas with abundant moisture and warm temperatures.
 
@@ -79,7 +79,7 @@ Canopy fires kill mature trees, converting diverse forest and shrub communities 
 
 Lygodium microphyllum threatens numerous federally listed endangered plant species in south Florida by directly competing for space and resources.
 
-The fern also impacts wildlife habitat by eliminating native plant communities that provide food and shelter for wading birds, mammals, and reptiles.
+The fern also impacts [[hemenway-backyard-wildlife-habitat]] by eliminating native plant communities that provide food and shelter for wading birds, mammals, and reptiles.
 
 Water management infrastructure in south Florida has been affected by dense fern growth that clogs drainage canals and water control structures.
 
@@ -87,35 +87,4 @@ Economic costs associated with Lygodium microphyllum management in Florida have 
 
 ## Management and Control
 
-Management of Lygodium microphyllum relies on an integrated approach combining herbicide application, mechanical removal, and biological control.
-
-Foliar applications of glyphosate-based herbicides have been effective at killing above-ground biomass, though repeated treatments are necessary due to resprouting from rhizomes and soil-stored spores.
-
-Mechanical removal using heavy equipment or manual cutting can reduce fern biomass but is labor-intensive and may stimulate regrowth if not followed by herbicide treatment.
-
-Biological control research has focused on host-specific herbivores and pathogens from the fern's native range.
-
-A natural enemy, the brown lygodium moth (Lygomus yunnanensis), and a mite species have been approved and released as biological control agents in Florida.
-
-The Australian lygodium moth (Neomusotima conspurcatalis) has shown the most promise, with established populations causing significant defoliation of invasive Lygodium microphyllum stands.
-
-Prescribed fire has been used in combination with herbicide and biological control to reduce fern biomass and restore native plant communities.
-
-Long-term management success will likely depend on the establishment of effective biological control agents that can sustainably suppress fern populations below ecological damage thresholds.
-
-Coordination among federal, state, and local agencies has been essential for implementing landscape-scale control programs across the vast wetland areas affected by Lygodium microphyllum.
-
-Early detection and rapid response programs remain critical for preventing new infestations from establishing in currently uninfested wetland areas.
-
-## See Also
-
-- [[lygodium-japonicum]]
-- [[pteridium-aquilinum]]
-- [[invasive-species-management]]
-- [[salvinia-molesta]]
-- [[azolla-filiculoides]]
-- [[pteris-vittata]]
-- [[spore-dispersal]]
-- [[nephrolepis-exaltata]]
-- [[pteridium-aquilinum]]
-- [[equisetum-arvense]]
+Management of Lygodium microphyllum relies on an [[solomon-insects-and-diseases-integrated-approach]] combining herbicide application, mechanical removal, [[odonata-dragonflies-damselflies-ecology-and-biological-control]].

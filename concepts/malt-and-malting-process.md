@@ -15,7 +15,7 @@ Malt is the foundation of beer. Without malt, there would be no fermentable suga
 Malt is grain -- most commonly barley -- that has been steeped in water, allowed to begin germinating, and then dried (kilned) to halt germination while preserving the enzymes developed during sprouting. This controlled germination accomplishes several critical things:
 
 - It activates enzymes within the grain that can convert starch to sugar during mashing
-- It breaks down the grain's cell walls, making starches accessible to these enzymes
+- It breaks down the grain's [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], making starches accessible to these enzymes
 - It develops flavor and color compounds through the Maillard reaction during kilning
 - It produces a range of malt types (base malts, crystal malts, roasted malts) with different characteristics
 
@@ -27,7 +27,7 @@ The malting process begins with steeping raw grain in water. Barley is the most 
 
 The purpose of steeping is to raise the grain's moisture content from about 12% to 43-46%, which is sufficient to trigger germination. During steeping, the grain absorbs water and begins its metabolic processes. The embryo inside each kernel wakes from dormancy and begins producing hormones (particularly gibberellin) that signal the aleurone layer to start producing enzymes.
 
-Air rests between steeping cycles are critical because they allow the grain to absorb oxygen. Germinating grain produces carbon dioxide, and without adequate oxygen, the grain can drown and die.
+Air rests between steeping cycles are critical because they allow the grain to absorb oxygen. Germinating grain produces [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], and without adequate oxygen, the grain can drown and die.
 
 ### Germination
 
@@ -58,7 +58,7 @@ The kilning process also creates melanoidins through Maillard reactions between 
 
 Base malts provide the majority of fermentable sugars and enzymes in a beer recipe. They are lightly kilned and retain high enzyme activity.
 
-- Pale malt (two-row): The workhorse of modern brewing, used as the base for most beer styles
+- Pale malt (two-row): The workhorse of modern brewing, used as the base for most [[beer-styles-overview]]
 - Pale malt (six-row): Higher enzyme content, historically used in American lager brewing with adjuncts
 - Pilsner malt: Very light in color with a delicate, slightly sweet flavor. Essential for German and Czech lagers
 - Vienna malt: Slightly darker than pale malt with a light biscuit character
@@ -87,24 +87,3 @@ Roasted malts contribute dark color and intense flavors:
 ## Home Malting
 
 Malting grain at home is possible but requires attention to detail. The basic process involves:
-
-1. Start with clean, viable brewing barley (not feed barley, which may be treated)
-2. Steep the grain in water with air rests over 2 days
-3. Spread grain in a thin layer and keep moist but not waterlogged for 4-6 days
-4. Turn grain regularly and maintain temperature around 60-65 degrees F
-5. Monitor acrospire growth -- kiln when modification is complete
-6. Kiln in a thin layer using a food dehydrator, oven on lowest setting, or improvised kiln
-7. Start at low temperature (100 degrees F) and gradually increase
-8. Store finished malt in a cool, dry place
-
-Home maltsters should be prepared for variable results and should test their malt's enzyme content before relying on it for a full batch.
-
-## See Also
-
-- [[small-scale-grain-growing]] for growing your own brewing grain
-- [[history-of-beer-and-brewing]] for the historical development of malting
-
-## Related
-
-- [[what-natural-farming-method-should-i-use]]
-- [[holzer-stone-fruit-varieties-and-growing]]

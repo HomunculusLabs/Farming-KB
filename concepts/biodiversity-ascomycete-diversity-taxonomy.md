@@ -1,5 +1,5 @@
 ---
-title: biodiversity ascomycete diversity taxonomy and Taxonomy
+title: Biodiversity Ascomycete Diversity Taxonomy
 created: 2026-04-28
 tags: [fungi, taxonomy, ascomycota, biodiversity, systematics]
 date: 2026-04-28
@@ -10,15 +10,15 @@ type: concept
 
 # Ascomycete Diversity and Taxonomy
 
-The Ascomycota is the largest phylum of the Kingdom Fungi,
+The Ascomycota is the largest phylum of the [[fungal-taxonomy-and-kingdom-fungi]],
 with approximately 32,000 described species (Hawksworth et al.
 1995). This phylum is characterized by the production of
 meiospores (ascospores) within sac-shaped cells called asci,
 and encompasses many of the most commonly encountered and
 economically significant fungi known to science. Members of the
 Ascomycota have had major impacts on human civilization, serving
-as sources of food (Saccharomyces cerevisiae, bakers' and
-brewers' yeast), medicine (Penicillium chrysogenum, the source
+as sources of food ([[saccharomyces-cerevisiae]], bakers' and
+brewers' yeast), medicine ([[penicillium-chrysogenum]], the source
 of penicillin), and as disease-causing microbes (Pneumocystis
 jiroveci, an agent of pneumonia).
 
@@ -88,54 +88,3 @@ Major lineages include:
 ## Lichenized Lineages
 
 The Lecanorales sensu lato represents a major group of
-lichenized ascomycetes including more than 7,000 species.
-Phylogenetic analyses resolve two main groups: apothecial
-forms of Lecanorales s.l. and the Arthoniales. Research by
-Lutzoni and colleagues (2002) supports the hypothesis that
-the gain of lichenization occurred early and infrequently
-during Euascomycete evolution, and that some major lineages
-of nonlichenized ascomycetes may be derived from the loss
-of lichenization. This represents a novel hypothesis for
-the evolution of the Ascomycota.
-
-## Loculoascomycetes
-
-The Loculoascomycetes refers to taxa producing ascogenous
-hyphae in preformed locules within a stroma (ascostromatic
-development). Many possess bitunicate asci with a distinctive
-"jack-in-the-box" mode of dehiscence. Three orders include
-the majority of ascostromatic species: Pleosporales
-(monophyletic, with pseudoparaphyses), Dothideales (weakly
-supported monophyly), and Chaetothyriales (monophyletic,
-related more closely to plectomycetes than to Dothideales).
-Inclusion of all three in a monophyletic Loculoascomycetes
-is not supported, suggesting at least two independent origins
-of ascostromatic development.
-
-## Key Phylogenetic Conclusions
-
-- Many monophyletic lineages at ordinal level have been
-  discerned among the Euascomycetes, but they do not
-  correspond with traditional groupings based on sporocarp
-  morphology.
-- Relationships among monophyletic groups remain unresolved
-  in most cases, possibly representing a rapid radiation
-  event in which major clades originated over a relatively
-  short period.
-- Convergent morphological features are common throughout
-  the Euascomycetes, leading to formal description of
-  numerous polyphyletic taxa.
-- Analyses of RNA polymerase II along with other nucleotide
-  sequence data (e.g., beta-tubulin, EF-1-alpha) hold great
-  promise for resolving the poorly supported base of the
-  euascomycete clade.
-
-## See Also
-
-- biodiversity-fungi-soil-ecosystems
-- [[biodiversity-fungi-temperate-boreal-forests]]
-- biodiversity-fungi-plant-mutualisms
-- [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
-- [[ectomycorrhiza]]
-- [[candida-albicans]]
-- [[mycorrhizal-fungi]]

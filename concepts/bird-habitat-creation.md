@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Creating bird habitat on the homestead provides ecological benefits including insect pest control, pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
+Creating bird habitat on the homestead provides ecological benefits including insect pest control, pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation]], and [[invasive-species-management]] practices.
 
 ## Habitat Requirements
 
@@ -121,7 +121,7 @@ Different feeders attract different birds:
 - Connects to [[amphibian-habitat-creation]] for dual wildlife benefit
 
 ### Misters and Drippers
-- **Misters**: Fine spray nozzles attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
+- **Misters**: Fine [[ingham-spray-nozzles-equipment-compost-tea]] attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
 - **Drippers**: Simple devices that drip water into birdbaths or ponds; attract birds with sound and motion
 
 ## Native Plants for Bird Habitat
@@ -131,14 +131,14 @@ Different feeders attract different birds:
 - **Serviceberry (Amelanchier spp.)**: Early summer berries; eaten by 40+ bird species
 - **Cherry (Prunus spp.)**: Fruit eaten by many species; caterpillar host plant
 - **Dogwood (Cornus spp.)**: Fall berries; important for fall migration fuel
-- **Eastern red cedar (Juniperus virginiana)**: Winter berries; cover for many species
+- **Eastern red cedar ([[juniperus-virginiana]])**: Winter berries; cover for many species
 - **Pine (Pinus spp.)**: Year-round cover; seeds for crossbills, finches, and chickadees
 - **Birch (Betula spp.)**: Seeds for finches and siskins; catkins for spring migrants
 
 ### Shrubs
-- **Elderberry (Sambucus canadensis)**: Summer berries; cover and nesting
-- **Winterberry (Ilex verticillata)**: Persistent red berries through winter; critical winter food
-- **American cranberrybush (Viburnum opulus)**: Fall/winter berries; excellent cover
+- **Elderberry ([[sambucus-canadensis]])**: Summer berries; cover and nesting
+- **Winterberry ([[ilex-verticillata]])**: Persistent red berries through winter; critical winter food
+- **American cranberrybush ([[viburnum-opulus]])**: Fall/winter berries; excellent cover
 - **Bayberry (Morella pensylvanica)**: Wax-coated berries; winter food for tree sparrows and yellow-rumped warblers
 - **Blackberry/Raspberry (Rubus spp.)**: Summer berries; dense thorny cover for nesting
 - **Sumac (Rhus spp.)**: Late-fall/winter berries; important for winter survival

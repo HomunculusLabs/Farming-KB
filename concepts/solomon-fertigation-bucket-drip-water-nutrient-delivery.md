@@ -8,7 +8,7 @@ Fertigation is Solomon's preferred method for delivering both water and
 nutrients to vegetable plants during dry periods. The technique uses a simple
 bucket with a small drain hole, placed next to each large plant, to slowly
 drip fertilizer solution directly into the root zone. Solomon's dry-gardening
-trials in Oregon demonstrated that fertigated winter squash vines yielded
+trials in Oregon demonstrated that fertigated [[winter-squash-guide]] vines yielded
 20+ pounds each, while unirrigated controls yielded only 2-3 pounds.
 
 ## The Core Principle
@@ -16,7 +16,7 @@ trials in Oregon demonstrated that fertigated winter squash vines yielded
 Crop scientists of Widstoe's era discovered that it took twice as much water
 to produce a given weight of dry plant material on infertile soils as on
 highly fertile soils. William Albrecht further explained that much of what
-appears to be drought damage is actually nutrient deficiency induced by dry
+appears to be drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] induced by dry
 surface soil — when plant nutrients are located in the plowed surface layer
 but roots have extended into dry subsoil seeking moisture, the plants cannot
 access the nutrients they need.
@@ -56,7 +56,7 @@ spreading across the surface.
 
 ### Comfrey Leaf Tea
 Armloads of comfrey leaves make an excellent fertigation brew. Comfrey is
-high in potassium and trace minerals.
+high in potassium and [[dynamic-accumulator-plants-trace-minerals]].
 
 ### Fish Emulsion
 Diluted approximately 1 part concentrate to 100 parts water. Commercial
@@ -71,10 +71,10 @@ Other additions to the brew barrel include:
 - Urine — works excellently as a nitrogen source
 
 ### Soluble Chemical Fertilizers
-Soluble chemical fertilizers containing trace elements as well as NPK are
+Soluble chemical fertilizers containing [[teaming-with-nutrients-micronutrients-and-trace-elements]] as well as NPK are
 also highly effective. When applied in the highly dilute form used in
 fertigation, they do not damage soil life. However, they do not replace the
-need for regular additions of organic matter.
+need for regular additions of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 ## Which Plants Benefit Most
 
@@ -87,45 +87,3 @@ Fertigation is most useful for large, moisture-demanding plants:
 Smaller plants and low-demand vegetables generally do not need fertigation.
 
 ## Fertigation Timing
-
-- Start when plants show signs of moisture stress OR when the surface soil
-  dries out while subsoil remains moist
-- Continue through the peak growing period
-- Adjust frequency based on soil type (more often on sandy, less on clay)
-- Reduce or stop as plants approach maturity and begin to ripen
-
-## Water Efficiency
-
-Solomon's ratio: 20 gallons of water per plant can produce 30+ pounds of
-winter squash — roughly 1.5 pounds of vegetable per gallon of water applied.
-This is dramatically more efficient than sprinkler irrigation, which loses
-significant water to evaporation and surface runoff.
-
-## Advantages Over Sprinkler Irrigation
-
-1. **Deep penetration:** Water goes straight to the root zone
-2. **No surface wetting:** Reduces weed germination and fungal disease
-3. **Nutrient delivery:** Dissolved fertilizer reaches roots directly
-4. **Water efficiency:** Minimal evaporation loss
-5. **No equipment cost:** Requires only buckets, no pipes or timers
-
-## Relationship to Dry Gardening
-
-Fertigation is not an alternative to dry gardening — it is a supplement for
-drought years or critical growth periods. Solomon's dry-gardening approach
-relies on wide spacing, deep root development, and moisture-conserving soil
-management as the primary strategy. Fertigation becomes the backup tool when
-even well-prepared dry gardens face severe moisture deficit.
-
-In a drought year, fertigation can make the difference between a total crop
-failure and a modest harvest. For gardeners growing food as a serious
-contribution to household nutrition, this insurance value alone justifies
-keeping a few fertigation buckets ready.
-
-## See Also
-
-- [[solomon-fertigation-and-transplant-establishment]]
-- [[solomon-irrigation-water-management]]
-- [[solomon-drip-irrigation-limitations-home-garden]]
-- [[solomon-irrigation-water-scarce]]
-- [[complete-organic-fertilizer-cof-recipe-solomon]]

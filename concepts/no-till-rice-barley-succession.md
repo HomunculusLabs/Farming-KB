@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming - Masanobu Fukuoka"
 type: concept
 ---
@@ -87,15 +88,3 @@ Fukuoka consistently harvested close to 22 bushels (1,300 pounds) of winter grai
 Fukuoka asked: if all his method of farming boils down to is the symbiosis of rice and barley or wheat in clover, then why are farmers out there working so hard? Yet that is all there is to it. With this method he consistently got better-than-average yields.
 
 The only conclusion possible is that there must be something drastically wrong with farming practices that require so much unnecessary labor. He eliminated unnecessary practices by telling himself, "I don't need to do this, I don't need to do that."
-
-After thirty years, he reduced his labor to essentially just sowing seed and spreading straw. Human effort is unnecessary because nature, not man, grows the rice and wheat.
-
-## See Also
-
-- no till rice barley succession
-- [[fukuoka-rice-barley-no-till-method]]
-- [[direct-seeded-notillage-rice-barley-clover-succession]]
-
-- [[masanobu-fukuoka]]
-- [[no-till-agriculture]]
-- crop rotation

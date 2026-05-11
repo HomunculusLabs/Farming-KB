@@ -21,7 +21,7 @@ sources:
 
 **Fucus serratus** (serrated wrack or saw wrack) is a species of brown macroalga in the family Fucaceae. It occurs along the rocky coasts of the northeast Atlantic, from Norway and Iceland south to Portugal.
 
-Unlike its close relative *Fucus vesiculosus*, it lacks air bladders entirely and has a distinctive serrated frond margin. The serrations are visible to the naked eye and give the species both its common and scientific names.
+Unlike its close relative *[[fucus-vesiculosus]]*, it lacks air bladders entirely and has a distinctive serrated frond margin. The serrations are visible to the naked eye and give the species both its common and scientific names.
 
 The species is a dominant canopy-forming alga in the lower intertidal and shallow subtidal zones. It provides critical habitat and shelter for a wide range of marine invertebrates and juvenile fish.
 
@@ -31,7 +31,7 @@ It is harvested commercially for alginate extraction and as a culinary ingredien
 
 **Taxonomic classification:** Kingdom Chromista, Phylum Ochrophyta, Class Phaeophyceae, Order Fucales, Family Fucaceae, Genus *Fucus*, Species *F. serratus*. The authority is Linnaeus (1753).
 
-No significant taxonomic synonyms are in current use. Early authors occasionally confused it with *Fucus vesiculosus* in herbarium collections due to superficial morphological similarity.
+No significant taxonomic synonyms are in current use. Early authors occasionally confused it with *Fucus vesiculosus* in [[biodiversity-fungal-herbarium-collections]] due to superficial morphological similarity.
 
 Fronds are dorsoventrally flattened, growing 30–100 cm in length. They are broadly linear with a prominent midrib running the full length of the thallus.
 
@@ -67,9 +67,9 @@ The species supports epiphytic growth of smaller algae and diatoms on its frond 
 
 *Fucus serratus* serves as a primary food source for sea urchins and certain limpet species. Despite this herbivory pressure, the alga's rapid regrowth capacity maintains population stability.
 
-In permaculture and coastal management, the species is recognized for its role in coastal protection. Dense beds attenuate wave energy and reduce erosion of underlying rock surfaces.
+In permaculture and coastal management, the species is recognized for its role in [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]. Dense beds attenuate wave energy and reduce erosion of underlying rock surfaces.
 
-It is harvested sustainably in Ireland, Scotland, and France for use in [[hamilton-organic-fertilizers-and-plant-nutrition]] and animal feed supplements. Regulations require cutting above the holdfast to ensure regeneration.
+It is harvested sustainably in Ireland, Scotland, and France for use in [[hamilton-organic-fertilizers-and-plant-nutrition]] [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] supplements. Regulations require cutting above the holdfast to ensure regeneration.
 
 ## Chemistry and Nutrition
 
@@ -85,32 +85,6 @@ Protein content ranges from 5–15% of dry weight with a balanced [[cho-fish-ami
 
 Mannitol is the principal storage carbohydrate, present at 10–15% of dry weight. It serves both as a carbon reserve and as an osmotic调节agent in fluctuating salinity conditions.
 
-Vitamin content includes significant concentrations of B-group vitamins, particularly B12 and folate. Trace elements such as iron, zinc, and manganese are present at levels comparable to terrestrial leafy vegetables.
+Vitamin content includes significant concentrations of B-group vitamins, particularly B12 and folate. [[teaming-with-nutrients-micronutrients-and-trace-elements]] such as iron, zinc, and manganese are present at levels comparable to terrestrial leafy vegetables.
 
 ## Cultivation
-
-Cultivation of *Fucus serratus* is limited compared to other brown seaweeds like *Saccharina latissima*. Most commercial harvest relies on wild collection from rocky intertidal shores.
-
-Sustainable hand-harvesting practices involve cutting fronds above the holdfast to allow regeneration. Licensed harvesters in Ireland and Scotland follow seasonal quotas to prevent overexploitation.
-
-Experimental aquaculture has explored rope-seeding methods similar to those used for kelp species. However, *F. serratus* grows more slowly than laminarian species, with annual productivity of 2–5 kg wet weight per square meter.
-
-Its requirement for rocky substrate rather than suspended rope culture complicates large-scale farming. Research into seeded stone or tile substrates shows some promise for land-based cultivation systems.
-
-Optimal growth conditions include water temperatures of 8–16°C, salinity above 25‰, and moderate water movement. [[ph-and-nutrient-availability-garden-soils]], particularly nitrogen and phosphorus, is a primary limiting factor.
-
-Seasonal growth peaks in late spring and early summer when daylight hours and nutrient availability are both high. Growth ceases or slows dramatically above 18°C.
-
-Reproductive maturity is reached at approximately 2–3 years of age. Gamete release is synchronized by lunar and tidal cycles, typically occurring during spring tides in April and May.
-
-## See Also
-
-- [[fucus-spiralis]]
-
-- [[laminaria-digitata]]
-- [[palmaria-palmata]]
-- [[ulva-lactuca]]
-- [[sargassum-fusiforme]]
-- [[gracilaria-verrucosa]]
-- [[alaria-esculenta]]
-- [[gelidium-amansii]]

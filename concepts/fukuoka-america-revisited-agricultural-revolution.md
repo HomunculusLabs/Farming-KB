@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka America Revisited and Agricultural Revolution
 
@@ -87,9 +88,3 @@ Fukuoka's assessment: "Man sowed the seed the first year, nature made some adjus
 ## Related Concepts
 
 - [[fukuoka-agricultural-pollution-and-consumer-culpability]] -- critique of oil-based farming
-- [[fukuoka-desert-cause-vegetation]] -- theoretical framework
-- [[fukuoka-road-back-clover-barley-rice-method]]
-
-- [[fukuoka-road-back-clover-barley-rice-method]]
-
-- [[fukuoka-road-back-clover-barley-rice-method]]

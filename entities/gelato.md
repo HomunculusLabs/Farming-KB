@@ -14,7 +14,7 @@ sources:
   - "De Meijer, E.P.M. et al. (2003). 'The inheritance of chemical phenotype in Cannabis sativa L.' Genetics, 163(1), 335-346."
   - "ElSohly, M.A. et al. (2016). 'Changes in green-cannabis-potency-maximizing Over the Last Two Decades.' Biological Psychiatry, 79(7), 613-619."
   - "PotGuide.com. 'Gelato Strain Review.' Accessed 2026."
-  - "Leafly. 'Gelato Cannabis Strain Information.' Accessed 2026."
+  - "Leafly. '[[gelato-cannabis-strain]] Information.' Accessed 2026."
 ---
 
 ## Overview
@@ -26,7 +26,7 @@ in [[psilocybin-north-america-pacific-northwest]] and Europe.
 
 The strain is renowned for its complex dessert-like aroma and potent, balanced
 effects that combine cerebral euphoria with deep physical relaxation. Its
-genetic stability and terpene profile have made it a foundational parent for
+[[cannabis-genetic-stability]] and [[cannabis-terpene-profile]] have made it a foundational parent for
 dozens of subsequent crosses.
 
 Gelato won first place at the 2018 Emerald Cup and has accumulated numerous
@@ -35,7 +35,7 @@ dessert-strain category.
 
 ## Lineage
 
-Gelato is a cross between Girl Scout Cookies (GSC) and Sunset Sherbet. Both
+Gelato is a cross between [[girl-scout-cookies]] (GSC) and [[sunset-sherbet]]. Both
 parents are themselves products of the Cookie Family [[cervantes-breeding-program-design-goal-setting]], making
 Gelato essentially a concentrated expression of Cookie genetics.
 
@@ -84,52 +84,7 @@ ocimene, and trace amounts of bisabolol and nerolidol.
 
 THC content typically ranges from 18–26%, with some premium cuts testing above
 28%. CBD levels are very low (less than 0.1%), consistent with modern
-high-THC hybrid genetics. Minor cannabinoids are present in trace amounts.
+high-THC hybrid genetics. [[cannabis-minor-cannabinoids]] are present in trace amounts.
 
 The limonene-linalool combination is responsible for the citrus-floral aroma
 and contributes to the strain's mood-elevating and anxiolytic properties.
-Caryophyllene provides anti-inflammatory effects via CB2 receptor activation.
-
-## Effects
-
-Onset is relatively rapid (5–10 minutes), beginning with a cerebral rush of
-euphoria and creative energy. The sativa-dominant initial effects include
-heightened sensory perception, sociability, and an uplifted mood.
-
-Within 30–45 minutes, indica-influenced body effects emerge. Deep physical
-relaxation spreads without causing heavy sedation at moderate doses. The
-transition from mental stimulation to bodily comfort is one of Gelato's most
-praised characteristics.
-
-Common applications include stress relief, mild pain management, mood
-enhancement, and social relaxation. At higher doses, the physical effects
-become more pronounced and may lead to couch-lock.
-
-## Cultivation
-
-Gelato can be cultivated indoors, outdoors, or in greenhouses. It is considered
-moderately difficult, requiring attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and
-[[eclss-environmental-control-life-support]] to achieve optimal color expression and terpene
-production.
-
-Indoor flowering time is 8–9 weeks, with yields of 400–500 g/m² under optimal
-conditions. The plants respond well to SCROG and LST training methods. Cooler
-nighttime temperatures (18–20°C) during late flowering enhance purple coloration.
-
-Outdoor harvest occurs in early to mid-October in northern temperate climates.
-Plants reach medium height (100–150 cm) with a bushy, lateral growth pattern.
-Resistance to common molds and pests is moderate; bud rot can be an issue in
-humid conditions.
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[sunset-sherbet]]
-- [[thin-mint-cookies]]
-- [[og-kush-cannabis-entity]]
-- [[runtz-entity]]
-- [[gorilla-glue]]
-- [[mac-1]]
-- [[sour-diesel]]
-- [[jack-herer]]
-- [[chemdawg]]

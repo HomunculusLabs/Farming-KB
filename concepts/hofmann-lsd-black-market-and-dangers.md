@@ -1,5 +1,5 @@
 ---
-title: "[[hofmann-lsd-animal-experiments-toxicity]] black market and dangers Market and Dangers of Nonmedicinal Use"
+title: Hofmann Lsd Black Market And Dangers
 created: 2026-04-28
 tags: [lsd, hofmann, drug-policy, harm-reduction, pharmacology]
 date: 2026-04-25
@@ -88,16 +88,9 @@ such amenity has a substantial influence on the course of the experiment.
 
 ## Medical Supervision
 
-Even in healthy, adult persons, with adherence to all preparatory and
-protective measures, an LSD experiment can fail, causing psychotic
-reactions. Medical supervision is therefore earnestly recommended. Acute
-LSD psychoses can be cut short and brought under control quickly and
-reliably by injection of chlorpromazine or another sedative of this type.
-The presence of a familiar person who can request medical help in the
-event of an emergency is an indispensable psychological assurance.
-
 ## See Also
-
-- [[hofmann-lsd-pharmacology-and-effects]]
-- [[lsd-set-and-setting-framework]]
-- [[hofmann-lsd-psychiatric-research]]
+- [[permaculture-black-locust]]
+- [[dmt-black-hole-effect-and-shamanic-practice]]
+- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
+- [[black-locust-entity]]
+- [[black-domina]]

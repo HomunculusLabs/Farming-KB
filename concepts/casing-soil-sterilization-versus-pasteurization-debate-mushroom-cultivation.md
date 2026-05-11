@@ -1,5 +1,5 @@
 ---
-title: [[casing-soil-sterilization-debate-autoclave-vs-pasteurization]] Versus Pasteurization Debate in Mushroom Cultivation
+title: Casing Soil Sterilization Versus Pasteurization Debate Mushroom Cultivation
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
 topics: [casing soil, sterilization, pasteurization, microbial ecology, substrate preparation]
 ---
@@ -87,50 +87,3 @@ This recipe is essentially identical to the standard "50/50+" casing used widely
 both commercial and hobby cultivation. The lime adjustment is critical because peat
 is naturally acidic (pH 3.5–4.5) while most mushrooms prefer a near-neutral casing
 pH.
-
-## Water Content Calibration
-
-The guide emphasizes getting the moisture content right: "as much water as possible
-without turning it into mud." This is a skill that develops with experience, but
-some quantitative guidelines help:
-
-- **Field capacity**: The casing should hold its shape when squeezed in the hand
-  but release only a few drops of water
-- **Weight method**: 60–70% water by weight is typical for peat-based casing
-- **Visual check**: The surface should glisten slightly when viewed at an angle
-
-Overly wet casing leads to anaerobic conditions, bacterial blooms, and poor
-mycelial penetration. Overly dry casing causes slow colonization, cracking, and
-poor pin formation.
-
-## Why the Debate Matters for Small-Scale Cultivation
-
-The sterilization vs. pasteurization debate is particularly relevant for small-scale
-cultivators because:
-
-1. **Limited infrastructure**: Small-scale growers often lack the equipment for
-   consistent pasteurization (accururate temperature control for 60–70°C)
-2. **Pressure cookers are ubiquitous**: Most cultivators already own a pressure
-   cooker for substrate sterilization, making it the path of least resistance
-3. **Lower contamination risk**: Sterile casing eliminates one potential
-   contamination vector in environments that are not laboratory-clean
-4. **Simplicity**: Sterilization requires less monitoring than pasteurization
-   (no need to hold a precise temperature range)
-
-## Potential Compromise Approaches
-
-For cultivators wanting benefits of both approaches:
-
-- **Sterilize, then inoculate**: Sterilize casing, then reintroduce specific
-  beneficial bacteria (*Pseudomonas putida*) after cooling
-- **Short sterilization**: Brief autoclaving (15–20 min) may kill most competitors
-  while preserving heat-resistant beneficial organisms
-- **Supplemented sterile casing**: Add microbial stimulants (humic acids, kelp meal)
-  to sterile casing to partially replicate the benefits of microbial activity
-
-## See Also
-
-- [[grass-seed-substrate-preparation]] — Substrate preparation methods
-- [[disposable-tray-casing-method-grass-seed-substrate]] — Casing technique
-- [[species-specific-fruiting-timelines-grass-seed-cultivation]] — Fruiting cues
-- cold shock fruiting trigger species specificity — Other fruiting triggers

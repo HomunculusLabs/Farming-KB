@@ -1,6 +1,6 @@
 ---
-title: Plant Ultraviolet and Infrared Light Perception
-source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+title: Chamovitz Ultraviolet And Infrared Plant Light Perception
+source: grahamholmes-what-a-plant-knowsindd.md
 concepts: [ultraviolet-light, infrared-light, plant-perception, electromagnetic-spectrum, photoreception, photodamage]
 tags: [botany, plant-senses, photoreception, uv-light, infrared, chamovitz]
 created: 2026-05-09
@@ -10,11 +10,11 @@ created: 2026-05-09
 
 ## Overview
 
-Daniel Chamovitz's "What a Plant Knows" establishes that plants perceive light across a much broader range of the electromagnetic spectrum than humans.
+[[daniel-chamovitz]]'s "What a Plant Knows" establishes that plants perceive light across a much broader range of the [[electromagnetic-spectrum-plant-light-perception]] than humans.
 
-While human vision is confined to approximately 400-700 nanometers (visible light), plants detect and respond to ultraviolet light below 380 nm and infrared (far-red) light above 700 nm.
+While human vision is confined to approximately 400-700 nanometers ([[plant-photoreception-visible-light]]), plants detect and respond to ultraviolet light below 380 nm and infrared (far-red) light above 700 nm.
 
-This expanded perceptual range gives plants sensory capabilities that humans lack entirely, allowing them to detect environmental conditions that are invisible to us.
+This expanded perceptual range gives plants [[chamovitz-gradualist-framework-plant-sensory-capabilities]] that humans lack entirely, allowing them to detect environmental conditions that are invisible to us.
 
 ## The Electromagnetic Spectrum and Plant Perception
 
@@ -54,7 +54,7 @@ UV-A influences various aspects of plant development, including phototropism and
 
 The ability to detect UV has several ecological implications.
 
-Plants can sense when they are exposed to full sun versus shade, as the UV component of sunlight is significantly reduced under canopy cover. This UV-sensing ability contributes to shade avoidance responses, helping plants optimize their positioning for photosynthesis while minimizing harmful UV exposure.
+Plants can sense when they are exposed to full sun versus shade, as the UV component of sunlight is significantly reduced under canopy cover. This UV-sensing ability contributes to [[shade-avoidance-syndrome]] responses, helping plants optimize their positioning for photosynthesis while minimizing harmful UV exposure.
 
 Some flowers have evolved UV-absorbing patterns (visible to pollinators like bees, which can see UV) that serve as nectar guides. The plant's ability to produce these patterns implies some level of UV-responsive development.
 
@@ -88,45 +88,3 @@ The phytochrome system acts as a molecular switch that toggles between two forms
 - Pfr (phytochrome far-red-absorbing form): activated by far-red light, promotes etiolation and shade responses
 
 The ratio of Pr to Pfr serves as the plant's memory of the last light quality it experienced.
-
-This ratio gradually changes in darkness as Pfr reverts to Pr, allowing the plant to measure the duration of continuous darkness and regulate photoperiodic responses accordingly.
-
-### Infrared Beyond Far-Red
-
-Beyond the far-red range, plants also respond to longer-wavelength infrared radiation, though primarily through thermal effects rather than dedicated photoreceptors.
-
-Infrared radiation carries heat energy that influences transpiration rates, leaf temperature, and metabolic processes.
-
-Plants in full sun absorb significant infrared radiation, which can raise leaf temperatures well above ambient air temperature. This thermal load must be managed through transpirational cooling and other physiological mechanisms.
-
-## Comparison to Human Perception
-
-Humans cannot see either ultraviolet or infrared light. Our photoreceptors (rods and cones) are tuned exclusively to the visible spectrum.
-
-We require artificial detectors to sense UV and IR radiation. Plants, by contrast, have evolved photoreceptor systems that span from UV-B through far-red, giving them a fundamentally different and in some ways richer perception of the light environment.
-
-They sense not just the presence of light but its quality, direction, duration, and spectral composition.
-
-This comparison underscores Chamovitz's central argument that plant sensory capabilities, while radically different from human senses, are no less sophisticated or ecologically meaningful.
-
-## Agricultural Applications
-
-Understanding plant UV and far-red perception has practical applications in agriculture and horticulture.
-
-Greenhouse growers can manipulate light spectra to control plant growth and flowering. Supplementing with far-red light can trigger shade avoidance responses that increase stem elongation, while reducing far-red can produce more compact plants.
-
-UV-transparent greenhouse films can be used to modulate the UV environment, potentially increasing the production of UV-protective compounds (like flavonoids and certain terpenes) in crops.
-
-Light-emitting diode (LED) grow lights can be precisely tuned to specific wavelengths, allowing cultivators to provide optimal spectral conditions for each growth stage.
-
-For Cannabis cultivators specifically, understanding the red/far-red ratio is critical for managing the transition from vegetative growth to flowering. Manipulating the light spectrum at the end of the day can influence photoperiodic responses and optimize cannabinoid production.
-
-## See Also
-
-- [[chamovitz-plant-senses-overview]]
-- [[chamovitz-photoreception-human-eye-analogy]]
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
-- [[cryptochrome-and-blue-light-photoreception]]
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]
-- [[cannabis-photoperiod-flowering-cycle]]

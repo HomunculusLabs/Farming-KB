@@ -9,7 +9,7 @@ sources:
 ---
 # Soil Nutrient Cycling
 
-Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[hamilton-composting-and-organic-matter-management]] and mineral particles into plant-available forms through the activity of soil organisms. This is the core mechanism by which the soil food web feeds plants, as detailed in Jeff Lowenfels's "Teaming with Nutrients."
+Soil nutrient cycling is the process by which nutrients are converted from unavailable forms locked in [[hamilton-composting-and-organic-matter-management]] and mineral particles into plant-available forms through the activity of soil organisms. This is the core mechanism by which the soil food web feeds plants, as detailed in Jeff Lowenfels's "[[teaming-with-nutrients-availability-factors]]."
 
 ## How Nutrients Become Available
 
@@ -30,13 +30,13 @@ Nitrogen illustrates the nutrient cycling process most clearly.
 ### Biological Pathway (Soil Food Web)
 1. **N fixation**: Free-living bacteria (Azotobacter) and symbiotic bacteria (Rhizobium in legume root nodules) convert atmospheric N2 into ammonium.
 2. **Immobilization**: Bacteria and fungi absorb ammonium and incorporate it into their biomass (proteins, nucleic acids). Nutrients are "immobilized" in microbial bodies.
-3. **Mineralization**: Protozoa and nematodes consume bacteria and fungi, releasing excess nitrogen as ammonium (NH4+). This is called the "microbial loop."
+3. **Mineralization**: [[teaming-with-microbes-protozoa-and-nematodes]] consume bacteria and fungi, releasing excess nitrogen as ammonium (NH4+). This is called the "microbial loop."
 4. **Nitrification**: Nitrifying bacteria (Nitrosomonas, Nitrobacter) convert ammonium to nitrite (NO2-) and then to nitrate (NO3-), which plants can also absorb.
 5. **Plant uptake**: Roots absorb ammonium and nitrate.
 6. **Denitrification**: Under anaerobic conditions, denitrifying bacteria convert nitrate back to N2 gas, completing the cycle.
 
 ### Chemical Pathway (Synthetic Fertilizers)
-Synthetic nitrogen fertilizers (ammonium nitrate, urea) bypass the biological pathway entirely:
+Synthetic nitrogen fertilizers ([[plant-available-nitrogen-ammonium-nitrate]], urea) bypass the biological pathway entirely:
 - Nutrients are immediately available in the root zone.
 - Plants stop producing exudates (why feed microbes when nutrients are free?).
 - Without exudates, soil biology starves.
@@ -54,7 +54,7 @@ This law has important implications:
 
 ## Cation Exchange Capacity (CEC)
 
-CEC measures a soil's ability to hold positively charged nutrient ions (cations) on the surfaces of clay particles and organic matter.
+CEC measures a soil's ability to hold positively charged nutrient ions (cations) on the surfaces of clay particles [[mollison-humus-and-organic-matter-in-soils]].
 
 ### Key Cations
 - Calcium (Ca2+)
@@ -81,60 +81,9 @@ Soil pH affects nutrient availability because it determines the chemical form of
 ### Key Relationships
 - **pH 6.0-6.5**: Most nutrients are maximally available in this range.
 - **Low pH (acidic)**: Iron, manganese, and aluminum become more available (can become toxic). Phosphorus, calcium, and magnesium become less available.
-- **High pH (alkaline)**: Iron, manganese, zinc, and copper become less available. Calcium and magnesium become more available.
+- **High pH (alkaline)**: Iron, manganese, zinc, and copper become less available. [[dynamic-accumulator-plants-calcium-and-magnesium]] become more available.
 - **pH adjustment**: Lime raises pH; sulfur lowers pH. Always test before adjusting.
 
 ## Mycorrhizal Nutrient Uptake
 
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role in nutrient cycling, particularly for phosphorus:
-
-- Phosphorus is immobile in soil -- it doesn't move to roots; roots must grow to it.
-- Mycorrhizal hyphae extend the root's effective reach by 100-1000x.
-- Hyphae can access phosphorus in soil pores too small for roots.
-- The fungus trades phosphorus to the plant in exchange for carbon (sugars).
-- Mycorrhizae also help with zinc, copper, and water uptake.
-
-## The Role of Organic Matter
-
-Organic matter is the fuel for the soil food web:
-
-- **Humus**: Stable, decomposed organic matter that provides long-term [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] and improves soil structure.
-- **Active organic matter**: Recently decomposed material that feeds soil organisms.
-- **Compost**: A concentrated source of both humus and active organic matter, plus diverse microbial populations.
-
-## Nutrient Mobility in Plants
-
-Understanding nutrient mobility helps diagnose deficiency symptoms:
-
-### Mobile Nutrients
-Move from older to newer leaves when deficient. Deficiency appears on OLDER leaves first:
-- Nitrogen (N): Lower leaves yellow from tip inward.
-- Phosphorus (P): Purpling on older leaves.
-- Potassium (K): Brown edges on older leaves.
-- Magnesium (Mg): Interveinal chlorosis on older leaves.
-
-### Immobile Nutrients
-Cannot be relocated. Deficiency appears on NEWER leaves first:
-- Calcium (Ca): Deformed new growth.
-- Iron (Fe): Interveinal chlorosis on new leaves.
-- Zinc (Zn): Small, distorted new leaves.
-- Boron (B): Brittle, distorted growing tips.
-
-## Practical Applications
-
-1. **Feed the soil, not the plant**: Instead of directly fertilizing plants, build soil biology that will cycle nutrients naturally.
-2. **Compost**: The single most important input for nutrient cycling. Apply regularly.
-3. **Mulch**: Protects soil surface, feeds fungi, retains moisture.
-4. **Minimize disturbance**: Reduce tillage to protect fungal networks and soil aggregates.
-5. **Living roots year-round**: Cover crops maintain soil biology during fallow periods.
-6. **Diverse plantings**: Different plants support different microbial communities, increasing overall nutrient cycling capacity.
-7. **Avoid excess nitrogen**: High nitrogen reduces [[arbuscular-mycorrhizal-colonization-patterns]] and shifts the soil food web toward bacterial dominance.
-
-## Related
-
-- [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
-
-- [[cannabis-soil-and-nutrient-requirements]] for specific nutrient needs of cannabis
-- fungal-chromogens-and-color-change
-- [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] play a critical role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], particularly for phosphorus:

@@ -87,34 +87,3 @@ In wet [[fukuoka-natural-farming-tropical-climates]], ensure the overflow drain 
 When using recycled materials, verify they are free from chemical contamination. Avoid materials that have held pesticides, herbicides, motor oil, or industrial chemicals. Treated timber should be lined with food-grade polyethylene to prevent direct contact between soil and preservative. Galvanized metal can leach zinc at low pH — maintain soil pH above 6.0 and use a liner if growing acid-loving crops. Test recycled containers by filling with water and testing for pH, conductivity, and visual signs of leaching (discoloration, sheen on water surface) before installing the growing medium.
 
 ### Structural Integrity
-
-Water weighs 1 kg per liter, and a fully saturated wicking bed with reservoir and growing medium can weigh 300–500 kg per square meter. Ensure the bed frame and support structure can handle this load, particularly for elevated or balcony installations. Timber beds should use at least 50 mm thick boards or 200 mm × 50 mm sleepers. Metal beds should have reinforced corners and cross-bracing for spans over 2 m. IBC tote cages provide structural support but the plastic inner vessel can deform if the frame is damaged — inspect regularly. For rooftop installations, consult a structural engineer to verify load capacity.
-
-### Local Regulations
-
-Some municipalities regulate raised bed construction, particularly for front yard installations, communal areas, or structures over a certain height. Check local building codes and planning regulations before constructing permanent wicking beds. Water storage may be subject to separate regulations in water-restricted areas — a wicking bed reservoir typically holds 200–300 liters, which may fall below reporting thresholds but should be verified. [[gaias-garden-creating-community-gardens]] may have specific material requirements (food-grade only, no treated timber) that restrict construction options.
-
-## Multi-Bed Systems and Automation
-
-### Linked Reservoir Systems
-
-Multiple wicking beds can share a common reservoir using gravity-fed distribution pipes. A header tank positioned above the beds fills all reservoirs simultaneously through individual feed lines, each with a float valve to maintain the correct water level. This reduces maintenance to refilling a single tank and ensures uniform water levels across all beds. The system can be automated with a solenoid valve connected to a rainwater tank or mains supply, controlled by a timer or soil moisture sensor. The header tank should be sized at 1.5–2 times the total reservoir volume of all connected beds to provide adequate buffer between refill events.
-
-### Sensor-Based Monitoring
-
-Soil moisture sensors (capacitance or tensiometer type) installed at mid-depth in the growing medium provide real-time data on wicking bed performance. Data logging systems can track moisture trends over time, identifying problems such as declining wicking efficiency, reservoir leaks, or seasonal changes in water demand. Wireless sensor networks (using LoRa, Zigbee, or Wi-Fi) enable remote monitoring of multiple beds from a smartphone or computer, which is particularly valuable for community gardens, school programs, and commercial operations managing dozens of beds across multiple sites.
-
-## See Also
-
-- Wicking bed water [[wicking-bed-water-movement-physics]]
-- Wicking bed crop selection and seasonal management
-- Wicking bed construction
-- Sub-irrigated planter (SIP) guide
-- [[passive-irrigation-systems]]
-- Raised bed drainage principles
-- Recycled materials [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
-- Structural load calculations for raised beds
-- Automated irrigation systems for small farms
-- [[urban-permaculture-rainwater-harvesting-graywater]] storage systems
-- [[mollison-designers-community-garden-design-urban-permaculture]] and management
-- Rooftop garden engineering considerations

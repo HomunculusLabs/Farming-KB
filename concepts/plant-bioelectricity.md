@@ -45,9 +45,9 @@ eliminated spurious signals and produced perfectly straight baselines.
 - The Plant Galvanic Response (PGR) parallels the Galvanic Skin
   Response (GSR) measured in humans during emotional arousal
 - Plant bioelectric responses occur in all plant parts, not merely
-  in motile organs like the mimosa pulvinus
+  in motile organs like the [[mimosa]] pulvinus
 - Electrical sensitivity in plants may extend to perception of
-  threats at great distances, beyond the electromagnetic spectrum
+  threats at great distances, beyond the [[electromagnetic-spectrum-plant-light-perception]]
 - Individual cells including sperm, amoeba, and paramecium exhibit
   bioelectric responses suggesting cellular-level consciousness
 - The bioelectric field around plants can be sensed by humans as a
@@ -88,49 +88,3 @@ he could identify particularly sensitive ones by feeling a cooling
 sensation followed by electrical pulses. This bioelectric field extended
 to considerable distances; Vogel detected responses from plants eight
 miles away. The field appeared to operate as a carrier wave for emotional
-and mental states, with the plant acting as a biological antenna that
-amplified and recorded these signals on polygraph equipment.
-
-## Cellular-Level Electricity
-
-Backster's exploration of bioelectricity extended to single cells.
-Attaching electrodes to infusions of amoeba, paramecium, yeast, mold,
-blood, and sperm, he found all produced polygraph charts indicating
-perception and response. Sperm cells could identify and react to their
-donor while ignoring other males. These observations suggest that
-bioelectric sensitivity is a property of all living cells, not merely
-of organisms with nervous systems.
-
-The cytologist Dr. Howard Miller concluded that some sort of "cellular
-consciousness" must be common to all life. Backster extended this further:
-"Sentience does not seem to stop at the cellular level. It may go down to
-the molecular, the atomic and even the subatomic." If total memory extends
-to the single cell, the brain may be just a switching mechanism rather
-than a memory storage organ, a revolutionary implication for neuroscience.
-
-## Measurement and Instrumentation
-
-Several instruments have been developed to measure plant bioelectricity.
-The polygraph galvanometer, originally designed for human lie detection,
-produces reliable readings when adapted with Vogel's agar-karri gum
-electrode paste. Sauvin achieved sensitivity one hundred times greater
-than Backster's galvanometer using advanced electronics, hooking plants
-to an oscilloscope to visualize minute changes in bioelectric vibrations.
-The E-meter's galvanometer dial has also been used to detect plant
-responses to human emotional states and intentions.
-
-The key challenge in measurement is eliminating electromagnetic noise
-from power lines, appliances, and other sources. Vogel conducted
-experiments between midnight and dawn to avoid interference. Backster
-used Faraday cages and lead containers, finding that no known
-electromagnetic shield could block the communication channel between
-plants and humans, suggesting it operates beyond the known spectrum.
-
-## Practical Applications
-
-Plant bioelectricity measurements can serve as biological sensors for
-[[singh-fungal-biosensors-environmental-monitoring]], threat detection, and the study of consciousness.
-Understanding plant electrical responses has implications for agriculture,
-[[cleve-backster-plant-perception-experiments]]
-- [[jagadis-chandra-bose-plant-research]]
-- [[piezoelectric-materials-and-transducers]]

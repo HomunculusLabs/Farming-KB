@@ -88,37 +88,3 @@ The fruit is consumed by various bird species during autumn and winter, though i
 The species has limited value as a larval host for native insects in regions where it has been introduced. In its native range in China, it supports a more diverse insect community including several specialist herbivore species.
 
 Deer and rabbit browsing is generally minimal on flowering quince due to its dense, thorny growth. This natural herbivore resistance enhances its reliability in rural and suburban landscapes.
-
-## Landscape Uses
-
-Flowering quince is one of the most dramatic early-spring flowering shrubs for temperate landscapes. The bold, cup-shaped flowers create an unmistakable splash of color when few other plants are in bloom.
-
-The species is effective as a specimen shrub, informal hedge, barrier planting, or mixed border component. Its tolerance of poor soils and drought makes it suitable for challenging sites where more demanding shrubs would fail.
-
-Flowering quince combines effectively with spring-blooming bulbs, particularly early tulips, daffodils, and crocuses. The bare branches in flower provide a dramatic backdrop for emerging bulb foliage and early perennials.
-
-The fruit provides ornamental interest in autumn, persisting on the branches after leaf drop. The combination of spring flowers, summer foliage, and autumn fruit gives the species three-season appeal in the landscape.
-
-Compact cultivars have expanded flowering quince's utility in smaller gardens and foundation plantings. Dwarf selections reaching 1 meter or less are suitable for container cultivation and small-space urban gardens.
-
-## See Also
-
-- [[catalpa-speciosa]]
-
-- [[physocarpus-opulifolius]]
-- [[potentilla-fruticosa]]
-- [[spiraea-japonica]]
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[prunus-spinosa]]
-- rosa-canina
-- crataegus-monogyna
-- [[crataegus-pinnatifida]]
-- [[viburnum-opulus]]
-- [[viburnum-dentatum]]
-- [[corylus-cornuta]]
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]
-- [[filipendula-ulmaria]]
-- agrimonia-eupatoria
-- [[crataegus-laevigata]]

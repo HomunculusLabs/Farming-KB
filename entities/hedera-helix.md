@@ -45,9 +45,9 @@ Stems are green when young, becoming brown and woody with age. Adventitious root
 
 It grows in a wide range of habitats including deciduous and mixed woodlands, hedgerows, cliffs, and rocky outcrops. It tolerates deep shade, which gives it a competitive advantage in forest understories.
 
-English ivy has been widely planted as an ornamental and has naturalized in many temperate regions worldwide. It is considered invasive in parts of [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand.
+English ivy has been widely planted as an ornamental and has naturalized in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is considered invasive in parts of [[psilocybin-north-america-pacific-northwest]], Australia, and New Zealand.
 
-It prefers moist, well-drained soils rich in organic matter but tolerates a broad range of soil types and pH levels. It is hardy to USDA zones 4–9 and can survive temperatures to -20°C.
+It prefers moist, well-drained soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] but tolerates a broad range of soil types and pH levels. It is hardy to USDA zones 4–9 and can survive temperatures to -20°C.
 
 ## Cultivation
 
@@ -65,15 +65,15 @@ Ivy provides critical habitat for wildlife throughout the year. Its evergreen fo
 
 The autumn flowers are an important late-season nectar source for bees, wasps, hoverflies, and butterflies. Ivy is one of the last plants to bloom before winter in temperate regions.
 
-The black berries ripen in late winter and early spring, providing a crucial food resource for birds when other fruits are scarce. Thrushes, blackbirds, and woodpigeons are among the primary consumers.
+The black berries ripen in late winter [[coleman-overwintered-onions-and-early-spring-crops]], providing a crucial food resource for birds when other fruits are scarce. Thrushes, blackbirds, and woodpigeons are among the primary consumers.
 
 Ivy-covered walls and tree trunks support diverse invertebrate communities. Studies have found significantly higher insect diversity on ivy-covered surfaces compared to bare walls or tree bark.
 
 ## Traditional and Modern Medicine
 
-Ivy has a long history of use in traditional European medicine. Preparations from the leaves have been used to treat respiratory conditions, particularly coughs and bronchitis.
+Ivy has a long history of use in traditional European medicine. Preparations from the leaves have been used to treat [[cannabis-respiratory-conditions]], particularly coughs and bronchitis.
 
-Modern herbal medicine uses ivy leaf extracts as expectorants and mucolytics. Standardized extracts are approved by the European Medicines Agency for the treatment of acute bronchitis and chronic inflammatory bronchial conditions.
+Modern [[childrens-herbal-medicine]] uses ivy leaf extracts as expectorants and mucolytics. Standardized extracts are approved by the European Medicines Agency for the treatment of acute bronchitis and chronic inflammatory bronchial conditions.
 
 The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include hederacoside C and hederagenin, triterpene saponins with anti-inflammatory and bronchodilatory properties. These compounds are concentrated in the leaf tissue.
 
@@ -81,25 +81,10 @@ The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] 
 
 ## Invasive Potential and Ecological Concerns
 
-English ivy has been widely planted as an ornamental and has naturalized in many temperate regions worldwide. It is considered invasive in parts of North America, Australia, and New Zealand.
+English ivy has been widely planted as an ornamental and has naturalized in many temperate regions worldwide. It is considered invasive in parts [[berry-growing]], Australia, and New Zealand.
 
 When ivy climbs trees, it can compete with host trees for light and water. Heavy ivy growth can also increase wind resistance, making trees more susceptible to storm damage.
 
 However, recent research has questioned the severity of ivy's impact on mature trees. Some studies suggest that ivy may actually protect tree bark from extreme temperatures and frost damage.
 
 Control of invasive ivy typically involves cutting the vines at the base and allowing the upper portions to die before removal. Root systems must be dug out to prevent regrowth from established rootstocks.
-
-## Notable Cultivars
-
-Numerous cultivars are available, offering variation in leaf size, shape, variegation, and growth habit. The RHS Award of Garden Merit has been given to over 70 ivy cultivars.
-
-'Baltica' is a particularly cold-hardy selection from the Baltic region that tolerates temperatures to -30°C. It is widely used in northern European landscapes for ground cover and winter interest.
-
-'Goldchild' features striking yellow-margined variegated foliage and a [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. 'Pittsburgh' is valued for its resistance to bacterial leaf spot and [[cervantes-powdery-mildew-prevention-treatment]].
-
-## See Also
-
-- [[vitis-vinifera]]
-- rubus-idaeus-entity
-- [[alnus-glutinosa]]
-- [[salvia-officinalis]]

@@ -2,7 +2,7 @@
 title: "Cichorium intybus"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, species, asteraceae, foraging, permaculture,
+tags: [herbal-plant, species, asteraceae, foraging, [[permaculture]],
   edible, medicinal, coffee-substitute]
 date: 2026-04-28
 updated: 2026-04-28
@@ -15,8 +15,8 @@ sources:
 Cichorium intybus (chicory) is a perennial herb in Asteraceae
 native to Europe, North Africa, and Western Asia, now
 naturalized worldwide. Valued for edible leaves and roots,
-use as a coffee substitute, medicinal properties as a bitter
-digestive tonic, and its role in sustainable agriculture as
+use as a coffee substitute, [[panax-ginseng]] as a bitter
+digestive tonic, and its role in [[phosphate-accumulators-sustainable-agriculture]] as
 a deep-rooted [[nutrient-dynamic-accumulator-reference]]. Cultivated forms include
 radicchio, Belgian endive, and sugarloaf chicory.
 
@@ -88,44 +88,3 @@ radicchio, Belgian endive, and sugarloaf chicory.
   supporting gut microbiota
 - **Chicoric acid:** Major phenolic; antioxidant, anti-
   inflammatory
-- **Lactucin/lactucopicrin:** Sesquiterpene lactones;
-  bitter taste, mild sedative
-- **Flavonoids:** [[kaempferol]], luteolin, apigenin
-  glycosides
-- **Anthocyanins:** Cyanidin-based pigments in radicchio
-- **Coumarins:** Scopoletin, umbelliferone
-
-## Traditional and Medicinal Uses
-- **Digestive tonic:** Bitter principles stimulate appetite
-  and bile flow; tea before meals
-- **Liver support:** Hepatoprotective in European herbal
-  medicine; root tea for liver complaints
-- **Prebiotic:** Inulin promotes Bifidobacterium, improves
-  bowel regularity and metabolic markers
-- **Anti-inflammatory:** Chicoric acid and lactucin active
-  in vitro
-- **Blood sugar:** Inulin slows glucose absorption
-- **Diuretic:** Mild diuretic for fluid retention
-- **Skin:** Traditional poultices for inflammation and wounds
-## Culinary Uses
-- **Salads:** Young blanched leaves raw; radicchio for color
-  and bitter contrast
-- **Belgian endive:** Forced from roots in darkness to
-  produce mild chicons
-- **Cooked:** Mature leaves sautéed or braised; bitterness
-  reduces with cooking
-- **Coffee substitute:** Roasted root since 1800s; New
-  Orleans coffee (30-50%); caffeine-free
-- **Forage:** High-quality [[permaculture-livestock-forage-systems]]; protein
-  comparable to alfalfa; tannins reduce bloat
-
-## [[agroecology]]
-- **Dynamic accumulator:** Deep taproot mines Ca, K, Mg
-  from subsoil; brings nutrients to surface via litter
-- **Pollinator support:** Late-season blue flowers provide
-  nectar when most plants have finished blooming
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Deep roots make it highly
-  drought-resistant; valuable for [[jeavons-climate-adaptation-growing-seasons]]
-- **[[chicorium-intybus]]
-- [[trifolium-repens]]
-- achillea-millefolium

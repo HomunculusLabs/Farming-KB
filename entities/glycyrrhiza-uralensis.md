@@ -14,13 +14,13 @@ updated: 2026-04-28
 sources:
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. Vol. I.
 - Wang, Z., et al. (2015). "Glycyrrhiza uralensis: A review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 175, 1–16.
-- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its bioactive compounds." Phytotherapy Research, 22(6), 709–724.
+- Asl, M.N., Hosseinzadeh, H. (2008). "Review of pharmacological effects of Glycyrrhiza sp. and its [[cordyceps-cancer-bioactive-compounds]]." Phytotherapy Research, 22(6), 709–724.
 - Nomura, T., Fukai, T. (1998). "Constituents of Glycyrrhiza species." Fortschritte der Chemie organischer Naturstoffe, 73, 1–140.
 ---
 
 ## Overview
 
-**glycyrrhiza uralensis is]]** Fisch. ex DC., known as **Chinese licorice** or
+**glycyrrhiza uralensis is** Fisch. ex DC., known as **Chinese licorice** or
 **gan cao** (甘草), is a perennial herbaceous legume in the family Fabaceae.
 It is the most commercially important of the approximately 30 *Glycyrrhiza*
 species and serves as the official source of licorice root in the Chinese
@@ -72,7 +72,7 @@ sweet taste is due to glycyrrhizin concentrated in the phloem and cortex.
 
 ## Distribution and Habitat
 
-*G. uralensis* is native to the semi-arid regions of Central and East Asia.
+*G. uralensis* is native to the semi-arid regions of Central and [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 Its range extends from southern Siberia and Mongolia through northern China
 (Inner Mongolia, Gansu, Xinjiang, Ningxia, Shaanxi) into Kazakhstan and parts
@@ -88,61 +88,3 @@ of the Korean Peninsula.
 Wild populations have declined significantly due to overharvesting, and the
 species is now classified as **Vulnerable** in parts of its Chinese range.
 Cultivation accounts for an increasing share of commercial supply.
-
-## Phytochemistry
-
-The root contains a complex mixture of triterpenoid saponins, flavonoids,
-polysaccharides, and coumarins.
-
-**Triterpenoid saponins:**
-- **Glycyrrhizin** (glycyrrhizic acid) — 2–14% dry weight; the principal
-  bioactive constituent and the compound responsible for licorice's sweet
-  taste. A diglucuronide of glycyrrhetinic acid (18β-glycyrrhetinic acid).
-- **18β-Glycyrrhetinic acid** — the aglycone metabolite of glycyrrhizin,
-  responsible for most anti-inflammatory and mineralocorticoid effects.
-
-**Flavonoids (60+ identified):**
-- Liquiritin, liquiritigenin, isoliquiritin, isoliquiritigenin
-- Licochalcone A — potent anti-inflammatory and anti-parasitic activity
-- Glabridin — antioxidant; estrogen receptor modulating activity
-
-**Polysaccharides:** Glycyrrhizan (a glucan with immunomodulatory activity).
-
-## Pharmacology
-
-**Anti-inflammatory:** Glycyrrhizin inhibits 11β-hydroxysteroid dehydrogenase
-type 2, increasing local cortisol availability at sites of inflammation.
-Licochalcone A inhibits NF-κB signaling and COX-2 expression.
-
-**Antiviral:** Demonstrated activity against hepatitis viruses (HBV, HCV),
-HIV, influenza, herpes simplex (HSV-1/HSV-2), and SARS-associated
-coronavirus in vitro. Glycyrrhizin's antiviral mechanism involves
-interference with viral entry and replication.
-
-**Hepatoprotective:** Widely used in Japan (Stronger Neo-Minophagen C
-injection) for chronic hepatitis, reducing ALT/AST levels and hepatic
-fibrosis progression. Mechanism involves antioxidant and anti-inflammatory
-pathways.
-
-**Anti-ulcer:** Enhances mucosal defense through increased prostaglandin
-and mucus secretion. Used in TCM formulations for peptic ulcer disease.
-
-**Mineralocorticoid effects:** Prolonged high-dose use can cause
-**pseudoaldosteronism** — hypokalemia, hypertension, edema, and sodium
-retention due to glycyrrhetinic acid's inhibition of mineralocorticoid
-metabolism. This is the primary safety concern.
-
-## Cultivation
-
-Propagation is primarily by seed (scarification improves germination from
-<20% to >70%) or by root division. Optimal growth occurs at 25–30°C with
-well-drained sandy soils and 400–600 mm annual rainfall.
-
-Harvest typically begins 3–4 years after planting when root glycyrrhizin
-
-See [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for more on Query How To Make And Use Plant Based Foliar Sprays For Pest And Disease Prevention.
-See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
-
-## See Also
-- [[glycyrrhiza-glabra]]
-- [[withania-somnifera]]

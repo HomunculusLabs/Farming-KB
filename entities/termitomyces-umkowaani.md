@@ -7,7 +7,7 @@ tags:
   - edible-mushroom
   - termite-symbiont
   - african-ethnomycology
-  - agroforestry
+  - [[agroforestry]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -15,7 +15,7 @@ sources:
   - Heim, R. (1977). Termites et Champignons. Boubée, Paris.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences, 99(23), 14887-14892.
   - De Fine Licht, H.H. et al. (2005). "The termite genus Macrotermes as a model for the co-evolution of fungus-growing termites and Termitomyces." Insectes Sociaux, 52(3), 268-275.
-  - Oei, P. (2005). accessible-mushroom-cultivation-for-disabilities in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
+  - Oei, P. (2005). [[accessible-mushroom-cultivation-for-disabilities]] in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
 ---
 
 ## Overview
@@ -52,7 +52,7 @@ below.
 
 The perforatorium is a diagnostic feature distinguishing *Termitomyces* from
 most other agaric genera. It is the structure through which the fungus penetrates
-the termite comb to form its fruiting body above the mound surface.
+the termite comb to form its [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] above the mound surface.
 
 ## Distribution and Habitat
 
@@ -71,7 +71,7 @@ active termite mounds.
 
 ## Ethnomycology and Culinary Use
 
-This species is one of the most commercially important wild mushrooms in
+This species is one of the most commercially important [[edible-wild-mushrooms-by-region]] in
 southern Africa. It is widely collected and sold in rural and urban markets
 throughout Zimbabwe, Zambia, and Tanzania.
 
@@ -88,58 +88,3 @@ harvesting practices is passed matrilineally in many communities, with women
 serving as the primary collectors and traders.
 
 ## Symbiosis with Fungus-Growing Termites
-
-The relationship between *Termitomyces* and *Macrotermes* termites is one of the
-most sophisticated examples of insect-fungus mutualism. Worker termites
-forage for plant material and process it into fungal combs within the mound.
-
-The fungus degrades the lignocellulosic substrate, converting it into nutrient-
-rich fungal nodules (mycotetes) that serve as the primary food source for the
-termite colony. In return, the termites provide a constant substrate supply,
-optimal growing conditions, and protection from competitors.
-
-Genetic studies indicate that each termite colony maintains a single *Termitomyces*
-clone, transmitted vertically from parent to daughter colonies via alates
-(reproductive termites). Horizontal transmission between colonies also occurs,
-contributing to genetic diversity within the genus.
-
-## Cultivation Potential
-
-Cultivation of *Termitomyces umkowaani* outside its termite association remains
-extremely difficult, as the fungus has co-evolved with its host and requires
-specific conditions provided by the termite mound environment.
-
-Research at the University of Zimbabwe and other institutions has explored
-in vitro [[synthetic-log-cultivation-methods-guide]] using sterilized plant substrates inoculated with
-spore prints or tissue cultures. Results have been modest, with poor
-fruiting consistency compared to wild harvests.
-
-The economic value of this species has prompted interest in semi-cultivated
-approaches, such as managing termite mounds on [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to promote
-natural fruiting. This practice aligns with traditional low-input farming
-systems in the region.
-## Related Species
-
-*Termitomyces umkowaani* is part of a complex of African *Termitomyces* species
-that are often difficult to distinguish in the field.
-
-*T. microcarpus* — smaller cap (30–80 mm), shorter stipe, widespread across
-West and Central Africa. Among the most commonly collected species in Nigeria
-and Ghana.
-
-*T. eurrhizus* — the Asian termite mushroom, cultivated commercially in China
-and [[psilocybe-southeast-asia-pacific]]. Similar morphology but distinct geographic distribution and
-genetic lineage.
-
-*T. titanicus* — the largest known agaric species, with caps reaching 1 meter
-diameter. Found in West and Central Africa.
-
-*T. shimperi* — [[comparison-cavendish-vs-east-african-highland-bananas]] species associated with *Macrotermes bellicosus*,
-slightly smaller and more delicate than *T. umkowaani*.
-
-## See Also
-
-- [[pleurotus-tuber-regium]]
-- [[amanita-muscaria-entity]]
-- [[ganoderma-lucidum]]
-- [[stropharia-rugosoannulata]]

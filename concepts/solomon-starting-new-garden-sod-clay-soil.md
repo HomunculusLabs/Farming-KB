@@ -1,7 +1,7 @@
 ---
-title: "Starting a New Garden Sod Killing and Clay Soil Management"
+title: [[solomon-starting-new-garden-sod-removal-tillage-techniques]] Garden Sod Clay Soil
 source: "gardening-when-it-counts-steve-solomon.md"
-source_author: "Steve Solomon"
+source_author: "[[steve-solomon]]"
 published: 2005
 tags: [vegetable-gardening, sod-removal, clay-soil, rototiller, garden-startup, soil-preparation, tillage, hand-digging]
 ---
@@ -10,8 +10,8 @@ tags: [vegetable-gardening, sod-removal, clay-soil, rototiller, garden-startup, 
 
 ## Overview
 
-Steve Solomon provides detailed practical guidance for converting
-grass sod into productive vegetable garden soil, including specific
+[[steve-solomon-evidence-based-organic-gardening]] provides detailed practical guidance for converting
+grass sod into productive [[aphid-management-vegetable-garden-solomon]] soil, including specific
 techniques for rotary cultivation, hand digging, and the special
 challenges of clay soils. His approach is designed for gardeners
 who need reliable results without expensive equipment, emphasizing
@@ -88,54 +88,3 @@ to a full spade's depth.
 - A "combination" shovel (part spade, part shovel) is ideal
 - The blade should be 8-9 inches wide with a solid handle
 - Keep a 10-inch mill bastard file for sharpening
-- Sharpen shovels and hoes frequently — dull tools waste enormous
-  effort and weight
-- A file that takes too long to sharpen indicates good (hard) steel
-- Shopping for used shovels: inspect blade thickness; if too thin,
-  the shovel's useful life is over
-
-## Clay Soil Challenges
-
-Clay soils present unique difficulties for vegetable gardening:
-
-**Problems with clay:**
-- Extremely difficult to work — dig when slightly too wet and it
-  forms rock-hard clods; dig when too dry and it forms dust that
-  slumps into airless goo when watered
-- Very narrow "ready-to-till" moisture window in wet springs
-- Weighs twice as much as loam — exhausting to dig and hoe
-- Naturally contains little air — most vegetables don't grow well
-- Tends to settle into hard mass after tilling
-
-**Remedying clay:**
-- Requires huge amounts of organic matter — a layer several inches
-  thick for the first year, then 1.5-inch annual layers to maintain
-- The organic matter decomposes rapidly and requires annual
-  replacement — this is expensive in hauling and compost production
-- Remediated clay never grows vegetables as well as naturally light
-  soil — Solomon is emphatic about this limitation
-- Garden magazines that promise turning clay into "Garden of Eden"
-  through compost addition are misleading
-
-**Sandy soils:**
-- The opposite problem — too free-draining
-- If a subsoil layer holds moisture, sandy topsoil can work
-- Without a moisture-retaining sublayer, sandy soils produce
-  droughty gardens requiring regular irrigation
-
-## Soil Amendment Summary
-
-The key principle: apply amendments before working the soil,
-whether tilling or hand digging. Amendments should be spread
-evenly, then incorporated through the working process. For clay
-soils, organic matter is the primary remedy. For all soils,
-maintaining proper mineral balance through COF and lime ensures
-nutritional quality of the harvest.
-
-## See Also
-
-- [[solomon-vegetable-demand-classification-soil-fertility]]
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
-- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
-- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
-- [[solomon-drought-gardening-and-water-conservation]]

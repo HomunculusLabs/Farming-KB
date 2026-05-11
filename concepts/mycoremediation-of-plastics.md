@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mycoremediation of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste. (see [[mycoremediation-techniques]]).
+Mycoremediation of plastics is an emerging field investigating fungi capable of degrading synthetic polymers, particularly polyurethane (PUR). Plastics persist in the environment for centuries, and fungal enzymes offer a potential biological pathway for breaking them down. Research is still largely in laboratory stages, but promising results suggest fungi could become a tool in managing plastic waste.
 
 ## The Plastic Problem
 
@@ -23,11 +23,11 @@ Global plastic production exceeds 400 million tonnes annually. Key challenges:
 ## Pestalotiopsis microspora -- The Breakthrough Species
 
 ### Discovery
-In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiopsis microspora in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic. (see [[fungal-enzymes-in-environmental-bioremediation]]).
+In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiopsis microspora in the Ecuadorian Amazon rainforest. This endophytic fungus was found to degrade and consume polyurethane (PUR) -- the first documented case of a fungus breaking down this persistent plastic.
 
 ### Mechanism
 - Produces a serine hydrolase enzyme that cleaves polyurethane bonds
-- Degrades PUR under both aerobic and anaerobic conditions
+- Degrades PUR under both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]] conditions
 - Can survive on polyurethane as its sole carbon source
 - Enzyme secretion occurs extracellularly, breaking down plastic outside the fungal cells
 
@@ -51,11 +51,11 @@ In 2011, Yale University researchers led by Scott Strobel discovered Pestalotiop
 ### White-rot Basidiomycetes
 - **Pleurotus ostreatus**: Degrades polystyrene when pre-treated or co-metabolized with lignocellulosic material
 - **Trametes versicolor**: Laccase enzymes partially oxidize bisphenol A (BPA) and phthalate plasticizers
-- **Phanerochaete chrysosporium**: Lignin peroxidase attacks aromatic structures in some plastics
-- **Schizophyllum commune**: Degrades polyethylene under pre-oxidation conditions
+- **[[phanerochaete-chrysosporium]]**: Lignin peroxidase attacks aromatic structures in some plastics
+- **[[schizophyllum-commune]]**: Degrades polyethylene under pre-oxidation conditions
 
 ### Other Notable Species
-- **Cladosporium cladosporioides**: Isolated from marine plastic debris; degrades polyethylene
+- **[[cladosporium-cladosporioides]]**: Isolated from marine plastic debris; degrades polyethylene
 - **Engyodontium album**: Breaks down polypropylene in laboratory settings (2022 discovery)
 - **Xepiculopsis sp.**: Found degrading plastic in mangrove environments
 
@@ -75,7 +75,7 @@ Many plastics require pre-treatment before fungal degradation:
 - Mechanical grinding increases surface area
 
 ### Co-metabolism
-Fungi often degrade plastics more effectively when alternative carbon sources are available. Co-metabolism with agricultural waste, straw, or wood chips provides energy for enzyme production while fungi simultaneously attack plastic polymers. (see [[mycoremediation-pahs]]).
+Fungi often degrade plastics more effectively when alternative carbon sources are available. Co-metabolism with agricultural waste, straw, or wood chips provides energy for enzyme production while fungi simultaneously attack plastic polymers.
 
 ## Research Status and Challenges
 
@@ -96,7 +96,7 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 - No commercial-scale fungal plastic remediation system exists yet
 - Enzyme production costs remain high
 - Processing times are long compared to mechanical recycling or incineration
-- Regulatory frameworks for biological plastic treatment are undeveloped
+- [[medicinal-mushroom-cancer-regulatory-frameworks]] for biological plastic treatment are undeveloped
 
 ## Potential Applications
 
@@ -123,5 +123,5 @@ Fungi often degrade plastics more effectively when alternative carbon sources ar
 
 ## See Also
 
-- [[mycoremediation-of-oil-spills]] -- established fungal remediation of petroleum hydrocarbons
+- [[mycoremediation-of-oil-spills]] -- established fungal remediation of [[mycoremediation-petroleum-hydrocarbons]]
 - [[mycoremediation-of-heavy-metals]] -- fungal biosorption and immobilization of toxic metals

@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Cho, H.K. (2009). Korean Natural Farming: beneficial-indigenous-microorganisms-bim and Vital Power of Crops. Master Cho's Global Natural Farming.
+  - Cho, H.K. (2009). korean-natural-farming-and-jadam: beneficial-indigenous-microorganisms-bim and Vital Power of Crops. Master Cho's chos-global-natural-farming-input-reduction-methods.
   - Drake, M. & Drake, J. (2014). "Korean Natural Farming Handbook." Cho Global Natural Farming.
   - Patel, H. et al. (2019). "Korean Natural Farming: A sustainable approach to agriculture." Indian Journal of Agricultural Sciences, 89(4), 604-610.
-  - Joshi, D. et al. (2020). "Indigenous Microorganisms (IMO) technology of Korean Natural Farming." Journal of Soil Science and Plant Nutrition, 20(2), 839-850.
+  - Joshi, D. et al. (2020). "[[beneficial-indigenous-microorganisms-bim]] (IMO) technology of Korean Natural Farming." Journal of Soil Science and Plant Nutrition, 20(2), 839-850.
 created: 2026-04-28
 ---
 
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-Korean Natural Farming (KNF) is a sustainable agricultural system developed by **Master Han Kyu Cho** (born 1935) in the 1960s in South Korea. The methodology is built on the principle of working with nature rather than against it — utilizing locally sourced, naturally occurring microorganisms, plant extracts, and minerals to build soil health, enhance crop nutrition, and manage pests and diseases without synthetic chemical inputs.
+Korean Natural Farming (KNF) is a sustainable agricultural system developed by **Master Han Kyu Cho** (born 1935) in the 1960s in South Korea. The methodology is built on the principle of working with nature rather than against it — utilizing locally sourced, naturally occurring microorganisms, plant extracts, and minerals to build soil health, enhance crop nutrition, and manage [[mushroom-pests-and-diseases]] without synthetic chemical inputs.
 
 KNF is part of a broader family of indigenous microorganism (IMO)-based farming systems found across East Asia, sharing philosophical and practical roots with Japanese natural farming (Masanobu Fukuoka), [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]] (EM; Teruo Higa), and Chinese traditional ecological agriculture. However, KNF is distinguished by its specific preparation methods, codified input system, and emphasis on fermentation-based [[green-cannabis-grow-bible-nutrient-management-ppm]].
 
@@ -32,7 +32,7 @@ KNF is guided by several foundational principles:
 
 1. **Non-interference:** Minimize human intervention in natural biological processes. The farmer's role is to create conditions where natural systems can function optimally.
 2. **Local sourcing:** All inputs are produced on-farm or sourced from the immediate local environment. No external or commercial inputs are required.
-3. **Nutritive cycle theory:** Plants have specific nutritional needs at each stage of growth (vegetative, changeover, reproductive, maturation), and inputs should be matched to these stages.
+3. **[[cho-nutritive-cycle-theory]]:** Plants have specific nutritional needs at each stage of growth (vegetative, changeover, reproductive, maturation), and inputs should be matched to these stages.
 4. **Fermentation over decomposition:** Nutrients are delivered through anaerobic and aerobic fermentation, which preserves more energy and creates more bioavailable compounds than simple decomposition.
 5. **Indigenous microorganisms (IMO):** Locally adapted microorganisms are more effective than commercially produced inoculants because they are already adapted to local soil, climate, and plant communities.
 6. **No-tillage:** Soil is not mechanically disturbed; biological processes maintain soil structure and aeration.
@@ -69,7 +69,7 @@ A preparation of medicinal herbs (garlic, ginger, licorice, cinnamon, Angelica) 
 
 ### Fish Amino Acid (FAA)
 
-Made from fish waste (heads, bones, viscera) fermented with brown sugar at 1:1 ratio. Rich in nitrogen and amino acids. Used during the vegetative growth stage to promote leaf growth. Dilution rate: 1:1000.
+Made from fish waste (heads, bones, viscera) fermented with brown sugar at 1:1 ratio. Rich in nitrogen and amino acids. Used during the [[cannabis-vegetative-growth-stage]] to promote leaf growth. Dilution rate: 1:1000.
 
 ### Lactic Acid Bacteria Serum (LAB)
 
@@ -88,61 +88,3 @@ Made from animal bones charred and dissolved in vinegar. Provides phosphorus for
 Similar to FPJ but made from ripe fruits. Rich in sugars, vitamins, and minerals. Used during reproductive and maturation stages.
 
 ### Natural Vinegar (NV)
-
-Made from fruits or plant materials fermented into acetic acid. Used to adjust soil pH, enhance mineral solubility, and as a pest deterrent.
-
-## The Nutritive Cycle Theory
-
-KNF applies inputs according to a plant's growth stage:
-
-| Stage | Duration | Primary Need | Key Inputs |
-|---|---|---|---|
-| **Vegetative** | Early growth | Nitrogen, growth hormones | FPJ (fast-growing plants), FAA |
-| **Changeover** | Transition to flowering | Balanced nutrition | FPJ (mixed plants), OHN |
-| **Reproductive** | Flowering/fruiting | Phosphorus, potassium | FFJ, WPA, FPJ (fruit-bearing plants) |
-| **Maturation** | Ripening/harvest | Calcium, micronutrients | WCA, OHN, FPJ (mature plants) |
-
-This stage-based approach ensures that plants receive the appropriate nutritional signals at the right time, reducing waste and optimizing growth.
-
-## Soil Management
-
-KNF emphasizes building living soil through biological processes:
-
-- **IMO application:** Applied 2-4 times per year to maintain diverse, active soil microbiology
-- **Cover cropping:** Living roots feed soil organisms year-round
-- **Mulching:** Organic mulch maintains moisture, moderates temperature, and provides slow-release nutrients
-- **No-tillage:** Soil structure is maintained by fungal networks, root channels, and earthworm activity
-- **Carbon-nitrogen management:** Soil C:N ratio is maintained at 20:1 to 30:1 for optimal microbial activity
-
-### Soil Fermentation Beds
-
-A unique KNF technique for animal husbandry that has been adapted for plant cultivation. A layered bed of IMO, biochar, rice hulls, and organic matter creates an aerobic fermentation environment that generates heat, suppresses pathogens, and produces humic acids.
-
-## Pest and Disease Management
-
-KNF addresses pests and diseases through prevention rather than eradication:
-
-1. **Plant health as defense:** Healthy, well-nourished plants produce natural defense compounds that deter pests
-2. **Microbial competition:** IMO creates an environment where beneficial organisms outcompete pathogens
-3. **Natural deterrents:** OHN, essential oils, and herbal extracts provide antimicrobial and insect-repellent properties
-4. **PH adjustment:** LAB and NV create conditions unfavorable for many pathogens
-5. **Biodiversity:** Diverse plantings reduce pest pressure through natural predator-prey dynamics
-
-## Applications Beyond Agriculture
-
-KNF principles have been adapted for:
-
-- **Livestock:** Fermentation bedding for pigs, poultry, and cattle reduces odor, eliminates pathogens, and improves animal health
-- **Aquaculture:** IMO and LAB in fish ponds improve water quality and reduce disease
-- **Waste management:** Fermentation of organic waste using KNF microorganisms accelerates composting
-- **Reforestation:** IMO application to degraded land accelerates soil restoration
-- **Urban farming:** Container and rooftop gardens using simplified KNF input systems
-
-## See Also
-
-- [[effective-microorganisms-em]] — Teruo Higa's microbial inoculant system
-- [[regenerative-agriculture]] — Broader regenerative farming movement
-- permaculture — Holistic design system for sustainable human habitats
-- [[natural-farming]]
-- [[lactobacillus]]
-- [[decomposition]]

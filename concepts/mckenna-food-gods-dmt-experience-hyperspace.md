@@ -77,3 +77,20 @@ Through them, we have had placed into our hands a tool for the redemption of the
 
 - [[mckenna-food-gods-tryptamine-pharmacology-indoles]]
 - [[mckenna-food-gods-designer-states-of-consciousness]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mckenna-dmt-experience-and-hyperspace]]
+- [[mckenna-food-gods-lewis-lewin-birth-psychopharmacology-peyote-mescaline]]
+- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
+- [[mckenna-food-gods-tryptamine-dimension]]
+- [[mckenna-food-gods-ergot-kykeon-eleusinian]]

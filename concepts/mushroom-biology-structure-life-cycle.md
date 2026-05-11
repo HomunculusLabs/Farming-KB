@@ -3,11 +3,11 @@ title: psilocybin-mushroom-biology-chemistry: Structure and Life Cycle
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
-tags: [accessible-mushroom-cultivation-for-disabilities] overview]. Both paul stamets in The Mushroom Cultivator and Andy Letcher in Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names describe the fungal life cycle, though from different perspectives — Stamets focusing on cultivation implications and Letcher on the organism's broader ethnomycology-cultural-significance-sacred-fungi.
+tags: [accessible-mushroom-cultivation-for-disabilities] overview]. Both paul stamets in [[coprinus-atrementarius-entity-the-mushroom-cultivator]] and [[andy-letcher]] in Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names describe the [[bloomfield-fungal-life-cycle-spiral-versus-circle]], though from different perspectives — Stamets focusing on cultivation implications and Letcher on the organism's broader ethnomycology-cultural-significance-sacred-fungi.
 
 ## What Is a Mushroom
 
-A mushroom (carpophore) is not the entire organism but merely the reproductive structure, or [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], concerned with propagating genes into the next generation. The main body consists of a network of microscopic threads called hyphae, which grow and branch through the species' preferred substrate, forming a agaricus-bisporus-cultivation-biology, cotter-mycoremediation-overview) are saprophytes.
+A mushroom (carpophore) is not the entire organism but merely the reproductive structure, or [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], concerned with propagating genes into the [[next-generation-sequencing-hidden-fungal-diversity]]. The main body consists of a network of microscopic threads called hyphae, which grow and branch through the species' preferred substrate, forming a agaricus-bisporus-cultivation-biology, cotter-mycoremediation-overview) are saprophytes.
 
 ### Symbiotic (Mycorrhizal)
 Some fungi bond with plant roots to form complex underground networks called mycorrhizae — a "wood-wide web" without which both plant and fungus would struggle. mushroom-genetics-strain-improvement
@@ -20,7 +20,7 @@ Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters I-II; Shroom
 Updated: 2026-04-18
 ## Practical Applications
 
-Mushroom Biology: Structure and Life Cycle has a range of practical applications that make it relevant to
+[[mushroom-biology-life-cycle-classification]]: Structure and Life Cycle has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -85,19 +85,6 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[allegro-sacred-prostitute-and-the-mushroom-cult]]
-- [[agaricus-campestris-morphology-and-life-cycle]]
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
-- [[mucor-racemosus-entity-the-mushroom-cultivator]]

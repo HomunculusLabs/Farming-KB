@@ -7,7 +7,7 @@
 Solomon insists that every gardener should assess the soil resource beneath
 their feet before committing to a garden site. The assessment involves two
 steps: digging a soil profile hole to examine the layers below the surface,
-and performing a simple "soil fractional analysis" test (mason jar method) to
+and performing a simple "soil fractional analysis" test ([[mason-jar-preserving-guide]] method) to
 determine the exact proportions of sand, silt, and clay. "I wouldn't want to
 garden anywhere without having this valuable information."
 
@@ -30,8 +30,8 @@ As you dig, ask yourself these questions at each depth:
 ### Typical Soil Profile
 In climates with 28+ inches (70 cm) of annual rainfall, you will typically
 find:
-- **Top 6-12 inches (15-30 cm):** Topsoil — darker due to organic matter
-- **Below topsoil:** Subsoil — lighter in color, less organic matter
+- **Top 6-12 inches (15-30 cm):** Topsoil — darker due to [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- **Below topsoil:** Subsoil — lighter in color, less [[hamilton-composting-and-organic-matter-management]]
 - **Variable depth:** A clay layer, hardpan, or other barrier may appear
 - **Bottom:** Parent material or bedrock
 
@@ -51,7 +51,7 @@ This test separates soil into its constituent particles by size. The smaller
 the particle, the longer it stays suspended in water.
 
 ### Equipment
-- Quart (liter) canning jar with tight-fitting lid
+- Quart (liter) [[pf-tek-canning-jar-lid-configuration]] with tight-fitting lid
 - Ruler or measuring tape
 - Felt pen or adhesive tape for marking
 - Teaspoon of ordinary dishwashing detergent (low-suds type preferred)
@@ -88,46 +88,3 @@ settled layer and calculate percentages:
 ```
 
 Millimeters make the math easier than inches.
-
-## Interpreting Results
-
-### Soil Types by Composition
-- **Sand:** Less than 10% silt or clay
-- **Sandy loam:** 10-20% clay, moderate silt
-- **Loam:** Roughly 40% sand, 40% silt, 20% clay — ideal garden soil
-- **Clay loam:** 20-30% clay
-- **Clay:** More than 30% clay — difficult but manageable
-
-### Water-Holding Capacity
-The percentage of fine particles (silt + clay) directly determines how much
-water the soil can hold for growing plants. Sandy soils drain rapidly and
-hold little moisture; clay soils hold large amounts but release it slowly.
-
-### Clay Content and Fertigation
-The soil fractional analysis directly informs fertigation strategy:
-- **Sandy soil (low clay):** Water spreads deep and narrow; apply less
-  water, more frequently
-- **Clay soil (20%+ clay):** Water spreads broadly; apply more water, less
-  frequently
-
-### Clay Settling Speed
-If the clay fraction settles within 12 hours, you have relatively coarse
-clay — easier to work. Fine clay that stays suspended for days indicates a
-soil that will be harder to manage.
-
-## Why This Matters for Food Gardening
-
-Knowing your soil profile and composition allows you to:
-- Choose appropriate plant spacing based on water-holding capacity
-- Determine whether irrigation is necessary and what type
-- Decide whether clay remediation is needed and what approach to use
-- Predict which vegetables will thrive and which will struggle
-- Understand why certain crops may be failing despite good management
-
-## See Also
-
-- [[solomon-clay-soil-management-and-remediation]]
-- [[solomon-ready-to-till-soil-moisture-test]]
-- [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]
-- [[solomon-irrigation-water-management]]
-- [[soil-fertility-building-gradient-solomon]]

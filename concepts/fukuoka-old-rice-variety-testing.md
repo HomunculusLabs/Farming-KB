@@ -6,6 +6,7 @@ type: concept
 tags: [rice, seed-saving]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Old Rice Variety Testing
@@ -87,21 +88,3 @@ Fukuoka's variety testing connects to his wider project of [[fukuoka-insects-cre
 - Modern breeding has produced rice suited to artificial conditions -- dependent on pesticides and fertilizers
 - Old varieties carry the genetic resilience developed over centuries of natural selection
 - His [[fukuoka-natural-farming-philosophy-of-mu]]" -- strong, hardy rice that can grow without human intervention
-
-See also: [[fukuoka-natural-rice-barley-cultivation]], [[fukuoka-insects-create-new-rice-varieties]], [[fukuoka-rice-and-barley-natural-farming]], [[fukuoka-seed-selection-methods]]
-
-## Merged: Fukuoka Crop Variety Improvement Illusion
-
-# Crop Variety Improvement Is an Illusion
-
-updated: 2026-04-18
-
-Fukuoka argued that the pursuit of improved crop varieties through breeding is fundamentally misguided. The [[fukuoka-natural-farming-philosophy-of-mu]]. Nature inherently abhors the unnatural and makes every effort to return to its true state by discarding human techniques for increasing harvests. A natural control operates to hold down large harvests and raise low harvests, approaching the natural yield without disrupting the balance.
-
-## Breeding Programs Have Failed
-
-The creation and abandoning over several decades of tens of thousands of new varieties shows that breeding goals change constantly. The question of seed variety cannot be resolved independently of other factors — biological environment, [[synthetic-log-cultivation-methods-guide]], soil, fertilizer, disease and pest control, and human factors all interact.
-
-Although [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] may be useful in achieving temporary gains, such gains are never permanent or universal. The same is true for cultivation methods. The use of practices such as plowing, seeding timing, and transplanting is dictated by the thinking of the times and other factors, not by fundamental truth.
-
-## Happy Hill Rice: Nature's Breeding

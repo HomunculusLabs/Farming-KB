@@ -10,7 +10,7 @@ type: concept
 
 # McKenna Inquisition Suppression of Plant Knowledge
 
-In Food of the Gods, Terence McKenna argues that the medieval
+In Food of the Gods, [[terence-mckenna]] argues that the medieval
 Inquisition deliberately suppressed knowledge of psychoactive plants
 that were central to the practices attributed to witchcraft. This
 suppression served a specific theological and political purpose: to
@@ -23,7 +23,7 @@ culture's campaign against plant-based consciousness.
 ## The Central Role of Plants in Witchcraft
 
 McKenna documents that the role of mind-altering plants in medieval
-witchcraft was extensive. Flying ointments and magical salves were
+witchcraft was extensive. [[witches-fungi-and-flying-ointments]] and magical salves were
 compounded from Datura roots and seeds, parts of the plant rich in the
 delirium and delusion-producing tropane alkaloids atropine, scopolamine,
 and hyoscyamine. When these preparations were applied to the skin, they
@@ -32,7 +32,7 @@ sensations of flight, transformation, and contact with supernatural
 beings. Hans Baldung's artistic treatments of witches leave no doubt
 about the terror the medieval mind projected onto the image of
 intoxicated women. The plants involved included thorn apple (Datura),
-deadly nightshade ([[belladonna-atropa-belladonna-ethnobotany]]), and monkshood (Aconitum), all
+[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] ([[belladonna-atropa-belladonna-ethnobotany]]), and monkshood (Aconitum), all
 well-known for their psychoactive properties.
 
 ## The Motive for Suppression
@@ -73,7 +73,7 @@ Mysteries through the witch burnings to the modern [[cervantes-war-on-drugs-stat
 each case, McKenna argues, institutions of [[mckenna-dominator-culture-and-suppression-of-ecstasy]] have
 suppressed access to boundary-dissolving experiences mediated by plants
 because such experiences undermine the hierarchical authority structures
-that dominator culture depends upon.
+that [[dominator-culture-and-partnership-society]] depends upon.
 
 ## Historical Context and Evidence
 
@@ -88,52 +88,3 @@ midwives, who were often the primary custodians of plant knowledge,
 further supports the thesis that the Inquisition targeted not just
 heterodox religious practice but the botanical knowledge that made
 independent visionary experience possible.
-
-## Legacy and Modern Parallels
-
-McKenna draws explicit parallels between the Inquisition's suppression
-of plant knowledge and modern drug prohibition, arguing that both serve
-to maintain institutional control over consciousness. The suppression
-of plant knowledge about  represents an
-early chapter in what McKenna sees as a continuous campaign by
-dominator culture against the vegetable mind and the Gaian consciousness
-it mediates. Understanding this history is, in his view, essential to
-the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] and the recovery of humanity's symbiotic
-relationship with the plant kingdom.
-
-## The Physiological Mechanism
-
-The tropane alkaloids in the plants used by European witches, including
-atropine, scopolamine, and hyoscyamine, are muscarinic acetylcholine
-receptor antagonists. When absorbed through the skin via flying
-ointments, these compounds produce a characteristic syndrome of
-delirium including visual and auditory hallucinations, the sensation of
-flight, feelings of transformation into animals, and profound
-disorientation. The application to mucous membranes or shaved skin
-allowed absorption while avoiding the gastrointestinal distress that
-accompanies oral ingestion. Modern pharmacological understanding of
-these compounds confirms that the experiences described in Inquisition
-records are entirely consistent with tropane alkaloid intoxication,
-lending strong support to the natural explanation that the Church
-suppressed.
-
-## Gender and Power Dimensions
-
-McKenna's analysis highlights the gendered dimension of the suppression.
-The persecution targeted predominantly women, who were the primary
-custodians of herbal knowledge in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] society. Midwives,
-healers, and wise women who understood the properties of psychoactive
-plants were systematically eliminated. This destruction of women's
-botanical knowledge served a dual purpose: it removed an alternative
-source of authority that competed with the Church, and it reinforced
-patriarchal control over medicine, healing, and the interpretation of
-visionary experience. The connection between the suppression of plant
-knowledge and the suppression of feminine power is, in McKenna's
-framework, not coincidental but structural to dominator culture.
-
-## See Also
-
-- [[christus-eros-osiris-mckenna-mythological-framework-suppression-psychedelic-knowledge]]
-
-- [[mckenna-ergot-and-witches-sabbath-theory]]
-- [[mckenna-vegetable-mind-and-gaian-holism]]

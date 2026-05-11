@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -27,16 +28,16 @@ forage resources that meet their nutritional needs with minimal imported feed.
 Mollison identifies numerous plants that chickens actively forage:
 
 **Herbaceous forage:**
-- Comfrey (Symphytum officinale): High protein leaves that chickens eat
+- Comfrey ([[comfrey-symphytum-officinale]]): High protein leaves that chickens eat
   readily, especially when young and tender. Cut-and-carry comfrey reduces
   feed costs significantly.
-- Chicory (Cichorium intybus): Deep-rooted perennial providing protein and
+- Chicory ([[cichorium-intybus]]): Deep-rooted perennial providing protein and
   minerals through summer drought when grasses fail.
-- Lucerne/alfalfa (Medicago sativa): Premier poultry forage with protein
+- Lucerne/alfalfa ([[alfalfa-medicago-sativa]]): Premier poultry forage with protein
   content up to 22%. Suitable for cut-and-carry or grazing under nets.
 - Clover (Trifolium spp.): White and red clover provide excellent protein
   and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Chickens prefer white clover for grazing.
-- Plantain (Plantago lanceolata): Mineral-rich, drought-tolerant, and
+- Plantain ([[plantago-lanceolata]]): Mineral-rich, drought-tolerant, and
   productive across multiple seasons.
 - Amaranth and buckwheat: Warm-season annuals providing high-protein seed
   and leaf forage.
@@ -47,7 +48,7 @@ Mollison identifies numerous plants that chickens actively forage:
   poultry forage design.
 - Tagasaste (Chamaecytisus proliferus): Fast-growing leguminous shrub
   providing year-round fodder in suitable climates.
-- Siberian pea shrub (Caragana arborescens): Nitrogen-fixing shrub
+- Siberian pea shrub ([[caragana-arborescens]]): Nitrogen-fixing shrub
   producing edible seeds that poultry harvest directly.
 
 ## Pasture Management
@@ -82,39 +83,8 @@ Mollison emphasises that chickens are not primarily grazers -- they are
 omnivores adapted to scratching for insects and seeds. Designing insect
 production systems reduces or eliminates the need for grain supplements:
 
-- **Compost piles:** Active compost heaps teem with soldier fly larvae,
+- **Compost piles:** Active compost heaps teem with [[black-soldier-fly-larvae-as-feed]],
   earthworms, and other invertebrates. Chickens with access to compost
   systems can obtain 30-50% of their protein needs from insects.
 - **Mulch piles:** Deep mulch of leaves, straw, or wood chips under fruit
   trees harbours beetles, slugs, and larvae. Chicken scratching accelerates
-  mulch breakdown while harvesting protein.
-- **[[solomon-sheet-composting-mulch-gardening]]:** Spreading manure and [[hamilton-composting-and-organic-matter-management]] in thin layers
-  across future garden beds, then allowing chickens access, turns waste into
-  fertile soil while feeding the birds.
-- **[[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]] fly systems:** Dedicated soldier fly larvae bins convert
-  food scraps into high-quality chicken feed. Mollison describes simple
-  bucket-and-ramp systems that self-harvest larvae.
-
-## Housing and Shelter Design
-
-- Mobile [[mollison-designers-chicken-tractors-egg-production]] for Zone 1-2 intensive systems
-- Fixed housing with attached forage paddocks for Zone 2-3
-- Earth-sheltered housing for winter protection in cool climates
-- Roosting and nesting areas protected from predators with wire mesh or
-  electric fencing
-
-## Nutritional Planning
-
-Mollison estimates that a well-designed permaculture poultry system can
-provide 60-80% of chicken nutrition from on-farm forage, with the remainder
-supplied by grain, sprouted seeds, and kitchen scraps. The key is continuous
-forage availability across seasons, achieved through diverse species planting
-and [[mollison-designers-free-range-forage-design-principles]],
-[[mollison-designers-pig-tractors-forage-systems]]
-
-- [[integrated-poultry-forage-systems-zone-two]]
-
-## See Also
-
-- [[bee-forage-systems-design]]
-- [[mollison-pdc-poultry-forage-systems]]

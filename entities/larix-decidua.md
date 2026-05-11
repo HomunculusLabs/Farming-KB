@@ -37,7 +37,7 @@ naturalizes readily in suitable habitats.
 **Classification:** Plantae → Pinophyta → Pinopsida → Pinales → Pinaceae →
 *Larix* → *Larix decidua* Mill.
 
-Two varieties are recognized: var. *decidua* (central European) and var.
+Two varieties are recognized: var. *decidua* ([[psilocybe-bohemica-central-european]]) and var.
 *polonica* (Polish larch), though some authorities treat them as subspecies.
 
 European larch reaches 25–45 m in height with trunk diameters of 0.6–1.5 m.
@@ -65,7 +65,7 @@ mountain slopes. It grows on both calcareous and siliceous substrates,
 showing broader soil tolerance than many associated conifers.
 
 In the Alps, European larch forms characteristic mixed forests with
-*Pinus cembra* (Arolla pine) and picea-abies. At treeline, it grows as
+*[[pinus-cembra]]* (Arolla pine) and picea-abies. At treeline, it grows as
 krummholz, stunted by wind and cold.
 
 European larch is a light-demanding pioneer species that regenerates well
@@ -74,10 +74,10 @@ and Norway spruce.
 
 ## Ecology and Mycorrhizal Relationships
 
-European larch forms ectomycorrhizal associations with diverse fungi. *Suillus
-grevillei* shows strong host specificity to *Larix* species and is the most
+European larch forms [[ectomycorrhizal-associations]] with diverse fungi. *Suillus
+grevillei* shows strong [[fungal-endemism-host-specificity]] to *Larix* species and is the most
 recognizable mycorrhizal fungus of larch forests. Other partners include
-*Laccaria laccata* and *Boletus edulis*.
+*[[laccaria-laccata]]* and *[[boletus-edulis-entity]]*.
 
 The deciduous habit creates a unique litter dynamic with a large annual
 pulse of [[hamilton-composting-and-organic-matter-management]] each autumn, supporting a distinct decomposer
@@ -88,44 +88,3 @@ woodpeckers. The open canopy of mature larch supports a richer ground flora
 than most evergreen conifer forests.
 
 Primary herbivores include the larch case-bearer caterpillar (*Coleophora
-laricella*) and larch sawfly (*Pristiphora erichsonii*), both capable of
-significant defoliation during outbreaks.
-
-## Timber and Economic Uses
-
-European larch produces one of the hardest softwoods. Heartwood is reddish-
-brown with a density of 550–600 kg/m³ at 12% moisture, significantly harder
-than Scots pine or Norway spruce.
-
-Natural durability makes it ideal for outdoor fencing, decking, boat
-building, and exterior construction. It has been historically important for
-mine timbers, water wheels, and railway sleepers. The timber is also valued
-for veneer, interior joinery, and furniture.
-
-Larch resin (Venetian turpentine) was historically collected by tapping
-living trees and was an important commercial product.
-
-## Cultivation and Silviculture
-
-European larch is widely planted for timber, introduced to the British
-Isles in the 17th century. [[cannabis-seed-germination-methods]] occurs readily without
-stratification, with seedlings emerging within 2–3 weeks of spring sowing.
-
-Growth rates are moderate to fast at 8–15 m³/ha/year on quality sites.
-Rotation ages of 40–80 years are shorter than most other conifers due to
-rapid early growth.
-
-The species is susceptible to larch canker (*Lachnellula willkommii*), a
-[[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] causing stem and branch lesions. Hybrid larch (*Larix ×
-marschlinsii*), a cross with Japanese larch (*L. kaempferi*), combines
-Japanese growth rates with European timber quality and canker resistance.
-
-## See Also
-
-- [[larix-gmelinii]]
-
-- [[picea-abies]]
-- [[cedrus-libani]]
-- [[fomes-fomentarius]]
-- [[quercus-robur]]
-- [[alnus-glutinosa]]

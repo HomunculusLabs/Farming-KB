@@ -9,7 +9,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka (1985). "The Natural Way of Farming." Japan Publications.
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - [[masanobu-fukuoka]] (1985). "The Natural Way of Farming." Japan Publications.
   - Masanobu Fukuoka (1987). "The Road Back to Nature." Japan Publications.
 ---
 
@@ -19,7 +20,7 @@ Masanobu Fukuoka made a striking claim that encapsulated his philosophy of
 soil fertility: one gram of soil from his farm contained approximately 100
 million nitrogen-fixing bacteria and other soil-enriching microbes. This
 observation was not merely scientific — it was the foundation of his approach
-to desert revegetation and his [[fukuoka-road-critique-of-modern-science]] agricultural science.
+to [[clay-pellet-desert-revegetation]] and his [[fukuoka-road-critique-of-modern-science]] [[fukuoka-critique-laws-agricultural-science]].
 
 ## The Living Soil
 
@@ -29,10 +30,10 @@ chemical balance that makes nutrients available to roots.
 
 Modern agriculture, in his view, treated soil as an inert substrate. Farmers
 added [[cervantes-chemical-fertilizers-guide]] to supply nitrogen, phosphorus, and potassium, but
-in doing so they disrupted the microbial communities that had been providing
+in doing so they disrupted the [[cannabis-rhizosphere-microbial-communities]] that had been providing
 these nutrients for free.
 
-When synthetic fertilizers kill soil microbes, the soil loses its capacity
+When [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] kill soil microbes, the soil loses its capacity
 for self-regulation. It becomes dependent on external inputs, creating a
 cycle of degradation that requires ever more intervention.
 
@@ -61,7 +62,7 @@ agricultural science recognized.
 
 Fukuoka's microbial observation had direct practical implications for his
 desert revegetation work. He proposed that soil containing seeds and
-beneficial microorganisms could be the "spark" that restores barren lands.
+[[forest-and-bamboo-beneficial-microorganisms]] could be the "spark" that restores barren lands.
 
 The clay pellet method he developed was designed not just to protect seeds
 from predation but to inoculate target areas with the microbial life found
@@ -86,37 +87,3 @@ He noted that even when scientists did study microorganisms, they focused on
 pathogenic species rather than beneficial ones. The goal was to kill harmful
 organisms rather than to nurture the beneficial communities that kept harmful
 ones in check.
-
-## The Bacterial Foundation of Green Manure
-
-Fukuoka's use of green manure crops — clover, alfalfa, bur clover, and
-acacia — was informed by his understanding of soil microbes. These plants
-did not merely add organic matter when incorporated into the soil.
-
-Their root systems exuded compounds that fed specific [[cultivar-endorhiza-bacterial-communities-cannabis]].
-The bacteria, in turn, fixed nitrogen, solubilized phosphorus, and created
-soil aggregates that improved water retention and aeration.
-
-The green manure plants were the above-ground expression of an underground
-microbial ecosystem. Removing the plants without understanding the microbes
-they supported would miss the point entirely.
-
-## Beyond the 100 Million
-
-Fukuoka's 100 million bacteria per gram was an estimate based on general
-soil science, but the principle it represented was universal. Healthy soil
-is alive, and its biological activity is the true source of fertility.
-
-This understanding led naturally to his rejection of both chemical
-fertilizers and the more labor-intensive practices of [[coleman-deep-organic-farming-philosophy]], which
-he saw as merely a less harmful form of the same reductionist approach.
-
-True soil fertility, in Fukuoka's view, could only be maintained by working
-with nature's microbial systems rather than trying to replace them.
-
-## See Also
-
-- [[fukuoka-desert-revegetation-natural-farming]]
-- [[fukuoka-four-principles-natural-farming]]
-- [[natural-farming-microbial-inoculants]]
-- [[desert-revegetation]]

@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biomass and Production in Aquatic Ecosystems"
+title: Dighton Fungal Biomass Production Aquatic Ecosystems
 created: 2026-04-26
 tags:
   - mycology
@@ -20,7 +20,7 @@ Fungi play major roles in decomposition and [[comparison-nutrient-cycling-vs-nut
 range of aquatic ecosystems, from salt marshes to freshwater streams.
 Their biomass often exceeds that of bacteria on decomposing leaf litter
 in aquatic systems, and they serve as critical links between detritus
-and higher trophic levels through their support of invertebrate
+and higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] through their support of invertebrate
 populations.
 
 ## Salt Marsh Decomposition
@@ -74,7 +74,7 @@ a major role in this decomposition and nutrient mineralization.
 
 ## Freshwater Stream Ecosystems
 
-More than 600 species of aquatic fungi exist, many with specific
+More than 600 species of [[aquatic-fungi-and-ingoldian-spores]] exist, many with specific
 morphological and physiological adaptations. [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] occur
 on almost all substrates in freshwater systems. Fungal biomass is
 usually greater than bacterial biomass on decomposing leaf litter in
@@ -84,35 +84,7 @@ aquatic ecosystems. Plant litter inputs into headwater streams can reach
 Terrestrial fungi entering streams are unable to macerate submerged
 resources. Aquatic fungal species with tetraradiate and sigmoid spores
 colonize plant litter more efficiently than rounded terrestrial spores
-adapted for wind dispersal. Decomposition rates are reduced in mixed-
+adapted for wind dispersal. [[dighton-litter-quality-fungal-decomposition-rates]] are reduced in mixed-
 species fungal assemblages compared to single species, attributed to
-production of antimicrobial compounds causing non-nutritional
+production of [[antimicrobial-compounds-mushroom-mycelium]] causing non-nutritional
 competition.
-
-Wood represents up to 20% of total plant litter input in streams, with
-residence time much greater than leaf litter. Despite lacking white and
-brown rot fungi typical of terrestrial ecosystems, lignolytic aquatic
-hyphomycetes of Tricladium, Anguillospora, and Dendrospora are dominant
-wood colonizers. Of 20 aquatic species examined, seven produced enzymes
-to degrade carboxymethyl cellulose, cellobiose, amylose, xylan,
-xylose, lignin, and pectin, while four more could utilize five or more
-resources.
-
-## Fungal Succession in Aquatic Decomposition
-
-Gessner et al. (1997) provide a conceptual model of interactions among
-internal controls ([[dighton-litter-quality-fungal-decomposition-rates]]), external controls (environmental
-variables), and fungal [[arbuscule-isolation-metabolic-activity-assays]] determining decomposition
-outcomes. Bacteria and fungi partition decomposition roles: bacteria
-access dissolved organic matter during early stages, while fungi enter
-intact structural components later. Within the fungal community,
-species with greater enzymatic capabilities dominate later stages of
-decomposition, utilizing more recalcitrant resources.
-
-## See Also
-
-- [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
-
-- freshwater-fungi-ingoldian-spores
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[dighton-fungal-roles-in-nutrient-cycling]]

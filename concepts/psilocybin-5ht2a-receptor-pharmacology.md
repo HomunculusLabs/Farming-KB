@@ -89,21 +89,5 @@ In patients with life-threatening cancer diagnoses, psilocybin produced signific
 
 Psilocybin's anti-addictive potential may involve 5-HT2A-mediated neuroplasticity in cortico-striatal circuits, strengthening prefrontal regulatory control over impulsive reward-seeking behavior. Alcohol use disorder and tobacco cessation trials have shown promising results.
 
-### Cluster Headache
-
-While not primarily a 5-HT2A-mediated effect, the broader serotonergic pharmacology of psilocybin has shown efficacy in aborting cluster headache cycles, suggesting a role for 5-HT1A/5-HT1D receptor subtypes that warrants further investigation.
-
-## Safety Considerations
-
-Despite psilocybin's favorable safety profile, 5-HT2A pharmacology warrants several clinical precautions:
-
-- **Cardiac valve risk**: Chronic 5-HT2B activation is associated with valvular heart disease (as seen with fenfluramine). While typical psilocybin use patterns do not pose this risk, chronic daily microdosing may warrant cardiac monitoring
-- **Psychosis vulnerability**: Individuals with personal or family history of psychotic disorders may be at elevated risk for psilocybin-induced psychotic episodes via 5-HT2A-mediated dopaminergic disinhibition in mesolimbic pathways
-- **Serotonin syndrome**: Theoretical risk when combined with MAOIs or other serotonergic agents; however, psilocin's partial agonism and rapid metabolism make this extremely rare at therapeutic doses
-
 ## See Also
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[powell-psilocybin-neuronal-pharmacology-synaptic-mechanisms]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
-- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]

@@ -9,7 +9,7 @@ created: 2026-05-10
 
 ## Overview
 
-Banana cultivation represents one of the most challenging applications for Actively Aerated Compost Tea (AACT), primarily due to the devastating soil-borne diseases that plague commercial banana production worldwide. Dr. Elaine Ingham addresses AACT applications for bananas and other tropical crops as part of her broader work on biological disease suppression, emphasizing that the key to success lies in establishing a fungal-dominated soil food web that outcompetes the pathogens responsible for Panama disease (Fusarium oxysporum f. sp. cubense) and Black Sigatoka (Mycosphaerella fijiensis).
+Banana cultivation represents one of the most challenging applications for [[actively-aerated-compost-tea]] Compost Tea (AACT), primarily due to the devastating soil-borne diseases that plague commercial banana production worldwide. Dr. Elaine Ingham addresses AACT applications for bananas and other tropical crops as part of her broader work on biological [[aact-disease-suppression-mechanisms-ingham]], emphasizing that the key to success lies in establishing a fungal-dominated soil food web that outcompetes the pathogens responsible for Panama disease ([[fusarium-oxysporum]] f. sp. cubense) and Black Sigatoka (Mycosphaerella fijiensis).
 
 ## The Banana Disease Crisis
 
@@ -28,7 +28,7 @@ The foundation of AACT-based banana production is restoring the soil food web to
 - Bananas are perennial plants that naturally associate with mycorrhizal fungi
 - Fusarium pathogens are themselves fungi; they are most effectively suppressed by other fungi that occupy the same ecological niches
 - Fungal-dominated soils have better soil structure, which improves drainage and reduces the waterlogged conditions that favor Fusarium spread
-- Mycorrhizal networks provide systemic disease resistance through induced defense responses
+- [[arbuscular-mycorrhizal-networks]] provide systemic disease resistance through induced defense responses
 
 ### 2. Foliar Application for Black Sigatoka
 
@@ -48,7 +48,7 @@ Soil drench applications of AACT directly inoculate the root zone with beneficia
 - Mycorrhizal fungi colonize banana roots, extending the effective root surface area for nutrient and water uptake
 - Beneficial fluorescent Pseudomonas bacteria produce antifungal compounds that suppress Fusarium
 - Trichoderma species directly parasitize Fusarium hyphae and compete for root exudate resources
-- Protozoa and nematodes cycle nutrients in the root zone, supporting plant nutrition
+- [[teaming-with-microbes-protozoa-and-nematodes]] cycle nutrients in the root zone, supporting plant nutrition
 
 ## Fungal-Dominant Tea Formulation
 
@@ -56,7 +56,7 @@ For banana production, Ingham recommends a fungal-dominant AACT recipe:
 
 **Base compost**: Use compost made from woody materials, leaf litter, and fungal foods. The compost should test high in fungal biomass (at least 10-20 micrograms per gram, ideally higher for bananas). Forest-floor compost or compost containing significant woody material works well.
 
-**Brewing ingredients for fungal dominance**:
+**[[aact-brewing-ingredients-ingham]] for fungal dominance**:
 
 - Compost: 2-3 cups per 5 gallons of water
 - Fish hydrolysate: 1 tablespoon (provides amino acids and fungal food)
@@ -87,42 +87,3 @@ For banana production, Ingham recommends a fungal-dominant AACT recipe:
 - Frequency: Every 7-14 days during high disease pressure periods
 
 ## Integration with Other Practices
-
-AACT should be part of an integrated banana management system:
-
-- **Ground cover**: Maintain diverse ground covers that support soil biology between banana plants
-- **Mulch**: Apply thick organic mulch (6-12 inches) to feed soil fungi and moderate soil temperature
-- **Minimal tillage**: Avoid disrupting mycorrhizal networks
-- **Disease monitoring**: Regular scouting for early symptoms of Panama disease and Black Sigatoka
-- **Clean planting material**: Use tissue-cultured plantlets free of Fusarium contamination
-- **Drainage management**: Ensure adequate drainage to prevent waterlogged conditions
-
-## Monitoring and Assessment
-
-Success with AACT in banana production should be monitored through:
-
-- **Soil biology testing**: Regular microscopic assessment of bacterial and fungal biomass
-- **Disease incidence**: Track progression of foliar and soil-borne diseases
-- **Yield data**: Compare bunch weight and fruit quality with untreated controls
-- **Soil structure**: Observe improvements in aggregation, drainage, and root penetration
-- **Plant health indicators**: Leaf color, root mass, and pseudostem strength
-
-## Tropical Beyond Bananas
-
-The principles established for banana AACT applications extend to other tropical crops facing similar disease challenges:
-
-- **Papaya**: Papaya ringspot virus and Phytophthora root rot
-- **Citrus**: Citrus greening (HLB) and Phytophthora
-- **Coffee**: Coffee leaf rust and nematodes
-- **Cacao**: Black pod disease (Phytophthora palmivora)
-- **Mango**: Anthracnose and powdery mildew
-
-In all cases, the fundamental approach remains: establish a diverse, fungal-dominated soil food web that provides natural disease suppression through competition, antibiosis, and induced plant defenses.
-
-## See Also
-
-- [[aact-fungal-dominant-tea]]
-- [[aact-disease-suppression-mechanisms-ingham]]
-- [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]]

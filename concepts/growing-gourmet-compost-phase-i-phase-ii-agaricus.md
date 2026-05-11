@@ -88,32 +88,3 @@ from simply pasteurized organic matter.
 ### Phase II Completion Indicators
 
 Phase II is complete when free ammonia levels drop below 5 ppm with no
-detectable ammonia odor. Moisture should be 65 to 68% and pH should have
-fallen to 6.8 to 7.2. The compost develops a sweet earthy aroma. At this
-point the compost is ready for [[spawn-production]] and spawning.
-
-## Common Problems
-
-- **Incomplete Phase I**: Straw remains tough, causing poor water retention
-- **Over-composting**: Excessive decomposition exhausts nutrients and reduces
-  yields. Compost becomes dark, slimy, and waterlogged
-- **Ammonia carryover**: Residual ammonia from insufficient Phase II
-  conditioning kills Agaricus mycelium upon spawning
-- **Anaerobic conditions**: Poor aeration produces hydrogen sulfide and
-  volatile fatty acids that inhibit [[pf-tek-mushroom-growth-timeline]]
-- **Temperature overshoot**: Exceeding 145 degrees Fahrenheit during Phase II
-  kills beneficial thermophiles and slows conditioning
-
-## Modern Innovations
-
-Bulk composting tunnels use enclosed computer-controlled systems that process
-compost more efficiently with better air circulation and precise temperature
-management. [[mushroom-delayed-release-supplements]] supplements added after Phase II boost nitrogen
-without competing with Phase II microbial processes. Mechanical forced-air
-systems can complete Phase I in 5 to 7 days versus the traditional 14 days.
-
-## See Also
-
-- [[growing-gourmet-casing-soils-mushroom-cultivation]]
-- [[growing-gourmet-substrate-preparation]]
-- [[decomposition]]

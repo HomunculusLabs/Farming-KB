@@ -11,7 +11,7 @@ type: concept
 # Cannabis Extraction Solvents
 
 Solvent-based extraction is the most common industrial method for producing
-cannabis concentrates. A solvent dissolves cannabinoids, terpenes, and other
+[[cannabis-concentrates-and-extracts]]. A solvent dissolves cannabinoids, terpenes, and other
 desirable compounds from plant material, and is then removed (purged) to leave
 behind a concentrated extract. The choice of solvent profoundly affects the
 quality, safety, and character of the final product.
@@ -29,7 +29,7 @@ waxes, and plant pigments. Key considerations include:
 - **Toxicity**: Residual solvent limits are strictly regulated in legal
   cannabis markets
 - **Selectivity**: The ability to target specific compound classes
-- **Flammability**: Safety considerations for large-scale production
+- **Flammability**: [[ayahuasca-tourism-practitioners-and-safety-considerations]] for large-scale production
 
 ## Ethanol Extraction
 
@@ -56,7 +56,7 @@ some of the most flavorful and potent cannabis concentrates available. These
 light hydrocarbons are highly nonpolar and extremely selective for cannabinoids
 and terpenes, producing extracts with exceptional flavor and aroma profiles.
 
-Butane Hash Oil (BHO) and its refined forms (shatter, wax, budder, live resin)
+Butane Hash Oil (BHO) and its refined forms (shatter, wax, budder, [[live-resin-processing]])
 dominate the premium concentrate market. The low boiling point of butane
 (-1C) and propane (-42C) allows for gentle purging at low temperatures,
 preserving delicate terpenes that would be lost with higher-temperature
@@ -64,12 +64,12 @@ methods.
 
 Safety is the primary concern with hydrocarbon extraction. Butane is highly
 flammable and its use requires specialized closed-loop equipment, proper
-ventilation, and strict adherence to safety protocols. Amateur extraction
+ventilation, and strict adherence to [[mushroom-edibility-testing-safety-protocols]]. Amateur extraction
 attempts have caused numerous explosions and injuries.
 
 ## Supercritical CO2 Extraction
 
-Supercritical carbon dioxide extraction uses CO2 that has been pressurized and
+Supercritical [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] extraction uses CO2 that has been pressurized and
 heated above its critical point (31.1C, 1071 psi), where it exhibits
 properties of both a liquid and a gas. This unique state allows tunable
 selectivity by adjusting temperature and pressure parameters.
@@ -88,12 +88,3 @@ fractional collection and terpene reintroduction.
 Regardless of the primary solvent used, most extraction processes produce
 crude extracts containing plant waxes and lipids. Winterization dissolves the
 crude extract in ethanol and freezes it (typically -20C to -80C for 24-72
-hours), causing waxes to precipitate out. The solution is then filtered to
-remove the solidified waxes, leaving a cleaner extract.
-
-## See Also
-
-- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
-- [[cannabis-alchemy-overview]]
-- [[rosin-pressing-technology]]
-- [[hashish-production-methods]]

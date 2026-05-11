@@ -87,36 +87,3 @@ Psilocybin levels are nearly always at least twice the level of psilocin.
 This ratio is consistent [[psilocin-accumulation-pattern-across-flushes]], even as both compounds vary independently.
 
 The relatively constant ratio suggests that psilocin production is stoichiometrically linked to psilocybin availability.
-
-Psilocybin appears to serve as a stable storage form.
-
-Psilocin, being the active compound, may be maintained at lower levels as a regulatory mechanism.
-
-## Street Sample Comparison
-
-Five street samples of *P. cubensis* were analyzed.
-
-All showed consistently low psilocin levels (0–0.3 mg/g), regardless of psilocybin content.
-
-This is consistent with the finding that early-flush mushrooms have low psilocin.
-
-Street samples likely come from early flushes harvested for maximum yield rather than peak potency.
-
-## Implications for Pharmacology
-
-The delayed emergence of psilocin has implications for understanding the pharmacology of *P. cubensis*:
-
-- First-flush mushrooms may produce different subjective effects due to the psilocybin-to-psilocin ratio
-- Later flushes may have proportionally more rapid onset due to higher psilocin content
-- The total psychoactive potential may increase across flushes even if psilocybin alone does not
-- Freeze-drying immediately after harvest preserves the alkaloid profile at the time of harvest
-
-## See Also
-
-- [[psilocybin-variation-across-flushes]]
-
-- [[psilocybin-vs-psilocin-distribution-cap-stem]]
-
-## Sources
-
-- Bigwood, J. & Beug, M.W. (1982). Variation of Psilocybin and Psilocin Levels with Repeated Flushes. Journal of Ethnopharmacology, 5, 287–291.

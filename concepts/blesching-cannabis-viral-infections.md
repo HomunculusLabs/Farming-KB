@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Viral Infections (General)"
+title: Blesching Cannabis Viral Infections
 created: 2026-04-26
 tags:
   - cannabis
@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-From The [[blesching-cannabis-health-index-autoimmune-conditions]], Blesching reports a combined CHI value of
+From The [[blesching-cannabis-health-index-autoimmune-conditions]], Blesching reports a combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of
 31 from 15 [[bacterial-plant-diseases]] studies reviewed, representing one of the
 stronger evidence bases in the book for any single category.
 
@@ -76,7 +76,7 @@ cannabinoid therapy:
 - Flu (influenza virus)
 - Hepatitis A, B, C
 - Human papilloma virus (HPV)
-- Herpes simplex virus (HSV 1 and 2)
+- [[cannabis-antiviral-herpes-simplex-blesching]] virus (HSV 1 and 2)
 - Kaposi's sarcoma (herpes virus 8)
 - Measles (rubella virus)
 - Meningitis
@@ -88,58 +88,3 @@ cannabinoid therapy:
 - Rubella virus
 - Shingles (Herpes zoster virus)
 - Smallpox virus
-- Yellow fever virus
-
-## Mind-Body Medicine and Viral Infections
-
-A review and analysis of psychosomatic studies published since 1939 shows
-that negative emotions, hostility, and stressful experiences directly
-influence pro-inflammatory cytokine production, which is associated with
-slower healing and acceleration of age-related illness.
-
-In every epidemic, there are people who do not get ill. While it is clear
-that pathogens such as viruses play a part in the contraction of disease,
-pathogens are not the sole cause. Mental-emotional states directly affect
-the immune system and may induce susceptibility or vulnerability to
-disease, and they are also capable of initiating a formidable defense and
-rapid immune response.
-
-[[blesching-cannabis-infectious-agents-cancer]] are more likely to result in disease whenever negative
-affect is present, because negative emotional and mental states are
-resource-intensive and deplete the reserves that protect immunity. Greater
-risk of disease occurs with chronic lack of support, insecurity, mistrust,
-fear, mental or emotional defenselessness, victimization, powerlessness,
-or a violation of personal boundaries.
-
-Conversely, a balanced and powerful immunity results from the experience
-of emotional support, safety, security, trust, love, intimacy, functional
-coping mechanisms, confidence, and belief in one's inner strength and
-abilities.
-
-## Supporting Antiviral Foods and Herbs
-
-- **Acacia**: Aqueous extract of acacia pods is effective in vitro
-  against the viral enzyme reverse transcriptase.
-- **Basil**: Extracts exhibit broad-spectrum antiviral activity against
-  DNA viruses (herpes, adenoviruses, hepatitis B) and RNA viruses
-  (coxsackievirus B1, enterovirus 71).
-- **Cardamom**: Cineole showed promise in treating vaginal herpes
-  infections in laboratory studies.
-- **Clove**: Eugenine inhibits viral DNA synthesis in several strains of
-  herpes, including acyclovir-resistant strains.
-- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] can inactivate enveloped viruses.
-- **Turmeric**: Curcumin significantly decreases HSV-1 infectivity and
-  gene expression.
-
-## Related Topics
-
-- [[blesching-cannabis-hepatitis]] - Cannabis for hepatitis A, B, and C
-- [[blesching-cannabis-encephalitis]] - Cannabis for viral encephalitis
-- [[blesching-cannabis-fever-temperature-regulation]] - Fever as an
-  antiviral immune response
-- [[endocannabinoid-system-overview]] - ECS role in antiviral
-  defense
-
-## See Also
-
-- [[cannabis-for-viral-infections]]

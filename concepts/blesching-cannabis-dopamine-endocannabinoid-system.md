@@ -1,5 +1,5 @@
 ---
-title: "Dopamine and the Endocannabinoid System"
+title: Blesching Cannabis Dopamine Endocannabinoid System
 created: 2026-04-26
 tags: [dopamine, endocannabinoid-system, neuroscience, reward-pathways, parkinsons]
 date: 2026-04-25
@@ -14,7 +14,7 @@ type: concept
 Dopamine is one of the most studied neurotransmitters in the brain, central
 to motivation, reward, motor control, and pleasure. In "The Cannabis Health
 Index," [[cannabis-endocannabinoid-system]] (ECS),
-showing how cannabinoid receptors modulate dopamine release across multiple
+showing how [[cannabinoid-receptors-cb1-and-cb2]] modulate dopamine release across multiple
 brain regions.
 
 ## The Dopamine-Endocannabinoid Interface
@@ -38,11 +38,11 @@ and blesching [[cervantes-cannabis-tolerance-addiction-pharmacology]] dependence
 The mesolimbic dopamine pathway, running from the VTA to the nucleus
 accumbens, is the brain's primary reward circuit. Endocannabinoids act as
 retrograde signaling molecules that modulate synaptic transmission within
-this pathway. Anandamide (AEA) levels in the VTA directly influence dopamine
+this pathway. [[anandamide]] (AEA) levels in the VTA directly influence dopamine
 firing rates and thus motivational states.
 
 Blesching notes that the ECS fine-tunes reward sensitivity. Too little
-endocannabinoid signaling may result in anhedonia (inability to feel
+[[2-ag-endocannabinoid-signaling-blesching]] may result in anhedonia (inability to feel
 pleasure), while excessive signaling -- particularly from exogenous
 cannabinoids like THC -- can dysregulate the natural reward system. This
 has profound implications for understanding both substance use disorders and
@@ -88,19 +88,3 @@ addiction while harnessing therapeutic benefits.
 | ADHD | PFC dopamine dysregulation | CBD modulation of tone |
 | Parkinson's | Nigral neuron loss | Neuroprotection via CB1 |
 | Addiction | Reward circuit hijacking | CB1 modulation of DA release |
-| Depression | Mesolimbic hypoactivity | Anandamide augmentation |
-| Psychosis | Excessive DA signaling | CBD antipsychotic properties |
-
-## Related Topics
-
-- blesching [[blesching-cannabis-endocannabinoid-mind-body]] system
-- blesching cannabis neurotransmitters and cannabinoids
-- [[blesching-cannabis-adhd]]
-
-## See Also
-
-- [[2-ag-endocannabinoid-signaling-blesching]]
-
-- [[n-arachidonoyl-dopamine-nada]]
-
-- [[blesching-cannabis-acetylcholine-memory-learning]]

@@ -8,13 +8,13 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 ---
 # alpha-O-DMS (5-Methoxy-alpha-Methyltryptamine)
 
-alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent synthetic tryptamine compound documented by agar waiting to provide nutrition to whatever was to be introduced into it, but there was no inoculation." The experience was largely physical without sensory, perceptual, or conceptual events. A slight headache appeared the next morning, resolving by noon.
+alpha-O-DMS, also known as 5-methoxy-alpha-methyltryptamine or alpha,O-dimethylserotonin, is a potent [[synthetic-tryptamine-methods]] compound documented by agar waiting to provide nutrition to whatever was to be introduced into it, but there was no inoculation." The experience was largely physical without sensory, perceptual, or conceptual events. A slight headache appeared the next morning, resolving by noon.
 
 At 2.5 mg orally, onset was gradual. After about 40 minutes, mild nausea appeared lasting a couple of hours, manageable through concentration. As the nausea subsided, a warm glow and centered feeling emerged. The experience was described as persistent and tenacious - the most tenacious substance the subject had taken, with difficulty achieving sleep until approximately 2 AM despite onset in the morning. The next day brought lingering languidity. The subject expressed little enthusiasm about repeating the experience.
 
 ## Pharmacology
 
-The compound's extreme potency and long duration are consistent with both the 5-methoxy substitution (which increases serotonin receptor affinity and oral bioavailability) and the alpha-methyl group (which provides MAO resistance, extending the half-life significantly).
+The compound's extreme potency and long duration are consistent with both the 5-methoxy substitution (which increases [[serotonin-receptor-interference-psychedelic-mechanism]] affinity [[first-pass-metabolism-and-oral-bioavailability]]) and the alpha-methyl group (which provides MAO resistance, extending the half-life significantly).
 
 The gastrointestinal effects (diarrhea, nausea) suggest significant 5-HT3 receptor activation or other serotonergic mechanisms affecting the enteric nervous system. These physical side effects appear to be dose-dependent and represent a significant drawback to the compound's utility.
 
@@ -22,7 +22,7 @@ The long duration of 12-18 hours, while partly attributable to MAO resistance fr
 
 ## Extensions and Commentary
 
-Shulgin noted that alpha-O-DMS represents a fascinating pharmacological puzzle. The combination of a 5-methoxy group with an alpha-methyl group on the tryptamine skeleton produces a compound that is among the most potent in the entire series, yet the subjective experience is often dominated by physical discomfort rather than the rich psychedelic imagery associated with compounds like [[5-meo-dmt-entity-tihkal]] (5-methoxy-N,N-dimethyltryptamine) - the simpler 5-methoxy tryptamine without the alpha-methyl group.
+Shulgin noted that alpha-O-DMS represents a fascinating pharmacological puzzle. The combination of a 5-methoxy group with an alpha-methyl group on the tryptamine skeleton produces a compound that is among the most potent in the entire series, yet the [[dosage-unpredictability-psilocybin-subjective-experience]] is often dominated by physical discomfort rather than the rich psychedelic imagery associated with compounds like [[5-meo-dmt-entity-tihkal]] (5-methoxy-N,N-dimethyltryptamine) - the simpler 5-methoxy tryptamine without the alpha-methyl group.
 
 [[amt-entity-tihkal]] (alpha,N-dimethyltryptamine) - the N-methylated analogue.
 
@@ -38,7 +38,7 @@ Alpha-O-DMS was one of the most potent orally active tryptamines documented in T
 
 ## Modern Significance
 
-Alpha-O-DMS remains one of the most powerful oral tryptamines known, and its exceptional potency and long duration make it a compound of theoretical interest in receptor pharmacology. The combination of alpha-methyl protection from MAO with 5-methoxy receptor affinity represents a pharmacological "double advantage" that has informed modern drug design strategies.
+Alpha-O-DMS remains one of the most powerful oral tryptamines known, and its exceptional potency and long duration make it a compound of theoretical interest in [[cannabinoid-receptor-pharmacology]]. The combination of alpha-methyl protection from MAO with 5-methoxy receptor affinity represents a pharmacological "double advantage" that has informed modern drug [[mollison-designers-snow-ice-and-winter-design-strategies]].
 
 ## Additional References
 
@@ -88,18 +88,3 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[dimethyltryptamine]]

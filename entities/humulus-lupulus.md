@@ -10,7 +10,7 @@ tags:
   - medicinal-herb
   - bittering-agent
   - aromatherapy
-  - permaculture
+  - [[permaculture]]
   - climbing-vine
   - lupulin
   - alpha-acids
@@ -57,7 +57,7 @@ emerging permaculture applications as a fast-growing vertical element.
   composed of overlapping bracts and bracteoles; pale green to yellow when
   mature, papery when dried
 - **Lupulin glands:** Yellow, resinous, powder-like granules found at the base
-  of bracteoles; contain the bitter acids and essential oils
+  of bracteoles; contain the bitter acids and [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - **Roots:** Deep, rhizomatous crown system; perennial; can spread aggressively
   if not managed
 
@@ -68,9 +68,9 @@ emerging permaculture applications as a fast-growing vertical element.
   antimicrobial, especially against Gram-positive bacteria
 - **Beta acids (lupulones):** Lupulone, colupulone, adlupulone; 2–6% dry weight;
   contribute to beer foam stability and have antibiotic properties
-- **Essential oils (0.5–3%):** Myrcene (herbal, floral), humulene (earthy,
-  woody), caryophyllene (spicy), farnesene (fruity), linalool (floral),
-  geraniol (citrus); composition defines hop aroma character
+- **Essential oils (0.5–3%):** [[myrcene]] (herbal, floral), [[humulene]] (earthy,
+  woody), caryophyllene (spicy), farnesene (fruity), [[linalool]] (floral),
+  [[geraniol]] (citrus); composition defines hop aroma character
 - **Prenylated flavonoids:** Xanthohumol (most abundant; 0.1–1%); 8-prenylnaringenin
   (potent phytoestrogen); desmethylxanthohumol
 - **Tannins:** Provide astringency and aid protein coagulation in brewing
@@ -88,57 +88,3 @@ emerging permaculture applications as a fast-growing vertical element.
   bitters formulations for dyspepsia and indigestion
 - **Antimicrobial:** Alpha and beta acids inhibit growth of bacteria and some
   fungi; basis for beer preservation and topical antimicrobial applications
-- **Anti-inflammatory and anticancer:** Xanthohumol shows anti-inflammatory,
-  antioxidant, and chemopreventive activity in preclinical studies; research is
-  ongoing
-- **Antispasmodic:** Reduces intestinal cramping and smooth muscle spasm
-
-## Brewing Applications
-
-- **Bittering:** Added early in the boil (60–90 min) to isomerize alpha acids
-  into iso-alpha acids; measured in International Bitterness Units (IBU)
-- **Aroma (dry hopping):** Added late in the boil, in the whirlpool, or after
-  fermentation to impart volatile aromatic compounds without significant
-  bitterness extraction
-- **Flavor:** Mid-boil additions contribute both bitterness and flavor complexity
-- **Preservation:** Alpha acids inhibit spoilage organisms; historically allowed
-  beer to be stored and transported long distances
-- **Major cultivar groups:** Noble hops (Hallertau, Tettnang, Saaz, Spalter),
-  American (Cascade, Centennial, Citra, Mosaic, Simcoe), English (Fuggle,
-  East Kent Goldings), New Zealand (Nelson Sauvin, Motueka)
-
-## Cultivation and Permaculture Applications
-
-- **Hardiness:** USDA zones 3–8; requires a cold dormancy period for optimal
-  growth
-- **Soil:** Deep, fertile, well-drained loam, pH 6.0–7.5; heavy nitrogen feeder
-- **Light:** Full sun (6+ hours daily); shade reduces cone production significantly
-- **Propagation:** Rhizome division in [[coleman-overwintered-onions-and-early-spring-crops]]; softwood cuttings; tissue
-  culture for commercial cultivars
-- **Support:** Requires trellis, fence, or pole structure (4–6 m height);
-  bines grow 15–30 cm per day at peak season
-- **Harvest:** Late summer (August–September in Northern Hemisphere); cones are
-  ready when papery, dry, and spring back when compressed
-- **Permaculture role:** Rapid vertical biomass producer for shade, privacy
-  screens, and trellis systems; edible shoots in spring (prepared like
-  asparagus); chop-and-drop mulch; wildlife habitat
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Beneficial with cannabis (related family), beans,
-  and corn; may inhibit some vegetable growth due to allelopathic compounds
-
-## Safety and Contraindications
-
-- Generally safe in food and beverage amounts; medicinal doses should be
-  moderated
-- Avoid during pregnancy (uterine stimulant effects from phytoestrogens)
-- May worsen depression in susceptible individuals (sedative compounds)
-- Handle fresh hops with care — contact dermatitis reported in some
-  agricultural workers (hop harvester's dermatitis)
-- Potential interaction with sedative medications, CNS depressants, and
-  hormone-sensitive conditions
-
-## See Also
-
-- [[cannabis-sativa]] — sister genus in Cannabaceae with overlapping
-  phytochemistry
-- [[piper-nigrum-entity]] — complementary bittering and aromatic spice
-- [[melissa-officinalis]] — calming companion herb for sleep formulations

@@ -87,33 +87,3 @@ The basic principle: cardboard or newspaper smothers existing vegetation (especi
 6. **Persistent weeds:** Bindweed, quackgrass, and other aggressive rhizomatous weeds may survive. Remove as much root as possible before sheet mulching, or accept that some management will be needed
 
 ## Variations
-
-- **Lasagna gardening:** Similar technique using alternating layers of "green" (nitrogen-rich) and "brown" (carbon-rich) materials
-- **Hugelkultur beds:** Sheet mulch over a core of logs and branches for long-term fertility and water retention
-- **Instant garden beds:** Use bagged compost and mulch directly on cardboard for apartment balcony gardens
-- **Path mulching:** Sheet mulch pathways with cardboard and wood chips to suppress weeds
-
-## Sheet Mulch Materials Guide
-
-| Material | Role | Notes |
-|----------|------|-------|
-| Cardboard | Weed barrier | Brown corrugated only; remove all tape/staples |
-| Newspaper | Weed barrier | 6-10 sheets; black-and-white only |
-| Finished compost | Nutrients, microbes | The planting layer |
-| Composted manure | Nitrogen | Use aged only (fresh burns plants) |
-| Leaves | Mulch | Free, abundant in fall; excellent all-purpose mulch |
-| Straw | Mulch | Seed-free; avoid hay (contains seeds) |
-| Wood chips | Mulch, long-term | Best for paths and around trees; don't mix into soil |
-| Grass clippings | Nitrogen layer | Thin layers only; thick layers mat and go anaerobic |
-
-## See Also
-
-- [[gaias-garden-sheet-mulching-guide]]
-- faires-hugelkultur-and-soil-building
-- [[mulching-guide]]
-- mollison-mulching-and-soil-health
-- [[herb-spiral-microclimate-design]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapters 4-6

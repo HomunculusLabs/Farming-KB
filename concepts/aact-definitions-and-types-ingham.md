@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -86,33 +87,3 @@ From a biological perspective, people are not that different from plants. Both n
 - Recognition that pathogens are out-competed and eliminated all the time by appropriate biological processes
 
 AACT works by re-establishing these natural biological protection systems on plant surfaces and in soil.
-
-See also: [[compost-tea-brewing]], [[compost-tea-recipe-guide]], [[aact-brewing-ingredients-ingham]]
-- [[ingham-anaerobic-vs-aerobic-compost-tea]]
-
-## Practical Context
-Aact Definitions And Types (ingham) is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related
-
-- [[lactic-acid-bacteria]]
-- [[vermicomposting]]
-- [[aact-aeration-oxygen-management-ingham]]

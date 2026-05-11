@@ -1,5 +1,5 @@
 ---
-title: mollison trophic pyramids food webs and energy cycling, Food Webs, and permaculture-energy-cycling-and-resource-efficiency
+title: Mollison Trophic Pyramids Food Webs And Energy Cycling
 created: 2026-04-26
 tags:
   - permaculture
@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -36,7 +37,7 @@ simplistic model.
 ## Nature Is More Complex Than a Pyramid
 
 Nature is much more complex than shown in a pyramid. Instead of
-simple "trophic levels", we have a complex interaction of the same
+simple "[[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]", we have a complex interaction of the same
 species, largely governed not by food habits, but by pasture
 management practices. Such a complex diagram is called a food web, and
 is the normality in field conditions.
@@ -78,7 +79,7 @@ to efficiently crop any level just before maturity is reached.
 Old organisms become constant recyclers (food in, waste out) and
 cease to grow, or they even begin to lose weight. This is why we try
 to use only young and growing plants and animals for food, if food is
-scarce. An exception is a fruit or nut tree, where we consume seed or
+scarce. An exception is a fruit or [[nut-tree-cultivation-for-permaculture-food-forests]], where we consume seed or
 fruit (seed is an immature tree).
 
 ## Animals Convert Inedible Vegetation
@@ -87,55 +88,3 @@ Deer, rabbits, sheep, and herbivorous fish are very useful to us, in
 that they convert otherwise unusable herbage to acceptable human food.
 Animals represent a valid method of storing inedible vegetation as
 food. If we convert all vegetation to edible species, we assume a
-human priority that is unsustainable, and must destroy other plants
-and animals to do so.
-
-Life systems are a web or cyclic system rather than a pyramid. The
-urban western vegetarian diet relies heavily on grains and grain
-legumes such as soya beans. To cook these foods requires large
-quantities of wood and fossil fuels. Soya beans are grown on rich
-bottomland soils in large monocultural operations, causing more
-deforestation than almost any other crop.
-
-## Energy Accounting in Design
-
-Mollison insists that designers must always do careful energy
-accounting. The energy stored by extinct life as coal, oil, and gas
-is being used at rates that far exceed the energy stored by living
-systems. A sustainable permaculture system must account for all
-energy flows, ensuring that outputs are recycled as inputs within the
-system wherever possible.
-
-The flow of energy through old systems has a design defect: that
-flow of energy through the system is less. Therefore, any system that
-reduces the flow of energy is a system that reduces the potential of
-the system to do work.
-
-## Permaculture Implications
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], food web thinking replaces pyramid thinking:
-
-- **Recycle all wastes** back into productive systems rather than
-  treating them as endpoints of a linear chain.
-
-- **Integrate animals** as converters of inedible biomass and
-  recyclers of nutrients, not merely as consumers at a pyramid apex.
-
-- **Design for feedback** so that every output becomes an input
-  elsewhere in the system.
-
-- **Harvest at peak growth** to maximise the energy captured from the
-  system while maintaining its regenerative capacity.
-
-- **Create complex polycultures** that mirror the web-like
-  interconnections of natural ecosystems rather than the simplified
-  layers of a trophic pyramid.
-
-## See Also
-
-- [[mollison-animal-integration-permaculture-design]]
-- mollison-plant-stacking-and-interaction
-- [[soil-food-web]]
-- [[permaculture-design]]
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- [[fungal-roles-soil-food-webs]]

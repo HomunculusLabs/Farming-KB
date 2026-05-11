@@ -77,3 +77,20 @@ freezing extending that time through winter when laying naturally decreases.
 This integration transforms what would be separate management tasks into a
 unified system that is more productive, more resilient, and less labor-
 intensive than managing each element independently.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-duck-orchard-integration]]
+- [[hemenway-chicken-tractor-and-poultry-integration]]
+- [[faires-livestock-integration-permaculture]]
+- [[pig-husbandry-and-permaculture-integration]]
+- [[fukuoka-morishima-acacia-orchard-integration]]

@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,30 +88,3 @@ breeder can directly compare the performance of each male's progeny.
 Controlled crosses using the same female parents ensure that
 differences observed in the offspring are attributable to the male
 parent rather than variation among the mothers.
-
-This approach requires maintaining multiple pollen samples and
-organizing crosses carefully to avoid contamination. Each cross should
-be labeled and tracked separately so that the parentage of every
-progeny group is known with certainty.
-
-## Using Clone Copies for Testing
-
-An efficient strategy is to maintain clone copies of potential male
-parents while conducting progeny tests. If a male proves to be an
-excellent genetic contributor through its progeny, the breeder can
-return to the preserved clone for additional crosses. This avoids the
-risk of losing valuable genetics while waiting for [[interpreting-soil-test-results]].
-
-## Combining Progeny Testing with Other Methods
-
-Progeny testing can be combined with other breeding strategies for
-maximum efficiency. When breeding cross-pollinators, hybrid performance
-is discussed in terms of combining ability. The progenies are tested for
-performance as populations and related back to the parental generation.
-
-The best breeding programs use progeny testing as part of a larger
-framework that includes careful female selection, controlled
-pollination, and multi-generational evaluation. See
-[[cannabis-genetics-and-breeding]] - [[cannabis-breeding-fundamentals]]
-- [[cervantes-backcross-breeding-methods]] - Backcross strategies
-- [[cervantes-seed-population-types-ibl-hybrid]] - Population types

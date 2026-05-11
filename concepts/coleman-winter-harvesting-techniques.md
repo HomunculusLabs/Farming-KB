@@ -1,7 +1,7 @@
 ---
 title: Winter water-harvesting-techniques-comparison
 created: 2026-04-26
-sources: The Winter Harvest Handbook, Eliot Coleman (2009), Chapter 15
+sources: The cold-house-winter-harvest-system Handbook, eliot-coleman (2009), Chapter 15
 tags:
   - coleman-post-harvest-handling-and-storage
   - winter-harvest
@@ -19,20 +19,20 @@ updated: 2026-04-26
 Winter harvesting from [[coleman-four-season-farm]] are Mondays and Thursdays. Winter
 crops are delivered to stores and restaurants either late those
 afternoons or early the following mornings. In cold-climate areas
-with unheated greenhouses, a flexible schedule on coleman winter harvesting techniques is
+with unheated greenhouses, a flexible schedule on [[coleman-winter-carrots]] harvesting techniques is
 often necessary.
 
 After a below-zero night, harvesting must start late in the
 unheated houses because the crew must wait until the interior air
 temperature warms above 32 degrees Fahrenheit. Even on the coldest
-days, a harvest window from 10:00 AM until 3:00 PM can usually be
+days, a [[harvest-window-cannabis]] from 10:00 AM until 3:00 PM can usually be
 counted on. Before 10:00 AM everything is still thawing, and after
 3:00 PM it starts to freeze up again.
 
 Having at least one cool (heated) greenhouse pays for itself in
-harvest efficiency. The crew can begin harvesting salad crops there
+harvest efficiency. The crew can begin harvesting [[salad-crops-growing-guide]] there
 in the early morning, then move to the cold houses, and return to
-the cool house to harvest radishes and turnips in late afternoon,
+the [[coleman-cool-house-minimal-supplementary-heat]] to harvest radishes and turnips in late afternoon,
 effectively extending the usable harvest window.
 
 ## Staying Warm While Working
@@ -88,51 +88,3 @@ mixed in a custom-built rotating barrel.
 The mixer is a barrel 48 inches long and 36 inches in diameter,
 made of wood slats with plywood ends, mounted horizontally in a
 frame with a turning handle. The barrel is divided into two
-hinged halves that open like a clamshell, earning it the name "Pac
-Man." The bottom half holds up to 80 pounds of salad. After
-closing and latching the top half, ten slow revolutions in each
-direction (clockwise and counterclockwise) produce a gentle but
-thorough mix. Inside the barrel, ingredients are raised and gently
-dropped repeatedly, achieving uniform mixing without bruising.
-
-## Working Efficiently
-
-The original labor force of two (Coleman and his wife Barbara)
-has expanded to five employees in summer (fewer in winter), but
-the same high [[aact-compost-quality-standards-ingham]] are maintained. Constant analysis
-of the harvesting, washing, and packing operation identifies
-efficiency improvements. For example, installing larger-diameter
-pipes for filling and draining sinks and raising water pressure
-cut by 75 percent the time required to drain and refill sinks
-between washing different leaf types.
-
-For maximum efficiency, sinks need to be in continual use. One
-person begins washing as soon as the first buckets of salad are
-harvested. Speed of work is essential: harvest requires quick
-hands, a quick mind, and a no-nonsense attitude. New employees
-are carefully instructed on quality checking and the required pace.
-
-## Small-Scale Harvest Equipment
-
-Johnny's Selected Seeds designed and sells a human-powered harvester
-for baby-leaf salads called the Greens Harvester. It consists of a
-cloth basket collector mounted behind a bow-saw frame holding a
-scalloped knife blade. Coleman has also been working on a
-battery-powered hand harvester for smaller growers, envisioning a
-tool that is light enough for one-hand use, easy to carry, adjustable
-for different cutting heights, wide enough to cover half of a
-30-inch bed, and reasonably priced. Small growers would greatly
-benefit from such a tool.
-
-## The Importance of the Planting Schedule
-
-Coleman stresses that the most important skill for assuring
-bountiful and timely harvests is keeping careful notes on
-seed-to-harvest days throughout the year and preparing from them
-a day-by-day coleman-planting-schedules. Since products cannot be created
-## See Also
-- [[eliot-coleman]]
-- [[coleman-winter-greens-variety-selection]]
-- [[coleman-soil-preparation-for-winter]]
-- [[coleman-backwards-farm-winter-only-summer-fallow]]
-- [[coleman-winter-harvest-washing-and-packing]]

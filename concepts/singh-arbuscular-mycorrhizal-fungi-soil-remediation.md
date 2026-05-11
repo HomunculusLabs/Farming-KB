@@ -12,20 +12,20 @@ type: concept
 # Arbuscular mycorrhizal-symbiosis, associating with approximately
 two-thirds of all plant species. In the context of bioremediation, AMF
 play critical roles in phytostabilization and phytoextraction of
-contaminated soils by enhancing plant tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and
+[[fungal-competition-survival-contaminated-soils]] by enhancing plant tolerance to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and
 other pollutants. Singh's review extensively documents the role of
-arbuscular mycorrhizal associations in metal-contaminated environments.
+arbuscular [[plants-without-mycorrhizal-associations]] in metal-contaminated environments.
 
 ## Taxonomy and Distribution
 
-Arbuscular mycorrhizal fungi are the most abundant of the three
+[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are the most abundant of the three
 [[arbuscular-mycorrhizal-fungi]]
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]
 - [[fungal-indicators-soil-quality-ecosystem-health]]
 - glomalin metal sequestration
 ## Practical Applications
 
-Arbuscular Mycorrhizal Fungi in Soil Remediation has a range of practical applications that make it relevant to
+Arbuscular [[mycorrhizal-fungi-in-biogeochemical-cycling]] Soil Remediation has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -40,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,19 +88,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[singh-arbuscular-mycorrhizal-spore-identification]]

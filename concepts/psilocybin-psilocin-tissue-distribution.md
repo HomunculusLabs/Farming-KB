@@ -1,6 +1,6 @@
 ---
-title: [[hplc-analysis-of-psilocybin-and-psilocin]] Tissue Distribution
-aliases: [alkaloid distribution cap stem, psilocybin cap vs stem, psilocin tissue localization]
+title: [[analytical-methods-psilocybin-psilocin-quantification]] Tissue Distribution
+aliases: [[alkaloid-distribution-mushroom-caps-stems]] cap stem, psilocybin cap vs stem, psilocin tissue localization]
 tags: [mycology, psilocybin, psilocin, psilocybe-cubensis, alkaloid-distribution, cap-stem-analysis]
 created: 2026-05-10
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
@@ -39,7 +39,7 @@ Bigwood and Beug analyzed caps and stems separately from first-flush mushrooms o
 
 ### Psilocybin Concentration
 
-Two distinct distribution patterns were observed for psilocybin:
+Two distinct [[fungal-biogeography-distribution-patterns]] were observed for psilocybin:
 
 1. **Cap-enriched strains** (M.R. and Ecuadorian): Caps contained approximately 1.6× more psilocybin per gram dry weight than stems. In the M.R. strain, caps had 6.7 mg/g vs. stems at 4.2 mg/g. In the Ecuadorian strain, caps had 7.6 mg/g vs. stems at 4.7 mg/g.
 
@@ -63,9 +63,9 @@ The tissue-specific distribution patterns have several implications for understa
 
 ### Site of Synthesis
 
-The cap-enrichment of psilocybin in some strains is consistent with the gills (lamellae) of the pileus being a primary site of alkaloid biosynthesis. The gills contain the basidia — the spore-producing cells where meiosis occurs — and are metabolically active. If the biosynthetic pathway for psilocybin is most active in basidial tissue, higher concentrations in the cap would be expected.
+The cap-enrichment of psilocybin in some strains is consistent with the gills (lamellae) of the pileus being a primary site of alkaloid biosynthesis. The gills contain the basidia — the spore-producing cells where meiosis occurs — and are [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]. If the biosynthetic pathway for psilocybin is most active in basidial tissue, higher concentrations in the cap would be expected.
 
-However, the Amazon strain's equal distribution between cap and stem suggests that psilocybin synthesis can also occur in stipe tissue, or that psilocybin is efficiently transported from the cap to the stem in some strains.
+However, the Amazon strain's equal distribution between cap and stem suggests that [[acetyl-protection-route-psilocin-psilocybin-synthesis]] can also occur in stipe tissue, or that psilocybin is efficiently transported from the cap to the stem in some strains.
 
 ### Psilocin as a Conversion Product
 
@@ -77,7 +77,7 @@ The presence of psilocin exclusively in the stems of some strains (while absent 
 
 ### First-Flush Limitations
 
-These distribution data are from first-flush mushrooms only. Given that psilocin levels increase dramatically [[psilocin-emergence-in-later-flushes]] (see [[psilocybin-psilocin-flush-variation]]), the tissue distribution pattern may also change across flushes. It is possible that later-flush mushrooms have more psilocin in caps, or that the cap-stem ratio shifts as the culture ages.
+These distribution data are from first-flush mushrooms only. Given that psilocin levels increase dramatically [[psilocin-emergence-in-later-flushes]] (see [[psilocybin-psilocin-flush-variation]]), the tissue distribution pattern may also change [[psilocin-accumulation-pattern-across-flushes]]. It is possible that later-flush mushrooms have more psilocin in caps, or that the cap-stem ratio shifts as the culture ages.
 
 ## Analytical Methodology Considerations
 
@@ -87,44 +87,3 @@ The tissue-specific distribution has important implications for researchers meas
 - **Cap-only analysis**: Would give higher psilocybin readings for cap-enriched strains but might miss psilocin that is concentrated in stems.
 - **Stem-only analysis**: Would give lower psilocybin readings for cap-enriched strains but might show psilocin levels not detectable in cap tissue.
 - **Reporting standard**: Analytical studies should always specify whether they analyzed caps, stems, or whole mushrooms, and should report the cap-to-stem mass ratio of their samples.
-
-## Mass Balance Considerations
-
-The cap-to-stem mass ratio of *P. cubensis* affects the total alkaloid content of the whole mushroom:
-
-- In young mushrooms, the stem may constitute a larger proportion of total dry weight
-- In mature mushrooms, the cap expands and may constitute roughly equal mass to the stem
-- The stipe is typically more fibrous and has a higher dry-matter-to-fresh-weight ratio than the cap
-
-For the M.R. strain (first flush), if caps and stems contribute equally to total dry weight, the whole-mushroom psilocybin concentration would be approximately (6.7 + 4.2) / 2 = 5.45 mg/g. However, the actual value depends on the precise mass ratio.
-
-## Practical Implications
-
-### For Cultivation
-
-- Strain selection affects tissue-specific alkaloid distribution. Growers seeking maximum psilocybin concentration should note that some strains concentrate it in the cap
-- The presence of psilocin primarily in stems (in some strains) suggests that discarding stems during harvest reduces total alkaloid yield
-- Whole-mushroom drying and processing preserves the total alkaloid complement from both tissues
-
-### For Preparation
-
-- Caps and stems contribute different alkaloid profiles. Using only caps (as some users prefer for aesthetic reasons) may miss the psilocin contribution found in stems
-- The different distribution patterns between strains mean that generalizations about "caps being stronger than stems" are strain-dependent
-
-### For Research
-
-- Tissue-specific analysis is more informative than whole-mushroom analysis for understanding biosynthesis and localization
-- The genetic variability in distribution patterns (M.R./Ecuadorian vs. Amazon) makes strain identification and reporting essential
-- Future studies should analyze caps and stems separately across multiple flushes to build a complete picture of tissue-specific alkaloid dynamics
-
-## See Also
-
-- [[psilocybin-psilocin-flush-variation]]
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
-- [[oss-oeric-psilocybe-cubensis-strain-guide]] comparison
-- tryptamine alkaloid analysis HPLC
-
-## References
-
-- Bigwood, J. & Beug, M.W. (1982). Variation of psilocybin and psilocin levels with repeated flushes of mature sporocarps of *Psilocybe cubensis* (Earle) Singer. *Journal of Ethnopharmacology*, 5, 287–291.
-- Beug, M.W. & Bigwood, J. (1982). Psilocybin and psilocin levels in twenty species from seven genera of wild mushrooms in the [[psilocybin-north-america-pacific-northwest]], U.S.A. *Journal of Ethnopharmacology*, 5, 271–285.

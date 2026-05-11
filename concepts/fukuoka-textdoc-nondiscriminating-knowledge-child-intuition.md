@@ -5,6 +5,7 @@ tags: [natural-farming, philosophy, epistemology, buddhism, mu, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,61 +88,3 @@ absolutely essential to man. A child who rolls in the dirt grows up healthy.
 An unknowing child grows up strong.
 
 The knowledge that "there are germs in the soil" is, in Fukuoka's view,
-more ignorant than ignorance itself. The most knowledgeable person on soil,
-the soil scientist, may understand soil as mineral matter in flasks and test
-tubes, but if his research does not allow him to know the joy of lying on
-the ground under the sun, he cannot be said to know anything about the soil.
-
-The soil that the scientist knows is a discreet, isolated part of a whole.
-The only complete and whole soil is natural soil before it is broken down
-and analyzed, and it is the infant and child who best know, in their
-ingenuous way, what truly natural soil is.
-
-## The Mother as Science, the Child as Modern Man
-
-Fukuoka draws an explicit parallel: the mother (science) who parades her
-partial knowledge implants in the child (modern man) a false image of
-nature. In Buddhism, knowledge that splits apart self and object and sets
-them up in opposition is called "discriminating knowledge," while knowledge
-that treats self and object as a unified whole is called "non-discriminating
-knowledge," the highest form of wisdom.
-
-The conclusion is unambiguous: the "discriminating adult" is inferior to
-the "non-discriminating child," for the adult only plunges himself into
-ever-deepening confusion.
-
-## Implications for Agriculture
-
-This epistemological framework has direct practical consequences for
-farming. The farmer who approaches his field with discriminating knowledge
-sees insects as pests, weeds as enemies, and soil as a substrate requiring
-chemical amendment. He intervenes at every turn, creating the very problems
-he then must solve. He applies pesticides because he sees insects as
-threats, but the pesticides kill the natural predators that would have kept
-insect populations in check. He applies herbicides because he sees weeds as
-competitors, but the herbicides destroy the soil ecosystem that sustains
-his crops.
-
-The natural farmer, approaching the field with non-discriminating
-knowledge, sees the entire ecosystem as self-regulating. He does not divide
-the world into beneficial and harmful organisms. He recognizes that nature
-maintained a great harmony without such notions, and brought forth the
-grasses and trees without the "helping" hand of man.
-
-## The Philosophy of Mu
-
-Non-discriminating knowledge is inseparable from the philosophy of Mu, or
-nothingness, that underlies all of Fukuoka's thought. The farming village
-was, in his description, above all a society of philosophers without a need
-for philosophy. It was none other than the philosophy of Mu, which teaches
-that all is unnecessary, that gave the farmer his enduring strength.
-
-This is not nihilism or passivity. It is an active recognition that human
-intervention, born from discriminating knowledge, disrupts the natural
-order. The highest wisdom is to refrain from acting on incomplete
-understanding, to allow nature to express itself fully without the
-## See Also
-
-- [[fukuoka-textdoc-leave-nature-alone-philosophy]]
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-- [[fukuoka-textdoc-village-philosophy-disappearance]]

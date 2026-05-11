@@ -11,15 +11,15 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum: Evolution and Classification of the Palms." Kew Publishing.
-  - Johnson, D.V. (1998). "Non-wood Forest Products: Palms." FAO Forestry Paper 144.
+  - Johnson, D.V. (1998). "Non-wood [[mollison-specialist-tropical-crops-forest-products]]: Palms." FAO Forestry Paper 144.
   - Sunderland, T.C.H. & Dransfield, J. (2002). "The rattan trade: Conservation and sustainability." FAO Corporate Document Repository.
-  - Bhat, K.M. et al. (2003). "Rattans of the Western Ghats: Taxonomy, distribution, ecology and management." Kerala Forest Research Institute.
+  - Bhat, K.M. et al. (2003). "Rattans of the Western Ghats: Taxonomy, distribution, [[nematode-management]]." Kerala Forest Research Institute.
   - Siebert, S.F. (2012). "The nature and culture of rattan." Annals of Botany, 109(5), 847-854.
 ---
 
 ## Overview
 
-**Calamus rotang** (common rattan) is a climbing palm species native to South and Southeast Asia. It is the primary commercial source of rattan cane, one of the world's most important non-timber forest products.
+**Calamus rotang** (common rattan) is a climbing palm species native to South and [[psilocybe-southeast-asia-pacific]]. It is the primary commercial source of rattan cane, one of the world's most important non-timber forest products.
 
 Rattan from Calamus rotang has been used for centuries in furniture making, basketry, and construction throughout tropical Asia. The global rattan industry is valued at several billion dollars annually.
 
@@ -45,11 +45,11 @@ Inflorescences are produced from the upper leaf axils and are pendulous, reachin
 
 ## Distribution and Habitat
 
-Calamus rotang is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, Laos, Cambodia, Vietnam, Malaysia, and Indonesia. It occurs in lowland tropical forests from sea level to 800 meters elevation.
+Calamus rotang is native to India, Sri Lanka, Bangladesh, Myanmar, Thailand, Laos, Cambodia, Vietnam, Malaysia, and Indonesia. It occurs in lowland [[fungal-biodiversity-tropical-forests]] from sea level to 800 meters elevation.
 
 The species grows as an understory climber in primary and secondary rainforests, seasonally dry forests, and swamp forests. It requires support vegetation to climb and reach the canopy for adequate light.
 
-Optimal growth occurs in areas with annual rainfall exceeding 2,000 mm and mean temperatures of 25–30 °C. The palm tolerates a range of soil types but prefers well-drained loams with high organic matter.
+Optimal growth occurs in areas with annual rainfall exceeding 2,000 mm and mean temperatures of 25–30 °C. The palm tolerates a range of soil types but prefers well-drained loams with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 Calamus rotang is most abundant in forest margins, riparian zones, and disturbed areas where light penetration is higher. It can form dense tangles that impede forest access and regeneration.
 
@@ -57,11 +57,11 @@ In peat swamp forests of Southeast Asia, rattan species including Calamus rotang
 
 ## Cultivation and Harvesting
 
-Propagation from seed is slow, with germination taking 3–12 months and seedling growth requiring 3–5 years before planting. Vegetative propagation from stem cuttings is possible but less common than seed-based approaches.
+Propagation from seed is slow, with germination taking 3–12 months and seedling growth requiring 3–5 years before planting. [[hamilton-vegetative-propagation]] from stem cuttings is possible but less common than seed-based approaches.
 
-Seed dormancy is a major bottleneck in cultivation. Pre-treatment with gibberellic acid or mechanical scarification can improve germination rates from below 20% to over 60% in controlled trials.
+[[mollison-designers-seed-dormancy-and-germination-treatments]] is a major bottleneck in cultivation. Pre-treatment with gibberellic acid or mechanical scarification can improve germination rates from below 20% to over 60% in controlled trials.
 
-In plantations, support structures or nurse trees are required for the climbing stems. Spacing of 3–5 meters between plants allows adequate room for stem elongation and harvesting access.
+In plantations, support structures or [[permaculture-plants-pioneer-nurse-trees]] are required for the climbing stems. Spacing of 3–5 meters between plants allows adequate room for stem elongation and harvesting access.
 
 Commercial harvesting involves cutting mature stems at the base, stripping the leaf sheaths, and processing the canes. Fresh rattan is highly perishable and must be treated with preservatives within days of harvest.
 
@@ -87,29 +87,4 @@ Synthetic rattan alternatives made from polyethylene and polypropylene have capt
 
 Calamus rotang provides structural habitat in tropical forests by forming dense climbing networks. These networks serve as arboreal pathways for mammals, reptiles, and amphibians navigating the forest canopy.
 
-The fruit is consumed by birds, bats, and primates, making the species an important food resource. Seed dispersal is facilitated by frugivorous animals that carry fruits away from the parent plant.
-
-Several specialist insect species feed exclusively on Calamus, including beetles of the genus Demetria that bore into rattan stems. These plant-insect interactions contribute to tropical forest food web complexity.
-
-Wild rattan populations are declining across much of their range due to overharvesting and forest conversion. The species is listed as Least Concern on the IUCN Red List but faces localized threats.
-
-Deforestation for agriculture and timber plantations has reduced available habitat. Fragmented populations are vulnerable to genetic bottlenecks and reduced recruitment rates.
-
-Community-based forest management programs in Indonesia and the Philippines promote sustainable rattan harvesting. These initiatives combine traditional knowledge with scientific management to balance extraction and regeneration.
-
-Certification schemes for sustainably harvested rattan are being developed by organizations such as the Forest Stewardship Council. Certified rattan products command price premiums in European and North American markets.
-
-Research on rattan silviculture has identified optimal harvesting intervals of 4–6 years for managed Calamus populations. Shorter rotation periods reduce stem quality and increase mortality in harvested clumps.
-
-## See Also
-
-- [[bactris-gasipaes]]
-- [[cocos-nucifera]]
-- [[euterpe-oleracea]]
-- [[borassus-flabellifer]]
-- [[acacia-nilotica]]
-- [[phytoremediation]]
-- [[roystonea-regia]]
-- [[serenoa-repens]]
-- [[elaeis-guineensis]]
-- [[trachycarpus-fortunei]]
+The fruit is consumed by birds, bats, and primates, making the species an important food resource. [[clay-pellet-seed-dispersal]] is facilitated by frugivorous animals that carry fruits away from the parent plant.

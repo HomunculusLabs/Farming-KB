@@ -19,7 +19,7 @@ significant strains in the Subcool catalog.
 ## Genetics and Lineage
 
 The breeding history of Jack the Ripper is layered and impressive.
-Jack's Cleaner itself is a cross of [[jack-herer]] er]] er]] and The Cleaner, where
+Jack's Cleaner itself is a cross of [[jack-herer]] and The Cleaner, where
 The Cleaner is a strain from breeder Skoosh containing both Northern
 Lights #5 and Purple Haze. The Cleaner earned its name from its
 striking resemblance to the smell of the cleaning product Mr. Clean.
@@ -69,7 +69,7 @@ processing time compared to many sativa-dominant strains.
 
 ## Aroma, Flavor, and Appearance
 
-The dominant aroma is [[lemon-haze]] ze]] — bright, citrusy, and immediately
+The dominant aroma is [[lemon-haze]] — bright, citrusy, and immediately
 recognizable. Some phenotypes overlay this with pine notes. The cured
 buds carry tropical fruit aromas with an undertone of burning hash.
 
@@ -88,42 +88,3 @@ users "straight towards the light" in a metaphorical sense.
 
 The presence of THCV is particularly noteworthy. THCV (tetrahydro-
 cannabivarin) is a less common cannabinoid that has shown potential
-as a treatment for Parkinson's disease in preliminary research. This
-gives Jack the Ripper additional medical significance beyond its THC
-content.
-
-## Cultivation Notes
-
-- Grow untopped for best results; allow full vegetative development
-- Organic soil is preferred but hydro is viable
-- Two main phenotypes: taller and shorter, pine vs no pine
-- Spear-shaped white buds visible from approximately day 12 of flower
-- Flowering time: approximately 8 weeks (some phenotypes longer)
-- Moderate [[cannabis-soil-and-nutrient-requirements]]; avoid heavy feeding
-- Minimal trimming required at harvest
-- Moderate to heavy yield
-
-## Medical Applications
-
-The combination of high THC and THCV makes Jack the Ripper potentially
-valuable for multiple medical applications. THCV research suggests
-possible benefits for Parkinson's disease patients. The high THC
-content provides pain relief, [[cannabis-for-cachexia-and-appetite-stimulation]], and anti-nausea
-effects. The clear cerebral high may benefit patients with depression
-or fatigue, while the long duration offers sustained symptom relief.
-
-## Breeder Information
-
-Jack the Ripper was created by Subcool and Team Green Avengers, based
-in the USA. Subcool (also known as Subcool's The Dank) was one of
-the most respected cannabis breeders, known for creating numerous
-award-winning strains. His genetics remain widely circulated and
-highly regarded in the cannabis community.
-
-## See Also
-
-- Oner Jack Herer strain profile and history
-- Oner Subcool Team Green Avengers breeding program
-- Cannabis THCV cannabinoid medical research Parkinsons
-- Oner Northern Lights [[oner-diesel-strain-lineage-and-profiles]] influence
-- Cannabis Purple Haze strain history and genetics

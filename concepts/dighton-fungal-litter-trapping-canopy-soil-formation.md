@@ -88,35 +88,3 @@ nutrient release from decomposing trapped litter.
 
 The ability of fungi to bind organic matter has implications beyond
 nutrient cycling. In tropical forests with high rainfall, the physical
-binding of litter by fungal hyphae prevents significant downslope
-movement of organic material. This is particularly important on steep
-slopes where gravitational forces would otherwise transport litter
-considerable distances. The fungal litter-binding function thus
-contributes to soil stability and prevention of erosion.
-
-The fungal hyphal network effectively creates a mat that intercepts and
-retains falling leaf material. As this material decomposes in situ,
-organic matter is incorporated into the canopy or near-surface soil
-rather than being lost from the system. This retention is especially
-critical in tropical forests where rapid decomposition rates could
-otherwise lead to rapid nutrient export.
-
-## Functional Significance
-
-The litter-trapping function of canopy fungi creates a unique above-
-ground decomposition system that parallels below-ground processes. This
-system supports specialized [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] adapted to periodic
-desiccation, high UV exposure, and the physical challenges of canopy
-life. The rhizomorph-forming ability of Marasmius and Marasmiellus
-species is central to this function, providing both structural support
-for litter retention and physiological pathways for nutrient
-translocation within the retained litter.
-
-## See Also
-
-- [[fungal-leaf-litter-succession]]
-- fungal-soil-aggregation
-- [[dighton-fungal-roles-in-nutrient-cycling]]
-- [[decomposition]]
-- [[fungal-hyphae]]
-- [[dighton-pine-needle-litter-decomposition-fungal-succession]]

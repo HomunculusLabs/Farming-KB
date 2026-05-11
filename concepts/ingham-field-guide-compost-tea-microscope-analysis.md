@@ -3,6 +3,7 @@ title: "Ingham Field Guide: Compost Tea Microscope Analysis"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: concept
 tags: [composting]

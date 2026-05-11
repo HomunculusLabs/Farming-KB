@@ -17,15 +17,15 @@ the western Amazon basin, virola snuffs represent one of the most
 widespread and pharmacologically significant entheogenic snuff
 traditions in [[virola-theiodora]]**: Widely used in the Brazilian and Colombian Ama
   zon; one of the most important species
-- **Virola calophylla**: Used by tribes in the upper Rio Negro region 
+- **[[virola-calophylla]]**: Used by tribes in the upper Rio Negro region 
   of Brazil
-- **Virola surinamensis**: Employed in the Guianas and northern Amazon
-- **Virola elongata**: Used by various tribes of the Vaupes region of 
+- **[[virola-surinamensis]]**: Employed in the Guianas and northern Amazon
+- **[[virola-elongata]]**: Used by various tribes of the Vaupes region of 
   Colombia
 
-Virola trees are large canopy trees of lowland tropical rainforest,
+Virola trees are large canopy trees of lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
 reaching heights of 20-30 meters. The inner bark contains a reddish,
-resinous sap rich in tryptamine alkaloids, particularly concentrated
+resinous sap rich in [[hplc-analysis-of-tryptamine-alkaloids]], particularly concentrated
 in the cambial layer just beneath the outer bark. When the bark is
 cut or scraped, the resinous exudate oozes out and can be collected
 for snuff preparation.
@@ -88,20 +88,3 @@ alkaloids, the same class of compounds found in [[ayahuasca-preparation]]:
   wer concentrations than in Anadenanthera
 
 The tryptamine content varies considerably between species and even
-between individual trees, making the potency of the snuff somewhat
-unpredictable. The alkaline ash admixture serves the same function as
-in [[cohoba-snuff]] preparations, converting the
-alkaloids to a free-base form for efficient nasal absorption.
-
-## Effects
-
-The effects of virola snuff are rapid and intense, reflecting the
-high DMT content and the efficiency of nasal absorption:
-
-- Immediate burning and irritation of nasal passages, followed by prof
-  use discharge
-- Rapid onset of visual hallucinations (within minutes)
-- Sensations of floating, flying, or bodily dissolution
-- Visions of [[metzner-spirit-beings-multiple-realities-entheogens]], animals, geometric patterns, and mythologi
-  cal scenes
-- Altered perception of time and space

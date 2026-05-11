@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
@@ -18,7 +19,7 @@ sources:
 
 **Panaeolus sphinctrinus** (Pers.) Quél. is a large, non-psychoactive
 mushroom in the family Bolbitiaceae, commonly found on [[horse-dung-rice-grain-substrate-preparation]] across
-temperate regions of the world. Though it belongs to a genus that
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world. Though it belongs to a genus that
 includes several psilocybin-containing species, *P. sphinctrinus*
 itself is considered inactive and nonpoisonous. It is notable for its
 imposing stature, its [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]], and its viscid cap, earning
@@ -86,21 +87,3 @@ when learning to identify the psychoactive members of the genus.
 
 Several features reliably distinguish panaeolus sphinctrinus from
 other Panaeoli in the field:
-
-1. **Membranous annulus**: The presence of a persistent, fragile white
-   annulus on the stem is uncommon in the genus and is a primary
-   diagnostic character.
-2. **Viscid cap**: The cap surface becomes distinctly sticky when
-   moist, unlike the typically dry-capped Panaeolus species.
-3. **Large size**: Reaching up to 9 cm in cap diameter and 18 cm in
-   stem length, this species is notably larger than most other Panaeoli.
-4. **Horse dung specificity**: Its near-exclusive association with horse
-   dung, particularly around stable compost piles, further narrows the
-   identification.
-5. **Lack of blue bruising**: Unlike the psychoactive [[copelandia-panaeolus-genera]]
-
-- stamets-psylo-panaeolus-genus-overview
-- [[copelandia-panaeolus-genera]]
-- Anellaria
-- psilocybin
-- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]

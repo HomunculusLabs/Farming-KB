@@ -19,9 +19,9 @@ created: 2026-04-28
 
 ## Overview
 
-**Pseudofistulina fistulosa** (syn. *Fistulina hepatica* sensu auct. brit.) is a polyporoid fungus in the family Fistulinaceae, order Agaricales.
+**Pseudofistulina fistulosa** (syn. *[[fistulina-hepatica]]* sensu auct. brit.) is a polyporoid fungus in the family Fistulinaceae, order Agaricales.
 
-It is commonly called the **fistulina polypore** or **raduloid polypore**, forming annual to biennial bracket-like fruiting bodies on dead or dying hardwood.
+It is commonly called the **fistulina polypore** or **raduloid polypore**, forming annual to biennial bracket-like [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on dead or dying hardwood.
 
 The genus name refers to the separately individual tubes (stipe-like structures) that distinguish it from typical fused-pore polypores.
 
@@ -53,7 +53,7 @@ In Europe, it occurs from Scandinavia to the Mediterranean, though it is general
 
 The species fruits exclusively on dead or moribund hardwood, showing strong preference for oak (*Quercus* spp.), particularly *Q. robur* and *Q. petraea.
 
-It has also been recorded on beech (*Fagus sylvatica*), chestnut (*Castanea sativa*), and occasionally other Fagaceae.
+It has also been recorded on beech (*[[fagus-sylvatica]]*), chestnut (*[[castanea-sativa]]*), and occasionally other Fagaceae.
 
 Fruiting occurs in late summer to autumn (August–November) on standing dead trunks, fallen logs, and large branches.
 
@@ -69,7 +69,7 @@ Habitat loss from intensive forestry and the removal of veteran oak trees are th
 
 This brown-rot decay pattern produces the characteristic cubical fracture pattern in affected wood, where the wood splits into roughly cubic blocks along the grain.
 
-As a late-stage decomposer of large-diameter hardwood, it contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mature forest ecosystems.
+As a late-stage decomposer of large-diameter hardwood, it contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mature [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 Its preference for large-diameter oak substrates means it is closely associated with old-growth forest conditions and veteran trees.
 
@@ -81,36 +81,10 @@ The flesh is reportedly edible when young and tender, though it is not widely co
 
 It is not considered a species of culinary interest in modern mycophagy, unlike its lookalike relative *Fistulina hepatica* (beefsteak fungus), which is edible and commercially gathered.
 
-No significant medicinal properties have been documented for this species in the scientific literature.
+No significant [[panax-ginseng]] have been documented for this species in the scientific literature.
 
 ## Chemistry
 
 The chemistry of *Pseudofistulina fistulosa* has not been extensively studied compared to more commercially significant polypores.
 
 The reddish pigmentation of both the context and hymenophore suggests the presence of anthraquinone or benzochromenone derivatives, which are common in brown-rot fungi.
-
-Fistulinic acid derivatives have been identified in the related genus *Fistulina*, but their presence in *Pseudofistulina* has not been confirmed.
-
-Brown-rot fungi in general produce Fenton reaction-mediated hydroxyl radicals via extracellular oxalate, which drives cellulose depolymerization.
-
-Further phytochemical investigation of this rare species may yield novel metabolites given its taxonomic isolation within Agaricales.
-
-## Similar Species
-
-*Fistulina hepatica* (beefsteak fungus) is the most commonly confused species. *F. hepatica* has a distinctly beef-like red flesh that bleeds red juice when cut, and grows primarily on oak but also chestnut.
-
-Unlike *P. fistulosa*, true *Fistulina hepatica* belongs to Fistulinaceae but has tubes that are more densely packed and a more robust, liver-like [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
-
-Polyporoid fungi with fused pores (e.g., *Fomitopsis* spp.) can be distinguished by their non-separable tube layer.
-
-The separately detachable tubes are the definitive diagnostic feature separating *Pseudofistulina* from all other polyporoid genera.
-
-[[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology further confirms identification, as spore dimensions are consistently diagnostic.
-
-## See Also
-
-- [[laetiporus-sulphureus]]
-- [[trametes-versicolor-entity]]
-- [[cantharellus-cibarius-entity]]
-- [[betula-pendula]]
-- [[pleurotus-ostreatus]]

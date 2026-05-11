@@ -3,7 +3,7 @@
 ## Overview
 
 The phenomenon of hallucinogenesis — the induction of [[harner-shamanic-journey-and-altered-states]] of perception,
-consciousness, and cognition by chemical compounds — reveals a remarkably precise
+consciousness, and cognition by [[neurotropic-fungi-chemical-compounds]] — reveals a remarkably precise
 relationship between molecular structure and psychoactive effect that suggests quantum-
 mechanical processes at the foundation of mind-matter interaction. The observation that
 microscopic changes at the atomic level of a molecule can determine whether it is
@@ -13,7 +13,7 @@ quantum mechanically described matter and mind" (McKenna, 1983).
 ## The Bond-Site Sensitivity Observation
 
 Researchers including John Smythies and [[alexander-shulgin]] demonstrated that the
-hallucinogenic activity of indole tryptamine and phenethylamine compounds depends on
+hallucinogenic activity of [[indole]] [[tryptamine]] and phenethylamine compounds depends on
 extremely precise molecular geometry. The key finding is that moving a single atom
 on the molecular ring of an otherwise inactive compound can render it highly active as
 a hallucinogen.
@@ -29,7 +29,7 @@ position on an indole ring.
 The bond-site sensitivity of hallucinogens has been cited as evidence for quantum-
 [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] to consciousness. The reasoning proceeds as follows:
 
-1. Hallucinogenic compounds interact with serotonin (5-HT) receptors in the brain,
+1. Hallucinogenic compounds interact with [[serotonin]] (5-HT) receptors in the brain,
 particularly the 5-HT2A receptor subtype
 2. The binding affinity and efficacy of these compounds depends on sub-angstrom
 differences in molecular structure
@@ -88,44 +88,3 @@ be explained by classical pharmacokinetic models alone
 human brain raises the question of whether these compounds serve a natural
 regulatory function in consciousness, with their exogenous administration simply
 amplifying an existing quantum-biological process
-
-## Tryptamine vs. Non-Tryptamine Hallucinogens
-
-The quantum sensitivity argument applies across chemical classes but is particularly
-striking in the tryptamine family. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine)
-differs from the neurotransmitter serotonin (5-hydroxytryptamine) by only a few atoms,
-yet produces an experience radically different from normal serotonergic signaling.
-
-This molecular proximity suggests that the brain's ordinary serotonin system exists
-in a state of delicate quantum balance, and that tryptamine hallucinogens perturb this
-balance in ways that reveal normally hidden dimensions of neural processing.
-
-## Philosophical Significance
-
-The quantum molecular correlates of hallucinogenesis challenge the materialist
-assumption that consciousness is purely an emergent property of classical neural
-computation. If sub-angstrom differences in molecular geometry can determine the
-contents of consciousness, then consciousness must be sensitive to quantum-level
-events in the brain.
-
-This does not necessarily require exotic quantum consciousness theories (such as
-Penrose-Hameroff orchestrated objective reduction), but it does demand that any
-complete theory of consciousness account for the extraordinary sensitivity of
-[[dosage-unpredictability-psilocybin-subjective-experience]] to molecular quantum structure.
-
-## See Also
-
-- [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]]
-
-- [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
-- [[dmt-entity-encounters-and-the-logos]]
-- [[mckenna-endogenous-tryptamines-quantum-consciousness]]
-- [[2c-b-psychedelic-empathogen-guide]]
-
-## Sources
-
-- McKenna, T. "[[mckenna-tryptamine-hallucinogens-and-consciousness]] Consciousness." The [[archaic-revival-partnership-vs-dominator-cultures]],
-HarperSanFrancisco, 1992
-- Smythies, J. "The neurochemistry of consciousness." Brain Research Reviews, 2005
-- Shulgin, A. & Shulgin, A. PIHKAL: A Chemical Love Story. Transform Press, 1991
-- Nichols, D. "Psychedelics." Pharmacological Reviews, 2016

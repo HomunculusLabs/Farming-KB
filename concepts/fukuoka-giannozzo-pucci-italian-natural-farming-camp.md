@@ -1,10 +1,11 @@
 ---
-title: fukuoka giannozzo pucci italian natural farming camp Italian comparison-natural-farming-vs-permaculture Camp
+title: Fukuoka Giannozzo Pucci Italian Natural Farming Camp
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, person]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -12,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-During his [[fukuoka-european-travels-natural-farming]], Masanobu Fukuoka spent a week at the
+During his [[fukuoka-european-travels-natural-farming]], [[masanobu-fukuoka]] spent a week at the
 estate of Giannozzo Pucci, publisher of the Italian edition of The
 One-Straw Revolution, in a rural area between Florence and the hills
 of Tuscany.
@@ -37,7 +38,7 @@ Although Giannozzo's place was called an orchard, it consisted of
 little more than extensively grown grapevines among which were
 scattered two-hundred-year-old olive trees. Having encountered these
 Italians who lived such a free and cheerful life, Fukuoka felt both a
-sense of expectation that the spirit and practice of natural farming
+sense of expectation that the spirit and practice [[four-principles-of-natural-farming]]
 would surely take hold in Italy and, mixed with this, a sense of envy
 when he thought back at how fussy and narrow-minded people are in
 Japan.
@@ -77,7 +78,7 @@ One day Fukuoka said, "Italy has few trees. I'd like to see a virgin
 Italian forest." The group formed a caravan of cars and drove three
 hours along a gently sloping highland road to a virgin forest at
 Pratovecchio. The gently undulating road passed by vineyards and fields
-of wheat, with cows and flocks of sheep grazing. Every so often a
+of wheat, with cows and flocks of [[permaculture-designers-manual-sheep-grazing]]. Every so often a
 single farmhouse stood alone on a ridge with children playing nearby.
 Nowhere did even a single billboard or telephone pole mar the view.
 
@@ -87,26 +88,3 @@ one got out of the cities, the beauty and serenity of the countryside
 remained as it was in the past.
 
 ## The Florence Academy Lecture
-
-Fukuoka was invited to speak at the Agricultural Academy of Florence.
-He learned that the president of the academy was trying to introduce
-tropical plants. After touring the botanical gardens, Fukuoka prefaced
-his remarks with "let me be quite frank with you" and asked whether it
-was not far more important to dedicate full efforts to preventing
-desertification by enhancing soil fertility and to bringing back the
-plants native to Italy. The dean of agriculture was overjoyed and
-immediately offered to translate The Natural Way of Farming into
-Italian.
-
-## See Also
-
-- [[fukuoka-legionnaire-shoes-italian-commune]]
-
-- [[fukuoka-dragonfly-as-messiah-natural-salvation]]
-
-- [[fukuoka-uc-davis-student-dialogue-natural-farming]]
-
-- [[fukuoka-european-travels-natural-farming]]
-- [[fukuoka-european-agriculture-observations]]
-- [[fukuoka-one-straw-revolution-impact]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]

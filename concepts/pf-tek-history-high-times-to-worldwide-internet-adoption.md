@@ -24,7 +24,7 @@ published openly. This was a pivotal moment — by freely publishing the
 complete methodology, PF enabled unlimited independent replication.
 PF subsequently maintained a 1/6 page advertisement in High Times
 monthly, usually positioned toward the back of the magazine, offering
-both the PF TEK booklet and Psilocybe cubensis spore syringes.
+both the PF TEK booklet and [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] spore syringes.
 
 ## The Core Innovation: Vermiculite-Based Substrate
 
@@ -36,8 +36,8 @@ with little air space. But when grown with vermiculite, the mycelial
 threads stretch across the air spaces within the mineral matrix. This
 creates a more vigorous and oxygenated [[gadd-mycelial-network-dynamics]].
 
-The technique copies nature by employing mass spore inoculation
-directly to the fruiting substrate, rather than the usual approach
+The technique copies nature by employing mass [[mushroom-spore-inoculation-technique]]
+directly to the [[pf-tek-maximum-fruiting-substrate-formula]], rather than the usual approach
 of cloning mushroom tissue. This preserves the complete genotype and
 prevents senescence (mutating and ceased fruiting) that plagues
 tissue-culture-based cultivation. The spores ensure a never-ending
@@ -62,7 +62,7 @@ additional $10 postage charge applied.
 
 PF distributed spores and documentation for "scientific and entheogenic
 research only." The legal distinction was important: while Psilocybe
-cubensis mushrooms contain the controlled compound psilocybin, the
+[[query-how-to-identify-psilocybe-cubensis-mushrooms]] contain the controlled compound psilocybin, the
 spores themselves do not, and at the time there were no federal laws
 prohibiting spore possession in the United States. PF explicitly
 advised that "only mature humans need experiment with these entheogens"
@@ -72,7 +72,7 @@ and urged protection of children.
 
 The PF TEK was rapidly copied worldwide. PF documented numerous
 organizations that adopted the technique: HEMP BC and HEMP NATION
-(Canada), the Florida Mycology Research Center, Psilo-grow and Smart
+(Canada), the Florida [[mycology-research-methods]] Center, Psilo-grow and Smart
 Botanics (Holland), the LYCAEUM and EROWID websites, and Perfect Fungi
 Europe (Wageningen, Holland). One outfit, POWER PRODUCTS, was described
 by PF as "a rip off" appearing in High Times classifieds.
@@ -82,60 +82,9 @@ A modified Italian version substituted sand, perlite, whole grain brown
 rice, and rye grains, though PF noted these were not recommended.
 
 Within a few years, mycophiles adapted the PF TEK into an internet
-document called the "Magic Mushroom Growers Guide" Version 3.2, hosted
+document called the "Magic [[enterprise-development-mushroom-growers]] Guide" Version 3.2, hosted
 at the Lycaeum and Hyperreal Magic Mushroom Site. PF responded by
 publishing the original on the internet "so all the mycophiles can see
 where it all came from."
 
 ## Cultural Impact and Legacy
-
-The PF TEK fundamentally changed the landscape of amateur mycology. By
-eliminating the need for pressure cookers (steam sterilization sufficed),
-expensive laboratory equipment, or specialized mycological knowledge,
-it opened mushroom cultivation to anyone with access to a kitchen. The
-four-step process — [[bulk-substrate-preparation]], sterilization, inoculation,
-and fruiting — became the universal template upon which countless
-subsequent techniques were built.
-
-The technique's emphasis on simplicity, low cost, and repeatable
-results established principles that continue to guide home cultivation.
-The dry vermiculite contaminant barrier, the half-pint jar standard,
-and the mass spore inoculation approach are all PF innovations that
-remain standard practice decades later.
-
-## Materials and Equipment Philosophy
-
-A central tenet of the PF TEK was accessibility. Materials were
-deliberately chosen from ordinary retail sources: half-pint canning
-jars from supermarkets, brown rice powder from health food stores,
-horticultural vermiculite from garden centers, and a simple vegetable
-steamer pot for sterilization. No laminar flow hoods or pressure
-canners were required.
-
-PF specified precise jar requirements: 1/2 pint (250 ml) capacity
-with tapered sides and no shoulders. Approved jars included KERR wide
-mouth and BALL regular mouth half pint canning jars. PF warned that
-jars larger than half pint were unreliable and "fail easily."
-
-The inoculation tool was an ordinary spore syringe, sterilized using
-a simple [[inoculation-technique-and-alcohol-flaming]] technique with denatured alcohol and a
-tequila shotglass as a burner. This avoided the soot residue of
-butane lighters, producing a clean blue flame for needle sterilization.
-
-## The Four-Step Cultivation Cycle
-
-The PF TEK codified mushroom cultivation into four phases:
-1. **Substrate preparation** — brown rice powder, vermiculite, and
-   water loaded into jars with a dry vermiculite contaminant barrier
-2. **Steam sterilization** — jars steamed at gentle boil for one hour
-3. **Spore inoculation** — syringe injected through lid holes
-4. **Fruiting** — colonized cakes placed in a humidified terrarium
-
-This cycle takes approximately 4-6 weeks and became the foundational
-model for virtually all subsequent home [[gourmet-medicinal-mushroom-oyster-cultivation-methods]].
-
-## References
-
-- PF TEK by Psylocybe Fanaticus. PO Box 22009, Seattle, WA 98122.
-  © 1996 Solent Fanaticus.
-- High Times Magazine, February 1997 (PF advertisement).

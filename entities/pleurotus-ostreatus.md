@@ -1,5 +1,5 @@
 ---
-title: Pleurotus ostreatus
+title: Pleurotus Ostreatus
 type: species
 tags:
   - fungi
@@ -37,7 +37,7 @@ The fruiting body features a fan-shaped to semicircular cap ranging from 5 to 25
 
 ## Habitat and Ecology
 
-*P. ostreatus* is a primary wood-decomposer (white-rot fungus) that secretes lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and versatile peroxidase. This enzymatic arsenal allows it to break down the lignin component of wood, making it ecologically significant in forest nutrient cycling.
+*P. ostreatus* is a primary wood-decomposer (white-rot fungus) that secretes lignin-modifying enzymes including laccase, [[fungal-manganese-peroxidase-remediation]], and [[singh-versatile-peroxidase-vp-multifunctional]]. This enzymatic arsenal allows it to break down the lignin component of wood, making it ecologically significant in forest nutrient cycling.
 
 Natural substrates include:
 - Dead or dying hardwood (oak, beech, birch, aspen, maple)
@@ -45,7 +45,7 @@ Natural substrates include:
 - Standing dead trees
 - Occasionally coniferous wood
 
-The mushroom fruits in shelf-like clusters, typically from autumn through early spring in temperate regions, though cultivated strains can fruit year-round under controlled conditions.
+The mushroom fruits in shelf-like clusters, typically from autumn through early spring in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], though cultivated strains can fruit year-round under controlled conditions.
 
 ## Cultivation
 
@@ -62,7 +62,7 @@ Oyster mushrooms are among the easiest mushrooms to cultivate, making them a pop
 
 ### Substrate Preparation
 
-Cultivation typically uses supplemented hardwood substrates. Common base materials include straw (wheat, rice), sawdust (hardwood), coffee grounds, and agricultural waste. Supplementation with wheat bran (10–20% dry weight) or rice bran significantly increases yields. Substrates are pasteurized (60–80 °C for 1–2 hours) rather than sterilized for commercial production.
+Cultivation typically uses supplemented hardwood substrates. Common base materials include straw (wheat, rice), sawdust (hardwood), coffee grounds, [[fungi-in-composting-and-agricultural-waste-conversion]]. Supplementation with wheat bran (10–20% dry weight) or rice bran significantly increases yields. Substrates are pasteurized (60–80 °C for 1–2 hours) rather than sterilized for commercial production.
 
 ### Inoculation and Colonization
 
@@ -80,47 +80,10 @@ Per 100 g fresh weight: ~30–35 kcal, 2–3 g protein, 0.3 g fat, 5–7 g carbo
 
 ## Medicinal Properties
 
-Research has identified several bioactive compounds:
+Research has identified several [[cordyceps-cancer-bioactive-compounds]]:
 
 - **β-glucans:** [[blesching-cannabis-immune-system-modulation]], potential anti-tumor activity
 - **Pleuran:** A specific β-glucan extract studied for respiratory health and immune support
 - **Lovastatin:** Naturally occurring statin, cholesterol-lowering properties
 - **Ergothioneine:** Potent antioxidant amino acid
-- **Laccase and other enzymes:** Antimicrobial properties
-
-Studies have demonstrated anti-inflammatory, antioxidant, antihypertensive, and antihyperlipidemic effects in vitro and in animal models. Clinical evidence, while promising, remains limited and requires further investigation.
-
-## Bioremediation
-
-*P. ostreatus* has gained attention for its bioremediation capabilities. It can degrade a range of environmental pollutants including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), polychlorinated biphenyls (PCBs), and certain pesticides. Mycoremediation applications include cleaning contaminated soil, filtering agricultural runoff through mycofiltration beds, and breaking down plastic polymers in experimental settings.
-
-## Pest and Disease Considerations
-
-Cultivated oyster mushrooms are susceptible to several contaminants and pests:
-- **Trichoderma** and other mold species (green mold contamination)
-- **Sciarid flies** (fungus gnats)
-- **Bacterial blotch** (*[[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]*)
-- **Mites** (*Tyrophagus* spp.)
-
-Maintaining strict hygiene, proper pasteurization, and environmental control are essential for successful cultivation.
-
-## Culinary Uses
-
-Oyster mushrooms have a mild, anise-like aroma and a tender texture that holds up well to cooking. They are versatile in the kitchen, suitable for sautéing, grilling, frying, soups, stir-fries, and drying. The stems can be tough in mature specimens and are often discarded or used for stock. Young specimens are entirely edible. They pair well with garlic, butter, cream, thyme, and white wine.
-
-## Related Species and Look-alikes
-
-Wild foragers should distinguish *P. ostreatus* from:
-- *Pleurotus pulmonarius* (Phoenix mushroom) — similar but prefers warmer temperatures and more decurrent gills
-- *Omphalotus nidiformis* (Ghost fungus) — bioluminescent, toxic, found in Australia
-- *Pleurotus citrinopileatus* (Golden oyster) — bright yellow, smaller cap
-- *[[hypsizygus-tessulatus]]* (Beech mushroom, *Shimeji*) — different growth pattern on beech
-
-The oyster mushroom is generally considered safe for identification by beginners due to its distinctive shelf-like growth pattern on wood, white spore print, and decurrent gills, though proper verification is always recommended.
-
-## See Also
-
-- fungal cultivation — Overview of [[holzer-mushroom-cultivation-methods]]
-- bioremediation — Environmental cleanup using organisms
-- [[mycoremediation]] — Fungal-based bioremediation techniques
-- [[pleurotus-eryngii]] — King oyster mushroom
+- **Laccase and other enzymes:** [[medicinal-mushroom-antimicrobial-properties]]

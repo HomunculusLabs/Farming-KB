@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,35 +88,3 @@ true leaves.
 ## Heat Stress
 
 Heat stress occurs when temperatures consistently
-exceed 85 degrees F (29 degrees C). Symptoms include:
-
-- Leaves curling upward or taco-ing
-- Leaf tips and margins turning brown and crispy
-- Reduced growth rate and stretching
-- Reduced flower density and resin production
-- Increased susceptibility to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]
-- Nutrient uptake problems resembling deficiency
-
-Heat stress can be caused by powerful grow lights
-(especially HID systems), poor ventilation, or
-external [[duggar-mushroom-environmental-factors-temperature-moisture-light]]. Air conditioning is
-ideal to control temperature in warm climates. An air
-conditioner both lowers temperature and reduces
-humidity simultaneously.
-
-## Cold Stress
-
-Cold stress occurs when temperatures drop below 60
-degrees F (15 degrees C). Symptoms include:
-
-- Slow or stunted growth
-- Dark green or purplish foliage (anthocyanin
-  expression)
-- Leaves curling downward
-- Reduced nutrient uptake, particularly phosphorus
-- Delayed flowering and maturation
-
-Cannabis is very sensitive to frost. Temperatures
-above 40 degrees F (5 degrees C) are needed to keep
-plants alive. Exposure to freezing temperatures is
-fatal.

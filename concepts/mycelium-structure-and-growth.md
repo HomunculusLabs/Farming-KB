@@ -88,37 +88,3 @@ of hyphal tips, can travel through a forest for thousands of years, feeding on
 organic matter in the soil and invading tree roots. Because different fungi can
 mingle in the same area, tracking individual mycelia in soil samples is
 difficult. However, fruiting bodies duplicate the genetic makeup of their
-soil-bound parents, so by collecting and genetically analyzing mushrooms across
-a large area, investigators can map the otherwise invisible expansion of the
-mycelium.
-
-The most famous example is an Armillaria ostoyae specimen in the Malheur
-National Forest in Oregon, estimated to cover over 2,385 acres (965 hectares)
-and be between 2,400 and 8,650 years old, making it one of the largest and
-oldest [[savory-living-organisms-as-tools]] on Earth.
-
-## Septate and Coenocytic Hyphae
-
-Most fungi have septate hyphae — filaments divided into discrete cellular
-compartments by cross-walls called septa. These septa typically have pores that
-allow cytoplasm, organelles, and even nuclei to flow between compartments. Some
-fungi (notably zygomycetes) have coenocytic hyphae that lack septa entirely,
-containing many nuclei within a single continuous cytoplasmic mass. The septate
-condition allows fungi to wall off damaged portions of the mycelium, sealing
-off injured or infected hyphae to protect the rest of the organism.
-
-## Ecological Roles
-
-Mycelia are the primary decomposers of dead plant material in terrestrial
-ecosystems. Without fungal mycelia, the world's forests would be buried under
-mountains of undecomposed wood and leaf litter. Mycelia also form symbiotic
-relationships with the vast majority of land plants through [[mycorrhiza|mycorrhizal]]
-associations, in which fungal hyphae colonize plant roots and extend the root
-system's effective absorptive surface area enormously in exchange for carbon
-compounds from photosynthesis.
-
-## Source
-
-- Nicholas P. Money, *Mr. Bloomfield's Orchard: The Mysterious World of
-  Mushrooms, Molds, and Mycologists* (2002), Oxford University Press
-  (mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md)

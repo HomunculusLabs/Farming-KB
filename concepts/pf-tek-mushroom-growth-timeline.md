@@ -87,37 +87,3 @@ The initial flush is the primary fruiting event. After it completes, the myceliu
 ### Harvest Timing and Potency
 
 The secret to potent mushrooms is harvesting them young. Scientific evidence shows that small immature specimens are significantly more potent than larger mature ones. Harvesting before the veil under the cap breaks ensures maximum alkaloid concentration. Mature specimens that have begun sporulation, with darkened caps and purple spore deposits, are past their prime for potency but remain useful for spore collection.
-
-## Total Timeline Summary
-
-| Phase | Duration | Key Events |
-|-------|----------|------------|
-| Spore Germination | 3 to 7 days | White fuzzy spots appear |
-| Colonization | 2 to 3 weeks | Full white coverage of cake |
-| Fruiting Initiation | 1 to 2 weeks | Pinning and primordia form |
-| Active Fruiting | About 2 weeks | Mushroom growth and harvest |
-| **Total** | **4 to 6 weeks** | **Complete cycle** |
-
-## Factors Affecting Timeline
-
-### Temperature
-
-Temperature is the primary variable affecting the speed of all phases. At cooler temperatures (around 60 degrees Fahrenheit), all processes slow but remain functional. At warmer temperatures (upper 70s to 80s Fahrenheit), growth accelerates but overheating above this range causes spreading mycelium without fruiting. The recommended cultivation [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 65 to the upper 80s Fahrenheit.
-
-### Substrate Formula
-
-The maximum fruiting formula (1/4 cup brown rice powder, 1/2 cup vermiculite, 60 cc water) produces more robust fruiting but may extend colonization time slightly compared to the standard formula.
-
-### Spore Viability
-
-Fresh spores germinate massively and quickly, accelerating the entire timeline. Spores begin degrading a few months after collection, and after approximately 1.5 years, germination will be greatly reduced or may not occur at all. Using fresh, viable spore syringes is the best way to ensure the timeline proceeds as expected.
-
-### Spore Solution Volume
-
-Using more than the standard 1 cc of spore solution per jar speeds colonization by providing more inoculation points, at the cost of inoculating fewer jars per syringe.
-
-## See Also
-
-- [[pf-tek-cake-birthing-technique]] for removing the cake from the jar
-- [[pf-tek-fruiting-chamber]] for the dual chambered terrarium environment
-- [[dual-chambered-terrarium-design]] for terrarium construction and operation

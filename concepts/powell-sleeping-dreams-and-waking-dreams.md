@@ -1,5 +1,5 @@
 ---
-title: powell sleeping dreams and [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]] psilocybin-waking-dreams-and-serotonergic-neurochemistry
+title: Powell Sleeping Dreams And Waking Dreams
 created: 2026-04-28
 tags: [dreams, waking-dreams, REM-sleep, serotonin, psilocybin,
   neuroscience, consciousness, visionary-experience]

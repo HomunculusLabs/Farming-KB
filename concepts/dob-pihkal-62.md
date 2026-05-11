@@ -2,7 +2,7 @@
 title: DOB (4-Bromo-2,5-dimethoxyamphetamine)
 created: 2026-04-26
 updated: 2026-04-22
-sources: PIHKAL #62 (Alexander & Ann Shulgin)
+sources: PIHKAL #62 (Alexander & [[ann-shulgin]])
 type: concept
 tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 ---
@@ -88,12 +88,3 @@ The alpha-ethyl homologue of DOB is mentioned under the entry for ARIADNE (PIHKA
 - Flash depersonalization
 - Fugue states persisting into the following day
 - Residual plus-one effects at 14+ hours
-
-## Pharmacological Notes
-
-DOB contains a heavy bromine atom, making radioactive isotope-labeled material (82Br or 77Br) a powerful research tool. Human studies using whole-body scanners revealed that DOB accumulates first and foremost in the lungs for a couple of hours before brain levels build up. This suggests some metabolic conversion occurs in lung tissue, consistent with the relatively slow onset and extremely long duration of action.
-
-## Comparisons
-
-- vs. [[dom-pihkal-68]]: DOM (2,5-dimethoxy-4-methylamphetamine) is another classic DOx compound but with a methyl group instead of bromine. DOM is less potent and has a somewhat shorter duration.
-- vs. [[psychedelic-harm-reduction]] and [[psychedelic-research-legal-history-united-states]]

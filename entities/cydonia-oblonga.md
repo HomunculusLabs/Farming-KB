@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - USDA ARS (2023). "Cydonia oblonga Mill." Germplasm Resources Information Network (GRIN).
+  - USDA ARS (2023). "Cydonia oblonga Mill." Germplasm Resources mycelium-digestive-membrane-information-network (GRIN).
   - Rivera, D. et al. (2003). "Ethnobotany of Cydonia oblonga (quince) in the Mediterranean." Economic Botany 57(2): 186-194.
   - Magwaza, L.S. et al. (2016). "Quince (Cydonia oblonga Mill.) Fruit: A Review of query-what-are-the-main-bioactive-compounds-in-medicinal-plants and Health Benefits." Food Science and Technology International 22(4): 335-353.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book." 4th ed. Cambridge University Press.
@@ -23,9 +23,9 @@ created: 2026-05-07
 
 ## Overview
 
-Cydonia oblonga, commonly known as the quince, is a deciduous tree in the family Rosaceae and the sole species in the genus Cydonia. Native to the Caucasus region and Central Asia, it has been cultivated for over 4,000 years across the Mediterranean, Middle East, and temperate regions worldwide.
+Cydonia oblonga, commonly known as the quince, is a deciduous tree in the family Rosaceae and the sole species in the genus Cydonia. Native to the Caucasus region and Central Asia, it has been cultivated for over 4,000 years across the Mediterranean, Middle East, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-The quince produces large, golden-yellow pome fruits with a firm, highly aromatic flesh that is too astringent and hard to eat raw when unprocessed. It is valued for its exceptional pectin content, making it the traditional base for marmalade (the word derives from the Portuguese "marmelo" for quince), paste, jelly, and cooked desserts. In permaculture and food forest design, quince serves as a hardy, disease-resistant fruit tree that requires minimal maintenance.
+The quince produces large, golden-yellow pome fruits with a firm, highly aromatic flesh that is too astringent and hard to eat raw when unprocessed. It is valued for its exceptional pectin content, making it the traditional base for marmalade (the word derives from the Portuguese "marmelo" for quince), paste, jelly, and cooked desserts. In permaculture and [[backyard-food-forest-design]], quince serves as a hardy, disease-resistant fruit tree that requires minimal maintenance.
 
 ## Taxonomy
 
@@ -55,7 +55,7 @@ The quince is a small-to-medium deciduous tree, typically reaching 3–8 meters 
 
 ## Distribution and Habitat
 
-Cydonia oblonga is native to the region spanning the Caucasus Mountains, northern Iran, Turkmenistan, and possibly southwestern Turkey. It has been cultivated in the Mediterranean since antiquity — the fruit was sacred to Aphrodite in ancient Greece and widely depicted in Roman mosaics.
+Cydonia oblonga is native to the region spanning the Caucasus Mountains, northern Iran, Turkmenistan, and possibly southwestern Turkey. It has been cultivated in the Mediterranean since antiquity — the fruit was sacred to Aphrodite [[psychedelic-use-in-ancient-greece]] and widely depicted in Roman mosaics.
 
 The species is widely naturalized and cultivated across southern Europe, North Africa, the Middle East, Central Asia, and temperate regions of the Americas, Australia, and New Zealand. It thrives in USDA hardiness zones 5–9.
 
@@ -83,36 +83,8 @@ Quince is notable for its exceptionally high pectin content — approximately 1.
 - Potassium: 197 mg
 - Copper: 0.13 mg
 
-**Bioactive compounds:** Quince is rich in phenolic compounds, including hydroxycinnamic acids (chlorogenic, caffeic, ferulic acids), flavonoids (quercetin, kaempferol glycosides), and organic acids (citric, malic, ascorbic). The peel contains significantly higher concentrations than the flesh.
+**[[cordyceps-cancer-bioactive-compounds]]:** Quince is rich in [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], including hydroxycinnamic acids (chlorogenic, caffeic, ferulic acids), flavonoids (quercetin, kaempferol glycosides), and organic acids (citric, malic, ascorbic). The peel contains significantly higher concentrations than the flesh.
 
 Antioxidant capacity of quince extracts is high, comparable to or exceeding that of many common fruits. Anti-inflammatory, hepatoprotective, and antidiabetic activities have been demonstrated in animal and in vitro studies.
 
 ## Permaculture and Agroforestry Applications
-
-Quince occupies a valuable niche in food forest and permaculture systems as a low-maintenance, productive fruit tree for the understory or mid-canopy layer.
-
-**Guild planting:** Quince pairs well with comfrey as a [[nutrient-dynamic-accumulator-reference]] beneath the canopy, nitrogen-fixing groundcovers such as clover or alfalfa, and alliums as pest deterrents. Its late flowering makes it useful for extending the nectar flow season for pollinators.
-
-**Rootstock use:** Quince A and Quince C rootstocks are the standard dwarfing rootstocks for commercial pear cultivation, inducing earlier bearing and smaller tree size. This dual utility (fruit production and rootstock provision) increases its value in diverse planting systems.
-
-**Soil and water benefits:** The deep taproot system improves soil structure and brings nutrients from subsoil layers. The tree's [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for xeriscaping and water-wise garden designs. Fallen fruit provides significant [[hamilton-composting-and-organic-matter-management]] input.
-
-## Culinary Uses
-
-Quince is almost exclusively consumed cooked, as the raw flesh is excessively astringent and hard. Cooking transforms the texture and flavor, yielding a fragrant, pink-tinged, honey-sweet product.
-
-**Traditional preparations:** Quince paste (membrillo in Spanish, cotognata in Italian) is a firm, sliceable confection served with cheese. Quince jelly and marmalade are traditional throughout the Mediterranean and Middle East. Poached quince in syrup with spices (cinnamon, cloves, vanilla) is a classic dessert.
-
-**Modern uses:** Quince is used in pies, tarts, crumbles, and compotes. It pairs exceptionally well with pork, lamb, and game meats in savory preparations. The high pectin content makes it valuable as a natural thickening agent when combined with lower-pectin fruits in preserves.
-
-In Middle Eastern cuisine, quince features in stews (such as the Persian khoresh-e beh) alongside lamb, saffron, and split peas. The fruit's ability to hold its shape during long, slow cooking makes it ideal for braised dishes.
-
-## See Also
-
-- [[ficus-carica]]
-- [[castanea-sativa]]
-- [[juglans-regia]]
-- rosa-canina
-- [[food-forest]]
-- [[elaeagnus-umbellata]]
-- [[prunus-spinosa]]

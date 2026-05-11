@@ -1,7 +1,7 @@
 ---
 title: Brassinosteroid Cross-Kingdom Growth Regulation from Plants to Fungi
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
-topics: [cross-kingdom signaling, brassinosteroid, phytohormone, fungal biology, chemical ecology]
+topics: [cross-kingdom signaling, brassinosteroid, phytohormone, fungal biology, [[plant-volatile-communication-chemical-ecology]]
 ---
 
 # Brassinosteroid Cross-Kingdom Growth Regulation from Plants to Fungi
@@ -17,8 +17,8 @@ regulators influence fungal biology?
 
 ## Brassinosteroids: Originally Plant-Only Compounds
 
-Brassinosteroids were first isolated from Brassica napus (rapeseed) pollen in 1979
-by Grove et al. and were initially classified exclusively as plant growth hormones.
+Brassinosteroids were first isolated from [[brassica-napus]] (rapeseed) pollen in 1979
+by Grove et al. and were initially classified exclusively as [[gibberellins-plant-growth-hormones]].
 By 1990, approximately 30 brassinosteroid members had been identified across
 Angiospermae, Gymnospermae, and even a green alga. Their established functions in
 plants included:
@@ -26,7 +26,7 @@ plants included:
 - Promotion of cell elongation and cell division
 - Enhancement of vascular differentiation
 - Regulation of reproductive development
-- Mediation of stress responses (drought, temperature, pathogen attack)
+- Mediation of [[fungal-stress-responses]] (drought, temperature, pathogen attack)
 - Increase in crop yields and anti-stress effects in [[chamovitz-photoperiodism-agricultural-applications]]
 
 The assumption that brassinosteroids were plant-specific was reasonable given their
@@ -41,9 +41,9 @@ pattern of plant-derived compounds exhibiting biological activity across kingdom
 
 ### Plant Compounds Active on Fungi
 - **Auxins** (IAA): Many fungi produce and respond to indole-3-acetic acid, with
-  roles in hyphal branching, sporulation, and pathogenicity.
+  roles in [[hyphal-branching-regulation-nutrient-sensing-gadd]], sporulation, and pathogenicity.
 - **Cytokinins**: Fungi both produce and respond to cytokinins, which influence
-  fungal growth and development.
+  fungal [[cytokinin-plant-growth-and-development]].
 - **Abscisic acid (ABA)**: Some fungi respond to ABA with changes in stress
   tolerance and development.
 - **Ethylene**: Fungal pathogens often manipulate plant ethylene signaling, and
@@ -88,62 +88,3 @@ fungal sterol biosynthetic pathway, potentially redirecting metabolic flux towar
 growth-promoting compounds or away from growth-inhibiting ones.
 
 ## Evolutionary Implications
-
-The responsiveness of fungi to plant brassinosteroids raises evolutionary questions:
-
-- **Co-evolution with plants**: As saprophytes, *Psilocybe* species have evolved in
-  close contact with decaying plant material rich in phytosterols. The ability to
-  sense and respond to plant-derived sterol compounds could have provided an
-  evolutionary advantage by allowing fungi to detect favorable substrate conditions.
-
-- **Pre-adaptation for pathogenesis**: Many fungal pathogens manipulate plant
-  hormone signaling. Sensitivity to brassinosteroids could be a remnant of this
-  evolutionary arms race.
-
-- **Convergent signaling**: The cross-kingdom activity suggests that fundamental
-  aspects of sterol-based signaling are conserved between plants and fungi, despite
-  their use of different primary sterols (cholesterol/stigmasterol in plants vs.
-  ergosterol in fungi).
-
-## Implications for Natural Fungal-Plant Interactions
-
-In natural settings, *P. cubensis* colonizes herbivore dung containing partially
-digested plant material. This substrate would contain:
-- **Free phytosterols** from undigested plant cell membranes
-- **Brassinosteroids** from the original plant material (typically present at very
-  low concentrations)
-- **Brassinosteroid precursors** such as stigmasterol, campesterol, and sitosterol
-
-If the fungus can convert these precursors into bioactive brassinosteroids (or
-respond to them directly), it would have a mechanism for sensing substrate quality
-and adjusting its growth rate accordingly.
-
-## Broader Context: Chemical Ecology of Dung Fungi
-
-The cross-kingdom brassinosteroid effect is part of a larger pattern in the chemical
-ecology of coprophilous (dung-inhabiting) fungi:
-
-- Detection of specific bile acids to identify herbivore dung
-- Response to plant-derived compounds indicating [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
-- Interaction with bacterial metabolites in the dung micro-ecosystem
-- Sensitivity to nitrogen sources from urea and protein breakdown
-
-The [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] fits as a mechanism for detecting plant-derived
-nutritional markers in the substrate.
-
-## Future Research Directions
-
-Key questions for understanding cross-kingdom brassinosteroid signaling:
-1. Do fungi possess brassinosteroid-binding proteins or receptor homologs?
-2. Can fungi endogenously produce brassinosteroids from ergosterol?
-3. Is brassinosteroid sensitivity widespread among Basidiomycota?
-4. What downstream gene expression changes does [[annulus-loss-morphological-effect-brassinosteroid-treatment]] induce?
-5. Do other plant sterol derivatives (ecdysteroids, withanolides) show similar
-   cross-kingdom activity?
-
-## See Also
-
-- [[brassinosteroid-fungal-growth-promotion]] — Growth promotion evidence
-- [[brassinosteroid-natural-occurrence-plant-kingdoms]] — Plant distribution
-- [[phytohormone-activity-on-fungi-literature-gap-brassinosteroid]] — Literature gap
-- [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] — Mechanisms

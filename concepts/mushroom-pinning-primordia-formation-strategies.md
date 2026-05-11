@@ -11,16 +11,16 @@ type: concept
 
 # Mushroom Pinning and Primordia Formation Strategies
 
-Chapter IX of The Mushroom Cultivator provides a systematic framework
-for triggering pinhead formation in Agaricus cultivation. The four-stage
-process manages environmental parameters to move the crop from
+Chapter IX of [[coprinus-atrementarius-entity-the-mushroom-cultivator]] provides a systematic framework
+for triggering pinhead formation in [[agaricus-cultivation-and-species-guide]]. The four-stage
+process manages [[mushroom-cultivation-environmental-parameters]] to move the crop from
 vegetative mycelial growth through [[chen-maitake-primordia-initiation-fruiting]] to pinhead
 development. These principles apply broadly across cultivated species
 with species-specific modifications.
 
 ## Stage I: Pre-Initiation (5-7 Days)
 
-After [[mushroom-casing-scratching|casing application]] and
+After [[mushroom-casing-scratching]] and
 conditioning for even mycelial growth, key requirements include:
 
 1. The casing layer is at optimum moisture capacity.
@@ -29,7 +29,7 @@ conditioning for even mycelial growth, key requirements include:
 3. Relative humidity of the growing room is 95%.
 4. The substrate is incubated in total darkness.
 
-Water moves by capillary action to the casing surface where it
+Water moves by [[capillary-action-in-soils]] to the casing surface where it
 evaporates. This constant movement slowly depletes moisture, so high
 room humidity (95%) is essential. Lower humidities must be accompanied
 by light but regular waterings.
@@ -44,7 +44,7 @@ this critical period:
    air. This temperature shock slows [[cannabis-vegetative-growth-stage]] and signals
    fruiting.
 2. **Maintain 95% humidity.**
-3. **Reduce CO2** by introducing fresh air. For Agaricus brunnescens,
+3. **Reduce CO2** by introducing fresh air. For [[agaricus-brunnescens]],
    CO2 must fall below 2000 ppm. Higher levels cause overlay, a dense
    mycelial mat making the casing impervious to water.
 4. **Introduce light** on a 12-hour on/off cycle.
@@ -85,24 +85,6 @@ temperature for Agaricus is 62-64 F.
 
 Pinheads for the first and second flush are generated during the
 primordia formation period. Since 60-75% of total yield comes from
-these two flushes, the few days of pinhead initiation are the most
+these two flushes, the few days of [[pinhead-initiation-techniques]] are the most
 critical in [[duggar-mushroom-growing-history-and-methods]]. More pins set means higher yield (if
 nutrients suffice), but individual mushrooms will be smaller. The
-substrate supports only a certain number of primordia per flush;
-excess pins may abort. Early-forming volunteer pins delay neighbors;
-removing them before development is advantageous.
-
-## The Influence of Light
-
-Photosensitive species (e.g., [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Pleurotus ostreatus)
-respond to specific wavelengths: blue and near-UV light peaking at
-370, 440, and 460 nanometers. As little as half a millisecond per day
-at these wavelengths causes primordia formation (Badham, 1979). Red,
-infrared, and green light (>510 nm) are ineffective. Red light is
-safe for checking cultures without triggering premature pinning.
-
-## Related Concepts
-
-- [[mushroom-casing-moisture-management]]
-- [[mushroom-fruiting-conditions]]
-- mushroom primordia formation triggers

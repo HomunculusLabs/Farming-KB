@@ -6,7 +6,7 @@ The potency of psilocybin-containing mushrooms is influenced by multiple factors
 including species, growing conditions, substrate composition, age at harvest, and
 post-harvest handling. The PF TEK documentation by [[pf-tek-psilocybe-fanaticus]] (1996) and
 the broader mycological literature reveal that immature specimens are significantly
-more potent than mature ones, and that proper drying and storage are critical for
+more potent than mature ones, and that proper [[psilocybin-mushroom-drying-and-storage-methods]] are critical for
 preserving alkaloid content over time.
 
 ## Potency Determinants
@@ -19,9 +19,9 @@ immature specimens are significantly more potent than larger mature ones because
 - [[hplc-analysis-of-psilocybin-and-psilocin]] concentrations are highest in young, rapidly growing
   tissue
 - As the mushroom matures and expands, alkaloids become diluted in the larger mass
-- Spore production redirects metabolic resources away from alkaloid synthesis
+- [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] redirects metabolic resources away from alkaloid synthesis
 
-The veil-breaking point (when the partial veil tears) is a key harvest milestone.
+The veil-breaking point (when the [[partial-veil-tropism-protection-before-spore-release]] tears) is a key harvest milestone.
 Mushrooms harvested just before or right after the veil breaks are conical, with
 light-colored gills and minimal sporulation — optimal for potency.
 
@@ -30,7 +30,7 @@ light-colored gills and minimal sporulation — optimal for potency.
 The PF TEK's brown rice and [[pf-tek-brown-rice-vermiculite-substrate]] produces particularly potent
 mushrooms. Brown rice provides a nutrient-rich, simple carbohydrate base supporting
 efficient alkaloid biosynthesis. PF noted that while P. cubensis is sometimes
-considered "weak," potency depends heavily on growing medium, harvest timing, and
+considered "weak," potency depends heavily on [[cervantes-green-algae-growing-medium]], [[cannabis-harvest-timing-visual-cues]], and
 preservation method.
 
 ### Aborts and Mutants
@@ -68,7 +68,7 @@ with hot air dryers — heat leaches [[guzman-magic-mushrooms-chemical-constitue
 ### Wire Screen Air Drying
 
 Place mushrooms on a wire screen with air available to all sides. Works well as
-a pre-drying step in low humidity. After a couple of days, finish in a desiccant
+a pre-drying step in [[pf-tek-low-humidity-symptoms-and-remediation]]. After a couple of days, finish in a desiccant
 chamber.
 
 ### Desiccant Drying (Recommended)
@@ -87,48 +87,3 @@ plastic tub, plastic bag with tie-off.
 6. After 4-5 days, mushrooms are rock-hard (stem should snap cleanly)
 
 ### Cool Desiccation
-
-For maximum alkaloid preservation, place the desiccant box in a refrigerator
-for near-freezing temperature drying. This preserves the highest quality.
-
-## Storage
-
-Properly desiccated mushrooms retain chemical constituents for months when:
-- Sealed in plastic bags or canning jars with tight-fitting lids
-- Stored in a freezer in airtight containers (protect against freezer moisture)
-- Kept away from light and heat
-
-Desiccant can be reused indefinitely by heating and drying it, then storing
-in an airtight container until needed again.
-
-## Potency Degradation Over Time
-
-Scientific evidence confirms psilocybin and psilocin degrade over time:
-
-- Ohenoja et al. (1987): herbarium P. semilanceata showed 0.014% psilocybin
-  (1869), 0.67% (1954), 0.84% (1976) dry weight
-- Repke et al. (1977): no detectable indoles in P. baeocystis and P. cyanescens
-  analyzed 20-60 days after collection
-- [[mexican-indigenous-nomenclature-sacred-mushrooms]] practice: discard specimens dried for more than one year
-
-Psilocybin and psilocin appear to be volatile. Guzmán experienced hallucinations
-in 1958 simply from breathing air in a closed room filled with fresh psilocybin
-mushrooms — the hallucinations ceased upon leaving the room.
-
-## Summary
-
-Grow on brown rice, harvest young (before or at veil break), and cool-dry with
-desiccant. Following these practices, P. cubensis is "an entheogen of the highest
-order" — contradicting the common perception of it as a "weak" species.
-
-## See Also
-
-- [[pf-tek-brown-rice-vermiculite-cultivation]]
-- [[psilocybin-psilocin-chemistry-and-pharmacology]]
-
-## Sources
-
-- Fanaticus, R. (1996). PF TEK, 2nd Edition. Seattle, WA.
-- Ohenoja, E. et al. (1987). Psilocybin content of [[herbarium-specimens-fungal-collections]].
-- Repke, D.B. et al. (1977). Distribution of psilocybin in P. baeocystis.
-- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]

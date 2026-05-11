@@ -20,11 +20,11 @@ sources:
 
 ## Overview
 
-**Actaea racemosa** (black cohosh) is a perennial herbaceous plant in the family Ranunculaceae, native to eastern North America.
+**Actaea racemosa** (black cohosh) is a perennial herbaceous plant in the family Ranunculaceae, native to [[polypore-fungi-eastern-north-america]].
 
-It is one of the most commercially important medicinal plants native to North America, widely used for management of menopausal symptoms.
+It is one of the most commercially important medicinal plants native to [[guzman-psilocybin-mushrooms-north-america]], widely used for management of menopausal symptoms.
 
-The species was long classified as Cimicifuga racemosa and is still frequently referred to by that name in herbal medicine literature.
+The species was long classified as Cimicifuga racemosa and is still frequently referred to by that name in [[childrens-herbal-medicine]] literature.
 
 The specific epithet "racemosa" refers to the elongated raceme of white flowers produced in mid-summer.
 
@@ -72,7 +72,7 @@ Other significant compounds include cimicifugoside, actaeol, and various phenoli
 
 The triterpene glycosides belong to the cycloartane class and are considered the primary bioactive constituents responsible for the plant's pharmacological effects.
 
-Extracts of black cohosh have demonstrated serotonergic activity in vitro, binding to serotonin receptors (particularly 5-HT1A and 5-HT7) and modulating serotonin uptake.
+Extracts of black cohosh have demonstrated serotonergic activity in vitro, binding to [[psilocybin-pharmacology-and-serotonin-receptors]] (particularly 5-HT1A and 5-HT7) and modulating serotonin uptake.
 
 Anti-inflammatory activity has been documented through inhibition of cytokines including TNF-α and interleukin-6.
 
@@ -86,61 +86,4 @@ The Cherokee used the root for rheumatism, general malaise, and as a tonic, whil
 
 European settlers adopted the plant into Thomsonian and eclectic medical practice by the early 19th century.
 
-Modern herbal use focuses on the management of menopausal symptoms, particularly hot flashes, night sweats, and mood disturbances.
-
-Clinical trials have produced mixed results regarding efficacy for vasomotor symptoms.
-
-A 2012 Cochrane review found insufficient evidence to support the use of black cohosh for menopausal symptoms, though some individual trials have shown benefit.
-
-The herb is generally well tolerated, with the most common adverse effects being mild gastrointestinal discomfort.
-
-Rare cases of hepatotoxicity have been reported, though a causal relationship has not been firmly established.
-
-The German Commission E and the European Medicines Agency have issued positive monographs acknowledging its traditional use.
-
-Black cohosh is one of the top-selling herbal supplements in North America and Europe, with annual market values exceeding $100 million.
-
-## Cultivation
-
-**Actaea racemosa** is cultivated commercially for the herbal products industry, primarily in the Appalachian region of the eastern United States.
-
-Propagation from seed is slow and irregular, with germination requiring extended periods of warm and cold stratification.
-
-Division of established clumps in early spring or autumn is the most reliable propagation method for horticultural use.
-
-Plants require 3 to 5 years of growth before the rhizome reaches harvestable size.
-
-In the garden, black cohosh is valued as a dramatic architectural plant for shade gardens, with its tall flower spikes rising above the woodland understory.
-
-Several cultivars are available, including 'Brunette' with dark purple foliage and 'Atropurpurea' with bronze-tinted leaves.
-
-The species is hardy to USDA Zone 3 and tolerates a wide range of soil conditions provided moisture and shade are adequate.
-
-## Ecology and Conservation
-
-**Actaea racemosa** flowers from June through September, providing a late-summer nectar source for a variety of insects.
-
-The flowers attract bees, flies, beetles, and butterflies, though pollination biology has been relatively understudied compared to its medicinal chemistry.
-
-Seeds are dispersed by gravity and possibly by birds and small mammals.
-
-Wild populations face pressure from overharvesting, as commercial demand for the rhizome has historically been met primarily through wild collection.
-
-The species is listed as a species of concern in several states, and sustainable harvesting guidelines have been developed by organizations including United Plant Savers.
-
-Habitat loss from forest fragmentation and development also threatens local populations.
-
-The increasing availability of cultivated material has reduced but not eliminated pressure on wild stands.
-
-## See Also
-
-- [[pulsatilla-vulgaris]]
-- [[aconitum-napellus]]
-- [[clematis-vitalba]]
-- [[gelsemium-sempervirens]]
-- [[sanguinaria-canadensis]]
-- [[podophyllum-peltatum]]
-- [[xanthorhiza-simplicissima]]
-- [[caulophyllum-thalictroides]]
-- [[panax-quinquefolius]]
-- [[aristolochia-clematitis]]
+Modern herbal use focuses on the management of menopausal symptoms, particularly hot flashes, [[blesching-cannabis-cancer-night-sweats]], and mood disturbances.

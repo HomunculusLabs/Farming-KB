@@ -49,9 +49,9 @@ Frond thickness is 100–300 µm, making it one of the thinner edible red algae.
 
 It grows in the lower intertidal and shallow subtidal zones (0–20 m depth), typically attached to rock surfaces, shells, or other algae. It often grows epiphytically on *Laminaria* stipes.
 
-Optimal growth conditions include temperatures of 6–15°C, high light intensity, and moderate water motion. The species is sensitive to temperatures above 18°C and undergoes seasonal dieback in southern portions of its range.
+Optimal [[psilocybin-potency-variation-species-strain-growth-conditions]] include temperatures of 6–15°C, high light intensity, and moderate water motion. The species is sensitive to temperatures above 18°C and undergoes seasonal dieback in southern portions of its range.
 
-Nutrient-rich coastal waters with moderate to high nitrogen availability support the highest growth rates. Seasonal productivity peaks in spring and autumn.
+Nutrient-rich coastal waters with moderate to high [[nitrogen-availability-in-legumes]] support the highest [[coleman-sunlight-and-winter-crop-growth-rates]]. Seasonal productivity peaks in spring and autumn.
 
 ## Nutritional Profile
 
@@ -85,32 +85,6 @@ Dulse is also used in brewing as a flavoring agent in beer and as a nutrient sup
 
 ## Bioactive Properties
 
-*D. palmata* extracts have demonstrated antioxidant activity in multiple in vitro assays, primarily attributed to phenolic compounds and carotenoids including zeaxanthin and lutein.
+*D. palmata* extracts have demonstrated antioxidant activity in multiple in vitro assays, primarily attributed to [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and carotenoids including zeaxanthin and lutein.
 
 Anti-inflammatory effects have been documented, with dulse-derived polysaccharides reducing pro-inflammatory cytokine production in cellular models. The sulfated galactans in the [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] are responsible for this activity.
-
-Antimicrobial activity against several bacterial pathogens has been reported, including activity against *Listeria monocytogenes* and *Staphylococcus aureus*. This has prompted investigation of dulse extracts as natural food preservatives.
-
-The high dietary fiber content, primarily from floridean starch and cell wall polysaccharides, functions as a prebiotic. In vitro fermentation studies show selective stimulation of beneficial *Bifidobacterium* growth.
-
-## Cultivation and Aquaculture
-
-Wild harvest of dulse remains the primary supply source, with hand-picking during low tides along rocky shores of Ireland, Scotland, Iceland, and Atlantic Canada. Annual wild harvest is estimated at several hundred tonnes fresh weight.
-
-Cultivation research has demonstrated viable rope-based methods, growing *P. palmata* epiphytically on *Laminaria* or on seeded ropes directly. Growth rates of 3–7% per day have been achieved under optimal conditions.
-
-Challenges for commercial aquaculture include the species sensitivity to warm summer temperatures, competition from faster-growing fouling algae, and the labor-intensive nature of small-scale cultivation.
-
-Integrated multi-trophic aquaculture (IMTA) systems have been proposed, where dulse cultivation is combined with finfish or shellfish farming to extract dissolved nutrients from waste water. This approach improves overall farm sustainability.
-
-## See Also
-
-- [[acropora-palmata]]
-
-- [[thelephora-palmata]]
-
-- [[chondrus-crispus]] — Irish moss, co-occurring red alga with different industrial applications
-- [[ulva-lactuca]] — green alga sharing intertidal habitat with *P. palmata*
-- [[moringa-oleifera]] — terrestrial superfood with similarly high iron and mineral content
-- [[mycoremediation]] — [[staycare-composting-as-a-fungal-bioremediation-strategy]] complementary to algal nutrient extraction
-- [[food-forest]] — marine kelp forests as analogs of terrestrial food forest systems

@@ -1,5 +1,5 @@
 ---
-title: vic high cannabis genetics mendelian inheritance and Mendelian Inheritance
+title: Vic High Cannabis Genetics Mendelian Inheritance
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Cannabis Genetics and Mendelian Inheritance
 
-Vic High's foundational text on [[oner-cannabis-breeding-fundamentals]] uses Mendelian genetics as the conceptual framework for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create [[cannabis-true-breeding-ibl-strains]] strains. The text simplifies complex genetics by using single-gene (monogenic) models to illustrate principles that scale to more complex multi-gene (polygenic) realities.
+Vic High's foundational text on [[oner-cannabis-breeding-fundamentals]] uses Mendelian genetics as the [[holmgren-permaculture-flower-conceptual-framework]] for understanding how traits are inherited, how gene frequencies shift across generations, and how breeders can manipulate these processes to create [[cannabis-true-breeding-ibl-strains]] strains. The text simplifies complex genetics by using single-gene (monogenic) models to illustrate principles that scale to more complex multi-gene (polygenic) realities.
 
 As Vic High notes, breeding is not a black-and-white subject, and it would be too complex to put on paper in an easily understood form. Therefore, small fictional examples are used to reinforce various concepts before applying them to real breeding projects. The assumption that flavour is monogenic, for instance, is used purely for pedagogical simplicity.
 
@@ -20,7 +20,7 @@ In Vic High's framework, cannabis traits are controlled by gene pairs -- one gen
 
 There are two fundamental states a gene pair can occupy:
 
-- **Homozygous**: Both genes in the pair code for the same trait. A plant homozygous for pineapple flavour has two pineapple genes. Such an individual is considered true breeding for that trait because all its gametes will carry the same genetic information. It can only pass on one type of gene to its offspring.
+- **Homozygous**: Both genes in the pair code for the same trait. A plant homozygous for pineapple flavour has two pineapple genes. Such an individual is considered [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] for that trait because all its gametes will carry the same genetic information. It can only pass on one type of gene to its offspring.
 
 - **Heterozygous**: The two genes in the pair code for different traits (one pine, one pineapple). The plant will express only the dominant trait, but its gametes will carry either gene randomly. A heterozygous individual is not true breeding because its offspring can inherit either version of the gene.
 
@@ -83,47 +83,8 @@ Vic High states this explicitly: "all you are really doing is manipulating gene 
 
 Heterozygous individuals produce gametes (pollen or ovules) that can carry either allele. Homozygous individuals produce gametes carrying only one allele. This is the mechanism that creates variation in offspring and the raw material that breeders work with through selection.
 
-The frequency of each gene in the gamete pool directly determines the genetic composition of the next generation. An F1 generation that is all Pp will generate pollen containing one P gene for every p gene -- a 50:50 ratio that directly shapes the next generation's genetic makeup.
+The frequency of each gene in the gamete pool directly determines the genetic composition of the [[next-generation-sequencing-hidden-fungal-diversity]]. An F1 generation that is all Pp will generate pollen containing one P gene for every p gene -- a 50:50 ratio that directly shapes the next generation's genetic makeup.
 
 ## Gene Frequency in Decimal Form
 
 For complex multi-generational calculations, Vic High switches from fractions to decimals. The conversion is straightforward: each genotype ratio becomes a decimal by dividing by the total. For example, a genepool of 1521PP + 2418Pp + 861pp (total 4800) becomes:
-
-- 1521/4800 = 0.32 PP
-- 2418/4800 = 0.50 Pp
-- 861/4800 = 0.18 pp
-
-The gene frequency for P in this genepool is (0.32 + 0.25) / 1 = 0.57, and since p = 1 - P, the frequency of p is 0.43. This decimal approach makes complex cross calculations manageable.
-
-## The Heterozygous Individual as Starting Point
-
-Vic High emphasises that when a new desirable trait appears in a population (such as pineapple flavour in a pine-flavoured population), the individual expressing it is likely heterozygous if the trait is dominant. This is because the trait is new and rare -- the probability of two copies coming together is low. This assumption underpins many of the breeding models in the text and explains why dominant traits are harder to stabilise than recessive ones.
-
-For recessive traits, the situation reverses: any individual expressing the trait must be homozygous, which makes it immediately valuable as a breeding parent.
-
-## From Monogenic to Polygenic Reality
-
-While the models use single-gene assumptions for clarity, Vic High repeatedly emphasises that real cannabis traits are polygenic (controlled by multiple gene pairs). The principles demonstrated with single genes apply to multi-gene traits, but the math compounds:
-
-- For a trait influenced by two recessive genes, each fixed individually at 87.5%: 87.5% x 87.5% = 76.6%.
-- Adding a third gene (two recessive, one heterozygous dominant): 87.5% x 87.5% x 71.9% = 55%.
-- Going from one to three genes drops the [[maitake-fruiting-body-success-rate-management]] from 87.5% to just 55%.
-
-This compounding effect means that as genetic complexity increases, the probability of achieving desired outcomes decreases dramatically without deliberate selection pressure.
-
-## Key Takeaways
-
-- All cannabis breeding is fundamentally the manipulation of gene frequencies within a population.
-- Homozygous individuals are true breeding; heterozygous individuals are not.
-- Dominant traits can hide recessive genetic information, complicating selection.
-- Single-gene Mendelian models illustrate principles that scale to polygenic reality, where probabilities multiply.
-- Gene frequency is the breeder's primary metric for measuring progress toward any breeding goal.
-- Mathematical shortcuts allow breeders to predict outcomes across multiple generations.
-- The polygenic nature of real cannabis traits means breeding success rates compound negatively with each additional gene pair.
-- Decimal notation simplifies complex multi-generational gene frequency calculations.
-- [[cannabis-true-breeding-ibl-strains]]
-- [[cannabis-phenotype-and-genotype-guide]]
-- [[cannabis-chromosomes-and-mendelian-inheritance]]
-
-- [[vic-high-cannabis-polyhybrid-crosses-and-f1-stability]]
-- [[vic-high-selfing-and-regular-seed-production]]

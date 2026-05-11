@@ -12,9 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Bedry, R. et al. (2001). \"Emergence of new rhabdomyolysis-associated mushroom poisoning.\" New England Journal of Medicine, 345(11), 798-802."
+  - "Bedry, R. et al. (2001). \"Emergence of new rhabdomyolysis-associated amanita-toxins-and-mushroom-poisoning.\" New England Journal of Medicine, 345(11), 798-802."
   - "Kuo, M. (2023). Tricholoma equestre at MushroomExpert.com. https://www.mushroomexpert.com/tricholoma_equestre.html"
-  - "Siłus, M. et al. (2009). \"Tricholoma equestre: a poisonous mushroom responsible for delayed rhabdomyolysis.\" Clinical Toxicology, 47(5), 410-413."
+  - "Siłus, M. et al. (2009). \"Tricholoma equestre: a [[growing-gourmet-poisonous-mushroom-lookalikes]] responsible for delayed rhabdomyolysis.\" Clinical Toxicology, 47(5), 410-413."
   - "Gerault, A. & Giraud, J.M. (2015). \"Acute rhabdomyolysis after ingestion of Tricholoma equestre.\" Journal of Medical Toxicology, 11(2), 287-290."
   - "Breitenstein, M. & Kränzlin, F. (2000). Fungi of Switzerland, Vol. 3. Verlag Mykologia."
 ---
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Tricholoma equestre, commonly known as the yellow knight, man on horseback, or chevalier, is a basidiomycete fungus in the family Tricholomataceae. Historically regarded as an excellent edible mushroom across Europe, it was reclassified as poisonous following a series of documented poisoning cases in southwestern France beginning in the 1990s. Consumption has been linked to delayed-onset rhabdomyolysis — a potentially fatal breakdown of skeletal muscle tissue. This reclassification represents one of the most significant changes in mycotoxicological understanding in modern times.
+Tricholoma equestre, commonly known as the yellow knight, man on horseback, or chevalier, is a basidiomycete fungus in the family Tricholomataceae. Historically regarded as an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across Europe, it was reclassified as poisonous following a series of documented [[palmer-toadstool-poisoning-cases]] in southwestern France beginning in the 1990s. Consumption has been linked to delayed-onset rhabdomyolysis — a potentially fatal breakdown of skeletal muscle tissue. This reclassification represents one of the most significant changes in mycotoxicological understanding in modern times.
 
 ## Taxonomy
 
@@ -67,11 +67,11 @@ The name T. flavovirens is still commonly encountered in field guides and mycolo
 
 ## Distribution and Habitat
 
-- **Geographic range:** Widely distributed across Europe, from Scandinavia to the Mediterranean. Also reported from North Africa, Asia (Japan, Korea), and temperate North America (taxon may differ).
+- **Geographic range:** Widely distributed across Europe, from Scandinavia to the Mediterranean. Also reported from North Africa, Asia (Japan, Korea), and temperate [[guzman-psilocybin-mushrooms-north-america]] (taxon may differ).
 - **Habitat:** Ectomycorrhizal, forming associations with conifers and some hardwoods. Most commonly found under Scots pine (*[[pinus-sylvestris]]*) and maritime pine (*Pinus pinaster*), also under spruce (*Picea* spp.), birch (*Betula* spp.), and oak (*Quercus* spp.).
 - **Substrate/soil:** Prefers sandy or acidic soils in coniferous and mixed forests, heathlands, and coastal pine woodlands.
 - **Seasonality:** Late summer to late autumn (August–November). Prefers cool, wet conditions.
-- **Frequency:** Can be locally abundant, forming large troops or fairy rings in favorable pine forests.
+- **Frequency:** Can be locally abundant, forming large troops or [[bloomfield-fairy-rings-armillaria-giant-fungi]] in favorable pine forests.
 
 ## Toxicology
 
@@ -88,40 +88,3 @@ The discovery of T. equestre's toxicity represents a landmark case in medical my
 - **Reversal of status:** Prior to Bedry's 2001 NEJM publication, T. equestre was listed in major European field guides as "excellent edible" and was commercially sold in markets in France, Spain, Poland, and Russia. The species was subsequently reclassified as poisonous.
 
 ### Unresolved Questions
-
-- **Individual susceptibility:** It remains unclear whether toxicity is purely dose-dependent or whether individual factors (genetics, concurrent medications, pre-existing conditions) contribute.
-- **Geographic variation:** No confirmed poisoning cases from Eastern Europe or Russia, where consumption continues. Some researchers hypothesize population-level differences in toxin production linked to host tree or environment.
-- **Toxic principle:** Despite two decades of investigation, the specific myotoxin has not been isolated.
-
-## Historical Culinary Significance
-
-T. equestre was historically one of the most popular wild edible mushrooms in Europe, particularly in:
-
-- **France:** Collected commercially in Landes, Gironde, Pyrénées-Atlantiques; sold as "tricholome jaunissant" or "chevalier."
-- **Spain:** Known as "catalufa," widely collected in northern Spain.
-- **Poland:** Known as "gąska zielonka," considered a premium edible.
-- **Russia/Eastern Europe:** Widely consumed, often dried for winter use.
-
-The reversal of its edibility status was controversial in mycological circles. Some mycologists in Eastern Europe continue to dispute the reclassification, arguing that traditional consumption spanning centuries without widespread reports of toxicity suggests regional or methodological factors are at play.
-
-## Similar Species
-
-| Species | Distinguishing Features | Edibility |
-|---------|----------------------|-----------|
-| *Tricholoma sejunctum* | Cap has darker olivaceous streaks; gills more clearly sinuate; on hardwoods | Unknown, generally avoided |
-| *Tricholoma sulphureum* | Strong sulfurous odor; gills sulfur-yellow; more robust | Poisonous |
-| *Tricholoma lucidum* | Darker reddish-brown cap; bitter taste; on oak | Inedible (bitter) |
-| *Tricholoma scalpturatum* | Cap with silvery-fibrillose surface, grayish; smaller stature | Edible, mild |
-| *[[hygrophoropsis-aurantiaca]]* | True gills (not lamellae); bright orange; on conifer litter | Edible, good |
-
-## Ecological Role
-
-- **Ectomycorrhizal partner:** Forms obligate [[plants-without-mycorrhizal-associations]], primarily with Pinaceae. The relationship provides the host tree with enhanced phosphorus and nitrogen uptake in exchange for photosynthate carbon.
-- **Forest [[dighton-mycorrhizal-diversity-ecosystem-function]]:** Contributes to nutrient cycling through [[mycelial-networks]] connecting trees. Plays a role in establishing pine seedlings in disturbed or sandy soils.
-- **Wildlife food source:** Despite human toxicity, the mushroom is consumed by slugs, insects, and small mammals without apparent ill effect, suggesting the toxin may not affect non-primate physiology or that detoxification mechanisms exist in other species.
-
-## See Also
-
-- [[amanita-muscaria-entity]] — Another prominent mycorrhizal mushroom of pine forests
-- [[cortinarius-rubellus]] — Deadly poisonous mycorrhizal mushroom of coniferous forests
-- [[boletus-edulis-entity]] — Safe, prized edible mushroom of similar pine forest habitats

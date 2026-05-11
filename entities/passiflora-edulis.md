@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vanderplank, J. (1996). "Passion Flowers and Passion Fruit." MIT Press, 3rd edition.
-  - Cerqueira-Silva, C.B. et al. (2014). "The genetic diversity and structure of Passiflora edulis." Genetic Resources and Crop Evolution, 61, 1097–1111.
+  - Cerqueira-Silva, C.B. et al. (2014). "The [[biodiversity-fungal-genetic-diversity]] and structure of Passiflora edulis." Genetic Resources and Crop Evolution, 61, 1097–1111.
   - Dhawan, K. et al. (2004). "Passiflora: A review update." Journal of Ethnopharmacology, 94, 1–23.
   - FAO (2023). "FAOSTAT: Passion Fruit Production Data." Food and Agriculture Organization.
 ---
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Passiflora edulis** (passion fruit) is a perennial climbing vine in the family Passifloraceae, widely cultivated for its aromatic, nutrient-rich fruits. Two distinct forms are recognized: the purple passion fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
+**Passiflora edulis** (passion fruit) is a perennial climbing vine in the family Passifloraceae, widely cultivated for its aromatic, nutrient-rich fruits. Two distinct forms are recognized: the [[haze-plum-purple-passion-medical-sativa-strain]] fruit (P. edulis f. edulis) and the yellow passion fruit (P. edulis f. flavicarpa).
 
 The species is native to southern Brazil through Paraguay to northern Argentina. Commercial production now spans tropical and subtropical regions worldwide, with Brazil, Colombia, Kenya, and Ecuador as leading exporters.
 
@@ -44,11 +44,11 @@ Fruits are berries, globose to ovoid, 4–8 cm in diameter, with a tough outer r
 
 Passion fruit is cultivated between approximately 20°N and 30°S latitude. The purple form thrives in subtropical highlands at 800–2,000 m elevation with moderate temperatures (18–25°C). The yellow form prefers lowland tropical conditions (23–28°C) from sea level to 800 m.
 
-Optimal rainfall ranges from 1,200–2,500 mm annually, well-distributed throughout the growing season. The crop requires well-drained soils with pH 5.5–7.0 and is sensitive to waterlogging.
+Optimal rainfall ranges from 1,200–2,500 mm annually, well-distributed throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The crop requires well-drained soils with pH 5.5–7.0 and is sensitive to waterlogging.
 
 Major production areas include Brazil (especially São Paulo and Paraná states), Colombia, Ecuador, Peru, Kenya, Uganda, Australia, and South Africa. India, Vietnam, and the Caribbean islands are expanding producers.
 
-The species has naturalized in many tropical regions outside its native range, including parts of Africa, Southeast Asia, and Pacific islands. It can become weedy in disturbed habitats and forest margins.
+The species has naturalized in many tropical regions outside its native range, including parts of Africa, Southeast Asia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It can become weedy in disturbed habitats and forest margins.
 
 ## Nutritional and Chemical Profile
 
@@ -68,7 +68,7 @@ Flowering occurs year-round in tropical lowlands but may be seasonal in subtropi
 
 Average yields range from 15–25 tonnes of fresh fruit per hectare per year under commercial management. The yellow form generally produces higher yields (20–40 t/ha) than the purple form (8–15 t/ha).
 
-Major pests include fruit flies (Bactrocera spp.), aphids, mites, and nematodes. Diseases of significance include brown spot (Alternaria passiflorae), Fusarium wilt, woodiness virus, and anthracnose (Colletotrichum gloeosporioides).
+Major pests include fruit flies (Bactrocera spp.), aphids, mites, and nematodes. Diseases of significance include brown spot (Alternaria passiflorae), Fusarium wilt, woodiness virus, and anthracnose ([[colletotrichum-gloeosporioides]]).
 
 Hand harvesting is standard, with fruits collected at the ripe stage when they drop or show color change. Post-harvest life is relatively short (2–3 weeks at 7–10°C), necessitating rapid processing or local market distribution.
 
@@ -86,29 +86,4 @@ Passion fruit seed oil, extracted by cold pressing, is rich in linoleic acid and
 
 Passiflora edulis leaves and vine parts have been used in traditional medicine across South America, Europe, and parts of Asia for centuries. Indigenous Tupi-Guarani peoples of Brazil used leaf infusions as a calming remedy and digestive aid.
 
-Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary bioactive compounds responsible for anxiolytic activity. These compounds modulate GABA-A [[tihkal-receptor-binding-serotonin]], producing sedative effects without the side effects of benzodiazepines.
-
-[[mushroom-cancer-clinical-trials-overview]] using Passiflora extract have demonstrated efficacy comparable to oxazepam for generalized anxiety disorder in some studies, with fewer reported [[blesching-cannabis-safety-adverse-effects-evidence]]. Standardized extracts typically contain 0.5–2.0% total flavonoids calculated as vitexin.
-
-The fruit pulp exhibits antioxidant, anti-inflammatory, and antimicrobial activities in vitro. Beta-carotene and vitamin C contribute to radical scavenging capacity, while dietary fiber supports prebiotic effects on gut microbiota.
-
-## See Also
-
-- [[strelitzia-reginae]]
-
-- [[passiflora-foetida]]
-
-- [[cordeauxia-edulis]]
-
-- [[mangifera-indica]]
-- [[persea-americana]]
-- [[cymbopogon-citratus]]
-- [[moringa-oleifera]]
-- [[colocasia-esculenta]]
-- [[manihot-esculenta]]
-- [[phaseolus-vulgaris]]
-- [[pachyrhizus-erosus]]
-- crotalaria-juncea
-- [[chenopodium-quinoa]]
-- [[eleusine-coracana]]
-- [[saccharum-officinarum]]
+Pharmacological studies have identified flavonoid C-glycosides (orientin, isoorientin, vitexin, isovitexin) as the primary [[cordyceps-cancer-bioactive-compounds]] responsible for anxiolytic activity. These compounds modulate GABA-A [[tihkal-receptor-binding-serotonin]], producing sedative effects without the side effects of benzodiazepines.

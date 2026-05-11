@@ -28,7 +28,7 @@ that combines notes of pineapple, lemon, and rhubarb. Naranjilla juice is a
 popular beverage throughout the Andean region.
 
 Despite its commercial importance in Ecuador and Colombia, the species remains
-relatively unknown outside South America. It is considered one of the most
+relatively unknown outside [[guzman-psilocybin-mushrooms-south-america]]. It is considered one of the most
 promising "lost crops of the Andes" for wider cultivation.
 
 ## Taxonomy and Morphology
@@ -58,14 +58,14 @@ The pulp is green, juicy, and acid, containing numerous small seeds.
 
 The species is native to elevations of 1,000–2,300 m in the Andean cordilleras
 of Ecuador, southern Colombia, and northern Peru. It requires a cool tropical
-or subtropical climate.
+or [[query-how-do-i-grow-bananas-in-a-subtropical-climate]].
 
 Optimal growing conditions include temperatures of 15–20°C, high humidity (70–
 85%), and annual rainfall of 1,500–3,000 mm distributed evenly throughout the
 year. It does not tolerate frost or prolonged drought.
 
-Natural populations are found in forest margins and clearings in cloud forest
-and upper montane forest ecosystems. The species prefers rich, well-drained
+Natural populations are found in forest margins and clearings in [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
+and upper montane [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. The species prefers rich, well-drained
 volcanic soils with pH 5.0–6.5.
 
 Commercial cultivation is concentrated in Ecuador (provinces of Pichincha,
@@ -86,50 +86,5 @@ plantings. In the Andean highlands, full sun is tolerated due to lower ambient
 temperatures.
 
 Irrigation is essential during dry periods, and mulching helps maintain soil
-moisture and suppress weeds. Fertilization with balanced NPK applications at
-2–3 month intervals supports continuous fruit production.
-
-A spineless cultivar (*S. quitoense* var. * septentrionale*) was developed in
-Ecuador for easier handling. It produces larger, smoother fruit but with
-slightly different flavor characteristics.
-
-## Culinary and Nutritional Use
-
-The primary use is fresh juice, either alone or blended with other tropical
-fruits. Naranjilla juice is strained to remove the irritating pubescence and
-seeds, then sweetened to taste.
-
-The fruit is also used in ice creams, sherbets, cocktails, jams, and pies. In
-Colombia, it is a key ingredient in the traditional drink "lulada."
-
-Nutritional analysis per 100 g edible pulp: Vitamin C 30–40 mg, Vitamin A 500–
-800 IU, Calcium 8–12 mg, Phosphorus 25–35 mg, Iron 0.5–1.0 mg.
-
-The pulp contains pectin and citric acid, giving it preservative qualities for
-jam-making. The acidity (pH 3.0–3.5) limits microbial spoilage naturally.
-
-## Pests and Diseases
-
-The species is highly susceptible to root-knot nematodes (*Meloidogyne* spp.),
-which are the [[lichens-primary-production-soil-formation-dighton]] constraint. Infested plants show stunted
-growth, yellowing, and root galling that can kill the plant within months.
-
-Major insect pests include the naranjilla [[fukuoka-australia-fruit-fly-incident]] (*Neosilba pendula*),
-aphids (*Myzus persicae*), and whiteflies (*Trialeurodes vaporariorum*). The
-pubescent leaves provide some protection against leaf-chewing insects.
-
-Fungal diseases include anthracnose (*Colletotrichum gloeosporioides*) causing
-fruit rot, and [[cervantes-powdery-mildew-prevention-treatment]] (*Oidium* spp.) on leaves. Botrytis gray mold
-affects fruit in cool, humid conditions.
-
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management relies on resistant rootstocks, [[comparison-crop-rotation-vs-cover-cropping]],
-nematicides, and biological controls. Grafting onto nematode-resistant
-*Solanum torvum* rootstock has shown promise in extending plant lifespan.
-
-## See Also
-
-- [[capsicum-annuum]]
-- [[physalis-peruviana]]
-- [[mangifera-indica]]
-- ananas
-- punica-granatum
+moisture and [[query-how-do-cover-crops-suppress-weeds]]. Fertilization with balanced NPK applications at
+2–3 month intervals supports continuous [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].

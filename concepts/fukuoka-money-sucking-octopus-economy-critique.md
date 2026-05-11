@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
@@ -29,7 +30,7 @@ Fukuoka described the octopus economy as having a central body and eight legs th
 1. Maintenance of the **transportation network** — road, rail, and air transportation
 2. Control of agencies administering **transportation**
 3. Supervision of **communications**
-4. Establishment of an **economic information network**
+4. Establishment of an **economic [[mycelium-digestive-membrane-information-network]]**
 5. **Education** and administrative advising
 6. Control of **financial institutions**
 7. Control of **information**
@@ -87,33 +88,6 @@ This perspective highlights that attachment to material accumulation is not univ
 Fukuoka observed that Japan's economic structure was particularly fragile:
 
 - More than 80% of Japanese people were once farmers; now farming accounts for barely 5%
-- Secondary trade and manufacturing have been surpassed by tertiary consumer service industries
-- If a typhoon of economic depression arises, this structure will certainly collapse
-- The current prosperity and an upcoming economic crisis sit back-to-back
-
-He noted that agrarian landscapes still existing in Asia, Africa, and India represent a "proud agrarian ethic." A Thai folksong celebrates this simpler life: "There is rice in the fields / There are fish in the water / We have sown the seeds / Tonight the moon is full."
-
-## Connection to Agriculture
-
-The octopus economy directly enables destructive [[mycorrhizal-agricultural-practices]]:
-
-- Commodification of food disconnects people from the land
-- [[cash-crop-guide]] monocultures replace diverse subsistence farming
-- The distribution system rewards middlemen rather than producers
-- Petroleum-based agriculture becomes possible only through centralized economic control
-- Whoever controls petroleum can control the world's food supply
-
-## Philosophical Roots
-
-The octopus economy critique emerges from Fukuoka's deeper philosophical positions:
-
-- Material things have no intrinsic value
-- Value is born and disappears according to the whims of the times
-- There is nothing for people to gain and nothing for them to lose
-- As long as people lived according to natural law, they could die peacefully
 
 ## See Also
-
-- [[fukuoka-mu-economics-and-value-of-nothing-essay]]
-- [[fukuoka-petroleum-agriculture-food-quality-decline]]
-- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
+- [[fukuoka-critique-agricultural-development]]

@@ -1,6 +1,6 @@
 ---
 title: Front-End Design Versus Back-End maitake-problem-solving-troubleshooting in Permaculture
-source: Permaculture: Principles and Pathways Beyond Sustainability (Holmgren, 2002)
+source: Permaculture: Principles and Pathways [[holmgren-beyond-sustainability]] (Holmgren, 2002)
 tags: [permaculture, design, agriculture, systems-thinking, problem-solving]
 ---
 
@@ -33,7 +33,7 @@ export. Irrigation compensates for the failure to retain soil moisture through
 ## The Aspirin Analogy
 
 Holmgren offers a striking analogy: conventional farmers depend on
-agricultural chemicals in the same way that a person depends on aspirin to
+[[agricultural-chemicals-mycorrhizal-impact]] in the same way that a person depends on aspirin to
 manage chronic headaches. The aspirin does not address the underlying cause
 of the headaches --- it merely suppresses the symptoms while the root problem
 worsens. Similarly, agricultural chemicals suppress symptoms of system
@@ -72,7 +72,7 @@ more expensive and eventually unavailable.
 
 ## Waste Production as Design Failure
 
-The enormous waste outputs of conventional agriculture --- chemical runoff,
+The enormous waste outputs of conventional agriculture --- [[mycofiltration-of-chemical-runoff]],
 packaging waste, food waste, greenhouse gas emissions, degraded land --- are
 not incidental byproducts but intrinsic features of back-end design. When a
 system treats problems as externalities to be managed rather than design
@@ -82,56 +82,9 @@ beginning by ensuring that every output serves as an input elsewhere.
 
 ## Front-End Design Principles in Action
 
-Permaculture's twelve design principles function collectively as a front-end
+Permaculture's [[holmgren-permaculture-twelve-design-principles-framework]] function collectively as a front-end
 design methodology. "[[holmgren-observe-and-interact-detailed]]" ensures that designs are grounded
 in local reality rather than generic templates. "[[permaculture-principle-integrate-rather-than-segregate]] Than
 Segregate" creates beneficial relationships between system elements that
-reduce the need for external interventions. "Use and Value Diversity" builds
-resilience against pests, diseases, and climate variability. "Design from
-Patterns to Details" ensures that systems work with natural forces rather
-than against them. Together, these principles address potential problems at
-the design stage, before they manifest as symptoms requiring treatment.
-
-## Permanent Design Solutions
-
-A key insight in Holmgren's framework is that good design solutions are
-permanent --- they need only be discovered once. Once a farmer understands
-how to design a productive polyculture that maintains its own fertility, that
-knowledge can be applied indefinitely without escalating inputs. This stands
-in stark contrast to back-end solutions, which must be continuously applied
-and often require increasing doses as the underlying problems worsen.
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], in this sense, is an investment in understanding that
-yields compounding returns over time, while back-end interventions are a
-debt that accumulates interest.
-
-## Holographic Thinking
-
-The foreword to Holmgren's book introduces the concept of holographic
-thinking --- the capacity to see any particular aspect of a system as
-containing within it the pattern of the whole. Front-end design requires this
-holographic perspective: the designer must understand how a decision about
-water management affects soil biology, how a plant selection influences pest
-dynamics, how a building design shapes energy flows, and how all these
-interactions cascade through the system. Back-end problem solving, by
-contrast, is inherently fragmentary: it addresses symptoms in isolation
-without considering their systemic origins. The shift from back-end to front-
-end thinking is ultimately a shift from fragmented, reactive consciousness
-to holographic, design-oriented consciousness.
-
-## Implications for Energy Descent
-
-As energy descent reduces the availability of the cheap fossil energy that
-makes back-end problem solving temporarily viable, the front-end design
-approach becomes not merely preferable but necessary. Systems that have been
-designed to prevent problems will continue functioning with minimal external
-inputs, while systems dependent on reactive interventions will become
-progressively more expensive and eventually non-viable. Holmgren argues that
-the transition to front-end design is not optional but inevitable --- the
-only question is whether it occurs proactively, through deliberate design
-choice, or reactively, through catastrophic system failure.
-
-## See Also
-  - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
-
-- [[holmgren-permaculture-twelve-design-principles-framework]]
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
+reduce the need for external interventions. "Use [[permaculture-principle-use-and-value-diversity]]" builds
+resilience against pests, diseases, and [[macrofungal-fruiting-phenology-climate-variability]]. "Design from

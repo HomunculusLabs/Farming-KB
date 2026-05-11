@@ -88,29 +88,3 @@ The species provides microhabitat for various lichenicolous fungi, including spe
 The bright yellow soralia of L. chlorotera make it one of the most visually conspicuous crustose lichens on bark. This conspicuousness has made it a popular introductory species in lichen identification workshops and field courses.
 
 ## Uses and Significance
-
-Lecanora chlorotera has no known economic uses in traditional medicine, dyeing, or food. It is too small and too variable in its chemistry to be of practical interest for compound extraction.
-
-The crustose growth form makes harvesting impractical even if bioactive compounds were present in higher concentrations. No traditional cultures have documented uses for this or similar Lecanora species.
-
-The species is of considerable taxonomic significance within the Lecanora subfusca group. It has served as a focal species for understanding species delimitation and chemical variation within this notoriously difficult species complex.
-
-In biomonitoring programs, L. chlorotera is used as an indicator of moderate to elevated nitrogen deposition. Its increasing abundance in European forests has been documented as a consequence of agricultural intensification and atmospheric nitrogen pollution.
-
-Declines in acid-sensitive species such as Usnea have been accompanied by increases in nitrophytic species including L. chlorotera. This community shift is one of the most widely documented effects of atmospheric nitrogen deposition on epiphytic lichens.
-
-Long-term monitoring data from the UK and Netherlands show significant increases in L. chlorotera frequency over the past three decades. These trends correlate with measured increases in atmospheric ammonia and ammonium deposition.
-
-Molecular phylogenetic studies have placed L. chlorotera within a well-supported clade that includes several other sorediate Lecanora species. These relationships have implications for understanding the evolution of soredia as a dispersal mechanism within the genus.
-
-## See Also
-
-- [[lecanora-chlarotera]]
-
-- [[parmelia-sulcata]]
-- [[physcia-aipolia]]
-- [[xanthoria-elegans]]
-- [[cladonia-rangiferina]]
-- [[anaptychia-ciliaris]]
-- [[usnea-florida]]
-- [[ramalina-fraxinea]]

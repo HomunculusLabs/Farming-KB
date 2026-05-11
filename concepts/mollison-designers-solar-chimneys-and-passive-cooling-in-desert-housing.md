@@ -1,5 +1,5 @@
 ---
-title: mollison designers solar chimneys and passive cooling in desert housing and Passive Cooling in Desert Housing
+title: Mollison Designers Solar Chimneys And Passive Cooling In Desert Housing
 created: 2026-04-26
 tags:
   - solar-chimney
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -43,7 +44,7 @@ tank placed within the arbor.
 large pipes, half-round culverts, or [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] materials
 provided in their air flow. Large unglazed pots, pans of wet coke, or
 curtains of coarse fibreglass weave can be drip-fed to provide
-evaporative cooling. Even beds of coarse bark kept damp does the job.
+[[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]. Even beds of coarse bark kept damp does the job.
 [[mollison-designers-cool-humid-climate-design-overview]] air continually falls through these tunnels to the house
 rooms.
 
@@ -74,7 +75,7 @@ dry toilet systems as well as house ventilation.
 
 If a fully-enclosed and totally vined shadehouse is constructed on the
 shade side of the house, and a solar chimney induces cross-ventilation
-on the sun side, a continuous cool and humid air cross flow results.
+on the sun side, a continuous cool and [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]] cross flow results.
 Provided the cool air can enter the living areas by a fairly direct
 route, and that some water is available to supply the vines with
 evaporative cooling, air can commonly be cooled to 10-15 degrees C
@@ -87,35 +88,3 @@ unlimited cool air.
 As well as cooling devices, heat sources are needed for the
 frequently cold winters and cold cloudless nights. Depending on
 latitude, windows allowing sun to strike an edge-insulated concrete
-slab will provide all the heat needed. A thick vertical wall of mud
-brick standing 0.5 m inside a room, and faced with a glass window,
-will act as a heater long after dark (the Trombe wall effect).
-
-An attached glasshouse has three potential uses in deserts: to create
-a winter heat source; to draw cool air into the house during the
-summer; and to grow greens in winter or start spring plants early. At
-high latitudes (30-60 degrees north or south) extensive glazing is
-needed; at lower latitudes (0-30 degrees), about 20-25% of the
-sun-facing wall will need glazing to provide sufficient heat onto
-cement slabs or trombe walls.
-
-## Design Savings
-
-It is a simple matter to close the house at night, or on cold days,
-and to retain glasshouse heat inside. Such designs save up to 80% of
-fuel energy, a particularly important factor for low-income groups,
-where energy can be 30-40% of total household expenditure. As glass
-and trellis are durable, and as costs amortise in 1-3 years, it
-makes sense to make these beneficial retrofits to uncomfortable
-houses.
-
-## Related Topics
-
-- mollison-cross-ventilation-passive-cooling - Passive cooling
-  principles
-- mollison-reactive-house-and-sustainable-structures - Sustainable
-  building approaches
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]
-  - [[mollison-designers-home-energy-conservation-and-solar-heating]] systems
-- [[mollison-designers-passive-solar-building]]
-- [[mollison-designers-passive-solar-heating-building-design]]

@@ -11,11 +11,11 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Windbreaks may mean the difference between some crop and a good crop, but in severe wind areas the difference is more absolute and may mean that susceptible plants will produce no crop at all. The chill factor -- the removal of heat from surfaces and evaporation of fluids -- retards plant growth and lowers the efficiency of solar devices. In cyclonic or hurricane areas, catastrophic winds become the overriding design modification around which all other factors must be arrayed. (see [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]).
+Windbreaks may mean the difference between some crop and a good crop, but in severe wind areas the difference is more absolute and may mean that susceptible plants will produce no crop at all. The chill factor -- the removal of heat from surfaces and evaporation of fluids -- retards plant growth and lowers the efficiency of solar devices. In cyclonic or hurricane areas, catastrophic winds become the overriding design modification around which all other factors must be arrayed.
 
 ## Wind Behavior and Analysis
 
-Winds are fairly predictable and often bi-modal in their directions and effects in local areas. For the landscape designer, wind-flagging on older trees and wind-pruning tell the story; the site itself has summed total wind effects over time. (see [[mollison-designers-wind-energy-and-windmills-for-water-supply]]).
+Winds are fairly predictable and often bi-modal in their directions and effects in local areas. For the landscape designer, wind-flagging on older trees and wind-pruning tell the story; the site itself has summed total wind effects over time.
 
 From latitudes 0 to 35 degrees north and south in oceanic areas, winds will be bi-modal and seasonal. Locally, the directions will be modified by landscape, but the phenomena of windward and leeward coasts are almost universal.
 
@@ -62,7 +62,7 @@ Blizzards will kill livestock and newborn lambs, and even hardy animals can lose
 
 ### On Croplands
 
-A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords wind protection. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
+A matrix of shelterbelt species 10-16m in height and 33-66m apart (Casuarina, poplar, Matsudana willow, trimmed eucalypt) affords [[cervantes-wind-protection-outdoor-cannabis]]. Citrus culled as damaged is 50% of crop in unsheltered areas versus 18.5% in shelterbelt systems. Cotton yields are 17.4% higher within five times the height of the shelterbelt.
 
 ### On Soil Moisture
 
@@ -70,8 +70,8 @@ Windbreak increases soil moisture 4% to four times the height of the break, and 
 
 ## Shelterbelt Design Considerations
 
-Species selection criteria include:
-- Nitrogen fixation or good mulch potential from leaves and trimmings
+Species [[cannabis-breeding-traits-selection-criteria-clarke]] include:
+- [[biological-nitrogen-fixation-agriculture]] or good mulch potential from leaves and trimmings
 - Hosting of predatory insects or birds that control crop pests
 - Least moisture competition with crop
 - Excellent forage yields or concentrated foods for livestock

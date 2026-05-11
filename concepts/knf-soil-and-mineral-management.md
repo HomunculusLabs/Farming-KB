@@ -9,14 +9,14 @@ sources:
 ---
 # Korean Natural Farming Soil and Mineral Management
 
-In Korean Natural Farming, soil health is the foundation of everything. Master Cho's approach emphasizes feeding the soil microbiology rather than directly feeding plants, and using locally available mineral and organic inputs.
+In Korean Natural Farming, soil health is the foundation of everything. [[master-cho]]'s approach emphasizes feeding the soil microbiology rather than directly feeding plants, and using locally available mineral and organic inputs.
 
 ## Soil Philosophy
 
 The goal of KNF is to create living soil full of diverse microorganisms. [[cervantes-chemical-fertilizers-guide]] destroy soil life and create dependency. Instead, KNF builds soil through:
 
-1. [[beneficial-indigenous-microorganisms-bim]] (IMO) to establish microbial communities
-2. [[hamilton-composting-and-organic-matter-management]] (compost, leaf mold) for structure and food
+1. [[beneficial-indigenous-microorganisms-bim]] (IMO) to establish [[cannabis-rhizosphere-microbial-communities]]
+2. [[hamilton-composting-and-organic-matter-management]] (compost, [[comparison-leaf-mold-composting-vs-hot-composting-method]]) for structure and food
 3. Mineral inputs for balanced nutrition
 4. Avoiding tillage that disrupts soil structure
 
@@ -60,11 +60,11 @@ Biochar (charcoal) provides habitat for microorganisms and improves soil structu
 ### Use
 - Mix into soil at 5-10% by volume
 - Add to compost piles
-- Layer in raised beds
+- Layer in [[cervantes-raised-beds-mound-planting]]
 
 ## Mineral Liquid
 
-Mineral liquid provides trace minerals that may be deficient in soil.
+Mineral liquid provides [[dynamic-accumulator-plants-trace-minerals]] that may be deficient in soil.
 
 ### How to Make
 1. Collect mineral-rich rocks (granite, basalt, volcanic rock)
@@ -87,20 +87,3 @@ A mineral supplement made by combining IMO with mineral sources.
 1. Mix IMO #4 with mineral-rich materials
 2. Add to water and allow to steep
 3. Strain and apply
-
-### Uses
-- Livestock drinking water supplement
-- Foliar mineral spray
-- Soil drench for mineral-deficient areas
-
-## Key Principles
-
-- Feed the soil, not the plant
-- Use local materials (indigenous = adapted to your conditions)
-- Maintain 60-65% soil moisture for optimal microbial activity
-- Avoid compacting soil (minimize tilling and foot traffic)
-- Keep soil covered (mulch, cover crops, living mulch)
-- Diverse inputs create diverse soil biology
-
-See also [[knf-indigenous-microorganism-culture]], [[knf-agricultural-mineral-water]], [[knf-preparations]].
-- [[cover-crops-soil-health]]

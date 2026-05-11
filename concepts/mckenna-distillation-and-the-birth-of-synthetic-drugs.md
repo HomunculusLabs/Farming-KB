@@ -1,5 +1,5 @@
 ---
-title: Distillation and the mckenna distillation and the birth of [[mckenna-food-gods-natural-synthetic-drugs]] Drugs in Food of the Gods
+title: Mckenna Distillation And The Birth Of Synthetic Drugs
 created: 2026-04-28
 tags: [food-of-the-gods, distillation, alcohol, alchemy, synthetic-drugs, raymond-lully, ko-hung, dominator-culture, mckenna]
 date: 2026-04-28
@@ -88,58 +88,9 @@ encouraging soldiers' minds before the joining of battle.
 
 (Section content removed for length. See source for full details.)
 
-## The Pattern Repeated: Morphine and Cocaine
-
-McKenna sees the pattern established by alcohol
-distillation repeated throughout subsequent pharmacological
-history. The isolation of morphine from opium in 1803 and
-cocaine from coca in 1860 followed the same template: take
-a plant that has been used in traditional societies for
-centuries or millennia, identify and isolate its active
-alkaloid, concentrate it into a pure chemical form, and
-release it into a [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] that has none of the
-ritual safeguards, cultural expectations, or spiritual
-frameworks that originally governed the plant's use.
-The invention of heroin in 1873, created by acetylating
-morphine to produce a more potent compound, represents the
-logical endpoint of this process. Each step further
-removes the substance from its natural context and its
-partnership with human culture. The progression from opium
-eating to morphine injection to heroin smoking is a
-progression from relative safety to absolute destructiveness,
-and each step was enabled by advances in chemical isolation
-and [[cannabis-oil-purification-techniques]] that began with the distillation
-of alcohol.
-
-## The Scourge of Distilled Spirits
-
-No other drug has had such a prolonged detrimental effect
-on human beings as alcohol. The struggle to produce,
-control, and tax alcohol and to absorb its social
-consequences is a significant part of the story of the
-evolution of the mercantile empires of the eighteenth and
-nineteenth centuries. Alcohol and slavery often went hand
-in hand across the economic landscape. In many cases
-alcohol literally was slavery, as the triangular trade of
-slaves, sugar, and rum spread over the earth, subjugating
-other cultures.
-Sugar and the alcohol that could be made from it became a
-European obsession that severely distorted the demographics
-of [[fukuoka-natural-farming-in-tropical-regions]]. In the Dutch East Indies, colonial
-policy paid women to produce as many children as possible in
-order to provide workers for the labor-intensive cultivation
-of sugar. The modern legacy of this policy is that Java is
-today the most overpopulated large island in the world. Most
-of the sugar ended up as distilled alcohol, and what was not
-exported to Europe was consumed by the local population. A
-"besotted underclass" was a permanent fixture of mercantile
-society whether in the home countries or the colonies.
-
-## Fermentation as a Natural Process
-
-It is important to understand that fermentation itself is a
-## See also
-
-- [[mckenna-alcohol-and-the-alchemy-of-spirit]]
+## See Also
 - [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[mckenna-food-of-the-gods-thesis]]
+- [[mckenna-food-gods-natural-synthetic-drugs]]
+- [[mckenna-food-gods-tea-coffee-drugs-gentility]]
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]

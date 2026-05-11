@@ -9,7 +9,7 @@ sources: []
 
 # Live Resin Processing
 
-Live resin is a premium cannabis concentrate known for its exceptional terpene content and flavor profile. Unlike traditional extraction methods that use dried and cured flower, live resin is made from freshly harvested plant material that has been immediately frozen to preserve the living terpene and cannabinoid profile. This page covers the process from harvest through extraction.
+Live resin is a premium cannabis concentrate known for its exceptional terpene content and flavor profile. Unlike traditional [[arbuscular-mycorrhizal-spore-extraction-methods]] that use dried and cured flower, live resin is made from freshly harvested plant material that has been immediately frozen to preserve the living terpene and cannabinoid profile. This page covers the process from harvest through extraction.
 
 ## What Is Live Resin
 
@@ -18,7 +18,7 @@ Live resin is a type of butane hash oil (BHO) or propane hash oil (PHO) made fro
 **Characteristics of quality live resin**:
 - Sauce-like or budder consistency with visible terpene-rich liquid layer
 - Intensely aromatic — the most fragrant cannabis concentrate
-- Full-spectrum cannabinoid and terpene profile
+- Full-spectrum cannabinoid and [[cannabis-terpene-profile]]
 - Preserves the "essence" of the living plant
 - Typically more expensive than other concentrates
 
@@ -75,7 +75,7 @@ This is not a DIY project. Improper hydrocarbon extraction has caused explosions
 ### Extraction Process
 
 1. **Loading**: Fresh frozen biomass is loaded into the extraction column without any thawing. Some processors pre-freeze the extraction column as well.
-2. **Solvent wash**: Chilled butane, propane, or a blend is passed through the frozen biomass. The solvent dissolves cannabinoids and terpenes from the plant material. Temperature control during this step is critical — warmer washes extract more waxes and fats, while colder washes are more selective for terpenes and cannabinoids.
+2. **Solvent wash**: Chilled butane, propane, or a blend is passed through the frozen biomass. The solvent dissolves cannabinoids and terpenes from the plant material. [[hamilton-greenhouse-heating-and-temperature-control]] during this step is critical — warmer washes extract more waxes and fats, while colder washes are more selective for terpenes and cannabinoids.
 3. **Collection**: The solvent-cannabinoid-terpene solution drips into a collection vessel. The extreme cold from the fresh frozen material causes the solution to form a frosty, slushy consistency (hence the early live resin product was called "frost").
 4. **Solvent recovery**: The collection vessel is warmed, and a vacuum pump recovers the solvent gas, pulling it back into the storage tank for reuse. What remains in the collection vessel is crude live resin.
 5. **Winterization** (optional): For a more refined product, the crude extract may be winterized — dissolved in ethanol and placed in a freezer to precipitate waxes and lipids, which are then filtered out.
@@ -88,7 +88,7 @@ The entire live resin process is designed around terpene preservation. Key strat
 - **Cold extraction**: Running solvent at sub-zero temperatures minimizes terpene loss during the wash.
 - **Short path processing**: Minimizing the distance and time the extract travels reduces terpene evaporation.
 - **Low-temperature purging**: Vacuum ovens set to lower temperatures with deep vacuum remove solvents without volatilizing terpenes.
-- **Terpene separation**: Some processors use fractional distillation or chromatography to separate and recombine terpenes in optimized ratios.
+- **Terpene separation**: Some processors use [[cannabis-advanced-refinement-fractional-distillation]] or chromatography to separate and recombine terpenes in optimized ratios.
 - **Opaque containers**: Store final product in UV-blocking glass to prevent light degradation of terpenes.
 
 ## Product Forms
@@ -112,8 +112,8 @@ Live resin is finished into several forms:
 
 - [[cannabis-harvest-and-curing]] — Harvest timing for fresh frozen material
 - [[cannabis-extraction-basics]] — Comparison of extraction methods
-- [[cannabis-hashish-guide]] — Solventless concentrate production methods
-- [[cannabis-health-therapeutics]] — Therapeutic applications of concentrates
+- [[cannabis-hashish-guide]] — Solventless concentrate [[hashish-production-methods]]
+- [[cannabis-health-therapeutics]] — [[psilocybin-therapeutic-applications]] of concentrates
 
 ## Related
 

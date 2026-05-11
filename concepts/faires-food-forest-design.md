@@ -10,7 +10,7 @@ tags: [design, food-forest, forest-garden]
 
 # Food Forest Design Principles
 
-Food forest design, also called forest garden strategy, mimics the layered structure of natural forest ecosystems to produce food with minimal ongoing labor. Rather than growing single crops in rows, the food forest arranges plants of different heights and functions into self-sustaining communities called guilds.
+Food forest design, also called [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]], mimics the layered structure of natural [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] to produce food with minimal ongoing labor. Rather than growing single crops in rows, the food forest arranges plants of different heights and functions into self-sustaining communities called guilds.
 
 ## Core Concept
 
@@ -54,7 +54,7 @@ Important distinction: [[comparison-companion-planting-reference-vs-jadam-monocu
 2. Dig out large perennial roots to discourage regrowth (don't dig too much or you encourage more weeds)
 3. Lay cardboard or old carpet to suppress remaining weeds (dead mulch); living mulch consists of small plants under shrubs and trees
 4. Once weeds decompose, fence the area and plant legumes and useful shrubs like comfrey
-5. Add mulch, green manure crops, and compost to improve the soil
+5. Add mulch, [[green-manure-crops]], and compost to improve the soil
 6. Plant a nucleus group of trees at the center; chickens may be allowed in to forage
 7. Once established, allow pigs and other animals to forage; harvest smaller plants ongoing
 8. After main harvests, plant cover crops (rye, clover, buckwheat, barley, oats, vetch)
@@ -63,7 +63,7 @@ The end goal is not to destroy everything already there. Improvements should bec
 
 ## Plant Guilds
 
-Guilds are communities of plants organized around a central element based on companion planting and growing tendencies. They reduce root competition, provide shelter, add nutrients, and deter pests.
+Guilds are communities of plants organized around a central element based on [[companion-planting-and-polycultures]] growing tendencies. They reduce root competition, provide shelter, add nutrients, and deter pests.
 
 Classic examples:
 - **Three Sisters**: corn (support), beans (nitrogen fixer), squash (ground shade) — produces much more food per square foot than any could alone
@@ -71,11 +71,11 @@ Classic examples:
 
 ## Edge Effect and Design Patterns
 
-The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize the edge effect, use circles, spirals, curves, vertical growing space like trellises, and zigzags. Types of edges include:
+The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize the edge effect, use circles, spirals, curves, [[coleman-greenhouse-tomato-vertical-growing]] space like trellises, and zigzags. Types of edges include:
 - **Spiral**: Herb spirals (5.5 ft across) with sun-lovers on one side and shade-lovers on the other
 - **Lobular**: Roundish shapes alongside pathways
 - **Chinampa**: Land banks built up between ditches of water (fish fertilize plants)
-- **Strip cropping**: Several plant types in strips following land contours, not straight lines
+- **[[natural-farming-guide-contour-farming-strip-cropping]]**: Several plant types in strips following land contours, not straight lines
 
 ## Choosing Species
 
@@ -88,12 +88,3 @@ Record each species on 3x5 index cards with all characteristics and growing inst
 Large-scale single crops are possible if the crop needs little work after planting and is easy to harvest and store. These should never replace other system elements. The forest garden's strength is diversity and resilience.
 
 ## See Also
-
-- faires-mimicking-forests
-- faires-hugelkultur-and-forest-garden-strategy
-- faires-zone-and-sector-planning
-- faires-hugelkultur-and-forest-garden-strategy
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[food-forest-design]]
-- [[forest-gardens]]
-- [[companion-planting]]

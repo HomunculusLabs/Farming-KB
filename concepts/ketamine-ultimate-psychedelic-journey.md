@@ -1,5 +1,5 @@
 ---
-title: Ketamine The ketamine ultimate [[ketamine-psychedelic-journey-guide]] Journey
+title: Ketamine Ultimate Psychedelic Journey
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -87,4 +87,4 @@ Dr. Igor Kungurtsev found that controlled people who have difficulty letting go 
 - [[dmt-candy-for-the-mind]]
 - [[lsd-molecule-of-perfection]]
 - [[psychedelic-safety-and-harm-reduction]]
-- [[psychedelic-harm-reduction]]
+- [[harm-reduction-guide]]

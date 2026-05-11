@@ -1,5 +1,5 @@
 ---
-title: 16S 16s rrna sequencing microbiome analysis for Microbiome Analysis
+title: 16S Rrna Sequencing Microbiome Analysis
 created: 2026-04-28
 tags: [methods, sequencing, bioinformatics]
 date: 2026-04-28
@@ -17,7 +17,7 @@ Winston et al. (2014) used Illumina 16S rRNA gene sequencing to characterize
 [[cultivar-endorhiza-bacterial-communities-cannabis]] associated with Cannabis roots and soil. The study
 targeted the V4 hypervariable region of the 16S rRNA gene, following the
 Earth Microbiome Project standard protocols. A total of 69 samples were
-sequenced across two experiments, analyzed using the QIIME bioinformatics
+sequenced across two experiments, analyzed using the [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]]
 pipeline with both closed and open reference OTU picking methods.
 
 ## Sample Summary
@@ -34,7 +34,7 @@ bulk soil) across five Cannabis cultivars in two separate experiments:
 ## DNA Extraction
 
 DNA was isolated from 0.25 g of soil or root per extraction using the
-PowerSoil DNA Isolation Kit (MO BIO, USA). A modification was applied:
+PowerSoil [[power-soil-dna-isolation-16s-microbiome]] Kit (MO BIO, USA). A modification was applied:
 heating the extraction at 65 degrees Celsius for 10 minutes prior to the
 initial vortex step. Root samples were rinsed with alcohol and sterile water
 before extraction to remove surface contaminants and isolate true endorhiza
@@ -88,56 +88,3 @@ workflow:
 2. **OTU picking**: Two methods employed:
    - Experiment 1: Open reference OTU picking against Greengenes database
      pre-clustered at 97% identity, with de novo clustering of unmatched
-     sequences
-   - Experiment 2: Both closed and open reference OTU picking methods
-3. **Alignment**: Representative sequences aligned to the Greengenes core
-   set using PyNAST; unaligned sequences discarded
-4. **Phylogenetic tree**: Built from the alignment using FastTree
-5. **Taxonomy assignment**: RDP classifier retrained on Greengenes
-
-## Rarefaction
-
-Samples were rarified to even sequencing depths before diversity analysis:
-
-- **Experiment 1**: Rarefied to 3,000 sequences per sample
-- **Experiment 2**: Rarefied to 45,000 sequences per sample
-
-The large difference in rarefaction depth reflects different sequencing runs
-and necessitates caution when comparing [[microbial-alpha-diversity-soil-plant-gradient]] between experiments.
-
-## Diversity Metrics and Statistical Analysis
-
-Alpha and beta-diversity metrics were computed using QIIME:
-
-- **[[alpha-beta-diversity-cannabis-root-microbiomes]]**: Weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances calculated
-  from pairwise sample comparisons
-- **Visualization**: PCoA (principal coordinate analysis) and RDA (redundancy
-  analysis) plots
-- **Significance testing**: ANOSIM, ADONIS, ANOVA, Mantel tests, and BEST
-  analysis using QIIME scripts (compare_categories.py and
-  compare_distance_matrices.py)
-- **OTU-level analysis**: G-test (unweighted) and ANOVA (weighted) with FDR
-  multiple test correction
-
-## UniFrac Analysis
-
-UniFrac distances measure the phylogenetic distance between microbial
-communities. Two versions were used:
-
-- **Unweighted UniFrac**: Based on OTU presence/absence, reflecting community
-  composition (which taxa are present)
-- **Weighted UniFrac**: Accounts for [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]], reflecting community
-  structure (which taxa are present and how abundant they are)
-
-The complementary use of both metrics allowed the authors to distinguish
-between effects on composition versus abundance, revealing that soil type
-drives composition while cultivar drives abundance patterns.
-
-## See Also
-
-- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
-- [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]]
-- [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]
-
-- [[microbial-alpha-diversity-soil-plant-gradient]] for diversity findings
-- [[cannabis-microbiome-research]] for the complete study overview

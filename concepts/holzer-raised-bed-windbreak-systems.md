@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
 ---
@@ -87,10 +88,3 @@ of raised beds as windbreaks is part of the broader strategy of [[holzer-green-m
 protection. Holzer's practice of leaving green [[green-manure-crops-detailed]] standing in
 autumn means that nature does the work: the first heavy snow pushes down the
 plants and they begin to decompose, but the standing biomass provides wind
-protection until then.
-
-## Relationship to Conventional Windbreaks
-
-Holzer also uses small structures, hedges, and rows of trees to slow down
-the wind. These more conventional windbreaks complement the raised bed
-approach. The [[holzer-wild-fruit-trees-and-hedges]] that form the outer boundaries of

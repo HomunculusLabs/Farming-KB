@@ -88,34 +88,3 @@ The Mazatec people recognize multiple varieties of psychoactive mushrooms, each 
 Contemporary ethnobotanical research has documented at least 50 species of psychoactive mushrooms in Mexico alone, with new species still being described. The Oaxacan highlands remain the epicenter of psilocybin mushroom diversity, though psychoactive species occur throughout Mesoamerica and into South America. DNA barcoding studies have begun to clarify the evolutionary relationships within the *Psilocybe* genus, revealing that the psychoactive compounds evolved independently in multiple lineages — a striking case of convergent evolution that underscores the deep ecological relationship between these fungi and the human cultures that revere them.
 
 ## Legacy and Cultural Impact
-
-The Wasson-Sabina episode and the subsequent popularization of psilocybin mushrooms had consequences that extended far beyond the academic discipline of ethnobotany. The Life magazine article that introduced magic mushrooms to mass culture in 1957 helped catalyze the 1960s psychedelic movement, which in turn provoked the political backlash that led to the criminalization of psilocybin and other psychedelics. The cultural reverberations of this single act of ethnographic publicity — from the counterculture of the 1960s to the modern psychedelic therapy renaissance — illustrate McKenna's broader argument that psychoactive plants are not peripheral to human history but are drivers of cultural transformation.
-
-## The Conservation of Mazatec Mushroom Traditions
-
-The mushroom traditions of the Sierra Mazateca face significant challenges in the 21st century. Deforestation of montane cloud forests — the primary habitat for many psilocybin species — threatens the ecological basis of the velada tradition. Climate change is altering the seasonal patterns of mushroom fruiting, making traditional collection practices less reliable. The commercialization that followed Wasson's revelations has continued, with some areas experiencing unsustainable harvesting pressure from both local and international collectors.
-
-Simultaneously, a cultural shift is underway within Mazatec communities. Younger generations, drawn to urban economic opportunities and influenced by evangelical Christianity (which is often actively hostile to traditional mushroom use), are less likely to learn and maintain the velada tradition. The number of practicing curanderos and curanderas has declined significantly since the 1950s, and some of the specialized knowledge about mushroom species, preparation methods, and ceremonial protocols is at risk of being lost.
-
-Conservation efforts have focused on documenting the remaining traditional knowledge through ethnobotanical recording, protecting the forest habitats that support psilocybin mushroom diversity, and developing sustainable harvesting guidelines that respect both ecological limits and cultural traditions. The Mazatec mushroom tradition represents not merely a historical curiosity but a living system of ecological knowledge and spiritual practice whose preservation has significance for anthropology, mycology, and the broader understanding of human-fungal relationships.
-
-## The Modern Resurgence of Psilocybin Research
-
-The [[hofmann-lsd-clinical-research-early-studies]] renaissance in psilocybin therapy, which has accelerated dramatically since the 2010s, has created an ironic feedback loop with the Mazatec tradition that originally brought the mushroom to Western attention. Modern clinical trials at institutions including Johns Hopkins, Imperial College London, and NYU have demonstrated significant therapeutic potential for psilocybin in treating depression, anxiety, end-of-life distress, and substance use disorders. These trials use synthetic psilocybin in highly controlled settings, a far cry from the traditional velada, yet the fundamental pharmacological mechanism — the activation of serotonin 5-HT2A receptors — is the same.
-
-The scientific validation of psilocybin's therapeutic potential has, in turn, increased interest in the traditional contexts from which the mushroom was originally derived. Researchers studying the Mazatec tradition have noted that the ceremonial framework of the velada — the darkness, the chanting, the guided attention, the social support of the community — provides a therapeutic context that may enhance and integrate the psychedelic experience in ways that laboratory settings cannot fully replicate. This observation has informed the development of modern psychedelic therapy protocols that increasingly incorporate elements of set, setting, and ceremonial structure reminiscent of indigenous practices.
-
-## See Also
-
-- [[porphyry-mushrooms-as-divine-food]]
-
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
-
-## Further Reading on Mazatec Ethnomycology
-
-Readers interested in the primary ethnographic documentation of Mazatec mushroom practices should consult the published proceedings of the Wasson expeditions, including the extensive field notes and photographs preserved in the Harvard University Herbaria archives. Gastón Guzmán's *The Genus Psilocybe* (1983) provides the definitive taxonomic treatment of the psychoactive species used in the velada tradition.
-
-The ongoing work of the Centro de Investigaciones en Etnobotánica y Sociedad (CIESAS) in Mexico continues to document and preserve the rapidly vanishing knowledge of traditional Mazatec mushroom use, with particular attention to the ecological indicators and seasonal calendars that guide experienced curanderos in their collection practices.
-
-Jonathan Ott's *Pharmacophilia* (1993) and *The Teonanacatl Quest* (1976) also provide valuable critical perspectives on the Wasson-Sabina episode and its aftermath, including the complex ethical questions raised by the exposure of indigenous spiritual practices to global mass media.

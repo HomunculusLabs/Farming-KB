@@ -1,18 +1,18 @@
-# [[fungal-phylogeny-microsporidia-slime-molds|Fungal]] Phylogeny and Kingdom-Level Classification
+# [[fungal-phylogeny-microsporidia-slime-molds]] Phylogeny and Kingdom-Level Classification
 
-> An overview of the evolutionary relationships, taxonomic kingdoms, and [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification|biodiversity]]
+> An overview of the evolutionary relationships, taxonomic kingdoms, and [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 > implications of fungi and fungus-like organisms.
 >
-> **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *Biodiversity of Fungi*
+> **Source:** Blackwell & Spatafora, "Fungi and Their Allies," in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]*
 > (Mueller, Bills & Foster, eds.), Chapter 1.
 
 ---
 
 ## Fungi Are More Closely Related to Animals Than Plants
 
-Molecular phylogenetic analyses have conclusively demonstrated that Kingdom Fungi shares a
+Molecular phylogenetic analyses have conclusively demonstrated that [[fungal-taxonomy-and-kingdom-fungi]] shares a
 more recent common ancestor with Kingdom Animalia than with Kingdom Plantae. Both lineages
-descend from a **choanoflagellate-like ancestor** within the opisthokont clade. Shared derived characters include chitin in cell walls, flagellar
+descend from a **choanoflagellate-like ancestor** within the opisthokont clade. Shared derived characters include chitin in [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], flagellar
 basal bodies with a single posterior flagellum, lysine synthesis via the α-aminoadipate
 (AAA) pathway, and ultrastructural similarities in mitochondrial cristae.
 
@@ -34,9 +34,9 @@ distinct kingdom is a modern insight driven by ultrastructural and molecular evi
 The monophyly of true fungi is strongly supported by molecular data from **Bruns et al.
 (1991)** and **Baldauf et al. (2000)**. The four major phyla are:
 
-- **Chytridiomycota** — Flagellated zoospores; primarily [[fungi-aquatic-animals-pathogens-parasites|aquatic]]; earliest-diverging lineage
+- **Chytridiomycota** — Flagellated zoospores; primarily [[fungi-aquatic-animals-pathogens-parasites]]; earliest-diverging lineage
 - **Zygomycota** — Zygospore formation; coenocytic hyphae; includes bread molds (*Rhizopus*)
-- **[[ascomycota]]** — Ascus-based sexual reproduction; largest phylum; yeasts, molds, morels
+- **[[ascomycota]]** — Ascus-based [[basidiomycete-mating-systems-sexual-reproduction]]; largest phylum; yeasts, molds, morels
 - **Basidiomycota** — Basidium-based sexual reproduction; mushrooms, rusts, smuts
 
 These phyla are united by chitinous cell walls, absorptive nutrition, and absence of
@@ -50,11 +50,11 @@ The heterokont organisms — sometimes called "water molds" — represent a line
 separate from true fungi, characterized by two morphologically distinct flagella. Major
 groups formerly studied as fungi include:
 
-- **Oomycota** — [[biodiversity-fungi-plant-pathogens|Plant]] pathogens such as *Phytophthora infestans*; cellulose cell walls, not
+- **Oomycota** — [[biodiversity-fungi-plant-pathogens]] pathogens such as *[[bloomfield-potato-blight-phytophthora-infestans]]*; cellulose cell walls, not
   chitin
 - **Hyphochytriomycota** — Parasitic or saprotrophic aquatic organisms with an anterior
   tinsel flagellum
-- **Labyrinthulomycota** — Net slime molds; ectoplasmic net for movement; primarily marine
+- **Labyrinthulomycota** — Net [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]; ectoplasmic net for movement; primarily marine
 
 Straminipila are placed within the stramenopile lineage alongside diatoms and brown algae.
 
@@ -88,63 +88,3 @@ resolving evolutionary relationships and cautions against reliance on morphology
 ## Molecular Phylogenetic Evidence
 
 ### Baldauf et al. (2000): Multi-Gene Phylogeny
-
-**Baldauf et al. (2000)** provided a comprehensive eukaryotic phylogeny using four
-protein-coding genes: **α-tubulin**, **β-tubulin**, **actin**, and **elongation factor
-1α (EF-1α)**. This multi-gene approach confirmed opisthokont monophyly, the placement of
-true fungi as a well-supported clade, and the distinctness of stramenopiles and slime molds
-from Kingdom Fungi.
-
-### Fungi–Microsporidia Link
-
-Phylogenetic analyses have clarified the relationship between fungi and **Microsporidia**,
-obligate intracellular parasites once classified among protists. Molecular data from α- and
-β-tubulin genes and ribosomal RNA support placement of Microsporidia within or as a sister
-group to Kingdom Fungi, with significant implications for understanding the evolution of
-parasitism and genome reduction.
-
----
-
-## Fungal Biodiversity: Hawksworth's Estimate
-
-**Hawksworth (1991)** estimated approximately **1.5 million fungal species** on Earth,
-of which only about **5%** have been formally described (roughly 74,000–120,000 named
-species). This estimate, derived from fungal-to-plant species ratios in well-studied
-regions, remains widely cited. More recent estimates range from 2.2 to 3.8 million, but the
-central conclusion is unchanged: [[fungal-biodiversity]] is dramatically undersampled.
-
----
-
-## Implications for Biodiversity Inventory
-
-The phylogenetic diversity among fungus-like organisms has direct practical consequences:
-
-1. **Different groups require completely different sampling methods.** Aquatic chytrids
-   need water filtration; wood-inhabiting basidiomycetes require fruiting body surveys and
-   molecular barcoding; oomycetes require soil baiting; slime molds need moist chamber
-   cultures on bark or dung.
-
-2. **Molecular tools are essential.** Culture-independent methods (environmental DNA
-   sequencing, metabarcoding) reveal vast undescribed taxa invisible to morphology-based
-   surveys.
-
-3. **Taxonomic expertise is fragmented.** True fungi, oomycetes, and [[slime-molds]] each
-   require specialized knowledge, and few researchers span these kingdoms.
-
-4. **Conservation priorities differ.** Ecological roles — from plant pathogens to
-   decomposers to invertebrate parasites — vary enormously across these lineages.
-
----
-
-## Key References
-
-- Baldauf, S.L., Roger, A.J., Wenk-Siefert, I. & Doolittle, W.F. (2000). A kingdom-level
-  phylogeny of eukaryotes based on combined protein data. *Science*, 290(5493), 972–977.
-- Bruns, T.D., White, T.J. & Taylor, J.W. (1991). Fungal molecular systematics.
-  *Annual Review of Ecology and Systematics*, 22, 525–564.
-- Hawksworth, D.L. (1991). The fungal dimension of biodiversity: magnitude, significance,
-  and conservation. *Mycological Research*, 95(6), 641–655.
-
----
-
-*Last updated: 2026-05-10*

@@ -16,7 +16,7 @@ widely cultivated for its medicinal roots. Known for its distinctive
 pungent aroma (often compared to dirty socks), valerian root has been used
 for over 2,000 years as a sedative, anxiolytic, and sleep aid. It is one
 of the most well-researched herbal sedatives and is commonly recommended
-by both herbalists and healthcare practitioners for insomnia and anxiety. (see [[echinacea-growing-guide]]).
+by both herbalists and healthcare practitioners for insomnia and anxiety.
 
 ## Botanical Profile
 
@@ -29,7 +29,7 @@ by both herbalists and healthcare practitioners for insomnia and anxiety. (see [
 
 Valerian produces tall, hollow stems topped with clusters of small, fragrant,
 pale pink to white flowers. The root system consists of a dense mass of
-fleshy rhizomes and secondary roots, which are the primary medicinal part. (see [[hawthorn-berry-guide]]).
+fleshy rhizomes and secondary roots, which are the primary medicinal part.
 
 ## Medicinal Uses
 
@@ -50,7 +50,7 @@ Key medicinal applications:
 - Mild pain relief: Can be combined with other herbs for headache and
   menstrual pain management.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tincture: Fresh root tincture (1:2 in 50-70% alcohol), 20-40 drops before
   bed. Fresh root is preferred over dried for tincturing.
 - Decoction: Simmer 1-2 teaspoons dried root in 8 oz water for 10-15 minutes.
@@ -70,7 +70,7 @@ advise periodic breaks from regular use.
 ### Site Selection
 Valerian prefers partial shade to full sun. In hotter climates, afternoon
 shade is beneficial. It thrives in rich, deep, moisture-retentive soil with
-plenty of organic matter. A consistent moisture supply is important for good
+plenty of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. A consistent moisture supply is important for good
 root development. Valerian naturally grows along stream banks and in moist
 meadows, so replicating these conditions yields the best results.
 
@@ -108,8 +108,8 @@ From root cuttings:
 - Plants develop into large clumps over time
 
 ### Care and Maintenance
-- Keep soil consistently moist, especially during the first growing season
-- Mulch heavily with organic matter to retain moisture and suppress weeds
+- Keep soil consistently moist, especially during the first [[extending-growing-season]]
+- Mulch heavily with organic matter to retain moisture and [[query-how-do-cover-crops-suppress-weeds]]
 - Side-dress with compost in spring
 - Tall flower stems may need staking in windy locations
 - Remove flower stems before seed set if you do not want self-seeding
@@ -119,7 +119,7 @@ From root cuttings:
 
 Valerian is relatively pest-free. Cats are notably attracted to valerian
 root (similar to catnip) and may dig up or damage plants. Protect young
-plants with wire cages if cats are present. Slugs and snails may damage
+plants with wire cages if cats are present. [[jadam-pesticide-for-slugs-and-snails]] may damage
 young foliage. Rust and leaf spot can occur in humid conditions but are
 rarely serious.
 
@@ -128,7 +128,7 @@ rarely serious.
 Timing is critical for valerian root harvest:
 
 - Harvest in the fall of the 2nd year (ideally) or 3rd year
-- The optimal harvest window is after the plant has died back but before
+- The optimal [[harvest-window-cannabis]] is after the plant has died back but before
   the ground freezes
 - Roots harvested in fall have higher concentrations of active compounds
   than spring-harvested roots

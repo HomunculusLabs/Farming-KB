@@ -1,5 +1,5 @@
 ---
-title: Aboriginal aboriginal ecology permaculture two Two
+title: Aboriginal Ecology [[permaculture]] Two
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -88,58 +88,3 @@ for how permaculture design should incorporate limits
 and feedback mechanisms.
 
 ## Seasonal Knowledge and Phenological Calendars
-Aboriginal people developed detailed phenological calendars
-that linked the behavior of plants and animals to seasonal
-cycles. The blooming of particular plants signaled the
-availability of specific food resources. Animal migrations
-and breeding behaviors indicated changes in weather
-patterns. Star positions and constellations marked seasonal
-transitions. This body of knowledge, accumulated over
-millennia, allowed precise timing of resource harvest and
-preparation for seasonal changes. Mollison emphasized that
-modern [[permaculture-designers-manual-animal-forage-systems]] need to develop similar depth
-of site-specific observation and seasonal awareness to
-create effective designs.
-
-## Land Tenure and Territorial Design
-Aboriginal land tenure systems were based on clan ownership
-of specific territories, with complex arrangements for
-[[mycelial-network-resource-sharing-plants]] and access across boundaries. Territories
-were defined by natural features and the "brother trees"
-that marked boundaries. This system ensured that every
-group had responsibility for maintaining the productive
-capacity of their land. Cross-boundary agreements allowed
-seasonal access to resources in neighboring territories
-during periods of abundance. Mollison drew parallels between
-these arrangements and modern permaculture concepts of zone
-planning, where different areas are managed at different
-intensities and resources flow between zones through
-designed connections.
-
-## The Loss of Traditional Knowledge
-Mollison documented the rapid erosion of Aboriginal ecological
-knowledge following European colonization. Displacement from
-traditional lands severed the connection between people and
-place that sustained the knowledge system. Government policies
-including forced removals and assimilation programs disrupted
-the intergenerational transfer of knowledge. The loss of
-senior knowledge holders meant that complex ecological
-understanding built over thousands of years was disappearing
-within a few generations. Mollison argued that this knowledge
-loss represented an irreversible diminishment of humanity's
-collective understanding of sustainable land management,
-and that recovering and respecting [[psilocybin-chemistry-stability-indigenous-knowledge]]
-systems should be a priority.
-
-## Connection to Permaculture Ethics
-The Aboriginal ecology model embodies the three core
-permaculture ethics identified by Mollison and Holmgren:
-care for the earth, care for people, and fair share. The
-taboo system demonstrates care for the earth through
-active resource conservation. The role of the crop-master
-in organizing feasts and celebrations shows care for
-people through equitable food distribution. The territorial
-boundaries and sharing arrangements reflect fair share
-principles. Mollison presented Aboriginal ecology not as
-a historical curiosity but as a living demonstration that
-sustainable human settlements are possible and have existed

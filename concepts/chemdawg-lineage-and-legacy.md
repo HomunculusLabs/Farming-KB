@@ -16,10 +16,10 @@ type: concept
 
 # Chemdawg Lineage and Legacy
 
-The Chemdawg family represents one of the most influential genetic lineages in modern cannabis
+The [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]] represents one of the most influential genetic lineages in modern cannabis
 breeding.
 
-Originating from a chance encounter at a Grateful Dead concert in the early 1990s, Chemdawg has
+Originating from a chance encounter at a [[oner-chemdawg-origin-legend-grateful-dead-genetics]] concert in the early 1990s, Chemdawg has
 spawned dozens of celebrated hybrid strains and remains a cornerstone of contemporary cannabis
 genetics. Its descendants span the Diesel, Haze, and Kush family trees, making it one of the most
 genetically pervasive lines in commercial and underground breeding programs alike. Virtually every
@@ -35,7 +35,7 @@ seedless and the other contained 13 seeds — the proverbial magic beans. In 199
 germinated those seeds, and they gave rise to the entire Chemdawg family.
 
 The exact parentage of those original seeds remains unknown to this day. Some speculate they
-contained unknown indica genetics from the American underground breeding scene, while others have
+contained unknown indica genetics from the American underground [[spanish-cannabis-breeding-scene-history]], while others have
 proposed Nepalese and Thai parentage contributed by traveling breeders. What is certain is that
 the resulting plants produced a unique chemical aroma — pungent, fuel-like, and almost acrid —
 and an extraordinarily potent effect that was unlike anything else available at the time. The name
@@ -86,50 +86,5 @@ well for both daytime and evening use.
 ### Dawgtown Daze
 
 Created by California Cannetics for SoCal Seed Collective, Dawgtown Daze crosses a male ChemDawg
-plant with a female Pure Haze, resulting in a hybrid that is over 90% sativa. This is one of
+plant with a female [[oner-dawgtown-daze-pure-haze-chemdawg-hybrid]], resulting in a hybrid that is over 90% sativa. This is one of
 the most chemically intense expressions of the Chemdawg line, with phenotypes ranging from 10 to
-16 weeks of flowering depending on the specific expression.
-
-The high is described as a powerful, soaring journey through the mind that can border on the
-psychedelic for less experienced consumers. It is a strain that demands respect and patience
-from both breeders and consumers alike.
-
-### Choke Berry
-
-Developed by IrieVibe Seeds featuring The Blazing Pistileros, Choke Berry combines Loompa's
-Moondawg with Mau-Mau, both carrying Chemdawg ancestry. At 75 days of flowering, this strain
-produces approximately 600 grams per square yard with a THC content of 18% and notable CBD at
-1.20% — a relatively high CBD figure for a Chemdawg descendant.
-
-The effects vary by phenotype from body-focused relaxation to energetic and cerebral stimulation,
-making it a versatile option for both recreational and medical users seeking the Chemdawg
-experience with additional therapeutic potential.
-
-### East Coast [[northern-lights]], and Hawaiian Sativa,
-creating a more complex genetic background than the name might suggest. This strain finishes in
-about 9 weeks indoors and produces an earthy, darker take on the classic Diesel flavor profile,
-with supertasters potentially detecting hints of pine.
-
-The high is clear, sharp, strong, and ridiculously happy, lasting seemingly forever and leaving
-consumers skipping off down the street thinking about rainbows and unicorns.
-
-### Jesus Christ
-
-Green Dream Health Services created this aptly-named strain that carries Chemdawg genetics
-forward into a modern expression. The name reflects the almost religious experience that
-Chemdawg-descended strains can provide to dedicated consumers, and the genetics continue to
-influence new breeding programs.
-
-### D.T.S. (Down to Smoke)
-
-## See Also
-
-- [[chemdawg-91]]
-
-- [[oner-diesel-strain-lineage]] Family
-
-- [[cannabis-landrace-strains]]
-
-- [[haze-lineage-and-history]]
-
-- Indica-Sativa Hybrid Breeding

@@ -20,7 +20,7 @@ centering of awareness primarily on the emotional or heart level.
 These compounds included MDA, MDMA, and 2-CB, among others.
 
 Shulgin's systematic exploration of these substances, documented in
-_Pihkal_ (with Ann Shulgin, 1991), opened a new frontier in
+_Pihkal_ (with [[ann-shulgin]], 1991), opened a new frontier in
 [[mckenna-suppression-psychedelic-research-lsd-therapy]] distinct from the classical hallucinogens.
 
 ## The Empathogen Concept
@@ -40,7 +40,7 @@ psychedelics in their specific phenomenological profile.
 
 Classical hallucinogens like LSD and psilocybin produce profound
 perceptual changes, synesthesia, visionary experiences, and
-altered states of consciousness that transcend ordinary reality.
+altered [[mckenna-food-gods-designer-states-of-consciousness]] that transcend ordinary reality.
 
 MDMA and related empathogens, by contrast, produce a warm, open
 emotional state with enhanced feelings of empathy, trust, and
@@ -48,7 +48,7 @@ interpersonal connection, without the visual or cognitive
 disorientation of classical psychedelics.
 
 This makes them uniquely suited for therapeutic work focused on
-emotional processing and interpersonal relationships.
+[[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] and interpersonal relationships.
 
 ## MDMA in Psychotherapy
 
@@ -78,45 +78,12 @@ Saunders (1993), Eisner (1989), and Adamson and Metzner (1988).
 
 MDMA also became widely known as "Ecstasy" or "E."
 In this context, it came to play a central role in the hugely
-popular rave culture of the late 1980s and 1990s.
+popular [[acid-house-rave-culture-and-second-mushroom-boom]] of the late 1980s and 1990s.
 
 The rave setting, combining MDMA with the continuous rhythmic pulse
 of techno music, represents one end of the spectrum of set-and-
-setting rituals using psychoactive substances in the modern world.
+setting rituals using [[cultural-evolution-and-psychoactive-substances]] in the modern world.
 
 Metzner contrasted the recreational rave context with the more
 structured [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles he studied, noting that
 both represent intentional arrangements of [[lsd-set-and-setting-framework]].
-
-## Position Within the Four Paradigms
-
-In Metzner's framework of four paradigms, empathogen-assisted
-therapy falls within the Western psychotherapeutic model.
-It shares the fundamental features of psychoactive-assisted
-psychotherapy, including the primacy of set and setting and the
-necessity of experienced guides.
-
-However, the empathogens' unique profile, centered on emotional
-opening rather than [[mckenna-consciousness-expansion-and-drug-war]], created a distinct
-therapeutic modality that complemented the psycholytic and
-psychedelic approaches.
-
-## Significance for the Field
-
-The discovery of empathogens expanded the toolkit of psychoactive-
-[[metzner-mdma-assisted-therapy-research]] beyond the classical hallucinogens.
-It demonstrated that therapeutic benefit could be achieved without
-the full-blown altered state of consciousness induced by LSD or
-psilocybin.
-
-This opened therapeutic possibilities for patients who might be
-unwilling or unable to undergo the more intense psychedelic
-experience, while still accessing deep emotional material.
-
-## See Also
-
-[[metzner-set-and-setting-hypothesis-origins-and-extensions]]
-[[metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies]]
-mdma
-[[2c-b-compound-profile]]
-empathogen

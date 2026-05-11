@@ -89,32 +89,6 @@ to suppress contaminants. Several approaches show commercial promise:
   activity against Trichoderma contaminants in research settings but are not yet
   commercially available for mushroom cultivation.
 
-## Chemical Controls
-
-Chemical fungicides are limited in mushroom cultivation because most are
-non-selective and harm the mushroom mycelium alongside contaminants. A few exceptions
-exist: hydrogen peroxide (3% solution) can be used as a surface disinfectant and has
-been incorporated into substrate recipes at low concentrations to suppress bacterial
-contamination. Calcium hypochlorite (bleach) is effective for surface sanitation at
-10% solution. Sodium hypochlorite at 500-1000 ppm can be used for tool and surface
-disinfection. However, no fungicides are approved for direct application to fruiting
-substrates in most jurisdictions, making cultural and biological controls the primary
-management tools.
-
-## Monitoring and Early Detection
-
-Regular monitoring catches contamination before it spreads. Growers should inspect
-every substrate block daily during incubation and fruiting. The "sniff test" is
-valuable: healthy mycelium has a clean, earthy mushroom smell, while contaminated
-substrate smells sour, sweet, or rotten. Any contaminated block should be removed
-from the growing area immediately and either discarded or treated outdoors, never
-opened indoors where spores can spread. Sticky traps placed at crop level monitor
-insect vectors and provide early warning of pest pressure.
-
 ## See Also
-- Mushroom Contamination And Biocontrol
-- [[mushroom-cultivation-in-kenya]]
-- grain-spawn-production
-- [[bacillus-subtilis]]
-- [[spawn-production]]
-- [[mycopesticides]]
+- [[contamination-prevention-in-mushroom-cultivation]]
+- [[mushroom-contamination-prevention]]

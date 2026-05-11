@@ -34,25 +34,25 @@ tropical or subtropical in distribution and known for their high potency.
 The genus is pantropical, found in Central and South America, the
 Caribbean, Africa, Asia, and Oceania. Key species include:
 
-- **Copelandia cyanescens**: The most widespread species in the genus, found
+- **[[copelandia-cyanescens]]**: The most widespread species in the genus, found
   throughout the tropics worldwide. It is common on bovine dung in
   pastures and is one of the most potent [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], with
-  significant psilocybin and psilocin concentrations. It occurs in
+  significant [[hplc-analysis-of-psilocybin-and-psilocin]] concentrations. It occurs in
   Hawaii, the Caribbean, Central America, South America, Africa, Asia,
   and Australia.
 
-- **Copelandia tropicalis**: Similar to C. cyanescens but distinguished
+- **[[copelandia-tropicalis]]**: Similar to C. cyanescens but distinguished
   by spore morphology and cystidial characteristics. Found in tropical
-  Asia, the Pacific Islands, and tropical America.
+  Asia, the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and tropical America.
 
-- **Copelandia mexicana**: Originally described from Mexico, this species
+- **[[copelandia-mexicana]]**: Originally described from Mexico, this species
   occurs in the Caribbean and Central America. It is one of the more
   poorly known species in the genus.
 
 - **Copelandia bispora**: A distinctive species producing only two spores
   per basidium rather than the typical four. Found in tropical America.
 
-- **Copelandia cambodginiensis**: Described from Cambodia, this species
+- **[[copelandia-cambodginiensis]]**: Described from Cambodia, this species
   is widespread in Southeast Asia. It is commonly found on bovine dung
   in rice paddies and pastures.
 
@@ -88,46 +88,3 @@ species but are widespread and commonly encountered. Key species include:
   taxonomic history. Some collections have tested positive for
   psilocybin while others have not, suggesting either chemical
   variation or cryptic species within the current concept.
-
-- **Panaeolus castaneifolius**: A less commonly encountered species
-  with confirmed neurotropic chemistry, found in tropical and
-  subtropical regions of the Americas.
-
-## Habitat and Ecology
-
-Both Copelandia and Panaeolus species are predominantly coprophilous
-(dung-inhabiting) fungi. They are most commonly found on the dung of
-herbivores, particularly cattle, horses, and other grazing animals. This
-ecological specialization explains their [[copelandia-cyanescens-pantropical-distribution-and-ecology]], as they
-spread through the movement of grazing animals. The dung substrate provides
-a nutrient-rich environment for rapid colonization and fruiting, typically
-within days to weeks after deposition. Some species also occur on compost,
-enriched soils, and decomposing plant material.
-
-## Chemical Profile
-
-Copelandia species are among the most potent of all neurotropic fungi.
-C. cyanescens has been reported to contain up to 0.85% psilocybin and
-0.36% psilocin by dry weight. The genus consistently produces significant
-concentrations of baeocystin and norbaeocystin in addition to the primary
-compounds. Panaeolus species generally have lower concentrations, with
-P. subbalteatus containing approximately 0.1-0.3% psilocybin by dry
-weight. All confirmed species in both genera contain both psilocybin and
-psilocin.
-
-## Identification Challenges
-
-Copelandia and Panaeolus species can be confused with numerous
-non-neurotropic coprophilous fungi, including [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
-(the haymaker's mushroom), various Bolbitius species, and
-Psathyrella species. [[fungal-microscopic-examination-mounting-media-techniques]] of spore size, shape,
-and ornamentation, combined with cystidial morphology, is essential
-for accurate identification. The intense blueing reaction of
-Copelandia species provides a useful field indicator but is not
-sufficient for species-level determination.
-
-## See Also
-
-- [[neurotropic-fungi-classification]]
-- [[worldwide-distribution-psilocybin-mushrooms]]
-- [[gymnopilus-genus-neurotropic-species]]

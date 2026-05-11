@@ -23,12 +23,12 @@ sources:
 
 Suillus variegatus is a basidiomycete fungus within the
 Suillaceae family, closely related to other Suillus species
-known for their ectomycorrhizal associations with coniferous
+known for their [[ectomycorrhizal-associations]] with coniferous
 trees. The genus Suillus is characterized by its boletoid
 fruiting bodies and strong host specificity toward members of
 the Pinaceae. Within the Boletales, Suillus species are
 generally recognized as important mycobionts in boreal and
-temperate forest ecosystems.
+temperate [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Overview
 
@@ -41,7 +41,7 @@ by its host plants in exchange for photosynthetically derived
 carbon compounds. The species has attracted considerable
 research attention due to its notable tolerance to heavy
 metals and its capacity to accumulate these elements from
-contaminated soils. This characteristic makes it a subject of
+[[fungal-competition-survival-contaminated-soils]]. This characteristic makes it a subject of
 interest in studies of [[gadd-fungal-ecology-endophytes]] in polluted
 environments, phytoremediation research, and the broader
 understanding of how [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] influence metal
@@ -60,7 +60,7 @@ antimony at 50 mg/kg on a dry weight basis. These values
 indicate a pronounced capacity for zinc and antimony
 accumulation relative to cadmium. The variation in
 accumulation across different metals suggests selective uptake
-and sequestration mechanisms within the fungal tissue, which
+and [[mycorrhizal-carbon-sequestration-mechanisms]] within the fungal tissue, which
 may relate to the physiological demands of the organism or
 the bioavailability of specific metals in its substrate.
 
@@ -74,11 +74,11 @@ facilitates the acquisition of poorly mobile nutrients such as
 phosphorus and micronutrients from soil beyond the depletion
 zone immediately surrounding plant roots. The species is
 typically found in coniferous forests where it contributes to
-nutrient cycling processes and supports tree growth under
+[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] processes and supports tree growth under
 natural conditions. Its ecological role extends beyond
 individual host benefit to influence broader ecosystem
 functioning through effects on soil chemistry, microbial
-community structure, and carbon allocation belowground. The
+[[edaphic-determinants-cannabis-microbiome-community-structure]], and carbon allocation belowground. The
 relationship between S. variegatus and its host trees is
 essential for forest regeneration and resilience, particularly
 in nutrient-poor or disturbed habitats where mycorrhizal
@@ -88,9 +88,3 @@ associations can significantly enhance seedling survival.
 
 A comprehensive study by Blaudez et al. (2000) tested 39
 fungal isolates representing five species for tolerance to
-cadmium, copper, nickel, and zinc at three concentrations
-each. The results demonstrated that Pisolithus tinctorius,
-[[paxillus-involutus]]. However, [[pisolithus-tinctorius]]
-- [[paxillus-involutus]]
-- [[suillus-granulatus]]
-- [[suillus-pungens]]

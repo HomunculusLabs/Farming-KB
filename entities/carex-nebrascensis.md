@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora of North America 23: 254–572.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
   - USDA NRCS (2024). "PLANTS Profile — Carex nebrascensis."
   - Wilson, S.D. & Keddy, P.A. (1986). "Species competitive ability and position along a natural stress/disturbance gradient." Ecology 67(5): 1236–1242.
   - Martin, D.B. & Hartman, C.W. (1987). "Marsh creation in the prairie pothole region." Journal of Soil and Water Conservation 42(4): 256–258.
@@ -22,7 +22,7 @@ sources:
 
 Carex nebrascensis, known as Nebraska sedge, is a robust perennial sedge in the family Cyperaceae.
 
-It is one of the most common and ecologically important sedges in the prairie pothole region and intermountain wetlands of western North America.
+It is one of the most common and ecologically important sedges in the prairie pothole region and intermountain wetlands of western [[guzman-psilocybin-mushrooms-north-america]].
 
 The species forms dense tussocks and extensive sedge meadows that provide critical habitat for breeding waterfowl.
 
@@ -52,13 +52,13 @@ Achenes are approximately 2 mm long, lenticular, and enclosed within the persist
 
 ## Distribution and Habitat
 
-Carex nebrascensis is native to western and central North America.
+Carex nebrascensis is native to western and central [[huckleberries-and-wild-berries-of-north-america]].
 
 Its range extends from southern British Columbia and Alberta south through the Great Plains, Rocky Mountains, and intermountain West to New Mexico and Arizona.
 
 Disjunct populations occur in the Great Lakes region and the Nebraska Sandhills.
 
-It is absent from the eastern United States and most of the southeastern coastal plain.
+It is absent from the eastern [[dmt-containing-plants-united-states-halpern]] and most of the southeastern coastal plain.
 
 The species is characteristic of freshwater marshes, wet meadows, streambanks, and the margins of prairie potholes.
 
@@ -78,49 +78,12 @@ The dense root mat stabilizes wetland substrates and reduces sediment resuspensi
 
 Livestock readily graze young shoots, making it an important forage species in ranching regions.
 
-It is considered a decreaser in rangeland condition assessments, declining under heavy grazing pressure.
+It is considered a decreaser in rangeland condition assessments, declining under heavy [[gadd-mycelial-network-resilience-grazing-pressure]].
 
-The species plays a significant role in water cycling, transpiring large volumes of water during the growing season.
+The species plays a significant role in water cycling, transpiring large volumes of water during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Its presence is strongly associated with wetland health and intact hydrology in the prairie pothole region.
 
 ## Cultivation and Uses
 
 Carex nebrascensis is widely used in wetland restoration and mitigation projects across the Great Plains and intermountain West.
-
-It is a standard component of wetland seed mixes used by the USDA Natural Resources Conservation Service for prairie pothole restoration.
-
-Establishment from seed is moderately successful, with germination improved by 30–60 days of cold stratification.
-
-Transplanting rhizome divisions produces the most reliable stand establishment in restoration projects.
-
-The species is palatable to livestock and provides good forage value when managed with appropriate grazing regimes.
-
-It is commercially available from numerous native seed suppliers in the western and central United States.
-
-Carex nebrascensis stands improve water quality by filtering agricultural runoff and trapping sediments.
-
-## Conservation Status
-
-Carex nebrascensis is globally secure across its broad North American range.
-
-However, the wetland habitats it depends on have experienced significant historical loss in the prairie pothole region.
-
-An estimated 50% or more of prairie pothole wetlands have been drained or converted to agriculture since European settlement.
-
-Ongoing threats include continued drainage, groundwater depletion, and climate-driven changes in precipitation patterns.
-
-The species is generally resilient once established and responds positively to wetland restoration efforts.
-
-It is protected indirectly through programs such as the North American Waterfowl Management Plan and USDA wetland reserve programs.
-
-## See Also
-
-- [[carex-utriculata]]
-- [[carex-rostrata]]
-- [[carex-stricta]]
-- [[typha-latifolia]]
-- [[schoenoplectus-lacustris]]
-- [[sparganium-americanum]]
-- [[phragmites-australis]]
-- [[pontederia-cordata]]

@@ -25,9 +25,9 @@ aroma.
 
 The species is among the most commercially important berry crops worldwide.
 Global production exceeds 800,000 metric tons annually, with major growing
-regions in Serbia, Russia, the United States, and Poland.
+regions in Serbia, Russia, the [[dmt-containing-plants-united-states-halpern]], and Poland.
 
-Red raspberry is also valued in traditional herbal medicine for its leaves,
+Red raspberry is also valued in traditional [[childrens-herbal-medicine]] for its leaves,
 which contain tannins and flavonoids with documented astringent and
 anti-inflammatory properties.
 
@@ -59,7 +59,7 @@ characteristic texture.
 ## Distribution and Habitat
 
 *Rubus idaeus* is native across temperate Europe, northern Asia, and
-western North America. The North American form is sometimes treated as
+western [[guzman-psilocybin-mushrooms-north-america]]. The [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] form is sometimes treated as
 subspecies *strigosus*.
 
 The species colonizes disturbed sites, forest clearings, stream banks,
@@ -83,66 +83,7 @@ Floricane types produce one large crop per season on second-year canes.
 Primocane types fruit on first-year canes in late summer through autumn,
 allowing double-cropping in mild climates.
 
-Planting is typically done in early spring at 0.6–0.9 m spacing within
+Planting is typically done in [[coleman-overwintered-onions-and-early-spring-crops]] at 0.6–0.9 m spacing within
 rows 2.5–3 m apart. Support trellises (V-shaped or T-bar wire systems)
 are standard for commercial production to improve [[stamets-growing-room-air-circulation-co2-management]] and
 harvest efficiency.
-
-Major commercial cultivars include 'Heritage' (primocane), 'Meeker'
-(floricane), 'Tulameen' (floricane), and 'Joan J' (thornless primocane).
-Breeding priorities focus on disease resistance, firmness, and flavor.
-
-Key diseases include **Botrytis cinerea** (gray mold), [[amf-biocontrol-phytophthora-root-exudate-modification]]
-rot, and raspberry mosaic virus complex. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management
-combines resistant cultivars, sanitation, and targeted fungicide
-applications.
-
-## Nutritional and Culinary Use
-
-Raspberries are low in calories (approximately 52 kcal per 100 g) and
-rich in dietary fiber (6.5 g/100 g), vitamin C (26 mg/100 g), and
-manganese (0.67 mg/100 g).
-
-The fruit is consumed fresh, frozen, dried, or processed into jams,
-jellies, purées, and juice. Frozen raspberries retain most nutritional
-value and represent the largest market segment after fresh sales.
-
-Raspberry leaf tea is a traditional herbal preparation used during
-pregnancy. The leaves contain fragarine, a tannin compound believed to
-tone uterine muscles.
-
-Culinary applications span desserts (tarts, crumbles, sorbets), savory
-dishes (raspberry vinaigrettes, game meat sauces), and beverages
-(cordials, infused spirits, kombucha flavoring).
-
-## Health and Pharmacology
-
-Raspberry fruits are among the richest dietary sources of **ellagitannins**,
-particularly sanguiin H-6, which hydrolyzes to ellagic acid in the gut.
-These compounds exhibit strong antioxidant and anti-inflammatory activity
-in vitro.
-
-Anthocyanins, primarily cyanidin-3-O-sophoroside and cyanidin-3-O-
-glucoside, give the fruit its red color and contribute to its
-antioxidant capacity (ORAC values of 19,000–24,000 μmol TE/100 g).
-
-Epidemiological studies associate regular raspberry consumption with
-reduced risk of cardiovascular disease, type 2 diabetes, and certain
-cancers. However, [[psilocybin-clinical-trial-landscape-2020-2025]] data remain limited.
-
-Raspberry leaf extract has demonstrated spasmolytic effects on isolated
-uterine tissue in animal studies, supporting its traditional use for
-menstrual discomfort and labor preparation.
-
-## See Also
-
-- [[rubus-fruticosus]]
-- [[fragaria-vesca]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-macrocarpon]]
-- [[rubus-occidentalis]]
-- [[morus-nigra]]
-- [[prunus-avium]]
-- [[ribes-nigrum]]
-- [[cydonia-oblonga]]
-- [[botrytis-cinerea]]

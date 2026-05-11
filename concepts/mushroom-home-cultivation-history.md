@@ -3,6 +3,7 @@ title: Mushroom Home cuthill-mushroom-cultivation-history-19th-century
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the Magic Mushroom"
 type: concept
 tags: [cultivation, history, mushroom-cultivation]
@@ -87,33 +88,3 @@ does not shrink on drying, and keeps the substrate moist and aerated -- forced t
 through pores in search of more nutriment, exactly mimicking the natural environment.
 
 The PF Tek proved enormously successful. Every jar produced a high yield, and the method was so easy that
-McPherson claimed mushrooms would grow themselves. He distributed the method freely (while copyrighting it
-and selling the spore syringes produced by his company), earning up to $30,000 a month at his peak. Though
-eventually busted and charged with distribution, the PF Tek lives on as the most widely used cultivation
-method in the world. While spores could be traded legally in America, growing magic mushrooms, particularly
-with intent to supply, remained a felony.
-
-## Cultivation as Illicit Folk Art
-
-Anyone who defied the law to perfect growing techniques stood to become an underground hero. The Internet
-ensured that cultivation knowledge could not be suppressed. Any concerted attempt to crack down on hobby
-growers would be, as Letcher observes, a Herculean task. The democratisation of cultivation meant that the
-magic mushroom could never again be suppressed through prohibition alone -- the knowledge was out, and it
-was not going back in.
-
-## The Dutch Commercial Model
-
-In the 1990s, enterprising enthusiasts in Holland spotted a loophole in the law and hit
-upon the novel idea of growing mushrooms commercially. A young man named Damien van den Huerk opened
-Holland's very first smart shop, "Dreams," in Amsterdam in 1993. A disillusioned IT worker,
-drugs charity worker, and rave enthusiast, van den Huerk exploited the legal distinction between fresh
-mushrooms (uncontrolled) and dried mushrooms (controlled). This proved successful beyond all expectations
-and launched the Dutch smart shop industry, which at its height sold millions of mushroom doses annually
-to tourists.
-
-## See Also
-
-- [[psilocybin-mushroom-dissemination-1950s-1970s]]
-- [[psychedelic-mushroom-set-and-setting]]
-- [[psilocybin-isolation-and-early-scientific-research]]
-- [[1960s-counterculture-and-magic-mushrooms]]

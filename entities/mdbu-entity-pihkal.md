@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDBU
 
-PIHKAL entry #102. N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #102. N-BUTYL-MDA; 3,4-METHYLENEDIOXY-N-BUTYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -58,7 +58,7 @@ A total of 30 mL butylamine was introduced under the
 surface of 33 mL concentrated HCl, and the mixture stripped of
 volatiles under vacuum. The resulting glassy solid was dissolved in
 160 mL MeOH and treated with 7.2 g 3,4-methylenedioxyphenylacetone
-(see under MDMA for its preparation). To this there was added 50%
+(see under [[mdma]] for its preparation). To this there was added 50%
 NaOH dropwise until the pH was at about 6 as determined by the use of
 external dampened universal pH paper. The solution was vigorously
 stirred and 2.8 g sodium cyanoborohydride was added. Concentrated HCl
@@ -81,16 +81,10 @@ white crystals with a mp of 200-200.5 deg C. Anal. (C14H22ClNO2) N.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
 - [[myristicin-entity]]
 
 - [[mdbu-entity]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
-- [[mdal-entity-pihkal]]
-- [[mdbz-entity-pihkal]]

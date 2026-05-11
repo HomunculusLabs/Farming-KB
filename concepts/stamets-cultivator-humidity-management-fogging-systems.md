@@ -5,6 +5,7 @@ tags: [environmental-control, humidity, fogging, growing-room, climate-systems]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -87,11 +88,3 @@ Water quality, including its pH and mineral content, varies from region
 to region. Water used for humidification and misting should be free from
 contaminants that could harm [[mycelium]] or introduce competing organisms.
 The temperature of the supply water in both evaporative pad and
-atomizing nozzle systems can be regulated to provide a measure of heating
-and cooling in addition to humidification, making these dual-purpose
-systems especially efficient for smaller operations.
-
-## Related Topics
-
-- stamets-mushroom-growing-room-design
-- [[stamets-pinning-initiation-stages-environmental-control]]

@@ -1,5 +1,5 @@
 ---
-title: "gottlieb peyote cultivation from seed from Seed"
+title: [[gottlieb-peyote-botany-and-mescaline-content]] Cultivation From Seed
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -19,7 +19,7 @@ stage before reaching maturity.
 
 ## Seed Growth Rates for San Pedro
 
-Gottlieb provides specific growth benchmarks for Trichocereus pachanoi (San Pedro)
+Gottlieb provides specific growth benchmarks for [[trichocereus-pachanoi]] (San Pedro)
 started from seed, which illustrate the slow pace of cactus seedling development:
 
 - **First year**: May be no more than 1/2 inch high, diameter 1/8-1/4 inch
@@ -88,54 +88,3 @@ Watering recommendations:
 
 - Although cactus cuttings may be planted anytime of the year, they stand the best
   chance if planted in late spring
-- Water thoroughly once or twice a week depending upon how rapidly moisture is lost
-- The soil an inch below the surface should always contain some moisture
-- Watering can be cut back to less than half during the winter
-
-## Increasing Alkaloid Potency
-
-Several factors influence production of mescaline and related alkaloids in cultivated
-cacti. Gottlieb describes a method based on the biosynthetic pathway discovered by
-researchers at the University of Michigan:
-
-### Trace Minerals
-
-Presence of a wide variety of trace minerals is important. Occasional watering with
-Hoagland A-Z trace mineral concentrate provides these minerals. Combine 1 part
-concentrate with 9 parts water and water cacti with this once every two months.
-
-### Dopamine Injection Method
-
-Since dopamine is a precursor of mescaline in the peyote cactus, one can inject each
-peyote plant with dopamine 4 weeks prior to harvesting:
-
-1. Prepare a saturated solution of free base dopamine in a 0.05 N solution of
-   hydrochloric acid
-2. Inject 1-2 cc into the root of each plant
-3. Inject the same amount into the green portion above the root
-4. Let the needle penetrate to the center of the plant
-5. Inject slowly and allow the needle to remain in place a few seconds after injection
-6. Deprive the plant of water for 1-2 weeks before injection to make plant tissues
-   take up the injection fluids more readily
-
-If dopamine is not available, a mixture of tyramine and dopa can be used instead 6
-weeks before harvesting for comparable results.
-
-### San Pedro Injection
-
-[[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] other mescaline-bearing cacti can be similarly treated:
-
-- Inject at the base of the plant
-- Continue every 3-4 inches following a spiral pattern up the length of the plant
-- A series of booster injections can be given every 6-8 weeks
-- Final injection 4 weeks before harvesting for greater mescaline accumulation
-
-## Macromerine Enhancement
-
-It is also possible to increase the macromerine and nor-macromerine content of
-Coryphantha macromeris (Donana) cacti using tyramine or DL-norepinephrine as
-precursors. Injections should be given 20-25 days before harvesting. Series of
-injections can be given 45 days apart for higher alkaloid accumulation.
-- [[jadam-leaf-mold-soil-method]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[gottlieb-peyote-botany-and-mescaline-content]]

@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Sridhar, K.R. & Bhat, R. (2007). "Agronomic, nutritional, and medicinal attributes of Canavalia gladiata." Journal of Crop Improvement, 19(1), 109-145.
   - Ezeagu, I.E. et al. (2003). "Nutritional assessment of Canavalia gladiata seeds." Plant Foods for Human Nutrition, 58(3), 1-9.
-  - Pugliese, A. et al. (2000). "Insecticidal activity of Canavalia ensiformis and Canavalia gladiata lectins." Biotechnology Letters, 22(12), 1017-1021.
-  - Smartt, J. (1990). Grain Legumes: Evolution and Genetic Resources. Cambridge University Press.
+  - Pugliese, A. et al. (2000). "Insecticidal activity of [[canavalia-ensiformis]] and Canavalia gladiata lectins." Biotechnology Letters, 22(12), 1017-1021.
+  - Smartt, J. (1990). [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]: Evolution and Genetic Resources. Cambridge University Press.
   - Ologhobo, A.D. & Fetuga, B.L. (1984). "Protein and mineral composition of some Nigerian legume seeds." Food Chemistry, 13(4), 303-310.
 created: 2026-04-28
 ---
@@ -25,13 +25,13 @@ created: 2026-04-28
 Canavalia gladiata, commonly known as the sword bean, is a perennial climbing
 legume in the family Fabaceae. Native to tropical Asia and possibly Africa, it
 is cultivated across the tropics for its edible seeds, green pods, and as a
-cover crop and green manure in agroforestry systems.
+cover crop [[fukuoka-clover-and-green-manure-cropping]] in agroforestry systems.
 
 The species produces large, sword-shaped pods containing 5–15 seeds each, giving
 rise to its common name. Despite the presence of antinutritional compounds in raw
 seeds, proper processing renders them a valuable protein source. The vigorous
 climbing habit and nitrogen-fixing capacity make it a versatile component in
-tropical permaculture designs.
+[[comparison-arid-vs-tropical-permaculture]] designs.
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ and mottled patterns.
 ## Distribution and Habitat
 
 C. gladiata is widely distributed across tropical and subtropical Asia, Africa,
-and the Pacific Islands. Its precise center of origin is debated, with evidence
+and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Its precise center of origin is debated, with evidence
 pointing to tropical Asia. It has been cultivated since antiquity in India,
 China, and Southeast Asia.
 
@@ -85,49 +85,6 @@ Major antinutritional factors include concanavalin A (a lectin), canavanine
 (a non-protein amino acid), trypsin inhibitors, and phytic acid. Raw seed
 consumption causes gastrointestinal distress and potential toxicity.
 
-Traditional processing methods effectively reduce antinutrients: soaking in
+Traditional [[mushroom-storage-and-processing-methods]] effectively reduce antinutrients: soaking in
 water for 12–24 hours, followed by boiling for 30–60 minutes or roasting,
 eliminates most lectin and protease inhibitor activity. Fermentation and
-sprouting further improve protein digestibility and mineral bioavailability.
-
-The green pods and young leaves contain lower levels of antinutrients and are
-consumed as vegetables without extensive processing. Young pods are cooked
-similar to green beans in Southeast Asian cuisine.
-
-## Permaculture and Agroforestry
-
-C. gladiata excels as a multi-functional cover crop in tropical systems. Its
-rapid vine growth provides effective weed suppression and living mulch when
-intercropped with maize, cassava, or tree crops.
-
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates of 80–150 kg N/ha/year have been reported, contributing
-significantly to soil fertility. The plant forms effective symbiosis with
-Bradyrhizobium strains native to [[mollison-designers-tropical-soils-and-cation-exchange-management]].
-
-As a climbing support species, it can be trained on trellises alongside
-tomatoes, peppers, or cucurbits, providing shade and wind protection while
-fixing nitrogen for its companions.
-
-The substantial [[dighton-fungal-biomass-production-aquatic-ecosystems]] (3–8 t/ha dry matter) makes it an excellent
-green manure crop. When incorporated into soil at flowering, it releases
-nutrients rapidly and improves soil [[hamilton-composting-and-organic-matter-management]] content.
-
-Propagation is by seed, direct-sown at 2–3 seeds per planting station with
-spacing of 60–100 cm between plants along trellises or fence lines. Seed
-scarification improves germination rate and uniformity.
-
-## Pest and Disease Profile
-
-Major pests include the pod borer (Maruca vitrata), bean fly (Ophiomyia
-phaseoli), and variousbruchid beetles that attack stored seeds. The lectin
-content provides some resistance to bruchid infestation relative to other
-tropical legumes.
-
-Diseases of significance include anthracnose (Colletotrichum lindemuthianum),
-[[cervantes-powdery-mildew-prevention-treatment]], and root-knot nematode (Meloidogyne spp.). C. gladiata
-generally shows better disease resistance than C. ensiformis under field
-conditions.
-
-## See Also
-
-[[lablab-purpureus]] · arachis-pintoi-entity · [[leucaena-leucocephala]] · [[vicia-faba]]

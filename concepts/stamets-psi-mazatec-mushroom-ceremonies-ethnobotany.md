@@ -5,6 +5,7 @@ tags: [ethnobotany, mazatec, ceremonial, history, mexico]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -25,13 +26,13 @@ despite centuries of persecution by colonial and religious authorities.
 
 Our present-day understanding of the historical use of psilocybin
 mushrooms largely arises from the works of Blasius Reko, Richard E.
-Schultes, Roger Heim, and R. Gordon Wasson. These ethnomycologists not
+Schultes, [[roger-heim]], and R. [[gordon-wasson-comparative-method-ethnomycology]]. These ethnomycologists not
 only studied the ethnographic origins of mushroom rituals but also
 personally experienced their power. Their work supported the theory
-that modern-day mushroom cults are remnants of an ancient religion
+that modern-day [[eleusinian-mysteries-minoan-mushroom-cults]] are remnants of an [[amanita-in-ancient-religion]]
 practiced by the Aztec and Mayan civilizations.
 
-The Aztecs called psilocybin mushrooms "teonanacatl," meaning "god's
+The Aztecs called [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] "teonanacatl," meaning "god's
 flesh," reflecting the sacred status these mushrooms held in their
 culture. In the sixteenth century, Bernardino de Sahagun, a Franciscan
 friar accompanying Hernando Cortes, documented the ritualistic use of
@@ -65,7 +66,7 @@ in secret, remaining hidden from outsiders until the [[coleman-louis-savier-twen
 
 The fusion of Christianity and mushroom ritual that emerged from this
 cultural collision is exemplified by Maria Sabina, the renowned Oaxacan
-shaman. Her mushroom veladas (ceremonial nights) were permeated with
+shaman. Her [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] (ceremonial nights) were permeated with
 Catholic practices such as an altar to Christ and portraits of the
 Virgin Mary.
 
@@ -87,24 +88,3 @@ include:
   consumed by Wasson during his inaugural session with Maria Sabina.
   This species, along with psilocybe-aztecorum, is the likely
   species referred to by Sahagun as the teonanacatl of the Aztecs.
-- psilocybe-aztecorum - named for the Aztec civilization
-- [[set-and-setting]], an extraordinarily gratifying cerebral
-adventure can unfold. As dosage increases, the need for ritual becomes
-increasingly important. Working within a ritual setting gives structure
-to the experience and guides events along a positive path. Ritual can
-become a safety net if the experience becomes challenging. Rituals are
-built from the lessons learned from previous positive experiences.
-
-## European Parallels
-
-The use of fungi as sacraments has historical precedence in European
-cultures as well. Aristotle, Plato, Homer, and Sophocles all
-participated in religious ceremonies at the temple of Demeter at
-Eleusis in Greece. For over two millennia, thousands of pilgrims
-journeyed to the annual [[stamets-mushroom-disease-pathogens-contaminants]]
-- [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
-
-- psilocybe-mexicana - "little birds" of the Mazatec
-- psilocybe-caerulescens - derrumbes, the landslide mushroom
-- psilocybin-potency - chemistry of ceremonial species
-- ethnobotany - broader context of plant-fungal sacraments

@@ -1,5 +1,5 @@
 ---
-title: green cannabis grow bible vegetative phase management Management - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible [[cervantes-vegetative-phase]] Management
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis]
 
 # Vegetative Phase Management
 
-Greg Green's Cannabis Grow Bible details how to [[query-how-to-manage-cannabis-odor-and-stay-discreet]] plants
+[[greg-green]]'s Cannabis Grow Bible details how to [[query-how-to-manage-cannabis-odor-and-stay-discreet]] plants
 through their [[cannabis-vegetative-growth-stage]] stage, from seedling transplant through
 pre-flowering.
 
@@ -33,7 +33,7 @@ Two transplant methods are described:
 
 ## Light Schedule
 
-Leave lights on 24 hours a day during vegetative growth. Adjust light
+Leave lights on 24 hours a day during [[green-cannabis-vegetative-growth]]. Adjust light
 height as the plant grows -- closer light means more intensity, but
 burns occur if too close. Use the hand test: if you feel discomfort at
 a spot under the light, the plant will too.
@@ -56,7 +56,7 @@ surface if needed.
 
 ### Topping
 
-During the 3rd or 4th week of vegetative growth, the main stem can be
+During the 3rd or 4th week of [[knf-vegetative-growth-stage]], the main stem can be
 clipped above the last branch formation at a 45-degree angle. This
 causes the stem to split into two or more directions, producing
 multiple top colas. Results are strain-dependent -- some strains (like
@@ -88,39 +88,3 @@ remove dead leaves and any with mold during thinning.
 
 Vegetative growth ends when the plant stops gaining height and small
 new growths (calyxes) appear at most nodes. This pre-flowering stage
-lasts 1-2 weeks.
-
-### Early Sexing Methods (not 100% accurate)
-
-1. **Height comparison**: In same-strain plants grown simultaneously,
-  shorter plants tend to be female and taller ones male. Males also
-  tend to pre-flower earlier.
-2. **Calyx inspection**: With a fine magnifying glass, a calyx raised
-  on a short stem indicates male; calyx not raised indicates female.
-3. **Force-flowering a cutting**: Take a cutting and place it in water
-  or rockwool under 12/12 light. The cutting will display its sex.
-  Clones carry the exact same genetic makeup as the parent, including
-  sex.
-
-## When to Flower
-
-Green advises waiting for pre-flowers before switching to 12/12.
-Key facts:
-
-- Cannabis can be kept alive up to 10 years under continuous light
-- Bud production equals environment plus genetics plus node count, not
-  height
-- More plants flowered small can produce more bud turnover than fewer
-  plants grown tall
-- Most strains double in height and width when flowered
-
-## Related
-
-- [[green-cannabis-grow-bible-outdoor-growing]] Pages
-
-- [[cannabis-vegetative-stage-management]]
-- [[cannabis-pruning-and-defoliation-guide]]
-- [[cannabis-pre-flowering-and-sexing]]
-- [[green-cannabis-grow-bible-flowering-phase-and-harvest]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[cannabis-growth-stage-checklist]]

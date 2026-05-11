@@ -1,7 +1,7 @@
 ---
 title: "Sandoz european-psycholytic-therapy-1960s-1970s and the European Clinical Model"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-topics: ["psycholytic therapy", "Sandoz", "LSD", "Albert Hofmann",
+topics: ["[[swiss-psycholytic-therapy-1988-1993]]", "Sandoz", "LSD", "Albert Hofmann",
   "seelische Auflockerung", "European psychiatry", "psychoanalysis",
   "Stanislav Grof", "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]", "[[metzner-psycholytic-psychedelic-therapy-models]]"]
 ---
@@ -20,9 +20,9 @@ for LSD-assisted psychotherapy in Europe, the **psycholytic
 approach**, which differed fundamentally from the psychedelic
 therapy model that developed in Anglo-American circles.
 
-Ralph Metzner's comparative review of hallucinogenic drugs in
-psychotherapy and shamanism provides a detailed account of both
-European psycholytic and Anglo-American psychedelic therapy
+Ralph Metzner's comparative review of [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
+[[metzner-hallucinogens-psychotherapy-and-shamanism]] provides a detailed account of both
+[[european-psycholytic-therapy-1960s-1970s]] and Anglo-American [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
 models, their historical development, and their shared fundamental
 principles that distinguish hallucinogen-assisted therapy from
 conventional pharmacological treatment.
@@ -83,64 +83,8 @@ imagery leading to insight and transformation.
 ## Harvard and Consciousness Expansion
 
 The term "psychedelic" was adopted by Timothy Leary, Frank Barron,
-Richard Alpert and the Harvard research project. Leary's work
+Richard Alpert and the [[hofmann-leary-case-and-harvard-research]] project. Leary's work
 focused not on treatment but on exploring psychedelic possibilities
 for "normals" — mostly graduate students — as well as artists,
 musicians, poets and writers, in relatively unstructured but
 supportive, home-like settings.
-
-The concept of **consciousness expansion** was introduced, contrasted
-with the contracted, fixated awareness characteristic of addictions
-and compulsions. Leary popularized the **set and setting
-hypothesis**: the primary determinants of a [[leary-psychedelic-experience-bardo-mapping]]
-are internal set (intention, expectation) and external setting
-(context, guide presence).
-
-## Shared Fundamental Principles
-
-Despite theoretical and practical differences between the
-psycholytic and psychedelic approaches, Metzner identified five
-[[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]] they share, distinguishing hallucinogen-
-assisted psychotherapy from other drug-based treatments:
-
-**Expanded consciousness**: Hallucinogen-assisted psychotherapy
-invariably involves a profoundly expanded state of consciousness,
-in which individuals can gain therapeutic insight into neurotic
-dynamics and may transcend fundamental self-concepts and views of
-reality.
-
-**Set and setting primacy**: These are the most important
-determinants of psychedelic experiences, while the drug plays a
-catalyst or trigger role. This contrasts with psychiatric drugs
-where pharmacological action seems paramount.
-
-**Amplifier analogy**: The drug functions as a nonspecific
-amplifier of psychic contents, partly through lowered sensory
-thresholds ("cleansing of the doors of perception") and partly
-through not-yet-understood central neurotransmitter processes.
-
-**Microscope metaphor**: Psychedelics could play in psychology
-the role the microscope plays in biology — opening realms and
-processes of the human mind to direct, repeatable, verifiable
-observation.
-
-**[[metzner-therapist-experiential-prerequisite-psychedelic-therapy]] prerequisite**: Personal experience
-with psychedelics is essential for effective therapy. Without it,
-communication between therapist and patient in a psychedelic state
-is severely limited.
-
-## The Military Interlude
-
-Metzner noted the irony that LSD's wartime discovery attracted
-military attention. Considerable research was devoted to
-surreptitious delivery systems for maximum disorientation.
-Fortunately, LSD's capacity to tap into mystical potentials ruined
-its weapon applicability. Rather than producing submissive
-subjects, it released people into "awesome worlds of cosmic
-consciousness." The military was not prepared for soldiers turning
-into mystics.
-## See Also
-
-- [[metzner-grof-perinatal-matrices-and-transpersonal-realms]]
-- [[metzner-lsd-military-weapon-to-mystic-catalyst]]
-- [[metzner-transpersonal-dimensions-psychedelic-therapy]]

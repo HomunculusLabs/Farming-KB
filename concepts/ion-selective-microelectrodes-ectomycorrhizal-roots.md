@@ -44,7 +44,7 @@ The concentration gradient (dc/dx) combined with the diffusion coefficient of th
 
 ## Applications to Ectomycorrhizal Roots
 
-The technique has been applied to quantify net H+, K+, and NO3- fluxes occurring along the roots of woody species and ectomycorrhizal roots. Ectomycorrhizal short roots show distinct ion flux patterns compared to non-mycorrhizal lateral roots, reflecting the modifications in nutrient uptake physiology that accompany [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
+The technique has been applied to quantify net H+, K+, and NO3- fluxes occurring along the roots of woody species and ectomycorrhizal roots. Ectomycorrhizal short roots show distinct ion flux patterns compared to non-mycorrhizal lateral roots, reflecting the modifications in [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] physiology that accompany [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]
 - [[bacterial-endophytes-plant-roots]]
 ## Practical Considerations
 
@@ -88,21 +88,3 @@ and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
 ## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[ectomycorrhiza]]

@@ -88,37 +88,3 @@ stability of the ABTS radical cation contributes to its effectiveness
 as a mediator over extended reaction periods.
 
 ## Co-Substrate Effects on Mediator Systems
-
-Both laccase and MnP show enhanced activity in the presence of
-co-substrates. For laccase, 1-hydroxybenzotriazole (HBT) enables
-kraft pulp delignification, while 3,4-hydroxyanthranilic acid from
-Pycnoporus cinnabarinus enables cleavage of non-phenolic model
-compounds. For MnP, glutathione enables oxidation of veratryl alcohol
-via thiol radicals, and unsaturated lipids promote non-phenolic lignin
-and phenanthrene degradation through peroxyl and alkoxyl radicals.
-
-## Hydrogen Peroxide Dynamics
-
-Hydrogen peroxide is essential for both LiP and MnP catalysis but can
-also inactivate these enzymes. The supply of hydrogen peroxide relative
-to reducing substrates must be carefully balanced. Excess hydrogen
-peroxide drives the enzyme into a catalytically inactive form (Compound
-III). Enzyme systems for controlled hydrogen peroxide production, such
-as glyoxal oxidase and other oxidases, are important components of the
-complete ligninolytic mediator system.
-
-## Environmental Significance
-
-Redox mediator chemistry is central to pollutant [[query-how-does-lignin-degradation-by-fungi-work]]
-because many environmental pollutants are hydrophobic, high-molecular-
-weight, or bound to soil organic matter. Without mediators, these
-compounds cannot interact directly with the enzyme active sites. The
-diffusible nature of oxidized mediators allows penetration into
-substrate matrices, dramatically expanding the range of compounds
-susceptible to fungal bioremediation.
-
-## See Also
-
-- [[staycare-lignin-peroxidase-and-pollutant-degradation]]
-- [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-bioavailability-pollutants-fungal-bioremediation]]

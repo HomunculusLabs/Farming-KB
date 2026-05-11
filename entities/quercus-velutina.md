@@ -12,6 +12,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Quercus velutina Lam." Agriculture Handbook 654, USDA Forest Service.
   - Stein, J.D. et al. (2003). "Quercus velutina." In: Fire Effects Information System (FEIS), USDA Forest Service.
   - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
@@ -87,28 +88,3 @@ Primary uses include flooring, furniture, cabinetry, railroad ties, mine timbers
 The inner bark of black oak was historically one of the most important sources of **quercitron** — a yellow dye used extensively in the [[staycare-fungal-treatment-of-textile-industry-wastewater]] from the 18th through early 20th centuries. The active compound is quercitrin, a glycoside of the flavonoid quercetin. Quercitron bark was harvested commercially from wild trees across the Appalachian region and exported to European textile mills.
 
 The bark was also a major source of **tannins** for leather tanning. Quercitron extract was a significant commercial product in the eastern United States through the 1800s, with processing centers in Pennsylvania and the Carolinas.
-
-### Ornamental Use
-
-Black oak is occasionally planted as a [[mollison-designers-legume-shade-tree-pasture-systems]] and ornamental, valued for its deep red autumn color and stately form. However, it is less commonly cultivated than [[quercus-rubra]] or [[quercus-coccinea]] due to its less predictable form and slower establishment in landscape settings.
-
-## Conservation Status
-
-Quercus velutina is assessed as **Least Concern** by the IUCN. The species is widespread and abundant throughout its range.
-
-However, **oak regeneration failure** is a significant concern across the eastern United States. Fire suppression, high deer browsing pressure, and competition from mesophytic species are reducing black oak recruitment in many forests. Without intervention (prescribed fire, timber harvesting, or deer management), black oak is expected to decline as a canopy component over the coming decades.
-
-**Oak wilt** (caused by the fungus *Bretziella fagacearum*) affects all red oaks including Q. velutina, causing rapid mortality in infected trees. The disease is spread by sap-feeding beetles and through root grafts between neighboring trees. Infected trees typically die within weeks to months of symptom onset, making oak wilt one of the most serious diseases affecting eastern hardwood forests.
-
-## See Also
-
-- [[quercus-rubra]]
-- [[quercus-coccinea]]
-- [[quercus-alba]]
-- [[quercus-macrocarpa]]
-- [[quercus-palustris]]
-- [[castanea-dentata]]
-- [[carya-ovata]]
-- [[juglans-nigra]]
-- [[acer-saccharum]]
-- [[sassafras-albidum]]

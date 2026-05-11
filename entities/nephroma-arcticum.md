@@ -3,7 +3,7 @@ title: "Nephroma arcticum"
 type: species
 tags:
   - lichen
-  - ascomycota
+  - [[ascomycota]]
   - nephromataceae
   - arctic
   - boreal
@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Jørgensen, P.M. & James, P.W. (1990). "Nephromataceae." Flora Neotropica Monograph 55.
-  - Goward, T. (1999). "The lichens of British Columbia." Royal BC Museum, Victoria.
+  - Goward, T. (1999). "The [[lichens]] of British Columbia." Royal BC Museum, Victoria.
   - URL: https://www.lichenportal.org/
 created: 2026-04-28
 ---
@@ -65,7 +65,7 @@ As a bipartite lichen, **N. arcticum** contributes to primary productivity in bo
 
 The species is an important winter forage for caribou and reindeer in arctic and subarctic regions. Its large thallus provides substantial biomass that remains accessible above snow cover, making it a critical food resource during periods of scarcity.
 
-N. arcticum contributes to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through the slow release of organically bound nitrogen as thallus fragments decompose. While it lacks a cyanobacterial photobiont capable of direct [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], it facilitates nutrient retention and cycling in the forest canopy.
+N. arcticum contributes to [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] through the [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]] of organically bound nitrogen as thallus fragments decompose. While it lacks a cyanobacterial photobiont capable of direct [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], it facilitates nutrient retention and cycling in the forest canopy.
 
 ## Ethnobotanical Uses
 
@@ -83,35 +83,8 @@ Additional compounds identified from Nephroma include **tenuiorin** and various 
 
 The gyrophoric acid found in N. arcticum has demonstrated antimicrobial activity in vitro, particularly against Gram-positive bacteria. This supports the traditional use of the lichen in wound healing and treatment of infections.
 
-Extracts of N. arcticum have shown moderate antioxidant activity in DPPH and ABTS radical scavenging assays. The phenolic compounds contribute to this activity, which may underlie some of the anti-inflammatory effects reported in traditional medicine.
+Extracts of N. arcticum have shown moderate antioxidant activity in DPPH and ABTS radical scavenging assays. The [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] contribute to this activity, which may underlie some of the anti-inflammatory effects reported in traditional medicine.
 
 Lichen polysaccharides, including glucans and galactomannans, have been isolated from Nephroma species and exhibit immunomodulatory properties. These water-soluble fractions stimulate cytokine production and enhance phagocytic activity in macrophage cell lines.
 
 ## Conservation and Bioindication
-
-**N. arcticum** is sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Its decline in southern portions of its range has been documented as an indicator of industrial [[cervantes-air-quality-ventilation]] degradation.
-
-In Fennoscandia, the species is considered a bioindicator of old-growth forest continuity. Its presence correlates strongly with forest stand age, structural complexity, and the absence of recent disturbance from logging or fire.
-
-Conservation concerns center on habitat loss from commercial forestry operations. The removal of old-growth stands eliminates the mossy, humid microhabitats that N. arcticum requires for establishment and growth. Recovery after disturbance is extremely slow.
-
-## Related Species
-
-- **[[cladonia-rangiferina]]** — Reindeer lichen, important caribou forage
-- **Nephroma bellum** — Similar species with smoother thallus and cyanobacterial photobiont
-
-## See Also
-
-- old-growth-forest-fungi-conservation
-- boreal forest
-- arctic ecology
-- lichen bioindication
-- caribou forage
-- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
-- lichen chemistry
-- depsidone
-- gyrophoric acid
-- peltigerales
-- usnea
-- cladonia
-- [[lichens]]

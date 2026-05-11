@@ -22,9 +22,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Tirmenstein, D. (1990). "Armillaria tabescens." In: "Silvics of psilocybin-north-america-pacific-northwest," USDA Forest Service.
-  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria Root Disease." In: "Compendium of Grape Diseases," APS Press.
+  - Baumgartner, K. & Bega, R.V. (1994). "Armillaria [[ingham-root-disease-treatment]]." In: "Compendium of Grape Diseases," APS Press.
   - Kim, M.S. et al. (2006). "Molecular Phylogeny of Armillaria." Mycologia, 98(5), 742–752.
-  - Schwarze, F.W.M.R. et al. (2000). "Fungal Strategies of Wood Decay in Trees." Springer.
+  - Schwarze, F.W.M.R. et al. (2000). "[[singh-bioaugmentation-vs-biostimulation-fungal-strategies]] of Wood Decay in Trees." Springer.
   - Watling, R. et al. (1982). "The Genus Armillaria." Royal Botanic Garden Edinburgh.
 ---
 
@@ -34,8 +34,8 @@ sources:
 
 **Armillaria tabescens** (ringless honey mushroom, table-top mushroom) is a
 basidiomycete fungus in the family Physalacriaceae, notable as a root pathogen
-and wood-decay fungus of hardwood trees across temperate North America and
-Europe. It is closely related to the well-known *Armillaria mellea* but is
+and wood-decay fungus of hardwood trees across temperate [[guzman-psilocybin-mushrooms-north-america]] and
+Europe. It is closely related to the well-known *[[armillaria-mellea-entity]]* but is
 distinguished by the complete absence of an annulus (ring) on the stipe.
 
 The species is one of the most common causes of **Armillaria root rot**, a
@@ -44,7 +44,7 @@ Individual genets (genetic individuals) can form enormous underground networks
 spanning hectares, making *Armillaria* species among the largest and oldest
 [[savory-living-organisms-as-tools]] on Earth.
 
-Despite its pathogenic nature, *A. tabescens* is an edible mushroom when
+Despite its pathogenic nature, *A. tabescens* is an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] when
 thoroughly cooked and is collected by foragers in regions where it is common.
 
 ## Taxonomy and Morphology
@@ -55,7 +55,7 @@ Described by Giovanni Antonio Scopoli in 1772 as *Agaricus tabescens* and later
 transferred to *Armillaria* by Paul Kummer in 1871. Recent phylogenetic work
 confirms *A. tabescens* as a distinct species within the *Armillaria mellea*
 sensu stricto complex, separate from *A. mellea*, *A. gallica*, and
-*Armillaria solidipes* (the [[growing-gourmet-north-american-reishi-species]] *A. ostoyae*).
+*[[armillaria-solidipes]]* (the [[growing-gourmet-north-american-reishi-species]] *A. ostoyae*).
 
 **Cap:** 3–10 cm, convex to plane with age, honey-brown to tan, often with
 darker scales or fibrils toward the center. Surface is dry to slightly tacky.
@@ -88,50 +88,3 @@ It is most commonly found associated with oaks (*Quercus* spp.), hickories
 (*Carya* spp.), maples (*Acer* spp.), and various fruit trees.
 
 Preferred habitats include hardwood forests, orchards, urban parks, and
-landscaped areas where hardwood stumps or root systems are present. The fungus
-can persist on buried root material for decades after the host tree is removed.
-
-## Pathogenicity and Ecology
-
-*A. tabescens* is primarily a **white rot** saprotroph that becomes an
-opportunistic pathogen when encountering stressed or wounded trees. It colonizes
-roots through direct contact with infected root material or via rhizomorphs
-extending through soil from nearby colonized sources.
-
-Infection progresses from the root system into the root crown and lower trunk,
-disrupting water and nutrient transport. Symptoms include crown thinning,
-yellowing foliage, reduced growth, cankers at the root collar with white
-mycelial fans visible under bark, and eventual tree death.
-
-The fungus can survive saprotrophically on dead wood for years and produces
-extensive rhizomorph networks that actively seek new hosts. This persistence
-makes *Armillaria* root rot particularly challenging to manage in orchards and
-ornamental plantings.
-
-Despite its pathogenic role, *Armillaria* species play an important ecological
-function in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], decomposing dead wood and recycling carbon
-and nutrients. In forest ecosystems, they are natural components of gap-phase
-dynamics, contributing to tree mortality and stand regeneration.
-
-## Edibility
-
-*A. tabescens* is edible when thoroughly cooked. The firm-textured caps and
-young specimens are most palatable, with a mild, slightly nutty flavor.
-
-**Critical identification note:** Foragers must distinguish *A. tabescens* from
-the deadly **Galerina marginata** (deadly galerina), which can fruit in similar
-habitats and has a superficial resemblance. Key differentiators: *Galerina*
-has a ring, brown spore print, and grows on wood chips rather than at tree
-bases. All *Armillaria* have white spore prints.
-
-Additionally, all *Armillaria* species should be cooked thoroughly before
-consumption, as raw specimens may cause gastrointestinal upset. Some
-individuals report sensitivity even to cooked material.
-
-## See Also
-
-- [[armillaria-solidipes]]
-
-- armillaria-gallica — honey mushroom species, common in European forests
-- [[fomes-fomentarius]] — tinder fungus, another wood-decay basidiomycete
-- [[pleurotus-ostreatus]] — oyster mushroom, shared hardwood substrate

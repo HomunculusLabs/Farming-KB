@@ -1,5 +1,5 @@
 ---
-title: Coppice and Forest Management Systems
+title: Mollison Course Coppice Forest Management
 created: 2026-04-28
 tags: [permaculture, coppice, forest-management, timber, pole-wood, dry-distillation, firewood, bamboo, windbreak, wildlife-habitat, sustainable-harvest]
 date: 2026-04-25
@@ -10,8 +10,8 @@ type: concept
 ---
 # Coppice and Forest Management Systems
 
-Forest management in permaculture involves a holistic approach to
-harvesting and maintaining forest ecosystems for multiple yields. The
+Forest [[keyline-design-and-water-management-in-permaculture]] involves a holistic approach to
+harvesting and maintaining [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] for multiple yields. The
 forest is not just a source of timber; it is a complex system that
 provides forage, habitat, water regulation, climate moderation, and
 numerous other functions simultaneously. This approach connects to broader [[agroforestry]] practices and [[backyard-food-forest-design]].
@@ -88,63 +88,3 @@ oil in the leaves, so when you cut your tea trees, you also distill
 the heads.
 
 ## Managing for Windbreak and Forage
-
-Inner zones need to be far more productive in human and animal forages.
-We should be managing the near section of the forest for greatly
-increased productivity within the center of the site. We are managing
-toward high forage-drop species, such as oak and cherry and apple. We
-remove selectively and replant or encourage selectively. We next manage
-for human and domestic species forages. If we close up an area with
-white birch and put white pine behind, it might create a micro-habitat
-for food production, because we have a reflective system. We might
-screen with white birch near gardens.
-
-## Forests and the Atmosphere
-
-Wind completely disappears in an effective forest within a thousand
-meters. The forest is swallowing it. It is absorbing the total force
-of even gale force winds within a thousand meters, except at the crown.
-The forest forces 60% of the wind up, causing a high pressure on the
-windward side, and the face of the forest catches a lot more rain.
-Rainfall increases between 15% and 20%. The forest also dramatically
-affects humidity and precipitation. Up to 60% of total precipitation
-may be attributed to this forest effect. Organic particles released by
-the forest are far more effective precipitation nuclei than inorganic
-particles. About 60% of inland rain falls from forest clouds, not sea
-clouds.
-
-## Coppice Rotation Cycles
-
-Different tree species are best suited to different coppice rotation
-lengths, depending on their growth rate and intended product:
-
-- **Short rotation (1-5 years)**: Willow, poplar, and some hazel
-  varieties produce slender rods ideal for basketry, hurdles, and
-  bean poles. These species shoot vigorously after cutting and can
-  be harvested on a rapid cycle.
-- **Medium rotation (5-15 years)**: Sweet chestnut, ash, and oak
-  produce poles suitable for fencing, construction, and tool handles.
-  This is the most versatile rotation length for homestead-scale
-  systems.
-- **Long rotation (15-30 years)**: Larger-diameter material for
-  construction timbers and firewood. Species like hornbeam and beech
-  respond well to longer cycles.
-
-The key principle is to never harvest all stools in a single year.
-Instead, divide the coppice into equal sections (traditionally 7-12)
-and harvest one section each year, creating a continuous supply of
-wood at every stage of growth.
-
-## Coppice Species Selection
-
-Choosing the right species for a coppice system depends on site
-conditions, climate, and intended products:
-
-- **Black locust** (*Robinia pseudoacacia*): Exceptionally durable
-  wood that resists rot without treatment. Ideal for fence posts,
-  outdoor construction, and firewood. Fixes [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests|nitrogen]], improving
-  soil for understory plants.
-- **Willow** (*Salix* spp.): The classic coppice species, producing
-  flexible rods for basketry, living structures, and erosion control.
-  Willow also provides early pollen and nectar for [[beneficial-insects-pollinators]].
-  Thrives in wet soils where other species struggle.

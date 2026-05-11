@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal [[fungal-mineral-weathering]] and Nutrient Acquisition
+title: Mycorrhizal Mineral Weathering Nutrient Acquisition
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -88,31 +88,3 @@ altering water movement and gas exchange in soil.
 AM fungal hyphae can access phosphorus from slightly soluble mineral sources
 including rock phosphate and apatite. The mechanism involves both organic
 acid production and phosphatase enzyme secretion at the hyphal tip. Although
-individual AM hyphae are narrower than ECM hyphae, their sheer abundance in
-most agricultural and grassland soils means that their collective contribution
-to mineral nutrient cycling is substantial.
-
-## Ecological Significance and Soil Development
-
-Mycorrhizal mineral weathering plays a critical role in long-term soil
-development. In primary succession on glacial deposits, volcanic ash, or
-mine tailings, mycorrhizal fungi are among the first organisms to colonize
-and begin extracting nutrients from raw mineral material. This process
-initiates soil formation by releasing calcium, potassium, magnesium, iron,
-and phosphorus from parent rock material, which then becomes available for
-plant uptake and incorporation into organic matter.
-
-The weathering activity of mycorrhizal fungi also influences soil carbon
-sequestration. As minerals dissolve, they release cations that can form
-stable complexes with organic matter, protecting it from microbial
-decomposition. Calcium released from silicate weathering, for example, can
-promote the formation of calcium-organic matter associations that persist
-in soil for centuries. This linkage between mineral weathering and carbon
-stabilization represents an important feedback in the global carbon cycle.
-
-## Related Topics
-
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-nutrient-cycling-forests]]
-- [[gadd-fungal-metal-interactions]]
-- [[fungal-calcium-oxalate-crystals]]

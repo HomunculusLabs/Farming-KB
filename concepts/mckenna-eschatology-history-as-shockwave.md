@@ -1,5 +1,5 @@
 ---
-title: "History as [[mckenna-history-as-eschatological-shockwave]]"
+title: Mckenna Eschatology History As Shockwave
 aliases: [eschatology, [[mckenna-history-shockwave-eschatology-temporal-acceleration]], McKenna eschatology, history shockwave]
 tags: [psychedelics, philosophy, eschatology, consciousness, time, McKenna]
 source: mckenna_t-tryptamines_consciousness.md
@@ -87,36 +87,3 @@ of the galaxy over the last four and a half billion years." These experiences
 naturally raise the question of independent validation, but McKenna came to
 believe that "the structure of the Western intellectual enterprise is so flimsy
 at the center that apparently no one knows anything with certitude."
-
-The mushroom consciousness, he wrote, is "the consciousness of the Other in
-hyperspace, which means in dream and in the psilocybin trance, at the quantum
-foundation of being, in the human future, and after death. All of these places
-that were thought to be discrete and separate are seen to be part of a single
-continuum."
-
-## The Hibernation and Awakening of the Logos
-
-McKenna drew on Philip K. Dick's novel *Valis* to develop the idea that the Logos
-had been in a state of hibernation. Dick described "a creature of pure information"
-that was buried in the ground at Nag Hammadi along with the Chenoboskion Library
-around 370 A.D. "As static information, it existed there until 1947, when the
-texts were translated and read. As soon as people had the information in their
-minds, the symbiote came alive, for, like the mushroom consciousness, Dick
-imagined it to be a thing of pure information."
-
-## The Mexican Mushroom Cult and Its Destruction
-
-McKenna noted that the classic mushroom cults of Mexico were destroyed by the
-Spanish conquest. The Franciscans assumed they had "an absolute monopoly on
-theophagy, the eating of God; yet in the New World they came upon people calling a
-mushroom *teonanacatl*, the flesh of the gods." The Inquisition pushed the old
-religion into the mountains of Oaxaca, where it only survived in a few villages
-when Valentina and Gordon Wasson found it there in the 1950s.
-
-## See Also
-
-- [[mckenna-dmt-hyperspace-translinguistic-matter]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[mckenna-stropharia-hypothesis]]
-- [[mckenna-archaic-revival]]
-- psilocybin pharmacology and mechanism of action

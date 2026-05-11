@@ -9,11 +9,11 @@ sources:
 ---
 # Hamilton: Pruning and Training Fruit Trees
 
-**Source:** Geoff Hamilton, *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
+**Source:** [[geoff-hamilton]], *[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]* (Nick Hamilton edition)
 
 **Updated:** 2026-04-18
 
-Pruning is the deliberate cutting back of plants, usually applied to trees and shrubs, to control size, train to shape, and encourage flower or fruit buds to form. For the organic gardener, proper pruning reduces disease susceptibility by improving [[stamets-growing-room-air-circulation-co2-management]] and removing dead or diseased wood. Understanding the relationship between bud direction and growth is fundamental: a bud grows in the direction it faces, so pruning cuts are always angled away from the bud, slightly above it, leaving no "snag" that could rot.
+Pruning is the deliberate cutting back of plants, usually applied to [[nitrogen-fixing-trees-and-shrubs]], to control size, train to shape, and encourage flower or fruit buds to form. For the organic gardener, proper pruning reduces disease susceptibility by improving [[stamets-growing-room-air-circulation-co2-management]] and removing dead or diseased wood. Understanding the relationship between bud direction and growth is fundamental: a bud grows in the direction it faces, so pruning cuts are always angled away from the bud, slightly above it, leaving no "snag" that could rot.
 
 ## Key Terms
 
@@ -71,7 +71,7 @@ Summer pruning can also restrict growth by bending branches into severe curves (
 
 ## Fan Training
 
-Fan training produces trees that grow flat against a wall. The reflected and stored heat allows otherwise tender fruits (peaches, nectarines, apricots, plums) to grow in temperate climates. Trees are grown against wires fixed to a wall 9in (23cm) apart.
+Fan training produces trees that grow flat against a wall. The reflected and stored heat allows otherwise tender fruits (peaches, nectarines, apricots, plums) to grow [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Trees are grown against wires fixed to a wall 9in (23cm) apart.
 
 ### Peaches and Nectarines (Fan)
 1. After planting, cut back to a strong bud about 18in (45cm) high, with two buds beneath.
@@ -88,15 +88,3 @@ Fan-trained plums grow best on south- or west-facing walls. Since plums are susc
 3. Following spring: prune the two main side branches to 18in and tie to the first wire. Remove central stem.
 4. Every spring and summer: tie upward-growing shoots from side branches onto the wires to form a fan shape. Pinch out branches growing into or away from the wall.
 5. After picking: cut out [[fungal-dead-wood-diversity]] and shorten pinched-off shoots by half.
-
-## Encouraging Bud Growth
-
-Sometimes fruit trees fail to produce shoots along one part of the stem. Nature provides a growth-retarding hormone sent from the top bud downward through channels just below the bark. To encourage a specific bud to grow, take a tiny notch out of the bark above it; the hormone flows around the bud without affecting it. Conversely, to ensure a bud does not grow, nick underneath it to concentrate the hormone.
-
-## General Fruit Cultivation
-
-### Feeding
-Apply two handfuls of [[mycelium-running-mycelium-soil-building]]. If deficiency symptoms appear, spray immediately with liquid [[hamilton-vegetative-propagation]]
-- [[hamilton-greenhouse-management-organic]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]
-- [[hamilton-rose-growing-organic]]

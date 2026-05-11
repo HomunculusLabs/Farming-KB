@@ -23,13 +23,13 @@ sources:
 
 # Mochi (Cannabis Strain)
 
-**Mochi**, also known as **Mochi Gelato**, is an indica-dominant hybrid cannabis strain celebrated for its exceptional flavor profile, potent effects, and visually striking appearance. Created through a cross between **Sunset Sherbet** and **Thin Mint Girl Scout Cookies** (GSC), Mochi inherits some of the most prized genetics from the legendary Cookie family lineage. It has become a staple of the modern craft cannabis movement, particularly on the West Coast of the [[dmt-containing-plants-united-states-halpern]].
+**Mochi**, also known as **Mochi Gelato**, is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain celebrated for its exceptional flavor profile, potent effects, and visually striking appearance. Created through a cross between **[[sunset-sherbet]]** and **Thin Mint [[girl-scout-cookies]]** (GSC), Mochi inherits some of the most prized genetics from the legendary Cookie family lineage. It has become a staple of the modern craft cannabis movement, particularly on the [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] of the [[dmt-containing-plants-united-states-halpern]].
 
 ## Genetic Lineage
 
 **Sunset Sherbet (♀)** — Indica-leaning hybrid (GSC × Pink Panties) by Sherbinski. Contributes tropical fruit sweetness and [[blesching-cannabis-deep-relaxation-healing]].
 
-**Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × Durban Poison) by Cookie Family. Contributes signature cookie/mint terpenes and dense bud structure.
+**Thin Mint GSC (♂)** — Original GSC phenotype (OG Kush × [[durban-poison]]) by Cookie Family. Contributes signature cookie/mint terpenes and dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
 
 ### Lineage Tree
 ```
@@ -87,57 +87,3 @@ The unique combination of high limonene and linalool with a caryophyllene backbo
 ### Onset
 - **Time to onset:** 1–3 minutes when smoked or vaped; 30–90 minutes when ingested
 - **Initial effects:** Cerebral, euphoric, and uplifting — a noticeable head rush or "face melt" sensation
-
-### Primary Effects
-- **Euphoria** — intense happiness and elevated mood
-- **Relaxation** — deep physical relaxation spreading through the body
-- **Creativity** — mild enhancement of creative thinking
-- **Sensory enhancement** — heightened appreciation of music, food, and visuals
-
-### Medical Applications
-- **Stress and anxiety relief** — calming without excessive mental fog
-- **[[cannabis-pain-management-protocols]]** — [[cannabis-chronic-pain-management]], migraines, muscle tension
-- **Insomnia** — powerful sleep aid at higher doses
-- **Appetite stimulation** — significant munchies effect
-
-### Potential Adverse Effects
-- **Dry mouth and eyes** — common
-- **Dizziness** — possible at high doses
-- **Couch-lock** — strong sedative potential at higher doses
-
-## Growing Information
-
-### Cultivation Difficulty
-- **Rating:** Moderate — suitable for intermediate growers
-
-### Growing Characteristics
-- **Flowering time:** 8–10 weeks indoors
-- **Yield:** Moderate — 350–450 g/m² indoors
-- **Plant height:** Medium — 90–150 cm
-- **Stretch:** Moderate (1.5–2×) during early flowering
-
-### Environmental Preferences
-- **Temperature:** 20–26°C during flowering; cooler nights enhance purple coloration
-- **Humidity:** 40–55% during flowering; lower humidity prevents bud rot
-- **Nutrients:** Moderate to heavy feeder; benefits from calcium and magnesium
-
-### Pests and Disease Resistance
-- Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis due to dense bud structure — requires adequate airflow
-
-## Cultivar Variants
-
-Mochi has become a building-block parent for modern hybrids, including crosses with Wedding Cake, Runtz, and various Gelato phenotypes.
-
-## Market Position
-
-Mochi remains a **high-demand craft strain** in legal cannabis markets, commanding premium prices and appearing frequently on "best of" lists for flavor and potency. Available as flower, pre-rolls, vapes, concentrates, and edibles.
-
-## See Also
-
-- [[mochi-cannabis]]
-
-- [[gelato]]
-- [[girl-scout-cookies]]
-- [[wedding-cake]]
-- [[runtz-entity]]
-- [[golden-goat]]

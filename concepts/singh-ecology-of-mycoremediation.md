@@ -87,38 +87,3 @@ may cover several hectares of forest floor, facilitating energy exchange
 between aboveground and belowground systems. Fungi modify soil
 permeability and ion [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]], detoxify contaminated soil, and
 accumulate toxic materials.
-
-## Thermophilic and Extremophilic Contributions
-
-Thermophilic fungi that grow above 40 degrees Celsius are widespread in
-terrestrial habitats and can be cultivated in minimal media with growth
-yields comparable to mesophilic fungi. These organisms tolerate heavy
-metal concentrations, variable pH, and other environmental extremes.
-Heat-tolerant fungi decompose plant polymers and show potential in
-composting and bioconversion applications. Unlike white-rot fungi,
-enzymes of thermophilic fungi for mycoremediation remain largely
-undiscovered but represent a promising area for future exploration.
-Psychrophilic fungi capable of growth near or below zero degrees Celsius
-have been characterized from alpine habitats for their ability to degrade
-phenol and phenol-related compounds.
-
-## Research Directions
-
-Future progress in the ecology of mycoremediation requires:
-- Eco-molecular markers for tracking fungal activity in situ
-- Microanalysis methods for studying fungal metabolism at microscale
-- Better understanding of fungal-bacterial interactions during
-  biodegradation
-- Development of ecological models for predicting remediation outcomes
-- Exploration of aquatic fungi for water treatment applications
-- Integration of ecological principles into bioreactor design and scale-up
-- Assessment of fungal viability and persistence after field inoculation
-
-## See Also
-
-- [[singh-fungal-consortia-synergistic-biodegradation]]
-- [[dighton-fungal-ecosystem-services-framework]]
-- biodiversity-fungi-soil-ecosystems
-- [[decomposition]]
-- [[fungal-ecosystem-services]]
-- [[mycelial-networks]]

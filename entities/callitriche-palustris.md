@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Philbrick, C.T. & Les, D.H. (2000). " phylogeny of Callitriche." Systematic Botany, 25(2), 215–233.
   - Lansdown, R.V. (2006). "Callitriche." In: Manual of the Aquatic Plants of Europe. pp. 127–145.
-  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the United States and Canada." USDI Wildlife Research Bulletin, 4(2).
+  - Martin, A.C. & Uhler, F.M. (1939). "Food of game ducks in the [[dmt-containing-plants-united-states-halpern]] and Canada." USDI Wildlife Research Bulletin, 4(2).
   - Haslam, S.M. (1978). "River Plants." Cambridge University Press, Cambridge.
 ---
 
@@ -19,7 +19,7 @@ sources:
 
 Callitriche palustris, commonly known as the vernal water-starwort or spring water-starwort, is a small annual or perennial aquatic plant in the family Plantaginaceae.
 
-It is widely distributed across the Northern Hemisphere, occurring in temperate and boreal regions of Europe, Asia, and North America.
+It is widely distributed across the Northern Hemisphere, occurring in temperate and boreal regions of Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 The species exhibits heterophylly, producing both submerged and floating leaf forms depending on water depth and growing conditions.
 
@@ -55,7 +55,7 @@ In Europe, it occurs from the British Isles and Scandinavia southward to the Med
 
 In Asia, it ranges across Siberia, northern China, and Japan.
 
-In North America, it is found across Canada and the northern United States, extending southward in mountainous regions.
+In [[berry-growing]], it is found across Canada and the northern [[dmt-maoi-plants-united-states]], extending southward in mountainous regions.
 
 The species grows in a wide variety of freshwater habitats, including ponds, lake margins, slow streams, ditches, and spring-fed pools.
 
@@ -88,38 +88,3 @@ The plant serves as an indicator species for clean, well-oxygenated freshwater h
 ## Traditional Uses
 
 Callitriche palustris has limited recorded use in human traditions compared to more conspicuous aquatic plants.
-
-In some European folk medicine traditions, preparations of the plant were applied externally to wounds and skin conditions.
-
-Indigenous peoples of northern North America reportedly used the plant as a minor food source in emergencies.
-
-The species has been used in ecological monitoring as a bioindicator of water quality and habitat health.
-
-In modern freshwater ecology, Callitriche palustris is studied as a model organism for understanding aquatic plant adaptations.
-
-Its ability to grow in both submerged and emergent conditions makes it valuable for studying plant plasticity and heterophylly.
-
-## Conservation
-
-Callitriche palustris is widespread and not considered threatened at the global level.
-
-However, local populations have declined in areas affected by agricultural intensification, water pollution, and drainage of wetlands.
-
-Eutrophication from nutrient runoff can reduce Callitriche populations by favoring faster-growing macrophyte competitors.
-
-The species is protected under regional conservation laws in several European countries, particularly in the southern part of its range where populations are more fragmented.
-
-Conservation of Callitriche palustris depends on maintaining clean, shallow freshwater habitats with natural hydrological regimes.
-
-## See Also
-
-- [[persea-palustris]]
-
-- [[myriophyllum-spicatum]]
-- [[potamogeton-natans]]
-- [[potamogeton-crispus]]
-- [[elodea-canadensis]]
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[juncus-effusus]]
-- [[nymphaea-alba]]

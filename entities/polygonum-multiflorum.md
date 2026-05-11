@@ -80,7 +80,7 @@ Native to central and southern China (Guangdong, Guangxi, Sichuan, Guizhou,
 Yunnan), the species also grows in Japan, Korea, and Taiwan. It thrives in
 moist, well-drained soils in forest margins, valleys, and stream banks with
 partial shade to full sun, at elevations from 200 to 3,000 meters in
-subtropical to warm temperate climates with 1,000–1,800 mm annual rainfall.
+subtropical to warm [[fukuoka-natural-farming-temperate-climates]] with 1,000–1,800 mm annual rainfall.
 Wild populations have declined from overharvesting; most commercial supply now
 comes from cultivation in Guangxi and Guizhou provinces.
 
@@ -88,60 +88,6 @@ comes from cultivation in Guangxi and Guizhou provinces.
 
 The root contains diverse [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: the primary active constituent
 is 2,3,5,4'-tetrahydroxystilbene-2-O-β-D-glucoside (THSG) at 1.5–3.0% dry
-weight, responsible for most pharmacological activity. Anthraquinones include
-emodin, physcion, chrysophanol, and rhein — concentrated in raw root and
-partially degraded during processing. Tannins (gallic acid, catechin, and
-procyanidin oligomers), flavonoids ([[kaempferol]] glycosides),
-phospholipids (lecithin), and immunomodulatory water-soluble polysaccharides
-are also present. The preparation process (steaming with black soybean
-decoction) significantly alters the profile: THSG decreases while free
-anthraquinones increase.
-
-## Pharmacology
-
-Research supports several pharmacological activities: THSG scavenges free
-radicals, upregulates SOD and glutathione peroxidase, and extends lifespan in
-animal models (anti-aging). It protects neurons from β-amyloid toxicity and
-reduces tau hyperphosphorylation (neuroprotective). Prepared root shows
-hepatoprotective effects against chemical-induced liver injury, though raw root
-carries hepatotoxicity risk. The root stimulates hair follicle proliferation
-and melanogenesis. It reduces serum cholesterol and triglycerides, improves
-endothelial function, and inhibits platelet aggregation (cardiovascular).
-Polysaccharide fractions enhance macrophage activity (immunomodulatory). The
-root inhibits NF-κB and MAPK signaling pathways (anti-inflammatory).
-
-## Traditional and Modern Uses
-
-In TCM, prepared He Shou Wu is classified as sweet, bitter, and slightly warm,
-entering the liver, kidney, and heart meridians. Primary indications include
-premature graying and [[blesching-cannabis-hair-loss-alopecia]], lower back and knee soreness, dizziness,
-tinnitus, insomnia, and constipation. Raw root addresses toxin accumulation,
-carbuncles, and dry-stool constipation. Modern herbal practice uses 9–15 g
-decocted as a daily tonic for anti-aging, liver support, and hair health, often
-in multi-herb formulas like Qi Ju Di Huang Wan and Seven Treasure Pill for
-Beauty.
-
-## Safety and Toxicity
-
-A critical safety concern has emerged: Polygonum multiflorum, particularly raw
-root, has been associated with drug-induced liver injury (DILI). Multiple case
-reports and regulatory warnings document hepatotoxicity at excessive doses or
-with prolonged use. Anthraquinone constituents, especially emodin, are
-implicated. Prepared root is significantly safer than raw root. Users should
-use only commercially prepared (zhi) root at recommended doses, avoid
-concurrent hepatotoxic substances, and monitor liver enzymes during extended
-supplementation.
-
-## [[permaculture]] and Cultivation
-
-Polygonum multiflorum can be integrated into permaculture systems as a
-groundcover or climbing vine in food forest understories. It tolerates partial
-shade and stabilizes soil on slopes. Cultivation requires well-drained loamy
-soil with [[hamilton-composting-and-organic-matter-management]] (pH 6.0–7.5), propagation by seed (stratification
-required) or root division, trellis support for commercial root production, and
-3–4 years before harvest for maximum constituent content. Hardy in zones 7–10.
 
 ## See Also
-
-- [[food-forest]]
-- permaculture
+- [[tryptamine-family-overview]]

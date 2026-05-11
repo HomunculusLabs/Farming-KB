@@ -1,5 +1,5 @@
 ---
-title: Energy Efficiency in comparison-natural-farming-vs-permaculture
+title: Energy Efficiency Natural Farming
 created: 2026-05-06
 tags:
 type: concept
@@ -11,21 +11,22 @@ type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
 # Energy Efficiency in Natural Farming
 
 Energy efficiency is one of the most compelling arguments for natural
-farming, as articulated by Masanobu Fukuoka. When the full energy
-accounting is done, including fossil fuel inputs for mechanization,
+farming, as articulated by [[masanobu-fukuoka]]. When the full energy
+accounting is done, including [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] inputs for mechanization,
 [[cervantes-chemical-fertilizers-guide]], and pesticides, [[fukuoka-critique-scientific-agriculture-civilization]] reveals
 itself as profoundly wasteful compared to methods that rely on natural
 biological processes.
 
 ## Caloric Economics of Different Farming Methods
 
-Fukuoka compares energy inputs across five methods of rice production.
+Fukuoka compares energy inputs across five methods of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]].
 Natural farming requires only one man-day of labor to recover 130 pounds
 of rice (200,000 kilocalories) from a quarter-acre of land. The energy
 input needed is simply the 2,000 kilocalories required to feed one farmer
@@ -39,11 +40,11 @@ demands up to fifty times the energy input per unit of food produced.
 Since efficiency is inversely proportional to energy input, scientific
 agriculture requires up to fifty times the energy expenditure of natural
 farming. This does not account for the energy costs of manufacturing
-tractors, synthesizing chemical fertilizers, or producing pesticides.
+tractors, synthesizing [[cannabis-chemical-fertilizers]], or producing pesticides.
 
 ## The Minimum Caloric Requirement for Farm Work
 
-Young people living in the mud-walled huts of Fukuoka's citrus orchard
+Young people living in the mud-walled huts of Fukuoka's [[fukuoka-citrus-orchard-establishment-bare-hillside]]
 demonstrated that a person's minimum daily calorie requirement is about
 1,000 calories for brown rice with sesame seeds and salt, and 1,500
 calories on brown rice and vegetables. This is sufficient for farm work
@@ -87,52 +88,3 @@ Raising beef cattle reduces recoverable food energy from land tenfold.
 People who eat beef consume ten times as much energy as those on a
 rice-based diet. Modern [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], raising cattle in indoor stalls
 with feed grain shipped from overseas, has helped deplete foreign soils
-while providing an energy-inefficient food source.
-
-## The Paradox of Improved Breeds
-
-The [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]] chicken allowed to roam freely lays one small egg
-every other day, yet a breeding pair allowed to nest naturally will hatch
-a clutch and grow into a flock of ten or twenty within a year, producing
-many times the eggs of any confined White Leghorn. The Bantams are
-efficient because they feed and reproduce on their own, producing
-something from nothing, without harming the land.
-
-Genetically-upgraded White Leghorns in cages lay one large egg daily, but
-require feed grain having twice the caloric value of the eggs produced.
-Such methods are counterproductive, cutting calories in half rather than
-increasing them.
-
-## Land Requirements by Diet Type
-
-Fukuoka quantifies land area needed to support one person:
-
-- **Grains**: 200 square yards per person
-- **Potatoes**: 600 square yards per person
-- **Milk**: 1,500 square yards per person
-- **Pork**: 4,000 square yards per person
-- **Beef**: 10,000 square yards per person
-
-If humanity depended on beef alone, it would have exceeded the earth's
-carrying capacity. The world population could grow to sixty times its
-present level on a grain-based diet, twenty times on potatoes, eight
-times on milk, and three times on pork.
-
-## The Self-Contained Efficiency of Nature
-
-Nature is entirely self-contained. In its eternal cycles of change, there
-is never the slightest extravagance or waste. Fukuoka's "direct-seeded,
-no-tillage, winter grain/rice succession in a clover cover" produces
-close to 22 bushels of winter grain and 22 bushels of rice per
-quarter-acre, year after year, on a field unplowed for over thirty years.
-The labor of one or two people is sufficient. Human effort is unnecessary
-because nature, not man, grows the rice and wheat.
-
-## See Also
-
-- [[energy-efficiency-farming-systems-comparison]]
-
-- [[chos-global-natural-farming-input-reduction-methods]]
-- [[natural-farming-imo-collection-and-cultivation]]
-- [[natural-livestock-farming]]
-- [[clay-pellet-seed-broadcasting]]

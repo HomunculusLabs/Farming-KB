@@ -87,37 +87,3 @@ Syrups also offer convenience. A bottle of herbal syrup in the refrigerator is r
 The simplest method involves preparing a strong herbal decoction or infusion, then adding honey or sugar while the liquid is still warm. A standard ratio is one part strong herbal tea to one to two parts honey or sugar by volume.
 
 The decoction method is used for roots, barks, and seeds. Simmer one to two ounces of dried herb in one pint of water for 20 to 30 minutes. Strain the liquid and return it to the pot. Add one to two cups of honey or sugar. Warm gently until the sweetener is fully dissolved. Do not boil honey, as this damages its enzymes and therapeutic properties. Cool, bottle, and refrigerate.
-
-The infusion method is used for leaves, flowers, and soft plant parts. Prepare a very strong infusion by steeping two to four tablespoons of dried herb in one pint of hot water for 30 to 60 minutes (longer than a standard tea). Strain and sweeten as above. Some heat-sensitive herbs can be cold-infused for syrups, though the syrup will need additional preservative measures due to higher water content.
-
-The reduction method produces a more concentrated and longer-lasting syrup. After preparing the herbal tea (decoction or infusion), return the liquid to the stove and simmer until the volume is reduced by half. This concentrates the herbal constituents and evaporates excess water. Then add honey or sugar. Reduced syrups have a higher sugar-to-water ratio, which improves preservation.
-
-## Honey-Based vs. Sugar-Based Syrups
-
-Honey-based syrups offer the additional therapeutic benefits of raw honey, including antimicrobial activity, antioxidant content, and enzyme activity. Honey syrups have a richer, more complex flavor and are generally preferred for their medicinal properties. Honey also has its own cough-suppressing properties, making it an ideal base for cough syrups.
-
-However, honey syrups have a shorter [[psilocybin-shelf-life-stability]] (one to three months refrigerated) compared to sugar-based syrups. The water content in honey varies, and if the honey-to-water ratio is too low, fermentation can occur. Using a higher proportion of honey (2:1 honey to tea ratio) extends shelf life.
-
-Sugar-based syrups have excellent shelf life due to the high sugar concentration creating an osmotic environment that inhibits microbial growth. A properly made sugar syrup (2:1 sugar to tea ratio) can last six months or more refrigerated. Sugar syrups are simpler and more predictable for preservation purposes but lack honey's additional therapeutic benefits.
-
-Alternative sweeteners include maple syrup (which has its own mineral content and flavor), glycerin (for alcohol-free preparations with a longer shelf life than honey), and agave nectar (though its highly processed nature is a drawback). The Cannabis Health Index notes that organic honey and maple syrup can be used in small dosages, while advising against high-fructose corn syrup and refined sugars.
-
-## Common Herbal Syrups
-
-Elderberry syrup is one of the most popular and well-researched herbal syrups. Elderberry (Sambucus nigra) has demonstrated antiviral activity against influenza and other respiratory viruses. The syrup combines concentrated elderberry extract with honey for a palatable immune-supporting remedy taken daily during cold and flu season or at the first sign of illness.
-
-Basic elderberry syrup: Simmer one-half cup dried elderberries in two cups water for 30 to 45 minutes. Strain, return liquid to pot, add one cup honey. Warm gently to dissolve. Bottle and refrigerate. Some recipes add cinnamon, ginger, or cloves for additional antimicrobial and warming effects.
-
-The Cannabis Health Index references the Cuban tradition of garlic syrup for colds, coughs, and respiratory conditions. Garlic syrup combines the potent antimicrobial properties of garlic with the soothing effect of syrup. To make garlic syrup, crush several cloves of garlic and steep in hot water for 30 minutes. Strain and sweeten with honey. The result is a pungent but effective respiratory remedy.
-
-Wild cherry bark syrup is a traditional cough remedy. Wild cherry bark contains hydrocyanic acid in small amounts, which suppresses the cough reflex. The bark is decocted, combined with honey, and optionally enhanced with other respiratory herbs like licorice, ginger, and thyme. This syrup is particularly effective for dry, hacking coughs that interfere with sleep.
-
-Onion syrup is a traditional folk remedy for coughs. Thinly slice an onion, layer it in a jar with alternating layers of sugar or honey, cover, and let sit for several hours to overnight. The sugar or honey draws out the onion's juice, creating a syrup with expectorant and antimicrobial properties. While the taste is unusual, this remedy is surprisingly effective and uses ingredients available in any kitchen.
-
-Thyme honey syrup combines thyme's antimicrobial, expectorant, and antitussive properties with honey's soothing and antimicrobial effects. Thyme decoction sweetened with honey makes an effective cough syrup for productive and non-productive coughs.
-
-## Shelf Life and Storage
-
-Honey-based syrups typically last one to three months refrigerated in a clean [[sterile-spore-print-collection-glass-jar-technique]]. Sugar-based syrups (with sufficient sugar concentration) can last six months or more. Adding a small amount of vodka or brandy (one to two tablespoons per cup of syrup) extends shelf life by further inhibiting microbial growth.
-
-See also: [[herbal-medicine-making-basics]]

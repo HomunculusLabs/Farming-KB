@@ -4,7 +4,8 @@ tags: [comparison, medicinal-herbs, permaculture, dynamic-accumulators,
   respiratory-health]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Dandelion vs Mullein

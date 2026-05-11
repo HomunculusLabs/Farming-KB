@@ -1,5 +1,5 @@
 ---
-title: "comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques and Storage"
+title: Seed Saving Storage
 created: 2026-04-28
 tags: [seed-saving, seed-storage, propagation,
       plant-breeding, organic-gardening]
@@ -23,7 +23,7 @@ not grow true to type. The resulting plants will not
 resemble the parents. F1 hybrids are the result of a first-
 generation cross between two selected parents, and only that
 first generation exhibits the desired characteristics. Save
-seed only from open-pollinated or heritage varieties.
+seed only from open-pollinated or [[cannabis-landrace-sativa-heritage-varieties]].
 
 ## Harvesting Seeds
 
@@ -82,45 +82,8 @@ saved from year to year once established.
   or in the seed
 - F1 hybrid seed: will not breed true
 - Seeds from plants infected with virus diseases: viruses
-  can be transmitted to the next generation
+  can be transmitted to the [[next-generation-sequencing-hidden-fungal-diversity]]
 - Seed from cross-pollinated crops grown near different
   varieties: the resulting plants may be unpredictable
 
 ## Benefits of Saving Seed
-
-- Saves money on purchasing new seed each year
-- Builds a collection of varieties adapted to your local
-  conditions over successive seasons
-- Preserves heritage and heirloom varieties that may not
-  be commercially available
-- Maintains genetic diversity in your garden
-
-## Record Keeping
-
-Label all saved seeds clearly with the variety name, year
-of harvest, and any relevant notes about the parent plant.
-Keep a simple seed-saving diary to track which varieties
-perform well and which to save again. This information
-becomes increasingly valuable over the years.
-
-## Common Mistakes
-
-One of the most common errors is saving seed from too few
-plants, which narrows the genetic base and leads to weaker
-offspring over time. Save from the healthiest and most
-vigorous plants to maintain strong genetics. Also avoid
-saving from the very first or very last fruits, which may
-not be representative of the best the variety can produce.
-
-## Legal Considerations
-
-Some modern varieties are protected by plant breeders'
-rights, making it illegal to save and sell their seed.
-Check whether the variety is protected before saving seed
-for distribution. Saving for personal use from open-
-pollinated varieties is generally acceptable.
-
-## See Also
-- [[crop-rotation-vegetable-garden]]
-- [[organic-pest-disease-control]]
-- [[seed-saving-in-permaculture]]

@@ -65,13 +65,13 @@ Heavy soils contain a much higher proportion of clay. This type of soil
 has very small particles that tend to pack together, preventing free
 passage of water. Heavy soil is often very difficult to work initially
 but, when ameliorated by the natural drainage afforded by plant roots
-and the addition of organic matter, heavy soil becomes an excellent
+and the addition of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], heavy soil becomes an excellent
 moisture and nutrient-retaining medium.
 
 Light soils are easy to dig and warm up quickly in the spring but allow
 very free drainage, which has its own problems. Water and nutrients
 disappear through the topsoil. Light soils require constant additions of
-organic matter to form a topsoil that retains moisture and generally
+[[humus-and-soil-organic-matter]] to form a topsoil that retains moisture and generally
 need more applications of fertilizers than heavy soils.
 
 ## Soil Management Principles
@@ -88,14 +88,3 @@ appropriate management technique.
 
 Soil may contain lime, which will cause it to be either "acid" or
 "alkaline," depending on the amount. This will have a major effect on
-cultivation technique and the plants you choose to grow. Testing the
-lime content of your soil is very simple and can be done at home using a
-pH test kit. Most vegetables thrive in a pH of about 6.5.
-
-## See Also
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[mollison-designers-composting-toilets-and-humanure]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
-- [[composting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

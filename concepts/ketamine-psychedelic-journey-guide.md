@@ -88,13 +88,3 @@ The set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]] was pe
 Considerable research was devoted for about ten years to determining effective surreptitious delivery systems for LSD as a weapon of war or espionage. Ironically, LSD's capacity to tap into "awesome worlds of cosmic consciousness" — rather than making subjects predictably submissive — ruined its applicability as a weapon. Projects MKUltra and other classified programs explored LSD's potential for interrogation and mind control, ultimately concluding that its effects were too unpredictable for tactical use.
 
 The military research programs, while ethically reprehensible by modern standards, inadvertently contributed to the scientific understanding of LSD's pharmacology and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The extensive dose-response data collected by military researchers, much of which was later declassified, provided valuable information about the relationship between dose, duration, and subjective experience. However, the programs also generated enormous public distrust of government-funded [[mckenna-suppression-psychedelic-research-lsd-therapy]], contributing to the political climate that led to prohibition.
-
-## The Empathogen Revolution
-
-A significant extension occurred with **Alexander Shulgin's** discovery of phenethylamines such as MDA, MDMA, and 2-CB, which bring about expansion and centering of awareness primarily on the emotional or heart level, with minimal perceptual changes. MDMA (Ecstasy) became widely used both recreationally and in therapeutic contexts, leading to the modern renaissance of psychedelic-assisted psychotherapy.
-
-MDMA differs from classical psychedelics in its primary mechanism (serotonin release rather than 5-HT2A agonism) and its characteristically warm, empathic emotional tone. Modern clinical trials have demonstrated MDMA's efficacy in treating post-traumatic stress disorder (PTSD), with the FDA granting breakthrough therapy designation.
-
-The empathogen class represents an important expansion of the psychedelic therapy toolkit. While classical psychedelics like LSD and psilocybin tend to produce profound alterations in perception and cognition, MDMA primarily enhances emotional openness, empathy, and trust. This makes it particularly well-suited for therapeutic work involving trauma, relationship issues, and end-of-life anxiety — conditions where the cognitive and perceptual disruption of classical psychedelics may be less helpful than the emotional warmth and interpersonal connection facilitated by empathogens.
-
-## Shamanic Healing

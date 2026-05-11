@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Cook, C.D.K. & Nicholls, M.S. (1986). "A Monographic Study of the Genus Sparganium." Cramer, Vaduz.
-  - Kaul, R.B. (2002). "Sparganium in Flora of North America, Vol. 22." Oxford University Press.
+  - Kaul, R.B. (2002). "Sparganium in Flora [[berry-growing]], Vol. 22." Oxford University Press.
   - USDA NRCS (2024). "Sparganium americanum Plant Guide." USDA Natural Resources Conservation Service.
 ---
 
@@ -18,7 +18,7 @@ sources:
 
 Sparganium americanum is a perennial emergent aquatic plant commonly known as American bur-reed or simple bur-reed.
 
-It is native to eastern and central North America, where it grows in shallow marshes, pond margins, and slow-moving streams.
+It is native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], where it grows in shallow marshes, pond margins, and slow-moving streams.
 
 The species is recognized by its narrow, ribbon-like leaves and distinctive spherical bur-like fruiting heads.
 
@@ -54,7 +54,7 @@ Mature achenes are obovoid to ellipsoid, 4 to 7 millimeters long, brown, with a 
 
 ## Distribution and Habitat
 
-Sparganium americanum is native to eastern and central North America, ranging from New Brunswick to Minnesota, south to Florida and eastern Texas.
+Sparganium americanum is native to eastern and central [[huckleberries-and-wild-berries-of-north-america]], ranging from New Brunswick to Minnesota, south to Florida and eastern Texas.
 
 It is absent from most of the Great Plains and western North America, where other Sparganium species predominate.
 
@@ -72,7 +72,7 @@ Elevation ranges from sea level to approximately 600 meters in the Appalachian P
 
 ## Ecology
 
-Sparganium americanum spreads through both rhizomatous growth and seed production.
+Sparganium americanum spreads through both rhizomatous growth and [[cannabis-controlled-pollination-seed-production]].
 
 Rhizomatous spread allows the formation of dense clones that contribute to emergent marsh structure.
 
@@ -84,63 +84,6 @@ American bur-reed is a common component of emergent marsh and shallow-water plan
 
 It often co-occurs with cattails, sedges, rushes, and other emergent aquatic plants.
 
-The species contributes to nutrient cycling in wetland ecosystems through decomposition of annual biomass.
+The species contributes to [[nutrient-cycling-in-soil]] wetland ecosystems through [[decomposition]] of annual biomass.
 
 Stems and leaves provide substrate for periphyton and habitat for aquatic invertebrates.
-
-Flowering occurs from June through September, with fruit maturation in late summer and fall.
-
-Fruiting heads disintegrate in autumn, releasing individual achenes that float briefly before sinking.
-
-Water dispersal is the primary mechanism for seed distribution to new wetland habitats.
-
-## Cultivation
-
-Sparganium americanum is occasionally cultivated in constructed wetlands and native plant landscapes.
-
-Propagation from rhizome divisions is the most reliable method for establishing new plantings.
-
-Seeds require cold stratification for 60 to 90 days and light exposure for germination.
-
-Transplants should be placed in saturated soil or shallow water at a depth of 5 to 15 centimeters.
-
-The species is not widely available in the commercial nursery trade but is propagated by specialized wetland nurseries.
-
-It is hardy to USDA zone 3 and tolerates a range of water chemistries.
-
-American bur-reed requires full sun and consistent moisture for vigorous growth.
-
-The species can become aggressive in garden ponds and may require rhizome barriers to prevent spread.
-
-No significant pest or disease problems affect cultivated plants.
-
-## Uses and Conservation
-
-Sparganium americanum has limited direct economic uses but is valued for wetland restoration and wildlife habitat.
-
-The species is widely used in constructed wetlands designed for stormwater treatment and nutrient removal.
-
-American bur-reed burrs have been used in dried flower arrangements, though this use is uncommon.
-
-The species is considered globally secure with stable populations across most of its range.
-
-Local populations may be threatened by wetland drainage, development, and shoreline modification.
-
-Altered hydrology from dams, water diversion, and groundwater withdrawal can negatively impact habitat suitability.
-
-Climate change may affect the distribution and phenology of American bur-reed in northern portions of its range.
-
-The species serves as an indicator of healthy freshwater marsh ecosystems in botanical surveys.
-
-## See Also
-
-- [[sparganium-erectum]]
-
-- [[typha-latifolia]]
-- [[typha-angustifolia]]
-- [[schoenoplectus-lacustris]]
-- [[scirpus-tabernaemontani]]
-- [[carex-stricta]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]
-- [[pontederia-cordata]]

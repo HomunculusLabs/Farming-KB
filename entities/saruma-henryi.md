@@ -70,7 +70,7 @@ The species is typically found in areas of high humidity and moderate temperatur
 
 Population sizes are generally small and scattered, reflecting the species' specialized habitat requirements.
 
-The species is considered vulnerable in its native range due to habitat loss and fragmentation of forest ecosystems.
+The species is considered vulnerable in its native range due to habitat loss and fragmentation of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Cultivation
 
@@ -80,62 +80,10 @@ It is valued as an unusual and attractive shade perennial with long-lasting flow
 
 The plant is hardy to USDA Zone 6 (approximately -23°C) when grown in sheltered positions.
 
-It prefers partial to full shade, consistent soil moisture, and a humus-rich, well-drained growing medium.
+It prefers partial to full shade, consistent soil moisture, and a humus-rich, well-drained [[cervantes-green-algae-growing-medium]].
 
 Propagation is primarily from seed, which requires a period of cold stratification for reliable germination.
 
 Seeds should be sown fresh or stored cool and moist, as they lose viability rapidly when dried.
 
 Division of established clumps can be performed in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn.
-
-The plant is relatively pest-free in cultivation, though slugs may damage new growth in damp conditions.
-
-Established plants are moderately drought-tolerant but perform best with regular watering during dry periods.
-
-The species has a reputation for being slow to establish but long-lived once settled in suitable conditions.
-
-It combines well with other shade perennials including ferns, hostas, and *Asarum* species.
-
-## Ecology
-
-Little is known about the pollination biology of *S. henryi* in its native habitat.
-
-The relatively open flowers with yellow petals suggest fly or small bee pollination, though this has not been confirmed experimentally.
-
-The flowers lack the specialized trap mechanism found in *Aristolochia* species, indicating a different pollination syndrome.
-
-Seed dispersal may involve ants (myrmecochory), as is common in related *Asarum* species.
-
-In its native forest habitat, the species contributes to the understory herb layer diversity of montane ecosystems.
-
-The pubescent foliage may deter herbivory by insects and small mammals.
-
-The species is part of the rich endemic flora of the Hengduan Mountains biodiversity hotspot in southwestern China.
-
-Conservation concerns include habitat destruction from agricultural expansion, logging, and infrastructure development.
-
-## Taxonomic Relationships
-
-*Saruma* is one of four genera in the subfamily Asaroideae of Aristolochiaceae.
-
-The other genera are *Asarum*, *Hexastylis*, and *Geotaenium*.
-
-Molecular phylogenetic analyses consistently place *Saruma* as the earliest-diverging lineage within Asaroideae.
-
-The morphological features of *Saruma* (erect stems, showy flowers with petals) are considered plesiomorphic (ancestral) for the subfamily.
-
-The reduced, stemless habit and tubular, petal-less flowers of *Asarum* are derived features that evolved subsequently.
-
-Some taxonomists have proposed merging *Hexastylis* into *Asarum*, which would leave *Saruma* as one of three genera in the subfamily.
-
-The monotypic status of *Saruma* makes it a taxonomically isolated and evolutionarily distinctive lineage.
-
-Fossil evidence suggests that the Aristolochiaceae originated in the Cretaceous period, making it one of the oldest lineages of basal angiosperms.
-
-## See Also
-
-- [[asarum-europaeum]]
-- [[houttuynia-cordata]]
-- [[chloranthus-spicatus]]
-- [[sassafras-albidum]]
-- [[cinnamomum-verum]]

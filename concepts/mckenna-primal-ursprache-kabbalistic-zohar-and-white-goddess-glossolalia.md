@@ -1,6 +1,6 @@
 ---
 title: "The mckenna-glossolalia-and-primal-language-tryptamine-states (Ursprache)"
-source: "Terence McKenna — various lectures and talks"
+source: "[[terence-mckenna]] — various lectures and talks"
 topic: "[[mckenna-tryptamine-glossolalia-and-primal-language]] and the Assembly Language Behind Language"
 tags:
   - glossolalia
@@ -67,7 +67,7 @@ At the heart of the tryptamine experience lies a fundamental tension: the human 
 
 ### The Feedback Loop of Astonishment
 
-McKenna described humans, with characteristic self-deprecating humor, as **"monkeys"** who instinctively try to pour ordinary language over these translinguistic objects. The language slides off **like water off a duck's back** — it cannot adhere to or capture what it is being asked to describe. This failure is not frustrating but **wondrous**: it generates a feedback loop of astonishment and awe that lies at the very core of the [[leary-psychedelic-experience-bardo-mapping]].
+McKenna described humans, with characteristic self-deprecating humor, as **"monkeys"** who instinctively try to pour ordinary language over these [[glossolalia-translinguistic-objects]]. The language slides off **like water off a duck's back** — it cannot adhere to or capture what it is being asked to describe. This failure is not frustrating but **wondrous**: it generates a feedback loop of astonishment and awe that lies at the very core of the [[leary-psychedelic-experience-bardo-mapping]].
 
 Each attempt to describe the indescribable reveals new dimensions of the translinguistic object, and each failure deepens the sense of encountering something genuinely beyond the reach of ordinary cognition. This cognitive dissonance is not a bug but a feature of the experience — it is the mind's way of registering that it has reached the edge of its own linguistic capacity and is touching something more fundamental, more original, more real than any word has ever captured. The astonishment feeds on itself, growing with each failed attempt at description, until the experiencer is saturated with a sense of wonder that has no name in any language.
 
@@ -88,47 +88,3 @@ The colored balls of Heraclitus become, in the DMT experience, the hyperspatial 
 ### *Finnegans Wake* and "Merry Go Raum"
 
 McKenna also referenced James Joyce's *Finnegans Wake*, particularly the punning phrase **"merry go raum"** — a conflation of "merry-go-round" with the German word *Raum* (space, room), suggesting the room itself going around in eternity. This captures the sense of spatial and temporal distortion that accompanies the experience of the primal language: the boundaries between inside and outside dissolve, space itself becomes language, and the room — the very fabric of reality — is set spinning in an eternal play of form.
-
-Joyce's project of creating a language that contains all languages finds its psychedelic analogue in the Ursprache — a tongue that is not one language among many but the source from which all languages flow. Both Joyce and the DMT experience push language to its breaking point, revealing the creative chaos that [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]] the orderly surface of ordinary speech.
-
-## The Ursprache as Discovery
-
-The primal language described by McKenna is not something that can be **learned** in any conventional sense. There are no grammar books, no dictionaries, no classroom drills. It is **discovered** — it comes out of oneself, welling up from a deep place in the nervous system that has no name in ordinary language. The discovery is not passive but participatory: the experiencer does not merely witness the Ursprache but collaborates with it, becoming a conduit for a speech that is simultaneously foreign and intimately familiar.
-
-This is what makes the Ursprache so different from constructed or artificial languages. It is not invented; it is **uncovered**. The tryptamine molecule, in McKenna's view, acts as a kind of key that unlocks a pre-existing capacity, revealing that the human brain already contains the neural machinery for producing and comprehending this deeper tongue. The Ursprache connects the experiencer to the assembly language behind all language — the common root from which every human language ultimately derives, and through which the mind may touch the linguistic ground of being itself.
-
-## The Syntactic Nature of Hyperspace
-
-McKenna insisted that the DMT experience is not merely visual but fundamentally **syntactic** in character. The entities, the landscapes, the self-transforming geometries of hyperspace all behave as though they are sentences in an unknown language — they combine, recombine, transform, and communicate according to rules that are felt rather than understood. The experiencer does not simply *see* these phenomena; they *read* them, or more precisely, they are *read by* them, as though the visual field itself has become a page in a cosmic text.
-
-This syntactic quality distinguishes the tryptamine experience from other forms of altered consciousness. Dream imagery, for example, is visual but not syntactic in this way — dreams present images and narratives, but they do not present the overwhelming impression that what is being seen is a language being spoken. The DMT experience, by contrast, saturates the mind with the conviction that vision and speech are one, that the world itself is an utterance in progress, and that the boundary between perceiver and perceived is a linguistic convention rather than an ontological fact.
-
-## Implications for the Study of Consciousness
-
-The existence of the Ursprache, if taken seriously, has profound implications for our understanding of consciousness and language. It suggests that the human capacity for language is not a purely cultural achievement built atop a general-purpose cognitive substrate, but rather the activation of a specific, pre-existing neural system — one that can be accessed directly through neurochemical intervention.
-
-This would imply that the evolution of language was not so much an invention as a **discovery** — that early humans did not create language from scratch but gradually learned to tune into a linguistic capacity that was already present in the nervous system, perhaps dormant until the right conditions activated it. The tryptamine experience, in this view, is not an anomaly or a hallucination but a glimpse of the deep structure from which all human language emerges — a brief, vertiginous contact with the engine that drives all speech, all thought, all meaning.
-
-## The Eternity of the Primal Utterance
-
-Central to McKenna's vision of the Ursprache is the sense that it is not merely ancient but **eternal** — that it exists outside of time, or rather, that it is the very medium through which time itself is articulated. The primal language does not change; it is the constant ground against which all historical languages appear and disappear, evolve and decay. When the DMT voyager encounters it, they are not hearing an echo of the past but touching something that is always present, always speaking, always generating the world anew in each moment.
-
-This eternity of the primal utterance is what gives the tryptamine glossolalia its peculiar quality of authority and self-evidence. The sounds that emerge are not felt to be invented or improvised; they are felt to be **necessary** — as though the universe could not exist without them, and as though the speaker has become, for a brief and breathless interval, the mouth through which reality itself speaks its own name.
-
-The Ursprache thus stands as one of the most radical implications of the psychedelic experience: the possibility that language is not a human invention but a cosmic feature, embedded in the very structure of consciousness and reality, and that the tryptamine compounds offer a direct pathway to its source.
-
-## See Also
-
-- [[tryptamines-and-the-logos]]
-- [[the-logos-and-translinguistic-matter]]
-- [[dmt-hyperspace-entities]]
-- [[hyperspace-logos-consciousness]]
-- mckenna mckenna primal ursprache kabbalistic zohar and white goddess glossolalia kabbalistic zohar and white goddess glossolalia
-- mckenna primal ursprache kabbalistic zohar and white goddess glossolalia
-- [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
-- [[dmt-finnegans-wake-and-the-merry-go-raum]]
-- psilocybin interior dialogue
-- [[self-transforming-machine-elves]]
-- [[entheogen-culture]]
-- hyperspatial syntax and visual language
-- [[dmt-phenomenology]]

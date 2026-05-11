@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture energy cycling and resource efficiency and Resource Efficiency
+title: [[permaculture-energy-descent-planning]] Cycling And Resource Efficiency
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -10,6 +10,7 @@ tags:
   - nutrient-cycling
   - resource-efficiency
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # [[permaculture-design]] is fundamentally about capturing, storing, and
@@ -70,7 +71,7 @@ One key application is the **emergy yield ratio**, which compares the emergy of
 a resource with the emergy feedback from the economy required to produce it. A
 value greater than 1 indicates net gain; over 4 is a high-value source
 comparable to resources currently fuelling the economy. Odum's studies show
-that annual biomass crops have yield ratios barely above 1, wood plantations
+that annual biomass crops have [[holmgren-biomass-fuels-and-energy-yield-ratios]] barely above 1, wood plantations
 yield 1.5 to 4, and 300-year-old rainforest yields 12. The pattern is clear:
 the more the work is left to nature, the greater the net yield — but the longer
 the time required. This finding challenges the industrial assumption that
@@ -87,31 +88,3 @@ than simpler methods.
 In nature, nutrients cycle continuously through living systems. The output of
 one organism becomes input for another; nothing is wasted. Industrial
 agriculture breaks these cycles by exporting nutrients from farms to cities as
-food, then dumping the resulting waste into waterways. The nutrient deficit on
-farms is replaced with fossil-fuel-derived fertilisers, creating a linear
-throughput that depletes both soil and energy reserves.
-
-Permaculture designs closed-loop nutrient cycles at every scale. [[green-manure-crops]] and nitrogen-fixing trees pump nutrients
-from deep soil layers to the surface. Mulch systems cycle [[hamilton-composting-and-organic-matter-management]]
-through [[food-forest]], but the food forest yields apples, nuts, berries, eggs, honey,
-firewood, mulch, fodder, wildlife habitat, soil improvement, and water
-purification simultaneously. The total yield — measured in emergy terms — is
-almost certainly greater from the integrated system, even though no single
-product is maximised. This distinction is crucial during energy descent: systems
-with diverse yields are more resilient and adaptable than those optimised for
-a single product.
-
-## Energy Efficiency at Every Scale
-
-Permaculture designs for energy efficiency from household to bioregion. At the
-household scale, [[mollison-course-zone-planning-and-design]] minimises the energy of moving between elements
-and managing systems. At the farm scale, [[watershed-management]] stores energy in biological capital for long-
-term community use.
-
-Holmgren warns that chasing efficiency beyond the optimum — what Odum calls
-"maximum power" — is counterproductive. Systems optimised for maximum
-efficiency become brittle and specialised, losing the flexibility and
-redundancy needed to adapt to change. Loose, generalist systems that are
-slightly less efficient but more adaptable are more appropriate for energy
-descent. The adage that "loose systems last longer and work better" reflects
-this insight from systems ecology.

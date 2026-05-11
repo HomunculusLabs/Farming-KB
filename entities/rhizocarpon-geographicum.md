@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
   - Nash, T.H. III (2008). Lichen Biology (2nd ed.). Cambridge University Press.
   - Benedict, J.B. (2009). "Experiments on lichen growth." Arctic, Antarctic, and Alpine Research, 41(4), 462â€“472.
   - Wetmore, C.M. (2007). "The Rhizocarpaceae of North America." Contributions from the University of Michigan Herbarium, 25.
@@ -47,15 +47,15 @@ Spores are ellipsoid to broadly fusiform, 1-septate, colorless, and measure 15â€
 
 The photobiont is a trebouxia-like green alga characteristic of many crustose lichens.
 
-Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary secondary metabolites.
+Chemically, the species contains rhizocarpic acid and numerous related depsidones as its primary [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Distribution and Habitat
 
-*R. geographicum* has a nearly cosmopolitan distribution, occurring on every continent including Antarctica.
+*R. geographicum* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent including Antarctica.
 
-It is found across arctic, alpine, and temperate regions of the Northern Hemisphere.
+It is found across arctic, alpine, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
-Southern Hemisphere populations occur in montane New Zealand, Patagonia, and the subantarctic islands.
+[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] populations occur in montane New Zealand, Patagonia, and the subantarctic islands.
 
 The species colonizes exposed siliceous rock surfaces including granite, gneiss, basalt, and sandstone.
 
@@ -79,7 +79,7 @@ Annual growth rates decrease with increasing thallus diameter, following a predi
 
 The lichen tolerates extreme conditions including prolonged desiccation, intense UV radiation, and freeze-thaw cycles.
 
-It hosts diverse microbial communities including bacteria, yeasts, and other fungi within its thallus structure.
+It hosts diverse [[cannabis-rhizosphere-microbial-communities]] including bacteria, yeasts, and other fungi within its thallus structure.
 
 Small arthropods and tardigrades inhabit the microhabitats created by the areolate thallus structure.
 
@@ -88,40 +88,3 @@ Small arthropods and tardigrades inhabit the microhabitats created by the areola
 ## Chemistry and Applications
 
 The primary secondary metabolites are rhizocarpic acid and stictic acid, both depsidones with reported biological activities.
-
-Rhizocarpic acid exhibits mild antimicrobial properties and may contribute to the lichen's resistance to microbial colonization.
-
-The yellow coloration of the thallus is primarily due to these cortical depsidone compounds.
-
-*R. geographicum* has no known culinary, medicinal, or commercial uses.
-
-Its primary importance lies in scientific applications, particularly **lichenometric dating** and biomonitoring of air quality.
-
-The use of *R. geographicum* for dating geological surfaces relies on measuring the maximum thallus diameter to estimate time since exposure.
-
-Calibration curves developed for arctic and alpine regions have been widely applied to date glacial moraines, rockfalls, and archaeological structures.
-
-Lichenometry is most reliable for surfaces between 100 and 5,000 years old, though growth rate variations between microclimates limit precision.
-
-The species has also been used in studies of long-term heavy metal accumulation and radioactive fallout tracking.
-
-## Conservation
-
-*R. geographicum* is not considered threatened and is one of the most abundant crustose lichens in arctic and alpine environments.
-
-Local populations may decline near industrial sources of acid pollution, as the species is moderately sensitive to sulfur dioxide.
-
-Climate-driven changes in snow cover duration and growing season length may affect growth rates and distribution in coming decades.
-
-The species requires no active conservation management and benefits indirectly from protection of alpine and arctic ecosystems.
-
-## See Also
-
-- [[xanthoria-elegans]]
-- [[lecanora-muralis]]
-- [[lecanora-conizaeoides]]
-- [[hypogymnia-physodes]]
-- [[cladonia-rangiferina]]
-- [[physcia-tenella]]
-- [[cetraria-islandica]]
-- [[diploschistes-scruposus]]

@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 **Panther Cap** | *Amanita pantherina* (DC.) Krombh.
 
-A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of amanita-muscaria-and-ibotenic-acid-fungi and muscimol, the same psychoactive compounds found in [[amanita-muscaria-entity]] and amanita regalis. Several varieties have been described, including var. pantherina and var. abietis, though modern taxonomy tends to treat these as part of a species complex rather than distinct taxa.
+A striking, widely distributed basidiomycete mushroom in the family amanitaceae knneurotropic-fungird-spot cap pattern and its content of amanita-muscaria-and-ibotenic-acid-fungi and muscimol, the same psychoactive compounds found in [[amanita-muscaria]] and amanita regalis. Several varieties have been described, including var. pantherina and var. abietis, though modern taxonomy tends to treat these as part of a species complex rather than distinct taxa.
 
 ## Morphology
 
@@ -40,7 +40,7 @@ The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] 
 
 Muscimol, the decarboxylated product of ibotenic acid, is the principal psychoactive compound. It is a selective GABA-A receptor agonist, producing sedative, hypnotic, and hallucinatory effects. The conversion of ibotenic acid to muscimol occurs through decarboxylation, which can be accelerated by drying or heating the mushroom tissue.
 
-The concentrations of these compounds vary significantly between specimens and geographic populations. Amanita pantherina generally contains higher concentrations of ibotenic acid relative to muscimol compared to [[amanita-muscaria-entity]]. However, it has been used traditionally in parts of Eastern Europe and Siberia, where some indigenous peoples reportedly included it among the Amanita species consumed for their psychoactive properties. The Koryak and Chukchi peoples of Siberia are most famously associated with Amanita use, and while A. muscaria was the primary species, A. pantherina may have been consumed when A. muscaria was unavailable.
+The concentrations of these compounds vary significantly between specimens and geographic populations. Amanita pantherina generally contains higher concentrations of ibotenic acid relative to muscimol compared to [[amanita-muscaria]]. However, it has been used traditionally in parts of Eastern Europe and Siberia, where some indigenous peoples reportedly included it among the Amanita species consumed for their psychoactive properties. The Koryak and Chukchi peoples of Siberia are most famously associated with Amanita use, and while A. muscaria was the primary species, A. pantherina may have been consumed when A. muscaria was unavailable.
 
 In Japan, several cases of intentional ingestion for recreational purposes have been documented, often resulting in hospitalization. The unpredictable potency and higher toxicity relative to A. muscaria make A. pantherina a particularly dangerous choice for such use.
 

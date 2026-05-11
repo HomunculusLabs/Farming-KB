@@ -1,5 +1,5 @@
 ---
-title: "Boil-a-Bag Filter Can Construction for [[accessible-mushroom-cultivation-for-disabilities]]"
+title: Boil A Bag Filter Can Construction
 source: "Indoor Mushroom Growing Technique for the Boil-A-Bag - D.H. Jarrold"
 source_author: "D.H. Jarrold"
 topics: mushroom-cultivation, sterilization, filter, boil-a-bag, mycology, contamination-control
@@ -88,58 +88,3 @@ complete and ready for use.
 ### Step 5: Secure to Bag
 
 With the hinged lid closed, the filter can is inserted into the neck of the prepared bag and
-secured by wrapping wide masking tape around the neck of the bag three times, then firmly
-pressing the tape onto both the can and the bag to create an airtight seal. The bag should be
-packed firmly with substrate, leaving enough room at the top to accommodate the filter can.
-
-## Alternative Fill Methods
-
-Jarrold describes two alternative approaches to filling the filter can:
-
-- **Vermiculite fill**: The standard method uses a bottom layer of rock wool followed by
-vermiculite fill and a top rock wool cap. This provides excellent filtration with the
-vermiculite's layered mineral structure creating an effective tortuous path for contaminant
-exclusion.
-
-- **Rock wool only**: Instead of vermiculite, the can can be filled entirely with small pieces
-of rock wool. This approach uses a single material throughout, simplifying construction. The
-rock wool pieces should be small enough to pack densely but not so fine that they compact into
-an impermeable mass.
-
-Both methods are effective, and the choice between them may depend on material availability and
-personal preference.
-
-## Integration with the Boil-a-Bag Method
-
-The filter can is integral to the complete Boil-a-Bag cultivation cycle:
-
-1. **Bag preparation**: Substrate is packed into boil-a-bags with the filter can secured in
-the neck. Multiple bags (typically six) are prepared at once.
-
-2. **Sterilization**: Bags are placed in a pressure cooker at 15 psi for 60 minutes. The
-filter can allows steam penetration and pressure equalization during sterilization while
-maintaining a barrier against recontamination.
-
-3. **Cooling**: After sterilization, bags must cool completely before inoculation. The filter
-can continues to allow gas exchange during this cooling period.
-
-4. **Inoculation**: Using the long-needle method, a flame-sterilized needle is passed through
-the filter can's medium to deposit spore solution directly into the substrate. The filter
-medium wipes the needle clean as it passes through, maintaining sterility.
-
-5. **Colonization**: During the weeks of mycelial growth, the filter can provides ongoing gas
-exchange. Mycelial growth becomes visible through the bag within a few days of inoculation.
-
-6. **Fruiting**: Once fully colonized, the filter can is removed and the bag is opened or cut
-down for introduction to the [[aquarium-humidity-chamber-mushroom-fruiting]].
-
-## Limitations and Considerations
-
-The filter can construction is low-cost and accessible but has some limitations compared to
-commercial filter options. The filtration efficiency depends on the quality and packing density
-of the filter medium. Loose packing may allow contaminants to pass through, while overly dense
-packing may restrict gas exchange and slow mycelial growth. The rock wool and vermiculite can
-degrade with repeated sterilization cycles, so filter cans are typically constructed fresh for
-each growing cycle rather than being reused. Despite these limitations, the filter can remains
-an effective solution for home cultivators working with limited budgets and readily available
-materials.

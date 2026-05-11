@@ -87,29 +87,3 @@ In its native range, *D. capensis* co-occurs with other carnivorous plants inclu
 The plant contributes to **nitrogen** cycling in its native **wetland** habitats through prey capture and nutrient absorption. [[fungal-stable-isotope-ecology]] studies indicate that sundews can derive significant nitrogen from insect sources.
 
 ## Conservation Status
-
-While *Drosera capensis* itself is not considered threatened due to its large native range and invasive potential, its natural habitat in the Cape Floristic Region faces significant pressure. Urban expansion around Cape Town and agricultural conversion of seasonal wetlands have reduced available habitat.
-
-The Cape Floristic Region has lost approximately fifty percent of its original vegetation cover since European settlement. Several co-occurring *Drosera* species with narrower ranges face greater conservation concern.
-
-Agricultural runoff containing nitrogen and phosphorus from fertilized fields can disrupt the nutrient-poor conditions that carnivorous plants depend on. Nutrient enrichment reduces the selective advantage of carnivory and favors non-carnivorous competitors.
-
-## Notable Cultivars
-
-Several horticultural cultivars of *Drosera capensis* have been selected and named by carnivorous plant enthusiasts. These are primarily distinguished by variation in leaf coloration, size, and tentacle arrangement.
-
-The "Narrow Leaf" form produces slender leaves with a pronounced red tentacle coloration. The "Broad Leaf" form has wider, more robust foliage. The "Albino" form lacks red pigmentation entirely, producing all-green leaves with white flowers.
-
-The "Red" form develops deep crimson coloration across the entire leaf surface under strong light. A cultivar known as "Big Easy" produces particularly large rosettes and is popular in commercial horticulture.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[soil-food-web-nutrient-cycling]]
-- nitrogen
-- phosphorus
-- enzyme
-- [[singh-ergot-alkaloid-fungal-secondary-metabolites]]
-- photosynthesis
-- pollination
-- [[spore]]

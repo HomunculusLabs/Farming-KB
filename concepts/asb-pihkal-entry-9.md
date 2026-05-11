@@ -1,7 +1,7 @@
 ---
 title: ASB (Asymbescaline) - 2c-b-pihkal-entry-20 #9
 created: 2026-04-28
-tags: [pihkal, phenethylamine, [[mescaline]]-analogue, ethoxy-compound, psychedelic]
+tags: [pihkal, phenethylamine, [[mescaline]-analogue, ethoxy-compound, psychedelic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -89,40 +89,5 @@ methylated with methyl iodide (5 mL) and KOH (3.0 g) in EtOH
 (75 mL) at room temperature for 5 days to give 8.2 g of the
 final aldehyde as a pale yellow liquid.
 
-### Step 5: Nitrostyrene and reduction
-Condensation with nitromethane gave yellow plates (mp 89-90 °C,
-3.0 g). LAH reduction (H2SO4 activation in THF) yielded the
-amine, isolated as 1.25 g of hydrochloride salt.
-
-## Safety and Pharmacology
-
-The body load is significant and persistent. A cat study
-(Holland, Hoffman La Roche material) injecting 200 mg into a
-3.75 kg cat (53 mg/kg, approximately twice the metaescaline
-dose) produced catatonia within 5 minutes and inability to walk
-within 30 minutes; the animal died after two days. While this
-dose was many times the human therapeutic dose, it suggests
-caution regarding cardiovascular and neurological effects. The
-consensus from over half a dozen experiments was insufficient
-value to offset the body load experienced.
-
-## Nomenclature
-
-"Asymbescaline" reflects chemical nomenclature conventions:
-- "Bi-" (or "di-") usually means two of something
-- "Bis-" means two groups attached to a single parent
-- "Asym-" indicates asymmetric substitution
-
-Since two ethyl groups can be placed on mescaline either
-symmetrically (symbescaline, SB) or asymmetrically
-(asymbescaline, ASB), this compound carries the "asym-" prefix.
-The related compound with all three ethoxy groups is tris-escaline
-(3,4,5-triethoxyphenethylamine), where "tri-" becomes "tris-"
-following the same convention. For four groups, the prefix would
-be "tetrakis-."
-
 ## See Also
-
-- [[pihkal-mescaline-analogs]]
-- [[pihkal-qualitative-effects-themes]]
-- [[dosage-ambiguity-fuzzy-numbers-pihkal]]
+- [[bod-pihkal-entry-14]]

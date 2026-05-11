@@ -87,33 +87,3 @@ on the Hag -- the fence that separated the village from the wilderness --
 participating in both worlds.
 
 ## Historical Watershed
-
-With the passing of Eleusis, "the great broad river of partnership, Goddess
-worship, and hallucinogenic ecstasy that had flowed for over ten thousand
-years sank at last into that chthonic realm reserved for forgotten religions."
-Christianity's triumph ended the glorification of nature and planet as
-supreme spiritual forces. The "triumph of the blade" of dominator social
-models of paternalism and patriarchy was everywhere complete. Only dim echoes
-continued in underground concerns such as alchemy, hermeticism, midwifery,
-and herbalism. With the eclipse of [[mckenna-food-gods-minoan-crete-mushroom-religion]], humankind crossed a
-historical watershed into the progressively more vacant, more ego-dominated
-world whose energies coalesced into monotheism, patriarchy, and male
-domination.
-
-## Ergot and the Wasson Legacy
-
-The ergotized beer theory remains McKenna's preferred explanation for
-Eleusis, despite its difficulties. It is consistent with the notion that
-Eleusinian rites had historical roots in Minoan Crete. The theory connects
-the classical world's greatest mystery to the very fungus that, millennia
-later, would yield LSD to Albert Hofmann -- completing a circuit from the
-ancient partnership paradigm through the dark ages of dominator suppression
-to the modern psychedelic renaissance.
-
-## See Also
-
-- [[ergot-of-barley-and-wheat-alkaloid-composition]]
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
-- [[ergot-and-lysergic-acid-history]]
-- [[mckenna-monotheism-and-pathological-religion]]
-- [[mckenna-psychedelic-plant-use-in-antiquity]]

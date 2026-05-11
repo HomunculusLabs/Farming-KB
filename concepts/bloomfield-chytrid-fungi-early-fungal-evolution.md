@@ -1,5 +1,5 @@
 ---
-title: Bloomfield bloomfield chytrid fungi early fungal evolution Early Fungal Evolution
+title: Bloomfield Chytrid Fungi Early Fungal Evolution
 created: 2026-04-28
 tags:
   - mycology
@@ -17,7 +17,7 @@ type: concept
 # Chytrid Fungi and Early Fungal Evolution
 
 Chytrids are the most ancient lineage of fungi and the only members of
-Kingdom Fungi that produce flagellated cells. While most fungi lost their
+[[fungal-taxonomy-and-kingdom-fungi]] that produce flagellated cells. While most fungi lost their
 flagella hundreds of millions of years ago, chytrids retain this
 ancestral feature, swimming through water using a single whiplash
 flagellum that undulates from base to tip. Their study provides critical
@@ -88,24 +88,3 @@ tubers. Its thick-walled spores survive for more than forty years.
 In common with other mushroom relatives, the walls of chytrids contain
 microfibrils of chitin, the same compound comprising the crunchy parts
 of insects and crustaceans. In Newfoundland, crab shells from local
-fisheries offer promise for controlling potato wart disease when crushed
-and applied to soil. Adding large quantities of chitin-rich crab shell
-encourages bacteria and fungi that degrade chitin, and the destruction
-of chytrid resting spores is a byproduct of this radical change in soil
-ecology.
-
-## Rumen Chytrids and Digestive Symbiosis
-
-Anaerobic chytrids are poisoned by atmospheric oxygen. Some live in the
-rumen, the largest of the four stomach chambers of large herbivores
-including cows. In the digestive soup inside a cow, chytrids decompose
-plant fiber (cellulose). By altering the chemical composition of this
-material, anaerobic chytrids facilitate the growth of other
-microorganisms critical to digestion, including the bacteria responsible
-for methane production. This food processing activity parallels the
-ecological role of [[arthur-mushrooms-and-mankind-fungi-in-human-evolution]]
-- [[biodiversity-fungi-soil-fungal-communities]]
-
-## See Also
-
-- [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]

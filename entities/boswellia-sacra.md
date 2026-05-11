@@ -14,16 +14,16 @@ sources:
   - "Tucker, A.O. (1986). 'Frankincense and myrrh.' Economic Botany 40(4): 425–433."
   - "Al-Harrasi, A., et al. (2019). 'Boswellia sacra: a review of traditional uses, phytochemistry, and pharmacology.' Journal of Ethnopharmacology 245: 112163."
   - "Moussaieff, A., et al. (2012). 'Incensole acetate — a novel anti-inflammatory agent from Boswellia resin.' British Journal of Pharmacology 166(5): 1559–1568."
-  - "Wabuyele, E., et al. (2016). 'Genetic diversity of Boswellia in the Horn of Africa.' Annals of Botany 118(6): 995–1006."
+  - "Wabuyele, E., et al. (2016). '[[biodiversity-fungal-genetic-diversity]] of Boswellia in the Horn of Africa.' Annals of Botany 118(6): 995–1006."
 created: 2026-04-28
 ---
 
 # Boswellia sacra
 
 **Boswellia sacra** Flückiger is the primary source of true frankincense, a
-fragrant oleo-gum resin harvested from trees growing in the arid regions of the
+fragrant oleo-gum resin harvested from trees growing in the [[fukuoka-natural-farming-in-arid-regions]] of the
 Arabian Peninsula and the Horn of Africa. Revered for over 5,000 years,
-frankincense was one of the most valuable commodities of the ancient world,
+frankincense was one of the most valuable commodities of [[allegro-plants-and-drugs-in-the-ancient-world]],
 central to religious rituals, traditional medicine, and trade routes spanning
 Egypt, Mesopotamia, India, and the Mediterranean.
 
@@ -50,7 +50,7 @@ characterized by papery, peeling bark and compound leaves.
 ## Morphology
 
 B. sacra is a small, deciduous tree growing 2 to 8 meters tall with a
-characteristic gnarled, branching habit adapted to arid environments. The bark
+characteristic gnarled, branching habit adapted to [[fungal-diversity-arid-environments]]. The bark
 is papery, peeling in thin flakes to reveal a smooth, greenish underlayer. The
 tree is frequently leafless during the dry season to reduce water loss.
 
@@ -88,39 +88,3 @@ boswellic acid, potently inhibiting 5-lipoxygenase and thereby blocking the
 synthesis of pro-inflammatory leukotrienes.
 
 ## Pharmacology and Traditional Uses
-
-In traditional Arabian, Ayurvedic, and African medicine, frankincense resin
-is used to treat inflammatory conditions including arthritis, asthma, and
-[[blesching-cannabis-inflammatory-bowel-disease]] disease. The resin is applied topically for wound healing
-and orally as a decoction for respiratory and digestive complaints.
-
-Incensole acetate, a unique component of B. sacra resin, acts as a TRPV3
-channel agonist with anxiolytic and antidepressant-like effects in animal
-models. Boswellic acids, particularly AKBA, inhibit NF-kappaB signaling and
-reduce expression of pro-inflammatory cytokines including TNF-alpha and
-IL-6. [[mushroom-cancer-clinical-trials-overview]] have demonstrated efficacy of Boswellia extracts in
-treating osteoarthritis, rheumatoid arthritis, asthma, and ulcerative
-colitis, with responses comparable to NSAIDs but with fewer gastrointestinal
-side effects.
-
-## Harvest and Production
-
-Resin is harvested by making systematic incisions into the bark, allowing
-the milky exudate to flow and harden into tear-shaped droplets over 10 to
-14 days. Tapping begins on mature trees at 8 to 12 years of age, with each
-tree producing 1 to 3 kg of resin per season. Three grades are
-distinguished based on color and purity: hojari (superior, whitish and
-translucent), majami (medium, amber), and saif (lower, dark and
-impurity-rich).
-
-Omani hojari frankincense is considered the finest grade and commands premium
-prices in global markets. Sustainable harvesting practices are critical, as
-over-tapping and premature tapping of young trees have contributed to
-population decline across the species range.
-
-## See Also
-
-- [[commiphora-myrrha]]
-- ferula-assafoetida
-- styrax benzoin
-- [[boswellia-serrata]]

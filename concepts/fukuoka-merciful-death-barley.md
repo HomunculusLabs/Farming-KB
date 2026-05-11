@@ -1,10 +1,11 @@
 ---
-title: The fukuoka merciful death barley for Barley — fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse Policy
+title: Fukuoka Merciful Death Barley
 created: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
-    author: Masanobu Fukuoka
+    author: [[masanobu-fukuoka]]
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -42,7 +43,7 @@ The fields of Japan were left to lie fallow through the winter.
 The slogan "Give up wheat, give up wheat!" was propagated nationwide
 by government agricultural leaders, and the farmers gladly complied.
 The traditional practice of growing winter grain and rice in
-succession -- a system that had sustained Japanese agriculture for
+succession -- a system that had sustained [[fukuoka-breakdown-japanese-agriculture]] for
 centuries -- was deliberately dismantled in favor of dependence on
 imported grain.
 
@@ -87,42 +88,3 @@ they had been told not to grow.
 
 Now, new concern has arisen over food resource shortages. Self-
 sufficiency in rye and barley production is being advocated again,
-with subsidies offered. But growing traditional winter grains for a
-couple of years and then abandoning them again is insufficient. A
-sound agricultural policy must be established. Because the Ministry
-of Agriculture has no clear idea of what should be grown and does
-not understand the connection between what is grown in the fields
-and the people's diet, a consistent agricultural policy remains
-impossible.
-
-Fukuoka suggested that if the Ministry's staff were to gather the
-seven herbs of spring and the seven herbs of autumn from the
-mountains and meadows, they would learn what the source of human
-nourishment is. They would see that people can live quite well on
-traditional domestic crops such as rice, barley, rye, buckwheat,
-and vegetables. If that is all farmers have to grow, farming becomes
-very easy.
-
-## The Pattern of Contradiction
-
-The wheat-to-barley-to-abandonment cycle reveals a consistent pattern
-in Japanese agricultural policy: foreign crops are promoted as
-superior, traditional practices are dismantled, dependence on imports
-increases, and when crisis threatens, traditional practices are
-belatedly recognized as valuable. This pattern reflects what Fukuoka
-saw as the fundamental confusion of modern agriculture -- the
-inability to distinguish between what is truly beneficial and what is
-merely fashionable or profitable for intermediaries.
-
-Until the line of thought that regards small-scale, self-sufficient
-farming as primitive is abandoned, agricultural policy will continue
-to oscillate between destructive extremes. The goal of having only a
-few people in farming, using large modern machinery for greater
-yields, may be considered progress by economists, but for Fukuoka it
-represents a profound misunderstanding of what agriculture is for.
-
-## See Also
-
-- [[fukuoka-barley-winter-grain-method]]
-- [[fukuoka-breakdown-japanese-agriculture]]
-- [[fukuoka-winter-grain-rice-rotation]]

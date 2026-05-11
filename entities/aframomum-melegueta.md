@@ -23,7 +23,7 @@ sources:
 
 Aframomum melegueta, commonly known as grains of paradise, melegueta pepper, or alligator pepper, is a perennial herbaceous plant in the family Zingiberaceae. It is native to the swampy coastal regions of West Africa.
 
-The species produces aromatic seeds that have been traded as a spice since at least the 15th century, when Portuguese merchants carried them to Europe. The seeds were historically used as a substitute for black pepper.
+The species produces aromatic seeds that have been traded as a spice since at least the 15th century, when Portuguese merchants carried them to Europe. The seeds were historically used as a substitute for [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]].
 
 In West African traditional medicine, the seeds are valued for their warming, stimulant, and digestive properties. They occupy a significant role in cultural and spiritual practices across the Guinea Coast.
 
@@ -61,7 +61,7 @@ The primary pungent compounds in melegueta seeds are phenylpropanoids and ginger
 
 Antioxidant capacity of seed extracts is significant, with radical scavenging activity attributed to the combined effects of gingerols, shogaols, and paradols. The total phenolic content correlates positively with antioxidant activity.
 
-Antimicrobial screening has demonstrated activity against *Staphylococcus aureus*, *Bacillus subtilis*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Aspergillus flavus*. The [[permaculture-designers-manual-essential-oil-plants]] fraction shows the broadest antimicrobial spectrum.
+Antimicrobial screening has demonstrated activity against *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *[[aspergillus-flavus]]*. The [[permaculture-designers-manual-essential-oil-plants]] fraction shows the broadest antimicrobial spectrum.
 
 The essential oil of melegueta seeds contains significant quantities of humulene, caryophyllene, and other sesquiterpenes alongside the phenylpropanoid gingerol compounds. [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] yields approximately 1–3% essential oil from dried seeds.
 
@@ -88,28 +88,3 @@ The seeds are also used in veterinary ethnomedicine, administered to poultry and
 ## Cultivation
 
 Propagation is primarily by division of rhizomes. Seeds have variable and often low germination rates, requiring scarification and warm, moist stratification for reliable germination success.
-
-Optimal planting conditions include partial shade, consistent moisture, and rich organic soil. Plants are typically spaced 0.5–1 m apart within rows 1.5–2 m apart.
-
-Seed harvest occurs approximately 6–9 months after flowering. Fruits are collected when they begin to split naturally, and seeds are extracted, washed, and dried in shade to preserve [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
-
-Yield data from cultivated stands indicate approximately 0.5–2 kg of dried seed per plant annually. Commercial production is limited, with most market supply still sourced from wild harvest.
-
-Post-harvest processing involves sun-drying or shade-drying of seeds to a moisture content below 10%. Properly dried seeds maintain their pungency and aroma for 12–18 months when stored in airtight containers.
-
-Major pests include rhizome weevils and stem borers, while diseases are relatively uncommon in well-drained conditions. Intercropping with taller tree crops provides beneficial shade that mimics the natural forest-margin habitat.
-
-## See Also
-
-- [[aframomum-daniellii]]
-
-- [[zingiber-officinale]]
-- [[cinnamomum-verum]]
-- [[piper-nigrum-entity]]
-- [[pimenta-dioica]]
-- [[curcumin]]
-- [[stigmasterol]]
-- [[quercetin]]
-- [[ursolic-acid]]
-- [[capsicum-frutescens]]
-- [[crocus-sativus]]

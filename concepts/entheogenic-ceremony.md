@@ -18,7 +18,7 @@ means "releasing or expressing the divine within."
 Ralph Metzner (1998), in a comparative review published in the Journal of
 Psychoactive Drugs, identified four paradigms of entheogenic use: Western
 [[metzner-psychedelic-psychotherapy-clinical-history]], traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals, syncretic
-folk religious ceremonies, and hybrid shamanic-therapeutic rituals.
+[[entheogenic-folk-religious-ceremonies]], and hybrid shamanic-therapeutic rituals.
 
 ## Terminology
 
@@ -26,7 +26,7 @@ The terms "psychedelic," "hallucinogenic," and "entheogenic" are used somewhat
 interchangeably in the literature, though each carries distinct connotations:
 - **Psychedelic**: coined by Humphrey Osmond and popularized by Aldous Huxley
   and Timothy Leary, means "mind-manifesting"
-- **Hallucinogenic**: the term most common in psychiatric research, derives
+- **Hallucinogenic**: the term most common in [[hofmann-lsd-psychiatric-research]], derives
   from the Latin "alucinare" (to wander in one's mind); Metzner argued it
   deserves rehabilitation since these substances do not actually induce true
   hallucinations
@@ -37,7 +37,7 @@ interchangeably in the literature, though each carries distinct connotations:
 
 The "set and setting" hypothesis, formalized by Timothy Leary, George Litwin,
 and Ralph Metzner in 1963, holds that the primary determinants of an
-entheogenic experience are:
+[[pineal-gland-dmt-entheogenic-experience]] are:
 - **Internal set**: intention, expectation, motivation
 - **External setting**: physical environment, social context, presence of a
   guide
@@ -61,7 +61,7 @@ isolation, and fasting.
 
 ### Mazatec Mushroom Veladas
 
-The Mazatec Indians of Mexico conduct mushroom ceremonies called veladas in
+The Mazatec Indians of Mexico conduct [[sacred-mushroom-ceremonies]] called veladas in
 near-total darkness with only a small candle. The healer (curandero or
 curandera) sings almost continuously throughout the night, weaving the names
 of Christian saints, spirit allies, and the spirits of earth, water, fire,
@@ -83,62 +83,7 @@ maintains the momentum of the visionary experience and minimizes fixation on
 frightening or seductive visions.
 Some traditions incorporate shamanic "sucking" methods to extract harmful
 psychic residues or sorcerous implants from patients. Ayahuasca is a decoction
-typically combining *Banisteriopsis caapi* (containing beta-carboline alkaloids
-that serve as MAO inhibitors) with *Psychotria viridis* or *Diplopterys
+typically combining *[[ayahuasca-and-banisteriopsis-caapi]]* (containing beta-carboline alkaloids
+that serve as MAO inhibitors) with *[[chacruna-psychotria-viridis]]* or *Diplopterys
 cabrerana* (containing N,N-DMT). The beta-carbolines render the orally
 inactive DMT bioavailable by inhibiting its enzymatic breakdown in the gut.
-
-### Peyote Ceremonies
-
-The Native American Church conducts peyote ceremonies in a tipi around a
-central fire, presided over by a "roadman" with assistance from a drummer,
-firekeeper, and cedar-man. The ceremony lasts all night and features almost
-continuous singing of traditional peyote songs with a rapid rhythmic beat.
-Participants sit on the ground in a circle, and a staff and rattle are passed
-among them. Virtually no discussion of healing processes or visions occurs
-during or after the ceremony, though individual participants may have private
-visionary experiences.
-The Huichol Indians of northern Mexico also conduct peyote ceremonies around
-fire, preceded by a long group pilgrimage to Wirikuta to harvest the sacred
-cactus, with extensive singing and storytelling.
-
-### Bwiti Iboga Ceremonies
-
-The Bwiti cult of Gabon and Zaire uses iboga (*Tabernanthe iboga*), from which
-ibogaine is derived. Ceremonies are held in temples with an altar bearing
-ancestral and deity images. Initiate men and women, daubed with white mud, sit
-and sing in lengthy ceremonies.
-A mirror is often present in the assembly room, in which initiates may "see"
-their ancestral spirits. The Bwiti death-rebirth experience involves "opening
-of the head" followed by the ability to converse with ancestor spirits.
-Originally, the Fang people say they learned about iboga from the Pygmies,
-deep forest dwellers.
-Pharmacological research has indicated that ibogaine may act on cocaine
-receptor sites in the brain, raising the possibility of its use as a chemical
-antidote to addiction. The more plausible assumption is that all
-consciousness-expanding hallucinogens can counteract the
-consciousness-contracting effect of addictive narcotics.
-
-## Core Features of Shamanic Entheogenic Practice
-
-Metzner identified five common experiential features across shamanistic
-societies using hallucinogenic plants:
-1. **Central role of the guide**: An experienced healer with extensive
-   personal initiation and training, who often does most or all of the
-   singing that shapes the quality and content of the experience
-2. **Multi-level healing**: Physical, psychic, and spiritual healing through
-   three main mechanisms: extraction of toxins or sorcerous implants,
-   retrieval of split-off psychic fragments ("soul retrieval"), and
-   death-rebirth dismemberment followed by reconstitution
-3. **Access to hidden knowledge**: Divination, "seeing," prophecy, and
-   diagnosis, with the plant medicine communicating as an "intelligence" to
-   the person who ingests it; indigenous healers refer to entheogenic plants
-   as "plant teachers"
-4. **Metaphysical realms**: Access to multiple worlds or nonordinary
-   realities, variously called the "inner world," "spirit world," "upper
-   or lower world," "dreamtime," or "otherworld," accessed through journeys
-
-## See Also
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[set-and-setting]]
-- [[entheogenic-ceremony-preparation]]

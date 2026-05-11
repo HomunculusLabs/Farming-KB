@@ -1,9 +1,10 @@
 ---
-title: [[fukuoka-critique-of-education-universities]] fukuoka fruit processing and natural food marketing and Natural Food Marketing
+title: Fukuoka Fruit Processing And Natural Food Marketing
 tags: [fukuoka, food-systems, citrus, marketing, organic-agriculture, consumer-culture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/masanobu-fukuoka-fukuoka.md"
 type: concept
 created: 2026-04-28

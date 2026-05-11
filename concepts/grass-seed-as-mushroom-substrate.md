@@ -1,5 +1,5 @@
 ---
-title: Grass Seed as Mushroom Substrate
+title: Grass Seed As Mushroom Substrate
 category: mycology
 tags: [substrate, grass-seed, cultivation, mycology, grain-spawn]
 created: 2026-05-09
@@ -18,13 +18,13 @@ also work well.
 
 ## Species Suitability
 
-Grass seed substrate is particularly well-suited for species that produce
+[[grass-seed-substrate]] is particularly well-suited for species that produce
 sclerotia (truffle-like underground storage structures), as well as for
-standard mushroom fruiting:
+standard [[aquarium-humidity-chamber-mushroom-fruiting]]:
 
-- **Psilocybe mexicana** — produces both mushrooms and sclerotia
+- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** — produces both mushrooms and sclerotia
 - **[[psilocybe-tampanensis-entity]]** — produces both mushrooms and sclerotia
-- **Psilocybe cubensis** — mushrooms only (rye grain is often preferred for
+- **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]** — mushrooms only (rye grain is often preferred for
   this species, but grass seed works well)
 - **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — mushrooms
 
@@ -60,7 +60,7 @@ Getting the moisture content right is critical:
 - **Too much water**: The seed clumps into a slimy mass that cannot be shaken
   to distribute mycelium, leading to slow or stalled colonization
 - **Too little water**: The substrate is too dry, resulting in poor mycelial
-  growth and little to no mushroom or sclerotia production
+  growth and little to no mushroom or [[in-vitro-sclerotia-production-timeline-psilocybe]]
 
 Trial and error with small test batches is recommended when working with a
 new seed variety or supplier. A useful technique is to prepare several jars
@@ -87,47 +87,3 @@ After the pressure cooker has depressurized, jars should be removed and shaken
 to redistribute wet and dry kernels, creating a more uniform substrate. Always
 inspect jars for cracks before shaking. Lids should remain loose during cooling
 to prevent vacuum formation, which can suck contaminants into the jar.
-
-## Inoculation
-
-Jars must be fully cooled to room temperature before inoculation — hot jars
-will kill spores or mycelium. Any inoculant can be used: spore syringes,
-mycelium syringes, agar wedges, or liquid culture. The paramount concern is
-**working clean**: flame-sterilize needles and scalpels, work in a draft-free
-area (even a cardboard box hood helps), and minimize the time jars are open.
-
-## Colonization
-
-After inoculation, jars are incubated at approximately 20°C or slightly
-higher in a clean location. When mycelium appears in only a few spots, the
-jars should be shaken to redistribute colonized kernels throughout the
-substrate — this dramatically speeds colonization. Full colonization typically
-takes 5–20 days depending on temperature, species, and inoculation method.
-
-Yellowish [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] indicates the jars have been incubated too
-long or at too high a temperature. These jars should be cased or spawned as
-soon as possible to prevent further stress on the mycelium.
-
-## Advantages Over Other Grains
-
-- Faster colonization due to high surface area of small kernels
-- Excellent for sclerotia-producing species
-- Readily available and inexpensive from feed stores
-- Easy to shake and distribute mycelium
-- Works with multiple inoculation methods
-
-## Comparison with Rye Grain
-
-Rye grain is the traditional standard for [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] is often
-preferred for *P. cubensis* specifically. However, grass seed has advantages
-for sclerotia producers: the smaller kernel size allows more inoculation points
-per unit volume, and the tighter packing of seeds creates a denser matrix that
-may support more uniform [[growing-gourmet-sclerotia-formation-biology-mushrooms]] throughout the substrate.
-
-## See Also
-
-- [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
-
-- rye grain substrate preparation
-- [[sclerotia-formation-psilocybe-species]]
-- [[mushroom-casing-soil-recipes]]

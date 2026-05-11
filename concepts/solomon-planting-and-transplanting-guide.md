@@ -1,8 +1,8 @@
 ---
-title: Solomon solomon planting and transplanting guide Guide
+title: Solomon Planting And Transplanting Guide
 created: 2026-04-18
 updated: 2026-04-18
-sources: Gardening When It Counts (Steve Solomon)
+sources: Gardening When It Counts (steve-solomon)
 tags: direct-seeding
 type: concept
 ---
@@ -43,7 +43,7 @@ Method: Place seeds between layers of moist paper towel in a sealed container at
 
 ## Thinning
 
-Proper thinning is essential for the extensive spacing system. Solomon's approach:
+Proper thinning is essential for the [[solomon-intensive-vs-extensive-spacing]] system. Solomon's approach:
 
 1. **Initial emergence:** When seeds first germinate, lightly thin the densest clumps (for multi-seed crops like beets, where each "seed" is actually a fruit containing multiple seeds)
 2. **At 2-4 inches tall:** Postpone the final precise thinning until plants are about 4 inches (10 cm) tall, because there will usually be a fair number of mysterious seedling disappearances
@@ -88,30 +88,8 @@ Solomon provides several reasons to avoid transplants when possible:
 1. Transplanting destroys the taproot, converting deep-rooted plants into shallow feeders
 2. Transplants require more water until their root systems recover
 3. The cost of transplants (if purchased) is high compared to seed
-4. Direct-seeded plants are more drought-resistant
-5. [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] can set plants back significantly, especially in hot weather
-6. The labor of raising transplants is significant if done at home
 
-## Succession Planting
-
-For crops that produce over a limited harvest window (radishes, lettuce, bush beans), make repeated sowings at 2-3 week intervals to extend the harvest period. However, Solomon notes that with his extensive spacing system, many crops produce for much longer than intensive plantings, reducing the need for frequent succession sowings.
-
-For crops that produce continuously (tomatoes, peppers, cucumbers, indeterminate beans), a single well-spaced planting will produce over a much longer season than closely spaced plants.
-
-## Seed Storage and Viability
-
-- Store seed in a cool, dry place
-- Properly dried seed at moderate temperatures lasts far longer than moist seed
-- Beet and chard seed: 6-10 years
-- Brassica seed: 4-5 years
-- Legume seed: 3-5 years
-- Solanum seed: 3-5 years
-- Allium seed: 1-2 years (shortest viability of common vegetables)
-- If seed sprouts poorly, it was either stored poorly or was already old when purchased
-
-## Related
-
-- [[solomon-complete-organic-fertilizer-guide]] for existing seedling management page
-- [[intensive-gardening-critique-solomon]] for post-planting irrigation
-- [[growing-vegetables-with-less-fertilizer]]
-- [[home-garden-seed-saving]]
+## See Also
+- [[natural-farming-guide-companion-planting-guilds]]
+- [[solomon-cover-crops-green-manure-guide]]
+- [[solomon-seed-saving-guide]]

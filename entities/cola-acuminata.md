@@ -14,14 +14,14 @@ updated: 2026-04-28
 sources:
   - Burkill, H.M. (1985). "The Useful Plants of West Tropical Africa." Royal Botanic Gardens, Kew.
   - Oliver-Bever, B. (1986). "Medicinal Plants in Tropical West Africa." Cambridge University Press.
-  - Atawodi, S.E. et al. (2005). "Extracts of Cola nitida and Cola acuminata interfere with the genotoxicity of certain mutagens." Journal of Ethnopharmacology, 98(1-2), 117-124.
+  - Atawodi, S.E. et al. (2005). "Extracts of [[cola-nitida]] and Cola acuminata interfere with the genotoxicity of certain mutagens." Journal of Ethnopharmacology, 98(1-2), 117-124.
   - URL: https://powo.science.kew.org/
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Cola acuminata** is an evergreen tree species in the family Malvaceae, native to the tropical forests of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep [[ethnomycology-cultural-significance-sacred-fungi]] across West African societies.
+**Cola acuminata** is an evergreen tree species in the family Malvaceae, native to the [[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is one of two principal species (alongside cola nitida) whose seeds, known as kola or cola nuts, are consumed as a stimulant and hold deep [[ethnomycology-cultural-significance-sacred-fungi]] across West African societies.
 
 The seeds are rich in **caffeine** and **theobromine**, and have been traded across the Sahara and Atlantic for centuries. Cola extract was a key original ingredient in Coca-Cola and remains commercially significant today.
 
@@ -62,7 +62,7 @@ Soil preferences include well-drained, acidic to neutral sandy loams and clay lo
 
 ## Chemical Composition
 
-Cola nuts are most notable for their caffeine content, which ranges from 1.0–3.5% dry weight depending on variety, growing conditions, and processing. This concentration is comparable to or slightly lower than that of coffee beans (Coffea arabica: 1.0–1.5%).
+Cola nuts are most notable for their caffeine content, which ranges from 1.0–3.5% dry weight depending on variety, growing conditions, and processing. This concentration is comparable to or slightly lower than that of coffee beans ([[coffea-arabica]]: 1.0–1.5%).
 
 **Theobromine** is the second major xanthine alkaloid, present at 0.02–0.1%. Unlike caffeine, theobromine has mild vasodilatory and diuretic properties with less central nervous system stimulation.
 
@@ -78,7 +78,7 @@ The caffeine content underlies the primary pharmacological effects: antagonism o
 
 Cola nut preparations have been traditionally used as a remedy for diarrhea and dysentery. The high tannin content provides an astringent effect that may reduce intestinal fluid secretion. This use has some pharmacological basis but limited clinical validation.
 
-Research into the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cola nut extracts has demonstrated activity against Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis, as well as some antifungal activity against Candida species.
+Research into the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of cola nut extracts has demonstrated activity against Gram-positive bacteria including [[staphylococcus-aureus]] and [[bacillus-subtilis]], as well as some antifungal activity against Candida species.
 
 In-vitro studies suggest antioxidant activity from the flavonoid and phenolic content, with DPPH radical scavenging IC50 values comparable to standard antioxidants. These findings support but do not confirm traditional uses related to general health maintenance.
 
@@ -87,31 +87,3 @@ In-vitro studies suggest antioxidant activity from the flavonoid and phenolic co
 Cola nuts hold profound cultural importance across West Africa. They are central to social ceremonies, hospitality rituals, and traditional religious practices. Offering kola nuts to guests is a universal gesture of welcome and respect in many Nigerian and Ghanaian cultures.
 
 In Yoruba tradition, kola nuts (known as *obì*) are used in divination (Ifá), ancestor veneration, and life-cycle ceremonies including naming, marriage, and funeral rites. The nuts are presented with specific protocols depending on the occasion.
-
-The economic significance of cola nut trade has historically shaped regional commerce. Pre-colonial trans-Saharan and Atlantic trade routes carried cola nuts northward and westward, establishing the commodity as a major export from the Guinea Coast region.
-
-The commercial cola nut industry remains economically important in Nigeria and Ghana, with thousands of smallholder farmers involved in cultivation. Nigeria is the world's largest producer, accounting for approximately 70% of global cola nut output.
-
-Modern commercial uses include flavoring agents in the beverage industry and as a source of caffeine in energy products. While synthetic caffeine has largely replaced natural cola extract, there is growing interest in natural caffeine sources from sustainably cultivated cola nuts.
-
-## Cultivation and Agroforestry
-
-Cola trees are typically propagated from seed, with germination occurring within 2–4 weeks of sowing. Vegetative propagation by air-layering and grafting is also practiced to preserve selected genotypes with desirable nut characteristics.
-
-Trees begin bearing fruit at 4–7 years from seed, with full production reached at 10–15 years. Under optimal conditions, a mature tree produces 10–40 kg of fresh nuts annually. Harvesting occurs when fruits split open to reveal the mature seeds.
-
-In agroforestry systems, cola trees are intercropped with food crops including cassava, maize, and plantain during the establishment phase. The shade provided by mature cola trees benefits understory crops, and the deep root system helps prevent soil erosion on sloping terrain.
-
-## See Also
-
-- cola nitida
-- theobromine
-- xanthine alkaloids
-- malvaceae
-- west african plants
-- [[agroforestry]]
-- nigeria agriculture
-- mollison-designers-cassava-tropical-root-crops
-- adenosine receptor
-- [[coffea-arabica]]
-- [[bacillus-subtilis]]

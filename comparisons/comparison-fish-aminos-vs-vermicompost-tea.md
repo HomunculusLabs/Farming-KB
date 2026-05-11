@@ -5,6 +5,7 @@ tags: [comparison, organic-fertilizer, liquid-fertilizer, soil-biology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/beneficial-indigenous-microorganisms-bionutrients.md"
 type: comparison
 ---
@@ -104,6 +105,6 @@ In short, Fish Aminos is the go-to choice for fast, targeted nitrogen delivery d
 - [[soil-food-web-nutrient-cycling]]
 - [[hot-composting-method]]
 - [[bionutrients-lab-fermented-fruit-juice-ffj]]
-- [[soil-food-web]]
+- [[soil-foodweb]]
 - [[ingham-vermicompost-worm-castings]]
 - [[aact-compost-organism-levels]]

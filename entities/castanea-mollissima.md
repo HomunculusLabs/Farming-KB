@@ -3,8 +3,8 @@ title: "Castanea mollissima"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
-  - agroforestry
+  - [[permaculture]]
+  - [[agroforestry]]
   - nut-tree
   - food-forest
   - nitrogen-fixer-associate
@@ -16,9 +16,9 @@ sources:
     Northern Nut Growers Association.
   - Payn, K.G. et al. (1992). "Chestnut." In: Moore, J. & Ballington,
     J.R. "Crop Production Science in Horticulture." CABI.
-  - Anagnostakis, S.L. (2012). "Chestnut breeding in the dmt-containing-plants-united-states-halpern."
+  - Anagnostakis, S.L. (2012). "Chestnut breeding in the [[dmt-containing-plants-united-states-halpern]]."
     Plant Breeding Reviews 34: 429–452.
-  - FAO (2022). "FAOSTAT: Chestnut psilocybe-cubensis-miniculture-production-data-and-flush-longevity." Rome.
+  - FAO (2022). "FAOSTAT: Chestnut [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." Rome.
   - Burnham, C.R. et al. (1986). "Breeding Blight-Resistant Chestnuts."
     Plant Disease 70(9): 863–869.
 ---
@@ -30,7 +30,7 @@ sources:
 Castanea mollissima, the Chinese chestnut, is a deciduous tree in the
 Fagaceae family native to China, Korea, and Taiwan. It is the most widely
 cultivated chestnut species globally, valued for its large, sweet nuts,
-timber, ecological functions, and resistance to chestnut blight
+timber, [[fungal-melanin-biosynthesis-ecological-functions]], and resistance to chestnut blight
 (*Cryphonectria parasitica*) that devastated American chestnut populations
 in the 20th century.
 
@@ -62,7 +62,7 @@ flattened on one side. Shell brown, kernel sweet, pale yellow.
 
 Native to eastern and central China, the Korean Peninsula, and Taiwan.
 Found in mixed broadleaf forests at 100–2,800 m elevation. Naturalized
-in Japan, Europe, and North America.
+in Japan, Europe, and [[guzman-psilocybin-mushrooms-north-america]].
 
 China produces over 80% of the world's chestnuts (~2M tonnes/year),
 the vast majority from C. mollissima orchards. Other significant
@@ -88,30 +88,3 @@ fatty nut. Dried and ground into flour, they serve as a gluten-free,
 nutrient-dense carbohydrate source.
 
 ## Cultivation
-
-**Planting:** Seedlings or grafted trees spaced 8–10 m (100–150 trees/ha).
-Two or more cultivars needed for cross-pollination.
-
-**Growth and bearing:** Rapid (60–100 cm/year). Bears at 3–5 years from
-seed, 2–3 from graft. Peak production at 15–30 years; trees bear 100+
-years.
-
-**Yields:** 15–30 kg/tree at maturity; 1.5–4 tonnes/ha in managed
-orchards. High-yielding cultivars exceed 5 tonnes/ha.
-
-**Propagation:** Seeds (stratified 3 months at 2–4°C), grafting, or
-[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed-grown trees vary significantly; grafted clones
-ensure consistent quality.
-
-**Pests:** Major pests include Asian chestnut gall wasp (*Dryocosmus
-kuriphilus*), chestnut weevil (*Curculio elephas*), and oriental gall
-mite. Biological controls (introduction of *Torymus sinensis*
-parasitoid) have been effective against gall wasp.
-
-## Permaculture and Agroforestry Applications
-
-Chinese chestnut is a keystone species in temperate [[ectomycorrhizal-associations]] (with *Pisolithus* spp., *Scleroderma*
-  spp.) enhance soil [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] and [[castanea-sativa]]
-- [[juglans-nigra]]
-- castanea entity
-- [[comfrey-symphytum-officinale]]

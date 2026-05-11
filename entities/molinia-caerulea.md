@@ -12,8 +12,8 @@ updated: 2026-05-09
 sources:
   - Hubbard, C.E. (1984). "Grasses: A Guide to their Structure, Identification, Uses and Distribution." Penguin.
   - Conert, H.J. (1998). "Poaaceae (2)." In: Hegi, G., "Illustrierte Flora von Mitteleuropa." Blackwell.
-  - Capper, P. et al. (2009). "The Colour Identification Guide to Grasses, Sedges, Rushes and Ferns." WildGuides.
-  - Wheeler, C. (2000). "Ornamental Grasses." Crowood Press.
+  - Capper, P. et al. (2009). "The Colour [[mold-identification-guide]] to Grasses, Sedges, Rushes and Ferns." WildGuides.
+  - Wheeler, C. (2000). "[[ornamental-grasses-guide]]." Crowood Press.
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ sources:
 
 It is a dominant species in many European wetland and moorland ecosystems, particularly on acidic, peaty soils.
 
-The species is valued both for its ecological importance in peatland habitats and as an ornamental grass in contemporary landscape design.
+The species is valued both for its ecological importance in peatland habitats and as an ornamental grass in contemporary [[holzer-permaculture-landscape-design]].
 
 Its autumn color transition to golden-yellow and winter persistence make it a popular choice for naturalistic plantings.
 
@@ -42,7 +42,7 @@ Flowers are borne on slender pedicels, giving the panicle a delicate, cloud-like
 
 After flowering, the whole plant adopts a warm golden-yellow hue that persists through winter.
 
-Roots are fibrous and deep, forming dense tussocks that accumulate organic matter over decades.
+Roots are fibrous and deep, forming dense tussocks that accumulate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] over decades.
 
 ## Distribution and Habitat
 
@@ -66,11 +66,11 @@ Purple moor grass grows well in USDA hardiness zones 4 through 8, preferring coo
 
 It performs best in full sun to partial shade on moist, acidic to neutral soils.
 
-Unlike many ornamental grasses, it tolerates heavy clay and waterlogged soils, making it useful for rain gardens.
+Unlike many ornamental grasses, it tolerates [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] and waterlogged soils, making it useful for rain gardens.
 
 Established plants are relatively drought-tolerant, though they perform best with consistent moisture.
 
-Cutting back is straightforward — old growth is removed in late winter before new shoots emerge.
+Cutting back is straightforward — [[fungal-roles-in-old-growth-forests]] is removed in late winter before new shoots emerge.
 
 Plants are long-lived and require division only every 5 to 7 years to maintain vigor.
 
@@ -87,33 +87,3 @@ The dense tussock structure provides microhabitat for invertebrates, amphibians,
 In agricultural contexts, purple moor grass pastures support extensive [[savory-livestock-grazing-planning]] systems in Atlantic Europe.
 
 Conservation efforts focus on maintaining traditional grazing and cutting regimes to prevent scrub encroachment.
-
-The grass is increasingly used in green roof systems, particularly in northern Europe, due to its [[fungal-lichen-stress-tolerance-and-poikilohydry]].
-
-Landscape architects employ it in large-scale naturalistic plantings inspired by the Dutch "New Wave" planting style.
-
-Its ability to thrive in waterlogged soils makes it valuable for [[comparison-constructed-wetland-vs-backyard-pond]] and stormwater management projects.
-
-## Notable Cultivars
-
-'Moorhexe' is a compact cultivar reaching approximately 1.0 meter, with rich yellow autumn color.
-
-'Karl Foerster' (not to be confused with the *Calamagrostis* cultivar of the same name) reaches 1.5 meters.
-
-'Transparent' is a tall, airy selection with especially graceful, open panicles.
-
-'Heidebraut' is a robust German selection with deep golden autumn coloration.
-
-'Skyracer' is one of the tallest cultivars, reaching 2.0 meters with dramatic vertical presence.
-
-'Windspiel' produces exceptionally narrow, upright panicles on compact 1.2-meter plants.
-
-## See Also
-
-- [[deschampsia-caespitosa]]
-- [[festuca-glauca]]
-- [[pennisetum-alopecuroides]]
-- [[panicum-virgatum]]
-- [[muhlenbergia-capillaris]]
-- [[calamagrostis-x-acutiflora]]
-- [[cortaderia-selloana]]

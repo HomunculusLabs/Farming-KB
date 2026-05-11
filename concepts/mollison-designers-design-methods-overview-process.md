@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,20 +88,3 @@ natural processes to move materials instead of fossil fuels.
 Mollison presents several formal design methods in the Designer's Manual:
 
 **Flow diagrams**: Chart the movement of energy and materials through the
-proposed system, identifying all inputs, outputs, and connections.
-
-**Overlay mapping**: Transparent maps for each factor (water, access, sun,
-wind, soil, vegetation) overlaid to identify optimal placement where
-favorable conditions coincide. **[[hemenway-random-assembly-design-technique]]**: brainstorming element
-lists and randomly combining them to discover unexpected synergies.
-**Decision matrices**: systematic comparison of options against weighted
-criteria for complex decisions.
-
-## Phase 5-8: Implementation, Monitoring, Adjustment
-
-Implementation planning sequences elements logically: water systems first,
-## See Also
-
-- [[mollison-designers-design-methods-analysis]]
-
-- [[permaculture-design-process-overview]]

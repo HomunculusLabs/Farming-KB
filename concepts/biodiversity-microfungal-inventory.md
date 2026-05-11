@@ -1,5 +1,5 @@
 ---
-title: Microfungal [[biodiversity-macrofungi-inventory-methods]]
+title: Biodiversity Microfungal Inventory
 created: 2026-04-28
 tags:
   - [mycology]]

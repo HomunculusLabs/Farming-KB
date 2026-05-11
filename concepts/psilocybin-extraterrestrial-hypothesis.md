@@ -88,23 +88,3 @@ forward by something "at the end of time" that is "casting an enormous shadow
 over human history." The mushroom, in this view, has been feeding information to
 humanity about "the larger picture" throughout this process. "All the wars, the
 philosophies, the rapes, the pillaging, the migrations, the cities, the
-civilizations — all of this is occupying a microsecond of geological, planetary,
-and galactic time as the monkeys react to the symbiote."
-
-## Critical Assessment
-
-The extraterrestrial hypothesis remains highly speculative and is not supported
-by mainstream mycology or astrobiology. The absence of fungi in the ancient
-fossil record has multiple conventional explanations. The information attributed
-to the mushroom could be interpreted as emerging from the experiencer's own psyche
-rather than from an external intelligence. McKenna himself acknowledged the
-tentative nature of his claims, maintaining a dialogue with the mushroom rather
-than uncritically accepting its self-description.
-
-## See Also
-
-- [[tryptamine-hyperdimensional-entities]]
-- [[tryptamine-hallucinogens-and-consciousness]]." The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]. HarperSanFrancisco.
-- McKenna, T. & McKenna, D. (1975). The Invisible Landscape. Seabury Press.
-- McKenna, T. (1976). Psilocybin: The Magic Mushroom Grower's Guide. And/Or Press.
-- Dick, P.K. (1981). Valis. Bantam Books.

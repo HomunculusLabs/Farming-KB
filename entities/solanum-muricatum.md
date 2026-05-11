@@ -39,7 +39,7 @@ Solanum muricatum belongs to section Basarthrum, a group of approximately 20 spe
 
 No truly wild populations of S. muricatum have been documented, suggesting it may be an ancient cultigen derived from one or more wild Basarthrum species. Molecular studies using AFLP markers place it closest to S. basendopogon and S. caripense from Ecuadorian populations.
 
-Plants are sprawling, semi-woody perennials reaching 0.5–1.5 m in height with procumbent or scandent growth. Stems are angular, pubescent, and root readily at nodes that contact moist soil. This natural layering ability facilitates vegetative propagation.
+Plants are sprawling, semi-woody perennials reaching 0.5–1.5 m in height with procumbent or scandent growth. Stems are angular, pubescent, and root readily at nodes that contact moist soil. This natural layering ability facilitates [[hamilton-vegetative-propagation]].
 
 Leaves are simple, ovate to lanceolate, 5–15 cm long, with entire or slightly toothed margins. Both leaf surfaces bear simple and glandular trichomes that give off a characteristic solanaceous odor when crushed.
 
@@ -53,7 +53,7 @@ Fruits are fleshy berries, highly variable in shape from globose to elongate-ell
 
 Pepino is native to the mid-elevation Andes (1,000–3,000 m) where it grows in moist, sheltered valleys and forest margins. The species is adapted to mild, frost-free climates with moderate rainfall and well-drained soils.
 
-It has been introduced to many subtropical and temperate regions worldwide. New Zealand emerged as a major commercial producer in the 1980s, exporting pepino to Japan and other Asian markets. Significant production also occurs in California, Spain, and the Canary Islands.
+It has been introduced to many subtropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. New Zealand emerged as a major commercial producer in the 1980s, exporting pepino to Japan and other Asian markets. Significant production also occurs in California, Spain, and the Canary Islands.
 
 Commercial cultivars include 'El Camino' (New Zealand), 'Temptation' (golden-skinned), and 'Ruth's Dimple' (striped, high sugar). Breeding programs in Spain and New Zealand have focused on improving fruit size, sugar content, and shelf life for export markets.
 
@@ -63,13 +63,13 @@ Wild populations in Ecuador and northern Peru show the greatest morphological di
 
 ## Cultivation
 
-Pepino is propagated primarily by stem cuttings, which root easily within 7–14 days. Seed propagation is possible but produces highly variable offspring due to the species' heterozygous nature and lack of fixation for fruit quality traits.
+Pepino is propagated primarily by stem cuttings, which root easily within 7–14 days. Seed propagation is possible but produces highly variable offspring due to the species' heterozygous nature and lack of fixation for fruit [[cannabis-resin-production-and-quality-traits-clarke]].
 
 Cuttings from semi-hardwood stems with 3–4 nodes produce the most vigorous transplants. Rooting hormone improves success rate but is not strictly necessary given the species' natural propensity for adventitious root formation at stem nodes.
 
 Plants prefer well-drained, fertile soils with pH 6.0–7.0 and consistent moisture. They are sensitive to waterlogging and drought stress, both of which reduce fruit quality and yield. Optimal growing temperatures are 15–25°C.
 
-Pepino responds well to organic mulches and drip irrigation. Fertilizer requirements are moderate; excess nitrogen promotes vegetative growth at the expense of fruit production. A balanced NPK ratio of 1:1:2 is commonly recommended during fruiting.
+Pepino responds well to organic mulches and drip irrigation. Fertilizer requirements are moderate; excess nitrogen promotes [[cannabis-vegetative-growth-stage]] at the expense of [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. A balanced NPK ratio of 1:1:2 is commonly recommended during fruiting.
 
 The species is day-neutral for flowering under most conditions but produces best fruit set under moderate temperatures. Temperatures above 30°C cause flower drop and reduce pollen viability. Below 10°C, growth slows significantly but plants survive light frost.
 
@@ -79,7 +79,7 @@ Fruits are harvested at the yellow-green stage for shipping, or fully ripe with 
 
 ## Culinary and Nutritional Value
 
-Pepino fruit is typically eaten fresh, either peeled or unpeeled. The flavor is mild, sweet (8–12° Brix), and refreshingly juicy, with aromatic volatile compounds including hexanal, (E)-2-hexenal, and linalool contributing to its characteristic melon-like aroma.
+Pepino fruit is typically eaten fresh, either peeled or unpeeled. The flavor is mild, sweet (8–12° Brix), and refreshingly juicy, with aromatic [[mycovolatiles-fungal-volatile-compounds]] including hexanal, (E)-2-hexenal, and linalool contributing to its characteristic melon-like aroma.
 
 The fruit's unique volatile profile distinguishes it from true melons ([[cucumis-melo]]) despite the similar flavor. Over 60 volatile compounds have been identified, with esters and aldehydes dominating the aromatic fingerprint.
 
@@ -88,31 +88,3 @@ The flesh is 90–92% water, with modest sugar content (5–7% by weight), makin
 The fruit also contains small amounts of beta-carotene, vitamin K, and dietary fiber primarily in the edible skin. Mineral content includes calcium (12–15 mg/100 g), magnesium, and phosphorus. The nutritional profile is comparable to mild melon varieties.
 
 In Andean cuisine, pepino is used in fruit salads, desserts, and beverages. It pairs well with acidic fruits and is sometimes sprinkled with lime juice and chili powder. In New Zealand and Japanese markets, it is marketed as a premium dessert fruit.
-
-The unripe fruit can be cooked as a vegetable, similar to [[solanum-melongena]]. Some Andean preparations use it in savory stews where it contributes a mild thickening effect similar to summer squash.
-
-Pepino juice is used in some South American beverages, blended with lime and sugar for a refreshing drink. The fruit's high water content and mild flavor make it an effective base for smoothies and fruit cocktails.
-
-## Ecological Role
-
-In native Andean ecosystems, Solanum muricatum serves as a food source for native frugivorous birds and bats that disperse seeds along riparian corridors. The purple flowers attract native Bombus species that provide buzz pollination.
-
-The glandular trichomes on leaves and stems deter many herbivorous insects, providing a degree of constitutive defense. However, the species is susceptible to whiteflies (Bemisia tabaci), spider mites (Tetranychus urticae), and several aphid-transmitted viruses including Potato Virus Y (PVY).
-
-Solanum muricatum shows useful levels of resistance to some soil-borne pathogens that affect [[solanum-lycopersicum]] and [[solanum-tuberosum]]. This has led to interest in its use as a rootstock for grafting other solanaceous vegetables.
-
-The glandular trichomes secrete sugar esters and sesquiterpenes that deter aphid feeding and oviposition. These compounds have been investigated as natural insecticide leads for integrated pest management programs.
-
-The species is listed as Least Concern by IUCN due to its wide cultivation, though genetic erosion of landrace diversity in the Andes is an ongoing concern. Ex situ collections are maintained at the International Potato Center (CIP) in Lima, Peru.
-
-Climate change may threaten traditional cultivation zones in the high Andes as warming shifts suitable altitudinal bands. Conservation of landrace diversity in situ and through community seed banks is a priority identified by the Global Crop Diversity Trust.
-
-## See Also
-
-- [[solanum-lycopersicum]]
-- [[solanum-melongena]]
-- [[solanum-tuberosum]]
-- [[solanum-quitoense]]
-- [[capsicum-annuum]]
-- [[physalis-peruviana]]
-- [[cucumis-melo]]

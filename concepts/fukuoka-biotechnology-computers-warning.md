@@ -6,6 +6,7 @@ type: concept
 tags: [philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Biotechnology and Computers Warning
@@ -86,17 +87,3 @@ Several prominent critics have raised concerns that parallel Fukuoka's, though f
 British scientist Mae-Wan Ho challenged biotechnology on scientific grounds, arguing that the fluid genome model of biology means genetic insertion is far more unpredictable than proponents acknowledge — a scientific argument that reinforces Fukuoka's philosophical intuition. More recently, the work of agronomist Miguel Altieri has demonstrated that biodiverse farming systems often outperform monocultures without genetic modification, providing empirical support for Fukuoka's claim that nature already provides superior solutions if humans would stop interfering.
 
 Fukuoka's distinctive contribution among these critics was his absolute position: he did not advocate for better regulation, more testing, or responsible use of biotechnology — he rejected its entire premise. Where other critics sought reform, Fukuoka sought a fundamental reorientation of humanity's relationship with nature, one that would make biotechnology not just unnecessary but unthinkable.
-
-## Legacy and Contemporary Relevance
-
-Since Fukuoka's warnings in the 1980s and 1990s, many of his concerns have materialized. The consolidation of seed companies, the spread of herbicide-resistant weeds, the loss of crop genetic diversity, and the ecological impacts of pesticide-dependent GMO systems have all validated aspects of his critique. The emergence of CRISPR gene editing and synthetic biology has only accelerated the pace of genetic manipulation that Fukuoka warned about. His philosophical framework — questioning not just the safety but the fundamental legitimacy of redesigning life — remains a vital counterpoint to the prevailing techno-optimism in agricultural research.
-
-## Biotechnology as Symptom Rather Than Cause
-
-Fukuoka's most penetrating insight was that biotechnology is not the root problem but a symptom of a deeper civilizational disorder. The impulse to engineer life arises from the same separation from nature that produces industrial agriculture, environmental destruction, and [[fukuoka-flavor-philosophy-spiritual-alienation-food]]. In this reading, opposing specific biotechnologies — while necessary as a practical matter — does not address the underlying condition. A society that has lost the ability to perceive nature's inherent intelligence will continue to generate new technological "solutions" to problems that are themselves products of previous interventions.
-
-This is why Fukuoka's [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-village-without-war-and-peace]]
-- [[fukuoka-machine-culture-doomed]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-natural-farming-transcends-time-space]]

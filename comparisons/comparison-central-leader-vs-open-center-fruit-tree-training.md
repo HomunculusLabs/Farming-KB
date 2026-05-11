@@ -1,5 +1,5 @@
 ---
-title: "comparison central leader vs open center fruit tree training vs Open Center comparison-berry-growing-vs-fruit-tree-pruning Training"
+title: Comparison Central Leader Vs Open Center Fruit Tree Training
 tags:
   - fruit-trees
   - pruning
@@ -33,7 +33,7 @@ type: comparison
 | **Scaffold arrangement** | 4–6 branches in 3–5 tiers, 18–24" apart | 3–5 branches from a single low point (18–30" height) |
 | **Canopy shape** | Conical / Christmas-tree | Bowl / vase / goblet |
 | **Tree height** | Tall (12–20+ ft depending on rootstock) | Short to medium (8–14 ft) |
-| **Light distribution** | Good — natural conical gradient | Excellent — direct sunlight to center |
+| **[[cervantes-reflective-hoods-light-distribution]]** | Good — natural conical gradient | Excellent — direct sunlight to center |
 | **Wind resistance** | Strong — single central axis distributes load | Moderate — scaffolds act as sails; can split at narrow crotches |
 | **Yield potential** | High on vigorous rootstocks | Moderate — less bearing surface |
 | **Harvest ease** | Requires ladders for upper canopy | Easier — lower overall height |
@@ -98,7 +98,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -106,7 +106,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

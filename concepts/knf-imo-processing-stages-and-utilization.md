@@ -13,12 +13,12 @@ microorganisms from IMO-1 through IMO-4, gradually increasing their
 population, adapting them to field conditions, and preparing them for
 soil application.
 ## The IMO Concept
-Natural Farming produces good yields when cultivated land has
+[[cho-loess-powder-in-natural-farming]] produces good yields when cultivated land has
 excellent soil conditions. Microorganisms play a vital role in making
-soil productive by decomposing complex organic compounds into
+soil productive by decomposing complex [[chamovitz-plant-scent-communication-volatile-organic-compounds]] into
 absorbable nutrients and creating antibiotic substances, enzymes, and
 [[lactic-acid-bacteria-lab|lactic acids]] that suppress diseases. Natural Farming promotes
-Indigenous Microorganisms, those that have lived in the local area
+[[beneficial-indigenous-microorganisms-bim]], those that have lived in the local area
 for a long time, as they survive extreme climatic conditions better
 than artificially produced microorganisms.
 In Non-Chemical agriculture, farmers nurture the soil and the soil
@@ -27,13 +27,13 @@ IMOs is steamed rice that is not too soft or sticky, and containers
 should be made of wood or bamboo rather than plastic.
 ## IMO-1: Collection from the Environment
 IMO-1 is the initial collection of microorganisms. The source
-describes three collection methods:
+describes three [[biodiversity-of-fungi-freshwater-survey-collection-methods]]:
 **Method 1 - Native Soil**: A wooden box (12x8x4 inches) filled
 with steamed rice is placed in a pit in forest soil near decomposed
 leaf molds. At 20 degrees Celsius, collection takes 5 to 6 days. At
 30 to 35 degrees, only 2 to 3 days. The rice becomes covered with
 microorganisms, which is transferred to a clay pot as IMO-1.
-**Method 2 - Bamboo Stump**: A bamboo stump in a bamboo grove is cut
+**Method 2 - [[cho-imo-collection-bamboo-stump-and-paddy-field]]**: A bamboo stump in a bamboo grove is cut
 10 cm from the ground and filled with boiled rice. After 3 to 5 days,
 red, white, yellow, and black microorganisms collect along with
 bamboo juice. The stump is cut and rice transferred to a jar as
@@ -54,7 +54,7 @@ exceeded optimal timing.
 ## IMO-3: Mass Cultivation on Rice Bran
 IMO-3 is the mass cultivation stage where microorganisms multiply on
 a rice bran substrate. This stage builds sufficient quantities for
-field application.
+[[knf-imo-four-soil-foundation-and-field-application]].
 Materials needed: IMO-2 diluted with water (1:1000), rice bran or
 flour, paddy straw, and all NF inputs diluted at 1:1000.
 Preparation:
@@ -88,33 +88,3 @@ Preparation:
 3. Create a heap not more than 20 cm in height. Cover for two days.
 4. Adjust moisture to 65 to 75 percent with NF inputs at 1:1000.
 5. Add seawater for best results when inoculated into soil.
-The end product is IMO-4. Moisture evaporates during storage, so
-adjust to 65 to 70 percent with NF liquids before using. IMO-5 can
-be produced by adding cow bone powder, shrimp shell, or crab shell
-and fermenting for more than a week.
-## Utilization Principles
-The source provides three key principles for effective IMO use:
-1. **Use IMOs continuously**: IMOs should be collected and prepared
-   every year and maintained in the soil for continued results.
-2. **Maintain diversity**: Collect microorganisms from different
-   environments and mix them. Collect from all four directions of
-   the field, from mountains, summits, valleys, and trenches.
-3. **Include the tough guys**: Sunny and shaded sides have different
-   IMOs. Altitude affects variety. Include survivors from high
-   mountains or uncontaminated regions for resilience.
-## Key Principles
-- IMOs progress through four stages: collection, preservation,
-  cultivation, and field adaptation.
-- Steamed rice with low moisture attracts aerobic microorganisms.
-- Jaggery (unrefined sugar) is preferred over refined sugar.
-- Temperature must stay between 40 and 50 degrees Celsius during
-  IMO-3 cultivation.
-- All mixing and cultivation must occur on soil floors, never
-  concrete.
-## Applications
-- Building fertile, healthy soil through continuous IMO application
-- Soil treatment before seeding or transplanting (7 to 14 days
-## See Also
-- [[chos-global-natural-farming-input-reduction-methods]]
-
-See also: [[chos-natural-farming-imo-collection-cultivation]]

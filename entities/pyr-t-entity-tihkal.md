@@ -12,7 +12,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Full name: N,N-Tetramethylenetryptamine
 
-- Synonyms: 3-[2-(1-pyrrolidyl)ethyl]indole, 1-[2-[3-indolyl]ethyl]pyrrolidine
+- Synonyms: 3-[2-(1-pyrrolidyl)ethyl][[indole]], 1-[2-[3-indolyl]ethyl]pyrrolidine
 
 - Class: Tryptamine, pyrrolidine ring substitution
 
@@ -38,7 +38,7 @@ psychedelic receptors, possibly because the locked conformation is suboptimal
 for 5-HT2A binding.
 
 The pyrrolidine ring is found in numerous pharmacologically active compounds
-across diverse therapeutic areas, including nicotine (a pyrrolidine alkaloid),
+across diverse therapeutic areas, including [[nicotine]] (a pyrrolidine alkaloid),
 procyclidine (an anticholinergic), and various pharmaceuticals. The ring's
 presence in pyr-T creates a hybrid molecule that bridges tryptamine and
 pyrrolidine pharmacophores.
@@ -71,7 +71,7 @@ substitutions engage different receptor systems or different binding modes.
 
 - DET (N,N-diethyl): Active at 40-75 mg, classic psychedelic character
 
-- DIPT (N,N-diisopropyl): Active at 25-75 mg, unique auditory distortions
+- [[dipt]] (N,N-diisopropyl): Active at 25-75 mg, unique auditory distortions
 
 - pyr-T (pyrrolidine): Active at 200-250 mg, mild entactogen-like, rigid ring
 
@@ -88,31 +88,3 @@ negative amnestic states (5-MeO-pyr-T).
 
 - The high dose range (200-250 mg) means large quantities of material must be
 ingested, increasing the risk from any impurities
-
-- The compound's pharmacology is poorly characterized; unknown receptor interactions
-cannot be ruled out
-
-- The contrast between pyr-T's benign effects and its hydroxylated/methoxylated
-analogues' negative effects suggests unpredictable pharmacology in this series
-
-- Standard tryptamine precautions apply: avoid [[mao-inhibitors-and-psychedelics]], SSRIs, and other
-serotonergic medications
-
-- The compound has not been evaluated for chronic toxicity or [[cannabis-drug-interactions-and-contraindications]]
-
-## Legal Status
-
-pyr-T is not specifically scheduled in most jurisdictions. As a substituted
-tryptamine, it could potentially fall under analogue legislation related to
-controlled tryptamines. The compound's extreme rarity has kept it entirely
-below regulatory attention. No specific scheduling is known as of 2024.
-
-## Cultural and Historical Significance
-
-pyr-T is primarily of interest as a pharmacological tool for understanding
-the role of nitrogen substitution geometry in tryptamine activity. The dramatic
-differences between pyr-T and its substituted analogues (4-HO-pyr-T and
-
-## See Also
-
-- [[4-5-mdo-dmt-entity-tihkal]]

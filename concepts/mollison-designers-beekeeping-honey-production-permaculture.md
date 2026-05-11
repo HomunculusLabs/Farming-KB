@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Beekeeping and Honey Production in Permaculture
 
-Bill Mollison's [[mollison-designers-mixed-orchard-design-species-selection]], vegetable gardens, and seed crops,
+[[bill-mollison]]'s [[mollison-designers-mixed-orchard-design-species-selection]], [[maintaining-organic-matter-in-vegetable-gardens]], and seed crops,
 while simultaneously producing honey, wax, propolis, and pollen as
 valuable yields. Their presence is an indicator of ecosystem health
 and a keystone of permaculture-zone-planning principles:
@@ -39,7 +40,7 @@ and a keystone of permaculture-zone-planning principles:
   more efficient the colony. Mollison recommends planting [[mollison-designers-bee-forage-tree-planting]]
   species throughout [[mollison-designers-herb-spiral-design-construction]] and
 permaculture-designers-manual-bamboo -- source reference
-- [[mollison-designers-herb-spiral-design-construction]] -- bee forage in herb gardens
+- [[mollison-designers-herb-spiral-design-construction]] -- [[bee-forage-hive-management-mollison]] in herb gardens
 - permaculture-zone-planning -- apiary placement strategy
 ## Practical Considerations
 
@@ -86,18 +87,4 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[bill-mollison]]
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation

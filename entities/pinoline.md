@@ -22,9 +22,9 @@ created: 2026-05-07
 
 ## Overview
 
-Pinoline, chemically known as 6-methoxy-1,2,3,4-tetrahydro-β-carboline (6-MeO-THBC), is an endogenously occurring β-carboline alkaloid found in the mammalian brain, with the highest concentrations in the pineal gland. It was first identified in human platelets by Shoemaker and colleagues in 1978 and has since been the subject of considerable neuropharmacological research.
+Pinoline, chemically known as 6-methoxy-1,2,3,4-tetrahydro-β-carboline (6-MeO-THBC), is an endogenously occurring β-carboline alkaloid found in the mammalian brain, with the highest concentrations in the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]. It was first identified in human platelets by Shoemaker and colleagues in 1978 and has since been the subject of considerable neuropharmacological research.
 
-Pinoline acts as a reversible monoamine oxidase A inhibitor (RIMA) and binds to several monoamine receptors, including 5-HT1A, 5-HT2A/2C, and imidazoline receptors. Its endogenous presence, psychoactive potential, and [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to [[turner-harmala-alkaloids-preparation-and-dosage]] have made it a compound of interest in consciousness research and sleep regulation studies.
+Pinoline acts as a reversible monoamine oxidase A inhibitor (RIMA) and binds to several monoamine receptors, including 5-HT1A, 5-HT2A/2C, and imidazoline receptors. Its [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]], psychoactive potential, and [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to [[turner-harmala-alkaloids-preparation-and-dosage]] have made it a compound of interest in consciousness research and sleep regulation studies.
 
 ## Chemical Properties
 
@@ -34,7 +34,7 @@ Pinoline acts as a reversible monoamine oxidase A inhibitor (RIMA) and binds to 
 - **CAS number:** 5774-74-5
 - **Structure type:** β-Carboline (tetrahydro derivative)
 
-The compound consists of a β-carboline core with a methoxy substituent at the 6-position. This methoxy group distinguishes it from the simpler tryptoline (tetrahydro-β-carboline) and places its pharmacological profile closer to that of the harmala alkaloids.
+The compound consists of a β-carboline core with a methoxy substituent at the 6-position. This methoxy group distinguishes it from the simpler tryptoline (tetrahydro-β-carboline) and places its pharmacological profile closer to that of the [[harmala-alkaloids]].
 
 Pinoline is formed endogenously through a Pictet-Spengler condensation between serotonin (5-hydroxytryptamine) and acetaldehyde, followed by O-methylation. This biosynthetic pathway links it directly to serotonin metabolism.
 
@@ -56,7 +56,7 @@ The MAO-A inhibitory activity of pinoline is relatively weak compared to pharmac
 
 Pinoline has been administered to human subjects in a limited number of clinical studies, primarily for sleep research.
 
-**At endogenous concentrations:** The compound is believed to contribute to natural sleep regulation. Pineal pinoline levels fluctuate with the light-dark cycle, peaking during the dark phase. It may potentiate melatonin's effects on circadian rhythm.
+**At endogenous concentrations:** The compound is believed to contribute to natural sleep regulation. Pineal pinoline levels fluctuate with the light-dark cycle, peaking during the dark phase. It may potentiate melatonin's effects on [[chamovitz-circadian-rhythm-internal-clock-plants]].
 
 **At exogenous doses (pharmacological):** Studies by Musgrave et al. (1998) using doses of 2–10 mg reported mild sedation, relaxation, and slight mood elevation. Visual effects were not prominent at these doses. The subjective profile is considerably milder than that of harmine or harmaline.
 
@@ -74,7 +74,7 @@ The compound has also been detected in human platelets, urine, and cerebrospinal
 
 ## Role in Ayahuasca Pharmacology
 
-Pinoline has been proposed as an endogenous contributor to the psychoactive effects of ayahuasca. The ayahuasca brew combines DMT-containing plants with Banisteriopsis caapi, which provides MAO-inhibiting β-carbolines (harmine, harmaline, tetrahydroharmine).
+Pinoline has been proposed as an endogenous contributor to the psychoactive effects of ayahuasca. The ayahuasca brew combines DMT-containing plants with [[ayahuasca-and-banisteriopsis-caapi]], which provides MAO-inhibiting β-carbolines (harmine, harmaline, tetrahydroharmine).
 
 The theoretical argument posits that endogenous pinoline could synergize with exogenous harmala alkaloids to enhance MAO-A inhibition, facilitating oral DMT activity. However, this hypothesis remains controversial — endogenous pinoline concentrations are far too low to provide meaningful MAO-A inhibition compared to the milligram quantities of harmala alkaloids in ayahuasca.
 
@@ -82,35 +82,8 @@ Most researchers consider the endogenous pinoline contribution to ayahuasca phar
 
 ## Legal Status
 
-Pinoline is not specifically scheduled in most jurisdictions. As an endogenous compound, it occupies a legal gray area. In the United States, it is not listed on the DEA Controlled [[controlled-substances-act-and-psychedelic-research]].
+Pinoline is not specifically scheduled in most jurisdictions. As an endogenous compound, it occupies a legal gray area. In the [[dmt-containing-plants-united-states-halpern]], it is not listed on the DEA Controlled [[controlled-substances-act-and-psychedelic-research]].
 
 The Federal Analog Act could theoretically apply if pinoline were sold for human consumption as a psychoactive substance, though there are no documented cases of enforcement against pinoline specifically. It is available from some research chemical suppliers for laboratory use.
 
 ## Research and Therapeutic Potential
-
-Research into pinoline's therapeutic potential has focused on several areas, though clinical data remains limited.
-
-**[[cannabis-sleep-disorders-and-insomnia]]:** The compound's endogenous role in pineal function and its MAO-A inhibitory profile have prompted interest in its application to insomnia and circadian rhythm disorders. The mild sedation observed in clinical studies supports this application, though no drug development programs have advanced to late-stage trials.
-
-**Neuroprotection:** Pinoline's affinity for imidazoline I₂ receptors and sigma-1 receptors suggests potential neuroprotective properties. In vitro studies have demonstrated protection against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neuronal cell cultures, possibly through MAO-A inhibition reducing reactive oxygen species generation.
-
-**Depression and anxiety:** The combined MAO-A inhibition and 5-HT1A receptor agonism produce an anxiolytic and antidepressant-like profile in animal models. However, the relatively weak potency compared to established antidepressants limits its viability as a standalone therapeutic agent.
-
-**Lucid dreaming:** Pinoline has gained attention in alternative and consciousness research communities for its theoretical role in promoting lucid dreaming. The hypothesis suggests that endogenous pinoline, in combination with melatonin, may facilitate the brain state associated with conscious awareness during REM sleep. This claim is largely anecdotal and has not been rigorously tested in controlled studies.
-
-## Related Compounds
-
-- **Tryptoline (tetrahydro-β-carboline)** — The unmethylated parent compound, also endogenous, lacking the 6-methoxy group.
-- **Norharman (β-carboline)** — The fully aromatic, unmethylated β-carboline found in coffee, tobacco, and cooked foods.
-- **Harmine** — A fully aromatic β-carboline with potent MAO-A inhibition and psychedelic effects at higher doses.
-- **Tetrahydroharmine (THH)** — A tetrahydro β-carboline with a 7-methoxy group, found in Banisteriopsis caapi.
-
-## See Also
-
-- [[harmaline]]
-- [[harmalol]]
-- [[psilocin]]
-- [[5-meo-dmt-entity]]
-- [[banisteriopsis-caapi]]
-- [[tryptamine]]
-- [[serotonin]]

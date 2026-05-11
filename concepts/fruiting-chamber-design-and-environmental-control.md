@@ -88,20 +88,3 @@ conk form. Growers exploit this to produce different morphological forms for
 different markets.
 
 ## Common Fruiting Problems
-
-**Cobweb mold (Dactylium)** thrives in stagnant, humid conditions and is a
-direct indicator of insufficient FAE. Increasing air exchange almost always
-resolves light cobweb infestations.
-
-**Bacterial blotch** appears as dark, slimy spots on caps and is caused by
-Pseudomonas tolaasii. It spreads in wet conditions with poor air circulation.
-Reducing surface wetness and increasing FAE are the primary countermeasures.
-
-**Aborted pins** (primordia that brown and stop developing) result from rapid
-fluctuations in humidity or temperature. Stable environmental conditions are
-more important than hitting exact setpoints.
-
-## See Also
-
-- grain-spawn-production
-- [[medicinal-mushroom-compounds-and-health-benefits]]

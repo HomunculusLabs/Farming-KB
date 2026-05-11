@@ -15,7 +15,7 @@ sources:
   - Desjardin, D.E., et al. (2008). "Neonothopanus nambi sp. nov., a new bioluminescent agaric from the Atlantic Forest." Mycologia, 100(6), 883–889.
   - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in bloomfield-bioluminescent-fungi-overview." bloomfield-fungal-biology-and-hyphal-growth, 119(8), 739–746.
   - Kotlobay, A.A., et al. (2018). "fukuoka-textdoc-genetic-engineering-critique-warning of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
-  - Stevani, C.V., et al. (2013). "Bioluminescent fungi." In: Bioluminescence: Fundamentals and Applications in Biotechnology. Springer, pp. 271–296.
+  - Stevani, C.V., et al. (2013). "[[bioluminescent-fungi]]." In: Bioluminescence: Fundamentals and Applications in Biotechnology. Springer, pp. 271–296.
   - Weitz, H.J., et al. (2019). "The fungal luciferase from Neonothopanus nambi." Nature Chemical Biology, 15, 1057–1063.
 ---
 
@@ -25,13 +25,13 @@ sources:
 fungus in the family Omphalotaceae (Agaricales). It is one of the brightest
 known bioluminescent fungi, producing a steady greenish glow (λmax ≈ 530 nm)
 visible to the naked eye in complete darkness. The species is native to
-tropical and subtropical forests of South America, where it grows as a
-saprotroph on dead wood and fallen tree trunks.
+tropical and subtropical forests of [[guzman-psilocybin-mushrooms-south-america]], where it grows as a
+saprotroph on [[fungal-dead-wood-diversity]] and fallen tree trunks.
 
 N. nambi gained significant scientific attention in 2018 when its complete
 bioluminescence pathway was elucidated, enabling the first fungal luciferase
 system to be expressed in heterologous organisms. This breakthrough opened
-new avenues for bioluminescent imaging, environmental monitoring, and
+new avenues for bioluminescent imaging, [[singh-fungal-biosensors-environmental-monitoring]], and
 synthetic biology applications.
 
 ## Taxonomy and Morphology
@@ -43,7 +43,7 @@ The species was originally described as *Agaricus nambii* by Spegazzini in
 taxonomic revisions, placed variously in *Pleurotus* and *Omphalotus* before
 being assigned to *Neonothopanus* by Petersen in 1996. Molecular phylogenetic
 studies confirm its placement within the bioluminescent clade of
-Omphalotaceae, closely related to *Omphalotus olearius*.
+Omphalotaceae, closely related to *[[omphalotus-olearius]]*.
 
 The basidiocarp is pleurotoid to flabelliform (shelf-like to fan-shaped),
 growing singly or in overlapping clusters. The cap is 2–8 cm wide,
@@ -88,51 +88,3 @@ who identified the complete four-enzyme cascade:
    3-hydroxyhispidin, the fungal luciferin.
 3. **Luz luciferase** catalyzes the oxidation of 3-hydroxyhispidin in
    the presence of molecular oxygen and ATP, emitting light at 530 nm.
-4. **Caffeic [[citric-acid-cycle-tca-krebs-cycle]]** recycles the oxidized product back to hispidin
-   via a caffeyl alcohol intermediate.
-
-The bioluminescence is continuous (circadian, with peak intensity during
-nighttime hours) and requires no exogenous substrate addition, making it
-energetically favorable compared to firefly luciferase systems. The
-physiological function of fungal bioluminescence remains debated, with
-current evidence supporting roles in [[aquatic-fungi-spore-dispersal-ingold]] (attracting nocturnal
-insects) and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] management.
-
-## Applications in Biotechnology
-
-The 2018 elucidation of the N. nambi bioluminescence pathway enabled
-expression of the complete fungal luciferase system in yeast (Pichia
-pastoris) and mammalian cells. This was the first autonomous (no exogenous
-substrate required) bioluminescent imaging system derived from a fungus.
-
-Advantages over existing systems include:
-
-- No requirement for luciferin injection (endogenous biosynthesis)
-- Sustained luminescence without substrate depletion
-- Compact genetic cassette (~5 kb for all three core genes)
-- Compatibility with both prokaryotic and eukaryotic hosts
-
-Applications under development include real-time in vivo imaging in animal
-models, autonomous biosensors for environmental monitoring, and
-bioluminescent reporters for gene expression studies. The system has been
-commercially developed as "Lumazine" bioluminescent technology.
-
-## Related Bioluminescent Fungi
-
-Approximately 120 fungal species across the Agaricales are known to be
-bioluminescent, with the brightest species including N. nambi, Omphalotus
-olearius, Armillaria mellea, and Panellus stipticus. Bioluminescence has
-evolved independently at least 40 times within the Agaricales, making it
-one of the most convergently evolved traits in fungi.
-
-The complete bioluminescence pathway appears to be conserved across all
-luminescent fungi, suggesting a single evolutionary origin followed by
-widespread horizontal transfer or deep conservation of the gene cluster.
-
-## See Also
-
-- [[armillaria-mellea-entity]]
-- [[mycena-purpureofusca]]
-- [[psilocybe-cubensis]]
-- [[trametes-versicolor-entity]]
-- [[clavariadelphus-pistillaris]]

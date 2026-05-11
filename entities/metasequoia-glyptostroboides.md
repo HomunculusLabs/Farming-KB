@@ -20,7 +20,7 @@ sources:
 
 Metasequoia glyptostroboides, the dawn redwood, is a fast-growing deciduous conifer in the family Cupressaceae. It is one of the most famous botanical discoveries of the 20th century, having been identified from fossils in 1941 before living trees were found in China in 1943.
 
-The species is the sole living member of the genus Metasequoia and is classified as critically endangered in the wild. It is widely cultivated as an ornamental tree in temperate regions worldwide.
+The species is the sole living member of the genus Metasequoia and is classified as critically endangered in the wild. It is widely cultivated as an ornamental tree in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 ## Taxonomy and Morphology
 
@@ -64,7 +64,7 @@ The genus declined throughout the Tertiary as global climates cooled and dried. 
 
 Dawn redwood is widely planted as an ornamental tree in parks, gardens, and arboreta throughout temperate regions.
 
-Its rapid growth rate and attractive autumn coloration make it a popular landscape specimen. The tree's pyramidal form and fern-like foliage add textural interest to mixed plantings.
+Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] and attractive autumn coloration make it a popular landscape specimen. The tree's pyramidal form and fern-like foliage add textural interest to mixed plantings.
 
 Trees grow 1–2 meters per year in cultivation and can reach 25 meters within 30 years. They perform best in deep, moist, slightly acidic soils in full sun.
 
@@ -78,7 +78,7 @@ In China, small-scale use includes construction poles and carving timber. The wo
 
 Propagation is primarily from seed, which germinates readily without stratification.
 
-Cuttings from juvenile material also root easily, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols are well-established. Vegetative propagation is preferred for maintaining selected cultivar characteristics.
+Cuttings from juvenile material also root easily, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols are well-established. [[hamilton-vegetative-propagation]] is preferred for maintaining selected cultivar characteristics.
 
 ## Ecological Role and Conservation
 
@@ -87,36 +87,3 @@ Wild populations of Metasequoia glyptostroboides are estimated at fewer than 5,4
 Natural regeneration in wild stands is poor, with seedling recruitment limited by competition from surrounding broadleaf forest.
 
 Many remaining individuals are thought to be clonal sprouts rather than genetically distinct trees. Genetic studies have revealed limited diversity within wild populations.
-
-Conservation efforts include in situ protection of remaining stands and extensive ex situ plantings in botanical gardens worldwide. Seed banks maintain germplasm collections from multiple wild populations.
-
-Habitat fragmentation and agricultural expansion continue to threaten wild populations. [[dighton-fungi-climate-change-feedback]] may further restrict the species' already narrow natural range.
-
-The species serves as an important example of a "living fossil," demonstrating how relict populations can persist in refugial habitats long after the genus has disappeared from most of its former range.
-
-## Cultural Significance
-
-The discovery of living Metasequoia in 1948 generated enormous excitement in the botanical world. Seeds were rapidly distributed to botanical institutions worldwide, making it one of the most widely cultivated living fossils.
-
-In China, the species is considered a national treasure and is protected by law. The Modaoxi discovery site is a protected area and receives visitors interested in botanical history.
-
-The Arnold Arboretum of Harvard University played a key role in the early distribution of seeds and has maintained research plantings since 1948. Many mature specimens in [[growing-gourmet-north-american-reishi-species]] arboreta originate from these early introductions.
-
-The dawn redwood has become a symbol of [[mycelium-running-conservation-biology-and-fungi]], illustrating both the vulnerability of relict species and the potential for international cooperation in their preservation.
-
-Several Chinese cities have adopted Metasequoia as their official civic tree. The species is also planted along roadsides and in public parks throughout southern and central China.
-
-## See Also
-
-- [[encephalartos-altensteinii]]
-
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]
-- [[taxodium-distichum]]
-- [[cryptomeria-japonica]]
-- [[ginkgo-biloba]]
-- [[araucaria-araucana]]
-- [[thuja-plicata]]
-- [[picea-abies]]
-- [[abies-concolor]]
-- [[larix-decidua]]

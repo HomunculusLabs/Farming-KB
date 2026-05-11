@@ -88,39 +88,3 @@ proportions:
 ## Fruiting and Maintenance
 
 The first flush (fruiting event) occurred four to five weeks after
-initial inoculation, approximately two weeks after casing was applied.
-During the fruiting phase, each miniculture was watered once every two
-days with precisely 1 ml of sterile water delivered via syringe. This
-controlled moisture regime was critical for maintaining consistent
-fruiting conditions across all replicate cultures without introducing
-contamination risk.
-
-## Yield and Culture Longevity
-
-Each miniculture yielded an average of 2.7 g total dry weight across all
-flushes. The cultures continued producing mushrooms for at least 20 weeks
-provided they remained uncontaminated, with five flushes being the typical
-maximum before the mycelium ceased fruiting. One exceptional culture
-(miniculture 1) produced a rare sixth flush. Mushrooms were harvested
-as soon as they reached maturity, immediately freeze-dried, sealed in
-plastic, and stored at minus 5 degrees Celsius until analysis.
-
-## Scientific Significance
-
-The miniculture method provided the experimental control necessary to
-isolate flush number as the independent variable in alkaloid production
-studies. By keeping genetics, substrate composition, moisture, and
-environmental conditions constant while tracking individual cultures
-through multiple sequential harvests, Bigwood and Beug could attribute
-observed alkaloid differences to the flush number rather than confounding
-variables. This methodological rigor distinguished their findings from
-earlier studies that analyzed wild-collected or commercially obtained
-specimens of unknown provenance.
-
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[psilocybin-psilocin-variation-across-flushes]]
-- [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
-- [[casing-soil-preparation-mushroom-cultivation]]
-- [[agaricus-bisporus]]

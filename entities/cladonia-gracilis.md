@@ -19,7 +19,7 @@ sources:
 
 Cladonia gracilis is a widespread fruticose lichen in the family Cladoniaceae, commonly known as the graceful reindeer lichen. It forms upright, branched podetia arising from a small basal squamule thallus.
 
-The species is circumpolar in distribution, occurring across boreal and arctic regions of North America, Europe, and Asia. It is a dominant component of tundra and boreal ground lichen communities alongside other Cladonia species.
+The species is circumpolar in distribution, occurring across boreal and arctic regions [[berry-growing]], Europe, and Asia. It is a dominant component of tundra and boreal ground lichen communities alongside other Cladonia species.
 
 C. gracilis is an important winter forage lichen for caribou and reindeer across its range. It is chemically diverse, producing both usnic acid and fumarprotocetraric acid as [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
@@ -41,7 +41,7 @@ Spores are hyaline, ellipsoid, unicellular, measuring 7–12 × 3–5 μm.
 
 ## Distribution and Habitat
 
-Cladonia gracilis has a circumpolar distribution across the Northern Hemisphere. It occurs from the high Arctic to the northern temperate zone in North America, Europe, and Asia.
+Cladonia gracilis has a circumpolar distribution across the Northern Hemisphere. It occurs from the high Arctic to the northern [[guzman-magic-mushrooms-temperate-zone-species]] in North America, Europe, and Asia.
 
 In North America, its range extends from Alaska and arctic Canada south to the northern Great Lakes region and New England. In Europe, it is found from Scandinavia and the British Isles south to the Alps and Carpathians.
 
@@ -53,7 +53,7 @@ It shows a preference for well-drained, exposed microsites and is tolerant of mo
 
 ## Chemistry and Ecology
 
-Cladonia gracilis produces several lichen acids as secondary metabolites. The two primary chemotypes contain either usnic acid alone or usnic acid in combination with fumarprotocetraric acid.
+Cladonia gracilis produces several lichen acids as [[biodiversity-fungal-secondary-metabolites]]. The two primary chemotypes contain either usnic acid alone or usnic acid in combination with fumarprotocetraric acid.
 
 Usnic acid is concentrated in the cortical layer and provides UV-protective and antimicrobial functions. Fumarprotocetraric acid is medullary and contributes to the species' bitter taste and herbivore deterrence.
 
@@ -61,7 +61,7 @@ Additional secondary compounds reported include atranorin, homosekikaic acid, an
 
 The species is an important winter food source for caribou (Rangifer tarandus) and reindeer across boreal and arctic regions. Its nutritional value is comparable to other Cladonia forage lichens, with high carbohydrate content but low protein.
 
-C. gracilis also provides microhabitat for tardigrades, nematodes, and various arthropods within its thallus. It contributes to soil stabilization and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in tundra ecosystems through its role in biological soil crust communities.
+C. gracilis also provides microhabitat for tardigrades, nematodes, and various arthropods within its thallus. It contributes to soil stabilization and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] in [[dighton-fungi-boreal-tundra-ecosystems]] through its role in biological soil crust communities.
 
 ## Ethnobotany and Uses
 
@@ -88,29 +88,3 @@ C. furcata has more irregular, antler-like branching and typically lacks a well-
 C. uncialis produces wider, more robust podetia and characteristically cups on the branch tips, which are absent in C. gracilis.
 
 ### Chemotype Variation
-
-The C. gracilis complex includes several infraspecific taxa that differ primarily in secondary chemistry rather than morphology. C. gracilis subsp. turbinata is distinguished by its wider podetia and the presence of thamnolic acid.
-
-Chemotype variation has biogeographic correlates, with fumarprotocetraric acid chemotypes predominating in oceanic regions and usnic acid-only chemotypes more common in continental interiors. This pattern reflects the influence of precipitation and humidity on secondary metabolite production.
-
-## Conservation Status
-
-Cladonia gracilis has not been formally assessed by the IUCN but is generally considered secure across most of its circumpolar range. However, local populations face threats from habitat disturbance and air pollution.
-
-In heavily industrialized regions of Europe, C. gracilis has experienced significant decline due to sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from fossil fuel combustion. The species is moderately sensitive to acidification and shows reduced growth rates near pollution sources.
-
-Climate change poses a long-term threat through permafrost thaw, shrub encroachment into tundra lichen mats, and increased wildfire frequency in boreal forests. These changes reduce available habitat and fragment existing lichen communities.
-
-Reindeer grazing management practices also affect C. gracilis populations. Overgrazing can reduce lichen cover by 50–80% in heavily utilized winter pastures, while moderate grazing maintains open habitat conditions favorable for the species.
-
-Timber harvesting and clear-cutting in boreal forests temporarily benefit C. gracilis by increasing light availability, but subsequent canopy closure gradually reduces populations. The species typically recovers within 30–50 years post-harvest under natural succession.
-
-## See Also
-
-- [[cladonia-stellaris]]
-- [[cladonia-arbuscula]]
-- [[cladonia-uncialis]]
-- [[cladonia-pyxidata]]
-- [[cetraria-islandica]]
-- [[flavoparmelia-caperata]]
-- [[evernia-prunastri]]

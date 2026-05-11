@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Glaser, B. & Woods, W.I. (2004). "Amazonian Dark Earths: Explorations in Space and Time." Springer.
   - Lehmann, J. et al. (2003). "ph-and-nutrient-availability-garden-soils and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin." Plant and Soil 249(2): 343-357.
   - Steiner, C. et al. (2007). "Long term effects of manure, charcoal and mineral fertilization on crop production and fertility on a highly weathered Central Amazonian upland soil." Plant and Soil 291(1-2): 275-290.
@@ -87,25 +88,3 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

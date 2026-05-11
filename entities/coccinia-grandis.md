@@ -19,11 +19,11 @@ sources:
 
 **Coccinia grandis** (L.) Voigt, commonly known as **ivy gourd**, is a perennial climbing vine in the family **Cucurbitaceae** widely grown across tropical Asia and Africa for its edible immature fruits and tender leaves.
 
-The species is valued as a productive vegetable crop in home gardens and smallholder farming systems throughout South and [[psilocybe-southeast-asia-pacific]].
+The species is valued as a productive [[vegetable-crop-demand-classification-fertility-matching-solomon]] in home gardens and smallholder farming systems throughout South and [[psilocybe-southeast-asia-pacific]].
 
-Ivy gourd is also recognized as an aggressive invasive species in several Pacific islands, Hawaii, and parts of Australia where it has escaped cultivation.
+Ivy gourd is also recognized as an aggressive invasive species in several [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Hawaii, and parts of Australia where it has escaped cultivation.
 
-Its rapid growth, high fruit production, and nutritional value have made it both a valued food plant and a problematic weed depending on context.
+Its rapid growth, high [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], and nutritional value have made it both a valued food plant and a problematic weed depending on context.
 
 ## Taxonomy and Morphology
 
@@ -81,35 +81,10 @@ Antioxidant activity in both fruits and leaves has been documented, attributed t
 
 ## Ecology and Uses
 
-In traditional South Asian and Southeast Asian cuisines, immature ivy gourd fruits are used in curries, stir-fries, sambar, and pickles.
+In traditional South Asian and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines, immature ivy gourd fruits are used in curries, stir-fries, sambar, and pickles.
 
 The crisp texture and mild, slightly bitter flavor of young fruits makes them a versatile ingredient that absorbs spices and sauces readily.
 
 In Ayurvedic and Siddha medicine, ivy gourd is prescribed for diabetes management, with both fresh juice and dried powder preparations used traditionally.
 
-The vine serves as a living fence and ground cover in tropical agroforestry systems, though its aggressive growth requires regular management to prevent it from overtopping companion crops.
-
-As an invasive species, ivy gourd poses significant ecological threats by smothering native vegetation and altering [[mollison-wet-tropical-forest-structure-and-polyculture]] — [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using [[bloomfield-fungal-pathogens-and-parasites]] and insect herbivores have been implemented in Hawaii and other affected regions.
-
-## Invasive Biology and Management
-
-*Coccinia grandis* is classified as one of the most problematic invasive vines in the tropical Pacific, capable of forming dense monocultures that exclude native plant species.
-
-The species spreads both vegetatively through stem fragmentation and sexually via bird-dispersed seeds, enabling rapid colonization of new areas.
-
-In Hawaii, the ivy gourd biocontrol program has released the weevil *Acythopeus cocciniae* and the moth *Melittia oedipus* as biological control agents with varying degrees of establishment and impact.
-
-Mechanical control requires complete removal of all stem material and root fragments, as even small pieces can regenerate into new vines.
-
-Chemical control using glyphosate-based herbicides has shown moderate effectiveness but requires repeated applications due to the vine's resilient root system.
-
-Integrated management combining biological control agents, mechanical removal, and community-based early detection programs has shown the most promising long-term results in affected Pacific island ecosystems.
-
-## See Also
-
-- [[trichosanthes-cucumerina]]
-- [[lagenaria-siceraria]]
-- [[basella-alba]]
-- [[abelmoschus-esculentus]]
-- [[dioscorea-alata]]
-- [[carica-papaya]]
+The vine serves as [[query-how-do-i-design-and-plant-a-living-fence]] and [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical agroforestry systems, though its aggressive growth requires regular management to prevent it from overtopping companion crops.

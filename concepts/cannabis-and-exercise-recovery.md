@@ -66,7 +66,7 @@ Cannabis provides analgesic effects through multiple mechanisms:
 
 ### Muscle Relaxation
 
-THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in multiple sclerosis patients). [[cannabis-topicals-guide|Cannabis topicals]] are particularly effective for targeted muscle relaxation without systemic effects.
+THC has muscle-relaxant properties through CNS modulation. CBD reduces muscle spasticity (studied in [[blesching-cannabis-multiple-sclerosis]] patients). [[cannabis-topicals-guide]] are particularly effective for targeted muscle relaxation without systemic effects.
 
 ### Sleep Enhancement
 
@@ -74,7 +74,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 - **THC:** Shortens sleep onset, may increase deep sleep. Long-term use may disrupt sleep architecture.
 - **CBD:** May improve sleep quality, particularly anxiety-related disturbance. Higher doses (160mg+) show sleep-promoting effects in studies.
-- **Myrcene and linalool:** Common cannabis terpenes associated with sedative and calming properties
+- **Myrcene and linalool:** Common [[cannabis-terpene-entourage-effect]] associated with sedative and calming properties
 - Timing matters: using cannabis too close to bedtime may disrupt REM sleep
 
 ### Stress Reduction
@@ -90,7 +90,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 In 2018, WADA removed CBD from prohibited substances. THC remains banned in competition. Key points:
 - Full-spectrum CBD products contain trace THC — athletes must ensure THC-free products
-- Third-party [[cannabis-testing-and-quality|testing]] of CBD products is critical
+- Third-party [[cannabis-testing-and-quality]] of CBD products is critical
 - Broad-spectrum CBD (no THC) may be the best compromise for athletes
 - Some sports organizations have additional restrictions beyond WADA rules
 
@@ -100,15 +100,15 @@ In 2018, WADA removed CBD from prohibited substances. THC remains banned in comp
 Harlequin, Cannatonic, ACDC, Sour Tsunami, Pennywise (1:1 CBD:THC).
 
 ### For Muscle Relaxation (indica-dominant, myrcene and linalool)
-Granddaddy Purple, Northern Lights, Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica|indica strain guide]] for more.
+[[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Afghan Kush, Blueberry. See [[marijuana-strain-guide-indica]] for more.
 
 ### For Sleep and Recovery
 
-High-myrcene, high-linalool indica strains: God's Gift, Bubba Kush, 9 Pound Hammer, Kosher Kush. See [[marijuana-strain-guide-indica|indica strain guide]].
+High-myrcene, high-linalool indica strains: God's Gift, Bubba Kush, 9 Pound Hammer, Kosher Kush. See [[marijuana-strain-guide-indica]].
 
 ### For Energy and Active Recovery
 
-Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Lemon Haze. See [[marijuana-strain-guide-sativa|sativa strain guide]].
+Sativa-dominant strains for light movement: Green Crack, Durban Poison, [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]. See [[marijuana-strain-guide-sativa]].
 
 ## Timing and Method of Consumption
 
@@ -147,4 +147,3 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Le
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
-

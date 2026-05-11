@@ -2,7 +2,7 @@
 
 ## Overview
 
-Whittaker (1977) first recognized that ecological diversity is scale-dependent and hierarchical in nature. For mycologists, this creates unique challenges because fungi operate across spatial scales ranging from micrometers (individual hyphal tips) to entire landscapes (mycelial networks spanning hectares). Understanding spatial scale is essential for designing sampling protocols, interpreting biodiversity data, and comparing results across studies.
+Whittaker (1977) first recognized that ecological diversity is scale-dependent and hierarchical in nature. For mycologists, this creates unique challenges because fungi operate across spatial scales ranging from micrometers (individual hyphal tips) to entire landscapes ([[fungal-mycelial-networks-nutrient-translocation]] spanning hectares). Understanding spatial scale is essential for designing [[lichen-biodiversity-sampling-protocols-data-analysis]], interpreting biodiversity data, and comparing results across studies.
 
 ## The Hierarchical Nature of Diversity
 
@@ -16,7 +16,7 @@ Also called within-habitat diversity. Alpha diversity is the diversity within a 
 
 ### Beta Diversity
 
-The change in species composition between habitats or along environmental gradients. Beta diversity quantifies how much species turnover occurs as one moves across space. It is by far the most commonly used metric of differentiation diversity for examining compositional changes along gradients.
+The change in species composition between habitats or along [[fungal-adaptations-environmental-gradients]]. Beta diversity quantifies how much species turnover occurs as one moves across space. It is by far the most commonly used metric of differentiation diversity for examining compositional changes along gradients.
 
 ### Gamma Diversity
 
@@ -34,10 +34,10 @@ Delta diversity describes the change in species composition between geographic r
 
 ### The Fungal Unit Problem
 
-Fungi present a fundamental challenge to biodiversity measurement because their body plan differs from most organisms:
+Fungi present a fundamental challenge to [[fungal-biodiversity-measurement-methods]] because their body plan differs from most organisms:
 - Most fungi consist of indeterminate mycelial networks rather than discrete individuals
 - A single mycelium can occupy microenvironments to macroenvironments simultaneously
-- Distant segments remain interconnected, facilitating intercellular communication
+- Distant segments remain interconnected, facilitating [[plasmodesmata-and-intercellular-communication-in-plants]]
 - Sporocarps on a forest floor may represent multiple ramets of a single genet or ramets from multiple genets
 - Only molecular or isozymic analyses can untangle genetic structure of fungal populations
 
@@ -47,7 +47,7 @@ For clonal organisms like fungi:
 - A **genet** is a unique genetic individual
 - A **ramet** is a physiologically independent module belonging to a genet
 - The number of countable units (ramets) is not the same as the number of genets
-- Without genetic analysis, diversity estimates based on sporocarp counts may dramatically over- or underestimate true genetic diversity
+- Without genetic analysis, [[fungal-diversity-estimates]] based on sporocarp counts may dramatically over- or underestimate true genetic diversity
 
 ### Operational Definitions
 
@@ -88,35 +88,3 @@ A powerful approach to addressing scale-dependency is nested or hierarchical sam
 - **Level 2**: Plots containing multiple samples from the same microhabitat
 - **Level 3**: Sites containing multiple plots across a habitat gradient
 - **Level 4 (coarsest)**: Regions containing multiple sites across a landscape
-
-This hierarchical structure allows researchers to partition diversity into components attributable to different spatial scales using methods such as additive partitioning of diversity (Lande 1996). The approach reveals whether most variation in fungal community composition occurs within microhabitats, among habitats within sites, or among sites across the landscape.
-
-### Additive Partitioning
-
-Additive diversity partitioning decomposes total gamma diversity into additive alpha and beta components at each spatial scale:
-```
-γ = α1 + β1 + β2 + β3 + ...
-```
-Where α1 is average within-sample diversity and each β component represents the diversity added by moving to the next broader spatial scale. This approach, recommended by Crist et al. (2003) and Veech et al. (2002), allows direct comparison of the relative contributions of different spatial scales to overall diversity.
-
-## Practical Guidelines for Mycologists
-
-1. **Define the spatial scale explicitly**: State plot size, shape, number, and arrangement before sampling begins
-2. **Match scale to question**: Large-scale questions require large-scale sampling; fine-scale mechanisms require fine-scale plots
-3. **Standardize across sites**: When comparing sites, use identical plot dimensions and sampling intensity
-4. **Consider the fungal unit**: Acknowledge whether operational units represent genets, ramets, or something else
-5. **Use molecular verification when possible**: Genetic data resolves ambiguities that morphology cannot
-6. **Report all spatial metadata**: GPS coordinates, elevation, habitat type, substrate, and microhabitat conditions
-7. **Address multiple scales**: Where feasible, include nested sampling designs that capture diversity across multiple spatial scales simultaneously
-8. **Beware of pseudoreplication**: Samples from the same mycelial individual are not independent replicates
-9. **Account for temporal variation**: Seasonal fruiting patterns mean that single-timepoint surveys capture only a fraction of true diversity
-
-## See Also
-
-- [[fungal-biodiversity-power-analysis-statistical-design-zak-willig]]
-
-- [[fungal-beta-diversity-similarity-indices-zak-willig]]
-- [[fungal-species-abundance-distributions-diversity-indices]]
-- [[biodiversity-fungi-soil-fungal-communities]]
-- [[fungal-biodiversity-data-analysis]]
-- [[fungal-biodiversity-species-estimation]]

@@ -88,16 +88,3 @@ the appropriate outcomes.
 Fukuoka's desert revegetation proposals attracted international attention and
 were tested in pilot projects in India, the Philippines, Tanzania, and the
 [[dmt-containing-plants-united-states-halpern]]. Results were mixed, with some sites showing promising
-establishment while others failed to achieve significant vegetation cover.
-Ecologists generally agreed with his diagnosis of vegetation-rainfall feedback
-loops but questioned whether clay pellet broadcasting alone could overcome the
-severe constraints of degraded soils, limited seed banks, and altered
-microclimates. The proposals contributed to broader discussions about the role
-of vegetation in climate regulation and informed later large-scale restoration
-initiatives.
-
-## See Also
-
-- [[natural-farming]]
-- [[desertification]]
-- [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]

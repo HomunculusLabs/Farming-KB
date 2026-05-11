@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,45 +87,3 @@ runoff to maintain proper nutrient balance.
 ### Slab System Configurations
 
 Cervantes describes several slab layouts:
-
-- Individual trays: slabs placed in individual trays with separate
-  drainage
-- Drainage tables: slabs lined up on a sloped table with a catchment
-  drain directing nutrient back to the reservoir
-- Vertical arrangements: slabs positioned vertically around a
-  central light source in recirculating vertical gardens
-- Direct container placement: rockwool or coco slabs in individual
-  pots for flexible garden layouts
-
-## Monitoring Slab EC
-
-In recirculating slab systems, the EC within the slab can differ
-from the reservoir EC. Plants selectively absorb water and nutrients
-at different rates, causing the slab EC to increase over time as
-water is consumed faster than dissolved solids. Cervantes advises
-monitoring the EC of the slab, the reservoir, and the runoff
-simultaneously to detect imbalances before they stress plants.
-
-## Emitter Types and Selection
-
-Cervantes describes several emitter types for hydroponic delivery.
-Circular emitters apply nutrient solution all the way around the
-plant so all roots receive adequate moisture. Spray emitters
-disperse solution over the top of the growing medium to aerate and
-distribute it evenly. Mini-sprinkler emitters are also available.
-The choice of emitter depends on the growing medium -- absorbent
-media like rockwool and coco coir work well with single application
-points, while expanded clay performs best with large round emitters,
-several single emitters, or spray emitters.
-
-Always use a filter when using emitters to remove foreign objects
-that could plug them. A clogged emitter can cause localized drought
-stress in one plant while others remain healthy, making diagnosis
-difficult.
-
-## See Also
-
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - DWC and water-based systems
-- [[cervantes-nutrient-solution-reservoir-management]] - reservoir
-  maintenance
-- [[cervantes-growing-medium]] - medium selection and properties

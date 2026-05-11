@@ -1,5 +1,5 @@
 ---
-title: Stigmasterol as [[stigmasterol-as-brassinosteroid-biosynthetic-precursor]] to [[brassinosteroids-in-fungal-cultivation]] Systems
+title: Stigmasterol Brassinosteroid Biosynthetic Precursor Fungal Systems
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 topics: [stigmasterol, biosynthesis, brassinosteroid, sterol pathway, fungal chemistry]
 ---
@@ -22,7 +22,7 @@ Stigmasterol (C₂₉H₄₈O) is a plant-derived phytosterol with the IUPAC nam
 (3S,8S,9S,10R,13R,14S,17R)-17-[(2R,5R)-5-ethyl-6-methylheptan-2-yl]-10,13-dimethyl-
 2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol. It is
 structurally similar to cholesterol but contains additional methyl and ethyl groups on
-the side chain at positions C-24 and C-29, respectively.
+the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at positions C-24 and C-29, respectively.
 
 Key characteristics of stigmasterol:
 - Molecular weight: 412.7 g/mol
@@ -34,7 +34,7 @@ Key characteristics of stigmasterol:
 
 Stigmasterol is one of the three most common phytosterols in the human diet, alongside
 β-sitosterol and campesterol. It is commercially available and relatively inexpensive,
-making it a practical starting material for brassinosteroid synthesis.
+making it a practical [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for brassinosteroid synthesis.
 
 ## The Biosynthetic Pathway from Stigmasterol to Homobrassinolide
 
@@ -79,7 +79,7 @@ synthesis:
    hydroxylation. This is in contrast to campesterol (C-24 methyl), which would yield
    brassinolide rather than homobrassinolide.
 
-3. **Natural abundance**: Stigmasterol is readily extracted from plant sources in
+3. **[[gadd-saprotrophic-fungi-15n-13c-natural-abundance-isotopes]]**: Stigmasterol is readily extracted from plant sources in
    multi-kilogram quantities, making it economically viable as a starting material
    for semi-synthesis.
 
@@ -88,60 +88,3 @@ synthesis:
    stereochemical control.
 
 ## Fungal Sterol Biosynthesis: Can Fungi Make Their Own Brassinosteroids?
-
-The critical unanswered question raised by the Gartz study is whether fungi possess
-the enzymatic machinery to convert their endogenous sterols into brassinosteroids.
-Fungi produce **ergosterol** as their primary membrane sterol, which differs from
-stigmasterol in several important ways:
-
-| Feature | Ergosterol (fungal) | Stigmasterol (plant) |
-|---------|-------------------|---------------------|
-| C-24 substituent | Methyl group | Ethyl group |
-| C-5/C-6 bond | Double bond | Single bond |
-| C-7/C-8 bond | Double bond | Single bond |
-| C-22/C-23 | Double bond | Single bond |
-
-The structural differences suggest that fungi would need distinct enzymatic steps
-to produce brassinosteroid-like compounds from ergosterol. However, the dramatic
-response of *P. cubensis* to exogenous brassinosteroid suggests that either:
-- The fungus has receptor systems for brassinosteroids (implying an endogenous role),
-  or the brassinosteroid acts through non-specific membrane/permeability effects.
-- Fungi may produce brassinosteroid-like compounds from ergosterol through
-  as-yet-undiscovered biosynthetic pathways.
-
-## Ergosterol-to-Brassinosteroid Hypothesis
-
-If fungi can produce brassinosteroids endogenously, the pathway would likely diverge
-from the ergosterol biosynthetic pathway at the point where side chain modification
-begins. The key enzymes would be:
-- **C-22/C-23 hydroxylases**: Cytochrome P450 enzymes capable of hydroxylating the
-  sterol side chain at positions 22 and 23
-- **C-6 oxidase**: An enzyme introducing the characteristic C-6 ketone
-- **Lactone-forming enzymes**: Enzymes capable of forming the characteristic
-   brassinolide lactone ring
-
-The existence of such enzymes in fungi would represent a remarkable example of
-convergent evolution between plants and fungi, as brassinosteroids were previously
-thought to be exclusively plant compounds.
-
-## Practical Implications for Cultivation
-
-The stigmasterol-brassinosteroid relationship has practical implications:
-- **[[chen-maitake-substrate-formulation]]**: Sterol-rich substrates (grains, legumes) may provide
-  brassinosteroid precursors convertible by [[singh-fungal-metabolism-pahs]].
-- **Supplementation strategy**: Adding stigmasterol could serve as a cheaper precursor
-  alternative to purified brassinosteroids if the fungus has the biosynthetic enzymes.
-- **Strain selection**: Strains with higher sterol-modifying enzyme expression might
-  show enhanced growth on sterol-rich substrates.
-
-## References
-
-- Adam, G., Marquardt, V. (1986). Phytochemistry 25, 1787.
-- Gartz, J., Adam, G., Vorbrodt, H.-M. (1990). Naturwissenschaften 77, 388–389.
-
-## See Also
-
-- [[22s-23s-homobrassinolide]] — The brassinosteroid product of this synthesis
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] — Detailed chemistry
-- [[brassinosteroid-natural-occurrence-plant-kingdoms]] — Brassinosteroid distribution
-- [[brassinosteroid-phytohormones]] — Brassinosteroids as phytohormones

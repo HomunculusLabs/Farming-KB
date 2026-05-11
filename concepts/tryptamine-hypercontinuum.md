@@ -1,6 +1,6 @@
 ---
 title: Tryptamine Hypercontinuum
-source: [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness (Terence McKenna, 1983/1992)
+source: [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness ([[terence-mckenna]], 1983/1992)
 tags: [tryptamine, consciousness, mckenna, psychedelics, phenomenology]
 created: 2026-05-09
 ---
@@ -21,7 +21,7 @@ language, and the nature of reality.
 
 ## The Tryptamine Family
 
-The tryptamine hallucinogens discussed by McKenna share a common structural
+The [[psilocybin-and-tryptamine-hallucinogens]] discussed by McKenna share a common structural
 basis: they are all derivatives of tryptophan, the essential [[cho-fish-amino-acid-preparation]] that
 is also the precursor to serotonin (5-hydroxytryptamine), the principal
 neurotransmitter modulating mood, perception, and cognition in the human
@@ -33,13 +33,13 @@ brain. The three key compounds are:
   intense" tryptamine experience.
 
 - **Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine)**: The active
-  compound in psychedelic mushrooms (*Psilocybe* species). Orally active
+  compound in [[archaeology-of-psychedelic-mushrooms]] (*Psilocybe* species). Orally active
   with onset in thirty to sixty minutes and a duration of four to six hours.
   The experience is less intense than DMT but longer-lasting, allowing more
   sustained interaction with the phenomenological content.
 
 - **Ayahuasca**: A brew combining DMT-containing plants (typically
-  *Psychotria viridis*) with MAO-inhibiting plants (typically
+  *[[chacruna-psychotria-viridis]]*) with MAO-inhibiting plants (typically
   *Banisteriopsis caapi*), rendering DMT orally active. The experience lasts
   several hours and is described as more integrative and less overwhelming
   than smoked DMT, though no less profound.
@@ -73,7 +73,7 @@ dimension accessible through the tryptamine compounds.
 ## The Self-Transforming Machine Elves
 
 McKenna's most famous description from the tryptamine hypercontinuum is the
-"self-transforming machine elves" — the hyperdimensional entities encountered
+"self-transforming machine elves" — the [[tryptamine-hyperdimensional-entities]] encountered
 in the DMT state. He described them as "dynamically contorting topological
 modules that are somehow distinct from the surrounding background, which is
 itself undergoing a continuous transformation." The entities emit sounds
@@ -87,47 +87,3 @@ The elves reassure the experiencer — "Don't be alarmed. Remember, and do
 what we are doing" — while simultaneously challenging them to avoid being
 overwhelmed by wonder and to focus on understanding the information being
 presented.
-
-## The Black Hole Effect
-
-McKenna coined the term "black hole effect" to describe the epistemological
-difficulty of communicating DMT experiences to others. Just as no signal can
-escape a gravitational singularity, no adequate description can escape the
-[[mckenna-dmt-experience-and-hyperspace]] reach those who have not had it. "The more one is able to
-articulate what it is, the less others are able to understand." McKenna
-suggested this is why enlightened individuals across traditions tend toward
-silence — not because they have nothing to say, but because what they have
-to say is fundamentally incommunicable through ordinary language.
-
-## Psychedelics and the Future of Consciousness
-
-McKenna argued that the tryptamine experiences point toward an evolutionary
-trajectory for human consciousness. "The future is bound to be psychedelic,
-because the future belongs to the mind." He envisioned a "[[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
-Mitzvah" — a critical juncture at which consciousness would be "exteriorized"
-as a "superconducting lens of [[mckenna-translinguistic-matter-and-exteriorized-soul]] generated out of the
-body," while the physical body would be "internalized." This vision, while
-speculative, was McKenna's attempt to give linguistic form to the
-transcendental content of tryptamine experiences and to argue that these
-experiences are not anomalies but glimpses of humanity's developmental
-potential.
-
-## The Shamanic Context
-
-McKenna situated the tryptamine hypercontinuum within the broader context of
-shamanism. He distinguished shamanism from religion: "Shamanism is primarily
-techniques, not ritual. It is a set of techniques that have been worked out
-over millennia that make it possible, though perhaps not for everyone, to
-explore these areas." Shamans, in McKenna's experience, are "the true
-phenomenologists of this world; they know plant chemistry, yet they call
-these energy fields 'spirits.'" The Western loss of this tradition, McKenna
-argued, represents a catastrophic alienation from dimensions of experience
-that are accessible to the human nervous system and potentially vital for
-the species' future.
-
-## See Also
-
-- [[dmt-nn-dimethyltryptamine]]
-- [[psilocybin-pharmacology]]
-- [[ayahuasca-pharmacology-and-safety]]
-- [[shamanism-and-hallucinogenic-plants]]

@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance. (see [[lsd-reference]]).
+[[lsd-d-lysergic-acid-diethylamide]] (LSD) is one of the most potent [[cultural-evolution-and-psychoactive-substances]] known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
 
-This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals. (see [[dm-reference]]).
+This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals.
 
 ## Discovery by Albert Hofmann
 
 ### The Context
-In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus (Claviceps purpurea) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid. (see [[roland-griffiths]]).
+In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid.
 
 ### LSD-25
 On November 16, 1938, Hofmann synthesized the 25th compound in his lysergic acid amide series: lysergic acid diethylamide, or LSD-25. Initial pharmacological testing showed mild effects on uterine contractions in animals, and the compound was shelved as not particularly interesting.
@@ -42,12 +42,12 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 - **Psychosis research**: LSD was studied as a "psychotomimetic" — a drug that temporarily produces psychosis-like states
 - **Creativity**: Studies explored LSD's effects on creative problem-solving
 - **Pain management**: Research on LSD for terminal cancer patients, reducing anxiety about death
-- **Consciousness**: Early consciousness research and mystical experience studies
+- **Consciousness**: Early consciousness research [[psilocybin-and-mystical-experience]] studies
 
 ### Key Researchers
 - **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
 - **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
-- **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
+- **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for [[controlled-substances-act-and-psychedelic-research]]
 - **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
 - **Timothy Leary**: Harvard professor who began researching psilocybin and LSD, later became the most prominent advocate of psychedelic use
 
@@ -102,7 +102,7 @@ After criminalization, LSD production moved entirely underground:
 ### Clinical Renaissance
 Since the 2000s, there has been renewed interest in LSD for therapeutic use:
 
-- MAPS (Multidisciplinary Association for Psychedelic Studies) has supported research
+- MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) has supported research
 - Modern clinical trials are investigating LSD for anxiety, depression, cluster headaches, and end-of-life distress
 - Switzerland has permitted limited therapeutic use of LSD under compassionate use protocols
 
@@ -113,3 +113,17 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
+- [[4-hydroxyindole-tryptamine-synthesis-building-block]]
+- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
+- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]]
+- [[brassinosteroid-homobrassinolide-chemistry-synthesis]]

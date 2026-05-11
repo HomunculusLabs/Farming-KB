@@ -14,7 +14,7 @@ sources:
   - Blanchette, R.A. et al. (2004). "The white-rot fungus Ceriporiopsis subvermispora." Applied Microbiology and Biotechnology.
   - Martínez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus Ceriporiopsis subvermispora." Nature Biotechnology, 22(6), 679-684.
   - Rayner, A.D.M. & Boddy, L. (1988). Fungal Decomposition of Wood. Cambridge University Press.
-  - Otjen, L. & Blanchette, R.A. (1986). "A discussion of lignocellulose degradation by Ceriporiopsis subvermispora." Biodeterioration Research, 1, 403-415.
+  - Otjen, L. & Blanchette, R.A. (1986). "A discussion of [[lignocellulose-degradation-by-fungi]] Ceriporiopsis subvermispora." Biodeterioration Research, 1, 403-415.
   - Fernández-Fueyo, E. et al. (2012). "Comparative genomics of Ceriporiopsis subvermispora and staycare-phanerochaete-chrysosporium-in-bioremediation." Applied and Environmental Microbiology, 78(15), 5398-5410.
 created: 2026-04-28
 ---
@@ -49,7 +49,7 @@ Unlike many polypores, *C. subvermispora* rarely produces conspicuous fruiting b
 
 ## Distribution and Habitat
 
-The species has a broad distribution across temperate and subtropical forests worldwide, with documented collections from North America, Europe, East Asia, and South America.
+The species has a broad distribution across temperate and subtropical forests worldwide, with documented collections from [[guzman-psilocybin-mushrooms-north-america]], Europe, East Asia, and South America.
 
 It primarily colonizes fallen hardwood logs and branches, especially angiosperm substrates such as oak, beech, birch, and eucalyptus. It has also been isolated from softwood substrates including pine and spruce.
 
@@ -57,9 +57,9 @@ Optimal growth occurs at temperatures of 25–30°C on a range of wood substrate
 
 ## Enzymatic System and Biopulping
 
-*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by [[fungal-manganese-peroxidase-remediation]] (MnP) and laccase, while notably lacking lignin peroxidase (LiP), which distinguishes it from the model white-rot fungus *Phanerochaete chrysosporium*.
+*Ceriporiopsis subvermispora* produces a distinctive ligninolytic enzyme system dominated by [[fungal-manganese-peroxidase-remediation]] (MnP) and laccase, while notably lacking [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP), which distinguishes it from the model white-rot fungus *[[phanerochaete-chrysosporium]]*.
 
-The genome of *C. subvermispora* strain PST-78, sequenced in 2004, revealed a compact repertoire of 11 manganese peroxidase genes and 17 laccase genes, along with genes encoding several dye-decolorizing peroxidases.
+The genome of *C. subvermispora* strain PST-78, sequenced in 2004, revealed a compact repertoire of 11 [[manganese-peroxidase-mechanism]] genes and 17 laccase genes, along with genes encoding several dye-decolorizing peroxidases.
 
 Its selective lignin degradation mechanism involves the generation of Mn³⁺-organic acid complexes that act as diffusible oxidants, penetrating the lignin-rich middle lamella of wood cell walls while preserving the cellulose-rich secondary wall.
 
@@ -85,27 +85,6 @@ The fungus has also been investigated for bioremediation of dye-contaminated was
 
 ## Cultivation and Research Methods
 
-*Ceriporiopsis subvermispora* is maintained on standard mycological media including malt extract agar (MEA) and potato dextrose agar (PDA). Optimal growth temperature in culture is 27–29°C with a pH range of 4.5–6.0.
+*Ceriporiopsis subvermispora* is maintained on standard mycological media including [[malt-extract-agar]] (MEA) and potato dextrose agar (PDA). Optimal growth temperature in culture is 27–29°C with a pH range of 4.5–6.0.
 
 The fungus colonizes wood chip substrates relatively slowly compared to competing decay fungi, which is both a limitation for industrial application and an advantage for selective delignification — slower growth allows more targeted lignin removal.
-
-In biopulping trials, inoculation is typically performed using a grain spawn or liquid culture homogenate applied to wood chips at 5–10% w/w moisture content. Pretreatment periods of 2–8 weeks are standard, depending on the target application.
-
-Strain improvement through mutagenesis and [[fukuoka-textdoc-genetic-engineering-critique-warning]] has been explored to enhance MnP production and accelerate colonization rates for commercial-scale deployment.
-
-## Related Species
-
-*Ceriporiopsis subvermispora* is most closely compared to other white-rot species within Polyporales:
-
-- **Phanerochaete chrysosporium** — the canonical white-rot model; differs by producing LiP and showing less selective lignin degradation.
-- **Bjerkandera adusta** — a co-occurring white-rot species with a broader enzyme repertoire including [[singh-versatile-peroxidase-vp-multifunctional]].
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — a common polypore with strong laccase activity; less selective in lignin removal.
-- **Irpex lacteus** — a resupinate white-rot fungus with potent MnP activity and bioremediation potential.
-
-## See Also
-
-- [[phellinus-linteus]]
-- [[irpex-lacteus]]
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[coriolopsis-polyzona]]
-- [[enzymatic-degradation-in-mycoremediation]]

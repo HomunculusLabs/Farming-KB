@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - gottlieb-psilocybin-cultivation-bulk-substrate-preparation
   - gottlieb-psilocybin-cultivation-contamination-prevention
   - gottlieb-psilocybin-cultivation-equipment-and-facilities

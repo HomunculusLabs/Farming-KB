@@ -20,7 +20,7 @@ sources:
 
 **Normandina pulchella**, commonly known as the shell lichen or button lichen, is a small foliose lichen in the family Parmeliaceae.
 
-It is widespread in temperate regions of Europe, North America, and parts of Asia.
+It is widespread in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia.
 
 The species forms distinctive rounded, shield-like thalli that superficially resemble tiny seashells on bark and rock surfaces.
 
@@ -68,7 +68,7 @@ It also colonizes moss-covered rocks, stone walls, and occasionally concrete sur
 
 The species favors shaded, humid microhabitats and is frequently found in old-growth forests with high humidity.
 
-It is less common in open, exposed sites and generally avoids areas with high air pollution.
+It is less common in open, exposed sites and generally avoids areas with high [[air-pollution-fungal-community-responses]].
 
 Elevation range extends from near sea level to approximately 1500 m in mountainous areas.
 
@@ -87,43 +87,3 @@ The species does not produce usnic acid, distinguishing it from many superficial
 The zeorin chemotype is consistent across its geographic range, with little chemical variation reported.
 
 Some specimens may contain trace amounts of atranorin degradation products or additional triterpenes.
-
-## Ecology and Interactions
-
-**Normandina pulchella** is a relatively shade-tolerant lichen that thrives in humid, sheltered forest microhabitats.
-
-It is often one of the early colonizers of smooth bark surfaces in mature forests.
-
-The species contributes to the epiphytic lichen diversity that characterizes old-growth temperate forests.
-
-It serves as a microhabitat for various microarthropods, including tardigrades and mites.
-
-The coarse soredia facilitate colonization of new substrates within relatively short distances.
-
-Its sensitivity to air pollution makes it a useful bioindicator of forest [[cervantes-air-quality-ventilation]] in Europe.
-
-Declining populations in urban and industrial areas have been documented in several European countries.
-
-The species is not known to be lichenivorous or to have significant herbivore interactions.
-
-## Similar Species
-
-**Normandina pulchella** is most commonly confused with species of *Physcia* due to its small size and gray thallus.
-
-It is distinguished from *Physcia* species by its convex, button-shaped lobes and the presence of zeorin rather than physodic or physodic acids.
-
-*Physcia stellaris* has more flattened, elongated lobes and produces atranorin and zeorin with K+ yellow reactions.
-
-*Dimelaena radiata* forms a similar crustose-like thallus but contains usnic acid and has a different photobiont.
-
-The monotypic nature of *Normandina* helps confirm identification once the key features are recognized.
-
-The combination of small, convex, shield-like lobes with marginal soralia and zeorin chemistry is diagnostic.
-
-## See Also
-
-- [[physcia-aipolia]]
-- [[hypogymnia-physodes]]
-- [[lecanora-chlorotera]]
-- [[cladonia-rangiferina]]
-- [[lobaria-pulmonaria]]

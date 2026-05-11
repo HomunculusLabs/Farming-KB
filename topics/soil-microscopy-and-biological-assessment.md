@@ -5,6 +5,7 @@ tags: [soil-biology, microscopy, soil-food-web, compost-tea, nematodes, protozoa
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - /Users/t3rpz/wiki/concepts/ingham-microscope-identification-soil-biology.md
   - /Users/t3rpz/wiki/concepts/microscope-identification-soil-organisms.md
   - /Users/t3rpz/wiki/concepts/ingham-field-guide-compost-tea-microscope-analysis.md

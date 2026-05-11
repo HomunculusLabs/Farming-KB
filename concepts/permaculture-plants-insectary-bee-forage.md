@@ -1,5 +1,5 @@
 ---
-title: permaculture-insectary-plants and mollison-designers-bee-forage-tree-planting Systems
+title: Permaculture Plants Insectary Bee Forage
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -85,29 +85,6 @@ Supplement remnant forest with multipurpose species, emphasising those flowering
 
 ### Other Native Bee Forage
 - Dryandra spp (nectar): Autumn, winter
-- Grevillea spp: Wildflower potential for oil production
+- Grevillea spp: Wildflower potential for [[cannabis-honey-oil-production]]
 - Hakea eriantha: Spring (nectar)
 - Hakea francisiana: Winter, spring
-- Eucryphia lucida (leatherwood): Extended nectar flow
-
-## Other [[chinese-tallow-tree]]
-- Citrus: High honey producers
-- Grey mangrove: Autumn, winter; good light honey
-- Ivy
-- [[permaculture-japanese-raisin-tree-hovenia-dulcis]] tree
-- Marsh marigold
-- Palms: Most are fire tolerant and useful in bee forage systems
-- Pride of Madeira: Masses of winter flowers
-- Prunus spp (nectar, pollen): Spring
-- Tupelo
-
-## [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for Pollinator Support
-
-### Key Companion Relationships
-- **Apple**: Tagasaste, lucerne, wallflowers, chives, nasturtiums, garlic, mulberry
-- **Citrus**: Lucerne, tagasaste, raspberries, guava, garlic
-- **Peach/nectarine**: Tagasaste, lucerne, garlic, tansy
-- **Grapes**: Geraniums, mulberry, hyssop, basil, peas, beans, garlic
-
-### Vegetable Companions that Support Pollinators
-- **Borage**: Strawberries (long bee forage season)

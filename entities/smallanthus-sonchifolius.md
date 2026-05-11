@@ -5,7 +5,7 @@ tags:
   - asteraceae
   - edible-tuber
   - herbal-plant
-  - permaculture
+  - [[permaculture]]
   - prebiotic
   - Andean-crop
   - functional-food
@@ -21,11 +21,11 @@ created: 2026-05-07
 
 ## Overview
 
-Smallanthus sonchifolius, commonly known as yacon, is a perennial daisy species native to the Andean regions of South America. It is cultivated primarily for its crisp, sweet tuberous roots, which are rich in fructooligosaccharides (FOS).
+Smallanthus sonchifolius, commonly known as yacon, is a perennial daisy species native to the Andean regions of [[guzman-psilocybin-mushrooms-south-america]]. It is cultivated primarily for its crisp, sweet tuberous roots, which are rich in fructooligosaccharides (FOS).
 
 The species has been domesticated for centuries by indigenous peoples of the Andes, particularly in Peru, Bolivia, and Ecuador. It grows at elevations between 1,000 and 3,500 meters.
 
-Yacon has gained international attention as a functional food due to its low glycemic index and prebiotic properties. The tubers are eaten raw as a fruit-like snack, while the leaves are used in traditional herbal medicine.
+Yacon has gained international attention as a functional food due to its low glycemic index and prebiotic properties. The tubers are eaten raw as a fruit-like snack, while the leaves are used in traditional [[childrens-herbal-medicine]].
 
 ## Taxonomy
 
@@ -67,7 +67,7 @@ The tubers also contain phenolic acids (chlorogenic, caffeic, and ferulic acids)
 
 ## Pharmacology
 
-Inulin-type FOS from yacon are not metabolized by human digestive enzymes, reaching the colon intact where they selectively promote growth of beneficial Bifidobacterium and Lactobacillus species.
+Inulin-type FOS from yacon are not metabolized by human digestive enzymes, reaching the colon intact where they selectively promote growth of beneficial Bifidobacterium and [[lactobacillus]] species.
 
 Clinical studies have shown that yacon syrup consumption improves insulin sensitivity, reduces fasting glucose, and supports weight management. A 2009 study demonstrated significant reductions in body weight and waist circumference after 120 days of daily yacon syrup intake.
 
@@ -88,28 +88,3 @@ Yacon is propagated from stem cuttings or crown divisions, as [[cervantes-seed-p
 Plants require full sun to partial shade and moderate water. They are relatively pest-free and disease-resistant, making them suitable for low-input and organic cultivation systems.
 
 Yields of 30–60 tonnes per hectare are achievable under good conditions. Tubers should be harvested before hard frost and stored in cool, dry conditions. They remain viable for several months if kept from freezing.
-
-## Permaculture Applications
-
-Yacon fits well into food forest and perennial vegetable systems. Its tall growth provides shade for understory plants during summer, while the dying-back tops add [[hamilton-composting-and-organic-matter-management]] in winter.
-
-The deep root system helps break compacted soils and brings up nutrients from lower soil horizons. The high [[dighton-fungal-biomass-production-aquatic-ecosystems]] makes yacon a useful [[comparison-green-manure-guide-vs-mulch-types-and-effects]] crop in rotation systems.
-
-It can serve as a companion plant in diverse polycultures with other Andean root crops. The species' [[cannabis-disease-pest-resistance-breeding-clarke]] reduces the need for inputs in integrated growing systems.
-
-## History and Ethnobotany
-
-Yacon has been cultivated in the Andes for over 1,000 years, as evidenced by ceramic representations found at archaeological sites in Peru. The Moche and Nazca cultures depicted yacon in their art.
-
-In traditional Andean medicine, yacon leaves are prepared as an infusion for diabetes and digestive complaints. The tubers are consumed as a refreshing snack and digestive aid.
-
-Spanish chroniclers documented yacon cultivation in the 16th century. The species was largely forgotten outside South America until the 1980s, when Japanese researchers identified its FOS content and sparked renewed international interest.
-
-## See Also
-
-- [[helianthus-tuberosus]]
-- [[ullucus-tuberosus]]
-- [[verbascum-thapsus]]
-- [[stropharia-rugosoannulata]]
-- [[urtica-dioica]]
-- [[medicago-sativa]]

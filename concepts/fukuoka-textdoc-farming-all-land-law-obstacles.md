@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 8145-8337)
 type: concept
 ---
@@ -47,7 +48,7 @@ Recently, led by individuals aware of the danger of being swallowed up by urban 
 
 Although both encounter the same nature, the city youth sees a natural world that is nothing more than a vision or dream, while what the rural youth works is not earth, but merely soil. Between the producer and consumer, both of whom are concerned with the same problems and should handle these jointly, lies an endless parade of organizations, merchants, and politicians.
 
-The consumer, who denounces food contamination, has himself sown the seeds of pollution. The politician who laments the course taken by modern agriculture rejoices at the decrease in the number of farmers. The very corporations that have prospered from an agricultural base have brought farmers to ruin.
+The consumer, who denounces food contamination, has himself sown the seeds of pollution. The politician who laments the course taken by [[fukuoka-critique-modern-agriculture]] rejoices at the decrease in the number of farmers. The very corporations that have prospered from an agricultural base have brought farmers to ruin.
 
 All parties are merely concerned with their own interests and continue to act at cross purposes. The primary obstacle to returning to farming lies within people themselves.
 
@@ -86,37 +87,3 @@ These farmlands can be expanded and made fluid not by establishing new laws but 
 The fundamental principle is simple: land belongs to those who work it. When legal barriers prevent willing workers from accessing land, the law itself becomes the problem, not the solution.
 
 ## Farmland Pricing and Taxation
-
-The current price of farmland has been artificially inflated over the natural price. Until recently, the price of farmland was always stable. For prime farmland, the best price was 110 bushels of rice per quarter-acre.
-
-Farmers used this rate as a yardstick whenever they bought and sold land to each other. Prices and taxes on farmland became unjustly high when it began to be assessed on the same scale as housing land by local government. This was clearly designed to drive farmers off the land by burdening them with taxes too high to afford.
-
-Support was easily drummed up among city dwellers with the argument that freeing farmland for use as housing land would probably drive down prices. But this turned out to be just wishful thinking; land released in this way never came within the reach of the common man.
-
-## Fukuoka's Proposed Solution
-
-The problem boils down to this: only scoundrels, the clever, and those in power stand to gain from the issuance and abuse of a barrage of capricious laws. The net result is that the land is being taken out of the hands of farmers.
-
-When people can do without a law, it is best not to have that law. Only the barest minimum of laws is needed to create a world that can get along without laws. Were it necessary to have a single law, then it should be: "One shall build one's house at least sixty feet from one's neighbor."
-
-If people were to scatter out and build a small house on a quarter-acre wherever they pleased, then the food problem would take care of itself, water and sewage lines would not be needed, and the problem of pollution would be licked. That is not all; this would also be the quickest path to making our lands a paradise on earth.
-
-## Running a Farm on a Quarter-Acre
-
-The reason the farmers of the past were poor and hungry was not that their land was too small to support them. Their poverty was not of their own making. They were the victims of outside forces: an oppressive social system and political and economic mechanisms beyond their control.
-
-Farmers at the time were said to grow a hundred crops. In the paddy field and vegetable gardens, they raised rice, barley, and other grains, as well as [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] and many different vegetables. Fruits ripened on trees next to the farmhouse, which was surrounded by a shelterbelt.
-
-A cow was kept under the same roof and chickens ran about loose in the farmyard, protected by a dog. A beehive hung from the eaves. All peasants were totally self-supporting and enjoyed the richest and safest possible diet.
-
-The proof lies in the postwar experience. Following the war, farms increased steadily in size as the method of cultivation changed, going from one, to two, to four acres. Although the amount of farmland increased, more and more peasants abandoned farming and left the land.
-
-Today, full-time farm households in Japan have grown to 15 and even 25 acres in size, as large as farms in many Western countries. At the same time, they have become increasingly unstable and even run the danger of collapse.
-
-The evidence is clear: more land per household has not meant greater security or prosperity. It has meant greater dependence on external inputs, greater debt, and greater vulnerability to market fluctuations.
-
-## Related
-
-- [[fukuoka-textdoc-farming-economics-quarter-acre-self-sufficiency]]
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
-- [[fukuoka-textdoc-farming-for-all-vision]]

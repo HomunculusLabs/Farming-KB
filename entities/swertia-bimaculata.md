@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
   - Kumar, V. & Van Staden, J. (2016). "Swertia: A genus of potent medicinal plants." Journal of Ethnopharmacology, 176, 209–229.
-  - Joshi, P. & Dhawan, V. (2005). "Swertia chirayita — an overview." Current Science, 89(4), 635–640.
+  - Joshi, P. & Dhawan, V. (2005). "[[swertia-chirayita]] — an overview." Current Science, 89(4), 635–640.
   - Royal Botanic Gardens Kew. "Swertia bimaculata." Plants of the World Online.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Swertia bimaculata is a biennial or short-lived perennial herb in the family Gentianaceae. It is native to the Himalayan foothills and montane regions of South and Southeast Asia, where it grows in damp meadows and forest clearings.
+Swertia bimaculata is a biennial or short-lived perennial herb in the family Gentianaceae. It is native to the Himalayan foothills and montane regions of South and [[psilocybe-southeast-asia-pacific]], where it grows in damp meadows and forest clearings.
 
 The species is named for the two prominent dark nectar glands (maculae) on each corolla lobe. These distinctive markings make it one of the more ornamental Swertia species.
 
@@ -32,7 +32,7 @@ In traditional medicine systems of the Himalayan region, Swertia bimaculata is v
 
 Stems are erect, typically unbranched, reaching 40–100 cm in height. The stem is terete, glabrous, and often purplish at the base.
 
-The species is a biennial, producing a basal rosette in year one and a flowering stem in year two. After seed set, the plant dies, completing its monocarpic life cycle.
+The species is a biennial, producing a basal rosette in year one and a flowering stem in year two. After seed set, the plant dies, completing its monocarpic [[agaricus-campestris-biology-and-life-cycle]].
 
 Basal leaves form a rosette in the first year. They are ovate to elliptic, 5–15 cm long, with distinct petioles and entire margins.
 
@@ -62,7 +62,7 @@ In Yunnan, populations are frequently encountered in Abies and Rhododendron fore
 
 ## Ecology
 
-Swertia bimaculata is a biennial or short-lived monocarpic perennial. The first year is spent as a basal rosette, with flowering and seed production in the second or third year.
+Swertia bimaculata is a biennial or short-lived monocarpic perennial. The first year is spent as a basal rosette, with flowering and [[cannabis-controlled-pollination-seed-production]] in the second or third year.
 
 Pollination is primarily by flies and small bees attracted to the nectar glands. The dark maculae serve as nectar guides, directing pollinators to the floral rewards.
 
@@ -72,7 +72,7 @@ Seed production is prolific, with individual plants producing 500–2,000 seeds.
 
 The species is a poor competitor in closed vegetation. It relies on natural disturbance or grazing to maintain open patches for seedling establishment.
 
-Conservation status has not been formally assessed by IUCN. However, overharvesting of related Swertia species for medicinal trade raises concern about population pressures.
+[[fungal-biodiversity-conservation-status]] has not been formally assessed by IUCN. However, overharvesting of related Swertia species for medicinal trade raises concern about population pressures.
 
 Some populations in Sikkim and Bhutan have declined due to unregulated collection. Cultivation programs are being developed as a conservation strategy for medicinally important Swertia species.
 
@@ -82,39 +82,8 @@ Swertia bimaculata is used in Ayurvedic and Tibetan traditional medicine as a bi
 
 The bitter principles are attributed to xanthone compounds, particularly swerchirin and decussatin. These compounds have demonstrated hepatoprotective activity in laboratory studies.
 
-Xanthone content varies significantly between populations and across the growing season. Maximum concentrations are typically found in roots during the pre-flowering stage.
+Xanthone content varies significantly between populations and across [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Maximum concentrations are typically found in roots during the pre-flowering stage.
 
 In northeastern India, the whole plant is dried and powdered for use in herbal formulations. It is sometimes used as a substitute for Swertia chirayita, which is more extensively traded.
 
 Tibetan medical texts describe the plant as useful for treating bile disorders and inflammation. Modern pharmacological research has begun to validate some of these traditional applications.
-
-The plant is also used in traditional Bhutanese medicine (g.so-ba rig-pa). Formulations combining Swertia bimaculata with other bitter herbs are prescribed for blood purification and skin conditions.
-
-Recent phytochemical studies have identified additional compounds including sweroside and amarogentin. These iridoid glycosides contribute to the extreme bitterness characteristic of Swertia preparations.
-
-## Cultivation
-
-Swertia bimaculata requires cool, moist growing conditions that mimic its high-altitude native habitat. It is rarely cultivated commercially but can be grown in alpine or woodland gardens.
-
-Seeds require cold stratification at 4°C for 4–8 weeks for reliable germination. Surface sowing is recommended, as seeds are small and light-sensitive.
-
-Germination rates in controlled studies range from 40–65%. Gibberellic acid treatment (GA3 at 250 ppm) can improve germination without cold stratification.
-
-Plants prefer humus-rich, well-drained soil with consistent moisture. Partial shade is optimal, particularly in regions with hot summers.
-
-The species is hardy to approximately USDA zone 6 when protected from excessive winter wet. Cultivation at lower elevations in warm climates is generally unsuccessful.
-
-Successful cultivation has been reported at high-altitude research stations in Sikkim. These programs aim to reduce wild-harvesting pressure on natural populations through sustainable cultivation.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-scabra]]
-- [[swertia-chirata]]
-- [[swertia-perennis]]
-- [[centaurium-erythraea]]
-- [[gentiana-triflora]]
-- [[gentiana-asclepiadea]]
-- [[gentiana-cruciata]]
-- [[exacum-affine]]
-- [[lobelia-erinus]]

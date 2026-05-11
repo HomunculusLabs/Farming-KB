@@ -1,27 +1,27 @@
 ---
 title: Presporulating Mycelium as Trojan Horse Mycopesticides
-source: Mycelium Running (Paul Stamets, 2005), pp. 119-124
+source: [[mycelium-running-conservation-biology-and-fungi]] (Paul Stamets, 2005), pp. 119-124
 topics:
   - mycopesticides
-  - entomopathogenic fungi
-  - Metarhizium anisopliae
-  - Beauveria bassiana
+  - [[comparison-trichoderma-vs-entomopathogenic-fungi]]
+  - [[metarhizium-anisopliae]]
+  - [[beauveria-bassiana]]
   - presporulating mycelium
   - termite control
-  - biological pest control
+  - [[hamilton-beneficial-insects-and-biological-pest-control]]
 ---
 
 # Presporulating Mycelium as Trojan Horse Mycopesticides
 
 ## Overview
 
-One of the most significant breakthroughs in biological pest control emerged from Paul Stamets' observation that entomopathogenic fungi could be rendered invisible to their insect targets by inducing a presporulating (sporeless) state. Normally, insects detect and avoid the spores of pathogenic fungi like *Metarhizium anisopliae* and *Beauveria bassiana*. By selecting for non-sporulating mycelial phenotypes, Stamets created a "Trojan horse" delivery system: the mycelium emits attractants and feeding stimulants that lure insects to consume and carry the lethal fungus back to their colonies.
+One of the most significant breakthroughs in [[biological-pest-control-balance]] emerged from Paul Stamets' observation that entomopathogenic fungi could be rendered invisible to their insect targets by inducing a presporulating (sporeless) state. Normally, insects detect and avoid the spores of pathogenic fungi like *Metarhizium anisopliae* and *[[query-how-do-i-use-beauveria-bassiana-for-pest-control]]*. By selecting for non-sporulating mycelial phenotypes, Stamets created a "Trojan horse" delivery system: the mycelium emits attractants and feeding stimulants that lure insects to consume and carry the lethal fungus back to their colonies.
 
 ## The Problem with Conventional Spore Delivery
 
 Entomopathogenic fungi have been studied for decades as biological weapons against insect pests. Several companies expended considerable money developing spore-delivery systems, especially using *Metarhizium anisopliae* (green mold) and *Beauveria bassiana* (white mold). The conventional approach was to spray entire buildings with spores or place spores in bait stations at portals where insects would pick them up.
 
-This strategy failed in practice because social insect colonies have evolved sophisticated defenses. Termite and ant nests can number in the millions of individuals, with sentry systems guarding the queen. If an infected individual is recognized, it is promptly killed and placed in a graveyard away from the nest. Insects detect entomopathogenic spores by smell and mobilize to prevent colony infection. Spore-carrying workers are refused entry, with several tiers of guards preventing disease-bearing insects from entering.
+This strategy failed in practice because social insect colonies have evolved sophisticated defenses. [[mollison-designers-termite-and-ant-mound-niche-gardening]] nests can number in the millions of individuals, with sentry systems guarding the queen. If an infected individual is recognized, it is promptly killed and placed in a graveyard away from the nest. Insects detect entomopathogenic spores by smell and mobilize to prevent colony infection. Spore-carrying workers are refused entry, with several tiers of guards preventing disease-bearing insects from entering.
 
 Natural selection has given insects a decided advantage: they can detect infectious spores and avoid them. A fungus that always alerts its target with smelly spores would be selected against unless an alternative strategy existed for tricking insects to engage the fungus.
 
@@ -35,7 +35,7 @@ The environmental persistence and inherent toxicity of conventional pesticides h
 
 ## The Discovery of Presporulating Mycelium
 
-While growing *Cordyceps sinensis* for Chinese medicine, Stamets noticed that entomopathogenic fungi expressed different forms of mycelium. Some sectors of the culture lacked or had delayed spore formation, appearing as white V-shaped wedges of growth. He selected these white-wedge sectors and made descendant cultures through successive transfers.
+While growing *[[cordyceps-sinensis]]* for Chinese medicine, Stamets noticed that entomopathogenic fungi expressed different forms of mycelium. Some sectors of the culture lacked or had delayed spore formation, appearing as white V-shaped wedges of growth. He selected these white-wedge sectors and made descendant cultures through successive transfers.
 
 After successive subcultures of the selected presporulating mycelium, its whitish form dominated. Through further generations of transfers, Stamets isolated a non-sporulating mycelial phenotype. The key discovery was that this sporeless mycelium, still lethal to insects, emits attractants and feeding stimulants instead of the repellent odors associated with spores.
 
@@ -43,7 +43,7 @@ After successive subcultures of the selected presporulating mycelium, its whitis
 
 The mechanism operates as a biological Trojan horse:
 
-1. **Attraction**: The presporulating mycelium produces volatile compounds that attract target insects. Termites and ants are drawn to the mycelium as if it were a food source.
+1. **Attraction**: The presporulating mycelium produces [[mycovolatiles-fungal-volatile-compounds]] that attract target insects. Termites and ants are drawn to the mycelium as if it were a food source.
 
 2. **Feeding stimulation**: Beyond attraction, the mycelium contains feeding stimulants that cause insects to actively consume it. In choice tests, termites preferred the mycelium to wood.
 
@@ -65,7 +65,7 @@ With termites, the mycelium appears to kill the large protozoa in their digestiv
 
 ## Species-Specific Attractants
 
-A critical finding was that attractants can be species-specific. In many cases, *Metarhizium* strains from one insect species' colony did not attract other insect species. Only some strains of *Metarhizium anisopliae* produce species-specific attractants, which may lead to the design of products targeting specific insect pests while sparing beneficial insects.
+A critical finding was that attractants can be species-specific. In many cases, *Metarhizium* strains from one insect species' colony did not attract other insect species. Only some strains of *Metarhizium anisopliae* produce species-specific attractants, which may lead to the design of products targeting specific insect pests while sparing [[beneficial-insects-cannabis]].
 
 Water and ethanol extracts of presporulating mycelium grown on rice yielded powerful attractants and feeding stimulants. Through serial dilutions, the baseline extract worked best after being diluted with water, reducing production costs. Stamets hypothesized that native-born fungi from an already infected termite colony are more attractive to that species than to others.
 
@@ -87,34 +87,4 @@ The presporulating mycelium approach offers significant advantages:
 - Minimizes harm to nontargeted insects while precisely targeting pests
 - Provides attractants to the pesticide industry for enhancing other treatments
 - Affords long-term protection as spores repel future invasions
-- Allows use of non-tropical building materials, reducing pressure on rainforest hardwoods
-
-## Additional Entomopathogenic Genera
-
-Beyond *Metarhizium* and *Beauveria*, many other genera of entomopathogenic fungi likely produce similar presporulating attractants and feeding stimulants. These include *Hirsutella*, *Mucor*, *Paecilomyces*, *Aspergillus*, *Nomuraea*, and species in the order Entomophthorales. The coevolutionary arms race between fungi and insects has produced millions of years of biochemical dialogue. Each insect-fungus pair represents a potential reservoir of species-specific attractant compounds waiting to be isolated and deployed.
-
-The fact that moldy insects exist in nature gives researchers a constant reservoir of new strains. This natural diversity makes it difficult for insects to develop recognition of all potential threats, since researchers can constantly switch strains to stay ahead of colony defense mechanisms.
-
-## Future Applications and Expanded Coverage
-
-Since presporulating mycelium can be projected via many carriers, including wood chips, sawdust, paper, cardboard, biodegradable fabrics, and agricultural waste products, Stamets envisions landscapes customized with mycelial matrices populated by fungi that target specific insects, forestall pest outbreaks associated with livestock and farms, and stop beetle blights from spreading across forests, all while preventing and cleaning up pollution.
-
-## Ethical Considerations
-
-Stamets articulated guiding principles for licensing: developing environmentally safe methods, licensing to those who promote nature-friendly alternatives, respecting intellectual property rights of indigenous peoples (opposing "biopiracy"), encouraging use in impoverished countries, and respecting the sanctity of all species. The philosophy is not to wage war against the insect kingdom but to enlist fungal allies for intelligent, natural, and localized control of targeted insects when and where they threaten people, buildings, or the environment.
-
-## Green Chemistry Paradigm
-
-This discovery represents a splendid example of "green chemistry" at work: a fungus can entice an insect to carry and cache it as food before it is recognized as a pathogen. This type of green technology confronts the paradigm articulated by the motto of the 1950s and 1960s, "Better living through chemistry." The chemical miracles worked in the mid-twentieth century had a devastating impact on environmental health. Big profits trumped good science, and future generations will deal with more pernicious forms of pollution.
-
-Any revolutionary technology will be seen as a threat to conventional industry. The presporulating mycelium approach challenges the $9 billion pesticide industry. However, the EPA has encouraged the study of *Metarhizium anisopliae* as a biopesticide, and recent trials show that fungus gnats (phorid and sciarid species) and blowflies (*Calliphora* species) are also attracted to the mycelial extract, suggesting the technique may be effective against non-social insects as well.
-
-The compound effect of recruitment means that a little mycelium can go a long way, as opposed to contact poisons such as pyrethrins, which quickly kill insects before they can return to the colony and thus must be used in large amounts. After contacting most other pesticides, the insects continue on their destructive path, but with the presporulating mycelium method they penetrate no further. The infected insects themselves become agents for dispersing the insecticidal fungus throughout a colony.
-
-## See Also
-
-- [[mycelium-running-presporulating-mycopesticides]]
-- [[mycelium-running-pest-control-with-fungi]]
-- [[bloomfield-cordyceps-insect-pathogens-behavior]]
-- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
-- [[cordyceps-insect-pathogenic-fungi]]
+- Allows use of non-tropical [[gadd-fungal-biodegradation-concrete-building-materials]], reducing pressure on rainforest hardwoods

@@ -1,5 +1,5 @@
 ---
-title: mollison designers chicken tractors egg production and Egg Production
+title: Mollison Designers Chicken Tractors Egg Production
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Chicken Tractors and Egg Production
 
-Chicken tractors are mobile poultry housing units that enable intensive
+Chicken tractors are mobile [[poultry-housing-guide]] units that enable intensive
 small-scale poultry management while providing soil fertility, weed
 control, and pest management as co-benefits. Bill Mollison describes
 chicken tractors in Permaculture: A Designers' Manual (Chapter 6:
@@ -30,14 +31,14 @@ systems where the outputs of one element become inputs for others.
 chickens to a specific area of ground while allowing them access to
 soil, vegetation, insects, and sunlight. The tractor is moved regularly
 to fresh ground, distributing manure evenly and preventing the buildup
-of pathogens and parasites that occurs in static poultry runs. Key
+of [[bloomfield-fungal-pathogens-and-parasites]] that occurs in static poultry runs. Key
 design considerations include:
 
   - Floorless construction: Birds contact the soil directly, scratching
     and foraging while depositing manure
   - Lightweight frame: Must be movable by one or two people, typically
     using PVC pipe, lightweight timber, or metal framing
-  - Predator protection: Wire mesh on all sides, secure latches, and
+  - [[fukuoka-natural-predator-protection]]: Wire mesh on all sides, secure latches, and
     optional skirting buried into the soil to prevent digging predators
   - Weather protection: A solid or semi-solid roof section providing
     shelter from rain and sun, with adequate ventilation
@@ -84,65 +85,6 @@ tractors or vehicle hitches.
 
 ## Egg Production
 
-A well-managed chicken tractor system supports consistent egg production
-from heritage and dual-purpose breeds. Key factors affecting egg yield
+A well-managed [[permaculture-chicken-tractor-system]] supports consistent egg production
+from heritage and dual-purpose breeds. Key [[factors-affecting-mycoremediation-efficiency]] egg yield
 include:
-
-  - Breed selection: Rhode Island Red, Sussex, Plymouth Rock, and
-    Australorp are reliable layers producing 200-280 eggs per year
-  - Nutrition: Supplemental grain, kitchen scraps, and access to
-    forage (insects, seeds, greens) provide balanced protein and
-    calcium for strong shells
-  - Light exposure: 14-16 hours of light per day supports peak
-    production; natural daylight may be supplemented in winter
-  - Age: Peak production occurs from 20-72 weeks of age, declining
-    gradually thereafter
-  - Stress reduction: Predator protection, clean water, and adequate
-    space minimize stress-related production drops
-
-In permaculture systems, egg production is integrated with garden
-fertility cycling. The chicken tractor pre-fertilizes garden beds
-before planting, and crop residues and weeds provide supplemental
-forage for the birds, reducing feed costs.
-
-## Bedding and Feed
-
-Bedding in chicken tractors serves multiple functions: moisture
-absorption, odor control, and providing material for later composting.
-Materials include straw, hay, dry leaves, wood shavings, and shredded
-paper. The bedding is renewed as the tractor moves, with old bedding
-incorporated into the soil or added to compost piles.
-
-Feed strategies in permaculture chicken systems emphasize reducing
-imported feed through:
-  - Free-ranging within the tractor enclosure over diverse vegetation
-  - Kitchen scraps and food waste
-  - [[comparison-black-soldier-fly-composting-vs-bokashi]] fly larvae and other insect protein sources
-  - Dedicated fodder crops such as comfrey, amaranth, and millet
-  - Grain from on-site production (corn, sorghum, wheat)
-  - Supplementary minerals: grit for digestion, oyster shell or
-    limestone for calcium
-
-Mollison emphasizes that poultry in permaculture are not isolated
-production units but integral components of the farm system, converting
-waste products into eggs, meat, and fertilizer.
-
-## Integration with Garden Systems
-
-Chicken tractors can be integrated into garden rotations, orchard
-management, and pasture systems. They prepare seedbeds by scratching
-and manuring, clean up crop residues after harvest, control pests
-and weeds in fallow areas, and fertilize orchard floors between fruit
-trees. This multi-functional approach exemplifies the permaculture
-principle of each element performing multiple functions.
-## See Also
-
-- mollison [[mollison-designers-integrated-vermiculture-composting-systems]] animal systems
-- mollison designers zone planning
-- mollison designers small [[permaculture-livestock-forage-systems]]
-- mollison [[mollison-designers-composting-toilets-and-humanure]] methods
-- [[mollison-designers-charcoal-production-biochar-soil-amendment]]
-- permaculture-designers-manual-chicken-tractors
-- [[mollison-designers-plant-nursery-seedling-production]]
-- [[bill-mollison]]
-- [[mollison-designers-market-garden-intensive-production-design]]

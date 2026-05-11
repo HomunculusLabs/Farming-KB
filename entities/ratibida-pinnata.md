@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Cox P.B. & Urbatsch L.E. (2006). "Ratibida." In Flora of North America Editorial Committee, Flora of North America, Vol. 21, 62–64.
+  - Cox P.B. & Urbatsch L.E. (2006). "Ratibida." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America, Vol. 21, 62–64.
   - Ladd D. & Nelson P. (2015). Tallgrass Prairie Wildflowers 2nd ed. FalconGuides.
   - Haddock M.J. (2015). Wildflowers and Grasses of Kansas. University Press of Kansas.
 ---
@@ -19,17 +19,17 @@ sources:
 
 ## Overview
 
-Ratibida pinnata (gray-headed coneflower, prairie coneflower) is a tall, upright perennial in the Asteraceae, native to prairies and open woodlands of central and eastern North America.
+Ratibida pinnata (gray-headed coneflower, prairie coneflower) is a tall, upright perennial in the Asteraceae, native to prairies and open woodlands of central and [[polypore-fungi-eastern-north-america]].
 
 It is characterized by drooping yellow ray florets surrounding a distinctive gray-brown central disk. The central disk has a characteristic anise or licorice scent when crushed.
 
 The species blooms from June through August, providing long-lasting color in prairie plantings. Plants reach 60–150 cm tall with stiff, pubescent stems.
 
-Ratibida pinnata is a key component of tallgrass prairie restorations. It combines ornamental value with ecological function, supporting diverse pollinator communities.
+Ratibida pinnata is a key component of tallgrass prairie restorations. It combines ornamental value with [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], supporting diverse pollinator communities.
 
 The genus Ratibida contains about seven species, all native to North America. Ratibida pinnata is the most widely cultivated.
 
-Ratibida pinnata is sometimes confused with Rudbeckia laciniata (cutleaf coneflower), but the gray, cylindrical disk distinguishes it. The anise scent of the disk is diagnostic.
+Ratibida pinnata is sometimes confused with [[rudbeckia-laciniata]] (cutleaf coneflower), but the gray, cylindrical disk distinguishes it. The anise scent of the disk is diagnostic.
 
 ## Taxonomy and Morphology
 
@@ -77,7 +77,7 @@ Ratibida pinnata is a warm-season grower, emerging in late spring. It forms a de
 
 The species is a reliable indicator of remnant tallgrass prairie. Its presence often signals high-quality, unplowed prairie habitat.
 
-Root associations with arbuscular mycorrhizal fungi enhance nutrient uptake in prairie soils. These symbioses contribute to drought resilience.
+Root associations with [[arbuscular-mycorrhizal-fungi]] enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in prairie soils. These symbioses contribute to drought resilience.
 
 ## Cultivation
 
@@ -88,34 +88,3 @@ Plant in full sun with well-drained soil, spacing 30–45 cm apart. The species 
 Established plants are long-lived, persisting 10–20 years in garden settings. Self-seeding is common but rarely aggressive.
 
 The deep taproot makes transplanting of mature plants difficult. Division is best done in early spring on young plants.
-
-No serious diseases or pests affect this species. Powdery mildew and aster yellows occur occasionally but are not destructive.
-
-Seed can be collected in autumn when the disk turns dark brown. Store seed cool and dry; viability lasts 3–5 years.
-
-The species has moderate allelopathic properties. Leaf extracts inhibit germination of some competing weed species.
-
-## Landscape Use
-
-Gray-headed coneflower is widely used in prairie restoration, wildlife plantings, and native garden design. Its vertical form and bright yellow flowers add structure to meadow plantings.
-
-The species combines well with little bluestem, Indian grass, and big bluestem in reconstructed prairies. Interplanting with other native forbs extends the bloom season.
-
-It is suitable for rain gardens, bioswales, and roadside revegetation projects. The deep roots help manage stormwater infiltration.
-
-Cut flowers last 5–7 days in arrangements. The distinctive drooping petals and dark cone make striking additions to wildflower bouquets.
-
-The dried seed heads are attractive in dried flower arrangements. The dark central cone contrasts with the faded yellow petals.
-
-## See Also
-
-- [[rudbeckia-hirta]]
-- [[rudbeckia-laciniata]]
-- [[echinacea-purpurea]]
-- [[solidago-canadensis]]
-- [[gaillardia-pulchella]]
-- [[coreopsis-lanceolata]]
-- [[monarda-fistulosa]]
-- [[helenium-autumnale]]
-- [[silphium-perfoliatum]]
-- [[helianthus-annuus]]

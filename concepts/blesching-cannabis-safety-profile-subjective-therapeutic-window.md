@@ -1,5 +1,5 @@
 ---
-title: Cannabis [[cannabis-safety-profile-and-overdose-risk]] Subjective Therapeutic Window - Blesching
+title: Blesching Cannabis Safety Profile Subjective Therapeutic Window
 source: uwe-blesching-the-cannabis-health-index.md
 source_author: Blesching (2015)
 topics: cannabis safety, [[adverse-effects-and-harm-reduction-psilocybin]], therapeutic window, dosage, harm reduction, [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]]
@@ -87,63 +87,3 @@ Blesching provides a precise step-by-step protocol for vapor inhalation:
 5. Wait another 5 to 10 minutes
 6. Continue incrementally until the "sweet spot" is found
 7. **Stop** — do not inhale more. "More is not better."
-
-If adverse effects occur, wait a full day and restart at a lower dosage.
-
-### Establishing the Window — Oral Ingestion Protocol
-
-The protocol for edibles, oils, and tinctures requires greater patience due to delayed onset:
-
-1. Use an **exact, measured amount**
-2. Preferably consume on an **empty stomach**
-3. **Wait at least one hour** (two hours if taken on a full stomach)
-4. If no effect, increase by the same measured amount
-5. Wait another hour and reassess
-6. Continue until desired effect is achieved
-7. **Remember the total amount** that produced the desired effect
-
-For subsequent sessions with the same medicine, Blesching recommends starting at the previously effective dose **minus about 20%** to account for variations in digestion rate and timing.
-
-### Common Edible Mistakes
-
-Blesching warns against the most frequent cause of adverse cannabis experiences:
-
-> "Many patients have made the mistake while eating cannabis of saying to themselves, 'I'm not feeling anything,' and then continuing to eat until it's too late and adverse effects occur."
-
-Oral cannabis effects may not manifest for 1-3 hours, but once they begin, they can last many hours and be intense. The delayed onset is the primary reason for cannabis-related emergency visits.
-
-## Strain Selection for Deficiency Matching
-
-Blesching connects therapeutic window optimization to endocannabinoid receptor deficiency:
-
-- **CB1 deficiency** (neurological disorders, mental/emotional problems): Choose strains with **higher THC:CBD ratio**
-- **CB2 deficiency** (immune compromise, chronic inflammation): Choose strains with **lower THC:CBD ratio**
-
-This receptor-targeting approach to strain selection provides a physiological rationale for the traditional sativa (higher THC, more stimulating) vs. indica (higher CBD, more sedating) distinction.
-
-## Addiction and Dependence
-
-### Psychological vs. Physical Dependence
-
-Blesching acknowledges the debate around cannabis dependence while making a key distinction:
-
-- **Physical addiction:** Not characteristic of cannabis (unlike tobacco, alcohol, heroin)
-- **Psychological dependence:** Possible, comparable to behavioral addictions
-- **Court-mandated "treatment":** Many people in drug treatment for cannabis are there due to legal mandates rather than clinical need
-
-### Reducing Dependence Risk
-
-Two strategies for minimizing dependence potential:
-
-1. **Infuse mindfulness into the healing process:** Use cannabis as a tool for exploration and self-understanding, not as a crutch
-2. **Use raw (non-decarboxylated) preparations:** [[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains THCA and CBDA, which have minimal psychoactivity while retaining anti-inflammatory properties
-
-### Mindful Use Example
-
-Blesching illustrates the mindful approach with an anecdote about "Walter," who used cannabis to address sexual performance anxiety. Rather than becoming dependent on cannabis for every sexual encounter, Walter used the cannabis-induced state to explore the deeper causes of his anxiety, took corrective action, and eventually eliminated both the anxiety and the need for cannabis.
-
-## Special Populations and Concerns
-
-### Adolescents
-
-Blesching acknowledges concerns about cannabis use during adolescent brain development but does not provide detailed analysis in the safety overview section.

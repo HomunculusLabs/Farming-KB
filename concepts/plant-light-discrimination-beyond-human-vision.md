@@ -9,9 +9,9 @@ sources:
 
 # Plant Light Discrimination Beyond Human Vision
 
-Plants perceive a far broader range of the electromagnetic spectrum than humans
+Plants perceive a far broader range of the [[electromagnetic-spectrum-plant-light-perception]] than humans
 do. While human vision is confined to approximately 400 to 700 nanometres, the
-band we call visible light from violet through red, plants detect and respond to
+band we call [[electromagnetic-spectrum-visible-light-plant-perception]] from violet through red, plants detect and respond to
 both **ultraviolet light** (below 400 nm) and **far-red light** (above 700 nm).
 This expanded spectral perception means that plants experience their light
 environment in ways that humans can only infer through instruments. A plant that
@@ -57,7 +57,7 @@ at the opposite extreme, are extraordinarily short, roughly one trillion times
 shorter than radio waves, which is why they can penetrate solid matter.
 
 Light waves occupy the middle of this vast range, with wavelengths between
-approximately 400 and 700 nanometres (0.0000004 to 0.0000007 metre). Blue light
+approximately 400 and 700 nanometres (0.0000004 to 0.0000007 metre). [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 has the shortest visible wavelength, while red has the longest, with green,
 yellow, and orange in between. This is why rainbows always display the same
 colour ordering, from short-wave blue on the inner edge to long-wave red on the
@@ -88,58 +88,3 @@ production compared to those grown under full-spectrum sunlight.
 ## Far-Red Perception and the Phytochrome System
 
 Perhaps the most consequential difference between plant and human light
-perception lies in the far-red region of the spectrum (700 to 800 nm). Humans
-literally cannot see far-red light; it is invisible to our eyes. Yet far-red is
-critically important to plants through the **phytochrome** system.
-
-Phytochrome exists in two interconvertible molecular forms. The Pr form absorbs
-red light (around 660 nm) and converts to the Pfr form. The Pfr form absorbs
-far-red light (around 730 nm) and converts back to Pr. This reversible molecular
-switch allows plants to detect the ratio of red to far-red light in their
-environment, which carries ecologically vital information about competition and
-canopy structure.
-
-In full sunlight, the red-to-far-red ratio is high because sunlight is relatively
-rich in red wavelengths. But when a plant is shaded by neighbouring vegetation,
-the canopy above absorbs most of the red light for photosynthesis while
-reflecting or transmitting far-red light. The shaded plant therefore experiences
-a dramatic drop in the red-to-far-red ratio, which its phytochrome system
-interprets as a signal that competitors are nearby. This triggers **shade
-avoidance responses**: the plant elongates its stems, reorients its leaves, and
-accelerates its growth rate in an attempt to capture more light.
-
-## Dim Light Sensitivity
-
-Plants can detect extraordinarily [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels that humans would perceive
-as complete darkness. Darwin demonstrated this dramatically with canary grass
-seedlings that bent toward a gas lamp so dim that the experimenters could not
-see the seedlings themselves. This extreme sensitivity operates through
-phototropin photoreceptors, which trigger phototropic bending in response to
-blue light.
-
-Plants can distinguish between the faint glow of a candle, the low light of
-early dawn, the moderate light of a cloudy day, and the full intensity of
-midday sun. They can also detect the direction of the light source and whether
-the light is coming from above, from the side, or from below. Each of these
-parameters triggers specific and distinct growth responses.
-
-## The Broader Meaning of Plant Vision
-
-[[daniel-chamovitz]], in *What a Plant Knows*, argues that plant [[plant-vision-and-light-perception-mechanisms]]
-deserves to be called vision. A person born totally blind who gained the ability
-to distinguish between light and shadow would clearly be described as having
-gained rudimentary sight. If that same person then gained the ability to
-perceive colour, the improvement would universally be recognised as a
-significant enhancement of vision.
-
-Plants possess both of these capabilities, and they add ultraviolet and far-red
-perception on top of what humans can see. While plants do not form images or
-resolve fine spatial detail the way human eyes do, their ability to discriminate
-between wavelengths, intensities, directions, and durations of light constitutes
-a genuine and sophisticated form of visual perception that far exceeds the
-
-## See Also
-- [[human-vs-plant-photoreceptor-systems-comparison]]
-- [[human-photoreception-rods-cones-and-visual-pigments]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-vision-and-light-perception-mechanisms]]

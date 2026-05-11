@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Ceruti, A., Fontana, A., & Nosenzo, C. (2003). "Le specie epigee in Piemonte." Centro Studi Fungarli.
   - Chevalier, G. (2012). "comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation in Europe." In Fungi: Biology and Applications (2nd ed.). Wiley-Blackwell.
-  - Bonito, G. et al. (2010). "Tuber melanosporum and Tuber brumale: a comparative analysis." Mycorrhiza, 20(7), 481–489.
+  - Bonito, G. et al. (2010). "[[tuber-melanosporum]] and Tuber brumale: a comparative analysis." Mycorrhiza, 20(7), 481–489.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=170458
 aliases:
   - Winter Truffle
@@ -65,7 +65,7 @@ Asci contain 1–4 (usually 2–3) spores. Spores are ellipsoidal to broadly ell
 
 T. brumale is native to Europe, found across France, Italy, Spain, the United Kingdom, and extending into central and southeastern Europe. It has been introduced to New Zealand and Australia with host trees.
 
-The species forms ectomycorrhizal associations primarily with oaks (Quercus spp.), hazel (Corylus avellana), hornbeam (Carpinus betulus), and beech (Fagus sylvatica).
+The species forms [[ectomycorrhizal-associations]] primarily with oaks (Quercus spp.), hazel ([[corylus-avellana]]), hornbeam ([[carpinus-betulus]]), and beech ([[fagus-sylvatica]]).
 
 Fruiting bodies develop underground at depths of 5–25 cm in calcareous or neutral soils with good drainage, typically from October through March.
 
@@ -75,7 +75,7 @@ The volatile aroma profile of T. brumale is dominated by dimethyl sulfide, 2-met
 
 It contains dimethyl disulfide and methanethiol, sulfur compounds shared with T. melanosporum but present at higher concentrations in T. brumale, explaining its more aggressive aroma.
 
-Melanin-derived pigments in the peridium provide antioxidant properties. The truffle also contains ergosterol, linoleic acid, and various phenolic compounds.
+Melanin-derived pigments in the peridium provide antioxidant properties. The truffle also contains ergosterol, linoleic acid, and various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]].
 
 ## Culinary Use
 
@@ -88,32 +88,3 @@ Its lower market value (typically 10–25% of T. melanosporum prices) makes it a
 ## Cultivation
 
 T. brumale can be cultivated by inoculating host seedlings (oak, hazel) with [[arbuscular-mycorrhizal-spore-extraction-methods]] slurry, though commercial plantations are far less common than those for T. melanosporum.
-
-It frequently appears as a contaminant in T. melanosporum orchards, where it competes with the target species for root colonization space.
-
-Truffle dogs are used for harvesting. The fruiting season overlaps with but extends later than T. melanosporum, providing an additional harvest window through February.
-
-Yields in managed plantations average 10–30 kg/ha, lower than T. melanosporum under optimal conditions.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, T. brumale facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees, improving phosphorus and nitrogen uptake in exchange for photosynthetic carbon.
-
-Its underground fruiting bodies are dug up and consumed by wild boar, deer, rodents, and slugs, which serve as [[aquatic-fungi-spore-dispersal-ingold]] vectors.
-
-The species contributes to soil aggregation and microbial diversity in forest floor ecosystems through hyphal networks and exudate production.
-
-## Comparison with Related Truffles
-
-T. brumale is frequently confused with T. melanosporum due to similar external appearance. Key distinguishing features include the coarser gleba venation, more pungent aroma, and slightly larger spore size in T. brumale.
-
-Compared to T. aestivum (summer truffle), T. brumale has a darker gleba with more defined veins and a stronger, less subtle aroma. T. brumale fruits later in the season.
-
-T. indicum (Chinese truffle) can superficially resemble T. brumale but typically has a smoother peridium and less aromatic gleba; it is often fraudulently sold as T. melanosporum.
-
-## See Also
-
-- [[tuber-melanosporum]]
-- [[morchella-esculenta]]
-- [[trametes-versicolor-entity]]
-- [[laccaria-laccata]]

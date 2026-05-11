@@ -9,11 +9,11 @@ sources: []
 
 # Seed Starting Reference
 
-Starting seeds indoors extends the growing season, provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off. (see [[succession-planting]]).
+Starting [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, [[hamilton-cold-frames-and-hardening-off]].
 
 ## Germination Temperatures by Crop
 
-Optimal soil temperature for germination varies significantly. Use a heat mat with a thermostat for precise control. (see [[seasonal-gardening-calendar]]).
+Optimal soil temperature for germination varies significantly. Use a heat mat with a thermostat for precise control.
 
 | Crop | Optimal Soil Temp (°F) | Days to Germinate |
 |------|----------------------|-------------------|
@@ -82,7 +82,7 @@ Seedlings need 12-16 hours of light per day once germinated. Windowsill light is
 ### Soil Blocks
 Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds are planted directly into blocks. Roots air-prune at block edges, preventing circling.
 
-**Soil block mix (Eliot Coleman recipe):**
+**Soil block mix ([[eliot-coleman]] recipe):**
 - 3 buckets peat moss (or coco coir)
 - 1 bucket perlite
 - 1 bucket compost (sieved)
@@ -98,7 +98,7 @@ Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds
 - 4 inch (maxi-block) — for larger transplants (squash, melons).
 
 **Advantages of soil blocks:**
-- No transplant shock — roots never circle.
+- No [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] — roots never circle.
 - No plastic trays to buy, clean, or store.
 - Air-pruning produces dense, fibrous root systems.
 - Blocks can be potter up (placed into larger blocks) seamlessly.
@@ -137,7 +137,7 @@ Transplants grown indoors must be gradually acclimated to outdoor conditions ove
 ## Common Problems
 
 ### Damping Off
-- Fungal disease that kills seedlings at soil line.
+- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that kills seedlings at soil line.
 - Caused by overwatering, poor air circulation, contaminated media.
 - Prevention: use sterile media, clean trays, good airflow, chamomile tea spray.
 - Once symptoms appear (pinched stems, flopped seedlings), affected plants cannot be saved.

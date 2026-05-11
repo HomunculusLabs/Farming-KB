@@ -88,32 +88,3 @@ dependency on mycorrhizae. In scenario C (combined effects with altered
 leaf chemistry), enhanced N content increases [[fungal-decomposition-resource-quality-determinants]], forcing
 mycorrhizal fungi to compete with saprotrophs by increasing diversity
 and extraradical hyphal exploitation.
-
-Johnson et al. (2000) showed that under elevated CO2, ponderosa pine
-forests accessed more nitrogen from surface soil horizons or from more
-recalcitrant forms to support increased biomass. The enzymatic
-capabilities of ectomycorrhizae and their ability to sequester nutrients
-from organic sources could be of increased benefit in a high CO2 world.
-The ability of forest systems to sequester carbon long-term is limited
-by nitrogen availability.
-
-## Carbon Storage in Root Systems
-
-In heathland ecosystems, Molinia root turnover contributes 67% of total
-litter production, 87% of litter nitrogen loss, and 84% of total litter
-phosphorus loss. Root respiration values vary from 35% in tulip tree
-to 62% of soil respiration in slash pine. Gorisen and Cotrufo (2000)
-found that although C:N ratios increased with elevated CO2, respired CO2
-during decomposition could not be attributed to labeled C accumulated
-under elevated treatment. About 6% of carbon remaining during
-decomposition came from leaves and 26% from roots, suggesting the
-importance of root material to below-ground carbon storage.
-
-## See Also
-
-- [[dighton-fungal-responses-climate-change]]
-- fungal-stoichiometry-ecology
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[decomposition]]
-- [[ectomycorrhiza]]
-- [[soil-respiration]]

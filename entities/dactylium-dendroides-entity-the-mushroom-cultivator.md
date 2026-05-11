@@ -87,35 +87,3 @@ Spores of Dactylium dendroides are killed when exposed to temperatures of 115-12
 degrees F for only 30 minutes (Anderson, 1956). This relatively low thermal death
 point means that proper pasteurization of [[mushroom-cultivator-casing-materials-buffering-agents]] is an effective preventive
 measure.
-
-## Spread and Transmission
-
-Dactylium dendroides spreads through multiple vectors in the mushroom cultivation
-environment. The primary routes of transmission identified in The Mushroom Cultivator
-include air, casing soil, water, and insects. Airborne spores can travel throughout a
-growing facility and contaminate previously clean trays or beds. Contaminated casing
-soil is a particularly significant vector, as the mold thrives on casing surfaces.
-Water used for misting or watering can carry spores from contaminated areas to clean
-areas. Insects, particularly fungus gnats and other small flies commonly found in
-mushroom growing rooms, can transport spores on their bodies as they move between
-substrates. The multiple transmission pathways make comprehensive hygiene and
-[[eclss-environmental-control-life-support]] essential for managing cobweb mold outbreaks.
-
-## Interactions
-
-Dactylium dendroides is primarily known for its parasitic interaction with mushroom
-fruitbodies. Unlike many contaminants that simply compete for nutrients, cobweb mold
-actively parasitizes mushrooms, germinating upon contact with the fruitbody surface
-and enveloping it with mycelium. The teleomorphic form, Hypomyces rosellus, attacks
-wild mushrooms including Lactarius, Russula, Agaricus, and Amanita species, indicating
-a broad host range among basidiomycete fungi. The related genus Dactylaria includes
-species that are nematode predators, using specialized hyphal loops to capture and
-consume soil nematodes. This predatory behavior suggests that Dactylium and its
-relatives occupy multiple ecological roles as competitors, parasites, and predators
-in their respective environments.
-
-## See Also
-
-- [[bacillus-subtilis]]
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]

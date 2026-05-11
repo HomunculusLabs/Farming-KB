@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Anderson, J.B. & Kohn, L.M. (2007). "Diversity and distributions of fungal species in the Armillaria mellea complex." New Phytologist, 175(3), 488–498.
   - Ferguson, B.A., Dreisbach, T.A., Parks, C.G., Filip, G.M. & Schmitt, C.L. (2003). "Coarse-scale population structure of pathogenic Armillaria species in a mixed-conifer forest in the Blue Mountains of northeast Oregon." Canadian Journal of Forest Research, 33(4), 612–623.
-  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest savory-living-organisms-as-tools." Nature, 356(6368), 428–431.
+  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus [[armillaria-bulbosa]] is among the largest and oldest savory-living-organisms-as-tools." Nature, 356(6368), 428–431.
   - Trest, M.T. & Thorn, R.G. (2021). "Armillaria." In: The Mycota (Vol. 10). Springer.
   - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest fungal-ecosystem-processes-overview and forest health." Forest Pathology, 47(6), e12343.
 created: 2026-04-28
@@ -21,7 +21,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Armillaria solidipes** (Peck) Volk & Burdsall, formerly classified as *Armillaria ostoyae*, is a species of honey fungus in the family Physalacriaceae.
+**Armillaria solidipes** (Peck) Volk & Burdsall, formerly classified as *[[armillaria-ostoyae]]*, is a species of honey fungus in the family Physalacriaceae.
 
 It is notorious as the causal agent of **Armillaria root disease**, one of the most destructive forest pathogens in temperate coniferous forests of the Northern Hemisphere.
 
@@ -61,11 +61,11 @@ The **Armillaria mellea complex** contains at least 10 [[growing-gourmet-north-a
 
 ## Distribution and Habitat
 
-*A. solidipes* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of North America, Europe, and Asia.
+*A. solidipes* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] [[berry-growing]], Europe, and Asia.
 
-In North America, it ranges from the Pacific Northwest through the Rocky Mountains and into the northeastern United States and eastern Canada.
+In North America, it ranges from the [[psilocybin-north-america-pacific-northwest]] through the Rocky Mountains and into the northeastern United States and eastern Canada.
 
-It is particularly prevalent in **mixed-conifer forests** dominated by Douglas-fir (*Pseudotsuga menziesii*), true firs (*Abies* spp.), western hemlock (*Tsuga heterophylla*), and ponderosa pine (*Pinus ponderosa*).
+It is particularly prevalent in **mixed-conifer forests** dominated by Douglas-fir (*[[pseudotsuga-menziesii]]*), true firs (*Abies* spp.), western hemlock (*Tsuga heterophylla*), and ponderosa pine (*Pinus ponderosa*).
 
 The species thrives in dry to mesic forest types and is most damaging in stressed or overmature stands. It colonizes stumps, root systems, and woody debris, persisting for decades as a saprotroph before attacking living hosts.
 
@@ -87,38 +87,4 @@ In the Pacific Northwest, *A. solidipes* accounts for an estimated **2.4 million
 
 The species produces **melleolides** — tricyclic sesquiterpenoid esters — which exhibit cytotoxic activity against certain cancer cell lines in vitro.
 
-**Protocatechuic acid** and other phenolic compounds isolated from fruiting bodies demonstrate antioxidant activity comparable to standard references in DPPH radical scavenging assays.
-
-These compounds are of research interest but have not been developed into therapeutic applications.
-
-## Ecological Role
-
-Despite its pathogenicity, *A. solidipes* plays essential roles in **forest ecosystem dynamics**.
-
-As a **white-rot decomposer**, it breaks down lignin and cellulose in dead wood, recycling nutrients and contributing to soil organic matter formation.
-
-Its creation of canopy gaps through tree mortality promotes **successional diversity**, allowing shade-intolerant species and early-seral vegetation to establish.
-
-The fungus serves as a food source for various insects and small mammals that feed on fruiting bodies and mycelial mats.
-
-Dead and dying trees infected by *A. solidipes* provide critical **wildlife habitat** — cavity-nesting birds, bats, and arboreal mammals rely on the standing dead snags it creates.
-
-## Cultivation
-
-*A. solidipes* is not commercially cultivated for food, as its edibility is debated and several *Armillaria* species contain mild toxins.
-
-The species has been grown experimentally on hardwood sawdust and supplemented substrates under controlled conditions for research purposes.
-
-Cultural studies indicate optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] at 20–25°C on malt extract agar, with colony morphology varying significantly among genotypes.
-
-Its aggressive rhizomorph production makes it a valuable **model organism** for studying fungal pathogenicity, clonal longevity, and vegetative compatibility systems.
-
-In forestry, management focuses on **stump removal, root raking, and species conversion** to less susceptible tree species rather than direct control of the fungus.
-
-## See Also
-
-- [[fomes-fomentarius]]
-- [[inonotus-obliquus]]
-- [[mycoremediation]]
-- [[decomposition]]
-- [[grifola-frondosa]]
+**Protocatechuic acid** and other [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] isolated from fruiting bodies demonstrate antioxidant activity comparable to standard references in DPPH radical scavenging assays.

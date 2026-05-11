@@ -88,23 +88,3 @@ The fetid odor of *T. palmata* is attributed to volatile sulfur compounds and
 other low-molecular-weight organics. While not formally characterized for this
 species, related *Thelephora* species emit methyl mercaptan and dimethyl
 disulfide derivatives responsible for their distinctive scent.
-
-## Related Species and Distinguishing Features
-
-*Thelephora palmata* is distinguished from the widespread *T. terrestris* by
-its larger, more deeply lobed basidiocarps, stronger odor, and association
-primarily with mature coniferous forests rather than nursery or disturbed
-sites.
-
-From *T. ganbajun*, an edible species from Yunnan, China, *T. palmata* differs
-in its fetid odor, smaller stature, and spore morphology. The genus also
-includes *T. vialis* and *T. anthocephala*, both tropical species with distinct
-morphological adaptations.
-
-## See Also
-
-- [[ectomycorrhizal-fungi]]
-- [[suillus-luteus]]
-- [[laccaria-laccata]]
-- [[hydnellum-aurantiacum]]
-- [[paxillus-atrotomentosus]]

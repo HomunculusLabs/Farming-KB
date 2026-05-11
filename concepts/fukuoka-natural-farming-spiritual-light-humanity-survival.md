@@ -1,14 +1,14 @@
 ---
-title: Natural Farming as Spiritual Light for Humanity's Survival
+title: Fukuoka Natural Farming Spiritual Light Humanity Survival
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 topics: [natural-farming, philosophy, spirituality, ecology, sustainability]
 ---
 
 # Natural Farming as Spiritual Light for Humanity's Survival
 
 In the preface to *The Road Back to Nature*, Masanobu Fukuoka articulates what
-he considered the deepest dimension of natural farming — not as an agricultural
+he considered the deepest dimension [[four-principles-of-natural-farming]] — not as an agricultural
 technique but as a spiritual light that must be kept burning for humanity's
 survival. This philosophical framework, expressed in deeply personal terms,
 elevates natural farming from a method of food production to what he called "the
@@ -18,7 +18,7 @@ earth."
 ## The Original Vision and Its Loss
 
 Fukuoka described a moment of profound clarity in his youth when he saw that
-the world was a garden of Eden. Rather than embracing this vision, he turned
+the world was a [[allegro-garden-of-eden-and-delight]]. Rather than embracing this vision, he turned
 his back on it and chose what he called "the road of a dilettante farmer tilling
 a lost paradise." During this period he knew both the reality of life and the
 essence of death — that one needs neither to labor in order to live nor to fear
@@ -37,7 +37,7 @@ Fukuoka insisted repeatedly that natural farming is not limited to his own
 humble experiences, nor is it something that an individual can establish or
 perfect. Key assertions include:
 
-- Natural farming is nothing less than a true way of human life that revealed
+- [[natural-farming]] is nothing less than a true way of human life that revealed
   itself suddenly when he learned that nature is always a total perfectionist
 - It is the image of a God who faithfully practices absolute truth
 - Man cannot survive away from nature's embrace
@@ -87,41 +87,3 @@ the least hesitation or uncertainty." Humans, by contrast, are "incapable of
 knowing what this thing we call nature is." He asked a university audience
 whether man is capable of knowing nature; a third said yes, a third said no,
 and a third gave no response.
-
-His point was that those who answer "yes" do not understand what it means to
-understand. Scientific study breaks nature into discrete domains — plant
-pathology, entomology, fertilizer science, plant husbandry — and in doing so
-enlarges "the darkness of the unknown surrounding" each fragment of knowledge.
-"One bit of knowledge creates two new queries in our minds."
-
-## The Bushman and the Great Spirit
-
-Fukuoka found a parallel to his philosophy in the way of life of the San people
-(Bushmen) of southern Africa, whose existence he described as a "scrabbling"
-life that is nonetheless closer to natural harmony than modern civilization. He
-contrasted this with the way modern people "tread upon the earth with heavy
-boots," crushing the soil beneath them.
-
-The Bushman's relationship with what Fukuoka called the Great Spirit
-represented, for him, an alternative mode of being — one in which humanity
-lived within nature's patterns rather than attempting to dominate them. This
-was not romantic primitivism but a genuine ecological philosophy rooted in the
-observation that simpler societies often maintain more stable relationships
-with their environments.
-
-## Man Doesn't Live by Bread Alone
-
-The book's subtitle — "Regaining the Paradise Lost" — points to Fukuoka's
- conviction that the crisis of modern agriculture is ultimately a spiritual
-crisis. Science, he argued, "can't tell us why, how, and in what way man eats
-and should eat." It cannot explain "the true source, meaning, and goal of
-life." The question is not whether we can produce enough food but whether we
-understand what it means to live.
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-mu-philosophy]]
-- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
-- [[fukuoka-bushman-philosophy-great-spirit]]
-- [[fukuoka-ignorant-agriculture-pit-of-knowledge]]
-- [[fukuoka-god-nature-nameless-wandering]]

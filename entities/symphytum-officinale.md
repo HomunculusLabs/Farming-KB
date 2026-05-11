@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Hills, L.D. (1976). Comfrey: Fodder, Food & Remedy. Faber & Faber."
   - "Rodale, J.I. (1975). The Rodale Book of Composting. Rodale Press."
   - "Whitehead, D.C. (2000). Nutrient Elements in Grassland: Soil-Plant-Animal Relationships. CABI Publishing."
@@ -86,63 +87,3 @@ The exceptionally high potassium content makes comfrey particularly valuable for
 Comfrey tea is one of the most widely used organic [[solomon-liquid-fertilizers-and-foliar-feeding]]:
 
 **Method:** Pack fresh comfrey leaves into a container (bucket or barrel), weigh down, cover with water, and let ferment for 2–4 weeks. The resulting dark liquid is diluted 1:10 to 1:15 with water and applied as a foliar feed or soil drench.
-
-- **Nutrient content:** Approximately NPK 8:2:20 (diluted) — extremely high in potassium
-- **Application rate:** 500 mL diluted solution per plant, weekly during the growing season
-- **Odor:** Extremely pungent during fermentation; best prepared in a sealed container or away from living areas
-
-### Mulch
-
-Fresh comfrey leaves can be applied directly as a thick mulch layer (5–10 cm) around garden plants:
-
-- **Nitrogen release:** Leaves decompose rapidly, releasing nutrients within 2–3 weeks
-- **Slug deterrence:** The coarse hairs on comfrey leaves may deter [[query-how-to-get-rid-of-slugs-and-snails-organically]] from reaching crop plants
-- **Soil moisture:** The mulch layer reduces evaporation and suppresses weed germination
-
-### Compost Accelerator
-
-Comfrey leaves added to compost piles act as a natural activator:
-
-- The high nitrogen content accelerates decomposition of carbon-rich materials (straw, cardboard, wood chips)
-- Layering 5–10 cm of comfrey leaves between brown materials speeds composting by 30–50%
-- The calcium content helps maintain optimal pH for composting microorganisms
-
-### Biomass Production
-
-Yield data for established Bocking 14 comfrey plots:
-
-- **First year:** 1–2 cuts; ~2–3 kg fresh weight per plant
-- **Established plants (year 2+):** 4–6 cuts per season; ~5–7 kg fresh weight per plant per cut
-- **Per hectare:** 50–100 tonnes fresh weight per year (10–20 tonnes dry weight)
-- **Spacing:** 60–90 cm between plants in dedicated beds
-
-### Polyculture Integration
-
-Comfrey is integrated into permaculture systems in numerous ways:
-
-- **Fruit tree guilds:** Planted at the drip line of fruit trees to cycle nutrients, provide mulch, and suppress grass competition
-- **Chop-and-drop ground cover:** Regular cutting feeds the soil surface with nutrient-rich organic matter
-- **Barrier planting:** Dense comfrey beds can suppress invasive weeds like couch grass and bindweed through competition
-- **Nutrient interception:** Placed between nutrient-leaching crops and waterways to capture and recycle dissolved minerals
-
-## Medicinal Use (External Only)
-
-Comfrey has been used for over 2,000 years. Dioscorides prescribed comfrey root (Greek: *symphyton* = "growing together") for wounds and bone fractures. Key active compounds include **allantoin** (0.3–1.0%), a cell proliferant that stimulates wound healing and epithelial migration; **rosmarininic acid** (anti-inflammatory); **mucilage** (up to 30%, soothing); and **tannins** (4–6%, astringent). Modern regulatory frameworks restrict comfrey to **external use only** — for sprains, bruises, joint inflammation, and minor burns. A 2012 Cochrane review found moderate evidence that topical comfrey reduces acute musculoskeletal pain more effectively than placebo.
-
-## Safety Concerns: Pyrrolizidine Alkaloids
-
-Comfrey contains hepatotoxic **pyrrolizidine alkaloids (PAs)**, primarily symphytine, echimidine, and lycopsamine. PAs are metabolized to reactive pyrrolic esters causing hepatic veno-occlusive disease (VOD) and are classified as probable human carcinogens (IARC Group 2B). Risk is greatest with internal use (tea, tinctures, capsules). Banned for internal use in Australia, Canada, Germany, and several other countries. **Comfrey should only be used externally, on intact skin, for limited durations.**
-
-## Cultivation
-
-- **Propagation:** Root cuttings (most common), crown divisions, or offsets; Bocking 14 must be vegetatively propagated
-- **Soil:** Tolerates a wide range; prefers deep, moist, fertile loams; pH 6.0–7.0
-- **Sun:** Full sun to partial shade
-## See Also
-
-- nitrogen-fixing-plants — Complementary soil fertility strategy
-- permaculture-plant-guilds — [[aquatic-polyculture-design-mollison]] patterns
-- boraginaceae — Borage family botanical overview
-- [[decomposition]]
-- [[forest-gardens]]
-- [[permaculture-design]]

@@ -7,17 +7,17 @@ tags: [entheogen, chemistry, preparation, lab-technique, cacti, psychopharmacolo
 sources: []
 ---
 
-# Mescalin [[psilocybin-extraction-guide]] de
+# Mescaline Extraction Guide
 
 ## Overview
 
-Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring phenethylamine alkaloid found in several cactus species, most notably peyote (Lophophora williamsii), San Pedro (Trichocereus pachano [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] orch (Trichocereus peruvianus).[[chamovitz-gravitropism-plant-knows-where-it-is]] s [[chicken-of-the-woods]] the oldest known psychoactive compounds — evidence [[mescalero-apache-peyote-use]] use dates back over 5,000 years.
+Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring phenethylamine alkaloid found in several cactus species, most notably peyote ([[lophophora-williamsii]]), San Pedro ([[trichocereus-pachanoi]]), and Peruvian Torch ([[trichocereus-peruvianus]]). It is one of the oldest known psychoactive compounds — evidence of peyote use dates back over 5,000 years.
 
-This guide cove [[mushroom-extraction-methods]] ods for isolating mescaline from cactus material. Mescaline is a Schedule I controlled substance in the United States and many other countries. This information is provided for educational and harm-reduction purposes.
+This guide covers extraction methods for isolating mescaline from cactus material. Mescaline is a Schedule I controlled substance in the United States and many other countries. This information is provided for educational and harm-reduction purposes.
 
 ## The Chemistry
 
-Mescaline is a phenethylamine — structurally related to amphetamine and MDMA, but with a distinct pharmacological profile. It is a serotonin 5-HT2A receptor agonist, like psilocybin and LSD, but also has significant activity at other serotonin receptor subtypes.
+Mescaline is a phenethylamine — structurally related to amphetamine and MDMA, but with a distinct pharmacological profile. It is a serotonin 5-HT2A receptor agonist, like psilocybin and LSD, but also has significant activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes.
 
 ### Chemical Properties
 - Molecular formula: C11H17NO3
@@ -38,7 +38,7 @@ Mescaline is a phenethylamine — structurally related to amphetamine and MDMA, 
 - **Lophophora williamsii** (peyote): 0.4–6.0% fresh weight (varies enormously)
 - **Trichocereus pachanoi** (San Pedro): 0.1–2.0% dried tissue
 - **Trichocereus peruvianus** (Peruvian Torch): 0.3–2.4% dried tissue
-- **Trichocereus bridgesii** (Bolivian Torch): 0.5–2.0% dried tissue
+- **[[trichocereus-bridgesii]]** (Bolivian Torch): 0.5–2.0% dried tissue
 
 Note: Published mescaline content figures vary widely between sources. Potency depends on genetics, growing conditions, age, and part of the cactus used. The green outer tissue has the highest concentration.
 
@@ -147,4 +147,4 @@ Onset: 45–90 minutes. Peak: 2–4 hours. Duration: 8–12 hours.
 - Mescaline produces a long-duration experience — plan for 12+ hours
 - Nausea during onset is common and sometimes severe
 - Cardiovascular effects include increased heart rate and blood pressure
-- Not recommended for people with heart conditions, schizophrenia, or bipolar disorder
+- Not recommended for people with heart conditions, schizophrenia, or [[blesching-cannabis-bipolar-disorder]]

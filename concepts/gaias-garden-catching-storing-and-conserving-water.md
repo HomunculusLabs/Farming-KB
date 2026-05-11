@@ -3,6 +3,7 @@ title: Catching, Storing, and Conserving Water
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 type: concept
 tags: [gardening, water]
@@ -87,21 +88,3 @@ often the most productive planting area in the entire garden, supporting
 species that bridge the gap between aquatic and terrestrial ecosystems.
 
 ## Keyline Design and Broad-Scale Water Harvesting
-
-For properties larger than a typical backyard, the principles of keyline
-design offer a broader framework for water management. Developed by P.A.
-Yeomans in Australia, keyline design uses the natural topography of the land
-to guide the placement of dams, channels, and cultivation patterns that
-maximise water infiltration across the entire landscape. The keyline itself is
-a [[comparison-swale-vs-contour-line-water-management]] identified at the point where the valley floor begins to
-flatten out on the slope. Cultivation parallel to this keyline, rather than
-along the contour, gently directs runoff from valleys toward ridges,
-distributing moisture more evenly across the landscape. This approach
-complements the swale systems described above and can be integrated with
-[[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[gaias-garden-backyard-wetland]]
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[fukuoka-soil-fertility-straw-mulch]]
-- [[building-soil-fertility-long-term]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

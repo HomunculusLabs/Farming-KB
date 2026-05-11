@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,10 +88,3 @@ See also: [[cervantes-biological-pest-control-predators]]
   repel caterpillars.
 - **Rotenone** is effective against caterpillars when
   other methods fail.
-- **Spinosad** products are also effective against
-  caterpillar pests.
-
-Liquid Bt can be injected into stalks to kill borers
-that have already tunneled inside the stem.
-
-See also: [[cervantes-neem-oil-organic-pest-control]]

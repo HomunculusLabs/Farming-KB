@@ -88,11 +88,3 @@ Henbane alkaloids continue to be important in modern medicine. Scopolamine (hyos
 - [[belladonna-atropa-belladonna-ethnobotany]] — belladonna ethnobotany.
 
 [[datura-metel-old-world-ethnobotany]] — [[datura-metel-old-world-ethnobotany]] Datura metel.
-
-[[solanaceous-hallucinogens-pharmacology]] — solanaceous hallucinogen pharmacology.
-
-## References
-
-Schultes, R.E. & Hofmann, A. Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers. Healing Arts Press, 1992.
-
-Ratsch, C. The Encyclopedia of Psychoactive Plants. Park Street Press, 2005.

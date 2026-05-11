@@ -3,7 +3,8 @@ title: "Arnica vs Calendula"
 tags: [comparison, medicinal-herbs, topical-remedies, herbalism, asteraceae]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Arnica vs Calendula

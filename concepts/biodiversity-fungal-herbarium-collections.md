@@ -1,7 +1,7 @@
 ---
-title: "biodiversity fungal herbarium collections Collections Management"
+title: Biodiversity Fungal Herbarium Collections
 created: 2026-04-28
-tags: [mycology, herbarium, specimen-management, fungal-taxonomy, biodiversity]
+tags: [[mycology]], herbarium, specimen-management, [[fungal-taxonomy]], biodiversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -87,16 +87,3 @@ information for endangered species or species likely to be collected for
 nonscientific purposes (such as choice edible or hallucinogenic fungi)
 and determinations for specimens that are part of not-yet-published
 research projects.
-
-Ultimately, some institution must take responsibility for coordinating
-data standards across herbaria to enable queries across multiple
-collections. While most herbaria cannot afford to wait for such
-coordination, they proceed with awareness that protocols may need
-revision for future interoperability.
-
-## Uses Beyond Taxonomy
-
-Herbarium specimens serve purposes beyond systematic research. They
-document fungal-diversity-extreme-environments at particular places and times, relevant
-to conservation and [[dighton-fungi-climate-change-feedback]] studies. They serve as sources for
-ethnological, medical, and pharmaceutical research. As databases and

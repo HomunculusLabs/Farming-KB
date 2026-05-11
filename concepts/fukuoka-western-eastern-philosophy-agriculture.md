@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on Western and Eastern Philosophy in Agriculture
 
@@ -87,30 +88,3 @@ These philosophical observations underpin Fukuoka's agricultural methods:
 
 - [[fukuoka-western-vs-japanese-attitudes]]
 - [[fukuoka-natural-orchard-management]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]. The intellectual recognition of failure must precede the practical adoption of alternatives.
-
-## Questioning Christianity
-
-Westerners have started to question Western philosophy and the road taken by Christianity. They have begun to notice that new possibilities exist in Eastern philosophy and Buddhism. They are not saying that Eastern philosophy is good or that they will abandon Christian beliefs for Buddhist faith. They haven't gone that far, but they have noticed that there is something good there.
-
-Fukuoka sees this as significant: the openness to Eastern thought does not require conversion but rather a genuine curiosity — the same curiosity that leads someone to ask whether food can be grown without plowing, without chemicals, without intervention.
-
-## The Japanese Paradox
-
-Impressed by the fact that Westerners had once conquered the world, the Japanese thought their exploits dashing and were convinced this was progress. As a result, the Japanese became clever, their diet rich, and their physical stature larger. Having come so far, they even began to think they might conquer the world. But in the West, people see things differently: "All the Japanese have done is to travel in thirty or forty years the road that took us a century or two to build. Perhaps they have caught up and even passed us. But we don't envy them for it because that road leads nowhere."
-
-Westerners say: "The Japanese have all but forgotten Eastern philosophy. But we will probably go in, mine this forgotten wisdom, and use it to progress in a new direction."
-
-This passage reveals Fukuoka's view that Japan had traded its own spiritual heritage for Western materialism, only to find that the West itself was now looking eastward for what Japan had discarded. The irony is that Japan's most valuable export to the West — natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] — was something Japan itself had largely abandoned.
-
-## Zen and Natural Farming
-
-Many young foreigners who visit Fukuoka's farm come after stopping by a Zen temple such as Eihei-ji or practicing Zen meditation somewhere. They are able to clearly and unequivocally say, "I don't understand." Japanese, after doing zazen for a short while, put on a knowing air and say they understand Zen. They arrive at a point where they feel they understand, so they stop meditating. Westerners, on the other hand, are not afraid to admit they do not understand. They will say: "Nothing came of practicing zazen, but I don't have any intention of turning around and heading back for home. My only choice is to continue with my meditation."
-
-Fukuoka considered this a very small distinction, but the one where the big difference between Japanese and Westerners lies. The Westerners pursue Zen and Eastern philosophy knowing full well that what they are doing may be little more than imitation — yet they have a wonderful simplicity of heart that allows them to commit fully regardless.
-
-For Fukuoka, this capacity to sustain uncertainty — to remain in a state of "not knowing" — is essential to both Zen practice and natural farming. [[fukuoka-natural-farming-philosophy]] that Fukuoka advocates — food is not merely nutrition but a pathway to [[fukuoka-natural-perceiving-nature-without-relativism]] correctly.
-
-## "Do-Nothing" Nature
-
-When Fukuoka tells Westerners that Lao Tzu said, "It is enough to live a natural, 'do-nothing' life," they respond: "No amount of thought is going to help me know whether 'do-nothing' nature is good or bad. That's why I've got to try it first and see." The Japanese, without even giving it a try, say: "That looks duller than city life, so I've given up the thought of trying it."

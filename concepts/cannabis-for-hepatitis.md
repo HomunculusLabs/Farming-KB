@@ -12,7 +12,7 @@ sources:
 
 updated: 2026-04-18
 
-Cannabis has shown therapeutic potential for hepatitis, both for managing treatment side effects and for its immunomodulatory and hepatoprotective properties. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents three studies with a CHI Value of 2.67.
+Cannabis has shown [[metzner-ayahuasca-therapeutic-potential]] for hepatitis, both for managing treatment side effects and for its immunomodulatory and hepatoprotective properties. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents three studies with a [[blesching-cannabis-prostate-cancer-chi-value-3]] of 2.67.
 
 ## CHI Summary
 
@@ -27,7 +27,7 @@ Cannabis has shown therapeutic potential for hepatitis, both for managing treatm
 ### Cannabis Improves Hepatitis C Treatment Retention
 **Sylvestre, Clements, and Malibu (2006)**: "Cannabis use improves retention and virological outcomes in patients treated for hepatitis C." European Journal of Gastroenterology and Hepatology.
 
-This landmark study found that hepatitis C patients who used cannabis were significantly more likely to complete their full course of interferon/ribavirin treatment and achieve sustained virological response (SVR). The primary barrier to successful hepatitis C treatment has historically been the severe side effects of interferon therapy, which cause many patients to abandon treatment.
+This [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] found that hepatitis C patients who used cannabis were significantly more likely to complete their full course of interferon/ribavirin treatment and achieve sustained virological response (SVR). The primary barrier to successful hepatitis C treatment has historically been the severe side effects of interferon therapy, which cause many patients to abandon treatment.
 
 ### Cannabis for Interferon/Ribavirin Side Effects
 **Costiniuk, Mills, and Cooper (2008)**: "Evaluation of oral cannabinoid-containing medications for the management of interferon and ribavirin-induced anorexia, nausea and weight loss in patients treated for chronic hepatitis C virus." Canadian Journal of Gastroenterology.
@@ -42,7 +42,7 @@ These side effects are the primary reason patients discontinue treatment. By man
 ### Cannabinoids Attenuate Autoimmune Hepatitis
 **Hegde et al. (2008)**: "Attenuation of experimental autoimmune hepatitis by exogenous and endogenous cannabinoids: Involvement of regulatory T cells." Molecular Pharmacology.
 
-This study demonstrated that both plant-derived and endogenous cannabinoids can reduce autoimmune liver inflammation through a mechanism involving regulatory T cells. This suggests a direct immunomodulatory effect on liver pathology, beyond just symptom management.
+This study demonstrated that both plant-derived and endogenous cannabinoids can reduce autoimmune liver inflammation through a mechanism involving regulatory T cells. This suggests a direct immunomodulatory effect on liver pathology, beyond just [[cannabis-cancer-symptom-management]].
 
 ## Mechanism of Action
 
@@ -88,11 +88,3 @@ CBD-dominant strains or balanced THC:CBD strains may be preferred for hepatitis 
 
 ### Drug Interactions
 Hepatitis C patients on interferon/ribavirin therapy should consult with hepatologists about cannabis use, as cannabinoids are metabolized by the liver (CYP450 system) and dosing may need adjustment.
-
-## Related Topics
-
-- [[cannabis-endocannabinoid-system]]
-- Cannabis For Inflammation
-- [[cannabis-anti-inflammatory-applications]]
-- mushroom-cytokine-production-immune-activation
-- [[cannabis-for-nausea-and-appetite-stimulation]]

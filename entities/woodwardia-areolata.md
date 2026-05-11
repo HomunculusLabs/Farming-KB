@@ -21,7 +21,7 @@ sources:
 
 **Woodwardia areolata** (L.) T. Moore is a deciduous fern in the family
 Blechnaceae, commonly called the netted chain fern. It is native to eastern
-North America and is strongly associated with wetland habitats including swamps,
+[[guzman-psilocybin-mushrooms-north-america]] and is strongly associated with wetland habitats including swamps,
 bogs, and streambanks.
 
 The species is named for its distinctive netted venation pattern, visible when
@@ -73,8 +73,8 @@ common in regions with high water tables and acidic, organic-rich soils derived
 from sandy or peaty substrates.
 
 The species tolerates moderate shade but also occurs in full sun at open
-wetland margins. It is often found growing alongside *Osmundastrum cinnamomeum*,
-*Onoclea sensibilis*, and *Sphagnum* species.
+wetland margins. It is often found growing alongside *[[osmundastrum-cinnamomeum]]*,
+*[[onoclea-sensibilis]]*, and *Sphagnum* species.
 
 ## Ecological Role
 
@@ -84,44 +84,7 @@ Its creeping rhizomes help bind soil on streambanks and in swamp margins.
 
 The species provides habitat for wetland invertebrates and amphibians. Dense
 colonies create a moist, sheltered microclimate at ground level that benefits
-salamanders, frogs, and ground beetles.
+salamanders, frogs, and [[ground-beetles-carabidae-and-biological-pest-control]].
 
 Frond litter accumulates as peaty [[hamilton-composting-and-organic-matter-management]] in acidic wetlands. This slow-
 decomposing material contributes to soil [[holmgren-soil-humus-carbon-storage-rebuilding]] and helps maintain the
-acidic conditions favored by many wetland plant communities.
-
-*Woodwardia areolata* is considered an indicator species for high-quality
-wetland habitats in the eastern United States. Its presence generally
-indicates minimal hydrological disturbance and intact native vegetation.
-
-## Cultivation and Uses
-
-Netted chain fern is occasionally cultivated in shade and water gardens. It
-requires consistently moist to wet soil and partial shade, making it suitable
-for bog gardens, rain gardens, and pond margins.
-
-It is hardy to USDA Zone 5 and relatively easy to establish from division of
-rhizome segments. Once established, colonies spread steadily but are not
-considered invasive in garden settings.
-
-The species has limited ethnobotanical history. Some Indigenous peoples of the
-southeastern United States may have used the rhizomes medicinally, though
-specific records are sparse compared to more prominent fern species like
-*Pteridium aquilinum* or *Dryopteris filix-mas*.
-
-In ecological restoration, it is used for wetland mitigation plantings and
-riparian buffer projects within its native range. Its ability to colonize
-saturated soils makes it effective for stabilizing disturbed wetland sites.
-
-## See Also
-
-- [[woodwardia-fimbriata]]
-
-- [[onoclea-sensibilis]]
-- [[osmunda-regalis]]
-- [[blechnum-spicant]]
-- [[athyrium-filix-femina]]
-- [[pteridium-aquilinum]]
-- [[nephrolepis-exaltata]]
-- [[marsilea-quadrifolia]]
-- [[dennstaedtia-punctilobula]]

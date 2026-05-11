@@ -9,19 +9,19 @@ sources: []
 
 # Online Homestead Sales
 
-Selling homestead products online extends reach beyond local markets and creates passive income streams. Platforms like Etsy, Shopify, and social media enable direct-to-consumer sales of shelf-stable and value-added products. This guide covers platforms, shipping regulations, photography, and marketing.
+Selling homestead products online extends reach beyond local markets and creates passive [[homesteading-income-streams]]. Platforms like Etsy, Shopify, and social media enable direct-to-consumer sales of shelf-stable and value-added products. This guide covers platforms, shipping regulations, photography, and marketing.
 
 ## Product Categories for Online Sales
 
 ### What Sells Online (Shelf-Stable)
 - Dried herbs and tea blends (see [[homestead-herb-business]])
-- Hot sauce and fermented products (see [[fermented-hot-sauce-guide]])
+- [[hot-sauce-making]] and fermented products (see [[fermented-hot-sauce-guide]])
 - Preserves: jam, jelly, canned goods (pH below 4.6 only)
 - Baked goods: shipped breads, cookies, granola
 - Tinctures and herbal remedies
 - Salves, balms, body care products
 - Beeswax candles and wraps
-- Mushroom products: dried, powders, grow kits (see [[homestead-mushroom-business]])
+- [[cotter-mushroom-products-and-value-added-applications]]: dried, powders, grow kits (see [[homestead-mushroom-business]])
 - Seeds and plant starts (seasonal)
 - Wool, yarn, fiber products
 - Soap (cold process, hot process)
@@ -59,7 +59,7 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ### Local Delivery Platforms
 - Barn2Door, FoodHub, Harvie
-- Best for: local CSA and farm share management
+- Best for: local CSA and [[csa-farm-share-model]] management
 - Fees: varies, typically 2-5% transaction fee
 - Connects online ordering with local pickup/delivery
 
@@ -73,7 +73,7 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ### Shipping Best Practices
 - Use appropriate packaging: bubble wrap, box inserts, peanuts
-- Temperature-sensitive items: avoid shipping in extreme heat (May-September in hot regions)
+- Temperature-sensitive items: avoid shipping in [[extreme-heat-preparedness]] (May-September in hot regions)
 - Insulated shipping: foam-lined boxes + ice packs for heat-sensitive products ($3-8 per package)
 - Shipping carriers: USPS Priority Mail (2-3 days) for most packages; UPS/FedEx for heavy or large items
 - Calculate shipping costs accurately: weigh products + packaging, use carrier calculators
@@ -130,7 +130,7 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ## Pricing for Online Sales
 
-Online pricing should be higher than farmers market to cover shipping and platform fees:
+Online pricing should be higher than [[farmers-market-selling-guide]] to cover shipping and platform fees:
 
 | Cost Factor | Estimate |
 |---|---|

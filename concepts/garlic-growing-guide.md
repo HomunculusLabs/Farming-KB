@@ -9,7 +9,7 @@ sources: []
 
 # Garlic Growing Guide
 
-Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. Planted in fall and harvested in summer, garlic requires minimal maintenance and produces a high-value crop that stores for months. This guide covers varieties, planting, care, harvesting, and curing. (see [[strawberry-growing-guide]]).
+Garlic ([[allium-sativum-entity]]) is one of the easiest and most rewarding crops to grow. Planted in fall and harvested in summer, garlic requires minimal maintenance and produces a high-value crop that stores for months. This guide covers varieties, planting, care, harvesting, and curing.
 
 ## Softneck vs. Hardneck
 
@@ -23,7 +23,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 | Braiding | Yes — flexible stems | No — stiff stem |
 
 ### Softneck Varieties
-- **Artichoke** — most common supermarket garlic; mild, many cloves (e.g., California Early, California Late). (see [[lettuce-and-leafy-greens]]).
+- **Artichoke** — most common supermarket garlic; mild, many cloves (e.g., California Early, California Late).
 - **Silverskin** — strongest-flavored softneck; longest storage (up to 12 months); best for braiding (e.g., Silver Rose, Nookta Rose).
 
 ### Hardneck Varieties
@@ -33,7 +33,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 - **Creole** — adapted to warm climates, long-storing, moderate clove count (e.g., Ajo Rojo).
 
 ### Elephant Garlic
-- Not true garlic — a leek relative (Allium ampeloprasum).
+- Not true garlic — a leek relative ([[allium-ampeloprasum]]).
 - Produces very large heads (4-6 inches) with 4-6 massive cloves.
 - Milder, sweeter flavor than true garlic.
 - Plant 6 inches deep and 12 inches apart (larger than true garlic).
@@ -72,7 +72,7 @@ Garlic (Allium sativum) is one of the easiest and most rewarding crops to grow. 
 ## Spring Care
 
 - **Remove mulch partially** in spring when new shoots emerge — pull back to 1-2 inches to let soil warm.
-- **Side-dress with nitrogen** when shoots are 6 inches tall: blood meal, composted manure, or fish emulsion. Repeat every 3-4 weeks until bulbing begins.
+- **Side-dress with nitrogen** when shoots are 6 inches tall: blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or fish emulsion. Repeat every 3-4 weeks until bulbing begins.
 - **Keep consistently watered** — garlic needs 1-2 inches of water per week during active growth.
 - **Stop watering** 2-3 weeks before expected harvest date (reduces disease and improves curing).
 - **Weed diligently** — garlic is a poor competitor against weeds.
@@ -122,7 +122,7 @@ Proper curing is essential for long storage. Garlic needs to dry slowly in a war
 - Store in a cool (55-65°F), dry (40-50% humidity), dark, well-ventilated area.
 - **Do NOT refrigerate** — cold + moisture triggers sprouting.
 - Mesh bags, paper bags, or open baskets work well.
-- Hang braided softneck garlic in a kitchen or pantry.
+- Hang braided [[comparison-hardneck-vs-softneck-garlic]] in a kitchen or pantry.
 - **Softneck**: 6-9 months (Silverskin up to 12 months).
 - **Hardneck**: 4-6 months — use these first.
 - **Elephant garlic**: 8-10 months.
@@ -141,5 +141,5 @@ Proper curing is essential for long storage. Garlic needs to dry slowly in a war
 
 - [[companion-planting-reference]] — garlic as a pest-repelling companion
 - [[soil-amendment-reference]] — bone meal and phosphorus for bulb development
-- [[mulching-guide]] — winter mulch and weed suppression
+- [[mulching-guide]] — winter mulch [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
 - [[onion-growing-guide]] — related allium cultivation

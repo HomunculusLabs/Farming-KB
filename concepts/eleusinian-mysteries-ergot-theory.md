@@ -87,24 +87,3 @@ Defenders of the theory note that the absence of direct evidence is precisely wh
 ## See Also
 
 - [[catholic-church-suppression-eleusinian-mysteries]]
-
-- [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
-- [[claviceps-paspali]]
-- [[lysergic-acid-amide]]
-- [[wasson-hofmann-ruck-theory]]
-- Robert Graves
-- The Road to Eleusis
-- Minoan civilization
-- Demeter and Persephone
-- psychedelic plants in classical antiquity
-- sacramental use of psychoactive substances
-- Telesterion
-- Eumolpidae
-- Kerykes
-
-## Further Reading
-
-- Wasson, R. Gordon, Albert Hofmann, and Carl A. P. Ruck. *The Road to Eleusis: Unveiling the Secret of the Mysteries*. Harcourt Brace Jovanovich, 1978.
-- McKenna, Terence. *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books, 1992.
-- Graves, Robert. "The Two Births of Dionysus." In *The Greek Myths*, Volume 1. Penguin, 1960.
-- Hofmann, Albert. *LSD: My Problem Child*. McGraw-Hill, 1980.

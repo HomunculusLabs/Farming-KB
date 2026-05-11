@@ -87,28 +87,3 @@ The genus Limnophila contains approximately 40 species distributed across tropic
 *L. gratioloides* is an Australian native found in seasonal wetlands. It has been investigated for its essential oil composition, which differs significantly from L. aromatica in its sesquiterpene profile.
 
 *L. chinensis* occurs in China and India and is used in traditional medicine for fever and inflammation. The species is morphologically similar to L. aromatica but produces smaller, less aromatic leaves.
-
-## Conservation and Market Status
-
-Rice paddy herb is primarily harvested from the wild or from informal cultivation in home gardens and rice paddies. Formal commercial production remains limited, with most supply coming from local wet markets.
-
-Urbanization and the conversion of traditional rice paddies to aquaculture or development threaten wild populations in Vietnam's Mekong Delta and around Bangkok. However, the species is not currently considered at risk.
-
-The growing interest in Southeast Asian cuisine globally has increased demand for the fresh herb in diaspora communities. Export of fresh or frozen rice paddy herb from Thailand and Vietnam to [[psilocybin-north-america-pacific-northwest]], Europe, and Australia is expanding.
-
-## Distinction from Similar Culinary Herbs
-
-L. aromatica is sometimes confused with other Southeast Asian herbs, but its flavor and appearance are distinctive. Unlike Vietnamese coriander (*Persicaria odorata*), it has opposite leaves and a more delicate, less peppery taste.
-
-It differs from culantro (*Eryngium foetidum*) in its aquatic growth habit and the absence of the characteristic saw-tooth leaf margins. The aroma of rice paddy herb is more citrusy and less intensely cilantro-like.
-
-In Cambodian markets, the herb may be sold alongside *Oenanthe javanica* (water dropwort) and *Mentha* species. Its soft, slightly hairy stems and opposite leaf arrangement distinguish it from these co-occurring aquatic herbs.
-
-## See Also
-
-- [[eryngium-foetidum]]
-- [[ocimum-basilicum]]
-- [[zingiber-officinale]]
-- [[murraya-koenigii]]
-- ocimum-sanctum
-- [[salvia-officinalis]]

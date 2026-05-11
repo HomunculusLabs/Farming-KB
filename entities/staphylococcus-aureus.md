@@ -60,11 +60,11 @@ The bacterium produces golden-pigmented colonies on agar, from which the species
 - **Enterotoxins A-E** — heat-stable superantigens causing staphylococcal food poisoning
 - **Exfoliative toxins A and B** — cause scalded skin syndrome by cleaving desmoglein-1
 - **Coagulase** — converts fibrinogen to fibrin, forming a protective clot around the bacteria
-- **Hyaluronidase and lipase** — facilitate tissue spread and nutrient acquisition
+- **Hyaluronidase and lipase** — facilitate tissue spread and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 
 ### Biofilm Formation
 
-*Staphylococcus aureus* forms robust biofilms on abiotic surfaces including catheters, prosthetic joints, and heart valves. Biofilm-embedded bacteria exhibit dramatically increased tolerance to antibiotics and host immune defenses.
+*Staphylococcus aureus* forms robust biofilms on abiotic surfaces including catheters, prosthetic joints, and heart valves. Biofilm-embedded bacteria exhibit dramatically increased tolerance to antibiotics and [[fungal-virulence-factors-host-immune-evasion]] defenses.
 
 The polysaccharide intercellular adhesin (PIA) and extracellular DNA are major biofilm matrix components. Biofilm formation is a critical factor in device-related infections that are notoriously difficult to eradicate.
 
@@ -88,56 +88,6 @@ The polysaccharide intercellular adhesin (PIA) and extracellular DNA are major b
 ### Toxin-Mediated
 
 - Staphylococcal food poisoning (enterotoxin-mediated; rapid onset 2–6 hours)
-- Toxic shock syndrome (TSST-1 or enterotoxin-mediated)
-- Staphylococcal scalded skin syndrome (exfoliative toxin-mediated; primarily in neonates)
-
-## Antibiotic Resistance
-
-### MRSA
-
-Methicillin-resistant *Staphylococcus aureus* (MRSA) carries the *mecA* gene encoding penicillin-binding protein 2a (PBP2a), which has low affinity for beta-lactam antibiotics. MRSA emerged in the 1960s and has since become a major global health threat.
-
-Hospital-acquired MRSA (HA-MRSA) is multidrug-resistant and associated with invasive infections in healthcare settings. Community-acquired MRSA (CA-MRSA) is typically susceptible to more non-beta-lactam agents and often carries PVL genes.
-
-### Resistance Profile
-
-- **Penicillin** — >95% of strains produce beta-lactamase
-- **Methicillin/oxacillin** — resistance via *mecA* (MRSA)
-- **Macrolides and lincosamides** — inducible or constitutive MLSB resistance
-- **Fluoroquinolones** — increasing resistance, particularly in HA-MRSA
-- **Vancomycin** — intermediate (VISA) and resistant (VRSA) strains have emerged
-- **Linezolid and daptomycin** — currently effective but resistance has been reported
-
-## Treatment
-
-### Antibiotic Options
-
-- **MSSA (methicillin-susceptible):** Beta-lactams (nafcillin, oxacillin, cefazolin) are first-line
-- **MRSA:** Vancomycin remains the drug of choice for serious infections
-- **Alternatives for MRSA:** Linezolid, daptomycin, ceftaroline, tedizolid, dalbavancin
-- **Skin infections:** Incision and drainage plus oral antibiotics (TMP-SMX, doxycycline, or clindamycin for MRSA)
-
-### Adjunctive Measures
-
-- Source control (drainage, debridement, device removal)
-- Infectious disease consultation for bacteremia and endocarditis
-- Decolonization protocols for recurrent MRSA (mupirocin nasal ointment plus chlorhexidine washes)
-
-## Epidemiology
-
-*Staphylococcus aureus* is a ubiquitous organism found on skin, in the nares, and in the environment. Nasal carriage is the single most important risk factor for subsequent infection.
-
-Transmission occurs via direct contact, contaminated surfaces, and respiratory droplets. Risk factors include compromised skin barriers, indwelling medical devices, immunosuppression, diabetes mellitus, and recent hospitalization.
 
 ## See Also
-
-- [[pseudomonas]]
-- [[bacillus-subtilis]]
-- [[lactobacillus]]
-- [[streptomyces]]
-- [[aspergillus-niger]]
-- [[fusarium-oxysporum]]
-- [[botrytis-cinerea]]
-- [[trichoderma]]
-- [[lactic-acid-bacteria]]
-- [[penicillium-chrysogenum]]
+- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]

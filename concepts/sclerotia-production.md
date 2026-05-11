@@ -88,34 +88,3 @@ To harvest sclerotia from grass seed jars:
 ## Sclerotia in Cased Trays
 
 Sclerotia also form within the casing layer of cased trays used for mushroom
-production. When growing *P. tampanensis* or *P. mexicana* for mushrooms,
-sclerotia can be harvested from the casing soil after the final flush. However,
-dedicated jar cultivation produces a significantly higher sclerotia-to-substrate
-ratio than the incidental sclerotia found in cased trays.
-
-## Yield Expectations
-
-Typical sclerotia yields on grass seed vary by species and duration:
-
-- *P. tampanensis*: 20-40% of wet substrate weight after 3-4 months
-- *P. mexicana*: 10-25% of wet substrate weight after 3-4 months
-
-These figures represent wet weight. Drying reduces mass by approximately 70-80%
-due to water content.
-
-## Comparison with Mushroom Cultivation
-
-| Factor | Sclerotia (Jars) | Mushrooms (Cased Trays) |
-|--------|-------------------|------------------------|
-| Effort | Very low | Moderate |
-| Equipment | Jars + PC | Jars + PC + fruiting chamber |
-| Time to harvest | 3-4 months | 6-8 weeks |
-| Yield per substrate | Lower (by dry weight) | Higher (by dry weight) |
-| Contamination risk | Low | Moderate |
-| Environmental control | Minimal | Significant |
-
-## See Also
-
-- psilocybe-tampanensis-cultivation — the primary sclerotia-producing species
-- [[casing-soil-preparation]] — for mushroom fruiting from the same species
-- [[cotter-inoculation-techniques-and-hygiene]] — sterile transfer of inoculant to jars

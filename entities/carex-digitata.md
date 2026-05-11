@@ -28,7 +28,7 @@ Carex digitata is distinguished from similar species by its combination of few-f
 
 Despite its wide distribution, the species is locally uncommon in many parts of its range. It is considered an indicator of ancient woodland in some European countries, where its presence suggests long-established forest cover.
 
-In Germany and Switzerland, Carex digitata is used as a diagnostic species in phytosociological classifications of the Carpinion and Fagion alliances. Its fidelity to these communities makes it a useful indicator in forest ecology surveys.
+In Germany and Switzerland, Carex digitata is used as a diagnostic species in phytosociological classifications of the Carpinion and Fagion alliances. Its fidelity to these communities makes it a useful indicator in [[forest-ecology-basics]] surveys.
 
 The species was first described by Carl Linnaeus in his 1753 Species Plantarum. The specific epithet "digitata" refers to the finger-like arrangement of the small spikes on the inflorescence.
 
@@ -58,17 +58,17 @@ Carex digitata has a broad Eurasian distribution, occurring from the British Isl
 
 The species is primarily a plant of deciduous and mixed woodlands on base-rich soils. It favors calcareous substrates including limestone, chalk, and calcium-rich moraines.
 
-Typical habitats include beech (Fagus sylvatica) woodlands, oak-hornbeam forests, and mixed deciduous woods with diverse spring-flowering herb layers. It grows in dappled to moderate shade and avoids both deep shade and fully exposed sites.
+Typical habitats include beech ([[fagus-sylvatica]]) woodlands, oak-hornbeam forests, and mixed deciduous woods with diverse spring-flowering herb layers. It grows in dappled to moderate shade and avoids both deep shade and fully exposed sites.
 
 Soil preferences include well-drained, calcareous loams with moderate humus content. The species is intolerant of waterlogging and acidic conditions, restricting it to base-rich microsites.
 
 In southern and Mediterranean parts of its range, the species is confined to cooler, north-facing slopes and higher elevations. In Scandinavia, it occurs in lowland sites with suitable calcareous geology.
 
-Climate change modeling suggests the species may contract its southern range margins as temperatures increase. However, its broad Eurasian distribution provides substantial geographic buffering against range-wide decline.
+[[dighton-fungal-responses-climate-change]] modeling suggests the species may contract its southern range margins as temperatures increase. However, its broad Eurasian distribution provides substantial geographic buffering against range-wide decline.
 
 ## Ecological Role
 
-Carex digitata is a component of the spring ground-flora layer in calcareous woodlands across Europe. It emerges early in the growing season and completes most of its above-ground growth before canopy closure.
+Carex digitata is a component of the spring ground-flora layer in calcareous woodlands across Europe. It emerges early in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and completes most of its above-ground growth before canopy closure.
 
 The species provides habitat structure for small invertebrates in the woodland herb layer. Ground-dwelling spiders and beetles use the tussock bases as shelter during dry periods and winter months.
 
@@ -80,41 +80,10 @@ Genetic studies using microsatellite markers have revealed limited gene flow bet
 
 ## Similar Species
 
-Carex digitata can be confused with Carex umbrosa (shaded sedge), which shares a similar woodland habitat and compact growth form. Carex umbrosa has broader perigynia (3.5–5 mm) that are ascending rather than deflexed at maturity.
+Carex digitata can be confused with Carex umbrosa (shaded sedge), which shares a similar woodland habitat and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form. Carex umbrosa has broader perigynia (3.5–5 mm) that are ascending rather than deflexed at maturity.
 
 Carex ericetorum (heath sedge) also produces few-flowered spikes but occurs in acidic heathland rather than calcareous woodland. The habitat difference is usually sufficient to separate the two species in the field.
 
 The closely related Carex pediformis from East Asian woodlands is sometimes considered part of a broader Carex digitata complex. These taxa are separated primarily by geographic range and subtle perigynium morphology differences.
 
 ## Cultivation
-
-Carex digitata is occasionally grown in shade gardens and woodland-edge plantings. Its compact size and fine texture make it suitable for naturalistic plantings under deciduous trees.
-
-In cultivation, it prefers part to full shade with moist, humus-rich alkaline soil. Plants are drought-tolerant once established but benefit from supplemental irrigation during prolonged dry periods.
-
-The species requires humus-rich, well-drained soil with a neutral to alkaline pH. It performs poorly in acidic conditions and will not persist in peat-based or ericaceous growing media.
-
-Plants should be sited in partial to full shade with protection from hot afternoon sun. Consistent soil moisture is important during establishment, but established plants tolerate moderate drought.
-
-Winter hardiness is excellent across its native range (USDA zones 4–8). The evergreen to semi-evergreen foliage provides year-round ground cover in milder climates but may brown in harsh winters.
-
-Propagation is by division in spring or autumn, or by seed sown fresh in autumn. Seed requires a period of cold stratification to break dormancy, typically 8–12 weeks at 1–5°C.
-
-Fresh seed germinates at moderate rates (40–60%) after stratification. Division is more reliable for producing uniform plants but must be done before active growth resumes.
-
-The species has no serious pests or diseases in cultivation. It is unpalatable to deer and rabbits due to silica accumulations in the leaf tissues.
-
-Carex digitata has received limited attention from plant breeders and is not widely available in the nursery trade. Specialist native plant nurseries in Europe are the most reliable source for this species.
-
-## See Also
-
-- [[carex-pendula]]
-- [[carex-sylvatica]]
-- [[carex-nigra]]
-- [[carex-flacca]]
-- [[deschampsia-caespitosa]]
-- [[festuca-ovina]]
-- [[molinia-caerulea]]
-- [[dryopteris-filix-mas]]
-- [[anemone-nemorosa]]
-- [[primula-vulgaris]]

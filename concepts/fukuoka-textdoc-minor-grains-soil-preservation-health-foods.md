@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, minor-grains, millet, buckwheat, soil-preservat
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,21 +88,3 @@ would otherwise be a simple two-crop rotation into a complex polyculture that
 more closely resembles natural plant communities.
 
 ## Upland Rice and Minor Grains
-
-Fukuoka also discussed upland rice as a crop with significant potential that
-is underutilized. He noted that upland rice could become "one effective way of
-coping with the worldwide scarcity of food" if [[synthetic-log-cultivation-methods-guide]] were
-improved. However, upland rice faces challenges including susceptibility to
-drought, lower yields than paddy rice, and declining fertility under continuous
-cropping.
-
-His proposed solution was rotational cropping in combination with various green
-manure crops and vegetables, which "raises the ability of the soil to retain
-water and gradually builds up soil fertility." This approach mirrors his
-recommendations for minor grains and demonstrates the universal applicability of
-rotation principles across crop types. The same principles that govern minor
-grain cultivation, diversity, rotation, organic matter return, and minimal
-disturbance, apply equally to upland rice and other underutilized crops.
-## See Also
-
-- [[fukuoka-minor-grains-millets-superior-foods]]

@@ -1,5 +1,5 @@
 ---
-title: "singh fungal interactions with heavy metals in soil with fungal-biosorption-of-heavy-metals-by-filamentous-fungi in Soil"
+title: Singh Fungal Interactions With Heavy Metals In Soil
 created: 2026-04-28
 tags: [heavy-metals, biosorption, bioaccumulation, metallothioneins, tolerance]
 date: 2026-04-25
@@ -13,8 +13,8 @@ type: concept
 
 ## Overview
 
-Heavy metal contamination of soils arises from mining, smelting,
-industrial discharge, agricultural chemicals, and waste disposal.
+Heavy [[gadd-fungal-biosorption-metal-contamination-remediation]] of soils arises from mining, smelting,
+industrial discharge, [[agricultural-chemicals-mycorrhizal-impact]], and waste disposal.
 Singh's treatment of [[aspergillus-niger-in-fungal-bioleaching]] and penicillium entity show high Cd tolerance
 
 ### Lead (Pb)
@@ -38,7 +38,7 @@ Singh's treatment of [[aspergillus-niger-in-fungal-bioleaching]] and penicillium
 - **Chromium speciation**: Cr(VI) highly toxic and mobile; Cr(III) less
   toxic. Fungi reduce Cr(VI) to Cr(III), effectively detoxifying
 - **Fungal interactions**: Chromium reduction by intracellular reductases
-  and extracellular enzymes
+  and [[fungal-extracellular-enzymes]]
 
 ### Arsenic (As)
 
@@ -54,7 +54,7 @@ physicochemical mechanisms:
 
 ### Cell Wall Binding Sites
 
-- **Chitin and chitosan**: Amino groups with high affinity for metal
+- **[[chitin-and-chitosan-in-agriculture]]**: Amino groups with high affinity for metal
   cations; deacetylation increases binding capacity
 - **Glucans**: Beta-glucans provide hydroxyl groups for metal coordination
 - **Melanin**: Phenolic and carboxyl groups bind metals with high affinity
@@ -88,23 +88,3 @@ metal ions and facilitate vacuolar sequestration.
 ## Fungal Tolerance Mechanisms
 
 1. **Exclusion**: Cell wall modifications, extracellular chelation, and
-   efflux transporters prevent metal entry
-2. **Extracellular complexation**: Organic acids and siderophores create
-   metal-organic complexes reducing toxicity
-3. **Intracellular sequestration**: Vacuolar compartmentalization and
-   metallothionein binding
-4. **Enzymatic detoxification**: Cr(VI) reduction, arsenic methylation,
-  As(III) oxidation
-5. **Antioxidant defense**: SOD, catalase, and glutathione peroxidase
-  counter metal-induced [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-
-## Soil Interactions and Mycoremediation
-
-Fungi influence metal mobility through multiple mechanisms:
-[[mycorrhizal-fungi]] for enhanced extraction), and in situ immobilization
-(fungal inoculation precipitating metals as insoluble forms).
-## See Also
-
-- [[fungal-interactions-organisms]]
-- [[singh-bioaccumulation-heavy-metals-fungi]]
-- fungal-microbe-interactions

@@ -87,24 +87,3 @@ Wild Dianthus barbatus occurs naturally in mountainous regions from the Pyrenees
 The species inhabits rocky slopes, open woodlands, meadows, and limestone grasslands at elevations between 400 and 2,000 meters. It favors calcareous substrates and well-drained soils in open, sunny positions.
 
 Naturalized populations have established widely in temperate regions worldwide, including North America, where it occurs in disturbed sites and old fields across the northeastern United States and parts of Canada.
-
-## Ecology and Interactions
-
-Sweet William flowers are attractive to butterflies, moths, and long-tongued bees. The nectar is moderately rich in sugars and accessible to Lepidoptera with proboscises long enough to reach the base of the narrow calyx tube.
-
-The species serves as a minor host plant for some Lepidoptera larvae, though it is not a primary food source for any specialist herbivore. The foliage contains saponins that deter generalized browsing by mammals.
-
-In garden ecosystems, Dianthus barbatus contributes to pollinator diversity during early to mid-summer. Its extended bloom period overlaps with periods when other nectar sources may be scarce.
-
-Self-seeding in favorable conditions allows naturalized populations to persist. The seeds are small and dispersed by wind, though most fall within one meter of the parent plant.
-
-## See Also
-
-- [[dianthus-caryophyllus]] — the carnation, the most commercially important Dianthus species
-- [[dianthus-chinensis]] — China pink, a closely related annual Dianthus used in bedding displays
-- [[saponaria-officinalis]] — soapwort, another Caryophyllaceae with saponin-rich foliage
-- [[silene-capensis]] — African dream root, a Silene species with ethnobotanical significance
-- [[stellaria-media]] — common chickweed, a widespread Caryophyllaceae edible weed
-- [[calendula-officinalis]] — pot marigold, a traditional cottage-garden companion
-- [[centaurea-cyanus]] — cornflower, another classic European meadow annual
-- [[achillea-millefolium]] — yarrow, a hardy perennial sharing Sweet William's cottage-garden role

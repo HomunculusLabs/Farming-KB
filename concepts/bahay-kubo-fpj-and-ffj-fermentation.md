@@ -8,17 +8,17 @@ sources: ["raw/papers/bahay-kubo-indigenous-microorganisms_.md"]
 ---
 # Bahay Kubo — FPJ and FFJ Fermentation Methods
 
-Gil Carandang's bionutrient fermentation system transforms plant and fruit materials into potent biological extracts through controlled microbial fermentation. These preparations serve as foliar fertilizers, soil drenches, animal feed supplements, and food for beneficial microorganisms. The fundamental principle is that fermentation is superior to simple extraction because microorganisms break down complex materials and create enzymes. See [[bionutrients-lab-fermented-fruit-juice-ffj]] for the lab-formatted versions.
+Gil Carandang's bionutrient fermentation system transforms plant and fruit materials into potent [[compost-tea-and-biological-extracts]] through controlled microbial fermentation. These preparations serve as foliar fertilizers, soil drenches, animal feed supplements, and food for [[forest-and-bamboo-beneficial-microorganisms]]. The fundamental principle is that fermentation is superior to simple extraction because microorganisms break down complex materials and create enzymes. See [[bionutrients-lab-fermented-fruit-juice-ffj]] for the lab-formatted versions.
 
 ## Fermentation vs. Extraction
 
-Carandang repeatedly emphasizes that fermentation is better than simple extraction methods:
+Carandang repeatedly emphasizes that fermentation is better than simple [[arbuscular-mycorrhizal-spore-extraction-methods]]:
 
 - Boiling or tea infusion (simple extraction) cannot fully break down tough plant materials like seaweeds
 - Fermentation with sugar/molasses allows microorganisms to biologically break down materials
 - Nutrients become more available through microbial processing
 - Fermentation creates new enzymes not present in the raw materials
-- Fermented foods (yogurt, kimchi) are more nutritious than their raw ingredients — the same principle applies to plant extracts
+- [[lacto-fermentation-recipes]] (yogurt, kimchi) are more nutritious than their raw ingredients — the same principle applies to plant extracts
 
 ## General Fermentation Formula
 
@@ -43,7 +43,7 @@ The universal formula for creating any fermented extract:
 
 ### Kangkong (Water Spinach) FPJ — Growth Promotant
 
-Kangkong is a vegetable that grows extremely fast in freshwater or highly moist soil. Its rapid growth indicates high concentrations of natural growth hormones (gibberellins, auxins, cytokinins).
+Kangkong is a vegetable that grows extremely fast in freshwater or highly moist soil. Its rapid growth indicates high concentrations of natural [[gibberellins-plant-growth-hormones]] (gibberellins, auxins, cytokinins).
 
 - Use axillary buds of kangkong as primary material
 - Substitute fast-growing plants: kelp, mugwort, cucumber, squash, watermelon tips
@@ -64,7 +64,7 @@ A major fermented extract for inducing flowering and fruiting, especially in veg
 
 ### Seaweed Extract
 
-Seaweeds are difficult to break down through simple extraction due to their tough cellular structure. Fermentation with sugar/molasses makes their active ingredients — natural growth hormones, trace elements, nitrogen, and potassium — bioavailable.
+Seaweeds are difficult to break down through simple extraction due to their tough cellular structure. Fermentation with sugar/molasses makes their active ingredients — natural growth hormones, [[teaming-with-nutrients-micronutrients-and-trace-elements]], nitrogen, and potassium — bioavailable.
 
 ## FFJ — Fermented Fruit Juice Method (Papaya Example)
 
@@ -88,47 +88,3 @@ Papaya fermented extract demonstrates the FFJ process clearly:
 The general rule: higher protein materials produce higher nitrogen when composted or fermented. Fish scraps are a primary high-nitrogen source.
 
 - Use 1/3 molasses (preferred over crude sugar — minimizes fishy odors)
-- Add lactic acid bacteria serum during fermentation to arrest foul odors
-- Molasses is preferred for cost and odor-reduction reasons
-- Related to commercial fish emulsion but naturally fermented
-
-### Ginger-Garlic Extract — Natural Antibiotic
-
-Based on the Korean [[comparison-natural-farming-vs-permaculture]] recipe that originally included Chinese herbs (Angelica acutiloba, Glycurrhiza uralensis, Cinnamomum loureirii). These herbs share the property of aiding digestion.
-
-1. Chop up equal amounts of ginger and garlic
-2. Soak in beer or wine overnight (12 hours)
-3. Add 1/3 crude sugar
-4. Ferment 5-7 days
-5. Add alcohol (at least 40% proof) to stabilize and arrest fermentation
-6. The alcohol extracts active ingredients as an herbal tincture
-
-**Applications:** Natural antibiotic for plants and animals; controls fungal problems on plants; used preventively on chicks and chickens; treats rheumatism. Garlic's high sulfur content makes it an effective fungicide.
-
-### Calcium Phosphate
-
-Based on Yasushi Inoue's Nutrioperiodism theory (1930s): plants need specific nutrients at specific developmental stages. Calcium phosphate is critical during the changeover period between vegetative growth and reproductive stage.
-
-1. Roast eggshells to generate good ashes
-2. Dip roasted eggshells in equal visual volume of vinegar
-3. Allow to sit for a couple of weeks until eggshells are broken down
-4. Dilute 1:20 and spray/water during the changeover period
-
-Soybean stem ash is considered excellent for this purpose. Calcium phosphate is described as good for plants' "[[cho-morning-sickness-and-plant-cross-over-period]]" — the transitional stage before flowering/fruiting.
-
-## Combining Bionutrients with BIM
-
-In practice, beneficial [[beneficial-indigenous-microorganisms-bim]] and bionutrients are mixed together for application:
-
-- BIM provides the microbial workforce
-- Bionutrients provide the food/nutrition for those microbes
-- Together they create a complete biological fertility system
-- Adding fermented plant and fruit juices, ginger-garlic nutrients, brown rice vinegar, and fish amino acid to BIM makes it more effective
-- This combination addresses soil fertility, pest control, and plant health simultaneously
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
-- [[fukuoka-vegetable-growing-natural-method]]
-
-## See Also
-
-- comparison-fpj-vs-ffj

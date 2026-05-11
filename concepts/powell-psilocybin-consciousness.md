@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin and the powell-mutability-of-consciousness-chemical-lens"
+title: Powell [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # Psilocybin and the Mutability of Consciousness
 
-Simon G. Powell's *The Psilocybin Solution* places the question of consciousness at the centre of its
+Simon G. Powell's *The [[powell-psilocybin-solution-ecological-cognition-theory]]* places the question of consciousness at the centre of its
 entire argument. Powell contends that human consciousness is not a fixed phenomenon but is chemically
 mutable, and that this mutability is the key to understanding both the nature of mind and the nature
 of reality itself.
@@ -46,7 +46,7 @@ wish to grapple with the ultimate questions concerning the nature of our existen
 to seek out new forms of perception — forms in which all of perceived reality is grasped at once,
 holistically, and not in the piecemeal fashion of conventional science.
 
-This chemical mediation is framed within a Gaian context. Serotonin, the key neurotransmitter
+This chemical mediation is framed within a Gaian context. [[serotonin]], the key neurotransmitter
 affected by psilocybin, evolved over millions of years determined by chemicals available in the
 environment. If the chemical constituency of the natural environment were radically different,
 Nature would have evolved completely different neurotransmitters. In this sense, consensus reality is
@@ -66,7 +66,7 @@ to stick with less suspect non-mystical science for answers. However, Powell ide
 immediate route to transcendental knowledge: the deliberate ingestion of naturally occurring
 entheogenic plant and fungal alkaloids in order to access information inaccessible to the normal mind.
 This is the little-documented enterprise engaged in by shamans and native healers who employ such
-psychoactive flora to gain transcendental knowledge for the benefit of their culture.
+[[entheogenic-plants-and-psychoactive-flora]] to gain transcendental knowledge for the benefit of their culture.
 
 ## The Epistemological Promise
 
@@ -88,41 +88,3 @@ process than our normal frames of perception.
 
 The book consistently returns to the theme that normal waking consciousness is constrained and
 bounded, as if we were "sub-routine prisoners in some vast computation that surges ever onward."
-Psilocybin temporarily dissolves these constraints, conferring upon the experiencer an increased
-set of degrees of cognitive freedom, facilitating new directions of thought not normally available.
-
-The inner world becomes subject to pictographic myth, whilst the outer world reveals itself as the
-living structure of some divine being, even the most mundane objects suddenly acquiring a holy
-aura. This is the latent promise of the mushroom: to reveal psychological realms that can enrich
-our collective existence as living, breathing hominid creatures bound up within the Gaian system.
-
-Natural psychedelic agents like the psilocybin mushroom enable a particular type of knowledge to
-come to an individual — a type of knowledge that science and philosophy can barely approach, but
-which nonetheless bears heavily upon our most inner nature.
-
-## Information and the Mindstuff
-
-Powell's approach treats consciousness as fundamentally informational. Neuronal activity embodies
-information, and psilocybin alters the processing of that information by acting on serotonergic
-neurons. This informational framework allows him to bridge the gap between subjective experience
-and physical mechanism without reducing one to the other. The visionary content of psilocybin
-experiences — the "organised flow of symbolic information" — is understood as the product of
-massively parallel information-integration within the altered brain.
-
-## The Verifiable Experience
-
-Powell grounds his argument in the fact that the psilocybin experience is verifiable — anyone
-can ingest the mushroom and confirm or deny its effects. The apparent capacity of the human mind
-to transcend "normal" reality demands investigation. If this enterprise is spurious and built of
-ephemeral imagination, it will only point to the fact that the human imagination under certain
-chemical circumstances is extraordinarily creative. But Powell believes entheogenic agents
-unleash a form of consciousness that truly offers a glimpse of meaning hitherto the sole domain
-of the shaman and the mystic — a meaning only alluded to in the conventional religions of the world.
-
-## See Also
-
-- [[consciousness-and-psychedelics]]
-- [[brain-neuroscience-and-psychedelic-mechanism]]
-- [[psilocybin-default-mode-network-ego-dissolution]]
-- ethnomycology
-- [[psilocybin-neuroplasticity]]

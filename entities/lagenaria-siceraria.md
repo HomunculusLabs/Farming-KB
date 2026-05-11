@@ -64,7 +64,7 @@ Archaeological evidence from Thailand dates bottle gourd use to approximately 10
 
 In Africa, it spread early as both a food and a container crop. Asian cultivation developed independently, with distinct fruit-shape varieties selected for different uses.
 
-Today, bottle gourd is cultivated throughout the tropics and subtropics, with major production in India, China, Nigeria, and Southeast Asia. It is also grown as an ornamental gourd in temperate regions.
+Today, bottle gourd is cultivated throughout the tropics and subtropics, with major production in India, China, Nigeria, and [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]]. It is also grown as an ornamental gourd in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## Nutritional Value
 
@@ -87,31 +87,3 @@ Seeds are sown directly after the last frost, 2–3 cm deep, with spacing of 1�
 Young fruits are harvested 60–80 days after sowing for vegetable use. Mature gourds for containers require 120–180 days and should be left on the vine until the stem dries and turns brown.
 
 Yields of young fruits range from 15–30 tonnes/ha. Mature gourd yield is 5,000–15,000 fruits/ha depending on cultivar and management.
-
-Major pests include fruit flies, aphids, and [[cervantes-powdery-mildew-prevention-treatment]]. The crop is generally hardy and requires fewer inputs than many cucurbits.
-
-## Uses
-
-### Culinary Use
-
-Young bottle gourd fruits are widely consumed in South and Southeast Asian cuisines. In India, they are cooked as *lauki* or *doodhi* in curries, dal, and desserts.
-
-In Chinese cuisine, the vegetable is known as *hulu* or *opo* and is used in stir-fries, soups, and steamed preparations. The mild flavor absorbs spices and seasonings readily.
-
-In African cuisines, young gourds are boiled, mashed, or added to stews. In Nigeria, the young leaves are also consumed as a leafy vegetable alongside the fruit.
-
-### Non-Food Uses
-
-The dried, hardened shell of mature gourds has been used as containers for water, grain, and other goods for thousands of years. Gourd vessels remain common in rural Africa and Asia.
-
-Musical instruments made from bottle gourds include the Nigerian *agbe*, Brazilian *berimbau*, Indian *tanpura* resonators, and Hawaiian *ipu*. The resonant quality of the dried shell is valued across musical traditions.
-
-Craft applications include birdhouses, decorative carvings, smoking pipes, fishing floats, and body ornaments. The art of gourd carving is particularly developed in Peru, Ghana, and China.
-
-## See Also
-
-- [[momordica-charantia]]
-- [[glycine-max]]
-- [[arachis-hypogaea]]
-- [[sorghum-bicolor]]
-- [[eleusine-coracana]]

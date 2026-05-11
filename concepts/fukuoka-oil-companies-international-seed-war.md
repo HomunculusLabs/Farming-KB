@@ -1,9 +1,10 @@
 ---
-title: fukuoka oil companies international seed war and the International fukuoka-food-strategic-weapon-seed-war-geopolitics
+title: Fukuoka Oil Companies International Seed War
 tags: [seed-war, geopolitics, food-sovereignty, hybrid-rice, agribusiness, fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-road-back-to-nature.md
 type: concept
 created: 2026-04-28
@@ -49,11 +50,11 @@ then.
 
 ## How Hybrid F1 Rice Creates Dependency
 
-When two different rice varieties are crossed, the first generation
+When two different [[fukuoka-insects-create-new-rice-varieties]] are crossed, the first generation
 (F1) crop shows striking characteristics such as uniformly high
 yields. However, phenotypes and strains diverge in the second (F2)
 and subsequent generations. This means farmers cannot save their own
-seed and must purchase new F1 seed every year from the seed company,
+seed and must purchase new F1 seed every year from the [[seed-company-supplier-reference]],
 which never parts with the parent seed lines.
 
 ## The Corn Precedent
@@ -62,7 +63,7 @@ The precedent was set with hybrid F1 corn, which American corporations
 brought into practice following World War II, serving as "a powerful
 lever for U.S. supremacy on the world corn market." The head of
 Pioneer, America's largest seed company, confirmed that F1 corn seed
-was being exported to the Soviet Union to bolster grain production,
+was being exported to the Soviet Union to bolster [[gourmet-medicinal-mushroom-spawn-grain-production]],
 while the parent lines were tightly held and "wouldn't dream of
 letting it go."
 
@@ -72,7 +73,7 @@ Professor Choyii Shinjo of Ryukyu University, born on Ishigaki Island,
 created a breakthrough in rice breeding. His wartime near-starvation
 set him on the road to breeding rice. He discovered the genetic
 mechanism enabling male sterile lines of any desired trait. His first
-experiments used buckets in place of rice fields, and he drew on his
+experiments used buckets in place of [[fukuoka-spider-ecosystem-drama-rice-fields]], and he drew on his
 own salary for test fields. He presented his three-line system (male
 sterile, maintenance, and restorer) at the Japanese Society of
 Breeding in 1966.
@@ -87,23 +88,3 @@ using a male sterile strain from Hainan Island. By 1978, China
 announced success in developing practical F1 rice.
 
 In 1979, Occidental Petroleum acquired the rights to China's F1 rice
-for ten years. Ring Around Products, the seed company affiliated with
-Occidental, attempted to introduce the F1 line into Japan exactly as
-it had gotten it from the Chinese, without further breeding. Occidental
-later divested without warning, leading some to question the true
-intentions.
-
-## Fukuoka's Happy Hill Rice
-
-Fukuoka crossed a [[fukuoka-tokugawa-glutinous-rice-revival]] from Burma with Japanese
-nonglutinous rice, developing superhigh-yielding varieties yielding
-about one metric ton per quarter-acre, roughly double Japan's average.
-His goal was the opposite of agricultural scientists: to bring back
-healthy, hardy rice suited to [[fukuoka-seed-war-rice-weapon]],
-[[fukuoka-hybrid-rice-international-drama]],
-
-## See Also
-
-- [[spanish-cannabis-seed-companies]]
-
-- [[fukuoka-road-seed-ball-experiments]]

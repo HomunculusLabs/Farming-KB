@@ -19,15 +19,15 @@ sources:
   - "[/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]"
   - "Lincoff, G.H. (1981). 'National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms.' Knopf."
   - "Arora, D. (1986). 'Mushrooms Demystified.' 2nd ed. Ten Speed Press."
-  - "Stamets, P. & Chilton, J.S. (1983). 'The Mushroom Cultivator.' Agarikon Press."
-  - "Phillips, R. (2006). 'Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide.' Macmillan."
+  - "Stamets, P. & Chilton, J.S. (1983). '[[coprinus-atrementarius-entity-the-mushroom-cultivator]].' Agarikon Press."
+  - "Phillips, R. (2006). 'Mushrooms: A [[allen-australian-psilocybe-species-comprehensive-guide]] to psilocybin-mushroom-identification-guide.' Macmillan."
 ---
 
 # Clitocybe nuda
 
 **Wood Blewit** | **Blewit** | **Blue Foot** | **Lepiste nue**
 
-*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across temperate regions of the Northern Hemisphere, it fruits in autumn and early winter in leaf litter, compost heaps, and conifer needle beds. Despite being one of the most visually distinctive [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration and permaculture integration. See [[lepiota-procera]] for another autumn woodland edible.
+*Clitocybe nuda* (syn. *Lepista nuda*, *Tricholoma nudum*) is a widespread edible woodland mushroom prized for its attractive violet-blue coloration, distinctive aromatic fragrance, and excellent culinary quality. Found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, it fruits in autumn and early winter in leaf litter, compost heaps, and conifer needle beds. Despite being one of the most visually distinctive [[palmer-edible-mushrooms-north-america]] in temperate forests, the Wood Blewit is relatively underutilized compared to more commonly foraged species. It is an excellent candidate for culinary exploration [[pig-husbandry-and-permaculture-integration]]. See [[lepiota-procera]] for another autumn woodland edible.
 
 ## Taxonomy and Nomenclature
 
@@ -84,43 +84,7 @@ The taxonomic history of this species has been contentious. For much of the 20th
 
 ## Distribution and Habitat
 
-- **Global range:** Widespread across temperate regions of the Northern Hemisphere — Europe, North America (both coasts, especially the Pacific Northwest), and parts of Asia. Also reported from Australia and New Zealand where it may be introduced.
+- **Global range:** Widespread across temperate regions of the Northern Hemisphere — Europe, [[guzman-psilocybin-mushrooms-north-america]] (both coasts, especially the [[psilocybin-north-america-pacific-northwest]]), and parts of Asia. Also reported from Australia and New Zealand where it may be introduced.
 - **Habitat:** A versatile species found in diverse environments:
   - Deciduous and mixed woodlands, particularly under oak, beech, birch, and conifers
   - Coniferous forests, especially in [[dighton-pine-needle-litter-decomposition-fungal-succession]] under pine, spruce, and fir
-  - Leaf litter in parks, gardens, and hedgerows
-  - Compost heaps, mulch piles, and enriched garden soils
-  - Grasslands adjacent to woodland edges
-- **Ecological role:** Saprotrophic (decomposer) — breaks down leaf litter and [[fungal-succession-woody-debris-ecology]]; some evidence of weak mycorrhizal associations, making it a facultative saprotroph
-- **Seasonality:** Late summer through winter; typically September to December in temperate regions; can fruit into January during mild winters; the Pacific Northwest population often fruits from October through February
-- **Fruiting pattern:** Often fruits in scattered groups, arcs, or [[bloomfield-fairy-rings-armillaria-giant-fungi]], sometimes prolifically; can fruit in the same location for many years
-
-## Identification Notes
-
-The Wood Blewit is one of the more straightforward edible mushrooms to identify when all features are checked, though several potentially dangerous look-alikes exist:
-
-### Key Identification Features
-
-1. **Violet-blue coloration** on cap, gills, and stem base — unique among common temperate edibles
-2. **Pink to salmon-pink spore print** — distinguishes from purple *Cortinarius*
-3. **Decurrent gills** running down the stem
-4. **Distinctive perfumy/orange-peel fragrance** — one of the most reliable ID aids
-5. **Habitat** in leaf litter, compost, or needle beds — not growing on wood
-
-### Dangerous Look-alikes
-
-- **Cortinarius species (various purple):** *C. iodes*, *C. violaceus*, *C. traganus* — critical distinction: **rusty-brown spore print** and cobwebby partial veil (cortina). Some contain the lethal toxin orellanine. Always make a spore print.
-- **Inocybe species:** Some lilac-tinted species contain dangerous levels of muscarine; distinguished by brown spore prints and fibrous caps.
-- **Entoloma species:** Some have pinkish gills; distinguished by angular spores (microscopic) and fragile stature. Several are toxic.
-
-## Nutritional and Culinary Value
-
-The Wood Blewit is an excellent edible mushroom with a devoted following among foragers:
-
-- **Flavor:** Rich, earthy, and savory with a distinct aromatic quality that intensifies with cooking. The flavor has been described as similar to [[agaricus-campestris]] — Meadow mushroom, another autumn saprotroph
-- [[lepiota-procera]] — Parasol mushroom, woodland edible
-- [[calvatia-gigantea]] — Giant puffball, another distinctive autumn mushroom
-
-## See Also
-
-- [[clitocybe-geotropa]]

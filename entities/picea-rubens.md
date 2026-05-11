@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Blum, B.M. (1990). "Picea rubens Sarg." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
-  - Peart, D.R. (1984). "Ecological Significance of Red Spruce." Journal of the Arnold Arboretum 65.
-  - Eagar, C. & Adams, M.B. (1992). "Ecology and Decline of Red Spruce." Ecological Studies 96. Springer.
-  - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of polypore-fungi-eastern-north-america America." Elsevier.
+  - Peart, D.R. (1984). "[[lichen-biology-guide]] of Red Spruce." Journal of the Arnold Arboretum 65.
+  - Eagar, C. & Adams, M.B. (1992). "Ecology and Decline of Red Spruce." [[mycorrhiza-bioassays-ecological-studies]] 96. Springer.
+  - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of [[polypore-fungi-eastern-north-america]] America." Elsevier.
 ---
 
 # Picea rubens
@@ -88,56 +88,3 @@ In the southern Appalachians it occurs primarily above 1,200 m elevation,
 forming pure stands or mixed forests with Fraser fir at the highest sites.
 
 The species occupies cool, moist sites with well-drained acidic soils,
-optimally on deep loamy Spodosols with pH 4.0–5.5.
-
-Red spruce is shade-tolerant, persisting in the understory for 50–100+ years
-awaiting canopy openings.
-
-It is a mid- to late-successional species that dominates cool, moist sites
-in the absence of disturbance.
-
-## Ecological Role
-
-Red spruce is a foundational species of the Appalachian spruce-fir forest,
-a globally rare ecosystem type.
-
-These high-elevation forests support the endangered Carolina northern flying
-squirrel and the Appalachian cottontail.
-
-The spruce-fir moss spider, a federally endangered species, inhabits moss
-mats beneath red spruce canopies.
-
-Stands provide important winter cover for moose, black bear, and ruffed
-grouse.
-
-Red spruce forests serve as critical headwater catchments, with high
-evapotranspiration and snow interception regulating streamflow.
-
-## Uses and Forestry
-
-Red spruce produces light, relatively soft wood (specific gravity 0.38–0.42)
-that is creamy-white with fine, even texture.
-
-It is the preferred tonewood for acoustic guitar, violin, and piano
-soundboards, valued for resonance and acoustic properties.
-
-The species is also harvested for lumber, pulpwood, and Christmas trees.
-
-Less than 2% of pre-settlement old-growth red spruce stands remain due to
-historical logging.
-
-Regeneration is sensitive to deer browsing and competition from
-shade-tolerant hardwoods.
-
-## See Also
-
-- [[picea-omorika]]
-
-- [[picea-abies]]
-- [[picea-sitchensis]]
-- [[picea-pungens]]
-- [[tsuga-canadensis]]
-- [[abies-grandis]]
-- [[abies-concolor]]
-- [[betula-alleghaniensis]]
-- [[acer-saccharum]]

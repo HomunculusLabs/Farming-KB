@@ -20,7 +20,7 @@ sources:
 
 **Eryngium foetidum** is a tropical perennial herb in the family Apiaceae,
 widely cultivated and naturalized throughout the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]],
-South America, and [[psilocybe-southeast-asia-pacific]]. It is commonly known as culantro, sawtooth
+[[guzman-psilocybin-mushrooms-south-america]], and [[psilocybe-southeast-asia-pacific]]. It is commonly known as culantro, sawtooth
 coriander, recao, Mexican coriander, and fitweed.
 
 The species is valued for its intensely aromatic leaves, which are used as a
@@ -57,7 +57,7 @@ surface is dark green and glossy, with parallel venation.
 
 The inflorescence is a cylindrical spike 5–15 cm long, bearing dense
 whorls of small greenish-white flowers. Flowering is induced by
-photoperiod, typically occurring as day length shortens.
+photoperiod, typically occurring as [[coleman-persephone-months-winter-day-length]] shortens.
 
 The fruit is a small schizocarp approximately 2 mm long, splitting into
 two mericarps at maturity. Each mericarp bears five prominent ribs with
@@ -69,11 +69,11 @@ suitable for container cultivation.
 ## Distribution and Habitat
 
 *Eryngium foetidum* is native to the neotropics, with a natural range
-extending from southern Mexico through Central America and the Caribbean to
+extending from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean to
 northern South America, including the Amazon basin.
 
 The species has been widely introduced and naturalized across tropical
-Africa, South and Southeast Asia, and the Pacific Islands. It is
+Africa, South and Southeast Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It is
 particularly abundant in Vietnamese, Thai, and Indian cuisine.
 
 It grows as a weed in disturbed areas, along roadsides, in pastures, and
@@ -86,47 +86,5 @@ is moderately drought-tolerant once established.
 
 ## Chemistry and Pharmacology
 
-The essential oil of *Eryngium foetidum* is dominated by
+The [[permaculture-designers-manual-essential-oil-plants]] of *Eryngium foetidum* is dominated by
 (2E,6Z)-2,6-dodecadienal (also called trans-2-dodecenal), which
-constitutes 40–60% of the volatile fraction. This aldehyde is primarily
-responsible for the characteristic coriander-like aroma.
-
-Other significant constituents include dodecanal, 2,4,5-trimethylbenzaldehyde,
-and (E)-2-tetradecenal. The oil also contains monoterpenes including
-limonene and α-pinene.
-
-Pharmacological studies have demonstrated antibacterial activity against
-*Salmonella*, *Shigella*, and *Staphylococcus aureus*. Antifungal activity
-has been observed against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophyte species.
-
-Anti-inflammatory and analgesic effects have been documented in animal
-models, supporting traditional use for pain relief. The aqueous extract
-has shown mild anticonvulsant properties in rodent studies.
-
-The leaves contain significant levels of vitamins A and C, calcium, and
-iron, contributing to their nutritional value as a condiment herb.
-
-## Culinary Use
-
-Culantro is a fundamental ingredient in the cuisines of Puerto Rico, the
-Dominican Republic, Cuba, Panama, and Venezuela. It is essential in
-*sofrito* and *recaíto* bases for rice, beans, stews, and meat dishes.
-
-In Southeast Asia, the herb is widely used in Vietnamese pho, Thai curry
-pastes, Lao green papaya salad, and Malaysian chutneys. It is sold in
-Asian markets as "sawtooth coriander" or "rau mùi."
-
-The leaves are typically used fresh, added at the end of cooking to
-preserve flavor. They retain aroma far better than coriander leaves when
-dried or frozen, making them practical for storage and transport.
-
-In some regions, the roots are used as a flavoring agent, and the young
-leaves are consumed raw in salads. The herb pairs well with [[query-how-to-grow-chili-peppers-from-seed-to-harvest]],
-garlic, lime, and cumin.
-
-## See Also
-
-- [[anethum-graveolens]]
-- [[ocimum-basilicum]]
-- [[leonurus-cardiaca-entity]]
-- [[tropaeolum-majus]]

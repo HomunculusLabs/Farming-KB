@@ -75,7 +75,7 @@ native range, it grows on rocky slopes, stream banks, and forest margins.
 
 The species has been introduced to cultivation throughout temperate and subtropical regions
 worldwide. It has naturalized extensively in western Europe (especially the British Isles,
-France, and Germany), New Zealand, Australia, and [[psilocybin-north-america-pacific-northwest]]. In the United States, it
+France, and Germany), New Zealand, Australia, and [[psilocybin-north-america-pacific-northwest]]. In the [[dmt-maoi-plants-united-states]], it
 is established along the Pacific Coast and in the mid-Atlantic and southeastern states.
 
 Naturalized populations typically colonize disturbed sites including railway embankments,
@@ -88,48 +88,3 @@ conditions. It is highly frost-tolerant, regenerating from the base after winter
 Buddleja davidii is one of the easiest ornamental shrubs to cultivate. It prefers full sun
 and well-drained soil of any texture, tolerating poor, dry, and calcareous substrates. It
 is hardy to approximately USDA zone 5 (−20°C) when established, though top growth is killed
-by frost and regenerates from the woody base each spring.
-
-Pruning is essential for maintaining compact form and prolific flowering. The species flowers
-on new wood, so hard pruning to 30–60 cm above ground in [[coleman-overwintered-onions-and-early-spring-crops]] encourages vigorous
-new growth and abundant flowering from midsummer through autumn. Unpruned specimens become
-leggy and produce fewer flowers.
-
-Hundreds of named cultivars exist, varying in flower color, plant size, and leaf
-characteristics. Popular cultivars include 'Black Knight' (dark violet), 'Royal Red'
-(magenta-red), 'White Profusion' (white), 'Pink Delight' (pink), and the dwarf series
-'Nanho Blue' and 'Nanho Purple'. Sterile cultivars such as 'Miss Ruby' have been developed
-to address invasive spread concerns.
-
-Propagation is primarily by softwood cuttings in summer or semi-hardwood cuttings in autumn,
-which root readily under mist. [[cannabis-seed-germination-methods]] is also easy but produces variable offspring.
-
-## Ecology and Invasiveness
-
-Buddleja davidii is one of the most significant invasive woody species in temperate regions.
-In the United Kingdom, it is listed on Schedule 9 of the Wildlife and Countryside Act 1981,
-making it an offense to plant or cause it to grow in the wild. It is similarly regulated in
-New Zealand and classified as a noxious weed in several US states.
-
-The species' invasive success results from several traits: prolific [[cervantes-seed-production-storage]]
-(>40,000 seeds per plant), effective wind dispersal, high germination rates, rapid growth
-to reproductive maturity, tolerance of poor soils, and the ability to colonize bare ground
-in the absence of competition. It forms dense thickets that exclude native vegetation and
-reduce biodiversity in colonized habitats.
-
-However, B. davidii provides significant nectar resources for butterflies, moths, bees, and
-other pollinators. Studies in the UK have demonstrated that butterfly bush is among the
-most visited nectar sources in urban and semi-natural habitats, supporting species such as
-the small tortoiseshell (Aglais urticae), peacock (Aglais io), and red admiral (Vanessa
-atalanta). This ecological benefit creates a management tension between biodiversity
-conservation and invasive species control.
-
-## See Also
-
-- [[lonicera-japonica]]
-- [[campsis-radicans]]
-- [[wisteria-sinensis]]
-- [[clematis-vitalba]]
-- [[eucalyptus-globulus]]
-- [[lavandula-angustifolia]]
-- [[salvia-officinalis]]

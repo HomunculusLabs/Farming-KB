@@ -3,7 +3,7 @@ title: Fungal fungal electronic specimen catalogues Catalogues and Databases
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, databases, biodiversity-informatics, taxonomy]
+tags: [[mycology]], databases, biodiversity-informatics, taxonomy]
 sources: []
 ---
 # Fungal Electronic Specimen Catalogues and Databases
@@ -18,8 +18,8 @@ conservation efforts worldwide.
 ## Elements of Electronic Catalogues
 
 Electronic specimen databases capture the essential
-information associated with each fungal specimen:
-taxonomic identification (current name, basionym,
+information associated with each [[fungal-specimen-collection-herbarium-management]]:
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (current name, basionym,
 synonyms, identifier), collector and collection number,
 date and geographic locality (country, state/province,
 latitude/longitude, elevation), habitat and substratum
@@ -88,62 +88,3 @@ The UNITE database focuses on [[biodiversity-fungal-molecular-identification-dna
 of fungi, providing a curated reference library of ITS
 sequences for fungal species. Each species hypothesis
 is represented by a sequence cluster with associated
-metadata including geographic origin, substrate, and
-taxonomic information. UNITE is essential for
-[[fungal-dark-taxa-environmental-dna-sequencing]] studies and metabarcoding analyses.
-
-## Data Entry and Digitization
-
-Converting existing herbarium card catalogues and
-handwritten labels to electronic format requires
-significant labor. The process involves transcription
-of label data into standardized database fields,
-georeferencing (converting locality descriptions to
-latitude/longitude coordinates), taxonomic verification
-(updating names to current nomenclature), quality
-control (reviewing entries for errors), and barcode
-integration (linking physical specimens to digital
-records).
-
-Digitization workflows increasingly incorporate
-optical character recognition for automated label
-reading, machine learning for taxonomic name
-resolution, and crowdsourced georeferencing through
-platforms like GeoLocate.
-
-## Data Standards and Interoperability
-
-Multiple herbaria may use different database systems,
-data formats, and taxonomic frameworks. Interoperability
-between databases remains a significant challenge.
-The Darwin Core standard provides a shared vocabulary
-for biodiversity data exchange, defining terms for
-occurrence records, taxonomic information, and
-geographic data.
-
-The ABCD schema provides a more detailed standard
-specifically designed for collection data. Mapping
-local databases to these international standards
-enables data sharing through aggregation platforms
-like GBIF and iDigBio.
-
-## Concerns and Challenges
-
-### Data Quality
-
-Handwritten labels often contain incomplete, ambiguous,
-or illegible information. Place names change, political
-boundaries shift, and taxonomic concepts evolve.
-Maintaining data accuracy requires ongoing curation
-and expert review of database entries.
-
-### Sensitive Data
-
-Some collection data may be sensitive. Precise
-## See Also
-
-- [[fungal-specimen-collection-herbarium-management]]
-- [[fungal-biodiversity-herbarium-collections]]
-- [[fungal-type-specimens]]
-- [[fungal-monitoring-long-term-studies]]
-- [[fungal-taxonomic-impediment]]

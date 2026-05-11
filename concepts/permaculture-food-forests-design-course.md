@@ -1,14 +1,15 @@
 ---
-title: [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] (mollison-permaculture-design-course-curriculum)
+title: Permaculture Food Forests Design Course
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Permaculture Food Forests (Design Course)
-**Source:** Permaculture Design Course, Bill Mollison (1981, Pamphlet X)
+**Source:** [[mollison-permaculture-design-course-curriculum]], [[bill-mollison]] (1981, Pamphlet X)
 **Updated:** 2026-04-18
 ## Overview
 Food forests are the highest expression of permaculture design —
@@ -20,7 +21,7 @@ interconnected system rather than a collection of trees.
 Two factors caused the assault on forests:
 1. **War and industry:** Wooden vessels consumed vast forests
    until WWII; charcoal smelting destroyed more during the
-   Industrial Revolution
+   [[mckenna-caffeine-coffee-and-industrial-revolution]]
 2. **The paper period:** Current third era of forest waste
 The result: we grow up in naked landscapes and think we belong
 in fields. Our children grow up accustomed to extreme damage.
@@ -31,8 +32,8 @@ in fields. Our children grow up accustomed to extreme damage.
   in European peat bogs)
 - **American Southwest:** Pinyon pine — a family of six gathers
   30 bushels in one day (year's supply)
-- **South America:** Six trees support a family
-- **Pacific Islands:** Coconut had 467 by-products catalogued;
+- **[[guzman-psilocybin-mushrooms-south-america]]:** Six trees support a family
+- **[[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]:** Coconut had 467 by-products catalogued;
   breadfruit produces enormous yields
 - **Australia:** Bunya pines with 40-pound cones, forests of
   500-weight nutmeg trees
@@ -53,7 +54,7 @@ maintain their nutritional proportions across propagation.
   possible
 - **Forage forests:** Converting elements for use by other
   species (poultry, livestock)
-- **Structural forests:** Bamboo, poles, building materials
+- **Structural forests:** Bamboo, poles, [[gadd-fungal-biodegradation-concrete-building-materials]]
 - **Bee forage forests:** Need to be clumped for cross-pollination
 These elements can **inextricably mix** in patchwork — not
 separate blocks.
@@ -87,34 +88,3 @@ separate blocks.
 Food forests work best when designed in vertical layers:
 - **Canopy:** Tall nut and fruit trees (oak, chestnut, walnut)
 - **Understory:** Smaller fruit trees (apple, pear, plum)
-- **Shrub layer:** Berry bushes and nitrogen fixers
-- **Herbaceous:** Perennial vegetables and herbs
-- **Ground cover:** Strawberries, creeping herbs
-- **Root layer:** Root crops and tubers
-- **Vertical:** Climbing vines and espaliered fruits
-Each layer occupies a different niche, maximising solar
-capture and productive yield per unit area.
-## Key Principle
-"If you seriously started this roll away stuff, you wouldn't
-get very far before you would have an embarrassing amount of
-food." The problem is not food production — it's economic
-systems and land ownership.
-## Integration with Animal Systems
-Food forests integrate well with poultry, pigs, and livestock:
-- Chickens control pest insects and fertilise understory
-- Pigs root through fallen fruit and clear ground cover
-- Goats can be managed to control competing vegetation
-- Beehives placed in forest clearings for pollination and honey
-## Climate Considerations
-- Tropical food forests produce year-round with careful species
-  selection
-- Temperate food forests have seasonal harvest windows
-- Cold climate forests emphasise nut trees, storage crops
-- Arid food forests require careful water management and
-  drought-tolerant species selection
-## Related
-- [[permaculture-food-forest-design-principles]]
-- [[permaculture-tree-crop-systems]]
-- [[urban-permaculture-food-forest-succession]]
-- mollison-how-much-land-for-self-sufficiency
-- [[fukuoka-orchard-soil-building-without-fertilizers]]

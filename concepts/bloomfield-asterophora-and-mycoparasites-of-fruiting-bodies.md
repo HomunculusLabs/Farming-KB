@@ -1,5 +1,5 @@
 ---
-title: bloomfield asterophora and mycoparasites of fruiting bodies of Fruiting Bodies
+title: Bloomfield Asterophora And Mycoparasites Of Fruiting Bodies
 created: 2026-04-28
 tags:
   - mycology
@@ -21,7 +21,7 @@ The idea that fungi can be parasitized by other fungi challenges
 the common perception of these organisms primarily as decomposers
 or plant pathogens. Mycoparasites, fungi that infect other fungi,
 represent a fascinating ecological strategy that reveals the
-predatory nature underlying much of fungal biology. Nicholas Money
+predatory nature underlying much of fungal biology. [[nicholas-money]]
 explores this theme in the closing chapter of his book, using
 the genus Asterophora as a particularly conspicuous example.
 
@@ -29,7 +29,7 @@ the genus Asterophora as a particularly conspicuous example.
 
 Fungi, Money observes, are united by four common features: they
 penetrate their food with invasive hyphae, feed by absorbing
-nutrients, reproduce by spore formation, and show a marked
+nutrients, reproduce by [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]], and show a marked
 propensity for attacking other organisms. While obvious parasites
 are encountered among all fungal groups, many apparently innocuous
 species will attack [[savory-living-organisms-as-tools]] when opportunities present
@@ -37,7 +37,7 @@ themselves. Mycoparasitism is a natural extension of this
 aggressive nutritional strategy.
 
 The ecological logic is straightforward. Fruiting bodies of
-mushrooms are dense concentrations of organic nutrients, packaged
+mushrooms are dense concentrations of [[organic-nutrients-vs-synthetic-nutrients]], packaged
 in moist, protected environments. For a fungus capable of
 exploiting them, they represent an ideal food source. The
 parasitic fungus need not invest in the expensive business of
@@ -58,7 +58,7 @@ Asterophora fruiting bodies are distinctive in appearance. They
 are small, chalky, and covered in a powdery coating of spores
 that gives them a mealy texture unlike any typical mushroom.
 This unusual morphology reflects the parasitic lifestyle. The
-fungus does not need the robust structural support that a free-
+fungus does not need the robust [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] that a free-
 living mushroom requires to elevate its spore-producing surfaces
 above the forest floor. It grows directly on the collapsing
 remains of its host, conserving resources that would otherwise
@@ -70,7 +70,7 @@ While most species of Cordyceps are known as [[bloomfield-cordyceps-insect-patho
 the genus also includes species that infect the underground
 fruiting bodies of truffles. This dual parasitic capability
 demonstrates the opportunistic flexibility of the
-entomopathogenic fungi. A fungus adapted to penetrating insect
+[[comparison-trichoderma-vs-entomopathogenic-fungi]]. A fungus adapted to penetrating insect
 cuticle and digesting internal tissues can, with relatively
 minor modifications, adapt to exploiting the nutrient-rich
 interior of a subterranean mushroom.
@@ -88,60 +88,3 @@ strategies observed within the Cordyceps genus.
 
 Mushroom farms provide ideal conditions for mycoparasites. The
 humid environments needed for commercial [[accessible-mushroom-cultivation-for-disabilities]]
-encourage conidial fungi that cause dry and wet bubble, shaggy
-stipe, and cobweb disease. The symptoms of these infections are
-striking: bubbling of dead tissue, malformation of the cap and
-stem, envelopment in parasitic mycelium, exudation of colored
-drops of fluid, and the emission of foul smells. In this
-condition, mushrooms do not sell well.
-
-Control of mycoparasites in cultivation is particularly
-challenging because few chemical agents can poison a fungal
-parasite without also damaging the fungal host. Both organisms
-are fungi, sharing fundamentally similar cell biology and
-metabolic pathways. The use of sterilized casings and careful
-control of [[greg-green-temperature-and-humidity-control]] in growing rooms reduce
-disease outbreaks, but complete elimination is difficult.
-
-## Trichoderma as Biocontrol Agent
-
-The deliberate introduction of Trichoderma represents one of
-the most successful approaches to mycoparasite control.
-Trichoderma is a soil microorganism that attacks parasitic fungi
-without harming the cultivated mushroom crop. Its efficacy
-derives partly from its extraordinary growth rate. The mycelium
-expands so swiftly that it starves other fungi in its
-neighborhood by consuming available nutrients before competitors
-can access them.
-
-The aggressive behavior of Trichoderma is also utilized in
-efforts to control certain plant diseases. Applied to soil
-around crop roots, Trichoderma can suppress pathogenic fungi
-through a combination of direct parasitism, nutrient
-competition, and the secretion of antifungal compounds. This
-biocontrol strategy represents a natural alternative to chemical
-fungicides and has been adopted in various agricultural
-settings.
-
-## The Broader Significance
-
-Mycoparasitism illustrates the principle that every ecological
-niche will eventually be exploited. If an organism invests in
-producing a concentrated food source, whether a fruit, a
-cadaver, or a mushroom, other organisms will evolve to tap
-that resource. The fungal kingdom, with its extraordinary
-metabolic versatility and [[fungal-hyphae-invasive-growth-mechanisms]] form, is particularly
-well positioned to exploit such opportunities. The fact that
-some fungi eat other fungi is, in Money's view, symptomatic of
-the fundamental behavior of all the microorganisms discussed
-in his work.
-
-## See also
-
-- [[bloomfield-cordyceps-insect-pathogens-behavior]]
-- [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
-- bloomfield-fungal-antibiotics-nitrogen-scavenging-bacterial-predation
-## See Also
-- [[decomposition]]
-- [[nicholas-money]]
-- [[mushroom-cultivation]]

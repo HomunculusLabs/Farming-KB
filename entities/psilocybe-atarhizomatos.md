@@ -11,7 +11,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, G. (2005). The Genus Psilocybe: A Systematic Revision of the Known Species. Verlag von Cramer."
-  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification. Bibliotheca Mycologica, 193."
+  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide [[psilocybe-geographical-distribution-patterns]] of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification. Bibliotheca Mycologica, 193."
   - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
   - "Guzmán, G. & Tapia, F. (1973). \"The genus Psilocybe in Mexico.\" Beih. Nova Hedwigia, 74, 273–289."
 ---
@@ -36,7 +36,7 @@ Its distribution is restricted to subtropical and montane forests of central and
 - **Genus:** *Psilocybe* (Fr.) P. Kumm.
 - **Species:** *P. atarrhizomatos* Guzmán
 
-The epithet "atarrhizomatos" derives from Greek *a-* (without) + *tarri-* (roots) + *homatos* (mucus), referencing the distinctive rhizomorphic basal mycelium structure.
+The epithet "atarrhizomatos" derives from Greek *a-* (without) + *tarri-* (roots) + *homatos* (mucus), referencing the distinctive rhizomorphic basal [[mycelium-structure-and-growth]].
 
 Section placement has varied between *Stuntzii* and *Mexicanae* across different taxonomic treatments, reflecting the ongoing revision of *Psilocybe* infrageneric classification.
 
@@ -47,7 +47,7 @@ Section placement has varied between *Stuntzii* and *Mexicanae* across different
 - Cap 5–20 mm diameter, convex to broadly convex, sometimes with a slight umbo
 - Surface smooth, hygrophanous, reddish-brown to ochraceous when moist
 - Fading to pale straw-yellow or cream upon drying
-- Margin sometimes appendiculate with partial veil remnants in young specimens
+- Margin sometimes appendiculate with [[partial-veil-tropism-protection-before-spore-release]] remnants in young specimens
 - [[field-guide-psilocybin-bluing-reaction-identification]] moderate on handling or bruising
 
 ### Lamellae
@@ -74,12 +74,12 @@ Section placement has varied between *Stuntzii* and *Mexicanae* across different
 
 ### Chemical Reactions
 
-- Bluing reaction with bruising on cap, gills, and stipe (indicates psilocybin/psilocin presence)
+- [[metol-testing-bluing-reaction-mushrooms]] with bruising on cap, gills, and stipe (indicates psilocybin/psilocin presence)
 - No reaction with KOH or ammonia on cap surface
 
 ## Distribution and Habitat
 
-Found in subtropical and temperate montane forests of central Mexico, at elevations of 1,500–2,500 meters above sea level.
+Found in subtropical and temperate montane forests [[psychoactive-cacti-of-central-mexico]], at elevations of 1,500–2,500 meters above sea level.
 
 Fruits in small groups or scattered clusters on soil, often in disturbed areas including trailsides, pastures, and forest clearings.
 
@@ -87,43 +87,4 @@ Associates with decaying herbaceous plant material and grasses in cloud forest a
 
 Fruiting season coincides with the rainy period from June through September in its native range.
 
-The species has not been confirmed outside of Mexico, though similar habitats in Central America may harbor undiscovered populations.
-
-## Bioactive Compounds
-
-Contains psilocybin and psilocin as the primary psychoactive alkaloids, consistent with other bluing *Psilocybe* species.
-
-Baeocystin has been detected in related section *Stuntzii* members and is likely present, though specific quantitative analysis of *P. atarrhizomatos* remains unpublished.
-
-Total alkaloid content is estimated at 0.3–0.8% dry weight based on bioassay and comparison with congeners, but no peer-reviewed quantitative chromatographic data exists for this specific species.
-
-The bluing intensity on bruising is moderate, suggesting intermediate alkaloid concentration relative to *P. cubensis* (stronger) and *P. mexicana* (variable).
-
-## Similar Species
-
-| Species | Key Differences |
-|---------|----------------|
-| *P. stuntzii* | Pacific Northwest distribution, larger stature |
-| *P. mexicana* | Produces sclerotia (truffles), different cheilocystidia |
-| *P. liniformans* | Distinctive separable gelatinous partial veil |
-| *P. galindoi* | Wider distribution, taller stipe |
-| *P. weilii* | Southeastern US distribution, more robust |
-
-## Cultivation
-
-No established cultivation protocols exist specifically for *P. atarrhizomatos*.
-
-Related species in section *Stuntzii* and *Mexicanae* are cultivated on sterilized rye grain or pasteurized grass substrates, suggesting similar approaches may be feasible.
-
-The species likely requires cooler incubation temperatures (18–22°C) consistent with its high-elevation montane origin.
-
-[[growing-gourmet-spore-germination-strain-isolation]] is generally slow among section *Stuntzii* members, often requiring 2–4 weeks on standard agar media.
-
-No commercial spawn or cultivation kits are available for this species.
-
-## See Also
-
-- [[psilocybe-mexicana]] — Sclerotia-producing species in section *Mexicanae*
-- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], one of the most potent known species
-- [[psilocybe-cyanescens]] — Wavy caps, widespread in the Pacific Northwest
-- [[psilocybin]] — Primary psychoactive compound in bluing *Psilocybe* species
+The species has not been confirmed outside of Mexico, though similar habitats [[neurotropic-fungi-in-central-america]] may harbor undiscovered populations.

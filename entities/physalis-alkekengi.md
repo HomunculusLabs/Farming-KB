@@ -88,29 +88,3 @@ In Japan, the dried calyx is a symbol of late autumn and is featured in seasonal
 In European folk medicine, the fruit was used as a diuretic and treatment for kidney stones. The calyx was applied topically for gout and rheumatic pain, though these uses lack clinical validation.
 
 ## Ecological Interactions
-
-The nectar-rich flowers attract bumblebees and other long-tongued pollinators. The enclosed fruit structure suggests adaptation for animal-mediated seed dispersal; birds are the primary dispersers in the native range.
-
-The rhizomatous growth habit allows P. alkekengi to form dense colonies that suppress competing vegetation. This makes it competitive in disturbed habitats but problematic in cultivated borders.
-
-Leaf chemistry includes defensive withanolides that deter generalist herbivores. Specialized chrysomelid beetles (Crioceris spp.) have adapted to feed on Physalis foliage despite these defenses.
-
-## Modern Pharmacological Research
-
-Recent studies have investigated physalins as potential anticancer agents. Physalin B induces apoptosis in human hepatoma (HepG2) and breast cancer (MCF-7) cell lines through mitochondrial-dependent pathways.
-
-Physalin A shows immunosuppressive activity in models of rheumatoid arthritis, reducing joint swelling and inflammatory cytokine production at doses of 5–10 mg/kg in rats.
-
-Standardized extracts of P. alkekengi calyx are under development as phytomedicines for upper respiratory tract infections. A multi-center [[psilocybin-clinical-trial-landscape-2020-2025]] in China reported efficacy comparable to standard antibiotics for acute pharyngitis.
-
-## See Also
-
-- [[physalis-pruinosa]]
-
-- [[solanum-melongena]]
-- [[atropa-belladonna]]
-- [[hyoscyamus-niger]]
-- [[withania-somnifera]]
-- [[salvia-officinalis]]
-- [[glycyrrhiza-glabra]]
-- [[panax-ginseng]]

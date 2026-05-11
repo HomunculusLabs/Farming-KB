@@ -6,6 +6,7 @@ type: concept
 tags: [gardening, homesteading]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ---
 title: seasonal garden tasks calendar
@@ -14,6 +15,7 @@ updated: 2026-04-20
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -86,19 +88,3 @@ Month-by-month task list for [[permaculture-designers-manual-temperate-climate-d
 **Planning**: Note what's thriving and struggling. Adjust watering schedules as weather warms.
 
 ---
-
-## June
-
-**Garden tasks**: Summer crops in full production -- trellis tomatoes, prune suckers, train cucurbits. Succession sow fall brassicas indoors (late June). Sow beans, cucumbers for second crop. Harvest chamomile, calendula, yarrow at peak -- begin drying for [[food-preservation-canning]] season begins. Canning strawberries, making jam. Freeze peas, beans. Begin lacto-fermentation of early summer vegetables.
-
-**Infrastructure**: Maintain hot compost piles. Start [[homestead-canning-recipes]]
-
-- seasonal-homesteading-fall-winter -- July through December tasks
-- [[homesteading]] -- core elements, planning priorities, skills progression
-- [[composting-systems]] -- hot/cold composting, vermicompost, bokashi
-- [[duck-keeping]] -- duck care through the seasons
-- [[goat-keeping]] -- goat management and breeding calendar
-
-## See Also
-
-- [[cervantes-garden-calendar-checklist]]

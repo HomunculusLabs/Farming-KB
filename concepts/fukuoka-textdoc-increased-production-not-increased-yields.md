@@ -1,10 +1,11 @@
 ---
-title: "fukuoka textdoc increased production not increased yields Has Not Brought Increased Yields"
+title: Fukuoka Textdoc Increased Production Not Increased Yields
 created: 2026-04-28
 tags: [yields, high-yield-farming, chemical-fertilizers, pesticides, productivity-paradox]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -25,7 +26,7 @@ hurt productivity when examined from a broader perspective.
 Most high-yield farming technology does not increase net profits. At fault are
 the three practices thought to be vital to increasing yields:
 
-1. **Chemical fertilizers** are effective only when the soil is dead
+1. **[[cannabis-chemical-fertilizers]]** are effective only when the soil is dead
 2. **Pesticides** are effective only for protecting unhealthy plants
 3. **Farm machinery** is useful only when one has to cultivate a large area
 
@@ -43,8 +44,8 @@ slash-and-burn agriculture.
 Adding chemical fertilizer to soil that regularly produces 7 to 8 bushels has
 very little effect, while addition to fields that yield 10 bushels may even
 hurt productivity. Chemical fertilizer is thus of benefit only as a means for
-preventing a decline in yields. Green manure, nature's own fertilizer, and
-animal manure were cheaper and safer methods of increasing yields.
+preventing a decline in yields. [[coleman-mobile-greenhouse-green-manure-soil-building]], nature's own fertilizer, and
+[[animal-manure-guide]] were cheaper and safer methods of increasing yields.
 
 ## The Pesticide Trap
 
@@ -83,41 +84,7 @@ there the slightest extravagance or waste. All the products of the human
 intellect, which has strayed far from the bosom of nature, and all man's
 labors are doomed to end in vain. Before rejoicing over the progress of
 science, we should lament those conditions that have driven us to depend on its
-helping hand. The root cause for the decline of the farmer and crop
-productivity lies with the development of scientific agriculture itself.
+helping hand. The [[fukuoka-pine-rot-root-cause]] for the decline of the farmer and crop
+productivity lies with the development [[fukuoka-critique-of-scientific-agriculture]] itself.
 
 ## The Vicious Cycle
-
-Machinery, chemical fertilizers, and pesticides have drawn the farmer away
-from nature. Although these useless products of human manufacture do not raise
-the yields of his land, because they are promoted as tools for making profits
-and boosting yields, he labors under the illusion that he needs them. Their
-use has wrought great destruction on nature, robbing it of its powers and
-leaving man no choice but to tend vast fields by his own hand. This in turn
-has made large machinery, high-grade compound fertilizers, and powerful poisons
-indispensable. The same vicious cycle goes on and on without end.
-
-## The Illusion of Partial Improvement
-
-Man's efforts to return conditions to their natural state are always incomplete
-and accompanied by great waste. This explains the basic energy extravagance of
-science and technology. When one tries to fix what should never have been
-broken, the repair itself becomes a source of further damage. Each
-intervention creates new problems that demand new interventions, in an endless
-chain that moves agriculture progressively further from its natural foundation
-and progressively deeper into dependency on manufactured inputs.
-
-## Larger Farms, Greater Insecurity
-
-Larger and larger agricultural operations have not given farmers the stability
-they seek. Farms in Europe are ten times larger, and in the [[dmt-containing-plants-united-states-halpern]] one
-hundred times larger, than the 6- to 7-acre farms common to Japan. Yet
-farmers in Europe and the U.S. are, if anything, even more insecure than
-Japanese farmers. The scale of operation does not determine prosperity; the
-relationship between farmer and land does.
-
-## See Also
-
-- [[fukuoka-textdoc-production-costs-not-coming-down]]
-- [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-natural-soil-fertility]]

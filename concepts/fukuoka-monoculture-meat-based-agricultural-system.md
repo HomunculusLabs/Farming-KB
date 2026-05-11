@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, monoculture, livestock, natural-farming, agriculture-critique, soil-fertility]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka on Monoculture and the Meat-Based Agricultural System
@@ -87,60 +88,3 @@ diet of the population. The settlers and immigrants who came to America from the
 British Isles, France, Spain, and other European countries were all meat-eaters,
 and [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] for meat consumption began two or three hundred years ago
 when these lands were first settled.
-
-America had established an agriculture that does not grow the staff of human
-life but caters instead to hogs and cattle. This fundamental orientation,
-growing food for animals rather than food for people, determined the entire
-structure of the agricultural system. The vast monocultures of corn and soybeans
-that Fukuoka observed from the air were primarily animal feed crops, not human
-food.
-
-## The Feed Export Drain
-
-Fukuoka saw the export of animal feed as a particularly destructive practice
-that amplifies soil degradation globally. In the American system, forage crops
-are grown using chemical fertilizers, harvested by large combines, and exported
-throughout the world as cattle feed. Japan's livestock, for example, is not
-fattened on Japanese feed but on American exports.
-
-By shipping out all this biomass, America drains her lands of fertility. The
-farmers who grow these feed crops may appear prosperous because they are making
-money, but Fukuoka called this "deficit farming" because the actual soil capital
-is being spent down. The wealth is measured only in money while the soil at the
-farmers' feet grows progressively poorer each year. Young people from Australia,
-India, and elsewhere confirmed to Fukuoka that animal husbandry destroys soil
-fertility wherever it is practiced at scale.
-
-## Livestock Farming Reduces Vegetation Diversity
-
-Scientists commonly claimed that livestock farming enriches the land because
-animal wastes are returned to the soil. Fukuoka challenged this view based on
-his direct observations in California and elsewhere. Wherever he looked, land
-used for grazing had grown poorer rather than richer, despite the return of
-manure to the soil.
-
-His explanation was that grazing pressure reduces vegetation diversity. When
-cattle consume the more palatable species and trample or avoid others, the plant
-community shifts toward fewer, more grazing-tolerant species. This simplified
-plant community supports less soil microbial diversity, generates less varied
-organic matter inputs, and creates less favorable conditions for water retention
-and soil structure.
-
-The California case illustrated this principle dramatically. The Spaniards
-brought pasture grasses containing foxtail seeds, and these dominated the
-vegetation throughout California. Foxtail grows to such density that other
-plants cannot establish, turning fields and hills yellow. The simplified
-grassland could no longer support the water cycle that had once sustained the
-region's climate. The problem was not the return of animal wastes to the land
-but the elimination of plant diversity that grazing pressure produced.
-
-## The Primitive Nature of Modern Agriculture
-
-Despite its appearance of technological sophistication, Fukuoka considered
-[[fukuoka-american-agriculture-fields-of-death]] to be "extremely crude, primitive agriculture." The crops
-are not raised by the forces of nature but are processed with petroleum energy.
-## See Also
-
-- [[fukuoka-deficit-farming]] for the deficit farming concept
-- [[fukuoka-american-agriculture-observations]] for broader US observations
-- [[fukuoka-soil-fertility-straw-mulch]] for natural soil building

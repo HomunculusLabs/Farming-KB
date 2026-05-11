@@ -10,6 +10,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - industrial hemp
   - fiber cannabis
@@ -21,9 +22,9 @@ type: concept
 
 # Hemp and Industrial Cannabis Characteristics
 
-Hemp strains occupy a distinct category within *Cannabis sativa*, grown
+Hemp strains occupy a distinct category within *[[blesching-cannabis-sativa-indica-classification]]*, grown
 primarily for fiber, seed, and industrial applications rather than
-psychoactive [[cannabis-glandular-trichome-types-resin-production-clarke]]. Jorge Cervantes provides key information
+psychoactive [[cannabis-glandular-trichome-types-resin-production-clarke]]. [[jorge-cervantes]] provides key information
 about hemp's characteristics and its implications for drug cannabis
 growers.
 
@@ -44,7 +45,7 @@ pollinate sinsemilla crops.
 | Characteristic    | Hemp (Industrial)     | Drug Cannabis        |
 |-------------------|----------------------|---------------------|
 | Primary Use       | Fiber, seed, oil     | Psychoactive resin  |
-| THC Content       | Infinitesimal/trace  | Up to 25%+          |
+| [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]       | Infinitesimal/trace  | Up to 25%+          |
 | CBD Content       | Often high           | Variable            |
 | Growing Pattern   | Tall, seeded         | Managed, seedless   |
 | Branching         | Minimal              | Extensive training  |
@@ -63,13 +64,13 @@ One of the most significant concerns for sinsemilla cannabis growers is
 rogue pollen from commercial hemp farms and wild or cultivated males.
 Undesired pollen can drift from a few feet to hundreds of miles to
 pollinate flowering females, causing them to grow seeds rather than
-maximize resin production.
+maximize [[cannabis-resin-production-and-quality-traits-clarke]].
 
 ### Pollen Drift Examples
 
 Large clouds of pollen blow across the Mediterranean Sea from the Riff
 Mountains in Morocco, dropping pollen on Spain and Portugal. Local weather
-reports in these regions include cannabis pollen statistics (directed at
+reports in these regions include [[cannabis-pollen-collection]] statistics (directed at
 allergy sufferers but also used by marijuana growers).
 
 ### Strategies Against Rogue Pollen
@@ -87,32 +88,3 @@ allergy sufferers but also used by marijuana growers).
 - Wet down the exterior of greenhouses to incapacitate wild pollen
 
 ## Hemp Diseases and Pests Reference
-
-Cervantes frequently references *Hemp Diseases and Pests* by J.M.
-McPartland, R.C. Clarke, and D.P. Watson (CABI Publishing) as the
-definitive resource for cannabis disease and [[cannabis-pest-management-guide]]. This
-comprehensive guide covers:
-
-- Fungal diseases affecting all cannabis types
-- Insect pests common to both hemp and drug cannabis
-- [[solomon-disease-identification-and-organic-remedies]] and treatment protocols
-- Biocontrol methods for organic cultivation
-
-The book is recommended for anyone seeking detailed troubleshooting
-information about cannabis health problems, whether growing hemp or
-drug varieties.
-
-## Implications for Breeders
-
-Wind can carry rogue male pollen or industrial hemp pollen, creating
-problems for terrace and greenhouse growers. To maintain varietal purity,
-hemp breeders must employ careful isolation techniques. Cannabis sativa
-varieties from Nepal can grow oversized leaves on tall, leggy plants that
-produce sparse, late-blooming buds, while THC production varies from
-quite high to second-rate depending on the specific population.
-
-## See Also
-
-- [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-landrace-cannabis-populations]]
-- [[cervantes-pollen-collection-storage]]

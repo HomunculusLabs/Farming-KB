@@ -5,6 +5,7 @@ tags: [biology, history, mycology, biography]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 type: concept
 ---
@@ -87,19 +88,3 @@ inspired a new generation of citizen scientists. He has pioneered research
 into medicinal mushrooms (particularly for immune support and antiviral
 properties), [[mycelium]] as a sustainable material. His TED talk "6 Ways
 Mushrooms Can Save the World" has been viewed millions of times.
-
-## Suzanne Simard (b. 1960)
-
-A Canadian forest ecologist whose research on [[common-mycorrhizal-networks]],
-with older "mother trees" preferentially nourishing their own offspring.
-Her work, published in landmark papers in *Nature* and *Science*, revealed
-that forests function as cooperative systems rather than collections of
-competing individuals. Her memoir *Finding the Mother Tree* (2021) brought
-this research to a broad audience.
-
-## Merlin Sheldrake (b. 1987)
-
-British biologist and author of *Entangled Life* (2020), a bestselling
-exploration of fungal biology that became a cultural phenomenon. Sheldrake's
-work spans mycorrhizal ecology, [[mycology]] — Overview of the fungal kingdom
-- [[fungal-symbiosis]] — Key symbiotic relationships fungi form

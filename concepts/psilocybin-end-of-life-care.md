@@ -8,7 +8,7 @@ tags: [therapy, palliative, end-of-life, psilocybin, anxiety, depression, oncolo
 
 ## Overview
 
-Psilocybin-assisted therapy for patients facing end-of-life distress represents one of the most compelling and well-studied applications of psychedelic medicine. Patients with life-threatening cancer diagnoses and other terminal conditions frequently experience existential distress, death anxiety, depression, and demoralization that are poorly addressed by conventional psychiatric treatments. Clinical research since the 2000s has demonstrated that a single or limited number of psilocybin sessions, conducted within a structured therapeutic framework, can produce rapid, substantial, and enduring reductions in these symptoms.
+Psilocybin-assisted therapy for patients facing end-of-life distress represents one of the most compelling and well-studied applications of [[iboga-ibogaine-and-the-bwiti-african-psychedelic-medicine]]. Patients with life-threatening cancer diagnoses and other terminal conditions frequently experience existential distress, [[psilocybin-and-death-anxiety]], depression, and demoralization that are poorly addressed by conventional psychiatric treatments. [[hofmann-lsd-clinical-research-early-studies]] since the 2000s has demonstrated that a single or limited number of psilocybin sessions, conducted within a structured therapeutic framework, can produce rapid, substantial, and enduring reductions in these symptoms.
 
 ## Clinical Problem: Existential Distress at End of Life
 
@@ -23,9 +23,9 @@ Conventional treatments — antidepressants, anxiolytics, psychotherapy, and pal
 
 ## Historical Context
 
-The therapeutic potential of psychedelics for end-of-life distress was first investigated in the 1950s–1970s. Eric Kast (1964) published early reports on the analgesic and mood-enhancing effects of LSD and dextromorphan in terminal cancer patients. Pahnke (1969) conducted a controlled study of psychedelic-assisted psychotherapy in terminal cancer patients at the Spring Grove State Hospital in Maryland, finding significant reductions in depression and anxiety. These early studies, while methodologically limited by modern standards, consistently reported positive outcomes.
+The [[metzner-ayahuasca-therapeutic-potential]] of psychedelics for end-of-life distress was first investigated in the 1950s–1970s. Eric Kast (1964) published early reports on the analgesic and mood-enhancing effects of LSD and dextromorphan in terminal [[cannabis-for-cancer-patients]]. Pahnke (1969) conducted a controlled study of psychedelic-assisted psychotherapy in terminal cancer patients at the Spring Grove State Hospital in Maryland, finding significant reductions in depression and anxiety. These early studies, while methodologically limited by modern standards, consistently reported positive outcomes.
 
-Research was halted in the early 1970s due to regulatory restrictions on psychedelic substances. The modern revival began in the 2000s, led by researchers at Johns Hopkins University and New York University (NYU) who secured regulatory approval to conduct controlled clinical trials of psilocybin in patients with cancer-related psychiatric distress.
+Research was halted in the early 1970s due to regulatory restrictions on [[psychedelic-substances-comparison]]. The modern revival began in the 2000s, led by researchers at [[johns-hopkins-psychedelic-research]] University and New York University (NYU) who secured regulatory approval to conduct controlled [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] of psilocybin in patients with cancer-related psychiatric distress.
 
 ## Landmark Modern Studies
 
@@ -46,11 +46,11 @@ This randomized, double-blind, placebo-controlled study enrolled 29 patients wit
 - Significant reductions in depression, anxiety, and death anxiety at 5 weeks and 7-week follow-up
 - At 6.5-month follow-up, 60–70% of the psilocybin group showed clinically significant antidepressant and anxiolytic responses
 - Increases in quality of life, optimism, and spirituality that persisted for months
-- Participants with more intense mystical experiences showed greater improvement
+- Participants with more intense [[psilocybin-mystical-experiences-personality-change]] showed greater improvement
 - No treatment-related serious adverse events
 
 ### Anderson et al. (2021) — Imperial College London
-This randomized clinical trial at Imperial College London investigated psilocybin therapy for depression in cancer patients, adding to the evidence base with a slightly different therapeutic protocol. Results were consistent with the Johns Hopkins and NYU findings, showing rapid and sustained antidepressant effects.
+This randomized clinical trial at Imperial College London investigated [[psilocybin-therapy]] for depression in cancer patients, adding to the evidence base with a slightly different therapeutic protocol. Results were consistent with the Johns Hopkins and NYU findings, showing rapid and sustained antidepressant effects.
 
 ### Meta-Analyses
 A systematic review and meta-analysis by Goldberg et al. (2020) synthesized data from multiple trials, concluding that psilocybin-assisted therapy produces significant and clinically meaningful reductions in end-of-life depression and anxiety with a large effect size. The benefits appeared sustained at 3–6 month follow-up across studies.
@@ -69,7 +69,7 @@ Before the psilocybin session, patients meet with one or two trained facilitator
 ### Psilocybin Session (1 day)
 The psilocybin administration session typically follows this structure:
 - **Setting**: comfortable, aesthetically pleasing room with low lighting, music available, eye shades optional
-- **Dosage**: 20–30 mg of synthetic psilocybin (equivalent to approximately 2.5–3.5 g dried *Psilocybe cubensis*)
+- **Dosage**: 20–30 mg of synthetic psilocybin (equivalent to approximately 2.5–3.5 g dried *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*)
 - **Monitoring**: two trained facilitators present throughout (approximately 6–8 hours)
 - **Support**: facilitators provide non-directive support, intervening only if the participant experiences significant distress
 - **Music**: carefully curated playlists that support the arc of the experience (onset, peak, integration)
@@ -84,38 +84,6 @@ After the psilocybin session, participants meet with therapists to:
 
 ## Mechanism of Action
 
-The therapeutic effects of psilocybin in end-of-life distress are thought to involve several interacting mechanisms:
+The [[cbd-therapeutic-effects]] of psilocybin in end-of-life distress are thought to involve several interacting mechanisms:
 
 **Psychological acceptance**: Psilocybin experiences often facilitate a profound sense of acceptance — of mortality, of illness, of the unknown. Patients frequently report that their fear of death shifts from terror to curiosity or equanimity. This may relate to the experience of ego dissolution, in which the ordinary sense of self temporarily dissolves, allowing direct experience of consciousness without the filter of self-referential thinking.
-
-**Mystical-type experiences**: The intensity of mystical experiences during psilocybin sessions strongly predicts therapeutic outcomes. These experiences — characterized by a sense of unity, sacredness, deep positive mood, transcendence of time and space, and ineffability — appear to catalyze lasting psychological changes. The Mystical Experience Questionnaire (MEQ30) is used to quantify these experiences in clinical trials.
-
-**Neuroplasticity**: Psilocybin acts as a 5-HT2A receptor agonist, promoting increased neural connectivity and plasticity. Functional MRI studies show that psilocybin reduces activity in the default mode network (DMN), a brain network associated with self-referential thinking, rumination, and mind-wandering. DMN overactivity is associated with depression, and its temporary disruption by psilocybin may allow the brain to establish more flexible patterns of thinking.
-
-**Emotional processing**: Psilocybin appears to enhance emotional processing, allowing patients to confront difficult emotions and memories related to their illness without the usual avoidance patterns. Brain imaging shows increased amygdala responsiveness to positive emotional stimuli after psilocybin administration.
-
-**Perspective shifting**: Many patients report fundamental shifts in perspective after psilocybin sessions — from seeing death as an ending to viewing it as a transition, from feeling isolated in their illness to feeling connected to something larger, and from being defined by their diagnosis to reclaiming a sense of identity beyond the disease.
-
-## Safety Considerations
-
-Psilocybin-assisted therapy for end-of-life patients has an excellent safety profile in clinical trial settings:
-- No serious adverse events have been reported in modern trials
-- Transient anxiety or psychological distress during the session is common but manageable with therapist support
-- No cases of prolonged psychosis or hallucinogen-persisting perception disorder (HPPD) in trial participants
-- No evidence of physiological toxicity or dependence potential
-
-Contraindications include personal or family history of schizophrenia or psychotic disorders, current mania, and certain cardiovascular conditions. Patients on serotonergic medications (SSRIs) typically require a washout period before psilocybin administration due to potential pharmacodynamic interactions.
-
-## Current Status and Future Directions
-
-As of the mid-2020s, psilocybin-assisted therapy for end-of-life distress remains investigational in most jurisdictions but is approaching regulatory approval in some. Compass Pathways and the Usona Institute have received FDA Breakthrough Therapy designation for psilocybin in treatment-resistant depression, which may eventually extend to cancer-related depression. Oregon's regulated psilocybin program allows access for this indication outside clinical trials.
-
-Future research directions include: larger Phase 3 trials, investigation of optimal dosing and therapeutic protocols, comparison with standard treatments, cost-effectiveness analyses, and adaptation for diverse populations and cultural contexts. The development of training programs for psilocybin-assisted therapy facilitators is also a priority.
-
-## See Also
-
-- [[psilocybin-assisted-therapy]] — General therapeutic applications
-- [[psilocybin-clinical-trials]] — Overview of clinical research
-- [[psilocybin-depression-anxiety-treatment]] — Depression and anxiety applications
-- [[psilocybin-toxicity-and-safety-profile]] — Safety considerations
-- [[bad-trip]] — Management of challenging experiences

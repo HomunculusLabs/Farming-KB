@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Gentiana scabra**, the Japanese gentian or rough gentian, is a herbaceous perennial in the family Gentianaceae. It is native to East Asia, including Japan, Korea, northeastern China, and eastern Russia.
+**Gentiana scabra**, the Japanese gentian or rough gentian, is a herbaceous perennial in the family Gentianaceae. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], including Japan, Korea, northeastern China, and eastern Russia.
 
 The species produces upright stems 30–60 cm tall with opposite, lance-shaped leaves. Deep blue to violet flowers appear in terminal and axillary clusters from August to October.
 
@@ -26,7 +26,7 @@ Gentiana scabra is one of the most important medicinal gentians in East Asian tr
 
 The species is also cultivated as an ornamental. Its late-autumn blooms provide garden color when most perennials have finished flowering.
 
-Gentiana scabra is closely related to Gentiana triflora, and the two species hybridize in cultivation. The hybrid is known as Gentiana ×macaulayi and is valued for its vigor.
+Gentiana scabra is closely related to [[gentiana-triflora]], and the two species hybridize in cultivation. The hybrid is known as Gentiana ×macaulayi and is valued for its vigor.
 
 Two varieties are recognized: var. scabra (rough-haired) and var. buergeri (smooth). These differ in stem and leaf pubescence.
 
@@ -40,7 +40,7 @@ Two varieties are recognized: var. scabra (rough-haired) and var. buergeri (smoo
 
 Plants grow 30–60 cm tall with erect, unbranched stems. The stems are ribbed and rough-textured, giving the species its epithet "scabra" (scabrous).
 
-Leaves are opposite, lanceolate, 3–8 cm long and 1–2.5 cm wide. The leaf surface is rough with small, stiff hairs.
+Leaves are opposite, lanceolate, 3–8 cm long and 1–2.5 cm wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is rough with small, stiff hairs.
 
 Flowers are deep blue to violet, 3–5 cm long, with five corolla lobes bearing fringed plaits between them. The calyx tube is shorter than the corolla.
 
@@ -70,7 +70,7 @@ The species is hardy to USDA zones 4–7. It tolerates cold winters but needs re
 
 Propagation is by seed sown fresh in autumn, or by division in spring. Seeds require 2–3 months of cold stratification for germination.
 
-Seed-grown plants typically flower in their third year. Vegetative propagation by division produces flowering plants in the first year.
+Seed-grown plants typically flower in their third year. [[hamilton-vegetative-propagation]] by division produces flowering plants in the first year.
 
 Plants are relatively disease-free but susceptible to slug damage on new growth. Crown rot can occur in poorly drained soils.
 
@@ -80,41 +80,10 @@ Several cultivars are available in the Japanese horticultural trade. These vary 
 
 The roots of Gentiana scabra are a major crude drug in traditional Chinese, Japanese (Kampo), and Korean medicine. In Chinese pharmacopeia, the drug is called "Long Dan Cao" (龙胆草).
 
-Key bioactive compounds include gentiopicroside, sweroside, swertiamarin, and amarogentin. These iridoid glycosides are responsible for the intense bitter taste.
+Key [[cordyceps-cancer-bioactive-compounds]] include gentiopicroside, sweroside, swertiamarin, and amarogentin. These iridoid glycosides are responsible for the intense bitter taste.
 
 Pharmacological studies have documented hepatoprotective, anti-inflammatory, and antioxidant activities. The root extract shows protective effects against chemically induced liver damage in animal models.
 
-In Kampo medicine, the root is used to treat liver inflammation, jaundice, and inflammatory skin conditions. The classic formula "Long Dan Xie Gan Tang" combines it with other herbs.
+In Kampo medicine, the root is used to treat liver inflammation, jaundice, and inflammatory [[cannabis-for-skin-conditions-detailed]]. The classic formula "Long Dan Xie Gan Tang" combines it with other herbs.
 
 Clinical studies have investigated its use in treating chronic hepatitis. Results show modest improvements in liver enzyme markers.
-
-The bitter compounds stimulate gastric secretion and bile flow. This makes the root useful as a digestive tonic and appetite stimulant.
-
-Cultivated Gentiana scabra now supplies most of the commercial root market. This has reduced pressure on wild populations in recent decades.
-
-## Ecological Role
-
-The flowers are pollinated by bumblebees and other long-tongued bees. The deep corolla tube excludes shorter-tongued pollinators.
-
-Seeds are wind-dispersed via their winged coats. Germination rates are moderate, and seedling establishment requires open, disturbed ground.
-
-In its native Japan, the species is sometimes called "Rindo" (竜胆). The name references the intense bitterness of the roots.
-
-In Japanese alpine meadows, the species contributes to late-season nectar availability. It blooms when few other plants provide floral resources.
-
-The species is not globally threatened. However, wild populations in China have declined due to overharvesting for the medicinal root trade.
-
-Conservation efforts in China include establishing cultivated fields for pharmaceutical supply. These farms are concentrated in northeastern provinces.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-acaulis]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[codonopsis-pilosula]]
-- [[gentiana-cruciata]]
-- [[gentiana-purpurea]]
-- [[gentiana-verna]]
-- [[swertia-perennis]]
-- [[campanula-rotundifolia]]

@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Artocarpus altilis, commonly known as breadfruit, is a large evergreen tree in the family Moraceae. It is widely cultivated throughout the tropical Pacific, Southeast Asia, the Caribbean, and parts of Africa for its large, starchy fruit that serves as a carbohydrate staple food.
+Artocarpus altilis, commonly known as breadfruit, is a large evergreen tree in the family Moraceae. It is widely cultivated throughout the [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]], Southeast Asia, the Caribbean, and parts of Africa for its large, starchy fruit that serves as a carbohydrate staple food.
 
 The species is believed to have been domesticated in the western Pacific, possibly in the Bismarck Archipelago or Vanuatu, approximately 3,500 years ago. Austronesian voyagers carried breadfruit across the Pacific as a canoe plant, establishing it throughout Oceania.
 
@@ -62,7 +62,7 @@ The fruit is a fleshy syncarp composed of numerous individual flowers fused arou
 
 Artocarpus altilis is pantropical in cultivation but has a narrower native distribution in the western Pacific. Wild progenitor populations (A. camansi) occur in New Guinea, the Philippines, and the Moluccas.
 
-Cultivated breadfruit is grown throughout the Pacific Islands, Southeast Asia, Sri Lanka, Madagascar, the Caribbean, Central America, tropical Africa, and northern Australia. It thrives in equatorial and tropical climates with consistent warmth and moisture.
+Cultivated breadfruit is grown throughout the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Southeast Asia, Sri Lanka, Madagascar, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], tropical Africa, and northern Australia. It thrives in equatorial and [[fukuoka-natural-farming-tropical-climates]] with consistent warmth and moisture.
 
 The species requires a mean annual temperature of 21 to 32°C and annual rainfall of 1,500 to 2,500 millimeters for optimal growth and fruit production. It is intolerant of frost and is damaged by temperatures below 5°C.
 
@@ -80,41 +80,10 @@ Breadfruit is one of the highest-yielding food plants in the tropics, with a sin
 
 The fruit is harvested when mature but firm, typically 15 to 19 weeks after flowering. Ripe fruits have a yellowish-green skin and exude small amounts of latex from the surface when touched.
 
-Preparation methods vary widely across cultures. Common techniques include baking whole fruits in underground ovens (umu, imu), boiling and mashing into a paste, slicing and frying as chips, and fermenting into a preserved product.
+[[amanita-muscaria-preparation-methods]] vary widely across cultures. Common techniques include baking whole fruits in underground ovens (umu, imu), boiling and mashing into a paste, slicing and frying as chips, and fermenting into a preserved product.
 
 The nutritional value of breadfruit per 100 grams (fresh weight) is approximately 70 to 120 calories, with 20 to 30 grams of carbohydrates, 1 to 2 grams of protein, and less than 1 gram of fat. It is a good source of dietary fiber, potassium, vitamin C, and several B vitamins.
 
 **Agroforestry:**
 
-Breadfruit is an important component of traditional agroforestry systems throughout Oceania and the Caribbean. Its deep root system, wide canopy, and association with mycorrhizal fungi make it valuable for soil stabilization and nutrient cycling.
-
-In Pacific Island homegardens, breadfruit provides shade, mulch from leaf litter, and microclimate regulation for understory crops such as taro, sweet potato, and bananas.
-
-**Timber and Other Uses:**
-
-The lightweight, termite-resistant wood is used for canoe construction, surfboards, furniture, and carvings. In Polynesian cultures, breadfruit timber was traditionally the preferred material for canoe hulls.
-
-The male flower spikes are sometimes cooked and eaten as a vegetable in some Pacific Island cultures. The latex has been used as a waterproofing agent, adhesive, and bird-lime for catching birds.
-
-## Ecological Role
-
-Breadfruit trees play a significant ecological role in tropical agroforestry landscapes. Their dense canopies provide shade that reduces soil temperature and moisture loss, creating favorable microclimates for understory crops and livestock.
-
-The extensive root system of breadfruit trees helps stabilize soil on slopes and prevent erosion. In coastal areas, breadfruit has been planted as part of windbreak systems to protect crops from salt spray and storm damage.
-
-The flowers provide nectar and pollen for bats and insects. Flying foxes (Pteropus spp.) are important pollinators of breadfruit in the Pacific, visiting the male inflorescences at night.
-
-The fruit serves as food for a variety of wildlife including fruit bats, birds, and rodents. Fallen fruits contribute organic matter to the forest floor, supporting decomposition cycles and soil microbial communities.
-
-## See Also
-
-- [[artocarpus-heterophyllus]]
-- [[ficus-carica]]
-- [[morus-alba]]
-- [[morus-rubra]]
-- [[morus-nigra]]
-- [[broussonetia-papyrifera]]
-- [[maclura-pomifera]]
-- [[agroforestry]]
-- [[permaculture]]
-- [[mycorrhiza]]
+Breadfruit is an important component of traditional agroforestry systems throughout Oceania and the Caribbean. Its deep root system, wide canopy, and association with mycorrhizal fungi make it valuable for soil stabilization [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].

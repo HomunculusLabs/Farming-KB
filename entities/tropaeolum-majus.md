@@ -33,7 +33,7 @@ perennial in frost-free climates) climbing or trailing plant native
 to the Andes of Bolivia, Colombia, Ecuador, and Peru. Widely grown
 as both an ornamental and edible plant, nasturtium is celebrated for
 its peppery-tasting leaves and flowers, its role as a companion plant
-in organic gardens, and its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+[[plant-disease-management-in-organic-gardens]], and its broad-spectrum [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
 backed by modern pharmacological research. All above-ground parts are
 edible, making it one of the most versatile multi-purpose plants in
 permaculture and [[holzer-kitchen-garden-herbs-and-medicinal-plants]] design.
@@ -67,12 +67,12 @@ permaculture and [[holzer-kitchen-garden-herbs-and-medicinal-plants]] design.
 - **Carotenoids:** Lutein and β-carotene concentrated in flowers.
 - **Tropaeolins:** Anthocyanin pigments responsible for flower
   coloration with additional antioxidant properties.
-- **Manganese and iron:** Notable mineral content in leaf tissue.
+- **Manganese and iron:** Notable mineral content in [[leaf-tissue-analysis-crop-nutrient-status]].
 
 ## Medicinal Properties
 
 - **Antibiotic activity:** Benzyl isothiocyanate has shown in vitro
-  activity against *Staphylococcus aureus*, *Escherichia coli*,
+  activity against *[[staphylococcus-aureus]]*, *Escherichia coli*,
   *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*; historically
   used as a natural antibiotic in [[chiric-caspi-brunfelsia-south-american-hallucinogen]] traditional
   medicine.
@@ -88,59 +88,3 @@ permaculture and [[holzer-kitchen-garden-herbs-and-medicinal-plants]] design.
   systemic antioxidant protection and supports immune function.
 
 ## Permaculture and Companion Planting
-
-- **Aphid trap crop:** Nasturtiums are highly attractive to aphids
-  (*Myzus persicae*, *Aphis fabae*), drawing them away from
-  vegetable crops like tomatoes, peppers, and brassicas. This is
-  their most valued companion-planting role.
-- **Cabbage white butterfly deterrent:** Planting nasturtiums
-  among brassicas can reduce egg-laying by *Pieris rapae*.
-- **Pest repellent:** The peppery aroma may help deter some beetle
-  species and squash bugs.
-- **Living mulch:** Dense trailing growth suppresses weeds and
-  conserves soil moisture around the base of taller crops.
-- **Edible ground cover:** Provides food, beauty, and ecological
-  function simultaneously — a hallmark permaculture multi-yield plant.
-- **Nutrient accumulator:** Roots access potassium and phosphorus from
-  subsoil layers; decomposing plant material returns these to surface
-  soil.
-
-## Culinary Uses
-
-- **Leaves:** Peppery, slightly bitter flavor used in salads,
-  sandwiches, pesto, and as a garnish; pairs well with soft cheeses
-  and eggs.
-- **Flowers:** Mildly peppery with sweet nectar; used as edible
-  garnish for cakes, cocktails, and savory dishes.
-- **Seed pods:** Pickled green seeds are a traditional substitute
-  for capers — known as "poor man's capers."
-- **Buds:** Unopened flower buds can be pickled similarly to seeds.
-
-## Cultivation
-
-- **Hardiness:** Frost-tender annual; perennial in USDA zones 9–11.
-- **Soil:** Poor to average, well-drained; overly rich soil produces
-  excessive foliage at the expense of flowers.
-- **Light:** Full sun to partial shade.
-- **Propagation:** Direct sow after last frost; seeds germinate in
-  7–14 days at 15–20°C. Soaking seeds overnight improves
-  germination.
-- **Watering:** Moderate; drought-tolerant once established.
-- **Pests:** Aphids are attracted (by design in trap-crop
-  applications); cabbage white caterpillars may feed on leaves.
-
-## Wiki Relevance
-
-Tropaeolum majus exemplifies the permaculture principle of multi-
-functional plants — simultaneously ornamental, edible, medicinal, and
-ecologically functional. Its glucosinolate chemistry connects it to the
-broader Brassicales phytochemical literature and provides a model for
-discussing [[query-what-is-companion-planting-and-how-does-it-work]] [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management strategies.
-
-## See Also
-
-- [[cyclanthera-pedata]]
-
-- [[calendula-officinalis]]
-- [[urtica-dioica]]
-- [[comfrey-symphytum-officinale]]

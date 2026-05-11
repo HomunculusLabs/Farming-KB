@@ -61,3 +61,20 @@ By combining the spiral pattern with the mound, the herb spiral generates synerg
 ## Connections
 
 See also [[herb-spiral]], [[herb-spiral-construction]], [[patterns-in-nature]], [[permaculture-principle-design-from-patterns-to-details]], [[permaculture-principle-use-edges-and-value-the-marginal]], [[keyhole-garden-design]], [[mandala-garden-design]], and [[herb-growing-guide]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[herb-spiral-design-guide]]
+- [[permaculture-herb-spiral-design]]
+- [[herb-spiral-microclimate-design]]
+- [[mollison-designers-herb-spiral-design-construction]]
+- [[herb-garden-design]]

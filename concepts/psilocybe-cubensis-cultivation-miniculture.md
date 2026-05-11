@@ -87,13 +87,3 @@ culture media prior to inoculation of the rye grain substrate.
 - Small scale made the study practical for a laboratory setting.
 
 **Limitations:**
-
-- Only one strain (Amazon) was used for the flush variation study, so
-  generalization to other strains requires caution.
-- The rye grain substrate differs from natural substrates used in the wild.
-- Small culture size may not fully represent larger-scale cultivation systems.
-## See Also
-
-- [[psilocybin-psilocin-chemistry]] — Chemistry of the active compounds
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution]] — Cap vs. stem
-  distribution of alkaloids

@@ -88,37 +88,3 @@ The tree's root system is relatively shallow but widespread, forming beneficial 
 Rowan occupies a prominent position in the folklore and mythology of Celtic, Norse, and Germanic traditions. In Celtic mythology, the rowan was considered sacred and was believed to offer protection against malevolent forces, evil spirits, and witchcraft.
 
 The tree was one of the sacred trees in the Celtic tree calendar, representing the month of July. Crosses made from rowan twigs were traditionally sewn into clothing or tied to cattle tails as protective charms against enchantment.
-
-In Norse mythology, the first woman was said to have been created from a rowan tree.
-
-In Scottish and Irish tradition, rowan branches were placed above doorways and thresholds to ward off evil. Walking sticks made from rowan wood were carried by travelers for protection, and rowan trees were traditionally planted near homes and farmsteads.
-
-The fruit has been used for centuries in European culinary traditions, most notably in the production of rowan berry jelly. This tart, slightly bitter jelly is a traditional accompaniment to game meats in Scandinavia, Scotland, and northern England.
-
-Rowan berries have also been used in traditional medicine across Europe, particularly as a remedy for scurvy due to their high vitamin C content. Herbal preparations from the bark and leaves have been used as astringents and for treating digestive complaints.
-
-Rowan berry wine and liqueur are produced commercially in parts of Scandinavia and eastern Europe. The berries must be cooked before consumption, as raw fruit contains parasorbic acid, which is hydrolyzed to harmless sorbic acid by heat.
-
-## See Also
-
-- crataegus-monogyna
-- [[crataegus-laevigata]]
-- [[crataegus-pinnatifida]]
-- [[prunus-spinosa]]
-- rosa-canina
-- [[prunus-avium]]
-- [[fagus-sylvatica]]
-- [[betula-pendula]]
-- [[quercus-robur]]
-- [[acer-saccharum]]
-- [[tilia-cordata]]
-- [[salix-alba]]
-- [[populus-tremuloides]]
-- [[viburnum-opulus]]
-- [[syringa-vulgaris]]
-- [[corylus-cornuta]]
-- [[castanea-sativa]]
-- [[juglans-nigra]]
-- [[ulmus-rubra]]
-- [[fraxinus-pennsylvanica]]
-- [[filipendula-ulmaria]]

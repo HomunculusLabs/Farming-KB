@@ -88,20 +88,3 @@ project before the discovery of MEM rekindled interest.
 
 EMM is a substituted amphetamine that may be subject to analogue drug
 legislation in many jurisdictions. Under the US Federal Analog Act, EMM could
-be treated as a Schedule I substance if intended for human consumption due to
-structural similarity to known controlled amphetamines. In other jurisdictions,
-specific analogue scheduling laws vary. Despite its apparent lack of
-psychoactivity, its status as a documented PIHKAL compound may attract
-regulatory attention.
-
-## Similar Compounds
-
-EMM is part of the systematic ethoxy homologue series of TMA-2:
-- MEM — the active breakthrough compound of the series (2,5-dimethoxy-4-ethoxy)
-- MEE, EEM, EME, EEE — other ethoxy permutations explored by Shulgin
-- TMA-2 — the parent trimethoxy compound
-- [[mescaline]] — the foundational phenethylamine
-
-## See Also
-
-- [[tma-5-entity-pihkal]]

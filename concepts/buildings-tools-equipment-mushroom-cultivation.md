@@ -6,6 +6,7 @@ tags: [mushroom-house, equipment, disability-adaptation, training-center,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---
@@ -86,35 +87,3 @@ A full training center requires several specialized buildings:
   country-style system, each handling approximately 500 bags.
 - **Autoclaves** - For spawn [[sterilization]] at 121 degrees Celsius.
 - **Water retention basin** - Approximately 10 x 20 x 4 meters.
-
-## Key Equipment
-
-Essential equipment for mushroom cultivation includes substrate mixers,
-[[comparison-laminar-flow-hood-vs-fruiting-chamber]] inoculation cabinets with HEPA filters, bag pressing and
-drilling machines, weighing scales, water sprayers, and harvesting
-baskets. Alcohol lamps and needles are needed for inoculation. Trolleys
-with three wheels assist in transporting materials between buildings.
-
-## Teaching Equipment
-
-For effective training, visual aids are particularly useful to show how
-other people with disabilities have countered their limitations. Video
-presentations of different production systems allow trainees to compare
-benefits and select the most suitable approach for their personal needs
-and disability. Equipment includes tables and chairs for theory,
-overhead projector, video and television with speakers, and a white board.
-
-## Shelf Systems Inside Mushroom Houses
-
-Different types of shelving can be used inside mushroom houses, each with
-advantages and disadvantages. Options include traditional bamboo shelf
-systems, suspended systems, and heavy-duty steel racks for commercial
-enterprises. Each person selects the system most appropriate considering
-their disability and local environment. Training centers should
-demonstrate multiple systems so trainees can make informed choices.
-
-## Related Concepts
-
-- mushroom-cultivation-overview-disability-empowerment
-- [[substrate-preparation-mushroom-growing]]
-- [[training-program-mushroom-cultivation]]

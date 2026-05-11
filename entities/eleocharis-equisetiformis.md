@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Strong, A.S. (1994). "Eleocharis R. Br." In: Flora of North America, Vol. 23. Oxford University Press.
-  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
-  - Godfrey, R.K. & Wooten, J.W. (1979). Aquatic and Wetland Plants of Southeastern United States: Monocotyledons. University of Georgia Press.
-  - Kral, R. (1971). "A treatment of Eleocharis (Cyperaceae) for the southeastern United States." SIDA 4(3): 184–259.
+  - Strong, A.S. (1994). "Eleocharis R. Br." In: Flora huckleberries-and-wild-berries-of-north-america, Vol. 23. Oxford University Press.
+  - Weakley, A.S. (2023). Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]. University of [[north-carolina-mycodiversity]] Herbarium.
+  - Godfrey, R.K. & Wooten, J.W. (1979). [[permaculture-plants-aquatic-and-wetland-species]] Plants of Southeastern [[dmt-maoi-plants-united-states]]: Monocotyledons. University of Georgia Press.
+  - Kral, R. (1971). "A treatment of Eleocharis (Cyperaceae) for the southeastern [[hallucinogenic-plants-native-to-united-states]]." SIDA 4(3): 184–259.
   - Rhoads, A.F. & Block, T.A. (2007). The Plants of Pennsylvania. University of Pennsylvania Press.
 ---
 
@@ -88,38 +88,3 @@ Eleocharis equisetiformis responds positively to disturbance that opens the cano
 ## Ethnobotany and Uses
 
 Eleocharis equisetiformis has no well-documented ethnobotanical uses among Indigenous peoples of the southeastern United States.
-
-It is primarily valued for its ecological role in wetland ecosystems and habitat provision.
-
-The species is occasionally included in wetland restoration seed mixes for the southeastern coastal plain.
-
-It contributes to nutrient cycling and water filtration in constructed and natural wetland systems.
-
-No pharmacological properties have been documented for this species.
-
-## Cultivation
-
-Eleocharis equisetiformis is not widely cultivated commercially but can be established in constructed wetlands and rain gardens.
-
-It requires full sun and consistently wet to shallowly inundated conditions.
-
-The species adapts to a range of soil types including sands, loams, and organic mucks.
-
-Propagation from rhizome divisions is the most reliable method for establishment.
-
-Seed germination is possible but slow, often requiring wet stratification.
-
-Once established, the species requires minimal maintenance but may need containment to prevent excessive spread.
-
-It is available from a limited number of native-plant nurseries specializing in southeastern wetland species.
-
-## See Also
-
-- [[eleocharis-palustris]]
-- [[eleocharis-acicularis]]
-- [[eleocharis-obtusa]]
-- [[eleocharis-tenuis]]
-- [[schoenoplectus-tabernaemontani]]
-- [[scirpus-cyperinus]]
-- [[juncus-effusus]]
-- [[rhynchospora-alba]]

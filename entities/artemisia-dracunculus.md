@@ -7,15 +7,15 @@ tags:
   - asteraceae
   - culinary
   - medicinal
-  - permaculture
+  - [[permaculture]]
   - aromatic
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Rivera, D. et al. (2006). \"Artemisia dracunculus: A review.\" J Ethnopharmacol, 107(3), 320-331."
   - "Greaves, J. et al. (2014). \"Chemical composition of tarragon.\" Food Chemistry, 155, 337-343."
-  - "Kaufmann, A. (2014). holzer-medicinal-and-culinary-herbs-compendium and Spices of the World. Royal Botanic Gardens, Kew."
-  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press."
+  - "Kaufmann, A. (2014). [[holzer-medicinal-and-culinary-herbs-compendium]] and Spices of the World. Royal Botanic Gardens, Kew."
+  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
 ---
 
 # Artemisia dracunculus
@@ -81,20 +81,10 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 | trans-Anethole | 5–15% | Variable |
 | α-Pinene | 2–5% | 1–3% |
 | β-Ocimene | 2–5% | Variable |
-| Sabinene | Low | Often 10–25% |
+| [[sabinene]] | Low | Often 10–25% |
 | Total oil yield | 0.5–1.5% | 0.1–0.5% |
 
 ### Non-Volatile Compounds
 
 - **Coumarins:** Umbelliferone, scopoletin — bitter notes
-- **Flavonoids:** Quercetin, [[companion-planting]]:** Traditional companion to eggplant and tomatoes;
-  aromatic properties may deter insect pests
-- **Polyculture:** Understory herb in food forests; light weed suppression
-- **Pollinator support:** Flowers attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and parasitic wasps
-- **Multi-use:** Culinary, medicinal, aromatic, ornamental in one perennial
-
-## See Also
-
-- [[dracunculus-vulgaris]]
-
-- [[artemisia-annua]] — Sweet wormwood, source of antimalarial [[ocimum-basilicum]] — Basil, fellow fine herbe
+- **Flavonoids:** [[quercetin]], [[companion-planting]]:** Traditional companion to eggplant and tomatoes;

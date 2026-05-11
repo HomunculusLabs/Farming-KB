@@ -3,7 +3,7 @@ title: Keratinophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Keratinophilic Fungi
@@ -23,7 +23,7 @@ characterized by:
 - Insolubility in water and most organic solvents
 - Resistance to degradation by most proteolytic enzymes
 - Abundance in terrestrial environments from vertebrate shedding and
-  decomposition
+  [[decomposition]]
 Only a specialized subset of fungi possess the enzymatic machinery (keratinases
 and sulfite-producing pathways) required to [[query-can-fungi-break-down-plastic-pollution]] keratin. These fungi
 reduce disulfide bonds, enabling proteolytic degradation of the keratin
@@ -88,62 +88,3 @@ The standard method for isolating keratinophilic fungi from soil:
    dextrose agar with antibiotics)
 
 ### Direct Plating
-
-Soil samples can be plated directly onto selective media containing keratin
-(wool, hair, or feathers) as the sole nitrogen source. Selective media may
-contain antibiotics (cycloheximide, chloramphenicol) and antifungal agents to
-suppress non-keratinophilic competitors.
-
-### Feather Baiting
-
-For studying keratinophilic fungi that preferentially degrade feathers:
-
-- Sterilized feathers are buried in soil samples
-- After incubation, feathers are retrieved and examined for colonization
-- Particularly useful for isolating fungi from poultry-inhabited environments
-
-## Keratin Degradation Mechanism
-
-Keratinophilic fungi degrade keratin through a multi-step process:
-
-1. Adhesion of fungal spores or hyphae to the keratin surface
-2. Production of sulfite (from cysteine metabolism), which reduces disulfide
-   bonds
-3. Secretion of keratinases (proteolytic enzymes specific for keratin)
-4. Progressive degradation of the keratin polypeptide chain
-5. Assimilation of amino acids and peptides as nitrogen and carbon sources
-
-The ability to produce both sulfite and keratinases distinguishes true
-keratinophilic fungi from opportunistic colonists of keratin substrata.
-
-## Clinical Significance
-
-Keratinophilic fungi are significant causes of superficial [[blesching-cannabis-fungal-infections-candida]]:
-
-- **Dermatophytosis (ringworm, tinea)**: the most common fungal infections
-  worldwide
-- Infections are transmitted through direct contact with infected individuals,
-  animals, or contaminated soil
-- Geophilic species (e.g., Microsporum gypseum) cause infections in persons
-  with soil contact
-- Zoophilic species (e.g., Microsporum canis from cats) can spread to humans
-- Treatment typically involves topical or systemic antifungal agents
-
-## Keratinase Enzymes: Biochemistry and Applications
-
-Keratinases are serine or metalloproteases that specifically cleave keratin
-substrates. These enzymes have attracted significant industrial interest due to
-their robust activity under alkaline conditions and their ability to degrade
-recalcitrant keratin waste.
-Key biochemical properties of keratinases include:
-
-- Optimal activity at pH 7-10 and temperatures of 30-60 degrees C
-- Stability in the presence of detergents and organic solvents
-- Ability to hydrolyze both alpha-keratin (mammalian) and beta-keratin
-  (avian/reptilian)
-Industrial applications under development include:
-## See Also
-
-- [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[onygenales-keratinophilic-systemic-pathogenic-fungi]]

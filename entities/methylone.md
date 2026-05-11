@@ -23,7 +23,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - López-Arnau, R. et al. (2012). "3,4-Methylenedioxymethcathinone (Methylone): Pharmacology." Current Neuropharmacology 10(3): 279–285.
-  - Baumann, M.H. et al. (2012). "Methylone and mephedrone: Monoamine transporter effects." Neuropsychopharmacology 37(5): 1192–1203.
+  - Baumann, M.H. et al. (2012). "Methylone and [[mephedrone]]: Monoamine transporter effects." Neuropsychopharmacology 37(5): 1192–1203.
   - European Monitoring Centre for Drugs and Drug Addiction (2024). "Methylone — EMCDDA Drug Profile."
   - United Nations Office on Drugs and Crime (2023). "World Drug Report."
   - https://pubchem.ncbi.nlm.nih.gov/compound/Methylone
@@ -48,7 +48,7 @@ First synthesized by chemists at Purdue University in 1996 as part of antidepres
 
 Methylone exists as a free-flowing crystalline powder, typically white to off-white, with a characteristic chemical odor. It is soluble in water, ethanol, and most organic solvents. The β-ketone moiety renders the compound more polar than MDMA, affecting both blood-brain barrier penetration and metabolic stability.
 
-The methylenedioxy bridge on the aromatic ring is a structural feature shared with MDMA, safrole-derived compounds, and other members of the PIHKAL/phenethylamine families. This substituent contributes to serotonin transporter affinity.
+The methylenedioxy bridge on the aromatic ring is a structural feature shared with MDMA, safrole-derived compounds, and other members of the PIHKAL/phenethylamine families. This substituent contributes to [[serotonin]] transporter affinity.
 
 ## Pharmacology
 
@@ -74,7 +74,7 @@ Common reported effects include euphoria, increased talkativeness, enhanced musi
 
 ## Metabolism
 
-Methylone undergoes N-demethylation to form methcathinone, N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). Glucuronidation and sulfation are the primary Phase II metabolic pathways.
+Methylone undergoes N-demethylation to form methcathinone, N-demethylation combined with O-demethylenation to form cathinone, and reduction of the ketone to form the corresponding alcohol (corresponding to MDMA metabolites). [[glucuronidation]] and sulfation are the primary Phase II metabolic pathways.
 
 The elimination half-life is approximately 2–3 hours, shorter than MDMA (7–9 hours), consistent with the shorter duration of subjective effects. The compound is primarily excreted in urine as Phase I and Phase II metabolites within 24 hours of administration.
 
@@ -83,31 +83,8 @@ The elimination half-life is approximately 2–3 hours, shorter than MDMA (7–9
 Methylone is internationally controlled as a Schedule I substance under the UN Convention on Psychotropic Substances (since 2020). National controls include:
 
 - **[[dmt-containing-plants-united-states-halpern]]:** Emergency scheduled in 2011, permanently placed in Schedule I in 2021 under the cathinone class.
-- **European Union:** Controlled across all member states, with most scheduling actions occurring 2010–2013.
+- **[[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]:** Controlled across all member states, with most scheduling actions occurring 2010–2013.
 - **United Kingdom:** Class B under the Misuse of Drugs Act (controlled as a cathinone).
 - **China:** Scheduled as a narcotic drug since 2015.
 
 ## Toxicology and Adverse Effects
-
-Methylone carries significant health risks, particularly at high doses or in combination with other stimulants or serotonergic drugs. Hyperthermia, serotonin syndrome, hyponatremia, and cardiovascular events (arrhythmia, hypertensive crisis) have been documented in emergency department presentations.
-
-Post-mortem toxicology studies have identified methylone in fatalities, often in combination with other substances. The stimulant properties increase risk of dehydration and heatstroke in dance/club environments. Chronic use has been associated with mood disturbances, cognitive impairment, and cardiac stress.
-
-The compound's potential for neurotoxicity has not been as extensively studied as MDMA, but in vitro data suggest lower serotonergic neurotoxic potential due to reduced CNS penetration. Animal studies show some evidence of dopaminergic toxicity at high, repeated doses.
-
-## See Also
-
-- [[butylone]]
-- [[mephedrone]]
-- [[5-mapb]]
-- [[3-meo-pcp]]
-- [[2c-b]]
-- empathogen
-- MDA
-- [[psilocybin]]
-- [[5-meo-dmt-entity]]
-- [[ketamine]]
-- [[harmine]]
-- [[psychedelic-harm-reduction]]
-- microdosing
-- psychedelics

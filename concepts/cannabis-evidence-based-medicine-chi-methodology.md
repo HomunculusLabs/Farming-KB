@@ -15,7 +15,7 @@ a structured framework for making informed decisions about cannabis therapy.
 
 Blesching opens with a stark assessment: most chronic illness treatments
 lack robust evidence. The Vioxx scandal illustrates the danger — a drug
-approved for rheumatoid arthritis was widely prescribed off-label and caused
+approved [[cannabis-for-rheumatoid-arthritis]] was widely prescribed off-label and caused
 an estimated 55,000 to 500,000 deaths from heart attacks and strokes before
 being withdrawn. The FDA does not approve drugs or devices, only their
 marketing, and once marketed, off-label prescribing is common and largely
@@ -37,7 +37,7 @@ about the care of individual patients." This means integrating clinical
 expertise with the best available external evidence from systematic research.
 
 The U.S. Department of Health has funded 13 evidence-based practice centers
-(Mayo Clinic, Duke, Johns Hopkins) to promote this approach. The CHI brings
+(Mayo Clinic, Duke, [[johns-hopkins-psychedelic-research]]) to promote this approach. The CHI brings
 this same rigor to cannabis medicine.
 
 ## Hierarchy of Evidence in Cannabis Research
@@ -61,7 +61,7 @@ hierarchies:
    useful for generating hypotheses but weak for establishing causation.
 
 6. **Expert opinion and anecdotal evidence**: Lowest in the hierarchy, though
-   valuable for identifying potential therapeutic applications.
+   valuable for identifying potential [[psilocybin-therapeutic-applications]].
 
 ## The CHI Scoring System
 
@@ -79,7 +79,7 @@ and quality of evidence for each condition:
 
 The scoring considers not just whether cannabis helps, but the magnitude
 of benefit, consistency across studies, and the quality of the underlying
-research methodology.
+[[mckenna-baconian-exploration-tryptamine-research-methodology]].
 
 ## Strain-Specific and Form-Specific Evidence
 
@@ -88,21 +88,3 @@ The CHI goes beyond generic "cannabis helps condition X" to consider:
 - **THC vs. CBD ratios**: Different conditions may respond optimally to
   different cannabinoid profiles. High-THC strains may suit pain and nausea;
   high-CBD strains may suit anxiety and inflammation.
-
-- **Route of administration**: Inhaled vs. oral vs. topical vs. sublingual
-  — each has different pharmacokinetics and may suit different conditions.
-
-- **Sativa vs. Indica**: While scientifically imprecise, these categories
-  reflect real differences in subjective effects that patients consistently
-  report.
-
-- **Dosing considerations**: The CHI emphasizes finding individual
-  "[[cannabis-subjective-therapeutic-window-dosing]] windows" — the dose range where benefits
-  outweigh side effects.
-
-## Integration with Mind-Body Medicine
-
-A distinctive feature of the CHI is its integration of mindfulness and
-mind-body medicine with cannabinoid therapy. Blesching argues that the
-[[cannabis-health-index-chi-scoring]]
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]

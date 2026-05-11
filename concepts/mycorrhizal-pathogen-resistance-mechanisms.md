@@ -88,10 +88,3 @@ The pathogen resistance mechanisms provided by mycorrhizal colonization can be s
 6. **Stronger vascular systems** — improved transport of defensive resources
 7. **Chemical deterrents** — metabolites that reduce nematode activity
 8. **Physical barriers** — fungal mantles shield roots from predators
-9. **Antimicrobial compounds** — biocides and antibiotics destroy harmful organisms
-10. **Interplant signaling** — chemical warnings transmitted through [[fungal-mycelial-networks-nutrient-translocation]]
-
-## Related Topics
-
-- [[endophytic-mycorrhizal-induced-systemic-resistance]] — [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance pathways
-- [[common-mycorrhizal-networks]] — network-mediated defense signaling

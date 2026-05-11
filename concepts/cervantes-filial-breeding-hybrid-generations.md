@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -40,7 +41,7 @@ generation. This uniformity is lost when F1 plants are inter-bred.
 Cervantes describes several types of [[cervantes-hybrid-varieties-types]] found in cannabis
 breeding:
 - F1 hybrids: Single cross of two true-breeding lines (e.g.,
-  'Northern Lights' x 'Haze')
+  '[[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x 'Haze')
 - Three-way crosses: A hybrid crossed with a third parent (e.g.,
   'Skunk #1' which is (Mexican x Colombian) x Afghani)
 - Double cross hybrids: A cross of two unrelated F1 hybrids (e.g.,
@@ -85,25 +86,4 @@ The population gradually becomes more uniform as heterozygous loci
 become fixed. After several generations of selection, the population
 approaches a true-breeding state. The rate of homozygosity increase
 depends on the population size; smaller populations fix faster but
-risk losing more genetic diversity in the process.
-
-## Filial Inbreeding with Selection
-
-Filial inbreeding with selection for specific traits is the most common
-method for establishing a pure or true-breeding population when breeding
-cross-pollinated species such as cannabis. The breeder grows large F2
-populations, selects the best individuals showing desired traits, and
-inter-mates them to create the F3.
-
-This process continues over multiple generations, with the breeder
-roguing out undesirable individuals at each stage. Eventually, the
-population breeds true for the selected characteristics and can be
-considered an inbred line or IBL. See
-[[cervantes-seed-population-types-ibl-hybrid]] for more on variety
-types and their commercial characteristics.
-
-## See Also
-
-- [[cervantes-dominance-recessive-traits-alleles]] - F2 segregation
-- [[cervantes-selfing-single-seed-descent]] - Alternative to filial
-- [[cannabis-genetics-and-breeding]] - Breeding fundamentals
+risk losing more [[biodiversity-fungal-genetic-diversity]] in the process.

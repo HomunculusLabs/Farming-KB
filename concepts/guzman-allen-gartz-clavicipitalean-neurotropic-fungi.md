@@ -77,3 +77,8 @@ The Clavicipitalean neurotropic fungi remain incompletely studied in several res
 ## See Also
 
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

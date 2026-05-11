@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MDBZ
 
-PIHKAL entry #103. N-BENZYL-MDA; 3,4-METHYLENEDIOXY-N-BENZYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #103. N-BENZYL-MDA; 3,4-METHYLENEDIOXY-N-BENZYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -43,7 +43,7 @@ the ethyl is the two carbon chain, and the amine is the basic
 nitrogen. If one carbon is removed, one has a benzylamine, and it is
 usually identified with an entirely different pharmacology, or is most
 often simply not active. A vivid example is the narcotic drug,
-Fentanyl. The replacement of the phenethyl group, attached to the
+[[fentanyl]]. The replacement of the phenethyl group, attached to the
 nitrogen atom with a benzyl group, virtually eliminates its analgesic
 potency.
 
@@ -84,38 +84,7 @@ sodium cyanoborohydride, produced after acidification with dilute
 To a suspension of 18.6 g benzylamine hydrochloride in 50
 
 mL warm MeOH there was added 2.4 g of 3,4-methylenedioxyphenylacetone
-(see under MDMA for its preparation) followed by 1.0 g sodium
+(see under [[mdma]] for its preparation) followed by 1.0 g sodium
 cyanoborohydride. Concentrated HCl in MeOH was added over several
 days as required to maintain the pH at about 6 as determined with
 external, dampened universal paper. When the demand for acid ceased,
-the reaction mixture was added to 400 mL H2O and made strongly acidic
-with an excess of HCl. This was extracted with 3x150 mL CH2Cl2 (these
-extracts must be saved as they contain the product) and the residual
-aqueous phase made basic with 25% NaOH and again extracted with 4x100
-mL CH2Cl2. Removal of the solvent under vacuum and distillation of
-the 8.7 g pale yellow residue at slightly reduced pressure provided a
-colorless oil that was pure, recovered benzylamine. It was best
-characterized as its HCl salt (2 g in 10 mL IPA neutralized with about
-25 drops concentrated HCl, and dilution with anhydrous Et2O gave
-beautiful white crystals, mp 267-268 deg C). The saved CH2Cl2 fractions
-above were extracted with 3x100 mL dillute H2SO4. These pooled
-extracts were back-washed once with CH2Cl2, made basic with 25% NaOH,
-and extracted with 3x50 mL CH2Cl2. The solvent was removed from the
-pooled extracts under vacuum, leaving a residue of about 0.5 g of an
-amber oil. This was dissolved in 10 mL IPA, neutralized with
-concentrated HCl (about 5 drops) and diluted with 80 mL anhydrous
-Et2O. After a few min, 3,4-methylenedioxy-N-benzylamphetamine
-hydrochloride (MDBZ) began to appear as a fine white crystalline
-product. After removal by filtration, Et2O washing and air drying,
-this weighed 0.55 g, and had a mp of 170-171 deg C with prior shrinking
-at 165 deg C. Anal. (C17H20ClNO2) N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[mdbz-entity]]
-- [[mda-entity-pihkal]]
-- [[mdbu-entity-pihkal]]

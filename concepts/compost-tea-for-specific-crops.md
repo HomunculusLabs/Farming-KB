@@ -1,5 +1,5 @@
 ---
-title: Compost Tea for Specific Crops
+title: Compost Tea For Specific Crops
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -10,10 +10,10 @@ sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-
 
 Updated: 2026-04-18
 
-Dr. Elaine Ingham provides specific application protocols for compost
-tea and compost/wormcastings across different crop types. The core
+Dr. Elaine Ingham provides specific [[ingham-strawberry-potato-tomato-aact-application-protocols]] for compost
+[[query-what-is-the-difference-between-compost-tea-and-compost-extract]]/wormcastings across different crop types. The core
 principle is that the tea biology must match the crop type: annual
-crops need bacterial-dominant biology, while perennial crops need
+crops need bacterial-dominant biology, while [[perennial-vegetables-and-edible-perennial-crops]] need
 fungal-dominant biology.
 
 ## General Application Framework
@@ -21,7 +21,7 @@ fungal-dominant biology.
 The general protocol applies across all crop types:
 
 1. Fall: Apply 1-5 tons per acre of compost/wormcastings as top
-   dressing on crop residue
+   dressing on [[jadam-crop-residue-fertilizer]]
 2. Pre-planting: Apply 15 gallons of compost tea per acre as soil
    drench 2 weeks before planting
 3. [[savory-growing-season-and-non-growing-season-management]]: Apply 5 gallons per acre as foliar spray monthly,
@@ -42,7 +42,7 @@ The general protocol applies across all crop types:
 Specific vineyard protocol:
 
 - Fall fertilization: 1-5 tons per acre compost/wormcastings as
-  top dressing
+  [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
 - Spring soil drench: 15 gallons compost tea per acre directly on
   top of fall compost
 - Spring/summer foliar: 5 gallons per acre per month for every 6
@@ -88,56 +88,3 @@ Specific turf protocol:
 Specific orchard protocol:
 
 - Fall fertilization: 1-5 tons per acre compost/wormcastings as
-  top dressing
-- Spring soil drench: 15 gallons per acre directly on top of fall
-  application
-- Growing season foliar: 5 gallons per acre monthly starting 2
-  weeks before bud break
-- Drench foliage and stems completely
-- Do not spray when bees are pollinating
-- After 4-5 years, reduce to seasonal or during pest/disease alerts
-- Nutrient additions: First year may need additional nutrients
-  through compost tea; do petiole analysis for deficiencies and add
-  lacking nutrients to tea
-
-## Annual Row Crops
-
-Specific annual crop protocol:
-
-- Soil drench: 15 gallons per acre 2 weeks before planting
-- Foliar: 5 gallons per acre monthly during growing season
-- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]: Spray with compost tea while planting to wet seed
-  beds
-- Transplanting: 30-50% compost mix with site soil, water with
-  compost tea
-- Nutrient additions: First year may need additional nutrients;
-  second year usually drops significantly; may not be required by
-  year three
-- Reduce [[jadam-fertilizer-program-design]] by 1/3 each year based on soil foodweb
-  reports
-
-## Reducing Chemical Inputs Over Time
-
-Ingham's data consistently shows:
-
-- First year: Compost tea/compost provides biological activation;
-  some nutrient additions may still be needed
-- Second year: Fertilizer needs typically drop by 1/3
-- Third year: Further reductions; water usage down 50-60%
-- Fourth-fifth year: Compost tea needed only seasonally or during
-  pest/disease alerts; minimal or no additional nutrients
-- Pesticides and herbicides: By maintaining the food web with
-  beneficial foods, no pesticides should be necessary
-
-## Quality Testing
-
-All compost teas should meet SFI minimum standards for bacterial and
-fungal biomass. Test first three brews with a mix of [[ingham-thermal-compost-versus-worm-compost]]
-and worm compost, and adjust recipes based on results.
-
-## See Also
-
-- [[aact-fungal-dominant-tea]]
-- [[ingham-soil-food-web-assessment-methods]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[bacterial-vs-fungal-compost-teas]]

@@ -88,28 +88,3 @@ It is formulated into creams, lotions, sunscreens, aftershave products, baby car
 In pharmaceutical applications, α-bisabolol is an ingredient in anti-inflammatory and wound-healing preparations, particularly in European markets where phytomedicine traditions are stronger.
 
 ## History and Discovery
-
-α-Bisabolol was first isolated from chamomile essential oil in 1951 by Czech chemist Šorm and colleagues, who identified it as the primary sesquiterpene component responsible for chamomile's anti-inflammatory properties. The natural (−)-enantiomer was designated levomenol to distinguish it from the less active (+)-form.
-
-Commercial production from candeia wood (Eremanthus erythrocladus) began in Brazil in the 1970s and expanded significantly in the following decades as demand grew from the cosmetics and pharmaceutical industries. The Brazilian candeia industry now produces several hundred tons of α-bisabolol annually, though concerns about sustainable harvesting have led to development of cultivated candeia plantations.
-
-Synthetic bisabolol production was developed as an alternative to botanical extraction, primarily using myrcene as a precursor. However, the synthetic racemic mixture lacks the full pharmacological potency of the natural (−)-enantiomer, creating a market premium for naturally derived material.
-
-## Safety and Toxicology
-
-α-Bisabolol has an excellent safety profile supported by extensive toxicological data.
-
-Oral LD₅₀ values in rodents exceed 5 g/kg, indicating very low acute toxicity. Dermal irritation and sensitization potential are minimal, making it suitable for use in products intended for sensitive skin, including infant formulations.
-
-No mutagenic or genotoxic activity has been observed in standard Ames test and micronucleus assays. Chronic toxicity studies have not identified target organ toxicity at concentrations relevant to cosmetic and pharmaceutical use.
-
-The European Scientific Committee on Consumer Safety (SCCS) has reviewed α-bisabolol and concluded it is safe for use in cosmetic products at concentrations up to 1.0%. The FDA lists bisabolol as Generally Recognized As Safe (GRAS) for use as a flavoring agent.
-
-## See Also
-
-- [[linalool]]
-- [[geraniol]]
-- [[humulene]]
-- [[cannabidiolic-acid-cbda]]
-- [[valeriana-officinalis]]
-- [[borago-officinalis]]

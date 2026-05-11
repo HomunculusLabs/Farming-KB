@@ -3,6 +3,7 @@ title: Cannabis hamilton-organic-fertilizers-and-plant-nutrition
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis, fertilizer]
@@ -12,7 +13,7 @@ tags: [cannabis, fertilizer]
 
 ## Overview
 
-Organically grown cannabis has a sweeter taste, but implementing an organic indoor garden requires horticultural know-how. Organic fertilizers are most often defined as containing substances with a carbon molecule or a natural unaltered substance such as ground-up rocks. Indoor and outdoor crops grown in less than 90 days may not have time to wait for organic nutrients to be broken down.
+Organically grown cannabis has a sweeter taste, but implementing an organic indoor garden requires horticultural know-how. Organic fertilizers are most often defined as containing substances with a carbon molecule or a natural unaltered substance such as ground-up rocks. Indoor and outdoor crops grown in less than 90 days may not have time to wait for [[organic-nutrients-vs-synthetic-nutrients]] to be broken down.
 
 ## Benefits of Organic Fertilizers
 
@@ -20,7 +21,7 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 - More consistently available when used in combination
 - Somewhat difficult to over-apply
 - Support beneficial microbial activity in soil
-- Improve soil structure and water-holding ability
+- [[query-how-do-fungi-improve-soil-structure]] and water-holding ability
 - Organic nutrients bring out a sweet organic taste in buds
 
 ## Common Organic Fertilizer Sources
@@ -28,11 +29,11 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 ### Nitrogen Sources
 
 - **Seabird guano** -- High in nitrogen, collected from arid sea islands; [[chiric-caspi-brunfelsia-south-american-hallucinogen]] guano is considered the world's best
-- **Bat guano** -- Rich in soluble nitrogen, phosphorus, and trace elements; newer deposits are high in nitrogen (can burn if over-applied); older deposits are high in phosphorus
+- **Bat guano** -- Rich in soluble nitrogen, phosphorus, [[teaming-with-nutrients-micronutrients-and-trace-elements]]; newer deposits are high in nitrogen (can burn if over-applied); older deposits are high in phosphorus
 - **Fish emulsion** -- Fast-acting soluble nitrogen source
 - **Blood meal** -- High-nitrogen organic fertilizer
 - **Hoof and horn meal** -- Slow-release nitrogen (6-15% N), apply 2-3 weeks before planting
-- **Worm castings** -- Excellent fertilizer/amendment; about 20% worm castings mixed with other organic agents creates a strong nitrogen base
+- **[[ingham-vermicompost-worm-castings]]** -- Excellent fertilizer/amendment; about 20% worm castings mixed with other organic agents creates a strong nitrogen base
 
 ### Phosphorus Sources
 
@@ -50,7 +51,7 @@ Organically grown cannabis has a sweeter taste, but implementing an organic indo
 
 ### Micronutrient Sources
 
-- **Kelp/seaweed** -- Contains 60-70 trace minerals already chelated (water-soluble and mobile in soil)
+- **Kelp/seaweed** -- Contains 60-70 [[dynamic-accumulator-plants-trace-minerals]] already chelated (water-soluble and mobile in soil)
 - **Liquid seaweed** -- Contains nitrogen, phosphorus, potash, all trace elements in chelated form, plus plant hormones
 
 ## Organic Teas (Compost Teas)
@@ -85,26 +86,5 @@ Hydro-organic growing uses an inert soilless medium with a soluble organic [[can
 
 ## Flushing Organic Gardens
 
-- Soluble organic fertilizers are fairly easy to flush from growing medium
+- Soluble organic fertilizers are fairly easy to flush from [[cervantes-green-algae-growing-medium]]
 - Like [[cervantes-chemical-fertilizers-guide]], organic fertilizers build to toxic levels
-- Rinse medium with three gallons of water for every gallon of medium
-- Some growers flush with plain water the last two weeks of flowering
-
-## Indoor Organic Soil Mixes
-
-Most indoor organic gardens use potting soil high in:
-
-- Worm castings
-- Peat
-- Sand
-- Manure
-- Leaf mold
-- Compost
-- Fine [[cervantes-dolomite-lime-ph-buffering]]
-
-## See Also
-
-- [[cannabis-nutrient-solution-preparation]]
-- [[cannabis-foliar-feeding]]
-- [[cannabis-indoor-soil-mix-and-preparation]]
-- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]

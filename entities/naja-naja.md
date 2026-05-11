@@ -12,8 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Wüster, W. (1998). "The cobras of the genus Naja in India." Hamadryad, 23(1), 33-47.
-  - Whitaker, R. & Captain, A. (2004). Snakes of India: The Field Guide. Draco Books.
-  - Kularatne, S.A.M. (2001). "Epidemiology and clinical features of snake bite in Sri Lanka." Southeast Asian Journal of Tropical Medicine and Public Health, 32(4), 837-841.
+  - Whitaker, R. & Captain, A. (2004). Snakes of India: The [[field-guide-psilocybin-bluing-reaction-identification]]. Draco Books.
+  - Kularatne, S.A.M. (2001). "Epidemiology and clinical features of snake bite in Sri Lanka." [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] Journal of Tropical Medicine and Public Health, 32(4), 837-841.
   - Casewell, N.R. et al. (2020). "Fig-fighting snake venom evolution: A resource of toxin gene diversity in the Asiatic cobra." BMC Genomics, 21, 299.
   - The Reptile Database. "Naja naja (Linnaeus, 1758)." https://reptile-database.reptarium.cz/species?genus=Naja&species=naja
 ---
@@ -42,7 +42,7 @@ The body is moderately robust with a distinct hood that can be expanded when the
 
 The head is broadly ovate and barely distinct from the neck. The eyes are medium-sized with round pupils, and the nostrils are large. The dorsal scales are smooth and arranged in 15-17 rows at midbody.
 
-The tail constitutes approximately 15-18% of total body length. The subcaudal scales are divided in males and undivided in females, a sexually dimorphic trait useful for field identification.
+The tail constitutes approximately 15-18% of total body length. The subcaudal scales are divided in males and undivided in females, a sexually dimorphic trait useful for [[palmer-mushroom-hunting-field-identification]].
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ Cytotoxins, also three-finger toxins, cause local tissue damage including necros
 
 Phospholipase A2 enzymes contribute to both neurotoxicity and myotoxicity. They hydrolyze phospholipid membranes, disrupting cellular integrity and promoting inflammation and pain.
 
-The venom composition shows geographic variation across the species range. Populations from different regions may differ significantly in the relative abundance of neurotoxins versus cytotoxins, which has implications for antivenom efficacy.
+The venom composition shows geographic [[psilocybin-psilocin-variation-across-flushes]] the species range. Populations from different regions may differ significantly in the relative abundance of neurotoxins versus cytotoxins, which has implications for antivenom efficacy.
 
 Comparative proteomic studies have identified over 80 unique protein components in Naja naja venom from different geographical locations. Transcriptomic analysis has further revealed that venom gland gene expression varies seasonally, with higher neurotoxin expression during warmer months when prey availability increases.
 
@@ -87,34 +87,3 @@ Polyvalent antivenoms manufactured in India, such as those produced by the Haffk
 Traditional snake charmers and folk remedies continue to delay appropriate medical treatment in some rural areas. Public health education programs have improved outcomes but snakebite remains a significant burden, with an estimated 15,000 to 58,000 deaths annually in India attributed to snakebite overall.
 
 ## Ecology and Conservation
-
-Naja naja is an important mesopredator in South Asian ecosystems. It feeds primarily on rodents, frogs, toads, lizards, and other snakes, playing a role in controlling pest populations.
-
-The species is oviparous, with females laying 10 to 30 eggs in a clutch. Eggs are deposited in rodent burrows, termite mounds, or other sheltered locations. Incubation lasts approximately 48 to 69 days depending on temperature.
-
-Hatchlings measure 20 to 30 cm in total length and possess fully functional venom apparatus from birth. They are independent immediately upon hatching and receive no parental care.
-
-Sexual maturity is reached at approximately 2 to 3 years of age. Courtship involves complex behavioral displays including body alignment, chin-rubbing by the male, and prolonged copulation lasting several hours.
-
-Natural predators include mongooses, which show remarkable resistance to cobra venom, birds of prey such as the secretary bird, and other larger snakes. The species exhibits defensive behaviors including hood spreading, hissing, and delivering mock strikes before resorting to actual biting.
-
-The hood display is accompanied by a loud, sustained hiss produced by forcing air through the glottis. When cornered, Naja naja may raise up to one-third of its body off the ground, a posture that enhances its apparent size to deter potential threats.
-
-Naja naja is listed as Least Concern on the IUCN Red List. However, populations face threats from habitat destruction, road mortality, and deliberate killing by humans. The species is protected under Schedule II of the Indian Wildlife Protection Act of 1972.
-
-Conservation breeding programs at several Indian zoological facilities have had success in maintaining captive populations. Reintroduction efforts remain limited but are being explored as a potential management tool for depleted local populations.
-
-Illegal collection for the venom extraction industry and the traditional medicine trade also impact local populations. The snake charming trade, while declining due to legal restrictions, historically removed large numbers from the wild.
-
-## See Also
-
-- [[bufotenin]]
-- [[bufo-bufo]]
-- [[atropine]]
-- [[muscarine]]
-- [[strychnine]]
-- [[nicotine]]
-- [[aconitum-napellus]]
-- [[ambystoma-mexicanum]]
-- [[digitalis-purpurea]]
-- [[rana-temporaria]]

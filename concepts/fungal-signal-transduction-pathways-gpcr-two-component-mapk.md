@@ -1,5 +1,5 @@
 ---
-title: Fungal Signal Transduction Pathways
+title: Fungal Signal Transduction Pathways Gpcr Two Component Mapk
 aliases: [fungal sensing, hyphal signal transduction, GPCR fungi, two-component signalling, MAPK cascade fungi]
 tags: [mycology, fungal-biology, signal-transduction, GPCR, hyphal-growth, environmental-sensing]
 sources:
@@ -10,14 +10,14 @@ sources:
 
 ## Overview
 
-Filamentous fungi inhabit complex, heterogeneous microenvironments and must constantly sense and respond to a remarkable range of environmental signals. To accomplish this, fungi possess sophisticated intracellular signal transduction machinery that detects external cues and converts them into appropriate cellular responses — changes in gene expression, growth direction, metabolism, differentiation, and reproduction. Analysis of sequenced fungal genomes, particularly *Neurospora crassa* and *Magnaporthe grisea*, has revealed that filamentous fungi possess a significantly more extensive array of sensing and signalling capabilities than yeasts, reflecting the greater environmental complexity they face.
+Filamentous fungi inhabit complex, heterogeneous microenvironments and must constantly sense and respond to a remarkable range of environmental signals. To accomplish this, fungi possess sophisticated intracellular signal transduction machinery that detects external cues and converts them into appropriate cellular responses — changes in gene expression, growth direction, metabolism, differentiation, and reproduction. Analysis of sequenced fungal genomes, particularly *[[neurospora-crassa]]* and *[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]*, has revealed that filamentous fungi possess a significantly more extensive array of sensing and signalling capabilities than yeasts, reflecting the greater environmental complexity they face.
 
 ## Environmental Signals Detected by Fungi
 
 Fungi respond to four broad categories of environmental signal:
 
 1. **Abiotic and global**: Light (intensity, wavelength, periodicity), temperature, relative humidity
-2. **Abiotic and local**: Nutrient gradients, oxygen, carbon dioxide, pH, chemical signals, mechanical stimuli, osmotic shock
+2. **Abiotic and local**: Nutrient gradients, oxygen, carbon dioxide, pH, [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], mechanical stimuli, [[ingham-antibiotics-osmotic-shock-compost-tea]]
 3. **Biotic — other organisms**: Chemical and physical signals from other fungi, bacteria, plants, and animals that can promote or inhibit fungal growth, modulate secondary metabolism, or serve as cues for host invasion
 4. **Biotic — self-derived (autoregulators)**: Compounds produced by the fungus itself that regulate colony organization, hyphal avoidance, hyphal fusion (homing), quorum sensing, dimorphism, [[fungal-chlamydospore-formation-and-survival]], and the choice between sexual and asexual reproduction
 
@@ -29,7 +29,7 @@ Two-component signalling systems are used extensively by prokaryotes and are als
 
 **Architecture**: In *Neurospora crassa*, two-component signalling takes a complex hybrid form. The system consists of:
 
-- A **hybrid protein** containing both a histidine kinase domain and a response regulator domain
+- A **hybrid protein** containing both a [[gadd-two-component-signalling-histidine-kinase-fungi]] domain and a response regulator domain
 - A **histidine phosphotransferase** (HPT) that relays the signal
 - A second **response regulator** protein
 
@@ -88,38 +88,3 @@ Calcium signals in fungi regulate:
 - Spore germination
 - [[plant-circadian-rhythms]]
 - Stress responses
-- Differentiation and morphogenesis
-
-## Why Filamentous Fungi Need More Signalling
-
-The expansion of signalling machinery in filamentous fungi compared to yeasts reflects fundamental ecological differences:
-
-- **Environmental complexity**: Hyphae grow through heterogeneous microenvironments, encountering constantly changing conditions at the microscopic level — nutrient gradients, pH variations, oxygen availability, and mechanical obstacles
-- **Spatial extent**: A single fungal colony may span centimeters to meters, with different parts of the mycelium experiencing very different conditions simultaneously
-- **Developmental versatility**: Filamentous fungi produce an extraordinary range of differentiated structures — hyphae of different types, rhizomorphs, sclerotia, fruiting bodies, and various spore forms — each requiring precise spatial and temporal regulation
-- **Non-motility constraint**: Being non-motile, fungi cannot relocate when conditions become unfavorable. Instead, they must sense their environment and mount adaptive responses — changing growth direction, altering metabolism, initiating sporulation, or forming resistant structures
-
-## Autoregulation and Quorum Sensing
-
-A particularly fascinating aspect of fungal signalling is autoregulation — the production of extracellular chemical signals by the fungus itself. These self-produced compounds regulate:
-
-- **Hyphal avoidance**: Growing hyphae detect and grow away from each other, preventing self-overgrowth and ensuring efficient colony expansion
-- **Hyphal homing**: Compatible hyphae detect each other and grow toward points of fusion (anastomosis), enabling the formation of an interconnected [[gadd-mycelial-network-dynamics]]
-- **Yeast-hyphal dimorphism**: Some fungi switch between yeast-like and filamentous growth forms in response to cell density signals
-- **Reproduction**: Self-produced compounds regulate the balance between asexual sporulation and sexual reproduction, with sex pheromones (including trisporic acid in Mucorales and peptide pheromones in Ascomycota and Basidiomycota) playing key roles
-
-## Biotechnological Implications
-
-Understanding fungal signal transduction has practical applications:
-
-- **Disease control**: Disrupting pathogenicity-related signalling pathways in plant pathogenic fungi offers targets for new fungicides
-- **Industrial mycology**: Manipulating signalling pathways can optimize fungal strains for enzyme production, fermentation, and bioremediation
-- **Biocontrol**: Enhancing the environmental sensing capabilities of biocontrol fungi can improve their effectiveness against plant pathogens
-- **Bioremediation**: Fungi used for metal transformation and toxic compound degradation can be optimized by understanding how they sense and respond to target compounds
-
-## See Also
-
-- [[fungal-woronin-bodies-and-septal-pore-organization]] — structural components of hyphal compartmentalization
-- [[fungal-mycelial-networks-nutrient-translocation]] — how [[mycelial-networks]] distribute resources
-- [[fungal-hyphae-and-mycelium]] — the basic unit of fungal vegetative growth
-- [[bloomfield-fungal-biology-and-hyphal-growth]] — broader fungal biology context

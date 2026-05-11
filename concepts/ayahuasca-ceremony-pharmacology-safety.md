@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca [[ayahuasca-ceremony-practices]] pharmacology safety and Safety
+title: Ayahuasca Ceremony Pharmacology Safety
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -25,7 +25,7 @@ harmine, harmaline, and tetrahydroharmine. These compounds act as
 reversible monoamine oxidase inhibitors (MAOIs), which prevent the
 breakdown of DMT in the digestive tract.
 
-[[chacruna-psychotria-viridis]] (chacruna) or [[diplopterys-cabrerana]] (chaliponga)
+[[chacruna-psychotria-viridis]] (chacruna) or [[diplopterys-cabreraeana]] (chaliponga)
 provides DMT, a powerful psychedelic compound that is normally inactive
 when taken orally because monoamine oxidase enzymes in the gut rapidly
 degrade it. The MAOIs from B. caapi inhibit these enzymes, allowing DMT
@@ -88,31 +88,3 @@ with a knowledgeable physician about potential interactions before
 traveling to [[guzman-psilocybin-mushrooms-south-america]] for ceremony.
 
 The following steps are recommended for anyone considering ayahuasca:
-Research all potential drug interactions with MAOIs and DMT. Consult a
-physician about medication compatibility. Disclose all medications and
-health conditions to the ceremony facilitator. Start with a conservative
-dose if uncertain about sensitivity. Have a trusted sitter present who
-understands the pharmacology.
-
-## Acute Effects
-
-The acute effects of ayahuasca include profound visual and emotional
-experiences, often described as visionary or purgative. Nausea and
-vomiting are common and are considered part of the cleansing process
-in traditional contexts. The experience typically lasts four to six
-hours, with residual effects possible for several more hours.
-
-## Set and Setting
-
-As with all psychedelics, the set (mental state, expectations, intentions)
-and setting (physical environment, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]]) significantly influence
-the quality and safety of the experience. The ceremonial context with a
-shaman, icaros, and community provides a structured setting that differs
-markedly from recreational psychedelic use and generally supports safer,
-more integrative experiences.
-
-## See Also
-- [[ayahuasca-pharmacology-maoi-interactions]]
-- [[ayahuasca-tourism-in-peru]]
-- [[ayahuasqueros-shamanic-practice]]
-- [[ayahuasca-ceremony-structure-and-practice]]

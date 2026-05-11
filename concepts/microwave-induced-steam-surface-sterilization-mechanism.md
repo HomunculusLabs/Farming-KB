@@ -88,33 +88,3 @@ While developed for NASA's space biology applications, the microwave-induced ste
 ## Physical Principles of Steam Generation by Microwave
 
 The process of converting a thin water film to steam via microwave irradiation involves several physical stages:
-
-1. **Dielectric heating** — microwave photons at 2.45 GHz are absorbed by water molecules through resonant coupling with the O-H bond dipole rotation
-2. **Temperature rise** — absorbed energy is converted to kinetic energy (heat) within the water film, raising its temperature toward 100°C
-3. **Nucleation** — vapor bubbles nucleate at the water-surface interface, where [[casing-surface-roughness-technique-mushroom-fruiting]] provides nucleation sites
-4. **Steam expansion** — generated steam expands rapidly, creating localized pressure that assists in penetrating surface biofilms and microbial colonies
-5. **Condensation** — steam contacts cooler areas of the surface, releasing latent heat and raising the surface temperature above the kill threshold for most vegetative organisms
-
-The efficiency of this process depends on the microwave power density, the thermal conductivity of the underlying surface material, and the initial temperature of the system. In the NASA application, the entire process was designed to occur within the sealed sterilization chamber of the MSAP.
-
-## Limitations and Challenges
-
-Despite its advantages, microwave-induced steam sterilization has several limitations that must be addressed in practical implementations:
-
-- **Water requirement** — the absolute necessity for surface water means that dry surfaces cannot be sterilized without first applying moisture, adding a preparation step
-- **Penetration depth** — microwave penetration into materials is limited; sterilization is effective on surfaces and in thin gaps but cannot penetrate deeply into solid materials
-- **Material compatibility** — some materials (particularly metals) reflect microwaves and cannot be sterilized by direct irradiation, requiring indirect heating through steam migration
-- **Scale limitations** — the power requirements increase with surface area, making the approach less practical for very large surface areas
-- **Validation challenges** — demonstrating complete sterilization of complex geometries requires extensive biological indicator testing across all surfaces
-
-## Historical Context: NASA Technology Transfer
-
-This microwave sterilization technology was developed under NASA's Technology Utilization Program and published as MSC-22484 in the NASA Tech Briefs series. The program's purpose was to identify aerospace-developed technologies with potential commercial applications beyond their original mission context. The Lyndon B. Johnson Space Center in Houston, Texas served as the developing center, with the innovators (James E. Atwater, Neil D. Streech, and Frank C. Garmon) based in Eugene and Myrtle Creek, Oregon. The technology was made available to the public through the NASA Technology Transfer Program to encourage commercial adoption and further development.
-
-## See Also
-
-- [[microwave-2-45-ghz-water-dipolar-coupling]] — Physical basis of microwave-water interaction
-- [[microwave-water-interaction-2-45-ghz]] — Water molecule rotational transitions
-- [[microwave-trace-water-surface-sterilisation-protocol]] — Trace water protocol details
-- [[msap-subsystem-architecture-microwave-sterilizable-access-port]] — MSAP system design
-- [[growing-gourmet-atmospheric-steam-sterilization]] — Atmospheric steam in mushroom cultivation

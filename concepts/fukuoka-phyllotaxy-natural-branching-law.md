@@ -1,5 +1,5 @@
 ---
-title: "Phyllotaxy and fukuoka phyllotaxy natural branching law Law in comparison-pruning-fruit-trees-vs-grafting-fruit-trees"
+title: Fukuoka Phyllotaxy Natural Branching Law
 created: 2026-04-28
 tags: [fukuoka, phyllotaxy, botany, fruit-trees, natural-form, pruning]
 date: 2026-04-28
@@ -52,7 +52,7 @@ arrangement. One can clearly make out the chronology of
 branch emergence. The spacing and angle of the branches
 are regular and orderly. Never does one branch grow too
 long or cross with another branch. The same law operates
-in bamboo, cryptomeria, Japanese cypress, camphor,
+in bamboo, cryptomeria, Japanese cypress, [[camphor]],
 camellia, Japanese maple, and all other trees.
 
 ## Implications for Pruning
@@ -88,55 +88,3 @@ other branches, bending, twisting, and spreading confusion.
 Although the first pruning can make a bonsai of a pine,
 once a bonsai, the pine can never be restored to a
 full-size tree. By about the third year, the branches
-become entangled and crooked, taking on an incredibly
-complex shape.
-
-Seen from a distance, there may not seem to be much
-difference between a garden pine and a mountain pine. But
-on closer inspection, the confused shape of the garden
-pine has been artificially modified to allow sunlight to
-fall on each branch, while the natural pine achieves the
-same goal without any help from man.
-
-## Phyllotaxy and Central Leader Forms
-
-Fukuoka's research into phyllotaxy led him to conclude
-that the natural form of most fruit trees is a central
-leader system. This was especially significant for citrus,
-which had long been assumed to naturally adopt a
-hemispherical or open-centered form. By observing the
-phyllotaxy of hardier citrus relatives like the summer
-orange and shaddock, he confirmed their central leader
-character.
-
-The central leader form is a direct expression of
-phyllotactic law. A single upright trunk puts out scaffold
-branches at regular intervals and angles. Because the
-divergence is fixed and regular, no two branches compete.
-The result is a conical shape that allows oblique sunlight
-to penetrate into the interior of the tree, ensuring that
-all branches and leaves receive adequate light. In contrast,
-open-center systems formed by thinning the scaffold branches
-at the center create an inverse triangle that reduces light
-penetration to the base and interior, inviting the withering
-of branches and attack by disease and pests.
-
-## Misconceptions About Natural Form
-
-Orchardists have never tried growing [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] their
-natural form. To begin with, most have never even given
-thought to what the natural form is. Not a single book or
-report discusses pruning based on such basic factors as the
-phyllotaxy of a citrus tree, or explains that a divergence
-of a specific angle gives a particular natural form with
-primary and secondary scaffold branch angles of specific
-degrees. Many have a vague idea of the natural form as
-something akin to the shape of a neglected tree. But there
-is a world of difference between the two. In a sense, the
-true natural form of a tree may be unknowable to man.
-
-## See also
-
-[[fukuoka-no-prune-fruit-tree-method]]
-[[fukuoka-three-dimensional-orchard-design]]
-[[fukuoka-natural-tree-form-argument]]

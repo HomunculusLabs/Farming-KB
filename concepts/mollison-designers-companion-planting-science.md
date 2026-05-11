@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 
 Companion planting is the practice of positioning different plant species
 in close proximity for mutual benefit. While traditional companion planting
-guides are often based on folklore and anecdote, the Permaculture Designers
+guides are often based on folklore and anecdote, the [[permaculture-principle-apply-self-regulation]]
 Manual seeks to ground these associations in observable ecological
 mechanisms. Mollison categorises companion planting benefits into several
 scientifically documented processes: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest deterrence
@@ -28,20 +29,20 @@ modification, and spatial [[fungal-resource-partitioning-decomposition-sequences
 
 One of the most well-documented and practically important companion
 planting mechanisms is the association between nitrogen-fixing plants and
-nitrogen-demanding crops. Leguminous plants form symbiotic relationships
+nitrogen-demanding crops. Leguminous plants form [[fungi-in-the-environment-symbiotic-relationships]]
 with Rhizobium bacteria in their root nodules, converting atmospheric
 nitrogen into plant-available forms. When these nitrogen fixers are
 interplanted with heavy-feeding crops, the entire polyculture benefits
-from increased soil nitrogen availability.
+from increased soil [[nitrogen-availability-in-legumes]].
 
 Common leguminous companions include beans, peas, clovers, lupins,
 alfalfa, and various tree legumes such as Acacia, Albizia, and Inga
 species. Mollison describes the classic Three Sisters combination of
 corn, beans, and squash as an elegant integration of nitrogen fixation
-with spatial resource partitioning and pest deterrence. The beans fix
+with spatial [[dighton-fungal-competition-resource-partitioning]] and pest deterrence. The beans fix
 nitrogen for the corn, the corn provides a climbing structure for the
 beans, and the squash shades the soil and suppresses weeds with its
-broad leaves. This principle extends to mollison designers agroforestry and integrated tree crops
+broad leaves. This principle extends to [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] agroforestry and integrated tree crops
 systems where nitrogen-fixing trees support understory crops.
 
 ## Pest Deterrence and mollison-designers-integrated-pest-management-design.
@@ -66,7 +67,7 @@ Mollison cautions that allelopathic effects vary with soil conditions,
 rainfall, and plant growth stage. What inhibits one species in one
 environment may be neutral or even beneficial in another. Designers must
 observe interactions in their own specific conditions rather than relying
-on generalised companion planting charts.
+on generalised [[mollison-designers-companion-planting-charts-and-principles]].
 
 ## Spatial and Temporal Resource Partitioning
 
@@ -87,28 +88,3 @@ production while maintaining soil cover throughout the year.
 ## Microclimate Modification
 
 Companion plants modify the microclimate around their neighbours in ways
-that can improve growing conditions. Shade-tolerant species benefit from
-the partial shade cast by taller companions during hot periods.
-Windbreak species reduce evaporative water loss from downwind crops.
-[[mollison-designers-food-forest-succession-design]]
-and [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] systems alike.
-
-## Limitations and Critical Thinking
-
-Mollison emphasises that companion planting is not a substitute for good
-design, healthy soil, and appropriate species selection. Many traditional
-companion planting claims lack rigorous scientific validation, and
-interactions that work in one climate may fail in another. The designer
-should approach companion planting as a set of hypotheses to test through
-observation and experiment, rather than fixed rules to follow
-uncritically. Systematic record-keeping and careful observation of plant
-interactions in the specific local environment yield more reliable
-guidance than any generalised planting chart.
-
-## Cross-References
-
-- [[mollison-designers-food-forest-succession-design]]: Multi-strata companion systems
-- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Nitrogen fixation in polycultures
-- [[mollison-designers-humus-building-and-soil-organic-matter]]: Allelopathic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-## See Also
-- [[companion-planting]]

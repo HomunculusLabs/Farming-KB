@@ -14,7 +14,7 @@ sources:
   - "Zhang, H. et al. (2018). \"Rehmannia glutinosa: An overview of its chemistry, pharmacology, and clinical applications.\" Journal of Ethnopharmacology, 219, 86-101."
   - "Li, C. et al. (2020). \"Catalpol: A bioactive iridoid glycoside from Rehmannia glutinosa.\" Phytochemistry, 170, 112-125."
   - "Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China. China Medical Science Press."
-  - "Bensky, D., Clavey, S., & Stöger, E. (2004). Chinese Herbal Medicine Materia Medica, 3rd ed. Eastland Press."
+  - "Bensky, D., Clavey, S., & Stöger, E. (2004). Chinese [[childrens-herbal-medicine]] [[herbal-materia-medica]], 3rd ed. Eastland Press."
   - "Kang, K. et al. (2019). \"Anti-diabetic effects of Rehmannia glutinosa in streptozotocin-induced diabetic rats.\" Journal of Medicinal Food, 22(6), 567-576."
 ---
 
@@ -62,7 +62,7 @@ Rehmannia is a low-growing herb reaching 15–30 cm in height.
 ## Phytochemistry
 
 The bioactive constituents of *R. glutinosa* are dominated by iridoid glycosides,
-with additional phenolic compounds and polysaccharides contributing to activity.
+with additional [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and polysaccharides contributing to activity.
 
 **Primary iridoid glycosides:**
 
@@ -88,51 +88,3 @@ Catalpol, the marker compound, demonstrates activity across multiple systems.
   pathway activation, downregulates Bax/Bcl-2 ratio, and inhibits
   neuroinflammation through NF-κB suppression. Demonstrated efficacy in
   Alzheimer's and Parkinson's disease models.
-- **Anti-diabetic:** Lowers blood glucose through insulin sensitization,
-  enhances pancreatic β-cell survival, reduces advanced glycation end-products
-  (AGEs). Effective at 50–200 mg/kg in diabetic rat models.
-- **Anti-osteoporotic:** Rehmannia polysaccharides stimulate osteoblast
-  proliferation and inhibit osteoclast differentiation via RANKL/OPG pathway.
-- **Renal protective:** Shu Di Huang extracts reduce serum creatinine and BUN
-  in chronic kidney disease models, inhibit renal fibrosis through TGF-β1
-  suppression.
-
-⚠️ Fresh root (*Sheng Di Huang*) is contraindicated in spleen qi deficiency
-with dampness due to its cold, cloying nature.
-
-## Cultivation
-
-- **Propagation:** Root division (most common) or seed; commercial production
-  uses root segments (tubers) planted in spring.
-- **Soil:** Well-drained sandy loam, pH 5.5–7.0; heavy clay [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] rot.
-- **Climate:** Temperate, prefers partial shade; native to regions with
-  600–1200 mm annual rainfall.
-- **Harvest:** Roots dug in autumn (October–November) of the first or second
-  year; yield 15,000–25,000 kg fresh root per hectare.
-- **Processing:** Traditional nine-fold steaming and sun-drying converts fresh
-  root to *Shu Di Huang*; industrial methods use autoclave processing.
-- **Major production:** Henan, Shanxi, and Hebei provinces, China.
-
-## Traditional and Modern Uses
-
-In TCM, Rehmannia is a core ingredient in several classical formulas:
-
-- **Liu Wei Di Huang Wan** (Six-Flavor Tea Pill) — kidney yin deficiency
-- **Zuo Gui Wan** (Left-Restoring Pill) — kidney yin and essence
-- **Si Jun Zi Tang** (Four Gentlemen Decoction) — modified for spleen-kidney tonification
-
-Modern clinical applications include diabetic nephropathy, osteoporosis,
-menopausal symptoms, and anemia. [[mushroom-cancer-clinical-trials-overview]] support its adjunctive use in
-type 2 diabetes for reducing HbA1c and improving renal function markers.
-
-## Similar Species
-
-- ***R. glutinosa*** var. **purpurea** — purplish-flowered variant, chemically similar.
-- ***R. henryi*** — found in central China, lower catalpol content.
-- ***Digitalis purpurea*** — visually similar flowers but contains cardiac glycosides,
-  not iridoids; distinct pharmacological profile.
-
-## See Also
-- [[astragalus-membranaceus]]
-- [[panax-notoginseng]]
-- [[herbal-plant-remedies]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Baker, W.J. & Baker, E.G. (1968). "Fiber morphology of the kapok tree, Ceiba pentandra." Economic Botany, 22(4), 369-382.
   - Kew Royal Botanic Gardens. "Ceiba pentandra (L.) Gaertn." Plants of the World Online.
-  - Gentry, A.H. (1993). "A Field Guide to the Families and Genera of Woody Plants of Northwest South America." University of Chicago Press.
+  - Gentry, A.H. (1993). "A Field Guide to the Families and Genera of Woody Plants of Northwest [[guzman-psilocybin-mushrooms-south-america]]." University of Chicago Press.
   - Newstrom, L.E. & Frankie, G.W. (1994). "A new classification for pollination systems." Biotropica, 26(4), 389-399.
   - Pennington, T.D. (1997). "The Genus Inga: Utilization." Royal Botanic Gardens, Kew.
 ---
@@ -31,7 +31,7 @@ Ceiba pentandra was originally described as Bombax pentandrum by Carl Linnaeus i
 
 The genus Ceiba contains approximately 10 to 20 species distributed across tropical America and Africa. Ceiba pentandra is the most widely distributed species in the genus and the type species of the genus name.
 
-The tree produces massive, plank-like buttress roots that can extend 3 to 5 meters from the trunk and rise 2 to 3 meters above ground level. These buttresses stabilize the tall, relatively shallow-rooted tree in the wet tropical forest soils.
+The tree produces massive, plank-like buttress roots that can extend 3 to 5 meters from the trunk and rise 2 to 3 meters above ground level. These buttresses stabilize the tall, relatively shallow-rooted tree in the [[mollison-wet-tropical-forest-structure-and-polyculture]] soils.
 
 The trunk is straight and cylindrical, typically 1 to 3 meters in diameter at breast height, covered in smooth, gray to pale green bark armed with thick, conical prickles when young. Older bark becomes relatively smooth and loses most of its prickles.
 
@@ -47,25 +47,25 @@ Each capsule contains 100 to 200 seeds, each approximately 5 millimeters in diam
 
 ## Distribution and Habitat
 
-Ceiba pentandra has a pantropical distribution, occurring naturally from southern Mexico through Central America and the Caribbean to the Amazon basin, and across tropical West and Central Africa. The African and American populations may represent separate introductions or a natural Gondwanan distribution.
+Ceiba pentandra has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring naturally from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean to the Amazon basin, and across tropical West and Central Africa. The African and American populations may represent separate introductions or a natural Gondwanan distribution.
 
-The species is most common in lowland tropical moist forests and seasonal tropical forests below 500 meters elevation. It also occurs in gallery forests along rivers, in secondary growth, and in anthropogenic landscapes including pastures and village clearings.
+The species is most common in lowland tropical moist forests and seasonal [[fungal-biodiversity-tropical-forests]] below 500 meters elevation. It also occurs in [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] along rivers, in secondary growth, and in anthropogenic landscapes including pastures and village clearings.
 
 In its native habitat, Ceiba pentandra is an emergent tree that rises above the main forest canopy. Individual trees are often widely spaced, creating a distinctive silhouette in the tropical landscape.
 
-The species has been widely planted throughout the tropics as an ornamental and fiber crop. It is naturalized in tropical Asia, the Pacific Islands, and parts of East Africa outside its native African range.
+The species has been widely planted throughout the tropics as an ornamental and fiber crop. It is naturalized in tropical Asia, the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and parts of East Africa outside its native African range.
 
 Optimal growth occurs in areas with annual rainfall of 1,500 to 3,000 millimeters and mean annual temperatures above 24 degrees Celsius. The tree is intolerant of frost and sustained cold temperatures.
 
-Growth rates are rapid under favorable conditions, with young trees achieving 2 to 3 meters of height growth per year. This fast growth, combined with the light-demanding nature of the species, makes it a classic pioneer and gap-phase species in tropical forest succession.
+Growth rates are rapid under favorable conditions, with young trees achieving 2 to 3 meters of height growth per year. This fast growth, combined with the light-demanding nature of the species, makes it a classic pioneer and gap-phase species in tropical [[mollison-designers-food-forest-succession-design]].
 
 ## Uses
 
 The most economically significant product of Ceiba pentandra is the kapok fiber, a silky floss that surrounds the seeds within the capsules. This fiber is lightweight, buoyant, water-resistant, and has been used for centuries as a stuffing material for pillows, mattresses, and life preservers.
 
-Kapok fiber is composed primarily of cellulose and lignin, with a hollow core that gives it exceptional buoyancy. Before the widespread adoption of synthetic fibers, kapok was a major global commodity, with Southeast Asian plantations producing thousands of tons annually.
+Kapok fiber is composed primarily of cellulose and lignin, with a hollow core that gives it exceptional buoyancy. Before the widespread adoption of synthetic fibers, kapok was a major global commodity, with [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] plantations producing thousands of tons annually.
 
-The global kapok trade peaked in the early 20th century, with Java and Sumatra serving as the primary production centers. The fiber was particularly valued for stuffing life jackets during both World Wars due to its water-resistant and buoyant properties.
+The global kapok trade peaked in the early 20th century, with Java and Sumatra serving as the [[lichens-primary-production-soil-formation-dighton]] centers. The fiber was particularly valued for stuffing life jackets during both World Wars due to its water-resistant and buoyant properties.
 
 The lightweight wood is used for light construction, canoes, carving, and plywood. It is not considered a durable timber but is valued where low weight is important, such as in model making and lightweight crates.
 
@@ -85,23 +85,6 @@ The seed capsules provide food for several species of birds and mammals, includi
 
 ## Cultural Significance
 
-Ceiba pentandra is considered sacred in the traditional religion of the Yoruba people of West Africa and their descendants in the Americas. In Santeria and Candomble traditions, the ceiba tree is the dwelling place of spirits and is used as a site for religious ceremonies and offerings.
+Ceiba pentandra is considered sacred in the traditional religion of the Yoruba people of West Africa and their descendants in the Americas. In Santeria and Candomble traditions, the ceiba tree is the dwelling place of spirits and is used as a site for [[entheogenic-folk-religious-ceremonies]] and offerings.
 
-Among the Maya of Central America, the ceiba tree represents the axis mundi, the world tree that connects the underworld, the earthly realm, and the heavens. The Maya believed that the souls of the dead climbed the ceiba tree to reach the afterlife.
-
-In Puerto Rico, the ceiba tree located in Ponce is over 500 years old and is protected as a national monument. It is a symbol of Puerto Rican cultural identity and natural heritage.
-
-The tree features prominently in the folklore and oral traditions of numerous indigenous cultures throughout its range. Its imposing size and distinctive form have made it a landmark tree, often serving as a meeting place, boundary marker, or ceremonial site in rural communities.
-
-## See Also
-
-- [[adansonia-digitata]]
-- [[bertholletia-excelsa]]
-- [[bixa-orellana]]
-- [[tabebuia-rosea]]
-- [[swietenia-macrophylla]]
-- [[enterolobium-cyclocarpum]]
-- [[samanea-saman]]
-- [[delonix-regia]]
-- [[carica-papaya]]
-- [[mangifera-indica]]
+Among the Maya of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], the ceiba tree represents the axis mundi, the world tree that connects the underworld, the earthly realm, and the heavens. The Maya believed that the souls of the dead climbed the ceiba tree to reach the afterlife.

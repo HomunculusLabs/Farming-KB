@@ -1,8 +1,8 @@
 ---
-title: bloomfield trichothecene mycotoxins biological warfare yellow rain, Biological Warfare, and Yellow Rain
+title: Bloomfield Trichothecene Mycotoxins Biological Warfare Yellow Rain
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - mycotoxins
   - trichothecenes
   - biological-warfare
@@ -43,7 +43,7 @@ will return.
 
 ## Indoor Air Quality and Mold Spores
 
-Modern homes are paradoxically vulnerable to mold infestations. The
+[[modern-homes-mold-crisis-energy-efficient-construction]] are paradoxically vulnerable to mold infestations. The
 polymer-wrapped house with hermetically sealed windows and other
 energy-saving features creates a living space with very stale air. The
 space between wall layers can become extremely humid when there is no
@@ -63,7 +63,7 @@ complete spores.
 
 ## Trichothecenes as Biological Weapons
 
-Most fungal toxins are unsuitable as biological weapons because their
+Most [[fungal-toxins-reference]] are unsuitable as biological weapons because their
 effects develop too slowly. Iraqi scientists experimented with
 concentrated aflatoxins before the Gulf War, but the damaging effects
 of aflatoxin ingestion are not apparent for many months or years,
@@ -87,29 +87,4 @@ are no specific antidotes for trichothecene poisoning.
 ## The Yellow Rain Controversy
 
 A yellow crystalline deposit appears when trichothecenes are purified
-from fungal cultures. This may account for the color of the putative
-weapon used in [[psilocybe-southeast-asia-pacific]], dubbed "yellow rain." Reputable
-investigators are convinced that these compounds were used by the Soviet
-Union to kill thousands of anticommunist guerrillas in Laos and Cambodia
-in the 1970s, and against opposition to their invasion of Afghanistan
-in the 1980s. Despite compelling testimony from some victims, a number
-of investigations concluded that droplets of yellow rain did not
-originate from enemy aircraft, but were deposited by swarms of
-defecating bees. This explanation seems too ludicrous not to be true.
-More than 3,000 deaths in the Afghanistan region have been linked to
-the use of an unidentified chemical or biological weapon.
-
-Trichothecenes have also been considered as a possible cause of
-devastating illnesses contracted by American servicemen who served in
-the Persian Gulf in 1991. Declassified documents report that Iraqi
-scientists were working with mycotoxins in the 1980s. The techniques
-for producing and storing mycotoxins are well within the grasp of
-anyone with a Ph.D. in microbiology or mycology.
-
-## See Also
-
-- [[biological-transport-networks]]
-- [[combined-biological-remediation-approaches]]
-- [[stachybotrys-chartarum]]
-- aflatoxins aspergillus flavus [[cannabis-and-liver-cancer-research]]
-- [[ergot-fungi-claviceps-ergot-alkaloids]]
+from [[brassinosteroids-in-fungal-cultures]]. This may account for the color of the putative

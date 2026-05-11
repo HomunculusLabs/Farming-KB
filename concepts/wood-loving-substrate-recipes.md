@@ -5,6 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
@@ -86,11 +87,3 @@ While not a "recipe" in the traditional sense, log cultivation is the oldest [[q
 All wood-based substrates require careful moisture management. The target moisture content for sawdust/bran substrates is 60-65% by weight. This can be measured by weighing a wet sample, drying it in an oven at 250°F for 3 hours, and calculating the percentage of weight lost. For practical purposes, the squeeze test provides a reliable field estimate: the substrate should clump when squeezed and release only a few drops of water.
 
 Substrates that are too dry produce sparse mycelial growth and poor fruiting. Over-wet substrates promote bacterial contamination, reduce available oxygen, and produce stringy, weak mycelium. The moisture content should be balanced before sterilization, as it is difficult to correct after the substrate has been packed into containers and processed.
-
-## Related
-
-- mushroom-substrate-recipes
-- [[bulk-substrate-preparation]]
-- [[synthetic-log-mushroom-cultivation]]
-- [[oyster-mushroom-substrate-preparation]]
-- [[wood-decomposition-by-fungi]]

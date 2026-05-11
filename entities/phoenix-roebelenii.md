@@ -13,7 +13,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
-  - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
+  - Henderson, A., Galeano, G., Bernal, R. (1995). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Palms of the Americas." Princeton University Press.
   - Barrow, S. (1998). "A Monograph of Phoenix L." Royal Botanic Gardens, Kew.
   - Johnson, D.V. (2013). "World Checklist of Palms." International Palm Society.
   - Hodel, D.R. (2015). "The Palms of Thailand." Royal Botanic Gardens, Kew.
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Phoenix roebelenii** (pygmy date palm, dwarf date palm) is a small, clustering palm species native to Southeast Asia.
+**Phoenix roebelenii** (pygmy date palm, dwarf date palm) is a small, clustering palm species native to [[psilocybe-southeast-asia-pacific]].
 
 It is one of the most widely cultivated ornamental palms in tropical and subtropical landscapes worldwide.
 
@@ -51,7 +51,7 @@ Inflorescences are interfoliar, branched, and reach 30–50 centimeters in lengt
 
 Flowers are small, cream-colored, and arranged in clusters along the rachillae.
 
-The species is dioecious, with separate male and female individuals required for fruit production.
+The species is dioecious, with separate male and female individuals required for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].
 
 Fruits are small, ovoid drupes approximately 1–1.5 centimeters long, ripening from green to dark purple-black.
 
@@ -59,7 +59,7 @@ Fruits are small, ovoid drupes approximately 1–1.5 centimeters long, ripening 
 
 Phoenix roebelenii is native to mainland Southeast Asia, occurring in Laos, Vietnam, Thailand, Myanmar, and southern China.
 
-Its native habitats include riverbanks, open forest floors, and limestone cliffs in lowland tropical forests.
+Its native habitats include riverbanks, open forest floors, and limestone cliffs in lowland [[fungal-biodiversity-tropical-forests]].
 
 The species grows at elevations from 100 to 1,200 meters above sea level.
 
@@ -75,53 +75,16 @@ Phoenix roebelenii is propagated primarily from seed, which germinates within 2�
 
 Seedlings grow moderately fast, reaching a sellable size in 2–3 years in nursery production.
 
-The species prefers well-drained soils rich in organic matter with regular moisture.
+The species prefers well-drained soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] with regular moisture.
 
 It tolerates full sun to partial shade, performing best with some protection from intense afternoon heat.
 
 Mature specimens are moderately drought-tolerant but maintain best appearance with consistent irrigation.
 
-The palm is hardy to approximately -3°C for brief periods, making it suitable for warm temperate climates.
+The palm is hardy to approximately -3°C for brief periods, making it suitable for warm [[fukuoka-natural-farming-temperate-climates]].
 
 It is highly adaptable to container cultivation and is a popular choice for indoor and patio plantings.
 
 Fertilization with a balanced palm fertilizer every 2–3 months promotes vigorous growth.
 
 Pruning is limited to removing dead or damaged fronds; excessive pruning weakens the palm.
-
-## Landscape and Ornamental Use
-
-Phoenix roebelenii is among the top five most commercially important ornamental palms worldwide.
-
-It is extensively used in residential landscapes, commercial plantings, poolside gardens, and street medians.
-
-The compact size makes it ideal for small spaces, entryways, and container arrangements.
-
-It combines well with other tropical and subtropical species in mixed landscape plantings.
-
-The species is commonly sold as a multi-stem specimen for instant landscape impact.
-
-Its tolerance of indoor conditions makes it a popular interior-scaping palm for offices and shopping malls.
-
-## Pests and Diseases
-
-The palm is susceptible to infestation by palm weevils (Rhynchophorus ferrugineus) and red palm mites.
-
-Spider mites can be problematic on indoor specimens, particularly in dry air-conditioned environments.
-
-Fungal diseases including bud rot (Phytophthora spp.) and leaf spot can affect stressed plants.
-
-Proper irrigation management and adequate air circulation help prevent most disease issues.
-
-Regular inspection for early pest detection is recommended for nursery and landscape specimens.
-
-## See Also
-
-- [[phoenix-dactylifera]]
-- [[phoenix-canariensis]]
-- [[cocos-nucifera]]
-- [[roystonea-regia]]
-- [[trachycarpus-fortunei]]
-- [[sabal-palmetto]]
-- [[serenoa-repens]]
-- [[palm-tree-uses]]

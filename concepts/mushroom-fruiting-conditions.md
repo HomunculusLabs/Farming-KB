@@ -87,18 +87,3 @@ requirements shift slightly: humidity can be reduced to 85-90% and air
 exchange increased to support metabolic demands. Mushrooms can double in
 size every 24 hours under optimal conditions, so daily monitoring is
 essential for harvesting at ideal maturity.
-
-## Harvesting
-
-Most gourmet species are harvested just before or as the veil tears.
-At this stage, mushrooms have maximum nutritional value, firm texture,
-and extended shelf life. After the first flush, substrates often produce
-2-4 additional flushes, though yields decline with each successive
-flush. The first flush usually accounts for 50-70% of total biological
-efficiency. See [[mushroom-harvesting-and-post-harvest-handling|harvesting and post-harvest handling]] for detailed protocols.
-
-## Related Concepts
-
-- [[mushroom-fruiting-chamber-design-parameters]]
-- [[bacteria-and-microorganisms-in-mushroom-fruiting]]
-- [[mushroom-casing-scratching]]

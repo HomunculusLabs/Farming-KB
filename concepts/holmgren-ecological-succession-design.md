@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, ecology, succession]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # [[comparison-primary-vs-secondary-succession]] in [[permaculture-design]]
 Updated: 2026-04-18
@@ -87,30 +88,3 @@ interventions that work with existing patterns rather than against them.
 ## Forest Gardens and Successional Design
 The forest garden represents the most complete expression of succession
 thinking in permaculture. By mimicking the structure of a natural forest
-but selecting species for human utility, forest gardens combine the
-productivity of early successional species with the stability of mature
-forest systems. Canopy trees provide timber, nuts, and fruit. Understorey
-trees fill light gaps and produce additional yields. Shrubs, herbs, and
-ground covers occupy the remaining niches. Root crops and climbing
-plants exploit vertical space. The result is a polycultural system that
-changes over time as species mature, die, and are replaced, but always
-maintains productive capacity.
-
-## Edge and Niche Creation
-Succession creates edges between different vegetative states, and these
-edges are where diversity and productivity are highest. Permaculture
-design intentionally creates and manages these edges. The boundary
-between grassland and forest, between wetland and dryland, between shade
-and sun — all support species adapted to intermediate conditions. Design
-strategies include creating pond edges, planting hedgerows between
-fields, and establishing windbreaks that transition from exposed to
-sheltered conditions. Managing edge effects is a powerful way to
-increase overall system diversity without requiring additional land area.
-
-- [[betula-pendula]]
-## See Also
-- [[sheet-mulching]]
-- [[hemenway-accelerated-succession]]
-- [[ozier-pdc-forest-succession-and-food-forests]]
-- [[food-forests-and-the-seven-story-garden]]
-- [[permaculture-pioneer-species]]

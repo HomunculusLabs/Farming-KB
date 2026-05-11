@@ -5,6 +5,7 @@ tags: [companion-planting, polyculture, organic-gardening, pest-control, guild-d
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - companion-planting.md
   - companion-planting-deterrents.md
   - faires-plant-communities-and-guilds.md

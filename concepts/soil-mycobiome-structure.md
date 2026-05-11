@@ -85,41 +85,6 @@ pollution, or climate change, can reduce ecosystem resilience. Experimental
 studies have shown that reduced fungal diversity leads to slower decomposition,
 lower plant productivity, and increased susceptibility to plant invasions.
 
-The connections between fungal community structure and [[soil-food-web]]
+The connections between fungal community structure and [[soil-foodweb]]
 dynamics are particularly important for understanding long-term soil health.
 Fungi serve as both decomposers and food sources for microarthropods and
-nematodes, creating feedback loops that stabilize soil ecosystem function.
-
-## Soil Fungal Biomass and Contribution
-
-Fungi contribute significantly to total soil microbial biomass, typically
-representing 50-70% of soil microbial biomass carbon in undisturbed
-ecosystems. This proportion decreases in intensively managed agricultural
-soils where bacterial biomass dominates.
-
-Fungal biomass is measured through techniques including substrate-induced
-respiration, phospholipid fatty acid analysis, and ergosterol quantification.
-The [[fungal-ecology]] of soil systems is intimately tied to carbon storage,
-as fungal necromass contributes to stable soil organic matter pools that can
-persist for decades to centuries.
-
-## Sampling and Methodological Considerations
-
-Characterizing soil mycobiome structure requires careful attention to sampling
-design. Soil fungal communities are spatially heterogeneous at scales from
-millimeters to kilometers, necessitating composite sampling strategies. DNA
-extraction methods favor different fungal groups depending on cell wall
-composition and hyphal density, introducing methodological bias.
-
-Primer choice for ITS amplification significantly affects community composition
-estimates. These methodological challenges are part of the broader discussion
-around [[fungal-dark-taxa]] and the detection limits of current survey
-approaches, particularly for taxa that do not produce easily sequenced
-fruiting bodies or that exist primarily as sterile mycelia in soil.
-
-## See Also
-
-- [[environmental-dna-fungal-survey]]
-- [[fungal-dark-taxa]]
-- [[decomposition]]
-- [[soil-fungal-diversity]]

@@ -5,12 +5,13 @@ updated: 2026-04-19
 type: concept
 tags: [cultivation, mycology]
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "raw/papers/the-mushroom-cultivator-shiitake-growing-parameters|mushroom-cultivator-stamets-substrate-supplementation-strategies-mushroom-cultivation|stamets.md"
 ---
 
 # Shiitake Cultivation Parameters
 
-Lentinus Edodes (shiitake [[mushroom-cultivator-shiitake-growing-parameters]]) is one of the most commercially important cultivated mushrooms worldwide, with a cultivation history stretching back two thousand years in Japan and China. paul stamets provides detailed cultivation parameters in The Mushroom Cultivator.
+Lentinus Edodes (shiitake [[mushroom-cultivator-shiitake-growing-parameters]]) is one of the most commercially important [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide, with a [[cuthill-mushroom-cultivation-history-19th-century]] stretching back two thousand years in Japan and China. paul stamets provides detailed cultivation parameters in [[coprinus-atrementarius-entity-the-mushroom-cultivator]].
 
 ## Historical Context
 
@@ -33,7 +34,7 @@ Stamets reports that better supplements than rice bran alone include:
 4. **Molasses at 1.5%**
 
 ### Sawdust/Bran Spawn
-For inoculum production:
+For [[arbuscular-mycorrhizal-inoculum-production-best-practices]]:
 - 4 parts hardwood sawdust (soaked 24+ hours, drained) to 1 part rice or wheat bran
 - Firm squeeze should produce a few drops of water
 - Sterilize 60-90 minutes at 15 psi
@@ -60,7 +61,7 @@ One of the most impactful techniques for shiitake cultivation:
 2. **Soak duration**: 48-72 hours
 3. **Moisture increase**: +5-15%
 4. **Yield increase**: Approximately 50% compared to unsoaked controls
-5. **Post-soak cooling**: 8 days at 60-62°F (15-17°C) produces highest yields
+5. **Post-soak cooling**: 8 days at 60-62°F (15-17°C) produces [[query-which-cannabis-training-techniques-produce-highest-yields]]
 6. **Water bath pH**: pH 5.0 produces the most primordia and mature mushrooms
 
 ## Optimal Fruiting Conditions
@@ -86,23 +87,3 @@ Shiitake ranks among the most nutritious cultivated mushrooms:
 - Possesses antiviral properties
 
 The Mushroom Cultivator notes that cultivated mushrooms generally rank above all vegetables and legumes (except soybeans) in protein content, with significant B and C vitamin levels and low fat content.
-
-## Yield Expectations
-
-With optimized substrate, supplementation, water soaking, and environmental control, total production can reach approximately one-quarter of the substrate dry weight. Multiple flushes are possible with proper management between harvests.
-
-## Cultural Significance
-
-Shiitake occupies a unique position bridging Eastern and Western mycological traditions. For thousands of years, the Chinese and Japanese have prized it for beneficial properties. Its introduction to Western commercial cultivation represents the globalization of mushroom growing knowledge, moving beyond the traditional Agaricus focus of European cultivation.
-
-## See Also
-
-- [[mushroom-yield-optimization]]
-- [[bulk-substrate-preparation]]
-- [[environmental-control-mushroom-growing]]
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters III, XI
-Updated: 2026-04-18
-- [[mushroom-cultivator-grain-spawn-production]]

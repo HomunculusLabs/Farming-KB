@@ -11,7 +11,7 @@ type: concept
 
 # Mushroom Soil and Mould
 
-The selection and preparation of soil, or "mould," for
+The [[falconer-mushroom-cooking-selection-and-preparation]] of soil, or "mould," for
 covering mushroom-spawn.
 The dense nature of clay prevents necessary [[stamets-growing-room-air-circulation-co2-management]].
 
@@ -20,7 +20,7 @@ The dense nature of clay prevents necessary [[stamets-growing-room-air-circulati
 Chalky and limey soils were equally unsuitable. Cuthill
 stated that care must be taken "that no chalk or lime is
 mixed with the mould." The alkaline nature of these materials
-alters the growing medium pH detrimentally. Mushrooms prefer
+alters the [[cervantes-green-algae-growing-medium]] pH detrimentally. Mushrooms prefer
 near-neutral to slightly acidic conditions.
 
 ## Mould Preparation
@@ -87,10 +87,3 @@ produced more solid, better-flavoured mushrooms. Light sandy
 mould benefited from the loam scatter technique to improve
 crop density and taste. Properly prepared rich mould supported
 production for three to four months or more on each bed.
-
-## See Also
-
-- [[casing-soil-preparation-mushroom-cultivation]]
-- [[mushroom-cultivator-casing-soil]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[casing-soil-mushroom-cultivation]]

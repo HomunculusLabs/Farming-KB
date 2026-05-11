@@ -13,10 +13,12 @@ tags:
 date: 2026-05-01
 updated: 2026-05-01
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Green, Greg. The Cannabis Grow Bible"
   - "Cervantes, Jorge. Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible"
   - "Rosenthal, Ed. The Cannabis Encyclopedia"
   - "Clarke, Robert Connell. Marijuana Botany"
+---
 related_concepts:
   - cannabis-topping-training
   - cannabis-scrog-and-sog-methods
@@ -145,5 +147,3 @@ without burning the tallest tips.
 # Water Culture Systems Water culture hydroponic systems grow plants without soil, suspending roots directly in nutrient solution or misted environments. These systems include [[deep-water-culture]] (DWC), Nutrient Film Technique (NFT), and aeroponics -- each offering high performance with varying levels of complexity and maintenance requirements. ## Deep Water Culture (DWC) Growing in deep water culture (DWC) is simple, easy, and productive. Seedlings and clones are held in net pots full of expanded clay pellets, rockwool, or other growing medium. The net pots are nestled in holes in a lid that covers the reservoir. ...
 
 ## Cervantes Water Quality Management
-
-# Water Quality Management Water quality directly affects nutrient availability, plant health, and final yield. Cannabis plants are composed of more than 80 percent water, making water quality one of the most critical yet often overlooked aspects of cultivation. ## pH Management Cannabis grows best in soil with a pH from 6.5 to 7.0. Within this range, marijuana can properly absorb and process available nutrients most efficiently. If the pH is too low (acidic), acid salts chemically bind nutrients, and roots are unable to absorb them. ...

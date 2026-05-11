@@ -87,31 +87,3 @@ In European folk medicine, Tragopogon pratensis was used as a mild diuretic and 
 The dried latex was applied topically to wounds and skin irritations in some Central European herbal traditions. The mild bitterness of aerial parts was valued as an appetite stimulant.
 
 In Russian folk medicine, meadow salsify root preparations were used for respiratory ailments and as an expectorant. The inulin-rich roots were also consumed as a dietary food for convalescents.
-
-Modern herbalism rarely features T. pratensis, having been largely superseded by more pharmacologically studied relatives such as dandelion and chicory.
-
-## Related Species
-
-Tragopogon dubius (yellow salsify) is a closely related species with larger yellow flower heads and a thicker taproot. It is more common in drier, western habitats of North America.
-
-Tragopogon porrifolius (purple salsify, oyster plant) has violet flowers and is the most widely cultivated species, prized for its oyster-flavored root. It has been grown commercially in Europe since the 16th century.
-
-Tragopogon mirus and T. miscellus are allopolyploid hybrid species formed from crosses between T. dubius and T. pratensis, or T. dubius and T. porrifolius, respectively. These hybrids are of interest in evolutionary biology as examples of recent, recurrent speciation.
-
-## Cultivation
-
-Tragopogon pratensis can be cultivated as a root vegetable, though it is rarely grown commercially. Seeds are sown directly in early spring in well-drained, sandy-loam soils.
-
-Optimal spacing is 15–20 cm between plants in rows 30–40 cm apart. The plants require minimal maintenance beyond weeding during establishment.
-
-Roots are ready for harvest approximately 120–150 days after sowing. In perennial plantings, the species self-seeds readily and can naturalize in meadow-style gardens.
-
-For foraging purposes, the plant is abundant in its naturalized range and requires no cultivation. Sustainable harvesting practices recommend taking no more than one-third of plants from any given population.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[urtica-dioica]]
-- [[valeriana-officinalis]]
-- [[trifolium-pratense]]
-- tragopogon pratensis

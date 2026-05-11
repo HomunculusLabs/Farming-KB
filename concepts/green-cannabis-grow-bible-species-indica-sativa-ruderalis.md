@@ -1,5 +1,5 @@
 ---
-title: Cannabis Species - Indica, Sativa, and Ruderalis - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Species Indica Sativa Ruderalis
 created: 2026-04-26
 tags:
   - cannabis-species
@@ -16,7 +16,7 @@ type: concept
 
 # Cannabis Species - Indica, Sativa, and Ruderalis
 
-Greg Green's Cannabis Grow Bible identifies three main species of Cannabis
+Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] identifies three main species of Cannabis
 plants: Sativa, Indica, and Ruderalis. Each species has its own group of
 strains with different characteristics that affect height, leaf shape,
 internode spacing, flowering behavior, and the type of high produced.
@@ -31,8 +31,8 @@ Sativa is the taller of the three species. Key characteristics include:
 - Nodes: Long internodes between branches, typically 3 to 6 inches.
 - Leaf: Pointy leaves with no markings or patterns.
 - High: Produces a cerebral "head high" effect.
-- Flowering time: Longer flowering period, typically 8 to 16 weeks.
-- Growth: Stretches significantly during the flowering phase.
+- [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]: Longer flowering period, typically 8 to 16 weeks.
+- Growth: Stretches significantly during the [[cervantes-flowering-phase]].
 
 Pure Sativa delivers a total head high. When crossed with Indica, the
 resulting hybrid inherits characteristics from both parents. A mostly
@@ -66,7 +66,7 @@ Ruderalis is the smallest and least commonly used species:
 - Use: Considered substandard by most growers for psychoactive purposes.
 
 Ruderalis is problematic for most growers because it does not flower in
-response to the light cycle. Instead, it flowers based on maturity. This
+response to the [[green-cannabis-photoperiod-12-12-light-cycle]]. Instead, it flowers based on maturity. This
 trait has made Ruderalis valuable for breeding autoflowering strains,
 where the automatic flowering characteristic is crossed into Sativa or
 Indica lines.
@@ -88,33 +88,3 @@ The type of high produced depends on the species ratio in a strain:
 
 - Pure Sativa = Total head high
 - Pure Indica = Total body stone/couch-lock
-- 50/50 cross = Equal mix of head high and body stone
-- 60% Indica / 40% Sativa = 60% body stone, 40% head high
-- 60% Sativa / 40% Indica = 60% head high, 40% body stone
-
-The 60/40 ratio is the most common among hybrids. [[cannabis-harvest-timing-visual-cues]] also
-affects the high type. Later harvests promote more couch-lock effects,
-while harvesting just before peak induces a more cerebral experience.
-
-## Strain Categories on the Market
-
-Out of approximately 450 seed varieties available, about 200 are worth
-considering and roughly 50 are outstanding. The remaining 250 are often
-unstable crossbreeds that are too mixed to classify clearly as either
-Sativa or Indica. Most unstable hybrids do not last long on the market
-and are primarily found among breeders experimenting with genetics.
-
-## Appearance Differences in Crosses
-
-When species are crossed, the offspring may look different from pure
-forms. Some Sativa plants may be shorter due to Indica breeding, and
-some Indica plants may be taller due to Sativa genetics. As a grower,
-you can influence height and plant features through training and pruning
-techniques. Harvest timing can also shift the balance between cerebral
-and couch-lock effects.
-
-## See Also
-
-- [[green-cannabis-grow-bible-pre-flowering-and-sexing-plants]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]

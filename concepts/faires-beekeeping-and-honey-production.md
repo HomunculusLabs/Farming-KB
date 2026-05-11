@@ -1,10 +1,11 @@
 ---
-title: faires beekeeping and honey production Production
+title: Faires Beekeeping And Honey Production
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
-tags: [homesteading, honey, animals]
+tags: [[homesteading]], honey, animals]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md
 ---
 
@@ -49,7 +50,7 @@ and the nectar species are planted at least 300 feet or more away.
 
 The line of herb hedges doesn't even have to be more than 3 feet
 tall, and it directs them from the hive doorway towards the forage
-by sheltering them from the wind. These can be rosemary, acacia, or
+by sheltering them from the wind. These can be rosemary, [[acacia]], or
 built up soil beds planted with thyme, catmint, or field daisies.
 
 The pollen producers around the house that you have probably already
@@ -87,63 +88,3 @@ A hive has several layers:
   lays eggs
 - Supers: shallow boxes that sit on the brood chamber and usually
   hold honey
-- Frames: each super has 10 vertical removable frames with a
-  foundation (flat sheet of beeswax with hexagons imprinted)
-
-It is better to have a shallow super than a deep one because the
-latter can get too full of honey and difficult to carry. In most
-areas used bee equipment is illegal because of disease.
-
-## Handling Bees
-
-1. In your smoker, start a fire with crumbled paper and add tinder
-   such as pine needles and dry grass. The fuel doesn't need to be
-   too dry, because you want it to create smoke.
-2. Stand to one side of the entrance to the hive and blow smoke in
-   the door. Wait a minute or two, take off the cover, and blow
-   more smoke in the top.
-3. Anytime that the bees start to get agitated with you, use more
-   smoke. Be careful not to hurt a bee, or it will release a panic
-   odor alerting the bees to sting you.
-
-## Knowing the Hive
-
-- Brood cells: have dark colored caps and contain baby bees
-- Queen cells: are 1 inch long and look like a peanut shell that
-  hangs away from the rest of the comb
-- Drone cells: stick out like the queen cell but not as far, with
-  bullet-shaped tops
-- Worker cells: are the smallest cells, level with the rest of the
-  comb, and contain baby workers
-- Queen bee: unique, 1 inch long and has a tapered body
-- Drone bee: no stingers, very fat, with big eyes; only job is to
-  compete to mate with the queen (24 days to hatch)
-- Worker bees: they are the ones that sting, and they keep the hive
-  going (21 days to hatch)
-
-## Honey Production
-
-Bees fare better in a warmer climate because of the greater
-availability of food and because they are less likely to freeze. If
-you get a gallon per summer per hive in the first three years, you
-will be very lucky because it takes a while for the hive to get
-established. With practice you should eventually get 4-5 gallons.
-
-One hive will need 50-100 pounds of honey to get through the winter.
-If the bees get low on honey, feed them 2 parts granulated sugar per
-1 part water, and in the spring you can give them artificial pollen.
-
-## Making New Hives
-
-At the beginning of May you can take four frames with brood cells
-from your most established hive, as well as some honey and some bee
-bread (yellow and grainy). You will also need worker bees, which you
-can just brush into the hive.
-
-Put the frames into the new hive and stuff the door loosely with
-grass. It can take two weeks for the hive to produce a queen, and
-## See Also
-
-- [[fukuoka-white-clover-ground-cover]]
-- [[natural-farming]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

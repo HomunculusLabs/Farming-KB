@@ -11,6 +11,7 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-27
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - the-mushroom-cultivator-stamets
 ---
 

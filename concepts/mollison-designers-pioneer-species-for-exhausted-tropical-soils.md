@@ -1,5 +1,5 @@
 ---
-title: "Pioneer Species for mollison designers pioneer species for exhausted tropical soils Soils"
+title: Mollison Designers Pioneer Species For Exhausted Tropical Soils
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -20,16 +21,16 @@ Wherever overgrazing plus fire or cut-and-burn forestry has ruined
 native forests, particularly towards the wet-dry tropics, closed
 grassland species of fire-prone and tough grasslands develop, closing
 out the tree seedbed and preventing good management practices. In
-*Permaculture: A Designers' Manual*, Bill Mollison provides detailed
+*Permaculture: A Designers' Manual*, [[bill-mollison]] provides detailed
 species lists and strategies for rehabilitating these degraded lands.
 
 ## The Problem: Savannah Degradation
 
 Further burning or cultivation may result in a depauperate
-grassland of low stock carrying capacity over the dry period, and
+grassland of low stock [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] over the dry period, and
 patches of bare and eroded soils, low in nutrient states and at
 times acidic (pH 4-4.5) may develop. Blady grass (Imperata
-cylindrica) and other tropical forage grasses are stubborn, tough,
+cylindrica) and other [[leucaena-alley-cropping-tropical-forage]] grasses are stubborn, tough,
 and almost impenetrable barriers to gardeners and stock, although
 they provide good mulch when cut.
 
@@ -56,7 +57,7 @@ or eventually eliminated.
 
 ### Acacia auriculiformis
 An important pioneer for exhausted savannah and tropical soils. It
-can defeat blady grass (Imperata cylindrica), restore fertility,
+can defeat blady grass ([[imperata-cylindrica]]), restore fertility,
 provide firewood, and act as a tree [[tagasaste-nurse-crop-fodder-systems]]. It reduces fire and
 provides good paper pulp. It coppices and self-seeds and is widely
 used in tropics as a shade and street tree.
@@ -87,39 +88,3 @@ cuttings (India).
 
 ### Enterolobium cyclocarpum
 A durable timber tree with large pods that defeats grasses in
-[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
-
-### Mimosa scabrella
-A subtropical pioneer from Brazil that provides good humus and a
-living fence.
-
-### Samanea saman (Rain Tree)
-A very fast-growing large tree of the tropics and subtropics, with
-sugary pods. Grass grows well below. Wood is valuable and durable.
-
-## Grass-Excluding Mechanism
-
-These pioneer species work by rapidly establishing canopy cover that
-shades out competitive grasses. The [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]], the
-soil is progressively enriched while grass competition is reduced.
-
-## Integration with High-Value Species
-
-Using these pioneer legumes as nurse crop, firewood, pulp timber,
-mulch, and honey sources, high-value timber such as rosewood,
-mahogany, and ebony can be introduced in lines or clearings in the
-first crop. The gradation can then be made to either high-value
-forestry or to sensible strip cultivation on a sustainable basis.
-
-If Leucaena, Samanea, Prosopis, and Inga are planted, a long-term
-forage system will evolve, providing replanting or rest periods are
-given for seedlings to re-establish. Species such as Pterocarpus
-indicus or P. erinaceus can be first seed-planted in a nursery
-stand, then mollison-savannah-forestry-and-land-rehabilitation, [[mollison-designers-seed-pelleting-and-pretreatment]], and [[mollison-soil-erosion-control]]. The National
-Academy of Sciences publication referenced by Mollison provides a
-comprehensive selection of potential species for tropical
-rehabilitation.
-
-## See Also
-
-- [[pioneer-species-for-land-reclamation]]

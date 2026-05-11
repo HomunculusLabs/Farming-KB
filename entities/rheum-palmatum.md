@@ -25,7 +25,7 @@ sources:
   - Huang, K.C. (1999). "The Pharmacology of Chinese Herbs." CRC Press.
   - Crownover, R.J. (2010). "Rheum palmatum: A Review of Botany,
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
-  - Li, T.K. (1974). "An Introduction to Chinese herbal-materia-medica."
+  - Li, T.K. (1974). "An Introduction to Chinese [[herbal-materia-medica]]."
     Chinese Medicine Publishing.
   - Rhee, M.H. et al. (2017). "Rhubarb (Rheum spp.): Chemistry and
     Pharmacology." In: Medicinal and Aromatic Plants of the World.
@@ -88,27 +88,3 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

@@ -88,26 +88,3 @@ Ochrolechia tartarea forms a similar chalky-white crustose thallus but produces 
 The Pertusaria pertusa species aggregate includes several morphologically similar taxa that have been variously treated as species, subspecies, or chemical races. Modern molecular studies have begun to resolve these relationships but the group remains taxonomically challenging.
 
 Chemical variation within P. pertusa sensu lato includes populations containing stictic acid complex compounds in addition to thiophanic acid. Whether these represent distinct species or infraspecific variation remains unresolved.
-
-## Conservation Status
-
-Pertusaria pertusa is considered secure across much of its European range but has experienced local declines in areas affected by air pollution and habitat loss. It is listed as a species of conservation concern in several European countries.
-
-The species is particularly vulnerable to the loss of mature trees in agricultural landscapes. Hedgerow removal, orchard grubbing, and the conversion of old-growth woodland to plantation forestry have all contributed to population declines.
-
-In Britain, P. pertusa is used as an indicator species in ancient woodland assessments. Its presence on trees is considered evidence of long-term ecological continuity, supporting the designation of protected woodland sites.
-
-Climate warming may affect P. pertusa through increased drought stress on bark substrates. The species requires consistent moisture availability and may retreat northward in southern parts of its range as summer aridity increases.
-
-Recovery programs focusing on reducing atmospheric pollution have benefited P. pertusa populations across western Europe. Continued air quality improvements are expected to support further range expansion in historically polluted regions.
-
-## See Also
-
-- [[lecanora-muralis]]
-- [[lecanora-conizaeoides]]
-- [[physcia-aipolia]]
-- [[flavoparmelia-caperata]]
-- [[melanelia-fuliginosa]]
-- [[ramalina-farinacea]]
-- [[lobaria-pulmonaria]]
-- [[cetraria-islandica]]

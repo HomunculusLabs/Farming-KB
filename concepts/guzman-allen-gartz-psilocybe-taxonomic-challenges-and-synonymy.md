@@ -88,38 +88,3 @@ demonstrates the wide geographic spread of neurotropic species in the
 Strophariaceae. The naematoliformis epithet refers to its resemblance to
 Naematoloma, illustrating how morphological intermediacy complicates
 generic placement.
-
-## The Role of Herbaria and Voucher Specimens
-
-The taxonomic challenges in Psilocybe underscore the critical importance of
-properly vouchered herbarium specimens. Many historical chemical studies
-cannot be verified because the studied material was not preserved in
-herbaria, or because the material consisted of mixed species. The ENCB
-Herbarium in Mexico City, where Guzmán discovered misidentified material,
-illustrates both the value and the limitations of herbarium collections.
-Modern taxonomic work must combine molecular phylogenetics with careful
-morphological study of well-documented voucher specimens to resolve the
-complex species boundaries that persist in this genus. The ongoing
-integration of [[environmental-dna-sequencing-fungi]] into Psilocybe systematics promises to clarify
-many of the synonymy issues that have long plagued the genus, though
-field-collected specimens with proper documentation remain essential for
-this effort.
-
-## Impact on Biogeographic Analysis
-
-Taxonomic confusion directly undermines biogeographic analysis. When
-different authors use different species concepts, the same name may refer
-to different biological entities in different studies. The uneven
-exploration of many regions compounds this problem, as species collected
-in poorly studied areas may be assigned to known names rather than
-recognized as new. As Gartz (1996) observed, "The mushrooms occur in
-abundance wherever mycologists abound," and the discovery of new species
-in any newly studied region (Gartz et al., 1995; Guzmán, 1998a, b, 1999a)
-suggests that current species counts substantially underestimate true
-diversity. See neurotropic-fungi-biogeographic-patterns for distribution implications.
-## See Also
-- [[guzman-allen-gartz-neotropical-psilocybe-species]]
-- [[guzman-allen-gartz-psilocybe-habitat-vegetation-associations]]
-- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]

@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Bettaieb, I. et al. (2011). "Cumin (Cuminum cyminum L.) seeds: chemical composition and nutritional value." Industrial Crops and Products, 34(2), 1337-1344.
-  - Johri, R.K. (2011). "Cuminum cyminum and Carum carvi: An update on pharmacology." Indian Journal of Pharmacology, 43(5), 566-572.
+  - Johri, R.K. (2011). "Cuminum cyminum and [[carum-carvi]]: An update on pharmacology." Indian Journal of Pharmacology, 43(5), 566-572.
   - Sahana, K. & Jaishree, V. (2014). "Medicinal importance of Cuminum cyminum: A review." International Journal of Research in Pharmacy and Chemistry, 4(3), 668-676.
-  - Hernández, L. et al. (2019). "Chemical composition of cumin essential oil and its antioxidant activity." Journal of Food Science and Technology, 56(3), 1382-1390.
+  - Hernández, L. et al. (2019). "Chemical composition of cumin [[permaculture-designers-manual-essential-oil-plants]] and its antioxidant activity." Journal of Food Science and Technology, 56(3), 1382-1390.
 ---
 
 # Cuminum cyminum
@@ -38,7 +38,7 @@ Beyond its culinary importance, cumin has a long history of medicinal use in Ayu
 
 The genus Cuminum is monotypic, containing only this single species. The species was described by Linnaeus in 1753.
 
-**Morphology:** C. cyminum is a slender, erect annual herb growing 15–50 cm tall. The stems are branching from the base, glabrous or sparsely pubescent, and green to greyish-green in color.
+**Morphology:** C. cyminum is a slender, erect annual [[herb-growing-guide]] 15–50 cm tall. The stems are branching from the base, glabrous or sparsely pubescent, and green to greyish-green in color.
 
 Leaves are 2–3 pinnately divided, with filiform segments 5–20 mm long. The upper leaves have reduced segments and a more linear profile compared to the basal leaves.
 
@@ -60,7 +60,7 @@ Minor constituents include α-pinene, limonene, 1,8-cineole, linalool, and carve
 
 - **Carminative:** Stimulates gastric secretions and motility, reducing flatulence and bloating. Cuminaldehyde activates TRPA1 channels in the gastrointestinal tract.
 
-- **Antimicrobial:** Essential oil inhibits growth of Staphylococcus aureus, Escherichia coli, Salmonella typhi, and Aspergillus niger. MIC values range from 0.25–2.0 mg/mL depending on organism.
+- **Antimicrobial:** Essential oil inhibits growth of [[staphylococcus-aureus]], Escherichia coli, Salmonella typhi, and [[aspergillus-niger]]. MIC values range from 0.25–2.0 mg/mL depending on organism.
 
 - **Antioxidant:** Strong DPPH and ABTS radical scavenging activity, comparable to BHT and ascorbic acid at equivalent concentrations in vitro.
 
@@ -84,28 +84,6 @@ Cumin is primarily cultivated in India (Rajasthan and Gujarat), Iran, Turkey, Sy
 
 The crop requires a warm, dry climate with well-drained sandy loam soil. Optimal growing temperatures are 20–30°C. Cumin is highly sensitive to waterlogging and frost, which are the primary causes of crop failure.
 
-Sowing occurs from October to November in India (rabi season). Seeds are broadcast or drilled at 8–12 kg/ha with 25–30 cm row spacing. Germination takes 7–12 days, and the crop matures in 100–120 days.
+Sowing occurs from October to November in India (rabi season). Seeds are broadcast or drilled at 8–12 kg/ha with 25–30 cm [[wide-row-spacing-intensive-gardening-comparison]]. Germination takes 7–12 days, and the crop matures in 100–120 days.
 
 Irrigation is applied at flowering and pod-filling stages. Harvest is done by cutting plants at ground level when fruits turn brown, followed by sun-drying and threshing. Average yield is 500–700 kg/ha under rainfed conditions.
-
-## Ecology and Applications
-
-Cumin is a moderate nectar source for pollinators, particularly honeybees and syrphid flies. The flowers attract a range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] during the brief 2–3 week flowering period.
-
-The essential oil has applications beyond food and medicine. It is used in perfumery, soap making, and as a [[jadam-natural-pesticide-institute-and-research]] due to its insecticidal and repellent properties against stored grain pests.
-
-Cumin straw (post-harvest residue) is used as animal fodder in arid regions, though its nutritional value is moderate. The crop fits well in rotation with wheat, cotton, and chickpea in dryland farming systems.
-
-Cumin is intercropped with fenugreek or coriander in some regions. The deep taproot helps break compacted soil layers, providing a mild soil-conditioning benefit in rotation sequences.
-
-Cumin is considered a climate-resilient crop due to its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low water requirements. Research interest is growing in its potential as a low-input spice for semi-arid agricultural systems threatened by water scarcity.
-
-In **folk medicine** across Central and South Asia, cumin is taken for cold symptoms, as a galactagogue for nursing mothers, and as a digestive aid for infants (diluted cumin water). A paste of ground cumin is applied topically for insect bites and minor wounds.
-
-## See Also
-
-- [[foeniculum-vulgare-entity]]
-- [[zingiber-officinale]]
-- ferula-assafoetida
-- [[salvia-officinalis]]
-- [[solanum-tuberosum]]

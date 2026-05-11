@@ -88,10 +88,3 @@ N-methyltyramine (by SAM-dependent N-methyltransferase) → hordenine
 phenethylamine alkaloids and is upregulated during [[controlled-substances-act-and-psychedelic-research]]. It is sold as a dietary
 supplement in many countries, often marketed as a pre-workout or weight
 loss ingredient. Its [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction — some
-countries regulate it under pharmaceutical or food safety laws.
-
-## Related Compounds
-
-- **Tyramine:** Direct metabolic precursor; stronger indirect adrenergic
-  effects; responsible for the "cheese effect" with [[soil-food-web]]-overview
-- [[teaming-with-microbes-soil-food-web-overview]]

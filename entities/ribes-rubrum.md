@@ -79,7 +79,7 @@ that shake the fruit from the branches.
 Key pests include gooseberry sawfly (*Nematus ribesii*), currant aphid
 (*Cryptomyzus ribis*), and currant borer (*Synanthedon tipuliformis*).
 White pine blister rust (*Cronartium ribicola*) is a significant disease
-concern in North America.
+concern in [[guzman-psilocybin-mushrooms-north-america]].
 
 ## Nutritional Value and Chemistry
 
@@ -88,43 +88,3 @@ per 100 g of fresh fruit. They also provide significant amounts of
 potassium, iron, and dietary fiber.
 
 The berries contain high levels of anthocyanins, primarily cyanidin
-3-glucoside and cyanidin 3-rutinoside. These compounds contribute to
-the red pigmentation and have documented antioxidant properties.
-
-[[fungal-organic-acid-metal-solubilization]] content is dominated by citric acid (approximately 2% of
-fresh weight), which gives the berries their characteristic tartness.
-Ascorbic acid, malic acid, and trace amounts of quinic acid are also
-present.
-
-Polyphenol profiles include flavonol glycosides (quercetin, myricetin,
-and kaempferol derivatives) and proanthocyanidins. Total polyphenol
-content ranges from 200–400 mg per 100 g fresh weight.
-
-## Culinary Use
-
-Red currants are primarily used in processed products due to their tart
-flavor. Jelly is the most [[kava-traditional-preparation-ceremonial-context]], valued for its clear,
-bright-red color and balanced sweetness.
-
-The berries are also used in tarts, pies, and summer puddings. In
-French cuisine, they are a key ingredient in *bar-le-duc* jelly, a
-luxury product made from white or red currants with the seeds removed.
-
-Red currant juice is consumed as a beverage and used as a base for
-cordials and sauces. The juice pairs well with rich meats like duck and
-lamb, functioning as an acid component in savory dishes.
-
-In Scandinavian and Eastern European cuisines, red currants are
-preserved by fermentation or combined with sugar for winter storage. The
-berries also freeze well, retaining their texture and flavor for up to 12
-months.
-
-## See Also
-
-- [[embelia-ribes]]
-
-- [[vaccinium-myrtillus]]
-- [[vaccinium-corymbosum-entity]]
-- [[morus-nigra]]
-- [[cydonia-oblonga]]
-- [[quercetin]]

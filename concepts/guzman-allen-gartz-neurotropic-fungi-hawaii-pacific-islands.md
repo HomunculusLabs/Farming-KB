@@ -1,5 +1,5 @@
 ---
-title: "Neurotropic Fungi of Hawaii and Pacific Islands"
+title: Guzman Allen Gartz Neurotropic Fungi Hawaii Pacific Islands
 created: 2026-04-28
 tags:
   - guzman-allen-gartz
@@ -12,7 +12,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzman G, Allen JW, Gartz J (2000) A worldwide geographical distribution
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - Guzman G, Allen JW, Gartz J (2000) A worldwide [[psilocybe-geographical-distribution-patterns]]
     of the neurotropic fungi, an analysis and discussion. Ann. Mus. civ.
     Rovereto 14:189-280.
 type: concept
@@ -62,7 +63,7 @@ Three species of Panaeolus have been documented from Hawaii:
 - **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (L.) Hook. -- Documented by Merlin and Allen (1993)
   and Allen (1998); grows in mycorrhizal association with Pinus, likely
   introduced through pine plantations
-- **Claviceps paspali** F. Stev. and J.G. Hall -- An ergot fungus parasitic
+- **[[claviceps-paspali-alkaloids]]** F. Stev. and J.G. Hall -- An [[ergot-fungus]] parasitic
   on Paspalum grasses, recorded from Hawaii by Grasso (1955)
 - **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** -- Listed with a question mark by Allen (1998),
   indicating uncertain identification on the islands
@@ -80,65 +81,9 @@ in tropical island environments.
 
 Fiji has two documented neurotropic species:
 
-- **Copelandia cyanescens** -- Reported by Olah (1969)
-- **Psilocybe cubensis** -- Reported by Wasson (1959b)
+- **[[copelandia-cyanescens]]** -- Reported by Olah (1969)
+- **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]** -- Reported by Wasson (1959b)
 
 ### Samoa
 
 Samoa has one documented species with significant ethnographic importance:
-
-- **Copelandia cyanescens** -- Reported by Cox (1981), who documented the
-  traditional use of this [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]] in Samoa, one of the few
-  well-documented cases of indigenous Copelandia use outside of Mexico
-  and New Guinea.
-
-### New Caledonia
-
-- **Hypholoma neocaledonica** (Guzman and Hora) Guzman -- Originally
-  described as Psilocybe neocaledonica by Guzman and Hora, later transferred
-  to Hypholoma by Guzman (1979, 1980, 1983). Endemic to New Caledonia.
-
-### Solomon Islands
-
-- **Gerronema fibula** (Bull.) Singer -- Reported from the Solomon Islands
-  by Corner (1994). This species has an extraordinarily wide distribution,
-  also known from Malaysia, New Guinea, South America, Europe, and Japan.
-
-### Bonin Islands
-
-- **Copelandia tropicalis** -- Reported by Hongo (1977a) from the Bonin
-  Islands (Ogasawara Islands), a Japanese archipelago in the western Pacific.
-
-### Macquarie Island (Subantarctic)
-
-- **Panaeolus mollearius** -- Reported by Singer (1960a) from Macquarie
-  Island, representing one of the southernmost records of a neurotropic
-  fungus.
-
-## Introduction via Livestock
-
-The coprophilous neurotropic fungi on Pacific islands are largely explained by
-the introduction of domestic livestock during the 18th and 19th centuries.
-Cattle dung provided a novel substrate for Copelandia and Psilocybe cubensis,
-which were likely introduced as spores adhering to animals or in feed. This
-parallels the proposed introduction of P. cubensis to the Americas via cattle
-during Spanish colonial times.
-
-## Biogeographic Significance
-
-The Pacific Islands' neurotropic mycoflora contributes to understanding the
-broader patterns discussed by Guzman, Allen and Gartz (2000). The presence of
-closely related species across widely separated Pacific islands (e.g., C.
-cyanescens in Hawaii, Fiji, and Samoa) supports Horak's (1983) observations
-on South Pacific mycogeography.
-
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-- [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-
-- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] diversity and biogeography
-- Psilocybe [[guzman-transcontinental-species-pairs-southern-hemisphere-origins]]
-- Conocybe and [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]] species
-- Neurotropic fungi of Central America and Caribbean

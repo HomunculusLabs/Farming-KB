@@ -88,10 +88,3 @@ Typical yields range from 0.5-2 kg fresh mushrooms per log per year. Shiitake on
 **Advantages**: Low cost after setup; minimal equipment; premium quality; natural conditions; productive for years; integrates with gardens and [[wood-decay-fungi]] ecosystems.
 
 **Limitations**: Long lead time to first harvest; heavy labor; requires outdoor space; weather-dependent; lower yield per time vs. [[cannabis-sativa-indoor-cultivation-techniques]]; vulnerable to competing fungi and insects.
-
-## See Also
-
-- [[shiitake-mushroom-cultivation]]
-- [[stamets-cultivator-log-cultivation-shiitake-hericium]]
-- [[mushroom-log-cultivation]]
-- [[synthetic-log-cultivation]]

@@ -1,18 +1,18 @@
 ---
-title: Enoki Cultivation (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
+title: Growing Gourmet Enoki Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, enoki, gourmet, flammulina]
 sources:
-  - label: "Growing Gourmet and Medicinal Mushrooms"
+  - label: "Growing Gourmet and cancer-medicinal-mushrooms"
     author: Paul Stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 # Enoki Cultivation
 
-Enoki (Flammulina velutipes), also known as Enokitake, is a popular cultivated mushroom remarkable for the dramatic difference between its wild and cultivated forms. Wild Enoki is a short-stemmed, brown-capped mushroom, while cultivated Enoki produces long, slender, white stems with tiny caps, achieved through manipulation of CO2 levels and light exposure.
+Enoki ([[flammulina-velutipes]]), also known as Enokitake, is a popular cultivated mushroom remarkable for the dramatic difference between its wild and cultivated forms. Wild Enoki is a short-stemmed, brown-capped mushroom, while cultivated Enoki produces long, slender, white stems with tiny caps, achieved through manipulation of CO2 levels and light exposure.
 
 ## Common Names
 
@@ -36,7 +36,7 @@ Spores are white, measuring 6-8 x 3-4 micrometers, ellipsoid in shape. The spore
 
 ## Distribution and Natural Habitat
 
-Enoki is widely distributed across temperate regions worldwide, found from sea level to tree line. It fruits primarily on hardwoods, occasionally on conifers, from late fall through early winter. A notable characteristic is its ability to survive freezing and thawing while continuing to grow, making it one of the few mushrooms that can fruit during cold weather.
+Enoki is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, found from sea level to tree line. It fruits primarily on hardwoods, occasionally on conifers, from late fall through early winter. A notable characteristic is its ability to survive freezing and thawing while continuing to grow, making it one of the few mushrooms that can fruit during cold weather.
 
 ## Cultivated vs. Wild Morphology
 
@@ -74,7 +74,7 @@ These conditions are essentially the opposite of optimal growing conditions for 
 - Relative Humidity: 95-100%
 - Duration: 5-7 days
 - CO2: elevated (1,000-5,000 ppm for long-stem morphology)
-- Light Requirements: minimal (limited for white color)
+- [[growing-gourmet-light-requirements-mushroom-fruiting]]: minimal (limited for white color)
 
 ### Fruitbody Development
 - Temperature: 45-55F (7-13C)
@@ -87,38 +87,3 @@ These conditions are essentially the opposite of optimal growing conditions for 
 - Typically 1-2 crops
 
 ## Warm Weather Strains
-
-Most Enoki strains require cold shock for fruiting, typically needing temperatures below 55F (13C). However, Stamets describes a warm-weather strain collected from Telluride, Colorado (1990) that fruits at room temperature (65-75F / 18-24C). This strain represents a significant departure from typical Enoki cultivation requirements and could expand cultivation possibilities to warmer climates and seasons without refrigeration.
-
-## Mycelial Characteristics
-
-Enoki mycelium is white, typically forming a fine, somewhat wispy mat on agar media compared to the more robust mats of Oyster or Shiitake species. The mycelium is nonetheless vigorous, showing good recovery within 2-3 days of inoculation. On grain, the mycelium develops a grayish-white appearance typical of many gourmet species.
-
-## Substrate and Cultivation Method
-
-Enoki is commercially cultivated on [[oyster-mushroom-supplemented-sawdust-blocks]] in bottles or bags. The standard substrate is hardwood sawdust (often a mix of several species) supplemented with rice bran or wheat bran. The substrate is sterilized, inoculated, and incubated until fully colonized.
-
-For the characteristic long-stemmed cultivated form, the colonized substrate is exposed to elevated CO2 and minimal light conditions. In commercial operations, this is often achieved by placing a collar (tube) around the opening of the fruiting bottle, which the mushrooms grow through, creating the elongated stem effect.
-
-## Harvest and Storage
-
-Enoki mushrooms are harvested by cutting the entire cluster at the base. They are typically sold in vacuum-sealed packages with the root base intact. Fresh Enoki has a shelf life of approximately 1-2 weeks under refrigeration. The mushroom can also be dried for long-term storage, though this is less common than fresh sale.
-
-## Culinary Uses
-
-Enoki is a staple of Japanese and other Asian cuisines. Common preparations include:
-- Hot pot and sukiyaki (the [[kava-traditional-preparation-ceremonial-context]])
-- Soups and noodle dishes
-- Stir-fries with brief cooking
-- Salads when very fresh (light blanching recommended)
-- Tempura battering and frying
-
-The texture is crisp and slightly crunchy, with a mild, slightly sweet flavor. Enoki should not be overcooked, as prolonged heat makes it slimy.
-
-## See Also
-
-- [[enoki-cultivation-guide]]
-- [[medicinal-mushroom-guide-enoki]]
-- [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-indoor-growing-environment]]

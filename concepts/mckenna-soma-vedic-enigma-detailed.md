@@ -1,8 +1,8 @@
 ---
 title: The Soma Enigma — Vedic Candidates and Wasson's Theories
 source: mckenna_t-food_of_the_gods.md
-author: Terence McKenna
-chapter: 7 - Searching for Soma: The Golden mckenna soma vedic enigma detailed
+author: [[terence-mckenna]]
+chapter: 7 - Searching for Soma: The Golden [[mckenna-soma-vedic-enigma]] enigma detailed
 tags: [mckenna, soma, vedic, wasson, amanita, peganum, harmala, rig-veda]
 ---
 
@@ -10,7 +10,7 @@ tags: [mckenna, soma, vedic, wasson, amanita, peganum, harmala, rig-veda]
 
 In Chapter 7 of *Food of the Gods*, McKenna undertakes a detailed
 examination of the Soma question — one of the great unsolved mysteries
-of ethnobotany and comparative religion. The Rig Veda, composed
+of ethnobotany and comparative religion. The [[rig-veda-soma-hymns-amanita-muscaria]], composed
 roughly 3,500 years ago, contains over 1,000 hymns to Soma, a divine
 plant that was pressed, filtered, and consumed in elaborate Vedic
 rituals. Yet the identity of this sacred plant has been lost for
@@ -28,7 +28,7 @@ ecstasy, immortality, and direct communion with the gods.
 
 ## The Wasson Amanita Theory
 
-R. Gordon Wasson, the banker-turned-ethnomycologist who introduced
+R. [[gordon-wasson-comparative-method-ethnomycology]], the banker-turned-ethnomycologist who introduced
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the Western world through his 1957 *Life*
 magazine article, proposed that Soma was the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] mushroom,
 *[[allegro-amanita-muscaria-properties-and-pharmacology]]*. McKenna presents Wasson's argument and its
@@ -54,7 +54,7 @@ considerable problems:
 
 McKenna argues that Wasson, despite his enormous contributions to
 ethnomycology, was led astray by his fixation on the fly agaric's
-dramatic appearance and its prominence in Siberian shamanism.
+dramatic appearance and its prominence in [[harner-amanita-muscaria-siberian-shamanism]].
 
 ## Peganum harmala as Soma
 
@@ -62,7 +62,7 @@ McKenna gives serious consideration to *Peganum harmala* ([[golden-guide-syrian-
 as a candidate for Soma. This plant contains harmine and harmaline
 — beta-carboline alkaloids that are:
 
-- Potent MAO inhibitors (the basis of the ayahuasca effect)
+- Potent [[mao-inhibitors-and-psychedelics]] (the basis of the ayahuasca effect)
 - Visionary at sufficient doses
 - Easily prepared as a yellow-orange liquid (matching Soma's
   description as a golden or tawny beverage)
@@ -88,48 +88,3 @@ it produces is consistently described in terms of:
 - Celestial or cosmic imagery (stars, moon, galaxies)
 - A sense of immortality or timelessness
 - Divine or superhuman knowledge
-- Separation of soul from body
-- Communication with divine beings or ancestors
-
-The lunar association is significant because several psychoactive
-plants, including *Peganum harmala*, have associations with the moon
-in traditional medicine and folklore.
-
-## Soma and Cattle
-
-The Vedic texts frequently associate Soma with cattle — both as a
-metaphor and in ritual practice. McKenna notes that cattle and
-psychoactive mushrooms have a natural ecological relationship: many
-psilocybin species fruit in the dung of grazing herbivores. The
-Indo-European cattle-herding culture would have encountered
-psychoactive mushrooms in pastures as a matter of course.
-
-The Rig Veda itself contains passages that may describe the collection
-of mushrooms from pastures, filtered through layers of poetic
-metaphor. The "pressing" of Soma could refer to the preparation of
-a mushroom-infused beverage.
-
-## Wasson's Doubts
-
-McKenna notes that Wasson himself eventually expressed doubts about
-the *Amanita muscaria* theory, particularly regarding the lack of
-fit between the fly agaric's pharmacological profile and the Vedic
-descriptions of Soma's effects. Wasson's late work suggested that
-the true Soma might have been a substance no longer available or
-identifiable.
-
-## The Indo-Europeans
-
-McKenna concludes that the identity of Soma is bound up with the
-larger question of Indo-European origins and migration. The
-psychoactive plant that inspired the Vedic hymns was likely a
-species or combination of species native to the Central Asian or
-Iranian plateau homeland of the Indo-European peoples. As these
-peoples migrated, they may have lost access to the original plant,
-preserving only its memory in the increasingly abstract and
-metaphorical language of the Rig Veda.
-
-## See Also
-- [[amanita-muscaria-entity]]
-- [[archaic-revival-philosophy]]
-- [[mckenna-soma-vedic-enigma]]

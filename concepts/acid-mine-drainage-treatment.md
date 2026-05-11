@@ -88,24 +88,3 @@ Sulfate-reducing bacteria are the key organisms in anaerobic treatment systems, 
 The role of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
 
 ## Design Considerations and Long-Term Performance
-
-Proper sizing of passive treatment systems requires accurate characterization of AMD flow rates and quality, including seasonal and event-based variability.
-
-The reactive life of treatment media, particularly organic substrates in anaerobic systems, must be estimated to ensure adequate long-term treatment capacity.
-
-Metal loading rates determine the rate of solids accumulation and the frequency of maintenance required to maintain treatment performance.
-
-Freeze-thaw cycles in cold climates can damage treatment infrastructure and reduce biological activity during winter months.
-
-Sequential treatment systems that combine multiple passive technologies (anoxic limestone drain, anaerobic wetland, aerobic wetland) in series provide the most comprehensive treatment for complex AMD.
-
-Integration of passive treatment with [[fungal-bioaugmentation-inoculation]] approaches can enhance treatment performance and extend system longevity.
-
-## Related
-
-- [[heavy-metal-bioremediation]]
-- index-bioremediation
-
-## See Also
-
-- [[query-how-to-prevent-and-treat-damping-off-in-cannabis-seedlings]]

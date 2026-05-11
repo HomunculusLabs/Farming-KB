@@ -1,5 +1,5 @@
 ---
-title: "Military and Intelligence LSD Psychotomimetic Weapon Programs"
+title: Metzner Military Intelligence Lsd Psychotomimetic Weapon Programs
 aliases: ["MKULTRA LSD military", "CIA psychedelic weapons", "Edgewood Arsenal LSD experiments", "psychotomimetic weapon research"]
 tags: [lsd, military, cia, mkultra, psychotomimetic, cold-war, metzner, psychedelic-history]
 ---
@@ -8,7 +8,7 @@ tags: [lsd, military, cia, mkultra, psychotomimetic, cold-war, metzner, psychede
 
 ## Overview
 
-During the 1950s and 1960s, military and intelligence agencies in the United States and other nations conducted extensive research into the potential use of LSD and other psychedelic compounds as weapons. This research, motivated by Cold War anxieties, explored whether these substances could be used for interrogations, mind control, incapacitation of enemy troops, and other strategic purposes. Ralph Metzner documented this history as part of his broader survey of hallucinogenic drug research.
+During the 1950s and 1960s, military [[mckenna-drugs-governments-and-intelligence-agencies]] in the United States and other nations conducted extensive research into the potential use of LSD and other [[psychedelic-compounds-reference]] as weapons. This research, motivated by Cold War anxieties, explored whether these substances could be used for interrogations, mind control, incapacitation of enemy troops, and other strategic purposes. [[ralph-metzner]] documented this history as part of his broader survey of hallucinogenic drug research.
 
 ## The Psychotomimetic Hypothesis
 
@@ -38,7 +38,7 @@ LSD was one of the primary compounds investigated under MKULTRA, along with mesc
 
 CIA operatives conducted experiments on unwitting subjects, including government employees, military personnel, and members of the general public.
 
-These experiments violated fundamental ethical principles of informed consent and caused lasting harm to many participants.
+These experiments violated fundamental [[permaculture-ethical-principles-holmgren]] of informed consent and caused lasting harm to many participants.
 
 ## Edgewood Arsenal and Army Research
 
@@ -70,7 +70,7 @@ The knowledge gained through these programs eventually leaked into the academic 
 
 Ken Kesey, who received LSD as a volunteer in government-sponsored experiments at a VA hospital, went on to organize the Merry Pranksters and become one of the key figures in the popularization of LSD.
 
-This ironic chain of events — from military weapon research to countercultural icon — illustrates the difficulty of controlling knowledge about powerful psychoactive substances.
+This ironic chain of events — from military weapon research to countercultural icon — illustrates the difficulty of controlling knowledge about powerful [[cultural-evolution-and-psychoactive-substances]].
 
 ## Ethical Violations and Accountability
 
@@ -87,37 +87,3 @@ The scandal led to significant reforms in the ethics of human subjects research,
 ## International Programs
 
 The United States was not the only nation to investigate the military potential of psychedelic compounds.
-
-The British military reportedly tested LSD on soldiers as part of research into incapacitating agents.
-
-The Soviet Union is believed to have conducted similar research, though details of Soviet programs remain less well documented.
-
-Several nations explored the potential use of various psychoactive compounds for espionage, interrogation, and crowd control purposes.
-
-The international scope of these programs reflected the widespread Cold War belief that control of the mind was the next frontier of military strategy.
-
-## Legacy and Lessons
-
-The military and intelligence psychedelic programs of the 1950s and 1960s represent one of the darkest chapters in the history of psychedelic research.
-
-They demonstrate the potential for powerful psychoactive substances to be exploited for coercive and unethical purposes.
-
-At the same time, the unintended dissemination of knowledge from these programs contributed to the eventual resumption of legitimate psychedelic therapy research.
-
-The programs also established much of the [[psilocybin-isolation-and-early-scientific-research]] knowledge about the pharmacology and psychology of LSD that underpins contemporary research.
-
-Understanding this history is essential for developing ethical frameworks for the current resurgence of psychedelic medicine.
-
-## See Also
-
-- [[metzner-military-cia-lsd-psychotomimetic-weapon-research]]
-
-- [[metzner-grof-perinatal-matrices-psychedelic-therapy]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]]
-
-## Sources
-
-- Metzner, R. (1998). Hallucinogenic [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] and Shamanism. *ReVision*, 20(4), 3-8.
-- Marks, J. (1979). *The Search for the Manchurian Candidate*. Times Books.
-- Lee, M.A. & Shlain, B. (1985). *Acid Dreams*. Grove Press.

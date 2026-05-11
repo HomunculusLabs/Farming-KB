@@ -88,18 +88,3 @@ Nitrogen fertilization significantly increases yield, with optimal rates of 80â€
 ## Ecological Impact and Invasiveness
 
 Outside its native range, *Ipomoea aquatica* is a significant invasive species, particularly in tropical and subtropical wetland ecosystems. It forms dense floating mats that shade out native aquatic plants, reduce oxygen levels in water, and impede water flow in drainage canals and irrigation systems.
-
-In Florida, USA, water spinach was introduced through Asian immigrant communities and has spread extensively in waterways. It is regulated under the Federal Noxious Weed Act, and cultivation, sale, and transport are prohibited. Similar restrictions exist in parts of Australia and several Pacific Islands.
-
-The plant's vegetative reproduction through stem fragmentation makes control difficult. Small stem segments can root and establish new colonies, meaning that mechanical clearing must remove all plant material to be effective. Herbicide control using glyphosate or imazapyr has shown variable results due to the plant's aquatic habitat.
-
-Despite its invasive potential, water spinach remains legally cultivated and sold in most Asian countries and is an important component of food security in tropical lowland regions. The tension between its agricultural value and ecological risk continues to shape regulatory approaches in different countries.
-
-## See Also
-
-- [[nyssa-aquatica]]
-
-- [[ipomoea-tricolor]]
-- [[colocasia-esculenta]]
-- [[euryale-ferox]]
-- [[lemna-minor]]

@@ -1,9 +1,9 @@
 ---
-title: Ayahuasqueros - harner-amazonian-ayahuasca-preparation-methods Practitioners
+title: Ayahuasqueros
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
-tags: [ayahuasca, shamanism, amazon, peru, shipibo, healing, icaros]
+tags: [ayahuasca, [[shamanism]], amazon, peru, shipibo, healing, [[icaros]]
 sources:
   - stuart-r-ayahuasca-tourism.md
 ---
@@ -17,7 +17,7 @@ healing, divination, and spiritual exploration. The term derives
 from "ayahuasca" (the brew) plus the Spanish suffix "-ero"
 indicating a practitioner or specialist. Ayahuasqueros are found
 throughout the Amazon but are particularly concentrated among the
-Shipibo people of Peru's Ucayali region, where the tradition is
+[[shipibo-people-and-ayahuasca-tradition]] of Peru's [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], where the tradition is
 especially deep and well-developed.
 
 ## Role and Function
@@ -88,56 +88,3 @@ types of practitioners:
 Some were dishonest and exploitative. One elderly shaman was
 described as a frequent liar and shoplifter who asked for money or
 gifts at every opportunity. Another shaman's partner constantly
-hustled visitors for spare change. A third practitioner swindled the
-researcher on the price of a tobacco pipe, leading Stuart to decline
-his ceremonial invitations.
-
-Others demonstrated genuine integrity and dedication. In the town
-of [[shipibo-san-francisco-ceremonial-center-ucayali]], one practitioner ("E") was widely regarded as an
-honorable man who held private services for his family at night,
-[[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] in the darkness of his home. He charged about ten
-dollars for tourist ceremonies. Such practitioners represent the
-authentic heart of the ayahuasca tradition.
-
-## Economic Dimensions
-
-In the tourism economy, ayahuasqueros earn dramatically different
-amounts depending on their clientele. Rates for Peruvians may be
-approximately two dollars per ceremony, while foreign tourists pay
-thirty dollars or more. Some entrepreneurial shamans earn a couple
-hundred dollars monthly from tourists—a substantial sum in
-communities where neighbors cannot afford a thirty-cent taxi ride.
-
-This economic disparity creates incentives that can distort the
-tradition. Individuals with minimal training may present themselves
-as shamans to capture tourist revenue. The commercial pressure may
-also cause genuine practitioners to modify their ceremonies—using
-milder doses, shorter sessions, and simplified practices—to
-accommodate foreign expectations and minimize risk.
-
-## Distinguishing Authentic Practitioners
-
-For tourists seeking genuine ceremonial experiences, several
-indicators may help distinguish authentic practitioners from
-opportunists. Community reputation is perhaps the most reliable
-signal—a practitioner widely regarded as honorable by their
-community is more likely to be genuine. Length of training, family
-lineage, and depth of icaros repertoire also suggest authenticity.
-
-However, evaluating an ayahuasquero requires extended observation
-that short-term visitors rarely possess. Unless a tourist spent a
-long while getting to know a practitioner, the character of a
-commercialized ceremony would probably be shallower than a ritual
-conducted solely for the benefit of the shaman's relatives and
-community.
-
-## See Also
-
-- [[ayahuasca]] · [[ayahuasca-tourism-in-peru]]
-- [[icaros]] · [[shipibo-people-and-ayahuasca-tradition]]
-- [[banisteriopsis-caapi]] · mapacho
-
-## Sources
-
-- Stuart, R. (2002). "Ayahuasca Tourism: A Cautionary Tale."
-  *MAPS*, Vol. XII, No. 2, pp. 36–38.

@@ -88,37 +88,3 @@ perceptible to overwhelmingly intense. See [[psychedelic-dosage-titration-method
 
 The study further complicated dosage prediction by showing that the psilocybin-to-psilocin ratio
 varies dramatically across flushes. Psilocin is pharmacologically active in its own right and
-contributes to the overall psychoactive effect. In flushes where psilocin is absent (flushes 1 and 2
-of the Amazon strain), the total tryptamine dose equals the psilocybin dose alone. By flush 4,
-psilocin can contribute an additional 30 to 50% to the total tryptamine content. This means that the
-same weight of mushrooms from different flushes delivers different total tryptamine doses even when
-psilocybin levels are similar, adding yet another layer of unpredictability to weight-based dosing.
-
-## Implications for Clinical Research
-
-The dosage unpredictability problem underscores the importance of using chemically standardized
-psilocybin preparations rather than whole mushroom material in clinical research. [[mushroom-cancer-clinical-trials-overview]]
-using synthetic psilocybin (such as those conducted by Roland Griffiths and colleagues at Johns
-Hopkins, and Robin Carhart-Harris at Imperial College London) administer precise milligram doses of
-pure compound, eliminating the variability that Bigwood and Beug documented. For
-ethnopharmacological field studies and anthropological research, however, this variability remains
-an unavoidable confound that must be acknowledged in study design and discussed as a limitation in
-publications.
-
-## Implications for Harm Reduction
-
-The inability to predict dosage from weight alone means that individuals relying on informal dosing
-guidelines based on grams of dried mushroom are operating with significant uncertainty. Harm
-reduction approaches should emphasize starting with lower amounts and titrating upward, particularly
-when the source, strain, or flush number of mushrooms is unknown. The data from Bigwood and Beug
-strongly support a start-low-and-go-slow approach to mushroom dosing. See
-[[psychedelic-mushroom-dosage-guide]] for practical harm
-reduction guidance.
-
-## Related
-
-- [[street-sample-alkaloid-variability-dosage-unpredictability-bigwood-beug]] Concepts
-
-- [[psilocybe-cubensis-potency-variation-by-flush]]
-- [[psilocybin-mushroom-dosage-and-acute-effects]]
-- [[pf-tek-psilocybin-dosage-reference]]

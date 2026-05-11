@@ -88,38 +88,3 @@ Olsson et al. (2004) demonstrated that wild strawberries have significantly high
 The leaves also contain tannins and flavonoids with reported astringent and diuretic properties. Traditional herbal preparations use dried leaves in infusions for gastrointestinal health and as a mild mouthwash. The roots contain arbutin, a compound with urinary antiseptic activity also found in bearberry (*Arctostaphylos uva-ursi*).
 
 ### Bioactive Compounds
-
-Key phytochemicals identified in *F. vesca* fruit include ellagic acid (0.4–0.6 mg/g fresh weight), pelargonidin-3-glucoside, cyanidin-3-glucoside, and catechin. Volatile aroma compounds include methyl anthranilate, furaneol, mesifurane, and linalool, which together produce the characteristic wild strawberry fragrance.
-
-The ellagitannin profile of *F. vesca* is of particular research interest due to the anti-cancer and anti-inflammatory properties demonstrated in vitro. Ellagic acid undergoes microbial metabolism in the gut to produce urolithins, which are being investigated for their potential role in colorectal cancer prevention.
-
-Studies have also identified anti-diabetic potential in *F. vesca* leaf extracts, which inhibit alpha-amylase and alpha-glucosidase enzymes in vitro. The combination of antioxidant, anti-inflammatory, and enzyme-inhibitory activities makes the species a promising subject for further nutraceutical research.
-
-## Ecological Role
-
-Wild strawberry serves as a food source for numerous wildlife species. Birds, small mammals, and turtles consume the fruit and disperse seeds. The flowers provide nectar and pollen for native bees, syrphid flies, and butterflies, including the grizzled skipper (*Pyrgus malvae*).
-
-White-tailed deer occasionally browse the foliage, though it is not a preferred forage species. Box turtles are notably fond of the fruit and can be important seed dispersers in eastern North American forests. The achenes pass through turtle digestive tracts intact, enhancing germination rates through scarification.
-
-The low-growing habit provides ground cover in forest understories, contributing to soil stabilization and moisture retention. The dense leaf canopy shades the soil surface, reducing evaporation and creating microhabitat conditions favorable for soil microorganisms and mycorrhizal fungi.
-
-In permaculture systems, *F. vesca* functions as a productive living mulch beneath fruit trees and shrubs, producing edible fruit while suppressing weeds. It is compatible with a wide range of companion species and requires minimal maintenance once established.
-
-The species is a host for several fungal pathogens including *Phytophthora fragariae* (red stele root rot) and *[[cervantes-powdery-mildew-prevention-treatment]]* (*Podosphaera aphanis*). These pathogens also affect commercial strawberry production, making *F. vesca* relevant as a pathogen reservoir and source of resistance genes.
-
-## See Also
-
-- [[rubus-idaeus]]
-
-- [[fragaria-chiloensis]]
-
-- rubus idaeus
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-corymbosum-entity]]
-- [[physocarpus-opulifolius]]
-- [[potentilla-fruticosa]]
-- [[sorbus-aucuparia]]
-- [[achillea-millefolium]]
-- [[monarda-fistulosa]]
-- [[solidago-odora]]
-- [[echinacea-purpurea]]

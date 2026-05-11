@@ -9,7 +9,7 @@ sources: []
 
 # Aeroponics Guide
 
-Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a nutrient solution. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
+Aeroponics is the most advanced form of soilless growing. Instead of submerging roots in water or growing medium, aeroponic systems suspend plant roots in an enclosed chamber where they are misted or sprayed with a [[cannabis-nutrient-solution-preparation]]. The roots grow in air, absorbing nutrients and oxygen directly from the mist. This approach can produce the fastest growth rates and highest yields of any cultivation method.
 
 ## How Aeroponics Works
 
@@ -94,7 +94,7 @@ Cons:
 
 Aeroponics excels at cannabis cloning:
 - Cuttings develop roots in 5-10 days (vs. 10-21 days in rockwool or soil)
-- Higher success rates than conventional methods
+- Higher success rates than [[microwave-sterilization-versus-conventional-methods-comparison]]
 - No transplant shock — roots emerge directly from the stem
 - Can root large numbers of cuttings simultaneously
 
@@ -133,13 +133,13 @@ Unhealthy root indicators:
 - Brown or discolored roots: root rot (Pythium), usually from warm water or contaminated solution
 - Slimy texture: bacterial biofilm, often from organic nutrients or poor sanitation
 - Curling or browning tips: nutrient burn, pH imbalance, or misting frequency issues
-- Sparse root growth: insufficient misting, poor oxygenation, or nutrient deficiency
+- Sparse root growth: insufficient misting, poor oxygenation, or [[cannabis-grow-nutrient-deficiency-problem-solving]]
 
 Prevention:
 - Maintain water temperature at 65-70°F (18-21°C) — use a water chiller if needed
-- Use RO water and clean, synthetic nutrients
-- Sanitize the system between grows with hydrogen peroxide or a commercial cleaner
-- Add beneficial bacteria (Bacillus subtilis strains) to prevent pathogen colonization
+- Use RO water and clean, [[query-organic-vs-synthetic-nutrients-cannabis]]
+- Sanitize the system between grows with [[cervantes-hydrogen-peroxide-sterilization]] or a commercial cleaner
+- Add beneficial bacteria ([[bacillus-subtilis]] strains) to prevent pathogen colonization
 - Replace misting nozzles regularly or clean them with vinegar or CLR
 - Keep the root chamber completely light-proof
 

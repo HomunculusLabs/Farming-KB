@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid|hybrid]] strains, preserving [[marijuana-strain-guide-sativa|sativa]] or [[marijuana-strain-guide-indica|indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics|seed bank]] distribution, understanding breeding fundamentals is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
+Cannabis breeding is the deliberate crossing of cannabis plants to combine desirable traits from parent strains into new varieties. Whether you are creating [[marijuana-strain-guide-hybrid]] strains, preserving [[marijuana-strain-guide-sativa]] or [[marijuana-strain-guide-indica]] landrace genetics, or developing unique expressions for [[cannabis-seed-banks-and-genetics]] distribution, understanding [[oner-cannabis-breeding-fundamentals]] is essential. At its core, breeding is about manipulating gene frequencies — the ratio of desired genes within a population. The higher the frequency, the more uniform and true-breeding the population becomes. A trait is considered "fixed" when its gene frequency reaches 100%.
 
 ## Cannabis Plant Sex and Reproduction
 
@@ -28,13 +28,13 @@ Male plants produce pollen sacs rather than flowers. They are essential for bree
 
 ### Hermaphrodites
 
-Plants that develop both male and female sex organs. Usually caused by stress (light leaks, temperature extremes, nutrient problems). Hermaphrodites are generally undesirable as they can pollinate an entire crop. Some breeders use induced hermaphroditism (rodelization) as a breeding technique.
+Plants that develop both male and female sex organs. Usually caused by stress (light leaks, temperature extremes, [[query-how-to-read-cannabis-plants-for-nutrient-problems]]). Hermaphrodites are generally undesirable as they can pollinate an entire crop. Some breeders use induced hermaphroditism (rodelization) as a breeding technique.
 
 ## Pollen Collection and Storage
 
 ### Collecting Pollen
 
-Pollen collection requires careful timing and technique:
+Pollen collection requires careful [[jadam-pesticide-spray-timing-and-technique]]:
 
 1. Isolate male plants in a separate space before pollen sacs open
 2. Place a collection container (glass jar or paper bag) over flowering branches
@@ -54,11 +54,11 @@ Properly stored pollen remains viable for extended periods:
 
 ## Making a Cross
 
-The basic process of crossing two cannabis strains:
+The basic process of crossing two [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]:
 
 ### Select Parent Plants
 
-Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, resin production). The male should release pollen 2-3 weeks before the female is fully receptive.
+Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, [[cannabis-glandular-trichome-types-resin-production-clarke]]). The male should release pollen 2-3 weeks before the female is fully receptive.
 
 ### Pollination and Seed Harvest
 

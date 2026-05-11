@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA-2
 
-PIHKAL entry #133. 2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #133. 2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -57,7 +57,7 @@ PIHKAL entry #133. 2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 > 2-3 hours Q I called it 'High Sierras' Q realistic, dispassionate, not
 > kind. Some dark areas are persistent. Watched last half of Circus of
 > Dr. Lao and the whole feeling changed from pornographic to erotic.
-> Delightful. Some fantasy. On coming down, sleep was difficult. The
+> Delightful. Some fantasy. On [[fukuoka-textdoc-production-costs-not-coming-down]], sleep was difficult. The
 > body feels unexpectedly depleted. Rubber legs and handwriting jerky.
 
 ## Extensions and Commentary
@@ -77,7 +77,7 @@ in comparison to N-methyl MDA (which is [[methyl-mmda-2-entity-pihkal]]
 - fungal-pellet-formation-structure
 ## Practical Considerations
 
-Successful implementation of MMDA-2 (2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- PIHKAL Entry #133 requires attention to
+Successful implementation of MMDA-2 (2-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE) -- [[2c-c-pihkal-entry-22]] #133 requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying
@@ -88,14 +88,3 @@ improve resilience and productivity over time.
 ## Future Directions
 
 Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[2t-mmda-3a-entity-pihkal]]
-- [[methyl-mmda-2-entity-pihkal]]
-- [[mmda-3a-entity-pihkal]]
-- [[mmda-3b-entity-pihkal]]
-- [[mmda-entity-pihkal]]

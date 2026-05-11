@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Alaria marginata, commonly known as winged kelp or ribbed kelp, is a large brown alga in the family Laminariaceae. It is found along the Pacific coast of North America from Alaska to central California, where it forms extensive beds in the low intertidal and shallow subtidal zones.
+Alaria marginata, commonly known as winged kelp or ribbed kelp, is a large brown alga in the family Laminariaceae. It is found along the Pacific coast [[berry-growing]] from Alaska to central California, where it forms extensive beds in the low intertidal and shallow subtidal zones.
 
-The species is named for the distinctive wing-like rachis that runs along the midline of each frond. This midrib distinguishes it from other kelps and provides structural support in moderate wave action.
+The species is named for the distinctive wing-like rachis that runs along the midline of each frond. This midrib distinguishes it from other kelps and provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] in moderate wave action.
 
-Winged kelp is harvested commercially for food and is a traditional food source for Indigenous peoples of the Pacific Northwest. It is valued for its mild flavor, nutritional content, and versatility in culinary applications.
+Winged kelp is harvested commercially for food and is a traditional food source for Indigenous peoples of the [[psilocybin-north-america-pacific-northwest]]. It is valued for its mild flavor, nutritional content, and versatility in culinary applications.
 
 Plants can reach 1–3 meters in length, with a single stipe supporting multiple blades. The sporophyte is the dominant life stage, while the microscopic gametophyte is ephemeral.
 
@@ -48,7 +48,7 @@ Winged kelp is often found in association with other laminarian species, forming
 
 Seasonal growth patterns show maximum blade elongation during spring and early summer. Senescence of older blade tissue occurs in autumn, with winter storms often removing degraded fronds.
 
-Temperature tolerance ranges from approximately 4–16°C, with optimal growth between 8–12°C. The species is absent from waters warmer than 18°C.
+[[mycorrhizal-drought-and-temperature-tolerance]] ranges from approximately 4–16°C, with optimal growth between 8–12°C. The species is absent from waters warmer than 18°C.
 
 ## Ecology and Uses
 
@@ -87,30 +87,3 @@ Dried winged kelp is reconstituted in water and used similarly to wakame in Japa
 The species is commercially available as dried whole fronds, flakes, and powder. It is marketed as a superfood ingredient in health food stores and through online retailers.
 
 ## Reproductive Biology
-
-Alaria marginata has a heteromorphic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a large sporophyte and a microscopic gametophyte. Reproductive sporophylls at the stipe base produce motile zoospores during winter and [[coleman-overwintered-onions-and-early-spring-crops]].
-
-Zoospores settle on suitable substrate and develop into microscopic male or female gametophytes. Fertilization produces a zygote that grows into the familiar macroscopic sporophyte.
-
-The sporophyte is perennial, persisting for 2–5 years. Annual blade replacement occurs through growth from the intercalary meristem at the blade-stipe junction.
-
-Spore release is strongly seasonal, peaking from November through March in most populations. This timing ensures new sporophytes establish during the spring growth period.
-
-## Conservation and Management
-
-Alaria marginata populations are generally stable across most of their range. The species is not listed as threatened or endangered by any major conservation authority.
-
-However, local declines have been documented near urban areas with poor water quality and coastal development. Nutrient pollution and sedimentation can reduce kelp bed health.
-
-Sea star wasting disease, which decimated sunflower star populations, has indirectly benefited sea urchin populations. Increased urchin grazing pressure has led to localized defoliation of Alaria beds in some areas.
-
-Commercial harvest regulations include size limits, seasonal closures, and designated harvest zones. These management tools aim to ensure sustainable collection without depleting wild populations.
-
-## See Also
-
-- [[laminaria-digitata]]
-- [[undaria-pinnatifida]]
-- [[porphyra-umbilicalis]]
-- [[palmaria-palmata]]
-- [[ulva-lactuca]]
-- [[sargassum-fusiforme]]

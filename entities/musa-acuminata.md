@@ -88,31 +88,3 @@ Cooking bananas (plantains) are starchier and less sweet than dessert bananas, w
 ## Ecology and Applications
 
 Banana plantations provide [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[permplant-willows-salix-erosion-control-fodder]] on steep tropical slopes, microclimate modification, and [[holmgren-soil-humus-carbon-storage-rebuilding]] in biomass.
-
-The pseudostems and leaves are used as mulch, animal fodder, and wrapping material in traditional agricultural systems.
-
-Banana fiber from pseudostems is used for textiles, paper production, and biodegradable packaging materials.
-
-Intercropping bananas with shade-tolerant crops such as coffee, cacao, and [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] is a common agroforestry practice.
-
-Banana waste (peels, pseudostems) is a potential feedstock for bioethanol production and composting.
-
-The species plays a cultural role in tropical regions, featuring in art, religion, and traditional medicine across Southeast Asia, Africa, and Latin America.
-
-Conservation of wild *M. acuminata* germplasm is critical for breeding programs seeking resistance to Panama disease TR4 and other threats.
-
-International banana collections, including those maintained by Bioversity International in Belgium and the ITC in Uganda, preserve over 1,500 accessions.
-
-Genome editing using CRISPR-Cas9 has been applied to develop TR4-resistant banana lines, though regulatory and public acceptance challenges remain.
-
-## See Also
-
-- [[acacia-acuminata]]
-
-- [[musa-paradisiaca]]
-
-- [[manihot-esculenta]]
-- [[zea-mays]]
-- [[saccharum-officinarum]]
-- [[mangifera-indica]]
-- [[euterpe-oleracea]]

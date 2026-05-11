@@ -11,7 +11,7 @@ sources: ["raw/papers/gardening-when-it-counts-steve-solomon.md"]
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapter 7
+Source: Gardening When It Counts, [[steve-solomon]], Chapter 7
 
 Solomon presents composting as a skilled activity, not a simple dumping process. He distinguishes between the many methods and explains the science behind why some approaches work and others fail to produce effective fertilizer.
 
@@ -55,10 +55,10 @@ From low to high:
 
 ## Mulch Gardening
 
-Solomon's assessment of permanent mulching (the Ruth Stout method) is cautiously negative:
+Solomon's assessment of [[solomon-permanent-mulching-critique-limitations]] (the Ruth Stout method) is cautiously negative:
 
 Problems with permanent mulching:
-- Mulch tangles the hoe and fails to completely suppress weeds
+- Mulch tangles the hoe and fails to completely [[query-how-do-cover-crops-suppress-weeds]]
 - If mulching with cheap materials (spoiled hay), you'll be importing weed seeds
 - Gardens are slow to warm in spring under thick mulch
 - Long-term mulching disrupts soil nutrient ratios
@@ -66,7 +66,7 @@ Problems with permanent mulching:
 - Maintaining the mulch layer requires enormous amounts of bulk material
 
 Where mulch gardening works:
-- Climates where soil freezes solid in winter (kills pest populations)
+- Climates where soil freezes solid in winter (kills [[query-how-do-parasitoid-wasps-control-pest-populations]])
 - Where summer heat is sufficient to decompose mulch rapidly
 - For physically restricted gardeners who cannot dig
 
@@ -74,7 +74,7 @@ Solomon's preference: heap-compost enough material to maintain soil humus, then 
 
 ## Sheet Composting
 
-Sheet composting means spreading nutrient-rich organic material on the soil surface and digging it in. It works faster than surface mulching because decomposition proceeds more rapidly in well-oxygenated soil.
+[[sheet-composting]] means spreading nutrient-rich organic material on the soil surface and digging it in. It works faster than surface mulching because decomposition proceeds more rapidly in well-oxygenated soil.
 
 Key considerations:
 - Time required depends on: layer thickness, C:N of material, soil fertility, and time until planting
@@ -88,32 +88,3 @@ Cautions:
 - In high-rainfall regions, add lime (50 lbs per 1,000 sq ft) each time you sheet-compost
 
 ## The Composting Paradox
-
-When undecomposed organic matter is mixed into soil:
-1. Microorganisms multiply rapidly on the new food supply
-2. They consume almost all available mineral nutrients in the surrounding soil
-3. Plants are temporarily deprived of nutrients (the soil is actually less fertile for a time)
-4. When the food supply is consumed, microbes die and release nutrients back
-5. Some nutrients return as water-soluble chemicals (like fertilizer)
-6. Others return as complex organic chelates that nourish plants like vitamins
-
-This means: you sheet-compost to fertilize, but for a period the soil becomes LESS fertile. Understanding this timing is critical.
-
-## Making Effective Compost
-
-Solomon acknowledges that producing compost that effectively grows vegetables is a highly skilled activity requiring close attention. Low-grade compost for mulching ornamentals is easy; vegetable-quality compost is not.
-
-The key to good compost:
-- Balance C:N materials (aim for an initial mix around 25-30:1)
-- Maintain adequate moisture (like a wrung-out sponge)
-- Ensure adequate oxygen (turn the pile when it cools)
-- Monitor temperature (should reach 130-150°F)
-- Allow sufficient time for full decomposition
-
-See also: [[composting-methods-comparison]], [[complete-organic-fertilizer-recipes]], compost carbon-to-nitrogen [[cannabis-thc-cbd-ratio-guide-for-conditions]]
-- [[teaming-with-microbes-gastropods-and-higher-soil-animals]]
-- [[solomon-manure-types-and-nutrient-values]]
-
-[[teaming-with-microbes-compost-biology]]
-[[animal-manure-guide]]
-[[teaming-with-microbes-no-till-gardening-soil-health]]

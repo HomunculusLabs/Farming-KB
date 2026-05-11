@@ -26,9 +26,9 @@ sources:
 
 ## Overview
 
-Azolla caroliniana, commonly known as Carolina azolla or mosquito fern, is a small free-floating aquatic fern native to eastern North America. It forms a symbiotic relationship with the cyanobacterium *Anabaena azollae*, enabling it to fix atmospheric nitrogen and rapidly multiply on water surfaces.
+Azolla caroliniana, commonly known as Carolina azolla or mosquito fern, is a small free-floating aquatic fern native to [[polypore-fungi-eastern-north-america]]. It forms a symbiotic relationship with the cyanobacterium *Anabaena azollae*, enabling it to fix atmospheric nitrogen and rapidly multiply on water surfaces.
 
-The species is widely utilized in permaculture, rice paddy agriculture, and aquaculture as a living biofertilizer, water purifier, and livestock feed supplement. Its ability to double its biomass in 2–5 days under optimal conditions makes it one of the fastest-growing plants on Earth.
+The species is widely utilized in permaculture, rice paddy agriculture, and aquaculture as a living biofertilizer, water purifier, and [[livestock-feed-formulation]] supplement. Its ability to double its biomass in 2–5 days under optimal conditions makes it one of the fastest-growing plants on Earth.
 
 A. caroliniana is one of seven recognized *Azolla* species and is distinguished by its relatively cold tolerance compared to tropical congeners like *A. pinnata* and *A. filiculoides*.
 
@@ -62,15 +62,15 @@ The species thrives in still or slow-moving freshwater habitats including ponds,
 
 Unlike its tropical relatives, *A. caroliniana* can survive winter temperatures by producing dormant sporocarps that sink to the bottom and germinate when conditions improve in spring. This cold tolerance makes it the preferred species for [[permaculture-designers-manual-temperate-climate-design]] permaculture applications.
 
-The sporocarps are bean-shaped structures containing both megaspores and microspores, which are released simultaneously during germination to initiate new colonies. Sporocarp production is triggered by shortening day length and cooler temperatures in autumn.
+The sporocarps are bean-shaped structures containing both megaspores and microspores, which are released simultaneously during germination to initiate new colonies. Sporocarp production is triggered by shortening [[coleman-winter-day-length-and-persephone-months]] cooler temperatures in autumn.
 
 The plant is sensitive to high salinity, pH extremes (optimal range 5.5–7.0), and strong water currents. It cannot tolerate deep shade, which limits its growth beneath dense canopy cover.
 
 ## Permaculture and Agricultural Applications
 
-A. caroliniana has been used as a green manure in rice paddies for centuries, particularly in East and Southeast Asia where *Azolla* cultivation is a traditional agricultural practice. Inoculating rice paddies with *Azolla* before transplanting can supply 30–60% of the crop's nitrogen requirements.
+A. caroliniana has been used as a green manure in rice paddies for centuries, particularly in East and [[psilocybe-southeast-asia-pacific]] where *Azolla* cultivation is a traditional agricultural practice. Inoculating rice paddies with *Azolla* before transplanting can supply 30–60% of the crop's nitrogen requirements.
 
-In permaculture systems, *Azolla* serves multiple functions simultaneously. As a nitrogen-fixing mulch, it can be harvested and applied directly to garden beds as a high-nitrogen green manure. Its rapid growth rate allows for repeated harvesting every 7–14 days during the growing season.
+In permaculture systems, *Azolla* serves multiple functions simultaneously. As a nitrogen-fixing mulch, it can be harvested and applied directly to garden beds as a high-nitrogen green manure. Its rapid growth rate allows for repeated harvesting every 7–14 days during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The fern's dense surface mat suppresses mosquito larvae by blocking oviposition sites, despite the common name "mosquito fern." It also reduces water evaporation from ponds and water features by up to 60%, a significant benefit in arid climate water management.
 
@@ -80,40 +80,10 @@ In aquaculture, *Azolla* is fed to fish, ducks, and livestock as a protein-rich 
 
 ## Bioactive Compounds
 
-*A. caroliniana* contains several bioactive compounds of interest. Phenolic compounds including flavonoids and tannins exhibit antioxidant and antimicrobial activity in laboratory studies.
+*A. caroliniana* contains several bioactive compounds of interest. [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including flavonoids and tannins exhibit antioxidant and antimicrobial activity in laboratory studies.
 
 The plant accumulates significant quantities of carotenoids, including lutein and beta-carotene, contributing to its nutritional value as an animal feed supplement. Anthocyanin content increases under environmental stress, providing additional antioxidant capacity.
 
 Triterpenoids isolated from *Azolla* species have shown anti-inflammatory and hepatoprotective effects in animal models. These findings are preliminary and specific to *A. caroliniana* have not been extensively studied.
 
 ## Cultivation Methods
-
-Cultivating *A. caroliniana* requires minimal infrastructure. A shallow container or pond with still freshwater, full to partial sun exposure, and moderate temperatures (18–28°C) are sufficient for vigorous growth.
-
-Inoculation begins with a small starter culture of healthy green fronds. The initial colony should be protected from wind disturbance and water current until it establishes sufficient biomass to form a self-sustaining mat.
-
-Nutrient requirements are low because the *Anabaena* symbiont supplies nitrogen. However, phosphorus is the primary limiting nutrient and may need supplementation in phosphorus-poor water sources. A general guideline is 20–40 ppm phosphorus in the water column for optimal growth.
-
-Harvesting is performed by scooping surface biomass from the pond. Removing no more than 50–60% of the mat at each harvest allows rapid regrowth. Harvested material can be applied directly as mulch, composted, or fed to livestock.
-
-Common problems include overgrowth leading to oxygen depletion in contained water bodies, predation by aquatic insects and snails, and competition from duckweed (*Lemna* spp.) in mixed aquatic systems. Managing these issues requires regular monitoring and partial harvesting to maintain open water surface area.
-
-## Ecological Significance
-
-The *Azolla*-Anabaena symbiosis has profound implications for global biogeochemical cycles. The so-called "Azolla Event" of the Eocene epoch (approximately 49 million years ago) involved massive *Azolla* blooms in the Arctic Ocean that sequestered enormous quantities of atmospheric carbon, contributing to a period of global cooling.
-
-Fossil evidence shows that *Azolla* covered vast areas of the Arctic Ocean for nearly 800,000 years during the early Eocene, burying an estimated 10⁸ tonnes of organic carbon in marine sediments. This natural carbon sequestration event has attracted scientific interest as a potential model for bio-based climate mitigation strategies.
-
-In modern ecosystems, *A. caroliniana* plays important roles in freshwater nutrient cycling. The fern captures dissolved nitrogen and phosphorus from water, converting these nutrients into harvestable biomass that can be removed from aquatic systems to prevent eutrophication.
-
-Wild populations of *A. caroliniana* provide habitat and food for aquatic invertebrates, amphibian larvae, and waterfowl. The dense floating mats create microhabitats that support diverse communities of microscopic organisms.
-
-## See Also
-
-- [[cabomba-caroliniana]]
-
-- [[carpinus-caroliniana]]
-
-- `[[trifolium-repens]]` — Terrestrial nitrogen-fixing ground cover for comparison
-- `[[stropharia-rugosoannulata]]` — Permaculture mushroom compatible with Azolla mulch systems
-- `[[trametes-versicolor-entity]]` — Decomposer fungus relevant to Azolla compost systems

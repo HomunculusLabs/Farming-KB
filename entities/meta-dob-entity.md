@@ -79,7 +79,7 @@ dob-entity|DOB: 1-3 mg active dose, 12-24 hour duration, clean [[leary-psychedel
 
 META-DOB: 50-100 mg active dose, 5-6 hour duration, toxic physical effects dominate.
 
-This 30-50-fold difference in potency between positional isomers demonstrates that [[doc-entity-pihkal]]|DOC: the 4-chloro-2,5-dimethoxy isomer
+This 30-50-fold difference in potency between positional isomers demonstrates that [[doc]]|DOC: the 4-chloro-2,5-dimethoxy isomer
 - [[phenethylamine-pharmacology]]: general pharmacology
 
 ## See Also

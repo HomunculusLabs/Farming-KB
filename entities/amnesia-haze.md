@@ -88,28 +88,3 @@ The "Original Amnesia" phenotype is characterized by slightly shorter flowering 
 A "Caramel" variant has been identified in some European markets, expressing sweeter [[cannabis-terpene-profiles-sativa]] with reduced limonene and increased ocimene. This pheno tends to produce slightly lower THC but offers a smoother smoking experience.
 
 The "Amnesia Mac" cross, combining Amnesia Haze with MAC genetics, represents a modern breeding trend. This hybrid aims to retain Amnesia's cerebral effects while reducing flowering time and increasing bud density through indica influence.
-
-## Side Effects and Contraindications
-
-The most commonly reported side effects of Amnesia Haze are dry mouth (cottonmouth) and dry eyes, both attributable to THC's interaction with cannabinoid receptors in salivary and lacrimal glands. These effects are mild and easily managed with hydration.
-
-At higher doses or in sensitive individuals, Amnesia Haze can produce anxiety, paranoia, and elevated heart rate. The strain's potent sativa effects may be overwhelming for novice consumers or those with a low THC tolerance.
-
-Due to its stimulating properties, Amnesia Haze is generally not recommended for evening or bedtime use. Patients with a history of THC-induced psychosis or severe anxiety disorders should exercise caution.
-
-The low CBD content means minimal antipsychotic counterbalance to THC's psychoactive effects. This contrasts with CBD-rich cultivars and may explain the strain's higher propensity for anxiety in susceptible individuals at elevated doses.
-
-## See Also
-
-- [[cis-haze]]
-
-- [[northern-lights]]
-- [[chemdawg]]
-- [[wedding-cake]]
-- [[sour-diesel]]
-- [[runtz-entity]]
-- [[ak-47-cannabis]]
-- [[green-crack]]
-- [[girl-scout-cookies]]
-- [[animal-cookies]]
-- [[cannabis-indoor-growing-basics]]

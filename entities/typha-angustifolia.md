@@ -88,32 +88,3 @@ The species also shows promise for organic pollutant removal, including petroleu
 *T. angustifolia* is readily propagated from rhizome divisions planted in shallow water (5–30 cm depth) during spring. Established stands spread rapidly through rhizomatous growth, often expanding 0.5–1.5 m per year. Seed germination requires moist, exposed sediment and is less reliable than vegetative propagation.
 
 In constructed treatment wetlands, cattail is planted at densities of 4–8 plants per square meter. Stands reach full coverage within 2–3 growing seasons. Harvesting above-ground biomass annually removes accumulated nutrients and prevents excessive litter buildup that can impede water flow.
-
-Control of unwanted cattail expansion typically involves cutting below the waterline in late summer to deplete rhizome carbohydrate reserves. Herbicide application with glyphosate or imazapyr is effective but may impact non-target wetland species. Water level manipulation — flooding to 30+ cm or drawdown — can suppress stands if timed to coincide with peak rhizome growth.
-
-## Invasive Potential
-
-In North America, *T. angustifolia* and its hybrid *T. × glauca* have displaced native wetland vegetation across the Great Lakes region and northern prairie potholes. The hybrid is particularly aggressive, producing more biomass and reproducing both sexually and vegetatively.
-
-Invasive stands reduce plant species richness by up to 90% in affected areas, forming dense monocultures that exclude sedges, grasses, and forbs. This loss of plant diversity cascades through the food web, reducing habitat quality for marsh-nesting birds and amphibians.
-
-Management strategies for invasive cattail include prescribed burning, grazing, water-level manipulation, and targeted herbicide application. Integrated approaches combining multiple methods yield the best long-term control. Restoring native hydrology by reversing drainage is often the most effective long-term strategy.
-
-Genetic studies have confirmed that the invasive *T. × glauca* populations in the Great Lakes region originate from multiple independent hybridization events. This genetic diversity contributes to their adaptability across a range of environmental conditions.
-
-## See Also
-
-- [[elaeagnus-angustifolia]]
-
-- [[typha-domingensis]]
-
-- [[phragmites-australis]]
-- [[nasturtium-officinale]]
-- [[azolla-filiculoides]]
-- [[nymphaea-alba]]
-- [[phytoremediation]]
-- [[pistia-stratiotes]]
-- [[nuphar-lutea]]
-- [[canna-indica]]
-
-- [[typha-latifolia]]

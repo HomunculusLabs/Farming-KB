@@ -87,36 +87,3 @@ Bitternut hickory is a preferred fuelwood species due to its high energy content
 The wood bends well when steamed and holds nails securely, making it suitable for bent-wood furniture construction. However, it can be difficult to season without checking.
 
 In the hickory smoking tradition, bitternut is sometimes used for curing meats, though it is considered inferior to shagbark or pecan for this purpose due to its somewhat harsher smoke flavor.
-
-## Related Species
-
-[[carya-illinoinensis]] (pecan) is the most commercially important relative, native to the south-central United States and northern Mexico. Pecan has larger, sweeter nuts and thinner husks.
-
-[[carya-ovata]] (shagbark hickory) is a closely related species with distinctively exfoliating bark and sweet, edible nuts. It occupies similar forest types but prefers drier upland sites.
-
-[[carya-glabra]] (pignut hickory) overlaps extensively in range with bitternut hickory and is often difficult to distinguish in the field. Pignut hickory has pear-shaped buds lacking the yellow powder and slightly thicker husks.
-
-Both species frequently co-occur in bottomland forests and share many wildlife associations.
-
-Other relatives include [[juglans-nigra]] (black walnut) and [[juglans-regia]] (Persian walnut) in the same family. Black walnut produces highly valued timber and edible nuts.
-
-Hybridization between *Carya cordiformis* and other hickories is rare but documented, particularly with pecan in areas of range overlap.
-
-The species name "bitternut" directly references the intensely astringent kernel, which contains tannins and bitter alkaloids absent in sweeter hickory species. Despite this, Native American groups historically used the nuts for food after extensive leaching.
-
-Bitternut hickory has a moderate growth rate, averaging 30–60 cm of height gain per year on favorable sites. Maximum age is approximately 200 years, with exceptional individuals reaching 250 years on bottomland sites.
-
-The root system is deep and widespreading, with a strong taproot that makes the species relatively windfirm. This extensive root network contributes to soil stabilization on riparian sites.
-
-## See Also
-
-- [[carya-cathayensis]]
-
-- [[carya-illinoinensis]]
-- [[carya-ovata]]
-- [[carya-glabra]]
-- [[juglans-nigra]]
-- [[juglans-regia]]
-- [[quercus-rubra]]
-- [[fagus-grandifolia]]
-- [[acer-saccharum]]

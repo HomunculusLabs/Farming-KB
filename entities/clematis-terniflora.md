@@ -21,7 +21,7 @@ sources:
 
 Clematis terniflora, commonly known as sweet autumn clematis or sweet autumn virgin's bower, is a vigorous deciduous climbing vine in the family Ranunculaceae.
 
-Native to East Asia, it is widely cultivated for its profuse display of small, fragrant white flowers that blanket the plant in late summer and early autumn. The species has naturalized aggressively in eastern North America, where it is considered an invasive plant in several states.
+Native to East Asia, it is widely cultivated for its profuse display of small, fragrant white flowers that blanket the plant in late summer and early autumn. The species has naturalized aggressively in [[polypore-fungi-eastern-north-america]], where it is considered an invasive plant in several states.
 
 Its dense, twining growth habit allows it to smother shrubs and small trees, forming thick mats that shade out native vegetation. Despite its invasive tendencies, it remains one of the most popular and widely sold clematis species in the nursery trade.
 
@@ -49,13 +49,13 @@ Fruit is a compressed achene with a persistent, plumose style forming a silky ta
 
 ## Distribution and Habitat
 
-Clematis terniflora is native to Japan, Korea, China (including Taiwan), and parts of Southeast Asia including Vietnam and Laos.
+Clematis terniflora is native to Japan, Korea, China (including Taiwan), and parts of [[psilocybe-southeast-asia-pacific]] including Vietnam and Laos.
 
 In its native range, it inhabits forest edges, thickets, streambanks, and disturbed areas at elevations from sea level to 1,500 meters. The species thrives in full sun to partial shade on a variety of soil types.
 
 It shows a preference for moist, fertile, slightly acidic to neutral soils but tolerates clay, loam, and sandy substrates. Seasonal flooding of riparian habitats does not appear to limit establishment in its native range.
 
-In North America, it has naturalized from New York to Florida and west to Texas and Missouri, with scattered populations in the Pacific Northwest. It colonizes roadsides, fence rows, forest margins, and riparian corridors.
+In North America, it has naturalized from New York to Florida and west to Texas and Missouri, with scattered populations in the [[psilocybin-north-america-pacific-northwest]]. It colonizes roadsides, fence rows, forest margins, and riparian corridors.
 
 The species is classified as invasive in Delaware, Maryland, Virginia, Pennsylvania, New Jersey, and several other eastern states due to its rapid spread.
 
@@ -75,7 +75,7 @@ Propagation is by seed, softwood cuttings in early summer, or semi-hardwood cutt
 
 Growth rate is vigorous, with established vines capable of adding 3-5 meters of new growth per season. The vine readily self-seeds in favorable conditions, which gardeners may welcome or find problematic.
 
-The species tolerates urban pollution, salt spray near coasts, and drought once established. This resilience makes it a common choice for difficult sites including chain-link fences, embankments, and retaining walls.
+The species tolerates urban pollution, salt spray near coasts, and drought once established. This resilience makes it a common choice for [[permaculture-difficult-sites-plant-guide]] including chain-link fences, embankments, and retaining walls.
 
 ## Ecological Role
 
@@ -87,35 +87,4 @@ The plumed achenes provide nesting material for birds and small mammals. The den
 
 In North America, its invasive impacts include suppression of native shrubs and herbaceous plants through shading and mechanical weight. It can topple small trees under the sheer mass of its growth, opening canopy gaps that favor further invasion.
 
-Management strategies include hand-pulling young plants, cutting vines at the base before seed set, and targeted herbicide application to cut stems during the growing season.
-
-Biological control research has identified several potential agents in the native range, though none have been approved for release. Goats and sheep will browse young shoots, providing a grazing management option in accessible sites.
-
-Seed production is prolific, with a single mature vine capable of producing thousands of wind-dispersed achenes annually. This high reproductive output contributes significantly to its invasive potential across fragmented landscapes.
-
-## Uses
-
-In traditional Chinese medicine, Clematis terniflora root (威灵仙, wei ling xian) has been used for centuries as an anti-rheumatic and analgesic agent.
-
-Phytochemical studies have identified ranunculin, protoanemonin, oleanolic acid, hederagenin, and various saponins in the roots and aerial parts. Several isolated compounds show anti-inflammatory, antinociceptive, and cytotoxic activities in laboratory studies.
-
-The essential oil of the flowers contains linalool, methyl anthranilate, and indole, contributing to its distinctive sweet fragrance. This fragrance profile has attracted interest from the perfumery industry.
-
-In ornamental horticulture, it is valued for reliable late-season bloom, tolerance of challenging sites, and ability to cover large structures quickly. Popular cultivars include 'Paniculata' (compact form) and selected forms with enhanced fragrance.
-
-All parts of the plant contain protoanemonin, which is toxic if ingested and can cause skin irritation in sensitive individuals. Handling the sap may produce contact dermatitis in susceptible people, a trait shared with many Ranunculaceae members.
-
-Despite its toxicity concerns, the plant has been used in traditional Japanese knot-tying and basket weaving. The strong, flexible stems can be split and woven when freshly harvested during the dormant season.
-
-## See Also
-
-- [[clematis-vitalba]]
-- [[clematis-montana]]
-- [[ranunculus-acris]]
-- [[anemone-nemorosa]]
-- [[helleborus-orientalis]]
-- [[aconitum-napellus]]
-- [[thalictrum-aquilegiifolium]]
-- [[ranunculus-repens]]
-- [[delphinium-elatum]]
-- [[nigella-sativa]]
+[[weed-management-strategies]] include hand-pulling young plants, cutting vines at the base before seed set, and targeted herbicide application to cut stems during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].

@@ -87,36 +87,3 @@ Chloroplast structure is partially disassembled during drying but reconstituted 
 Respiratory metabolism resumes within minutes of rehydration, preceding the recovery of photosynthesis by 15–30 minutes. This sequential recovery pattern is consistent across populations from diverse climatic origins.
 
 ## Research Significance
-
-Tortula muralis has been used as a model organism for studying bryophyte responses to urban air pollution. Its widespread distribution and proximity to pollution sources make it a convenient bioindicator species.
-
-Heavy metal accumulation studies have demonstrated elevated concentrations of lead, zinc, and cadmium in urban populations. Translocation patterns suggest both atmospheric deposition and substrate uptake as contamination pathways.
-
-The species has been used in experimental studies of succession on artificial substrates. Colonization rates, competitive interactions with other bryophytes, and community development have been documented over multi-year timescales.
-
-The species' genome has been partially characterized through transcriptomic sequencing. Comparative studies with other Pottiaceae species are elucidating the molecular basis of desiccation tolerance and heavy [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]].
-
-## See Also
-
-- [[tortula-ruralis]]
-
-- [[syntrichia-ruralis]]
-- [[ceratodon-purpureus]]
-- [[grimmia-pulvinata]]
-- [[bryum-argenteum]]
-- [[hypnum-cupressiforme]]
-- [[dicranum-scoparium]]
-- [[funaria-hygrometrica]]
-- [[polytrichum-commune]]
-- [[pleurozium-schreberi]]
-- [[leucobryum-glaucum]]
-- [[sphagnum-palustre]]
-- [[aulacomnium-palustre]]
-- [[climacium-dendroides]]
-- [[thuidium-delicatulum]]
-- [[mnium-hornum]]
-- [[rhytidiadelphus-triquetrus]]
-- [[polytrichum-formosum]]
-- [[sphagnum-magellanicum]]
-- [[rhodobryum-giganteum]]
-- [[dicranum-polysetum]]

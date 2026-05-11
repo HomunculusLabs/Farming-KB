@@ -88,35 +88,3 @@ chemovars and may contribute to:
   particularly CBD and CBG.
 
 Cannabis strains reported to contain elevated guaiol levels include some OG Kush
-phenotypes and certain Afghan landrace-descended varieties, though terpene
-profiles vary significantly by growing conditions and chemovar.
-
-## Industrial and Commercial Uses
-
-- **Perfumery**: Guaiacwood oil (rich in guaiol and guaiene isomers) is a
-  valued base note in fine fragrances, providing woody, tenacious, and slightly
-  sweet character. Used in men's colognes, oriental fragrances, and amber-type
-  accords.
-- **Traditional medicine**: Guaiacum wood extracts have been used historically
-  in Caribbean and Central American folk medicine as an anti-inflammatory and
-  for treating respiratory conditions, arthritis, and gout. Guaiacum resin was
-  once a European pharmacopeial drug.
-- **Incense and aromatherapy**: Guaiacwood is burned as incense in spiritual
-  and meditative contexts. The essential oil is used in aromatherapy for its
-  grounding, calming aroma.
-
-## Related Compounds
-
-- **Bulnesol**: A structural isomer found in *Bulnesia sarmientoi* (quebracho
-  wood); nearly identical pharmacological profile.
-- **Guaiene** (α- and β-): Sesquiterpene hydrocarbons from guaiacwood oil;
-  guaiol is the corresponding alcohol derivative.
-- **Cedrol**: Bicyclic sesquiterpene alcohol from cedarwood; same molecular
-  formula (C₁₅H₂₆O) but different ring system (cedrane skeleton).
-- **Eudesmol**: Eudesmane-skeleton sesquiterpene alcohol found in eucalyptus and
-  ginger; close structural relative.
-
-## See Also
-
-- [[bacillus-subtilis]]
-- [[candida-albicans]]

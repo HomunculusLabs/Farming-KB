@@ -5,7 +5,7 @@ tags:
   - legume
   - fabaceae
   - food-crop
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixer
   - ancient-crop
 date: 2026-05-08
@@ -85,46 +85,5 @@ harvests. Growth period is 60–120 days for snap beans, 90–140 days for
 dry beans.
 
 Average global yields are 600–900 kg/ha; irrigated systems achieve
-2,500–3,500 kg/ha. Major constraints include angular leaf spot,
-anthracnose, bacterial blight, bean rust, and root rot complexes.
-
-## Nutritional and Medicinal Value
-
-Dry beans contain 20–25% protein, 55–65% carbohydrates, and 1–2% fat. They
-are rich in folate (140–150 µg/100 g), iron (5–8 mg/100 g), zinc,
-potassium, and fiber (15–25 g/100 g).
-
-Bean protein is lysine-rich but deficient in methionine and cysteine. This
-complementary profile with cereals makes bean-grain combinations
-nutritionally complete. Regular consumption is associated with reduced
-cardiovascular disease risk and improved glycemic control.
-
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include lectins (destroyed by cooking), phytic acid,
-saponins, and phenolic antioxidants. Bean-derived resistant starch promotes
-beneficial gut microbiome diversity.
-
-## Ecology and Permaculture
-
-Common bean fixes nitrogen through symbiosis with *Rhizobium leguminosarum*
-sv. *phaseoli*, contributing 20–60 kg N/ha. Effective nodulation requires
-appropriate inoculation in soils without prior bean cultivation.
-
-As the legume component of the Three Sisters polyculture, climbing beans use
-maize stalks for support while fixing nitrogen for maize and squash. In
-permaculture designs, pole beans serve as productive vertical elements on
-trellises and in food forest understories.
-
-Bush beans function as effective nitrogen-fixing ground covers in guild
-plantings. The crop fits well into rotations with cereals, tubers, and
-vegetables, contributing [[hamilton-composting-and-organic-matter-management]] and residual nitrogen.
-
-## See Also
-
-- [[phaseolus-lunatus]]
-
-- [[glycine-max]] — soybean, major warm-season legume
-- [[vigna-unguiculata]] — cowpea, heat-tolerant legume
-- [[cicer-arietinum]] — chickpea, [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern legume
-- [[ipomoea-batatas]] — [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], complementary root crop
-- [[companion-planting]] — intercropping strategies
-- permaculture — sustainable design framework
+2,500–3,500 kg/ha. Major constraints include angular [[jadam-canker-leaf-spot-pesticide]],
+anthracnose, bacterial blight, bean rust, and [[cannabis-root-rot-prevention-and-treatment]] complexes.

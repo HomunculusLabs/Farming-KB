@@ -1,5 +1,5 @@
 ---
-title: "[[cotter-compost-substrate-preparation-manure-mushroom-cultivation|Compost]] Phase I Preparation and Raw Materials"
+title: Mushroom Cultivator Phase I Composting
 created: 2026-04-28
 tags: [mycology, composting, substrate-preparation, mushroom-cultivator, phase-i-composting]
 date: 2026-04-25
@@ -87,12 +87,3 @@ ratio gradually decreases: approximately 30:1 at make-up, 20:1 at
 filling, and 17:1 at spawning. Over-supplementation with nitrogen
 causes prolonged ammonia release, while excess carbohydrates leave
 residual carbon compounds that feed competitors.
-
-## Dry Matter Loss
-
-Approximately 40% of dry matter is reduced by microbial and chemical
-processes during composting: 20-30% during Phase I and another
-10-15% during Phase II. This demonstrates the importance of not
-## See Also
-
-- [[mushroom-cultivator-phase-ii-composting-biology]]

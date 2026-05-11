@@ -21,7 +21,7 @@ sources:
 
 **Solidago odora**, commonly known as anise-scented goldenrod, sweet goldenrod, or blue mountain tea, is a rhizomatous perennial herb in the family Asteraceae. It is native to the eastern and central United States, where it occurs in dry, open woodlands, sandy barrens, and rocky ridges.
 
-The species is distinguished from other goldenrods by the anise-like fragrance of its crushed leaves and its slender, wand-like inflorescences. This characteristic aroma has made it one of the most historically significant goldenrods in [[growing-gourmet-north-american-reishi-species]] herbal medicine.
+The species is distinguished from other goldenrods by the anise-like fragrance of its crushed leaves and its slender, wand-like inflorescences. This characteristic aroma has made it one of the most historically significant goldenrods in [[growing-gourmet-north-american-reishi-species]] [[childrens-herbal-medicine]].
 
 S. odora was adopted as the state wildflower of Delaware in 2019, recognizing its ecological importance and cultural heritage. It is valued in horticulture for its compact form, pleasant scent, and attractiveness to pollinators.
 
@@ -73,42 +73,18 @@ Dried flower heads retain their fragrance for months and are used in dried arran
 
 ## Ethnobotanical and Medicinal Uses
 
-Solidago odora has a long history of use in North American folk medicine. The dried leaves and flowering tops were brewed into a tea known as "blue mountain tea" or "Appalachian tea," consumed as a beverage and as a remedy for colds, coughs, and digestive complaints.
+Solidago odora has a long history of use in [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] folk medicine. The dried leaves and flowering tops were brewed into a tea known as "blue mountain tea" or "Appalachian tea," consumed as a beverage and as a remedy for colds, coughs, and digestive complaints.
 
 The Cherokee used an infusion of the plant for fever, neuralgia, and kidney ailments. The Catawba employed it as a snuff for nosebleed, while the Creek used the roots for a variety of conditions.
 
-European settlers adopted the plant's use, and it was listed in the *United States Dispensatory* in the 19th century as a mild diaphoretic and carminative. The anise-scented tea remained a popular folk remedy in the Appalachian region well into the 20th century.
+European settlers adopted the plant's use, and it was listed in the *United States Dispensatory* in the 19th century as a mild diaphoretic and carminative. The anise-scented tea remained a popular folk remedy in the [[bolete-fungi-appalachian-region]] well into the 20th century.
 
 Phytochemical analysis has identified methyl chavicol (estragole), diterpenes, flavonoids, and saponins in the aerial parts. Anti-inflammatory and antimicrobial activity has been demonstrated in preliminary in vitro studies, though clinical validation is lacking.
 
 The tea was traditionally consumed both hot and cold, with honey added to mask any residual bitterness from the tannin-rich leaves.
 
-Contemporary herbalists occasionally recommend S. odora as a milder alternative to other Solidago species in urinary tract preparations, though this usage is not supported by clinical trials.
+Contemporary herbalists occasionally recommend S. odora as a milder alternative to other Solidago species in urinary tract preparations, though this usage is not supported by [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]].
 
-The essential oil obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the flowering tops has been investigated for its aromatic and potential therapeutic properties, though commercial production is limited.
+The [[permaculture-designers-manual-essential-oil-plants]] obtained by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the flowering tops has been investigated for its aromatic and potential [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]], though commercial production is limited.
 
 Yield of dried herb is approximately 200 to 400 grams per square meter when harvested at peak bloom.
-
-## Ecological Role
-
-Anise-scented goldenrod is an important late-season nectar source for native bees, honey bees, butterflies, and moths. Its extended bloom period from August through October provides critical forage during a time when many other wildflowers have finished flowering.
-
-The species is a noted host plant for the goldenrod hooded owlet moth (*Cucullia asteroides*) and various gall-forming insects. Goldenrod galls are less commonly observed on S. odora than on more robust species like S. canadensis.
-
-The pollen of S. odora is moderately heavy and not readily wind-dispersed, contributing to the undeserved reputation of goldenrods as hay fever triggers.
-
-The seeds provide food for sparrows, juncos, and other ground-feeding birds through autumn and winter. The dense, low foliage offers cover for small mammals and ground-nesting insects.
-
-In ecological restoration, S. odora is included in native meadow and woodland edge seed mixes for dry, sandy sites. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to persist on nutrient-poor soils make it a reliable component of sustainable landscapes.
-
-The species is one of the last goldenrods to bloom in the fall, providing a critical nectar bridge for migrating monarch butterflies and late-season bumble bee queens preparing for overwintering.
-
-## See Also
-
-- solidago-virgaurea
-- [[echinacea-purpurea]]
-- [[achillea-millefolium]]
-- [[coreopsis-lanceolata]]
-- [[echinacea-angustifolia]]
-- [[helianthus-tuberosus]]
-- [[helianthus-annuus-entity]]

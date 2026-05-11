@@ -88,39 +88,3 @@ In Traditional Chinese Medicine (TCM), *O. sinensis* has been used for over 500 
 It is classified as a "sweet, warm" herb that tonifies the kidneys, lungs, and blood, and is traditionally prescribed for fatigue, chronic cough, and sexual dysfunction.
 
 Modern [[hofmann-lsd-clinical-research-early-studies]] has investigated the fungus for:
-
-- Respiratory support in chronic obstructive pulmonary disease (COPD) and asthma.
-- Renal protection in chronic kidney disease, with studies showing improved eGFR and reduced proteinuria.
-- Immunomodulation in post-surgical recovery and chemotherapy adjunct therapy.
-- Athletic performance enhancement, with studies showing improved VO2 max and endurance.
-
-The market for *O. sinensis* products (wild, cultivated mycelium, and fermentation-derived) exceeds USD $10 billion annually.
-
-## Conservation and Cultivation
-
-Wild *O. sinensis* populations have declined by an estimated 30–50% over the past two decades due to overharvesting and climate change.
-
-The species was listed as **Vulnerable** by IUCN in 2020, and collection quotas have been implemented by Chinese regional governments.
-
-Climate warming is reducing the alpine habitat zone as permafrost thaws and vegetation shifts upward, compressing the species' narrow ecological niche.
-
-[[fukuoka-matsutake-artificial-cultivation-attempt]] of the fruiting body has proven extremely difficult due to the complex host-parasite relationship and specific environmental requirements.
-
-Commercial production relies primarily on **fermentation of the mycelium** on liquid or solid substrates (typically rice or silkworm pupae).
-
-*Ophiocordyceps militaris* (cultivated fruiting body) is widely used as a more affordable and sustainable alternative, though its chemical profile differs.
-
-DNA barcoding is increasingly used to detect adulteration, as wild-harvested *O. sinensis* is frequently counterfeited with related species or artificial imitations.
-
-## See Also
-
-- [[cordyceps-militaris]]
-- [[ganoderma-lucidum]]
-- [[trametes-versicolor-entity]]
-- [[hericium-erinaceus]]
-- [[psilocybe-cubensis]]
-- [[agaricus-bisporus]]
-- [[laetiporus-sulphureus]]
-- [[pleurotus-ostreatus]]
-- [[paxillus-involutus]]
-- [[tremella-fuciformis]]

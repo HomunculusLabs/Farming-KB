@@ -87,28 +87,3 @@ Stable isotope probing (SIP) incorporates labeled isotopes (typically ^13C or ^1
 While metabarcoding reveals which fungi are present (based on DNA), metatranscriptomics sequences RNA to determine which fungal genes are actively being expressed. This approach provides insights into functional roles of fungi in ecosystems, identifying metabolic pathways and ecological processes in real-time.
 
 ## Standardization and Quality Control
-
-### Reference Databases
-Accurate fungal identification depends on comprehensive reference databases. UNITE, GenBank, and specialized databases provide curated reference sequences for fungal barcode regions. Regular database updates are essential as new species are described. Voucher specimens and cultures underpin reliable identifications.
-
-### Methodological Standardization
-Inter-laboratory comparability requires standardized protocols for sample collection, DNA extraction, PCR amplification, and sequencing. The Earth Microbiome Project and other initiatives have established best practices that improve reproducibility across studies.
-
-## Future Directions
-
-### Portable Sequencing
-Field-deployable sequencers (Oxford Nanopore, iSeq) enable real-time fungal identification in remote locations. This technology is transforming fungal surveys by reducing the need for sample transport and laboratory infrastructure.
-
-### AI-Assisted Identification
-Artificial intelligence systems trained on large image databases can identify fungi from photographs with increasing accuracy. These tools are becoming valuable for both citizen science and professional mycology.
-
-### Synthetic Biology Approaches
-Engineering biosensors that respond to specific fungal metabolites or enzymes enables rapid environmental detection. These systems are being developed for agricultural pathogen monitoring and environmental assessment.
-
-## See Also
-
-- [[mycological-dark-taxa]]
-- [[fungal-kingdom-overview]]
-- [[fungal-taxonomic-impediment]]
-- [[fungal-biodiversity-estimation-methods]]
-- [[molecular-phylogenetics-fungal-systematics]]

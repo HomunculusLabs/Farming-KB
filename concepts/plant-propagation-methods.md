@@ -9,7 +9,7 @@ sources: []
 
 # Plant Propagation Methods
 
-Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/vegetative propagation (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics. (see [[psychedelic-plants-indoor-growing]]).
+Plant propagation is the process of creating new plants from existing ones. Methods fall into two broad categories: sexual propagation (from seeds) and asexual/[[hamilton-vegetative-propagation]] (from plant parts). Vegetative methods produce clones genetically identical to the parent plant, preserving desired traits. Seed propagation introduces genetic variation, which is valuable for breeding but may not preserve specific characteristics.
 
 ## Seed Propagation
 
@@ -28,13 +28,13 @@ Seed propagation is the most common method for annual vegetables, herbs, and man
 
 ### Seed Treatment Methods
 
-- **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials. (see [[nitrogen-fixing-trees-and-shrubs]]).
-- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: morning glories, locust, redbud, moonflower. (see [[query-how-to-propagate-woody-herbs-from-cuttings]]).
+- **Stratification**: Cold, moist treatment to break dormancy. Place seeds in moist sand or paper towel in a plastic bag, refrigerate for 30-120 days. Common for: apples, peaches, cherries, pawpaw, many native perennials.
+- **Scarification**: Breaking or weakening the seed coat to allow water absorption. Methods: nick with a file, rub with sandpaper, soak in hot (not boiling) water for 12-24 hours. Common for: [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], locust, redbud, moonflower.
 - **Soaking**: Soak seeds in water for 6-24 hours before planting to speed germination. Common for: beans, peas, corn, beets, squash.
 
 ## Cuttings
 
-Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and grow into a new plant. This is one of the most widely used vegetative propagation methods.
+Cuttings are pieces of stem, leaf, or root that are encouraged to form roots and grow into a new plant. This is one of the most widely used [[vegetative-propagation-methods-mollison]].
 **Softwood Cuttings (Spring-Summer)**
 - Take from new, flexible growth that snaps when bent
 - Best for: herbs (basil, mint, rosemary, sage), geraniums, hydrangeas, fuchsia, coleus
@@ -83,7 +83,7 @@ Division is the separation of a clumping plant into smaller sections, each with 
 
 ### When to Divide
 
-- **Spring division**: As growth begins. Best for: most perennials, ornamental grasses, hostas, daylilies, iris
+- **Spring division**: As growth begins. Best for: most perennials, [[ornamental-grasses-guide]], hostas, daylilies, iris
 - **Fall division**: After flowering or foliage dieback. Best for: peonies, bearded iris, oriental poppies, bleeding heart
 
 ### Division Method
@@ -147,4 +147,3 @@ Similar to simple layering but the tip of the branch is buried.
 5. Sever and transplant the following season
 
 **Best for**: blackberries, raspberries, trailing blackberry varieties
-

@@ -1,5 +1,5 @@
 ---
-title: Fungi in Grassland Ecosystems
+title: Biodiversity Fungi Grassland Ecosystems
 created: 2026-04-28
 tags: [mycology, grasslands, prairie, soil fungi, fungal ecology]
 date: 2026-04-28
@@ -15,7 +15,7 @@ pastures, support distinctive fungal communities that play critical
 [[dighton-fungal-roles-in-nutrient-cycling]] cycling, plant health, and soil structure. Although
 grasslands are sometimes overshadowed by forests in mycological research,
 they harbor diverse assemblages of saprotrophic, mycorrhizal, and
-pathogenic fungi that are essential to ecosystem function.
+pathogenic fungi that are essential to [[dighton-mycorrhizal-diversity-ecosystem-function]].
 
 ## Grassland Soil Characteristics and Fungal Habitats
 
@@ -35,7 +35,7 @@ data on grassland fungal diversity. Prairie sites yielded more than 111
 taxa from 5,700 isolates across 25 stands.
 
 Prairies interspersed with southern hardwood forests and savannas are
-prevalent communities in many temperate regions. In deserts, desert
+prevalent communities in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. In deserts, desert
 grasslands, and some forest communities, the above-ground debris often
 consists of relatively intact organic matter (litter) only, creating
 different conditions for fungal colonization.
@@ -65,7 +65,7 @@ groups dominating at different stages of decomposition.
 [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi are particularly important in
 grassland ecosystems. The majority of grass species form arbuscular
 mycorrhizal associations, and these symbioses are critical for
-phosphorus uptake and plant community dynamics.
+phosphorus uptake and plant [[dighton-aquatic-hyphomycete-conidia-community-dynamics]].
 
 AM fungal diversity in grasslands can be substantial, with species of
 Glomus, Gigaspora, Scutellospora, and Acaulospora commonly encountered.
@@ -75,9 +75,9 @@ and fire.
 
 The ratio of host-endemic AM fungal species to generalists likely
 differs between grasslands and forests, reflecting differences in plant
-community structure and root architecture. Mycorrhizal networks also
+[[edaphic-determinants-cannabis-microbiome-community-structure]] and root architecture. Mycorrhizal networks also
 facilitate nutrient transfer between plants, creating below-ground
-connections that stabilize plant community composition.
+connections that stabilize [[mycorrhizal-effects-on-plant-community-composition]].
 
 ## Seasonal Dynamics
 
@@ -88,27 +88,3 @@ biomass fluctuates with root growth cycles of the dominant grasses.
 
 Fire, whether natural or prescribed, dramatically reshapes fungal
 communities. While fire kills some species, many AM fungi survive in
-deep soil layers or within root systems, rapidly recolonizing after
-burning. Post-fire fungal succession can enhance [[ph-and-nutrient-availability-garden-soils]]
-for germinating plants.
-
-## Conservation Importance
-
-Human activities including cultivation, grazing, burning, and
-fertilization significantly alter grassland fungal communities. Conversion
-of native prairie to agricultural use dramatically reduces fungal
-diversity and shifts community composition.
-
-Grasslands are among the most threatened ecosystems globally, with
-conversion rates exceeding those of tropical forests in some regions.
-Protecting grassland [[biodiversity-fungal-biodiversity-estimation-methods]] requires preserving intact
-prairie remnants and restoring degraded grasslands with diverse native
-plantings that support mycorrhizal networks.
-
-## See Also
-
-- [[cynodon-dactylon]]
-
-- [[biodiversity-glomeromycota-diversity]]
-- [[fungal-role-in-carbon-cycling]]
-- [[fungal-succession-in-decomposition]]

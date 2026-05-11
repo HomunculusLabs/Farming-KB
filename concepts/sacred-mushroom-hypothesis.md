@@ -17,11 +17,11 @@ sources:
 
 # Sacred Mushroom Hypothesis
 
-John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *Amanita muscaria* mushroom [[jesus-name-etymology-mushroom-theories]].
+John Marco Allegro's controversial 1970 theory that Christianity originated from a fertility cult centered on the psychoactive *Amanita muscaria* mushroom.
 
 ## The Book
 
-John Marco Allegro (1923-1988), a British philologist and one of the original editors of the Dead Sea Scrolls, published *The Sacred Mushroom and the Cross* in 1970. He argued that Christianity, and indeed all major Near Eastern religions, were derived from an ancient fertility cult whose central sacrament was the psychoactive fly-agaric mushroom [[jesus-name-etymology-mushroom-theories]], *Amanita muscaria*.
+John Marco Allegro (1923-1988), a British philologist and one of the original editors of the Dead Sea Scrolls, published *[[soma-and-the-sacred-mushroom-debate]] and the Cross* in 1970. He argued that Christianity, and indeed all major Near [[amanita-muscaria-in-eastern-religions]], were derived from an ancient fertility cult whose central sacrament was the psychoactive fly-agaric mushroom, *Amanita muscaria*.
 
 ## Core Arguments
 
@@ -38,7 +38,7 @@ Allegro's methodology centered on comparative philology of ancient Near Eastern 
 
 Allegro proposed that ancient Sumerian religion centered on the worship of a primeval mushroom deity associated with fertility, sexuality, and cosmic knowledge. This cult, he argued, persisted underground through millennia, encoded in increasingly cryptic linguistic forms, eventually giving rise to the major religions of the Near East.
 
-He traced what he saw as a continuous tradition from Sumerian mushroom worship through Canaanite religion, Judaism, early Christianity, and Gnosticism.
+He traced what he saw as a continuous tradition from [[sumerian-mushroom-nomenclature]] worship through [[allegro-canaanite-religion-and-the-mushroom]], Judaism, early Christianity, and Gnosticism.
 
 ## Reception and Criticism
 
@@ -68,7 +68,7 @@ Other works in this tradition included Andrija Puharich's *The Sacred Mushroom: 
 These theories shared a common logical structure:
 
 1. Anything resembling a mushroom in art, mythology, or architecture was claimed to be evidence of a mushroom cult.
-2. The absence of direct evidence (plant names, botanical descriptions, preparation methods) was cited as proof of how sacred and secret the mushroom had been.
+2. The absence of direct evidence (plant names, botanical descriptions, [[amanita-muscaria-preparation-methods]]) was cited as proof of how sacred and secret the mushroom had been.
 3. In the "topsy-turvy world of the conspiracy theorist... absence of positive evidence almost always indicates presence, and a negative is frequently positive."
 
 ## Legacy
@@ -81,4 +81,4 @@ The broader question Allegro raised -- whether psychoactive plants played a role
 
 - [[amanita-muscaria-ethnobotany]] for the fly-agaric in Siberian and other cultures
 - [[psychedelic-plants-in-ancient-cultures]] for more credible theories about ancient psychedelic use
-- [[mushroom-folklore-and-culture]] for mushroom folklore
+- [[mushroom-folklore-and-culture]] for [[mushroom-folklore-misinterpretations]]

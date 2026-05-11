@@ -1,5 +1,5 @@
 ---
-title: Plant Training, Pruning, and Yield Maximization - [[greg-green]]'s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Plant Training Pruning And Yield
 created: 2026-04-26
 tags:
   - pruning
@@ -88,12 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

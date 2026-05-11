@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Animal manures are the very best sources of organic matter for soil, improving condition and supplying nutrients. They can be used on any soil type. Some, like poultry manure, require care due to high nitrogen [[agaricus-phase-i-composting]] content. Commercial manure may be adulterated with hormones, herbicides, and pesticides, but stacking for at least a year significantly reduces contamination risk.
+Animal manures are the very best sources of organic matter for soil, improving condition and supplying nutrients. They can be used on any soil type. Some, like poultry manure, require care due to high nitrogen content. Commercial manure may be adulterated with hormones, herbicides, and pesticides, but stacking for at least a year significantly reduces contamination risk.
 
 ## General Guidelines
 
@@ -64,10 +64,25 @@ Animal manures are the very best sources of organic matter for soil, improving c
 
 ## Chickens as Soil Improvers
 
-Half a dozen chickens in a portable house with movable wire-mesh run can be rotated through the vegetable garden. As crops finish, move hens onto the space — they devour green matter (recycling it as high-nitrogen [[agaricus-phase-i-composting]] fertilizer), peck out old seeds, and eat soil pests near the surface.
+Half a dozen chickens in a portable house with movable wire-mesh run can be rotated through the vegetable garden. As crops finish, move hens onto the space — they devour green matter (recycling it as high-nitrogen fertilizer), peck out old seeds, and eat soil pests near the surface.
 
 ## Related
 
 - [[homemade-liquid-fertilizer]] — making liquid manure from animal droppings
 - [[composting-materials-alternative]] — alternative sources for composting
 - [[soil-conditioners-guide]] — other soil conditioners beyond manure
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+- [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]]
+- [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]

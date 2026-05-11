@@ -24,7 +24,7 @@ sources:
 
 Camelina sativa (camelina, gold-of-pleasure, false flax) is an annual oilseed crop in the family Brassicaceae, native to Europe and Central Asia. It was widely cultivated in Europe from the Bronze Age through the Middle Ages before being largely displaced by rapeseed in the 20th century.
 
-Camelina has experienced a renaissance since the 2000s as a low-input, drought-tolerant alternative to canola and soybean. Its short [[savory-growing-season-and-non-growing-season-management]] (85–100 days), low fertilizer requirements, and resistance to common Brassicaceae pests make it attractive for sustainable agriculture systems.
+Camelina has experienced a renaissance since the 2000s as a low-input, drought-tolerant alternative to canola and soybean. Its short [[savory-growing-season-and-non-growing-season-management]] (85–100 days), low fertilizer requirements, and resistance to common Brassicaceae pests make it attractive for [[phosphate-accumulators-sustainable-agriculture]] systems.
 
 The seed oil contains 35–45% α-linolenic acid (ALA, ω-3), among the highest of any oilseed crop. This nutritional profile, combined with suitability for marginal lands, positions camelina as a promising feedstock for omega-3 enriched foods, biodiesel, and biojet fuel.
 
@@ -66,9 +66,9 @@ Camelina seed oil has a distinctive fatty acid profile that differentiates it fr
 | Palmitic acid (C16:0) | 5–7% |
 | Stearic acid (C18:0) | 2–3% |
 
-The ω-6:ω-3 ratio of approximately 0.5:1 is exceptionally favorable for human nutrition, as modern diets typically provide ratios of 10:1 to 20:1. Camelina oil thus offers a valuable plant-based source of omega-3 fatty acids.
+The ω-6:ω-3 ratio of approximately 0.5:1 is exceptionally favorable for human nutrition, as modern diets typically provide ratios of 10:1 to 20:1. Camelina oil thus offers a valuable plant-based source of omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
 
-**[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Camelina seeds contain significant levels of tocopherols (400–800 mg/kg, predominantly γ-tocopherol), providing natural antioxidant protection for the highly unsaturated oil. Phenolic compounds including sinapine and flavonoids contribute additional antioxidant capacity.
+**[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:** Camelina seeds contain significant levels of tocopherols (400–800 mg/kg, predominantly γ-tocopherol), providing natural antioxidant protection for the highly unsaturated oil. [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including sinapine and flavonoids contribute additional antioxidant capacity.
 
 **Glucosinolates:** Total seed glucosinolate content is 20–35 μmol/g, comparable to modern canola varieties. The predominant glucosinolates are glucoarabin (C. sativa-specific) and sinigrin. Unlike rapeseed, camelina contains minimal erucic acid (<3%), eliminating concerns about cardiac lipid accumulation.
 
@@ -76,41 +76,15 @@ The seed coat contains mucilage polysaccharides (5–8% of seed weight) that con
 
 ## Cultivation and Agronomy
 
-C. sativa is exceptionally cold-tolerant for an oilseed crop, with seedlings surviving temperatures to -10°C. This allows early spring planting and extends the viable growing range to USDA hardiness zones 3–8.
+C. sativa is exceptionally cold-tolerant for an oilseed crop, with seedlings surviving temperatures to -10°C. This allows [[coleman-overwintered-onions-and-early-spring-crops]] planting and extends the viable growing range to USDA hardiness zones 3–8.
 
 **Seeding:** Optimal planting dates are early spring (March–April in the Northern Hemisphere) or as a winter annual in mild climates. Seeding rate is 3–6 kg/ha at 15–20 cm [[wide-row-spacing-intensive-gardening-comparison]], or broadcast at 6–9 kg/ha. Seed should be placed 0.5–1.5 cm deep in firm seedbeds.
 
-**Nutrient requirements:** Camelina requires significantly less nitrogen than rapeseed or canola. Optimal rates are 40–60 kg N/ha, roughly half the recommendation for canola. Phosphorus and potassium requirements are similarly modest at 20–30 kg/ha each.
+**[[cannabis-soil-and-nutrient-requirements]]:** Camelina requires significantly less nitrogen than rapeseed or canola. Optimal rates are 40–60 kg N/ha, roughly half the recommendation for canola. Phosphorus and potassium requirements are similarly modest at 20–30 kg/ha each.
 
-**Water requirements:** Camelina is drought-tolerant, producing acceptable yields with 250–350 mm of growing season precipitation. It avoids the critical flowering-stage drought sensitivity that limits rapeseed in semi-arid regions.
+**Water requirements:** Camelina is drought-tolerant, producing acceptable yields with 250–350 mm of [[extending-growing-season]] precipitation. It avoids the critical flowering-stage drought sensitivity that limits rapeseed in semi-arid regions.
 
 **Agronomic performance:**
 
 - Growing season: 85–100 days (spring), 250–280 days (winter)
 - Seed yield: 800–2,000 kg/ha (rainfed), up to 3,000 kg/ha (irrigated)
-- Oil yield: 300–800 L/ha
-- Test weight: 58–64 kg/hL
-- Harvest index: 0.25–0.35
-
-**[[hamilton-pest-and-disease-control-organic]] profile:** Camelina shows resistance to flea beetles (*Phyllotreta* spp.), the primary pest of rapeseed. Alternaria black spot and sclerotinia stem rot occur but are less severe than in canola. No registered pesticides are specifically labeled for camelina in most jurisdictions, reinforcing its low-input positioning.
-
-## Applications and Permaculture
-
-**Biofuel:** Camelina oil has excellent properties for biodiesel production (cetane number >50, iodine value <140). It is among the leading oilseed feedstocks for sustainable aviation fuel (SAF), with航空公司 including Japan Airlines conducting test flights using camelina-based jet fuel.
-
-**Cover crop:** As a winter annual or early-spring crop, camelina provides soil cover during fallow periods, reducing erosion and nutrient leaching. Its short growing season allows double-cropping with soybean, millet, or buckwheat in temperate regions.
-
-**Pollinator support:** The extended flowering period (2–3 weeks) provides early-season forage for pollinators when few other crops are in bloom. Camelina nectar and pollen are attractive to honeybees and native bee species.
-
-**Livestock feed:** Cold-pressed camelina meal (oil extracted) contains 35–40% crude protein and 10–12% residual oil rich in omega-3 fatty acids. Inclusion at 10–15% of poultry rations enriches egg yolk omega-3 content 3–5 fold.
-
-**Marginal land utilization:** Camelina tolerates saline soils (EC up to 6 dS/m), low-fertility soils, and semi-arid conditions where conventional oilseeds fail. This makes it suitable for [[duck-keeping-guide-detailed]] systems on degraded or marginal agricultural land.
-
-[[fukuoka-textdoc-genetic-engineering-critique-warning]] efforts have produced camelina lines with enhanced omega-3 content (via EPA/DHA pathway genes from microalgae), modified wax ester profiles for industrial lubricants, and improved seed yield through heterosis. Field trials of omega-3 enhanced camelina began in the US and UK in the mid-2010s.
-
-## See Also
-
-- [[carthamus-tinctorius]] — Safflower, drought-tolerant oilseed for comparison
-- [[robinia-pseudoacacia]] — Black locust, nitrogen-fixing companion tree
-- [[glycine-max]] — Soybean, major oilseed rotation partner
-- [[trifolium-repens]] — White clover, temperate cover crop legume

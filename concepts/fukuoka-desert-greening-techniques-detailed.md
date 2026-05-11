@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
 # Fukuoka Desert Greening Techniques Detailed

@@ -1,5 +1,5 @@
 ---
-title: "Hindu Kush"
+title: Hindu Kush
 type: strain
 tags:
   - cannabis
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany 26(3): 264–276.
   - Small, E. & Cronquist, A. (1976). "A practical and natural taxonomy for Cannabis." Taxon 25(4): 405–435.
@@ -31,13 +32,13 @@ genetic pillars of modern [[oner-cannabis-breeding-fundamentals]] and the namesa
 "kush" family of strains.
 
 The strain has been cultivated for centuries by indigenous communities in
-the region, primarily for hashish production. Its resinous, compact flowers
+the region, primarily for [[cannabis-hashish-production]]. Its resinous, compact flowers
 are ideally suited to the traditional hand-rubbed charas and sieved hashish
 methods practiced throughout Central and South Asia.
 
 Hindu Kush is considered one of the most genetically important landrace
 strains, having contributed its genetics to countless modern cultivars
-including OG Kush, Bubba Kush, Master Kush, and many others.
+including OG Kush, [[bubba-kush]], [[master-kush]], and many others.
 
 ## Lineage
 
@@ -87,48 +88,3 @@ reflecting its landrace genetics.
 
 **THC:** 15–22% (landrace specimens typically lower, 12–18%)
 **CBD:** Low, typically <0.1%
-**Primary cannabinoids:** THC, with trace amounts of THCV and CBC.
-
-The cannabinoid profile is THC-dominant with negligible CBD, consistent
-with drug-type Afghan landraces selected for [[cannabis-glandular-trichome-types-resin-production-clarke]] rather than
-fiber or seed.
-
-## Effects
-
-Hindu Kush produces deeply relaxing, sedative effects characteristic of
-pure indica genetics. Onset is relatively slow (15–30 minutes when smoked),
-gradually building into a heavy, full-body calm.
-
-Initial effects include mild euphoria and cerebral fog, transitioning into
-profound physical relaxation, couch-lock, and eventually sleep. Duration is
-typically 2–4 hours.
-
-The strain is widely used for insomnia, pain relief, anxiety reduction,
-and muscle relaxation. It is poorly suited for daytime use or activities
-requiring focus and energy.
-
-## Cultivation
-
-Hindu Kush is considered moderately easy to cultivate and is well-suited
-to both indoor and outdoor growing. Its compact size makes it ideal for
-limited-space indoor operations.
-
-**Flowering time:** 7–9 weeks indoor; late September to mid-October outdoor.
-**Yield:** Moderate, 300–400 g/m² indoor.
-**Climate preference:** Dry, warm, and arid conditions mimicking its native
-mountain environment. Resistant to mold but susceptible to [[cervantes-powdery-mildew-prevention-treatment]]
-in humid conditions.
-
-The strain responds well to low-stress training and thrives in soil-based
-systems. It is naturally pest-resistant and requires moderate nutrient
-levels.
-
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[master-kush]]
-- [[cannabis-sativa]]
-- hashish
-- charas
-- kush
-- thc

@@ -88,27 +88,3 @@ Fungal crown rot caused by *Sclerotinia sclerotiorum* and *Fusarium* species can
 Insect pests include the arracacha weevil and various aphid species that serve as vectors for [[cervantes-viral-diseases-cannabis]]. Cultural controls such as crop rotation and removal of volunteer plants are standard practices.
 
 ## Cultural Significance
-
-Arracacha has been cultivated in the Andes for over 4,000 years, with archaeological evidence from pre-Columbian settlements in Peru and Ecuador. It was a staple crop of the Inca civilization alongside potato, oca, and ulluco.
-
-In Colombian cuisine, arracacha is used in traditional dishes such as *aje de arracacha* (a spiced puree) and *sancocho* (a hearty stew). It is sold fresh in markets throughout the Andean corridor and is considered a comfort food.
-
-The crop remains important for smallholder farmers because it tolerates marginal soils and produces reliably at high altitudes where few alternatives exist. Its cultural significance contributes to in situ conservation of diverse landraces.
-
-## Genetic Diversity and Breeding
-
-Considerable genetic diversity exists among arracacha landraces, particularly in Peru and Ecuador where distinct ecotypes have evolved in isolated valleys. Yellow, white, and purple root types represent major morphological groups.
-
-Breeding programs at CIAT (Colombia) and CIP (Peru) have focused on improving shelf life, disease resistance, and yield stability. Hybridization between ecotypes has produced promising lines with shorter maturity periods.
-
-Conservation of arracacha germplasm faces challenges because the species is propagated vegetatively and maintains limited seed fertility. Gene banks maintain living collections in field plots and in vitro [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]].
-
-## See Also
-
-- [[pachyrhizus-tuberosus]]
-- [[xanthosoma-sagittifolium]]
-- [[ullucus-tuberosus]]
-- [[canna-edulis]]
-- [[moringa-oleifera]]
-- [[tamarindus-indica]]
-- [[lablab-purpureus]]

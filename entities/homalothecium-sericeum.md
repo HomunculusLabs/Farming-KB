@@ -11,8 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
-  - Crum, H.A. & Anderson, L.E. (1981). "Mosses of Eastern North America." Columbia University Press.
-  - Hedenäs, L. (2003). "Homalothecium." In: Flora of North America North of Mexico, Vol. 27.
+  - Crum, H.A. & Anderson, L.E. (1981). "Mosses of [[polypore-fungi-eastern-north-america]]." Columbia University Press.
+  - Hedenäs, L. (2003). "Homalothecium." In: Flora [[berry-growing]] North of Mexico, Vol. 27.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 Homalothecium sericeum, commonly known as silky wall moss or satin moss, is a pleurocarpous moss species in the family Brachytheciaceae.
 
-It is one of the most commonly encountered mosses on walls, tree bases, and shaded stone surfaces in temperate regions of Europe and North America.
+It is one of the most commonly encountered mosses on walls, tree bases, and shaded stone surfaces in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[guzman-psilocybin-mushrooms-north-america]].
 
 The species is readily identified by its silky, golden-green to dark green mats with a distinctive satiny sheen.
 
@@ -62,7 +62,7 @@ Homalothecium sericeum has a wide distribution across temperate regions of the N
 
 In Europe, it is one of the most common mosses, occurring from the Mediterranean region to Scandinavia and the British Isles.
 
-In North America, the species ranges from eastern Canada and the northeastern United States southward along the Appalachian Mountains.
+In North America, the species ranges from eastern Canada and the northeastern [[dmt-containing-plants-united-states-halpern]] southward along the Appalachian Mountains.
 
 The species is also reported from western North America, including the Pacific Northwest and northern California.
 
@@ -87,50 +87,3 @@ Its extensive mats contribute to moisture retention on stone surfaces and tree b
 The species plays a role in the succession of epiphytic bryophyte communities on tree trunks.
 
 On stone walls and buildings, Homalothecium sericeum contributes to the biodeterioration of mortar through its rhizoidal penetration.
-
-It provides microhabitat for various invertebrates, particularly small arthropods that inhabit the moss mat.
-
-The species is moderately tolerant of desiccation, though it prefers consistently moist conditions.
-
-It frequently co-occurs with other common wall and epiphytic mosses, including Hypnum cupressiforme and Tortula muralis.
-
-In urban environments, Homalothecium sericeum is one of the most abundant mosses on built stone structures.
-
-Its tolerance of atmospheric pollution makes it relatively common in towns and cities compared to more sensitive moss species.
-
-## Reproduction
-
-Homalothecium sericeum reproduces through both sexual and vegetative means.
-
-Sexual reproduction is autoicous, with male and female reproductive organs borne on separate branches of the same plant.
-
-Sporophytes are produced frequently in favorable conditions, with capsules maturing from late winter through spring.
-
-Vegetative reproduction occurs through stem fragmentation, which is facilitated by the brittle nature of older stems.
-
-The species also spreads through clonal growth as creeping stems extend and root at intervals along their length.
-
-Fragment dispersal by wind, rain, and animal movement contributes to local colonization of new substrates.
-
-## Conservation
-
-Homalothecium sericeum is widespread and abundant across its range, with no significant conservation concerns.
-
-The species benefits from the availability of stone walls, old buildings, and mature trees in both rural and urban landscapes.
-
-However, the removal of old stone walls and the cleaning of historic buildings can reduce local populations.
-
-The use of biocides on masonry and tree bark poses a localized threat to urban populations.
-
-Despite these pressures, the species remains one of the most common and resilient mosses in temperate environments.
-
-## See Also
-
-- [[hypnum-cupressiforme]]
-- [[pleurozium-schreberi]]
-- [[rhytidiadelphus-triquetrus]]
-- [[thuidium-delicatulum]]
-- [[climacium-dendroides]]
-- [[dicranum-scoparium]]
-- [[bryum-argenteum]]
-- [[syntrichia-ruralis]]

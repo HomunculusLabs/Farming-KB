@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Fukuoka on Agricultural Pollution and Consumer Culpability
 
@@ -86,19 +87,3 @@ This creates a powerful economic incentive for farmers to use whatever means nec
 If one farm household or co-op takes up a new process such as the waxing of mandarin oranges, because of the extra care and attention the profit is higher. The other agricultural co-ops take notice and soon they, too, adopt the new process. Fruit that is not wax-treated no longer brings so high a price. In two or three years, waxing is taken up all over the country. The competition then brings the prices down, and all that is left to the farmer is the burden of hard work and the added costs of supplies and equipment.
 
 This chain reaction illustrates what Fukuoka saw as the fundamental trap of [[fukuoka-natural-diet-philosophy]], which holds that true nourishment comes from eating food in its natural state, not from food that has been cosmetically enhanced.
-
-## The Reversal of Values
-
-To say it in a word, until there is a reversal of the sense of values which cares more for size and appearance than for quality, there will be no solving the problem of food pollution. These measures are not taken because the farmer likes to work this way, but until the general sense of values changes, the situation will not improve.
-
-Fukuoka's call for a "reversal of values" is not merely a dietary suggestion but a spiritual and philosophical challenge. He is asking people to question the entire framework through which they evaluate food, health, and nature. This reversal is central to the [[fukuoka-food-and-health-philosophy]] -- not as an abstract academic exercise, but as a practical intervention in the cycle of production and consumption.
-
-## Connection to Natural Farming Principles
-
-The consumer pollution problem illustrates why Fukuoka's [[fukuoka-four-principles-natural-farming]] are not merely agricultural techniques but elements of a comprehensive worldview:
-
-1. The principle of no chemicals is meaningless if consumers refuse to buy imperfect produce.
-
-## See Also
-
-- [[holmgren-consumer-addiction-and-hedonic-treadmill]]

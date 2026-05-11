@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, microbiology, composting]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -86,11 +87,3 @@ to recover from. The key insight is to feed the soil organisms and let them
 feed the plants.
 
 ## Common Misconceptions
-
-A widespread misunderstanding is that soil fertility is primarily a question of
-NPK chemistry. While mineral nutrients are important, their availability to
-plants is largely mediated by soil biology. Another misconception is that
-adding more organic matter is always beneficial. In reality, the quality and
-decomposition state of organic matter matters as much as the quantity. The
-goal is to support a balanced and diverse soil food web that cycles nutrients
-efficiently and suppresses pathogens naturally.

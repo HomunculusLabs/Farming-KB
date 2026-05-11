@@ -1,8 +1,8 @@
 ---
-title: Yeast, Saccharomyces, and Human bloomfield-fungal-pathogens-and-parasites
+title: Bloomfield Yeast Saccharomyces Fungal Pathogens
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - fungal-pathogens
   - medical-mycology
   - cryptococcus
@@ -18,7 +18,7 @@ type: concept
 
 Yeast is to fungi as whale is to mammals. There are many species of
 yeasts, yet "yeast" typically denotes a single species, baker's yeast or
-Saccharomyces cerevisiae. This reflects the importance of Saccharomyces
+[[saccharomyces-cerevisiae]]. This reflects the importance of Saccharomyces
 to human nutrition and biological research, but hundreds of fungi share
 a similar growth form. A packet of freeze-dried yeast costs mere cents
 but contains a marvel that transforms sugar to alcohol and makes bread
@@ -79,7 +79,7 @@ inhibits fungal proliferation on the scalp.
 
 Cryptococcal infections can be treated with amphotericin B, a wonder
 drug synthesized by a bacterium discovered in Venezuelan soil in 1956.
-It acts by binding to ergosterol in the fungal plasma membrane, causing
+It acts by binding to [[ergosterol]] in the fungal plasma membrane, causing
 perforation and leakage of vital salts and sugars. Ergosterol is one of
 the few drug targets present in fungi but absent in humans. Unfortunately,
 high doses cause side effects ranging from chills and vomiting to anemia
@@ -88,23 +88,3 @@ and kidney damage.
 Amphotericin is often combined with 5-fluorocytosine, which impairs RNA
 and DNA synthesis. Their synergistic action allows lower doses of each
 drug. Fluconazole, an azole antifungal, blocks ergosterol synthesis by
-inhibiting 14-alpha-demethylase. Before the 1950s, fungal diseases of
-the brain were invariably fatal; modern drug combinations have
-dramatically improved outcomes.
-
-## Madurella and Mycetoma
-
-Madurella mycetomatis causes mycetoma of the foot, a tropical disease
-beginning with a splinter wound in a bare foot. The fungus grows for
-months or years, forming spherical abscesses and interconnecting canals
-that resemble termite mounds. These canals burst through the skin and
-weep bloody fluid laced with infectious granules. Madurella erodes
-bones, producing a diagnostic moth-eaten appearance on X-rays. The
-fungus is well adapted as a long-term parasite, forging a relationship
-that can last for years while being dispersed via its infectious
-granules from one foot to another.
-
-## See Also
-
-- [[bloomfield-fungal-plant-pathogens]]
-- [[bloomfield-chytrid-fungi-early-fungal-evolution]]

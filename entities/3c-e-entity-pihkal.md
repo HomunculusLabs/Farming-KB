@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3C-E
 
-PIHKAL entry #25. 4-Ethoxy-3,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #25. 4-Ethoxy-3,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -49,7 +49,7 @@ PIHKAL entry #25. 4-Ethoxy-3,5-dimethoxy-A.
 ## Extensions and Commentary
 
 This is an interesting closing of the
-circle. Although mescaline launched the entire show, the first half
+circle. Although [[mescaline]] launched the entire show, the first half
 could be called the amphetamine period, with variations made on all
 aspects of the molecule except for that three-carbon chain. And it
 was found that the 4-substitution position was of paramount importance
@@ -88,19 +88,6 @@ a pale amber oil which set up as crystals of
 sample recrystallized from methanol had a mp of 48-49 deg C.
 
 A solution of 3.3 g 3,5-dimethoxy-4-ethoxybenzaldehyde in 25 mL
-nitroethane was treated with 0.5 g anhydrous ammonium acetate and
-heated on the [[scythian-cannabis-steam-bath-ritual]] for 36 h. The solvent/reagent was removed
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[2-br-4-5-mda-entity-pihkal]]
-- [[2c-c-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-f-entity-pihkal]] -- 2C-F (PIHKAL #26)
+- [[ethyl-j-entity-pihkal]]

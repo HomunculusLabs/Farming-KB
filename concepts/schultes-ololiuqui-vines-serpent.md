@@ -1,5 +1,5 @@
 ---
-title: schultes ololiuqui vines serpent of the Serpent
+title: Schultes Ololiuqui Vines Serpent
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -17,9 +17,9 @@ type: concept
 # Ololiuqui Vines of the Serpent
 
 Ololiuqui refers to the psychoactive seeds of two [[golden-guide-morning-glory-and-ololiuqui]] species:
-*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* (Rivea corymbosa) and *Ipomoea violacea*. These
+*[[plants-of-the-gods-turbina-corymbosa-ololiuqui]]* ([[rivea-corymbosa]]) and *[[ipomoea-violacea]]*. These
 seeds, among the most sacred hallucinogens of Aztec civilization, contain
-[[ergot-and-lysergic-acid-history]] amide and related ergoline alkaloids, placing them
+[[ergot-and-lysergic-acid-history]] amide and related [[morning-glory-lsa-and-ergoline-alkaloids]], placing them
 chemically in the same family as LSD and ergot. Their use has persisted
 from pre-Hispanic Mexico into the present day among indigenous communities
 of Oaxaca.
@@ -28,7 +28,7 @@ of Oaxaca.
 
 The Aztecs possessed "an herb called coatl-xoxo uhqui [green snake], and
 it bears a seed called Ololiuqui." An early colonial drawing depicts it as
-a morning glory with congested fruits, cordate leaves, a tuberous root,
+a [[hofmann-ololiuqui-morning-glory-investigation]] with congested fruits, cordate leaves, a tuberous root,
 and a twining habit. The Nahuatl name Ololiuqui means "round thing,"
 referring to the seed's shape. The plant was also known as Coaxihuitl or
 snake plant, reflecting its association with serpentine symbolism in Aztec
@@ -83,58 +83,8 @@ anointed, they became fearless to every danger."
 
 ## Mazatec and Chinantec Use
 
-In 1939, identifiable material of *Turbina corymbosa* was collected among
+In 1939, identifiable material of *[[turbina-corymbosa]]* was collected among
 the Chinantec and Zapotec of Oaxaca, where it was cultivated for
 hallucinogenic use. The Chinantec name A-mu-kia means "medicine for
 divination." Thirteen seeds are usually ground up and drunk with water or
 in an alcoholic beverage. Intoxication rapidly begins and leads to visual
-hallucinations. There may be an intervening stage of giddiness, followed
-by lassitude, euphoria, drowsiness, and a somnambulistic narcosis.
-
-The visions are often grotesque, portraying people or events. The natives
-say that the intoxication lasts three hours and seldom has unpleasant
-aftereffects. Unlike peyote and the mushrooms, Ololiuqui is taken at
-night and administered to a single individual alone in a quiet, secluded
-place.
-
-## Chemistry: Lysergic Acid Alkaloids
-
-Lysergic acid alkaloids are the hallucinogenic compounds of Ololiuqui.
-They are indole alkaloids also isolated from ergot. Lysergic acid amide
-(also known as ergine) and lysergic acid hydroxyethylamide are the main
-components of the alkaloid mixture. The tryptamine radical in the ring
-structure of lysergic acid establishes its relationship with these ergoline
-alkaloids as well as with the active principles of *Psilocybe* and the
-brain hormone serotonin.
-
-LSD, lysergic acid diethylamide, a semisynthetic compound, is the most
-potent hallucinogen known. It differs from lysergic acid amide only by the
-replacement of two hydrogen atoms with two ethyl groups. The active
-principle of Ololiuqui (hallucinogenic dose 2-5 mg) is about 100 times
-less potent than LSD (hallucinogenic dose 0.05 mg).
-
-## Ipomoea violacea and Badoh Negro
-
-*Ipomoea violacea*, known to the Aztecs as Tlililtzin, is called Piule by
-the Chinantec and Mazatec, and Badoh Negro by the Zapotec. Known
-cultivated strains include "Flying Saucers." The alkaloid content is five
-times that of *Turbina corymbosa*, so natives use fewer seeds. The same
-lysergic acid alkaloids are found, but usage is restricted to Mexico.
-
-## Botanical Misidentification
-
-In 1916, an American botanist erroneously identified Ololiuqui as a
-species of *Datura*, reasoning that Datura was a known intoxicant, its
-flower resembled a morning glory, no psychoactive principle was known from
-the morning glory family, and the Aztecs "were far from possessing" the
-botanical knowledge attributed to them. This misidentification was widely
-accepted until correct identification in 1939.
-
-## See Also
-
-- [[schultes-psilocybe-little-flowers-gods]] for the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]
-  used in similar Mazatec ceremonial contexts
-- [[schultes-datura-holy-flower-north-star]] for the plant mistakenly
-  identified as Ololiuqui for centuries
-- [[schultes-ayahuasca-magic-drink-amazon]] for another visionary plant
-  preparation with deep indigenous ceremonial roots

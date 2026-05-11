@@ -9,7 +9,7 @@ sources: []
 
 # Timber Frame Basics
 
-Timber framing is a traditional building method where large timbers are joined together with wooden connections (joinery) rather than nails or metal fasteners. The resulting structural frame is strong, durable, and beautiful, with timbers often left exposed as an architectural feature. Timber frames pair naturally with natural infill materials like straw bales, light straw-clay, and hempcrete.
+[[preserving-wood-timber-framing]] is a traditional [[fukuoka-soil-building-method]] where large timbers are joined together with wooden connections (joinery) rather than nails or metal fasteners. The resulting structural frame is strong, durable, and beautiful, with timbers often left exposed as an architectural feature. Timber frames pair naturally with natural infill materials like straw bales, light straw-clay, and hempcrete.
 
 ## History
 
@@ -29,9 +29,9 @@ The craft declined with the introduction of stick framing (dimensional lumber wi
 Choose locally available species when possible:
 
 - **Oak (white, red):** Traditional choice, extremely strong, rot resistant, takes joinery well. Heavy and hard to work with hand tools.
-- **Douglas fir:** Strong, straight-grained, widely available in western North America. Excellent for beams and posts.
+- **[[douglas-fir]]:** Strong, straight-grained, widely available in western [[guzman-psilocybin-mushrooms-north-america]]. Excellent for beams and posts.
 - **Eastern white pine:** Light, easy to work, adequate for smaller structures. Less rot resistant — keep out of ground contact.
-- **Hemlock:** Strong, rot resistant, widely available in eastern North America. Can be brittle in tension.
+- **Hemlock:** Strong, rot resistant, widely available in [[polypore-fungi-eastern-north-america]]. Can be brittle in tension.
 - **Cedar (western red, eastern):** Naturally rot resistant, lighter weight. Good for exposed exterior elements.
 - **Recycled/reclaimed timber:** Old-growth timbers from demolished buildings, often superior quality to new lumber
 

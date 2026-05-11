@@ -73,3 +73,13 @@ Key patents in mycotechnology — mycoremediation, mycofiltration, and mycopesti
 - [[mycoremediation-basics]] for the science behind these patents
 - [[fungal-pest-control]] for mycopesticide applications
 - [[paul-stamets]] for the patent holder
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.

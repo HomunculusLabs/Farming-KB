@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Orchard Management Detailed
@@ -70,14 +71,14 @@ The beneficial effects of natural soil management show up in the longer lifetime
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+Source: [[masanobu-fukuoka]], The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## Harvesting Without Spraying
 
 Fukuoka's [[fukuoka-natural-orchard-development]] produces fruit that may be smaller and less cosmetically perfect than conventionally grown fruit, but he argued it is more flavorful and nutritious. Key harvest observations:
 
-- Fruit from trees in biologically active soil develops thicker skins and natural pest resistance
-- Thinning is not practiced — natural fruit drop regulates the crop
+- Fruit from trees in biologically active soil develops thicker skins [[jeavons-natural-pest-control]] resistance
+- Thinning is not practiced — [[fukuoka-natural-fruit-tree-pest-control]] drop regulates the crop
 - [[cannabis-harvest-timing-visual-cues]] follows natural ripening rather than market schedules
 - Mixed orchards (deciduous and evergreen together) spread the harvest across seasons
 
@@ -85,23 +86,5 @@ Fukuoka's [[fukuoka-natural-orchard-development]] produces fruit that may be sma
 
 Fukuoka's system does not treat the orchard in isolation. His complete food production cycle links orchard, grain fields, and [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]:
 
-- Straw and hulls from rice and barley paddies are carried up to the orchard as mulch
-- Leguminous ground cover (clover) in the orchard fixes nitrogen for the grain fields through compost and mulch exchange
-- Chickens allowed in the orchard eat fallen fruit (preventing disease carryover), scratch the soil, and deposit manure
-- Duck paddies between rice rows provide additional fertility that connects back to the orchard system
-
-## Common Mistakes in Natural Orchard Establishment
-
-Fukuoka emphasized several pitfalls for those attempting to replicate his methods:
-
-- **Abandoning trees too early:** The first 5-7 years require regular weeding and attention. [[comparison-natural-farming-vs-permaculture]] is not the same as neglect — it requires careful observation and timely intervention
-- **Removing all weeds:** Many "weeds" are actually beneficial ground cover that protects soil, retains moisture, and supports [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- **Expecting quick results:** Building soil fertility through natural means takes 5-10 years. The transition period often produces disappointing harvests
-- **Using dwarf rootstock:** Fukuoka preferred standard-sized trees with deep root systems. Dwarf trees depend on careful management and are less resilient without it
-
-## See Also
-
-- [[fukuoka-orchard-floor-management]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
-- [[fukuoka-no-pruning-philosophy-fruit-trees]]
+- Straw and hulls from [[fukuoka-rice-and-barley-natural-farming]] paddies are carried up to the orchard as mulch
+- Leguminous ground cover (clover) in the orchard fixes nitrogen for the grain fields through [[using-accumulators-in-compost-and-mulch]] exchange

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi and lichens-primary-production-soil-formation-dighton (Dighton)
+title: Mycorrhizal Fungi Primary Production Dighton
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,13 +15,13 @@ Source: John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*, Chapte
 
 ## Overview
 
-Approximately 95% of all vascular plants have a mycorrhizal association (Brundrett, 1991). Mycorrhizal fungi are not merely passive nutrient conduits — they actively influence plant community structure, competitive interactions, stress tolerance, and ecosystem-level nutrient cycling. Vogt et al. (1982) showed that although mycorrhizal fungi represent only about 1% of total forest ecosystem biomass, they account for 14-15% of net primary production (45% in young stands, 75% in mature stands) when combined with their supporting fine root biomass.
+Approximately 95% of all vascular plants have a mycorrhizal association (Brundrett, 1991). Mycorrhizal fungi are not merely passive nutrient conduits — they actively influence plant [[edaphic-determinants-cannabis-microbiome-community-structure]], competitive interactions, stress tolerance, and ecosystem-level nutrient cycling. Vogt et al. (1982) showed that although mycorrhizal fungi represent only about 1% of total forest ecosystem biomass, they account for 14-15% of net primary production (45% in young stands, 75% in mature stands) when combined with their supporting fine root biomass.
 
 ## Mycorrhizal Types and Their Roles
 
 ### Arbuscular Mycorrhizae (AM)
 Formed mainly by zygomycete fungi, associated with herbaceous vegetation, grasses, and many crops. AM fungi are the most widespread mycorrhizal type and are particularly important in:
-- Phosphorus acquisition from soil
+- [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] from soil
 - Improving plant water relations
 - Agroecosystems where soil fauna diversity is reduced
 
@@ -47,7 +47,7 @@ Associated with plants in the Ericaceae family (heaths, blueberries, rhododendro
 
 ### Diversity-Function Relationship
 Baxter and Dighton (2001) demonstrated that changes in birch seedling performance were related to the diversity *per se* of the ectomycorrhizal community rather than the actual species composition. Key findings:
-- As mycorrhizal diversity increased, the proportional representation of each species declined but total mycorrhizal root tips per plant increased
+- As [[dighton-mycorrhizal-diversity-ecosystem-function]] increased, the proportional representation of each species declined but total mycorrhizal root tips per plant increased
 - Plant shoot biomass declined with diversity but root biomass increased
 - Multiple regression showed shoot mass (R2=0.129, P=0.002), root mass (R2=0.156, P<0.001), and total phosphorus content (R2=0.179, P<0.001) were all significantly correlated with mycorrhizal diversity
 
@@ -73,10 +73,10 @@ Pankow et al. (1991) suggest the main role of mycorrhizal symbioses is not durin
 Fire maintains both plant and fungal diversity in forests. Changes in ECM species composition after fire suggest a succession of mycorrhizal fungi during forest re-establishment (Frankland, 1992, 1998; Boerner et al., 1996). Where fire damage to soil-surface organic matter is minimal, residual ECM communities on dying roots provide inoculum for the next rotation, maintaining species diversity continuity (Baar et al., 1999; Jonsson et al., 1999b).
 
 ### Drought Stress
-Mycorrhizal associations significantly improve plant-water relations:
+[[plants-without-mycorrhizal-associations]] significantly improve plant-water relations:
 - Sanchez-Diaz and Honrubia (1994): direct water flow through hyphae, improved phosphate nutrition, altered hormonal balance
 - Augé (2001) reviewed that AM colonization improved water relations under both drought and adequate moisture
-- AM inoculation of *Acacia nilotica* and *Leucaena leucocephala* benefited *Leucaena* most under drought, with mycorrhizal effect exceeding that of phosphorus addition (Michelsen and Rosendahl, 1990)
+- AM inoculation of *Acacia nilotica* and *[[leucaena-leucocephala]]* benefited *Leucaena* most under drought, with mycorrhizal effect exceeding that of phosphorus addition (Michelsen and Rosendahl, 1990)
 - Grass endophytes confer [[dighton-fungal-drought-tolerance-plant-water-relations]] through loline alkaloid production as osmoregulators (Belesky and Malinowski, 2000)
 
 ### Salinity
@@ -87,32 +87,3 @@ Leaf litter manipulations significantly alter ECM communities:
 - Complete litter removal on Scots pine forest floor increased mycorrhizal species diversity, while doubling litter reduced diversity (Baar and de Vries, 1995)
 - Pine leaf litter extracts reduced growth of *Laccaria proxima* and *Rhizopogon luteolus* (Baar et al., 1994)
 - Polyphenols catechin and epicatechin gallate differentially affected *Suillus intermedius* (stimulated) and *Amanita rubescens* (reduced) (Koide et al., 1998)
-
-### Defoliation and Herbivory
-Cullings et al. (2001) showed that 50% defoliation of lodgepole pine altered ECM species composition on both pine and neighboring Engelmann spruce roots, suggesting that changing photosynthetic capacity of one species affects mycorrhizal associations of neighboring trees. Winter browsing of willow by elk induces higher shoot biomass production but likely changes belowground resource allocation, affecting mycorrhizal demands.
-
-### Rhododendron Thicket Effects
-Walker et al. (1999) showed that *Rhododendron maximum* severely reduces regeneration of hardwood and coniferous seedlings. Hemlock seedlings in rhododendron thickets had significantly less ECM colonization (19% vs 62%) and 50% reduced shoot biomass in the second year.
-
-## Leaf Litter Patch Dynamics
-
-Dighton et al. (2000) demonstrated in New Jersey pine barrens that localized leaf litter patches of varying size develop different ECM communities on invading pine and oak roots. Large litter patches contained higher proportions of oak leaves, altering [[fungal-decomposition-resource-quality-determinants]] and soil chemistry through leachates. Conn and Dighton (2000) showed that pitch pine seedling roots favored mixed oak-pine litter, and that oak-containing litters (which immobilize phosphorus during initial decomposition) selected for mycorrhizal communities with higher [[mycorrhizal-phosphatase-activity-elf97-detection]].
-
-## Significance for Agriculture and Forestry
-
-- ECM diversity itself (not just species identity) influences plant performance
-- Mycorrhizal benefits are greatest in low-fertility and stressed environments
-- Leaf litter management in forests can be used to influence mycorrhizal [[core-endorhiza-bacterial-community-composition-cannabis]]
-- Salinity from irrigation may reduce mycorrhizal effectiveness, complicating crop management
-- Fire management affects mycorrhizal community continuity and forest regeneration potential
-
-## Related
-
-- [[dighton-fungi-volcanic-glacier-primary-succession]]
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[ectomycorrhizal-ecology]]
-- [[ericoid-mycorrhiza-heathland-ecosystems]]
-- [[fungal-biodiversity-ecosystem-function]]
-- [[fungal-biodiversity-grassland]]
-- [[fungal-contributions-soil-structure]]

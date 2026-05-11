@@ -53,7 +53,7 @@ Vegetative reproduction is the primary mode of propagation. Fragmentation of ste
 
 ## Distribution and Habitat
 
-*Fontinalis antipyretica* has a circumboreal distribution, occurring across most of Europe, northern Asia, and North America. It is also reported from parts of North Africa and Central Asia.
+*Fontinalis antipyretica* has a circumboreal distribution, occurring across most of Europe, northern Asia, and [[guzman-psilocybin-mushrooms-north-america]]. It is also reported from parts of North Africa and Central Asia.
 
 In Europe, it is widespread from Scandinavia and the British Isles south to the Mediterranean region, though it becomes less common in warmer, drier southern areas.
 
@@ -75,46 +75,16 @@ It typically occurs at elevations below 1000 m but has been recorded at higher a
 
 The moss bioaccumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from the water column, including lead, zinc, copper, cadmium, and iron. Concentrations in moss tissue can be 10–1000× higher than ambient water levels.
 
-This bioaccumulation capacity has been exploited in biomonitoring programs across Europe and North America. Transplanted moss bags of *Fontinalis* are deployed in streams to measure metal contamination gradients.
+This bioaccumulation capacity has been exploited in biomonitoring programs across Europe and North America. Transplanted moss bags of *Fontinalis* are deployed in streams to measure [[gadd-fungal-biosorption-metal-contamination-remediation]] gradients.
 
-The species is relatively tolerant of acidic conditions (pH > 5.0) but declines in strongly acidified waters (pH < 4.5), a response that made it a useful indicator of acid rain impacts in Scandinavian waterways.
+The species is relatively tolerant of acidic conditions (pH > 5.0) but declines in strongly acidified waters (pH < 4.5), a response that made it a useful indicator of [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] impacts in Scandinavian waterways.
 
 Dense mats of *F. antipyretica* provide habitat for aquatic invertebrates, including mayfly nymphs, caddisfly larvae, and aquatic snails. The moss creates microhabitats with complex three-dimensional structure in otherwise featureless stream beds.
 
-The species can become abundant enough to impede water flow in small streams and ditches, particularly in nutrient-enriched conditions where growth rates increase.
+The species can become abundant enough to impede water flow in small streams and ditches, particularly in nutrient-enriched conditions where [[coleman-sunlight-and-winter-crop-growth-rates]] increase.
 
 Fish use *Fontinalis* mats for spawning substrate and cover, particularly salmonids in forested headwater streams.
 
 ## Ethnobotanical and Historical Use
 
 The species name *antipyretica* derives from the Greek *anti-* (against) and *pyretos* (fever), reflecting its use in traditional European folk medicine as a treatment for fever and various ailments.
-
-Historical herbal references recommend preparations of *Fontinalis* as a diaphoretic, diuretic, and febrifuge. The moss was typically gathered, dried, and brewed into teas or applied as poultices.
-
-[[halpern-sacramental-peyote-and-native-american-church]] peoples reportedly used *Fontinalis* for bedding and wound dressing, taking advantage of its water-retentive and soft-textured properties.
-
-The medicinal use of *F. antipyretica* as an antifever treatment has not been substantiated by modern pharmacological research. No active compounds with confirmed antipyretic activity have been isolated from the species.
-
-The species was historically used as a packing material for shipping live fish and aquatic plants, owing to its ability to retain moisture and cool temperatures for extended periods.
-
-## Aquarium and Horticultural Use
-
-*Fontinalis antipyretica* is one of the most popular aquatic mosses in the freshwater aquarium hobby, where it is valued for its attractive, feathery appearance and undemanding care requirements.
-
-In aquaria, the moss is typically attached to driftwood, rocks, or mesh backgrounds using thread, fishing line, or glue. It establishes within 2–4 weeks and gradually spreads to form natural-looking green curtains.
-
-The species tolerates a wide range of aquarium conditions: temperatures of 5–28 °C, pH 5.5–8.0, and low to moderate lighting. It does not require supplemental CO₂ injection.
-
-It is particularly popular in coldwater, temperate, and biotope aquaria, where it provides naturalistic cover for fish and shrimp. It is also used in paludarium and riparium setups.
-
-Growth rate in aquaria is moderate, requiring periodic trimming to prevent overgrowth. Excessive pruning of established mats can cause the moss to detach from its substrate.
-
-The species is occasionally cultivated commercially for the aquarium trade, though wild collection remains common in parts of Europe and North America.
-
-## See Also
-
-- [[pleurozium-schreberi]]
-- [[sphagnum-cuspidatum]]
-- [[lemna-minor]]
-- [[potamogeton-natans]]
-- [[nuphar-lutea]]

@@ -1,5 +1,5 @@
 ---
-title: Seed seed saving principles solomon (Solomon)
+title: Seed Saving Principles Solomon
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapter 5
+Source: Gardening When It Counts, [[steve-solomon]], Chapter 5
 
 Solomon provides a practical framework for understanding which vegetables can be easily saved by home gardeners and which are best left to professionals.
 
@@ -29,7 +29,7 @@ Self-pollinating vegetables:
 - Tomatoes
 - Eggplant (mostly)
 - Endive/escarole/chicory
-- Garlic (vegetative propagation, no true seed)
+- Garlic ([[hamilton-vegetative-propagation]], no true seed)
 
 For these species, you can save seed from a single plant, or even a single pod or fruit, year after year with no problems. A few (peas and beans) have a slight tendency to outcross and should be isolated by about 20 feet.
 
@@ -47,7 +47,7 @@ Outcrossing vegetables:
 ## Inbreeding Depression
 
 When outcrossing species are grown from too small a population:
-- Genetic diversity declines rapidly
+- [[biodiversity-fungal-genetic-diversity]] declines rapidly
 - Plants become weaker with each generation
 - After only a few generations, the variety may become nonproductive
 - Seeds may barely sprout and grow so weakly they can't survive
@@ -78,7 +78,7 @@ Key to vigorous wet seed: let the fruit become completely ripe — nearly to the
 
 ## Hybrids: A Balanced View
 
-Solomon challenges the anti-hybrid rhetoric common in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial Seed Company:
+Solomon challenges the anti-hybrid rhetoric common in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] circles, drawing on his experience running Territorial [[seed-company-supplier-reference]]:
 
 ### The Anti-Hybrid Claims and Reality
 The common claim that "you can't save seed from hybrids" is a half-truth:
@@ -88,27 +88,3 @@ The common claim that "you can't save seed from hybrids" is a half-truth:
 
 ### The Real Hybrid Problem
 The genuine concern with hybrids is economic:
-- For naturally outcrossing species (brassicas, corn, cucurbits), commercial growers prefer hybrids for uniformity and vigor
-- This has caused interest in OP varieties to virtually disappear within the commercial trade
-- Remaining OP varieties are often maintained only for the home garden market and may be poorly maintained
-- The [[cannabis-gene-pool-preservation-acclimatization-clarke]] of OP varieties has eroded because professional breeders focus on hybrids
-
-### Converting Hybrids to OP Varieties
-It IS possible to dehybridize a variety through selection:
-- Solomon's friend Tim Peters bred an OP broccoli from Green Valiant hybrid in just a few generations
-- Solomon himself bred an OP carrot from a hybrid by growing the hybrid alongside an OP variety to allow crossing
-- The resulting OP variety was nearly as productive, though not as uniform, as the original hybrid
-
-### Solomon's Recommendation
-- For self-pollinating species: no concern about hybrids — save seed freely
-- For outcrossing species: buying fresh hybrid seed every few years is reasonable and not a threat to food security
-- The home gardener should not feel guilty about using hybrids where they genuinely perform better
-- Focus seed-saving efforts on self-pollinating species and easy outcrossers
-
-## Heirloom Nutrition
-
-Solomon presents an insight from Dr. Alan Kapuler: modern OP varieties (bred after ~1870) are not necessarily as nutritious or tasty as old-fashioned heirlooms. Historically, each family raised unique varieties selected over generations for their family's needs, tastes, and soil. The [[coleman-winter-greens-nutritional-quality-cold-sweetening]] varied between varieties. Families with more nutritious crops had better child survival — a form of natural selection for nutritional quality that was lost when commercial [[cervantes-seed-production-storage]] replaced family seed saving.
-
-See also: [[seed-saving-vegetables]], [[seed-selection-breeding-holzer]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[solomon-gardening-when-it-counts-index]]

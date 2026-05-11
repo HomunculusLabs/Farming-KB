@@ -87,31 +87,3 @@ The species responds well to bonsai techniques including root pruning, branch wi
 ## Cultivation
 
 Propagation is from seed, which requires 90–120 days of cold stratification for uniform germination. Seedling growth is slow, typically 15–30 cm per year. Vegetative propagation from softwood cuttings under mist is possible but success rates are modest.
-
-The species prefers partial to full shade and moist, well-drained, loamy soils. It tolerates full sun in cooler parts of its range but requires supplemental irrigation in hot, exposed sites. Soil pH preference is slightly acidic to neutral.
-
-American hornbeam is hardy in USDA zones 3–9, making it one of the most cold-tolerant understory trees available. It performs best in regions with 750–1200 mm of annual precipitation. Drought tolerance is low compared to associated hardwoods such as oaks and hickories.
-
-Transplanting is moderately difficult due to the dense, fibrous root system. Container-grown stock establishes more reliably than field-dug specimens. Once established, American hornbeam requires minimal maintenance beyond occasional pruning to develop structure.
-
-The species has no significant pest or disease problems. Minor issues include Japanese beetle defoliation and occasional canker infections on stressed trees. Verticillium wilt has been reported but is rare. The dense wood is resistant to decay, allowing standing dead trees to persist for many years.
-
-## See Also
-
-- [[betula-pendula]]
-- [[betula-nigra]]
-- [[corylus-cornuta]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[quercus-robur]]
-- [[quercus-suber]]
-- [[ulmus-americana]]
-- [[ulmus-rubra]]
-- [[tilia-cordata]]
-- [[populus-tremuloides]]
-- [[juglans-nigra]]
-- [[salix-alba]]
-- [[platanus-occidentalis]]
-- [[gleditsia-triacanthos]]
-- [[cedrus-libani]]
-- [[picea-abies]]

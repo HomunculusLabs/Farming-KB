@@ -15,18 +15,18 @@ sources:
   - Tholkappian, P. & Paridha V. (2018). "Terminalia catappa: a review on pharmacological and phytochemical properties." Pharmacognosy Reviews 12(23): 29-35.
   - Francis, J.K. (1992). "Terminalia catappa L." SO-ITF-SM-52. USDA Forest Service, Institute of Tropical Forestry.
   - Elevitch, C.R. (2006). "Terminalia catappa (tropical almond)." Species Profiles for Pacific Island Agroforestry.
-  - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a multipurpose tree." Journal of Pharmacognosy and Phytochemistry 2(1): 30-35.
+  - Chandrasekaran, M. & Senthilkumar, A. (2013). "Terminalia catappa: a [[mollison-designers-chestnut-as-multipurpose-tree-crop]]." Journal of Pharmacognosy and Phytochemistry 2(1): 30-35.
   - Morton, J.F. (1985). "Indian almond (Terminalia catappa), edible nuts and useful products." Economic Botany 39(2): 141-155.
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Terminalia catappa** (tropical almond, Indian almond, or sea almond) is a large deciduous tree in the family Combretaceae. Native to the Indo-Pacific region, it is widely planted throughout the tropics as a shade tree, ornamental, and agroforestry species.
+**Terminalia catappa** (tropical almond, Indian almond, or sea almond) is a large deciduous tree in the family Combretaceae. Native to the Indo-Pacific region, it is widely planted throughout the tropics as a [[mollison-designers-legume-shade-tree-pasture-systems]], ornamental, and agroforestry species.
 
 The tree produces edible almond-flavored seeds that are commercially harvested in many tropical countries. Its broad, symmetrical canopy and [[fungal-salt-tolerance-and-ion-homeostasis]] make it a popular coastal landscaping tree. Leaves undergo dramatic color changes from green to red before abscission.
 
-In traditional medicine across [[psilocybe-southeast-asia-pacific]] and the Pacific Islands, the leaves, bark, and fruit are used to treat various ailments. Modern research has confirmed antioxidant, anti-inflammatory, and hepatoprotective activities in leaf and bark extracts.
+In traditional medicine across [[psilocybe-southeast-asia-pacific]] and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], the leaves, bark, and fruit are used to treat various ailments. Modern research has confirmed antioxidant, anti-inflammatory, and hepatoprotective activities in leaf and bark extracts.
 
 ## Taxonomy and Morphology
 
@@ -56,9 +56,9 @@ The green outer pericarp becomes fibrous and leathery at maturity, enclosing a s
 
 *T. catappa* is native to the coastal regions of the Indian Ocean, Southeast Asia, northern Australia, and the western Pacific. Its exact native range is debated due to centuries of human-mediated dispersal.
 
-It has been introduced and naturalized throughout the tropics, including coastal East Africa, the Caribbean, Central and South America, Hawaii, and much of Polynesia.
+It has been introduced and naturalized throughout the tropics, including coastal East Africa, the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], Hawaii, and much of Polynesia.
 
-It is one of the most common roadside and beach trees in tropical coastal zones worldwide. Human dispersal has been aided by the fruit's ability to float and remain viable after prolonged seawater immersion.
+It is one of the most common roadside and beach trees in tropical [[mollison-designers-sea-level-change-coastal-zones]] worldwide. Human dispersal has been aided by the fruit's ability to float and remain viable after prolonged seawater immersion.
 
 The species thrives in tropical lowland climates from sea level to 800 m elevation. It prefers well-drained sandy or loamy soils and is highly tolerant of saline conditions, making it ideal for coastal planting.
 
@@ -70,7 +70,7 @@ The kernel is the primary edible product, consumed raw, roasted, or salted.
 
 The flavor is mild and almond-like, with a similar but distinct nutritional profile. Kernels contain approximately 50% fat, 20% protein, and 20% carbohydrate.
 
-The oil extracted from kernels is rich in unsaturated fatty acids, particularly oleic acid (C18:1) and linoleic acid (C18:2).
+The oil extracted from kernels is rich in unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], particularly oleic acid (C18:1) and linoleic acid (C18:2).
 
 It is used in cooking in some Pacific Island communities and has potential as a specialty oil crop.
 
@@ -87,31 +87,3 @@ Antioxidant activity of leaf extracts is comparable to or exceeds that of green 
 The tannin fraction is primarily responsible for this activity, with punicalagin showing the highest radical-scavenging capacity. These findings support the traditional use of leaf preparations as a health tonic.
 
 Anti-inflammatory effects have been demonstrated in carrageenan-induced paw edema models. Leaf extracts inhibit COX-2, iNOS, and TNF-α expression in LPS-stimulated macrophages at doses of 50–200 mg/kg in rodents.
-
-Hepatoprotective activity has been confirmed in CCl₄-induced liver injury models, where pretreatment with leaf extract at 200 mg/kg reduced serum ALT and AST levels by 40–60%. The mechanism involves antioxidant protection of hepatocyte membranes.
-
-Antimicrobial activity has been reported against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and some [[bloomfield-fungal-pathogens-and-parasites]]. Activity against Gram-negative bacteria is generally weaker.
-
-## Agroforestry and Permaculture Applications
-
-In permaculture systems, *T. catappa* serves multiple functions including shade, windbreak, soil improvement, and food production.
-
-Its deep taproot system helps break compacted subsoil layers and brings up nutrients from deep soil horizons. This dynamic [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] benefits neighboring plants in the agroforestry system.
-
-Fallen leaves contribute significant [[hamilton-composting-and-organic-matter-management]] to the soil surface. The leaf litter decomposes moderately quickly, releasing nutrients and improving soil structure. In aquaculture, dried leaves are added to fish ponds to control pH and provide tannin-rich water conditions favored by certain ornamental fish species.
-
-The tree is commonly used in coastal agroforestry as an upper-canopy component in multi-strata systems. It is compatible with understory crops including coffee, cacao, vanilla, and various fruit trees.
-
-Its salt tolerance makes it valuable for coastal reclamation and stabilization of sandy soils. In beachfront plantings, it provides [[cervantes-wind-protection-outdoor-cannabis]] and reduces sand erosion. The dense canopy also creates favorable microclimates for understory establishment.
-
-Timber from *T. catappa* is moderately dense (0.5–0.7 g/cm³), reddish-brown, and moderately durable.
-
-It is used locally for construction, boat building, furniture, and firewood. Although not a commercial timber species, the wood takes a good polish and is valued for specialty woodworking.
-
-## See Also
-
-- [[terminalia-arjuna]]
-- [[azadirachta-indica]]
-- [[pachyrhizus-erosus]]
-- [[glycyrrhiza-glabra]]
-- acacia-confusa

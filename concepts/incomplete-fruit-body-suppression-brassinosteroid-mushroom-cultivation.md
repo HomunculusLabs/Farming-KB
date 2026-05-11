@@ -1,5 +1,5 @@
 ---
-title: Incomplete Fruit Body Formation in [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Its Suppression by Brassinosteroids
+title: Incomplete Fruit Body Suppression Brassinosteroid Mushroom Cultivation
 tags: [mycology, brassinosteroid, psilocybe-cubensis, fruiting, morphology, abort, incomplete-fruit-body, mushroom-cultivation]
 created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
@@ -88,42 +88,3 @@ fruit body formation likely involves several pathways:
   compounds in plants. If similar stress-protective effects occur in
   fungi, they could buffer developing primordia against environmental
   fluctuations that would otherwise cause abortion.
-
-## Practical Significance
-
-The suppression of incomplete fruit body formation has significant
-practical value for cultivators:
-
-- **Higher harvestable yield**: Every primordium that matures is a
-  mushroom that can be harvested. Suppressing aborts directly increases
-  the fraction of initiated pins that become productive.
-
-- **Reduced contamination risk**: As discussed in abort management
-  literature, incompletely developed fruit bodies on the casing surface
-  serve as nutrient sources for mold contamination. Their removal
-  reduces this risk.
-
-- **Improved crop uniformity**: A culture where all initiated primordia
-  mature produces a more uniform harvest in terms of size and maturity
-  stage, simplifying processing and quality control.
-
-- **Better flush prediction**: When abort rates are low and predictable,
-  cultivators can more accurately forecast flush timing and yield.
-
-## Dose-Response Considerations
-
-The Gartz study used a single concentration (10⁻² ppm, or 0.01 ppm)
-of 22S,23S-homobrassinolide. The near-complete suppression of incomplete
-fruit bodies at this ultra-low dose suggests a highly sensitive
-hormonal response. It is unclear whether higher doses would provide
-additional suppression or whether the effect plateaus at this
-concentration.
-
-The ultra-low effective dose is economically relevant: even at commercial
-scale, the cost of brassinosteroid application would be negligible per
-unit of substrate.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[mushroom-fruiting-body-morphogenesis]]
-- [[contamination-identification-prevention]]

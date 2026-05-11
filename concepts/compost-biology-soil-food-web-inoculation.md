@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [composting, soil]
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 

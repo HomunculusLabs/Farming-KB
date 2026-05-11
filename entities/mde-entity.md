@@ -11,7 +11,7 @@ sources:
 
 **Chemical name:** 3,4-Methylenedioxy-N-ethylamphetamine
 
-**PiHKAL #106** | [[mda]]|MDA and a close relative of [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+**PiHKAL #106** | [[mda]]|MDA and a close relative of [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
 
 ## Related Compounds
@@ -88,12 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

@@ -88,37 +88,3 @@ contemplative well-being.
 ## The Scientific Context of Discovery
 
 This rivalry occurred during a period of intense scientific activity.
-Hofmann's isolation of [[guzman-allen-gartz-global-psilocybe-biogeography]]. Along with the German Jochen Gartz and the American John
-Allen, Guzman dedicated much of his working life to discovering,
-describing and naming every species of hallucinogenic fungus in the
-world. In 1983, he published his magnum opus, The Genus Psilocybe,
-followed by a lengthy and detailed paper on the world's hallucinogenic
-species, written with these two collaborators.
-
-## The Naming History of Psilocybe Cubensis
-
-The broader taxonomic history of magic mushrooms is itself contentious.
-Psilocybe cubensis was first collected by the American mycologist
-Franklin Sumner Earle in 1904 in Cuba, hence its species epithet,
-although Earle originally placed it in the genus Stropharia. The species
-has since been known by many names across different cultures, from San
-Isidro Labrador in Mexico to 'hed keequai' in Thailand, the 'mushroom
-that appears after the water buffalo defecates'. Each name reflects a
-different cultural relationship with the same organism.
-
-## Legacy of the Dispute
-
-The Singer-Wasson rivalry illustrates the human dimensions of scientific
-discovery. Taxonomic disputes, while seemingly dry and technical, can
-carry enormous personal and professional weight. In this case, the
-dispute was not merely about nomenclature but touched on questions of
-priority, credit, and the very right to name and classify organisms that
-had been used by indigenous peoples for millennia.
-
-## See Also
-
-- [[rolf-singer]]
-
-- [[roger-heim-scientific-study-psilocybin]]
-- [[shroom-cultural-history-western-discovery-valentina-wasson]]
-- [[deconica-crobula]]

@@ -9,14 +9,14 @@ sources: []
 
 # Small Scale Grain Growing
 
-Growing grains on a homestead scale [[oil-drum-sterilizer-mushroom-substrate-bags]] provides food security, animal feed, and a deep connection to the agricultural foundation of civilization. Even a small plot (1/4 acre) can produce meaningful quantities of grain for home use. This guide covers the main grains suitable for homestead-scale production.
+Growing grains on a [[homestead-scale-assessment]] provides food security, animal feed, and a deep connection to the agricultural foundation of civilization. Even a small plot (1/4 acre) can produce meaningful quantities of grain for home use. This guide covers the main grains suitable for homestead-scale production.
 
 ## Grain Types for the Homestead
 
 ### Wheat (Triticum species)
 The most versatile homestead grain. Used for bread flour, pastry flour, flatbreads, and pasta.
 
-- Spring wheat: planted in spring, harvested in late summer. Easier for beginners in cold climates.
+- Spring wheat: planted in spring, harvested in late summer. Easier for beginners [[query-how-do-i-grow-figs-in-cold-climates]].
 - Winter wheat: planted in fall, goes dormant over winter, harvested in early summer. Higher yields and better flour quality in most regions.
 - Varieties: hard red wheat (bread flour, high protein 11-15%), hard white wheat (lighter-colored bread flour), soft white wheat (pastry flour, lower protein 8-10%).
 - Yield: 30-60 bushels per acre on the homestead scale (1 bushel = 60 pounds).
@@ -64,7 +64,7 @@ Grains are relatively undemanding but respond well to good soil preparation:
 ## Planting
 
 ### Broadcast Method
-Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small [[oil-drum-sterilizer-mushroom-substrate-bags]] plots and cover cropping.
+Scatter seed evenly by hand or with a broadcast spreader. Rake or lightly till to cover seed 1-2 inches deep. Requires 20-30% more seed than drilled methods. Good for small plots [[hamilton-green-manure-crops-and-cover-cropping]].
 
 ### Row Method (Drilled)
 Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inches deep in rows 6-8 inches apart. More efficient seed use and easier weed management. Recommended for dedicated grain plots.
@@ -85,7 +85,7 @@ Use a grain drill, Earthway seeder, or create furrows with a hoe. Plant 1-2 inch
 ## Harvesting
 
 ### Determining Readiness
-Grain is ready to harvest when:
+Grain is [[query-how-do-i-know-when-my-cannabis-is-ready-to-harvest]] when:
 - Kernels are hard when bitten (no soft, doughy center)
 - Moisture content is below 14% (use a moisture meter or bite test)
 - Plant has turned golden/brown from top to bottom
@@ -127,5 +127,5 @@ Separating grain from chaff (the lightweight husks and debris):
 ## Related Concepts
 
 - [[saving-seeds]] -- save grain seed from your best plants for next year
-- [[beer-brewing-basics]] -- grow barley and wheat specifically for brewing
+- [[beer-brewing-basics]] -- grow [[ergot-of-barley-and-wheat-alkaloid-composition]] specifically for brewing
 - [[greenhouse-growing-guide]] -- start grain seedlings early indoors in cold climates

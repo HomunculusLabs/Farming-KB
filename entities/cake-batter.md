@@ -88,28 +88,3 @@ Anxiety and paranoia are possible but less common with Cake Batter than with mor
 ## Notable Crosses and Derivatives
 
 Cake Batter has been used as a parent in several subsequent breeding projects. Notable crosses include Cake Batter × Runtz, Cake Batter × Jealousy, and various backcrosses to Wedding Cake. These crosses tend to amplify specific aspects of the Cake Batter profile — the Runtz cross enhances sweetness while the Jealousy cross adds depth to the creamy terpene expression.
-
-The strain's genetics have contributed to the broader "cake" phenotypic category in commercial cannabis, alongside strains like Ice Cream Cake, LA Cake, and Chocolope. This category is defined by dessert-forward terpene profiles, dense bud structure, and balanced hybrid effects.
-
-## Market Availability
-
-Cake Batter is most widely available in California, Oregon, and Oklahoma licensed dispensaries. It is also found in limited supply in Nevada, Arizona, Michigan, and Illinois. Availability fluctuates based on harvest cycles and breeder exclusivity agreements.
-
-Wholesale prices for top-shelf Cake Batter typically range from $1,800–$2,800 per pound in the California regulated market. Prices are lower in Oklahoma's competitive market, where the strain is available from multiple cultivators. The strain is rarely found in illicit markets outside the United States due to its relatively recent development.
-
-## Medical Applications
-
-Cake Batter is sought by medical cannabis patients primarily for anxiety management and stress relief. The caryophyllene-dominant terpene profile provides documented anti-inflammatory and anxiolytic properties through CB2 receptor activation, complementing the psychoactive effects of THC.
-
-Patients with chronic pain conditions report moderate relief, though the analgesic effects are generally less pronounced than with high-myrcene strains. The mood-elevating properties make it useful for managing symptoms of depression and PTSD in some patients.
-
-Appetite stimulation is reliable, consistent with the high THC content and Cookies-family genetics. The balanced hybrid effects mean patients can maintain daytime functionality at moderate doses, making it more versatile than heavily sedative alternatives.
-
-## See Also
-
-- [[granddaddy-purple]]
-- [[gelato]]
-- [[ice-cream-cake-cannabis]]
-- [[og-kush-cannabis-entity]]
-- [[headband]]
-- [[sfv-og]]

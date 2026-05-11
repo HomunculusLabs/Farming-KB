@@ -5,13 +5,14 @@ updated: 2026-04-20
 type: concept
 tags: [organic-gardening, plants]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 # Drought Gardening and Water-Wise Strategies
 
 updated: 2026-04-18
 
-Water-wise gardening is an approach that reduces water consumption while maintaining a productive and attractive garden. Even in temperate climates, periods of drought are becoming more common, and designing gardens that can withstand dry conditions is increasingly important. In the organic garden, water conservation goes hand in hand with soil building -- healthy soils hold more water and support plants that are more drought-resistant.
+Water-wise gardening is an approach that reduces water consumption while maintaining a productive and attractive garden. Even [[query-how-to-grow-and-use-oca-in-temperate-climates]], periods of drought are becoming more common, and designing gardens that can withstand dry conditions is increasingly important. In the [[comparison-vermicomposting-vs-composting-organic-garden]], water conservation goes hand in hand with soil building -- healthy soils hold more water and support plants that are more drought-resistant.
 
 ## Principles of Water-Wise Gardening
 
@@ -28,15 +29,15 @@ Mulch is the single most effective water conservation tool. A 3-4 inch layer of 
 Select plants adapted to dry conditions. Many beautiful garden plants are naturally drought-tolerant once established:
 - **Sedum** (ice plant): Succulent leaves, flat flower heads that attract butterflies
 - **Lavender** (Lavandula): Aromatic, thrives in well-drained soil
-- **Rosemary** (Rosmarinus officinalis): Attractive shrub, thrives in well-drained soil
+- **Rosemary** ([[rosmarinus-officinalis-entity]]): Attractive shrub, thrives in well-drained soil
 - **Yarrow** (Achillea filipendulina): Grows particularly well in chalky, well-drained soils
 - **Cotoneaster**: Drought-tolerant once established; berries attract birds
-- **Periwinkle** (Vinca minor): [[fukuoka-citrus-orchard-ground-cover-cultivation]] that tolerates dry shade
+- **Periwinkle** ([[vinca-minor]]): [[fukuoka-citrus-orchard-ground-cover-cultivation]] that tolerates dry shade
 - **Hosta**: Once established, the large leaves shade the soil surface
 
 ### Water Deeply and Infrequently
 
-Frequent light watering encourages shallow root systems that are vulnerable to drought. Deep, infrequent watering encourages roots to grow deep into the soil profile where moisture is more consistent. Water at the base of plants, not overhead, to reduce evaporation and prevent fungal diseases.
+Frequent light watering encourages shallow root systems that are vulnerable to drought. Deep, infrequent watering encourages roots to grow deep into the soil profile where moisture is more consistent. Water at the base of plants, not overhead, to reduce evaporation and prevent [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 ### Reduce Watering Needs Through Design
 
@@ -87,13 +88,3 @@ Containers dry out much faster than garden soil. In summer, containers may need 
 - Accept that some lawn browning is natural during drought
 
 ### Fall
-- Continue mulching to preserve moisture through winter
-- Plant drought-tolerant species for the following year
-- Leave fallen leaves as mulch rather than removing them
-
-## Related Concepts
-
-- pdc-climate-and-microclimate
-- [[hamilton-wildflower-meadow]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-shade-garden-plants]]

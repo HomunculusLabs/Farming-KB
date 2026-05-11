@@ -10,13 +10,13 @@ sources:
 
 # Amazonian Ayahuasca, Purge, and Diet Practices
 
-The ayahuasca ceremony in the Amazonian vegetalista tradition involves much more than drinking the brew. It encompasses a comprehensive system of purification (the purge), dietary restrictions (la dieta), and specific practices that prepare the participant for visionary experience and healing. These practices are considered essential -- without them, the medicine may not work properly and can cause harm.
+The [[ayahuasca-ceremony-pharmacology-safety]] in the [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] tradition involves much more than drinking the brew. It encompasses a comprehensive system of purification (the purge), dietary restrictions (la dieta), and specific practices that prepare the participant for visionary experience and healing. These practices are considered essential -- without them, the medicine may not work properly and can cause harm.
 
 ## The Ayahuasca Session
 
 ### Preparation
 
-The ayahuasca brew is prepared from Banisteriopsis caapi vine, typically combined with additive plants (admixture plants such as chacruna, toe, clavohuasca, and others). Each variety of ayahuasca (such as lucero ayahuasca, with its distinctive human faces on the stem) has its own spirit teachers and produces different visionary qualities.
+The ayahuasca brew is prepared from [[ayahuasca-and-banisteriopsis-caapi]] vine, typically combined with additive plants (admixture plants such as chacruna, toe, clavohuasca, and others). Each variety of ayahuasca (such as lucero ayahuasca, with its distinctive human faces on the stem) has its own spirit teachers and produces different visionary qualities.
 
 ### The Ceremony
 
@@ -59,7 +59,7 @@ The dieta may last days, weeks, or even months depending on the severity of the 
 
 ### Sacred Role
 
-Mapacho (Nicotiana rustica, Amazonian tobacco) is indispensable in Amazonian healing. It serves multiple functions:
+Mapacho ([[mckenna-shamanic-tobaccos-and-nicotiana-rustica]], Amazonian tobacco) is indispensable in Amazonian healing. It serves multiple functions:
 - **Purification**: Blowing tobacco smoke over the patient cleanses them of negative energies
 - **Protection**: Tobacco smoke creates a protective barrier against sorcery
 - **Diagnostic aid**: The vegetalista blows smoke while examining the patient
@@ -87,37 +87,3 @@ Ritual purification baths (banos) are a common preparatory and curative practice
 - **Achiote**: Mixed with other substances for healing baths
 
 Baths may also involve hydrotherapy -- the use of water from earthen jars that have absorbed sun rays.
-
-## The Schacapa
-
-Pablo Amaringo himself played the schacapa -- a rattle made from the leaves of Pariana sp. -- during healing ceremonies. The rhythmic sound accompanies the icaros and helps maintain the ceremonial atmosphere.
-
-## The Warning Signs
-
-When a dieta is broken or when danger approaches, the vegetalista may see warning signs:
-- The **angash-machohualipa** (brave blue cock) appears as a warning to those who break the diet
-- **Pulsations** change color, indicating spiritual danger
-- **Spirit allies** withdraw or become agitated
-
-## Geotherapy and Earth Medicines
-
-Amaringo's visions describe the use of earth from caves for curing illnesses -- a practice called geoterapia. Ancient civilizations (Egyptian, Mayan, pre-Inca, Inca) all used earth in healing. Flint stones are used for treating pulsano (a specific illness).
-
-## Aerotherapy and Heliotherapy
-
-The spirits teach healing through natural forces:
-- **Aerotherapy**: Healing by means of winds and atmospheric phenomena
-- **Heliotherapy**: Healing by means of the sun
-- **Geotherapy**: Healing through earth application
-- **Hydrotherapy**: Healing through water treatment
-
-The sylphs of thunder and lightning teach these methods. The puyo-runas (cloud men, mist men) are spirits who teach curing through the influence of the moon, the night dew, and other atmospheric phenomena.
-
-## Related
-
-- [[ayahuasqueros-amazonian-shamans]] Topics
-
-- [[amazonian-sorcery-illness-and-curing-practices]] -- the illnesses these practices address
-- [[amazonian-medicinal-plants-in-amaringos-visions]] -- the plants used in treatment
-- [[plant-micronutrients-and-their-essential-functions]]
-- [[water-pathways-through-plants]]

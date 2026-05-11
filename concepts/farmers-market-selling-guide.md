@@ -9,7 +9,7 @@ sources: []
 
 # Farmers Market Selling Guide
 
-Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and community building. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques. (see [[land-selection-for-homesteading]]).
+Farmers markets are the primary sales channel for homestead-scale producers. They offer direct consumer access, premium pricing, and [[homestead-community-building]]. Success requires preparation, presentation, and relationship skills. This guide covers booth setup, display, pricing, licensing, and sales techniques.
 
 ## Getting Started
 
@@ -36,7 +36,7 @@ Farmers markets are the primary sales channel for homestead-scale producers. The
 - Weights and measures certification (if selling by weight)
 - Health department permit (for some products -- varies by state)
 - Liability insurance (most markets require $1-2 million aggregate)
-- Organic certification (only if making organic claims; not required to sell at market)
+- [[fukuoka-critique-organic-certification]] (only if making organic claims; not required to sell at market)
 
 ### Cottage Food Laws
 Most states allow home-produced non-potentially hazardous foods:
@@ -48,7 +48,7 @@ Most states allow home-produced non-potentially hazardous foods:
 - Pickles (properly acidified)
 - NOT allowed: meat, dairy, canned low-acid foods, fresh-cut produce
 
-Check your state's cottage food law for specifics -- see homestead tax planning for business structure. (see [[homestead-financial-planning]]).
+Check your state's cottage food law for specifics -- see homestead tax planning for business structure.
 
 ## Booth Setup
 
@@ -92,7 +92,7 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 ### The Power of Samples
 - Cut fruit for sampling with toothpicks
 - Bread slices with butter or jam
-- Hot sauce with crackers
+- [[fermented-hot-sauce-guide]] with crackers
 - Samples increase sales 20-40%
 - Have napkins, toothpicks, and a trash container
 - Check market rules on sampling (some require permits)
@@ -109,11 +109,11 @@ Check your state's cottage food law for specifics -- see homestead tax planning 
 | Item | Price Range |
 |---|---|
 | Vegetables (per lb) | $3-6 |
-| Salad mix (per bag) | $4-7 |
+| [[coleman-baby-leaf-salad-mix-composition-production]] (per bag) | $4-7 |
 | Pasture eggs (dozen) | $5-9 |
 | Grass-fed ground beef (lb) | $8-12 |
 | Grass-fed steaks (lb) | $15-25 |
-| Sourdough bread (loaf) | $6-12 |
+| [[query-how-to-make-sourdough-bread-at-home]] (loaf) | $6-12 |
 | Dried herbs (1oz) | $3-6 |
 | Hot sauce (5oz) | $7-12 |
 | Jam/jelly (8oz) | $6-9 |

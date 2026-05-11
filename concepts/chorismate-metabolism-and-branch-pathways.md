@@ -88,18 +88,3 @@ the [[tryptophan-decarboxylase]].
 
 Understanding chorismate partitioning is also relevant to
 biotechnological efforts to engineer fungi or bacteria for
-[[fukuoka-textdoc-increased-production-not-increased-yields]] of tryptamine-derived compounds. By
-manipulating branch-point enzyme activities or regulatory
-mechanisms, researchers can potentially redirect metabolic flux
-toward desired biosynthetic outputs.
-
-## Evolutionary Considerations
-
-The shikimate pathway and its chorismate-dependent branches are
-ancient metabolic features shared across bacteria, archaea, fungi,
-and plants. The absence of this pathway in animals means that
-animals must obtain all three aromatic amino acids (phenylalanine,
-tyrosine, and tryptophan) from dietary sources. This fundamental
-metabolic difference has been exploited both by natural antibiotic
-compounds and by pharmaceutical drug design targeting pathogenic
-microorganisms.

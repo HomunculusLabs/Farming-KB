@@ -1,7 +1,7 @@
 ---
-title: [[cannabis-microbiome-cultivar-specificity]] in the Plant Microbiome
+title: Cultivar Specificity Microbiome
 created: 2026-05-09
-source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiome, cultivar, host-genotype, plant-microbe, cannabis, endophytes]
 aliases: [cultivar specific microbiome, genotype-dependent microbiome, host specificity microbiome]
 ---
@@ -88,62 +88,3 @@ habitats:
 
 - **Root branching patterns**: Dense, highly branched root systems create more
   colonization sites and microaerobic niches.
-- **Cortical cell size and density**: Affects the volume and connectivity of
-  the apoplastic space available for endophytic colonization.
-- **Root hair density and length**: Increases root surface area and exudation
-  zone, potentially amplifying rhizosphere selection effects.
-
-## Cross-Species Evidence
-
-Cultivar-specific microbiome effects have been documented in numerous crops:
-
-- **Rice**: Different cultivars maintain distinct root microbiomes, with
-  implications for nitrogen use efficiency and disease resistance.
-- **Maize**: Rhizosphere communities vary between inbred lines, and some
-  heritability of microbiome traits has been demonstrated.
-- **Barley**: Cultivar-specific root exudate profiles correlate with
-  differential recruitment of Pseudomonas and Streptomyces species.
-- **Arabidopsis**: Accessions from different geographic locations maintain
-  distinct root microbiomes even in common garden experiments.
-- **Grapevine**: Vineyard-specific communities influence wine terroir.
-
-## Implications for Cannabis Agriculture
-
-### Cultivar-Microbiome Matching
-
-If specific cultivars selectively recruit beneficial microbial taxa, it may be
-possible to optimize cultivation by matching cultivars with their preferred
-microbial partners through targeted inoculation. This approach — sometimes
-called "precision microbiome management" — could improve consistency and yield.
-
-### Breeding Considerations
-
-Cultivar specificity suggests that microbiome composition is a heritable trait
-influenced by plant genetics. Breeding programs could potentially select for
-cultivars that naturally recruit beneficial microbiomes, reducing the need for
-external microbial inputs.
-
-### Standardization Challenges
-
-Cultivar-specific microbiomes complicate efforts to standardize Cannabis
-production, as the same cultivation protocol may produce different microbial
-communities (and potentially different phytochemical profiles) on different
-cultivars. This is relevant for both medical Cannabis (where consistency is
-critical) and adult-use markets.
-
-## Limitations of Current Evidence
-
-- **Cultivar definitions in Cannabis** are informal and may not reflect
-  meaningful genetic differences. "Sour Diesel" from different sources may be
-  genetically distinct, confounding cultivar comparisons.
-- **Pseudoreplication** is common: samples from different roots of the same
-  plant are not independent biological replicates.
-- **Functional significance** is unclear: we know communities differ, but the
-  consequences for plant health and secondary metabolism remain speculative.
-- **Interaction with soil type** may be non-additive; cultivar effects could
-  be amplified or suppressed in certain soil environments.
-## See Also
-
-- [[two-tier-selection-model]]
-- [[cannabis-endorniza-microbiome]]
-- [[rhizosphere-microbial-communities]]

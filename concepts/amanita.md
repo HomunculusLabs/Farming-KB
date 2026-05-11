@@ -88,29 +88,3 @@ religious contexts.
 
 **Amanita pantherina** (panther cap) contains similar compounds but is
 generally considered more toxic. Proper preparation, including parboiling to
-convert ibotenic acid to muscimol, is essential for safe consumption.
-
-## Ecological Role
-
-The vast majority of Amanita species form [[mycorrhiza|ectomycorrhizal]]
-associations with trees, particularly members of the Fagaceae (oaks, beeches),
-Pinaceae (pines), and Betulaceae (birches). This makes them essential
-components of forest ecosystems, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between soil
-and tree roots. Their inability to grow without tree partners explains why
-they are often found in specific forest types.
-
-## Evolutionary History
-
-The genus originated in the Cretaceous period, approximately 100-130 million
-years ago, coinciding with the rise of angiosperms and diversification of
-ectomycorrhizal associations. Molecular clock analyses suggest that the most
-toxic species in section Phalloideae are relatively recent arrivals, with
-amatoxin biosynthesis evolving independently in several lineages as a defense
-mechanism against mycophagous animals.
-
-## See Also
-
-- [[amanita-vaginata]]
-- [[mycorrhiza]]
-- [[mushroom-cultivation]]
-- [[giorgio-samorini]]

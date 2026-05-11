@@ -20,7 +20,7 @@ sources:
 
 **Prunus avium**, the sweet cherry, is a deciduous tree in the family
 Rosaceae native to Europe, western Asia, and northwestern Africa. It is
-one of the most commercially important temperate fruit crops, prized for
+one of the most commercially important temperate [[uncommon-specialty-fruit-crops-for-permaculture]], prized for
 its sweet, juicy fruit.
 
 The species also has significance as a timber tree, producing
@@ -45,7 +45,7 @@ orange-red in autumn.
 Flowers are hermaphroditic, white, approximately 2–3 cm in diameter,
 borne in corymbs of 2–6 in [[coleman-overwintered-onions-and-early-spring-crops]] before or with leaf emergence.
 
-Fruit is a drupe (stone fruit) 1–3 cm in diameter, typically dark red
+Fruit is a drupe ([[holzer-stone-fruit-varieties-and-growing]]) 1–3 cm in diameter, typically dark red
 to nearly black at maturity. The flesh is firm, sweet, and juicy,
 enclosing a hard, smooth stone.
 
@@ -74,8 +74,8 @@ Flowering occurs early in spring, making the crop vulnerable to late
 frost damage. [[holzer-frost-protection-techniques]] methods include wind machines,
 overhead sprinklers, and heaters.
 
-Key pests include the cherry fruit fly (*Rhagoletis cerasi*), cherry
-aphid (*Myzus cerasi*), and brown rot (*Monilinia fructicola*).
+Key pests include the cherry [[fukuoka-australia-fruit-fly-incident]] (*Rhagoletis cerasi*), cherry
+aphid (*Myzus cerasi*), [[query-difference-between-white-rot-and-brown-rot-fungi]] (*Monilinia fructicola*).
 Bacterial canker (*Pseudomonas syringae*) is the most serious disease
 concern in humid growing regions.
 
@@ -88,39 +88,3 @@ rootstock, and growing conditions. Orchard lifespan is typically
 15–25 years.
 
 ## Nutritional Value
-
-Sweet cherries are a good source of vitamin C (7–10 mg per 100 g),
-potassium (approximately 220 mg per 100 g), and dietary fiber.
-
-The fruit contains significant levels of anthocyanins, particularly
-cyanidin 3-glucoside and cyanidin 3-rutinoside. These pigments
-contribute antioxidant and anti-inflammatory properties.
-
-Melatonin content in sweet cherries has attracted research interest,
-with values ranging from 0.1–1.5 µg per gram. Tart cherries
-(*Prunus cerasus*) contain substantially higher melatonin levels.
-
-Other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include hydroxycinnamic acids (neochlorogenic
-and chlorogenic acid), flavanols (catechin and epicatechin), and
-carotenoids (beta-carotene and beta-cryptoxanthin).
-
-## Economic and Cultural Significance
-
-Turkey is the world's largest producer of sweet cherries, accounting
-for approximately 20–25% of global production. The United States,
-particularly the Pacific Northwest, is the second-largest producer.
-
-The species has cultural significance across Europe. In Japan, cherry
-blossom viewing (*hanami*) centers on *Prunus serrulata*, but sweet
-cherry wood has been historically valued for artisanal craft.
-
-Sweet cherry wood is reddish-brown, fine-grained, and moderately hard.
-It is used for furniture, musical instruments, cabinetmaking, and
-smoking meats.
-
-## See Also
-
-- [[morus-nigra]]
-- [[citrus-sinensis]]
-- [[cydonia-oblonga]]
-- [[quercetin]]

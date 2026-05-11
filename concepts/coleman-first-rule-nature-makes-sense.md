@@ -87,34 +87,3 @@ Coleman used lawns as an accessible illustration:
 > "If you doubt this approach, look closely at wild vegetation on undisturbed land. Certain groups and types of plants grow in one place and not another. The native vegetation is an excellent indication of how differing soil conditions favor the physiological needs of some plants over others."
 
 ## The Detective Work of Farming
-
-Coleman encouraged farmers to become keen observers and detectives:
-
-- Are all plants equally affected, or only those at one end of the row?
-- What is the soil difference in affected vs. unaffected areas?
-- Is that where you limed or didn't lime because you ran out?
-- Did you compost that area with different material?
-- Did you chisel-plow the whole field or just along one edge?
-- Is the good section where fall leaves have been blowing onto for years?
-- Was there an old pile of rotten hay bales sitting there?
-
-## Application to Greenhouse Growing
-
-Coleman specifically addressed whether adding the artificial confines of a greenhouse changes the [[coleman-pest-philosophy-first-rule]]:
-
-> "I do not believe so. What I do believe is that a successful partnership with the natural world requires a complete overhauling of our attitude toward pests."
-
-The greenhouse does not change the principle — it intensifies the need for it. The controlled environment of a greenhouse makes cause-and-effect relationships more visible, not less.
-
-## The Art of Land Doctoring
-
-Coleman quoted Aldo Leopold: "The art of land doctoring is being practiced with vigor, but the science of land health is yet to be born."
-
-This captures the essence of the first rule: agriculture currently practices reactive treatment (doctoring) rather than proactive health creation. The first rule points toward that yet-to-be-born science of land health — a systematic approach to creating conditions where plants are naturally resistant to pests and disease.
-
-## See Also
-
-- [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] — Applying the first rule to greenhouse aphids
-- [[coleman-insects-diseases]] — Insects and disease as symptoms
-- [[coleman-season-extension-timeline-and-frost-protection]] — Plants as communicators
-- [[coleman-deep-organic-vs-shallow-organic-farming]] — The "un-survival" concept in practice

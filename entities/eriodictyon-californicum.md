@@ -33,13 +33,13 @@ sources:
 **Eriodictyon californicum** (Hook. & Arn.) Torr., commonly known as yerba
 santa ("sacred herb" in Spanish), is an evergreen shrub in the family
 Hydrophyllaceae (or Boraginaceae, under modern APG IV classification).
-Native to the western slopes of California and the Pacific Northwest, it
+Native to the western slopes of California and the [[psilocybin-north-america-pacific-northwest]], it
 is one of the most important medicinal plants in the pharmacopoeia of
 Native California peoples, who have used it for centuries to treat
 respiratory ailments, wounds, and musculoskeletal pain.
 
 The plant's common name was bestowed by Spanish missionaries who observed
-its central role in Indigenous healing practices. It entered Western
+its central role in Indigenous [[blesching-cannabis-healing-practices-setting-intention-affirmations]]. It entered Western
 pharmacology in the late 19th century and was listed in the US
 Pharmacopoeia from 1894 to 1960 as a respiratory remedy. Its leaves
 contain the flavanone eriodictyol, a potent expectorant and
@@ -88,42 +88,3 @@ terpenoids:
   reducing its viscosity.
 - **Hesperidin and homoeriodictyol** — flavanone glycosides that
   complement eriodictyol's bronchodilatory activity.
-- **Sterubin** — a flavanone with potent neuroprotective properties
-  identified in 2018 as one of the strongest flavonoid neuroprotectors
-  known (active against oxidative stress-induced neuronal death).
-- **Eriodictyol-7-O-glucoside** — water-soluble glycoside with
-  anti-inflammatory activity.
-- **Resin acids and terpenes** — contribute to the sticky exudate and
-  possess [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-
-## Pharmacology and Health Effects
-
-Eriodictyol and related compounds underpin a well-documented
-pharmacological profile focused on respiratory and inflammatory conditions:
-
-- **Expectorant** — eriodictyol acts as a mucolytic expectorant,
-  increasing bronchial secretion volume and reducing sputum viscosity.
-  Historically used for bronchitis, asthma, and chronic cough.
-- **Bronchodilator** — clinical studies demonstrate relaxation of
-  tracheal smooth muscle via modulation of calcium channels; effective
-  in exercise-induced bronchospasm.
-- **Anti-inflammatory** — inhibits COX-2, TNF-α production, and NF-κB
-  signaling in vitro; reduces airway inflammation in animal models.
-- **Neuroprotective** — sterubin shows IC50 of 40 nM against
-  oxidative stress-induced neuronal death, outperforming fisetin and
-  luteolin in preclinical studies of Alzheimer's disease models.
-- **Antimicrobial** — resin extracts inhibit growth of respiratory
-  pathogens including *Streptococcus pneumoniae* and *Haemophilus
-  influenzae*.
-
-## Traditional and Modern Use
-
-California Native peoples — including the Chumash, Ohlone, Pomo, and
-Miwok — used yerba santa leaves for respiratory conditions (pneumonia,
-tuberculosis, colds), wound poultices, sore throat, and muscle aches.
-Leaves were chewed fresh, brewed as tea, or smoked. The Kawaiisu used
-a leaf decoction for stomach complaints and as a general tonic.
-
-In Western [[glycyrrhiza-glabra]] — licorice root, synergistic respiratory expectorant
-- [[verbascum-thapsus]] — mullein, respiratory remedy from a different tradition
-- [[usnea-barbata]] — old man's beard lichen, respiratory remedy in traditional medicine

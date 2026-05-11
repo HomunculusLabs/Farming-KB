@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G. (2005). "Species Diversity of the Genus Psilocybe (Basidiomycotina, Agaricales, Strophariaceae) in the World Mycobiota, with Special Attention to Hallucinogenic Properties." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 7(4), 305-316.
-  - Guzmán, G., Tapia, F. & Gándara, D. (2004). "A new bluing species of Psilocybe section Stropharia from Spain." Mycotaxon, 89, 177-180.
+  - Guzmán, G., Tapia, F. & Gándara, D. (2004). "A new bluing species of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Stropharia from Spain." Mycotaxon, 89, 177-180.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Borovička, J., Noordeloos, M.E. & Gryndler, M. (2015). "Molecular phylogeny of Psilocybe sensu lato." Mycologia, 107(6), 1274-1286.
 ---
@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-*Psilocybe margaritalis* is a rare, bluing species of psychoactive mushroom in the
+*Psilocybe margaritalis* is a rare, bluing species of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the
 family Hymenogastraceae (formerly Strophariaceae).
 
 It was first described from Spain and is one of the lesser-known members of
-the genus that produces psilocybin and psilocin as primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
+the genus that produces [[hplc-analysis-of-psilocybin-and-psilocin]] as primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
 
 The species epithet "margaritalis" references the pearly or pearl-like appearance
 of its cap surface, particularly when moist.
@@ -70,7 +70,7 @@ upper stipe. May be absent in mature specimens.
 
 **Flesh:** Thin, whitish, bluing slowly to moderately on exposure to air.
 
-**Spore Print:** Dark purplish-brown.
+**[[boil-a-bag-spore-print-technique-jarrold]]:** Dark purplish-brown.
 
 **Spores:** Ellipsoidal to subellipsoidal, 10–13 × 6.5–8 µm, thick-walled,
 with a broad germ pore.
@@ -88,57 +88,3 @@ soil moisture levels support fruiting.
 
 Its full geographic range remains poorly understood due to limited collecting
 effort and its resemblance to other small, brown *Psilocybe* species.
-
-## Bioactive Compounds
-
-The species is confirmed to contain **psilocybin** and **psilocin** based on
-Guzmán's taxonomic placement within the bluing *Psilocybe* clade and
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of related taxa.
-
-Quantitative analysis specific to *P. margaritalis* has not been published,
-but related section *Stropharia* species typically contain 0.2–1.0% total
-alkaloids (dry weight).
-
-Bluing reaction upon bruising is a reliable field indicator of psilocybin
-presence, though the correlation is not absolute across all fungal taxa.
-
-No additional bioactive alkaloids have been specifically reported for this species.
-
-## Similar Species
-
-*P. margaritalis* can be confused with several other small, brown, grassland
-*Psilocybe* species, including:
-
-- ***[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*** — the liberty cap, more pronounced papilla,
-  tighter association with grass roots.
-- ***Psilocybe hispanica*** — another Iberian species, generally smaller,
-  more conic cap.
-- ***Psilocybe liniformans*** — similar habitat, distinguished by
-  gelatinous gill edges.
-- ***Psilocybe fimetaria*** — typically found in more dung-associated
-  habitats with a more viscid cap surface.
-
-The pearly sheen on the fresh cap and the specific combination of spore
-size, habitat, and geographic range serve as primary diagnostic characters.
-
-## Ecological Role
-
-As a saprotrophic fungus, *P. margaritalis* decomposes organic matter in
-grassland soils, contributing to nutrient cycling in pastoral ecosystems.
-
-Its [[king-stropharia-ecological-interactions-permaculture]], including potential mycorrhizal associations,
-remain unstudied.
-
-## Significance
-
-*P. margaritalis* is of taxonomic and phylogenetic interest within
-the *Psilocybe* genus, contributing to understanding the diversity of
-psychoactive fungi in Mediterranean Europe.
-## See Also
-
-- [[baeocystin]]
-- [[mycorrhiza]]
-
-- psilocybe-hispanica
-- [[psilocybe-serbica]]
-- [[psilocybe-azurescens]]

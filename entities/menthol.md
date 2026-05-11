@@ -67,11 +67,11 @@ Systemic effects at typical topical doses are minimal, though ingestion of high 
 Other natural sources include:
 
 - **Cornmint (*Mentha arvensis*):** 70–80% menthol content, the dominant source for industrial production
-- **Eucalyptus species:** Minor menthol constituent alongside eucalyptol
+- **Eucalyptus species:** Minor menthol constituent alongside [[eucalyptol]]
 - **Monarda species (bee balm):** Trace amounts
 - **Hedeoma species (American pennyroyal):** Variable menthol content
 
-Biosynthetically, menthol is derived from geranyl pyrophosphate via limonene as the key intermediate. Limonene is hydroxylated to trans-isopiperitenol, then reduced through a four-step enzymatic cascade involving isopiperitenone dehydrogenase, isopiperitenol reductase, pulegone reductase, and menthone reductase.
+Biosynthetically, menthol is derived from geranyl pyrophosphate via [[limonene]] as the key intermediate. Limonene is hydroxylated to trans-isopiperitenol, then reduced through a four-step enzymatic cascade involving isopiperitenone dehydrogenase, isopiperitenol reductase, [[pulegone]] reductase, and menthone reductase.
 
 ## Production Methods
 
@@ -83,39 +83,7 @@ Global menthol production exceeds 30,000 metric tons annually, with production s
 - Further purification by [[cannabis-fractional-distillation-cannabinoids]] and recrystallization
 
 **Synthetic production:**
-- **Takasago process (citronellal cyclization):** The dominant industrial route, starting from myrcene. Myrcene is converted to geranyl chloride, then to citronellal, which undergoes asymmetric cyclization to isopulegol using a chiral ruthenium-BINAP catalyst. Hydrogenation yields (-)-menthol with >99% enantiomeric excess.
-- **BASF process (thymol hydrogenation):** m-Cresol is alkylated with propylene to thymol, then hydrogenated to a racemic menthol mixture followed by resolution.
+- **Takasago process (citronellal cyclization):** The dominant industrial route, starting from [[myrcene]]. Myrcene is converted to geranyl chloride, then to citronellal, which undergoes asymmetric cyclization to [[isopulegol]] using a chiral ruthenium-BINAP catalyst. Hydrogenation yields (-)-menthol with >99% enantiomeric excess.
+- **BASF process ([[thymol]] hydrogenation):** m-Cresol is alkylated with propylene to thymol, then hydrogenated to a racemic menthol mixture followed by resolution.
 
 The Takasago process is notable for using the first industrially applied asymmetric catalytic step, developed by Ryoji Noyori (Nobel Prize in Chemistry, 2001).
-
-## Applications
-
-**Pharmaceutical:**
-- Topical analgesic in creams, gels, and patches (e.g., Bengay, IcyHot)
-- Decongestant in chest rubs and inhalers (Vicks VapoRub)
-- Oral analgesic in lozenges and throat sprays
-- Gastrointestinal antispasmodic in enteric-coated formulations
-- Treatment of pruritus in anti-itch preparations
-- Intravesical instillation for interstitial cystitis
-
-**Cosmetics and personal care:**
-- Toothpaste and mouthwash flavoring (0.04–0.3% typical concentration)
-- Shaving creams and aftershaves for cooling sensation
-- Shampoos and hair care products
-- Soaps and body washes
-
-**Food and beverage:**
-- Confectionery flavoring (mints, chewing gum)
-- Beverage additive in teas and liqueurs
-- GRAS status at concentrations up to 0.04% in food
-
-**Tobacco:**
-- Flavorant and cooling agent in cigarettes and vaping products
-- Subject of regulatory scrutiny due to appeal to young users
-
-## See Also
-
-- [[eucalyptol]] — Monoterpene ether from eucalyptus with overlapping decongestant use
-- [[mentha-piperita]] — Primary natural source plant for menthol production
-- [[linalool]] — Monoterpene alcohol with sedative rather than cooling properties
-- [[salvia-officinalis]] — Sage, another Lamiaceae source of terpene-rich [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]

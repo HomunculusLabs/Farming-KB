@@ -22,12 +22,12 @@ sources:
 
 # Mycorrhizal Crop Studies
 
-Research-validated results of mycorrhizal inoculation on specific crops. Each entry notes the fungal species tested and measured outcomes. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the biological basis and [[mycorrhizal-inoculum-production]] for making inoculum.
+Research-validated results of [[mycorrhizal-inoculation]] on specific crops. Each entry notes the fungal species tested and measured outcomes. Based on Jeff Lowenfels' *[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]*. See [[mycorrhizal-fungi]] for the biological basis and [[mycorrhizal-inoculum-production]] for making inoculum.
 
 ## Vegetables
 
 ### Cannabis (*Cannabis sativa*)
-- **Fungi:** Rhizophagus intraradices, Funneliformis mosseae
+- **Fungi:** Rhizophagus intraradices, [[funneliformis-mosseae]]
 - **Results:** Increased growth, improved flower number and size, enhanced nutrient uptake. Full colonization takes up to 6 weeks from seed inoculation, but benefits begin before full colonization. Hydroponic studies show C. claroideum, C. etunicatum, F. geosporum, F. mosseae, G. microaggregatum, R. clarus, and R. intraradices all successful in rockwool — but R. intraradices alone produces similar results to multi-species mixes.
 
 ### Tomato (*Solanum lycopersicum*)
@@ -43,7 +43,7 @@ Research-validated results of mycorrhizal inoculation on specific crops. Each en
 - **Results:** Root tissue +35% (F. mosseae), +98% (R. fasciculatus). Drought wilting delayed with R. intraradices. Better salt stress tolerance. Mycorrhizal hyphae bring more nitrogen to roots during drought.
 
 ### Potato (*Solanum tuberosum*)
-- **Fungi:** Funneliformis mosseae, Rhizophagus irregularis, Claroideoglomus etunicatum, R. intraradices
+- **Fungi:** Funneliformis mosseae, [[rhizophagus-irregularis]], Claroideoglomus etunicatum, R. intraradices
 - **Results:** Increased number and size of tubers (nearly 50% more in one study). Native Andean potatoes host 8 of 11 Glomeromycota families. Varieties show selectivity for fungal species — test strains for your variety.
 
 ### Lettuce (*Lactuca sativa*)
@@ -90,7 +90,7 @@ Research-validated results of mycorrhizal inoculation on specific crops. Each en
 
 ### Soybean (*Glycine max*)
 - **Fungi:** Rhizophagus fasciculatus, Funneliformis mosseae
-- **Results:** R. fasciculatus improved yield, seed weight, pod and seed numbers. F. mosseae better drought tolerance. Slower colonization in tilled soils.
+- **Results:** R. fasciculatus improved yield, seed weight, pod and seed numbers. F. mosseae better [[dighton-fungal-drought-tolerance-plant-water-relations]]. Slower colonization in tilled soils.
 
 ### Chickpea (*Cicer arietinum*)
 - **Fungi:** Funneliformis mosseae, Rhizophagus intraradices, R. fasciculatus, Scutellospora gilmorei
@@ -141,7 +141,7 @@ Research-validated results of mycorrhizal inoculation on specific crops. Each en
 1. **Multi-species mixes often outperform single species** — different fungi excel at different functions (drought, P uptake, disease resistance)
 2. **Benefits are most dramatic in low-nutrient soils** — mycorrhizae bridge the gap when P and N are limiting
 3. **Disease resistance is a consistent benefit** — reduced nematode populations, wilt resistance, pathogen protection across most crops
-4. **Excess phosphorus negates benefits** — high-P soils suppress mycorrhizal colonization
+4. **Excess phosphorus negates benefits** — high-P soils suppress [[arbuscular-mycorrhizal-colonization-patterns]]
 5. **Colonization takes 2-6 weeks** — benefits begin before full colonization but peak once established
 6. **Crop variety matters** — some varieties show fungal selectivity (especially potatoes)
 

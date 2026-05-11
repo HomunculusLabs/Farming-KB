@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -86,53 +87,3 @@ date palm, oaks (especially white oak, cork oak, turkey oak),
 yams, taro, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, elephant-foot yam, Maranta.
 
 ## The Pig Tractor System
-
-Twenty pigs per 4,000 square metres (1 acre) will plow (by
-scratching and rooting) the area for planting comfrey, sunroot,
-lucerne, chicory, and clover. It then needs to rest. One
-hundred pigs in 2 ha (5 acre) pens will plow 40 ha (100 acres)
-in 18 months. They will remove gorse, blackberries, and small
-shrubs. They can be followed by sowing, then cattle, then pigs
-again.
-
-This "pig tractor" system obviates the use of mechanised
-tractors and improves soils. It reproduces the high yields of
-natural wildlife systems and is well worth trials in any area.
-
-## Pen Layout and Stocking
-
-Count on at least 1 ha (2.5 acres) per breeding sow, laid out
-with areas for tree planting outside and in the corners to start
-with. Later, pens can be planted out in blocks using electric
-fencing to keep pigs away from young trees. In the tropics,
-banana, papaya, and like fruits will be rooted out by pigs, so
-these need to be outside the pens. As pigs are moved, root crop
-can be planted in the pens.
-
-## Fat Quality and Diet
-
-Free-range pigs are not always suitable for bacon, and may need
-grain-feeding for 2-4 weeks to harden (saturate) the fats.
-However, for fresh or frozen pork the soft fats are quite
-suitable and healthier for human consumption. A lot of vegetable
-oil from avocadoes, oil palms, olives, or oily fish will produce
-soft fats in pigs.
-
-## Establishing the Forage System
-
-It takes 3-5 years to develop a full complement of foods on
-range. Some foods must be thrown over the fence to the pigs,
-as is the case for bananas and papayas. The whole site plan
-can be handled fairly casually for a few pigs on a large range,
-or a clean pen will hold a family of pigs for using surplus
-crop, but needs very careful planning and siting if pig-raising
-is to be an occupation.
-
-## See Also
-
-- mollison-animal-range-management
-- [[animal-tractoring]]
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[permaculture-design]]
-- [[chinese-tallow-tree]]
-- [[jerusalem-artichoke]]

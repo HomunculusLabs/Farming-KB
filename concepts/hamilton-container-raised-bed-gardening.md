@@ -1,7 +1,7 @@
 ---
 title: Container and comparison-chinampas-vs-raised-bed-gardening Gardening
 created: 2026-04-26
-author: Geoff Hamilton
+author: [[geoff-hamilton-organic-techniques]]
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
@@ -9,7 +9,7 @@ tags: [gardening]
 ---
 
 # Container and [[geoff-hamilton]]
-emphasizes that containers are not just a substitute for garden beds --
+emphasizes that containers are not just a substitute for [[natural-farming-guide-hugelkultur-mounded-garden-beds]] --
 they offer unique opportunities for creative planting and for catering to
 specific plant needs.
 
@@ -84,49 +84,7 @@ substitute, or three parts peat-substitute to one part sharp sand.
 Spread chipped [[fukuoka-pine-bark-weevil-ecology]] around the base to hide the ties.
 
 ### Deep Beds for Vegetables
-The deep bed system (4 ft wide) doubles productive land by eliminating
+The [[hamilton-deep-bed-system]] (4 ft wide) doubles productive land by eliminating
 unproductive paths between rows. Dig deeply, break up subsoil, and
 incorporate plenty of [[hamilton-composting-and-organic-matter-management]]. Roots grow downward rather than
 spreading sideways, so crops are planted closer together. Yields can
-be up to four times that of conventional beds.
-
-### Building Raised Beds
-Mark out the area and lay railroad ties on their sides along the edge.
-Hammer stakes at corners and where ties meet, nailing them securely.
-The wall can be one or two ties high. Fill with your chosen soil mix.
-
-## Maintenance of Container Plants
-
-### Watering
-Container plants need regular watering -- daily in summer. Only very
-heavy rain provides enough water. In winter, water only when the
-weather is very dry.
-
-### Feeding
-Nutrients are continually washed through the compost. Feed weekly
-with liquid kelp or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] during the [[savory-growing-season-and-non-growing-season-management]]. No
-feeding is necessary in winter.
-
-### Deadheading
-Remove spent flowers to extend the flowering season and encourage
-further blooms.
-
-### Winter Protection
-Tender plants in containers are more vulnerable to frost than those
-in the ground because the roots are exposed. Wrap pots in bubble wrap
-or hessian, move to a sheltered position, or bring under cover.
-
-## No-Dig Gardening
-
-A variation on raised bed gardening is the no-dig method. Lay thick
-layers of organic matter (compost, manure, cardboard, newspaper) on
-top of the existing soil and plant directly into this. This avoids
-disturbing the soil structure and preserves the activity of soil
-organisms. Particularly effective for heavy clay soils.
-
-See also: [[hamilton-herb-garden-design]],
-[[hamilton-organic-fruit-growing]]
-
-## See Also
-
-- [[comparison-wicking-bed-vs-container-gardening]]

@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Bill Mollison, Permaculture: A Designers Manual
   - Bill Mollison, Permaculture: A Practical Design for a Sustainable Future
   - Harbhajan Singh, Mycoremediation: staycare-composting-as-a-fungal-bioremediation-strategy

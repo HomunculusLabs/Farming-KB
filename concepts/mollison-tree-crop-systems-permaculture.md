@@ -1,17 +1,17 @@
 ---
-title: Tree Crop Systems in Permaculture
+title: Mollison Tree Crop Systems Permaculture
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
+sources: bill-mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
 type: concept
 tags: [culture, permaculture, tree-crop]
 ---
 
 # Tree Crop Systems in Permaculture
 
-Tree crops form the backbone of Mollison's permanent agriculture
+[[mollison-designers-avocado-mango-and-subtropical-tree-crops]] form the backbone of Mollison's permanent agriculture
 vision. In Permaculture Two, he argues that tree crops can largely
-supplant grains for animal forage while simultaneously providing
+supplant grains for [[permaculture-designers-manual-animal-forage-systems]] while simultaneously providing
 human food, fuel, timber, and ecological services. The book provides
 detailed species lists, planting strategies, and management
 approaches for integrating trees into productive landscapes.
@@ -37,7 +37,7 @@ The age-old problem of seasonal fodder shortage is central to
 Mollison's tree crop strategy. In temperate lands, both annuals and
 perennials in pasture reach peak productivity in spring, with a
 lesser autumn flush. This creates shortfalls in midsummer (due to
-drought) and midwinter (due to cold and slow growth).
+drought) and midwinter (due to cold and [[holmgren-long-rotation-forestry-slow-growth]]).
 
 Tree-crop infills can level out forage production to approximate
 stock needs year-round:
@@ -45,7 +45,7 @@ stock needs year-round:
 - **Midsummer feed:** Carob and [[permaculture-honey-locust-pod-fodder-system]] pods, foliage of
   Coprosma, pampas grass, and Chaetocystis
 - **Autumn/winter feed:** The same foliage plants plus oaks,
-  chestnut, and black walnut
+  chestnut, and [[black-walnut-juglans-nigra]]
 
 These feeds are concentrated, high-energy foods enabling more
 efficient use of dry pasture or rank grasses. A gradual 4-10 year
@@ -88,60 +88,3 @@ available for pole timbers.
 The rolling permaculture provides: a sheltered nesting, lambing, or
 calving place; early diversification into honey and pollen
 production; later diversification into nut crops and other animal
-and plant products; and increased meat production from reduced
-animal stress.
-
-## Multi-Tier Tree Systems
-
-The book describes traditional multi-tier agriculture where palms
-rise above villages, with olive beneath, then fig, then pomegranate
-and vine, then grain and vegetables at ground level. This vertical
-stacking uses shade cast by taller plants to protect rather than
-compete with lower layers. In nature, the degree of stacking is
-limited by rainfall, with large areas of bare ground between plants
-in desert environments.
-
-## Specific Tree Crop Species
-
-Mollison provides extensive species lists for various functions:
-
-**Fodder trees:** Tagasaste, carob, honey locust, mulberry, fig, oak,
-chestnut, black walnut, kurrajong, willow, poplar
-
-**Forage vines:** Kudzu (Thunbergia), chayote, gabizura (Actinostemma
-lobatum), banana passionfruit (frost-resistant, trellised on eucalypt)
-
-**Forage roots:** Nut-grass (Eleocharis), sour-grass (Oxalis), oca,
-[[comparison-jerusalem-artichoke-vs-potato]] (under oak forest or poor soil)
-
-**Forage herb layer:** Clovers, medics, lucerne, chicory, asparagus,
-plantain, fennel
-
-**Broadcast sowing under trees:** Sunflower, millets, corn, buckwheat,
-wheat, rye, barley, oats, teffi, chenopodium
-
-**Pulses for tree crop understory:** Chick pea, lentils, field peas,
-lab-lab, centrosema
-
-**Special [[free-range-poultry-forage-design-mollison]] trees:** Pokeweed (for pigeons), wood
-millet, lupin, partridge berry (under pine or acid soil), Celtis
-spp., wild rye (moderate salinity)
-
-## Long-Term Persistence
-
-Mollison notes that some elements and structures should persist for
-millennia, with the preservation of "edge" maintaining choice and
-the persistence of smaller, short-lived, and open-situation species.
-A well-occupied tree system resists invasion by rampant forms such as
-blackbirds and blackberries, so that initial diversity plus lack of
-disturbance are the factors that preserve the diversity-stability
-## See Also
-
-- [[permaculture-tree-crop-systems]]
-- mollison-aquatic-polyculture-systems
-- [[mollison-animal-integration-permaculture-design]]
-
-- tree-crops
-- [[agroforestry|agroforestry]]
-- [[jerusalem-artichoke]]
-- [[bill-mollison]]

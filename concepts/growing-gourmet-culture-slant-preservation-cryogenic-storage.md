@@ -9,14 +9,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, Paul Stamets, 1993, Chapter 13
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, [[paul-stamets]], 1993, Chapter 13
 type: concept
 created: 2026-04-28
 ---
 
 # Mushroom Culture Slant Preservation and Cryogenic Storage
 
-Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out eventually, making the [[growing-gourmet-stamets-p-value-strain-age-system|P-value]] of each slant to know its generational age
+Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out eventually, making the [[growing-gourmet-stamets-p-value-strain-age-system]] of each slant to know its generational age
 5. Use the oldest slants first for working cultures, preserving the youngest for archival purposes
 6. For tropical species like Volvariella, avoid standard refrigeration and use specialized warm-storage protocols
 7. Inspect stored slants visually every 3 to 6 months for signs of contamination or desiccation
@@ -24,9 +25,9 @@ Every [[dikaryon-formation-mushroom-strain-genetics]] is certain to die out even
 
 ## Related Concepts
 
-- [[growing-gourmet-stamets-p-value-strain-age-system|Stamets P-Value System]]
+- [[growing-gourmet-stamets-p-value-strain-age-system]]
 - Grain [[mushroom-spawn-generation-limits]]
-- [[growing-gourmet-spore-germination-strain-isolation|Spore Germination and Strain Isolation]]
+- [[growing-gourmet-spore-germination-strain-isolation]]
 - Agar [[agar-culture-techniques-detailed]]
 - Nutrified [[growing-gourmet-agar-media-formulas-preparation]] Formulas and Preparation
 ## Practical Applications
@@ -46,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,24 +87,3 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[grain-spawn-generation]]

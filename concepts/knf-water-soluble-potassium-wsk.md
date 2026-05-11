@@ -1,7 +1,7 @@
 ---
 title: "Water-Soluble Potassium (WS-K)"
 created: 2026-04-28
-tags: [knf, natural-farming, potassium, plant-nutrition, deficiency]
+tags: [knf, [[natural-farming]], potassium, plant-nutrition, deficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [raw/papers/chos-global-natural-farming.md]
@@ -16,7 +16,7 @@ macronutrients essential for plant growth, and its deficiency can
 significantly reduce [[fukuoka-hotel-analogy-crop-yield-model]] and quality. In KNF, WS-K is extracted
 through a simple water-percolation method using dried tobacco stems,
 providing a natural source of this critical nutrient without
-synthetic fertilizers.
+[[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
 
 ## Understanding Potassium in Plants
 
@@ -28,12 +28,12 @@ to grow meristematic tissues, which are responsible for cell
 division and new growth.
 
 Potassium regulates plant stomata and water use. At low
-concentrations, potassium decreases the growth rate, the size of
+concentrations, potassium decreases the [[soil-temperature-plant-growth-rate-doubling-rule]], the size of
 fruit, and the moisture content in tissues. When stomata are open,
 potassium content in guard cells is high; when closed, it is low.
 Guard cells produce ATP through photosynthesis and absorb potassium
 using this energy. Potassium accumulation creates [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-that opens stomata for gas exchange.
+that opens stomata for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]].
 
 Additionally, potassium promotes synthesis of carbon dioxide-fixing
 enzymes and activates various enzyme reaction systems. It functions to
@@ -88,58 +88,3 @@ Steps for preparation:
 
 WS-K must be used alone rather than combined with other inputs at
 the same time. The application ratio is 0.7 liters of crude
-potassium liquid diluted with 20 liters of water.
-
-An important caution: if WS-K is applied with nitrogen in hot, humid
-conditions or on a rainy day, it may produce a synergy effect that
-helps plants absorb excessive nitrogen, resulting in overgrowth.
-Weather conditions must always be considered when applying WS-K.
-
-## Symptoms of Excessive WS-K
-
-While potassium is essential, excess application carries risks:
-
-- Excessive potassium causes [[query-how-to-fix-magnesium-deficiency-in-cannabis]] in plants.
-- The symptoms are similar to gas disorder and appear in the middle
-  part of leaves.
-- Careful attention to dilution ratios and weather conditions helps
-  prevent potassium excess.
-
-## Environmental Conditions
-
-The source specifies optimal conditions for both preparation and
-storage of WS-K:
-
-- Optimum [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 23 to 25 degrees Celsius.
-- Store and prepare in a cool, shaded area with no direct sunlight.
-- These conditions maintain the biological activity and stability of
-  the water-soluble potassium solution.
-
-## Key Principles
-
-- Potassium is highly mobile in plants, meaning deficiency symptoms
-  appear first on older leaves.
-- WS-K should be used alone to avoid unintended synergy effects with
-  nitrogen.
-- Hot, humid conditions or rainy days amplify the risk of
-  overgrowth when WS-K is applied with nitrogen.
-- Tobacco stems provide a locally available, cost-effective source
-  of natural potassium.
-- Excessive potassium causes magnesium deficiency, requiring
-  careful dosage management.
-
-## Applications
-
-- Treating [[query-how-to-fix-potassium-deficiency-in-cannabis]] crops showing chlorosis on older
-  leaves
-- Promoting starch synthesis and translocation of photosynthates
-- Enhancing meristematic tissue growth for cell division
-- Regulating stomatal function and water use efficiency
-- Improving drought and freezing resistance in plant tissues
-- Reducing lodging problems and increasing overall crop yield and
-  quality
-## See Also
-
-- [[knf-potassium-deficiency-and-excess]]
-- [[water-soluble-calcium-wca]]
-- [[knf-nutritive-cycle-theory]]

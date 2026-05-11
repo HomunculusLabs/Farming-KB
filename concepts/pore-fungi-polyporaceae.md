@@ -46,13 +46,13 @@ slightly bulbous at the base and reticulate above. It is
 apparently widely distributed over the world. In Europe it
 constitutes, as a rule, more of the fleshy product sold in the
 market than any other species. It is extensively dried and also
-preserved in oil and butter. In the United States the typical...
+preserved in oil and butter. In the [[dmt-containing-plants-united-states-halpern]] the typical...
 
 ## Bracket Fungi and Polyporus
 The genus *Polyporus* includes many of the shelf or bracket
 fungi commonly seen on tree trunks and fallen logs. Unlike
 *Boletus*, these species typically lack a central stalk and
-grow directly from wood. The fruiting bodies range from soft
+grow directly from wood. The [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] range from soft
 and fleshy in young specimens to tough and woody at maturity.
 Many *Polyporus* species are important decomposers of hardwood
 and softwood. Some, such as *Polyporus sulphureus* (chicken
@@ -62,14 +62,14 @@ on living timber, contributing to heartwood decay.
 
 ## Fistulina and Other Genera
 *[[fistulina-hepatica]]*, commonly known as the beefsteak fungus,
-is a distinctive member of the Polyporaceae. Its fruiting body
+is a distinctive member of the Polyporaceae. Its [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 resembles a slab of raw meat, with a reddish upper surface
 that exudes a blood-like juice when cut. The pore surface
 consists of individual tubes that are not fused together, a
 feature that distinguishes *Fistulina* from true *Polyporus*
 species. This fungus grows at the base of oak and chestnut
 trees and is edible when young, though it becomes tough and
-acidic with age. It is notable as a cause of brown rot in
+acidic with age. It is notable as a cause of [[bioremediation-fenton-chemistry-brown-rot-fungi]] in
 oak timber.
 
 ## Taxonomic Revisions
@@ -86,64 +86,5 @@ identification purposes and are still widely referenced
 in field guides and cultivation literature.
 
 ## Ecological Roles
-Pore fungi play critical roles in forest ecosystems. As
-saprotrophs, they break down dead wood and recycle nutrients
-back into the soil. White-rot species within this group
-degrade lignin, cellulose, and hemicellulose, making them
-among the most effective decomposers of woody material.
-Brown-rot species selectively remove cellulose while leaving
-lignin largely intact, producing the characteristic crumbly
-brown wood. Some pore fungi form [[plants-without-mycorrhizal-associations]]
-with tree roots, particularly within the Boletaceae. These
-mutualistic relationships improve tree nutrient uptake while
-the fungus receives carbohydrates from the host.
-
-## Edibility and Toxicity
-The majority of pore fungi are non-toxic, but identifying
-edible species requires careful attention to detail. Among
-*Boletus*, species with red pore surfaces that bruise blue
-should be approached with caution, as several are mildly
-toxic. *Boletus satanas* (Satan's bolete) causes severe
-gastrointestinal distress. The bitter bolete *Tylopilus
-felleus* is not poisonous but is extremely bitter and
-unpalatable. For bracket fungi, young specimens of *Laetiporus
-sulphureus* (chicken of the woods) growing on hardwoods are
-considered choice edibles, but specimens from conifers or
-older specimens can cause allergic reactions in some people.
-
-## Economic and Cultural Importance
-Pore fungi have significant economic value both as food and
-as causes of timber decay. *Boletus edulis* (porcini) is one
-of the most commercially valuable wild mushrooms in global
-markets, with European imports alone worth hundreds of millions
-of dollars annually. In Asia, species like *Boletus aereus* and
-*[[boletus-reticulatus]]* command premium prices. Conversely,
-bracket fungi cause billions of dollars in structural timber
-damage worldwide each year. In traditional medicine, several
-pore fungi have been used for centuries. *[[ganoderma-lucidum]]*
-(reishi) and *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* (turkey tail) are
-extensively studied for their immunomodulatory properties.
-
-## Cultivation Notes
-While many pore fungi are challenging to cultivate, several
-species have been successfully domesticated. *Pleurotus
-ostreatus* (oyster mushroom) is the most widely cultivated
-polypore and grows readily on straw, sawdust, and
-agricultural waste. *Lentinula edodes* (shiitake) is
-cultivated on supplemented hardwood sawdust or logs. Indoor
-cultivation typically uses [[oyster-mushroom-non-sterilized-substrate-cultivation]] in bags or
-bottles with controlled humidity, temperature, and fresh air
-exchange. Outdoor log cultivation involves inoculating freshly
-cut hardwood logs with spawn plugs, then allowing the mycelium
-to colonize for 6 to 18 months before fruiting occurs with
-rainfall or soaking.
-
-- [[mushroom-cultivation-history]]
-- [[mushroom-food-value]]
-
-## References
-
-- Duggar, B.M. [[duggar-mushroom-growing-history-and-methods]].
-  Macmillan, 1915.
-- Peck, C.H. "Boleti of the United States." N.Y. State
-  Mus. Bul. 1888.
+Pore fungi play critical roles in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. As
+saprotrophs, they [[query-can-fungi-break-down-plastic-pollution]] dead wood and recycle nutrients

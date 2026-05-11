@@ -12,19 +12,19 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
-  - Barkworth, M.E. et al. (2007). "Festuca L." in Flora of North America, Vol. 24. Oxford University Press.
-  - Global Biodiversity Information Facility (GBIF). "Festuca rubra L." https://www.gbif.org/species/2706094
+  - Barkworth, M.E. et al. (2007). "Festuca L." in Flora [[berry-growing]], Vol. 24. Oxford University Press.
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). "Festuca rubra L." https://www.gbif.org/species/2706094
   - USDA NRCS. "Plant Guide: Red Fescue (Festuca rubra)." USDA Natural Resources Conservation Service.
   - Humphreys, M.W. et al. (2010). "Festuca." in Wild Crop Relatives: Genomic and Breeding Resources, C. Kole ed. Springer.
 ---
 
 ## Overview
 
-Festuca rubra is a perennial bunchgrass in the family Poaceae, commonly known as red fescue. It is one of the most widely used turf and forage grasses in temperate regions worldwide.
+Festuca rubra is a perennial bunchgrass in the family Poaceae, commonly known as red fescue. It is one of the most widely used turf and forage grasses in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species has a circumboreal distribution, occurring naturally across Europe, Asia, and North America. Its adaptability to a wide range of climates and soil conditions has made it commercially important.
 
-Multiple subspecies and cultivars have been developed for specific applications including lawns, golf courses, erosion control, and low-maintenance ground covers.
+Multiple subspecies and cultivars have been developed for specific applications including lawns, golf courses, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and low-maintenance ground covers.
 
 ## Taxonomy and Morphology
 
@@ -72,7 +72,7 @@ Red fescue is an important forage species in northern temperate grasslands. It i
 
 The creeping rhizomes of some subspecies contribute to soil stabilization on slopes and coastal dunes. Subspecies arenaria is particularly valued for dune fixation.
 
-Several fungal endophytes associate with Festuca rubra, including Epichloe festucae. Endophyte-infected plants may exhibit enhanced drought tolerance and herbivore resistance.
+Several fungal endophytes associate with Festuca rubra, including [[epichloe-festucae]]. Endophyte-infected plants may exhibit enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]] and herbivore resistance.
 
 ## Cultivation
 
@@ -87,30 +87,3 @@ Mowing height for turf applications ranges from 2.5 to 7.5 centimeters. Lower mo
 Fertilizer requirements are moderate to low compared with other turf grasses. Nitrogen applications of 50 to 100 kilograms per hectare per year are generally sufficient.
 
 Drought tolerance is good to excellent, especially for endophyte-infected selections. The species maintains acceptable color during summer dormancy in warmer regions.
-
-Pest resistance is generally good, though red thread disease and dollar spot can affect managed turf. Endophyte-enhanced cultivars show improved resistance to several common pathogens.
-
-## Uses
-
-Red fescue is the primary turf species for low-maintenance lawns, parks, and utility areas in cool temperate regions. Its shade tolerance makes it valuable for tree-lined landscapes.
-
-It is a standard component of golf course roughs and fairway mixes in northern climates. Fine-leaved cultivars are used on putting greens in some regions.
-
-In agriculture, Festuca rubra provides reliable late-season forage in northern pastures. It is often included in pasture seed mixes with white clover and other cool-season grasses.
-
-The species is widely used in erosion control and land reclamation projects. Its drought tolerance, low fertility requirements, and soil-binding capacity make it ideal for disturbed sites.
-
-Ornamental cultivars with blue-green or glaucous foliage are grown in perennial borders and naturalistic plantings. The species combines well with other fine-textured grasses and meadow wildflowers.
-
-## See Also
-
-- [[festuca-ovina]]
-- [[deschampsia-caespitosa]]
-- [[deschampsia-flexuosa]]
-- [[bromus-inermis]]
-- [[elymus-canadensis]]
-- [[molinia-caerulea]]
-- [[pennisetum-setaceum]]
-- [[panicum-virgatum]]
-- [[sorghastrum-nutans]]
-- [[schizachyrium-scoparium]]

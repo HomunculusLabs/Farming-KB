@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Klinkenberg, B. (2020). "Polystichum munitum." Flora of British Columbia.
   - Wagner, W.H. Jr. & Flagg, R.O. (2004). "Polystichum." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
-  - Pojar, J. & MacKinnon, A. (1994). Plants of the Pacific Northwest Coast. Lone Pine Publishing.
+  - Pojar, J. & MacKinnon, A. (1994). Plants of the [[psilocybin-north-america-pacific-northwest]] Coast. Lone Pine Publishing.
   - Jones, D.L. (1987). Encyclopedia of Ferns. Timber Press.
 ---
 
@@ -72,7 +72,7 @@ approximately 1,800 meters. It is most luxuriant in low-elevation riparian
 areas and old-growth coniferous forests.
 
 Optimal habitats include moist, shaded coniferous and mixed forests dominated
-by *Pseudotsuga menziesii*, *Tsuga heterophylla*, and *Picea sitchensis*. It
+by *[[pseudotsuga-menziesii]]*, *[[tsuga-heterophylla]]*, and *[[picea-sitchensis]]*. It
 also thrives along streambanks, in seepage areas, and on shaded cliff faces.
 
 Soil preference is for well-drained to moderately moist loams rich in organic
@@ -88,59 +88,3 @@ intensity and maintaining higher humidity at ground level.
 The persistent evergreen fronds provide year-round cover for small mammals,
 amphibians, and ground-dwelling birds. Northern flying squirrels, Townsend's
 chipmunks, and Pacific giant salamanders all use sword fern thickets for
-shelter.
-
-Sword fern litter contributes significantly to soil [[hamilton-composting-and-organic-matter-management]]. The slow
-decomposition rate of leathery fronds builds a thick duff layer that retains
-moisture and provides substrate for [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
-
-The species is moderately deer-resistant due to its tough, fibrous fronds,
-giving it a competitive advantage in heavily browsed areas. This contributes to
-its dominance in some second-growth forests.
-
-## Cultivation and Uses
-
-Western sword fern is widely cultivated as an ornamental garden plant,
-particularly in temperate regions with maritime climates. It is valued for its
-evergreen foliage, architectural form, and low maintenance requirements.
-
-In gardens, it prefers partial to full shade with consistent moisture. It is
-remarkably cold-hardy, surviving temperatures to -18°C. Established plants are
-moderately drought-tolerant but perform best with regular summer watering.
-
-Propagation is primarily by spore, though division of established clumps is
-also effective. Spores require several months to germinate and produce a
-prothallus before developing into sporophytes.
-
-The species has been used in restoration ecology for riparian buffer plantings
-and slope stabilization projects throughout the Pacific Northwest. Its dense
-root network helps control erosion on steep, shaded banks.
-
-## Ethnobotany
-
-Multiple Indigenous peoples of the Pacific Northwest used *P. munitum*
-extensively. The fronds were commonly employed for lining berry-picking baskets
-and food-storage pits.
-
-Coast Salish peoples placed sword fern fronds between layers of food in pit
-ovens to prevent scorching. The fronds were also used as a bedding material
-and as a surface for drying fish and berries.
-
-Medicinal uses included poultices of chewed fronds applied to skin sores and
-wounds. Some groups used rhizome preparations as a treatment for stomach pain
-and as a general tonic.
-
-The rhizomes were occasionally roasted and eaten as a starvation food, though
-they are fibrous and not considered palatable. The young coiled fiddleheads are
-edible but bitter compared to those of ostrich fern.
-
-## See Also
-
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]
-- [[polystichum-acrostichoides]]
-- [[athyrium-filix-femina]]
-- [[blechnum-spicant]]
-- [[adiantum-pedatum]]
-- [[nephrolepis-exaltata]]
-- [[osmunda-regalis]]

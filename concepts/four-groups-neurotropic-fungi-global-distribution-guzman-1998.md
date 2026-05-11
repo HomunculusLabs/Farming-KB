@@ -32,7 +32,7 @@ This is by far the largest group, containing species that produce [[psilocin]], 
 | Panaeolina | 4 | Including [[amanita]] that produce **[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]** (a glutamate receptor agonist) and its decarboxylation product **muscimol** (a GABA_A receptor agonist). These compounds have an entirely different pharmacological profile from the psilocybin group:
 
 - **[[amanita-pantherina]]**: the panther cap; contains ibotenic acid based on analysis by Hatfield (1979)
-- **[[amanita-muscaria-entity]] often involved the practice of **eurphorization** (drinking the urine of someone who had consumed the mushroom), as the kidneys excrete the active muscimol while filtering out much of the toxic ibotenic acid and other unpleasant compounds.
+- **[[amanita-muscaria]] often involved the practice of **eurphorization** (drinking the urine of someone who had consumed the mushroom), as the kidneys excrete the active muscimol while filtering out much of the toxic ibotenic acid and other unpleasant compounds.
 
 ## Group 3: Ergot Fungi
 
@@ -55,7 +55,7 @@ Puffballs and related fungi used in religious or magical contexts:
 
 - [[lycoperdon-marginatum]]: reported by Heim and Wasson (1962) as narcotic fungi among the Mixtec Indians of Oaxaca, Mexico
 - Ott et al. (1975) later determined these were common edible species, suggesting the Mixtec use may have involved confusion with genuinely psychoactive Psilocybe species from the same region
-- [[amanita-muscaria-entity]] has a circumboreal distribution across the Northern Hemisphere, associated with birch and pine forests. [[stropharia-cubensis]], now [[psilocybe-cubensis]]
+- [[amanita-muscaria]] has a circumboreal distribution across the Northern Hemisphere, associated with birch and pine forests. [[stropharia-cubensis]], now [[psilocybe-cubensis]]
 - **"Pajaritos"** (Spanish): "little birds"; commonly applied to [[psilocybe-zapotecorum]]
 
 These names reflect the deep cultural integration of psychoactive mushrooms into Mesoamerican cosmology, agriculture, and social hierarchy. The use of terms like "little boy" and "mayor or leader" suggests that different species or preparations were associated with different ceremonial roles or intensities of experience.
@@ -88,11 +88,3 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[poronia-punctata]]
-
-- [[coprophilous-fungi-taxonomic-groups-distribution]]
-- [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]

@@ -88,28 +88,3 @@ Fungal diseases include smut (*Sphacelotheca destruens*), which replaces grain h
 Crop rotation and clean seed practices are the primary [[plant-disease-management-solomon]] strategies. Fungicidal seed treatments are effective against smut but are rarely economical for subsistence-scale production.
 
 ## Uses Beyond Food
-
-Proso millet straw is valued as livestock fodder, particularly for ruminants. The straw has higher protein content than wheat straw and is palatable when harvested at the appropriate stage.
-
-The crop is widely used in birdseed mixtures, especially for caged and wild bird feeding. The small seed size and high energy content make it attractive to a variety of granivorous bird species.
-
-In industrial applications, proso millet starch has potential for bioethanol production due to its high fermentable carbohydrate content. The hulls can be used as inert carrier material in pesticide formulations.
-
-Traditional uses include brewing fermented beverages in parts of Central Asia and eastern Europe. Millet beer remains culturally significant in several communities, though production volumes are small compared to barley and sorghum-based brewing.
-
-Research into proso millet starch properties has revealed unique gelatinization characteristics that differ from other cereal starches. The starch granules are small (2–7 µm) with a polygonal shape, making them potentially useful in food industry applications requiring fine particle size.
-
-Proso millet is increasingly studied as a model organism for C4 photosynthesis research due to its compact genome and short life cycle. Its genetic resources have been expanding through international germplasm exchange programs.
-
-In [[coleman-deep-organic-farming-philosophy]] systems, proso millet serves as an effective break crop between cereal rotations, disrupting weed and disease cycles. Its low input requirements align well with organic production standards.
-
-## See Also
-
-- [[pennisetum-glaucum]]
-- [[zea-mays]]
-- [[avena-sativa]]
-- [[hordeum-vulgare]]
-- [[pisum-sativum]]
-- [[vigna-radiata]]
-- [[arachis-hypogaea]]
-- [[lens-culinaris]]

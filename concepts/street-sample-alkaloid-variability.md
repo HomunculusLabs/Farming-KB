@@ -88,31 +88,3 @@ street sample potency:
 ## Implications for Harm Reduction
 
 The inability to predict alkaloid content from visual appearance, strain
-name, cultivation method, or source means that dose estimation based on
-dry mushroom weight is fundamentally unreliable. A commonly referenced
-"standard" dose of 1-2.5 g dried Psilocybe cubensis could contain
-anywhere from approximately 0.7 mg to over 15 mg of psilocybin depending
-on the specific sample, representing the difference between a barely
-perceptible threshold experience and a very strong psychedelic dose.
-
-Bigwood and Beug concluded their paper with a clear harm-reduction
-message: variations in the subjective experience of mushroom ingestion
-will stem not only from the well-established effects of [[set-and-setting]]
-but also from "very real dosage differences" that users have no practical
-way to predict or control.
-
-## Analytical Method
-
-All samples were analyzed by reversed-phase HPLC calibrated against
-certified NIDA standards, with detection limits of approximately 0.01
-micrograms for both psilocybin and psilocin. Results were qualitatively
-confirmed by TLC using butanol-acetic acid-water (12:3:5).
-
-## See Also
-
-- [[psilocybin]]
-- [[psilocin]]
-- [[psilocybe-cubensis]]
-- [[psilocybin-psilocin-variation-across-flushes]]
-- [[cap-vs-stem-alkaloid-distribution]]
-- [[miniculture-cultivation-method]]

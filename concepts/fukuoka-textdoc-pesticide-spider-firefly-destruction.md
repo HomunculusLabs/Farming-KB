@@ -10,14 +10,15 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - [[masanobu-fukuoka]], "The Natural Way of Farming: The [[microdosing-theory-and-practice]] of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Pesticides and the Destruction of Ecological Chains
 
-Masanobu Fukuoka provided a detailed account of how pesticide application in Japanese rice fields destroys not only target pests but the entire web of biological relationships that naturally regulates insect populations.
+Masanobu Fukuoka provided a detailed account of how pesticide application in Japanese [[fukuoka-spider-ecosystem-drama-rice-fields]] destroys not only target pests but the entire web of biological relationships that naturally regulates insect populations.
 
-His observations challenged the fundamental assumption that pesticides protect crops, arguing instead that they eliminate the natural predators that keep pest populations in check.
+His observations challenged the fundamental assumption that pesticides protect crops, arguing instead that they eliminate the natural predators that keep [[query-how-do-parasitoid-wasps-control-pest-populations]] in check.
 
 ## The First Application: Death of the Spiders
 
@@ -86,54 +87,3 @@ This pattern — destroy a natural service, then invent an artificial replacemen
 Fukuoka noted that hardly any agricultural scientists had investigated why the amount of insect damage in sprayed fields remains largely the same as in unsprayed fields.
 
 Pesticides appear effective because they kill visible pests, but they simultaneously destroy the predators and parasites that would have controlled those pests in subsequent generations.
-
-Without natural controls, pest populations rebound rapidly, often exceeding their pre-spray levels.
-
-The farmer then applies more pesticide, creating a cycle of escalating chemical dependence.
-
-Healthy plants grown in living soil have natural resistance to pest damage.
-
-It is only unhealthy plants — those grown in dead, chemically dependent soil — that require pesticide protection.
-
-Pesticides are effective only for protecting unhealthy crops, Fukuoka argued, which means that pesticide-dependent agriculture is by definition agriculture that produces unhealthy food.
-
-## The Pine Forest Ecosystem Collapse
-
-Fukuoka provided a remarkable account of ecological chain collapse in Japanese pine forests that illustrates the same principle at landscape scale.
-
-When forests are clear-cut and replanted with commercially valuable cedar trees, the altered tree cover changes forest soil characteristics.
-
-These soil changes affect the plants and animals that inhabit the forest, producing cascading effects on air temperature, weather patterns, and the microbial world.
-
-With fewer food sources available, small birds disappear.
-
-Their absence allows long-horned beetles to flourish unchecked.
-
-The beetles carry nematodes that attack red pines, and the weakened trees become susceptible to parasitic Botrytis fungi.
-
-The beneficial matsutake fungus — which lives symbiotically on pine roots — dies off as soil acidity increases from atmospheric pollution and acid rain.
-
-Pines die, bamboo grass thickets rise, mice multiply on the abundant bamboo grass berries, and the mice attack cedar saplings.
-
-Humans apply rodenticide to protect the trees, but as mice vanish, the weasels and snakes that eat them also decline.
-
-Every intervention creates new problems that require further intervention, in an unending chain.
-
-## The Principle of Non-Intervention
-
-Fukuoka's analysis leads to a single principle: nature, left alone, maintains its own balance.
-
-No matter how hard humans try, they can never rule over nature.
-
-What they can do is serve nature, which means living in accordance with its laws.
-
-The elimination of a single species — whether through pesticide, rodenticide, or habitat destruction — sets off chain reactions that no human mind can fully trace or predict.
-
-The responsible course is not to intervene but to cultivate the conditions in which natural balance can sustain itself.
-
-## See Also
-
-- [[fukuoka-textdoc-botrytis-outbreak-pesticide-microbial-mutation]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
-- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
-- [[fukuoka-do-nothing-farming-philosophy]]

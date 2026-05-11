@@ -22,7 +22,7 @@ of the most promising developments in psychiatry in decades.
 ## Clinical Trial Evidence
 
 Modern [[hofmann-lsd-clinical-research-early-studies]] on psilocybin therapy began in the early 2000s
-at Johns Hopkins University and has since expanded to research centers
+at [[johns-hopkins-psychedelic-research]] University and has since expanded to research centers
 [[fungi-around-the-world-species-distribution]]. Seminal studies at Johns Hopkins demonstrated that a
 single dose of psilocybin, administered in a supportive therapeutic
 setting, could produce mystical-type experiences rated among the most
@@ -63,20 +63,20 @@ itself is only the beginning of the therapeutic process.
 
 ## Mechanisms of Therapeutic Action
 
-The mechanisms by which psilocybin produces lasting therapeutic effects
+The mechanisms by which psilocybin produces lasting [[cbd-therapeutic-effects]]
 are not fully understood but likely involve both psychological and
 biological processes. The acute [[leary-psychedelic-experience-bardo-mapping]] can provide new
 perspectives on personal problems, facilitate emotional release and
 processing of traumatic memories, and promote a sense of connection and
 meaning. Neurobiologically, psilocybin promotes neuroplasticity by
 stimulating the growth of new neural connections, particularly in brain
-regions involved in emotional regulation and cognitive flexibility.
+regions involved in [[anandamide-emotional-regulation-blesching]] and cognitive flexibility.
 
-The disruption of the default mode network during the psychedelic
+The disruption of the [[default-mode-network-and-ego-dissolution]] during the psychedelic
 experience may allow entrenched patterns of negative thinking to be
 temporarily overridden, creating a window of psychological flexibility
 in which new perspectives and behaviors can be established. The
-combination of profound subjective experience with neuroplastic changes
+combination of profound [[dosage-unpredictability-psilocybin-subjective-experience]] with neuroplastic changes
 may explain why psilocybin therapy can produce therapeutic effects that
 persist long after the drug has been metabolized and eliminated from the
 body.
@@ -84,48 +84,7 @@ body.
 ## Current Status and Regulation
 
 As of 2026, psilocybin therapy is in various stages of regulatory
-approval around the world. Clinical trials are ongoing for depression,
+approval [[mushrooms-fungi-from-around-the-world-guide]]. Clinical trials are ongoing for depression,
 post-traumatic stress disorder, and other conditions. Several countries
 have authorized the use of psilocybin in therapeutic settings, and the
 field is moving toward broader clinical availability as research
-continues to demonstrate safety and efficacy. Training programs for
-psilocybin therapists have been established at several universities and
-research centers, developing standards for this emerging clinical
-specialty.
-
-## Comparison with Conventional Treatments
-
-Psilocybin therapy differs from conventional psychiatric treatments in
-several important ways. Unlike daily medications such as antidepressants,
-psilocybin is administered in a limited number of sessions, potentially
-as few as one or two, rather than requiring ongoing daily dosing. The
-therapeutic effects emerge from the experience itself rather than from
-the ongoing pharmacological action of a drug. This means that patients
-are not dependent on continued medication use to maintain therapeutic
-benefits, although booster sessions may be helpful for some individuals.
-
-The subjective experience during the psilocybin session is considered a
-critical component of the therapeutic mechanism, distinguishing
-psilocybin therapy from conventional pharmacological approaches that
-aim to suppress symptoms through ongoing chemical modulation of brain
-function. Patients frequently describe their psilocybin experiences as
-catalysts for fundamental shifts in perspective, self-understanding, and
-emotional processing that enable them to address the root causes of their
-psychological difficulties rather than merely managing their symptoms.
-
-## Ethical Considerations
-
-The rapid expansion of psilocybin therapy raises several ethical
-considerations. Ensuring equitable access to treatment, preventing the
-exploitation of indigenous knowledge and practices, maintaining rigorous
-safety standards as commercialization accelerates, and respecting patient
-autonomy in the context of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness are all
-important challenges facing the field. The integration of psilocybin
-therapy into mainstream healthcare systems will require careful attention
-to training standards, informed consent procedures, and the protection
-of vulnerable populations.
-
-## See Also
-- [[psilocybin-mushrooms-biology]]
-- [[psilocybin-depression-anxiety-treatment]]
-- [[psilocybin-psychotherapy]]

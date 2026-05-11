@@ -88,14 +88,3 @@ and biological activity, reducing the amount of external inputs needed. The
 gardener who consistently applies COF and maintains organic matter levels will
 find that soil fertility becomes more self-sustaining over a period of five to
 ten years. This long-term perspective makes the initial investment in COF even
-more attractive when calculated over the productive lifetime of the garden.
-
-## See Also
-
-- solomon-complete-organic-fertilizer-cof.md
-- solomon-vegetable-nutritional-decline-trace-minerals.md
-- solomon-seed-meal-selection-and-protein-content.md
-- solomon-lime-calcium-ph-management.md
-## References
-
-- Gardening When It Counts - Steve Solomon (2005).

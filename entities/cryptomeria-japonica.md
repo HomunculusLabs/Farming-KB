@@ -54,7 +54,7 @@ On Yakushima, the species forms ancient forests with specimens exceeding 2,000 y
 
 It grows at elevations from sea level to approximately 2,000 meters. Natural stands favor moist, well-drained volcanic soils in regions with high annual precipitation (1,000–2,500 mm).
 
-Temperature tolerance ranges from approximately -25°C to 35°C. Young trees are more cold-sensitive than mature specimens and may suffer frost damage in severe winters.
+[[mycorrhizal-drought-and-temperature-tolerance]] ranges from approximately -25°C to 35°C. Young trees are more cold-sensitive than mature specimens and may suffer frost damage in severe winters.
 
 The species has been widely introduced in China, Korea, the Himalayas, Europe, and [[psilocybin-north-america-pacific-northwest]]. In the Azores, it has become naturalized and is considered invasive in some areas.
 
@@ -66,7 +66,7 @@ It performs best in USDA hardiness zones 6–9 with protection from drying winte
 
 Japanese cedar is the dominant plantation species in Japan, covering approximately 4.5 million hectares.
 
-Plantations are typically established on former [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] and managed on 40–60 year rotation cycles. Thinning operations are critical but have been neglected in many postwar plantations, leading to dense, unhealthy stands.
+Plantations are typically established on former [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] and managed on 40–60 [[jeavons-garden-planning-four-year-rotation]] cycles. Thinning operations are critical but have been neglected in many postwar plantations, leading to dense, unhealthy stands.
 
 Wood is lightweight, straight-grained, and moderately durable. It is used extensively in construction, particularly for post-and-beam framing, interior paneling, and traditional tatami rooms.
 
@@ -76,45 +76,14 @@ Cryptomeria wood has moderate natural decay resistance but is susceptible to ins
 
 Over 200 named cultivars exist, many selected for compact or dwarf growth in ornamental horticulture. Popular cultivars include 'Elegans', 'Sekkan-sugi', and 'Black Dragon'.
 
-Growth rates are rapid, with plantation trees achieving 1–1.5 meters of height gain per year in optimal conditions. Mean annual increment on productive sites reaches 15–20 cubic meters per hectare.
+[[coleman-sunlight-and-winter-crop-growth-rates]] are rapid, with plantation trees achieving 1–1.5 meters of height gain per year in optimal conditions. Mean annual increment on productive sites reaches 15–20 cubic meters per hectare.
 
 ## Ecological Role
 
 In natural forests, Cryptomeria provides habitat for numerous epiphytic mosses, liverworts, and ferns. The Yakushima old-growth stands support the endemic Yakushima macaque and Yakushima deer.
 
-These old-growth cryptomeria forests are among the most species-rich coniferous ecosystems in temperate regions. Canopy height exceeds 50 meters, creating a multi-layered structure with diverse understory communities.
+These old-growth cryptomeria forests are among the most species-rich coniferous ecosystems in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Canopy height exceeds 50 meters, creating a multi-layered structure with diverse understory communities.
 
 Plantations, however, are often ecological deserts compared to mixed broadleaf forests. Monoculture stands reduce understory biodiversity and alter soil chemistry through persistent [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
 Soil under dense cryptomeria plantations becomes acidic and nutrient-poor over successive rotations. Conversion of broadleaf forests to cryptomeria plantations has been identified as a major driver of biodiversity loss in Japan.
-
-The species produces prodigious amounts of pollen, which has become a significant public health issue in Japan. Cryptomeria pollen allergy (sugi hay fever) affects an estimated 25–30% of the Japanese population.
-
-Pollen production has increased with the maturation of postwar plantations, prompting government-funded research into low-pollen cultivars. Over 100 low-pollen varieties have been developed and deployed since the 1990s.
-
-## Cultural Significance
-
-Cryptomeria japonica is deeply embedded in Japanese culture and spirituality. Ancient specimens at Shinto shrines are designated as sacred objects (shinboku), and the wood is used for shrine construction and torii gates.
-
-The famous avenue of cryptomeria at Nikko Toshogu Shrine comprises approximately 12,000 trees planted in the 17th century along a 37-kilometer approach. The species is also the official tree of several Japanese prefectures.
-
-In traditional Japanese architecture, cryptomeria wood is the preferred material for shrine and temple construction. Its straight grain, pleasant fragrance, and workability have made it indispensable in Japanese woodworking for over a millennium.
-
-Charcoal produced from cryptomeria wood was historically important for smelting and cooking. The wood's even burning characteristics made it superior to many other species for traditional [[mollison-designers-charcoal-production-biochar-soil-amendment]].
-
-In bonsai, Cryptomeria is a challenging but rewarding subject requiring careful needle management. It is one of the classical "three needled" bonsai species along with five-needle pine and Japanese white pine.
-
-The species has been adopted as a street and park tree in many temperate cities worldwide. Its narrow, columnar form makes it particularly useful for vertical accent planting in urban landscapes.
-
-## See Also
-
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]
-- [[taxodium-distichum]]
-- [[thuja-plicata]]
-- [[cedrus-libani]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[abies-grandis]]
-- [[larix-decidua]]
-- [[pseudotsuga-menziesii]]

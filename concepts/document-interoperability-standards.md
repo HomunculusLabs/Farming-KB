@@ -88,32 +88,6 @@ Document conversion between formats inevitably involves information loss or
 transformation. Style definitions, custom properties, macros, and embedded
 objects may not have direct equivalents in the target format. Font substitution
 occurs when a document references fonts not available on the target system.
-Complex layouts involving text boxes, floating images, and multi-column
-sections are particularly prone to conversion artifacts.
-
-[[document-format-conversion-fidelity]] testing involves automated comparison of source and
-converted documents using metrics like text content accuracy, layout
-similarity, and style preservation. Organizations that require high-fidelity
-conversion often develop custom conversion pipelines that handle their
-specific document types and formatting patterns.
-
-## Emerging Standards and Future Directions
-
-HTML5 and CSS have emerged as viable alternatives for document authoring and
-display, particularly for web-native workflows. The EPUB format, based on
-HTML and CSS, provides a standardized format for ebooks and publications.
-The W3C's Document Editing API and Clipboard API efforts aim to improve
-interoperability at the application level rather than the file format level.
-
-The trend toward cloud-based document editing (Google Docs, Microsoft 365)
-reduces the importance of file-level interoperability by enabling real-time
-collaboration within a single platform. However, document export, archival,
-and cross-platform workflows still require robust format standards.
 
 ## See Also
-
 - [[japanese-document-processing]]
-- [[microsoft-word-document-format-history]]
-- [[office-open-xml]] for detailed OOXML specification analysis
-- [[microsoft-word-document-format]] for Word-specific format information
-- pdf standards and archival for PDF/A and archival considerations

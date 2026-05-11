@@ -88,23 +88,3 @@ The compound represents one of many mescaline analogues investigated by the Shul
 Since its publication in PIHKAL, allylescaline has received minimal scientific attention. There are no published [[mushroom-cancer-clinical-trials-overview]] or formal pharmacological studies beyond Shulgin's initial reports. It remains a research chemical of primarily historical and pharmacological interest.
 
 The compound's rarity in both research and recreational contexts reflects a broader pattern among PIHKAL phenethylamines: only a small subset achieved widespread use, while the majority remained obscure chemicals known only to dedicated researchers and enthusiasts.
-
-Contemporary interest in allylescaline is primarily pharmacological, as part of ongoing efforts to map structure-activity relationships within the phenethylamine class. Modern computational methods including molecular docking studies may eventually provide quantitative binding data that was unavailable during Shulgin's era.
-
-## Related Compounds
-
-Allylescaline belongs to the broader family of 4-substituted mescaline analogues. Related compounds include escaline (4-ethoxy-3,5-dimethoxyphenethylamine) and proscaline (4-propoxy-3,5-dimethoxyphenethylamine), which differ in the length of the 4-position alkoxy chain.
-
-Mescaline itself (3,4,5-trimethoxyphenethylamine) is the parent compound. Other notable analogues include the 2C family (ring-substituted phenethylamines with a methoxy group at the 2-position), which share the 5-HT2A agonist mechanism but have different pharmacokinetic profiles.
-
-Cross-tolerance between allylescaline and other serotonergic psychedelics (LSD, psilocybin, mescaline) develops rapidly and persists for approximately 3 to 7 days. This tolerance is mediated by 5-HT2A receptor downregulation and is consistent across the classical psychedelic class.
-
-## See Also
-
-- [[2c-b]]
-- [[2c-i]]
-- [[psilocin]]
-- [[bufotenin]]
-- [[ergine-entity]]
-- [[4-acetoxy-dmt]]
-- [[4-ho-met]]

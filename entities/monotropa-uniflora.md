@@ -88,36 +88,3 @@ The plant is ephemeral, with the above-ground flowering stem visible for only 1â
 ## Traditional and Ethnobotanical Uses
 
 *Monotropa uniflora* has been used in the traditional medicine of numerous indigenous North American peoples, though its use appears to have been less widespread and less intensively developed than that of many other forest plants.
-The Cherokee used the plant as an analgesic, particularly for earaches, and as a treatment for convulsions and spasms in children.
-The root was dried, ground into a powder, and administered in very small doses.
-The Mohegan and Penobscot used the plant similarly, and it was reportedly employed as an eyewash for various ocular conditions.
-The plant was also used in some indigenous traditions as a poultice for wounds and skin conditions.
-
-In contemporary herbal medicine, *M. uniflora* has experienced a significant surge in popularity driven by social media and online herbal communities, where it is promoted as a treatment for anxiety, PTSD, pain, and emotional trauma.
-These modern claims are largely extrapolated from traditional uses and are not supported by rigorous clinical evidence.
-The plant's bioactive constituents have not been thoroughly characterized, though preliminary phytochemical studies have identified various glycosides, tannins, and small amounts of alkaloids.
-The lack of pharmacological data, combined with the potential for misidentification (several toxic plant species occupy similar forest-floor habitats), has led many experienced herbalists to caution against the unregulated use of *M. uniflora* preparations.
-
-The most significant conservation concern related to *M. uniflora* in recent years is the impact of commercial wild harvesting driven by its popularity in online herbal markets.
-The plant's slow growth, specific ecological requirements, and low population densities make it highly vulnerable to overharvesting.
-Several conservation organizations and indigenous groups have raised concerns about the sustainability of current harvesting practices and have advocated for the protection of wild populations.
-
-## Conservation Status
-
-*Monotropa uniflora* is not currently listed as threatened or endangered at the federal level in the United States or Canada, though it is protected by state or provincial conservation statutes in several jurisdictions.
-The plant's primary conservation threats include habitat loss through deforestation and forest fragmentation, disruption of mycorrhizal networks through soil compaction, pollution, and climate change, and unsustainable wild harvesting driven by the growing commercial demand for the plant in herbal medicine markets.
-The plant's dependence on specific fungal and tree partners makes it particularly sensitive to changes in forest composition and health, and declines in *M. uniflora* populations may serve as early indicators of broader forest ecosystem degradation.
-
-## Related Species
-
-- **Monotropa hypopitys** (pinesap): The only other species in the genus, pinesap is yellowish to reddish in color and typically grows in coniferous forests. It is also fully mycoheterotrophic and associates with similar fungal partners.
-- **Pterospora andromedea** (pinedrops): A related monotropoid species with a tall, reddish, candle-like inflorescence that grows in coniferous forests of western North America.
-- **Sarcodes sanguinea** (snow plant): A striking, bright red mycoheterotrophic plant of western North American coniferous forests. Like *M. uniflora*, it obtains all carbon from ectomycorrhizal fungal partners.
-
-## See Also
-
-- [[eugenia-uniflora]]
-
-- [[russula-edible-species]]
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]
-- [[mycoheterotrophic-plants-mycorrhizal-carbon-theft]]

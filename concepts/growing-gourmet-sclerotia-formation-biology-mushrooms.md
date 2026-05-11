@@ -88,32 +88,3 @@ sclerotia. Thomas Volk (1990) proposed a complete Morel life cycle
 incorporating the sclerotial stage. The development of indoor Morel
 cultivation depended fundamentally on understanding and manipulating
 sclerotia formation. Ower's discovery was reportedly aided by his
-experiences growing Psilocybe mushrooms and an accidental laboratory
-event that triggered sclerotia formation.
-
-Morel mycelium produces sclerotia naturally on many habitats, from
-peat moss to sand to straw, without human interference. The
-differences between Black and Yellow Morel sclerotia are soon
-apparent after clones or spores are put into culture.
-
-## Sclerotia in Cultivation
-
-For cultivators, sclerotia offer both opportunities and challenges.
-Key considerations include:
-
-- Sclerotial production is stimulated by soil microflora and
-  darkness, making pure laboratory culture difficult
-- Once harvested, sclerotia can be stored dry for extended periods
-- Implanting mature sclerotia into lignicolous soils can stimulate
-  fruitings
-- Some species can be grown either from a sclerotium or directly
-  from mycelium, with the sclerotial route often being more reliable
-
-## See Also
-
-- [[growing-gourmet-morel-cultivation]]
-- [[growing-gourmet-pleurotus-tuber-regium-african-sclerotial-oyster]]
-- growing-gourmet-mushroom-life-cycle
-- [[sclerotia-formation]]
-- [[hypholoma-sublateritium]]
-- [[conocybe-cyanopus]]

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora of North America Editorial Committee (eds.), Flora of North America North of Mexico, Vol. 19. Oxford University Press.
+  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora of North America North of Mexico, Vol. 19. Oxford University Press.
   - Weakley, A.S. (2020). Flora of the Southeastern United States. University of North Carolina Herbarium.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
 ---
@@ -20,13 +20,13 @@ sources:
 
 ## Overview
 
-**Campanula divaricata**, commonly called the **Appalachian bellflower** or **spreading bellflower**, is a delicate perennial species in the family Campanulaceae. It is native to the Appalachian Mountain region of eastern North America.
+**Campanula divaricata**, commonly called the **Appalachian bellflower** or **spreading bellflower**, is a delicate perennial species in the family Campanulaceae. It is native to the Appalachian Mountain region of [[polypore-fungi-eastern-north-america]].
 
 The species is characterized by its slender, diffusely branched stems bearing small, nodding, pale blue to white campanulate flowers. It is one of the few North American *Campanula* species adapted to shaded, mesic forest habitats.
 
 The species was first described by the French botanist André Michaux in 1803 from specimens collected during his travels through the Appalachian mountains. The type locality is in the Carolinas.
 
-Unlike the more widely known *Campanula rotundifolia* (harebell), *C. divaricata* occupies cool, moist forest understories rather than open, rocky sites. This habitat preference makes it a useful species for shade-garden native-plant landscaping.
+Unlike the more widely known *[[campanula-rotundifolia]]* (harebell), *C. divaricata* occupies cool, moist forest understories rather than open, rocky sites. This habitat preference makes it a useful species for shade-garden native-plant landscaping.
 
 ## Taxonomy and Morphology
 
@@ -58,7 +58,7 @@ It grows at elevations of **300–1,500 m** in the Blue Ridge, Allegheny, and Cu
 
 Habitat includes rich, mesic cove forests, northern hardwood forests, and cool, shaded ravines. It prefers acidic to circumneutral soils derived from sandstone, shale, or metasedimentary parent material.
 
-Typical plant associates include *Acer saccharum*, *Tilia americana*, *Dryopteris intermedia*, *Polystichum acrostichoides*, *Trillium* species, and other mesophytic forest herbs.
+Typical plant associates include *Acer saccharum*, *Tilia americana*, *Dryopteris intermedia*, *[[polystichum-acrostichoides]]*, *Trillium* species, and other mesophytic forest herbs.
 
 The species shows a strong fidelity to shaded, moist microsites and is rarely found in open areas. It benefits from the cool, humid microclimate provided by dense forest canopies along stream corridors.
 
@@ -66,7 +66,7 @@ The Appalachian distribution pattern is shared with many other plant species tha
 
 ## Cultivation
 
-Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in commercial horticulture. Native-plant nurseries in the Appalachian region occasionally offer it.
+Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]. Native-plant nurseries in the [[bolete-fungi-appalachian-region]] occasionally offer it.
 
 **Growing requirements:**
 - **Soil:** Humus-rich, acidic to neutral loam, consistently moist
@@ -87,35 +87,3 @@ Deer browse the foliage lightly in late spring, though the plant typically recov
 In Appalachian forests, Campanula divaricata contributes to the herb-layer diversity of rich cove and northern hardwood communities. Its flowers provide late-summer nectar and pollen for native pollinators.
 
 The species is classified as **G4 (Apparently Secure)** by NatureServe, though it is listed as endangered or threatened in several states at the periphery of its range (Pennsylvania, Georgia).
-
-Habitat loss from logging, urbanization, and invasive species (particularly *Alliaria petiolata*, garlic mustard) threatens some populations. The species' dependence on intact forest understory makes it sensitive to canopy disturbance.
-
-Emerald ash borer (*Agrilus planipennis*) mortality of ash trees in Appalachian forests is opening canopy gaps that may alter the moist, shaded conditions *C. divaricata* requires. Long-term effects on forest herb communities are being studied.
-
-Conservation efforts focus on protecting rich cove forest habitats through land acquisition and sustainable forestry practices. Ex-situ conservation is maintained in several Appalachian botanical gardens.
-
-## Related North American Species
-
-Campanula divaricata is one of approximately 15 *Campanula* species native to North America. It is most closely related to *Campanula aparinoides* (marsh bellflower) and *Campanula uliginosa*, which share similar diffuse branching habits.
-
-It can be distinguished from the widespread *Campanula rotundifolia* by its shaded forest habitat (vs. open rocks/meadows), diffusely branched stems (vs. simple or sparingly branched), and smaller, paler flowers.
-
-| Feature | *C. divaricata* | *C. rotundifolia* | *C. aparinoides* |
-|---------|----------------|-------------------|------------------|
-| Habitat | Shaded forests | Open rocks/meadows | Wet meadows/bogs |
-| Height | 20–60 cm | 15–40 cm | 15–50 cm |
-| Stems | Diffusely branched | Simple | Branched, weak |
-| Flower color | Pale blue to white | Blue-violet | White to pale blue |
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-trachelium]]
-- [[campanula-rapunculoides]]
-- [[lobelia-cardinalis]]
-- [[lobelia-inflata]]
-- [[lobelia-siphilitica]]
-- [[platycodon-grandiflorus]]
-- [[campanula-punctata]]
-- [[campanula-glomerata]]

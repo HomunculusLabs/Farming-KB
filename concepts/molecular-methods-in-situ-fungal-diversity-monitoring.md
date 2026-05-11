@@ -37,7 +37,7 @@ intracellular variation in morphology and biochemistry.
 Historically, determining fungal species diversity has been complicated
 by several fundamental obstacles:
 
-- Developmental stages of many fungi occur in complex substrata such
+- [[psilocybe-cubensis-developmental-stages]] of many fungi occur in complex substrata such
   as soil, wood, plants, or animals, making them difficult to monitor
 - Lifestyle habits (saprotrophic vs. symbiotic) are poorly defined for
   many species
@@ -88,59 +88,3 @@ More targeted genetic [[genetic-improvement-agaricus-bisporus-molecular-approach
 
 These approaches are particularly valuable for detecting specific
 target species in environmental samples where the target may be
-present at very low abundance relative to other organisms.
-
-## Ribosomal RNA/DNA Sequence Comparisons
-
-Ribosomal RNA and DNA sequences have become the standard for assessing
-and inventory methods and can be applied more broadly to fungal diversity
-studies:
-
-- Isolation and characterization of rRNAs and rDNAs from
-  environmental samples provides culture-independent diversity
-  estimates
-- Sequence comparisons allow estimates of relatedness among taxa
-  and construction of phylogenetic trees
-- The ribosomal gene cluster contains both conserved regions (for
-  broad taxonomic placement) and variable regions (for species-level
-  discrimination)
-- Direct sequencing of PCR-generated amplicons has enabled rapid
-  assessment of [[dighton-aboveground-herbivory-mycorrhizal-effects]] plant
-
-## Nuclear and Mitochondrial Genome Analysis
-
-Two compartmentalized pools of DNA provide complementary information:
-
-- **Mitochondrial DNA (mtDNA)**: Small genomes (20-80 kb),
-  maternally transmitted, useful for phylogenetic differences
-  between closely related species
-- **Nuclear DNA**: Very large genomes (1.5 x 10(7) to 820 x 10(7)
-  bp), containing thousands of genetic loci; excellent for measuring
-  [[biodiversity-fungal-genetic-diversity]] and deriving molecular fingerprints
-
-Nuclear genomes contain both single-copy and repetitive DNA, making
-them macromolecules well suited for measuring genetic diversity and
-deriving molecular fingerprints for taxonomic purposes.
-
-## Advantages for Conservation and Monitoring
-
-Molecular methods offer several advantages for [[fungal-conservation-biology]]
-monitoring:
-
-- **Minimal impact**: PCR allows extensive genetic analysis from very
-  small tissue samples, decreasing the need for lethal sampling
-- **In-situ detection**: Samples can be collected without culturing,
-  detecting species present as mycelia that do not fruit
-- **Environmental stability**: DNA-based markers are not influenced
-  by environmental conditions
-- **Reproducibility**: Well-designed molecular assays produce
-  consistent results across laboratories
-- **Temporal monitoring**: Genetic markers allow tracking of
-  population changes over time at specific sites
-
-## Monitoring Species in Complex Substrata
-
-## See Also
-- [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
-- [[molecular-methods-fungal-diversity]]

@@ -50,7 +50,7 @@ Optimal growth occurs on deep, moist, nutrient-rich alluvial soils with a high w
 
 The species is hardy to USDA zones 3–9 and tolerates a wide range of climatic conditions. It performs best in continental climates with warm summers and cold winters.
 
-In its native range, black poplar commonly associates with white willow (*Salix alba*), alder (*Alnus glutinosa*), and various elm and oak species in riparian forest communities.
+In its native range, black poplar commonly associates with white willow (*Salix alba*), alder (*[[alnus-glutinosa]]*), and various elm and oak species in riparian forest communities.
 
 ## Ecology and Uses
 
@@ -62,15 +62,15 @@ Cavity-nesting birds including woodpeckers, owls, and titmice use mature black p
 
 The wood is light, soft, and relatively weak, with a pale yellowish-white color and fine, even grain. It is used for pallets, crates, paper pulp, matchsticks, and lightweight construction.
 
-Black poplar is extensively used in phytoremediation and bioengineering projects. Its fast growth and deep root system make it effective at stabilizing riverbanks, filtering pollutants, and absorbing heavy metals from contaminated soils.
+Black poplar is extensively used in phytoremediation and bioengineering projects. Its fast growth and deep root system make it effective at stabilizing riverbanks, filtering pollutants, and absorbing [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from [[fungal-competition-survival-contaminated-soils]].
 
-The tree has [[ethnomycology-cultural-significance-sacred-fungi]] in European folklore and literature. It appears in classical Greek mythology and has been planted historically as a boundary marker and ornamental specimen across Europe.
+The tree has [[ethnomycology-cultural-significance-sacred-fungi]] [[mandrake-mandragora-officinarum-in-european-folklore]] and literature. It appears in classical Greek mythology and has been planted historically as a boundary marker and ornamental specimen across Europe.
 
 ## Cultivation and Hybrids
 
 Black poplar is easily propagated from hardwood cuttings, which root readily in moist soil. This characteristic has made it one of the most widely cultivated poplars for plantation forestry and bioenergy production.
 
-The Lombardy poplar (var. italica) is a fastigiate male clone of P. nigra that has been planted extensively throughout temperate regions as an ornamental and windbreak tree. Its narrow, columnar form makes it instantly recognizable in the landscape.
+The Lombardy poplar (var. italica) is a fastigiate male clone of P. nigra that has been planted extensively throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] as an ornamental and windbreak tree. Its narrow, columnar form makes it instantly recognizable in the landscape.
 
 Numerous interspecific hybrids involving P. nigra have been developed for commercial forestry. The most important is P. × canadensis (P. deltoides × P. nigra), which combines the rapid growth of eastern cottonwood with the adaptability of black poplar.
 
@@ -84,22 +84,6 @@ True wild-type black poplar (var. nigra) has become rare throughout much of its 
 
 The primary threats to wild black poplar populations are habitat loss through river regulation and floodplain development, hybridization with planted poplar cultivars, and the absence of natural flood dynamics required for regeneration.
 
-Riparian floodplain forests, the natural habitat of black poplar, have been reduced to a small fraction of their historical extent across Europe. River channelization, dam construction, and agricultural conversion have eliminated most natural regeneration sites.
+Riparian floodplain forests, the natural habitat of black poplar, have been reduced to a small fraction of their historical extent across Europe. River channelization, [[comparison-dam-construction-vs-swale-design]], and agricultural conversion have eliminated most natural regeneration sites.
 
 Conservation efforts focus on preserving genetically pure populations, restoring riparian habitats, and maintaining dynamic river processes that allow natural poplar regeneration. The EUFORGEN Populus nigra network coordinates conservation efforts across Europe.
-
-Genetic studies have revealed that many trees identified as wild black poplar are actually hybrids with introduced [[growing-gourmet-north-american-reishi-species]] poplar species. Molecular markers are increasingly used to identify and protect true P. nigra genotypes.
-
-Black poplar has historically been used in traditional medicine across Europe. The bark contains salicin, a compound related to aspirin, and was used as an anti-inflammatory and fever reducer. Buds were collected to make ointments and salves.
-
-The species also contributes to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in riparian zones, where fast growth rates enable rapid biomass accumulation. Poplar plantations are increasingly recognized for their potential role in [[dighton-fungi-climate-change-feedback]] mitigation through bioenergy and [[holmgren-soil-humus-carbon-storage-rebuilding]].
-
-## See Also
-
-- [[populus-tremuloides]]
-- [[betula-pendula]]
-- [[fagus-sylvatica]]
-- [[ulmus-americana]]
-- [[acer-saccharum]]
-- [[larix-decidua]]
-- [[quercus-alba]]

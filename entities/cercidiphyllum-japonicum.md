@@ -21,7 +21,7 @@ sources:
 
 The species is widely planted as an ornamental tree for its elegant heart-shaped leaves, attractive form, and distinctive autumn fragrance. The falling autumn leaves emit a sweet scent variously described as cotton candy, caramel, or burnt sugar.
 
-Katsura is valued in both traditional Japanese gardens and Western landscapes. Its graceful branching habit and clean foliage give it a refined appearance throughout the growing season.
+Katsura is valued in both traditional Japanese gardens and Western landscapes. Its graceful branching habit and clean foliage give it a refined appearance throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Taxonomy
 
@@ -66,9 +66,9 @@ In its native range, katsura is a component of cool-temperate deciduous and mixe
 
 ## Cultivation
 
-Katsura is propagated from seed, softwood cuttings, and tissue culture. Seeds require cold stratification and lose viability quickly, so fresh seed should be sown promptly. Cuttings root most reliably under mist with bottom heat.
+Katsura is propagated from seed, softwood cuttings, [[pda-and-tissue-culture]]. Seeds require cold stratification and lose viability quickly, so fresh seed should be sown promptly. Cuttings root most reliably under mist with bottom heat.
 
-The species is hardy to USDA Zone 4–5, making it suitable for cold climates. However, young trees are susceptible to spring frost damage, and late freezes can kill emerging foliage.
+The species is hardy to USDA Zone 4–5, making it suitable [[query-best-kiwifruit-varieties-for-cold-climates]]. However, young trees are susceptible to spring frost damage, and late freezes can kill emerging foliage.
 
 It performs best in full sun to partial shade with deep, moist, fertile soil. Consistent moisture is critical during establishment; drought stress causes premature leaf drop and tip dieback.
 
@@ -78,25 +78,12 @@ Several cultivars are available, including 'Pendula' (weeping form), 'Rotfuchs' 
 
 ## Ecological Role
 
-The sweet autumn scent of falling katsura leaves is produced by maltol, a naturally occurring organic compound. The intensity of the fragrance varies with weather conditions and individual tree genetics.
+The sweet autumn scent of falling katsura leaves is produced by maltol, a naturally occurring [[plant-olfaction-volatile-organic-compound-signaling]]. The intensity of the fragrance varies with weather conditions and individual tree genetics.
 
-In its native forests, katsura provides food and habitat for various insects and birds. The seeds are eaten by small birds and mammals, though seed production is irregular in cultivation.
+In its native forests, katsura provides food and habitat for various insects and birds. The seeds are eaten by small birds and mammals, though [[cannabis-controlled-pollination-seed-production]] is irregular in cultivation.
 
-The fossil record of Cercidiphyllum extends back approximately 90 million years to the Late Cretaceous. The genus was once distributed across North America and Europe before retreating to its current East Asian refugium during Pleistocene glaciations.
+The fossil record of Cercidiphyllum extends back approximately 90 million years to the Late Cretaceous. The genus was once distributed across [[guzman-psilocybin-mushrooms-north-america]] and Europe before retreating to its current East Asian refugium during Pleistocene glaciations.
 
 As a relict species, katsura is of significant scientific interest for understanding Tertiary-era flora and paleoclimatic patterns. Its restricted modern distribution exemplifies the concept of a paleoendemic lineage.
 
 ## See Also
-
-- [[stylophorum-diphyllum]]
-
-- [[ginkgo-biloba]]
-- [[liquidambar-styraciflua]]
-- [[fagus-grandifolia]]
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[magnolia-grandiflora]]
-- [[betula-nigra]]
-- [[liriodendron-tulipifera]]
-- [[tilia-cordata]]
-- [[quercus-alba]]

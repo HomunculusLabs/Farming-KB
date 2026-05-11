@@ -3,6 +3,7 @@ title: Solomon solomon disease identification and organic remedies and Organic R
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
   - gardening-when-it-counts-steve-solomon.md
 type: concept

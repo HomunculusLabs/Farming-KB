@@ -1,5 +1,5 @@
 ---
-title: Hamilton Nutrient Deficiencies and Their Treatment
+title: Hamilton Nutrient Deficiencies And Treatment
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ Understanding plant nutrient deficiencies is essential for the organic gardener.
 
 ## Nitrogen Deficiency
 
-One of the most important plant foods, nitrogen is a component of chlorophyll, the pigment that gives plants their [[holzer-green-manure-and-soil-building-plants|green]] color, and a vital part of the structure of plant protein. It is the element responsible for vegetative growth of shoots and leaves.
+One of the most important plant foods, nitrogen is a component of chlorophyll, the pigment that gives plants their [[holzer-green-manure-and-soil-building-plants]] color, and a vital part of the structure of plant protein. It is the element responsible for [[cannabis-vegetative-growth-stage]] of shoots and leaves.
 
 Deficiency is not unusual because nitrogen is easily lost by leaching in open soils and can be depleted by digging in unrotted material. Symptoms include yellowed leaves, particularly the older ones, and stunted plants. Too much nitrogen will cause the plants to grow too quickly with an abundance of soft leaves that may be a darker green than normal. The softer growth will be subject to attack by insects and by frost.
 
@@ -23,7 +23,7 @@ Treatment: Apply a high-nitrogen fertilizer such as dried blood (12 to 14 percen
 
 The next most important element after nitrogen, phosphorus is needed in smaller quantities, about one-tenth the amount. Phosphorus is mainly responsible for good root growth. A deficiency causes slight stunting of the plant, diagnosed by a distinct blue color affecting the older leaves first. Sometimes the leaves darken and develop a blue/green tinge. The root system is likely to be underdeveloped.
 
-Treatment: Use an application of bone meal fertilizer (22 percent phosphorus).
+Treatment: Use an application of bone [[kelp-meal-fertilizer]] (22 percent phosphorus).
 
 ## Potassium Deficiency
 
@@ -37,9 +37,9 @@ Treatment: Use an application of rock potash (10.5 percent potassium).
 
 Magnesium is needed in much larger quantities than many gardeners realize, and should be present in about the same quantities as phosphorus. It is a component of chlorophyll so a deficiency causes yellowing, which starts between the veins of the leaves. The deficiency generally affects older leaves first.
 
-A magnesium deficiency is sometimes caused by plants not being able to absorb the magnesium in the soil, perhaps because there is too much potassium present. This can also happen if the soil structure is poor or if there is insufficient organic matter in the soil.
+A magnesium deficiency is sometimes caused by plants not being able to absorb the magnesium in the soil, perhaps because there is too much potassium present. This can also happen if the soil structure is poor or if there is insufficient [[maintaining-organic-matter-in-vegetable-gardens]] the soil.
 
-Treatment: Apply a dose of kelp meal, liquid kelp, or liquid animal manure.
+Treatment: Apply a dose of kelp meal, liquid kelp, or liquid [[animal-manure-guide]].
 
 ## Calcium Deficiency
 
@@ -47,7 +47,7 @@ Calcium is required in relatively large amounts. It neutralizes certain acids fo
 
 The classic example is blossom-end rot in tomatoes, when the tip of the fruit blackens and rots. Lack of calcium also causes tip-burn on lettuce, black heart in celery, and browning in the centers of Brussels sprouts. Deficiency will be most pronounced in young plant tissue.
 
-Treatment: There is no specific cure for calcium deficiency. The only treatment is by correct cultivation methods, incorporating plenty of manure or compost, aimed at building up a balanced nutrient level in the soil.
+Treatment: There is no specific cure for calcium deficiency. The only treatment is by correct [[gourmet-medicinal-mushroom-oyster-cultivation-methods]], incorporating plenty of manure or compost, aimed at building up a balanced nutrient level in the soil.
 
 ## Sulfur Deficiency
 
@@ -88,14 +88,3 @@ Molybdenum is instrumental in the production of protein. Deficiency will show up
 Treatment: Add lime to raise the pH of acid soil. Spray the plants with liquid kelp fertilizer and apply kelp meal.
 
 ## Preventing Deficiencies
-
-The best treatment for trace-element deficiencies is to prevent them from occurring in the first place. This is normally very easily achieved in the organic garden by the continued use of bulky organic matter. Where deficiencies have occurred in your garden, take the precaution of treating the soil with [[kelp-meal-fertilizer]] annually. The continued use of manure, compost, and organic matter provides a complete spectrum of nutrients in balanced proportions.
-
----
-
-## See Also
-
-- [[geoff-hamilton-organic-techniques]]
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]

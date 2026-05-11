@@ -88,28 +88,3 @@ The Mazatec consider ololiuqui a gentler entheogen than psilocybin mushrooms, su
 The experience is generally described as gentler and more introspective than that produced by higher-LSA sources like Argyreia nervosa seeds.
 
 ## Cultivation
-
-R. corymbosa is cultivated both ornamentally and for traditional purposes:
-- **Propagation:** Seeds germinate readily after scarification; stem cuttings also root easily
-- **Climate:** Tropical to subtropical; frost-sensitive
-- **Growth:** Fast-growing vine; needs a trellis or support structure
-- **Harvest:** Seeds collected from mature capsules throughout the year
-
-## Botanical Confusion and Historical Misidentification
-
-The identity of ololiuqui was debated for nearly 400 years. Early Spanish chroniclers described its use but failed to preserve botanical specimens, leading to centuries of confusion:
-
-- **16th century:** Described as a "seed that makes one see visions" but variously identified with Datura species, Rhynchosia species, and other plants
-- **Sahagún's description** mentioned round, black seeds — consistent with Rivea corymbosa but also with several other species
-- **19th century:** Several botanists proposed candidates including Datura inoxia, Ipomoea species, and Rhynchosia phaseoloides
-- **1937:** Blas Pablo Reko proposed Rivea corymbosa based on fieldwork with indigenous communities
-- **1941:** Richard Evans Schultes confirmed Reko's identification through ethnobotanical fieldwork, collecting specimens identified by Mazatec informants as ololiuqui
-- **1960:** Hofmann's [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] provided definitive proof — the seeds contained genuine ergoline alkaloids (LSA, LSH), which are only produced by Clavicipitaceae-associated plants and certain Convolvulaceae
-
-The 1960 identification was particularly significant because it confirmed that Mesoamerican cultures had independently discovered and utilized ergoline alkaloids centuries before their isolation and characterization by European chemists.
-
-## See Also
-
-- [[lysergic-acid-amide]] — LSA, primary psychoactive compound
-- argyreia-nervosa — Hawaiian Baby Woodrose, higher LSA concentration
-- [[psilocybe-cubensis]] — sacred mushrooms, co-administered in Mazatec rituals

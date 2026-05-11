@@ -1,8 +1,8 @@
 ---
-title: Ketamine - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
+title: Turner Ketamine
 created: 2026-04-26
 author: D.M. Turner
-sources: The Essential Psychedelics Guide (1994)
+sources: The turner-essential-psychedelics-5-meo-dmt-void-experience Guide (1994)
 type: concept
 tags: [psychedelics, ketamine, dissociative, anesthetic, K-hole, therapeutic, addiction]
 updated: 2026-04-26
@@ -27,7 +27,7 @@ Ketamine is used clinically as a general anesthetic, considered "gentle" and oft
 | Intramuscular (IM) | 10-20 mg | Non-psychedelic, dissociative altered state |
 | Intramuscular (IM) | 50 mg | Semi-conscious halfway zone |
 | Intramuscular (IM) | 75-125 mg | Highly desirable Ketamine trip |
-| Intramuscular (IM) | ~100 mg | Standard psychedelic dose (described below) |
+| Intramuscular (IM) | ~100 mg | Standard [[psychedelic-dose-response]] (described below) |
 | Snorting | Small amounts | Much less intense, not comparable to IM experience |
 
 The exact dose required varies with body weight and mental state. For snorting, evaporate the liquid on a glass tray at 200 degrees F and scrape off the powder.
@@ -88,42 +88,10 @@ The Ketamine experience is difficult to bring back and reintegrate with routine 
 - Do not go outdoors for hours afterwards (traffic danger)
 - Extinguish all candles (would not have presence of mind to deal with fire)
 - Safest method: have a friend or "sitter" present
-- **Risk of overestimating sobriety:** one may be able to get up and walk around while quite high
 
-## Addiction Warning
-
-Ketamine has **very high potential for psychological addiction**:
-- A fairly large percentage of those who try it will consume it non-stop until supply is exhausted
-- Even regular psychedelic users with no prior drug control problems have developed Ketamine addictions
-- Turner himself developed addiction after ~2 years of once-per-week use, requiring considerable effort to break
-- Must continually exercise high degree of will power to prevent falling into regular use
-- Very few among Turner's circle could use it in a balanced manner if they had access
-
-### DMT as Anti-Addiction Tool
-The tryptamine drugs (psilocybin and N,N-DMT) proved remarkably effective at breaking Ketamine addiction:
-- DMT provided insights into negative effects: reduction in ambition, reduction in healthy mortal fears (including fear of death), reluctance to confront fears or difficult tasks
-- Ketamine can lure one as an escape since a blissful, fearless, disembodied state is so easily available
-
-### Life Energy Depletion
-Much of the life energy (Chi or Kundalini) departs the body during the journey, normally returning with awareness. With less care and indiscriminate use, one may return to find the body drained of this force. It is not uncommon to feel slightly drained or lackadaisical after a K trip.
-
-## Combinations
-
-| Combination | Effect |
-|-------------|--------|
-| **2C-B** | Best combination - enhanced K journey + reduced recovery discomfort |
-| **LSD** | Enhanced K journey, but recovery period can be a serious drag |
-| **Ecstasy** | No enhancement of K journey, but reduces recovery discomfort |
-| **Natural psychedelics** (mushrooms, mescaline) | Initially positive, but eventually negative effects; entities of natural realms appear adverse to K pollution |
-| **Rare synthetics** (2CT7, 2CT2, DOB) | Good results |
-
-### Warning on Combining with Natural Psychedelics
-Turner eventually decided against combining Ketamine with any natural psychedelics. The "entities" of natural psychedelic realms appear adverse to having their realms polluted by K. The combination with mescaline was particularly problematic - the entity "Mescalito" was left shocked, stunned, and confused by the introduction of the powerful synthetic.
 ## See Also
-
+- [[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
+- [[turner-ketamine-lsd-dmt-interactions-recovery-effects]]
 - [[turner-ketamine-realms-dissociative-consciousness]]
-
-- [[turner-lsd]]
-- [[psychedelic-combination-guide]]
-- [[psychedelic-spirituality-and-religion]]
-- [[mao-inhibitors-and-psychedelics]]
+- [[turner-ketamine-combinations-and-cydelikspace-navigation]]
+- [[turner-mescaline-peyote-san-pedro-experience]]

@@ -88,26 +88,3 @@ The species has potential applications in **[[mycorrhizal-fungi-soil-carbon-sequ
 In some Pacific Island cultures, coralline algae are collected and burned to produce lime (calcium oxide) for traditional purposes including betel nut preparation, food processing, and construction material. This practice has been documented across Micronesia and parts of [[psilocybe-southeast-asia-pacific]].
 
 Traditional uses include application as an agricultural soil amendment in coastal communities, where dried coralline material is incorporated into garden soils as a source of calcium and trace minerals. The practice is documented in several European and Asian coastal traditions.
-
-## Conservation and Threats
-
-*Corallina officinalis* is currently not considered threatened, though its sensitivity to ocean acidification is a growing concern. Experimental studies have demonstrated that reduced seawater pH impairs calcification and growth, with potential consequences for intertidal community structure.
-
-Combined stressors of ocean acidification and warming may act synergistically to reduce coralline algae abundance in coming decades. Experimental mesocosm studies predict significant declines in *C. officinalis* calcification rates under projected mid-century ocean conditions.
-
-Rising sea surface temperatures may shift the species' geographic range poleward, as *C. officinalis* is near its upper thermal tolerance limit in many parts of its current distribution. Extreme heat events can cause mass bleaching and mortality of intertidal coralline populations.
-
-The species is included in several national intertidal monitoring programs as an indicator of ecosystem health. Long-term surveys of *C. officinalis* populations have documented changes in growth rates, calcification intensity, and [[guzman-global-distribution-patterns-neurotropic-fungi]] that correlate with regional climate trends.
-
-Coastal development and pollution, particularly nutrient enrichment, can negatively impact coralline algae by promoting the growth of competing fleshy algae that overgrow and shade coralline turfs. Maintaining water quality in coastal zones is essential for preserving coralline-dominated intertidal communities.
-
-## See Also
-
-- [[mastocarpus-stellatus]]
-- [[fucus-vesiculosus]]
-- [[dictyota-dichotoma]]
-- [[scytosiphon-lomentaria]]
-- [[caulerpa-racemosa]]
-- [[eucheuma-cottonii]]
-- [[sargassum-fusiforme]]
-- [[caulerpa-taxifolia]]

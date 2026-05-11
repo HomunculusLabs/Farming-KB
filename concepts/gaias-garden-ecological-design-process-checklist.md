@@ -11,7 +11,7 @@ tags: [permaculture, ecological-design, garden-design, observation, zones, secto
 
 The ecological design process outlined in *Gaia's Garden* draws from permaculture
 co-founder Bill Mollison's framework while adapting it for home-scale gardeners. (see [[food-forest-design-guide]]).
-The approach emphasizes careful observation before action, pattern literacy from
+The approach emphasizes careful observation before action, [[permaculture-pattern-literacy]] from
 nature, and an iterative design cycle that connects all elements of a landscape
 into a functioning ecosystem. Unlike conventional landscaping, which begins with
 plant selection, ecological design starts with understanding site conditions,
@@ -75,76 +75,16 @@ food forest systems that largely maintain themselves once established.
 
 ### Zone 4: The Forage Zone
 Semi-wild areas harvested occasionally. Coppiced woodlots, nut groves,
-wildlife corridors requiring minimal management beyond periodic harvest.
+[[permaculture-designers-manual-wildlife-corridors]] requiring minimal management beyond periodic harvest.
 
 ### Zone 5: The Wilderness
-Unmanaged reference ecosystems providing wildlife habitat and teaching
+Unmanaged reference ecosystems providing [[hemenway-backyard-wildlife-habitat]] and teaching
 how nature manages without human intervention.
 
 ## Sector Analysis
 
 Sectors are the wild energies that flow through a site from outside:
 
-- **Sun sectors:** Track summer and winter sun angles for passive solar design,
-  shading, and solar energy capture
+- **Sun sectors:** Track summer and winter sun angles for [[passive-solar-design]],
+  shading, and [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
 - **Wind sectors:** Identify cold winter winds to block with windbreaks and
-  cool summer breezes to channel through the landscape
-- **Water sectors:** Map natural drainage, seasonal water flow, and opportunities
-  for swales, ponds, and greywater systems
-- **Fire sectors:** In fire-prone areas, design fuel breaks and fire-resistant
-  plantings on the prevailing fire approach side
-- **Wildlife sectors:** Create habitat corridors and defensive plantings where
-  wildlife enters the property
-- **Noise and privacy sectors:** Use plants and earthworks to screen unwanted
-  views and dampen noise from roads or neighbors
-- **Pollution sectors:** Address contaminated runoff, chemical drift, or other
-  pollutants entering from adjacent properties
-
-## Natural Patterns in Design
-
-Nature uses repeating patterns that create efficiency and beauty:
-
-- **Branching patterns** for pathways and water distribution
-- **Spiral patterns** for herb gardens that maximize edge and microclimates
-- **Net patterns** for bed arrangements distributing plants evenly
-- **Keyhole patterns** maximizing growing area while minimizing paths
-- **Mandala patterns** creating diverse microclimates in circular layouts
-
-## Edge Effect
-
-The boundary between two ecosystems is always richer in species and
-productivity than either system alone. Designers maximize edge through:
-curved bed shapes, intermixing plant types, irregular pond shorelines,
-keyhole and mandala bed designs, and diverse plantings at zone transitions.
-
-## Designer's Checklist
-
-Before finalizing any design, verify the following:
-
-- [ ] Every element performs at least three functions
-- [ ] Every important function is supported by at least three elements
-- [ ] Water is captured, stored, and used on-site before leaving the property
-- [ ] Soil is being built rather than depleted
-- [ ] Native plants are included wherever they serve a needed function
-- [ ] Wildlife habitat is integrated throughout all zones
-- [ ] Paths and access routes follow natural traffic patterns
-- [ ] Microclimates are created to extend growing seasons
-- [ ] The design requires less maintenance over time, not more
-- [ ] Harvest cycles are distributed across the full year
-- [ ] Energy flows (sun, water, wind) are harvested and directed
-- [ ] The design connects to and supports neighboring ecosystems
-
-## Key Principles
-
-- Observe before designing; design before installing
-- Start at your doorstep and work outward
-- Use biological resources over mechanical ones
-- Recycle all waste products within the system
-- Design for redundancy and resilience
-- Work with nature rather than against it
-- The problem is the solution; every obstacle is a resource
-- Small and slow solutions are more sustainable than large quick ones
-- Integrate rather than segregate system components
-
-## See Also
-

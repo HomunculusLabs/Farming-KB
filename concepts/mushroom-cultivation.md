@@ -87,27 +87,3 @@ produces significantly higher yields than PF Tek with comparable simplicity.
 Pasteurized straw or supplemented sawdust is packed into tubes or bags,
 inoculated with spawn, and hung or placed in a fruiting environment. Commonly
 used for commercial mushroom farming.
-
-## Fruiting Conditions
-
-Triggering fruiting requires specific environmental cues: high humidity (85-95%
-RH), fresh air exchange to provide oxygen and remove CO2, indirect light in the
-blue spectrum (6500K fluorescent or indirect sunlight), and a slight temperature
-drop from colonization temperature. See [[fruiting-conditions|fruiting parameters]] for detailed specifications.
-
-## Common Challenges
-
-Contamination is the most frequent problem -- green mold (Trichoderma) can
-spread rapidly if not detected early. Slow colonization may indicate suboptimal
-temperature, old spores, or insufficient moisture. Failure to fruit usually
-results from inadequate humidity or insufficient fresh air exchange. Long stems
-and small caps indicate high CO2, while cracked caps indicate rapid humidity
-fluctuations.
-
-## See Also
-
-- [[dighton-fungus-cultivation-ants-termites-bark-beetles]]
-- [[mushroom-cultivation-in-thailand]]
-- [[mushroom-spore-print-technique|spore printing]]
-- [[mycelium]]
-- [[mushroom-life-cycle]]

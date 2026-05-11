@@ -74,7 +74,7 @@ MMDA-2 is controlled in many jurisdictions as a positional isomer of MMDA or as 
 
 ## Safety Considerations
 
-MMDA-2's long duration (8-12 hours) and the gastrointestinal distress reported at higher doses warrant particular caution. The abdominal discomfort described by several subjects suggests serotonergic effects on gut motility, a property shared with other amphetamine-type psychedelics. The combination of extended duration and potential for uncomfortable physical effects means that dose escalation carries disproportionate risk compared to shorter-acting compounds. As with all compounds in the [[psychedelic-harm-reduction]] practices -- starting with low doses, having a trusted sitter present, and allowing adequate recovery time between experiences -- are strongly recommended.
+MMDA-2's long duration (8-12 hours) and the gastrointestinal distress reported at higher doses warrant particular caution. The abdominal discomfort described by several subjects suggests serotonergic effects on gut motility, a property shared with other amphetamine-type psychedelics. The combination of extended duration and potential for uncomfortable physical effects means that dose escalation carries disproportionate risk compared to shorter-acting compounds. As with all compounds in the [[harm-reduction-guide]] practices -- starting with low doses, having a trusted sitter present, and allowing adequate recovery time between experiences -- are strongly recommended.
 ## Practical Considerations
 
 Successful implementation of MMDA-2 Compound Profile requires attention to

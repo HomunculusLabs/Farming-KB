@@ -18,7 +18,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Liu, J.S. et al. (1986). "Studies on the constituents of Huperzia serrata." Acta Chimica Sinica, 44(10), 1035-1040.
+  - Liu, J.S. et al. (1986). "Studies on the constituents of huperzia-serrata." Acta Chimica Sinica, 44(10), 1035-1040.
   - Zhang, Z. et al. (2008). "Huperzine A in the treatment of Alzheimer's disease." Current Alzheimer Research, 5(4), 398-405.
   - Li, J. et al. (2018). "Huperzine A for Alzheimer's disease: a systematic review and meta-analysis." Journal of Neurology, Neurosurgery & Psychiatry, 89(9), 958-967.
   - Ma, X. et al. (2007). "The effects of Huperzine A on cognitive function in patients with Alzheimer's disease." American Journal of Chinese Medicine, 35(4), 623-631.
@@ -36,7 +36,7 @@ created: 2026-04-28
 
 It has been used for centuries in traditional Chinese medicine under the name **Qian Ceng Ta** (千层塔, "thousand-layer pagoda").
 
-The compound is one of the most potent naturally occurring cholinesterase inhibitors known, with reversible binding affinity comparable to synthetic pharmaceutical agents used in Alzheimer's disease treatment.
+The compound is one of the most potent naturally occurring cholinesterase inhibitors known, with reversible binding affinity comparable to synthetic pharmaceutical agents used in Alzheimer's [[ingham-root-disease-treatment]].
 
 ## Chemical Properties
 
@@ -52,7 +52,7 @@ Synthetic routes exist but remain complex due to the dense ring system and multi
 
 ## Pharmacology
 
-Huperzine A acts as a **reversible, competitive acetylcholinesterase (AChE) inhibitor** with an IC₅₀ of approximately 82 nM for electric eel AChE, making it roughly 10× more potent than galantamine and comparable to donepezil.
+Huperzine A acts as a **reversible, competitive acetylcholinesterase (AChE) inhibitor** with an IC₅₀ of approximately 82 nM for electric eel AChE, making it roughly 10× more potent than [[galantamine]] and comparable to donepezil.
 
 Unlike many AChE inhibitors, huperzine A shows high selectivity for AChE over butyrylcholinesterase (BuChE), which reduces peripheral cholinergic side effects.
 
@@ -84,36 +84,6 @@ Some evidence suggests huperzine A may benefit cognitive performance in healthy 
 
 ## Legal Status
 
-Huperzine A is available as a **dietary supplement** in the United States, Canada, the UK, and most of the EU under the category of nootropic compounds.
+Huperzine A is available as a **dietary supplement** in the [[dmt-containing-plants-united-states-halpern]], Canada, the UK, and most of the EU under the category of nootropic compounds.
 
 It is classified as a prescription drug in China, where it is approved under the brand name **Shuangyiping** for the treatment of Alzheimer's disease.
-
-The compound is not scheduled under the Controlled [[controlled-substances-act-and-psychedelic-research]] in any jurisdiction and is widely available through supplement retailers and online vendors.
-
-## Source Organism
-
-*Huperzia serrata* is an evergreen lycophyte in the family Lycopodiaceae, found in mountainous regions of southeastern China, India, Nepal, and [[psilocybe-southeast-asia-pacific]] at elevations of 300–2700 m.
-
-The plant is slow-growing, taking 5–8 years to reach harvestable maturity, which contributes to supply constraints for natural huperzine A production.
-
-Huperzine A content in dried herb ranges from 0.03–0.12% by dry weight, with highest concentrations found in above-ground aerial parts harvested during the summer [[savory-growing-season-and-non-growing-season-management]].
-
-Cultivation programs in China and commercial extraction facilities have helped stabilize supply, though wild harvesting remains a significant source.
-
-## Related Compounds
-
-**Huperzine B** is a structural analogue also found in *H. serrata* with weaker AChE inhibitory activity (IC₅₀ ~ 6,600 nM).
-
-**Galantamine** is another natural AChE inhibitor from snowdrop and daffodil, used as a first-line Alzheimer's treatment in many countries.
-
-**Donepezil** and **rivastigmine** are fully synthetic AChE inhibitors that serve as the primary pharmaceutical comparators in clinical trials.
-
-**Selinadin** and other lycopodium alkaloids from related *Huperzia* species have been investigated for their own neuropharmacological activities.
-
-## See Also
-
-- [[bacopa-monnieri]]
-- [[withania-somnifera]]
-- [[ginkgo-biloba]]
-- [[rhodiola-rosea]]
-- [[valeriana-officinalis]]

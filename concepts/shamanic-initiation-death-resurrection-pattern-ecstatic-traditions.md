@@ -3,12 +3,12 @@
 ---
 created: 2026-05-08
 source: mckenna_t-food_of_the_gods.md
-tags: [shamanism, initiation, death-resurrection, ecstasy, mircea-eliade, plant-hallucinogens, visionary-experience, religious-psychology]
+tags: [[shamanism]], initiation, death-resurrection, ecstasy, mircea-eliade, plant-hallucinogens, visionary-experience, religious-psychology]
 ---
 
 ## Overview
 
-Across all shamanic traditions worldwide, the initiate undergoes a symbolic death and resurrection that transforms them from an ordinary person into a healer capable of accessing supernatural realms. Terence McKenna, drawing extensively on Mircea Eliade's Shamanism: Archaic Techniques of Ecstasy, described this universal pattern in Food of the Gods as the foundational experience that legitimizes the shaman's authority. The death-resurrection ordeal is not merely symbolic — it is experienced as a genuine psychosomatic crisis that fundamentally alters the initiate's consciousness and relationship to reality.
+Across all shamanic traditions worldwide, the initiate undergoes a symbolic death and resurrection that transforms them from an ordinary person into a healer capable of accessing supernatural realms. [[terence-mckenna]], drawing extensively on Mircea Eliade's Shamanism: Archaic [[mckenna-techniques-of-ecstasy]], described this universal pattern in Food of the Gods as the foundational experience that legitimizes the shaman's authority. The death-resurrection ordeal is not merely symbolic — it is experienced as a genuine psychosomatic crisis that fundamentally alters the initiate's consciousness and relationship to reality.
 
 ## Eliade's Framework
 
@@ -30,7 +30,7 @@ Eliade used the word "profane" deliberately to create a clear split between the 
 
 ### Psychological Predisposition
 
-McKenna and his brother Dennis wrote in The Invisible Landscape that the ecstatic part of shamanic initiation depends on a certain receptivity to states of trance. The novice may be moody, somewhat frail, predisposed to solitude, and may experience fits of epilepsy, catatonia, or other psychological aberration — though not always, as some writers have asserted. This psychological predisposition forms only the starting point.
+McKenna and his brother Dennis wrote in The [[tryptamine-hypercontinuum-and-invisible-landscape]] that the ecstatic part of shamanic initiation depends on a certain receptivity to states of trance. The novice may be moody, somewhat frail, predisposed to solitude, and may experience fits of epilepsy, catatonia, or other psychological aberration — though not always, as some writers have asserted. This psychological predisposition forms only the starting point.
 
 ### The Crisis Proper
 
@@ -72,7 +72,7 @@ Not all shamans use intoxication with plants to obtain ecstasy — drumming, man
 
 ### The Inner Landscape
 
-McKenna described his own encounters with shamanism in the Amazon, where he drank ayahuasca with Dona Catalina, an elderly healer on the Rio Cumala. The experience began with flowing rivers of magenta light behind closed eyelids and progressed through increasingly intense visionary states. He noted that more revelatory than the paranormal feats of gifted magicians were the inner riches discovered within his own mind at the apex of these experiences.
+McKenna described his own encounters with shamanism in the Amazon, where he drank [[ayahuasca]] with Dona Catalina, an elderly healer on the Rio Cumala. The experience began with flowing rivers of magenta light behind closed eyelids and progressed through increasingly intense visionary states. He noted that more revelatory than the paranormal feats of gifted magicians were the inner riches discovered within his own mind at the apex of these experiences.
 
 ## Cultural Significance
 
@@ -88,28 +88,3 @@ The death-resurrection pattern is not unique to shamanism. It appears in many wo
 - **[[ancient-greek-mystery-cults-comparison]] religions:** The descent and return of Persephone, Dionysian rites
 - **Egyptian religion:** The death and resurrection of Osiris
 - **Hinduism:** The death and rebirth cycle of creation myths
-- **Buddhism:** The enlightenment experience as death of the ego-self
-
-Eliade and McKenna both suggested that these later religious traditions are cultural elaborations of the original shamanic pattern, preserving the structure while losing the direct experiential component.
-
-## Modern Parallels
-
-### Psychedelic Therapy
-
-The shamanic death-resurrection pattern has been recognized in modern psychedelic therapy. Patients undergoing psilocybin-assisted therapy for depression, anxiety, or addiction frequently report experiences of [[psilocybin-ego-dissolution-mechanisms]] followed by rebirth — a phenomenological parallel to the shamanic ordeal. Researchers have noted that the therapeutic benefit of psychedelic experiences correlates strongly with the intensity of the mystical-type experience, which includes the death-rebirth motif.
-
-### The Importance of Integration
-
-Just as the shaman must return from the spirit world and integrate their experience into community life, modern psychedelic users must integrate their experiences into ordinary consciousness. The McKennas noted that the shaman who has been transformed from a profane into a sacred state of being must continue to shamanize to remain cured — suggesting that the visionary experience is not a one-time event but an ongoing practice.
-
-## See Also
-
-- [[mckenna-shamanism-and-techniques-of-ecstasy|Shamanism and Techniques of Ecstasy]]
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca|Amazonian Shamanism and Ayahuasca]]
-- [[shamanic-ecstasy-and-techniques|Shamanic Ecstasy and Techniques]]
-
-## References
-
-- McKenna, T. (1992). Food of the Gods, Chapter 1: Shamanism, Setting the Stage.
-- Eliade, M. (1964). Shamanism: Archaic Techniques of Ecstasy. Princeton University Press.
-- McKenna, T. & McKenna, D. (1975). The Invisible Landscape.

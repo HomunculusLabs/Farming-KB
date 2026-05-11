@@ -1,5 +1,5 @@
 ---
-title: "staycare bjerkandera and pleurotus in pollutant degradation Species in Pollutant Degradation"
+title: Staycare Bjerkandera And Pleurotus In Pollutant Degradation
 created: 2026-04-28
 tags: [bioremediation, white-rot-fungi, pah, dye-decolorization, pollutant-degradation]
 date: 2026-04-25
@@ -15,7 +15,7 @@ type: concept
 Bjerkandera and Pleurotus are two genera of white rot fungi that have
 demonstrated significant potential for the biodegradation of persistent
 environmental pollutants. Bjerkandera spp. are notable for producing a
-unique combination of lignin-modifying enzymes, while Pleurotus ostreatus
+unique combination of lignin-modifying enzymes, while [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
 (oyster mushroom) offers practical advantages including economic
 cultivation on waste substrates and competitive ability in soil
 environments. Both genera have been extensively studied for degradation
@@ -32,7 +32,7 @@ wide range of aromatic compounds including PAHs, chlorinated phenols, and
 synthetic dyes.
 
 Bjerkandera adusta has been shown to produce manganese-independent
-peroxidase activity, and Coriolopsis gallica has been involved in the
+peroxidase activity, and [[coriolopsis-gallica]] has been involved in the
 oxidation of chlorophenols. These species demonstrate that the
 Bjerkandera genus possesses diverse lignin-modifying capabilities that
 extend beyond those of the better-studied [[staycare-phanerochaete-chrysosporium-in-bioremediation]].
@@ -45,7 +45,7 @@ PAHs in solvent extracts of polluted soil. High-molecular-weight PAHs
 (five and six aromatic rings) were poorly degraded, mainly because the
 water-miscible solvent acetone used to solubilize PAHs was toxic to the
 fungal cells at high concentrations. This limitation highlights the
-importance of bioavailability in fungal bioremediation.
+importance of [[bioavailability-in-fungal-bioremediation]] bioremediation.
 
 Non-ionic surfactants such as Tween 80 increase the bioavailability of
 PAHs for Bjerkandera sp. BOS55, enhancing solubility and increasing
@@ -84,44 +84,7 @@ as the (9R,10R) enantiomer.
 
 There appears to be no direct correlation between laccase and MnP
 activities and the oxidation of PAHs in P. ostreatus, suggesting these
-extracellular enzymes may be involved in later reactions of PAH
-degradation rather than the initial attack. In Pleurotus pulmonarius, a
+[[fungal-extracellular-enzymes]] may be involved in later reactions of PAH
+degradation rather than the initial attack. In [[pleurotus-pulmonarius]], a
 related species, cytochrome P450 was purified and implicated in
 benzo[a]pyrene hydroxylation.
-
-## Comparative Performance
-
-When P. ostreatus, P. chrysosporium, and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] were
-compared for their ability to degrade PAHs and produce ligninolytic
-enzymes in soil, colonization of sterilized soil from straw-grown
-inocula and degradation of anthracene, phenanthrene, and pyrene were
-greatest with P. ostreatus. Production of MnP and laccase in soil was
-similar in P. ostreatus and T. versicolor but extremely low for P.
-chrysosporium, indicating the practical advantages of P. ostreatus over
-the traditional model organism.
-
-## Dye Decolorization
-
-Both Bjerkandera and Pleurotus species have demonstrated dye
-decolorization capabilities. Bjerkandera adusta and P. ostreatus have
-been studied for manganese-independent peroxidase activity relevant to
-dye degradation. The laccase and MnP systems of these fungi can oxidize
-synthetic dyes through radical-mediated mechanisms, with applications in
-textile [[mollison-designers-wastewater-treatment-wetlands]] and industrial effluent decolorization.
-
-## Challenges and Limitations
-
-When Bjerkandera sp. BOS55 and P. ostreatus were inoculated into PAH-
-containing soil, PAH removal levels were sometimes similar to abiotic
-controls, despite both strains being able to degrade PAHs extensively in
-pure-culture liquid media. This discrepancy between laboratory and field
-performance highlights the challenges of translating controlled
-experimental results to practical remediation applications, including
-competition with [[beneficial-indigenous-microorganisms-bim]] and variable environmental
-conditions.
-
-## See Also
-
-- [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[staycare-fungal-degradation-of-synthetic-dyes]]

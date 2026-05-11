@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Marijuana Horticulture (Jorge Cervantes)
   - The Cannabis Grow Bible (Greg Green)
   - Cannabis Pest Management concept pages

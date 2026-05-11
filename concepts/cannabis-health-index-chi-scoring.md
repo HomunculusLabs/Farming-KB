@@ -1,7 +1,7 @@
 ---
 title: blesching-cannabis-health-index-autoimmune-conditions blesching-cannabis-chi-scoring-evidence-based-medicine
 created: 2026-05-08
-source: "Uwe Blesching, PhD, The Cannabis Health Index, North Atlantic Books, 2015"
+source: "[[uwe-blesching]], PhD, The [[blesching-cannabis-health-index-autoimmune-conditions]], North Atlantic Books, 2015"
 tags:
   - chi-scoring
   - cannabis-health-index
@@ -22,7 +22,7 @@ both the type of research study (which impacts reliability of conclusions) and
 the study's findings, which may be positively or negatively associated with
 medical use of cannabis. The CHI provides patients, caregivers, and healthcare
 practitioners with a structured, scientifically grounded tool for evaluating
-the therapeutic potential of cannabis across more than one hundred chronic
+the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across more than one hundred chronic
 symptoms and diseases.
 
 ## How CHI Scores Are Calculated
@@ -68,7 +68,7 @@ research has been conducted for that condition.
 
 ## Strain-Specific Considerations
 
-Different cannabis strains present with different cannabinoid profiles.
+Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] present with different cannabinoid profiles.
 Sativas and sativa-dominant strains typically have a higher THC to [[cannabis-thc-cbd-ratio-guide-for-conditions]],
 favoring CB1 receptor activation. Indicas and indica-dominant strains have a
 lower THC to CBD ratio, favoring CB2 receptor activation. Selecting the
@@ -78,8 +78,8 @@ strain, enabling informed selection based on therapeutic goals.
 
 ## Form-Specific Considerations
 
-The form of consumption significantly affects therapeutic properties. In fresh,
-raw cannabis leaf, CBD and THC exist as non-psychoactive cannabinoid acids.
+The form of consumption significantly affects [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]. In fresh,
+raw [[cannabis-leaf-morphology-and-phyllotaxy]], CBD and THC exist as non-psychoactive cannabinoid acids.
 Once heated, dried, or stored, decarboxylation occurs: CBD remains non-
 psychoactive while THC-acid becomes psychoactive THC. Raw cannabis allows
 patients to benefit from therapeutic properties without altering consciousness.
@@ -89,8 +89,8 @@ Courtney, MD, notes that unheated cannabis leaf can be tolerated at doses 60
 times higher than heated cannabis, with ten to twenty large fan leaves juiced
 daily as a commonly recommended dose.
 
-## The Setting
+## See Also
 
-The CHI emphasizes the importance of [[endocannabinoid-system-overview]]
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[uwe-blesching]]
+- [[cannabis-health-index-chi-method]]
+- cannabis health index chi scoring
+- [[cannabis-health-index-methodology]]

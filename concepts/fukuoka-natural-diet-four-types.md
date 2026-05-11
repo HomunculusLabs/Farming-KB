@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,27 +88,3 @@ Fukuoka presents a hierarchy of four dietary approaches, each representing a sta
 ### (1) The Lax Diet (Self-Indulgent, Empty Eating)
 
 Conforming to habitual desires and taste preferences. People following this diet sway back and forth erratically in response to whims and fancies. It is the source of countless diseases.
-
-### (2) The Standard Nutritional Diet (Materialist, Scientific Eating)
-
-The diet of most people, proceeding from biological conclusions. Nutritious foods are eaten for the purpose of maintaining the life of the body. It is the domain of Western nutritional science.
-
-### (3) The Diet of Principle (Idealistic, Philosophical Eating)
-
-Based on spiritual principles and idealistic philosophy. Limiting foods, aiming toward compression. Most "natural" diets (including macrobiotics) fall into this category. The practitioner uses yin-yang theory or similar frameworks to consciously construct a proper diet.
-
-### (4) The Natural Diet (The Diet of Non-Discrimination)
-
-Following the will of heaven. Discarding all human knowledge. The body as it is, following its own instinct, eating if something tastes good, abstaining if it does not, is free. It is impossible to prescribe rules and proportions. This diet defines itself according to the local environment, the various needs, and the bodily constitution of each person.
-
-## The Path of Progression
-
-People first draw away from the empty diet that is the source of countless diseases. Next, becoming disenchanted with the scientific diet, which merely attempts to maintain biological life, many proceed to a diet of principle. Finally, transcending this, one arrives at the non-discriminating diet of the natural person.
-
-## The Diet of Non-Discrimination in Detail
-
-Human life is not sustained by its own power. Nature gives birth to human beings and keeps them alive. Food is a gift of heaven. People do not create foods from nature; heaven bestows them.
-
-Food is food and food is not food. It is a part of man and is apart from man.
-
-When food, the body, the heart, and the mind become perfectly united within nature, a natural diet becomes possible. The body follows its own instinct. Nature, or the body itself, serves as a capable guide. But this subtle guidance goes unheard by most people because of the clamour caused by desire and by the activity of the discriminating mind.

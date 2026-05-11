@@ -59,11 +59,11 @@ The trend roughly follows both atomic size and lipophilicity, with larger, more 
 
 ## Pharmacological Discussion
 
-The inactivity of 2C-F provides important evidence about the pharmacophore requirements for psychedelic phenethylamines. The 2,5-dimethoxyphenethylamine scaffold requires a sufficiently large and polarizable substituent at the 4-position to achieve significant 5-HT2A receptor agonism.
+The inactivity of 2C-F provides important evidence about the pharmacophore requirements for [[optical-isomers-psychedelic-phenethylamines]]. The 2,5-dimethoxyphenethylamine scaffold requires a sufficiently large and polarizable substituent at the 4-position to achieve significant 5-HT2A receptor agonism.
 
 Fluorine's small atomic radius (approximately 1.35 angstroms, similar to hydrogen) and its extreme electronegativity create unique electronic effects that are not replicated by larger halogens. While fluorine substitution is widely used in medicinal chemistry to improve metabolic stability and membrane permeability, in the specific context of 2,5-dimethoxyphenethylamines, it fails to provide the necessary steric bulk for receptor activation.
 
-This finding has been confirmed by radioligand binding studies showing that 2C-F has very low affinity for 5-HT2A receptors compared to 2C-B, 2C-I, and 2C-E. The compound may retain some affinity for other serotonin receptor subtypes or for trace amine-associated receptors (TAARs), which could explain the mild subjective effects reported at very high doses.
+This finding has been confirmed by radioligand binding studies showing that 2C-F has very low affinity for 5-HT2A receptors compared to 2C-B, 2C-I, and 2C-E. The compound may retain some affinity for other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes or for trace amine-associated receptors (TAARs), which could explain the mild subjective effects reported at very high doses.
 
 ## Comparison to Related Compounds
 
@@ -77,7 +77,7 @@ This finding has been confirmed by radioligand binding studies showing that 2C-F
 
 - 2C-F (fluorine): Essentially inactive at doses up to 250 mg
 
-The progression from fluorine through methyl, ethyl, bromine, and iodine at the 4-position provides one of the clearest demonstrations of steric effects in psychedelic phenethylamine pharmacology.
+The progression from fluorine through methyl, ethyl, bromine, and iodine at the 4-position provides one of the clearest demonstrations of steric effects in psychedelic [[phenethylamine-pharmacology]].
 
 ## Harm Reduction and Safety Considerations
 
@@ -88,31 +88,3 @@ The progression from fluorine through methyl, ethyl, bromine, and iodine at the 
 - Any experimentation should use standard phenethylamine precautions
 
 - The compound has not been evaluated for chronic toxicity
-
-## Legal Status
-
-2C-F is not specifically scheduled in most jurisdictions. Its lack of psychoactivity means it is unlikely to attract regulatory attention. As a member of the 2C family, it could theoretically be covered by analogue legislation, but enforcement against an inactive compound is improbable.
-
-## Cultural and Historical Significance
-
-2C-F's primary value is as a negative control in psychedelic phenethylamine research. By demonstrating that a small, highly electronegative halogen at the 4-position fails to produce psychedelic activity, it helps define the minimum structural requirements for 5-HT2A agonism in this compound class. This information is valuable for medicinal chemists designing selective serotonin receptor ligands for therapeutic applications.
-
-## References and Bibliography
-
-- Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
-
-- Nichols, D.E. (2004). "Hallucinogens." Pharmacology & Therapeutics, 101(2), 131-181.
-
-- Glennon, R.A. et al. (1992). "Evidence for 5-HT2 involvement." Life Sciences.
-
-- Trachsel, D. (2013). "NH2: The Psychedelic Index." Mercury Press.
-
-## Related Compounds
-
-- [[2c-i-compound-profile]] -- the 4-iodo analogue (highly active)
-
-- [[2c-e]] -- the 4-ethyl analogue
-
-- [[doi-entity]] -- the amphetamine version of 2C-I
-
-- [[phenethylamine-pharmacology]] -- general pharmacology

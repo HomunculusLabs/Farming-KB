@@ -12,13 +12,13 @@ Updated: 2026-04-18
 
 Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Sheep are manageable livestock for small-scale farms, providing meat, wool, and [[grassland-pasture-management-mollison]] services. They are relatively easy to care for but require attention to predator protection and stress management.
+Sheep are manageable livestock for small-scale farms, providing meat, wool, and [[grassland-pasture-management-mollison]] services. They are relatively easy to care for but require attention to [[fukuoka-natural-predator-protection]] and stress management.
 
 ## How Sheep Fit into a Permaculture System
 
 - **Orchard foraging**: Can be allowed into the orchard after trees are at least 7 years old, though they must be monitored for tree damage
-- **Tree forage**: Trees provide food, shelter, soil benefits, and erosion prevention — an important part of sheep diet
-- **Pasture management**: Sheep graze efficiently when properly rotated
+- **Tree forage**: Trees provide food, shelter, soil benefits, [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]] — an important part of sheep diet
+- **[[comparison-silvopasture-systems-vs-pasture-management]]**: Sheep graze efficiently when properly rotated
 - **Wool production**: Annual shearing provides fiber for textiles or sale
 - **Meat**: Lambs provide high-quality meat
 
@@ -26,9 +26,9 @@ Sheep are manageable livestock for small-scale farms, providing meat, wool, and 
 
 ### Pasture
 
-- **Stocking rate**: A legume-grass mix pasture feeds 5 ewes and 8 lambs per acre in northern regions
+- **[[savory-stock-density-vs-stocking-rate]]**: A legume-grass mix pasture feeds 5 ewes and 8 lambs per acre in northern regions
 - **Rotation**: Rotate weekly to prevent overgrazing and parasite buildup
-- **Spring transition**: Gradually introduce sheep to pasture each spring so they can adjust
+- **[[coleman-spring-transition]]**: Gradually introduce sheep to pasture each spring so they can adjust
 - **Winter foraging**: Harvested corn fields and roots left in the garden supplement winter diet
 - **Winter hay**: Each sheep eats 75 pounds (34 kg) of grain and 10 bales of hay over the winter
 
@@ -68,7 +68,7 @@ Sheep are very vulnerable to stress, more so than most livestock:
 
 - **Moving/transport**: Can cause sheep to stop eating or even have a heart attack
 - **Feed changes**: Must be gradual to avoid stress
-- **Loud storms**: Can trigger severe stress responses
+- **Loud storms**: Can trigger severe [[fungal-stress-responses]]
 - **Approach**: Handle quietly and gently; minimize sudden movements and loud noises
 
 ## Breeding
@@ -87,20 +87,3 @@ Sheep are very vulnerable to stress, more so than most livestock:
 - **Vaccinations**: Follow local veterinary recommendations
 - **Parasites**: Pasture rotation is the primary defense against internal parasites
 - **Regular observation**: Daily flock checks catch problems early
-
-## Flock Guard Dogs
-
-The **Great Pyrenees** breed is specifically suited for sheep protection:
-
-- Lives with the sheep in the field full time
-- Bred to attack sheep predators
-- Provides constant protection without human supervision
-- Essential for free-ranging sheep on pasture
-
-## Related
-
-- [[goat-keeping-guide]] — comparing small ruminants
-- [[pasture-management-and-forage]] — pasture design and rotation
-- [[chicken-keeping-guide]] — mixed livestock systems
-- [[fukuoka-natural-farming-transcends-time-space]]
-- [[knf-livestock-chicken-house-natural-farming]]

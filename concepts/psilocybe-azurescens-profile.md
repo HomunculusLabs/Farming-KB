@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms known, first identified by Paul Stamets and Jochen Gartz along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom [[spore-print-collection]]," and "indigo Psilocybe."
+Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms known, first identified by Paul Stamets and Jochen Gartz along the northern Oregon coast near Astoria. Common names include "Astoriensis," "flying saucer mushroom," and "indigo Psilocybe."
 
 ## Taxonomy
 
@@ -22,9 +22,9 @@ Psilocybe azurescens is one of the most potent psilocybin-containing mushrooms k
 
 ## Macroscopic Features
 
-- **Cap**: 3-10 cm broad, conic to convex expanding to broadly convex with a pronounced, persistent broad umbo. Surface smooth, viscid when moist, covered by a separable gelatinous pellicle. Chestnut to ochraceous brown to caramel, often becoming pitted with dark blue or bluish black zones. Hygrophanous, strongly bruising blue when damaged. (see [[pluteus-salicinus]]).
-- **Gills**: Attachment ascending, sinuate to adnate, brown, often stained indigo black where injured. Close, with two tiers of lamellulae, edges whitish. (see [[psilocybin-mushrooms-overview]]).
-- **Stem**: 90-200 mm long by 3-6 mm thick, silky white, dingy brown from base, hollow at maturity. Base thickening downwards, often curved, with coarse white aerial tufts of mycelium and azure-toned rhizomorphs that tenaciously attach to wood chips or dead grass. (see [[mushroom-potency-harvest-timing]]).
+- **Cap**: 3-10 cm broad, conic to convex expanding to broadly convex with a pronounced, persistent broad umbo. Surface smooth, viscid when moist, covered by a separable gelatinous pellicle. Chestnut to ochraceous brown to caramel, often becoming pitted with dark blue or bluish black zones. Hygrophanous, strongly bruising blue when damaged.
+- **Gills**: Attachment ascending, sinuate to adnate, brown, often stained indigo black where injured. Close, with two tiers of lamellulae, edges whitish.
+- **Stem**: 90-200 mm long by 3-6 mm thick, silky white, dingy brown from base, hollow at maturity. Base thickening downwards, often curved, with coarse white aerial tufts of mycelium and azure-toned rhizomorphs that tenaciously attach to wood chips or dead grass.
 - **Veil**: White, cortinate, often leaving a fibrillose annular zone on the superior stem.
 - **Taste**: Extremely bitter.
 - **Odor**: None to slightly farinaceous.
@@ -45,7 +45,7 @@ One of the most potent psilocybin mushrooms in the world:
 - 0.38% psilocin
 - 0.35% baeocystin
 
-After six months of storage [[spore-print-collection]], analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
+After six months of storage, analyses revealed that this species retained most of its original potency. The baeocystin content is roughly on par with Psilocybe semilanceata.
 
 ## Habitat and Distribution
 
@@ -68,3 +68,18 @@ After six months of storage [[spore-print-collection]], analyses revealed that t
 - Psilocybe cyanescens -- similar but smaller, with characteristically wavy cap margin
 - Psilocybe semilanceata -- shares high baeocystin content
 - Psilocybe subaeruginosa, Psilocybe serbica, Psilocybe venenata
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]]
+- [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
+- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
+- [[emcdda-psilocybin-mushroom-species-and-identification]]
+- [[geographic-distribution-of-psilocybe-species]]

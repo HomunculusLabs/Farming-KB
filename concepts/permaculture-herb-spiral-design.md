@@ -88,27 +88,3 @@ peppers, zucchini, and fennel.
 The spiral also connects to other permaculture elements. It can provide
 forage for [[permaculture-windbreak-design-species]] to protect it from drying winds, the herb spiral
 becomes a self-sustaining, highly productive element of the Zone 1 garden.
-
-## Maintenance and Seasonal Care
-
-Herb spirals require relatively little maintenance compared to traditional
-row gardens. The primary tasks are watering (eased by the gravity-fed
-design), occasional harvesting, and replacing herbs that die or become
-woody. The vertical structure means less bending is required for planting
-and harvesting. In colder climates, the stone walls provide some frost
-protection, and the spiral can be covered with row fabric during extreme
-cold. In spring, any dead growth is cleared and fresh compost is top-dressed
-as needed. The spiral design naturally prevents most weed problems since the
-dense planting and varied microclimates leave little room for opportunistic
-weeds to establish.
-
-A few specific considerations will keep the spiral productive year after
-year. Prune woody herbs like rosemary and sage regularly to prevent them
-from becoming leggy and taking over the spiral. Mint should be monitored
-and cut back aggressively, as even within the spiral it can spread. Replace
-annual herbs like cilantro and basil each season, and allow perennial herbs
-to establish deep root systems over multiple years. The small pond at the
-base should be cleaned occasionally to prevent mosquito breeding, though
-moving water from the sprinkler typically prevents this. Over time, the
-spiral matures into a stable, self-regulating ecosystem that produces an
-abundance of [[holzer-medicinal-and-culinary-herbs-compendium]] with minimal ongoing input.

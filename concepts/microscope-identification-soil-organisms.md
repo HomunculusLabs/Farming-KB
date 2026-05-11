@@ -10,7 +10,7 @@ sources: ["raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-
 
 Updated: 2026-04-18
 
-Microscope identification is the primary method for assessing soil food web organisms. Dr. Elaine Ingham recommends developing on-site microscope capability for rapid qualitative assessment, supplemented by quantitative laboratory analysis when needed.
+Microscope identification is the primary method for assessing soil food web organisms. Dr. [[elaine-ingham]] recommends developing on-site microscope capability for rapid qualitative assessment, supplemented by quantitative [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] when needed.
 
 ## Equipment Needed
 
@@ -21,7 +21,7 @@ A compound microscope with the following specifications:
 - Glass slides and cover slips
 - Distilled water for preparing slides
 
-Ingham noted that hand-held microscopes were being developed for field assessment, with lab kits for leaf surface testing becoming available through Soil Foodweb Inc.
+Ingham noted that hand-held microscopes were being developed for field assessment, with lab kits for [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] testing becoming available through Soil Foodweb Inc.
 
 ## Preparing Soil Samples for Microscopy
 
@@ -33,7 +33,7 @@ Ingham noted that hand-held microscopes were being developed for field assessmen
 6. Begin observation at low power (40-100x) to locate organisms
 7. Increase to 400x for identification
 
-For compost tea samples:
+For [[actively-aerated-compost-tea]] samples:
 1. Take a small sample of brewed tea
 2. Place a drop on a slide
 3. Cover and observe at 400x
@@ -57,7 +57,7 @@ Assessment:
 ## Fungi
 
 What to look for:
-- Fungal hyphae appear as long, thread-like strands
+- [[fungal-hyphae]] appear as long, thread-like strands
 - Diameter typically 2-10 micrometers (visible at 400x)
 - Hyphae can extend to 100 micrometers or more in length
 - Active hyphae appear clear and bright; inactive hyphae may appear dark or broken
@@ -66,7 +66,7 @@ What to look for:
 
 Assessment:
 - High [[bioremediation-fungal-biomass-biosorbent-material]]: many long hyphae visible, crossing the field of view in multiple directions
-- Low fungal biomass: few or no hyphae visible
+- Low [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]: few or no hyphae visible
 - Beneficial indicator: bright, clear hyphae with active growing tips
 - Problem indicator: hyphae being attacked by bacteria (hyphae appear ragged or fragmented) -- this indicates oxygen levels have dropped below 5-6 ppm
 
@@ -88,41 +88,3 @@ What to look for:
 - Nematodes are microscopic roundworms, visible at 40-100x
 - The largest [[ingham-beneficial-nematodes-soil-food-web]] are about 25 micrometers in width and 150 micrometers in length
 - They move in a characteristic sinuous (snake-like) pattern
-- Different mouth parts indicate different feeding types:
-  - Bacterial-feeding: simple tube-like mouth
-  - Fungal-feeding: a stylet (spear-like structure)
-  - Root-feeding: a prominent stylet
-  - Predatory: large mouth with teeth or grasping structures
-
-Assessment:
-- Beneficial: bacterial-feeding and fungal-feeding nematodes (indicate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]])
-- Problem: root-feeding nematodes (indicate plant stress and food web imbalance)
-- Excellent: predatory nematodes (indicate mature, balanced food web)
-
-## Assessing Tea Quality
-
-For compost tea, the key indicators under the microscope:
-
-1. Many actively moving bacteria throughout the field of view
-2. Fungal hyphae present (for fungal teas) -- bright and intact, not fragmented
-3. Protozoa actively swimming (especially in teas made with worm compost)
-4. NO chains of rod-shaped bacteria (indicative of anaerobic conditions)
-5. No foul smell (confirm with nose, but visual confirmation under microscope)
-
-## Common Mistakes
-
-- Using too much sample on the slide (organisms overlap and cannot be counted)
-- Confusing organic debris with organisms
-- Mistaking air bubbles for organisms
-- Not waiting for movement to become apparent (some organisms move slowly)
-- Assuming all nematodes are harmful (most are beneficial)
-
-## See Also
-
-- [[hamilton-soil-types-identification]]
-
-- fungal-competition-antagonism-soil
-- [[ingham-soil-food-web-assessment-methods]]
-- soil microscope analysis
-- [[fungal-indicators-soil-quality-ecosystem-health]]
-- [[nutrient-movement-through-soil-to-plant-roots]]

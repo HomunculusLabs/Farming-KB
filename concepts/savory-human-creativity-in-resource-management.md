@@ -1,5 +1,5 @@
 ---
-title: "Human savory human creativity in resource management Management"
+title: Savory Human Creativity In [[savory-holistic-resource-management-biological-monitoring]]
 created: 2026-04-28
 tags: [creativity, decision-making, management, holistic-management, extension]
 date: 2026-04-27
@@ -88,53 +88,6 @@ rapidly because they were thinking for themselves rather than waiting for
 instructions. Those who sought only more training to follow never developed
 the creative capacity the HRM model requires.
 
-## Practical Applications
-
-Managers should use the HRM model as a framework for thought, not a
-prescription for action. The model helps define the whole, set goals, and
-test decisions, but the creative ideas for how to achieve those goals must
-come from the manager who understands the unique local situation best.
-
-### Creativity and Wealth Generation
-
-Creativity is the common thread running through all three forms of wealth.
-Mineral dollars require creativity combined with labor applied to raw
-resources. Paper dollars arise from creativity and labor alone. Solar dollars
-flow from creativity, labor, and constant energy sources. In all cases, the
-quality and appropriateness of the creative input determines the success or
-failure of the wealth-generating enterprise.
-
-### Institutional Barriers to Creativity
-
-Several institutional barriers stifle creativity in resource management.
-Government structures divide every aspect of life into portfolios, and nowhere
-can the whole be discussed as one. If a manager tries to address a broad
-problem under any one minister's jurisdiction, they are out of order. When one
-cannot even debate the whole and the interconnectedness of government actions,
-how can the problems created by compartmentalized thinking ever be solved?
-
-Educational institutions compound the problem by training specialists in
-narrow disciplines who then advise generalist managers. The specialist
-understands a great deal about one aspect but nothing about the whole.
-Multi-disciplinary teams help, but Savory found that the most effective
-approach is training managers themselves in the holistic framework so they
-can direct specialists rather than being directed by them.
-
-### The Creative Manager's Mindset
-
-The successful practitioner of holistic resource management maintains an open,
-inquiring mind while exercising judgment based on continuous monitoring. They
-understand that their situation is unique and that solutions from books,
-experts, or neighbors may not apply. They use the HRM model to test their
-creative ideas against their [[savory-holistic-goal-definition]] and the [[fungal-ecosystem-processes-overview]] before
-implementation, and they remain flexible enough to change course when
-monitoring reveals that an approach is not working.
-
-## Related Concepts
-
-- [[savory-holistic-goal-definition]]
-- [[savory-complexity-and-wholistic-thinking]]
-
 ## See Also
-
-- [[savory-holistic-resource-management-energy-flow]]
+- [[savory-holistic-resource-management-mineral-cycle]]
+- [[savory-holistic-resource-management-animal-impact]]

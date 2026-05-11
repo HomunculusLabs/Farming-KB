@@ -6,6 +6,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
   - /Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md

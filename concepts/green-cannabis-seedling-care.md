@@ -1,5 +1,5 @@
 ---
-title: green cannabis seedling care Care - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Seedling Care
 created: 2026-04-26
 updated: 2026-04-25
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis, plant-growth]
 
 # Cannabis Seedling Care
 
-From Greg Green's *The Cannabis Grow Bible* (4th ed.), Chapters 2 and 3.
+From Greg Green's *The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]]* (4th ed.), Chapters 2 and 3.
 
 ## The Germination Stage
 
@@ -43,7 +43,7 @@ seeds only 7-8 may germinate.
 Place seeds on a damp towel or damp piece of cotton wool. Cover with
 more damp material. Keep moist at all times. If the material dries out
 it may damage the seeds. Check daily for roots. If roots appear,
-immediately transfer to a grow medium using tweezers. Do not touch the
+immediately transfer to a [[query-what-is-the-best-cannabis-grow-medium-for-beginners]] using tweezers. Do not touch the
 root. Success rate: 8-9 out of 10 seeds. The risk is [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
 
 ### Propagation Kits (Rockwool SBS Tray)
@@ -87,56 +87,3 @@ seedling grows, more leaves form and bush upwards along with a stem.
 
 The seedling stage can last between 1 and 3 weeks. At the end your plant
 will have maybe 4-8 new leaves. Some bottom leaves may drop off.
-
-## Supporting Weak Seedlings
-
-Some strains produce seedlings with weak stems that lean more than 90
-degrees. Use a small stick to hold the seedling up. Tie the stem to the
-stick using a piece of thread. Never tie the thread above a growing
-shoot or the seedling will push up against it and rip itself.
-
-You may continue to use a stick as the plant grows. If the stem remains
-weak during [[cannabis-vegetative-growth-stage]], give the base of the stem a little shake
-every morning and evening. This simulates outdoor wind and helps the
-plant develop a more solid stem.
-
-**Important:** Never bring a stick from outdoors for support as it may
-carry bugs like [[cervantes-spider-mites-identification-control]] in incubation nests inside the wood.
-
-## Germination Soil Requirements
-
-Good germination soil should be sifted with no compost added. Ordinary
-loam soil with pH of 7 and NPK where N is equal to or higher than P and
-K is fine. Ratios like 5:1:1 or 8:4:4 are good. Just ensure N is equal
-to or higher than P and K factors.
-
-## Transplanting Seedlings
-
-Transplanting should be done as early as possible. Two main methods:
-
-**Method 1 (Cut-away pot):** Cut away the base of the small pot and
-place it into the bigger pot of soil. The roots will grow down through
-the bottom hole into the new pot.
-
-**Method 2 (Soil removal):** Let the soil dry out for a couple days to
-settle hard. Cut around the inside of the pot with a clean knife. Push
-fingers down the side and lift plant and soil out. Quickly place into
-the larger pot and fill with soil. Give water immediately.
-
-**Never lift by the stem** -- always grip the soil firmly. Refrain from
-feeding for 1 week after transplant to reduce shock.
-
-## Staggered Germination Strategy
-
-For new growers: germinate 3 seeds first, then 3 more the following
-week, then the last 4 two weeks later. This allows experimentation and
-reduces risk of losing all seeds.
-
-For experienced growers: germinate 5 followed by another 5 the next
-week. Long-time growers can germinate all 10 at once.
-
-## See Also
-
-- [[cannabis-seed-germination]]
-- [[cannabis-cloning]]
-- [[cannabis-endocannabinoid-system]]

@@ -20,7 +20,7 @@ sources:
 
 **Gentiana aspera** is a perennial herb in the family Gentianaceae, native to the mountains of southeastern Europe. Its common name, rough gentian, refers to the scabrous (rough) texture of its leaves and stems.
 
-The species produces intense blue trumpet-shaped flowers in late summer, making it a desirable rock garden plant. It is one of the smaller European gentians, typically reaching only 5–15 cm in height.
+The species produces intense blue trumpet-shaped flowers in late summer, making it a desirable [[hamilton-rock-garden-design]] plant. It is one of the smaller European gentians, typically reaching only 5–15 cm in height.
 
 Gentiana aspera is classified as rare throughout its range and is protected in several countries. Its restricted distribution and specific habitat requirements make it vulnerable to environmental change.
 
@@ -36,7 +36,7 @@ Gentiana aspera was described by the German botanist Christian Friedrich Heinric
 - **Section:** Calathianae
 - **Authority:** Wimmer (1826)
 
-The species is closely related to Gentiana dinarica and Gentiana clusii, both of which share similar alpine habitats. It can be distinguished by its rough stem texture and the presence of small leaf-like bracts in the inflorescence.
+The species is closely related to [[gentiana-dinarica]] and [[gentiana-clusii]], both of which share similar alpine habitats. It can be distinguished by its rough stem texture and the presence of small leaf-like bracts in the inflorescence.
 
 Hybridization with Gentiana dinarica has been reported where the two species co-occur. These hybrids display intermediate morphological characters and may complicate identification.
 
@@ -62,11 +62,11 @@ The restricted distribution is likely a consequence of both geological history a
 
 Gentiana aspera flowers from July to September, later than many alpine gentians. The intense blue flowers are visible from considerable distance and attract a variety of pollinating insects.
 
-Primary pollinators include bumblebees and solitary bees. The funnel-shaped corolla provides a landing platform and nectar guide for these visitors.
+Primary pollinators include bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]]. The funnel-shaped corolla provides a landing platform and nectar guide for these visitors.
 
 The species grows in association with other calcicole alpine plants. Common associates include Sesleria species, Carex sempervirens, and various alpine cushion plants.
 
-Like many gentians, Gentiana aspera forms mycorrhizal associations that aid nutrient uptake in the thin, nutrient-poor alpine soils. These fungal relationships are essential for seedling establishment.
+Like many gentians, Gentiana aspera forms [[plants-without-mycorrhizal-associations]] that aid [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the thin, nutrient-poor alpine soils. These fungal relationships are essential for seedling establishment.
 
 The species appears to be a poor competitor and is often excluded from sites where taller grasses become dominant. Grazing by wild herbivores may indirectly benefit the species by maintaining short turf.
 
@@ -87,34 +87,3 @@ Plants resent root disturbance and are best left undivided once established. Suc
 Plants perform best in rock crevices or trough gardens where root conditions can be carefully managed. They are intolerant of winter waterlogging and benefit from overhead protection in wet climates.
 
 Plants are generally disease-free when grown in appropriate conditions. The main cultivation challenge is maintaining the cool, well-drained root environment the species demands.
-
-## Uses and Conservation
-
-Gentiana aspera has no significant history of medicinal use, unlike some of its larger congeners such as Gentiana lutea. Its bitter root contains gentiopicrin but not in commercially significant quantities.
-
-The species is valued exclusively as an ornamental plant for rock gardens and alpine collections. Well-flowered specimens are highly prized at alpine plant exhibitions.
-
-Despite its ornamental value, the species remains uncommon in cultivation due to the difficulty of obtaining seeds and the slow growth rate. Only a handful of specialist nurseries offer it regularly.
-
-Conservation status varies by country but it is generally considered vulnerable or endangered. Habitat degradation from overgrazing and alpine tourism development are the primary threats.
-
-Climate change is a growing concern, as warming temperatures may shift suitable habitats to higher elevations where substrate and exposure conditions differ from current sites.
-
-Road construction and ski resort development in the Balkans have directly destroyed several known populations. Unregulated plant collection by alpine enthusiasts has also contributed to population declines.
-
-The species is listed on national red lists in Bosnia and Herzegovina, Montenegro, and Greece. Collection from wild populations is prohibited throughout its range.
-
-Ex-situ conservation is limited, with only a few botanical gardens maintaining living collections. Seed banking has been proposed as an additional conservation measure for this narrow endemic.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-cruciata]]
-- [[gentiana-verna]]
-- [[centaurium-erythraea]]
-- [[swertia-perennis]]
-- [[primula-auricula]]
-- [[campanula-persicifolia]]
-- [[primula-farinosa]]
-- [[lysimachia-vulgaris]]

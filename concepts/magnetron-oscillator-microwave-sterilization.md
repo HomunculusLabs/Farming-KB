@@ -40,10 +40,10 @@ microwave field that is extracted through the antenna.
 
 ## Specifications for Sterilization Applications
 
-The NASA microwave sterilization system specifies particular operating
+The [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] system specifies particular operating
 parameters that differ from standard kitchen microwave oven applications:
 
-- **Frequency**: 2.45 GHz, which corresponds to the rotational transition
+- **Frequency**: 2.45 GHz, which corresponds to the [[rotational-transition-water-dipole-microwave-physics-sterilization]]
   frequency of dipolar water molecules, ensuring maximum energy coupling with
   water present on contaminated surfaces
 - **Power output**: The magnetron must deliver sufficient power to achieve the
@@ -63,7 +63,7 @@ transmission chain:
    switching power supply
 2. **Magnetron oscillator**: Generates the 2.45 GHz microwave signal
 3. **Waveguide-coaxial adapter**: Transitions the microwave energy from the
-   magnetron's coaxial output into a rectangular waveguide
+   magnetron's coaxial output into a [[rectangular-waveguide-dipole-antenna-microwave-surface-sterilization]]
 4. **Rectangular waveguide**: Directs the microwave energy toward the
    sterilization chamber with minimal losses
 5. **Coaxial [[coaxial-power-splitter-waveguide-microwave-sterilization]]**: Divides the microwave energy into multiple
@@ -88,54 +88,3 @@ stable operation:
   magnetron on and off to allow cooling periods
 
 ## Frequency Selection: Why 2.45 GHz
-
-The choice of 2.45 GHz is not arbitrary but is dictated by the physics of
-water molecule interaction:
-
-- **Dielectric heating**: At 2.45 GHz, the microwave field oscillation period
-  closely matches the relaxation time of water molecules, maximizing energy
-  absorption
-- **Penetration depth**: At this frequency, microwaves penetrate several
-  centimeters into biological tissue and moist materials, allowing treatment
-  of surfaces with complex geometries
-- **Regulatory allocation**: 2.45 GHz is an ISM (Industrial, Scientific, and
-  Medical) band with international regulatory approval for heating applications
-- **Component availability**: The widespread adoption of 2.45 GHz for kitchen
-  microwave ovens makes magnetrons at this frequency inexpensive and readily
-  available
-
-## Lifespan and Reliability
-
-Magnetron tubes have a finite operational life determined by several factors:
-
-- **Cathode depletion**: The emitting cathode material gradually loses its
-  ability to emit electrons, reducing power output over time
-- **Vacuum degradation**: Outgassing of internal components or microscopic
-  leaks can reduce the internal vacuum quality, degrading performance
-- **Thermal cycling**: Repeated heating and cooling cycles cause mechanical
-  stress on the tube structure
-
-Typical magnetron lifespan in continuous industrial applications is 2,000-5,000
-operating hours. For sterilization systems that operate intermittently, the
-calendar lifespan may extend to several years.
-
-## Safety Considerations
-
-Microwave magnetrons generate high-power electromagnetic radiation that
-requires specific safety precautions:
-
-- **Interlock switches**: The system must have interlocks that disable the
-  magnetron when the sterilization chamber is opened, preventing operator
-  exposure to microwave radiation
-- **Shielding**: The sterilization chamber and waveguide system must be
-  properly shielded to prevent microwave leakage
-- **High voltage**: The power supply generates lethal voltages (2-4 kV)
-  that require appropriate insulation and safety enclosures
-- **X-ray emission**: Improperly operating magnetrons can generate X-rays
-  from electron bombardment of the anode; proper design prevents this
-
-## See Also
-
-- [[microwave-sterilization-system-hardware-architecture]]
-- [[microwave-penetration-elastomeric-materials]]
-- [[trace-water-flash-steam-microwave-sterilization]]

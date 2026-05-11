@@ -3,11 +3,11 @@ title: "Tabebuia impetiginosa"
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - herbal-plant
   - medicinal
   - tropical-tree
-  - agroforestry
+  - [[agroforestry]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -27,7 +27,7 @@ sources:
 pau d'arco, or pink trumpet tree, is a large deciduous tree
 of Bignoniaceae native to tropical and subtropical Americas.
 
-The inner bark has been used for centuries across South America
+The inner bark has been used for centuries across [[guzman-psilocybin-mushrooms-south-america]]
 to treat infections, inflammation, and cancer. Modern research
 has validated antimicrobial and anti-inflammatory properties
 of its naphthoquinone constituents, particularly lapachol and
@@ -57,7 +57,7 @@ rapid growth and spectacular pink flowering displays.
   with yellow throats; dense terminal panicles before leaf
   emergence; one of the most spectacular tropical displays
 - **Fruit:** Linear capsule, 15–30 cm, releasing winged seeds
-- **Roots:** Deep taproot; mycorrhizal associations
+- **Roots:** Deep taproot; [[plants-without-mycorrhizal-associations]]
 
 ## Distribution and Habitat
 
@@ -81,48 +81,10 @@ rapid growth and spectacular pink flowering displays.
   active against *S. aureus*, *C. albicans*, *M. tuberculosis*
 - **α-Lapachone:** Minor naphthoquinone with related activities
 - **Iridoids:** Catalpol derivatives; anti-inflammatory
-- **Flavonoids:** Quercetin, kaempferol glycosides; antioxidant
+- **Flavonoids:** [[quercetin]], [[kaempferol]] glycosides; antioxidant
 
 ## Ethnomedicine
 
 - **Infections:** Bark decoctions for bacterial, fungal, and
   protozoal infections; topical for dermatitis; oral for
   respiratory and urinary infections
-- **Anti-inflammatory:** Arthritis, prostatitis, inflammatory
-  bowel conditions
-- **Anticancer:** Marketed as "lapacho tea" for cancer; β-lapachone
-  has in vitro anticancer activity but clinical evidence is
-  preliminary
-- **Analgesic and antipyretic:** Pain relief and fever reduction
-
-## Permaculture Applications
-
-- **Shade tree:** Dappled shade in agroforestry; compatible
-  with coffee, cacao, understory crops
-- **Windbreak:** Dense crown provides effective [[cervantes-wind-protection-outdoor-cannabis]]
-- **[[mollison-designers-bee-forage-tree-planting]]:** Excellent nectar source; ipê honey produced
-  commercially in Brazil
-- **Ornamental:** Spectacular flowering — widely planted as
-  street tree in tropical cities
-- **Timber:** Heartwood extremely durable; density 0.85–1.05
-  g/cm³; used for construction, fencing, furniture
-- **Soil building:** [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes [[hamilton-composting-and-organic-matter-management]]
-  and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in agroforestry systems
-
-## Cultivation
-
-- **Propagation:** Seed (germinates 2–4 weeks without
-  pretreatment); cuttings viable
-- **Growth:** 1–2 m/year; flowers in 3–5 years
-- **Spacing:** 5–8 m agroforestry; 10–15 m specimen
-- **Pruning:** Requires formative pruning; tolerates heavy
-  pruning
-- **Cold tolerance:** Brief frosts to -3°C; deciduous in
-  dry season
-
-## See Also
-
-- [[azadirachta-indica]]
-- gliricidia-sepium
-- [[glycine-max]]
-- [[tabebuia-avellanedae]]

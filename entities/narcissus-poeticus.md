@@ -30,7 +30,7 @@ cultural associations.
 
 Narcissus poeticus is a source of bioactive Amaryllidaceae alkaloids,
 including galanthamine (used to treat Alzheimer's disease), lycorine, and
-narciclasine. The essential oil extracted from its flowers has been used in
+narciclasine. The [[permaculture-designers-manual-essential-oil-plants]] extracted from its flowers has been used in
 perfumery since the Renaissance.
 
 ## Taxonomy and Morphology
@@ -78,7 +78,7 @@ colonies in mountain meadows. These displays are a significant tourist
 attraction in regions such as the French Alps and the Jura Mountains.
 
 The plant has been widely naturalised beyond its native range, particularly
-in the British Isles, Scandinavia, and eastern North America. It persists
+in the British Isles, Scandinavia, and [[polypore-fungi-eastern-north-america]]. It persists
 in old gardens, cemeteries, and along roadsides.
 
 Narcissus poeticus is one of the latest-flowering daffodil species, typically
@@ -88,62 +88,6 @@ blooming from late April to June, depending on elevation and latitude.
 
 Narcissus poeticus has been cultivated in European gardens since at least
 the 16th century. It remains a popular ornamental bulb, valued for its
-elegance, late flowering time, and intense fragrance.
-
-The bulbs are planted in autumn at a depth of 10-15 cm, approximately three
-times the bulb height. They prefer full sun to partial shade and moist but
-well-drained soil.
-
-The species is relatively pest-resistant and naturalises readily in grass
-and meadow plantings. It is one of the best daffodil species for naturalising
-in lawns and orchards.
-
-In perfumery, Narcissus poeticus absolute is extracted from the flowers
-through solvent extraction. The oil has a rich, green-floral aroma with
-indole and jasmine-like undertones.
-
-The absolute is one of the most expensive natural flower extracts, with
-prices comparable to tuberose and jasmine absolutes. It is used as a heart
-note in high-end perfumes.
-
-In traditional folk medicine, narcissus preparations were applied
-topically for wounds and skin conditions. However, all Narcissus species
-are toxic if ingested, and internal use is strongly discouraged.
-
-## Chemistry and Pharmacology
-
-Narcissus poeticus produces a diverse array of Amaryllidaceae alkaloids.
-The most pharmacologically significant is galanthamine, an acetylcholinesterase
-inhibitor used in the treatment of Alzheimer's disease.
-
-Galanthamine was first isolated from the bulbs of Galanthus woronowii but
-is also found in Narcissus poeticus and several other Amaryllidaceae
-species. It enhances cholinergic neurotransmission by competitively
-inhibiting acetylcholinesterase.
-
-Lycorine is the most abundant alkaloid in Narcissus poeticus bulbs and
-flowers. It exhibits antiviral, antimalarial, and antitumour activities
-in vitro but is also emetic and toxic at higher doses.
-
-Narciclasine, a phenanthridone alkaloid, has demonstrated potent
-antiproliferative activity against various cancer cell lines. It inhibits
-protein synthesis and induces apoptosis through multiple pathways.
-
-Additional alkaloids include haemanthamine, homolycorine, and
-pseudolycorine. The alkaloid profile varies significantly between plant
-parts, with bulbs generally containing the highest concentrations.
-
-The fragrant essential oil contains phenethyl alcohol, benzyl alcohol,
-indole, and various terpenoids. These volatile compounds contribute to
-the distinctive narcissus fragrance used in perfumery.
 
 ## See Also
-
-- [[narcissus-pseudonarcissus]]
-- [[galanthus-nivalis]]
-- [[crocus-sativus]]
-- [[lycoris-radiata]]
-- [[colchicum-autumnale]]
-- [[convallaria-majalis]]
-- [[iris-pseudacorus]]
-- [[camassia-quamash]]
+- [[garden-myths-native-plants-and-invasive-species]]

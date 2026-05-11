@@ -10,7 +10,7 @@ type: concept
 # Oyster Mushroom Species
  The genus Pleurotus encompasses over 30 described species of gilled mushrooms
 found worldwide. Several species and strains are commercially cultivated, each
-with distinct growth parameters, flavor profiles, substrate preferences, and
+with distinct [[chen-maitake-growth-parameters-environmental-control]], flavor profiles, substrate preferences, and
 market characteristics. Understanding species differences is essential for
 selecting the right mushroom for a given climate, substrate, and market.
 
@@ -18,12 +18,12 @@ selecting the right mushroom for a given climate, substrate, and market.
 
 The common oyster mushroom is the most widely cultivated species in the genus.
 Native to temperate and subtropical forests worldwide, it fruits on dead or
-dying hardwood trees. Fruiting bodies are typically 5-15 cm in diameter with
+dying hardwood trees. [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are typically 5-15 cm in diameter with
 a fan or oyster-shaped cap, white to gray coloration, and a short eccentric
 stem.
 
 P. ostreatus is cold-tolerant, fruiting optimally at 12-18 degrees C, making
-it suitable for winter cultivation in temperate regions. It has moderate to
+it suitable for winter cultivation in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It has moderate to
 high [[biological-efficiency]] (60-100%) on [[oyster-mushroom-supplemented-sawdust-blocks]] and straw
 substrates, making it a reliable workhorse species for beginning and
 commercial cultivators alike.
@@ -36,7 +36,7 @@ generally lighter in color, often white to pale gray, with a more pronounced
 stem. P. pulmonarius colonizes substrates faster than P. ostreatus and is more
 aggressive in competing with contaminants, making it a reliable choice for
 tropical and subtropical cultivation. Yields are comparable to P. ostreatus,
-and it is popular in Southeast Asian markets.
+and it is popular in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] markets.
 
 ## Pleurotus eryngii
 
@@ -66,7 +66,7 @@ with cooking, limiting its appeal for some culinary applications.
 
 The pink oyster mushroom produces vibrant pink to salmon-colored fruiting
 bodies that are among the most visually striking [[fungi-cultivated-mushrooms-pathogens-competitors]]. Native
-to tropical regions, it requires warm temperatures (22-30 degrees C) and high
+to [[fukuoka-natural-farming-in-tropical-regions]], it requires warm temperatures (22-30 degrees C) and high
 humidity for fruiting.
 
 P. djamor has a short shelf life and the color fades to tan or white when
@@ -88,38 +88,3 @@ requirements and slightly lower yields, but it fills a specialty market niche.
 
 Different Pleurotus species show varying substrate preferences, though all are
 primary decomposers capable of colonizing a wide range of lignocellulosic
-materials. P. ostreatus performs well on both straw and hardwood sawdust.
-P. eryngii shows strong preference for supplemented sawdust substrates with
-higher nitrogen content. P. pulmonarius and P. djamor are particularly
-adaptable to agricultural waste substrates including straw, bagasse, and
-[[oyster-mushroom-coffee-grounds-cultivation]]. The choice of [[supplemented-sawdust-block-cultivation]] versus
-straw-based methods depends on species, available equipment, and market goals.
-
-## Strain Selection
-
-Within each species, significant genetic variation exists between strains.
-Commercial spawn suppliers offer numerous strains selected for traits including
-yield, colonization speed, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], fruiting body morphology, shelf
-life, and disease resistance. Strain selection should account for local climate
-conditions, available substrate, growing system, and target market.
-Maintaining strain purity through proper tissue culture technique and regular
-subculturing is essential for consistent production in [[mycology]] laboratories
-and commercial operations.
-
-## Nutritional and Medicinal Properties
-
-Oyster mushrooms are valued not only for culinary qualities but also for
-nutritional and medicinal properties. They are rich in protein, fiber, B
-vitamins, and minerals including potassium, iron, and zinc. Several
-Pleurotus species produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with documented
-hypocholesterolemic, antihypertensive, antioxidant, and immunomodulatory
-effects. P. ostreatus produces lovastatin, a cholesterol-lowering compound,
-making it of interest for both nutrition research and functional food
-development.
-
-## See Also
-
-- [[mushroom-cultivation-environments]]
-- [[biological-efficiency]]
-- [[mushroom-cultivation-fundamentals]]
-- [[oyster-mushroom-substrates]]

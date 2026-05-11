@@ -14,12 +14,12 @@ sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
   - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A Field Guide." USDA Forest Service Research Paper PNW-143.
   - Martin, W.H. et al. (1951). "bloomfield-ascospore-extreme-resilience-electron-microscope-survival and taxonomic studies of blueberry and huckleberry species." growing-gourmet-north-american-reishi-species Blueberry Research Council.
-  - Höerdemann, M.L. (2018). "Huckleberries of the Pacific Northwest." Mountaineers Books.
+  - Höerdemann, M.L. (2018). "Huckleberries of the [[psilocybin-north-america-pacific-northwest]]." Mountaineers Books.
 ---
 
 ## Overview
 
-**Vaccinium membranaceum** (thinleaf huckleberry, mountain huckleberry, big huckleberry) is a deciduous shrub in the family Ericaceae native to western North America. It is one of the most commercially and culturally important wild berry species in the Pacific Northwest and Rocky Mountain regions.
+**Vaccinium membranaceum** (thinleaf huckleberry, mountain huckleberry, big huckleberry) is a deciduous shrub in the family Ericaceae native to western [[guzman-psilocybin-mushrooms-north-america]]. It is one of the most commercially and culturally important wild berry species in the Pacific Northwest and Rocky Mountain regions.
 
 The species produces large, sweet, dark purple to black berries that are widely harvested for commercial and recreational use. Wild huckleberry picking is a significant cultural tradition and economic activity in Montana, Idaho, and the Pacific Northwest.
 
@@ -47,7 +47,7 @@ Vaccinium membranaceum ranges from southern British Columbia and Alberta south t
 
 The species occupies coniferous and mixed forests, subalpine meadows, and open slopes between 600 and 3,400 meters elevation. It is most abundant in mid-elevation montane forests dominated by Douglas-fir, lodgepole pine, and Engelmann spruce.
 
-Fire ecology plays an important role in V. membranaceum population dynamics. The species resprouts vigorously from rhizomes after fire, and berry production typically increases for 10–20 years post-fire as canopy opening increases light availability.
+Fire ecology plays an important role in V. membranaceum [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]. The species resprouts vigorously from rhizomes after fire, and berry production typically increases for 10–20 years post-fire as canopy opening increases light availability.
 
 Soil preferences include well-drained, acidic loams derived from volcanic or granitic parent material. The species is strongly mycorrhizal, forming associations with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi essential for nutrient uptake.
 
@@ -79,32 +79,12 @@ Ericaceous shrubs including V. membranaceum contribute to soil acidification thr
 
 The root system is shallow and extensively rhizomatous, forming dense networks that stabilize montane soils. This root architecture makes the species effective at preventing erosion on steep slopes after disturbance events.
 
-Pollination is primarily by bumblebees (Bombus spp.), with smaller contributions from solitary bees and flies. Flower morphology is specifically adapted to buzz pollination, which is essential for maximum fruit set.
+Pollination is primarily by bumblebees (Bombus spp.), with smaller contributions from solitary bees and flies. Flower morphology is specifically adapted to buzz pollination, which is essential [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] set.
 
 ## Cultivation
 
 Commercial cultivation of V. membranaceum has proven extremely difficult despite decades of research. The species has exacting requirements for mycorrhizal associates, soil conditions, and light regimes that are difficult to replicate in agricultural settings.
 
-Propagation from seed is possible but slow, with seeds requiring cold stratification and germination rates often below 30%. Vegetative propagation from rhizome cuttings has shown more promise for nursery production.
+Propagation from seed is possible but slow, with seeds requiring cold stratification and germination rates often below 30%. [[hamilton-vegetative-propagation]] from rhizome cuttings has shown more promise for nursery production.
 
-Domestication efforts have focused on developing hybrid crosses between V. membranaceum and cultivated highbush blueberry (V. corymbosum). These hybrids aim to combine huckleberry flavor with blueberry cultivation ease.
-
-Wild harvest management through controlled burning and timber harvest practices has proven more practical than cultivation. Forest managers use prescribed fire to maintain productive huckleberry stands on public lands.
-
-## See Also
-
-- [[vaccinium-parvifolium]]
-
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-uliginosum]]
-- [[vaccinium-arboreum]]
-- [[gaylussacia-baccata]]
-- [[arctostaphylos-patula]]
-- [[vaccinium-fuscatum]]
-- [[pinus-sylvestris]]
-- [[pseudotsuga-menziesii]]
-- [[juniperus-communis]]
-- [[taxus-baccata]]
-- [[larix-decidua]]
-- [[sequoia-sempervirens]]
+Domestication efforts have focused on developing hybrid crosses between V. membranaceum and cultivated highbush blueberry (V. corymbosum). These hybrids aim to combine huckleberry flavor with [[blueberry-cultivation-and-variety-guide]] ease.

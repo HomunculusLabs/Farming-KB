@@ -15,9 +15,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ghoneum, M. (1995). "Augmentation of NK cell activity in cancer patients by Active Hexose Correlated Compound (AHCC)." Anti-Cancer Drugs, 6(3), 434-438.
+  - Ghoneum, M. (1995). "Augmentation of NK cell activity in cancer patients by ahcc-active-hexose-correlated-compound Compound (AHCC)." Anti-Cancer Drugs, 6(3), 434-438.
   - Matsui, Y., et al. (2002). "Improved method for the preparation of AHCC." Japanese Patent JP2002356801.
-  - Ito, K., et al. (2014. "Effect of AHCC on immune response in healthy volunteers." Journal of Nutritional Science and Vitaminology, 60(4), 262-268.
+  - Ito, K., et al. (2014. "Effect of AHCC on immune response in healthy volunteers." Journal of [[fukuoka-critique-western-dietetics-nutritional-science]] and Vitaminology, 60(4), 262-268.
   - Cowawintaweewat, S., et al. (2016). "AHCC supplementation: a review of clinical evidence." Integrative Cancer Therapies, 15(1), 44-55.
   - https://www.ahccresearch.com/ (manufacturer research database)
 aliases:
@@ -28,12 +28,12 @@ aliases:
 
 # AHCC (Active Hexose Correlated Compound)
 
-**AHCC** (Active Hexose Correlated Compound) is a proprietary, standardized extract derived from the **mycelium** of several basidiomycete mushrooms, primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human clinical trials and 100+ preclinical studies investigating its effects on immune function, cancer outcomes, liver health, and infectious disease. It is marketed as a dietary supplement in over 40 countries and is widely used in Japanese integrative oncology as a complementary therapy alongside conventional cancer treatment.
+**AHCC** (Active Hexose Correlated Compound) is a proprietary, standardized extract derived from the **mycelium** of several basidiomycete mushrooms, primarily *Lentinula edodes* (shiitake). Developed in Japan in the late 1980s, AHCC is one of the most clinically researched mushroom-derived immunomodulatory supplements, with over 30 human clinical trials and 100+ preclinical studies investigating its effects on immune function, cancer outcomes, liver health, and infectious disease. It is marketed as a dietary supplement in over 40 countries and is widely used in Japanese integrative oncology as a [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]] alongside conventional cancer treatment.
 
 ## Composition and Manufacture
 
 ### Source Material
-AHCC is produced from the mycelium of multiple basidiomycete mushroom species. The primary organism is *Lentinula edodes* (shiitake), though the exact proprietary blend includes additional species from the genera *Pleurotus* and *Trametes*. The mycelium is cultured in liquid submerged fermentation on a rice bran-based substrate under controlled temperature and pH conditions.
+AHCC is produced from the mycelium of multiple basidiomycete mushroom species. The primary organism is *Lentinula edodes* (shiitake), though the exact proprietary blend includes additional species from the genera *Pleurotus* and *Trametes*. The mycelium is cultured in liquid [[cancer-medicinal-mushrooms-submerged-fermentation-production]] on a rice bran-based substrate under controlled temperature and pH conditions.
 
 ### Manufacturing Process
 The production of AHCC involves several critical steps that distinguish it from conventional mushroom extracts:
@@ -47,13 +47,13 @@ The production of AHCC involves several critical steps that distinguish it from 
 This unique manufacturing process breaks down high-molecular-weight β-glucans into partially acetylated **oligosaccharides** of approximately 5 kDa average molecular weight, which is the defining characteristic of AHCC.
 
 ### Chemical Composition
-AHCC is a complex mixture of bioactive compounds:
+AHCC is a complex mixture of [[cordyceps-cancer-bioactive-compounds]]:
 
 - **Partially acetylated α-1,4-glucans:** The principal active components (estimated 30–40% of dry weight), with an average molecular weight of ~5,000 Da
 - **β-glucan oligosaccharides:** Lower-molecular-weight β-linked glucose polymers
 - **Amino acids:** Including glutamine, arginine, and branched-chain amino acids
 - **Minerals:** Calcium, magnesium, zinc, and selenium
-- **Other components:** Trace amounts of chitin, nucleic acids, and phenolic compounds
+- **Other components:** Trace amounts of chitin, nucleic acids, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 
 The acetylated α-glucan fraction is unique to AHCC and not found in standard mushroom β-glucan preparations. This distinction is believed to underlie AHCC's distinct immunological profile compared to other mushroom-derived immunomodulators.
 
@@ -88,53 +88,3 @@ The largest body of clinical evidence for AHCC concerns its use as a complementa
 AHCC protects liver function through multiple mechanisms:
 
 - Reduction of serum ALT, AST, and GGT in patients with chronic hepatitis
-- Protection against hepatotoxicity from chemotherapy drugs (particularly CCl₄ and alcohol-induced injury in preclinical models)
-- Enhancement of hepatic glutathione levels and antioxidant enzyme activity
-- Anti-fibrotic effects through suppression of TGF-β signaling
-
-### Infectious Disease
-AHCC has shown immunoprotective effects against various infections:
-
-- **Influenza:** Reduced symptom severity and duration in clinical trials; enhanced vaccine immune response when used as an adjuvant
-- **Hepatitis B/C:** Improved liver enzyme profiles and reduced viral load in adjunctive use
-- **HPV:** Clearance rates of high-risk HPV strains improved in combination with conventional treatment
-
-## Dosing and Safety
-
-- **Standard dose:** 3 grams per day (divided into 2–3 doses), taken on an empty stomach
-- **Cancer adjunct dose:** 3–6 grams per day (higher doses used in clinical trials)
-- **Safety profile:** Excellent tolerability; mild gastrointestinal discomfort (bloating, loose stools) in <5% of users
-- **Contraindications:** No known contraindications; caution advised in autoimmune conditions (theoretical risk of immune stimulation)
-- **Drug interactions:** No clinically significant interactions reported; may enhance immune response to vaccines
-- **Pregnancy/lactation:** Insufficient data; not routinely recommended
-
-## AHCC vs Other Mushroom Extracts
-
-| Feature | AHCC | Lentinan | PSK | β-Glucan supplements |
-|---------|------|----------|-----|---------------------|
-| Source | Shiitake mycelium | Shiitake fruiting body | Turkey tail | Various species |
-| Primary compound | Acetylated α-glucan (~5 kDa) | β-1,3/1,6-glucan | β-glucan-protein complex | High-MW β-glucan |
-| Molecular weight | ~5,000 Da | ~300,000–600,000 Da | ~100,000 Da | Variable |
-| Manufacturing | Enzymatic hydrolysis | Hot water extraction | Hot water extraction | Various |
-| Oral bioavailability | High (low MW) | Low (high MW) | Moderate | Low-moderate |
-| Clinical evidence | Extensive (30+ trials) | Extensive (Japan) | Extensive (Japan) | Variable |
-
-## Quality and Standardization
-
-AHCC is manufactured by Amino Up Co., Ltd. (Sapporo, Japan) under GMP conditions. Quality control includes:
-
-- **Acetylated α-glucan content** as the primary marker compound (assayed by HPLC)
-- **Total polysaccharide content:** Minimum 40% of dry weight
-- **Heavy metal and microbiological testing:** Per Japanese Pharmacopoeia standards
-- **DNA authentication:** PCR-based species verification of source mycelium
-
-Multiple third-party laboratories have verified batch-to-batch consistency, though the proprietary nature of the manufacturing process has been noted as a limitation in independent research replication.
-
-## See Also
-
-- [[lentinula-edodes]] — Shiitake mushroom, the primary source organism for AHCC
-- [[lentinan]] — High-molecular-weight β-glucan from shiitake fruiting bodies
-- [[psk-polysaccharide-krestin]] — Turkey tail-derived anti-tumor polysaccharide
-- [[polysaccharide-peptide-psp]] — Another mushroom-derived cancer adjunct preparation
-- [[beta-glucans]] — Overview of immunomodulatory fungal polysaccharides
-- [[ergothioneine]] — Antioxidant amino acid found in AHCC source mushrooms

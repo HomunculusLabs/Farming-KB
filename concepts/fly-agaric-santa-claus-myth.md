@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric fly agaric santa claus myth Myth and Siberian Shamanism
+title: Fly Agaric Santa Claus Myth
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -30,7 +30,7 @@ was irresistible.
 ## Origin of the Theory
 
 The notion that "Santa" was a shaman is of relatively recent origin. It was
-first proposed by Robert Gordon Wasson, presumably via Jonathan Ott -- with
+first proposed by Robert [[gordon-wasson-comparative-method-ethnomycology]], presumably via [[jonathan-ott]] -- with
 whom both men were friends -- who mentioned it in his popular book about the
 narcotic plants of [[psilocybin-north-america-pacific-northwest]] in 1976. From there, it was seized upon by
 the young academic Rogan Taylor, who brought it to much wider attention with a
@@ -61,7 +61,7 @@ its numerous inadequacies:
 - **Chimney entry**: Shamans did not physically climb out of the smoke-holes
   of their yurts while in trance, for their spirit-journeys to otherworlds
   took place entirely in an otherworldly dimension. The notion that a
-  physical descent through a smoke-hole was part of shamanic practice is
+  physical descent through a smoke-hole was part of [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] is
   unfounded.
 
 - **Intermittent use**: Fly-agaric use was intermittent among Siberian
@@ -84,45 +84,7 @@ day.
 
 New Amsterdam was eventually captured by the British, who renamed it New York,
 and Santa Claus and the traditions surrounding him were largely forgotten.
-Santa was revived in the nineteenth century by writers such as Washington
+Santa was revived in the [[mckenna-club-des-hachischins-nineteenth-century-literary-hashish]] by writers such as Washington
 Irving and, most importantly, Clement Clark Moore (1779-1863). His hugely
 popular poem of 1822 pretty well created the modern image of Santa: a
 fur-clad magic man, reindeer-driven sleigh, and delivering presents via the
-chimney. The newly revived Santa had acquired his red-and-white garb by the
-end of the nineteenth century, well before Coca-Cola started to employ him in
-their advertising -- contrary to the popular suggestion that Coca-Cola
-invented Santa's colours.
-
-## Conclusion: Charming but Unlikely
-
-Charming and appealing as the fly-agaric Santa story is, it is unlikely to be
-true, and we can say with great certainty that, in writing his poem, Moore
-was drawing not upon any shamanistic folk memory, but upon his particular
-talent for creative writing.
-
-## The Broader Pattern of Projection
-
-The Santa Claus myth exemplifies a broader pattern in psychedelic culture: the
-tendency to retroactively identify mushroom influence in cultural phenomena
-that have other, more mundane explanations. Just as [[fly-agaric-victorian-fairy-paintings]] paintings
-were not inspired by direct fly-agaric experience, and Lewis Carroll's Alice
-was not a pharmacological odyssey, the Santa Claus story says more about the
-desires and assumptions of modern mushroom enthusiasts than it does about the
-historical origins of Christmas traditions.
-
-The story of the shaman -- the man with a foot in two worlds -- is one that
-has captivated Western armchair-bound imaginations so powerfully that we in
-the West have spread it around the globe. Whenever and wherever we have
-encountered something which, on the surface, appears remotely similar, we
-have named it shamanism, so often that many in the West believe that shamanism
-is some primal human urge that will always push its way to the surface. These
-are the stories that we tell others which say more about ourselves than about
-the cultures we purport to describe.
-
-## See Also
-
-- [[santa-claus-and-fly-agaric-shaman-myth]]
-
-- [[fly-agaric-victorian-fairy-paintings]]
-- [[fly-agaric-ethnobotany]]
-- [[fly-agaric-literary-history]]

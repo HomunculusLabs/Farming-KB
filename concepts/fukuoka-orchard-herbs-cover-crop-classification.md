@@ -1,5 +1,5 @@
 ---
-title: fukuoka orchard herbs cover crop classification Cover Crop Classification by Plant Family
+title: Fukuoka Orchard Herbs Cover Crop Classification
 created: 2026-04-28
 tags:
   - fukuoka
@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
@@ -22,7 +23,7 @@ type: concept
 
 ## Core Concept
 
-Fukuoka developed a comprehensive classification system for herbs used as orchard cover crops, organized by plant family, [[savory-growing-season-and-non-growing-season-management]], and specific use cases. This system was the result of planting seeds of thirty legumes, crucifers, and grasses throughout his orchard and observing their performance over years. The classification provides a practical guide for selecting the right cover crop for the right situation in fruit tree cultivation.
+Fukuoka developed a comprehensive classification system for herbs used as orchard cover crops, organized by plant family, [[savory-growing-season-and-non-growing-season-management]], and specific use cases. This system was the result of planting seeds of thirty legumes, crucifers, and grasses throughout his orchard and observing their performance over years. The classification provides a practical guide for selecting the [[query-how-to-choose-the-right-cover-crop]] for the right situation in fruit tree cultivation.
 
 ## The Three Major Plant Families
 
@@ -30,7 +31,7 @@ Fukuoka developed a comprehensive classification system for herbs used as orchar
 
 Grasses serve primarily as deciduous fruit tree undergrowth and for controlling summer weeds. Key species include:
 
-- **Italian ryegrass**: spring to summer growing season, used as deciduous fruit tree undergrowth
+- **Italian ryegrass**: spring to summer [[extending-growing-season]], used as deciduous fruit tree undergrowth
 - **Orchardgrass**: general orchard undergrowth
 - **Timothy**: summer and winter growing season, paired with fruit vines
 - **Wild oats**: spring season, useful for controlling summer weeds
@@ -79,61 +80,10 @@ Crucifers serve primarily for winter weed control across all fruit tree types:
 
 The cover crop system is designed to work in combination rather than as single-species plantings. Key selection principles include:
 
-1. **Seasonal complementarity**: Choose cover crops whose growing seasons fill gaps, ensuring year-round soil coverage
+1. **Seasonal complementarity**: [[query-how-to-choose-cover-crops-for-your-climate-and-goals]] whose [[jeavons-climate-adaptation-growing-seasons]] fill gaps, ensuring year-round soil coverage
 2. **Weed suppression timing**: Match cover crop emergence to the weed species you want to suppress
 3. **Tree type compatibility**: Some covers work better with evergreen trees, others with deciduous fruit trees
 4. **Soil conditioning function**: Include deep-rooted species (daikon, alfalfa, lupine) to work deeper soil strata
-5. **Nitrogen contribution**: Legumes provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation; crucifers and grasses contribute organic matter
+5. **Nitrogen contribution**: Legumes provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation; crucifers and grasses contribute [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 
 ## The Primary-Secondary Crop System
-
-Fukuoka's general conclusion from thirty years of observation was to use **ladino clover as the primary crop** with herbs such as **alfalfa, lupine, and bur clover as secondary crops**. This combination:
-
-- Eliminates annual weeds within one year
-- Eliminates biennial weeds within two years
-- After two to three years, almost all garden weeds vanish, leaving a solid field of clover
-- Requires no re-seeding for six to eight years
-- Does not compete strongly with fruit trees for fertilizer or moisture
-- Grows back easily after cutting and remains hardy even when trampled
-
-## Connection to Deep Soil Conditioning
-
-For conditioning deeper soil strata in hard, depleted orchard soil, Fukuoka companion-planted fertilizer trees such as black wattle, myrtle, and podocarpus among the fruit trees. These work in tandem with the herb cover crops: shallow-rooted herbs improve the top 16 to 18 inches, while deep-rooted fertilizer trees and alfalfa (roots extending six feet or more) work the subsoil.
-
-## Practical Notes
-
-- Seed should be drilled the first autumn; delayed seeding invites insect damage
-- Clover seed should not be covered with soil after drilling — merely firm the soil, as covering often hampers germination
-- When clover sown initially in spring among weeds, cut it back a year later to stimulate growth
-- Clover does not choke out other vegetation but gradually becomes dominant by growing so thickly as to prevent weed germination
-- Once established, clover requires the same meticulous care as a lawn — areas with perennial weeds must be cut more frequently
-- In warm regions where clover loses summer vigor, alfalfa serves as the year-round backbone
-- Daikon radish should be allowed to complete its full life cycle — its decomposition feeds the soil for the following season
-
-## Seasonal Management Calendar
-
-**Autumn**: Drill clover, vetch, daikon, and other winter-spring cover crop seeds among fruit trees. The orchard floor should be covered before winter rains begin.
-
-**Winter**: Winter crops (vetch, clover, daikon, turnip) continue growing slowly. No cutting is needed. The green cover protects soil from erosion and maintains soil biological activity.
-
-**Spring**: Spring weeds begin to appear but are suppressed by the established cover crop canopy. Cut cover crops before they set seed if they are becoming too tall. Chinese milk vetch reaches peak growth and begins decomposing, releasing nitrogen.
-
-**Summer**: Ladino clover and alfalfa maintain cover. Mung beans, cowpeas, and kudzu provide additional summer growth. Cut as needed to prevent shading of young fruit trees. In mature orchards, the canopy provides enough shade to keep summer covers from becoming excessive.
-
-## Companion Planting with Fruit Trees
-
-The herb cover crop system is designed to complement, not compete with, fruit trees:
-
-- **Shallow-rooted covers** (clover, vetch) occupy the top soil layers without competing with deeper fruit tree roots
-- **Deep-rooted covers** (daikon, alfalfa, lupine) work soil strata that fruit tree roots do not reach
-- **Legumes** fix atmospheric nitrogen, reducing or eliminating the need for applied nitrogen
-- **Crucifers** break up compacted soil with their taproots and accumulate sulfur-containing compounds
-- **Grasses** add bulk organic matter and protect the soil surface from rain impact
-
-The key insight is that a diverse cover crop community performs functions that no single species can achieve alone. The plant families complement each other in root depth, nutrient contribution, growth season, and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-## Connection to Other Concepts
-
-- [[fukuoka-natural-alfalfa-black-wattle-ground-cover|Natural Alfalfa and Black Wattle Ground Cover]]
-- [[fukuoka-ground-cover-strategy|Ground Cover Strategy]]
-- [[fukuoka-three-dimensional-orchard-design|Three-Dimensional Orchard Design]]

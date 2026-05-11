@@ -28,9 +28,9 @@ Tianeptine is an atypical tricyclic compound developed by the French
 Société d'Exploitation des Recherches et Applications Scientifiques (SERPS)
 in the 1960s. Approved in many countries for major depressive disorder, it
 is distinguished from conventional antidepressants by its unique
-pharmacological profile. Rather than blocking serotonin reuptake like SSRIs,
+pharmacological profile. Rather than blocking [[serotonin]] reuptake like SSRIs,
 tianeptine enhances serotonin reuptake while producing antidepressant
-effects through opioid receptor agonism and neuroplasticity modulation.
+effects through [[salvinorin-a-kappa-opioid-receptor-pharmacology]] agonism and neuroplasticity modulation.
 
 In recent years, tianeptine has gained notoriety for its abuse potential.
 At doses significantly above therapeutic levels (typically 50-100 mg per
@@ -50,7 +50,7 @@ increasing reports of dependence and withdrawal.
 Tianeptine is structurally classified as a tricyclic antidepressant but
 bears minimal pharmacological resemblance to classical TCAs like
 amitriptyline or imipramine. Its three-ring structure contains a dibenzo
-core with a thiazepine ring, and a heptanoic acid side chain.
+core with a thiazepine ring, and a heptanoic acid [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
 
 ## Pharmacology
 
@@ -70,7 +70,7 @@ conventional antidepressants.
 
 ### Pharmacokinetics
 
-- Oral bioavailability: 99%
+- [[first-pass-metabolism-and-oral-bioavailability]]: 99%
 - Onset: Rapid, within 1-2 hours
 - Peak plasma: 1-2 hours
 - Half-life: 2.5-3 hours
@@ -88,60 +88,3 @@ patterns, as users escalate frequency to maintain opioid effects.
 
 - **Standard antidepressant:** 12.5 mg three times daily (37.5 mg/day)
 - **Treatment duration:** Typically 4-6 weeks for initial response
-- **Maximum recommended:** 37.5 mg/day (therapeutic)
-
-### Subjective Effects
-
-- **Therapeutic doses (12.5 mg):** Mild anxiolysis, improved mood,
-  increased energy, reduced fatigue. Effects are subtle compared to
-  conventional antidepressants
-- **Abuse doses (50-200+ mg):** Opioid-like euphoria, sedation, physical
-  relaxation, anxiolysis, and dissociation at high doses
-- **Cognitive effects:** Some users report improved focus and motivation
-  at therapeutic doses; these effects reverse or cloud at abuse levels
-
-## Safety and Dependence
-
-### Abuse Potential and Withdrawal
-
-Tianeptine's mu-opioid agonism confers significant abuse potential. Users
-report opioid-like euphoria at 5-15 times the therapeutic dose. Tolerance
-develops within 1-2 weeks of daily abuse-level dosing.
-
-Withdrawal syndrome is severe and resembles opioid withdrawal: anxiety,
-agitation, sweating, tremor, myalgia, insomnia, nausea, tachycardia, and
-in extreme cases, seizures. Abrupt discontinuation from high-dose use
-requires medical supervision and gradual tapering.
-
-### Adverse Effects
-
-- Nausea, constipation, and abdominal pain (common at all doses)
-- Drowsiness and dizziness
-- Dry mouth and headache
-- Hepatotoxicity at high doses (elevated liver enzymes)
-- Respiratory depression at extreme doses, especially combined with other
-  CNS depressants
-
-## Legal Status
-
-| Region | Status | Notes |
-|--------|--------|-------|
-| France | Prescription | Originally approved; withdrawn 2013 |
-| [[dmt-containing-plants-united-states-halpern]] | Unscheduled | Not FDA-approved; sold as supplement |
-| Russia | Prescription | Widely prescribed as Coaxil |
-| European Union | Varies | Approved in some member states |
-| Australia | Schedule 4 | Prescription required |
-| United Kingdom | Class C | Controlled substance (2023) |
-
-## See Also
-
-- [[serotonin]]
-- [[withania-somnifera]]
-- [[rhodiola-rosea]]
-- [[l-theanine]]
-- [[huperzine-a]]
-- [[galantamine]]
-- [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
-- [[mitragyna-speciosa]]
-- [[nootropic-herbs-guide]]

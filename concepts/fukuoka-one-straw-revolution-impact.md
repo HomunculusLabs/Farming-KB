@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Fukuoka One Straw Revolution Impact
@@ -87,13 +88,3 @@ In Japan, Fukuoka promoted the idea that every family should have a quarter-acre
 As of the 2020s, Fukuoka's influence continues to grow. The global [[natural-way-of-farming-guide]] on millions of acres, and the mainstreaming of regenerative agriculture principles all reflect the intellectual foundation that *The One-Straw Revolution* helped establish. Climate change and soil degradation have made Fukuoka's warnings about [[fukuoka-critique-scientific-agriculture-civilization]] more urgent than ever. His vision of agriculture as a partnership with nature, rather than a domination of it, continues to inspire new generations of farmers, researchers, and food system reformers [[fungi-around-the-world-species-distribution]].
 
 ## See Also
-
-- [[fukuoka-american-agriculture-observations]]
-
-- [[permaculture-principles]]
-
-- regenerative agriculture
-
-- [[home-garden-seed-saving]]
-
-- [[holzer-alpine-farming-techniques]]

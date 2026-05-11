@@ -87,13 +87,3 @@ clumped pioneer trees in open grassland — a process that duplicates [[fukuoka-
 fruit pigeons and frugivorous birds. Dense nucleus plantings (1-2 meter spacing) of mixed
 legumes, palms, shrubs, [[permaculture-plants-food-forest-ground-covers-bamboos]], and bulbs, combined with stone or stick mulch,
 quickly shade out grasses and produce closed canopy systems.
-
-### Building Effective Nucleus Clumps
-
-Excellent nucleus clumps are constructed from a close-planted mixture of:
-- bill-mollison-permaculture-a-designers-manual-trees-as-climate-modifiers
-- permaculture-energy-accounting-transition-farming
-
-## See Also
-
-- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]

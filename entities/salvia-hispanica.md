@@ -6,7 +6,7 @@ tags:
   - herbal-plant
   - superfood
   - omega-3
-  - permaculture
+  - [[permaculture]]
   - mesoamerican-crop
   - hydrophilic
 date: 2026-04-28
@@ -63,7 +63,7 @@ Commercial cultivation now occurs in Mexico, Argentina, Bolivia, Peru, Ecuador, 
 
 Chia seeds are notable for their exceptionally high alpha-linolenic acid (ALA) content, comprising 60% of total seed oil.
 
-- **Omega-3 fatty acids (ALA):** 17.8–20.3 g per 100 g dry weight
+- **Omega-3 [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] (ALA):** 17.8–20.3 g per 100 g dry weight
 - **Omega-6 fatty acids (LA):** 5.8–7.0 g per 100 g
 - **Dietary fiber:** 34–40 g per 100 g (of which 85–93% is insoluble fiber)
 - **Protein:** 16–19 g per 100 g, with a favorable [[cho-fish-amino-acid-preparation]] profile
@@ -81,37 +81,10 @@ Aztec warriors and runners reportedly consumed chia for sustained energy during 
 
 Modern uses include chia seed puddings, smoothie thickeners, egg replacements in baking (1 tbsp ground chia + 3 tbsp water = 1 egg), and omega-3 supplements.
 
-Sprouted chia microgreens are increasingly used as salad greens and garnishes, offering concentrated chlorophyll and micronutrient content.
+Sprouted chia microgreens are increasingly used as [[growing-lettuce-salad-greens]] and garnishes, offering concentrated chlorophyll and micronutrient content.
 
 ## Cultivation
 
 Chia is direct-seeded at 5–8 kg/ha in rows 40–60 cm apart, with germination occurring within 7–14 days under adequate moisture.
 
 The crop requires minimal fertilization due to its adaptation to nutrient-poor soils, though moderate nitrogen application (20–40 kg/ha) can improve yields.
-
-Flowering is triggered by short days (critical photoperiod ~12 hours), making commercial cultivation viable only between 23°N and 23°S latitude under natural conditions.
-
-Seed maturity occurs 120–150 days after planting, with harvest when approximately 90% of the florets have dried.
-
-Average yields range from 600–1200 kg/ha under rain-fed conditions, with irrigated commercial operations achieving 1500–2500 kg/ha.
-
-Pest pressure is generally low, though aphids and whiteflies can affect plants during [[cannabis-vegetative-growth-stage]]. No major diseases significantly impact commercial chia production.
-
-The crop fits well in rotation with legumes and cereals in tropical farming systems, contributing to biodiversity on smallholder farms.
-
-## Related Species
-
-- **Salvia columbariae** — Desert chia, native to the southwestern [[dmt-containing-plants-united-states-halpern]] and northern Mexico, smaller seeds.
-- **Salvia polystachya** — Wild chia of central Mexico, closely related and occasionally cultivated.
-- **Salvia officinalis** — Common sage, European culinary herb in the same genus.
-- **Salvia miltiorrhiza** — Danshen, Traditional Chinese Medicine species used for cardiovascular conditions.
-
-## See Also
-
-- [[salvia-sclarea]]
-
-- [[ocimum-basilicum]]
-- [[mentha-piperita]]
-- [[robinia-pseudoacacia]]
-- [[calliandra-calothyrsus]]
-- [[prosopis-juliflora]]

@@ -88,11 +88,3 @@ The guide documents species from several key regions: the Pacific
 Northwest (P. azurescens, P. cyanescens, P. pelliculosa, G.
 spectabilis), Western Europe including Germany's Black Forest (P.
 cyanescens, P. semilanceata, P. azurescens), [[psilocybe-southeast-asia-pacific]]
-particularly Thailand's Koh Samui (P. cubensis, P. samuiensis, P.
-subcubensis), Hawaii (Copelandia species), Mexico (P. hoogshagenii),
-and the southeastern [[dmt-containing-plants-united-states-halpern]] including Florida (P. cubensis).
-
-## See Also
-
-- [[mycorrhizal-edible-mushroom-species-overview]]
-- psilocybin-mushroom-image-guide-lookalike-species

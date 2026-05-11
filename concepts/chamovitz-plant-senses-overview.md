@@ -88,30 +88,3 @@ He concludes that while plants lack nervous systems, neurons, and consciousness 
 He draws a careful line between **sensory response** (which plants clearly and extensively demonstrate) and **conscious experience** (which cannot be attributed to plants on current evidence). Plants are not "aware" in the phenomenological sense, but they are exquisitely sensitive to their environments and respond with adaptive precision — a form of biological information processing that deserves respect and further study.
 
 Chamovitz suggests that the question itself may be poorly framed. Rather than asking whether plants are "like us," a more productive question might be: what are the full range of strategies that living organisms have evolved for extracting information from their environments?
-
-## Contribution to the Plant Neurobiology Debate
-
-Chamovitz's book entered the public conversation during the heated debate over **plant neurobiology** — a term that is itself controversial, given that plants lack neurons. Proponents like **Stefano Mancuso** and **Charles Brenner** argued for the existence of "plant intelligence," "plant learning," and even "plant consciousness," pointing to electrical signaling via action potentials, auxin transport networks analogous to neural pathways, and conserved molecular pathways shared with animals.
-
-Critics like **Lincoln Taiz** argued that these claims anthropomorphize plants and stretch the evidence well beyond what it supports, noting that electrical signaling in plants is far slower and less integrated than neural signaling in animals, and that analogies at the molecular level do not imply analogous function at the organismal level. The term "plant neurobiology" itself has been called misleading by many in the mainstream plant science community, since plants possess no neurons, synapses, or nervous systems of any kind.
-
-Chamovitz occupies a measured middle ground in this debate: he acknowledges the remarkable sensory sophistication of plants and the genuine evolutionary conservation of certain signaling molecules across kingdoms, while firmly rejecting sensationalized claims of consciousness, intelligence, or subjective experience. His work has been widely praised for making the science accessible without oversimplifying or exaggerating the findings.
-
-## Relevance to Agriculture and Horticulture
-
-Understanding plant sensory biology has direct practical applications for agriculture, horticulture, and controlled-environment food production. Chamovitz emphasizes throughout the book that the practical implications of basic research in plant perception are enormous:
-
-- **Photoperiodism manipulation** allows growers to control flowering time in greenhouse and field settings, enabling year-round production of ornamentals and food crops across latitudes where natural day lengths would otherwise prevent it
-- **Light quality management** — adjusting red-to-far-red ratios with LEDs — can optimize plant architecture, prevent leggy growth, enhance [[coleman-winter-greens-nutritional-quality-cold-sweetening]], and trigger specific developmental transitions without the use of chemical growth regulators
-- **Chemical priming** strategies could reduce pesticide dependence by harnessing plants' natural volatile-mediated defense communication networks to pre-activate crop immunity, potentially improving both yield and environmental sustainability
-- **Gravitropism knowledge** informs space agriculture research — where plants must grow without consistent gravitational cues — and the design of vertical farming systems where root orientation cannot rely on natural gravity cues alone
-- Understanding **thigmomorphogenesis** helps greenhouse managers avoid excessive mechanical handling that can stunt plant growth and reduce yields, while also informing breeding programs for crops suited to mechanically challenging environments like windy open fields
-
-## See Also
-
-Related concept pages covering specific topics from the book in greater depth:
-
-- [[chamovitz-julius-von-sachs-blue-light-phototropism]]
-- [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
-- [[plant-olfaction-and-chemical-sensing]]
-- [[plant-memory-and-learning]]

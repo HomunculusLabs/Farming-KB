@@ -18,7 +18,7 @@ immunocompromised individuals, particularly those with HIV/AIDS.
 C. neoformans is unusual among major [[bloomfield-fungal-pathogens-and-parasites]] in being a
 basidiomycete rather than an ascomycete, providing an important
 evolutionary contrast for understanding the origins and mechanisms of
-fungal pathogenicity across the fungal kingdom.
+fungal pathogenicity across the [[fungal-kingdom-diversity]].
 
 ## Taxonomy and Classification
 
@@ -34,7 +34,7 @@ C. neoformans is classified within the Hymenomycetes of the
 Basidiomycota, alongside Coprinus cinereus and Phanerochaete
 chrysosporium. Unlike the Euascomycetes, C. neoformans does not
 possess hex-1 homologues or [[fungal-woronin-bodies-and-septal-pore-organization]], reflecting the independent
-evolutionary origins of these organelles.
+[[tryptamine]] of these organelles.
 
 The species has been divided into two varieties: C. neoformans var.
 neoformans (serotype D) and C. neoformans var. grubii (serotype A),
@@ -59,9 +59,9 @@ specifically upregulated during host infection.
 
 The cell wall of C. neoformans contains alpha(1,3)-glucan, a
 polysaccharide also found in major ascomycete pathogens. The
-alpha(1,3)-glucan synthase (Ags) protein shows high amino acid
+alpha(1,3)-glucan synthase (Ags) protein shows high [[cho-fish-amino-acid-preparation]]
 sequence similarity in its catalytic domain to homologs from
-[[gadd-aspergillus-fumigatus-glucan-virulence]], Histoplasma capsulatum, and Schizosaccharomyces
+[[gadd-aspergillus-fumigatus-glucan-virulence]], [[histoplasma-capsulatum]], and Schizosaccharomyces
 pombe.
 
 The presence of alpha(1,3)-glucan across both ascomycete and
@@ -88,37 +88,3 @@ with the host immune system.
 
 C. neoformans is acquired from environmental sources, particularly
 soil contaminated with pigeon droppings. Infection begins with
-inhalation of desiccated yeast cells or basidiospores, leading to
-pulmonary infection that may disseminate to the central nervous system
-causing meningoencephalitis with mortality exceeding 20%.
-
-The organism has been used as a model for studying yeast pathogenesis,
-including a Caenorhabditis elegans infection model that has identified
-virulence factors conserved across host species. This invertebrate
-model provides a genetically tractable system for studying host-
-pathogen interactions.
-
-## Morphological Forms
-
-C. neoformans exists in several morphological states: the predominant
-yeast form in mammalian hosts and culture, hyphal form produced during
-mating between cells of opposite mating types, basidiospores serving
-as potential infectious propagules, and titan cells produced in host
-lungs with enhanced resistance.
-
-## Environmental Biology
-
-C. neoformans is an environmental fungus with [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] in
-soil associated with bird excreta, tree hollows, and bark of
-Eucalyptus species. It can survive desiccation and UV exposure.
-Melanin production provides protection against environmental stresses
-including UV radiation and oxidative damage, contributing to
-environmental persistence.
-
-## See Also
-Related: [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], [[bloomfield-yeast-saccharomyces-fungal-pathogens]]
-
-- [[cryptococcus-neoformans-pathogenesis]]
-
-- [[candida-albicans]]
-- [[ustilago-maydis]]

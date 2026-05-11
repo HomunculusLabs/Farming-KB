@@ -11,8 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Brewster JL (2008). Onions and Other Vegetable Alliums. 2nd ed. CABI Publishing.
-  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium Crop Science. CABI.
-  - Khar A, Lawande KE, Jadhav VB (2008). "Genetic improvement of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
+  - Fritsch RM, Friesen N (2002). "Evolution, domestication and taxonomy." In: Rabinowitch HD, Currah L (eds.) Allium [[brassinosteroid-anti-stress-effects-crop-science]]. CABI.
+  - Khar A, Lawande KE, Jadhav VB (2008). "[[genetic-improvement-agaricus-bisporus-molecular-approaches]] of onion." In: Ali M et al. (eds.) Vegetable Science. Springer.
   - Block E (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Havey MJ (1995). "Phylogenetic relationships among cultivated onions." American Journal of Botany.
 ---
@@ -58,7 +58,7 @@ Secondary diversity centers exist in the Mediterranean region and in India, wher
 
 Cultivation has spread globally, with major production concentrated in China, India, the [[dmt-containing-plants-united-states-halpern]], Turkey, Pakistan, and Russia.
 
-Onions are adapted to a wide range of temperate and subtropical climates, though bulb formation is strongly photoperiod-dependent.
+Onions are adapted to a wide range of temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]], though bulb formation is strongly photoperiod-dependent.
 
 Short-day cultivars require 10–12 hours of daylight and are grown at lower latitudes, while long-day types require 14–16 hours and dominate in northern temperate zones.
 
@@ -66,7 +66,7 @@ Short-day cultivars require 10–12 hours of daylight and are grown at lower lat
 
 Onions are propagated either from seed or from sets (small, dormant bulbs produced the previous season).
 
-[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] requires careful soil moisture management, as onion seeds are small and have low vigor during emergence.
+[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] requires careful [[soil-moisture-management-and-root-growth]], as onion seeds are small and have low vigor during emergence.
 
 Transplant production in nurseries or plug trays is common for large-scale commercial operations, allowing better establishment and earlier maturity.
 
@@ -87,34 +87,3 @@ Quercetin, a flavonol concentrated in the outer skin layers, is one of the most 
 The characteristic pungency and lachrymatory (tear-inducing) properties are produced by sulfur-containing compounds released when cells are damaged.
 
 When onion tissue is cut, the enzyme alliinase converts isoalliin (S-1-propenyl-L-cysteine sulfoxide) to 1-propenyl sulfenic acid, which rearranges to syn-propanethial-S-oxide.
-
-Cooking reduces pungency through thermal degradation of these volatile sulfur compounds, while caramelization develops sweetness through Maillard reactions.
-
-## Chemistry and Pharmacology
-
-Allium cepa contains organosulfur compounds including thiosulfinates, cepaenes, and zwiebelanes that exhibit antimicrobial and antiplatelet activity.
-
-Onion extracts have demonstrated hypoglycemic effects in animal models, attributed to sulfur compounds and flavonoid constituents.
-
-Quercetin and its glycosides from onion have shown anti-inflammatory activity through inhibition of lipoxygenase and cyclooxygenase pathways.
-
-The antioxidant capacity of onion peel extracts is among the highest of common food byproducts, supporting interest in industrial use as a natural preservative.
-
-## Pests and Diseases
-
-The onion thrips (*Thrips tabaci*) is the most damaging [[ingham-foliar-insect-pest-deterrence-mechanisms]] of onion worldwide, causing both direct feeding injury and vectoring iris yellow spot virus.
-
-Onion maggot (*Delia antiqua*) larvae feed on the bulb and root system, often causing complete plant loss in heavily infested fields.
-
-[[cervantes-downy-mildew-fungal-blight]] (*Peronospora destructor*) and purple blotch (*Alternaria porri*) are the two most important foliar diseases in humid production regions.
-
-Basal rot, caused by *Fusarium oxysporum* f. sp. *cepae*, is a soil-bone pathogen that develops during storage and can destroy entire crops post-harvest.
-
-Botrytis leaf blight (*Botrytis squamosa*) is problematic in regions with frequent leaf wetness, requiring predictive spray programs based on disease forecasting models.
-
-## See Also
-
-- [[allium-schoenoprasum]]
-- [[coriandrum-sativum]]
-- [[beta-vulgaris]]
-- [[zingiber-officinale]]

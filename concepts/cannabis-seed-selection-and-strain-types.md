@@ -88,9 +88,3 @@ When evaluating [[cannabis-seed-banks-and-genetics]]:
 Ruderalis is a third species that is considered substandard by most growers. It flowers according to age rather than photoperiod and produces low THC levels. However, Ruderalis has been used to create autoflowering strains — see [[cannabis-seed-germination-methods]] — germinating your selected seeds
 - [[cannabis-sativa-vs-indica-guide]] — detailed species comparison
 - [[cannabis-breeding-basics]] — producing your own seeds
-- [[cannabis-strain-guide-reference]]
-
-## See Also
-
-- [[fungicide-treated-seed-detection-and-avoidance]]
-- [[oyster-mushroom-species-and-strain-selection]]

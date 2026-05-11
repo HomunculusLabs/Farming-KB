@@ -11,7 +11,7 @@ type: concept
 
 # Drought Gardening and Water Conservation
 
-Steve Solomon draws heavily on John Widstoe's 1911 book "[[comparison-dry-farming-vs-xeriscaping]]" to
+[[steve-solomon]] draws heavily on John Widstoe's 1911 book "[[comparison-dry-farming-vs-xeriscaping]]" to
 redefine drought for vegetable gardeners. Widstoe argued that drought is
 not simply a lack of rainfall but rather a condition under which crops
 fail to mature because of an insufficient supply of water. Often, the
@@ -20,7 +20,7 @@ real cause is the gardener's own practices, not the weather.
 ## Redefining Drought
 
 Before the 1930s, few farms had electricity, and over 90 percent of all
-vegetable gardens were grown without running water. After a few weeks
+[[maintaining-organic-matter-in-vegetable-gardens]] were grown without running water. After a few weeks
 without rain, many gardeners would begin talking about drought and
 suffering gardens. But other gardeners in the same vicinity would not be
 complaining much. This observation led Widstoe to identify four causes
@@ -72,7 +72,7 @@ water, because it dramatically increases water-use efficiency.
 
 Fertigation is the practice of delivering dilute [[jadam-liquid-fertilizer-nutritional-perspective]]
 directly to individual plants through a bucket with a small drain hole.
-In Solomon's dry-farming trials in Oregon, a fertigated winter squash
+In Solomon's dry-farming trials in Oregon, a fertigated [[winter-squash-guide]]
 vine yielded 30 pounds (13 kilograms) of squash using only 20 gallons
 of water over the entire growing season. That is a remarkably efficient
 exchange.
@@ -88,53 +88,3 @@ for clay soils with 20 percent or more clay content.
 ## Surface Cultivation as Water Conservation
 
 After intense summer thunderstorms, if there is a crust or hard layer
-on the surface, rain may run off rather than penetrating. A day or so
-after such a rain, going out with a hoe to loosen up the surface of
-every accessible part of the garden is essential. This practice helps
-the soil fully accept the next chance shower and also helps keep the
-moisture already in the earth from evaporating.
-
-It is vital that the surface inch (2.5 centimeters) or so of soil
-contains a fair amount of decomposed manure or compost. This prevents
-crust formation and helps form large stable crumbs that resist wind
-erosion while maintaining surface openness for water infiltration.
-
-## Choosing Drought-Resistant Crops and Varieties
-
-Some vegetable species are inherently more [[permplant-carob-drought-tolerant-food-tree]] than
-others. Climbing bean varieties, for example, have much larger root
-systems than bush varieties and consequently are far less drought
-tolerant in the reverse sense -- actually, climbers with their deeper
-roots access more subsoil moisture and are more resilient. [[permaculture-plants-root-crops-and-tubers]]
-like carrots and parsnips can penetrate deep subsoil in search of
-moisture and are capable of surviving drought and coming out the other
-side with a usable harvest.
-
-Corn is another crop where deep root systems matter. Having a bit more
-soil volume for corn roots to access will protect against drought and
-also make the main ears get a bit bigger.
-
-## Capillarity: The Hidden Water Reserve
-
-Understanding capillarity is crucial for drought gardening. In
-extensively spaced gardens, plants develop deep root systems that
-access water stored in the subsoil. Subsoil moisture rises through
-capillary action to the root zone. The wider the spacing, the more
-subsoil each plant can access, making the garden far more resilient
-during dry periods.
-
-Solomon describes deep subsoil moisture as being like money in a bank
-account, with capillarity providing substantial interest. Plants with
-extensive spacing continue to discover large amounts of soil water held
-in storage as their ever-expanding root systems explore new territory.
-
-## Related
-
-- [[solomon-winter-gardening-and-season-planning]]
-- [[solomon-fertigation-and-transplant-establishment]]
-- [[solomon-shade-and-sunlight-requirements]]
-
-- [[solomon-watering-and-dry-farming]]
-- [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-weed-management-without-chemicals]]
-- [[mycorrhizal-drought-and-temperature-tolerance]]

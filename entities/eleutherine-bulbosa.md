@@ -22,7 +22,7 @@ sources:
 ## Overview
 
 **Eleutherine bulbosa** (Mill.) Urb. is a perennial herbaceous plant in the
-family Iridaceae, native to the Amazon basin and tropical South America.
+family Iridaceae, native to the Amazon basin and tropical [[guzman-psilocybin-mushrooms-south-america]].
 Known locally as "marupazinho" (Brazil), "ajosillo" (Peru), and "lirio
 amarillo" (Colombia), it has a long history of use in indigenous and
 traditional medicine across the Amazon region.
@@ -61,7 +61,7 @@ Ecuador, Bolivia, and the Guianas. Also found in [[guzman-allen-gartz-neurotropi
 the Caribbean (Trinidad and Tobago). The species has been introduced
 to tropical Africa and [[psilocybe-southeast-asia-pacific]].
 
-It grows in humid lowland tropical forests, along riverbanks, in
+It grows in humid lowland [[fungal-biodiversity-tropical-forests]], along riverbanks, in
 forest clearings, and in disturbed sites. Elevational range: 0–800 m.
 Prefers well-drained sandy loam soils, partial to full shade, and
 annual rainfall exceeding 1,500 mm.
@@ -87,60 +87,3 @@ The total naphthoquinone content of dried corms ranges from
 color of fresh corms is due primarily to eleutherin concentration.
 
 ## Pharmacology and Traditional Uses
-
-In Amazonian traditional medicine, the corms are prepared as
-decoctions, tinctures, or poultices for a wide range of conditions:
-
-- **Reproductive health**: Used to treat menstrual disorders,
-  vaginal infections, and postpartum hemorrhage. The most common
-  traditional application across Amazonian cultures.
-- **Wound healing**: Fresh corm paste applied topically to cuts,
-  burns, and skin infections. Antimicrobial activity supports
-  rapid healing.
-- **Respiratory conditions**: Decoction taken for cough, bronchitis,
-  and asthma in Peruvian and Colombian folk medicine.
-- **Digestive disorders**: Used as a remedy for diarrhea, dysentery,
-  and stomach pain in Brazilian caboclo communities.
-- **Antimalarial**: Preliminary in vitro studies show activity
-  against *Plasmodium falciparum* at low micromolar concentrations.
-
-Modern pharmacological studies confirm broad-spectrum antimicrobial
-activity against *S. aureus*, *E. coli*, *C. albicans*, and
-*Trichophyton rubrum*. Cytotoxic effects have been demonstrated
-against breast (MCF-7), lung (A549), and colon (HT-29) cancer cell
-lines in vitro, though clinical data is lacking.
-
-## Cultivation
-
-E. bulbosa is propagated from corm offsets or seeds. Corm segments
-with at least one bud are planted 2–5 cm deep in rich, well-drained
-soil. Emergence occurs in 2–4 weeks; corms reach harvestable size
-in 8–12 months.
-
-Plants prefer partial shade (30–60% canopy cover) and regular moisture.
-Corm yield per plant is modest (50–150 g fresh weight), but the species
-is easily cultivated at scale due to its low input requirements.
-
-## Ecological Role
-
-Eleutherine bulbosa occupies forest gap and edge habitats in Amazonian
-ecosystems. Its flowers provide nectar and pollen for [[query-how-to-attract-native-bees-and-beneficial-insects]] and
-butterflies. The corms are consumed by some mammalian herbivores,
-and the plant contributes to the understory diversity of secondary
-[[mollison-designers-food-forest-succession-design]].
-
-## Related Species
-
-- *Eleutherine americana* (Aubl.) Merr. ex Heynh. — Closely related
-  species with overlapping distribution and similar chemistry; often
-  confused with *E. bulbosa* in the literature.
-- *Eleutherine latifolia* (Standl. & L.O. Williams) Ravenna — Larger-
-  flowered species from Central America.
-
-## See Also
-
-- [[curcumin]]
-- [[berberis-vulgaris]]
-- [[psychotria-viridis]]
-- [[tabebuia-avellanedae]]
-- [[hydrastis-canadensis]]

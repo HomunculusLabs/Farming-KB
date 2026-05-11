@@ -13,7 +13,7 @@ Domestic animals in permaculture are valued not for single-product yields but fo
 
 ## The Role of Animals in Permaculture
 
-Animals serve as the traditional recycling strategy for sustainable systems. The old farmer's saying "we will sell nothing from our farm that will not walk or fly off" reflects the principle that animals convert otherwise-unusable resources (thorny shrubs, insect pests, fallen fruit, food scraps) into edible products while returning nutrients to the soil. (see [[homestead-permaculture-design]]).
+Animals serve as the traditional recycling strategy for sustainable systems. The old farmer's saying "we will sell nothing from our farm that will not walk or fly off" reflects the principle that animals convert otherwise-unusable resources (thorny shrubs, insect pests, fallen fruit, food scraps) into edible products while returning nutrients to the soil.
 
 Animals occupy different trophic niches:
 - **Herons** eat poisonous toadfish
@@ -26,8 +26,8 @@ Animals occupy different trophic niches:
 
 ### Chickens
 Chickens are the most integrated domestic animal in permaculture systems:
-- **In orchards**: At 120-240/ha, they scavenge windfall fruit, control codlin moth and fruit fly, and provide manurial turnover. They have a well-tested effect on orchard pests, reducing incidence to insignificant proportions over a few years. (see [[mollison-designers-coconut-palm-dominant-polyculture]]).
-- **Chicken tractor systems**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All chicken tractors show remarkable lack of weeds and high production.
+- **In orchards**: At 120-240/ha, they scavenge windfall fruit, control codlin moth and fruit fly, and provide manurial turnover. They have a well-tested effect on orchard pests, reducing incidence to insignificant proportions over a few years.
+- **[[chicken-tractor-systems]]**: Confined flocks on 5-6 fenced plots, rotated over 18 months. Chickens pioneer weeds; vegetables and papaya succeed them. All [[mollison-designers-chicken-tractors-egg-production]] show remarkable lack of weeds and high production.
 - **Forage plants**: Oxalis, cleavers, dandelion, onion weed, nettle, nut grass, and Solanum family species (huckleberry, black nightshade, pepino, kangaroo apple, tomato) are excellent chicken fodders.
 - **Breeding**: A few small top-netted rearing pens allow broody hens to replace culled chickens, making the flock self-replacing.
 
@@ -50,7 +50,7 @@ When orchard trees are 3-7 years old, foraging pigs can be introduced at fruit m
 
 ## Goats
 
-Goats browse thorny and bitter shrubs that other livestock cannot use. They are effective in blackberry control -- 12 goats on rotation over 2-4 years permanently eliminate blackberry regrowth. In permaculture design, goats are particularly valuable for:
+Goats browse thorny and bitter shrubs that other livestock cannot use. They are effective in [[mollison-designers-rampant-blackberry-control]] -- 12 goats on rotation over 2-4 years permanently eliminate blackberry regrowth. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], goats are particularly valuable for:
 - Controlling invasive woody weeds
 - Converting browse on marginal land to milk and meat
 - Providing manure for garden systems
@@ -68,14 +68,14 @@ Bees are among the most easily protected from predators by elevation on pole str
 
 1. **Multiple functions**: Every animal should serve 3+ functions (food, pest control, nutrient cycling)
 2. **Sequential integration**: Animals follow plant succession (pigs prepare ground, chickens clean up, then trees are planted)
-3. **Appropriate scale**: Stock numbers tuned to seasonal carrying capacity
+3. **Appropriate scale**: Stock numbers tuned to seasonal [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]
 4. **Breed selection**: Breeds suited to local conditions and forage availability
 5. **Shelter and water**: Always provided within the animal's range
 
 ## Related Concepts
 
 - [[permaculture-livestock-forage-systems]] -- diverse forage sources
-- [[permaculture-grazing-and-pasture]] -- pasture management
+- [[permaculture-grazing-and-pasture]] -- [[comparison-silvopasture-systems-vs-pasture-management]]
 - [[animal-manure-guide]] -- nutrient cycling from animals
 - [[permaculture-tree-crop-systems]] -- animals integrated with tree crops
 - permaculture domestic animals -- this page

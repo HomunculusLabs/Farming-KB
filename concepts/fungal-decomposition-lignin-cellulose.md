@@ -88,29 +88,3 @@ a forest affects soil [[holmgren-soil-humus-carbon-storage-rebuilding]]: brown r
 more recalcitrant lignin residues that accumulate as
 soil organic matter, while white rot more completely
 mineralizes woody carbon to CO2.
-
-Fungal decomposition rates depend on wood chemistry
-(hardwood vs. softwood, heartwood extractives), moisture
-content, temperature, oxygen availability, and fungal
-[[core-endorhiza-bacterial-community-composition-cannabis]]. [[dighton-fungi-climate-change-feedback]] may alter these
-dynamics by shifting temperature and precipitation
-patterns, potentially accelerating decomposition and
-reducing forest carbon storage.
-
-## Biotechnological Applications
-
-White rot fungi are used in biopulping (reducing energy
-and chemical inputs in paper production), bioremediation
-of organopollutants (PCBs, PAHs, dyes), and biofuel
-production (enzymatic saccharification of lignocellulosic
-biomass). Brown rot Fenton chemistry inspires biomimetic
-pretreatment strategies for biofuel feedstocks. Industrial
-[[ligninolytic-enzyme-production-bioremediation]] for cellulose processing relies heavily
-on Trichoderma reesei, though this fungus is not a wood
-rotter—it evolved from a soft rot ancestor and specializes
-
-## See Also
-
-- [[trichaptum-biforme]]
-
-- [[tyromyces-chioneus]]

@@ -1,5 +1,5 @@
 ---
-title: "comparison-beneficial-insects-guide-vs-integrated-pest-management Gallery for the Ecological Garden"
+title: Gaias Garden Beneficial Insects Gallery
 tags:
   - insects
   - beneficial-insects
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - a-guide-to-home-scale-permaculture-gaias-garden-a-guide-to-home-scale-permacultu.md
 created: 2026-05-07
 type: concept
@@ -33,7 +34,7 @@ predators and parasitoids overwintered. Pesticide use and the removal of these
 habitat features devastated beneficial populations. Without natural enemies, pest
 species exploded, requiring ever more pesticides — a vicious cycle that
 conventional agriculture has yet to escape. The ecological garden reverses this
-pattern by providing habitat, food, and shelter for beneficial insects.
+pattern by providing habitat, food, and shelter [[query-how-do-i-design-habitat-for-beneficial-insects]].
 
 ## Predatory Insects
 
@@ -48,13 +49,13 @@ which look like small black-and-orange alligators, are actually more voracious
 than the adults. Lady beetles overwinter in leaf litter and under bark, making
 mulched gardens ideal habitat.
 
-**Ground beetles** are large, fast-running predators that hunt at night. They
+**[[ground-beetles-carabidae-and-biological-pest-control]]** are large, fast-running predators that hunt at night. They
 consume slugs, cutworms, [[cervantes-nematodes-root-maggots-soil-pests]], and other soil-dwelling pests. They
 require undisturbed soil and ground cover; bare, tilled soil provides no
 refuge.
 
 **Rove beetles** are slender, active predators found under mulch and leaf
-litter. They feed on soil-dwelling pests including root maggots and fungus gnat
+litter. They feed on soil-dwelling pests including [[cervantes-root-maggots-cutworms]] and fungus gnat
 larvae.
 
 **Lacewings** are delicate, green-winged insects whose larvae are called
@@ -74,7 +75,7 @@ consume the host from within, killing it. Though gruesome, parasitoids are
 extraordinarily effective and specific in their prey.
 
 **Braconid wasps** inject eggs into caterpillars including cabbageworms,
-tomato hornworms, and codling moth larvae. The wasp larvae feed internally,
+tomato hornworms, and [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]] larvae. The wasp larvae feed internally,
 and when mature, spin white cocoons on the host's exterior. Gardeners who find
 tomato hornworms covered in white cocoons should leave them alone — the wasps
 have already done their work.
@@ -83,57 +84,7 @@ have already done their work.
 of various beetles and flies. They are among the most important biological
 control agents in orchards.
 
-**Ichneumon wasps** are larger parasitic wasps that attack caterpillars and
+**Ichneumon wasps** are larger [[parasitic-wasps-biological-pest-control]] that attack caterpillars and
 wood-boring beetle larvae.
 
 A critical point: adult parasitic wasps feed on nectar and pollen, not other
-insects. Without flowering plants, adult wasps starve. [[yarrow]], dill, fennel, and coriander provide essential food for adult
-parasitoids.
-
-## Flies as Predators and Parasitoids
-
-**Syrphid flies** (hoverflies) are among the most valuable insects in the
-garden. Adults resemble small bees and feed on flower nectar. Their larvae are
-maggots that consume aphids — a single syrphid larva eats hundreds of aphids
-before pupating. Buckwheat, alyssum, and Queen Anne's lace attract syrphid
-flies.
-
-**Robber flies** are large, agile predatory flies that capture other insects in
-flight. **Tachinid flies** are parasitic; they lay eggs on caterpillars, beetles,
-and true bugs. The larvae burrow into the host and consume it from within.
-
-## True Bugs as Predators
-
-**Minute pirate bugs** are tiny predators that consume thrips, [[cervantes-spider-mites-identification-control]],
-aphids, and insect eggs. They are among the first predators to arrive in spring.
-
-**Big-eyed bugs** resemble small, stocky plant bugs with conspicuously large
-eyes. They feed on aphids, whiteflies, mites, and the eggs of many pest
-species. Both minute pirate bugs and big-eyed bugs are attracted to clover,
-buckwheat, and daisies.
-
-## Pollinators
-
-Honeybee populations have declined dramatically due to habitat loss, disease,
-and pesticide exposure. Native bees — bumblebees, mason bees, leafcutter bees,
-and hundreds of solitary species — often outperform honeybees as pollinators,
-especially in cool weather and for native plants. Flowering plants provide
-nectar and pollen for adult bees. A succession of blooms from early spring
-through late fall ensures continuous forage. Many
-[[aquatic-polyculture-design-mollison]]. Key
-strategies include:
-
-- **Plant insectary flowers** that bloom in succession: yarrow, dill, fennel,
-  coriander, buckwheat, clover, Queen Anne's lace, alyssum, and umbellifers.
-- **Maintain mulch and ground cover** for ground beetles, rove beetles, and
-  spiders. See mulch plants.
-- **Provide undisturbed habitat** such as brush piles, stone walls, and leaf
-  litter for overwintering.
-- **Avoid broad-spectrum pesticides** that kill beneficials along with pests.
-- **Include a water source** such as a shallow dish with pebbles for drinking.
-## See Also
-- [[gaias-garden-beneficial-insects-pest-management]]
-- [[gaias-garden-beneficial-birds-wildlife]]
-- [[comparison-trap-cropping-vs-beneficial-insects]]
-- [[gaias-garden-soil-food-web-living-soil]]
-- [[beneficial-insects-guide]]

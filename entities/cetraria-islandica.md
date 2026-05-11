@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Ingólfsdóttir, K. (2002). "Usnic Acid." Phytochemistry, 61(7), 729–736.
   - Freysdottir, J. et al. (2008). "Immunomodulatory Effects of Lichen-Derived Polysaccharides." Phytotherapy Research, 22(9), 1175–1180.
   - Odinokova, L.N. et al. (2012). "Biologically Active Substances from the Lichen Cetraria islandica." Chemistry of Natural Compounds, 48(3), 465–467.
@@ -44,7 +44,7 @@ and antimicrobial .
 
 ## Taxonomy 
 
-**Classification:** Fungi > Ascomycota > Lecanoromycetes > Lecanorales >
+**Classification:** Fungi > [[ascomycota]] > Lecanoromycetes > Lecanorales >
 Cetrariaceae > Cetraria
 
 **Authority:** (L.) Ach. (1803), originally described as Lichen islandicus
@@ -87,60 +87,3 @@ C. islandica is relatively tolerant of  compared to many
 lichen species, though it declines in heavily industrialized areas.
 
 ## Phytochemistry
-
-### Polysaccharides
-
-The primary bioactive constituents of C. islandica are water-soluble
-polysaccharides, constituting 40–50% of dry weight.
-
-**Lichenin** (also called Iceland moss starch) is a β-D-glucan with
-(1→3) and (1→4) linkages, comprising approximately 60–70% of total
-polysaccharide content.
-
-**Isolichenin** is an α-D-glucan with (1→3) and (1→4) linkages,
-comprising the remaining 30–40%.
-
-Both polysaccharides exhibit immunomodulatory, anti-tumor, and
-anti-inflammatory activities in vitro and in animal models.
-
-### Lichen Acids and Secondary Metabolites
-
-**Protolichesterinic acid** is the dominant lichen acid, a fatty acid
-derivative with demonstrated antiproliferative activity against cancer
-cell lines.
-
-**Fumarprotocetraric acid** and **protocetraric acid** contribute
-bitterness and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-
-**Usnic acid** is present in smaller quantities, providing antibacterial
-and antifungal activity, particularly against Gram-positive bacteria.
-
-Additional constituents include atranorin, perlatolic acid, and
-cetraric acid.
-
-## Pharmacology and Traditional Uses
-
-In traditional European herbalism, Iceland moss was used as a demulcent
-for dry coughs, bronchitis, and tuberculosis.
-
-The bitter principles stimulated appetite and digestive secretions,
-making it useful for convalescence and malnutrition.
-
-Modern pharmacological studies have confirmed immunomodulatory effects:
-lichenin stimulates macrophage activity and enhances natural killer cell
-cytotoxicity in vitro.
-
-Protolichesterinic acid has shown antiproliferative effects against
-breast and [[cannabis-and-colon-cancer-research]] cell lines, with IC50 values in the low
-micromolar range.
-
-The polysaccharides demonstrate gastroprotective effects in animal
-models, supporting traditional use for gastric ulcers and dyspepsia.
-
-Anti-inflammatory activity has been demonstrated through inhibition of
-NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α,
-
-## See Also
-- [[cetraria-pinastri]]
-- [[cetraria-aculeata]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]

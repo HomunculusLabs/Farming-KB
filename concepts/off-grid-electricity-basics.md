@@ -1,19 +1,19 @@
 ---
-title: Off-Grid Electricity Basics
+title: [[cotter-off-grid-mushroom-cultivation]] [[cervantes-grow-room-electricity-basics]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, engineering, equipment, sustainability]
+tags: [[homesteading]], engineering, equipment, sustainability]
 sources: []
 ---
 
 # Off-Grid Electricity Basics
 
-Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, and the ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters. (see [[wind-power-basics]]).
+Off-grid electricity systems generate, store, and distribute power independently from the utility grid. For the homesteader, an off-grid system provides energy independence, resilience during grid outages, and the ability to live on remote land. The core components are solar panels, batteries, charge controllers, and inverters.
 
 ## Daily Watt-Hour Calculation
 
-The first step in system design is calculating daily energy consumption. Every appliance has a power draw (watts) and a usage duration (hours). The product is watt-hours (Wh). (see [[off-grid-energy-and-homestead-infrastructure]]).
+The first step in system design is calculating daily energy consumption. Every appliance has a power draw (watts) and a usage duration (hours). The product is watt-hours (Wh).
 
 ### Common Appliance Wattages
 
@@ -22,7 +22,7 @@ The first step in system design is calculating daily energy consumption. Every a
 - Refrigerator (ENERGY STAR): 150-400 watts (runs ~30% of the time)
 - Well pump (1/2 HP): 800-1200 watts (runs 1-2 hours/day)
 - Chest freezer: 100-200 watts (runs ~30% of the time)
-- Washing machine: 400-800 watts
+- [[cervantes-washing-machine-hash]]: 400-800 watts
 - Microwave: 600-1200 watts
 - Phone charger: 5-10 watts
 - Internet router: 10-20 watts
@@ -61,7 +61,7 @@ This means approximately six 330W panels or eight 250W panels.
 
 ### Panel Types
 
-- Monocrystalline: Highest efficiency (18-22%), best performance per square foot, most expensive
+- Monocrystalline: Highest efficiency (18-22%), best performance per [[comparison-biointensive-vs-square-foot-gardening]], most expensive
 - Polycrystalline: Moderate efficiency (15-18%), good value
 - Thin-film: Lowest efficiency, flexible, best for curved surfaces or mobile applications
 
@@ -74,7 +74,7 @@ This means approximately six 330W panels or eight 250W panels.
 
 ## Batteries
 
-Batteries store solar energy for use when the sun is not shining. Battery capacity is measured in amp-hours (Ah) at a specific voltage.
+Batteries store [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] for use when the sun is not shining. Battery capacity is measured in amp-hours (Ah) at a specific voltage.
 
 ### Battery Sizing
 
@@ -147,4 +147,3 @@ A basic 2-4 kW off-grid system:
 Lead-acid systems cost less upfront ($3000-6000) but require battery replacement every 3-7 years.
 
 ## Conservation First
-

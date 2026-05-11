@@ -88,60 +88,6 @@ These conditions yield Snell's law and the Fresnel equations at dielectric inter
 
 In source-free vacuum (ρ = 0, **J** = 0), taking the curl of Faraday's law and
 substituting the Ampère–Maxwell law produces the wave equation: ∇²**E** − μ₀ε₀
-∂²**E**/∂t² = 0, with an identical equation for **B**. The propagation speed is
-c = 1/√(μ₀ε₀) ≈ 2.998 × 10⁸ m/s — precisely the measured speed of light. EM waves
-are transverse: **E** ⊥ **B** ⊥ **k**, with |**B**| = |**E**|/c. They carry energy
-via the Poynting vector **S** = **E**×**H** (W/m²) and momentum density **S**/c².
 
-## Potentials and Gauge Freedom
-
-Because ∇·**B** = 0, the magnetic field can be written as **B** = ∇×**A** for a
-vector potential **A**. Substituting into Faraday's law yields **E** = −∇φ − ∂**A**/∂t,
-where φ is the scalar electric potential. The gauge transformation **A** → **A** + ∇Λ,
-φ → φ − ∂Λ/∂t leaves all observable fields invariant. The Lorenz gauge (∇·**A** +
-με ∂φ/∂t = 0) produces wave equations for both potentials and is relativistically
-covariant. The Coulomb gauge (∇·**A** = 0) is preferred in magnetostatics. Retarded
-potentials describe radiation: fields at (**r**, t) depend on sources at (**r'**,
-t − |**r**−**r'**|/c).
-
-## Relativistic Formulation
-
-Maxwell's equations are naturally Lorentz covariant — they were the clue that led
-Einstein to special relativity in 1905. The antisymmetric electromagnetic field tensor
-F^μν combines all six components of **E** and **B** into a single geometric object.
-The four-potential A^μ = (φ/c, **A**) gives F^μν = ∂^μA^ν − ∂^νA^μ. The two
-covariant equations are ∂_μ F^μν = μ₀J^ν (inhomogeneous) and ∂_μ F̃^μν = 0
-(homogeneous, using the dual tensor). Under Lorentz boosts, parallel field components
-remain unchanged while perpendicular components mix: **E**⊥' = γ(**E**⊥ + **v**×**B**⊥)
-and **B**⊥' = γ(**B**⊥ − **v**×**E**⊥/c²), revealing **E** and **B** are frame-
-dependent aspects of a single electromagnetic field.
-
-## Applications
-
-Maxwell's equations govern radio and wireless communications (antenna radiation,
-waveguide modes, transmission line theory), optics (Snell's law, Fresnel equations,
-birefringence, diffraction), microwave engineering (cavity resonators, scattering
-theory), and antenna theory (radiation patterns, directivity, gain, impedance).
-Electromagnetic compatibility and interference analysis depend entirely on solving
-Maxwell's equations with appropriate boundary conditions.
-
-## Numerical Methods
-
-Analytical solutions exist only for simple geometries. Modern engineering relies on
-computational electromagnetics. **FDTD** (Finite-Difference Time-Domain, Yee 1966)
-discretizes Maxwell's curl equations on a staggered grid with leapfrog integration,
-providing broadband results in one simulation. **FEM** uses Nédélec edge elements on
-unstructured meshes for frequency-domain problems (COMSOL, ANSYS HFSS). **MoM** solves
-surface integral equations, ideal for open-boundary scattering and radiation.
-Additional methods include FIT (CST Studio), TLM, and Discontinuous Galerkin.
-
-## Unit Systems
-
-In **SI units** (engineering standard), ε₀ and μ₀ appear explicitly with **E** in V/m
-and **B** in Tesla. In **Gaussian CGS** (theoretical physics), ε₀ = μ₀ = 1, **E**
-and **B** share dimensions, and c appears explicitly in Faraday's and Ampère's laws.
-
-See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
-
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+## See Also
+- [[plants-and-electromagnetism]]

@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
   - Kliejunas, J.T. et al. (2007). "Phytophthora ramorum: a pathogen of concern in growing-gourmet-north-american-reishi-species forests." USDA Forest Service.
-  - Hansen, E.M. et al. (2000). "Port-Orford-cedar ingham-root-disease-treatment in North America." Plant Disease, 84, 266–272.
+  - Hansen, E.M. et al. (2000). "Port-Orford-cedar ingham-root-disease-treatment in [[guzman-psilocybin-mushrooms-north-america]]." Plant Disease, 84, 266–272.
   - Elwes, H.J. & Henry, A. (1906). "The Trees of Great Britain and Ireland." Vol. 4.
 ---
 
@@ -25,7 +25,7 @@ The species produces exceptionally durable, aromatic timber that has been commer
 
 ## Taxonomy and Morphology
 
-Chamaecyparis lawsoniana belongs to the genus Chamaecyparis, which includes five other species distributed in East Asia and North America.
+Chamaecyparis lawsoniana belongs to the genus Chamaecyparis, which includes five other species distributed in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and North America.
 
 The genus is closely related to *Calocedrus* (incense cedars) and *Thuja* (arborvitaes). Molecular phylogenetic studies place Chamaecyparis within the Cupressoideae subfamily.
 
@@ -61,13 +61,13 @@ The species has been widely planted in ornamental horticulture across Europe, Ne
 
 ## Cultivation and Uses
 
-Port Orford cedar produces some of the most valuable timber of any North American conifer. The wood is light, strong, straight-grained, and highly resistant to decay.
+Port Orford cedar produces some of the most valuable timber of any [[growing-gourmet-north-american-reishi-species]] conifer. The wood is light, strong, straight-grained, and highly resistant to decay.
 
 These properties rival those of redwood and bald cypress, making it one of the premier softwood timbers for outdoor applications.
 
 Heartwood is pale yellow to light brown with a distinctive spicy aroma. These properties make it prized for boat building, exterior siding, shingles, and outdoor furniture.
 
-The timber was historically important for the manufacture of arrow shafts by [[halpern-sacramental-peyote-and-native-american-church]] peoples of the Pacific Northwest. Japanese traditional archery (kyudo) still favors Lawson cypress for premium arrows.
+The timber was historically important for the manufacture of arrow shafts by [[halpern-sacramental-peyote-and-native-american-church]] peoples of the [[psilocybin-north-america-pacific-northwest]]. Japanese traditional archery (kyudo) still favors Lawson cypress for premium arrows.
 
 Over 200 named horticultural cultivars have been selected, offering enormous variation in foliage color, form, and size. Popular cultivars include 'Ellwoodii', 'Fletcheri', and 'Wisselii'.
 
@@ -81,45 +81,10 @@ This introduced root pathogen was first detected in the species' range in the 19
 
 Mortality is highest in low-elevation riparian habitats, where moist conditions favor pathogen spread. High-elevation populations on well-drained sites show greater resistance and survival.
 
-Conservation strategies include road closures in infected areas, vehicle washing requirements, and selection of resistant genotypes for reforestation.
+[[endangered-fungi-and-conservation-strategies]] include road closures in infected areas, vehicle washing requirements, and selection of resistant genotypes for reforestation.
 
 Genetic resistance varies among populations, with some inland provenances showing tolerance. Breeding programs have identified individuals with partial resistance to the pathogen.
 
 The species provides important habitat for the threatened marbled murrelet, which nests in large old-growth individuals. Riparian stands also stabilize streambanks and regulate water temperature for salmonid fisheries.
 
 Old-growth Port Orford cedar stands are among the most structurally complex forest types in the Pacific Northwest. Canopy gaps created by disease mortality are colonized by shade-intolerant conifers and hardwoods.
-
-## Cultural Significance
-
-Port Orford cedar holds deep cultural significance for several Native American tribes of the Pacific Northwest, including the Tolowa, Karuk, and Yurok peoples.
-
-The tree is considered a culturally important plant and its harvest is regulated by tribal [[savory-holistic-resource-management-animal-impact]] programs.
-
-Traditional uses included construction of plank houses, canoes, baskets, and ceremonial objects.
-
-The aromatic wood was burned as incense in purification rituals. Split cedar planks were also used for cooking platforms and storage boxes.
-
-The species became a major export commodity in the late 19th century, with timber shipped to markets in [[shipibo-san-francisco-ceremonial-center-ucayali]] and beyond.
-
-The town of Port Orford, Oregon, was named for the species. Historic logging photographs document the massive old-growth trees that once dominated the coastal landscape.
-
-In Japan, the wood is valued for its acoustic properties and is used in the manufacture of shamisen, a traditional three-stringed musical instrument.
-
-The timber's fine grain and resonance also make it suitable for soundboards in guitars and other stringed instruments. Export of Port Orford cedar to Japan remains a significant commercial activity.
-
-## See Also
-
-- [[chamaecyparis-obtusa]]
-
-- [[chamaecyparis-thyoides]]
-
-- [[thuja-plicata]]
-- calocedrus decurrens
-- [[cupressus-macrocarpa]]
-- [[sequoia-sempervirens]]
-- [[cryptomeria-japonica]]
-- [[pseudotsuga-menziesii]]
-- [[abies-grandis]]
-- [[pinus-radiata]]
-- [[thuja-occidentalis]]
-- [[cedrus-libani]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybin and psilocybin and psilocin in magic mushrooms Mushrooms
+title: Psilocybin And Psilocin In Magic Mushrooms
 concept_type: compound
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [psilocybin, psilocin, magic-mushrooms, Psilocybe, tryptamine, serotonin, chemistry]
@@ -16,7 +16,7 @@ genera. Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) serves as a
 prodrug that is dephosphorylated in the body to produce psilocin
 (4-hydroxy-N,N-dimethyltryptamine), the pharmacologically active compound
 responsible for the psychedelic effects. These compounds were first isolated
-and identified by Albert Hofmann in 1958-1959 following R. Gordon Wasson's
+and identified by [[albert-hofmann]] in 1958-1959 following R. [[gordon-wasson-comparative-method-ethnomycology]]'s
 discovery of the pre-Columbian [[african-mushroom-cult-history]] in Mexico.
 
 ## Chemical Structures
@@ -62,7 +62,7 @@ the 4-position of the indole ring instead of serotonin's 5-hydroxy group, and
 the presence of two methyl groups on the terminal amine (dimethyl vs. primary
 amine in serotonin).
 
-This structural similarity underlies the hallucinogenic mechanism: psilocin
+This structural similarity underlies the [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: psilocin
 acts as a partial agonist at serotonin 5-HT2A receptors, particularly in the
 prefrontal cortex, where receptor density is highest. The interference with
 normal serotonin signaling is believed to be the primary mechanism of the
@@ -71,7 +71,7 @@ psychedelic effects.
 ## Minor Constituents
 
 In addition to psilocybin and psilocin, magic mushrooms often contain minor
-tryptamine alkaloids:
+[[hplc-analysis-of-tryptamine-alkaloids]]:
 
 ### Baeocystin
 
@@ -88,62 +88,3 @@ of the dry weight of the mushroom, compared to 0.5-1.5% for psilocybin.
 
 - **Structure**: 4-phosphoryloxytryptamine
 - **Activity**: Very weakly psychedelic or inactive
-- **Significance**: Represents the unmethylated precursor in the
-  biosynthetic pathway
-
-Norbaeocystin is the simplest of the mushroom tryptamines, with no methyl
-groups on the terminal amine. Its presence supports the hypothesis that the
-biosynthetic pathway proceeds from tryptamine through N-methylation steps.
-
-## Biosynthetic Pathway
-
-The biosynthesis of psilocybin in mushrooms proceeds through a series of
-enzymatic steps from the amino acid L-tryptophan:
-
-1. **Tryptophan decarboxylase** converts L-tryptophan to tryptamine.
-2. **Monomethyltransferase** converts tryptamine to 4-hydroxy-N-
-  methyltryptamine (norbaeocystin's hydroxylated precursor).
-3. **Dimethyltransferase** adds a second methyl group, producing
-  4-hydroxy-N,N-dimethyltryptamine (psilocin).
-4. **Kinase** phosphorylates psilocin to produce psilocybin.
-
-The discovery and characterization of the psilocybin biosynthetic gene
-cluster (*psiD*, *psiK*, *psiH*, *psiM*) was reported by Fricke et al. in
-2017, providing molecular-level understanding of the pathway.
-
-## Species Distribution
-
-Psilocybin and psilocin are found in over 200 species of mushrooms across
-multiple genera:
-
-- **Psilocybe**: The largest genus, including *P. cubensis*, *P.
-  semilanceata*, *P. cyanescens*, *P. azurescens*, and *P. mexicana*
-- **Panaeolus**: Including *P. cyanescens* and *P. subbalteatus*
-- **Gymnopilus**: Including *G. spectabilis*
-- **Inocybe**: Several species
-- **Pluteus**: Including *P. salicinus*
-- **Conocybe**: Several species
-
-The most commonly cultivated species is *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, due to its
-reliability, potency, and ease of cultivation. The most potent species
-include *P. azurescens*, *P. cyanescens*, and *P. bohemica*.
-
-## Regulatory Status
-
-### Japan
-
-Since June 6, 2002, fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] have been
-regulated by the Narcotics and Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]] in Japan. This
-regulation was prompted by the increasing popularity of magic mushrooms
-among young people, driven by relatively low cost and lower perceived guilt
-compared to other drugs.
-
-### International
-## See Also
-
-- [[psilocybin-chemical-synthesis]]
-- [[phosphorylation-of-tryptamines]]
-- [[psilocybe-cubensis|Psilocybe]]
-- [[serotonin]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[tryptamine-hallucinogens]]

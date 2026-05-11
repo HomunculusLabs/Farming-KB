@@ -1,5 +1,5 @@
 ---
-title: "[[working-with-agar-pouring-plates-and-sterile-technique]]: Grain-to-Agar Transfer Techniques"
+title: Working With Agar Grain To Agar Transfer Techniques
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -88,10 +88,3 @@ Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

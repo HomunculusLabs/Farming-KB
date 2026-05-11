@@ -1,5 +1,5 @@
 ---
-title: Oomycete Zoospore Discharge Mechanics and Sporulation
+title: Bloomfield Oomycete Zoospore Mechanics And Sporangial Discharge
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -15,11 +15,11 @@ sources:
 
 # Oomycete Zoospore Discharge Mechanics and Sporulation
 
-Oomycete water molds manufacture two types of zoospore [[marine-oomycete-zoospore-biology-encystment]] with paired flagella,
+[[bloomfield-pythium-oomycete-water-molds]] manufacture two types of zoospore [[marine-oomycete-zoospore-biology-encystment]] with paired flagella,
 and the process by which these spores are produced and expelled from the
 sporangium is one of the most elegant spectacles in all of mycology. The
 study of sporangial discharge, pioneered by mycologists like William Coker
-and explored extensively by Nicholas Money and John Webster, reveals a
+and explored extensively by [[nicholas-money]] and John Webster, reveals a
 mechanism of remarkable precision and evolutionary refinement.
 
 ## Sporulation Trigger: Starvation
@@ -88,43 +88,3 @@ Before their cytoplasm is cleaved, [[bloomfield-oomycete-zoospore-discharge-sapr
 are pressurized to 4 or 5 atmospheres, just like the hyphae from which
 they develop. When the membrane breaks, pressure drops by 99.8 percent,
 to one-hundredth of one atmosphere. A mathematical model by Roland Ennos
-demonstrated that this residual pressure was sufficient to push spores
-through the sporangial nozzle.
-
-## Reversing Spore Discharge
-
-By washing sporangia with compounds that counteract the normal flux of
-water into the sporangium, researchers found it was possible to slow the
-motion of the spores, halt them in mid-transit, and even reverse their
-movement. This was discovered accidentally while studying the effects of
-synthetic polymers called polyethylene glycols, chains of antifreeze
-molecules, on sporangial development.
-
-The first time spore discharge was reversed and spores were witnessed
-backing away from the nozzle was a landmark moment in experimental
-mycology. For hundreds of millions of years, water molds had been crafting
-sporangia and expelling spores without molestation; this represented the
-first time the process had been externally controlled.
-
-## Zoospore Swimming Mechanics
-
-Oomycete water molds produce two types of zoospore. The primary zoospore
-has a teardrop shape with flagella anchored in its pointed end. The
-secondary zoospore resembles a kidney, with flagella waving from a groove
-in its indented side. One flagellum is always aimed ahead and clothed with
-lateral hairs called mastigonemes; the other is smooth and points rearward.
-
-The paradoxical orientation of the frontal flagellum is explained by the
-fact that its hairs reverse the direction of thrust generated when waves
-pass along its length. The hairs pull the spore through water like the
-arms of a swimmer doing the breaststroke. The combined push from behind
-and pull from the front propels the zoospore at up to one meter per hour,
-or 27 times its body length every second.
-
-## See Also
-
-- [[bloomfield-oomycete-zoospore-discharge-saprolegnia-sporulation]]
-- [[bloomfield-basidiomycete-biology-overview]]
-- [[bloomfield-what-lies-beneath-hyphal-biology]]
-- [[bloomfield-chytrid-olpidium-synchytrium-agricultural-impact]]
-- [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]

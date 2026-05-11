@@ -88,22 +88,3 @@ McKenna extends the argument about endogenous neurochemistry to the nature of la
 ## Herbert Guenther and Human Uniqueness
 
 McKenna references the Buddhist scholar Herbert Guenther's work on human uniqueness, noting that "one must come to terms with one's uniqueness." He argues that we are "naive about the role of language and being as the primary facts of experience." The endogenous tryptamine hypothesis reinforces this point: if the human brain produces compounds that open onto transpersonal dimensions, then human uniqueness is not merely a matter of cognitive capacity but of neurochemical endowment. The human brain is unique not only in its complexity but in the specific compounds it produces and the specific experiences those compounds enable.
-
-## See Also
-
-- [[shamanism-in-tryptamine-context]]
-- [[4-po-dmt]]
-- [[4-prho-dmt]]
-- [[dmt-as-hallucinogen]]
-
-- [[dmt-endogenous-production]]
-
-- [[5-meo-dmt-reference]]
-- [[mckenna-archaic-revival]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-
-- mckenna-tryptamine-hallucinogens-and-consciousness -- parent topic overview
-- mckenna-tryptamine-consciousness-dmt-spirit-molecule -- DMT phenomenology
-- mckenna-tryptamine-psilocybin-consciousness-evolution -- psilocybin's relationship to endogenous chemistry
-- mckenna-tryptamine-ayahuasca-and-dmt-combinations -- indigenous tryptamine knowledge
-- mckenna-tryptamine-research-legal-status -- barriers to research

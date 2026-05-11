@@ -88,18 +88,3 @@ into stable [[savory-soil-organic-matter-and-decomposition-dynamics]] (humificat
 function as carbon sources or sinks. Saprotrophic fungi influence this
 balance through:
 - Enzyme production rates that determine decomposition speed
-- Growth efficiency (how much carbon is incorporated into fungal biomass
-  versus respired)
-- Interactions with soil mineral particles that can stabilize fungal
-  residues into long-lived organic matter
-
-## Role in Nutrient Cycling
-
-By decomposing organic matter, saprotrophic fungi release nitrogen,
-phosphorus, potassium, and other essential nutrients in plant-available
-forms. This mineralization process is particularly important in forests
-where most nutrients are locked in organic forms. The fungal biomass
-itself represents a significant nutrient pool, and the turnover of
-fungal mycelium (through grazing by microarthropods and nematodes)
-contributes to the [[mycelium]] — The fungal network that [[mycorrhizal-networks]] — Contrast with saprotrophic feeding
-- [[mycoremediation]] — Applied use of fungal decomposition

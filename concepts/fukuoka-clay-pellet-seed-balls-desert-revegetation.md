@@ -2,10 +2,10 @@
 
 ## Overview
 
-Masanobu Fukuoka proposed a revolutionary method for greening the world's
+[[masanobu-fukuoka]] proposed a revolutionary method for greening the world's
 deserts using clay pellet seed balls — small capsules of soil and clay
 encasing seeds of green manure plants, grains, and vegetables. The technique
-is an extension of his natural farming philosophy: instead of imposing human
+is an extension of his [[cho-natural-farming-philosophy]]: instead of imposing human
 scientific solutions on degraded landscapes, provide nature with the raw
 materials (seeds and soil microorganisms) and allow natural processes to
 determine which plants survive and thrive.
@@ -16,7 +16,7 @@ Fukuoka became convinced that the natural farming experience could help
 revegetate the world and stabilize food supply. His proposal was straightforward:
 scatter seeds over the deserts and savannahs in clay pellets. The pellets can
 be prepared by mixing the seeds of green manure trees — such as black wattle
-(Acacia mearnsii) that grow in areas with annual rainfall of less than 2 inches
+([[acacia-mearnsii]]) that grow in areas with annual rainfall of less than 2 inches
 — with the seeds of clover, alfalfa, bur clover, and other green manures,
 plus grain and vegetable seeds.
 
@@ -60,7 +60,7 @@ and factors that is beyond man's powers of comprehension.
 Suppose man were able to learn which plant had been the first to die off in a
 land turned to desert. He would still not know enough to decide whether to
 begin by planting the first type of vegetation to disappear or the last to
-survive. "The reason is simple: in nature, there is no cause and effect."
+survive. "The reason is simple: in nature, there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]]."
 
 Science rarely looks to microorganisms for an understanding of large causal
 relationships. True, the perishing of vegetation may have triggered a drought,
@@ -78,66 +78,13 @@ seeds and these microorganisms could be the spark that restores the deserts.
 The clay pellets are deliberately designed to carry not just seeds but the
 [[cannabis-cultivar-microbial-community-effects]] that enables plants to thrive in poor soils.
 
-This emphasis on microbial ecology connects the revegetation technique to the
+This emphasis on [[fukuoka-microbial-ecology-decomposition]] connects the revegetation technique to the
 broader [[four-principles-of-natural-farming]] farming. Just as Fukuoka's rice paddies rely on
 soil microbes rather than [[cannabis-chemical-fertilizers]], desert revegetation relies on
-[[cannabis-rhizosphere-microbial-communities]] to fix nitrogen, break down organic matter, and create
+[[cannabis-rhizosphere-microbial-communities]] [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], break down organic matter, and create
 conditions favorable for plant establishment.
 
 ## Connection to Direct-Seeding Methods
 
 The clay pellet technique is the same method Fukuoka used in his own farming.
 In his rice/barley succession system, he forms clay pellets containing seed
-rice and scatters them over the straw before the New Year. The pellets protect
-the seeds from birds and rodents during the winter months, and the seeds
-germinate when conditions become favorable in spring.
-
-Scaling this proven technique from a quarter-acre farm to global desert
-revegetation is, Fukuoka acknowledged, an ambitious proposal. But he believed
-that the underlying principle — providing seeds in protective clay casings and
-letting nature decide which plants succeed — is universally applicable.
-
-## The Happy Hill Rice Strain
-
-Fukuoka created, together with the insects in his fields, a new strain of rice
-he called "Happy Hill" — a hardy variety with the blood of wild variants, yet
-one of the highest yielding strains of rice in the world. He calculated that if
-a single head of Happy Hill were sent to a country where food is scarce and
-sown over a ten-square-yard area, a single grain would yield 5,000 grains in
-one year's time. There would be grain enough to sow a half-acre the following
-year, fifty acres two years hence, and 7,000 acres in the fourth year.
-
-This exponential multiplication demonstrated that the seed — the genetic
-material — is the critical input, not the agricultural infrastructure. "This
-handful of grain could open up the road to independence for a starving people."
-The clay pellet was simply the delivery mechanism.
-
-## Critiques and Practical Considerations
-
-Fukuoka's desert revegetation proposal has been both praised as visionary and
-criticized as impractical. Key considerations include:
-
-- **Scale**: Hand-scattering pellets over vast desert areas would require
-  enormous human labor or aerial distribution systems.
-- **Species selection**: The success of any species depends on complex local
-  factors of soil chemistry, temperature extremes, and existing microbial
-  communities that may differ dramatically from Fukuoka's Japanese farm.
-- **Time frame**: Natural succession is slow. Even with successful
-  germination, establishing a self-sustaining plant community in a desert
-  environment could take decades.
-
-Fukuoka acknowledged these challenges but maintained that the only effective
-approach to revegetating barren land is to leave things largely up to nature.
-Even one person can begin. His greatest fear was "that of nature being made the
-plaything of the human intellect."
-
-## See Also
-
-- Fukuoka's Five Principles of Natural Farming
-- Direct-Seeded No-Tillage Rice/[[direct-seeded-no-tillage-rice-barley-succession-in-clover]] Clover Cover
-- Fukuoka's Do-Nothing Philosophy and Mu
-
-## Source
-
-- Fukuoka, Masanobu. *The Natural Way of Farming: The [[microdosing-theory-and-practice]]
-  of Green Philosophy*. Extracted from PDF, 8672 lines, 667,300 characters.

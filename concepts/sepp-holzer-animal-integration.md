@@ -1,10 +1,11 @@
 ---
-title: Sepp Holzer mollison-animal-integration-permaculture-design
+title: Sepp Holzer Animal Integration
 created: 2026-04-15
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -14,7 +15,7 @@ Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Sepp Holzer considers livestock integral to his permaculture system. Animals are not just producers of high-quality food but also "industrious and pleasant workers" that perform essential functions in landscape management.
+Sepp Holzer considers livestock integral to his permaculture system. Animals are not just producers of high-quality food but also "industrious and pleasant workers" that perform [[plant-micronutrients-and-their-essential-functions]] in landscape management.
 
 ## General Principles
 
@@ -22,7 +23,7 @@ Livestock should always be kept outside in family groups with their natural need
 
 Key principles:
 - Animals kept outside year-round in family groups
-- Stocking rate adapted to naturally available food (3-12 pigs per hectare depending on conditions)
+- [[savory-stock-density-vs-stocking-rate]] adapted to naturally available food (3-12 pigs per hectare depending on conditions)
 - Paddock rotation system prevents overuse
 - Simple open shelters made of rough timber logs or stones
 - Shelters placed where animals naturally prefer to rest
@@ -55,7 +56,7 @@ Pigs are described as "the most versatile and helpful animal" in Holzer's system
 - The cyclical pattern: pigs prepare and fertilise soil, plants grow, surplus feeds pigs, snails and pests are eaten
 
 ### German Research Findings
-A German agricultural research project investigated the effect of free-roaming pigs on plant diversity. Vegetation charting showed that plant diversity in areas grazed by pigs doubled, because overgrown areas were broken open, allowing plants that previously had no opportunity to develop to germinate and grow.
+A German [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] project investigated the effect of free-roaming pigs on plant diversity. Vegetation charting showed that plant diversity in areas grazed by pigs doubled, because overgrown areas were broken open, allowing plants that previously had no opportunity to develop to germinate and grow.
 
 ## Cattle
 
@@ -78,8 +79,8 @@ Chickens and other poultry play a role in the [[comparison-nutrient-cycling-vs-n
 
 Holzer strongly condemns intensive [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] as "torture of large numbers of animals." He argues that:
 - Food from intensive systems is of very low nutritional value
-- Growth hormones, antibiotics, and sedatives are commonly used
-- Stress hormones from transport are passed into meat
+- [[gibberellins-plant-growth-hormones]], antibiotics, and sedatives are commonly used
+- [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] from transport are passed into meat
 - Consumers are ultimately damaged by these practices
 - Keeping livestock humanely provides high-quality food, gives animals natural lives, and brings farmers joy
 - Every farmer should be able to say: "if I were to swap places with my animals, I would also be happy"
@@ -87,11 +88,3 @@ Holzer strongly condemns intensive [[fukuoka-textdoc-natural-livestock-farming-o
 ## Wild Boar Crossbreeding
 
 Holzer has crossed domestic pigs with wild boar to create hardy, self-sufficient animals that thrive on mountain pasture. These crosses require minimal [[savory-supplemental-feeding-and-winter-management]], are excellent foragers, and produce high-quality meat. The animals develop thick coats and strong immune systems from their wild genetics. He emphasises that breeding should favour resilience and self-sufficiency over maximum weight gain.
-
-## Fish and Waterfowl
-
-Beyond the [[holzer-pond-construction-and-aquaculture]] described in [[permaculture-domestic-animals]] for broader discussion.
-
-See also: [[permaculture-domestic-animals]], [[permaculture-integrated-animal-systems]], [[holzer-natural-animal-husbandry]]
-
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]

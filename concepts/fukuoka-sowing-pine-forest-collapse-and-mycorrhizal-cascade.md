@@ -4,6 +4,7 @@ tags: [fukuoka, pine-forest, matsutake, mycorrhiza, acid-rain, ecosystem-collaps
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 created: 2026-04-28
@@ -34,11 +35,11 @@ exterminate the beetle.
 
 Fukuoka's experiments yielded fundamentally different results. First, healthy
 pines inoculated with nematodes did not die. Second, he could not find the
-filamentous fungi that supposedly fed the nematodes present in the trunks of
+[[environmental-sensing-filamentous-fungi-read]] that supposedly fed the nematodes present in the trunks of
 healthy pines, and the nematodes could not survive on pine sap alone.
 
 When he studied trunks of pines showing early signs of decline, he
-discovered three or four types of pathogenic fungi (eumycetes) that had not
+discovered three or four types of [[cordyceps-insect-pathogenic-fungi]] (eumycetes) that had not
 been mentioned in the official analysis. These were thought to have been
 introduced with imported lumber. Yet even inoculating pines with hyphae from
 these fungi had little effect on overall tree health.
@@ -67,7 +68,7 @@ Fukuoka identified soil acidification as the likely trigger for the shift in
 soil microorganism communities that killed the matsutake. The soil of pine
 forests throughout Japan was becoming progressively more acidic. While he
 could not say with certainty that acid rain was the sole cause, the
-correlation between industrial air pollution and pine forest decline was
+correlation between industrial [[air-pollution-fungal-community-responses]] and pine forest decline was
 strong. The matsutake fungus, being highly sensitive to soil chemistry
 changes, served as an early warning indicator of broader ecosystem
 deterioration.
@@ -78,23 +79,12 @@ This research reinforced Fukuoka's broader philosophical argument about the
 illusion of causality. The government's approach exemplified the Western
 scientific pattern of identifying an apparent culprit (nematode), attacking
 it (chemical spraying), and creating new problems while failing to address
-the root cause (soil degradation from pollution). His research connected to
+the [[fukuoka-pine-rot-root-cause]] (soil degradation from pollution). His research connected to
 the themes in [[fukuoka-pine-environment-collapse-japan]].
 
 ## The Matsutake as Ecological Barometer
 
 Fukuoka noted that the [[pine-disease-and-matsutake-mushroom-decline]] had long been a prized element of
 Japanese cuisine and culture. Its disappearance was not merely a culinary
-loss but a signal that the entire pine forest ecosystem was unraveling. The
+loss but a signal that the entire [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] was unraveling. The
 matsutake's sensitivity to soil conditions made it a biological indicator
-whose decline should have prompted investigation of soil health rather than
-insecticide application.
-
-## Mycorrhiza and Natural Farming
-
-This research validated Fukuoka's natural farming approach, which relies on
-maintaining healthy soil microbiology including [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. His citrus
-orchard, described in [[fukuoka-pine-blight-matsutake-portent]]
-- fukuoka [[fukuoka-pine-rot-root-cause]] [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
-- [[fukuoka-mycorrhiza-collapse-cascade-ecosystem-failure]]
-- [[soil-microbiology-in-natural-farming]]

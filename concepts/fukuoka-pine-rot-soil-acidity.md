@@ -1,5 +1,5 @@
 ---
-title: "Pine Rot and Soil Acidity — Fukuoka's Ecosystem Analysis"
+title: Fukuoka Pine Rot Soil Acidity
 type: concept
 tags:
   - natural-farming
@@ -10,7 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka (1985). "The Natural Way of Farming." Japan Publications.
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - [[masanobu-fukuoka]] (1985). "The Natural Way of Farming." Japan Publications.
 ---
 
 # Pine Rot and Soil Acidity — Fukuoka's Ecosystem Analysis
@@ -42,7 +43,7 @@ Through direct field investigation, Fukuoka assembled evidence that painted
 a very different picture of pine rot causation.
 
 First, when he cut down apparently healthy pines in infected forests and
-cultured the trunk tissue, he found new pathogenic fungi in about forty
+cultured the trunk tissue, he found new [[cordyceps-insect-pathogenic-fungi]] in about forty
 percent of samples. These included black change mold and three types of blue
 change mold, all previously undocumented pathogens foreign to the area.
 
@@ -64,7 +65,7 @@ bristle mold, accelerated by increasing soil acidity.
 ## The Mycorrhizal Connection
 
 Fukuoka's most important insight was the central role of matsutake mushrooms.
-These prized [[palmer-edible-mushrooms-north-america]] form mycorrhizal associations with red pine
+These prized [[palmer-edible-mushrooms-north-america]] form [[plants-without-mycorrhizal-associations]] with red pine
 roots, exchanging minerals and water for carbohydrates produced by the tree.
 
 When soil acidification killed the matsutake, the pine lost a critical
@@ -80,50 +81,9 @@ soil degradation, not any single organism.
 ## The True Cause: Soil Acidification
 
 Fukuoka traced the ultimate cause of pine rot to soil acidification. This
-acidification resulted from decades of acid rain, chemical fertilizer runoff,
+acidification resulted from decades of [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]], [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] runoff,
 and the disruption of natural soil biology through [[mycelium-running-forestry-practices-and-mushrooms]].
 
 Matsutake mushrooms were highly sensitive to soil pH. They died when potted
 pine saplings were exposed to 30°C for one hour, but thrived in alkaline
 soil near fresh water or on high ground at low temperature.
-
-The increasing acidity of forest soils across Japan was therefore the root
-cause of the pine decline. Everything else — the molds, the nematodes, the
-beetles — was secondary.
-
-## Fukuoka's Proposed Treatment
-
-Based on his analysis, Fukuoka proposed three treatment methods. First,
-applying lime to reduce soil acidification. In garden settings, this could
-be done by spraying with water containing bleaching powder.
-
-Second, applying soil germicides. In gardens, [[cervantes-hydrogen-peroxide-sterilization]] solution
-and alcohol chloropicrin disinfection were acceptable alternatives.
-
-Third, inoculating matsutake spores grown in pure culture to promote root
-development and restore the mycorrhizal partnership.
-
-These treatments addressed the root cause rather than the symptoms. Even
-so, Fukuoka expressed concern that restoration would be difficult once the
-soil ecosystem had been severely damaged.
-
-## The Limits of Reductionist Science
-
-Fukuoka used the pine rot case study to illustrate a broader critique of
-agricultural and forestry science. Specialists studied nematodes, fungi, or
-soil chemistry in isolation, missing the interconnected chain of causation.
-
-The lesson extended beyond forestry. The same pattern of treating symptoms
-rather than causes characterized modern agriculture's approach to crop
-diseases, insect pests, and soil fertility.
-
-Understanding the whole system — soil biology, [[dighton-mycorrhizal-networks-carbon-transfer]],
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and above-ground ecology — was essential for solving
-problems that reductionist approaches could only manage temporarily.
-
-## See Also
-
-- [[fukuoka-four-principles-natural-farming]]
-- [[natural-farming-guide-integrated-pest-management]]
-- [[natural-farming-soil-management]]
-- fukuoka road back to nature

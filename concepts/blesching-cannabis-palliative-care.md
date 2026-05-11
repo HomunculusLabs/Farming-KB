@@ -2,7 +2,7 @@
 title: Cannabis in Palliative Care (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-cancer-symptoms cannabis-chronic-pain-management blesching-cannabis-gastrointestinal-disorders blesching-cannabis-sleep-disorders"
 type: concept
 tags: [cannabis]
@@ -34,8 +34,8 @@ pathways:
   (inflammatory pain) receptors
 - In conjunction with opiates, cannabinoids produce a synergy of effective pain
   control while reducing opiate-related risks
-- Particularly effective for neuropathic pain, [[cannabis-cancer-pain-research]], and pain associated
-  with multiple sclerosis
+- Particularly effective [[cannabis-for-neuropathic-pain]], [[cannabis-cancer-pain-research]], and pain associated
+  with [[blesching-cannabis-multiple-sclerosis]]
 - Topical cannabinoids significantly reduce nerve pain after herpes flare-ups
 
 ### Nausea and Vomiting (CHI: 111, 27 studies)
@@ -49,7 +49,7 @@ pathways:
 - Endocannabinoids at CB1 receptors stimulate appetite and ingestive behaviors
 - Dronabinol: increases in appetite (38% vs. 8% for placebo), improved mood
   (10% vs. -2%), decreased nausea (20% vs. 7%) in AIDS patients
-- THC is an effective appetite stimulant in advanced cancer at well-tolerated
+- THC is an effective appetite stimulant in [[blesching-cannabis-pain-advanced-cancer]] at well-tolerated
   low doses
 - Addresses wasting syndrome common in end-stage disease
 
@@ -84,57 +84,6 @@ Sativex) have been studied in formal palliative care settings:
 - A 1994 Palliative Care Program at Cleveland Clinic evaluated THC for cancer
   patients
 - An Oncology and Palliative Medicine study (2006) examined cannabis extract
-  in 164 cancer patients
+  in 164 [[cannabis-for-cancer-patients]]
 
 Cannabis complements conventional palliative approaches by:
-
-1. Reducing the need for high-dose opioids (synergistic analgesia)
-2. Addressing multiple symptoms with a single therapeutic agent
-3. Improving mood and quality of life alongside physical symptom management
-4. Offering alternatives when conventional medications fail or produce
-  intolerable side effects
-
-## Safety Profile in Palliative Context
-
-Blesching emphasizes cannabis's favorable safety profile relative to
-pharmaceutical alternatives:
-
-- Between 1997 and 2005, no deaths were attributed to exclusive cannabis use,
-  while FDA-recorded 10,008 deaths from 17 comparable pharmaceutical drugs
-- Side effects are mostly mild to moderate: euphoria, dizziness, dry mouth,
-  increased appetite, red sclera
-- Dependency, if it occurs, is psychological rather than physical
-- Compared to pharmaceuticals, cannabis carries considerably reduced risk of
-  [[blesching-cannabis-safety-adverse-effects-evidence]] including death
-
-## Mind-Body Medicine in Palliative Care
-
-Blesching integrates mind-body medicine principles into the palliative care
-framework:
-
-- The endocannabinoid system serves as a "bridge between the body and mind"
-- Psychological factors (emotions, beliefs, social support) directly impact
-  physiological healing processes
-- Cannabis can be used not only as medicine but as a means to seek deeper
-  healing -- exploring the frame of mind associated with illness
-- Mindful use reduces potential dependency risk
-- Addressing emotional factors (depression, anxiety, unresolved conflicts)
-  alongside physical symptoms enhances overall palliative outcomes
-
-## Key Takeaways
-
-- Cannabis addresses multiple palliative symptoms simultaneously: pain, nausea,
-  appetite loss, insomnia, anxiety, and spasticity
-- The highest evidence base in the index is for nausea/vomiting (CHI 111, 27
-  studies)
-- Cannabis reduces opioid requirements through synergistic analgesic effects
-- Favorable safety profile compared to pharmaceutical alternatives
-- Holistic integration of mind-body principles enhances palliative outcomes
-- Both whole-plant cannabis and cannabinoid pharmaceuticals have been studied
-  in formal palliative care settings
-
-## See Also
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-sleep-disorders]]

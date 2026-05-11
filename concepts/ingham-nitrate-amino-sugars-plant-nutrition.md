@@ -4,6 +4,7 @@ tags: [nitrogen, amino-acids, plant-nutrition, compost-tea, ingham, soil-foodweb
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 created: 2026-04-28
@@ -87,34 +88,3 @@ The bacteria-then-fungi succession is central to nutrient transformation and [[l
 - **Bacteria then finish the job** of forming stable humus from intermediate decomposition products
 
 Molasses addition to compost piles can favor fungi over bacteria, dramatically speeding up the decomposition of lignocellulosic waste without requiring high temperatures. The recommended rate is approximately 500 ml per 4 kg (2 pints per 10 pounds) of dry waste material. This works well because molasses adds both nitrogen and fungal food sources.
-
-Real humic acid production requires all organism groups to be present: bacteria, fungi, protozoa, nematodes, earthworms, and microarthropods. The fungi do the primary humic acid production, but earthworms and microarthropods help maintain fungal dominance over bacterial processes in the "real world" of soil structure.
-
-## Humus vs. Humic Acid
-
-Ingham provides a detailed distinction between these related but different concepts:
-
-- **Humus** includes the living organisms (bacteria, fungi, protozoa, nematodes, roots), simple organic matter (sugars, amino acids, proteins, simple carbohydrates, lipids), and ever-more complex organic matter (polysaccharides, amino-sugars, hormones, fats, lipopolysaccharides, fulvic acids) bound together in intermediate molecular weight fractions
-- **Humic acids** are all of the above bound together in very complex tertiary or three-dimensional binding complexes
-
-The progression from simple to complex organic matter is driven by biological processing. Each trophic level in the soil foodweb contributes to the transformation. Understanding this hierarchy is essential for interpreting soil organic matter tests and for designing compost tea programs that build long-term soil carbon.
-
-## Kelp and Nutrient Forms in Compost Tea
-
-Ingham raises an important point about kelp as a compost tea ingredient: the nutrients in kelp are not in inorganic forms (nitrate, phosphate, phosphorus). They are contained within plant cells as proteins, plant cytoplasm, and other organic forms. Plants can only access these nutrients after microbial decomposition breaks down the cellular structures.
-
-This means kelp's value in compost tea is not primarily as a direct nutrient source but as a food resource for the microorganisms that perform the nutrient cycling function. The trace minerals, growth hormones, and other beneficial compounds in kelp become available to plants through biological processing — the soil foodweb acts as the intermediary between organic inputs and plant-available nutrients.
-
-## Chelation and Nutrient Availability
-
-Microbes play a central role in making nutrients available through chelation. Any biological cell has a net negative charge, so positively charged cations (like calcium, iron, and other minerals) have trouble entering cells. Bacteria and fungi need chelated minerals to move nutrients into their own cells. They do this by attaching cations to proteins or amino acids, effectively neutralizing the charge.
-
-This chelation process is how microbes make minerals available to plants. The plant has enzymes that remove the protein or amino acid chelating agent once the mineral is inside, placing it where needed in cellular machinery. Synthetic chelators like EDTA are not normally present in soil — biological chelation requires living organisms and biological energy.
-
-The reliance on biological chelation explains why [[hamilton-nutrient-deficiencies-and-treatment]] can persist even when total soil nutrient levels appear adequate on standard soil tests. Without the living organisms to chelate and deliver minerals, the nutrients may be present but unavailable to plant roots.
-
-## See Also
-
-- [[ingham-brix-and-plant-quality]]
-- [[ingham-chelation-microbial-nutrient-processing]]
-- [[ingham-carbon-nitrogen-ratios-compost-tea]]

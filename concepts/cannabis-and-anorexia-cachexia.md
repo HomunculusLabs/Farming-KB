@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Anorexia Cachexia
+title: Cannabis And Anorexia Cachexia
 created: 2026-04-28
 tags:
   - cannabis
@@ -24,9 +24,9 @@ type: concept
 
 ## Overview
 
-Anorexia and cachexia represent two related but distinct conditions involving significant weight loss and nutritional deficiency. Anorexia nervosa is characterized by a lack of interest in or refusal to eat sufficient food due to psychological reasons. Cachexia, also called wasting syndrome, refers to loss of body mass that cannot be reversed through conventional nutrition, presenting as generalized weakness, overall poor health, malnutrition, and emaciation.
+[[cannabis-for-anorexia-and-cachexia]] represent two related but distinct conditions involving significant weight loss and nutritional deficiency. Anorexia nervosa is characterized by a lack of interest in or refusal to eat sufficient food due to psychological reasons. Cachexia, also called wasting syndrome, refers to loss of body mass that cannot be reversed through conventional nutrition, presenting as generalized weakness, overall poor health, malnutrition, and emaciation.
 
-Cachexia typically occurs as a secondary condition in chronic destructive diseases including end-stage cancer, AIDS, terminal tuberculosis, multiple sclerosis, and chronic obstructive pulmonary diseases such as emphysema. The Cannabis Health Index (CHI) reviewed 11 studies related to anorexia and cachexia, producing a combined CHI value of 28, indicating a moderate-to-strong evidence base for the therapeutic potential of cannabinoids in these conditions.
+Cachexia typically occurs as a secondary condition in chronic destructive diseases including end-stage cancer, AIDS, terminal tuberculosis, [[blesching-cannabis-multiple-sclerosis]], and chronic obstructive pulmonary diseases such as emphysema. The Cannabis Health Index (CHI) reviewed 11 studies related to anorexia and cachexia, producing a combined CHI value of 28, indicating a moderate-to-strong evidence base for the [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids in these conditions.
 
 ## Pathophysiology
 
@@ -42,7 +42,7 @@ AIDS-related anorexia is defined as a lack or loss of appetite leading to weight
 
 Research has established that endocannabinoid CB1 receptors play a central role in the regulation of eating behavior. An animal study conducted at the University Complutense of Madrid in 2002 provided initial evidence that peripheral CB1 receptors modulate feeding behavior. Subsequent research at Columbia University in New York confirmed that reducing CB1 receptor expression produces a measurable reduction in appetite, suggesting that CB1 blockers could be explored as weight-loss products, and conversely, that CB1 agonists stimulate eating.
 
-Researchers at the University of Liverpool summarized the scientific basis as follows: "Considerable research has examined endocannabinoid involvement in appetite, eating behavior, and body weight regulation. It is now confirmed that endocannabinoids, acting at brain CB1 cannabinoid receptors, stimulate appetite and ingestive behaviours. Moreover, there is strong evidence of an endocannabinoid role in energy metabolism and fuel storage."
+Researchers at the University of Liverpool summarized the scientific basis as follows: "Considerable research has examined endocannabinoid involvement in appetite, eating behavior, and body weight regulation. It is now confirmed that endocannabinoids, acting at brain CB1 [[cannabinoid-receptors-cb1-and-cb2]], stimulate appetite and ingestive behaviours. Moreover, there is strong evidence of an endocannabinoid role in energy metabolism and fuel storage."
 
 ## Clinical Evidence
 
@@ -61,7 +61,7 @@ A follow-up study at the Orlando Immunology Center in Florida enrolled 117 peopl
 
 ### Dronabinol in Elderly Patients
 
-A 2007 study at Saint Louis University in Missouri treated 29 senior long-term care patients suffering from weight loss with oral doses of Dronabinol over twelve weeks. Participants gained an average of almost 8 pounds, demonstrating that cannabinoid-based appetite stimulation is effective beyond the context of terminal illness.
+A 2007 study at Saint Louis University in Missouri treated 29 senior long-term care patients suffering from weight loss with oral doses of Dronabinol over twelve weeks. Participants gained an average of almost 8 pounds, demonstrating that cannabinoid-based [[cannabis-for-cachexia-and-appetite-stimulation]] is effective beyond the context of terminal illness.
 
 ### THC in Cancer-Related Anorexia
 
@@ -88,43 +88,3 @@ A study conducted in Somerville, New Jersey, found that "Dronabinol caused weigh
 ### Dronabinol (Marinol)
 
 Dronabinol is a synthetic isomer of THC approved by the FDA for the treatment of anorexia associated with weight loss in AIDS patients and for nausea and vomiting associated with cancer chemotherapy. It is administered orally in capsule form. Common dosages in the reviewed studies ranged from 2.5 mg to 5 mg taken two to three times daily.
-
-### Nabilone (Cesamet)
-
-Nabilone is a synthetic cannabinoid approved for chemotherapy-induced nausea and vomiting. Studies have shown it has beneficial effects on appetite, mood, sleep, and pain in cancer patients beyond its anti-emetic properties.
-
-### Sativex
-
-Sativex is an oral spray derived from whole cannabis plant extract containing approximately equal proportions of THC and CBD. Unlike isolated synthetic cannabinoids, Sativex preserves the full spectrum of plant cannabinoids and terpenes, potentially offering enhanced therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]].
-
-## Dosing Considerations
-
-When using cannabinoid therapy for appetite stimulation, several dosing principles apply:
-
-- Start with low doses and increase gradually until the desired effect is achieved
-- Oral preparations may take 30 minutes to 2 hours to take effect, longer on a full stomach
-- Monitor for both therapeutic effects and side effects
-- The [[cannabis-subjective-therapeutic-window-dosing]] window varies by individual based on endocannabinoid tone, body weight, and tolerance
-- Side effects at appropriate doses tend to be mild and manageable
-
-## Safety Profile
-
-Across all reviewed studies, cannabinoid therapy for anorexia and cachexia demonstrated a favorable safety profile. Side effects, when reported, were predominantly mild to moderate in severity and included euphoria, dizziness, thinking abnormalities, drowsiness, and tiredness. No serious adverse events or toxicity were reported in the reviewed studies. This stands in contrast to many pharmaceutical appetite stimulants, which can carry more significant side effect burdens.
-
-## Comparison with Alternative Treatments
-
-Pharmaceutical appetite stimulants such as megestrol acetate (Megace) and corticosteroids are commonly used for cancer and AIDS-related cachexia. Megestrol has been associated with thromboembolic events, edema, and adrenal suppression. Corticosteroids carry risks of immunosuppression, glucose intolerance, muscle wasting, and psychiatric effects. Cannabinoids offer a comparatively favorable risk-benefit ratio for many patients.
-
-## Mind-Body Considerations
-
-The mind-body dimension of anorexia and cachexia extends beyond the physiological. Psychological states of despair, loss of pleasure in life, social withdrawal, and loss of meaning can directly suppress appetite through neuroendocrine pathways. The endocannabinoid system's role in both appetite regulation and emotional processing creates a potential pathway through which addressing psychological well-being may complement the direct appetite-stimulating effects of cannabinoids.
-
-Patients are encouraged to explore whether emotional factors such as unresolved grief, loss of purpose, or social isolation may be contributing to appetite loss alongside the physical disease process.
-
-## See Also
-
-- [[blesching-cannabis-anorexia-cachexia]]
-- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
-- [[tetrahydrocannabinol-thc]]
-- [[cannabidiol-cbd]]
-- Mind [[mind-body-medicine-and-endocannabinoid-system]] and Emotional Molecules

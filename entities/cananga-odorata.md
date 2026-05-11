@@ -27,7 +27,7 @@ of [[psilocybe-southeast-asia-pacific]] (Indonesia, Malaysia, Philippines), it i
 intensely fragrant flowers, which yield one of the world's most important
 [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for perfumery. The species has been naturalized throughout the
 tropics and is commercially cultivated in Comoros, Madagascar, Réunion, and
-tropical South America.
+tropical [[guzman-psilocybin-mushrooms-south-america]].
 
 Ylang-ylang oil is a cornerstone ingredient in haute perfumery, famously
 forming the top notes of Chanel No. 5 alongside neroli and sandalwood. The
@@ -50,7 +50,7 @@ wide, with a glossy dark green upper surface and paler underside. Petioles are
 Flowers are the defining feature: pendulous, 5–8 cm in diameter, with six
 yellow-green petals that deepen to golden-yellow at maturity. The flowers are
 borne in axillary clusters of 2–6 and are intensely fragrant, especially in the
-early morning hours. Flowering occurs year-round in tropical climates with peak
+early morning hours. Flowering occurs year-round in [[fukuoka-natural-farming-tropical-climates]] with peak
 production during warm, humid months.
 
 ## Distribution and Habitat
@@ -65,7 +65,7 @@ Njazidja/Grande Comore), which produce approximately 40 metric tons of
 ylang-ylang oil annually. Madagascar, Réunion, and the Philippines are
 secondary producers. The tree is widely planted as an ornamental and
 agroforestry species throughout Southeast Asia, tropical Africa, and the
-Pacific Islands.
+[[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 ## Chemistry and Essential Oil
 
@@ -88,51 +88,3 @@ and Candida species, anxiolytic effects in clinical aromatherapy studies,
 and mild spasmolytic properties in smooth muscle tissue preparations.
 
 ## Cultivation
-
-Cananga odorata is propagated primarily from seed, though softwood cuttings
-and air layering are possible. Seeds lose viability rapidly and should be
-planted within 1–2 months of harvest. Seedlings begin flowering at 3–4 years
-and reach full production at 6–8 years.
-
-Planting density in commercial groves is 100–200 trees per hectare under
-partial shade. Flowers are hand-picked in the early morning when fragrance
-intensity peaks, typically yielding 10–20 kg of fresh flowers per tree per
-year. Distillation yield is approximately 1.5–2.5% (v/w).
-
-## Permaculture and Agroforestry Applications
-
-Ylang-ylang is a valuable multi-strata agroforestry component. As a mid-canopy
-tree (10–15 m at maturity), it integrates well with taller timber species
-above and understory crops below. The regular flower harvest provides
-continuous income from year 3–4 onward.
-
-In permaculture systems, C. odorata serves as a nectar source for pollinators,
-provides light dappled shade for understory herbs and spices, and contributes
-leaf litter for soil-building. It is commonly intercropped with clove
-(Syzygium aromaticum), vanilla (Vanilla planifolia), and cacao (Theobroma
-cacao) in the Comoro Islands and Madagascar.
-
-The tree's tolerance of a range of soil types, rapid growth, and ability to
- coppice after harvesting make it suitable for [[permplant-willows-salix-erosion-control-fodder]] on tropical
- slopes and rehabilitation of degraded lands.
-
-## Ethnobotanical and Cultural Significance
-
-In traditional Southeast Asian medicine, ylang-ylang flowers are used in
-infusions for treating malaria, stomach ailments, and [[cannabis-for-skin-conditions-detailed]]. In the
-Philippines, flowers are strewn on newlywed beds and mixed with coconut oil
-as a hair treatment.
-
-In aromatherapy, the oil is classified as a nervine sedative and aphrodisiac.
-Clinical studies have demonstrated significant reductions in blood pressure and
-heart rate following ylang-ylang inhalation, supporting its traditional use
-for anxiety and stress-related conditions.
-
-## See Also
-
-- [[rosa-damascena]]
-- pelargonium graveolens
-- jasminum grandiflorum
-- [[cinnamomum-verum]]
-- [[coffea-arabica]]
-- piscidia-piscipula

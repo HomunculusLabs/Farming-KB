@@ -14,7 +14,7 @@ sources:
   - Reichstein, T. (1981). "Asplenium scolopendrium." Flora Europaea, Vol. 1.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). FNA Vol. 2.
+  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). FNA Vol. 2.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ ferns for its simple, undivided, tongue-shaped fronds, a morphology that
 contrasts sharply with the dissected fronds typical of most temperate ferns.
 
 The species has a wide distribution across Europe, North Africa, and eastern
-North America, with disjunct populations suggesting an ancient Tertiary
+[[guzman-psilocybin-mushrooms-north-america]], with disjunct populations suggesting an ancient Tertiary
 lineage. It is strongly associated with limestone substrates and calcareous
 habitats.
 
@@ -43,7 +43,7 @@ legs.
 The genus *Asplenium* is one of the largest fern genera, with approximately
 700 species worldwide. Members are characterized by linear sori covered by an
 indusium attached along one side, and often by rhizome scales with clathrate
-cell walls.
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
 Fronds are simple (entire), strap-shaped, 20–60 cm long and 4–8 cm wide, with
 wavy or undulate margins. They arise from a short, ascending rhizome covered
@@ -66,7 +66,7 @@ southern Scandinavia south to the Mediterranean, and east to the Caucasus. It
 also occurs in North Africa and in disjunct populations in [[polypore-fungi-eastern-north-america]]
 America and eastern Asia.
 
-In North America, isolated populations exist in Ontario, New York, Alabama,
+In [[berry-growing]], isolated populations exist in Ontario, New York, Alabama,
 Tennessee, and Michigan. These disjunct populations are often associated with
 limestone sinks and glacial refugia.
 
@@ -87,44 +87,3 @@ medicinal applications of the plant.
 The fronds were used as a poultice for wounds, burns, and skin ailments.
 Syrups and decoctions of the fronds were administered as an expectorant for
 coughs and respiratory complaints, and as a mild laxative.
-
-In medieval herbalism, the fern was believed to have protective properties.
-It was hung in homes to ward off evil spirits and incorporated into various
-folk remedies for digestive and hepatic disorders.
-
-The species was an official drug in several European pharmacopoeias into the
-19th century. Modern phytochemical studies have identified phenolic compounds
-and flavonoid glycosides in the fronds, providing some basis for traditional
-anti-inflammatory uses.
-
-## Cultivation
-
-Hart's-tongue fern is a popular ornamental plant valued for its bold, simple
-frond form and evergreen foliage. It is hardy to USDA Zone 5 and thrives in
-partial to full shade with moist, alkaline soil.
-
-In gardens, it requires excellent drainage despite consistent moisture needs.
-[[comparison-raised-beds-vs-hugelkultur]] amended with limestone chips or mortar rubble closely replicate its
-native calcareous habitat.
-
-Propagation is by spore or division. Spore culture is straightforward, though
-progeny may show variability. Division of established clumps in spring is the
-most reliable method for garden propagation.
-
-Several named cultivars are widely available. **'Crispum'** has deeply wavy
-frond margins. **'Cristatum'** features crested, fan-like frond tips.
-**'Kaye's'** is a compact form with undulate margins.
-
-Pests are rarely problematic. Crown rot in poorly drained soils and slugs on
-young fronds are the most common issues in cultivation.
-
-## See Also
-
-- [[asplenium-nidus]]
-- [[asplenium-trichomanes]]
-- [[cystopteris-fragilis]]
-- [[polypodium-vulgare]]
-- [[woodsia-obtusa]]
-- [[adiantum-pedatum]]
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]

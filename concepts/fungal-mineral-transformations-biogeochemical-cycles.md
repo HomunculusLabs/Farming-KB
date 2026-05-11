@@ -17,7 +17,7 @@ ecosystems. In soil, fungi can comprise the largest pool of biomass, exceeding t
 other microorganisms and invertebrates combined. Their filamentous growth habit and
 exopolymer production contribute to soil structure maintenance, while their metabolic
 versatility enables them to drive transformations of rocks, minerals, and metals that
-profoundly influence nutrient availability and contaminant mobility.
+profoundly influence [[ph-and-nutrient-availability-garden-soils]] and contaminant mobility.
 
 Gadd and colleagues advocate for a "geomycological perspective" that recognizes fungi
 as active geological agents — organisms that can weather rocks, solubilize minerals,
@@ -30,7 +30,7 @@ the fungus-mineral interface as a dynamic biochemical system.
 Fungi have been components of terrestrial [[cannabis-rhizosphere-microbial-communities]] since the Ordovician
 period (480–460 million years ago). They colonize diverse rock types including
 limestone, sandstone, marble, granite, basalt, andesite, and quartz, and are found
-across all geographical and climatic zones. Rock-dwelling fungi are classified by
+across all geographical and [[permaculture-designers-manual-climatic-zones-tropical]]. Rock-dwelling fungi are classified by
 their habitat position: epilithic (on surfaces), hypolithic (under pebbles), endolithic
 (within the rock subsurface), chasmolithic (in cracks and fissures), cryptoendolithic
 (inside cavities among crystal grains), and euendolithic (actively boring into rock).
@@ -49,19 +49,19 @@ Fungal weathering of minerals operates through two synergistic pathways: biomech
 and biochemical. Biomechanical degradation can be direct, through extensive hyphal
 penetration into decayed rock and tunnelling along crystal planes, cleavage, cracks,
 and grain boundaries. Fungal hyphae exert considerable mechanical force derived from
-osmotically generated turgor pressure within hyphae. This penetration is facilitated by
+osmotically generated [[bloomfield-turgor-pressure-and-hyphal-invasion]] within hyphae. This penetration is facilitated by
 thigmotropic reactions — directed growth toward grooves, ridges, and pores — and
 lubrication with mucilaginous slime containing acidic and metal-chelating metabolites.
 
 Indirect biomechanical weathering occurs through the shrinking and swelling effects of
 hydrated mucilage produced by many rock-colonizing fungi. While biomechanical
-processes are significant, biochemical weathering is considered the more important
+processes are significant, [[fungal-biomechanical-biochemical-weathering-mechanisms-gadd]] is considered the more important
 mechanism of mineral degradation overall.
 
 ## Biochemical Weathering: The Three Mechanisms
 
-The primary mechanisms of mineral and metal solubilization by fungi are acidolysis,
-complexolysis, and redoxolysis, all of which may be enhanced by metal accumulation in
+The primary mechanisms of mineral and [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]] by fungi are acidolysis,
+complexolysis, and redoxolysis, all of which may be enhanced by [[dighton-fungal-heavy-metal-accumulation-bioremediation]] in
 and around the fungal biomass.
 
 ### Acidolysis
@@ -88,60 +88,3 @@ Fungi can mediate redox reactions through extracellular electron transfer and th
 production of reduced metabolites that interact with oxidized mineral phases. This
 mechanism is particularly relevant for the transformation of iron and manganese
 minerals, where fungal redox activity can convert insoluble oxidized forms into more
-mobile reduced species.
-
-## Metal Immobilization and Biogenic Minerals
-
-Fungi not only solubilize minerals but also precipitate new mineral phases. Fungi are highly efficient bioaccumulators of soluble
-and particulate metals including nickel, zinc, silver, copper, cadmium, and lead.
-
-Secondary mycogenic minerals formed by fungal activity include metal carbonates and
-metal oxalates. Oxalate biomineralization is particularly significant — fungi produce
-[[fungal-calcium-oxalate-crystals]] crystals as a byproduct of oxalic acid metabolism, which can persist
-in soils and contribute to long-term carbon sequestration. These biogenic minerals
-also influence soil structure, water retention, and nutrient availability.
-
-## Fungi in Specific Elemental Cycles
-
-### The Phosphorus Cycle
-Fungal solubilization of phosphate from insoluble mineral forms is one of the most
-practically significant contributions to biogeochemical cycling. Many fungi produce
-organic acids and siderophores that dissolve [[bionutrients-lab-calcium-phosphate-calamansi]], iron phosphate, and
-aluminum phosphate minerals, converting phosphorus into plant-available forms.
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis|Arbuscular mycorrhizal fungi]] extend
-the effective depletion zone around plant roots by orders of magnitude, accessing
-phosphorus from soil volumes that roots alone cannot reach.
-
-### The Carbon Cycle
-Through saprotrophic decomposition, fungi mineralize organic carbon to carbon dioxide,
-returning carbon to the atmosphere and making nutrients locked in organic matter
-available for plant uptake. [[saprotrophic-fungi|Saprotrophic fungi]] with different
-ecological strategies exhibit different patterns of carbon use, as revealed by natural
-abundance measurements of carbon-13 isotopes.
-
-### Metal and Contaminant Cycling
-Fungi influence the mobility and bioavailability of both essential and toxic metals.
-They can transform metal speciation through redox reactions, precipitate metals as
-insoluble compounds, or solubilize metal-bearing minerals. These capabilities have
-implications for bioremediation of contaminated soils and for understanding the
-fate of metals in natural ecosystems. Fungal tolerance mechanisms include
-sequestration, efflux, and extracellular complexation.
-
-## Practical Implications
-
-Understanding fungal roles in mineral transformation has practical implications for
-agriculture, forestry, bioremediation, and conservation. Management practices that
-support [[biodiversity-of-fungi-soil-fungal-communities-agriculture|soil fungalbiodiversity]] — including [[comparison-no-till-vs-reduced-tillage]], organic amendments, and cover cropping —
-enhance the geomycological services that fungi provide. In bioremediation, fungi can
-be deployed to immobilize toxic metals or to solubilize and recover valuable metals
-from waste materials. The conservation of rock-colonizing fungal communities is also
-important for the preservation of cultural heritage stone and building materials.
-
-## Sources
-- Gadd, G.M., Burford, E.P., Fomina, M. & Melville, K. (2006). "Mineral
-  transformations and biogeochemical cycles: a geomycological perspective." In Gadd,
-  G.M., Watkinson, S.C. & Dyer, P.S. (Eds.), *Fungi in the Environment*, pp. 77–98.
-  Cambridge University Press.
-- Burford, E.P., Fomina, M. & Gadd, G.M. (2003). "Fungal involvement in bioweathering
-  and mineral transformations." *Mycol. Res.* 107: 598–605.
-- Gadd, G.M. (2004). "Mycovermetal interactions." *Mycol. Res.* 108: 1–6.

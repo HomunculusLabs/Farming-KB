@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,9 +88,3 @@ pesticide costs entirely. When the full input costs of conventional farming
 -- [[cervantes-chemical-fertilizers-guide]], pesticides, herbicides, fuel for machinery, and
 irrigation pumping -- are subtracted from gross revenue, the natural farming
 approach often proved more profitable per unit area despite slightly lower
-gross yields. Barley yields in the rotation typically ranged from 11-13
-bushels per quarter-acre, adequate for farm family consumption. Critics note
-that yield comparisons are sensitive to local conditions and may not transfer
-directly from humid subtropical Japan to temperate or tropical climates.
-
-- [[fukuoka-water-management]]

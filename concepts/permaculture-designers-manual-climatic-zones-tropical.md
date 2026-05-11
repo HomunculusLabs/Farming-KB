@@ -88,33 +88,5 @@ work best at small scale with close human attention.
 - Mangroves at river mouths and low coasts
 ### Design Essentials
 Similar to wet-dry tropics, with emphasis on:
-- Water storage for the long dry season
-- Shelterbelts for hot dry winds
-- Multiple water sources (dams, tanks, wells)
-- Building design for monsoon rain (steep roofs, wide eaves, good
-  drainage)
-## Tropical Soils and Restoration
-### Key Soil Problems
-- Old, deeply leached soils (not renewed by glaciation)
-- Low silica and calcium supply
-- Aluminium ions substitute for silica in clays
-- Once cleared, humic particles leach to 30% of prior levels
-### Restoration Strategies
-1. **Restore humus** with green crop and perennials (especially Leucaena
-   and tree legumes); grow plants with intercrop to avoid cultivation
-   losses
-2. **Add small quantities of superphosphate** at frequent intervals; use
-   fine crushed basalt, cement powder, and shredded bamboo or cane mulches
-   for silica and calcium
-3. **Light, frequent fertiliser applications** at 6-week intervals;
-   substitute perennial for annual crop; never practice frequent
-   cultivation
-4. **Use basalt, cement powder, coral, and bamboo mulch** to supply
-   essential nutrients and increase soil pH
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - Arid zone design
-- [[permaculture-designers-manual-reference-trees]] - Tropical species
-  reference
-- [[permaculture-designers-manual-village-design]] - Village development
-- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]
-  - Grassland rehabilitation techniques
+
+See also [[permaculture-designers-manual-island-climate]] for related information from the Permaculture Designer's Manual.

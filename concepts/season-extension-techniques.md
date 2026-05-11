@@ -16,7 +16,7 @@ Season extension refers to any technique that allows you to start growing earlie
 - **More harvests**: Start spring crops earlier and fall crops later, potentially adding 2-4 months to your growing season.
 - **Year-round production**: With sufficient protection, cold-hardy crops can be harvested through winter in most climates.
 - **Frost protection**: A single unexpected frost can destroy months of growth. Protection structures prevent this.
-- **Succession planting**: Extended seasons allow more successive plantings of quick-maturing crops.
+- **[[coleman-succession-planting]]**: Extended seasons allow more successive plantings of quick-maturing crops.
 - [[seasonal-planning]] covers the calendar approach to planning extended seasons.
 
 ## Cold Frames
@@ -74,7 +74,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 ### Construction
 
 - **Hoops**: 1/2 inch PVC, #9 wire, or galvanized electrical conduit bent into arches. Space 3-5 feet apart.
-- **Cover**: 6 mil greenhouse plastic (for cold protection) or row cover fabric (for insect protection or light frost).
+- **Cover**: 6 mil [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] (for cold protection) or row cover fabric (for insect protection or light frost).
 - **Anchoring**: Secure plastic by burying edges in soil or using sandbags. For PVC hoops, use pipe clips or wiggle wire channels.
 
 ### Uses
@@ -82,7 +82,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 - Early spring planting of warm-season crops (tomatoes, peppers, melons)
 - Fall extension for warm-season crops
 - Winter growing of cold-hardy crops
-- Overwintering perennial vegetables and herbs
+- Overwintering [[perennial-vegetables-and-edible-perennial-crops]] herbs
 
 ### Temperature Management
 
@@ -92,7 +92,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 
 ## High Tunnels (Hoop Houses)
 
-High tunnels are large, walk-in hoop structures covered with polyethylene plastic. They are not heated (unlike greenhouses) but provide significant season extension through passive solar heating and wind protection.
+High tunnels are large, walk-in hoop structures covered with polyethylene plastic. They are not heated (unlike greenhouses) but provide significant season extension through [[mollison-designers-passive-solar-heating-building-design]] and wind protection.
 
 ### Typical Specifications
 
@@ -143,7 +143,7 @@ Succession planting is the practice of staggering plantings of the same crop at 
 - **Same crop, staggered dates**: Plant lettuce, beans, radishes, or carrots every 2-3 weeks.
 - **Same space, different crops**: Follow a spring crop (peas) with a summer crop (beans) and then a fall crop (garlic).
 - **Relay cropping**: Plant a second crop before the first is finished (intercropping with a time gap).
-- **Variety selection**: Plant early, mid, and late-season varieties of the same crop.
+- **[[coleman-winter-greens-variety-selection]]**: Plant early, mid, and late-season varieties of the same crop.
 
 ### Planning
 

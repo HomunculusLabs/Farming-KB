@@ -1,5 +1,5 @@
 ---
-title: "Trichocereus trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] Cultivation and Chemistry"
+title: Trichocereus Mescaline Cacti San Pedro Peruvian Torch
 source: "halpern-m-hallucinogens-dissociative-agents-growing-in-us.md"
 tags: [trichocereus, mescaline, san-pedro, peruvian-torch, cacti, psychotropic-plants, cultivation]
 created: 2026-05-08

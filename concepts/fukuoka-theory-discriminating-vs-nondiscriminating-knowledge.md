@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Theory - fukuoka theory discriminating vs nondiscriminating knowledge Knowledge
+title: Fukuoka Theory Discriminating Vs Nondiscriminating Knowledge
 created: 2026-04-28
 tags:
   - fukuoka
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -23,7 +24,7 @@ fundamental distinction between two modes of understanding: discriminating
 knowledge and nondiscriminating knowledge. This epistemological framework
 is not merely abstract philosophy but has direct practical consequences
 for how one approaches farming. Fukuoka argues that the entire edifice of
-modern agricultural science rests on discriminating knowledge, which
+modern [[fukuoka-critique-laws-agricultural-science]] rests on discriminating knowledge, which
 fundamentally misunderstands the nature of the natural world. Only by
 moving beyond discrimination to nondiscriminating awareness can one
 practice true [[comparison-natural-farming-vs-permaculture]].
@@ -40,7 +41,7 @@ human judgments imposed on a continuous, undivided reality.
 This discriminatory tendency extends directly into agricultural practice.
 Scientists and farmers break the natural world into discrete factors:
 soil chemistry, water availability, sunlight hours, nutrient levels,
-pest populations, disease pressure. Each factor is isolated, measured,
+[[query-how-do-parasitoid-wasps-control-pest-populations]], disease pressure. Each factor is isolated, measured,
 and manipulated as if it existed independently. Fukuoka argues this is
 a fundamental error because the factors of production are infinite in
 number and organically interrelated. None exerts a controlling influence
@@ -48,7 +49,7 @@ on its own, and each ceases to have meaning when isolated from the whole.
 
 The result is what Fukuoka calls "research that attempts to find meaning
 in something from which it has wrested all meaning." Science studies
-isolated factors in controlled conditions, but isolation itself destroys
+isolated factors in [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]], but isolation itself destroys
 the very relationships that make those factors meaningful.
 
 ## Nature as Undivided Unity
@@ -71,7 +72,7 @@ encompasses and transcends all such distinctions.
 
 Fukuoka illustrates the superiority of nondiscriminating knowledge
 through a striking comparison. The scientist knows that starch is
-produced within the leaf by photosynthesis from carbon dioxide and
+produced within the leaf by photosynthesis from [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and
 water with the aid of chlorophyll, and that the plant grows with the
 energy released by the oxidation of this starch. But does this
 scientist know more about light and air than the farmer who thinks the
@@ -87,18 +88,3 @@ light.
 
 Similarly, the soil scientist explains that [[fukuoka-textdoc-crops-grow-own-accord-independence-fertilizer]] under the effects
 of water and nutrients, but what he has in his laboratory is dead,
-mineral soil, not [[do-nothing-farming]]": not because no activity occurs, but
-because the farmer refrains from the discriminating interventions that
-characterize [[fukuoka-critique-scientific-agriculture-civilization]].
-
-## Connection to Broader Fukuoka Philosophy
-
-This epistemological distinction connects to every other aspect of
-Fukuoka's thought. His rejection of causal explanations in agriculture,
-his argument that diseases are nature's self-defense, and his vision of
-farming as a spiritual practice all flow from this fundamental
-## See Also
-
-- [[fukuoka-microbes-soil-health-discriminating-knowledge]]
-
-- [[fukuoka-theory-three-ways-of-farming]]

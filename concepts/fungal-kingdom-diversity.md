@@ -1,5 +1,5 @@
 ---
-title: [[fungal-kingdom-overview]] Diversity
+title: Fungal Kingdom Diversity
 created: 2026-04-28
 tags: [mycology, taxonomy, biodiversity, fungi]
 date: 2026-04-28
@@ -17,7 +17,7 @@ type: concept
 Fungal diversity is not uniformly distributed across the globe but
 follows distinct patterns related to climate, habitat type, and
 biogeographic history:
-- Tropical forests harbor the highest estimated fungal species
+- [[fungal-biodiversity-tropical-forests]] harbor the highest estimated fungal species
   richness, with some individual tree canopies supporting hundreds
   of fungal species across endophyte, epiphyte, and saprotroph
   guilds in a single host tree
@@ -30,9 +30,9 @@ biogeographic history:
 - Soil fungal communities change predictably along elevation
   gradients, with decreasing diversity and shifts in dominant
   functional groups from lowland to alpine zones
-- Aquatic environments, including freshwater streams, marine
+- [[fungal-roles-aquatic-environments]], including freshwater streams, marine
   sediments, and wetlands, host specialized fungal communities
-  ( chytrids, aquatic hyphomycetes) that are chronically
+  ( chytrids, [[aquatic-hyphomycetes-and-ingoldian-spores]]) that are chronically
   undersampled relative to terrestrial habitats
 
 ## Fungal Life Strategies
@@ -72,15 +72,15 @@ most significant knowledge gaps in modern biology:
 - Advances in single-cell genomics and metagenome-assembled genomes
   are beginning to illuminate the biology of unculturable fungal
   taxa that have been invisible to traditional study methods
-- Citizen science initiatives and fungal biodiversity surveys in
-  underexplored regions continue to add new species descriptions,
+- [[citizen-science-fungal-biodiversity-discovery]] initiatives and fungal biodiversity surveys in
+  [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]] continue to add new species descriptions,
   though the rate of formal description lags far behind the rate
   of molecular discovery
 
 ## Fungi in Biotechnology and Medicine
 
 The chemical and enzymatic diversity of the fungal kingdom
-underpins numerous industrial and medical applications:
+underpins numerous industrial and [[oner-sativa-medical-applications]]:
 - The discovery of penicillin from Penicillium notatum launched the
   antibiotic era, and fungi continue to yield new antimicrobial
   compounds as drug resistance renders existing treatments obsolete
@@ -88,10 +88,3 @@ underpins numerous industrial and medical applications:
   revolutionized cardiovascular medicine and remain among the most
   widely prescribed pharmaceuticals globally
 - Fungal enzymes including cellulases, amylases, proteases, and
-  lipases are essential to food processing, textile manufacturing,
-  biofuel production, and detergent formulations
-- Industrial fermentation with Saccharomyces cerevisiae and other
-  fungal species produces ethanol, organic acids, vitamins, and
-  recombinant proteins for biopharmaceutical applications
-- [[fungal-endemism-and-biogeography]]
-- [[mycorrhizal-network-diversity]]

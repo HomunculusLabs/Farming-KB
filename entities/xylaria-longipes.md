@@ -58,7 +58,7 @@ antagonistic activity.
 - [[xylaria-polymorpha|Xylaria polymorpha]]
 - [[trametes-versicolor-entity]]
 - [[gymnopus-dryophilus]]
-- [[coprinellus-micaceus]]](coprinellus-micaceus.md)
+- [[coprinellus-micaceus]](coprinellus-micaceus.md)
 
 ## Practical Considerations
 

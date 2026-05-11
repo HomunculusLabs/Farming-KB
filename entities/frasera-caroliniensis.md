@@ -20,11 +20,11 @@ sources:
 
 **Frasera caroliniensis** Walter, commonly known as American columbo or deer's ear, is a large monocarpic perennial in the family Gentianaceae.
 
-It is native to eastern North America, from southern Ontario and New York south to Georgia and west to Missouri. The genus *Frasera* is named after the Scottish plant collector John Fraser (1750–1811).
+It is native to [[polypore-fungi-eastern-north-america]], from southern Ontario and New York south to Georgia and west to Missouri. The genus *Frasera* is named after the Scottish plant collector John Fraser (1750–1811).
 
-The species spends 4–15 years as a basal rosette before producing a single towering flowering stalk up to 2.5 meters tall. After flowering and seed set, the entire plant dies, making it one of the most dramatic monocarpic species in the North American flora.
+The species spends 4–15 years as a basal rosette before producing a single towering flowering stalk up to 2.5 meters tall. After flowering and seed set, the entire plant dies, making it one of the most dramatic monocarpic species in the [[growing-gourmet-north-american-reishi-species]] flora.
 
-American columbo has a long history of use in folk medicine as a bitter tonic. The roots contain secoiridoid glycosides similar to those found in *Gentiana lutea*, though at lower concentrations.
+American columbo has a long history of use in folk medicine as a bitter tonic. The roots contain secoiridoid glycosides similar to those found in *[[gentiana-lutea]]*, though at lower concentrations.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ Each flower has a nectary gland at the base of each corolla lobe, ringed by a di
 
 ## Distribution and Habitat
 
-Frasera caroliniensis occurs in rich, mesic deciduous forests across eastern North America. Its range extends from southern Ontario through the Appalachian region to northern Georgia and Alabama.
+Frasera caroliniensis occurs in rich, mesic deciduous forests across eastern North America. Its range extends from southern Ontario through the [[bolete-fungi-appalachian-region]] to northern Georgia and Alabama.
 
 The species is most common in the Ohio River Valley, the southern Great Lakes region, and the central Appalachians. Outlying populations occur in the Ozarks of Missouri and Arkansas.
 
@@ -74,47 +74,16 @@ Flowers are pollinated by a variety of insects including beetles, flies, and sma
 
 Seed output per plant ranges from 5,000 to 20,000 seeds.
 
-Seeds require cold stratification and germinate at low rates (typically 5–15%), contributing to the species' naturally sparse populations. The low germination rate is partially offset by the enormous seed production per individual.
+Seeds require cold stratification and germinate at low rates (typically 5–15%), contributing to the species' naturally sparse populations. The low germination rate is partially offset by the enormous [[cannabis-controlled-pollination-seed-production]] per individual.
 
 After seed set, the flowering stalk and entire root system die. The root becomes soft and decomposes rapidly, returning stored nutrients to the soil. This nutrient pulse may benefit neighboring plants.
 
 ## Traditional and Modern Uses
 
-Native American peoples, including the Cherokee and Iroquois, used the roots of American columbo as a bitter tonic and digestive aid. The plant was also employed to treat fevers and gastrointestinal ailments.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples, including the Cherokee and Iroquois, used the roots of American columbo as a bitter tonic and digestive aid. The plant was also employed to treat fevers and gastrointestinal ailments.
 
 European settlers adopted the plant into folk medicine, and by the 19th century it was widely traded as a bitter herb. The root was dried and used similarly to imported gentian root (*Gentiana lutea*).
 
 Phytochemical analyses have confirmed the presence of gentiopicroside, sweroside, and amarogentin in the roots.
 
 However, concentrations are significantly lower than in commercial gentian species. Total secoiridoid glycoside content is approximately 0.5–1% of dry root weight, compared to 2–4% in *Gentiana lutea*.
-
-The species has largely fallen out of modern herbal use, supplanted by more potent and readily available gentian preparations.
-
-No commercial pharmaceutical products are derived from *F. caroliniensis*. The root is occasionally available from specialty herb suppliers in the Appalachian region.
-
-## Conservation
-
-Frasera caroliniensis is listed as Endangered or Threatened in several northeastern states including New York, Pennsylvania, and Ohio. The species has declined due to habitat loss from urbanization, agriculture, and forest succession.
-
-Deer herbivory poses a significant threat, as white-tailed deer readily consume the large basal rosettes. Heavy deer browsing can prevent plants from reaching flowering size, effectively eliminating reproduction.
-
-The species' monocarpic life cycle makes populations vulnerable to disturbance.
-
-If flowering plants are lost before seed set, years of accumulated growth are wasted with no reproductive output. Timber harvesting during the flowering year can eliminate an entire cohort.
-
-Conservation efforts include protection of known populations on public lands, deer exclosure fencing around critical sites, and attempts at seed banking.
-
-Reintroduction trials are underway in Ohio and Pennsylvania. These trials face challenges from the species' long juvenile period and low germination rates. Transplanting rosette-stage plants from nursery stock has shown better success than direct seeding.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[gentiana-clusii]]
-- [[gentiana-macrophylla]]
-- [[gentiana-verna]]
-- [[gentiana-pneumonanthe]]
-- [[exacum-affine]]
-- [[gentiana-triflora]]
-- [[gentiana-ciliata]]

@@ -87,16 +87,3 @@ The species is susceptible to [[blesching-cannabis-fungal-infections-candida]] (
 The flesh fly (*Fletcherimyia fletcheri*) and the midge (*Metriocnemus knabi*) are obligate inhabitants of *Sarracenia* pitchers. The larvae feed on captured prey and contribute to decomposition, facilitating nutrient absorption by the plant.
 
 The plant provides habitat for several species of conservation concern. The bog-dwelling *Hine's emerald dragonfly* (*Somatochlora hineana*) and the pine barrens treefrog (*Hyla andersonii*) occur in habitats shared with *S. leucophylla*.
-
-As a component of Gulf Coast pitcher plant bogs, *S. leucophylla* contributes to ecosystem diversity. These wetlands support high concentrations of endemic plant and invertebrate species.
-
-The species is pollinated primarily by bees, which are attracted to the large, nectar-producing flowers. The umbrella-shaped stigma catches pollen from visiting insects, facilitating cross-pollination.
-
-Fire plays a critical ecological role by removing competing woody vegetation, stimulating new pitcher growth, and maintaining the open canopy conditions the species requires. Fire-return intervals of 1–5 years are optimal.
-
-## See Also
-
-- [[sarracenia-flava]]
-- [[drosera-capensis]]
-- [[nepenthes-rajah]]
-- [[pollinator-habitat]]

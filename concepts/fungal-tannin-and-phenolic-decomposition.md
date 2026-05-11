@@ -88,20 +88,3 @@ nitrogen locked within tannin-protein complexes. This adaptation is
 critical for plant nutrition in acidic, phenolic-rich heathland soils
 where decomposition by free-living saprotrophs is severely limited.
 ## Factors Affecting Phenolic Decomposition Rates
-Environmental conditions strongly influence rates of fungal phenolic
-decomposition. Temperature affects enzyme kinetics, with warmer
-conditions accelerating phenolic degradation. Soil moisture is critical,
-as both enzyme diffusion and substrate availability require aqueous
-films. pH affects the ionization state of phenolic compounds and the
-activity of fungal enzymes. The nitrogen status of the decomposing
-resource also influences phenolic degradation. Fungi require nitrogen
-for enzyme production, and nitrogen limitation can constrain investment
-in costly enzyme systems needed for phenolic degradation, creating a
-positive feedback where phenolic-rich, nitrogen-poor litter decomposes
-very slowly.
-## Related Concepts
-- [[fungal-saprotrophic-enzymatic-strategies]]
-- [[fungal-allelopathy-mechanisms-and-ecological-effects]]
-- [[fungal-decomposition-succession-resource-quality]]
-- fungal-enzyme-systems-and-nutrient-cycling
-- [[ericoid-mycorrhiza-heathland-ecosystems]]

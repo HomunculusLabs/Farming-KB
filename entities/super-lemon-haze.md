@@ -6,6 +6,7 @@ tags: [cannabis, sativa-dominant, hybrid, citrus, psychedelic-adjacent]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "https://www.leafly.com/strains/super-lemon-haze"
   - "https://en.wikipedia.org/wiki/Super_Lemon_Haze"
   - "https://www.allbud.com/super-lemon-haze/strain"
@@ -87,36 +88,3 @@ Effects begin within 2–5 minutes of inhalation and last approximately
 - Increased energy and alertness without jitteriness
 - Heightened sensory perception (music, visuals, taste)
 - Mild body relaxation that doesn't compromise functionality
-### Medical Applications
-- **Depression**: Uplifting effects beneficial for mild-to-moderate symptoms
-- **Fatigue**: Stimulating sativa profile useful for daytime fatigue
-- **Anxiety**: Limonene-dominant profile may provide anxiolytic benefits,
-  though higher doses can be counterproductive for some users
-- **[[cannabis-chronic-pain-management]]**: Moderate analgesic properties from caryophyllene and
-  myrcene content
-- **ADHD**: Some patients report improved focus (anecdotal, not validated)
-- **Nausea**: Anti-emetic effects consistent with sativa-dominant strains
-### Potential Adverse Effects
-- Dry mouth and dry eyes (common with most cannabis)
-- Mild paranoia or anxiety at higher doses (dose-dependent)
-- Occasional dizziness or lightheadedness on standing
-- Insomnia if consumed too late in the evening
-## Awards and Recognition
-- **2008 High Times Cannabis Cup**: 1st Place — Best Sativa (Green House)
-- **2009 High Times Cannabis Cup**: 1st Place — Best Sativa (Green House)
-- **2009 IC 420 Growers Cup**: Recognized for exceptional terpene profile
-- Multiple "Strain of the Year" mentions in cannabis publications
-## Genetic Relatives and Crosses
-Super Lemon Haze has been used as a parent or genetic contributor to
-numerous subsequent cultivars:
-- **Lemon Haze** (simpler backcross variation)
-- **Super Lemon OG** (SLH × OG Kush)
-- **Blackberry Lemon Haze** (SLH × Blackberry Kush)
-- **Kosher Lemon Haze** (SLH × Kosher Kush)
-## See Also
-
-- [[lemon-haze]]
-- [[sour-diesel]]
-- [[blue-dream]]
-- [[myrcene]]
-- [[cannabis-sativa]]

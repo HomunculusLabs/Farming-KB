@@ -88,13 +88,3 @@ Psilocybe caerulea is not specifically named in drug scheduling in
 most jurisdictions. However, as a member of the genus Psilocybe, it
 falls under broader legal frameworks controlling psilocybin-containing
 fungi. In the United Kingdom, the Misuse of Drugs Act 1971 covers any
-material containing psilocybin or psilocin. In the United States,
-psilocybin and psilocin are Schedule I substances, and all Psilocybe
-species are presumed to contain controlled substances. The Netherlands
-banned the sale of all psilocybin-containing mushrooms since 2008.
-
-## See Also
-- [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-stuntzii]]
-- [[psilocybe-semilanceata]]
-- [[nymphaea-caerulea]]

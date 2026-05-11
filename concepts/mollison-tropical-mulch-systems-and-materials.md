@@ -1,5 +1,5 @@
 ---
-title: "mollison tropical mulch systems and materials Systems and Materials in bill-mollison-permaculture-a-designers-manual-permaculture-design-principles"
+title: Mollison Tropical Mulch Systems And Materials
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 
 Mulch provision is the cornerstone of [[mollison-tropical-home-garden-design]] gardens,
 and green mulch and tree legumes are the essential accompaniment
-of main crops and tree crops. Bill Mollison devotes considerable
+of main crops and [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]. [[bill-mollison]] devotes considerable
 attention to the diverse sources and applications of mulch in
 the humid and wet-dry tropics, arguing that no crop or tree
 suited to its locality fails to grow and thrive in mulch, and
@@ -28,7 +29,7 @@ yield under thick mulch conditions.
 ## The Central Role of Mulch
 
 Every type of organic mulch increases yields. The value of
-surface mulch in weed suppression is a major factor in lowering
+surface mulch in [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]] is a major factor in lowering
 garden work. Mollison advises that any mulch should be thickly
 applied 20-25 cm (8-10 inches) deep when first establishing
 home gardens. Later mulch can be derived from green herbage
@@ -80,69 +81,10 @@ All hedgerow species are nearly continual mulch sources.
 Hibiscus, Casuarina, banna grass, palms, and leguminous trees
 such as Gliricidia, Acacia, and Prosopis provide regular cut
 mulch. Lower garden windbreak species, especially lemongrass
-(Cymbopogon citratus) and comfrey (Symphytum officinale),
+([[cymbopogon-citratus]]) and comfrey ([[comfrey-symphytum-officinale]]),
 are as useful in preventing kikuyu grass intrusion as they are
 for repetitive cutting for mulch in the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]].
 
 ## Legume Ground Covers
 
 Soft legumes such as Sesbania, vetch, Haifa clover, cowpea,
-lablab bean, soya bean, Desmodium, Suratro, and Centrosema
-can be slashed or interplanted with grains to give a
-nitrogenous ground cover, aiding in the suppression of grasses.
-Lablab dies down just before grains ripen in the winter dry
-season. Nasturtium, comfrey, marigolds, tobacco plants, and
-the tops of mature taro plants not only suppress grass but
-provide a constant source of slash mulch.
-
-## Crop Yield Responses to Mulch
-
-Research by B.N. Okigbo and R. Lal in Nigeria demonstrated
-that no-tillage systems maintained or gained yields for maize,
-and increased yields from mulched crop for cowpea, soya bean,
-and cassava. Maize showed a marked positive response to legume
-straws or waterplant (Pistia) mulch. Legumes responded well
-to grass and sawdust mulch, and cassava to both legume and
-grain husk wastes.
-
-## Managing Difficult Mulch
-
-Species such as hibiscus, Lantana, and weeds that resprout
-from cuttings or seed can be routed through poultry or cattle
-pens (where seeds are removed and foliage eaten). They can be
-shredded for [[biogas-digester-basics]] in biogas plants, bagged in
-plastic bales exposed to sun (cooking to weed-free silage), or
-immersed to rot in covered water pits. Pigs eliminate nut
-grasses, rhizomes, bulbs, and sedges that resprout from
-compost.
-
-## Coconut Husks and Fronds
-
-Coconut husks have many uses, not least as mulch for valued
-crops such as vanilla orchids. Their one drawback is holding
-small sections of water that breed mosquitoes. On many islands,
-coconut husks and palm fronds can be shredded to a first-class
-mulch of high potash value, burned and steamed to activated
-filter charcoal, or used as solid fuel. Shredded bark and
-broken shells are ideal mulches for ginger, turmeric, and
-vines.
-
-## Special Mulch Applications
-
-Pine and legume mulch may benefit the growth of bromeliads
-(pH 4-5). Buckwheat and nut husks serve to raise the pH of
-garden soils, as do many bark mulches. For fire control, it
-pays to rake under bamboo and clump canes, and re-route leaf
-mulch through animal bedding or poultry strawyards. There is
-absolutely no excuse for burning any organic wastes in the
-tropics, as even large logs quickly rot under the onslaught
-of fungi, termites, and beetle larvae.
-
-## See Also
-
-- mollison-tropical-soils-and-granitic-sands
-- permaculture-designers-manual-tropical-climates
-- [[mollison-animal-integration-permaculture-design]]
-- [[mollison-mulch-materials-sources-and-tropical-application]]
-- [[permaculture-design]]
-- [[symphytum-officinale]]

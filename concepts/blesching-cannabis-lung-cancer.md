@@ -1,5 +1,5 @@
 ---
-title: Cannabis and psk-breast-lung-cancer-clinical-trials
+title: Blesching Cannabis Lung Cancer
 created: 2026-04-26
 tags:
   - cannabis
@@ -19,8 +19,8 @@ type: concept
 ## Overview
 
 Historically, lung cancer was a rare diagnosis until it emerged as a major
-killer with the industrial revolution, the introduction of cigarettes, and
-increasing air pollution levels (exhaust, asbestos, coal dust, soot). Lung
+killer with the [[mckenna-caffeine-coffee-and-industrial-revolution]], the introduction of cigarettes, and
+increasing [[air-pollution-fungal-community-responses]] levels (exhaust, asbestos, coal dust, soot). Lung
 cancer is now the number-one cancer and leading fatal cancer in the world; some
 types are highly aggressive and resistant to allopathic treatments. Diagnosis
 consists of chest x-rays and biopsies, and treatment is limited to
@@ -33,7 +33,7 @@ the cannabinoid THC itself may actually help [[query-how-do-i-identify-prevent-a
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 4
-- CHI Value: 7
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 7
 
 ## Research Evidence
 
@@ -74,7 +74,7 @@ cells, suggesting cannabinoids may reduce metastatic potential.
 | THC | Animal + lab tests (mice) | 2008, Harvard: Lung cancer cells contain CB1/CB2; significant inhibition of tumor growth and metastasis | 3 |
 | Methanandamide + THC | Laboratory (human lung cancer cells) | 2008, Rostock, Germany: Decrease in tumor cell invasiveness | 1 |
 | Cannabis use survey | 2,252 human subjects | 2006, Lyon, France: No association between lung cancer and long-term cannabis use | N/A |
-| Delta-9-THC, delta-8-THC, CBN, CBD | Animal (mice) + lab | 1975, Virginia Commonwealth Univ: THC and CBN retarded growth, reduced tumor size, increased survival | 3 |
+| Delta-9-THC, [[delta-8-thc]], CBN, CBD | Animal (mice) + lab | 1975, Virginia Commonwealth Univ: THC and CBN retarded growth, reduced tumor size, increased survival | 3 |
 
 ## Strain-Specific Considerations
 
@@ -88,32 +88,3 @@ indicas tend to have a lower THC:CBN ratio, which may favor CB2 activation.
 ## Complementary Approaches
 
 ### Clove
-A study from Kolkata, India, found that aqueous solution of clove produced
-apoptosis of lung cancer cells in mice and contains other cancer-protective
-properties.
-
-### Myrrh
-Myrrh's antiseptic, anesthetic, and anti-tumor properties are attributed to
-furanosesquiterpene. Guggulsterone from Commiphora mukul was shown to produce
-apoptosis in multiple cancer types including lung carcinoma, leukemia,
-melanoma, breast carcinoma, and ovarian carcinoma. It also inhibited
-proliferation of drug-resistant cancer cells.
-
-## Mind-Body Medicine
-
-Lung cancer affects males significantly more than females. Research has
-explored links between personality constructs and lung cancer development.
-Scientists found that "Some psychosocial variables, like rationality and
-anti-emotionality, or long-lasting hopelessness, were about as relevant as the
-strongest organic predictors." Another study found predictable conditions
-including "low expression of anxiety, and unfulfilled need for closeness."
-
-Breathing in and breathing out -- taking life in and letting it go -- can
-become a painful process. The feelings around lung cancer symptoms may reflect
-judged emotions and stifled expressions.
-
-## See Also
-
-- [[blesching-cannabis-copd]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabinoid-pharmacology]]

@@ -88,22 +88,3 @@ The species has limited modern economic value. It is occasionally used in native
 ## Cultivation
 
 Gaylussacia dumosa is rarely cultivated commercially but can be grown as an ornamental groundcover for acidic, sandy gardens. Its low stature, evergreen foliage, and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for rock gardens and native plantings.
-
-Propagation is most successful from division of established colonies, taking advantage of the extensive rhizome system. Softwood cuttings root at moderate rates (40–60%) under mist, and seed germination requires cold stratification for 60–90 days.
-
-Plants require full sun to partial shade and acidic sandy soils. Established plants are highly drought-tolerant and require minimal supplemental irrigation once established. No serious pests or diseases have been documented.
-
-Spacing for groundcover plantings is 0.6–1.0 meters. Full ground coverage typically develops within 2–3 years from division planting, as the rhizome system expands laterally.
-
-The species is highly tolerant of prescribed fire, resprouting vigorously from rhizomes within weeks of burning. This fire resilience makes it a reliable component of ecological restoration in fire-dependent pine ecosystems.
-
-## See Also
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-arboreum]]
-- [[vaccinium-uliginosum]]
-- [[vaccinium-fuscatum]]
-- gaultheria-procumbens
-- [[oxydendrum-arboreum]]
-- [[vaccinium-vitis-idaea]]

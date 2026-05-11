@@ -88,28 +88,3 @@ innovative SMS recycling programs:
 ## Reuse in Mushroom Cultivation
 
 SMS can be recycled for additional mushroom cultivation cycles. Research has
-shown that spent substrate from [[agaricus-bisporus]] cultivation.
-
-## Economic Considerations
-
-Recycling SMS provides significant economic benefits for mushroom growers.
-Rather than paying disposal costs for waste material, growers can generate
-additional income through feed sales, fertilizer products, or bioremediation
-services. In regions where agricultural fertilizers are expensive, SMS offers
-a cost-effective alternative that also improves soil health over time.
-
-The integration of mushroom cultivation with animal husbandry and crop
-production creates diversified farming systems that are more resilient to
-market fluctuations and environmental stresses. These integrated biosystems
-represent the future of sustainable agriculture in both developing and
-developed countries.
-
-## See Also
-
-- spent-mushroom-substrate-recycling
-
-- Oyster Mushroom Sustainability
-- Oyster Mushroom Economic Development
-- [[oyster-straw-substrate-preparation]]
-- Oyster [[cotter-mushroom-nutrition-medicinal-compounds]]
-- Oyster Post-Harvest Handling

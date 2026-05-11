@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [jadam, pesticide, pest-control, chemistry]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 
@@ -86,10 +87,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

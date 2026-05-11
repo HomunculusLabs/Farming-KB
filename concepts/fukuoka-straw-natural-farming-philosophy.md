@@ -2,7 +2,7 @@
 title: Fukuoka's Philosophy of comparison-natural-farming-vs-permaculture
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, The Natural Way of Farming"
+sources: "masanobu-fukuoka, The Natural Way of Farming"
 wikilinks: "fukuoka-straw-four-principles fukuoka-straw-rice-without-plowing fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-healing-the-earth"
 type: concept
 tags: [fukuoka, natural-farming]
@@ -12,11 +12,11 @@ tags: [fukuoka, natural-farming]
 
 ## The Foundation: Nature Free of Human Meddling
 
-Natural farming is based on a nature free of human meddling and intervention.
+[[natural-farming]] is based on a nature free of human meddling and intervention.
 It strives to restore nature from the destruction wrought by human knowledge
 and action, and to resurrect a humanity divorced from God. Fukuoka spent fifty
 years wandering in search of nature, discovering that natural farming is the
-methodless method of nature, the unmoving way of Bodhidharma.
+[[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] of nature, the unmoving way of Bodhidharma.
 
 Although appearing fragile and vulnerable, natural farming is potent for it
 brings victory unfought. It is a Buddhist way of farming that is boundless and
@@ -28,7 +28,7 @@ convergent.
 
 We often speak of "producing food," but farmers do not produce the food of
 life. Only nature has the power to produce something from nothing. Farmers
-merely assist nature. Modern agriculture, by contrast, is just another
+merely assist nature. [[fukuoka-critique-modern-agriculture]], by contrast, is just another
 processing industry that uses oil energy in the form of fertilizers, pesticides,
 and machinery to manufacture synthetic food products which are poor imitations
 of natural food. The farmer today has become a hired hand of industrialized
@@ -50,7 +50,7 @@ to live in concert with nature, free of plans, designs, and effort.
 
 ## The Living Biosystem Cannot Be Dissected
 
-The living and holistic biosystem that is nature cannot be dissected or
+The living and [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]] that is nature cannot be dissected or
 resolved into its parts. Once broken down, it dies. Or rather, those who break
 off a piece of nature lay hold of something that is dead, and, unaware that
 what they are examining is no longer what they think it to be, claim to
@@ -77,7 +77,7 @@ hand of man.
 
 ## Natural Farming vs. Scientific Farming
 
-When we compare natural farming and scientific farming graphically, we can
+When we compare [[korean-natural-farming]] scientific farming graphically, we can
 right away appreciate the differences. Scientific farming breaks away from
 nature with the expansion of human wants and desires; it is centripetal and
 divergent. Because this outward expansion cannot be stopped, scientific farming
@@ -88,33 +88,3 @@ labor-saving.
 
 Natural farming produces 130 pounds of rice -- or 200,000 kilocalories of
 energy -- per man-day of labor, without the input of any outside materials.
-This is about 100 times the daily intake of 2,000 kilocalories by a farmer on
-a [[fukuoka-natural-diet-as-foundation]]. Ten times as much energy was expended in traditional farming,
-which used horses and oxen to plow the fields. The energy input was doubled
-again with small-scale mechanization, and doubled yet another time with
-large-scale mechanization.
-
-## All Begins by Relinquishing Human Knowledge
-
-My greatest fear today is that of nature being made the plaything of the human
-intellect. There is also the danger that man will attempt to protect nature
-through the medium of human knowledge, without noticing that nature can be
-restored only by abandoning our preoccupation with knowledge and action that
-has driven it to the wall. All begins by relinquishing human knowledge.
-
-Natural farming can be seen as one branch of the "do-nothing" movement.
-Human knowledge and effort expand and grow increasingly complex and wasteful
-without limit. We need to halt this expansion, to converge, simplify, and
-reduce our knowledge and effort. This is in keeping with the laws of nature.
-Natural farming is more than just a revolution in agricultural techniques.
-It is the practical foundation of a spiritual movement, of a revolution to
-change the way man lives.
-
-## See Also
-
-- fukuoka-five-principles-natural-farming
-- [[fukuoka-straw-soil-building]]
-- [[fukuoka-straw-healing-the-earth]]
-- [[natural-farming]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[masanobu-fukuoka-natural-farming-philosophy]]

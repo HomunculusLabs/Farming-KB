@@ -1,5 +1,5 @@
 ---
-title: Evaporative Demand Mechanism in Fungi
+title: Evaporative Demand Mechanism Fungi
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 extracted: 2026-05-09
 type: concept
@@ -15,7 +15,7 @@ Evaporative demand—the rate at which water evaporates from a surface—is a ce
 
 The [[evaporative-demand-hypothesis-mushroom-tropism]] proposes that mushroom stipes bend because cells on different sides of the stipe experience different rates of water loss, leading to differential cell expansion:
 
-- **Drier side**: Cells exposed to higher evaporative demand lose water more rapidly, maintaining higher turgor pressure differential but restricting wall expansion. Cell elongation is relatively reduced.
+- **Drier side**: Cells exposed to higher evaporative demand lose water more rapidly, maintaining higher [[bloomfield-turgor-pressure-and-hyphal-invasion]] differential but restricting wall expansion. Cell elongation is relatively reduced.
 - **More humid side**: Cells on the side with lower evaporative demand retain more water, allowing greater wall loosening and cell elongation.
 - **Net curvature**: The side with greater cell elongation determines the direction of bending. The stipe curves toward the side with higher evaporative demand (the drier side).
 
@@ -27,7 +27,7 @@ Badham (1982) identified evaporative demand as a function of at least four inter
 
 ### 1. Wind Velocity
 
-Wind is the primary driver of boundary layer redistribution around the mushroom stipe:
+Wind is the primary driver of [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] around the mushroom stipe:
 
 - In still air, the boundary layer (a thin film of relatively still, humid air) is symmetric around the stipe.
 - When wind blows across the stipe, the boundary layer becomes thinner on the windward side and thicker on the leeward side.
@@ -50,10 +50,10 @@ Ambient humidity directly modulates the evaporative demand gradient:
 
 Light influences evaporative demand through two distinct mechanisms:
 
-- **Thermal effect**: Light heats the illuminated surface of the mushroom, increasing the temperature and therefore the vapor pressure of water at that surface. This increases the rate of evaporation on the illuminated side, creating an evaporative demand gradient even in the absence of wind.
-- **Hormonal effect**: Small quantities of light may trigger hormonal responses related to sporulation and development that independently influence growth direction. This effect is separate from the physical evaporative mechanism.
+- **Thermal effect**: Light heats the illuminated surface of the mushroom, increasing the temperature and therefore the [[cervantes-vapor-pressure-deficit-transpiration]] of water at that surface. This increases the rate of evaporation on the illuminated side, creating an evaporative demand gradient even in the absence of wind.
+- **Hormonal effect**: Small quantities of light may trigger hormonal responses related to sporulation and development that independently influence [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]]. This effect is separate from the physical evaporative mechanism.
 
-In P. cubensis, the light intensity used in experiments (0.002 cal/cm²/min) was approximately 1% of what might be expected in the field, suggesting that the thermal effect was minimal under experimental conditions. However, in natural settings with full sunlight or strong ambient light, the thermal effect could make light the dominant factor in evaporative demand.
+In P. cubensis, the light intensity used in experiments (0.002 cal/cm²/min) was approximately 1% of what might be expected in the field, suggesting that the thermal effect was minimal under [[darwin-five-seedling-phototropism-experimental-conditions]]. However, in natural settings with full sunlight or strong ambient light, the thermal effect could make light the dominant factor in evaporative demand.
 
 Light also has inhibitory effects on stipe elongation independent of evaporative demand, adding complexity to the overall photoresponse.
 
@@ -87,41 +87,3 @@ At the cellular level, the evaporative demand mechanism operates through turgor-
 This mechanism does not require hormone redistribution (unlike auxin-mediated tropisms in plants), though hormones may modulate the sensitivity of cells to evaporative demand.
 
 ## Alternative: Mechanical Force Hypothesis
-
-An alternative explanation for wind-directed growth proposes that the mushroom responds to the physical force of wind pushing against the stipe:
-
-- Wind exerts a bending force on the stipe, compressing cells on the windward side.
-- This compression could stimulate differential growth, similar to thigmomorphogenesis in plants.
-- Studies on Phycomyces show that sporangiophore growth responds to centrifugal force (Dennison, 1961), supporting the idea that physical forces can modulate fungal growth.
-
-However, the mechanical force hypothesis has difficulty explaining:
-- The interaction between wind, humidity, light, and temperature in determining growth direction.
-- Why rotation perpendicular to wind causes upright growth rather than growth away from the wind direction.
-- The role of water vapor demonstrated in Phycomyces experiments.
-
-The evaporative demand hypothesis is generally preferred because it provides a unified explanation for multiple tropic responses and their interactions.
-
-## Implications for Cultivation
-
-Understanding the evaporative demand mechanism has practical implications [[grass-seed-substrate-for-mushroom-cultivation]]:
-
-- **Air circulation**: Adequate but not excessive air flow promotes upright growth by providing a consistent evaporative environment around all sides of the stipe.
-- **[[cervantes-humidity-control-dehumidification]]**: Maintaining high humidity (90–95%) reduces the evaporative demand differential, preventing distorted growth while still allowing sufficient gas exchange for healthy development.
-- **Lighting**: Even, diffuse lighting prevents directional phototropic responses that could compete with gravitropic upright growth.
-- **Temperature gradients**: Avoiding temperature gradients across the growing surface prevents unwanted directional growth responses.
-
-## Key Research
-
-- Badham, E.R. (1982). "Tropisms in the mushroom [[brassinosteroid-growth-promotion-psilocybe-cubensis]]." Mycologia 74(2): 275-279.
-- Johnson, D.L. and Gamow, R.I. (1971). "The avoidance response in Phycomyces." Journal of General Physiology 57: 41-49.
-- Dennison, D.S. (1961). "Tropisms of Phycomyces sporangiophores." Journal of General Physiology 45: 23-38.
-- Russo, V.E.A. et al. (1975). "Ethylene is involved in the autochemotropic response of Phycomyces." Plant Science Letters 5: 245-248.
-- Cohen, R. et al. (1975). "Morphogenesis in Phycomyces." Cold Spring Harbor Laboratory.
-- Castle, E.S. (1942). "Phototropism in Phycomyces." Journal of General Physiology 25: 387-399.
-
-## See Also
-
-- [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-contamination-troubleshooting]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]] grain spawn bulk
-- [[mushroom-fruiting-body-morphogenesis]]

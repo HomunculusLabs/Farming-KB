@@ -87,26 +87,3 @@ This is not passive acceptance. Fukuoka was an active, engaged farmer who made c
 The title of Fukuoka's most famous book encapsulates his philosophy. "I believe that a revolution can begin from this one strand of straw," he wrote. The straw represents both a literal agricultural practice (returning rice straw to the field) and a metaphor for the power of small, seemingly insignificant actions that work with nature rather than against it.
 
 The straw, when spread over the field after harvest, protects seeds, retains moisture, suppresses weeds, feeds soil organisms, and returns nutrients to the soil. It requires no money, no technology, no special knowledge — only the willingness to work with nature's patterns. For Fukuoka, this simple act symbolized the entire natural farming approach: minimal human intervention producing maximum natural benefit.
-
-## Nature as Unified Reality
-
-Fukuoka perceived nature as a single, interconnected reality with no intrinsic characteristics or boundaries. In his view, the distinctions that humans perceive — between beneficial and harmful insects, between crops and weeds, between soil and plant — are artifacts of human perception, not features of nature itself.
-
-"In nature, there are no beneficial or harmful insects," Fukuoka stated. "The human mind singles out certain insects and calls them beneficial because they eat harmful insects. But from the perspective of absolute nature, this distinction does not exist. The moment we say 'beneficial insect,' we have already made a judgment based on human values."
-
-This non-dualistic perspective extends to all of nature. Time, in Fukuoka's view, is not the linear progression of past-present-future that humans perceive, but "an uninterrupted moment of the present with past and future embedded within it." Space similarly has no intrinsic divisions; "there is no wide or narrow on the earth, there is no fast or slow in the sky."
-
-## Critique of Modern Civilization
-
-Fukuoka's philosophy extends far beyond agriculture to encompass a comprehensive critique of modern civilization. He saw modern society as fundamentally disconnected from nature, operating within what he called the "cave of the intellect" — a self-created world of human ideas, concepts, and judgments that obscures the reality of nature.
-
-His critique encompassed multiple domains:
-
-**Economics**: Fukuoka described the modern economy as a "money-sucking octopus" that creates artificial scarcity by converting natural abundance into monetary value. He argued that true wealth exists in nature and that economic activity, far from creating value, often destroys it.
-
-**Education**: "Formal schooling has no intrinsic value, but becomes necessary when humanity creates a condition in which one must become educated just to get along." He compared teaching music to children to [[fukuoka-direct-seeding-rice-barley-cultivation]]
-- [[fukuoka-food-forest-orchard-design]]
-## See Also
-- [[fukuoka-direct-seeding-rice-barley-cultivation]]
-- [[fukuoka-food-forest-orchard-design]]
-- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]

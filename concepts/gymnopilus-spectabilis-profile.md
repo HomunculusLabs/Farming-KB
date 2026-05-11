@@ -88,19 +88,3 @@ trees. Its [[comparison-brown-rot-vs-white-rot-bioremediation]] capabilities all
 structural components of wood, recycling nutrients back into the soil
 and creating habitat for other organisms. The presence of G.
 spectabilis on a tree or stump is often an indicator of advanced
-decay.
-
-## Identification Cautions
-
-While the large size and bright orange coloration of G. spectabilis
-make it distinctive, caution is warranted. Some other Gymnopilus
-species are visually similar but lack psychoactive properties, and
-some Galerina species that grow on wood can be toxic. The rusty-brown
-spore print is the most reliable distinguishing feature. For
-comprehensive safety guidance, consult
-psilocybin-mushroom-image-guide-identification-methods. The species appears in the broader
-[[bougainvillea-spectabilis]]
-## See Also
-- [[piper-methysticum]]
-- [[gymnopilus-purpuratus-profile]]
-- [[gymnopilus-spectabilis-entity]]

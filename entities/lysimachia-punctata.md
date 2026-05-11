@@ -26,11 +26,11 @@ Despite its common name, Lysimachia punctata is not closely related to the true 
 
 ## Taxonomy and Morphology
 
-Lysimachia punctata was described by Carl Linnaeus in 1753 in his Species Plantarum. It belongs to Lysimachia section Lysimachia within Primulaceae subfamily Myrsinoideae, closely allied to Lysimachia vulgaris.
+Lysimachia punctata was described by Carl Linnaeus in 1753 in his Species Plantarum. It belongs to Lysimachia section Lysimachia within Primulaceae subfamily Myrsinoideae, closely allied to [[lysimachia-vulgaris]].
 
 The plant produces upright stems reaching 60 to 120 centimeters in height from a network of stout creeping rhizomes. Stems are unbranched, slightly angular, and bear opposite or whorled leaves arranged in pairs or whorls of three to four along the upper stem.
 
-Leaves are lanceolate to ovate-lanceolate, 5 to 12 centimeters long, with finely toothed margins. The upper leaf surface is dark green and hairless, while the underside bears distinctive dark reddish or black glandular dots, giving the species its specific epithet.
+Leaves are lanceolate to ovate-lanceolate, 5 to 12 centimeters long, with finely toothed margins. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and hairless, while the underside bears distinctive dark reddish or black glandular dots, giving the species its specific epithet.
 
 Flowers are produced in axillary clusters or short racemes in the upper leaf axils, typically with three to seven flowers per node. Individual flowers are about 2 centimeters across, with five bright yellow petals that are slightly overlapping at the base.
 
@@ -50,7 +50,7 @@ Lysimachia punctata is native to central and southeastern Europe, extending east
 
 The species grows in damp meadows, stream banks, woodland clearings, and roadside ditches at elevations up to 1,500 meters. It prefers moist, nutrient-rich soils in partial shade but tolerates full sun where adequate moisture is available.
 
-Naturalized populations have become established across much of western and northern Europe, including the British Isles, the Netherlands, and Scandinavia. In North America, it is occasionally found as a garden escape in the northeastern United States and eastern Canada.
+Naturalized populations have become established across much of western and northern Europe, including the British Isles, the Netherlands, and Scandinavia. In [[guzman-psilocybin-mushrooms-north-america]], it is occasionally found as a garden escape in the northeastern United States and eastern Canada.
 
 In its native range, Lysimachia punctata is a component of tall-herb fringe communities along watercourses. It frequently grows alongside sedges, irises, and other moisture-loving perennials in riparian habitats.
 
@@ -62,15 +62,15 @@ Caucasian populations are found in humid mountain forests and subalpine meadows,
 
 Pollination is carried out by a variety of insects, with bees being the most frequent visitors. The flowers produce moderate amounts of nectar and pollen, making them attractive to both long-tongued and short-tongued bee species.
 
-The glandular dots on the leaf undersides contain resinous compounds that may serve a defensive function against herbivorous insects. These secondary metabolites are similar in composition to those found in other Lysimachia species and may also have antimicrobial properties.
+The glandular dots on the leaf undersides contain resinous compounds that may serve a defensive function against herbivorous insects. These [[antifungal-secondary-metabolites-coprophilous-fungi]] are similar in composition to those found in other Lysimachia species and may also have [[medicinal-mushroom-antimicrobial-properties]].
 
 Vegetative spread through creeping rhizomes is the primary means of colony expansion in natural populations. Established clones can persist for many years, forming extensive mats along stream banks and in moist meadows.
 
-Seed germination requires exposure to light and moist conditions, with highest rates occurring on bare, disturbed soil near water. Seedling establishment is relatively uncommon compared to vegetative propagation in most populations.
+[[cannabis-seed-germination]] requires exposure to light and moist conditions, with highest rates occurring on bare, disturbed soil near water. Seedling establishment is relatively uncommon compared to [[hamilton-vegetative-propagation]] in most populations.
 
-Chloroplast DNA markers have revealed low genetic diversity within individual populations but significant differentiation between geographically separated populations. This pattern suggests limited gene flow and a history of genetic drift during post-glacial colonization.
+Chloroplast DNA markers have revealed low [[biodiversity-fungal-genetic-diversity]] within individual populations but significant differentiation between geographically separated populations. This pattern suggests limited gene flow and a history of genetic drift during post-glacial colonization.
 
-The species provides nectar resources for a range of beneficial insects during midsummer when fewer native wildflowers may be in bloom. This ecological function has contributed to its value in wildlife garden and ecological restoration plantings.
+The species provides nectar resources for a range of [[hamilton-beneficial-insects-and-biological-pest-control]] during midsummer when fewer native wildflowers may be in bloom. This [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] has contributed to its value in wildlife garden and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] plantings.
 
 Butterfly species including the brimstone and various skippers have been observed visiting the flowers for nectar. The open corolla structure allows easy access for short-tongued insects, making the species a reliable nectar source for diverse pollinator groups.
 
@@ -86,35 +86,4 @@ Division in spring or early autumn is the standard propagation method, and estab
 
 The plant is relatively pest-free in cultivation, though slugs may damage new spring growth and young seedlings. Root rot can occur in waterlogged soils with poor drainage, particularly during extended wet periods in winter.
 
-In traditional European herbal medicine, Lysimachia punctata was used as a wound healing herb and topical anti-inflammatory. The plant was applied externally to cuts, burns, and skin inflammations, though modern herbalists rarely employ it.
-
-Phytochemical analysis has identified flavonoids, phenolic acids, and triterpenoid saponins in the aerial parts of the species. Some of these compounds have demonstrated antioxidant and antimicrobial activity in laboratory studies, though no clinical applications have been developed.
-
-The dried aerial parts were historically infused in oil to create salves for treating minor skin ailments. These preparations were particularly common in rural communities across central and eastern Europe through the nineteenth century.
-
-## Conservation
-
-Lysimachia punctata is not considered threatened globally, and its populations are generally stable across its native European range. The species has benefited from the creation of artificial wetland habitats and riparian buffer zones.
-
-In some central European countries, local populations have declined due to river channelization and drainage of floodplain meadows. Conservation efforts focus on maintaining hydrological connectivity and preserving traditional floodplain management practices.
-
-The species is protected under national legislation in several European countries, though enforcement varies considerably. Protected status typically prohibits collection from the wild but does not restrict cultivation of commercially propagated stock.
-
-In Switzerland and Austria, the species is included in national red list assessments as a species of least concern, though local population declines have been noted in intensively farmed lowland areas. Riparian restoration projects have successfully re-established populations in several river valleys.
-
-Climate change projections suggest that suitable habitat for Lysimachia punctata may shift northward and to higher elevations over the coming decades. Populations at the southern edge of the range in the Balkans may face increased drought stress, while northern populations could expand into newly suitable areas.
-
-Citizen science initiatives across Europe have contributed valuable distribution data for the species, helping researchers track range changes over time. Online platforms such as iNaturalist have documented new populations beyond the previously known range boundaries.
-
-## See Also
-
-- [[lysimachia-vulgaris]]
-- [[lysimachia-nummularia]]
-- [[lysimachia-clethroides]]
-- [[primula-veris]]
-- [[dodecatheon-meadia]]
-- [[cyclamen-hederifolium]]
-- [[anagallis-arvensis]]
-- [[sphagnum-palustre]]
-- [[carex-acutiformis]]
-- [[primula-vulgaris]]
+In traditional European [[childrens-herbal-medicine]], Lysimachia punctata was used as a wound healing herb and topical anti-inflammatory. The plant was applied externally to cuts, burns, and skin inflammations, though modern herbalists rarely employ it.

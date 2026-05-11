@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Bioregional Organization

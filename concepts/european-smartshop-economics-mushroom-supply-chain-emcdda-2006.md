@@ -88,36 +88,3 @@ The survey methodology analyzed the first 300 search results per query per engin
 ## Seizure Data as Market Proxy
 
 Customs and police seizure data provided an imperfect proxy for the size and geography of the European mushroom trade. In 2004, seizures were reported in Czech Republic, Estonia, Germany, Greece, Hungary, Lithuania, the Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, and Sweden — a broadly distributed pattern suggesting widespread availability.
-
-Notable seizure statistics included:
-- **Poland**: 11.5 kg total seized in 2004 — the largest single-country quantity
-- **Estonia**: 14 confiscated mail deliveries of mushrooms, spores, or mycelium
-- **UK (Glasgow)**: Mushrooms worth £6,000 (€8,700) seized in 2005, post-reclassification
-- **Cyprus**: First-ever hallucinogenic mushroom seizure in 2006, traced to a Dutch retailer
-- **Czech Republic**: 9 offences recorded in 2003–2004
-- **Greece**: 37 offences in 2003, declining to 20 in 2004
-
-The trend data were mixed: Sweden and Germany reported increasing seizures, while Norway reported decreases. Without standardized reporting protocols, these figures cannot be reliably compared across countries, but they confirm that the trade was active across the continent.
-
-## Market Decline and Legacy
-
-The EMCDDA report captured the European mushroom retail market at its peak and the beginning of its decline. The Dutch ban (effective December 2008) eliminated the primary production and distribution hub, effectively ending the open commercial trade in fresh hallucinogenic mushrooms in Europe.
-
-The smartshop model's legacy persists in several forms: the growkit and spore market continues in legally permissive jurisdictions, the Free Spore Ring Europe continues its educational mission, and the commercial techniques developed by Dutch cultivators (particularly for sclerotia production) have been adopted by underground cultivators worldwide. The economic data documented by the EMCDDA remain the most comprehensive snapshot of an open, legal market for [[entheogenic-fungi-in-mexico|entheogenic]] mushrooms ever produced.
-
-### Lessons for Drug Policy Analysis
-
-The smartshop period provides a rare natural experiment in regulated psychoactive substance commerce. Key policy-relevant findings include:
-
-- **Regulated retail reduces harm**: The combination of product standardization, dosage labeling, and retailer-provided education was associated with very low rates of acute toxicity compared to unregulated markets
-- **Prohibition causes substitution**: The UK and Irish experiences demonstrated that banning one substance predictably increases demand for available alternatives, some with worse safety profiles
-- **Economic displacement rather than elimination**: The 2008 Dutch ban shifted cultivation underground rather than ending it, removing the regulatory oversight and consumer protections that the smartshop model had provided
-- **International trade routes persist**: The Cyprus seizure (Dutch retailer, 2006) showed that national bans were porous when international shipping networks existed
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-- dutch hallucinogenic mushroom legislation timeline
-- psilocybin truffle sclerotia marketing europe
-- free spore ring europe fsre
-- uk mushroom prohibition class a reclassification 2005

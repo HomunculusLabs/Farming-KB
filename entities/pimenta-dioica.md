@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Ravindran, P.N., et al. (2004). "Chemistry and technology of Pimenta." In: Spices. CRC Press, pp. 427–452.
   - Leung, A.Y., Foster, S. (1996). Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics. 2nd ed. Wiley.
-  - Marquez, L., et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Pimenta dioica from Jamaica." Journal of Essential Oil Research, 20(1), 31–34.
+  - Marquez, L., et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Pimenta dioica from Jamaica." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 20(1), 31–34.
   - Morton, J.F. (1981). "Atlas of Medicinal Plants of Middle America." Springer.
   - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press.
 ---
@@ -41,12 +41,12 @@ preparations, and traditional medicine.
 Pimenta dioica was originally described as *Myrtus dioica* by Linnaeus in
 1759 and transferred to *Pimenta* by Merrill in 1947. The genus name derives
 from the Spanish "pimienta" (pepper), reflecting early European confusion
-with black pepper. The specific epithet "dioica" refers to the species'
-functionally dioecious reproductive system, though the floral biology is more
+with [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]. The specific epithet "dioica" refers to the species'
+functionally dioecious reproductive system, though the [[cannabis-sex-determination-floral-biology]] is more
 complex than true dioecy.
 
 P. dioica is a slow-growing evergreen tree reaching 7–12 meters in height
-under cultivation, with wild specimens occasionally reaching 18 meters. The
+under cultivation, with [[strain-isolation-from-wild-specimens]] occasionally reaching 18 meters. The
 trunk is short and often twisted, with bark that is smooth and grey when
 young, becoming rough and fissured with age.
 
@@ -88,59 +88,3 @@ contains more methyleugenol.
 
 The eugenol content is responsible for allspice's clove-like aroma and much
 of its biological activity. Eugenol demonstrates antibacterial activity
-against oral pathogens (Streptococcus mutans, Porphyromonas gingivalis),
-antifungal activity against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], and analgesic properties
-mediated by TRPV1 receptor modulation.
-
-Additional compounds of interest include tannins (5–10%), quercetin and
-other flavonoids, gallic acid, and glycosylated phenolic compounds with
-demonstrated antioxidant activity comparable to vitamin E in standard
-assays.
-
-## Cultivation
-
-Propagation is primarily from seed, which requires immediate sowing as
-viability declines rapidly. Germination takes 2–4 weeks. Vegetative
-propagation by cuttings and grafting onto seedling rootstock is practiced
-for clonal selection of superior genotypes. Trees begin bearing at 4–5 years
-and reach full production at 15–20 years.
-
-Harvesting occurs when the unripe berries begin to change from green to
-purple. Berries are traditionally sun-dried on barbecues (wooden platforms)
-over 7–10 days, losing approximately two-thirds of their weight. Modern
-mechanical drying at 50–60°C produces a more uniform product.
-
-## Culinary and Traditional Uses
-
-Allspice is a defining ingredient in Caribbean cuisine, forming the base of
-jerk seasoning alongside scotch bonnet peppers, thyme, and scallions. In
-Middle Eastern cooking, it is essential to baharat and advieh spice blends.
-European uses include Scandinavian meat preparations (meatballs, pickled
-herring), British stews, and German Christmas baking.
-
-In traditional Caribbean medicine, allspice tea is used for colds, menstrual
-cramps, and digestive complaints. The leaves are applied as poultices for
-muscle pain and headache. Eugenol extracted from allspice oil has been used
-in dentistry as an antiseptic and analgesic for over a century.
-
-## Permaculture Applications
-
-As a mid-canopy evergreen tree, P. dioica integrates well into tropical
-agroforestry systems. It provides shade for understory crops, generates
-nutrient-rich leaf litter, and yields a high-value harvest that provides
-income for 100+ years. In Jamaican coffee-growing regions, allspice trees
-serve as both shade canopy and supplementary cash crop.
-
-The dense evergreen canopy makes allspice useful as a windbreak and privacy
-screen in permaculture designs. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, pest
-resistance, and longevity make it a low-maintenance, high-reward inclusion
-in food forest systems.
-## See Also
-
-- [[carex-dioica]]
-
-- [[cinnamomum-verum]]
-- [[piper-nigrum-entity]]
-- [[cananga-odorata]]
-- [[coffea-arabica]]
-- [[myrica-gale]]

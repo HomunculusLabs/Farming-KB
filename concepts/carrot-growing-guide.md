@@ -1,5 +1,5 @@
 ---
-title: Carrot Growing Guide
+title: Carrot [[alliums-growing-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Carrots are a root vegetable prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, variety selection, planting, care, harvesting, and common problems. (see [[strawberry-growing-guide]]).
+Carrots are a [[fukuoka-western-root-vegetable-deficiency]] prized for their sweetness, versatility, and storage capability. They require specific soil conditions but reward the gardener with a high-yielding, nutrient-dense crop. This guide covers soil preparation, [[coleman-winter-greens-variety-selection]], planting, care, harvesting, and common problems.
 
 ## Soil Preparation
 
-Carrots are demanding about soil texture. Poor soil is the primary cause of forked, stunted, or deformed roots. (see [[lettuce-and-leafy-greens]]).
+Carrots are demanding about soil texture. Poor soil is the primary cause of forked, stunted, or deformed roots.
 
 ### Ideal Soil Conditions
 - Sandy loam is ideal — loose, well-draining, and free of rocks
@@ -29,13 +29,13 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 3. Incorporate compost and any needed amendments (phosphorus if deficient)
 4. Rake the surface smooth and level
 5. Create raised rows or beds 4-6 inches tall to improve drainage and depth
-6. For heavy clay soils, consider double-digging or building tall raised beds
+6. [[query-how-to-use-cover-crops-for-heavy-clay-soil-improvement]] soils, consider double-digging or building tall raised beds
 
 ### Improving Heavy Soils
 - Add coarse sand (not fine playground sand) to improve drainage
-- Mix in generous amounts of compost and leaf mold
+- Mix in generous amounts of compost [[jadam-humus-soil-and-leaf-mold-distinction]]
 - Consider growing shorter varieties like Paris Market or Little Finger
-- Over multiple seasons, consistent organic matter additions transform heavy soil
+- Over multiple seasons, consistent [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] additions transform heavy soil
 
 ## Varieties
 
@@ -54,7 +54,7 @@ Carrots are demanding about soil texture. Poor soil is the primary cause of fork
 - **White**: Lunar White, White Satin — mild, crisp
 
 ### By Season
-- **Early**: 50-60 days; sow in early spring
+- **Early**: 50-60 days; sow in [[coleman-overwintered-onions-and-early-spring-crops]]
 - **Main Season**: 65-75 days; sow late spring for summer harvest
 - **Storage**: 70-80 days; sow mid-summer for fall/winter storage
 
@@ -128,11 +128,11 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 
 ### Pests
 - **Carrot rust fly**: Eggs laid near crown; larvae tunnel into roots. Row covers prevent egg-laying. Avoid thinning on windy days when the fly is active
-- **Nematodes**: Cause knotty, galled roots. Rotate crops; marigolds may help repel
-- **Wireworms**: Tunnel into roots. Remove decaying organic matter before planting
+- **Nematodes**: Cause knotty, galled roots. [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]; marigolds may help repel
+- **Wireworms**: Tunnel into roots. Remove decaying [[hamilton-composting-and-organic-matter-management]] before planting
 
 ### Diseases
-- **Alternaria leaf blight**: Brown spots on leaves; improve air circulation, remove affected foliage
+- **Alternaria leaf blight**: Brown spots on leaves; improve [[stamets-growing-room-air-circulation-co2-management]], remove affected foliage
 - **Cercospora leaf spot**: Similar to alternaria; same management approach
 
 ## Harvesting
@@ -147,4 +147,3 @@ Thinning is essential for properly sized roots. Crowded carrots will be small, t
 - Loosen soil with a fork beside the row before pulling
 - Pull straight up gently; twist slightly if resistant
 - Harvest in the morning for best flavor and crispness
-

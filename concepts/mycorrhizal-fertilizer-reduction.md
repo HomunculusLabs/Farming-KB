@@ -11,28 +11,28 @@ sources: [papers/teaming-with-fungi-lowenfels.md]
 
 ## Overview
 
-One of the most compelling practical benefits of mycorrhizal fungi for
+One of the most compelling practical benefits [[query-what-are-the-different-types-of-mycorrhizal-fungi]] for
 agriculture and horticulture is their potential to reduce or eliminate
-the need for synthetic fertilizers, particularly phosphorus.
+the need for [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]], particularly phosphorus.
 
 As fertilizer costs rise and phosphorus supplies become constrained,
 mycorrhizal partnerships offer a sustainable alternative that can
 maintain or increase crop yields while reducing pollution from nutrient
 runoff.
 
-Source: Lowenfels and Lewis, *Teaming with Fungi*.
+Source: Lowenfels and Lewis, *[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]*.
 
 ## The Inhibition Threshold
 
 ### Critical Phosphorus Levels
 
-The amount of phosphorus in the soil greatly affects mycorrhizal spore
+The amount of phosphorus in the soil greatly affects [[arbuscular-mycorrhizal-spore-extraction-methods]]
 germination and formation:
 
 - With too much phosphorus, spores are less likely to germinate
 - Mycorrhizal growth is hindered
 - Some experts recommend less than **80 parts per million** of
-  phosphorus for establishing arbuscular mycorrhizae
+  phosphorus for establishing [[glomeromycota-arbuscular-mycorrhizae]]
 - Other experts recommend fewer than **75 micrograms of phosphorus
   per gram** of soil
 - These figures are contested, as some plants readily form
@@ -85,65 +85,5 @@ Studies indicate that:
 
 ### Phosphorus Acquisition
 
-Mycorrhizal fungi extend hyphal networks far beyond the root depletion
+[[mycorrhizal-fungi]] extend hyphal networks far beyond the root depletion
 zone, accessing phosphorus that roots alone cannot reach.
-
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi produce phosphatase enzymes that solubilize
-organic phosphorus compounds in soil.
-
-The fungal hyphae can access phosphorus in soil pores too small for
-root hairs to penetrate.
-
-This effectively increases the volume of soil explored for phosphorus
-by 100-1000 times compared to uncolonized roots.
-
-### Nitrogen Acquisition
-
-Mycorrhizal fungi also enhance nitrogen uptake, though the mechanisms
-differ from phosphorus acquisition.
-
-AMF can take up both ammonium and nitrate, and some evidence suggests
-they can access organic nitrogen sources directly.
-
-[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] produce protease enzymes that break down protein
-nitrogen in soil organic matter, a capability that most plant roots
-lack.
-
-### Micronutrient Access
-
-Mycorrhizal fungi improve plant access to micronutrients including:
-
-- Zinc (Zn)
-- Copper (Cu)
-- Iron (Fe)
-- Manganese (Mn)
-
-These improvements are particularly significant in alkaline or
-calcareous soils where micronutrient availability is naturally low.
-
-## Agricultural Economics
-
-### Cost-Benefit Analysis
-
-The economic case for replacing [[cervantes-chemical-fertilizers-guide]] with mycorrhizal
-management:
-
-- Rising fertilizer costs make alternatives increasingly attractive
-- Mycorrhizal fungi are self-replicating once established; a one-time
-  or periodic investment
-- Reduced fertilizer applications save money and reduce pollution
-  liability
-- Mycorrhizal plants often have higher yields and better quality
-
-### Runoff Reduction
-
-Inoculating seed and/or soil with mycorrhizal fungi can be a
-cost-effective way to minimize nutrient runoff:
-
-- Mycorrhizal plants absorb nutrients more efficiently
-- Less excess nutrient is available to wash into waterways
-- This protects downstream ecosystems from eutrophication
-## See Also
-- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
-- [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]

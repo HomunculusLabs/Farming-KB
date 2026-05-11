@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -87,14 +88,3 @@ years of implementing time-controlled grazing.
 Range design should incorporate wildlife needs:
 
 - Connect isolated habitat patches with vegetated corridors
-- Maintain riparian zones as wildlife refuges and water sources
-- Leave standing dead trees for cavity-nesting birds and mammals
-- Create pond and wetland areas for waterfowl and amphibians
-- Avoid monoculture pastures -- diverse plantings support more wildlife
-  species
-## See Also
-- [[poultry-range-management-mollison]]
-- [[mollison-game-species-management-range]]
-- [[mollison-designers-winter-forest-foraging-wildlife-cooperation]]
-- [[mollison-designers-cloudburst-and-stormwater-management]]
-- [[mollison-designers-coppicing-management-of-legume-trees]]

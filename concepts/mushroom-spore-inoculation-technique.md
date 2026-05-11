@@ -1,5 +1,5 @@
 ---
-title: Mushroom Spore [[inoculation-technique-and-alcohol-flaming]]
+title: Mushroom Spore Inoculation Technique
 tags: [mycology, mushroom-cultivation, inoculation, spores, pf-tek, sterile-technique]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
@@ -88,47 +88,3 @@ lidless technique, as the lid method is nearly fail-proof by comparison.
 ## Alcohol Flaming Technique
 
 If the syringe needle is touched or contaminated during the process, it must be
-flame-sterilized before continuing. An alcohol flame is preferred over a butane
-cigarette lighter because alcohol burns clean without leaving behind an undesirable
-soot residue.
-
-To produce a short-burning alcohol flame, place a tequila shot glass upside down.
-Using an eyedropper, put a few drops of denatured alcohol fuel (available at
-hardware stores) on the hollow bottom of the glass and touch it with a match or
-lighter. The resulting blue flame will cleanly and safely sterilize small stainless
-steel tools. Heat the needle in the flame for a few seconds to re-sterilize it.
-
-There may be a few "pops" of boiling water spurting out of the needle during
-flaming, but the spores within the syringe body remain safe from the brief heat
-exposure. If there is leftover spore solution, replace the needle guard and store the
-syringe in a dark, cool place. Re-sterilize the needle immediately before re-use.
-
-## Spore Syringe Storage
-
-Spore syringes should be stored in a dark, cool place to maintain viability. Spores
-can survive freezing temperatures, but extreme cold may be destructive. Conversely,
-extreme heat during transit (such as overheated airplane cargo holds, sun-baked mail
-trucks, or broiling mailboxes) can kill spores and render the syringe non-viable.
-
-## Non-Germination Troubleshooting
-
-When spores fail to germinate, the most common causes are:
-
-1. **Insufficient needle depth** — the spore solution was absorbed by the dry
-   vermiculite layer instead of reaching the nutritious substrate below. Solution:
-   ensure the needle tip penetrates below the barrier layer.
-
-2. **Hot jars** — the jars were not allowed to cool after sterilization, killing the
-   spores on contact. Solution: always wait until jars are cool to the touch.
-
-3. **Heat-killed syringes** — the spore syringe was exposed to killing temperatures
-   during shipping or storage. This is rare but can occur during extreme heat waves.
-
-4. **Extreme cold** — while spores can survive freezing, extreme low temperatures
-   may damage or kill them.
-
-## See Also
-
-- [[pf-substrate-formula]]
-- [[dual-chambered-terrarium]]
-- [[mushroom-contamination-identification]]

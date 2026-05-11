@@ -11,7 +11,7 @@ sources:
 
 **Chemical name:** 2,5-Dimethoxy-4-chlorophenethylamine
 
-**PiHKAL #22** | [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+**PiHKAL #22** | [[2c-family-compounds-overview]] and the halogen series. It is the chlorine analogue in the halogen series (2C-F, 2C-C, 2c-b-entity|2C-B, 2C-I), positioned between the theoretical fluorine analogue and the widely-used bromine compound. First synthesized and bioassayed by [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[ayahuasca-tourism-legal-status-by-country]]: Scheduled in many countries
 
 ## Related Compounds
@@ -88,11 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in scientific understanding, new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

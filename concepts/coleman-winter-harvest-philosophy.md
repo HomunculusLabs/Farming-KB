@@ -11,11 +11,11 @@ updated: 2026-04-26
 
 ## Core Philosophy
 
-Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round in cold climates without supplemental heating. The system has three interlocking components:
+Coleman's winter-harvest system at Four Season Farm is built on the insight that fresh vegetables can be produced year-round [[query-how-do-i-grow-figs-in-cold-climates]] without supplemental heating. The system has three interlocking components:
 
 1. **Cold-hardy vegetables** — crops that tolerate cold temperatures and often have lower light requirements than warm-season crops
 2. **[[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]** — sowing vegetables multiple times from late summer through late fall to provide continual harvest
-3. **Protected cultivation** — vegetables grown under cover (unheated greenhouses with inner row-cover layers)
+3. **[[coleman-protected-cultivation]]** — vegetables grown under cover (unheated greenhouses with inner row-cover layers)
 
 The synergy of these three well-known components creates a system greater than the sum of its parts. Coleman emphasizes that the eating quality of cold-hardy vegetables is unrivaled during fall, winter, and spring — they reach higher perfection without the heat stress of summer.
 
@@ -31,12 +31,12 @@ The movable greenhouse is a revival of an old European practice. The first mobil
 
 - **No summer cooling needed**: Winter crops are sown outdoors in the field where the greenhouse will move. Meanwhile, the greenhouse continues protecting heat-loving crops (tomatoes, peppers, cucumbers, eggplants, melons, sweet potatoes). The greenhouse moves over winter crops when the summer season ends (mid-to-late October in coastal Maine).
 - **Equivalent of 14 months per year**: By establishing a winter crop two months before it needs protection and leaving the warm-season crop growing two months longer, growers get 14 months of greenhouse use every 12 months.
-- **Pest and disease prevention**: For one year out of every two, growing beds are uncovered, exposing soil to the cleansing powers of sun, rain, wind, and snow. This prevents the buildup of pests, diseases, and excess soil nutrients that plague permanent greenhouses.
-- **Green manure opportunity**: During the uncovered year, growers can plant long-term, deep-rooting leguminous green manure crops for 10–13 months, dramatically improving soil fertility.
+- **Pest [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]**: For one year out of every two, growing beds are uncovered, exposing soil to the cleansing powers of sun, rain, wind, and snow. This prevents the buildup of pests, diseases, and excess soil nutrients that plague permanent greenhouses.
+- **Green manure opportunity**: During the uncovered year, growers can plant long-term, deep-rooting leguminous [[green-manure-crops]] for 10–13 months, dramatically improving soil fertility.
 
 ### Historical Context
 
-Commercial vegetable growers originally developed movable greenhouses to solve greenhouse soil-sickness problems. The traditional solutions — removing and replacing soil to 16 inches deep or sterilizing with steam — were expensive and disruptive. The movable concept fell into disuse when chemical sterilization became common. Organic growers have rediscovered mobile greenhouses because of their enormous potential for soil health.
+Commercial vegetable growers originally developed movable greenhouses to solve greenhouse soil-sickness problems. The traditional solutions — removing and replacing soil to 16 inches deep or sterilizing with steam — were expensive and disruptive. The movable concept fell into disuse when chemical sterilization became common. Organic growers have rediscovered [[mobile-greenhouses]] because of their enormous potential for soil health.
 
 Coleman calls the movable greenhouse "the best new gardening idea of the twenty-first century" — or more accurately, a "rediscovered new idea."
 
@@ -78,7 +78,7 @@ Coleman emphasizes that wind is a greater enemy of winter crops than cold temper
 
 ## Managing Snow Load on Winter Greenhouses
 
-Snow accumulation on greenhouse structures is both a risk and a benefit. The risk is structural failure if snow loads exceed the design capacity of the frame — gothic-style arches shed snow more effectively than flat or quonset shapes. The benefit is insulation: a blanket of snow on the greenhouse plastic adds significant R-value, further reducing heat loss during the coldest periods. Coleman recommends monitoring snow accumulation and gently removing it from structures that show signs of stress, but otherwise allowing snow to remain as a natural insulating layer. The thermal mass of snow against the greenhouse can raise interior temperatures by several degrees compared to an exposed structure.
+Snow accumulation on greenhouse structures is both a risk and a benefit. The risk is structural failure if snow loads exceed the design capacity of the frame — gothic-style arches shed snow more effectively than flat or quonset shapes. The benefit is insulation: a blanket of snow on the [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] adds significant R-value, further reducing heat loss during the coldest periods. Coleman recommends monitoring snow accumulation and gently removing it from structures that show signs of stress, but otherwise allowing snow to remain as a natural insulating layer. The thermal mass of snow against the greenhouse can raise interior temperatures by several degrees compared to an exposed structure.
 
 ## Labor Efficiency and Harvest Planning
 
@@ -87,34 +87,3 @@ Winter harvest systems require careful labor planning. Harvesting in freezing co
 ## Season Extension Timeline Summary
 
 Coleman's system creates a continuous production calendar. August through September serves as the primary planting window for winter crops. October brings the transition as greenhouses move to their winter positions. November through January is the deep winter period when harvest slows and plants are maintained in a semi-dormant state. February through March sees accelerating growth as day length increases. April through May provides the last winter harvests before the transition to summer crops. This year-round rhythm eliminates the traditional off-season gap and transforms winter from a period of scarcity into a period of premium-quality production.
-
-## The Role of Soil Biology in Winter Growing
-
-Coleman's system depends critically on healthy soil biology. The soil food web — bacteria, fungi, protozoa, nematodes, and other microorganisms — drives nutrient cycling and makes nutrients available to plants even in cold soil. Coleman uses extensive composting to build and maintain soil biological activity. He emphasizes that [[cervantes-chemical-fertilizers-guide]] are counterproductive in winter growing because cold soil temperatures slow the microbial activity needed to process [[query-organic-vs-synthetic-nutrients-cannabis]] into plant-available forms. Compost and compost tea, by contrast, provide both nutrients and the microbial populations needed to cycle them. The dark, moist conditions inside a double-covered greenhouse create an ideal environment for continued microbial activity even when outdoor temperatures are well below freezing. Winter crops grown in biologically active soil show significantly better vigor, disease resistance, and nutrient density than those grown in chemically fertilized soil.
-
-## Economics of Winter Harvest
-
-The economic case for winter harvest systems rests on the premium prices that fresh, local produce commands during winter months. In most northern markets, the price differential between winter-harvested greens and equivalent summer produce ranges from 3:1 to 10:1. Coleman's system requires minimal additional infrastructure beyond a standard greenhouse, row covers, and compost-making capacity. The primary ongoing costs are seeds, compost amendments, and the labor for planting, maintenance, and harvest. Because the winter harvest period coincides with reduced farm activity, it effectively utilizes labor and infrastructure that would otherwise sit idle. The double-layer protection system allows Coleman to harvest greens 52 weeks per year from his Maine farm, transforming what was traditionally the least profitable season into one of the most valuable. This economic model has been adopted by hundreds of small farms across North America and Europe.
-
-## Pest and Disease Management in Winter Growing
-
-Winter greenhouse production faces distinct pest and disease pressures compared to open-field summer growing. The humid, still air inside a double-covered greenhouse creates favorable conditions for fungal diseases such as gray mold (*Botrytis cinerea*) and downy mildew, which thrive in cool, moist environments. Coleman's approach to disease management emphasizes prevention through [[eclss-environmental-control-life-support]] rather than chemical intervention: maintaining adequate spacing between plants for air circulation, avoiding overhead watering that wets foliage, and ventilating greenhouses on warm days to reduce humidity. Aphids can persist in winter greenhouses where temperatures remain above freezing, and their populations may build up during warm spells. Slugs are a significant pest in winter growing because the moist conditions inside the greenhouse provide ideal habitat. Coleman manages slug populations through hand-picking, beer traps, and encouraging predatory ground beetles through habitat creation. The reduced growth rate of both crops and pests during winter means that pest outbreaks typically progress more slowly than in summer, giving the observant grower more time to respond.
-
-## Post-Harvest Handling of Winter Greens
-
-Winter-harvested greens require careful post-harvest handling to maintain quality. The high sugar content that makes winter greens so sweet also makes them more susceptible to wilting and decay after harvest. Coleman recommends harvesting in the morning after plants have rehydrated overnight, and immediately cooling harvested greens in cold water or a cool storage area. For market sales, winter greens are typically washed, spun dry, and packed in sealed bags or containers to prevent moisture loss. The cold tolerance of the greens themselves extends their shelf life: properly handled winter spinach, kale, and mâche can maintain marketable quality for 2-3 weeks when stored near freezing, far exceeding the shelf life of equivalent summer-harvested greens. This extended shelf life is a significant advantage for direct-market farmers who sell weekly at winter farmers' markets and need produce that maintains quality between harvest and sale.
-
-## Seed Selection for Winter Growing
-
-Successful winter harvest requires specific variety selection distinct from summer growing. Coleman has spent decades trialing [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] for winter hardiness, identifying those that survive freezing temperatures while maintaining eating quality. Key traits for winter varieties include tolerance of repeated freeze-thaw cycles without tissue damage, ability to continue slow growth under short daylength conditions, and maintenance of tenderness and flavor in cold weather. Many modern vegetable varieties bred for rapid summer growth perform poorly in winter conditions, becoming bitter or bolting prematurely. Coleman's preferred winter greens include specific cultivars of spinach ('Winter Bloomsdale', 'Giant Winter'), kale ('Vates', 'Winterbor'), mâche ('Valerianella locusta'), and claytonia ('Minutina'). The process of variety selection is ongoing, as climatic conditions and seed availability change over time, and new varieties continually need evaluation against the established standards.
-
-## See Also
-
-- [[coleman-pest-philosophy-first-rule]]
-
-- [[unheated-greenhouse-winter-harvest]]
-
-- [[coleman-protected-cultivation]] — Row covers and double-layer systems
-- coleman-planting-schedules — Seasonal timing for cold climates
-- coleman-winter-greens — Greens production in winter
-- [[coleman-summer-crops]]

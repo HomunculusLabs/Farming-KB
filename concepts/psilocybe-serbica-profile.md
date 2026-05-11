@@ -1,5 +1,5 @@
 ---
-title: Psilocybe serbica
+title: Psilocybe Serbica Profile
 tags: [psilocybe, neurotropic-fungi, species-profile, europe, agaricales]
 source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of Magic Mushrooms"
 created: 2026-05-09
@@ -9,10 +9,10 @@ created: 2026-05-09
 
 ## Taxonomy and Classification
 
-Psilocybe serbica is a psychoactive mushroom species in the family Hymenogastraceae
+Psilocybe serbica is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species in the family Hymenogastraceae
 (formerly classified under Strophariaceae/Agaricales). The species was described by
 Moser and Horak, and is numbered #148 in Guzmán, Allen & Gartz's (1998) comprehensive
-catalogue of 216 neurotropic fungi species. It is closely related to Psilocybe bohemica,
+catalogue of 216 [[guzman-caribbean-neurotropic-fungi-species-distribution]]. It is closely related to [[psilocybe-bohemica]],
 and some authorities have treated the two as conspecific, though Guzmán (1998) maintains
 them as distinct taxa. The species epithet "serbica" refers to the Balkan region where
 the mushroom was first documented.
@@ -26,7 +26,7 @@ from the predominantly tropical and subtropical members of the group.
 
 Psilocybe serbica is a medium-sized agaric with a conic to campanulate cap that expands
 with age. Like other members of Section Caerulescentes, it exhibits strong bluing
-reactions when bruised or damaged, indicating the presence of psilocybin and psilocin.
+reactions when bruised or damaged, indicating the presence of [[hplc-analysis-of-psilocybin-and-psilocin]].
 The pileus (cap) is hygrophanous, typically appearing dark brown to chestnut when moist
 and fading to a lighter buff or straw color as it dries. The gills are adnate to
 adnexed, darkening from greyish to purplish-brown with maturity as spores mature. The
@@ -68,7 +68,7 @@ coinciding with the general fruiting season for temperate Psilocybe species in E
 The ecological niche of P. serbica overlaps with several other European bluing
 Psilocybe species, including P. bohemica, P. cyanescens, P. mairei, and P.
 coprinifacies. This habitat overlap has contributed to identification difficulties in
-the field and in herbarium collections.
+the field and in [[biodiversity-fungal-herbarium-collections]].
 
 ## Chemistry and Psychoactivity
 
@@ -88,51 +88,3 @@ The duration of effects typically ranges from 4 to 6 hours following oral ingest
 
 Psilocybe serbica does not appear to have a significant documented history of
 traditional or ceremonial use, unlike some of its tropical counterparts such as P.
-mexicana or P. semilanceata (which has a long history of use in Europe). The species
-appears to have been discovered and documented primarily through mycological rather
-than ethnobotanical inquiry.
-
-In the modern context, P. serbica is occasionally sought by foragers and psychonauts
-in Central Europe, though it is less commonly targeted than P. semilanceata (the
-liberty cap), which is far more abundant and widely distributed across Europe. The
-relative rarity of P. serbica and its similarity to other bluing Psilocybe species
-make it a less prominent species in the recreational mycological community.
-
-## Taxonomic Notes and Related Species
-
-The taxonomy of European bluing Psilocybe species has been subject to considerable
-revision and debate. Key relationships include:
-
-- **Psilocybe bohemica** (Sebek): Often considered very closely related to or
-  conspecific with P. serbica. Some authorities treat P. bohemica as a synonym of
-  P. serbica, while others maintain them as distinct species based on subtle
-  morphological differences.
-- **Psilocybe mairei** (Singer): Another European species found in similar habitats.
-- **Psilocybe coprinifacies** (Rolland) Pouzar: Reported from Central Europe, with
-  taxonomic complexity involving interpretations by Herink and Krieglsteiner.
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (Wakefield): A more widely distributed species, also found
-  in Europe but with a broader global range.
-
-## Legal Status
-
-As a psilocybin-containing species, Psilocybe serbica is controlled under the drug
-legislation of most European countries. The species is typically regulated through
-generic schedules covering psilocybin and psilocin rather than being specifically named
-in legislation. In countries where the active compounds are scheduled, possession,
-cultivation, and sale of P. serbica are generally prohibited.
-
-## References
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). World-wide distribution of
-  neurotropic fungi. In: T. Stijve (ed.), Neurotropic Fungi. Česká Mykologická
-  Společnost, Prague.
-- Moser, M. & Horak, E. — Original description of P. serbica.
-- Singer, R. (1978). [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]. In: Rumack & Salzman (eds.),
-  [[european-mushroom-poisoning-history]]: Diagnosis and Treatment. CRC Press.
-- Pegler, D.N. & Legon, N.W. (1998). Psilocybe cyanescens profiles. Mycologist 12.
-- Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
-
-## See Also
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]
-- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]

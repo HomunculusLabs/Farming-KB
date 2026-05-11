@@ -20,7 +20,7 @@ sources:
 
 **Drynaria fortunei** (Kunze) J.Sm., commonly known as **Gu Sui Bu** (骨碎补) in Traditional Chinese Medicine, is an epiphytic fern in the family Polypodiaceae. It is one of the most important medicinal ferns in East Asian pharmacopeia.
 
-The species is native to East and Southeast Asia, growing as an epiphyte on tree trunks and rocks in subtropical and tropical forests. It produces two distinct frond types: large, green photosynthetic fronds and smaller, brown, shield-like nest fronds.
+The species is native to East and [[psilocybe-southeast-asia-pacific]], growing as an epiphyte on tree trunks and rocks in subtropical and [[fungal-biodiversity-tropical-forests]]. It produces two distinct frond types: large, green photosynthetic fronds and smaller, brown, shield-like nest fronds.
 
 *D. fortunei* has been used in Chinese medicine for over 1,500 years, primarily for treating bone fractures, joint disorders, and dental problems. Its Chinese name translates to "bone mender," reflecting its traditional reputation for promoting bone healing.
 
@@ -28,7 +28,7 @@ Modern pharmacological research has confirmed several bioactive properties, incl
 
 Clinical studies in China have evaluated *D. fortunei* extracts for the treatment of postmenopausal osteoporosis, with some trials showing significant increases in bone mineral density compared to placebo. Standardized extracts containing 5–10% naringin are used in commercial formulations.
 
-The species has attracted interest from the nutraceutical industry in both Asian and Western markets. Gu Sui Bu extracts are incorporated into dietary supplements marketed for joint and bone health, though regulatory approval varies by country.
+The species has attracted interest from the nutraceutical industry in both Asian and Western markets. Gu Sui Bu extracts are incorporated into [[medicinal-mushroom-dietary-supplements]] marketed for joint and bone health, though regulatory approval varies by country.
 
 ## Taxonomy and Morphology
 
@@ -60,7 +60,7 @@ Habitat degradation from deforestation and overcollection of wild plants for med
 
 In limestone karst regions, *D. fortunei* grows on vertical cliff faces and boulders, often forming large colonies. The alkaline substrate of limestone provides calcium that may influence the mineral content of the medicinal rhizome.
 
-The species shows moderate tolerance of habitat disturbance and can persist in secondary forests and forest fragments. However, it requires the presence of suitable host trees or rock surfaces and is absent from open agricultural land.
+The species shows moderate tolerance of habitat disturbance and can persist in secondary forests and forest fragments. However, it requires the presence of suitable host trees or rock surfaces and is absent from open [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 ## Traditional Medicine and Pharmacology
 
@@ -74,47 +74,16 @@ Additional TCM indications include lower back pain, knee weakness, tinnitus, too
 
 Modern pharmacological studies have identified **naringin** as a major bioactive flavonoid glycoside responsible for antiosteoporotic effects. Naringin stimulates osteoblast proliferation and inhibits osteoclast activity, promoting net bone formation.
 
-Additional compounds include neoericitrin, quercetin, and various phenolic acids. Extracts demonstrate anti-inflammatory activity through suppression of NF-κB signaling and antioxidant effects via free radical scavenging.
+Additional compounds include neoericitrin, [[quercetin]], and various phenolic acids. Extracts demonstrate anti-inflammatory activity through suppression of NF-κB signaling and antioxidant effects via free radical scavenging.
 
-Animal studies have shown that *D. fortunei* total flavonoids promote fracture healing in rat models by enhancing callus formation and increasing biomechanical strength of healed bone. These findings support the traditional use of Gu Sui Bu as a bone-healing agent.
+Animal studies have shown that *D. fortunei* total flavonoids promote [[blesching-cannabis-bone-fracture-healing]] in rat models by enhancing callus formation and increasing biomechanical strength of healed bone. These findings support the traditional use of Gu Sui Bu as a bone-healing agent.
 
-Topical applications of *D. fortunei* extracts have shown wound-healing activity in experimental models, consistent with the traditional use of fresh rhizome poultices for external injuries and skin conditions.
+[[cannabis-topical-applications]] of *D. fortunei* extracts have shown wound-healing activity in experimental models, consistent with the traditional use of fresh rhizome poultices for external injuries and [[cannabis-for-skin-conditions-detailed]].
 
 ## Cultivation
 
-*Drynaria fortunei* is cultivated commercially in southern China for the medicinal herb market. Cultivation practices typically involve attaching rhizome sections to tree trunks or placing them in beds of gravel and organic matter under shade.
+*Drynaria fortunei* is cultivated commercially in southern China for the [[medicinal-herb-growing]] market. Cultivation practices typically involve attaching rhizome sections to tree trunks or placing them in beds of gravel [[hamilton-composting-and-organic-matter-management]] under shade.
 
 Propagation is primarily vegetative, using rhizome segments with attached fronds. Each segment produces new roots and fronds within 2–3 months under humid conditions. Spore propagation is possible but rarely used commercially.
 
 Optimal cultivation conditions include 50–70% shade, high humidity (above 70% relative humidity), and well-drained but moisture-retentive substrate. The species benefits from regular misting during dry periods.
-
-Growth is seasonal, with peak frond production during the warm, wet months from April to September. Rhizome harvest typically occurs after 3–5 years of growth when sufficient biomass has accumulated.
-
-Pests include scale insects and mealybugs, particularly on cultivated plants grown under suboptimal conditions. Fungal rhizome rot can develop in poorly drained substrates, requiring improved drainage and reduced irrigation.
-
-## Ecology
-
-As an epiphytic fern, *D. fortunei* contributes to canopy diversity in subtropical forests. The nest fronds accumulate organic debris, creating microhabitats for invertebrates and providing a substrate for bryophyte and lichen colonization.
-
-The water-retaining nest frond mass benefits the host tree by maintaining humidity around the attachment point. In dry seasons, moisture released from the frond base can reduce desiccation stress on surrounding bark and associated organisms.
-
-*Drynaria* species are pioneer epiphytes that colonize young, smooth-barked trees. As the tree ages and bark becomes rougher, other epiphyte species such as orchids and bromeliads may establish in the enriched substrate created by the fern's debris collection.
-
-The species supports limited herbivory from specialized fern-feeding insects. Spore-feeding beetles and frond-mining caterpillars have been recorded, but damage is generally minor and does not significantly affect plant vigor.
-
-In its native range, *D. fortunei* is occasionally browsed by wild mammals, though the tough, leathery fronds deter most generalist herbivores. The chemical composition of the fronds may provide some additional anti-herbivore defense.
-
-The species is increasingly used as an ornamental fern in tropical and subtropical gardens, valued for its dramatic nest fronds and architectural form. Large specimens mounted on tree trunks create striking vertical garden features.
-
-## See Also
-
-- [[asplenium-nidus]]
-- [[platycerium-bifurcatum]]
-- [[polypodium-vulgare]]
-- [[nephrolepis-exaltata]]
-- [[pteridium-aquilinum]]
-- [[pteris-vittata]]
-- [[adiantum-pedatum]]
-- [[dryopteris-filix-mas]]
-- [[osmunda-regalis]]
-- [[blechnum-spicant]]

@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Health Philosophy -- Do Nothing and Return to Nature
 
@@ -87,22 +88,3 @@ At the heart of Fukuoka's philosophy is the radical rejection of purpose-driven 
 When scientists conduct research with a purpose -- to increase yield, to develop a new variety, to solve a specific problem -- they inevitably create new problems that did not exist before. Each technological solution spawns a new difficulty requiring yet another solution. This endless chain of problems and solutions is the defining characteristic of modern civilization.
 
 ## The Young Fukuoka's Crisis
-
-As a young man working at the Yokohama customs inspection station, Fukuoka experienced a spiritual crisis. One night, while wandering in a state of confusion, he collapsed at the foot of a tree on a hill overlooking the harbor. There, in the early morning light, he had a flash of insight: "In this world there is nothing at all." He realized that all human knowledge and striving were ultimately meaningless. This experience of mu became the foundation for everything that followed.
-
-From that moment, he abandoned his career, left the city, and returned to his father's farm on Shikoku island. He did not go with a plan to develop natural farming. He simply went to live. The farming method emerged from his way of being, not from research or experimentation.
-
-## How Mu Applies to Farming
-
-In practical terms, the no-purpose philosophy means that the farmer does not try to grow crops. The farmer creates conditions in which crops grow themselves. This is fundamentally different from [[coleman-deep-organic-farming-philosophy]] or sustainable agriculture, both of which still have the purpose of growing food and seek to achieve it through better methods.
-
-Natural farming, as Fukuoka practiced it, involves scattering seed balls without knowing whether they will germinate, allowing weeds to grow without knowing which are beneficial, and letting insects feed on plants without trying to stop them. The farmer does not know and does not need to know. The intelligence is in the system, not in the farmer's mind.
-
-## The Four Principles as Expressions of Mu
-
-Fukuoka's four [[four-principles-of-natural-farming]] farming are direct expressions of the no-purpose philosophy:
-
-1. No cultivation -- because the earth cultivates itself
-2. No chemical fertilizer -- because the plants and animals fertilize the soil together
-3. No weeding -- because weeds are not the enemy
-4. No pesticides -- because insects and disease maintain balance

@@ -1,10 +1,11 @@
 ---
-title: Ingham — Chelation and ingham chelation microbial nutrient processing Processing
+title: Ingham Chelation Microbial Nutrient Processing
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Ingham — Chelation and Microbial Nutrient Processing
@@ -31,7 +32,7 @@ Chelation is not something that "just happens" in soil — it requires active bi
 - May leave undesirable residues in plants
 - Not found naturally in soil
 - Plant has mechanisms to deal with them but residues may be problematic
-- Should be checked against organic certification standards (OMRI, IFOAM)
+- Should be checked against [[fukuoka-critique-organic-certification]] standards (OMRI, IFOAM)
 
 ### Biological Chelators (proteins, amino acids, organic acids)
 - Produced by soil microorganisms
@@ -65,9 +66,9 @@ However, nutrient levels in soil may appear adequate while plant tissue shows de
 ## Implications for AACT
 
 Compost tea delivers the organisms that perform biological chelation. When the soil food web is functioning:
-- Microbes chelate minerals from rock dusts, organic matter, and mineral soils
-- Protozoa and nematodes cycle these chelated nutrients through the food web
-- Mycorrhizal fungi directly deliver chelated phosphorus and other minerals to plant roots
+- Microbes chelate minerals from rock dusts, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and mineral soils
+- [[teaming-with-microbes-protozoa-and-nematodes]] cycle these chelated nutrients through the food web
+- [[arbuscular-mycorrhizal-fungi]] directly deliver chelated phosphorus and other minerals to plant roots
 - The plant receives nutrients in biologically appropriate, cell-ready forms
 
 ## Specific Biological Chelating Compounds
@@ -81,34 +82,9 @@ Compost tea delivers the organisms that perform biological chelation. When the s
 
 ### Organic Acids
 - **Citric acid:** Common metabolic intermediate that chelates iron, manganese, and zinc. Produced abundantly by many soil fungi (Aspergillus, Penicillium species)
-- **Oxalic acid:** Chelates calcium and aluminum. Important in the weathering of calcium-containing minerals. Produced by many saprotrophic fungi and some plant roots (particularly buckwheat and spinach)
+- **Oxalic acid:** Chelates calcium and aluminum. Important in the weathering of calcium-containing minerals. Produced by many [[comparison-mycorrhizal-vs-saprotrophic-fungi]] and some plant roots (particularly buckwheat and spinach)
 - **Gluconic acid:** Produced by Pseudomonas and other [[lowenfels-rhizosphere-bacteria-plant-interaction]]. Particularly effective at solubilizing phosphorus from rock phosphate
 - **Malic acid:** Root exudate that chelates aluminum in acid soils, reducing aluminum toxicity. Also mobilizes phosphorus bound to iron and aluminum oxides
 
 ### Amino Acids and Small Peptides
 - All 20 proteinogenic amino acids can function as chelators to varying degrees
-- Cysteine and histidine have particularly strong metal-binding properties due to their sulfur and nitrogen-containing side chains
-- Many rhizosphere bacteria release amino acids as part of general metabolism, incidentally chelating micronutrients
-- Glutathione (a tripeptide) is a potent intracellular chelator that binds heavy metals and plays a role in plant detoxification
-
-## Nutrient Availability and Soil pH
-
-The chelation mechanism explains why certain nutrients become unavailable at specific pH ranges:
-
-- **Iron deficiency** (common above pH 7.0): Iron precipitates as insoluble oxides and hydroxides. Synthetic chelators (EDDHA, EDTA) are often applied, but restoring microbial chelation through compost and AACT is more sustainable
-- **[[query-how-to-fix-manganese-deficiency-in-cannabis]]** (common above pH 6.5): Similar precipitation dynamics. Acidifying soil or restoring [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] can improve availability
-- **Phosphorus lockup** (common in alkaline soils): [[bionutrients-lab-calcium-phosphate-calamansi]] precipitates become unavailable. Fungal organic acids and siderophores can solubilize these fixed phosphorus compounds
-- **Micronutrient excess** (common in acid soils below pH 5.5): Aluminum, manganese, and iron become excessively soluble and toxic. Liming reduces toxicity by promoting precipitation, but also reduces microbial chelation activity
-
-## See Also
-
-- [[microbial-chelation-nutrient-cycling]]
-
-- [[nutrient-cycling-in-soil]]
-
-- [[chelated-nutrients]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[soil-food-web-nutrient-cycling]]
-- [[compost-tea-aact]]
-- [[ingham-tannins-terpenes-phenolic-compounds]]
-- [[ingham-single-species-vs-whole-community]]

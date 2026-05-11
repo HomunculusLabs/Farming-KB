@@ -19,23 +19,23 @@ Approximately 186 known psilocybin-containing mushroom species exist worldwide, 
 
 ### Mexico -- The Richest Psilocybin Mycoflora
 
-Mexico has the highest diversity of psilocybin mushrooms, with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson's and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
+Mexico has the highest diversity of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], with approximately 76 species. This is the one part of the world where there is a genuinely old tradition of using these mushrooms ceremonially. Wasson's and Heim's work focused extensively on Mexican species, and much of what we know about psilocybin mushrooms originated here.
 
 ### North America (excluding Mexico)
 
-The Pacific Northwest has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psilocybe-cyanescens-profile]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
+The [[psilocybin-north-america-pacific-northwest]] has at least a dozen psilocybin-containing species among more than four thousand documented mushroom species. Notable species include [[psilocybe-azurescens-profile]] (the most potent known), [[psilocybe-cyanescens-profile]], P. stuntzii, P. baeocystis, and P. pelliculosa. In 1993, a lone specimen of P. pelliculosa was found above Telluride, Colorado at 10,000-11,000 feet -- the first psilocybin mushroom reported from Colorado woodlands despite fifty years of searching.
 
 ### Europe
 
-Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), Gymnopilus purpuratus, and various Panaeolus species.
+Europe has approximately three-quarters as many documented species as the Pacific Northwest. [[psilocybe-semilanceata-profile]] is the dominant species, found across the entire continent from Finland to Spain, Norway to Italy. P. cyanescens has spread through horticultural trade. Other species include P. serbica (Balkans), [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]], and various Panaeolus species.
 
 ### Central and South America
 
-Significant mycoflora including many species yet to be fully documented. P. cubensis is widespread throughout tropical regions. Indigenous mushroom cults exist in various communities.
+Significant mycoflora including many species yet to be fully documented. P. cubensis is widespread throughout [[fukuoka-natural-farming-in-tropical-regions]]. Indigenous mushroom cults exist in various communities.
 
 ### Asia and Oceania
 
-Psilocybin mushrooms are found across Southeast Asia and the South Pacific islands. P. samuiensis from Thailand and P. subcubensis from various tropical Asian locations are notable. Australia has its own mycoflora including P. cubensis and P. subaeruginosa.
+Psilocybin mushrooms are found across Southeast Asia and the South [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. P. samuiensis from Thailand and P. subcubensis from various tropical Asian locations are notable. Australia has its own mycoflora including P. cubensis and P. subaeruginosa.
 
 ### Africa
 
@@ -66,3 +66,20 @@ Stamets argues that the production of psilocybin has proven to be a competitive 
 
 - [[psilocybe-azurescens-profile]] -- the most potent known species
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mushroom-ecological-species]]
+- [[hplc-analysis-psychedelic-mushroom-alkaloids]]
+- [[mushroom-species-selection-guide]]
+- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
+- [[entheogenic-mushroom-species]]

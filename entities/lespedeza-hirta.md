@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990. "Vascular Flora of the Southeastern United States, Volume 3, Part 2: Leguminosae." University of North Carolina Press.
+  - Isely, D. (1990. "Vascular Flora of the Southeastern United States, Volume 3, Part 2: Leguminosae." University of north-carolina-mycodiversity Press.
   - Clewell, A.F. (1966. "The genus Lespedeza in the United States." Contributions from the Gray Herbarium of Harvard University, 196, 1-88.
   - Haferkamp, M.R. et al. (1993. "Lespedeza in North American forage systems." Agronomy Journal, 85(6), 1153-1161.
   - Missouri Botanical Garden. "Lespedeza hirta (L.) Hornem." Tropicos Database. tropicos.org
@@ -22,7 +22,7 @@ Lespedeza hirta, commonly known as hairy lespedeza or bush clover, is a perennia
 
 It occurs naturally in prairies, open woodlands, glades, and savannas from the eastern United States west to the Great Plains and south to Texas and Florida.
 
-The species is an important native forage and wildlife habitat plant, providing both nutritional value for livestock and seed for game birds and small mammals.
+The species is an important native forage and [[hemenway-backyard-wildlife-habitat]] plant, providing both nutritional value for livestock and seed for game birds and small mammals.
 
 Its erect growth habit and late-season flowering make it a visible component of tallgrass prairie and oak savanna plant communities during late summer and autumn.
 
@@ -60,7 +60,7 @@ Hairy lespedeza has declined in portions of its range due to prairie conversion 
 
 ## Ecology and Interactions
 
-Lespedeza hirta is a valuable component of native warm-season grassland plant communities, contributing both nitrogen fixation and wildlife food resources.
+Lespedeza hirta is a valuable component of native warm-season grassland plant communities, contributing both [[legume-nitrogen-fixation-and-green-manure]] wildlife food resources.
 
 Seeds are an important food source for northern bobwhite quail, wild turkey, and various songbirds during autumn and winter months.
 
@@ -74,45 +74,16 @@ Nitrogen fixation rates are moderate compared to other legumes, estimated at 30 
 
 Hairy lespedeza serves as a host plant for larvae of several native Lepidoptera species including silver-spotted skipper and various cloudywings.
 
-Its drought tolerance and deep root system allow persistence during dry periods when shallow-rooted grasses become dormant.
+Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and deep root system allow persistence during dry periods when shallow-rooted grasses become dormant.
 
 ## Cultivation and Uses
 
-Lespedeza hirta is used in native prairie restoration seed mixes, particularly for dry-mesic prairie and oak savanna reconstruction projects.
+Lespedeza hirta is used in native [[comparison-prairie-restoration-vs-silvopasture]] seed mixes, particularly for dry-mesic prairie and oak savanna reconstruction projects.
 
 It establishes readily from seed, though germination benefits from scarification or acid treatment to break hard seed coat dormancy.
 
 Seed production is moderate, with typical yields of 100 to 200 kilograms per hectare under managed native seed production conditions.
 
-As a forage species, nutritional quality is fair to good with crude protein content of 12 to 16 percent during early growth stages.
+As a forage species, [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is fair to good with crude protein content of 12 to 16 percent during early growth stages.
 
 Palatability is moderate for cattle and good for deer, with grazing preference increasing as plants mature through midsummer.
-
-The species has potential for use in conservation plantings on marginal agricultural lands, providing erosion control and wildlife benefits simultaneously.
-
-Several commercial native seed suppliers offer L. hirta as a component of regional prairie and wildlife habitat seed mixtures.
-
-## Cultural Significance
-
-Lespedeza hirta is considered an indicator species of high-quality native prairie remnants in the midwestern United States.
-
-Its presence in a plant community typically suggests a history of limited disturbance and the retention of native plant diversity.
-
-The genus Lespedeza is named after Vicente Manuel de Céspedes, a Spanish governor of East Florida, though the naming attribution has been debated among botanical historians.
-
-Native American peoples of the prairie region likely utilized various Lespedeza species, though specific ethnobotanical records for L. hirta are limited compared to more widespread species.
-
-The species contributes to the aesthetic value of native grassland landscapes, with its late-summer flowering adding color and structural diversity to prairie plantings.
-
-## See Also
-
-- [[lespedeza-cuneata]]
-- [[lespedeza-capitata]]
-- [[lespedeza-virginica]]
-- [[desmodium-canadense]]
-- [[amphicarpaea-bracteata]]
-- [[trifolium-pratense]]
-- [[medicago-sativa]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
-- [[glycine-max]]

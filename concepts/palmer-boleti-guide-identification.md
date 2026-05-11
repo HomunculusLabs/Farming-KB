@@ -1,7 +1,7 @@
 ---
 title: Palmer on Boleti Identification and Edibility
 created: 2026-04-28
-tags: [boletus, mushroom-identification, edible-fungi, nineteenth-century, palmer]
+tags: [boletus, [[mushroom-identification]], edible-fungi, nineteenth-century, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
@@ -88,33 +88,3 @@ tubes were easily separable, it was specifically a boletus.
 ## Palmer's Confidence in the Family
 
 Of all the major families of toadstools, Palmer expressed the greatest
-confidence in the fundamental safety of the Boleti. While he urged
-caution with the [[amanita-genus-morphology]] family, he stated that he did not believe a student would ever eat one of the Boleti containing truly nauseous elements, because the offending varieties were so unappetizing in appearance and taste that they would naturally be rejected.
-
-## Cooking and Preparation
-
-Palmer mentioned that the mild Boleti were "luscious" when properly
-prepared. The bitter and slimy varieties, while not fatally poisonous,
-could cause significant gastric distress. He recommended that persons
-unfamiliar with the family should begin with the most modest-colored
-specimens and taste a small piece raw before committing to a full
-preparation. He noted that many Boleti were large, meaty fungi that
-could substitute for other foods, and that their flavor was superior to
-the common cultivated mushroom when properly cooked.
-
-## The Lactarii and Russulae Compared
-
-Palmer frequently discussed the Boleti alongside the [[amanita-genus-morphology]] was truly deadly, the Boleti, Russulae, and Lactarii were at worst "simply disagreeable, or having acrid properties subdued by heat." The practical distinction was enormous: one family killed, while the others merely discomforted.
-
-## European vs American Usage
-
-Palmer noted the striking difference between European and American
-[[weil-cultural-attitudes-toward-altered-states]] Boleti. In Italy, France, and Germany, Boleti were
-regularly gathered for the table and were considered among the finest
-edible fungi. In America, despite their abundance in woods and
-pastures, they were almost entirely ignored. Palmer attributed this
-to the general American ignorance of all fungi beyond the common
-cultivated mushroom, and hoped that wider knowledge would eventually
-bring American usage into line with European practice.
-
-See also: [[boletus-edulis-entity]], [[palmer-mushroom-taxonomy-classification-system]]

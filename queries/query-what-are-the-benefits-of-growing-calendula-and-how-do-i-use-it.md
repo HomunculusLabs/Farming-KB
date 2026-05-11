@@ -3,7 +3,8 @@ title: "What Are the Benefits of Growing Calendula and How Do I Use It?"
 tags: [query, calendula, companion-planting, medicinal-herbs, edible-flowers]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # What Are the Benefits of Growing Calendula and How Do I Use It?

@@ -1,6 +1,6 @@
 ---
-title: "Year-Round Intensive Cropping and Bed Management"
-source: "Eliot Coleman - The Winter Harvest Handbook"
+title: Coleman Year Round Intensive Cropping Bed Management
+source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
 source_type: book
 topics:
   - intensive-cropping
@@ -20,20 +20,20 @@ At the heart of Eliot Coleman's four-season farming system is the principle of
 year-round intensive cropping — the practice of keeping every greenhouse bed in
 continuous production throughout the entire year. Rather than treating winter as a
 dormant period or accepting reduced productivity during cold months, Coleman's system
-treats every season as a growing season with appropriate crop selections. The key
-to making this work is meticulous bed management, precise succession planting, and
+treats every season as a [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] appropriate crop selections. The key
+to making this work is meticulous bed management, precise [[coleman-succession-planting]], and
 a commitment to rapid turnover between crops.
 
 ## The Zero-Downtime Principle
 
 Coleman's primary management goal is to "never leave a greenhouse bed unplanted."
-This principle is pursued with remarkable discipline at Four Season Farm:
+This principle is pursued with remarkable discipline at [[coleman-four-season-farm]]:
 
 - Within **24 hours** of a crop being harvested, the residues are removed, the soil
   is re-prepared, and the bed is replanted. This rapid turnaround ensures that no
   growing time is wasted and that the greenhouse is always producing marketable crops.
 - Careful records are maintained of all plantings, harvests, and varieties to enable
-  as varied a crop rotation as possible. Record-keeping is not optional — it is the
+  as varied [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]] as possible. Record-keeping is not optional — it is the
   foundation of the entire scheduling system.
 - The goal is continuous production flow: as one crop reaches peak harvest, the next
   crop is already established and approaching productive size.
@@ -55,7 +55,7 @@ seasonal dynamics are reversed:
   Others (like certain lettuces and chicories) must be planted earlier to reach
   adequate size before day length becomes limiting.
 
-The planting calendar begins on **August 1**, which Coleman calls the "second spring."
+The planting calendar begins on **August 1**, which Coleman calls the "[[coleman-second-spring-august-planting-window]]."
 Planting continues through the fall and into winter, with new sowings replacing
 harvested crops in a continuous cycle.
 
@@ -64,7 +64,7 @@ harvested crops in a continuous cycle.
 Year-round intensive cropping depends on three interlocking components:
 
 ### 1. Cold-Hardy Vegetables
-The crop palette for winter production includes approximately thirty species:
+The crop palette for [[coleman-beet-greens-cold-house-winter-production]] includes approximately thirty species:
 arugula, beet greens, broccoli raab, carrots, chard, chicory, claytonia, collards,
 dandelion, endive, escarole, garlic greens, kale, kohlrabi, leeks, lettuce, mache,
 minutina, mizuna, mustard greens, pak choi, parsley, radicchio, radish, scallions,
@@ -87,64 +87,3 @@ of each bed.
 ## Soil Preparation Between Crops
 
 Rapid bed turnover requires efficient soil preparation. Coleman's approach:
-
-1. **Remove crop residues** immediately after final harvest. All plant material is
-   removed from the bed.
-2. **Light re-preparation** of the soil surface. This may include light raking,
-   addition of compost, and re-forming the bed shape. Heavy tillage is avoided.
-3. **Replant within 24 hours.** Seeds or transplants go in immediately after soil
-   preparation.
-4. **Record the planting** date, variety, and location for future rotation planning.
-
-The soil in the winter harvest greenhouse benefits from the same deep-organic
-fertility management that Coleman applies to his outdoor fields. Compost is the
-primary fertility source, applied as a top dressing between crops.
-
-## Crop Rotation in the Greenhouse
-
-Even within the constrained space of a greenhouse, Coleman maintains crop rotation.
-Different plant families follow each other in the same beds across seasons and years.
-This rotation:
-
-- Breaks disease cycles specific to plant families
-- Balances nutrient demands across the bed
-- Prevents the buildup of family-specific soil pests
-- Maintains diverse root architectures in the soil profile
-
-The record-keeping system tracks which crop families have occupied each bed, enabling
-rotation decisions that maintain soil health.
-
-## Economics of Continuous Production
-
-Year-round intensive cropping is fundamentally an economic strategy. The benefits:
-
-- **Steady cash flow:** Rather than earning income only during the traditional growing
-  season, the farm generates revenue every month of the year.
-- **Crew retention:** Year-round employment means skilled workers can be kept on
-  through winter, avoiding the annual cycle of hiring and training.
-- **Market hold:** Customers who can buy fresh, local produce year-round become loyal
-  and don't switch to competitors or supermarket alternatives during winter.
-- **Premium winter pricing:** Fresh winter vegetables command premium prices because
-  supply is limited and quality from the Coleman system is exceptional.
-- **Balanced workload:** The intensity of the summer harvest season is moderated by
-  the different (though still active) pace of winter production.
-
-## Key Takeaways
-
-1. The zero-downtime principle — replant within 24 hours of harvest — maximizes
-   greenhouse productivity across all four seasons.
-2. Fall succession planting requires more precise timing than spring because shortening
-   days and cooling temperatures slow crop maturation progressively.
-3. The "second spring" begins August 1, with continuous planting through fall and
-   winter replacing harvested crops in a rolling cycle.
-4. Approximately 30 cold-hardy species form the winter crop palette, improving in
-   flavor and sweetness under cold conditions.
-5. Year-round production provides steady cash flow, crew retention, market loyalty,
-  and premium winter pricing — the economic foundation of four-season farming.
-
-## See Also
-
-- [[aact-aeration-oxygen-management-ingham]]
-- [[aact-foam-management-troubleshooting-ingham]]
-- [[aact-nematode-protozoa-management-ingham]]
-- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]

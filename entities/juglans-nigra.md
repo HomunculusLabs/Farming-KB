@@ -1,22 +1,22 @@
 ---
-title: "Juglans nigra"
+title: Juglans Nigra
 created: 2026-04-28
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - tree
   - juglandaceae
   - allelopathic
-  - agroforestry
+  - [[agroforestry]]
   - timber
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stringer, J.W. (1992). "Black walnut: A multi-purpose tree for
+  - Stringer, J.W. (1992). "black-walnut-juglone-plant-toxicity: A multi-purpose tree for
     temperate agroforestry." Agroforestry Systems, 20(1), 73-82.
   - Rink, G. (1990). "Juglans nigra L." In: Silvics of North
     America, Vol. 2. USDA Forest Service.
-  - Jose, S. (2009). "Black walnut allelopathy." Agroforestry
+  - Jose, S. (2009). "[[black-walnut-juglone-plant-toxicity]] allelopathy." Agroforestry
     Systems, 76(1), 1-10.
 ---
 
@@ -60,7 +60,7 @@ with a thick green husk enclosing a hard ridged shell.
 
 ## Distribution and Habitat
 
-Native to eastern North America, from southern Ontario and Minnesota
+Native to eastern [[guzman-psilocybin-mushrooms-north-america]], from southern Ontario and Minnesota
 south to northern Florida and Texas. Introduced and naturalized in
 Europe and parts of Asia.
 
@@ -76,7 +76,7 @@ root exudation. Sensitive species include tomatoes, potatoes, eggplant,
 peppers, lilacs, apples, and pines. Symptoms include wilting,
 yellowing, and stunted growth.
 
-Tolerant species include black raspberry, elderberry, pawpaw,
+Tolerant species include black raspberry, elderberry, [[pawpaw]],
 persimmon, redbud, and most grasses. Juglone concentration decreases
 with distance from the tree and with soil depth. The allelopathic
 zone extends approximately to the drip line.
@@ -88,48 +88,3 @@ zone extends approximately to the drip line.
 - **Food:** Nut production begins at 8-10 years, full bearing at
   20-30 years; yields 50-100 kg per mature tree
 - **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep taproot mines subsoil nutrients; leaf
-  fall contributes significant [[hamilton-composting-and-organic-matter-management]]
-- **Mulch:** Leaves and husks provide high-carbon mulch (use away
-  from sensitive species)
-- **Silvopasture:** Compatible with cattle and sheep; horses are
-  sensitive to juglone
-
-Intercropping systems pair black walnut with juglone-tolerant
-understory crops including elderberry, pawpaw, [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]],
-and pasture grasses.
-
-## Cultivation
-
-- **Propagation:** Seed (stratify 90-120 days at 2-5°C); transplant
-  early due to deep taproot
-- **Spacing:** 9-12 m for timber; 6-9 m for nut production
-- **Growth rate:** Moderate; 30-60 cm/year optimal
-- **Pruning:** Formative pruning for straight timber; clear lower
-  branches to 2-3 m in first 10 years
-- **Pests:** Walnut husk fly, codling moth, thousand cankers disease
-  (*Geosmithia morbida*)
-- **Rootstock:** Often grafted to *J. regia* for improved nut quality
-
-## Wood Properties
-
-Heartwood is chocolate-brown to purplish-black with straight to wavy
-grain. Moderately heavy (610 kg/m³), hard, dimensionally stable.
-Works well with hand and machine tools; takes finishes exceptionally.
-
-One of the most sought-after [[growing-gourmet-north-american-reishi-species]] hardwoods, commanding
-$8-25 per board foot depending on grade and figure.
-
-## Related Species
-
-- *Juglans regia* — English/Persian walnut; dominant commercial
-  nut species; non-allelopathic
-- *Juglans cinerea* — Butternut; similar habitat, threatened by
-  butternut canker
-- *Carya illinoinensis* — Pecan; related Juglandaceae species
-
-## See Also
-- [[black-walnut-juglans-nigra]]
-- [[companion-planting]]
-- [[juglans-regia]]
-- [[intercropping-systems]]
-- [[juglans-cinerea]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,54 +87,3 @@ and ginger also prefer ridges in wet areas. Ridges permit deep mulching
 for low crops such as pineapple.
 
 ### Mounds
-
-Volcano-shaped mounds with hollow centres are good cucurbit sites when
-enriched with manures. A stone or two helps heat the earth to germination
-temperature for cucurbits and melons.
-
-### Furrows
-
-Furrows assist mulch retention for ginger and pineapple in dry areas.
-They are best covered with mulch and carry subsurface water seepage lines.
-
-### Basins
-
-Even shallow basins aid dryland taro and banana, or patches of Chinese
-water chestnut. Soil is more easily saturated, and deep mulch assists this
-process.
-
-### Palm Trunk Boxes
-
-Boxes of palm trunks are ideal mulch-holders for yams, banana, and vanilla
-orchid, vines generally, and borders of beds in home gardens. Such log
-boxes can be 1-3 logs high and greatly assist weeding if mulch-filled.
-
-## Essentials and Variations
-
-- Borders and uphill steep-slope forest crops planted and selected for
-  mulch value and fodder
-- Animal sheds (ducks, pigeon, poultry, pigs, bees) over top terraces
-  with manure on a washdown system
-- In-crop mulches such as beans, Azolla, clovers
-- Staggered short sets of terraces for steep slopes and high rainfall,
-  compared with more continuous and longer series for winter-dry irrigated
-  terrace
-- Deep areas in terraces for fish, crayfish, and shellfish refuges
-- Vines over all or part of the terrace to aid crops such as taro
-- Splash stones or splash plates for falling water
-- Border drains in terraces to keep soil dry for mid-season crop
-
-## Stability Considerations
-
-Terraces on steep slopes must be forested above and below for structural
-stability. The roots of upslope and downslope trees anchor the entire
-terrace system, preventing the catastrophic failures that occur when
-terraced slopes are cleared of all tree cover. Mollison emphasises that
-limited sets of 6-8 terraces are safer than extensive continuous terracing
-on very steep ground.
-
-## Related
-
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[mollison-tropical-mulch-systems-and-materials]]

@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Chronic Pain
 
-Chronic pain is the most common reason patients use medical cannabis, and it has the strongest evidence base of any therapeutic application. Multiple systematic reviews and meta-analyses support cannabis as effective for neuropathic pain and chronic non-cancer pain. (see [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]).
+Chronic pain is the most common reason patients use medical cannabis, and it has the strongest evidence base of any therapeutic application. Multiple systematic reviews and meta-analyses support cannabis as effective for neuropathic pain and chronic non-cancer pain.
 
 ## Types of Pain Treated
 
@@ -60,10 +60,25 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 - **Linalool**: Analgesic, anxiolytic (found in lavender, cannabis)
 
 ## Opioid Crisis Context
-Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases. (see [[cannabis-thc-therapeutic-profile]]).
+Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases.
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for the evidence framework
 - [[cannabis-endocannabinoid-system]] — for mechanism of action
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific effects
 - [[cannabis-for-inflammatory-conditions]] — for inflammatory pain overlap
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
+- [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
+- [[blesching-cannabis-arthritis-anti-inflammatory-cbd-therapy]]

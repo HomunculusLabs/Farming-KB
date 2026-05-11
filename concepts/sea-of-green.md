@@ -3,6 +3,7 @@ title: Sea of Green (SOG)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/marijuana-horticulture-cervantes.md
   - "Cervantes - Marijuana Horticulture"
 type: concept
@@ -87,30 +88,3 @@ Cervantes describes a practical perpetual harvest model:
 - A vegetative/cloning room about a quarter the size of the flowering room
 - Two clones taken every four days, one ripe female harvested every other day
 - 30 flowering clones on a 91-day schedule at any given time
-- 10 vegetative plants and 30 flowering plants growing simultaneously
-- Total cycle: 91 days from cutting to harvest
-
-This system requires disciplined scheduling but delivers consistent, predictable harvests year-round.
-
-## Common Problems and Solutions
-
-- Uneven canopy height: select uniform clones; cull slow-growing plants after 2 weeks
-- Root-bound plants: use adequate container size; transplant if roots circle the pot
-- Pest introduction: quarantine new clones; sanitize tools and growing area
-- Nutrient issues in small containers: monitor closely; small pots dry out faster
-- Stretching during early flowering: ensure adequate light intensity; keep lamps close
-
-## Lighting for SOG
-
-SOG gardens benefit from intense, even lighting. Cervantes reports that a single 600-watt HPS lamp can cover 4-5 square feet effectively when plants are packed tightly. Reflective walls (flat white paint or Mylar) increase effective light coverage by 10-20 percent. The dense canopy means most light is absorbed by the top layer of foliage, making even light distribution across the footprint critical.
-
-## Integration with Hydroponics
-
-SOG pairs naturally with hydroponic systems. Cervantes notes that in hydroponics, [[cannabis-nutrient-solution-preparation]] can be precisely controlled so plants grow less leafy foliage and more dense flower buds. The stepped-up nutrient control makes plants flower faster and be ready for harvest a few days earlier than soil-grown cannabis. Passive wick systems, flood and drain, and top-feed active systems all work well with SOG arrangements.
-
-## See Also
-
-- [[cannabis-vegetative-stage]] -- managing vegetative growth before flowering
-- [[cannabis-clone-rooting-and-transplanting]] -- clone production for perpetual harvest
-- [[cannabis-lighting-guide]] -- optimizing light for dense canopy production
-- [[screen-of-green]] or [[main-lining]] which achieve similar yields with fewer plants. Cervantes also notes that grow rooms should be "enclosed and camouflaged" and that "no light is visible from outside" -- considerations that apply to any indoor setup but are especially important with high-plant-count SOG operations.

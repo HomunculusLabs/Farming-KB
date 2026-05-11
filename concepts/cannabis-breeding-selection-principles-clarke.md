@@ -1,5 +1,5 @@
 ---
-title: "Cannabis cannabis breeding selection principles clarke Principles"
+title: Cannabis Breeding Selection Principles Clarke
 created: 2026-04-28
 tags: [cannabis, breeding, selection, genetics, Clarke]
 date: 2026-04-25
@@ -22,7 +22,7 @@ seedlings and adults from the world over.
 "First, one must get clearly in mind the kind of plant he wants, then
 breed and select to that end, always choosing through a series of years
 the plants which are approaching nearest the ideal, and rejecting all
-others." (Luther Burbank, in James, 1964)
+others." ([[luther-burbank-plant-breeding-methods]], in James, 1964)
 
 Proper selection of prospective parents is only possible if the breeder
 is familiar with the variable characteristics of Cannabis that may be
@@ -84,63 +84,6 @@ generation.
 
 Pollination must be controlled so that only the pollen- and
 seed-parents that have been carefully selected for favorable traits will
-give rise to the next generation. By selecting against unfavorable
+give rise to the [[next-generation-sequencing-hidden-fungal-diversity]]. By selecting against unfavorable
 traits while selecting for favorable ones, the unconscious breeding of
 poor strains is avoided.
-
-## Large Sample Sizes
-
-Selection is greatly improved if one has a large sample to choose from.
-The best plant picked from a group of 10 has far less chance of being
-significantly different from its fellow seedlings than the best plant
-selected from a sample of 100,000. Burbank often made his initial
-selections of parents from samples of up to 500,000 seedlings.
-
-Difficulties arise for many breeders because they lack the space to keep
-enough examples of each strain to allow a significant selection.
-Formulating a well defined goal lowers the number of individuals needed
-to perform effective crosses.
-
-## Early Selection Techniques
-
-Another technique used by breeders since the time of Burbank is to make
-early selections. Seedling plants take up much less space than adults.
-Thousands of seeds can be germinated in a flat. A flat takes up the same
-space as a hundred 10-centimeter (4-inch) sprouts or sixteen
-30-centimeter (12-inch) seedlings or one 60-centimeter (24-inch)
-juvenile. An adult plant can easily take up as much space as a hundred
-flats.
-
-Simple arithmetic shows that as many as 10,000 sprouts can be screened
-in the space required by each mature plant, provided enough seeds are
-available. Seeds of rare strains are quite valuable; however, careful
-selection applied to thousands of individuals of common strains may
-produce better offspring than plants from a rare strain where there is
-little or no opportunity for selection. Early traits often give clues to
-mature phenotypic expression, and criteria for effective early seedling
-selection are easy to establish.
-
-## Defining Breeding Goals
-
-Definite goals are vital to progress in breeding Cannabis. What
-qualities are desired in a strain that it does not already exhibit? What
-characteristics does a strain exhibit that are unfavorable and should
-be bred out? Answers to these questions suggest goals for breeding. In
-addition to a basic knowledge of Cannabis botany, propagation, and
-genetics, the successful breeder also becomes aware of the most minute
-differences and similarities in phenotype.
-
-Traits considered desirable when breeding Cannabis often involve the
-yield and quality of the final product, but these characteristics can
-only be accurately measured after the plant has been harvested and long
-after it is possible to select or breed it. Early seedling selection,
-therefore, only works for the most basic traits. These are selected
-first, and later selections focus on the most desirable characteristics
-exhibited by juvenile or adult plants. Many important traits to be
-selected for in Cannabis floral clusters cannot be judged until long
-after the parents are gone, so many crosses are made early and
-
-## See Also
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-- [[cannabis-breeding-traits-selection-criteria-clarke]]

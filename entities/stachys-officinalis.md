@@ -78,7 +78,7 @@ metabolites with documented pharmacological activity.
   exhibit strong antioxidant, anti-inflammatory, and neuroprotective effects
 - **Iridoids** — harpagide, acetyl-harpagide, and stachysoside; contribute
   anti-inflammatory and analgesic properties
-- **Flavonoids** — apigenin, luteolin, and their glycosides; antioxidant and
+- **Flavonoids** — [[apigenin]], [[luteolin]], and their glycosides; antioxidant and
   anxiolytic activities
 - **Diterpenoids** — stachysolone and similar labdane derivatives; antimicrobial
   properties
@@ -88,45 +88,3 @@ metabolites with documented pharmacological activity.
 **Pharmacological evidence:**
 - Antioxidant activity confirmed in DPPH and ABTS radical scavenging assays
 - Anti-inflammatory effects demonstrated in carrageenan-induced edema models
-- Anxiolytic-like effects in elevated plus-maze and open-field tests in rodents
-- Mild antimicrobial activity against Gram-positive bacteria and Candida species
-
-## Ethnobotanical Uses
-
-In European folk medicine, betony was used to treat headaches, neuralgia,
-anxiety, and digestive complaints. The dried herb was brewed as a tea and
-consumed as a nervine tonic. Anglo-Saxon herbalists listed it as one of the
-most important [[permaculture-plants-medicinal-herbs-healing]], alongside mugwort and chamomile.
-
-In medieval medical texts, betony was prescribed for wounds, gout, and
-melancholy. The 16th-century herbalist John Gerard recommended it for "them
-that are frantic" — reflecting its reputation as a remedy for mental
-disturbance. It was also used as a prophylactic against evil spirits and
-nightmares in folk magic traditions.
-
-## Cultivation
-
-Betony is easily grown from seed or division. Seeds require cold
-stratification (4–8 weeks at 4°C) for optimal germination. Plants prefer
-full sun to partial shade and well-drained soil. Spacing of 30–40 cm between
-plants is recommended.
-
-Harvesting of aerial parts occurs during flowering (July–August), when
-[[fungal-elicitors-enhanced-secondary-metabolite-production]] concentrations peak. Drying should be done in a warm,
-well-ventilated area away from direct sunlight. The dried herb retains
-medicinal potency for up to 12 months when stored in airtight containers.
-
-The plant is hardy to USDA zones 4–8 and is generally pest-free. It is
-suitable for cottage gardens, medicinal herb gardens, and meadow
-plantings. Its flowers attract bees and butterflies, making it valuable
-for pollinator-friendly plantings.
-
-## See Also
-
-- [[stachys-affinis]]
-
-- [[leonurus-cardiaca-entity]]
-- [[prunella-vulgaris]]
-- [[hypericum-perforatum]]
-- [[verbascum-thapsus]]
-- [[salvia-officinalis]]

@@ -12,26 +12,27 @@ categories:
   - psychedelic-research
   - psychology-of-religion
 tags: [profile]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 
 # Walter Pahnke
 
 **Walter Norman Pahnke** (1931 -- 10 July 1971) was an American physician,
 psychiatrist, and theologian whose pioneering research on the relationship
-between psychedelic drugs and mystical experience fundamentally shaped the
+between psychedelic drugs [[psilocybin-and-mystical-experience]] fundamentally shaped the
 field of psychedelic science. He is best known for the 1962 **Good Friday
 Experiment** (Marsh Chapel Experiment), a double-blind study demonstrating
 that psilocybin could reliably occasion mystical-type experiences. His
-clinical work with terminal cancer patients at Spring Grove Hospital laid
-the groundwork for modern psychedelic-assisted palliative care.
+clinical work with terminal [[cannabis-for-cancer-patients]] at Spring Grove Hospital laid
+the groundwork for modern psychedelic-assisted [[blesching-cannabis-palliative-care]].
 
 ## Early Life and Education
 
 Pahnke was born in 1931 and attended **Pomona College** in Claremont,
 California, earning his AB in 1953. He pursued medical training at
 **Harvard Medical School** (MD, 1962), where he became involved with the
-[[mckenna-suppression-psychedelic-research-lsd-therapy]] program of **Timothy Leary** and **Richard Alpert** at
+[[mckenna-suppression-psychedelic-research-lsd-therapy]] program of **[[timothy-leary]]** and **[[richard-alpert]]** at
 the Center for Research in Personality. Concurrently, he studied at
 **Harvard Divinity School**, reflecting his interest in the intersection of
 religion, mysticism, and psychopharmacology. The comparative religion
@@ -81,55 +82,9 @@ Psychology* confirming lasting positive effects on participants' lives.
 
 Pahnke joined the psychedelic therapy program at **Spring Grove State
 Hospital** in Baltimore County, Maryland, in the mid-1960s. Working with
-**Charles Savage**, **William A. Richards**, and **Stanislav Grof**, he
+**Charles Savage**, **William A. Richards**, and **[[stanislav-grof]]**, he
 investigated **LSD-assisted psychotherapy** for terminal cancer patients.
 The Spring Grove studies found that a single psychedelic session could
 significantly reduce anxiety, depression, and fear of death, with some
 patients reporting transformative [[psilocybin-mystical-experiences-personality-change]] that altered their
 relationship to dying. Pahnke was also affiliated with the **Maryland
-Psychiatric Research Center (MPRC)**, one of the last institutional
-bastions of psychedelic research before regulatory shutdown in the early
-1970s.
-
-## The Mystical Experience Questionnaire
-
-Pahnke developed the **Mystical Experience Questionnaire (MEQ)** based on
-Stace's framework, providing the first standardized instrument for
-assessing mystical-type experiences in clinical settings. The modernized
-**MEQ30**, developed by Richards and colleagues, is used in contemporary
-psilocybin trials at Johns Hopkins, Yale, and UCL. Roland Griffiths'
-landmark 2006 Johns Hopkins study explicitly built on Pahnke's framework,
-establishing the "Pahnke-Griffiths lineage" in psychedelic methodology.
-
-## Key Publications
-
-- **Pahnke, W. N. (1963).** *Drugs and Mysticism.* Doctoral dissertation,
-  Harvard University.
-- **Pahnke, W. N. (1966).** "Drugs and Mysticism." *International Journal
-  of Parapsychology*, 8(2), 295-313.
-- **Pahnke, W. N. & Richards, W. A. (1966).** "Implications of LSD and
-  Experimental Mysticism." *Journal of Religion and Health*, 5(3), 175-208.
-- **Pahnke, W. N. et al. (1970).** "The experimental use of psychedelic
-  (LSD) psychotherapy." *JAMA*, 212(11), 1856-1863.
-- **Pahnke, W. N. (1971).** "The psychedelic mystical experience in the
-  human encounter with death." *Harvard Theological Review*, 63(1), 1-21.
-
-## Death and Legacy
-
-Pahnke died on **10 July 1971** in a **scuba diving accident** off the
-coast of **Maine**, aged approximately 40. His death cut short a brilliant
-career during the period when psychedelic research was losing institutional
-support. The **Walter Pahnke Award** for outstanding contributions to
-psychedelic research is presented at major conferences. His Good Friday
-Experiment is cited in virtually every major review of psychedelic therapy
-history. His work at Spring Grove anticipated the modern revival of
-psychedelic-assisted palliative care at NYU, Johns Hopkins, and UCLA, and
-his MEQ remains a standard instrument in contemporary [[mushroom-cancer-clinical-trials-overview]].
-
-## See Also
-
-- [[roland-griffiths]]
-- gordon-wasson
-- [[stanislav-grof]]
-- [[mystical-experience]]
-- [[compass-pathways]]

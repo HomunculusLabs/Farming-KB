@@ -11,16 +11,17 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - Law, B. (2001). The Woodland House: Building with Roundwood Timber.
   Permanent Publications.
   - Law, B. (2005). The Woodland Way: A Permaculture Approach to
   Sustainable Woodland Management. Permanent Publications.
-  - Law, B. (2010). Roundwood Timber Framing: Building Naturally Using
+  - Law, B. (2010). Roundwood [[preserving-wood-timber-framing]]: Building Naturally Using
   Local Resources. Permanent Publications.
   - Law, B. (2014). Woodsman: A Practical Guide to Caring for Woodlands.
   Permanent Publications.
   - Whitefield, P. (2004). The Earth Care Manual: A Permaculture Handbook
-  for Britain and Other Temperate Climates. Permanent Publications.
+  for Britain and Other [[fukuoka-natural-farming-temperate-climates]]. Permanent Publications.
 ---
 
 ## Overview
@@ -48,7 +49,7 @@ His approach integrates traditional coppice management with permaculture
 design principles, demonstrating how productive woodland management can
 generate livelihoods while enhancing biodiversity.
 
-His *Grand Designs* appearance in 2003 brought his building methods to
+His *Grand Designs* appearance in 2003 brought his [[query-what-are-the-best-natural-building-methods]] to
 a national audience. The episode became one of the most popular in the
 series' history and remains frequently rebroadcast. The house was
 constructed using hand-felled roundwood (primarily [[holzer-sweet-chestnut-and-nut-trees]], oak,
@@ -78,65 +79,12 @@ alternative to sawn-timber construction. Key principles include:
 Law's books provide detailed technical guidance on design calculations,
 joint cutting, frame raising, and building regulations compliance for
 roundwood structures, filling a significant gap in the literature for
-this construction method.
+this [[natfarm-earthbag-construction-method]].
 
 ## Woodland Management Approach
 
-Law's woodland management philosophy combines traditional coppice
-rotation with permaculture design. At Prickly Nut Wood, he maintains:
+Law's woodland [[holzer-vole-management-philosophy]] combines traditional coppice
+rotation with [[comparison-sepp-holzer-vs-permaculture-design]]. At Prickly Nut Wood, he maintains:
 
 - **Coppice cycles:** Sweet chestnut and hazel coppiced on 12–16 year
   rotations, providing a continuous supply of [[fungal-building-material-deterioration]], fencing,
-  and charcoal
-- **Standards and canopy trees:** Mature oak and ash retained as
-  standards above the coppice layer, providing timber, shelter, and
-  habitat continuity
-- **Non-timber forest products:** [[accessible-mushroom-cultivation-for-disabilities]] (shiitake on oak
-  logs), basketry materials, and wild food harvesting integrated into
-  the management plan
-- **Biodiversity enhancement:** Deadwood habitat retention, glade
-  creation, and species-rich hedgerow maintenance
-
-His approach demonstrates that small-scale woodland management (5–20
-acres) can be economically viable when diversified across multiple
-product streams, countering the narrative that British native woodland
-management is unprofitable.
-
-## Permaculture Integration
-
-Law's work represents a distinct strand within the permaculture movement,
-focusing specifically on temperate woodland ecosystems as productive
-human habitats. His contributions include:
-
-- Demonstrating the woodland as a complete living system providing food,
-  fuel, shelter, and income simultaneously
-- Integrating building into the woodland management cycle rather than
-  treating construction as a separate, extractive activity
-- Promoting the concept of "woodland livelihoods" as an alternative to
-  both intensive forestry and pure conservation reserves
-- Developing practical permaculture design tools specifically for
-  temperate forest environments
-
-His work complements the broader temperate permaculture canon established
-by Patrick Whitefield, Bill Mollison, and David Holmgren, adding a
-specialist focus on forest-based systems that was previously underdeveloped
-in the British permaculture literature.
-
-## Published Works
-
-- **The Woodland House** (2001) — Documenting the design and construction
-  of his roundwood home; became a bestseller after the *Grand Designs*
-  broadcast
-- **The Woodland Way** (2005) — Comprehensive guide to sustainable
-  woodland management from a permaculture perspective
-- **Roundwood Timber Framing** (2010) — Technical manual for building
-  with unmilled timber
-- **Woodsman** (2014) — Practical handbook covering tree felling,
-  coppicing, [[mollison-designers-charcoal-production-biochar-soil-amendment]], and other woodland crafts
-- **The Woodland Year** (2015) — Month-by-month guide to seasonal
-  woodland management activities
-
-## See Also
-- [[sepp-holzer-entity]]
-- [[eric-toensmeier]]
-- [[permaculture-designers-manual-goat-management]]

@@ -1,9 +1,9 @@
 ---
-title: Van Life Off Grid
+title: Van Life [[cotter-off-grid-mushroom-cultivation]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [off-grid, homesteading, construction, design, sustainability, engineering]
+tags: [off-grid, [[homesteading]], construction, design, sustainability, engineering]
 sources: []
 ---
 
@@ -131,7 +131,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 
 ### Greywater
 
-- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management|greywater]] filter)
+- 5-10 gallon greywater tank (or direct drain with [[off-grid-waste-management]] filter)
 - For off-grid use: greywater can drain through a simple grease trap into a dispersal area
 - Greywater garden: direct greywater to mulch basins around plants when stationary
 
@@ -144,7 +144,7 @@ A 200W solar array with 100Ah LiFePO4 battery handles this budget comfortably in
 
 ## Composting Toilet
 
-Essential for off-grid van living. See [[off-grid-waste-management|waste management]] for detailed comparison.
+Essential for off-grid van living. See [[off-grid-waste-management]] for detailed comparison.
 
 **Popular Options:**
 - Nature's Head: Most proven, urine diverter, 12V vent fan

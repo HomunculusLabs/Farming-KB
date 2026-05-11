@@ -10,7 +10,7 @@ tags:
   - cardiac-glycosides
   - medicinal
   - toxic
-  - digoxin
+  - [[digoxin]]
   - digitalis
   - european-native
   - biennial
@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Whiting, D.A. (1982). "Digitalis: its mode of action, side effects
-    and pharmacokinetics." Drug Safety.
+    and pharmacokinetics." [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]].
   - Smith, T.W. (1988). "Digitalis: Mechanisms of action and clinical use."
     New England Journal of Medicine 318(6): 358-365.
   - Ma, G. et al. (2016). "The Cardiac Glycosides." In: Bioactive
@@ -37,7 +37,7 @@ sources:
 **Common Foxglove** | *Digitalis purpurea* L.
 
 Digitalis purpurea is a biennial or short-lived perennial herb in the family
-Plantaginaceae, native to Europe and naturalized across temperate regions
+Plantaginaceae, native to Europe and naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide. It is the primary commercial source of cardiac glycosides,
 particularly digoxin and digitoxin, which remain essential drugs in the
 treatment of heart failure and atrial fibrillation. All parts of the plant
@@ -88,59 +88,3 @@ and disturbed ground. Colonizes recently cleared forest areas readily.
 ## Phytochemistry and Pharmacology
 
 The primary bioactive constituents are cardiac glycosides (cardenolides):
-
-- **Digoxin:** The most important therapeutic compound; inhibits Na⁺/K⁺-
-  ATPase on cardiac myocytes, increasing intracellular calcium and
-  strengthening myocardial contraction (positive inotropy). Used to treat
-  heart failure with reduced ejection fraction and rate control in atrial
-  fibrillation. [[blesching-cannabis-therapeutic-window-dosing]] is narrow (serum concentration 0.8–2.0
-  ng/mL); toxicity occurs above ~2.5 ng/mL.
-- **Digitoxin:** Structurally similar to digoxin but with a longer
-  half-life (7–9 days vs. 36 hours for digoxin); primarily eliminated
-  hepatically rather than renally; used less frequently in modern practice.
-- **Gitoxin and Gitalin:** Minor cardenolides with weaker cardiac activity;
-  contribute to the overall glycoside profile of crude plant extracts.
-
-Additional constituents include saponins, flavonoids (luteolin, apigenin
-glycosides), and anthraquinone derivatives. The cardenolide content varies
-significantly with plant part (highest in leaves), developmental stage, and
-growing conditions.
-
-## Toxicity
-
-All parts are toxic. The lethal dose of dried leaf is estimated at ~0.5 g for
-an adult. Symptoms include nausea, vomiting, abdominal pain, visual
-disturbances (blurred vision, yellow-green halos — "xanthopsia"), cardiac
-arrhythmias (bradycardia, heart block, ventricular tachycardia), and
-hyperkalemia. Fatal poisoning has occurred from direct ingestion, confusion
-with herbal teas, and contamination of homegrown herbs. Treatment involves
-digoxin-specific antibody fragments (Digibind/Digifab).
-
-## Historical and Ethnobotanical Use
-
-English physician William Withering published *An Account of the Foxglove* in
-1785, documenting his systematic study of the plant's use in treating
-"dropsy" (edema from heart failure). He learned of the remedy from folk
-herbalists in Shropshire and spent ten years refining dosage. His work is
-considered foundational in modern pharmacology. Prior to this, the plant was
-used in European folk medicine as a diuretic, wound treatment, and
-anti-inflammatory, though inconsistently and often dangerously.
-
-## Cultivation and Horticultural Use
-
-Foxgloves are popular ornamentals for temperate gardens. They thrive in USDA
-zones 4–9 in partial shade with well-drained acidic soil. Sown from seed in
-late spring or early summer for flowering the following year; some cultivars
-flower in the first year. Self-seeds prolifically. Popular cultivars include
-'Alba' (white), 'Pam's Choice' (white with burgundy markings), 'Dalmatian
-Series' (first-year flowering), and the 'Excelsior' group (radial flowers).
-
-## Ecological Role
-
-Digitalis purpurea is pollinated primarily by bumblebees (*Bombus* spp.),
-
-## See Also
-- [[digitalis-lanata]]
-- [[claviceps-purpurea]]
-- [[teaming-with-microbes-plant-control]]
-- [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

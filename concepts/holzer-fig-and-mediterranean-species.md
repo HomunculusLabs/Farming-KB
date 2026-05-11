@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Fig and Mediterranean Species
@@ -86,30 +87,3 @@ The Lebenshilfe Ausseerland project provides a template for Mediterranean specie
 The garden is built on terraces that are protected from the elements. The terracing creates multiple microclimate levels, with the warmest positions reserved for the most heat-demanding species.
 
 ### Heat Storage Design
-
-The construction materials and orientation are specifically chosen to store heat. Stone walls, earth-sheltered elements, and wind-protective structures all contribute to raising the average annual temperature within the garden.
-
-### Species Combinations
-
-The Mediterranean Garden combines indigenous and non-indigenous plants and trees in a series of different experiments. This experimental approach allows observation of which species combinations perform best under the engineered conditions.
-
-### Integrated Functions
-
-The Mediterranean Garden is not just a food production system. It serves as a sensory garden for disabled visitors, a training garden for teaching mobility skills, and a meeting place. The heavily scented and aromatic flowers, herbs, delicious berries, and fruit delight visitors' senses of smell and taste, while brightly coloured flowers and eye-catchers lead people through the garden.
-
-## Principles for Extending Species Range
-
-The broader lessons from Holzer's Mediterranean cultivation work can be summarised as principles applicable to any climate:
-
-1. Observe before planting: Understand the specific microclimate conditions of each site position
-2. Use thermal mass: Stone, water, and earth store and release heat slowly
-3. Create wind protection: Layered plantings of varying heights provide the most effective windbreaks
-4. Work with the landscape: Use slopes, niches, and existing features rather than fighting them
-5. Start with seeds: Plants grown from seed in situ adapt better than transplanted nursery stock
-6. Experiment boldly: Holzer encourages experimentation, noting that many supposedly demanding varieties can adjust to conditions far beyond their conventional range
-7. Accept some losses: Not every experiment succeeds, but the knowledge gained informs future plantings
-8. Use polyculture: Mixed plantings create more stable microclimates than monocultures
-
-The fundamental message is that supposed climate limitations are often more about conventional thinking than about actual biological constraints. With creative design and willingness to experiment, the range of productive species in any location can be significantly expanded.
-
-See also: [[holzer-fruit-growing-marginal-climates]], [[holzer-stone-fruit-varieties-and-growing]], [[holzer-terrace-systems]], [[holzer-alpine-plant-cultivation-gentian]]

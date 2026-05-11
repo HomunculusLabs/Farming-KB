@@ -1,6 +1,6 @@
 ---
-title: "McKenna's mckenna radio entelechy dmt onset acoustic phenomena and DMT Onset Acoustic Phenomena"
-aliases: ["radio entelechy DMT", "DMT ripping cellophane sound", "DMT onset auditory phenomena McKenna"]
+title: Mckenna Radio Entelechy Dmt Onset Acoustic Phenomena
+aliases: ["radio entelechy DMT", "DMT [[mckenna-dmt-onset-phenomenology-ripping-cellophane]] sound", "DMT onset auditory phenomena McKenna"]
 tags: [dmt, tryptamines, phenomenology, auditory, mckenna, onset]
 ---
 
@@ -8,7 +8,7 @@ tags: [dmt, tryptamines, phenomenology, auditory, mckenna, onset]
 
 ## Overview
 
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of Terence McKenna's descriptions of the DMT experience is his detailed account of the acoustic phenomena that accompany the onset of the compound's effects.
+One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of [[terence-mckenna]]'s descriptions of the DMT experience is his detailed account of the acoustic phenomena that accompany the onset of the compound's effects.
 
 In his 1983 Esalen lecture, McKenna described hearing "a sound like ripping cellophane, like someone crumpling up plastic film and throwing it away" during the initial moments of a DMT experience.
 
@@ -60,15 +60,15 @@ DMT, by this logic, would temporarily disable or bypass this filter. The ripping
 
 In addition to the ripping cellophane sound, McKenna described an ascending tone during DMT onset. This tonal element is less frequently discussed but equally significant.
 
-Ascending tones in auditory hallucinations have been reported across multiple classes of psychoactive compounds and in non-drug altered states. In tinnitus research, ascending tones are associated with changes in cochlear function.
+Ascending tones in auditory hallucinations have been reported across multiple classes of psychoactive compounds and in non-drug altered states. In [[cannabis-tinnitus-research]], ascending tones are associated with changes in cochlear function.
 
 In the DMT context, the ascending tone may represent the phenomenological correlate of a rapid shift in neural oscillatory patterns. Research on psychedelics has consistently shown that these compounds increase signal entropy and disrupt hierarchical brain organization.
 
-An ascending tone could be the subjective experience of this disruption — a "tuning up" of neural circuits to frequencies normally outside conscious awareness.
+An ascending tone could be the [[dosage-unpredictability-psilocybin-subjective-experience]] of this disruption — a "tuning up" of neural circuits to frequencies normally outside conscious awareness.
 
 ## Comparison with Other Onset Phenomena
 
-The acoustic phenomena of DMT onset can be usefully compared with onset phenomena from other psychedelic compounds.
+The acoustic phenomena of DMT onset can be usefully compared with onset phenomena from other [[psychedelic-compounds-reference]].
 
 LSD onset, which typically takes 30-60 minutes, is more gradual and less consistently associated with distinctive sounds. Users report bodily sensations, visual changes, and mood shifts, but the dramatic auditory phenomena of DMT are largely absent.
 
@@ -87,40 +87,3 @@ The primary auditory cortex receives serotonergic innervation, and 5-HT2A recept
 The thalamocortical circuits involved in auditory processing may be particularly sensitive to DMT's effects. The thalamus acts as a relay station and gatekeeper for sensory information, and disruption of thalamic gating could produce sounds with no external source.
 
 The rapid onset of DMT reflects its pharmacokinetic properties. DMT is highly lipophilic and readily crosses the blood-brain barrier. When vaporized, it reaches peak brain concentrations within minutes, faster than compensatory mechanisms can engage.
-
-## Philosophical Implications
-
-The radio entelechy metaphor raises philosophical questions about the nature of consciousness and its relationship to sound and vibration.
-
-Many mystical traditions describe ultimate reality in terms of sound — the Logos, the Om, the divine Word. If DMT involves a genuine expansion of consciousness beyond ordinary constraints, and if this expansion is accompanied by distinctive acoustic phenomena, this may reflect a deep connection between consciousness and vibration normally filtered from awareness.
-
-McKenna's broader work consistently emphasized the relationship between tryptamines and language. He argued that tryptamines work directly on the language centers, producing an interior dialogue with a translinguistic object.
-
-The acoustic phenomena of onset may represent the initial "tuning" of the neural circuits involved in this language-generating capacity — the first audible evidence of the Logos becoming accessible to consciousness.
-
-## Relationship to Other DMT Phenomena
-
-The radio entelechy model is one of several frameworks McKenna proposed for understanding the DMT experience.
-
-It complements his concept of [[tryptamines-and-the-logos|the Logos]] as an experienced voice or presence.
-
-Where the Logos model emphasizes semantic content — the transmission of information — the radio entelechy model emphasizes the phenomenological quality of the transmission itself.
-
-The radio metaphor captures the sense of tuning into a pre-existing signal rather than generating novel content from within the psyche.
-
-Both models share the implication that DMT does not create hallucinations in the conventional sense but rather reveals dimensions of reality normally inaccessible to waking consciousness.
-
-## See Also
-
-- [[mckenna-radio-entelechy-organic-matrix-ripping]]
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
-- [[dmt-onset-phenomenology-mode-shift]]
-- [[dmt-phenomenology-and-tryptamine-hypercontinuum]]
-- [[tryptamines-and-the-logos]]
-
-## Sources
-
-- McKenna, T. (1993). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness. In *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
-- Strassman, R. (2001). *DMT: The Spirit Molecule*. Park Street Press.

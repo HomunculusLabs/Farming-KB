@@ -1,5 +1,5 @@
 ---
-title: "permaculture-honey-locust-pod-fodder-system"
+title: [[comparison-black-locust-vs-honey-locust]] Entity
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tree, legume]
 date: 2026-04-25
@@ -88,20 +88,3 @@ better results with each iteration of practice and experimentation.
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[black-locust-entity]]
-- [[comparison-black-locust-vs-honey-locust]]
-- [[honey-locust-pod-fodder-timber-production]]

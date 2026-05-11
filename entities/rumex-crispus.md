@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-**Rumex crispus**, commonly known as curly dock, yellow dock, or curled dock, is a perennial herbaceous plant of the family Polygonaceae. It is native to Europe and western Asia and has become naturalized worldwide as one of the most widespread and recognizable weed species in temperate regions.
+**Rumex crispus**, commonly known as curly dock, yellow dock, or curled dock, is a perennial herbaceous plant of the family Polygonaceae. It is native to Europe and western Asia and has become naturalized worldwide as one of the most widespread and recognizable weed species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
-The species has a long history of use in traditional Western herbal medicine, particularly as a digestive tonic, liver remedy, and source of iron. Its roots contain significant concentrations of anthraquinone glycosides, tannins, and iron, making it one of the most widely recommended "blood-building" herbs in Western and Native American herbal traditions.
+The species has a long history of use in traditional Western herbal medicine, particularly as a digestive tonic, liver remedy, and source of iron. Its roots contain significant concentrations of anthraquinone glycosides, tannins, and iron, making it one of the most widely recommended "blood-building" herbs in Western [[halpern-sacramental-peyote-and-native-american-church]] herbal traditions.
 
 In permaculture and ecological design, Rumex crispus is valued as a **[[nutrient-dynamic-accumulator-reference]]** — a plant that mines minerals from deep soil layers and brings them to the surface. It is also an early successional species that stabilizes disturbed soils and prepares ground for subsequent plant community development.
 
@@ -66,7 +66,7 @@ The root of Rumex crispus has been used medicinally for centuries across multipl
 
 **Laxative:** The anthraquinone glycosides (chrysophanol, emodin, physcion) act as stimulant laxatives by increasing intestinal motility and water secretion. This effect is milder than senna or cascara sagrada.
 
-**Dermatological:** Topical preparations of the root have been used for skin conditions including eczema, psoriasis, and rashes. The tannin content provides astringent and anti-inflammatory effects that may explain this traditional application.
+**Dermatological:** [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] of the root have been used [[cannabis-for-skin-conditions-detailed]] including eczema, psoriasis, and rashes. The tannin content provides astringent and anti-inflammatory effects that may explain this traditional application.
 
 **Active compounds:** The root contains anthraquinone glycosides (emodin, chrysophanic acid, rhein), tannins (5–10%), oxalates, iron, vitamin C, calcium, and phosphorus. Emodin has demonstrated antibacterial, antifungal, and anti-inflammatory activities in vitro.
 
@@ -80,38 +80,10 @@ All above-ground parts of Rumex crispus are edible when young, though oxalate co
 
 **Seeds** can be ground into flour or used as a grain substitute, though processing is labor-intensive due to the papery calyx surrounding each seed. Indigenous North American peoples used dock seeds as a ground meal.
 
-**Safety note:** Rumex species contain oxalic acid and oxalates, which can contribute to kidney stone formation in susceptible individuals and are toxic in large quantities. People with kidney disorders, gout, or rheumatoid arthritis should use dock with caution.
+**Safety note:** Rumex species contain oxalic acid and oxalates, which can contribute to kidney stone formation in susceptible individuals and are toxic in large quantities. People with kidney disorders, gout, or [[blesching-cannabis-rheumatoid-arthritis]] should use dock with caution.
 
 ## Permaculture Applications
 
 Rumex crispus serves several valuable functions in permaculture and ecological design systems:
 
-**Dynamic accumulator:** The deep taproot mines minerals (iron, calcium, potassium, phosphorus, magnesium) from subsoil layers and concentrates them in above-ground biomass. When the plant is slashed and used as mulch (chop-and-drop), these minerals become available to shallow-rooted plants.
-
-**Soil building:** The extensive root system breaks compacted soil and creates channels for water infiltration and deeper-rooting subsequent species. Root decomposition adds organic matter and nutrient-rich biomass to deep soil profiles.
-
-**Pioneer species:** As an early successional plant, R. crispus rapidly colonizes bare, disturbed, or degraded soil, providing ground cover that reduces erosion and begins the process of [[holmgren-ecological-succession-and-pulsing]] toward more complex plant communities.
-
-**Pest management:** Dock plants serve as a trap crop for certain insect pests and can be managed as part of integrated pest management strategies. They also provide [[query-how-do-i-design-habitat-for-beneficial-insects]] predatory insects.
-
-**Comfrey companion pairing:** In permaculture design, Rumex crispus is often found alongside comfrey (*Symphytum officinale*) in guild plantings. Both are deep-rooted [[comparison-dynamic-accumulators-vs-cover-crops]], but dock tolerates drier conditions and more acidic soils than comfrey, providing complementary mineral cycling across different microsites.
-
-**[[permplant-willows-salix-erosion-control-fodder]]:** The robust taproot system makes R. crispus effective at stabilizing slopes, road cuts, streambanks, and other erosion-prone areas. Its tolerance for compacted, degraded, and low-nutrient soils makes it particularly useful in restoration ecology.
-
-## Harvesting and Preparation
-
-For medicinal use, the root is harvested in autumn after the plant has directed energy downward for winter dormancy. Second-year or older roots are preferred, as they contain higher concentrations of active compounds.
-
-Roots are washed, chopped, and dried at temperatures below 40°C to preserve heat-sensitive compounds. Dried root is used in decoctions (simmered 15–20 minutes), tinctures (1:5 in 40–60% alcohol), or powdered in capsules.
-
-Typical dosage ranges: dried root 2–4 g as decoction, 2–4 mL of tincture (1:5), taken 2–3 times daily. For external use, a strong decoction is applied as a wash or compress.
-
-For culinary use, young leaves should be harvested before the flower stalk emerges (typically March–May in temperate regions). Leaves become increasingly bitter and fibrous with age. The tender leaf midribs can be prepared similarly to rhubarb, though they are considerably more tart.
-
-## See Also
-
-- [[pleurotus-ostreatus]]
-- [[urtica-dioica]]
-- [[verbascum-thapsus]]
-- [[ashwagandha-withania-somnifera]]
-- [[tropaeolum-majus]]
+**[[comparison-hyperaccumulator-vs-dynamic-accumulator]]:** The deep taproot mines minerals (iron, calcium, potassium, phosphorus, magnesium) from subsoil layers and concentrates them in above-ground biomass. When the plant is slashed and used as mulch (chop-and-drop), these minerals become available to shallow-rooted plants.

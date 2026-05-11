@@ -88,12 +88,3 @@ In the KNF input system, OHN complements the other core preparations:
 The KNF principle of "feed the plant what it needs when it needs it" means that OHN is not applied continuously but rather at specific developmental stages and stress events.
 
 ## Storage
-
-OHN should be stored in a cool, dark place in sealed glass containers. The alcohol and vinegar components act as natural preservatives. Properly prepared and stored OHN has a shelf life of 1–2 years. The preparation may darken and develop stronger aromas with age but remains effective as long as it has not spoiled (indicated by mold growth or putrid odor).
-
-## See Also
-
-- [[master-cho-knf-ohn-oriental-herb-nutrient-recipe]]
-- [[cho-oriental-herbal-nutrient-preparation]]
-- [[fermented-plant-juice-fpj]] — complementary KNF input for vegetative growth
-- [[indigenous-microorganisms-imo]] — the foundational microbial input in KNF

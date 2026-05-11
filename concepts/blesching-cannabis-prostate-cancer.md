@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Prostate Cancer"
+title: Blesching Cannabis Prostate Cancer
 created: 2026-04-26
 tags:
   - cannabis
@@ -41,7 +41,7 @@ includes chemotherapy, radiation, and/or surgery.
 ### Anandamide Inhibits Cancer Growth
 
 In 2000, a laboratory experiment in Naples, Italy, demonstrated that the body's
-own cannabinoid anandamide was able to inhibit growth of both breast cancer and
+own cannabinoid anandamide was able to inhibit growth of both [[blesching-cannabis-breast-cancer]] and
 prostate cancer cells, suggesting endocannabinoid system involvement in cancer
 regulation.
 
@@ -87,33 +87,4 @@ revealed that stress and hostility influence prostate volume and residual urine
 volume, with effects mediated via the sympathetic nervous system and
 hypothalamic-pituitary-gonadal axis.
 
-The prostate, derived from ancient Greek for "protector" or "guardian,"
-represents survival, safety, and security. An impaired urine flow is associated
-with being "pissed off." Additional issues include suppressed anger at aging
-related to male energy, image, or virility, and self-judgments about goals never
-reached. Sexual performance pressure is another common issue, often addressed
-through denial rather than inward examination.
-
-Aggravating factors include chronic stress, hostility, negative affect,
-performance pressure, suppressed male anger, and negative self-image. Supporting
-factors include stress reduction, releasing emotions around male image, age, and
-sex, and transforming emotionally limiting beliefs.
-
-## Supporting Herbs
-
-- **Cayenne**: Capsaicin in cayenne is a promising anti-tumor agent in hormone-
-  refractory prostate cancer resistant to many chemotherapeutic agents.
-- **Garlic**: Hong Kong scientists reported significant success inhibiting primary
-  tumor formation and reducing secondary tumor formation in the prostate,
-  demonstrating potent antimetastatic properties.
-
-## See Also
-
-- [[blesching-cannabis-cancer-night-sweats]]
-- [[blesching-cannabis-colon-cancer]]
-- [[blesching-cannabis-thyroid-cancer]]
-- [[blesching-cannabis-lung-cancer]]
-
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[cannabis-chronic-pain-management]]
+The prostate, derived from [[ancient-greek-mystery-cults-comparison]] for "protector" or "guardian,"

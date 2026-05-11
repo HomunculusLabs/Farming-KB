@@ -88,16 +88,3 @@ spores.
 
 While developed for NASA's ECLSS, the trace water microwave technique has
 potential in medical device sterilization (especially heat-sensitive
-instruments), laboratory [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]], food processing sanitation,
-and cleanroom maintenance where chemical-free, low-thermal-impact sterilization
-is needed.
-
-## See Also
-
-- [[trace-water-dosing-protocol-microwave-surface-sterilization]]
-
-- [[rotational-transition-water-dipole-microwave-sterilization-physics]]
-
-- [[microwave-water-interaction-2-45-ghz]]
-
-- [[microwave-trace-water-surface-sterilisation-protocol]]

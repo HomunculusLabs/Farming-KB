@@ -1,8 +1,8 @@
 ---
-title: "Darwin's The Power of Movement in Plants — Botanical Legacy"
+title: Darwin Power Movement In Plants
 slug: "darwin-power-movement-in-plants"
 tags: [darwin, botany, phototropism, plant-movement, history-of-science, plant-biology]
-source: [[grahamholmes-what-a-plant-knowsindd]]
+source: grahamholmes what a plant knowsindd
 created: 2026-05-10
 ---
 
@@ -10,7 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-*The Power of Movement in Plants* (1880) was Charles Darwin's final major botanical work, co-authored with his son Francis Darwin. Published twenty years after *On the Origin of Species* (1859), this book represented the culmination of two decades of plant experiments conducted at Down House. The work established fundamental principles of plant tropisms and sensory biology that remain foundational to modern plant science.
+*The Power of Movement in Plants* (1880) was Charles Darwin's final major botanical work, co-authored with his son Francis Darwin. Published twenty years after *On the Origin of Species* (1859), this book represented the culmination of two decades of plant experiments conducted at Down House. The work established fundamental principles of plant tropisms and [[phycomyces-comparative-model-mushroom-tropism-sensory-biology]] that remain foundational to modern plant science.
 
 ## Context: Darwin the Botanist
 
@@ -36,7 +36,7 @@ Darwin and Francis designed an elegantly simple experiment using canary grass (*
 4. **Tip covered with clear glass cap** — bending occurs (light passes through)
 5. **Middle section covered with opaque tube** — bending occurs (middle doesn't need light)
 
-This experiment, published in 1880, proved that phototropism results from light detection at the shoot tip, which then signals the lower stem to bend differentially. The Darwins had demonstrated the existence of a photoreceptor and a mobile signal — decades before either was identified at the molecular level.
+This experiment, published in 1880, proved that phototropism results from light detection at the shoot tip, which then signals the lower stem to bend differentially. The Darwins had demonstrated the existence of a photoreceptor and a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — decades before either was identified at the molecular level.
 
 ### The Mobile Signal Concept
 
@@ -56,7 +56,7 @@ Perhaps more important than the phototropism finding itself was Darwin's inferen
 ### Nastic Movements (Non-Directional Responses)
 
 - **Nyctinasty:** Sleep movements (leaf folding at night)
-- **Thigmonasty:** Touch-responsive movements (Mimosa pudica)
+- **Thigmonasty:** Touch-responsive movements ([[mimosa-pudica]])
 - **Thermonasty:** Temperature-responsive movements (Tulip flowers)
 
 ### Circumnutation
@@ -67,7 +67,7 @@ Darwin devoted extensive attention to circumnutation — the continuous circular
 
 Darwin's experimental approach was remarkably rigorous for the era:
 
-- **Darkroom experiments:** Plants grown in total darkness to isolate light responses from any confounding environmental variables
+- **Darkroom experiments:** Plants grown in total darkness to isolate [[phototropism-and-plant-light-responses]] from any confounding environmental variables
 - **Gas lamp at 12 feet:** Light too dim for human observation but sufficient to induce phototropism in 3 hours — demonstrating extraordinary plant light sensitivity
 - **Mechanical caps and tubes:** Handmade lightproof and transparent coverings from available materials
 - **Time-lapse observation:** Patient recording of gradual plant movements over hours and days using simple glass markers and graduated arcs
@@ -84,37 +84,6 @@ Darwin's mobile signal hypothesis was vindicated by Frits Went's 1926 discovery 
 
 ### Phototropin Receptors
 
-The molecular identity of Darwin's "tip photoreceptor" was identified in the 1990s as phototropin, a blue-light photoreceptor kinase. Phototropins detect blue light and trigger auxin redistribution across the stem, causing differential cell elongation on the shaded side — exactly the mechanism Darwin inferred. Two phototropins (phot1 and phot2) mediate different aspects of the light response, with phot1 responsible for the low-light sensitivity that Darwin observed with his dim gas lamp.
+The molecular identity of Darwin's "tip photoreceptor" was identified in the 1990s as phototropin, a blue-light photoreceptor kinase. Phototropins detect blue light and trigger auxin redistribution across the stem, causing differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on the shaded side — exactly the mechanism Darwin inferred. Two phototropins (phot1 and phot2) mediate different aspects of the light response, with phot1 responsible for the low-light sensitivity that Darwin observed with his dim gas lamp.
 
 ### Plant Hormone Biology
-
-Darwin's work laid the conceptual foundation for the entire field of plant hormone biology. The idea that a mobile signal could coordinate growth responses across distant tissues became the organizing principle for understanding auxin, gibberellin, cytokinin, ethylene, abscisic acid, and other plant hormones.
-
-### Contemporary Research
-
-Darwin's observations continue to inspire modern research:
-
-- Circumnutation mechanisms are still being investigated
-- The auxin transport stream he inferred is now mapped at the cellular level
-- His comparative approach across species presaged modern phylogenetic methods
-- His darkroom techniques remain standard in photobiology laboratories
-
-## Francis Darwin's Contribution
-
-Francis Darwin (1848–1925), Charles's third son, was a botanist in his own right and became a Fellow of the Royal Society. His role in the movement experiments was substantial — he performed much of the day-to-day experimental work, particularly the tedious time-lapse observations. After his father's death, Francis continued plant physiology research and became a prominent figure in British botany, eventually being knighted for his scientific contributions. He also edited several volumes of his father's letters and autobiography, ensuring the preservation of Charles Darwin's scientific correspondence.
-
-## Darwin's Other Plant Works
-
-While *The Power of Movement in Plants* is his most influential botanical text, Darwin's plant research spanned multiple volumes. His work on climbing plants (1865) established how tendrils and stems use contact coiling and circumnutation to find supports. His studies on cross-fertilization (1876) demonstrated the fitness advantages of outcrossing and established the concept of hybrid vigor. His research on heterostyly in primroses (1877) provided early evidence for the adaptive significance of floral polymorphism. Together, these works established Darwin as one of the most important plant biologists of the 19th century.
-
-## Philosophical Significance
-
-*The Power of Movement in Plants* challenged the prevailing view of plants as passive organisms. By demonstrating that plants actively perceive and respond to environmental stimuli through sophisticated signaling mechanisms, Darwin helped establish plant behavioral biology as a legitimate field of inquiry. The book remains one of the most cited works in the history of plant science. Its enduring influence is evident in how modern researchers frame questions about plant sensory biology — always returning to Darwin's fundamental insight that plants are not static organisms but active participants in their ecological relationships.
-
-## See Also
-
-- [[chamovitz-what-a-plant-knows-overview]] — book covering Darwin's plant work
-- [[chamovitz-darwin-phototropism-experiment-canary-grass]] — detailed experiment account
-- [[phototropism-darwin-plant-light-response]] — phototropism overview
-- [[phototropism-in-plants]] — modern understanding
-- [[phytochrome-photoreceptor]] — another Darwin-predicted sensory system

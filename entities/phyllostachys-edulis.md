@@ -40,7 +40,7 @@ Key morphological features:
 - **Culm diameter**: 8–20 cm (DBH)
 - **Internode length**: 20–35 cm
 - **Wall thickness**: 8–12 mm
-- **Growth rate**: Up to 91 cm per day during the shooting season
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]**: Up to 91 cm per day during the shooting season
 - **Leaf size**: Narrow lanceolate, 6–12 cm × 0.8–1.5 cm
 - **Culm sheath**: Covered in dark brown spots and stiff hairs, persisting through the first year
 
@@ -48,7 +48,7 @@ The shooting season occurs in spring (March–May in the Northern Hemisphere). N
 
 ## Growth Cycle and Ecology
 
-Moso bamboo exhibits one of the most remarkable growth rates in the plant kingdom. During the shooting phase, a single culm can elongate up to 91 cm in 24 hours — driven by cell expansion (not cell division) powered by hydraulic pressure from the root system. This rapid growth is fueled by carbohydrate reserves stored in the rhizome network over the previous [[savory-growing-season-and-non-growing-season-management]].
+Moso bamboo exhibits one of the most remarkable [[coleman-sunlight-and-winter-crop-growth-rates]] in the plant kingdom. During the shooting phase, a single culm can elongate up to 91 cm in 24 hours — driven by cell expansion (not cell division) powered by hydraulic pressure from the root system. This rapid growth is fueled by carbohydrate reserves stored in the rhizome network over the previous [[savory-growing-season-and-non-growing-season-management]].
 
 Moso bamboo typically flowers gregariously (synchronously across large populations) on a cycle of approximately 60–120 years, though the exact interval varies by population. After flowering, the entire stand usually dies back, though the rhizome system may survive and regenerate. The last major moso flowering event in China occurred in the early 2000s.
 
@@ -69,7 +69,7 @@ Culms are harvested at 4–7 years of age for maximum strength. Unlike hardwood 
 
 ### Edible Shoots
 
-Spring bamboo shoots of *P. edulis* are a major vegetable crop in East Asia. The shoots are harvested before they emerge from the ground or immediately after, when they are tender and crisp. Commercial production involves:
+Spring bamboo shoots of *P. edulis* are a major [[vegetable-crop-demand-classification-fertility-matching-solomon]] in [[neurotropic-fungi-japan-east-asia-species-cultural-context]]. The shoots are harvested before they emerge from the ground or immediately after, when they are tender and crisp. Commercial production involves:
 - Harvesting at 15–30 cm height
 - Boiling to remove cyanogenic glycosides (taxiphyllin)
 - Processing into fresh, canned, dried, or fermented products
@@ -88,53 +88,3 @@ Spring bamboo shoots of *P. edulis* are a major vegetable crop in East Asia. The
 Moso bamboo is among the most effective terrestrial carbon sinks:
 - Annual carbon sequestration: 11–17 tonnes CO₂ equivalent per hectare
 - Total biomass accumulation: 200–300 tonnes dry matter per hectare in mature stands
-- The running rhizome system stores significant below-ground carbon (30–40% of total)
-- Continuous harvest and regrowth maintain high sequestration rates without the long rotation periods of timber trees
-
-## Permaculture Applications
-
-In permaculture design, moso bamboo serves multiple functions:
-
-- **Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Provides massive quantities of mulch, compost material, and building poles
-- **Windbreak and microclimate**: Dense stands create sheltered microclimates for sensitive crops
-- **Erosion control**: The extensive rhizome network binds soil on slopes and riparian zones
-- **Water management**: Can be planted along swales and contour lines to stabilize earthworks
-- **Animal fodder**: Young leaves provide palatable forage for cattle, goats, and pandas
-- **Phytoremediation**: Absorbs heavy metals and nutrients from wastewater
-- **Living fence**: Dense, impenetrable barriers when rhizome containment is desired
-
-### Containment Considerations
-
-Moso bamboo's running rhizome habit is both an asset and a liability. In permaculture installations:
-- Install rhizome barriers (60 cm minimum depth, high-density polyethylene) to prevent unwanted spread
-- Position near water features, property boundaries, or other natural barriers
-- Regular harvesting encourages rhizome vigor in the desired zone
-- Monitor for escape and rogue shoots annually
-
-## Cultivation
-
-Moso bamboo prefers well-drained, loamy to sandy loam soils (pH 5.0–7.0) with adequate moisture. It tolerates temperatures as low as -20°C when established. Key establishment practices:
-
-- Plant divisions or container-grown plants in spring
-- Provide irrigation during the first 2–3 growing seasons
-- Apply nitrogen-rich compost annually to support shoot production
-- Thin culms older than 5 years to maintain stand vigor
-- Harvest selectively, never removing more than 30% of culms per year
-
-## Pests and Diseases
-
-- **Bamboo mites** (*Schizotetranychus celarius*): Cause stippling on foliage
-- **Bamboo mealybug** (*Antonina crawii*): Infests culms and branches
-- **Armillaria root rot**: In poorly drained or stressed stands
-- **Bamboo wilt** (*Fusarium* spp.): [[cervantes-fusarium-vascular-wilt-diseases]] in warm, humid conditions
-
-## See Also
-
-- [[catha-edulis]]
-- [[boletus-edulis-entity]]
-
-- Bamboo — general bamboo overview
-- [[food-forest|Food Forest]] — integration into agroforestry systems
-- Tagasaste — complementary fast-growing multipurpose plant
-
-- [[phyllostachys-nigra]]

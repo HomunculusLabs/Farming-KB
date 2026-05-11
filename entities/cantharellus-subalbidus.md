@@ -14,8 +14,8 @@ sources:
   - Redhead, S.A., Norvell, L.L. & Danell, E. (1997). "Cantharellus formosus and the Pacific Northwest golden chanterelle complex." Mycotaxon, 65, 285–296.
   - Buyck, B., Hofstetter, V., Binder, M., et al. (2014). "The systematic position of the chanterelles (Cantharellus) and the limits of the Cantharellales." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 64(1), 239–251.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press, Berkeley.
-  - Danell, E. (2002). "Using morphological and unstable molecular characters to recognize species within the Cantharellus cibarius complex in Europe." Mycological Research, 106(5), 543–555.
-  - Pilz, D. & Molina, R. (2002). "Commercial harvests of palmer-edible-mushrooms-north-america from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
+  - Danell, E. (2002). "Using morphological and unstable molecular characters to recognize species within the [[cantharellus-cibarius-entity]] complex in Europe." Mycological Research, 106(5), 543–555.
+  - Pilz, D. & Molina, R. (2002). "Commercial harvests of palmer-edible-mushrooms-north-america from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest [[nematode-management]], 155(1–3), 3–16.
 created: 2026-04-28
 ---
 
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 Commonly known as the **white chanterelle**, it is the largest chanterelle species in North America, with caps reaching 20 cm in diameter.
 
-Like all chanterelles, it forms **ectomycorrhizal associations** with forest trees and cannot be grown commercially on artificial substrates.
+Like all chanterelles, it forms **[[ectomycorrhizal-associations]]** with forest trees and cannot be grown commercially on artificial substrates.
 
 It is prized by foragers for its firm texture and mild, fruity flavor, though it is less commonly encountered than the golden chanterelle (*C. formosus*).
 
@@ -67,7 +67,7 @@ It also occurs inland in the Cascade Range, the Sierra Nevada, and parts of the 
 
 The species fruits from **late summer through early winter**, typically October to January in coastal forests, following the onset of autumn rains.
 
-It is most commonly found in **old-growth and mature coniferous forests** dominated by Douglas-fir (*Pseudotsuga menziesii*), western hemlock (*Tsuga heterophylla*), and Sitka spruce (*Picea sitchensis*).
+It is most commonly found in **old-growth and mature coniferous forests** dominated by Douglas-fir (*[[pseudotsuga-menziesii]]*), western hemlock (*[[tsuga-heterophylla]]*), and Sitka spruce (*Picea sitchensis*).
 
 Fruiting often occurs in **moist, mossy areas** along stream banks, ravines, and slopes with good drainage and dappled light.
 
@@ -79,7 +79,7 @@ The fungal mycelium extends the effective root surface area, enhancing the host 
 
 In exchange, the fungus receives **photosynthetic carbon compounds** from the host, primarily as glucose and fructose.
 
-This symbiosis is critical for forest health, especially in nutrient-poor soils where [[dighton-mycorrhizal-networks-carbon-transfer]] facilitate nutrient sharing between trees of different species and ages.
+This symbiosis is critical for forest health, especially in nutrient-poor soils where [[dighton-mycorrhizal-networks-carbon-transfer]] facilitate [[lowenfels-mycorrhizal-network-nutrient-sharing]] between trees of different species and ages.
 
 Chanterelle fruiting is sensitive to **forest disturbance** — logging, road construction, and soil compaction can reduce or eliminate chanterelle populations for decades.
 
@@ -88,28 +88,3 @@ Chanterelle fruiting is sensitive to **forest disturbance** — logging, road co
 *C. subalbidus* is considered an **excellent edible mushroom** and is among the most sought-after [[edible-wild-mushrooms-by-region]] in the Pacific Northwest.
 
 Its flesh is firmer and thicker than that of the golden chanterelle, making it well-suited to sautéing, grilling, and braising.
-
-The flavor is mild and fruity with earthy undertones, and it holds its texture well under prolonged cooking.
-
-Nutritional analysis of related *Cantharellus* species shows they are rich in **potassium, vitamin D2, and ergothioneine** — a potent antioxidant amino acid.
-
-No toxic look-alikes closely match the white coloration combined with blunt ridges and cross-veins, though foragers should distinguish it from the potentially confusing *Omphalotus* species (which have true gills and are bioluminescent).
-
-## Similar Species
-
-**Cantharellus formosus** — the Pacific golden chanterelle, more common and golden-yellow in color. Overlaps in range and habitat.
-
-**Cantharellus cascadensis** — a recently described species from the Cascade Range with a brownish cap and thinner flesh.
-
-**Craterellus tubaeformis** — the yellowfoot chanterterelle, smaller with a hollow stipe and brown cap. Different genus but similar foraging niche.
-
-**Hygrophoropsis aurantiaca** — the false chanterelle, has true gills rather than ridges and a more orange color.
-
-## See Also
-
-- [[craterellus-tubaeformis]]
-- [[boletus-edulis-entity]]
-- [[suillus-luteus]]
-- [[agaricus-bisporus]]
-- [[mycorrhiza]]
-- symbiosis

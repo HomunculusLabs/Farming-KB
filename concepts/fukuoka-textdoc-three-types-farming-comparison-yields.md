@@ -5,6 +5,7 @@ tags: [farming-types, scientific-farming, mahayana, hinayana, natural-farming, y
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
@@ -87,48 +88,3 @@ the more it demonstrates its own limitations.
 
 Mahayana natural farming is the unmoving "no-sword" school, comparison with which is
 pointless. It is nature itself, superior in every respect to the other ways of farming.
-Because scientific farming is limited to immediate circumstances in every respect, its
-achievements are also limited. In contrast, natural farming is total and comprehensive,
-so its achievements must be correspondingly comprehensive.
-
-Mahayana natural farming is not an attempt to approximate nature or imitate it — it
-is nature. The farmer who practices Mahayana farming does nothing because nature does
-everything. The five principles — no tillage, no fertilizer, no pesticides, no weeding,
-no pruning — are not techniques but descriptions of what happens when man stops
-interfering.
-
-## The Yield Comparison Framework
-
-Fukuoka compares yields for these three types of farming:
-
-1. Scientific farming excels under unnatural, man-made conditions. But this is only
-   because natural farming cannot be practiced under such conditions.
-2. Under conditions approaching those of nature, Hinayana natural farming will yield
-   results at least as good as or better than scientific farming.
-3. In holistic terms, Mahayana natural farming, which is both pure and perfect, is
-   always superior to scientific farming.
-
-The reason for point two is simple: man imitates nature. No matter how well he thinks
-he knows rice, he cannot produce it from scratch. All he does is take the rice plant
-that he finds in nature and tries growing it by imitating natural processes. Man is
-no more than a student of nature. It is a foregone conclusion that were nature — the
-teacher — to use its full powers, man — the student — could never outdo it.
-
-## The Centrifugal and Centripetal Direction
-
-Scientific farming breaks away from nature with the expansion of human wants and
-desires; it is centripetal and divergent. Because this outward expansion cannot be
-stopped, scientific farming is doomed to extinction. The addition of new technology
-only makes it more complex and diversified, generating ever-increasing expense and
-labor.
-
-Natural farming, on the other hand, is centrifugal and convergent — it seeks to
-return to its source. Not only is natural farming simple, it is also economical and
-labor-saving. The journey from scientific to natural farming is one of simplification
-and return.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-centrifugal-centripetal-natural-scientific-farming]] for the directional metaphor
-- [[fukuoka-textdoc-increased-production-not-increased-yields]] for the yield illusion
-- [[fukuoka-textdoc-three-ways-farming-compared]] for another comparison framework

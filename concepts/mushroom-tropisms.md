@@ -1,5 +1,5 @@
 ---
-title: [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
+title: Mushroom Tropisms
 slug: mushroom-tropisms
 source: tropisms-in-the-mushroom-psilocybe-cubensis
 tags:
@@ -16,14 +16,14 @@ created: 2026-05-10
 # Mushroom Tropisms
 
 Mushroom tropisms are directional growth responses to environmental
-stimuli that guide the basidiocarp (fruiting body) toward conditions
+stimuli that guide the basidiocarp ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]) toward conditions
 optimizing [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and dispersal. The primary tropisms include
 anemotropism (wind response), [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] (upward growth against
 gravity), and phototropism (light-directed growth).
 
 ## Source
 
-Badham, E.R. 1982. "Tropisms in the mushroom Psilocybe cubensis."
+Badham, E.R. 1982. "Tropisms in the mushroom [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]."
 *Mycologia* 74(2):275-279.
 
 ## Developmental Stages
@@ -34,7 +34,7 @@ and shifts in tropic responses.
 
 **Stage 1 — Slight Pileus Swelling:** The stipe elongates and the
 pileus begins to swell. Primary [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] is driven by
-anemotropism toward greatest evaporative demand. Negative geotropism
+anemotropism toward greatest [[evaporative-demand-hypothesis-mushroom-growth]]. [[mushroom-negative-geotropism]]
 has not yet begun.
 
 **Stage 2 — Nearly Spherical Pileus:** The pileus becomes nearly
@@ -44,7 +44,7 @@ emergence of geotropic responsiveness.
 
 **Stage 3 — Open Hemispherical Pileus (Sporulation):** The pileus
 opens into a hemispherical shape, exposing the lamellae (gills) for
-active spore release. Both anemotropic and geotropic forces shape
+active [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]. Both anemotropic and geotropic forces shape
 fruiting body orientation.
 
 **Stage 4 — Plane Pileus (Late Maturity):** The pileus flattens
@@ -59,7 +59,7 @@ different tropic mechanisms.
 **Phase 1 — Anemotropic Stipe Elongation:** During primary stipe
 elongation (Stage 1), the mushroom orients growth toward greatest
 evaporative demand. This anemotropic response causes the stipe to grow
-into the wind. Boundary layer redistribution explains this: the leeward
+into the wind. [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] explains this: the leeward
 side becomes more humid as wind redirects moisture, and the mushroom
 grows toward the drier windward side. Wind tunnel experiments confirmed
 this directional bias under controlled airflows.
@@ -88,62 +88,3 @@ basidiomycetes remains to be elucidated.
 Negative geotropism is the upward growth response opposing gravity. In
 *P. cubensis*, it begins at Stage 2 and positions the pileus so spores
 can fall freely and be carried by air currents.
-
-Crucially, sporeless mutants did NOT exhibit negative geotropism,
-demonstrating that geotropic responsiveness is linked to spore
-production rather than being a constitutive property. This suggests
-developing spores or associated structures are necessary for
-gravitational signal perception or transduction. Decapitation experiments
-(pileus removal) further supported this, implicating the lamellae (gills)
-as the source of tropism-related hormonal signals.
-
-## Phototropism
-
-Light is necessary for both [[light-basidiocarp-initiation-psilocybe-cubensis-research]] and spore formation
-in *P. cubensis*. Four different light responses have been described for
-mushrooms, indicating complex photoperception likely involving multiple
-photoreceptor systems.
-
-Phototropism may operate indirectly through evaporative demand: light
-heats the mushroom surface, increasing evaporation, which biases growth
-via the same anemotropic mechanism responding to humidity gradients.
-This unifies phototropic and anemotropic responses under a common
-evaporative demand model, though direct photoreceptor pathways may also
-contribute independently.
-
-## Experimental Methods
-
-Badham (1982) used wind tunnel experiments to study anemotropism under
-controlled conditions, systematically manipulating airflow direction and
-speed to confirm stipe elongation reliably orients toward the windward
-side. Decapitation experiments involved surgically removing the pileus to
-assess whether tropic signals originated in the cap or stipe; loss of
-tropic responses pointed to the lamellae as a source of tropism-regulating
-hormones. Sporeless mutants provided a natural experiment demonstrating
-the link between spore production and negative geotropism without
-surgical confounds.
-
-## Comparative Context
-
-The zygomycete *Phycomyces* serves as an important [[phycomyces-comparative-model-mushroom-tropism-sensory-biology]],
-displaying both anemotropism and avoidance response (sporangiophore
-bending away from obstacles), with ethylene implicated in avoidance.
-These parallels suggest tropic sensing elements are deeply conserved
-across the fungal kingdom, even between basidiomycetes and zygomycetes.
-
-## Key Findings Summary
-
-- Mushroom tropisms govern directional growth through anemotropic,
-  geotropic, and phototropic mechanisms.
-- Development proceeds through four stages from pileus swelling to
-  full maturity with a flat cap.
-- Phase 1 (anemotropic) orients stipe elongation toward wind; Phase 2
-  (geotropic) orients the pileus upward.
-- Boundary layer redistribution explains why mushrooms grow into the
-  wind rather than away from it.
-- Negative geotropism requires spore production — sporeless mutants
-  fail to show this response.
-- Lamellae are implicated as a hormonal source for tropic signals
-  based on decapitation experiments.
-- Phototropism may act through evaporative demand rather than direct
-  light-sensing pathways.

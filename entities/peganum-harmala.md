@@ -1,10 +1,10 @@
 ---
-title: mckenna-food-gods-peganum-harmala-soma L.
+title: Peganum Harmala
 created: 2026-04-28
 type: species
 tags:
   - zygophyllaceae
-  - beta-carboline
+  - [[beta-carboline]]
   - mao-inhibitor
   - ayahuasca-analog
   - entheogen
@@ -41,7 +41,7 @@ Peganum harmala is a perennial, herbaceous to suffruticose plant
 growing 1 to 2 ft (30 to 60 cm) tall, though robust specimens may
 reach 3 ft (90 cm). The plant forms a dense, bushy clump from a
 woody rootstock with a deep and extensive taproot system that enables
-it to survive in arid environments.
+it to survive in [[fungal-diversity-arid-environments]].
 
 Stems are erect, branched from the base, glabrous or finely
 pubescent, and pale green to grayish-green in color. The leaves are
@@ -67,7 +67,7 @@ Asia (Asia Minor, the Levant, Iran) across Central Asia to northern
 India, with disjunct populations in Mongolia and Manchuria. The plant
 has been widely naturalized in other regions, including the
 Mediterranean basin, North Africa, the southwestern [[dmt-containing-plants-united-states-halpern]],
-and parts of South America.
+and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
 It grows in dry, sandy or stony soils, steppe and desert margins,
 saline flats, abandoned fields, and along roadsides. The plant is
@@ -82,37 +82,9 @@ alkaloids include:
 
 - **Harmine** — the major alkaloid, a reversible inhibitor of MAO-A,
   with hallucinogenic properties at sufficient doses.
-- **Harmaline** — closely related to harmine, also an MAO-A inhibitor,
+- **[[harmaline]]** — closely related to harmine, also an MAO-A inhibitor,
   with additional tremorigenic effects at higher doses.
 - **Harmalol** — a minor constituent, an O-demethylated derivative
   of harmine.
-- **Other beta-carbolines** — including tetrahydroharmine and trace
+- **Other beta-carbolines** — including [[tetrahydroharmine]] and trace
   amounts of various related compounds.
-
-The seeds typically contain 2 to 4 percent total beta-carboline
-alkaloids by dry weight, with harmine being the most abundant. The
-roots also contain significant concentrations of these alkaloids.
-
-## Ethnobotanical Uses
-
-Peganum harmala is valued today from Asia Minor across to India with
-extraordinary esteem, a fact suggesting former religious use as a
-hallucinogen. In several Middle Eastern and Central Asian cultures,
-the seeds have been burned as incense (especially in Iran, where it
-is known as esfand) to ward off the evil eye and purify spaces. The
-seeds are also used in traditional medicine as an emmenagogue,
-anthelmintic, and treatment for various ailments.
-
-The most significant ethnopharmacological application of Peganum
-harmala is its use as a component of Ayahuasca analog preparations.
-When the harmala seeds are consumed in combination with DMT-containing
-plants, the beta-carboline alkaloids act as MAO inhibitors, preventing
-the enzymatic breakdown of DMT in the gastrointestinal tract and
-thereby allowing it to produce visionary psychoactive effects when
-taken orally.
-
-Known combinations include:
-
-- **[[cannabis-sativa]]
-- [[ipomoea-violacea]]
-- [[datura-stramonium]]

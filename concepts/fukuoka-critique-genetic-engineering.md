@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of Genetic Engineering
 
@@ -86,23 +87,3 @@ testing
 period.
 
 ## The Economic Dimension
-
-Genetic engineering also serves economic interests that are incompatible
-with Fukuoka's
-vision. Patented seeds create dependency, tying farmers to corporations.
-The technology
-is expensive and oriented toward large-scale monoculture. It undermines the
-[[fukuoka-critique-green-revolution]]. Genetic engineering is the logical
-extension
-of the Green Revolution's approach: identify a limiting factor, develop a
-technological
-solution, and impose it universally. Both movements assume that agricultural
-problems
-are best solved through centralized research and technological intervention
-rather
-than through ecological understanding and local adaptation.
-
-See also:
-- [[fukuoka-natural-farming-philosophy]] — the alternative
-- [[fukuoka-philosophy-of-mu-and-nature]] — philosophical foundation
-- [[fukuoka-biotechnology-computers-warning]]

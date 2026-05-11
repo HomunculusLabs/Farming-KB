@@ -13,20 +13,20 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Pasiecznik, N.M. et al. (2001). "The Prosopis juliflora–Prosopis pallida complex." Oxford Forestry Institute.
+  - Pasiecznik, N.M. et al. (2001). "The prosopis-juliflora–Prosopis pallida complex." Oxford Forestry Institute.
   - Arce, H. et al. (1993). "Chemical composition and forage quality of Acacia farnesiana." Tropical Grasslands, 27, 279–284.
-  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference and selection guide." World Agroforestry Centre.
+  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
   - Csurhes, S. (2005). "Huisache (Acacia farnesiana) in Australia." Queensland Department of Natural Resources.
   - Rico-Arce, L. (2007). "The genus Vachellia (Fabaceae, Mimosoideae) in Mexico." Kew Publishing.
 ---
 
 ## Overview
 
-**Acacia farnesiana**, commonly known as sweet acacia, huisache, cassie, or needle bush, is a shrub or small tree in the family Fabaceae. It is native to the Americas, with a natural range extending from the southern [[dmt-containing-plants-united-states-halpern]] through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America.
+**Acacia farnesiana**, commonly known as sweet acacia, huisache, cassie, or needle bush, is a shrub or small tree in the family Fabaceae. It is native to the Americas, with a natural range extending from the southern [[dmt-containing-plants-united-states-halpern]] through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]].
 
 The species is renowned for its intensely fragrant golden-yellow flowers, which yield the perfume ingredient cassie absolute. This fragrance has been used in high-end perfumery since the 16th century.
 
-Beyond its ornamental and aromatic value, sweet acacia provides fodder, fuelwood, medicine, and soil stabilization services. Its thorny branches make it effective as a living fence and barrier hedge.
+Beyond its ornamental and aromatic value, sweet acacia provides fodder, fuelwood, medicine, and soil stabilization services. Its thorny branches make it effective as [[query-how-do-i-design-and-plant-a-living-fence]] and barrier hedge.
 
 ## Taxonomy and Morphology
 
@@ -69,7 +69,7 @@ Flowering period extends over 4–8 weeks, providing sustained nectar resources 
 
 ## Chemistry and Aromatic Uses
 
-The flowers of Acacia farnesiana are the source of **cassie absolute**, a highly valued perfumery material. The absolute is obtained by solvent extraction of the flowers, yielding 0.1–0.3% by fresh weight.
+The flowers of Acacia farnesiana are the source of **cassie absolute**, a highly valued perfumery material. The absolute is obtained by [[cannabis-solvent-extraction]] of the flowers, yielding 0.1–0.3% by fresh weight.
 
 Key [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include farnesol (which gives the species its epithet), linalool, nerol, geraniol, and various ionones. The fragrance profile combines sweet floral, powdery, and woody-violet notes.
 
@@ -88,28 +88,3 @@ Phytochemical analysis has identified flavonoids, tannins, alkaloids, and terpen
 Anti-inflammatory and antioxidant activities have been documented in vitro.
 
 The condensed tannins in the bark contribute to its traditional wound-healing applications.
-
-Bark extracts have shown moderate activity against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and Aspergillus niger in laboratory studies.
-
-## Ecology and Applications
-
-Sweet acacia forms nitrogen-fixing associations with rhizobia, enhancing soil fertility in degraded landscapes. This capacity makes it useful for ecological restoration and mine reclamation projects.
-
-The species provides browse for livestock, particularly goats, which consume the pods and young shoots. Crude protein content of pods ranges from 12–15%, making them a valuable dry-season fodder.
-
-As a living fence, the dense, thorny growth forms impenetrable barriers. Huisache hedges are widely used throughout Latin America for livestock containment and property demarcation.
-
-The wood is dense, hard, and burns with intense heat, making it excellent fuelwood and charcoal. It is also used for tool handles, fence posts, and small carpentry items.
-
-Root systems are effective at soil binding, making sweet acacia useful for [[permplant-willows-salix-erosion-control-fodder]] on slopes and riverbanks. However, its prolific seeding can lead to weediness in pastoral systems.
-
-The tree provides important habitat for wildlife, offering nectar for pollinators and shelter for birds. Its thorny structure creates protective nesting sites for small birds, reducing predation pressure.
-
-## See Also
-
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]
-- [[azadirachta-indica]]
-- [[pongamia-pinnata]]
-- [[nitrogen-fixing-trees]]
-- allelopathy

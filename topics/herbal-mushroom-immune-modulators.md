@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - Smith, Rowan & Sullivan, Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (2002)
   - The Fungal Kingdom, comprehensive mycology reference
   - Medicinal Mushrooms: Their therapeutic properties and current medical usage

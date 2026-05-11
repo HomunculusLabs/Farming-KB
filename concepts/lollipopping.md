@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]
@@ -86,32 +87,3 @@ Lollipopping pairs well with other training methods:
 - [[sea-of-green]] setups, plants are packed so tightly that the lower portions receive almost no light. Lollipopping is almost automatic -- the plant naturally abandons lower growth. Formal lollipopping in SOG focuses on cleaning up any remaining lower foliage before it becomes a pest or mold risk.
 
 ### SCROG Lollipopping
-
-In  is used, the plant's profile is lowered and more bud sites are exposed to light. The lollipop line shifts downward, potentially preserving more of the plant. Lollipopping in LST setups focuses on removing only the lowest, most shaded material.
-
-## Cervantes on Removing Healthy Leaves
-
-While lollipopping focuses on removing lower branches (which Cervantes supports), some growers also strip healthy fan leaves from the upper portion. Cervantes explicitly warns against this:
-
-- "Removing large fan or shade leaves DOES NOT make plants more productive"
-- "Plants need all their leaves to produce the maximum amount of chlorophyll and food"
-- "Removing leaves slows chlorophyll production, stresses the plant, and stunts its growth"
-
-For lollipopping, the distinction is clear: remove shaded lower branches and their leaves (good), but do not strip healthy, light-receiving leaves from the upper canopy (bad).
-
-## After Lollipopping Care
-
-After performing lollipopping, monitor plants for:
-
-- Recovery speed: new growth should resume within a few days
-- Stress signs: wilting, drooping, or discoloration at cut sites
-- Pest vulnerability: open cuts can attract insects until they heal
-- Nutrient needs: reduced leaf area means less transpiration; adjust watering accordingly
-- Air circulation: the open lower canopy should improve airflow; verify with a hygrometer
-
-## See Also
-
-- [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
-- [[sea-of-green]] -- high-density growing where lollipopping is commonly used
-- [[cannabis-vegetative-stage]] -- timing for pre-flower lollipopping
-- [[cannabis-flowering-stage]] -- understanding flowering stages for lollipopping

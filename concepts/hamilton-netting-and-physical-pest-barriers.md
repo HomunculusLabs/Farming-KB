@@ -1,5 +1,5 @@
 ---
-title: "Netting and hamilton netting and physical pest barriers Barriers"
+title: Hamilton Netting And Physical Pest Barriers
 created: 2026-04-28
 tags: [pest-control, netting, fencing, bird-protection, physical-barriers]
 date: 2026-04-25
@@ -52,7 +52,7 @@ unobtrusive in the ornamental garden.
 
 ### Floating Cloches
 
-New grass seed is extremely vulnerable to bird attack. Cover seeded areas
+New [[grass-seed-as-mushroom-substrate]] is extremely vulnerable to bird attack. Cover seeded areas
 with perforated plastic sold as "floating cloches." This not only keeps
 birds away but encourages germination by warming the soil, providing a
 dual benefit. Scarecrows provide limited, short-term effectiveness, as
@@ -88,42 +88,3 @@ find this regrettable.
 ## Mouse Prevention
 
 Mice are usually not a serious problem, but if entire rows of large seeds
-such as peas or beans disappear, suspect mice. They dig seeds out and
-carry them away, rarely leaving a visible trace. Prevention involves
-either conventional mousetraps or keeping a cat. Covering seed rows with
-wire netting or cloches until germination also provides protection.
-
-## Underground Barriers for Weeds
-
-Weeds that spread by creeping roots, such as couch grass and ground elder,
-can be prevented from encroaching from neighbouring plots by installing a
-barrier that runs deep into the soil along the fence line. This provides
-effective, permanent protection. For clearing pernicious weeds within the
-garden, a combination of thorough digging and physical removal of all root
-fragments is the only reliable organic method.
-
-## Carrot Fly Collars
-
-While not strictly netting, physical barriers around individual plants are
-valuable. For cabbage root fly, placing a carpet pad collar around each
-plant at soil level proved completely effective in controlled trials,
-outperforming both folk remedies and chemical insecticides. This simple,
-free technique prevents the fly from laying eggs near the plant stem.
-
-## Practical Tips
-
-- Invest in good-quality netting; it lasts for many years with careful use
-- Always secure netting firmly at ground level to prevent birds getting
-  trapped underneath
-- Remove netting regularly to check for damage, weed growth, and plant
-  progress
-- Choose plastic netting with UV stabiliser for longer life
-- Maintain fencing regularly, checking for gaps or damage
-- Mark mole trap positions clearly and check them every day
-- Use a combination of methods for the most effective protection
-
-## Related Concepts
-
-- [[hamilton-cloches-and-frost-protection]]
-- [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[hamilton-pest-and-disease-control-organic]]

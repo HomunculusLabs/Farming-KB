@@ -26,8 +26,8 @@ Japan has the world's most developed regulatory framework for functional foods:
 
 ### United States: Dietary Supplement Framework
 
-- Mushroom extracts marketed as dietary supplements under DSHEA (1994)
-- Cannot make disease treatment claims
+- Mushroom extracts marketed as [[medicinal-mushroom-dietary-supplements]] under DSHEA (1994)
+- Cannot make [[ingham-root-disease-treatment]] claims
 - Can make "structure/function" claims with appropriate disclaimer
 - Quality control varies widely between manufacturers
 - No pre-market approval required
@@ -42,7 +42,7 @@ Japan has the world's most developed regulatory framework for functional foods:
 
 ### China
 
-- Traditional Chinese Medicine (TCM) framework provides a pathway for mushroom products
+- Traditional Chinese Medicine (TCM) framework provides a pathway for [[functional-mushroom-products]]
 - PSP approved as a pharmaceutical drug
 - Many mushroom products sold as health foods with TCM classification
 
@@ -78,21 +78,13 @@ The Chinese term "Yakuzen" refers to medicinal food dishes incorporating mushroo
 - **Standardization** — β-glucan content varies widely between products
 - **Authentication** — some products contain different species than labeled
 - **Adulteration** — cheaper fillers sometimes added
-- **Potency** — extraction methods affect bioactive compound yield
+- **Potency** — [[arbuscular-mycorrhizal-spore-extraction-methods]] affect bioactive compound yield
 - **Batch consistency** — natural products inherently variable
 
 ## Safety Profile
 
-Medicinal mushrooms have an excellent safety record:
+[[medicinal-mushrooms]] have an excellent safety record:
 - Used as foods for thousands of years in Asia
 - Used medicinally in TCM for hundreds of years
 - No significant toxicity reported for recommended doses
 - Generally Recognized as Safe (GRAS) status for many species
-- Caution advised for [[cannabis-autoimmune-conditions-detailed]] (immune stimulation may exacerbate)
-- Potential interactions with immunosuppressive medications
-
-## See Also
-
-- [[medicinal-mushroom-health-benefits]] — therapeutic properties
-- [[adaptogenic-herbs-overview]] — comparison with other functional herbs
-- [[medicinal-mushroom-cancer-regulatory-frameworks]]

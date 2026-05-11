@@ -11,7 +11,7 @@ sources:
 
 # Green Crack
 
-Green Crack is a sativa-dominant cannabis strain renowned for its
+Green Crack is a sativa-dominant [[biscotti-cannabis-strain]] renowned for its
 energizing, mentally stimulating effects and sharp citrus-mango aroma.
 Originally bred by Cecil C. in the 1990s under the name "Cush," the
 strain was renamed "Green Crack" by cannabis icon Snoop Dogg, who felt
@@ -26,9 +26,9 @@ depression, and attention-related conditions.
 The strain is typically classified as 75-80% sativa / 20-25% indica,
 though the exact ratio varies by phenotype and breeder. Its genetic
 lineage traces to a Skunk #1 phenotype that was selectively bred for
-enhanced sativa characteristics, including shorter flowering time
+enhanced sativa characteristics, including shorter [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]
 relative to pure sativas while retaining a cerebral, uplifting high.
-Modern cut-holders and seed companies including Fast Buds, Crop King
+Modern cut-holders and [[spanish-cannabis-seed-companies]] including Fast Buds, Crop King
 Seeds, and Seedsman have released autoflowering and feminized versions,
 expanding accessibility for home cultivators.
 
@@ -40,7 +40,7 @@ expanding accessibility for home cultivators.
 | Lineage | Skunk #1 phenotype (selectively bred) |
 | Breeder | Originally bred by Cecil C. (1990s) |
 | Renamed by | Snoop Dogg (formerly called "Cush") |
-| THC content | 15-25% (phenotype and grow-dependent) |
+| [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] | 15-25% (phenotype and grow-dependent) |
 | CBD content | Typically below 0.1% |
 | Dominant terpenes | Myrcene, pinene, limonene, caryophyllene |
 | Flowering time | 7-9 weeks (photoperiod); 9-10 weeks (autoflower) |
@@ -73,7 +73,7 @@ flower. Key characteristics include:
 - **Flavor:** Smooth citrus-mango on the inhale, transitioning to
   earthy, slightly peppery notes on the exhale. Some phenotypes
   exhibit a distinct fruity sweetness reminiscent of green apple or
-  passion fruit. The flavor is generally considered smooth and
+  [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]. The flavor is generally considered smooth and
   enjoyable with minimal harshness.
 - **Appearance:** Medium to large, dense but somewhat airy buds
   characteristic of sativa structure. Coloration ranges from bright
@@ -87,55 +87,3 @@ flower. Key characteristics include:
 Green Crack is classified as a cerebral, energizing strain with effects
 that are predominantly mental rather than physical. The onset is rapid
 (5-10 minutes after inhalation) and characterized by:
-
-- **Euphoria:** Immediate mood elevation, feelings of happiness and
-  well-being, often described as "sunny" or "radiant" in character
-- **Energy and focus:** Strong mental stimulation without the jittery
-  anxiety sometimes associated with pure sativas; users report
-  enhanced motivation, creativity, and task-oriented focus
-- **Sociability:** Increased talkativeness and social engagement, making
-  it popular for social gatherings and collaborative activities
-- **Duration:** Effects typically peak at 30-60 minutes and last 2-3
-  hours, gradually tapering without heavy sedation or crash
-
-### Medical Applications
-
-| Condition | Reported Efficacy | Notes |
-|---|---|---|
-| Fatigue | High | Primary medical use; reliable daytime energy |
-| Depression | Moderate-High | Mood elevation and anxiolysis |
-| ADHD | Moderate | Improved focus without stimulant side effects |
-| Anxiety (mild) | Moderate | Low-CBD profile may not suit severe anxiety |
-| Chronic pain | Low-Moderate | Mild analgesia; insufficient for severe pain |
-| Nausea | Moderate | Antiemetic effects via CB1 receptor activity |
-| Migraine | Moderate | May help with mild headache; not severe migraine |
-
-## Cultivation Notes
-
-Green Crack is considered a moderately easy strain to cultivate,
-suitable for beginners with some experience. Key cultivation
-considerations include:
-
-- **[[cannabis-sativa-indoor-cultivation-techniques]]:** Thrives in soil and hydroponic systems;
-  responds well to SCROG and LST [[cannabis-training-techniques-comparison]] to manage
-  sativa stretch. Maintain temperatures of 22-28°C during flowering.
-- **Outdoor cultivation:** Prefers warm, Mediterranean-type climates
-  with consistent sunlight. Harvest in late September to mid-October
-  (Northern Hemisphere). May require support for tall branches.
-- **Nutrient needs:** Moderate to heavy feeder, particularly during
-  mid-flowering. Watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
-  CalMag supplementation recommended.
-- **Common issues:** Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions;
-  the strong aroma requires carbon filtration for indoor grows.
-  Branches can become brittle under heavy bud weight.
-
-## Similar Strains
-
-| Strain | Comparison |
-|---|---|
-| [[jack-herer]] | More complex spice/pine flavor; slightly more cerebral |
-| [[amnesia-haze]] | Longer flowering; more potent but similar sativa character |
-| [[skunk-1]]
-- [[limonene]]
-- [[query-what-are-cannabis-terpenes-and-why-do-they-matter]]
-- [[sativa-landrace-strains-and-geographic-origins]]

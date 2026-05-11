@@ -1,5 +1,5 @@
 ---
-title: Cultivar-Specific Root [[cannabis-rhizosphere-microbial-communities]]
+title: Cultivar Specific Root Microbial Communities
 created: 2026-05-09
 tags: [microbiome, cannabis, cultivar, endorhiza, plant-genotype]
 date: 2026-05-09
@@ -88,46 +88,3 @@ strain-specific differences:
   environments
 
 ## Notable Cultivar-Specific Taxa
-
-### Methylophilus in Bookoo Kush
-
-The most dramatic cultivar-specific finding was the enrichment of
-*Methylophilus* in the Bookoo Kush endorhiza:
-
-- Bookoo Kush: 13% of [[proteobacteria-dominance-cannabis-endorhiza-community]]
-- Burmese: 0.13% of endorhiza community
-- Sour Diesel: completely absent
-
-This 100-fold difference (FDR: p = 0.012) suggests that Bookoo Kush creates
-a root environment particularly favorable for methylotrophic bacteria, which
-utilize one-carbon compounds such as methanol — a product of plant cell wall
-demethylation that may be released during root growth.
-
-### Sphingomonas wittichii in Maui Wowie
-
-Maui Wowie showed prevalence of *Sphingomonas wittichii* in the second
-experiment. This species can metabolize phenazine-1-carboxylic acid, a
-compound with [[medicinal-mushroom-antimicrobial-properties]]. Its enrichment may reflect either
-the Maui Wowie root environment's unique chemical profile or a defensive
-symbiosis where the bacterium helps protect the plant from competing
-microorganisms.
-
-## Implications for Cannabis Agriculture
-
-The finding of cultivar-specific root microbiomes has practical implications:
-
-- **Microbiome-informed breeding**: Selecting for cultivars that naturally
-  support beneficial microbial communities could reduce input requirements
-- **Tailored bioinoculants**: Microbial products may need to be
-  cultivar-specific for optimal colonization and efficacy
-- **Consistency challenges**: Cultivar switches in commercial operations
-  may necessitate re-establishment of beneficial root microbiomes
-- **Quality correlations**: If root microbes influence cannabinoid or
-  terpene production (as suggested by correlation data), microbiome
-  management could become a quality control parameter
-
-## See Also
-
-- [[cannabis-endorhiza-microbiome-structure]]
-- [[two-tier-selection-model-plant-microbiome]]
-- [[edaphic-factors-microbial-community-structure]]

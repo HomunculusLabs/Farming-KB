@@ -22,7 +22,7 @@ sources:
 
 # Clitoria ternatea
 
-**Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across Southeast Asia, India, and the Pacific for its striking deep blue flowers, which are rich in anthocyanins and have been used for centuries in traditional medicine, as a natural food colorant, and in Ayurvedic practice as a brain tonic and adaptogen.
+**Clitoria ternatea** L., commonly known as **butterfly pea**, **Asian pigeonwings**, **blue pea**, or **aparajita** (अपराजिता) in Sanskrit, is a perennial climbing vine in the family Fabaceae. Native to tropical equatorial Asia, the plant is widely cultivated across [[psilocybe-southeast-asia-pacific]], India, and the Pacific for its striking deep blue flowers, which are rich in anthocyanins and have been used for centuries in traditional medicine, as a natural food colorant, and in Ayurvedic practice as a brain tonic and adaptogen.
 
 ## Taxonomy and Classification
 
@@ -71,7 +71,7 @@ sources:
 - **Anxiolytic and antidepressant:** Root extracts demonstrate anxiolytic effects in animal models comparable to benzodiazepines, likely via GABA-A receptor modulation without sedative side effects
 - **Anti-inflammatory:** Leaf and root extracts inhibit COX-2, TNF-α, and IL-6; used traditionally for joint pain and [[cannabis-for-inflammatory-conditions]]
 - **Antidiabetic:** Anthocyanin-rich flower extracts improve insulin sensitivity and reduce postprandial blood glucose in animal models
-- **Antioxidant:** High ORAC value from ternatins; protects against oxidative stress in hepatic and neuronal tissues
+- **Antioxidant:** High ORAC value from ternatins; protects against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in hepatic and neuronal tissues
 - **Antimicrobial:** Cyclotides and anthocyanins show activity against Gram-positive bacteria, Candida species, and some viruses
 - **Reproductive health:** In traditional Indian medicine, used as an aphrodisiac and to treat menstrual disorders; scientific evidence is preliminary
 
@@ -81,44 +81,10 @@ sources:
 - **Natural food coloring:** Approved as a natural colorant (E163 category) in many countries; used to color rice dishes (nasi kerabu in Malaysia), desserts, cocktails, and confectionery
 - **Color-changing cocktails:** Popular in mixology for the dramatic blue-to-pink pH-dependent color transformation
 - **Flower tempura:** Deep-fried flowers served as a snack in Thai cuisine
-- **Dairy products:** Used to color ice cream, yogurt, and cheese in Southeast Asian food manufacturing
+- **Dairy products:** Used to color [[ice-cream-bean-entity]], yogurt, and cheese in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] food manufacturing
 
 ## Cultivation and Permaculture Role
 
 - **Propagation:** Seed (scarification or soaking in warm water for 12–24 hours improves germination); stem cuttings also viable; germination in 5–10 days at 25–30°C
 - **Support:** Requires trellis, fence, or companion plant to climb; excellent for [[comparison-vertical-gardening-vs-container-gardening]]
-- **Nitrogen fixation:** As a legume, fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants
-- **Living mulch and ground cover:** Dense foliage provides weed suppression and soil protection in tropical food forests
-- **Companion planting:** Excellent companion for vegetables and fruit trees in [[permaculture-guilds]]; the nitrogen-fixing capacity and pollinator attraction make it a functional support plant
-- **Ornamental value:** Striking blue flowers provide extended blooming from spring through autumn in warm climates
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Once established, moderately drought-tolerant; performs best with regular watering
-- **Pest resistance:** Cyclotide content provides natural resistance to many insect pests
-
-## Safety and Precautions
-
-- **Generally recognized as safe:** Widely consumed as a food and beverage ingredient across Asia with no significant toxicity reports
-- **Pregnancy:** Traditional Ayurvedic texts note emmenagogue properties; caution advised during pregnancy, though culinary use in normal food quantities is generally considered acceptable
-- **Anticoagulant interaction:** May potentiate anticoagulant effects due to flavonoid content; monitor if using with warfarin or similar drugs
-- **Hypoglycemic interaction:** Additive effects with antidiabetic medications; blood glucose monitoring recommended for diabetic patients
-- **Allergic reactions:** Very rare; possible in individuals with Fabaceae (peanut/legume) sensitivity
-
-## Research Highlights
-
-- **Nootropic mechanism:** A 2018 study (Journal of Ethnopharmacology) demonstrated that aqueous root extract enhanced memory consolidation in rats via acetylcholinesterase inhibition and upregulation of brain-derived neurotrophic factor (BDNF) in the hippocampus
-- **Anxiolytic without sedation:** Root extract at 100–400 mg/kg showed anxiolytic effects in elevated plus-maze and open-field tests without the motor impairment typical of benzodiazepines
-- **Anthocyanin bioavailability:** Ternatins demonstrate good oral bioavailability compared to other anthocyanins; metabolites detected in plasma within 30 minutes of consumption
-- **Skin bioactivity:** Topical formulations containing Clitoria ternatea extract showed significant improvement in skin elasticity and reduction of wrinkles in a 12-week human clinical trial (Journal of Cosmetic Dermatology, 2020)
-- **Anticonvulsant potential:** Cyclotide-rich extracts demonstrated anticonvulsant activity in pentylenetetrazole-induced seizure models, possibly through GABAergic modulation
-
-## Yield and Production Data
-
-- **Fresh flower yield:** 8–12 tonnes/hectare/year under intensive cultivation in tropical conditions
-- **Dry flower yield:** 1.5–2.5 tonnes/hectare; anthocyanin content of dried flowers ranges from 1.0–3.5% dry weight
-- **Leaf yield:** 5–8 tonnes/hectare/year; suitable for extraction of cyclotides and flavonoids
-- **Economic importance:** Major commercial crop in Thailand for the natural food colorant industry; growing export market for butterfly pea tea and supplements globally
-- **Processing:** Flowers dried at 40–50°C to preserve anthocyanin content; extract standardization typically targets 5–10% total anthocyanins
-
-## See Also
-- [[bacopa-monnieri]]
-- [[permaculture-plants-medicinal-herbs-healing]]
-- [[companion-planting]]
+- **[[biological-nitrogen-fixation-agriculture]]:** As a legume, fixes atmospheric nitrogen via rhizobial symbiosis, improving soil fertility for neighboring plants

@@ -23,16 +23,16 @@ environments.
 Lichens represent a dual (or sometimes tripartite) organism where:
 
 - **The mycobiont** (usually an Ascomycete fungus) provides structure, protection from
-  desiccation and UV radiation, mineral acquisition, and gas exchange architecture
-- **The photobiont** (green algae and/or cyanobacteria) provides photosynthate (sugars) to
+  desiccation and UV radiation, mineral acquisition, and [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] architecture
+- **The photobiont** ([[cervantes-green-algae-growing-medium]] and/or cyanobacteria) provides photosynthate (sugars) to
   the fungal partner
 - **The cyanobiont** (when present as a third partner) fixes atmospheric nitrogen,
   enabling lichens to colonize nitrogen-poor substrates
 
 The mycobiont controls the relationship and determines lichen morphology (crustose, foliose,
-or fruticose), growth rate, and reproductive strategy. The photobiont exists within a layer
+or fruticose), [[soil-temperature-plant-growth-rate-doubling-rule]], and reproductive strategy. The photobiont exists within a layer
 of fungal tissue (the photobiont layer) sandwiched between an upper cortex and lower cortex
-of densely packed fungal hyphae.
+of densely packed [[fungal-hyphae]].
 
 ## Poikilohydry: Life Without Water Regulation
 
@@ -55,8 +55,8 @@ equilibrates with atmospheric humidity. Key characteristics include:
 ### Atmospheric Humidity Absorption
 Lichens absorb water vapor directly from the atmosphere. Most species require a minimum
 relative humidity of 80-95% (corresponding to water potential of approximately -5 to -10 MPa)
-before significant metabolic activity resumes. The fungal medulla acts as a wick, drawing
-water from the surface throughout the thallus by capillary action.
+before significant [[arbuscule-isolation-metabolic-activity-assays]] resumes. The fungal medulla acts as a wick, drawing
+water from the surface throughout the thallus by [[capillary-action-in-soils]].
 
 ### Liquid Water Uptake
 Rain, dew, fog, and meltwater provide liquid water that lichens absorb rapidly. The upper
@@ -88,53 +88,3 @@ pattern:
    thallus becomes limiting, causing photosynthetic depression even though water is abundant
 
 This pattern is critical for understanding lichen productivity in fog-dependent ecosystems
-such as coastal deserts where lichens may receive regular fog but little rain.
-
-## Desiccation Tolerance Mechanisms
-
-Lichens survive extreme desiccation through several biochemical strategies:
-
-- **Trehalose accumulation**: The disaccharide trehalose acts as a water replacement molecule,
-  stabilizing proteins and membranes during drying
-- **LEA (Late Embryogenesis Abundant) proteins**: These intrinsically disordered proteins
-  protect cellular structures by forming glasses that immobilize macromolecules
-- **Antioxidant systems**: Desiccation generates reactive oxygen species (ROS); lichens
-  employ superoxide dismutase, catalase, and ascorbate peroxidase to manage oxidative stress
-- **Compatible solutes**: Polyols (especially arabitol and mannitol) produced by both partners
-  contribute to osmotic balance during drying and rehydration cycles
-
-## Ecological Implications of Water Relations
-
-The poikilohydric strategy has profound ecological consequences:
-
-- **Growth rates**: Most lichens grow extremely slowly (0.1-10 mm per year) because they
-  can only photosynthesize when hydrated, and hydration events are often brief
-- **Habitat specialization**: Different lichen species occupy niches defined by their water
-  relations—some require frequent rain (hygrophytic), others tolerate prolonged desiccation
-  (xerophytic), and fog-dependent species thrive where fog is the primary moisture source
-- **Vertical zonation**: On tree trunks and rock faces, lichen communities stratify by
-  moisture availability, with cyanolichens (requiring more consistent moisture) typically
-  at the base and xerophytic species at the top
-- **Climate sensitivity**: Lichens are highly sensitive to atmospheric moisture patterns,
-  making them important indicators of climate change effects in polar, alpine, and arid
-  environments
-
-## Lichens as Indicators of Environmental Change
-
-The intimate connection between lichen water relations and atmospheric conditions makes them
-excellent bioindicators:
-
-- **Air quality**: Many lichens are sensitive to sulfur dioxide and nitrogen deposition,
-  which disrupt gas exchange and leach nutrients from the thallus
-- **Climate monitoring**: Changes in lichen community composition track shifts in fog
-  frequency, precipitation patterns, and temperature regimes
-- **Radiocarbon dating**: Lichen growth rates calibrated by water relations data allow
-  lichenometry for dating rock surfaces in glacial and periglacial environments
-
-## See Also
-
-- [[gadd-lichen-biogeochemistry-pioneer]] — Lichen roles in biogeochemical cycling
-- [[gadd-fungal-extreme-environments]] — Fungi in extreme habitats
-- [[gadd-fungal-extremophiles]] — Extremophile fungal physiology
-- [[gadd-fungal-symbiosis-mycorrhizae]] — Mycorrhizal fungal symbioses
-- [[gadd-fungal-cell-structure]] — Fungal cellular organization

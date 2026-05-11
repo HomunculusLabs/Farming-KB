@@ -24,7 +24,7 @@ Historically, the Kingdom Fungi was classified into four phyla:
 **Chytridiomycota**, **Zygomycota**, **Basidiomycota**, and **Ascomycota**.
 This classification was based primarily on morphological characteristics such
 as the presence or absence of flagella, the type of sexual spore produced,
-and the structure of the fruiting body. While useful for identification, this
+and the structure of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. While useful for identification, this
 system did not accurately reflect evolutionary relationships.
 
 ## Molecular Phylogenetics and the Crown Fungi
@@ -54,7 +54,7 @@ environments.
 ## Phylum Chytridiomycota (Zoosporic Fungi)
 
 The Chytridiomycota is defined by the presence of flagellated cells
-(zoospores or gametes) at some stage in their life cycle — a plesiomorphic
+(zoospores or gametes) at some stage in their [[agaricus-campestris-biology-and-life-cycle]] — a plesiomorphic
 (ancestral) trait. The presence of flagella links fungi to their aquatic
 ancestors and represents the ancestral condition from which the terrestrial
 fungi evolved through loss of the flagellated stage.
@@ -76,7 +76,7 @@ production of zygospores (meiospores) and the absence of flagella. Modern
 analyses show the group is polyphyletic. Several lineages are recognized as
 monophyletic:
 
-- **Entomophthorales**: Fungal pathogens of insects
+- **Entomophthorales**: [[bloomfield-fungal-pathogens-and-parasites]] of insects
 - **Harpellales and Kickxellales**: Sister taxa sharing plugged, flared
   septal pores; found in arthropod guts
 - **Mucorales**: The largest order; includes common molds like *Rhizopus*
@@ -88,57 +88,3 @@ monophyletic:
 
 Notably, the traditional families within Mucorales (Mucoraceae,
 Thamnidiaceae, Pilobolaceae) have been shown to be polyphyletic.
-
-## Clade Glomales (Arbuscular Mycorrhizal Fungi)
-
-The Glomales are fungi forming arbuscular mycorrhizal (AM) associations
-with an estimated 80% of the world's plant species. Molecular evidence
-places Glomales as a sister clade to the Ascomycota-Basidiomycota lineage,
-making them a critical component of the crown fungi.
-
-Two major lineages are recognized: Glomaceae and Gigasporaceae. Two
-previously unrecognized families, Archaeosporaceae and Paraglomaceae,
-have been shown to have evolved from outside the traditional Glomalean
-lineages despite sharing morphological similarities. *Geosiphon*, a
-symbiont of cyanobacteria, may also be derived from within this group.
-
-## Phylum Ascomycota
-
-The Ascomycota is the largest phylum of Kingdom Fungi, with approximately
-32,000 described species. It is characterized by the production of
-meiospores (ascospores) within sac-shaped cells (asci). Three major
-classes are recognized:
-
-- **Archiascomycetes**: A paraphyletic assemblage of basal taxa including
-  *Taphrinales* (plant pathogens) and *Pneumocystis* (associated with
-  mammalian pneumonia)
-- **Saccharomycetes**: True yeasts, including *[[saccharomyces-cerevisiae]]*
-  (brewer's yeast) and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* (human pathogen)
-- **Euascomycetes**: The largest class, including filamentous, sporocarp-
-  producing taxa and their diverse asexual (anamorphic) relatives. This
-  class includes the economically vital genera *Penicillium* (source of
-  penicillin) and *Aspergillus*.
-
-## Phylum Basidiomycota
-
-The Basidiomycota includes mushrooms, puffballs, bracket fungi, rusts,
-and smuts. Together with the Ascomycota, they comprise more than 95% of
-all known fungal taxa. The Basidiomycota and Ascomycota are monophyletic
-sister taxa, sharing a common ancestor within the crown fungi clade.
-
-## Fungal Relationships to Other Eukaryotes
-
-Molecular phylogenetics has revealed that Fungi are more closely related
-to animals (Metazoa) than to plants. Fungi and animals share a
-choanoflagellate-like common ancestor. Microsporidia, once classified as
-protists, are now recognized as a sister group to Fungi. This close
-fungi-animal relationship has important implications for understanding
-fungal biology, including why fungal diseases in humans can be difficult
-to treat — many fungal cellular processes are more similar to human
-biology than to plant biology.
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[ascomycota]]
-- fungal specimen preservation

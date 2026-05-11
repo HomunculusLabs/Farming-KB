@@ -19,7 +19,7 @@ A concentration of 10⁻² ppm (0.01 parts per million) is an extraordinarily sm
 - **Mass equivalent** — 0.01 mg of brassinosteroid per liter of substrate or agar medium
 - **Molar concentration** — For 22S,23S-homobrassinolide (molecular weight approximately 480 g/mol), 10⁻² ppm corresponds to approximately 2 × 10⁻⁸ M (20 nanomolar)
 - **Volume analogy** — Equivalent to approximately one drop of brassinosteroid solution in a standard swimming pool (50,000 L)
-- **Comparison with other [[ingham-natural-growth-regulators-soil-microbes]]** — Many synthetic plant growth regulators require concentrations 100-1000 times higher for observable effects
+- **Comparison with other [[ingham-natural-growth-regulators-soil-microbes]]** — Many synthetic [[singh-fungal-plant-growth-regulators-production]] require concentrations 100-1000 times higher for observable effects
 
 The use of this specific concentration without dose-response optimization suggests either that the authors selected a concentration known from plant studies to be effective, or that they performed preliminary screening at multiple concentrations and reported only the effective dose.
 
@@ -52,7 +52,7 @@ If a fungus responds to a substance at nanomolar concentrations, it is plausible
 
 ### Low Contamination Risk
 
-The ultra-low effective dose means that even trace contamination of substrates with brassinosteroid-containing plant material could produce biological effects. Conversely, it also means that brassinosteroid treatment of cultivation substrates is extremely economical — minute quantities of the compound are sufficient.
+The ultra-low effective dose means that even trace contamination of substrates with brassinosteroid-containing plant material could produce biological effects. Conversely, it also means that [[annulus-loss-morphological-effect-brassinosteroid-treatment]] of cultivation substrates is extremely economical — minute quantities of the compound are sufficient.
 
 ## Absence of Dose-Response Data
 
@@ -62,7 +62,7 @@ A notable limitation of the Gartz study is the absence of a full dose-response c
 - What is the optimal concentration that maximizes growth promotion?
 - Is there a concentration at which brassinosteroid becomes inhibitory (hormesis curve)?
 - Does the dose-response relationship differ between agar and dung/grain substrates?
-- Does the dose-response relationship differ between mycelial growth and fruiting endpoints?
+- Does the dose-response relationship differ between [[mycelial-growth-and-colonization]] fruiting endpoints?
 
 In plant brassinosteroid research, dose-response curves typically show a bell-shaped (hormetic) pattern, with optimal effects at intermediate concentrations and reduced or inhibitory effects at both very low and very high concentrations. If the fungal response follows a similar pattern, the 10⁻² ppm dose may or may not represent the optimum.
 
@@ -75,56 +75,16 @@ The study reports that the 10⁻² ppm concentration was tested in "ten runs eac
 In plant science, brassinosteroids are active at similarly low concentrations. Typical effective doses for brassinosteroid application in plant systems include:
 
 - **Brassinolide**: 0.001-0.1 ppm for growth promotion in various crop species
-- **24-Epibrassinolide**: 0.01-1.0 ppm for stress amelioration
+- **24-Epibrassinolide**: 0.01-1.0 ppm for [[singh-mycorrhizae-and-plant-stress-amelioration]]
 - **28-Homobrassinolide**: 0.01-0.1 ppm for yield enhancement
 
 The 0.01 ppm dose used in the fungal study falls squarely within the effective range for plant applications, supporting the hypothesis of a conserved mechanism across kingdoms. The fact that the same concentration range is effective in both plants and fungi may indicate similar receptor binding characteristics or similar downstream signaling pathway sensitivities.
 
 ## Interaction with KH₂PO₄ Supplementation
 
-The study substrates contained 5 g/L of KH₂PO₄ (monopotassium phosphate) in addition to the brassinosteroid. [[kh2po4-phosphate-supplementation-mushroom-substrates]] is known to promote fungal growth by providing essential phosphorus for nucleic acid synthesis, energy metabolism (ATP), and cell membrane phospholipids. The observation that brassinosteroid produced dramatic effects on top of phosphate supplementation suggests that the two growth-promoting inputs operate through different mechanisms:
+The study substrates contained 5 g/L of KH₂PO₄ ([[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]]) in addition to the brassinosteroid. [[kh2po4-phosphate-supplementation-mushroom-substrates]] is known to promote fungal growth by providing essential phosphorus for nucleic acid synthesis, energy metabolism (ATP), and cell membrane phospholipids. The observation that brassinosteroid produced dramatic effects on top of [[kh2po4-phosphate-supplementation-brassinosteroid-synergy-psilocybe-cubensis]] suggests that the two growth-promoting inputs operate through different mechanisms:
 
 - **KH₂PO₄** — Provides essential mineral nutrition; effect is limited by the fungus's ability to assimilate and utilize phosphate
 - **Brassinosteroid** — Acts as a signaling molecule; may upregulate nutrient uptake systems, cell division machinery, or metabolic pathways
 
 The additive or synergistic relationship between mineral nutrition and hormonal signaling is well-documented in plant science and appears to extend to fungal systems as well.
-
-## Nanomolar Concentrations in Ecological Context
-
-To put the 20 nanomolar effective concentration in ecological perspective, consider that many fungal [[antifungal-secondary-metabolites-coprophilous-fungi]] and signaling compounds operate at similar concentration ranges:
-
-- **Fungal pheromones** (e.g., α-factor in *Saccharomyces cerevisiae*) — Active at nanomolar concentrations, detected by G-protein coupled receptors
-- **Quorum-sensing molecules** (e.g., farnesol in *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*) — Active at micromolar to nanomolar concentrations
-- **Mycotoxins** (e.g., aflatoxin) — Can exert biological effects at nanomolar concentrations on target organisms
-- **Antibiotics produced by fungi** (e.g., penicillin) — Active against bacteria at nanomolar concentrations
-
-The fact that brassinosteroid operates at a concentration comparable to these endogenous fungal signaling molecules reinforces the possibility that the fungal response is mediated by a genuine receptor system rather than a non-specific membrane effect. Non-specific membrane disruption by sterols typically requires much higher concentrations (micromolar to millimolar).
-
-## Implications for Future Dose Optimization
-
-The ultra-low effective dose identified in the Gartz study suggests that future research should explore:
-
-- **Dose-response curves** across 6-8 orders of magnitude (10⁻⁵ to 10 ppm)
-- **Timing of application** — whether adding brassinosteroid at inoculation, mid-colonization, or pre-fruiting produces different effects
-- **Combination with other growth regulators** — potential synergies with auxins, cytokinins, or other plant hormones
-- **Species generality** — whether the nanomolar sensitivity is unique to *P. cubensis* or shared across fungal taxa
-- **Economic analysis** — whether the cost of brassinosteroid treatment is justified by the yield improvement at commercial scale
-
-## See Also
-
-- [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]
-
-- [[brassinosteroid-growth-promotion-psilocybe-cubensis]] — Overview of the growth promotion findings
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]] — Phosphate supplementation context
-- [[phytohormone-activity-in-fungi-steroid-growth-regulation]] — Cross-kingdom phytohormone activity
-- [[22s-23s-homobrassinolide]] — The specific brassinosteroid compound used
-
-## References
-
-- Gartz J, Adam G, Vorbrodt H-M (1990). Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus *Psilocybe cubensis*. *Naturwissenschaften* 77:388-389.
-- Khripach VA, Zhabinskii VN, de Groot A (1999). *Brassinosteroids: A New Class of Plant Hormones*. Academic Press.
-- Adam G, Marquardt V (1986). Phytochemistry 25:1787 — Semi-synthesis of 22S,23S-homobrassinolide from stigmasterol.
-
-## Historical Significance
-
-The identification of a nanomolar-potent growth promoter for fungi at a time when fungal hormone biology was virtually unexplored makes the Gartz study a landmark in mycological endocrinology. Prior to 1990, the study of fungal hormones was largely limited to sexual pheromones (pheromone peptides in *Saccharomyces* and *Schizophyllum*) and the fungal gibberellins produced by *Gibberella fujikuroi*. The demonstration that a plant brassinosteroid could promote fungal growth at nanomolar concentrations opened the door to a new field of investigation into cross-kingdom hormonal signaling and its evolutionary origins. The fact that this effect was published in *Naturwissenschaften* — one of Germany's most prestigious scientific journals — ensured that the finding reached a broad audience, though the subsequent exploration of fungal brassinosteroid biology has been surprisingly limited given the strength of the original result.

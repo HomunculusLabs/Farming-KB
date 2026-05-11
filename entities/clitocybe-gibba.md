@@ -53,11 +53,11 @@ The cap margin is wavy and inrolled when young, becoming straight or slightly up
 
 ## Distribution and Habitat
 
-C. gibba is widely distributed across temperate Europe from Scandinavia to the Mediterranean, and extends into parts of western Asia. In North America, it is found primarily in eastern deciduous forests and along the Pacific Northwest coast.
+C. gibba is widely distributed across temperate Europe from Scandinavia to the Mediterranean, and extends into parts of western Asia. In [[guzman-psilocybin-mushrooms-north-america]], it is found primarily in eastern deciduous forests and along the Pacific Northwest coast.
 
 The species is a saprotrophic litter decomposer, fruiting on the ground among fallen leaves, needles, and fine woody debris in broadleaf and mixed woodlands. It shows strong associations with oak, beech, and birch stands.
 
-Fruiting occurs from late summer through late autumn, typically August to November in temperate regions. It often fruits in scattered groups or troops, sometimes forming fairy rings in areas with deep leaf litter accumulation.
+Fruiting occurs from late summer through late autumn, typically August to November in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It often fruits in scattered groups or troops, sometimes forming fairy rings in areas with deep leaf litter accumulation.
 
 The species tolerates a range of soil pH conditions but shows preference for slightly acidic to neutral soils. It is absent from waterlogged or heavily compacted sites, reflecting its need for oxygen diffusion through the litter layer for mycelial respiration.
 
@@ -73,9 +73,9 @@ Other potential confusions include *Infundibulicybe costata* (larger, redder cap
 
 ## Bioactive Compounds
 
-C. gibba has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Extracts have demonstrated moderate activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis* in vitro assays.
+C. gibba has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Extracts have demonstrated moderate activity against Gram-positive bacteria including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]* in vitro assays.
 
-The species contains several phenolic compounds and sterols. Beta-sitosterol and ergosterol peroxide have been isolated from fruiting bodies, both of which exhibit documented anti-inflammatory activity in laboratory models.
+The species contains several [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and sterols. Beta-sitosterol and ergosterol peroxide have been isolated from [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], both of which exhibit documented anti-inflammatory activity in laboratory models.
 
 Water-soluble polysaccharides extracted from the carpophores show immunomodulatory effects, stimulating macrophage activity and TNF-alpha production in murine cell assays. These findings remain preliminary and based solely on in vitro work.
 
@@ -88,27 +88,3 @@ Unlike several other *Clitocybe* species, *C. gibba* does not contain significan
 As a saprotroph, *C. gibba* contributes to the decomposition of leaf litter and fine woody debris in forest floor ecosystems. It plays a measurable role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down complex plant polymers including cellulose and hemicellulose.
 
 The species is moderately sensitive to air pollution and soil compaction, making it an indirect indicator of forest floor health in some European monitoring frameworks. Its presence in forest inventories correlates with undisturbed leaf litter layers and minimal soil disturbance.
-
-*C. gibba* mycelium forms associations with soil microfauna and may compete with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] for substrate access in the forest floor horizon. Its [[king-stropharia-ecological-interactions-permaculture]] at the community level remain understudied relative to more prominent litter decomposers.
-
-In permaculture and agroforestry contexts, *C. gibba* is occasionally noted as a beneficial litter-decomposing fungus in food forest understories. Its presence indicates active decomposition cycling and can be encouraged through leaf litter retention and minimal tillage practices.
-
-The species shows some potential as a bioindicator for [[mollison-pdc-forest-management-products]] assessment. Dutch mycologist Eef Arnolds documented correlations between *C. gibba* frequency and grassland-to-forest succession stages, finding it most abundant in intermediate successional phases with deep undisturbed litter layers.
-
-## Related Species
-
-Several species share the funnel morphology and decurrent gills that define the *Clitocybe* phenotype. The most commonly confused taxa include:
-
-- **Clitocybe infundibuliformis** — Very similar, distinguished by darker cap color and slightly larger spores (6.5–9 × 4.5–6 µm)
-- **Infundibulicybe costata** — Larger species with distinctly reddish-brown cap and stronger odor
-- **Lepista saeva** (field blewit) — Bluish-tinged stipe, larger stature, and distinctly farinaceous odor
-- **Clitocybe rivulosa** — Deadly toxic, smaller, whiter cap, grassland habitat, contains muscarine
-
-The taxonomic boundary between *C. gibba* and *C. infundibuliformis* has been debated for decades. Some European authorities treat them as conspecific, though most contemporary field guides maintain them as separate species based on spore size differences and subtle macroscopic features.
-
-## See Also
-
-- `[[calocybe-gambosa]]` — Edible agaric of European forests with similar trophic niche
-- `[[amanita-muscaria-entity]]` — Common forest floor mushroom of the same woodland type
-- `[[trametes-versicolor-entity]]` — Fellow saprotrophic wood and litter decomposer
-- `[[stropharia-rugosoannulata]]` — Permaculture-relevant saprotrophic mushroom for garden systems

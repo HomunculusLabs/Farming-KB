@@ -11,10 +11,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - de Jong, P.C. (1976). "Flowering and sex expression in Acer L.: a biosystematic study." Mededelingen Landbouwhogeschool Wageningen, 76(2).
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of North America: Acer saccharum. USDA Forest Service Agriculture Handbook 654.
+  - de Jong, P.C. (1976). "Flowering and cannabis-sex-expression-hermaphrodite-breeding-clarke in Acer L.: a biosystematic study." Mededelingen Landbouwhogeschool Wageningen, 76(2).
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics [[berry-growing]]: [[acer-saccharum]]. USDA Forest Service Agriculture Handbook 654.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States. New York Botanical Garden.
-  - Preston, R.J. (1976). North American Trees. Iowa State University Press.
+  - Preston, R.J. (1976). [[growing-gourmet-north-american-reishi-species]] Trees. Iowa State University Press.
 ---
 
 ## Overview
@@ -77,46 +77,14 @@ Sap from black maple is sweet and produces high-quality maple syrup. Yield and s
 
 Some maple producers consider black maple sap slightly sweeter on average, with sugar concentrations occasionally reaching 3–4%. The resulting syrup has the characteristic maple flavor profile.
 
-In forest management, black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
+In [[mollison-course-coppice-forest-management]], black maple is valued for its site adaptability. It is sometimes recommended as a more heat-tolerant alternative to sugar maple for plantings in the lower Midwest.
 
 ## Cultivation
 
-Black maple transplants readily as balled-and-burlapped or container-grown stock. It requires full sun for optimal growth and develops a strong central leader when young.
+Black maple transplants readily as balled-and-burlapped or container-grown stock. It requires full sun for optimal growth and develops a strong [[comparison-central-leader-vs-open-center-fruit-tree-training]] when young.
 
 The species performs best on deep, well-drained loams but tolerates clay soils and slightly drier conditions than sugar maple. It is less tolerant of compacted urban soils than Norway maple.
 
 Growth rate is moderate, typically 30–45 cm per year. Black maple is slightly slower-growing than sugar maple on optimal sites but more persistent on marginal sites.
 
 It is hardy in USDA zones 4–7. Fall color is reliable and provides significant ornamental value in landscape settings.
-
-The species is somewhat more drought-tolerant than sugar maple, making it a better choice for street plantings and urban landscapes in the Midwest. Salt tolerance, however, is limited.
-
-Propagation is from seed, which requires 90–120 days of cold stratification. Named cultivars are rare; most nursery stock is grown from wild-collected seed.
-
-Grafted specimens onto sugar maple rootstock are occasionally available and may offer improved performance on difficult urban sites.
-
-Pests and diseases mirror those of sugar maple. Verticillium wilt, tar spot, and anthracnose can occur. The Asian longhorned beetle (*Anoplophora glabripennis*) is a potential threat.
-
-Pruning should be performed in late summer or during the dormant season to minimize sap bleeding. Young trees benefit from structural pruning to establish good form.
-
-## Taxonomic Notes
-
-The relationship between black maple and sugar maple has been debated for over a century. Molecular evidence supports treating black maple as a distinct lineage within the *A. saccharum* complex.
-
-Hybridization with sugar maple is common where ranges overlap, producing individuals with intermediate morphology. These hybrids complicate field identification and taxonomic classification.
-
-Some authorities recognize a third taxon in the complex, black sugar maple (*A. saccharum* var. *schneckii*), from the Ozark region. This variant has intermediate leaf characteristics between the two species.
-
-## See Also
-
-- [[piper-nigrum-entity]]
-
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[acer-platanoides]]
-- [[acer-saccharinum]]
-- [[fagus-grandifolia]]
-- [[quercus-alba]]
-- [[juglans-nigra]]
-- [[tilia-americana]]
-- [[carya-ovata]]

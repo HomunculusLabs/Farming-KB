@@ -1,11 +1,11 @@
 ---
-title: cotter-compost-substrate-preparation-manure-mushroom-cultivation (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
+title: Growing Gourmet Substrate Preparation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, substrate, preparation, pasteurization, sterilization]
 sources:
-  - label: "Growing Gourmet and Medicinal Mushrooms"
+  - label: "Growing Gourmet and cancer-medicinal-mushrooms"
     author: Paul Stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
@@ -16,7 +16,7 @@ Substrate preparation is the foundation of successful [[accessible-mushroom-cult
 
 ## Two Categories of Substrate
 
-Mushroom cultivation substrates fall into two categories based on their treatment requirements:
+[[mushroom-cultivation-overview]] substrates fall into two categories based on their treatment requirements:
 
 ### Supplemented Substrates (Sterilization Required)
 - Sawdust supplemented with rice bran or wheat bran
@@ -41,7 +41,7 @@ The standard supplemented sawdust formula for [[growing-gourmet-mushroom-dehydra
 - 5% gypsum (calcium sulfate) based on total dry weight
 - Moisture content: 60-70% (typically achieved by adding water to reach this range)
 
-Red alder (Alnus rubra) is identified as an ideal base wood, particularly abundant in the Pacific Northwest. The addition of gypsum serves multiple purposes: it keeps grain kernels separated after sterilization, provides calcium and sulfur (essential elements for mushroom metabolism), and helps buffer pH.
+Red alder (Alnus rubra) is identified as an ideal base wood, particularly abundant in the [[psilocybin-north-america-pacific-northwest]]. The addition of gypsum serves multiple purposes: it keeps grain kernels separated after sterilization, provides calcium and sulfur (essential elements for mushroom metabolism), and helps buffer pH.
 
 ## Grain Formulas for Spawn Production
 
@@ -62,7 +62,7 @@ For gallon/4 liter jars:
 - 800 grams rye + 600 ml water + 4g gypsum (approximately 43% moisture)
 
 ### Key Moisture Principles
-- Grain that is too dry produces slow, wispy mycelial growth
+- Grain that is too dry produces slow, wispy [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
 - Excessive water causes grain clumping, dense slow growth, and bacterial blooms
 - Larger containers require proportionally less water due to anaerobic conditions
 - Moisture content should be verified by oven-drying test samples
@@ -75,7 +75,7 @@ Sterilization duration depends on container volume:
 - Gallon jars: 2 hours at 15 psi
 - Standard spawn bags: 4 hours at 15 psi
 
-Badham (1988) found that sterilization at 19 psi for 4 hours was functionally similar to atmospheric steam pasteurization at 190-194F (88-90C) for 14 hours. Remote sensing thermometers at various depths should be used to verify that the coolest point reaches target temperature.
+Badham (1988) found that sterilization at 19 psi for 4 hours was functionally similar to atmospheric [[growing-gourmet-phase-ii-steam-pasteurization]] at 190-194F (88-90C) for 14 hours. Remote sensing thermometers at various depths should be used to verify that the coolest point reaches target temperature.
 
 ## Steam Pasteurization (Phase II) for Straw
 
@@ -88,55 +88,3 @@ Badham (1988) found that sterilization at 19 psi for 4 hours was functionally si
 
 ### Process
 1. Fill chamber with chopped, hydrated straw to 1/4 to 1/8 of air volume (7:1 air-to-substrate ratio)
-2. Inject steam; monitor three temperature zones every 30 minutes
-3. When coolest probe reaches 160F (71C), maintain for minimum 2 hours (preferably 12-16 hours)
-4. Warning: thermal momentum can cause temperatures to exceed 200F (93C) after steam is shut off, killing beneficial organisms
-5. After steaming, immediately positive-pressure the chamber with HEPA-filtered air to prevent contamination during cooling
-6. Cool to below 105F (38C) before inoculation
-
-### Bleach Bombing
-Before opening the pasteurization chamber, the inoculation area is cleaned with 10% bleach solution. Using venturi siphon mixers, bleach is drawn directly into hose lines. Conveyor belts, counters, funnels, ceilings, and walls are all cleansed. Standard bleach (5.25% sodium hypochlorite) at 1 tbsp per gallon equals approximately 200 ppm chlorine. Most mushroom mycelia are harmed above 200 ppm.
-
-## Alternative Substrate Treatment Methods
-
-### Hydrated Lime Bath Method
-- Add 2-4 lbs hydrated lime (calcium hydroxide) per 50 gallons of water
-- pH skyrockets to 9.5 or higher
-- Immerse chopped straw for overnight soak
-- Drain and inoculate; Oyster mycelia tolerate this alkaline environment better than competitors
-- pH naturally falls as mycelium secretes acids during colonization
-
-### Bleach Bath Method
-- Add 5-6 cups household bleach to 50 gallons water
-- Submerge straw for 4-12 hours (maximum)
-- Drain leachate carefully (toxic to plants and watersheds)
-- Inoculate immediately; colonization should be complete within 2 weeks
-
-### Detergent Bath Method
-- Use biodegradable detergents with fatty oils and surfactants
-- Submerge and wash substrate in detergent solution
-- Environmentally benign wastewater
-- Match detergent type to substrate material
-
-### Yeast Fermentation Method
-- Propagate beer yeast (Saccharomyces cerevisiae) in warm malt sugar water (1-5% sugar broth)
-- Ferment 2-3 days sealed at room temperature
-- Forcibly submerge straw into yeast broth for maximum 48 hours
-- Yeasts absorb nutrients and produce anti-bacterial metabolites
-- Drain and inoculate using standard procedures
-
-## Spawn Mixing
-
-After substrate treatment, spawn is broadcast onto straw. Mixing is strongly advised using cement mixers, ribbon blenders, or Archimedes screws. If spawn is laid upon straw without mixing, growth layers form resulting in uneven colonization. Automated conveyor systems with foot-activated switches allow controlled substrate handling with intermittent cleaning.
-
-## See Also
-
-- [[growing-gourmet-soak-and-strike-forcing]]
-
-- [[growing-gourmet-substrate-materials-wood-types]]
-
-- [[growing-gourmet-contamination-prevention]]
-- mushroom-substrate-recipes
-- [[mushroom-substrates]]
-- [[pasteurization-vs-sterilization]]
-- [[growing-gourmet-fruiting-parameters]]

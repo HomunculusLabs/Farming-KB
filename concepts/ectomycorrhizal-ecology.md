@@ -73,3 +73,20 @@ Forests with diverse exploration types are more resilient — they access nutrie
 - [[fungal-role-in-nitrogen-cycling]] — for N cycling role
 - [[fungal-role-in-carbon-cycling]] — for carbon cycling role
 - [[fungal-ecology]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[ectomycorrhizal-fungal-ecology]]
+- [[ectomycorrhizal-mushroom-fruiting-ecology]]
+- [[fungal-ecology]]
+- [[saprobic-soil-fungi-ecology-survey]]
+- [[mycorestoration-ecology]]

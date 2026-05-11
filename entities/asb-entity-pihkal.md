@@ -34,7 +34,7 @@ sources: ["Shulgin - PIHKAL"]
 > LSD. Some negative side seemed to be present.
 >
 > (with 280 mg) The entire session was, in a sort of way, like being in
-> a corridor outside the lighted halls where a beautiful mescaline
+> a corridor outside the lighted halls where a beautiful [[mescaline]]
 > experience is taking place, sensing the light from behind a grey door,
 > and not being able to find my way in from the dusky underside
 > passageways. This is sort of a gentle sister of mescaline, but with a
@@ -88,33 +88,6 @@ To a solution of 32 g of 5-bromobourbonal in 150 mL DMF
 there was added 31 g ethyl iodide and 32 g of finely ground 85% KOH
 pellets. There was the formation of a purple color and a heavy
 precipitate. On gradual heating to reflux, the color faded to a pale
-yellow and the precipitate dissolved over the course of 1 h. The
-heating was continued for an additional 1 h. The reaction mixture was
-added to 1 L H2O, and extracted with 2x150 mL of petroleum ether. The
-extracts were pooled, washed with 2x200 mL 5% NaOH and finally with
-H2O. After drying over anhydrous K2CO3 the solvents were removed
-under vacuum to yield 36 g of crude 3-bromo-4,5-diethoxybenzaldehyde
-as an amber liquid. This was used without purification for the
-following step. Distillation at 105-115 deg C at 0.3 mm/Hg provided a
-white sample which did not crystallize. Anal. (C11H13BrO3 ) C,H.
-
-A mixture of 36 g 3-bromo-4,5-diethoxybenzaldehyde and 17 mL
-cyclohexylamine was heated with an open flame until it appeared to be
-free of H2O. The residue was put under a vacuum (0.4 mm/Hg) and
-distilled at 135-145 deg C, yielding 42 g
-3-bromo-N-cyclohexyl-4,5-diethoxybenzylidenimine as a viscous light
-greenish oil. This slowly set to a crystalline glass with a mp of
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[2c-b-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[b-entity-pihkal]] -- B (PIHKAL #10)
+- [[4-t-tris-entity-pihkal]]

@@ -1,9 +1,9 @@
 ---
-title: coleman greenhouse summer crops Crops — Tomatoes, Cucumbers, Peppers
+title: Coleman Greenhouse Summer Crops
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The coleman-claytonia-winter-harvest-cultivation Handbook - Eliot Coleman
+    title: The coleman-claytonia-winter-harvest-cultivation Handbook - [[eliot-coleman]]
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept
@@ -14,7 +14,7 @@ tags: [reference]
 
 ## The Summer Greenhouse Rotation
 
-After the winter harvest ends in late March or early April, the
+After the [[cold-house-winter-harvest-system]] ends in late March or early April, the
 greenhouse space that has been producing cold-hardy salads and
 greens transitions to warm-season crops. The same beds that held
 spinach, claytonia, and Asian greens through winter are refertilized
@@ -24,7 +24,7 @@ maximizes the productive capacity of the greenhouse year-round.
 
 The timing of this transition is critical. The winter spinach crop
 must be pulled before it begins to go to seed, which typically
-occurs in late March or early April. As soon as the winter crop is
+occurs in late March or early April. As soon as the [[coleman-sunlight-and-winter-crop-growth-rates]] is
 cleared, the beds are prepared and the summer crops are set out.
 Growers who can clear greenhouse space a month or more before
 planting tomatoes gain an advantage by pre-warming the soil.
@@ -44,7 +44,7 @@ beds. While closer spacing (down to 14 inches) is possible with
 better native soil, the wider spacing makes pruning, harvesting, and
 monthly compost topdressing much easier. The wider spacing also
 improves [[stamets-growing-room-air-circulation-co2-management]], which is essential because humidity can be
-quite high in a plastic-covered hoop house during April.
+quite high in a plastic-covered [[grow-tunnel-and-hoop-house]] during April.
 
 ## Vertical Growing and Lowering
 
@@ -88,42 +88,3 @@ for fall harvest.
 ## Peppers and Eggplant
 
 Peppers produce best when young plants are transplanted to the
-greenhouse well before the first flower opens. This early
-transplanting allows the root system to establish fully before the
-plant redirects energy toward fruit production. Like tomatoes,
-peppers and eggplants are pruned and trained vertically to maximize
-the use of greenhouse space and improve air circulation around the
-plants.
-
-These crops serve as companion plants in the tomato house. The two
-edge beds of a 30-foot-wide greenhouse, which lack sufficient
-headspace for staked tomatoes, are planted to early celery and
-Tuscan kale transplants. These companion crops grow well alongside
-tomatoes and make efficient use of space that would otherwise go
-unused.
-
-## Managing Soil Temperature
-
-The transition from winter to summer crops requires attention to
-soil temperature. In a greenhouse that has been unheated through
-winter, the inner [[solomon-row-covers-and-season-extension]] protecting spinach are pulled back every
-sunny day during March to allow direct [[mollison-designers-passive-solar-heating-building-design]] of the soil. After
-the winter crop is removed, a propane heater may be run for a few
-days before transplanting to prevent night temperatures from falling
-below 60 degrees Fahrenheit.
-
-A more effective pre-warming technique involves clearing a greenhouse
-well before it is needed for tomatoes, removing the row covers, and
-laying a sheet of clear plastic directly on the soil. This traps
-incoming solar heat and simultaneously stimulates weed seed
-germination. The weed seedlings are then flamed off before
-transplanting. Using this method, soil temperature at 4-inch depth
-has reached 65 degrees Fahrenheit using only solar heat.
-
-## See Also
-
-- [[coleman-summer-fallow-green-manure-greenhouse]]
-
-- coleman-greenhouse-soil-management
-- [[coleman-compost-and-organic-fertility-management]]
-- [[coleman-cover-crop-rotation-and-soil-health]]

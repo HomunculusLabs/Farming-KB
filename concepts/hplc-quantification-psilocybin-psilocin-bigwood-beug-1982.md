@@ -1,5 +1,5 @@
 ---
-title: HPLC Quantification of [[hplc-analysis-of-psilocybin-and-psilocin]] - Bigwood Beug 1982
+title: Hplc Quantification Psilocybin Psilocin Bigwood Beug 1982
 source: Bigwood & Beug, Journal of Ethnopharmacology 5 (1982) 287-291
 tags: [hplc, psilocybin, psilocin, analytical-chemistry, quantification, tlc, bigwood-beug, methodology]
 ---
@@ -87,55 +87,3 @@ tryptamine derivatives that could potentially interfere with
 identification if only one analytical method were used.
 
 ## Standards and Quality Control
-
-The use of NIDA-certified reference standards was a significant methodological
-strength:
-
-- Ensures that peak identification and quantification are traceable to
-  authoritative reference materials
-- Allows comparison of results across different laboratories using the
-  same standards
-- NIDA standards were (and remain) the accepted reference materials for
-  scheduled compound analysis
-
-## Methodological Limitations
-
-Several limitations should be considered when interpreting the results:
-
-- **Small sample size**: Only three minicultures of one strain were
-  analyzed for flush-by-flush variation, plus two additional strains
-  analyzed for cap/stem distribution
-- **Single cultivation method**: All mushrooms were grown on rye-grain
-  substrate with peat/calcium carbonate/perlite casing; results may
-  differ with other substrates
-- **Street samples**: Five street samples were analyzed but flush number
-  and precise growing conditions were unknown, limiting
-  interpretability
-- **OCR artifacts in publication**: The original paper's tables contain
-  OCR-introduced typographical errors that make exact values in some
-  cells ambiguous
-- **No baeocystin quantification**: The study measured only psilocybin
-  and psilocin, not the related compounds baeocystin or norbaeocystin
-
-## Relevance to Modern Analysis
-
-The Bigwood and Beug methodology established principles still relevant
-to contemporary [[african-psilocybin-mushroom-guide]] analysis:
-
-- Freeze-drying remains the gold standard for sample preservation
-- Reversed-phase HPLC with UV detection is still widely used, though
-  LC-MS (liquid chromatography-mass spectrometry) now offers greater
-  sensitivity and specificity
-- The finding that psilocin is nearly absent in early flushes but
-  increases by the fourth flush has been confirmed by subsequent
-  studies using more advanced analytical techniques
-- The ten-fold variation in street sample potency underscores the
-  continued need for analytical testing in both clinical and
-  recreational contexts
-
-## See Also
-
-- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
-- [[analytical-methods-psilocybin-psilocin-quantification]]
-- [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- [[psilocybe-cubensis-street-sample-potency-variability]]

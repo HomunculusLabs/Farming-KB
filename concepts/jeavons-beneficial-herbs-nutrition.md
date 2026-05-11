@@ -1,5 +1,5 @@
 ---
-title: "jeavons beneficial herbs nutrition and Garden Nutrition"
+title: Jeavons Beneficial Herbs Nutrition
 created: 2026-04-26
 sources: "Jeavons, John. How to Grow More Vegetables. Ten Speed Press."
 tags: [biointensive, herbs, nutrition, companion-planting, health, jeavons]
@@ -9,7 +9,7 @@ updated: 2026-04-26
 
 # Beneficial Herbs and Garden Nutrition
 
-John Jeavons identifies several herbs that provide a beneficial influence on the
+[[john-jeavons]] identifies several herbs that provide a beneficial influence on the
 entire plant community, along with many herbs that serve as specific companions
 to individual vegetables. These herbs contribute to garden health through pest
 deterrence, soil improvement, nutrient concentration, and growth stimulation.
@@ -25,22 +25,22 @@ It is part of the mint family.
 
 **Oregano** has a beneficial effect on surrounding plants.
 
-**[[comparison-stinging-nettle-vs-horsetail]]** (Urtica dioica) helps neighboring plants grow more
+**[[comparison-stinging-nettle-vs-horsetail]]** ([[urtica-dioica]]) helps neighboring plants grow more
 resistant to spoiling, increases the [[permaculture-designers-manual-essential-oil-plants]] content in many herbs,
 stimulates [[lowenfels-humus-formation-benefits]], helps stimulate fermentation in compost piles, and
 as a tea promotes plant growth and strengthens plants. It concentrates sulfur,
 potassium, calcium, and iron in its body.
 
-**Valerian** (Valeriana officinalis) helps most vegetables, stimulates
+**Valerian** ([[valeriana-officinalis]]) helps most vegetables, stimulates
 phosphorus activity in its vicinity, and encourages health and disease
 resistance in plants.
 
-**Chamomile** (Chamaemelum nobile) contains a growth hormone that stimulates
+**Chamomile** (Chamaemelum nobile) contains a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] that stimulates
 yeast growth. In a 1:100 ratio, it helps wheat growth. As a tea, it combats
 [[cervantes-damping-off-seedling-disease-prevention]] and other diseases in young plants. It concentrates calcium,
 sulfur, and potash.
 
-**Dandelion** (Taraxacum officinale) increases the aromatic quality of all
+**Dandelion** ([[taraxacum-officinale]]) increases the aromatic quality of all
 herbs and, in small amounts, helps most vegetables. It concentrates potash.
 
 **Oak Tree** concentrates calcium in its bark (bark ash is 77% calcium). In a
@@ -88,31 +88,3 @@ moths.
 **Thyme** -- Deters cabbage worms.
 
 ## Herbs as Insect Controls
-
-Herbs serve a critical role in natural insect management. The age and number
-of herb plants used per 100 square feet determine effectiveness. A young plant
-does not have an aroma or [[amf-biocontrol-phytophthora-root-exudate-modification]] strong enough to discourage harmful
-insects. Too few herbs will not control a pest, but too many may retard
-vegetable growth and yield. Two to four plants per 100-square-foot bed will
-probably suffice for most purposes.
-
-Composite flowers such as pot marigolds (calendulas) and sunflowers are
-excellent attractants for predatory insects because their large pollen supplies
-serve as predator food sources.
-
-## Perennial Herb Placement
-
-Perennial herbs including lemon balm, marjoram, oregano, dandelion, chamomile,
-stinging nettle, and valerian are traditionally planted in a section along one
-end of the bed so they need not be replanted each year.
-
-## Soil Life Stimulation and Improvement
-
-Beyond their companion roles, some herbs actively improve soil. Stinging nettle
-stimulates microbial life. Sow thistle (Sonchus oleraceus) brings up nutrients
-from the subsoil to enrich depleted topsoil. After years of dead sow thistle
-bodies have enriched the topsoil, heavier-feeding grasses return -- part of
-nature's recycling program for raising new nutrients to the surface.
-
-## See Also
-- [[jeavons-companion-planting-health-nutrition]]

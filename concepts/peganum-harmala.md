@@ -88,34 +88,3 @@ breakdown of DMT in the digestive tract, allowing the visionary
 compound to reach the central nervous system.
 
 Plants containing the MAO-inhibiting beta-carboline alkaloids include:
-- Banisteriopsis spp. (the traditional Amazonian source)
-- Peganum harmala (Syrian Rue)
-- Passiflora spp. (passionflower)
-- Kochia scoparia (burning bush)
-- Tribulus terrestris (puncture vine)
-
-The use of Peganum harmala as a substitute for Banisteriopsis in
-ayahuasca-like preparations has become widespread in the global
-context, as Syrian Rue seeds are legally available in many countries
-where Banisteriopsis caapi is not.
-
-## Traditional Psychoactive Use
-
-The hallucinogenic use of Peganum harmala has been documented in
-several cultural contexts. In parts of Central Asia, the seeds have
-been used to prepare intoxicating beverages. In the Middle East, the
-seeds are burned as incense and the smoke is inhaled for psychoactive
-effects. In Iran, the practice of burning Espand (Syrian Rue seeds)
-continues to the present day, though it is now primarily associated
-with protection from the evil eye rather than explicit psychoactive
-use.
-
-An extract of a species of Reed Grass (Phragmites) containing DMT, in
-combination with Peganum harmala, has visionary effects and can be
-drunk as a substitute for [[ayahuasca-preparation]]. This combination
-represents an Old World parallel to the Amazonian discovery of the
-DMT-harmala synergy.
-## See Also
-- [[banisteriopsis-caapi]]
-- [[ayahuasca-preparation]]
-- [[syrian-rue-peganum-harmala-ethnobotany]]

@@ -87,18 +87,3 @@ climate change is shifting fungal distributions. Warming temperatures expand
 thermotolerant species and accelerate decomposition in cold biomes, potentially
 releasing stored soil carbon. Altered precipitation patterns affect seasonal
 dynamics of fungal fruiting and spore dispersal.
-
-## Methods in Fungal Ecology
-
-High-throughput sequencing of ITS (Internal Transcribed Spacer) regions has
-revolutionized fungal community ecology, enabling detection of species that
-cannot be cultured. Metatranscriptomics reveals which fungal genes are actively
-expressed in situ, linking community composition to ecosystem function. Stable
-isotope probing tracks carbon and nitrogen flow from substrates into specific
-fungal taxa, illuminating their trophic roles in complex communities.
-
-## See Also
-
-- [[soil-fungi-and-carbon-cycling]]
-- [[biodiversity-of-fungi-endophytic-fungi]]
-- [[decomposition]]

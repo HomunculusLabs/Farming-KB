@@ -31,16 +31,16 @@ sources:
 
 *Galium aparine*, commonly known as cleavers, goosegrass, stickywilly, or
 catchweed bedstraw, is an annual herbaceous plant in the family Rubiaceae. It
-is one of the most widespread and recognizable weeds in temperate regions
+is one of the most widespread and recognizable weeds in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide, found across Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Africa.
 
 The plant is distinguished by its sprawling, climbing habit and its stems,
 leaves, and seeds covered in tiny hooked hairs (glochids) that readily adhere
 to clothing, fur, and other surfaces — the basis for many of its common names.
 
-*G. aparine* has a long history of use in traditional Western herbal medicine
+*G. aparine* has a long history of use in traditional Western [[childrens-herbal-medicine]]
 as a lymphatic tonic, diuretic, and cooling remedy. The young shoots and
-seeds are edible, and the plant serves ecological functions in permaculture
+seeds are edible, and the plant serves [[fungal-melanin-biosynthesis-ecological-functions]] in permaculture
 and soil-building systems.
 
 ## Taxonomy and Morphology
@@ -64,7 +64,7 @@ ovary. Flowering occurs from May to October in temperate regions.
 
 The fruit is a schizocarp consisting of two joined mericarps, 2–4 mm in
 diameter, covered in dense hooked bristles that facilitate zoochory (animal
-dispersal). Each mericarp contains a single [[bloomfield-coffee-rust-and-crop-pathogens|coffee]] substitute, similar to the
+dispersal). Each mericarp contains a single [[bloomfield-coffee-rust-and-crop-pathogens]] substitute, similar to the
 related *Galium odoratum* (sweet woodruff). Historically, the seeds of several
 *Galium* species were used to curdle milk for cheese-making.
 
@@ -78,7 +78,7 @@ In permaculture systems, *G. aparine* functions as a [[nutrient-dynamic-accumula
 up nutrients (particularly silica, calcium, and potassium) from deep soil
 layers and depositing them in above-ground biomass.
 
-As a [[comparison-living-mulch-vs-cover-crops]], it provides ground cover that suppresses more aggressive
+As a [[comparison-living-mulch-vs-cover-crops]], it provides [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses more aggressive
 weeds while cycling nutrients through rapid biomass turnover. Its climbing
 habit allows it to coexist with taller crops without significant competition
 for light.
@@ -88,9 +88,3 @@ including small beetles, hoverflies, and predatory bugs. Its flowers provide
 early-season nectar for pollinators.
 
 Chopped cleavers make an excellent addition to compost piles, contributing
-high-nitrogen green material. The silica-rich biomass improves [[aact-compost-quality-standards-ingham]]
-and benefits subsequent crops when applied as mulch or compost amendment.
-## See Also
-
-- [[urtica-dioica]]
-- [[plantago-major]]

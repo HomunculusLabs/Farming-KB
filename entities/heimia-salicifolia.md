@@ -1,5 +1,5 @@
 ---
-title: sinicuichi-heimia-salicifolia-auditory-hallucinogen
+title: Heimia Salicifolia
 created: 2026-04-28
 type: species
 tags:
@@ -89,29 +89,5 @@ The earliest reliable documentation of Sinicuichi use comes from the work of Mex
 
 ## Safety Considerations
 
-Excessive use of Sinicuichi is traditionally believed to be harmful. Reports suggest that heavy or chronic use may lead to impaired memory function, muscle weakness and atrophy, and general debilitation. The traditional belief that excessive use is harmful, combined with the relatively mild effects of moderate use, suggests that H. salicifolia has a narrow therapeutic window between desirable and harmful doses. Modern users should exercise caution and avoid frequent or heavy use.
-
-## Cultural Significance
-
-Sinicuichi holds a unique place in the ethnopharmacology of Mexico. Unlike most New World hallucinogens, which produce primarily visual effects, Sinicuichi is notable for its auditory properties. The Aztec name for the plant and its precise role in their ceremonies, however, remain subjects of ongoing ethnobotanical investigation. The plant's alternative name "Sun Opener" (in English) and "Abrecaminos" ("path opener" in Spanish) suggest associations with dawn, new beginnings, and the opening of perceptual or spiritual pathways.
-
-## Conservation Status
-
-Heimia salicifolia is not considered threatened in the wild. Its wide distribution and tolerance of disturbed habitats make it relatively resilient. However, the cultural traditions surrounding its use as a psychoactive plant are potentially endangered as indigenous communities in the Mexican highlands undergo cultural change.
-
-Documentation and preservation of traditional knowledge about Sinicuichi preparation and use should be considered an ethnobotanical priority. The plant is easily cultivated and has been introduced to gardens and nurseries outside its native range, which helps ensure its survival even if wild populations were to decline.
-
-## Comparison with Other Mexican Hallucinogens
-
-H. salicifolia occupies a unique niche among Mexican psychoactive plants due to its primarily auditory effects:
-
-- [[salvia-divinorum]] — Diviner's Sage, produces dissociative effects via salvinorin A
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]] — produces classical psychedelic effects via psilocybin
-
-The auditory focus of Sinicuichi sets it apart from all other known Mexican hallucinogens, which produce primarily visual or dissociative effects. This unique pharmacological profile makes H. salicifolia a particularly interesting subject for neuropharmacological research.
-
 ## See Also
-
-- tagetes-lucida — another Mexican psychoactive plant, sometimes called Pericon
-- [[salvia-divinorum]] — Diviner's Sage, another Mexican psychoactive plant
-- [[coryphantha-compacta]] — Bakana, a [[false-peyotes-mexican-cactus-ethnobotany]] with psychoactive properties
+- [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]

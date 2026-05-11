@@ -88,12 +88,3 @@ processing organic matter into plant-available nutrients.
 JADAM argues that the prevalent method of compost-making is too complicated:
 mix ingredients, calculate green-to-brown ratio, build a pile, adjust
 temperature, aeration, moisture, and turn them. JADAM method is very simple:
-in autumn, mix all ingredients, scatter on fields, apply JMS, and use a
-tiller to break them down. This eliminates the labor-intensive turning process
-that makes organic farming difficult and costly.
-
-## See Also
-
-- [[jadam-microorganism-solution-culturing]]
-
-- [[jadam-microbe-culturing-stages-and-indicators]]

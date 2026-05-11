@@ -87,26 +87,3 @@ This technique is based on the principle that each plant species supports a uniq
 The method involves selecting a healthy, vigorous specimen of the target crop plant.
 
 A container of cooked rice is then inverted over the cut stem of the selected plant.
-
-The microorganisms specific to that plant species are attracted to the rice and colonize it.
-
-This technique can be applied to any crop: rice, vegetables, fruit trees, or ornamental plants.
-
-The advantage of plant-specific microorganisms is that they are already adapted to the metabolic environment of the target crop.
-
-When these microorganisms are cultured and applied back to the same crop species, they can enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], suppress pathogens, and promote growth more effectively than generalist microbial inoculants.
-
-## Combining Microorganism Sources
-
-In practice, natural farmers combine multiple sources of microorganisms into a composite inoculant.
-
-The standard BIM recipe calls for 50% [[root-exudates]] create a selective environment that promotes specific microbial functional groups, likely including phosphate-solubilizing and growth-promoting bacteria.
-
-Plant-specific collection targets the phyllosphere and rhizosphere communities that have co-adapted with the host plant, including [[fish-amino-acid]] (for nitrogen), and ginger-garlic extract (as a natural antibiotic).
-
-The combination of diverse indigenous microorganisms with targeted bionutrients creates a comprehensive biological approach to soil fertility and plant health.
-
-## Sources
-
-- Carandang, Gil A. Indigenous Microorganisms: Grow Your Own. Herbana Farms, 2003.
-- Cho, Han Kyu and Atsushi Kouama. [[query-jadam-vs-korean-natural-farming]] Farming: Indigenous Microorganism Vital Power for Crop and Livestock.

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and ADHD / Attention Deficit Disorder"
+title: Blesching Cannabis Adhd
 created: 2026-04-26
 tags: [cannabis, adhd, cannabinoids, strain-recommendations, chi-score]
 date: 2026-04-25
@@ -39,7 +39,7 @@ studies include self-report surveys, small clinical observations, and a
 limited number of controlled trials. Key findings include:
 
 - Patients commonly report subjective improvement in concentration and
-  task completion when using specific cannabis strains
+  task completion when using specific [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - Some individuals use cannabis as a substitute for stimulant medications,
   reporting fewer side effects such as appetite suppression and insomnia
 - A notable study found that adults with ADHD who used cannabis showed
@@ -58,7 +58,7 @@ those better suited for managing hyperactivity:
   terpenes are often preferred for daytime cognitive enhancement
 - Pinene is thought to promote alertness and counteract THC-induced
   cognitive fog through acetylcholinesterase inhibition
-- Recommended profiles: Jack Herer, Green Crack, Super Lemon Haze
+- Recommended profiles: Jack Herer, [[green-crack]], [[cannabis-strain-super-lemon-haze-greenhouse-seed-co]]
 - Low-to-moderate THC doses (5-15 mg) are recommended to avoid cognitive
   impairment while still benefiting from dopaminergic modulation
 
@@ -68,7 +68,7 @@ those better suited for managing hyperactivity:
   calm nervous system overactivity and reduce physical restlessness
 - These strains are more appropriate for evening use when hyperactivity
   interferes with sleep
-- Recommended profiles: Granddaddy Purple, Northern Lights, Blue Dream
+- Recommended profiles: [[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Blue Dream
 - CBD-dominant preparations may also help reduce anxiety associated with
   hyperactivity without impairing cognition
 
@@ -88,19 +88,3 @@ those better suited for managing hyperactivity:
 - Adolescent use is particularly concerning due to potential impacts on
   brain development
 - High-dose or chronic heavy use may impair working memory and executive
-  function
-- Patients should be monitored for cannabis use disorder, especially those
-  with impulsive personality traits
-
-## Related Topics
-
-- [[blesching-cannabis-depression]] - ADHD commonly co-occurs with
-  depression
-- blesching cannabis anxiety - anxiety management with cannabinoids
-- [[blesching-cannabis-sleep-disorders]] - sleep disruption in ADHD
-
-## Key References
-
-Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
-See Chapter on neurocognitive and attention disorders for full study
-citations and [[blesching-cannabis-chi-scoring-evidence-based-medicine]] methodology.

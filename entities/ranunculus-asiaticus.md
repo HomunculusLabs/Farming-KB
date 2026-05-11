@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Horovitz, A. et al. (2019). "Ranunculus asiaticus: Genetics and breeding of a model geophyte." Horticulture Research, 6, 123.
+  - Horovitz, A. et al. (2019). "Ranunculus asiaticus: cannabis-genetics-and-breeding of a model geophyte." Horticulture Research, 6, 123.
   - De Benedetti, L. et al. (2020). "Advances in Ranunculus asiaticus breeding and biotechnology." Plant Cell Reports, 39, 1105-1118.
   - Kew Royal Botanic Gardens. "Ranunculus asiaticus L." Plants of the World Online.
 ---
@@ -43,13 +43,13 @@ The fruit is an achene with a short, curved beak. Seeds require 4–6 weeks of c
 
 Chromosome number is 2n = 16 in diploid wild forms. Most commercial cultivars are tetraploid (2n = 32), which contributes to their larger flower size and sturdier stems.
 
-The species is closely related to Ranunculus acris and R. bulbosus but is readily distinguished by its tuberous root system and more divided leaf morphology.
+The species is closely related to [[ranunculus-acris]] and R. bulbosus but is readily distinguished by its tuberous root system and more divided [[cannabis-leaf-morphology-and-phyllotaxy]].
 
 ## Distribution and Habitat
 
 The species is native to the Mediterranean basin, occurring naturally in southern France, Italy, Greece, Turkey, Lebanon, Israel, and northwestern Africa. Populations are also recorded from Crete, Cyprus, and other eastern Mediterranean islands.
 
-It grows in well-drained, often rocky or sandy soils in full sun to light shade. Natural habitats include garigue, open pine woodlands, fallow fields, and grassy slopes from sea level to approximately 800 meters.
+It grows in well-drained, often rocky or sandy soils in full sun to light shade. [[mushroom-natural-habitats]] include garigue, open pine woodlands, fallow fields, and grassy slopes from sea level to approximately 800 meters.
 
 Soil preferences lean toward sandy or loamy substrates with good drainage. Heavy clay soils promote tuber rot and are unsuitable for both wild and cultivated populations.
 
@@ -61,7 +61,7 @@ The Mediterranean growth cycle is autumnal: roots initiate growth with autumn ra
 
 Commercial cultivation centers on the Italian Riviera (Sanremo area), southern France, the Netherlands, and Israel. Total global cut-flower production exceeds 200 million stems annually.
 
-Tubers are planted in autumn at 5–8 cm depth in well-drained, fertile soil with pH 6.0–7.0. Optimal growing temperatures range from 10–18°C during the vegetative phase.
+Tubers are planted in autumn at 5–8 cm depth in well-drained, fertile soil with pH 6.0–7.0. Optimal growing temperatures range from 10–18°C during the [[cervantes-vegetative-phase]].
 
 Spacing depends on the intended use: 10 × 15 cm for cut-flower production, 15 × 20 cm for garden display. Closer planting increases stem length but reduces flower count per plant.
 
@@ -73,47 +73,18 @@ Tubers are harvested after foliage dies back in summer and stored dry at 20–25
 
 Dehydration of tubers below 35% relative moisture content causes irreversible damage and reduces viability. Proper storage maintains tuber turgor and ensures uniform sprouting after planting.
 
-Common pests include aphids, spider mites, and thrips. Botrytis cinerea and Fusarium oxysporum are the most significant fungal pathogens in commercial production.
+Common pests include aphids, spider mites, and thrips. [[botrytis-cinerea]] and [[fusarium-oxysporum]] are the most significant [[fungal-pathogens-in-agriculture]] commercial production.
 
-Propagation by seed is used primarily in breeding programs. Commercial production relies almost entirely on vegetative propagation through tuber division or tissue culture.
+Propagation by seed is used primarily in breeding programs. Commercial production relies almost entirely on [[hamilton-vegetative-propagation]] through tuber division or [[cervantes-tissue-culture-micropropagation]].
 
 Tissue culture protocols using petal explants have been developed for rapid multiplication of elite cultivars. Somaclonal variation remains a challenge, with 5–10% of regenerants showing flower color or form mutations.
 
 ## Ecology
 
-In its native Mediterranean habitat, Ranunculus asiaticus flowers from March to May, coinciding with peak pollinator activity. Primary pollinators include solitary bees (Anthophora, Andrena), hoverflies, and beetles.
+In its native Mediterranean habitat, Ranunculus asiaticus flowers from March to May, coinciding with peak pollinator activity. Primary pollinators include [[comparison-honey-bees-vs-native-solitary-bees]] (Anthophora, Andrena), hoverflies, and beetles.
 
-The species is self-incompatible in most wild populations, promoting outcrossing and genetic diversity. Seed set in cultivated double-flowered forms is typically very low due to the conversion of reproductive organs into tepals.
+The species is self-incompatible in most wild populations, promoting outcrossing and [[biodiversity-fungal-genetic-diversity]]. Seed set in cultivated double-flowered forms is typically very low due to the conversion of reproductive organs into tepals.
 
 Wild populations maintain moderate genetic diversity despite habitat fragmentation. Gene flow between isolated populations occurs primarily through insect-mediated pollen transfer over distances of up to 500 meters.
 
 Natural populations show considerable color polymorphism, with yellow, orange, and red forms co-occurring. This variation is maintained by pollinator preferences and local environmental conditions.
-
-The species has escaped cultivation in parts of California, Australia, and South Africa. In these regions it is occasionally found naturalized along roadsides and in disturbed areas with Mediterranean-type climates.
-
-## Ethnobotanical Use
-
-In traditional Mediterranean folk medicine, tubers were applied topically as poultices for joint pain and skin inflammation. Internal use was avoided due to the presence of ranunculin, which converts to the vesicant protoanemonin when plant tissue is damaged.
-
-The species has been cultivated as an ornamental since the 16th century. Early introductions to European gardens came via Ottoman Turkey, hence the common name "Turban buttercup." Intensive breeding began in the 19th century in France and Italy.
-
-The first double-flowered forms appeared in Italian gardens around 1580. These early selections laid the foundation for the modern cut-flower industry that developed in the Sanremo region during the 19th century.
-
-Modern cultivars have lost most of their toxicity through centuries of selection. However, handling cut stems may still cause mild contact dermatitis in sensitive individuals.
-
-The plant's essential oil contains trace amounts of anemonin and has been investigated for antimicrobial properties in laboratory studies. Extracts have shown activity against Gram-positive bacteria in disc diffusion assays.
-
-In some North African communities, dried tubers were traditionally placed in grain stores as a purported insect repellent. The efficacy of this practice has not been validated by modern research.
-
-## See Also
-
-- [[ranunculus-acris]]
-- [[ranunculus-bulbosus]]
-- [[ranunculus-repens]]
-- [[ranunculus-auricomus]]
-- [[helleborus-niger]]
-- [[aquilegia-vulgaris]]
-- [[clematis-vitalba]]
-- [[pulsatilla-vulgaris]]
-- [[anemone-nemorosa]]
-- [[nigella-damascena]]

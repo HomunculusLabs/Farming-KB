@@ -1,5 +1,5 @@
 ---
-title: HMBC and hmbc noesy nmr analysis zwitterionic phosphate intermediate psilocybin Analysis of intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis Intermediate
+title: Hmbc Noesy Nmr Analysis [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] Psilocybin
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [NMR, HMBC, NOESY, zwitterionic, phosphate-intermediate, psilocybin-synthesis, 2D-NMR, structural-elucidation, shirota, spectroscopy]
 created: 2026-05-08
@@ -69,7 +69,7 @@ NOESY provided supporting evidence for the zwitterionic structure by showing spa
 
 ### Mechanism
 
-The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an intramolecular benzyl migration from oxygen to nitrogen. The likely mechanism involves:
+The conversion of the O,O-dibenzyl phosphate (7) to the zwitterionic N,O-dibenzyl phosphate (8) represents an [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]] from oxygen to nitrogen. The likely mechanism involves:
 
 1. **Hydrolytic cleavage** — During aqueous workup, one O-benzyl group is partially hydrolyzed
 2. **Quaternary ammonium formation** — The liberated benzyl group migrates to the more nucleophilic nitrogen atom, forming a quaternary ammonium ion
@@ -87,50 +87,3 @@ This is a rare example of a synthetic intermediate's zwitterionic character bein
 ## NMR Data for Compound 8
 
 ### ¹H NMR (CD₃OD, 400 MHz)
-
-| δ (ppm) | Multiplicity | Integration | Assignment |
-|---------|-------------|-------------|------------|
-| 7.56–7.45 | m | 5H | NCH₂C₆H₅ (aromatic) |
-| 7.31–7.20 | m | 5H | OCH₂C₆H₅ (aromatic) |
-| 7.12 | d (J=7.8 Hz) | 1H | H-7 ([[indole]]) |
-| 7.10 | br s | 1H | H-2 (indole) |
-| 7.09 | d (J=7.8 Hz) | 1H | H-5 (indole) |
-| 7.01 | t (J=7.8 Hz) | 1H | H-6 (indole) |
-| 4.98, 4.96 | each 1H, s | 2H | OCH₂C₆H₅ |
-| 4.56 | s | 2H | NCH₂C₆H₅ |
-| 3.64 | m | 2H | H₂-2' |
-| 3.47 | m | 2H | H₂-1' |
-| 3.08 | s | 6H | N(CH₃)₂ |
-
-### ³¹P NMR (CD₃OD, 162 MHz)
-
-- δ -4.48 ppm (confirms phosphate moiety)
-
-### Key Diagnostic Shifts
-
-The diagnostic feature distinguishing compound 8 from the expected O,O-dibenzyl phosphate (7) is the high-field shift of the N-benzyl methylene protons (δH 4.56) compared to the O-benzyl methylene protons (δH 4.96–4.98). This shift arises from the shielding effect of the adjacent quaternary ammonium center.
-
-## Broader Significance
-
-### Methodology
-
-The identification of compound 8 demonstrates the power of 2D NMR in solving unexpected structural problems in synthetic chemistry. Without HMBC and NOESY, the intramolecular migration would have been extremely difficult to detect and characterize.
-
-### Practical Chemistry
-
-The zwitterionic intermediate's behavior — precipitating selectively from organic solvents — was exploited to develop a chromatography-free purification process. This is an important practical achievement because:
-
-- Column chromatography is time-consuming and expensive at large scale
-- Chromatography requires specialized equipment and trained personnel
-- Chromatographic purification of polar compounds like phosphates is particularly challenging
-
-### Natural Product Chemistry
-
-The observation that benzyl groups can migrate from oxygen to nitrogen under mild conditions may be relevant to other phosphorylation reactions in natural product chemistry, particularly in the synthesis of phosphorylated indole alkaloids.
-
-## See Also
-
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-- [[fukuoka-natural-orchard-three-dimensional-design]]
-- nuclear magnetic resonance spectroscopy techniques

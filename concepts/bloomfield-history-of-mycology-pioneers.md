@@ -1,5 +1,5 @@
 ---
-title: "bloomfield [[history-of-mycology-timeline]] pioneers Pioneers"
+title: Bloomfield History Of Mycology Pioneers
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

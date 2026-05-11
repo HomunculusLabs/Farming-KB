@@ -88,27 +88,6 @@ some phenethylamine with a small modification to its backbone.
      So, for the moment, leave the aromatic ring alone, and let us
 explore simple changes in the ethylamine chain itself. And the
 simplest structural unit of change is a single carbon atom, called the
-methyl group. Where can it be placed?
-The adding of a methyl group adjacent to the amine produces
-phenylisopropylamine, or amphetamine. This has been exploited already
-as one of the richest families of psychedelic drugs; and over half of
-the recipes in Book II are specifically for amphetamine analogues with
-various substituents on the aromatic ring. The further methylation of
-amphetamine with yet another methyl group, this time on the nitrogen
-atom, yields methamphetamine. Here the track record with various
-substituents on the aromatic ring is not nearly as good. Many have
-been explored and, with one exception, the quality and potency of
-human activity is down. But the one exception, the N-methyl analogue
-of MDA, proved to be the most remarkable MDMA.
-The placement of the methyl group between the two carbons (so to
-speak) produces a cyclopropyl system. The simplest example is
-2-phenylcyclopropylamine, a drug with the generic name of
-tranylcypromine and the trade name Parnate. It is a mono-amine
-oxidase inhibitor and has been marketed as an antidepressant, but the
-compound is also a mild stimulant causing insomnia, restlessness and
-photophobia. Substitutions on the benzene ring of this system have
-not been too promising. The DOM analogue,
-2,5-dimethoxy-4-methyltranylcypromine is active in man, and is
-discussed in its own recipe under DMCPA. The inactive [[qualitative-comments-methodology-pihkal]]
-- [[methyl-dob-entity-pihkal]]
-- [[md-family-structure-activity]]
+
+## See Also
+- [[ethyl-j-entity-pihkal]]

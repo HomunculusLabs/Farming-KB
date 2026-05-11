@@ -35,7 +35,7 @@ sources:
 
 It is the primary botanical source of commercial sarsaparilla root, historically used as a flavoring agent in beverages and as a traditional remedy across Mesoamerica.
 
-The species is native to tropical and subtropical regions from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America and the Caribbean.
+The species is native to tropical and subtropical regions from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 ## Taxonomy and Morphology
 
@@ -79,7 +79,7 @@ The root contains steroidal saponins (smilagenin, sarsasapogenin, diosgenin) tha
 
 Commercial sarsaparilla was a major export product from Honduras and Mexico from the 16th through early 20th centuries.
 
-It was a primary ingredient in traditional root beer and is still used in some soft drink formulations and herbal tonic preparations.
+It was a primary ingredient in traditional [[root-beer-making]] and is still used in some soft drink formulations and herbal tonic preparations.
 
 ## Chemistry and Pharmacology
 
@@ -87,43 +87,4 @@ The principal bioactive constituents are steroidal saponins, comprising 1.5–2.
 
 Major saponins include sarsasaponin, smilasaponin, and parillin, all yielding the sapogenins sarsasapogenin and smilagenin upon hydrolysis.
 
-Additional constituents include flavonoids (astilbin, quercetin), phenolic acids (caffeic, chlorogenic), and phytosterols (β-sitosterol, stigmasterol).
-
-The saponins exhibit anti-inflammatory activity through inhibition of COX-2 and NF-κB pathways in cell culture models.
-
-Historical claims that sarsaparilla contains testosterone or directly boosts testosterone levels are not supported by clinical evidence.
-
-However, sarsasapogenin has been investigated as a precursor in semisynthetic steroid drug manufacturing for corticosteroids and sex hormones.
-
-In vitro studies demonstrate antimicrobial activity against *Staphylococcus aureus*, *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, and *Mycobacterium tuberculosis*.
-
-## Cultivation and Harvest
-
-*S. ornata* is primarily wild-harvested, though cultivation trials have been conducted in Mexico and Guatemala.
-
-Root harvest occurs 2–4 years after planting, with mature roots reaching 1–3 cm in diameter and extending 30–60 cm deep.
-
-Roots are dug, washed, sliced, and dried at 40–50°C until brittle; the dried root is reddish-brown externally and pale yellow internally.
-
-Yield from wild harvest averages 500–800 kg/ha of dried root, with cultivated plots producing up to 1,500 kg/ha under optimal management.
-
-The species regenerates from remaining root fragments after harvest, though overharvesting has depleted wild populations in parts of Central America.
-
-## Ecological Role
-
-The dense climbing habit of *S. ornata* provides cover and nesting structure for small birds and arboreal mammals.
-
-Its berries are consumed by frugivorous birds and mammals, which disperse the seeds through forest habitats.
-
-As a ground-covering vine in secondary forests, it contributes to soil stabilization on slopes and riparian zones.
-
-## See Also
-
-- [[smilax-regelii]]
-
-- dioscorea villosa
-- [[glycyrrhiza-glabra]]
-- [[turnera-diffusa]]
-- aralia racemosa
-- [[silybum-marianum]]
-- [[curcuma-longa]]
+Additional constituents include flavonoids (astilbin, [[quercetin]]), phenolic acids (caffeic, chlorogenic), and phytosterols (β-sitosterol, [[stigmasterol]]).

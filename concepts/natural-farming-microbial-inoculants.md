@@ -88,11 +88,3 @@ principle that "the good and the bad are one" recognizes that what is
 labeled beneficial by commercial interests represents less than
 one ten-thousandth of total existing species. Over 99 percent of soil
 microorganisms are unknown to science. The best approach is to accept
-nature as it is and restore the long-lost balance and diversity that
-once existed in undisturbed soils.
-
-## See Also
-
-- [[jadam-uls-technology]] for the complete JADAM input system
-- [[knf-fermented-plant-juice]] for plant-derived inputs used
-  alongside microbial inoculants

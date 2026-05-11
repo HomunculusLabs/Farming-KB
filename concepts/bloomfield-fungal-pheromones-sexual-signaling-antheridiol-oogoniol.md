@@ -1,5 +1,5 @@
 ---
-title: Fungal Sexual Pheromones and Mating Communication
+title: Bloomfield Fungal Pheromones Sexual Signaling Antheridiol Oogoniol
 created: 2026-04-28
 tags:
   - mycology
@@ -24,11 +24,11 @@ in molecular dialogues of Where are you and Who are you. The study of fungal sex
 pheromones reveals sophisticated signaling systems that parallel and sometimes
 prefigure those found in animals. The water mold pheromones antheridiol and oogoniol,
 structurally similar to mammalian sex hormones, represent one of the most remarkable
-examples of chemical communication in the fungal kingdom.
+examples of [[bloomfield-fungal-reproduction-and-chemical-communication]] in the [[fungal-kingdom-diversity]].
 
 ## Antheridiol and Oogoniol
 
-Oomycete water molds produce eggs in sacs called oogonia that swell at the tips of
+[[bloomfield-pythium-oomycete-water-molds]] produce eggs in sacs called oogonia that swell at the tips of
 hyphal branches. Male structures called antheridia develop as slender offshoots from
 hyphae, attach to the oogonia surface, penetrate the eggs, and inject sperm. The
 pheromones coordinating this process are antheridiol, released by the female to
@@ -77,54 +77,14 @@ clip polymers within the hyphal wall, causing it to relax. This was first sugges
 Donovon des Thomas and John Mullins at the University of Florida in 1967. They
 discovered that antheridiol elicited both a surge in enzyme activity and branch
 formation simultaneously. Further evidence from collaborative work by Terry Hill and
-Nicholas Money confirmed a strong correlation between enzyme activity and wall
+[[nicholas-money]] confirmed a strong correlation between enzyme activity and wall
 strength, supporting the conclusion that endoglucanase-mediated wall loosening governs
 the emergence of male and female branches.
 
 ## Heterothallism vs. Self-Fertility
 
 Most experiments on oomycete sex have been performed on heterothallic species that
-require a mate for egg production. However, the majority of water molds are
+require a mate for [[mollison-designers-chicken-tractors-egg-production]]. However, the majority of water molds are
 self-fertile hermaphrodites that produce antheridia and fertilize their own eggs. Some
 species have dispensed with sperm entirely and form oospores without any antheridia
 through parthenogenesis. Don Thomas compared the distribution of sexual strategies in
-seasonal ponds that dry out in summer and freeze in winter versus permanent ponds fed
-by spring water. In seasonal ponds, self-fertile hermaphrodites outnumber
-mate-requiring strains ten to one. In permanent ponds, heterothallic strains are far
-more common.
-
-## Environmental Determinants of Mating Strategy
-
-The observation that self-fertility predominates in unstable environments suggests that
-the ability to reproduce without a mate is a particularly effective strategy when
-conditions are harsh and unpredictable. Environmental stress in seasonal habitats
-apparently favors genetic assurance over the benefits of sexual recombination. This
-ecological insight connects fungal mating systems to fundamental evolutionary theory
-about the advantages and disadvantages of [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
-
-## Historical Rivalries in Water Mold Research
-
-The study of oomycete sex was once considered one of the most important botanical
-mysteries, and bitter professional rivalries developed among researchers. Marcus
-Hartog, a student of Anton de Bary at Strasbourg, assaulted the work of competitors
-in published commentaries. He was unmoved by evidence that water mold eggs were
-fertilized by male antheridia, referring to fertilization as an illusion comparable to
-the passage of spiritual mediums through walls. His rival Trow was eventually
-vindicated when other mycologists corroborated his findings using serial sectioning,
-a technique Hartog regarded with suspicion.
-
-## Broader Significance
-
-The study of bloomfield fungal pheromones sexual signaling antheridiol oogoniol has illuminated fundamental principles of chemical
-communication that extend far beyond mycology. The structural similarity between
-fungal steroids and animal sex hormones, despite the vast evolutionary distance
-between oomycetes and animals, demonstrates the deep conservation of steroid-based
-signaling across the tree of life. Fungal pheromone research continues to inform
-understanding of mating type systems, sexual compatibility, and the evolution of
-reproductive isolation.
-
-## Related
-
-- [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]]

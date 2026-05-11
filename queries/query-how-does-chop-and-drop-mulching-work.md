@@ -32,7 +32,7 @@ drives soil fertility and plant nutrition.
 The technique works through the natural [[actinomycetes-soil-biology]] and fungi break down the more resistant compounds like lignin
 and cellulose into simpler forms. As these organisms consume and process the
 mulch material, they produce nutrient-rich castings and humus that improve
-soil structure, water retention, and [[soil-food-web]] and the foundation of
+soil structure, water retention, and [[soil-foodweb]] and the foundation of
 long-term soil fertility in any organic growing system.
 
 The timing of chop and drop matters significantly for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]

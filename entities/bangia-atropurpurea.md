@@ -32,7 +32,7 @@ The alga is easily recognized by its dark purple to nearly black coloration in t
 
 The thallus consists of unbranched, uniseriate filaments arising from a discoid holdfast. Cells are cylindrical to slightly barrel-shaped, 10–30 µm in diameter and 20–60 µm in length. Each cell contains a single stellate chloroplast with a central pyrenoid.
 
-Cell walls are composed of cellulose and sulfated galactans including agar and carrageenan-type polysaccharides. Pigmentation includes phycoerythrin as the dominant phycobiliprotein, giving the characteristic reddish-purple hue.
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]] are composed of cellulose and sulfated galactans including agar and carrageenan-type polysaccharides. Pigmentation includes phycoerythrin as the dominant phycobiliprotein, giving the characteristic reddish-purple hue.
 
 Growth occurs by diffuse intercalary cell division. Apical cells are absent — instead, filament elongation proceeds through division distributed along the filament length.
 
@@ -60,7 +60,7 @@ Bangia atropurpurea is an early colonizer of bare intertidal surfaces. Its toler
 
 The species provides substrate and shelter for small invertebrates including harpacticoid copepods, nematodes, and larval gastropods. Dense mats of Bangia can create microhabitats in otherwise barren intertidal areas.
 
-Grazing pressure comes from littorinid snails, amphipods, and isopods. Despite this, Bangia persists due to its rapid regrowth and high spore output.
+[[gadd-mycelial-network-resilience-grazing-pressure]] comes from littorinid snails, amphipods, and isopods. Despite this, Bangia persists due to its rapid regrowth and high spore output.
 
 In some regions, B. atropurpurea is considered a mild fouling organism on aquaculture gear and boat hulls. Its removal is generally straightforward compared to more tenacious macroalgae.
 
@@ -74,42 +74,16 @@ Fatty acid profiling reveals a predominance of palmitic acid (C16:0), arachidoni
 
 Total lipid content ranges from 2–5% of dry weight, with glycolipids and phospholipids constituting the majority of membrane lipids. Sterol composition is dominated by cholesterol and desmosterol.
 
-Preliminary screening has identified mild antibacterial activity against Gram-positive bacteria, attributed to phenolic compounds and brominated [[antifungal-secondary-metabolites-coprophilous-fungi]].
+Preliminary screening has identified mild antibacterial activity against Gram-positive bacteria, attributed to [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and brominated [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 ## Economic and Research Significance
 
 Bangia atropurpurea has limited direct economic use compared to its close relatives in *Pyropia* (nori production). However, it is harvested seasonally in some East Asian coastal communities as a minor food item.
 
-Its phylogenetic position as a basal Bangiale makes it an important model organism for studying red algal evolution. Comparative genomics between Bangia and derived Porphyra/Pyropia lineages has illuminated the molecular basis of morphological complexity in red algae.
+Its phylogenetic position as a basal Bangiale makes it an important [[canary-grass-phototropism-model-organism]] for studying red algal evolution. Comparative genomics between Bangia and derived Porphyra/Pyropia lineages has illuminated the molecular basis of morphological complexity in red algae.
 
 The conchocelis phase is studied for its calcium carbonate boring activity, which has implications for understanding biomineralization and shell degradation in marine environments.
 
 ## Culinary and Nutritional Use
 
 Bangia atropurpurea is consumed as a minor edible seaweed in parts of Japan, Korea, and coastal China. It is typically gathered wild from intertidal rocks, rinsed, and consumed fresh in salads or lightly blanched.
-
-The species is not commercially cultivated at scale, unlike its close relatives in the nori industry. Wild harvest remains the primary source, and yields are modest compared to other edible red algae.
-
-Nutritional analysis shows protein content of 18–25% dry weight, with a favorable [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. Mineral content is rich in iodine, iron, calcium, and magnesium.
-
-Dietary fiber from cell wall polysaccharides constitutes 30–40% of dry weight. These algal fibers have prebiotic properties, supporting beneficial gut microbiota in animal feeding trials.
-
-Flavor is described as mildly briny with subtle umami notes, less intense than nori but pleasant in mixed seaweed preparations. Texture is tender when fresh but becomes tougher when dried and rehydrated.
-
-## Conservation and Environmental Status
-
-Bangia atropurpurea is not currently listed as threatened or endangered on any regional red list. Its broad distribution and tolerance of varied salinity conditions contribute to a stable global population.
-
-Local declines have been noted in heavily polluted estuaries where industrial runoff degrades water quality. The species is moderately sensitive to [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly copper and zinc, and serves as a bioindicator of coastal contamination.
-
-Climate warming may extend the species' range northward in both the Atlantic and Pacific basins. Increased frequency of thermal stress events in the intertidal zone could conversely reduce populations at the southern edge of its range.
-
-## See Also
-
-- [[pyropia-yezoensis]]
-- [[gelidium-amansii]]
-- [[palmaria-palmata]]
-- [[ulva-lactuca]]
-- [[kappaphycus-alvarezii]]
-- [[laminaria-digitata]]
-- [[alaria-esculenta]]

@@ -14,7 +14,7 @@ sources:
 # Ice Cream Cake
 
 Ice Cream Cake is a popular indica-dominant hybrid created by
-crossing Gelato #33 with Wedding Cake. Developed by Seed Junky
+crossing Gelato #33 with [[wedding-cake]]. Developed by Seed Junky
 Genetics in Southern California, it won first place at the
 2018 Emerald Cup. Known for dessert-like aroma, deep
 relaxation, and high THC (typically 20-25%, some phenotypes
@@ -30,11 +30,11 @@ potency alone.
 - **Year:** Circa 2017-2018
 - **Award:** 1st Place, 2018 Emerald Cup
 - **Lineage:**
-  - Gelato #33 = Thin Mint Cookies × Sunset Sherbet
-  - Wedding Cake = Triangle Kush × Animal Mints
+  - Gelato #33 = [[thin-mint-cookies]] × [[sunset-sherbet]]
+  - Wedding Cake = [[triangle-kush]] × Animal Mints
   - Combined heritage: Cookie family sweetness + OG
     Kush indica depth via Triangle Kush
-- **Genetic tree:** Girl Scout Cookies → Thin Mint →
+- **Genetic tree:** [[girl-scout-cookies]] → Thin Mint →
   Gelato → Ice Cream Cake; OG Kush → Triangle Kush →
   Wedding Cake → Ice Cream Cake
 
@@ -86,60 +86,5 @@ uplift before deeper physical relaxation.
   cultivars
 - **CBD:** Very low (<0.1%)
 - **CBG:** Trace (0.05-0.15%)
-- **Minor cannabinoids:** CBC present; no significant
+- **[[cannabis-minor-cannabinoids]]:** CBC present; no significant
   THCV
-
-## Effects
-- **Onset:** Rapid, 2-5 minutes; peak 30-60 min;
-  duration 2-4 hours
-- **Euphoria:** Strong cerebral uplift first 15-30 min;
-  happy, content, mildly giggly
-- **Relaxation:** Deep body high progressing to couch-
-  lock at higher doses; pronounced muscle relief
-- **Sedation:** Strong at moderate doses; transitions
-  naturally toward sleep
-- **Appetite:** Significant munchies; pairs well with
-  dessert-like flavor
-- **Creativity:** Mild enhancement in initial phase
-  before sedation
-
-### Medical Applications
-- **Insomnia:** Highly effective for sleep induction
-- **Pain:** [[cannabis-chronic-pain-management]], muscle spasms, tension
-  headaches
-- **Anxiety/stress:** Calming for generalized anxiety
-- **Appetite loss:** Chemo patients, eating disorders
-- **PTSD:** Relief from hypervigilance and insomnia
-
-### Negative Effects
-- Dry mouth/eyes (common)
-- Dizziness at higher doses
-- Anxiety/paranoia in sensitive individuals
-- Couch-lock undesirable for daytime
-- Rapid tolerance with frequent use
-
-## Cultivation
-- **Difficulty:** Moderate; intermediate growers
-- **Flowering:** 8-9 weeks (56-63 days) indoors
-- **Yield:** 400-500 g/m² indoors; 300-400 g/plant out
-- **Height:** Compact and bushy indoors; moderate
-  stretch in early flower
-- **Training:** LST, topping, ScROG all work well;
-  moderate defoliation for light penetration
-- **Nutrients:** Moderate to heavy feeder in flower;
-  increased P/K weeks 4-7
-- **Climate:** Warm, dry preferred; resistant to mildew
-  but dense buds need airflow for botrytis prevention
-- **Color:** Cool nights (<18°C) in final 2 weeks
-  enhance purple significantly
-
-## See Also
-
-- [[london-pound-cake]]
-
-- [[jungle-cake-cannabis]]
-
-- [[gelato]]
-- [[girl-scout-cookies]]
-- sunset sherbert cannabis
-- [[og-kush-cannabis-entity]]

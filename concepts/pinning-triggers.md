@@ -88,36 +88,3 @@ pinning. During the fruiting phase, CO2 must be reduced to near
 ambient levels (below 1000 ppm) to trigger normal development.
 
 Different species have different CO2 tolerances and requirements.
-Oyster mushrooms are highly sensitive to CO2 and will produce long,
-stems with small caps when CO2 is elevated. Shiitake is somewhat
-more tolerant but still produces better-formed fruiting bodies at
-lower CO2 levels. Reishi is an exception, forming desirable antler
-growths at elevated CO2 and only producing conch shapes when levels
-drop.
-
-Monitoring CO2 levels in indoor growing environments helps
-cultivators optimize fruiting conditions. Digital CO2 monitors are
-widely available and affordable. Air exchange rates can be calculated
-based on growing chamber volume and CO2 generation rates from the
-colonizing mycelium and developing mushrooms.
-
-## Temperature Drop and Cold Shocking
-
-A temperature drop of 5 to 10 degrees Celsius is a universal pinning
-trigger that mimics the natural seasonal cooling that signals the onset
-of favorable fruiting conditions in the wild. The magnitude and
-duration of the temperature drop varies by species and strain.
-
-For shiitake, a dramatic cold shock of 10 to 15 degrees for 12 to 72
-hours is often used to synchronize fruiting across an entire crop.
-This technique, sometimes called "shocking," involves soaking the
-blocks in cold water or moving them to a cold room. The stress of the
-temperature change triggers the mycelium to redirect resources toward
-reproduction.
-
-Oyster mushrooms typically need only a modest 5-degree temperature
-reduction. Some warm-weather species like pink oyster (Pleurotus
-djamor) require minimal temperature change and may pin poorly if
-shocked too aggressively. King oyster (Pleurotus eryngii) benefits
-from cooler fruiting temperatures of 12 to 16 degrees Celsius
-combined with high humidity.

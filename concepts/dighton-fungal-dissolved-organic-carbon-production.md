@@ -17,7 +17,7 @@ type: concept
 # Fungal Production of Dissolved Organic Carbon
 
 Dissolved organic carbon (DOC) represents a major pathway of carbon
-flow from terrestrial to aquatic ecosystems, and fungi play a central
+flow from terrestrial to [[dighton-fungal-biomass-production-aquatic-ecosystems]], and fungi play a central
 role in its production. The end product of fungal decomposition is
 frequently dissolved organic matter rather than particulate organic
 matter. Understanding fungal DOC production is critical for quantifying
@@ -35,13 +35,13 @@ of plant litter in coastal communities and the consequent nutrient
 mineralization supplying nutrients to the ocean. Hyde and Lee (1995)
 suggest that the end product of fungal decomposition is likely to be
 dissolved organic matter, of which there is still scant understanding
-of its origins and distribution in marine estuarine ecosystems.
+of its origins and distribution in [[marine-estuarine-fungi]] ecosystems.
 
 ## Carbon Budgets in Aquatic Systems
 
 Field carbon budgets of sycamore in freshwater stream systems and
-cordgrass (Spartina alterniflora) in salt marsh systems show the
-proportion of carbon lost to dissolved organic matter and fine
+cordgrass ([[spartina-alterniflora]]) in salt marsh systems show the
+proportion of carbon lost to dissolved [[savory-soil-organic-matter-and-decomposition-dynamics]] fine
 particulate organic matter. Fungi contribute significantly to the
 carbon budgets of both aquatic and salt marsh systems. The relative
 contribution of dissolved versus particulate carbon loss varies with
@@ -52,7 +52,7 @@ conditions including [[ph-and-nutrient-availability-garden-soils]] and temperatu
 
 In forest ecosystems, the process of decomposition and mineralization
 is greatest in the organic horizons. Fungal decomposition releases
-dissolved organic compounds that can leach through soil profiles. In
+dissolved [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that can leach through soil profiles. In
 lichens, the loss of dissolved mineral and dissolved organic nitrogen
 through leaching to deeper soil horizons can be significant. Fungal
 hyphae create channels and modify soil porosity, facilitating water
@@ -69,7 +69,7 @@ organic matter, while fungi become important as leached organic matter
 availability declines and they enter intact structural components of
 leaf litter. The transition from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance during
 decomposition involves a shift from DOC utilization to particulate
-organic matter decomposition by fungi.
+organic matter [[wood-decomposition-by-fungi]].
 
 ## Stream Chemistry and Fungal DOC
 
@@ -88,31 +88,3 @@ significantly alter carbon fluxes through aquatic food webs.
 In terrestrial systems, fungal decomposition of plant residues generates
 dissolved organic compounds that contribute to soil organic matter
 formation. Humic material encrusted with metal ions forms in soil
-profiles partly through fungal [[arbuscule-isolation-metabolic-activity-assays]]. The humic and modder
-soil horizons characteristic of coniferous forests develop through
-fungal-mediated decomposition and DOC transport. At canopy closure in
-forest development, the shift from high-quality to recalcitrant litter
-inputs changes the nature of DOC produced, with implications for
-soil carbon sequestration.
-
-## Gaps in Understanding
-
-Hyde and Lee (1995) note many gaps in knowledge of the role of fungi
-in nutrient cycling in mangrove ecosystems. Rates of chemical
-transformations are dependent on the age of the mangrove stand, the
-diversity of mangrove and terrestrial tree flora, and the proportion
-of various microhabitats within an area. Similarly, the origins and
-movement of DOC in marine estuarine ecosystems remain poorly
-understood, despite the recognition that DOC export from fungal
-decomposition is a significant component of coastal nutrient budgets.
-
-## See Also
-
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-fungi-mangrove-coastal-ecosystems]]
-- [[dighton-fungal-nutrient-immobilization-turnover]]
-
-## Sources
-
-- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
-  Chapters 2 and 6.

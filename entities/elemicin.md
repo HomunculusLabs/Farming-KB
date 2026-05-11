@@ -14,7 +14,7 @@ sources:
 # Elemicin
 Elemicin (elemicine) is a naturally occurring psychoactive
 allylbenzene found in aromatic plants, most notably nutmeg
-(Myristica fragrans), where it contributes to the spice's
+([[myristica-fragrans]]), where it contributes to the spice's
 psychoactive properties. Structurally related to myristicin,
 safrole, and eugenol, it is a methoxy-allylbenzene (IUPAC:
 1-allyl-3,4,5-trimethoxybenzene). When consumed in quantity,
@@ -54,11 +54,11 @@ pharmacophore for 5-HT2A receptor activity.
 - **Myristica fragrans (nutmeg):** 0.5-3.5% of essential
   oil; primary psychoactive alongside myristicin
 - **Pimenta racemosa (bay rum):** Leaf and berry oils
-- **Pimenta dioica (allspice):** Minor constituent
-- **Ocimum basilicum (basil):** Certain chemotypes
+- **[[pimenta-dioica]] (allspice):** Minor constituent
+- **[[ocimum-basilicum]] (basil):** Certain chemotypes
 - **[[sweet-flag-acorus-calamus-ethnobotany]] (sweet flag):** Rhizome oil
-- **Cananga odorata (ylang-ylang):** Trace amounts
-- **Mangifera indica (mango):** Peel oil of some varieties
+- **[[cananga-odorata]] (ylang-ylang):** Trace amounts
+- **[[mangifera-indica]] (mango):** Peel oil of some varieties
 - **Various Lauraceae:** Bark and leaf oils
 
 ## Pharmacology
@@ -71,7 +71,7 @@ believed to result primarily from hepatic metabolism:
 - **O-Demethylation:** CYP1A2/CYP2D6 may demethylate
   methoxy groups to hydroxylated metabolites
 - **Direct activity:** Weak 5-HT2A/5-HT2C affinity
-- **MAO inhibition:** Weak MAOI activity may potentiate
+- **[[tihkal-oral-activity-mao-inhibition]]:** Weak MAOI activity may potentiate
   endogenous or co-administered amines
 Metabolic conversion explains the 2-6 hour onset delay.
 
@@ -88,53 +88,3 @@ Typical nutmeg dose (5-15g) contains ~50-500mg elemicin
 along with myristicin and other compounds.
 - **Mild (50-200mg):** Stimulation, heightened senses,
   mild euphoria, warming sensation
-- **Moderate (200-500mg):** Euphoria, visual distortions,
-  altered time perception, mild CEVs
-- **High (500mg+):** Stronger hallucinations, disorientation,
-  dissociation; often unpleasant and dysphoric
-
-### Adverse Effects
-- Nausea, vomiting, GI distress (especially from nutmeg)
-- Prolonged effects 12-48 hours; most unpleasant aspect
-- Tachycardia, dry mouth, urinary retention
-- Anxiety, paranoia, panic at high doses
-- Hangover: headache and fatigue lasting 1-2 days
-- No confirmed fatal overdoses from elemicin alone
-
-## Biological Activities
-### Antimicrobial
-- Active against gram-positive bacteria (S. aureus,
-  B. subtilis) at 50-200 µg/mL
-- Moderate antifungal against C. albicans, A. niger
-- Potential food preservative
-
-### Insecticidal
-- Contact toxicity against mosquitoes, houseflies, grain
-  insects
-- Repellent comparable to DEET in some mosquito species
-- Larvicidal against Aedes aegypti at low concentrations
-- Possible mechanism: AChE and GABA inhibition in insects
-
-### Anti-inflammatory/Antioxidant
-- Moderate DPPH and ABTS radical scavenging
-- Anti-inflammatory in carrageenan paw edema models
-- COX-2 inhibition at higher concentrations
-
-### Cytotoxic
-- Active against breast (MCF-7), lung (A549), colon
-  (HT-29) cancer lines in vitro
-- Mechanism: apoptosis induction, cell cycle arrest
-- Narrow [[cannabis-therapeutic-index-overview]] limits clinical use
-
-## Legal Status
-- **US:** Not scheduled; de facto legal as nutmeg component
-- **International:** Not on UN Psychotropic Convention
-- **Food:** GRAS as natural flavor at dietary concentrations
-- Sometimes grouped with safrole oils under precursor
-  monitoring in some jurisdictions
-
-## See Also
-- [[mescaline]]
-- [[psilocybin]]
-
-See also: [[peyote-and-psychoactive-cacti]]

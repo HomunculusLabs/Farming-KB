@@ -1,5 +1,5 @@
 ---
-title: Neurotropic Fungi [[fungal-taxonomy-and-classification]]
+title: Neurotropic Fungi Taxonomy And Classification
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [mycology, taxonomy, neurotropic-fungi, psilocybe, classification]
 ---
@@ -88,61 +88,3 @@ atrobrunnea, likely confused with P. coprinifacies or P. maire.
 Stijve and Kuyper (1988) failed to find psilocybin in Gerronema fibula,
 [[gymnopilus-fulgens]], G. spectabilis, Hygrocybe psittacina, and Rickenella
 swartzii. Stijve and Meijer (1993) also found nothing in Gymnopilus spp.,
-[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], and Rickenella straminea.
-
-## The Critical Role of Specimen Age
-
-Specimen age is crucial. Repke et al. (1977) showed baeocystin varied with
-age — P. baeocystis and P. cyanescens had no indole traces 20-60 days after
-collection. Ohenoja et al. (1987) found decreasing psilocybin in herbarium P.
-semilanceata: 0.014% from 1869, 0.67% from 1954, 0.84% from 1976. This
-confirms indigenous wisdom that specimens kept over a year lose potency.
-
-Guzmán personally experienced compound volatility in 1958 in Oaxaca. Sleeping
-in a small closed room filled with fresh semifermented mixed Psilocybe
-specimens, he experienced colored hallucinations without ingestion. The
-strong acrid aroma in the enclosed space caused the effect, which stopped
-immediately upon leaving for fresh air, demonstrating that psilocybin and
-psilocin are volatile compounds.
-
-## Confused and Excluded Species
-
-- **[[panaeolus-antillarum-misidentification-copelandia-confusion]]** — confused with Copelandia (both white, dung-
-  inhabiting), but non-bluing and edible across the tropics
-- **Panaeolina foenisecii** — contradictory reports; most researchers found
-  no psilocybin; considered toxic rather than neurotropic
-- **[[schizophyllum-commune]]** — reported hallucinogenic in Australia but edible
-  in Mexico; shared Mazatec name "nise" with P. mexicana caused confusion
-- **[[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]** — Yoruba name means "eat and hear voices from
-  heaven" but widely considered poisonous; Singer noted not all forms are
-  poisonous, reporting cases in USA, Argentina, Philippines, and East Africa
-- **[[dictyophora-indusiata]]** — three forms used for divination by Chinantec
-  Indians of Oaxaca, though chemical confirmation is lacking
-
-## Chemical Structure Classification
-
-Hallucinogens group into: (1) **Indolealkylamines (tryptamines)** — LSD,
-psilocin, psilocybin; (2) **Phenylethylamines** — mescaline; (3)
-**Cannabinoids** — THC. Psilocybin (4-PO-DMT) is the phosphate ester of
-psilocin (4-HO-DMT), both structurally similar to serotonin (5-HT). Psilocybin
-is stable and water-soluble, converted to active psilocin in vivo, which acts
-as a 5-HT2A post-synaptic agonist or partial agonist. Baeocystin and
-norbaeocystin may also be present but are less active.
-
-## Historical Development
-
-Five periods of neurotropic fungi study:
-1. **Ancient indigenous use** in North America, Mesoamerica, Siberia, New
-   Guinea
-2. **Early erroneous studies** — Schultes (1939) classified Mexican fungi as
-   only [[panaeolus-campanulatus]] var. sphinctrinus
-3. **Scientific investigations** from Wasson's 1950s work, with Heim, Singer,
-   and Hofmann
-4. **Recreational era** and traditional practice degeneration in the 1960s
-5. **Modern recapitulation** — new species, refined chemistry, distribution
-
-Guzmán divided Mexican mycology into pre- and post-Wasson/Heim/Singer
-periods (before vs. after 1954-1958), noting that neurotropic fungi research
-catalyzed all mycological study in Mexico. Recreational use forced many
-governments to prohibit these fungi, creating underground markets and illegal
-trade that continues in the USA, Canada, Europe, and Australia.

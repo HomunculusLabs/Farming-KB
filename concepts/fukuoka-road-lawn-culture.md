@@ -5,6 +5,7 @@ tags: [america, lawn, culture, nature, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,17 +88,3 @@ health benefits alongside ecological ones.
 ## Practical Alternatives
 
 Growing interest in alternatives to traditional lawns includes native
-plant gardens, food-producing yards, xeriscaping with drought-adapted
-species, and no-mow meadow plantings. These approaches reduce water
-consumption, eliminate chemical inputs, support pollinators, and
-require far less labor. Some municipalities now offer rebates for
-replacing turf grass with native landscaping. The shift represents a
-practical application of Fukuoka's philosophy: allowing the local
-ecosystem to express itself rather than imposing an alien aesthetic.
-
-These alternatives represent a growing movement toward reconciling
-human habitation with ecological reality.
-
-## See Also
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[fukuoka-road-european-culture-of-food]]

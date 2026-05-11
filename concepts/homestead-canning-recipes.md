@@ -9,17 +9,17 @@ sources: []
 
 # Homestead Canning Recipes
 
-Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and pressure canning (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable. (see [[mason-jar-preserving-guide]]).
+Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and [[comparison-pressure-canning-vs-water-bath-canning]] (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
 
 ## Equipment
 
-- Pressure canner (not a pressure cooker -- must have a dial gauge or weighted gauge)
+- [[pf-tek-pressure-canner-sterilization]] (not a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] -- must have a dial gauge or weighted gauge)
 - Water-bath canner with rack
 - Mason jars (regular or wide-mouth) and two-piece lids
 - Jar lifter, headspace tool, bubble remover, funnel
 - Clean towels and cutting boards
 
-Always inspect jars for chips and cracks. Use new lids each time; rings are reusable. (see [[canning-and-preserving]]).
+Always inspect jars for chips and cracks. Use new lids each time; rings are reusable.
 
 ## Pressure Canning: Green Beans
 
@@ -38,11 +38,11 @@ Always inspect jars for chips and cracks. Use new lids each time; rings are reus
 4. Do not add liquid -- corn creates its own
 5. Process pints at 11 psi for 55 minutes; quarts for 85 minutes
 
-Whole-kernel corn is one of the longest-processing vegetables due to its density. (see [[comparison-fermented-vegetables-vs-canning]]).
+Whole-kernel corn is one of the longest-processing vegetables due to its density.
 
 ## Pressure Canning: Tomatoes (Water-Bath or Pressure)
 
-Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp citric acid per quart (half for pints).
+Tomatoes border on the acidity threshold. Modern varieties are less acidic than heirlooms. Add 2 tbsp bottled lemon juice or 1/2 tsp [[citric-acid-cycle-tca-krebs-cycle]] per quart (half for pints).
 
 Water-bath method:
 1. Dip tomatoes in boiling water 30-60 seconds, then ice bath

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching cannabis fungal infections candida Including Candidiasis"
+title: Blesching Cannabis Fungal Infections Candida
 created: 2026-04-26
 tags:
   - cannabis
@@ -20,12 +20,12 @@ type: concept
 
 Fungal infections represent a significant category of opportunistic
 infections, particularly in immunocompromised patients. Among the most
-common fungal pathogens is [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], responsible for conditions
+common [[bloomfield-fungal-pathogens-and-parasites]] is [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], responsible for conditions
 ranging from oral thrush to vaginal yeast infections to systemic
 candidiasis in patients with weakened immune systems.
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] covers fungal infections in the context of
-both standalone conditions and as opportunistic infections associated
+both standalone conditions and as [[blesching-cannabis-aids-opportunistic-infections]] associated
 with HIV/AIDS, where candidiasis (thrush) is one of the most frequently
 encountered complications.
 
@@ -47,7 +47,7 @@ to be effective when Fluconazole failed to work.
 
 ## Cannabis and Fungal Infections
 
-While The Cannabis Health Index does not dedicate a standalone section to
+While The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] does not dedicate a standalone section to
 fungal infections, cannabinoids are noted for their broad antimicrobial
 properties, including antifungal activity. The endocannabinoid system's
 role in [[cancer-immune-modulation-mechanisms]] is relevant to the body's ability to fight
@@ -69,7 +69,7 @@ opportunistic fungal infections in AIDS patients include:
 - **Cryptococcal meningitis**: Infection of the brain and nervous system
   by cryptococcal fungus
 
-These opportunistic infections can lead to neuropathies (nerve pain) and
+These opportunistic infections can lead to neuropathies ([[blesching-cannabis-herpes-topical-antiviral-nerve-pain]]) and
 dementia, and represent some of the most dangerous complications of
 advanced HIV/AIDS.
 
@@ -88,42 +88,3 @@ staphylococcal bacteria.
 
 Scientists from New Orleans (2002) determined that an isolated compound
 made from cayenne is effective in the laboratory against a variety of
-fungi, including Candida albicans.
-
-### Coconut
-
-Medium-chain fatty acids, especially lauric acid and capric acid,
-demonstrated broad [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] against fungi associated with
-yeast infections. Coconut is rich in these medium-chain fatty acids.
-
-### Garlic
-
-Allicin (allylthiosulfinate, diallyl disulfide-S-monoxide), a potent,
-well-known, and well-researched antimicrobial and antifungal, is an
-active ingredient in garlic. A 2007 laboratory study from Ferrara, Italy,
-determined that concentrations of spray-dried garlic (1.5 gm per 10 mL)
-had the strongest fungicidal reaction of those tested.
-
-### Oregano
-
-Veterinarians from Bologna, Italy (2005), studied the effects of several
-essential oils, including oil of oregano, against candida fungal
-infections. They found oregano to have "maximum inhibitory activity,"
-with the most active phenol component being carvacrol.
-
-### Rosemary
-
-Scientists from Harbin, China (2007), confirmed the antimicrobial
-activity of the essential oil of rosemary against a variety of bacterial
-and fungal pathogens, including Candida albicans.
-
-## Related Topics
-
-- [[blesching-cannabis-mrsa]] - Cannabis against drug-resistant
-  pathogens including fungal agents
-- [[blesching-cannabis-herpes-hsv]] - Comparison of cannabis research
-  across infectious disease categories
-- [[blesching-cannabis-viral-infections]] - Broader infectious disease
-  coverage from the Cannabis Health Index
-- [[endocannabinoid-system-overview]] - ECS role in immune
-  defense against pathogens

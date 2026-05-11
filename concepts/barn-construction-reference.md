@@ -147,4 +147,3 @@ Costs vary enormously by materials, region, and whether you build yourself or hi
 - [[basic-electrical-for-homestead]]
 - [[preserving-wood-timber-framing]]
 ## Related Pages
-

@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]
@@ -87,13 +88,3 @@ cooler and more efficiently than magnetic ballasts.
 ## Operating Life
 
 CMH lamps typically last 20,000 or more hours, significantly longer than standard metal
-halide. However, lumen output and spectrum quality degrade gradually over time. Most
-growers replace CMH lamps after 12-18 months of continuous use to maintain peak
-performance.
-
-## See Also
-
-- [[led-grow-lights]] -- modern solid-state alternative
-- [[vegetative-phase-cannabis]] -- stage well-suited to CMH spectrum
-- [[ventilation-cannabis]] -- managing heat from CMH fixtures
-- [[cannabis-light-spectrum-and-color-bands]]

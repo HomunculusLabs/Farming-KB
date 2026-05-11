@@ -11,7 +11,7 @@ type: concept
 # Mushroom Food Safety and Heavy Metal Accumulation
 
 Mushrooms used in mycoremediation projects can bioaccumulate heavy
-metals and other toxic compounds from contaminated substrates and
+metals and other toxic compounds from [[mycoremediation-mushroom-cultivation-contaminated-substrates]] and
 environments. This capacity, while valuable for environmental
 cleanup, raises serious food safety concerns. Mushrooms grown on
 remediation sites or contaminated substrates must never be consumed
@@ -24,15 +24,15 @@ Mushrooms are remarkably efficient at absorbing and concentrating
 substances from their environment. This includes not only nutrients
 but also [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] such as lead, cadmium, mercury, arsenic, and
 other toxic elements. When cultivated on contaminated substrates,
-mushroom mycelium can concentrate these metals in the fruiting
+[[antimicrobial-compounds-mushroom-mycelium]] can concentrate these metals in the fruiting
 bodies to levels far exceeding those found in the surrounding
 soil or substrate, sometimes by orders of magnitude.
 
 The problem is particularly acute with mycoremediation projects,
 where mushrooms are deliberately introduced to contaminated
-environments to break down or sequester pollutants. The very
+environments to [[query-can-fungi-break-down-plastic-pollution]] or sequester pollutants. The very
 mechanism that makes fungi effective remediators, their ability
-to absorb and metabolize diverse chemical compounds, also makes
+to absorb and metabolize diverse [[neurotropic-fungi-chemical-compounds]], also makes
 them potential vectors for toxin concentration.
 
 ## Mechanisms of Metal Uptake
@@ -40,7 +40,7 @@ them potential vectors for toxin concentration.
 Fungal cell walls contain chitin, glucans, and proteins with
 functional groups that can bind metal ions. These binding sites
 include carboxyl, amino, hydroxyl, and phosphate groups that
-chemically attract and sequester heavy metals from the
+chemically attract and sequester [[mycoremediation-heavy-metals]] from the
 surrounding matrix. Additionally, the extensive [[gadd-mycelial-network-dynamics]]
 provides enormous surface area for absorption, and active
 transport mechanisms may concentrate specific elements within
@@ -84,38 +84,7 @@ pesticides, polychlorinated biphenyls (PCBs), [[singh-fungal-biodegradation-of-p
 hydrocarbons (PAHs), and other persistent organic pollutants.
 [[spent-mushroom-substrate]]
 contains concentrated contaminants. This material should not be
-used as garden mulch, animal feed, or compost for food crops.
+used as [[cotter-outdoor-mushroom-garden-mulch-beds]], animal feed, or compost for food crops.
 Appropriate disposal methods depend on the specific contaminants
 present but may include high-temperature incineration, secured
 landfill disposal, or further treatment in specialized facilities.
-
-## Indoor Cultivation Safety
-
-Even indoor [[accessible-mushroom-cultivation-for-disabilities]] carries some risk of
-contamination. Substrates must be sourced from clean, tested
-materials. Water used for cultivation should be tested if there
-is any concern about heavy metal contamination. Growing rooms
-should be kept free from industrial chemicals, pesticides, and
-other potential contaminants that could be absorbed by the
-[[fungi-cultivated-mushrooms-pathogens-competitors]].
-
-## Testing and Monitoring
-
-Regular testing of both substrates and fruiting bodies is
-recommended when contamination is possible. Laboratory analysis
-can quantify heavy metal concentrations and determine whether
-mushrooms are safe for consumption. Many agricultural extension
-services offer heavy metal testing for mushroom samples.
-
-## The Precautionary Principle
-
-Given the potential for bioaccumulation, cultivators should
-apply the precautionary principle: when in doubt about substrate
-safety, do not use the material for food production. The cost of
-testing is minimal compared to the potential health consequences
-of consuming contaminated mushrooms. This is especially important
-## See Also
-
-- [[cotter-mycoremediation-overview]] practices and safety
-- heavy metals in agricultural systems
-- [[fungal-filter-barnyard-waste-remediation]]

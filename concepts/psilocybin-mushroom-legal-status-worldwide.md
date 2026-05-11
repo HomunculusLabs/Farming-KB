@@ -88,9 +88,3 @@ Gartz observes that enforcement of [[magic-mushroom-prohibition-and-uk-drug-poli
 - Other countries with significant use had no legislation at all
 
 ## See Also
-
-- [[psilocybin-mushroom-legal-history]]
-- [[swiss-psycholytic-therapy-1988-1993]]
-- Decriminalization efforts
-- southeast-asian-mushroom-tourism-bali
-- [[psilocybin-mushroom]]

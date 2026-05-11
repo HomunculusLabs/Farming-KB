@@ -10,8 +10,8 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Jones S.B. (1970). "Revision of Vernonia sect. Vernonia in North America." Rhodora, 72(791), 204–230.
-  - URBATSCH L.E. (2006). "Vernonia." In Flora of North America Editorial Committee, Flora of North America, Vol. 21, 191–204.
+  - Jones S.B. (1970). "Revision of Vernonia sect. Vernonia in guzman-psilocybin-mushrooms-north-america." Rhodora, 72(791), 204–230.
+  - URBATSCH L.E. (2006). "Vernonia." In Flora [[berry-growing]] Editorial Committee, Flora of North America, Vol. 21, 191–204.
   - Tallamy D.W. (2007). Bringing Nature Home. Timber Press.
 ---
 
@@ -27,7 +27,7 @@ Ironweed is an important late-season nectar source for butterflies, bees, and ot
 
 The common name "ironweed" refers to the tough, unbreakable stems that persist through winter. The species is sometimes placed in the segregate genus Vernoniastrum.
 
-Vernonia noveboracensis is one of about 20 Vernonia species native to the eastern United States. It is the most widely distributed ironweed in the Northeast.
+Vernonia noveboracensis is one of about 20 Vernonia species native to the eastern [[dmt-containing-plants-united-states-halpern]]. It is the most widely distributed ironweed in the Northeast.
 
 The species hybridizes with Vernonia glauca where their ranges overlap. Hybrids show intermediate floral and leaf characteristics.
 
@@ -69,7 +69,7 @@ Vernonia noveboracensis can form large, dense colonies through root sprouting. I
 
 New York ironweed is one of the best native plants for attracting butterflies. Species documented on the flowers include monarchs, swallowtails, and fritillaries.
 
-The deep purple flowers are rich in nectar during the critical late-summer period. Native bees, especially bumblebees and long-horned bees, are frequent visitors.
+The deep purple flowers are rich in nectar during the critical late-summer period. [[query-how-to-attract-native-bees-and-beneficial-insects]], especially bumblebees and long-horned bees, are frequent visitors.
 
 The foliage serves as a host plant for the ironweed erbine moth (Lithacodia fuscipennis). Aphids and leafhoppers feed on the sap but rarely cause significant damage.
 
@@ -77,7 +77,7 @@ Deer and rabbits generally avoid the tough, bitter foliage. This makes ironweed 
 
 Seeds are consumed by goldfinches, sparrows, and other small songbirds in autumn. The standing dead stems provide winter cover for insects and small vertebrates.
 
-The deep root system helps stabilize stream banks and prevent erosion. Plants improve soil structure through root turnover and organic matter addition.
+The deep root system helps stabilize stream banks and prevent erosion. Plants [[query-how-do-fungi-improve-soil-structure]] through root turnover [[hamilton-composting-and-organic-matter-management]] addition.
 
 ## Cultivation
 
@@ -88,34 +88,3 @@ Plant in spring or fall, spacing plants 60–90 cm apart. The species is toleran
 Established plants develop deep taproots and are moderately drought-tolerant. However, consistent moisture produces the tallest, most vigorous growth.
 
 Propagation is by seed (cold stratification improves germination) or division in spring. Division of mature clumps every 3–4 years maintains vigor.
-
-The species self-seeds readily in garden settings. Remove flower heads before seed maturation to prevent unwanted spread.
-
-No serious insect or disease problems affect this species in cultivation. Powdery mildew may occur in humid conditions but is rarely disfiguring.
-
-The species is an excellent choice for naturalized meadow plantings and conservation landscapes. It requires minimal maintenance once established.
-
-## Landscape Use
-
-New York ironweed is a staple of native plant gardens, meadow plantings, and pollinator corridors. Its late bloom time fills a critical gap between summer and autumn flowers.
-
-The tall, architectural form works well as a backdrop in mixed perennial borders. Combine with other tall natives like Joe-Pye weed, cup plant, and switchgrass.
-
-Several cultivars are available including 'Summer's Surrender' (compact, 1.2 m) and the straight species. The species received the Royal Horticultural Society Award of Garden Merit.
-
-The dried stems and seed heads persist through winter, providing structural interest. Cut stems in late winter before new growth emerges.
-
-The species is sometimes used in phytoremediation of wetland sites. Its deep roots help filter nutrients from agricultural runoff.
-
-## See Also
-
-- [[rudbeckia-hirta]]
-- [[echinacea-purpurea]]
-- [[solidago-canadensis]]
-- [[monarda-fistulosa]]
-- [[silphium-perfoliatum]]
-- [[helenium-autumnale]]
-- [[lobelia-cardinalis]]
-- [[verbesina-alternifolia]]
-- [[gaillardia-pulchella]]
-- [[coreopsis-lanceolata]]

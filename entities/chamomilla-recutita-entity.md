@@ -88,38 +88,3 @@ Chamomile is among the oldest documented medicinal plants. Egyptian texts descri
 | Flower head | Conical, hollow center | Dome-shaped, no ray florets | Conical, hollow center |
 | Scent | Strong apple fragrance | Pineapple-like when crushed | Largely scentless |
 | Ray florets | White, reflexed | Absent | White, spreading |
-| Height | 15–60 cm | 5–30 cm | 20–80 cm |
-| Annual/biennial | Annual | Annual | Annual |
-| Medicinal use | Extensive | Minor folk use | Limited |
-
-## Key Identification Features
-
-- **Hollow conical receptacle:** The most reliable diagnostic character; pressing the center of the flower head reveals a cone-shaped hollow structure
-- **Apple fragrance:** Crushing any part of the plant releases a sweet, apple-like aroma; this scent is absent in the visually similar scentless mayweed
-- **Bipinnate leaves:** Finely divided, feathery foliage distinguishes chamomile from coarser-leaved Asteraceae
-- **Reflexed white ray florets:** White petals that droop downward at maturity; the disk florets remain elevated in the center
-
-## Legal Status
-
-German chamomile is unregulated worldwide and classified as GRAS (Generally Recognized As Safe) by the United States FDA. Chamomile preparations are sold as dietary supplements, teas, and cosmetics without restriction in most jurisdictions.
-
-## Interactions and Contraindications
-
-- **Coumarin content:** Herniarin and umbelliferone possess theoretical anticoagulant activity; patients on warfarin should exercise caution with concentrated chamomile extracts (not typically significant at tea concentrations)
-- **Allergy:** Cross-reactivity in individuals with Asteraceae family allergies (ragweed, chrysanthemum, marigold) due to shared sesquiterpene lactone epitopes; incidence estimated at 1–3% in allergic populations
-- **Pregnancy:** Traditional use as an abortifacient in some folk medicine systems; moderate consumption as tea is generally considered safe, but concentrated extracts should be avoided during pregnancy due to insufficient safety data
-- **Drug interactions:** Potential additive sedation when combined with benzodiazepines or other CNS depressants; cytochrome P450 interactions are minimal at typical dietary doses
-
-## Economic Importance
-
-- **Global production:** Estimated 20,000–30,000 tonnes of dried flower heads annually; Egypt is the largest producer (40–50% of world supply), followed by Germany, Hungary, Argentina, and India
-- **Market value:** Chamomile essential oil commands premium prices ($200–500/kg) due to high alpha-bisabolol content; dried flowers trade at $3–8/kg depending on quality and origin
-- **Product categories:** Tea (largest segment by volume), essential oil, extracts (liquid and standardized dry), cosmetics (shampoos, creams, lotions), and pharmaceutical preparations
-- **Standardization:** German chamomile is standardized in the European Pharmacopoeia to a minimum of 0.25% essential oil (v/w) and 0.4% total flavonoids (expressed as apigenin-7-glucoside); these [[aact-compost-quality-standards-ingham]] ensure batch-to-batch consistency in commercial products
-
-## See Also
-
-- [[matricaria-chamomilla]]
-- achillea-millefolium
-- [[melissa-officinalis]]
-- [[gentiana-lutea]]

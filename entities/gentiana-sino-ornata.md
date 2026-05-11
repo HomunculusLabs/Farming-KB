@@ -42,7 +42,7 @@ Stems are slender and prostrate, rooting at nodes where they contact moist subst
 
 The fruit is a dry, elliptic capsule 2–3 cm long containing numerous small, winged seeds. Seeds are light brown, 1–1.5 mm long, and dispersed by wind across alpine scree.
 
-The chromosome number is 2n = 20, consistent with other members of Gentiana section Chondrophyllae. Hybridization with closely related species such as Gentiana farreri occurs both in cultivation and occasionally in the wild.
+The chromosome number is 2n = 20, consistent with other members of Gentiana section Chondrophyllae. Hybridization with closely related species such as [[gentiana-farreri]] occurs both in cultivation and occasionally in the wild.
 
 Several described varieties exist, though their taxonomic validity is debated. Variety gloriosa has broader leaves and slightly larger flowers, while the type variety maintains narrower foliage.
 
@@ -52,7 +52,7 @@ Gentiana sino-ornata is native to the eastern Himalayan region, specifically the
 
 The species inhabits alpine meadows, moraines, scree slopes, and moist grassland above treeline. It favors sites with reliable moisture from snowmelt and monsoon precipitation.
 
-Substrates are typically well-drained, slightly acidic to neutral loams rich in organic matter. The species tolerates shallow soils over rock but requires consistent moisture during the growing season.
+Substrates are typically well-drained, slightly acidic to neutral loams rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The species tolerates shallow soils over rock but requires consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 In its native range, Gentiana sino-ornata experiences cold, dry winters with snow cover and cool, moist summers. Summer temperatures rarely exceed 15°C in its alpine habitats.
 
@@ -76,7 +76,7 @@ Division every 3–4 years maintains plant vigor and prevents center die-out. Th
 
 Notable cultivars include 'Devonhall' (deeper blue), 'Silken Secrets' (pale blue with white throat), and 'Angel's Wings' (white-edged lobes). These selections have expanded the horticultural appeal of the species.
 
-Slugs and snails can damage new growth in spring, particularly in damp conditions. Good air circulation and grit mulch around the crown help prevent fungal issues such as powdery mildew.
+[[jadam-pesticide-for-slugs-and-snails]] can damage new growth in spring, particularly in damp conditions. Good air circulation and grit mulch around the crown help prevent fungal issues such as [[cervantes-powdery-mildew-prevention-treatment]].
 
 Winter hardiness is excellent (USDA zones 4–7), though plants benefit from a protective snow cover or evergreen bough mulch in areas with freeze-thaw cycles. Excessive winter wet is more dangerous than cold.
 
@@ -86,35 +86,4 @@ Container-grown specimens require careful attention to watering, as the shallow 
 
 In its native Himalayan meadows, Gentiana sino-ornata provides late-season nectar for bumblebees (Bombus spp.) and other alpine pollinators. The deep corolla tube favors long-tongued pollinators.
 
-The species is a minor component of alpine turf communities, contributing to ground cover and soil stabilization on steep, erodible slopes. Its mat-forming habit helps retain moisture in thin alpine soils.
-
-Gentiana sino-ornata co-occurs with other high-altitude herbs including Primula, Meconopsis, and various Poaceae. These plant communities are important for maintaining biodiversity in fragile alpine ecosystems.
-
-Mycorrhizal associations are likely present in wild populations, as with most Gentianaceae, though specific fungal partners for this species have not been documented.
-
-The species shows limited grazing pressure from wild herbivores, possibly due to bitter iridoid glycosides in its foliage. Domestic yak and sheep grazing in alpine meadows may trample plants but rarely consume them preferentially.
-
-## Uses and Ethnobotany
-
-While Gentiana sino-ornata has no significant history of medicinal use, other members of Gentiana section Chondrophyllae have been used in traditional Chinese medicine as bitter tonics.
-
-The species' primary human value is ornamental, where it is prized for rock gardens, alpine troughs, and crevice plantings. Its vivid autumn flowers make it a focal point in late-season garden displays.
-
-In botanical illustration and horticultural photography, Gentiana sino-ornata is frequently featured as an exemplar of alpine beauty. The intense blue coloration has made it a model organism for studies of floral pigment biochemistry.
-
-Research on anthocyanin-metal chelation in Gentiana sino-ornata flowers has contributed to understanding how plants achieve stable blue pigmentation. This work has applications in food science and natural dye development.
-
-The species has been cultivated in European gardens since the early 20th century, when plant collectors such as George Forrest introduced live material from Yunnan. It remains one of the most popular gentians in the alpine plant trade.
-
-## See Also
-
-- [[gentiana-acaulis]]
-- [[gentiana-clusii]]
-- [[gentiana-verna]]
-- [[gentiana-asclepiadea]]
-- [[gentiana-scabra]]
-- [[gentiana-septemfida]]
-- [[swertia-perennis]]
-- [[gentiana-purpurea]]
-- [[gentiana-andrewsii]]
-- [[gentiana-amarella]]
+The species is a minor component of alpine turf communities, contributing to [[natural-ground-cover-and-straw-mulching]] soil stabilization on steep, erodible slopes. Its mat-forming habit helps retain moisture in thin alpine soils.

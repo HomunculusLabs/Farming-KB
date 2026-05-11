@@ -88,48 +88,7 @@ is exhausted.
 
 The use of incense to transfer the flame to the cannabis creates a chain of
 sacred fire: from the earth's wood to the ritual flame, to the incense, to
-the cannabis. Each element in this chain is a gift from the earth.
-
-## The Earth Prayer
-
-After the cannabis is consumed, the practitioner says: "Earth, we thank you
-for the fire you have given us, now energize me so I can complete what I want
-to and constantly improve my life, the lives of those around me and give me
-the energy I need to worship you throughout my daily life. As I smoke my holy
-herb grown in your sacred ground and use the sacred fire to light it, I ask
-that all things I do under the influence of this sacred herb be in honor of
-you, o' earth."
-
-This prayer establishes the central relationship: the earth provides the fire,
-the cannabis, and the energy. The practitioner dedicates all actions performed
-under the herb's influence to the earth's honor.
-
-## Meditation on Fire's Dual Nature
-
-The practitioner meditates on the flame and how it reaches into all areas of
-life. The meditation focuses on the dual nature of fire: its capacity for
-good and for ill. The practitioner reflects on how the earth has given plants
-that are burned for warmth and energy, and how this process of burning and
-renewal will begin anew.
-
-The energy released by the fire is absorbed during this meditation, creating a
-connection between the practitioner and the elemental force.
-
-## Closing the Ritual
-
-When the meditation is complete, the practitioner says: "I am now breaking the
-flame." The flame is allowed to die down almost completely, and the circle is
-closed. The ritual is now complete.
-
-## Safety Considerations
-
-This ritual involves open flame, grain alcohol, and burning materials. The
-practitioner should exercise extreme caution when pouring alcohol onto the
-fire and ensure the ritual space is free of flammable debris. A large, open
-area away from structures is essential.
 
 ## See Also
-- [[cannabis-healing-ritual]]
 - [[marijuana-magick-ancient-ritual-use-cannabis]]
-- [[cannabis-spiritual-ritual-use]]
-- [[practitioner-cannabis-ritual-use-and-sacrament]]
+- [[scythian-cannabis-steam-bath-ritual]]

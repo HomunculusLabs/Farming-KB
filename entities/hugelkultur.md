@@ -30,15 +30,15 @@ Hugelkultur (German: *Hügelkultur*, meaning "mound culture" or "hill culture") 
 Hugelkultur operates on the principle of accelerated wood decomposition:
 
 1. **Buried wood acts as a sponge** — Fallen logs and branches absorb and retain water like a natural reservoir, releasing it slowly to plant roots during dry periods
-2. **Decomposition generates heat** — Microbial breakdown of woody material produces warmth, extending the growing season by weeks in [[fukuoka-natural-farming-temperate-climates]]
-3. **Nutrient cycling** — As wood decomposes over 5–20 years, it releases stored nutrients (nitrogen, phosphorus, potassium, trace minerals) gradually, providing a slow-release fertilizer
+2. **Decomposition generates heat** — Microbial breakdown of woody material produces warmth, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] by weeks in [[fukuoka-natural-farming-temperate-climates]]
+3. **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]** — As wood decomposes over 5–20 years, it releases stored nutrients (nitrogen, phosphorus, potassium, [[dynamic-accumulator-plants-trace-minerals]]) gradually, providing a slow-release fertilizer
 4. **Soil structure improvement** — Decomposition creates air pockets and channels in the soil, improving aeration, drainage, and root penetration
 5. **Carbon sequestration** — Buried woody material stores carbon underground for extended periods, reducing atmospheric CO₂
-6. **Mycorrhizal networks** — Decomposing wood supports fungal networks that form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots, enhancing nutrient exchange
+6. **[[arbuscular-mycorrhizal-networks]]** — Decomposing wood supports fungal networks that form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots, enhancing [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
 
 ### The Nitrogen Dynamics Debate
 
-A common concern is that decomposing wood (especially high C:N ratio materials) will temporarily immobilize soil nitrogen as decomposer organisms use available nitrogen to break down carbon-rich material. In practice:
+A common concern is that decomposing wood (especially high C:N ratio materials) will temporarily immobilize soil nitrogen as decomposer organisms use [[plant-available-nitrogen-ammonium-nitrate]] to break down carbon-rich material. In practice:
 
 - The nitrogen "lock-up" primarily affects the soil immediately adjacent to decomposing wood, not the upper growing layers
 - Using nitrogen-rich materials (green waste, manure, compost) in the upper layers compensates
@@ -88,53 +88,3 @@ A common concern is that decomposing wood (especially high C:N ratio materials) 
 The first year is the most challenging as nitrogen dynamics stabilize and the bed settles:
 
 - **Plant nitrogen-fixing legumes:** Beans, peas, clover, vetch, lupines
-- **Shallow-rooted crops:** Lettuce, spinach, radishes, herbs — they grow in the upper soil layer unaffected by decomposition below
-- **Avoid deep-rooted heavy feeders initially:** Tomatoes, corn, squash may struggle if roots encounter nitrogen-poor decomposition zones
-- **Cover crop:** Buckwheat or daikon radish as a soil-builder
-
-### Years 2–5 (Maturation)
-
-As decomposition progresses, the bed becomes increasingly productive:
-
-- Full range of vegetables can be grown
-- Root vegetables (carrots, potatoes, beets) benefit from the loose, well-aerated soil
-- Heavy feeders (tomatoes, peppers, brassicas) thrive with the increasing nutrient availability
-- Perennial herbs and flowers can be established at the edges
-
-### Years 5–20+ (Peak Fertility)
-
-- Peak nutrient availability from wood decomposition
-- Maximum water retention from decomposed sponge-like wood matrix
-- Minimal external inputs needed
-- The bed gradually settles to ground level over 10–20 years
-
-## Variations and Adaptations
-
-### Pit / Sunken Hugelkultur
-
-- Wood buried in a pit below ground level with soil on top
-- Advantages: Lower profile, easier to access, wind protection, retains moisture more effectively
-- Ideal for: Arid climates, windy sites, areas with appearance restrictions
-
-### Hugelkultur Swale Integration
-
-- Hugel beds placed on contour along swales
-- Captures runoff water, prevents erosion, maximizes water infiltration
-- Ideal for: Sloped terrain, nut tree cultivation for permaculture food forests, keyline design integration
-
-### Container Hugelkultur
-
-- Scaled-down hugel beds in large containers or raised beds with bottoms
-- Woody material in the lower half, soil and compost above
-- Ideal for: Urban gardens, patios, rooftops, demonstration gardens
-
-### Keyhole Hugel
-
-- Circular hugel bed with a central compost basket ([[comparison-mandala-garden-design-vs-keyhole-garden-design]])
-- Combines hugelkultur water retention with keyhole garden compost access
-- Ideal for: Small spaces, [[gaias-garden-creating-community-gardens]], educational settings
-## See Also
-
-- [[hugelkultur-bed-construction-detailed]]
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-- [[permaculture-design-principles-ethics]]

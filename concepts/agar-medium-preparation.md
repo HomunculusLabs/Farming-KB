@@ -88,13 +88,3 @@ Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[straw-substrate-yeast-extract-enrichment-preparation]]
-
-- [[growing-gourmet-agar-media-formulation-guide]]
-
-- [[malt-agar-baseline-medium-psilocybe-cubensis-growth-assay]]

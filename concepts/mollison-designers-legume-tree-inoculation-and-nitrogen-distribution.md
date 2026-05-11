@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,26 +88,3 @@ be necessary every 2-3 years.
 ## Integration with Coppicing Systems
 
 The nitrogen dynamics of legume trees make them central to
-[[mollison-avenue-cropping-with-legumes]]. In [[mollison-avenue-cropping-with-legumes]],
-legume rows are interplanted with crops, and the regular cutting
-cycle provides both mulch and a steady nitrogen supply. The
-interaction between coppice management and nitrogen availability
-is a key design consideration.
-
-## Mycorrhizal Connections
-
-Mollison references the mycorrhizal associates of higher plants
-as a key example of mutualism or fair trade between a plant and
-its root associate. The [[mollison-designers-soil-water-storage-in-forest-systems]] through the [[holzer-humus-storage-ditches]] mechanism.
-
-## Design Implications
-
-- Always inoculate legume seed with the correct rhizobial strain
-- Use local soil from nodulating trees as a backup inoculation
-  method
-- Plan for the 6-year nitrogen release cycle when removing trees
-- Integrate legume trees with mollison-forage-trees-in-livestock-systems for dual purpose
-- Use green mulch from legumes rather than artificial nitrogen
-  fertiliser
-- Space trees according to intended function: close for mulch,
-  wider for shelter and seed

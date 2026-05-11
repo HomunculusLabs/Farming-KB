@@ -9,30 +9,30 @@ sources: []
 
 # Wine Making From Grapes
 
-Making wine from grapes on the homestead connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience. (see [[pickle-making]]).
+Making wine from grapes on the homestead connects you to one of humanity's oldest agricultural traditions. Whether you grow your own grapes, source from local vineyards, or buy in bulk, the principles of winemaking are accessible to anyone with attention to detail and patience.
 
 ## Grape Selection
 
 ### Wine Grape Varieties by Type
 
 **Red Wine Grapes**
-- Cabernet Sauvignon: full-bodied, high tannin, blackcurrant flavors. Requires long growing season. (see [[smoking-meat-and-fish]]).
+- Cabernet Sauvignon: full-bodied, high tannin, blackcurrant flavors. Requires long [[extending-growing-season]].
 - Merlot: medium-bodied, softer tannin, plum and cherry. Easier to grow than Cabernet.
 - Pinot Noir: light-bodied, earthy, red berry. Difficult to grow but rewarding.
 - Syrah/Shiraz: full-bodied, spicy, dark fruit. Heat-tolerant.
 - Zinfandel: bold, jammy, peppery. Very productive vine.
-- Concord/Niagara: North American labrusca varieties. Foxy flavor, disease-resistant, cold-hardy. Good for sweet wines and jelly.
+- Concord/Niagara: [[growing-gourmet-north-american-reishi-species]] labrusca varieties. Foxy flavor, disease-resistant, cold-hardy. Good for sweet wines and jelly.
 
 **White Wine Grapes**
 - Chardonnay: full-bodied, buttery, apple. Adaptable to many climates.
 - Sauvignon Blanc: crisp, herbaceous, citrus. High acidity.
 - Riesling: aromatic, high acid, ranges from dry to sweet. Cold-hardy.
-- Gewurztraminer: highly aromatic, lychee and spice. Needs cool climate.
+- Gewurztraminer: highly aromatic, lychee and spice. Needs [[cool-climate-home-garden-mollison]].
 - Muscat: floral, grapey, aromatic. Makes both dry and sweet wines.
 - Seyval Blanc: French-American hybrid. Disease-resistant, cold-hardy. Good beginner grape.
 
 ### Choosing for Your Climate
-- Cold climates (zone 4-5): Marquette, Frontenac, La Crescent, St. Croix, Brianna
+- [[query-best-kiwifruit-varieties-for-cold-climates]] (zone 4-5): Marquette, Frontenac, La Crescent, St. Croix, Brianna
 - Moderate climates (zone 6-7): Cabernet Franc, Merlot, Chardonnay, Riesling, Vidal Blanc
 - Warm climates (zone 8+): Cabernet Sauvignon, Syrah, Zinfandel, Sangiovese, Muscat
 
@@ -135,9 +135,9 @@ The most critical aspect of winemaking. Every surface that contacts wine must be
 
 ## Common Problems
 
-- Volatile acidity (vinegar smell): caused by acetic acid bacteria. Prevent with proper sulfiting and full vessels.
+- Volatile acidity (vinegar smell): caused by acetic [[bionutrients-lab-lactic-acid-bacteria-serum]]. Prevent with proper sulfiting and full vessels.
 - Oxidation (brown color, flat taste): exposure to air. Minimize headspace, use sulfite.
-- Hydrogen sulfide (rotten egg smell): yeast nutrient deficiency during fermentation.
+- Hydrogen sulfide (rotten egg smell): yeast [[cannabis-grow-nutrient-deficiency-problem-solving]] during fermentation.
 - Refermentation in bottle: residual sugar ferments. Stabilize with potassium sorbate and sulfite before bottling sweet wines.
 - Cork taint (musty, wet cardboard): contaminated cork. Buy quality corks, store properly.
 

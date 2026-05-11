@@ -20,7 +20,7 @@ Key principles:
 - **Maximize edge:** The curved and undulating bed shapes create more edge (boundary between bed and path) per unit area than straight beds. More edge means more microclimates and more planting diversity.
 - **Minimize path area:** Keyhole paths access beds from the center, eliminating the need for paths between every row. This can increase productive growing area by 30-50% compared to traditional rectangular row gardens.
 - **Create microclimates:** Circular and curved beds create variations in sun exposure, wind protection, and moisture within a small area.
-- **Aesthetic beauty:** Mandala gardens are visually striking, making them ideal for front yards, community gardens, and demonstration sites.
+- **Aesthetic beauty:** [[gaias-garden-keyhole-beds-and-mandala-gardens]] are visually striking, making them ideal for front yards, [[gaias-garden-creating-community-gardens]], and demonstration sites.
 
 ## Basic Layout Patterns
 
@@ -67,7 +67,7 @@ Eight beds with eight keyhole paths, creating a more intricate pattern. Each bed
 
 - **Center feature:** The center of the mandala is a focal point. Options include:
   - A small fruit tree (dwarf or espaliered)
-  - An herb spiral (combines two permaculture patterns)
+  - An herb spiral (combines two [[permaculture-patterns-in-nature]])
   - A circular seating area
   - A water feature or pond
   - A compost bin or worm bin
@@ -105,7 +105,7 @@ For faster results and better drainage, build the mandala beds as raised beds:
 
 ## Intensive Planting
 
-The mandala garden's design lends itself to intensive planting methods:
+The mandala garden's design lends itself to intensive [[native-american-planting-methods-and-indigenous-agriculture]]:
 
 ### Succession Planting
 
@@ -117,7 +117,7 @@ The mandala garden's design lends itself to intensive planting methods:
 
 - Group plants that benefit each other in the same bed or adjacent beds
 - Rotate plant families around the mandala each season to break pest and disease cycles
-- Include flowers and herbs throughout to attract pollinators and beneficial insects
+- Include flowers and herbs throughout to attract pollinators [[hemenway-insectary-plants-and-beneficial-insects]]
 
 ### Vertical Gardening
 

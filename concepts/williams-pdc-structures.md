@@ -88,38 +88,3 @@ techniques can be built on any structure to take advantage of the
 microclimate. Green roofs can be used to maximize growing space, replacing
 the ecological footprint of the buildings. Consider whether the structure
 is a thermal mass in your landscape and how that can be harnessed for
-[[climate-and-microclimate-management]] benefit.
-
-## Invisible Structures
-
-Beyond physical buildings, permaculture recognizes the importance of invisible
-structures: the social, economic, and organizational frameworks that support
-human settlements. Community organizations, local economies, governance
-systems, and cultural practices are all structures that can be designed using
-permaculture principles.
-
-The [[williams-pdc-invisible-structures]] concept extends ecological thinking
-to human social systems. Just as physical structures should produce multiple
-benefits and close resource loops, social structures should be designed for
-resilience, adaptability, and the health of the communities they serve.
-
-## Key Principles
-
-- Every structure has ecological potential beyond its primary function:
-  harness the Sun, [[query-how-do-i-create-microclimates-in-my-garden]], clean water, produce food, and
-  provide habitat simultaneously
-- Design for wind and sun: understand prevailing wind patterns and solar
-  angles to optimize structure orientation and openings
-- Manage water around structures: calculate rainwater catchment and use
-  berms and swales to control runoff at the base
-- Use plants to maximize unused spaces: trees on north sides, vines on
-  walls, green roofs on top, gardens in berms and swales
-- Keep it simple: practicality and appropriateness matter more than
-  aesthetic novelty; look to design precedents for proven solutions
-
-## See Also
-
-- [[williams-pdc-rain-water-harvesting]]
-- [[passive-solar-design]]
-- [[climate-and-microclimate-management]]
-- [[williams-pdc-invisible-structures]]

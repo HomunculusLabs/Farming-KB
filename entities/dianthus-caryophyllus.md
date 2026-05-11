@@ -47,33 +47,33 @@ The wild form of *D. caryophyllus* is native to the Mediterranean Basin, particu
 
 Wild carnations grow in rocky, calcareous habitats including coastal cliffs, dry hillsides, and garigue. They prefer well-drained, slightly alkaline soils with full sun exposure.
 
-The species has naturalized in parts of North America, Japan, and Australia. In cultivation, it is grown worldwide in temperate and subtropical regions under both field and greenhouse conditions.
+The species has naturalized in parts [[berry-growing]], Japan, and Australia. In cultivation, it is grown worldwide in temperate and subtropical regions under both field and greenhouse conditions.
 
 Wild populations have declined in parts of their native range due to habitat loss and urbanization. The species is not currently considered threatened at the global level, though some regional populations are of conservation concern.
 
 ## Cultivation
 
-Carnations are propagated by seed, cuttings, or tissue culture. Commercial cut-flower production relies almost exclusively on vegetative propagation to maintain specific cultivar traits.
+Carnations are propagated by seed, cuttings, or [[cervantes-tissue-culture-micropropagation]]. Commercial cut-flower production relies almost exclusively on [[hamilton-vegetative-propagation]] to maintain specific cultivar traits.
 
 Standard carnations produce one large terminal flower per stem and are the primary type for commercial cut-flower production. Spray carnations produce 5–8 smaller flowers per stem and are popular in mixed bouquets and garden plantings.
 
-Greenhouse production requires temperatures of 12–18°C during the day and 10–12°C at night. The crop cycle from planting to harvest is typically 4–6 months for standard types and 3–4 months for spray types.
+Greenhouse production requires temperatures of 12–18°C during the day and 10–12°C at night. The crop cycle from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] is typically 4–6 months for standard types and 3–4 months for spray types.
 
 Major production regions include Colombia, which is the world's largest exporter, followed by China, Ecuador, and the Netherlands. Colombian production benefits from high-altitude growing conditions that produce strong stems and vivid colors.
 
 The shift of major production to equatorial highlands during the late 20th century was driven by lower labor costs and favorable year-round growing conditions. Colombia's share of the U.S. carnation market exceeds 70%.
 
-Disease management focuses on Fusarium wilt (*Fusarium oxysporum* f. sp. *dianthi*), which is the most serious pathogen in carnation cultivation. Resistance breeding has been a major focus of commercial breeding programs since the 1970s.
+[[clubroot-disease-management]] focuses on [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] (*[[fusarium-oxysporum]]* f. sp. *dianthi*), which is the most serious pathogen in carnation cultivation. [[cannabis-disease-pest-resistance-breeding-clarke]] has been a major focus of commercial breeding programs since the 1970s.
 
-Additional pathogens include Alternaria leaf spot, Botrytis gray mold, and root-knot nematodes. Integrated pest management programs combine resistant cultivars, biological controls, and targeted fungicide applications.
+Additional pathogens include Alternaria leaf spot, Botrytis [[cervantes-gray-mold-botrytis-prevention]], and root-knot nematodes. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] programs combine resistant cultivars, biological controls, and targeted fungicide applications.
 
-Commercial breeding has produced thousands of registered cultivars, with major breeding programs in France, the United States, Japan, and the Netherlands. Modern trends include virus-free stock production through meristem culture and development of novel flower forms including picotee, flecked, and spider-type patterns.
+Commercial breeding has produced thousands of registered cultivars, with major breeding programs in France, the [[dmt-containing-plants-united-states-halpern]], Japan, and the Netherlands. Modern trends include virus-free stock production through meristem culture and development of novel flower forms including picotee, flecked, and spider-type patterns.
 
 Garden carnations (border carnations and pinks) remain popular in temperate perennial borders. These ornamental forms are generally hardier than commercial cut-flower types, tolerating temperatures to -15°C when well-established.
 
 ## History and Cultural Significance
 
-Carnations are among the oldest cultivated flowers, with documented use dating to ancient Greek and Roman times. Theophrastus mentioned *Dianthus* in his botanical writings around 300 BCE.
+Carnations are among the oldest cultivated flowers, with documented use dating to [[ancient-greek-mystery-cults-comparison]] and Roman times. Theophrastus mentioned *Dianthus* in his botanical writings around 300 BCE.
 
 In the Middle Ages, carnations were widely grown in European monastery gardens and were valued for their clove-like fragrance, which was used to flavor wines and cordials. The French name "œillet" (little eye) refers to the flower's shape.
 
@@ -88,34 +88,3 @@ Advances in post-harvest technology, particularly the development of floral pres
 Carnations hold cultural significance worldwide. In Korea, they are a traditional graduation flower. In Portugal, red carnations symbolize the 1974 Carnation Revolution. In the United States, they are the official flower of Mother's Day.
 
 Different colors carry specific meanings in the language of flowers: red for love, white for purity, pink for gratitude, and yellow for disappointment. Green carnations have been associated with Oscar Wilde and LGBTQ+ identity since the late 19th century.
-
-## Uses
-
-The primary use of *D. caryophyllus* is as a cut flower for the global floristry industry. Carnations rank among the top five most commercially important cut flowers worldwide by production volume.
-
-The species is also cultivated as a garden perennial in temperate climates, where it provides long-lasting color from late spring through autumn. Border carnations and hardy pinks are popular choices for rock gardens, cottage gardens, and perennial borders.
-
-Edible flowers of certain cultivars are used in culinary applications. Petals are candied for cake decoration, steeped in syrups, or infused into vinegars and liqueurs. The clove-like flavor comes from eugenol and related phenylpropanoid compounds.
-
-Essential oil extracted from carnation flowers contains eugenol, beta-caryophyllene, and benzoic acid derivatives. The oil is used in perfumery, particularly in oriental and spicy fragrance compositions.
-
-In traditional herbal medicine, carnation flowers have been used as a tonic, diaphoretic, and for treating coronary and nervous disorders. These uses have limited modern pharmacological validation.
-
-Dried carnation petals have been used historically in potpourri and sachets. The flowers' fragrance persists well when dried, making them suitable for long-term aromatic applications.
-
-The species has been used in phytoremediation studies for its ability to accumulate certain heavy metals in contaminated soils. This potential application is still under research and not yet commercially implemented.
-
-Carnation petals contain flavonoids, anthocyanins, and phenolic acids with documented antioxidant activity. Research into potential cosmetic and nutraceutical applications of carnation extracts is ongoing, though commercial products remain limited.
-
-## See Also
-
-- [[stellaria-media]]
-- [[rosa-damascena]]
-- [[lavandula-angustifolia]]
-- [[tropaeolum-majus]]
-- [[borago-officinalis]]
-- [[viola-odorata]]
-- [[convallaria-majalis]]
-- [[papaver-rhoeas]]
-- [[matricaria-chamomilla]]
-- [[calendula-officinalis]]

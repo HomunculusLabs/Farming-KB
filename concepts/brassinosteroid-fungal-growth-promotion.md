@@ -5,7 +5,7 @@ hormones — can dramatically accelerate fungal growth represents a
 significant finding in mycology and plant-fungal interactions.
 This cross-kingdom effect was first documented in a 1990 study by
 Gartz, Adam, and Vorbrodt, who observed that 22S,23S-
-homobrassinolide promoted mycelial growth and fruiting in the
+homobrassinolide promoted [[mycelial-growth-and-colonization]] fruiting in the
 fungus [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
 
 ## The Original Study
@@ -59,15 +59,15 @@ approximately 35-50% increase in [[stamets-biological-efficiency-yield]].
 ## Reduction of Abnormalities
 
 An unexpected finding was that the formation of incomplete fruit
-bodies (aborts), normally present in mushroom cultivation, was
-almost completely suppressed by brassinosteroid treatment. This
+bodies (aborts), normally present [[contamination-prevention-in-mushroom-cultivation]], was
+almost completely suppressed by [[annulus-loss-morphological-effect-brassinosteroid-treatment]]. This
 reduction in aborts contributes to the overall yield improvement
 and suggests that brassinosteroids promote more uniform and
-complete fruiting body development.
+complete [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 Additionally, the morphology of the fruit bodies was altered:
 treated cultures produced mushrooms that lacked the typical
-membranous annulus (ring) on the stems. This morphological change
+[[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) on the stems. This morphological change
 suggests that brassinosteroids influence not only growth rate but
 also developmental patterning during fruiting body formation.
 
@@ -80,7 +80,7 @@ activity of brassinosteroids on fungi:
 structural similarity with ergosterol, the primary sterol in
 fungal cell membranes. This similarity may allow brassinosteroids
 to interact with fungal sterol-binding proteins or receptors,
-influencing membrane properties or signaling pathways.
+influencing membrane properties or [[plant-signaling-pathways]].
 
 **Membrane effects**: As amphipathic molecules, brassinosteroids
 may alter membrane fluidity or permeability, potentially
@@ -88,34 +88,3 @@ enhancing nutrient transport across the cell membrane and
 stimulating [[arbuscule-isolation-metabolic-activity-assays]].
 
 **Metabolic activation**: Brassinosteroids may activate fungal
-enzyme systems involved in growth metabolism, possibly through
-interaction with sterol-sensing regulatory proteins.
-
-**Hormone receptor conservation**: It is possible that fungi
-possess receptors or signaling components that are evolutionarily
-related to plant brassinosteroid receptors, allowing recognition
-of these plant compounds.
-
-## Implications for Mushroom Cultivation
-
-The observed effects have potential practical applications in the
-cultivation of edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. If brassinosteroid
-treatment proves effective across a range of commercially important
-species, it could significantly improve production efficiency
-through faster colonization, earlier fruiting, higher yields, and
-reduced abort rates.
-
-However, the morphological changes observed (loss of the annulus)
-and the need for regulatory approval for hormone-treated food
-products present challenges for commercial adoption. Further
-research is needed to optimize brassinosteroid application methods,
-determine effective concentrations for different species, and
-assess any effects on mushroom [[dighton-fungal-nutritional-composition-animal-diets]] or
-bioactive compound profiles.
-
-## See Also
-
-- [[22s-23s-homobrassinolide]]
-- mycelial growth factors
-- [[mushroom-cultivation]]
-- [[ergosterol]]

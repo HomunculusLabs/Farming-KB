@@ -1,7 +1,7 @@
 ---
 title: PF TEK pf-tek-ethyl-alcohol-extraction-liqueur-concentration Method
 created: 2026-04-28
-tags: [pf-tek, extraction, psilocybin, ethanol, tincture]
+tags: [pf-tek, extraction, [[psilocybin]], ethanol, tincture]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -21,7 +21,7 @@ making it one of the simplest extraction approaches available.
 ## Overview
 
 The technique extracts the active alkaloids from dried mushroom material through
-cold solvent extraction in ethyl alcohol. After soaking, the alcohol is filtered
+cold [[cannabis-solvent-extraction]] in [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]. After soaking, the alcohol is filtered
 and then evaporated down to a desired concentration using a small electric fan.
 The resulting liqueur has a pungent mushroomy aroma and can be stored
 indefinitely in the freezer. [[mycology]] communities at the time of writing.
@@ -88,62 +88,3 @@ by an elastic band.
 
 Fashion the mask as a filter over the mouth of a drinking glass. Shake the
 bottle of slurry to suspend the material, then pour some slurry into the
-filter. Squeeze the filter and its contents firmly to extract as much alcohol
-as possible from the mushroom material. Collect the filtered alcohol extract in
-a clean bottle. Repeat until all slurry has been filtered.
-
-## Step 3: Secondary Extraction
-
-Retrieve the mushroom material from the filters after the first extraction. The
-material still contains residual alkaloids. Resoak the extracted mushroom
-material with fresh 200 proof alcohol and repeat the 24-hour soak and
-filtration process. This secondary extraction captures alkaloids that were not
-dissolved in the first soak, maximizing the yield.
-
-## Evaporation and Concentration
-
-Combine the filtered alcohol extracts from both soaks into a clean glass.
-Position a small electric fan near the glass and direct the airflow straight
-down into the glass until the surface of the alcohol ripples. This gentle air
-movement accelerates evaporation without the need for heat, which could degrade
-the active compounds.
-
-The evaporation process takes several hours depending on the volume of alcohol
-extract. As the alcohol level recedes, periodically wash the residue adhering
-to the inside of the glass back into the solution to recover all extracted
-material. Any fumes generated are harmless because the alcohol is a drinkable,
-non-toxic spirit. However, pure alcohol is highly flammable and open flames
-must be kept away from the working area.
-
-The extract should be evaporated down to the desired concentration. A ratio of
-1 to 3 or more grams of dried mushroom material per 1cc of final extract
-produces a potent brew. The more concentrated the extract, the less liquid
-needs to be consumed per dose.
-
-## Dosing and Dispensing
-
-[[pf-tek-psilocybe-fanaticus-cultivation-method]] recommended dispensing the concentrated mushroom liqueur
-with a 10cc syringe for accurate measurement. Precision is important because
-the concentrated extract is very potent, and a slight miscalculation in dose
-could produce a much stronger experience than intended. The liqueur can be
-consumed directly, or the alcohol can be allowed to evaporate from the
-dispensed dose before ingestion.
-
-## Storage
-
-The concentrated mushroom liqueur should be stored in small screw-cap bottles
-or vials in the freezer. Ethyl alcohol does not freeze solid at standard
-freezer temperatures and will remain liquid, making it easy to dispense. The
-freezer storage preserves the active alkaloids indefinitely. The liqueur will
-develop a pungent, distinctively mushroomy aroma, which PF described as "like
-fungi perfume."
-
-## Safety Notes
-
-While 200 proof ethyl alcohol is non-toxic and drinkable (unlike denatured
-alcohol or other solvents used in extraction), several safety precautions
-apply. Pure alcohol is extremely flammable and all extraction and evaporation
-## See Also
-- [[psilocybe-fanaticus]]
-- [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
-- [[lemon-cannabis-alchemy-high-volume-extraction-method]]

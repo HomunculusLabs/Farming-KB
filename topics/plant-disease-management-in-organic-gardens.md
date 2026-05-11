@@ -5,6 +5,7 @@ tags: [plant-pathology, organic-gardening, diseases, fungi, oomycetes, bacteria]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/concepts/bacterial-plant-diseases.md
   - ~/wiki/concepts/fungal-plant-diseases.md
   - ~/wiki/concepts/bloomfield-potato-blight-phytophthora-infestans.md

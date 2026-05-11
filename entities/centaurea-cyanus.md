@@ -23,11 +23,11 @@ created: 2026-04-28
 
 **Centaurea cyanus** L., commonly known as cornflower, bachelor's button, or bluebottle, is an annual herbaceous plant in the family Asteraceae.
 
-Native to Europe, it has become naturalized across much of the temperate world and is widely cultivated as an ornamental flower and medicinal herb. The plant is best known for its vivid blue flower heads, which have been used medicinally, culinarily, and symbolically for centuries.
+Native to Europe, it has become naturalized across much of the temperate world and is widely cultivated as an ornamental flower and [[medicinal-herb-growing]]. The plant is best known for its vivid blue flower heads, which have been used medicinally, culinarily, and symbolically for centuries.
 
 The species was once a common weed of European grain fields (hence the name "cornflower," from "corn" in its older sense of grain). Agricultural intensification and herbicide use have dramatically reduced its presence in arable landscapes, making it a symbol of declining farmland biodiversity in Europe.
 
-C. cyanus is the national flower of Estonia and is featured on the German 2-euro coin. Its distinctive blue pigment has been valued as a natural dye and as a colorant in food and cosmetics.
+C. cyanus is the national flower of Estonia and is featured on the German 2-euro coin. Its distinctive blue pigment has been valued as a [[natural-dye-plants]] and as a colorant in food and cosmetics.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ C. cyanus is the national flower of Estonia and is featured on the German 2-euro
 
 C. cyanus is native to temperate Europe, from the British Isles and Scandinavia eastward through central and southern Europe to the Caucasus and western Siberia.
 
-It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, New Zealand, and parts of Asia. In North America, it is established in most of the contiguous United States and southern Canada.
+It has been widely introduced and naturalized in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and parts of Asia. In [[guzman-psilocybin-mushrooms-north-america]], it is established in most of the contiguous United States and southern Canada.
 
 The species is an archaeophyte of cereal fields, thriving as a weed in cultivated ground, particularly wheat, barley, and rye fields. It also colonizes roadsides, railway embankments, waste ground, and disturbed sites.
 
@@ -57,9 +57,9 @@ It prefers well-drained, moderately fertile soils in full sun. Optimal growth oc
 
 C. cyanus is an important nectar and pollen source for a wide range of pollinators.
 
-The flowers are actively visited by honeybees (*Apis mellifera*), bumblebees (*Bombus* spp.), solitary bees, hoverflies, and butterflies. The prolonged flowering period from late spring through early autumn provides consistent forage over multiple months.
+The flowers are actively visited by honeybees (*Apis mellifera*), bumblebees (*Bombus* spp.), [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and butterflies. The prolonged flowering period from late spring through early autumn provides consistent forage over multiple months.
 
-The species is a component of wildflower seed mixtures used in agri-environment schemes across Europe. These mixtures aim to restore pollinator habitat in agricultural landscapes and are a key conservation strategy for reversing pollinator declines.
+The species is a component of wildflower seed mixtures used in agri-environment schemes across Europe. These mixtures aim to restore [[pollinator-habitat]] in agricultural landscapes and are a key conservation strategy for reversing pollinator declines.
 
 As a former arable weed, C. cyanus is an indicator species of low-intensity agricultural systems. Its decline in modern farmland reflects the impact of herbicides, seed cleaning, and increased crop density on arable plant diversity.
 
@@ -88,32 +88,3 @@ In vitro studies have demonstrated antioxidant, anti-inflammatory, and antimicro
 C. cyanus is easily cultivated from seed and is widely grown as an ornamental annual in gardens and commercial cut-flower production.
 
 Seeds should be sown directly in the garden in early spring, or started indoors 4–6 weeks before the last frost date. Germination occurs within 7–14 days at 15–20°C (59–68°F). Seeds require light for germination and should be surface-sown or barely covered.
-
-The plant thrives in full sun with well-drained soil. It is drought-tolerant once established and requires minimal fertilization. Excessive nitrogen promotes foliage growth at the expense of flowers.
-
-For cut flower production, successive sowings every 2–3 weeks ensure continuous bloom throughout the [[savory-growing-season-and-non-growing-season-management]]. Stems should be harvested when the outer florets are fully open. Vase life is typically 5–7 days.
-
-Several cultivars are available, extending the color range beyond the classic blue to include pink, white, red, and maroon varieties. The 'Black Ball' cultivar, with deep maroon flowers, is particularly popular in ornamental plantings.
-
-## History and Cultural Significance
-
-The cornflower has been intertwined with European agricultural and [[shroom-cultural-history-hippie-revolution-and-counterculture]] for centuries.
-
-In European folklore, cornflowers were worn by young men to indicate that they were in love. This practice gave rise to the common name "bachelor's button." The tradition of wearing cornflowers dates back to at least the medieval period.
-
-The distinctive blue pigment derived from cornflower petals was used as a watercolor paint and [[fungal-laccase-and-textile-dye-decolorization]] before synthetic alternatives became available. The color "cornflower blue" remains a standard color name in fashion, design, and heraldry.
-
-In France, the cornflower (*le bleuet*) is a symbol of remembrance for veterans of World War I, analogous to the poppy in the British Commonwealth. The *Bleuet de France* organization was founded in 1925 to support wounded veterans.
-
-The species' decline in farmland has made it a flagship species for farmland [[fungal-biodiversity-conservation-status]]. Its image appears on logos and educational materials for agri-environment programs throughout the European Union.
-
-## See Also
-
-- [[echinacea-purpurea]] — Purple coneflower, another medicinal Asteraceae
-- [[calendula-officinalis]] — Marigold, edible medicinal flower
-- [[matricaria-chamomilla]] — Chamomile, another traditional European medicinal herb
-- [[taraxacum-officinale]] — Dandelion, common Asteraceae with medicinal use
-- [[achillea-millefolium]] — Yarrow, widespread medicinal Asteraceae
-- [[centaurea-montana]] — Mountain cornflower, perennial relative
-- [[anthocyanins]] — Pigment class responsible for cornflower blue color
-- [[arnica-montana]] — Arnica, another European Asteraceae with traditional medicinal use

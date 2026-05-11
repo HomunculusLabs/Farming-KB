@@ -3,7 +3,8 @@ title: "comparison native bee pollinators vs honeybees Pollinators vs Honeybees"
 tags: [comparison, pollinators, bees, ecology, agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 created: 2026-05-07
 type: comparison
 ---

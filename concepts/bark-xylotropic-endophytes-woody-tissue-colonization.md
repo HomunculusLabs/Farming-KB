@@ -29,7 +29,7 @@ stress or senescence.
 
 Many species of fungi inconspicuously colonize living bark on
 twigs and small branches of both coniferous and broad-leaved
-trees. The resinous young bark of conifers such as Douglas fir
+trees. The resinous young bark of conifers such as [[douglas-fir]]
 and the smooth bark of deciduous trees such as Alnus are
 frequently colonized by nonlichenized members of the
 Arthopyreniaceae, including Arthopyrenia plumbaria, Mycoglaena
@@ -44,7 +44,7 @@ apparently follow this strategy of early endophytic occupation.
 Many wood-decaying fungi have also adopted this strategy.
 
 Insect-parasitic fungi such as Beauveria
-bassiana, Verticillium lecanii, and Paecilomyces farinosus have
+bassiana, [[verticillium-lecanii]], and Paecilomyces farinosus have
 been isolated from living bark and are not uncommon as endophytes
 of foliage. The endophytic occurrence of insect parasites suggests
 that bark may provide an interim substratum for saprobic growth.
@@ -70,7 +70,7 @@ monolignol glucosides.
 
 An endophytic mycobiota peculiar to each host colonizes healthy,
 attached branches of alder and conifers in Europe and beech and
-aspen in North America. The fungi colonize host tissue initially
+aspen in [[guzman-psilocybin-mushrooms-north-america]]. The fungi colonize host tissue initially
 as disjunct infections that remain quiescent in healthy wood.
 
 The high water content of functional sapwood prevents active
@@ -88,28 +88,3 @@ Some xylotropic endophytes function as facultative pathogens.
 Entoleuca species (Xylariaceae), normally endophytic in living
 branches, can become pathogenic when host trees are stressed.
 The boundary between endophytic colonization and pathogenic
-invasion is often unclear and context-dependent.
-
-## Root Endophytes and Dark Septate Endophytes
-
-Roots of forest trees are colonized by a variety of nonmycorrhizal
-microfungi. Phialocephala fortinii, P. dimorphospora, P. finlandia,
-Oidiodendron species, and Geomyces species are common components
-of a guild forming root associations with alpine ericoid and other
-perennial hosts. Mycelium radicis atrovirens, generally regarded as
-a heterogeneous taxon, is the name commonly applied to sterile
-dematiaceous isolates from roots.
-
-Dark septate endophytes dominated the mycobiota isolated from fine
-roots of several species of forest trees and shrubs in Europe and
-western Canada. A large proportion proved to be [[nonsystemic-endophytic-fungi-nongrass-hosts]]
-- [[fungal-endophytes-grass-crop-systems]]
-- mycorrhizal-pathogen-resistance
-
-## Merged: Endophytic Fungal Galls and Plant Deformities
-
-[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] that colonize living plant tissue without causing immediate, overt negative effects occupy a fascinating position between mutualism and parasitism. When these cryptic colonizers do eventually express pathogenic behavior, they often produce distinctive symptoms including galls, cankers, and witches brooms. Understanding the spectrum from asymptomatic endophytism to visible deformity is essential for plant pathology and [[gadd-fungal-ecology-endophytes]].
-
-## Definition and Circumscription
-## See Also
-- [[fungal-ecology]]

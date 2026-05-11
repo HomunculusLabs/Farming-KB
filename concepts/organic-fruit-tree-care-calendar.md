@@ -6,16 +6,17 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Organic Fruit Tree Care Calendar
 
-Month-by-month guide to organic fruit tree care in temperate climates. Covers apples, pears, plums, cherries, peaches, and soft fruit (raspberries, blackberries, currants, gooseberries).
+Month-by-month guide to organic fruit tree care [[query-how-to-grow-and-use-oca-in-temperate-climates]]. Covers apples, pears, plums, cherries, peaches, and soft fruit (raspberries, blackberries, currants, gooseberries).
 
 ## January
 
 ### Dormant Season
 - **Pruning**: Winter pruning of apples, pears, currants, gooseberries. Remove dead, diseased, crossing branches. Open center for light and air
-- **Planting**: Plant bare-root fruit trees, bushes, and canes (while dormant)
+- **Planting**: Plant bare-root [[comparison-grafting-vs-budding-fruit-trees]], bushes, and canes (while dormant)
 - **Spraying**: Winter wash (plant oil-based) to control overwintering pests and eggs on bark
 - **Mulching**: Apply compost or well-rotted manure around trees (keep away from trunk)
 
@@ -32,7 +33,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 - **Pruning**: Finish winter pruning before buds swell. Prune blackcurrants (remove old wood)
 - **Feeding**: Apply general [[complete-organic-fertilizer-cof-recipe-solomon]] around trees
 - **Mulching**: Top up mulch to retain spring moisture
-- **Pest control**: Hang pheromone traps for codling moth. Install grease bands
+- **[[hamilton-beneficial-insects-and-biological-pest-control]]**: Hang pheromone traps for [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]]. Install grease bands
 - **Soft fruit**: Cut out old canes of summer-fruiting raspberries (leave 6-8 strongest per plant)
 
 ## April
@@ -42,7 +43,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 - **[[holzer-frost-protection-techniques]]**: Cover blossoms with fleece on frost nights (critical for stone fruits)
 - **Pest control**: Start monitoring for aphids. Encourage ladybugs
 - **Weeding**: Keep area around trees clear of grass (grass competes for nutrients)
-- **Feeding**: Apply high-potash organic feed to fruit bushes (encourages fruiting)
+- **Feeding**: Apply high-potash organic feed to [[holzer-soft-fruit-bushes-and-berries]] (encourages fruiting)
 
 ## May
 
@@ -57,7 +58,7 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 ### Growing Season
 - **Summer pruning**: Begin summer pruning of trained fruit (espalier, cordon, fan). Cut back new side shoots to 3 leaves
 - **Thinning**: Final thinning of apples, peaches, plums
-- **Watering**: Water fruit trees in dry spells (critical when fruit is swelling)
+- **Watering**: Water [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] dry spells (critical when fruit is swelling)
 - **Soft fruit**: Pick summer-fruiting raspberries, strawberries, gooseberries
 - **Feeding**: Liquid feed fruit in containers weekly (seaweed or [[comparison-comfrey-tea-vs-compost-tea]])
 - **Pest control**: Monitor for codling moth, apply nematode sprays if needed
@@ -86,37 +87,3 @@ Month-by-month guide to organic fruit tree care in temperate climates. Covers ap
 - **Storage**: Pick unblemished apples/pears for storage. Wrap individually in newspaper, store cool and dark
 - **Planting**: Prepare ground for autumn planting
 - **Pruning**: Prune blackcurrants (remove old dark wood, keep young light wood)
-
-## October-November
-
-### Dormancy Approaches
-- **Harvest**: Late apples, medlars, quinces
-- **Pruning**: Winter pruning begins for apples and pears
-- **Planting**: Bare-root planting season
-- **Cleanup**: Remove fallen leaves and mummified fruit (disease reservoir)
-- **Hygiene**: Grease bands around trunks for winter moth
-- **Mulching**: Apply thick mulch of compost/manure after cleanup
-
-## December
-
-- **Pruning**: Continue winter pruning
-- **Planning**: Review [[holzer-stone-fruit-varieties-and-growing]], plan new plantings
-- **Tool maintenance**: Clean, sharpen, oil pruning tools
-- **Spraying**: Winter wash if pest problems were significant
-
-## Common Organic Pest Problems
-
-| Problem | Identification | Organic Solution |
-|---|---|---|
-| Codling moth | Maggots in apples | Pheromone traps, nematode spray, encourage parasitic wasps |
-| Apple scab | Dark spots on leaves/fruit | Resistant varieties, copper spray at green tip, rake fallen leaves |
-| Brown rot | Brown, shriveled fruit | Remove infected fruit immediately, good [[stamets-growing-room-air-circulation-co2-management]] |
-| Aphids | Curled leaves, sticky honeydew | Encourage ladybugs, insecticidal soap, neem oil |
-| Canker | Sunken bark lesions | Cut out with clean tools, paint wound, resistant varieties |
-| Sawfly | Defoliated gooseberries | Hand-pick larvae, encourage ground beetles |
-
-## Related
-- [[orchard-management]] — for conventional orchard comparison
-- [[permaculture-chicken-tractors]] — for chickens under fruit trees
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[fukuoka-pruning-fruit-tree-natural-management]]

@@ -87,23 +87,3 @@ In its native tropical habitats, *Nephrolepis exaltata* contributes to **epiphyt
 The species serves as a **reservoir for moisture** [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] canopies. Its water-retentive frond mats trap rainfall and dew, creating damp microenvironments that support other epiphytic organisms including mosses, liverworts, and algae.
 
 In Florida's native ecosystems, Boston fern provides **cover and foraging habitat** for small birds, tree frogs, and anoles. The dense root masses in tree crotches collect organic debris, contributing to canopy soil development.
-
-## Air-Purifying Properties
-
-The NASA **Clean Air Study** (1989) identified *Nephrolepis exaltata* as one of the most effective indoor plants for removing **[[fungal-volatile-organic-compounds-communication]] compounds** from indoor air. The species demonstrated particular efficacy against **formaldehyde**, removing an estimated 1,863 micrograms per hour in chamber tests.
-
-Subsequent research has confirmed its ability to reduce **xylene and toluene** concentrations in indoor environments. The large frond surface area and high transpiration rate contribute to its effectiveness as a passive air filtration system.
-
-Boston fern is frequently recommended for **bathrooms, kitchens, and offices** where indoor air pollutants tend to accumulate. Its preference for humid environments aligns well with bathroom conditions, making it one of the few ferns that thrives in these spaces.
-
-Studies conducted by the University of Technology Sydney and other institutions have confirmed that indoor plants including Boston fern can reduce **stress and improve productivity** in office environments. The psychological benefits complement the physiological air-purifying effects, supporting the growing trend of incorporating plants into workplace design.
-
-The species has been used in **phytoremediation research** for its capacity to absorb atmospheric pollutants including particulate matter and heavy metals deposited on frond surfaces. This research has potential applications in urban greening strategies for improving air quality in polluted cities.
-
-## See Also
-
-- [[pteris-vittata]]
-- [[athyrium-filix-femina]]
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]
-- [[lycopodium-clavatum]]

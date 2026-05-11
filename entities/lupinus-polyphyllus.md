@@ -10,8 +10,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barneby, R.C. (1989). "Lupinus of the United States." Memoirs of the New York Botanical Garden.
-  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the Pacific Northwest." University of Washington Press.
+  - Barneby, R.C. (1989). "Lupinus of the dmt-containing-plants-united-states-halpern." Memoirs of the New York Botanical Garden.
+  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the [[psilocybin-north-america-pacific-northwest]]." University of Washington Press.
   - Klinkenberg, B. (2020). "Lupinus polyphyllus." E-Flora BC, University of British Columbia.
   - Aniszewski, T. (2001). "Alkaloids — Secrets of Life." Elsevier Academic Press.
   - US Forest Service. "Lupinus polyphyllus." Fire Effects Information System (FEIS).
@@ -19,13 +19,13 @@ sources:
 
 ## Overview
 
-**Lupinus polyphyllus**, commonly known as the bigleaf lupine or garden lupine, is a perennial herbaceous legume in the family Fabaceae. Native to western North America from Alaska to California, it has become widely naturalized in Europe, New Zealand, and parts of eastern North America.
+**Lupinus polyphyllus**, commonly known as the bigleaf lupine or garden lupine, is a perennial herbaceous legume in the family Fabaceae. Native to western [[guzman-psilocybin-mushrooms-north-america]] from Alaska to California, it has become widely naturalized in Europe, New Zealand, and parts of [[polypore-fungi-eastern-north-america]].
 
 The species is renowned for its striking tall flower spikes bearing dense whorls of blue, purple, pink, or white pea-like flowers. It is one of the most commercially important ornamental lupines and serves as a parent in many hybrid cultivars.
 
 Bigleaf lupine plays a significant ecological role as a nitrogen-fixing plant and as a nectar source for pollinators. However, its aggressive spread outside its native range has made it a problematic invasive species in several regions.
 
-The genetic diversity within the species is considerable, with several infraspecific taxa recognized. Populations from coastal California tend to be more compact and earlier-flowering than those from inland mountain habitats.
+The [[biodiversity-fungal-genetic-diversity]] within the species is considerable, with several infraspecific taxa recognized. Populations from coastal California tend to be more compact and earlier-flowering than those from inland mountain habitats.
 
 ## Taxonomy and Morphology
 
@@ -41,7 +41,7 @@ Flower color varies naturally from blue and violet to pink and white. The standa
 
 The fruit is a legume pod 2–3 cm long, densely pubescent, containing 4–10 mottled gray-brown seeds. Seeds are roughly kidney-shaped, 4–6 mm in diameter, and remain viable in the soil seed bank for several years.
 
-The root system includes a prominent taproot that can extend over 1 meter deep, along with lateral roots bearing rhizobial nodules for nitrogen fixation.
+The root system includes a prominent taproot that can extend over 1 meter deep, along with lateral roots bearing rhizobial nodules for [[biological-nitrogen-fixation-agriculture]].
 
 ## Distribution and Habitat
 
@@ -53,11 +53,11 @@ Coastal populations in the Pacific Northwest are particularly abundant, forming 
 
 Outside its native range, bigleaf lupine has naturalized extensively across much of Europe. It was first introduced to European gardens in the 1820s and had escaped cultivation in Scandinavia by the late 19th century.
 
-In New Zealand, the species was planted for erosion control and roadside beautification before becoming invasive. It now occupies thousands of hectares of pasture and conservation land, requiring active management.
+In New Zealand, the species was planted [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] and roadside beautification before becoming invasive. It now occupies thousands of hectares of pasture and conservation land, requiring active management.
 
-Eastern North American populations have established in parts of the Great Lakes region and New England, though spread has been less aggressive than in Europe.
+Eastern [[growing-gourmet-north-american-reishi-species]] populations have established in parts of the Great Lakes region and New England, though spread has been less aggressive than in Europe.
 
-The species is occasionally planted in eastern gardens but does not naturalize as readily in the hotter, more humid climate of the southeastern United States.
+The species is occasionally planted in eastern gardens but does not naturalize as readily in the hotter, more [[mollison-designers-cool-humid-climate-design-overview]] of the southeastern United States.
 
 ## Ecology and Invasiveness
 
@@ -73,7 +73,7 @@ The seeds are dispersed by explosive dehiscence of the mature pod, throwing seed
 
 In its introduced range, bigleaf lupine is considered an aggressive invader. Dense monocultures can displace native vegetation, alter soil chemistry, and reduce plant species diversity by up to 50% compared to uninvaded controls.
 
-In Finland and Sweden, the species has spread dramatically along roadsides into meadow habitats. It is listed as a problematic invasive species in Norway, Iceland, and several central European countries.
+In Finland and Sweden, the species has spread dramatically along roadsides into meadow habitats. It is listed as a problematic invasive species in Norway, Iceland, and several [[psilocybe-bohemica-central-european]] countries.
 
 ## Cultivation
 
@@ -83,39 +83,8 @@ Russell hybrids exhibit a broader color range than the wild type, including bico
 
 Propagation is primarily by seed, which benefits from scarification or a 24-hour soak in warm water to break physical dormancy. Seeds germinate in 14–30 days at 15–20°C. Cold stratification at 4°C for 2–4 weeks can improve germination rates.
 
-The species also spreads vegetatively through short rhizomes, allowing established clumps to expand gradually. Division of mature crowns in early spring is an effective vegetative propagation method.
+The species also spreads vegetatively through short rhizomes, allowing established clumps to expand gradually. Division of mature crowns in early spring is an effective [[hamilton-vegetative-propagation]] method.
 
 Garden cultivation requires well-drained, slightly acidic soil in full sun or light shade. Plants are hardy to USDA zones 3–8 and tolerate cold winters reliably.
 
-Over-fertilization with phosphorus should be avoided, as legumes fix their own nitrogen. Excessive phosphorus can inhibit rhizobial activity and reduce nodulation.
-
-Deadheading spent flower spikes encourages reblooming and prevents unwanted self-seeding. Plants typically live 3–7 years in cultivation, with performance declining as crowns become woody and congested.
-
-## Uses
-
-The most significant use of **Lupinus polyphyllus** is ornamental, with numerous cultivars available in the commercial horticultural trade. The Russell hybrids remain the standard group, bred for compact stature, diverse flower colors, and strong cut-flower stems.
-
-Beyond ornamental use, the species has been investigated for phytoremediation potential. Its deep taproot system and nitrogen-fixing capability make it a candidate for stabilizing mine tailings and improving soil fertility on degraded landscapes.
-
-Research from Scandinavia has demonstrated that lupine stands can accelerate primary succession on barren or contaminated soils. The species tolerates moderately elevated levels of heavy metals including copper and zinc.
-
-Limited traditional use has been recorded among some Pacific Northwest Indigenous peoples, who used the roots and seeds medicinally. However, the seeds contain quinolizidine alkaloids including lupanine and sparteine, which are toxic if consumed without proper processing.
-
-The flowers produce a modest amount of nectar and have been noted as a minor honey source in areas where the species grows abundantly. The honey is typically light-colored with a mild flavor.
-
-The foliage serves as browse for deer and elk in its native range. However, toxicity concerns limit its value as forage for livestock, as alkaloid concentrations in leaves and seeds can cause lupinosis in sheep and cattle.
-
-In some regions, the species has been planted for slope stabilization and erosion control along highways and riparian corridors, though this practice is now discouraged in areas where it is invasive.
-
-The alkaloids present in bigleaf lupine have attracted pharmacological interest. Sparteine, one of the major quinolizidine alkaloids in the seeds, was historically used as an antiarrhythmic agent and oxytocic drug in obstetrics.
-
-## See Also
-
-- [[lupinus-perennis]]
-- [[lupinus-albus]]
-- [[robinia-pseudoacacia]]
-- [[trifolium-pratense]]
-- [[baptisia-australis]]
-- [[wisteria-sinensis]]
-- [[glycyrrhiza-glabra]]
-- [[desmodium-canadense]]
+Over-fertilization with phosphorus should be avoided, as [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] their own nitrogen. Excessive phosphorus can inhibit rhizobial activity and reduce nodulation.

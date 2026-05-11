@@ -5,7 +5,7 @@ sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer
 year: 1894
 tags: mycology, poisonous-mushrooms, amanita, amanitine, fungal-toxins, death-cap]
-related: [palmer-mushroom-hunting-field-identification, [[palmer-edible-mushrooms-north-america]]]
+related: [palmer-mushroom-hunting-field-identification, [[palmer-edible-mushrooms-north-america]]
 type: concept
 updated: 2026-04-26
 ---

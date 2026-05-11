@@ -87,14 +87,3 @@ Recommended companion plants in a pagoda tree guild:
 - **[[fungal-salt-tolerance-and-ion-homeostasis]]:** Moderate — suitable for coastal and roadside plantings
 
 ## Yield and Harvest Calendar
-
-| Product | Harvest Period | Notes |
-|---------|---------------|-------|
-| Flower buds (Huai Mi) | June–July | Harvest before opening; dry immediately |
-| Flowers | July–August | Harvest at peak bloom; dry or use fresh |
-| Pods | October–November | Harvest when yellow-brown; dry for medicine |
-## See Also
-
-- [[nitrogen-fixing-trees-and-shrubs]]
-
-- [[dynamic-accumulators]]

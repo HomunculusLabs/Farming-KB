@@ -1,5 +1,5 @@
 ---
-title: "Water Courses in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]"
+title: Williams Pdc Water Courses
 created: 2026-04-28
 tags: [permaculture, water-courses, streams, ponds, erosion, meandering, gabions, micro-hydro, edge-effect]
 date: 2026-04-25

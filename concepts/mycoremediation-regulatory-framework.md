@@ -9,7 +9,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 # Mycoremediation Regulatory Framework
 
-The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects. (see [[bioaugmentation-strategies]]).
+The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying [[savory-living-organisms-as-tools]] in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
 
 ## Current Status
 
@@ -45,7 +45,7 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 - Small pilot projects may be exempt from full permitting
 
 ### Monitoring Requirements
-- Regular monitoring of: contaminant concentrations, fungal biomass, ecological effects, groundwater quality
+- Regular monitoring of: contaminant concentrations, fungal biomass, [[fungal-allelopathy-mechanisms-and-ecological-effects]], groundwater quality
 - Monitoring duration: typically 5-10 years after remediation completion
 - Reporting requirements to regulatory agencies
 
@@ -68,13 +68,13 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 ## Standards and Verification
 
 ### How Success Is Measured
-- Total petroleum hydrocarbon (TPH) reduction targets
+- Total [[petroleum-hydrocarbon-bioremediation]] (TPH) reduction targets
 - EPA Regional Screening Levels (RSLs) for soil and groundwater
 - State-specific cleanup standards
 - Ecological risk assessment (not just chemical concentration)
 
 ### Verification
-- Third-party laboratory analysis of soil/water samples
+- Third-party [[solomon-soil-testing-laboratory-analysis-low-input-gardening]] of soil/water samples
 - Statistical comparison of pre- and post-remediation data
 - Ecological assessment (soil organism health, plant bioassays)
 
@@ -90,12 +90,36 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 | Liability transfer | Yes (waste goes to landfill) | Stays on site |
 
 ## Future Directions
-- ASTM and ISO developing standards for biological remediation
+- ASTM and ISO developing standards for [[combined-biological-remediation-approaches]]
 - EPA exploring mycoremediation as a "green remediation" technology
 - Insurance industry developing products for biological remediation projects
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
-- [[mycoremediation-overview]] — for the science
+- [[cotter-mycoremediation-overview]] — for the science
 - [[mycoremediation-field-applications]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

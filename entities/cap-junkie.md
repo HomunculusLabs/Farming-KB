@@ -16,7 +16,7 @@ tags:
   - modern-cultivar
   - us-genetics
 aliases:
-  - Cap Junky
+  - [[cap-junky]]
   - CapJunkie
 sources:
   - Leafly strain database. https://www.leafly.com/strains/cap-junkie
@@ -29,10 +29,10 @@ sources:
 ## Overview
 
 Cap Junkie is a highly potent hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by crossing
-Capulator's MAC (Miracle Alien Cookies) with Seed Junky Genetics' Kush
+Capulator's MAC ([[miracle-alien-cookies]]) with Seed Junky Genetics' Kush
 Mints #11. Released in the early 2020s, it rapidly gained notoriety for
-its exceptionally high THC content, frequently testing above 30%, and its
-complex terpene profile that blends gassy, fruity, and minty aromatics.
+its exceptionally high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], frequently testing above 30%, and its
+complex [[cannabis-terpene-profile]] that blends gassy, fruity, and minty aromatics.
 
 The strain has become a flagship modern cultivar, representing the
 contemporary breeding trend of stacking elite_cookie_ and _OG_lineages
@@ -48,9 +48,9 @@ Cookies), contributes its signature Alien Cookies funk, resin
 production, and uplifting cerebral effects. MAC itself descends from
 Alien Cookies × (Colombian × Starfighter).
 
-The paternal side, Kush Mints #11, adds a heavy OG backbone, deep mint
+The paternal side, [[kush-mints]] #11, adds a heavy OG backbone, deep mint
 and gas aromatics, and potent sedative body effects. Kush Mints #11 is
-a select phenotype of the Kush Mints line (Bubba Kush × Animal Mints)
+a select phenotype of the Kush Mints line ([[bubba-kush]] × Animal Mints)
 bred by Seed Junky Genetics.
 
 The combination produces a strain that bridges the gap between the
@@ -88,45 +88,3 @@ content.
 
 The dominant terpenes are limonene, caryophyllene, and linalool, with
 notable secondary contributions from myrcene, humulene, and bisabolol.
-The terpene profile is responsible for the strain's distinctive gas-
-fruit-mint aromatic signature.
-
-THC content is exceptionally high, typically ranging from 28–34% in
-licensed market testing. CBD is negligible, generally below 0.1%. Total
-cannabinoid content often exceeds 35% when including THCA, CBGA, and
-minor cannabinoids.
-
-## Effects
-
-Onset is rapid, typically within 1–3 minutes of inhalation. Initial
-effects are cerebral and euphoric, characterized by elevated mood,
-creative stimulation, and a hazy, spacelike head high. This transitions
-progressively into a heavy, full-body relaxation.
-
-The body effects deepen over 30–60 minutes, producing couch-lock
-sedation in higher doses. Pain relief, muscle relaxation, and appetite
-stimulation are pronounced. The comedown is smooth and sleep-promoting.
-
-Common applications include stress relief, [[cannabis-chronic-pain-management]] management,
-insomnia, and appetite stimulation. Novice consumers should approach
-with caution due to the extreme potency.
-
-## Cultivation
-
-Cap Junkie is considered moderately difficult to cultivate, requiring
-experienced grower attention to optimize its potential. It performs well
-in both indoor and outdoor environments but excels under controlled
-indoor conditions with optimized light and [[cannabis-nutrient-regimens-comparison]].
-
-Flowering time is 8–10 weeks indoors. Yields are above average at
-400–500 g/m² under optimal conditions. The plants develop significant
-branching and respond well to low-stress training and trellising.
-[[cannabis-disease-pest-resistance-breeding-clarke]] is moderate, with standard preventive measures recommended.
-
-## See Also
-
-- [[kush-mints]]
-- [[og-kush-cannabis-entity]]
-- [[runtz-entity]]
-- animal cookies
-- [[wedding-cake]]

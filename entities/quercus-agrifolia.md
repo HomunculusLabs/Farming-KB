@@ -88,30 +88,3 @@ Additional threats include **goldspotted oak borer** (*Agrilus auroguttatus*), a
 ### Timber and Products
 
 Coast live oak wood is heavy, hard, and durable (density 0.70–0.85 g/cm³), with a light brown to reddish-brown heartwood. Historically it was used for wagon wheels, agricultural implements, ship timbers, and fuelwood. The species is rarely harvested commercially today, but individual trees are valued for specialty woodworking and artisanal products.
-
-### Indigenous Uses
-
-Acorns of coast live oak were a primary food staple for many Indigenous peoples of California, including the Chumash, Tongva, Ohlone, and Coast Miwok. Processing involved shelling, grinding, and repeated leaching of tannins in sand or water basins before cooking. The processed acorn meal (wiiwish or shepish) was consumed as a mush, bread, or soup.
-
-The wood was used for bowls, mortars, paddles, and construction materials. Tannins from the bark had medicinal and ceremonial applications.
-
-### Ornamental and Landscape Use
-
-Coast live oak is highly valued as a landscape tree in California, prized for its evergreen canopy, sculptural form, and wildlife habitat value. It is the most commonly planted native oak in California residential and commercial landscapes.
-
-Proper establishment requires attention to irrigation — young trees benefit from supplemental water during establishment but mature trees are adapted to summer drought and can be damaged by frequent shallow irrigation. Root zone protection during construction is critical for tree survival.
-
-## See Also
-
-- [[quercus-phellos]]
-
-- [[quercus-ilex]]
-- [[quercus-garryana]]
-- [[quercus-suber]]
-- [[quercus-robur]]
-- [[quercus-rubra]]
-- [[quercus-alba]]
-- [[quercus-macrocarpa]]
-- [[arbutus-unedo]]
-- [[pseudotsuga-menziesii]]
-- [[sequoia-sempervirens]]

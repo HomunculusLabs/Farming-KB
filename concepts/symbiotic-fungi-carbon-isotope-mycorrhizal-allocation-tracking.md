@@ -1,5 +1,5 @@
 ---
-title: Stable Carbon carbon-isotope-labelling-mycorrhizal-fatty-acids for mycoheterotrophic-plants-mycorrhizal-carbon-theft Tracking
+title: Symbiotic Fungi Carbon Isotope Mycorrhizal Allocation Tracking
 created: 2026-04-28
 tags: [isotope-labelling, mycorrhiza, carbon-allocation, AMF, fatty-acids]
 date: 2026-04-25
@@ -13,8 +13,8 @@ type: concept
 
 Stable carbon isotope (13C) labelling is a powerful technique for tracing
 carbon flow from plants through [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungal
-networks into soil microbial communities. By tracking the movement of
-13C-labelled assimilates, researchers can quantify carbon allocation to
+networks into soil [[cannabis-rhizosphere-microbial-communities]]. By tracking the movement of
+13C-labelled assimilates, researchers can quantify [[mycorrhizal-carbon-allocation]] to
 different fungal compartments, measure [[singh-mycorrhizal-network-carbon-transfer-plants]] between
 mycorrhizal partners, and assess the contribution of mycorrhizal
 networks to soil carbon dynamics.
@@ -36,7 +36,7 @@ small amounts of labelled carbon reach fungal tissues.
 ## Carbon Pools in Mycorrhizal Systems
 
 Carbon in mycorrhizal systems is distributed among several distinct
-pools: plant shoots, plant roots, intraradical fungal mycelium (within
+pools: plant shoots, plant roots, intraradical [[fungal-mycelium-hyphae-and-the-feeding-phase]] (within
 roots), extraradical fungal mycelium (in soil), fungal spores, and
 rhizosphere microorganisms. Each pool can be estimated using 13C
 labelling combined with signature fatty acid analysis.
@@ -54,7 +54,7 @@ lipids in vesicles inside plant roots and in spores on the external
 mycelium. These storage lipids may persist for long periods, providing
 a record of carbon allocation. Neutral lipid fatty acid (NLFA) 16:1o5
 is a particularly sensitive signature of AM fungi in both roots and
-soil. Since total 13C incorporation in AM fungal hyphae correlates
+soil. Since total 13C incorporation in AM [[fungal-hyphae]] correlates
 with enrichment in NLFA 16:1o5, analysis of this compound provides a
 reliable estimate of carbon uptake by AM fungi.
 
@@ -88,61 +88,3 @@ appropriate, as assimilation may be very low during the first hour.
 Field labelling involves enclosing a shoot or patch of vegetation in a
 plastic chamber and injecting 13CO2. The chamber is first flushed of
 non-labelled CO2 by allowing plants to deplete it. A delta 13C value
-of approximately 1,000 (around 2 percent 13C, meaning 1 percent
-enrichment) provides a good chance of tracing carbon to AM fungi and
-[[lowenfels-rhizosphere-bacteria-plant-interaction]]. Weather conditions are critical: excessive heat
-in the chamber can damage plants, and low light intensity reduces
-assimilation.
-
-## Timing of Measurements
-
-Timing is extremely important in all labelling experiments because
-carbon is continually respired. In field-labelled AM fungal mycelium,
-labelled respiration ceased within seven days after pulse-labelling,
-indicating that only labelled stored material remained. Similar
-enrichment levels in extraradical and intraradical mycelia after seven
-days indicate sufficient time for carbon translocation between fungal
-compartments. Recently assimilated carbon in Plantago lanceolata
-appeared in extraradical AM hyphae within days and remained there for
-at least 30 days.
-
-Higher 13C enrichment in intraradical fungal lipids compared to plant
-root lipids demonstrates that lipid metabolism is more active in the
-intraradical mycelium than in the plant itself.
-
-## Sample Processing and Analysis
-
-### Homogenization
-Mycelial samples are milled with stainless steel balls in Teflon
-tubes. Roots are ball-milled using stainless steel beakers. Care is
-needed to avoid excessive heating that could damage lipids. Soil
-samples containing mature spores may require ball-milling for complete
-lipid extraction.
-
-### Lipid Extraction and Fractionation
-Lipids are extracted using a one-phase mixture of citrate buffer,
-methanol, and chloroform (0.8:2:1 by volume, pH 4.0). Lipid classes
-are separated on pre-packed silica columns into neutral lipids,
-glycolipids, and phospholipids by sequential elution with chloroform,
-acetone, and methanol respectively.
-
-### Gas Chromatography
-Fatty acid residues are converted to methyl esters and analyzed by gas
-chromatography using capillary columns with hydrogen as carrier gas.
-Fatty acids are identified by retention times relative to internal
-standards and confirmed by gas chromatography-mass spectrometry.
-
-### Isotope Ratio Measurement
-13C enrichment in crude tissue samples is determined by isotope ratio
-mass spectrometry (IRMS), interfaced to a solid/liquid preparation
-## Related
-
-- mycorrhizal-allelochemicals
-
-- [[symbiotic-fungi-endophytic-fungi-in-plants]] for in vitro systems
-
-## See Also
-
-- [[symbiotic-fungi-mycorrhizal-carbon-trading]]
-- [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
-- [[plantago-lanceolata]]

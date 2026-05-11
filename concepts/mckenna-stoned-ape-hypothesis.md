@@ -23,7 +23,7 @@ The core of McKenna's argument is that different doses of psilocybin would have 
 
 **Medium doses (sexual and social effects):** At medium doses, psilocybin can produce euphoria, increased tactile sensitivity, and a sense of emotional openness and bonding. McKenna suggested that these effects would have enhanced pair-bonding, group cohesion, and sexual activity — all of which would have contributed to reproductive success and group stability.
 
-**High doses (cognitive breakthrough):** At high doses, psilocybin produces profound alterations of consciousness, including visual hallucinations, synesthesia, [[psilocybin-ego-dissolution-mechanisms]], and experiences of what McKenna called "transcendental other" — encounters with apparently intelligent entities or realities beyond ordinary perception. McKenna argued that these experiences catalyzed the development of symbolic thought, [[amanita-muscaria-entity]]* and the Vedic Soma McKenna drew on extensively, had already established the [[ethnomycology-cultural-significance-sacred-fungi]] of psychoactive mushrooms in human history. The psychologist Julian Jaynes, in *The Origin of Consciousness in the Breakdown of the Bicameral Mind* (1976), had proposed that modern consciousness emerged relatively recently in human history through a radical cognitive reorganization, though he attributed this to language development rather than psychoactive substances.
+**High doses (cognitive breakthrough):** At high doses, psilocybin produces profound alterations of consciousness, including visual hallucinations, synesthesia, [[psilocybin-ego-dissolution-mechanisms]], and experiences of what McKenna called "transcendental other" — encounters with apparently intelligent entities or realities beyond ordinary perception. McKenna argued that these experiences catalyzed the development of symbolic thought, [[amanita-muscaria]]* and the Vedic Soma McKenna drew on extensively, had already established the [[ethnomycology-cultural-significance-sacred-fungi]] of psychoactive mushrooms in human history. The psychologist Julian Jaynes, in *The Origin of Consciousness in the Breakdown of the Bicameral Mind* (1976), had proposed that modern consciousness emerged relatively recently in human history through a radical cognitive reorganization, though he attributed this to language development rather than psychoactive substances.
 
 More recently, the concept of "chemical ecology" — the study of how chemical compounds mediate interactions between organisms — has provided a framework for understanding how psychoactive plants might have influenced human evolution without requiring the direct selectionist argument that McKenna proposed. If human-plant coevolution shaped human neurochemistry, the effects of psychoactive plants on human cognition might be understood as an emergent property of this coevolutionary relationship rather than as a direct cause of cognitive evolution.
 
@@ -87,27 +87,3 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

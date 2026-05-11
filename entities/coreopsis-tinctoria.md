@@ -87,10 +87,3 @@ The Meskwaki (Fox) people of the Great Lakes region used C. tinctoria as a sourc
 Other Native American tribes used the plant medicinally. The Navajo prepared an infusion of the plant for internal pain, while the Zuni used it as a topical treatment for skin conditions.
 
 The dried flowers retain color well and have been used in potpourri and dried arrangements. Modern natural dyers continue to use coreopsis flowers to produce shades of gold, orange, and rust.
-
-## See Also
-
-- [[echinacea-purpurea]]
-- tagetes-erecta-entity
-- [[carthamus-tinctorius]]
-- [[achillea-millefolium]]

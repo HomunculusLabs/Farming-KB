@@ -87,15 +87,3 @@ The EMCDDA specifically notes that there is no evidence of chronic
 toxicity from psilocybin, no irreversible organ damage has been
 reported, and insufficient data exist on mutagenicity and
 teratogenicity to draw conclusions.
-
-## Route of Administration and Physiological Onset
-
-The route of administration affects both onset and physiological
-profile. Users typically ingest mushrooms raw, dried, or brewed into tea.
-The onset of effects is between 10 to 60 minutes depending on ingestion
-modality, physical condition, food intake, and user experience. Brewing
-into tea may accelerate onset but can also increase nausea. The EMCDDA
-notes unverified reports of dried mushrooms being smoked (said to induce
-faster but milder effects) and rare reports of intravenous injection of
-mushroom extracts, which results in more severe acute physiological
-effects — a practice carrying significant additional medical risk.

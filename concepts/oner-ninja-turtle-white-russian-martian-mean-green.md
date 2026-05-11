@@ -26,7 +26,7 @@ favorites.
 The source author declares that all other strains might as well
 stop trying, because Ninja Turtle is the strain for them. A
 private breeder from the USA named Turtle Man created a cross
-that references the Teenage Mutant Ninja Tu [[psilocybin-and-the-logos]] and the author
+that references the Teenage Mutant Ninja Tu [[psilocybin-logos-consciousness]] and the author
 states that only if a certain type of bud came with free brownies
 and a bottle of rum would they be more desperate to buy it.
 
@@ -87,62 +87,3 @@ strain versatile for different cultivation approaches and grow
 room configurations.
 
 ## Clone-Friendly Genetics
-
-This strain is excellent for taking clones from, and the clones
-will root and grow with great vigor. The clone-friendly nature
-of Ninja Turtle is a significant advantage for growers who
-prefer to work with cuttings rather than seeds, as it allows
-them to maintain exact genetic copies of their preferred
-phenotypes over multiple growing cycles.
-
-The vigorous rooting and growth of clones means that growers can
-establish new plants quickly and efficiently. This is particularly
-valuable for commercial operations or medical growers who need
-reliable, predictable results from their crops. Maintaining a
-mother plant and taking clones as needed ensures a consistent
-supply of uniform genetics.
-
-## Phenotype Variation
-
-Although Ninja Turtle crops will be quite uniform, some
-differences in personality may appear between phenotypes. The
-source humorously describes these using Teenage Mutant Ninja
-Turtles characters: the "Raphael" phenotype will be somewhat
-more aggressive and testy, while the "Michelangelo" pheno will
-be more laid back and prone to bad jokes.
-
-While these descriptions are tongue-in-cheek, they point to
-genuine phenotypic variation that growers may observe. Different
-plants may express slightly different growth patterns, flowering
-times, or effect profiles, even within a stabilized line. All
-phenotypes are described as dependable and resilient.
-
-## Flowering and Bud Characteristics
-
-After a fairly lengthy flowering period, Ninja Turtle delivers
-an above-average yield of beautiful, foxtailing green and orange
-buds that grow in the shape of a diamond. The foxtailing bud
-structure — where individual calyxes extend outward from the
-main bud, creating a textured, multi-pointed appearance — is
-visually striking and contributes to the strain's unique appeal.
-
-The green and orange coloration of the buds is consistent and
-attractive, with orange pistils creating vibrant contrast
-against green calyxes. The diamond shape of the bud clusters
-adds another layer of visual interest, making Ninja Turtle one
-of the more photogenic strains in any garden.
-
-## Effects Profile
-
-Be prepared for a high that is energetic at first but slides
-into a narcotic body stone relatively quickly. The initial
-energetic onset provides cerebral stimulation and creative
-energy characteristic of the sativa-dominant genetics, but this
-energetic phase transitions quickly into a powerful narcotic
-body stone that can be deeply relaxing and sleep-inducing.
-
-This energetic-to-narcotic transition makes Ninja Turtle a
-versatile strain for different occasions. The initial energy
-helps with social interaction or creative pursuits, while the
-subsequent body stone suits evening relaxation or managing
-physical discomfort. A little goes a long way for several hours.

@@ -88,39 +88,3 @@ of the associated fungal communities. The
 [[fungal-biodiversity-conservation-status]] of ericoid
 mycorrhizal fungi remains poorly understood, as many species have never been
 formally
-described.
-## Ericoid Mycorrhiza and Organic Nitrogen Dominance
-In heathland ecosystems, the majority of soil nitrogen exists in organic forms
--- proteins, peptides, amino acids, and polyphenol-nitrogen complexes bound in
-partially decomposed plant material. Unlike agricultural soils where inorganic
-nitrogen (ammonium and nitrate) may be readily available, heathland soils hold
-90-95 percent of their nitrogen in organic compounds that are inaccessible to
-most plant roots. Ericoid mycorrhizal fungi bridge this gap by producing a
-suite of extracellular proteases, peptidases, and phosphatases that
-depolymerize organic nitrogen compounds at the hyphal tip, releasing amino
-acids and small peptides that can be absorbed and transported back to the host
-plant.
-
-This organic nitrogen pathway gives Ericaceae a decisive competitive
-advantage
-in heathlands. When inorganic nitrogen becomes available -- as it increasingly
-does through atmospheric nitrogen deposition from industrial emissions --
-non-ericaceous plants can invade heathlands and outcompete the Ericaceae. This
-is one of the primary drivers of heathland decline across Europe. Research by
-Read and colleagues has shown that atmospheric nitrogen deposition above
-approximately 10-15 kg N per hectare per year begins to shift the competitive
-balance, favoring grasses like Deschampsia flexuosa and Molinia caerulea over
-heather (Calluna vulgaris). The restoration implication is that reducing
-nitrogen inputs is essential for heathland conservation, as simply removing
-invasive species without addressing the nitrogen surplus provides only
-temporary
-relief.
-## Host Plant Diversity
-The Ericaceae is a large and diverse plant family with over 4,000 species, and
-ericoid mycorrhizal associations have been documented in representatives from
-across its major subfamilies. Important ericaceous hosts include Calluna
-vulgaris (heather), Vaccinium species (blueberries, cranberries, bilberries),
-Rhododendron, Erica (heaths), Kalmia (laurel), Gaultheria (wintergreen), and
-Arctostaphylos (manzanita, bearberry). Many of these are commercially
-significant: blueberries and cranberries are major fruit crops, and their
-mycorrhizal dependency has practical implications for cultivation

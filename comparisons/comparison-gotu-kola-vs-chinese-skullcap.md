@@ -25,7 +25,7 @@ understand when each herb might be most appropriate.
 
 [[gotu-kola-growing-guide]]
 
-Gotu kola is a low-growing, herbaceous per [[hallucinogenic-plants-native-to-united-states]] t [[constructed-wetlands-and-ecological-wastewater-treatment]] nds
+Gotu kola is a low-growing, herbaceous per [[hallucinogenic-plants-native-to-united-states]] t [[constructed-wetland-design]] nds
 and marshy areas across tropical and subtropical Asia, Africa, and
 Australia. In Ayurvedic medicine, it's known as "Brahmi" or
 "Mandukaparni" and has been used for thousands of years as a brain

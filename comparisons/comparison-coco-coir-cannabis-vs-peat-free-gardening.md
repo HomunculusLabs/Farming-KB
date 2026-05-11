@@ -1,10 +1,11 @@
 ---
-title: "comparison coco coir cannabis vs [[hamilton-peat-free-gardening-and-alternatives]] vs Peat-Free Gardening"
+title: Comparison Coco Coir Cannabis Vs Peat Free Gardening
 created: 2026-04-28
 tags: [comparison, cannabis, growing-media, sustainability, soil]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---

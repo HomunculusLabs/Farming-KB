@@ -88,15 +88,6 @@ Reports of irritability, mild depression, and altered dream patterns for days af
 
 Accurate milligram measurement is essential.
 
-The compound has not been studied for long term toxicity.
-
-## Index
-
-- 2c-g-entity|2C-G: the 2C-G series parent compound
-- 2c-g-4-entity|2C-G-4: the butyl analogue in the 2C-G series
-- 2c-g-5-entity|2C-G-5: the allyl analogue in the 2C-G series
-- [[2c-g-entity-pihkal]]
-- [[2c-se-entity-pihkal]]
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+## See Also
+- [[ethyl-j-entity-pihkal]]
+- [[dbt-entity-tihkal]]

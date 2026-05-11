@@ -1,5 +1,5 @@
 ---
-title: Amanita [[allegro-amanita-muscaria-properties-and-pharmacology]] eucharist wafer preparation Wafer Preparation
+title: Amanita Muscaria Eucharist Wafer Preparation
 created: 2026-04-19
 updated: 2026-04-18
 type: concept

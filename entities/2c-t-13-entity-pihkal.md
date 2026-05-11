@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-T-13
 
-PIHKAL entry #46. 2,5-DIMETHOXY-4-(2-METHOXYETHYLTHIO)PHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #46. 2,5-DIMETHOXY-4-(2-METHOXYETHYLTHIO)PHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -83,42 +83,8 @@ PIHKAL entry #46. 2,5-DIMETHOXY-4-(2-METHOXYETHYLTHIO)PHENETHYLAMINE.
 
 ## Extensions and Commentary
 
-Most of the synthetic adventures of putting a basic something aways out from the benzene ring, at the four-position, have involved subtle things such as unsaturated bonds or three-membered rings. This was the first try with the actual use of a different atom (an oxygen). What about other heteroatoms such as sulfur or nitrogen or silicon or phosphorus, or some-such?
+Most of the synthetic adventures of putting a basic something aways out from the benzene ring, at the four-position, have involved subtle things such as unsaturated bonds or three-membered rings. This was the first try with the actual use of a different atom (an oxygen). What about other heteroatoms such as sulfur or nitrogen or [[silicon]] or phosphorus, or some-such?
 
 The sulfur counterpart of 2C-T-13 was named 2C-T-14, and was
 
 immediately launched. The reaction of 2,5-dimethoxythiophenol and KOH with 2-methyl-thioethyl chloride in hot MeOH gave 2,5-dimethoxyphenyl 2-methylthioethyl sulfide as a white oil (boiling point of 140-160 deg C at 0.3 mm/Hg). This underwent a normal Vilsmeier reaction (phosphorous oxychloride and N-methylformanilide) to give 2,5-dimethoxy-4-(2-methylthioethylthio)benzaldehyde with a melting point of 64-64.5 deg C from MeOH. This, in nitromethane containing a little ammonium acetate, was heated on the [[scythian-cannabis-steam-bath-ritual]] for 10 hours and worked up to give an excellent yield of 2,5-dimethoxy-4-(2-methylthioethylthio))-beta-nitrostyrene as garish orange-red "Las Vegas" colored crystals from acetonitrile, with a melting point of 126-127 deg C. And as of the moment, this is sitting on the shelf waiting to be reduced to the target compound 2,5-dimethoxy-4-(2-methylthioethylthio)phenethylamine hydrochloride, or 2C-T-14. Will it be active? I rather suspect that it will be, and I'll bet it will be longer-lived than the oxygen model, 2C-T-13.
-
-## Safety Notes
-
-2C-T-13 is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[me-entity-pihkal]]
-- [[mdpl-entity-pihkal]]
-- [[mdpea-entity-pihkal]]
-- [[mdmp-entity-pihkal]]
-- [[mdmeo-entity-pihkal]]
-- mdma
-- [[mdhoet-entity-pihkal]]
-- [[mddm-entity-pihkal]]
-- [[mal-entity-pihkal]]
-- [[m-entity-pihkal]]
-- [[j-entity-pihkal]]
-- [[ip-entity-pihkal]]
-- [[idnna-entity-pihkal]]
-- [[flea-entity-pihkal]]
-- [[f-2-entity-pihkal]]
-- [[eme-entity-pihkal]]
-- [[eee-entity-pihkal]]
-- [[dopr-entity-pihkal]]
-- [[doi-entity-pihkal]]
-- [[doef-entity-pihkal]]
-- [[dobu-entity-pihkal]]
-- [[dmpea-entity-pihkal]]
-- [[dmcpa-entity-pihkal]]
-- [[beta-d-entity-pihkal]]
-- [[4-d-entity-pihkal]]

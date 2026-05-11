@@ -1,5 +1,5 @@
 ---
-title: Gottlieb gottlieb psilocybin cultivation bulk substrate preparation Bulk cotter-compost-substrate-preparation-manure-mushroom-cultivation
+title: Gottlieb Psilocybin Cultivation Bulk Substrate Preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ Gottlieb's "The Psilocybin Producer's Guide" (1976) is primarily oriented
 toward liquid broth mycelium cultivation rather than traditional bulk
 [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]. However, the guide contains several references to bulk
 substrate approaches for producing carpophores ([[ectomycorrhizal-mushroom-fruiting-ecology]] bodies)
-of various psilocybin species, and describes the complete media formulations
+of various psilocybin species, and describes the complete [[mushroom-nutrified-agar-media-formulations]]
 used in the liquid culture system.
 
 ## Primary Approach: Liquid Broth
@@ -28,7 +28,7 @@ mason jars as the production medium. The substrate consists of:
 - Distilled water to 1 liter
 
 This is a simple, low-cost liquid medium designed for rapid mycelial growth
-and alkaloid production rather than fruiting. The potatoes are sliced 1/8
+and [[mycelial-broth-alkaloid-production]] rather than fruiting. The potatoes are sliced 1/8
 inch thick, washed repeatedly until water runs clear, boiled in distilled
 water until tender, then the cooking liquid is strained through flannel
 cloth or cheesecloth. The boiled potatoes are discarded after rinsing
@@ -56,8 +56,8 @@ preparation details.
 ## Rye Grain Substrate
 
 Several species are noted as growing on sterilized rye medium:
-- Copelandia cyanescens: carpophores can be produced on rye.
-- Psilocybe caerulescens: grows on sterilized rye but it is almost
+- [[copelandia-cyanescens]]: carpophores can be produced on rye.
+- [[psilocybe-caerulescens]]: grows on sterilized rye but it is almost
   impossible to produce carpophores on rye alone.
 
 Rye is mentioned as a substrate option but is not the primary medium in
@@ -87,46 +87,3 @@ extraction rather than grain-to-bulk fruiting methods.
 - Carpophores produced on uncased compost or on rye.
 
 ### Psilocybe caerulescens
-
-- Can be grown on vegetable compost in dim light.
-- Very long incubation period: 55-85 days.
-- Resistant to white mold but prone to other diseases due to the extended
-  incubation window.
-- Optimum on MEA: 81 degrees F. Thermal death: 95 degrees F.
-- Not one of the more potent species.
-- Almost impossible to produce carpophores on sterilized rye alone.
-
-### Panaeolus subalteatus
-
-- Occurs on open ground, manured lawns, straw piles, compost, dung piles,
-  and roadsides.
-- Optimum on MEA: 86 degrees F.
-- Occasionally occurs as a weed mushroom in commercial mushroom houses,
-  suggesting adaptability to controlled cultivation environments.
-
-## Notes on the Guide's Approach
-
-Gottlieb's guide deliberately focuses on extracting alkaloids from
-submerged mycelial culture rather than fruiting mushrooms. This approach:
-
-- Eliminates the need for casing layers, [[cervantes-humidity-control-dehumidification]], and fruiting
-  chambers.
-- Reduces the cultivation cycle to 10-12 days versus weeks or months for
-  fruiting.
-- Produces a consistent, extractable product in quart jars.
-- Is more suitable for the "factory" model described in the large-scale
-  production section (2,800 jars in continuous rotation).
-- Avoids the contamination risks inherent in bulk substrate fruiting.
-- Prioritizes alkaloid yield over carpophore size or appearance.
-
-For cultivators interested in fruiting carpophores, Gottlieb recommends
-Oss and Oeric's "Psilocybin: Magic Mushroom Growers Guide" (1976), which
-he describes as "excellent" and "nicely illustrated" for cultivating
-[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] fruiting bodies.
-
-## See Also
-
-- [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[gottlieb-psilocybin-cultivation-strain-selection-guide]]
-- [[psilocybin-large-scale-production]]

@@ -1,5 +1,5 @@
 ---
-title: turner-dmt-hyperspace-and-smoked-tryptamines - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
+title: Turner Essential Psychedelics Dmt Hyperspace
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -22,11 +22,11 @@ endogenous neurotransmitter produced in the human [[mckenna-tryptamine-endogenou
 the "3rd eye" or Ajna Chakra. Turner suggests that meditative states attained by
 yogis concentrating on the 3rd eye may result from increased DMT levels. DMT
 has been consumed for centuries as Yopo/Epena snuffs ([[yopo-anadenanthera-peregrina-snuff]],
-Virola theiodora) and as Ayahuasca/Yage brews combined with [[turner-harmala-alkaloids-preparation-and-dosage]].
+[[virola-theiodora]]) and as [[ayahuasca]]/Yage brews combined with [[turner-harmala-alkaloids-preparation-and-dosage]].
 
 ## Onset and Intensity
 
-The DMT experience comes on within about 30 seconds of smoking. Within the next
+The [[extraterrestrial-contact-and-dmt-experience]] comes on within about 30 seconds of smoking. Within the next
 30 seconds, the user is propelled to a high as intense as the peak of a 1000+
 mcg acid trip. At this point one is typically completely out of body and unaware
 of physical surroundings. The intense peak lasts only 2-5 minutes, with total
@@ -88,39 +88,3 @@ an atomic ocean."
 
 N,N-DMT also has a unique "selective anesthetic" property: both body and mind
 feel simultaneously stimulated and anesthetized, as though every other nerve
-were switched full on or full off.
-
-## Interaction with Intelligent Entities
-
-Turner notes an attribute setting DMT and psilocybin apart from other
-psychedelics: with DMT he often senses he is interacting with an intelligent
-entity vastly superior in knowledge and breadth of consciousness, who seems
-aware of what is transpiring in his mind and is able to instruct and tailor the
-experience personally.
-
-## The Progressive Weirdness Effect
-
-Despite DMT's rarity and high desirability, very few people use it frequently
-after initial experimentation. Turner observes: "DMT gets progressively
-'weirder' as you keep smoking it." Many users have joy rides initially, then
-encounter an experience extremely frightening or intense enough to intimidate
-them from continuing.
-
-## Personality and Ego Dissolution
-
-With DMT one tends not to go through the personality breakdown and rebuilding
-process of traditional psychedelics. Under the force of DMT one must relax,
-release, and let it come over them. Resisting DMT's overwhelming influence and
-the inevitable dissolution of identity will be unpleasant, and it won't work. A
-DMT trip tends to be out of body, out of personality, and sometimes outside of
-the mind entirely.
-
-## Related
-
-- [[turner-essential-psychedelics-ketamine-anaesthetic-realm]]
-
-- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[turner-brief-history-psychedelics-ancient-to-modern]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[fukuoka-nature-transcends-human-knowledge]]

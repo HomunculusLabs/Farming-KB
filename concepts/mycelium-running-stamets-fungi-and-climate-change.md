@@ -3,6 +3,7 @@ title: "Fungi and Climate Change — mycelium-running-conservation-biology-and-f
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/unknown-mycelium-running.md"
 type: concept
 tags: [climate, fungi, mycelium]

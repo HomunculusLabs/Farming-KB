@@ -3,8 +3,8 @@ title: Plant-Animal Relationships
 created: 2026-04-26
 aliases: [coevolution, plant-insect interactions, pollination, carnivorous plants]
 tags: [botany, ecology, evolution, entomology]
-related: [tompkins-plant-chemical-communication, tompkins-plant-roots-intelligence, tompkins-plant-perception-experiments]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-chemical-communication]], [[tompkins-plant-roots-intelligence]], [[tompkins-plant-perception-experiments]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -57,7 +57,7 @@ creatures, using endlessly cunning methods:
 
 The book describes sophisticated ant-plant relationships:
 
-- Acacia trees reward protective ants with nectar in exchange for
+- [[acacia]] trees reward protective ants with nectar in exchange for
   defense against herbivorous insects and mammals
 - Plants can identify which ants will steal their nectar, closing when
   thieving ants approach
@@ -88,56 +88,3 @@ beetle, ant, or worm crawls up its stem toward delicate leaves, touching
 a spur triggers the stem to raise, leaves to fold up, and the assailant
 is either "rolled off the branch by the unexpected movement or is
 obliged to draw back in fright." This is a purposeful, directed response
-to perceived threat.
-
-## Fechner's Sexual Botany
-
-Fechner described plant sex organs as "marvels of beauty." He
-lyricized on how plants lure insects to wriggle into their genitalia,
-drink hidden nectar, and shake fertilizing pollen from distant blossoms
-onto the stigma. He marveled at dispersal mechanisms: the puffball
-waiting to be trodden to release spores, the maple casting propeller
-seeds, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] seducing birds and beasts into distributing seeds
-"neatly packaged in nourishing manure."
-
-## Human-Plant Symbiosis
-
-Fechner proposed that human bodies exist partly to serve plant life --
-surrounding plants with carbon dioxide and, through death, becoming
-manure that plants transform into "the most glorious forms and colors."
-[[tompkins-luther-burbank-intuitive-breeding]] believed his ability to create new plant varieties
-depended on establishing a relationship of love and attention with his
-plants.
-
-## Ecological Interdependence
-
-The book documents how removing one species from a plant-animal
-community can have cascading effects. [[cervantes-chemical-fertilizers-guide]] that kill
-soil microorganisms also kill [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] essential to tree
-health. Pesticides that eliminate pest insects also eliminate
-pollinators. The "law of togetherness of all things" means that plant
-and animal relationships form an interconnected web.
-
-## Key Quotes
-
-- "The advantages of cross-fertilization do not follow from some
-  mysterious virtue in the mere union of two distinct individuals, but
-  from such individuals having been subjected during previous
-  generations to different conditions." -- Charles Darwin
-- "Was it not one of the ultimate purposes of human bodies to serve
-  vegetal life?" -- Gustav Fechner
-- "Plants seem to know which ants will steal their nectar, closing
-  when these ants are about, opening only when there is enough dew on
-  their stems to keep the ants from climbing."
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[bacterial-endophytes-plant-roots]]
-- mycorrhizal-plant-signaling
-## See Also
-
-- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
-- [[mimosa-pudica]]
-- [[mycorrhizal-fungi]]
-- [[tompkins-plant-perception-experiments]]
-- [[tompkins-mitogenetic-rays-plant-cell-communication]]
-- [[tompkins-bose-plant-nervous-system-hypothesis]]

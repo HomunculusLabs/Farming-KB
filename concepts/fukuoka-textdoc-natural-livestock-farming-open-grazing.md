@@ -1,5 +1,5 @@
 ---
-title: "fukuoka-natural-livestock-farming Farming and Open Grazing"
+title: Fukuoka Textdoc Natural Livestock Farming Open Grazing
 created: 2026-04-28
 tags:
   - natural-farming
@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -45,7 +46,7 @@ The transformation of livestock farming from an agricultural practice
 to an industrial process has profound implications for the relationship
 between farmers and their animals. Regardless of whether the product is
 good or bad, one person can raise tens and hundreds of thousands of head
-efficiently with mass production techniques. But it is capital, not men,
+efficiently with mass [[spawn-production-techniques]]. But it is capital, not men,
 that today raises these animals. This is no longer the farmer's domain,
 but that of commercial houses which raise livestock in large factory-
 like operations.
@@ -56,7 +57,7 @@ Under the precepts of [[comparison-natural-farming-vs-permaculture]], livestock 
 form of open grazing. Cattle, pigs, and chickens fattened while free to
 roam at will on the open land under the sun's rays are a precious,
 irreplaceable source of food for man. The problem lies elsewhere, in the
-prejudiced view that sees natural farming as inefficient. Is grazing,
+prejudiced view that sees [[cho-loess-powder-in-natural-farming]] as inefficient. Is grazing,
 which allows one person to raise hundreds of head without doing
 anything, really inefficient? Is it not, rather, the most efficient form
 of production there is?
@@ -87,53 +88,3 @@ unaffected, because animals in nature do not indiscriminately ravage
 anything unrelated to what they eat.
 
 ## Poisonous Plants and Animal Instinct
-
-## Habituation and Natural Selection
-
-It would be unreasonable to take modern genetically upgraded
-livestock, release them suddenly in a forest, and expect immediate
-improvement. But if the possibilities are studied with patience, a path
-opens up. After habituating animals to open grazing in forests over two
-or three generations, natural selection takes over and those animals
-adapted to nature survive. This process of rewilding domesticated
-animals requires time and careful observation, but it restores the
-natural hardiness and instincts that confinement breeding has bred out.
-
-## Parasites and Environmental Management
-
-Ticks and mites present a challenge, but infestation conditions vary
-considerably. There may be a great number at the southern edge of a wood
-but very few along the northern edge. Infestation is generally limited
-in cool, breezy areas and is closely related to humidity and
-temperature. The problem can be prevented by providing the right
-environment rather than by applying chemical treatments. It suffices to
-raise hardier cattle and give consideration to the protection and
-raising of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that help control tick populations.
-
-## Livestock Farming as Search for Unconditional Truth
-
-[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] studies animal feed by giving various formulations
-to cows chained in a barn under fixed environmental conditions, then
-judges the mixture producing the best results to be superior. This is
-inductive experimentation that yields conditional truth at best. Natural
-farming, seeking unconditional truth, begins by examining how the cow
-lives in open nature, taking a broader perspective that encompasses not
-just food but weather, climate, living environment, exercise, sleep, and
-the full complexity of an animal's relationship with its surroundings.
-
-## The Minimal Shelter Principle
-
-## An Experiment on a Grand Scale
-
-Fukuoka proposes a bold experiment: fencing off the entrance to one
-of Japan's depopulated mountain villages that has lost its inhabitants
-to the cities, placing all sorts of domestic animals inside the
-enclosure, and leaving them to themselves for a number of years. After
-this period, researchers could enter and observe what had happened. This
-experiment would test whether animals can truly return to a natural
-state and what form such a return would take.
-
-## See Also
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
-- [[fukuoka-textdoc-natural-livestock-open-grazing]]

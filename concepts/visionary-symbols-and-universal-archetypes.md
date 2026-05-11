@@ -10,7 +10,7 @@ sources:
 
 # Visionary Symbols and Universal Archetypes
 
-The visionary experiences produced by psychedelic substances consistently feature powerful symbolic imagery that appears across cultures, historical periods, and religious traditions.
+The visionary experiences produced by [[psychedelic-substances-comparison]] consistently feature powerful symbolic imagery that appears across cultures, [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]], and religious traditions.
 
 These recurring symbols, including the serpent, the eye, the tree, the mandala, and the radiant being of light, suggest that the human psyche possesses deep structural patterns that are activated when ordinary consciousness is temporarily suspended.
 
@@ -30,7 +30,7 @@ The meaning is felt directly and immediately, rather than being constructed thro
 
 The serpent or snake is perhaps the most universally distributed visionary symbol in human culture.
 
-It appears in the religious mythology of the Maya and Aztecs as Quetzalcoatl, the Feathered Serpent.
+It appears in the religious mythology of the Maya and Aztecs as Quetzalcoatl, the [[amanita-muscaria-feathered-serpent-phoenix]].
 
 It appears in ancient Egyptian iconography as the uraeus, the cobra worn on the pharaoh's headdress as a symbol of wisdom and divine authority.
 
@@ -40,7 +40,7 @@ It appears in the ancient epic of Gilgamesh, where a serpent reveals the locatio
 
 It appears in Hindu mythology as the Nagas, wise serpents associated with sacred knowledge.
 
-And it appears in the Garden of Eden narrative as the serpent who offers the fruit of the Tree of Knowledge.
+And it appears in the Garden of Eden narrative as the serpent who offers the fruit of the [[stropharia-cubensis-tree-of-knowledge]].
 
 Across all of these traditions, the serpent consistently symbolizes a wise, divine, or spiritual life force, a mediator between worlds, and a bringer of knowledge and transformation.
 
@@ -50,7 +50,7 @@ The universality of this symbolism suggests that it reflects something fundament
 
 Powell proposes that universal symbols emerge from the natural tendency of information within the brain to organize itself into stable, coherent patterns.
 
-Just as chemical elements naturally organize themselves into specific stable molecular structures like water, carbon dioxide, and amino acids, so too can the information embodied in neuronal firing patterns naturally organize itself into specific stable psychological structures.
+Just as chemical elements naturally organize themselves into specific stable molecular structures like water, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], and amino acids, so too can the information embodied in neuronal firing patterns naturally organize itself into specific stable psychological structures.
 
 The more information that is being integrated simultaneously, the more complex and meaningful the resulting symbol.
 
@@ -62,7 +62,7 @@ In the case of visionary symbols, the appropriate conditions are created when th
 
 While certain visionary symbols appear to be universal, others are culturally determined.
 
-Among South American shamans who use ayahuasca, visions frequently feature jungle animals like the jaguar, as well as plant spirits and entities specific to Amazonian cosmology.
+Among [[chiric-caspi-brunfelsia-south-american-hallucinogen]] shamans who use ayahuasca, visions frequently feature jungle animals like the jaguar, as well as plant spirits and entities specific to Amazonian cosmology.
 
 The artwork inspired by these experiences reveals a striking commonality among practitioners of the same tradition, with spiritual entities being portrayed in remarkably consistent styles.
 
@@ -87,10 +87,3 @@ Jung himself was keenly interested in the relationship between archetypal imager
 The universality of visionary symbols has significant implications for understanding the origins and nature of religious experience.
 
 The fact that essentially the same symbolic images appear in the visionary experiences of shamans, mystics, and psychedelic users across all cultures and historical periods suggests that religious experience is rooted in universal features of human psychology rather than being merely a cultural invention.
-
-This does not necessarily reduce religion to brain chemistry, but it does suggest that the psychedelic state provides a privileged window into the psychological foundations of religious experience and the [[information-paradigm-of-consciousness]]
-
-- [[psychedelic-spirituality-and-religion]]
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

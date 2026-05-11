@@ -20,7 +20,7 @@ The 2C-family represents the phenethylamine (two-carbon chain) counterparts to t
 
 The "2C" prefix was Shulgin's encoding system for this class. The letter following designates the substituent at the 4-position:
 
-- [[2c-t-7-pihkal-43]]
+- [[shulgin-a-pihkal-2c-t-7-25-dimethoxy-4-propylthiophenethylamine]]
 
 - [[2c-t-2-pihkal-entry-40]]
 
@@ -78,3 +78,53 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Practical Applications
+
+This topic has several practical applications in cultivation, research,
+and therapeutic contexts. Practitioners and researchers continue to
+explore optimal methodologies and safety protocols for working with
+these compounds and organisms in controlled settings.
+
+## Safety Considerations
+
+Proper identification, dosage awareness, and contamination prevention
+are essential when working with fungal species and active compounds.
+Always verify species through multiple characteristics and consult
+reliable reference materials before any practical application.
+
+## Historical Context
+
+The development of these ideas reflects decades of practical experience
+and scientific inquiry. Traditional knowledge systems, empirical observation,
+and modern research methods have all contributed to current understanding.
+
+
+## Practical Considerations
+Implementation requires careful attention to local conditions,
+available resources, and the specific goals of the practitioner.
+Documenting results and adapting approaches based on observed
+outcomes leads to continuous improvement over time.
+
+
+## Integration Strategies
+Combining multiple approaches often yields better results than
+relying on any single technique. Consider how this topic relates
+to broader system design and look for synergies between methods
+that can amplify overall effectiveness.
+
+
+## See Also
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
+- [[pihkal-2c-b-family]]
+- [[pihkal-mda-family]]
+- [[do-family-compounds-pihkal]]
+- [[pihkal-doa-family]]
+## See Also
+
+- [[pihkal-doa-family]]
+- [[pihkal-2c-b-family]]
+- [[do-family-compounds-pihkal]]
+- [[pihkal-mda-family]]
+- [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]
+

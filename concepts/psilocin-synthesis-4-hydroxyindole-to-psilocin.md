@@ -1,10 +1,10 @@
 ---
-title: acetylation-protection-psilocin-synthesis-4-hydroxyindole from 4-Hydroxyindole
+title: Psilocin Synthesis 4 Hydroxyindole To Psilocin
 created: 2026-04-28
 tags:
   - synthesis
   - psilocin
-  - tryptamine
+  - [[tryptamine]]
   - indole-chemistry
 date: 2026-04-28
 updated: 2026-04-28
@@ -83,51 +83,7 @@ then washed with n-hexane, ethyl acetate, and water.
 
 This two-step acylation-amidation conversion from compound 4 to compound
 6 proceeds in over 80% yield. The dimethylamine introduces the
-N,N-dimethylaminoethyl side chain precursor that will ultimately become
-the characteristic dimethyltryptamine moiety of psilocin. The
+N,N-dimethylaminoethyl [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] precursor that will ultimately become
+the characteristic [[dimethyltryptamine]] moiety of psilocin. The
 dimethylamino group appears as two singlets in the 1H NMR at 3.02 and
 2.92 ppm, corresponding to the inequivalent methyl groups of the amide.
-
-## Step 4: LiAlH4 Reduction to Psilocin
-
-The glyoxalylamide (compound 6) undergoes reduction with lithium
-aluminum hydride (LiAlH4) in anhydrous THF under an argon atmosphere.
-The solution of compound 6 in THF is added dropwise to a suspension of
-LiAlH4 over 2 hours, then the reaction mixture is refluxed for 2 hours.
-
-After cooling, careful quenching with anhydrous sodium sulfate powder
-followed by dropwise addition of saturated sodium sulfate solution
-controls the exothermic decomposition of excess LiAlH4. The reaction
-mixture is then diluted with ethyl acetate and filtered through an
-aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] pad. The filtrate is concentrated and the crystals
-are washed with methanol to afford psilocin (compound 1) as white
-crystals in over 85% yield.
-
-The LiAlH4 reduction accomplishes three transformations simultaneously:
-1. Reduction of the glyoxalyl carbonyl to a methylene group, forming
-   the ethyl side chain of the tryptamine
-2. Reduction of the amide to the tertiary amine (N,N-dimethyl)
-3. Cleavage of the 4-O-acetyl protecting group, restoring the free
-   phenolic hydroxyl
-
-This convergence of multiple bond reductions in a single step is a major
-efficiency advantage of the route. The overall yield from 4-hydroxyindole
-to psilocin is approximately 68% (80% times 85%), achieved without any
-chromatographic purification.
-
-## Comparison with Alternative Routes
-
-Prior syntheses of psilocin by Troxler, Hofmann, and colleagues at Sandoz
-used different approaches, including the Leimgruber-Batcho indole
-synthesis and gramine-based routes. The Shirota route is distinguished by
-its brevity (four steps), high overall yield, avoidance of chromatographic
-purification, and suitability for gram-scale production. The key to the
-practicality of this route is the use of crystalline intermediates
-throughout, enabling isolation by simple filtration and washing.
-
-## Related
-
-- [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] Topics
-
-- [[psilocybin]]
-- [[nmr-characterization-psilocin-psilocybin-intermediates]]

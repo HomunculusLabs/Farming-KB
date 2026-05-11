@@ -88,21 +88,3 @@ Recording these observations over several cycles helps distinguish a stable patt
 a one-time event caused by weather, disturbance, or management history.
 
 ## Management Notes
-Management should start with low-risk interventions: improve habitat, reduce stressors,
-protect beneficial organisms, and observe outcomes before escalating to intensive
-control or redesign. When the topic involves cultivation or remediation, small trials
-are safer than whole-site changes because they reveal local constraints early.
-
-## See Also
-
-[[cob-construction]]
-
-[[permaculture-building-design]]
-
-[[permaculture-zone-0-house-design]]
-
-[[permaculture-design]]
-
-## Related
-
-- index-homesteading

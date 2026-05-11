@@ -1,5 +1,5 @@
 ---
-title: Off-Grid Waste Management
+title: Off Grid Waste Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Off-Grid Waste Management
 
-Managing human waste and wastewater without municipal sewer systems is a fundamental challenge of off-grid living. A well-designed waste management [[appropriate-technology]] system protects groundwater, prevents disease, recycles nutrients, and converts waste into valuable resources for the homestead. This guide covers the main approaches to blackwater (toilet waste), greywater (sink/shower/laundry water), and integrated systems.
+Managing human waste and wastewater without municipal sewer systems is a fundamental challenge of off-grid living. A well-designed waste management system protects groundwater, prevents disease, recycles nutrients, and converts waste into valuable resources for the homestead. This guide covers the main approaches to blackwater (toilet waste), greywater (sink/shower/laundry water), and integrated systems.
 
 ## Septic Systems
 
@@ -47,7 +47,7 @@ Managing human waste and wastewater without municipal sewer systems is a fundame
 For sites that fail conventional percolation tests:
 - **Aerobic treatment units (ATU)**: Use oxygen and bacteria to break down waste more completely
 - **Mound systems**: Raised drain field when water table is high
-- **Constructed wetlands**: Natural treatment through wetland plants
+- **[[comparison-constructed-wetlands-vs-bioswales]]**: Natural treatment through wetland plants
 - **Sand filters**: Effluent passes through sand for additional filtration
 
 ## Composting Toilets
@@ -67,7 +67,7 @@ All components in one unit — toilet and composting chamber together.
 **Pros:**
 - Easy installation — no plumbing required
 - No water consumption
-- Can be used in [[tiny-house-on-wheels|tiny houses]], [[van-life-off-grid|vans]], and [[skoolie-bus-conversion|buses]]
+- Can be used in [[tiny-house-on-wheels]], [[van-life-off-grid]], and [[skoolie-bus-conversion]]
 - Low odor when properly maintained
 - Produces usable compost
 
@@ -126,7 +126,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 - Let finished compost age for 6-12 months before use
 - Use only on ornamental plants, fruit trees, or buried in food gardens
 - Hand washing is essential after handling
-- Local regulations vary — some prohibit humanure composting
+- Local regulations vary — some prohibit [[humanure-composting]]
 
 ## Greywater Systems
 
@@ -138,7 +138,7 @@ Greywater (from sinks, showers, laundry) makes up 50-80% of household wastewater
 |--------|-------------------|---------------------|
 | Bathroom sink | Low | Easy |
 | Shower/bath | Low-Moderate | Easy |
-| Washing machine | Moderate | Moderate |
+| [[cervantes-washing-machine-hash]] | Moderate | Moderate |
 | Kitchen sink | High (grease, food) | Difficult |
 
 ### Simple Greywater Systems

@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Symbiotic Fungi Relationships
@@ -86,31 +87,3 @@ The genus Termitomyces includes several species of mushrooms associated with ter
 Termites construct their nests with organic matter and cultivate mycelium. When abandoned, these mycelium-rich nests sprout delicious mushrooms -- a remarkable example of insect-fungus agriculture. These [fungal-faunal interactions demonstrate the evolutionary sophistication of symbiotic partnerships.
 
 ## Fungal-Bacterial Partnerships
-
-Mushrooms become launching platforms for explosive growth of bacterial populations, many of which are critical for plant health.
-
-Mushrooms have a preselecting influence on the bacteria sharing their habitat. Bacteria beneficial to trees regulate inputs and outputs of nitrogen and are phosphorus limited. Mycelium influences the makeup of microbial populations in its immediate ecosystem, connecting fungal symbiosis to the broader [soil food web.
-
-## Coevolution
-
-Increasingly, mycologists believe that endophytic fungi may have coevolved with hospitable plants.
-
-More than 10,000 spores of fungi land on each leaf per day. Amidst such competition, friendly fungi taking up residence is actually an asset to plants otherwise subject to pathogenic assault. The richer the fungus-plant partnerships, the more organisms the habitat can support.
-
-## The Symbiosis Spectrum
-
-The traditional categories of saprophyte, parasite, mycorrhizal partner, and endophyte represent points along a continuum rather than rigid boxes.
-
-Many species can shift between these roles depending on environmental conditions, host health, and resource availability. This flexibility is one reason why [fungal community ecology is so complex and why fungi are such effective ecosystem engineers. As Stamets notes, many mushrooms once thought to be purely parasitic may in fact be operating as [endophytic partners, defending rather than attacking their hosts.
-
-## See Also
-
-- [[common-mycorrhizal-networks]]
-
-- [[ectomycorrhizal-ecology]]
-
-- fungal-community-ecology
-
-- [[mycorestoration-overview]]
-
-- [[soil-food-web-nutrient-cycling]]

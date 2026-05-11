@@ -2,7 +2,7 @@
 title: The Four savory ecosystem foundation blocks Blocks
 created: 2026-04-26
 aliases: [ecosystem foundation blocks, four [[fungal-ecosystem-processes-overview]],
-          succession, water cycle, [[savory-mineral-cycle-management]], energy flow]
+          succession, water cycle, [[savory-mineral-cycle-management]], [[savory-energy-flow-and-solar-capture]]
 tags: [ecosystem-processes, succession, water-cycle, mineral-cycle,
       energy-flow]
 related: [savory-holistic-management-overview, savory-water-cycle-management,
@@ -18,8 +18,8 @@ type: concept
 
 At the heart of the [[savory-holistic-resource-management-animal-impact]] Management model lie four
 interdependent processes that together constitute the functioning
-ecosystem. These are succession (community dynamics), the water cycle,
-the mineral cycle, and energy flow. All goals for all land must be
+ecosystem. These are succession ([[dighton-aquatic-hyphomycete-conidia-community-dynamics]]), the water cycle,
+the [[savory-holistic-resource-management-mineral-cycle]], and energy flow. All goals for all land must be
 built upon and sustained by these four foundation blocks. They exist
 only as four interdependent aspects of a single thing, symbolized by
 the tetrahedron in the HRM model.
@@ -48,7 +48,7 @@ animals from the simplest virus to elephant and human, and the
 microscopic world within soils where a complex web of life dwells
 among decomposing rock, sand, clay, and organic material.
 
-Succession typically progresses from bare ground through
+Succession typically progresses from [[savory-bare-ground-and-soil-exposure]] through
 algae/lichen/moss communities to grasslands, brushlands, and
 eventually forests, limited by climate and soil formation. At each
 stage, the community modifies its own microenvironment, making it
@@ -88,49 +88,3 @@ returned to the soil surface as plant residues, broken down by
 biological activity, and carried underground by water and soil
 organisms. The key to maintaining this cycle is preventing leaching
 through adequate [[hamilton-composting-and-organic-matter-management]], which binds mineral elements and
-creates crumb structure that retains nutrients in the root zone.
-
-## Energy Flow
-
-The fourth foundation block addresses the question of fuel to keep all
-processes and life functioning. The natural living world runs on solar
-power, and management decisions can drastically affect how much solar
-energy is captured and put to use.
-
-Green plants form the base of the energy pyramid, converting sunlight
-into usable form. Animals at each subsequent level convert some of that
-energy while expending the rest in their own life processes. The broader
-the base of plant capture, the more energy is available at every level
-above. Management can widen this base by increasing standing crop
-volume, extending the [[savory-growing-season-and-non-growing-season-management]], and expanding leaf area.
-
-## Tools for Managing the Foundation Blocks
-
-The HRM model identifies six categories of tools available to influence
-these four processes: rest, fire, grazing, animal impact, living
-organisms, and technology. Whatever tool or combination of tools is
-applied, changes can be more easily expressed and monitored when
-analyzed in terms of the four foundation blocks.
-
-The tools function in the ecosystem like ripples from pebbles thrown
-into a still pool. Each tool, applied according to specific guidelines,
-imparts a predictable tendency to the whole. By understanding these
-tendencies, managers can choose tools that push succession toward
-greater complexity, improve water and mineral cycles, and increase
-energy flow.
-
-## Diagnostic and Policy Applications
-
-The four foundation blocks provide a framework for analyzing past
-failures, including those of civilizations long gone, because all tools
-available in earlier times are included in the model. Any policy
-suggested by any country, agency, or individual must involve one or
-more of the tools, and its likely effects on the four processes can be
-deduced. This diagnostic capability has enormous potential savings in
-avoiding doomed experiments.
-
-## See Also
-
-- [[savory-water-cycle-management]] for detailed water cycle analysis
-- [[savory-plant-succession-and-community-dynamics]] for succession
-- [[savory-energy-flow-and-solar-capture]] for energy flow

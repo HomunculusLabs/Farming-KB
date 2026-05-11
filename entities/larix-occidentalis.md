@@ -88,32 +88,3 @@ Crown form is conical in youth, becoming broader and more irregular with age. Ol
 Western larch has a relatively shallow root system compared to its height, which makes large individuals susceptible to windthrow on exposed sites. Root grafting between adjacent larch trees is common and may provide mechanical stability while also facilitating the sharing of water and nutrients.
 
 The species is not currently considered threatened, though logging has reduced the proportion of old-growth larch stands. Fire suppression policies have also reduced natural regeneration opportunities, as larch depends on disturbance to create suitable seedbeds. In some areas, the composition of larch-dominated forests has shifted toward greater proportions of shade-tolerant species since the early 20th century.
-
-Several protected areas within its range preserve significant old-growth western larch, including portions of the Bob Marshall Wilderness and the Cabinet Mountains Wilderness in Montana. These remnant stands serve as important reference ecosystems for understanding the historical fire regime and stand dynamics of the species.
-
-Silvicultural practices for western larch emphasize shelterwood harvesting with seed-tree retention to promote natural regeneration. Artificial regeneration using containerized seedlings has also proven successful on reforestation sites. Provenance trials have identified seed sources from the northern Cascade Range as particularly well-adapted to commercial plantation settings.
-
-Climate change poses potential challenges for western larch, as warming temperatures and altered precipitation patterns may shift its suitable habitat to higher elevations. Increased wildfire frequency could benefit the species in the short term by creating regeneration opportunities, but severe megafires may exceed its fire tolerance thresholds.
-
-## Related Species
-
-The genus *Larix* includes several other North American species, most notably [[larix-laricina]] (tamarack), which occupies boreal wetlands across Canada and the northeastern United States. Tamarack is much smaller in stature and tolerates poorly drained soils that western larch cannot survive on. Subalpine larch (*Larix lyallii*) occupies the highest elevational zone of any North American tree, forming krummholz at treeline in the northern Rockies.
-
-Eurasian larches include the European larch (*Larix decidua*) and the Siberian larch (*Larix sibirica*), both of which have been widely planted for forestry. Dunkeld larch, a hybrid between European and Japanese larch, is an important commercial timber tree in Britain and Ireland.
-
-Among its associates in mixed conifer forests, western larch frequently grows alongside [[pinus-contorta]] at higher elevations and [[pinus-ponderosa]] on drier sites. It shares habitat with [[abies-lasiocarpa]] at the upper elevational limits of its range. In the western Cascades, it is associated with Picea engelmannii and [[tsuga-mertensiana]] near treeline.
-
-Western larch is also a close ecological analogue of the Japanese larch (*Larix kaempferi*), which occupies a similar successional niche in the mountains of central Honshu. Both species are fast-growing, shade-intolerant pioneers that depend on disturbance for regeneration. The two species have been successfully crossed in breeding programs, producing hybrids with vigorous growth and intermediate morphological characteristics.
-
-## See Also
-
-- [[larix-laricina]]
-- [[pseudotsuga-menziesii]]
-- [[pinus-ponderosa]]
-- [[pinus-contorta]]
-- [[abies-grandis]]
-- [[tsuga-heterophylla]]
-- Picea engelmannii
-- [[sequoia-sempervirens]]
-- [[thuja-plicata]]
-- [[cedrus-libani]]

@@ -7,18 +7,22 @@ tags: [construction, homesteading, permaculture, sustainability]
 sources: []
 ---
 
-# Earth Plaste [[essential-amphetamines-and-natural-precursors]] al Finishes
+# Earth Plaster and Natural Finishes
 
-Natur [[natural-plasters-and-earthen-wall-finishes]] hes protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]] finishes allow moisture vapor to pass through walls, preventing trapped moisture that cause [[cannabis-mold-and-mildew-prevention]] nd decay. This is essential for earth, straw, and timber-based buildings.[[fukuoka-why-natural-farming-blocked-in-japan]] tural Finishes Matter
+Natural [[natural-plasters-and-earthen-wall-finishes]] protect building surfaces while maintaining breathability. Unlike conventional paint and gypsum plaster, natural finishes allow moisture vapor to pass through walls, preventing trapped moisture that causes mold and decay. This is essential for earth, straw, and timber-based buildings.
 
-Natural walls — cob, straw bale, light straw-clay, hempcrete, adobe — must breathe. Applying standard latex paint or cement stucco creates a vapor barrier that traps moisture inside the wall, leading to rot, [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] ctural failure. Natural finishes are the only appropriate surface treatment for these wall systems.
+## Why Natural Finishes Matter
+
+Natural walls — cob, straw bale, light straw-clay, hempcrete, adobe — must breathe. Applying standard latex paint or cement stucco creates a vapor barrier that traps moisture inside the wall, leading to rot, mold, and structural failure. Natural finishes are the only appropriate surface treatment for these wall systems.
 
 Additional benefits:
 
 - Non-toxic: zero VOCs, no off-gassing, safe for chemically sensitive individuals
 - Repairable: patch and blend new material into existing finishes seamlessly
 - Beautiful: rich, textured, living surfaces that age gracefully
-- Low cost: materials are often free or very cheap (subsoil, sand, lime, milk, pig [[comparison-lime-plaster-vs-earthen-plaster]] hen Plaster
+- Low cost: materials are often free or very cheap (subsoil, sand, lime, milk, pigments)
+
+## Earthen Plaster
 
 Earthen plaster is a mix of clay-rich subsoil, sand, and fiber (chopped straw or manure), applied to interior and protected exterior walls. It is the most common finish for cob, adobe, and straw bale buildings.
 
@@ -28,7 +32,7 @@ A typical earthen plaster mix by volume:
 
 - **Clay-rich soil:** 1 part (the binder)
 - **Sand:** 2-3 parts (prevents cracking)
-- **Fiber:** 0.5 part chopped straw, cattail fluff, or horse manure (tensile strength)
+- **Fiber:** 0.5 part chopped straw, cattail fluff, or [[coleman-french-maraicher-horse-manure-hotbed-system]] (tensile strength)
 - **Water:** enough to achieve workable consistency (like thick cake batter)
 
 ### Application Process
@@ -50,13 +54,13 @@ Make test batches and apply to a small area. Watch for:
 
 ## Lime Wash
 
-Lime wash is a thin, breathable coating made from hydrated lime (type S) and water. It has been used for centuries on exterior and interior masonry, earth [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]], and lime plaster walls.
+Lime wash is a thin, breathable coating made from [[cervantes-hydrated-lime-quicklime-ph-adjustment]] (type S) and water. It has been used for centuries on exterior and interior masonry, earth, and [[comparison-lime-plaster-vs-earthen-plaster]] walls.
 
 ### Recipe
 
 - **Hydrated lime (type S):** 1 part by volume
 - **Water:** 3-5 parts by volume
-- **Optional pigment:** natural mineral pigments (ochres, iron oxides) for color
+- **Optional pigment:** [[jadam-natural-mineral-leaching-and-replenishment]] pigments (ochres, iron oxides) for color
 - **Optional salt:** 1 tablespoon per gallon to improve adhesion on porous surfaces
 
 ### Application
@@ -77,7 +81,7 @@ Lime wash is a thin, breathable coating made from hydrated lime (type S) and wat
 
 ## Milk Paint
 
-Milk paint is one of the oldest known paints, made from milk protein (casein), lime, and pigments. It produces a beautiful, matte, velvety finish on wood, earth [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]] plaster, and masonry.
+Milk paint is one of the oldest known paints, made from milk protein (casein), lime, and pigments. It produces a beautiful, matte, velvety finish on wood, earth plaster, and masonry.
 
 ### Recipe
 
@@ -112,7 +116,7 @@ Alis is a traditional earthen finish coat from the American Southwest, used on a
 - **Clay soil (fine):** 1 part
 - **Fine sand:** 0.5-1 part (optional, for reducing shrinkage)
 - **Water:** enough for a creamy consistency
-- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice (prickly pear pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
+- **Additives (choose some):** wheat paste (1/4 cup per gallon), cactus juice ([[comparison-agave-vs-prickly-pear-cultivation]] pad extract), borax (1/4 cup), linseed oil (1/4 cup), milk (1 cup), or manure (1 cup)
 
 ### Application
 

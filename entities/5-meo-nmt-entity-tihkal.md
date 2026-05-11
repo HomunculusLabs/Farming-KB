@@ -87,24 +87,3 @@ the 5-methoxytryptamine series.
 
 - Activity has not been established; any experimentation would be entirely
 exploratory with unknown risks
-
-- Based on related compounds, potential dose range could be anywhere from
-20-100+ mg; extreme caution is warranted
-
-- The compound may share some pharmacological properties with 5-MeO-DMT,
-which can produce overwhelming experiences at higher doses
-
-- As with all tryptamines, avoid MAO inhibitors, SSRIs, and other serotonergic
-medications
-
-- The compound's natural occurrence in plants does not guarantee safety when
-isolated and administered in pure form
-
-## Legal Status
-
-5-MeO-NMT is not specifically scheduled in most jurisdictions. As a
-5-methoxy-substituted tryptamine, it could potentially fall under analogue
-legislation related to 5-MeO-DMT, which is controlled in several countries.
-The compound's lack of demonstrated psychoactivity makes enforcement unlikely.
-Its natural occurrence in some plant species may also complicate regulatory
-approaches.

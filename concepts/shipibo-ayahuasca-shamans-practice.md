@@ -88,34 +88,3 @@ An enterprising young shaman earning a couple hundred dollars per month from tou
 A practitioner whose invitations for rituals Stuart declined after A swindled him on the price of a tobacco pipe — illustrating the personal risks of navigating unfamiliar social terrain as a foreigner.
 
 ## Ethics of Ayahuasca Tourism
-
-### Authenticity Concerns
-Stuart's observations highlight several tensions:
-
-- **Commercial vs. traditional**: Commercial ceremonies tend to be shallower than family/community rituals
-- **Economic exploitation**: Tourists pay 5–15x more than locals for equivalent ceremonies
-- **[[manure-quality-variability-and-fertilizer-value]]**: There is no certification or quality control — finding a "good" ayahuasquero is largely a matter of chance
-- **Cultural impact**: The economic incentives of tourism may distort traditional practices
-
-### Finding a Reputable Practitioner
-Stuart notes that "almost every shaman claims to be the only person in all of Amazonia who knows how to properly brew the magic potion." For prospective tourists, he suggests:
-
-- Spending extended time getting to know a practitioner before committing to ceremonies
-- Seeking referrals from trusted sources rather than responding to advertising
-- Understanding that character and integrity are at least as important as technical skill
-- Being prepared for the possibility of exploitation
-
-### Alternatives to Tourism
-Stuart suggests that those interested primarily in the ayahuasca experience — rather than cultural immersion — could consider home brewing with ethnobotanical supplier ingredients, using an experienced friend as a sitter. This "do-it-yourself approach" could potentially be more cost-effective and personally meaningful than traveling to South America.
-
-## References
-
-- Stuart, R. (2002). "Ayahuasca Tourism: A Cautionary Tale." *MAPS* Volume XII, Number 2.
-- Fieldwork in Ucayali, Peru, November 2001.
-- Illius, B. (1993). "The Cognitive Structure of Shipibo Healing." In *Cosmología y shamanismo de los Shipibo-Conibo*.
-
-## See Also
-
-- [[shipibo-ayahuasca-traditions]]
-- [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]

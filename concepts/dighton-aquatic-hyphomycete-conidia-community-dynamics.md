@@ -1,5 +1,5 @@
 ---
-title: dighton aquatic hyphomycete conidia community dynamics Conidia and Community Dynamics
+title: Dighton Aquatic Hyphomycete Conidia Community Dynamics
 created: 2026-04-26
 tags:
   - mycology
@@ -21,7 +21,7 @@ in plant [[dighton-pine-needle-litter-decomposition-fungal-succession]] in fresh
 (asexual spores), often tetraradiate or sigmoid in shape, are morphologically
 adapted for dispersal and colonization in flowing water. More than 600 species
 of aquatic fungi have been described, many with specific adaptations for life
-in aquatic habitats.
+in [[biodiversity-fungi-freshwater-aquatic-habitats]].
 
 ## Conidial Production and Seasonal Dynamics
 
@@ -46,11 +46,11 @@ with plant material is attributed to spore morphology. Tetraradiate and
 sigmoid spores of aquatic fungal species colonize submerged plant litter more
 efficiently than the rounded spores of terrestrial fungi, which are adapted
 for wind dispersal (Wong et al., 1998). This morphological specialization
-gives aquatic hyphomycetes a competitive advantage in their habitat.
+gives [[aquatic-hyphomycetes-and-ingoldian-spores]] a competitive advantage in their habitat.
 
 Aquatic hyphomycetes occur on almost all substrates in freshwater systems
 (Barlocher, 1992). Fungal biomass is usually greater than bacterial biomass
-on decomposing leaf litter in aquatic ecosystems, establishing fungi as the
+on decomposing leaf litter in [[dighton-fungal-biomass-production-aquatic-ecosystems]], establishing fungi as the
 dominant decomposer group in these habitats.
 
 ## Fungal Biomass and Conidial Production During Succession
@@ -81,55 +81,10 @@ freshwater streams.
 Concomitant with faster decomposition of Spartina than Plantanus in salt
 marshes, a higher percentage of carbon was released as dissolved and fine
 particulate organic matter from Spartina. The effects of these end products on
-nutrient dynamics and the support of primary and secondary productivity within
+[[mycelial-network-nutrient-dynamics-and-imaging]] the support of primary and secondary productivity within
 the ecosystem remain areas for further investigation.
 
 ## Resource Allocation Between Growth and Reproduction
 
 Suberkropp (1995) demonstrated the ability of aquatic fungi to allocate
 resources between growth and reproduction depending on [[duggar-mushroom-environmental-factors-temperature-moisture-light]].
-Fungal biomass was higher in streams with higher nitrogen content, but
-additional nitrogen had a more pronounced effect on the production of spores
-than on mycelial biomass. This resource allocation strategy allows fungi to
-optimize either growth for resource capture or reproduction for dispersal
-depending on environmental conditions.
-
-## Environmental Controls on Decomposition
-
-Suberkropp and Chauvet (1995) performed reciprocal exchange experiments with
-yellow poplar leaves between streams differing in pH and nutrient composition.
-The rate of leaf decomposition varied by a factor of 9 between streams,
-microbial activity (ATP production) by a factor of 8, and fungal sporulation
-by a factor of 80. Litter decomposed faster in hardwater streams with higher
-nitrate, phosphorus, and temperature.
-
-About six species of fungi were common throughout all hardwater streams, while
-softwater streams had only two species in common with hardwater streams.
-Anguillospora filiformis and Flagellospora curvula were the two dominant
-species in softwater streams, not occurring in hardwater streams.
-
-## Community Structure Across Substrate Types
-
-Gulis (2001) performed multivariate analysis of 146 samples from 92 aquatic
-systems showing that fungal species assemblages on wood and grass leaves had
-different composition from those on tree leaf litter. However, the
-relationship between fungal community differences, [[fungal-decomposition-resource-quality-determinants]], and
-decomposition rates was not correlated with physiological function of
-individual species or communities, representing an important gap in
-understanding aquatic decomposition systems.
-
-## Fungi as Food in Aquatic Food Webs
-
-Aquatic fungi form an important food source for invertebrates and alter the
-physical structure of leaf substrates to allow faunal penetration (Suberkropp,
-1992). Graca et al. (1993) demonstrated that some faunal shredders prefer to
-feed on leaves already colonized by fungi, while others consume fungal
-mycelia selectively. The palatability of the resource is enhanced during
-[[dighton-fungal-decomposition-nutrient-cycling]] by the increase in nitrogen content during initial stages
-of fungal attack.
-
-## See Also
-
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-fungi-mangrove-coastal-ecosystems]]

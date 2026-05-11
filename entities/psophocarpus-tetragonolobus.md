@@ -38,7 +38,7 @@ created: 2026-04-28
 
 **Psophocarpus tetragonolobus** (L.) DC. is a tropical legume in the family Fabaceae, notable for producing edible pods, seeds, tuberous roots, leaves, and flowers — making it one of the most versatile food plants known.
 
-Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across [[psilocybe-southeast-asia-pacific]], Africa, and the Pacific Islands.
+Commonly called the **winged bean** for its distinctive four-angled pods with wing-like longitudinal ridges, it is native to Papua New Guinea and widely cultivated across [[psilocybe-southeast-asia-pacific]], Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species has been described as a "one-species supermarket" due to the nutritional density and edibility of nearly every plant part. Protein content in seeds reaches 30–40%, comparable to soybeans.
 
@@ -56,7 +56,7 @@ Tuberous roots develop on mature plants, reaching 10–30 cm length and 2–6 cm
 
 ## Distribution and Habitat
 
-The species is believed to originate in the highlands of Papua New Guinea, where the greatest genetic diversity is found.
+The species is believed to originate in the highlands of Papua New Guinea, where the greatest [[biodiversity-fungal-genetic-diversity]] is found.
 
 It is cultivated throughout tropical and subtropical regions from sea level to 2,000 m elevation. Major producing countries include Papua New Guinea, Indonesia, Malaysia, Thailand, the Philippines, Myanmar, Sri Lanka, India, Nigeria, and Ghana.
 
@@ -68,11 +68,11 @@ Well-drained, fertile loams with pH 5.5–6.5 are preferred, though the species 
 
 All plant parts are edible and nutritionally significant. Dried seeds contain 30–40% protein, 15–20% oil, and are rich in essential amino acids, particularly lysine and tryptophan.
 
-Fresh pods provide vitamin A (2,000–4,000 IU/100 g), vitamin C (30–50 mg/100 g), iron, and calcium. Tubers contain 8–12% protein — exceptionally high for a root crop.
+Fresh pods provide vitamin A (2,000–4,000 IU/100 g), vitamin C (30–50 mg/100 g), iron, and calcium. Tubers contain 8–12% protein — exceptionally high for a [[root-crop-harvest-and-storage]].
 
 Leaves are eaten as a leafy green vegetable and provide significant levels of beta-carotene, vitamin E, and polyphenolic antioxidants.
 
-The seed oil is rich in unsaturated fatty acids, particularly linoleic acid (30–40%), making it a potential source of edible and industrial oil.
+The seed oil is rich in unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], particularly linoleic acid (30–40%), making it a potential source of edible and industrial oil.
 
 ## Cultivation
 
@@ -86,26 +86,4 @@ Maturity from planting to first harvest is 75–120 days for green pods, 150–1
 
 ## Permaculture and Agroforestry Applications
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], winged bean serves as a multi-functional element: nitrogen-fixing climber, edible crop across all plant parts, and living mulch when allowed to trail.
-
-The vine's rapid growth makes it effective for shading and cooling in tropical food forests. It can be intercropped with banana, cassava, taro, and maize.
-
-Its ability to produce both above-ground protein (seeds) and below-ground calories (tubers) on the same plant makes it uniquely valuable for food-forest designs in the humid tropics.
-
-## Pests, Diseases, and Limitations
-
-Major pests include pod-sucking bugs (*Riptortus* spp.), flower thrips, and pod borers. Nematode damage to tubers can be significant in infested soils, particularly from *Meloidogyne* spp.
-
-Fungal diseases include leaf spot (*Cercospora* spp.), anthracnose, and root rot in waterlogged conditions. Most [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] can be managed through [[comparison-crop-rotation-vs-cover-cropping]], good drainage, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] methods.
-
-The main agronomic limitation is the plant's photoperiod sensitivity — many traditional cultivars require short days (12 h or less) to initiate flowering, restricting cultivation to within 15° of the equator.
-
-Day-neutral varieties developed by breeding programs in Nigeria and Thailand have expanded the viable cultivation range into subtropical latitudes, though yields remain highest in equatorial zones.
-
-## See Also
-
-- [[l-theanine]]
-- [[curcumin]]
-- [[panax-ginseng]]
-- ocimum-sanctum
-- [[glycyrrhiza-glabra]]
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], winged bean serves as a multi-functional element: nitrogen-fixing climber, edible crop across all plant parts, and [[comparison-living-mulch-vs-cover-crops]] when allowed to trail.

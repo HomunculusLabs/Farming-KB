@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,15 +88,3 @@ and returned Friday to find plants still strong and healthy.
 
 Capillary matting provides another passive delivery method.
 Plants with a strong root system are placed on capillary
-matting that stabilizes [[cervantes-top-feed-hydroponic-systems]] or [[cervantes-moisture-meters-watering-technique]] is important to prevent over-saturation
-
-## Best Practices
-
-To maximize success with passive systems:
-
-- Use a well-draining soilless mix that holds both air and
-  moisture
-- Ensure containers have adequate drainage holes above the
-  reservoir water line
-- Do not allow pots to sit in standing water continuously
-- Monitor [[cervantes-nutrient-burn-over-fertilization]] from [[jadam-salt-accumulation-in-soil]]

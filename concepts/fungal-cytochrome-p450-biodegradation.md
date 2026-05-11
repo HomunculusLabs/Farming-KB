@@ -6,16 +6,16 @@ type: concept
 tags: [mycology, fungi, biodegradation, enzymes, biochemistry]
 sources:
   - Singh, H. (2006). Mycoremediation. John Wiley & Sons.
-  - Gadd, G.M. (2001). Fungi in Bioremediation. Cambridge Univ. Press.
+  - Gadd, G.M. (2001). [[staycare-brown-rot-fungi-in-bioremediation]]. Cambridge Univ. Press.
 ---
 # Fungal Cytochrome P450 in Biodegradation
 Cytochrome P450 enzymes constitute a superfamily of monoxygenases that
-play a central role in the fungal biodegradation of recalcitrant organic
+play a central role in the [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] recalcitrant organic
 compounds. These intracellular enzymes catalyze the initial oxidation of
-diverse xenobiotics including aliphatic and aromatic hydrocarbons,
-polycyclic aromatic hydrocarbons, and phenolic compounds. They serve as
+diverse xenobiotics including aliphatic and [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]],
+polycyclic aromatic hydrocarbons, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. They serve as
 critical entry points in [[fungal-bioremediation-mechanisms]] pathways.
-Unlike extracellular ligninolytic enzymes of white-rot fungi, P450
+Unlike extracellular [[ligninolytic-enzymes]] of white-rot fungi, P450
 systems operate inside fungal cells and are found across a broad
 taxonomic range of fungi.
 ## Enzyme System Architecture
@@ -29,7 +29,7 @@ localized in the endoplasmic reticulum membrane of fungal cells.
   from NADPH to the P450 enzyme, enabling its catalytic cycle.
 - Both microsomal and cytosolic P450 isoforms have been
   identified in biodegrading fungi, suggesting different
-  subcellular compartments for xenobiotic metabolism.
+  subcellular compartments for [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]].
 - The CPR:P450 ratio is important for efficient electron
   transfer and varies among fungal species depending on
   the presence of inducer substrates.
@@ -88,21 +88,3 @@ compounds are hydrophobic, poorly soluble, and structurally recalcitrant.
   to ring cleavage by dioxygenases.
 - PAH-degrading capabilities of non-ligninolytic fungi depend
   heavily on their P450 complement, while white-rot fungi
-  supplement P450 with extracellular peroxidase and laccase.
-- See [[singh-fungal-metabolism-pahs]] for detailed pathways of
-  specific PAH compounds metabolized by fungal P450 systems.
-## Practical Applications and Limitations
-Use of fungal P450 systems in practical bioremediation faces
-several challenges common to intracellular enzyme-based approaches.
-- P450 activity requires living fungal cells with intact
-  electron transport chains, limiting applications to
-  bioaugmentation rather than free enzyme deployment.
-- Substrate uptake is rate-limiting because hydrophobic
-  compounds must cross the fungal cell membrane to reach
-  the intracellular P450 enzyme system.
-- Combining fungal and bacterial P450 capabilities through
-  consortia approaches in [[fungal-bioremediation-case-studies]]
-  has shown promise for more complete pollutant mineralization.
-- Genetic engineering of fungal P450 enzymes for improved
-  activity is an active research area with promising but
-  not yet field-ready results.

@@ -13,7 +13,7 @@ sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores, Part 1." Synopsis Fungorum 6.
   - Niemelä, T. (2005). "Polypores of Finland." Finnish Museum of Natural History.
   - Spirin, V. & Zmitrovich, I. (2018). "Polyporoid fungi of Russia." National Lincean Academy.
-  - Smith, J.E. et al. (2002). "The medicinal value of the polypore fungi." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive 4(2): 103-118.
+  - Smith, J.E. et al. (2002). "The medicinal value of the [[polypore-fungi-eastern-north-america]]." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive 4(2): 103-118.
   - Karaman, M. et al. (2010). "Antibacterial and antioxidant activities of the larch polypore." Journal of Ethnopharmacology 128(2): 497-501.
 created: 2026-04-28
 ---
@@ -26,15 +26,15 @@ created: 2026-04-28
 
 It is a brown-rot decomposer found almost exclusively on dead or dying birch trees (*Betula* spp.) across the temperate Northern Hemisphere.
 
-The species has a long history of ethnobotanical use, valued for both its medicinal properties and practical applications as a strop for honing blades.
+The species has a long history of ethnobotanical use, valued for both its [[panax-ginseng]] and practical applications as a strop for honing blades.
 
-The birch polypore is one of the most recognizable bracket fungi in boreal and temperate forests due to its distinctive hoof-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
+The [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]] is one of the most recognizable bracket fungi in boreal and temperate forests due to its distinctive hoof-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
 
 ## Taxonomy and Morphology
 
 Fomitopsis betulina was originally described as **Polyporus betulinus** by Petter Karsten in 1882 and later transferred to *Fomitopsis*.
 
-It is a member of the order Polyporales and family Fomitopsidaceae, closely related to *Fomitopsis pinicola* and *Fomitopsis rosea*.
+It is a member of the order Polyporales and family Fomitopsidaceae, closely related to *[[fomitopsis-pinicola]]* and *Fomitopsis rosea*.
 
 The species epithet *betulina* refers to its exclusive association with birch trees.
 
@@ -70,7 +70,7 @@ It is found wherever birch trees grow, from lowland forests to subalpine zones u
 
 The fungus fruits primarily on standing dead birch trunks, fallen logs, and occasionally on weakened living trees.
 
-It is one of the primary decay agents of birch wood, playing a major role in carbon cycling in boreal forest ecosystems.
+It is one of the primary decay agents of birch wood, playing a major role [[fungal-role-in-carbon-cycling]] in boreal [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 Fruiting occurs from late summer through autumn, though perennial brackets can be found year-round.
 
@@ -87,50 +87,3 @@ In vitro studies show stimulation of macrophage activity and enhancement of natu
 These polysaccharides are primarily water-soluble and are concentrated in the inner context tissue.
 
 ### Terpenoids and Sterols
-
-The species produces several lanostane-type triterpenoids, including **betulinic acid** and its derivatives.
-
-Betulinic acid exhibits anti-inflammatory, antiviral, and cytotoxic properties against various cancer cell lines.
-
-Ergosterol and ergosterol peroxide are also present, contributing to the anti-inflammatory profile.
-
-### Antimicrobial Compounds
-
-Crude extracts show broad-spectrum antibacterial activity against Gram-positive bacteria including *Staphylococcus aureus*.
-
-Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and several dermatophyte species.
-
-The antimicrobial compounds include piptamine-related alkaloids and several phenolic acids.
-
-## Ethnobotanical and Historical Use
-
-Fomitopsis betulina has one of the longest recorded histories of human use among polypore fungi.
-
-A 5,300-year-old birch polypore was found among the possessions of Ötzi the Iceman, likely carried for medicinal purposes.
-
-It was widely used across Europe as a **razor strop** for sharpening blades, hence the common name "razor-strop fungus."
-
-The dried and cut fruiting body was used as a leather-like material for making belts, hats, and other items in Scandinavia.
-
-In European folk medicine, preparations were applied topically to wounds and used internally for intestinal parasites.
-
-Traditional use against whipworm (*Trichuris trichioma*) has been partially validated by modern anthelmintic studies.
-
-## Cultivation
-
-Fomitopsis betulina can be cultivated on supplemented birch sawdust substrates under controlled conditions.
-
-Optimal fruiting temperatures range from 15–20°C with high humidity (85–95%) and adequate fresh air exchange.
-
-The species is a primary colonizer of birch wood and can be established on sterilized birch logs via plug spawn.
-
-Cultivation is primarily of interest for research and medicinal extract production rather than culinary use.
-
-Wild harvesting remains the most common source, though sustainable collection practices are necessary to preserve populations.
-
-## See Also
-
-- [[fomitopsis-pinicola]]
-- [[trametes-versicolor-entity]]
-- [[agaricus-campestris]]
-- [[mycorrhiza]]

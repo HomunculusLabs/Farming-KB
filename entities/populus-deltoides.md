@@ -88,27 +88,3 @@ Eastern cottonwood leaf litter decomposes rapidly, contributing nitrogen and [[h
 ## Pests and Diseases
 
 The cottonwood leaf beetle (*Chrysomela scripta*) is the most widespread defoliator, causing significant foliar damage in plantations. Larvae and adults skeletonize leaves, reducing growth rates by 10–25% in severe infestations.
-
-Septoria leaf spot (*Septoria musiva*) causes cankers and leaf spots that can kill branches and reduce growth. This pathogen is a major constraint on plantation silviculture, particularly in the southeastern United States.
-
-Poplar borers (*Saperda calcarata*) tunnel into the trunk and branches of mature trees, creating entry points for decay fungi. Infested trees are structurally weakened and may break in windstorms.
-
-Melampsora leaf rust (*Melampsora medusae*) causes premature defoliation in wet years. Resistant genotypes have been identified and incorporated into breeding programs for improved plantation performance.
-
-Cytospora canker (*Valsa sordida*) infects stressed or wounded trees, causing sunken cankers on branches and the main stem. The disease is most severe on trees growing on droughty sites or following injury from construction activities.
-
-The cottonwood borer (*Plectrodera scalator*) is one of the largest North American longhorned beetles and can cause significant damage to young plantation trees by girdling stems at the root collar.
-
-## See Also
-
-- [[populus-heterophylla]]
-
-- [[populus-nigra]]
-- [[betula-nigra]]
-- [[acer-saccharum]]
-- [[platanus-x-hispanica]]
-- [[juglans-nigra]]
-- [[quercus-rubra]]
-- [[quercus-alba]]
-- [[fagus-grandifolia]]
-- [[alnus-rubra]]

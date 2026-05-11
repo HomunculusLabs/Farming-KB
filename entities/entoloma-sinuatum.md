@@ -23,7 +23,7 @@ sources:
 **Entoloma sinuatum** (Pers.) P. Kumm., commonly known as the leading entoloma or
 livid entoloma, is a large poisonous agaric mushroom in the family
 Entolomataceae. It is the most frequently implicated species in fungal
-poisoning cases in Central and Western Europe, responsible for numerous
+[[palmer-toadstool-poisoning-cases]] in Central and Western Europe, responsible for numerous
 hospitalizations annually. The species is responsible for the majority of
 serious mushroom poisonings in regions where it occurs, owing to its
 deceptively edible appearance and occurrence near popular edible species.
@@ -75,7 +75,7 @@ neutral clay soils.
 ## Toxicity and Mechanism
 
 The toxic principles of E. sinuatum have not been definitively identified.
-Early studies implicated illudin-like sesquiterpenes and unusual sterols,
+[[hofmann-lsd-clinical-research-early-studies]] implicated illudin-like sesquiterpenes and unusual sterols,
 but no single toxin has been isolated and characterized to pharmaceutical
 standards. The toxin or toxin complex is heat-stable, meaning cooking does
 not neutralize toxicity.
@@ -88,49 +88,3 @@ presentation is characterized by:
 - Abdominal cramping and bloating
 - Headache, dizziness, and sweating
 - Dehydration, hypotension, and electrolyte imbalance in severe cases
-
-Recovery typically occurs within 24–48 hours with supportive care (IV fluids,
-electrolyte replacement, antiemetics). Fatalities are rare but documented in
-elderly patients and those with pre-existing cardiovascular conditions.
-
-## Similar Edible Species and Confusion Risk
-
-E. sinuatum is most frequently confused with **Tricholoma scalpturatum**
-(fissured tricholoma) and **Tricholoma terreum** (dirty tricholoma), both
-edible species that share similar habitat and coloration. The critical
-distinguishing feature is the spore print color: Entoloma species have
-distinctly pink spore prints, while Tricholoma species produce white spore
-prints.
-
-Other potential confusion pairs include **Cortinarius trivialis** (which has
-a rusty-brown spore print and cobwebby partial veil) and **Clitopilus
-prunulus** (the wood blewit relative, which also has pink spores but a
-characteristic anise-like odor).
-
-The mealy odor of E. sinuatum, while characteristic, is not reliably
-detectable by all individuals and should not be used as a sole diagnostic
-feature. Spore print examination remains the gold standard for field
-identification.
-
-## Ecological Role
-
-As an ectomycorrhizal species, E. sinuatum contributes to forest nutrient
-cycling by facilitating mineral [[plant-nutrient-uptake-mechanisms]] for host trees in exchange
-for photosynthetic carbon. The species appears to be sensitive to
-atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and may serve as an indicator of forest
-ecosystem health — declining populations have been correlated with
-eutrophication of forest soils across Central Europe.
-
-The species is not known to be consumed by vertebrate wildlife, suggesting
-its toxicity may serve an anti-herbivory function. Invertebrate mycophagists,
-particularly springtails (Collembola), are commonly found on decaying
-basidiocarps and may play a role in [[aquatic-fungi-spore-dispersal-ingold]].
-
-## See Also
-
-- [[amanita-phalloides]]
-- [[archaeology-of-psychedelic-mushroom-use]]
-- chlorophyllum-molybdites
-- [[tricholoma-terreum]]
-- [[cicuta-maculata]]
-- [[aconitum-napellus]]

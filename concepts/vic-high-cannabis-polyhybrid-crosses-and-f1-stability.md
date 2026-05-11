@@ -1,8 +1,9 @@
 ---
-title: vic high cannabis polyhybrid crosses and f1 stability Crosses and F1 Stability
+title: Vic High Cannabis Polyhybrid Crosses And F1 Stability
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/vic-high-creating-true-breeding-strains.md
 type: concept
 tags: [cannabis]
@@ -28,7 +29,7 @@ Vic High frames a key question that every breeder must answer before starting: w
 
 2. **Creating seeds that produce more seeds like the clone** (a true [[vic-high-true-breeding-strain-development-stabilization]]): This is fundamentally different. It requires preserving all the visible genes while removing all the hidden ones that may show up in offspring. This requires creating homozygosity through selection and generational inbreeding.
 
-Understanding this distinction is critical. Cubing preserves a phenotype but not genetic stability. Only generational inbreeding with selection can produce a self-sustaining true breeding strain.
+Understanding this distinction is critical. Cubing preserves a phenotype but not [[cannabis-genetic-stability]]. Only generational inbreeding with selection can produce a self-sustaining true breeding strain.
 
 Vic High emphasises that a special clone is likely heterozygous for many of the traits she phenotypically expresses. She contains genetic information for two opposing traits, but only the dominant one is visible. Her seeds will only get one or the other of each gene, so her offspring will express all the genetic information she has, including [[cervantes-dominance-recessive-traits-alleles]] that are completely hidden within herself.
 
@@ -46,7 +47,7 @@ The F2 is where the breeder first has the opportunity to spot individuals that a
 
 ## Polygenic Traits: The Multiplication Problem
 
-Most real cannabis traits -- flavour, potency, yield, flowering time -- are controlled by multiple gene pairs (polygenic), not single genes. Vic High demonstrates how this complexity compounds using concrete probability calculations.
+Most real cannabis traits -- flavour, potency, yield, [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] -- are controlled by multiple gene pairs (polygenic), not single genes. Vic High demonstrates how this complexity compounds using concrete probability calculations.
 
 ### Single Recessive Gene
 
@@ -87,44 +88,3 @@ When the parent being preserved carries heterozygous dominant traits (common wit
 Vic High states bluntly: "as long as the cubed source is heterozygous, it doesn't matter how many backcrosses you do, you will never achieve a true breeding strain." This makes generational inbreeding with selection the only viable path for complex trait stabilization.
 
 ## Hybrid Vigour and Genetic Stability
-
-While not explicitly discussed as hybrid vigour, Vic High's framework implies that F1 uniformity comes at the cost of genetic stability. The F1 is stable in appearance but unstable in inheritance -- its offspring (F2) will segregate dramatically. True stability requires moving beyond the F1 through deliberate inbreeding and selection over multiple generations.
-
-The breeder must resist the temptation to stop at the F1 stage, where plants look uniform, and instead commit to the multi-generational work of creating genuine homozygosity.
-
-## Why Generational Inbreeding Outperforms Cubing for Complex Traits
-
-The fundamental reason generational inbreeding achieves better results than cubing for complex traits is that generational inbreeding allows the breeder to select for homozygosity at each generation. Cubing only increases the overall proportion of P1 genes without specifically selecting for homozygous combinations.
-
-In generational inbreeding, the F2 segregation produces the first homozygous individuals, and the breeder can preferentially use these as parents. Each subsequent generation further concentrates the homozygous individuals while eliminating heterozygotes. Cubing lacks this mechanism -- it increases gene frequency but does not preferentially create or select homozygous combinations.
-
-This distinction becomes more important as trait complexity increases. For a single recessive gene, both methods work well. But when multiple genes must be fixed simultaneously, the ability to select for homozygosity at each generation becomes essential.
-
-## Strategy for Complex Trait Preservation
-
-Vic High's practical advice for preserving complex traits from a special individual:
-
-1. Recognise that the clone is likely heterozygous for many traits -- her seeds will express genetic information you cannot see in her.
-2. If the goal is simply to reproduce individuals like the clone, backcrossing (cubing) is sufficient.
-3. If the goal is to create seeds that can produce more seeds like the clone (true breeding strain), generational inbreeding with selection is required.
-4. Work on one or two traits at a time to manage the multiplication problem.
-5. Apply maximum selection pressure, especially on males through [[cervantes-progeny-testing-combining-ability]].
-6. Use gene frequency tracking to measure objective progress at each generation.
-
-## Key Takeaways
-
-- F1 hybrids are phenotypically uniform but genetically heterozygous -- not true breeding.
-- F2 generation is where hidden genetic variation reappears through Mendelian segregation.
-- The clone preservation dilemma: cubing reproduces phenotype, generational inbreeding creates genetic stability.
-- Polygenic traits multiply probabilities: each additional gene pair reduces the overall success rate dramatically.
-- Cubing works well for a few genes but loses effectiveness rapidly with complex traits.
-- Generational inbreeding with full-sib selection is more effective than cubing for polygenic trait fixation.
-- A heterozygous source cannot be fully stabilised through backcrossing alone.
-- The distinction between reproducing a phenotype and creating a true breeding strain determines the entire breeding strategy.
-- [[vic-high-true-breeding-strain-development-stabilization]]
-- [[vic-high-cannabis-phenotype-selection-criteria]]
-- [[clarke-marijuana-botany-genetics-breeding]]
-
-## See Also
-
-- [[vic-high-backcrossing-and-inbreeding-techniques]]

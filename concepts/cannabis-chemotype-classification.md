@@ -27,9 +27,9 @@ cultivars show extensive genetic admixture and that cannabinoid and
 [[cannabis-terpene-profiles-sativa]] do not cluster according to these labels.
 Historically, "sativa" described tall, narrow-leafleted plants from
 equatorial regions, while "indica" described short, broad-leafleted
-plants from Central Asian highlands. Modern breeding has thoroughly
+plants from Central Asian highlands. [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] has thoroughly
 disrupted these associations. A commercially labeled "indica" may share
-more genetic ancestry with equatorial sativas than with Afghan landraces.
+more genetic ancestry with [[durban-poison-and-equatorial-sativas]] than with Afghan landraces.
 The sativa/indica system persists primarily as a marketing convention
 that loosely correlates with subjective effects (energizing versus
 sedating), but these perceived differences are better explained by terpene
@@ -56,7 +56,7 @@ ratio of these two major cannabinoids:
 - **Chemotype V**: Both THC and CBD are absent or below detectable limits.
   Rare in modern germplasm but exists in some primitive fiber lines.
 This system has the advantage of being objectively measurable through
-standardized analytical methods (HPLC, GC-FID) and directly relevant to
+standardized [[analytical-methods-psilocybin-psilocin-quantification]] (HPLC, GC-FID) and directly relevant to
 the plant's pharmacological properties.
 ## Modern Multidimensional Classification
 Contemporary chemotaxonomy expands beyond the THC:CBD binary to
@@ -88,34 +88,3 @@ profile rather than cannabinoid content:
   with minimal sedation. High caryophyllene with humulene and moderate
   myrcene.
 - **Type IV (Linalool-dominant)**: Anxiolytic, sleep-promoting,
-  anticonvulsant profile. Linalool exceeding 5% with myrcene support.
-- **Type V (Pinene-dominant)**: Cognitively enhancing, bronchodilatory
-  profile. Combined alpha and beta-pinene exceeding 15%.
-- **Type VI (Terpinolene-dominant)**: Complex, balanced effects.
-  Terpinolene exceeding 5% with mixed minor terpenes.
-- **Type VII (Balanced/Terpene-diverse)**: No single dominant terpene
-  with three or more terpenes each exceeding 10%. Associated with complex,
-  nuanced effect profiles.
-## Practical Applications
-Chemotype classification has direct implications for medical cannabis
-prescribing. Patients with anxiety disorders benefit from CBD-dominant
-or balanced chemotypes with linalool and limonene. [[cannabis-chronic-pain-management]] patients
-may prefer myrcene-dominant, high-THC chemotypes for maximum analgesia.
-Patients seeking cognitive preservation during daytime use benefit from
-pinene-dominant varieties that counteract THC's memory-impairing effects.
-Regulatory frameworks increasingly reference chemotype rather than folk
-taxonomy. Canada's cannabis regulations require cultivar registration with
-quantified cannabinoid and terpene profiles. The European Union defines
-hemp by THC content threshold (0.2-0.3% depending on member state)
-rather than by taxonomic designation.
-## Challenges and Future Directions
-Chemotype [[psilocybin-level-stability-across-flushes]] environments remains a significant challenge.
-The same genotype can produce markedly different cannabinoid and terpene
-profiles under varying growing conditions. This environmental plasticity
-complicates the development of consistent, repeatable chemotype-based
-classification standards.
-
-## See Also
-- [[cannabinoid-biosynthesis-pathway]]
-- [[trichome-development-and-morphology]]
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]

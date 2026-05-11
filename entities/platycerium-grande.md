@@ -21,7 +21,7 @@ Platycerium grande, commonly known as the giant staghorn fern or the Philippine 
 
 It is among the most spectacular members of the genus Platycerium, producing enormous fertile fronds that can exceed two meters in length.
 
-The species is native to the Philippines and surrounding islands, where it grows on the trunks and branches of large canopy trees in lowland and montane tropical forests.
+The species is native to the Philippines and surrounding islands, where it grows on the trunks and branches of large canopy trees in lowland and montane [[fungal-biodiversity-tropical-forests]].
 
 Platycerium grande is highly prized in horticulture and is one of the most widely cultivated staghorn fern species worldwide.
 
@@ -35,13 +35,13 @@ The genus name derives from the Greek words "platys" (flat) and "keras" (horn), 
 
 The species produces two morphologically distinct frond types, a characteristic dimorphism shared across the genus Platycerium.
 
-The sterile shield fronds form a large, rounded, basket-like structure that hugs the host tree or mounting surface.
+The sterile shield fronds form a large, rounded, basket-like structure that hugs the [[ectomycorrhizal-host-tree-partnerships]] or mounting surface.
 
 These shield fronds are kidney-shaped and can reach 60 centimeters or more in diameter.
 
 Their upper surface is green and covered with stellate hairs when young, becoming brown and papery with age.
 
-The shield fronds serve a critical function by collecting rainwater, leaf litter, and organic debris that decomposes to provide nutrients.
+The shield fronds serve a critical function by collecting rainwater, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and organic debris that decomposes to provide nutrients.
 
 The fertile antler fronds emerge from the center of the shield frond mass and arch outward and downward.
 
@@ -81,42 +81,10 @@ The mounting surface should be positioned vertically or at a slight angle to pre
 
 Bright, filtered light is ideal; direct afternoon sun can scorch the fronds, while deep shade inhibits growth and frond production.
 
-Regular watering is essential during the growing season, with the entire plant and root zone soaked thoroughly and allowed to dry slightly between waterings.
+Regular watering is essential during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], with the entire plant and root zone soaked thoroughly and allowed to dry slightly between waterings.
 
-Fertilization with a diluted balanced liquid fertilizer applied monthly during spring and summer promotes vigorous frond production.
+Fertilization with a diluted balanced [[comfrey-tea-liquid-fertilizer]] applied monthly during spring and summer promotes vigorous frond production.
 
 Temperatures should remain above 10 degrees Celsius, as the species is sensitive to cold and frost damage.
 
-Good air circulation around the plant helps prevent fungal and bacterial rots that can develop in stagnant, overly moist conditions.
-
-Propagation is achieved through spore culture or by division of larger specimens that have produced offsets or "pups" at the base.
-
-Spore culture is slow, requiring several months for germination and years for plants to reach a displayable size.
-
-Division of mature plants produces faster results but carries some risk of damage to the sensitive root and rhizome system.
-
-## Ecological Role
-
-In its native habitat, Platycerium grande contributes to the complex epiphyte communities that characterize tropical forest canopies.
-
-The large shield frond nest accumulates substantial quantities of organic matter, creating microhabitats for ants, beetles, and other invertebrates.
-
-These accumulated debris masses also serve as nurseries for epiphytic seedlings of bromeliads, orchids, and other plants.
-
-The fern provides shelter and perching sites for arboreal amphibians, reptiles, and small birds within the forest canopy.
-
-Water retained in the shield frond nest is released slowly, contributing to localized humidity and moisture regimes within the canopy.
-
-Platycerium grande is occasionally browsed by herbivorous mammals and insects, though its tough, leathery fronds offer some protection.
-
-The species plays a role in nutrient cycling by intercepting falling leaf litter and facilitating its decomposition within the canopy.
-
-## See Also
-
-- [[platycerium-bifurcatum]]
-- [[asplenium-nidus]]
-- [[adiantum-raddianum]]
-- [[nephrolepis-exaltata]]
-- [[davallia-fejeensis]]
-- [[pteridium-aquilinum]]
-- [[polypodium-vulgare]]
+Good [[stamets-growing-room-air-circulation-co2-management]] around the plant helps prevent fungal and bacterial rots that can develop in stagnant, overly moist conditions.

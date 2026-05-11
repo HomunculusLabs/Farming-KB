@@ -20,7 +20,7 @@ updated: 2026-04-28
 sources:
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press.
-  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the Pacific Northwest." University of Washington Press.
+  - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the [[psilocybin-north-america-pacific-northwest]]." University of Washington Press.
   - Werier, D. et al. (2022). "Pedicularis groenlandica." Flora of psilocybin-north-america-pacific-northwest. http://floranorthamerica.org
   - Schofield, J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
 ---
@@ -29,7 +29,7 @@ sources:
 
 **Pedicularis groenlandica** is a striking perennial hemiparasitic herb in
 the family Orobanchaceae, native to alpine and subalpine wetlands across
-western North America. Its dense, cylindrical inflorescence of pink to
+western [[guzman-psilocybin-mushrooms-north-america]]. Its dense, cylindrical inflorescence of pink to
 magenta flowers with projecting beak-like galeas resembles an elephant's
 trunk, earning the common name **elephant's head**. Indigenous peoples of
 the Rocky Mountains and Sierra Nevada used the plant as a muscle relaxant
@@ -83,50 +83,8 @@ The species is strongly associated with moist to wet habitats:
 subalpine meadows, streambanks, seeps, marsh edges, and willow carrs.
 Elevation range: 1,500–4,000 m. It prefers cold, saturated soils with
 full to partial sun and is often found growing among *Carex* spp.,
-*Juncus* spp., and *Epilobium angustifolium*.
+*Juncus* spp., and *[[epilobium-angustifolium]]*.
 
 ## Ethnobotanical and Medicinal Use
 
-Several Native American tribes used P. groenlandica medicinally.
-The Blackfoot prepared leaf tea as a muscle relaxant and analgesic for
-sore muscles and rheumatism. The Shoshone and Paiute used root
-decoctions for similar purposes.
-
-Modern herbal practice uses the above-ground parts (aerial portions)
-tinctured fresh in alcohol (1:2, 95% ethanol). It is valued primarily
-as a skeletal muscle relaxant, often compared to *Pedicularis*
-spp. collectively as a gentler alternative to synthetic muscle
-relaxants. Reported applications include tension headaches, menstrual
-cramps, back spasms, and general muscular tension.
-
-**Constituents:** Iridoid glycosides (aucubin, catalpol), phenylethanoid
-glycosides (verbascoside), flavonoids (luteolin, apigenin), and
-phenolic acids. The pharmacological basis for muscle relaxant activity
-has not been fully characterized in peer-reviewed literature.
-
-## Cultivation
-
-Cultivation is challenging due to the hemiparasitic requirement.
-[[cannabis-seed-germination-methods]] requires cold stratification (30–60 days at 4°C) and
-the presence of appropriate host plant roots for sustained growth.
-In practice, seeds are sown in pots already containing established
-host species (grasses, sedges, or *Aster* spp.).
-
-The species is not commercially cultivated at scale. Wildcrafting
-pressure in popular foraging areas has raised conservation concerns,
-particularly given the species' restricted habitat and slow growth.
-
-## Similar Species
-
-- *Pedicularis racemosa* — leafy-bracted raceme, less dense inflorescence,
-  found in similar habitats.
-- *Pedicularis parryi* — taller, flowers more open and less beaked.
-- *Pedicularis bracteosa* — yellow to cream flowers, similar range.
-
-## See Also
-
-- pedicularis densiflora
-- castilleja
-- [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
-- [[leonurus-cardiaca-entity]]
+Several [[halpern-sacramental-peyote-and-native-american-church]] tribes used P. groenlandica medicinally.

@@ -2,7 +2,8 @@
 title: cervantes-powdery-mildew-prevention-treatment - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -86,45 +87,3 @@ Additional environmental notes:
 - Most air conditioners can be set to a specific humidity level
 - Cover carpet with white plastic sheeting to prevent mold harborage
 - Wash walls with 5% bleach solution if mold surfaces; apply fungus-inhibiting paint
-
-## Organic Controls
-
-- **Bacillus subtilis** (trade name Serenade) — applied as a foliar spray; safe for organic gardens
-- **Baking soda spray** (sodium bicarbonate) — a saturation mix of baking soda and water sprayed on foliage
-- **Neem oil** — acts as a fungistat, inhibiting powdery mildew growth
-
-## Chemical Controls
-
-- **Baking soda spray**: Dries to a fine powder on the leaf surface; changes the leaf surface pH to 7.0, creating conditions where powdery mildew cannot grow
-- **Bordeaux mixture**: A copper and sulfur-lime spray that keeps mold in check as a prophylactic
-- **Copper and sulfur-lime sprays**: Good prophylactic measures applied before infection takes hold
-- **Specific fungicides**: If prevention proves inadequate and fungi appear, advanced control measures are necessary
-
-## Cultural and Physical Control
-
-When powdery mildew appears:
-
-- Remove and destroy foliage that is more than 50% infected
-- Wash hands after handling diseased foliage to prevent spread
-- Isolate affected plants and treat separately
-- Increase ventilation and air circulation immediately
-- Lower humidity to below 50%
-- Do not let foliage stay wet overnight
-- If the problem attacks one or a few plants, isolate and treat them separately
-- Remember that fungi can spread like wildfire if conditions are right
-
-## Important Notes
-
-- Fungal spores are airborne and present virtually everywhere — complete elimination is impossible
-- The goal is management, not eradication; prevention is always more effective than treatment
-- Every dingy, ill-kept indoor garden has fungal problems and yields substandard harvests
-- Few clean, well-ventilated grow rooms have problems with fungi
-- When prevention fails and fungi appear despite all measures, do not hesitate to take extreme control methods including spraying the entire garden with the proper fungicide
-- Burn or otherwise destroy infected foliage — do not compost it, as spores may survive
-
-## See Also
-
-- [[cannabis-root-rot-prevention-and-treatment]] — fungal disease affecting the root system
-- [[humidity-cannabis-growing]] — environmental management
-- [[fungi-in-the-environment-plant-fungal-interactions]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]

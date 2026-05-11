@@ -88,9 +88,3 @@ homogenous mixture of fungi, nutrients, and filler. However, wheat
 gluten inhibits the growth of some white rot fungi including
 [[staycare-fungal-formulation-in-situ-bioremediation]] for
   additional formulation details
-- [[fungal-immobilization-bioreactor-systems]] for
-
-## See Also
-
-- [[bioremediation-strategies]]
-- fungal-formulation-delivery-in-situ

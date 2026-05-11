@@ -3,7 +3,7 @@ title: Honey Extraction and Processing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, animal-husbandry, processing, food, equipment]
+tags: [[homesteading]], animal-husbandry, processing, food, equipment]
 sources: []
 ---
 
@@ -12,7 +12,7 @@ sources: []
 Extracting honey is the culmination of the beekeeping season. Proper
 technique preserves honey quality, ensures food safety, and maximizes
 yield. This guide covers the full process from uncapping to bottling,
-including beeswax processing. (see [[homestead-dairy-equipment]]).
+including beeswax processing.
 
 ## When to Harvest
 
@@ -35,7 +35,7 @@ including beeswax processing. (see [[homestead-dairy-equipment]]).
 ### Bee Escape Board
 Place a bee escape (one-way maze) between the super and the brood chamber
 the night before harvest. Bees pass down through the escape but cannot
-return. Gentle but slow — requires 12-24 hours. (see [[comparison-fermented-vegetables-vs-canning]]).
+return. Gentle but slow — requires 12-24 hours.
 
 ### Bee Brush
 Brush bees off each frame manually into the hive. Fast for a few frames but
@@ -74,7 +74,7 @@ The wax capping must be removed before honey can be extracted.
 ## Extraction
 
 ### Radial Extractor
-Frames sit with the top bar pointing outward. Centrifugal force flings
+Frames sit with the [[comparison-beekeeping-basics-vs-top-bar-hive]] pointing outward. Centrifugal force flings
 honey out of both sides simultaneously. Most efficient for medium to large
 operations. Requires even frame loading.
 
@@ -140,7 +140,7 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
-off-grid method — see [[solar-oven-cooking]] for related solar energy
+off-grid method — see [[solar-oven-cooking]] for related [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
 principles.
 
 ### Uses for Beeswax

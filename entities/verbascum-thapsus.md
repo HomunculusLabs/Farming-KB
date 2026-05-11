@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "U.S. Department of Agriculture, Natural Resources Conservation Service (PLANTS Database). Verbascum thapsus L."
-  - "Foster, S. & Duke, J.A. (2014). A Field Guide to Medicinal Plants and Herbs of Eastern and Central North America. 3rd ed. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). A Field Guide to Medicinal Plants and Herbs of Eastern and Central [[guzman-psilocybin-mushrooms-north-america]]. 3rd ed. Houghton Mifflin Harcourt."
   - "Gruenwald, J., Brendler, T., & Jaenicke, C. (2000). PDR for Herbal Medicines. Medical Economics Company."
   - "Kligler, B. (2003). \"Herbal and Dietary Supplement Treatment of Anxiety.\" Primary Care Companion."
 ---
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Verbascum thapsus**, commonly known as great mullein or common mullein, is a biennial herbaceous plant in the family Scrophulariaceae (often placed in Plantaginaceae in modern taxonomy). Native to Europe, northern Africa, and temperate Asia, mullein has been naturalized across much of North America, Australia, and other temperate regions. It is one of the most widely recognized medicinal herbs in Western herbalism, prized primarily for its soothing effects on the respiratory tract. The plant is characterized by its tall, woolly flowering spike and large, fuzzy basal leaves that form a distinctive rosette in the first year of growth.
+**Verbascum thapsus**, commonly known as great mullein or common mullein, is a biennial herbaceous plant in the family Scrophulariaceae (often placed in Plantaginaceae in modern taxonomy). Native to Europe, northern Africa, and temperate Asia, mullein has been naturalized across much [[berry-growing]], Australia, and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is one of the most widely recognized [[medicinal-herbs-for-livestock]] in Western herbalism, prized primarily for its soothing effects on the respiratory tract. The plant is characterized by its tall, woolly flowering spike and large, fuzzy basal leaves that form a distinctive rosette in the first year of growth.
 
 Mullein has been used for over 2,000 years in European folk medicine. The Greek physician Dioscorides documented its use for pulmonary complaints around 70 CE, and it remained a staple in European pharmacopeias through the medieval period. Indigenous peoples of North America adopted the plant shortly after its introduction, incorporating it into their own healing traditions for coughs, colds, and wound care. Modern herbalists continue to value mullein as a safe, effective respiratory tonic.
 
@@ -59,7 +59,7 @@ The fruit is a two-valved, ovoid capsule approximately 6–8 mm long, containing
 ## Distribution and Habitat
 
 - **Native Range:** Europe (widespread), North Africa, temperate Asia (Turkey, the Caucasus, China)
-- **Naturalized Range:** North America (all continental US states and most Canadian provinces), South America, southern Africa, Australia, New Zealand, Japan
+- **Naturalized Range:** North America (all continental US states and most Canadian provinces), [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, New Zealand, Japan
 - **Habitat Preferences:** Disturbed soils, roadsides, abandoned fields, railway embankments, forest clearings, pasture margins, gravelly or sandy soils. Tolerates a wide pH range (4.5–8.0) and prefers full sun.
 - **Hardiness:** USDA Zones 3–9
 - **Invasiveness:** Listed as a noxious or invasive weed in several US states (Colorado, Hawaii) and some countries. Its massive seed production and tolerance of poor soils make it a successful colonizer.
@@ -86,49 +86,4 @@ The primary [[cotter-mushroom-nutrition-medicinal-compounds]] in Verbascum thaps
 | Flavonoids | Moderate | High (apigenin-rich) |
 | Coumarins | Low | High |
 | Iridoids | Present | Present |
-| Essential oil | Trace | Moderate |
-
-## Traditional and Modern Uses
-
-### Respiratory Applications
-
-Mullein leaf tea is the most common [[kava-traditional-preparation-ceremonial-context]] for [[cannabis-respiratory-conditions]]. The mucilaginous infusion coats and soothes irritated mucous membranes of the throat and lungs. It is used for dry, hacking coughs, bronchitis, tracheitis, laryngitis, and asthma symptoms. The flowers, steeped in olive oil to create "mullein oil," are traditionally used as ear drops for earaches and middle ear inflammation (otitis media).
-
-### Topical and Wound Care
-
-Fresh mullein leaves have been applied topically as poultices for burns, wounds, hemorrhoids, and inflammatory skin conditions. The soft woolly surface of the leaves was historically used as a makeshift bandage or wound dressing by soldiers and travelers. The plant has mild [[medicinal-mushroom-antimicrobial-properties]] attributable to its saponin and flavonoid content.
-
-### Other Traditional Uses
-
-- Diuretic tea preparations for urinary tract inflammation
-- [[cannabis-topical-applications]] for joint pain and rheumatism
-- Root preparations (less common) as a urinary astringent
-- Historical use as a fish poison (saponins stun fish in still water)
-- Dried flowering stalks dipped in tallow were used as torches (hence "torch weed")
-- The soft woolly leaves were historically used as shoe insoles and insulation
-
-## Cultivation Notes
-
-Mullein is easily grown from seed. It prefers well-drained, poor to average soils and full sun exposure. Seeds should be surface-sown in spring or autumn, as they require light for germination. The species is remarkably drought-tolerant once established. In a permaculture or medicinal herb garden, mullein serves as a [[comparison-hyperaccumulator-vs-dynamic-accumulator]], drawing minerals from deep subsoil layers with its long taproot (which can extend 1 meter or more). It is often found as a volunteer in disturbed areas and requires minimal maintenance.
-
-## Safety and Contraindications
-
-Mullein is generally regarded as safe (GRAS) for most adults when used in typical medicinal tea preparations. The fine hairs on the leaves can be irritating to the throat and digestive tract if not properly strained from tea preparations; using a fine mesh strainer or coffee filter is recommended. Mullein seeds are mildly toxic due to rotenone-like compounds and should not be consumed. There is insufficient safety data for use during pregnancy and lactation. Rare allergic skin reactions to the trichomes have been reported in sensitive individuals.
-
-## Conservation Status
-
-Verbascum thapsus is not considered at risk globally. It is listed as Least Concern by conservation authorities. Its widespread naturalization and high reproductive capacity make it one of the most common roadside plants in temperate regions worldwide. No conservation measures are needed for this species.
-
-## Similar Species
-
-- **Verbascum blattaria** (moth mullein): similar height but with smooth (hairless) leaves and white or yellow flowers with purple stamens; less mucilaginous.
-- **Verbascum olympicum** (Olympic mullein): larger, more branched flowering habit; native to Greece.
-- **Verbascum thapsiforme:** very similar appearance, distinguished by technical floral characters; found in southeastern Europe.
-- **Verbascum virgatum:** smaller stature, branching stems; native to Mediterranean region.
-
-## See Also
-
-- [[plantago-major]]
-- [[taraxacum-officinale]]
-- tinospora-cordifolia
-- [[verbena-officinalis]]
+| [[permaculture-designers-manual-essential-oil-plants]] | Trace | Moderate |

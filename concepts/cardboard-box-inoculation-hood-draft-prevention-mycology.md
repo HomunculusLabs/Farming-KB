@@ -1,6 +1,6 @@
 ---
-title: Cardboard Box Inoculation Hood and Draft Prevention in Mycology
-tags: [mycology, mushroom-cultivation, inoculation, contamination-prevention, sterile-technique, draft-control, DIY]
+title: Cardboard Box Inoculation Hood Draft Prevention Mycology
+tags: [mycology, [[mushroom-cultivation]], inoculation, contamination-prevention, sterile-technique, draft-control, DIY]
 created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
 ---
@@ -19,7 +19,7 @@ open front panel.
 ## Why Draft Prevention Matters
 
 Airborne contamination is the primary vector for failed inoculations.
-Bacterial endospores and fungal conidia are constantly present in indoor
+Bacterial endospores and [[fungal-conidia-and-spore-types]] are constantly present in indoor
 air and will settle on exposed substrate surfaces. Air currents — even
 minor ones from HVAC systems, open windows, or body movement —
 dramatically increase the rate at which these particles deposit on
@@ -62,7 +62,7 @@ movement. Close doors and windows, and turn off fans or air conditioning
 units at least 30 minutes before beginning work. The goal is to allow
 airborne particles to settle.
 
-Best practices during inoculation:
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] during inoculation:
 
 - Spray the interior and work area with disinfectant immediately before
   starting.
@@ -80,7 +80,7 @@ Best practices during inoculation:
 | Open air | None | Low | None |
 | Cardboard box hood | Minimal | Moderate | Low |
 | Still-air box (plastic tote) | Low | Moderate-high | Low |
-| Laminar flow hood | High | Very high | High |
+| [[comparison-laminar-flow-hood-vs-fruiting-chamber]] | High | Very high | High |
 | Glove box | Moderate | High | Moderate |
 
 The cardboard box hood occupies a practical middle ground. It is
@@ -88,49 +88,3 @@ significantly better than working in open air while requiring almost no
 investment. For cultivators working on a small scale, it provides a
 reasonable contamination rate that is often acceptable for learning and
 experimentation.
-
-## Limitations
-
-The cardboard box hood does not provide positive-pressure filtered air
-like a laminar flow hood. It relies solely on reducing air movement.
-Its effectiveness depends heavily on:
-
-- **Room cleanliness**: A dusty or mold-contaminated room will still
-  produce failures even with a hood.
-- **Operator discipline**: Rushing, excessive movement, or poor
-  sanitation habits negate the hood's benefits.
-- **Box maintenance**: Cardboard degrades with moisture exposure and
-  should be replaced periodically.
-- **Environmental conditions**: High humidity promotes mold growth on
-  the cardboard itself, which can become a contamination source.
-
-## Disinfectant Safety Warning
-
-The original [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide warns that alcohol and Lysol
-are highly flammable. This is critically important when working inside
-an enclosed space. Flame-sterilizing a needle inside a box that has been
-recently sprayed with alcohol-based disinfectant poses a genuine fire
-hazard. The recommended sequence is:
-
-1. Spray and disinfect the box interior.
-2. Wait for all surfaces to dry completely.
-3. Flame-sterilize tools outside the box or at the open front edge.
-4. Proceed with inoculation.
-
-## Upgrading to a Still-Air Box
-
-For cultivators who find the cardboard box effective but want improved
-results, the natural upgrade is a still-air box made from a clear
-plastic storage tote with arm holes. This provides visibility, durability,
-and easier cleaning while maintaining the same still-air principle. The
-plastic surface is also non-porous and resistant to disinfectant
-absorption, unlike cardboard.
-
-## See Also
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
-- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
-- [[sterilization-techniques-mushroom-cultivation]]
-- [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-contamination-troubleshooting]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
-- [[mushroom-fruiting-body-morphogenesis]]

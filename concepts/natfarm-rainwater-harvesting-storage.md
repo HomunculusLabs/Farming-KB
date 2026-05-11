@@ -1,7 +1,7 @@
 ---
-title: comparison-xeriscaping-guide-vs-rainwater-harvesting-systems and Storage
+title: Natfarm [[comparison-drip-irrigation-vs-rainwater-harvesting]] Storage
 created: 2026-04-28
-tags: [rainwater, water-storage, water-harvesting, permaculture, self-sufficiency]
+tags: [rainwater, water-storage, water-harvesting, [[permaculture]], self-sufficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"]
@@ -87,20 +87,3 @@ lead, which manufacturers at one time used.
 Concrete tanks are less expensive but have more metal in them in the form
 of rebar than galvanized steel tanks, and their lifespan is shorter. If the
 right concrete mix is used, they may be the safest to drink from.
-
-## Gravity-Fed Systems
-
-Gravity is the most energy-efficient way to move water. By positioning
-storage tanks at elevation, water flows to gardens and buildings without
-pumps. This principle extends throughout the [[irrigation-systems]], and swales. A dam or water
-tank at the top of a slope provides water pressure for the entire property
-below without any energy input.
-
-## Integration with Water Systems
-
-Rainwater harvesting connects to by providing
-top-up water for ponds during dry seasons. It feeds 
-when combined with household water use. can
-include rainwater collection from roof surfaces. The harvested water also
-supports [[mushroom-cultivator-harvesting-storage]]
-- [[rainwater-harvesting-systems]]

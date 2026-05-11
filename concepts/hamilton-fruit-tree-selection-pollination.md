@@ -5,25 +5,26 @@ tags: [fruit-trees, pollination, rootstocks, organic-gardening, hamilton]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---
 
 # Fruit Tree Selection, Pollination, and Rootstocks
 
-Growing fruit organically offers obvious advantages: your apples will
+Growing [[growing-soft-fruit-organically]] offers obvious advantages: your apples will
 not be drenched with insecticide or coated with preservatives, and the
 organically grown crop is usually large enough to withstand a few bird
-attacks. Geoff Hamilton provides detailed guidance on selecting,
+attacks. [[geoff-hamilton]] provides detailed guidance on selecting,
 pollinating, and planting [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] for the [[cool-climate-home-garden-mollison]].
 
 ## Growing Fruit in a Small Garden
 
 Few people have room for a large fruit plot, but even in a small
 garden there is no reason fruit cannot be grown in the ornamental
-part. Most fruit trees are very decorative, giving a show of blossoms
+part. Most [[comparison-grafting-vs-budding-fruit-trees]] are very decorative, giving a show of blossoms
 in spring followed by attractive fruit in summer and fall. Walls should
-be utilized for growing fan-trained fruit. In temperate regions you can
+be utilized for growing fan-trained fruit. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] you can
 grow peaches, nectarines, and figs on warm, south-facing walls. Pears
 and apples grow on east- and west-facing walls, and morello cherries
 and quinces on north-facing walls.
@@ -42,7 +43,7 @@ root system. Second, buy young plants; the old tale that trees take
 seven years to fruit so older is better is untrue. Young trees
 establish quickly and crop earlier than those languishing in pots.
 
-Third, buy fruit trees and bushes as bare root plants and plant in
+Third, buy fruit [[pruning-fruit-trees-and-bushes]] as bare root plants and plant in
 late fall when dormant. Bare root plants tend to be better quality and
 cheaper than container-grown plants. Take into account storage
 qualities and aim for a succession of harvesting.
@@ -64,7 +65,7 @@ using a soft camel hair brush.
 
 ## Rootstocks
 
-Research into new rootstocks and dwarf varieties means fruit trees no
+Research into new rootstocks and dwarf varieties means [[holzer-fruit-trees-no-pruning]]
 longer have to be large; you can grow trees in the smallest spaces,
 even in pots on a terrace. A rootstock is a specially selected root
 system onto which the desired variety is grafted. The rootstock
@@ -87,49 +88,3 @@ summer and fall.
 When growing fruit against a wall, plant the base at least 12 inches
 (30cm) away from the wall, which is likely the driest spot. Later the
 roots will spread away and find their own water. If buying one-year-old
-trees, staking is often unnecessary unless container-grown or on a
-very dwarfing rootstock.
-
-## Site Considerations
-
-Frost is one of the main problems. In a [[mollison-designers-sun-trap-and-frost-pocket-design]], you may be
-limited to late-flowering varieties. Strong winds destroy foliage,
-damage flowers, and discourage pollinating insects. If your site is
-exposed, erect a temporary plastic windbreak and plant a hedge nearby.
-To avoid creating a frost pocket, raise the foot of the windbreak 12
-inches off the ground and keep the bottom free of vegetation.
-
-## Government Certification
-
-In most countries, fruit is covered by government regulation to prevent
-the spread of serious diseases. If the nursery cannot guarantee their
-stock has been certified free from disease, go elsewhere. This is
-particularly important with virus diseases in strawberries and canker
-in apples and pears. Certified stock gives you the best possible start
-and reduces the likelihood of introducing problems into your garden.
-
-## Trained Fruit Forms
-
-Beyond standard trees and bushes, consider [[hamilton-pruning-and-training-fruit-trees]] into
-decorative forms. Cordons are single-stemmed trees planted at 45
-degrees, 2 to 3 feet apart, forming an edible hedge. Espaliers have a
-central stem with horizontal branches trained at regular intervals.
-Fans are trained flat against walls with branches radiating from a
-short trunk. Stepovers are single-tier espaliers only 12 inches high,
-ideal as decorative edging around the vegetable plot.
-
-## Choosing for Storage and Succession
-
-Early apples are wonderful picked fresh from the tree but will not keep
-well. Late-maturing varieties store better. Aim for a succession of
-harvesting by selecting early, mid, and late-season varieties. This
-extends the period during which you can enjoy fresh fruit and reduces
-the need for long-term storage.
-
-## See Also
-
-- [[permplant-fig-ficus-carica-fruit-tree]]
-
-- [[hamilton-pruning-and-training-fruit-trees]]
-- [[fruit-tree-pruning-training-hamilton]]
-- [[fruit-growing-guide-organic]]

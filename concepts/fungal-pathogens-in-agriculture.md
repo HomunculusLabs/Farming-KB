@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Pathogens in Agriculture
 
-Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential for sustainable agriculture. (see [[cannabis-disease-guide]]).
+Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential for sustainable agriculture.
 
 ## Major Fungal Pathogen Groups
 
@@ -68,3 +68,18 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - [[companion-planting-deterrents]] — for prevention-based approaches
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
 - [[soil-food-web-structure]] — for biological disease suppression
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
+- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
+- [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
+- [[query-what-is-the-difference-between-fungal-dominant-and-bacterial-dominant-compost-tea]]
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]

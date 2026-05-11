@@ -2,7 +2,7 @@
 title: DOC (4-Chloro-2,5-dimethoxyamphetamine)
 created: 2026-04-26
 updated: 2026-04-22
-sources: PIHKAL #64 (Alexander & Ann Shulgin)
+sources: PIHKAL #64 (Alexander & ann-shulgin)
 type: concept
 tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 ---
@@ -11,7 +11,7 @@ tags: [phenethylamine, psychedelic, amphetamine, research-chemical, dox-family]
 
 ## Overview
 
-DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine belonging to the DOx family of 2,5-dimethoxy-4-substituted amphetamines. Along with [[doi-pihkal-67]], DOC completes the trio of halo-amphetamine derivatives that Shulgin identified as being of approximately equal potency and all very long-lasting. DOC is a [[dob-pihkal-62]] (bromo), [[dob-pihkal-62]]: Approximately equal potency. Both are long-lasting DOx psychedelics, though DOB has a slightly longer duration (18-30h vs. 12-24h for DOC). DOB has been more frequently associated with overdose risk.
+DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine belonging to the DOx family of 2,5-dimethoxy-4-substituted amphetamines. Along with [[doi-pihkal-67]], DOC completes the trio of halo-amphetamine derivatives that Shulgin identified as being of approximately equal potency and all very long-lasting. DOC is a [[dob-pihkal-62]] (bromo), [[dob-pihkal-62]]: Approximately equal potency. Both are long-lasting DOx psychedelics, though DOB has a slightly longer duration (18-30h vs. 12-24h for DOC). DOB has been more frequently associated with [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]].
 - vs. [[dom-pihkal-68]]: DOC is somewhat more potent than DOM and represents the halogenated end of the DOx spectrum. DOM's methyl group produces a somewhat different character than the chloro substitution.
 
 ## Harm Reduction
@@ -21,7 +21,7 @@ DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine belo
 - Shulgin explicitly warns: "Anyone who uses this had better have 24 hours at their disposal"
 - Sleep quality is poor even 24 hours post-dose -- plan rest time accordingly
 - The chlorinated variant is less explored than DOB or DOI in the scientific literature
-- Consider [[psychedelic-harm-reduction]] and hallucinogenic-mushroom-health-risks-and-harm-reduction
+- Consider [[harm-reduction-guide]] and hallucinogenic-mushroom-health-risks-and-harm-reduction
 ## Practical Applications
 
 DOC (4-Chloro-2,5-dimethoxyamphetamine) has a range of practical applications that make it relevant to
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,19 +87,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[pihkal-doc]]

@@ -13,7 +13,7 @@ updated: 2026-05-10
 sources:
   - Tutin, T.G. (1964). "Delphinium." Flora Europaea, Vol. 1. Cambridge University Press.
   - Mshvildadze, V. et al. (2004). "Diterpenoid alkaloids from Delphinium staphisagria." Phytochemistry, 65(15), 2193-2200.
-  - Pelletier, S.W. & Djarmati, Z. (1976). "Alkaloids of Delphinium staphisagria." Journal of Organic Chemistry, 41, 1460-1463.
+  - Pelletier, S.W. & Djarmati, Z. (1976). "Alkaloids of Delphinium staphisagria." Journal of [[pericyclic-reactions-organic-chemistry]], 41, 1460-1463.
 ---
 
 ## Overview
@@ -28,13 +28,13 @@ The common name "lousewort" refers to its historical use against human lice, whi
 
 ## Taxonomy and Morphology
 
-Delphinium staphisagria L. belongs to tribe Delphineae within Ranunculaceae. The genus Delphinium comprises approximately 300 species distributed across temperate regions of the Northern Hemisphere.
+Delphinium staphisagria L. belongs to tribe Delphineae within Ranunculaceae. The genus Delphinium comprises approximately 300 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 Some taxonomists segregate the annual and biennial Consolida species from Delphinium, but molecular evidence supports retaining them within a broadly defined Delphinium. Delphinium staphisagria falls within the core Delphinium clade.
 
 The species epithet "staphisagria" derives from the Greek "staphis" (wild raisin) and "agria" (wild), referring to the grape-cluster appearance of the seed pods. The common name "stavesacre" may derive from the Italian "stafisagria."
 
-Chromosome number is 2n = 16. The species is closely related to Delphinium consolida (now Consolida regalis) but differs markedly in its robust biennial habit and toxic seed chemistry.
+Chromosome number is 2n = 16. The species is closely related to [[delphinium-consolida]] (now Consolida regalis) but differs markedly in its robust biennial habit and toxic seed chemistry.
 
 Stems are erect, stout, and covered in spreading white hairs. Basal leaves are large, 10–20 cm across, palmately divided into 5–7 deep lobes with crenate margins and pubescent surfaces.
 
@@ -42,7 +42,7 @@ Flowers are deep violet-blue, 2–3 cm across, with a distinctive spur 10–15 m
 
 Fruit is a follicle, 12–18 mm long, containing numerous dark brown to black seeds with a rough, rugose surface. Seeds are triangular-ovoid, approximately 2–3 mm long, and possess the characteristic grapelike clustering referenced in the species epithet.
 
-The seeds are the most toxic part of the plant and have been the primary focus of both historical use and modern phytochemical investigation. Their extreme bitterness provides a natural warning against accidental ingestion.
+The seeds are the most toxic part of the plant and have been the primary focus of both historical use and modern phytochemical investigation. Their extreme bitterness provides a natural warning against [[psilocybin-accidental-ingestion-australia]].
 
 ## Chemistry and Toxicity
 
@@ -58,7 +58,7 @@ Fatalities are rare in modern times due to the plant's extreme bitterness, which
 
 Topical application of crushed seeds has been used historically as a pediculicide (lice treatment), exploiting the alkaloids' neurotoxic properties against insects at concentrations tolerable to human skin.
 
-Modern phytochemical research has identified over 30 diterpenoid alkaloids from Delphinium staphisagria seeds. Several of these compounds show interesting ion-channel modulation activity, though therapeutic applications remain unexplored due to the narrow therapeutic index.
+Modern phytochemical research has identified over 30 diterpenoid alkaloids from Delphinium staphisagria seeds. Several of these compounds show interesting ion-channel modulation activity, though [[psilocybin-therapeutic-applications]] remain unexplored due to the narrow therapeutic index.
 
 All parts of the plant should be considered toxic. Gardeners handling Delphinium staphisagria should wear gloves and avoid contact with sap, which can cause skin irritation in sensitive individuals.
 
@@ -80,41 +80,10 @@ The species has naturalized sporadically in southern England and other parts of 
 
 ## Historical Use
 
-Stavesacre seeds have been documented in medical texts for over 2,500 years. Dioscorides described their use as a pediculicide and parasiticide in De Materia Medica (c. 60 CE), recommending topical application in oil or vinegar.
+Stavesacre seeds have been documented in medical texts for over 2,500 years. Dioscorides described their use as a pediculicide and parasiticide in De [[herbal-materia-medica]] (c. 60 CE), recommending topical application in oil or vinegar.
 
 The Greek physician Theophrastus mentioned the plant in his botanical writings, noting its cultivation for seed production. Roman agricultural writers including Columella and Pliny the Elder recorded its use for treating livestock parasites.
 
 Stavesacre seeds were traded throughout the medieval Mediterranean as a valuable commodity. Monasteries maintained dedicated garden beds for cultivation, and seeds were exported as far as England and Scandinavia.
 
 In medieval and Renaissance European medicine, stavesacre was a standard entry in the pharmacopoeia. It was listed in both the London and Edinburgh Pharmacopoeias as an external treatment for lice and scabies through the 18th century.
-
-Shakespeare referenced stavesacre in The Tempest ("the seeds of stavesacre"), indicating the plant was well-known to Elizabethan audiences. It was one of many toxic Mediterranean plants that entered the English herbal tradition through classical texts.
-
-Use declined in the 19th century with the advent of synthetic insecticides and a growing awareness of the risks of applying neurotoxic alkaloids to human skin. By the early 20th century, stavesacre had largely disappeared from Western pharmacopoeias.
-
-## Cultivation
-
-Delphinium staphisagria is rarely cultivated in modern gardens due to its extreme toxicity and biennial habit. When grown, it requires a warm, well-drained position in full sun with neutral to alkaline soil.
-
-Its primary horticultural interest lies in botanical and historical garden collections rather than ornamental display. The deep violet-blue flowers are attractive but do not compare with the showy hybrids of Delphinium elatum.
-
-Seeds should be sown in autumn in situ or in deep pots, as the species develops a long taproot that resists transplanting. Germination is typically irregular, requiring 4–8 weeks at cool temperatures (10–15°C).
-
-Seed viability declines rapidly after 1–2 years of storage. Fresh seed collected from cultivated plants germinates at approximately 50–70% under optimal conditions.
-
-Plants form a basal rosette in their first year, producing the tall flowering stem in the second year. After setting seed, the plant typically dies, though occasional short-lived perennial forms occur in cultivation.
-
-Warning: All parts of this plant are highly toxic and should never be ingested. Seeds should be handled with gloves and kept away from children and pets.
-
-## See Also
-
-- [[delphinium-elatum]]
-- [[aconitum-napellus]]
-- [[ranunculus-acris]]
-- [[helleborus-niger]]
-- [[clematis-vitalba]]
-- [[anemone-coronaria]]
-- [[thalictrum-aquilegiifolium]]
-- [[pulsatilla-vulgaris]]
-- [[adonis-vernalis]]
-- [[eranthis-hyemalis]]

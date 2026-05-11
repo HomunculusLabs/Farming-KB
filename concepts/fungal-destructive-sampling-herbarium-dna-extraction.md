@@ -2,17 +2,17 @@
 
 ## Overview
 
-Herbarium specimens are increasingly used as sources of DNA for molecular phylogenetics, population genetics, and barcoding studies. Unlike morphological studies that can often be conducted non-destructively, molecular sampling inherently requires removal and destruction of specimen material. Herbaria have developed specific policies to balance scientific utility with specimen preservation.
+Herbarium specimens are increasingly used as sources of DNA for molecular phylogenetics, [[aspergillus-fumigatus-population-genetics]], and barcoding studies. Unlike morphological studies that can often be conducted non-destructively, molecular sampling inherently requires removal and destruction of specimen material. Herbaria have developed specific policies to balance scientific utility with specimen preservation.
 
 ## Why Herbarium Specimens Are Used for Molecular Studies
 
 ### Advantages Over Fresh Material
 
 Herbarium specimens enable research that would otherwise be impossible:
-- Access to broad geographic ranges without field collection
+- Access to broad geographic ranges without [[psilocybin-mushroom-field-collection-techniques]]
 - Temporal depth — specimens collected decades or centuries ago provide historical baselines
 - Rare, endangered, or extinct species represented in collections
-- Vouchered material with verified taxonomic identification
+- Vouchered material with verified [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - Reproducibility — the same specimen can be re-extracted by different researchers
 
 ### Limitations
@@ -20,11 +20,11 @@ Herbarium specimens enable research that would otherwise be impossible:
 - DNA degrades over time, especially in tropical collections and poorly preserved specimens
 - PCR amplification of older specimens often yields short fragments only
 - Chemical treatments (mercuric chloride, formaldehyde) used historically can inhibit PCR
-- Contamination risk from handling and storage conditions
+- Contamination risk from [[coleman-post-harvest-handling-and-storage]] conditions
 
 ## Standard Destructive Sampling Protocols
 
-The protocols described in *Biodiversity of Fungi* establish seven key requirements:
+The protocols described in *[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]* establish seven key requirements:
 
 ### 1. Prior Consent
 
@@ -79,7 +79,7 @@ Non-destructive or minimally destructive methods should be considered:
 - Surface swabbing of specimens to capture spores or hyphal fragments
 - Photographic documentation as an alternative to physical removal
 - Scanning electron microscopy of small features without sectioning
-- Chemical extraction methods that preserve specimen integrity
+- Chemical [[arbuscular-mycorrhizal-spore-extraction-methods]] that preserve specimen integrity
 
 ## Special Considerations for Fungi
 
@@ -88,62 +88,3 @@ Non-destructive or minimally destructive methods should be considered:
 Fungal herbarium specimens present unique challenges:
 - Fruiting bodies are often small and fragile, leaving little material for both morphological reference and molecular extraction
 - The same specimen may contain both fertile (spore-producing) and sterile tissue — sterile tissue should be sampled preferentially when possible
-- Polypores and other tough specimens offer more material for sampling than delicate agarics
-- Microfungi preserved on substrates (leaves, wood) require careful selection of sampling sites
-
-### DNA Quality from Preserved Specimens
-
-- Dried specimens generally yield better DNA than those preserved in liquid
-- Specimens dried rapidly at moderate temperatures preserve DNA best
-- Specimens stored in high humidity or tropical conditions may be too degraded for useful extraction
-### Age alone is not the primary determinant of DNA quality — preservation method matters more
-
-### Pleomorphic Fungi
-
-Many fungi have multiple sporing stages (anamorph and teleomorph) that were historically given separate names. Molecular sampling from herbarium specimens has been instrumental in linking these forms:
-- DNA from an anamorph specimen can be matched to a teleomorph through sequence comparison
-- This resolves long-standing nomenclatural confusion
-- Herbarium specimens that preserve both stages of a pleomorphic fungus are especially valuable for molecular work
-
-### Linking Molecular Data to Taxonomic Identity
-
-A critical concern for fungal systematics:
-- The morphological identity of the specimen must be verified before DNA extraction
-- DNA sequences should be compared against existing databases to confirm identity
-- Discrepancies between morphological and molecular identification should be documented
-- These discrepancies may represent cryptic species, misidentifications, or contamination
-
-## Institutional Policy Development
-
-Herbaria developing destructive sampling policies should consider:
-- Establishing clear written guidelines available to all potential users
-- Designating specific staff responsible for approving requests
-- Creating standardized forms for sampling requests and annotations
-- Maintaining a database of all destructive sampling events linked to specimen records
-- Periodically reviewing and updating policies as molecular techniques evolve
-
-### Ethical Framework
-
-The guiding principle should be that destructive sampling is justified when:
-- The scientific value of the proposed study outweighs the loss of specimen material
-- The study cannot be accomplished with fresh material
-- The researcher has demonstrated competence in the proposed molecular methods
-- The resulting data will be permanently accessible through public databases
-- The specimen will remain useful for future morphological study after sampling
-
-### Future Directions
-
-As sequencing technologies continue to improve:
-- Less starting material will be required, reducing the impact on specimens
-- Whole-genome sequencing from herbarium specimens may become routine
-- Metagenomic approaches could reduce the need for targeted sampling
-- Non-destructive DNA extraction methods are under active development
-- Herbaria should adapt policies to take advantage of these advances while maintaining specimen protection standards
-
-## See Also
-
-- [[fungal-specimen-preparation-preservation-herbarium-storage]]
-- [[fungal-specimen-collection-herbarium-management]]
-- [[fungal-type-specimens]]
-- [[fungal-biodiversity-herbarium-collections]]
-- [[fungal-electronic-specimen-catalogues]]

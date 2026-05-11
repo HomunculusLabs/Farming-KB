@@ -49,7 +49,7 @@ Flowers are small, pale yellow to cream-colored, borne in axillary racemes. The 
 
 Yeheb is endemic to the Horn of Africa, with its natural range restricted to southern Somalia, the Ogaden region of eastern Ethiopia, and possibly bordering areas of northeastern Kenya. It occurs at elevations between 100 and 500 meters.
 
-The species inhabits semi-desert and arid bushland on sandy or stony soils, often associated with *Acacia*-*Commiphora* woodland and *Aloe* scrub. It is adapted to extreme heat and prolonged drought, with an optimal rainfall range of 150–300 mm annually.
+The species inhabits semi-desert and arid bushland on sandy or stony soils, often associated with *Acacia*-*Commiphora* woodland and *Aloe* scrub. It is adapted to [[extreme-heat-preparedness]] and prolonged drought, with an optimal rainfall range of 150–300 mm annually.
 
 Wild populations have declined dramatically over the past century. Collection of seeds for food has intensified, and overgrazing by livestock has reduced natural regeneration. The species' fragmented distribution makes it particularly vulnerable to local extinction.
 
@@ -67,7 +67,7 @@ Seeds are typically roasted or boiled before consumption. Raw seeds are reported
 
 The species fixes atmospheric nitrogen through root-associated rhizobial symbiosis, though [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates have not been quantified under field conditions. Its deep root system likely contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from deep soil horizons.
 
-Yeheb provides browse for livestock, particularly camels and goats, during the dry season when other forage is scarce. However, excessive browsing by domestic animals has been identified as a major threat to natural regeneration and population sustainability.
+Yeheb provides browse for livestock, particularly camels and goats, during the dry season when other forage is scarce. However, excessive browsing by [[permaculture-domestic-animals]] has been identified as a major threat to natural regeneration and population sustainability.
 
 ## Conservation Status
 
@@ -75,7 +75,7 @@ The IUCN Red List classifies *C. edulis* as Endangered. The primary threats are 
 
 No significant ex situ conservation collections or domestication programs currently exist for yeheb. A few botanical gardens maintain living specimens, but comprehensive germplasm conservation is lacking. The species has been identified as a priority for conservation action by several international organizations.
 
-Research into [[synthetic-log-cultivation-methods-guide]] has been limited but promising. Preliminary trials in Somalia and Ethiopia suggest that yeheb can be propagated from seed and established in managed plantations, though growth rates are slow and seed production may take several years.
+Research into [[synthetic-log-cultivation-methods-guide]] has been limited but promising. Preliminary trials in Somalia and Ethiopia suggest that yeheb can be propagated from seed and established in managed plantations, though [[coleman-sunlight-and-winter-crop-growth-rates]] are slow and [[cannabis-controlled-pollination-seed-production]] may take several years.
 
 ## Ethnobotanical Use
 
@@ -83,32 +83,8 @@ Yeheb has been a staple food for Somali pastoralist communities for centuries. T
 
 Somali communities value yeheb for both subsistence and trade. Dried seeds can be stored for extended periods, making them a reliable famine reserve. The species holds significant cultural importance and is referenced in Somali poetry and oral traditions as a symbol of resilience.
 
-Leaves and young shoots are occasionally browsed by livestock, and the red pigment (cordeauxiaquinone) from fallen leaves has been used as a natural dye. The wood, though small in dimension, has been used for fuel and tool handles.
+Leaves and young shoots are occasionally browsed by livestock, and the red pigment (cordeauxiaquinone) from fallen leaves has been used as a [[natural-dye-plants]]. The wood, though small in dimension, has been used for fuel and tool handles.
 
 ## Chemistry
 
 The most notable chemical constituent of *C. edulis* is cordeauxiaquinone, a red anthraquinone pigment found in the leaves, stems, and seed coats. This compound leaches from fallen foliage and accumulates on the soil surface, creating characteristic red staining beneath established plants.
-
-Seeds contain a lipid fraction rich in oleic acid (approximately 40% of total fatty acids) and linoleic acid (approximately 30%). The relatively high unsaturated fat content contributes both to [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and susceptibility to oxidative rancidity during storage.
-
-Tannins and other polyphenolic compounds are present in the seed coat, contributing to the astringent taste of raw seeds. Traditional roasting effectively reduces these anti-nutritional factors while enhancing flavor development through Maillard reactions.
-
-## Related Species
-
-As a monotypic genus, *C. edulis* has no congeners. However, it shares ecological and nutritional similarities with other underutilized African food legumes that produce edible seeds in arid environments.
-
-* **Tylosema esculentum** (marama bean) — another arid-zone African legume producing large, nutritious underground seeds. Native to southern Africa and similarly threatened by over-harvesting.
-* **Pachyrhizus erosus** (jícama) — a leguminous vine producing edible tuberous roots, cultivated in tropical regions. Shares the high-yield underground storage strategy.
-* **Lathyrus tuberosus** (tuberous pea) — a European legume producing edible tubers, historically important as a famine food and now considered underutilized.
-
-Together, these species represent a category of neglected and underutilized crop species (NUS) that hold potential for climate-resilient food systems in marginal environments.
-
-## See Also
-
-- [[pachyrhizus-erosus]]
-- [[lathyrus-tuberosus]]
-- [[psophocarpus-tetragonolobus]]
-- [[azadirachta-indica]]
-- [[acacia]]
-- [[lablab-purpureus]]
-- [[vigna-unguiculata]]

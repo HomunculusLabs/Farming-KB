@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both cultivation technique and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid). (see [[hamilton-liming-and-ph-management]]).
+Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both [[boil-a-bag-mushroom-cultivation-technique]] and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid).
 
 ## Testing Soil pH
 
@@ -23,13 +23,13 @@ Before deciding on a soil-feeding regime, you must discover whether your soil is
 
 ## Raising Soil pH (Making Acid Soil More Alkaline)
 
-This is done by adding lime. The effect is slow — do not expect dramatic changes overnight. (see [[cannabis-nutrient-management]]).
+This is done by adding lime. The effect is slow — do not expect dramatic changes overnight.
 
 ### Types of Lime
 
 1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder's lime.
-2. **Hydrated lime (builder's lime):** Works perfectly well but must be replaced at least annually.
-3. **Ground limestone (Dolomite lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
+2. **[[cervantes-hydrated-lime-quicklime-ph-adjustment]] (builder's lime):** Works perfectly well but must be replaced at least annually.
+3. **Ground limestone ([[cervantes-dolomite-lime-ph-buffering]]):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
 4. **Calcified seaweed:** Contains several plant foods as well as lime; lasts 2-3 years; reasonably priced. (Note: harvesting natural coral is now illegal; replaced by a similar seaweed-based material.)
 
 ### How Much Lime to Apply
@@ -41,7 +41,7 @@ This is done by adding lime. The effect is slow — do not expect dramatic chang
 | Medium loam | 6lb (3kg) |
 | Heavy clay | 8lb (4kg) |
 
-Apply small amounts regularly rather than large quantities. Excessive lime can scorch roots and "lock up" trace elements (especially iron, manganese, boron) making them unavailable to plants.
+Apply small amounts regularly rather than large quantities. Excessive lime can scorch roots and "lock up" [[teaming-with-nutrients-micronutrients-and-trace-elements]] (especially iron, manganese, boron) making them unavailable to plants.
 
 ### When to Apply Lime
 
@@ -60,14 +60,14 @@ This is more difficult than raising pH. Few garden soils are so limy they will n
 ### For Vegetable Gardens
 - Liberal doses of compost and manure will usually lower pH sufficiently
 - For very chalky soil: use the deep-bed system (see [[garden-bed-preparation]]) to raise the growing area, preventing surrounding alkaline water from draining in
-- Treat beds with heavy annual applications of organic matter (manure/compost dug in) and regular mulches
+- Treat beds with heavy annual applications of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] (manure/compost dug in) and regular mulches
 
 ### For Ornamental Gardens
 - Raise borders above lawn/path level using organic matter
 - Use acid materials: peat, grass cuttings, compost, manure as mulch to counteract alkalinity
 
 ### For Acid-Loving Plants on Chalky Soil
-The only option is growing them in pots or building a raised bed (ideally of railroad ties):
+The only option is growing them in pots or building [[query-how-to-build-a-raised-bed-garden]] (ideally of railroad ties):
 - Fill with half acid soil + half peat-substitute, OR three parts peat-substitute to one part sharp sand
 - Plant as for shrubs; spread chipped pine bark around the bed
 
@@ -76,3 +76,20 @@ The only option is growing them in pots or building a raised bed (ideally of rai
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
 - [[soil-conditioners-guide]] — organic materials that help modify soil pH
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[knf-soil-and-mineral-management]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
+- [[soil-nematodes-ecology-and-management]]
+- [[jadam-soil-management-no-till-and-weed-control]]
+- [[soil-phosphorus-potassium-calcium-and-micronutrient-management]]

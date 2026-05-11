@@ -89,33 +89,5 @@ are the most powerful instruments for the study of the mind that are possible
 to conceive, and yet they often work in academia and must frantically try to
 ignore the fact that the answer has been placed in our hands.
 
-McKenna compares this situation to the sixteenth century when the telescope was
-invented and shattered the established paradigm of the heavens. The 1960s
-proved that we are not wise enough to take the psychedelic tools into our hands
-without a social and intellectual transformation. This transformation must begin
-now with each of us.
-
-## The Octopus as Model
-
-Nature has offered a compelling model for the shamanic task of resacralization
-and self-transformation. The totemic animal image for the future human to model
-is the octopus, because cephalopods have perfected a form of communication that
-is both psychedelic and telepathic — an inspiring model for human communications
-of the future.
-
-An octopus becomes its own linguistic intent through color changes, dots,
-blushes, and traveling bars that move across its surfaces. The mind and the
-body of the octopus are the same and hence equally visible. The octopus wears
-its language like a kind of second skin. Octopi can hardly not communicate.
-Their use of "ink" clouds to conceal themselves may indicate that this is the
-only way they can have anything like a private thought.
-
-McKenna connects this to [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s concept of a more perfect Logos — an
-indwelling of the Goddess, not heard but beheld. Like the octopi, our destiny
-is to become what we think, to have our thoughts become our bodies and our
-bodies become our thoughts.
-
 ## See Also
-
-- McKenna   [[mckenna-dmt-experience-and-hyperspace]] and Hyperspace
-- [[set-and-setting-psychedelic-therapy-framework]]
+- [[mckenna-food-gods-dmt-experience-hyperspace]]

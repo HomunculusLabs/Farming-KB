@@ -88,38 +88,3 @@ Selfing is the ability for a plant to produce seeds without the aid of
 another plant. This refers to hermaphrodite plants that self pollinate.
 There is no [[cannabis-gene-pool-preservation-acclimatization-clarke]] or population with regards to hermaphrodites since
 the only pollen used is what the plant generates itself. Both male and
-female flowers are located on the same plant.
-
-It is nearly impossible for a hermaphrodite to create any male only
-plants. A hermaphrodite may create female only seeds and hermaphrodite
-seeds. However, the female only seeds may carry the hermaphrodite trait,
-meaning future generations could also turn hermaphrodite under stress.
-This genetic instability is why most serious breeders avoid using
-hermaphrodite plants in their programs.
-
-## Prevention and Management
-
-The best way to prevent hermaphroditism is to minimize plant stress
-throughout the grow cycle. Key prevention strategies include waiting for
-pre flowers to appear before switching to 12/12, maintaining a completely
-dark flowering period with no light leaks, keeping temperature and
-humidity stable, and providing proper nutrition without extremes.
-
-If a hermaphrodite is detected, the standard practice is to remove the
-plant immediately to prevent pollen from contaminating the rest of the
-crop. If only a few male flowers are found early, some growers carefully
-pluck them off with tweezers, but this is risky as unseen pollen sacs may
-already be developing.
-
-## Summary
-
-Hermaphroditism is a stress induced survival mechanism that can devastate
-sinsemilla crops. The plant develops both male and female organs in a last
-ditch attempt at reproduction. Prevention through proper environmental
-control and timely flowering induction is far more effective than trying
-to manage hermies after they appear. Any detected hermaphrodite should be
-removed promptly to protect the rest of the grow.
-
-## See Also
-- [[greg-green-npk-and-nutrient-deficiency]]
-- [[greg-green-spider-mites-and-common-pests]]

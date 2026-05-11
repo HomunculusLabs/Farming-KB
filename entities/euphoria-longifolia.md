@@ -10,9 +10,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ang H.H., Cheang H.S. (2001). "Effects of Eurycoma longifolia Jack on sexual qualities in middle-aged male rats." Phytomedicine.
-  - Bhat R., Karim A.A. (2010). "Tongkat Ali (Eurycoma longifolia Jack): a review on its ethnobotany and pharmacology." Indian Journal of Pharmacology.
-  - Talbott S.M., Talbott J.A., George A., Pugh M. (2013). "Effect of Tongkat Ali on stress hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition.
+  - Ang H.H., Cheang H.S. (2001). "Effects of eurycoma-longifolia Jack on sexual qualities in middle-aged male rats." Phytomedicine.
+  - Bhat R., Karim A.A. (2010). "Tongkat Ali ([[eurycoma-longifolia]] Jack): a review on its ethnobotany and pharmacology." Indian Journal of Pharmacology.
+  - Talbott S.M., Talbott J.A., George A., Pugh M. (2013). "Effect of Tongkat Ali on [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition.
   - Low B.S., Das P.K., Chan K.L. (2013). "Standardized quassinoid-rich Eurycoma longifolia extract improved sperm quality." Evidence-Based Complementary and Alternative Medicine.
   - Chan K.L., Choo C.Y., Abdullah N.R., Ismail Z. (2004). "Sexual arousal in sexually sluggish old male rats after oral administration of Eurycoma longifolia Jack." Journal of Basic and Applied Sciences.
 created: 2026-04-28
@@ -87,40 +87,3 @@ Seedlings require 6–12 months in nursery conditions before field transplanting
 Root harvest typically begins at 4–5 years of age, with optimal bioactive compound accumulation reported at 5+ years.
 
 The plant grows slowly in shade conditions (0.5–1 cm stem diameter per year) but responds to moderate light with accelerated growth.
-
-Current cultivation efforts in Malaysia use [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] micropropagation to supplement wild harvests.
-
-Plant spacing of 1 × 2 meters is recommended, with [[hamilton-composting-and-organic-matter-management]] amendments and mulching to maintain soil moisture.
-
-## Ethnobotany
-
-In Malaysian traditional medicine, the root decoction is consumed as a general tonic for postpartum recovery, fever, fatigue, and sexual dysfunction.
-
-Indonesian traditional practitioners (balian) use tongkat ali as a component of *jamu* preparations for male vitality.
-
-Vietnamese traditional medicine employs the root for treating malaria, digestive complaints, and as a postpartum restorative.
-
-The wood and bark are sometimes used in folk remedies for wounds, ulcers, and as an antipyretic.
-
-Commercial preparations include root powder, standardized extracts (typically 100:1 or 200:1 ratios), capsules, and tinctures.
-
-Daily dosages in supplementation typically range from 200–400 mg of a standardized root extract containing 1–2% eurycomanone.
-
-## Legal Status
-
-The plant is not a controlled substance in any major jurisdiction.
-
-Malaysia has implemented export regulations and sustainable harvesting guidelines to protect wild populations from over-collection.
-
-CITES Appendix II listing has been proposed but not yet enacted as of 2025.
-
-## See Also
-
-- [[eurycoma-longifolia]]
-
-- [[piper-methysticum]]
-- [[salvia-officinalis]]
-- [[withania-somnifera]]
-- [[symphytum-officinale]]
-- [[food-forest]]
-- [[chop-and-drop]]

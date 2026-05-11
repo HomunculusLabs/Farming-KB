@@ -1,5 +1,5 @@
 ---
-title: Goose duck-keeping-guide-detailed
+title: Goose Keeping Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Geese are versatile livestock for the homestead, serving as grazers, guardians, egg producers, and meat birds. They are low-maintenance compared to many other livestock and can live entirely off pasture.
 
@@ -20,7 +20,7 @@ Geese provide multiple functions:
 
 - **Weed and [[mollison-geese-grass-control-and-integrated-poultry]]**: They eat grass and weeds while leaving crops and mulch alone
 - **Soil fertilization**: Their droppings fertilize the land as they graze
-- **Predator protection**: Geese act as watchdogs — alert and somewhat aggressive toward intruders
+- **[[fukuoka-natural-predator-protection]]**: Geese act as watchdogs — alert and somewhat aggressive toward intruders
 - **Eggs and meat**: Provide food for the homestead
 - **Feathers**: Traditional use for pillows, bedding, and writing quills
 
@@ -28,7 +28,7 @@ Geese should only be allowed into well-established areas so they do not squash y
 
 ## Grazing and Space Requirements
 
-- **Stocking rate**: 7 geese per acre when over 8 weeks old, grazing until spring sprouts appear
+- **[[savory-stock-density-vs-stocking-rate]]**: 7 geese per acre when over 8 weeks old, grazing until spring sprouts appear
 - **Fencing**: At least 3 feet high around the field to prevent access to other gardens
 - **Grazing season**: Let geese graze until spring when new sprouts emerge
 - **Pasture living**: Geese can live entirely off grass pasture, and unlike ducks, they eat older grass
@@ -88,18 +88,3 @@ Geese should only be allowed into well-established areas so they do not squash y
 
 - **Frequency**: After each molting cycle
 - **Method**: Clip 5 inches off the feathers of one wing only
-- **Caution**: Be careful not to clip the wing itself or clip during active molting — permanent injury or death can result
-- **Handling**: Pick geese up backwards with the head facing toward your back and wings pinned under your arm
-
-## Safety Considerations
-
-- Geese can become dangerous if not handled regularly — a long-kept goose can become too big to handle safely
-- Meat geese are butchered before they reach this size
-- An irritated goose can bite your face — always approach with caution
-
-## Related Topics
-
-- [[duck-keeping]] — related waterfowl care
-- [[pig-keeping-guide]] — other homestead livestock
-- [[knf-livestock-chicken-house-natural-farming]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]

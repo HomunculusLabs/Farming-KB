@@ -88,32 +88,3 @@ When the grain substrate is fully colonized, the casing is applied:
    plastic tray (1-litre disposable trays work well).
 2. Break up any large lumps using the clean rim of the jar.
 3. Level the grain surface evenly.
-4. Using a large spoon and fork, cover the grain with a thin layer
-   (1.5-2.0 cm or approximately 0.5-0.75 inches) of casing soil.
-5. Try to keep the casing surface even while maintaining a slightly
-   rough texture with small valleys and hills. This roughness
-   creates microclimates that promote even pinning.
-6. Cover the tray with tin foil and place in a clean location at
-   20-25°C.
-
-Within a few days, mycelium will be visible growing through the
-casing soil. The timing of exposure to air and light to initiate
-fruiting depends on the strain — some fruit earlier and more
-readily than others.
-
-## Moisture Management During Fruiting
-
-The casing must never be allowed to dry out during the fruiting
-cycle. Daily misting with clean water is essential. After a flush
-of mushrooms is picked, watering should be increased because the
-maturing mushrooms pull significant moisture from the casing soil.
-Developing an intuitive sense for watering frequency is more
-valuable than following rigid schedules, as environmental
-conditions (temperature, humidity, airflow) affect evaporation
-rates.
-
-## See Also
-
-- [[mushroom-inoculation-techniques]]
-- [[sclerotia-formation-psilocybe]]
-- [[mushroom-fruiting-environment]]

@@ -37,7 +37,7 @@ The root system consists of fibrous roots and a short rhizome. Cultivated variet
 
 C. japonica is native to East Asia, occurring naturally in Japan, Korea, and eastern China. It has been naturalized in parts of [[psilocybin-north-america-pacific-northwest]] and Europe as an ornamental and escapee from cultivation.
 
-The species prefers moist, shaded environments in forests, along stream banks, and in mountain valleys. It thrives in rich, well-draining loam soils with high organic matter content.
+The species prefers moist, shaded environments in forests, along stream banks, and in mountain valleys. It thrives in rich, well-draining loam soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content.
 
 Optimal growth occurs at temperatures between 15–25°C. The plant is hardy to approximately -10°C and can tolerate mild frost, though heavy freezes kill above-ground foliage.
 
@@ -51,7 +51,7 @@ The leaves and stems are added to soups, noodle dishes, and salads, typically as
 
 Three main cultivated forms exist: green-stemmed (*midori-mitsuba*), white-stemmed (*shiro-mitsuba*), and root-producing (*ne-mitsuba*). White-stemmed varieties are the most commercially important.
 
-Nutritional analysis shows mitsuba is rich in vitamin C, β-carotene, and potassium. The herb also contains significant amounts of calcium, iron, and dietary fiber per 100 g fresh weight.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows mitsuba is rich in vitamin C, β-carotene, and potassium. The herb also contains significant amounts of calcium, iron, and dietary fiber per 100 g fresh weight.
 
 ## Bioactive Compounds
 
@@ -71,7 +71,7 @@ Commercial production uses shade structures or greenhouse cultivation to maintai
 
 Harvesting begins approximately 60–80 days from sowing when plants reach 20–30 cm height. The cutting-and-coming-again method allows multiple harvests from a single planting.
 
-Common pests include aphids, leaf miners, and slugs. Fungal diseases such as [[cervantes-powdery-mildew-prevention-treatment]] and downy mildew can affect plants under humid conditions with poor air circulation.
+Common pests include aphids, leaf miners, and slugs. [[duggar-mushroom-insect-pests-and-fungal-diseases]] such as [[cervantes-powdery-mildew-prevention-treatment]] and downy mildew can affect plants under humid conditions with poor air circulation.
 
 ## Traditional and Modern Uses
 
@@ -83,31 +83,8 @@ Modern herbal practitioners sometimes use mitsuba leaf extracts as a mild anti-i
 
 ## Ecology and Companion Planting
 
-In forest ecosystems, C. japonica occupies the herbaceous understory layer beneath deciduous canopy trees. It contributes to soil stabilization along stream banks and moist slopes.
+In [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], C. japonica occupies the herbaceous understory layer beneath deciduous canopy trees. It contributes to soil stabilization along stream banks and moist slopes.
 
 The small white flowers attract a variety of pollinators, including small bees, hoverflies, and beetles. Umbelliferous flowers are particularly valuable for supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations.
 
-As a companion plant in vegetable gardens, mitsuba provides ground cover and may help deter certain pests. Its shallow root system does not compete aggressively with deeper-rooted crops.
-
-The plant serves as a larval food source for several species of swallowtail butterflies in its native range. This ecological role supports broader biodiversity in cultivated and semi-wild areas.
-
-## Related Species
-
-The genus Cryptotaenia contains approximately three species. C. japonica is the most widely cultivated, while C. canadensis (honewort) is native to [[polypore-fungi-eastern-north-america]] America.
-
-C. canadensis is sometimes confused with C. japonica but can be distinguished by its more open umbels and narrower leaflets. The American species has a milder flavor and is less commercially important.
-
-A third species, C. elegans, occurs in Madeira and the Canary Islands. It is rarely cultivated outside its native range and has received minimal phytochemical investigation.
-
-Interspecific hybridization between C. japonica and C. canadensis has been reported in garden settings. Hybrids show intermediate morphology and variable fertility.
-
-## See Also
-
-- [[perilla-frutescens]]
-- [[apium-graveolens]]
-- [[angelica-archangelica]]
-- [[foeniculum-vulgare-entity]]
-- [[coriandrum-sativum]]
-- [[mentha-spicata]]
-- [[thymus-vulgaris-entity]]
-- [[rosmarinus-officinalis-entity]]
+As a companion plant [[maintaining-organic-matter-in-vegetable-gardens]], mitsuba provides [[natural-ground-cover-and-straw-mulching]] may help deter certain pests. Its shallow root system does not compete aggressively with deeper-rooted crops.

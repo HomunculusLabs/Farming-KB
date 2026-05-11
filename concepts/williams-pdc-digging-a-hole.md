@@ -87,38 +87,3 @@ grade, confirming soil conditions, and providing material for berms and swales.
 Before you ever dig a hole you should know what you are going to do with the
 material that comes out. The possibilities are limited only by your own
 imagination, and it all began with digging a humble little hole.
-
-Clay-rich subsoil can be directed toward cob oven construction, earthen
-plaster, or pond sealing. Sandy loam topsoil can be stockpiled for garden
-beds and nursery areas. Rocky material can become drainage layers or gabion
-fill. Gravel can serve as pathways or French drain components. Every material
-has a use if the designer has planned for it in advance.
-
-## Safety and Physical Awareness
-
-The humble little hole is also one of the great causes of physical injury.
-Digging has torn back muscles, torn ligaments, twisted ankles, and caused
-numerous shovel injuries. Shovel edges can slice deeply and crack skulls. You
-must be very aware of your body, surroundings, and movements.
-
-You should never take one second for granted while shoveling, because it only
-takes one second to get seriously hurt. Proper technique, appropriate tools,
-and constant awareness are essential at all times. Warm up before digging,
-use your legs instead of your back, and take regular breaks during extended
-excavation projects.
-
-## Health Benefits
-
-Digging a hole is also great exercise. Regular shoveling builds strength and
-fitness. As long as proper form and safety precautions are maintained, the
-physical labor of [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] contributes to personal health and
-well-being. The connection between physical work, ecological design, and
-personal health is one that permaculture embodies naturally through its
-emphasis on meaningful manual labor and connection to the land.
-
-## See Also
-
-- [[williams-pdc-soils]]
-- [[williams-pdc-rain-water-harvesting]]
-- [[williams-pdc-earthworks]]
-- [[williams-pdc-stacking-functions-and-system-integration]]

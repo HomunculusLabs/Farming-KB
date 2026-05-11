@@ -22,11 +22,11 @@ Zornia latifolia is a perennial herbaceous plant in the family Fabaceae, native 
 
 The plant contains beta-carboline alkaloids, including harmine and harmaline, which act as reversible monoamine oxidase inhibitors (MAOIs). These compounds are responsible for the mild psychoactive and sedative effects reported by users.
 
-Zornia latifolia is among the relatively few known psychoactive legumes, placing it in a category with other beta-carboline-containing Fabaceae such as Justicia pectoralis and Banisteriopsis caapi (Malpighiaceae). Its traditional use in Brazil represents an independent discovery of MAOI-containing plants.
+Zornia latifolia is among the relatively few known psychoactive legumes, placing it in a category with other beta-carboline-containing Fabaceae such as [[justicia-pectoralis]] [[ayahuasca-and-banisteriopsis-caapi]] (Malpighiaceae). Its traditional use in Brazil represents an independent discovery of MAOI-containing plants.
 
 Despite its ethnobotanical significance, the species has received relatively little scientific attention compared to other psychoactive plants from the same region. Most published information about its chemistry and effects comes from a small number of ethnobotanical surveys and preliminary phytochemical studies.
 
-The plant's mild effects and limited geographic distribution of use have contributed to its relative obscurity in the global ethnopharmacological literature.
+The plant's mild effects and limited [[geographic-distribution-of-psilocybe-species]] use have contributed to its relative obscurity in the global ethnopharmacological literature.
 
 ## Taxonomy
 
@@ -60,13 +60,13 @@ Zornia latifolia is an erect to decumbent perennial herb growing 20 to 80 centim
 
 The leaves are compound, with 2 leaflets per leaf (unifoliolate appearance), a characteristic feature of the genus Zornia. The leaflets are oblong to elliptic, 2 to 6 centimeters long and 1 to 3 centimeters wide, with entire margins and a short pointed tip (mucronate apex). The upper leaf surface is green and sparsely hairy, while the lower surface is paler with more pronounced pubescence along the veins.
 
-The inflorescences are axillary, bearing 1 to 3 small yellow flowers. The flowers are papilionaceous, typical of the Faboideae subfamily, with a standard petal, two wing petals, and a keel formed by two fused petals. Flowering occurs throughout the year in tropical climates.
+The inflorescences are axillary, bearing 1 to 3 small yellow flowers. The flowers are papilionaceous, typical of the Faboideae subfamily, with a standard petal, two wing petals, and a keel formed by two fused petals. Flowering occurs throughout the year in [[fukuoka-natural-farming-tropical-climates]].
 
 The fruit is a lomentum (segmented legume) consisting of 2 to 6 articulating segments, each approximately 5 to 8 millimeters long. Each segment contains a single seed and breaks apart at maturity, facilitating seed dispersal by animals and water. The segments are covered with small hooked hairs that aid in epizoochory (attachment to animal fur).
 
 ## Distribution and Habitat
 
-Zornia latifolia is native to tropical and subtropical regions of the Americas, with a distribution extending from southern Mexico through Central America and the Caribbean into South America. In South America, the species is found throughout Brazil, Colombia, Venezuela, the Guianas, Ecuador, Peru, Bolivia, and Paraguay.
+Zornia latifolia is native to tropical and subtropical regions of the Americas, with a distribution extending from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and the Caribbean into South America. In South America, the species is found throughout Brazil, Colombia, Venezuela, the Guianas, Ecuador, Peru, Bolivia, and Paraguay.
 
 The plant grows in a variety of open and disturbed habitats including pastures, roadsides, savannas (cerrado), forest edges, and cultivated fields. It is most commonly found at low to medium elevations, typically below 1,000 meters, in areas with well-drained sandy or loamy soils.
 
@@ -78,7 +78,7 @@ The plant is also collected from the wild by local communities for both medicina
 
 ## Chemistry and Bioactive Compounds
 
-The principal bioactive constituents of Zornia latifolia are beta-carboline alkaloids, which are also found in Banisteriopsis caapi, Peganum harmala, and several other psychoactive plants used in traditional medicine.
+The principal bioactive constituents of Zornia latifolia are beta-carboline alkaloids, which are also found in Banisteriopsis caapi, [[mckenna-food-gods-peganum-harmala-soma]], and several other psychoactive plants used in traditional medicine.
 
 Harmine and harmaline have been identified as the major alkaloids present in the aerial parts of the plant. These compounds are reversible inhibitors of monoamine oxidase type A (MAO-A), the enzyme responsible for the oxidative deamination of monoamine neurotransmitters including serotonin, norepinephrine, and dopamine.
 
@@ -87,25 +87,3 @@ The beta-carboline alkaloids in Zornia latifolia are present at relatively low c
 Additional compounds that may be present include trace amounts of tryptamine derivatives, though these have not been conclusively identified in all populations of the species. The chemical profile may vary between populations depending on growing conditions, genetics, and the possible influence of endophytic microorganisms.
 
 ## Ethnobotanical and Traditional Use
-
-Zornia latifolia has a documented history of use as a psychoactive plant in northeastern Brazil, where it is known by several common names including maconha-brava, fava-de-santo-antonio, and zornia. The dried leaves and flowering tops are smoked, either alone or mixed with other herbs, for their mild psychoactive effects.
-
-Traditional use centers on the rural communities of the Brazilian northeast, where the plant is gathered from pastures and disturbed areas. The herb is typically dried, crumbled, and smoked in hand-rolled cigarettes. Users report mild sedation, relaxation, visual alterations including enhanced color perception, and in some cases mild auditory distortions.
-
-The effects are generally described as significantly milder than those of cannabis or other smoked psychoactive plants. The beta-carboline alkaloids responsible for the effects act primarily as MAOIs, producing their psychoactive effects through modulation of monoamine neurotransmitter levels rather than through direct receptor agonism.
-
-Zornia latifolia is sometimes combined with other psychoactive plants in traditional smoking mixtures. Its MAOI properties could theoretically potentiate the effects of tryptamine-containing plants, though this combination does not appear to be a well-documented traditional practice.
-
-The plant has also been used in Brazilian folk medicine as a sedative, analgesic, and anti-inflammatory agent. These medicinal applications are consistent with the pharmacological properties of the beta-carboline alkaloids. Preparations typically involve decoctions of the aerial parts for internal use or poultices of the fresh leaves for topical application.
-
-Legal status varies by jurisdiction. In Brazil, the plant is not specifically scheduled as a controlled substance, though its psychoactive constituents (harmine, harmaline) may be regulated under broader drug legislation.
-
-## See Also
-
-- [[harmine]]
-- [[harmaline]]
-- [[peganum-harmala]]
-- [[banisteriopsis-caapi]]
-- [[justicia-pectoralis]]
-- [[nicotiana-tabacum]]
-- [[dmt]]

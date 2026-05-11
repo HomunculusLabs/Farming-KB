@@ -1,5 +1,5 @@
 ---
-title: PF Tek [[cervantes-cannabis-contamination-prevention]] and Troubleshooting
+title: Pf Tek [[cervantes-cannabis-contamination-prevention]] And Troubleshooting
 concept_type: topic
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
@@ -10,13 +10,13 @@ tags: [cultivation, contamination, troubleshooting, sterile-technique, pf-tek, m
 
 ## Overview
 
-Contamination by competing microorganisms is the primary challenge in amateur [[accessible-mushroom-cultivation-for-disabilities]]. Bacteria, molds, and yeasts compete with the desired mushroom mycelium for substrate nutrients and can entirely colonize a jar before the mushroom mycelium becomes established. The PF TEK addressed contamination through a multi-layered prevention strategy involving substrate design, sterilization, sterile [[inoculation-technique-and-alcohol-flaming]], and [[chen-maitake-growth-parameters-environmental-control]] during colonization and fruiting.
+Contamination by competing microorganisms is the primary challenge in amateur [[accessible-mushroom-cultivation-for-disabilities]]. Bacteria, molds, and yeasts compete with the desired [[antimicrobial-compounds-mushroom-mycelium]] for substrate nutrients and can entirely colonize a jar before the mushroom mycelium becomes established. The PF TEK addressed contamination through a multi-layered prevention strategy involving [[gartz-kh2po4-phosphate-substrate-design-psilocybe-cubensis-cultivation]], sterilization, sterile [[inoculation-technique-and-alcohol-flaming]], and [[chen-maitake-growth-parameters-environmental-control]] during colonization and fruiting.
 
 ## Common Contaminants
 
 ### Mold Contaminants
 
-Molds are the most frequently encountered contaminants in mushroom cultivation:
+Molds are the most frequently encountered contaminants [[pasteurization-in-mushroom-cultivation]]:
 
 - **Trichoderma (Green Mold)**: The most common and aggressive contaminant. Produces a rapidly spreading green carpet of spores. Often indicates insufficient sterilization or contaminated inoculation equipment. Once established, Trichoderma releases massive quantities of spores that can contaminate nearby jars.
 - **Aspergillus (Black/Green/Yellow Mold)**: Common environmental mold that produces dark-colored colonies. Some *Aspergillus* species produce mycotoxins that can be harmful if inhaled. Contaminated jars should be discarded without opening.
@@ -46,7 +46,7 @@ The PF TEK emphasized identifying the source of contamination to prevent recurre
 
 ### Sources of Contamination
 
-1. **Inoculation technique**: The most common source. Introducing the spore syringe needle through non-sterile air, touching the needle to non-sterile surfaces, or using a contaminated syringe.
+1. **[[mushroom-spore-inoculation-technique]]**: The most common source. Introducing the spore syringe needle through non-sterile air, touching the needle to non-sterile surfaces, or using a contaminated syringe.
 2. **Spore syringe**: Commercial or homemade syringes may contain bacterial or fungal contaminants. Using syringes from reputable suppliers and inspecting them before use is essential.
 3. **Substrate ingredients**: Brown rice powder or vermiculite may carry contaminant spores, though this is less common if ingredients are fresh and properly stored.
 4. **Water**: Tap water may contain chlorine-resistant bacteria or other microorganisms. Distilled water is preferred.
@@ -70,7 +70,7 @@ The PF TEK described the alcohol flaming technique as the primary method for mai
 
 ### Key Principles
 
-- **Flame sterilization** between each jar is the single most important contamination prevention step
+- **[[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]** between each jar is the single most important contamination prevention step
 - **Work quickly** after flaming to minimize airborne contamination exposure
 - **Work in a still-air environment**: Turn off fans and air conditioning, close windows, avoid breathing directly over the inoculation site
 - **Do not touch the needle** to any non-sterile surface after flaming
@@ -87,48 +87,3 @@ The PF TEK also described a method for inoculating jars without lids, using the 
 - This method is simpler but carries higher contamination risk than the through-lid method
 
 ## Non-Germination of Spores
-
-When jars show no signs of mycelial growth after the expected colonization period, several causes should be investigated:
-
-- **Dead spores**: Spore syringes have a limited shelf life. Old or improperly stored syringes may contain non-viable spores. The PF TEK guaranteed spore viability but noted that improper storage (especially heat exposure) could kill spores.
-- **Insufficient inoculation**: Too little spore solution deposited, or solution deposited on the dry vermiculite barrier without reaching the substrate
-- **Temperature too low**: Colonization is very slow below 70°F; below 60°F, growth may cease entirely
-- **Temperature too high**: Temperatures above 90°F can kill spores or mycelium
-- **Contaminant overgrowth**: If contaminants colonized the jar first, the mushroom spores may have been outcompeted
-- **Wrong substrate pH**: Extremely acidic or alkaline conditions can inhibit spore germination
-
-## Symptoms of Low Humidity
-
-During the fruiting phase, low humidity causes characteristic symptoms:
-
-- **Cracked or split caps**: As mushrooms expand, low humidity causes the cap surface to crack
-- **Aborted pins**: Small primordia that stop developing and shrivel
-- **Blue bruising on cakes**: Mycelium oxidizes and turns blue where it dries out (this is a psilocybin oxidation reaction, not contamination)
-- **Slow growth**: Mushrooms develop more slowly in dry conditions
-- **Thin, elongated stems**: Stems stretch abnormally as mushrooms search for humidity
-
-Remedies include increasing misting frequency, ensuring the perlite layer is adequately moist, and checking terrarium seals for air leaks.
-
-## Mushroom Potency
-
-The PF TEK included discussion of mushroom potency, which is relevant to contamination and cultivation practices:
-
-- **Potency varies** significantly between species, strains, flushes, and individual mushrooms
-- **Harvest timing**: Maximum potency occurs just before the veil tears; letting caps fully open and drop spores reduces relative potency
-- **Drying method**: Cool desiccation preserves potency better than heat-based drying methods (heat degrades psilocybin)
-- **Storage**: Dried mushrooms stored in airtight containers in cool, dark conditions retain potency for months to years
-- **Blue bruising**: The blue color that appears when mycelium or mushroom tissue is damaged is caused by psilocin oxidation and is not a sign of contamination or increased potency
-
-## General Contamination Prevention Checklist
-
-- Use fresh, high-quality ingredients (brown rice powder, vermiculite, distilled water)
-- Clean jars and lids thoroughly before use
-- Maintain proper [[pf-tek-substrate-moisture-diagnosis-and-correction]] (not too wet, not too dry)
-- Sterilize for the full recommended duration (90 minutes steam or 30+ minutes pressure)
-- Allow jars to cool completely before inoculation
-- Flame-sterilize the needle between every jar
-- Work in a still-air environment
-- Do not open jars during colonization unless necessary
-- Maintain clean cultivation area with low airborne spore counts
-- Discard contaminated jars immediately (do not open them — dispose of sealed)
-- Quarantine new jars from existing colonization areas

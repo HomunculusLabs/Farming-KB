@@ -1,5 +1,5 @@
 ---
-title: Phytochrome Red and Far-Red Light Switch in Photoperiodism
+title: Phytochrome Red Far Red Switch And Photoperiodism
 created: 2026-04-28
 tags:
   - phytochrome
@@ -89,51 +89,9 @@ The Pfr form is the biologically active form that promotes flowering in long-day
 
 ### Ecological Logic
 
-This mechanism makes elegant ecological sense:
-
-- **Morning**: Red light from the rising sun activates phytochrome (converts Pr to Pfr), signaling the plant to "wake up"
-- **Evening**: The last light at the end of the day is far-red (filtered through the atmosphere at low sun angles), converting phytochrome back to Pr, signaling the plant that darkness is coming
-- **[[phytochrome-red-far-red-ratio-shade-detection-plants]]**: Leaves in canopy shade receive more far-red than red light (because chlorophyll in upper leaves absorbs red), allowing plants to detect and respond to being shaded
-
-### Measuring Night Length
-
-Over the course of the night, the active Pfr form slowly reverts to the inactive Pr form through a thermal process called dark reversion. The rate of this reversion is relatively slow. If the night is short (summer), some Pfr remains at dawn, signaling short nights. If the night is long (winter), all Pfr has reverted, signaling long nights.
-
-A brief flash of red light in the middle of the night suddenly converts remaining Pr back to Pfr, effectively resetting the plant's night-length counter. Far-red light immediately reverses this conversion, restoring the night-length measurement.
-
-## Where Does Phytochrome Detect Light?
-
-### Unlike Phototropism
-
-From Darwin's phototropism studies, the "eye" of the plant is in the shoot tip, while the bending response occurs in the stem. One might expect phytochrome to be similarly localized, but photoperiodism works differently.
-
-### Leaf-Based Detection
-
-If a single leaf is illuminated with red light in the middle of the night, "it is as if the entire plant were illuminated." Conversely, if all leaves are pruned and only the stem and apex remain, "the plant is blind to any flashes of light, even if the entire plant is illuminated."
-
-This means phytochrome in the leaves receives the light cues and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that propagates throughout the plant. The signal, later identified as the protein Flowering Locus T (FT), travels through the phloem from leaves to the shoot apex, where it induces the floral transition.
-
-## Agricultural Applications
-
-### Chrysanthemum Production
-
-Chrysanthemum farmers exploit photoperiodism commercially. Mother's Day falls in spring, but chrysanthemums naturally flower in autumn when days shorten. Farmers keep greenhouse chrysanthemums from flowering by turning on lights for a few minutes each night throughout autumn and winter. Two weeks before Mother's Day, they stop the night lighting, and "all the plants start to flower at once, ready for harvest and shipping."
-
-### Cannabis Cultivation
-
-Cannabis is a short-day plant that typically flowers when the dark period exceeds 12 hours. Indoor growers manipulate photoperiod by switching from 18/6 (vegetative) to 12/12 (flowering) light cycles. The phytochrome mechanism underlies this response: uninterrupted dark periods allow Pfr to fully revert to Pr, triggering the flowering cascade.
-
-Light leaks during the dark period can reset phytochrome and delay or disrupt flowering, which is why strict darkness during the 12-hour dark cycle is critical in Cannabis cultivation.
-
 ## See Also
-
-- [[phytochrome-red-far-red-ratio-shade-detection-plants]]
-
-- [[borthwick-far-red-reversal-photoperiodic-discovery]]
 - [[phytochrome-photoperiodism]]
-
+- [[phytochrome-photoperiodism-plant-flowering]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[cannabis-photoperiod-flowering-cycle]]
-- [[plant-vision-and-phototropism]]
-- [[cervantes-photoperiod-interruption-light-leak]]
+- [[phytochrome-photoperiodism-plants]]
+- [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]

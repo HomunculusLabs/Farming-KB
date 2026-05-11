@@ -20,7 +20,7 @@ Czech pilsner (Pilsner Urquell style) is the original pilsner, with a slightly f
 
 ### Dark Lagers
 
-Dark lagers include Munich dunkel, schwarzbier (black beer), and Vienna lager. Despite their dark color, these beers are not roasty or heavy. They feature rich malt character with notes of bread, biscuit, caramel, and chocolate, balanced by clean lager fermentation.
+Dark lagers include Munich dunkel, schwarzbier (black beer), and Vienna lager. Despite their dark color, these beers are not roasty or heavy. They feature rich malt character with notes of bread, biscuit, caramel, and chocolate, balanced by clean [[ale-vs-lager-fermentation]].
 
 ### Bock and Strong Lagers
 
@@ -88,33 +88,7 @@ Sour beers represent one of the most exciting and diverse categories in modern b
 ## Strong and Specialty Styles
 
 - Imperial stout: Very strong, dark, roasty, often barrel-aged
-- Barleywine: Strong ale with wine-like complexity
-- Imperial IPA: Very hoppy, high alcohol
-- Belgian strong dark ale: Complex, strong, fruity, spicy
-
-## Historical and Revival Styles
-
-- Gruit ale: Traditional herbal beer made with gruit herbs instead of hops
-- Sahti: Finnish farmhouse ale flavored with juniper
-- Kvass: Slavic fermented bread beverage, low alcohol
-- Chicha: [[chiric-caspi-brunfelsia-south-american-hallucinogen]] corn beer
-- Bog myrtle ale: Revival of pre-hops British brewing tradition
-
-## Choosing a Style for Homebrewing
-
-For homebrewers, selecting a style should consider:
-
-- Available equipment and temperature control
-- Experience level
-- Time commitment (lagers and sour beers take longer)
-- Personal taste preferences
-- Ingredient availability
-
-Beginners typically start with pale ales, amber ales, or stouts, which are forgiving and produce good results with basic equipment. More advanced brewers can explore lagers, Belgian styles, and sour beers as their skills and equipment improve.
 
 ## See Also
-
-- [[ale-vs-lager-fermentation]] for the science behind the main categories
-- [[malt-and-malting-process]] for how grain choices define styles
-- [[herbal-beer-ingredients]] for ingredients beyond standard malt and hops
-- [[mead-making-guide]] for honey-based fermented beverages
+- [[comparison-beer-vs-wine-making]]
+- [[cotter-mushroom-infused-beer-wine-and-spirits]]

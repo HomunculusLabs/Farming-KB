@@ -1,7 +1,7 @@
 ---
 title: "Fukuoka's Three Paths of Farming: Mahayana, Hinayana, and Scientific"
 source: "masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
-author: "Masanobu Fukuoka"
+author: "[[masanobu-fukuoka]]"
 tags: [fukuoka, natural-farming, philosophy, mahayana, hinayana, scientific-farming, permaculture]
 ---
 
@@ -20,9 +20,9 @@ Fukuoka mapped agricultural philosophy onto a Buddhist framework:
 
 | World | Farming Type | Description |
 |-------|-------------|-------------|
-| Absolute | Mahayana natural farming | Pure natural farming, philosopher's way |
-| Relative | Hinayana natural farming | Idealistic farming, organic farming |
-| Relative | Scientific farming | Scientific agriculture, dialectical materialism |
+| Absolute | [[mahayana-natural-farming]] | Pure natural farming, philosopher's way |
+| Relative | [[fukuoka-mahayana-and-hinayana-natural-farming]] | Idealistic farming, organic farming |
+| Relative | [[fukuoka-illusions-of-scientific-farming]] | [[critique-of-scientific-agriculture]], dialectical materialism |
 
 The absolute world of Mahayana farming exists beyond comparison. The relative
 world of Hinayana and scientific farming can be compared directly because both
@@ -64,7 +64,7 @@ asks for her hand, but has not yet realized full union.
 
 Hinayana farming belongs in the same world of relativity as scientific farming,
 and the two may be directly compared. Both derive from nature as verified with
-discriminating knowledge. But Hinayana farming attempts to cast off human
+[[fukuoka-microbes-soil-health-discriminating-knowledge]]. But Hinayana farming attempts to cast off human
 knowledge and action, devoting itself to making the greatest possible use of
 the pure forces of nature, whereas scientific farming adds human knowledge and
 action in an effort to establish a superior way.
@@ -88,48 +88,3 @@ differences:
 The philosophical conviction underlying this view is that if man makes a
 genuine effort to approach nature, then even should he abandon all deeds and
 actions, nature will take each of these over and perform them for him.
-
-## Scientific Farming
-
-Man exists in a state of contradiction: basically estranged from nature, living
-in a totally artificial world, yet longing for a return to nature. Scientific
-farming forever wanders blindly back and forth, now calling upon the blessings
-of nature, now rejecting it in favor of human knowledge and action. The
-unnaturalness of scientific farming leads directly to incompleteness, which is
-why its results are always distorted and at best of only local utility.
-
-When scientific methods grow a fruit tree, all efforts concentrate on producing
-large fruit. The fruit produced is always large—even unnaturally so—in a
-relative sense, but invariably has grave flaws. Essentially, what is being
-grown is deformed fruit.
-
-## The Circular Model
-
-Fukuoka represented these three paths as concentric circles. Mahayana natural
-farming is the outermost circle, representing the vast, boundless perfection
-of nature itself. Scientific farming and Hinayana farming both occupy the same
-dimension as circles of roughly equal diameter, but the contour of scientific
-farming is highly irregular—representing the distortions and imperfections
-arising from narrow, disconnected research findings. Hinayana farming aspires
-toward a perfect circle, but the nature it perceives is only a superficial
-image of true nature, so its circle is drawn smaller than Mahayana's.
-
-## Implications for Permaculture Design
-
-Fukuoka's framework offers several insights for permaculture practitioners:
-
-1. The goal is not to improve upon nature but to remove the barriers—human
-   knowledge and action—that prevent nature from expressing its full
-   productivity.
-2. Organic farming (Hinayana) is a step in the right direction but still
-   operates within the paradigm of human management and intervention.
-3. True natural farming requires a fundamental shift in consciousness, not
-   merely a change in techniques or inputs.
-4. The most productive farming system, measured by energy efficiency, is the
-   one that requires the least human effort—because nature is doing the work.
-
-## See Also
-
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
-- [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]]
-- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]

@@ -20,10 +20,10 @@ sources:
 
 The onset of a dimethyltryptamine (DMT) experience, when smoked, is characterized by a
 remarkably consistent sequence of sensory phenomena that unfolds over approximately thirty
-seconds. Terence McKenna provided one of the most detailed phenomenological accounts of
-this onset sequence in his 1983 Esalen lecture, describing it as a rapid mode shift that
+seconds. [[terence-mckenna]] provided one of the most detailed phenomenological accounts of
+this onset sequence in his 1983 Esalen lecture, describing it as a rapid [[dmt-onset-phenomenology-mode-shift]] that
 transports the experiencer from ordinary waking consciousness into what he called the
-"tryptamine hypercontinuum."
+"[[dmt-phenomenology-and-tryptamine-hypercontinuum]]."
 
 ## The Thirty-Second Descent
 
@@ -32,7 +32,7 @@ experiencer immediately enters a trance state with eyes closed. The first notabl
 phenomenon is an auditory hallucination described as a sound "like ripping cellophane, like
 someone crumpling up plastic film and throwing it away." This sound is accompanied by an
 ascending tone. A friend of McKenna suggested this auditory phenomenon represents "our radio
-entelechy ripping out of the organic matrix," framing it as the sound of consciousness
+entelechy ripping out of the [[mckenna-radio-entelechy-organic-matrix-ripping]]," framing it as the sound of consciousness
 detaching from its biological substrate.
 
 Simultaneously, the normal hallucinogenic visual modality manifests as "a shifting geometric
@@ -82,44 +82,9 @@ entirely novel ones.
 The brevity of the compound's action, approximately five minutes, further distinguishes
 it. McKenna interprets this pharmacokinetic profile as evidence that the brain possesses
 native receptor architectures specifically adapted to DMT-like molecules, an argument
-central to the endogenous tryptamine hypothesis. By contrast, LSD is retained in the
+central to the endogenous [[terence-mckenna-tryptamine-hypothesis]]. By contrast, LSD is retained in the
 body for a considerable period, and its extended duration reflects a different
 relationship between the compound and neural receptor systems. The pharmacokinetic
 differences between DMT and LSD mirror the phenomenological differences: DMT delivers
 a compressed, high-intensity encounter with the same dimensions that LSD reveals
 more gradually and diffusely.
-
-## The Auditory Dimension
-
-The auditory component of DMT onset deserves particular attention. The "ripping
-cellophane" sound and ascending tone are not merely incidental sensory artifacts but
-appear to be integral features of the transition into the tryptamine state. McKenna's
-friend's interpretation of this sound as "our [[mckenna-radio-entelechy-organic-matrix-ripping]] ripping out of the
-organic matrix" points to a deeper significance: the auditory phenomena may represent
-the subjective experience of consciousness disengaging from its ordinary sensory
-processing routines. The sound of cellophane being torn is the sound of a boundary
-being breached, a membrane being perforated.
-
-The ascending tone that accompanies this sound may represent the experiencer's
-awareness tracking its own transition into a novel mode of consciousness. As the
-frequency rises, so does the degree of departure from ordinary awareness. These
-auditory phenomena, consistently reported across independent experiences, suggest
-a common neurophysiological mechanism underlying the transition state.
-
-## The Ego-Intact Quality
-
-A notable feature of the DMT onset as described by McKenna is that the ego remains intact
-throughout the transition. Unlike descriptions of [[psilocybin-ego-dissolution-mechanisms]] on high-dose LSD or
-psilocybin, McKenna emphasizes that during the DMT experience "one's ego is intact. One's
-fear reflexes are intact. One is not 'fuzzed out' at all." This preservation of the
-observing self creates what he calls "profound astonishment that persists and persists" —
-the experiencer remains fully capable of witnessing and evaluating the experience even as
-its content exceeds all prior categories of understanding.
-
-## See Also
-- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
-- [[dmt-self-transforming-machine-elves-mckenna]]
-- [[tryptamine-receptor-pharmacology]]
-- [[dmt-phenomenology]]
-- [[tryptamine-hypercontinuum]]
-- [[dimethyltryptamine]]

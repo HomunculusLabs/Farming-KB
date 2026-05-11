@@ -1,5 +1,5 @@
 ---
-title: 6 6 meo thh [[2-alpha-dmt-entity-tihkal]] (Tihkal)
+title: 6 Meo Thh Entity Tihkal
 created: 2026-04-16
 updated: 2026-04-16
 type: entity

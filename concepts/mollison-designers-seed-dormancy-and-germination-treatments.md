@@ -1,5 +1,5 @@
 ---
-title: "mollison designers seed dormancy and germination treatments and Germination Treatments in Permaculture"
+title: Mollison Designers Seed Dormancy And Germination Treatments
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -18,9 +19,9 @@ type: concept
 
 Understanding seed dormancy and the conditions required for
 germination is fundamental to [[permaculture-designers-manual-pioneer-species]] in any permaculture system. In
-*Permaculture: A Designers' Manual*, Bill Mollison devotes
+*Permaculture: A Designers' Manual*, [[bill-mollison]] devotes
 considerable attention to the various treatments that break seed
-dormancy, drawing on both scientific understanding and traditional
+dormancy, drawing on both [[fukuoka-fallacies-scientific-understanding]] and traditional
 gardening wisdom.
 
 ## Temperature Effects on Germination
@@ -86,15 +87,3 @@ integrate livestock.
 Seeds with thick or hard coats may need scarification to break
 dormancy. The mollison-native-seed-forage-systems-and-arid-species-lists, or inoculation
 before .
-
-## Practical Germination Testing
-
-The [[permaculture-designers-manual-pioneer-species]], ensuring reliable germination in
-mollison-seed-resources-and-sovereignty. The overall approach is to work with natural seed
-adaptations rather than against them, using gentle, low-energy
-methods that mirror natural processes.
-## See Also
-
-- mollison-seed-resources-and-sovereignty
-- [[mollison-designers-seed-pelleting-and-pretreatment]]
-- [[permaculture-designers-manual-plant-nursery]]

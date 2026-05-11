@@ -1,10 +1,10 @@
 ---
-title: "When and How Should I query when and how should i prune my [[comparison-grafting-vs-budding-fruit-trees]] Trees?"
+title: Query When And How Should I Prune My [[comparison-grafting-vs-budding-fruit-trees]]
 tags:
   - fruit-trees
   - pruning
   - timing
-  - orchard-management
+  - [[orchard-management]]
   - seasonal-care
   - horticulture
   - apple
@@ -37,9 +37,9 @@ Prune most fruit trees during the dormant season (late winter, before bud break 
 - Structural training cuts on young trees
 - Removing large branches and reshaping the canopy
 - Renovating neglected, overgrown trees
-- Apple, pear, pecan, [[fruit-tree-pruning-training|Fruit Tree Pruning and Training Systems]]
-- [[organic-fruit-tree-care-calendar|Fruit Tree Care and Orchard Management]]
-- [[query-how-do-i-prune-fruit-trees-naturally|How Do I Prune Fruit Trees Naturally?]]
+- Apple, pear, pecan, [[fruit-tree-pruning-training]]
+- [[organic-fruit-tree-care-calendar]]
+- [[query-how-do-i-prune-fruit-trees-naturally]]
 ## Practical Considerations
 
 When working with When and How Should I Prune My Fruit Trees?, several practical factors should be
@@ -85,7 +85,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that

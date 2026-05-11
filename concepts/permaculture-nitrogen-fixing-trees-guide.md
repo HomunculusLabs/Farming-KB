@@ -87,24 +87,3 @@ Key species:
 - **Casuarina stricta** (Drooping Sheoak) -- To 9 m, tolerates frost, dry ridges, poor coastal sands, rocky ground and saline soils. Outstanding wood for turnery.
 
 ## Other Nitrogen Fixers
-
-### Lespedeza bicolor (Miracle Plant)
-
-**Family:** FABACEAE/PAPILIONACEAE
-
-A leguminous shrub to 3 m, native to Japan but widely grown in Korea for soil reclamation. Long shallow roots spread along ground with very efficient nitrogen-fixing nodules. In Korea, planted as nurse crop to pine trees. High protein stock feed, seeds are good poultry feed, firewood is high quality. Yields of 2.9 tonnes firewood/ha in the first year. Good honey plant. Leaves and roots used in Japanese medicine.
-
-## Permaculture Integration
-
-- Nitrogen fixers are the backbone of [[permaculture-pioneer-species]]
-- Leucaena is the fastest tropical biomass producer; use in [[permaculture-earthworks-and-water-harvesting]] companions
-- Casuarinas provide windbreaks and craft timber on saline, poor soils
-- Ice cream bean uniquely combines nurse-crop function with edible crop
-- Always diversify species to avoid single-species toxicity issues (e.g., mimosine in leucaena)
-- Use alders along watercourses for [[ceanothus-thyrsiflorus]]
-
-- [[caragana-arborescens]]
-
-## See Also
-
-- [[nitrogen-fixing-trees-in-permaculture]]

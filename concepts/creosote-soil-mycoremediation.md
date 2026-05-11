@@ -88,9 +88,3 @@ between the introduced fungal inoculant and indigenous soil microorganisms.
 Some researchers have proposed two-step degradation strategies where white rot
 fungi initially attack high molecular weight PAHs, transforming them into more
 bioavailable intermediates that are subsequently mineralized by indigenous
-bacteria. This synergistic approach leverages the complementary capabilities
-of fungal and [[cultivar-endorhiza-bacterial-communities-cannabis]] and may achieve more complete remediation
-than either group alone. The role of [[fungal-pah-degradation-and-soil-bioremediation]] for PAH-specific
-  degradation pathways
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[bioaugmentation-strategies]] for inoculum preparation methods

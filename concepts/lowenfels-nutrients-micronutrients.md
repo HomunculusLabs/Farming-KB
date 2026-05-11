@@ -2,7 +2,7 @@
 title: "Micronutrients: Iron, Boron, Zinc, Manganese"
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Jeff Lowenfels, Teaming with Nutrients"
+sources: "jeff-lowenfels, teaming-with-nutrients-availability-factors"
 wikilinks: "lowenfels-nutrients-soil-chemistry-ph-cec lowenfels-nutrients-nitrogen-cycle lowenfels-nutrients-phosphorus-mycorrhizae lowenfels-nutrients-potassium-calcium-magnesium lowenfels-nutrients-foliar-feeding-sap-analysis"
 type: concept
 tags: [nutrients]
@@ -16,7 +16,7 @@ Although the name micronutrient might suggest they are less important than macro
 have the same degree of importance. They are essential, but only tiny amounts are required.
 The micronutrients are boron, chlorine, copper, iron, manganese, zinc, molybdenum, and nickel.
 Micronutrients are present in most soils and don't have to be added very often unless there is
-something way off balance. According to Von Liebig's Law of the Minimum, even if the least used
+something way off balance. According to [[von-liebig-law-of-the-minimum-and-fertilizer-history]]'s Law of the Minimum, even if the least used
 nutrient is not present, it won't do any good to have all of the others.
 
 ## Iron
@@ -60,11 +60,11 @@ when there is a shortage of iron. Iron comes from mined minerals and is common i
 
 ### Role in Plants
 
-Boron (B) is a component in cell walls, where it connects the carbohydrate chains. It is
+Boron (B) is a component in [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], where it connects the carbohydrate chains. It is
 necessary for the formation of pollen tubes, so pollen doesn't form properly without this
 nutrient. Boron also plays a role in balancing the amounts of sugar versus starch in a plant and
 is involved in the translocation of both throughout the plant. Boron also helps transport
-potassium ions across the cell membrane, helping to regulate the opening and closing of leaf
+potassium ions across the [[plant-cell-membrane-transport-proteins]], helping to regulate the opening and closing of leaf
 stomata.
 
 Boron is usually taken up as boric acid (B[OH]3) and uses three different transport mechanisms
@@ -87,61 +87,4 @@ immobile. Borax (Na2B4O7) is the ore of boron.
 ### Role in Plants
 
 Zinc (Zn) is a component of many enzymes and is involved in donating or accepting electrons
-(oxidation and reduction). Zinc helps in the production of auxins, the main growth hormone in
-plants. It is needed to synthesize chlorophyll and carbohydrates, and it activates enzymes needed
-to make some proteins, particularly RNA and DNA. Zinc can also help plant cells withstand cold
-temperatures.
-
-### Deficiency Symptoms
-
-Zinc is a mobile element in plants. Its importance to growth is clear: slow and then no growth,
-lack of stem elongation, and yellowing. Zinc deficiencies show up in middle-aged leaves, as zinc
-has intermediate mobility.
-
-### Availability
-
-Zinc is relatively immobile in soils. In addition to pH, the amount of [[hamilton-composting-and-organic-matter-management]] in the soil
-affects zinc availability. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] may deliver as much as 25 percent of a plant's zinc.
-
-## Manganese
-
-### Role in Plants
-
-Manganese (Mn) is used to free oxygen during photosynthesis by accepting electrons from water.
-It also works with certain enzymes to break apart carbohydrates. Manganese, along with potassium,
-magnesium, calcium, zinc, iron, copper, and molybdenum, affects or activates enzymes in one form
-or another and serves as an electron transporter.
-
-### Deficiency Symptoms
-
-Manganese is not mobile in plants. Plants with low manganese show interveinal chlorosis, with
-yellow leaves and green veins. The micronutrients manganese, iron, copper, zinc, and boron all
-become less available as pH increases. Soil compaction also affects the availability of manganese
-because anaerobic microbes use it as an energy source, reducing amounts available for plant uptake.
-
-## Other Micronutrients
-
-### Copper
-
-Copper (Cu) is a key component in enzymes used in oxidation and reactions during photosynthesis
-and respiration. Copper is also in enzymes that build amino acids into proteins and plays a key
-role in lignin synthesis. Copper is immobile once assimilated. A lack causes chlorosis, curling of
-leaves in some plants, and excessive branching in others.
-
-### Molybdenum
-
-Molybdenum (Mo) is necessary for the synthesis of organic phosphorus compounds once phosphorus
-enters the plant. It is also needed for Rhizobia and Frankia bacteria to fix nitrogen in root
-nodules. Molybdenum is mobile, and chlorosis develops in older leaves as this limiting nutrient
-is moved to new growing tissues. One symptom of too little molybdenum is a buildup of nitrate,
-causing some [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]] (whiptail). Molybdenum is more available when pH is slightly alkaline.
-
-### Nickel
-
-Nickel (Ni) is an immobile element in plants. When nickel is absent, nitrogen in the form of urea
-accumulates in leaves, resulting in leaf tip burns. It is a mineral present in several different
-kinds of rocks.
-
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]
-- [[plant-micronutrients-and-their-essential-functions]]
-- [[plant-nutrient-uptake-mechanisms]]
+(oxidation and reduction). Zinc helps in the production of auxins, the main [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] in

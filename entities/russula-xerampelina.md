@@ -9,7 +9,7 @@ sources:
   - "Kibby, G. (2011). \"The genus Russula in Great Britain.\" Published online."
   - "Miller, S.L. & Miller, D. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A Field Guide to Edible and Inedible Fungi. Falcon Guide."
   - "Romagnesi, H. (1967). Les Russules d'Europe et d'Afrique du Nord. Bordas, Paris."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to North American Mushrooms. Knopf."
+  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf."
 ---
 
 ## Overview
@@ -18,8 +18,8 @@ sources:
 [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Russulaceae. It is widely regarded as one of the finest
 edible species within the genus *Russula*, prized by foragers for its mild flavor and
 distinctive seafood-like aroma reminiscent of cooked shrimp or crab when the flesh is
-cut or bruised. The species occurs across temperate regions of the Northern Hemisphere
-and forms ectomycorrhizal associations with both coniferous and hardwood trees.
+cut or bruised. The species occurs across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere
+and forms [[ectomycorrhizal-associations]] with both coniferous and hardwood trees.
 
 ## Taxonomy and Classification
 
@@ -33,7 +33,7 @@ and forms ectomycorrhizal associations with both coniferous and hardwood trees.
 
 *Russula xerampelina* is the type species of section *Xerampelinae*, a morphologically
 variable group historically treated as a species complex. The section is characterized
-by members with a tendency toward brownish bruising, yellow-ochre spore prints, and
+by members with a tendency toward brownish bruising, yellow-ochre [[macrofungal-documentation-photography-spore-prints]], and
 often a distinctive odor.
 
 ## Macroscopic Description
@@ -71,7 +71,7 @@ and mixed woodlands, from late summer through autumn (July–November).
 
 Distribution spans the temperate Northern Hemisphere:
 
-- **North America:** Canada, northern [[dmt-containing-plants-united-states-halpern]], Appalachians, Pacific Northwest.
+- **North America:** Canada, northern [[dmt-containing-plants-united-states-halpern]], Appalachians, [[psilocybin-north-america-pacific-northwest]].
 - **Europe:** Scandinavia to the Mediterranean.
 - **Temperate Asia:** Japan, Korea, northern China.
 
@@ -87,61 +87,4 @@ Distribution spans the temperate Northern Hemisphere:
 5. **Viscid cap:** Sticky to slippery when wet, drying shiny.
 
 ## Edibility
-*Russula xerampelina* is an excellent edible mushroom. Young, firm specimens have a
-mild, slightly nutty flavor with subtle seafood notes and a crisp texture when fresh
-that becomes tender when cooked. No toxic lookalikes exist within the *Xerampelinae*
-section, making identification relatively safe once the characteristic odor is
-confirmed. Positive identification by an experienced forager remains essential.
-
-## Nutritional Composition
-
-Values are consistent with other edible *Russula* species (fresh weight, per 100 g):
-
-- **Protein:** ~2–4 g
-- **Carbohydrates/Fiber:** ~4–6 g (fiber a significant portion)
-- **Fat:** < 1 g
-- **Minerals:** Potassium, phosphorus, trace selenium and copper
-- **Vitamins:** B-complex, particularly riboflavin and niacin
-- **Moisture:** ~90%
-
-## Culinary Uses
-
-- **Sautéing:** Quick cooking in butter or olive oil preserves crisp texture and mild
-  flavor.
-- **Soups and stews:** Adds depth and subtle umami; pairs well with cream and potato
-  soups.
-- **Cream sauces:** Seafood-like aroma complements cream-based pasta and poultry sauces.
-- **Grilling:** Larger caps can be grilled whole with herbs.
-- **Drying:** Dried specimens reconstitute well for stocks and risottos.
-
-Raw consumption is not recommended due to potential gastrointestinal irritation from
-undigested chitin in fresh russulas.
-
-## Species Complex
-
-*Russula xerampelina* sensu lato encompasses multiple cryptic taxa across its range.
-Morphological variation in cap color, odor intensity, and bruising reaction long
-suggested distinct biological species. Recent molecular phylogenetic studies using ITS
-and [[fungi-multilocus-sequence-typing-molecular-epidemiology]] data have confirmed several genetically distinct lineages within
-what was traditionally considered a single polymorphic species, with implications for
-taxonomy and conservation as some cryptic lineages may have narrower ecological or
-geographic ranges than previously assumed.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, *R. xerampelina* enhances [[plant-nutrient-uptake-mechanisms]] — particularly
-phosphorus and nitrogen — for host trees while receiving photosynthetically derived
-carbon. This mutualism contributes to [[fukuoka-textdoc-forest-productivity-without-fertilizer]], tree health, and soil
-stability. The species also serves as a food source for small mammals and insects,
-and contributes to decomposition as fruiting bodies break down.
-## See Also
-
-- [[russula-cyanoxantha]]
-- [[lactarius-deliciosus]]
-- [[cantharellus-cibarius-entity]]
-
-## References
-
-1. Kibby, G. (2011). "The genus Russula in Great Britain." Published online.
-2. Miller, S.L. & Miller, D. (2006). *North American Mushrooms: A Field Guide to Edible and Inedible Fungi.* Falcon Guide.
-3. Romagnesi, H. (1967). *Les Russules d'Europe et d'Afrique du Nord.* Bordas, Paris.
+*Russula xerampelina* is an excellent [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]. Young, firm specimens have a

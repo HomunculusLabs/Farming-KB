@@ -1,5 +1,5 @@
 ---
-source: "Food of the Gods - Terence McKenna"
+source: "Food of the Gods - [[terence-mckenna]]"
 source_file: mckenna_t-food_of_the_gods.md
 extracted: 2026-04-11
 type: concept
@@ -12,20 +12,20 @@ tags: [psychedelics, ethnobotany, mckenna, opium, colonialism, psychopharmacolog
 
 Terence McKenna traces how opium shaped the colonial era through the Opium Wars
 while catalyzing the birth of modern psychopharmacology. The transition from
-alchemical to scientific understandings of psychoactive substances—Paracelsus's
-laudanum, De Quincey's literary explorations, the Club des Hachischins, and the
+alchemical to scientific understandings of [[cultural-evolution-and-psychoactive-substances]]—Paracelsus's
+laudanum, De Quincey's literary explorations, the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], and the
 isolation of morphine—marks a critical turning point in humanity's relationship
 with plant medicines. McKenna frames the British opium trade as a pattern of
 exploitation cycles linking sugar slavery, tea capitalism, and cocaine trafficking.
 
 ## The Opium Poppy: Biology and Dual Nature
 
-The opium poppy, *Papaver somniferum*, sections its psychoactivity and nutritional
+The opium poppy, *[[papaver-somniferum]]*, sections its psychoactivity and nutritional
 value into different parts of the same organism. The seed is a delicious and
 nonpsychoactive food, yet when the seed capsule is scratched, a milky latexlike
 material accumulates that hardens into raw opium. This dual nature mirrors what
 McKenna sees throughout the plant kingdom: psychoactive plants evolving alongside
-human agriculture, like psilocybin mushrooms with cattle or ergot with rye.
+human agriculture, like [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] with cattle or ergot with rye.
 
 The psychoactive constituents—morphine, codeine, thebaine, papaverine, and
 noscapine—represent nature's most potent pharmacological arsenal. The isolation of
@@ -70,7 +70,7 @@ compared to modern crack cocaine, the addictions of Coleridge and De Quincey
 
 ## Orientomania and the Club des Hachischins
 
-In the early nineteenth century, opium and hashish were not controlled; no
+In the early [[nineteenth-century-mushroom-cellars]], opium and hashish were not controlled; no
 opprobrium attached to their use. Romanticism and Orientomania combined with the
 opium craze to create a climate for hashish exploration. By the 1840s, Gautier,
 Baudelaire, Nerval, Dumas, and Balzac formed the "Club des Hachischins," holding
@@ -88,40 +88,3 @@ McKenna traces a direct line from the American Revolution to the Opium Wars.
 Lord North's government ruined the tea trade and lost England her American
 colonies. On December 16, 1773, radicals destroyed His Majesty's tea ships—"the
 salty tea of revolution was brewed that night." By the early 1800s, the
-Napoleonic wars left European coffers depleted; unsecured paper money caused
-inflation. The panacea was opium. Tea dealers pivoted to opium cultivation in
-India, forcing importation upon China through the East India Company.
-
-## British Opium Terrorism Against China
-
-"The opium trade was nothing less than British terrorism waged against the
-population of China," McKenna writes. The East India Company auctioned opium to
-merchants who smuggled it into China. When China moved to suppress the trade in
-1839, Britain responded with military force. The Opium Wars (1839–1842 and
-1856–1860) forced China to open ports, cede Hong Kong, and legalize opium—a
-pattern McKenna argues persists today.
-
-## Exploitation Cycles: From Sugar to Cocaine
-
-McKenna identifies "exploitation cycles": one drug cynically encouraged to support
-introducing others over five hundred years. Sugar, dependent on slave trade,
-deepened its hold in the sixteenth century; tea and coffee drove consumption
-higher. "Slavery to drugs is a tired metaphor," McKenna writes, "but in the case
-of sugar the metaphor was made horribly real."
-
-When tea collapsed, the East India Company turned to opium. Morphine (1803) and
-heroin (1873) carried civilization to the twentieth century. Reformers who
-legislated drug use drove it underground, where crime cartels often posing as
-intelligence agencies now control it. Western intelligence groups turned to cocaine
-in the eighties after losing heroin monopoly to the Iranian Revolution—consistent
-pivoting regardless of human cost. Like maenads in Dionysian fury, the
-sugar-intoxicated dominator economies sought to devour their own children.
-
-## See Also
-
-- [[mckenna-food-gods-sugar-addiction-slavery]]
-- [[mckenna-food-gods-honey-opium-minoan-crete-dionysus]]
-- [[mckenna-food-gods-shamanic-tobacco-commercial-tobacco-redux]]
-- [[mckenna-food-gods-tea-coffee-drugs-gentility]]
-- [[mckenna-food-gods-wasson-amanita-theory]]
-- [[mckenna-food-gods-leary-harvard-psilocybin-project]]

@@ -64,7 +64,7 @@ Like other members of Fumarioideae, *Dicentra cucullaria* contains isoquinoline 
 
 The principal alkaloids include protopine, dicentrine, cularine, and aporphine derivatives.
 
-These compounds are structurally related to the benzylisoquinoline alkaloids found in *Papaver somniferum*.
+These compounds are structurally related to the benzylisoquinoline alkaloids found in *[[papaver-somniferum]]*.
 
 The entire plant is considered toxic to humans and livestock if ingested in quantity.
 
@@ -82,36 +82,8 @@ Dutchman's breeches is a myrmecochorous species — its seeds bear elaiosomes (f
 
 Ants carry the seeds to their nests, where the elaiosome is consumed and the viable seed is deposited in nutrient-rich soil.
 
-This ant-mediated seed dispersal is critical for the species' ability to colonize new sites within forest habitats.
+This ant-mediated [[clay-pellet-seed-dispersal]] is critical for the species' ability to colonize new sites within forest habitats.
 
 The flowers are pollinated almost exclusively by bumblebees (*Bombus* spp.), whose long tongues can reach the nectar at the base of the spurs.
 
 Honeybees and short-tongued bees are generally unable to access the nectar.
-
-The species is a classical spring ephemeral, completing its above-ground growth cycle in 6–8 weeks before canopy closure.
-
-After senescence, the plant persists underground as dormant tubers until the following spring.
-
-## Cultivation
-
-Dutchman's breeches is cultivated as an ornamental woodland plant in shade gardens.
-
-It requires partial to full shade and moist, humus-rich soil.
-
-Propagation is primarily from seed, which requires warm stratification followed by cold stratification for germination.
-
-Seeds should be sown immediately after collection, as viability declines rapidly in storage.
-
-Tubers can also be divided carefully during dormancy, though the plants are sensitive to disturbance.
-
-Under garden conditions, Dutchman's breeches naturalizes readily and can form extensive colonies over time.
-
-## See Also
-
-- [[dicentra-spectabilis]]
-
-- [[eschscholzia-californica]]
-- [[sanguinaria-canadensis]]
-- [[datura-stramonium]]
-- [[hydrastis-canadensis]]
-- actaea-racemosa

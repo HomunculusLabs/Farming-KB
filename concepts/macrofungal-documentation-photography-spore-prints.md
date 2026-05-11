@@ -1,5 +1,5 @@
 ---
-title: Macrofungal Documentation — Photography, Spore Prints, and Description
+title: Macrofungal Documentation Photography [[spore]] Prints
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -21,7 +21,7 @@ Accurate color notation is critical because fungi lose natural color during dryi
 - **Rayner (1970), Maerz and Paul (1950), Kelly (1965):** Alternatives
 
 Record colors of:
-- All developmental stages
+- All [[psilocybe-cubensis-developmental-stages]]
 - Color changes in mature sporocarps
 - Bruising or cut surface reactions
 - Different parts (cap, gills, stem, veil remnants)
@@ -88,40 +88,3 @@ Compound microscope can help initially assign specimens to [[coprophilous-fungi-
 ### Fresh vs. Preserved Material
 - Complete micromorphological descriptions in fresh condition are time consuming
 - Well-preserved specimens work as well as fresh material
-- Micromorphology normally done between collecting trips and off-season
-
-## Selective Collecting
-
-Not every specimen needs to be collected. Consider:
-- **Condition and quality** of the specimen
-- **Goals** of the study
-- **Inventory/monograph work:** Can be selective; representatives of each species
-- **Plot-based studies:** All species in plots should be collected
-- **Biomass/chemical studies:** Larger amounts needed
-- **All developmental stages** important for many taxa (collect range of stages for each taxon)
-
-## Time Budget
-
-- Part of day in field, remainder at lab working up specimens
-- For remote sites: 2-3 full collecting days followed by up to 1 week lab work
-- Prioritize specimens: most fragile and important first
-- Remaining specimens stored as cool as possible
-
-## Field Equipment
-
-- Pocket knife for sectioning
-- Hand lens (10-20x)
-- Aluminum foil for wrapping
-- Paper bags for robust specimens
-- Camera with macro capability
-- Collection bags and labels
-- GPS for locality
-- Forceps, millimeter rule
-- Spot plate and chemicals for macrochemical tests (optional)
-
-## See Also
-
-- [[macrofungal-sampling-design-plots-transects]]
-- mushroom-identification
-- [[fungal-specimen-collection-herbarium-management]]
-- [[fungi-in-the-environment-fungal-spore-dispersal]]

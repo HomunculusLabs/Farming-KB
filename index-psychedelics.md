@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1662 pages**
+**1660 pages**
 
 ## #
 
@@ -27,7 +27,6 @@
 - [[2c-t-2-pihkal-entry-40]]
 - [[2c-t-4-pihkal-entry-41]]
 - [[2c-t-7-compound-profile]]
-- [[2c-t-7-pihkal-43]]
 - [[2c-t-pihkal-entry-39]]
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]]
 - [[5-meo-dipt-compound-profile]]
@@ -598,7 +597,6 @@
 - [[harner-american-indian-peyote-rituals]]
 - [[harner-ayahuasca-shamanism-amazon]]
 - [[harner-campa-ayahuasca-ceremony]]
-- [[harner-cashaahua-banisteriopsis]]
 - [[harner-cashinahua-banisteriopsis-usage]]
 - [[harner-cross-cultural-patterns-shamanic-plant-use]]
 - [[harner-datura-solanaceous-shamanism]]

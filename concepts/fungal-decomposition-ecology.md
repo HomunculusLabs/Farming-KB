@@ -88,28 +88,3 @@ The rate and trajectory of decomposition follow predictable patterns:
 The Carbon:Nitrogen (C:N) ratio strongly influences decomposition rates.
 Substrates with low C:N ratios (e.g., fresh leaves at 20:1) decompose
 rapidly, while high C:N substrates (e.g., wood at 400:1) decompose slowly
-as fungi become nitrogen-limited.
-
-## Environmental Controls
-
-Key [[duggar-mushroom-environmental-factors-temperature-moisture-light]] regulating fungal decomposition include:
-
-- **Moisture:** Fungal activity requires adequate water potential; both
-  waterlogging and drought suppress decomposition. Optimal water potentials
-  are typically -0.01 to -0.1 MPa.
-- **Temperature:** Decomposition rates follow a bell-shaped curve with
-  temperature, with optima around 25-30C for most temperate species.
-  Arrhenius Q10 values range from 2-3.
-- **pH:** Fungal communities shift along pH gradients, with different
-  decomposer guilds adapted to acidic versus alkaline conditions.
-- **Oxygen Availability:** Most decomposer fungi are aerobic; anaerobic
-  conditions shift decomposition to bacterial methanogenesis.
-
-## Implications for Climate
-
-Fungal decomposition is a critical control point in the global carbon cycle.
-The balance between CO2 released through decomposition (respiration) and
-carbon stabilized in soil organic matter (humification) determines whether
-ecosystems function as carbon sources or sinks. Warming temperatures are
-expected to accelerate decomposition, potentially releasing stored soil
-carbon and creating a positive feedback loop with climate change.

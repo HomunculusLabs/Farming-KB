@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murphy, is a nature-based guild centered on the allelopathic walnut tree (Juglans spp.). This guild demonstrates the armchair method of guild design: observing natural plant communities, understanding their interrelationships, and then building analogous human-designed assemblages that produce food and other useful products while maintaining ecological function.
+The walnut-hackberry guild, developed by Arizona permaculture designer Tim Murphy, is a nature-based guild centered on the allelopathic walnut tree (Juglans spp.). This guild demonstrates the armchair method of guild design: observing natural plant communities, understanding their interrelationships, and then building analogous human-designed assemblages that produce food and other useful products while maintaining [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]].
 
 ## The Allelopathy Challenge
 
@@ -21,7 +21,7 @@ Walnut trees secrete juglone, a toxic compound that suppresses competing plants.
 ## Core Guild Members
 
 ### Walnut (Juglans spp.) -- Central Element
-- Provides nuts, premium timber, and wildlife habitat
+- Provides nuts, premium timber, and [[hemenway-backyard-wildlife-habitat]]
 - [[permplant-carob-drought-tolerant-food-tree]]; grows in arid western states and less harsh locales
 - Naturally open, spreading varieties (butternut, buartnut, heartnut) are excellent
 - Decomposing walnut leaves and husks release insect-repelling citronella fumes
@@ -53,19 +53,19 @@ Chiltepine (Capsicum aviculare) and wolfberry (Lycium spp.) are found naturally 
 - Note: potatoes are stunted by juglone and should be avoided
 
 ### Nitrogen Fixers
-Russian olive (Elaeagnus angustifolia) and other Elaeagnus species are drought-tolerant and insensitive to juglone. They provide:
+Russian olive ([[elaeagnus-angustifolia]]) and other Elaeagnus species are drought-tolerant and insensitive to juglone. They provide:
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via symbiotic bacteria
 - Wildlife food (berries)
 - Human food (goumi and Elaeagnus x ebbingei produce edible fruit)
-- In arid regions, native N-fixers like ceanothus and Apache plume (Fallugia paradoxa) work well
+- [[fukuoka-natural-farming-in-arid-regions]], native N-fixers like ceanothus and Apache plume (Fallugia paradoxa) work well
 
 ### Buffer Zone Plants
 Placed at guild margins to protect neighboring plants from juglone drift:
 - Mulberry (Morus spp.)
 - Elderberry (Sambucus spp.)
-- [[comparison-black-locust-vs-honey-locust]] (Robinia pseudoacacia) -- also fixes nitrogen, beloved by bees
+- [[comparison-black-locust-vs-honey-locust]] ([[robinia-pseudoacacia]]) -- also fixes nitrogen, beloved by bees
 - Acacia -- also fixes nitrogen
-- Beyond this buffer zone, non-tolerant fruiting trees and shrubs can be planted
+- Beyond this buffer zone, non-tolerant fruiting [[nitrogen-fixing-trees-and-shrubs]] can be planted
 
 ## Guild Assembly
 
@@ -87,25 +87,3 @@ A key ecological insight from this guild: certain plant families thrive in the l
 ## Proven Installations
 
 Mary Zemach of Los Alamos has installed a variation containing currants, wolfberries, elderberries, silverberries, and Elaeagnus alongside walnuts and hackberries. While still experimental, the plants were reported as thriving.
-
-## Design Methodology
-
-This guild exemplifies the "bookworm" approach to guild design:
-1. Research native plant communities in your region
-2. Identify dominant tree species and their understory associates
-3. Look for patterns of co-occurrence and plant family affinities
-4. Note allelopathic relationships and species tolerance
-5. Substitute domesticated relatives where appropriate
-6. [[query-how-do-legumes-add-nitrogen-to-soil]] fixers and other functional species
-7. Create buffer zones for allelopathic species
-8. Test and observe; adjust over time
-
-## See Also
-
-- [[permaculture-guild-design-method]]
-- [[dynamic-accumulators]]
-- holzer-fruit-tree-planting-method
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
-- [[permaculture-design]]
-- [[robinia-pseudoacacia]]
-- [[companion-planting]]

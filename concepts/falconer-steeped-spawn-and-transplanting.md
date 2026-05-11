@@ -1,8 +1,8 @@
 ---
-title: Falconer falconer steeped spawn and transplanting and Transplanting Techniques
+title: Falconer Steeped Spawn And Transplanting
 created: 2026-04-28
 tags:
-  [mushroom-cultivation, mushroom-spawn, mycelium, victorian-gardening, spawning]
+  [[mushroom-cultivation]], mushroom-spawn, [[mycelium]], victorian-gardening, spawning]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [ /Users/t3rpz/wiki/raw/papers/william-falconer-mushroom-how-to-grow-them.md, ]
@@ -14,7 +14,7 @@ type: concept
 
 Mr. Henshaw, in the first edition of Henderson's Handbook
 of Plants, described a method of creating flake spawn from
-brick spawn: "This is produced by breaking up the brick
+[[french-flake-spawn-vs-brick-spawn]]: "This is produced by breaking up the brick
 spawn into pieces about two inches square and mixing them in
 a heap of manure that is fermenting gently. After lying in
 this heap about three weeks it will be found one mass of
@@ -88,29 +88,3 @@ is better than deep planting.
 
 When you want to mold over beds soon after spawning them,
 shallow planting is to be recommended. But if the beds are
-only 75 to 80 degrees before being spawned, then deep
-planting is better than shallow planting, because the genial
-temperature gives the mycelium a better start in life than
-would the cooler manure nearer the surface.
-
-## Temperature for Spawning
-
-After the [[falconer-mushroom-bed-boxing-and-protection]] is made up it should, within a few
-days, warm to a temperature of 110 to 120 degrees. Never
-spawn a bed when the heat is rising, or when it is warmer
-than 100 degrees, but always when it is on the decline and
-under 90 degrees. In this there is perfect safety.
-
-Falconer's experiments showed that spawn planted before
-the heat reached its maximum (120 degrees or over) yielded
-no mushrooms, the mycelium being killed. Beds spawned at
-110 degrees on the decline bore a very good crop, and at 100
-degrees and under to 65 degrees good crops were secured in
-every case.
-
-## See Also
-
-- [[spawn-run-and-colonization]]
-
-- [[cultivator-grain-spawn-preparation-and-inoculation]]
-- [[grain-spawn-types-and-preparation]]

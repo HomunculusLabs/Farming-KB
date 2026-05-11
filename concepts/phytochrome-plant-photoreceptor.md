@@ -1,5 +1,5 @@
 ---
-title: [[phytochrome]] — The Plant Photoreceptor for Red and Far-Red Light
+title: [[phytochrome]] Plant Photoreceptor
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
@@ -88,41 +88,3 @@ light converts Pfr back to Pr, deactivating the photoreceptor and
 reversing those responses. Because the conversion is fully reversible,
 the system acts as a precise molecular switch that the plant can flip
 back and forth depending on the light conditions it experiences.
-
-## Ecological Significance: Dawn and Dusk Signals
-
-This red/far-red toggle is not merely a laboratory curiosity — it has
-profound ecological significance. In nature, the last light any plant
-sees at the end of the day is far-red light. As the sun sinks toward
-the horizon, its light passes through more atmosphere, scattering the
-shorter blue wavelengths and allowing the longer red and far-red
-wavelengths to dominate. The far-red light at dusk converts phytochrome
-to its inactive Pr form, signalling to the plant that it is time to
-"turn off" and begin its nocturnal processes.
-
-In the morning, the rising sun delivers red light, which converts
-phytochrome to its active Pfr form and "wakes up" the plant. In this
-way, phytochrome allows a plant to measure how long ago it last saw red
-light and to adjust its growth and development accordingly. The plant
-is, in a very real sense, tracking time through colour.
-
-## Phytochrome in the Leaves and the Mobile Flowering Signal
-
-One might expect, based on Darwin's [[darwins-phototropism-experiments]], that the
-"eye" for photoperiodism would also be located at the tip of the plant.
-Surprisingly, this is not the case. When scientists shone light on
-different parts of a plant in the middle of the night, they discovered
-that illuminating any single leaf was sufficient to regulate flowering
-in the entire plant. Conversely, if all leaves were removed — leaving
-only the stem and the shoot apex — the plant was completely blind to
-light flashes, even when the entire plant was illuminated.
-
-This means that phytochrome in the leaves serves as the light sensor
-for photoperiodism. When phytochrome in a single leaf detects red light
-during the night, it initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that propagates
-throughout the plant and induces flowering at the shoot apex. The leaf
-is the "eye," and the signal it produces travels to the growing tip,
-where flowers are formed. This elegant division of labour — perception
-in the leaves, response at the apex — is one of the most remarkable
-features of the phytochrome system and underscores the sophistication
-of plant [[plant-sensory-biology-chamovitz]].

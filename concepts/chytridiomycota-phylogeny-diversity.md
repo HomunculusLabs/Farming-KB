@@ -51,7 +51,7 @@ four small independent groups. Their analysis showed:
 
 Several chytrids with unique zoospore morphologies have not
 been classified in previously existing orders. Most notably,
-Batrachochytrium dendrobatidis, the chytrid associated with
+[[batrachochytrium-dendrobatidis]], the chytrid associated with
 global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not fall within any of the
 groups defined on the basis of DNA characters. This highlights
 how incomplete our understanding of chytrid diversity remains.
@@ -88,12 +88,3 @@ improve resilience and productivity over time.
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[rozella-intracellular-parasitism-chytridiomycota]]
-
-- [[biodiversity-chytridiomycota-diversity]]

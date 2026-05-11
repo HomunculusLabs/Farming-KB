@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Hodel, D.R., Johnson, D. (2007). "A revision of Washingtonia (Arecaceae)." Palms, 51(2), 61-77.
   - Henderson, A., Galeano, G., Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
-  - GBIF (2023). "Washingtonia robusta H.Wendl." Global Biodiversity Information Facility.
+  - GBIF (2023). "Washingtonia robusta H.Wendl." [[psilocybe-genus-global-biodiversity]] Information Facility.
   - RHS (2022). "Washingtonia robusta." Royal Horticultural Society Plant Finder.
   - Nixon, K., Salywon, A. (2014). "Washingtonia (Arecaceae)." In: Jepson Flora Project.
 ---
@@ -25,9 +25,9 @@ The species is renowned for its rapid growth rate and exceptional height, often 
 
 Mexican fan palms are iconic landscape elements in cities across the Mediterranean, southern California, and other subtropical regions. They define the skyline of Los Angeles and many other cities.
 
-The species was named in honor of George Washington by the German botanist Hermann Wendland, who described it in 1879. The genus Washingtonia contains only two species.
+The species was named in honor of [[george-washington-carver-plant-work]] by the German botanist Hermann Wendland, who described it in 1879. The genus Washingtonia contains only two species.
 
-Washingtonia robusta is frequently confused with the closely related Washingtonia filifera, the California fan palm. The two species hybridize readily where their ranges overlap.
+Washingtonia robusta is frequently confused with the closely related [[washingtonia-filifera]], the California fan palm. The two species hybridize readily where their ranges overlap.
 
 The palm's natural distribution is restricted to a relatively small area in northwestern Mexico. Despite this limited native range, it has become one of the most cosmopolitan cultivated palms.
 
@@ -67,7 +67,7 @@ The native range of Washingtonia robusta overlaps with that of Washingtonia fili
 
 ## Cultivation and Uses
 
-Washingtonia robusta is cultivated worldwide as an ornamental palm in subtropical and warm temperate climates. It is among the most commonly planted street trees in cities across the Mediterranean basin.
+Washingtonia robusta is cultivated worldwide as an ornamental palm in subtropical and warm [[fukuoka-natural-farming-temperate-climates]]. It is among the most commonly planted street trees in cities across the Mediterranean basin.
 
 The species is exceptionally fast-growing, often producing 60 to 90 centimeters of trunk growth per year under favorable conditions. Young plants can reach 10 meters in height within 10 years.
 
@@ -75,9 +75,9 @@ Mexican fan palms tolerate a wide range of soil types, including clay, sand, and
 
 Irrigation is needed during establishment but mature trees are relatively drought-tolerant. The species prefers full sun and does not perform well in shaded locations.
 
-Cold tolerance is moderate, with mature trees surviving brief exposures to approximately -6 degrees Celsius. However, severe freezes can cause significant foliage damage and occasional trunk death.
+[[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] is moderate, with mature trees surviving brief exposures to approximately -6 degrees Celsius. However, severe freezes can cause significant foliage damage and occasional trunk death.
 
-The palm is widely used in urban landscapes, boulevards, parks, and golf courses. Its tall, slender profile makes it effective as a vertical accent in landscape design.
+The palm is widely used in urban landscapes, boulevards, parks, and golf courses. Its tall, slender profile makes it effective as a vertical accent in [[holzer-permaculture-landscape-design]].
 
 Propagation is by seed, which germinates readily within 2 to 3 months. Seeds remain viable for several months when stored dry at room temperature.
 
@@ -88,44 +88,3 @@ In its native range, the leaves are used for thatching and the leaf fibers are w
 Washingtonia robusta has become naturalized in many regions where it has been introduced, including parts of the Mediterranean, South Africa, Australia, and the Canary Islands.
 
 The species is classified as invasive in several countries due to its ability to spread into natural areas. It can form dense stands along waterways that displace native vegetation.
-
-In California, Washingtonia robusta and W. filifera and their hybrids have naturalized in riparian areas throughout southern California. The palms compete with native willow and cottonwood communities.
-
-The persistent dead leaf skirt provides nesting habitat for birds including owls, orioles, and rats. However, the skirts can also accumulate debris and become a fire hazard.
-
-Fruits are consumed by birds including pigeons, starlings, and parrots, which disperse the seeds over long distances. This efficient seed dispersal contributes to the species' invasive potential.
-
-The palm's abundant seed production and high germination rates enable rapid colonization of suitable habitats. Each mature female tree can produce tens of thousands of seeds annually.
-
-Despite its invasive tendencies, the species provides important ecological services in urban environments, including shade, carbon sequestration, and wildlife habitat.
-
-## Comparison with Washingtonia filifera
-
-Washingtonia robusta is frequently confused with the native California fan palm, Washingtonia filifera. Several morphological features distinguish the two species.
-
-The trunk of W. robusta is slender and tapering, reaching 25 to 30 meters, while W. filifera has a much thicker trunk, typically 18 to 20 meters tall. The trunk diameter of W. filifera can exceed 1 meter at the base.
-
-Leaf segments of W. filifera have conspicuous white cottony threads between the segments, giving the common name "desert fan palm." W. robusta has fewer or no visible filaments between leaf segments.
-
-Washingtonia filifera is more cold-hardy, surviving temperatures to approximately -10 degrees Celsius. W. robusta is less cold-tolerant but more tolerant of coastal winds and salt spray.
-
-Ecologically, W. filifera is native to desert oases and is an important habitat tree in southeastern California. W. robusta is native to riparian areas in northwestern Mexico and is the more aggressive invader.
-
-Hybrids between the two species are common in cultivation and in areas where both species have naturalized. These intermediate forms share characteristics of both parents.
-
-## See Also
-
-- [[ravenea-rivularis]]
-
-- [[ceroxylon-quindiuense]]
-
-- [[cocos-nucifera]]
-- [[phoenix-dactylifera]]
-- [[sabal-palmetto]]
-- [[trachycarpus-fortunei]]
-- [[phoenix-canariensis]]
-- [[roystonea-regia]]
-- [[serenoa-repens]]
-- [[borassus-flabellifer]]
-- [[jubaea-chilensis]]
-- [[bactris-gasipaes]]

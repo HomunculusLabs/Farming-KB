@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America." USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics huckleberries-and-wild-berries-of-north-america." USDA Forest Service.
   - USDA NRCS (2024). "Plant Profile: Nyssa ogeche." plants.usda.gov.
   - Ayers, G.S. & Harman, J.R. (1992). "Beekeeping in the United States." USDA Agricultural Handbook.
-  - Godfrey, R.K. & Wooten, J.W. (1981). "Aquatic and Wetland Plants of Southeastern United States." University of Georgia Press.
+  - Godfrey, R.K. & Wooten, J.W. (1981). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of Southeastern United States." University of Georgia Press.
 ---
 
 ## Overview
@@ -32,7 +32,7 @@ Ogeechee tupelo is relatively slow-growing but can live for several centuries in
 
 Nyssa ogeche was described by the French botanist André Michaux in 1803. The specific epithet refers to the Ogeechee River in Georgia, near where the species was first collected.
 
-The species belongs to the genus Nyssa, which contains approximately 10 species distributed in North America and eastern Asia. North American species are commonly called tupelos or sour gums.
+The species belongs to the genus Nyssa, which contains approximately 10 species distributed in North America and eastern Asia. [[growing-gourmet-north-american-reishi-species]] species are commonly called tupelos or sour gums.
 
 The tree typically grows 9 to 15 meters tall with a narrow, conical crown. The trunk is straight and can reach 50 to 60 centimeters in diameter at maturity.
 
@@ -60,13 +60,13 @@ Ogeechee tupelo is found exclusively in wetland habitats. It grows along the mar
 
 The species requires sites with seasonal flooding and acidic, organic-rich soils. It is typically found at elevations below 30 meters in flat terrain subject to periodic inundation.
 
-USDA hardiness is Zone 7 to Zone 9. The species is tolerant of flooding but intolerant of drought and fire. Prolonged inundation during the growing season can be fatal.
+USDA hardiness is Zone 7 to Zone 9. The species is tolerant of flooding but intolerant of drought and fire. Prolonged inundation during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] can be fatal.
 
 Climate change poses a potential threat to Ogeechee tupelo populations through sea level rise and altered precipitation patterns. Coastal swamp habitats may become increasingly saline, exceeding the species' salt tolerance.
 
 ## Cultivation and Uses
 
-Nyssa ogeche is cultivated primarily for tupelo honey production rather than ornamental purposes. Beekeepers maintain apiaries in Ogeechee tupelo swamps during the brief flowering period.
+Nyssa ogeche is cultivated primarily for tupelo [[faires-beekeeping-and-honey-production]] rather than ornamental purposes. Beekeepers maintain apiaries in Ogeechee tupelo swamps during the brief flowering period.
 
 The tupelo honey flow lasts only 2 to 3 weeks in early spring. This short harvest window, combined with the species' restricted range, contributes to the honey's high market value.
 
@@ -80,41 +80,10 @@ Transplanting success is limited because Ogeechee tupelo develops a deep taproot
 
 ## Ecology and Wildlife Value
 
-Nyssa ogeche provides important ecological functions in southeastern wetland ecosystems. The flowers are a critical early-season nectar source for honeybees and native pollinators.
+Nyssa ogeche provides important [[fungal-melanin-biosynthesis-ecological-functions]] in southeastern wetland ecosystems. The flowers are a critical early-season nectar source for honeybees and native pollinators.
 
 Beekeepers from across the United States transport hives to Ogeechee tupelo swamps each spring for the honey harvest. The economic value of tupelo honey supports rural communities throughout the species' range.
 
 The fruit is consumed by numerous bird species, including wood ducks, pileated woodpeckers, and various songbirds. Mammals including raccoons, opossums, and black bears also feed on the fruit.
 
 The tree provides nesting sites and cover for wildlife in swamp and riparian habitats. Wood ducks frequently nest in cavities within mature Ogeechee tupelo trunks.
-
-Ogeechee tupelo contributes to stream bank stabilization and floodplain water quality. The root system filters runoff and reduces sediment loading in blackwater river systems.
-
-## Related Species
-
-Nyssa sylvatica, black tupelo or black gum, is the most widespread North American Nyssa species. It occurs across much of eastern North America on a wider range of sites than Ogeechee tupelo.
-
-Black tupelo produces excellent fall color ranging from scarlet to purple. It is more commonly planted as an ornamental tree than Ogeechee tupelo due to its broader site adaptability.
-
-Nyssa aquatica, water tupelo, is a larger tree of deep-water swamps in the southeastern United States. It grows in standing water for much of the year and develops conspicuous buttressed roots.
-
-Taxodium distichum, bald cypress, frequently grows alongside Ogeechee tupelo in southeastern swamp forests. It is a much larger conifer with distinctive pneumatophores or cypress knees.
-
-Liquidambar styraciflua, sweetgum, occupies similar bottomland habitats across a broader geographic range. Its star-shaped leaves and spiny fruit capsules distinguish it from tupelos.
-
-Quercus lyrata, overcup oak, is another wetland tree found in association with Ogeechee tupelo. Its acorn cups nearly enclose the nut, a trait that allows germination even when submerged.
-
-Overcup oak and Ogeechee tupelo often co-dominate bottomland hardwood forests in the southeastern coastal plain. Both species are adapted to prolonged flooding and poorly drained soils.
-
-## See Also
-
-- [[nyssa-sylvatica]]
-- [[nyssa-aquatica]]
-- [[taxodium-distichum]]
-- [[liquidambar-styraciflua]]
-- [[salix-nigra]]
-- [[acer-rubrum]]
-- [[quercus-palustris]]
-- [[quercus-velutina]]
-- [[acer-saccharum]]
-- [[quercus-marilandica]]

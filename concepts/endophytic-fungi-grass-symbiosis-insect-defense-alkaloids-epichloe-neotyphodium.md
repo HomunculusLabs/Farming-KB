@@ -88,23 +88,3 @@ Beyond agriculture, endophytic fungi play crucial roles in natural grassland eco
 The grass endophytes belong to the fungal family **Clavicipitaceae**, which includes organisms spanning the full mutualism–pathogenicity spectrum:
 
 - **Epichloë/Neotyphodium** (grass endophytes): Primarily mutualistic, with some pathogenic effects under stress
-- **Claviceps purpurea** (ergot of rye): Pathogenic, replacing the host's grain with sclerotia containing potent ergot alkaloids
-- **Cordyceps** and related genera: Pathogens of insects, with fruiting bodies erupting from the host's body
-
-This phylogenetic proximity between mutualists and pathogens suggests that the endophytic lifestyle evolved from pathogenic ancestors through a process of attenuation, in which the fungus reduced its virulence in exchange for reliable host transmission.
-
-## See Also
-
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]] — Ergot alkaloids in the context of neurotropic fungi
-- [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] — Another group of fungi with complex plant interactions
-- [[bloomfield-coffee-rust-and-crop-pathogens]] — Fungal pathogens of agricultural crops
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] — Mutualistic mycorrhizal fungi
-- [[bloomfield-aspergillus-biology-and-aflatoxins]] — Fungal toxins in agriculture
-
-## References
-
-- Schardl, C.L., and C.D. Moon. "The Evolutionary Biology of Epichloë Endophytes and Their Grass Hosts." In *The Mycota V*, Springer, 2003.
-- Bush, L.P., H.H. Wilkinson, and C.L. Schardl. "Bioprotective Alkaloids of Grass-Fungal Endophyte Symbioses." *Plant Physiology* 125 (2001): 1083–1088.
-- Bacon, C.W., and J.F. White, Jr., eds. *Biotechnology [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]] of Grasses*. CRC Press, 1994.
-- Roberts, C.A., N.S. Hill, and G.E. Rottinghaus, eds. *Neotyphodium in Cool-Season Grasses. Blackwell Publishing*, 2005.
-- Clay, K. "Fungal Endophytes, Herbivores and the Structure of Grassland Communities." In *Multitrophic Interactions in Terrestrial Systems*, Blackwell, 1996.

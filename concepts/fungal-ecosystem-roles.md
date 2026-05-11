@@ -100,7 +100,29 @@ Mycelium-insect interactions are crucial to ecosystem recovery:
 - [[mycofiltration-overview]] for water filtration applications
 - [[mycorestoration-overview]] for the applied framework
 
+
+## Ecological Role
+Fungal organisms play critical roles in ecosystem functioning through
+decomposition, nutrient cycling, and symbiotic relationships with plants.
+Understanding their ecological contributions informs both cultivation
+practices and conservation efforts across diverse habitats.
+
+
+## Research Directions
+Current research explores applications in bioremediation, sustainable
+agriculture, and pharmaceutical development. Advances in genomic
+sequencing and cultivation techniques continue to reveal new species
+and expand our understanding of fungal biology.
+
+
+## See Also
+- [[dighton-fungal-radionuclide-accumulation-ecosystem-retention]]
+- [[fungal-indicators-soil-quality-ecosystem-health]]
+- [[fungal-ecosystem-services]]
+- [[fungal-ecosystem-processes-overview]]
+- [[dighton-fungal-ecosystem-services-framework]]
 ## Related
 
 - [[john-dighton]]
 - [[fungi-in-climate-change]]
+

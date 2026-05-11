@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 5-TASB
 
-PIHKAL entry #148. 5-THIOASYMBESCALINE;.
+[[2c-b-pihkal-entry-20]] #148. 5-THIOASYMBESCALINE;.
 
 ## Chemical Name
 
@@ -89,21 +89,5 @@ fractions were combined and the solvents removed under vacuum to give
 12.0 g of the crude 3,4-diethoxy-5-methylthiostyrene as a pale
 amber-colored oil.
 
-A solution of 6.0 mL of borane-methyl sulfide complex (10 M BH3 in
-methyl sulfide) in 45 mL THF was placed in a He atmosphere, cooled to
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[mme-entity-pihkal]]
-
-- [[eme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[4-tasb-entity-pihkal]]

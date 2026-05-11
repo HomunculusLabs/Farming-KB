@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Cancer Patients
 
-Cannabis has a well-established role in managing cancer symptoms, and emerging (though not yet conclusive) evidence for direct anti-tumor effects. The distinction between symptom management and anti-cancer properties is critical. (see [[cannabis-thc-therapeutic-profile]]).
+Cannabis has a well-established role in managing cancer symptoms, and emerging (though not yet conclusive) evidence for direct anti-tumor effects. The distinction between symptom management and anti-cancer properties is critical.
 
 ## Symptom Management (Strong Evidence)
 
@@ -67,3 +67,18 @@ Cannabis has a well-established role in managing cancer symptoms, and emerging (
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-for-chronic-pain]] — for pain management
 - [[turkey-tail-mushroom-cancer-research]] — for another complementary approach
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
+- [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]]
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
+- [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
+- [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]

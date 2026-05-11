@@ -80,34 +80,10 @@ Extracts of *C. tamariscifolia* have shown algicidal properties, potentially med
 
 The holdfast and frond surfaces support diverse epiphytic communities including diatoms, bryozoans, hydroids, and small crustaceans. Mobile fauna such as amphipods, isopods, and juvenile fish shelter within the canopy.
 
-The species plays an important role in coastal carbon cycling. [[lichens-primary-production-soil-formation-dighton]] by *Cystoseira* canopies contributes significantly to [[dighton-fungal-dissolved-organic-carbon-production]] export to deeper waters and sediments.
+The species plays an important role in coastal [[dighton-fungi-elevated-co2-global-carbon-cycling]]. [[lichens-primary-production-soil-formation-dighton]] by *Cystoseira* canopies contributes significantly to [[dighton-fungal-dissolved-organic-carbon-production]] export to deeper waters and sediments.
 
 Herbivory by sea urchins (*Paracentrotus lividus*) is a major controlling factor. Overgrazing by urchin populations can eliminate *Cystoseira* canopies, leading to shifts from macroalgal-dominated to barrens-dominated states.
 
 The canopy also provides nursery habitat for commercially important fish and shellfish species. Juvenile sparids, labrids, and mugilids are commonly associated with *Cystoseira* stands during their early life stages.
 
 Seasonal dynamics show peak biomass in late summer (August–September) and minimum in late winter. The semi-woody axis persists year-round, enabling rapid recolonization of the canopy from overwintering tissue.
-
-## Conservation and Threats
-
-*Cystoseira tamariscifolia* has experienced severe decline across much of its range over the past 50 years. It is listed as a species of conservation concern in several Mediterranean countries.
-
-Primary threats include coastal urbanization, increased sedimentation from construction, pollution, and trampling by recreational users. Climate-driven warming has caused upward range shifts and local extinctions at southern range margins.
-
-Regime shifts from *Cystoseira* forests to sea urchin barrens or turf algae are difficult to reverse. Once lost, recovery may take decades without active restoration intervention.
-
-Conservation efforts include habitat protection through marine protected areas, water quality improvement, and experimental restoration via outplanting of cultured individuals. Successful restoration has been reported in marine protected areas along the Catalan and Ligurian coasts.
-
-Ex situ cultivation techniques have been developed for restoration purposes. Fertile receptacles can be induced to release eggs and sperm, with germlings reared on ceramic tiles for outplanting. Survival rates of outplanted individuals remain variable (20–60% at 12 months).
-
-Legislative protection varies by jurisdiction. The species is included in the Barcelona Convention's list of endangered species and is protected under Spanish and Italian coastal management regulations.
-
-## See Also
-
-- [[fucus-serratus]]
-- [[sargassum-fusiforme]]
-- [[laminaria-digitata]]
-- [[himanthalia-elongata]]
-- [[caulerpa-racemosa]]
-- [[mastocarpus-stellatus]]
-- [[kappaphycus-alvarezii]]

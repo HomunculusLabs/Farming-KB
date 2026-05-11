@@ -55,7 +55,7 @@ The broom is used to sweep away the salt circle and pentagram after rituals, sym
 Candles of specific colors serve multiple functions across the guide's rituals:
 
 - **White and green** candles for [[shamanic-entheogenic-healing-rituals]] (white for purity and spiritual healing, green for earth and physical health)
-- **Yellow** candles (five, placed at pentagram points) for oil blessing rituals (yellow associated with the solar, intellectual, and success-oriented)
+- **Yellow** candles (five, placed at pentagram points) for [[cannabis-anointing-oil-blessing-rituals]] (yellow associated with the solar, intellectual, and success-oriented)
 - **Black** candle for the Vortex scrying ritual (black associated with banishing, protection, and the void from which all creation emerges)
 - **White** candles (five, in pentagram formation) for Smoke and Mirrors (white for purity and protective sacred space)
 
@@ -67,7 +67,7 @@ The guide's rituals follow structures that connect to well-documented historical
 
 ### The Four Directions and Elemental Correspondences
 
-Every major ritual involves turning to face south, north, east, and west in sequence while addressing the corresponding elements. This directional framework is traceable to ancient Greek and Near Eastern religious practice (where the four winds and four corners of the earth were common cosmological concepts) and was formalized in Western occultism by groups like the Hermetic Order of the Golden Dawn in the late 19th century. The specific element-direction correspondences in the guide (South=Earth, North=Air/Aether, East=Fire, West=Water) align with one of several established systems.
+Every major ritual involves turning to face south, north, east, and west in sequence while addressing the corresponding elements. This directional framework is traceable to [[ancient-greek-mystery-cults-comparison]] and Near Eastern religious practice (where the four winds and four corners of the earth were common cosmological concepts) and was formalized in Western occultism by groups like the Hermetic Order of the Golden Dawn in the late 19th century. The specific element-direction correspondences in the guide (South=Earth, North=Air/Aether, East=Fire, West=Water) align with one of several established systems.
 
 ### The Lesser Banishing Ritual of the Pentagram
 
@@ -88,36 +88,3 @@ The guide's instructions to "dab [the oil] on your forehead" and "smear the oil 
 The guide's emphasis on cannabis as one of "the herbs to extend our life, to heal our body, to sustain our minds" reflects the historical role of the witch as herbalist and healer. Before the medicalization of healthcare, the village wise woman or cunning man served as the primary source of botanical medicine. The association between witchcraft and herbal knowledge was so strong that the very word "witch" derives from roots meaning "to bend or shape" -- referring to the shaping of herbs into medicines and charms.
 
 The guide's claim that "the earth has given us the herbs to extend our life, to heal our body, to sustain our minds, to help us unleash the joy and happiness and ecstasy within" is a restatement of this traditional herbal-witchcraft worldview in contemporary language. Cannabis is presented not as a new addition to the witch's pharmacopoeia but as one expression of an ancient relationship between practitioners and the healing plants of the earth.
-
-## Spirits, Banishing, and the Grimoire Tradition
-
-The Vortex ritual's language of casting out "ill feelings and horrid spirits" and "banishing demons to the winds" employs terminology consistent with historical grimoire traditions. Medieval and Renaissance grimoires are filled with conjurations, banishings, and commands directed at spirits both beneficial and malevolent. The guide adapts this language to a psychological framework (ill feelings) while retaining the traditional spiritual vocabulary (horrid spirits, demons), creating a bridge between pre-modern spirit-working and modern psychological occultism.
-
-## The "Witch or Warlock" Identity
-
-The guide consistently addresses its audience as "witches and warlocks," using traditional gendered terminology for magical practitioners. This framing deliberately connects modern practice to the historical identity of the witch as a person with specialized knowledge of herbs, rituals, and the unseen world. The author's pseudonym "Magus Sativus" (from Latin: magus meaning magician or sage, and sativus meaning cultivated or sown -- literally "magician of the cultivated field") further reinforces the connection between agricultural/botanical knowledge and magical power that has defined the witch's identity across centuries.
-
-## Cannabis and the Persecution of Witches
-
-While the guide does not address the historical persecution of witches directly, its content implicitly engages with the legacy of the European witch hunts. The text's insistence that cannabis use is legitimate when practiced "responsibly and with the proper motives" can be read as a response to centuries of demonization of both witchcraft and psychoactive plants. The historical association between witches and "flying ointments" made from psychoactive herbs, combined with the criminalization of both witchcraft and cannabis across much of the modern world, creates a parallel history of suppression that the guide's matter-of-fact treatment of cannabis in magical practice subtly challenges.
-
-The guide's [[oss-oeric-legal-disclaimer-and-context]] -- "this should only be attempted in states or jurisdictions where one is able to legally obtain and use marijuana" -- acknowledges this ongoing tension between magical practice and legal authority, a tension that has defined the witch's relationship with power structures for centuries. The witch has historically been the figure who possesses knowledge (including botanical and pharmacological knowledge) that authorities seek to control or suppress, and the guide's integration of cannabis into witchcraft practice continues this dynamic in a contemporary context.
-
-## The Chalice as Eucharistic Vessel
-
-The chalice's prominent role across multiple rituals connects the guide's practices to one of the oldest ritual objects in human religious history. The use of wine in the Vortex ritual -- "I drink from this chalice all the good in the world" -- explicitly echoes Christian Eucharistic language while redirecting its theological framework from Christ to the earth. The chalice has served as a sacred vessel in traditions from the Grail legends of Arthurian romance (where it represents divine grace and healing) to the ceremonial magick of the Golden Dawn (where it corresponds to the element of water and the suit of Cups in the Tarot). By using the chalice to hold cannabis-infused oil and liquid, the guide positions these preparations within this long lineage of sacred consumption.
-
-## The Athame as Lightning Rod
-
-A particularly striking image in the guide's description of the Harnessing ritual is the athame used as a "lightning rod" for celestial energy. The text instructs the practitioner to raise the athame skyward and "visualize the healing powers of the heavens raining down upon you, attracted by the power of the athame." The athame is described as "attracting lightning bolts of positive energy," with the practitioner imagining various colors of energy flowing through the blade and into the body.
-
-This imagery connects to [[sacred-meal-ancient-traditions]] of the magician's staff or rod as a conductor of divine power -- from Moses' rod that parted the Red Sea to the caduceus of Hermes/Mercury. The athame in this context functions as a technological extension of the practitioner's will, focusing and channeling energies that would otherwise be too diffuse or overwhelming to work with directly.
-
-## Limitations as Historical Source
-
-It is important to note that the guide is a modern practical manual rather than a historical document. Its claims about [[allegro-dead-sea-scrolls-and-early-christian-sects]] cannabis use and other historical connections are not footnoted or sourced from primary documents. The rituals presented are contemporary constructions that draw on established magical frameworks rather than documented historical practices. The text should be understood as a contribution to modern neopagan and occult practice that invokes historical themes and traditions rather than as a scholarly account of pre-modern witchcraft.
-
-## See Also
-- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
-- [[marijuana-magick-scrying-and-divination-cannabis]]
-- [[marijuana-magick-ancient-ritual-use-cannabis]]

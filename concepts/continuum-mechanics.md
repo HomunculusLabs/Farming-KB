@@ -26,7 +26,7 @@ A small material volume must contain enough microstructure to define average pro
 
 This representative elementary volume is central in porous media, composites, polycrystals, suspensions, and biological tissues because the apparent material property depends on how much heterogeneity is averaged.
 
-When the length scale approaches a pore size, grain size, mean free path, crack tip process zone, or molecular dimension, the continuum description may fail or require enrichment.
+When the length scale approaches a [[soil-porosity-pore-size-distribution]], grain size, mean free path, crack tip process zone, or molecular dimension, the continuum description may fail or require enrichment.
 
 Rarefied gas dynamics, nanofluidics, granular flow, molecular fracture, and size-dependent plasticity are common cases where atomistic, kinetic, or discrete models become important.
 
@@ -88,58 +88,3 @@ In solid mechanics, continuum theory predicts deformation, vibration, buckling, 
 In fluid mechanics, it describes pressure, viscosity, flow acceleration, turbulence, diffusion, [[heat-transfer-coefficient]], and free-surface motion.
 
 Rheology occupies the boundary between solids and fluids by studying materials whose response depends strongly on rate and history.
-
-Materials science uses continuum models to connect microstructure with macroscopic behavior through homogenization, [[dislocation-theory-crystal-plasticity]], phase- field models, and damage mechanics.
-
-Geomechanics applies continuum ideas to soils, rocks, faults, reservoirs, and glaciers, often requiring porosity, pore pressure, friction, and inelastic deformation.
-
-Biomechanics applies the same framework to arteries, cartilage, bone, muscle, skin, cells, and soft tissues whose anisotropy and growth make constitutive modeling difficult.
-
-## Mathematical and Numerical Methods
-Continuum models usually produce partial differential equations defined over a domain with boundary and initial conditions.
-
-Analytical solutions exist for idealized geometries such as beams, plates, Couette flow, Poiseuille flow, spherical inclusions, or simple waves.
-
-Most realistic problems are solved numerically by finite element, finite volume, finite difference, boundary element, spectral, particle, or meshfree methods.
-
-Finite element methods dominate structural and multiphysics analysis because they handle complex geometry, nonlinear materials, and coupled fields.
-
-Finite volume methods dominate many fluid-flow calculations because they preserve conservation across control-volume faces.
-
-Verification checks the numerical solution of the equations, while validation checks whether the chosen continuum model represents the real system for the intended use.
-
-## Limits and Failure Modes
-Continuum predictions can fail when microstructure, discreteness, thermal fluctuations, chemical reactions, or defects control the phenomenon.
-
-A model calibrated for small strain may be invalid at large strain, and a model calibrated at one rate or temperature may fail under shock, creep, or fatigue loading.
-
-Singularities at sharp crack tips, point loads, or idealized corners often indicate that the mathematical idealization has exceeded its physical range.
-
-Turbulence closures, plasticity hardening laws, damage variables, and fracture criteria are not universal laws; they are approximations that require evidence.
-
-Mesh refinement cannot fix an incorrect constitutive model, incorrect boundary conditions, or an invalid continuum assumption.
-
-Good practice combines dimensional analysis, experiments, uncertainty estimates, sensitivity studies, and conservative interpretation of computed fields.
-
-## Engineering Importance
-Continuum mechanics lets engineers predict whether bridges deflect, aircraft wings flutter, pipes burst, implants wear, turbines cool, seals leak, and reservoirs deform.
-
-It makes physical design quantitative by turning geometry, loads, material parameters, and operating conditions into stresses, strains, flows, temperatures, and safety margins.
-
-The field also provides a bridge between laboratory measurements and computational simulation because measured material constants enter constitutive laws.
-
-Modern multiphysics simulation often couples mechanical deformation with heat transfer, electromagnetism, chemistry, [[phase-change-materials-thermal-energy-storage]], diffusion, or fluid flow.
-
-The most important practical skill is not merely solving equations but selecting the simplest model that captures the controlling physics at the relevant scale.
-## See Also
-
-- [[stress-strain-and-elasticity]]
-- [[finite-element-method]]
-- [[heat-transfer-mechanisms]]
-- Rheology and viscoelastic material modeling
-
-## References
-
-- Wikipedia, "Continuum mechanics," accessed 2026-05-02.
-- Truesdell and Noll, The Non-Linear Field Theories of Mechanics.
-- Malvern, Introduction to the Mechanics of a Continuous Medium.

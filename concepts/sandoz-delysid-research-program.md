@@ -88,33 +88,3 @@ Sandoz also published a "Literature on Delysid" bibliography periodically, docum
 ## LSD for the Dying
 
 One remarkable application discovered through the program was the administration of LSD to the terminally ill. Observations in American clinics showed that severe painful conditions in cancer patients, no longer responsive to conventional pain-relieving medication, could be alleviated or abolished by LSD.
-
-This did not involve a true analgesic effect. Rather, patients under the influence of LSD became psychologically dissociated from their bodies to such a degree that physical pain no longer penetrated consciousness.
-
-In many cases it proved beneficial for a member of the clergy or a psychotherapist to guide the patient's thoughts in a religious direction. Numerous case histories described patients who gained meaningful insights about life and death on their deathbeds, facing their demise fearlessly and in peace.
-
-Pioneers of this application included S. Grof, J. Halifax, E. Kast, S. Cohen, and W. A. Pahnke.
-
-## The End of the Program
-
-By the mid-1960s, LSD had spread beyond medical channels into recreational use. The Sandoz management cited three factors in their decision to halt production and distribution:
-
-First, worldwide publicity about LSD had caused a flood of misconceptions and lay interest that could not be controlled.
-
-Second, in most countries no adequate legislation existed to control the production and distribution of substances like LSD.
-
-Third, the problem of availability had fundamentally changed with the advent of mass production of [[ergot-and-lysergic-acid-history]] by fermentation procedures. Since the last patent on LSD had expired in 1963, an increasing number of dealers were offering LSD from unknown sources.
-
-Sandoz stopped all production and distribution of LSD, as well as its derivatives and analogues with hallucinogenic properties, and psilocybin, psilocin, and their hallucinogenic congeners.
-
-For a while, distribution was stopped completely. Later, most countries proclaimed strict regulations, and physicians and research institutes with special permits could again be supplied. In the United States, the National Institute of Mental Health (NIMH) undertook distribution to licensed research institutes.
-
-## Legacy
-
-The Sandoz Delysid program represented an unprecedented approach to pharmaceutical distribution — making a powerful psychoactive substance available to qualified researchers worldwide with minimal commercial restrictions. For nearly two decades, this "nobile officium" policy, exercised with the highest standards of medical ethics and self-imposed precautions, made possible the golden age of psychedelic therapy research.
-
-See also: [[lsd-therapeutic-history]], [[albert-hofmann]], [[psychedelic-research-legal-history-united-states]]
-
-## See Also
-
-- [[hofmann-lsd-sandoz-research-program]]

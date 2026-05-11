@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Bill Mollison, Permaculture: A Designers Manual
   - Bill Mollison, Permaculture Design Course
   - David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability
@@ -142,7 +143,7 @@ investment of space and labour.
   2011.
 ## Mangalitza and Old Pig Breeds
 
-# Mangalitza and Old Pig Breeds ## Why Old Breeds Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer-entity]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale. Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. ...
+# Mangalitza and Old Pig Breeds ## Why Old Breeds Modern "high performance" breeds have lost many of their old characteristics through selective breeding. They are no longer suited to being kept under natural conditions -- they would trip over their own feet on rough terrain and barely survive winter. They no longer have the natural instincts needed to be good workers. [[sepp-holzer]] only keeps old pig breeds on his farm because they fulfil all necessary criteria and are much more valuable, being bred only on a small scale. Free-roaming pigs are still a rarity in Austria and raise a great deal of public interest. ...
 
 ## Paddock System for Pigs
 

@@ -13,7 +13,7 @@ type: concept
 Lichens are composite organisms formed from the symbiotic partnership
 between fungi and photosynthetic algae or cyanobacteria. They represent
 one of the most successful [[microfungal-life-strategies-ruderal-competitive-stress-tolerant]] on Earth, colonizing extreme
-environments from arctic tundra to tropical forests, and from bare rock
+environments from arctic tundra to [[fungal-biodiversity-tropical-forests]], and from bare rock
 to tree bark. Despite their ecological importance, they remain
 understudied relative to their diversity and abundance.
 
@@ -36,7 +36,7 @@ algae and bacteria found in lichens, each time it founds a new colony.
 ## Fungal Identity
 
 Apothecial fungi, the most common fungi in lichen associations, are
-ascomycetes. They develop cup-shaped fruiting bodies on the lichen
+ascomycetes. They develop cup-shaped [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on the lichen
 surface that blast ascospores into the air. A smaller selection of
 basidiomycetes also form lichens, bearing tiny mushrooms rather than
 cups. Close to half of all identified fungi are ascomycetes, and
@@ -48,7 +48,7 @@ organisms on the planet.
 
 The hyphae of the fungal partner in lichens often contain melanin,
 the same pigment found in human skin. Melanin in lichen hyphae
-absorbs all wavelengths of visible light, plus ultraviolet, X-rays,
+absorbs all wavelengths of [[electromagnetic-spectrum-visible-light-plant-perception]], plus ultraviolet, X-rays,
 and gamma rays. The energy from this radiation is transferred deep
 into the pigment's molecular structure and emitted as heat, protecting
 the photosynthetic pigments of the algal partner from UV damage. The
@@ -59,7 +59,7 @@ Melanin's protective role extends to free-living fungi as well. Dark-
 pigmented fungi can survive on exposed surfaces like garden sheds and
 marble statues, while translucent species are restricted to
 subterranean habitats. Radiation-tolerant melanized fungi have been
-found flourishing in the contaminated soils around the Chernobyl
+found flourishing in the [[fungal-competition-survival-contaminated-soils]] around the Chernobyl
 reactor in Ukraine.
 
 ## Extreme Hardiness
@@ -83,47 +83,7 @@ radiation.
 Lichens grow extremely slowly. Crustose species form circular
 mycelial signatures on rocks, slate roofing, and tombstones at rates
 of a few millimeters or at most a centimeter per year. This slow
-growth, combined with their sensitivity to air pollution (especially
+growth, combined with their sensitivity to [[air-pollution-fungal-community-responses]] (especially
 sulfur dioxide), makes lichens valuable bioindicators of [[cervantes-air-quality-ventilation]].
 Their presence or absence on tree bark or stone surfaces can reveal
 the pollution history of an area.
-
-## Ecological Roles
-
-Lichens play crucial ecological roles. They are pioneer organisms,
-among the first colonizers of bare rock, beginning the process of
-soil formation by slowly breaking down mineral surfaces through both
-physical and chemical weathering. In arctic and alpine ecosystems,
-lichens are a major food source for caribou and other herbivores.
-Nitrogen-fixing cyanobacteria in some lichens contribute
-significant amounts of nitrogen to ecosystems.
-
-## The Mycological Blind Spot
-
-Despite their ecological importance and numerical dominance among
-fungi, lichens have been neglected by most mycologists. Their
-extremely slow growth makes them difficult to study experimentally,
-and many mycologists dismiss them as insufficiently dynamic compared
-to fast-growing mushrooms and molds. This neglect has led to
-significant weaknesses in the field of mycology, given that lichens
-constitute such a large proportion of known fungal species.
-
-## Lichens and Human Affairs
-
-Beyond their ecological functions, lichens have practical
-significance for humans. Various species have been used
-traditionally as food, medicine, and dye sources. Lichen dyes
-produced the distinctive colors of Harris tweed and other
-traditional Scottish textiles. Today, lichens continue to serve
-as important bioindicators, their sensitivity to atmospheric
-pollutants making them living monitors of environmental health.
-
-## Related
-
-- [[bloomfield-ascospore-extreme-resilience-electron-microscope-survival]]
-
-- [[bloomfield-fungal-biology-and-hyphal-growth]] for the
-  fundamental biology of the fungal partners in lichens
-- [[fungal-symbiosis-with-plants]]
-- [[fungal-ecology-decomposition-cycles]] for [[dighton-fungal-roles-in-nutrient-cycling]] in
-  [[fungal-ecosystem-processes-overview]]

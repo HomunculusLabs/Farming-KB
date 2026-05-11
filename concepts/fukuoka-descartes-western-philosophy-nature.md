@@ -1,7 +1,7 @@
 ---
 title: Descartes and the fukuoka descartes western philosophy nature of Nature
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentrism, eastern-philosophy]
 ---
 
@@ -9,8 +9,8 @@ tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentr
 
 ## Overview
 
-In *The Road Back to Nature*, Masanobu Fukuoka identifies René Descartes' famous proposition
-"I think, therefore I am" as the philosophical foundation of the Western attitude toward nature
+In *The Road Back to Nature*, [[masanobu-fukuoka-natural-farming-philosophy]] identifies René Descartes' famous proposition
+"I think, therefore I am" as the [[fukuoka-spiritual-philosophical-foundation]] of the Western attitude toward nature
 that has led to environmental destruction. He contrasts this anthropocentric worldview with
 Eastern philosophies of unity between humanity and nature, arguing that the West's error was
 not merely technological but fundamentally philosophical.
@@ -87,53 +87,3 @@ which humanity is an inseparable part.
 
 Knowledge of nature comes not from dissection and analysis but from participation and
 intuition.
-
-This is not mysticism but practical agriculture — the difference between pushing against the
-current and floating with it.
-
-## The Japanese Paradox
-
-The irony, as Fukuoka saw it, was that while Westerners were turning toward Eastern wisdom,
-the Japanese were rushing headlong toward Western materialism.
-
-Impressed by Western conquest and prosperity, the Japanese had spent decades Westernizing
-their diet, clothing, agriculture, and thinking.
-
-They had become clever and affluent but had lost their traditional simplicity and connection
-to the land.
-
-Westerners understood what the Japanese did not: the road of material progress leads to a dead
-end.
-
-## Beyond Philosophy to Practice
-
-Fukuoka believed the philosophical crisis could not be resolved through more philosophy.
-
-Westerners who came to his farm did not find answers through intellectual understanding.
-
-They found them through practice — through eating [[cho-brown-rice-vinegar-preparation]], working in the fields, and
-living simply.
-
-When the body changed through [[fukuoka-natural-diet-as-foundation]] and physical labor in nature, everything became
-clear of itself.
-
-This was why Fukuoka emphasized that both body and mind must agree: intellectual commitment
-without physical practice was as empty as physical practice without philosophical
-understanding.
-
-## The Limitations of Western Doubt
-
-Despite the promising turn toward Eastern philosophy, Fukuoka noted that Westerners still
-approached it through the framework of Western thinking.
-
-They studied Buddhism, tried meditation, adopted vegetarian diets — but often as another
-technique to be mastered rather than a fundamental shift in worldview.
-
-True understanding would require abandoning the Western philosophical framework entirely — a
-prospect that was both the greatest hope and the greatest challenge for Western civilization.
-
-## See Also
-
-- [[fukuoka-westerners-zen-diet-dedication]]
-- [[fukuoka-how-nature-should-be-perceived]]
-- [[fukuoka-philosophy-non-causality-nature]]

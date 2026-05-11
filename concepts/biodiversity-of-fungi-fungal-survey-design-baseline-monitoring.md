@@ -13,7 +13,7 @@ Fungal surveys generate data that serve multiple scientific and practical purpos
 - **Species documentation**: Establishing which species occur at a site, including new species discoveries. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
 - **Distribution mapping**: Understanding geographic ranges, habitat preferences, and host associations.
 - **Baseline establishment**: Creating reference points for measuring future changes caused by climate change, pollution, land-use change, or management practices.
-- **Ecosystem health indicators**: Fungal community composition and abundance serve as indicators of ecosystem integrity because of fungi's sensitivity to environmental perturbation.
+- **[[fungi-ecosystem-health-indicators]]**: Fungal [[core-endorhiza-bacterial-community-composition-cannabis]] and abundance serve as indicators of ecosystem integrity because of fungi's sensitivity to environmental perturbation.
 - **Biodiversity assessment**: Providing data for conservation planning and priority-setting.
 
 ### Evidence of Change
@@ -57,8 +57,8 @@ Fungi should be sampled across all major habitat types and substrata present at 
 - **Soil**: Different soil types, depths, moisture levels
 - **Dung**: Various herbivore droppings
 - **Living plant tissue**: Leaves, stems, roots (for endophytes and pathogens)
-- **Aquatic habitats**: Streams, ponds, wetlands
-- **Rock and mineral surfaces**: For lichens and rock-inhabiting fungi
+- **[[biodiversity-fungi-freshwater-aquatic-habitats]]**: Streams, ponds, wetlands
+- **Rock and [[fungal-community-profiling-rock-mineral-surfaces-gadd]]**: For lichens and rock-inhabiting fungi
 
 ### Organise by Ecological Group, Not Taxonomy
 
@@ -70,7 +70,7 @@ Standardised methods are essential for comparing results across sites, times, an
 
 - Sampling effort (e.g., person-hours per visit, area searched, number of substrata examined)
 - Timing and frequency of visits
-- Collection and preservation methods
+- Collection [[oss-oeric-drying-and-preservation-methods]]
 - Identification criteria and reference works used
 - Voucher specimen policies
 
@@ -88,39 +88,3 @@ No single method detects all fungi at a site. Effective surveys combine:
 Fungal fruiting is strongly seasonal and varies between years based on temperature, precipitation patterns, and substrate availability. Survey designs must account for this variation:
 
 - Conduct visits during peak fruiting seasons (typically autumn in temperate regions, rainy season in tropics)
-- Visit repeatedly across seasons to capture species with different phenologies
-- Maintain surveys for multiple years to account for inter-annual variation
-- Record weather conditions before and during each visit as contextual data
-
-## Specimen Documentation and Vouchering
-
-Every identification should be supported by a voucher specimen deposited in a recognised herbarium. Voucher specimens:
-
-- Provide verifiable evidence for species records
-- Enable future re-examination as taxonomic knowledge changes
-- Serve as sources of DNA for molecular studies
-- Document morphological variation within species
-- Build the historical record needed to detect changes over time
-
-## Data Management and Dissemination
-
-Survey data should be:
-
-- Maintained in structured databases with georeferenced locality information
-- Linked to voucher specimens and cultures
-- Made accessible through online platforms and publications
-- Presented in formats appropriate for diverse audiences (scientists, land managers, educators, citizens)
-
-## Products of Fungal Surveys
-
-Beyond scientific publications, fungal surveys can produce field guides for citizen scientists, educational materials for schools, baseline data for environmental impact assessments, species lists for conservation planning, and trained volunteers who can contribute to ongoing monitoring efforts.
-
-## See Also
-
-- [[biodiversity-of-fungi:-biomass,-carbon,-and-soil-structure]]
-- [[fungal-herbarium-specimen-curation-best-practices]]
-- [[fungal-culture-preservation-techniques]]
-
-## Source
-
-- Mueller, G.M., Bills, G.F., & Foster, M.S. (eds.) (2004). *Biodiversity of Fungi: Inventory and Monitoring Methods*. Elsevier Academic Press.

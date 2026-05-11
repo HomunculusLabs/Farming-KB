@@ -22,10 +22,10 @@ A home butcher shop (also called a processing room or harvest kitchen) is a dedi
 
 ### Location Options
 
--  **Detached outbuilding** — Ideal. Separates processing from living spaces, reduces contamination risk, allows for dedicated ventilation. A converted shed or small barn works well.
+-  **Detached outbuilding** — Ideal. Separates processing from living spaces, reduces [[fungicide-treated-seed-contamination-risk-mushroom-substrate]], allows for dedicated ventilation. A converted shed or small barn works well.
 -  **Garage bay** — Good option if insulated and plumbed. Easier to retrofit than a detached building. Ensure door can be sealed against flies.
 -  **Basement room** — Cool temperatures are a natural advantage. Must have adequate drainage and ventilation.
--  **Outdoor shelter** — Temporary setup for seasonal processing. A canopy or lean-to with a table and water source. Not ideal for regular use.
+-  **[[outdoor-shelter-building]]** — Temporary setup for seasonal processing. A canopy or lean-to with a table and water source. Not ideal for regular use.
 
 ### Essential Features
 
@@ -71,7 +71,7 @@ Keep knives razor-sharp. A dull knife is more dangerous than a sharp one because
 ### Processing Tools
 
 -  **Meat grinder** — Electric grinder rated for 5-10 lbs per minute. Size 12 or 32 grinder head for versatility. Hand-crank grinders work for occasional use but are labor-intensive.
--  **Sausage stuffer** — Vertical or horizontal stuffer for making sausages. A 5 lb capacity is sufficient for homestead scale.
+-  **Sausage stuffer** — Vertical or horizontal stuffer for making sausages. A 5 lb capacity is sufficient for [[homestead-scale-assessment]].
 -  **Meat mixer** — Optional but helpful for incorporating seasonings into ground meat and sausage.
 -  **Thermometer** — Probe thermometer for monitoring meat temperatures during processing and chilling.
 -  **Scale** — Digital scale accurate to 0.1 kg (0.25 lb) for weighing cuts and recording yield.
@@ -84,7 +84,7 @@ Keep knives razor-sharp. A dull knife is more dangerous than a sharp one because
 -  **Plastic wrap** — For double-wrapping cuts before freezer paper.
 -  **Masking tape** — For sealing freezer paper wraps.
 -  **Labels** — Include: cut name, date, weight, animal type. Pre-printed labels save time.
--  **Marker** — Waterproof permanent marker for labeling.
+-  **Marker** — Waterproof [[permanent-marker]] for labeling.
 
 ### Cold Storage
 
@@ -145,4 +145,4 @@ Design the flow so that product moves in one direction — from receiving throug
 
 ## Integration with Homestead Systems
 
-The butcher shop connects to broader homestead production. Process rabbits from [[rabbit-processing-guide]], goats from dairy culling, and poultry from [[chickshaw-and-poultry-tractors|poultry tractor]] systems. Bone and trim scraps can be composted, used for bone broth, or fed to [[black-soldier-fly-composting|BSF composting]] bins. Coordinate with [[homestead-dairy-equipment]] if processing dairy animals as well. Water supply can be supplemented by [[rainwater-harvesting-systems]] for non-potable uses (cleaning).
+The butcher shop connects to broader homestead production. Process rabbits from [[rabbit-processing-guide]], goats from dairy culling, and poultry from [[chickshaw-and-poultry-tractors]] systems. Bone and trim scraps can be composted, used for bone broth, or fed to [[black-soldier-fly-composting]] bins. Coordinate with [[homestead-dairy-equipment]] if processing dairy animals as well. Water supply can be supplemented by [[rainwater-harvesting-systems]] for non-potable uses (cleaning).

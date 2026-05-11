@@ -34,7 +34,7 @@ sources:
 ## Overview
 - **Type:** Succulent annual herb
 - **Origin:** Uncertain (possibly Indian subcontinent/Persia); now cosmopolitan
-- **Distribution:** Worldwide in temperate and tropical regions
+- **Distribution:** Worldwide in temperate and [[fukuoka-natural-farming-in-tropical-regions]]
 - **Habitat:** Disturbed soils, gardens, croplands, roadsides, waste areas
 - **Growth form:** Prostrate spreading mat, 10–30 cm diameter
 - **Status:** Commonly regarded as a weed; increasingly valued as nutritious food
@@ -70,7 +70,7 @@ sources:
 - **Melatonin:** Present at biologically significant levels
 - **Dopamine & noradrenaline:** Catecholamine alkaloids in measurable amounts
 - **Betalains (betacyanins, betaxanthins):** Pigments with antioxidant activity
-- **Flavonoids:** Apigenin, kaempferol, luteolin, myricetin derivatives
+- **Flavonoids:** [[apigenin]], [[kaempferol]], [[luteolin]], myricetin derivatives
 - **Oleraceins (A–E):** Bioactive alkaloids with anti-inflammatory properties
 - **Oxalates:** Moderate; caution for oxalate-sensitive individuals
 
@@ -88,48 +88,3 @@ sources:
 - **Antimicrobial:** Activity against gram-positive bacteria and some fungi
 - **Wound healing:** Topical use in traditional medicine; anti-ulcer activity
 - **Note:** Many studies in vitro/animal; human clinical data limited
-
-## Cultivation & Ecology
-### Growth Characteristics
-- **Photosynthesis:** C4/CAM intermediate — rare metabolic flexibility
-  - C4 pathway in full sun; shifts toward CAM at night; exceptional water-use efficiency
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]:** Survives prolonged dry periods; revives rapidly after rain
-- **Growth rate:** Seed to harvest in 6–8 weeks
-- **Reproduction:** Self-pollinating; 50,000–200,000 seeds/plant; viable 5–40+ years
-- **Soil:** Extremely adaptable; thrives in poor, compacted soils (pH 5.5–8.0)
-### Cultivation
-- **Sowing:** Direct sow after frost; barely cover seeds (light-germinating)
-- **Spacing:** 15–30 cm apart; spreads to fill gaps
-- **Water:** Minimal once established; drought-adapted
-- **Harvest:** Cut above ground; regrows; best before flowering
-- **Pests:** Generally pest-free
-### Ecological Role
-- Pioneer species colonizing disturbed ground; [[comparison-living-mulch-vs-cover-crops]] prevents erosion
-- Flowers attract small pollinators; seeds feed birds
-
-## Permaculture Relevance
-### Functions
-- **[[fukuoka-citrus-orchard-ground-cover-cultivation]] / living mulch:** Suppresses weeds, retains moisture, moderates temperature
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines potassium, magnesium, iron, calcium, phosphorus
-- **Edible biomass:** Dual-purpose ground cover + nutritious harvestable crop
-- **Drought resilience:** Functional in water-scarce designs and xeriscaping
-- **Self-seeding volunteer:** Minimal management once established
-### Design Applications
-- Guild component under fruit trees and in polyculture beds
-- Spontaneous accumulator in food [[permaculture-plants-food-forest-ground-covers-bamboos]] layers
-- Emergency food source — ubiquitous, nutritious, easily identified
-- Phytoremediation potential for lightly contaminated soils
-
-## Wiki Relevance
-- **Edible plant profile:** High nutritional density qualifies as functional food entry
-- **Omega-3 botanical source:** Top plant source relevant to plant-based nutrition
-- **Weed-food dichotomy:** Illustrates cultural bias in food plant classification
-- **Phytochemical richness:** Melatonin, dopamine, glutathione relevant to herbalism
-- **Permaculture index:** Dual function as dynamic accumulator + edible crop
-- **C4/[[comparison-c3-c4-and-cam-photosynthesis-pathways]]:** Rare metabolic pathway of botanical interest
-
-## See Also
-- [[glutathione-conjugation]] — Tripeptide antioxidant found at high levels in purslane
-- [[dynamic-accumulators]] — Permaculture concept; purslane mines K and Mg
-- [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] — Purslane uses rare C4/CAM intermediate pathway
-- [[mollison-designers-chickweed-and-edible-weeds]] — Category of nutritious plants commonly dismissed as weeds

@@ -1,17 +1,18 @@
 ---
-title: mollison coconut palm polyculture systems Polyculture Systems
+title: Mollison Coconut Palm Polyculture Systems
 created: 2026-04-26
 tags: [coconut, palm, tropical, polyculture, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Coconut Palm Polyculture Systems
 
-Bill Mollison presents coconut palm (Cocos nucifera) polyculture
+[[bill-mollison]] presents coconut palm ([[cocos-nucifera]]) polyculture
 as one of the most productive and complex tropical systems in
 Permaculture: A Designers' Manual. The coconut palm serves as
 the structural dominant of humid tropical food systems, with a
@@ -22,7 +23,7 @@ interplantings beneath its canopy.
 
 Coconuts have hundreds of known products or uses; this gives
 market flexibility. There are coconut palms ideally suited to
-oil production, while others produce very fine quality cup copra
+[[cannabis-honey-oil-production]], while others produce very fine quality cup copra
 for temple use, and others are ideal for shredded coconut,
 coconut milk, fresh nut markets, and so on. There are dwarf,
 medium-height, and tall varieties. The former are ideal for
@@ -57,7 +58,7 @@ Zoning out from settlement, one might place:
 
 - Productive trees in palms (total species: 8-12)
 - Palms within crop and [[mollison-avenue-cropping-with-legumes]] (total: 30-35)
-- [[permaculture-designers-manual-animal-forage-systems]] and free range in palms (total: 8-20)
+- [[permaculture-designers-manual-animal-forage-systems]] and [[comparison-chicken-tractor-vs-free-range]] in palms (total: 8-20)
 - Village garden and trellis, roof crop, greens (total: 100-150)
 - Fuel-wood in dwarf palm (total: 3-4)
 - Forest and tree reserves
@@ -68,7 +69,7 @@ For any one site, species that go with a palm polyculture must
 be selected according to several criteria:
 
 - Species suited to soils. A mosaic approach is indicated based
-  on soil drainage and nutrient status.
+  on soil drainage and [[leaf-tissue-analysis-crop-nutrient-status]].
 - Species locally acceptable, or very similar to local types.
   New introductions need trials and instruction as to processing.
 - Species with wide potential for processing.
@@ -87,38 +88,3 @@ characteristics can be expected, subject to later selection and
 culling. Even if grown from root tips in [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], meristem
 and single-cell mutations are very high. In seed-grown crop,
 about one in twenty trees may show very different characteristics,
-and of these perhaps one-third will be favourable for site.
-
-This indicates a need for initial over-planting to allow for a
-2-4% cull within the first 7 years (when a fair estimate of
-vigour, nut production, bearing, and [[cannabis-disease-pest-resistance-breeding-clarke]] can be made)
-and another 2-4% cull in years 7-14, when the tree is mature.
-Culling and replanting in palm crop can be a continuous process.
-
-## Co-Processing and Special Polycultures
-
-In special plantations intended for ethanol or biogas fuel
-production, the same ferment and distillation equipment will
-serve a complex of crops. In alcohol-oriented palm crop,
-interplant of cane sugar, century plant (Agave), beet or sorghum
-sugar may add to the total sugar crop. Oil palms may be
-interplanted with mustards, sunflower, rapeseed to take
-advantage of oil press equipment and to increase honey
-production for bees.
-
-Wetlands suit many swamp palms (Nypa, Mauritia), taro, rice,
-and Azolla fern or blue-green algae complexes, where the fern
-acts as nitrogenous mulch and the palms as deep nutrient pumps
-for the padi crops.
-
-## Integration with the Tropical Garden
-
-In the [[mollison-tree-crop-systems-permaculture]]
-- mollison-guild-design
-- mollison-plant-stacking-and-interaction
-## See Also
-- [[mollison-designers-coconut-palm-dominant-polyculture]]
-- [[bill-mollison]]
-- [[cocos-nucifera]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
-- [[mollison-bamboo-permaculture-systems]]

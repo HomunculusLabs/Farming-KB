@@ -28,7 +28,7 @@ sources:
 
 It is a common temperate species found fruiting on dead hardwood branches, particularly oaks, during cool wet conditions in autumn and winter. The species is an obligate parasite on *Stereum* species, using their mycelium as a substrate base for fruiting.
 
-Edible but bland and gelatinous in texture, it is occasionally collected in Asian culinary traditions but has limited commercial value compared to its close relative *Tremella fuciformis* (snow fungus).
+Edible but bland and gelatinous in texture, it is occasionally collected in Asian culinary traditions but has limited commercial value compared to its close relative *[[tremella-fuciformis]]* (snow fungus).
 
 ## Taxonomy
 
@@ -41,7 +41,7 @@ Edible but bland and gelatinous in texture, it is occasionally collected in Asia
 - **Species:** *T. foliacea* Pers. (1801)
 - **Synonyms:** *Tremella lutescens* Pers., *Tremella fimbriata* Pers., *Tremella frondosa* (Fr.) Fr.
 - **Common names:** Leafy brain, brown jelly roll, jelly leaf, foliage tremella
-- **Etymology:** *foliacea* from Latin *folium* (leaf), referring to the leaf-like appearance of the fruiting body
+- **Etymology:** *foliacea* from Latin *folium* (leaf), referring to the leaf-like appearance of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
 
 ## Morphology
 
@@ -69,7 +69,7 @@ Edible but bland and gelatinous in texture, it is occasionally collected in Asia
 - **Substrate specificity:** Primarily on oaks (*Quercus* spp.), also on beech (*Fagus*), alder (*Alnus*), birch (*Betula*), and occasionally conifers
 - **Season:** Late autumn through winter (October–February); occasionally in spring after wet periods
 - **Environmental conditions:** Requires sustained high humidity and cool temperatures (2–12°C) for fruiting; rehydrates and fruits after rain events
-- **Parasitic association:** Obligate mycoparasite on crust fungi in the genus *Stereum*, especially *Stereum hirsutum* and *Stereum rugosum*
+- **Parasitic association:** Obligate mycoparasite on crust fungi in the genus *Stereum*, especially *[[stereum-hirsutum]]* and *Stereum rugosum*
 
 ## Biology and Ecology
 
@@ -79,7 +79,7 @@ Edible but bland and gelatinous in texture, it is occasionally collected in Asia
 
 The Tremella mycelium establishes within the host's subiculum (crust-like mat) using specialized haustorial cells that penetrate host hyphae.
 
-Fruiting bodies emerge directly from the *Stereum* colony, which explains why the fungus is always found on wood bearing *Stereum* crust.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] emerge directly from the *Stereum* colony, which explains why the fungus is always found on wood bearing *Stereum* crust.
 
 This relationship is non-lethal to the host — the *Stereum* colony continues to decompose wood while supporting the Tremella.
 
@@ -88,13 +88,3 @@ This relationship is non-lethal to the host — the *Stereum* colony continues t
 - **Successional role:** Occupies a late-stage position on [[fungal-dead-wood-diversity]] already colonized by *Stereum* fungal-succession on hardwood debris in temperate forests
 - **Moisture dynamics:** Gelatinous fruiting bodies can absorb and retain significant water, potentially moderating microhabitat moisture for other organisms
 - **Invertebrate habitat:** Provides temporary shelter and food for small insects and springtails during wet months
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| *Tremella fuciformis* | White to translucent; fruiting on *Annulohypoxylon* (not *Stereum*); commercially cultivated |
-| *Tremella aurantia* | Bright orange to yellow; larger, more erect; parasitizes *Stereum hirsutum* |
-| *[[decomposition-cycles]] and diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- **[[tremella-fuciformis]] — Snow fungus, commercially cultivated close relative with significant medicinal research
-- [[sterilization]] — Sterilization techniques relevant to laboratory culture of Tremellaceae

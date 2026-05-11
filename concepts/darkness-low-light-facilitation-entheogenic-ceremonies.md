@@ -88,9 +88,3 @@ A systematic comparison of entheogenic ceremonies reveals a spectrum of light co
 | UDV | Night, low light | Maestres at center table | Auditory (sermons) |
 
 The consistent pattern is that visual input is minimized but not eliminated entirely. Complete sensory deprivation is not the goal; rather, the aim is to create conditions where internally generated visionary content can compete with — and eventually dominate — external sensory input. The small amount of light present (candle, fire, altar, mirror) serves as an anchor to consensus reality, preventing the experience from becoming ungrounded.
-
-## See Also
-
-- [[metzner-hallucinogens-psychotherapy-and-shamanism]] and shamanism
-- mazatec mushroom [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]] singing and christian syncretism
-- [[psychedelic-experience-preparation]]

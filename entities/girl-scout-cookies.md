@@ -1,5 +1,5 @@
 ---
-title: "Girl Scout Cookies"
+title: Girl Scout Cookies
 created: 2026-04-28
 type: strain
 tags: [cannabis, strain, hybrid, cookie-family, bay-area-genetics, high-thc]
@@ -10,13 +10,13 @@ sources:
 ---
 
 Girl Scout Cookies (GSC) is a highly influential hybrid [[blesching-cannabis-strain-selection-receptor-targeting]]
-that originated in the San Francisco Bay Area around 2010-2012. Created
+that originated in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area around 2010-2012. Created
 by crossing the OG Kush-descended "F1 Durb" (a Durban Poison x OG Kush
 hybrid) with an unknown Cookies cutting rumored to be an F1 from a
-Florida OG x Granddaddy Purple cross, GSC quickly became one of the
-most recognizable and commercially significant cannabis strains in the
+Florida OG x [[granddaddy-purple]] cross, GSC quickly became one of the
+most recognizable and commercially significant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in the
 world. It is the foundational mother of the broader "Cookies" genetic
-family, which includes Thin Mint Cookies, Forum Cookies, and dozens of
+family, which includes [[thin-mint-cookies]], Forum Cookies, and dozens of
 commercial offspring.
 
 ## Genetic Lineage
@@ -24,7 +24,7 @@ commercial offspring.
 | Parent | Role | Notable Traits |
 |--------|------|----------------|
 | OG Kush (via F1 Durb) | Pollen donor | Fuel aroma, high potency, indica structure |
-| Durban Poison (via F1 Durb) | Grandparent | Sweet terpene profile, uplifting sativa effect |
+| Durban Poison (via F1 Durb) | Grandparent | Sweet [[cannabis-terpene-profile]], uplifting sativa effect |
 | Florida OG (rumored) | Maternal grandparent | Potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], OG terpene profile |
 | Granddaddy Purple (rumored) | Paternal grandparent | Coloration, berry notes, indica relaxation |
 
@@ -88,60 +88,3 @@ cool night temperatures, especially in the final 2-3 weeks of flowering.
 
 ### Flowering
 - **Indoor flowering time**: 9-10 weeks from 12/12 flip
-- **Outdoor harvest**: Early to mid-October (Northern Hemisphere)
-- **Yield**: Moderate, 300-450 g/m² indoors under optimal conditions
-- **Bud structure**: Dense, chunky, and tightly packed calyxes with
-  heavy resin production. Trichome coverage is exceptional, giving buds
-  a frosted, almost white appearance at maturity.
-
-### Cultivation Notes
-- Responds well to LST (low-stress training) and ScrOG methods
-- Moderate nutrient requirements; avoid excessive nitrogen in flower
-- Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments
-- Benefits from increased calcium and magnesium during mid-flower
-- Temperature control (especially cool nights) enhances purple
-  coloration and terpene development
-- Carbon filtration recommended due to strong aroma during flowering
-- Clone-only propagation; seeds from GSC crosses are widely available
-  but the original cut is maintained vegetatively
-
-## Effects and Medical Applications
-
-### Recreational Effects
-The effects are predominantly indica-dominant, characterized by a rapid
-onset of euphoria and cerebral stimulation followed by deep physical
-relaxation. Users commonly report:
-
-- Strong, uplifting cerebral euphoria in the first 30-60 minutes
-- Progressive body relaxation that can become heavily sedative at
-  higher doses
-- Enhanced sensory perception, particularly taste and smell
-- Mood elevation with notable anti-anxiety properties for some users
-- Appetite stimulation (munchies) is pronounced
-- Duration of effects: 2-3 hours, with a gentle comedown
-
-### Medical Applications
-GSC has been widely used medicinally for:
-
-- **[[cannabis-chronic-pain-management]] management**: Moderate to severe pain relief from
-  both neuropathic and inflammatory sources
-- **[[cannabis-for-nausea-and-appetite-stimulation]] loss**: Effective appetite stimulant, useful
-  for patients undergoing chemotherapy or with HIV/AIDS wasting
-- **Insomnia**: Heavier doses promote sleep onset and maintenance
-- **Stress and anxiety**: Many users report significant anxiolytic
-  effects at low to moderate doses
-- **PTSD**: Anecdotal reports of symptom reduction, though clinical
-  evidence remains limited
-- **Muscle spasms**: Muscle relaxant properties beneficial for
-  conditions like MS and fibromyalgia
-## See Also
-
-- [[donny-burger]]
-- [[oreoz]]
-
-- [[og-kush-cannabis-entity]]
-- [[blue-dream]]
-- [[northern-lights]]
-- [[gorilla-glue]]
-- [[cannabis-indica]]
-- [[mendo-breath-entity]]

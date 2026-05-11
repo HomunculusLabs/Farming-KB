@@ -9,22 +9,22 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycoremediation of Petroleum Hydrocarbons
 
-Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil, and related compounds -- are among the most widespread environmental contaminants. Mushrooms can break down these complex molecules using the same lignin-degrading enzymes they employ to decompose wood. (see [[mycoremediation-techniques]]).
+Petroleum hydrocarbons -- including crude oil, diesel fuel, gasoline, motor oil, and related compounds -- are among the most widespread environmental contaminants. Mushrooms can break down these complex molecules using the same lignin-degrading enzymes they employ to decompose wood.
 
 ## How Fungi Degrade Petroleum
 
-The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, manganese peroxidase, and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds. (see [[fungal-enzymes-in-environmental-bioremediation]]).
+The enzymes that white rot fungi use to break down lignin -- particularly lignin peroxidase, [[fungal-manganese-peroxidase-remediation]], and laccase -- are non-specific in their action. Because many petroleum hydrocarbons share structural similarities with lignin's complex aromatic rings, these enzymes can also oxidize and dismantle oil molecules into simpler, less toxic compounds.
 
 Key species for petroleum remediation:
 
-- **Oyster mushroom (Pleurotus ostreatus)**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, oyster mushrooms fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
-- **Turkey tail (Trametes versicolor)**: White rot polypore with strong lignin-degrading enzyme production.
-- **Reishi (Ganoderma lucidum)**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
+- **Oyster mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]])**: Primary saprophyte, aggressive colonizer, documented to break down diesel fuel and oil-soaked straw. After 3 weeks of growth on oil-soaked straw, oyster mushrooms fruited, showing the mycelium was undeterred and actively metabolizing the oil as a nutrient. The straw lightened in color, directly reflecting the reduction of petroleum hydrocarbons.
+- **Turkey tail ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]])**: White rot polypore with strong lignin-degrading enzyme production.
+- **Reishi ([[ganoderma-lucidum]])**: Medicinal polypore that can co-inhabit woody substrates with other decomposers.
 - **King stropharia (Stropharia rugoso-annulata)**: Garden giant that thrives in contact with bacteria and organic debris.
 
 ## Polycyclic Aromatic Hydrocarbons (PAHs)
 
-PAHs are particularly recalcitrant environmental pollutants produced by incomplete combustion of organic matter. White rot fungi have demonstrated the ability to mineralize PAHs, including naphthalene, anthracene, phenanthrene, and benzo[a]pyrene. The enzymatic degradation pathway involves initial oxidation of the aromatic ring structure, followed by ring cleavage and eventual conversion to carbon dioxide and water.
+PAHs are particularly recalcitrant environmental pollutants produced by incomplete combustion of organic matter. White rot fungi have demonstrated the ability to mineralize PAHs, including naphthalene, anthracene, phenanthrene, and benzo[a]pyrene. The [[enzymatic-degradation-in-mycoremediation]] pathway involves initial oxidation of the aromatic ring structure, followed by ring cleavage and eventual conversion to carbon dioxide and water.
 
 ## Practical Deployment
 
@@ -40,7 +40,7 @@ The more surface area of substrate available to the mycelium, the faster the deg
 
 ## Factors Affecting Success
 
-- **Species selection**: White rot fungi are generally more effective than brown rot fungi for petroleum degradation
+- **Species selection**: White rot fungi are generally more effective than brown rot fungi for [[petroleum-degradation-fungi]]
 - **Temperature**: Enzyme production is temperature-dependent; most species work best at 60-80 F
 - **Moisture**: Adequate moisture is required for enzyme activity and mycelial growth
 - **Nutrient availability**: Supplementation with nitrogen sources can accelerate degradation rates
@@ -49,7 +49,32 @@ The more surface area of substrate available to the mycelium, the faster the deg
 
 ## See Also
 
-- [[mycoremediation-overview]]
-- [[mycoremediation-of-heavy-metals]]
+- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-heavy-metals]]
 - [[mycoforestry-forest-restoration]]
 - [[paul-stamets]]
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

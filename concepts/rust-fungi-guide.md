@@ -9,7 +9,7 @@ sources: []
 
 # Rust Fungi Guide
 
-Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide|Basidiomycota]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
+Rust fungi (order Pucciniales, phylum [[basidiomycete-phylum-guide]]) are obligate plant parasites responsible for some of the most devastating crop diseases in agriculture. With over 7,000 species, they are the largest group of plant pathogenic fungi. Rust fungi cannot be cultured artificially and require living host tissue to complete their life cycle.
 
 ## Defining Characteristics
 
@@ -46,7 +46,7 @@ Rust fungi can have up to five distinct spore stages, designated by Roman numera
 - This is the stage responsible for epidemics
 
 ### Stage III: Telia (Teliospores)
-- Dark brown to black pustules, often forming late in the growing season
+- Dark brown to black pustules, often forming late in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - Produce teliospores, which are the overwintering/overseasoning stage
 - Teliospores are dikaryotic; karyogamy occurs within them
 - Some require a dormancy period before germination
@@ -60,11 +60,11 @@ Rust fungi can have up to five distinct spore stages, designated by Roman numera
 ## Types of Life Cycles
 
 ### Autoecious (Single Host)
-Complete their entire life cycle on one host species. (see [[gadd-fungal-ecology-pathogens]]).
+Complete their entire life cycle on one host species.
 - Example: Puccinia helianthi (sunflower rust)
 
 ### Heteroecious (Two Alternating Hosts)
-Require two unrelated host species to complete their life cycle. The hosts are often taxonomically distant. (see [[fungal-parasites]]).
+Require two unrelated host species to complete their life cycle. The hosts are often taxonomically distant.
 - Example: Puccinia graminis (stem rust): barberry (Berberis) and wheat (Triticum)
 
 ### Macrocylic (All Five Stages)
@@ -83,7 +83,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Ug99 lineage (TTKSK): identified in Uganda in 1999, threatens global wheat production
 - Ug99 has virulence against most widely deployed resistance genes
 - Can cause yield losses of up to 100% in susceptible varieties
-- Eradication of barberry in North America reduced stem rust incidence dramatically
+- Eradication of barberry in [[guzman-psilocybin-mushrooms-north-america]] reduced stem rust incidence dramatically
 
 ### Stripe (Yellow) Rust (Puccinia striiformis f. sp. tritici)
 - Favors cooler, moist conditions
@@ -99,7 +99,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Yield losses typically 10-40%
 
 ### Coffee Leaf Rust (Hemileia vastatrix)
-- Devastating disease of Coffea arabica
+- Devastating disease of [[coffea-arabica]]
 - Caused the collapse of coffee production in Ceylon (Sri Lanka) in the 1870s
 - Currently threatens coffee production throughout Central and South America
 - Favorable conditions: temperatures 18-28 C, high humidity
@@ -109,7 +109,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - First reported in Japan in 1902; arrived in continental US in 2004
 - Can cause yield losses of 10-80%
 - Rapid spread through wind-dispersed urediniospores
-- Requires fungicide application for control; resistance breeding ongoing
+- Requires fungicide application for control; [[cannabis-disease-pest-resistance-breeding-clarke]] ongoing
 
 ### Pine Stem Rusts (Cronartium spp.)
 - Cronartium ribicola: white pine blister rust, alternates between white pines and Ribes (currants/gooseberries)
@@ -117,7 +117,7 @@ Missing one or more spore stages, often producing only telia and basidia.
 - Efforts to develop resistant pine varieties and remove Ribes in pine areas
 
 ### Cedar-Apple Rust (Gymnosporangium juniperi-virginianae)
-- Alternates between eastern red cedar (Juniperus virginiana) and apple/crabapple
+- Alternates between eastern red cedar ([[juniperus-virginiana]]) and apple/crabapple
 - Produces large, gelatinous, orange telial horns on cedar in spring
 - Causes bright orange spots on apple leaves and fruit
 - Control: remove cedar trees near orchards, apply fungicides

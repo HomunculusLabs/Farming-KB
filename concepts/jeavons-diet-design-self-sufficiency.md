@@ -1,7 +1,7 @@
 ---
-title: jeavons diet design self sufficiency and Sustainable Food Self-Sufficiency
+title: Jeavons Diet Design Self Sufficiency
 created: 2026-04-26
-author: John Jeavons
+author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition
 book: How to Grow More Vegetables
 tags: [biointensive, diet-design, self-sufficiency, food-security, sustainable-agriculture, mini-farming]
@@ -18,7 +18,7 @@ The [[jeavons-grow-biointensive-method-overview]] method is designed to make it 
 The world is approaching a crisis of arable land per person:
 - By 2014-2021, there may be an average of just 9,000 square feet (or less) of farmable land per person
 - Many countries already have only enough water to irrigate 4,000 square feet per person
-- Current agricultural practices require 7,000 to 63,000 square feet per person
+- Current [[mycorrhizal-agricultural-practices]] require 7,000 to 63,000 square feet per person
 - GROW BIOINTENSIVE can feed one person on 4,000 square feet at intermediate yields
 
 ## The 60/30/10 Diet Model
@@ -26,7 +26,7 @@ The world is approaching a crisis of arable land per person:
 ### For One Person (~4,000 sq ft / ~40 beds of 100 sq ft)
 
 **60% — Carbon-and-Calorie Crops** (~24 beds)
-- Purpose: Maximum carbon production for compost AND satisfactory [[solomon-self-sufficiency-calorie-production-economics]]
+- Purpose: Maximum [[dighton-fungal-dissolved-organic-carbon-production]] for compost AND satisfactory [[solomon-self-sufficiency-calorie-production-economics]]
 - Crops: Wheat, cereal rye, oats, barley, triticale, corn, sorghum, amaranth, quinoa, fava beans, sunflowers
 - These crops must be interplanted with legumes for nitrogen
 
@@ -34,7 +34,7 @@ The world is approaching a crisis of arable land per person:
 - Purpose: Maximum calories per unit area
 - Best choices (both area- and weight-efficient): Potatoes, burdock, sweet potatoes, garlic, parsnips, salsify
 - Trade-off options: Onions, leeks, turnips (more area-efficient but require eating more weight)
-- Avoid for calorie production: Carrots, beets, radishes (too many beds needed)
+- Avoid for [[solomon-garden-planning-calorie-production]]: Carrots, beets, radishes (too many beds needed)
 
 **10% — Vegetable Crops** (~4 beds)
 - Purpose: Vitamins and minerals
@@ -69,7 +69,7 @@ A complete sustainable diet must include:
 
 ### Year-by-Year Approach
 
-**Year 1:** Start with approximately 300 square feet (for a family garden). Grow easy vegetables, learn double-digging, composting, and transplanting techniques.
+**Year 1:** Start with approximately 300 square feet (for a family garden). Grow easy vegetables, learn double-digging, composting, and [[jeavons-transplanting-techniques]].
 
 **Year 2:** Expand by 300 square feet. Begin adding calorie crops (potatoes, garlic).
 
@@ -88,13 +88,3 @@ For a family of four, start with approximately 300 square feet and add 300 more 
 **Summer:** Plant summer crops; keep watered and weeded; harvest.
 
 **Fall:** Start additional compost piles; harvest summer crops; plant fall/winter compost crops. In mild-winter areas, plant fall gardens of cool-weather crops.
-
-## Sustainability vs. Self-Sufficiency
-
-True sustainable food self-sufficiency requires:
-- Producing all compost materials within the mini-farm
-- Returning all nutrients to the soil (ideally including human waste)
-- Growing enough carbon to maintain soil humus
-- [[jeavons-calorie-farming]]
-- [[jeavons-seed-saving-and-propagation]]
-- [[solomon-garden-planning-calorie-production]]

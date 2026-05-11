@@ -70,16 +70,16 @@ grow unchecked.
 ### Annual Herbs
 - **Borage** (Borago officinalis): Easy to grow, reaches 2ft 6in.
   Attracts bees. Excellent companion for strawberries and tomatoes
-- **Chervil** (Anthriscus cerefolium): Fast growing, prefers shade
-- **Dill** (Anethum graveolens): Fast growing, decorative flowers
+- **Chervil** ([[anthriscus-cerefolium]]): Fast growing, prefers shade
+- **Dill** ([[anethum-graveolens]]): Fast growing, decorative flowers
 - **Sweet Basil** (Ocimum basilicum): Reaches 2ft, grown as annual
 
 ### Perennial Herbs
 - **Balm** (Melissa officinalis): Robust and aromatic, attracts bees
 - **Chives** (Allium schoenoprasum): Fast growing, lilac flowers
-- **French Tarragon** (Artemisia dracunculus): Aromatic, subtle flavor
-- **Fennel** (Foeniculum vulgare): Decorative flowers, reaches 5ft
-- **Lovage** (Levisticum officinale): Very tall, attractive seedheads
+- **French Tarragon** ([[artemisia-dracunculus]]): Aromatic, subtle flavor
+- **Fennel** ([[foeniculum-vulgare-entity]]): Decorative flowers, reaches 5ft
+- **Lovage** ([[levisticum-officinale]]): Very tall, attractive seedheads
 - **Mint** (Mentha spicata): Fast growing, prefers semi-shade
 - **Sorrel** (Rumex acetosa): Broad leaved, prefers semi-shade
 - **Winter Savory** (Satureia montana): Evergreen, attracts bees
@@ -87,23 +87,4 @@ grow unchecked.
 ### Shrubby Herbs
 - **Lemon Thyme** (Thymus citriodorus): Evergreen, attracts bees
 - **Sage** (Salvia officinalis): Hardy shrub, decorative and aromatic
-- **Rosemary** (Rosmarinus officinalis): Aromatic evergreen
-
-## Propagation
-
-Perennial herbs can be dug up and divided in the fall and early winter,
-though it can also be done in [[coleman-overwintered-onions-and-early-spring-crops]]. Propagate the shrubby herbs,
-like rosemary, bay, and lavender, from softwood cuttings in early
-summer. See [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] for herbs as [[cho-natural-pest-control-methods]] deterrents
-- [[hamilton-organic-pest-control]] for using herbs to attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-
-## See Also
-
-- [[herb-gardening-organic-hamilton]]
+- **Rosemary** ([[rosmarinus-officinalis-entity]]): Aromatic evergreen

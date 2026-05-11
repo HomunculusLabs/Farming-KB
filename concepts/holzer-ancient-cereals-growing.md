@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Ancient Cereals Growing
@@ -87,19 +88,3 @@ Cereals serve multiple purposes:
 
 Everything from the threshing and winnowing process is used on the farm:
 - Straw: livestock bedding
-- Light material: feed paste when mixed with bran
-- Fine broken grain: chicken feed
-- Bulky waste: chickens scratch through it
-- Clean grain: seed and milling
-
-This stands as an example against today's throw-away culture.
-
-See also: [[small-scale-grain-growing]], [[grain-processing-and-milling-guide]], [[sepp-holzer-soil-fertility-and-green-manure]]
-- holzer ancient cereals growing
-- [[holzer-green-manure-and-soil-building-plants]]
-
-## See Also
-
-- [[secale-cereale]]
-
-- [[holzer-saving-ancient-trees]]

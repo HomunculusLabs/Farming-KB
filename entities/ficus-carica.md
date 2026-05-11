@@ -88,18 +88,3 @@ for permaculture systems in warm temperate and subtropical regions.
 Its ability to crop with minimal irrigation, produce two harvests
 annually, and thrive in container culture makes it invaluable for
 [[pdc-urban-permaculture-design-principles]] and small-space food production. The combination
-of fresh and dried fruit, medicinal uses, and ornamental value make
-it a multi-functional garden element.
-
-## See Also
-
-- [[ficus-religiosa]]
-
-- [[ficus-lyrata]]
-
-- [[food-forest-design]]
-- carob
-- olea europaea
-- figs-ficus-spp
-- [[olea-europaea]]
-- [[permplant-fig-ficus-carica-fruit-tree]]

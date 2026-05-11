@@ -7,7 +7,7 @@ tags:
   - verbenaceae
   - nervine
   - traditional-medicine
-  - permaculture
+  - [[permaculture]]
   - pollinator-plant
 date: 2026-04-28
 updated: 2026-04-28
@@ -73,7 +73,7 @@ digestive bitter.
 
 ### Iridoid Glycosides (Primary Actives)
 
-- **Verbenalin (cornin):** 0.3–1.5% of dried herb; bitter principle with
+- **Verbenalin (cornin):** 0.3–1.5% of [[dried-herb-storage]]; bitter principle with
   parasympathomimetic and mild hypotensive activity
 - **Aucubin:** Hepatoprotective; anti-inflammatory in vitro
 - **Hastatoside:** Iridoid glucoside specific to *Verbena* species
@@ -81,65 +81,10 @@ digestive bitter.
 ### Flavonoids and Phenylpropanoids
 
 - **Luteolin-7-glucoside:** Major flavonoid; antioxidant, anti-inflammatory
-- **Apigenin:** Anxiolytic activity via GABA_A receptor modulation
+- **[[apigenin]]:** Anxiolytic activity via GABA_A receptor modulation
 - **Verbascoside (acteoside):** Phenylpropanoid glycoside; potent antioxidant
   and immunomodulator (0.5–2.0%)
 
 ### Other Compounds
 
-- **Triterpenoids:** Ursolic acid, oleanolic acid
-- **Mucilage:** ~5%; soothing demulcent action on mucous membranes
-
-## Pharmacology and Traditional Use
-
-### Nervine and Anxiolytic
-
-- Traditional use as a nerve tonic dating to Dioscorides (1st century CE)
-- Apigenin content provides anxiolytic effects via GABA_A [[tihkal-receptor-binding-serotonin]]
-- Used in modern Western herbalism for anxiety, nervous exhaustion, and
-  stress-related insomnia
-
-### Anti-inflammatory and Analgesic
-
-- Verbascoside and luteolin inhibit COX-2 and NF-κB pathways in vitro
-- Topical preparations used traditionally for wounds, bruises, and skin
-  inflammation
-- Animal studies show significant reduction in carrageenan-induced edema
-
-### Digestive and Hepatobiliary
-
-- Verbenalin acts as a bitter tonic stimulating gastric secretions
-- Cholagogue activity: promotes bile flow, supports fat digestion
-- Aucubin demonstrates hepatoprotective effects against CCl₄-induced liver
-  damage in rodents
-
-### Reproductive (Traditional)
-
-- Historically used as an emmenagogue to stimulate menstrual flow
-- ⚠️ **Contraindicated in pregnancy** due to uterine stimulant activity
-- Folk use as galactagogue lacks clinical validation
-
-## Cultivation and Permaculture Applications
-
-- **Propagation:** Cold stratification (30 days at 4°C); surface-sow in
-  spring as light aids germination
-- **Spacing:** 30–45 cm; harvest aerial parts at flowering (July–August)
-- **Yield:** 2–3 kg dried herb per 10 m²
-- **Pollinator value:** Attractive to bees, butterflies, and hoverflies;
-  long bloom provides late-season forage
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Deters some pest insects; interplant with tomatoes
-  and peppers
-
-## Preparations and Dosage
-
-- **Infusion:** 1–2 g dried herb in 150 mL hot water, 2–3× daily
-- **Tincture (1:5, 45% ethanol):** 2–4 mL, 3× daily
-- **Fluid extract (1:1):** 1–2 mL daily
-- **Topical:** Poultice of fresh or dried herb for wounds and inflammation
-## See Also
-
-- [[melissa-officinalis]] — Related nervine/carminative with overlapping
-  calming properties
-- [[hypericum-perforatum]] — Antidepressant herb used alongside vervain in
-  stress formulas
-- [[verbascum-thapsus]] — Unrelated "mullein"; shares some traditional
+- **Triterpenoids:** [[ursolic-acid]], oleanolic acid

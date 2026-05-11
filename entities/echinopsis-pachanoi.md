@@ -87,16 +87,3 @@ E. pachanoi is among the easiest and fastest-growing columnar cacti. It is widel
 - **Seed** (less common): Seeds germinate readily in warm, moist conditions but seedlings are slow-growing for the first year or two. Seed-grown plants exhibit greater genetic diversity than clones.
 
 The cactus tolerates a wide range of conditions but prefers full sun to partial shade, moderate water during the growing season (with dry rest periods in winter), and protection from hard frost (can tolerate brief exposure to -5°C but sustained freezing is fatal). Well-draining, slightly acidic to neutral soil is ideal. Fertilization during the growing season promotes vigorous growth.
-
-## Legal Status
-
-E. pachanoi is legal to grow as an ornamental in most countries. However, its cultivation, preparation, and consumption for psychoactive purposes may be restricted or illegal depending on local mescaline laws. In the United States, mescaline is a Schedule I substance, though the cactus itself exists in a legal gray area—cultivation is generally tolerated unless there is evidence of intent to extract or consume for psychoactive effects. The legal status of the cactus in other countries varies significantly.
-
-## See Also
-
-- [[echinopsis-peruviana]]
-
-- [[lophophora-williamsii]] (Peyote)
-- [[plants-of-the-gods-amanita-muscaria]] (concept page)
-- [[psilocybin-mushroom-distribution-worldwide]]
-- [[hordenine]]

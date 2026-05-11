@@ -45,7 +45,7 @@ edible Cortinarius species. The subsequent investigation traced dozens of cases
 of unexplained kidney failure to this single mushroom. C. speciosissimus has
 been responsible for numerous poisonings in Scandinavia and other parts of
 northern Europe. Both species are mycorrhizal associates of forest trees and
-are found in coniferous and deciduous woodlands across temperate regions of
+are found in coniferous and deciduous woodlands across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
 Europe. Additional orellanine-containing species have been identified in North
 America, though confirmed poisonings on that continent remain comparatively
 rare.
@@ -56,7 +56,7 @@ What makes Cortinarius poisoning uniquely dangerous among [[mushroom-toxins-and-
 the extended latency period before symptoms manifest. As Money notes, the delay
 between ingestion and the onset of symptoms is usually longer than a week, and
 some patients can appear perfectly healthy for up to three weeks. This stands
-in stark contrast to the amatoxin timeline. In amatoxin poisoning from
+in stark contrast to the amatoxin timeline. In [[bloomfield-amatoxin-poisoning-mechanism]] from
 Amanita species, the first symptoms typically begin within eight hours and
 almost always within two days of ingestion. The patient experiences abdominal
 cramping, vomiting, and violent diarrhea, which at least provides a clinical
@@ -80,7 +80,7 @@ rank high on that list when the patient has been asymptomatic for weeks.
 
 Cortinarius species are notoriously difficult to identify, even for experienced
 mycologists. The genus name comes from the Latin "cortina," meaning curtain,
-referring to the cobweb-like partial veil that connects the cap margin to the
+referring to the cobweb-like [[partial-veil-tropism-protection-before-spore-release]] that connects the cap margin to the
 stem in young specimens. This cortina is thin, fragile, and often disappears
 entirely by maturity, leaving no ring on the stem. Without this key feature,
 Corticarius can resemble a wide variety of other gilled mushrooms. The brown
@@ -88,62 +88,3 @@ Corticarius can resemble a wide variety of other gilled mushrooms. The brown
 other brown-spored species including many edible ones. The cap colors range
 from tawny brown to reddish or even violet, depending on the species, and the
 flesh is generally unremarkable in appearance. These factors combine to make
-positive [[palmer-mushroom-hunting-field-identification]] extremely challenging.
-
-The genus is so large and variable that even professional mycologists frequently
-struggle to identify specimens to species level without [[fungal-microscopic-examination-mounting-media-techniques]]
-of spore morphology and cellular structure. For the amateur forager, the risk
-of confusing a toxic Cortinarius with an edible species is considerable. The
-mushrooms lack the dramatic warning features of other poisonous fungi: no
-bright red coloration, no white gills contrasting with a dark cap, no
-conspicuous volva at the stem base. They look ordinary, which is precisely
-what makes them so dangerous.
-
-## European Cases and Epidemiology
-
-The recognition of Cortinarius as a deadly genus emerged primarily from
-European case reports. The landmark event was the 1952 poisoning outbreak in
-Poland, where over one hundred people developed kidney failure after eating
-C. orellanus, mistaking it for the edible fool's webcap or for other
-Cortinarius species used in local cuisine. Subsequent investigations across
-Scandinavia, particularly in Finland and Sweden, documented additional cases
-linked to C. speciosissimus. In France, cases have been attributed to
-Cortinarius splendens and other species within the genus. The common thread in
-all of these cases is the same devastating pattern of delayed-onset renal
-failure, often necessitating dialysis or kidney transplantation.
-
-The epidemiology of Cortinarius poisoning reflects the difficulty of
-prevention. Unlike amatoxin poisonings, which tend to cluster among immigrants
-mistaking death caps for edible Asian mushrooms, Cortinarius victims are often
-experienced local foragers who believed they were collecting a familiar edible
-species. The mushrooms are widespread in European forests, and in some regions,
-certain Cortinarius species have been traditionally collected and eaten. The
-line between edible and deadly within this genus is one that even generations
-of local knowledge have failed to draw reliably.
-
-## Why Webcaps Are Among the Most Insidious Mushroom Poisons
-
-Several factors conspire to make Cortinarius poisoning uniquely insidious.
-First, the delayed onset of symptoms severs the causal link between mushroom
-consumption and illness, delaying diagnosis and treatment. Second, the target
-organ is the kidney rather than the liver, and renal damage tends to be less
-immediately dramatic than hepatic failure, allowing the patient to deteriorate
-quietly. Third, there is no antidote for orellanine poisoning, and treatment is
-limited to supportive care, dialysis, and in severe cases, kidney transplantation.
-Fourth, the identification challenges mean that even alert patients who seek
-medical help may be unable to provide their physicians with useful information
-about what they ate. Finally, the ordinary appearance of the mushrooms provides
-no natural warning to discourage consumption. Together, these factors place
-Cortinarius webcaps among the most insidious of all mushroom poisons.
-
-## Key Points
-
-- Cortinarius species contain orellanine, a nephrotoxin that destroys kidney
-  tubule cells through oxidative damage.
-- Symptoms are delayed 1 to 3 weeks after ingestion, far longer than the
-  8-hour to 2-day delay seen with amatoxin poisoning.
-- C. orellanus and C. speciosissimus are the species most commonly responsible
-## See Also
-- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[bloomfield-amatoxin-poisoning-mechanism]]

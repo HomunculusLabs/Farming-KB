@@ -89,8 +89,7 @@ present high diversity despite being poorly explored relative to Europe.
 
 - [[knf-global-adoption]]
 
-- [[guzman-magic-mushrooms-temperate-zone-species]] for [[growing-gourmet-north-american-reishi-species]] and
-  European species
-- [[guzman-magic-mushrooms-chemical-constituents]] for chemistry of active
-  compounds
-- [[guzman-magic-mushrooms-ethnomycological-traditions]] for cultural use
+## See Also
+
+- [[guzman-psilocybin-mushrooms-africa]]
+- [[guzman-psilocybin-mushrooms-europe]]

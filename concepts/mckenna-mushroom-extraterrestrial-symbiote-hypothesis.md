@@ -88,39 +88,3 @@ He notes that even if extraterrestrials arrived on Earth tomorrow, "the DMT tran
 This alternative reading frames the encounter not as contact with an independent alien intelligence but as a confrontation with dimensions of the human psyche rendered inaccessible by cultural conditioning.
 The two readings—extraterrestrial contact and encounter with the alienated soul—are not mutually exclusive.
 McKenna seems to hold them in productive tension, allowing each to illuminate different aspects of the experience.
-
-## The Mushroom's Requirements
-
-The mushroom, according to McKenna's account, states its requirements plainly: "I require the nervous system of a mammal. Do you have one handy?"
-This encapsulates the symbiotic hypothesis: the mushroom possesses capacities that require a complex nervous system to be expressed, while the human nervous system gains access to dimensions of experience otherwise inaccessible.
-The relationship is thus framed as mutual dependence, with each party providing something the other cannot achieve alone.
-The mushroom needs the mammalian nervous system as a substrate for its informational content; the human needs the mushroom to access that content.
-
-## Connection to Philip K. Dick's VALIS
-
-McKenna draws a parallel to Philip K. Dick's concept in the novel VALIS.
-Dick described the Logos as "a creature of pure information" buried at Nag Hammadi along with the Chenoboskion Library circa 370 A.D.
-It existed as static information until 1947, when the texts were translated; as soon as people had the information in their minds, "the symbiote came alive."
-Both frameworks posit a form of intelligence that exists as information and becomes active when encountered by a sufficiently complex nervous system.
-The mushroom consciousness, like Dick's VALIS, is "a thing of pure information" that activates in the presence of an appropriately prepared mind.
-The parallel suggests that what is encountered in the tryptamine state may be structurally similar to what mystics and visionaries have encountered throughout human history.
-
-## Historical Destruction of Mushroom Cults
-
-McKenna notes that the classic mushroom cults of Mexico were destroyed by the Spanish conquest.
-The Franciscans, who "assumed they had an absolute monopoly on theophagy, the eating of God," encountered people calling a mushroom "teonanacatl, the flesh of the gods."
-The Inquisition pushed the old religion into the mountains of Oaxaca, where it survived in only a few villages until Valentina and Gordon Wasson found it there in the 1950s.
-This historical destruction is presented as a consequence of the ignorance that McKenna sees as the defining feature of the Western intellectual tradition in relation to entheogenic knowledge.
-The suppression of the mushroom cults represents, in McKenna's narrative, a catastrophic loss of cultural and biological information that humanity is only now beginning to recover.
-
-## See Also
-
-- [[mckenna-mushroom-symbiote-epistemological-crisis-modern-science]]
-
-- [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
-
-- mushroom-extraterrestrial-symbiote
-
-- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
-- [[terence-mckenna-tryptamine-hypothesis]]
-- [[mckenna-food-gods-tryptamine-dimension]]

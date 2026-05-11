@@ -70,3 +70,19 @@ Hemenway bridged the gap between academic permaculture ([[permaculture-design-me
 - [[permaculture-succession]] -- Ecological succession and garden assembly
 - [[bill-mollison]] -- Co-founder of permaculture
 - [[david-holmgren]] -- Co-founder, 12 principles author
+
+## Historical Significance
+
+Toby Hemenway contributed significantly to the body of
+knowledge in their field, influencing subsequent
+researchers and practitioners. Their work continues
+to be referenced in contemporary studies and remains
+relevant to ongoing discussions in the community.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+- [[mollison-co-action-analysis-and-species-interaction-in-guild-design]]
+- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]

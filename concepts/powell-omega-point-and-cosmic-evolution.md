@@ -1,5 +1,5 @@
 ---
-title: The powell omega point and cosmic evolution and Cosmic Evolution
+title: Powell Omega Point And Cosmic Evolution
 created: 2026-04-28
 tags: [omega-point, teilhard-de-chardin, cosmic-evolution, eschatology,
   mckenna, attractor, consciousness-evolution]
@@ -43,7 +43,7 @@ organisms.
 
 Powell suggests that the Omega Point may be nearer than Teilhard supposed.
 With the growth in entheogenic epistemology initiated in the 1950s and 1960s,
-and the emerging interest in shamanism and organic psilocybin, the
+and the emerging interest in [[shamanism]] and organic psilocybin, the
 "illuminations caused by the Omega Point are on the increase." The rapid
 evolution of the hominid cortex, the speedy development of human culture, and
 the yearly evolution of digital technology may all reflect the increasing pull
@@ -88,9 +88,3 @@ Powell speculates that severe environmental crises set in motion by our
 species may serve as a violent prelude to the cultural changes and
 transformation of the scientific worldview that lie ahead. Global disruptions
 of the biosphere force reflection upon our causal role within the web of
-life. Following Fritjof Capra's observation that the Chinese character for
-"crisis" contains elements of both danger and opportunity, Powell suggests we
-now have an opportunity to reappraise our relationship to the Earth and
-realise our true purpose at the hands of Natural Intelligence.
-
-See also: [[powell-the-other-and-sentient-presence]], [[omega-point-and-psychedelic-eschatology]]

@@ -12,7 +12,7 @@ sources:
   - Wiegleb G, Kaplan Z (1998). "An Account of the Species of Potamogeton L. (Potamogetonaceae)." Folia Geobotanica 33(3): 241–288.
   - Preston CD (1995). "Pondweeds of Great Britain and Ireland." BSBI Handbook No. 8.
   - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
-  - van Wijk RJ (1988). "Ecological Studies on Potamogeton pectinatus L." PhD Thesis, Radboud University Nijmegen.
+  - van Wijk RJ (1988). "[[mycorrhiza-bioassays-ecological-studies]] on Potamogeton pectinatus L." PhD Thesis, Radboud University Nijmegen.
   - Kantrud HA (1990). "Sago Pondweed (Potamogeton pectinatus L.): A Literature Review." US Fish and Wildlife Service, Fish and Wildlife Technical Report 20.
 ---
 
@@ -24,7 +24,7 @@ The species is recognized by its finely dissected, thread-like leaves and prolif
 
 Potamogeton pectinatus is highly tolerant of a broad range of environmental conditions. It colonizes both fresh and brackish waters, from pristine alpine lakes to polluted urban canals.
 
-The species plays a significant ecological role in aquatic ecosystems. Dense beds provide habitat for fish and invertebrates, stabilize sediments, and influence water quality through nutrient uptake.
+The species plays a significant ecological role in [[dighton-fungal-biomass-production-aquatic-ecosystems]]. Dense beds provide habitat for fish and invertebrates, stabilize sediments, and influence water quality through nutrient uptake.
 
 ## Taxonomy and Morphology
 
@@ -54,11 +54,11 @@ Tuber size and abundance vary with habitat conditions. Plants in saline or nutri
 
 ## Distribution and Habitat
 
-Potamogeton pectinatus has a nearly cosmopolitan distribution. It occurs on every continent except Antarctica and is found across a remarkable range of climatic zones.
+Potamogeton pectinatus has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. It occurs on every continent except Antarctica and is found across a remarkable range of climatic zones.
 
 In North America, the species ranges from the Arctic tundra of northern Canada to the subtropical waters of Florida and Mexico. In Eurasia, it spans from Scandinavia to the Mediterranean and eastward across Siberia to Japan.
 
-The plant grows in a wide variety of aquatic habitats. These include lakes, ponds, slow-moving rivers, irrigation canals, drainage ditches, and estuaries.
+The plant grows in a wide variety of [[biodiversity-fungi-freshwater-aquatic-habitats]]. These include lakes, ponds, slow-moving rivers, irrigation canals, drainage ditches, and estuaries.
 
 Anthropogenic habitats such as gravel pits, reservoirs, and stormwater retention ponds are readily colonized. The species is often among the first submerged macrophytes to appear in newly created water bodies.
 
@@ -78,43 +78,12 @@ Invertebrate communities associated with Potamogeton pectinatus beds are diverse
 
 The species is a primary food source for numerous waterfowl species. The tubers are especially important for migratory and wintering diving ducks, including canvasback, redhead, and scaup.
 
-Swans, geese, and coots also feed extensively on Potamogeton pectinatus tubers. In some regions, tuber consumption can significantly reduce plant biomass and influence population dynamics.
+Swans, geese, and coots also feed extensively on Potamogeton pectinatus tubers. In some regions, tuber consumption can significantly reduce plant biomass and influence [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]].
 
-Nutrient cycling is influenced by Potamogeton pectinatus through its capacity for nutrient uptake and storage. The plant sequesters nitrogen and phosphorus in its tissues during the growing season.
+Nutrient cycling is influenced by Potamogeton pectinatus through its capacity for nutrient uptake and storage. The plant sequesters nitrogen and phosphorus in its tissues during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Sediment stabilization by the rhizome network reduces erosion and turbidity. This stabilizing effect can promote water clarity and benefit other aquatic plant species.
 
 The species can become dominant in disturbed or enriched water bodies, forming extensive monocultures. However, these stands are typically less diverse than mixed macrophyte communities.
 
 Allelopathic compounds released by Potamogeton pectinatus may inhibit the growth of algal competitors, particularly cyanobacteria. This mechanism contributes to the species' ability to maintain dominance in nutrient-rich waters.
-
-Seasonal growth patterns vary with latitude and climate. In temperate regions, above-ground biomass peaks in midsummer and senesces by autumn. Tubers are formed in late summer and persist through winter.
-
-The species exhibits phenotypic plasticity in response to environmental gradients. Plants in deep or turbid water develop longer stems and fewer leaves than those in shallow, clear conditions.
-
-## Cultivation
-
-Potamogeton pectinatus is occasionally cultivated in constructed wetlands and treatment ponds for water quality management. Its nutrient uptake capacity makes it useful in phytoremediation applications.
-
-In aquaculture, the species is introduced into fish ponds to provide natural food and shelter. The tubers serve as supplemental forage for herbivorous and omnivorous fish species.
-
-Propagation is straightforward from tubers or rhizome fragments. Tubers planted in suitable substrate at depths of 10–30 cm will sprout readily when water temperatures exceed 10°C.
-
-Growth is rapid under warm conditions with adequate light. Stem elongation rates of 2–5 cm per day have been documented during peak growing season.
-
-The species is not commonly cultivated as an ornamental aquarium plant due to its relatively plain appearance. It is more valued for its functional role in ecological restoration projects.
-
-In brackish water systems, Potamogeton pectinatus is used in habitat creation programs for waterfowl management areas. Plantings of tubers establish beds that attract feeding waterfowl during migration.
-
-The species can become weedy in irrigation canals and water supply systems. Mechanical cutting and herbicide treatments are used to manage excessive growth where it impedes water flow.
-
-## See Also
-
-- [[potamogeton-natans]]
-- [[potamogeton-crispus]]
-- [[potamogeton-perfoliatus]]
-- [[elodea-canadensis]]
-- [[myriophyllum-spicatum]]
-- [[ceratophyllum-demersum]]
-- [[vallisneria-americana]]
-- [[najas-guadalupensis]]

@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Fungal bloomfields-orchard-spore-discharge-mechanisms and Dispersal
+title: Bloomfield Fungal Spore Discharge And Dispersal
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 ## Overview
 
-Spore production and dispersal is central to [[bloomfield-fungal-biology-and-hyphal-growth]]. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
+[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and dispersal is central to [[bloomfield-fungal-biology-and-hyphal-growth]]. Fungi have evolved remarkable mechanisms to launch their reproductive cells into the air, water, or onto passing animals. From the surface-tension catapult of basidiomycetes to the explosive asci of ascomycetes, and the swimming zoospores of water molds, these mechanisms represent some of the most sophisticated biomechanical systems in nature.
 
 ## Basidiomycete Spore Discharge (Surface-Tension Catapult)
 
-Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-tension catapult mechanism:
+Mushrooms and their relatives (basidiomycetes) discharge spores using a surface-tension [[fungal-spore-discharge-catapult-mechanism]]:
 
 1. A fluid drop (Buller's drop) forms at the base of each basidiospore on the basidium
 2. The drop expands over several seconds, contacting both the spore and the adjacent spore/adaxial surface of the gill
@@ -30,7 +30,7 @@ A.H.R. Buller (1874-1944), working at the University of Manitoba, was the first 
 - Measured spore fall velocities using a tilted microscope with calibrated silk threads in the eyepiece, connected to an electric tapper inscribing marks on a rotating drum
 - Found spores fell slightly faster than Stokes' law predicted — later explained by Buller's drop increasing effective diameter
 - Published six volumes of "Researches on Fungi" (1909-1934), funding early volumes himself
-- Discovered the drop in 1910 and hypothesized surface tension was the driving force, though the exact mechanism remained unexplained for 70+ years
+- Discovered the drop in 1910 and hypothesized [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]] was the driving force, though the exact mechanism remained unexplained for 70+ years
 
 ### Spore Velocity and Dispersal
 - Spores are microscopic (typically 5-15 micrometers)
@@ -87,36 +87,3 @@ Ingoldian fungi (named after C.T. Ingold) produce conidia (asexual spores) for d
 - This parallels the role of chytrids and water molds in aquatic decomposition
 
 ## Fungal Luminescence
-
-Some fungi are bioluminescent:
-- The Jack-o'-lantern (Omphalotus olearius) emits a green glow from its gills
-- Panellus stypticus was studied extensively by Buller, who rose at 4 AM and wore horse blinders during his commute to preserve dark-adapted eyes
-- Luminescence may serve to attract insects for [[aquatic-fungi-spore-dispersal-ingold]] (insects are drawn to greenish light)
-- Some luminescent fruiting bodies emit enough light for reading; soldiers in WWI trenches allegedly attached mushrooms to helmets for nighttime navigation
-
-## Wind Dispersal
-
-For most terrestrial fungi, wind is the primary dispersal vector:
-- Spores launched above the gills or pore surfaces enter turbulent air
-- Even gentle air movements can carry spores significant distances
-- Gills are precisely spaced and oriented to maximize efficient spore release
-- The mushroom cap acts as a windshield, creating updrafts that lift spores away
-
-## See Also
-
-- [[fungal-spore-discharge-catapult-mechanism]]
-
-- [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]]
-
-- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
-
-- [[fungal-spore-discharge-mechanisms]]
-- [[bloomfield-stokes-law-fungal-spore-sedimentation]]
-
-- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
-
-- coprophilous-fungi-ecology
-- [[fungal-spore-biology]]
-- [[phoenicoid-fungi-fire-associated-ascomycetes-basidiomycetes]]
-- [[fukuoka-learning-about-nature-distances-one-from-nature]]
-- [[fungal-zoospore-biology-and-flagellate-motility]]

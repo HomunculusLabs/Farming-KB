@@ -20,7 +20,7 @@ sources:
 ---
 
 # Lysergic Acid Diethylamide (LSD)
-**Lysergic acid diethylamide**, commonly known as **LSD** or **acid**, is a potent semi-synthetic psychedelic substance of the lysergamide class. It is one of the most potent psychoactive substances known, with active doses measured in micrograms. LSD is widely regarded as both the prototypical psychedelic compound and one of the most influential psychoactive substances in human history, having profoundly shaped neuroscience, psychiatry, counterculture, and popular culture.
+**Lysergic acid diethylamide**, commonly known as **LSD** or **acid**, is a potent semi-synthetic psychedelic substance of the lysergamide class. It is one of the most potent [[cultural-evolution-and-psychoactive-substances]] known, with active doses measured in micrograms. LSD is widely regarded as both the prototypical psychedelic compound and one of the most influential psychoactive substances in human history, having profoundly shaped neuroscience, psychiatry, counterculture, and popular culture.
 
 ## Chemical Profile
 
@@ -58,15 +58,15 @@ The core pharmacophore consists of:
 
 ### Psychiatric Research Era (1950s–1960s)
 
-- Over 1,000 clinical papers and 6 international conferences explored LSD's therapeutic potential.
-- Humphry Osmond coined the term "psychedelic" ("mind-manifesting") in 1957.
+- Over 1,000 clinical papers and 6 international conferences explored LSD's [[metzner-ayahuasca-therapeutic-potential]].
+- [[humphry-osmond]] coined the term "psychedelic" ("mind-manifesting") in 1957.
 - LSD was investigated for treatment of alcoholism, schizophrenia, autism, anxiety, and terminal illness.
 - By 1965, over 40,000 patients had been treated with LSD in psychiatric settings.
 - Abram Hoffer and Humphry Osmond reported significant improvements in alcoholism recovery rates.
 
 ### Counterculture (1960s)
 
-- LSD became central to the 1960s counterculture movement, championed by figures like Timothy Leary, Ken Kesey (Merry Pranksters), and Aldous Huxley.
+- LSD became central to the 1960s counterculture movement, championed by figures like [[timothy-leary]], Ken Kesey (Merry Pranksters), and Aldous Huxley.
 - Leary founded the International Federation for Internal Freedom (IFIF) and popularized the slogan "Turn on, tune in, drop out."
 - The widespread recreational use of LSD — and growing public concern — led to its criminalization.
 - **1966:** California banned LSD. **1968:** The U.S. federal government classified LSD as a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]].
@@ -81,62 +81,10 @@ The core pharmacophore consists of:
 
 ### Mechanism of Action
 
-LSD acts primarily as a **potent agonist at 5-HT2A serotonin receptors**:
+LSD acts primarily as a **potent agonist at 5-HT2A [[psilocybin-pharmacology-and-serotonin-receptors]]**:
 - **Primary target:** 5-HT2A receptor (Ki ≈ 2.5 nM) — mediates psychedelic effects
 - **Partial agonist at:** 5-HT2B, 5-HT2C, 5-HT1A, 5-HT5A, 5-HT6, 5-HT7
 - **D2 dopamine receptor:** Moderate affinity (Ki ≈ 6–10 nM)
 - **TAAR1 receptor:** Agonist activity with high affinity (Ki ≈ 6–14 nM)
 
 A pivotal 2017 study (Wacker et al., *Cell*) using X-ray crystallography revealed that LSD binds to the 5-HT2A receptor with an unusual **"lid" mechanism** — part of the receptor folds over the LSD molecule, trapping it in the binding pocket. This explains LSD's extraordinarily long duration of action (8–12 hours) despite its low dose.
-
-### Pharmacokinetics
-
-| Parameter | Value |
-|-----------|-------|
-| **Onset** | 20–90 minutes (oral) |
-| **Duration** | 8–12 hours |
-| **Half-life** | ~3–5 hours |
-| **Active dose** | 25–200 µg (oral) |
-| **LD50 (intravenous, rat)** | ~16.5 mg/kg |
-LSD is absorbed rapidly and reaches peak plasma concentrations within 1.5–3 hours. It is metabolized primarily in the liver by CYP450 enzymes and excreted in feces and urine. The active metabolite **nor-LSD** (N-desethyl-LSD) may contribute to the overall effect profile.
-
-## Dosage and Effects
-
-### Dosage Categories
-
-| Category | Dose (µg) | Effects |
-|----------|-----------|---------|
-| **Threshold** | 10–25 | Subtle mood lift, mild sensory enhancement |
-| **Light** | 25–75 | Noticeable perceptual shifts, enhanced colors, mood elevation |
-| **Common** | 75–150 | Strong visual hallucinations, altered thought patterns, synesthesia |
-| **Strong** | 150–300 | Intense hallucinations, ego dissolution, [[psilocybin-mystical-experiences-personality-change]] |
-| **Heavy** | 300–500+ | Complete ego dissolution, extreme [[weil-the-natural-mind-altered-states-normalcy]]; high risk of psychological distress |
-
-### Subjective Effects
-
-**Sensory:**
-- Visual hallucinations (geometric patterns, color enhancement, morphing surfaces, tracers)
-- Auditory distortions and synesthesia
-- Altered perception of time (time dilation or compression)
-- Enhanced tactile sensitivity
-
-**Cognitive:**
-- Altered thought patterns and cognitive flexibility
-- Enhanced creativity and divergent thinking
-- Ego dissolution or "ego death"
-- Mystical or transcendent experiences
-- Enhanced introspection and emotional processing
-
-**Emotional:**
-- Intensified emotions (both positive and negative)
-- Sense of interconnectedness and unity
-- Anxiety or paranoia (especially at higher doses or in uncontrolled settings)
-
-**Physical:**
-- Pupil dilation (mydriasis)
-- Increased heart rate and blood pressure
-
-## See Also
-- [[microdosing-guide]]
-- [[ergot-fungus]]
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]

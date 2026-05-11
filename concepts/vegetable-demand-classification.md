@@ -15,7 +15,7 @@ synopsis: >-
   Steve Solomon classifies vegetables into three demand tiers based on
   soil fertility requirements: low-demand, medium-demand, and
   high-demand. This classification determines compost/manure
-  application rates and helps gardeners allocate limited soil
+  [[ingham-compost-tea-application-rates-and-timing]] helps gardeners allocate limited soil
   amendments to where they produce the greatest return.
 ---
 
@@ -34,7 +34,7 @@ resources where they produce the greatest return. (see [[wide-spacing-dry-garden
 These crops [[solomon-vegetable-demand-classification-low-medium-high]] produce adequately with minimal soil improvement — as little
 as a 1/4 inch (6mm) layer of compost or manure. They are the best
 choices for new gardens, poor soils, or gardeners with limited access to
-organic amendments. (see [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]).
+[[cervantes-organic-amendments-chart]]. (see [[solomon-green-manure-decomposition-and-carbon-nitrogen-timing]]).
 
 ### Examples
 - Most legumes (beans, peas)
@@ -56,7 +56,7 @@ these undemanding crops.
 
 ## Medium-Demand Vegetables
 
-The majority of common garden vegetables fall into this category. They
+The majority of common [[companion-cultivation-of-mushrooms-with-garden-vegetables]] fall into this category. They
 require moderate soil fertility for acceptable production — roughly a
 1/2 inch (12mm) layer of compost or manure plus COF.
 
@@ -76,9 +76,9 @@ require moderate soil fertility for acceptable production — roughly a
 - COF: 4-6 quarts per 100 sq ft
 
 ### Strategy
-These are the workhorse crops of most vegetable gardens. They benefit
+These are the workhorse crops of most [[maintaining-organic-matter-in-vegetable-gardens]]. They benefit
 significantly from COF application and respond well to the standard
-fertility gradient approach. Plant them in areas that received direct
+[[soil-fertility-gradient-approach]]. Plant them in areas that received direct
 manure or compost application in the current year.
 
 ## High-Demand Vegetables
@@ -88,52 +88,3 @@ a full 1 inch (25mm) layer of compost or manure plus COF, and perform
 best with additional banding of concentrated fertilizer at planting.
 
 ### Examples
-- Celery
-- Cauliflower
-- Certain lettuce varieties
-- Asparagus (perennial, demanding site preparation)
-
-### Fertility Requirements
-- Compost/manure: 1 inch layer
-- Chicken manure: 1/2 inch layer
-- Lime: 50 lb per 1,000 sq ft
-- COF: 4-6 quarts per 100 sq ft
-- Additional banded fertilizer in planting hills
-
-### Strategy
-Concentrate best soil and maximum amendments on these crops. Prepare a
-dedicated zone with the highest fertility inputs. Use the banding
-technique — placing additional concentrated fertilizer in hills or
-trenches where roots will immediately encounter it — to give these
-demanding crops a fast start.
-
-## Input Comparison Table
-
-| Input | Low-Demand | Medium-Demand | High-Demand |
-|-------|-----------|---------------|-------------|
-| Steer manure/compost | 1/4" | 1/2" | 1" |
-| Chicken manure | 1/4" | 1/4" | 1/2" |
-| Lime (per 1000 ft²) | 50 lb | 50 lb | 50 lb |
-| COF (per 100 ft²) | 4-6 qt | 4-6 qt | 4-6 qt |
-| Banding | No | Optional | Recommended |
-
-Note: COF rate stays constant — the difference between tiers is made up
-by compost and manure volume, not by increasing COF.
-
-## Budget Allocation Principle
-
-The fundamental principle: invest limited resources where they produce
-the greatest return. If you cannot afford to amend the entire garden at
-medium-demand levels, grow low-demand crops in unamended areas and
-concentrate compost, manure, and COF on the zones designated for medium
-and high-demand vegetables.
-
-This approach maximizes total garden productivity per dollar and per
-hour of labor invested, making it ideal for resource-constrained
-gardeners facing hard times.
-
-## See Also
-
-- [[soil-fertility-gradient-approach]]
-- [[complete-organic-fertilizer-cof]]
-- [[clay-soil-management]]

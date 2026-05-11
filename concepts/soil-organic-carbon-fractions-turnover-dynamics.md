@@ -1,5 +1,5 @@
 ---
-title: Soil Organic Carbon Fractions and Turnover Dynamics
+title: Soil Organic Carbon Fractions Turnover Dynamics
 category: soil-science
 source: general-knowledge
 mined: 2026-05-10
@@ -11,11 +11,11 @@ aliases: [som-fractions, soil-carbon-pools, poc-maoc, humification]
 
 ## Overview
 
-Soil organic carbon (SOC) is the largest terrestrial carbon pool, containing approximately 2,400 gigatons of carbon in the top three meters of soil — roughly three times the atmospheric carbon pool and four times the biotic carbon pool. Understanding SOC as a heterogeneous mixture of fractions with different chemical compositions, turnover times, and ecological functions is essential for managing soil health, predicting climate feedbacks, and developing carbon farming practices.
+Soil organic carbon (SOC) is the largest terrestrial carbon pool, containing approximately 2,400 gigatons of carbon in the top three meters of soil — roughly three times the atmospheric carbon pool and four times the biotic carbon pool. Understanding SOC as a heterogeneous mixture of fractions with different chemical compositions, turnover times, and [[fungal-melanin-biosynthesis-ecological-functions]] is essential for managing soil health, predicting climate feedbacks, and developing carbon farming practices.
 
 ## Major Carbon Pools in Soil
 
-Soil organic matter is operationally divided into fractions based on particle size, density, chemical extractability, and biological stability:
+[[knf-leaf-mold-humus]] is operationally divided into fractions based on particle size, density, chemical extractability, and biological stability:
 
 ### Particulate Organic Matter (POM)
 
@@ -30,7 +30,7 @@ Soil organic matter is operationally divided into fractions based on particle si
 
 ### Mineral-Associated Organic Matter (MAOM)
 
-- Organic carbon adsorbed to or occluded within mineral surfaces (clay and silt particles < 53 μm).
+- Organic carbon adsorbed to or occluded within [[fungal-community-profiling-rock-mineral-surfaces-gadd]] (clay and silt particles < 53 μm).
 - Also called humus, clay-associated organic matter, or silt + clay fraction.
 - Characterized by slow turnover times (decades to centuries or millennia).
 - Lower C:N ratio (typically 8-15) due to microbial processing and mineral stabilization.
@@ -64,7 +64,7 @@ Soil organic matter is operationally divided into fractions based on particle si
 - The most stable carbon fraction with turnover times of centuries to millennia.
 - Includes pyrogenic carbon (biochar, charcoal), highly condensed aromatic structures, and deeply stabilized organo-mineral complexes.
 - Often equated with the "passive pool" in conceptual carbon models (e.g., CENTURY, RothC).
-- Contributes to long-term carbon sequestration potential.
+- Contributes to long-term [[gadd-fungal-carbon-sequestration]] potential.
 - Biochar application directly adds to this pool.
 
 ## Conceptual Models of SOC Turnover
@@ -86,48 +86,5 @@ A more recent conceptual model emphasizing that:
 ## Factors Controlling SOC Turnover
 
 ### Climatic Factors
-- **Temperature**: Decomposition rates approximately double for every 10°C increase (Q₁₀ ≈ 2). Higher temperatures accelerate both decomposition and root inputs, with complex net effects.
+- **Temperature**: [[dighton-litter-quality-fungal-decomposition-rates]] approximately double for every 10°C increase (Q₁₀ ≈ 2). Higher temperatures accelerate both decomposition and root inputs, with complex net effects.
 - **Moisture**: Decomposition is optimal at 60% water-filled pore space. Both waterlogging (anaerobic conditions) and drought limit decomposition.
-- **Precipitation**: Greater precipitation generally increases both plant productivity (more inputs) and decomposition (faster turnover).
-
-### Soil Properties
-- **Clay content and mineralogy**: High-activity clays (2:1 clays like montmorillonite) stabilize more carbon than low-activity clays (1:1 clays like kaolinite). Iron and aluminum oxides are particularly effective stabilizers.
-- **Soil aggregation**: Macroaggregates protect POM physically. Microaggregates within macroaggregates create particularly stable environments for SOC.
-- **pH**: Near-neutral pH generally supports greater microbial activity and biomass, affecting both decomposition and stabilization.
-
-### Biological Factors
-- **Microbial community composition**: Fungal-dominated systems tend to stabilize more carbon than bacterial-dominated systems, partly because fungal necromass is more persistent and fungi produce more binding agents (glomalin).
-- **Earthworm activity**: Earthworms enhance carbon incorporation into stable aggregates through gut processing and cast formation.
-- **Root traits**: Plants with deep, extensive root systems and high root exudation rates contribute more carbon to MAOM.
-
-### Management Practices
-- **Tillage**: Conventional tillage disrupts aggregates, exposes POM to decomposition, and reduces SOC. No-till increases SOC primarily in surface layers.
-- **Cover crops**: Living roots provide continuous carbon inputs and reduce erosion. Root-derived carbon contributes disproportionately to MAOM.
-- **Organic amendments**: Compost, manure, and biochar add carbon in various fractions. Biochar contributes to the most stable pool.
-- **Crop rotation**: Diverse rotations with high-residue crops maintain greater SOC levels than monocultures.
-- **Grazing management**: Moderate grazing can increase root turnover and SOC, while overgrazing reduces inputs and increases erosion.
-
-## Carbon Sequestration Potential
-
-- Global soils have lost approximately 50-70% of their original SOC content due to agricultural conversion.
-- The theoretical sequestration potential of improved management is estimated at 0.4-1.2 gigatons CO₂ per year.
-- The "4 per 1000" initiative proposes increasing SOC stocks by 0.4% per year in the top 30-40 cm, which would offset global annual fossil fuel emissions.
-- Saturation limits exist: soils can only accumulate a finite amount of carbon based on their clay content, mineralogy, and climate.
-- Sequestration rates are highest in degraded soils with low initial SOC and decline as soils approach equilibrium.
-
-## Measurement Methods
-
-- **Dry combustion**: Total SOC measured by elemental analysis after removing inorganic carbon.
-- **Fractionation**: Physical separation by sieving and density flotation to isolate POM, MAOM, and light fraction.
-- **Radiocarbon dating**: ¹⁴C analysis reveals the mean residence time of SOC fractions.
-- **Spectroscopy**: FTIR, NMR, and XANES provide information about the chemical composition of SOC.
-- **Soil respiration**: CO₂ efflux measurements indicate active decomposition rates.
-
-## See Also
-
-- [[soil-health-indicators]]
-- [[gadd-mycorrhizal-carbon-sequestration-soil]]
-- [[glomalin-and-soil-carbon]]
-- [[biointensive-carbon-farming]]
-- [[building-soil-fertility-long-term]]
-- [[humus-humic-acid-fulvic-acid-distinctions]]

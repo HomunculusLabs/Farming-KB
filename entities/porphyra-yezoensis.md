@@ -87,30 +87,3 @@ yezoensis in modern cultivation due to the latter's faster growth and higher dis
 
 Pyropia haitanensis is the primary nori species cultivated in southern China, adapted to warmer waters than P.
 yezoensis. It has a shorter cultivation season and different flavor profile.
-
-## Ecological Role
-
-P. yezoensis contributes to intertidal primary productivity and provides habitat for small invertebrates and microalgae during its gametophytic phase.
-The conchocelis phase living within mollusk shells represents an endolithic symbiosis.
-
-The species plays a role in coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column.
-Nori farms can therefore serve a bioremediation function in eutrophic coastal waters.
-
-## Economic Importance
-
-Nori from P. yezoensis is the single most valuable seaweed crop worldwide.
-The Japanese nori market alone exceeds 1.5 billion USD annually, with the species also cultivated extensively in Korea and China.
-
-The development of artificial seeding technology in the 1940s transformed nori from a wild-harvested commodity to a fully domesticated crop.
-This innovation, pioneered by British scientist Kathleen Drew-Baker, is considered a landmark in phycology.
-
-Processed nori is used not only as a food wrap but also as a snack, seasoning, and ingredient in soups and health foods.
-Nori protein extracts are gaining attention as plant-based protein ingredients in the global food industry.
-
-## See Also
-
-- [[ulva-lactuca]]
-- [[palmaria-palmata]]
-- [[laminaria-digitata]]
-- [[gracilaria-verrucosa]]
-- [[kappaphycus-alvarezii]]

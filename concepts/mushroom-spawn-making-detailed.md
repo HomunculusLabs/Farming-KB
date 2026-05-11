@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Spawn making is the process of expanding mushroom mycelium from a small starting culture to a large volume of colonized grain. The core technique is grain-to-grain (G2G) transfer, where colonized grain from a "master jar" is used to inoculate multiple "receiver jars" of sterile grain. This allows exponential expansion: one jar can become ten, ten can become a hundred. Proper spawn making is the key to scaling cultivation from a single monotub to a full grow room operation while maintaining genetic consistency and low contamination rates.
+Spawn making is the process of expanding [[antimicrobial-compounds-mushroom-mycelium]] from a small starting culture to a large volume of colonized grain. The core technique is grain-to-grain (G2G) transfer, where colonized grain from a "master jar" is used to inoculate multiple "receiver jars" of sterile grain. This allows exponential expansion: one jar can become ten, ten can become a hundred. Proper spawn making is the key to scaling cultivation from a single monotub to a full grow room operation while maintaining genetic consistency and low contamination rates.
 
 ## Grain-to-Grain Transfer (G2G)
 
 ### Concept
 
-G2G transfer works because each colonized grain kernel contains thousands of living mycelium cells. When you transfer colonized grains to fresh sterile grain, each kernel becomes a new inoculation point. Instead of waiting for spores to germinate or a single agar wedge to expand, the mycelium is already growing and immediately begins colonizing the new grain from dozens or hundreds of starting points simultaneously.
+G2G transfer works because each colonized grain kernel contains thousands of living mycelium cells. When you transfer colonized grains to fresh sterile grain, each kernel becomes a new [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]]. Instead of waiting for spores to germinate or a single agar wedge to expand, the mycelium is already growing and immediately begins colonizing the new grain from dozens or hundreds of starting points simultaneously.
 
 ### The Math of Expansion
 
@@ -30,8 +30,8 @@ In practice, most cultivators limit expansion to 2-3 generations. Beyond this, s
 
 The master jar is the foundation of the entire spawn run. It must be absolutely clean:
 
-1. **Inoculate from the cleanest possible source**: Agar wedge or liquid culture. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
-2. **Use the best grain preparation**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
+1. **Inoculate from the cleanest possible source**: Agar wedge or [[comparison-agar-vs-liquid-culture]]. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
+2. **Use the best [[mushroom-spawn-grain-preparation-inoculation]]**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
 3. **Shake at 20-30% colonization**: Redistribute colonized kernels for faster, more complete colonization.
 4. **Verify 100% colonization**: Every kernel should be white with mycelium. No uncolonized grain visible.
 5. **Wait an extra 3-5 days after full colonization**: This "recovery period" allows the mycelium to fully digest the grain interior, producing a more vigorous culture for transfer.
@@ -50,7 +50,7 @@ The master jar is the foundation of the entire spawn run. It must be absolutely 
 **Equipment**:
 - Master jar (fully colonized)
 - Receiver jars (sterilized, cooled)
-- Still air box (SAB) or laminar flow hood (strongly preferred for G2G)
+- Still air box (SAB) or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (strongly preferred for G2G)
 - 70% isopropyl alcohol
 - Clean spoon or similar transfer tool (optional)
 - Nitrile gloves and mask

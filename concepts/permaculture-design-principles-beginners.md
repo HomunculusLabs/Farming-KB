@@ -1,5 +1,5 @@
 ---
-title: Permaculture Design Principles — Beginners Guide
+title: Permaculture Design Principles Beginners
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/particles/permaculture-beginners-guide.md]
 
 ## Permaculture Design Principles for Beginners
 
-Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings. (see [[food-forest-design-guide]]).
+Permaculture (from "permanent agriculture" / "permanent culture") was coined in the mid-1970s by Australians David Holmgren and Bill Mollison. It is defined as "creating sustainable human habitats by following nature's patterns." It integrates ecology, landscape, organic gardening, architecture, and agroforestry into a design system applicable to both urban and rural settings.
 
 ### Three Core Ethics
 
-1. **Earth Care**: Recognize that the Earth is the source of all life and that we are part of it, not separate from it. Work to repair, conserve, and enhance natural systems. (see [[natural-farming-guide-permaculture-design-for-small-holdings]]).
+1. **Earth Care**: Recognize that the Earth is the source of all life and that we are part of it, not separate from it. Work to repair, conserve, and enhance natural systems.
 
 2. **People Care**: Support and care for ourselves and each other. Access to resources and the means to sustain ourselves is a right, not a privilege.
 
@@ -33,7 +33,27 @@ Permaculture (from "permanent agriculture" / "permanent culture") was coined in 
 
 **Stacking**: Nature layers plants at multiple heights in a woodland — canopy trees, understory trees, shrubs, climbers, and ground cover. The forest garden replicates this layering with useful plants: fruit and nut trees, berry bushes, herbs, vegetables, and ground covers occupying the same area.
 
-**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of flushing nutrients to sea.
+**Everything Cycles**: In nature there is no waste — every "waste product" is useful elsewhere in the system. Composting returns fertility instead of [[flushing-nutrients]] to sea.
+
+### Practical Applications
+
+- **Urban balconies and small courtyards**: Use vertical stacking with
+  [[hamilton-hanging-baskets-organic]], wall planters, and dwarf fruit trees to produce food
+  in under 5 m². Worm farms process kitchen scraps into fertilizer.
+- **Suburban quarter-acre blocks**: Convert lawn to food forest with
+  zone 1 herb spiral near the kitchen door, zone 2 orchard, and zone 3
+  chook tractor rotating across vegetable beds.
+- **Rural broadacre**: [[mollison-course-keyline-water-harvesting-dams]] directs rainfall to
+  ridgeline tree belts. Alley cropping pairs grain rows with nitrogen-
+  fixing shrubs. [[comparison-rotational-grazing-vs-continuous-grazing]] mimics natural herd movement.
+
+### Getting Started
+
+Begin with observation. Spend a full year watching how sun, wind, water,
+and frost move across your site before making major changes. Map existing
+trees, paths, wet spots, and views. Start small (a herb spiral, a
+compost bin, one raised bed) and expand as confidence grows. Permaculture
+is iterative — each season teaches you what to adjust next.
 
 ### Zone System
 
@@ -48,7 +68,14 @@ Zoning is about correct placement — positioning elements by frequency of human
 
 ### Community Economics
 
-Local spending keeps money circulating within communities. When money is spent with a local producer using local materials, it stays within the community to be continually reinvested. Community orchards, LETS (Local Exchange Trading Systems), and local distinctiveness (preserving regional heritage varieties) all strengthen community resilience against homogenization and corporate extraction.
+Local spending keeps money circulating within communities. When money is spent with a local producer using local materials, it stays within the community to be continually reinvested. Community orchards, LETS (Local Exchange Trading Systems), and local distinctiveness (preserving regional [[cannabis-landrace-sativa-heritage-varieties]]) all strengthen community resilience against homogenization and corporate extraction.
+
+### Further Reading
+
+- *Permaculture One* (1978) by Mollison and Holmgren — the foundational text
+- *Permaculture: A Designer's Manual* (1988) by Mollison — the comprehensive
+  reference used in Permaculture Design Certificate (PDC) courses worldwide
+- *The Permaculture Garden* (1994) by Graham Bell — practical small-scale guide
 
 ## See Also
 

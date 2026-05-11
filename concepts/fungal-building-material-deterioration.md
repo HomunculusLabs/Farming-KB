@@ -88,15 +88,3 @@ integrated approaches combining material selection, design, and
 chemical treatment.
 
 Novel approaches include biocontrol using antagonistic fungi such as
-*Trichoderma* species, and the development of building materials
-incorporating antifungal compounds. Nanotechnology-based coatings with
-antifungal properties are an emerging area of research for protecting
-both organic and inorganic building materials.
-
-## See Also
-
-- [[fungal-communities-extreme-environments]]
-- [[dry-rot-fungi-serpula-meruliporia]]
-- [[fungal-decomposition-lignin-cellulose]]
-- [[fungal-adaptations-environmental-gradients]]
-- [[fungal-biosorption-mechanisms]]

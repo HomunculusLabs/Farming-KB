@@ -1,5 +1,5 @@
 ---
-title: [[ashwagandha]] ([[withania-somnifera]])
+title: Ashwagandha Withania Somnifera
 type: species
 tags:
 - herbal-plant
@@ -88,61 +88,3 @@ Withanolides are C28 steroidal lactones structurally related to ergostane-type p
 ### Stress and Anxiety
 
 Multiple double-blind, placebo-controlled trials have demonstrated significant anxiolytic and anti-stress effects:
-
-- A landmark 2012 study by Chandrasekhar et al. showed that 600 mg/day of high-concentration full-spectrum Ashwagandha root extract for 60 days reduced stress and anxiety scores by 56.5% vs. 30.5% for placebo (p < 0.05)
-- Cortisol reduction of 28–30% has been consistently observed in stressed individuals
-- Perceived stress scale (PSS) improvements of 44% vs. placebo
-
-### Sleep Quality
-
-Studies using KSM-66® Ashwagandha extract (300 mg twice daily) demonstrated significant improvements in:
-
-- Sleep onset latency (time to fall asleep)
-- Sleep quality index scores
-- Overall sleep efficiency
-
-### Athletic Performance
-
-Ashwagandha supplementation has shown benefits for physical performance:
-
-- Increased VO₂ max and cardiorespiratory endurance
-- Improved strength and recovery in resistance training
-- Enhanced fat oxidation during exercise
-- Reduction in exercise-induced muscle damage markers (CK, LDH)
-
-### Testosterone and Male Fertility
-
-Multiple studies have demonstrated:
-
-- 10–22% increase in testosterone levels in men with suboptimal baseline
-- 167% increase in sperm count (Prasad et al., 2019)
-- Improved sperm motility and morphology
-
-### Cognitive Function
-
-Clinical evidence supports improvements in:
-
-- Reaction time and psychomotor performance
-- Memory and cognitive processing
-- Attention and information processing speed
-
-## Safety and Dosage
-
-### Therapeutic Dosage
-
-- Root powder: 1,000–6,000 mg/day; Standardized extract (2.5–5% withanolides): 300–600 mg/day
-- KSM-66® (patented extract): 300 mg twice daily
-
-### Contraindications and Drug Interactions
-
-- Pregnancy (uterine stimulant), hyperthyroidism, [[blesching-cannabis-health-index-autoimmune-conditions]], nightshade allergy
-- May potentiate CNS depressants, thyroid hormone therapy, and immunosuppressants
-
-## See Also
-
-- [[rhodiola-rosea]] (golden root)
-- [[panax-ginseng]]
-- [[tulsi]] ([[ocimum-tenuiflorum-entity]])
-- Adaptogens
-- ayurvedic medicine
-- Withanolides

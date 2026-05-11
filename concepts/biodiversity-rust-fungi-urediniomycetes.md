@@ -1,6 +1,6 @@
 ---
 title: Biodiversity biodiversity rust fungi urediniomycetes Urediniomycetes
-rust-fungist Fungi (Urediniomycetes) Diversity and Taxonomy"
+rust-fungist Fungi (Urediniomycetes) [[psilocybe-genus-diversity-and-taxonomy]]"
 tags: [mycology, rust-fungi, urediniomycetes, plant-pathogens, biodiversity]
 date: 2026-04-28
 updated: 2026-05-09
@@ -16,7 +16,7 @@ on a wide range of agricultural crops, forestry trees, and wild plants.
 They are obligate biotrophs, requiring living host tissue to complete
 their life cycles. The group includes approximately 7,000 to 8,000
 described species, with estimates suggesting many more remain undescribed,
-particularly in tropical regions where host plant diversity is highest.
+particularly [[fukuoka-natural-farming-in-tropical-regions]] where host plant diversity is highest.
 
 ## Life Cycle Complexity
 
@@ -33,8 +33,8 @@ Collection of rust fungi presents unique challenges because they cannot be
 cultured axenically away from hosts. Specimens should be collected with
 host material and pressed in standard plant presses. Voucher specimens
 must include infected plant portions with both rust structures and
-identifiable host features. Herbarium specimens serve as irreplaceable
-records of geographic distribution, host associations, and morphological
+identifiable host features. [[herbarium-specimens-fungal-collections]] serve as irreplaceable
+records of [[geographic-distribution-of-psilocybe-species]], host associations, and morphological
 variation. For canopy-level sampling of tree-infecting rusts, specialized
 access methods are required including ropes, spiked climbing irons, and
 even trained monkeys in some tropical research programs.
@@ -69,7 +69,7 @@ annual global crop losses exceeding billions of dollars:
 - **Hemileia vastatrix** (coffee leaf rust): Devastated Ceylon's coffee
   industry in the 19th century, transforming the island's economy from
   coffee to tea. Continues to threaten tropical coffee production.
-- **Melampsora lini** (flax rust): A model organism for studying
+- **Melampsora lini** (flax rust): A [[canary-grass-phototropism-model-organism]] for studying
   plant-pathogen coevolution and gene-for-gene interactions.
 
 ## Notable Rust Species and Host Associations
@@ -79,7 +79,7 @@ specificity. Gymnosporangium species exhibit heteroecism between juniper
 and rosaceous hosts, producing conspicuous galls on cedar branches.
 Cronartium ribicola, causing white pine blister rust, alternates between
 five-needle pines and Ribes species, causing extensive mortality in
-western North American white pine forests since accidental introduction.
+western [[growing-gourmet-north-american-reishi-species]] white pine forests since accidental introduction.
 
 Endophytic and non-pathogenic rust-like fungi discovered through molecular
 surveys suggest the biotrophic lifestyle may be more common and less
@@ -88,28 +88,3 @@ single host species, while others colonize dozens of related hosts within
 a genus or family.
 
 ## Molecular Phylogeny and Systematics
-
-Molecular phylogenetic studies have fundamentally reshaped understanding
-of rust fungal relationships. Multi-gene analyses using ITS, LSU rDNA,
-and protein-coding genes revealed that traditional morphological
-classification does not always reflect evolutionary history. The order
-Uredinales has been reorganized into several families and genera based on
-molecular data, with some long-established genera shown to be polyphyletic.
-
-Phylogenomic approaches are now resolving deeper nodes in the rust tree
-of life, providing insights into biotrophy evolution, the origins of
-heteroecism, and timing of major host shifts. Comparative genomics has
-revealed extensive repetitive DNA, large genome sizes (often exceeding
-100 Mb), and lineage-specific expansions of effector gene families that
-mediate host-pathogen interactions.
-
-## Ecological Interactions
-
-Beyond their role as
-[[fungi-in-the-environment-fungal-spore-dispersal]], rust fungi interact
-with [[fungicolous-fungi]] that can reduce disease severity, making them
-subjects of interest for [[biodiversity-arthropod-dispersed-fungi]].
-Hyperparasitic fungi such as Tuberculina species grow on rust sori and
-suppress rust development, providing natural biological control. Insect
-vectors, particularly certain flies and beetles, transport rust spores
-between hosts and may play underappreciated roles in rust epidemiology.

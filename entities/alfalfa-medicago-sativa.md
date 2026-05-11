@@ -14,7 +14,7 @@ sources:
 # Alfalfa (*Medicago sativa*)
 
 ## Overview
-Alfalfa is a perennial flowering plant in the legume family Fabaceae and one of the world's most important forage crops. Known as "lucerne" in the UK, Australia, New Zealand, and parts of Asia, it has been cultivated for over 4,000 years. Its extraordinarily deep taproot system (extending to 15+ meters) grants it exceptional drought resistance and the ability to access minerals unavailable to shallower-rooted plants. Alfalfa serves as a nitrogen-fixing cover crop, livestock forage, green manure, [[herbal-medicine]], and human food (sprouts). It is a keystone species in [[permaculture-design]] owing to its multiple ecological functions.
+Alfalfa is a perennial flowering plant in the legume family Fabaceae and one of the world's most important forage crops. Known as "lucerne" in the UK, Australia, New Zealand, and parts of Asia, it has been cultivated for over 4,000 years. Its extraordinarily deep taproot system (extending to 15+ meters) grants it exceptional drought resistance and the ability to access minerals unavailable to shallower-rooted plants. Alfalfa serves as a nitrogen-fixing cover crop, livestock forage, green manure, [[herbal-medicine]], and human food (sprouts). It is a keystone species in [[permaculture-design]] owing to its multiple [[fungal-melanin-biosynthesis-ecological-functions]].
 
 ## Taxonomy and Naming
 - **Kingdom:** Plantae
@@ -65,9 +65,9 @@ Alfalfa hay is valued for its high protein and mineral content. Values below are
 
 ## Permaculture Applications
 - **Nitrogen fixation:** Symbiosis with *Rhizobium meliloti* fixes 100–300 kg N/ha/year, enriching soil for subsequent crops and neighboring plants.
-- **Dynamic accumulator:** Deep taproot mines subsoil minerals (calcium, magnesium, potassium, iron) and deposits them in leaf tissue; returns nutrients to surface soil via mulch and decomposition.
+- **[[comparison-hyperaccumulator-vs-dynamic-accumulator]]:** Deep taproot mines subsoil minerals (calcium, magnesium, potassium, iron) and deposits them in leaf tissue; returns nutrients to surface soil via mulch and decomposition.
 - **Biomass generation:** Produces 8–20 tonnes dry matter/ha/year across multiple cuttings; ideal material for mulch, compost, and [[sheet-mulching]] systems.
-- **Pollinator support:** Prolonged bloom period provides nectar and pollen for honeybees, bumblebees, and native solitary bees; critical for apiary integration.
+- **Pollinator support:** Prolonged bloom period provides nectar and pollen for honeybees, bumblebees, and [[comparison-honey-bees-vs-native-solitary-bees]]; critical for apiary integration.
 - **Erosion control:** Dense root network and ground cover stabilize slopes, roadcuts, and riparian zones; used in conservation seedings.
 - **[[alley-cropping]] companion:** Intercropped between orchard rows or nut trees to suppress weeds, cycle nutrients, and provide cut-and-carry mulch for tree crops.
 
@@ -81,38 +81,9 @@ Alfalfa has a long history in traditional herbal medicine across multiple cultur
 - **Menopause symptom relief:** Phytoestrogens (coumestrol, formononetin) provide mild estrogenic activity.
 - **Digestive support:** Traditionally used as a tonic for appetite and digestion; enzyme content (betaine) aids nutrient assimilation.
 - **Nutritional supplement:** Alfalfa sprouts and tablets are consumed as concentrated sources of vitamins, minerals, and chlorophyll.
-- **Topical applications:** Poultices of alfalfa leaves used for wound healing and insect bites in folk traditions.
+- **[[cannabis-topical-applications]]:** Poultices of alfalfa leaves used for wound healing and insect bites in folk traditions.
 
-Contraindications: Avoid in individuals with autoimmune conditions (lupus, rheumatoid arthritis) due to L-canavanine content; caution with blood-thinning medications (vitamin K interaction).
+Contraindications: Avoid in individuals with [[blesching-cannabis-health-index-autoimmune-conditions]] (lupus, [[blesching-cannabis-rheumatoid-arthritis]]) due to L-canavanine content; caution with blood-thinning medications (vitamin K interaction).
 
 ## Companion Planting and Guild Role
 Alfalfa integrates well into diverse polyculture guilds, particularly in food forests and silvopastoral systems.
-
-| Companion | Relationship | Notes |
-|---|---|---|
-| Corn (maize) | Beneficial | N-fixation feeds heavy-feeding corn |
-| Fruit trees | Beneficial | N-fixing understory, mulch source |
-| Tomato | Beneficial | Provides nitrogen; avoid shading |
-| Berry bushes | Beneficial | Living mulch, nutrient cycling |
-| Comfrey | Synergistic | Both [[dynamic-accumulators]]; complementary root depths |
-| Black locust | Synergistic | Dual N-fixers in food forest canopy + understory |
-| Clover | Neutral | Both legumes; some resource overlap |
-| Oats/barley | Beneficial | Nurse crop during establishment |
-| Garlic | Neutral | Minimal interaction |
-| Fennel | Avoid | Allelopathic; inhibits legume growth |
-
-## Autotoxicity and Rotation Considerations
-A critical management constraint: mature alfalfa produces autotoxic compounds (medicarpin and other phenolics) that leach from roots, leaves, and seeds into the soil. These compounds inhibit alfalfa seedling germination and root growth. Consequences include:
-- Direct reseeding into terminated alfalfa stands typically fails or produces weak, uneven stands.
-- Minimum rotation break of 2–4 weeks (disking and waiting) for same-season replanting; 12+ months recommended for full stand renovation.
-- Rotating to a non-legume crop (corn, small grains, grass pasture) for 1–2 years eliminates autotoxic residue and reduces alfalfa-specific pathogens and pests.
-- Autotoxicity is concentration-dependent; old, dense stands produce more autotoxin than young or thin stands.
-
-## Historical Context
-Alfalfa originated in central Asia, likely in the region of modern-day Iran (ancient Media, from which the genus name *Medicago* derives). It was one of the first domesticated forage crops, with cultivation records dating back over 4,000 years. The plant spread from Persia to Greece (c. 490 BCE), where it was called "medike"), then to Rome, and throughout Europe via Moorish Spain. Spanish colonists introduced alfalfa to the Americas in the 16th century, where it became the foundation of cattle ranching in Argentina, the western United States, and Mexico.
-The development of fall-dormant cultivars in the 1970s–80s expanded its range into cold continental climates. Today, alfalfa is grown on approximately 30 million hectares worldwide, with the United States, Argentina, Russia, and China as leading producers. Its role in sustainable agriculture continues to expand as regenerative and permaculture practitioners rediscover its multifunctional benefits.
-
-## See Also
-- [[black-locust-entity]]
-- [[hugelkultur]]
-- [[silvopasture]]

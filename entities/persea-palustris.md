@@ -11,8 +11,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Godfrey, R.K. & Wooten, J.W. (1981). "Aquatic and Wetland Plants of Southeastern United States: Dicotyledons." University of Georgia Press.
-  - Weakley, A.S. (2023). "Flora of the Southeastern United States." University of North Carolina Herbarium.
+  - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States: Dicotyledons." University of Georgia Press.
+  - Weakley, A.S. (2023). "Flora of the Southeastern United States." University of [[north-carolina-mycodiversity]] Herbarium.
   - Radford, A.E., Ahles, H.E., & Bell, C.R. (1968). "Manual of the Vascular Flora of the Carolinas." University of North Carolina Press.
   - Nixon, K.C. (2018). "Taxonomy and Phylogeny of Persea (Lauraceae)." Systematic Botany Monographs, 102, 1-108.
   - USDA NRCS. "Persea palustris (Raf.) Sarg." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=PEPA16
@@ -24,11 +24,11 @@ sources:
 
 Persea palustris, commonly known as swamp bay or swampbay, is an evergreen tree in the family Lauraceae native to the southeastern United States. It inhabits wetland ecosystems including swamps, bayheads, and wet flatwoods from southeastern Virginia to eastern Texas and throughout Florida.
 
-The species is closely related to the avocado, Persea americana, and shares many morphological characteristics including aromatic foliage and drupaceous fruit. Swamp bay serves as a primary larval host plant for the palamedes swallowtail butterfly.
+The species is closely related to the avocado, [[persea-americana]], and shares many morphological characteristics including aromatic foliage and drupaceous fruit. Swamp bay serves as a primary larval host plant for the palamedes swallowtail butterfly.
 
-Persea palustris has experienced significant mortality across its range due to laurel wilt disease, caused by the introduced fungal pathogen Raffaelea lauricola and vectored by the redbay ambrosia beetle. This epidemic has reshaped swamp bay populations and the ecological communities they support.
+Persea palustris has experienced significant mortality across its range due to laurel wilt disease, caused by the introduced [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] Raffaelea lauricola and vectored by the redbay ambrosia beetle. This epidemic has reshaped swamp bay populations and the ecological communities they support.
 
-The species complex including Persea palustris and Persea borbonia has been the subject of taxonomic revision, with some authors treating them as varieties of a single species. Molecular evidence supports their recognition as distinct but closely related taxa.
+The species complex including Persea palustris and [[persea-borbonia]] has been the subject of taxonomic revision, with some authors treating them as varieties of a single species. Molecular evidence supports their recognition as distinct but closely related taxa.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ Bark is reddish-brown to gray, divided into irregular plates and ridges. Inner b
 
 Leaves are simple, alternate, elliptic to lanceolate, 5 to 15 centimeters long and 2 to 5 centimeters wide. The upper surface is dark green and glossy, while the lower surface is paler with fine pubescence along the midrib.
 
-A key diagnostic feature distinguishing Persea palustris from the closely related Persea borbonia is the presence of pubescence on the lower leaf surface. Persea borbonia typically has glabrous or nearly glabrous leaves beneath.
+A key diagnostic feature distinguishing Persea palustris from the closely related Persea borbonia is the presence of pubescence on the lower [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]. Persea borbonia typically has glabrous or nearly glabrous leaves beneath.
 
 The leaves are aromatic when crushed, releasing a spicy fragrance due to volatile terpenoid compounds. This aroma is characteristic of the Lauraceae family and serves as a defense against herbivorous insects.
 
@@ -50,7 +50,7 @@ The fruit is a dark blue to black drupe 1 to 2 centimeters long, maturing from A
 
 Oil content of the mesocarp is relatively high, similar to other Persea species, though not exploited commercially. The seeds are dispersed primarily by avian frugivores that transport them to new germination sites.
 
-Seed dormancy mechanisms in Persea palustris have not been extensively characterized. Germination in nursery conditions is improved by stratification and removal of the pericarp, suggesting some degree of physiological and mechanical dormancy.
+[[mollison-designers-seed-dormancy-and-germination-treatments]] mechanisms in Persea palustris have not been extensively characterized. Germination in nursery conditions is improved by stratification and removal of the pericarp, suggesting some degree of physiological and mechanical dormancy.
 
 ## Distribution and Habitat
 
@@ -60,9 +60,9 @@ The tree occupies a variety of wetland habitats, including cypress swamps, bayhe
 
 Elevation range is typically from sea level to approximately 100 meters. The species is largely restricted to the Atlantic and Gulf Coastal Plains, rarely extending inland beyond the fall line.
 
-Swamp bay commonly occurs in association with other wetland tree species including Taxodium distichum, Nyssa sylvatica, Magnolia virginiana, and Gordonia lasianthus. These associations define the bayhead forest type characteristic of the southeastern coastal plain.
+Swamp bay commonly occurs in association with other wetland tree species including [[taxodium-distichum]], [[nyssa-sylvatica]], [[magnolia-virginiana]], and Gordonia lasianthus. These associations define the bayhead forest type characteristic of the southeastern coastal plain.
 
-Soil preferences include acidic, organic-rich substrates typical of wetland environments. The species tolerates low-nutrient conditions but responds favorably to improved drainage and moderate nutrient availability.
+Soil preferences include acidic, organic-rich substrates typical of wetland environments. The species tolerates low-nutrient conditions but responds favorably to improved drainage and moderate [[ph-and-nutrient-availability-garden-soils]].
 
 Fire ecology is an important aspect of swamp bay habitat. The species resprouts vigorously from the root crown after fire, but severe fire during drought conditions can cause significant mortality, especially in smaller diameter individuals.
 
@@ -80,40 +80,10 @@ Laurel wilt disease, caused by the fungus Raffaelea lauricola and vectored by th
 
 The disease has spread rapidly throughout the southeastern United States, killing an estimated 300 million redbay and swamp bay trees across 11 states. Mortality rates approach 90 percent or higher in infected stands, with no effective treatment available for wild trees.
 
-The ecological consequences extend beyond Persea palustris itself. Loss of this canopy species alters forest structure, increases light penetration to the understory, and reduces food resources for the many animal species that depend on its fruit and foliage.
+The ecological consequences extend beyond Persea palustris itself. Loss of this canopy species alters [[mollison-wet-tropical-forest-structure-and-polyculture]], increases light penetration to the understory, and reduces food resources for the many animal species that depend on its fruit and foliage.
 
 Understory plant communities in laurel-wilt-affected stands show measurable shifts in species composition. Shade-intolerant species increase in abundance while shade-adapted species decline, fundamentally changing the successional trajectory of affected forests.
 
 The ambrosia beetle vector, Xyleborus glabratus, is attracted to Persea wood volatiles and can locate host trees from considerable distances. This highly efficient host-finding mechanism contributes to the rapid spread of the disease across the landscape.
 
 ## Conservation and Uses
-
-Persea palustris is not currently listed as threatened or endangered at the federal level. However, the ongoing laurel wilt epidemic has prompted reassessment of its conservation status by state agencies in several southeastern states.
-
-Research into laurel wilt resistance is ongoing, with some individual swamp bay trees showing tolerance or reduced susceptibility to the pathogen. These resistant individuals may provide genetic material for restoration efforts if their resistance is heritable.
-
-The wood is occasionally used for fence posts, tool handles, and fuelwood. Commercial timber value is limited due to the typically small trunk diameter and the tendency of the wood to warp and crack during drying.
-
-Landscape use is rare, though the species has potential as an ornamental tree in wetland and riparian plantings within its native range. Nursery availability is limited compared to more common landscape species.
-
-Traditional uses by indigenous peoples of the southeastern United States are poorly documented. The aromatic bark and leaves may have been used medicinally, consistent with the widespread use of Lauraceae species in ethnobotanical traditions.
-
-Seminole and Miccosukee peoples historically used members of the Lauraceae for various purposes, though specific records linking these practices to Persea palustris rather than Sassafras albidum are sparse in the ethnographic literature.
-
-Restoration efforts focusing on swamp bay replanting face the challenge of ongoing laurel wilt pressure. Success will likely depend on identifying and propagating resistant genotypes while also addressing the beetle vector population.
-
-Fungicide applications have shown limited efficacy in protecting individual high-value trees in landscape settings. Systemic propiconazole injections can provide temporary protection but require repeated applications and are not feasible for forest-scale management.
-
-Genomic studies of Raffaelea lauricola have identified pathogenicity genes involved in host colonization and vascular occlusion. Understanding these mechanisms may inform future biological control or resistance breeding strategies.
-
-## See Also
-
-- [[persea-americana]]
-- [[persea-borbonia]]
-- [[laurus-nobilis]]
-- [[cinnamomum-verum]]
-- [[sassafras-albidum]]
-- [[lindera-benzoin]]
-- [[litsea-cubeba]]
-- [[cinnamomum-camphora]]
-- [[nyssa-sylvatica]]

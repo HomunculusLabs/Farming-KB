@@ -88,27 +88,3 @@ Dried morels are nutritionally dense compared to most culinary mushrooms:
 | Potassium | 1,500–2,500 mg |
 | Phosphorus | 600–900 mg |
 | B vitamins (B1, B2, B3, B5) | Significant amounts |
-
-Morels are among the richest non-animal sources of vitamin D among [[fungi-cultivated-mushrooms-pathogens-competitors]] when exposed to UV light during or after the drying process. Their mineral content — particularly iron, potassium, and phosphorus — exceeds that of most common edible mushrooms including [[lentinula-edodes]] (shiitake).
-
-## Similar Species
-
-| Species | Key Distinguishing Features |
-|---------|---------------------------|
-| *Morchella sextelata* | Post-fire specialist; more regular pit pattern; found primarily in recently burned conifer forests |
-| *Morchella elata* | Larger, more robust; found under conifers in undisturbed forests; ridges more longitudinally arranged |
-| *Morchella angusticeps* | [[polypore-fungi-eastern-north-america]] America; more pointed cap; darker pigmentation |
-| *Morchella esculenta* | Yellow morel (different clade); lighter color, more rounded pits; prefers hardwood forests |
-| *Gyromitra esculenta* | **Toxic** — false morel; brain-like convoluted cap, not pitted; chambered stipe; contains gyromitrin |
-
-## Toxicity Warning
-
-While *M. importuna* itself is edible when cooked, all morel hunters must be able to distinguish true morels from potentially lethal lookalikes. **Gyromitra species** (false morels) contain gyromitrin, which metabolizes to monomethylhydrazine (MMH), a potent hepatotoxin and carcinogen. Additionally, all morels should be cooked thoroughly before consumption, and consumption of raw or undercooked morels can cause gastrointestinal distress even in edible species.
-
-Consumption of large quantities of morels, particularly with alcohol, has been associated with rare neurological symptoms. As with all wild mushrooms, individuals should consume small quantities initially to assess personal tolerance.
-
-## Cultural and Economic Significance
-
-Commercial morel cultivation using *M. importuna* represents a growing segment of the specialty mushroom industry, valued at over $100 million annually worldwide. Wild morel foraging remains culturally significant across Europe, North America, and Asia, with morel festivals held annually in communities throughout the mushroom's range.
-
-In the Pacific Northwest, *M. importuna* is one of the most commonly found urban morels, appearing in residential landscaping, parks, and along roadsides — making it an accessible entry point for beginning mycophagists. Its reliability in disturbed habitats has also made it a model organism for studies of fungal succession and urban mycology.

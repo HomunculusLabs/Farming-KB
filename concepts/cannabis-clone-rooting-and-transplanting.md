@@ -1,10 +1,11 @@
 ---
-title: Cannabis cannabis clone rooting and transplanting and Transplanting
+title: Cannabis Clone Rooting And Transplanting
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 Updated: 2026-04-18
@@ -55,7 +56,7 @@ Work quickly to minimize air exposure at the cut surface. Use a clean, sharp bla
 
 ### Aeroponic Cloners
 
-- Cuttings suspended in misting chamber with no growing medium
+- Cuttings suspended in misting chamber with no [[cervantes-green-algae-growing-medium]]
 
 - Roots form rapidly in the humid, oxygen-rich environment
 
@@ -79,7 +80,7 @@ Wilting after 24 hours usually indicates the cutting cannot transpire fast enoug
 
 Once roots emerge from the bottom of the rooting medium (1-2 inches long):
 
-1. Prepare the destination container with growing medium
+1. Prepare the destination container with [[cervantes-growing-medium]]
 
 2. Make a hole in the medium
 
@@ -88,33 +89,3 @@ Once roots emerge from the bottom of the rooting medium (1-2 inches long):
 4. Fill in around the cube/pellet with medium
 
 5. Water lightly to settle
-
-6. Gradually reduce humidity over 3-5 days (open dome vents progressively)
-
-7. Introduce stronger light gradually
-
-## Signs of Successful Rooting
-
-- New white roots visible at bottom of medium
-
-- New growth at the top of the cutting
-
-- Cutting stands upright on its own (no longer wilted)
-
-## Common Mistakes
-
-Overwatering is the most common cloning mistake — keep the medium moist but not saturated. Using nutrients too early burns delicate new roots. Exposing clones to strong light before rooting causes stress and wilting. Removing the humidity dome too quickly causes [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]. Taking cuttings from unhealthy or stressed mother plants leads to weak clones.
-
-## Equipment Recommendations
-
-A propagation tray with humidity dome (7-inch height) costs $20-30 and is essential for beginners. A heat mat with thermostat maintains optimal root zone temperature. Rooting hormone gel (Clonex is industry standard) increases success rates by 10-20%. For serious growers, aeroponic cloning machines ($100-300) provide faster, more reliable rooting.
-
-## See Also
-
-- [[cannabis-cloning-and-mother-plants]]
-
-- [[cannabis-sea-of-green-sog-method]]
-
-- [[cannabis-seed-germination-methods]]
-- [[moist-chamber-technique-fungal-fruiting]]
-- [[cannabis-growing-environment-setup]]

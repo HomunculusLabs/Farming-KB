@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - beneficial-insect-habitat.md
   - beneficial-insects-cannabis.md
   - beneficial-insects-guide.md

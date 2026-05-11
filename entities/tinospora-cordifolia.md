@@ -24,7 +24,7 @@ Tinospora cordifolia, known as Giloy or Guduchi in Ayurveda, is a large
 deciduous climbing shrub in the family Menispermaceae. It is one of the most
 important rasayana (rejuvenating) herbs in traditional Indian medicine.
 
-The species is native to the Indian subcontinent and tropical regions of Asia
+The species is native to the Indian subcontinent and [[fukuoka-natural-farming-in-tropical-regions]] of Asia
 and Africa. In classical Ayurvedic texts, it is classified as *medhya rasayana*
 (brain tonic) and is used to treat a wide range of conditions including fever,
 diabetes, and immune dysfunction.
@@ -77,67 +77,14 @@ but grows most vigorously with consistent moisture and partial shade.
 
 The stem contains a diverse array of bioactive constituents. Major chemical
 classes include diterpenoid lactones, sesquiterpenoids, alkaloids,
-polysaccharides, and phenolic compounds.
+polysaccharides, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]].
 
 Key diterpenoid lactones include tinosporide, tinosporic acid, columbin, and
 tinosporon. The clerodane furano-diterpenes are considered the primary
 bioactive compounds. Sesquiterpenoids include tinosporone and syringin.
 
-Alkaloids are present in smaller quantities: berberine, palmatine,
+Alkaloids are present in smaller quantities: [[berberine]], palmatine,
 magnoflorine, and tembetarine. Berberine is notable for its well-documented
 anti-diabetic and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
 A water-soluble polysaccharide fraction (G1-4A) has been identified as a key
-immunomodulatory component. This arabinogalactan-rich polysaccharide activates
-macrophages and enhances phagocytic activity.
-
-## Pharmacology
-
-The immunomodulatory activity is the most extensively studied pharmacological
-property. In vivo studies demonstrate that *T. cordifolia* extracts activate
-both cell-mediated and humoral immunity. Macrophage activation, increased
-phagocytic index, and enhanced NK cell activity have been documented.
-
-Anti-diabetic effects are attributed to multiple mechanisms: berberine
-inhibits hepatic gluconeogenesis, tinosporic acid improves insulin
-sensitivity, and the polysaccharide fraction protects pancreatic beta cells.
-[[mushroom-cancer-clinical-trials-overview]] show significant reductions in fasting blood glucose and HbA1c.
-
-Hepatoprotective activity has been validated against CCl₄-induced liver
-damage in animal models. The diterpenoid lactones reduce serum transaminase
-levels and restore hepatic antioxidant status. Anti-inflammatory effects are
-mediated through inhibition of COX-2, TNF-α, and NF-κB pathways.
-
-Anti-arthritic activity has been demonstrated in both animal models and
-clinical settings. Reduction in joint swelling, pain scores, and inflammatory
-markers has been reported in rheumatoid arthritis patients.
-
-## Traditional and Modern Use
-
-In Ayurveda, the stem is used as a bitter tonic (*tikta rasayana*),
-antipyretic, and anti-inflammatory agent. Classical formulations include
-*Guduchi Ghana*, *Guduchi Satva* (starch extract), and *Guduchi Taila*
-(medicated oil). It is a key ingredient in *Amritarishta* and
-*Sanjivani Vati*.
-
-The plant holds [[ethnomycology-cultural-significance-sacred-fungi]] in Hindu mythology — it is said to have
-been used to revive Lakshmana in the Ramayana, earning the name "Amrita"
-(divine nectar). Fresh stem juice is widely consumed during seasonal changes
-as a preventive health measure.
-
-Modern commercial products include standardized extracts, capsules, and
-tonics. The Indian market includes numerous Guduchi-based formulations for
-immune support, diabetes management, and liver health.
-
-## See Also
-
-- [[withania-somnifera]]
-- ocimum-sanctum
-- [[bacopa-monnieri]]
-- [[andrographis-paniculata]]
-- [[curcuma-longa]]
-- [[piper-nigrum-entity]]
-- [[phyllanthus-niruri]]
-- [[picrorhiza-kurroa]]
-- [[swertia-chirata]]
-- [[mucuna-pruriens]]

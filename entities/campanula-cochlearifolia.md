@@ -64,7 +64,7 @@ The species is a calcicole, strongly associated with limestone and dolomite bedr
 
 In the high Alps, it is one of the most common and conspicuous alpine bellflowers. It forms extensive mats on limestone pavements, cliff faces, and stable scree at and above the treeline.
 
-The species often grows alongside other classic alpine calcicoles including Gentiana clusii, Saxifraga oppositifolia, and Androsace species. These associations define the character of alpine limestone plant communities.
+The species often grows alongside other classic alpine calcicoles including [[gentiana-clusii]], Saxifraga oppositifolia, and Androsace species. These associations define the character of alpine limestone plant communities.
 
 ## Cultivation
 
@@ -72,7 +72,7 @@ Campanula cochlearifolia is a popular alpine plant for rock gardens, troughs, an
 
 **Soil:** Plant in sharply drained, lime-rich soil with plenty of coarse grit. A neutral to alkaline pH is preferred. The species tolerates poor soils and performs best in lean, gritty mixes.
 
-**Light:** Full sun is ideal, with some afternoon shade in hot climates. The compact growth habit is maintained only in bright light. Shade causes leggy, sparse growth.
+**Light:** Full sun is ideal, with some afternoon shade in hot climates. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit is maintained only in bright light. Shade causes leggy, sparse growth.
 
 **Propagation:** Division of mats in spring is straightforward, as rooted sections detach easily. Seed sown in autumn or spring germinates well without special treatment.
 
@@ -80,41 +80,10 @@ Campanula cochlearifolia is a popular alpine plant for rock gardens, troughs, an
 
 The species has received the Royal Horticultural Society's Award of Garden Merit. It is widely available from alpine plant nurseries and specialist growers.
 
-Campanula cochlearifolia is sometimes confused with Campanula rotundifolia (harebell), which has larger flowers and a taller, more upright habit. The dwarf, mat-forming growth of C. cochlearifolia is diagnostic.
+Campanula cochlearifolia is sometimes confused with [[campanula-rotundifolia]] (harebell), which has larger flowers and a taller, more upright habit. The dwarf, mat-forming growth of C. cochlearifolia is diagnostic.
 
 ## Ecological Role
 
 Campanula cochlearifolia is pollinated by small bees, flies, and other insects attracted to the nectar in the tiny bell-shaped flowers. The small flower size restricts access to smaller pollinators.
 
 The creeping mat-forming habit provides microhabitat for tiny invertebrates in alpine environments. The dense foliage creates a humid microclimate that shelters springtails and mites.
-
-In alpine limestone communities, the species contributes to the stabilization of scree and moraine substrates. Its rooting stems help bind loose rock particles, facilitating the establishment of other plant species.
-
-The species is part of the species-rich alpine turf communities that support exceptional biodiversity at small spatial scales. These communities are considered conservation priorities under European habitat directives.
-
-Populations on isolated limestone outcrops may be genetically distinct, representing locally adapted ecotypes. This genetic diversity adds conservation value to even small, peripheral populations.
-
-## Uses and Ethnobotany
-
-Campanula cochlearifolia is primarily an ornamental plant with no significant history of medicinal or culinary use. Its value lies in its contribution to rock garden and alpine garden aesthetics.
-
-The species is one of the signature plants of European alpine flora and is frequently depicted in alpine botanical art and photography. Its charm and miniature stature make it a favorite subject.
-
-In the wild, the species has some cultural significance in Alpine communities as a symbol of the high mountain environment. It is less iconic than the gentians but equally appreciated by alpine botanists.
-
-Conservation concerns are minimal, as the species remains common across much of its Alpine range. However, climate change may push suitable habitat to higher elevations, reducing the total area available.
-
-The species is not currently listed on any European Red List as threatened. However, monitoring of marginal populations at lower elevations has detected local declines.
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-trachelium]]
-- [[campanula-medium]]
-- [[campanula-carpatica]]
-- [[gentiana-clusii]]
-- [[gentiana-verna]]
-- [[gentiana-acaulis]]
-- [[swertia-perennis]]
-- [[campanula-punctata]]

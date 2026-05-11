@@ -19,7 +19,7 @@ sources:
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Hazekamp, A. et al. (2016). "The Cannabis Systematics Review: A biologically comprehensive approach." Cannabis and Cannabinoid Research, 1(1), 34-48.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - https://www.leafly.com/strains/lemon-haze (strain profile data)
+  - https://www.leafly.com/strains/lemon-haze ([[chupacabra-strain-profile-sickmeds-oner]] data)
   - Mudge, E.M. et al. (2018). "Cannabinoid and terpene content across comparison-cannabis-sativa-vs-cannabis-indica L. cultivars." Journal of Cannabis Research.
 ---
 
@@ -27,7 +27,7 @@ sources:
 
 ## Overview
 
-**Lemon Haze** is a sativa-dominant cannabis hybrid created by crossing **Silver Haze** with **Lemon Skunk**. Developed by Green House Seeds, it quickly became one of the most popular cannabis strains worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The terpene profile is dominated by **limonene**, **terpinolene**, and **myrcene**, which together produce its signature lemon-citrus character.
+**Lemon Haze** is a sativa-dominant [[cannabis-hybrid-vigor-and-phenotypes-clarke]] created by crossing **[[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]** with **Lemon Skunk**. Developed by Green House Seeds, it quickly became one of the most popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] worldwide after winning the **High Times Cannabis Cup** in 2008. The strain is celebrated for its **intense citrus aroma and flavor**, clear-headed and uplifting cerebral effects, and vigorous growth characteristics. It typically tests at 17–22% THC with negligible CBD content. The [[cannabis-terpene-profile]] is dominated by **limonene**, **terpinolene**, and **myrcene**, which together produce its signature lemon-citrus character.
 
 ## Lineage
 
@@ -50,7 +50,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,29 +88,3 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[ghost-train-haze]]

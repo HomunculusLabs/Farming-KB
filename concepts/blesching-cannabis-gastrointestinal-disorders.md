@@ -1,8 +1,8 @@
 ---
-title: Cannabis for Gastrointestinal Disorders (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
+title: Blesching Cannabis Gastrointestinal Disorders
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Uwe Blesching, The Cannabis Health Index (CHI)"
+sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-inflammatory-bowel-disease cannabis-autoimmune-conditions-detailed blesching-cannabis-cancer-symptoms"
 type: concept
 tags: [cannabis]
@@ -15,7 +15,7 @@ tags: [cannabis]
 Blesching's Cannabis Health Index covers multiple GI conditions with varying
 confidence levels. This page synthesizes findings across gastro-esophageal
 reflux disease (GERD), nausea and vomiting, chemotherapy-induced nausea, and
-appetite stimulation -- areas distinct from [[blesching-cannabis-inflammatory-bowel-disease]] disease (covered
+[[cannabis-for-cachexia-and-appetite-stimulation]] -- areas distinct from [[blesching-cannabis-inflammatory-bowel-disease]] disease (covered
 separately).
 
 ## Gastro-Esophageal Reflux Disease (GERD)
@@ -53,9 +53,9 @@ the highest confidence ratings in the entire index.
 ### Chemotherapy-Induced Nausea and Vomiting
 - 24 studies reviewed, CHI Value: 104
 - Anecdotal evidence from patients who smoked marijuana before chemotherapy
-  ultimately led to [[mushroom-cancer-clinical-trials-overview]] demonstrating therapeutic properties of
+  ultimately led to [[mushroom-cancer-clinical-trials-overview]] demonstrating [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of
   cannabinoids
-- Early studies focused on comparing cannabinoids to prochlorperazine
+- [[hofmann-lsd-clinical-research-early-studies]] focused on comparing cannabinoids to prochlorperazine
   (Compazine). Most reported cannabinoids as superior
 - Later studies reported cannabinoids proved more effective than metoclopramide,
   chlorpromazine, thiethylperazine, haloperidol, domperidone, or alizapride
@@ -71,7 +71,7 @@ healthy body weight due to psychological reasons. Cachexia (wasting syndrome)
 refers to loss of body mass that cannot be replaced through nutrition,
 presenting as generalized weakness, poor health, and emaciation. Cachexia is
 usually secondary in chronic destructive diseases such as end-stage cancer,
-AIDS, terminal tuberculosis, multiple sclerosis, or COPD.
+AIDS, terminal tuberculosis, [[blesching-cannabis-multiple-sclerosis]], or COPD.
 
 ### Cannabis and Appetite
 - 11 studies reviewed, combined CHI Value: 28
@@ -88,52 +88,3 @@ AIDS, terminal tuberculosis, multiple sclerosis, or COPD.
 - 64% of hepatitis C patients on interferon-ribavirin therapy experienced
   symptom improvements when also administered cannabinoids
 - Patients often prefer sativa strains for appetite stimulation due to more
-  stimulating, energizing properties
-
-## Strain-Specific Considerations for GI Disorders
-
-- For GERD: Both CB1 and CB2 may be involved in triggering esophageal
-  sphincter relaxations. THC binds both relatively equally. Both sativas and
-  indicas contain relevant cannabinoids.
-- For nausea/vomiting: THC acts primarily via CB1. Sativa strains with higher
-  THC content are traditionally preferred for anti-nausea effects.
-- For appetite stimulation: CB1 activation is primary mechanism. Sativa strains
-  are commonly preferred by patients for stimulating appetite and energy.
-- Careful dose titration is essential across all GI applications due to the
-  dose-specific therapeutic window demonstrated in GERD studies.
-
-## Mind-Body Medicine and GI Disorders
-
-A study on 60 heartburn patients concluded: "heartburn severity appears to be
-most responsive to major life events and not an accumulation of more minor
-stressors." Another experiment demonstrated that the introduction of anxiety
-increases acid-induced esophageal hyperalgesia (increased pain sensitivity).
-
-Emotional underpinnings for nausea and vomiting exist even when no physical
-cause is present. The gut-brain axis (enteric nervous system) contains the
-majority of the body's serotonin and is richly supplied with cannabinoid
-receptors.
-
-## Key Takeaways
-
-- Cannabis has the highest evidence base (CHI 111) for nausea and vomiting of
-  any condition in the index
-- THC reduces chemotherapy-induced nausea and vomiting, often outperforming
-  standard antiemetics
-- CB1 receptor activation is the primary mechanism for appetite stimulation
-- GERD treatment requires careful dose titration -- 10 mg THC effective but 20
-  mg produces [[blesching-cannabis-safety-adverse-effects-evidence]]
-- Sativa strains are generally preferred for appetite stimulation and
-  anti-nausea applications
-
-## See Also
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[cannabis-autoimmune-conditions-detailed]]
-- [[blesching-cannabis-alzheimers-dementia]]
-
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-
-- [[blesching-cannabis-immune-system-modulation]]
-
-- [[blesching-cannabis-palliative-care]]

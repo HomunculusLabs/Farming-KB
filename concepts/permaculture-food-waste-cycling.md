@@ -9,7 +9,7 @@ sources: []
 
 # Permaculture Food Waste Cycling
 
-Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "produce no waste" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and building soil fertility.
+Food waste cycling transforms organic waste streams into valuable resources — compost, animal feed, soil amendments, and biogas. In permaculture, "[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]" means every output becomes an input for another element. Food waste cycling closes loops between household, garden, and animal systems, reducing external inputs and [[building-soil-fertility-long-term]].
 
 ## The Waste Hierarchy
 
@@ -17,8 +17,8 @@ Food waste cycling transforms organic waste streams into valuable resources — 
 2. **Feed to animals** — direct conversion of food scraps to eggs, meat, and manure
 3. **Compost** — biological decomposition into stable humus
 4. **Vermicompost** — worm-processed compost, higher in nutrients
-5. **Bokashi** — anaerobic fermentation for including meat and dairy
-6. **Biogas** — anaerobic digestion producing methane for cooking/heating
+5. **Bokashi** — [[jadam-anaerobic-fermentation]] for including meat and dairy
+6. **Biogas** — [[biogas-digesters-and-anaerobic-digestion-systems]] producing methane for cooking/heating
 
 ## Compost Systems
 
@@ -101,7 +101,7 @@ Sprouting grains increases protein, vitamin, and enzyme content:
 
 ## Bokashi Fermentation
 
-Bokashi is an anaerobic fermentation process originating from Japan that pre-digests organic waste using effective microorganisms (EM).
+Bokashi is an anaerobic fermentation process originating from Japan that pre-digests organic waste using [[bokashi-composting-and-effective-microorganisms]] (EM).
 
 ### Process
 1. Add food waste (including meat, dairy, cooked foods) to a sealed bokashi bucket
@@ -117,7 +117,7 @@ Bokashi is an anaerobic fermentation process originating from Japan that pre-dig
 - Fast processing (2-4 weeks in bucket)
 - Works indoors or in small spaces
 - Bokashi tea is a potent liquid fertilizer
-- Fermented material adds beneficial microorganisms to soil
+- Fermented material adds [[forest-and-bamboo-beneficial-microorganisms]] to soil
 
 ## Closing the Loop
 

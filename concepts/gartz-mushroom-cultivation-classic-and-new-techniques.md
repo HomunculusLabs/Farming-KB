@@ -87,33 +87,3 @@ Gartz established through such experiments that mycelia from
 ## Substrate and Environmental Challenges
 
 The choice of substrate depends on the species. [[psilocybe-semilanceata]] are far more challenging to cultivate, as they have very specific substrate and environmental requirements that are difficult to replicate indoors.
-
-In Europe, cultivation of [[psilocybe-cubensis-potency-variation-by-flush]], a temperate European species, would be a more logical choice for local cultivation.
-
-## Mycelial Characteristics
-
-Different species develop mycelia with distinctly different visual
-characteristics. [[psilocybe-semilanceata]], by contrast,
-develops comparatively thin strands that are hardly visible at all. During
-the dormant state, mycelium can weather droughts and cold winter
-temperatures, only to begin growing anew when conditions improve.
-
-The dikaryotic mycelium spends most of its life in a purely vegetative
-state, spreading and utilizing nutritional resources without producing
-mushrooms. The transition from [[cannabis-vegetative-growth-stage]] to fruiting requires the
-precise environmental triggers listed above. For the majority of mushroom
-species, the specific conditions required to reach the fruiting phase have
-not yet been fully determined, which is why some species remain
-uncultivable.
-
-## A Note on Psilocybe semilanceata Cultivation
-
-Despite being the most widely used psychoactive mushroom in Europe,
-[[psilocybe-cubensis-potency-variation-by-flush]], even in temperate European climates where it does not grow naturally.
-
-The challenges of cultivating temperate psychoactive species means that
-for many enthusiasts, wild foraging remains the primary means of obtaining
-these mushrooms -- a practice that carries its own risks, as discussed in
-the context of gartz-european-psychoactive-mushroom-species
-- [[oyster-mushroom-species-fruiting-parameters]]
-- [[mushroom-cultivation-sterile-technique]]

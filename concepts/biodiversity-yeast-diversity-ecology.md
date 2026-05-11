@@ -1,5 +1,5 @@
 ---
-title: "biodiversity yeast diversity ecology, Ecology, and Molecular Systematics"
+title: Biodiversity Yeast Diversity Ecology
 created: 2026-04-28
 tags:
   - biodiversity-yeasts
@@ -16,14 +16,14 @@ type: concept
 
 # Yeast Diversity, Ecology, and Molecular Systematics
 
-Comparisons of ribosomal RNA (rRNA) and its template ribosomal DNA
+Comparisons of [[ribosomal-rna-sequencing-yeast-identification]] (rRNA) and its template ribosomal DNA
 (rDNA) have fundamentally transformed our understanding of yeast
 biodiversity and evolutionary relationships. Ribosomes are present in
 all cellular organisms and share a common evolutionary origin, providing
 a molecular history shared by all organisms. Some rRNA/rDNA sequences
 are sufficiently conserved to serve as reference points for aligning
 less conserved regions used to measure evolutionary relationships.
-The application of these molecular tools has resolved long-standing
+The application of these [[molecular-tools-bioremediation]] has resolved long-standing
 questions about yeast phylogeny and enabled rapid identification of
 species.
 
@@ -45,9 +45,9 @@ colleagues (1990) and Vilgalys and Hester (1990).
 
 The 5S rRNA molecule (approximately 120 nucleotides) was widely used
 for broad phylogenetic estimates. Walker and Doolittle (1982) showed
-that 5S rRNA similarity among basidiomycetous yeasts correlated with
+that 5S rRNA similarity among [[basidiomycetous-yeasts-ballistoconidia-biocontrol]] correlated with
 [[fungal-woronin-bodies-and-septal-pore-organization]] type. Among ascomycetous yeasts, Schizosaccharomyces pombe
-was found to be phylogenetically distant from Saccharomyces cerevisiae.
+was found to be phylogenetically distant from [[saccharomyces-cerevisiae]].
 However, the informationally richer 18S and 26S rRNA molecules have
 now replaced 5S rRNA for most analyses. The 5.8S rRNA (about 160
 nucleotides) contains modified nucleotides but has yielded limited
@@ -77,7 +77,7 @@ except Schizosaccharomyces, form a monophyletic clade. Schizosaccharomyces,
 Protomyces, Taphrina, Saitoella, and Pneumocystis form a divergent
 basal clade provisionally termed "Archiascomycetes."
 
-Eremascus species, forming asci unenclosed in fruiting bodies, align
+Eremascus species, forming asci unenclosed in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], align
 with euascomycetes. Budding cannot define yeasts alone: Ascoidea and
 Eremothecium show no typical budding, while Aureobasidium and
 Phialophora (euascomycetes) are dimorphic. Sexual states of all yeast
@@ -88,58 +88,3 @@ several families. The 10 species of Saccharomycopsis were formerly
 distributed among six genera.
 
 ## Basidiomycetous Yeast Phylogeny
-
-Two morphologically distinct teleomorph states occur among
-basidiomycetous yeasts: one forming teliospores that germinate to
-produce a basidium with basidiospores (similar to rust and [[biodiversity-smut-fungi-diversity]]),
-and another lacking teliospores with basidia developing directly on
-hyphae or yeast cells (similar to Tremellales). Phylogenetic analyses
-of 18S rDNA and D1/D2 of 26S rDNA place basidiomycetous yeasts in
-three classes: Ustilaginomycetes, Urediniomycetes, and Hymenomycetes.
-Surprisingly, teliosporic and nonteliosporic taxa occur in each class,
-and carotenoid production and ballistoconidia, previously considered
-phylogenetically informative, are found across all three.
-
-Fell and colleagues (2000) sequenced the D1/D2 domain for 230 species
-in 42 genera of basidiomycetous yeasts, the most extensive comparison
-to date. This region distinguishes most closely related species but
-has too few phylogenetically informative sites for accurate assessment
-of basal relationships. The anamorphic genera Tsuchiyaea and
-Kochovaella, defined from partial sequences, may overlap with earlier
-described genera, illustrating the need for comprehensive taxon
-sampling. Additional sequencing will improve resolution of deep nodes.
-
-## Rapid Identification and Biodiversity Assessment
-
-Several molecular methods enable rapid yeast identification. RFLP
-analysis of rDNA, particularly the hypervariable intergenic spacer
-region, distinguishes individual species and strains. Magee and
-colleagues (1987) showed that Candida guilliermondii, C. tropicalis,
-and C. albicans produce distinct digestion patterns. Lachance (1990)
-used RFLPs to map genetic profiles of 125 Clavispora opuntiae isolates
-collected worldwide. A three-primer PCR technique (Fell 1993), modified
-by Mannarelli and Kurtzman (1998) for clinical yeasts, uses species-
-specific internal primers for the D1/D2 region to produce diagnostic
-amplification products.
-
-Automated DNA sequencing has become the most effective identification
-method. Databases of D1/D2 sequences for all known yeast species have
-been compiled (Kurtzman and Robnett 1998; Fell et al. 2000) with
-updates in GenBank. As a phylogenetic framework develops, better
-understanding of generic, familial, and ordinal boundaries will enable
-biodiversity assessment at higher taxonomic levels. The discovery that
-Metschnikowia, previously thought to contain 10 species, actually
-includes 20 species illustrates how molecular methods reveal hidden
-diversity and eliminate perceived long-branch artifacts.
-
-## Related
-
-- [[biodiversity-mycetozoan-diversity]]
-- [[biodiversity-zygomycota-diversity]] Topics
-
-- [[biodiversity-fungal-genetic-diversity]] — genetic diversity
-  patterns in fungal populations
-- [[biodiversity-basidiomycete-diversity-taxonomy]] — basidiomycete
-  diversity including basidiomycetous yeasts
-- biodiversity-fungi-molecular-methods — general molecular
-  methods applied to [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] studies

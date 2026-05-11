@@ -1,5 +1,5 @@
 ---
-title: PF TEK [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]] and Evaporation Concentration Method
+title: Pf Tek Evaporation Concentration Extraction
 created: 2026-05-09
 tags: [mycology, extraction, psilocybin, alcohol, pf-tek]
 date: 2026-05-09
@@ -88,46 +88,3 @@ the freezer, where alcohol remains liquid.
 ## Relationship to Desiccant Drying
 
 This [[lemon-cannabis-alchemy-high-volume-extraction-method]] is presented as complementary to the PF TEK
-[[pf-tek-desiccant-drying-technique]]. The same high-quality dried mushrooms prepared
-via cool desiccation are used as the extraction starting material. The
-extraction method provides an alternative consumption method for those who
-prefer liquid dosing over eating dried mushrooms. The PF TEK notes that
-the alcohol can be evaporated entirely and the residual extract consumed
-directly, offering flexibility in how the final product is administered.
-
-## Equipment and Supply Requirements
-
-The PF TEK provides a complete supply list for the extraction process. In
-addition to the dried mushrooms and 200 proof ethyl alcohol, cultivators
-need a drinking glass with spoon or knife, a funnel, bottles with tight caps
-(such as whiskey bottles or pop bottles), dust-pollen masks for filtration,
-a small desk fan for evaporation, and a 10cc syringe for measurement and
-dispensing. All of these items are described as readily available from
-household, hardware store, or drug store sources, maintaining the PF TEK
-philosophy of using common materials for [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] processing.
-
-## Safety Considerations
-
-The primary safety concern throughout the extraction process is fire hazard
-from the highly flammable pure alcohol. The PF TEK explicitly warns to keep
-flames away from the solution at all stages, particularly during evaporation
-where alcohol vapors are concentrated. The non-toxic nature of ethyl alcohol
-is emphasized as a safety advantage over other [[cannabis-extraction-solvents]], with the
-note that any fumes generated during evaporation are harmless. The precision
-dosing requirement is framed as a safety consideration for the consumer, as
-imprecise dosing of concentrated extract could lead to unexpectedly intense
-experiences.
-
-## Evaporation Variables and Yield Optimization
-
-Several variables affect the efficiency and completeness of the evaporation
-process in the PF TEK extraction method. [[jadam-ambient-temperature-principle]] plays a
-significant role, with warmer environments accelerating alcohol evaporation
-but also potentially degrading thermolabile compounds if heat is applied
-directly. The surface area of the evaporation vessel influences rate, with
-wide shallow dishes evaporating faster than narrow deep containers. The
-volume and concentration of the starting extract determine the final mass
-of crystal, as more dilute starting solutions require longer evaporation
-times to reach the supersaturation point where crystals begin to form.
-Fan-assisted evaporation under a fume hood represents a practical
-compromise between speed and safety for larger-scale extractions.

@@ -15,7 +15,7 @@ sources:
   - Willard, T. (1992). The Herbs of Life. Crossing Press.
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
   - Uddin, M.K. et al. (2014). "Cyperus rotundus L.: Traditional uses, phytochemistry, and pharmacological activities." Asian Pacific Journal of Tropical Disease, 4(Suppl 2), S674-S682.
-  - Husain, S.S. et al. (2005). Cyperus rotundus L.: A potential weed. In "Weed Management for Developing Countries." FAO Plant Production and Protection Paper.
+  - Husain, S.S. et al. (2005). Cyperus rotundus L.: A potential weed. In "Weed Management for [[low-cost-mushroom-growing-house-construction-developing-countries]]." FAO Plant Production and Protection Paper.
 ---
 
 ## Overview
@@ -48,11 +48,11 @@ A single mature plant can produce hundreds of tubers per season, with each tuber
 
 ## Distribution and Habitat
 
-Cyperus rotundus has achieved a nearly pantropical distribution and is found in tropical, subtropical, and warm temperate regions worldwide.
+Cyperus rotundus has achieved a nearly [[copelandia-cyanescens-pantropical-distribution-and-ecology]] is found in tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is believed to have originated in Africa or India and spread globally through human agricultural activity.
 
-It occurs as a weed in row crops, orchards, pastures, gardens, and disturbed sites across Asia, Africa, the Americas, and the Pacific Islands.
+It occurs as a weed in row crops, orchards, pastures, gardens, and disturbed sites across Asia, Africa, the Americas, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 C. rotundus tolerates a wide range of soil types including sandy, loamy, and clay soils, from acidic to moderately alkaline pH.
 
@@ -64,7 +64,7 @@ It is found from sea level to approximately 1,800 meters elevation in tropical m
 
 ## Invasive Biology
 
-Cyperus rotundus is consistently ranked among the top ten worst weeds globally by agricultural research institutions.
+Cyperus rotundus is consistently ranked among the top ten worst weeds globally by [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] institutions.
 
 The species spreads through both seed production and vegetative reproduction via tubers and rhizomes.
 
@@ -84,43 +84,6 @@ Integrated weed management combining cultivation, mulching, crop rotation, and t
 
 In Ayurvedic medicine, C. rotundus tubers (known as "musta") are used to treat digestive disorders, fever, and menstrual irregularities.
 
-The tubers contain sesquiterpenes, flavonoids, and alkaloids with demonstrated anti-inflammatory, antioxidant, and antimicrobial properties.
+The tubers contain sesquiterpenes, flavonoids, and alkaloids with demonstrated anti-inflammatory, antioxidant, and [[medicinal-mushroom-antimicrobial-properties]].
 
 Traditional Chinese Medicine uses the tuber to regulate qi, alleviate pain, and treat conditions of the digestive and reproductive systems.
-
-In African traditional medicine, tuber preparations are applied externally to wounds and used internally for stomach ailments and diarrhea.
-
-The essential oil extracted from tubers has shown insecticidal and nematicidal activity against agricultural pest species.
-
-Pharmacological studies have identified cyperotundone, α-cyperone, and β-selinene as the primary bioactive constituents.
-
-The tubers are also consumed as food in some regions, eaten raw, roasted, or ground into flour during famine conditions.
-
-Research continues into the plant's potential as a source of bioactive compounds for pharmaceutical development.
-
-## Cultivation and Management
-
-Cyperus rotundus is not intentionally cultivated in most regions due to its invasive nature, though it is collected from the wild for medicinal use.
-
-Preventing establishment is the most effective management approach, as controlling existing infestations requires sustained multi-year effort.
-
-Solarization, the practice of covering infested soil with clear plastic during hot months, can significantly reduce viable tuber populations.
-
-Repeated cultivation that brings tubers to the soil surface to desiccate can reduce populations when practiced consistently over multiple seasons.
-
-Competitive cover crops that shade the soil surface can suppress tuber formation and reduce weed emergence.
-
-Biological control agents including fungal pathogens and insect herbivores have been investigated but no widely adopted biological control exists.
-
-Herbicide resistance has been reported in some populations, particularly to ALS inhibitors and synthetic auxins.
-
-## See Also
-
-- [[cyperus-papyrus]]
-- [[cyperus-esculentus]]
-- [[carex-stricta]]
-- [[phragmites-australis]]
-- [[typha-latifolia]]
-- [[juncus-effusus]]
-- [[juncus-bufonius]]
-- [[eleocharis-palustris]]

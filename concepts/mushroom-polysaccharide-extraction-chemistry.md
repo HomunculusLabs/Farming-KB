@@ -1,5 +1,5 @@
 ---
-title: Mushroom Polysaccharide Chemistry and Anti-Cancer Compounds
+title: Mushroom Polysaccharide Extraction Chemistry
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -12,7 +12,7 @@ sources: [] ---
 The main anti-tumour compounds isolated from [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] are
 water-soluble polysaccharides with remarkable structural diversity. Understanding
 their chemistry is essential for explaining their biological activity and
-optimizing extraction methods. Research in this field has produced several
+optimizing [[arbuscular-mycorrhizal-spore-extraction-methods]]. Research in this field has produced several
 clinically approved pharmaceuticals, primarily in Japan and China.
 
 ## Polysaccharide Structural Diversity
@@ -53,7 +53,7 @@ administration due to large molecular size.
 
 Beta(1,3)-D glucan with beta-(1,6)-D glucan side-chains. Also known as
 Sonifilan or Sizofiran. Large molecules administered intramuscularly or
-intraperitoneally. See [[schizophyllum-commune-schizophyllan-cancer|Schizophyllan research]] for clinical data.
+intraperitoneally. See [[schizophyllum-commune-schizophyllan-cancer]] for clinical data.
 
 ### PSK (Trametes versicolor / Turkey Tail)
 
@@ -76,39 +76,15 @@ bioavailable, distinguishing it from Lentinan and Schizophyllan.
 
 Low molecular weight alpha-1,3 glucan structures -- contrasting with the
 beta-glucans of other compounds. Retains tumour-static activity and is one of
-the most commercially successful medicinal mushroom supplements worldwide.
+the most commercially successful [[gourmet-medicinal-mushroom-casing-layer-techniques]] supplements worldwide.
 
 ## Extraction and Purification
 
 Hot water extraction is the traditional method aligned with Chinese medicine
 preparation. The first definitive anti-cancer studies in the late 1960s by
 Ikekawa et al. and Chihara et al. demonstrated that active compounds were
-easily extracted with hot water. See [[medicinal-mushroom-compound-extraction| extraction methods]] for practical procedures.
+easily extracted with hot water. See [[medicinal-mushroom-compound-extraction]] for practical procedures.
 
 ### Source Materials
 
 Anti-tumour polysaccharides can be derived from fruit-bodies (generally highest
-level and variety), submerged cultured mycelial biomass, or [[comparison-liquid-culture-vs-grain-spawn]]
-broth. Reshetnikov et al. (2001) listed 650 species from 182 genera containing
-pharmacologically active polysaccharides.
-
-### Oral Bioavailability Challenge
-
-Large glucan molecules like Lentinan and Schizophyllan are only effective by
-IV/IP administration. However, acid treatment of beta-1,6 glucan from Agaricus
-blazei produced approximately 10 kDa fragments that were orally active in mice,
-suggesting a path to improved oral bioavailability for other large beta-glucans.
-
-## Commercial Production in Japan
-
-Several polysaccharide anti-tumour agents have been developed commercially:
-Lentinan (multiple manufacturers), Schizophyllan/Sonifilan (multiple Japanese
-pharmaceutical companies), PSK/Krestin (Kureha Chemical Industry), and
-Grifron-D (Yukiguni Maitake Co.).
-
-## See Also
-
-- [[medicinal-mushroom-compound-extraction]]
-- kappa opioid receptor
-- [[medicinal-mushroom-guide]]
-- [[schizophyllum-commune-schizophyllan-cancer]]

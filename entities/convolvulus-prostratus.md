@@ -19,7 +19,7 @@ tags:
 aliases:
   - "Convolvulus prostratus"
   - "Convolvulus microphyllus"
-  - "Convolvulus pluricaulis"
+  - "[[convolvulus-pluricaulis]]"
   - "shankhpushpi"
   - "shankhapushpi"
   - "morning-glory"
@@ -30,7 +30,7 @@ sources:
   - Dhingra, D. & Sharma, A. (2006). "Antidepressant-like activity of Convolvulus pluricaulis." Journal of Medicinal Food, 9(4), 554–560.
   - Malhotra, C.L. et al. (1961). "Psychotropic effect of an indigenous drug (Convolvulus pluricaulis Choisy)." Indian Journal of Physiology and Pharmacology, 5, 91–96.
   - Kulkarni, S.K. et al. (2008). "Convolvulus pluricaulis: An overview." Pharmacognosy Reviews, 2(4), 268–273.
-  - Nadkarni, A.K. (1976). "Indian Materia Medica." Popular Prakashan, Mumbai.
+  - Nadkarni, A.K. (1976). "Indian [[herbal-materia-medica]]." Popular Prakashan, Mumbai.
 created: 2026-04-28
 ---
 
@@ -46,7 +46,7 @@ Shankhpushpi holds a central place in classical Ayurvedic formulations, particul
 
 Magnoliopsida → Solanales → **Convolvulaceae → *Convolvulus → *C. prostratus***
 
-The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted [[dmt-botanical-sources-pharmacology]] include Convolvulus prostratus (syn. C. pluricaulis), Evolvulus alsinoides, and Clitoria ternatea.
+The taxonomy of Shankhpushpi has been contentious, with the name applied to multiple species across different regions of India. The most commonly accepted [[dmt-botanical-sources-pharmacology]] include Convolvulus prostratus (syn. C. pluricaulis), Evolvulus alsinoides, and [[clitoria-ternatea]].
 
 The accepted name C. prostratus (Forssk.) Choisy reflects its prostrate growth habit. Some authorities maintain C. microphyllus and C. pluricaulis as separate species, while others treat them as synonyms within a morphologically variable complex.
 
@@ -86,29 +86,4 @@ The plant also demonstrates anticonvulsant, hepatoprotective, and hypolipidemic 
 
 ## Cultivation
 
-C. prostratus is propagated through stem cuttings and seeds, with vegetative propagation preferred for maintaining consistent alkaloid profiles. Cuttings of 10–15 cm from healthy stock plants root readily in sandy nursery beds under mist.
-
-Optimal growth occurs at 25–35°C with moderate irrigation. The crop requires well-drained soils and full sun to partial shade. Harvesting of aerial parts is typically done 90–120 days after planting, during peak flowering.
-
-Organic cultivation practices have been standardized, including spacing of 30 × 30 cm and application of farmyard manure at 10 tonnes per hectare. Yield of dried herb ranges from 2–4 tonnes per hectare under irrigated conditions.
-
-Post-harvest processing involves shade drying of aerial parts to preserve alkaloid content. Sun-drying causes significant degradation of thermolabile constituents. Standardized extracts are prepared using ethanol or hydroalcoholic solvents.
-
-## Related Species and Taxonomic Complex
-
-The Shankhpushpi identity controversy has persisted for decades. Three species are commonly traded under this name: Convolvulus prostratus, Evolvulus alsinoides, and Clitoria ternatea. Each belongs to the Convolvulaceae but differs significantly in phytochemistry.
-
-C. prostratus contains the characteristic convoline/shankhpushpine alkaloids not found in E. alsinoides or C. ternatea. E. alsinoides instead contains evolidine and its own alkaloid profile, while C. ternatea contains taraxerol and anthocyanin pigments.
-
-Pharmacopoeial standards in India have designated C. prostratus as the authentic source, but market samples frequently contain mixtures or substitutes. DNA barcoding using ITS regions has been proposed as a quality control measure to verify botanical identity in commercial preparations.
-
-## See Also
-
-- [[convolvulus-pluricaulis]]
-
-- [[bacopa-monnieri]]
-- [[centella-asiatica]]
-- [[nootropic-herbs-guide]]
-- [[withania-somnifera]]
-- [[schisandra-chinensis]]
-- [[hypericum-perforatum]]
+C. prostratus is propagated through stem cuttings and seeds, with [[hamilton-vegetative-propagation]] preferred for maintaining consistent alkaloid profiles. Cuttings of 10–15 cm from healthy stock plants root readily in sandy nursery beds under mist.

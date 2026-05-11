@@ -56,7 +56,7 @@ The JADAM system uses sea salt as the primary mineral supplement, based on the p
 ## Related Concepts
 
 - [[jadam-farming-method]] — complete JADAM system overview
-- [[soil-food-web]] — soil [[fukuoka-microbial-ecology-decomposition]] principles
+- [[soil-foodweb]] — soil [[fukuoka-microbial-ecology-decomposition]] principles
 - [[holzer-microclimate-creation]]
 - [[cover-cropping-systems]]
 

@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Wolfe, A.D. et al. (2006). "Phylogeny and Biogeography of *Penstemon*." Systematic Botany 31(3): 517–530.
-  - Barnhart, J.H. (1895). "Penstemon." In: North American Flora. New York Botanical Garden.
+  - Barnhart, J.H. (1895). "Penstemon." In: [[growing-gourmet-north-american-reishi-species]] Flora. New York Botanical Garden.
   - Crosswhite, F.S. & Crosswhite, C.D. (1981). "Hummingbird Pollination of *Penstemon*." Desert Plants 3(1): 1–20.
   - Cullen, J. et al. (2011). "The European Garden Flora." 2nd ed. Cambridge University Press.
 ---
@@ -25,7 +25,7 @@ The species produces tall spikes of tubular, white to pale pink flowers from lat
 
 Each plant produces multiple flowering stems from a basal rosette. Individual stems bear 30–60 flowers, opening sequentially from the base upward over a bloom period of 4–6 weeks.
 
-Foxglove beardtongue is valued in gardens for its architectural flower spikes, long bloom period, and exceptional drought tolerance once established. It has become a staple of prairie-style and naturalistic plantings.
+Foxglove beardtongue is valued in gardens for its architectural flower spikes, long bloom period, and exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. It has become a staple of prairie-style and naturalistic plantings.
 
 ## Taxonomy and Morphology
 
@@ -35,7 +35,7 @@ Foxglove beardtongue is valued in gardens for its architectural flower spikes, l
 
 The species was described by John Sims in 1823, based on material collected by Thomas Nuttall. The genus *Penstemon* is the largest genus endemic to North America, with approximately 270 species.
 
-The genus name derives from the Greek *pente* (five) and *stemon* (stamen), referring to the five fertile stamens. The specific epithet *digitalis* (finger-like) refers to the tubular flowers resembling those of *Digitalis purpurea*.
+The genus name derives from the Greek *pente* (five) and *stemon* (stamen), referring to the five fertile stamens. The specific epithet *digitalis* (finger-like) refers to the tubular flowers resembling those of *[[digitalis-purpurea]]*.
 
 **Stem:** Erect, glabrous to slightly hairy, 60–120 cm tall, often with a purplish tint. Stems are unbranched or sparingly branched near the inflorescence.
 
@@ -51,11 +51,11 @@ The distinctive "beardtongue" feature is a sterile staminode (staminodial filame
 
 Capsules mature 4–6 weeks after flowering and split open to release seeds. Wind dispersal is limited; most seeds fall within a meter of the parent plant. Seed viability in soil is reported at 2–3 years.
 
-Seeds are small (approximately 2 mm long) and require light for optimal germination. Direct sowing on bare soil in autumn or early spring produces the best results.
+Seeds are small (approximately 2 mm long) and require light for optimal germination. Direct sowing on bare soil in autumn or [[coleman-overwintered-onions-and-early-spring-crops]] produces the best results.
 
 ## Distribution and Habitat
 
-*P. digitalis* is native to the eastern and central United States, from Maine and Ontario west to South Dakota and Texas, and south to Florida.
+*P. digitalis* is native to the eastern and central [[dmt-containing-plants-united-states-halpern]], from Maine and Ontario west to South Dakota and Texas, and south to Florida.
 
 The species occupies a broad range of open habitats including prairies, meadows, woodland edges, rocky slopes, and roadside verges. It tolerates both dry and mesic conditions.
 
@@ -65,7 +65,7 @@ The species has a deep taproot system that contributes to its drought tolerance.
 
 ## Cultivation
 
-Foxglove beardtongue is easily grown in well-drained soil in full sun. It is exceptionally drought-tolerant once established and requires minimal supplemental irrigation in most temperate climates.
+Foxglove beardtongue is easily grown in well-drained soil in full sun. It is exceptionally drought-tolerant once established and requires minimal supplemental irrigation in most [[fukuoka-natural-farming-temperate-climates]].
 
 Plants prefer lean, well-drained soils; overly rich or moisture-retentive soils can promote floppy growth and reduce winter survival. Good drainage is essential to prevent crown rot.
 
@@ -88,32 +88,3 @@ Studies have shown that penstemon-rich plantings support higher native bee abund
 The foliage provides cover for small insects and ground-dwelling arthropods. Several moth species use penstemons as larval host plants, though specific associations for *P. digitalis* are not well documented.
 
 Deer and rabbit browse is generally low due to the slightly bitter foliage. This resistance makes the species valuable in gardens where herbivore pressure is a significant concern.
-
-Plants spread slowly by seed and short rhizomes but are not considered aggressive or invasive. Deadheading spent flower spikes can encourage a secondary flush of blooms and reduce unwanted self-seeding.
-
-## Uses
-
-Foxglove beardtongue is primarily used as an ornamental perennial in borders, meadow plantings, and prairie restoration projects. Its architectural form provides strong vertical elements in mixed plantings.
-
-The species combines well with other native North American perennials in naturalistic designs. Its white flowers provide cooling contrast among purple, orange, and yellow companions. The burgundy-foliaged cultivars offer color throughout the growing season.
-
-The species is increasingly used in green infrastructure projects, including bioswales, rain gardens, and roadside plantings, due to its tolerance of poor soils and seasonal flooding.
-
-Stormwater management professionals favor *P. digitalis* for its deep root system, which stabilizes soil and promotes infiltration. The species' ability to tolerate periodic inundation while also thriving in dry conditions is unusual among ornamental perennials.
-
-Native American ethnobotanical records are limited for *P. digitalis* specifically. Some Penstemon species were used traditionally as remedies for various ailments, but documented use of this particular species is sparse.
-
-The roots of several penstemon species were chewed or poulticed to treat toothache, wounds, and gastrointestinal complaints. However, these uses cannot be reliably attributed to *P. digitalis* without specific ethnographic documentation.
-
-## See Also
-
-- [[digitalis-purpurea]]
-- [[monarda-didyma]]
-- [[asclepias-tuberosa]]
-- [[echinacea-purpurea]]
-- [[rudbeckia-fulgida]]
-- [[salvia-officinalis]]
-- [[solidago-nemoralis]]
-- [[eupatorium-perfoliatum]]
-- [[lavandula-angustifolia]]
-- [[convallaria-majalis]]

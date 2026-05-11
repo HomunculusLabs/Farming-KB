@@ -2,7 +2,7 @@
 
 Hydroponic nutrient management is the practice of formulating, delivering, and
 monitoring mineral nutrient solutions to plants grown without soil. In hydroponic
-systems, all essential plant nutrients must be supplied in solution at appropriate
+systems, all [[teaming-with-nutrients-essential-plant-nutrients]] must be supplied in solution at appropriate
 concentrations and ratios, making precise chemistry critical to plant health and
 productivity. Understanding the interactions between nutrients, pH, temperature,
 and plant growth stage is essential for successful hydroponic cultivation of any
@@ -58,8 +58,8 @@ The pH of the nutrient solution determines nutrient availability through its
 effect on chemical solubility. Most hydroponic crops prefer a slightly acidic pH
 between 5.5 and 6.5, with 5.8 being a commonly cited target. When pH
 drifts above 6.5, iron, manganese, zinc, and copper precipitate as insoluble
-hydroxides, causing deficiency symptoms even when adequate nutrients are present.
-Below pH 5.5, calcium and magnesium
+hydroxides, causing [[knf-calcium-deficiency-symptoms]] even when adequate nutrients are present.
+Below pH 5.5, [[dynamic-accumulator-plants-calcium-and-magnesium]]
 can become excessively available, potentially causing toxicity.
 
 pH naturally drifts in hydroponic systems due to differential ion uptake by
@@ -85,66 +85,6 @@ transporter proteins.
 
 The relative contribution of each mechanism varies by nutrient. Calcium moves
 primarily through mass flow and is only absorbed by young root tips where the
-endodermis is not yet suberized. This means calcium deficiency often appears in
+endodermis is not yet suberized. This means [[query-how-do-i-fix-calcium-deficiency-in-plants]] often appears in
 newly formed leaves and growing tips, particularly under conditions of high
 humidity or low transpiration that reduce water flow to roots. Nitrogen is taken
-up as both nitrate (NO3-) and ammonium (NH4+), with the optimal ratio depending
-on species and growth stage. Most plants prefer a nitrate-dominant supply, but
-small amounts of ammonium can improve uptake efficiency and reduce rhizosphere pH.
-
-Root zone temperature significantly affects nutrient uptake rates. At root zone
-temperatures below 15°C, membrane fluidity decreases and active transport slows,
-reducing nutrient uptake even when adequate concentrations are available in
-solution. Above 30°C, root respiration increases dramatically, depleting oxygen
-and potentially causing root rot. The optimal root zone temperature for most
-hydroponic crops is 18-22°C.
-
-## Recirculating vs. Drain-to-Waste Systems
-
-Hydroponic nutrient delivery systems are broadly categorized as recirculating or
-drain-to-waste. In recirculating systems (deep water culture, nutrient film
-technique, ebb and flow), the nutrient solution is continuously or periodically
-recycled through the growing system. This approach conserves water and nutrients
-but requires careful monitoring to prevent nutrient imbalances as plants
-selectively remove ions from solution.
-
-In drain-to-waste (also called run-to-waste) systems, fresh nutrient solution is
-delivered to each irrigation event, and the excess drains away. This approach
-provides more consistent nutrient availability because plants always receive a
-freshly balanced solution, but it uses significantly more water and generates
-nutrient-rich waste water that requires disposal. Drain-to-waste systems are
-preferred for high-value crops where consistency is paramount.
-
-Over time in recirculating systems, the nutrient solution becomes unbalanced as
-plants selectively remove ions. Sodium and chloride can accumulate to toxic levels
-if present in the water source. Regular solution replacement every 1-2 weeks
-prevents these imbalances, though some growers use a "top-up" method to maintain
-EC targets between full reservoir changes.
-
-## Cannabis-Specific Nutrient Considerations
-
-Cannabis nutrient requirements shift dramatically between vegetative and flowering
-stages. During vegetative growth, nitrogen demand is highest, supporting rapid leaf
-and stem development. A typical vegetative profile emphasizes nitrogen and potassium
-in roughly equal proportions with moderate phosphorus. During flowering, nitrogen
-demand decreases while phosphorus and potassium demand increases to support bud
-development and resin production.
-
-Cannabis is a heavy calcium and magnesium consumer. Calcium deficiency manifests
-as brown necrotic spots on young leaves; magnesium deficiency causes interveinal
-chlorosis in older leaves. Supplemental cal-mag products containing calcium nitrate
-and magnesium sulfate prevent these deficiencies, particularly with reverse osmosis
-water. Micronutrient needs peak during flowering, when zinc, boron, and
-molybdenum support pollen viability. Chelated iron formulations (EDDHA, DTPA)
-maintain solubility across a wider pH range than non-chelated iron sulfate.
-
-## Common Deficiency Patterns
-
-Visual diagnosis requires observing which plant parts are affected. Mobile nutrients
-— nitrogen, phosphorus, potassium, magnesium — translocate from older to younger
-tissue, so deficiencies appear first in older leaves. Immobile nutrients — calcium,
-iron, manganese, zinc, copper, boron — show symptoms first in new growth. Multiple
-deficiencies can occur simultaneously, making visual diagnosis alone unreliable.
-Leaf tissue analysis provides quantitative assessment, while sap analysis detects
-emerging deficiencies before visual symptoms appear. Regular solution monitoring
-of EC, pH, and individual ion concentrations prevents problems before they manifest.

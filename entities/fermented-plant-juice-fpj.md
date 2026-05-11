@@ -88,12 +88,3 @@ Practitioners of KNF attribute the following benefits to FPJ application:
 - Improved soil biological activity when used as a soil drench
 
 ## Storage
-
-FPJ should be stored in a cool, dark place in sealed glass or ceramic containers. Properly prepared FPJ has a shelf life of approximately 6–12 months. Spoilage is indicated by an alcoholic, putrid, or otherwise off-smell. If the preparation develops mold or an unpleasant odor, it should be discarded.
-
-## See Also
-
-- [[master-cho-knf-fpj-fermented-plant-juice-guide]]
-- [[jadam-fermented-plant-juice-preparation]]
-- [[indigenous-microorganisms-imo]] — the microbial foundation of KNF
-- [[oriental-herbal-nutrient-ohn]] — complementary KNF input for reproductive growth stages

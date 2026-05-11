@@ -16,7 +16,7 @@ synopsis: >-
   Lichens are symbiotic associations between fungi (mycobionts) and
   photosynthetic partners (photobionts) that pioneer rock surfaces
   globally, covering ~6% of Earth's land. They drive soil formation,
-  rock weathering, nutrient cycling, and metal accumulation, playing
+  rock weathering, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and [[dighton-fungal-heavy-metal-accumulation-bioremediation]], playing
   outsized roles in biogeochemical processes relative to their biomass.
 ---
 
@@ -64,9 +64,9 @@ Lichens play important roles in:
 
 - **Carbon cycling**: Photosynthetic carbon fixation and subsequent
   carbon release through decomposition
-- **Nitrogen cycling**: Cyanobacterial lichens fix atmospheric nitrogen,
+- **[[fungal-role-in-nitrogen-cycling]]**: Cyanobacterial lichens fix atmospheric nitrogen,
   making it available to ecosystems
-- **Trace element cycling**: Retention and distribution of essential and
+- **[[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] cycling**: Retention and distribution of essential and
   non-essential elements
 
 ### Rock Weathering
@@ -86,60 +86,4 @@ Lichens accumulate metals from their environment, including:
 - **Toxic metals**: Lead (Pb), copper (Cu), and others of environmental
   concern
 - **Radionuclides**: Lichens can bioaccumulate radioactive isotopes,
-  making them useful biomonitors for radioactive contamination
-
-### Metal Biomineral Formation
-Lichens form a variety of metal-organic biominerals, especially during
-growth on metal-rich substrates. These biomineralization processes
-represent significant pathways for metal immobilization and
-transformation in the environment. (see [[fungi-in-the-environment-lichen-biology]]).
-
-## Environmental Adaptations
-
-### Extreme Environments
-Lichens are extraordinarily successful in extreme environments:
-
-- **Deserts**: Tolerate extreme desiccation and temperature fluctuations
-- **Arctic and alpine**: Survive freezing temperatures and UV exposure
-- **Metal-rich substrates**: Colonize mine tailings and metal-contaminated
-  rock
-- **Coastal**: Tolerate salt spray and periodic inundation
-
-### Survival Mechanisms
-- **Desiccation tolerance**: Can enter cryptobiotic state and resume
-  metabolism when rehydrated
-- **Radiation protection**: Melanin pigments and mycosporines provide
-  UV protection
-- **Mucilaginous sheaths**: Polysaccharide slime entraps clay particles
-  providing moisture retention
-
-## Biomonitoring Applications
-
-Because lichens absorb nutrients and contaminants directly from the
-atmosphere (they lack roots and cuticles), they are widely used as
-biomonitors for:
-
-- **Air quality**: Sensitive to SO₂ and other pollutants
-- **Heavy metal deposition**: Bioaccumulate metals from atmospheric
-  deposition
-- **Radioactive contamination**: Monitored around nuclear facilities
-  (including Chernobyl)
-
-## Ecological Significance
-
-Lichens represent a unique fungal lifestyle of global importance:
-
-- **Pioneer organisms**: First colonizers of bare rock, initiating
-  ecological succession
-- **Nitrogen fixation**: Cyanobacterial lichens introduce fixed nitrogen
-  to nitrogen-poor ecosystems
-- **Habitat creation**: Establish conditions for subsequent colonization
-  by plants, mosses, and other organisms
-- **Food source**: Important winter food for caribou, reindeer, and
-  other wildlife in northern ecosystems
-
-## See Also
-
-- [[fungal-bioweathering]]
-- [[mycorrhizal-fungi-biogeochemistry]]
-- [[mycelial-nutrient-translocation-networks]]
+  making them useful biomonitors for [[radioactive-contamination-and-fungi]]

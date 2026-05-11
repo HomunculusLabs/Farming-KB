@@ -87,34 +87,3 @@ The dense, wide-spreading canopy creates significant shade that suppresses weed 
 **Growth:** Rain trees grow rapidly, reaching 10–15 m in height within 10 years. Mature trees can attain 25–30 m in height with crown diameters of 40–60 m.
 
 **Wood:** Heartwood is dark brown with a golden luster, moderately heavy (specific gravity 0.50–0.60), and durable. It is used for furniture, cabinetry, carving, and decorative veneers.
-
-The wood has an attractive grain pattern and is valued for specialty items. Seasoning can be slow and care must be taken to prevent checking and warping during drying.
-
-It is also suitable for general construction, though supply is limited due to the tree's primary use as a shade tree.
-
-**Ornamental use:** The rain tree is one of the most widely planted ornamental trees in tropical and subtropical cities worldwide. Its massive canopy, attractive pink flowers, and graceful form make it a premier avenue and park tree.
-
-Notable specimen trees exist in many tropical botanical gardens. The species is planted along roadsides, in parking lots, and in public squares throughout Southeast Asia and the Americas.
-
-## Conservation Status
-
-*Samanea saman* is not threatened and is classified as **Least Concern** by the IUCN. Its wide cultivation and naturalization ensure the species' persistence globally.
-
-In some areas, naturalized populations may become invasive, particularly on disturbed land and in pastures. The species can spread rapidly where conditions are favorable, sometimes outcompeting native vegetation.
-
-In Hawaii and parts of Southeast Asia, the tree is considered moderately invasive. Management efforts focus on preventing establishment in ecologically sensitive areas.
-
-Conservation of large, old-growth specimens is important for genetic diversity. Many historic rain trees have been lost to urban development.
-
-## See Also
-
-- [[enterolobium-cyclocarpum]]
-- [[erythrina-fusca]]
-- [[prosopis-juliflora]]
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]
-- [[mimosa-pudica]]
-- [[tabebuia-impetiginosa]]
-- [[handroanthus-impetiginosa]]
-- [[dalbergia-nigra]]
-- [[agroforestry]]

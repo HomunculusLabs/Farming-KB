@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Spiritual and Philosophical Foundation
@@ -86,15 +87,3 @@ Fukuoka challenges the modern belief in progress:
 Fukuoka proposes a unifying principle: "The Dharmic Law That All [[fukuoka-dharmic-law-all-things-return-to-one]] to One":
 
 "All things fuse into a circle, which reverts to a point, and the point to nothing. To man, it appears as if something has occurred and something has vanished, yet nothing is ever created or destroyed."
-
-Scientific farming's laws are "fragments cut from the one law that flows at the source of nature." Even reassembled, they would not form the original law -- "just as the pieces of a broken mirror can never be reassembled into a mirror more perfect than the original."
-
-## The Problem of Discriminating Knowledge
-
-Fukuoka distinguishes between two types of knowledge:
-
-**Discriminating knowledge (the knowledge of science):**
-- Categorizes, classifies, and distinguishes
-- Creates distinctions between crop and weed, beneficial and harmful
-- Leads to action -- intervention, control, manipulation
-- Moves away [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]

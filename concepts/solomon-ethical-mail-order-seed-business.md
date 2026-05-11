@@ -88,38 +88,3 @@ In 1989, Solomon conducted a comprehensive evaluation of mail-order seed compani
 1. Sent 69 questionnaires asking about trials grounds, germination testing, and self-produced varieties
 2. About half declined to respond (which Solomon found unsurprising)
 3. Eliminated companies without trial grounds — leaving only 20 of 69
-4. Conducted probing telephone interviews with the remaining 20 companies
-5. Found only 11 worth recommending
-
-This 84% elimination rate (58 of 69 companies) underscores how few mail-order seed companies meet basic ethical standards. For his book, Solomon expanded the recommended list to include admirable suppliers in the UK and Australia.
-
-## Categories of Seed Companies
-
-Not all seed companies serve the same market, and different standards may apply:
-
-### Gourmet and Heirloom Specialists
-These companies specialize in unusual, antique, or gourmet vegetables for the hobby market. Customers are often collectors motivated by passion rather than food production. Germination may be sub-par, varieties may be irregular, and hybrid vigor may be absent from open-pollinated heirlooms. These companies serve a legitimate market but may not be the best choice for serious food gardeners.
-
-### Collaborative Seed Networks
-Some companies specialize in organically grown seed produced by a network of collaborating amateur growers. Because the production is distributed among amateurs doing their own seed saving, varieties may not be uniform, inbred lines may be sub-par, and germination levels may be degraded. These companies are driven by passion for preserving genetic diversity, but may not suit someone who wants reliable food production.
-
-### Commercial-Grade Seed Companies
-Companies that serve both commercial farmers and home gardeners offer the most rigorous quality assurance. Their trial grounds, germination testing, and variety evaluation meet commercial agriculture standards — and home gardeners benefit from the same quality seed.
-
-## Key Recommendations for Seed Buyers
-
-Based on Solomon's analysis, serious food gardeners should:
-
-1. **Choose regional suppliers** whose trial grounds are in a similar climate zone
-2. **Verify germination rates** by sprouting a sample of any new seed purchase
-3. **Prioritize companies with trial grounds** — ask directly if the company conducts variety trials
-4. **Understand the company's market focus** — a gourmet heirloom specialist may not meet food-production needs
-5. **Maintain your own seed-saving skills** as the ultimate quality assurance
-
-## See Also
-
-- [[seed-saving-techniques]]
-- vegetable variety selection
-- climate zone gardening
-- food self sufficiency
-- growing food when it counts

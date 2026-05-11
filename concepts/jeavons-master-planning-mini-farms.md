@@ -1,9 +1,9 @@
 ---
-title: jeavons master planning mini farms and Mini-Farm Design
+title: Jeavons Master Planning Mini Farms
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-    title: How to Grow More Vegetables - John Jeavons
+    title: How to Grow More Vegetables - [[john-jeavons]]
     author: John Jeavons
 updated: 2026-04-24
 type: concept
@@ -12,11 +12,11 @@ tags: [reference]
 
 # Master Planning and Mini-Farm Design
 
-GROW BIOINTENSIVE sustainable mini-farming is a whole-system approach to food production. The art of putting theory into a garden plan requires understanding crop timing, space allocation, soil fertility cycles, and dietary goals. No book can make gardening foolproof — the process involves real learning and experimentation, and that is part of what makes it satisfying.
+[[jeavons-grow-biointensive-method-overview]] sustainable mini-farming is a whole-system approach to food production. The art of putting theory into a garden plan requires understanding crop timing, space allocation, soil fertility cycles, and dietary goals. No book can make gardening foolproof — the process involves real learning and experimentation, and that is part of what makes it satisfying.
 
 ## The Whole System Principle
 
-The GROW BIOINTENSIVE method is a whole system, and its components must be used together for optimum effect. Deep soil preparation, compost, close spacing, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and integrated farming system design all work synergistically. If any component is missing — particularly the recycling of all wastes and the growing of sufficient [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
+The GROW BIOINTENSIVE method is a whole system, and its components must be used together for optimum effect. Deep soil preparation, compost, close spacing, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], carbon-efficient crops, calorie-efficient crops, open-pollinated seeds, and [[ultra-low-cost-integrated-farming]] system design all work synergistically. If any component is missing — particularly the recycling of all wastes and the growing of sufficient [[hamilton-composting-and-organic-matter-management]] — the high yields can rapidly deplete the soil.
 
 This means that planning a mini-farm is not simply deciding what vegetables to plant where. It is designing a closed-loop system that produces food, carbon, calories, seeds, and soil fertility simultaneously.
 
@@ -69,10 +69,10 @@ This rotation is a form of agricultural recycling in which humans and plants par
 Jeavons recommends a progressive approach to developing a mini-farm:
 
 ### Year 1: Foundation (100-140 square feet)
-Start with the easiest crops based on yields expected of a good gardener. Focus on learning bed preparation, composting, and basic transplanting. Leaf lettuce, radishes, carrots, and bush beans are good starting crops.
+Start with the easiest crops based on yields expected of a good gardener. Focus on learning [[azurescens-outdoor-bed-preparation-woodchips]], composting, and basic transplanting. Leaf lettuce, radishes, carrots, and bush beans are good starting crops.
 
 ### Year 2: Expansion (200-280 square feet)
-Double the square footage and add more challenging crops. Begin incorporating companion planting and simple crop rotations. Start learning about calorie crops and compost crops.
+Double the square footage and add more challenging crops. Begin incorporating [[companion-planting-and-polycultures]] simple crop rotations. Start learning about calorie crops and compost crops.
 
 ### Year 3: Perennials (300-420 square feet)
 Add a third bed. Include permanent plantings — fruit trees, herbs, strawberries, and asparagus — placed in soil that has been worked and improved for 2 years.
@@ -87,46 +87,3 @@ Optimally, the garden area should have 11 hours of direct sunlight or more. Seve
 
 ### Bed Dimensions
 Standard beds are 3 to 6 feet wide and of varying lengths. The width should allow the gardener to reach the center of the bed from either side without stepping on it. Five-foot width is common and works well for most people.
-
-### Spacing and Maturation
-Consider spacing and maturation times when developing the plan. Plant both early and late varieties of the same crop for continuous harvest (e.g., half early tomatoes maturing in 65 days, half later varieties). Leaf lettuce matures sooner than head lettuce; planting both ensures continuous production. Save space by staking or trellising tomatoes.
-
-### Special Planting Needs
-- Corn is wind-pollinated: a square block of 4 plants in each direction (16 plants total) is the minimum for adequate pollination. In small plantings, hand-pollination may be needed.
-- Pumpkins take up a lot of space: plant them at the edge of the garden where they can sprawl over uncultivated areas.
-- Tall crops should be placed where they will not shade shorter crops.
-
-## Planning for Soil Fertility
-
-A key planning consideration is producing enough compost to maintain soil fertility. The standard application rate is approximately 4 to 12 five-gallon buckets of compost per 100 square feet per 4-month [[savory-growing-season-and-non-growing-season-management]]. Each 100-square-foot bed requires about 3 to 9 cubic feet of cured compost.
-
-The first trench of a double-dig provides soil for making compost (about 6 five-gallon buckets) and flat soil (about 1 bucket). This soil is returned to the bed in the form of finished compost, completing the nutrient cycle.
-
-## Companion Planting in Space
-
-Within each bed, you can create sections for heavy feeders, heavy givers, and light feeders. This is effectively companion planting both in space and in time, since root systems extend 1 to 4 feet around each plant. An easier approach than intermingling different crops is to create separate sections within each bed.
-
-Some universally beneficial companion plants include lemon balm, marjoram, oregano, [[comparison-stinging-nettle-vs-horsetail]], valerian, chamomile, and dandelion. These are traditionally planted in a section along one end of the bed so they need not be replanted each season.
-
-## Local Information Gathering
-
-Before starting, gather local information from neighbors who garden, the county agricultural agent, or the local nursery. Key questions include:
-
-- Which vegetables grow well in your area?
-- When does the main planting season start?
-- When are your first and last frosts?
-- When are your periods with and without rains?
-- What are the special requirements of your specific soil?
-- Are there special climatic conditions to be aware of?
-
-## Scaling Up: The 21-Bed Mini-Farm
-
-Ecology Action has developed a complete 21-bed mini-farm plan designed to produce a complete diet for one person along with sufficient compost materials for soil sustainability. This plan incorporates all eight components of the GROW BIOINTENSIVE method across approximately 1,000 to 4,000 square feet depending on soil quality and the gardener's skill level. The detailed plan specifies which beds receive compost crops, calorie crops, and vegetable crops in a multi-year rotation.
-
-## See Also
-
-- [[jeavons-double-digging-bed-preparation]] — Bed preparation techniques
-- [[jeavons-calorie-farming]] — Calorie-efficient crop selection
-- [[jeavons-composting-methods]] — Compost production for soil fertility
-- [[jeavons-flat-preparation-seedling-raising]] — Seedling production
-- [[jeavons-soil-fertility]] — [[green-cannabis-grow-bible-nutrient-management-ppm]]

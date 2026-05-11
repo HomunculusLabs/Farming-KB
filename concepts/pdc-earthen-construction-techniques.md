@@ -88,33 +88,3 @@ Window and door openings are formed by embedding wooden frames
 directly into the cob as walls rise, with extra straw packed around
 the frames to prevent cracking. Cob roofs are usually finished with
 a living roof or a thatched overhang extending well past the walls
-to protect earthen surfaces from driving rain. See
-[[building-with-natural-materials]] for broader context.
-
-## Rammed Earth Techniques in Practice
-
-Modern rammed earth uses pneumatic tampers rather than hand
-mallets, improving compaction speed and wall density. Formwork
-is typically plywood or steel panels braced with through-bolts,
-designed for easy assembly and reuse. Each lift of moist earth
-is 10-15 cm deep before compaction, compressing to roughly half
-that thickness. Colour variations between lifts create the
-characteristic horizontal strata. Stabilised rammed earth (SRE)
-adds 5-10% cement to the mix, increasing water resistance and
-compressive strength while retaining low embodied energy.
-Properly detailed overhangs and raised foundations protect SRE
-walls from moisture ingress.
-
-## Natural Plaster and Finishes
-
-Earthen structures need protective finishes that are breathable,
-flexible, and locally sourced. Earthen plaster -- a mix of clay,
-fine sand, and chopped straw -- is applied in two or three thin
-coats: a scratch coat keys into the substrate, a brown coat builds
-thickness, and a finish coat is trowelled smooth. Lime plaster
-creates a vapour-permeable chemical barrier for higher moisture
-resistance. See natural plasters and earthen wall finishes and
-[[comparison-lime-plaster-vs-earthen-plaster]] for guidance on mix
-ratios and application techniques. A good finish protects structural
-earth while allowing the building to regulate humidity naturally,
-contributing to healthy indoor air quality.

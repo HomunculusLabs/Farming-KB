@@ -10,8 +10,8 @@ sources: "Guzmán, Allen & Gartz (1998)"
 
 # Psilocybe cubensis: Cattle Dung Substrate and Introduction in the Americas
 
-Psilocybe cubensis is one of the most widely distributed and well-known
-neurotropic fungi in the world. According to the comprehensive survey by
+[[psilocybe-cubensis]] is one of the most widely distributed and well-known
+[[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] the world. According to the comprehensive survey by
 [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] classification, which are predominantly
 lignicolous or humicolous.
 
@@ -23,7 +23,7 @@ tropical and subtropical region of the Americas:
 ### Mexico
 
 P. cubensis has one of the most extensive publication histories of any
-Mexican neurotropic fungus, documented by Singer (1949, 1959, 1978), Heim
+[[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]] fungus, documented by Singer (1949, 1959, 1978), Heim
 (1956a, 1956b, 1957a, 1958a, 1958b, 1978), Wasson (1957), and dozens of
 subsequent researchers. The species is found in the tropical lowlands of
 southern and eastern Mexico, particularly in the states of Oaxaca, Chiapas,
@@ -84,42 +84,7 @@ following the arrival of cattle. The timeline is significant:
 
 This has led several researchers to propose that P. cubensis may have
 originated in Africa, where bovine cattle and their ancestors have existed
-for millions of years alongside a rich coprophilous fungal community. The
+for millions of years alongside a rich coprophilous [[air-pollution-fungal-community-responses]]. The
 species could have been transported to the Americas during the Atlantic
 slave trade, either in contaminated dung, bedding straw, or on the cattle
 themselves. This would explain its current [[copelandia-cyanescens-pantropical-distribution-and-ecology]], which
-closely mirrors the routes of the Spanish and Portuguese colonial cattle
-trade.
-
-## Absence from Europe
-
-A notable feature of P. cubensis distribution, as documented by Guzmán,
-Allen & Gartz, is its absence from natural habitats in Europe despite the
-widespread presence of cattle across the continent. European records of P.
-cubensis, where they exist, typically involve cultivated specimens or
-illegally imported dried material rather than naturally occurring
-populations. This is consistent with the hypothesis that the species
-requires specific tropical or subtropical climatic conditions that are not
-met in temperate Europe, even when suitable bovine dung substrate is
-available.
-## Related Coprophilous Species
-
-Several other neurotropic fungi share the coprophilous habit with P.
-cubensis, though none match its geographic range:
-
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]**: Also found on dung, but with a much wider
-  climatic tolerance, extending into temperate Europe and North America
-- **Panaeolus sphinctrinus**: Cosmopolitan dung-inhabiting species found
-  across all continents
-- **Panaeolus fimicola**: Another widespread coprophilous species
-- **Copelandia cyanescens**: Tropical dung-inhabiting species with a
-  distribution pattern similar to P. cubensis
-- **[[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]**: Occasionally found on dung in temperate regions
-
-## See Also
-
-- [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin Hypothesis for Neurotropic Fungi
-- Neurotropic Fungi Underground Trade and Legislation

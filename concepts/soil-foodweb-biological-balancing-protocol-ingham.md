@@ -1,8 +1,9 @@
 ---
-title: Soil Foodweb Biological [[aact-soil-food-web-twelve-step-balancing-protocol]]
+title: Soil Foodweb Biological Balancing Protocol Ingham
 aliases: [soil [[soil-foodweb-balancing-protocol-ingham]], twelve steps soil biology, restoring soil biology, Ingham balancing protocol]
 tags: [soil-biology, soil-foodweb, compost-tea, mycorrhizae, soil-health, restoration]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 ---
 
@@ -87,63 +88,3 @@ The goal is not maximum bacteria but balanced bacteria at appropriate levels for
 
 **If ciliates are above desired range**:
 - This is a warning indicator — high ciliate numbers typically indicate compacted, [[lowenfels-aerobic-anaerobic-soil-conditions]]
-- The soil will need improvement in fungal biomass, protozoa balance, nematode numbers, and mycorrhizal colonization
-- Address the underlying compaction and anaerobic conditions rather than treating ciliate numbers directly
-
-Protozoa are critical for nutrient cycling because they consume bacteria and release plant-available nitrogen (the "microbial loop"). Without adequate protozoa, bacterial nitrogen remains locked in bacterial biomass.
-
-### Steps Nine Through Eleven: Nematode Balance
-
-**Assessment**: Beneficial nematode numbers and species diversity are evaluated.
-
-**Target communities**:
-- At least 6 species of bacterial-feeding nematodes
-- At least 6 species of fungal-feeding nematodes
-- At least 2 species of predatory nematodes
-
-**If [[ingham-beneficial-nematodes-soil-food-web]] are too low**:
-- Add nematode inoculum from compost or commercial products
-- Ensure adequate bacterial and fungal prey populations exist to support nematodes
-- Avoid nematicides and soil fumigation
-
-**If root-feeding nematodes are present**:
-- This indicates a seriously imbalanced system
-- Improve four factors simultaneously:
-  1. Beneficial nematode populations (competition and predation)
-  2. Mycorrhizal colonization (provides root protection)
-  3. Total fungal biomass (competition for root infection sites)
-  4. All should be at maximum levels or higher
-- Record the levels that allowed the root-feeder problem to develop as a warning threshold for future monitoring
-
-### Step Twelve: Higher Trophic Levels
-
-**Assessment**: Observe microarthropods, earthworms, and higher-level predators when examining soil or litter samples.
-
-**If these organisms are absent or too few**:
-- Find a source of worm compost or forest soil containing these organisms and add them to the system
-- These organisms may not exist in conventionally tilled agricultural systems
-- At minimum, a few per square foot are required for good soil health
-- Earthworms are particularly important for soil structure, aeration, and organic matter incorporation
-
-## Delivery Methods
-
-### Compost Application
-
-- **Rate**: 5 to 30 tons per acre, applied in fall and/or spring
-- **Crops**: Broadcast application (provides inoculum and non-soluble nutrients)
-- **Vines**: Under-row application (inoculant, nutrients, soil protection)
-- **Trees**: Applied from 2 inches out to the drip line; vertical mulching for deep placement
-
-### Compost Tea Application
-
-- **Foliar**: 5 gallons per acre for each 6 feet of canopy height
-- **Soil drench**: 20 gallons per acre, applied in fall and spring
-- **Timing for crops**: First true leaf, flower bud, post-seed-set
-- **Timing for vines and trees**: 2 weeks before budbreak; every 7–14 days if disease is present; once monthly if no disease history
-
-## See Also
-
-- [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]] — detailed comparison of brewing methods
-- [[aact-disease-suppression-mechanisms-ingham]] — how balanced biology prevents disease
-- [[aact-brewing-ingredients-ingham]] — foods and recipes for compost tea
-- [[compost-biology-soil-food-web-inoculation]] — compost as an inoculum source

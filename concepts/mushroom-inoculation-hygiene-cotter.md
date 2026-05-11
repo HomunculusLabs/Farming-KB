@@ -1,5 +1,5 @@
 ---
-title: Mushroom mushroom inoculation hygiene cotter and Sanitation Protocols
+title: Mushroom Inoculation Hygiene Cotter
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,14 +11,14 @@ sources:
 # Mushroom Inoculation Hygiene and Sanitation Protocols
 
 Inoculation is the most contamination-vulnerable stage of mushroom
-cultivation. Tradd Cotter emphasizes that "it only takes one set of
+cultivation. [[tradd-cotter]] emphasizes that "it only takes one set of
 dirty hands to ruin an entire day, or more, of work." This page covers
 the hygiene protocols, tools, and workspace setup for safe inoculation.
 
 ## Why Hygiene Is Critical at Inoculation
 
 The inoculation stage involves direct contact with prepared (possibly
-pasteurized) growing medium and pure [[pure-culture-spawn-method-duggar-usda-1902]]. At this point:
+pasteurized) [[cervantes-green-algae-growing-medium]] and pure [[pure-culture-spawn-method-duggar-usda-1902]]. At this point:
 
 - The medium has been heat-treated, killing competitors
 - The medium is now a blank slate — vulnerable to any contaminant
@@ -88,59 +88,3 @@ Converted sheds or dedicated rooms work well:
 - **Airflow:** minimize air movement to reduce spore transfer
 - **Incoming air:** prefilter with particulate filter (HEPA ideal)
 - **Partitions:** plastic curtains or walls to separate work zones
-- **Location:** adjacent to pasteurization/sterilization room to minimize
-  exposure time during transfer
-
-### Clean Room vs. Open Inoculation
-
-**Pasteurized substrates:**
-- Can inoculate in a nonsterile environment
-- Clean surface required (bleached tarp or table)
-- Much easier to work with than sterilized media
-- Lower cost and energy input
-- Most [[query-how-to-grow-oyster-mushrooms-at-home]] and some other species thrive on pasteurized
-  substrate
-
-**Sterilized substrates:**
-- Require a clean room with [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- Full laboratory protocols needed
-- See Cotter chapter 17 for clean [[cervantes-grow-room-design-advanced]]
-- Necessary for shiitake, maitake, and many other species
-- Much more prone to contamination than pasteurized media
-
-### Ergonomics and Workflow
-
-- Surfaces should be easy to clean and hold significant weight
-- Chlorinated tarp, concrete floor, or waterproof table
-- Pre-stage all materials before starting (gloves, alcohol, twist ties)
-- Minimize distance between pasteurization and inoculation areas
-- Every second of exposure increases contamination risk
-
-## Inoculation Technique
-
-### Small-Scale: Tarp Method
-
-For shredded straw with oyster mushrooms:
-
-1. Allow media to cool after pasteurization on a clean, washed tarp
-2. Break spawn into smallest fragments possible
-3. Broadcast spawn evenly across the media surface
-4. Lightly rake spawn into the substrate
-5. For larger volumes, add media and spawn in alternating layers
-6. Fill containers immediately after mixing
-
-### Mixing with Tools
-
-- Spread media in even layer, 3–4 inches deep
-- Use a **dedicated rake** (never used for yard/garden work)
-- Dunk rake in 50% bleach tray between uses
-- Push inoculated media into a pile for easier bagging
-- If rake touches anything outside the clean zone, sanitize before
-  returning
-
-### Automating Inoculation
-
-## See Also
-- [[mushroom-container-filling-techniques-cotter]]
-- [[mushroom-contamination-identification]]
-- [[cotter-inoculation-techniques-and-hygiene]]

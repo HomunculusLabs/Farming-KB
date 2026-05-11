@@ -87,17 +87,3 @@ The development of configured bioreactors with the relevant enzymes, H2O2, and [
 The commercial market for fungal bioremediation remains relatively small but is growing as regulatory requirements for environmental cleanup become more stringent and as the technology matures. Several companies now offer fungal-based products and services for bioremediation, including fungal inoculants for soil treatment, enzyme preparations for water treatment, and engineered fungal strains for specific applications.
 
 The development of standardized protocols for fungal remediation, combined with regulatory acceptance of biological treatment approaches, is expected to accelerate market growth. Partnerships between academic researchers, environmental engineering firms, and end users (industrial facilities, municipal wastewater treatment plants) are essential for translating laboratory innovations into commercial products and services.
-
-## Risk Assessment and Regulatory Framework
-
-Regulatory acceptance of fungal bioremediation requires demonstration that the treatment achieves cleanup goals without creating new environmental risks. Risk assessments must consider the potential for introduced fungal species to become invasive, the toxicity of fungal metabolites, the completeness of pollutant degradation (ensuring no more toxic intermediates accumulate), and the long-term stability of treated sites. The regulatory framework for biological treatment agents varies by jurisdiction but generally requires data on organism identity, pathogenicity testing, environmental fate, and treatment efficacy. Developing standardized regulatory pathways for fungal bioremediation products would accelerate commercial deployment while ensuring environmental safety.
-
-## See Also
-
-- mycoremediation-scale-up-challenges
-- mycoremediation-bioreactor-design
-- [[staycare-spent-mushroom-compost-bioremediation]]
-- fungal-ligninolytic-enzymes-in-industrial-applications
-- [[pleurotus-species]]
-- [[ligninolytic-enzymes]]
-- [[mycoremediation]]

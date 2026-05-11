@@ -3,7 +3,7 @@
 
 ## Data Landscape
 
-Systematic data on hallucinogenic mushroom use in the European Union has been
+Systematic data on [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] in [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] has been
 historically limited. Most drug surveys collected information on LSD consumption
 or a general "[[hallucinogenic-mushrooms-european-prevalence]],
 providing the first comprehensive prevalence picture across EU member states.
@@ -33,7 +33,7 @@ prevalence of hallucinogenic mushroom use ranged from 0% to 8%. The Czech
 Republic, Netherlands, France, and Belgium had the highest estimates, while
 Cyprus, Finland, and Romania reported zero lifetime prevalence.
 
-A striking finding was that lifetime use of hallucinogenic mushrooms equaled or
+A striking finding was that lifetime use [[health-risks-of-hallucinogenic-mushrooms]] equaled or
 exceeded lifetime use of ecstasy in nine countries. This suggests that mushrooms
 occupied a position in the recreational drug hierarchy comparable to or above
 that of MDMA among school-age populations in parts of Europe.
@@ -75,7 +75,7 @@ The only longitudinal trend data came from six consecutive annual readership
 surveys by the UK clubbing magazine Mixmag (2000-2005). Lifetime prevalence
 estimates increased between 2003 and 2004, and last-month prevalence increased
 significantly from 2.4% in 2002 to 18% in 2004. However, these findings require
-cautious interpretation due to changes in non-probability sampling methods across
+cautious interpretation due to changes in non-probability [[biodiversity-of-fungi-macrofungi-sampling-methods]] across
 years and variable sample characteristics.
 
 The average age for first use was 18-19 years according to the 2004 Mixmag
@@ -88,29 +88,3 @@ find mushroom use particularly pleasant, lacking the positive mood-altering
 ## Perceived Availability
 
 ESPAD 2003 data on perceived availability showed that rates of 15-16 year old
-students who considered hallucinogenic mushrooms "very" or "fairly easy" to
-obtain ranged from 4% to 28%. Under 10% reported easy access in Cyprus, Finland,
-Greece, Hungary, Latvia, Lithuania, Romania, and Turkey, while over 20% reported
-easy access in the Czech Republic, Ireland, Italy, Poland, and the UK. Despite
-the lack of legal sanctions, only 16% of Dutch school students reported easy
-access. Following the 2005 UK legal change, 67% of [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] respondents
-reported mushrooms were less available than previously.
-
-## Telephone Helpline Data
-
-FESAT reports from 26 drug telephone help lines across 16 European countries
-showed no significant increase in calls regarding hallucinogenic mushrooms during
-2004. Belgium reported 1% of all Druglijn inquiries were mushroom-related in
-both 2003 and 2004. The Swedish Poisons Information Centre saw calls peak at 96
-in 1998, then stabilize at 30-40 annually in subsequent years, suggesting a
-stable rather than growing pattern of acute incidents.
-
-## Barriers to Diffusion
-
-Several factors appear to limit the diffusion of hallucinogenic mushroom use:
-unpredictable potency, negative effects including nausea and panic attacks, lack
-of sociable effects compared to ecstasy, limited repeat use appeal, and the
-inherently challenging nature of the [[eu-hallucinogenic-mushroom-smartshop-market-2006]]
-- [[psilocybin-and-psilocin-chemical-synthesis]]-chemistry-and-pharmacology-emcdda
-- espad drug use survey methodology
-- emcdda early warning system emerging trends

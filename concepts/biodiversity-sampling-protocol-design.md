@@ -88,32 +88,3 @@ decades-long repetition. Macrofungi are most useful for monitoring where
 long-term occurrence records or environmental gradients exist.
 
 Indicator species [[cannabis-breeding-traits-selection-criteria-clarke]] include taxonomic stability,
-known natural history, surveyability, disturbance sensitivity, wide
-distribution, and habitat specificity. Macrofungi are poorly known
-taxonomically compared with vertebrates and plants, but are sensitive
-to both natural and anthropogenic disturbances such as air pollution
-and logging.
-
-## Integration with Vegetation Studies
-
-Using established vegetation inventory grids facilitates setting up
-transects and enables comparison of plant and macrofungal diversity data.
-The recommended protocol uses 5-m2 circular subplots along 100-m
-transects at 10-m intervals, giving 200 subplots and a sampling area of
-1000 m2 (0.1 ha) per plot. This design is compatible with standard 10-m
-by 10-m vegetation inventory grids and works well in forest fragments
-where longer transects may be impractical.
-
-## Practical Constraints
-
-Resources constrain what sampling can be done. Although research indicates
-the need for long-term studies (5-10 years ideally), most studies
-incorporate only 1-3 years of sampling due to funding limitations.
-Sampling frequency and number of plots given in recommended protocols are
-minimum values; if resources are available, increasing the number of
-plots per site and/or sampling intensity is strongly recommended. Pilot
-studies are useful for determining the intensity of sampling required and
-the taxonomic difficulty of the project.
-
-## See Also
-- [[fungal-biodiversity]]

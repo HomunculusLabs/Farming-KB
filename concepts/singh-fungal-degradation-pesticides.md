@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [mycology, remediation, research]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md"
 ---
 # Fungal Degradation of Pesticides (Singh)
@@ -87,11 +88,3 @@ pesticide rinsate and spills at farm level.
 ## Biosensors for Pesticide Detection
 Fungal enzyme-based biosensors enable rapid pesticide monitoring.
 Acetylcholinesterase-based sensors detect organophosphorus pesticides at 0.2 ng
-sensitivity. Tyrosinase-based sensors detect atrazine and carbamate pesticides
-through enzyme inhibition. Laccase from Coriolus hirsutus is used for ELISA
-detection of 2,4-D (10-20 ng/ml in 1.5-2 hours). See also
-[[fungal-solid-state-fermentation-agricultural-waste]].
-
-## See Also
-- [[staycare-fungal-agricultural-waste-conversion]]
-- [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]

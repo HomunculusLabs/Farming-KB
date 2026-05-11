@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Arora, D. (1986). "Mushrooms Demystified." 2nd ed. Ten Speed Press.
   - Kreisel, H. (2001). "Die Gattung Phallus in Mitteleuropa." Zeitschrift für Mykologie, 67, 89-104.
-  - Tuno, N. (1998). "aquatic-fungi-spore-dispersal-ingold of Dictyophora indusiata and Phallus impudicus." Mycoscience, 39, 79-83.
+  - Tuno, N. (1998). "aquatic-fungi-spore-dispersal-ingold of [[dictyophora-indusiata]] and [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]." Mycoscience, 39, 79-83.
   - Courtney, R. & Tuthill, D. (2000). "Stinkhorn fungi." Mycologist, 14(3), 104-105.
   - Lincoff, G.H. (1981). "National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
 created: 2026-04-28
@@ -20,9 +20,9 @@ created: 2026-04-28
 
 ## Overview
 
-*Phallus impudicus*, commonly known as the common stinkhorn or phallus fungus, is a widespread saprotrophic basidiomycete fungus recognizable by its phallic-shaped mature fruiting body and strong carrion-like odor. It is native to Europe and widely distributed across temperate regions of the Northern Hemisphere.
+*Phallus impudicus*, commonly known as the common stinkhorn or phallus fungus, is a widespread saprotrophic basidiomycete fungus recognizable by its phallic-shaped mature fruiting body and strong carrion-like odor. It is native to Europe and widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
-The species plays an ecologically significant role as a decomposer of woody organic matter and in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest ecosystems.
+The species plays an ecologically significant role as a decomposer of woody [[savory-soil-organic-matter-and-decomposition-dynamics]] in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest ecosystems.
 
 The fetid odor of the mature fruiting body attracts flies and other insects that serve as primary spore dispersal vectors, making *P. impudicus* a classic example of entomochory in fungi.
 
@@ -66,7 +66,7 @@ It frequently appears in cultivated settings such as garden mulch beds and compo
 
 As a primary decomposer of woody substrates, *P. impudicus* contributes to carbon cycling and nutrient release in forest ecosystems.
 
-The species has demonstrated mycorrhizal associations with certain tree species, suggesting a dual ecological strategy of saprotrophy and mutualism.
+The species has demonstrated [[plants-without-mycorrhizal-associations]] with certain tree species, suggesting a dual ecological strategy of saprotrophy and mutualism.
 
 Studies have documented ectomycorrhizal relationships with conifers including spruce (*Picea abies*) and pine (*Pinus sylvestris*).
 
@@ -76,7 +76,7 @@ The strong odor and visual appearance of the fruiting body are adaptations for i
 
 Flies (Diptera), beetles (Coleoptera), and slugs are the primary vectors, carrying spores on their bodies to new substrates.
 
-This entomochorous dispersal strategy allows the fungus to colonize isolated patches of suitable substrate across distances beyond typical wind-dispersed spore range.
+This entomochorous [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] allows the fungus to colonize isolated patches of suitable substrate across distances beyond typical wind-dispersed spore range.
 
 ## Chemistry and Bioactive Compounds
 
@@ -87,34 +87,3 @@ Dimethyl disulfide and dimethyl trisulfide are the primary volatile sulfur compo
 These compounds are also produced by decomposing animal tissue, explaining why the fungus effectively mimics carrion to attract Diptera.
 
 Indole and skatole have been detected in minor quantities, contributing additional fecal notes to the odor profile.
-
-Extracts of *P. impudicus* have shown antimicrobial activity against gram-positive bacteria in preliminary laboratory studies.
-
-The gelatinous layer surrounding the immature egg contains polysaccharides with potential immunomodulatory properties, though this research is preliminary.
-
-## Edibility
-
-The immature "egg" stage of *Phallus impudicus* is considered edible and is consumed in some European countries, particularly in France and Germany.
-
-When sliced and cooked, the firm white interior of the egg has a mild, pleasant flavor and radish-like texture.
-
-The mature fruiting body with its slimy gleba and carrion odor is inedible and generally considered revolting.
-
-Some individuals report mild gastrointestinal distress from consuming the egg stage, so thorough cooking is recommended.
-
-The species is not toxic but is generally avoided due to its appearance and odor at maturity.
-
-## Similar Species
-
-[[clathrus-archeri]] (octopus stinkhorn) has a similar foul-smelling gleba but a dramatically different star-shaped fruiting body with red arms.
-
-*Phallus hadriani* is a similar species distinguished by a purple-tinted volva and preference for sandy coastal soils.
-
-*Aseroe rubra* (starfish fungus) is an Australasian relative with a similar odor and anemone-like fruiting structure.
-
-## See Also
-
-- [[clathrus-archeri]] — devil's fingers, star-shaped stinkhorn
-- [[helvella-crispa]] — elfin saddle, woodland saprotrophic ascomycete
-- [[hugelkultur]] — permaculture technique utilizing woody debris where stinkhorns commonly fruit
-- [[mycoremediation]] — [[dighton-fungal-decomposition-nutrient-cycling]] applied to environmental cleanup

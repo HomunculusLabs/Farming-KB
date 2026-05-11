@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # The One-Straw Revolution -- Overview
 
@@ -86,16 +87,3 @@ Readers and critics have raised several concerns:
 - **Lack of precise instructions**: Fukuoka deliberately avoided giving detailed recipes, arguing that each farmer must develop their own understanding through observation.
 - **Spiritual emphasis**: Some readers find the philosophical/spiritual content distracting from the practical farming advice.
 - **Economic viability**: The system produces high-quality food but may not fit existing market structures.
-
-## Editions and Translations
-
-Originally published in Japanese in 1975, the book has been translated into numerous languages including English (1978, translated by Larry Korn, with a preface by Wendell Berry), French, German, Spanish, Italian, Portuguese, Korean, Chinese, Hindi, and many others. The English edition published by Rodale Press and later by New York Review Books Classics remains the most widely read version.
-
-## Related
-
-- [[natural-farming-philosophy]] -- natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] in depth
-- [[fukuoka-do-nothing-farming-and-spiritual-life]] -- do-nothing farming
-- [[fukuoka-rice-and-barley-natural-farming]] -- the rice/barley system
-- [[fukuoka-vegetable-growing-natural-method]] -- [[fukuoka-semi-wild-vegetable-growing-natural-method]]
-- [[fukuoka-ground-cover-strategy]] -- ground cover approach
-- regenerative agriculture history -- broader regenerative context

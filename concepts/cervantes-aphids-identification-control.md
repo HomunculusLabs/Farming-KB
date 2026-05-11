@@ -1,15 +1,16 @@
 ---
-title: "Aphids on Cannabis - Identification and Control (Cervantes)"
+title: Cervantes Aphids [[cervantes-spider-mites-identification-control]]
 created: 2026-04-28
 tags:
   - cannabis
   - pest-control
   - aphids
-  - integrated-pest-management
+  - [[integrated-pest-management]]
   - biological-control
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -87,26 +88,3 @@ Several effective biological controls are available:
 - Gall-midge (Aphidoletes aphidimyza), available under the
   trade name Aphidend, is a specialized aphid predator
 - Parasitic wasp (Aphidius matricariae), available commercially
-  as Aphidpar, lays eggs inside aphid bodies
-- Ladybugs work well but are drawn to HID lamps where many
-  perish. Release about 50 per plant, knowing that frequent
-  replenishment will be needed
-- Verticillium lecanii fungus, available as Vertalec, is very
-  aphid-specific and effective
-
-## Spray Control
-
-Homemade and insecticidal soap sprays are very effective against
-aphids. Apply two or three times at five to ten day intervals.
-[[cervantes-homemade-pest-disease-sprays]]
-containing garlic, hot pepper, and soap can provide effective
-control without introducing toxic chemicals to the garden.
-
-## Prevention
-
-The best defense against aphids starts with garden hygiene:
-
-- Keep [[aphids-cannabis]] - general [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] for cannabis
-- [[cervantes-neem-oil-organic-pest-control]] - organic aphid
-  control
-- [[cervantes-homemade-pest-disease-sprays]] - DIY spray recipes

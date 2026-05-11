@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - papers/savory-holistic-resource-management.md
 type: concept
 ---
@@ -87,10 +88,3 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[savory-holistic-resource-management-ecological-succession]]
-- [[savory-holistic-resource-management-biological-monitoring]]
-- [[savory-conventional-vs-holistic-range-management]]

@@ -88,39 +88,3 @@ land users, herding has much to recommend it. A skilled herder with one
 hundred grazing areas achieves the same effect as one hundred paddocks
 without the capital investment. This approach is particularly relevant in
 developing countries and on communal lands where fencing is impractical or
-prohibitively expensive.
-
-## Stock Density and Risk
-
-As paddock numbers increase, stock density (animals per acre) rises
-dramatically. This increases the penalty for poor management, as a
-twenty-four-hour mistake in a small paddock could mean extreme depletion
-of forage. However, stock density also equals the amount of additional
-animal days per acre consumed with each extra day animals remain in a
-paddock, making it a powerful tool for concentrating beneficial impact.
-
-More paddocks do not change the total grazing pressure on a cell, contrary
-to a commonly published opinion. Only changes in animal numbers or total
-time on the land alter overall forage consumption. More paddocks should
-never force animals to graze nonselectively unless lower performance is
-deliberately desired.
-
-## The Centrality of Biological Planning
-
-The vast majority of research projects conducted in America allegedly to
-study Savory's methods ignored the heart of the matter: the biological
-planning and replanning process. Instead they set up short-duration grazing
-rotations with radial fence layouts involving no biological planning whatsoever.
-Not a single professional researcher has yet tested the biological planning
-procedure against any fixed system or rotation, which Savory considers the
-critical oversight in evaluating his work.
-
-## See Also
-
-- [[savory-belief-systems-and-paradigm-shifts]]
-
-- [[savory-land-planning-and-grazing-cell-design]]
-- [[savory-recovery-and-grazing-periods]]
-- [[savory-livestock-grazing-planning]]
-- [[savory-overgrazing-vs-overrest]]
-- [[savory-animal-days-and-forage-measurement]]

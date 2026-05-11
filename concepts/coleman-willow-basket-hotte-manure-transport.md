@@ -44,7 +44,7 @@ forward and away from the worker's body.
 
 ### Daily Collection from City Stables
 
-Horse manure from the city stables of Paris was brought to the
+[[coleman-french-maraicher-horse-manure-hotbed-system]] from the city stables of Paris was brought to the
 gardens daily by the wagons that had delivered vegetable crates to
 the markets that morning. On the return trip, the empty wagons
 stopped at stables to collect fresh manure, creating a remarkably
@@ -70,13 +70,13 @@ The system distinguished between two forms of horse manure:
    beds.
 
 Both materials required the same delivery infrastructure, making
-the hotte the central tool of the fertility management system.
+the hotte the central tool of the [[coleman-compost-and-organic-fertility-management]] system.
 
 ## The Human Body as Farm Machine
 
 The hotte system exemplifies a principle that runs throughout the
-French intensive tradition: the substitution of skilled human labor
-for mechanical power. Where modern agriculture would use a
+[[coleman-british-adoption-of-french-intensive-gardening]] tradition: the substitution of skilled human labor
+for mechanical power. Where [[fukuoka-critique-modern-agriculture]] would use a
 mechanical spreader or fertilizer buggy, the maraichers used the
 human body — strengthened and trained through years of daily work —
 as the primary machine for material handling.
@@ -88,52 +88,3 @@ hotte was carefully designed to:
 - **Distribute weight** across the back and shoulders to reduce
   fatigue during long work sessions
 - **Enable precise unloading** without setting down the basket
-- **Allow rapid, continuous work** — the worker never stopped
-  moving
-
-## Implications for Modern Small-Scale Growers
-
-While modern growers are unlikely to adopt willow basket backpacks,
-the principles embodied in the hotte system remain relevant:
-
-1. **Match the tool to the space**: The narrow paths of the French
-   gardens required a tool that could operate within that constraint.
-   Modern growers should similarly design their material-handling
-   systems to fit their specific layout.
-
-2. **Human-scale systems have advantages**: The hotte allowed the
-   grower to feel the weight and consistency of the manure, notice
-   changes in its composition, and make real-time adjustments.
-   Mechanized systems sacrifice this tactile feedback.
-
-3. **Closed-loop logistics**: The integration of manure collection
-   with vegetable delivery created an efficient recycling system.
-   Modern growers should seek similar closed-loop arrangements
-   wherever possible.
-
-4. **Daily attention**: The manure was delivered daily, not in
-   bulk periodically. This constant, small-scale attention to
-   fertility is more effective than sporadic large applications.
-
-## Broader Significance
-
-The hotte is more than a historical curiosity. It represents a
-complete approach to small-scale agriculture in which every tool,
-every path width, every timing decision is optimized for intensive
-production on minimal land. The system worked as an integrated
-whole — remove any component (the narrow paths, the daily manure
-delivery, the skilled labor) and the productivity would collapse.
-
-For growers seeking to create highly productive small farms, the
-French system offers a model of what is possible when every element
-is designed to work together. The hotte was the connective tissue
-that made the fertility system function within the space constraints.
-
-### See Also
-
-- [[coleman-french-maraicher-parisian-intensive-market-gardening]]
-- [[coleman-louis-savier-twentieth-century-maraicher]]
-
-## See Also
-
-- [[coleman-french-maraicher-transport-britain-kropotkin]]

@@ -88,29 +88,3 @@ specifically because their raw state fell outside existing controls in many
 jurisdictions. The natural, unprocessed character of fresh mushrooms was both a
 marketing asset and a legal strategy, allowing open retail sale in circumstances
 where synthetic drugs could not be sold.
-
-## The Feedback Loop Between Framing and Demand
-
-The return-to-nature megatrend, smartshop marketing, and legal ambiguity formed
-a self-reinforcing cycle. Consumer preference for natural products made mushrooms
-commercially viable; smartshops capitalised on this by framing mushrooms as
-"herbal highs" within a natural-products retail environment; the natural framing
-created legal loopholes that allowed open sale; and the visibility of mushrooms
-in legitimate retail settings further normalised their image as a natural,
-relatively benign psychoactive. The paper concluded that this case study
-"highlights the importance of lifestyle trends and economic interests in the
-diffusion of and responses to an emerging drug trend."
-
-## Source
-
-EMCDDA Thematic Paper "Hallucinogenic Mushrooms: An [[emcdda-epod-project-emerging-trend-detection-methodology]] Case Study"
-(2006), Hillebrand, J., Olszewski, D., and Sedefov, R. European Monitoring Centre
-for Drugs and Drug Addiction, Lisbon. ISBN 92-9168-249-7.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]].md
-- [[emcdda-hallucinogenic-mushroom-entactogenic-comparison-ecstasy]].md
-- [[norwegian-woodland-party-organic-mushroom-milieu]].md
-- emcdda-hallucinogenic-mushroom-barriers-to-diffusion.md
-- magic-mushroom-smartshop-retail-europe.md

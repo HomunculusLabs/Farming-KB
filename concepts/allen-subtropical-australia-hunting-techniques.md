@@ -44,11 +44,11 @@ season (December-March).
 
 ### Cattle Pastures
 
-The most productive habitat for dung-inhabiting psychoactive mushrooms in
+The most productive habitat for dung-inhabiting [[ceremonial-shamanic-use-psychoactive-mushrooms]] in
 subtropical Australia is actively grazed cattle pasture. Key features of
 productive pastures include:
 
-- Active cattle grazing providing fresh dung substrate
+- Active cattle grazing providing fresh [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - Open areas receiving direct sunlight (warming the dung)
 - Good drainage preventing prolonged waterlogging
 - Proximity to waterways or in areas of higher natural humidity
@@ -56,13 +56,13 @@ productive pastures include:
 
 Dung pats that are 1-3 weeks old are typically the most productive. Very
 fresh dung (less than 1 week) has not yet been sufficiently colonized by
-fungal mycelium, while very old dung (more than 4 weeks) has often dried
-out or been exhausted by successive flushes.
+[[fungal-mycelium-hyphae-and-the-feeding-phase]], while very old dung (more than 4 weeks) has often dried
+out or been exhausted by [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]].
 
 ### Horse Paddocks
 
-Horse dung supports a somewhat different fungal community than cattle dung.
-*Copelandia cyanescens* occurs on horse dung but is less common. Horse
+Horse dung supports a somewhat different [[air-pollution-fungal-community-responses]] than cattle dung.
+*[[copelandia-cyanescens]]* occurs on horse dung but is less common. Horse
 paddocks tend to produce fewer specimens overall but may yield species not
 found in cattle pastures. The smaller, more fibrous nature of horse dung
 means it dries out more quickly, making timing more critical.
@@ -88,46 +88,3 @@ Note these characteristics in the field: cap color, shape, and whether
 hygrophanous; gill color and attachment; presence of a veil or ring on
 the stipe; stipe characteristics (hollow/solid, color, texture); substrate
 (dung, soil, wood, grass); and bruising reaction (blue or none).
-
-## Safety Considerations
-
-### Species Confusion Risks
-
-Several non-psychoactive species in subtropical Australia resemble
-psychoactive species:
-
-- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]] (the "green-spored parasol") is common in
-  lawns and pastures and causes severe gastrointestinal distress. Its
-  green spore print distinguishes it from [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]].
-- Panaeolus antillarum resembles Copelandia cyanescens but does not
-  stain blue.
-- Various Galerina species on wood can resemble small Psilocybe species
-  and contain deadly amatoxins.
-
-### Environmental Hazards
-
-Pastures may be treated with fungicides, herbicides, or veterinary
-chemicals. Subtropical Australia has numerous venomous snake species; be
-alert in tall grass. Ticks are common; check yourself after field work.
-
-### Ethical Collection
-
-Never collect all mushrooms from a location; leave some to disperse spores.
-Do not damage dung pats unnecessarily. Respect private property and always
-obtain permission before entering pastoral land. Be discreet.
-
-## Timing Your Hunt
-
-The best time to hunt in subtropical Australia is 2-4 days after
-substantial rainfall (25mm or more), during warm weather (20-30 degrees
-Celsius). Early morning (dawn to mid-morning) is ideal because mushrooms
-are at their freshest and have not yet been damaged by sun or insects.
-Afternoon and evening can also be productive, particularly in shaded areas.
-Avoid hunting during extended dry periods; even well-located habitats will
-not produce during drought conditions.
-## See Also
-
-- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
-
-- [[allen-pans-cyanescens-australia-distribution]]
-- [[allen-gymnopilus-and-other-psychoactive-genera]]

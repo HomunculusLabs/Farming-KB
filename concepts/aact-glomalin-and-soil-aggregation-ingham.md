@@ -1,6 +1,6 @@
 ---
 title: Glomalin and Soil Aggregation in AACT Systems
-source: Elaine Ingham Ph.D., The Field Guide I for Actively Aerated Compost Tea (AACT)
+source: Elaine Ingham Ph.D., The Field Guide I for [[actively-aerated-compost-tea]] Tea (AACT)
 source_path: raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 extracted: 2026-05-10
 type: concept
@@ -11,11 +11,11 @@ tags: [soil-science, microbiology, glomalin, mycorrhiza, soil-structure, AACT, a
 
 ## Overview
 
-Glomalin is a sticky, glycoprotein-like substance produced by soil organisms—most notably arbuscular mycorrhizal fungi (AMF), but also by a wide range of bacteria and other fungi—that plays a fundamental role in binding soil particles together into stable aggregates. In the context of Actively Aerated Compost Tea (AACT) and soil foodweb management, glomalin [[ingham-glomalin-soil-aggregation-arbuscular-mycorrhizal-glue]] represents one of the key mechanisms by which microbial communities create and maintain the soil structure that supports healthy plant growth.
+Glomalin is a sticky, glycoprotein-like substance produced by soil organisms—most notably [[arbuscular-mycorrhizal-fungi]] (AMF), but also by a wide range of bacteria and other fungi—that plays a fundamental role in binding soil particles together into stable aggregates. In the context of Actively Aerated Compost Tea (AACT) and soil foodweb management, glomalin [[ingham-glomalin-soil-aggregation-arbuscular-mycorrhizal-glue]] represents one of the key mechanisms by which [[cannabis-rhizosphere-microbial-communities]] create and maintain the soil structure that supports healthy plant growth.
 
 ## What Is Glomalin?
 
-Glomalin was initially identified in research on vesicular-arbuscular mycorrhizae (VAM), now called arbuscular mycorrhizal fungi (AMF). Early work assumed that glomalin was exclusively a product of mycorrhizal fungi. However, Dr. Elaine Ingham and other soil microbiologists have recognized that many organisms in soil produce similar glues and sticky compounds. The term "glomalin" has become a general descriptor for a family of compounds that share the ability to stick things together. (see [[aact-microbial-chelation-of-minerals-ingham]]).
+Glomalin was initially identified in research on vesicular-arbuscular mycorrhizae (VAM), now called arbuscular mycorrhizal fungi (AMF). Early work assumed that glomalin was exclusively a product [[query-what-are-the-different-types-of-mycorrhizal-fungi]]. However, Dr. Elaine Ingham and other soil microbiologists have recognized that many organisms in soil produce similar glues and sticky compounds. The term "glomalin" has become a general descriptor for a family of compounds that share the ability to stick things together. (see [[aact-microbial-chelation-of-minerals-ingham]]).
 
 Key characteristics of glomalin and related glues:
 
@@ -62,7 +62,7 @@ Fungi are the primary producers of glomalin in most soils. Dr. Ingham emphasizes
 
 While mycorrhizal fungi are famous for glomalin production, bacteria also produce sticky extracellular polymeric substances (EPS) that help them attach to soil particles. These bacterial glues are particularly important for binding clay particles and creating the microaggregates that serve as the building blocks for larger soil structure.
 
-The interaction between bacterial and fungal glues creates a hierarchy of aggregation:
+The interaction between [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] glues creates a hierarchy of aggregation:
 - Bacterial EPS binds clay and silt particles into microaggregates
 - Fungal hyphae and glomalin bind microaggregates into macroaggregates
 - Roots and macrofauna further stabilize these structures
@@ -74,7 +74,7 @@ The interaction between bacterial and fungal glues creates a hierarchy of aggreg
 The diversity and activity of soil organisms directly affect glomalin levels:
 - Higher fungal biomass correlates with higher glomalin
 - Diverse fungal communities produce more varied glues
-- Protozoa and nematodes that graze on fungi stimulate new fungal growth
+- [[teaming-with-microbes-protozoa-and-nematodes]] that graze on fungi stimulate new fungal growth
 - Microarthropods help distribute fungal hyphae and their glues through soil
 
 ### Soil Chemistry
@@ -88,59 +88,3 @@ The diversity and activity of soil organisms directly affect glomalin levels:
 
 Practices that support glomalin production include:
 - Minimizing tillage (which disrupts fungal networks)
-- Maintaining living root systems year-round
-- Applying fungal-dominated compost and compost tea
-- Using mulches and cover crops to feed fungal communities
-- Avoiding fungicides and other chemicals that harm fungal populations
-
-## Assessing Glomalin Levels
-
-While specialized laboratory tests can quantify glomalin directly, practical indicators of adequate glomalin production include:
-- Good soil crumb structure (aggregation visible to the eye)
-- Stable aggregates that don't slake when placed in water
-- Improved infiltration rates over time
-- Reduced surface crusting
-- Darker soil color indicating humus accumulation
-
-## Glomalin in Different Plant Systems
-
-### Annual Crops
-
-In annual systems, glomalin levels tend to fluctuate with the growing season. Peak production occurs during active root growth and mycorrhizal colonization. AACT applications timed to coincide with peak root growth can maximize glomalin deposition.
-
-### Perennial Systems
-
-Perennial plantings develop more stable, long-term glomalin levels due to continuous root-fungal associations. These systems accumulate glomalin over years, building increasingly stable soil structure.
-
-### Pastures and Grasslands
-
-Grasslands are particularly effective at building glomalin because of their dense, fibrous root systems that support extensive mycorrhizal networks. These systems represent some of the highest glomalin levels found in natural ecosystems.
-
-## Research Gaps and Future Directions
-
-Dr. Ingham notes that the story of glomalin is not yet complete. Key unanswered questions include:
-- Are all "glomalin" compounds the same structure and material?
-- How do bacterial glues differ chemically from fungal glomalin?
-- What is the pH of bacterial glues versus mycorrhizal glomalin?
-- How rapidly is glomalin turned over in different soil types?
-- Can specific AACT recipes be optimized to maximize glomalin production?
-
-## Practical Recommendations
-
-To build glomalin-rich soils through AACT programs:
-
-1. Ensure AACT contains adequate fungal biomass by using fungal foods (humic acids, kelp, fish hydrolysate)
-2. Apply AACT to soils that already have some organic matter to support fungal establishment
-3. Combine AACT with minimal-disturbance practices to preserve fungal networks
-4. Monitor soil structure over time as an indirect measure of glomalin accumulation
-5. Maintain diverse plant communities to support diverse fungal communities
-
-## Summary
-
-Glomalin is a critical but often overlooked component of soil health that bridges the fields of microbiology, soil physics, and plant nutrition. In AACT-based soil management programs, understanding and supporting glomalin production provides a tangible mechanism for building the soil structure that underpins all other soil functions. The key insight from Ingham's work is that glomalin is not just a mycorrhizal product—it is a general feature of healthy soil biology that reflects the activity of the entire soil foodweb.
-
-## See Also
-
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
-- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
-- [[query-what-are-the-most-nutritious-backyard-berries-and-how-do-i-grow-them]]

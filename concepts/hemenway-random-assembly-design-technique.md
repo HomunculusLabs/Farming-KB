@@ -5,13 +5,14 @@ tags: [design, creativity, permaculture, planning, layout]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
 type: concept
 ---
 
 # Random Assembly Design Technique
 
-Toby Hemenway describes a creative design tool called random
+[[toby-hemenway]] describes a creative design tool called random
 assembly that helps gardeners break through creative blocks and
 discover unexpected but useful connections between design
 elements. This technique is used during the planning phase of
@@ -33,8 +34,8 @@ design solutions.
 The technique consists of three steps:
 
 **Step 1: List the design elements.** Write down every major
-element that will be in the design: fruit tree, greenhouse,
-hedgerow, pond, trellis, compost pile, chicken coop, herb
+element that will be in the design: [[comparison-central-leader-vs-open-center-fruit-tree-training]], greenhouse,
+hedgerow, pond, trellis, [[query-how-to-build-a-compost-pile-that-works]], chicken coop, herb
 garden, etc. Continue until all major elements are listed.
 
 **Step 2: Create connecting word lists.** Make a list of
@@ -79,7 +80,7 @@ kitchen door. These conventions exist for good reasons, but
 they also prevent us from seeing unconventional solutions that
 might be equally or more effective.
 
-The technique also embodies the permaculture principle of
+The technique also embodies the [[permaculture-principle-apply-self-regulation]] of
 integrating rather than segregating. When we think about
 elements in isolation, we place them in separate locations. But
 when we think about how elements relate to each other, we begin
@@ -87,12 +88,3 @@ to see opportunities for hemenway-zone-and-sector-planning to identify general p
 - Then use random assembly to discover specific relationships
   between nearby elements.
 - Use a hemenway-guild-design-roles-and-assembly, randomly combining plant species with
-functional roles to discover novel plant combinations. The same
-principle applies: by forcing unusual pairings, we discover
-synergies that conventional plant selection would miss.
-
-## See Also
-
-- hemenway-zone-and-sector-planning
-- [[gaias-garden-many-gardens-garden-design-process]]
-- [[gaias-garden-stacking-functions-detailed]]

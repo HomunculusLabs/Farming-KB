@@ -87,31 +87,3 @@ Anti-inflammatory effects have been attributed to inhibition of cyclooxygenase (
 In Jordanian and Palestinian traditional medicine, T. polium tea is used to treat kidney stones and urinary tract infections. In Morocco, it is consumed as a digestive aid and appetite stimulant.
 
 Due to hepatotoxicity concerns, several European health authorities have issued warnings against internal use of Teucrium species. External applications (compresses, poultices) are considered lower risk.
-
-## Cultivation
-
-T. polium is occasionally cultivated as an ornamental and medicinal herb in rock gardens and herb collections. It is propagated by seed or softwood cuttings.
-
-The plant requires excellent drainage and tolerates poor, calcareous soils. It is intolerant of waterlogging and humidity, making it unsuitable for tropical or consistently wet climates.
-
-Plants benefit from a gravel mulch at the base to prevent crown rot. Established specimens require little to no supplemental irrigation in Mediterranean climates.
-
-In cultivation, it forms dense, silvery mounds that provide textural contrast in Mediterranean-style gardens. Pruning after flowering maintains a compact habit.
-
-The species is generally pest-free but may be susceptible to root rot in poorly drained soils. It is hardy to approximately -10°C, making it suitable for USDA zones 7–10.
-
-Essential oil yield from cultivated plants is typically 0.5–1.5% of dry weight. The oil is used in perfumery and aromatherapy, though commercial production is limited.
-
-Propagation from cuttings is more reliable than seed, which can have low and uneven germination rates. Semi-hardwood cuttings taken in late summer root readily under mist propagation.
-
-## See Also
-
-- [[teucrium-scorodonia]]
-- [[teucrium-marum]]
-
-- [[thymus-vulgaris-entity]]
-- [[lavandula-angustifolia]]
-- [[melissa-officinalis]]
-- [[stachys-officinalis]]
-- [[prunella-vulgaris]]
-- [[mentha-piperita]]

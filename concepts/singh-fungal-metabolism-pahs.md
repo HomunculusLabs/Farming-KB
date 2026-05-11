@@ -45,10 +45,10 @@ The primary fungal PAH metabolism pathway involves:
 [[white-rot-fungi]] degrade PAHs through non-specific ligninolytic
 enzyme systems:
 
-- **Lignin peroxidase (LiP)**: One-electron oxidation of PAH aromatic
+- **[[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP)**: One-electron oxidation of PAH aromatic
   rings to radical cations, initiating non-enzymatic reactions leading
   to ring opening
-- **Manganese peroxidase (MnP)**: Generates diffusible Mn(III) chelates
+- **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Generates diffusible Mn(III) chelates
   that oxidize PAHs at distance from [[fungal-hyphae]]
 - **[[ligninolytic-enzymes]]**: Oxidize PAHs with mediator compounds
   (ABTS, HBT) extending substrate range to higher-molecular-weight PAHs
@@ -58,7 +58,7 @@ enzyme systems:
 ### Naphthalene (2 rings)
 
 Most studied fungal PAH substrate Degraded via initial epoxidation at 1,2-position by cytochrome P450 Metabolites include 1,2-dihydroxynaphthalene, salicylaldehyde, and
-  salicylic acid
+  [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]]
 
 (Section truncated for length.)
 
@@ -81,69 +81,10 @@ Most studied fungal PAH substrate Degraded via initial epoxidation at 1,2-positi
 achieved for high-molecular-weight PAHs. Measured using radiolabeled
 (14C) PAHs.
 
-**Bound residue formation**: PAH metabolites become covalently
-incorporated into soil organic matter (humus). Bound residues are less
+**[[fungal-bound-residue-formation]]**: [[singh-fungal-pah-metabolites-mutagenicity]] become covalently
+incorporated into [[knf-leaf-mold-humus]] (humus). Bound residues are less
 bioavailable and less toxic but may persist for years. Fungal
 transformation contributes significantly to bound residue formation
 through oxidative coupling reactions.
 
 ### Factors Affecting Biodegradation
-
-- **PAH molecular weight**: Higher molecular weight = lower solubility
-  = slower degradation
-- **Soil organic matter**: High organic matter content increases PAH
-  sorption, reducing bioavailability
-- **Soil aging**: PAHs become increasingly sequestered over time,
-  reducing bioavailability
-- **Oxygen**: Aerobic conditions required for both cytochrome P450 and
-  ligninolytic enzyme pathways
-- **Moisture**: Optimal moisture for fungal growth (40-60% water
-  holding capacity)
-- **pH**: Most fungi prefer slightly acidic conditions (pH 4-7)
-- **Temperature**: 20-30 C optimal for mesophilic fungi
-
-## Field Applications and Case Studies
-
-Fungal PAH degradation has been tested in a range of field conditions,
-from manufactured gas plant sites to former petroleum refineries and
-wood treatment facilities. Field results generally confirm laboratory
-findings, though degradation rates are typically lower due to
-environmental variability.
-
-### Biopile and Landfarming Approaches
-
-Biopiles involve excavating contaminated soil, mixing it with amendments
-(bulking agents, nutrients, and inoculum), and aerating the pile to
-maintain aerobic conditions. [[white-rot-fungi]] inoculation of biopiles
-has shown enhanced removal of 3- and 4-ring PAHs compared with
-uninoculated controls. Landfarming spreads contaminated soil in thin
-layers and tills periodically, relying on indigenous microbial
-communities supplemented with amendments.
-
-### Phytoremediation with Fungal Augmentation
-
-Combining plant growth with fungal inoculation leverages both
-phytoremediation and [[mycoremediation]]. Plant roots improve soil
-aeration and provide root exudates that support microbial activity.
-[[mycorrhizal-fungi]] associated with plant roots can contribute to PAH
-dissipation in the rhizosphere through enzymatic activity and improved
-soil structure. This integrated approach is particularly promising for
-large, lightly contaminated sites where intensive treatment is not
-cost-effective.
-
-### Slurry Bioreactors for Ex Situ Treatment
-
-Slurry bioreactors provide maximum control over environmental conditions
-for PAH-contaminated soil. Contaminated material is mixed with water and
-nutrients in a contained vessel, and fungal inoculum is added. Agitation
-maintains oxygen transfer and contact between organisms and contaminants.
-These systems achieve the fastest degradation rates but are limited to
-volumes that can be excavated and processed, making them suitable for
-heavily contaminated hotspots rather than broad site remediation.
-
-## Toxicity Reduction and Endpoints
-
-Complete mineralization is not always achievable in practical
-[[mycoremediation]] applications. However, partial fungal transformation
-can significantly reduce the toxicity of PAH-contaminated material, even
-when bound residues remain.

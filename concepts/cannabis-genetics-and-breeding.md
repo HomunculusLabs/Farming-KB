@@ -35,7 +35,7 @@ Three major taxonomic groups are recognized within Cannabis:
 
 ### Genetic Diversity and Landraces
 
-Clarke emphasizes the critical importance of genetic diversity in Cannabis. Centuries of natural and human selection have produced distinct landrace varieties adapted to specific niches worldwide — from tropical Southeast Asia to the Hindu Kush mountains to equatorial Africa. Each landrace population carries a unique combination of genes for flowering time, potency, pest resistance, climate adaptation, and cannabinoid/terpene profile. (see [[cannabis-hybrid-vigor-and-phenotypes-clarke]]).
+Clarke emphasizes the critical importance of genetic diversity in Cannabis. Centuries of natural and human selection have produced distinct landrace varieties adapted to specific niches worldwide — from tropical Southeast Asia to the Hindu Kush mountains to equatorial Africa. Each landrace population carries a unique combination of genes for flowering time, potency, pest resistance, climate adaptation, and cannabinoid/terpene profile.
 
 This genetic diversity is threatened by:
 - Commercial hybridization replacing native landraces
@@ -44,9 +44,9 @@ This genetic diversity is threatened by:
 
 ### Breeding Strategies
 
-**Simple cross**: Crossing a male from one strain with a female from another produces F1 hybrid seed. F1 hybrids typically show hybrid vigor (heterosis) — they are more uniform and vigorous than either parent. However, F2 generation (self-pollinated F1) will show significant segregation and variation. (see [[rhizosphere-bacterial-community-dynamics]]).
+**Simple cross**: Crossing a male from one strain with a female from another produces F1 hybrid seed. F1 hybrids typically show hybrid vigor (heterosis) — they are more uniform and vigorous than either parent. However, F2 generation (self-pollinated F1) will show significant segregation and variation.
 
-**Backcrossing**: Crossing an F1 back to one of the parent strains to reinforce specific traits while maintaining some hybrid vigor. Repeated backcrossing (BC1, BC2, etc.) progressively returns the genotype toward the recurrent parent while retaining selected traits from the donor. (see [[mushroom-hybridization-art]]).
+**Backcrossing**: Crossing an F1 back to one of the parent strains to reinforce specific traits while maintaining some hybrid vigor. Repeated backcrossing (BC1, BC2, etc.) progressively returns the genotype toward the recurrent parent while retaining selected traits from the donor.
 
 **Inbreeding**: Repeated self-pollination or crossing of siblings to fix desirable traits. Creates homozygous lines. Excessive inbreeding reduces genetic diversity and can expose deleterious recessive traits (inbreeding depression).
 
@@ -70,3 +70,18 @@ Clarke draws a direct parallel to the 1970 Southern corn leaf blight that devast
 
 - [[cannabis-plant-anatomy]]
 - [[cannabis-extraction-methods]]
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
+- [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
+- [[query-what-is-the-difference-between-indica-sativa-and-ruderalis-cannabis]]
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
+- [[query-what-is-the-rhizosphere-and-why-does-it-matter-for-plants]]

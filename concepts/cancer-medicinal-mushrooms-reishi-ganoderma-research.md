@@ -1,18 +1,18 @@
 ---
-title: "Reishi (stamets-reishi-ganoderma-lucidum-cultivation) Research in Cancer Treatment"
+title: Cancer Medicinal Mushrooms Reishi Ganoderma Research
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "raw/papers/cancer-treatments-medicinal-mushrooms.md"
 type: concept
-tags: [medicine, mushroom-cultivation, mushrooms, reishi]
+tags: [medicine, [[mushroom-cultivation]], mushrooms, reishi]
 ---
 
 # Reishi (Ganoderma lucidum) Research in Cancer Treatment
 
 ## Overview
 
-Ganoderma lucidum (Reishi or Ling Zhi) has the longest historical usage of
+[[ganoderma-lucidum]] (Reishi or Ling Zhi) has the longest historical usage of
 any [[gourmet-medicinal-mushroom-casing-layer-techniques]], dating back at least four millennia. In Japan it is
 called Reishi or Mannetake (10,000 year mushroom); in China and Korea, Ling
 Zhi (Mushroom of Immortality). It is the mushroom most depicted in ancient
@@ -23,7 +23,7 @@ artificially cultivated.
 
 ## Active Constituents
 
-The mushroom and mycelium contain a rich array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
+The mushroom and [[mycelium]] contain a rich array of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
   - Polysaccharides (particularly beta-D-glucans) -- antitumour and
     immunostimulating activities
@@ -56,7 +56,7 @@ Key immunomodulatory effects:
     cytotoxicity, allowing complement system function against tumours
   - Macrophage activation causes anti-proliferation and apoptosis in
     HL-60 and U937 leukemic cells via IFN-gamma and TNF-alpha synergy
-  - LZ-8 protein mediates T cell activation via IL-2 regulation and
+  - LZ-8 protein mediates T [[mushroom-immune-cell-activation-mechanisms]] via IL-2 regulation and
     up-regulation of IL-2 receptor expression
   - LZ-8 induces ICAM-1 expression and production of IFN-gamma, TNF-alpha,
     and IL-1-beta; neutralising antibodies to IL-2 receptor and TNF-alpha
@@ -84,38 +84,7 @@ defined at the specific receptor level.
 
 ## Additional Medicinal Properties
 
-G. lucidum demonstrates a wide range of therapeutic effects beyond cancer:
+G. lucidum demonstrates a wide range of [[cbd-therapeutic-effects]] beyond cancer:
 
   - Reduces total cholesterol and LDL cholesterol
   - Lowers arterial blood pressure (via adenosine)
-  - Reduces blood glucose levels
-  - Anti-viral and anti-bacterial activity
-  - Antioxidant and free radical scavenging
-  - Improves insomnia and palpitations (clinical study in aged patients)
-
-## Related Species
-
-Ganoderma tsugae is a related species from which the immunomodulatory
-protein Fip-gts has been purified (Lin et al., 1997). G. applanatum has also
-shown bioactive polysaccharide fractions.
-
-## Safety
-
-Crude, water-soluble extracts from G. lucidum have been shown to be potent
-activators of human T lymphocytes with no significant toxicity reported.
-The mushroom's status as a cultivated (not wild-harvested) product ensures
-proper identification and relative purity.
-
-## Key Source
-
-Smith, Rowan and Sullivan (2002). [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]: Their therapeutic
-properties and current medical usage with special emphasis on cancer
-treatments. University of Strathclyde.
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[mushroom-immune-cell-activation-mechanisms]]
-- mushroom-cytokine-production-immune-activation
-- [[knf-water-soluble-phosphoric-acid-wspa]]
-
-## See Also
-
-- [[ganoderma-applanatum]]

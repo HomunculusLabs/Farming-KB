@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer urban gardening rubbish hugelkultur and the Rubbish hugelkultur
+title: Holzer Urban Gardening Rubbish Hugelkultur
 created: 2026-04-26
 tags:
   - urban-permaculture
@@ -10,12 +10,13 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
 
 # Holzer Urban Gardening and the Rubbish permaculture offers solutions for growing food even in the most
-challenging urban environments. From rooftops and balconies to rubbish tips
+challenging [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]]. From rooftops and balconies to rubbish tips
 and [[holzer-crater-gardens-hugelkultur]] with one key difference: the core is filled
 with collected waste materials rather than wood and [[hamilton-composting-and-organic-matter-management]]:
 
@@ -82,41 +83,8 @@ Built during a Tamera workshop from materials found at a junkyard:
 
 Watering can be done from the top via ladder or with a small [[mollison-designers-hand-pump-and-water-lifting-devices]] from
 a container on the ground. As internal material rots and sinks, the tower is
-refilled with organic matter from the top.
+refilled with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] from the top.
 
 ## The Permaculture Dream Mushroom
 
 A multifunctional structure conceived in a dream:
-- Art piece and communication centre
-- Landscape experiment and garden
-- Up to 7 metres high with a mushroom head of 14 metres diameter
-- Trunk approximately 4 metres, filled with earth and watered from inside
-- Roof grows herbs, flowers, and [[growing-soft-fruit-organically]]
-- Climbers (cucumbers, tomatoes, kiwis, grapes, melons) grow from the
-  trunk and cover the mushroom cap underside
-- Shaded grassy area underneath triples cultivation area
-- Picnic tables invite community gathering
-
-## The Permaculture Dream Pyramid
-
-An earthquake-proof house concept, also born in a dream:
-- Swims on a bed of gravel during earthquakes
-- Built in various sizes for individuals or families
-- Terraced exterior creates food-production gardens
-- Optional glass dome conservatory heated by interior warmth
-- Interior decorated with mosaics and coloured clay
-
-## Additional Urban Techniques
-
-### Mini-High Beds
-Small versions of [[holzer-high-beds-property-boundaries]], 0.7 to 1 metre wide and up to 2 to 3 metres high for front
-gardens.
-
-### Mini-Crater Gardens
-Built above ground from wood, concrete, metal, or rocks rather than dug
-into the earth. Filled with soil and humus with artificial banks creating
-a protected, warm interior.
-
-### Roof Gardens
-## See Also
-- [[hugelkultur]]

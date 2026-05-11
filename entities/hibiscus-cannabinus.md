@@ -31,7 +31,7 @@ regions worldwide.
 
 Under optimal conditions, kenaf can reach heights of 3.5–5 m in a single growing
 season of 90–150 days, making it one of the most productive terrestrial biomass
-plants known. This extraordinary growth rate, combined with low input
+plants known. This extraordinary [[soil-temperature-plant-growth-rate-doubling-rule]], combined with low input
 requirements, positions kenaf as a promising multi-purpose crop for regenerative
 agriculture systems.
 
@@ -64,8 +64,8 @@ photoperiod-sensitive, triggered by short days.
 
 Kenaf is believed to have originated in Africa, with a secondary center of
 diversity in the Indian subcontinent. The species is now cultivated across
-tropical and subtropical regions from West Africa through India, Southeast Asia,
-Central and South America, and the southern United States.
+tropical and subtropical regions from West Africa through India, [[psilocybe-southeast-asia-pacific]],
+Central and [[guzman-psilocybin-mushrooms-south-america]], and the southern [[dmt-containing-plants-united-states-halpern]].
 
 Optimal growth occurs at temperatures of 25–35°C with annual rainfall of
 500–1,500 mm. The plant is remarkably adaptable, tolerating both moderate
@@ -74,9 +74,9 @@ marginal, acidic, and saline soils unsuitable for food crops.
 
 ## Cultivation and Fiber Production
 
-Kenaf is typically direct-seeded at rates of 10–20 kg/ha. Seed germination
+Kenaf is typically direct-seeded at rates of 10–20 kg/ha. [[cannabis-seed-germination]]
 occurs within 3–5 days under warm, moist conditions. No herbicides are typically
-required once the crop is established, as rapid early growth suppresses weeds.
+required once the crop is established, as rapid [[cervantes-seedling-care-early-growth]] suppresses weeds.
 
 [[cannabis-harvest-timing-visual-cues]] depends on intended use. For fiber production, harvest at
 flowering (90–120 days) yields the highest bast fiber quality. For biomass
@@ -88,50 +88,3 @@ dry stem weight.
 
 Fiber extraction involves retting (microbial decomposition of pectins), followed
 by mechanical decortication. The resulting bast fibers are 2–6 mm long with
-tensile strength comparable to jute.
-
-## Permaculture Applications
-
-### Phytoremediation
-
-Kenaf has demonstrated exceptional capacity for soil remediation. Research has
-documented significant uptake of heavy metals including lead, cadmium, nickel,
-and chromium from contaminated soils. The species has been successfully deployed
-for restoration of industrial sites, mine tailings, and sewage-impacted lands.
-
-### Bioenergy and Building Materials
-
-Kenaf core fiber serves as a renewable feedstock for [[comparison-biochar-production-guide-vs-biochar-soil-amendment]], cellulosic
-ethanol, and pelletized fuel. The whole stalk can be processed into particleboard,
-insulation panels, and composite building materials that sequester carbon.
-
-### Agroecological Functions
-
-As a fast-growing cover crop, kenaf provides rapid biomass accumulation for green
-manure, soil [[hamilton-composting-and-organic-matter-management]] improvement, and [[permplant-willows-salix-erosion-control-fodder]]. Deep taproots
-improve soil structure and water infiltration.
-
-## Medicinal and Nutritional Uses
-
-Traditional medicine systems across Africa and Asia employ kenaf leaves, seeds,
-and roots. Leaves are consumed as a nutritious vegetable, rich in protein
-(12–20% dry weight), iron, calcium, and vitamins A and C.
-
-Leaves contain notable phytochemicals:
-
-- **Gossypetin:** A flavonoid with documented antioxidant and hepatoprotective
-  activity.
-- **Anthocyanins:** Contributing antioxidant and anti-inflammatory properties.
-- **Polysaccharides:** Immunomodulatory activity demonstrated in vitro.
-
-Seed oil is rich in linoleic acid (oleic-linoleic type) and has potential as a
-biodiesel feedstock and edible oil source.
-
-## See Also
-
-- [[hibiscus-syriacus]]
-
-- crotalaria-juncea
-- [[vicia-villosa]]
-- [[mycoremediation]]
-- [[blesching-cannabis-sativa-indica-classification]]

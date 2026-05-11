@@ -37,7 +37,7 @@ created: 2026-04-28
 
 Coriolopsis polyzona is a cosmopolitan polypore fungus in the family Polyporaceae, widely distributed across tropical and subtropical regions. It is a brown-rot decomposer found on dead hardwood, recognized by its zonate pore surface that bruises yellow.
 
-The species has attracted research interest for its diverse secondary metabolites, including triterpenoids, sterols, and phenolic compounds with antimicrobial and anti-inflammatory activities. In several African and Asian traditional medicine systems, fruiting bodies are used to treat infections, wounds, and inflammatory conditions.
+The species has attracted research interest for its diverse [[antifungal-secondary-metabolites-coprophilous-fungi]], including triterpenoids, sterols, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antimicrobial and anti-inflammatory activities. In several African and Asian traditional medicine systems, fruiting bodies are used to treat infections, wounds, and [[cannabis-for-inflammatory-conditions]].
 
 ## Taxonomy and Morphology
 
@@ -57,7 +57,7 @@ C. polyzona has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
 
 The fungus is exclusively found on dead wood of angiosperm trees, particularly in lowland tropical and subtropical forests. It is a white-rot decomposer capable of degrading both cellulose and lignin. Common substrate genera include Acacia, Eucalyptus, Terminalia, and various fruit trees.
 
-Fruiting occurs year-round in tropical climates, with peak sporulation during wet seasons. Specimens are commonly found on fallen logs, standing dead trees, and occasionally on cut timber.
+Fruiting occurs year-round in [[fukuoka-natural-farming-tropical-climates]], with peak sporulation during wet seasons. Specimens are commonly found on fallen logs, standing dead trees, and occasionally on cut timber.
 
 ## Bioactive Compounds
 
@@ -67,7 +67,7 @@ Phenolic compounds and sesquiterpenoids have also been isolated from the fruitin
 
 Ergosterol and related sterol derivatives are present in significant quantities. The total phenolic content of C. polyzona extracts is relatively high compared to other polypores, contributing to its antioxidant capacity.
 
-Polysaccharides extracted from the mycelium, primarily β-glucans, have demonstrated immunomodulatory activity in vitro. The specific structural features of these glucans and their receptor-binding properties remain under investigation.
+Polysaccharides extracted from the mycelium, primarily β-glucans, have demonstrated immunomodulatory activity in vitro. The specific [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of these glucans and their receptor-binding properties remain under investigation.
 
 ## Biological Activities
 
@@ -77,7 +77,7 @@ Anti-inflammatory effects have been demonstrated in cell-based assays, with meth
 
 Antioxidant activity, measured by DPPH and ABTS radical scavenging assays, is moderate to strong depending on the extraction solvent. Aqueous and ethanolic extracts show the highest antioxidant capacity.
 
-Cytotoxic activity against several human cancer cell lines has been reported, though the selectivity index remains low, limiting immediate therapeutic potential. Some isolated triterpenoids have shown promising activity against specific breast and colon cancer lines.
+Cytotoxic activity against several human cancer cell lines has been reported, though the selectivity index remains low, limiting immediate [[metzner-ayahuasca-therapeutic-potential]]. Some isolated triterpenoids have shown promising activity against specific breast and colon cancer lines.
 
 ## Ethnomycology and Traditional Use
 
@@ -88,32 +88,3 @@ In parts of India and Southeast Asia, it is used similarly for wound healing and
 The species is among a group of "tiger's milk" mushrooms referenced in some African traditional healing contexts, though this common name is applied to several different polypore genera.
 
 ## Cultivation
-
-C. polyzona has been successfully cultivated on various lignocellulosic substrates under laboratory conditions. Sawdust-based substrates supplemented with wheat bran or rice bran support adequate mycelial growth and fruiting.
-
-Optimal growth temperature ranges from 25–30°C, with relative humidity above 85% required for [[growing-gourmet-primordia-formation-pinning]]. The species is not currently cultivated commercially but shows potential as a source of bioactive compounds through solid-state fermentation.
-
-Mycelial cultivation in liquid culture has been explored for production of bioactive metabolites, particularly triterpenoids and polysaccharides. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] parameters including carbon source, nitrogen source, and agitation rate significantly influence metabolite yield.
-
-## Related Species
-
-Coriolopsis polyzona is closely related to C. sanguinea and C. byrsina, with which it shares habitat preferences and some morphological features. It can be distinguished from C. sanguinea by its zonate upper surface and yellow-bruising pore surface.
-
-The species was long treated as a member of Trametes (as T. polyzona), and specimens are still frequently confused with [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] in the field. The dimitic hyphal system and the distinctive yellow bruising of the pore surface separate C. polyzona from T. versicolor, which has a monomitic hyphal system.
-
-## Ecological Role
-
-As a white-rot decomposer, C. polyzona plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within tropical forest ecosystems. Its lignin-degrading enzyme system includes laccases, manganese peroxidases, and lignin peroxidases that break down recalcitrant woody material.
-
-The species contributes to carbon turnover in deadwood pools and creates microhabitats for invertebrates during the decay process. Its fruiting bodies serve as a food source for various fungivorous insects and small mammals.
-
-In agroforestry settings, C. polyzona has been observed accelerating the decomposition of pruning residues from leguminous trees, potentially releasing nutrients more rapidly for understory crops. This decomposition facilitation role is shared with other tropical polypores.
-
-## See Also
-
-- [[trametes-sanguinea]]
-- coriolopsis polyzona
-- [[fomitopsis-pinicola]]
-- [[fomes-fomentarius]]
-- [[pore-fungi-polyporaceae]]
-- [[white-rot-fungi]]

@@ -2,7 +2,7 @@
 
 ## Overview
 
-In "The Road Back to Nature," Masanobu Fukuoka devoted a remarkable chapter
+In "The Road Back to Nature," [[masanobu-fukuoka]] devoted a remarkable chapter
 to the way of life of the San people (Bushmen) of the Kalahari Desert, whom
 he saw as embodying the relationship with nature that modern civilization
 had lost. For Fukuoka, the Bushman was not a primitive to be pitied or
@@ -53,7 +53,7 @@ one path back to this state of unity.
 
 ## Nature Farming and the Bushman's Way
 
-Fukuoka drew explicit parallels between natural farming and the Bushman's
+Fukuoka drew explicit parallels between [[korean-natural-farming]] the Bushman's
 way of life. Both were based on the principle of non-intervention — of
 allowing nature to take its course rather than imposing human will upon it.
 Both recognized that nature is fundamentally self-sufficient and that human
@@ -68,7 +68,7 @@ opposite. He never tilled because he never farmed. He never applied
 fertilizer because he never depleted the soil. He never weeded because he
 never distinguished between crops and weeds. He never applied pesticides
 because he never created the conditions for pest outbreaks. For Fukuoka,
-the Bushman's way of life was the pure expression of Mahayana natural
+the Bushman's way of life was the pure expression of [[mahayana-natural-farming]]
 farming — farming that transcends the very concept of farming.
 
 ## Critique of the "Primitive" Label
@@ -88,46 +88,3 @@ The Bushman's simplicity was not poverty but sufficiency. He had enough
 food, enough shelter, enough companionship, and enough meaning in his life.
 He did not experience the anxiety, alienation, and meaninglessness that
 characterized modern civilization. His life was not easy — the Kalahari
-is a harsh environment — but it was complete in a way that civilized life
-was not. Fukuoka saw the Bushman as possessing a wisdom that modern science
-could not replicate or replace.
-
-## The World of Nothing
-
-Fukuoka connected the Bushman's consciousness to the Buddhist concept of
-Mu (nothingness or emptiness). The Bushman's mind was empty of the
-categories, distinctions, and judgments that filled the civilized mind.
-He did not classify plants into useful and useless, animals into good and
-bad, or weather into favorable and unfavorable. He simply observed and
-responded to what was. This emptiness was not ignorance — it was a form
-of knowledge that was more comprehensive and more accurate than the
-fragmented, analytical knowledge of the scientist.
-
-For Fukuoka, the path back to nature was ultimately a path toward this
-state of emptiness. It required not the accumulation of knowledge but the
-shedding of it. Not the development of new techniques but the abandonment
-of old ones. Not a closer engagement with nature but a quieter one — a
-willingness to listen rather than to speak, to observe rather than to
-act, to follow rather than to lead. The Bushman embodied this path. The
-natural farmer walked it. The rest of humanity had yet to take the first
-step.
-
-## Modern Relevance
-
-Fukuoka's reflections on the Bushman way of life resonate with contemporary
-interests in indigenous knowledge systems, deep ecology, and nature
-connection. Modern research in anthropology and ecology has confirmed many
-of Fukuoka's observations: indigenous peoples often possess sophisticated
-ecological knowledge, their land management practices can be more
-sustainable than scientific approaches, and their quality of life — measured
-by social connection, meaning, and life satisfaction — often exceeds that
-of affluent societies. The challenge, as Fukuoka recognized, is not to
-romanticize or preserve indigenous ways of life as museum pieces, but to
-learn from their underlying principles and apply those principles in
-modern contexts.
-
-## See Also
-
-- [[fukuoka-touching-the-great-spirit]]
-- [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-do-nothing-farming-philosophy]]

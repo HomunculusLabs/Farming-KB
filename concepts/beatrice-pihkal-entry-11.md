@@ -11,7 +11,7 @@ type: concept
 
 # BEATRICE (N-Methyl-DOM)
 
-**PIHKAL Entry #11**
+**[[2c-b-pihkal-entry-20]] #11**
 
 ## Chemical Identity
 
@@ -88,40 +88,7 @@ restlessness. Animal studies suggest the active level in man
 might be around 75 mg, but Shulgin expressed no intention of
 exploring this level: "I do not intend to explore this any
 further whatsoever, unless there is a compelling reason, and I
-see no such reason."
-
-N-methylation of psychedelic amphetamines consistently reduces
-psychedelic quality while introducing undesirable stimulant
-character, a finding that extends across the DOM/DOB/DOI family.
-
-## The Ten Classic Ladies Context
-
-BEATRICE is the second of Shulgin's Ten Classic Ladies, a
-systematic program to replace each of the ten unique hydrogen
-atoms in DOM with a methyl group. She represents methyl
-substitution for a hydrogen atom on the nitrogen atom of DOM.
-
-Named for Dante's Beatrice, who guides the poet through Paradise
-in the Divina Commedia. Other candidates existed (the Dutch
-Beatrijs of 14th-century religious literature; Berlioz's
-Beatrice from Beatrice and Benedict), but the Florentine Beatrice
-was the intended namesake.
-
-## Significance
-
-BEATRICE exemplifies the general finding that N-methyl homologues
-of psychedelic amphetamines are significantly less elegant, with
-reduced potency and increased stimulant character. This parallels
-findings across the phenethylamine/amphetamine class.
 
 ## See Also
-
-- [[2c-t-4-pihkal-entry-41]]
-- [[ariadne-pihkal-entry-8]]
-- [[boh-pihkal-entry-15]]
-- [[asb-pihkal-entry-9]]
-- [[b-pihkal-entry-10]]
-
-- [[dom]]
-- [[pihkal-mdma]]
-- [[pihkal-qualitative-effects-themes]]
+- [[beatrice-entity-pihkal]]
+- [[bod-pihkal-entry-14]]

@@ -1,17 +1,17 @@
 ---
-title: [[singh-fungal-interactions-with-heavy-metals-in-soil]] with Living Plant Surfaces
+title: Fungal Interactions Living Plant Surfaces
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Fungal Interactions with Living Plant Surfaces
 Fungi colonize living plant surfaces in diverse ways, ranging from
 obligate biotrophic parasites to saprobic epiphytes. The above-
 ground portions of plants — leaves, stems, flowers, and fruits —
-provide distinct habitats for specialized fungal communities. These
-interactions are critical to plant health, ecosystem function, and
+provide distinct habitats for specialized [[biodiversity-fungi-soil-fungal-communities]]. These
+interactions are critical to plant health, [[dighton-mycorrhizal-diversity-ecosystem-function]], and
 agricultural productivity.
 ## Powdery Mildews (Erysiphaceae)
 ### Biology
@@ -37,7 +37,7 @@ conidial stage on the host surface.
 - White, dusty conidial state coats leaf and stem surfaces
 - Infected tissues may be stunted or chlorotic
 - Black, globose perithecia less than 1mm diameter scattered over
-  mycelium
+  [[mycelium]]
 - Immature perithecia yellowish to orange; mature perithecia dark
 - Nonostiolate perithecia (cleistothecia) ornamented with hyphal
   appendages
@@ -67,7 +67,7 @@ plants or sap-sucking insects (aphids, scale) as nutrient source.
 - **Permanent**: Thick cushionlike black hyphal mats on twigs
 - Nothofagus forests (New Zealand) covered up to 9m height
 ## Black Mildews
-Obligate plant parasites in the order Meliolales (Ascomycota).
+Obligate plant parasites in the order Meliolales ([[ascomycota]]).
 More than 1,580 species; approximately 1,400 in genus Meliola.
 Dark, superficial, circular colonies with characteristic hyphopodia.
 Found from Chile to southern US, South Africa to Scotland, Japan to
@@ -80,22 +80,11 @@ genus: Micropeltis (100+ species). Mostly tropical and subtropical.
 Mycelium usually entirely superficial with haustoria in epidermal
 cells.
 ## Foliar Fungi as Bioindicators
-The composition of fungal communities on living plant surfaces
-reflects air quality, plant health status, microclimate conditions,
+The composition of [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on living plant surfaces
+reflects [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]], plant health status, microclimate conditions,
 insect activity (affecting honeydew availability), and seasonal and
-phenological patterns. Lichens and sensitive foliar fungi respond
+phenological patterns. [[lichens]] and sensitive foliar fungi respond
 to atmospheric pollution, making them useful monitoring organisms.
 ## Significance
 Fungi on living plant surfaces are important for plant disease and
 agricultural losses (powdery mildews), photosynthesis reduction
-(sooty molds blocking light), nutrient cycling (decomposition of
-honeydew and plant exudates), bioindication of air quality,
-biodiversity assessment of ecosystems, and understanding host-
-parasite coevolutionary dynamics. The economic impact of powdery
-mildews alone is substantial, affecting cereals, vegetables, fruits,
-and ornamental crops worldwide.
-## See Also
-- [[fungal-pathogens-in-agriculture]]
-- [[endophytic-fungi-plant-interactions]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]

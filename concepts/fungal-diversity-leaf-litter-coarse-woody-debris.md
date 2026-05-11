@@ -9,14 +9,14 @@ sources: []
 # Fungal Biodiversity in Leaf Litter and Coarse Woody Debris
 
 Leaf litter and coarse woody debris (CWD) constitute two of the most significant
-substrata for fungal decomposer communities in forest ecosystems. The fungal
-communities inhabiting these substrata drive nutrient cycling, carbon
+substrata for fungal decomposer communities in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. The fungal
+communities inhabiting these substrata drive [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], carbon
 mineralization, and energy flow through terrestrial food webs.
 
 ## Leaf Litter Fungal Communities
 
 Leaf litter supports a diverse assemblage of fungi, primarily microfungi, that
-play critical roles in decomposition and nutrient release. The fungal succession
+play critical roles in decomposition and [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]. The fungal succession
 on decomposing leaves follows predictable patterns shaped by resource
 availability, leaf chemistry, and environmental conditions.
 
@@ -30,7 +30,7 @@ The sequence of fungal colonization on fallen leaves follows a well-documented p
 - **Secondary colonizers**: primarily anamorphic Ascomycetes that degrade more
   complex polysaccharides, including cellulose and hemicellulose
 - **Late-stage decomposers**: Basidiomycetes and Pyrenomycetes capable of
-  lignin degradation, becoming dominant as simple carbon sources are exhausted
+  [[lignin-degradation]], becoming dominant as simple carbon sources are exhausted
 
 This successional sequence was described by Frankland (1992) and has been
 documented across numerous forest types. Polishook and colleagues (1996) used
@@ -44,8 +44,8 @@ communities. Leaf chemistry, including tannin and lignin content,
 carbon-to-nitrogen ratio, and [[fungal-elicitors-enhanced-secondary-metabolite-production]] concentrations, influences
 which fungi can colonize. Litter moisture content is a primary determinant of
 fungal activity and species composition. Seasonal temperature variation drives
-patterns in fungal sporulation and community turnover. Old-growth forests
-typically harbor greater fungal species richness than younger stands due to
+patterns in [[gadd-fungal-sporulation-aerobiology]] and community turnover. Old-growth forests
+typically harbor greater [[fungal-species-richness-and-diversity-indices]] than younger stands due to
 increased habitat heterogeneity.
 
 ## Coarse Woody Debris Fungal Communities
@@ -88,33 +88,3 @@ collapses and integrates with soil.
 
 Leaf litter and CWD support overlapping but distinct fungal communities. Litter
 communities are dominated by fast-growing Ascomycetes with short lifespans and
-high reproductive output, whereas CWD communities include larger, longer-lived
-Basidiomycetes that form extensive [[fungal-mycelial-networks-nutrient-translocation]]. Litter decomposition
-proceeds rapidly (months to a few years), while CWD decomposition can take
-decades to centuries, creating a long-term carbon sink.
-
-## Methods for Studying Fungal Diversity
-
-Modern molecular techniques, including high-throughput DNA sequencing of environmental samples, have dramatically expanded our understanding of fungal
-diversity in litter and CWD. Metabarcoding approaches using the ITS region
-reveal that culture-based methods capture only a fraction of true fungal
-diversity, though linking sequence data to functional roles remains challenging.
-Combining molecular surveys with fruiting body surveys, isolation cultures, and
-enzyme activity assays provides the most comprehensive picture of fungal community
-structure and function.
-
-## Ecological Significance and Conservation
-
-Fungal diversity in litter and CWD underpins critical ecosystem functions including
-carbon sequestration, nitrogen cycling, and soil formation. Forest management
-practices that reduce CWD, such as intensive logging and firewood removal, can
-substantially diminish fungal diversity and the [[biodiversity-of-fungi-ecosystem-services-agriculture]] it supports.
-Retaining coarse woody debris and allowing natural accumulation of litter are
-important strategies for maintaining fungal biodiversity.
-
-## See Also
-
-- [[fungal-ecosystem-roles]]
-- [[fungal-enzyme-wood-decay]]
-- [[query-how-does-lignin-degradation-by-fungi-work]]
-- [[fungal-leaf-litter-diversity]]

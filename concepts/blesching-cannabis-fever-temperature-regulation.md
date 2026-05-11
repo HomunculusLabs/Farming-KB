@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - ~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
 type: concept
 ---
@@ -34,7 +35,7 @@ long-term high fevers -- can kill.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 4
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 4
 
 ## Research Evidence
 
@@ -48,7 +49,7 @@ in the pathogenesis of lipopolysaccharide fever."
 
 ### CB1 Regulates Temperature Independently of Hypothalamus
 
-A 2007 study in Fukuoka, Japan, concluded that the endocannabinoid system,
+A 2007 study in Fukuoka, Japan, concluded that the [[endocannabinoid-system]],
 especially CB1, may regulate body temperature independently of the
 hypothalamus, which was previously assumed to be solely responsible for body
 temperature regulation. Researchers found increased CB1 receptors in the
@@ -87,23 +88,3 @@ higher affinity for CB2. Sativas or sativa-dominant strains tend to present
 with a higher THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]. Given that CB1 was implicated in fever
 regulation, strains with higher [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] may be more relevant for
 temperature regulation applications.
-
-## Mind-Body Medicine
-
-The body commonly responds to pathogen invasion with fever to "boil off" the
-invaders. In cases of mild invasion, low-grade fever suffices. For more
-serious threats, the body raises temperature and extends fever duration.
-However, high fever may depress consciousness, produce hallucinations,
-seizures, loss of consciousness, and sometimes death. It is as if a door to
-the unconscious has opened, unleashing uncontrollable experiences similar to
-the physical response to microbial invaders.
-
-Conflicting or opposing beliefs may generate invasive, intense, and
-paradoxical thoughts and emotions, creating overwhelming friction for a mind
-unprepared to release and transcend the tension constructively.
-
-## See Also
-
-- [[cannabis-for-epilepsy-and-seizure-disorders]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-neuroprotection]]

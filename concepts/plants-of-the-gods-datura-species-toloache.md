@@ -1,12 +1,12 @@
 ---
-title: "Datura Species: schultes-datura-holy-flower-north-star of the North Star"
+title: Plants Of The Gods Datura Species Toloache
 created: 2026-04-28
 tags:
   - ethnobotany
   - datura
   - solanaceae
   - tropane-alkaloids
-  - shamanism
+  - [[shamanism]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -22,7 +22,7 @@ The genus Datura comprises 14 to 16 species distributed in
 tropical and warm-temperate zones of both hemispheres. In both
 hemispheres, Datura played highly significant roles in native
 cultures. All types of Datura contain the hallucinogenic tropane
-alkaloids scopolamine, hyoscyamine, and some atropine. The effects
+alkaloids [[scopolamine]], [[hyoscyamine]], and some atropine. The effects
 of all species are similar since their constituents are so much
 alike.
 
@@ -30,7 +30,7 @@ alike.
 
 The most extensive use of Datura centers in Mexico and the
 American Southwest, where the most important psychoactive species
-seems to be Datura innoxia. This is the famous Toloache of Mexico,
+seems to be [[datura-innoxia]]. This is the famous Toloache of Mexico,
 one of the plants of the gods among the Aztecs and other Indians.
 
 Datura innoxia is a herbaceous perennial up to 3 feet (1 m) tall,
@@ -61,7 +61,7 @@ cm) long. The flowers are primarily violet.
 
 ## Datura stramonium: Thorn Apple
 
-Datura stramonium is an annual [[medicinal-herb-growing]] to about 4 feet (1.2
+[[datura-stramonium]] is an annual [[medicinal-herb-growing]] to about 4 feet (1.2
 m) with many-forked branches. The funnel-shaped flowers are
 5-pointed and among the smallest of the Datura species at 2-3
 inches (6-9 cm) long. The green egg-shaped fruit is covered with
@@ -88,40 +88,3 @@ The Yokut take the drug only during the spring, giving it to
 adolescent boys and girls only once in a lifetime to ensure a good
 and long life. The Tubatulabal drink Datura after puberty to
 "obtain life." The Yuman tribes believe that the reaction of
-braves under the influence of Toloache may foretell their future.
-The Navajo take Datura for visionary properties, valuing it for
-diagnosis, healing, and magical use.
-
-## Asian and African Use
-
-Datura metel is widely used in Asia. In northern India, Datura
-fruit is threaded into garlands and offered to the Hindu god Shiva.
-Datura was employed over wide areas of Asia in ancient times.
-In Africa, Datura is among the plants used in Kuma rituals, where
-women are possessed by spirits who use them as mediums.
-
-## Effects and Dangers
-
-Physiological activity begins with a feeling of lassitude and
-progresses into a period of hallucinations followed by deep sleep
-and loss of consciousness. In excessive doses, death or permanent
-insanity may occur. The psychoactivity is so potent that it is
-clear why indigenous peoples [[fungi-around-the-world-species-distribution]] have classed
-Datura species as plants of the gods.
-
-## Datura ceratocaula
-
-A curious species of Datura, so distinct it has its own section
-of the genus, is D. ceratocaula. Known as Torna Loco ("maddening
-plant"), it is a fleshy plant with thick, forking stems growing in
-bogs or water. In ancient Mexico, it was considered "sister of
-Ololiuqui" and was held in great veneration.
-
-## Related Topics
-
-- [[plants-of-the-gods-nightshade-hexing-herbs]] — nightshade
-  family hallucinogens including Atropa and Mandragora
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  [[plants-of-the-gods-chemical-structures-hallucinogens]] of tropane alkaloids
-- [[plants-of-the-gods-lophophora-peyote]] — contrasted with
-  Peyote in Mexican indigenous use

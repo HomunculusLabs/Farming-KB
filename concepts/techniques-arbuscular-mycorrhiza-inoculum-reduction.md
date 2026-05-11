@@ -26,14 +26,14 @@ The same basic techniques may be used for both, with dosage or intensity adjuste
 ## Solarization
 
 ### Method
-Soil is heated by covering with clear plastic film for 4-6 weeks during the hottest part of the year. Success depends on high solar radiation and appropriate moisture levels for maximum heat transfer.
+Soil is heated by covering with clear plastic film for 4-6 weeks during the hottest part of the year. Success depends on high solar radiation and appropriate moisture levels for maximum [[heat-transfer-coefficient]].
 
 ### Effects on AM Fungi
 - Can increase average daily soil temperature by 6-10 degrees C and maximum daily temperature by 10-16 degrees C at 5-20 cm depth
 - Indigenous AM fungal populations can be reduced to zero after 2-4 weeks (MPN method)
 - Effect varies by AM fungal species, inoculum form (hyphae more sensitive than spores), density, and host crop
 - Hyphal inoculum is particularly sensitive to high temperatures
-- Some species (e.g., Glomus intraradices) show tolerance and may survive
+- Some species (e.g., [[glomus-intraradices]]) show tolerance and may survive
 - Colonization of plants on solarized plots can occur within 5-6 weeks as remaining propagules (especially spores) recover
 
 ### Side Effects
@@ -48,16 +48,16 @@ Soil is heated by covering with clear plastic film for 4-6 weeks during the hott
 - Autoclave at 121 degrees C at 1.1 atm for minimum 20-30 min
 - Large volumes should be separated into smaller containers
 - Soil should not be packed; cotton material bags work well
-- Air-dry or moisture below 60% of holding capacity
+- Air-dry or moisture below 60% of [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]
 - Second cycle may be recommended after 24 h interval for resistant spores
 
 ### Effects
 - Efficient method for eliminating indigenous AM fungi
-- May alter soil structure and physicochemical properties
+- May alter soil structure and [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]]
 - Increases net mineralization (NH4+) but inhibits nitrification
 - Enhances extractable P content; slight pH increase
-- Promotes release of trace elements (Mn, Fe, Cu)
-- Elevated nutrient content may hamper root infection by AM fungi after re-inoculation
+- Promotes release of [[teaming-with-nutrients-micronutrients-and-trace-elements]] (Mn, Fe, Cu)
+- Elevated [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] may hamper root infection by AM fungi after re-inoculation
 - Changes in soil properties limit its adoption for establishing negative AM control
 
 ## Gamma Irradiation
@@ -87,21 +87,3 @@ Soil fumigation with volatile chemicals to eliminate microbial life.
 - Some alternatives less effective than methyl bromide
 
 ## Considerations for Method Selection
-
-1. **[[lightproof-cap-experimental-design-phototropism]] requirements**: Complete sterilization vs. partial reduction
-2. **Available facilities**: Autoclaves, irradiation sources, field conditions for solarization
-3. **Volume of soil**: Small lab samples vs. large field plots
-4. **Impact on soil properties**: Each method affects chemistry, physics, and biology differently
-5. **Recovery time**: Some methods allow faster recolonization than others
-6. **Environmental and safety concerns**: Chemical fumigants, radiation safety
-
-## Key Principle
-
-There is no such thing as a pure "fungal effect" or "plant effect" -- only an interaction between both symbionts, influenced by community size and structure, soil conditions, climatic factors, and their interplay. The choice of inoculum reduction technique must account for all these variables.
-
-## Related Topics
-
-- [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - Inoculant production
-- mycorrhizal-inoculant-production-methods
-- [[symbiotic-fungi-mycorrhizal-inoculum-production]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

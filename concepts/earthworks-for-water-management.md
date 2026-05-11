@@ -9,7 +9,7 @@ sources: []
 
 # Earthworks for Water Management
 
-Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in regenerative agriculture, permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
+Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in [[biochar]], permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
 
 ## Design Principles
 
@@ -37,9 +37,9 @@ Design for a 1-in-100-year storm as the maximum event. All spillways, overflows,
 
 ### Ponds
 
-Ponds store water on the surface for irrigation, livestock, wildlife habitat, fire protection, and aquaculture.
+Ponds store water on the surface for irrigation, livestock, [[hemenway-backyard-wildlife-habitat]], fire protection, and aquaculture.
 
-**Site Selection Criteria:**
+**Site [[cannabis-breeding-traits-selection-criteria-clarke]]:**
 - A suitable depression or valley where a dam can be economically constructed
 - Adequate catchment area to fill the pond (minimum 5:1 catchment-to-pond area ratio in moderate rainfall)
 - Impermeable soil (clay content >20%) or a suitable liner strategy
@@ -99,7 +99,7 @@ Swales with a slight grade that move water from one area to another. Unlike cont
 - Line with grass, gravel, or riprap to prevent erosion
 - End at a safe discharge point (pond, another swale, stable vegetated area)
 
-See [[swale-design-construction]] for detailed swale building techniques.
+See [[swale-design-construction]] for detailed swale [[mollison-designers-straw-bale-building-techniques]].
 
 ### Retention Basins
 
@@ -124,10 +124,10 @@ Level or nearly level platforms cut into slopes, creating flat planting areas an
 
 **Types:**
 - **Broad-base terrace**: Gentle, graded terrace for pasture or row crops. Less expensive, less disruptive.
-- **Bench terrace**: A level shelf with a steep riser. Used for intensive cropping on steep land.
+- **Bench terrace**: A level shelf with a steep riser. Used for [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]] on steep land.
 - **Paddy terrace**: Bench terrace with sealed bottom for flooded rice or other aquatic crops.
 
-**Design Considerations:**
+**[[mycoremediation-bioreactor-design-considerations]]:**
 - Spacing depends on slope: steeper slopes require more closely spaced terraces
 - Provide drainage for each terrace — water must be able to exit without overflowing the riser
 - The riser (vertical face) should be planted with grass or reinforced with stone

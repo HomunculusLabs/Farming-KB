@@ -2,7 +2,7 @@
 
 ## Overview
 Purchasing transplants from garden [[vegetable-garden-watering-systems-spacing]] centers is a common practice, but it carries
-significant risks that can undermine an entire growing season. Understanding how to
+significant risks that can undermine an entire [[extending-growing-season]]. Understanding how to
 assess seedling quality and properly harden off transplants is essential for
 gardeners who choose to buy rather than grow their own. Many garden [[vegetable-garden-watering-systems-spacing]] center
 transplants suffer from problems that are invisible at the point of purchase but
@@ -10,7 +10,7 @@ cause weeks of setback or outright failure after planting.
 
 ## The Transplant Problem: Why Direct Seeding Is Often Better
 Many vegetables should never be transplanted:
-- **Root vegetables** (beets, carrots, parsnips, turnips): Transplanting usually
+- **[[growing-root-vegetables-guide]]** (beets, carrots, parsnips, turnips): Transplanting usually
   fails to make useful roots. These must be direct-seeded.
 - **Corn**: The transplanting process hugely shocks its root system. Direct-seeded
   corn almost always outperforms transplanted corn.
@@ -18,7 +18,7 @@ Many vegetables should never be transplanted:
 
 Even for vegetables that can be transplanted (cabbage, broccoli, tomatoes, peppers),
 properly hardened-off direct-seeded plants often outgrow transplants within a few
-weeks because they never experience transplant shock.
+weeks because they never experience [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]].
 
 ## Six Quality Checks Before Buying Transplants
 
@@ -60,11 +60,11 @@ has been gradually exposed to outdoor conditions (wind, sun, temperature
 fluctuations) and has developed strong structural tissues.
 
 ### 6. Is the Seedling Top-Heavy?
-A seedling that looks lush and large relative to its pot size is likely top-heavy.
+A seedling that looks lush and large relative to its [[cervantes-container-gardening-pot-size]] is likely top-heavy.
 The root system is supposed to be balanced with the top, but commercial seedling
 growers face economic pressure to produce saleable-looking plants quickly. This
 often results in excessive top growth at the expense of root development, achieved
-by keeping the greenhouse warm at night and using liquid fertilizer.
+by keeping the greenhouse warm at night and using [[comfrey-tea-liquid-fertilizer]].
 
 ## Soft Seedlings: The Hardening Off Problem
 When plants are grown at high temperatures, particularly at night, they grow
@@ -88,45 +88,3 @@ moved directly outdoors:
    systems can't supply enough water, and the seedling wilts.
 4. **Disease vulnerability**: A weakened seedling becomes susceptible to diseases
    and insects that wouldn't normally harm a healthy plant.
-
-## Proper Hardening Off Procedure
-A properly hardened seedling goes through a graduated transition:
-1. **Start in greenhouse** (warm, no wind, filtered light).
-2. **Move to cold house**: A structure with a roof but open sides that lets in
-   wind and cool air while providing minimal frost protection. The seedling
-   grows in this more natural environment for two to three weeks.
-3. **Final outdoor exposure**: Gradual exposure to full conditions.
-
-The result is a smaller, wirier-looking seedling that is tough, well-rooted, and
-ready to grow immediately upon transplanting.
-
-## Economic Considerations
-Garden center transplants represent a significant economic risk:
-- Multiple replantings when seedlings fail add up quickly.
-- Mislabeled varieties produce disappointing results regardless of care.
-- Pot-bound and soft seedlings waste weeks of the growing season.
-- The money invested in seedlings, fertilizer, and soil amendments may not be
-  recovered in harvest value.
-
-Growing your own transplants from seed is almost always more economical, and
-direct-seeding whenever possible is the most cost-effective approach.
-
-## What to Do Instead
-1. **Buy seeds**, not seedlings, for most vegetables.
-2. **Direct-seed** root vegetables, corn, beans, peas, and lettuce.
-3. **Start seeds indoors** for crops that benefit from transplanting (tomatoes,
-   peppers, eggplant) using your own potting mix.
-4. **If buying transplants**, inspect carefully: reject pot-bound, soft, or
-   top-heavy seedlings. Prefer smaller, wirier, well-rooted plants.
-5. **Harden off** any purchased transplants gradually over 7-10 days before
-   planting out.
-
-## Source
-- Solomon, S. *Gardening When It Counts*. Chapter 4 — Garden Centers and
-  Transplants. Lines 3200-3500 of the full text.
-
-## See Also
-- [[soil-temperature-and-plant-growth-solomon]]
-- [[clay-soil-management-vegetable-garden-solomon]]
-- [[seedbed-preparation-and-tilth-solomon]]
-- [[complete-organic-fertilizer-cof-solomon]]

@@ -1,10 +1,10 @@
 ---
-title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Dose and Effects
+title: Hallucinogenic Mushroom Dose And Effects
 tags: [pharmacology, dosing, effects, subjective-experience, psilocybin, mushrooms, toxicity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An Emerging Trend Case Study (2006)created: 2026-05-07
+  - EMCDDA Thematic Paper: emcdda-hallucinogenic-mushrooms-emerging-trend-europe, An emcdda-epod-project-emerging-trend-detection-methodology Case Study (2006)created: 2026-05-07
 type: concept
 
 created: 2026-05-07
@@ -14,13 +14,13 @@ created: 2026-05-07
 
 ## Overview
 
-The effects of hallucinogenic mushrooms depend on dose, individual sensitivity, prior experience, set (mental state), and setting (environment). The primary effects involve the central nervous system, with additional sympathomimetic effects. Subjective experiences vary greatly between individuals and even between episodes for the same person.
+The effects [[health-risks-of-hallucinogenic-mushrooms]] depend on dose, individual sensitivity, prior experience, set (mental state), and setting (environment). The primary effects involve the central nervous system, with additional sympathomimetic effects. Subjective experiences vary greatly between individuals and even between episodes for the same person.
 
 ## Potency Variation
 
 [[pf-tek-mushroom-potency-and-age-relationship]] depends on multiple factors:
 
-- **Species and variety**: [[psilocybe-azurescens]] and [[psilocybe-cubensis]] contains up to 0.6% psilocybin and psilocin combined.
+- **Species and variety**: [[psilocybe-azurescens]] and [[psilocybe-cubensis]] contains up to 0.6% [[hplc-analysis-of-psilocybin-and-psilocin]] combined.
 - **Origin and growing conditions**: substrate composition, temperature, humidity, and light exposure all influence alkaloid profiles
 - **Age**: potency changes as mushrooms mature; younger specimens may differ from mature ones
 - **Preparation**: drying concentrates active compounds approximately 10:1 relative to fresh weight
@@ -68,14 +68,14 @@ Some user reports describe smoking dried mushrooms, said to produce faster but m
 
 ### Intravenous Injection
 
-Isolated literature references exist regarding intravenous injection of mushroom extracts, which reportedly produces more severe acute effects. This route carries significant additional risk and is not a common practice.
+Isolated literature references exist regarding intravenous injection of mushroom extracts, which reportedly produces more severe [[psilocybin-mushroom-dosage-and-acute-effects]]. This route carries significant additional risk and is not a common practice.
 
 ## Onset and Duration
 
 - **Onset**: 10 to 60 minutes after ingestion, depending on modality, physical condition, food intake, and individual metabolism
 - **Peak effects**: typically 1.5 to 3 hours post-ingestion
 - **Duration of primary effects**: 2 to 6 hours
-- **After-effects**: an additional 2 to 6 hours, commonly including difficulty sleeping, residual perceptual changes, and emotional processing
+- **After-effects**: an additional 2 to 6 hours, commonly including difficulty sleeping, residual perceptual changes, and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 
 The experience is most commonly described by users as "tripping."
 
@@ -88,54 +88,3 @@ The experience is most commonly described by users as "tripping."
 - Increased energy and euphoria
 - Visual enhancement (brighter colours, enhanced patterns)
 - Visual disturbances (moving surfaces, waves, geometric patterns)
-- Mental stimulation and novel insights
-- Quickly changing emotions
-- Altered perception of time (time dilation)
-
-### Negative Effects ("Bad Trips")
-
-- Restlessness and motor incoordination
-- Anxiety and panic reactions
-- Impaired judgment of time and distance
-- Feelings of unreality or depersonalisation
-- Delusions and altered perception of real events
-- Bizarre and frightening imagery
-- Severe paranoia and total loss of reality
-- Psychosis-like states
-
-Bad trips are usually followed by faintness, sadness, depression, and paranoid interpretations that may persist for days, weeks, or even months. Nearly a quarter of recent users in one UK clubbing survey reported experiencing a panic attack.
-
-## Acute Physiological Effects
-
-## See Also
-
-- [[psilocybe-cubensis]]: the most commonly cultivated hallucinogenic mushroom
-- [[hallucinogenic-mushroom-prevalence-europe]]: epidemiological patterns
-- [[psilocybe-semilanceata]] (liberty caps), found in wet grassy fields and uncultivated pastures, particularly in the UK, Norway, and Germany. Other wild European species include [[psilocybe-bohemica]], and [[psilocybe-moravica]], particularly in the Czech Republic.
-
-The risk of misidentification with toxic species such as members of the Galerina genus (which contain lethal amatoxins, the same toxins found in the death cap) represents a serious health hazard for wild foragers. This risk is a significant barrier to widespread wild harvesting and supports the predominance of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the commercial market.
-
-## Interaction with Other Substances
-
-The effects of hallucinogenic mushrooms can be significantly altered by concurrent use of other substances:
-
-- **Alcohol**: may increase nausea and reduce the clarity of the [[leary-psychedelic-experience-bardo-mapping]]. One UK fatality involved mushrooms consumed with alcohol
-- **Cannabis**: commonly combined; may intensify visual effects but also increase anxiety and confusion
-- **Stimulants (amphetamine, cocaine, MDMA)**: can increase cardiovascular strain and create unpredictable psychological effects
-- **MAO inhibitors**: theoretically could affect metabolism of tryptamines, though specific interactions with psilocybin are not well documented
-- **SSRIs and other antidepressants**: may significantly attenuate psychedelic effects through 5-HT2A receptor downregulation
-- **Benzodiazepines**: used therapeutically to manage acute adverse reactions; will diminish or abort the psychedelic experience
-
-## Harm Reduction Principles
-
-Evidence-based harm reduction for hallucinogenic mushroom use includes:
-
-- Start with a low dose to gauge individual sensitivity
-- Use in a safe, comfortable, and familiar environment with trusted individuals present
-- Avoid use when experiencing psychological distress or unstable mental states
-- Do not combine with alcohol or other psychoactive substances
-- Have a sober "trip sitter" available who can provide reassurance if needed
-- Allow adequate time between doses due to rapid tolerance development
-- Do not drive or operate machinery during or after use
-- Source mushrooms from reliable channels to avoid toxic misidentification
-- If experiencing a difficult trip, change the setting, focus on breathing, and remind oneself that effects are temporary

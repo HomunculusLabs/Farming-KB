@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mushroom photography requires specific techniques different from general nature photography. Fungi are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+Mushroom photography requires specific techniques different from general nature photography. Fungi are often small, grow in low-light forest environments, and have challenging shapes and textures. This guide covers equipment, lighting, composition, and specialized techniques for capturing compelling mushroom images.
 
 ## Equipment
 
@@ -23,7 +23,7 @@ Mushroom photography requires specific techniques different from general nature 
 ### Lenses
 - **Dedicated macro lens (90-105mm)**: Primary lens for mushroom photography; 1:1 magnification
 - **Short telephoto (70-200mm)**: Isolates subjects against blurred backgrounds
-- **Wide-angle (16-35mm)**: Environmental shots showing mushroom habitat
+- **Wide-angle (16-35mm)**: Environmental shots showing [[psilocybin-mushroom-habitat-and-ecology]]
 - **Extension tubes**: Budget option to add macro capability to existing lenses
 - **Close-up filters**: Inexpensive screw-on lenses; lower optical quality but portable
 
@@ -36,7 +36,7 @@ Mushroom photography requires specific techniques different from general nature 
 ### Accessories
 - **Reflector (white/silver/gold)**: Bounces available light into shadow areas
 - **Diffuser**: Softens harsh direct light; a white plastic bag works in a pinch
-- **LED panel or headlamp**: For focus assistance in low light; avoid harsh direct flash
+- **LED panel or headlamp**: For focus assistance in [[darkness-low-light-facilitation-entheogenic-ceremonies]]; avoid harsh direct flash
 - **Remote shutter release**: Prevents camera shake during long exposures
 - **Rain cover**: Forest environments are often wet
 - **Small spray bottle**: For misting subjects to add visual appeal (use water only)
@@ -83,12 +83,12 @@ Mushroom photography requires specific techniques different from general nature 
 - Shallow depth of field isolates subject from busy forest backgrounds
 - Position camera so background is as far as possible behind the subject
 - Look for natural frames (ferns, branches, moss) around mushrooms
-- Include habitat context: the forest floor, associated tree species
+- Include habitat context: the [[fungal-ecology-forest-floor]], associated tree species
 - Clean distracting elements (leaves, twigs) from immediate background area
 
 ### Groupings and Patterns
 - Clusters of mushrooms create natural repetition and visual interest
-- Fairy rings and arc patterns document ecological phenomena
+- [[fairy-rings-and-giant-mycelia]] arc patterns document ecological phenomena
 - Sequence shots showing growth stages tell biological stories
 - Multiple species in one frame shows community interactions
 
@@ -145,6 +145,6 @@ For documentation and identification purposes:
 - Stem (base to top, any ring or volva)
 - Cross-section (cut in half vertically)
 - Habitat (surrounding trees, soil type, associated plants)
-- Spore print (if possible)
+- [[boil-a-bag-spore-print-technique-jarrold]] (if possible)
 
 ### Time-Lapse

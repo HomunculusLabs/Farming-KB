@@ -20,7 +20,7 @@ A widespread misconception in gardening is that legumes generously share
 their nitrogen with neighboring plants during the [[savory-growing-season-and-non-growing-season-management]]. In
 reality, the availability of fixed nitrogen in legume plants follows a
 precise and somewhat counterintuitive pattern that is governed by the
-plant's growth stage. Understanding when and how nitrogen becomes
+plant's [[cannabis-growth-stage-checklist]]. Understanding when and how nitrogen becomes
 available is critical for making effective use of legumes in garden
 planning and [[comparison-crop-rotation-vs-cover-cropping]].
 
@@ -33,14 +33,14 @@ roots of legumes take large amounts of nitrogen out of the air and make
 it available to the roots of other plants." While it is true that
 legumes improve soil by adding nitrogen to it, very little if any of
 the nitrogen gathered by a bean plant is shared with a corn plant
-during the current growing season.
+during the current [[extending-growing-season]].
 
 The nitrogen accumulated by the bean's root nodules is directed
 primarily toward the bean's own seeds. There are almost no studies
 demonstrating improved yield in corn grown with beans. Studies showing
 greater yields from legume-grass intercropping come from tropical
-regions and are not applicable to temperate climates like those in the
-United States. However, there is strong evidence for the well-known
+regions and are not applicable to [[fukuoka-natural-farming-temperate-climates]] like those in the
+[[dmt-containing-plants-united-states-halpern]]. However, there is strong evidence for the well-known
 practice of planting legumes in rotation with grains, corn, and cereal
 crops.
 
@@ -54,7 +54,7 @@ from the nitrogen-fixing bacteria in root nodules, while the other half
 is absorbed from the soil through normal root processes.
 
 This pre-flowering stage is the optimal time to terminate a legume
-cover crop and incorporate it into the soil. The green, nitrogen-rich
+[[coleman-cover-crop-rotation-and-soil-health]] and incorporate it into the soil. The green, nitrogen-rich
 foliage will decompose relatively quickly, releasing a substantial
 pulse of plant-available nitrogen for the subsequent crop. The
 nitrogen is most accessible to other plants at this stage because it
@@ -84,42 +84,7 @@ nodules, and remaining stem and leaf material contain minimal nitrogen.
 If the entire plant is removed from the garden (as when harvesting
 bean pods and pulling up plants), the net nitrogen contribution to the
 soil may actually be negative, since the legume absorbed soil nitrogen
-during early growth before the nodules became fully functional.
+during [[cervantes-seedling-care-early-growth]] before the nodules became fully functional.
 
 To maximize the nitrogen benefit, the entire legume plant should be
 incorporated into the soil before flowering. If the legume is being
-grown for food, the post-harvest residue should be composted and
-returned to the garden to recycle whatever nitrogen remains in the
-plant material.
-
-## Timing Strategies for Maximum Nitrogen
-
-The practical implications for gardeners are clear. To extract the
-maximum nitrogen benefit from legumes, timing is everything. The
-following strategies can help optimize nitrogen availability:
-
-1. Till in legume cover crops before flowering for maximum nitrogen
-   release to the following crop.
-2. If growing legumes for seed, leave the root systems in place and
-   compost the above-ground residue.
-3. Plan crop rotations so that nitrogen-demanding crops follow legume
-   cover crops rather than growing alongside them.
-4. Consider using legume-green manure combinations that include
-   fast-growing annual species that can be terminated quickly.
-
-## Nitrogen Comparison with Vegetable Needs
-
-The amount of nitrogen that different legumes can provide varies
-enormously, from as little as 40 pounds per acre for field beans to as
-much as 250 pounds per acre for alfalfa. To put this in perspective,
-heavy-feeding vegetables like corn, beans, tomatoes, and cantaloupes
-require nitrogen levels comparable to what only the most productive
-legumes like alfalfa can supply. Lighter feeders like lettuce, squash,
-and broccoli can be adequately supported by moderate nitrogen fixers
-such as soybeans or Dutch white clover.
-
-## See Also
-- [[cannabis-nitrogen]]
-- [[legume-nitrogen-yields-by-species]]
-- [[holzer-green-manure-and-soil-building-plants]]
-- [[query-how-do-legumes-add-nitrogen-to-soil]]

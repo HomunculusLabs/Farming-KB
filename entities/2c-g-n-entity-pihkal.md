@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G-N
 
-PIHKAL entry #31. 1,4-Dimethoxynaphthyl-2-ethylamine.
+[[2c-b-pihkal-entry-20]] #31. 1,4-Dimethoxynaphthyl-2-ethylamine.
 
 ## Dosage and Duration
 
@@ -87,12 +87,4 @@ to stand at room temperature for 0.5 h which produced a deep claret
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-h-entity-pihkal]] -- 2C-H (PIHKAL #32)
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.

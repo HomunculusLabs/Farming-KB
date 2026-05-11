@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Stevenson, D.W.M. (1987). "Monograph of Zamiaceae." PhD Thesis, Cornell University.
   - Norstog, K.J. & Nicholls, T.J. (1997). "The Biology of the Cycads." Cornell University Press.
-  - González-Astorga, J. et al. (2008). "Genetic diversity of Dioon edule." Botanical Journal of the Linnean Society, 156(2), 221-229.
+  - González-Astorga, J. et al. (2008). "[[biodiversity-fungal-genetic-diversity]] of Dioon edule." Botanical Journal of the Linnean Society, 156(2), 221-229.
   - IUCN Red List (2020). "Dioon edule." IUCN Red List of Threatened Species.
   - Osborne, R. et al. (2012). "A Cycad Classification: Concepts and Recommendations." CIBA Foundation Symposium.
 ---
@@ -40,7 +40,7 @@ Male cones are cylindrical, 15 to 40 cm long and 4 to 8 cm in diameter, and brow
 
 Seeds are ovoid, 2.5 to 4 cm long, with a white, starchy sarcotesta that is edible when properly prepared. Each female cone typically produces 80 to 200 seeds.
 
-The root system consists of a coralloid root zone near the soil surface that harbors cyanobacteria capable of nitrogen fixation. This symbiotic association supplements the plant's nutrient uptake in the nutrient-poor soils of its native habitat.
+The root system consists of a coralloid root zone near the soil surface that harbors cyanobacteria capable of [[biological-nitrogen-fixation-agriculture]]. This symbiotic association supplements the plant's [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in the nutrient-poor soils of its native habitat.
 
 Young leaves emerge in a distinctive flush, initially covered with dense tan tomentum that gives them a silvery appearance. As the fronds expand and harden, the tomentum is shed, revealing the dark green, glossy leaflets characteristic of mature foliage.
 
@@ -60,11 +60,11 @@ Several distinct populations exhibit morphological variation that reflects adapt
 
 Dioon edule is one of the most cold-tolerant cycads, surviving brief freezes to approximately -10°C. This cold hardiness makes it a popular ornamental for Mediterranean and warm-temperate climates.
 
-Plants prefer full sun to partial shade and well-drained soils. They are drought-tolerant once established but respond well to regular irrigation during the growing season.
+Plants prefer full sun to partial shade and well-drained soils. They are drought-tolerant once established but respond well to regular irrigation during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Propagation is primarily from seed, which requires scarification and soaking before germination. Germination typically occurs within 1 to 3 months at temperatures of 25 to 30°C.
 
-Seeds contain the neurotoxic amino acid beta-methylamino-L-alanine (BMAA), which must be removed through extensive processing before human consumption. Traditional preparation methods involve prolonged leaching and cooking of the sarcotesta.
+Seeds contain the neurotoxic amino acid beta-methylamino-L-alanine (BMAA), which must be removed through extensive processing before human consumption. [[kava-traditional-preparation-ceremonial-context]] methods involve prolonged leaching and cooking of the sarcotesta.
 
 Growth is extremely slow, with mature specimens in cultivation often requiring 20 to 50 years to develop a visible trunk. offsets can be removed from mature female plants, though this is seldom done.
 
@@ -86,35 +86,4 @@ Ex situ conservation collections exist at botanical gardens worldwide, including
 
 Climate change poses an emerging threat to Dioon edule populations. Projected increases in temperature and decreases in precipitation in eastern Mexico could reduce the extent of suitable habitat, particularly for populations at the lower elevational limits of the species' range.
 
-Several subspecies and populations have highly restricted ranges and face acute extinction risk. Conservation genetics studies indicate moderate to high genetic diversity within populations, suggesting potential for recovery if habitat is preserved.
-
-## Ecological Role
-
-Dioon edule provides a structural habitat element in tropical deciduous and oak woodland ecosystems. The large, persistent leaf crowns offer shelter for small vertebrates and invertebrates.
-
-The genus Dioon is considered a living fossil, with a fossil record extending back to the Cretaceous period. Dioon edule represents one of the most northern distributed members of the genus and is a key species for understanding cycad biogeography in the Neotropics.
-
-The starchy seeds are an important food source for several mammal species, including white-nosed coatis, agoutis, and various rodents. These animals serve as primary seed dispersers.
-
-Indigenous communities in eastern Mexico have traditionally harvested Dioon edule seeds as a food source. The sarcotesta is removed and the kernel is ground into flour for tortillas and tamales, a practice that predates Spanish colonization.
-
-Cycad-specific pollinators, including weevils in the genus Pharaxonotha, are associated with Dioon edule male cones. The mutualistic relationship between cycads and their beetle pollinators is among the oldest known plant-insect interactions, dating to the Mesozoic era.
-
-The species contributes to soil stabilization on steep slopes and rocky outcrops. Its deep root system helps prevent erosion in watershed areas of the Sierra Madre Oriental.
-
-Fire plays a role in the ecology of Dioon edule habitats. While the thick caudex and leaf bases provide some protection from low-intensity fires, severe wildfires can kill above-ground foliage. Recovery from fire damage is slow due to the species' low growth rate.
-
-Dioon edule occupies a mid-successional niche in its forest communities. It persists in the understory of mature oak-pine forests but can also colonize open, disturbed sites where competition from faster-growing woody species is limited.
-
-## See Also
-
-- [[cycas-revoluta]]
-- [[ginkgo-biloba]]
-- [[araucaria-araucana]]
-- [[pinus-sylvestris]]
-- [[cedrus-libani]]
-- [[taxodium-distichum]]
-- [[metasequoia-glyptostroboides]]
-- [[ephedra-sinica]]
-- [[juniperus-virginiana]]
-- [[pinus-pinea]]
+Several subspecies and populations have highly [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]] and face acute extinction risk. Conservation genetics studies indicate moderate to high genetic diversity within populations, suggesting potential for recovery if habitat is preserved.

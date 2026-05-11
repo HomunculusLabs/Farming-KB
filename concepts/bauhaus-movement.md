@@ -1,5 +1,5 @@
 ---
-title: "bauhaus movement"
+title: Bauhaus Movement
 created: 2026-04-28
 updated: 2026-05-06
 sources:
@@ -11,10 +11,10 @@ type: concept
 # Bauhaus Movement
 ## Overview
 The Bauhaus was a German school of art, design, craft, and architecture founded in 1919.
-It became one of the most influential design movements of the twentieth century.
+It became one of the most influential design movements of the [[coleman-louis-savier-twentieth-century-maraicher]].
 The school sought to reunite artistic creativity with practical production.
 Its name means building house, but its scope extended far beyond architecture.
-Bauhaus teachers and students worked in furniture, typography, textiles, metalwork, theater, photography, and urban design.
+Bauhaus teachers and students worked in furniture, typography, textiles, metalwork, theater, photography, and [[permaculture-urban-design]].
 The movement is associated with clarity, functionalism, geometric form, and modern materials.
 It rejected excessive ornament in favor of purposeful construction.
 Its influence can be seen in modernist architecture, graphic design, product design, and design education.
@@ -48,7 +48,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,26 +88,3 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
-See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

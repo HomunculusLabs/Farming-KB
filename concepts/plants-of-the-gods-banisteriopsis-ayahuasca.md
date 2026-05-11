@@ -1,5 +1,5 @@
 ---
-title: "Banisteriopsis caapi: Ayahuasca — Vine of the Soul"
+title: Plants Of The Gods Banisteriopsis Ayahuasca
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -20,7 +20,7 @@ type: concept
 
 Ayahuasca is the most important hallucinogenic plant complex in
 the western Amazon basin, consumed ceremonially across vast areas of
-South America. Known by many names — Ayahuasca, Caapi, Yaje,
+[[guzman-psilocybin-mushrooms-south-america]]. Known by many names — Ayahuasca, Caapi, Yaje,
 Natema, Pinde — the drink is prepared primarily from the bark of
 giant forest lianas belonging to the genus Banisteriopsis
 (Malpighiaceae). The term Ayahuasca derives from the Quechua
@@ -51,7 +51,7 @@ The bark of Banisteriopsis caapi and B. inebrians is prepared in
 cold water or after long boiling. It may be taken alone, but various
 plant additives are often used to alter the effects of the drink.
 Especially important are the leaves of Diplopterys cabrerana, known
-as Oco-Yaje, and Psychotria viridis (Chacruna). These additives
+as Oco-Yaje, and [[chacruna-psychotria-viridis]] (Chacruna). These additives
 contribute N,N-dimethyltryptamine (DMT) to the brew.
 
 The liana contains MAO (monoamine oxidase) inhibitors, primarily
@@ -79,7 +79,7 @@ the social order" (Reichel-Dolmatoff).
 
 ## Ritual Context
 
-Ayahuasca is usually drunk in religious ceremonies. The famous
+Ayahuasca is usually drunk in [[entheogenic-folk-religious-ceremonies]]. The famous
 Tukanoan Yurupari ceremony in Colombia is an adolescent
 [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] for boys that involves the consumption of this
 drink. The ceremony is one of the most important cultural events
@@ -88,48 +88,3 @@ through the experience of the sacred plant.
 
 In the northwestern Amazon, there is also recent evidence that
 the plants are used in the form of a snuff, expanding the
-traditional methods of consumption beyond the well-known drink
-preparation.
-
-## Chemistry and Effects
-
-The hallucinogenic activity of Ayahuasca is primarily due to
-harmine, the major beta-carboline alkaloid in the Banisteriopsis
-vines. The bark contains a complex mixture of beta-carboline
-alkaloids that act as MAO inhibitors. When companion plants
-containing DMT — such as Psychotria viridis or Diplopterys
-cabrerana — are added, the result is a powerful orally active
-hallucinogenic brew.
-
-Effects of taking the bitter and nauseating drink range from
-pleasant intoxication with no hangover to violent reactions with
-sickening aftereffects. Usually, visual hallucinations in color
-occur. The intoxication ends with a deep sleep and dreams. The
-experience is often described as profoundly visionary and
-transformative.
-
-## Ayahuasca Analogs
-
-The concept of Ayahuasca has expanded beyond the traditional
-Amazonian preparation. Other plants containing beta-carboline
-alkaloids, such as [[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue), can serve as
-MAO inhibitors. Combined with DMT-containing plants like
-Phalaris grass or [[entheogen-jurema-mimosa-hostilis-ethnobotany]], these create what are called
-"Ayahuasca analogs." [[entheogen-tetrapteris-methystica-alternative-caapi]], used by the nomadic
-Maku Indians of the Rio Tikie in the northwestern Amazon, is
-another example of an Ayahuasca-like preparation.
-
-Brunfelsia species serve as Ayahuasca additives in the western
-Amazon. Tabernaemontana sananho is considered a "memory plant"
-and is added to Ayahuasca to enhance recall of visions. These
-complex botanical preparations demonstrate the sophisticated
-ethnopharmacological knowledge of Amazonian peoples.
-
-## Related Topics
-
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  [[plants-of-the-gods-chemical-structures-hallucinogens]] of beta-carbolines and tryptamines
-- [[plants-of-the-gods-geography-hallucinogenic-plants]] —
-  geographic distribution of hallucinogenic plants
-- [[plants-of-the-gods-hallucinogens-medicine]] — medical
-  applications of hallucinogenic compounds

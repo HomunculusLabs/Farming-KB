@@ -5,7 +5,7 @@ type: species
 tags:
   - fabaceae
   - leguminous-plant
-  - permaculture
+  - [[permaculture]]
   - medicinal-plant
   - groundcover
   - nitrogen-fixer
@@ -38,7 +38,7 @@ since the 19th century and a popular ornamental curiosity plant.
 Beyond its novelty value, the species has traditional medicinal uses in
 Ayurvedic and folk medicine across South and [[psilocybe-southeast-asia-pacific]], and it
 serves practical roles in permaculture as a nitrogen-fixing groundcover
-and green manure crop.
+and [[holzer-green-manure-crop-compendium]].
 
 ## Taxonomy and Morphology
 
@@ -78,7 +78,7 @@ cease movement in prolonged darkness.
 Native to tropical and subtropical regions of South and Southeast Asia,
 from India and Bangladesh through Myanmar, Thailand, Vietnam, and
 southern China. Widely introduced and naturalized in tropical Africa,
-the Americas, and Pacific islands.
+the Americas, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 - **Habitat:** Open grasslands, forest edges, roadsides, and disturbed
   areas at 100–1,500 m elevation
@@ -88,62 +88,3 @@ the Americas, and Pacific islands.
   best in well-drained loams
 - **Invasiveness:** Listed as invasive in some Pacific islands and
   tropical Australia due to prolific [[cervantes-seed-production-storage]] and dense
-  groundcover formation
-
-## Bioactive Compounds and Pharmacology
-
-Traditional use of the telegraph plant focuses on leaves and young shoots,
-though modern pharmacological research remains limited. Reported activities
-include:
-
-- **Anti-inflammatory:** Leaf extracts inhibit COX-2 and reduce
-  carrageenan-induced paw edema in animal models
-- **Antioxidant:** Methanolic extracts show significant DPPH radical
-  scavenging activity, attributed to flavonoid glycosides
-- **Antimicrobial:** Active against *Staphylococcus aureus* and
-  *Escherichia coli* in vitro
-- **Hepatoprotective:** Traditional liver tonic use supported by animal
-  studies showing reduced ALT/AST elevation
-- **Wound healing:** Leaf paste applied topically in folk medicine; animal
-  models show accelerated wound contraction
-
-In Ayurveda, the plant is classified as a bitter tonic used for fevers,
-coughs, and digestive complaints.
-
-## Permaculture and Agroforestry Applications
-
-The telegraph plant offers several practical benefits in designed
-ecosystems:
-
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Symbiotic association with *Bradyrhizobium*
-  spp. fixes 30–60 kg N/ha/year, improving soil fertility for
-  companion plants
-- **Living mulch and groundcover:** Dense, low-growing habit suppresses
-  weeds and reduces soil erosion on slopes and terraces
-- **Green manure:** Fast-growing biomass produces 3–5 t/ha of fresh
-  material; incorporated into soil, it significantly increases organic
-  matter and available nitrogen
-- **Pollinator support:** Prolific pink flowers attract bees and
-  butterflies during the late [[savory-growing-season-and-non-growing-season-management]]
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Compatible with fruit trees, cassava, and
-  coffee as an understory nitrogen-fixer; shade-tolerant enough to
-  persist under partial canopy
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Spreading root system and dense canopy make it
-  effective for stabilizing embankments and roadside cuts
-
-## Cultivation
-
-- **Propagation:** Seed (scarification improves germination from 20%
-  to 70%+); stem cuttings also viable
-- **Sowing:** Direct sow after rains; seed rate 5–8 kg/ha
-- **Management:** Cut back periodically to encourage bushy regrowth;
-  tolerates repeated cutting
-## See Also
-
-- [[desmodium-paniculatum]]
-
-- [[glycyrrhiza-glabra]]
-- nitrogen-fixing-plants
-- [[comparison-living-mulch-vs-cover-crops]]
-- tropical legumes
-- [[desmodium-uncinatum]]

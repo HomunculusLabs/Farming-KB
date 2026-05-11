@@ -142,9 +142,3 @@ Heritage grains improve farm systems beyond their direct value:
 - [[triticum-aestivum]]
 
 ## Merged: Best Goat Breeds for Small Homesteads and Permaculture Systems
-
-## See Also
-
-- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
-- [[setaria-italica]]
-- [[triticum-aestivum]]

@@ -88,16 +88,6 @@ turbine blades that eliminate boundaries entirely.
 phases, measure lattice parameters (±0.0001 nm), and determine
 crystallite size via Scherrer broadening. **Transmission electron
 microscopy (TEM)** directly images dislocations, stacking faults, and
-precipitates at ~0.05 nm resolution (aberration-corrected). **Scanning
-electron mimapscopy (SEM)** with EBSD maps crystal orientations and
-grain boundaries at 10-50 nm spatial resolution. These are complementary:
-XRD for bulk phase ID, TEM for atomic-scale defects, SEM/EBSD for
-microstructural mapping. Advanced techniques include atom probe
-tomography (APT) for 3D composition at sub-nm resofungal-in-situand synchrotron
-XRD for in-situ studies of [[phase-diagrams-and-phase-transformations]] under load.
 
 ## See Also
-
-- [[mushroom-anatomy]]-and-structure
-
-See also: [[dislocation-theory-crystal-plasticity]]
+- [[mycelium-structure-and-growth]]

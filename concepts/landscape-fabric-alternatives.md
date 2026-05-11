@@ -17,14 +17,14 @@ Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but i
 - **Water barrier**: Becomes impermeable as clogged with fine particles, causing runoff
 - **Soil biology harm**: Creates anaerobic zone beneath the barrier, killing beneficial organisms
 - **Root entanglement**: Plant roots grow through fabric and are damaged during removal
-- **Nutrient cycling disruption**: Prevents leaf litter and organic matter from reaching soil
+- **[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] disruption**: Prevents leaf litter [[hamilton-composting-and-organic-matter-management]] from reaching soil
 - **Disposal**: Cannot be composted or recycled; goes to landfill
 - **Cost**: Expensive for large areas compared to natural alternatives
 - **Weed seeds**: Weed seeds germinate in debris that accumulates on top of the fabric
 
 ## Alternative 1: Cardboard (Best for Initial Bed Creation)
 
-Unprinted, uncoated brown cardboard is the most effective initial weed barrier for [[no-till-gardening-method|no-till]] garden beds.
+Unprinted, uncoated brown cardboard is the most effective initial weed barrier for [[no-till-gardening-method]] garden beds.
 
 Advantages:
 - Completely biodegradable — breaks down within 6-12 months
@@ -74,10 +74,10 @@ Arborist wood chips (from tree trimming services) are one of the best all-around
 Advantages:
 - Often free from tree services
 - Breaks down into rich humus over 2-4 years
-- Provides habitat for beneficial fungi and insects
+- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] fungi and insects
 - Suppresses weeds effectively at 4-6 inch depth
-- Moderates soil temperature and moisture
-- Contains a mix of wood, bark, and leaves for diverse nutrient release
+- Moderates soil [[mushroom-growing-temperature-and-moisture]]
+- Contains a mix of wood, bark, and leaves for diverse [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
 
 How to use:
 1. Obtain chips from arborist services (avoid dyed/colored chips from stores)

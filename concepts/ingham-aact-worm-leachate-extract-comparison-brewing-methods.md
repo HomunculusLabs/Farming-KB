@@ -1,5 +1,5 @@
 ---
-title: "AACT, Compost Extract, and Worm Leachate: Comparison of Brewing Methods"
+title: Ingham Aact Worm Leachate Extract Comparison Brewing Methods
 source: "The Field Guide I for [[actively-aerated-compost-tea]] Compost Tea - Elaine Ingham PhD"
 chapter: "Methods"
 tags: [aact, compost-extract, worm-leachate, brewing-methods, compost-tea, comparison, ingham]
@@ -11,8 +11,8 @@ created: 2026-05-09
 ## Overview
 
 The Field Guide distinguishes three fundamentally different liquid biological products
-that are frequently confused: Actively Aerated Compost Tea (AACT), compost extract, and
-worm leachate. Each has different production methods, organism profiles, and appropriate
+that are frequently confused: [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT), compost extract, and
+worm leachate. Each has different [[hashish-production-methods]], organism profiles, and appropriate
 uses. Conflating them leads to poor results and misplaced expectations.
 
 ## Actively Aerated Compost Tea (AACT)
@@ -28,7 +28,7 @@ aeration.
 
 - **Two-phase process**: Extraction (pulling organisms from compost) + Growth (multiplying
   organisms during brew)
-- **Active aeration required**: Dissolved oxygen must remain above 5.5–6 ppm throughout
+- **Active aeration required**: [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] must remain above 5.5–6 ppm throughout
   brewing. Below this threshold, beneficial fungi are lost.
 - **Food added**: Molasses, kelp, humic acid, fish hydrolysate, etc. feed organism growth
 - **Brew time**: Typically 24–48 hours depending on machine and recipe
@@ -82,67 +82,9 @@ emphasizes this is a compost extract, not AACT. Extract is appropriate when:
 
 - No organism growth means lower total biomass than AACT
 - Cannot adjust organism ratios through food selection
-- Quality depends entirely on source compost quality
+- Quality depends entirely on source [[aact-compost-quality-standards-ingham]]
 - Less flexibility for targeting specific organism groups
 
 ## Worm Leachate
 
 ### Definition
-
-Worm leachate is the liquid that drains through vermicompost (worm bin) systems. It is
-distinct from both AACT and compost extract in its origin and composition.
-
-### Key Characteristics
-
-- **Passive product**: Drains naturally from worm composting systems
-- **Contains plant growth promoters**: "It is believed to contain lots of plant growth
-  promoters and enzymes and hormones"
-- **Usually beneficial**: "It usually does have amazing benefits to plant growth"
-- **Application method**: Best applied to root systems, not as a foliar spray
-
-### Limitations and Cautions
-
-- Not a controlled product—composition varies with worm bin conditions
-- Can contain [[ingham-anaerobic-organisms-role-soil]] if the bin has gone sour
-- Not a substitute for AACT when disease suppression is the goal
-- No standardized organism profile; cannot be tested against SFI thresholds
-
-## Side-by-Side Comparison
-
-| Feature | AACT | Compost Extract | Worm Leachate |
-|---------|------|-----------------|---------------|
-| Production | Extract + Brew | Extract only | Passive drainage |
-| Aeration | Required (5.5+ ppm DO) | Not required | Not applicable |
-| Food added | Yes (bacterial/fungal foods) | No | No |
-| Organism growth | Yes (multiplied) | No (transferred) | No |
-| Organism profile | Tunable via food selection | Matches compost | Variable/uncontrolled |
-| Quality control | Testable (SFI thresholds) | Testable | Difficult to standardize |
-| Disease suppression | Yes (with adequate biomass) | Possible | Not established |
-| Primary use | Foliar + soil drench | Soil inoculation | Root drench |
-| Shelf life | Apply within hours of brew | Apply immediately | Variable |
-| Risk factors | Anaerobiosis if over-fed | Depends on compost | Anaerobic if bin is sour |
-
-## The Anaerobic Danger
-
-Ingham is emphatic about anaerobic conditions: "Any time oxygen concentration falls
-below 5.5 to 6 ppm oxygen, the beneficial fungi will be lost." This applies to AACT
-brewing, compost, AND soil. Products that go anaerobic—whether through poor aeration,
-excess food, or contaminated water—are NOT compost tea regardless of what they are
-called. "Manure swirled in a tank isn't going to work most of the time."
-
-## Practical Decision Framework
-
-1. **Need disease suppression?** → AACT with tested organism levels
-2. **Need to transfer specific compost biology?** → Compost extract from quality compost
-3. **Want [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]] at roots?** → Worm leachate (assuming healthy bin)
-4. **Have time for full brew?** → AACT gives maximum organism biomass
-5. **Need immediate application?** → Extract (if quality compost available)
-6. **Limited on food budget?** → Extract requires no purchased food amendments
-
-## See Also
-
-- ingham aact brewing process and machines — [[compost-tea-brewing-equipment-ingham]] and methods
-- ingham bacterial vs fungal dominance soil foodweb — Organism group targeting
-- ingham disease suppression compost tea — Disease suppression thresholds
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]] — Food sources
-- ingham testing compost tea quality sfi methods — Laboratory testing protocols

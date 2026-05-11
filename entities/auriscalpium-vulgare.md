@@ -12,7 +12,7 @@ tags:
   - conifer-associated
   - temperate
   - tooth-fungus
-  - mycology
+  - [[mycology]]
   - identification
 date: 2026-04-28
 updated: 2026-04-28
@@ -67,9 +67,9 @@ and temperate Asia. It is particularly common in the boreal and temperate conife
 zones, occurring from Scandinavia to the Mediterranean and from Alaska to Mexico.
 
 The species is an obligate associate of fallen conifer cones — overwhelmingly
-those of *Pinus sylvestris* (Scots pine) and *P. nigra* in Europe, and *P. strobus*,
-*P. resinosa*, and *P. ponderosa* in North America. Fruiting occurs singly or in
-small clusters on cones at varying stages of decomposition, typically from late
+those of *[[pinus-sylvestris]]* (Scots pine) and *P. nigra* in Europe, and *P. strobus*,
+*P. resinosa*, and *P. ponderosa* in [[guzman-psilocybin-mushrooms-north-america]]. Fruiting occurs singly or in
+small clusters on cones at varying stages of [[decomposition]], typically from late
 summer through autumn (August–November in the Northern Hemisphere).
 
 ## Ecological Role
@@ -88,38 +88,3 @@ specialized that it faces little competitive pressure from generalist decomposer
 
 *A. vulgare* is generally considered inedible due to its small size and tough,
 corky texture. It is not known to be toxic, but its flesh is too insubstantial
-and unpalatable to warrant culinary use. Some older field guides list it as
-"non-poisonous" without recommending consumption.
-
-## Related Species
-
-The genus *Auriscalpium* contains approximately 10 described species worldwide,
-most of which are rare and poorly known:
-
-- ***A. andinum*** — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species found on *Araucaria* cones
-- ***A. villipes*** — Southeast Asian, associated with dipterocarp cones
-- ***A. fimbriatopeltatum*** — Tropical Asian, very rare
-
-The family Auriscalpiaceae also includes the genera *Gloeocystidiellum*,
-*Laricifomes*, and *Artomyces*, linking *A. vulgare* to a diverse array of
-tooth and coral fungi within the Russulales.
-
-## Cultural and Scientific Significance
-
-*A. vulgare* holds a modest place in the history of mycological taxonomy. Its
-distinctive morphology — an upside-down tooth fungus growing from a pine cone —
-has made it a recurring illustration in mycological textbooks since the 19th century.
-The genus name *Auriscalpium* derives from the Latin *auris* (ear) and *scalpellum*
-(small knife or earpick), referencing its resemblance to an ear-cleaning tool.
-
-In [[telluride-mushroom-festival-modern-mycological-culture]] education, the species serves as a benchmark for teaching
-cone-associated fungi and the ecological concept of substrate specificity.
-Molecular phylogenetic studies in the 2000s confirmed its placement in the
-Russulales, resolving decades of taxonomic uncertainty that had variously placed
-it near the Polyporales and the Thelephorales.
-
-## See Also
-
-- [[foeniculum-vulgare-entity]]
-- [[hydnellum-peckii]] · [[fistulina-hepatica]] ·
-[[hydnum-repandum]] · [[thelephora-terrestris]] · [[tricholoma-matsutake]]

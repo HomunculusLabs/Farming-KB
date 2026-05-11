@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - mollison-designers-alley-cropping-and-contour-hedgerow-systems
   - mollison-designers-silvopasture-integrated-tree-livestock
   - mollison-designers-multi-strata-canopy-design

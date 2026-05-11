@@ -9,7 +9,7 @@ sources: []
 
 # Grass-Fed Beef Production
 
-Grass-fed and grass-finished beef comes from cattle raised entirely on pasture and forage -- never grain-finished in a feedlot. This model fits homestead and small-scale operations, producing premium meat with strong market demand and lower input costs than grain-based systems. (see [[pasture-management]]).
+Grass-fed and grass-finished beef comes from cattle raised entirely on pasture and forage -- never grain-finished in a feedlot. This model fits homestead and small-scale operations, producing premium meat with strong market demand and lower input costs than grain-based systems.
 
 ## Terminology
 
@@ -30,13 +30,13 @@ Best breeds for grass-fed systems:
 - Belted Galloway: cold-hardy, efficient foragers, distinctive appearance (marketing advantage)
 - Murray Grey: Australian breed, calm, good marbling on grass
 
-Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass: hybrid vigor, good growth rates, acceptable marbling. (see [[pastured-egg-production]]).
+Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass: hybrid vigor, good growth rates, acceptable marbling.
 
 ## Pasture Management
 
 ### Stocking Density
 - General rule: 1-2 acres per cow-calf pair per year (varies by region and rainfall)
-- High stocking density with rotational grazing: can support 2-4 animal units per acre during growing season
+- High stocking density with [[comparison-rotational-grazing-vs-continuous-grazing]]: can support 2-4 animal units per acre during [[extending-growing-season]]
 - Rest periods: minimum 30-60 days between grazing; 90+ days ideal
 
 ### Rotational Grazing System
@@ -44,13 +44,13 @@ Crossbreeding (e.g., Angus x Hereford) often produces the best grass-fed carcass
 - Move cattle every 1-3 days during peak growth
 - Graze to 4-6 inch residual height, then rest
 - Goal: eat the top third, leave the rest for regrowth
-- Prevents selective grazing (cows eat only the tasty parts) and overgrazing
+- Prevents [[dighton-selective-grazing-fungal-community-shifts]] (cows eat only the tasty parts) and overgrazing
 
 ### Forage Species
 - Cool-season perennials: orchardgrass, tall fescue (endophyte-free), Kentucky bluegrass, white clover, red clover
 - Warm-season perennials: bermudagrass, bahiagrass, switchgrass, eastern gamagrass
 - Annuals for fill: oats, rye, annual ryegrass, turnips, radishes
-- Legumes fix nitrogen: clover, alfalfa, birdsfoot trefoil (15-30% of pasture mix)
+- Legumes fix nitrogen: clover, alfalfa, birdsfoot trefoil (15-30% of [[query-how-do-i-design-a-multi-species-pasture-mix]])
 
 ### Seasonal Considerations
 - Stockpile tall fescue for winter grazing (strip-graze with temporary fencing)
@@ -110,7 +110,7 @@ Improving finish quality:
 ### Profitability
 - Selling live: $200-800 profit per animal (thin margins)
 - Selling retail cuts: $800-2,000 profit per animal
-- Key: direct marketing to capture retail price, not commodity price
+- Key: [[coleman-direct-marketing-and-csa-models]] to capture retail price, not commodity price
 - Break-even: 3-5 head sold retail covers most small-farm overhead
 
 ## Marketing
@@ -118,7 +118,7 @@ Improving finish quality:
 - Farmers markets: sell frozen cuts, take pre-orders
 - Buying clubs: sell quarter/half beef shares (best margin, least labor)
 - Restaurant sales: chefs pay premium for local grass-fed
-- Online: online homestead sales platforms
+- Online: [[online-homestead-sales]] platforms
 - On-farm store: if location permits
 - Word of mouth and repeat customers are the strongest channels
 
@@ -130,4 +130,4 @@ Improving finish quality:
 - Work cattle through well-designed facilities with solid sides
 - Dark-cutting beef (from stress) loses $100-200 per carcass in value
 
-Grass-fed beef integrates well with [[pastured-pork-production]] in a diversified homestead livestock operation and benefits from [[hay-and-forage-management|forage]] systems and [[cover-cropping-guide|cover-crop]] rotations.
+Grass-fed beef integrates well with [[pastured-pork-production]] in a diversified homestead livestock operation and benefits from [[hay-and-forage-management]] systems and [[cover-cropping-guide]] rotations.

@@ -12,15 +12,15 @@ updated: 2026-04-28
 sources:
   - Subcool's The Dank (2010). TGA mushroom-genetics-strain-selection catalog.
   - Leafly Staff (2023). "Jillybean Strain Information." Leafly.com.
-  - AllBud (2024). "Jillybean Cannabis Strain." AllBud.com.
+  - AllBud (2024). "Jillybean [[biscotti-cannabis-strain]]." AllBud.com.
   - Happy Seeds Database (2024). "Jillybean Lineage and Grow Data." Seedsman.com.
 ---
 
 ## Overview
 
-**Jillybean** is a sativa-dominant hybrid cannabis strain bred by **Subcool of TGA
+**Jillybean** is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by **Subcool of TGA
 Genetics** (The Green Avengers). It is a cross between **Orange Velvet** and
-**Space Queen**, two strains known for their vibrant tropical flavor profiles.
+**[[oner-jack-the-ripper-jacks-cleaner-space-queen]]**, two strains known for their vibrant tropical flavor profiles.
 
 Jillybean has earned a devoted following for its remarkably sweet, mango-orange
 aroma and its uplifting, creative effects that remain functional throughout the
@@ -44,7 +44,7 @@ complex.
 
 ## Appearance
 
-Bud structure is medium to large, with elongated, slightly airy colas typical of
+[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] is medium to large, with elongated, slightly airy colas typical of
 sativa-dominant genetics. Calyxes are densely packed with prominent pistils that
 range from bright orange to deep rust-red.
 
@@ -76,50 +76,15 @@ preserves the delicate tropical terpene notes.
 and linalool contributions. The limonene content is typically higher than
 average, driving the pronounced citrus character.
 
-**THC content:** 15–22%, depending on phenotype and cultivation conditions.
+**[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 15–22%, depending on phenotype and cultivation conditions.
 Tested averages cluster around 18%.
 
 **CBD content:** Typically below 0.1%. Jillybean is not a CBD-rich strain.
 
-Minor cannabinoids including CBC and CBG may be present in trace amounts.
+[[cannabis-minor-cannabinoids]] including CBC and CBG may be present in trace amounts.
 Total cannabinoid content generally ranges from 18–25%.
 
 ## Effects
 
 Onset is relatively quick, typically within 5–10 minutes of inhalation. The
 initial effects are cerebral and uplifting, characterized by enhanced focus,
-creative energy, and a general sense of well-being.
-
-As the experience develops, a mild body relaxation emerges that tempers the
-cerebral stimulation without causing sedation. Most users report functional
-clarity lasting 2–3 hours, making Jillybean suitable for daytime use.
-
-Common therapeutic applications include mood elevation for mild depression and
-anxiety, creative stimulation, fatigue management, and social anxiety relief.
-The strain is not typically recommended for severe pain or insomnia.
-
-## Cultivation
-
-**Flowering time:** 8–9 weeks indoors. Outdoor harvest in late September to
-mid-October in northern hemisphere temperate zones.
-
-**Yield:** Moderate to high, producing 350–450 g/m² indoors under optimal
-conditions. Outdoor plants can yield significantly more but require warm, dry
-autumn conditions to avoid bud rot.
-
-**Difficulty:** Moderate. Jillybean is not particularly finicky but benefits
-from [[cannabis-training-techniques-comparison]] (LST, SCROG) to manage its tendency to stretch during
-early flowering.
-
-The strain responds well to organic [[synthetic-log-cultivation-methods-guide]] and develops more
-complex [[cannabis-terpene-profiles-sativa]] in living soil systems. Nutrient sensitivity is low
-to moderate, with phosphorus and potassium demands increasing during mid-
-flowering.
-
-## See Also
-
-- tangie
-- [[sour-diesel]]
-- [[jack-herer]]
-- [[ice-cream-cake-cannabis]]
-- [[gelato]]

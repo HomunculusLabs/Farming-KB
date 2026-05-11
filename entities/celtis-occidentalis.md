@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Celtis occidentalis**, commonly known as common hackberry, is a medium-sized deciduous tree native to a wide swath of eastern and central North America. It belongs to the family Cannabaceae (formerly placed in Ulmaceae), making it a relative of cannabis and hops.
+**Celtis occidentalis**, commonly known as common hackberry, is a medium-sized deciduous tree native to a wide swath of eastern and central [[guzman-psilocybin-mushrooms-north-america]]. It belongs to the family Cannabaceae (formerly placed in Ulmaceae), making it a relative of cannabis and hops.
 
 Hackberry is recognized by its distinctive corky, warty bark and its small, sweet, date-like fruits that persist into winter. The species is remarkably adaptable, thriving in conditions ranging from floodplains to dry upland rocky ridges.
 
@@ -26,9 +26,9 @@ The tree is valued for its toughness, [[dighton-fungal-drought-tolerance-plant-w
 
 ## Taxonomy and Morphology
 
-**Celtis occidentalis** L. was described by Linnaeus in 1753. The genus *Celtis* contains approximately 60–70 species distributed across temperate and tropical regions worldwide. Recent phylogenetic studies placed *Celtis* in Cannabaceae rather than the traditional Ulmaceae.
+**Celtis occidentalis** L. was described by Linnaeus in 1753. The genus *Celtis* contains approximately 60–70 species distributed across temperate and [[fukuoka-natural-farming-in-tropical-regions]] worldwide. Recent phylogenetic studies placed *Celtis* in Cannabaceae rather than the traditional Ulmaceae.
 
-The specific epithet *occidentalis* means "western," distinguishing it from the European *Celtis australis*. No significant taxonomic synonyms are currently in use for this species.
+The specific epithet *occidentalis* means "western," distinguishing it from the European *[[celtis-australis]]*. No significant taxonomic synonyms are currently in use for this species.
 
 Mature hackberries typically reach 12–20 meters in height with a broad, rounded crown. The trunk diameter at breast height ranges from 40 to 70 centimeters in forest-grown trees, with open-grown specimens developing shorter, broader forms.
 
@@ -40,7 +40,7 @@ Flowers are small, greenish, and apetalous, appearing in spring with the leaves.
 
 The fruit is a small, globose drupe 6–8 mm in diameter, ripening from green to dark purple or reddish-brown in autumn. Each fruit contains a single hard seed enclosed in a thin, sweet, date-flavored pulp. Seeds require cold stratification for germination and may remain viable in the soil for several years.
 
-The root system of hackberry is deep and widespreading, contributing to its drought tolerance. Mycorrhizal associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi enhance nutrient uptake, particularly on poor soils.
+The root system of hackberry is deep and widespreading, contributing to its drought tolerance. [[plants-without-mycorrhizal-associations]] with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi enhance nutrient uptake, particularly on poor soils.
 
 Branching pattern tends to be ascending and irregular, especially in open-grown trees. Young bark is smooth and gray-green, developing the characteristic corky warts within 3–5 years of branch age.
 
@@ -54,7 +54,7 @@ Hackberry is a common component of bottomland hardwood forests, upland oak-hicko
 
 The species is moderately shade-tolerant in youth but becomes increasingly intolerant with age. It regenerates best in canopy gaps and disturbed sites, where it can persist as a long-lived sub-canopy tree beneath taller associates.
 
-Optimal growth occurs on moist, well-drained loams, but hackberry tolerates drought-prone, alkaline, and compacted soils better than most native hardwoods. This tolerance underlies its success in urban environments.
+Optimal growth occurs on moist, well-drained loams, but hackberry tolerates drought-prone, alkaline, and compacted soils better than most native hardwoods. This tolerance underlies its success in [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]].
 
 Hackberry can survive on limestone-derived soils with pH up to 8.0, making it one of the few hardwoods that thrives on calcareous substrates in the Great Plains. This edaphic adaptability gives it a competitive advantage over more pH-sensitive associates.
 
@@ -84,29 +84,6 @@ The wood bends well when steamed and has been used historically for barrel hoops
 
 Hackberry wood has a similar density and working properties to elm, and it has occasionally been used as a substitute in furniture and cabinetry. The heartwood is not durable in ground contact, limiting its use for outdoor applications.
 
-In traditional medicine, hackberry bark was used by Native American tribes as an analgesic and for treating menstrual disorders. The Cherokee used a decoction of the bark for sore throats and venereal disease.
+In traditional medicine, hackberry bark was used by [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] tribes as an analgesic and for treating menstrual disorders. The Cherokee used a decoction of the bark for sore throats and venereal disease.
 
 ## Cultivation
-
-Common hackberry is increasingly recognized as a durable urban tree with excellent tolerance of drought, pollution, compacted soils, and alkaline conditions. It is recommended as an alternative to ash species threatened by emerald ash borer.
-
-The species transplants easily and establishes quickly, though its somewhat irregular form may require pruning when young. Growth rates are moderate, typically 30–50 cm per year under favorable conditions.
-
-Several cultivars are available in the nursery trade, including 'Prairie Sentinel' (fastigiate columnar form) and 'Delta' (improved form with resistance to witches' broom). Selection for improved urban performance is ongoing.
-
-Hackberry is susceptible to witches' broom, a condition caused by eriophyid mites and the [[cervantes-powdery-mildew-prevention-treatment]] fungus *Sphaerotheca phytoptophila*, which induces dense clusters of stunted twigs. While unsightly, the condition rarely kills affected trees.
-
-## See Also
-
-- [[ulmus-rubra]]
-- [[acer-saccharum]]
-- [[quercus-rubra]]
-- [[betula-papyrifera]]
-- [[tilia-americana]]
-- [[populus-nigra]]
-- [[salix-babylonica]]
-- [[quercus-palustris]]
-- [[betula-nigra]]
-- [[liquidambar-styraciflua]]
-- [[liriodendron-tulipifera]]
-- [[acer-rubrum]]

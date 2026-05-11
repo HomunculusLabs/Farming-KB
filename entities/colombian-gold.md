@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Colombian Gold** is a legendary **sativa landrace** cannabis strain originating from the mountainous regions of the Santa Marta Sierra Nevada in northern Colombia. Widely regarded as one of the foundational genetics of modern cannabis breeding, Colombian Gold was among the first imported landrace strains to reach North American shores during the 1960s and 1970s, profoundly shaping the development of contemporary sativa-dominant hybrids.
+**Colombian Gold** is a legendary **sativa landrace** cannabis strain originating from the mountainous regions of the Santa Marta Sierra Nevada in northern Colombia. Widely regarded as one of the foundational genetics of modern cannabis breeding, Colombian Gold was among the first imported [[cannabis-landrace-strains]] to reach North American shores during the 1960s and 1970s, profoundly shaping the development of contemporary sativa-dominant hybrids.
 
 The strain earned its reputation through its soaring, clear-headed cerebral effects and distinctive golden-tinged calyxes that appear as the plant matures. Alongside **Thai Stick**, **Acapulco Gold**, and **Panama Red**, Colombian Gold represents the "golden age" of imported landrace cannabis that defined the pre-industrial era of cannabis culture in the West.
 
@@ -33,7 +33,7 @@ Colombian Gold is a **pure sativa landrace** that developed over centuries in th
 - **Geographic origin:** Santa Marta Sierra Nevada and the Magdalena River valley, Colombia
 - **Genetic classification:** Pure *Cannabis sativa* L. subsp. *sativa*
 - **Latitude adaptation:** ~10–11°N equatorial, conferring near-equal photoperiod and year-round flowering potential
-- **Genetic contributions:** Colombian Gold has contributed genetics to numerous iconic hybrids, including **Skunk #1**, **AK-47**, and **Columbian Gold × Jack Herer** crosses
+- **[[african-landrace-sativa-genetic-contributions-modern-breeding-oner]]:** Colombian Gold has contributed genetics to numerous iconic hybrids, including **Skunk #1**, **AK-47**, and **Columbian Gold × Jack Herer** crosses
 - **Breeding legacy:** The strain's terpene profile and sativa effects have been preserved in many modern cultivars, though pure, unhybridized Colombian Gold is increasingly rare
 
 The Santa Marta mountains provide an extraordinary range of microclimates — from sea-level tropical to páramo alpine — which likely contributed to the genetic diversity and robustness found within [[oner-colombian-landrace-sativa-strains]] populations.
@@ -52,7 +52,7 @@ Colombian Gold exhibits the classic tall, lanky sativa growth pattern adapted to
 - **Root system:** Extensive and deep root network, adapted to the well-draining volcanic soils of the Sierra Nevada
 - **Pest resistance:** Moderate natural resistance to common pests and molds, developed through centuries of adaptation to humid tropical conditions
 
-The strain is considered moderately difficult to cultivate indoors due to its long flowering cycle and significant stretch during the early flowering phase. Outdoor cultivation in Mediterranean or tropical climates produces the best results, with the plants reaching their full genetic potential under natural sunlight.
+The strain is considered moderately difficult to cultivate indoors due to its long flowering cycle and significant stretch during the early flowering phase. Outdoor cultivation in Mediterranean or [[fukuoka-natural-farming-tropical-climates]] produces the best results, with the plants reaching their full genetic potential under natural sunlight.
 
 ## Terpene Profile and Aroma
 
@@ -60,7 +60,7 @@ Colombian Gold's aroma is among its most distinctive characteristics, contributi
 
 - **Primary terpenes:** β-Caryophyllene, α-Humulene, Limonene, Myrcene
 - **Aroma:** Bright citrus and lemon with earthy undertones, herbal notes, and a characteristic skunky-sweet finish that distinguishes it from other South American imports
-- **Flavor:** Smooth, sweet smoke with citrus and tropical fruit flavors; less harsh than many equatorial sativas
+- **Flavor:** Smooth, sweet smoke with citrus and tropical fruit flavors; less harsh than many [[durban-poison-and-equatorial-sativas]]
 - **The "gold" signature:** A unique sweet-earthy quality that distinguished it from other South American imports and became a benchmark for desirable sativa flavor profiles
 
 The strain's terpene profile has been described as the archetype of the "golden" sativa aroma that breeders have sought to preserve in modern hybrids. The distinctive terpene expression is thought to be influenced by the unique terroir of the Sierra Nevada — the mineral-rich volcanic soils and the specific microbial communities in the region's native ecosystems may contribute to the strain's characteristic aromatic profile.
@@ -71,8 +71,8 @@ Colombian Gold delivers a classic sativa experience that has made it a benchmark
 
 - **Onset:** Moderate (15–30 minutes when smoked); effects are gradual and long-lasting
 - **Primary effects:** Euphoric, uplifting, and energizing with pronounced mental clarity and creative stimulation
-- **Duration:** Extended (3–5 hours), consistent with its landrace sativa heritage
-- **Medical applications:** Historically used for mood elevation, fatigue, and creative blocks; modern therapeutic interest in daytime anxiety management and attention support
+- **Duration:** Extended (3–5 hours), consistent with its [[cannabis-landrace-sativa-heritage-varieties]]
+- **[[oner-sativa-medical-applications]]:** Historically used for mood elevation, fatigue, and creative blocks; modern therapeutic interest in daytime anxiety management and attention support
 - **Side effects:** Typical sativa profile — potential for anxiety at higher doses in sensitive individuals; dry mouth; mild tachycardia
 
 In Colombia, indigenous communities in the Sierra Nevada de Santa Marta have cultivated cannabis for centuries. Traditional uses span spiritual ceremonies, textile fiber production, and medicinal preparations for ailments ranging from headaches to digestive complaints. The Kogi and Arhuaco peoples of the region are known to have maintained traditional cultivation practices that predate European contact, selecting plants for specific ceremonial and medicinal qualities rather than maximizing psychoactive potency.
@@ -88,22 +88,3 @@ Colombian Gold holds a central place in the [[shroom-cultural-history-hippie-rev
 - **Revival efforts:** Seed banks and heritage cannabis preservation organizations are working to locate and maintain authentic Colombian Gold populations from the Santa Marta region, with some programs collaborating directly with indigenous communities who have preserved traditional cultivation practices
 
 ## Cannabinoid Profile
-
-Colombian Gold displays a cannabinoid profile typical of equatorial sativa landraces:
-
-- **THC content:** Moderately high, typically 12–18% in well-cultivated modern selections; historical imported material likely varied more widely (8–15%) due to less optimized growing conditions and degradation during transport
-- **CBD content:** Low, generally below 0.5% in most populations, consistent with the selective breeding pressure in traditional cultivation that favored psychoactive potency
-- **THC:CBD ratio:** High (>20:1), characteristic of drug-type sativa landraces from tropical latitudes
-- **Minor cannabinoids:** Variable but often detectable levels of CBG (cannabigerol) and CBC (cannabichromene), contributing to the entourage effect
-- **Cannabinoid stability:** Like most landrace genetics, Colombian Gold's cannabinoid content is sensitive to harvest timing, with peak THC occurring at full trichome maturation
-
-The strain's effects are often described as more "pure" or "clean" than modern polyhybrids, which some users attribute to the relative simplicity of its cannabinoid and terpene profile compared to the complex chemovars produced by contemporary breeding programs. The terroir effect — the influence of the specific growing environment on [[fungal-elicitors-enhanced-secondary-metabolite-production]] production — is particularly pronounced in Colombian Gold, with plants grown at higher elevations in the Sierra Nevada tending to produce more complex [[cannabis-terpene-profiles-sativa]] and slightly elevated THC levels compared to lowland populations.
-
-## See Also
-
-- [[acapulco-gold]] — Mexican landrace strain of the same era and cultural significance
-- [[skunk-1]] — Iconic hybrid that incorporates Colombian Gold genetics
-- [[cannabis-sativa]] — Botanical species classification for Colombian Gold
-- comparison-alkaloids-vs-flavonoids-vs-terpenes — Aromatic compounds responsible for Colombian Gold's distinctive aroma
-- [[cannabis-indoor-growing-basics]] — South African sativa landrace known for its anise aroma and energetic effects
-- [[beta-caryophyllene-dietary-cannabinoid]] — Primary terpene in Colombian Gold, also a dietary cannabinoid via CB2 [[tihkal-receptor-binding-serotonin]]

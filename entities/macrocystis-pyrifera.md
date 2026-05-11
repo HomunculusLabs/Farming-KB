@@ -87,21 +87,3 @@ Bioremediation applications leverage the species' capacity for nutrient absorpti
 Research is ongoing into using giant kelp for [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] through offshore cultivation and deep-water sinking. The economic viability and ecological risks of large-scale ocean afforestation remain under investigation.
 
 The species has been proposed as a source of biomethane through [[biogas-digester-basics]] of harvested biomass. Feasibility studies suggest that giant kelp could supplement natural gas supplies in coastal regions.
-
-Conservation efforts focus on restoring sea otter populations to control urchin grazing pressure. Urchin culling programs and kelp replanting initiatives have shown localized success in southern California.
-
-[[dighton-fungi-climate-change-feedback]] poses the greatest long-term threat to giant kelp forests through ocean warming, acidification, and increased storm frequency. Marine protected areas have been established to preserve remaining kelp forest habitats.
-
-## See Also
-
-- [[saccharina-latissima]]
-- [[porphyra-umbilicalis]]
-- [[chondrus-crispus]]
-- agar
-- [[agaricus-bisporus]]
-- [[ganoderma-lucidum]]
-- [[daucus-carota]]
-- [[glycine-max]]
-- [[zingiber-officinale]]
-- [[foeniculum-vulgare-entity]]
-- [[pimenta-dioica]]

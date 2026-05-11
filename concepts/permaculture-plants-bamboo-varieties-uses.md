@@ -1,5 +1,5 @@
 ---
-title: Permaculture Plants permaculture plants bamboo varieties uses Uses
+title: [[permaculture]] Plants Bamboo Varieties Uses
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -51,13 +51,13 @@ Maximum stem diameter 30 mm, maximum height 7 m. Tolerates temperatures to -7C. 
 Dense runner reported not to be too invasive. Coastal plant that withstands some drought. Stem diameter 44 mm, maximum height 6 m, tolerates temperatures to -20.5C. Edible shoot; stems used for fish poles.
 
 ### Phyllostachys bambusoides (Madake Giant Timber Bamboo)
-One of the largest running bamboos in the world: heights of 23 m and diameters of 15 cm. Originally from China, now the most useful bamboo in Japan. High quality wood used for scaffolding and general construction. Tolerates temperatures to -7C. Tolerates wide range of acid and alkaline soils. Edible new culm shoots.
+One of the largest running bamboos in the world: heights of 23 m and diameters of 15 cm. Originally from China, now the most useful bamboo in Japan. High quality wood used for scaffolding and general construction. Tolerates temperatures to -7C. Tolerates wide range of [[acid-and-alkaline-soil-management]] soils. Edible new culm shoots.
 
 ### Phyllostachys meyeri (Meyer Bamboo)
 Invasive runner, stem diameter 50 mm, height 11 m. Tolerates temperatures to -8C. Edible shoots; strong stems useful for building and construction. Good hedge plant.
 
 ### Phyllostachys nigra (Black Bamboo)
-Runner grown mainly for culms which turn black with age. Usually only grows to 2 m in tropics but may attain 9 m and culm widths of 7.5 cm in temperate regions. Hardy to -7C. New culm shoots edible when cooked.
+Runner grown mainly for culms which turn black with age. Usually only grows to 2 m in tropics but may attain 9 m and culm widths of 7.5 cm in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Hardy to -7C. New culm shoots edible when cooked.
 
 ### Phyllostachys nigra henonsis (Henon Bamboo)
 Graceful, hardy (to -21C) giant bamboo native to southern China. Reaches 17 m with culm diameters up to 7.5 cm. Edible new culm shoots. Considered the third most useful bamboo in Japan; wood very strong given thin culm walls.
@@ -88,28 +88,3 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 | Water pipes | D. strictus |
 
 ## Cold Hardiness Quick Reference
-
-| Species | Minimum Temperature |
-|---|---|
-| P. nigra henonsis | -21C |
-| P. aurea | -20.5C |
-| P. rumbromarginata | -15C |
-| B. oldhamii | -9C |
-| P. meyeri | -8C |
-| P. angusta | -8C |
-| P. bambusoides | -7C |
-| P. nigra | -7C |
-| D. strictus | -1C |
-
-## Design Notes
-
-- **Containment**: Running bamboos need root barriers or regular harvesting to prevent invasion. Clumping bamboos are safer for small properties.
-- **Multi-function hedges**: Bamboo hedges around orchards provide windbreaks, [[fungal-building-material-deterioration]], edible shoots, and microclimate modification.
-- **Frost selection**: For temperate areas, P. nigra henonsis and P. aurea offer the best cold tolerance.
-- **[[faires-livestock-integration-permaculture]]**: Sasa palmata can be controlled by livestock grazing, providing fodder while preventing spread.
-- **[[permaculture-plants-ground-covers-and-accumulators]] - bamboo as [[fukuoka-citrus-orchard-ground-cover-cultivation]] and soil stabiliser
-- [[permaculture-plants-fruit-trees-selection]] - bamboo as orchard windbreak
-
-## See Also
-
-- [[permaculture-plants-food-forest-ground-covers-bamboos]]

@@ -8,7 +8,7 @@ tags: [mckenna, sin, nannar, harran, moon-god, mushroom, iconography, cylinder-s
 
 ## Overview
 
-In *Food of the Gods*, Terence McKenna identifies the Harran moon god Sin (also known as Nannar) as a potentially mushroom-associated deity in the Babylonian pantheon. The identification rests on the distinctive headgear depicted in cylinder seal representations of the god — headgear that McKenna argues is suggestive of a mushroom. This iconographic analysis connects the moon god to the broader web of mushroom symbolism that McKenna traces across ancient Near Eastern and Indo-European cultures.
+In *Food of the Gods*, [[terence-mckenna]] identifies the Harran moon god Sin (also known as Nannar) as a potentially mushroom-associated deity in the Babylonian pantheon. The identification rests on the distinctive headgear depicted in cylinder seal representations of the god — headgear that McKenna argues is suggestive of a mushroom. This iconographic analysis connects the moon god to the broader web of [[allegro-cross-and-mushroom-symbolism]] that McKenna traces across [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and Indo-European cultures.
 
 ## The City of Harran
 
@@ -65,11 +65,11 @@ Sin/Nannar was "thought to have arisen from a god of nomads and a protector of c
 - Partnership societies that practiced cattle herding were the primary contexts for sustained mushroom use
 - The sacred status of cattle in multiple cultures (Vedic India, ancient Egypt, Minoan Crete) may derive from their role as the substrate for the [[allegro-the-sacred-mushroom-amanita-identification]]
 
-If Sin originated as a pastoral deity associated with cattle-herding nomads, the mushroom headgear becomes legible as an iconographic representation of the sacred mushroom that grew in the cattle's dung — the original source of the deity's numinous power.
+If Sin originated as a pastoral deity associated with cattle-herding nomads, the mushroom headgear becomes legible as an iconographic representation of [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] that grew in the cattle's dung — the original source of the deity's numinous power.
 
 ## The Abraham Connection
 
-Harran's traditional association with "the original home of Abraham" adds another layer of significance. If Abraham, the patriarch of the three Abrahamic religions, originated in or passed through a city whose patron deity was depicted wearing mushroom headgear, this suggests that the mushroom religion may have been part of the cultural background from which monotheism emerged. McKenna does not develop this connection extensively, but it implies that the suppression of the mushroom mystery was not merely a feature of the transition from pagan to monotheistic religion but may have been a defining act in the creation of the religious tradition that would eventually dominate Western civilization.
+Harran's traditional association with "the original home of Abraham" adds another layer of significance. If Abraham, the patriarch of the three Abrahamic religions, originated in or passed through a city whose patron deity was depicted wearing mushroom headgear, this suggests that the [[mckenna-food-gods-minoan-crete-mushroom-religion]] may have been part of the cultural background from which monotheism emerged. McKenna does not develop this connection extensively, but it implies that the suppression of the mushroom mystery was not merely a feature of the transition from pagan to monotheistic religion but may have been a defining act in the creation of the religious tradition that would eventually dominate [[eleusinian-mysteries-psychoactive-fungi-western-civilization]].
 
 ## Significance for the Soma Question
 
@@ -88,26 +88,3 @@ The Indo-European migrations that carried Soma worship into India would have pas
 McKenna's identification of Sin's headgear as mushroom-like is interpretive rather than definitive. The headgear could represent other objects — a crown, a horned headdress, a ritual vessel, or an abstract divine attribute. The argument gains force from the convergence of multiple independent lines of evidence (the cattle connection, the male lunar rarity, the Soma identification) but rests ultimately on a visual resemblance that cannot be empirically verified. McKenna acknowledges this implicitly by presenting the argument as suggestive rather than conclusive.
 
 ### Alternative Interpretations
-
-Several alternative readings of Sin's headgear deserve consideration:
-
-- **Horned crown**: Many Mesopotamian deities wear horned crowns as symbols of divinity; Sin's headgear may be a variant of this convention, perhaps reflecting his pastoral origins
-- **Lunar crescent**: The headgear could represent stylized lunar crescents, appropriate for a moon god, that happen to resemble mushroom caps in profile
-- **Ritual vessel**: Some scholars have interpreted similar headgear as representations of ritual containers or offering bowls
-- **Convergence of symbols**: The headgear may have been intentionally ambiguous, simultaneously evoking the moon, cattle horns, and possibly the mushroom, reflecting the syncretic nature of Mesopotamian religion
-
-The absence of textual corroboration is particularly notable. While the Soma hymns of the Rig Veda provide extensive literary evidence for a mushroom-based religious practice, no comparable Mesopotamian text explicitly identifies Sin or any other deity with mushrooms. This absence may reflect the loss of texts, the suppression of the mushroom religion, or the possibility that the mushroom association was encoded exclusively in visual rather than verbal symbolism.
-
-Without additional archaeological evidence — such as textual references linking Sin explicitly to mushrooms, or [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of ritual residues — the iconographic argument remains provocative but unproven. Its value lies in opening a line of inquiry rather than in providing definitive proof.
-
-## See Also
-
-- [[mckenna-wasson-soma-contradictions-and-doubts]]
-- [[mckenna-minoan-crete-mushroom-religion]]
-- [[mckenna-vegetable-mind-and-gaian-holism]]
-- [[mckenna-myth-of-glaukos-honey-preservation-mushroom]]
-- [[mckenna-ergot-and-witches-sabbath-theory]]
-- [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- mckenna [[mckenna-food-gods-tassili-cave-paintings]] mushroom shaman
-- mckenna habit creode and cognitive evolution
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]

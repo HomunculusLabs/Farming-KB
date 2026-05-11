@@ -5,6 +5,7 @@ tags: [natural-farming, gardens, terracing, soil-preparation, hillside-agricultu
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "4353-4395"
 type: concept
@@ -87,34 +88,3 @@ During heavy rainfall, the terraces act as a series of small dams that slow the 
 ## The Philosophy of Garden Establishment
 
 Fukuoka's approach to garden establishment reflects his broader principle that nature already knows how to grow plants. The farmer's role is not to impose a system but to create conditions in which nature can express itself fully. This means working with the slope rather than against it, using the plants that naturally grow in the area as allies rather than treating them as enemies, and building soil through biological processes rather than chemical inputs.
-
-The conventional approach to hillside agriculture typically involves bulldozing the slope flat, applying lime and [[cervantes-chemical-fertilizers-guide]], and planting crops in rows. This destroys the existing soil ecosystem and creates a dependency on external inputs. Fukuoka's approach, by contrast, preserves the natural slope through terracing, builds soil through organic matter burial and cover cropping, and gradually transitions from wild vegetation to productive cultivation.
-
-The patience required for this approach is considerable. A farmer accustomed to seeing results within a single season may find it difficult to wait three years for soil preparation. But Fukuoka argues that this investment of time pays dividends for decades. A properly established hillside garden on terraced, biologically active soil will produce crops without any external inputs for as long as it is maintained, while a chemically dependent garden on bulldozed land will require ever-increasing inputs as the soil degrades.
-
-## Long-Term Sustainability
-
-The terraced garden, once established, becomes increasingly productive over time. The terrace walls, stabilized by plant roots, become more solid with each passing year. The soil, enriched by continuous cover cropping and organic matter decomposition, deepens and improves. The diversity of plants supports a diversity of insects, which provides natural pest control. The system moves toward stability rather than requiring constant intervention to maintain.
-
-This stands in stark contrast to conventional hillside agriculture, which tends to degrade over time. Terraces without plant cover erode, soils without organic matter compact and lose structure, and monoculture cropping depletes specific nutrients while accumulating others. The natural approach reverses this trajectory, building rather than depleting the resource base.
-
-## Key Principles
-
-- Hillside gardens require terracing to prevent erosion and soil movement
-- Stone walls and earthen embankments must be carefully constructed to withstand rainfall
-- Coarse organic matter burial activates latent soil fertility without fertilizers
-- High ridges provide better drainage and faster soil maturation than trenches
-- Cover crops during the establishment phase suppress weeds and build soil
-- Gardens should be integrated into the broader farm ecosystem, not isolated
-- The natural approach avoids bulldozing and mechanical land clearing
-- A slight grade on terraces balances water retention with drainage
-- Three years of cover cropping and soil building typically precede full production
-- The farmer creates conditions; nature does the growing
-- Terraced gardens become increasingly productive over time as soil deepens
-- Conventional hillside agriculture degrades while natural methods build
-
-## Related Topics
-
-- [[fukuoka-textdoc-orchard-terracing-slope-management]] for terracing techniques
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]] for soil building without chemicals
-- [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]] for cover crop management

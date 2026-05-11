@@ -1,5 +1,5 @@
 ---
-title: Neotropical challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Central and [[guzman-psilocybin-mushrooms-south-america]]
+title: Guzman Magic Mushrooms Neotropical Species
 created: 2026-04-28
 tags: [mycology, neotropical-fungi, psilocybin-mushrooms, mexico, south-america]
 date: 2026-04-28

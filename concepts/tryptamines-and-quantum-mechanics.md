@@ -1,5 +1,5 @@
 ---
-title: "tryptamines and quantum mechanics"
+title: Tryptamines And Quantum Mechanics
 created: 2026-04-28
 tags: [quantum-mechanics, tryptamines, consciousness,
       hallucinogenesis, psychophysics]
@@ -12,10 +12,10 @@ type: concept
 # Tryptamines and Quantum Mechanics
 
 In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness,
-Terence McKenna proposed a provocative link between the phenomenology of
+[[terence-mckenna]] proposed a provocative link between the phenomenology of
 tryptamine experiences and [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] processes in the brain. This
 connection, while speculative, draws on research by John Smythies, Alexander
-Shulgin, and others who identified quantum mechanical correlates to
+Shulgin, and others who identified [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]] to
 hallucinogenesis.
 
 ## The Quantum Basis of Hallucinatory States
@@ -37,7 +37,7 @@ neural tissue are responsible for the observed effects.
 
 ## Visual Cortex Activation and Dimensional Experience
 
-What distinguishes the tryptamine family from other hallucinogens is the
+What distinguishes the [[tryptamine-family-overview]] from other hallucinogens is the
 intensity of the hallucinations and the concentration of activity in the
 visual cortex. McKenna described an immense vividness to these interior
 landscapes, as if information were being presented three-dimensionally and
@@ -80,7 +80,7 @@ dimensions of reality normally hidden by the constraints of ordinary
 waking consciousness.
 
 This view challenges the standard neurobiological reduction of psychedelic
-experience to serotonin receptor activation. While receptor pharmacology
+experience to [[serotonin-receptor-interference-psychedelic-mechanism]] activation. While [[cannabinoid-receptor-pharmacology]]
 is certainly involved, McKenna argued that it is the quantum mechanical
 properties of the receptor-ligand interaction that give rise to the
 extraordinary phenomenology of the tryptamine experience.
@@ -88,39 +88,3 @@ extraordinary phenomenology of the tryptamine experience.
 ## The Psycho-Physical Nature of Interior Experience
 
 McKenna insisted that hallucinatory processes are psycho-physical, not
-merely psychological. They arise at the intersection of quantum mechanical
-matter and conscious experience, and cannot be reduced to either pole.
-This is why the tryptamine experience feels so "real" and "authentic" to
-those who undergo it: the entities encountered, the landscapes traversed,
-and the information received all bear the stamp of ontological reality.
-
-## Contrast with Classical Hallucinogens
-
-While hallucinatory states can be induced by various compounds including
-LSD, mescaline, ketamine, and dissociative anesthetics, McKenna argued
-that the tryptamine family is unique in the intensity and specificity of
-its effects on consciousness. The rapid onset, the overwhelming visual
-component, and the consistent encounter with what appears to be an
-independent intelligence all point toward a distinctive mechanism of action
-that goes beyond simple serotonergic agonism.
-
-## Implications for Consciousness Studies
-
-The quantum mechanical hypothesis for tryptamine action has several
-implications for consciousness studies:
-
-- It suggests that consciousness is fundamental to physical reality, not
-  an epiphenomenon of neural computation.
-- It provides a framework for understanding why psychedelic experiences
-  feel more "real" than dreams or fantasies.
-- It opens the possibility that [[weil-the-natural-mind-altered-states-normalcy]] of consciousness provide
-  access to genuine information about the nature of reality.
-- It implies that the brain is not merely a passive receiver of sensory
-  data but an active participant in the construction of reality at the
-  quantum level.
-
-## Related
-
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[tryptamine-consciousness-theory]]
-- [[terence-mckenna-tryptamine-hypothesis]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---
@@ -86,17 +87,3 @@ should not be limed. Legumes tolerate a range of pH but do best
 around 6.5. Root vegetables generally need pH above 6.5 to avoid
 certain diseases. Understanding these preferences allows you to
 adjust pH in different plots according to your [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]].
-
-## Summary
-
-Soil pH management through liming is a cornerstone of organic soil
-care. Regular pH testing informs lime applications, which should be
-small, regular doses rather than large infrequent ones. Timing is
-critical: lime in spring, manure in fall, and never both together.
-[[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] lime type for your needs; dolomite limestone offers
-the best long-term value with added magnesium. Where soil is too
-alkaline, liberal [[hamilton-composting-and-organic-matter-management]] applications and raised beds
-provide effective solutions without synthetic acidifiers.
-
-[[staycare-spent-mushroom-compost-bioremediation]] can also raise pH moderately while adding organic matter
-and beneficial microorganisms to the soil profile simultaneously.

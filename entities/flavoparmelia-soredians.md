@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Flavoparmelia soredians** (Nyl.) Hale is a foliose lichen in the family Parmeliaceae, closely related to the common *Flavoparmelia caperata*. The species is characterized by its yellow-green to green thallus with marginal soralia and its association with nutrient-enriched bark substrates.
+**Flavoparmelia soredians** (Nyl.) Hale is a foliose lichen in the family Parmeliaceae, closely related to the common *[[flavoparmelia-caperata]]*. The species is characterized by its yellow-green to green thallus with marginal soralia and its association with nutrient-enriched bark substrates.
 
 It is distinguished from *F. caperata* by its more closely adnate lobes, finer soralia, and different chemistry (containing usnic acid and atranorin rather than protocetraric acid). The species is widespread across Europe and North America, occurring on a variety of tree species in both rural and urban settings.
 
@@ -49,9 +49,9 @@ Growth rates are moderate for a foliose lichen, with radial expansion of 2-5 mm 
 
 ## Distribution and Habitat
 
-Flavoparmelia soredians has a wide distribution across temperate regions of Europe and North America. In Europe, it occurs from the British Isles and Scandinavia southward to the Mediterranean basin and eastward into central and eastern Europe.
+Flavoparmelia soredians has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and North America. In Europe, it occurs from the British Isles and Scandinavia southward to the Mediterranean basin and eastward into central and eastern Europe.
 
-In North America, the species is found from eastern Canada and the northeastern United States southward through the Appalachian region. Populations also occur in the Great Lakes region and parts of the Pacific Northwest. It is generally less common in arid interior regions.
+In North America, the species is found from eastern Canada and the northeastern United States southward through the Appalachian region. Populations also occur in the Great Lakes region and parts of the [[psilocybin-north-america-pacific-northwest]]. It is generally less common in arid interior regions.
 
 The species is predominantly corticolous, growing on the bark of deciduous trees with moderate to high bark nutrient content. Preferred substrates include *Quercus*, *Acer*, *Fraxinus*, *Ulmus*, and *Fagus* species. It is also occasionally found on conifers, particularly in areas with higher nitrogen deposition.
 
@@ -59,7 +59,7 @@ F. soredians shows a strong preference for well-lit conditions and is most abund
 
 The species is notably tolerant of eutrophication and is often one of the more abundant foliose lichens in areas with elevated atmospheric nitrogen. This tolerance makes it a useful bioindicator of nutrient enrichment in forest and urban lichen communities.
 
-This nitrogen tolerance contrasts sharply with the behavior of *Lobaria pulmonaria* and other cyanolichens, which decline under eutrophication. The opposing responses of these species to nitrogen deposition have been used to develop lichen-based nitrogen indices for air quality assessment.
+This nitrogen tolerance contrasts sharply with the behavior of *[[lobaria-pulmonaria]]* and other cyanolichens, which decline under eutrophication. The opposing responses of these species to nitrogen deposition have been used to develop lichen-based nitrogen indices for air quality assessment.
 
 Elevation typically ranges from sea level to approximately 800 meters. The species is less common at higher elevations where lower temperatures and reduced [[ph-and-nutrient-availability-garden-soils]] limit its growth and reproductive capacity.
 
@@ -79,7 +79,7 @@ Thin-layer chromatography (TLC) is recommended for definitive chemical separatio
 
 Flavoparmelia soredians is a mutualistic symbiont with trebouxia-like green algae (Chlorophyta) housed in the medullary layer beneath the upper cortex. The photobiont provides photosynthetically fixed carbohydrates to the fungal partner, while receiving protection from UV radiation and desiccation.
 
-The species is a mid-to-late successional foliose lichen that typically colonizes bark after pioneer crustose species have established. It often co-occurs with other foliose Parmeliaceae including *Flavoparmelia caperata*, *Hypogymnia physodes*, and *Parmotrema perlatum* in mature lichen communities.
+The species is a mid-to-late successional foliose lichen that typically colonizes bark after pioneer crustose species have established. It often co-occurs with other foliose Parmeliaceae including *Flavoparmelia caperata*, *[[hypogymnia-physodes]]*, and *[[parmotrema-perlatum]]* in mature lichen communities.
 
 Vegetative dispersal through soredia is the primary reproductive mode, with sexual reproduction via apothecia being rare. Soredia are efficiently dispersed by wind and can establish new thalli on suitable bark surfaces within a range of several meters from the parent colony.
 
@@ -88,34 +88,3 @@ The species provides habitat and food resources for various invertebrates, inclu
 F. soredians contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] on tree bark surfaces through the retention of atmospheric particles and the gradual release of organic acids. Its tolerance of elevated nitrogen levels allows it to thrive in environments where more sensitive lichen species decline.
 
 In urban and suburban settings, F. soredians is often one of the most abundant foliose lichens on street trees and park trees. Its ability to tolerate both air pollution and nutrient enrichment makes it a successful colonizer of anthropogenic habitats.
-
-The species has shown increasing abundance in many European forests over recent decades, a trend attributed to rising atmospheric nitrogen deposition from agricultural and vehicular emissions. This expansion has occurred simultaneously with declines in more nitrogen-sensitive lichen species.
-
-F. soredians can serve as a biological monitor for long-term changes in forest nutrient status. Changes in its abundance and [[guzman-global-distribution-patterns-neurotropic-fungi]] provide early warning signals of shifts in ecosystem chemistry that may affect broader forest health.
-
-## Similar Species
-
-**Flavoparmelia caperata** is the most commonly confused species, but it has larger, more loosely attached lobes with coarser soralia and contains protocetraric acid in the medulla (PD+ red). F. caperata also tends to have a more distinctly yellow upper surface and broader lobes.
-
-**Xanthoria parietina** can have a similar yellow-green coloration but belongs to a different family (Teloschistaceae) and contains different chemistry (parietin rather than usnic acid). X. parietia has a distinctly orange-yellow thallus and more tightly adnate, smaller lobes.
-
-The two species sometimes grow in close proximity on the same tree, particularly in nutrient-enriched open habitats. In such situations, their contrasting chemistries (usnic acid vs. parietin) and different soralia types make separation straightforward even for novice lichenologists.
-
-**Physcia stellaris** is a smaller foliose lichen with broader, more rounded lobes and a white lower surface. It contains atranorin and zeorin but lacks usnic acid in the cortex, resulting in a grey rather than yellow-green upper surface.
-
-**Parmotrema perlatum** is a larger foliose lichen with cilia on the lobe margins and a different chemistry (containing salazinic acid). P. perlatum typically grows in more humid, shaded habitats compared to the light-loving F. soredians.
-
-Field identification can be confirmed by the combination of yellow-green cortex (usnic acid), C- medulla, and fine marginal soralia. This combination is distinctive among temperate foliose lichens and reduces confusion with grey or white-cortex species that might share similar growth forms.
-
-## See Also
-
-- [[flavoparmelia-caperata]]
-- [[xanthoria-parietina]]
-- [[hypogymnia-physodes]]
-- [[evernia-prunastri]]
-- [[physcia-stellaris]]
-- [[parmotrema-perlatum]]
-- [[physcia-aipolia]]
-- [[cetraria-islandica]]
-- [[lecanora-muralis]]
-- [[cladonia-rangiferina]]

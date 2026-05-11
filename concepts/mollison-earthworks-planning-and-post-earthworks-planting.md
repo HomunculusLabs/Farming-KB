@@ -2,7 +2,7 @@
 title: "mollison earthworks planning and post earthworks planting and Post-Earthworks Planting"
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - earthworks
   - soil-rehabilitation
   - erosion-control
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -19,7 +20,7 @@ type: concept
 Mollison provides detailed guidance on planning earthworks and
 the critical follow-up of planting after soil disturbance. The
 principle is that every time soil is moved, planting and
-stabilisation must follow immediately to prevent erosion and
+stabilisation must follow immediately to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]] and
 weed invasion.
 
 ## Planning the Earthworks Process
@@ -39,7 +40,7 @@ before machines or labourers arrive on site:
 4. Plan a place to store all topsoil removed during
    excavations. Never allow topsoil to be mixed with subsoil,
    but carefully remove it to be later returned to the site as
-   a growing medium and to stabilise subsoil erosion.
+   a [[cervantes-green-algae-growing-medium]] and to stabilise subsoil erosion.
 
 ## Soil Volume Changes
 
@@ -87,49 +88,3 @@ planting and stabilisation, plant materials must be on standby
 to implement the plan as soon after disturbance as possible.
 
 ## Seed and Plant Mixes for Stabilisation
-
-Mollison provides several effective mixes for most soils:
-
-- Sunflower, or mixed parrot seed with sunflower, millets,
-  pulses, chard, parsley, lupin, and clovers.
-- Parsnip (fresh seed), salsify, daikon radish, radish, turnip;
-  all of these spike the soil.
-- Bulbs of lilies, grape hyacinth.
-- Roots of sunroot, comfrey, chicory, horseradish, ginger,
-  [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], turmeric.
-- Divisions of bamboo, banna grass, pampas grass, aloes, agave,
-  New Zealand hemp.
-- Seedlings or sets of elephant garlic, asparagus, globe
-  artichoke.
-- Cuttings of small fruits: elderberry, willow, poplar,
-  mulberry, Pride of Madeira (Echium fastuosum).
-- Tubed seedlings of tagasaste, Coprosma,
-  pines, eucalypts, shrubs.
-
-## Slope Stabilisation with Plants
-
-Trees are a danger on dam walls (if they fall they take part of
-the wall with them), but bamboos, ginger, sweet potato, pepino,
-and clump grasses assist bank stabilisation. Trees at the base
-of walls are advantageous in shading, removing water, and
-reducing weeds.
-
-The [[gaias-garden-net-and-pan-water-harvesting]] planting pattern is an effective control in
-overgrazed, eroded, mined, or bulldozed sites. Logs cross-slope
-hold mulch until tree-lines establish; logs rot but mulch is
-renewed annually by banana clumps.
-
-## Erosion Control Structures
-
-Even small logs and branches, pegged across erosion channels,
-build up a layer-cake of silt and leaves, beside which can be
-planted willow, [[acacia]], or any other fibrous-rooted and hardy
-species, which then act as a permanent silt trap. Mulch behind
-logs and barriers quickly stabilises the seed bed for planting.
-
-Small wire netting fences, with stone-weighted hay uphill, will
-trap silt and spread water, as will cross-swales of lemongrass
-or [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]. On very steep slopes, plant pampas, bamboo,
-lemongrass, and root-mat pioneers, and make upslope plantings
-of chestnut, Acacia, [[mollison-tropical-mulch-systems-and-materials]]
-- [[mollison-barrier-plants-in-garden-design]]

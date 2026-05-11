@@ -1,5 +1,5 @@
 ---
-title: Solanaceous Hallucinogens of Medieval harner-european-witchcraft-hallucinogens
+title: Solanaceous Hallucinogens Of Medieval European Witchcraft
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, tropane-alkaloids, european-history, witchcraft]
 date: 2026-04-25
@@ -65,8 +65,8 @@ ingredients in the witches' brews of Europe.
 
 ## Datura (Datura metel)
 
-Datura metel, known as dhatura and dutra in India, is an important Old
-World species of the deadly nightshade family. Its narcotic properties
+[[datura-metel]], known as dhatura and dutra in India, is an important Old
+World species of the [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] family. Its narcotic properties
 have been known and valued in India since prehistory. Some writers have
 credited it with causing the intoxicating smoke associated with the
 Oracle of Delphi. Early Chinese writings report a hallucinogen
@@ -88,38 +88,3 @@ characteristically vivid hallucinations. Users often report the
 sensation of flight, which may explain the widespread folklore of
 witches flying to sabbaths. The hallucinations under tropane influence
 are distinct from those of psilocybin or [[european-witchcraft-hallucinogenic-plants]] of these plants, combined with their toxicity, created a
-body of folklore and fear that persisted for centuries and resulted in
-the execution of thousands of accused witches.
-
-## The Flying Ointment Connection
-
-The sensation of flight reported by those who ingested solanaceous
-hallucinogens is central to the mythology of the witches' sabbath.
-Historical accounts describe witches applying ointments made from these
-plants to their skin or mucous membranes, which would have delivered
-tropane alkaloids transdermally. This method of administration could
-produce powerful psychoactive effects while bypassing the severe nausea
-that often accompanies oral ingestion of these plants. The combination
-of tropane alkaloids with other ingredients such as animal fats and
-herbal additives may have modified the pharmacokinetics, potentially
-producing more reliable psychoactive results.
-
-## Modern Relevance
-
-Despite their historical association with witchcraft and poison, the
-tropane alkaloids derived from these solanaceous plants remain
-critically important in modern medicine. Atropine is essential in
-ophthalmology, cardiology, and as an antidote to nerve agent and
-pesticide poisoning. Scopolamine is used for motion sickness and as a
-preanesthetic medication. The plants that once fueled the darkest
-superstitions of medieval Europe now save lives in modern hospitals,
-demonstrating how the boundary between poison and medicine often depends
-on dosage and context.
-
-## See Also
-
-- [[lycanthropy-solanaceous-hallucinogens]]
-
-- [[hallucinogenic-plants-history-ethnobotany]]
-- [[datura-metel-old-world-ethnobotany]]
-- [[iboga-and-the-bwiti-cult-initiation]]

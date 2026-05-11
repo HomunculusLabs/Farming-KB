@@ -6,13 +6,13 @@ tags:
   - fungi
   - boletaceae
   - edible-mushroom
-  - mycology
+  - [[mycology]]
   - bluing-bolete
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). growing-gourmet-north-american-reishi-species Boletes: A Color Guide to the Fleshy Pored Mushrooms. Syracuse University Press."
-  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern dmt-containing-plants-united-states-halpern.\" Mycotaxon, 120, 473-488."
+  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern [[dmt-containing-plants-united-states-halpern]].\" Mycotaxon, 120, 473-488."
   - "Kuo, M. (2024). Gyroporus cyanescens. MushroomExpert.com."
   - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
 ---
@@ -79,7 +79,7 @@ Sporada ochraceous to yellow-brown in mass.
 ## Distribution and Habitat
 
 Found across temperate Europe (especially central and southern regions) and
-eastern North America, with scattered reports from Asia.
+eastern [[guzman-psilocybin-mushrooms-north-america]], with scattered reports from Asia.
 
 Ectomycorrhizal, forming associations primarily with broadleaf trees:
 - *Quercus* spp. (oaks) — most common associate
@@ -87,37 +87,3 @@ Ectomycorrhizal, forming associations primarily with broadleaf trees:
 - *Betula* spp. (birches)
 - *Carpinus* betulus (hornbeam)
 - *Corylus* avellana (hazel)
-
-Fruits singly to scattered on the ground in deciduous and mixed forests.
-Prefers sandy or loamy soils with good drainage.
-Season: July to October in Europe; August to October in North America.
-
-## Chemistry and Bluing Reaction
-
-The vivid blue staining of *G. cyanescens* is caused by gyrocyanin,
-an unstable phenolic compound that oxidizes rapidly upon exposure to air.
-
-Gyrocyanin structure:
-- Categorized as a pulvinic acid derivative
-- Closely related to variegatic acid found in *Suillus* and *Boletus* species
-- Oxidation converts colorless gyrocyanin → blue gyrocyanin radical
-- The blue color fades over 30–60 minutes as the compound further degrades
-
-Unlike the bluing in *Boletus* species (caused by boletocrocin and variegatic
-acid derivatives), gyrocyanin is unique to the genus *Gyroporus*.
-This biochemical difference supports the placement of *Gyroporus* in its
-own family, Gyroporaceae, separate from Boletaceae.
-
-No significant [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with pharmacological activity have been
-isolated from this species. The bluing compounds are not psychoactive and
-are unrelated to the indole-based bluing compounds of hallucinogenic boletes.
-
-## Edibility
-
-Considered edible when thoroughly cooked.
-Mild flavor, not highly regarded as a culinary species.
-
-⚠️ **Caution:** The bluing reaction of *G. cyanescens* is sometimes confused
-with toxic blue-staining boletes such as *[[suillus-luteus]] — Shared habitat in mixed forests, contrasting morphology
-- [[xylaria-hypoxylon]] — Fungal species with distinctive pigment chemistry
-- [[gyromitra-esculenta]] — Another fungal species requiring cooking for safety

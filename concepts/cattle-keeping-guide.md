@@ -1,5 +1,5 @@
 ---
-title: Cattle duck-keeping-guide-detailed
+title: Cattle Keeping Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,14 +10,14 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Cattle are versatile large livestock providing milk, meat, draft power, and manure. For the small farmer, a single dairy cow or a small herd of dual-purpose cattle can provide significant food security.
 
 ## How Cattle Fit into a Permaculture System
 
 - **Orchard grazing**: Can be allowed to graze in the orchard after at least 7 years (if sheep have not been harming the trees). They should graze to control grass, not clear all vegetation.
-- **Manure production**: Large quantities of manure for composting and soil building
+- **Manure production**: Large quantities of manure for [[composting]] and soil building
 - **Milk**: A family cow provides a gallon or more per milking — enough for family needs and potentially a small surplus
 - **Meat**: Steers and bulls provide beef; dual-purpose breeds work well for both milk and meat
 - **Draft power**: Steers can be trained as oxen for farm work
@@ -87,29 +87,3 @@ Breeds are divided into two groups:
 - **Heel fly**: Lays eggs in the heel; larvae crawl through blood vessels and bore through the skin. Prevention: reduce fly population with natural predators (frogs, lizards)
 
 ## Breeding
-
-- **Breeding age**: After 1 year old (but beware — a 3-month-old can conceive)
-- **Gestation**: 285 days (9.5 months)
-- **Heat cycle**: Every 18–24 days; first heat appears 30–60 days after calving
-- **Heat signs**: Restless, stamping feet, excessive tail twitching, making noise, red swollen vulva, other cows attempt to mount her, may try to mount you or run through fences
-- **Timing example**: Breed in mid-May for early March calves
-- **Dry period**: Dry up the cow 2–3 months before calving for a healthy pregnancy
-- **Calving**: Bring her into the barn with thick clean bedding; she should be able to calve alone. Call a vet if no birth after 3–4 hours of active labor.
-- **Reproductive life**: A cow can have a calf every year until 10–16 years old (rarely to 20)
-
-## Milking
-
-- **Frequency**: At least once per day or she will develop mastitis
-- **Yield**: At least a gallon or more per milking
-- **Colostrum**: First 4 days after calving — all goes to the calf
-- **Calf sharing**: Let the calf run with its mother until weaned for easiest feeding
-- **Family needs**: A family typically needs about a gallon of milk per day
-- **Weaning**: Begin when the calf shows interest in other foods (grass, hay, creep feeding). Separate gradually. Wean by 4–5 months old.
-- **Winter calf needs**: A weaned calf eats about 2 pounds of hay per 100 pounds of body weight per day. Three pounds of cornstalks and cobs correspond to one pound of hay.
-
-## Related Topics
-
-- [[sheep-keeping-guide]] — ruminant livestock
-- [[barn-design-guide]] — cattle housing
-- [[permaculture-broadscale-no-till-grain-production]]
-- [[what-natural-farming-method-should-i-use]]

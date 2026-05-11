@@ -1,5 +1,5 @@
 ---
-title: cannabis-sativa cannabis sativa flowering cycle management Management
+title: Cannabis Sativa Flowering Cycle Management
 created: 2026-04-28
 tags: [cannabis, sativa, flowering, cultivation, grow-cycle]
 date: 2026-04-28
@@ -14,16 +14,16 @@ type: concept
 
 The flowering cycle of Cannabis sativa is significantly longer and
 more complex than that of indica-dominant varieties. While indicas
-typically finish in 7-9 weeks, pure sativa strains may require 10-16
+typically finish in 7-9 weeks, pure [[african-landrace-sativa-strains]] may require 10-16
 weeks or even longer to reach full maturity. This extended flowering
-period demands specific management strategies to maintain plant health,
+period demands specific [[weed-management-strategies]] to maintain plant health,
 maximize [[cannabis-glandular-trichome-types-resin-production-clarke]], and achieve optimal cannabinoid and terpene
 profiles.
 
 ## Photoperiod Trigger
 
 Cannabis sativa initiates flowering in response to a reduction in the
-daily dark period. The critical photoperiod for most sativa varieties
+daily dark period. The critical photoperiod for most [[landrace-sativa-varieties]]
 is approximately 12-12.5 hours of uninterrupted darkness. When the
 dark period exceeds this threshold consistently, the plant shifts from
 [[cannabis-vegetative-growth-stage]] to reproductive development.
@@ -46,7 +46,7 @@ than in indica varieties, which typically stretch 50-100%.
 
 Managing the stretch is critical for [[cannabis-sativa-indoor-cultivation-techniques]]:
 
-- **Pre-stretch training:** Top plants during late vegetative growth
+- **Pre-stretch training:** Top plants during late [[green-cannabis-vegetative-growth]]
   to create a wider canopy rather than a single tall leader. Apply
   low-stress training (LST) to encourage horizontal branch
   development.
@@ -87,55 +87,3 @@ internodes. During this phase:
   structures before flowers become heavy.
 
 ## Mid-Flowering (Weeks 6-10)
-
-This is the period of most active resin and cannabinoid production.
-[[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] becomes visible, giving buds a frosty appearance.
-
-- **Nutrient demands:** Phosphorus and potassium requirements peak.
-  Calcium and magnesium demand also increases. Many sativa varieties
-  are heavy feeders during mid-flowering.
-
-- **Terpene development:** The terpene profile develops significantly
-  during weeks 7-10. Temperatures above 28°C can volatilize terpenes
-  and reduce final aromatic quality. A 5-10°C day-night differential
-  can stimulate terpene production.
-
-- **Pest vigilance:** Flowering sativas can harbor spider mites,
-  thrips, and other pests. Introduce biological controls before
-  flowering when possible.
-
-## Late Flowering and Maturation (Weeks 10-16+)
-
-The final phase is the longest and requires the most patience.
-Trichomes transition from clear to cloudy to amber, signaling THC
-degradation to CBN:
-
-- **Clear trichomes:** Harvest is premature. Effects tend to be
-  racy and anxious.
-- **Cloudy (majority):** Peak THC content. Cerebral, energetic,
-  clear-headed effects. Preferred for sativa enthusiasts.
-- **Mixed cloudy and amber (10-30% amber):** Balance of THC potency
-  with CBN body relaxation. The sweet spot for many growers.
-- **Majority amber:** THC degraded significantly. More sedative,
-  less characteristic of the sativa profile.
-
-### Flush Period
-
-Flushing (withholding nutrients) during the final 1-2 weeks remains
-debated. For sativas with extended flowering, a 10-14 day flush may
-help reduce residual nutrient salts, but excessive flushing can stress
-the plant and reduce yield.
-
-## Common Flowering Issues
-
-**Bud rot ([[nutrient-lockout]].
-
-**Slow maturation:** Some sativa strains, particularly Haze
-derivatives and pure equatorial landraces, can take 14-20 weeks to
-finish. Harvesting prematurely sacrifices potency, flavor, and yield.
-Use a jeweler's loupe to monitor trichome development rather than
-relying on pistil coloration alone.
-## See Also
-
-- [[cannabis-sativa-morphology-and-plant-architecture]]
-- [[cannabis-auto-flowering-ruderalis-sativa-indoor]]

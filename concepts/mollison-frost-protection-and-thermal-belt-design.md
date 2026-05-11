@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -18,8 +19,8 @@ type: concept
 
 Frost is identified by Mollison as the limiting factor in plant hardiness
 zones. Understanding where frost occurs, how it flows, and how to prevent
-it is critical for extending growing seasons and [[holzer-fruit-growing-marginal-climates]] species.
-This page covers frost mechanics and the design strategies for frost
+it is critical for [[extending-growing-season]] seasons and [[holzer-fruit-growing-marginal-climates]] species.
+This page covers frost mechanics and the [[mollison-designers-snow-ice-and-winter-design-strategies]] for frost
 protection in permaculture systems.
 
 ## Where Frost Forms
@@ -57,10 +58,10 @@ windbreaks or in-crop crown cover, exclude frost and nullify salty or
 hot winds. In-crop trees can eliminate frost effects in marginal frost
 areas. Trees like avocado and crops like papaya can be grown on
 subtropical frosty sites providing there is a high canopy of hardy palms
-or light-crowned legumes (e.g., Butia palm, Jacaranda, Tipuana tipu).
+or light-crowned legumes (e.g., Butia palm, Jacaranda, [[tipuana-tipu]]).
 
 Such sites do not frost because there is no bare-ground radiation at
-night, and advected frost is impeded. The tree canopy intercepts
+night, and advected frost is impeded. The [[tree-canopy-fungal-sampling-techniques]] intercepts
 outgoing longwave radiation and acts as a thermal blanket over the
 understory. This principle extends to any situation where light-canopy
 trees are planted in gardens for frost protection.
@@ -87,40 +88,3 @@ trees are planted in gardens for frost protection.
   air drainage.
 - Stone walls absorb heat by day and release it slowly at night.
 - Water bodies moderate temperature extremes nearby.
-- Shadehouses and greenhouse structures extend the frost-free season.
-
-### Windbreak Integration
-Many hardy windbreak species also exclude frost. In-crop shade shelter
-of legumes is needed by crops such as avocado, citrus, and cocoa or
-coffee (or any crops needing partial shade). The windbreak not only
-reduces wind chill but prevents advected frost from reaching sensitive
-areas.
-
-## The Altitude-Frost Relationship
-
-Approximately every 100 m of altitude is equivalent to 1 degree of
-latitude in terms of temperature. At 10 degrees latitude off the equator,
-a plateau at 1850 m has a climate more like that at 30 degrees latitude,
-with a probability of wind chill below freezing. This altitudinal factor
-is crucial to design strategies for homes and gardens on high islands or
-mountainous properties.
-
-Snow cover may serve as an insulating blanket, preventing [[coleman-overwintered-onions-and-early-spring-crops]]
-thawing or even autumn freezing if it covers unfrozen ground. Snow cover
-also causes intense reflection, raising air temperatures just above the
-snow by day, but at night radiation from snow causes an extremely cold
-ground air layer.
-
-## Integration with Permaculture Systems
-
-- mollison-microclimate-creation for broader microclimate
-  modification strategies.
-- mollison-zone-and-sector-analysis for placing frost-sensitive
-  components in optimal zones.
-- [[mollison-designers-sun-trap-and-frost-pocket-design]]
-## See Also
-- [[extending-growing-season]]
-- [[mollison-designers-microclimate-creation-frost-protection]]
-- [[mollison-designers-sun-trap-and-frost-pocket-design]]
-- [[mollison-course-swales-and-earthworks-design]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]

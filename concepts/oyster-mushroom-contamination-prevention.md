@@ -9,7 +9,7 @@ type: concept
 # Oyster Mushroom Contamination Prevention
 
 Contamination by competing fungi, bacteria, or pests is the most persistent
-challenge in [[accessible-mushroom-cultivation-for-disabilities]]. Oyster mushrooms grow relatively quickly
+challenge in [[accessible-mushroom-cultivation-for-disabilities]]. [[cultivation-of-oyster-mushrooms]] grow relatively quickly
 and compete well, but prevention is always more effective than remediation.
 A systematic approach to hygiene and process control dramatically reduces
 losses.
@@ -19,12 +19,12 @@ losses.
 ### Fungal Contaminants
 
 Green mold (Trichoderma spp.) is the most common and destructive
-contaminant in mushroom cultivation. It produces massive quantities of
+contaminant [[contamination-prevention-in-mushroom-cultivation]]. It produces massive quantities of
 spores that spread easily through air currents and on surfaces.
-Trichoderma outcompetes mushroom mycelium on supplemented substrates and
+Trichoderma outcompetes [[antimicrobial-compounds-mushroom-mycelium]] on supplemented substrates and
 can destroy entire crops within days of detection.
 
-Black bread mold (Rhizopus stolonifer) appears as fluffy white growth
+Black bread mold ([[rhizopus-stolonifer]]) appears as fluffy white growth
 that rapidly turns dark gray to black. It thrives on moist grain and
 poorly pasteurized substrates. Spread is primarily airborne.
 
@@ -44,8 +44,8 @@ discolored substrate. Common bacterial contaminants include Pseudomonas
 and Bacillus species. They thrive in anaerobic conditions created by
 overly wet substrates or insufficient gas exchange.
 
-Bacterial blotch on fruiting bodies appears as dark, sunken lesions on
-mushroom caps. It is caused by Pseudomonas tolaasii and is promoted by
+[[growing-gourmet-bacterial-blotch-disease-management]] on fruiting bodies appears as dark, sunken lesions on
+mushroom caps. It is caused by [[pseudomonas-tolaasii-entity-the-mushroom-cultivator]] and is promoted by
 water droplets sitting on cap surfaces for extended periods.
 
 ### Insect Pests
@@ -87,63 +87,3 @@ Effective contamination prevention starts with facility design:
 - Autoclave or pressure-cook all filter materials and reusable tools
 - Replace HEPA filters on flow hoods according to manufacturer
   schedules (typically every 1-2 years)
-
-## Process Controls
-
-### Pasteurization and Sterilization
-
-Proper substrate treatment is the foundation of contamination prevention:
-
-- [[growing-gourmet-hot-water-pasteurization-straw]]: submerge straw at 65-80C for 60-120 minutes.
-  This kills most competitors while preserving beneficial thermophilic
-  organisms.
-- Steam pasteurization: expose substrate to [[growing-gourmet-atmospheric-steam-sterilization]] at 100C
-  for 8-12 hours for bulk substrates.
-- [[boil-a-bag-pressure-sterilization-technique]]: 15 PSI at 121C for 60-90 minutes for grain
-  spawn and supplemented substrates. This achieves true sterilization.
-- Always verify temperatures with calibrated thermometers, not
-  estimates. A single cold spot can seed contamination through an
-  entire batch.
-
-### Inoculation Best Practices
-
-- Work quickly to minimize exposure time of open containers
-- Maintain a flame front or work within the laminar flow zone of a
-  HEPA filter
-- Use only fresh, vigorous spawn from reliable sources
-- Never reuse spawn containers or tools without sterilization
-- Keep spawn production separate from fruiting areas
-
-## Biological Efficiency and Contamination Loss
-
-Biological efficiency (BE) measures yield as fresh mushroom weight
-divided by dry substrate weight, expressed as a percentage. Oyster
-mushrooms typically achieve 50-150% BE under good conditions.
-
-Contamination losses of 5-15% are considered acceptable in small-scale
-operations. Commercial facilities target losses below 3% through strict
-process controls and environmental monitoring.
-
-Tracking BE by batch helps identify contamination trends before they
-become systemic problems. Sudden drops in BE often indicate emerging
-contamination issues in the facility.
-
-## Contamination Response Protocol
-
-When contamination is detected, rapid response limits losses:
-
-1. Immediately isolate contaminated containers away from clean areas
-2. Do not open contaminated containers; spore release makes problems
-   worse
-3. Dispose of contaminated material by double-bagging before removal
-4. Clean and disinfect the surrounding area thoroughly
-5. Identify the contaminant type to determine the likely source
-6. Review recent process steps to find the root cause
-## See Also
-
-- [[oyster-mushroom-contamination-management]] for remediation
-  strategies
-- [[oyster-mushroom-spawn-production]] for clean spawn methods
-- [[oyster-mushroom-fruiting-conditions]] for fruiting phase hygiene
-- [[substrate-contamination]] for identification guide
-- [[oyster-mushroom-clean-room-design]] for facility planning

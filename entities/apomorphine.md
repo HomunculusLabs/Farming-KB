@@ -26,7 +26,7 @@ Apomorphine is a short-acting dopamine receptor agonist derived from morphine th
 
 It was first synthesized in 1869 by Arata and Matsumoto and was subsequently identified as a potent emetic agent in veterinary medicine.
 
-Despite its structural origin from morphine, apomorphine has no opioid receptor activity and acts exclusively on dopamine receptors.
+Despite its structural origin from morphine, apomorphine has no [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and acts exclusively on dopamine receptors.
 
 Apomorphine was introduced as a treatment for Parkinson disease in the 1950s and remains in clinical use as a rescue therapy for motor fluctuations.
 
@@ -58,9 +58,9 @@ The duration of effect is relatively short, approximately 40–90 minutes, neces
 
 The emetic effect of apomorphine is mediated through D2 receptor activation in the chemoreceptor trigger zone of the area postrema.
 
-Apomorphine also stimulates growth hormone release through hypothalamic D2 receptor activation and has been used diagnostically in growth hormone stimulation tests.
+Apomorphine also stimulates [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] release through hypothalamic D2 receptor activation and has been used diagnostically in growth hormone stimulation tests.
 
-The compound undergoes extensive first-pass metabolism with negligible oral bioavailability, precluding oral administration.
+The compound undergoes extensive first-pass metabolism with negligible [[first-pass-metabolism-and-oral-bioavailability]], precluding oral administration.
 
 Metabolism occurs primarily through glucuronidation, N-demethylation, and catechol O-methylation by catechol-O-methyltransferase (COMT).
 
@@ -70,13 +70,13 @@ Apomorphine is synthesized from morphine through treatment with concentrated hyd
 
 The reaction involves dehydration and rearrangement of the morphinan skeleton to form the aporphine ring system, converting the ether linkage to a direct carbon-carbon bond.
 
-Modern industrial synthesis uses morphine or codeine as starting material, with overall yields of approximately 30–40%.
+Modern industrial synthesis uses morphine or codeine as [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], with overall yields of approximately 30–40%.
 
 Semi-synthetic apomorphine derivatives have been investigated for improved pharmacokinetic properties and receptor subtype selectivity.
 
 N-propylnorapomorphine (NPA) is a more potent and selective D2 agonist used in neuroscience research.
 
-Apomorphine also serves as the parent compound for several experimental derivatives with activity at serotonin receptors and adrenergic receptors.
+Apomorphine also serves as the parent compound for several experimental derivatives with activity at [[psilocybin-pharmacology-and-serotonin-receptors]] and adrenergic receptors.
 
 Biotechnological production using engineered microorganisms has been explored as an alternative to morphine-derived synthesis.
 
@@ -87,40 +87,3 @@ Apomorphine is approved for the acute treatment of "off" episodes in patients wi
 It is typically administered as intermittent subcutaneous injections of 2–6 mg or as continuous subcutaneous infusion via a portable pump.
 
 Pre-treatment with the antiemetic trimethobenzamide is recommended for the first few days of therapy to manage initial nausea and vomiting.
-
-A sublingual film formulation (Kynmobi) was approved by the FDA in 2020, providing a non-injectable rescue option for Parkinsonian "off" periods.
-
-Apomorphine has been used diagnostically in the apomorphine challenge test to predict responsiveness to levodopa therapy in newly diagnosed Parkinson disease.
-
-In veterinary medicine, apomorphine is used as a rapid-acting emetic to induce vomiting in dogs following ingestion of toxic substances.
-
-The drug has been investigated for the treatment of erectile dysfunction through intracavernosal injection, producing erections through central dopaminergic mechanisms.
-
-Research into apomorphine's potential for treating restless legs syndrome and drug addiction has produced mixed but promising results.
-
-## Legal Status
-
-Apomorphine is a prescription-only medication in most countries and is not classified as a controlled substance.
-
-In the United States, apomorphine hydrochloride is available by prescription under the brand name Apokyn for Parkinson disease.
-
-The drug is unscheduled under the United States Controlled Substances Act despite its derivation from morphine, owing to its lack of opioid activity and abuse potential.
-
-In the European Union, apomorphine is approved for the treatment of advanced Parkinson disease and is available as an injectable solution.
-
-The United Kingdom classifies apomorphine as a Prescription Only Medicine (POM) under the Human Medicines Regulations 2012.
-
-International control under the UN drug conventions does not apply to apomorphine, as it has no significant abuse potential or opioid effects.
-
-## See Also
-
-- [[morphine]]
-- [[codeine]]
-- [[thebaine]]
-- [[papaver-somniferum]]
-- [[glaucine]]
-- [[nuciferine]]
-- dopamine
-- [[caffeine]]
-- [[nicotine]]
-- [[cocaine]]

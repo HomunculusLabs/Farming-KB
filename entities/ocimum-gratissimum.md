@@ -27,9 +27,9 @@ southern Asia, and the Bismarck Archipelago, but has naturalized widely across t
 and subtropical regions.
 
 The species is distinguished by its intensely clove-scented leaves, attributable to
-high concentrations of eugenol in its essential oil. It holds a prominent position in
+high concentrations of eugenol in its [[permaculture-designers-manual-essential-oil-plants]]. It holds a prominent position in
 traditional medicine across West Africa, where it is used to treat fevers, respiratory
-infections, and gastrointestinal disorders.
+infections, and [[blesching-cannabis-gastrointestinal-disorders]].
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ approximately 6 mm long, and white or slightly tinged with purple.
 ## Distribution and Habitat
 
 O. gratissimum is pantropical in distribution, occurring throughout sub-Saharan
-Africa, South and [[psilocybe-southeast-asia-pacific]], Oceania, and tropical South America. It thrives
+Africa, South and [[psilocybe-southeast-asia-pacific]], Oceania, and tropical [[guzman-psilocybin-mushrooms-south-america]]. It thrives
 in a range of ecological zones from coastal savanna to forest margins.
 
 The species prefers well-drained soils with moderate fertility and responds well
@@ -77,7 +77,7 @@ linalool, and methyl eugenol. The thymol chemotype also contains significant
 
 Oil yield from fresh leaves ranges from 0.5% to 2.5% depending on chemotype,
 [[cannabis-harvest-timing-visual-cues]], and drying method. [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is the standard extraction
-method, with highest yields obtained from flowering aerial parts.
+method, with [[query-which-cannabis-training-techniques-produce-highest-yields]] obtained from flowering aerial parts.
 
 ## Pharmacology and Traditional Medicine
 
@@ -86,56 +86,5 @@ orally to treat malaria fevers. Antimalarial activity has been demonstrated
 in vivo, with leaf extract showing parasite suppression comparable to chloroquine
 in murine models.
 
-Antibacterial activity has been confirmed against Staphylococcus aureus,
+Antibacterial activity has been confirmed against [[staphylococcus-aureus]],
 Escherichia coli, Pseudomonas aeruginosa, and Salmonella typhi, with the
-eugenol-rich essential oil showing the strongest inhibition zones.
-
-Antidiarrheal effects are attributed to reduction of intestinal fluid
-secretion and smooth muscle relaxation. The leaf extract has demonstrated
-antispasmodic activity in isolated rabbit ileum preparations.
-
-Antioxidant capacity is significant, with DPPH radical scavenging IC50 values
-comparable to ascorbic acid. Phenolic compounds, particularly rosmarinic acid
-and caffeic acid derivatives, are responsible for this activity.
-
-Hypoglycemic effects have been observed in streptozotocin-induced diabetic rats,
-supporting traditional use in managing diabetes symptoms.
-
-## Culinary Uses
-
-Fresh or dried leaves are used as a culinary herb across West Africa and
-Southeast Asia. The flavor is a complex blend of clove, anise, and basil notes,
-making it a distinctive ingredient in soups, stews, and pepper soups.
-
-In Nigeria, it is a key ingredient in egusi soup and pepper soup preparations.
-In Thailand and Vietnam, it is used in curries and fish dishes, often
-interchangeably with holy basil (O. tenuiflorum) where the clove-scented
-profile is desired.
-
-The leaves are also brewed as an herbal tea, consumed for its aromatic
-qualities and perceived medicinal benefits including cold relief and
-digestive comfort.
-
-## Permaculture and Agroforestry
-
-O. gratissimum serves multiple functions in tropical agroecosystems. As a
-fast-growing perennial hedge, it provides effective windbreaks and boundary
-marking. Its aromatic foliage acts as an insect repellent, reducing pest
-pressure on adjacent vegetable crops.
-
-Intercropping with maize, cassava, or solanaceous vegetables has been
-documented in West African smallholder systems. The herb's allelopathic
-properties may suppress certain weed species, though this requires further
-investigation.
-
-Propagation is straightforward from stem cuttings (15–20 cm, semi-hardwood),
-which root within 7–14 days under humid conditions. [[cannabis-seed-germination-methods]] is
-also viable but less commonly practiced by traditional growers.
-
-The species is nitrogen-fixing through associated rhizobacteria, contributing
-to soil fertility in mixed cropping systems. Regular harvesting for leaf
-production stimulates bushier growth and extends productive lifespan.
-
-## See Also
-
-[[ocimum-tenuiflorum-entity]] · [[eugenia-caryophyllata]] · [[azadirachta-indica]] · [[cymbopogon-martinii]]

@@ -88,22 +88,3 @@ No significant medicinal or nutritional uses have been documented for Juncus inf
 Juncus inflexus is most closely related to [[juncus-effusus]], with which it is frequently confused in the field. Key distinguishing features include the grey-green glaucous stems, septate pith, and laterally branched inflorescence of J. inflexus, compared to the bright green solid-pithed stems and terminal inflorescence cluster of J. effusus.
 
 [[juncus-conglomeratus]] is another close relative that shares the branched inflorescence pattern. It differs in having green rather than glaucous stems and a more compact, congested inflorescence head. Intermediate forms between these species occur where ranges overlap, and hybridization has been documented.
-
-[[boletus-reticulatus]] (jointed rush) is a smaller species with distinctly jointed (articulate) stems and a preference for more calcareous habitats. [[juncus-tenuis]] (path rush) is a smaller, slender species of disturbed ground that is easily recognized by its reduced inflorescence with a single terminal cluster. [[juncus-bufonius]] (toad rush) is an annual species of wet disturbed ground, much smaller in all dimensions.
-
-Among sedges, the tussock-forming [[carex-acutiformis]] and [[carex-riparia]] occupy similar wetland margin habitats but are readily distinguished by their three-ranked leaves and sedge-like inflorescences. The spike rush [[eleocharis-palustris]] occupies comparable aquatic margins but forms rhizomatous mats rather than tussocks.
-
-The grass [[deschampsia-caespitosa]] frequently co-occurs with Juncus inflexus in damp acidic grasslands. Both species form tussocks, but the grass is recognized by its open panicle inflorescence and flat leaf blades. [[succisa-pratensis]] (devil's-bit scabious) is a common forb associate in the same wet meadow communities, producing distinctive rounded flower heads in late summer.
-
-In wet heathland transitions, [[molinia-caerulea]] (purple moor-grass) replaces Juncus inflexus as the dominant tussock-forming species. The two may co-occur, with rushes occupying wetter microsites and Molinia on slightly elevated ground. Both contribute to the tussock-hollow microtopography characteristic of these transitional habitats.
-
-## See Also
-
-- [[juncus-effusus]]
-- [[juncus-conglomeratus]]
-- [[boletus-reticulatus]]
-- [[juncus-tenuis]]
-- [[juncus-bufonius]]
-- [[carex-rostrata]]
-- [[phragmites-australis]]
-- [[molinia-caerulea]]

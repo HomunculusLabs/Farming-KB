@@ -13,8 +13,8 @@ sources:
 The Zygomycota is a phylum of fungi comprising more than 1,000
 described species, including many ecologically important organisms.
 Zygomycetes range from common soil saprobes and plant pathogens to
-obligate parasites of insects and other animals. Despite their
-ubiquity and ecological significance, the phylogeny and taxonomy of
+obligate [[bloomfield-fungal-parasites-of-insects]] and other animals. Despite their
+ubiquity [[lichen-biology-guide]], the phylogeny and taxonomy of
 Zygomycota remain in flux, as molecular evidence has revealed that
 the group, as traditionally defined, is not monophyletic.
 
@@ -66,7 +66,7 @@ obligate [[coleman-first-rule-nature-makes-sense]] them difficult to culture and
 The Zoopagales prey on amoebae and other small soil organisms using
 adhesive traps or specialized capture organs. Species in genera like
 *Zoopage* and *Zoophagus* are important predators in soil microfaunal
-communities, influencing the population dynamics of their prey and
+communities, influencing the [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] of their prey and
 contributing to the complexity of soil food webs.
 
 ## Trichomycetes: Gut Symbionts
@@ -88,60 +88,3 @@ their insect hosts.
 
 Zygomycetes reproduce both asexually, through sporangiospores and
 other spore types, and sexually, through the formation of zygospores.
-Zygospores are thick-walled resting spores formed by the fusion of
-specialized hyphae (gametangia) from compatible mating types.
-
-Zygospore germination is rare in the literature, making the study of
-[[fungal-life-cycles-sexual-reproduction-metamorphosis]] in this group particularly challenging. The
-diversity of asexual reproductive structures in Zygomycota is
-remarkable, including sporangia, merosporangia, sporangiola, and
-various types of conidia.
-
-## Ecological Importance
-
-Zygomycetes are ecologically significant as decomposers, pathogens,
-and symbionts. Many species are among the first colonizers of fresh
-[[hamilton-composting-and-organic-matter-management]] and are prominent in coprophilous succession, appearing
-within 5 to 14 days on dung substrates.
-
-*Rhizomucor pusillus* is a primary sugar fungus on wheat-straw
-compost, while other species degrade cellulose, keratin, and other
-complex polymers. In soil ecosystems, Zygomycetes contribute to the
-early stages of decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-Some zygomycetes are thermophilic, growing at temperatures between
-45 and 50 degrees Celsius, and play important roles in the
-decomposition of heated organic matter such as compost. These
-thermotolerant species can be isolated from soil and plant materials
-through enrichment cultures with selective carbon sources including
-cellulose, chitin, keratin, and lignin.
-
-## Pathogenic Zygomycetes
-
-Some Zygomycete species are important human pathogens, particularly
-mucormycosis-causing agents in immunocompromised patients. Species
-of *Rhizopus*, *Mucor*, and *Lichtheimia* can cause invasive
-infections of the sinuses, lungs, and brain, with mortality rates
-exceeding 50% in disseminated cases.
-
-Zygomycetes also include pin molds, some of which are common
-contaminants in laboratories and food storage facilities, causing
-spoilage of fruits, vegetables, and grain products. *Rhizopus
-stolonifer* (black bread mold) is among the most familiar and
-economically damaging species.
-
-## Relationship to Crown Fungi
-
-The Glomales ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, now placed in
-Glomeromycota) have been shown to be a sister clade to the
-Ascomycota/Basidiomycota lineage. Together, these three groups
-constitute the monophyletic "crown fungi." An estimated 80% of all
-plant species are associated with Glomales, underscoring the critical
-importance of arbuscular mycorrhizal fungi for life on land.
-
-## See Also
-
-- [[decomposition]]
-- [[biodiversity-glomeromycota-diversity]]
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[saprobic-soil-fungi]]

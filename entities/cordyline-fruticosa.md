@@ -45,17 +45,17 @@ The root system of Cordyline fruticosa is fibrous and shallow, with thickened tu
 
 ## Distribution and Habitat
 
-Cordyline fruticosa is native to Southeast Asia, Melanesia, and northern Australia, with its center of diversity in New Guinea and the Bismarck Archipelago. It has been widely naturalized throughout the tropical Pacific, including Hawaii, Fiji, Samoa, Tonga, and the Cook Islands, where it was introduced by prehistoric human voyagers.
+Cordyline fruticosa is native to Southeast Asia, Melanesia, and northern Australia, with its center of diversity in New Guinea and the Bismarck Archipelago. It has been widely naturalized throughout the [[guzman-allen-gartz-hawaii-neurotropic-fungi-tropical-pacific-hotspot]], including Hawaii, Fiji, Samoa, Tonga, and the Cook Islands, where it was introduced by prehistoric human voyagers.
 
 The species occurs in a variety of habitats from sea level to 1,500 meters elevation. It grows in moist forests, along stream banks, in open grasslands, and in disturbed areas. In Hawaii, ti is naturalized in wet valleys, coastal sites, and montane forests.
 
 Natural regeneration occurs readily from seed and stem fragments in suitable habitats. Birds are the primary seed dispersers, attracted to the brightly colored berries. The species can form dense thickets in disturbed areas, occasionally becoming invasive in island ecosystems where it outcompetes native understory vegetation.
 
-Cordyline fruticosa tolerates a range of soil conditions from acidic to mildly alkaline, though it prefers well-drained, organically rich soils. It grows in full sun to deep shade, with leaf color intensity generally increasing in brighter light. The species is sensitive to frost and is limited to tropical and subtropical climates.
+Cordyline fruticosa tolerates a range of soil conditions from acidic to mildly alkaline, though it prefers well-drained, organically rich soils. It grows in full sun to deep shade, with leaf color intensity generally increasing in brighter light. The species is sensitive to frost and is limited to tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ## Ethnobotanical Uses
 
-The ti plant holds paramount cultural importance across the Pacific Islands. In Hawaii, ti leaves are used to wrap food for cooking in imu (underground ovens), to thatch temporary shelters, to make hula skirts, and as offerings in religious ceremonies. The word "ti" itself is considered sacred in Hawaiian language.
+The ti plant holds paramount cultural importance across the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. In Hawaii, ti leaves are used to wrap food for cooking in imu (underground ovens), to thatch temporary shelters, to make hula skirts, and as offerings in [[entheogenic-folk-religious-ceremonies]]. The word "ti" itself is considered sacred in Hawaiian language.
 
 Throughout Polynesia, ti leaves are believed to possess protective spiritual properties. They are planted around homes to ward off evil spirits, used in purification rituals, and worn as lei during important ceremonies. In Samoan culture, the ti plant is central to healing ceremonies and is associated with the god of war.
 
@@ -75,7 +75,7 @@ Propagation is most commonly achieved through stem cuttings and stem sections, w
 
 Cultivated plants prefer partial shade in hot climates and regular irrigation during dry periods. Fertilization with a balanced slow-release formula supports vigorous growth and rich leaf coloration. Major pests include [[cervantes-spider-mites-identification-control]], mealybugs, and scale insects, particularly under greenhouse conditions.
 
-In temperate regions, ti plant is grown as a houseplant or patio plant, moved indoors during cold months. Plants tolerate indoor conditions well provided they receive bright indirect light and moderate humidity.
+In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], ti plant is grown as a houseplant or patio plant, moved indoors during cold months. Plants tolerate indoor conditions well provided they receive bright indirect light and moderate humidity.
 
 The commercial nursery trade in Cordyline cultivars is substantial, with the Netherlands, Thailand, Hawaii, and Florida serving as major production centers. Breeding programs have developed compact forms suitable for container production and interiorscape use, expanding the market beyond traditional outdoor landscaping applications.
 
@@ -83,30 +83,8 @@ The commercial nursery trade in Cordyline cultivars is substantial, with the Net
 
 The ti plant occupies a unique position in Pacific Island cosmology as a bridge between the human and spirit worlds. In Hawaiian creation traditions, the god Kane created ti from his own body, making it kin to humanity and therefore capable of interceding with the divine on human behalf.
 
-Ti leaves are essential components in traditional Hawaiian healing practices known as laau lapaau. Healers use the leaves to wrap herbal preparations, as containers for medicinal brews, and as ritual implements for calling upon healing spirits. The practice of placing ti leaves under a sick person's pillow reflects the belief in the plant's protective power.
+Ti leaves are essential components in traditional Hawaiian [[blesching-cannabis-healing-practices-setting-intention-affirmations]] known as laau lapaau. Healers use the leaves to wrap herbal preparations, as containers for medicinal brews, and as ritual implements for calling upon healing spirits. The practice of placing ti leaves under a sick person's pillow reflects the belief in the plant's protective power.
 
 In Maori culture of New Zealand, the closely related Cordyline australis (cabbage tree) serves parallel roles as a food source, fiber plant, and spiritual marker. While C. fruticosa is less prominent in Maori tradition, the genus as a whole represents a shared cultural heritage across the Austronesian-speaking world.
 
 The use of ti plants as boundary markers and property indicators in traditional Pacific societies predates Western surveying methods. Rows of ti plants delineate land boundaries in Samoa, Tonga, and Fiji, with the living markers carrying legal and spiritual authority in customary land tenure systems.
-
-## Bioactive Compounds
-
-Phytochemical analysis of Cordyline fruticosa has identified several bioactive constituents. Steroidal saponins, including spirostanol and furostanol glycosides, are the primary compounds isolated from the roots. These saponins exhibit hemolytic, anti-inflammatory, and cytotoxic activities in pharmacological screening.
-
-Flavonoids identified in the leaves include luteolin, apigenin, and their glycoside derivatives, which contribute to the plant's antioxidant capacity. Phenolic acids including caffeic acid and ferulic acid have also been detected in leaf extracts.
-
-Preliminary pharmacological studies have demonstrated antimicrobial activity of root extracts against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Anti-inflammatory effects in carrageenan-induced paw edema models support the traditional use of ti root preparations for inflammatory conditions.
-
-Further research is needed to fully characterize the phytochemical profile and validate the extensive ethnopharmacological claims associated with Cordyline fruticosa. The variability among cultivars and geographic populations represents both a challenge and an opportunity for identifying superior chemotypes.
-
-## See Also
-
-- [[xanthosoma-sagittifolium]]
-- heliconia
-- [[curcuma-longa]]
-- [[convallaria-majalis]]
-- [[eucalyptus-globulus]]
-- punica-granatum
-- [[rosmarinus-officinalis-entity]]
-- [[salvia-officinalis]]
-- [[thymus-vulgaris-entity]]

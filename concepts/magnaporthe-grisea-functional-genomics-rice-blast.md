@@ -1,5 +1,5 @@
 ---
-title: [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] [[functional-genomics-arbuscular-mycorrhiza]] and Rice Blast
+title: Magnaporthe Grisea Functional Genomics Rice Blast
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -88,62 +88,3 @@ present in *M. grisea* but their activity is controlled by different
 environmental cues.
 
 ### Gene Loss
-
-Pathogenicity may also be associated with loss of genes, though few
-documented examples exist in eukaryotes. Analysis of the *Mycobacterium
-leprae* genome compared with *M. tuberculosis* provided evidence for
-such a mechanism in prokaryotic pathogens.
-
-## EST and Transcriptome Analysis
-
-Expressed sequence tags (ESTs) from the COGEME database have been used
-to characterise gene expression in *M. grisea*. Analysis of 28,682 ESTs
-from nine cDNA libraries representing several growth conditions and cell
-types revealed approximately 8,177 unique gene sequences representing
-more than half the gene content.
-
-Approximately 31-50% of EST sequences were library-specific, indicating
-real differences in gene expression patterns between conditions. The
-most abundantly expressed gene was the homologue of UV-1, an
-appressorium and UV-inducible gene from *Bipolaris oryzae*. The
-hydrophobin gene MPG1, essential for appressorium formation, was also
-found to be abundantly expressed and most prevalent in appressorium,
-mating, rice cell wall, and conidial cDNA libraries.
-
-Approximately 70% of *M. grisea* unisequences remain of unknown
-function. [[fungal-virulence-factors-host-immune-evasion]] MAS1/GAS2 and MAS3/GAS1 were abundant in
-the appressorium library but absent from the pmk1 mutant library,
-suggesting their expression depends on the PMK1 MAP kinase signalling
-pathway. The conidial library contained a larger fraction of ESTs
-representing genes for cell growth, and libraries from rice cell wall
-medium contained a notable proportion (4.7%) of genes involved in plant
-cell wall degradation.
-
-## MAPK Signalling Pathways
-
-Three well-characterized MAP kinases regulate infection-related
-development in *M. grisea*:
-
-### Mps1
-
-Homologue of Slt2 in yeast, required for appressorium maturation and
-penetration peg formation. Mutants are non-pathogenic due to inability
-to penetrate the host cuticle, show severely reduced conidiation,
-reduced aerial hyphae development, and exhibit an autolytic phenotype
-with increased sensitivity to cell-wall-degrading enzymes. Mps1:GFP
-fusion localizes to appressorial nuclei between 8 and 12 hours,
-coinciding with appressorium maturation. Mps1 appears to function
-upstream of the hydrophobin MPG1.
-
-### Pmk1
-
-Homologue of Fus3/Kss1, required for both appressorium formation and
-invasive growth, and also responsible for mass transfer of storage
-carbohydrate and lipid reserves to the appressorium. Pmk1 mutants
-cannot form appressoria and are unable to infect even wounded rice
-tissue. GFP-tagged Pmk1 localizes to appressorial nuclei during
-maturation, 12-24 hours after spore germination. The upstream MAPKK
-Mst7 and MAPKKK Mst11 have similar mutant phenotypes, confirming their
-## See Also
-
-- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]

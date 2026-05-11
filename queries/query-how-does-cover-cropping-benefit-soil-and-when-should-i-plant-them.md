@@ -41,7 +41,7 @@ that accounts for your hardiness zone, soil type, primary goals, and the cash
 crops that will follow. The [[legume-nitrogen-fixation-mechanism]], providing free fertilizer for
   subsequent crops and reducing input costs
 - Deep-rooted cover crop species like daikon radish and tillage radish provide
-  natural [[soil-food-web]] through living root exudates and
+  natural [[soil-foodweb]] through living root exudates and
   decomposing biomass, supporting the bacterial, fungal, and protozoan
   communities that drive [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - Winter cover crops prevent erosion, reduce nutrient leaching, and maintain

@@ -88,24 +88,3 @@ Hard fern combines well with other shade-tolerant woodland plants including hell
 The dense root mat helps **stabilize forest soils** on slopes and along stream corridors. The rhizome network contributes to soil structure and water infiltration in forested watersheds.
 
 Several **Lepidoptera** species use hard fern as a larval food plant. The **moths of the genus *Blepharita*** and several microlepidoptera feed on *Blechnum* foliage. The fronds also provide shelter for ground beetles and other predatory invertebrates.
-
-Deer and elk occasionally browse the sterile fronds in winter when other forage is scarce, though the species is generally considered **low-palatability** browse. This limited browsing pressure allows hard fern to persist even in areas with high ungulate populations.
-
-## Historical Uses
-
-In European folk medicine, hard fern was used as a **vermifuge** (deworming agent). The rhizome was dried and powdered, then administered as a tea or poultice to expel intestinal parasites, particularly tapeworms. This use was widespread across Scandinavia and the British Isles.
-
-The fronds were gathered as **bedding material** and **thatching** for animal shelters due to their soft texture and availability. In rural Scotland, hard fern was traditionally stuffed into **mattresses and pillows**, and was believed to repel fleas and bedbugs.
-
-Coastal Indigenous peoples of the Pacific Northwest used hard fern fronds for **food storage** and **cooking**. Salal berries and other perishable foods were wrapped in hard fern fronds for storage and transport. The fronds were also used as a **wipe** for cleaning fish and game during processing.
-
-## See Also
-
-- [[blechnum-gibbum]]
-
-- [[dryopteris-filix-mas]]
-- [[polystichum-acrostichoides]]
-- [[osmunda-regalis]]
-- [[pteris-vittata]]
-- [[equisetum-arvense]]
-- [[lycopodium-clavatum]]

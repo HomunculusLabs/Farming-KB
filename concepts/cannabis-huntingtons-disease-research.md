@@ -88,29 +88,3 @@ Symptoms usually begin with lack of coordination and ataxia (unsteady gait), soo
 ## Evidence Base
 
 The Cannabis Health Index (CHI) rates the evidence for cannabis in Huntington's disease at a CHI value of 10, based on 5 studies reviewed. The evidence focuses primarily on CBD's neuroprotective properties.
-
-## Early CBD Clinical Evidence
-
-As early as 1986, researchers enrolled three HD patients whose disease continued to deteriorate despite pharmaceutical treatment. Each received oral CBD. After the first week, results revealed mild improvement of 5 to 15 percent in objective and subjective tests. After week two, improvement of 20 to 40 percent was observed using the same tests. Results remained stable for the following two weeks. The only adverse effect noted was mild and transient hypotension.
-
-A subsequent 1991 double-blind, randomized crossover trial from the University of Arizona testing oral CBD and placebo on 15 neuroleptic-free HD patients found CBD only as effective as placebo, producing mixed results.
-
-## CBD Neuroprotection Research
-
-In 2007, Spanish scientists examined the neuroprotective potential of CBD in the context of Huntington's disease. Results indicated that CBD provides neuroprotection against 3NP-induced striatal damage, which may be relevant for HD, a disorder characterized by preferential loss of striatal projection neurons. This neuroprotective capability appears to be based exclusively on the antioxidant properties of CBD.
-
-This antioxidant mechanism is significant because [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] is believed to contribute to neuronal death in HD. CBD's ability to scavenge reactive oxygen species without psychoactive effects makes it an attractive candidate for neuroprotective treatment.
-
-## Sativex Preclinical Evidence
-
-A 2011 study from Madrid, Spain, examined whether Sativex (THC/CBD combination) could protect animals from HD progression and development. The authors observed that the study provides pre-clinical evidence in support of a beneficial effect of the cannabis-based medicine Sativex as a neuroprotective agent capable of delaying disease progression in HD.
-
-The researchers noted that HD is currently poorly managed in the clinic, prompting an urgent need for clinical trials with agents showing positive results in pre-clinical studies. The combination of THC and CBD in Sativex may offer advantages over isolated CBD through the [[cannabis-terpene-entourage-effect-profiles]].
-
-## Proposed Mechanisms
-
-Cannabinoids may benefit HD through multiple mechanisms including neuroprotection against oxidative stress, anti-inflammatory effects reducing neuroinflammation, modulation of excitotoxicity, and potential reduction of abnormal protein aggregation. CB1 receptors in the basal ganglia are directly relevant to the movement disorders characteristic of HD.
-
-## Strain Considerations
-
-The evidence base focuses on CBD and the THC/CBD combination in Sativex. CBD-dominant strains or balanced THC:CBD preparations may be most appropriate. The non-psychoactive nature of CBD makes it particularly suitable for HD patients who may have cognitive impairment.

@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 # Maitake Cultivation Guide
 
-Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
+[[grifola-frondosa]] (maitake / hen of the woods) is a prized edible and medicinal mushroom of [[fukuoka-natural-farming-temperate-climates]]. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
 
 ## Key Characteristics
 
@@ -24,7 +24,7 @@ Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal m
 
 Strain selection is crucial. Unlike oyster or reishi, a high percentage of G. frondosa strains do not fruit well, if at all. There are considerable differences among strains in growth rate, yield, temperature requirements, and fruiting body features (cap color and shape). Always test a new strain before full production.
 
-- Fast-growing strains: spawn run of 30 days before primordia initiation
+- Fast-growing strains: spawn run of 30 days before [[chen-maitake-primordia-initiation-fruiting]]
 - Many strains require 60-90+ days of mycelial growth and maturation
 - ~90% of strains from culture collections and wild isolates do not fruit well
 - Always verify the strain has been tested as a good fruiting strain
@@ -65,11 +65,11 @@ The basal ingredient is hardwood sawdust (fine + coarse, 3:1 ratio) for good air
 | Moisture content | 60-63% |
 | pH | 5.5-6.5 |
 
-Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation. Calcium contributes to basidiocarp differentiation. Oak is the most commonly used sawdust species in North America; maple, elm, beech, alder, and poplar also work.
+Wheat bran provides thiamine (vitamin B1), essential for [[fungal-fruiting-body-formation-environmental-triggers]]. Calcium contributes to basidiocarp differentiation. Oak is the most commonly used sawdust species in North America; maple, elm, beech, alder, and poplar also work.
 
 ## Types of Spawn
 
-1. Liquid spawn -- labor-saving with special inoculator; industrial scale via submerged fermentation
+1. Liquid spawn -- labor-saving with special inoculator; industrial scale via [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
 2. Grain spawn -- millet, rye, wheat, sorghum, milo
 3. Sawdust spawn -- supplemented sawdust-bran substrates
 4. Wooden stick (skewer) spawn -- easy to manipulate
@@ -114,7 +114,7 @@ Production ~3.5 months.
 ### Spawn Run (Growth + Maturation)
 1. Day 9: Undifferentiated white mycelia colonize substrate
 2. Day 17: White young mycelia penetrate to substrate surface
-3. Day 30: Orange-brown exudates appear (metabolic activity), discoloration of white mycelia
+3. Day 30: Orange-brown exudates appear ([[arbuscule-isolation-metabolic-activity-assays]]), discoloration of white mycelia
 4. Surface mycelial coat forms -- tighter growth on substrate surface
 5. Topography becomes uneven with grayish amorphous mass
 6. Day ~42: Grayish primordia (2.5-5 cm diameter) form in closed bag

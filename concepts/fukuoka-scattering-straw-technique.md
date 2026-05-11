@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -87,11 +88,3 @@ The Sunday markets are the exclusive domain of farmers and amateur merchants. St
 At a conference resort in Oregon, Fukuoka found a natural garden left untended for two years. A Japanese man had sown clover and scattered vegetables. Two years later, it appeared overgrown with weeds, but Fukuoka found clover had spread throughout, vegetables of respectable sizes were growing, and birds and mice had naturally reseeded the garden — a perfect demonstration of natural farming principles.
 
 ## Connection to Natural Farming Philosophy
-
-This chapter illustrates Fukuoka's core [[fukuoka-nature-as-teacher]] — nature itself designed the garden's polyculture through the activity of birds and mice distributing seeds. This connects to the fukuoka scattering straw technique by showing how minimal human input can catalyze natural processes that far exceed what deliberate cultivation achieves.
-
-## Comparison to Western Approaches
-
-Western agriculture of the 1980s was beginning to recognize the failures of chemical-intensive farming, but the response was largely [[coleman-deep-organic-farming-philosophy]] — still dependent on human knowledge and inputs. Fukuoka's natural farming goes further by eliminating plowing, fertilizers, and even weeding. The American natural foods movement, while encouraging, was still primarily about consumer choice rather than fundamental agricultural reform. Fukuoka saw that true change required transforming farming practices at the source, not merely changing what people buy at markets.
-
-## Practical Implications

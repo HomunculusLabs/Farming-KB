@@ -3,7 +3,7 @@ title: Cider Making Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, fermentation, food, recipe, fruit-tree, orchard, preparation, processing]
+tags: [[homesteading]], fermentation, food, recipe, fruit-tree, orchard, preparation, processing]
 sources: []
 ---
 
@@ -95,14 +95,14 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 
 ### Step 4: Choosing Your Yeast Approach
 
-**Wild Fermentation (Traditional)**
+**[[comparison-wild-fermentation-vs-commercial-starter-culture]] (Traditional)**
 - Use no added yeast -- rely on wild yeasts naturally present on the apples and in the environment
 - Results in complex, funky, terroir-driven cider
 - Less predictable -- can produce off-flavors or fail entirely
 - More consistent with unwashed, organic apples from old orchards
 - Fermentation may take longer and produce lower alcohol
 
-**Cultured Yeast (Reliable)**
+**[[comparison-wild-vs-cultured-yeast]] (Reliable)**
 - Pitch a specific commercial yeast strain
 - More predictable, cleaner fermentation
 - Recommended for beginners
@@ -147,4 +147,3 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Aged cider (6-12 months): more complex, mellow, developed flavors
 - Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
 - Store at 50-60F, on their side if corked, away from light
-

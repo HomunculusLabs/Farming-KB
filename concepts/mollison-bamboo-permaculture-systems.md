@@ -5,6 +5,7 @@ tags: [bamboo, forestry, structural, tropical, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,19 +88,3 @@ these divisions are among the first plants set out on newly
 prepared house sites or earthworks. A broadscale scatter of
 mixed seed, raked in, will prepare the way for permanent
 placements, and bamboo divisions compete very well with
-self-sown weeds with very little help or none at all.
-
-## Integration in Tropical Polycultures
-
-In the [[mollison-tropical-earth-shaping-polyculture-economics]] context, bamboo divisions, banna grass, pampas
-grass, aloes, agave, and New Zealand hemp are all recommended
-for immediate planting on newly prepared slopes to prevent
-erosion and invasion by unwanted volunteer plants.
-
-## See Also
-
-- [[mollison-hedgerow-barrier-species-selection]]
-- mollison-terracing-slope-management
-- [[permaculture-design]]
-- [[mollison-tree-crop-systems-permaculture]]
-- [[mollison-goats-and-browsing-systems-in-permaculture]]

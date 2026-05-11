@@ -1,5 +1,5 @@
 ---
-title: Oil Drum Sterilizer for [[juncao-technology-mushroom-substrate]] Bags
+title: Oil Drum Sterilizer Mushroom Substrate Bags
 created: 2026-05-08
 updated: 2026-05-09
 type: concept
@@ -88,31 +88,3 @@ or wire. The opening must allow gas exchange while preventing contaminant
 spores from entering after sterilization.
 
 Pre-soaking substrate ingredients for 12 to 24 hours before packing can
-improve moisture distribution and reduce the presence of competitive
-organisms. Some growers add agricultural lime (calcium carbonate) at 1 to
-2 percent by weight to raise the pH and further suppress bacterial
-contamination during the pasteurization process.
-
-## Advantages and Limitations
-
-The primary advantage of the oil drum sterilizer is its low cost and
-accessibility. The drum and stand can be fabricated locally using basic
-welding skills, and the fuel sources (wood, [[agricultural-waste-substrates]]) are
-readily available in rural areas. The system requires no electricity and
-can be operated in remote locations where grid power is unavailable. For
-oyster mushroom cultivation, which requires pasteurization rather than full
-sterilization, the oil drum system produces reliable results.
-
-The main limitation is the inability to achieve full sterilization, which
-is required for some mushroom species such as shiitake and reishi that are
-more sensitive to contamination. The atmospheric pressure system cannot
-reach temperatures above 100 degrees Celsius, limiting its effectiveness
-against heat-resistant bacterial endospores. Additionally, the batch size
-is limited by drum capacity, and the process is labor-intensive compared
-to continuous commercial steam systems.
-
-## Related Topics
-
-- [[low-cost-mushroom-growing-house-construction-developing-countries]]
-- [[oyster-mushroom-substrates]]
-- [[gourmet-medicinal-mushroom-substrate-preparation]]

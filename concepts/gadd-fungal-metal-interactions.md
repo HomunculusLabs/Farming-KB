@@ -87,31 +87,3 @@ The quantitative significance of fungal metal interactions in soil systems is su
 Fungal metal interactions have potential applications in phytomining (extracting metals from low-grade ores using biological systems) and bio-ore processing. Certain fungi can bioaccumulate metals from mineral matrices, concentrating them in their biomass to levels that exceed the original ore concentration. Fungal leaching of low-grade ores using organic acid production is commercially practiced for copper, gold (as a pretreatment step), and some rare earth elements. The concept of "fungal bio-ore" involves cultivating metal-accumulating fungi on contaminated substrates, harvesting the biomass, and processing it as a concentrated metal source. This approach is particularly promising for recovering valuable metals from electronic waste, industrial slag, and mine tailings that are too low in concentration for conventional metallurgical processing. The environmental advantage of fungal bio-ore processing is that it operates at [[jadam-ambient-temperature-principle]] and pressure, using renewable biological agents instead of energy-intensive chemical processes.
 
 ## Practical Applications in Mycoremediation
-
-The understanding of fungal metal interactions developed by Gadd and others has been applied in numerous field-scale mycoremediation projects. Key applications include:
-- **Mine tailings stabilization**: Inoculating mine waste with fungi that produce iron- and aluminum-precipitating compounds to create a stable crust that reduces wind and water erosion of contaminated material
-- **Metal-contaminated soil treatment**: Applying organic amendments that stimulate indigenous fungal activity, promoting metal immobilization through biosorption and precipitation reactions
-- **Constructed treatment wetlands**: Designing wetland systems that incorporate fungal-rich substrates for passive treatment of metal-laden drainage from mining and industrial sites
-- **Brownfield redevelopment**: Using fungal inoculation as part of a comprehensive strategy to reduce metal bioavailability on former industrial sites prior to residential or commercial development
-Each application requires site-specific design that accounts for local soil chemistry, hydrology, climate, and the specific metals present.
-
-## Metal-Induced Morphological Changes in Fungi
-
-Gadd's research has documented that metal exposure induces significant morphological changes in fungal cells that affect their metal-handling capacity. Hyphal shortening and branching are common responses to metal stress, which increases the surface-area-to-volume ratio and may enhance biosorption capacity per unit biomass. Cell wall thickening, particularly through increased chitin and melanin deposition, provides additional metal-binding sites and acts as a physical barrier reducing metal influx into the cytoplasm. Some fungi produce extracellular polymeric substances (EPS) — slimy carbohydrate-protein matrices — in response to metal exposure, which sequester metals outside the cell and reduce their bioavailability. The formation of metal-tolerant biotypes through physiological adaptation has been observed in fungi from contaminated sites; these adapted strains show altered membrane composition, enhanced efflux pump activity, and increased intracellular metal chelation by glutathione and metallothionein-like peptides compared to non-adapted isolates of the same species.
-
-## Fungal Biomineralization and Metal Precipitation
-
-A particularly important mechanism identified by Gadd is fungal biomineralization — the transformation of soluble metal ions into insoluble mineral phases through fungal [[arbuscule-isolation-metabolic-activity-assays]]. Fungi can induce the precipitation of metal carbonates (such as calcium oxalate and metal-substituted oxalates), metal phosphates, and metal sulfides through the production of organic acids, CO₂, and hydrogen sulfide as metabolic byproducts. Oxalic acid secretion is especially significant: it can dissolve mineral matrices to release metals, and then the oxalate anion itself can precipitate those metals as stable insoluble oxalate crystals. This dual role — solubilization followed by reprecipitation — gives fungi the ability to mobilize and then immobilize metals in the same location, effectively concentrating and stabilizing them. Gadd has demonstrated that fungal biomineralization can transform mobile, bioavailable metal contaminants into stable mineral forms that persist in soil for geological timescales, providing a long-term remediation solution that does not require ongoing maintenance.
-
-## Metallophyte-Fungal Partnerships in Remediation
-
-Gadd's later work has explored the synergistic relationships between metal-tolerant fungi and metallophyte plants (plants that naturally colonize metal-rich soils) in phyto-remediation systems. Certain fungi form mycorrhizal associations with metallophytes that enhance the plant's ability to survive and accumulate metals from contaminated substrates. In some cases, the fungal partner provides metal detoxification within the plant root zone, converting toxic metal ions into less bioavailable forms that the plant can tolerate at higher concentrations. In other cases, the fungus enhances metal mobility in the rhizosphere through organic acid exudation, increasing the rate of metal uptake into plant tissues that can then be harvested and processed for metal recovery. These partnerships are of particular interest for the remediation of mine tailings and former industrial sites where the combination of high metal concentrations and poor soil structure makes plant establishment difficult without microbial assistance.
-
-## See Also
-
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-- [[fungal-metal-biosorption-comparative]]
-- fungal-heavy-metal-uptake-and-translocation
-- [[ectomycorrhizal-remediation]]
-- [[gadd-fungal-extreme-environments]]
-- [[gadd-fungal-plant-pathogens]]

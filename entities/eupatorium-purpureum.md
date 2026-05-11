@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-**Eupatorium purpureum**, commonly known as Joe-Pye weed, sweet Joe-Pye weed, or gravel root, is a herbaceous perennial plant in the family Asteraceae. It is native to eastern and central North America, where it grows in moist meadows, woodland edges, and riparian areas.
+**Eupatorium purpureum**, commonly known as Joe-Pye weed, sweet Joe-Pye weed, or gravel root, is a herbaceous perennial plant in the family Asteraceae. It is native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], where it grows in moist meadows, woodland edges, and riparian areas.
 
-The plant is named after Joe Pye, a [[halpern-sacramental-peyote-and-native-american-church]] herbalist who reportedly used the plant to treat typhus and other fevers in colonial New England. The species has a long history of use in traditional herbal medicine, particularly for kidney and urinary tract conditions.
+The plant is named after Joe Pye, a [[halpern-sacramental-peyote-and-native-american-church]] herbalist who reportedly used the plant to treat typhus and other fevers in colonial New England. The species has a long history of use in traditional [[childrens-herbal-medicine]], particularly for kidney and urinary tract conditions.
 
-In recent decades, E. purpureum has become increasingly popular in ornamental horticulture and ecological landscaping. Its tall stature, attractive pink flower clusters, and value as a pollinator plant have made it a staple of perennial borders and rain gardens.
+In recent decades, E. purpureum has become increasingly popular in ornamental horticulture and [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]]. Its tall stature, attractive pink flower clusters, and value as a pollinator plant have made it a staple of perennial borders and rain gardens.
 
 ## Taxonomy and Morphology
 
@@ -51,7 +51,7 @@ Optimal growth occurs in rich, loamy soils with consistent moisture and partial 
 
 ## Cultivation and Gardening
 
-Joe-Pye weed is readily propagated from seed, which requires 30–60 days of cold stratification for reliable germination. Division of established clumps in early spring is the preferred vegetative propagation method for maintaining named cultivars.
+Joe-Pye weed is readily propagated from seed, which requires 30–60 days of cold stratification for reliable germination. Division of established clumps in early spring is the preferred [[hamilton-vegetative-propagation]] method for maintaining named cultivars.
 
 Plants should be spaced 90–120 cm apart to accommodate their mature spread of 90–150 cm. They require consistent moisture during establishment but become moderately drought-tolerant once the deep root system develops.
 
@@ -61,9 +61,9 @@ The plant is largely pest-free and unpalatable to deer and rabbits. [[cervantes-
 
 ## Bioactive Compounds and Traditional Uses
 
-The roots contain sesquiterpene lactones (eupatoriopicrin, eupafolin), flavonoids (quercetin, kaempferol glycosides), and volatile oils. The specific composition varies with harvest time, location, and plant part.
+The roots contain sesquiterpene lactones (eupatoriopicrin, eupafolin), flavonoids (quercetin, kaempferol glycosides), and volatile oils. The specific composition varies with [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], location, and plant part.
 
-Native American tribes including the Cherokee, Iroquois, and Potawatomi used the root as a diuretic and treatment for urinary tract disorders. The Meskwaki used a root decoction for kidney stones, while the Cherokee applied it as a poultice for burns.
+[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] tribes including the Cherokee, Iroquois, and Potawatomi used the root as a diuretic and treatment for urinary tract disorders. The Meskwaki used a root decoction for kidney stones, while the Cherokee applied it as a poultice for burns.
 
 In 19th-century Eclectic medicine, E. purpureum root (marketed as "gravel root") was a standard remedy for urinary gravel, nephritis, and cystitis. It was included in the United States Pharmacopoeia from 1820 to 1916.
 
@@ -88,26 +88,3 @@ Some modern taxonomic treatments place E. purpureum in the genus *Eutrochium* al
 ## Medicinal Preparations and Dosage
 
 The dried root is the primary medicinal part, typically harvested in autumn after flowering. It is sliced and dried at temperatures below 40°C to preserve volatile constituents. Commercial "gravel root" products include tinctures, capsules, and loose dried herb.
-
-Traditional dosage in herbal medicine is 2–4 grams of dried root per day, usually prepared as a decoction or cold infusion. Tinctures are commonly dosed at 2–4 mL three times daily. The taste is described as bitter, slightly astringent, and faintly aromatic.
-
-Contraindications include pregnancy and existing kidney disease without professional supervision. The sesquiterpene lactones may cause contact dermatitis in sensitive individuals. [[cannabis-drug-interactions-and-contraindications]] with diuretic medications are theoretically possible due to additive effects.
-
-## Landscape and Restoration Applications
-
-E. purpureum is widely used in rain gardens, bioswales, and riparian buffer plantings due to its tolerance of seasonal flooding and ability to thrive in poorly drained soils. Its deep root system helps stabilize stream banks and filter runoff.
-
-In ecological restoration projects, Joe-Pye weed serves as a keystone species for pollinator habitat. Planting E. purpureum in meadow restorations provides critical late-season forage when many other nectar sources have finished flowering.
-
-The species is increasingly specified in green infrastructure projects and sustainable landscape designs. Its combination of ornamental value, ecological function, and low maintenance requirements makes it a model plant for designed native landscapes.
-
-## See Also
-
-- [[arnica-montana]]
-- achillea-millefolium
-- [[inula-helenium]]
-- [[solidago-canadensis]]
-- [[petasites-hybridus]]
-- [[tanacetum-parthenium]]
-- [[borago-officinalis]]
-- [[grindelia-squarrosa]]

@@ -1,10 +1,11 @@
 ---
-title: AACT aact brewing ingredients ingham (Ingham)
+title: Aact Brewing Ingredients Ingham
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -14,7 +15,7 @@ Updated: 2026-04-18
 
 Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
-Ingham provides detailed guidance on selecting ingredients for actively aerated compost tea, emphasizing that the right foods must match the biology you want to grow and the conditions in your specific situation.
+Ingham provides detailed guidance on selecting ingredients for [[actively-aerated-compost-tea]] compost tea, emphasizing that the right foods must match the biology you want to grow and the conditions in your specific situation.
 
 ## Ingredient Categories by Function
 
@@ -35,7 +36,7 @@ Ingham provides detailed guidance on selecting ingredients for actively aerated 
 - Acadian kelp has good trial data supporting its use
 
 ### Fish Products
-- Fish emulsion: feeds mostly bacteria (oxygen demand is high)
+- [[solomon-foliar-feeding-fish-emulsion-and-kelp]]: feeds mostly bacteria (oxygen demand is high)
 - [[comparison-fish-hydrolysate-vs-fish-emulsion]]: contains fish oil plus simpler proteins, feeds FUNGI more than bacteria
 - Warning: some fish products on the market are waste left-overs that have gone putrid — if containers swell badly after purchase, the product was already anaerobic before you bought it
 - Neptune's Harvest is mentioned as a reliable fish product
@@ -67,7 +68,7 @@ The relationship is non-linear — more water means proportionally less compost 
 A machine maker claiming their 100-gallon machine needs 100 pounds of compost is either selling compost or has a very poorly designed machine.
 
 ### Compost Mix
-A mix of good aerobic [[ingham-thermal-compost-versus-worm-compost]] with good aerobic worm castings, in about 50-50 or 25-75 ratio. DO NOT use cedar grove products — they do not make compost.
+A mix of good aerobic [[ingham-thermal-compost-versus-worm-compost]] with good aerobic [[ingham-vermicompost-worm-castings]], in about 50-50 or 25-75 ratio. DO NOT use cedar grove products — they do not make compost.
 
 ### Why Not Huge Amounts of Compost?
 We just need to get an inoculum of the good organisms, then grow them with added foods. There's enough soluble nutrients in a small amount of compost for initial growth. We add foods that help the specific organisms we want more of.
@@ -78,58 +79,12 @@ Approximate proportions:
 - 1/3 simple sugar (a teaspoon of molasses or complex sugar like honey)
 - 1/3 kelp and micronutrients
 - 1/3 strong fungal food (humic acid)
-- Last third: protein mix (soybean meal, fish hydrolysate, or fulvic acid)
+- Last third: protein mix (soybean meal, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fulvic acid)
 
 Total addition: no more than about a pound, split among components.
 
 ## The Goldilocks Principle
 
 Ingham repeatedly emphasizes that there is no single recipe that works everywhere:
-- Too much food → organisms grow too fast → tea goes anaerobic → beneficial fungi killed
+- Too much food → organisms grow too fast → tea goes anaerobic → [[cervantes-trichoderma-beneficial-fungi]] killed
 - Too little food → organisms don't multiply enough → weak tea
-- Right amount → depends on your machine design, water quality, temperature, compost quality, and what your plants need
-
-Test your tea. Make a tea, put it in a sealed container half full, leave at 72°F for 24 hours. Smell ok? Then your recipe is probably right. Stinky? Back off on food additions.
-
-## Minerals as Amendments
-
-Minerals (greensand, rock phosphate, rock dusts) should be added based on soil chemistry tests or plant tissue tests, not by rote. Often a nutrient seems limiting in soil but is adequate in plant tissue — this indicates the biology needed to take up that nutrient is missing, not that the nutrient itself is lacking.
-
-## Protozoa Considerations
-
-It takes two weeks at 72°F for protozoa to wake up and begin cycling nutrients. If you need immediate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], consider adding a protozoan inoculant. Worm compost is the best source of protozoa.
-
-See also: [[compost-tea-brewing]], [[compost-quality-standards]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[ozier-pdc-composting-and-soil-building]]
-
-## Practical Context
-Aact Brewing Ingredients (ingham) is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related
-
-- [[coleman-baby-leaf-mix-quality-standards-ingredients]]
-
-- [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
-
-- [[elaine-ingham]]
-- [[humic-acids-soil-biology-ingham]]
-- [[query-what-is-humic-acid-and-when-should-i-use-it]]

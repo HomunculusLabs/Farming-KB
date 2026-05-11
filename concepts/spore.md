@@ -33,7 +33,7 @@ Asexual (mitotic) spores are genetically identical clones of the parent:
 - **Blastospores** -- Budding spores produced by yeasts, where a daughter
   cell pinches off from the parent cell.
 - **Arthrospores** -- Formed by fragmentation of hyphae into individual
-  cells. Common in dermatophyte fungi that cause ringworm.
+  cells. Common in [[dermatophyte-fungi-human-disease]] that cause ringworm.
 
 ### Sexual Spores
 
@@ -41,7 +41,7 @@ Sexual (meiotic) spores result from fusion of compatible hyphae (plasmogamy)
 followed by nuclear fusion (karyogamy) and meiosis, generating genetic
 diversity:
 - **Basidiospores** -- Produced externally on basidia, the club-shaped cells
-  lining gills, pores, or teeth of basidiomycete mushrooms. Four spores per
+  lining gills, pores, or teeth of [[anemotropism-in-basidiomycete-mushrooms]]. Four spores per
   basidium is typical.
 - **Ascospores** -- Formed inside asci (sac-like cells) in ascomycetes.
   The number per ascus is typically eight. Truffles, morels, and yeasts all
@@ -53,7 +53,7 @@ diversity:
 
 ## Spore Morphology
 
-Spore morphology is critical for fungal identification. Key features include:
+Spore morphology is critical for [[dna-barcoding-fungal-identification]]. Key features include:
 
 - **Size** -- Typically ranges from 3 to 30 micrometers, measured under a
   microscope with an ocular micrometer.
@@ -88,36 +88,3 @@ Fungi employ diverse dispersal strategies:
 ## Dormancy and Germination
 
 Spores are remarkably resilient. They can survive extreme temperatures,
-desiccation, UV exposure, and digestive passage through animals. Spores of
-some species remain viable for decades or even centuries. This durability
-allows fungi to colonize new habitats and survive periods when conditions are
-unfavorable for growth.
-
-Germination is triggered by environmental cues: moisture, specific
-temperature ranges, [[ph-and-nutrient-availability-garden-soils]], and sometimes [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
-from host organisms. Some spores require dormancy-breaking treatments like
-heat shock or exposure to specific compounds before they will germinate.
-
-## Spore Print
-
-The spore print is a fundamental field identification technique. A mature
-mushroom cap is placed gill-side down on a surface (white paper, black paper,
-or glass). After several hours, the deposited spores reveal their mass color:
-white, cream, yellow, pink, salmon, rust, brown, purple-brown, or black.
-This single observation can eliminate large groups of mushrooms from
-consideration and is one of the first diagnostic steps in identification.
-
-## Ecological Significance
-
-Spores are ubiquitous in the atmosphere -- every breath contains fungal
-spores. They act as ice nucleators in clouds, influencing precipitation
-patterns. Some spores trigger allergies and asthma in susceptible
-individuals. Spore concentrations vary seasonally and geographically,
-peaking in late summer and autumn in temperate regions.
-
-## See Also
-
-- [[mushroom-anatomy]]
-- [[mycorrhiza]]
-
-See also: [[fungal-spore-dispersal-mechanisms]]

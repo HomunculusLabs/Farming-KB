@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-food-forest-succession-design]] and Year-Round Eating
+title: Urban Permaculture Food Forest Succession
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -88,37 +88,3 @@ Beyond [[coleman-winter-greens-variety-selection]], successional [[hamilton-comp
 - **Cut-and-come-again** -- harvest outer leaves of lettuce, chard, and kale so the plant keeps producing
 
 ## Forest Succession: From Bare Ground to Mature Food Forest
-
-A food forest passes through predictable successional stages:
-
-**Year 1-2: Pioneer phase**
-- Soil building with sheet mulch, cover crops, and green manures
-- Fast-growing annuals and short-lived perennials
-- Nitrogen-fixing [[nitrogen-fixing-trees-and-shrubs]] establish the nitrogen economy
-- mollison-permaculture-two-earth-houses-plant-shelters are self-maintaining
-- Ground covers [[query-how-do-cover-crops-suppress-weeds]] without intervention
-- System produces more than it consumes
-
-**Year 15+: Mature phase**
-- Full canopy closure, maximum diversity
-- Self-seeding and natural propagation maintain plant populations
-- Minimal input required -- the system manages itself
-- Focus shifts to harvesting, processing, and preservation
-
-## Urban Food Forest Succession
-
-Urban food forests follow the same principles at smaller scale:
-
-- Start with fast-producing annuals and herbs while fruit trees establish
-- Plant berries and small fruits that produce within 1-3 years
-- Include nitrogen-fixing shrubs (butterfly bush, Russian olive, seaberry)
-- Layer plantings vertically: tree canopy, shrub layer, herbs, ground covers, root crops
-- Replace annual beds with perennials over time as soil improves
-- Use containers and vertical structures to add growing space
-
-The goal is a landscape that feeds you through every season, with preservation strategies filling the gaps between fresh harvests. Diversity ensures that no single crop failure causes food insecurity.
-
-## See Also
-- root vegetable growing guide carrots beets turnips parsnips radishes
-- [[comparison-sheet-mulching-vs-chop-and-drop]]
-- [[gaias-garden-cover-crops-soil-building]]

@@ -21,7 +21,7 @@ potential anti-addictive properties.
 
 ## Botanical Description
 
-Tabernanthe iboga attains a height of 4 to 6 feet (1.5-2 m) in its
+[[plants-of-the-gods-tabernanthe-iboga]] attains a height of 4 to 6 feet (1.5-2 m) in its
 forest understory habitat. It is an evergreen shrub with glossy,
 elliptical leaves arranged in whorls or opposite pairs along the
 stems. The small, yellowish flowers are borne in clusters and are
@@ -39,8 +39,8 @@ secondary rainforest.
 
 ## The Bwiti Cult
 
-Iboga is basic to the Bwiti cult and other secret societies in Gabon
-and Zaire. The Bwiti religion is a syncretic spiritual tradition that
+Iboga is basic to the Bwiti cult and other [[entheogenic-knowledge-secret-societies]] in Gabon
+and Zaire. The [[iboga-bwiti-religion]] is a syncretic spiritual tradition that
 combines elements of indigenous Fang cosmology with Christian
 symbolism, creating a unique religious system that has served as a
 powerful force for cultural preservation in the face of colonial and
@@ -87,52 +87,3 @@ enters many aspects of Bwiti's control of events. Sorcerers take the
 drug to seek information from the spirit world, and leaders of the
 cult may consume iboga for a full day before asking advice from
 ancestors.
-
-Iboga is intimately associated with death: the plant is frequently
-anthropomorphized as a supernatural being, a "generic ancestor,"
-which can carry an individual away to the realm of the dead. During
-the almost comatose period of initiation, the "shadow" (soul) leaves
-the body to wander with the ancestors in the land of the dead.
-
-Initiates (banzie, or "angels") report visions such as: "A dead
-relative came to me in my sleep and told me to eat it"; "I walked or
-flew over a long, multicolored road or over many rivers which led me
-to my ancestors, who then took me to the great gods." These visions
-are interpreted by the Bwiti elders as evidence of successful contact
-with the ancestral realm.
-
-## Effects
-
-The effects of iboga are complex and multifaceted, combining
-hallucinogenic, stimulant, and oneirophrenic properties:
-
-- Strong stimulation of the central nervous system, sometimes lasting 
-  for days
-- Hallucinations and visionary experiences, often of deceased relative
-  s and ancestors
-- Extraordinary physical endurance without fatigue
-- Sensations of levitation or floating above the body
-- Spectrum or rainbow-like effects on surrounding objects
-- Altered time perception, with time seeming to lengthen dramatically
-- Body detachment experiences, including out-of-body states
-- Auditory, olfactory, and gustatory synesthesia at high doses
-- Mood variation from fear to euphoria, often cycling
-
-There are sometimes deaths from excessive doses taken during
-initiations. The intoxication usually so interferes with motor
-activity that initiates must sit gazing intently into space,
-eventually collapsing and having to be carried to a special house or
-forest hideout for the duration of the experience.
-
-## Historical Discovery
-
-An Englishman writing on Gabon mentioned "Eroga" under "fetish
-plants" as early as 1819, providing the first known European
-reference to the plant. French and Belgian explorers encountered the
-drug and its associated cults a little over a century ago. The
-earliest report of its hallucinogenic effects dates from 1903, when
-French scientists described the psychoactive properties of the root.
-
-- [[european-witchcraft-hallucinogenic-plants]]
-- [[iboga-and-the-bwiti-cult-initiation]]
-- [[gaian-psychotherapy-and-entheogenic-plants]]

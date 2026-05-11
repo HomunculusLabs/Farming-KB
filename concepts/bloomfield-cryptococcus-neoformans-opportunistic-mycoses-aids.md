@@ -1,8 +1,8 @@
 ---
-title: bloomfield-cryptococcus-neoformans-capsule-melanin-brain and Opportunistic Mycoses
+title: Bloomfield Cryptococcus Neoformans Opportunistic Mycoses Aids
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - fungal-pathogens
   - cryptococcus
   - aids
@@ -19,7 +19,7 @@ type: concept
 
 # Cryptococcus Neoformans and Opportunistic Mycoses
 
-Cryptococcus neoformans is an encapsulated yeast that causes life-threatening meningitis,
+[[cryptococcus-neoformans]] is an encapsulated yeast that causes life-threatening meningitis,
 particularly in immunocompromised patients. It represents one of the most clinically
 significant opportunistic [[bloomfield-fungal-pathogens-and-parasites]], affecting approximately 10 percent of AIDS
 patients worldwide. The organism illustrates the critical relationship between host
@@ -60,7 +60,7 @@ Cryptococcal infections are treated with high doses of amphotericin B, delivered
 an intravenous infusion, or in extreme cases injected directly into the brain through
 intrathecal administration. Amphotericin is a wonder drug synthesized by a bacterium
 discovered in a soil sample collected from Venezuela in 1956. It acts against fungal
-cells by binding to ergosterol, a lipid molecule in the plasma membrane that controls
+cells by binding to [[ergosterol]], a lipid molecule in the plasma membrane that controls
 membrane fluidity, analogous to cholesterol in animal cells. Amphotericin causes the
 plasma membrane to perforate, and the debilitated cell leaks salts and sugars vital
 to its survival.
@@ -88,38 +88,3 @@ drug effective at halting cryptococcal infection progression.
 At the 2000 International AIDS Conference in Durban, South Africa, scientists
 presented a harrowing picture of cryptococcal meningitis in the developing world.
 A single daily dose of fluconazole, patented by Pfizer as Diflucan, cost about $10,
-well beyond the means of most people in South Africa and other AIDS-devastated
-countries. This condemned patients to blindness and death within weeks. In 2001,
-Pfizer made the groundbreaking decision to offer an unlimited free supply of
-fluconazole to fifty of the world's poorest nations, a decision that astonished even
-harsh critics of the pharmaceutical industry.
-
-## Opportunism in Medical Mycology
-
-Medical mycologists regard Cryptococcus as an opportunist, a microorganism that
-ordinarily lives on dead tissues or feces as a saprobe but is sufficiently robust to
-tolerate occasional incarceration in a living host. At professional meetings,
-mycologists spend more time discussing the hostility of the host than the virulence
-of the pathogen. Once Cryptococcus enters the brain, it almost certainly cannot escape
-to infect new hosts. However, in nature, bodies deteriorate rapidly, and cryptococcal
-cells might find their way into new hosts who contact putrefying flesh or inhale
-spores shed from its surface.
-
-## Broad Host Range
-
-The broad host range of Cryptococcus argues for a lengthy evolutionary history. Beyond
-humans, infections have been reported in bats, camels, cats, cheetahs, civets, cows,
-dogs, dolphins, ferrets, foxes, goats, guinea pigs, horses, koalas, mangabeys, mice,
-pigs, rats, shrews, snakes, and a variety of birds. This enormous range of susceptible
-hosts suggests the yeast has been a pathogen for millions of years, long predating the
-emergence of HIV and modern immunosuppressive medicine.
-
-## Related
-
-- bloomfield-cryptococcus-neoformans-pathogenic-yeast-meningitis
-- [[bloomfield-dermatophytes-ringworm-malassezia-skin-mycoses]]
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] Topics
-
-- [[bloomfield-fungal-parasites-of-insects]]
-- bloomfield-poisonous-mushrooms-and-mycotoxins
-- [[bloomfield-fungal-plant-pathogens]]

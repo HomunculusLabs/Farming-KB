@@ -88,17 +88,3 @@ Additional antagonists that have been studied include various Trichoderma specie
 ## Fungicolous Associates
 
 H. annosum sporocarps serve as substrates for several fungicolous fungi, providing microhabitats for specialized mycoparasitic organisms:
-
-- **sphaerostilbella-broomeana** (teleomorph of Gliocladium microspermum): A fungicolous species specifically recorded on H. annosum sporocarps (Poldmaa 1999; Gams and van Zaayen 1982). This species forms its own fruiting structures on the surface of H. annosum basidiocarps
-- Various other fungi may colonize dead or dying H. annosum sporocarps as part of the natural [[dighton-fungal-succession-disturbance]] on decaying polypore brackets
-
-## Host Defense Responses
-
-When H. annosum encounters other fungi, characteristic defense responses are triggered. When phlebiopsis-gigantea encounters H. annosum, the interaction involves:
-
-- Formation of lipid droplets and invaginations of the host plasmalemma at the point of contact (Ikediugwu 1976b)
-- Vacuolation responses in the host hyphae
-- Similar responses have been described for interactions involving [[trichoderma-viride]], and [[fomitopsis-pinicola]] — related polypore and common wood-decay fungus
-- Scytalidium — antibiotically active antagonist of H. annosum
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]

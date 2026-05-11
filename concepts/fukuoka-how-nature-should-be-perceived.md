@@ -6,15 +6,16 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # How Should Nature Be Perceived?
 
-From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 3 of "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] Farming."
+From "The Natural Way of Farming" by [[masanobu-fukuoka]], Chapter 3 of "The [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] Farming."
 
 ## Seeing Nature as Wholistic
 
-The central truth of natural farming is that nothing need be done to grow crops.
+The central truth [[four-principles-of-natural-farming]] is that nothing need be done to grow crops.
 
 I have learned this because non-discriminating knowledge has enabled me to confirm that nature is complete and crops more than capable of growing by themselves. This is not the theoretical hypothesis of a scholar in his study or the wishful thinking of an idler with an aversion to work; it is based on a total, intuitive understanding of the reality about self and nature.
 
@@ -66,15 +67,15 @@ A living organism is more than the sum of its cells. An ecosystem is more than t
 
 The only direct means for confirming the perfection of nature is for each individual to come into immediate contact with the reality of nature and see for himself.
 
-Natural farming begins with the assumption that nature is perfect.
+[[natural-farming]] begins with the assumption that nature is perfect.
 
 Natural farming starts out with the conviction that barley seeds which fall to the earth will send up sprouts without fail. If a barley sprout should emerge then later wilt in mid-growth, something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action.
 
 One never blames nature, but begins by blaming oneself.
 
-There is no good or evil in nature. Natural farming admits to the existence neither of insect pests nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If a pest outbreak occurs, one reflects that this was probably triggered by some human mistake.
+There is no good or [[fukuoka-textdoc-no-good-or-evil-in-nature]]. Natural farming admits to the existence neither of [[duggar-mushroom-insect-pests-and-fungal-diseases]] nor of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If a pest outbreak occurs, one reflects that this was probably triggered by some human mistake.
 
-Thus, in natural farming, one always solves the problem by reflecting on the mistake and returning as close to nature as possible.
+Thus, [[mulching-in-natural-farming]], one always solves the problem by reflecting on the mistake and returning as close to nature as possible.
 
 Those practicing [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]], on the other hand, habitually blame insect infestation on the weather or some other aspect of nature.
 
@@ -87,11 +88,3 @@ Instead, he suggests that wholistic perception arises naturally when the mind is
 This is not a state that can be achieved through effort; effort itself is a form of interference. It is more like a state of receptivity -- like the way a mirror reflects whatever stands before it without distortion.
 
 The farmer who has cultivated this receptivity sees his land as it is, not as he thinks it should be, and acts from that seeing rather than from theory.
-
-The connection to [[one-straw-revolution-guide]], where Fukuoka recounts how his own perception shifted from conventional to natural farming through decades of patient observation and experimentation.
-
-[[fukuoka-observation-based-farming]] | [[fukuoka-nature-god-limits-of-knowledge]] | [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-
-## See Also
-
-- [[fukuoka-natural-perceiving-nature-without-relativism]]

@@ -1,5 +1,5 @@
 ---
-title: Stokes Law and Fungal Spore Sedimentation
+title: Bloomfield Stokes Law Fungal Spore Sedimentation
 created: 2026-04-28
 tags:
   - mycology
@@ -18,7 +18,7 @@ type: concept
 
 The application of Stokes' law to fungal spore sedimentation
 represents one of the earliest intersections of mycology and
-fluid dynamics. A. H. R. Buller, working in Winnipeg in the
+[[computational-fluid-dynamics]]. A. H. R. Buller, working in Winnipeg in the
 early [[coleman-louis-savier-twentieth-century-maraicher]], recognized that the behavior of
 [[query-how-to-store-mushroom-spores-long-term]] falling through air might offer a critical test
 of this fundamental principle of physics. His experiments on
@@ -88,59 +88,3 @@ The resolution of the puzzle came in 1910 when Buller observed
 the formation of the fluid drop at the base of the mushroom
 basidiospore a few seconds before discharge. Once he found
 that this drop was carried with the spore after discharge, the
-problem encountered in testing Stokes' law was resolved. The
-thin film of fluid clinging to the surface of the spore
-increased its effective diameter by a few millionths of a
-meter, and this additional size increased the mass-to-drag
-ratio enough to speed the spore's descent through the air.
-
-With the drop accounted for, mushroom spores behaved precisely
-as Stokes' law predicted. The vindication of the law at the
-microscopic scale was an important result, though by then
-Stokes' law had been validated by other researchers studying
-aerosols of mercury and wax particles. Buller's work remained
-significant for mycology because it established the quantitative
-framework for understanding spore settling rates.
-
-## Broader Spore Sedimentation Studies
-
-During these early investigations, Buller also studied the
-effect of humidity on spore sedimentation, the trajectory of
-spores when propelled from gills, and their electrostatic
-charge. These broader studies were described in the first
-volume of his monumental Researches on Fungi, published in
-1909. Six additional volumes would follow over the next four
-decades, collectively representing the most comprehensive body
-of experimental mycology ever produced by a single researcher.
-
-Humidity affects spore sedimentation because water vapor
-condenses on spore surfaces, adding mass and increasing the
-effective diameter of the particle. Electrostatic charge can
-cause spores to repel one another, reducing clumping and
-promoting uniform dispersal. These factors, combined with
-the basic Stokes' law prediction, determine how quickly spores
-settle out of the air column and where they ultimately land.
-
-## Significance for Spore Dispersal Biology
-
-The settling velocity of spores is a critical parameter in
-[[gadd-fungal-ecology-endophytes]] because it determines how far spores travel
-from their source before reaching the ground. Spores with
-higher terminal velocities settle more quickly and tend to
-deposit close to the parent [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]], while lighter
-spores remain airborne longer and can be carried greater
-distances by wind currents.
-
-This relationship has direct implications for the spread of
-
-## See also
-
-- [[bloomfield-buller-experimental-mycology]]
-- [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]
-
-## See Also
-
-- [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
-
-- [[bloomfield-buller-spore-velocity-stokes-law-experiments]]

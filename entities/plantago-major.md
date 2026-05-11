@@ -36,8 +36,8 @@ medicinally significant plants in both Western herbalism and traditional medicin
 systems globally. Every part of the plant has documented uses — leaves for wound
 healing and respiratory complaints, seeds as a mucilaginous laxative, and roots for
 toothache relief. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], broadleaf plantain serves as a dynamic
-nutrient accumulator, ground cover, and indicator species for compacted soils. Its
-deep taproot mines calcium, magnesium, sulfur, and trace minerals from subsoil
+nutrient accumulator, [[fukuoka-citrus-orchard-ground-cover-cultivation]], and indicator species for compacted soils. Its
+deep taproot mines calcium, magnesium, sulfur, and [[dynamic-accumulator-plants-trace-minerals]] from subsoil
 layers, bringing them to the surface where they become available to neighboring
 plants.
 
@@ -47,7 +47,7 @@ plants.
 - **Genus:** *Plantago*
 - **Common names:** Broadleaf plantain, common plantain, greater plantain,
   white man's footprint, waybread, snake weed
-- **Life cycle:** Perennial; hardy to USDA zones 3–12
+- **[[agaricus-campestris-biology-and-life-cycle]]:** Perennial; hardy to USDA zones 3–12
 - **Growth habit:** Basal rosette, leaves radiating from a central crown at
   ground level; flowering spikes rise 10–40 cm tall
 - **Leaves:** Broad, oval to elliptic, 5–30 cm long and 4–13 cm wide, with 5–7
@@ -67,7 +67,7 @@ plants.
 - **Soil preference:** Highly adaptable; thrives in compacted, nitrogen-rich soils
   but tolerates poor, acidic, and alkaline conditions
 - **Indicator value:** Presence often indicates compacted soil; vigorous growth
-  suggests nitrogen availability
+  suggests [[nitrogen-availability-in-legumes]]
 
 ## Active Constituents
 
@@ -88,50 +88,3 @@ plants.
 
 - **Wound healing:** Fresh leaves applied as a poultice or chewed and placed on
   cuts, scrapes, insect bites, and bee stings; allantoin and aucubin accelerate
-  tissue repair and reduce infection risk
-- **Respiratory support:** Leaf tea or tincture for coughs, bronchitis, and
-  mucous congestion; mucilage soothes irritated airways while aucubin provides
-  anti-inflammatory action
-- **Digestive health:** Seed mucilage acts as a bulk-forming laxative similar to
-  psyllium (*P. ovata*); tea for gastritis and peptic ulcers
-- **[[cannabis-for-skin-conditions-detailed]]:** Topical preparations for eczema, psoriasis, minor burns,
-  and hemorrhoids
-- **Urinary tract:** Diuretic and anti-inflammatory; traditional use for UTIs and
-  bladder irritation
-- **Oral health:** Chewing fresh root for toothache; leaf tea as a mouthwash for
-  gum inflammation
-
-## Edible Uses
-
-- **Young leaves:** Raw in salads, mild flavor with slight bitterness; best
-  harvested before flowering when texture is tender
-- **Cooked leaves:** Sautéed like spinach, added to soups, stews, and pesto;
-  cooking removes bitterness
-- **Seeds:** Can be ground into flour or soaked for mucilaginous gel; similar
-  culinary use to chia or flax seeds
-- **Nutritional value:** High in beta-carotene, vitamin C, and calcium per gram
-  compared to many cultivated greens
-
-## Permaculture and Ecological Role
-
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot (up to 30 cm) mines calcium, magnesium,
-  sulfur, copper, iron, and zinc from subsoil; mulching with leaves returns these
-  minerals to surface soil
-- **Ground cover:** Dense rosettes suppress weed emergence and protect bare soil
-  from erosion and compaction
-- **Companion plant:** Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and
-  predatory wasps; serves as a nurse plant in disturbed areas
-- **Soil restoration:** Roots break compacted soil layers, improving infiltration
-  and aeration for subsequent plantings
-- **Biomass:** Reliable chop-and-drop mulch source; leaves decompose quickly and
-  release accumulated minerals
-- **Pioneer species:** Among the first plants to colonize disturbed, compacted, or
-  degraded soils, initiating [[holmgren-ecological-succession-and-pulsing]]
-
-## See Also
-
-- [[vinca-major]]
-
-- [[urtica-dioica|Stinging Nettle]] — nutrient-dense dynamic accumulator and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
-- [[trifolium-repens|White Clover]] — nitrogen-fixing ground cover companion
-- [[alfalfa-medicago-sativa|Alfalfa]] — deep-rooted dynamic accumulator with similar mineral profiles

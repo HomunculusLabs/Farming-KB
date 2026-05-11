@@ -19,7 +19,7 @@ occupations:
 associated_with:
 - École polytechnique
 - École des Ponts et Chaussées
-- Carnot cycle
+- [[carnot-cycle-and-heat-engines]]
 - Clausius-Clapeyron relation
 tags:
 - entity
@@ -41,7 +41,7 @@ updated: 2026-05-02
 ## Overview
 - Émile Clapeyron was a French engineer and physicist.
 - He is remembered as one of the founders of thermodynamics.
-- His 1834 memoir made Sadi Carnot's heat-engine theory accessible and analytical.
+- His 1834 memoir made [[sadi-carnot]]'s heat-engine theory accessible and analytical.
 - He gave graphical form to the cycle now discussed on [[nineteenth-century-mushroom-cultivation]] overlap between state engineering and physical theory.
 
 ## Education
@@ -88,43 +88,3 @@ updated: 2026-05-02
 - Clapeyron still worked in a conceptual world partly shaped by caloric theory.
 - Later scientists recast the argument in energy and entropy terms.
 - His contribution was not merely commentary; it reorganized the argument for future science.
-
-## Clausius-Clapeyron relation
-- Cl [[query-what-is-vapor-pressure-deficit-and-why-does-it-matter-for-cannabis]] hases.
-- The equation is central for [[cervantes-vapor-pressure-deficit-transpiration]], boiling, sublimation, and condensation.
-- It connects thermodynamics to meteorology, chemistry, materials science, and geophysics.
-
-## Other scientific work
-- Clapeyron worked on the behavior of perfect gases.
-- He studied equilibrium questions in homogeneous solids.
-- He contributed to calculations for continuous beams.
-- Clapeyron's theorem of three moments is a structural-engineering result.
-- That theorem helps analyze bending moments in continuous beams over multiple supports.
-- They also reflect the engineering needs of bridges, railways, and industrial structures.
-
-## Academic and institutional roles
-- From 1844 to 1859 Clapeyron was a professor at the École des Ponts et Chaussées.
-- The school was central to French civil-engineering education.
-- His teaching role placed thermodynamics and mechanics in professional circulation.
-- He was elected to the Académie des Sciences in 1858.
-- His name is one of the seventy-two names inscribed on the Eiffel Tower.
-- Rue Clapeyron in Paris also commemorates him.
-
-## Family and network
-- Clapeyron married Mélanie Bazaine.
-- She was the daughter of engineer and mathematician Pierre-Dominique Bazaine.
-- Gabriel Lamé was an important colleague during the Russian period.
-- Railway collaborators included figures involved in early French finance and infrastructure.
-- His professional network joined public works, academia, and industrial modernization.
-
-## Legacy
-- Clapeyron preserved and transformed Carnot's heat-engine insight.
-- He supplied a diagrammatic language that became standard in thermodynamics.
-- He connected practical steam engineering to abstract thermodynamic limits.
-- His phase-transition work remains visible in a core physical equation.
-- His structural-mechanics work remains part of engineering history.
-- He is a necessary entity for interpreting the historical section of [[carnot-cycle-and-heat-engines]].
-- Related entity: [[nineteenth-century-mushroom-identification]] field: nineteenth-century French civil engineering.
-- Entity role: translator of Carnot's theory into usable analytical thermodynamics.
-## See Also
-- [[query-how-does-mycorrhizal-network-communication-work-between-plants]]

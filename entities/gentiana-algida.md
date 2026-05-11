@@ -13,7 +13,7 @@ updated: 2026-05-10
 sources:
   - Ho, T.N. & Pringle, J.S. (1995). "Gentianaceae." Flora of China, Vol. 16, 1–139.
   - Körner, C. (2003). Alpine Plant Life: Functional Plant Ecology of High Mountain Ecosystems. Springer.
-  - Urbatsch, L.E. et al. (2000). "Gentiana." In Flora of North America, Vol. 16, 137–145.
+  - Urbatsch, L.E. et al. (2000). "Gentiana." In Flora [[berry-growing]], Vol. 16, 137–145.
   - Royal Botanic Gardens Kew. "Gentiana algida." Plants of the World Online.
 ---
 
@@ -53,9 +53,9 @@ Gentiana algida is distributed across high-altitude Central Asia, including the 
 
 In North America, disjunct populations occur in the Rocky Mountains of Colorado and Wyoming. These represent a Pleistocene relict distribution pattern.
 
-The species inhabits alpine meadows, mossy tundra, stabilized scree, and snowbed margins at elevations of 3,000–5,400 m. It occupies sites with late-lying snow and short growing seasons.
+The species inhabits alpine meadows, mossy tundra, stabilized scree, and snowbed margins at elevations of 3,000–5,400 m. It occupies sites with late-lying snow and short [[jeavons-climate-adaptation-growing-seasons]].
 
-Soils are typically acidic to neutral, humus-rich, and moist during the growing season. Winter snow cover provides critical insulation against extreme cold.
+Soils are typically acidic to neutral, humus-rich, and moist during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Winter snow cover provides critical insulation against extreme cold.
 
 Populations are often small and spatially isolated, separated by impassable lower-elevation terrain. This fragmentation may limit gene flow between mountain ranges.
 
@@ -71,51 +71,20 @@ Pollination is primarily by bumblebees (Bombus spp.), which are among the few in
 
 The flowers produce copious nectar relative to their size, rewarding pollinators for visiting in the cold, energy-demanding alpine environment. Nectar sugar concentration can exceed 40%.
 
-Seed production is low compared to lowland gentians. Each capsule produces 30–100 seeds, reflecting the resource constraints of high-altitude environments.
+[[cannabis-controlled-pollination-seed-production]] is low compared to lowland gentians. Each capsule produces 30–100 seeds, reflecting the resource constraints of high-altitude environments.
 
 Seedlings require several years to reach flowering size. Establishment is limited to microsites with adequate moisture and protection from frost heaving.
 
 The species is highly sensitive to warming temperatures. Even modest climate shifts could push suitable habitat above the available land surface on isolated peaks.
 
-Molecular studies suggest that North American populations diverged from Asian ones during the late Pliocene. This ancient separation has resulted in subtle morphological differences.
+Molecular studies suggest that [[growing-gourmet-north-american-reishi-species]] populations diverged from Asian ones during the late Pliocene. This ancient separation has resulted in subtle morphological differences.
 
 ## Traditional Uses
 
-In Tibetan medicine, Gentiana algida is known as "Bang-za" and classified among bitter herbs. Preparations are used to treat fever, bile disorders, and inflammatory skin conditions.
+In Tibetan medicine, Gentiana algida is known as "Bang-za" and classified among bitter herbs. Preparations are used to treat fever, bile disorders, and inflammatory [[cannabis-for-skin-conditions-detailed]].
 
 The roots are harvested in autumn, dried, and ground into powder. Formulations often combine G. algida with other alpine herbs in multi-ingredient compounds.
 
 Collection is typically done by local herders who supplement their income through medicinal plant harvesting. Sustainability of this practice varies widely across the species' range.
 
 Phytochemical analysis has identified gentiopicroside, sweroside, and swertiamarin as major iridoid glycosides. These compounds show anti-inflammatory and hepatoprotective activity.
-
-The Bhutanese traditional medicine system (g.so-ba rig-pa) uses the species in formulations for liver ailments. Contemporary research is investigating its potential as a source of novel anti-inflammatory agents.
-
-Wild populations are under pressure from commercial collection in parts of Tibet. Sustainable management protocols have been proposed but not widely implemented.
-
-## Cultivation
-
-Gentiana algida is among the most challenging gentians to cultivate. It requires conditions that replicate the cool, moist, high-altitude environments it naturally inhabits.
-
-Seeds require prolonged cold stratification of 8–12 weeks. Germination rates are typically low, often below 30%, even under optimal conditions.
-
-Plants require consistently moist, humus-rich soil with excellent drainage. Partial shade is essential, as the species is not adapted to intense lowland sunlight.
-
-Hardy to USDA zones 3–5. The species tolerates extreme cold but is intolerant of winter warmth and fluctuating freeze-thaw cycles.
-
-Successful cultivation is primarily achieved in alpine houses and carefully managed trough gardens. Few commercial nurseries offer the species due to its exacting requirements.
-
-Plants grown from seed may take 5–7 years to flower. This slow development makes G. algida unsuitable for commercial horticulture but prized by specialist alpine collectors.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-verna]]
-- [[gentiana-clusii]]
-- [[gentiana-nivalis]]
-- [[gentiana-acaulis]]
-- [[gentiana-purpurea]]
-- [[gentiana-punctata]]
-- [[swertia-perennis]]
-- [[primula-auricula]]
-- [[primula-farinosa]]

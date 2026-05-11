@@ -2,7 +2,7 @@
 title: "Methylophilus — Methylotrophic Bacteria in Cannabis Endorhiza"
 slug: "methylophilus-methylotrophic-bacteria-cannabis-endorhiza"
 tags: [microbiome, cannabis, methylotroph, methylophilus, endophyte, strain-specificity]
-source: [[understanding-cultivar-specificity-cannabis-microbiome]]
+source: [[cannabis-microbiome-cultivar-specificity]]
 created: 2026-05-10
 ---
 
@@ -10,7 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-*Methylophilus* emerged as one of the most striking findings in the Winston et al. (2014) Cannabis microbiome study. This genus of methylotrophic bacteria showed extreme cultivar-specific enrichment in the endorhiza of Cannabis, comprising 13% of the entire endorhiza microbial community in Bookoo Kush while being virtually absent from Burmese (0.13%) and completely undetectable in Sour Diesel. This dramatic strain-level difference was the single most statistically significant OTU abundance difference between Cannabis cultivars (FDR-corrected p = 0.012).
+*Methylophilus* emerged as one of the most striking findings in the Winston et al. (2014) [[winston-cannabis-microbiome-study-design]]. This genus of methylotrophic bacteria showed extreme cultivar-specific enrichment in the endorhiza of Cannabis, comprising 13% of the entire endorhiza microbial community in Bookoo Kush while being virtually absent from Burmese (0.13%) and completely undetectable in Sour Diesel. This dramatic strain-level difference was the single most statistically significant OTU abundance difference between Cannabis cultivars (FDR-corrected p = 0.012).
 
 ## Taxonomy and Biology of Methylophilus
 
@@ -38,7 +38,7 @@ Methylotrophs like *Methylophilus* oxidize methanol to formaldehyde using methan
 
 - Freshwater and soil environments with active organic matter cycling
 - The rhizosphere of plants producing methanol-rich exudates
-- Wastewater treatment systems with high C1 compound loads
+- [[constructed-wetland-design]] systems with high C1 compound loads
 - Phyllosphere (leaf surface) communities exposed to atmospheric methanol
 
 ## Strain-Specific Enrichment in Cannabis
@@ -67,11 +67,11 @@ The *Methylophilus* enrichment was specific to the endorhiza compartment — it 
 
 ### Root Exudate Hypothesis
 
-Different Cannabis cultivars produce distinct profiles of root exudates, which serve as the primary carbon source for rhizosphere and endophytic bacteria. If Bookoo Kush roots exude higher concentrations of methylated compounds (methanol, methylamines, or methylated phenolics), this could selectively favor *Methylophilus* colonization. Cannabis is known to produce numerous methylated secondary metabolites, and cultivar-specific terpenoid and cannabinoid profiles could extend to root exudate chemistry.
+Different Cannabis cultivars produce distinct profiles of root exudates, which serve as the primary carbon source for rhizosphere and [[endorhiza-endophytic-bacteria]]. If Bookoo Kush roots exude higher concentrations of methylated compounds (methanol, methylamines, or methylated phenolics), this could selectively favor *Methylophilus* colonization. Cannabis is known to produce numerous methylated [[antifungal-secondary-metabolites-coprophilous-fungi]], and cultivar-specific terpenoid and cannabinoid profiles could extend to root exudate chemistry.
 
 ### Niche Availability Hypothesis
 
-*Methylophilus* may occupy a specific metabolic niche in the Bookoo Kush endorhiza that is already filled by other taxa in Burmese and Sour Diesel. The 13% community share in Bookoo Kush suggests either abundant substrate availability or a competitive advantage in that particular root environment. In other cultivars, functional redundancy may mean other bacteria fulfill the same ecological role.
+*Methylophilus* may occupy a specific metabolic niche in the Bookoo Kush endorhiza that is already filled by other taxa in Burmese and Sour Diesel. The 13% community share in Bookoo Kush suggests either abundant substrate availability or a competitive advantage in that particular root environment. In other cultivars, [[functional-redundancy-fungal-communities]] may mean other bacteria fulfill the same ecological role.
 
 ### Host Immune Selectivity Hypothesis
 
@@ -84,41 +84,6 @@ The *Methylophilus* finding provides strong support for the second tier of the t
 1. **First tier (soil filtering):** *Methylophilus* was present at low levels in the bulk soil — it passed the initial soil-derived filter into the rhizosphere
 2. **Second tier (host genotype selection):** Only within the Bookoo Kush endorhiza did *Methylophilus* undergo dramatic population expansion, suggesting that host-specific factors in Bookoo Kush created conditions favorable for its proliferation
 
-This pattern — presence in soil but cultivar-specific amplification in the endorhiza — exemplifies how the two-tier model predicts community assembly in plant roots.
+This pattern — presence in soil but cultivar-specific amplification in the endorhiza — exemplifies how the two-tier model predicts [[biodiversity-fungal-community-assembly]] in plant roots.
 
 ## Comparison with Sphingomonas wittichii
-
-The second experiment identified a different cultivar-specific OTU: *Sphingomonas wittichii*, which was prevalent in Maui Wowie but not White Widow. Unlike *Methylophilus*, which is defined by its C1 metabolism, *S. wittichii* is notable for its ability to metabolize phenazine-1-carboxylic acid and its implications for increased survival in soil environments. Together, these two findings demonstrate that cultivar-specific enrichment involves different bacterial genera with distinct metabolic capabilities across different Cannabis strains.
-
-## Agricultural Implications
-
-### Potential Benefits of Methylophilus Colonization
-
-If *Methylophilus* enrichment in Bookoo Kush endorhiza is beneficial rather than coincidental, it could:
-
-- Contribute to methanol cycling in the root zone, potentially influencing root exudate turnover
-- Compete with pathogens for C1 compound resources
-- Produce growth-promoting metabolites as byproducts of methylotrophic metabolism
-
-### Biocontrol Potential
-
-Methylotrophic endophytes have been explored in other plant systems for their ability to promote plant growth and suppress disease. The Bookoo Kush-*Methylophilus* association could represent a naturally occurring beneficial partnership.
-
-### Cultivar Selection Considerations
-
-If specific microbial associations correlate with plant performance traits, cultivar selection could implicitly select for or against particular microbial partnerships. Understanding these associations could inform breeding programs and inoculant development.
-
-## Open Questions
-
-- What specific root exudate compounds drive *Methylophilus* enrichment in Bookoo Kush?
-- Is the enrichment consistent across different soil types and growing conditions?
-- Does *Methylophilus* colonization confer any measurable fitness benefit to the host plant?
-- Can *Methylophilus* be artificially introduced into other cultivars' endorhiza communities?
-- What is the metabolic interaction between *Methylophilus* and other core endorhiza members (*Pseudomonas*, *Cellvibrio*, etc.)?
-
-## See Also
-
-- [[methylophilus-cannabis-endorhiza-strain-specificity]] — related concept page
-- [[cannabis-microbiome-cultivar-specificity]] — broader cultivar-specificity findings
-- [[cannabis-core-endorhiza-microbiome]] — core community composition
-- [[two-tier-selection-model-rhizosphere-endorhiza]] — the model this finding supports

@@ -88,9 +88,3 @@ The ethoxy homologues of the 2C-X series have been collectively called the "Twee
 - Short to moderate duration (4-6 hours)
 - Often recommended as an introductory psychedelic phenethylamine
 - Related compounds: [[2c-e-compound-profile]], [[shulgin-mda-compound-profile]]
-
-- [[doet-compound-profile]]
-- [[shulgin-mda-compound-profile]] Topics
-- [[tweetio-series-ethoxy-homologues-pihkal]]
-- [[psychedelic-harm-reduction-philosophy]]
-- [[psychedelic-harm-reduction-guide]]

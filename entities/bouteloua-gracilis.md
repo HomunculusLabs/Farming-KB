@@ -88,32 +88,3 @@ Blue grama is widely cultivated for range seeding, [[permplant-willows-salix-ero
 Seed should be planted at 2–4 kg per hectare in early summer when soil temperatures exceed 18 °C. Germination is typically slow and irregular, taking 14–30 days. Seedling establishment benefits from a season of reduced competition from weeds.
 
 No irrigation or fertilizer is needed for range plantings once established. In turf applications, minimal supplemental irrigation (25–50 mm per month) maintains green cover through summer. Mowing at 5–8 cm height produces an acceptable low-input lawn.
-
-The species is cold-hardy to USDA Zone 3 and heat-tolerant to Zone 9. It has no significant pest or disease problems in most settings. Seed production in cultivated stands is reliable, with yields of 50–100 kg per hectare.
-
-## Uses and Ethnobotany
-
-Blue grama has been a critically important forage grass since the bison-dominated prairie era. It remains one of the most valuable native forage species for cattle production on the Great Plains, providing nutritious summer forage with crude protein levels of 8–12% in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]].
-
-The species is increasingly used in low-input and xeriscape landscaping. Blue grama lawns require 50–75% less water than conventional turfgrass and eliminate the need for regular fertilization and pesticide applications.
-
-In native landscaping and ecological restoration, blue grama is a foundational species for recreating shortgrass prairie communities. It pairs effectively with other native forbs and grasses to establish self-sustaining plant communities.
-
-Traditional uses among Indigenous Plains peoples include weaving the dried flower spikes into small decorative items and using the grass as bedding material. The Lakota and other groups used blue grama in purification ceremonies.
-
-Modern conservation applications include its use in reclamation of disturbed rangelands, mine sites, and roadside verges. Its drought tolerance and ease of establishment from seed make it a reliable species for restoring degraded arid and semi-arid ecosystems.
-
-Several commercial cultivars have been developed for improved turf quality and seed production. Notable selections include 'Hachita' (selected for turf use), 'Lovington' (improved forage type), and 'Native' (source-identified for conservation plantings).
-
-## See Also
-
-- [[deschampsia-flexuosa]]
-- [[muhlenbergia-rigens]]
-- [[pennisetum-setaceum]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[ulmus-americana]]
-- [[acer-saccharum]]
-- [[vaccinium-myrtillus]]

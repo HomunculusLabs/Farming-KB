@@ -88,20 +88,3 @@ The dense flower spikes provide landing platforms for large-bodied butterflies t
 Dense blazing star is one of the most widely cultivated native North American perennials. It is propagated commercially from seed, corm divisions, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Seed germination requires no stratification and occurs readily at 20–25°C with light exposure.
 
 Corms are planted 5–8 cm deep in spring or fall, spaced 15–30 cm apart. Plants typically flower in the second or third year from seed but may bloom in the first year from large corm divisions. Established clumps can be divided every 3–4 years.
-
-The species is a popular cut flower, with flower spikes lasting 10–14 days in arrangements. Several cultivars are available, including 'Floristan Violet' (deep purple), 'Floristan White' (white), and 'Kobold' (compact, 60 cm). 'Kobold' is the most widely grown cultivar in commercial horticulture.
-
-Plants require full sun for optimal flowering but tolerate light shade, particularly in hotter southern portions of the range. Excessive shade produces leggy growth and reduced flower production. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though plants benefit from supplemental irrigation during extended dry periods.
-
-In mass plantings, *L. spicata* is most effective when planted in groups of 7 or more to create visual impact. The vertical flower spikes contrast effectively with rounded or spreading forms of companion plants such as [[rudbeckia-laciniata]], and [[echinacea-purpurea]]
-- [[monarda-fistulosa]]
-- [[coreopsis-tinctoria]]
-- [[achillea-millefolium]]
-- [[panicum-virgatum]]
-- [[taraxacum-officinale]]
-- [[asclepias-syriaca]]
-- [[trifolium-pratense]]
-- [[symphytum-officinale]]
-- [[verbascum-thapsus]]
-- [[arnica-montana]]
-- [[aloe-vera]]

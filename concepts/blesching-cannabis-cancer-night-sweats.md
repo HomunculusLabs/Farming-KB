@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Cancer-Induced Night Sweats"
+title: Blesching Cannabis Cancer Night Sweats
 created: 2026-04-26
 tags: [cannabis, night-sweats, cancer-symptoms, palliative-care, endocannabinoid]
 date: 2026-04-25
@@ -12,13 +12,13 @@ type: concept
 # Cannabis and Cancer-Induced Night Sweats
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
-for evaluating the therapeutic potential of cannabis across various
+for evaluating the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. For cancer-induced night sweats, the CHI scores 1 study with
-a combined CHI value of 3, indicating preliminary but promising evidence.
+a combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of 3, indicating preliminary but promising evidence.
 
 ## Understanding Cancer-Induced Night Sweats
 
-Night sweats, relatively common in end-stage cancer patients, are partly
+Night sweats, relatively common in end-stage [[cannabis-for-cancer-patients]], are partly
 responsible for disrupted sleep patterns. This factor directly and
 indirectly further reduces the patient's overall quality of life. The
 orthodox medical system believes that the sympathetic nervous system
@@ -65,7 +65,7 @@ Total CHI Value: 3
 
 CB1 receptors are located primarily in the brain and central nervous
 system, including the sympathetic nervous system and the hypothalamus,
-which are both involved in perspiration. The synthetic cannabinoid
+which are both involved in perspiration. The [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]
 Nabilone, similar to THC, has been shown to therapeutically influence
 perspiration patterns in humans.
 
@@ -88,10 +88,3 @@ Intense dreams, struggling with uncomfortable topics or nightmares, are
 commonly associated with night sweats.
 
 Night sweats in the context of [[blesching-cannabis-palliative-care]]
-- [[blesching-cannabis-sleep-disorders]]
-- [[blesching-cannabis-anorexia-cachexia]]
-- [[blesching-cannabis-ptsd-anxiety]]
-
-## See Also
-
-- [[blesching-cannabis-improved-night-vision]]

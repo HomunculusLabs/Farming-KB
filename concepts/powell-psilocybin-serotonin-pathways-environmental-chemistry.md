@@ -1,5 +1,5 @@
 ---
-title: psilocybin|powell psilocybin serotonin pathways environmental chemistry|Serotonin Pathways and Environmental Chemistry
+title: Powell Psilocybin Serotonin Pathways Environmental Chemistry
 created: 2026-04-28
 tags: [psilocybin, serotonin, neurotransmitter, diet, consciousness, powell]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: concept
 # Psilocybin Serotonin Pathways and Environmental Chemistry
 
 Simon G. Powell's The [[powell-psilocybin-solution-ecological-cognition-theory]] presents a provocative argument
-about the relationship between diet, brain chemistry, and consciousness.
+about the relationship between diet, [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]], and consciousness.
 The book explores how serotonin, the neurotransmitter that psilocybin
 primarily acts upon, is fundamentally bound up with the chemistry of the
 natural environment, raising profound questions about the nature of
@@ -58,13 +58,13 @@ interaction of environmental chemistry with neuronal architecture.
 Having established the environmental basis of neurotransmitters, Powell
 argues that the psilocybin experience is wholly natural. It arises out of
 an environmentally driven alteration in brain chemistry, insofar as the
-[[psilocybin-mushroom|psilocybin mushroom]] is part of the natural environment. There is nothing
+[[psilocybin-mushroom]] is part of the natural environment. There is nothing
 artificial about this process. Just as we can selectively pick wheat to
 make bread for physical well-being, so too can we selectively consume
 natural [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] for spiritual well-being.
 
 Both wheat and mushroom are legitimate natural expressions of the Gaian
-system within which we are embedded. Natural psilocybin mushrooms can
+system within which we are embedded. Natural [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] can
 enter our diet, and the new chemicals subsequently operating within the
 brain will alter awareness so that consensual serotonergic reality shifts
 to a rare psilocybinetic reality. This reframing challenges the common
@@ -88,42 +88,3 @@ which is the production of plants and fungi possessing vital shamanic
 power through which the evolutionary process can continue to function
 healthily. Entheogenic species still offer a wealth of psychotherapeutic
 power if we choose to investigate them.
-
-## Gaian Psychotherapy
-
-In Gaian terms, the shamanic ingestion of plants and fungi is an
-entirely natural process. When we take into account the ecological system
-of shaman, tribe, and plant, it can be seen as essentially homeostatic:
-one part of the environment acts upon another in order to restore harmony.
-Certain plants and fungi yield aid through their [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]],
-highlighting how deeply we are rooted to the rest of life's web.
-
-Shamanism is perhaps the oldest form of religious psychotherapy, and the
-knowledge gained by visionary shamans was used precisely to help heal the
-tribe. There is no reason to assume that such psychedelic shamanism is
-now impotent or irrelevant, especially within the Gaian paradigm. Such
-Gaian psychotherapy demonstrates how much we are rooted to the rest of
-Nature, and how the solutions to our problems are often to be found
-growing around us.
-
-## Technological versus Natural Approaches
-
-Powell defends the idea that technological shortcuts are not necessarily
-bad. Aldous Huxley's vision in The Doors of Perception of a
-mass-marketed psychedelic that enlightens the world cannot be faulted on
-its technological methodology. However, psilocybin is not a technological
-product. Koestler perceived it as such because his psilocybin came in
-the form of a Sandoz pill, the perfect symbol of a modern technological
-fix, in direct contrast to the very earthly symbol of the [[emcdda-wild-mushroom-foraging-misidentification-hazards]].
-
-Leary concluded that to ignore psilocybin as a psychological tool would
-be akin to rejecting the microscope because it made seeing too easy.
-Both tools uncover the hidden riches of Nature. The distinction between
-laboratory-synthesized psilocybin and naturally occurring mushroom
-material remains philosophically significant for understanding the
-relationship between consciousness and the natural world.
-
-## See Also
-- [[powell-psilocybin-consciousness]]
-- [[powell-mutability-of-consciousness-chemical-lens]]
-- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

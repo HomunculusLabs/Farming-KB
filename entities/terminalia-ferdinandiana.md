@@ -50,7 +50,7 @@ The species occupies a variety of well-drained habitats including sandstone esca
 
 ## Nutritional Profile
 
-The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges (Citrus sinensis).
+The Kakadu plum's most celebrated attribute is its extraordinary **ascorbic acid (vitamin C) content**. Reported concentrations range from 900 to 5,300 mg per 100 g fresh weight, representing 50–100 times the concentration found in oranges ([[citrus-sinensis]]).
 
 Vitamin C levels vary significantly with growing location, [[cannabis-harvest-timing-visual-cues]], and post-harvest handling. Shade-dried fruit retains approximately 40–50% of fresh vitamin C content.
 
@@ -72,7 +72,7 @@ In vitro studies have demonstrated:
 
 - **Anti-inflammatory activity**: Ethanolic extracts inhibit COX-2 and iNOS expression in macrophage models. Ellagic acid is a key mediator of this effect.
 
-- **Antimicrobial activity**: Fruit extracts show inhibitory activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis) and selected foodborne pathogens.
+- **Antimicrobial activity**: Fruit extracts show inhibitory activity against Gram-positive bacteria ([[staphylococcus-aureus]], [[bacillus-subtilis]]) and selected foodborne pathogens.
 
 - **Anti-diabetic potential**: In vitro α-amylase and α-glucosidase inhibition has been documented, suggesting a mechanism for glycemic modulation.
 
@@ -80,7 +80,7 @@ In vitro studies have demonstrated:
 
 Aboriginal Australians have used the Kakadu plum as a food and medicine for an estimated 40,000–60,000 years. The fruit is eaten fresh when ripe and can be sun-dried for later use.
 
-Traditional medicinal applications include treatment of colds, headaches, and skin conditions. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
+Traditional medicinal applications include treatment of colds, headaches, and [[cannabis-for-skin-conditions-detailed]]. The inner bark is used topically for wounds, and sap is applied as an antiseptic.
 
 Contemporary commercial applications include:
 
@@ -88,33 +88,3 @@ Contemporary commercial applications include:
 - Vitamin C–rich extracts in cosmetics and skincare formulations
 - Flavoring agent in the native foods industry
 - Preservative in food systems due to strong antioxidant properties
-
-## Cultivation
-
-Cultivation of T. ferdinandiana remains largely restricted to wild harvesting and small-scale plantations in northern Australia. The species is relatively slow-growing in its early years but can produce fruit within 3–5 years from seed under favorable conditions.
-
-Key cultivation parameters include:
-
-- **Propagation**: Seed germination is erratic; scarification and heat treatment improve rates. Cutting propagation is possible but strike rates are modest.
-
-- **Climate**: Tropical monsoonal; annual rainfall 600–1,500 mm with a pronounced dry season. [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] 20–40°C.
-
-- **Soil**: Well-drained sandy loams to lateritic gravels; pH 5.5–7.0. The species tolerates low-nutrient substrates.
-
-- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]**: Relatively pest-free in native settings. Fruit fly (Bactrocera spp.) can affect commercial orchards.
-
-- **Yield**: Mature trees produce 5–30 kg of fruit per season. Harvesting is labor-intensive as fruit ripens asynchronously.
-
-## Permaculture and Agroforestry Applications
-
-The Kakadu plum is well-suited to tropical food-forest systems in northern Australia. Its deep root system provides [[permplant-willows-salix-erosion-control-fodder]], and the leaf litter contributes to soil [[hamilton-composting-and-organic-matter-management]].
-
-In agroforestry designs, T. ferdinandiana functions as a mid-canopy layer beneath taller emergent species such as Eucalyptus and Corymbia. Its semi-deciduous habit allows light penetration to understory crops during the dry season.
-
-The species is a candidate for **carbon farming** initiatives due to its woody growth habit and suitability for degraded tropical landscapes. Integration with native beekeeping provides additional pollination and [[mollison-designers-beekeeping-honey-production-permaculture]] benefits.
-
-## See Also
-
-- [[terminalia-chebula]]
-- [[curcuma-longa]]
-- [[ursolic-acid]]

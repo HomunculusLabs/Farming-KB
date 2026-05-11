@@ -88,28 +88,3 @@ Extracted sulfated polysaccharides and phycobiliproteins have potential applicat
 ## Cultivation
 
 Experimental cultivation of G. turuturu has been conducted using vegetative fragmentation and spore-based methods. Fragment culture on horizontal ropes in the subtidal zone has shown promising growth rates of 3–5% per day during summer.
-
-Optimal cultivation depth is 2–5 m with moderate water movement. The species responds well to nutrient enrichment, suggesting suitability for integrated multi-trophic aquaculture systems.
-
-Annual biomass yields of 10–15 kg fresh weight per square meter have been reported in trial plots. Seasonal limitations exist in temperate regions, where growth ceases below 8°C.
-
-No large-scale commercial cultivation operations exist as of 2026. Interest remains primarily in the research and pilot-scale phases, driven by the dual goals of invasive species management and sustainable seaweed production.
-
-## Related Species
-
-G. turuturu belongs to a genus of approximately 80 species, several of which are commercially important. G. filicina is the most widely cultivated Grateloupia species in East Asian aquaculture.
-
-G. asiatica is consumed as a food item in China, where it is known as "hongticao." It differs from G. turuturu in its narrower blades and more branched morphology.
-
-G. lanceolata is a smaller species found in tropical Indo-Pacific waters. It has been investigated for its antitumor and immunomodulatory polysaccharides.
-
-The genus is distinguished from other Halymeniaceae by its combination of cartilaginous texture, internal medullary filaments, and cruciately divided tetrasporangia. Molecular phylogenetics has revealed that the genus is polyphyletic and may require taxonomic revision.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[ulva-lactuca]]
-- [[palmaria-palmata]]
-- [[kappaphycus-alvarezii]]
-- [[fucus-serratus]]
-- [[laminaria-digitata]]

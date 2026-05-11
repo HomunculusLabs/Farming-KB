@@ -1,16 +1,17 @@
 ---
-title: Holzer holzer alpine plant cultivation gentian and Gentian Propagation
+title: Holzer Alpine Plant Cultivation Gentian
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Alpine Plant Cultivation and Gentian Propagation
 
-[[comparison-sepp-holzer-vs-biodynamic]]'s methods for cultivating alpine plants, with detailed focus on yellow gentian (Gentiana lutea) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
+[[comparison-sepp-holzer-vs-biodynamic]]'s methods for cultivating alpine plants, with detailed focus on yellow gentian ([[gentiana-lutea]]) propagation. From his Practical Guide to Small-Scale Integrative Farming and Gardening.
 
 ## The Central Lesson: Observe Nature
 
@@ -60,7 +61,7 @@ When cultivating alpine plants at lower altitudes than their natural habitat:
 
 - The required symbiotic fungi are not present in the soil
 - Native soil must be introduced from near the roots of the parent plant
-- This applies to: spotted gentians (Gentiana punctata), hairy alpine rose (Rhododendron hirsutum), arnica (Arnica montana), alpine bellflowers (Campanula alpina), mountain pasque flowers (Pulsatilla montana), cowberries (Vaccinium vitis-idaea), bilberries (Vaccinium myrtillus)
+- This applies to: spotted gentians ([[gentiana-punctata]]), hairy alpine rose (Rhododendron hirsutum), arnica ([[arnica-montana]]), alpine bellflowers (Campanula alpina), mountain pasque flowers (Pulsatilla montana), cowberries (Vaccinium vitis-idaea), bilberries ([[vaccinium-myrtillus]])
 - When sowing in natural environments (high altitudes), native soil introduction is not necessary
 
 ### Altitude Compensation
@@ -87,28 +88,3 @@ Forty years ago, large numbers of gentian roots existed in mountain pastures. Th
 4. Gentian seeds fall onto churned, loosened soil the following year
 5. Thick growth of young plants grows using remaining secondary roots
 6. Gentians are rejuvenated
-
-### Conservation Criticism
-
-Holzer criticizes conventional nature conservation:
-
-- Putting plants under "protection" without preserving habitat is ineffective
-- Without digging, gentian roots get worn out from age (30-40 years), soil mats and compacts, roots die out
-- "It would make more sense if the 'protectors' of alpine plants were trained to cultivate and propagate them"
-- Farmers should not be fined for working with valuable plants on their own land
-
-## General Alpine Plant Principles
-
-1. **Extreme conditions are often required** — frost, freeze-thaw cycles, light exposure
-2. **Symbiotic fungi** are often essential — always use native soil
-3. **Poor soil is usually best** — alpine plants are adapted to nutrient-poor conditions
-4. **Do not over-care** — "I had simply tried too hard with my plants"
-5. **Observe the natural habitat** — altitude, exposure, moisture, companion species
-6. **Many other plants** can be propagated using these techniques
-
-## See Also
-
-- [[holzer-farming-philosophy]] — Holzer's [[cho-natural-farming-philosophy-of-non-interference]]
-- [[symbiosis-art-of-living]] — symbiotic relationships in permaculture
-- [[holzer-alpine-plant-cultivation]]
-- [[natural-farming-seed-saving]]

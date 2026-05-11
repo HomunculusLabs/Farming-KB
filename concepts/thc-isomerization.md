@@ -6,7 +6,7 @@
 THC isomerization is a chemical process that converts cannabidiol (CBD)
 into tetrahydrocannabinol (THC) while simultaneously converting THC from
 its lower-rotating to higher-rotating isomeric form. The process uses
-sulfuric acid as a catalyst in an alcohol solution. When applied to
+[[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]] as a catalyst in an alcohol solution. When applied to
 cannabis extracts, isomerization can at least double potency, and in some
 cases increase it five to six times.
 
@@ -23,12 +23,12 @@ forms are more potent and produce a higher, more psychedelic and
 spiritual effect than lower-rotating forms.
 
 The highest benefit is obtained by starting with material high in CBD,
-isomerizing the CBD to THC, and converting the THC to its higher-rotating
+isomerizing the [[cbd-to-thc-isomerization-chemistry]], and converting the THC to its higher-rotating
 form simultaneously.
 
 ## The Isomerization Process
 
-The process described by Ben Lemon proceeds as follows:
+The process described by [[ben-lemon]] proceeds as follows:
 
 ### Dissolution
 
@@ -88,11 +88,3 @@ the potency on the Adams scale and a distinctive delayed onset.
 
 Both processes build upon a base cannabis extract obtained through
 [[pf-tek-alcohol-extraction-method]] followed by petroleum ether purification. The
-sequence is typically: extract, purify with petroleum ether, isomerize
-with sulfuric acid, and optionally convert to acetate with acetic
-anhydride.
-
-## See Also
-
-- [[ben-lemon]]
-- [[cannabis-honey-oil-production]]

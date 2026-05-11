@@ -18,13 +18,13 @@ blastomycosis)
 ## Overview
 Paracoccidioides brasiliensis is a thermally dimorphic fungal pathogen
 and the causative agent of paracoccidioidomycosis (PCM), also known as
-South American blastomycosis or Lutz-Splendore-Almeida disease. PCM is
+[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] blastomycosis or Lutz-Splendore-Almeida disease. PCM is
 the most prevalent systemic mycosis in Latin America, endemic from
 southern Mexico to northern Argentina. The fungus exhibits a
 temperature-dependent dimorphic switch: growing as a filamentous mold
 at environmental temperatures and converting to a yeast form at mammalian
 body temperature. The source text notes that P. brasiliensis is
-difficult to maintain alive in pure culture, representing a significant
+difficult to maintain alive in [[mushroom-spawn-making-and-pure-culture-methods]], representing a significant
 practical impediment to its study.
 
 ## Taxonomy and Classification
@@ -80,57 +80,11 @@ practical impediment to its study.
 
 ### Clinical Significance
 - Causes paracoccidioidomycosis, affecting lungs, mucous
-  membranes, skin, lymph nodes, and adrenal glands
+  membranes, skin, lymph nodes, and [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]
 - Chronic form is most common, presenting with progressive
   pulmonary disease and mucocutaneous lesions
 - Acute/subacute form occurs in younger patients, with
   reticuloendothelial system involvement
 - Diagnosis relies on clinical presentation, serological tests
-  (counterimmunoelectrophoresis, ELISA), and direct microscopy
+  (counterimmunoelectrophoresis, ELISA), and [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
   of clinical specimens
-
-### Challenges in Cultivation
-- The source text notes that P. brasiliensis is difficult to
-  maintain alive in pure culture
-- Isolates tend to degenerate over successive subcultures
-- This difficulty parallels challenges with other pathogenic
-  fungi and some Oomycetes
-- Requires specialized media and careful handling for long-term
-  maintenance
-- Biohazardous nature requires biosafety level 2 or 3
-  containment
-
-### Research Methods
-- Clinical specimens cultured on Sabouraud dextrose agar with
-  antibiotics at 25 to 28 degrees Celsius (mold form)
-- Yeast conversion confirmed by subculture to blood agar at
-  37 degrees Celsius
-- Serological diagnosis using complement fixation, double
-  immunodiffusion, and ELISA
-- Molecular detection via PCR targeting gp43 gene
-- Exoantigen tests for rapid identification
-
-### Economic and Public Health Impact
-- Paracoccidioidomycosis causes significant morbidity in
-  endemic regions
-- Treatment requires prolonged antifungal therapy (itraconazole,
-  trimethoprim-sulfamethoxazole, or amphotericin B)
-- Agricultural workers are disproportionately affected, with
-  economic consequences for rural communities
-
-## Relevance
-Paracoccidioides brasiliensis represents a major endemic mycosis of
-Latin America and a significant challenge for clinical mycology. The
-difficulty of maintaining cultures alive, as noted in the source text,
-underscores the practical challenges of studying dimorphic fungal
-pathogens. Understanding its environmental niche, transmission
-dynamics, and pathogenesis remains a priority for tropical medicine and
-medical mycology.
-
-## See Also
-
-- [[agaricus-brasiliensis]]
-
-- [[penicillium-chrysogenum]]
-- [[botrytis-cinerea]]
-- [[fusarium-verticillioides]]

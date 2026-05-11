@@ -1,5 +1,5 @@
 ---
-title: Hyphal Growth and Invasive Biology
+title: Bloomfields Orchard Hyphal Growth And Invasive Biology
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -47,7 +47,7 @@ in Oregon's Blue Mountains may cover more than 2,200 acres
 and is estimated to be between 2,400 and 7,200 years old.
 A Michigan specimen spreads over 15 hectares and equals
 the mass of a blue whale. Armillaria holds the title of
-World's Largest Organism, outclassing quaking aspen
+World's [[armillaria-largest-organism]], outclassing quaking aspen
 colonies in terms of living mass.
 When food is plentiful, mycelia adopt a torus shape,
 spreading outward and leaving dead cells at their core,
@@ -82,67 +82,9 @@ tissues.
 
 ### Failure of Single-Enzyme Approaches
 
-Geneticists attempted to cripple pathogenic fungi by
+Geneticists attempted to cripple [[cordyceps-insect-pathogenic-fungi]] by
 knocking out individual enzyme genes. When cutinase genes
 were disrupted, mutants still penetrated leaves because
 fungi produce many different cutinases.
 When multiple cutinase genes were knocked out, mutants
 still infected plants because the cuticle proved an
-insignificant barrier. When protease genes in Candida
-albicans were disabled, mutants still killed mice.
-Most mycologists have abandoned the conviction that
-inhibiting a single secreted enzyme can stop a pathogen.
-More promising approaches target regulatory genes
-controlling whole groups of enzymes.
-
-## Turgor Pressure and Physical Penetration
-
-### Invasion Forces
-
-Hyphal tips exert forces of a few micronewtons, equivalent
-to an eyelash pressing down under gravity. Applied over
-extremely small areas, these forces generate pressures of
-one atmosphere or more.
-The rice blast fungus Magnaporthe grisea generates
-pressures exceeding 50 atmospheres, sufficient to pierce
-Kevlar fabric. This extraordinary force allows the fungus
-to penetrate the toughest plant tissues.
-
-### Turgor and Growth
-
-Research by Money and Harold challenged the assumption
-that turgor drives extension. Oomycete water molds grew
-faster when internal pressure was reduced in high-solute
-solutions.
-The current understanding is that pressure is not
-essential for growth but is crucial for overcoming
-physical barriers. Hyphae expand by allowing wall
-polymers to slip past one another.
-
-### Penetrating Biological Barriers
-
-Human and horse skin offers resistance of 200 to 300
-atmospheres, far exceeding any hypha's capability. Fungi
-overcome this through enzymatic softening before
-penetration.
-Spores secrete potent adhesives for attachment before
-forming invasive hyphae. Once buried in substrate, friction
-between the convoluted mycelium and surrounding material
-supports extending tips.
-When fungi have exhausted food, they must overcome surface
-tension to emerge. By collaborating to form a mushroom,
-millions of cells each exerting micronewtons can crack a
-## Related Concepts
-
-- [[bloomfield-fungal-biology-and-hyphal-growth]] and Ecology
-- Spore [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in Fungi
-- Fungal Pathogens and Human Disease
-- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]] Fungi
-
-## See Also
-
-- mr-bloomfields-fungal-sexual-reproduction-and-pheromone-signaling
-- [[magnaporthe-grisea]]
-- [[mycorrhiza]]
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
-- [[hyphal-growth-dynamics]]

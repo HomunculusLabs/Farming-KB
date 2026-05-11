@@ -88,35 +88,3 @@ Air conditioning alone is often insufficient to control humidity in a densely pl
 ## Electrical Planning and Safety
 
 Grow rooms have substantial and continuous electrical demands that require careful planning and adherence to safety standards. A professional-grade grow room with multiple 1000-watt lights, fans, pumps, air conditioners, and controllers can easily draw 50-100 amps or more. Inadequate electrical infrastructure is a leading cause of grow room fires, equipment failures, and code violations.
-
-### Circuit Sizing and Load Calculations
-
-Each electrical circuit in the grow room must be properly sized for the load it carries. The National Electrical Code (NEC) requires that continuous loads (those operating for 3 hours or more, which includes all grow room equipment) must not exceed 80% of the circuit's rated capacity. This means:
-
-- A standard 15-amp, 120-volt circuit can safely carry a continuous load of 12 amps (1,440 watts).
-- A 20-amp, 120-volt circuit can carry 16 amps continuous (1,920 watts).
-- A 240-volt, 30-amp circuit can carry 24 amps continuous (5,760 watts).
-
-A single 1000-watt HPS light with magnetic ballast actually draws approximately 1,080 watts (the ballast consumes additional power beyond the lamp rating). On a 120-volt circuit, this means one light per 15-amp circuit or one per 20-amp circuit with minimal headroom for other equipment. Running lights on 240-volt circuits is strongly preferred, as it halves the amperage draw and allows more lights per circuit. Two 1000-watt lights on a 240-volt, 20-amp circuit draw approximately 9 amps, well within safe limits.
-
-Air conditioning compressors draw particularly heavy current during startup -- often 2-3 times their running amperage for a fraction of a second. Dedicated circuits for AC equipment are essential to prevent voltage drops that can trip breakers or damage compressors. All grow room circuits should have dedicated breakers in the electrical panel, not shared with household circuits.
-
-### Grounding and GFCI Protection
-
-Proper grounding is non-negotiable in grow room electrical systems. All metallic equipment enclosures, light fixtures, ballasts, and water-handling equipment must be connected to the building's grounding system. Water and electricity are a lethal combination, and grow rooms inevitably involve both. Hydroponic reservoirs, drip systems, and humidifiers all introduce water near electrical equipment.
-
-Ground Fault Circuit Interrupter (GFCI) protection is required for all circuits in areas where water is present or where equipment may be exposed to moisture. In practice, this means all receptacles and equipment in a grow room should be GFCI-protected. GFCI outlets and breakers monitor the current flowing through the hot and neutral conductors; if a discrepancy as small as 5 milliamps is detected (indicating current is leaking to ground, potentially through a person), the GFCI trips in less than 0.1 seconds.
-
-GFCI protection is particularly critical for pumps, chillers, and any equipment with submersible components. However, GFCI breakers can sometimes nuisance-trip on circuits with large inductive loads like magnetic ballasts, since the ballast's inrush current can create momentary imbalances. Digital ballasts are less prone to this issue, and upgrading to digital ballasts is recommended both for GFCI compatibility and for their smoother power draw and dimming capabilities.
-
-### Wiring Best Practices
-
-All wiring in the grow room should use conduit (EMT or PVC) where required by code, and cables should be rated for the environment (THHN wire in conduit, or NM-B Romex for dry interior runs). Extension cords should never be used as permanent wiring -- they are a major fire hazard, especially when daisy-chained. All connections should be made in approved junction boxes with proper wire nuts or terminal blocks, never with exposed wire nuts or electrical tape splices.
-
-A whole-room emergency kill switch, accessible from the room entrance, allows all power to be shut off quickly in an emergency. Smoke detectors should be installed in or near the grow room, and a CO2 monitor with alarm capability is recommended if CO2 enrichment is used. Regular inspection of all connections, cables, and equipment for signs of heat damage, corrosion, or wear is an essential maintenance practice.
-
-## See Also
-
-- [[cervantes-air-quality-ventilation]] for ventilation design
-- [[cervantes-co2-enrichment]] for CO2 augmentation
-- [[sea-of-green]] for high-density native american planting methods and indigenous agriculture

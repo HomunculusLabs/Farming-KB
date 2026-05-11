@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybin Potency and Dosage Guide
@@ -87,26 +88,3 @@ with wild mushrooms. Many edible and psychoactive species have toxic lookalikes
 that can cause serious illness or death. When in doubt, the correct course of
 action is always to leave the specimen unidentified. Building identification
 skills requires study of multiple characteristics including spore print color,
-gill structure, cap features, stem characteristics, bruising reactions, and
-habitat associations.
-
-## Ecological Significance
-
-Fungi play essential roles in ecosystem functioning that extend far beyond
-their visibility. As primary decomposers, they break down complex organic
-materials and recycle nutrients back into available forms. Mycorrhizal fungi
-form symbiotic relationships with plant roots, extending the effective
-absorption zone and providing nutrients in exchange for carbohydrates. These
-relationships are fundamental to the health of forests, grasslands, and most
-terrestrial ecosystems.
-
-## Conservation Considerations
-
-Many fungal species are threatened by habitat destruction, pollution, and
-climate change. The slow growth and specific habitat requirements of many
-species make them particularly vulnerable. Responsible foraging practices,
-including leaving adequate specimens for spore dispersal and avoiding
-disturbance of sensitive habitats, help protect fungal biodiversity. Citizen
-science efforts to document fungal distributions contribute valuable data for
-conservation planning and monitoring.
-- [[mycorrhizal-edible-mushroom-species-overview]]

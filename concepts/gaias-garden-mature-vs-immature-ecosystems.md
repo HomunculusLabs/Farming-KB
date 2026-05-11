@@ -88,11 +88,3 @@ species arranged in the same layered structure.
 ## Design Implications
 When designing, ask:
 - **How many vegetation layers?** More = more mature
-- **Is there bare soil?** If yes, the system is unnecessarily immature
-- **Are nutrients cycling on-site?** External inputs = open loop
-- **How much maintenance in year five?** More than now = immature trajectory
-
-The goal is not to eliminate human involvement entirely but to shift from
-labor-intensive maintenance to observation, light stewardship, and
-harvesting. A well-designed ecological garden becomes easier to manage over
-time, not harder — the hallmark of a maturing ecosystem.

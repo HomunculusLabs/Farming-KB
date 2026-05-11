@@ -28,7 +28,7 @@ The flowering period extends from February to May depending on elevation and lat
 
 **Primula denticulata** was introduced to European horticulture in the early 19th century by Nathaniel Wallich. It has since become a staple of temperate spring gardens across the Northern Hemisphere.
 
-The species belongs to Primula section Denticulata, a small section containing approximately 6 species from the western Himalayas. Its closest relatives include Primula rosea and Primula capitata.
+The species belongs to Primula section Denticulata, a small section containing approximately 6 species from the western Himalayas. Its closest relatives include [[primula-rosea]] and [[primula-capitata]].
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ The species occupies a broad elevational range from 1,500 to 4,500 meters. At lo
 
 Native habitats are characterized by cold winters with heavy snowfall and cool, moist summers. The species is adapted to a pronounced monsoonal precipitation pattern with summer rainfall peaks.
 
-Soils are typically acidic, peaty, and rich in organic matter. The species tolerates waterlogged conditions during spring snowmelt but requires reasonable drainage during the growing season.
+Soils are typically acidic, peaty, and rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The species tolerates waterlogged conditions during spring snowmelt but requires reasonable drainage during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Annual precipitation in native habitats ranges from 1,000 to 3,000 millimeters, with the majority falling during the summer monsoon season. Winter precipitation falls primarily as snow, providing insulation for dormant plants.
 
@@ -76,7 +76,7 @@ The species is effective in mass plantings where its spherical flower heads crea
 
 Named cultivars include 'Alba' (white), 'Rubin' (deep red), 'Cashmeriana' (deep purple), and the compact 'Tibetana' series. These selections vary in flower color, size, and flowering time.
 
-The species is relatively pest-free, though slugs and snails may damage young foliage in damp conditions. Crown rot can develop in poorly drained sites, particularly during wet winters.
+The species is relatively pest-free, though [[jadam-pesticide-for-slugs-and-snails]] may damage young foliage in damp conditions. Crown rot can develop in poorly drained sites, particularly during wet winters.
 
 ## Ethnobotany and Cultural Significance
 
@@ -86,35 +86,4 @@ In Tibetan traditional medicine, Primula species are classified among the "me to
 
 The roots contain triterpenoid saponins, which may contribute to expectorant properties attributed to the plant. Pharmacological studies on this species remain limited compared to more widely used Primula species.
 
-Chemical analysis has identified several saponin glycosides in the roots, including primulasaponin derivatives. These compounds are shared with other Primula species used in European and Asian traditional medicine.
-
-The striking appearance of drumstick primroses has made them a popular subject for botanical illustration.
-
-## Ecology and Conservation
-
-In the wild, **Primula denticulata** is pollinated by bumblebees, butterflies, and hoverflies. The dense flower heads provide concentrated nectar resources attractive to a wide range of pollinators.
-
-The species is distylous, with pin and thrum morphs promoting outcrossing. The flowers provide an important early-season nectar source for emerging bumblebee queens.
-
-Seed set is typically high in wild populations, with individual plants producing hundreds of seeds per flowering season. The seeds are small and light, facilitating dispersal by wind and water flow across alpine meadows.
-
-Wild populations are generally secure across most of the species' range. The species benefits from occurrence in remote high-altitude areas less affected by agricultural conversion.
-
-Climate change poses a potential threat by altering snowmelt timing and reducing suitable growing conditions at high elevations. Prolonged drought during flowering can reduce seed set.
-
-The species has naturalized in parts of Europe including the British Isles and Scandinavia. Naturalized populations are most common in Scotland and northern England, where the climate resembles native Himalayan conditions.
-
-Naturalized populations in Europe do not exhibit invasive behavior, remaining confined to damp, semi-shaded habitats that are not ecologically sensitive. The species is not listed on any invasive species registries.
-
-## See Also
-
-- [[primula-auricula]]
-- [[primula-japonica]]
-- [[primula-veris]]
-- [[primula-vulgaris]]
-- [[lysimachia-vulgaris]]
-- [[cyclamen-hederifolium]]
-- [[anagallis-arvensis]]
-- [[pulmonaria-officinalis]]
-- [[galanthus-nivalis]]
-- [[narcissus-poeticus]]
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has identified several saponin glycosides in the roots, including primulasaponin derivatives. These compounds are shared with other Primula species used in European and Asian traditional medicine.

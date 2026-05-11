@@ -88,25 +88,3 @@ and brown rice vinegar can help dwarf unwanted vegetation.
   chemicals
 - **Higher Yield**: Following the Nutritive Cycle Theory
   ensures precise nutrient delivery at the right moment
-- **Low Cost**: Homemade materials from farm resources
-  dramatically reduce input costs
-- **High Quality**: Non-usage of chemicals produces better
-  quality crops and livestock
-- **Adaptable**: Regional ingredients can substitute for
-  Korean materials in any ecosystem
-- **Farmer Friendly**: Methods are free of toxic chemicals,
-  safe for user health
-- **Zero Emission**: In livestock, all wastes are recycled
-  and converted to resources
-
-## Global Spread
-
-KNF has spread to over 15 countries including South Korea,
-Japan, China, Malaysia, Thailand, Vietnam, Philippines,
-Mongolia, USA, and India. It is increasingly practiced in
-underdeveloped communities as a self-supporting tool for
-improving living standards and achieving food security.
-
-Dr. Cho is ranked alongside [[indigenous-microorganisms-imo]]
-- [[jadam-farming-method]]
-- [[fukuoka-natural-farming]]

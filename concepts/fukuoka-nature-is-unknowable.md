@@ -3,8 +3,9 @@ title: Fukuoka: Nature Is Unknowable
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, natural-farming, philosophy]
+tags: [fukuoka, [[natural-farming]], philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -72,7 +73,7 @@ Thinking that he must climb a mountain to know it, the mountain climber climbs t
 
 ## The Sky Above the Sky
 
-To see a mountain one must go beyond the mountain; to see the sky one must go beyond the sky. One must see the mountain from the world of the sky that emerges only from a philosophical perspective.
+To see a mountain one must go beyond the mountain; to see the sky one must go beyond the sky. One must see the mountain from the world of the sky that emerges only from a [[fukuoka-nature-perfect-imperfect-philosophical-perspective]].
 
 - This is not the view that one sees from the summit after having climbed a mountain
 
@@ -87,27 +88,3 @@ To see a mountain one must go beyond the mountain; to see the sky one must go be
 - That is why ours is an empty world in which we know nothing
 
 ## Nature Is Always Absolutely Perfect
-
-Fukuoka insisted that nature is [[fukuoka-nature-fundamentally-perfect-self-enriching]]. Here are to be found the most exalted truths, the highest good, and the greatest richness. Both spiritually and materially, nature is replete with the greatest possible wealth.
-
-- Nature is a place where flowers bloom and birds sing, a place of verse and song
-
-- Nature moves freely and innocently as God wills it
-
-- The soul of nature does not seek decay
-
-- Nature is always absolutely perfect; it flows constantly from perfection to perfection
-
-- The external form changes with time, but nature itself is immutable and unmoving
-
-- There is no superior or inferior in God and nature because the opposite states of perfection and imperfection do not exist
-
-## See Also
-
-- [[fukuoka-god-nature-and-man-as-one]]
-
-- [[fukuoka-nature-perfect-imperfect]]
-
-- [[fukuoka-learning-about-nature-distances-one-from-nature]]
-
-- [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]

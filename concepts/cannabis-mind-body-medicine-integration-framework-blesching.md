@@ -88,24 +88,3 @@ integration:
    "propel your attention outward" when relevant material is surfacing.
 
 ## Critical Perspective
-
-The mind-body framework in the [[blesching-cannabis-health-index-autoimmune-conditions]] is ambitious in scope,
-attempting to bridge molecular pharmacology, clinical evidence, and
-psychological healing practice. Its strength lies in making the connection
-between the ECS and emotional regulation explicit and actionable. However,
-some claims — particularly those invoking "quantum research" to support
-intention-based healing — extend beyond the well-established evidence base
-for the ECS.
-
-The practical value of the framework for patients is that it provides
-structure for using cannabis therapeutically rather than recreationally.
-The emphasis on setting, intention, and emotional processing transforms a
-pharmacological intervention into a more comprehensive healing practice.
-For clinicians, the framework offers a way to discuss cannabis use with
-patients that goes beyond simple dosage and strain recommendations.
-
-The book's position that approximately 85% of medical interventions lack
-solid scientific evidence provides context for why patients might seek
-alternatives, and the CHI scoring system offers a transparent methodology
-for evaluating cannabis evidence that is more rigorous than anecdote while
-acknowledging the limitations of the available research.

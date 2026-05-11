@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-casing-soil-preparation]] Recipes and Preparation
+title: Mushroom Casing Soil Recipes
 category: mycology
 tags: [casing, peat, vermiculite, mushroom-cultivation, mycology]
 created: 2026-05-09
@@ -88,47 +88,3 @@ The standard procedure for casing trays:
    layer
 5. Maintain a rough surface texture with small valleys and hills
 6. Cover the tray with aluminum foil and place at 20–25°C
-7. Within a few days, mycelium will be visible growing through the casing
-
-## When to Initiate Fruiting
-
-Timing the transition from colonization to fruiting depends on the strain.
-Some strains fruit readily and early, while others require more patient
-waiting. Visual cues include:
-
-- Mycelium appearing uniformly through the casing surface
-- Slight thickening of the mycelial mat at the surface (overlay formation)
-- Small knots or primordia beginning to form
-
-Strains that are reluctant to fruit may benefit from cold shocking — placing
-the cased tray in a refrigerator overnight before moving to the fruiting
-chamber. However, some species like *P. mexicana* and *P. tampanensis* do
-not benefit from cold shocking.
-
-## Alternative Casing Materials
-
-While peat-vermiculite-lime is the standard, other materials can be used:
-
-- **Coir (coco coir)**: A renewable alternative to peat with good water
-  retention. Often mixed with vermiculite in a 1:1 ratio.
-- **Plain vermiculite**: Works as a minimal casing but provides less water
-  retention than peat-based mixes.
-- **Coco coir + vermiculite**: A 50/50 mix that requires no pH adjustment,
-  as coir is near-neutral.
-
-## Moisture Management During Fruiting
-
-The casing must never be allowed to dry out during the fruiting cycle. Daily
-misting with a fine spray bottle is standard practice. After each flush is
-harvested, watering should be increased because maturing mushrooms pull
-significant moisture from the casing soil. Developing a consistent watering
-regime requires experience — overwatering leads to waterlogged casing that
-suffocates mycelium, while underwatering causes aborts and reduced yields.
-
-## Contamination Prevention
-
-- Remove dead pinheads (aborts) from the casing surface promptly — they serve
-  as nutrient sources for molds
-- Maintain adequate fresh air exchange to prevent CO₂ buildup
-- Keep the fruiting chamber clean and free of debris
-- Sterilized casing provides the most contamination-resistant starting point

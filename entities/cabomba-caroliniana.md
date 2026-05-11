@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Mackey AP, Swarbrick JT (1997). "The Biology of Australian Weeds. 32. Cabomba caroliniana." Plant Protection Quarterly 12(4): 154–165.
-  - Schooler SS, Julien MH, Walsh GC (2006). "Cabomba caroliniana Gray (Cabombaceae)." In: "Biological Control of Weeds in Australia." CSIRO Publishing.
+  - Schooler SS, Julien MH, Walsh GC (2006). "Cabomba caroliniana Gray (Cabombaceae)." In: "[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of Weeds in Australia." CSIRO Publishing.
   - Ørgaard M (1991). "The Genus Cabomba (Cabombaceae) — A Taxonomic Study." Nordic Journal of Botany 11(2): 179–203.
   - Murphy K (2016). "Aquatic Plant Management in Lakes and Reservoirs." CRC Press.
   - Wilson CE, Les DH, Philbrick CT (2007). "Phylogeny, Evolution, and Systematics of Cabombaceae." Systematic Botany 32(2): 273–285.
@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Cabomba caroliniana, commonly known as Carolina fanwort, fanwort, or Washington grass, is a submerged aquatic plant in the family Cabombaceae. It is native to southeastern North America and parts of South America.
+Cabomba caroliniana, commonly known as Carolina fanwort, fanwort, or Washington grass, is a submerged aquatic plant in the family Cabombaceae. It is native to southeastern [[guzman-psilocybin-mushrooms-north-america]] and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
 The species is named for its distinctive fan-shaped underwater leaves, which are deeply dissected into narrow segments. These feathery leaves create an attractive display in aquarium settings, making the plant a popular ornamental.
 
-Cabomba caroliniana has become a significant invasive species in many regions outside its native range. Introduced primarily through the aquarium trade, it has established populations in Europe, Asia, Australia, and northern North America.
+Cabomba caroliniana has become a significant invasive species in many regions outside its native range. Introduced primarily through the aquarium trade, it has established populations in Europe, Asia, Australia, and northern [[berry-growing]].
 
 Dense growth of Cabomba caroliniana can obstruct waterways, impede recreational use, and displace native aquatic vegetation. Its management is a major concern for water resource authorities worldwide.
 
@@ -38,7 +38,7 @@ The plant produces a slender, cylindrical stem that can grow to lengths exceedin
 
 Submerged leaves are oppositely arranged and fan-shaped, measuring 2–5 cm across. Each leaf is divided into numerous narrow, thread-like segments that give it a feathery appearance.
 
-The leaf segments are typically 0.5–1 mm wide and taper to fine points. This finely dissected morphology creates a large surface area relative to leaf mass, enhancing photosynthetic efficiency under low light.
+The leaf segments are typically 0.5–1 mm wide and taper to fine points. This finely dissected morphology creates a large surface area relative to leaf mass, enhancing photosynthetic efficiency under [[darkness-low-light-facilitation-entheogenic-ceremonies]].
 
 Floating leaves are produced when the plant reaches the water surface. These are small, oval, and undivided, measuring 5–15 mm long, with a slightly waxy upper surface.
 
@@ -52,15 +52,15 @@ Reproduction in non-native populations is almost entirely vegetative. Stem fragm
 
 ## Distribution and Habitat
 
-Cabomba caroliniana is native to the southeastern United States, ranging from Texas and Florida northward to Virginia and westward to Kansas. Native populations also occur in southern Brazil, Uruguay, and northeastern Argentina.
+Cabomba caroliniana is native to the southeastern [[dmt-containing-plants-united-states-halpern]], ranging from Texas and Florida northward to Virginia and westward to Kansas. Native populations also occur in southern Brazil, Uruguay, and northeastern Argentina.
 
-The native range extends into Mexico and Central America, though the extent of naturally occurring populations versus introduced ones in this region is debated. Some Central American populations may result from aquarium release.
+The native range extends into Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], though the extent of naturally occurring populations versus introduced ones in this region is debated. Some Central American populations may result from aquarium release.
 
 In its native range, the species grows in ponds, lakes, slow-moving streams, and sloughs. It prefers still or slow-flowing waters with substrates of mud, clay, or sandy loam.
 
-Non-native populations are established in Australia, Japan, China, India, and much of Europe. In the United States, introduced populations occur in the Northeast, Midwest, and Pacific Northwest, well outside the native range.
+Non-native populations are established in Australia, Japan, China, India, and much of Europe. In the United States, introduced populations occur in the Northeast, Midwest, and [[psilocybin-north-america-pacific-northwest]], well outside the native range.
 
-The species tolerates a range of water chemistries, from acidic to moderately alkaline conditions. Water temperatures between 20–30°C support optimal growth, though the plant can survive winter temperatures in temperate regions.
+The species tolerates a range of water chemistries, from acidic to moderately alkaline conditions. Water temperatures between 20–30°C support optimal growth, though the plant can survive winter temperatures in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Water depths of 0.5–3 meters are typical, with the plant growing from the substrate to the surface. In deeper water, stems elongate to reach the surface for flowering.
 
@@ -72,7 +72,7 @@ Seasonal die-back occurs in temperate regions during winter. Overwintering occur
 
 ## Ecology and Invasiveness
 
-Cabomba caroliniana is classified as one of the world's most problematic aquatic invasive species. Its rapid growth rate and efficient vegetative reproduction allow it to form dense, monospecific stands.
+Cabomba caroliniana is classified as one of the world's most problematic aquatic invasive species. Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] and efficient vegetative reproduction allow it to form dense, monospecific stands.
 
 Dense beds can reduce light penetration to the substrate, suppressing growth of native submerged macrophytes. This competitive exclusion reduces biodiversity and alters the structure of aquatic plant communities.
 
@@ -84,37 +84,6 @@ Economic impacts include costs associated with mechanical harvesting, herbicide 
 
 Ecological impacts extend beyond plant competition. Dense Cabomba beds alter fish habitat structure and may reduce spawning success for species that require open water or specific substrate types.
 
-Water quality can be affected through changes in dissolved oxygen dynamics. Decomposition of large quantities of plant material during die-back events can deplete oxygen levels.
+Water quality can be affected through changes in [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] dynamics. Decomposition of large quantities of plant material during die-back events can deplete oxygen levels.
 
 Despite these negative impacts, Cabomba beds provide habitat for some invertebrate species and small fish. The structural complexity of the dissected leaves supports periphyton growth and associated grazing communities.
-
-Natural herbivory on Cabomba caroliniana is limited in its introduced range. The lack of specialized herbivores outside its native range contributes to its invasive success, a pattern consistent with the enemy release hypothesis.
-
-## Cultivation
-
-Cabomba caroliniana has been widely traded in the aquarium industry since the early twentieth century. Its attractive foliage and relative ease of culture made it one of the most popular aquarium plants globally.
-
-In aquariums, the plant requires moderate to high lighting for optimal growth and compact form. Under low light, stems elongate excessively and lower leaves may drop.
-
-Water temperatures between 22–28°C support vigorous growth. The species tolerates a wide pH range from 6.0 to 7.5.
-
-Propagation is achieved through stem cuttings, which root readily in the substrate. Each cutting should include several nodes to ensure successful establishment.
-
-Nutrient supplementation with liquid fertilizers or root tabs promotes bushier growth and more intense coloration. Iron supplementation enhances the reddish pigmentation of stems and leaf undersides.
-
-Due to its invasive potential, trade in Cabomba caroliniana is restricted or prohibited in several countries. Australia, New Zealand, and parts of the European Union have banned its sale and cultivation.
-
-Responsible aquarium practice requires proper disposal of unwanted plants. Composting, freezing, or drying are recommended methods to prevent escape into natural waterways.
-
-Biological control agents have been investigated for Cabomba caroliniana management. A potential herbivore, the aquatic weevil Cabomba weevil (Hydrotimetes natans), has been studied in Australia as a candidate biological control agent.
-
-## See Also
-
-- [[myriophyllum-spicatum]]
-- [[myriophyllum-verticillatum]]
-- [[hydrilla-verticillata]]
-- [[ceratophyllum-demersum]]
-- [[elodea-canadensis]]
-- [[elodea-nuttallii]]
-- [[potamogeton-natans]]
-- [[vallisneria-americana]]

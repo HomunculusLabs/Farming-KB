@@ -72,13 +72,13 @@ Campanula ochroleuca is cultivated as a collector's alpine and woodland-garden p
 - **Soil:** Humus-rich, well-drained loam, neutral to slightly alkaline
 - **Position:** Partial shade; tolerates full sun in cool-summer climates
 - **Hardiness:** Hardy to approximately USDA zones 5–8
-- **Propagation:** Seed sown fresh in autumn, or division of rhizomes in early spring
+- **Propagation:** Seed sown fresh in autumn, or division of rhizomes in [[coleman-overwintered-onions-and-early-spring-crops]]
 
 The species performs best in woodland-edge conditions with dappled shade and consistent moisture. It is less demanding than high-alpine cushion campanulas and adapts reasonably well to lowland gardens.
 
 In its native range the species experiences cold winters with reliable snow cover and warm, relatively dry summers. Garden cultivation should aim to replicate this moisture pattern, providing winter drainage and summer irrigation.
 
-The cream-white flowers provide excellent contrast when grown alongside blue-flowered campanulas such as *Campanula persicifolia* or *Campanula lactiflora*.
+The cream-white flowers provide excellent contrast when grown alongside blue-flowered campanulas such as *[[campanula-persicifolia]]* or *[[campanula-lactiflora]]*.
 
 Plants grown from seed may take 2–3 years to reach flowering size. Once established, the rhizomatous rootstock produces reliable annual flowering and gradually forms small clumps.
 
@@ -87,35 +87,3 @@ Plants grown from seed may take 2–3 years to reach flowering size. Once establ
 In its native Balkan habitats, Campanula ochroleuca contributes to the diversity of montane meadow and gorge communities. The pale flowers are visited by a variety of generalist pollinators including bees, flies, and small beetles.
 
 The species is not currently listed as threatened, but its restricted Balkan endemic distribution makes it potentially vulnerable to habitat loss. Expanding ski resort development and overgrazing in Greek mountain areas are the primary conservation concerns.
-
-Climate warming may reduce the extent of suitable montane habitat. However, the species' ability to grow in shaded gorge habitats may provide refugia that buffer it against warming better than high-alpine species.
-
-The species has been assessed for the IUCN European Red List but data deficiencies remain regarding population trends and exact distribution boundaries across the Balkan Peninsula.
-
-## Related Species
-
-Campanula ochroleuca belongs to a group of rhizomatous *Campanula* species that includes *Campanula latifolia* and *Campanula trachelium*. It can be distinguished from these common species by its cream-white flower color and smaller stature.
-
-Within its Balkan range, it may be confused with white-flowered forms of *Campanula rapunculoides*, but *C. ochroleuca* has a more open inflorescence and consistently pale corollas rather than occasional white mutants of typically blue species.
-
-The cream-white flower color is taxonomically significant because it is rare within the genus *Campanula*. Only a handful of species worldwide produce non-blue or non-purple flowers, making *C. ochroleuca* phylogenetically interesting for studies of pigment evolution in Campanulaceae.
-
-| Feature | *C. ochroleuca* | *C. latifolia* | *C. trachelium* |
-|---------|----------------|----------------|-----------------|
-| Flower color | Cream-white | Dark violet-blue | Violet-blue |
-| Height | 15–40 cm | 60–120 cm | 30–80 cm |
-| Habitat | Montane gorges | Woodland | Hedgerows |
-| Distribution | Balkan endemic | Widespread Europe | Widespread Europe |
-
-## See Also
-
-- [[campanula-persicifolia]]
-- [[campanula-lactiflora]]
-- [[campanula-trachelium]]
-- [[campanula-rapunculoides]]
-- [[campanula-rapunculus]]
-- [[campanula-alliariifolia]]
-- [[campanula-patula]]
-- [[campanula-medium]]
-- [[campanula-pyramidalis]]
-- [[campanula-glomerata]]

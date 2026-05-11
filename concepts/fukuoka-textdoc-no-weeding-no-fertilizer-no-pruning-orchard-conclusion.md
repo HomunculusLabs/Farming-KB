@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,63 +87,3 @@ fertilization, used no commercial fertilizers, and grew fine barley without pest
 Everyone was dumbfounded. Some scientists grew visibly perturbed, though Professor
 Kawase, an authority on pasture grasses, was openly impressed, and Professor Hiroe,
 a paleobotanist, merrily pointed out different weeds growing at the foot of the barley.
-
-A university professor later told Fukuoka, "It's best to keep philosophy and religion
-out of the world of science." Fukuoka imagines the barley would have answered: "Don't
-bring science into the world of barley."
-
-## Weeds Have Value as Weeds
-
-Fukuoka closes with a defense of weeds and clover: the weeds by the roadside have
-significance and value as weeds that cannot be violated or taken away by garden
-varieties. Clover belongs to the meadows and has value as clover. The violet growing
-along a mountain path blooms for no one in particular, yet people cannot overlook or
-forget it. If people did not change, the world would not change; [[natural-farming-methods-comparison]]
-would not change.
-
-## The Violet by the Mountain Path
-
-The epilogue to Fukuoka's book circles back to the imagery of nature's quiet
-abundance. The violet growing along a mountain path blooms for no one in particular,
-yet people cannot overlook or forget it. The moment they see it, they know. If
-people did not change, the world would not change; farming methods would not
-change. Only to him who stands where the barley stands, and listens well, will it
-speak and tell, for his sake, what man is. The weeds by the roadside have
-significance and value as weeds that cannot be violated or taken away by garden
-varieties. Clover belongs to the meadows and has value as clover.
-
-## Science Cannot Evaluate Natural Farming
-
-Fukuoka makes a crucial distinction: natural farming can criticize scientific
-farming, but cannot itself be evaluated scientifically. He recounts how well-meaning
-scientists have tried to explain natural farming in scientific terms and support it
-with theoretical arguments, but this misses the point. Natural farming is not a
-product of the knowledge of clever people. Applying human knowledge and reasoning
-to natural farming can only distort it, never improve it. He welcomes neither
-those who try to scientificize his methods nor those who dismiss them without
-understanding.
-
-## A True Dialogue Between Man and Nature Is Impossible
-
-Fukuoka reaches a philosophical summit: a true dialogue between man and nature is
-impossible. Man can stand before nature and talk to it, but nature will not call
-out to man. Man thinks he can know God and nature, but God and nature neither know
-man nor tell him anything. Instead, they look the other way. God and man are
-travelers passing in opposite directions. Likewise for natural farming and
-scientific farming: one seeks to approach closer to nature, the other to move
-farther away.
-
-## The Young People in the Orchard Huts
-
-Fukuoka describes his vision realized: in spring, daikon, turnip, and rape
-blossoms bloom beneath the flowering cherry trees. At barley harvest time, the
-sweet fragrance of mandarin flowers drifts over the barley field and out to the
-Inland Sea. His natural farm truly becomes a garden of paradise. Young people from
-the cities live in crude huts on the mountain among chickens and goats roaming the
-orchard. In the evenings, they gather around the sunken hearth and talk and laugh
-loudly. Fukuoka tried to transfer this vision to the evening conversation of
-farmers, but the rapid-changing world had no time for the foolish talk of a farmer.
-## See Also
-
-- [[fukuoka-textdoc-natural-three-dimensional-orchard-design]]
-- [[fukuoka-textdoc-fruit-tree-pest-disease-management]]

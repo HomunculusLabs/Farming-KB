@@ -1,5 +1,5 @@
 ---
-title: Cuthill Mushroom spawn-preparation Historical
+title: Cuthill [[duggar-mushroom-spawn-preparation]] Historical
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -62,7 +62,7 @@ spawn types:
 
 ## Brick (Artificial) Spawn
 
-Commercial brick spawn was the standard product available to gardeners:
+Commercial [[french-flake-spawn-vs-brick-spawn]] was the standard product available to gardeners:
 
 - A London brick was seven inches square and two inches thick, "like a
   small paving tile."
@@ -88,58 +88,3 @@ method to produce [[duggar-tissue-culture-pure-spawn-method]] in five to six wee
 3. Crumble artificial (brick) spawn into dust; scatter a handful over
    the first layer.
 4. Tread down hard.
-5. Add another layer of horse droppings and more crumbled spawn.
-6. Continue layering until the heap is about two feet high.
-7. Tread all firmly to prevent the heap exceeding 80 degrees F of heat.
-8. Cover slightly with straw.
-9. In five to six weeks, the heap becomes a mass of pure spawn.
-10. Scatter over newly made beds, reducing the quantity of purchased
-    brick spawn needed.
-11. If kept dry, this spawn would keep good for six months or more.
-
-This method was faster than natural propagation from droppings alone
-(which took two to three months) because the artificial spawn inoculant
-accelerated colonisation.
-
-## Spawn Planting Technique
-
-Cuthill provided specific instructions for inserting spawn into beds:
-
-- Insert spawn into the surface of the bed, just covering the top with
-  droppings.
-- Space one foot apart each way.
-- "If spawn is planted too deep, it never thrives; it delights to be
-  near the surface."
-- Alternatively, make holes six inches deep and one foot apart in
-  regular rows; when heat reduced to 80 degrees, fill to within three
-  inches of the surface with droppings and insert spawn.
-
-## Over-Spawning and Surface Scattering
-
-Cuthill recommended an additional technique for insurance:
-
-- After spawning the bed, chop up a brick or two of spawn into dust.
-- Scatter it all over the surface of the bed before moulding.
-- This gave the gardener a better chance of fine crops.
-- "So far as my own knowledge goes, I have not found over-spawning any
-  preventive to having good crops."
-
-## Why Use Artificial Spawn at All?
-
-Some beds succeeded perfectly with natural spawn alone, but Cuthill
-considered artificial spawn valuable as insurance against mistakes in
-[[azurescens-outdoor-bed-preparation-woodchips]], producing an earlier and longer-bearing crop. A bed
-spawned with artificial spawn showed mushrooms appearing exactly above
-where the spawn was inserted below. He preferred buying first-rate brick
-spawn at 4d.-6d. each rather than measuring by the bushel.
-
-## Enemies and Economics of Spawn
-
-The two greatest enemies of spawn were too much heat (dung near the
-surface should never exceed blood heat) and too much water (beds shut
-out from sun and air could not evaporate moisture). On economics,
-Cuthill noted that a bushel of spawn costing 5 shillings could be worth
-
-## See Also
-- [[mushroom-spawn-preparation]]
-- [[grain-spawn-preparation]]

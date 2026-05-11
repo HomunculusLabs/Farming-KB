@@ -15,9 +15,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kawagishi, H., et al. (1991). "A facilitator of NGF synthesis from Hericium erinaceus." Phytochemistry, 30(5), 1757-1758.
-  - Wong, K.H., et al. (2007). "Hericium erinaceus: From culinary delicacy to medicinal mushroom." Current Medicinal Chemistry, 14(21), 2266-2273.
-  - Mori, K., et al. (2009). "Improving effects of the mushroom Hericium erinaceus on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
+  - Kawagishi, H., et al. (1991). "A facilitator of NGF synthesis from cancer-medicinal-mushrooms-hericium-erinaceus." Phytochemistry, 30(5), 1757-1758.
+  - Wong, K.H., et al. (2007). "Hericium erinaceus: From culinary delicacy to [[gourmet-medicinal-mushroom-casing-layer-techniques]]." Current Medicinal Chemistry, 14(21), 2266-2273.
+  - Mori, K., et al. (2009). "Improving effects of the [[lions-mane-mushroom-hericium-erinaceus]] on mild cognitive impairment." Phytotherapy Research, 23(3), 367-372.
   - Friedman, M. (2015). "Chemistry, nutrition, and health-promoting properties of Hericium erinaceus." Journal of Agricultural and Food Chemistry, 63(32), 7100-7109.
   - https://pubchem.ncbi.nlm.nih.gov/ (compound data)
 aliases:
@@ -27,7 +27,7 @@ aliases:
 
 # Hericenones
 
-**Hericenones** are a family of cyathane-type sesquiterpenoids isolated from the fruiting bodies and mycelium of **Hericium erinaceus** (lion's mane mushroom). First characterized by Kawagishi and colleagues in 1991, hericenones were identified as the first natural compounds found to stimulate **nerve growth factor (NGF)** synthesis in vitro. This discovery established lion's mane as a unique neurotrophic mushroom and sparked decades of research into fungal compounds for cognitive health and neuroprotection.
+**Hericenones** are a family of cyathane-type sesquiterpenoids isolated from the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and mycelium of **Hericium erinaceus** (lion's mane mushroom). First characterized by Kawagishi and colleagues in 1991, hericenones were identified as the first natural compounds found to stimulate **nerve growth factor (NGF)** synthesis in vitro. This discovery established lion's mane as a unique neurotrophic mushroom and sparked decades of research into fungal compounds for cognitive health and neuroprotection.
 
 ## Chemical Classification
 
@@ -42,7 +42,7 @@ The hericenone series includes at least nine major congeners designated **herice
 - **Molecular weight range:** ~350–420 g/mol (varies by congener)
 - **Solubility:** Lipophilic; soluble in organic solvents (chloroform, ethyl acetate); poorly soluble in water
 - **Location in fungus:** Concentrated primarily in the fruiting body, especially the spines (teeth); lower concentrations in mycelium
-- **Stability:** Heat-sensitive; significant degradation observed above 60°C during drying and extraction
+- **Stability:** Heat-sensitive; significant degradation observed above 60°C during [[mushroom-potency-drying-and-extraction]]
 
 ## Isolated Congeners
 
@@ -85,39 +85,6 @@ Hericenones exhibit moderate direct antioxidant activity through free radical sc
 
 Hericenones are **orally bioavailable** due to their lipophilic nature, which facilitates absorption across the intestinal epithelium and passage through the blood-brain barrier. Studies in mice have detected hericenone metabolites in brain tissue following oral administration of lion's mane extracts. However, detailed pharmacokinetic parameters (Cmax, Tmax, half-life, bioavailability percentage) remain incompletely characterized for individual hericenones.
 
-Metabolism likely involves hepatic cytochrome P450 oxidation and glucuronidation, consistent with the sesquiterpenoid structural class. The relatively low water solubility of hericenones may limit their oral bioavailability compared to the related [[erinacines]], which are more hydrophilic.
+Metabolism likely involves hepatic cytochrome P450 oxidation and glucuronidation, consistent with the sesquiterpenoid structural class. The relatively low water solubility of hericenones may limit their [[first-pass-metabolism-and-oral-bioavailability]] compared to the related [[erinacines]], which are more hydrophilic.
 
 ## Therapeutic Potential
-
-### Cognitive Enhancement
-Clinical trials using whole lion's mane extracts (containing hericenones alongside erinacines and other bioactives) have shown significant improvements in cognitive function in older adults with mild cognitive impairment (MCI). A double-blind, placebo-controlled trial by Mori et al. (2009) demonstrated that daily consumption of lion's mane dried powder for 16 weeks significantly improved scores on the cognitive function scale compared to placebo. These benefits diminished after cessation, suggesting continuous intake is required.
-
-### Neurodegenerative Disease
-Preclinical evidence supports potential application in Alzheimer's and Parkinson's diseases. Hericenone-induced NGF upregulation may help protect cholinergic neurons, while anti-inflammatory effects may slow neurodegenerative progression. Animal studies show improved memory performance and reduced neuronal damage in models of cerebral ischemia and amyloid toxicity.
-
-## Hericenones vs Erinacines
-
-Hericenones and [[erinacines]] are often discussed together as the two major neurotrophic compound classes from lion's mane, but they differ in several important respects:
-
-- **Chemical class:** Hericenones are cyathane sesquiterpenoids (fruiting body); erinacines are cyathane diterpenoids (mycelium)
-- **Source tissue:** Hericenones are concentrated in fruiting bodies; erinacines are primarily found in the mycelium
-- **Lipophilicity:** Hericenones are more lipophilic; erinacines are more water-soluble
-- **Bioavailability:** Erinacines generally show better oral bioavailability due to higher water solubility
-- **NGF potency:** Erinacine A is considered more potent in NGF stimulation assays
-
-Both compound classes are present in dual-extract lion's mane supplements that combine fruiting body and mycelium material.
-
-## Extraction and Analysis
-
-Hericenones are typically extracted from lion's mane fruiting bodies using organic solvents (ethanol, methanol, or ethyl acetate) followed by column chromatography and HPLC purification. Standard analytical methods include LC-MS/MS for identification and quantification, with hericenone C and D serving as marker compounds for quality control of commercial lion's mane extracts.
-
-The hericenone content of lion's mane varies considerably depending on cultivation method, substrate composition, harvest timing, and processing conditions. Wild-harvested specimens and fruiting bodies grown on hardwood substrates generally contain higher hericenone concentrations than those grown on grain substrates or liquid culture. Heat processing (drying, cooking) significantly reduces hericenone content, favoring cold extraction methods for therapeutic preparations.
-
-## See Also
-
-- [[hericium-erinaceus]] — Lion's mane mushroom, the source organism of hericenones
-- [[erinacines]] — Related cyathane diterpenoids from lion's mane mycelium
-- [[ergothioneine]] — Another neuroprotective fungal metabolite
-- [[beta-glucans]] — Immunomodulatory polysaccharides found alongside hericenones in lion's mane
-- [[psilocybin]] — Contrasts with non-psychoactive neurotrophic mushroom compounds
-- [[lentinan]] — Another mushroom-derived compound with neurological relevance

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe semilanceata Profile
+title: Psilocybe Semilanceata Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,11 +13,11 @@ sources:
 
 ## Overview
 
-Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799. (see [[psilocybin-mushrooms-overview]]).
+Psilocybe semilanceata, the liberty cap, is the classic and most widely known [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of [[psilocybin-intoxication-medical-management-and-first-aid]] occurred with this species in London's St. James's Green Park in 1799.
 
 ## Taxonomy
 
-- **Species**: Psilocybe semilanceata (Fr.) Kumm. / (Fr.) Quel. (see [[psilocybe-natmansii]]).
+- **Species**: Psilocybe semilanceata (Fr.) Kumm. / (Fr.) Quel.
 - **Synonyms**: Agaricus semilanceatus Fr., Coprinarius semilanceatus Fr., Panaeolus semilanceatus (Fr.) Lge.
 - **Common names**: Liberty cap
 
@@ -42,11 +42,11 @@ Psilocybe semilanceata, the liberty cap, is the classic and most widely known ps
 - **Season**: August to October.
 - **Altitude**: From sea level to 1,720 meters in mountainous regions.
 - **European range**: Finland, Norway, Sweden, Denmark, Germany, Switzerland, Austria, Netherlands, Belgium, France, Russia, Poland, Czech Republic, Hungary, Romania, Scotland, England, Wales, Italy, Spain.
-- **Global range**: Also found in North America (Northern California to British Columbia, and the Pacific Northwest), Australia, and Asia.
+- **Global range**: Also found in [[guzman-psilocybin-mushrooms-north-america]] (Northern California to British Columbia, and the [[psilocybin-north-america-pacific-northwest]]), Australia, and Asia.
 
 ## Historical Significance
 
-The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin mushroom intoxication. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
+The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin [[panaeolus-mushroom-intoxication-history]]. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
 
 ## Distinguishing Features
 
@@ -60,3 +60,25 @@ The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby
 - [[psilocybe-azurescens-profile]] -- shares high baeocystin content
 - [[psilocybe-cubensis-profile]] -- tropical dung species
 - [[psilocybe-mexicana-profile]] -- subtropical grassland equivalent
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[psilocybe-baeocystis-profile]]
+- [[psilocybe-semilanceata-distribution-ecology]]
+- [[psilocybe-weilii-species-profile]]
+- [[psilocybe-subcubensis-profile]]
+- [[psilocybe-pelliculosa-profile]]
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

@@ -15,9 +15,9 @@ created both opportunities and tensions within Amazonian communities.
 
 ## The Income Divide
 
-The most striking economic feature of ayahuasca tourism is the enormous
+The most striking economic feature of [[ayahuasca-tourism]] is the enormous
 income differential between shamans who serve foreign tourists and the
-surrounding local population. One practitioner in the Ucayali region was
+surrounding local population. One practitioner in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] was
 reported to earn a couple hundred dollars per month from catering to tourists
 — a substantial income by local standards — while his neighbors could not
 afford a thirty-cent taxi ride.
@@ -31,7 +31,7 @@ authenticity of the experience.
 
 ## Commercialization of Sacred Practice
 
-The transformation of ayahuasca ceremony from a community and family practice
+The transformation of [[ayahuasca-ceremony-pharmacology-safety]] from a community and family practice
 into a commercial service has fundamentally altered its character. In a
 traditional ceremony conducted solely for the benefit of the shaman's
 relatives and community, the ritual carries deep personal and social meaning.
@@ -88,46 +88,3 @@ enterprising business instincts rather than traditional spiritual authority.
 ### The Opportunist
 
 One shaman, referred to as "A," was encountered during travels and had his
-invitations for rituals declined after he swindled an observer on the price
-of a tobacco pipe. Such incidents underscore the difficulty tourists face in
-evaluating practitioners' trustworthiness.
-
-## The Broader Tourism Economy
-
-Ayahuasca tourism supports a wider economic ecosystem beyond the shamans
-themselves. Guides, translators, lodge owners, boat operators, and market
-vendors all benefit from the flow of foreign visitors. The town of San
-Francisco has branded itself as the "Centro Ceremonial del Ayahuasca,"
-suggesting a community-level investment in positioning for tourism revenue.
-
-The industry also intersects with Peru's broader tourism sector. Government
-tourist agencies sponsor ayahuasca festivals, and the brew's [[ayahuasca-tourism-legal-status-by-country]]
-allows it to be openly marketed. International retreat operators, many based
-in the United States or Europe, organize high-end packages that include
-flights, accommodations, and multiple ceremonies, often at premium prices
-that far exceed what local practitioners charge directly.
-
-## Ethical Considerations
-
-The commodification of indigenous spiritual practice raises several ethical
-questions:
-
-- **Cultural appropriation:** Western tourists consume sacred traditions
-  as entertainment or self-improvement, potentially degrading the cultural
-  significance of the practices.
-- **Economic dependency:** Communities that become dependent on tourism
-  revenue may alter their traditional practices to better serve tourist
-  expectations.
-- **Power imbalance:** The large income differential between tourists and
-  practitioners can create exploitative dynamics, even when both parties
-  enter the relationship willingly.
-- **Quality dilution:** The pressure to serve large numbers of tourists may
-  lead practitioners to simplify or shorten ceremonies, reducing their
-  spiritual depth.
-
-## See Also
-
-- [[ayahuasca-tourism-in-peru]]
-- [[icaros-in-ayahuasca-ceremony]]
-- [[shipibo-people-and-ayahuasca-tradition]]
-- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]

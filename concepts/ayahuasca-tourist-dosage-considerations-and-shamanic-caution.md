@@ -88,35 +88,3 @@ The tourist dosage situation illustrates a broader paradox in psychedelic experi
 For ayahuasca tourists, this paradox is compounded by the commercial context. They are paying for an experience that the shaman has financial incentive to deliver, but the shaman also has incentive to minimize risk. The resulting experience occupies a middle ground — safer than a self-guided home experience, but potentially less profound than a traditional community ceremony.
 
 ## Evaluating Shaman Character and Trustworthiness
-
-The dosage question is inseparable from the broader question of the shaman's character. In the absence of regulatory frameworks, certification systems, or quality control standards, the tourist must rely on personal judgment to evaluate a practitioner's trustworthiness and competence.
-
-R. Stuart's observations in Peru revealed significant variation in shamanic character:
-
-- **Dishonest practitioners**: One elderly shaman was described as a frequent liar and shoplifter who regularly asked for money or gifts. Another swindled the researcher on the price of a tobacco pipe.
-- **Hustling behavior**: The partner of one otherwise pleasant shaman constantly hustled visitors for spare change, suggesting an environment where commercial pressure can erode ethical standards.
-- **Honorable practitioners**: Despite the prevalence of questionable behavior, genuinely honorable practitioners do exist. One shaman, widely regarded as an honorable man, was observed [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]] in the darkness of his home during private family ceremonies.
-- **Price variation**: Pricing for tourist ceremonies varied dramatically, from about ten dollars to thirty dollars per session, with no clear correlation between price and quality.
-
-The challenge for tourists is that character evaluation requires time and cultural fluency that most short-term visitors lack. A practitioner who seems warm and welcoming during an initial meeting may behave very differently once the tourist has committed to a ceremony. Conversely, a practitioner who seems aloof or businesslike may prove to be deeply competent and genuinely caring during the ceremony itself.
-
-This evaluation difficulty reinforces the conservative dosing tendency: shamans who are uncertain about a tourist's needs and reactions naturally dose cautiously, while tourists who are uncertain about a shaman's competence and character must accept whatever dose they are given.
-
-## Recommendations for Prospective Tourists
-
-Based on the observed dynamics of ayahuasca tourism and dosage practices, several practical recommendations emerge:
-
-1. **Research thoroughly before traveling**: Understand the pharmacology of ayahuasca, the MAOI dietary restrictions, and potential drug interactions before arriving.
-2. **Manage expectations**: Recognize that a tourist ceremony is likely to be milder and shallower than traditional community ceremonies.
-3. **Take time to evaluate practitioners**: If possible, spend several days observing a shaman before committing to a ceremony.
-4. **Disclose medical information**: Provide an honest account of any medications, health conditions, or psychiatric history to the practitioner.
-5. **Consider motivations**: Weigh whether the travel experience itself (culture, environment, community) justifies the trip, or whether the primary goal is the ayahuasca experience, in which case alternatives may be more effective.
-6. **Budget appropriately**: Higher prices do not necessarily correlate with better experiences. Some of the most honorable practitioners charge modest fees.
-7. **Seek referrals**: Ask other travelers and, if possible, locals for recommendations about reputable practitioners.
-
-## See Also
-
-- [[ayahuasca-tourism-shaman-character-evaluation]]
-- [[ayahuasca-drug-interactions]]
-- [[ayahuasca-diy-home-brewing-as-tourism-alternative]]
-- [[ayahuasca-preparation-methods]]

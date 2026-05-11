@@ -88,14 +88,3 @@ As of 2026, comprehensive safety and toxicity data for THCP are lacking:
 ### Laboratory Synthesis
 
 THCP can be synthesized through several routes, most commonly by adapting established THC synthesis protocols with heptyl-substituted starting materials:
-
-1. **Olivetol route**: Heptyl-substituted resorcinol (1,3-dihydroxy-5-heptylbenzene) is condensed with a suitable monoterpene (e.g., p-menthadienol or citral) under acidic conditions
-2. **Cannabigerol-type route**: Heptyl-cannabigerolic acid is cyclized using an appropriate cyclase enzyme or acid catalyst
-
-### Semi-Synthetic from Natural Precursors
-
-Given the low natural abundance, most THCP used in research is produced semi-synthetically. The Italian research team's discovery was notable precisely beca [[delta-8-thc]]
-- [[tetrahydrocannabinol-thc]] — The parent compound and primary psychoactive cannabinoid
-- cannabidiphorol cbdp — The heptyl homolog of CBD, discovered alongside THCP
-- [[delta-8-thc]] — Another minor cannabinoid with distinct psychoactive properties
-- hexahydrocannabinol hhc — A hydrogenated cannabinoid with emerging market presence

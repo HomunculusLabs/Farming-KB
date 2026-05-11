@@ -1,5 +1,5 @@
 ---
-title: ginseng cultivation and medicinal properties of fungi-cultivated-mushrooms-pathogens-competitors
+title: Medicinal Mushroom Properties
 created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, health, biochemistry]
 date: 2026-04-28
@@ -88,9 +88,3 @@ current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.
 
 Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[medicinal-mushroom-antimicrobial-properties]]

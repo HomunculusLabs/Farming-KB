@@ -3,7 +3,7 @@ title: Delta Sigma Modulation
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
+  - "raw/papers/[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -88,19 +88,7 @@ They reduce quantization noise and ease loop stability requirements.
 However, a multi-bit feedback DAC can introduce distortion if its elements are mismatched.
 Dynamic element matching is often used to randomize or shape mismatch errors.
 Modern integrated circuits frequently use multi-bit delta-sigma modulators.
-The choice depends on resolution, bandwidth, power, process technology, and cost.
 
-## Digital filtering and decimation
-The raw output of a delta-sigma modulator is not usually the final signal.
-It contains the desired information plus shaped high-frequency noise.
-A low-pass digital filter removes most out-of-band noise.
-Decimation then reduces the sample rate to a practical value.
-A sinc filter is common in precision measurement converters.
-Finite impulse response filters are common in audio [[tompkins-plant-electrical-signals]]
-- mollison-permaculture-two-sound-walls-noise-control
-
-See also: [[natural-building]]
 ## See Also
-
-- [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]
-- [[cannabis-immune-modulation]]
+- [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]
+- [[medicinal-mushroom-immune-modulation]]

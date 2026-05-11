@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ORTHO-DOT
 
-PIHKAL entry #139. 4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #139. 4,5-DIMETHOXY-2-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,14 +88,5 @@ warmed briefly on the [[scythian-cannabis-steam-bath-ritual]] there was added 8.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[mme-entity-pihkal]]
-
-- [[tma-entity]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[aleph-entity-pihkal]]

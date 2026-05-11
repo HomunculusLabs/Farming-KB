@@ -33,7 +33,7 @@ The taxonomy of *Penicillium* has undergone extensive revision, with many specie
 ## Morphology
 
 ### Colonial Characteristics
-- **Growth Rate:** Moderate to rapid growth on Czapek-Dox [[soil-food-web]] dynamics
+- **Growth Rate:** Moderate to rapid growth on Czapek-Dox [[soil-foodweb]] dynamics
 
 ## Secondary Metabolites
 

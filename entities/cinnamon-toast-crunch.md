@@ -23,7 +23,7 @@ created: 2026-04-28
 
 **Cinnamon Toast Crunch** is a modern hybrid cannabis strain bred from the legendary Cookie family lineage, known for its sweet, spicy dessert-like aroma that evokes the breakfast cereal of the same name.
 
-The strain emerged in the West Coast commercial market during the early 2020s, part of the wave of dessert-themed cultivars that followed the explosive popularity of Girl Scout Cookies and its derivatives.
+The strain emerged in the West Coast commercial market during the early 2020s, part of the wave of dessert-themed cultivars that followed the explosive popularity of [[girl-scout-cookies]] and its derivatives.
 
 With a balanced indica-sativa profile, Cinnamon Toast Crunch has gained a reputation as a mood-elevating, socially engaging strain with moderate body relaxation. It is particularly popular among consumers seeking daytime or early evening use.
 
@@ -31,7 +31,7 @@ With a balanced indica-sativa profile, Cinnamon Toast Crunch has gained a reputa
 
 Cinnamon Toast Crunch descends from the Cookies genetic dynasty, though exact breeder documentation varies between seed banks. The most commonly reported parentage crosses a selected Girl Scout Cookies phenotype with a cinnamon-forward terpene donor.
 
-Some sources trace the lineage through Thin Mint Cookies × an unknown cinnamon-flavored Afghani, while others suggest a Wedding Cake × Animal Cookies × Zkittlez composite background. The cookie-family genetics are universally agreed upon.
+Some sources trace the lineage through [[thin-mint-cookies]] × an unknown cinnamon-flavored Afghani, while others suggest a Wedding Cake × Animal Cookies × Zkittlez composite background. The cookie-family genetics are universally agreed upon.
 
 The strain is not associated with any single award-winning breeder but has been stabilized by multiple commercial seed companies since approximately 2021.
 
@@ -60,15 +60,15 @@ Secondary terpenes include humulene and pinene in smaller concentrations.
 
 ## Effects and Medical Applications
 
-The onset is relatively quick, typically felt within 5–10 minutes of inhalation. Initial effects are cerebral — a euphoric, uplifted head high accompanied by heightened sensory perception and mild creative stimulation.
+The onset is relatively quick, typically felt within 5–10 minutes of inhalation. Initial effects are cerebral — a euphoric, uplifted head high accompanied by heightened [[plant-sensory-perception]] and mild creative stimulation.
 
 As the high progresses, a warming body relaxation develops without heavy sedation, maintaining functional clarity for most users. The balanced nature of the effects makes it suitable for social settings and creative work.
 
 Commonly reported medical applications include:
 
-- **Stress and anxiety relief** — the euphoric onset and limonene-dominant profile support mood stabilization.
+- **Stress [[nervine-herbs-and-anxiety-relief]]** — the euphoric onset and limonene-dominant profile support mood stabilization.
 - **Mild pain management** — caryophyllene contributes anti-inflammatory analgesic effects.
-- **Appetite stimulation** — consistent munchies effect, fitting for the cereal-themed name.
+- **[[cannabis-for-cachexia-and-appetite-stimulation]]** — consistent munchies effect, fitting for the cereal-themed name.
 - **Fatigue and low mood** — daytime-appropriate energy without overstimulation.
 
 [[blesching-cannabis-safety-adverse-effects-evidence]] are generally mild and include dry mouth, dry eyes, and occasional anxiety at higher doses in sensitive users.
@@ -84,25 +84,6 @@ Cinnamon Toast Crunch is considered a moderately difficult strain to cultivate, 
 - Preferred temperature: 20–26°C during flowering
 - Humidity: 45–55% during bloom
 
-The plants exhibit moderate stretch during the transition to flowering and respond well to low-stress training (LST) and scrog techniques. Nutrient requirements are moderate, with increased phosphorus and potassium during weeks 4–6 of flowering.
+The plants exhibit moderate stretch during the transition to flowering and respond well to low-stress training (LST) and scrog techniques. [[cannabis-soil-and-nutrient-requirements]] are moderate, with increased phosphorus and potassium during weeks 4–6 of flowering.
 
 Color-enhancing techniques such as cooler nighttime temperatures (16–18°C) during the final two weeks of flowering can intensify the purple hues in the bud structure.
-
-### Outdoor Cultivation
-
-Outdoor cultivation is feasible in Mediterranean and warm temperate climates with a long [[savory-growing-season-and-non-growing-season-management]]. Plants typically reach 120–180 cm in height when grown in full sun.
-
-Harvest in the Northern Hemisphere generally falls between mid-October and early November. Outdoor yields can reach 400–600 g per plant under optimal conditions.
-
-The strain shows moderate resistance to common [[cannabis-mold-and-mildew-prevention]] but is susceptible to spider mite infestations during prolonged dry periods. Regular IPM protocols are recommended.
-
-Cloning is straightforward from healthy vegetative cuttings, with root development typically occurring within 7–10 days in standard rockwool or peat propagation media.
-
-## See Also
-
-- [[thin-mint-cookies]]
-- [[animal-cookies]]
-- [[cereal-milk]]
-- jungle-cake
-- [[zookies-cannabis]]
-- [[mac-1]]

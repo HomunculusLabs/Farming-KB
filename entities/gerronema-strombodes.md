@@ -23,7 +23,7 @@ created: 2026-05-07
 
 **Gerronema strombodes** is a tropical agaric mushroom in the family
 Omphalotaceae, widely distributed across lowland neotropical forests from
-southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern South America.
+southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] into northern [[guzman-psilocybin-mushrooms-south-america]].
 
 It is recognized by its broadly umbilicate cap, pale cream-to-ochre coloration,
 distantly spaced gills, and preference for decomposing hardwood on the forest
@@ -35,7 +35,7 @@ caps, which can become notably depressed at the center.
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi → Basidiomycota → Agaricomycetes →
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Basidiomycota → Agaricomycetes →
 Agaricales → Omphalotaceae → Gerronema → G. strombodes
 
 **Authority:** (Berk. & M.A. Curtis) Singer, 1951
@@ -69,16 +69,16 @@ and into Colombia, Venezuela, and the Amazon basin.
 
 Elevation ranges from sea level to approximately 800 meters. The species is
 most commonly found on well-decomposed hardwood logs, branches, and woody
-debris on the forest floor, particularly on Fabaceae, Moraceae, and
+debris on the [[fungal-ecology-forest-floor]], particularly on Fabaceae, Moraceae, and
 Sapotaceae substrates.
 
 Fruiting occurs during the rainy season, typically from May through November
-in Central America, with peak abundance during the wettest months.
+[[neurotropic-fungi-in-central-america]], with peak abundance during the wettest months.
 
 ## Ecology
 
 G. strombodes is a primary white-rot decomposer of hardwood. It contributes
-to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems by breaking down lignin and
+to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems by breaking [[query-how-do-white-rot-fungi-break-down-lignin]] and
 cellulose in fallen wood.
 
 The species is relatively tolerant of fragmented forest habitats and has been
@@ -87,32 +87,3 @@ ecological resilience compared to more specialized tropical fungi.
 
 Associations with arthropods have been documented, with beetles and dipteran
 larvae occasionally inhabiting the basidiocarps.
-
-## Edibility and Culinary Use
-
-G. strombodes is considered edible and is one of several Gerronema species
-collected by indigenous communities in southern Mexico and Central America.
-
-The flavor is mild and somewhat nutty, though the thin flesh limits its
-culinary appeal. It is typically prepared by sautéing or adding to soups.
-
-There are no documented cases of toxicity, but positive identification is
-essential as the genus contains species of uncertain edibility.
-
-## Cultivation
-
-G. strombodes has not been commercially cultivated. Limited laboratory
-studies indicate it will fruit on sterilized hardwood sawdust supplemented
-with wheat bran at temperatures of 25–28 °C and high humidity (>90%).
-
-Colonization speed is moderate (14–18 days on [[oyster-mushroom-supplemented-sawdust-blocks]]), but
-[[stamets-biological-efficiency-yield]] remains low compared to commercially established species
-like Pleurotus ostreatus or [[staycare-lentinula-edodes-in-bioremediation]].
-
-## See Also
-
-- [[lentinula-edodes]]
-- [[agaricus-subrufescens]]
-- [[schizophyllum-commune]]
-- [[auricularia-auricula-judae]]
-- [[psilocybe-cubensis]]

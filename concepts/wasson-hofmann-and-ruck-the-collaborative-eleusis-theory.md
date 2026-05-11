@@ -87,32 +87,3 @@ In July 1975, Wasson asked Hofmann whether ancient Greeks could have isolated a 
 "The Road to Eleusis: Unveiling the Secret of the Mysteries" was published in 1978 by Harcourt Brace Jovanovich. The book presented the collaborative argument with contributions from each author reflecting their expertise.
 
 ## Scholarly Reception
-
-The theory has been both influential and controversial:
-
-### Supporters
-- The argument from chemical plausibility is widely accepted
-- The comparative ethnographic approach is considered sound
-- The self-enforcing secrecy pattern matches entheogenic cults worldwide
-
-### Skeptics
-- No direct archaeological evidence of ergot use at Eleusis
-- Some scholars argue the Mysteries' power can be explained psychologically without drugs
-- The specific chemistry of ancient Greek ergot cannot be determined
-- Alternative psychoactive candidates have been proposed (poppies, other fungi)
-
-## Legacy
-
-The Wasson-Hofmann-Ruck collaboration established a new paradigm in classical scholarship: the serious consideration of psychoactive substances in ancient religion. Their work inspired:
-- Further research into entheogens in classical antiquity
-- The broader field of "entheogenic studies"
-- Reexamination of other ancient mystery cults through this lens
-- Popular interest in the intersection of chemistry, religion, and ancient history
-
-## Related Topics
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] -- the chemistry
-- [[the-profanation-of-415-bc-and-evidence-for-eleusinian-psychoactivity]] -- the historical evidence
-
-- [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,16 +88,3 @@ The mixed orchard naturally addresses this by including multiple
 varieties, but the designer must verify compatibility.
 
 For apples, triploid varieties (such as Bramley's Seedling) require
-two other pollinizers nearby. Mollison recommends planting a ratio of
-one pollinizer to every five to eight main crop trees, distributed
-evenly through the orchard. Crab apples serve as universal pollinizers
-for many Malus varieties.
-
-## Integration with Animal Systems
-
-Mollison integrates orchards with poultry and livestock. Chickens
-range beneath fruit trees, consuming fallen fruit (reducing disease
-carryover), scratching manure into the soil, and controlling insect
-pests. Pigs can be used for site preparation and root crop harvest.
-Goats and sheep provide grazing management when carefully timed to
-avoid damage to young trees.

@@ -6,8 +6,8 @@ tags:
   - legume
   - nitrogen-fixer
   - forage-crop
-  - permaculture
-  - cover-crop
+  - [[permaculture]]
+  - [[cover-crop]]
   - medicinal-plant
   - saponins
   - anti-bloat
@@ -26,7 +26,7 @@ aliases:
 sources:
   - Frame, J. (2005). "Forage Legumes for Temperate Grasslands." Science Publishers.
   - Sulas, L. et al. (2018). "Sainfoin (Onobrychis viciifolia): A Review." Crop and Pasture Science 69: 799-818.
-  - López, S. et al. (2006). "In vitro digestibility of sainfoin." Animal Feed Science and Technology 127: 263-274.
+  - López, S. et al. (2006). "In vitro digestibility of sainfoin." [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] Science and Technology 127: 263-274.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:537307-1
   - https://www.fao.org/agrope/afr/crops/sainfoin.html
 ---
@@ -37,7 +37,7 @@ sources:
 
 It is valued as a high-protein forage crop that does not cause bloat in ruminants, making it a safer alternative to alfalfa for [[savory-livestock-grazing-planning]].
 
-The species is also a nitrogen-fixing pioneer plant with applications in soil restoration, pollinator support, and sustainable agriculture systems.
+The species is also a nitrogen-fixing pioneer plant with applications in soil restoration, pollinator support, and [[phosphate-accumulators-sustainable-agriculture]] systems.
 
 ## Taxonomy and Morphology
 
@@ -88,37 +88,3 @@ The species persists 5–8 years under grazing, longer than many annual forage l
 It produces excellent quality hay with rapid drying characteristics due to hollow stems, reducing the risk of weather-related losses during haymaking.
 
 ## Bioactive Compounds and Medicinal Uses
-
-The condensed tannins (proanthocyanidins) in sainfoin forage are the primary bioactive constituents, comprising 30–60 g/kg dry matter.
-
-These tannins have anthelmintic properties, reducing gastrointestinal nematode burdens in grazing livestock, offering a natural alternative to synthetic dewormers.
-
-Historically, sainfoin was used in European folk medicine as a mild expectorant, diuretic, and digestive tonic.
-
-The name "sainfoin" derives from French "sain foin" (healthy hay), reflecting its long-standing reputation for promoting animal health.
-
-Modern research has demonstrated antioxidant, anti-inflammatory, and antidiabetic properties of sainfoin tannin extracts in rodent models.
-
-Saponins from sainfoin seeds have shown immunomodulatory effects in vitro, stimulating lymphocyte proliferation.
-
-## Permaculture and Soil Applications
-
-Sainfoin is an excellent nitrogen-fixing pioneer for degraded or calcareous soils where alfalfa and clover perform poorly.
-
-Its deep taproot breaks compacted soil layers and brings up minerals from subsoil, improving soil structure for subsequent crops.
-
-The flowers are highly attractive to pollinators, especially honeybees and bumblebees, making it a valuable component of wildflower meadow mixes and agroforestry understory plantings.
-
-In silvopasture systems, sainfoin can serve as a productive understory legume beneath widely spaced trees, tolerating moderate shade.
-
-Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for dryland farming and climate-resilient pasture systems in Mediterranean and continental climates.
-
-## See Also
-
-- [[trifolium-repens]]
-- [[lotus-corniculatus]]
-- [[caragana-arborescens]]
-- [[robinia-pseudoacacia]]
-- dalea purpurea
-- onobrychis viciifolia
-- lupinus perennis

@@ -1,5 +1,5 @@
 ---
-title: Rice Blast Disease and Magnaporthe Appressorium Mechanics
+title: Bloomfield Rice Blast Magnaporthe Appressorium Mechanics
 created: 2026-04-28
 tags:
   - mycology
@@ -19,8 +19,8 @@ type: concept
 
 # Rice Blast Disease and Magnaporthe Appressorium Mechanics
 
-Magnaporthe grisea, the causal agent of rice blast disease, is an ascomycete fungus that
-produces one of the most extraordinary infection structures in all of biology: the
+[[magnaporthe-grisea]], the causal agent of rice blast disease, is an ascomycete fungus that
+produces one of the most extraordinary [[fungal-appressorium-and-infection-structures]] in all of biology: the
 appressorium. This melanized, pressurized dome generates sufficient mechanical force to
 puncture the leaves of rice plants, and can even penetrate bulletproof vest material.
 Rice blast ranks among the most devastating crop diseases on Earth, threatening the food
@@ -35,7 +35,7 @@ When the neck or panicle of the rice plant is ravaged, it becomes bleached by th
 and withers to dry straw. Because grains normally ripen on the panicle, crop loss due
 to neck blast is severe. Blast is most prevalent in areas of intensive agriculture
 where soil is supplemented with nitrogen fertilizers. Crops grown by subsistence
-farmers who rely upon natural soil fertility are less likely to be devastated.
+farmers who rely upon [[fukuoka-natural-soil-fertility]] are less likely to be devastated.
 
 ## The Infection Sequence
 
@@ -83,43 +83,7 @@ inhibition and genetic mutation. If melanin formation is inhibited using a fungi
 targeting the melanin biosynthetic pathway, the appressorium never penetrates the
 leaf. Similarly, transparent appressoria of albino mutants of Magnaporthe are
 ineffective at plant penetration. The melanin layer is essential because it creates
-the impermeable barrier needed to maintain the enormous osmotic pressure generated
+the impermeable barrier needed to maintain the enormous [[fungal-fruiting-body-mechanics-osmotic-pressure]] generated
 by glycerol accumulation.
 
 ## Turgor Pressure in Fungal Biology
-
-The Magnaporthe appressorium represents the extreme case of turgor-driven fungal
-invasion, but pressurized growth is a general feature of fungi. Hyphal turgor ranges
-from one to ten atmospheres depending on species and conditions. While pressure is not
-the fundamental driver of [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] rate, it is essential for penetrating the
-physical obstacles encountered in natural substrates. The invasive capability of the
-rice blast fungus demonstrates what happens when fungal pressure mechanics are pushed
-to their evolutionary limits.
-
-## The Surface Sensing Problem
-
-Before forming an appressorium, the germ tube must locate an appropriate site for
-penetration. Magnaporthe, like rust fungi, appears to sense the microscopic topography
-of the leaf surface. The germ tube travels over the leaf until it detects surface
-features that indicate a vulnerable point, then ceases migration and begins
-appressorium formation. This tactile sensing may involve stretch-activated ion channels
-in the [[ergosterol-fungal-membrane-biology]] that open and close as the hypha encounters ridges and
-topographical features of the leaf surface.
-
-## Crop Loss and Food Security
-
-Rice ranks as the second largest crop on Earth after wheat and is a staple food for
-more than half the world's population. The devastation caused by rice blast has made
-it a focus of intensive research in plant pathology and crop science. Control
-strategies include fungicide application, cultivation of resistant varieties, and
-investigation of [[singh-genetically-engineered-fungi-bioremediation]] rice with built-in antifungal defenses. The
-disease illustrates the broader challenge of feeding a growing human population in the
-face of persistent and evolving fungal threats to major crops.
-
-## Related
-
-- [[bloomfield-rice-blast-appressorium-mechanics]] Topics
-
-- [[bloomfield-coffee-rust-and-crop-pathogens]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-- [[bloomfield-fairy-rings-armillaria-giant-fungi]]

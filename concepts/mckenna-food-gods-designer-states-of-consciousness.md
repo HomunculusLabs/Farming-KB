@@ -1,5 +1,5 @@
 ---
-title: mckenna food gods designer states of consciousness of Consciousness Critique in Food of the Gods
+title: Mckenna Food Gods Designer States Of Consciousness
 created: 2026-04-28
 tags: [consciousness, mckenna, media-critique, dominator, culture]
 date: 2026-04-28
@@ -26,7 +26,7 @@ drugs in society. The issue, he argues, is not whether people will use
 drugs, but rather: "How drugged shall you be? Or, to put it another
 way, how conscious shall you be? Who shall be conscious? Who shall be
 unconscious?" This reframing shifts the focus from the relatively small
-number of people who use illegal psychoactive substances to the vast
+number of people who use illegal [[cultural-evolution-and-psychoactive-substances]] to the vast
 majority who are maintained in states of manufactured distraction and
 compliance by legal and institutional means.
 
@@ -88,26 +88,10 @@ mind.
 He also describes psychedelics as "enzymes that synergize the human
 imagination and empower language." They cause people to connect and
 reconnect the contents of the collective mind in ever more implausible,
-beautiful, and self-fulfilling ways. This creative, connective function
-stands in direct opposition to the fragmenting, homogenizing effects
-of mass culture.
-
-## The Role of [[mckenna-food-gods-archaic-revival]], then they need a new paradigmatic image that can carry them rapidly forward and through what he calls the "historical choke point" that impedes a more expansive, humane, and caring dimension of existence.
-
-## The Unsung Heroes
-
-McKenna credits the botanists and chemists who preserved and
-rediscovered the psychoactive plants and compounds that offer an
-alternative to manufactured consciousness: [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]], R. Gordon
-Wasson and his wife Valentina, and Albert Hofmann. Thanks to them, in
-this most chaotic of centuries, humanity has taken into its frail hands
-the means to do something about the predicament of manufactured
-consciousness. Psychology, by contrast, McKenna describes as complacent
-and silent, having been content with behaviorist theory-making for fifty
-years while knowing it was doing a potentially fatal disservice to
-human dignity by ignoring the potential of psychedelics.
 
 ## See Also
-
-- [[mckenna-food-gods-natural-synthetic-drugs]]
-- [[mckenna-food-gods-stoned-ape-hypothesis]]
+- [[mckenna-food-gods-fall-consciousness]]
+- [[mckenna-food-gods-set-setting-psychedelic-preparation]]
+- [[mckenna-food-gods-psilocybin-cultivation-1970s]]
+- [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
+- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]

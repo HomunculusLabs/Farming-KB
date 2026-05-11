@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,53 +88,3 @@ compatible is very high, facilitating extensive genetic recombination.
 
 Second, fungi produce enormous numbers of spores. A single mushroom can
 release millions or even billions of spores, each genetically unique. This
-vast numbers game means that even very rare beneficial mutations — such as
-pesticide resistance or increased virulence — will arise regularly within a
-population.
-
-Third, many plant pathogenic fungi have broad host ranges and can survive
-on multiple plant species or in soil as resistant structures such as
-sclerotia. This resilience means that even if a particular crop is not
-being grown, the pathogen can persist in the environment and re-emerge when
-conditions become favorable.
-
-Fourth, fungi are among the organisms most exposed to pesticide residues in
-agricultural soils. Pesticides applied to foliage drip onto the soil
-surface, where they contact the vast [[edaphic-factors-microbial-community-structure]]. Fungicides
-applied to control one pathogen may simultaneously kill or mutate
-non-target fungi that serve important ecological functions, such as
-mycorrhizal partners or [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents.
-
-## The Quaternary Threat: Mutation, Recombination, Selection, Dispersal
-
-Fukuoka's analysis suggests a four-stage process by which pesticide use
-could generate new and dangerous pathogen strains:
-
-1. **Mutation**: Pesticides with mutagenic properties induce genetic
-   changes in soil fungi, creating novel genotypes
-
-2. **Recombination**: These novel genotypes interbreed with existing
-   strains — as demonstrated by the resin disease crossing experiment —
-   combining mutations in ways that can amplify their effects
-
-3. **Selection**: Pesticide applications create strong selective pressure
-   favoring genotypes that are resistant to the chemicals, allowing them
-   to rapidly increase in frequency
-
-4. **Dispersal**: The enormous spore production of fungi enables new
-   strains to spread quickly across agricultural landscapes, colonizing
-   new areas before anyone is aware of their emergence
-
-This four-stage process can operate on timescales of months to years — far
-too fast for agricultural science to detect and respond. By the time a new
-pathogen strain is identified, it may already be widely established.
-
-## Natural Farming as Alternative
-
-For Fukuoka, the solution was the fundamental reorientation of agriculture away from chemical intervention. In a natural farming system, biological diversity and the absence of mutagenic chemicals mean t fungal evolution tion proceeds at its natural pace, with natural predator-prey relationships and host resistance providing checks on pathogen development. The healthy, biologically active soil of a natural farm supports a diverse community of microorganisms, many of which are antagonistic to plant pathogens. This natural biological control is far more robust and adaptable than any chemical intervention, precisely because it operates through the same evolutionary mechanisms that pathogens use.
-
-## See Also
-
-- [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-- [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
-- [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]

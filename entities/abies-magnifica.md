@@ -88,24 +88,3 @@ The western pine beetle (*Dendroctonus brevicomis*) and fir engraver beetle (*Sc
 The California spotted owl (*Strix occidentalis occidentalis*) relies on red fir forests for nesting and foraging habitat. These forests also support populations of the Pacific fisher (*Pekania pennanti*) and northern goshawk (*Accipiter gentilis*).
 
 ## Uses and Significance
-
-Red fir wood is light, soft, and moderately strong, with a specific gravity of approximately 0.36. It is used primarily for framing lumber, plywood, pulpwood, and fuel. The wood is less commercially valued than that of [[pseudotsuga-menziesii]] due to its lower strength and greater tendency to warp.
-
-The species is an important component of California's timber industry, with significant volumes harvested from national forest lands. However, much of the red fir zone is now protected within national parks and wilderness areas.
-
-Red fir has limited ornamental use due to its large ultimate size and specific climatic requirements. It requires cool summers and heavy winter snowpack, making it unsuitable for most lowland and urban plantings. Young trees with their silvertip foliage are occasionally sold as living Christmas trees.
-
-Old-growth red fir forests are increasingly recognized for their [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] capacity. Red fir stores more carbon per hectare than most other western conifer species due to its large individual tree sizes and high stand densities. These forests are important carbon sinks in California's climate strategy.
-
-## See Also
-
-- [[abies-concolor]]
-- [[abies-grandis]]
-- [[pseudotsuga-menziesii]]
-- [[tsuga-mertensiana]]
-- [[pinus-ponderosa]]
-- [[picea-abies]]
-- [[abies-sibirica]]
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]
-- [[pinus-contorta]]

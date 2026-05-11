@@ -8,7 +8,7 @@ primary psychoactive compounds found in [[emcdda-eu-legislative-timeline-halluci
 tryptamines are structurally similar to the neurotransmitter serotonin
 (5-hydroxytryptamine, 5-HT) and produce their effects primarily through agonism
 at the 5-HT2A receptor. Alongside [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]], they constitute
-the four major tryptamine alkaloids identified in psilocybian fungi.
+the four major [[hplc-analysis-of-tryptamine-alkaloids]] identified in [[psilocybian-fungi-law-australia-nz]].
 
 ## Chemical Structures
 
@@ -73,13 +73,13 @@ duration, and subjective character of experience.
 ### Species Distribution
 
 Psilocybin-containing fungi belong mainly to four families:
-- **Strophariaceae** — Psilocybe genus (dominant)
+- **Strophariaceae** — [[psilocybe-genus-biogeography-tropical-temperate]] (dominant)
 - **Bolbitiaceae** — Conocybe genus
-- **Coprinaceae** — Copelandia and Panaeolus genera
+- **Coprinaceae** — Copelandia and [[copelandia-panaeolus-genera]]
 - **Cortinariaceae** — Inocybe genus
 
-The genus Psilocybe is predominant in recreational use, with Psilocybe cubensis
-(also known as Stropharia cubensis) being the most commonly cultivated and marketed
+The genus Psilocybe is predominant in recreational use, with [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]
+(also known as [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]) being the most commonly cultivated and marketed
 variety. Other frequently encountered species include P. semilanceata (liberty
 caps) and P. cyanescens (wavy caps).
 
@@ -88,54 +88,3 @@ caps) and P. cyanescens (wavy caps).
 Marketed cubensis varieties are often named by geographic origin: Mexican, Thai,
 Colombian, and Amazonian. Some species such as P. mexicana and P. tampanensis form
 sclerotia — hardened masses of mycelium resistant to adverse conditions — marketed
-as "truffles" or "philosopher's stones." Sclerotia are a [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] against
-dryness, cold, heat, or excessive moisture.
-
-### The Bluing Reaction
-
-The primary field characteristic distinguishing psilocybin-containing mushrooms
-from inactive, poisonous, or edible look-alikes is that they bruise blue when
-handled or damaged. This blueing is an oxidative reaction involving the
-degradation of psilocin and related compounds. However, not all psilocybian species
-exhibit strong blueing, and the reaction is not exclusive to psychoactive species.
-
-## Dose and Effects
-
-### Potency Variation
-
-Potency varies considerably between species, within species, and even between
-individual mushrooms. [[factors-affecting-mycoremediation-efficiency]] potency include species, age at harvest,
-growing conditions, substrate, and post-harvest handling. The EMCDDA (2006) noted
-that unpredictable potency is one factor limiting the appeal of regular
-recreational mushroom use.
-
-### Route of Administration
-
-Mushrooms are typically chopped and ingested directly or brewed as tea. Onset of
-effects occurs within 20-60 minutes, with peak effects at 1-3 hours and total
-duration of 4-6 hours. The experience is characterized by perceptual distortions
-(especially visual), altered time perception, changes in thought patterns, and
-modified self-awareness. True hallucinations (perceptions without external stimuli)
-are rare except at very high doses; the effects are more accurately described as
-perceptual distortions.
-
-### Acute Effects
-
-Psychological effects include altered perception, euphoria or anxiety, introspective
-thoughts, and synesthesia. Physiological effects include dilated pupils, increased
-heart rate, elevated blood pressure, nausea, and increased body temperature. Nausea
-and panic attacks are among the most commonly reported negative effects that limit
-the appeal of repeated use.
-
-## See Also
-
-- [[neurotropic-fungi-classification-and-taxonomy]]
-- [[hallucinogenic-mushrooms-european-prevalence-and-trends]]
-- [[mushroom-potency-harvesting-and-drying]]
-
-## Sources
-
-- EMCDDA (2006). Hallucinogenic mushrooms: an emerging trend case study.
-  Lisbon: European Monitoring Centre for Drugs and Drug Addiction.
-- Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide [[psilocybe-geographical-distribution-patterns]]
-  of the neurotropic fungi. Ann. Mus. civ. Rovereto, 14, 189-280.

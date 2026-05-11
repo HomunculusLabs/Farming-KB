@@ -87,26 +87,3 @@ Green onions are picked before the mature bulb forms. They have a milder flavor 
 All the bulb vegetables prefer sunshine and a soil rich in [[hamilton-composting-and-organic-matter-management]]. Dig in plenty of well-rotted compost or manure. If necessary, add lime to raise the soil pH above 6.5. Avoid recently manured ground for onions — it can cause thick necks and poor storage. In a three-year rotation, grow bulb vegetables in Plot A.
 
 ## Companion Planting with Alliums
-
-The strong scent of alliums is believed to help deter certain pests:
-- **Carrots and onions** are a classic companion pairing, though research shows at least 10 rows of onions per row of carrots are needed for any measurable effect on carrot fly
-- **Garlic under roses** has been used as a control for greenfly (aphids)
-- **Savory next to beans** is another traditional pairing
-- **Chives around roses and tomatoes** may help deter aphids and Japanese beetles
-
-## Storage
-
-All bulb alliums store best when:
-- Fully dried before storage (cured in sun or warm, dry, well-ventilated space)
-- Hung in nets or strings rather than stored in bulk
-- Kept in a cool (but frost-free), dry, well-ventilated place
-- Checked regularly — remove any showing signs of mold or sprouting immediately
-
-## Related
-
-- [[allium-tuberosum]]
-- [[growing-sweet-corn-organically]]
-
-- [[mushroom-crop-rotation-and-substrate-reuse]]
-- [[herb-growing-guide]] for chive cultivation
-- [[alliums-growing-guide]]

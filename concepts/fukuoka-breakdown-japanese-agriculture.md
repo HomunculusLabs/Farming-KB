@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # The Breakdown of Japanese Agriculture
@@ -87,16 +88,3 @@ Fukuoka's vision of [[fukuoka-japan-postwar-agriculture]] | [[fukuoka-natural-fa
 1. Central to Fukuoka fukuoka breakdown japanese agriculture Agriculture is the idea that nature already possesses perfect wisdom and human intervention often disrupts natural balance.
 2. Fukuoka's approach emphasizes observation over action — understanding natural patterns before making any changes to the landscape.
 3. The principle of 'doing nothing' (mu) means eliminating unnecessary human labor, not abandoning the land entirely.
-4. [[comparison-natural-farming-vs-permaculture]] seeks to create conditions where crops, weeds, insects, and microorganisms coexist in a self-regulating ecosystem.
-5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
-6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
-7. The interplay between [[fukuoka-citrus-orchard-ground-cover-cultivation]] plants, crops, and trees creates a multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-## See Also
-
-Related topics in this wiki include: .

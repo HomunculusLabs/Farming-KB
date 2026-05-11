@@ -1,5 +1,5 @@
 ---
-title: [[cervantes-cannabis-contamination-prevention]] in mushroom-cultivation
+title: Contamination Prevention In Mushroom Cultivation
 created: 2026-04-28
 tags: [mycology, contamination, sterile-technique, cultivation]
 date: 2026-04-28

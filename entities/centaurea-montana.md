@@ -54,19 +54,19 @@ Populations are often found along stream banks and in damp niches within otherwi
 
 In the Alps, Centaurea montana is a characteristic species of the Trisetetum flavescentis alliance, indicating nutrient-rich subalpine hay meadows. It is considered an indicator of traditional, low-intensity agricultural management.
 
-It has naturalized in parts of North America, particularly in the northeastern United States and southeastern Canada. Escaped populations are usually found near old gardens and along roadsides.
+It has naturalized in parts [[berry-growing]], particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and southeastern Canada. Escaped populations are usually found near old gardens and along roadsides.
 
 ## Ecology
 
-The large, fringed flower heads are highly attractive to pollinators. Bees, butterflies, and hoverflies visit the nectar-rich disc florets. The deep blue color is particularly visible to bee pollinators.
+The large, fringed flower heads are highly attractive to pollinators. Bees, butterflies, and hoverflies visit the nectar-rich disc florets. The deep blue color is particularly visible to [[comparison-native-bee-pollinators-vs-honeybees]].
 
 Centaurea montana blooms from late spring through midsummer, with occasional reblooming in autumn if spent flowers are removed. This extended bloom period makes it ecologically valuable in mountain meadow systems.
 
 The rhizomatous growth habit allows the plant to form vegetative colonies. These clones can persist for decades, stabilizing soil on steep slopes and contributing to meadow diversity.
 
-Seed production is prolific, with each plant capable of producing several hundred achenes per season. However, germination rates in the wild are modest due to competition from established meadow vegetation.
+[[cannabis-controlled-pollination-seed-production]] is prolific, with each plant capable of producing several hundred achenes per season. However, germination rates in the wild are modest due to competition from established meadow vegetation.
 
-Foliage is occasionally damaged by aphids and the larvae of some microlepidoptera. However, the tomentose leaf surface provides some resistance to herbivory. The species is generally unpalatable to deer and rabbits.
+Foliage is occasionally damaged by aphids and the larvae of some microlepidoptera. However, the tomentose [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] provides some resistance to herbivory. The species is generally unpalatable to deer and rabbits.
 
 ## Ethnobotanical Use
 
@@ -82,27 +82,8 @@ The species is generally non-toxic, though the foliage can cause contact dermati
 
 Mountain cornflower is easy to grow in USDA zones 3–8. It prefers full sun to light shade and well-drained soil of moderate fertility. Excessive nitrogen promotes lush foliage at the expense of flowers.
 
-Plants are drought-tolerant once established, reflecting their mountain heritage. However, they perform best with consistent moisture during the growing season.
+Plants are drought-tolerant once established, reflecting their mountain heritage. However, they perform best with consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Propagation is straightforward by seed, division, or basal cuttings. Seeds require no special pretreatment and germinate in 2–3 weeks at 18–21°C. Division is best done in early spring or autumn.
 
 Garden cultivars include 'Alba' (white flowers), 'Rosea' (pink flowers), and 'Parham' (large deep blue flowers). The species hybridizes readily with [[centaurea-cyanus]], producing intermediate forms of horticultural interest.
-
-Deadheading encourages reblooming and prevents self-seeding, which can be aggressive in favorable conditions. Plants benefit from being lifted and divided every 3–4 years to maintain vigor.
-
-Centaurea montana is an excellent choice for wildflower meadows, cottage gardens, and naturalistic plantings. It combines well with other mountain natives such as [[achillea-millefolium]] and [[solidago-virgaurea]] for a prolonged seasonal display.
-
-The species has moderate resistance to powdery mildew but can be affected in humid, poorly ventilated conditions. Good air circulation and avoiding overhead watering minimize disease pressure.
-
-## See Also
-
-- [[centaurea-cyanus]]
-- [[centaurea-nigra]]
-- [[echinacea-purpurea]]
-- [[rudbeckia-fulgida]]
-- [[gaillardia-aristata]]
-- [[achillea-millefolium]]
-- [[solidago-virgaurea]]
-- [[tanacetum-parthenium]]
-- [[cichorium-intybus]]
-- [[calendula-officinalis]]

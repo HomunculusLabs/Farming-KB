@@ -1,5 +1,5 @@
 ---
-title: cervantes cannabis seed purchasing storage Purchasing, Ordering, and Storage
+title: Cervantes Cannabis Seed Purchasing Storage
 created: 2026-04-28
 tags:
   - seed-purchasing
@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - seed ordering
@@ -21,7 +22,7 @@ type: concept
 
 # Cannabis Seed Purchasing, Ordering, and Storage
 
-Jorge Cervantes provides detailed guidance on acquiring [[query-how-to-store-cannabis-seeds-for-long-term-viability]]
+[[jorge-cervantes]] provides detailed guidance on acquiring [[query-how-to-store-cannabis-seeds-for-long-term-viability]]
 safely and storing them properly to maintain viability. In many
 jurisdictions, seed acquisition carries legal risk, making discretion
 paramount.
@@ -62,14 +63,14 @@ If you live in a country where seeds are illegal, take extra precautions:
   arrive
 - Packages may be lost, misplaced, or mislabeled - plan accordingly
 - Set up a "safe address" such as a PO Box under an assumed name
-- Some seed companies produce their own seed and sell directly; most sell
+- Some [[spanish-cannabis-seed-companies]] produce their own seed and sell directly; most sell
   through resellers
 
 ## US Customs and Seed Seizure
 
 If US Customs seizes your order of seeds, they will send you a note
 informing you of that fact. Cervantes notes: "We have never heard a report
-of a law enforcement official showing up at your door." The standard
+of a [[cervantes-grow-room-security-law-enforcement]] official showing up at your door." The standard
 practice is a confiscation letter, not a criminal investigation.
 
 ## Germination Strategy
@@ -84,54 +85,6 @@ approach preserves backup genetics if the first batch fails.
 
 Seeds store best when humidity is less than 5 percent and temperature is
 35-40F (2-5C). Under these conditions, seeds can remain viable for five
-years or longer. Key storage principles:
+years or longer. Key [[mollison-designers-water-purification-and-storage-principles]]:
 
 - Store in a cool, dark, dry place
-- Make sure to label all containers with strain name and date
-- Use airtight containers with silicon crystal packages to absorb excess
-  moisture
-- Avoid moisture levels above five percent to ensure viability
-
-### Temperature Effects
-
-- Low temperatures slow internal seed activity, best for preservation
-- Super-cold liquid nitrogen and cryogenics can store seeds for very
-  long periods
-- Dry seeds are temperature-sensitive and can be disinfected with short
-  heat applications
-- Higher temperatures accelerate hormone degradation and reduce
-  viability
-
-### Moisture Control
-
-- Seed hormones (ABA, cytokinins, and gibberellins) are primed to
-  respond to moisture as the first signal to germinate
-- Small amounts of condensation can give seeds a false start, causing
-  them to expend stored energy prematurely
-- Moisture above 10% activates seed pests; above 15% activates fungi
-- Viable seeds are preserved longer when vacuum-packed to remove oxygen
-
-### Seed Shell Considerations
-
-Seeds with a thin outer protective shell never truly go dormant, because
-moisture and air are always present within. This causes hormone levels to
-slowly dissipate. Such seeds do not store well for long periods.
-
-### Assessing Seed Viability
-
-When 50 percent of stored seeds do not germinate, the average storage
-life is over. Seeds a year old or older often take longer to sprout and
-have a lower germination rate, even when stored properly.
-
-## Refrigerated Seed Storage
-
-Advanced growers use dedicated refrigerators for seed storage, maintaining
-humidity levels below five percent to ensure safe long-term storage. These
-specialized units keep seeds viable for many years beyond normal storage
-methods.
-
-## See Also
-
-- [[cervantes-seed-production-storage]]
-- [[cervantes-grow-room-security-law-enforcement]]
-- [[cervantes-open-pollinated-heirloom-seeds]]

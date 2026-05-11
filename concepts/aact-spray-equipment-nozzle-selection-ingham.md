@@ -14,7 +14,7 @@ topics:
 
 ## Overview
 
-Selecting the proper spray equipment is critical for successful Actively Aerated Compost Tea (AACT) application. The goal is to deliver living organisms to plant surfaces—both foliage and soil—without damaging them through mechanical shear, desiccation, or chemical residues. Ingham emphasizes that the spray system must be designed to preserve the full diversity of organisms present in the tea, including bacteria, fungi, protozoa, and nematodes. (see [[ingham-micronized-compost-aact-brewing-technique]]).
+Selecting the proper spray equipment is critical for successful [[actively-aerated-compost-tea]] Compost Tea (AACT) application. The goal is to deliver living organisms to plant surfaces—both foliage and soil—without damaging them through mechanical shear, desiccation, or [[ingham-manure-antibiotics-chemical-residues-composting]]. Ingham emphasizes that the spray system must be designed to preserve the full diversity of organisms present in the tea, including bacteria, fungi, protozoa, and nematodes. (see [[ingham-micronized-compost-aact-brewing-technique]]).
 
 ## Core Principles of AACT Spray Application
 
@@ -40,7 +40,7 @@ The pump should never pull tea through a long intake line at high velocity. Keep
 
 ## Nozzle Selection and Droplet Size
 
-Droplet size is perhaps the most critical variable in foliar AACT application. Ingham specifies that fungal hyphae, which are essential for disease suppression on leaf surfaces, measure approximately 200–400 micrometers in diameter. The spray droplets must be large enough to envelop these structures and protect them from rapid drying after contact with the leaf surface.
+Droplet size is perhaps the most critical variable in foliar AACT application. Ingham specifies that fungal hyphae, which are essential for [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] on leaf surfaces, measure approximately 200–400 micrometers in diameter. The spray droplets must be large enough to envelop these structures and protect them from rapid drying after contact with the leaf surface.
 
 Recommended droplet sizes for AACT application:
 - **Minimum droplet diameter**: 200 micrometers for foliar applications where fungal preservation is important.
@@ -70,7 +70,7 @@ Ingham provides guidance on matching sprayer capacity to the scale of applicatio
 - **Backpack sprayers** (2–5 gallons): Suitable for small plots, home gardens, and targeted spot treatments. Ensure the pump mechanism is compatible (diaphragm-type backpacks preferred).
 - **Tractor-mounted sprayers** (50–200 gallons): For field-scale operations. Pay close attention to the agitation system—gentle agitation is needed to keep organisms suspended without damaging them.
 - **Pull-behind sprayers** (25–100 gallons): Good for market garden scale. Choose PTO-driven or electric diaphragm pump models.
-- **Drip irrigation systems**: AACT can be injected into drip lines for root-zone delivery. Ensure the system does not have fine filters that would remove organisms. Emitters should be at least 400 micrometers to prevent clogging from fungal material.
+- **[[cervantes-drip-irrigation-systems]]**: AACT can be injected into drip lines for root-zone delivery. Ensure the system does not have fine filters that would remove organisms. Emitters should be at least 400 micrometers to prevent clogging from fungal material.
 
 ## Damage to Organisms by Equipment
 
@@ -86,50 +86,5 @@ Ingham documents several modes of organism damage common in spray equipment:
 Before using any spray equipment for compost tea, clean the system thoroughly to remove chemical residues:
 - Flush all hoses, tanks, and lines with clean water.
 - Run a batch of clean water through the entire system including nozzles.
-- If chemical residues are suspected, a dilute hydrogen peroxide flush (3% solution) can help break down persistent residues. Flush thoroughly with clean water afterward.
-- Never use chlorine-based cleaners, as chlorine residues are particularly harmful to beneficial microorganisms.
-
-## Application Timing
-
-For foliar applications, apply compost tea in the early morning or late evening when:
-- Temperatures are moderate (avoid application above 85°F/29°C).
-- UV radiation is reduced to minimize damage to surface organisms.
-- Leaf surfaces may retain moisture longer, giving organisms time to establish.
-- Wind is calm to ensure even coverage and prevent drift.
-
-For soil drench applications, timing is less critical but avoid application to waterlogged or frozen soil where organisms cannot move through the soil profile.
-
-## Adjuvants and Spreaders
-
-Ingham is cautious about adding adjuvants to compost tea. While sticker-spreaders can improve tea retention on waxy leaf surfaces, many commercial products contain surfactants or other chemicals that may harm microbial life. If an adjuvant is needed:
-
-- **Acceptable options**: Yucca extract, saponin-based products, or small amounts of vegetable-based oils. These are compatible with the organisms in the tea.
-- **Avoid**: Synthetic surfactants, petroleum-based products, and any adjuvant containing preservatives or antimicrobial agents.
-- **Test first**: Apply the adjuvant mixed with tea to a small area and observe plant response before full-scale application.
-
-## Water Quality for Sprayer Systems
-
-The water used to dilute compost tea (if dilution is needed) must meet the same quality standards as the brewing water. Municipal water containing chlorine or chloramine will kill organisms upon contact. Well water should be tested for pH, salinity, and mineral content. Rainwater or dechlorinated water is ideal.
-
-## Summary
-
-Successful AACT application through spray equipment requires attention to:
-1. Gentle pump selection that preserves fungal hyphae and protozoa.
-2. Nozzle configurations that produce droplets of 200+ micrometers.
-3. Filtration mesh sizes no finer than 400 micrometers.
-4. Thorough cleaning to eliminate chemical residues.
-5. Application timing that minimizes UV and heat stress on organisms.
-6. Compatible adjuvants only, tested before full deployment.
-
-## References
-
-- Ingham, E.R. (2004). The Field Guide I for Actively Aerated Compost Tea (AACT).
-  Sustainable Studies Institute.
-- Soil Foodweb Inc. application rate sheets for various crop systems.
-- Soil Foodweb Inc. spray equipment testing protocols for commercial brewers.
-
-## See Also
-
-- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
-- [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]
-- [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
+- If chemical residues are suspected, a dilute [[cervantes-hydrogen-peroxide-sterilization]] flush (3% solution) can help break down persistent residues. Flush thoroughly with clean water afterward.
+- Never use chlorine-based cleaners, as chlorine residues are particularly harmful to [[forest-and-bamboo-beneficial-microorganisms]].

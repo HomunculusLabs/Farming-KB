@@ -16,7 +16,7 @@ environmental pollutants that includes pharmaceuticals, personal care
 products, endocrine-disrupting compounds, microplastics, per- and
 polyfluoroalkyl substances (PFAS), and other novel synthetic chemicals.
 Singh's treatment of [[turkey-tail-trametes-versicolor]] and
-  bjerkandera adusta
+  [[bjerkandera-adusta]]
 - Non-steroidal anti-inflammatory drugs (NSAIDs) including diclofenac,
   ibuprofen, and naproxen undergo oxidative degradation by fungal
   peroxidases, with removal efficiencies reaching 80 to 95 percent in
@@ -38,7 +38,7 @@ organisms at environmentally relevant concentrations, making their removal
 from water and soil a priority:
 
 - Natural and synthetic estrogens including estradiol, ethinyl estradiol,
-  and bisphenol A are effectively degraded by fungal laccase and
+  and bisphenol A are effectively degraded by [[fungal-laccase-and-textile-dye-decolorization]]
   peroxidase systems through phenolic oxidation and coupling reactions
 - Alkylphenol ethoxylates and their degradation products (nonylphenol,
   octylphenol) are mineralized by white-rot fungi with removal rates
@@ -55,14 +55,14 @@ Microplastics (particles smaller than 5 mm) represent a growing remediation
 challenge. [[query-how-do-fungi-contribute-to-carbon-sequestration]] to microplastic degradation through several
 mechanisms:
 
-- Cutinase and esterase enzymes from phytopathogenic and saprophytic fungi
+- Cutinase and esterase enzymes from phytopathogenic and [[saprophytic-fungi]]
   hydrolyze polyester-based microplastics including polyethylene
   terephthalate (PET) and polybutylene succinate (PBS)
 - Laccase-mediated oxidation creates reactive functional groups on
   polyethylene and polypropylene surfaces, increasing hydrophilicity and
   susceptibility to further enzymatic attack
 - Plastic-degrading fungi including aspergillus tubingensis and
-  pestalotiopsis microspora have been isolated from diverse
+  [[pestalotiopsis-microspora]] have been isolated from diverse
   environments including soil, marine debris, and landfill sites
 - Biofilm formation on microplastic surfaces creates localized zones of
   concentrated enzyme activity and acidic metabolites that accelerate
@@ -79,34 +79,11 @@ challenging emerging contaminants due to the exceptional strength of the
 carbon-fluorine bond:
 
 - Limited evidence exists for direct fungal degradation of PFAS, with
-  most studies reporting adsorption to fungal biomass rather than
+  most studies reporting adsorption to [[bioremediation-fungal-biomass-biosorbent-material]] rather than
   transformation
-- Defluorination activity has been reported in certain fungal cultures
+- Defluorination activity has been reported in certain [[brassinosteroids-in-fungal-cultures]]
   under co-metabolic conditions with primary growth substrates
 - [[dighton-fungal-biosorption-heavy-metal-remediation]] and bioaccumulation of PFAS compounds provide a
   physical removal mechanism applicable to water treatment
 - Integration of fungal systems with advanced oxidation processes may
   enhance overall PFAS treatment efficiency
-
-Other persistent synthetic contaminants addressed by fungal systems include
-brominated flame retardants, perchlorate, and 1,4-dioxane, with varying
-degrees of success reported across different fungal species and reactor
-configurations.
-
-## Treatment System Configurations
-
-Fungal treatment of emerging contaminants has been implemented in several
-reactor designs:
-
-- Packed-bed bioreactors with fungal biomass immobilized on porous carriers
-  for continuous-flow [[mollison-designers-wastewater-treatment-wetlands]]
-- Fluidized-bed reactors providing enhanced mass transfer for poorly soluble
-  contaminants
-- Rotating biological contactors with fungal biofilm growth on rotating
-  discs for simultaneous oxygen transfer and pollutant degradation
-- Constructed treatment wetlands incorporating fungal-inoculated substrates
-  for decentralized treatment applications
-
-## See Also
-- [[singh-fungal-consortia-synergistic-biodegradation]]
-- [[singh-fungal-degradation-pesticides]]

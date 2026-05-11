@@ -9,11 +9,11 @@ sources: []
 
 # Chanterelle Guide
 
-Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers. (see [[comparison-morel-vs-chanterelle]]).
+Chanterelles are among the most prized [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]] foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
 
 ## Overview
 
-"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one of the most commercially important groups of wild-foraged mushrooms worldwide. (see [[chanterelle-species-eastern-us]]).
+"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one of the most commercially important groups of wild-foraged mushrooms worldwide.
 
 ## Major Species
 
@@ -27,10 +27,10 @@ The most widely known and collected chanterelle:
 - Stem: solid, tapers downward, same color as cap
 - Flesh: firm, white to pale yellow
 - Odor: distinctive — fruity, apricot-like
-- Spore print: pale yellow to cream
+- [[boil-a-bag-spore-print-technique-jarrold]]: pale yellow to cream
 - Habitat: mixed forests, primarily with oak, beech, birch, spruce, and Douglas-fir
 - Season: June through October (varies by region)
-- Distribution: widespread across North America, Europe, and Asia
+- Distribution: widespread across [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia
 
 ### Cantharellus cinnabarinus (Cinnabar Chanterelle)
 
@@ -59,21 +59,21 @@ The most widely known and collected chanterelle:
 - Habitat: hardwood forests, especially with oak and beech
 - Season: summer through fall
 - Flavor: exceptional — one of the most flavorful wild mushrooms; rich, earthy, truffle-like
-- Color makes it difficult to spot against forest floor
+- Color makes it difficult to spot against [[fungal-ecology-forest-floor]]
 
 ### Cantharellus lateritius (Smooth Chanterelle)
 
 - Cap: orange, smooth underside (nearly absent false gills)
-- Common in eastern North America
+- Common in [[polypore-fungi-eastern-north-america]]
 - Good edible but less flavorful than C. cibarius
 
 ## Mycorrhizal Ecology
 
-All chanterelle species form ectomycorrhizal associations with trees:
+All chanterelle species form [[ectomycorrhizal-associations]] with trees:
 
 - They form a sheath around fine root tips of compatible host trees
 - Exchange soil minerals and water for photosynthetic sugars
-- Can form extensive mycelial networks connecting multiple trees
+- Can form extensive [[fungal-mycelial-networks-nutrient-translocation]] connecting multiple trees
 - Fruiting is triggered by specific environmental cues:
   - Adequate soil moisture (after rain events)
   - Moderate temperatures (55-70 F for most species)
@@ -89,7 +89,7 @@ Different chanterelle species associate with different trees:
 - Oak (Quercus): C. cibarius, C. lateritius, C. cornucopioides
 - Beech (Fagus): C. cibarius, C. cornucopioides
 - Spruce (Picea): C. cibarius, C. tubaeformis
-- Douglas-fir (Pseudotsuga): C. cibarius (Pacific Northwest)
+- Douglas-fir (Pseudotsuga): C. cibarius ([[psilocybin-north-america-pacific-northwest]])
 - Hemlock (Tsuga): C. tubaeformis
 - Birch (Betula): C. cibarius, C. cinnabarinus
 
@@ -121,7 +121,7 @@ The most dangerous chanterelle look-alike:
 
 - Bright orange-yellow jelly-like fungus
 - Brain-like or lobed texture
-- Grows on dead wood
+- Grows on [[fungal-dead-wood-diversity]]
 - Not a chanterelle but sometimes confused by beginners due to color
 
 ### Key Identification Rules

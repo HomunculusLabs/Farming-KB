@@ -12,7 +12,7 @@ type: concept
 
 ## Definition and Host Range
 
-Ericoid mycorrhizae are a specialized type of endomycorrhizal symbiosis
+[[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] are a specialized type of endomycorrhizal symbiosis
 formed between fungi and plants of the Ericaceae family (heathers, heaths,
 and related species). In this association, the fungal symbiont penetrates
 and establishes within cortical cells of the host root. Ericoid mycorrhizae
@@ -23,7 +23,7 @@ soils are typically acidic, organic, and nutrient-poor.
 
 Ericoid mycorrhizae were among the types recognized by A.B. Frank in 1887
 when he distinguished between ectotrophic and endotrophic mycorrhizae.
-Unlike arbuscular mycorrhizae, which form arbuscules and vesicles within
+Unlike [[glomeromycota-arbuscular-mycorrhizae]], which form arbuscules and vesicles within
 root cells, ericoid mycorrhizae form dense hyphal coils that fill the
 cortical cells completely. Unlike ectomycorrhizae, the fungal hyphae
 penetrate directly into host cells rather than forming an intercellular
@@ -50,7 +50,7 @@ the period prior to breakdown of the infected cell.
 
 ## Fungal Partners
 
-Ericoid mycorrhizal fungi are predominantly ascomycetes, though some
+[[singh-ericoid-mycorrhizal-fungi-remediation]] fungi are predominantly ascomycetes, though some
 basidiomycete species have also been reported. Common genera include
 *Pezizella* (syn. *Rhizoscyphus*), *Oidiodendron*, and *Chaetothyriales*
 members. These fungi have a relatively broad host range within the
@@ -65,14 +65,14 @@ ecosystems.
 
 ## Nutrient Acquisition in Acidic Soils
 
-Ericoid mycorrhizal associations are particularly adapted to acidic,
+Ericoid [[plants-without-mycorrhizal-associations]] are particularly adapted to acidic,
 organic soils with low [[ph-and-nutrient-availability-garden-soils]]. The fungi play a crucial role
 in [[fungal-nitrogen-mineralization-pathways]], breaking down complex organic nitrogen compounds
 in soil organic matter and making nitrogen available to the host plant. This
 capability is essential in heathland soils where most nitrogen is bound in
 recalcitrant organic forms such as polyphenols and lignin-derived compounds.
 
-The fungal hyphae produce a range of extracellular enzymes including
+The fungal hyphae produce a range of [[fungal-extracellular-enzymes]] including
 proteases, chitinases, and cellulases that enable decomposition of organic
 matter. They can also access phosphorus from organic sources that would be
 unavailable to non-mycorrhizal roots, making them critical for plant
@@ -87,62 +87,3 @@ These siderophores are exuded by the extraradical mycelium and serve to
 solubilize and acquire iron from the soil environment, which is often
 limited in availability in acidic organic soils due to binding with organic
 compounds.
-
-The production of ferricrocin by ericoid mycorrhizal fungi is notable
-because this same siderophore is also produced by the widespread
-ectomycorrhizal fungus *Cenococcum geophilum* and by the dark septate
-endophyte *Phialocephala fortinii*, suggesting convergent evolutionary
-strategies for iron acquisition among root-associated ascomycetes.
-
-## Ecological Significance in Heathland Ecosystems
-
-Ericoid mycorrhizae are keystone symbioses in heathland, boreal, and tundra
-ecosystems. These ecosystems cover vast areas of the globe and are
-characterized by acidic, nutrient-poor soils with slow decomposition rates.
-Without ericoid mycorrhizal fungi, Ericaceae species would be unable to
-compete effectively in these harsh environments.
-
-The ability of ericoid mycorrhizal fungi to decompose organic matter and
-access nitrogen from complex organic compounds gives them a unique
-ecological role. They effectively bridge the gap between saprotrophic
-decomposition processes and plant nutrient acquisition, functioning as both
-symbionts and decomposers.
-
-## Role in Ecosystem Nitrogen Cycling
-
-In ecosystems dominated by Ericaceae, ericoid mycorrhizal fungi are major
-contributors to nitrogen cycling. They mineralize organic nitrogen and
-transfer it to host plants, influencing the overall nitrogen budget of the
-ecosystem. The efficiency of this [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]] can affect plant
-[[core-endorhiza-bacterial-community-composition-cannabis]] and ecosystem productivity.
-
-Ericoid mycorrhizal associations also influence competition between plant
-species. Ericaceous plants with effective mycorrhizal partners can outcompete
-other species in nitrogen-limited heathland soils, contributing to the
-maintenance of species-poor heathland communities.
-
-## Adaptations to Environmental Stress
-
-Ericoid mycorrhizal associations help host plants tolerate various
-environmental stresses common in heathland ecosystems. These include low
-soil pH, low nutrient availability, waterlogging, and exposure to heavy
-metals. The fungal partner can sequester toxic metals, reduce aluminum
-toxicity, and improve water relations under drought conditions.
-
-## Research Directions
-
-Understanding the molecular mechanisms of ericoid mycorrhizal symbiosis is
-an active area of research. Genomic studies of ericoid mycorrhizal fungi
-are revealing the genetic basis of their saprotrophic capabilities and
-symbiotic lifestyle. The identification of siderophore biosynthesis genes
-and organic matter decomposition enzymes provides insights into how these
-fungi function in their challenging soil environments.
-## See Also
-
-- mycorrhizal-symbiosis
-- [[ectomycorrhizal-associations]]
-- [[mycorrhiza-nutrient-exchange]]
-- arctostaphylos-uva-ursi
-- [[decomposition]]
-- [[ectomycorrhiza]]
-- [[arbutoid-mycorrhiza]]

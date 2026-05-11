@@ -88,39 +88,3 @@ the normal time required for a soil grow. Additional benefits include:
 
 The biggest problem with hydroponics is that if the system is not well
 maintained, the entire unit may fail and kill plants very quickly.
-Specific concerns include:
-
-- pH can slip up and down very quickly in hydroponics systems and
-  requires frequent monitoring.
-- Algae growth can occur if the [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] is exposed to light.
-  Reservoirs should be kept light-tight using thick black PVC tape or
-  similar materials.
-- Nutrient strength must be carefully managed -- cannabis often finds
-  full-strength hydroponic formulations too strong. It is recommended
-  to start at 30% strength and increase if needed.
-- Systems require more maintenance than soil grows, including regular
-  reservoir changes and equipment checks.
-
-## pH in Hydroponic Systems
-
-[[green-cannabis-grow-bible-nutrient-management-ppm]] differs
-between soil and hydroponic systems:
-
-- Soil systems: Cannabis prefers a pH of 7.0.
-- Hydroponic systems: Cannabis prefers a pH range of 5.2 to 6.3.
-- pH Up and pH Down liquid adjusting solutions are used in hydroponics
-  rather than the lime or [[cervantes-organic-amendments-chart]] used in soil.
-
-## Grow and Bloom Formulations
-
-Hydroponic nutrients typically come in two-part formulations:
-
-- Grow solution: Used during the vegetative stage, with higher nitrogen
-  content.
-- Bloom solution: Used during the flowering stage, containing more
-  phosphorus and potassium and less nitrogen.
-
-Some packs offer all-in-one formulations, but these may lack certain
-supplementary nutrients found in dedicated grow and bloom formulas.
-
-## Relationship to Soil Growing

@@ -22,10 +22,10 @@ sources:
 
 ## Overview
 
-Larry OG is an indica-dominant hybrid cannabis strain with roots in the
+Larry OG is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain with roots in the
 legendary OG Kush family tree. Believed to have been cultivated in Southern
 California during the early 2000s, it carries the characteristic fuel,
-lemon, and pine terpene profile that defines the OG lineage while adding
+lemon, and pine [[cannabis-terpene-profile]] that defines the OG lineage while adding
 its own subtle earthy sweetness.
 Named purportedly after its original grower "Larry," the strain has earned
 a reputation for potent full-body relaxation paired with cerebral calm,
@@ -42,7 +42,7 @@ and has served as a parent in several notable crosses.
 - **Type:** Indica-dominant hybrid (approximately 70% indica / 30% sativa)
 - **Lineage:** OG Kush × Unknown indica (possibly SFV OG)
 - **Breeder:** Anonymous Southern California grower, early 2000s
-- **THC content:** 19–26% (varies by cultivation)
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 19–26% (varies by cultivation)
 - **CBD content:** Low (<1%)
 
 ## Aroma and Flavor Profile
@@ -63,11 +63,11 @@ and has served as a parent in several notable crosses.
   - Mild euphoria, warm body sensations, heavy eyelids
 - **Body effects:** Strong sedative body stone, muscle tension relief,
   couch-lock at higher doses
-- **Medical applications:**
+- **[[oner-sativa-medical-applications]]:**
   - [[cannabis-chronic-pain-management]] management (back pain, joint inflammation, neuropathy)
   - Insomnia — one of its most consistently reported benefits
   - Anxiety and stress relief
-  - Appetite stimulation
+  - [[cannabis-for-cachexia-and-appetite-stimulation]]
   - Muscle spasms and cramping
 - **Side effects:**
   - Dry mouth and dry eyes (common)
@@ -77,7 +77,7 @@ and has served as a parent in several notable crosses.
 
 ## Growing Characteristics
 
-- **Flowering time:** 8–9 weeks indoors
+- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors
 - **Yield:** Moderate — 300–400 g/m² indoors; 400–500 g/plant outdoors
 - **Height:** Medium-tall, 100–150 cm indoors; can exceed 200 cm outdoors
 - **Difficulty:** Moderate — requires attention to nutrient needs and
@@ -88,26 +88,3 @@ and has served as a parent in several notable crosses.
   susceptibility to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions
 - **Nutrient needs:** Moderate to heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]];
   reduce nitrogen in late flowering
-- **Training:** Responds well to LST (low-stress training), topping, and
-  ScrOG ([[thin-mint]] GSC
-  - **Larry's OG:** Various backcrosses to OG Kush lines
-  - **Tahoe OG:** Related OG phenotype with similar profile
-  - Used as a parent in numerous proprietary OG crosses by West Coast breeders
-
-## Cultural Significance
-
-- Named after its purported original cultivator "Larry" in the Los Angeles
-  cannabis underground of the early 2000s
-- Considered a "tier 1" OG cut among Southern California collectors — a
-  designation reserved for the most sought-after OG phenotypes
-- Helped establish the premium [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] market in California before
-  statewide legalization
-- Frequently appears on dispensary menus across legal U.S. markets
-- Has maintained popularity despite the proliferation of newer strains,
-  testament to the enduring appeal of the OG Kush genetic line
-
-## See Also
-
-- [[sour-diesel]] — Chemdawg-lineage strain with complementary terpene profile
-- sfv og — San Fernando Valley OG, possible parent strain
-- [[myrcene]] — Dominant sedative terpene in Larry OG

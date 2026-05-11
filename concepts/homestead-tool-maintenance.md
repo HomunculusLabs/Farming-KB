@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Tool Maintenance
 
-Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on hand tools — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
+Well-maintained tools work better, last longer, and are safer to use. A [[homesteading]] relies heavily on [[garden-hand-tools]] — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
 
 ## Basic Tool Care Principles
 
@@ -30,7 +30,7 @@ Well-maintained tools work better, last longer, and are safer to use. A [[homest
 ### Store Properly
 
 - Hang tools or store them off the ground
-- Keep in a dry location (humidity causes rust and wood rot)
+- Keep in a dry location (humidity causes rust and [[singh-wood-rot-fungi-structural-timber-decay]])
 - Organize so tools do not bang against each other (prevents edge damage)
 - Use tool racks, pegboards, or shadow boards for organization
 
@@ -148,8 +148,3 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Penetrates deeply, water-resistant
 - More expensive than linseed oil
 - Reapply annually
-
-
-## See Also
-- [[well-drilling-and-maintenance]]
-- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]

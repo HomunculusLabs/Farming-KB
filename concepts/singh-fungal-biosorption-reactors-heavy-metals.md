@@ -29,7 +29,7 @@ mixer, causing flocculation of biomass, and the solution is discharged
 into a settling tank. This continuous process achieves 87% copper
 reduction at a flow rate of 1.5 L/min. Batch stirred-tank reactors in
 series have also demonstrated adsorption of Cu(II) and Ni(II) by
-Rhizopus arrhizus (Sag and Kutsal, 1995).
+[[rhizopus-arrhizus]] (Sag and Kutsal, 1995).
 
 ## Continuous-Flow Stirred-Tank Reactors
 
@@ -37,7 +37,7 @@ In continuous-flow stirred-tank reactors (CFST), the chamber is similar
 to batch systems but with continuous supply of metal solution. Two basic
 types exist: one using continuous feed of fresh biosorbent harvested
 from the bioreactor effluent, and another retaining a batch of
-biosorbent by retention in the reactor. Heavy metals have been removed
+biosorbent by retention in the reactor. [[mycoremediation-heavy-metals]] have been removed
 in CFST systems using Rhizopus arrhizus, achieving 36% removal of
 Pb(II), 16% of Ni(II), and 13% of Cu(II) (Sag et al., 2000b).
 
@@ -58,16 +58,16 @@ biomass reuse, and phase separation after metal uptake. Dead fungal
 biomass can be immobilized in polyacrylamide, alginate, polysulfone,
 textile fibers, and inorganic compounds. Three immobilization techniques
 are used: entrapment, encapsulation, and bonding. Biomass-polysulfone
-beads for Aspergillus niger display good handling qualities with
+beads for [[aspergillus-niger]] display good handling qualities with
 negligible biomass loss (Kapoor and Viraraghavan, 1998b).
 
 ## Performance of Key Biosorbents
 
-Aspergillus oryzae in a chemostat achieved greater than 99% Cu(II)
+[[aspergillus-oryzae]] in a chemostat achieved greater than 99% Cu(II)
 removal with 5 x 10(-3) M HClO4 elution (Huang and Huang, 1996).
 Aspergillus niger immobilized in polysulfone matrix removed over 50% of
 Pb(II), Cd(II), Cu(II), and Ni(II) with 0.05 N HNO3 regeneration.
-Saccharomyces cerevisiae immobilized in PVA gel achieved 97% Cu(II)
+[[saccharomyces-cerevisiae]] immobilized in PVA gel achieved 97% Cu(II)
 removal over 24 hours with 5 regeneration cycles (Ting and Sun, 2000).
 
 ## White-Rot Fungi in Biosorption
@@ -86,34 +86,5 @@ Live mycelia of P. chrysosporium achieved Hg(II) uptake of 66 mg/g and
 Cd(II) of 50 mg/g, while heat-inactivated mycelia showed increased
 uptake of 112 and 85 mg/g, respectively (Kacar et al., 2002).
 Ca-alginate immobilized biomass further enhanced removal. Combined with
-Trametes versicolor, P. chrysosporium immobilized on carboxymethyl
+[[staycare-trametes-versicolor-bioremediation-applications]], P. chrysosporium immobilized on carboxymethyl
 cellulose removed UO2(II) at capacities of 309.1 and 158 mg/g from
-synthetic wastewater (Genc et al., 2003).
-
-## Multiple Metal Removal Systems
-
-Mucor rouxii immobilized in polysulfone matrix demonstrated Pb(II)
-uptake of 4.0 mg/g, Cd(II) of 3.7 mg/g, Ni(II) of 0.36 g/g, and
-Zn(II) of 1.36 mg/g (Yan and Viraraghavan, 2001). Funalia trogii live
-mycelia achieved remarkable Hg(II) uptake of 333.0 mg/g, Cd(II) of
-164.8 mg/g, and Zn(II) of 42.1 mg/g, while heat-inactivated biomass
-showed even higher capacities: 403.2 mg/g for Hg(II) and 191.6 mg/g
-for Cd(II) (Arica et al., 2004).
-
-## Reactor Design Considerations
-
-Increased removal efficiencies, reduced pressure drops, low capital and
-operational costs make immobilized biosorption attractive. High flow
-rates can be handled with less clogging in immobilized reactors.
-Variants of packed-bed systems include stirred-tank and airlift
-fixed-bed or fluidized-bed bioreactors. The choice of eluant, number of
-regeneration cycles, and contact time are critical design parameters.
-
-## See Also
-
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- fungal-biosorption-desorption-regeneration
-- [[singh-fungal-biosorption-lead-copper]]
-- [[singh-fungal-biosorption-heavy-metals]]
-- [[staycare-fungal-biosorption-of-heavy-metals]]
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]

@@ -24,7 +24,7 @@ Ranunculus lingua, the greater spearwort, is a robust perennial aquatic plant in
 
 The species inhabits the margins of lakes, ponds, slow-moving rivers, ditches, and wet marshland. Its tall, erect stems bearing bright yellow flowers make it one of the most conspicuous wetland ranunculi.
 
-Unlike the more common lesser spearwort (Ranunculus flammula), R. lingua is noticeably larger in all parts and has a more restricted distribution, favoring calcareous wetlands and fen systems.
+Unlike the more common lesser spearwort ([[ranunculus-flammula]]), R. lingua is noticeably larger in all parts and has a more restricted distribution, favoring calcareous wetlands and fen systems.
 
 The species has declined across parts of western Europe due to wetland drainage and eutrophication. It is classified as Near Threatened in several European countries.
 
@@ -75,7 +75,7 @@ The species is most abundant in northern and central Europe, particularly in the
 
 It grows in shallow standing water or saturated mud at the margins of lakes, ponds, slow rivers, drainage ditches, and fen systems. Water depth tolerance extends to 30 cm.
 
-The species favors calcareous to neutral substrates and mesotrophic to eutrophic water conditions. It is characteristic of tall-herb fen communities, often growing alongside Phragmites australis, Carex elata, and Typha latifolia.
+The species favors calcareous to neutral substrates and mesotrophic to eutrophic water conditions. It is characteristic of tall-herb fen communities, often growing alongside [[phragmites-australis]], Carex elata, and [[typha-latifolia]].
 
 Elevational range extends from sea level to approximately 1,500 m in southern parts of its range. Mountain populations are typically found in calcareous spring-fed fens.
 
@@ -88,34 +88,3 @@ Ranunculus lingua is a competitive species in tall-herb fen vegetation, where it
 The flowers produce abundant pollen and nectar, attracting a range of insect pollinators including hoverflies, muscid flies, and small beetles. Self-compatibility ensures seed set even when pollinator visits are infrequent.
 
 Achenes are dispersed by water (hydrochory) and can remain viable after floating for several weeks. Water birds may also contribute to long-distance dispersal via external transport.
-
-The species provides habitat structure for aquatic invertebrates and shelter for amphibian larvae in shallow water. Its dense stands create favorable microhabitat for wetland birds.
-
-Ranunculus lingua contains ranunculin, which hydrolyzes to the toxic compound protoanemonin when plant tissue is damaged. This deters most herbivores, though cattle occasionally graze young shoots in flooded pastures.
-
-### Conservation
-
-Ranunculus lingua has declined significantly across western Europe due to wetland drainage, agricultural intensification, and river canalization.
-
-The species is listed as Endangered in Switzerland, Vulnerable in Germany, and Near Threatened in several other European countries. British populations have contracted substantially since the 1950s.
-
-Eutrophication poses a significant threat, as nutrient enrichment favors competitive dominants such as Phragmites australis and Typha latifolia that shade out R. lingua.
-
-Conservation measures include protection of remaining fen systems, restoration of shallow lake margins, and maintenance of traditional ditch management cycles.
-
-Ex-situ conservation through seed banking and cultivation in botanical gardens provides a safeguard for populations at risk of local extinction.
-
-Reintroduction programs in the Netherlands and Germany have successfully established new populations in restored wetland reserves.
-
-## See Also
-
-- [[ranunculus-acris]] — meadow buttercup, common terrestrial relative
-- [[ranunculus-bulbosus]] — bulbous buttercup, dry grassland species
-- [[ranunculus-ficaria]] — lesser celandine, spring-flowering relative
-- [[caltha-palustris]] — marsh marigold, shared wetland habitat
-- [[anemone-nemorosa]] — wood anemone, another Ranunculaceae species
-- [[trollius-europaeus]] — globeflower, wetland Ranunculaceae
-- [[aconitum-napellus]] — monkshood, toxic Ranunculaceae relative
-- [[pulsatilla-vulgaris]] — pasque flower, dry grassland Ranunculaceae
-- [[thalictrum-aquilegiifolium]] — meadow rue, ornamental Ranunculaceae
-- [[clematis-recta]] — ground clematis, Ranunculaceae relative

@@ -29,7 +29,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 
 ### Temperature Zones
 
-| Zone | Temperature Range | Crops |
+| Zone | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Crops |
 |------|------------------|-------|
 | Cold and moist | 32-40F, 90-95% humidity | Carrots, beets, parsnips, turnips, rutabagas |
 | Cool and dry | 50-60F, 60-70% humidity | Potatoes |
@@ -40,9 +40,9 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 
 - **Temperature consistency** — Fluctuations cause condensation, sprouting, and decay. Aim for variation of less than 5F
 - **Humidity** — Too dry: roots shrivel. Too wet: rot and mold. Most roots need high humidity
-- **Ventilation** — Roots are alive and respire. They need oxygen and produce carbon dioxide. Stagnant air causes off-flavors and decay
+- **Ventilation** — Roots are alive and respire. They need oxygen and produce [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]. Stagnant air causes off-flavors and decay
 - **Darkness** — Light causes potatoes to turn green (solanine production) and most roots to sprout
-- **Air circulation** — Roots should not be packed tightly. Air must flow around them
+- **[[stamets-growing-room-air-circulation-co2-management]]** — Roots should not be packed tightly. Air must flow around them
 
 ### Potatoes
 
@@ -60,7 +60,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 ### Storage Methods
 
 **In sand or sawdust (best for home storage):**
-1. Use a clean container (wooden crate, plastic bin, or cardboard box)
+1. Use a clean container (wooden crate, [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]], or [[cardboard-box-inoculation-hood-draft-prevention-mycology]])
 2. Alternate layers of carrots with slightly damp sand or sawdust
 3. Do not let carrots touch each other (prevents rot spread)
 4. Keep sand barely moist — not wet, not dry
@@ -141,10 +141,3 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - **Rapid softening** — Turnips lose quality faster than carrots or beets
 
 ## Rutabaga Storage (Brassica napus)
-
-### Ideal Conditions
-- Temperature: 32-35F
-- Humidity: 90-95%
-- Darkness: Important
-- Ventilation: Good
-

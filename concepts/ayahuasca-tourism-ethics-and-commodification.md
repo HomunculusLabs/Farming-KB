@@ -20,7 +20,7 @@ The ethical landscape is complex, involving tensions between genuine cross-cultu
 
 A core ethical tension is that commercialized [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] tend to be shallower than rituals conducted solely for the shaman's relatives and community.
 
-The article states plainly that "the character of a commercialized ayahuasca ceremony would probably be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community."
+The article states plainly that "the character of a commercialized [[ayahuasca-ceremony-pharmacology-safety]] would probably be shallower than a ritual conducted solely for the benefit of the shaman's relatives and community."
 
 In a tourist-oriented ceremony, visitors observe ritual procedures and hear icaros (sacred chants), but the experience is fundamentally observational rather than participatory.
 
@@ -32,7 +32,7 @@ The ceremonial depth, communal intention, and cosmological specificity that char
 
 ### Linguistic and Cultural Barriers
 
-Even in ordinary states of consciousness, linguistic barriers and cultural misunderstandings confound communication between foreign tourists and indigenous practitioners.
+Even in ordinary [[mckenna-food-gods-designer-states-of-consciousness]], linguistic barriers and cultural misunderstandings confound communication between foreign tourists and indigenous practitioners.
 
 These barriers are amplified during [[weil-the-natural-mind-altered-states-normalcy]] of consciousness, making genuine spiritual transmission extremely difficult in a commercial setting.
 
@@ -66,11 +66,11 @@ The article documents a consistent pattern of exploitation by some practitioners
 
 - Another practitioner ("A") swindled the author on the price of a tobacco pipe, leading to declined invitations for rituals -- a decision that protected the author but also meant missing potentially valuable ceremonial experiences.
 
-These observations coexist with accounts of honorable practitioners, such as "E" in San Francisco, who was "widely regarded as an honorable man" and conducted private family services at night alongside his commercial offerings.
+These observations coexist with accounts of honorable practitioners, such as "E" in [[san-francisco-shipibo-ayahuasca-ceremonial-center]], who was "widely regarded as an honorable man" and conducted private family services at night alongside his commercial offerings.
 
 The uneven quality of practitioners creates a landscape where exploitation is common enough to warrant caution but not universal enough to condemn the entire industry.
 
-This ambiguity makes ethical navigation particularly difficult for tourists, who must distinguish genuine practitioners from opportunists without adequate information or cultural context.
+This ambiguity makes ethical navigation particularly difficult for tourists, who must distinguish genuine practitioners from opportunists without adequate information or [[ayahuasca-pharmacology-and-cultural-context]].
 
 ### Asymmetric Power and Information
 
@@ -87,60 +87,3 @@ Without regulatory oversight, credentialing, or reliable review mechanisms, tour
 ### Price Discrimination and Wealth Concentration
 
 Economic disparity is central to the ethical problem.
-
-One shaman in Yarina earns "a couple hundred dollars per month catering to tourists while his neighbors cannot even afford a thirty cent taxi ride."
-
-He charges thirty dollars to give ayahuasca to a tourist while the going rate for a Peruvian is about two dollars.
-
-This fifteen-fold price differential underscores how tourism distorts local economies and creates incentives for exploitation.
-
-Tourism income concentrates wealth in individual practitioners rather than distributing it through community structures.
-
-While traditional Shipibo practice operates within kinship networks of mutual obligation, commercial tourism creates individual entrepreneurs whose wealth is measured against impoverished neighbors.
-
-### The Business Reality
-
-The article bluntly frames the situation: "be aware that ayahuasca tourism is a thriving business in Peru, and that you will likely be treated as just that -- a tourist."
-
-This framing highlights the fundamental ethical tension: authentic spiritual exchange is structurally difficult when one party is a paying consumer and the other is economically motivated to provide a service.
-
-The consumer relationship transforms the seeker-practitioner dynamic into a vendor-client transaction, regardless of the spiritual language used to describe it.
-
-## Cultural Appropriation Dimensions
-
-The article's historical framing situates ayahuasca tourism within a pattern of Western spiritual appropriation spanning decades: Beats adopting Zen in the 1950s, hippies flocking to Hindu swamis in the 1960s, New Agers embracing Tibetan lamas in the 1980s, and shamanism coming into vogue in the 1990s.
-
-This pattern suggests that Western engagement with indigenous practices is driven partly by exoticism and a serial quest to "assimilate this estranged manifestation of the Other."
-
-Each wave of appropriation extracts spiritual techniques from their cultural contexts, often distorting them in the process.
-
-Ayahuasca [[ayahuasca-tourism-risks-and-ethics]] a similar dynamic: Western seekers consume indigenous ceremonies as exotic experiences, strip them of their cultural specificity, and reinterpret them through Western frameworks of personal growth and [[metzner-psycholytic-psychedelic-therapy-models]].
-
-## The Do-It-Yourself Alternative
-
-The author suggests that travelers specifically interested in ayahuasca experiences rather than cultural immersion could home-brew with ingredients from ethnobotanical suppliers, using an experienced friend as a sitter.
-
-This raises its own ethical questions: removing the practice from indigenous context entirely may represent a more thoroughgoing appropriation than tourism, even as it avoids the exploitative dynamics of commercial retreats.
-
-The home-brewing option also raises safety concerns -- without an experienced practitioner present, the risks of adverse reactions increase.
-
-The article's suggestion that "this do-it-yourself approach could potentially be far more enlightening than what one might experience after traveling all the way to South America" reflects both the author's skepticism about tourism's value and an implicit acknowledgment that authentic experience may be more accessible through direct engagement than through commercial intermediaries.
-
-## Safety Ethics
-
-The medical dimension of the ethics problem is stark.
-
-Most shamans are unfamiliar with Western pharmaceuticals, making it the tourist's responsibility to know about adverse interactions with medications for AIDS, depression, and psychiatric disorders.
-
-A documented fatality in Bolivia -- an AIDS patient who died during a ceremony despite being healthy enough to dance at the beginning -- represents the most serious consequence of this knowledge gap.
-
-The ethical burden falls on both practitioners (to acknowledge the limits of their medical knowledge) and tourists (to exercise due diligence about pharmacological contraindications).
-
-The absence of regulatory oversight means no systematic screening, no informed consent protocols, and no liability frameworks to protect vulnerable participants.
-## See Also
-
-- [[ayahuasca-tourism-risks-and-ethics]]
-
-- [[ayahuasca-tourism-shamanic-tourism-economics]] -- economic structures enabling exploitation
-- [[ayahuasca-tourism-peru-retreat-landscape]] -- where these ethical dynamics play out
-- [[ayahuasca-tourism-legal-status-by-country]] -- legal frameworks (or their absence) for consumer protection

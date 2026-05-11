@@ -1,10 +1,11 @@
 ---
-title: "Halotolerant and Halophilic Fungi in Saline Environments"
+title: Halophilic Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 # Halophilic Fungi
 Halophilic and halotolerant fungi are adapted to environments with
@@ -55,7 +56,7 @@ Naturally hypersaline environments such as salt flats, saltpans, and
 brine pools are primarily the domain of prokaryotes and algae (Post
 1977). Guiraud and colleagues (1995) reported that no strictly
 halophilic fungi (only halotolerant fungi) were isolated from 56
-localities along the Dead Sea valley.
+localities along the [[allegro-dead-sea-scrolls]] valley.
 Black, yeastlike fungi associated with hypersaline saltpans include:
 
 - **Hortaea werneckii** and **Phaeotheca triangularis** of the
@@ -63,13 +64,13 @@ Black, yeastlike fungi associated with hypersaline saltpans include:
 - **Trimmatostroma salinum** of the Chaetothyriales
 - **[[aureobasidium-pullulans]]** (facultatively halotolerant)
 
-Typical marine fungi have not been detected in saltpan environments,
+Typical [[marine-fungi-diversity-sampling]] have not been detected in saltpan environments,
 suggesting distinct evolutionary pathways and ecological
-specializations between marine and hypersaline fungal communities.
+specializations between marine and hypersaline [[biodiversity-fungi-soil-fungal-communities]].
 
 ## Osmotic Versus Matric Water Stress
 
-An important distinction in fungal salt tolerance involves the mechanism
+An important distinction in [[fungal-salt-tolerance-and-ion-homeostasis]] involves the mechanism
 of water stress:
 
 - **Osmotic stress:** caused by high concentrations of dissolved
@@ -87,63 +88,3 @@ conditions.
 ## Cellulose Decomposition Under Salinity
 
 Cellulose decomposition by some *Aspergillus* species increases with
-salt concentrations from 3-10% (Malik et al. 1982), suggesting that
-halotolerant fungi can maintain important ecosystem functions even in
-saline environments. This has implications for [[fungal-decomposition-processes]]
-in salt marshes, [[dighton-fungi-mangrove-coastal-ecosystems]], and saline agricultural soils.
-
-## Physiological Adaptations
-
-Halophilic and halotolerant fungi employ several physiological
-strategies to cope with high salt concentrations:
-
-### Compatible Solute Accumulation
-
-Many halophilic fungi accumulate compatible solutes as intracellular
-osmolytes that balance external [[fungal-fruiting-body-mechanics-osmotic-pressure]] without interfering
-with cellular metabolism:
-
-- **Glycerol:** the most common fungal osmolyte, accumulated at high
-  concentrations under salt stress
-- **Erythritol and arabitol:** polyols that function as compatible
-  solutes in some species
-- **Trehalose:** a disaccharide that protects proteins and membranes
-  under osmotic and thermal stress
-- **Mannitol:** contributes to osmotic balance and may also serve as
-  a storage carbohydrate
-
-### Ion Homeostasis
-
-(Section truncated for length.)
-
-## Ecological Significance
-
-Halophilic fungi contribute to [[nutrient-cycling-in-soil]] saline environments
-including salt marshes, coastal dunes, and hypersaline lakes. They play
-key roles in:
-
-- **Organic matter decomposition:** Breaking down plant litter and
-  detritus in coastal and saline ecosystems
-- **Nutrient mineralization:** Converting organic nutrients into forms
-  available to plants and other organisms
-- **Food web support:** Serving as food sources for halophilic
-  invertebrates in saline food webs
-- **Soil aggregation:** Contributing to soil structure through
-  hyphal networks that bind soil particles
-The [[fungal-diversity-arid-environments]] and saline habitats provides
-a foundation for predicting how fungal communities will respond to
-ongoing environmental change and for managing saline agricultural soils.
-
-## Biotechnological Applications
-
-Enzymes produced by halophilic fungi that remain active at high salt
-concentrations have significant biotechnological potential:
-
-### Industrial Enzymes
-
-- **Salt-tolerant cellulases and xylanases:** Valuable for treatment of
-  saline wastewater and fermentation of salted food products
-## See Also
-
-- [[fungi-in-the-environment-fungal-soil-aggregation-structure]]
-- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-seed-selection-and-strain-types and Seed Banks - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Seed Selection And Seed Banks
 created: 2026-04-26
 tags:
   - cannabis-seeds
@@ -16,7 +16,7 @@ type: concept
 
 # Cannabis Seed Selection and Seed Banks
 
-Greg Green's Cannabis Grow Bible devotes Chapter 2 to the critical topic
+Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] devotes Chapter 2 to the critical topic
 of [[solomon-choosing-seeds-and-catalogs]] and selecting a reputable seed bank. Selecting the
 right seeds is one of the most important decisions a grower makes, as
 genetics fundamentally determine the potential of every plant.
@@ -69,7 +69,7 @@ Sativa in a small indoor space if the strain requires it.
 
 ## Seed Viability
 
-Seed quality matters enormously for germination success:
+[[seed-quality-and-selection-solomon]] matters enormously for germination success:
 
 - White seeds are immature and will not germinate. Avoid them.
 - Look for seeds with white and grey markings or other colors.
@@ -86,54 +86,4 @@ planning your grow:
 - Seedling stage: 2 to 3 weeks
 - [[cannabis-vegetative-growth-stage]]: 3 weeks to several months (grower controlled)
 - Pre-flowering: 1 to 2 weeks
-- Flowering: 6 to 10 weeks (strain dependent)
-
-Pure Sativa strains can run into the 6 to 9 month bracket for the full
-cycle. Indica can flower in as little as 6 weeks. Sativa/Indica hybrids
-generally fall into the 2 to 4 month flowering period.
-
-## Sinsemilla Production
-
-Flowering non-pollinated females (sinsemilla) is the primary goal for
-most growers. Sinsemilla means "without seed" in Spanish. When a female
-plant is not pollinated, it continues to produce resin and pistils in an
-effort to catch pollen, resulting in bigger and more potent buds.
-
-Seeded buds are less potent because the plant diverts energy away from
-[[cannabis-glandular-trichome-types-resin-production-clarke]] and into seed development. The sinsemilla technique is
-the single most important factor in producing high-quality cannabis.
-
-## Producing Your Own Seeds
-
-If a grower wants to produce seeds from a purchased strain, they can
-allow males to pollinate females from the same strain batch. A single
-female plant can produce between 100 and 2,000 seeds depending on plant
-size and grow conditions. Seeds should be harvested at the end of the
-flowering period when they are grayish in color. White seeds are not
-viable.
-
-For long-term storage (more than 2 years), seeds should be kept in a
-freezer. For shorter periods, a small film canister at room temperature
-works well enough. Pollen can also be stored in the freezer for up to
-18 months, though it is best used within 6 months.
-
-## Growing Factors
-
-When choosing seeds, consider your [[cannabis-growing-environment-setup]]:
-
-- Indoor space constraints favor Indica-dominant strains.
-- Outdoor grows can accommodate taller Sativa plants.
-- Guerrilla grows need hardy, fast-flowering varieties.
-- Your budget for seeds, equipment, and ongoing supplies.
-- Your level of growing experience.
-
-A grower is not limited by growing experience alone. They are limited
-by law, space, money, information, and good genetics. While the book
-cannot help with money, space, and the law, it provides growing
-information and guidance on where to obtain good genetics.
-
-## See Also
-
-- [[green-cannabis-grow-bible-cloning-and-seed-propagation]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]
+- Flowering: 6 to 10 weeks ([[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]])

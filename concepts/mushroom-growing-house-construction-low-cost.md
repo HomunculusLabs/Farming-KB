@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, mushrooms, cultivation]
 sources: [papers/benjamin-minge-duggar-mushroom-growing.md]
 ---
-Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivation-disabilities-training-manual-overview]] on [[accessible-mushroom-cultivation-for-disabilities]] for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom [[mollison-designers-house-design-climate-zones]], Thailand. A complete mushroom growing house for 1000 substrate bags can be constructed for approximately 500 Baht (US$12) using locally available materials. See also [[mushroom-cultivation-for-disabilities-training-program]].
+Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivation-disabilities-training-manual-overview]] on [[accessible-mushroom-cultivation-for-disabilities]] for People with Disabilities" by Johanne Hanko. Based on the Ubon Ratchathani mushroom [[mollison-designers-house-design-climate-zones]], Thailand. A complete [[low-cost-mushroom-growing-house-construction-developing-countries]] for 1000 [[oil-drum-sterilizer-mushroom-substrate-bags]] can be constructed for approximately 500 Baht (US$12) using locally available materials. See also [[mushroom-cultivation-for-disabilities-training-program]].
 
 ## Standard House Specifications
 
@@ -14,20 +14,20 @@ Updated: 2026-04-18 Source: FAO RAP Publication 2001/12, "A [[mushroom-cultivati
 - **Capacity**: 1000 substrate bags
 - **Frame**: 8 bamboo poles (3m each) for roof supports, plus side poles
 - **Walls**: Thatch or agricultural netting (sak yong) on sides
-- **Floor**: Bare ground or packed earth with a 20cm drain
+- **Floor**: [[savory-bare-ground-and-soil-exposure]] or packed earth with a 20cm drain
 
 ## Materials List
 
 | Material | Quantity | Cost (Baht) | Notes |
 |----------|----------|-------------|-------|
-| Bamboo poles (3m) | 8+ | 160 | Roof frame supports |
+| Bamboo poles (3m) | 8+ | 160 | [[reciprocal-roof-frame]] supports |
 | Rope/cord | 5 rolls | 50 | Binding frame |
 | Thatch panels or netting | Variable | 100 | Side walls |
 | Palm leaf thatch | Variable | 80 | Roof covering |
 | Nails | 1 kg | 30 | Frame connections |
 | Plastic sheeting | 6m x 3m | 80 | Ground moisture barrier |
 
-Total: approximately 500 Baht (US$12) for a basic 1000-bag mushroom house.
+Total: approximately 500 Baht (US$12) for a basic 1000-bag [[fao-accessible-mushroom-house-design-disabilities]].
 
 ## Construction Steps
 
@@ -87,49 +87,3 @@ This system is particularly suitable for wheelchair users as bags hang at access
 ## Country-Style Mushroom House
 
 A simpler version using existing structures:
-
-1. **Under-house utilization** - If the house has an open ground floor, use the space beneath
-2. **Between buildings** - Create a covered pathway between buildings with shade cloth
-3. **In a shed** - Convert existing animal shed or storage building
-4. **Under trees** - Hang bags from tree branches with minimal structure
-
-For the country-style approach, the most important requirement is:
-- Protection from direct sun
-- Protection from direct rain
-- Adequate ventilation
-- Easy access for daily watering and harvesting
-
-## Watering System
-
-- Spray bottle (hand-held): 20-40 Baht
-- Large watering can with fine spray: 60-100 Baht
-- Automatic mister (optional): 300-500 Baht
-
-Most disabled trainees use simple spray bottles. Water 2-4 times daily depending on humidity.
-
-## Adaptations for Disabilities
-
-- **Lower height**: Construct the house lower than standard (2m height) for wheelchair users
-- **Suspended bags**: Hang bags at working height instead of floor shelving
-- **Wider aisles**: Ensure 1m minimum aisle width for wheelchair passage
-- **Rolling cart**: Use a small cart for moving bags between inoculation, incubation, and fruiting areas
-- **Accessible watering**: Place water source inside or immediately adjacent to the house
-
-## Total Investment per Farmer
-
-For 1000 bags (Thailand 2000 costs):
-- Mushroom house: 500 Baht
-- Shelving: 800 Baht
-- Country-style pasteurization drum: 500 Baht
-- Spray bottle and tools: 200 Baht
-- Substrate bags (1000 bags): 4,000 Baht
-- Spawn: 2,500 Baht
-
-**Total startup: approximately 8,500 Baht (US$210)**
-
-Mushrooms can be produced and sold within 2-4 months, making this a rapid-return enterprise.
-
-See also: oyster-mushroom-growing-house-site-selection, [[mushroom-cultivation-for-disabilities-training-program]], [[mushroom-cultivation-fruiting-chambers]]
-
-## Merged: Victorian Mushroom Cellar and House Design
-Victorian-era mushroom cultivation relied on a variety of purpose-built and adapted structures, as detailed by William Falconer in "Mushrooms: How to Grow Them" (1891). Chapters II through V describe underground cellars, [[falconer-dwelling-house-mushroom-growing]] cellars, mushroom houses, sheds, and greenhouses — each offering distinct advantages for growing falconer-paris-cave-mushroom-cultivation (2 feet wide × 2 feet high, tapering to 6–8 inches at the top, with 1 foot alleys between ridges). See [[stone-cellar-building]] for further detail on cellar construction methods. See [[monotub-cultivation]], mushroom growing house construction low cost, victorian-mushroom-science, [[mushroom-grow-room-design]]

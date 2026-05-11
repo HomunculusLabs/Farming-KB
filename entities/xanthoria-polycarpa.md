@@ -87,34 +87,3 @@ The species is a pioneer to early-successional lichen that rapidly colonizes new
 Sexual reproduction through ascospore dispersal is the primary reproductive mode. Spores are released during wet conditions and can travel considerable distances on wind currents. Germination and establishment require a suitable bark surface with adequate nutrient availability.
 
 The species provides microhabitat for various invertebrates, including lichen-feeding specialist insects and generalist arthropod grazers. Its thallus supports diverse microfaunal communities that contribute to the decomposition of organic matter on bark surfaces.
-
-X. polycarpa is a reliable indicator of eutrophication in lichen communities. Its increasing abundance in many temperate forests has been correlated with rising atmospheric nitrogen deposition, while declining populations of nitrogen-sensitive lichens provide contrasting evidence of the same environmental change.
-
-In agricultural landscapes, X. polycarpa often forms extensive colonies on isolated trees and hedgerow trees that receive regular nutrient input from livestock and bird activity. These populations serve as source populations for dispersal to newly available substrates.
-
-The species is relatively tolerant of air pollution compared to many other foliose lichens, though it shows reduced growth rates in areas with very high sulfur dioxide concentrations. Its tolerance of moderate pollution levels, combined with its nitrophily, makes it a characteristic component of lichen communities in suburban and agricultural areas throughout its range.
-
-## Similar Species
-
-**Xanthoria parietina** is the most commonly confused species but is larger (5-15+ cm diameter), has broader and more loosely attached lobes, and typically grows in more sheltered locations. X. parietina also tends to have fewer, larger apothecia compared to the crowded fruiting bodies of X. polycarpa.
-
-**Xanthoria elegans** is a saxicolous species that grows on rock surfaces rather than bark. It forms a thicker, more leprose thallus and has a different ecological niche, occurring primarily on nutrient-enriched stones and rock faces in montane and coastal environments.
-
-**Caloplaca** species with orange apothecia can resemble X. polycarpa but are typically crustose rather than foliose and have different spore morphology. Most *Caloplaca* species lack the well-developed thallus lobes characteristic of *Xanthoria*. The distinction between *Xanthoria* and *Caloplaca* has been refined by molecular phylogenetics, with several species transferred between genera in recent decades.
-
-**Physcia adscendens** has a grey thallus with inflated lobe tips containing powdery soredia, but lacks the orange pigmentation and polarilocular spores of *Xanthoria*. The two species can co-occur on the same tree but occupy slightly different niches.
-
-**Xanthoria candelaria** is another potential lookalike, forming smaller, more shrubby cushions with narrower lobes. It is less common and typically found on more exposed, nutrient-enriched twigs and branches rather than on main trunks. The apothecia of X. candelaria tend to be smaller and more sessile than those of X. polycarpa.
-
-## See Also
-
-- [[xanthoria-parietina]]
-- [[xanthoria-elegans]]
-- [[physcia-stellaris]]
-- [[flavoparmelia-caperata]]
-- [[hypogymnia-physodes]]
-- [[lecanora-muralis]]
-- [[cetraria-islandica]]
-- [[cladonia-rangiferina]]
-- [[pertusaria-amara]]
-- [[evernia-prunastri]]

@@ -87,16 +87,3 @@ assumed, with some species restricted to specific substrate types or geographic
 regions.
 
 ## Knowledge Gaps
-
-Standard marine fungal isolation methods favor fast-growing Ascomycota and
-yeasts while under-sampling slow-growing Basidiomycota and obligate symbionts.
-Marine fungal metabarcoding studies often recover large proportions of sequences
-that do not match described species in reference databases. The UNITE database
-contains relatively few marine reference sequences, inflating unassigned
-sequences and hampering ecological interpretation.
-
-## See Also
-
-- [[fungal-biodiversity-deep-subsurface-caves]]
-- [[biodiversity-fungi-freshwater-aquatic-habitats]]
-- [[fungal-biodiversity]]

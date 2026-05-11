@@ -87,14 +87,3 @@ C. compacta, like many cactus species of the Chihuahuan Desert, faces potential 
 C. compacta can be compared with other psychoactive cacti of the Tarahumara region:
 
 - [[trichocereus-pachanoi]] — [[mescaline-peyote-and-san-pedro-guide]], a columnar cactus used in Andean ceremonies
-
-The primary distinction of C. compacta is its phenylethylamine alkaloid profile, which differs from the mescaline-rich profile of true Peyote. This chemical difference likely accounts for the Tarahumara belief that Bakana is more dangerous and unpredictable in its effects compared to Hikuri.
-
-## See Also
-
-- [[lophophora-williamsii]] — true Peyote, the primary Tarahumara visionary cactus
-- epithelantha-micromeris — another small cactus used by Tarahumara
-- [[trichocereus-pachanoi]] — San Pedro, another psychoactive cactus
-- ariocarpus-retusus — Matsawari, another hikuli cactus of the Tarahumara
-- pelecyphora-aselliformis — Sunami, used in Tarahumara ceremonies
-- mammillaria-craigiana — another cactus with reported psychoactive properties

@@ -1,5 +1,5 @@
 ---
-title: green cannabis grow bible flowering phase and harvest and Harvest - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Flowering Phase And Harvest
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -35,7 +35,7 @@ Switching to 12/12 before pre-flowers appear can cause:
 
 - **Hermaphroditism**: The plant produces both male and female flowers
   in a self-pollination response, triggered by the stress of irregular
-  photoperiod. This is not true "early flowering" -- it is a stress
+  photoperiod. This is not true "[[equatorial-photoperiod-early-flowering]]" -- it is a stress
   response. Hermie plants produce only female and hermaphrodite seeds,
   never male seeds. "Feminized" seeds sold commercially come from
   stressed females forced to produce male flowers.
@@ -66,7 +66,7 @@ Under strict 12/12, the female plant:
 2. Fan leaves stretch outward to maximize light collection
 3. Pistils at flower tips swell and change color: white to orange to
   red to brown
-4. Resin (trichomes) covers the flowers; resin glands can burst and
+4. Resin (trichomes) covers the flowers; [[greg-green-trichomes-and-resin-glands]] can burst and
   drop onto lower leaves
 5. Flowering reaches a peak, then the plant is ready for harvest
 
@@ -87,47 +87,3 @@ Signs that a plant is ready for harvest:
 Harvest timing also influences the type of high. Later harvests
 produce more couch-lock effect; harvesting just before peak induces a
 more cerebral high.
-
-## Harvesting Technique
-
-### Indica Harvest
-1. Cut the plant at the base (1-4 foot plants)
-2. Hang upside down in a cool, dark room with fresh air
-3. Remove fan leaves with clippers
-4. Remove secondary leaves into a separate pile
-5. Collect trim (small resin-covered leaves)
-6. Wait until branches break easily between fingers (2-3 weeks)
-
-### Sativa Harvest
-Similar process but large outdoor plants (up to 12 feet, 20+ oz bud)
-require a canvas for transport. Branches may need to be cut and hung
-separately. Light degrades THC -- do not expose harvested material to
-direct light.
-
-## Curing
-
-Once branches are brittle, clip bud from stems and place in airtight
-cans:
-
-- Open lids for ~6 hours daily for air exchange
-- Shake the bud around every couple of days
-- Allow 3-4 weeks minimum before sampling
-- 8-week cured bud is the pinnacle; year-old bud may lose potency
-- Do not speed up drying with ovens, microwaves, or heat
-
-Fan leaves and trim are cured separately on a flat surface away from
-direct light with fresh air, drying in about 3 weeks. Trim can also be
-used for hash production.
-
-## Related
-
-- [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]]
-
-- [[green-cannabis-grow-bible-plant-training-pruning-and-yield]] Pages
-
-- [[cannabis-flowering-stage-management]]
-- [[cannabis-harvest-timing-visual-cues]]
-- [[cannabis-trichome-guide]]
-- [[green-cannabis-grow-bible-strain-selection-genetics]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]

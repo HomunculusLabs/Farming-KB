@@ -3,7 +3,8 @@ title: Cannabis Male Plant Management
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Cervantes - Marijuana Horticulture"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
 type: concept
 tags: [cannabis, plants]
 ---
@@ -28,7 +29,7 @@ three weeks.
 
 Males typically begin producing flowers one to four weeks before
 females of the same variety, and often bolt (stretch) when entering
-floral development. This early flowering gives breeders a window to
+floral development. This [[equatorial-photoperiod-early-flowering]] gives breeders a window to
 identify and separate males before pollen release.
 
 ## Male vs. Female Characteristics
@@ -87,42 +88,3 @@ essential:
 
 Choosing males with desirable characteristics is challenging because
 males do not produce female flowers. Cervantes recommends the progeny
-test as the most reliable evaluation method: take pollen from a
-candidate male, use it to make seeds with chosen females, grow out the
-resulting population, and evaluate the male's effect on the progeny.
-This concept is known as combining ability.
-
-Less reliable but commonly used methods include rubbing the stem to
-check for pungent, resinous odor, and observing overall plant vigor,
-branch structure, and growth characteristics.
-
-## Pollen Management
-
-Once a male is selected for breeding, pollen must be carefully
-collected and contained. Males can be cut and placed in water to
-extend their useful life. Covering males with plastic bags before
-removing them from the garden prevents pollen contamination. Spray
-males with water to deactivate any remaining pollen on the plant
-surface.
-
-Male flowers continue to open and produce pollen over an extended
-period (two weeks or longer). Breeders may remove pollen sacks daily
-until females are ready, or allow full dehiscence and collect pollen
-for storage.
-
-## Rogue Pollen Threats
-
-Outdoor growers face additional challenges from rogue pollen sources.
-Pollen from commercial hemp farms and wild males can drift from feet to
-hundreds of miles. Large clouds of pollen blow across the Mediterranean
-Sea from Morocco to Spain and Portugal. Growers should research wind
-directions, plant early or late crops that flower outside peak pollen
-months (June-July), use greenhouse barriers with moist towel filters,
-and time indoor grows to avoid outdoor pollen seasons.
-
-## See Also
-
-- [[cannabis-pollen-collection]]
-- [[cannabis-sinsemilla-life-cycle]]
-- [[cannabis-controlled-pollination-seed-production]]
-- [[psychedelic-plants-indoor-growing]]

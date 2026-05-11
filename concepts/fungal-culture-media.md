@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Culture Media
 
-Fungal culture media are formulated substrates used to isolate, cultivate, maintain, and study fungi in the laboratory. Media selection is critical for successful isolation [[selective-agents-fungal-isolation-antibiotics-fungicides]] and depends on the nutritional requirements and ecological characteristics of the target fungi. This reference covers the major media types and their applications.
+Fungal culture media are formulated substrates used to isolate, cultivate, maintain, and study fungi in the laboratory. Media selection is critical for successful isolation and depends on the nutritional requirements and ecological characteristics of the target fungi. This reference covers the major media types and their applications.
 
 ## Principles of Media Formulation
 
@@ -25,7 +25,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **pH**: Most fungi prefer pH 4-7; some alkalophiles prefer pH 8-10
 - **Water activity (aw)**: High sugar/salt concentrations reduce aw, selecting for osmotolerant/xerophilic species
 - **Antibiotics**: Added to suppress bacterial growth during isolation
-- **Selective agents**: Cycloheximide, dichloran, rose bengal select for or against specific fungal groups
+- **[[selective-agents-fungal-isolation-antibiotics-fungicides]]**: Cycloheximide, dichloran, rose bengal select for or against specific fungal groups
 
 ### Sterilization
 - Autoclave at 121°C (15-25 psi) for 15-20 minutes
@@ -63,7 +63,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 ## Specialized Isolation Media
 
 ### Soil Fungi
-- **Glucose Ammonium Nitrate Agar (GAN)**: Glucose 10g, NH4NO3 1g, rose bengal 30mg, agar 20g, water 1L. Substitute cyclosporin A (2-10mg) for rose bengal as useful variation. Incubate in dark.
+- **Glucose [[plant-available-nitrogen-ammonium-nitrate]] Agar (GAN)**: Glucose 10g, NH4NO3 1g, rose bengal 30mg, agar 20g, water 1L. Substitute cyclosporin A (2-10mg) for rose bengal as useful variation. Incubate in dark.
 - **Alpha-Cellulose Agar**: For nonsporulating soil isolates; contains alpha-cellulose, coconut milk, oatmeal, tomato paste
 - **DRBC (Dichloran-Rose Bengal-Chloramphenicol Agar)**: For soil fungi, dried seeds, food products, osmotolerant fungi. Dichloran 2mg/L, rose bengal 25mg/L, chloramphenicol 0.1g/L.
 - **DG18 (Dichloran-Glycerol Agar)**: 18% glycerol for osmotolerant, xerotolerant, and xerophilic fungi. aw = 0.955.
@@ -86,18 +86,18 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - **KMV Agar**: Glucose 1g, gelatin hydrolysate 1g, crystal violet 10mg, agar 15g, seawater 1L, pH 7.0. For dermatophytes. With streptomycin for Littman Oxgall-Streptomycin Agar.
 
 ### Anaerobic Fungi
-- **Basal Control Medium (BAM)**: Complex anaerobic medium with mineral solutions, volatile fatty acids, hemin, cellobiose, resazurin, cysteine. Requires anaerobic handling (CO2 atmosphere).
+- **Basal Control Medium (BAM)**: Complex anaerobic medium with [[jadam-sea-salt-and-mineral-solutions]], volatile fatty acids, hemin, cellobiose, resazurin, cysteine. Requires anaerobic handling (CO2 atmosphere).
 
 ### Endophytes and Plant-Associated Fungi
 - **Hypomyces Fruiting Agar (HFA)**: Two-part medium (potato infusion + glucose; malt extract + agar). Stimulates perithecia of Hypomyces polyporinus. For fungicolous fungi.
 
 ### Entomopathogenic Fungi
-- **Grace's Insect Tissue Culture Medium**: Grace's medium 44.5g/L in distilled water. Add fetal bovine serum (50-100ml/L) and streptomycin (100mg/L) as needed. For fungal parasites of insects and invertebrates.
+- **Grace's Insect Tissue Culture Medium**: Grace's medium 44.5g/L in distilled water. Add fetal bovine serum (50-100ml/L) and streptomycin (100mg/L) as needed. For [[bloomfield-fungal-parasites-of-insects]] insects and invertebrates.
 
 ### Clinical and Medical Fungi
 - **Brain-Heart Infusion Agar (BHIA)**: Calf-brain infusion 200g, beef-heart infusion 250g, peptone 10g, glucose 2g, NaCl 5g, agar 15g, water 1L. For clinical samples.
 - **Chocolate Agar**: Casein + peptone medium + 5-10% defibrinated blood heated to 80°C. For clinical fungal cultures.
-- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for Cryptococcus neoformans melanin production.
+- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] melanin production.
 
 ### Cellulolytic Activity
 - **Carboxymethyl Cellulose (CMC) Agar**: CMC 10g, yeast extract 0.5g, (NH4)2SO4 1g, NaNO3 2g, salts, agar 15g, water 1L. Detects cellulolytic activity.
@@ -136,6 +136,6 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 ## Related Topics
 
 - [[mushroom-sterile-technique-detailed]] — Aseptic laboratory procedures
-- [[agar-work-guide]] — Working with agar media
+- [[agar-work-guide]] — [[working-with-agar-grain-to-agar-transfer-techniques]] media
 - [[fungal-biodiversity-biogeography]] — Sampling design for fungal surveys
 - [[fungal-ecology]] — Understanding fungal nutritional needs

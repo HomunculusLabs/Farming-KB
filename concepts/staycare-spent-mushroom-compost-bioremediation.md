@@ -88,21 +88,3 @@ pure culture. This highlights the gap between laboratory and field
 performance.
 
 The effectiveness of SMC depends on factors including: the degree of
-substrate colonization by active mycelium; the age and composition of
-the compost; compatibility with local soil conditions; competition from
-[[beneficial-indigenous-microorganisms-bim]]; and the nature and concentration of target
-pollutants.
-
-## Future Prospects
-
-The concept of using spent mushroom compost aligns with [[zeri-circular-economy-systems]]
-principles by converting [[fungi-in-composting-and-agricultural-waste-conversion]] into a bioremediation
-resource. Future developments may include optimizing compost composition
-for specific contaminants, developing standardized SMC quality
-parameters, and combining SMC with other remediation technologies for
-enhanced treatment of complex contamination scenarios.
-
-## See Also
-
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]
-- [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]

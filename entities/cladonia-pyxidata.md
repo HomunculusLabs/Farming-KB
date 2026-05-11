@@ -88,31 +88,3 @@ In boreal and subarctic ecosystems, C. pyxidata is an important winter forage fo
 C. pyxidata is part of the larger *Cladonia* pyxidata-chlorophaea-fimbriata species complex. These three species are frequently confused in field identification and require chemical spot tests for reliable separation.
 
 *C. chlorophaea* has narrower, more funnel-shaped cups and typically contains grayanic acid, which is absent from C. pyxidata. *C. fimbriata* has more strongly proliferating podetia and often lacks well-formed cups entirely.
-
-*C. rangiferina* (reindeer lichen) forms larger, bushy podetia without distinct cups and is an important food source for arctic herbivores. *C. portentosa* is similar but has inflated, puffy podetia and a distinct chemistry.
-
-The genus *Cladonia* contains over 500 described species worldwide, making it one of the largest lichen genera. Many species in the genus share the characteristic two-part thallus with squamules and podetia.
-
-## Human Uses
-
-C. pyxidata has limited direct economic use but serves important roles in environmental monitoring and scientific research. Its sensitivity to air quality makes it a useful bioindicator species in pollution assessment programs.
-
-In traditional medicine, Cladonia species have been used as expectorants and anti-inflammatory agents in European folk herbalism. C. pyxidata specifically has few documented ethnobotanical applications compared to *C. rangiferina*.
-
-The species has been investigated for potential pharmacological applications of its lichen acids. Research interest has grown in screening Cladonia metabolites for novel antibiotic compounds effective against drug-resistant bacteria.
-
-In ecological education, C. pyxidata serves as an accessible introduction to lichen identification. Its distinctive cup morphology and widespread occurrence make it a standard teaching species in bryology and lichenology courses.
-
-## See Also
-
-- [[cladonia-chlorophaea]]
-- [[cladonia-coccifera]]
-- [[cladonia-cristatella]]
-
-- [[cladonia-portentosa]]
-- [[usnea-hirta]]
-- [[physcia-aipolia]]
-- [[xanthoria-parietina]]
-- [[hypogymnia-physodes]]
-- [[usnea-barbata]]
-- [[lichens]]

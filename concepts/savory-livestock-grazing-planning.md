@@ -87,15 +87,3 @@ Where few paddocks exist, monitoring plant growth rates every few days during th
 After eight years of planned grazing on the Barlite Ranch in Texas, dramatic improvements were documented: dense grassland replacing bare ground, active erosion healing, and disappearance of locoweed. Similar results have been achieved across thousands of ranches worldwide. Production per acre increases even as costs per acre decrease, because the health of the [[savory-ecosystem-foundation-blocks]] blocks—water cycle, [[savory-mineral-cycle-management]], succession, and energy flow—is simultaneously improving.
 
 ## Sources
-
-- Savory, Allan. *Holistic Resource Management*, Chapters 6, 7, 19, 41. Island Press, 1988.
-- Voisin, André. *Grass Productivity*. 1957.
-
-## See Also
-
-- permaculture-designers-manual-grazing-management
-- [[livestock-fencing-guide]]
-- [[homestead-financial-planning]]
-- [[seasonal-planning]]
-- [[desertification]]
-- [[savory-land-planning-and-grazing-cell-design]]

@@ -88,11 +88,3 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 - **Contraindications:** Psychotic disorders, cardiovascular disease, pregnancy, MAOIs/SSRIs (serotonin syndrome risk)
 
 ## See Also
-
-- [[4-aco-dmt]]
-
-- [[harmane]]
-
-- 5 Methoxy DMT — Related tryptamine with distinct pharmacological profile
-- [[entheogen-ayahuasca-admixture-plants]] — Traditional Amazonian [[dmt-containing-plants-and-maoi-combination]] brew
-- 5 ht2a receptor — Primary target mediating psychedelic effects

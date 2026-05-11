@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - cover-crops.md
   - cover-crops-green-manures.md
   - cover-crops-soil-health.md

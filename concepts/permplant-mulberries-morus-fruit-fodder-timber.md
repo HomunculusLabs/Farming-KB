@@ -1,5 +1,5 @@
 ---
-title: Mulberries as permplant mulberries morus fruit fodder timber and Timber Trees
+title: Permplant Mulberries Morus Fruit Fodder Timber
 created: 2026-04-28
 tags:
   - permaculture
@@ -27,7 +27,7 @@ of shade, and adapted to most soils and sites. Mulberries are a
 
 Mulberries are heavy bearers, yielding 19-24 tonnes per hectare of
 fruit regularly. The fruit is delicious eaten raw and can be dried and
-powdered to produce a flour suitable for cooking. Key yield data:
+powdered to produce a flour suitable for cooking. Key [[miniculture-production-yield-data-psilocybe-cubensis-bigwood-beug]]:
 
 - Supports 2-3 pigs per tree at 86 trees per hectare for the 60-day
   fruiting season (Hicks variety has the longest season)
@@ -39,7 +39,7 @@ powdered to produce a flour suitable for cooking. Key yield data:
 The leaves are nutritious and can be fed to livestock including cattle,
 sheep, goats, and silkworms. White mulberry leaves are particularly
 valuable as silkworm feed, the traditional basis of the sericulture
-industry in China. Leaf nutritional analysis for white mulberry:
+industry in China. Leaf [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] for white mulberry:
 
 - Crude protein: 15.1%
 - Crude fat: 5.7%
@@ -79,24 +79,12 @@ grapes utilise the lower canopy.
 Mulberries demonstrate exceptional resilience across multiple stress
 factors:
 
-- Drought resistant: survives and produces under water-limited
+- [[drought-resistant-gardening-techniques]]: survives and produces under water-limited
   conditions
-- Frost tolerant: suited to cool temperate climates
+- Frost tolerant: suited to cool [[fukuoka-natural-farming-temperate-climates]]
 - Shade tolerant: productive even in partial shade
 - Soil adaptable: grows in most soil types
 - Long-lived: productive for up to 300 years
 
 This combination of resilience traits makes mulberries one of the
 lowest-risk tree plantings in [[comparison-sheet-mulching-vs-chop-and-drop]].
-
-## Culinary and Integration
-
-In . The combination of fruit, fodder, timber, and [[free-range-poultry-forage-design-mollison]]
-from a single long-lived tree represents exceptional functional stacking.
-Fresh fruit is eaten raw, dried, made into preserves, jellies, and pies,
-or used as self-harvest pig and [[knf-poultry-feed-preparation]].
-## See Also
-
-- [[ben-law]]
-
-- [[honey-locust-pod-fodder-timber-production]]

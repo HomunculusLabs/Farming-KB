@@ -29,7 +29,7 @@ sources:
 
 **Russula virescens**, the green cracking russula or quilted green russula, is a
 basidiomycete fungus in the family Russulaceae. Widely regarded as one of the
-finest edible [[edible-wild-mushrooms-by-region]] in Europe and East Asia, it is an ectomycorrhizal
+finest edible [[edible-wild-mushrooms-by-region]] in Europe and [[neurotropic-fungi-japan-east-asia-species-cultural-context]], it is an ectomycorrhizal
 species associated primarily with oak (*Quercus* spp.) and other hardwoods. The
 species is easily recognized by its pale green cap with a distinctive cracked
 (mosaic) surface pattern.
@@ -49,7 +49,7 @@ as a well-defined species. Chinese mycological texts recognize it as *lu jun*
 - **Cap:** 5–15 cm, convex becoming flat with a shallow depression; margin smooth
   and slightly incurved when young. Surface pale green to grayish-green, developing
   a characteristic cracked or quilted pattern (areolate) as it matures — this
-  mosaic cracking is the most reliable field identification feature. Cracks reveal
+  mosaic cracking is the most reliable [[palmer-mushroom-hunting-field-identification]] feature. Cracks reveal
   the white flesh beneath.
 - **Gills:** Free to slightly adnexed, crowded, white to cream, forked near the
   stem. No bruising color change.
@@ -76,10 +76,10 @@ Considered one of the premier edible *Russula* species, often ranked alongside
 chanterelles and porcini in European foraging traditions. In Italy it is known as
 *fungo verde* and commands premium prices at markets. The flesh is firm and crunchy
 even after cooking, with a mild nutty flavor. Common preparations include sautéing
-in butter or olive oil, inclusion in risotto, omelets, and cream sauces, and
+in butter or [[olive-cultivation-and-olive-oil-production]], inclusion in risotto, omelets, and cream sauces, and
 preservation by pickling or drying. In Chinese cuisine it is stir-fried, used in
 hot pots, and valued for its crisp texture. It is one of the most commercially
-significant wild mushrooms in southwestern China, with annual harvests exceeding
+significant [[edible-wild-mushrooms-foraging-guide]] in southwestern China, with annual harvests exceeding
 several thousand tonnes in peak years. The firm flesh holds up well to canning and
 drying without becoming mushy.
 
@@ -87,39 +87,3 @@ drying without becoming mushy.
 
 The cracked cap pattern is diagnostic among green *Russula* species but can be
 confused with:
-
-- ***Russula aeruginea* (green brittlegill):** More uniformly green cap without
-  prominent cracking; gills more adnexed. Mild but less esteemed.
-- ***Russula heterophylla* (greasy green russula):** Similar cracking pattern but
-  cap is more grayish-olive than green; stem often develops a brownish tint.
-- ***Amanita phalloides* (death cap):** Young specimens with a greenish cap could
-  superficially resemble *R. virescens*. Critical difference: *A. phalloides*
-  has a volva (cup at base), a ring on the stem, and white gills that are always
-  free (not adnexed). Any green mushroom collected for the table must be checked
-  carefully for volval remains.
-- ***[[spore-print]] is
-  green (not white). Causes severe gastrointestinal poisoning.
-
-## Ecological Significance
-
-As an ectomycorrhizal species, *R. virescens* contributes to forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-by facilitating phosphorus and nitrogen uptake for host trees. Its preference for
-mature oak forests makes it an indicator of stable, undisturbed hardwood ecosystems.
-In China, overharvesting of wild populations has led to concerns about sustainability,
-prompting research into [[fukuoka-matsutake-artificial-cultivation-attempt]] of ectomycorrhizal seedlings inoculated
-with *R. virescens*. Successful inoculation of oak seedlings has been demonstrated,
-suggesting a pathway toward managed production.
-
-## Chemical Constituents
-
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]: sterols (including
-ergosterol), phenolic acids (caffeic and ferulic acid derivatives), and
-polysaccharides with reported immunomodulatory and antioxidant activity. Extracts
-have demonstrated in vitro radical scavenging activity comparable to other culinary
-mushrooms, though these studies are preliminary. No toxic compounds have been
-identified in confirmed *R. virescens* specimens.
-
-## See Also
-
-- [[boletus-edulis-entity]] — porcini, another prized ectomycorrhizal edible
-- [[amanita-phalloides]] — death cap, the critical lookalike to distinguish

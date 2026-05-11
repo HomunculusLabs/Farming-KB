@@ -38,7 +38,7 @@ based on multilocus phylogenetics.
 | Genus | *Metarhizium* Sorokin (1883) |
 
 The genus was originally established when Sorokin renamed *Oospora destructor*
-Metschnikoff (1879) to *Metarhizium anisopliae*, with the species epithet
+Metschnikoff (1879) to *[[metarhizium-anisopliae]]*, with the species epithet
 referring to the host beetle genus *Anisoplia*. The teleomorph (sexual stage)
 has been linked to *Metacordyceps* species, though [[fungal-life-cycles-sexual-reproduction-metamorphosis]] is
 rarely observed. Most reproduction is clonal via conidia.
@@ -51,7 +51,7 @@ former varieties to full species status:
 - ***M. robertsii*** — formerly *M. anisopliae* var. *anisopliae*; broad host
   range, common in soil, and an active plant root colonizer
 - ***M. brunneum*** — formerly *M. anisopliae* var. *majus*; the species used
-  in the commercial biopesticide Met52 for tick and soil pest control
+  in the commercial biopesticide Met52 for tick and [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
 - ***M. anisopliae*** (sensu stricto) — the type species of the genus
 - ***M. acridum*** — formerly *M. anisopliae* var. *acridum*; specialized on
   Orthoptera (locusts and grasshoppers), used in the LUBILOSA program in Africa
@@ -83,60 +83,8 @@ the cadaver and disperse by wind, rain, or contact to infect new hosts
 
 ## Host Range and Target Pests
 
-*Metarhizium* has one of the broadest host ranges among entomopathogenic fungi.
+*Metarhizium* has one of the broadest host ranges among [[comparison-trichoderma-vs-entomopathogenic-fungi]].
 Broad-host species (*M. robertsii*, *M. brunneum*) infect insects across
 Coleoptera, Lepidoptera, Hemiptera, Diptera, and Isoptera, while specialists
 like *M. acridum* target only Orthoptera (locusts, grasshoppers) and *M.
 rileyi* targets lepidopteran larvae. Key agricultural targets include termites,
-ticks, whiteflies, thrips, coffee berry borer, banana weevil, red palm weevil,
-and soil-dwelling grubs and wireworms.
-
-## Dual Lifestyle: Pathogen and Plant Symbiont
-
-*Metarhizium* species also colonize plant roots as endophytes — a discovery
-that transformed understanding of the genus. *M. robertsii* and *M. brunneum*
-actively colonize the rhizosphere and grow within root cortical tissue without
-causing disease, facilitated by [[mycorrhizal-root-exudates-pathogen-interactions]] that stimulate directional
-hyphal growth (key genes: MadA/MadB, Mrt transporters). The plant benefits are
-substantial: *M. robertsii* can transfer nitrogen from killed insects directly
-to plant roots (Behie et al., 2012), some strains solubilize phosphates,
-suppress plant pathogens, and improve [[dighton-fungal-drought-tolerance-plant-water-relations]]. Applying *Metarhizium*
-as a biopesticide thus simultaneously establishes a beneficial root symbiont.
-
-## Secondary Metabolites
-
-The most important compounds are the **destruxins** — cyclodepsipeptides with
-39+ identified analogs. Destruxin B is the most abundant, causing insect
-paralysis by disrupting immune function and damaging Malpighian tubules.
-Some destruxins show anticancer, antiviral, and immunosuppressive properties
-of pharmaceutical interest. Additional metabolites include cytochalasins C, D,
-and E (cytotoxic, anti-actin), swainsonine (a glycosidase inhibitor causing
-locoism in livestock), ferricrocin and ferrirubin (siderophores), and
-oosporein (red pigment with antimicrobial activity).
-
-## Commercial Biopesticides
-
-*Metarhizium* is registered as a biopesticide in over 60 countries. Key
-products include Met52 (*M. brunneum* F52; tick control, soil pests, OMRI
-listed), Green Muscle and Green Guard (*M. acridum*; locust control in Africa
-and Australia), BioCane (*M. anisopliae*; sugar cane spittlebug), and
-Quest/Tick-Ex (*M. anisopliae*; tick control). Products are formulated as
-wettable powders, emulsifiable concentrates, granules, and oil-based
-suspensions. Mass production uses solid-state fermentation on grain substrates,
-yielding 10^9-10^11 conidia per gram.
-
-## Safety and Environmental Profile
-
-*Metarhizium* is practically non-toxic to mammals (EPA Category IV), does not
-grow at 37C, and shows no carcinogenicity or mutagenicity. Non-target effects
-are minimal: bees are partially protected by their body temperature, and
-earthworms, birds, and aquatic organisms are unaffected. Conidia are
-UV-sensitive but persist in soil for weeks to months. No [[cannabis-disease-pest-resistance-breeding-clarke]] has
-## See Also
-
-- [[fungal-biopesticides]]
-- mycopesticides-entomopathogenic-fungi
-- [[cordyceps-and-entomopathogenic-fungi]]
-- [[mycelium-running-pest-control-with-fungi]]
-- [[biological-nitrogen-fixation-agriculture]]
-- mycorrhizal-fungi-in-aact

@@ -11,7 +11,7 @@ sources:
 
 # Psilocybe tampanensis
 
-Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenogastraceae, notable as the species from which the sclerotia commonly sold as "philosopher's stones" or "magic truffles" are harvested. Originally described from a single 1977 collection near Tampa, Florida, the species remained exceedingly rare in nature for decades, with no additional confirmed wild collections until a 2024 rediscovery. Despite its natural scarcity, P. tampanensis gained widespread popularity in cultivation circles because of its reliable production of underground sclerotia — dense, nutrient-storage masses containing the same psychoactive tryptamines found in the fruiting bodies. These sclerotia are legally sold in the Netherlands as a loophole in drug laws that prohibit fruiting bodies but not fungal sclerotia.
+Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenogastraceae, notable as the species from which the sclerotia commonly sold as "philosopher's stones" or "magic truffles" are harvested. Originally described from a single 1977 collection near Tampa, Florida, the species remained exceedingly rare in nature for decades, with no additional confirmed wild collections until a 2024 rediscovery. Despite its natural scarcity, P. tampanensis gained widespread popularity in cultivation circles because of its reliable production of underground sclerotia — dense, nutrient-storage masses containing the same [[tryptamine]] found in the fruiting bodies. These sclerotia are legally sold in the Netherlands as a loophole in drug laws that prohibit fruiting bodies but not fungal sclerotia.
 
 ## Taxonomy and Naming
 
@@ -19,7 +19,7 @@ Psilocybe tampanensis is a psilocybin-containing mushroom in the family Hymenoga
 - **Family:** Hymenogastraceae
 - **Genus:** Psilocybe
 - **Species:** P. tampanensis Guzmán & Pollock (1978)
-- **Holotype:** Collected September 1977 by Steven Pollock near Tampa, Florida, USA
+- **Holotype:** Collected September 1977 by [[steven-pollock]] near Tampa, Florida, USA
 - **Common names:** Tampa psilocybe, magic truffle, philosopher's stone
 - **Note:** Pollock, a physician and mycological researcher, was murdered in 1981. The species name commemorates the type locality near Tampa.
 
@@ -56,7 +56,7 @@ Subglobose to irregular masses, 1–3 cm diameter, hard and dense when mature. S
 
 ## Chemistry and Active Compounds
 
-Psilocybe tampanensis contains the classic psilocybin mushroom tryptamine profile:
+Psilocybe tampanensis contains the classic [[african-psilocybin-mushroom-guide]] tryptamine profile:
 
 - **Psilocybin (4-PO-DMT):** 0.07–0.30% dry weight in sclerotia; primary prodrug, dephosphorylated to psilocin after ingestion
 - **Psilocin (4-HO-DMT):** 0.01–0.05% dry weight in sclerotia; the active psychoactive metabolite, serotonin 5-HT2A receptor agonist
@@ -70,9 +70,9 @@ Psilocybe tampanensis contains the classic psilocybin mushroom tryptamine profil
 
 The commercial and [[ethnomycology-cultural-significance-sacred-fungi]] of P. tampanensis derives almost entirely from its sclerotia:
 
-- **Substrate:** Rye grain, grass seed, or sterilized compost; sclerotia form directly on grain spawn without requiring a bulk substrate
+- **Substrate:** Rye grain, grass seed, or sterilized compost; sclerotia form directly on grain spawn without requiring [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
 - **Colonization:** 4–8 weeks at 22–25°C in darkness for optimal [[growing-gourmet-sclerotia-formation-biology-mushrooms]]; light exposure during colonization may reduce sclerotia yield
-- **Sclerotia maturation:** 8–16 weeks total; mature sclerotia are hard, golden-brown, and easily separated from substrate
+- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]:** 8–16 weeks total; mature sclerotia are hard, golden-brown, and easily separated from substrate
 - **Fresh weight yield:** 50–150 g sclerotia per liter of substrate depending on strain and conditions
 - **Fruiting:** Requires a casing layer (peat-vermiculite) and high humidity (90%+); fruiting is less reliable and less prolific than sclerotia production
 - **Commercial scale:** Dutch "smart shops" sell pre-packaged P. tampanensis sclerotia under brand names; the Netherlands tolerates sale of sclerotia as they are not classified as "mushrooms" under the Opium Act amendments of 2008
@@ -86,33 +86,4 @@ The commercial and [[ethnomycology-cultural-significance-sacred-fungi]] of P. ta
 - **Dose (fresh sclerotia):** Threshold 3–5 g; light 5–10 g; moderate 10–15 g; strong 15–25 g
 - **Dose (dried sclerotia):** Approximately 10% of fresh weight; threshold 0.3–0.5 g; moderate 1–1.5 g
 - **Comparison to fruiting bodies:** Sclerotia produce qualitatively similar effects but with slightly lower intensity per gram due to lower tryptamine concentrations
-- **Set and setting:** As with all psychedelics, the experience is highly dependent on psychological set and physical setting; experienced users recommend a calm, familiar environment with a trusted sitter
-
-## Similar Species
-
-| Feature | P. tampanensis | P. mexicana | P. atlantis |
-|---|---|---|---|
-| Sclerotia production | Abundant | Abundant | Moderate |
-| Cap color | Chestnut-brown | Straw to ochre | Dark brown |
-| Spore size | 10.8–13 × 6.8–8 µm | 8–12 × 5–7 µm | 10–13 × 7–8.5 µm |
-| Natural distribution | Central Florida | Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] | Georgia, USA |
-| Bluing reaction | Moderate | Moderate to strong | Strong |
-
-## Historical Context
-
-Steven Pollock collected the original specimen in September 1977 while searching for new psilocybin-containing species in Florida. He successfully cultivated the species and was the first to demonstrate that P. tampanensis readily produced sclerotia in vitro — a discovery that opened the commercial truffle market. Pollock published preliminary findings in 1978 before his death in 1981. Gastón Guzmán formally described the species in 1978 based on Pollock's material. The 2024 rediscovery of wild P. tampanensis near Tampa confirmed the species persists in its native habitat, resolving decades of uncertainty about whether the holotype represented a transient occurrence. Cultures derived from the original Pollock collection were widely distributed among mycological researchers and eventually reached the commercial cultivation market in the Netherlands by the late 1990s, where they became the foundation of the legal magic truffle industry.
-
-## Legal Status
-
-- **Netherlands:** Sclerotia are legal and sold openly in smart shops; fruiting bodies prohibited since 2008 ban on psilocybin mushrooms
-- **United States:** Classified as Schedule I under the Controlled Substances Act (contains psilocybin/psilocin); possession, cultivation, and sale are criminalized at federal level
-- **International:** Controlled under the UN Convention on Psychotropic Substances (1971) as a psilocybin-containing species
-- **Decriminalized jurisdictions:** Several US states (Oregon, Colorado) and municipalities have decriminalized or legalized psilocybin-containing fungi since 2019; similar measures in Canada, Australia, and parts of Europe are under consideration
-- **Research status:** Psilocybin (the active compound) has received FDA Breakthrough Therapy designation for treatment-resistant depression and is in Phase III clinical trials; research-grade P. tampanensis sclerotia have been used in clinical studies in the Netherlands
-
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[psilocin]]
-- [[gymnopilus-spectabilis-entity]]
-- [[panaeolus-cyanescens-entity]]
+- **[[lsd-set-and-setting-framework]]:** As with all psychedelics, the experience is highly dependent on psychological set and physical setting; experienced users recommend a calm, familiar environment with a trusted sitter

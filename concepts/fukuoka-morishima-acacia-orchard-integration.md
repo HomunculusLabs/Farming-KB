@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3erpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
 type: concept
 ---
@@ -87,15 +88,3 @@ dark, earthworm-rich soil over a period of twenty-five years.
 
 Fukuoka describes a three-tiered design: tall trees (including the acacia
 and pines) for windbreaks at the top, citrus in the middle layer, and a
-green manure cover (clover, alfalfa, and weeds) below. The Morishima
-acacia is the keystone species of the upper tier, performing so many
-functions that its presence fundamentally changes the character of the
-orchard ecosystem.
-
-This design reflects Fukuoka's understanding that [[fukuoka-black-wattle-fertilizer-tree-method]]
-- [[fukuoka-orchard-floor-management]]
-- [[fukuoka-natural-tree-form-argument]]
-
-## See Also
-
-- [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]]

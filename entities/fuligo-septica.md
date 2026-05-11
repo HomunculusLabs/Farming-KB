@@ -20,7 +20,7 @@ created: 2026-04-28
 
 # Fuligo septica
 
-**Fuligo septica** is a species of plasmodial slime mold (myxomycete) belonging to the class **Myxogastria** and the family **Physaraceae**. It is one of the most widely recognized and commonly encountered slime molds worldwide, conspicuous for its bright yellow, frothy plasmodial stage that resembles canine vomit — earning it the common names **dog vomit slime mold**, **scrambled egg slime mold**, and **flowers of tan**. Despite its unappealing names, *F. septica* is a harmless saprotroph that plays an ecologically significant role in decomposing organic matter and cycling nutrients in terrestrial ecosystems.
+**Fuligo septica** is a species of plasmodial [[biological-slime-mold-computing]] (myxomycete) belonging to the class **Myxogastria** and the family **Physaraceae**. It is one of the most widely recognized and commonly encountered [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]] worldwide, conspicuous for its bright yellow, frothy plasmodial stage that resembles canine vomit — earning it the common names **dog vomit slime mold**, **scrambled egg slime mold**, and **flowers of tan**. Despite its unappealing names, *F. septica* is a harmless saprotroph that plays an ecologically significant role in decomposing [[savory-soil-organic-matter-and-decomposition-dynamics]] cycling nutrients in terrestrial ecosystems.
 
 ## Taxonomy and Classification
 
@@ -49,14 +49,14 @@ The plasmodium is the most conspicuous and recognizable phase of *F. septica*. K
 - **Size**: Can extend from several centimeters to over 30 cm in diameter under favorable conditions
 - **Movement**: The plasmodium migrates by **cytoplasmic streaming** at rates of approximately 1–2 cm per hour, following chemical gradients toward food sources (chemotaxis)
 - **Feeding**: It is a **phagotrophic predator** — the plasmodium engulfs bacteria, fungal spores, and organic particles by surrounding them with pseudopodia. It does not photosynthesize
-- **Structure**: A single, multinucleate cell (a **coenocyte**) lacking cell walls, bounded only by a thin plasma membrane. The plasmodium contains thousands of nuclei sharing a common cytoplasm
+- **Structure**: A single, multinucleate cell (a **coenocyte**) lacking [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], bounded only by a thin plasma membrane. The plasmodium contains thousands of nuclei sharing a common cytoplasm
 
 ### Sporangial Stage (Reproductive Phase)
 
 When food becomes scarce or environmental conditions deteriorate, the plasmodium transforms into the reproductive stage:
 
 1. **Migration**: The plasmodium migrates to an elevated, exposed position (often climbing up plant stems or structures)
-2. **Sporangium formation**: It forms one or more stationary, crust-like structures called **aethalia** (a type of compound fruiting body). In *F. septica*, the aethalium is typically convex, roughly pulvinate (cushion-shaped), and 2–15 cm across
+2. **Sporangium formation**: It forms one or more stationary, crust-like structures called **aethalia** (a type of compound [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]). In *F. septica*, the aethalium is typically convex, roughly pulvinate (cushion-shaped), and 2–15 cm across
 3. **Cortication**: The surface develops a tough, brittle outer crust (cortex) that protects the inner spore mass
 4. **Spore maturation**: The bright yellow color fades to brown, tan, or gray as the internal mass differentiates into:
    - **Spores**: Globular, 7–10 µm in diameter, dark brown to nearly black, with a reticulate (net-like) wall ornamentation
@@ -73,7 +73,7 @@ Spores germinate under moist conditions, releasing biflagellate **swarm cells** 
 
 ### Preferred Habitats
 
-- **Mulch beds**: Wood chip mulch in gardens and landscaping is a classic substrate, especially when the mulch is kept consistently moist
+- **Mulch beds**: [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] in gardens and landscaping is a classic substrate, especially when the mulch is kept consistently moist
 - **Lawns and grass**: Often appears on decaying grass clippings and thatch, particularly after heavy rains
 - **Decaying wood**: Found on rotting logs, stumps, and fallen branches
 - **Compost piles**: Thrives in the warm, moist, nutrient-rich environment of active compost
@@ -88,45 +88,3 @@ Optimal conditions for plasmodial growth include:
 - **Temperature**: Warm conditions (20–30°C / 68–86°F), with activity declining below 10°C
 - **Organic matter**: Substrate rich in bacteria and decomposing organic material
 - **pH**: Tolerant of a wide pH range but shows preference for slightly acidic to neutral conditions
-
-## Ecology and Role in Nutrient Cycling
-
-Despite its alarming appearance, *F. septica* is entirely beneficial in garden and forest ecosystems:
-
-- **Bacterial population regulation**: The plasmodium consumes large quantities of bacteria, helping to regulate [[soil-edaphic-factors-microbial-communities]] in the soil and decomposition layer
-- **Nutrient mineralization**: By feeding on bacteria that are decomposing organic matter, *F. septica* accelerates the release of plant-available nutrients (nitrogen, phosphorus, potassium) from decaying material
-- **Soil structure**: The movement of plasmodia through substrate helps to create microscopic channels that improve soil aeration and water infiltration
-- **Food web**: Spores and plasmodia serve as food for various invertebrates, including springtails (Collembola), mites, and certain beetles
-
-## Relationship with Other Organisms
-
-### Symbiosis with Green Algae
-
-A remarkable feature of *F. septica* is its documented capacity to harbor live **green algae** (primarily *Chlorella* species) within its plasmodium. The algae remain photosynthetically active and provide oxygen and fixed carbon to the slime mold, while receiving protection and access to nutrients from the slime mold's feeding activities. This represents one of the few known examples of a transient endosymbiotic relationship in myxomycetes.
-
-### Metal Accumulation
-
-*Fuligo septica* demonstrates notable ability to bioaccumulate heavy metals from its substrate, including zinc, copper, and lead. This has prompted research into its potential use as a **bioindicator** of soil contamination and as a candidate for **mycoremediation** of metal-polluted sites.
-
-## Cultural Significance and Folklore
-
-- **Folk medicine**: Historically used in European folk medicine as a remedy for various ailments. The aethalia were sometimes applied as poultices, and the species was believed to have wound-healing properties. Some [[halpern-sacramental-peyote-and-native-american-church]] traditions used it in ceremonial contexts
-- **"Flowers of tan"**: In traditional leather tanning, *Fuligo septica* commonly appeared on oak bark used in the tanning process, leading to the old English folk name
-- **Gardener's alarm**: The sudden overnight appearance of bright yellow plasmodia in garden mulch is one of the most common slime mold encounters for the general public, frequently prompting calls to agricultural extension offices
-
-## Cultivation and Study
-
-*Fuligo septica* is relatively easy to cultivate for educational and research purposes:
-
-1. Place moist, sterile filter paper or oat flakes in a Petri dish
-2. Inoculate with plasmodial fragments or spores
-3. Maintain high humidity at room temperature (20–25°C)
-4. Feed with rolled oats or sterile bacterial cultures
-5. The plasmodium will spread across the substrate, allowing observation of cytoplasmic streaming and [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]
-
-The species is widely used in biology education to demonstrate plasmodial movement, chemotaxis, and the unique life cycle of myxomycetes.
-
-## See Also
-- [[myxomycetes-slime-molds]]
-- [[decomposition]]
-- [[myxomycete-mycetozoan-slime-mold-diversity-ecology]]

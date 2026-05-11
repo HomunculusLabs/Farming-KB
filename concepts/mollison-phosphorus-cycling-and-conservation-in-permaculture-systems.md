@@ -1,5 +1,5 @@
 ---
-title: mollison [[fungal-role-in-phosphorus-cycling]] and [[water-harvesting-and-conservation-in-permaculture]] systems and Conservation in Permaculture Systems
+title: Mollison Phosphorus Cycling And Conservation In Permaculture Systems
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,38 +87,3 @@ Mollison presents a hierarchy of phosphorus conservation strategies:
 
 1. **Conservation farming** loses about one-half to one-third the
    phosphorus of contemporary agriculture, even without non-tillage.
-
-2. **Non-tillage farming** would lose even less phosphorus, but is
-   rarely assessed except in dollar yield terms. See [[acacia]] species
-- Casuarina
-- Banksia
-- Pultenaea
-- Gigasperma calaspora
-
-These plants, with their mycelial associates, fix and return phosphate
-via leaf mould to surface soils. Several plants pump sugars or
-carbohydrates into soils, while leaf-sucking insects and scale insects
-exude sugars that feed soil biology and facilitate phosphorus cycling.
-
-## Integrating Phosphorus Conservation in Design
-
-Mollison recommends several design-level strategies:
-
-- **Maintain tree cover**: Trees prevent phosphorus loss through
-  erosion and leaching while cycling phosphorus from deep soil layers.
-
-- **Close nutrient loops**: Return all organic wastes to the soil
-  through composting, mulching, or direct application. Avoid
-  one-way sewage systems that export phosphorus to waterways.
-
-- **Integrate animals**: Keep pigeons, poultry, and other seed-eating
-  animals that concentrate phosphorus in their manure. Apply manure
-  to gardens and orchards.
-
-- **Use greywater recovery**: Recover phosphorus from household
-  greywater rather than allowing it to flow to sewers. See
-  [[mycorrhiza]]
-
-Mollison notes that mycorrhizal associates of higher plants play a
-critical role in phosphorus uptake. These fungal partnerships extend
-the effective root zone of plants, accessing phosphorus from soil

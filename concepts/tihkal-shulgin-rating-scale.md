@@ -1,5 +1,5 @@
 ---
-title: "Shulgin's [[shulgin-rating-scale]] for [[psychedelic-substances-comparison]]"
+title: Tihkal Shulgin Rating Scale
 created: 2026-04-26
 sources: "TIHKAL - Tryptamines I Have Known and Loved (Shulgin & Shulgin)"
 tags: [rating-scale, methodology, Shulgin, psychedelic, qualitative]
@@ -88,38 +88,3 @@ This multi-dimensional approach provides a richer characterization than the scal
 DMT demonstrates how the scale differentiates routes of administration and dosage:
 - **100 mg oral**: No effect -- DMT is inactive orally at any dose
 - **20 mg i.m.**: + to ++ -- Patterns on the wall, animal imagery, inner-eye visuals
-- **75 mg i.m.**: +++ -- Full hallucinations, eidetic phenomena, emotional elevation, compulsive movements
-- **100 mg smoked**: ++++ -- Complete [[default-mode-network-and-ego-dissolution]], cosmic expansion, encounter with "the entire universe"
-
-### 5-MeO-DMT (Entry #38)
-
-5-MeO-DMT illustrates the ++++ extreme:
-- "I beheld every thought that was going on everywhere in the universe and all possible realities... A definite ++++."
-- Rated by Shulgin as "positive, psychedelic, out-of-body" (B B quality rating)
-
-### 5-MeO-DIPT (Entry #37)
-
-Foxy methoxy demonstrates the range of the ++ level:
-- "I am up to a ++ within the hour and am feeling lazy"
-- Rated by Shulgin as "positive, LSD-like psychedelic" (E E quality rating)
-
-### 4-HO-DET (Entry #16)
-
-Shows the time-course dimension:
-- "back to ++, still very [affected]" -- indicating the duration of effects at a given level
-
-## The Quality Rating System
-
-Beyond the intensity scale, Shulgin also uses a letter-based quality system. Each compound receives a two-letter rating where the first letter represents the quality of the experience (positive, neutral, or negative) and the second represents the consistency or reliability of that quality. For example:
-
-- **B B**: Positive, consistent psychedelic experience (e.g., 5-MeO-DMT)
-- **E E**: Positive, LSD-like psychedelic (e.g., 5-MeO-DIPT)
-- **C C**: Negative or mixed quality (e.g., 5-MeO-DET, described as "vertigo, erotic")
-
-This dual system allows Shulgin to capture both *how strong* the experience is and *what kind* of experience it produces -- a significant improvement over intensity-only measures.
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]

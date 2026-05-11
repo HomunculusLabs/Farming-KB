@@ -1,5 +1,5 @@
 ---
-title: "Fungi in biodiversity fungi freshwater aquatic habitats Habitats"
+title: [[biodiversity-fungi-ectomycorrhizal-diversity]] Freshwater Aquatic Habitats
 created: 2026-04-28
 tags:
   - freshwater-fungi
@@ -88,14 +88,3 @@ improve resilience and productivity over time.
 ## Future Directions
 
 Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[decomposition]]
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
-- [[freshwater-fungi-biodiversity]]
-- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
-- [[biodiversity-of-fungi-ecosystem-services-agriculture]]

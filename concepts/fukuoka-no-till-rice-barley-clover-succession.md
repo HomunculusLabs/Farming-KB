@@ -5,6 +5,7 @@ tags: [farming, no-till, rice, barley, clover, fukuoka, cultivation]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

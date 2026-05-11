@@ -14,7 +14,7 @@ type: query
 
 # Can You Kombucha-Ferment Things Other Than Tea?
 
-Yes — with important caveats. While traditional kombucha requires tea (*[[camellia-sinensis-entity]]*), the SCOBY can ferment other sugar-containing liquids, but results vary widely. Understanding why tea is the standard helps you know when substitutions work and when they fail.
+Yes — with important caveats. While traditional kombucha requires tea (*[[camellia-sinensis]]*), the SCOBY can ferment other sugar-containing liquids, but results vary widely. Understanding why tea is the standard helps you know when substitutions work and when they fail.
 
 ## Why Tea Is the Standard
 

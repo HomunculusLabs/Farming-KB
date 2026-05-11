@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -30,7 +31,7 @@ breeders to produce ample seed for their own use.
 
 Strip away unnecessary branches from the selected male to guard against
 accidental random pollination. Isolate the male as soon as anthers show,
-because airborne cannabis pollen can travel for miles. Brushing against
+because airborne [[cannabis-pollen-collection]] can travel for miles. Brushing against
 a plant in dehiscence releases pollen that will travel throughout the
 area.
 
@@ -75,7 +76,7 @@ and premature spoilage.
 
 ## Freezing Pollen for Long-Term Storage
 
-Pollen does not have a long shelf life under natural conditions; it is
+Pollen does not have a long [[ingham-aact-holding-time-shelf-life-decay]] under natural conditions; it is
 easily destroyed by high temperatures and moisture. Under ambient
 conditions, cannabis pollen typically remains viable for only a few
 days to perhaps a couple of weeks.
@@ -87,36 +88,3 @@ before freezing and to prevent condensation during storage.
 Place the cleaned pollen in an airtight vial and store in the freezer.
 Viable pollen should be kept at temperatures below freezing. Pollen
 should not be repeatedly frozen and thawed, as this thermal cycling
-will decrease viability significantly. Each freeze-thaw cycle damages
-pollen cell membranes and reduces the percentage of grains capable of
-successful fertilization.
-
-## Pollination Technique
-
-To pollinate, cover the target female branch with the pollen-filled bag
-and briefly shake to ensure pollen contacts as many pistils as possible.
-Leave the bag in place for two days and nights to ensure thorough
-pollination. Fresh, fertile pistils appear turgid and are typically
-white or off-white in color.
-
-An alternate approach uses a small artist's paint brush to carefully
-apply pollen directly to receptive pistils. This method provides more
-precise control over which buds receive pollen.
-
-## Preventing Contamination
-
-If other plants in the garden are not intended for pollination, move
-target plants to a separate, smaller pollination chamber. After
-pollination, thoroughly spray female plants with water to destroy any
-remaining airborne pollen before returning them to the main grow area.
-
-Clean the pollination chamber between each pollen release to reduce or
-eliminate pollen contamination of future seed crops. This practice
-keeps the rest of the crop seedless, which is critical for
-[[cervantes-seed-production-storage]] - Seed production overview
-- [[cannabis-genetics-and-breeding]] - Breeding fundamentals
-- [[cervantes-flowering-phase]] - Flowering cycle management
-
-## See Also
-
-- [[cannabis-pollen-collection-storage-clarke]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Boyce, P.C. (1993). "The Genus Dracunculus." Aroideana, 16, 13-42.
   - Kite, G.C. & Hetterscheid, W.L.A. (1997). "Inflorescence Odours of Amorphophallus and Pseudodracontium." International Aroid Society Newsletter, 17(4), 10-14.
-  - Meeuse, B.J.D. & Raskin, I. (1988). "Sexual Reproduction in the Arum Lily Family." Scientific American, 258(2), 84-91.
+  - Meeuse, B.J.D. & Raskin, I. (1988). "[[basidiomycete-mating-systems-sexual-reproduction]] in the Arum Lily Family." Scientific American, 258(2), 84-91.
   - Seymour, R.S. et al. (2009). "Thermogenesis in Dracunculus vulgaris." Plant Signaling & Behavior, 4(10), 968-970.
 ---
 
@@ -24,7 +24,7 @@ The species is famous for producing a large, deep maroon spathe and a tall, dark
 
 The genus name *Dracunculus* means "little dragon" in Latin, referring to the serpentine appearance of the spadix.
 
-The species is hardier than many other thermogenic aroids and can survive in temperate climates. It is increasingly popular in specialty plant collections for its prehistoric appearance and unusual pollination biology.
+The species is hardier than many other thermogenic aroids and can survive [[query-how-to-grow-and-use-oca-in-temperate-climates]]. It is increasingly popular in specialty plant collections for its prehistoric appearance and unusual pollination biology.
 
 ## Taxonomy and Morphology
 
@@ -34,7 +34,7 @@ The second species, *Dracunculus canariensis*, is endemic to the Canary Islands 
 
 The plant produces a single large leaf, or rarely two, emerging from an underground tuber. The leaf is highly dissected and palmate, measuring 30–100 cm across, with 7–15 lanceolate segments on long petioles.
 
-The tuber is large, often weighing 1–3 kg in mature specimens, and produces offsets that enable vegetative propagation.
+The tuber is large, often weighing 1–3 kg in mature specimens, and produces offsets that enable [[hamilton-vegetative-propagation]].
 
 Tubers can survive for decades under favorable conditions. In optimal Mediterranean climates, individual tubers have been documented exceeding 10 kg.
 
@@ -56,7 +56,7 @@ The species grows in rocky, well-drained soils in Mediterranean scrubland, open 
 
 It prefers partial shade to full sun and is adapted to hot, dry summers followed by moist winters. The above-ground foliage dies back completely during the summer dormancy period.
 
-Naturalized populations exist in parts of western Europe, the British Isles, and North America due to garden escape. These populations are generally localized and not considered ecologically invasive.
+Naturalized populations exist in parts of western Europe, the British Isles, and [[guzman-psilocybin-mushrooms-north-america]] due to garden escape. These populations are generally localized and not considered ecologically invasive.
 
 The species has been collected from the wild for ornamental use, and in some areas, wild populations have declined due to tuber harvesting. It is protected by law in parts of its native range.
 
@@ -72,7 +72,7 @@ Pollination is primarily carried out by flesh flies (Sarcophagidae), blow flies 
 
 The spathe acts as a temporary trap, preventing insect escape during the female phase of anthesis. Insects dusted with pollen from a previous visit transfer pollen to receptive stigmas.
 
-During the male phase, which follows the female phase, the trap mechanism relaxes and insects escape, picking up fresh pollen on their bodies. The entire flowering cycle lasts approximately 24–48 hours.
+During the male phase, which follows the female phase, the trap mechanism relaxes and insects escape, picking up fresh pollen on their bodies. The entire [[cannabis-photoperiod-flowering-cycle]] lasts approximately 24–48 hours.
 
 This pollination strategy is convergent with other carrion-mimicking aroids, including [[amorphophallus-konjac]] and species of *Helicodiceros* and *Arum*.
 
@@ -86,35 +86,4 @@ The plant is cold-hardy to approximately USDA Zone 6 when the tuber is planted d
 
 Tubers should be planted 10–15 cm deep in well-drained, humus-rich soil. They prefer a site with summer drought and winter moisture, mirroring Mediterranean climate patterns.
 
-Propagation is primarily by separation of tuber offsets in autumn or early spring. Seed germination is possible but slow, often requiring 1–3 years to produce a flowering-sized tuber.
-
-Tubers should be planted at a depth that places the growing tip approximately 10 cm below the soil surface.
-
-The plant is relatively pest-free, though slugs and snails may damage emerging foliage. The carrion odor lasts only 1–2 days and is rarely a significant nuisance in outdoor settings.
-
-Established clumps can become quite large over time, with mature specimens producing impressive displays of multiple inflorescences. Division every 5–7 years helps maintain vigor.
-
-## Cultural Significance
-
-In its native range, dragon arum has been associated with folklore and superstition. The serpentine spadix and foul odor contributed to beliefs that the plant possessed protective or magical properties.
-
-In traditional Greek and Italian folk medicine, preparations from the tuber were applied externally for skin conditions and inflammatory ailments.
-
-The raw tuber contains calcium oxalate raphides and is severely irritating if ingested. All parts of the plant should be handled with gloves, as sap can cause contact dermatitis in sensitive individuals.
-
-The species has been depicted in botanical art since the 16th century and remains a collector's plant in specialty horticultural circles. Its dramatic appearance makes it popular in botanical gardens and exotic plant collections.
-
-The name "voodoo lily," while common in horticultural trade, has no genuine connection to Vodou or African diasporic traditions. It likely arose from the plant's exotic appearance and unusual biology.
-
-The specific epithet *vulgaris* simply means "common" in Latin, reflecting the species' relative abundance within its native range.
-
-## See Also
-
-- [[amorphophallus-konjac]]
-- [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
-- [[saururus-cernuus]]
-- [[houttuynia-cordata]]
-- [[asarum-europaeum]]
-- [[asarum-canadense]]
-- [[aristolochia-clematitis]]
+Propagation is primarily by separation of tuber offsets in autumn or early spring. [[cannabis-seed-germination]] is possible but slow, often requiring 1–3 years to produce a flowering-sized tuber.

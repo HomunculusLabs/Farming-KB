@@ -63,3 +63,20 @@ Holmgren identifies key characteristics that water, soil, trees, and seed all sh
 ## Connections
 
 This principle is closely related to [[permaculture-principle-obtain-a-yield]] (stored energy becomes yield), [[permaculture-principle-produce-no-waste]] (waste is uncaptured energy), and [[permaculture-principle-use-and-value-renewable-resources]] (focusing on renewable energy flows). See also [[rainwater-harvesting-systems]], [[swale-design-construction]], [[soil-fertility-management]], and [[permaculture-principles]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-catch-and-store-energy]]
+- [[holmgren-catch-and-store-energy-four-landscape-storages]]
+- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-principle-creatively-use-and-respond-to-change]]

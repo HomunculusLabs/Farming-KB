@@ -87,13 +87,3 @@ pest insects, as chitin is a structural component of their exoskeletons. Adding
 chitin-rich materials like crushed shrimp shells to soil can stimulate
 chitinase-producing microbes, potentially helping to suppress soil-dwelling pest
 insects.
-
-## Summary
-
-Soil enzymes are the biochemical machinery of decomposition, produced primarily
-by bacteria and fungi to break down complex organic compounds.  Bacteria excel
-at decomposing cellulose and simpler compounds, while fungi dominate the
-breakdown of lignin and other recalcitrant materials.  Actinomycetes bridge both
-worlds with their filamentous growth and broad enzymatic capabilities. Nitrogen
-availability directly controls [[ligninolytic-enzyme-production-bioremediation]], linking the carbon and
-nitrogen cycles through the decomposition process.

@@ -16,14 +16,14 @@ The following US-based websites were identified as the primary international inf
 - **Erowid**: Comprehensive psychoactive substance database with dosage information, effects, trip reports, and harm reduction guidance
 - **Lycaeum**: Early internet psychedelic information resource
 - **Mycotopia**: Mushroom cultivation-focused community
-- **Shroomery**: One of the largest mushroom cultivation and identification communities
+- **Shroomery**: One of the largest [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] identification communities
 - **MushroomJohn**: Specialist mushroom information site
 - **The Entheogen Review**: Publication focused on entheogenic substances
 
 These international sites typically featured:
 - Species identification guides and photo galleries
 - Dosage charts and effects descriptions
-- Chemistry and pharmacology information
+- [[amanita-muscaria-chemistry-and-pharmacology]] information
 - Legal status by jurisdiction
 - User trip reports and experience sharing
 - Cultivation guides and technique discussions
@@ -31,7 +31,7 @@ These international sites typically featured:
 
 ## National and Regional Websites
 
-The EMCDDA identified dedicated websites focused on hallucinogenic mushroom use in specific domestic and regional contexts across Europe:
+The EMCDDA identified dedicated websites focused on [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]] in specific domestic and regional contexts across Europe:
 
 | Country | Website | Focus |
 |---|---|---|
@@ -53,7 +53,7 @@ These sites were typically created by non-profit organisations, mushroom users, 
 
 ### Information Democratization
 
-The proliferation of internet information played a crucial role in the European hallucinogenic mushroom trend of the late 1990s and early 2000s:
+The proliferation of internet information played a crucial role in the [[european-hallucinogenic-mushroom-prevalence-and-trends]] trend of the late 1990s and early 2000s:
 
 - **Reduced barriers to knowledge**: Users no longer needed personal connections to learn about mushroom identification, dosing, and effects
 - **Cultivation knowledge**: Detailed PF TEK and other cultivation guides became freely available, enabling home growing
@@ -64,7 +64,7 @@ The proliferation of internet information played a crucial role in the European 
 
 Online forums and discussion boards created virtual communities of mushroom enthusiasts:
 
-- **Location sharing**: Sites like Shroommap (UK) facilitated wild mushroom foraging by sharing known locations
+- **Location sharing**: Sites like Shroommap (UK) facilitated [[emcdda-wild-mushroom-foraging-misidentification-hazards]] by sharing known locations
 - **Cultivation support**: Communities like Mycotopia and Shroomery provided troubleshooting help for growers
 - **Market intelligence**: Users shared information about smartshop products, quality, and pricing
 - **Legal awareness**: Sites tracked changing legislation across European jurisdictions
@@ -80,7 +80,7 @@ The EMCDDA identified interest in natural hallucinogens as related to a "return 
 
 ## Mushroom Hunting Information Online
 
-Several internet resources provided guidance on wild mushroom identification and foraging:
+Several [[emcdda-internet-resources-magic-mushroom-websites]] provided guidance on wild mushroom identification and foraging:
 
 - **Identification guides**: Photo galleries and taxonomic descriptions to distinguish psychoactive species from toxic lookalikes
 - **Location databases**: User-contributed maps of known mushroom habitats
@@ -88,40 +88,3 @@ Several internet resources provided guidance on wild mushroom identification and
 - **Safety warnings**: Emphasis on the risks of misidentification, particularly confusion with toxic *Galerina* species
 
 The EMCDDA noted that evidence on the extent of wild mushroom collection in the EU was sparse, but qualitative reports from Poland, Ireland, and the Czech Republic confirmed that users do hunt for wild-growing mushrooms (*P. semilanceata* being the primary target species in Europe).
-
-## Online Commerce Integration
-
-Internet information repositories were closely linked to the emerging online retail market for hallucinogenic mushrooms:
-
-- Many information sites included links to or advertisements from online smartshops
-- Cultivation guides directly supported the market for growkits and spore prints sold online
-- Community discussions often included reviews of purchased products
-- Legal information sections helped users navigate the complex and changing regulatory landscape
-
-The EMCDDA's 2006 snapshot of online shops found 39 retailers selling mushroom products, with 82% based in the Netherlands. The internet information ecosystem and the commercial market were deeply intertwined.
-
-## Impact on Regulatory Responses
-
-The accessibility of online information about hallucinogenic mushrooms influenced policy responses in several ways:
-
-- **Evidence base**: Online trip reports and community discussions provided regulators with data on patterns of use
-- **Market visibility**: Internet sales made the mushroom market more visible to law enforcement
-- **Legal complexity**: Online information about legal status highlighted inconsistencies between national laws
-- **Rapid adaptation**: When countries prohibited psilocybin mushrooms, online communities quickly spread information about legal alternatives
-
-## Limitations and Risks
-
-The EMCDDA acknowledged several concerns about online mushroom information:
-
-- **Information quality**: Not all online information was accurate; unverified cultivation advice could lead to contamination or failed grows
-- **Misidentification risk**: Online identification guides could not substitute for expert mycological knowledge
-- **Encouragement of use**: Readily available positive trip reports and cultivation guides could promote experimentation
-- **Legal ambiguity**: Information about legal status was often outdated or jurisdiction-specific
-
-## See Also
-
-- [[emcdda-smartshop-and-retail-economics-europe|Smartshop and Retail Economics]]
-- [[emcdda-psilocybin-mushroom-online-shop-market-snapshot-2006|Online Shop Market Snapshot]]
-- [[emcdda-magic-mushroom-hunting-europe|Mushroom Hunting in Europe]]
-- [[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion|Barriers to Trend Diffusion]]
-- [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006|EU Prevalence and Barriers]]

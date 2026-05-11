@@ -44,7 +44,7 @@ Spores are hyaline, broadly ellipsoid, 10–16 × 6–9 μm, and unicellular. Py
 
 ## Distribution and Habitat
 
-*Parmelia sulcata* has a nearly cosmopolitan distribution in temperate regions. It occurs throughout Europe, North America, South America, eastern and southern Africa, Asia, and Australasia. It is absent only from tropical lowlands and arid deserts.
+*Parmelia sulcata* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It occurs throughout Europe, North America, South America, eastern and southern Africa, Asia, and Australasia. It is absent only from tropical lowlands and arid deserts.
 
 The species colonizes a broad range of substrates including the bark of both deciduous and coniferous trees, acidic to intermediate rocks, and occasionally worked wood and fence posts.
 
@@ -64,7 +64,7 @@ This chemotype is the most widely distributed across the species' range and is c
 
 A second chemotype contains stictic acid in place of salazinic acid, with an identical K+ reaction sequence.
 
-Geographic distribution of chemotypes correlates broadly with precipitation gradients, though both types may co-occur regionally. The stictic acid chemotype is more prevalent in oceanic areas with higher humidity.
+[[geographic-distribution-of-psilocybe-species]] chemotypes correlates broadly with precipitation gradients, though both types may co-occur regionally. The stictic acid chemotype is more prevalent in oceanic areas with higher humidity.
 
 The cortex contains atranorin as the major surface compound, providing the characteristic UV+ pale yellow fluorescence.
 
@@ -76,7 +76,7 @@ Trace amounts of norstictic acid, connorstictic acid, and cryptostictic acid hav
 
 *Parmelia sulcata* is a generalist epiphyte that plays an important role in forest canopy lichen communities.
 
-It frequently occurs in multi-species assemblages alongside *Hypogymnia physodes*, *Flavoparmelia caperata*, and *Physcia* species on mature tree trunks. These assemblages form characteristic epiphyte communities that vary with bark pH and canopy moisture.
+It frequently occurs in multi-species assemblages alongside *[[hypogymnia-physodes]]*, *[[flavoparmelia-caperata]]*, and *Physcia* species on mature tree trunks. These assemblages form characteristic epiphyte communities that vary with bark pH and canopy moisture.
 
 The species demonstrates moderate tolerance to atmospheric sulfur dioxide and is one of the first foliose lichens to recolonize bark surfaces following pollution abatement.
 
@@ -86,27 +86,4 @@ Birds occasionally use *P. sulcata* as nesting material, and its thallus fragmen
 
 Invertebrates, including oribatid mites and springtails, inhabit the thallus underlayer. These microarthropod communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and may facilitate soredial dispersal.
 
-Competitive interactions with faster-growing foliose lichens such as *Xanthoria parietina* on nutrient-enriched substrates may limit *P. sulcata* abundance in eutrophic environments. Nitrogen enrichment generally favors nitrophytic species over the oligotrophic *P. sulcata*.
-
-## Uses
-
-*Parmelia sulcata* is extensively used in [[cervantes-air-quality-ventilation]] biomonitoring programs worldwide. Its presence, coverage, and thallus health are standard metrics in lichen [[fungal-diversity-indices-community-analysis]] applied to environmental impact assessments.
-
-The species has been investigated as a bioaccumulator of heavy metals, particularly lead, cadmium, and zinc. Thallus tissue analysis provides time-integrated measures of atmospheric metal deposition at monitoring sites.
-
-In ecological research, *P. sulcata* serves as a model organism for studying lichen physiology, desiccation tolerance, and symbiont interactions. Its ease of collection and broad distribution make it accessible for comparative studies.
-
-Laboratory cultures of *P. sulcata* have been maintained for decades, enabling controlled experiments on photobiont selection, heavy metal uptake kinetics, and thermal tolerance limits. These studies have contributed significantly to understanding [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]] dynamics.
-
-Traditional uses are limited, though the species has been used as a dye source in some indigenous cultures, producing yellow-brown colors from its salazinic acid content. These applications are minor compared to dedicated dye lichens.
-
-## See Also
-
-- [[flavoparmelia-caperata]]
-- [[physcia-aipolia]]
-- [[xanthoria-elegans]]
-- [[usnea-barbata]]
-- [[lecanora-muralis]]
-- [[hypogymnia-tubulosa]]
-- [[ramalina-farinacea]]
-- [[cetraria-islandica]]
+Competitive interactions with faster-growing foliose lichens such as *[[xanthoria-parietina]]* on nutrient-enriched substrates may limit *P. sulcata* abundance in eutrophic environments. Nitrogen enrichment generally favors nitrophytic species over the oligotrophic *P. sulcata*.

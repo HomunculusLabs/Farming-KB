@@ -46,7 +46,7 @@ of an alpha-methyl group (the corresponding amphetamines) blocks the
 compound from easy access to the enzyme, and since that protects them
 from oxidative destruction, they are active. The oft-quoted exception
 
-is mescaline, and even it is largely destroyed, as evidenced by the
+is [[mescaline]], and even it is largely destroyed, as evidenced by the
 large amount needed for activity (a fraction of a gram). Sorry, I
 can't buy it. This entire book is peppered with phenethylamines that
 are active at the few-milligram area. Why aren't they also destroyed
@@ -88,20 +88,6 @@ mL of 1.5 N H2SO4. When both phases were completely clear, they were
 separated, and the aqueous phase washed once with 50 mL Et2O. There
 was then added 100 g potassium sodium tartrate, followed by sufficient
 base to bring the pH >9. This was extracted with 3x75 mL CH2Cl2, and
-the solvent from these pooled extracts was removed under vacuum. The
-residue was dissolved in 150 mL anhydrous Et2O and saturated with
-anhydrous HCl gas. There was a heavy crystallization of
-3,4-methylenedioxyphenethylamine hydrochloride (MDPEA) which weighed
-3.0 g and had a mp of 212-213 deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
-- [[mdal-entity-pihkal]]
-- [[mdbu-entity-pihkal]]
+- [[dmpea-entity-pihkal]]

@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Gaillardia pulchella**, commonly known as Indian blanket, firewheel, or blanketflower, is a short-lived annual or tender perennial in the family Asteraceae. It is native to the central and southern United States and northern Mexico, where it is one of the most conspicuous wildflowers of prairies and roadsides.
+**Gaillardia pulchella**, commonly known as Indian blanket, firewheel, or blanketflower, is a short-lived annual or tender perennial in the family Asteraceae. It is native to the central and southern [[dmt-containing-plants-united-states-halpern]] and northern Mexico, where it is one of the most conspicuous wildflowers of prairies and roadsides.
 
 The species is named for its distinctive flower heads, which feature a ring of bright red to orange ray florets tipped with yellow, creating a pattern reminiscent of a woven blanket. This striking coloration and its prolific blooming habit have made it a popular ornamental worldwide.
 
@@ -51,7 +51,7 @@ The pappus scales are rigid and truncate, a character that distinguishes Gaillar
 
 Gaillardia pulchella is native to the central and southern Great Plains, the southwestern United States, and northern Mexico. Its native range extends from Kansas and Colorado south to Texas, New Mexico, and Arizona, and east to Louisiana and Mississippi.
 
-The species has been widely introduced outside its native range and is naturalized in the eastern United States, California, Hawaii, South America, South Africa, Australia, and parts of Asia. In some regions, particularly Australia, it is considered an environmental weed.
+The species has been widely introduced outside its native range and is naturalized in the eastern United States, California, Hawaii, [[guzman-psilocybin-mushrooms-south-america]], South Africa, Australia, and parts of Asia. In some regions, particularly Australia, it is considered an environmental weed.
 
 It inhabits prairies, open woodlands, roadsides, and disturbed sites, preferring well-drained sandy or gravelly soils in full sun. The species is highly tolerant of heat, drought, and poor, nutrient-deficient soils.
 
@@ -65,7 +65,7 @@ It is considered a minor environmental weed in parts of southeastern Australia d
 
 Indian blanket is one of the easiest [[growing-gourmet-north-american-reishi-species]] wildflowers to cultivate, thriving in USDA hardiness zones 2 through 11 as a warm-season annual. It is often direct-sown in meadow plantings and requires no special soil preparation.
 
-Seeds should be sown in early spring after the last frost, or in autumn in mild climates. Germination occurs in 14 to 21 days without stratification. Light inhibits germination, so seeds should be lightly covered or raked into the soil surface.
+Seeds should be sown in [[coleman-overwintered-onions-and-early-spring-crops]] after the last frost, or in autumn in mild climates. Germination occurs in 14 to 21 days without stratification. Light inhibits germination, so seeds should be lightly covered or raked into the soil surface.
 
 Optimal soil temperature for germination is 20 to 25 degrees Celsius. Seed viability is typically 2 to 3 years under cool, dry [[vegetable-storage-conditions-by-temperature-and-humidity]].
 
@@ -79,7 +79,7 @@ The species is susceptible to aster yellows phytoplasma, which can cause distort
 
 ## Ecological Role
 
-Gaillardia pulchella is an exceptional nectar and pollen source for butterflies, native bees, and honey bees. The flowers are visited by a wide range of pollinators, including monarchs, painted ladies, skippers, and various bee species.
+Gaillardia pulchella is an exceptional nectar and pollen source for butterflies, [[query-how-to-attract-native-bees-and-beneficial-insects]], and [[comparison-honey-bees-vs-native-solitary-bees]]. The flowers are visited by a wide range of pollinators, including monarchs, painted ladies, skippers, and various bee species.
 
 The seeds are consumed by finches, sparrows, and other granivorous birds. The plants provide moderate cover value for ground-dwelling wildlife in open habitats.
 
@@ -88,29 +88,3 @@ In prairie and meadow ecosystems, Indian blanket serves as a pioneer species on 
 The species has low palatability to mammalian herbivores due to the bitter sesquiterpene lactones present in the foliage. This unpalatability contributes to its persistence in heavily grazed rangelands.
 
 The long bloom season provides nectar resources spanning several months, making the species particularly valuable for sustaining pollinator populations through periods of floral scarcity.
-
-## Ethnobotanical and Cultural Significance
-
-Limited ethnobotanical records exist for G. pulchella, though related species in the genus have documented medicinal uses. The Comanche reportedly used a decoction of the plant for skin conditions and as a eye wash.
-
-The Kiowa used the flowers ceremonially, and the species features in the folklore of several Plains tribes. The common name "Indian blanket" is said to derive from the resemblance of the flower's color pattern to traditional Native American textile designs.
-
-Dried flower heads retain their color reasonably well and are used in dried arrangements and craft projects, though the ray florets tend to curl and fade over time.
-
-The Oklahoma state wildflower designation reflects the species' cultural importance in the southern Great Plains, where vast natural stands color the prairie landscape in midsummer.
-
-In modern horticulture, G. pulchella and its hybrids are among the most commercially important North American native wildflowers. The species is widely marketed in wildflower seed mixes and is a staple of roadside beautification programs across the United States.
-
-Phytochemical studies have identified flavonoids, sesquiterpene lactones, and triterpenoids in the aerial parts, with some compounds exhibiting moderate antimicrobial activity in laboratory assays.
-
-## See Also
-
-- [[gaillardia-aristata]]
-
-- [[coreopsis-lanceolata]]
-- [[monarda-fistulosa]]
-- [[solidago-canadensis]]
-- [[coreopsis-tinctoria]]
-- [[echinacea-angustifolia]]
-- [[helianthus-annuus-entity]]
-- [[monarda-didyma]]

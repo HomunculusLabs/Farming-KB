@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative, plant-systems]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

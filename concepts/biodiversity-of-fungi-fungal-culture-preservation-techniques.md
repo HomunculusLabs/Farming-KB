@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-fungal-culture-preservation]] — Methods for Maintaining Viability
+title: Biodiversity Of Fungi Fungal Culture Preservation Techniques
 source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
 concepts: [culture-preservation, cryopreservation, lyophilization, silica-gel, fungal-culture]
 ---
@@ -88,63 +88,3 @@ product sealed in ampoules or vials. It is excellent for sporulating fungi (part
 ascomycetes and deuteromycetes) and can achieve essentially permanent preservation when
 sealed under vacuum or inert gas. A protective medium (often skim milk or sucrose) aids
 survival. The main limitation is that fungi with delicate mycelium — including many
-basidiomycetes — generally do not survive freeze-drying.
-
-### Cryopreservation in Liquid Nitrogen
-
-The most versatile and widely recommended long-term method. Cultures are stored at
-ultra-low temperatures, typically between **−135°C and −196°C** (liquid nitrogen phase).
-At these temperatures, all metabolic activity ceases and [[cannabis-genetic-stability]] is effectively
-guaranteed indefinitely. Most fungi survive cryopreservation, though cryoprotectants
-improve recovery rates. Common cryoprotectants include **glycerol** (5–10%) and **DMSO**
-(5–10%). A controlled-rate cooling step (~1°C per minute) is critical for many species to
-prevent lethal intracellular ice crystal formation. Cryopreservation is now the standard
-method adopted by major culture collections worldwide.
-
-### Agar Strip Vacuum-Drying
-
-A specialized technique described by Nuzum (1989) in which agar strips bearing fungal
-mycelium are vacuum-dried and sealed. Basidiomycetes preserved by this method survive
-approximately 18 months. While less durable than cryopreservation, it offers a practical
-middle ground for laboratories without liquid nitrogen infrastructure.
-
-## Record-Keeping, Distribution, and Shipping
-
-Rigorous documentation is inseparable from preservation. Each culture record should include
-species name and authority, isolate number, collection locality and date, substrate or
-host, collector name, preservation method, and dates of all transfers or retrievals.
-Electronic databases with backup copies are preferred over paper-only systems.
-
-Fungal cultures are routinely exchanged between institutions and culture collections.
-International shipments must comply with **phytosanitary regulations** and import/export
-permit requirements of both the sending and receiving countries. Packaging must prevent
-desiccation and contamination while maintaining viability during transit.
-
-## Permanent Preservation and Type Specimens
-
-The **International Code of Botanical Nomenclature (ICBN), Article 8.4**, recognizes living
-cultures as acceptable repositories for nomenclatural type specimens, provided they are
-preserved in a metabolically inactive state — typically through cryopreservation or
-lyophilization. This underscores the importance of reliable long-term methods for taxonomic
-mycology, where type cultures serve as the definitive reference for species concepts.
-
-## Choosing a Preservation Strategy
-
-No single method is optimal for all fungi. The choice should be guided by:
-
-| Factor | Consideration |
-|--------|---------------|
-| **Fungal group** | Basidiomycetes may require cryopreservation; sporulating ascomycetes tolerate lyophilization |
-| **Available infrastructure** | Liquid nitrogen and controlled-rate freezers represent significant investment |
-| **Duration of storage** | Short-term field work vs. permanent reference collection |
-| **Genetic stability needs** | Serial transfer risks drift; cryopreservation best preserves genotype |
-| **Regulatory context** | International exchange requires phytosanitary compliance |
-
-In practice, most well-managed culture collections employ a combination of methods, using
-short-term techniques for working stocks and long-term cryopreservation or lyophilization
-as the definitive archive.
-
-## See Also
-
-- [[biodiversity-of-fungi-soil-isolation-methods]]
-- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]

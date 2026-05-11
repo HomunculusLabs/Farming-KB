@@ -88,21 +88,3 @@ Antonio (1971) at the USDA for their core cultivation technique.
 
 This scientific grounding lent credibility to the guide and established
 it as more than a simple countercultural pamphlet. It served as a bridge
-between academic mycology and practical home cultivation that would
-influence the field for decades. See [[psilocybin-clinical-research-history]]
-for the parallel story of clinical [[early-paris-psilocybin-research-1960s]].
-
-## Broader Underground Publishing Context
-
-And/Or Press was one of many underground publishers operating in the
-1970s that produced practical guides on topics considered taboo by
-mainstream publishers. These publications collectively represented a
-movement to democratize knowledge about psychoactive substances,
-providing practical information that was absent from academic literature
-and actively suppressed by legal authorities.
-
-## Related Topics
-
-- [[field-guide-psilocybin-mushroom-species-identification]]
-- [[oss-oeric-dosage-guidelines-and-potency]] for pharmacology
-- [[oss-oeric-rice-cake-tek-methodology]] for methodology

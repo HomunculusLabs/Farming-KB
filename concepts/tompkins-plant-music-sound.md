@@ -3,8 +3,8 @@ title: Plants and Music/Sound
 created: 2026-04-26
 aliases: [Dorothy Retallack, plant music experiments, sonic botany]
 tags: [botany, acoustics, music, plant-growth]
-related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-electrical-signals]], [[tompkins-ancient-plant-knowledge]]]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-electrical-signals]], [[tompkins-ancient-plant-knowledge]]
+sources: Tompkins & Bird, [[plant-communication-volatile-organic-compounds]] of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -87,41 +87,3 @@ but rock music caused 55-59 ml to evaporate -- plants under rock were
 using much more water while apparently "enjoying it less."
 
 ## George Smith's Field Experiments
-
-George Smith in Normal, Illinois broadcast music continuously to corn
-plots. The musically entertained corn produced 137 bushels per acre
-versus 117 for untreated plots. High-frequency notes (1,800 cycles/sec)
-produced nearly 198 bushels; low notes (450 cycles) topped 200.
-
-## Weinberger's Ultrasonic Research
-
-At the University of Ottawa, Mary Measures and Pearl Weinberger found
-that spring and winter wheat responded best to a frequency of 5,000
-cycles per second. The effect "seemed to promise to double wheat
-harvests." Sound waves appeared to produce a "resonant effect" enabling
-energy accumulation in plant cells.
-
-## Hans Kayser's Harmonic Botany
-
-German author Hans Kayser, in Harmonia Plantarum, observed that
-projecting all tones within one octave and sketching their angles
-produces "the prototype of leaf form." The interval of the octave
-"contains within itself the form of the leaf." A passion flower's
-five-part petal arrangement and three-part pistil correspond to musical
-thirds and fifths -- "form-carrying prototypes" shaping blossom forms.
-
-## Key Quotes
-
-- "The hills are alive with the sound of music, with songs they have
-  sung for a thousand years." -- Oscar Hammerstein
-- "If rock is doing that to plants, man, I wonder what it's doing to
-  me?" -- rock musician observing Retallack's experiment
-- "Harmonic sound waves affect the growth, flowering, fruiting, and
-  seed-yields of plants." -- T.C. Singh
-
-## See Also
-
-- [[plant-perception]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- mycorrhizal-plant-signaling
-- [[mycorrhiza]]

@@ -33,7 +33,7 @@ edible and is collected by experienced foragers in regions where it occurs.
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi → Basidiomycota → Agaricomycetes →
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Basidiomycota → Agaricomycetes →
 Cantharellales → Cantharellaceae → Cantharellus → C. cinereus.
 
 The species was originally described by Persoon and has undergone several
@@ -58,7 +58,7 @@ hyaline, and inamyloid. The [[comparison-spore-print-collection-vs-spore-syringe
 C. cinereus is found across much of temperate Europe, from Scandinavia to the
 Mediterranean, and extends into parts of western Russia and the Baltic states.
 
-In North America, it occurs in northeastern and midwestern regions, particularly
+In [[guzman-psilocybin-mushrooms-north-america]], it occurs in northeastern and midwestern regions, particularly
 in association with oak, beech, and spruce forests on well-drained acidic soils.
 
 The species fruits singly or in scattered groups from mid-summer through autumn,
@@ -88,38 +88,3 @@ a single species name.
 
 C. cinereus is generally regarded as edible and of good quality, though it is
 less widely consumed than C. cibarius due to its less common occurrence and
-more subdued appearance.
-
-The flesh is firm and white, with a mild to slightly peppery aroma and a
-pleasant nutty flavor that intensifies with cooking.
-
-It is suitable for all standard chanterelle preparations: sautéing in butter,
-cream sauces, soups, and preserves. The firmer texture holds up well to
-prolonged cooking.
-
-As with all [[edible-wild-mushrooms-by-region]], positive identification by an experienced forager
-is essential before consumption, as several grey-brown ectomycorrhizal species
-are inedible or toxic.
-
-## Similar Species
-
-C. cinereus is most easily confused with C. cibarius in its paler forms, but
-can be distinguished by the consistently darker cap color and less vivid
-yellow-orange tones in the hymenophore.
-
-The false chanterelle (Hygrophoropsis aurantiaca) has true gills rather than
-ridges and grows on decaying wood rather than in mycorrhizal association.
-
-Several species of Omphalotus (jack-o'-lantern mushrooms) are bioluminescent
-and cause gastrointestinal distress, making accurate identification critical.
-
-The hedgehog mushroom (Hydnum repandum) has spines rather than ridges on its
-hymenophore, providing a clear distinguishing feature upon close inspection.
-
-## See Also
-
-- [[cantharellus-tubaeformis]]
-- [[suillus-luteus]]
-- [[armillaria-mellea-entity]]
-- [[agaricus-bisporus]]
-- [[mycology]]

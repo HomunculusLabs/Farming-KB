@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [comparison, agroforestry, wind-protection, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 type: comparison
 ---
 # Windbreak vs Hedgerow

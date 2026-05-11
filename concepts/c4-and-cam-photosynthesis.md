@@ -89,41 +89,6 @@ stomata may briefly reopen for additional CO₂ uptake. This temporal
 separation gives CAM plants 10-100× the water-use efficiency of C3
 plants, but lower maximum daily carbon gain (5-15 μmol CO₂ m⁻² s⁻¹).
 
-## CAM Diversity and Facultative CAM
-
-CAM occurs in ~6-7% of plant species across ~35 families. Key groups
-include cacti (Cactaceae), orchids (Orchidaceae — the largest CAM
-family), bromeliads, and succulents (Crassulaceae, Aizoaceae).
-Important CAM crops include pineapple, agave (tequila production and
-emerging bioenergy feedstock), and vanilla. CAM plants dominate deserts,
-epiphytic tropical canopy niches, and [[halotolerant-halophilic-fungi-saline-environments]]. Many species
-exhibit facultative CAM, switching between C3 and CAM depending on water
-availability. The ice plant (Mesembryanthemum crystallinum) switches
-from C3 to full CAM over 7-14 days under salt or drought stress. The
-switch involves upregulating PEP carboxylase, PPDK, and malate
-transporters via ABA signaling and epigenetic mechanisms.
-
-## Engineering C4 Rice
-
-The C4 Rice Project (IRRI, since 2008, Gates Foundation funded) aims
-to engineer C4 photosynthesis into rice, targeting 30-50% yield
-increases under tropical conditions with improved water and nitrogen
-efficiency. Progress includes identifying SCARECROW and SHR
-developmental regulators for Kranz-like anatomy with increased vein
-density, and expressing C4 enzymes with cell-specific promoters. A 2023
-milestone reported nearly complete C4 biochemical pathway expression
-in rice, though CO₂ concentrating function is not yet at wild-type C4
-levels. Full C4 rice is estimated 15-25+ years away. Alternative
-"single-cell C4" approaches inspired by the aquatic Hydrilla are also
-being explored.
-
-## Climate Change Implications
-
-Rising CO₂ (~420 ppm, projected 550-1000 ppm by 2100) directly
-benefits C3 plants by suppressing photorespiration; FACE experiments
-show 10-25% C3 yield increases at ~550 ppm. Above 700-800 ppm the C4
-photosynthetic advantage largely disappears. Rising temperatures
-simultaneously favor C4 plants. cuthill-mushroom-growing-seasons-and-temperature/drought
-stress. [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
+## See Also
+- [[fukuoka-high-yield-theory-photosynthesis-critique]]
+- [[tompkins-photosynthesis-biophotons]]

@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [psychedelics, ethnobotany]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/food-of-the-gods-terence-mckenna.md
 ---
 
@@ -87,18 +88,3 @@ The scholarly debate over the origins of religion in psychoactive plant use cent
 The Wasson-Eliade debate has broader implications for the understanding of religious evolution. If Wasson is correct, then all of the world's religions are, at their root, responses to the same type of psychoactive experience — an experience that has been progressively diluted, symbolized, and institutionalized as access to the original sacrament has been lost. This reading suggests that the common core of the world's religions is not a set of theological propositions but a type of experience — one that psychedelic plants can reliably reproduce.
 
 McKenna extended this argument to propose that the "perennial philosophy" — the recognition, found across mystical traditions, that consciousness is primary and the material world is derivative — may have its origins not in abstract metaphysical speculation but in the direct experience of ego dissolution induced by psychoactive plants. The similarities between Buddhist voidness, Hindu Brahman, Taoist emptiness, and the psychedelic experience of unity are, in this reading, not coincidental but phenomenological — they describe the same experience, reached through different means.
-
-See also:
-- [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-psychedelic-shamanism]]
-- [[mckenna-catalyzing-consciousness-and-language]]
-- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-- [[mckenna-archaic-revival]]
-- [[psychedelic-consciousness-models]]
-- [[psychedelic-mushroom-set-and-setting]]

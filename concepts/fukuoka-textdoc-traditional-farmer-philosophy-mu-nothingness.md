@@ -1,10 +1,11 @@
 ---
-title: "fukuoka [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] [[holzer-rebel-farmer-philosophy]] [[fukuoka-mu-nothingness-philosophy]] of Mu (Nothingness)"
+title: Fukuoka Textdoc Traditional Farmer Philosophy Mu Nothingness
 created: 2026-04-28
-tags: [farming-philosophy, mu, natural-farming, village-culture, japanese-agriculture, zen, spiritual-farming, do-nothing]
+tags: [farming-philosophy, mu, [[natural-farming]], village-culture, japanese-agriculture, zen, spiritual-farming, do-nothing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "The Natural Way of Farming - masanobu-fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
@@ -87,49 +88,9 @@ sawed down a tree. During transplanting, singing voices rolled over the paddy fi
 and the sound of drums surged through the village after the fall harvest. Nor was it
 that long ago that people used pack animals to carry goods.
 
-These scenes have changed drastically over the past twenty years or so. In the
-mountains, instead of the rasping of hand saws, we now hear the angry snarl of chain
-saws. We see mechanical plows and transplanters racing over the fields. Vegetables
-today are grown in vinyl houses ranged in neat rows like factories. The fields are
-automatically sprayed with fertilizers and pesticides.
-
-## The Loss of Human Touch
-
-Because all of the farmer's work has been mechanized and systematized, the farming
-village has lost its human touch. Singing voices are no longer heard. Everyone sits
-instead before the TV set, listening to traditional country songs and reminiscing over
-the past.
-
-We have fallen from a true way of life to one that is false. People rush about in a
-frenzy to shorten time and widen space, and in so doing lose both. The farmer may
-have thought at first that modern developments would make his job easier. Well, it
-freed him from the land and now he works harder than ever at other jobs, wearing
-away his body and mind.
-
-## The Chain Saw and Transplanter as Symbols of Decline
-
-The chain saw was developed because someone decided that a tree had to be cut faster.
-Rather than making things easier for the farmer, the mechanized transplantation of rice
-has sent him away from the fields entirely. Each labor-saving device that was supposed
-to free the farmer from toil has instead freed him from the land — and with it, from
-the source of his spiritual sustenance and the philosophy of Mu that arose naturally
-from a life lived close to the earth.
-
-## Connection to the Do-Nothing Philosophy
-
-False materialistic culture and agriculture begin and end by "doing." But the way of
-true man begins and ends by "doing nothing." The road of true man is an inner road.
-It cannot be followed by advancing outward. The path of a "do-nothing" nature where
-all one does is plunge into the bosom of nature, shedding body and mind, this is the
-road that true man must walk.
-
-The shortest path to attaining the state of true man is an open existence with simple
-garments and a simple diet, praying down to the earth and up to the heavens. True
-and free happiness comes by being ordinary; it is to be found only by following the
-extraordinary, methodless road of the farmer, irrespective of the age or direction.
-
-## Related Concepts
-
-- [[fukuoka-natural-farming-philosophy]] for Buddhist foundations
-- [[fukuoka-textdoc-creating-true-people-do-nothing-road]] for restoring true humanity
-- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]] for intuitive knowledge
+## See Also
+- [[fukuoka-textdoc-epilogue-barley-philosophy]]
+- [[fukuoka-textdoc-village-philosophy-disappearance]]
+- [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]]
+- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
+- [[fukuoka-textdoc-japan-postwar-farmer-alienation-mechanization-food-policy]]

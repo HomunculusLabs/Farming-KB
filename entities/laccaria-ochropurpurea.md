@@ -61,11 +61,11 @@ Spore print is white to pale pinkish.
 
 ## Distribution and Habitat
 
-*L. ochropurpurea* is found across eastern North America from southeastern Canada through the eastern United States, extending west to the Great Plains.
+*L. ochropurpurea* is found across eastern [[guzman-psilocybin-mushrooms-north-america]] from southeastern Canada through the eastern United States, extending west to the Great Plains.
 
 Fruiting occurs from mid-summer through autumn, often in association with oak-hickory forests, mixed hardwood stands, and occasionally conifer plantations.
 
-The species forms ectomycorrhizal associations primarily with *Quercus* spp. (oaks), but has also been documented with *Fagus* (beech), *Carya* (hickory), and *Pinus* (pine).
+The species forms [[ectomycorrhizal-associations]] primarily with *Quercus* spp. (oaks), but has also been documented with *Fagus* (beech), *Carya* (hickory), and *Pinus* (pine).
 
 It favors well-drained sandy or loamy soils in mature forest stands.
 
@@ -73,11 +73,11 @@ It favors well-drained sandy or loamy soils in mature forest stands.
 
 As an ectomycorrhizal fungus, *L. ochropurpurea* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees, enhancing phosphorus and nitrogen uptake.
 
-The species contributes to soil aggregation through hyphal networks and is considered a moderate to good mycorrhizal colonizer in forest restoration contexts.
+The species contributes to soil aggregation through hyphal networks and is considered a moderate to good mycorrhizal colonizer in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] contexts.
 
-It is one of the more prominent Laccaria species in oak-dominated ecosystems, often fruiting in scattered groups or fairy rings.
+It is one of the more prominent Laccaria species in oak-dominated ecosystems, often fruiting in scattered groups or [[bloomfield-fairy-rings-armillaria-giant-fungi]].
 
-Slugs and various insect larvae feed on the fruiting bodies.
+Slugs and various insect larvae feed on the [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 The species is relatively resilient to moderate habitat disturbance and can persist in second-growth forests, making it a useful indicator of recovering ectomycorrhizal communities.
 
@@ -85,30 +85,6 @@ The species is relatively resilient to moderate habitat disturbance and can pers
 
 The genus *Laccaria* produces several bioactive metabolites including laccarin (a fluorescent pigment) and various sesquiterpenes.
 
-*L. ochropurpurea* accumulates moderate levels of heavy metals from soil, particularly cadmium and lead, which may limit its edibility in contaminated sites.
+*L. ochropurpurea* accumulates moderate levels [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from soil, particularly cadmium and lead, which may limit its edibility in contaminated sites.
 
 No significant toxic compounds have been isolated from this species.
-
-## Edibility
-
-*L. ochropurpurea* is generally considered edible when thoroughly cooked, though it is not highly regarded for culinary purposes.
-
-The flesh is tough and fibrous, with a mild to slightly peppery taste and no distinctive odor.
-
-Some foragers collect young specimens for soups and stews, where prolonged cooking mitigates the fibrous texture.
-
-⚠️ As with all wild mushrooms, positive identification is essential before consumption.
-
-## Similar Species
-
-- **[[laccaria-laccata]]** — Smaller overall (cap 1–5 cm), more uniformly pinkish gills, finer stipe.
-- **[[laccaria-bicolor]] — Closely related ectomycorrhizal Laccaria species
-- laccaria-proxima — Western [[growing-gourmet-north-american-reishi-species]] counterpart
-- [[mycorrhiza]] — Overview of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-- [[russula-emetica]] — Another colorful ectomycorrhizal genus
-- [[pleurotus-ostreatus]] — Edible mushroom for comparison
-- [[amanita-muscaria-entity]] — Iconic [[mycelium-running-mycorrhizal-mushroom-gardens]] species
-
-## See Also
-
-- [[laccaria-amethystea]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Nicolosi, E. et al. (2000). "Citrus phylogeny and genetic origin of important species." Theoretical and Applied Genetics, 100(8), 1155–1166.
   - Ollitrault, P. et al. (2012). "Tandem repeat variation in the Citrus genome." BMC Genomics, 13, 581.
   - Ladaniya, M.S. (2008). Citrus Fruit: Biology, Technology and Evaluation. Academic Press.
@@ -86,29 +87,3 @@ Orange blossom water, distilled from the flowers, is used in Middle Eastern and 
 ## Varieties
 
 Sweet orange cultivars are broadly classified as common (white-fleshed), navel, blood, and acidless types. Navel oranges, characterized by a secondary fruit development at the apex, are the dominant fresh-market variety.
-
-Valencia orange is the leading juice cultivar worldwide. It produces high-quality juice with excellent color and flavor, with a later harvest season extending into summer months.
-
-Blood oranges (Tarocco, Moro, Sanguinello) develop anthocyanin pigments in the pulp under cool night conditions. They are prized for their raspberry-like flavor notes and deep red coloration.
-
-The Washington navel originated as a mutation in Bahia, Brazil, in the early 19th century. It was introduced to California in the 1870s and remains the standard navel cultivar in commercial orchards.
-
-## History and Ethnobotany
-
-The sweet orange likely arose in Southeast Asia, with genetic evidence pointing to a hybridization event between mandarin and pummelo in the region encompassing southern China and northern Indochina.
-
-Portuguese traders introduced sweet oranges to Europe in the 16th century, displacing the bitter orange (*C. aurantium*) that had been the primary citrus fruit since antiquity. The word "orange" derives from the Sanskrit *nāraṅga* via Arabic *nāranj*.
-
-Spanish missionaries established orange groves throughout Florida and California during the 18th and 19th centuries. Florida became the dominant juice-producing region by the early 20th century.
-
-The fruit has held [[ethnomycology-cultural-significance-sacred-fungi]] across many civilizations. In Chinese and Vietnamese culture, oranges symbolize prosperity and good fortune, and are exchanged during Lunar New Year celebrations.
-
-## See Also
-
-- [[cinnamomum-verum]]
-- [[vanilla-planifolia]]
-- punica-granatum
-- [[cymbopogon-citratus]]
-- [[eugenia-caryophyllata]]
-- [[glycyrrhiza-glabra]]
-- [[pimenta-dioica]]

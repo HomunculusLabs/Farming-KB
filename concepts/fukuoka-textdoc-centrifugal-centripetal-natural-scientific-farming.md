@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,39 +88,3 @@ that uses no pesticides — both approaches may look identical. The difference
 becomes apparent only over time, as the direction of movement reveals itself. The
 organic farmer who eliminates one input tends to add another (compost, [[coleman-cover-crop-rotation-and-soil-health]]
 management schedules, biological sprays), while the natural farmer continuously
-removes inputs, approaching the point of doing nothing.
-
-## Mu as the Destination
-
-Mu (無) — nothingness, void, or non-action — is the ultimate destination of natural
-farming's centripetal movement. This is not nihilism or laziness but a state where
-human action has been reduced to zero and the full power of nature is allowed to
-express itself. Fukuoka insists that Mu is not an absence but a fullness: when human
-meddling ceases, the completeness of nature is revealed.
-
-Scientific farming, heading toward infinity, can never arrive at its destination
-because there is always more to analyze, more variables to control, more
-interventions to design. Natural farming, heading toward zero, actually reaches its
-destination: the point where nothing needs to be done.
-
-## Implications for the Farmer
-
-For the farmer, understanding these opposing directions has practical significance.
-Every time a farmer adds a new technique, a new input, or a new management
-practice, they are moving centrifugally outward. Every time they remove an input or
-let a natural process take over, they move centripetally inward.
-
-Fukuoka does not advocate an abrupt jump to Mu. He describes his own forty-year
-journey of gradually eliminating practices — first pesticides, then fertilizers,
-then plowing, then weeding. The movement is gradual but the direction is clear and
-consistent.
-
-## See Also
-
-- [[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]]
-
-- [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]
-
-- [[fukuoka-textdoc-three-ways-farming-compared]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]
-- [[fukuoka-textdoc-sericulture-natural-vs-scientific-silk-production]]

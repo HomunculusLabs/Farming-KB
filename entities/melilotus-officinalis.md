@@ -27,7 +27,7 @@ sources:
 # Melilotus officinalis
 
 *Melilotus officinalis*, commonly known as yellow sweet clover, is a biennial legume in the family Fabaceae native to
-Eurasia but now naturalized across temperate regions worldwide. Valued simultaneously as a forage crop, nitrogen-fixing
+Eurasia but now naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Valued simultaneously as a forage crop, nitrogen-fixing
 cover crop, medicinal herb, and bee forage plant, it occupies a unique niche at the intersection of agriculture,
 permaculture, and herbalism.
 
@@ -50,19 +50,19 @@ The defining chemical characteristic of *M. officinalis* is its high coumarin co
   it is enzymatically converted to **dicoumarol**, a potent anticoagulant that inhibits vitamin K epoxide reductase.
 - **Flavonoids** — including quercetin, kaempferol, and luteolin glycosides with antioxidant and anti-inflammatory
   properties.
-- **Coumaric acid, melilotic acid** — phenolic compounds contributing to the plant's bioactivity profile.
+- **Coumaric acid, melilotic acid** — [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] contributing to the plant's bioactivity profile.
 - **Vitamins** — moderate levels of vitamin C, vitamin K, and B-complex vitamins in fresh foliage.
 - **Protein** — aerial parts contain 15–20% crude protein, comparable to alfalfa, making it valuable as forage.
 
 The dicoumarol poisoning risk is the primary safety concern: improperly cured sweet clover hay causes "sweet clover
-disease" in livestock, characterized by hemorrhaging. Modern curing practices (rapid drying, avoiding prolonged
+disease" in livestock, characterized by hemorrhaging. Modern [[amazonian-sorcery-illness-and-curing-practices]] (rapid drying, avoiding prolonged
 moist conditions) prevent dicoumarol formation.
 
 ## Traditional and Modern Medicinal Use
 
 In European herbal medicine, *M. officinalis* has been used for centuries:
 
-- **Topical applications**: Compresses and poultices for inflammatory conditions, bruises, sprains, and rheumatic
+- **[[cannabis-topical-applications]]**: Compresses and poultices [[cannabis-for-inflammatory-conditions]], bruises, sprains, and rheumatic
   pain; the anti-inflammatory flavonoids are believed to be the active constituents.
 - **Venous insufficiency**: Preparations have been used to treat varicose veins, hemorrhoids, and heavy legs, similar
   to horse chestnut preparations.
@@ -78,7 +78,7 @@ anticoagulant effects. German Commission E has approved *Melilotus* herb for top
 
 *Melilotus officinalis* is one of the most versatile cover crops available:
 
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Forms symbiotic relationships with *Rhizobium meliloti*, fixing 100–170 kg N/ha over a
+- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]**: Forms [[fungi-in-the-environment-symbiotic-relationships]] with *Rhizobium meliloti*, fixing 100–170 kg N/ha over a
   full growing season, comparable to clover and vetch.
 - **[[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Produces abundant above-ground biomass (8–12 t/ha) suitable for mulch, green manure, or
   compost feedstock.
@@ -88,49 +88,3 @@ anticoagulant effects. German Commission E has approved *Melilotus* herb for top
   many other legumes in semi-arid conditions.
 - **Bee forage**: One of the premier honey plants — Melilotus honey (known as "sweet clover honey") is light-colored,
   mild, and widely considered premium quality. The long flowering period (6–8 weeks) provides sustained nectar flow.
-- **Phytoremediation**: Demonstrated ability to accumulate heavy metals from contaminated soils, particularly zinc
-  and cadmium, making it useful in soil remediation projects.
-
-## Cultivation
-
-- **Sowing**: Direct sow in spring (after frost) or late summer; scarify seeds for improved germination (60–80%
-  with scarification vs. 30–40% without). Seed rate: 10–20 kg/ha.
-- **Soil**: Adaptable to poor, alkaline, and saline soils where many legumes struggle; pH range 6.0–8.5.
-- **Growth**: Biennial — first year establishes vegetative rosette and root system; second year produces tall flowering
-  stems, sets seed, then dies.
-- **Management**: Can be mowed multiple times in year one to encourage root growth and suppress weeds. In year two,
-  terminate before seed set to prevent self-seeding (which can become weedy in pastures).
-
-## Invasiveness
-
-*M. officinalis* is listed as an invasive or noxious weed in some jurisdictions (parts of the American West and
-Australia) due to its ability to colonize disturbed ground aggressively and compete with native vegetation. In
-permaculture contexts, this trait can be managed through strategic placement and timely termination before seed set.
-
-## Companion Planting and Permaculture Design
-
-In permaculture systems, sweet clover serves multiple functions simultaneously:
-
-- **[[nutrient-dynamic-accumulator-reference]]**: The deep taproot mines calcium, phosphorus, potassium, and trace minerals from subsoil
-  layers. When slashed and used as mulch, these minerals become available to shallow-rooted plants in the upper soil
-  profile. This "nutrient pump" function makes it an excellent companion for fruit trees and berry bushes in food
-  forest understories.
-- **[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat**: The prolonged flowering period attracts pollinators (honeybees, bumblebees, native
-  bees, butterflies) and predatory insects (syrphid flies, parasitic wasps) that provide pest control services to
-  adjacent crops.
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Quick establishment on slopes and disturbed sites makes sweet clover effective for erosion
-  control during the establishment phase of perennial plantings. The extensive root network stabilizes soil.
-- **Pest repellent**: The coumarin scent is reported to deter certain pest insects, though scientific evidence for
-  this is limited.
-
-## See Also
-
-- [[melilotus-albus]]
-
-- [[trifolium-repens]]
-- [[medicago-sativa]]
-- coumarin
-- comfrey
-- [[permaculture-design]]
-- [[companion-planting]]
-- [[herbal-medicine]]

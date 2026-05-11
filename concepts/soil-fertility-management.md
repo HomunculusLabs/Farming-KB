@@ -22,7 +22,7 @@ sources:
 
 # Soil Fertility Management
 
-Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use synthetic fertilizers. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
+Steve Solomon's "Gardening When It Counts" provides a comprehensive framework for managing soil fertility, especially for low-input homestead gardeners who cannot afford or choose not to use [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]]. The core thesis: you must understand the actual mineral needs of your crops and provide them systematically from organic or mineral sources.
 
 ## The Complete Organic Fertilizer (COF)
 
@@ -70,7 +70,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 - Rock phosphate at 30% P2O5 is the standard slow-release source
 
 ### Potassium (K)
-- Essential for disease resistance, fruit quality, drought tolerance, cell wall strength
+- Essential for disease resistance, fruit quality, [[dighton-fungal-drought-tolerance-plant-water-relations]], cell wall strength
 - **Deficiency**: Weak stems, poor fruit quality, yellowing leaf edges
 - **Most soils have adequate K** — deficiency is less common than N or P
 - **Organic sources**: Wood ash, kelp meal, greensand, sulfate of potash (mined)
@@ -79,7 +79,7 @@ Solomon's signature contribution is a balanced, custom organic fertilizer recipe
 ## pH: The Master Variable
 
 ### Why pH Matters
-Soil pH (0-14 scale, 7 = neutral) determines nutrient availability. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
+Soil pH (0-14 scale, 7 = neutral) determines [[ph-and-nutrient-availability-garden-soils]]. Most garden vegetables prefer slightly acid soil (pH 6.0-6.8). At the wrong pH, even abundant nutrients become "locked out" and unavailable to plants.
 
 ### Key pH Relationships
 - **Below 5.5**: Aluminum and manganese become toxic; phosphorus, calcium, and magnesium become unavailable
@@ -107,7 +107,7 @@ Solomon cautions against relying on compost alone as a fertility source:
 - To supply adequate nitrogen from compost alone, you would need to apply impractical volumes (several inches per year)
 - **Best use of compost**: As a soil conditioner applied at 1/4-1/2 inch per year, plus the COF for actual nutrient supply
 - Compost from manure is more nutrient-dense than compost from yard waste only
-- See [[vermicomposting]] for worm-based composting methods
+- See [[vermicomposting]] for worm-based [[composting-methods-comparison]]
 
 ## The Importance of Calcium
 
@@ -131,7 +131,7 @@ Calcium is arguably the most underappreciated nutrient in home gardening:
 - Releases nutrients slowly through microbial decomposition
 
 ### Building Organic Matter
-- [[cover-cropping-guide]] with legumes adds both N and organic matter
+- [[cover-cropping-guide]] with legumes adds both N [[mollison-humus-and-organic-matter-in-soils]]
 - Incorporating crop residues (not removing them)
 - Applying compost at 1/4-1/2 inch annually
 - Green manures (grown and tilled in before maturity)

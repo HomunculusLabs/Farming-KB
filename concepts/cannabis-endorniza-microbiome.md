@@ -1,9 +1,9 @@
 ---
-title: [[cannabis-endorhiza-microbiome]]
+title: Cannabis Endorniza Microbiome
 created: 2026-05-09
-source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [cannabis, microbiome, endophytes, endorhiza, root-bacteria]
-aliases: [cannabis root microbiome, cannabis endophytic bacteria]
+aliases: [[cannabis-root-microbiome]], cannabis [[endorhiza-endophytic-bacteria]]
 ---
 
 # Cannabis Endorhiza Microbiome
@@ -12,7 +12,7 @@ aliases: [cannabis root microbiome, cannabis endophytic bacteria]
 
 The **endorhiza** (Greek: *endo* = within, *rhiza* = root) is the microbial
 community inhabiting internal root tissues. In Cannabis, it is a cultivar-
-specific assemblage providing growth promotion, nutrient mobilization, disease
+specific assemblage providing growth promotion, [[gadd-mycorrhizal-mineral-weathering-nutrient-mobilization]], disease
 suppression, and modulation of plant secondary metabolism.
 
 Winston et al. (2014) provided the first comprehensive characterization using
@@ -26,8 +26,8 @@ inside root tissue without causing disease. Key differences:
 
 - Sheltered from environmental fluctuations in temperature, moisture, and pH
 - Direct access to plant-derived carbon not available in the rhizosphere
-- Face active plant immune surveillance requiring tolerance mechanisms
-- Community composition driven by host genotype, not soil type
+- Face active plant immune surveillance requiring [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]]
+- [[core-endorhiza-bacterial-community-composition-cannabis]] driven by host genotype, not soil type
 
 ## Sampling and DNA Extraction
 
@@ -46,7 +46,7 @@ All Cannabis plants shared a **[[core-endorhiza-microbiome-proteobacteria-enrich
 Most consistently abundant genus. Pseudomonas species are among the best-
 characterized plant growth-promoting endophytes, contributing through:
 
-- **Siderophore production**: Iron-chelating compounds limiting pathogen growth
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Iron-chelating compounds limiting pathogen growth
 - **Antibiotic production**: Phenazines and pyoluteorin suppress pathogens
 - **IAA synthesis**: Stimulates root growth and branching
 - **Phosphate solubilization**: Converts insoluble phosphorus into bioavailable
@@ -88,48 +88,3 @@ matter decomposition and nutrient recycling within the root zone.
 The most dramatic cultivar-specific finding was differential *Methylophilus*
 abundance — a methylotroph using plant-derived methanol (from pectin
 demethylation) as carbon:
-
-- **Bookoo Kush**: *Methylophilus* = 13% of endorhiza community
-- **Burmese**: Only 0.13%
-- **Sour Diesel**: Completely absent
-
-This 100-fold variation suggests cultivar-specific differences in pectin
-metabolism or cell wall composition create niche space for methylotrophs in
-some genotypes but not others.
-
-## Ecological Functions
-
-1. **Growth promotion**: Phytohormone production (IAA, cytokinins, gibberellins)
-   stimulating root and shoot development.
-2. **Nutrient mobilization**: Siderophore-mediated iron acquisition, phosphate
-   solubilization, nitrogen fixation.
-3. **Disease suppression**: Antibiotic production, competitive exclusion, and
-   [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR).
-4. **Stress tolerance**: ACC deaminase activity helping plants tolerate drought,
-   salinity, and heavy metals.
-5. **Phytotoxicant tolerance**: Degradation or sequestration of environmental
-   toxicants.
-6. **Secondary metabolism modulation**: Potentially influencing cannabinoid and
-   terpene production through signaling — an active research area.
-
-## Relationship to Terroir
-
-Endorhiza bacteria may contribute to Cannabis **terroir** — unique regional
-chemical characteristics. Because communities are cultivar-specific and
-endophytes influence plant secondary metabolism, the interaction between
-cultivar and regional microbial partners may produce distinctive phytochemical
-profiles, mirroring terroir findings in viticulture.
-
-## Knowledge Gaps
-
-- Functional characterization of most Cannabis endorhiza taxa is lacking;
-  inferences drawn from other plant species.
-- Temporal dynamics across the Cannabis life cycle are poorly understood.
-- Fungal endophytes (mycorrhizae, non-mycorrhizal fungi) were not characterized.
-- Influence on cannabinoid and [[cannabis-terpene-profiles]] remains speculative.
-
-## See Also
-
-- [[two-tier-selection-model]]
-- [[rhizosphere-microbial-communities]]
-- [[cultivar-specificity-microbiome]]

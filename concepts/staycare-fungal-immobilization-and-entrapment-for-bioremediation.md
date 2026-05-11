@@ -88,30 +88,3 @@ continuously produce fresh enzyme and can self-repair.
 
 The Pesta encapsulation strategy embeds spores or mycelia in a wheat
 flour gluten matrix. This method could not be adapted for P.
-chrysosporium because wheat gluten inhibited growth of the white rot
-fungus. Alternative carriers tested include vermiculite, sand, and peat
-granular mixtures adapted from agricultural inoculant technology. For
-bacterial systems, Flavobacterium entrapped in microbeads of agar,
-alginate, or polyurethane retained high PCP biodegradation rates.
-
-## Scale and Cost Considerations
-
-The cost of alginate makes it expensive as a large-scale delivery system
-for field bioremediation of large contaminated sites. However, for
-smaller applications and contained treatment systems, the improved
-survival and performance of encapsulated fungi may justify the expense.
-Shelf stability of formulated products is critical for commercial
-viability, with refrigerated storage significantly extending usable life.
-
-## Challenges
-
-Competition from indigenous microorganisms remains the primary challenge
-for [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] inocula. Non-aseptic conditions often lead to
-treatment failure as faster-growing organisms consume added nutrients.
-
-## See Also
-
-- [[disenchantment-and-modern-craving-for-fungal-enchantment]]
-
-- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
-- [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]

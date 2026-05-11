@@ -11,7 +11,7 @@ type: concept
 
 # Shade and Sunlight Requirements
 
-Steve Solomon emphasizes that sunlight is the fundamental energy source
+[[steve-solomon]] emphasizes that sunlight is the fundamental energy source
 for all plant growth. Without sunlight, plants cannot perform
 photosynthesis and must instead breathe oxygen like any other living
 thing, consuming their stored energy reserves. Understanding how
@@ -20,7 +20,7 @@ is essential for maximizing productivity.
 
 ## Full Sun: The Default Requirement
 
-Most garden vegetables perform best in full sun, which Solomon
+Most [[companion-cultivation-of-mushrooms-with-garden-vegetables]] perform best in full sun, which Solomon
 generally defines as at least six to eight hours of direct sunlight per
 day during the [[savory-growing-season-and-non-growing-season-management]]. Fruiting vegetables like tomatoes,
 peppers, eggplants, and cucurbits grow fast in full sun and in fertile
@@ -36,7 +36,7 @@ produce lower yields than those grown as a spring crop.
 
 ## How Crops Use Light
 
-Plants use sunlight to combine carbon dioxide from the air with water
+Plants use sunlight to combine [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from the air with water
 to make sugar. The more light a plant's leaves receive, the more sugar
 they can produce. A crop canopy that captures the maximum amount of
 available sunlight and converts it to biomass will produce the highest
@@ -57,7 +57,7 @@ the soil below. This natural canopy shade serves multiple purposes:
 it suppresses weed germination and growth, it reduces soil moisture
 evaporation, and it keeps root zones cooler in hot weather.
 
-This natural shade effect is one reason Solomon's extensive spacing
+This natural shade effect is one reason Solomon's [[solomon-intensive-vs-extensive-spacing]]
 system works well in dry conditions. Although individual plants are
 farther apart, they eventually grow large enough to shade the soil
 between them. The wider spacing allows each plant to develop a larger
@@ -80,49 +80,11 @@ shorter days and lower sun angle reduce the total light energy available
 to plants. This is why crops planted for autumn harvest need to be well
 established before light levels drop significantly.
 
-Some vegetables, particularly [[solomon-leafy-greens-growing]] and certain root crops, are
+Some vegetables, particularly [[solomon-leafy-greens-growing]] and certain [[permaculture-plants-root-crops-and-tubers]], are
 more tolerant of lower light levels. Brassicas like kale and Brussels
 sprouts actually benefit from the cooler conditions that come with
 shorter days and can continue growing productively into autumn.
 
 ## Garden Position and Light Management
 
-When planning the garden layout, taller plants should be positioned so
-they do not shade shorter ones. In Solomon's hill-planting system for
-sprawling crops like squash and melons, the [[solomon-wide-spacing-versus-intensive-gardening-debate]] ensures that
-even large plants do not completely shade neighboring rows.
-
-For gardens in areas with hot summer afternoons, some afternoon shade
-can actually benefit certain crops by reducing heat stress and moisture
-loss. In warm [[mollison-climate-zones-permaculture-strategies]], Solomon notes that careful variety
-selection and timing are more important than manipulating shade.
-
-## Photosynthesis and Plant Energy
-
-Solomon provides a clear explanation of photosynthesis for gardeners:
-when plants have sunlight, they take carbon dioxide from the air and
-combine it with water into sugar, releasing oxygen. This sugar fuels
-all plant growth, from root development to fruit production. Without
-adequate light, the entire system falters. This is why overcrowded
-plants (as in intensive spacing systems) ultimately suffer: they shade
-each other, reducing each plant's access to light.
-
-## Practical Implications for Garden Planning
-
-Understanding sunlight requirements has direct practical implications:
-
--  Orient rows north-south in most gardens to minimize shading
--  Space plants widely enough that mature plants do not shade each
-   other excessively
--  Use shade cloth or temporary covers to protect newly seeded beds
-   in hot weather
--  Choose [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] matched to your climate's day length and
-   light intensity patterns
--  Plan succession plantings so that each crop receives adequate light
-   during its peak production period
-
-## Related Concepts
-
-- [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-growing-vegetables-essentials]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
+When planning the [[gaias-garden-zone-and-sector-garden-layout]], taller plants should be positioned so

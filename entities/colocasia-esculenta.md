@@ -13,7 +13,7 @@ tags:
 sources:
   - "Matthews, P.J. (1991). \"A possible tropical wildtype taro, Colocasia esculenta.\" Pacific Science, 45(1), 55-66."
   - "Bown, D. (2000). Aroids: Plants of the Arum Family. Timber Press."
-  - "Onwueme, I.C. (1999). Taro Cultivation in Asia and the Pacific. RAP Publication."
+  - "Onwueme, I.C. (1999). [[comparison-chayote-vs-taro-cultivation]] in Asia and the Pacific. RAP Publication."
   - "Huang, C.C. et al. (2007). \"Molecular analysis of the taro (Colocasia esculenta) germplasm.\" Genetic Resources and Crop Evolution, 54(4), 813-821."
   - "Aguegia, V. et al. (2015). \"dighton-fungal-nutritional-composition-animal-diets of taro corms and leaves.\" Journal of Food Composition and Analysis, 42, 1-5."
 ---
@@ -65,8 +65,8 @@ Two major cultivar groups are recognized:
   long; rarely flowers under cultivation
 - **Propagation:** Almost entirely vegetative via corm pieces (sets)
   or cormels
-- **Reproductive biology:** Triploid and sterile in many cultivated
-  varieties; genetic diversity maintained through clonal propagation
+- **[[clarke-marijuana-botany-sex-determination-reproductive-biology]]:** Triploid and sterile in many cultivated
+  varieties; [[biodiversity-fungal-genetic-diversity]] maintained through clonal propagation
 
 ## Distribution and Cultivation
 
@@ -79,7 +79,7 @@ Cultivation spans diverse systems:
 - **Upland (dryland):** Rain-fed fields, hilly terraces, intercropped
   with cereals and legumes
 - **Lowland (wetland):** Flooded paddies and swamp margins
-- **Home garden:** Pervasive in tropical kitchen gardens as a staple
+- **[[cool-climate-home-garden-mollison]]:** Pervasive in tropical kitchen gardens as a staple
 
 [[chen-maitake-growth-parameters-environmental-control]]: optimal temperature 21–30°C, annual rainfall
 1,500–2,500 mm, tolerates 0–60 cm standing water, pH 5.5–7.0,
@@ -87,60 +87,3 @@ prefers loamy to clay loam soils with high [[hamilton-composting-and-organic-mat
 
 Maturity: 6–15 months depending on variety and conditions. Yields range
 from 5–30 tonnes/ha corms depending on cultivation intensity.
-
-## Nutritional Composition
-
-Taro corms provide significant nutritional value:
-
-- **Carbohydrates:** 20–30% (predominantly starch, small amounts of
-  sugar)
-- **Protein:** 1.5–3.0% (higher than cassava, comparable to sweet
-  potato)
-- **Fat:** <0.5% (very low)
-- **Fiber:** 3–5%
-- **Vitamins:** Rich in vitamin C (5–8 mg/100 g), vitamin B6, folate
-- **Minerals:** Potassium (480 mg/100 g), magnesium, phosphorus
-- **Calories:** ~112 kcal per 100 g fresh weight
-
-Taro starch has a very small granule size (1–5 μm), making it highly
-digestible and suitable for infant foods and specialty industrial
-applications. The leaves are also eaten as a cooked green, providing
-beta-carotene, vitamin K, and calcium.
-
-⚠️ **Oxalate content:** Raw taro contains [[fungal-calcium-oxalate-crystals]] crystals
-(raphides) that cause severe oral irritation. All parts must be cooked
-thoroughly before consumption. The acridity is neutralized by heat.
-
-## Bioactive Compounds and Traditional Medicine
-
-Taro contains several bioactive constituents:
-
-- **Oxalates:** Calcium oxalate crystals (primary defense compound;
-  reduced by cooking and processing)
-- **Phenolic compounds:** Including flavonoids ([[luteolin]])
-  and phenolic acids with antioxidant activity
-- **Polysaccharides:** Taro mucilage with immunomodulatory properties
-- **Protease inhibitors:** Lectins and amylase inhibitors
-
-Traditional medicinal uses across cultures include:
-
-- **Anti-inflammatory:** Poultices of corm applied to wounds and
-  inflammatory [[cannabis-for-skin-conditions-detailed]] in Polynesian and Ayurvedic practice
-- **Digestive support:** Cooked corm used as a bland, easily digested
-  food for convalescence and infant weaning
-- **Respiratory ailments:** Leaf preparations used in Chinese folk
-  medicine for coughs and bronchitis
-
-## [[agroforestry]] Applications
-
-Taro is exceptionally valuable in tropical permaculture systems:
-
-- **Multi-layer production:** Corms underground, leaves as greens,
-  petioles as vegetable — full plant utilization
-- **Wetland function:** Thrives in pond margins, drainage swales, greywater zones
-- **[[gyromitra-esculenta]]
-- [[gyromitra-esculenta]]
-
-## See Also
-
-- [[anthurium-andraeanum]]

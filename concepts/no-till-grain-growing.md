@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -87,28 +88,3 @@ Understanding when grain is ready:
 
 1. **Seed → sprout → seedling**: Initial growth with short leaves
 2. **Tiller**: Sends out thicker shoots
-3. **Stem growth**: Stem elongates
-4. **Booting**: Begins forming a head
-5. **Heading**: Head continues forming until complete
-6. **Flowering**: Pollination occurs
-7. **Milk stage**: Kernel forming, squeezes out milky fluid
-8. **Dough stage**: Kernel dries out, matures. Harvest at late dough stage — past milk stage but still dentable
-9. **Dead ripe**: Fully dry after letting it air-dry
-
-## Benefits
-
-- No machinery required
-- No chemical inputs
-- Extremely low energy requirement
-- Builds soil rather than depleting it
-- Continuous production without fallow periods
-- Small land area needed
-- Can be done entirely by hand
-
-## Related Topics
-
-- [[grain-harvesting-and-storage]] — [[purdue-vegetable-harvest-and-storage-guide]] methods
-- [[pasture-management-and-forage]] — rotational land use
-- [[fukuoka-natural-farming]] — Fukuoka's philosophy and methods
-- [[fukuoka-vegetable-growing-natural-method]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]

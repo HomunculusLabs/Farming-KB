@@ -6,10 +6,11 @@ tags:
   - fire-stick-farming
   - edge-effect
   - landscape
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - ~/wiki/raw/papers/holmgren-tripartite-altruism-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -43,11 +44,11 @@ irregular fields bordered by hedgerows, with woods and small copses of trees,
 tightly clustered villages, and a network of roads, lanes, streams, ponds, and
 drains -- in other words, full of carefully maintained edges.
 
-A hedgerow or shelterbelt can be thought of as a double forest edge, intersecting
+A hedgerow or shelterbelt can be thought of as a double [[forest-edge-windbreak-rainfall-compression]], intersecting
 crop and pasture land. Drainage and irrigation channels, ponds, and dams all
 increase the land-water interface. The change from small-scale intensive systems
 to large-scale monocultures eliminated much of this landscape complexity in edges,
-reducing wildlife habitat, wild food resources, and landscape amenity.
+reducing [[hemenway-backyard-wildlife-habitat]], wild food resources, and landscape amenity.
 
 ## Mediterranean Terracing
 
@@ -86,61 +87,3 @@ lowest-fertility soils. Gullies, southerly slopes, and more fertile sites acted 
 firebreaks.
 
 The effects of the fire regime were manifold:
-
-- Created open accessible ground along all routes used to traverse the land
-- Shaped mature trees, creating nest hollows and base hollows used for shelter,
-  including ancient revered birthing trees
-- Stimulated growth of lush [[knf-green-grass-liquid-fertilizer]] high in protein, attracting kangaroos
-  and other herbivores
-- Stimulated flowering in heathland plants (rich nectar sources) and was
-  critical in stimulating germination, fruiting, or tuber formation of diverse
-  food plants
-- Created an incremental decline in mineral fertility and organic content in
-  burnt areas, with nutrients lost in smoke and water mostly absorbed by unburnt
-  areas down slope
-
-## The Self-Reinforcing Pattern
-
-The culturally embedded land management practices produced a pattern of
-localised degradation and enrichment that was self-reinforcing. Nutrients lost
-from burnt areas were mostly absorbed by unburnt areas adjacent and down slope.
-Over time, these areas became more fertile, with [[holmgren-ecological-succession-and-pulsing]] to less
-fire-prone vegetation, often rainforest. These "islands" provided different food
-sources and habitat for animals that utilised the seasonal productivity of the
-burnt areas.
-
-This illustrates the fundamental pattern of energy distribution in Aboriginal
-landscapes and is a brilliant example of using edge between burnt and unburnt
-areas to increase total landscape diversity and productivity.
-
-## Cultural Landscape Versus Wilderness
-
-It is appropriate to regard the Australian landscape at the time of white
-colonisation as a cultural landscape well suited to human habitation, rather
-than a wilderness. Seasonal movements of Aboriginal groups followed specific,
-culturally embedded patterns for harvesting food and applying management
-practices. Harvesting and management were often achieved by the same activity
-done in apparently casual manner, with timing determined by precise synchronous
-cues in the natural environment.
-
-The early European settlers were confronted by a landscape alien and strange in
-all its elements; its diversity and edges were too subtle for many to consider
-it anything but monotonous. The differences from English cultivated landscapes
-were immense but not as great as commonly imagined today.
-
-## The Urban-Rural Fringe as Edge
-
-These edge principles apply equally to modern landscapes. The urban-rural fringe
-is a dynamic, diverse, and productive edge. The constant search for the edge
-between town and country, between human and natural worlds, is what drives
-suburban sprawl. The edge of suburbia, with its open paddocks and abandoned
-spaces, has been a great place to grow up for generations, but is inevitably
-destroyed as the suburban monoculture takes over.
-
-Progressive suburban design maintains green space along watercourses for amenity
-and stormwater management, and creates nodes of denser pedestrian-dominated
-## See Also
-
-- [[permaculture-edge-effect-design]]
-- [[water-management]]
-- [[holmgren-water-harvesting-storage-landscapes]]

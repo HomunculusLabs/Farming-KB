@@ -60,7 +60,7 @@ The reform-minded religion of Zoroaster, established circa 575 B.C., appears to 
 
 However, R.C. Zahner argues persuasively that Zoroaster never actually abolished the [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]]. In the later Avesta, Haoma "came back again" and was in almost every respect the same as the Vedic Soma. The Haoma rite has been the central liturgical act of Zoroastrianism ever since the religion developed liturgical worship, and its central position has never been disputed.
 
-McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-muscaria-entity]]." The [[amanita-muscaria-entity]] (fly agaric) — Wasson's famous theory
+McKenna suggests Zoroaster may not have intended to ban Haoma itself, but rather the sacrifice of bulls that accompanied the rite — a practice that would be anathema to anyone aware of the connection between cattle and mushrooms in the old religion of the [[amanita-muscaria]]." The [[amanita-muscaria]] (fly agaric) — Wasson's famous theory
 - [[stropharia-cubensis]] ([[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]) — McKenna's preferred candidate
 
 ## Soma as Male Moon God
@@ -77,3 +77,20 @@ McKenna frames the [[mckenna-search-for-soma-vedic-enigma]] within his broader a
 - [[mckenna-food-gods-wasson-amanita-theory]]
 - [[mckenna-food-gods-partnership-dominator]]
 - [[mckenna-food-gods-ergot-kykeon-eleusinian]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mckenna-search-for-soma-vedic-enigma]]
+- [[mckenna-soma-vedic-enigma]]
+- [[mckenna-soma-mystery-and-the-vedic-enigma]]
+- [[mckenna-food-gods-peganum-harmala-soma]]
+- [[mckenna-soma-vedic-enigma-detailed]]

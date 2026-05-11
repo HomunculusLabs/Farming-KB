@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative, soil]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Critique of Organic Farming and Ecology Movements

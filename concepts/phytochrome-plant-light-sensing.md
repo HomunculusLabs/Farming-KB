@@ -20,7 +20,7 @@ chromophore called phytochromobilin, a linear tetrapyrrole molecule related
 to the pigments found in chlorophyll. The chromophore is responsible for
 light absorption, while the apoprotein mediates [[fungal-environmental-sensing-signal-transduction]] to
 downstream cellular responses. Phytochrome exists in two stable isomeric
-forms: Pr (P660), which absorbs red light at approximately 660 nanometers,
+forms: Pr (P660), which absorbs [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] at approximately 660 nanometers,
 and Pfr (P730), which absorbs far-red light at approximately 730
 nanometers. These two forms are photointerconvertible: when Pr absorbs red
 light, it isomerizes to Pfr, and when Pfr absorbs far-red light, it
@@ -39,7 +39,7 @@ reversion, and some Pfr is also degraded by the proteasome. The rate of
 this dark reversion and degradation means that the duration of the dark
 period directly determines how much Pfr remains when dawn arrives. It is
 this residual Pfr level — or its absence — that the plant uses to measure
-night length and determine whether the photoperiodic conditions are
+[[photoperiodism-plants-measure-night-length]] and determine whether the photoperiodic conditions are
 appropriate for flowering.
 
 ## Night-Break Experiments and Photoperiodic Measurement
@@ -61,7 +61,7 @@ occurred.
 
 One of the earliest known phytochrome-mediated responses is the control of
 seed germination in light-sensitive species. Many small-seeded species,
-including lettuce (Lactuca sativa) and certain Arabidopsis ecotypes, require
+including lettuce ([[lactuca-sativa]]) and certain Arabidopsis ecotypes, require
 light exposure for successful germination. When such seeds are buried too
 deeply in soil, they remain dormant because the filter effect of the soil
 depletes red light and enriches the far-red component of any light that
@@ -77,7 +77,7 @@ Phytochrome also mediates the shade avoidance syndrome, a suite of
 responses that plants exhibit when growing in the shade of other plants. The
 canopy of neighboring vegetation absorbs most red light for photosynthesis
 while transmitting or reflecting far-red light. This shifts the red-to-far-
-red ratio (R:FR) of the light reaching shaded plants. Phytochrome detects
+[[phytochrome-red-far-red-ratio-shade-detection-plants]] (R:FR) of the light reaching shaded plants. Phytochrome detects
 this shift: the enriched far-red light converts Pfr back to Pr, signaling
 to the plant that it is being shaded. In response, the plant elongates its
 stems and petioles, accelerates leaf growth, reduces branching, and may
@@ -88,47 +88,3 @@ yield by redirecting resources from fruit or [[cannabis-controlled-pollination-s
 elongation.
 
 ## Genetic Complexity of the Phytochrome Family
-
-In [[arabidopsis-thaliana]] and many other plants, phytochrome is encoded by a
-small gene family rather than a single gene. Arabidopsis has five phytochrome
-genes (PHYA through PHYE), each with distinct but overlapping roles. PHYA is
-primarily responsible for sensing very low fluence rates of light and is
-important for germination and de-etiolation. PHYB is the major photoreceptor
-for continuous red light and plays a dominant role in shade avoidance and
-photoperiodic flowering. PHYC, PHYD, and PHYE contribute to various aspects
-of light sensing with varying degrees of [[functional-redundancy-fungal-communities]]. This genetic
-complexity allows plants to mount nuanced responses to a wide range of light
-conditions, from deep shade to full sunlight, and to integrate photoperiodic
-information with other environmental and endogenous signals.
-
-## Phytochrome and the Circadian Clock
-
-Phytochrome interacts extensively with the plant circadian clock, and this
-interaction is central to photoperiodic timekeeping. The circadian clock
-generates approximately 24-hour rhythms in gene expression, metabolism, and
-physiology that allow plants to anticipate daily environmental cycles.
-Phytochrome provides light input to the clock, entraining it to the
-external light-dark cycle. The coincidence between the internal circadian
-rhythm and the external photoperiod — formalized in the external coincidence
-model of photoperiodism — determines whether flowering genes are activated.
-In short-day plants, flowering occurs when the dark period coincides with
-the circadian-sensitive phase; in long-day plants, flowering requires that
-light coincide with this phase. Phytochrome, through its regulation of clock
-gene expression, provides the temporal information needed for this
-coincidence detection.
-
-## Related Topics
-
-- [[photoperiodism-garner-allard-discovery]]
-- [[maryland-mammoth-tobacco-photoperiodism]]
-- [[phototropism-darwin-experiments]]
-- plant circadian rhythm mechanisms
-
-## Sources
-
-- Smith, H. "Phytochromes and Shade-Avoidance Responses in Plants."
-  Annals of Botany (2000).
-- Quail, P.H. "Phytochrome photosensory signalling networks."
-  Nature Reviews Molecular Cell Biology (2002).
-- Thomas, B., and Vince-Prue, D. "Photoperiodism in Plants."
-  Academic Press (1997).

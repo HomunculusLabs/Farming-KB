@@ -26,7 +26,7 @@ trend. Future work in the field of emerging drug trends must consider the
 crucial part that contextual forces play in reinforcing or legitimating
 forms of regulation.
 
-Overall prevalence estimates for use of hallucinogenic mushrooms in the EU
+Overall prevalence estimates for use [[health-risks-of-hallucinogenic-mushrooms]] in the EU
 are considerably lower than those for cannabis. However, prevalence
 estimates for ever in lifetime use appear to equal those for ecstasy among
 young people in some countries. The highest prevalence estimates among young
@@ -46,12 +46,12 @@ actively seek out more intense experiences and be more prepared to experiment
 with new products. Increasing interest among young people in experimenting
 with hallucinogenic substances for recreational purposes may be driven by
 this megatrend. Also, increasing interest in natural and organic products may
-have enhanced the appeal of hallucinogenic mushrooms over synthetic
+have enhanced the appeal [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] over synthetic
 hallucinogens.
 
 ### Recreational Drug Settings
 
-During the last decade synthetic drugs such as ecstasy and other ecstasy-type
+During the last decade [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] such as ecstasy and other ecstasy-type
 stimulants emerged as a common feature of the music and dance scene in many
 parts of Europe. The accompanying increases in prevalence of recreational
 drug use during this period may have helped to establish a platform of
@@ -60,7 +60,7 @@ which are perceived as carrying low risk.
 
 Survey data show that individuals who frequent dance music settings, especially
 those who use other illegal substances, are much more likely to use
-hallucinogenic mushrooms than those who do not.
+[[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] than those who do not.
 
 ### Ease of Access
 
@@ -88,62 +88,3 @@ mushrooms, or using terms like 'plant' that exclude fungi) created an
 environment where commercial sale could flourish.
 
 ## Barriers to Diffusion
-
-Several factors have helped to prevent wider diffusion of this emerging
-trend.
-
-### Legal Control
-
-Since 2001, six EU Member States have tightened their legislation on
-hallucinogenic mushrooms to coincide with concerns about increasing
-prevalence. New legislation appears to have had an immediate impact on both
-the availability of hallucinogenic mushrooms in the UK and on the general
-volume of internet sales. The UK [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]] found 67% of respondents
-reporting reduced availability after the 2005 legal change.
-
-### Cost/Benefits of Use
-
-User accounts suggest that hallucinogenic mushrooms may not be viewed in a
-sufficiently favourable light to repeat the experience. Unpredictable potency
-and negative effects such as nausea, panic attacks, and lack of sociable
-effects may limit recreational use. Users do not find the experience as
-positively as the entactogenic effects of ecstasy.
-
-Diffusion of an emerging drug trend usually requires opportunities for the
-potential user to witness others using the substance in order to make a cost
-benefit assessment. Unlike ecstasy, which is purchased and taken in a
-convenient tablet form, mushrooms are usually chewed or brewed in hot water.
-This cumbersome route of administration, combined with unfamiliar and
-unpleasant taste, is likely to serve as a barrier to widespread or frequent
-use. Opportunities for young people to witness others using mushrooms are
-therefore limited and the potential for diffusion is lower than was the case
-for ecstasy.
-
-### Health Risks of Wild Picking
-
-The health risks associated with picking mushrooms in the wild, due to the
-fact that hallucinogenic mushrooms are easily mistakable for poisonous
-mushrooms, may limit the number of people willing to risk consuming wild
-mushrooms.
-
-## Harm Substitution Concerns
-
-The recent prohibition of [[psilocin]] containing fungi has
-provoked an emerging interest of retailers in alternative, legal types of
-hallucinogenic mushroom such as [[fly-agaric]]). The active
-chemicals in these are known to carry substantial toxicity risks and some
-closely related Amanita species are highly toxic. This harm substitution
-effect demonstrates that regulatory responses can have unintended
-consequences.
-
-## Conclusions
-
-This case study demonstrates that the emergence of a drug trend depends on
-a complex interplay of factors including consumer culture, commercial
-interests, legal frameworks, and user experience. The identification and
-monitoring of emerging trends demands a different approach from traditional
-drug surveillance, one that considers the role of lifestyle trends, economic
-forces, and the speed of internet-facilitated diffusion. The case illustrates
-## See Also
-
-- [[hallucinogenic-mushroom-eu-prevalence-adolescent-use-patterns]]

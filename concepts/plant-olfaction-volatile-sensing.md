@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-olfaction-and-volatile-signaling]] Sensing
+title: Plant Olfaction Volatile Sensing
 slug: plant-olfaction-volatile-sensing
 source: what-a-plant-knows-chamovitz
 tags: [plant-biology, olfaction, volatile-organic-compounds, plant-communication, ethylene]
@@ -8,14 +8,14 @@ created: 2026-05-09
 
 # Plant Olfaction and Volatile Sensing
 
-Plants possess a sophisticated ability to detect and respond to volatile organic compounds (VOCs) in their environment. This chemical sensing capability — the plant equivalent of smell — allows plants to perceive the presence of neighboring plants, detect herbivore attacks, coordinate defense responses, and even "eavesdrop" on the chemical conversations of other species. Plant olfaction operates through molecular mechanisms that, while fundamentally different from animal olfaction, achieve remarkably similar outcomes.
+Plants possess a sophisticated ability to detect and respond to [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) in their environment. This [[plant-olfaction-chemical-sensing]] capability — the plant equivalent of smell — allows plants to perceive the presence of neighboring plants, detect herbivore attacks, coordinate defense responses, and even "eavesdrop" on the chemical conversations of other species. Plant olfaction operates through molecular mechanisms that, while fundamentally different from animal olfaction, achieve remarkably similar outcomes.
 
 ## How Plants Detect Volatiles
 
 Plants detect volatile chemicals through receptor proteins and enzymatic systems rather than through dedicated olfactory organs:
 
 ### Receptor-Mediated Detection
-Plant cells possess receptor proteins that bind specific volatile compounds, triggering intracellular signaling cascades. Unlike animal olfactory receptors, which are G-protein-coupled receptors located in a specialized epithelium, plant volatile receptors are distributed throughout plant tissues and often serve multiple functions:
+Plant cells possess receptor proteins that bind specific [[mycovolatiles-fungal-volatile-compounds]], triggering intracellular signaling cascades. Unlike animal olfactory receptors, which are G-protein-coupled receptors located in a specialized epithelium, plant volatile receptors are distributed throughout plant tissues and often serve multiple functions:
 
 - Some receptors are located in the plasma membrane and detect extracellular volatiles that have diffused through the air or been carried in solution
 - Others may be intracellular, detecting volatiles that have crossed the plasma membrane and entered the cytoplasm
@@ -47,11 +47,11 @@ Methyl jasmonate (MeJA) is a volatile derivative of jasmonic acid, a key hormone
 - This "eavesdropping" on neighboring plant distress signals has been demonstrated in numerous plant species
 
 ### Green Leaf Volatiles
-Green leaf volatiles (GLVs) are C₆ aldehydes, alcohols, and esters produced when plant cell membranes are damaged by herbivore feeding or mechanical wounding. They give freshly cut grass its characteristic smell and serve multiple signaling functions across different trophic levels:
+Green leaf volatiles (GLVs) are C₆ aldehydes, alcohols, and esters produced when plant cell membranes are damaged by herbivore feeding or mechanical wounding. They give freshly cut grass its characteristic smell and serve multiple signaling functions across different [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]:
 
 - **Within-plant signaling**: GLVs are produced at the wound site and travel through the plant's vascular system or air spaces to activate defense genes in undamaged tissues within minutes of damage
 - **Between-plant signaling**: GLVs released into the air can be detected by neighboring plants, triggering defensive priming that makes them more resistant to subsequent attack
-- **Carnivore attraction**: GLVs attract predatory insects and parasitic wasps that prey on herbivores — an indirect [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] known as "the enemy of my enemy is my friend." This tritrophic interaction has been extensively documented in lima bean-spider mite-predatory mite systems
+- **Carnivore attraction**: GLVs attract predatory insects and [[parasitic-wasps-biological-pest-control]] that prey on herbivores — an indirect [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] known as "the enemy of my enemy is my friend." This tritrophic interaction has been extensively documented in lima bean-spider mite-predatory mite systems
 - **Fungal defense**: GLVs have direct antifungal properties and can inhibit pathogen growth at wound sites, providing an immediate chemical barrier against infection
 
 ### Methyl Salicylate
@@ -65,7 +65,7 @@ The ability of plants to communicate with each other through volatile chemicals 
 When one plant is attacked by herbivores or pathogens, it releases specific volatile blends that neighboring plants can detect and respond to. The responding plants do not simply react identically — they tailor their response based on the specific blend of volatiles detected, which encodes information about the type of attacker. This has been demonstrated in:
 
 - **Sagebrush (*Artemisia tridentata*)**: Plants growing near experimentally clipped neighbors showed reduced herbivore damage compared to controls. The volatile blend released after herbivore damage differed from that released after mechanical damage, and neighbors responded more strongly to herbivore-induced volatiles.
-- **Lima beans**: Plants exposed to volatiles from spider-mite-infested neighbors produced more extrafloral nectar to attract predatory mites, demonstrating a highly specific multi-trophic response
+- **Lima beans**: Plants exposed to volatiles from spider-mite-infested neighbors produced more extrafloral nectar to attract [[comparison-predatory-mites-vs-ladybugs-biocontrol]], demonstrating a highly specific multi-trophic response
 - **Wild tobacco**: Plants exposed to volatiles from herbivore-attacked neighbors primed jasmonic acid-dependent defenses, responding more rapidly and strongly when subsequently attacked themselves
 
 ### Kin Recognition
@@ -88,34 +88,3 @@ Plants also detect volatile chemicals from non-plant sources:
 
 ### Ripening Fruit
 The ethylene released by ripening fruit triggers a positive feedback loop where ethylene production accelerates ripening, which produces more ethylene. This is commercially exploited by shipping fruit unripe and exposing it to ethylene at the destination. Bananas, tomatoes, and avocados are commonly treated this way. This same principle means that keeping ripe and unripe fruit together on a kitchen counter will accelerate ripening of the unripe items.
-
-### Fungal Volatiles
-Plants can detect volatile organic compounds produced by soil fungi, including mycorrhizal partners and pathogenic species. These volatiles can trigger changes in root architecture and defense status before physical contact between plant and fungus occurs. Some plants even alter their root growth direction in response to fungal volatiles, growing toward beneficial mycorrhizal partners and away from pathogens.
-
-### Ozone and Air Pollutants
-Plants detect atmospheric pollutants including ozone (O₃), which enters through stomata and triggers oxidative stress responses. The plant's response to ozone shares signaling components with pathogen defense, including salicylic acid and ethylene pathways. Plants in polluted urban environments show altered volatile emission patterns compared to rural counterparts, which may affect their ability to communicate with neighboring plants and attract pollinators.
-
-## Applications in Agriculture
-
-Understanding plant volatile communication has practical applications in pest management, crop production, and post-harvest handling:
-
-- **Push-pull pest management**: Exploiting plant volatile signals to repel pests from crops (push) and attract them to trap crops (pull). This strategy has been successfully deployed in East Africa against stem borer moths in maize.
-- **Companion planting**: Interplanting species that produce beneficial volatile signals for their neighbors. For example, basil interplanted with tomatoes may provide some protection through volatile-mediated interactions.
-- **Post-harvest management**: Controlling ethylene exposure to manage fruit ripening and prevent premature senescence. Ethylene scrubbers and inhibitors are used in cold storage facilities worldwide.
-- **[[mycorrhiza-induced-resistance-defense-priming]]**: Applying volatile elicitors to prime crop defenses before pest or pathogen pressure. Methyl jasmonate sprays are commercially available for this purpose in some regions.
-- **Biological pest monitoring**: Traps baited with plant volatiles are used to monitor pest populations and time interventions more precisely.
-
-## Open Questions and Current Research
-
-Despite significant advances, many fundamental questions about plant olfaction remain unanswered:
-
-- **Identity of volatile receptors**: For many volatile signals, the specific receptor proteins have not yet been identified. Unlike ethylene receptors, which were characterized decades ago, receptors for GLVs and many other volatiles remain unknown.
-- **Signal specificity**: How plants distinguish between complex volatile blends in noisy natural environments is not well understood. A forest contains thousands of different volatile compounds simultaneously, yet plants can extract relevant signals from this chemical cacophony.
-- **Ecological relevance of eavesdropping**: The [[adaptive-significance-mushroom-tropisms-spore-dispersal]] of inter-plant volatile communication is still debated. Some researchers argue that the responses observed in laboratories may be artifacts of artificial conditions, though field studies increasingly support the phenomenon.
-- **Molecular mechanisms of volatile production**: The biosynthetic pathways for many plant volatiles are well-characterized, but the regulatory mechanisms that control when and how much volatile is released are still being elucidated.
-
-## See Also
-
-- [[plant-photoreception-light-sensing]]
-- [[plant-thigmomorphogenesis-mechanosensing]]
-- [[plant-gravitropism-spatial-awareness]]

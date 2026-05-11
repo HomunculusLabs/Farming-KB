@@ -1,5 +1,5 @@
 ---
-title: "holmgren permaculture education training and pdc, Training and the PDC"
+title: Holmgren Permaculture Education Training And Pdc
 created: 2026-04-26
 tags:
   - education
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
@@ -68,7 +69,7 @@ designs.
 Permaculture has been granted recognition through inclusion as an option
 in formal horticultural and tertiary courses. In 1992, a whole unit on
 Permaculture written by Holmgren was included in the first Australian
-postgraduate course in sustainable agriculture. Some university teachers
+postgraduate course in [[phosphate-accumulators-sustainable-agriculture]]. Some university teachers
 use Permaculture texts and resources.
 
 However, a perception of lack of intellectual rigour and the populist
@@ -87,45 +88,9 @@ primarily psychosocial rather than just political, requiring that people
 first recognise and act on their own responsibilities before pointing
 fingers at others.
 
-## Over-Promotion and Inoculation
-
-Sometimes permaculture-designed solutions have proved naive, misguided or
-counterproductive. Robert Gilman, editor of In Context magazine, spoke
-of the community being "inoculated against good ideas" by too early and
-strong a promotion before ideas are well tested and proven. The fact
-that Permaculture was catapulted into the popular domain so quickly may
-have muddled and perhaps short-circuited its further intellectual
-development.
-
-## Experiential Learning and Observation
-
-Holmgren argues that grassroots approaches to [[holmgren-energy-descent-permaculture-flower]] must find
-more efficient ways for people to learn through observation and direct
-experience. The [[holmgren-action-learning-loop]] loop -- observe, reflect, design,
-implement, observe -- is central to Permaculture pedagogy.
-
-The contribution of amateur observers to scientific knowledge is
-dramatically illustrated by the Australian bird observers. Similarly,
-the work of Melbourne doctor Louis Glowinski in his suburban backyard
-created one of the most important horticultural trial sites in southern
-Australia, demonstrating how amateur experimenters can advance knowledge.
-
-## The Value of Formal Education
-
-While acknowledging the value of formal education and communications
-media, Holmgren notes they are also part of the problem. Much needs to
-change in how formal education and media are structured to support rather
-than undermine sustainable futures. The Industrial Revolution's
-consequences have provided myriad opportunities for overcoming the
-limitations of direct experience, but the current system often channels
-creativity toward narrowly defined, short-term goals.
-
-See also [[holmgren-wholistic-design-thinking]],
-holmgren-design-science-discipline.
-
 ## See Also
-
-- permaculture-health-and-wholeness
-- permaculture-commonwork-and-livelihoods
-- pdc-adaptation-feedback-and-ecological-coherence
-- [[permaculture]]
+- [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
+- [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]
+- [[holmgren-energy-descent-permaculture-flower]]
+- [[holmgren-permaculture-flower-conceptual-framework]]
+- [[permaculture-ethical-principles-holmgren]]

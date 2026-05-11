@@ -1,10 +1,11 @@
 ---
-title: AACT Nematode and aact nematode protozoa management ingham (Ingham)
+title: Aact Nematode Protozoa Management Ingham
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -25,11 +26,11 @@ Three functional groups of beneficial nematodes:
 
 2. **Fungal-feeding nematodes**: Require fungal foods in the compost/worm bin. Most [[ingham-thermal-compost-versus-worm-compost]] lacks sufficient [[bioremediation-fungal-biomass-biosorbent-material]] for these nematodes — "too active or total fungal biomass" is the problem.
 
-3. **Predatory nematodes**: Feed on other nematodes including root-feeders. Critical for root-knot and lesion nematode management.
+3. **Predatory nematodes**: Feed on other nematodes including root-feeders. Critical for root-knot and lesion [[nematode-management]].
 
 ### Root-Feeding (Parasitic) Nematodes
 - Root-knot nematodes: Cause galling on roots. Managed through VAM fungi and trapping fungi in compost
-- Lesion nematodes: Attack root surfaces. Managed through non-host cover crops and biological controls
+- Lesion nematodes: Attack root surfaces. Managed through non-host [[cover-crops-and-green-manures]] biological controls
 - Cyst nematodes: Specific to certain crops. Managed through rotation and biological controls
 
 ## Managing Nematode Populations
@@ -38,13 +39,13 @@ Three functional groups of beneficial nematodes:
 Ingham's documented approach has reduced root-feeder nematodes from nearly 100 per gram to less than detectable within 6 months, using:
 
 1. VAM (mycorrhizal) inoculation of root systems
-2. Beneficial fungi in compost (including nematode-trapping and parasitic species)
+2. [[cervantes-trichoderma-beneficial-fungi]] in compost (including nematode-trapping and parasitic species)
 3. Bacterial-feeding, fungal-feeding, and predatory nematodes that interfere with root-feeders
 4. Non-host cover crops
 5. Soil testing to identify the specific root-feeder present
 
 ### Trapping Nematodes
-To trap parasitic nematodes, the compost must contain fungi that form:
+To trap [[comparison-free-living-vs-parasitic-nematodes]], the compost must contain fungi that form:
 - Tiny lassos
 - Fishing-line-like structures
 - Adhesive networks
@@ -68,7 +69,7 @@ Worm compost (vermicompost) provides ideal conditions for most beneficial nemato
 - Worm activity modifies bacterial, fungal, and protozoan communities
 - Paper and cardboard added to worm bins promotes beneficial fungi
 
-Thermal compost CAN have good nematode numbers, but not consistently — most thermal composters don't manage for biology. They compost to reduce waste, with the wrong attitude about the purpose of compost.
+[[aact-vermicompost-vs-thermal-compost-ingham]] CAN have good nematode numbers, but not consistently — most thermal composters don't manage for biology. They compost to reduce waste, with the wrong attitude about the purpose of compost.
 
 ### Getting Nematodes into Compost
 - Forest soil is the best source for beneficial nematodes
@@ -87,43 +88,3 @@ Protozoa are essential for nutrient cycling:
 ### Wake-Up Time
 Protozoa take approximately 2 weeks at 72°F to wake up and begin cycling nutrients after being added to a new environment. If immediate nutrient cycling is needed:
 - Add a protozoan inoculant
-- Use worm compost (highest protozoan diversity)
-
-### Protozoa for Algae Control
-Protozoa consume algae, especially in aquatic systems:
-- University of Wisconsin research demonstrated that algal blooms can be controlled by restoring protozoan populations
-- In golf course ponds, pesticides and [[ingham-inorganic-fertilizers-soil-biology-damage]] eliminated protozoa, allowing algae dominance
-- Restoration requires getting the foodweb links right — the right fish species eating the right organisms
-
-### Protozoa in Compost Tea
-- Protozoa from compost should survive into the tea if conditions remain aerobic
-- Testing for protozoa numbers in tea is part of SFI's standard assay
-- Protozoa contribute to nutrient cycling once tea is applied to soil
-
-## Practical Recommendations
-
-1. **Test your soil** for nematode identification before attempting management
-2. **Source good compost** with documented beneficial nematode populations (SFI website lists certified sources)
-3. **Add worm compost** to increase protozoan and beneficial nematode numbers
-4. **Maintain moisture** in compost bins — the most common failure point for nematode culture
-5. **Add fungal foods** (paper, cardboard, woody materials) to support fungal-feeding nematodes
-6. **Use VAM inoculants** for annual crops, deciduous trees, and grasses
-7. **Plan cover crops** that are non-hosts for specific nematode problems
-8. **Document with testing** — track changes through soil foodweb assays
-
-## The Bigger Picture
-
-Ingham's approach to nematodes exemplifies her overall philosophy:
-- Don't reach for a chemical nematicide — fix the biology
-- The right foodweb, in place, will suppress pest nematodes
-- Multiple mechanisms work simultaneously (competition, predation, trapping, parasitism)
-- Testing is required to confirm results — observation alone is insufficient
-- Local, indigenous organisms are preferred over introduced species
-
-See also: [[aact-brewing-ingredients-ingham]], [[aact-applications-guide-ingham]]
-
-## Related
-
-- [[ingham-moss-algae-control]]
-- [[ingham-cover-crops-soil-biology]]
-- [[compost-biology-soil-food-web-inoculation]]

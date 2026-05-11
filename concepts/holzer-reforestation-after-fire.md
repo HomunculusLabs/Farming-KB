@@ -83,33 +83,8 @@ trench method is so effective: the buried wood provides a replacement carbon
 sponge that captures and holds these mineral nutrients before they wash away.
 
 Soil microbial communities are devastated by fire, with temperatures above
-60°C killing most beneficial bacteria and fungi. [[soil-food-web]].
+60°C killing most beneficial bacteria and fungi. [[soil-foodweb]].
 
 ## Long-Term Monitoring and Adaptive Management
 
 Holzer stresses that reforestation is not a one-time intervention but an
-ongoing process. Newly planted areas should be monitored for signs of stress,
-erosion, or unwanted pioneer dominance. If grasses begin dominating and
-creating fire risk, Holzer recommends introducing grazing animals or
-additional tree plantings to shade out the grasses. The goal is to reach a
-self-sustaining [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] within 10 to 15 years, after which natural
-succession processes take over and human intervention becomes minimal.
-
-## Portugal and Russia: Case Studies
-
-- In Portugal, 300km of eucalyptus and stone pine monocultures along the
-  Lisbon-Porto motorway repeatedly burn. The EU forced Portugal to plant
-  these monocultures for pallet wood instead of food, creating a fire trap.
-- In Russia, 2010 fires destroyed an area twice the size of Austria. Peat
-  from drained moors burns several metres deep. Gully erosion amplifies fires
-  by funnelling wind. Vast areas covered in birch pioneer forest burn easily.
-
-## Prevention
-
-The answer to preventing future fires is always the same: [[holzer-terrace-systems]]
-- [[reforestation-with-pigs]]
-- [[holzer-water-landscapes-retention]]
-
-## See Also
-
-- [[holzer-brandroggen-fire-rye]]

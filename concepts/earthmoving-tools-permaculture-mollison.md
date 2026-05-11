@@ -1,15 +1,16 @@
 ---
-title: Earthmoving Tools and Machinery in [[permaculture]]
+title: Earthmoving Tools Permaculture Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, design, soil]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Earthmoving Tools and Machinery in Permaculture
 Updated: 2026-04-18
-Source: Permaculture: A Designers' Manual, Bill Mollison,
+Source: Permaculture: A Designers' Manual, [[bill-mollison]],
 Section 9.8 (pp. 241-247)
 ## Philosophy of Earth Moving
 People have always moved earth: to reach water in dry river
@@ -34,7 +35,7 @@ beneficial ends. We can revolutionise eroded and arid landscapes
 by commencing the process with tools and consolidating it with
 life forms, especially trees.
 ## Earthmoving Machine Attachments
-Just as there are hand tools suited to particular ways of
+Just as there are [[garden-hand-tools-solomon]] suited to particular ways of
 digging, so there are large machines suited to special landscape
 tasks. Any of these can be supplanted by human labour where it
 is plentiful. The basic earth-moving attachments are these:
@@ -87,35 +88,3 @@ inches) of soil thoroughly at a time. Even very heavy machines
 can seldom compact depths greater than 38cm (15 inches).
 ## Hydraulic Jets
 A simple jet nozzle fixed inside a pipe and connected to a
-garden tap may well serve to drill a water bore (a water spear)
-in a few minutes or hours in sands, gravels, or deep soils. A
-jet pump will remove silt, sediment, mulch, and even large
-gravel from a dam, and deposit these behind a retaining wall as
-rich terrace soil.
-## Laser-Guided Systems
-All large machines can now be laser-guided to accurately level
-and grade fields at a pre-set slope. Land forming is mainly
-restricted to large flattish irrigation areas or civil works,
-and is normally contracted out to specialists.
-## Earth Resources from Excavation
-Whenever earth is moved, it seldom reveals a uniform composition.
-The supervising designer or property owner will do well to put
-aside:
-- **Topsoil**: Dark, root-filled living surface (usually 6-18cm
-  deep). Carefully stripped off and later returned.
-- **Peats**: From marshes and bogs (1-9m depth). Valuable for
-  mixing with sands and loams.
-- **Clay**: Can be stockpiled for brick-making, dam sealing,
-  pottery, and porcelain.
-- **Sand**: Clean sand for grinding powder, silica chips, or
-  casting metals.
-- **Gravel**: For drainage, road metal, and concrete aggregate.
-- **Rocks and Boulders**: For retaining walls, gabions, and
-  landscaping features.
-## See Also
-- [[keyline-design-water-management]]
-- arid-landscape-permaculture
-- mollison-earth-resources-from-excavation
-- permaculture-designers-manual-fuel-wood-systems
-- [[bill-mollison]]
-- [[mollison-designers-beekeeping-honey-production-permaculture]]

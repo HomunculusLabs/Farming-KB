@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Brunfelsia americana is a species of evergreen shrub in the family Solanaceae, native to the Caribbean and tropical regions of the Americas. It is commonly known as Lady of the Night, raintree, or Franciscea, referencing its intensely fragrant flowers.
+Brunfelsia americana is a species of evergreen shrub in the family Solanaceae, native to the Caribbean and [[fukuoka-natural-farming-in-tropical-regions]] of the Americas. It is commonly known as Lady of the Night, raintree, or Franciscea, referencing its intensely fragrant flowers.
 
 The plant is renowned for producing clusters of tubular flowers that open creamy-white and gradually turn to pale yellow. The fragrance is strongest in the evening and at night, making it a popular choice for moon gardens.
 
-The common name "Lady of the Night" is shared with several other fragrant night-blooming plants across different families. In horticultural trade, the species is sometimes confused with Cestrum nocturnum due to similar fragrance profiles.
+The common name "Lady of the Night" is shared with several other fragrant night-blooming plants across different families. In horticultural trade, the species is sometimes confused with [[cestrum-nocturnum]] due to similar fragrance profiles.
 
 Brunfelsia americana is cultivated as an ornamental in tropical and subtropical regions worldwide. Like other Solanaceae species, it contains bioactive alkaloids that have been investigated for pharmacological properties.
 
@@ -46,7 +46,7 @@ Fruits are small, fleshy capsules or berries approximately 1–1.5 cm in diamete
 
 Brunfelsia americana is native to the Greater Antilles, including Cuba, Jamaica, Hispaniola, and Puerto Rico. Its range extends through the Lesser Antilles and into northern South America, particularly Venezuela and Colombia.
 
-The species is also found in Central America from southern Mexico through Panama. It has been introduced and naturalized in parts of Florida, Hawaii, and various Pacific Islands.
+The species is also found [[neurotropic-fungi-in-central-america]] from southern Mexico through Panama. It has been introduced and naturalized in parts of Florida, Hawaii, and various [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 It grows in moist, shaded or partially shaded habitats in tropical lowland and premontane forests. Typical habitats include forest understory, stream banks, and rocky slopes at elevations from sea level to approximately 1,500 meters.
 
@@ -68,13 +68,13 @@ Fertilization with a balanced slow-release fertilizer applied in spring and mid-
 
 Container cultivation is possible in cooler climates, where the plant can be moved indoors during winter. A minimum temperature of 10°C is required for continued growth.
 
-Cold damage occurs below 2°C, with leaf burn and dieback. Potted specimens should be brought indoors before the first frost in temperate regions.
+Cold damage occurs below 2°C, with leaf burn and dieback. Potted specimens should be brought indoors before the first frost in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## Bioactive Compounds
 
 Brunfelsia species contain a variety of tropane alkaloids and other bioactive compounds. Brunfelsia americana has been reported to contain brunfelsamidine and other indole-derived alkaloids.
 
-These compounds have shown biological activity in preliminary pharmacological studies, including antimicrobial and anti-inflammatory properties. However, clinical studies are limited and the therapeutic potential remains largely unexplored.
+These compounds have shown biological activity in preliminary pharmacological studies, including antimicrobial and anti-inflammatory properties. However, clinical studies are limited and the [[metzner-ayahuasca-therapeutic-potential]] remains largely unexplored.
 
 Some Brunfelsia species, particularly Brunfelsia grandiflora, are used in traditional South American medicine. Extracts are prepared as poultices or decoctions for treating skin conditions and inflammation.
 
@@ -87,26 +87,3 @@ Several research groups have isolated and characterized new alkaloids from Brunf
 ## Ecology and Cultural Significance
 
 The night-fragrant flowers of Brunfelsia americana are pollinated by moths and sphinx moths. The tubular flower form and evening scent are adaptations to nocturnal pollination syndromes.
-
-Nectar production peaks between dusk and midnight, coinciding with peak moth activity. The pale flower color is also visible to nocturnal pollinators under moonlight.
-
-Birds, particularly tanagers and thrushes, disperse the fleshy fruits. This contributes to the plant's ability to colonize disturbed areas and forest gaps in its native range.
-
-In Caribbean folk medicine, Brunfelsia americana has been used traditionally as a febrifuge and analgesic. Decoctions of the leaves and bark are applied externally for skin ailments.
-
-Ethnobotanical surveys in Cuba have documented the use of leaf infusions for treating headaches and menstrual discomfort. These traditional uses have not been validated by controlled clinical studies.
-
-The plant holds cultural significance in some Caribbean communities, where it is planted near homes for its fragrance and ornamental value. It is a common feature of traditional tropical garden design.
-
-## See Also
-
-- [[cestrum-nocturnum]]
-- [[brugmansia-suaveolens]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[solanum-nigrum]]
-- [[nicotiana-sylvestris]]
-- [[jasminum-officinale]]
-- [[jasminum-grandiflorum]]
-- [[nicotiana-tabacum]]
-- [[brugmansia-versicolor]]

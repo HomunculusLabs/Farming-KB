@@ -88,34 +88,3 @@ The rapid onset and [[savory-short-duration-grazing-and-cell-systems]] of nicoti
 make it suitable for repeated dosing during extended ceremonies. The
 combination of nicotine with MAO-inhibiting beta-carbolines naturally
 present in Tobacco may enhance and prolong its psychoactive effects.
-
-## Cultural and Historical Significance
-
-Tobacco's [[ethnomycology-cultural-significance-sacred-fungi]] in the Americas predates European
-contact by millennia. Archaeological evidence suggests Tobacco use
-among indigenous South Americans dating back thousands of years.
-The plant was considered sacred by numerous indigenous groups, who
-viewed it as a gift from the gods and a medium for prayer.
-
-After European contact in 1492, Tobacco spread rapidly across the
-globe, becoming one of the most widely used psychoactive substances in
-human history. As Schultes and Hofmann note, Tobacco's use "has spread
-throughout the modern world and is now of vital importance" in terms
-of its global economic, social, and health impact.
-
-## Modern Research and Legal Status
-
-Tobacco is legal worldwide for adults, though increasingly regulated
-through taxation, advertising restrictions, and public smoking bans.
-Modern research has focused on nicotine's complex pharmacology,
-including its potential therapeutic applications for cognitive
-enhancement, attention deficit disorders, and as an adjunct in
-smoking cessation. The public health impact of Tobacco use remains
-enormous, with smoking-related diseases constituting one of the
-leading causes of preventable death worldwide.
-## See Also
-
-- [[plants-gods-datura-solanaceous]] for the Nightshade family that
-  includes Nicotiana
-- [[plants-gods-peyote]] for another sacred plant central to Native
-  American ceremonial traditions

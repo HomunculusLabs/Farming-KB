@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa [[oner-sativa-vs-indica-classification]]
+title: Cannabis Sativa Indica Classification
 source: uwe-blesching-the-cannabis-health-index.md
 extracted: 2026-05-09
 type: concept
@@ -87,37 +87,3 @@ Terpenes are aromatic compounds that contribute significantly to the therapeutic
 - **Humulene**: Anti-inflammatory, appetite-suppressing. Found in hops and basil.
 
 The "entourage effect" suggests that terpenes interact synergistically with cannabinoids to produce effects that cannot be predicted from cannabinoid content alone. Two strains with identical THC and CBD levels but different terpene profiles may produce markedly different therapeutic and subjective effects.
-
-## Blesching's Approach to Strain Selection
-
-The Cannabis Health Index emphasizes evidence-based strain selection guided by:
-
-- **CHI score**: Each condition is rated for the strength of evidence supporting cannabis therapy, ranging from "possible" to "probable" to "actual" efficacy.
-- **Cannabinoid profile**: THC:CBD ratio is a more reliable predictor of therapeutic outcome than sativa/indica classification.
-- **Individual response**: Blesching stresses the importance of the "subjective therapeutic window"—each patient must determine their individual optimal dose and strain through careful self-observation.
-- **Setting and intention**: The CHI model incorporates psychological factors (setting, intention, exploration) alongside pharmacological factors, recognizing that the therapeutic outcome of cannabis use depends on more than just the chemical composition of the plant.
-
-## Practical Guidance for Strain Selection
-
-Despite the scientific limitations of the sativa/indica system, it remains a useful heuristic for patients:
-
-- **For daytime use**: Look for strains marketed as sativa-dominant with high limonene and pinene content, and moderate THC levels.
-- **For nighttime use and sleep**: Look for strains marketed as indica-dominant with high myrcene and linalool content.
-- **For pain and inflammation**: Consider strains with balanced THC:CBD and high caryophyllene content.
-- **For anxiety**: High-CBD strains or balanced THC:CBD strains with linalool may be preferable to high-THC sativas, which can exacerbate anxiety in some patients.
-- **Start low, go slow**: Regardless of strain classification, begin with the lowest effective dose and titrate upward gradually.
-
-## Key Research
-
-- Small, E. (2015). "Evolution and classification of Cannabis sativa (marijuana, hemp) in relation to human utilization." Botanical Review 81: 189-220.
-- Hillig, K.W. and Mahlberg, P.G. (2004). "A chemotaxonomic analysis of cannabinoid variation in Cannabis (Cannabaceae)." American Journal of Botany 91: 966-975.
-- Russo, E.B. (2011). "Taming THC: potential cannabis synergy and phytocannabinoid-terpenoid entourage effects." British Journal of Pharmacology 163: 1344-1364.
-- Blesching, U. (2015). The Cannabis Health Index. North Atlantic Books.
-- Mudge, E.M. et al. (2018). "Genetics and chemotype in the determination of drug-type Cannabis sativa L." Frontiers in Plant Science 9: 1-10.
-- Sawler, J. et al. (2015). "The genetic structure of marijuana and hemp." PLoS ONE 10: e0133292.
-- Lewis, M.A. et al. (2018). "Cannabis sativa: The plant of the thousand and one molecules." Frontiers in Plant Science 9: 1153.
-
-## See Also
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[cannabis-phenotype-and-genotype-guide]]
-- [[cannabis-endocannabinoid-system]]

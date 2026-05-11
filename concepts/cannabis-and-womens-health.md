@@ -35,7 +35,7 @@
     35|- The net effect of CBD on fertility is less well characterized than that of THC.
     36|- Some researchers suggest CBD might support fertility by helping maintain optimal anandamide tone.
     37|
-    38|## Cannabis and Menstrual Pain
+    38|## Cannabis and [[blesching-cannabis-menstrual-pain]]
     39|
     40|Menstrual pain (dysmenorrhea) is one of the most common gynecological complaints, affecting approximately 50-90% of women of reproductive age. It is classified as primary (without underlying pathology) or secondary (associated with conditions such as endometriosis or adenomyosis).
     41|
@@ -50,7 +50,7 @@
     50|
     51|## Cannabis and [[blesching-cannabis-morning-sickness]]
     52|
-    53|An estimated 50% of all pregnant women develop some form of morning sickness (nausea and vomiting of pregnancy, or NVP), typically beginning around the sixth week of gestation. While usually self-limiting and resolving by the end of the first trimester, severe cases (hyperemesis gravidarum) can lead to dehydration, electrolyte imbalances, and hospitalization.
+    53|An estimated 50% of all pregnant women develop some form of [[cho-morning-sickness-and-plant-cross-over-period]] (nausea and vomiting of pregnancy, or NVP), typically beginning around the sixth week of gestation. While usually self-limiting and resolving by the end of the first trimester, severe cases (hyperemesis gravidarum) can lead to dehydration, electrolyte imbalances, and hospitalization.
     54|
     55|**Cannabinoid mechanisms for nausea relief:**
     56|
@@ -62,7 +62,7 @@
     62|
     63|University researchers from Victoria, Canada (2006) collected self-assessment data from 51 pregnant women who used inhaled cannabis to alleviate morning sickness symptoms. Their analysis indicated that 40 of the women who chose to treat with inhaled cannabis found it to be either "extremely effective" or "effective."
     64|
-    65|**Important safety considerations:**
+    65|**Important [[ayahuasca-tourism-practitioners-and-safety-considerations]]:**
     66|
     67|The use of cannabis during pregnancy remains controversial and is generally discouraged by major medical organizations including ACOG (American College of Obstetricians and Gynecologists). Potential concerns include:
     68|
@@ -86,48 +86,5 @@
     86|
     87|**Estrogen-cannabinoid interactions:**
     88|
-    89|Estrogen influences endocannabinoid tone. Estrogen upregulates CB1 receptor expression and FAAH activity in some brain regions. During menopause, declining estrogen levels may alter endocannabinoid signaling, potentially contributing to some menopausal symptoms. This interaction suggests a theoretical basis for cannabinoid supplementation during menopause, though clinical research remains limited.
+    89|Estrogen influences [[endocannabinoid-tone-and-emotional-wellness-blesching]]. Estrogen upregulates CB1 receptor expression and FAAH activity in some brain regions. During menopause, declining estrogen levels may alter [[2-ag-endocannabinoid-signaling-blesching]], potentially contributing to some menopausal symptoms. This interaction suggests a theoretical basis for cannabinoid supplementation during menopause, though [[hofmann-lsd-clinical-research-early-studies]] remains limited.
     90|
-    91|## Strain and Form Considerations for Women's Health
-    92|
-    93|Different women's health conditions may benefit from different cannabinoid profiles:
-    94|
-    95|- **Menstrual pain:** Indica-dominant strains with analgesic and antispasmodic properties.
-    96|- **Morning sickness:** Very low doses of THC; alternatively, CBD-only preparations for anti-nausea effects without psychoactivity.
-    97|- **Menopause symptoms:** Balanced hybrid strains for daytime; indica strains for nighttime sleep support.
-    98|- **Fertility concerns:** CBD-dominant preparations that may support endocannabinoid tone without THC's potential disruptive effects on the HPG axis.
-    99|
-   100|## See Also
-   101|
-   102|- cannabis and pain management
-   103|- [[endocannabinoid-system-overview]]
-   104|- cannabinoid reproductive biology
-   105|
-   106|## Sources
-   107|
-   108|- Blesching, U. (2014). The Cannabis Health Index. North Atlantic Books.
-   109|- Park, B. et al. (2004). "Expression and Distribution of CB1 Receptors in Human Reproductive Tissues." Fertility and Sterility.
-   110|- Sun, X. & Dey, S.K. (2012). "Endocannabinoid Signaling in Female Reproduction." ACS Chemical Neuroscience.
-   111|
-
-## Mind-Body Considerations
-
-The mind-body connection is particularly relevant to women's health conditions. Emotional states, stress levels, and psychological well-being directly influence hormonal balance, menstrual regularity, and reproductive outcomes. Cannabis may help address the psychological components of women's health conditions through its anxiolytic and mood-stabilizing properties, but it should be part of a holistic approach that includes:
-
-- Regular physical activity adapted to the menstrual cycle.
-- Nutritional support emphasizing anti-inflammatory foods.
-- Stress management through meditation, yoga, or breathwork.
-- Adequate sleep and consistent [[plant-circadian-rhythms]].
-- Supportive social relationships and community connection.
-
-## Complementary Botanical Approaches
-
-Several botanical medicines have been studied alongside cannabis for women's health conditions:
-
-- **Chasteberry (Vitex agnus-castus):** Modulates dopaminergic activity in the pituitary, potentially normalizing progesterone levels.
-- **Black cohosh (Actaea racemosa):** Has been studied for menopausal symptom management with mixed but generally positive results.
-- **Evening primrose oil (Oenothera biennis):** Provides gamma-linolenic acid (GLA), a precursor to anti-inflammatory prostaglandins that may help with breast tenderness and menstrual discomfort.
-- **Ginger ([[zingiber-officinale]]):** Well-established anti-nausea properties that may complement cannabinoid effects for morning sickness.
-- **Fennel ([[foeniculum-vulgare-entity]]):** Extract was found to be more potent than mefenamic acid for primary dysmenorrhea in a clinical study.
-
-These botanical approaches may be combined with cannabinoid therapy for synergistic effects, though patients should consult healthcare providers about potential interactions.

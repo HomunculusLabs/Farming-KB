@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The Winter Harvest Handbook." Chelsea Green.
+  - eliot-coleman (2009). "The cold-house-winter-harvest-system Handbook." Chelsea Green.
 ---
 
 # Soil Health in the Winter Harvest Greenhouse
@@ -44,15 +44,15 @@ Compost is the foundation of soil fertility at Four Season Farm, and the
 greenhouse beds receive the same compost-based fertility program as the
 outdoor fields. Coleman applied finished compost to the greenhouse beds
 during [[azurescens-outdoor-bed-preparation-woodchips]], providing a slow-release source of nutrients and
-organic matter.
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 The compost serves multiple functions beyond nutrient supply. It improves
 soil structure, enhances water-holding capacity, provides habitat for
 beneficial organisms, and buffers against pH changes.
 
 Coleman's compost was produced on-farm using a carefully managed process
-that ensured high quality and consistent nutrient content. The same
-compost that went into outdoor beds was used in the greenhouse, ensuring
+that ensured high quality and consistent [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]. The same
+compost that went into [[holzer-mushroom-cultivation-outdoor-beds]] was used in the greenhouse, ensuring
 uniformity across the farm's growing systems.
 
 ## Minimal Soil Disturbance
@@ -67,7 +67,7 @@ protects [[dighton-mycorrhizal-networks-carbon-transfer]], and maintains the hab
 organisms that have been established through previous cropping cycles.
 
 The contrast with conventional greenhouse production, which often involves
-removing and replacing growing media between crops, highlights the
+removing and replacing [[green-cannabis-rockwool-hydroponic-growing-media]] between crops, highlights the
 sustainability advantages of Coleman's approach.
 
 ## Soil Biology Through Winter
@@ -87,58 +87,3 @@ matter levels.
 The continued biological activity also helps protect against soil-borne
 diseases. A diverse and active soil biological community competes with
 potential pathogens, reducing disease pressure on winter crops.
-
-## Moisture Management
-
-Soil moisture in the [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] requires careful management. The
-protected environment reduces evaporation compared to outdoor conditions,
-but the cold temperatures also reduce the soil's ability to absorb and
-drain water.
-
-Overwatering is a common mistake in winter greenhouse production. Cold,
-saturated soil has reduced oxygen availability, which can stress both
-plants and soil organisms. Coleman monitored soil moisture carefully and
-watered only when the soil showed clear signs of drying.
-
-The gravel-based soil system used in the Four Season Farm greenhouses
-provided excellent drainage, helping to prevent waterlogging even during
-wet periods.
-
-## pH and Nutrient Monitoring
-
-Coleman monitored soil pH and nutrient levels in the greenhouse beds as
-part of regular soil testing. The enclosed environment can lead to
-different nutrient dynamics than outdoor fields, particularly for elements
-that may accumulate from repeated compost applications.
-
-Soil testing results guided the application of lime for pH adjustment and
-any supplemental mineral amendments that might be needed beyond what
-compost provides.
-
-The goal was always to maintain balanced fertility rather than maximum
-fertility. Excessive nutrient levels, particularly nitrogen, can reduce
-the eating quality of winter greens and make them more susceptible to
-disease and pest pressure.
-
-## Long-Term Soil Productivity
-
-The sustainability of the winter harvest system depends on maintaining
-long-term soil productivity. Coleman recognized that the greenhouse beds
-are a finite resource that must be cared for over decades of production.
-
-This long-term perspective influenced every soil management decision. Short-
-term productivity gains that might compromise soil health — such as heavy
-fertilizer applications or excessive cultivation — were avoided in favor of
-practices that maintain the soil's productive capacity over time.
-
-The result is a greenhouse soil system that has remained productive for
-many years without the need for soil replacement or major rehabilitation,
-a testament to the effectiveness of biological soil management.
-
-## See Also
-
-- [[coleman-soil-block-transplant-system]]
-
-- [[coleman-winter-harvest-philosophy]]
-- [[winter-succession-planting]]
-- [[coleman-spring-transition]]

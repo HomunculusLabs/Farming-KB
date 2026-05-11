@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the neurotropic-fungi"
+  - "Guzmán, Allen & Gartz (1998) - A Worldwide psilocybe-geographical-distribution-patterns of the neurotropic-fungi"
 type: concept
 ---
 
@@ -34,12 +34,12 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 
 | Species | Key Regions | Notes |
 |---------|------------|-------|
-| **P. subbalteatus** (syn. P. cinctulus) | Cosmopolitan; Americas, Europe, Asia, Africa, Oceania | One of the most widely distributed; often on horse dung |
+| **P. subbalteatus** (syn. P. cinctulus) | Cosmopolitan; Americas, Europe, Asia, Africa, Oceania | One of the most widely distributed; often on [[horse-dung-rice-grain-substrate-preparation]] |
 | **P. sphinctrinus** | Cosmopolitan; all continents except Antarctica | Very common on many types of dung |
 | **P. fimicola** | Cosmopolitan; Europe, Americas, Africa, Asia | Common on cow and horse dung |
 | **P. papilionaceus** (syn. P. retirugis) | Cosmopolitan; Europe, Americas, Africa, Asia | One of the most common dung fungi |
 | **P. africanus** | Africa (Chad, Sudan, Central African Republic, India) | African species |
-| **P. cyanescens** | Not used in Guzmán et al.; this name is now applied to what was P. copelandi | Nomenclatural confusion with Copelandia cyanescens |
+| **P. cyanescens** | Not used in Guzmán et al.; this name is now applied to what was P. copelandi | Nomenclatural confusion with [[copelandia-cyanescens]] |
 | **P. olivaceus** | Europe (Czechoslovakia, Denmark, Finland, Great Britain, Iceland, Netherlands, Sweden) | Northern temperate |
 | **P. ater** | Cosmopolitan; Europe, Africa, Asia, Oceania | Widely distributed |
 | **P. castaneifolius** | Great Britain | Rare |
@@ -56,7 +56,7 @@ Gerhardt (1996) provided a comprehensive taxonomic revision of both genera. Some
 |---------|-------------|-------|
 | **P. foenisecii** (the haymaker's mushroom) | Cosmopolitan; Europe, Americas, Africa, Asia, Oceania | The most widespread species in the group; common in lawns |
 
-The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content. It generally contains very low levels of psilocybin and psilocin compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
+The psychoactivity of P. foenisecii has been debated. Robbers et al. (1969), Fiussello and Ceruti Scurti (1972), and Allen and Merlin (1992c) have studied its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content. It generally contains very low levels of [[hplc-analysis-of-psilocybin-and-psilocin]] compared to other neurotropic species, and its psychoactivity is considered questionable by some authors.
 
 ## Geographic Distribution by Continent
 
@@ -88,61 +88,3 @@ Europe has the best documented diversity for this group, with the following spec
 **Mexico**: P. fimicola, P. papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus, P. venezolanus
 
 ### South America
-
-- **Argentina**: P. fimicola, P. papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus
-- **Brazil**: P. fimicola, P. papilionaceus, P. sphinctrinus, P. subbalteatus
-- **Colombia**: P. papilionaceus, P. sphinctrinus
-- **Venezuela**: P. campanulatus, P. papilionaceus, P. sphinctrinus, P. venezolanus
-
-### Africa
-
-- **South Africa**: P. papilionaceus, P. retirugis, P. subbalteatus
-- **Morocco**: P. fimicola, P. papilionaceus
-- **Tanzania**: P. aquamarina (reported under Panaeolus)
-- **Kenya**: P. aquamarina
-- **Chad, Sudan, Central African Republic**: P. africanus, P. microsporus
-
-### Asia
-
-- **Japan**: P. ater, P. fimicola, P. papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus
-- **India**: P. africanus, P. ater, P. microsperma, P. papilionaceus, P. sphinctrinus, P. subbalteatus, P. venezolanus
-- **Thailand**: P. rubricaulis
-- **Sri Lanka**: P. ater, P. papilionaceus, P. rubricaulis
-- **Philippines**: P. papilionaceus, P. sphinctrinus, P. subbalteatus
-- **Cambodia**: No specific Panaeolus listed
-- **Indonesia**: P. ater
-
-### Oceania and Pacific
-
-- **Australia**: P. ater, P. fimicola, P. olivaceus, P. papilionaceus, P. retirugis, P. sphinctrinus, P. subbalteatus
-- **New Zealand**: P. subbalteatus
-- **Hawaii**: P. sphinctrinus, P. subbalteatus
-- **New Guinea**: P. rubricaulis, P. subbalteatus
-- **Macquarie Island (Antarctic)**: P. mollearinus
-
-## Chemistry and Potency
-
-The Panaeolus/Panaeolina group generally contains **lower concentrations** of psilocybin and psilocin compared to Psilocybe and Copelandia species. Key chemical findings:
-
-- **P. subbalteatus**: Contains psilocybin, psilocin, and baeocystin; considered moderately potent
-- **P. sphinctrinus**: Contains low levels of psilocybin and psilocin
-- **P. fimicola**: Contains trace amounts of indole alkaloids
-- **P. foenisecii**: Questionable psychoactivity; contains very low levels of active compounds
-- **P. africanus**: Contains psilocybin and related compounds
-
-## Ecological Role
-
-All Panaeolus and Panaeolina species are coprophilous, playing an important ecological role in decomposing herbivore dung. They are among the first fungal colonizers of fresh dung and contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland ecosystems. Their dung preference means they are commonly found in:
-
-- Pastures and meadows
-- Horse paddocks
-- Cow fields
-- Occasionally on enriched soil
-## See Also
-
-- [[copelandia-cyanescens]]
-- copelandia-genus
-- Psilocybe Genus Overview
-- [[neurotropic-fungi-classification]]
-- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
-- [[gymnopilus-genus-neurotropic-species]]

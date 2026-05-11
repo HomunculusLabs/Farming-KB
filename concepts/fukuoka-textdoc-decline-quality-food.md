@@ -5,6 +5,7 @@ tags: [food-quality, modern-agriculture, petroleum-agriculture, food-synthesis, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka argues that modern agriculture's reliance on petroleum-based
+[[masanobu-fukuoka]] argues that [[fukuoka-critique-modern-agriculture]]'s reliance on petroleum-based
 energy has fundamentally degraded the quality of food. What began as farming
 under the open skies has been reduced to the manufacture of petroleum-derived
 foods, with the farmer becoming a seller of false goods called "nutritional
@@ -52,10 +53,10 @@ the chance, at first, of insect damage or blight.
 Since root absorption of nutrients dissolved in water is inefficient, the
 [[cannabis-nutrient-solution-preparation]] is sprayed on a regular basis over the entire plant. Nutrients
 are taken in not only through the roots, but also through leaf surfaces, making
-them more immediately available and resulting in a higher growth rate. The
+them more immediately available and resulting in a higher [[soil-temperature-plant-growth-rate-doubling-rule]]. The
 temperature is increased and the level of light exposure raised with artificial
-lighting. Carbon dioxide is sprayed and oxygen pumped in, making plant growth
-several times faster than in field cultivation.
+lighting. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is sprayed and oxygen pumped in, making plant growth
+several times faster than in [[fukuoka-rice-dry-field-cultivation]].
 
 ## The Illusion of Quality
 
@@ -87,28 +88,3 @@ synthesize starch, perhaps even by the saccharification of wood and oil.
 
 Man has learned how to synthesize nucleic acid and cellular proteins and nuclei,
 and is beginning to synthesize and recombine genes and chromosomes. He has even
-begun thinking that he can [[eclss-environmental-control-life-support]] itself. Not only that: as the notion
-has settled in that he may soon be able to alter all living things in any way
-he pleases, man has begun fancying himself as the Creator.
-
-Yet all that he learns, all that he performs and creates with science, is a
-mere imitation of nature and propels him further along the path to suicidal
-self-destruction.
-
-## The Fundamental Error
-
-The path from soil to sand to plastic to pure chemical synthesis represents not
-progress but progressive alienation from the source of life itself. Each step
-removes the food further from its natural context and degrades its essential
-character as nourishment for the human body and spirit. What appears as
-efficiency and productivity is actually a form of systematic impoverishment.
-
-## Connection to Natural Farming
-
-In 
-
-- [[fukuoka-artificial-food-synthesis-degradation-food-quality]]
-
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-textdoc-nature-of-food]]

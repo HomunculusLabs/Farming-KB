@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Soil erosion is the detachment and transport of soil particles by water, wind, or gravity. It is the leading cause of soil degradation globally, with topsoil forming at rates of 0.5-1.0 ton per acre per year while erosion on conventionally farmed land can exceed 5-10 tons per acre per year. Erosion control is fundamental to [[pollinator-conservation|conservation]], [[water-management]], and sustainable land stewardship on any homestead.
+Soil erosion is the detachment and transport of soil particles by water, wind, or gravity. It is the leading cause of soil degradation globally, with topsoil forming at rates of 0.5-1.0 ton per acre per year while erosion on conventionally farmed land can exceed 5-10 tons per acre per year. Erosion control is fundamental to [[pollinator-conservation]], [[water-management]], and sustainable land stewardship on any homestead.
 
 ## Types of Erosion
 
@@ -52,13 +52,13 @@ A = R x K x LS x C x P
 - **K (Soil erodibility)**: Inherent susceptibility of soil to erosion; sandy and silty soils are most erodible
 - **LS (Slope length and steepness)**: Longer and steeper slopes increase erosion exponentially
 - **C (Cover and management)**: Vegetative cover and management practices; the factor most easily modified by landowners
-- **P (Support practices)**: Structural measures like terraces, contour farming, and stripcropping
+- **P (Support practices)**: Structural measures like terraces, [[natural-farming-guide-contour-farming-strip-cropping]], and stripcropping
 
 ### Key Principles
 1. Any exposed soil is vulnerable to erosion
 2. Erosion increases exponentially with slope steepness and length
 3. Vegetation cover is the single most effective erosion control measure
-4. Soil organic matter and aggregation dramatically reduce erodibility
+4. [[knf-leaf-mold-humus]] and aggregation dramatically reduce erodibility
 5. Concentrated water flow is far more erosive than sheet flow
 
 ## Vegetative Control Measures
@@ -66,15 +66,15 @@ A = R x K x LS x C x P
 ### Cover Crops
 Living plant cover protects soil from raindrop impact and binds soil with roots:
 
-- **Winter cover crops**: Cereal rye, winter wheat, crimson clover, hairy vetch protect soil through winter
+- **Winter cover crops**: Cereal rye, winter wheat, [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch protect soil through winter
 - **Summer cover crops**: Buckwheat, cowpeas, sorghum-sudangrass cover soil between cash crops
 - **Permanent cover**: Maintain permanent vegetation on steep slopes, waterways, and critical areas
-- See [[cover-cropping-guide|cover crop]] for species selection and management details
+- See [[cover-cropping-guide]] for species selection and management details
 
 ### Permanent Vegetation
 - **Grassed waterways**: Plant grasses in natural drainage channels to convey water without erosion; use sod-forming species like tall fescue, smooth bromegrass, or switchgrass
 - **Critical area plantings**: Steep slopes, gullies, and highly erodible areas should be planted to permanent vegetation; native prairie grasses and forbs are ideal; see [[prairie-ecology]]
-- **Buffer strips**: Strips of permanent vegetation along waterways, field edges, and property boundaries filter runoff and trap sediment
+- **Buffer strips**: Strips of permanent vegetation along waterways, field edges, and [[holzer-high-beds-property-boundaries]] filter runoff and trap sediment
 
 ### Mulching
 Mulch protects soil surface from raindrop impact and reduces runoff velocity:
@@ -101,7 +101,7 @@ Swales are shallow channels on contour that slow, spread, and sink runoff:
 - Intercept runoff before it concentrates and erodes
 - Allow water to infiltrate into the soil, recharging groundwater
 - Can be planted with grasses, shrubs, or trees
-- See [[swale-design-construction|swales]] for detailed design and construction guidance
+- See [[swale-design-construction]] for detailed [[farm-pond-design-and-construction]] guidance
 
 ### Diversion Structures
 - **Diversions**: Channels that divert water away from vulnerable areas to safe discharge points

@@ -87,10 +87,3 @@ Cho was not only a farmer and inventor but also a dedicated teacher. His approac
 ## The KNF Input System
 
 Cho developed a complete library of natural farming inputs, each produced from locally available materials:
-
-- [[master-cho-knf-ffj-fermented-fruit-juice-guide]] and FPJ (Fermented Fruit/Plant Juice) -- nitrogen sources
-- [[knf-oriental-herbal-nutrient]] (Oriental Herbal Nutrient) -- health tonic
-- [[water-soluble-calcium-wca]] and [[knf-brown-rice-vinegar]] (Brown Rice Vinegar) -- growth promoter and mineral solvent
-- [[four-principles-of-natural-farming]]
-- [[knf-nutritive-cycle-theory]]
-- [[korean-natural-farming-lab-and-ohn-recipes]]

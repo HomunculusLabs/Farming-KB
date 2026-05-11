@@ -6,6 +6,7 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, commercial, ice]
 ---
 
@@ -87,53 +88,7 @@ results:
 - The resin is later pressed into hash for distribution.
 
 This represents approximately 3-4 percent yield by weight from
-leaf material, consistent with water extraction yields
-documented elsewhere by Cervantes.
-
-## Critical Temperature Control
-
-Maintaining water temperature at or below 41 degrees F
-(5 degrees C) is critical throughout the entire process. Warm
-water softens resin glands, causing them to stick together in
-unmanageable lumps rather than separating cleanly from plant
-material. Keep plenty of ice on hand and monitor temperature
-frequently.
-
-If foam develops on the water surface, spray and wash it away
-so you can see what you are doing and prevent foam from
-depositing resin and debris on the bags. The color of the
-water should be light green, which signifies all the hash and
-impurities have been cleaned out. Dirty water contains more
-contaminants.
-
-## Post-Processing
-
-Once dry, Colombian hash makers traditionally roll and press
-the hash into beautiful balls. The dried resin can be pressed
-using hand methods, bottle pressing, or mechanical hydraulic
-presses depending on the desired final form.
-
-The hash-laden water that passes through the first filtration
-can be run through additional, finer bags for a second pass
-that produces cleaner, higher-quality product. This two-stage
-process mirrors the 15-bag method used by expert hash makers
-like Mono in Amsterdam.
-
-## Safety and Cleanliness
-
-Stuffing bags of cold leaves into the washing machine takes
-patience. Make sure bags are properly zipped and balanced.
-The machine's motor and electrical wiring must never touch
-water, as this could cause electrocution.
-
-Clean all bags thoroughly after each use. Rinse with plenty
-of water to remove gooey resin and debris that can clog sieve
-pores. Clean screens with 96 percent pure alcohol so no
-oil-based resin remains. Let bags dry completely before
-storing to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and fungus.
 
 ## See Also
-
-- [[cervantes-hash-making-extracts]]
-- [[cervantes-pressing-hash]]
-- [[cannabis-harvesting-and-curing-techniques]]
+- [[cervantes-hand-rubbed-hash-charas]]
+- [[cervantes-hash-storage]]

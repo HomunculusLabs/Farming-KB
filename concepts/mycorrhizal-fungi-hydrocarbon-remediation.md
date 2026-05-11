@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi in Hydrocarbon Remediation
+title: Mycorrhizal Fungi Hydrocarbon Remediation
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -9,12 +9,12 @@ sources: []
 
 # Mycorrhizal Fungi in Hydrocarbon Remediation
 
-Mycorrhizal associations between fungi and plant roots offer a powerful
+[[plants-without-mycorrhizal-associations]] between fungi and plant roots offer a powerful
 but underutilized tool for the remediation of hydrocarbon-contaminated
 soils.
 
-By combining plant tolerance mechanisms with fungal enzymatic
-capabilities, mycorrhizal systems can degrade petroleum hydrocarbons
+By combining plant [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] with fungal enzymatic
+capabilities, mycorrhizal systems can degrade [[mycoremediation-petroleum-hydrocarbons]]
 while simultaneously supporting plant growth on marginal, contaminated
 land.
 
@@ -53,7 +53,7 @@ Soil pollution with hydrocarbons creates multiple problems:
 
 ## Why Mycorrhizas Help in Hydrocarbon Remediation
 
-Arbuscular mycorrhizal fungi (AMF) provide several advantages for
+[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AMF) provide several advantages for
 hydrocarbon-contaminated sites:
 
 ### 1. Plant Protection
@@ -76,7 +76,7 @@ in a synergistic relationship.
 
 ### 4. Nutrient Access
 
-In nutrient-poor contaminated soils, mycorrhizal phosphorus uptake is
+In nutrient-poor contaminated soils, [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] uptake is
 critical for sustaining plant growth and, by extension, the
 rhizosphere degradation environment.
 
@@ -87,63 +87,3 @@ sites: drought, salinity, heavy metal toxicity, and organic
 contaminant stress.
 
 ## Mechanisms of Hydrocarbon Degradation
-
-Mycorrhizal fungi contribute to hydrocarbon breakdown through several
-mechanisms:
-
-### Enzymatic Degradation
-
-Some mycorrhizal fungi produce enzymes capable of degrading specific
-hydrocarbon compounds.
-
-While AMF are not typically strong degraders themselves, their
-associated [[cultivar-endorhiza-bacterial-communities-cannabis]] in the mycorrhizosphere include
-specialized hydrocarbon degraders.
-
-Ectomycorrhizal fungi may have more direct degradation capabilities
-due to their ligninolytic enzyme systems, which can co-metabolize
-some aromatic hydrocarbons.
-
-### Co-Metabolism
-
-Fungi can degrade hydrocarbons incidentally while metabolizing other
-substrates.
-
-This co-metabolic activity is particularly relevant for recalcitrant
-compounds like [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs).
-
-### Exudate Stimulation
-
-Mycorrhizal roots and hyphae exude organic acids, amino acids, and
-sugars that stimulate microbial activity in the rhizosphere.
-
-This enhanced microbial activity accelerates the overall rate of
-hydrocarbon degradation in the root zone.
-
-## Types of Hydrocarbon Contamination
-
-Different hydrocarbon contaminants present different remediation
-challenges:
-
-### Light Petroleum Products
-
-Gasoline, diesel, and light oils are relatively biodegradable but
-highly phytotoxic.
-
-These compounds can kill plants through direct membrane disruption,
-making plant establishment on freshly contaminated sites difficult.
-
-[[teaming-with-fungi-mycorrhizal-inoculation-techniques]] can improve seedling survival in these
-conditions.
-
-### Heavy Oils and Tars
-
-Crude oil and heavy fuel oils contain higher proportions of
-recalcitrant compounds including PAHs and asphaltenes.
-
-## See Also
-- [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]]
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[mycorrhizal-fungi-rhizosphere-remediation]]
-- [[singh-ericoid-mycorrhizal-fungi-remediation]]
-- [[singh-mycorrhizal-fungi-rhizosphere-remediation]]

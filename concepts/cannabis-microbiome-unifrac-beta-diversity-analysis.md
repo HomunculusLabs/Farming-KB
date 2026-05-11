@@ -2,13 +2,13 @@
 
 ## Overview
 
-UniFrac is a phylogenetic distance metric used to compare microbial communities based on the branch lengths of a phylogenetic tree that are unique to each community. In the landmark 2014 study by Winston et al. on the Cannabis microbiome, both unweighted and weighted UniFrac analyses were applied to 16S rRNA gene sequence data from endorhiza, rhizosphere, and bulk soil samples across five Cannabis cultivars. The dual application of these metrics revealed complementary aspects of microbial community structure: unweighted UniFrac captured differences in taxonomic composition (presence/absence of lineages), while weighted UniFrac captured differences in community structure (relative abundance of lineages).
+UniFrac is a phylogenetic distance metric used to compare microbial communities based on the branch lengths of a phylogenetic tree that are unique to each community. In the landmark 2014 study by Winston et al. on the Cannabis microbiome, both unweighted and [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]] analyses were applied to 16S rRNA gene sequence data from endorhiza, rhizosphere, and bulk soil samples across five Cannabis cultivars. The dual application of these metrics revealed complementary aspects of [[edaphic-factors-microbial-community-structure]]: [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] captured differences in taxonomic composition (presence/absence of lineages), while weighted UniFrac captured differences in [[edaphic-determinants-cannabis-microbiome-community-structure]] (relative abundance of lineages).
 
-The UniFrac approach was developed by Lozupone and Knight (2005) and has become the standard metric for comparing microbial communities in ecological studies. Unlike simple taxonomic distance measures (such as Bray-Curtis dissimilarity), UniFrac incorporates the evolutionary relationships between organisms, providing a more biologically meaningful measure of community similarity. Two variants exist: unweighted UniFrac considers only the presence or absence of lineages, while weighted UniFrac additionally accounts for the relative abundance of each lineage. The use of both variants in the Cannabis microbiome study allowed the researchers to distinguish between effects on community composition versus community structure — a distinction that proved critical for understanding how soil and cultivar interact to shape the Cannabis root microbiome.
+The UniFrac approach was developed by Lozupone and Knight (2005) and has become the standard metric for comparing microbial communities in [[mycorrhiza-bioassays-ecological-studies]]. Unlike simple taxonomic distance measures (such as Bray-Curtis dissimilarity), UniFrac incorporates the evolutionary relationships between organisms, providing a more biologically meaningful measure of community similarity. Two variants exist: unweighted UniFrac considers only the presence or absence of lineages, while weighted UniFrac additionally accounts for the relative abundance of each lineage. The use of both variants in the [[winston-cannabis-microbiome-study-design]] allowed the researchers to distinguish between effects on [[core-endorhiza-bacterial-community-composition-cannabis]] versus community structure — a distinction that proved critical for understanding how soil and cultivar interact to shape the [[cannabis-root-microbiome]].
 
 ## Weighted vs. Unweighted UniFrac: Complementary Signals
 
-The study demonstrated that the two metrics produce fundamentally different clustering patterns when applied to the same dataset. In the second experiment (White Widow and Maui Wowie across two soil types), unweighted UniFrac showed that soil type dominated PC1 (32.06% variance), confirming that edaphic factors are the primary determinant of which microbial lineages are present. Weighted UniFrac, however, showed that Cannabis strain dominated PC1 (34.51% variance), revealing that host genotype primarily controls the relative abundance of those lineages within the plant.
+The study demonstrated that the two metrics produce fundamentally different clustering patterns when applied to the same dataset. In the second experiment (White Widow and Maui Wowie across two soil types), unweighted UniFrac showed that soil type dominated PC1 (32.06% variance), confirming that [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] are the primary determinant of which microbial lineages are present. Weighted UniFrac, however, showed that Cannabis strain dominated PC1 (34.51% variance), revealing that host genotype primarily controls the relative abundance of those lineages within the plant.
 
 This divergence between weighted and unweighted results is biologically significant. It supports the two-tier selection model where soil type acts as the first filter (determining community composition), while cultivar acts as the second filter (determining community structure through abundance modulation). The 690 weighted OTUs differing between soil types versus zero unweighted OTUs differing between strains in the endorhiza underscores this finding: cultivars don't change which bacteria are present, but they do change how abundant those bacteria become.
 
@@ -16,7 +16,7 @@ The practical implication is that a grower cannot overcome soil-driven microbiom
 
 ## Statistical Framework: ADONIS, ANOSIM, and RDA
 
-The study employed multiple complementary statistical tests to assess community differentiation. Each test has different assumptions and sensitivities, and their combined use provides a more robust picture of community dynamics than any single test alone.
+The study employed multiple complementary statistical tests to assess community differentiation. Each test has different assumptions and sensitivities, and their combined use provides a more robust picture of [[dighton-aquatic-hyphomycete-conidia-community-dynamics]] than any single test alone.
 
 - **ADONIS (PERMANOVA)**: Partitioned variance in community distance matrices by factors including soil type, sample type, and strain. Endorhiza communities showed the strongest differentiation (ADONIS R² = 0.26 unweighted, 0.59 weighted in experiment 1; R² = 0.26 unweighted, 0.215 weighted in pooled analysis). The high R² values for endorhiza in weighted analyses indicate that cultivar identity explains a large proportion of the variance in community structure within the root.
 
@@ -66,7 +66,7 @@ Mantel tests correlating UniFrac distances with edaphic variables showed that al
 
 The BEST (Bioenv) analysis, which identifies the optimal subset of environmental variables for explaining community variation, determined that three edaphic factors together — Nitrogen, Carbon, and Water — optimally explained community beta-diversity (rho = 0.632). Adding salinity and pH did not improve the correlation, suggesting that these three factors capture the primary edaphic signal.
 
-The dominance of nitrogen as the strongest edaphic correlate is consistent with the known importance of nitrogen availability in structuring soil microbial communities. Nitrogen availability affects microbial growth rates directly and indirectly influences community composition through competitive dynamics. For Cannabis cultivation, this means that nitrogen management in growing media has the largest potential to influence the root microbiome, followed by salinity management (which connects to fertilizer EC management and the risk of salt stress on beneficial microbes).
+The dominance of nitrogen as the strongest edaphic correlate is consistent with the known importance of [[nitrogen-availability-in-legumes]] structuring soil microbial communities. Nitrogen availability affects microbial growth rates directly and indirectly influences community composition through competitive dynamics. For Cannabis cultivation, this means that nitrogen management in growing media has the largest potential to influence the root microbiome, followed by salinity management (which connects to fertilizer EC management and the risk of salt stress on beneficial microbes).
 
 ## Pooled Experiment Analysis: Increased Statistical Power
 
@@ -82,33 +82,9 @@ A critical insight from the UniFrac analysis was reinforced by the individual OT
 
 This pattern — where strain differences appear only in weighted analysis — confirms that Cannabis cultivars shape their microbiome through abundance modulation rather than through selective exclusion of specific taxa. All bacterial lineages found in any cultivar's endorhiza were also potentially present in other cultivars; what differed was how dominant each lineage became. This has important implications for microbiome engineering: rather than trying to introduce novel taxa, cultivation practices should focus on creating conditions that favor the proliferation of already-present beneficial organisms.
 
-The 51 OTUs that significantly differed between sample types (endorhiza, rhizosphere, bulk soil) were predominantly characterized by a decrease in Acidobacteria (particularly the order iii1-15) and an increase in Proteobacteria within the endorhiza. The Bonferroni-corrected ANOVA for the Acidobacteria decrease yielded p = 1.12e-7, one of the strongest statistical signals in the entire study. This pattern of Proteobacteria enrichment and Acidobacteria depletion in the root endosphere is consistent with observations across many plant species and may reflect the general adaptation of Proteobacteria to the nutrient-rich, low-pH, low-oxygen microenvironment of the root interior.
+The 51 OTUs that significantly differed between sample types (endorhiza, rhizosphere, bulk soil) were predominantly characterized by a decrease in Acidobacteria (particularly the order iii1-15) and an increase in Proteobacteria within the endorhiza. The Bonferroni-corrected ANOVA for the Acidobacteria decrease yielded p = 1.12e-7, one of the strongest statistical signals in the entire study. This pattern of [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]] and Acidobacteria depletion in the root endosphere is consistent with observations across many plant species and may reflect the general adaptation of Proteobacteria to the nutrient-rich, low-pH, low-oxygen microenvironment of the root interior.
 
 ## Implications for Cannabis Cultivation
 
 The beta-diversity findings suggest several practical principles for cultivators:
 1. Soil selection is the single most impactful decision for determining root microbiome composition
-2. Cultivar selection primarily affects the abundance balance of endophytic bacteria, not their presence
-3. The conserved Proteobacteria-enriched endorhiza core community suggests functional redundancy and resilience
-4. Manipulating soil nitrogen content offers the most direct lever for shaping the root microbiome
-5. The rhizosphere may not serve as a strong intermediary filter in Cannabis as it does in other crops
-6. Super-soil or living soil approaches that maintain diverse bacterial communities are likely more effective than inoculant-only strategies, since the plant selects from the available soil pool rather than requiring specific introduced strains
-7. Monitoring soil nitrogen, carbon, and water content provides a practical framework for maintaining favorable root microbiome conditions without expensive sequencing-based diagnostics
-
-## Limitations and Future Directions
-
-The UniFrac-based approach in this study has several limitations that should be acknowledged. First, the study used 16S rRNA gene amplicon sequencing of the V4 region, which provides genus-level but rarely species-level taxonomic resolution. Many functionally important differences between microbial strains are invisible to this approach. Second, the study characterized only the bacterial community; the fungal and archaeal components of the Cannabis microbiome remain uncharacterized and may play equally important roles in plant health.
-
-Third, the two experiments differed in their sampling timing (post-harvest versus pre-harvest), which introduced the Cellvibrio confound. Future studies should sample across multiple time points during the growing cycle to distinguish between growth-stage effects and cultivar effects. Fourth, the study examined only five cultivars; the full diversity of Cannabis chemotypes and their associated microbiomes remains to be explored. Finally, the correlative nature of the beta-diversity analysis cannot establish causation — experiments that manipulate specific microbial taxa and measure plant fitness outcomes are needed to move from description to application.
-
-## See Also
-
-- [[cannabis-microbiome-two-tier-selection]] — The two-tier selection model framework
-- [[edaphic-determinants-cannabis-microbiome-community-structure]] — Edaphic factor analysis
-- [[core-endorhiza-bacterial-community-composition-cannabis]] — Core endorhiza community
-- [[proteobacteria-dominance-cannabis-endorhiza-community]] — Proteobacteria enrichment patterns
-- [[cellvibrio-root-decay-indicator-cannabis-endorhiza]] — Post-harvest root decay signal
-
-## Source
-
-Winston ME, Hampton-Marcell J, Zarraonaindia I, et al. (2014) Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome. PLoS ONE 9(6): e99641.

@@ -11,7 +11,7 @@ type: concept
 
 # Preparation of Reefers (Oil-Impregnated Cannabis Cigarettes)
 
-Chapter 9 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by Ben Lemon describes the preparation
+Chapter 9 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[ben-lemon]] describes the preparation
 of "reefers," a term used to describe marijuana cigarettes that have
 been impregnated with cannabis extract. This technique combines the
 convenience of a traditional joint with the greatly increased potency of
@@ -24,7 +24,7 @@ cigarette which has been impregnated with cannabis extract. The term
 has a long history in [[mckenna-cannabis-culture-history]], originally being early 20th
 century slang for marijuana cigarettes in general. It was repopularized
 in the 1960s and by the 1970s had come to specifically describe joints
-enhanced with cannabis oil extracts, also called "oilers."
+enhanced with [[cannabis-oil-capsules-preparation]] extracts, also called "oilers."
 
 The distinction is important: a regular marijuana cigarette contains
 only the cannabinoids naturally present in the plant material, while a
@@ -76,7 +76,7 @@ to evaporate completely before smoking.
 
 ### Method 4: Injecting with Tincture
 
-The rolled joint is injected with cannabis tincture and allowed to dry.
+The rolled joint is injected with [[cannabis-tincture-preparation]] and allowed to dry.
 A syringe is used to inject tincture directly into the interior of the
 rolled cigarette, ensuring that the extract is distributed throughout
 the plant material rather than concentrated on the paper surface.
@@ -88,40 +88,3 @@ cannabinoids throughout the smoking session. As with dipping, adequate
 drying time is essential.
 
 ## Oil Quality Considerations
-
-The potency of the resulting reefers depends directly on the quality and
-refinement of the cannabis oil or tincture used. Oil that has been
-extracted, purified, isomerized, and possibly acetylated will produce
-reefers far more potent than those made with simple alcohol extracts.
-
-The choice of oil refinement level should be matched to the desired
-effect and the experience level of the consumer. Reefers made with
-isomerized and acetylated oil can be extremely potent, and users should
-exercise caution with dosing.
-
-## Practical Considerations
-
-Several practical factors affect the quality of oil-impregnated reefers:
-
-- **Drying time**: All methods involving liquid tincture require
-  complete evaporation of the alcohol solvent before smoking. Incomplete
-  drying produces harsh smoke and potential health hazards from
-  inhaling alcohol vapor.
-
-- **Even distribution**: Methods that distribute the oil more evenly
-  throughout the cigarette provide a more consistent experience from
-  start to finish.
-
-- **Storage**: Oil-impregnated reefers may become sticky or degrade
-  over time. Proper storage in a cool, dry place helps maintain quality.
-
-- **Rolling difficulty**: Oil-coated plant material can be difficult to
-  roll. Using slightly thicker or heavier rolling papers may help.
-
-## Related
-
-- [[lemon-cannabis-alchemy-hashish-preparation]]
-
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]
-- [[lemon-cannabis-alchemy-direct-vaporization]]
-- [[lemon-cannabis-alchemy-hashing-and-extraction]]

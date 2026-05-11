@@ -88,34 +88,3 @@ Oyster mushrooms (Pleurotus spp.) have demonstrated the ability to accumulate
 cadmium, lead, and mercury from contaminated soil and water. Shaggy mane
 ([[coprinus-comatus]]) shows particular affinity for selenium and arsenic
 bioaccumulation. The metals are primarily sequestered in the fungal cell wall
-through chelation with metallothionein proteins and binding to glucan and
-chitin polymers. After fruiting, the spent mushroom substrate contains
-concentrated metal loads and must be disposed of as hazardous waste rather than
-composted. Pre-treatment testing is essential to determine whether target metals
-are bioavailable and whether the chosen fungal species will effectively
-accumulate them under site-specific conditions.
-
-## Hydrocarbon Degradation
-
-White-rot fungi are the primary agents for [[petroleum-hydrocarbon-bioremediation]] remediation.
-Pleurotus ostreatus, Trametes versicolor, and [[phanerochaete-chrysosporium]]
-produce lignin-modifying enzymes (laccase, [[fungal-manganese-peroxidase-remediation]], lignin
-peroxidase) that nonspecifically degrade aromatic hydrocarbon rings. These
-enzymes can break down PAHs, BTEX compounds, and total [[mycoremediation-petroleum-hydrocarbons]].
-Field applications involve inoculating contaminated soil with spawn-colonized
-substrate. Degradation rates depend on contaminant concentration, soil moisture,
-and temperature. Supplementing with nitrogen and phosphorus often accelerates
-degradation. Combined fungal-bacterial treatments sometimes outperform either
-organism alone.
-
-## Practical Considerations
-
-Successful mycoremediation requires attention to environmental conditions,
-resource availability, and timing. Site assessment should characterize
-contaminant types, concentrations, soil properties, and hydrology before
-selecting fungal species and system designs. Monitoring protocols must be
-established before deployment to measure baseline conditions and track
-remediation progress. Regulatory compliance is essential, as contaminated site
-remediation may require permits. Integration with other biological approaches
-(bacterial bioaugmentation, phytoremediation) often produces the most effective
-and resilient treatment outcomes.

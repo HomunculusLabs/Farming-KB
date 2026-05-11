@@ -1,21 +1,21 @@
 ---
-title: Homestead Dairy Guide
+title: [[homestead-dairy-equipment]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, goats, animal-husbandry, food, recipe, preparation, processing, homestead-crafts, livestock-health]
+tags: [[homesteading]], goats, animal-husbandry, food, recipe, preparation, processing, homestead-crafts, livestock-health]
 sources: []
 ---
 
 # Homestead Dairy Guide
 
-Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading. (see [[homestead-dairy-equipment]]).
+Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading.
 
 ## Choosing a Dairy Goat Breed
 
 ### Nigerian Dwarf
 - Milk production: 1-2 quarts per day
-- Butterfat: 6-10% (very high -- excellent for cheese and butter)
+- Butterfat: 6-10% (very high -- excellent for [[faires-dairy-processing-cheese-and-butter]])
 - Size: 60-75 pounds (miniature breed)
 - Advantages: very little space needed, high butterfat, gentle temperament, good for families
 - Disadvantages: lower total volume, small teats can be harder to milk
@@ -35,7 +35,7 @@ Keeping dairy goats on the homestead provides a reliable supply of fresh milk, c
 - Disadvantages: lower butterfat than Nubians
 
 ### LaMancha and Saanen
-LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy to handle, distinctive tiny ears. Saanen: 2-3 gallons/day (highest producer), 2.5-3% butterfat, 130-145 lbs. Calm temperament, efficient converters, but lower butterfat and sunburn-prone white skin. (see [[goat-cheese-making]]).
+LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy to handle, distinctive tiny ears. Saanen: 2-3 gallons/day (highest producer), 2.5-3% butterfat, 130-145 lbs. Calm temperament, efficient converters, but lower butterfat and sunburn-prone white skin.
 
 ## Getting Started
 
@@ -48,8 +48,8 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Dry, draft-free shelter with good ventilation
 - Minimum 15-20 square feet per goat indoors
 - Access to outdoor space: 200+ square feet per goat minimum
-- Bedding: straw, wood shavings, or deep bedding (composting pack)
-- Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists. (see [[mollison-designers-goat-dairy-and-cheese-production]]).
+- Bedding: straw, wood shavings, or deep bedding ([[composting]] pack)
+- Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists.
 - Separate kidding area if breeding
 
 ### Feed
@@ -63,7 +63,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Hoof trimming: every 4-8 weeks
 - CD&T vaccination annually, deworming as needed (FAMANCHA scoring)
 - Test new goats for CAE and CL before introducing to the herd
-- Watch for mastitis, ketosis after kidding, bloat, and respiratory illness
+- Watch for mastitis, ketosis after kidding, bloat, and [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]]
 
 ## Milking
 

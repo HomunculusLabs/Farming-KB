@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis sleep disorders and insomnia and Insomnia
+title: Cannabis Sleep Disorders And Insomnia
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Sleep Disorders and Insomnia
 
-Sleep disturbances affect millions worldwide, and cannabis has been used for centuries as a sleep aid. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the complex relationship between cannabinoids and sleep architecture, revealing both promising therapeutic applications and important caveats.
+Sleep disturbances affect millions worldwide, and cannabis has been used for centuries as a sleep aid. The [[blesching-cannabis-health-index-autoimmune-conditions]] documents the complex relationship between cannabinoids and sleep architecture, revealing both promising [[psilocybin-therapeutic-applications]] and important caveats.
 
 ## CHI Value: 5 (1 study reviewed)
 
@@ -45,7 +45,7 @@ A notable phenomenon documented in cannabis sleep research is what might be call
 
 ## Clinical Evidence
 
-The Cannabis Health Index's reviewed study confirms:
+The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]'s reviewed study confirms:
 - Cannabis extracts containing THC reduce sleep onset latency
 - Sleep duration normalizes rather than simply increasing
 - Effects are dose-dependent within the [[cannabis-subjective-therapeutic-window-dosing]] window
@@ -66,10 +66,10 @@ Generally preferred for sleep due to:
 - Higher linalool content (calming terpene)
 - Lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2 (anti-inflammatory) activation
 - More body-focused, relaxing effects
-- Commonly recommended indica strains: Granddaddy Purple, Northern Lights, Afghan Kush
+- Commonly recommended indica strains: [[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], Afghan Kush
 
 ### Hybrid
-May be appropriate for users who need both sleep promotion and daytime symptom management:
+May be appropriate for users who need both sleep promotion and daytime [[cannabis-cancer-symptom-management]]:
 - Balanced effects allow flexible use
 - May be better tolerated by THC-sensitive individuals
 
@@ -88,52 +88,3 @@ Generally NOT recommended for sleep:
 - Vaporizing preferred over smoking to avoid combustion byproducts
 
 ### Oral/Edible
-- Slower onset (30-90 minutes) but longer duration (4-8 hours)
-- Better for maintaining sleep through the night
-- Risk of grogginess next morning if dose is too high
-- Consistency of manufactured products preferred for reliable dosing
-
-### Tinctures (Sublingual)
-- Intermediate onset (15-45 minutes)
-- Duration: 3-6 hours
-- Precise dropper dosing allows careful titration
-- Good balance of speed and duration
-
-### Raw Cannabis Juice
-- Non-psychoactive, will not directly induce sleep
-- May support sleep indirectly through anti-inflammatory effects and anxiety reduction
-- Can be used throughout the day without affecting alertness
-
-## Dosing Guidelines for Sleep
-
-- **Start low**: Begin with the smallest effective dose, especially with edibles
-- **Time appropriately**: Allow sufficient onset time (30-90 min for oral) before redosing
-- **Consistent timing**: Use at the same time each night to establish routine
-- **Avoid late redosing**: If waking in the night, use the smallest possible dose to avoid next-day grogginess
-- **Tolerance management**: Regular nightly use may lead to tolerance; occasional breaks may help
-
-## Long-Term Use Considerations
-
-- **Tolerance**: Regular users may need to increase doses over time for same sleep effect
-- **Withdrawal**: Discontinuing regular cannabis use can cause temporary sleep disturbance (rebound insomnia), typically lasting 1-2 weeks
-- **REM rebound**: After discontinuation, REM sleep duration increases, often with vivid dreams
-- **Dependence risk**: While generally lower than pharmaceutical sleep aids, psychological dependence is possible
-
-## Contraindications
-
-- Sleep apnea: THC may worsen respiratory depression during sleep
-- Complex sleep disorders: Consult sleep specialist before using cannabis
-- Pregnancy: THC crosses the placenta
-- Adolescent patients: Cannabis may affect brain development and sleep architecture
-- Patients on other sedatives: Risk of excessive sedation
-
-## Complementary Approaches
-
-The Cannabis Health Index emphasizes mind-body connections in sleep disorders. Addressing underlying anxiety, establishing consistent sleep hygiene, and managing stress through meditation, breathwork, or therapy may complement cannabinoid therapy for more comprehensive sleep improvement.
-
-See also: [[cannabis-for-mental-health]], [[cannabis-administration-methods-comparison]], doi entity, doi entity
-
-## See Also
-
-- [[blesching-cannabis-neuropathic-pain]]
-- [[cannabis-anti-inflammatory-applications]]

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Sheviak, C.J. (1982). "Spiranthes romanzoffiana: Taxonomy and Distribution." Brittonia, 34(2), 144–156.
+  - Sheviak, C.J. (1982). "Spiranthes romanzoffiana: guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution." Brittonia, 34(2), 144–156.
   - Catling, P.M. (1990). "Auto-Pollination in the Orchidaceae." In: Arditti, J. (ed.), Orchid Biology: Reviews and Perspectives V, 121–158.
   - Kery, M. & Gregg, K.B. (2004). "Demographic Analysis of the Declining Orchid Spiranthes romanzoffiana." Biological Conservation, 117(1), 23–31.
   - Sipes, S.D. & Tepedino, V.J. (1995). "Pollination Biology of the Western Spiranthes romanzoffiana." Great Basin Naturalist, 55(4), 341–347.
@@ -21,13 +21,13 @@ sources:
 
 Spiranthes romanzoffiana, commonly known as the hooded ladies'-tresses, is a perennial terrestrial orchid in the family Orchidaceae.
 
-It is native to North America and occurs disjunctly in Europe and Iceland.
+It is native to [[guzman-psilocybin-mushrooms-north-america]] and occurs disjunctly in Europe and Iceland.
 
 The species is recognized by its distinctive spiral inflorescence of small, white, hooded flowers.
 
 Spiranthes romanzoffiana is considered threatened or endangered throughout much of its European range.
 
-In North America, the species is more widespread but has experienced localized declines.
+In [[berry-growing]], the species is more widespread but has experienced localized declines.
 
 It is strongly associated with wetland habitats including fens, marshes, and stream margins.
 
@@ -63,15 +63,15 @@ The column is short and green, with viscidia that adhere to pollinators.
 
 Spiranthes romanzoffiana has a distinctive amphi-Atlantic distribution.
 
-In North America, the species ranges from Alaska across Canada to Newfoundland.
+In [[huckleberries-and-wild-berries-of-north-america]], the species ranges from Alaska across Canada to Newfoundland.
 
 It occurs southward through the Rocky Mountains to New Mexico and through the Appalachians to Georgia.
 
-Disjunct populations are found in the Great Lakes region and the northeastern United States.
+Disjunct populations are found in the Great Lakes region and the northeastern [[dmt-containing-plants-united-states-halpern]].
 
 In Europe, the species occurs in Scotland, Ireland, Iceland, and isolated stations in western Norway.
 
-The North American and European populations may represent separate introductions or relicts of a wider range.
+The [[growing-gourmet-north-american-reishi-species]] and European populations may represent separate introductions or relicts of a wider range.
 
 The hooded ladies'-tresses grows in moist to wet habitats.
 
@@ -88,50 +88,3 @@ In western North America, Bombus species are the primary floral visitors.
 The flowers produce nectar as a reward, stored at the base of the labellum.
 
 The spiral arrangement of flowers ensures sequential presentation, prolonging the pollination period.
-
-The species is capable of autogamous self-pollination when pollinators are scarce.
-
-Seed germination requires mycorrhizal fungi, as is typical for terrestrial orchids.
-
-Plants often persist underground as dormant tubers for one or more years before flowering.
-
-## Conservation Status
-
-Spiranthes romanzoffiana is listed as Vulnerable on the IUCN Red List.
-
-In Europe, the species is strictly protected under the EU Habitats Directive.
-
-The Scottish populations are the largest in Europe and are closely monitored.
-
-In North America, the species is listed as endangered or threatened in several U.S. states.
-
-Habitat loss through wetland drainage, agricultural conversion, and urbanization is the primary threat.
-
-Eutrophication and hydrological alteration of wetlands degrade suitable growing conditions.
-
-Climate change may threaten montane and boreal populations through altered precipitation patterns.
-
-## Cultivation
-
-Spiranthes romanzoffiana is rarely cultivated outside of botanical gardens and conservation programs.
-
-The species requires consistently moist, organic-rich soil in full sun to light shade.
-
-A bog garden or constructed wetland provides suitable growing conditions.
-
-Plants are winter-hardy and tolerate freezing temperatures when dormant.
-
-Propagation from seed requires mycorrhizal inoculation or sterile laboratory techniques.
-
-Division of established clumps is possible but slow, with plants resenting disturbance.
-
-## See Also
-
-- [[dactylorhiza-maculata]]
-- [[vanilla-planifolia]]
-- [[orchid-mycorrhiza]]
-- [[mycorrhiza]]
-- [[native-plant-gardening]]
-- [[invasive-species-management]]
-- [[abies-balsamea]]
-- [[trifolium-pratense]]

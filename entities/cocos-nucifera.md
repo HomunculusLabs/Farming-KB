@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gunn BF, Baudouin L, Olsen KM (2011). "Independent origins of cultivated coconut (Cocos nucifera L.) in the datura-metel-old-world-ethnobotany and New World." PLoS ONE, 6(6), e21143.
-  - Teulat B et al. (2000). "An analysis of genetic diversity in coconut (Cocos nucifera) populations from across the geographic range using microsatellite markers." Genetic Resources and Crop Evolution, 47, 263–272.
+  - Teulat B et al. (2000). "An analysis of [[biodiversity-fungal-genetic-diversity]] in coconut (Cocos nucifera) populations from across the geographic range using microsatellite markers." Genetic Resources and Crop Evolution, 47, 263–272.
   - FAO (2023). "FAOSTAT: Coconuts — production quantity." Food and Agriculture Organization.
   - Dayrit FM (2015). "The properties of lauric acid and their significance in coconut oil." Philippine Journal of Internal Medicine, 53(1), 16–21.
   - Siju S et al. (2020). "Coconut (Cocos nucifera L.): A comprehensive review on processing, utilization, and health benefits." Trends in Food Science & Technology, 101, 416–427.
@@ -36,7 +36,7 @@ Every part of the palm provides economic value, including the fruit (copra, oil,
 
 Two major cultivar groups are recognized: the **Tall** type (cross-pollinating, heterozygous, hardier) and the **Dwarf** type (self-pollinating, homozygous, earlier-bearing).
 
-**Morphology:** The coconut palm grows 15–30 m tall with a slender, slightly curved, unbranched trunk 20–45 cm in diameter.
+**Morphology:** The [[mollison-designers-coconut-palm-dominant-polyculture]] grows 15–30 m tall with a slender, slightly curved, unbranched trunk 20–45 cm in diameter.
 
 The trunk is marked by conspicuous leaf scars and is strengthened by dense, fibrous wood rather than secondary growth typical of dicot trees.
 
@@ -52,7 +52,7 @@ Roots are adventitious, numbering 1,000–5,000 per palm, with primary roots ext
 
 The coconut palm is pantropical in distribution, but its origin has been debated between Indo-Pacific and American centers.
 
-Genetic evidence supports dual domestication: the Pacific group (Southeast Asian origin) and the Atlantic group (Indian Ocean origin), with subsequent human-mediated dispersal.
+Genetic evidence supports dual domestication: the Pacific group ([[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] origin) and the Atlantic group (Indian Ocean origin), with subsequent human-mediated dispersal.
 
 Coconuts spread across the Pacific through Austronesian voyaging beginning approximately 3,500 years ago, reaching Polynesia and Hawaii.
 
@@ -84,34 +84,6 @@ Virgin coconut oil (VCO), produced from fresh kernel without chemical refining, 
 
 Coconut water is a natural isotonic beverage containing sugars, electrolytes (potassium, sodium, magnesium), amino acids, and cytokinins.
 
-Copra meal, the residue after oil extraction, is used as livestock feed with approximately 15–20% crude protein content.
+Copra meal, the residue after [[cannabis-oil-extraction]], is used as [[livestock-feed-formulation]] with approximately 15–20% crude protein content.
 
-Coir fiber from the husk is used in rope, matting, upholstery, geotextiles, and horticultural growing media.
-
-## Ecology and Applications
-
-Coconut palms form the dominant canopy in coastal agroecosystems throughout the tropics, providing shade, windbreaks, and [[permplant-willows-salix-erosion-control-fodder]].
-
-Intercropping systems combine coconuts with cocoa, banana, taro, pasture, or spice crops at various density levels.
-
-The species is increasingly recognized as a climate-resilient crop, withstanding saline soils and periodic flooding better than most annual crops.
-
-Coconut-based agroforestry systems support biodiversity by providing habitat structure and food resources for birds, bats, and invertebrates.
-
-The palm is culturally significant across the tropics, featuring in art, religion, construction, and traditional medicine.
-
-[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in coconut plantations is estimated at 10–20 tonnes CO₂ equivalent per hectare per year in above-ground biomass alone.
-
-Coconut shell charcoal is used as a fuel source, water filter medium, and precursor for activated carbon production.
-
-The toddy (sap) tapped from unopened inflorescences is fermented into palm wine or distilled into arrack, an important traditional beverage in South and Southeast Asia.
-
-## See Also
-
-- [[musa-acuminata]]
-- [[vanilla-planifolia]]
-- [[areca-catechu]]
-- [[curcuma-longa]]
-- [[zingiber-officinale]]
-
-- [[nelumbo-nucifera]]
+Coir fiber from the husk is used in rope, matting, upholstery, geotextiles, and horticultural [[green-cannabis-rockwool-hydroponic-growing-media]].

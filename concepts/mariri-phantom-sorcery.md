@@ -88,26 +88,3 @@ beings are also associated with the mariri of sorcerers.
 The papalluses are lilac spirits with red eyes who serve as guardians
 of the mann and the huani. Under their arms they carry the [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens|magic]]
 steel bow and crystal arrow. They can be evil when seeking revenge but
-may also be kind. They are essential protectors of the shaman's power
-reservoir.
-
-## The Yachay and Its Variants
-
-The term yachay (knowledge) is synonymous with the mariri in many
-contexts. The yachay is also described as a phlegm that a sorcerer
-sends through his mashu (bat) to transmit disease. The mashu drops
-its yachay into water that a victim drinks, causing the cungatuya
-disease -- the victim becomes very weak and cannot ingest nutrition.
-The yachay-trueno (magical phlegm-thunder) is a more powerful variant
-used by true sorcerers for devastating effect.
-
-## Loss and Recovery of the Mariri
-
-The mariri can be stolen or lost. The arkana serpent of the master
-curandero has "strong vibrations and is even able to rob the mann
-from the curandero's breast, leaving him without powers." When a
-vegetalista loses his powers -- a condition called maituchishcami
-(from maytuy = to twist, meaning his magic powers are twisted) -- a
-great [[shamanic-powers-ayahuasca]] -- Powers stored within the mariri
-- [[curandero-healing-ayahuasca]] -- Healing uses of the mariri
-- [[banco-sumiruna-muraya]] -- Degrees of mariri mastery

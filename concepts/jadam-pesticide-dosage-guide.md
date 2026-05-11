@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam pesticide dosage guide Guide
+title: Jadam Pesticide Dosage Guide
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Pesticide Dosage Guide
 
-All JADAM pesticide recipes are based on a standard 500L (132 gal) spray tank covering approximately 0.33 ha (0.8 ac). Actual coverage varies with plant size, spacing, and growth stage. Always use soft water (test with JWA), and always do a mixture test + concentration test before full-field application.
+All JADAM [[jadam-natural-pesticide-recipes]] are based on a standard 500L (132 gal) spray tank covering approximately 0.33 ha (0.8 ac). Actual coverage varies with plant size, spacing, and growth stage. Always use soft water (test with JWA), and always do a mixture test + concentration test before full-field application.
 
 ## Core Ingredient Dosage Ranges (per 500L / 132 gal)
 
@@ -18,7 +18,7 @@ All JADAM pesticide recipes are based on a standard 500L (132 gal) spray tank co
 |---------|-----------|-------|
 | Standard wetting | 3L (0.8 gal) | Minimum for effective coating |
 | Moderate pest/disease | 5L (1.3 gal) | Most common dosage |
-| Strong pest control | 8L (1.6 gal) | For moth programs |
+| Strong [[hamilton-beneficial-insects-and-biological-pest-control]] | 8L (1.6 gal) | For moth programs |
 | Heavy infestation | 10L (2.6 gal) | Max for routine use |
 | Emergency | 15L (4 gal) | Single use only, do not repeat |
 | Fog machine (17L tank) | 0.5L (0.13 gal) | Reduced proportionally |
@@ -36,7 +36,7 @@ Key rule: When increasing JHS, always increase JWA together. More JWA = more wet
 | Winter fruit tree spray | 5L (1.3 gal) | Dormant season only |
 | Fog machine (17L tank) | 0.1L (0.03 gal) | Reduced proportionally |
 
-Key rule: Never exceed 2.5L in growing season (concentration burn). Increase in 0.2L increments. Sensitive crops (persimmon, grape, walnut, perilla): start at 0.5L.
+Key rule: Never exceed 2.5L in [[extending-growing-season]] (concentration burn). Increase in 0.2L increments. Sensitive crops (persimmon, grape, walnut, perilla): start at 0.5L.
 
 ### JADAM Herb Solution (JHS)
 | Purpose | JHS Volume | Notes |
@@ -61,13 +61,13 @@ Key rule: Over 20L and microbes break down JWA, making it ineffective.
 
 | # | Target | JWA | JS | JHS | Additions |
 |---|--------|-----|----|-----|-----------|
-| 1 | Rice bakanae (seed soak) | -- | 5L | -- | 48hr cold soak |
+| 1 | [[jadam-rice-bakanae-treatment]] (seed soak) | -- | 5L | -- | 48hr cold soak |
 | 2 | Water rice weevil | 5L (in 5L) | 0.5L | -- | 3L canola oil |
 | 3 | Rice pest/disease combo | 5L | 2L | 5L JA + 5L KPFR | -- |
 | 4 | Powdery/downy mildew | 3L | 1.2L | -- | Add 5L JHS + 5L JWA for pests |
 | 5 | Canker, black spot, rust | 5L | 1.5L | -- | -- |
 | 6 | Aphid and mite | 5L | -- | 5L [[comparison-jerusalem-artichoke-vs-potato]] | +1-2L JS for disease |
-| 7 | Moth (general) | 8L | -- | 15L Jerusalem artichoke | +0.5kg red clay |
+| 7 | Moth (general) | 8L | -- | 15L [[jerusalem-artichoke]] | +0.5kg red clay |
 | 8 | Planthopper, leafhopper | 10L | -- | 15L Gingko | +0.5kg red clay |
 | 9 | Stinkbug, thrips, whitefly | 10L | -- | 15L KPFR | Strongest of all |
 | 10 | Slug, snail | 3L | -- | -- | 1.5kg NaOH |
@@ -88,37 +88,3 @@ JA = Jerusalem artichoke; KPFR = Korean pasque flower root
 ## Application Timing
 
 - Spring/autumn: spray early morning (dew present)
-- Summer: spray in evening (avoid midday heat)
-- Greenhouses: spray on rainy days, or increase humidity then spray
-- Humidity check: spray water on plants; if it dries slowly, conditions are good
-- Apply in early stage of pest/disease outbreak for best results
-- [[jadam-natural-pesticide-institute-and-research]] cycle: use 2 days shorter cycle than chemical pesticides
-
-## Frequency Guidelines
-
-- JS: maximum 2-3 times per season (only when disease present)
-- JHS+JWA (no JS): can spray consecutively, even twice daily for heavy infestation
-- JMS preventive: regular weekly/biweekly application
-- Spray evening, re-spray next morning for heavy infestations
-- Do not use leftover pesticide (especially if it contains JS)
-
-## Sodium Hydroxide (Caustic Soda) Addition
-
-Can be added to ANY JNP for increased strength:
-- Slug/snail program: 1.5 kg NaOH per 500L
-- For other programs: test small amounts first
-- Dissolve in small amount of water first, then mix into tank
-- ALWAYS wear protective gloves
-- ALWAYS do concentration stress test first
-- Never let it touch skin when spraying
-
-## Fine Red Clay Powder Addition
-
-Add 0.5 kg very fine red clay powder to any program to increase effectiveness. Keep stirring or use aerator so clay does not sink during spraying.
-
-## See Also
-
-- [[jadam-pest-control-recipes]] -- detailed program instructions
-- [[jadam-wetting-agent-jwa]] -- JWA is the central ingredient; its quantity controls overall strength
-- [[jadam-rice-water-weevil-control]]
-- [[jadam-canker-leaf-spot-pesticide]]

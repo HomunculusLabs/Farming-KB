@@ -23,7 +23,7 @@ sources:
 
 It encompasses several economically important cultivated forms including table beet (beetroot), sugar beet, Swiss chard, and mangelwurzel.
 
-The species is notable for its high genetic diversity, with cultivated types diverging from wild sea beet (*Beta vulgaris* subsp. *maritima*) over the past two millennia.
+The species is notable for its high [[biodiversity-fungal-genetic-diversity]], with cultivated types diverging from wild sea beet (*Beta vulgaris* subsp. *maritima*) over the past two millennia.
 
 ## Taxonomy and Morphology
 
@@ -58,23 +58,23 @@ Wild sea beet grows along coastal areas from the Atlantic coasts of Britain and 
 
 It tolerates high salinity and is commonly found on shingle beaches, cliff faces, and salt marshes.
 
-Cultivated forms are grown worldwide in temperate regions, with major production areas in Europe, [[psilocybin-north-america-pacific-northwest]], and Asia.
+Cultivated forms are grown worldwide in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], with major production areas in Europe, [[psilocybin-north-america-pacific-northwest]], and Asia.
 
 Sugar beet cultivation extends from approximately 30°N to 60°N latitude, requiring a [[savory-growing-season-and-non-growing-season-management]] of 140–180 days for optimal sugar accumulation.
 
 ## Cultivation
 
-Sugar beet is typically sown in early spring and harvested in autumn, though mild climates permit autumn sowing for harvest the following year.
+Sugar beet is typically sown in [[coleman-overwintered-onions-and-early-spring-crops]] and harvested in autumn, though mild climates permit autumn sowing for harvest the following year.
 
 The crop requires well-drained, deep loamy soils with a pH of 6.0–8.0 and adequate nitrogen and potassium fertilization.
 
 Sugar beet is a biennial, producing a storage root in the first year and bolting in the second year when exposed to vernalization temperatures.
 
-Modern sugar beet varieties are monogerm (single-seeded), selected to eliminate the need for hand-thinning that was historically required with multigerm seed balls.
+Modern sugar beet varieties are monogerm (single-seeded), selected to eliminate the need for hand-thinning that was historically required with multigerm [[clay-pellet-seed-balls]].
 
 Table beet cultivars reach maturity in 50–70 days and are commonly direct-seeded at 2–3 cm depth in rows 30–50 cm apart.
 
-Swiss chard is among the most heat-tolerant [[solomon-leafy-greens-growing]], capable of productive growth through summer in temperate climates where lettuce and spinach fail.
+Swiss chard is among the most heat-tolerant [[solomon-leafy-greens-growing]], capable of productive growth through summer [[query-how-to-grow-and-use-oca-in-temperate-climates]] where lettuce and spinach fail.
 
 ## Nutritional Value
 
@@ -86,42 +86,4 @@ Betanin, the primary betacyanin, has been studied for potential anti-inflammator
 
 Swiss chard leaves are an excellent source of vitamins A, C, and K, with the dark green leaves containing higher concentrations of carotenoids than lighter cultivars.
 
-Sugar beet pulp, a byproduct of sugar extraction, is widely used as high-fiber livestock feed and contains approximately 10% crude protein on a dry matter basis.
-
-## Chemistry and Pharmacology
-
-Beta vulgaris contains betalains, a class of nitrogen-containing pigments found almost exclusively in the order Caryophyllales.
-
-Betalains are categorized into betacyanins (red-violet) and betaxanthins (yellow-orange), with betanin being the most abundant betacyanin in beetroot.
-
-Dietary nitrate from beetroot juice is metabolized to nitrite and nitric oxide, producing vasodilatory effects that have been shown to lower systolic blood pressure in [[mushroom-cancer-clinical-trials-overview]].
-
-The inorganic nitrate content of beetroot ranges from 250–500 mg per 100 g fresh weight, depending on cultivar and growing conditions.
-
-Betaine (trimethylglycine), also named for this species, is abundant in beetroot at 100–300 mg per 100 g and functions as an osmoprotectant and methyl donor.
-
-## Ecology and Applications
-
-Wild sea beet is a primary genetic resource for sugar beet breeding programs, contributing genes for disease resistance, [[fungal-lichen-stress-tolerance-and-poikilohydry]], and yield improvement.
-
-The species is a host for several economically significant pests including the sugar beet nematode (*Heterodera schachtii*) and the beet leafhopper (*Circulifer tenellus*).
-
-Cercospora leaf spot, caused by *Cercospora beticola*, is the most damaging foliar disease of sugar beet worldwide.
-
-Sugar beet is increasingly recognized for its potential as a bioenergy crop, with the entire plant usable for biogas production.
-
-Fodder beet varieties, developed for high dry matter yield, remain important as winter livestock feed in parts of Northern Europe and New Zealand.
-
-## See Also
-
-- [[silene-vulgaris]]
-
-- [[senecio-vulgaris]]
-
-- [[hippuris-vulgaris]]
-
-- [[amaranthus-caudatus]]
-- [[daucus-carota]]
-- raphanus sativum
-- [[taraxacum-officinale]]
-- [[cichorium-intybus]]
+Sugar beet pulp, a byproduct of sugar extraction, is widely used as high-fiber [[livestock-feed-formulation]] and contains approximately 10% crude protein on a dry matter basis.

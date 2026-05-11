@@ -6,6 +6,7 @@ type: comparison
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - https://www.nrel.gov/ (search: agrivoltaics research)
   - https://www.iresa.org/ (International Agrivoltaics research)
   - https://www.sciencedirect.com/ (search: agrivoltaic systems crop yield)

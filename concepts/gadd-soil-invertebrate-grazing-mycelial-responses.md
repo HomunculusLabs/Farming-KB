@@ -9,11 +9,11 @@ created: 2026-05-09
 
 ## Overview
 
-Fungal mycelia in soil and leaf litter face continuous grazing pressure from
+Fungal mycelia in soil and leaf litter face [[comparison-rotational-grazing-vs-continuous-grazing]] pressure from
 diverse invertebrates including Collembola (springtails), nematodes, mites,
 enchytraeids, and insect larvae. This grazing exerts powerful selective forces
-shaping mycelial architecture, [[arbuscule-isolation-metabolic-activity-assays]], species composition, and
-ecosystem decomposition processes. Rather than being merely destructive,
+shaping [[bloomfield-what-lies-beneath-mycelial-architecture-hyphal-biology-subterranean-fungus]], [[arbuscule-isolation-metabolic-activity-assays]], species composition, and
+ecosystem [[fungal-decomposition-processes]]. Rather than being merely destructive,
 grazing regulates fungal growth strategies and functional diversity. Fungal
 responses to invertebrate grazing reveal sophisticated adaptive mechanisms with
 striking analogies to plant-herbivore interactions.
@@ -45,7 +45,7 @@ maintaining fungal diversity by preventing single-species dominance.
 
 ## Browse Line Analogy
 
-Invertebrate grazing creates vertical mycelial distribution patterns directly
+Invertebrate grazing creates vertical mycelial [[fungal-biogeography-distribution-patterns]] directly
 analogous to browse lines from mammalian herbivory. Just as deer and cattle
 create browse lines by consuming accessible foliage up to a maximum height,
 soil invertebrates create vertical grazing gradients within soil profiles.
@@ -72,7 +72,7 @@ solution. When Collembola consume hyphae, they digest fungal tissue and
 excrete mineralized nitrogen, phosphorus, and other nutrients as frass. This
 grazing-mediated mineralization accelerates decomposition by making fungal-
 bound nutrients available to other organisms and plant roots. Net ecosystem
-effects depend on balance between nutrient immobilization in grazer biomass,
+effects depend on balance between [[dighton-fungal-nutrient-immobilization-turnover]] in grazer biomass,
 excretion release, and changes in fungal activity. Moderate grazing often
 enhances overall decomposition and nutrient turnover, while intense grazing
 suppresses fungal activity enough to reduce rates.
@@ -85,56 +85,6 @@ changes in enzyme production at locations distant from the grazing site. In
 switch throughout the mycelial network, not only at grazed locations.
 [[staycare-lignin-peroxidase-and-pollutant-degradation]] [[fungal-manganese-peroxidase-remediation]] genes are upregulated in sectors
 far from the grazing zone. This distant response suggests internal signaling
-through calcium waves, electrical signaling, or elicitor molecule transport.
+through calcium waves, [[chamovitz-plant-electrical-signaling-action-potentials]], or elicitor molecule transport.
 The functional significance may involve strategic shifts toward recalcitrant
 carbon acquisition when readily available resources are lost to grazing.
-
-## Nematode-Trapping Fungi
-
-Some fungi have evolved specialized structures for capturing nematodes,
-reversing typical grazing interactions. Nematode-trapping fungi produce
-adhesive networks, adhesive knobs, or constricting rings that physically
-capture nematodes. After capture, specialized infection hyphae penetrate the
-nematode cuticle and digest internal contents. This predatory adaptation to
-nitrogen-poor environments targets nematodes as concentrated nutrient sources.
-Trapping structures are induced by nematode presence or chemical signals,
-ensuring metabolic costs are incurred only when prey is available.
-
-## Toxin Production by Basidiomycetes
-
-Several basidiomycetes defend against grazers through chemical warfare,
-producing toxins that deter or kill consumers. Pleurotus species (oyster
-mushrooms) produce toxic metabolites paralyzing nematodes, facilitating their
-colonization and consumption. The ectomycorrhizal [[laccaria-bicolor]] kills soil
-nematodes through toxin production, gaining nitrogen and nutrients from dead
-animals. This chemical defense parallels plant secondary metabolite production
-and represents convergent evolutionary solutions to herbivore pressure.
-
-## Analogy to Insectivorous Plants
-
-The combination of predatory [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] and toxin-mediated killing
-creates a striking analogy to insectivorous plants like sundews and Venus
-flytraps. Both normally non-carnivorous organisms supplement nutrient
-acquisition by capturing and digesting animals. For fungi, this provides
-concentrated nutrient access in decomposition environments where mineral
-nitrogen is limiting. The convergent evolution between fungal trapping
-structures and plant insect-trapping mechanisms illustrates universality of
-predatory adaptations across distantly related eukaryotes facing similar
-nutrient constraints.
-
-## Ecosystem-Level Consequences
-
-The interplay between invertebrate grazing and fungal responses generates
-cascading ecosystem effects. Grazing regulates fungal community composition
-by suppressing palatable species and favoring defended taxa. Morphological
-changes alter mycelial foraging efficiency and resource distribution. Systemic
-metabolic responses change enzyme production and decomposition pathways.
-Together these determine organic matter decomposition rates, nutrient
-mineralization, and carbon sequestration in soil ecosystems, making
-invertebrate-fungal interactions key drivers of belowground function.
-
-## See Also
-
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[dighton-selective-grazing-fungal-community-shifts]]
-- [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]

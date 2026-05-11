@@ -88,34 +88,3 @@ All parts of *I. pseudacorus* contain the iridoid glycoside iridin (also called 
 The rhizome also contains tannins, mucilage, and traces of essential oil. Drying the rhizome reduces iridin concentrations significantly, which is why dried rhizome was preferred in traditional herbal applications over fresh material.
 
 Livestock poisoning has been documented, particularly in cattle and sheep that graze on fresh rhizomes exposed by receding water levels. Symptoms include salivation, colic, and bloody diarrhea. Human cases of poisoning are rare but occur when the rhizome is mistaken for other edible roots such as sweet flag (*[[sweet-flag-acorus-calamus-ethnobotany]]*).
-
-Contact with the fresh sap can cause skin irritation (iridodermatitis) in sensitive individuals. This is a recognized occupational hazard for horticultural workers handling large quantities of the plant without gloves.
-
-## Ecological Role
-
-In its native range, yellow flag iris plays an important structural role in wetland plant communities. Its dense rhizome mats stabilize stream banks and lake margins, reducing erosion. The aerial stems provide perching sites for aquatic insects and nesting material for wetland birds.
-
-The flowers are visited by bumblebees (*Bombus* spp.) and other long-tongued pollinators attracted to the nectar guides on the falls. However, the floral architecture is primarily adapted for self-pollination as a backup strategy.
-
-The falls serve as landing platforms for pollinators and bear a beard-like ridge of hairs that directs insects toward the nectar. Despite the showy appearance, nectar production is relatively modest compared to other temperate wetland flowers.
-
-Invasive populations in North America form dense monocultures that exclude native wetland species such as **[[typha-latifolia]]**, **[[scirpus-tabernaemontani]]**, and **[[juncus-effusus]]**. These monocultures reduce plant species diversity and alter invertebrate [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-Research has shown that invasive stands can reduce native plant species richness by up to 80% in heavily infested wetlands. The thatch of dead leaf material accumulates over years, further inhibiting seed germination of native species and altering soil chemistry.
-
-The seeds provide food for several wetland bird species, including mallards and teal, though the contribution is minor relative to other wetland seed sources. The foliage provides cover for amphibians and small fish along water margins.
-
-A number of invertebrate species are associated with *I. pseudacorus*, including the iris weevil (*Mononychus punctumalbum*) and the iris sawfly (*Rhadinoceraea micans*). The rhizomes serve as overwintering habitat for aquatic insect larvae in temperate regions.
-
-## See Also
-
-- [[typha-latifolia]]
-- [[phragmites-australis]]
-- [[eichhornia-crassipes]]
-- [[nymphaea-alba]]
-- [[scirpus-tabernaemontani]]
-- [[menyanthes-trifoliata]]
-- [[sagittaria-latifolia]]
-- [[pontederia-cordata]]
-- [[juncus-effusus]]
-- [[iris-entity]]

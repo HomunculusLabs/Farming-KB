@@ -6,10 +6,11 @@ type: concept
 tags: [permaculture, design, food-forest, plant-systems]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Orchard Plant Guilds (Mollison)
 
-Source: Permaculture: A Designers' Manual, Bill Mollison,
+Source: Permaculture: A Designers' Manual, [[bill-mollison]],
 Section 12.9 (pp. 423-425)
 
 ## Cool Temperate Orchard Species
@@ -66,7 +67,7 @@ Crotalaria and marigolds help control root nematodes.
 ## Maximising the Guild Effect
 
 Maximise flowering components, reduce grasses, attract
-pollinators and predators, provide ground cover for frogs
+pollinators and predators, provide [[fukuoka-citrus-orchard-ground-cover-cultivation]] for frogs
 and lizards. Kniphofia, Fuchsia, and Salvia attract
 insectivorous birds. Small ponds breed frogs. Nasturtium
 prevents soil drying and adds mulch.
@@ -86,15 +87,3 @@ moth and [[fukuoka-australia-fruit-fly-incident]]. Pigs handle windfalls when tr
 years as older trees tolerate grass competition.
 
 ## Orchard Layout and Ungrafted Strategy
-
-Mound-plant trees with swales above. Shelter crops between
-mixed hedgerows following [[keyline-design]] principles.
-Plant ungrafted whips 12m inside blackberry clump edges.
-They fruit in 4-6 years. Cattle eat fallen fruit and
-trample blackberries. After 20 years no blackberry survives.
-
-## See Also
-
-- [[pruning-fruit-trees]]
-- [[permaculture-plant-stacking-vertical-guilds]]
-- [[bill-mollison]]

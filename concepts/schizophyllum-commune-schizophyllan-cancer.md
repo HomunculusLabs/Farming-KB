@@ -1,5 +1,5 @@
 ---
-title: Schizophyllum Commune and Schizophyllan Cancer Research
+title: Schizophyllum Commune Schizophyllan Cancer
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Schizophyllum Commune and Schizophyllan Cancer Research
 
-Schizophyllum commune is a small, whitish bracket fungus with worldwide distribution on dead trees. It produces Schizophyllan (also called Sonifilan, Sizofiran, Sizofilan), a beta(1,3)-D glucan with beta-(1,6)-D glucan side-chains that has demonstrated significant anti-cancer activity.
+Schizophyllum commune is a small, whitish bracket fungus with [[worldwide-distribution-psilocybin-mushrooms]] on dead trees. It produces Schizophyllan (also called Sonifilan, Sizofiran, Sizofilan), a beta(1,3)-D glucan with beta-(1,6)-D glucan side-chains that has demonstrated significant anti-cancer activity.
 
 ## The Fungus
 
-Schizophyllum commune is one of the most common and widely distributed basidiomycete mushrooms globally. Despite being edible, it is primarily valued for its pharmaceutical polysaccharide production. The mushroom has been known in traditional medicine and is now cultivated commercially in Japan for Schizophyllan extraction.
+Schizophyllum commune is one of the most common and widely distributed [[anemotropism-in-basidiomycete-mushrooms]] globally. Despite being edible, it is primarily valued for its pharmaceutical polysaccharide production. The mushroom has been known in traditional medicine and is now cultivated commercially in Japan for Schizophyllan extraction.
 
 ## Schizophyllan Chemistry
 
@@ -42,7 +42,7 @@ Schizophyllan has been shown to increase overall survival of patients with head 
 
 ### Cervical Cancer
 In a randomised controlled study combining Schizophyllan with radiotherapy:
-- Stage II cervical cancer patients showed significantly prolonged overall survival
+- Stage II cervical [[cannabis-for-cancer-patients]] showed significantly prolonged overall survival
 - Stage III patients did not show significant survival benefit
 
 ### Multi-Cancer Trial
@@ -88,13 +88,3 @@ Mushroom-derived preparations are generally well-tolerated with minimal side eff
 - Mushroom-derived polysaccharides show immunomodulatory and direct antitumor activity
 - Beta-glucans are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immune activation
 - Clinical evidence supports adjunctive use alongside conventional cancer treatments
-- Safety profiles are favorable compared to many conventional therapies
-- Further large-scale clinical trials are needed to optimize dosing protocols
-
-## See Also
-
-- [[medicinal-mushroom-guide-chaga]]
-- [[maitake-cancer-clinical-research]]
-- fungal-immunology-overview
-- [[shiitake-mushroom-cultivation]]
-- [[reishi-mushroom-medicinal-research]]

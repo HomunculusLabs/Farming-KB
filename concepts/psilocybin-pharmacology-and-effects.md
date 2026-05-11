@@ -1,11 +1,11 @@
 ---
-title: Pharmacology and Acute Effects of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
+title: Psilocybin Pharmacology And Effects
 source: carolina-mushrooms_08qxp.md
 created: 2026-05-09
 tags: [pharmacology, psilocybin, effects, dosage, serotonin, 5-HT2A, onset, duration, toxicity]
 ---
 
-# Pharmacology and Acute Effects of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics|Psilocybin]] Mushrooms
+# Pharmacology and Acute Effects of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] Mushrooms
 
 ## Overview
 
@@ -13,7 +13,7 @@ Psilocybin-containing mushrooms produce their effects primarily through
 psilocybin and its active metabolite psilocin, which act on the serotonin
 system. The effects include marked perceptual distortions, altered thought
 processes, and changes in mood and self-awareness. Understanding the
-pharmacology, dosing, and effects is essential for both clinical research
+pharmacology, dosing, and effects is essential for both [[hofmann-lsd-clinical-research-early-studies]]
 and harm reduction.
 
 ## Chemical Classification
@@ -37,7 +37,7 @@ mode network activity, alters thalamocortical processing, and modifies sensory
 perception and temporal experience. This mechanism overlaps with other classical
 psychedelics (LSD, DMT, mescaline), which all share 5-HT2A agonism.
 
-## Terminology: [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006|Hallucinogenic]] vs. Psychedelic
+## Terminology: [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]] vs. Psychedelic
 
 - **"Hallucinogen"** — scientific term, though misleading (rarely causes true
   hallucinations; effects are better described as perceptual distortions)
@@ -52,15 +52,15 @@ These terms are used interchangeably in practice.
 ### Potency Variation
 
 Potency varies significantly between species, varieties, growing conditions,
-and specimen age. The primary species used recreationally include:
+[[psilocybin-degradation-volatility-and-specimen-age]]. The primary species used recreationally include:
 
 | Species | Common Name | Relative Potency |
 |---------|-------------|-----------------|
-| *Psilocybe cubensis* | Golden teacher, Mexican | Low–moderate |
+| *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* | Golden teacher, Mexican | Low–moderate |
 | *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]* | Liberty cap | Moderate–high |
 | *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]* | Wavy cap | High |
-| *Psilocybe azurescens* | Flying saucer | Very high |
-| *Psilocybe bohemica* | — | Moderate–high |
+| *[[psilocybe-azurescens]]* | Flying saucer | Very high |
+| *[[psilocybe-bohemica]]* | — | Moderate–high |
 
 ### Dose Ranges
 
@@ -88,60 +88,3 @@ The onset is faster and duration shorter when consumed as tea on an empty
 stomach.
 
 ## Acute Psychological Effects
-
-### Positive / Desirable Effects
-- Enhanced color perception and visual patterning
-- Altered sense of time (time dilation)
-- Feelings of connectedness, euphoria, and amusement
-- Enhanced introspection and emotional insight
-
-### Negative / Challenging Effects
-- **Nausea** — very common during onset, from fungal chitin and gut 5-HT
-- **Anxiety and panic** — especially at higher doses
-- **Paranoia** — in unfamiliar or [[fungi-in-stressful-environments]]
-- **Lack of sociability** — users often feel withdrawn
-
-## Acute Physiological Effects
-
-- Pupillary dilation
-- Increased heart rate and blood pressure (mild)
-- Increased body temperature
-- Nausea and gastrointestinal discomfort
-- Dizziness and headache (occasionally)
-- Muscle weakness or tremor (rare)
-
-## Toxicity and Somatic Risk
-
-Psilocybin has a **high therapeutic index** — the lethal dose is estimated at
-over 1,000× the active dose. Primary somatic risks:
-
-1. **Accidental injury** — impaired judgment
-2. **Misidentification poisoning** — toxic look-alikes like *[[galerina-marginata]]*
-  contain deadly amatoxins
-3. **Serotonin syndrome** — theoretical risk with SSRIs/MAOIs, rarely documented
-
-## Mental Health Risks
-
-- Psychotic episode precipitation in vulnerable individuals
-- HPPD (persistent perceptual disturbances) — rare
-- Traumatic "bad trips" causing lasting anxiety
-- Exacerbation of pre-existing psychiatric conditions
-
-## Barriers to Recreational Diffusion
-
-User accounts suggest several factors that limit the appeal of repeated use:
-
-1. **Unpredictable potency** — doses vary between specimens and batches
-2. **Negative effects** — nausea, panic, and lack of sociability are common
-3. **Intensity** — the experience can be overwhelming and not conducive to
-  casual social use
-4. **Duration** — 4–6 hours is a significant time commitment
-
-These self-limiting factors help explain why prevalence of regular use remains
-low compared to substances like cannabis or alcohol.
-
-## References
-
-- Hillebrand, J., Olszewski, D. & Sedefov, R. (2006). [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects|Emcdda]] Thematic Papers.
-- Gossop, M. (1993). *Living with Drugs*.
-- Pechnick, R.N. & Ungerleider, J.T. (2004). Hallucinogens.

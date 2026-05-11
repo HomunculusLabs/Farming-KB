@@ -1,5 +1,5 @@
 ---
-title: "Fungal Biodiversity Education and [[citizen-science-fungal-biodiversity-discovery]]"
+title: Fungal Biodiversity Education Citizen Science
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -88,62 +88,3 @@ science capacity:
 - **Database integration** with professional fungal collections and
   herbarium records
 - **Mapping tools** for visualizing [[fungal-biogeography-distribution-patterns]] and tracking
-  range shifts over time
-- **Social media groups** where identifiers share knowledge and
-  discuss observations in real time
-
-## Challenges in Citizen Science Mycology
-
-### Identification Difficulty
-
-Fungi are among the most challenging organisms for non-specialists to
-identify:
-
-- Many species require [[fungal-microscopic-examination-mounting-media-techniques]] for certain
-  identification, including spore morphology and tissue structure
-- Fruit body morphology varies with age, weather, and habitat
-  conditions
-- Morphological species concepts may not correspond to genetic species
-  boundaries defined by DNA sequencing
-- Toxic species require especially careful identification; the
-  consequences of misidentification can be fatal
-- Look-alike species pairs are common and often require expert
-  knowledge to distinguish
-
-### Taxonomic Accessibility
-
-The technical language of mycology creates barriers to public
-engagement. Simplified identification keys and visual guides help
-overcome this, but some level of expert involvement remains essential
-for data quality. Efforts to improve accessibility include:
-
-- Plain-language field guides targeting specific regions or habitats
-- Visual key systems using photographs rather than technical
-  descriptions
-- Online courses and workshops teaching basic fungal identification
-- Mentorship programs pairing experienced mycologists with beginners
-- Community identification events (forays) led by knowledgeable guides
-
-### Temporal Limitations
-
-Fruiting is seasonal and often brief, limiting the window for citizen
-science observations. Year-round monitoring of visible fungi requires
-dedicated effort. Strategies to address temporal limitations include:
-
-- Establishing permanent monitoring plots visited at regular intervals
-- Training participants to recognize non-fruiting signs of fungal
-  activity (mycelial cords, ectomycorrhizal root tips)
-- Encouraging off-season observations of fungal substrates and
-  potential habitats
-- Building networks of observers who can cover extended geographic
-  areas during peak fruiting periods
-
-## Connection to Conservation
-
-Citizen science fungal monitoring contributes to [[fungal-conservation-biology]] and supports conservation planning through:
-
-- Distribution data that informs habitat protection decisions
-- Long-term records detecting population declines or range shifts
-- Discovery of rare or previously unknown species in unexpected
-  locations
-- Baseline data against which future changes can be measured

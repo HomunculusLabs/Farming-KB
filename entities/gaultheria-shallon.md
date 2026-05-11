@@ -87,23 +87,3 @@ Modern uses include fresh eating, preserves, pies, and beverages. The berries ar
 Salal foliage is harvested commercially on a large scale for the floral arrangement industry. Fresh, glossy salal leaves are exported worldwide as a filler green, with the Pacific Northwest supplying an estimated 2–5 million kg annually.
 
 ## Cultivation
-
-Gaultheria shallon is widely cultivated as an ornamental groundcover for shade gardens, native plant landscapes, and [[permplant-willows-salix-erosion-control-fodder]] projects. Its glossy evergreen foliage and tolerance of deep shade make it a versatile landscape subject.
-
-Propagation from seed requires cold stratification for 60–90 days, with germination rates typically 30–50%. Division of established clumps is the most reliable propagation method, as the extensive rhizome system produces numerous rooted stems.
-
-Softwood cuttings taken in summer root at 40–60% under mist with rooting hormone treatment. Tissue culture protocols are well-established and used for mass production of nursery stock.
-
-Plants prefer partial to full shade and acidic, organic-rich soils. They are moderately drought-tolerant once established but perform best with consistent moisture. Full sun is tolerated in cool coastal climates.
-
-Spacing for groundcover plantings is 0.5–0.8 meters. Plants spread rapidly through rhizome growth, with full coverage typically achieved within 2–3 years from division planting.
-
-## See Also
-
-- [[vaccinium-ovatum]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-pallidum]]
-- arctostaphylos-uva-ursi
-- [[vaccinium-vitis-idaea]]
-- [[gaylussacia-baccata]]

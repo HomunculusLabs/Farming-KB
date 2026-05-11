@@ -88,34 +88,3 @@ Modern pharmacological interest in Cetraria pinastri has focused on the immunomo
 Cetraria pinastri contributes to epiphytic diversity in boreal and montane coniferous forests, where it occupies a distinct niche on the trunks of mature conifers. Its moderate size and relatively slow growth rate place it among the mid-successional epiphytic lichens.
 
 The species typically colonizes tree trunks that have been available for at least several decades, as the establishment of foliose lichens on fresh bark requires preliminary colonization by crustose pioneer species. This successional requirement means that Cetraria pinastri is generally absent from recently established or heavily managed forest stands.
-
-The species serves as a minor but consistent nitrogen input to forest ecosystems through the decomposition of its thallus and the leaching of nitrogenous compounds from living tissue. However, unlike some lichens with cyanobacterial photobionts, its nitrogen contribution is relatively modest.
-
-Cetraria pinastri provides microhabitat for various invertebrates, including oribatid mites, springtails, and small insects that inhabit the spaces between the thallus and the bark. It is occasionally grazed by lichen-feeding specialist mollusks in humid forest environments.
-
-The lichen's water-holding capacity, while lower than that of larger foliose species, still contributes to the microclimate regulation of bark surfaces. During rain events, the thallus can absorb water equivalent to 150 to 200 percent of its dry weight, slowly releasing it through evaporation.
-
-The species is moderately sensitive to air pollution, particularly sulfur dioxide, and its presence is used as a bioindicator of relatively clean air in European forest monitoring programs. Declines in Cetraria pinastri populations have been documented in areas with elevated industrial pollution.
-
-Recovery following pollution reduction has been documented in several European countries, with populations gradually recolonizing previously affected areas. However, recolonization rates are slow, and full recovery of biomass to pre-pollution levels may require several decades.
-
-## Similar Species
-
-Cetraria pinastri is most easily confused with Cetraria islandica, which has broader, flatter lobes and a different chemical profile dominated by cetraric acid rather than fumarprotocetraric acid. Cetraria islandica also prefers terrestrial and mossy substrates rather than bark.
-
-The genus Tuckermannopsis contains several species with similar brown, linear-lobed thalli. Tuckermannopsis ciliaris can be distinguished by its ciliate lobe margins and different medullary chemistry. Flavocetraria nivalis, the snow lichen, has a distinctive yellow-green coloration and occurs primarily on soil and among mosses in arctic and alpine habitats.
-
-Cetraria aculeata, the spiny Iceland lichen, has narrow lobes with characteristic marginal cilia or spine-like projections. It grows on a wider range of substrates including both bark and soil, and its chemistry differs in the absence of fumarprotocetraric acid.
-
-## See Also
-
-- [[cetraria-islandica]]
-- [[cladonia-rangiferina]]
-- [[cladonia-stellaris]]
-- [[hypogymnia-physodes]]
-- [[melanelia-fuliginosa]]
-- [[usnea-barbata]]
-- [[evernia-prunastri]]
-- [[xanthoria-parietina]]
-- [[physcia-stellaris]]
-- [[anaptychia-ciliaris]]

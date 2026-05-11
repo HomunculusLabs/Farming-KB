@@ -2,11 +2,11 @@
 
 ## Overview
 
-In Chapter V of The Cannabis Health Index, Uwe Blesching identifies three
+In Chapter V of The [[blesching-cannabis-health-index-autoimmune-conditions]], Uwe Blesching identifies three
 "healing habits" — gratitude, compassion, and forgiveness — as central
 practices in the mind-body medicine framework for deeper healing. These
 habits are paired with three "destructive habits" (guilt, martyrdom, and
-harbored anger) that they are designed to replace. The framework positions
+[[guilt-martyrdom-harbored-anger-as-health-hazards]]) that they are designed to replace. The framework positions
 emotional habits as active determinants of health outcomes, mediated through
 the endocannabinoid system and its interactions with other neurochemical
 systems.
@@ -15,8 +15,8 @@ systems.
 
 Blesching's framework distinguishes between expansive and constricting
 emotions. Expansive emotions (associated with anandamide, serotonin, GABA,
-oxytocin, and endogenous opioids) promote parasympathetic dominance,
-reduced inflammation, and enhanced immune function. Constricting emotions
+oxytocin, and [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]) promote parasympathetic dominance,
+reduced inflammation, and enhanced immune function. [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 (associated with cortisol, epinephrine, glutamate, and vasopressin)
 promote sympathetic dominance, chronic inflammation, and immune
 suppression.
@@ -60,9 +60,9 @@ central to gratitude practice.
 Compassion activates the insula, anterior cingulate cortex, and
 hypothalamus, with particular engagement of the oxytocin system. Compassion
 meditation increases functional connectivity between the prefrontal cortex
-and insula, enhancing emotional regulation capacity.
+and insula, enhancing [[anandamide-emotional-regulation-blesching]] capacity.
 
-Physiological effects include increased oxytocin release promoting trust,
+[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] include increased oxytocin release promoting trust,
 reduced amygdala reactivity to threats, enhanced vagal tone, reduced
 C-reactive protein and inflammatory markers, increased beta-endorphin
 release, and modulation of the HPA axis reducing chronic cortisol.
@@ -88,47 +88,3 @@ and decreased perceived pain intensity in chronic conditions.
 From an endocannabinoid perspective, forgiveness may work by reducing
 chronic stress that depletes anandamide through sustained FAAH upregulation.
 By releasing resentment, forgiveness allows the endocannabinoid system to
-return to a healthier baseline of tone and receptor sensitivity.
-
-## Integration with Cannabis Therapeutics
-
-Blesching's framework explicitly integrates emotional habits with cannabis
-therapy. The CHI scoring system incorporates mind-body practices as
-complementary to cannabinoid administration, recognizing that emotional
-state modulates treatment outcomes.
-
-Cannabis may facilitate healing habit adoption through: reducing anxiety
-and rumination that prevent engagement with emotional practices; enhancing
-emotional processing through the endocannabinoid system's role in memory
-extinction; promoting parasympathetic dominance creating physiological
-states conducive to emotional work; and modulating social cognition through
-CB1 activation in the prefrontal cortex to enhance perspective-taking.
-
-## Practical Application
-
-**For gratitude**: Regular journaling of things appreciated, expressing
-thanks to others, savoring positive experiences as a consistent daily
-ritual.
-
-**For compassion**: Loving-kindness meditation (metta), volunteering,
-active listening, and deliberately considering the humanity of others
-including those with whom one disagrees.
-
-**For forgiveness**: Acknowledging harm done, choosing to release desire
-for retribution, and reframing experiences as sources of growth.
-Forgiveness does not require condoning harmful behavior or maintaining
-relationship with those who caused harm.
-
-## See Also
-
-- [[blesching-cannabis-belief-reprogramming]]
-- [[blesching-cannabis-emotional-intelligence-healing-framework]]
-- [[blesching-cannabis-deep-relaxation-healing]]
-- [[blesching-cannabis-oxytocin-endocannabinoid-system]]
-- [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
-- [[blesching-molecules-emotions-endocannabinoid-bridge]]
-
-## Sources
-
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books.
-Chapter V: Integrating Mind-Body Medicine for Deeper Healing.

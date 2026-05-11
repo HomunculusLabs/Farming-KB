@@ -88,23 +88,3 @@ and pigs, potentially replacing wasteful grain feeding practices. The
 myceliated straw also serves as excellent compost material. At least five
 Oyster species secrete metabolites toxic to plant-parasitic nematodes,
 making the spent substrate useful as a safe but potent nematicide. The
-remaining myceliated mass is sufficiently nutritious to support secondary
-mushroom crops such as Stropharia rugoso-annulata outdoors.
-
-## Taxonomy
-
-The taxonomic placement of Pleurotus has been debated. Singer (1986) placed
-the genus into the Polyporaceae family alongside Lentinus. DNA studies by
-Vilgalys et al. (1993) revealed that P. pulmonarius is virtually
-indistinguishable from P. ostreatus genetically, differing mainly in habitat
-preference. The misapplied name "Pleurotus sajor-caju" actually refers to
-strains of P. pulmonarius widely grown commercially.
-
-## See Also
-
-- mushroom-mycelium-and-mycofiltration
-- [[maitake-grifola-frondosa]]
-- growing-gourmet-supplemented-sawdust-sterilization
-- [[decomposition]]
-- [[pleurotus-species]]
-- [[unknown-mycelium-mycofiltration]]

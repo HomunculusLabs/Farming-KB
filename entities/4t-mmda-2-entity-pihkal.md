@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4T-MMDA-2
 
-PIHKAL entry #167. 6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;.
+[[2c-b-pihkal-entry-20]] #167. 6-(2-AMINOPROPYL)-5-METHOXY-1,3-BENZOXATHIOL;.
 
 ## Chemical Name
 
@@ -47,7 +47,7 @@ can give believable findings, the actual trial of a new compound in
 man.
 
 The positional isomer of the heterocyclic carbonate used here is also
-known. Instead of using benzoquinone as a starting material with
+known. Instead of using benzoquinone as a [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] with
 thiourea as the sulfur source (giving the 1,4- oxygen orientation),
 one can start with resorcinol in reaction with ammonium thiocyanate as
 the sulfur source (in the presence of copper sulfate) and get the
@@ -88,40 +88,3 @@ mp of 66-72 deg C. Recrystallization from MeOH gave
 To a solution of 30 g 85% KOH in 75 mL warm H2O, there was added an
 equal volume of warm MeOH followed by 16 g
 5-methoxy-1,3-benzoxathiol-2-one, and the mixture was held under
-
-reflux conditions for 2 h. After cooling to room temperature, the mix
-was acidified with HCl and extracted with 2x100 mL CH2Cl2. Removal of
-the solvent from the pooled extracts gave a yellow oil that
-crystallized on standing. The product, 2-mercapto-4-methoxyphenol,
-weighed 14 g and had a mp of 56-57 deg C.
-
-A solution of 10 g 2-mercapto-4-methoxyphenol in 100 mL MEK was added
-over the course of 1 h to a vigorously stirred suspension of 25 g
-finely powdered anhydrous K2CO3 in 200 mL MEK that contained 14 g
-methylene bromide. The reflux was maintained for 48 h. After
-cooling, the mixture was freed of solids by filtration and the filter
-cake washed with 50 mL additional MEK. The combined washes and
-filtrate were stripped of solvent under vacuum, and the product
-distilled to give 3.3 g of 5-methoxy-1,3-benzoxathiol as a yellowing
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[mmda-3a-entity]]
-- [[2t-mmda-3a-entity-pihkal]]
-- [[mmda-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[tma-entity]]
-
-- [[mmda-2-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

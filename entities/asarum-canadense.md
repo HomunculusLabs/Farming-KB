@@ -88,30 +88,3 @@ Despite safety warnings, wild ginger continues to be used by some foragers who h
 ## Ecological Role
 
 The ground-level flowers of *A. canadense* are pollinated primarily by small flies and beetles that crawl along the forest floor. The urn-shaped calyx tube traps insects briefly, promoting effective pollen transfer.
-
-Seeds are dispersed by ants, which carry them to their nests after consuming the lipid-rich elaiosome attached to each seed. This myrmecochorous dispersal mechanism distributes seeds away from the parent colony.
-
-The dense rhizome mats provide habitat for ground-dwelling invertebrates and create microsites favorable for seed germination of other forest floor species. The leaf litter accumulates beneath the foliage, contributing to soil organic matter.
-
-Canadian wild ginger serves as a minor larval host for the pipevine swallowtail (*Battus philenor*) in parts of its range where the primary host (*Aristolochia* spp.) is absent.
-
-The species is increasingly used in ecological restoration of forest understories, where its rapid vegetative spread helps stabilize soil and suppress invasive ground covers like garlic mustard (*Alliaria petiolata*).
-
-Canadian wild ginger is moderately deer-resistant due to its aromatic foliage, making it a practical choice for landscapes with heavy deer pressure. The aristolochic acid content likely contributes to its unpalatability.
-
-## See Also
-
-- [[asarum-sieboldii]]
-
-- [[saururus-cernuus]]
-
-- [[piper-nigrum-entity]]
-- [[lindera-benzoin]]
-- [[zingiber-officinale]]
-- [[eugenia-caryophyllata]]
-- [[mentha-piperita]]
-- gaultheria-procumbens
-- [[piper-longum]]
-- [[cinnamomum-camphora]]
-- [[citrus-limon]]
-- [[citrus-sinensis]]

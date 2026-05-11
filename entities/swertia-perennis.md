@@ -67,11 +67,11 @@ In the United Kingdom, Swertia perennis is restricted to a few sites in the Scot
 
 Swertia perennis is rarely cultivated but can be grown in suitable conditions by specialist gardeners. Its requirements for constant moisture and alkaline soil make it a challenging subject.
 
-**Soil:** Plant in alkaline to neutral, peaty soil that remains consistently wet. A mix of loam, limestone grit, and well-rotted leaf mold provides a suitable growing medium.
+**Soil:** Plant in alkaline to neutral, peaty soil that remains consistently wet. A mix of loam, limestone grit, and well-rotted [[comparison-leaf-mold-composting-vs-hot-composting-method]] provides a suitable [[cervantes-green-algae-growing-medium]].
 
 **Water:** The species requires year-round moisture and should never be allowed to dry out. It can tolerate shallow standing water during winter months. A bog garden or pond margin is the ideal setting.
 
-**Propagation:** Sow fresh seed on the surface of moist compost in autumn. Germination is often erratic and may benefit from a period of cold stratification. Division of rhizomes is possible in early spring.
+**Propagation:** Sow fresh seed on the surface of moist compost in autumn. Germination is often erratic and may benefit from a period of cold stratification. Division of rhizomes is possible in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 **Site:** A sunny position in a bog garden, alongside other moisture-loving calcicoles such as Pinguicula, Epipactis, and Dactylorhiza orchids. Avoid locations where taller plants may shade it out.
 
@@ -87,35 +87,4 @@ Swertia perennis serves as a larval food plant for several moth species in the g
 
 The plant's dependence on calcareous fen conditions makes it an effective bioindicator for groundwater chemistry. Its presence signals alkaline, mineral-rich water conditions that support many other rare plant species.
 
-Climate change poses a long-term threat, as warming temperatures may shift the hydrological conditions in montane fens. Drying of fen habitats has already been observed in parts of the Alps.
-
-## Uses and Ethnobotany
-
-Swertia perennis has a history of use in traditional European folk medicine as a bitter tonic. The aerial parts contain secoiridoid glycosides, particularly swertiamarin, which contributes to the intensely bitter taste.
-
-In Alpine folk medicine, infusions of the flowering herb were used to stimulate appetite and aid digestion. These uses parallel those of Gentiana species, reflecting the shared phytochemistry of the Gentianaceae family.
-
-The closely related Asian species Swertia chirata is a much more significant medicinal plant in Ayurvedic and traditional Chinese medicine. Swertia perennis has received far less pharmacological study than its Asian relatives.
-
-Modern phytochemical analysis has identified xanthones and flavonoids in Swertia perennis extracts with anti-inflammatory activity in vitro. However, no clinical studies have been conducted on this species.
-
-The primary bioactive compound swertiamarin is shared with Swertia chirata and has demonstrated hepatoprotective effects in animal studies. This suggests potential for further pharmacological investigation.
-
-The species has limited ornamental value due to its small flowers and specific habitat requirements. It is grown primarily by native plant enthusiasts and botanical gardens with fen habitat displays.
-
-Conservation status varies across its range. In several central European countries, it is listed as vulnerable or endangered due to wetland drainage and agricultural intensification.
-
-Habitat restoration projects in Germany and Switzerland have successfully re-established populations through seed sowing and careful hydrological management of degraded fen sites.
-
-## See Also
-
-- [[swertia-chirata]]
-- [[gentiana-lutea]]
-- [[centaurium-erythraea]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-verna]]
-- [[campanula-rotundifolia]]
-- [[lobelia-cardinalis]]
-- [[gentiana-amarella]]
-- [[gentiana-clusii]]
-- [[gentiana-purpurea]]
+[[dighton-fungal-responses-climate-change]] poses a long-term threat, as warming temperatures may shift the hydrological conditions in montane fens. Drying of fen habitats has already been observed in parts of the Alps.

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Networks (Common Mycelial Network)
+title: Mycorrhizal Networks Common Mycelial Network
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Mycorrhizal Networks (Common Mycelial Network)
 
-The "Wood Wide Web" — mycorrhizal [[mycological-terms-glossary]] networks connect individual plants into an underground network through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and chemical signals between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
+The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [[teaming-with-microbes-fungi-the-underground-network]] through shared fungal hyphae. Through these networks, plants can transfer carbon, nutrients, water, and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] between individuals, including between different species. This is one of the most significant ecological discoveries of recent decades.
 
 ## How Networks Form
 
@@ -60,14 +60,14 @@ The "Wood Wide Web" — mycorrhizal [[mycological-terms-glossary]] networks conn
 ### Plant Community Composition
 - Networks can increase biodiversity by connecting species
 - Networks can also favor dominant species by facilitating resource transfer
-- Net effect depends on network structure and plant species involved
+- Net effect depends on [[mycelial-network-structure]] and plant species involved
 
 ### Seedling Establishment
 - Seedlings connected to mycorrhizal networks have:
   - Higher survival rates (10-50% improvement)
   - Faster growth
   - Better nutrient status
-  - Greater drought tolerance
+  - Greater [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - This is why maintaining undisturbed soil under trees is so important for regeneration
 
 ## Threats to Networks
@@ -102,8 +102,30 @@ The "Wood Wide Web" — mycorrhizal [[mycological-terms-glossary]] networks conn
 - Avoid fungicides where possible
 - Rotate crops that support AMF (not brassicas)
 
+
+## Ecological Role
+Fungal organisms play critical roles in ecosystem functioning through
+decomposition, nutrient cycling, and symbiotic relationships with plants.
+Understanding their ecological contributions informs both cultivation
+practices and conservation efforts across diverse habitats.
+
+
+## Research Directions
+Current research explores applications in bioremediation, sustainable
+agriculture, and pharmaceutical development. Advances in genomic
+sequencing and cultivation techniques continue to reveal new species
+and expand our understanding of fungal biology.
+
+
+## See Also
+- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
+- [[common-mycorrhizal-networks]]
+- [[mycelial-nutrient-transport-network-dynamics-gadd]]
+- [[fungal-pulsatile-nutrient-transport-mycelial-networks]]
+- [[mycelial-network-structure]]
 ## Related
 - [[arbuscular-mycorrhizal-fungi]] — for AMF network details
 - [[ectomycorrhizal-ecology]] — for ECM networks in forests
 - [[soil-food-web-structure]] — for the broader soil web
 - [[fungal-role-in-carbon-cycling]] — for carbon flow through networks
+

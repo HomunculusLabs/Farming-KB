@@ -1,5 +1,5 @@
 ---
-title: Turner turner ketamine combinations and cydelikspace navigation and CydelikSpace Navigation
+title: [[turner-ketamine]] Combinations And Cydelikspace Navigation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,7 +15,7 @@ Turner's advanced techniques for navigating CydelikSpace using Ketamine combinat
 
 - Ketamine can diminish the ego "much further than any other psychedelic, even to the point of total unconsciousness"
 - Keeps ego in abeyance for 15-45 minutes
-- "Provides a more complete by-pass of the reducing valve than any other psychedelic"
+- "Provides a more complete by-pass of the [[mckenna-huxley-mind-at-large-reducing-valve]] than any other psychedelic"
 - Problem: "tends to diminish the ego too far" — approaching unconsciousness means less CydelikSpace experienced and less retained
 
 ## The Solution: Pre-dosing with Psychedelics
@@ -88,21 +88,7 @@ Turner's advanced techniques for navigating CydelikSpace using Ketamine combinat
 - Overwhelming feeling of love with "distinct feminine or maternal quality"
 
 ### The Mother of All Forms
-- Magic ritual captured an "alien life-giving force"
-- Appeared as "semi-transparent, constantly moving flow of energy and matter"
-- "Serpentine, dragon-like, with forked tongue and wings"
-- Never holding shape for even a moment
-
-## Philosophy: Ego and Enlightenment
-
-- Turner rejects the Eastern view of abandoning ego entirely
-- "While the ego certainly needs to be transcended to enter CydelikSpace, it is only by continually rebuilding our identity that our lives continue"
-- Uses [[leary-psychedelic-experience-bardo-mapping]] to "[[query-can-fungi-break-down-plastic-pollution]] limitations, then rebuild and develop a wiser, healthier, happier ego"
-- Huxley's "reducing valve" theory: brain filters Mind at Large; psychedelics provide temporary by-passes
 
 ## See Also
-
-- [[ketamine-psychedelic-journey-guide]] — ketamine guide
-- [[psychedelic-combination-guide]] — combinations overview
-- [[turner-further-explorations-and-future-of-psychedelics]]
-- [[psychedelic-experience-stages]]
+- [[turner-multiple-combinations-cosmic-synergism]]
+- [[turner-essential-psychedelics-cosmic-synergism-combinations]]

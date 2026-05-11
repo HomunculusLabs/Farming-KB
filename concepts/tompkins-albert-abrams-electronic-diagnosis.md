@@ -88,38 +88,3 @@ against syphilis behaved similarly.
 ## The Oscilloclast
 
 Abrams realized that if he could devise a wave-emitting instrument
-similar to a wireless broadcasting station, which could alter the
-character of waves transmitted by diseased tissue, he might cancel them
-out as effectively as quinine or mercury. With radio engineer Samuel
-O. Hoffman, he built the "oscilloclast" or "wave breaker" -- a device
-that could emit specific waves capable of curing human afflictions by
-apparently altering or canceling pathological radiations.
-
-By 1919, Abrams began teaching its use to physicians. Because neither
-they nor Abrams could exactly explain how it effected cures, they
-regarded it as nothing short of miraculous.
-
-## Persecution and Legacy
-
-Abrams' work was systematically attacked. Scientific American
-published eighteen consecutive issues vilifying him. The AMA published
-a defamatory article calling him a quack. Yet Sir James Barr, past
-president of the British Medical Association who had successfully used
-Abrams' methods, wrote in reply: "You very seldom quote from the
-Journal of the American Medical Association and one might have expected
-that when you did you would have chosen a more serious subject than an
-ignorant tirade against an eminent medical man, against, in my
-opinion, the greatest genius in the medical profession."
-
-Abrams, a millionaire in his own right, wrote to Upton Sinclair that
-he would donate his devices to any institute that would develop them
-in the interests of humanity. His greatest discoveries -- that all
-matter is radioactive, that generated waves can be picked up across
-space using human reflexes as detectors -- were left unpursued after
-his death in 1924, though they inspired generations of radionic
-researchers including Thomas Galen Hieronymus and Dr. Ruth Drown.
-
-## See Also
-
-- [[tompkins-hieronymus-eloptic-energy]] for Hieronymus' extensions
-- [[tompkins-plant-electrical-signals]] for [[plant-bioelectricity]]

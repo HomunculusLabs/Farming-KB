@@ -1,6 +1,6 @@
 ---
-title: "Red-Far-Red chamovitz red far red phytochrome switch and plant memory and Plant Memory"
-source: grahamholmes-what-a-plant-knowsindd.md (Daniel Chamovitz, 2012)
+title: Chamovitz Red Far Red Phytochrome Switch And Plant Memory
+source: grahamholmes-what-a-plant-knowsindd.md ([[daniel-chamovitz]], 2012)
 topics: phytochrome, [[phytochrome-red-far-red-light-switch]], far-red light, photoperiodism, plant memory
 created: 2026-05-08
 ---
@@ -21,7 +21,7 @@ perceived.
 ### The Night-Break Experiments
 
 Around the time of World War II, scientists discovered they could
-manipulate flowering time by briefly turning lights on and off in
+manipulate [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] by briefly turning lights on and off in
 the middle of the night:
 
 - **Short-day plants** (like soybeans) that should flower during
@@ -41,7 +41,7 @@ flash, they found a surprising result: only **red light** influenced
 flowering. Blue or green flashes had no effect. This indicated that
 plants use separate photoreceptor systems for different purposes —
 [[chamovitz-julius-von-sachs-blue-light-phototropism]] for directional bending (phototropism) and red light for
-measuring night length (photoperiodism).
+measuring [[photoperiodism-plants-measure-night-length]] (photoperiodism).
 
 ## The Far-Red Reversal
 
@@ -88,63 +88,3 @@ stimulus, analogous to a single-bit memory storage.
 ### Discovery
 
 By 1960, Warren L. Butler and colleagues demonstrated that a single
-photoreceptor protein was responsible for both the red and far-red
-effects. They named it **phytochrome** (from Greek: "plant colour").
-
-### Two Forms
-Phytochrome exists in two interconvertible forms:
-- **Pr** (red-absorbing): The inactive form (~660nm). Absorbs red
-  light and converts to Pfr
-- **Pfr** (far-red-absorbing): The active form (~730nm). Absorbs
-  far-red light and converts back to Pr
-
-Red light activates (Pr→Pfr); far-red deactivates (Pfr→Pr).
-
-### Ecological Significance
-
-The red/far-red system has clear ecological logic:
-
-- **Morning**: Red-rich sunlight activates phytochrome to Pfr form
-  → plant "wakes up"
-- **Evening/Dusk**: Far-red-enriched light (because red light is
-  preferentially absorbed by foliage) converts Pfr to Pr → plant
-  "winds down"
-- **Canopy shade**: Light passing through or reflected from other
-  leaves is enriched in far-red → plants detect they are shaded
-  and trigger shade-avoidance responses
-
-## Which Part of the Plant "Sees"?
-
-Surprisingly, the phytochrome system for photoperiodism works
-differently from the phototropism system Darwin discovered:
-
-- **Phototropism**: The tip is the "eye" — only the shoot apex
-  perceives directional light
-- **Photoperiodism**: Any single leaf can perceive the red/far-red
-  signal and regulate flowering for the entire plant
-
-If a single leaf is illuminated with red light during the night,
-it is as if the entire plant were illuminated. Phytochrome in the
-leaf receives the light cue and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] that
-propagates throughout the plant to induce or suppress flowering.
-
-Conversely, if all leaves are removed, leaving only the stem and
-apex, the plant becomes blind to red/far-red flashes entirely,
-even if the whole plant is illuminated. This demonstrates that
-leaves, not the shoot tip, are the photoperiodic "eyes."
-
-## The Mobile Signal
-
-The mobile signal from activated phytochrome was identified as
-**florigen** (FT protein, FLOWERING LOCUS T), which travels through
-the phloem from leaves to the shoot apex and triggers the transition
-from [[cannabis-vegetative-growth-stage]] to flowering.
-
-## See Also
-
-- [[plant-epigenetic-memory-gene-based-remembering]]
-
-- [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
-
-- [[phytochrome-red-far-red-switch-and-photoperiodism]]
-- [[shade-avoidance-syndrome]]

@@ -21,7 +21,7 @@ sources:
 
 Parthenocissus tricuspidata, commonly known as Boston ivy or Japanese ivy, is a deciduous climbing vine in the grape family (Vitaceae). It is renowned for its spectacular autumn foliage coloration and its ability to adhere to vertical surfaces using specialized adhesive pads.
 
-Native to East Asia, the species has become one of the most widely planted ornamental vines in temperate regions worldwide. It is the vine responsible for the iconic red-clad walls of Ivy League universities in the northeastern United States.
+Native to East Asia, the species has become one of the most widely planted ornamental vines in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is the vine responsible for the iconic red-clad walls of Ivy League universities in the northeastern United States.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ Vines are vigorous, woody deciduous climbers that can reach 20–30 meters in he
 
 Summer foliage is dark, glossy green. Autumn color is the species' most celebrated feature, transitioning through orange, crimson, and deep scarlet. Color intensity varies by individual and site conditions, with full-sun exposures producing the most vivid displays.
 
-Leaves on the same vine may show different colors simultaneously, creating multi-toned effects. The autumn display typically persists for 4–6 weeks before leaf drop in temperate climates.
+Leaves on the same vine may show different colors simultaneously, creating multi-toned effects. The autumn display typically persists for 4–6 weeks before leaf drop [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 **Adhesive pads** at the tips of modified tendrils are the plant's defining morphological adaptation. Each pad secretes a calcium pectate-based adhesive that bonds strongly to diverse surfaces including brick, concrete, stone, wood, and metal.
 
@@ -51,7 +51,7 @@ Leaves on the same vine may show different colors simultaneously, creating multi
 
 *P. tricuspidata* is native to East Asia, with a natural range encompassing Japan, Korea, and eastern China. It grows in mixed forests, forest margins, and rocky slopes from low elevations to approximately 1,500 meters.
 
-The species has been widely introduced in North America, Europe, Australia, and New Zealand as an ornamental plant. It is naturalized in parts of the eastern United States but considered less invasive than the related Virginia creeper (*Parthenocissus quinquefolia*).
+The species has been widely introduced in [[guzman-psilocybin-mushrooms-north-america]], Europe, Australia, and New Zealand as an ornamental plant. It is naturalized in parts of the eastern United States but considered less invasive than the related Virginia creeper (*[[parthenocissus-quinquefolia]]*).
 
 It tolerates a wide range of soil types (pH 5.0–7.5) and grows in full sun to deep shade. The species is winter-hardy to approximately −30°C (USDA Zone 4), making it suitable for most temperate climates.
 
@@ -85,32 +85,6 @@ The vine supports urban biodiversity by providing nesting sites for birds, forag
 
 Air quality improvement occurs through particulate matter interception on leaf surfaces and absorption of gaseous pollutants including nitrogen dioxide and ozone. Dense vine coverage on building facades contributes measurably to urban microclimate cooling.
 
-The species has been investigated for **phytoremediation** of heavy metals from urban air and rainwater runoff. Lead, cadmium, and zinc accumulate in leaf tissue at concentrations proportional to ambient pollution levels.
+The species has been investigated for **phytoremediation** [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from urban air and rainwater runoff. Lead, cadmium, and zinc accumulate in leaf tissue at concentrations proportional to ambient pollution levels.
 
-Stormwater management benefits include reduced runoff velocity and volume from vertical green surfaces. The vine canopy intercepts rainfall and slows water movement down building facades, reducing erosion and peak runoff in urban watersheds.
-
-## Chemistry and Bioactive Compounds
-
-The adhesive pad secretions contain **calcium pectate**, **rhamnogalacturonan**, and **arabinogalactan proteins** that form a strong, water-resistant bond to mineral surfaces. This natural adhesive system has been studied as a bioinspired model for synthetic adhesives.
-
-Leaves contain **anthocyanins** (primarily cyanidin-3-glucoside and peonidin derivatives) responsible for autumn coloration. Anthocyanin production is triggered by shortening day length and cool night temperatures in autumn.
-
-**Quercetin**, **kaempferol**, and **rutin** flavonoids are present in leaf tissue. These compounds contribute antioxidant capacity and may play roles in photoprotection during the [[savory-growing-season-and-non-growing-season-management]].
-
-Fruit pulp and seeds contain **oxalate crystals** and mildly toxic glycosides. Ingestion causes gastrointestinal discomfort in humans, though birds consume the fruit without apparent ill effect.
-
-In traditional Chinese medicine, the root and stem of *P. tricuspidata* have been used to treat joint pain and inflammation. Modern pharmacological studies have identified anti-inflammatory activity in root extracts, attributed to triterpenoid saponins.
-
-The species contains **resveratrol** and related stilbenes in stem and root tissue, compounds more commonly associated with grapes (*Vitis* spp.). These compounds contribute to the plant's natural defense against [[bloomfield-fungal-pathogens-and-parasites]] and may have relevance to human health research.
-
-## See Also
-
-- [[parthenocissus-quinquefolia]]
-
-- [[vitis-labrusca]] — Fox grape, North American Vitaceae with phylloxera resistance
-- [[ficus-carica]] — Common fig, wall-trained fruit tree in Mediterranean climates
-- [[quercus-robur]] — English oak, common support tree for climbing vines
-- [[ulmus-rubra]] — Slippery elm, North American tree species
-- [[robinia-pseudoacacia]] — Black locust, nitrogen-fixing ornamental tree
-- [[ginkgo-biloba]] — Ginkgo, deciduous ornamental tree with spectacular autumn foliage
-- [[fagus-sylvatica]] — European beech, ornamental tree with notable autumn color
+[[mollison-designers-cloudburst-and-stormwater-management]] benefits include reduced runoff velocity and volume from vertical green surfaces. The vine canopy intercepts rainfall and slows water movement down building facades, reducing erosion and peak runoff in urban watersheds.

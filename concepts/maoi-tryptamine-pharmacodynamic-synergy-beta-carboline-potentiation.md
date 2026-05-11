@@ -88,29 +88,3 @@ achieved by smoking or injection, ayahuasca produces a slower onset and gentler 
 up that may be more conducive to therapeutic processing. This pharmacokinetic profile
 is sometimes cited as a reason why ayahuasca experiences tend to be perceived as more
 integrative and less overwhelming than smoked DMT experiences.
-
-## Implications for Psychedelic Therapy and Harm Reduction
-
-The MAOI-tryptamine synergy has several important implications for psychedelic
-therapy and harm reduction. First, it underscores the critical importance of
-understanding drug-drug interactions in psychedelic contexts. Many commonly
-prescribed medications, including SSRIs, SNRIs, and certain antibiotics, can interact
-dangerously with MAOIs. Second, the ayahuasca model demonstrates that natural product
-combinations can produce pharmacologically sophisticated effects that differ
-meaningfully from isolated compounds administered alone.
-
-Third, the reversible MAO-A inhibition model exemplified by ayahuasca has inspired
-research into pharmaceutical approaches for oral DMT delivery. Compounds such as
-moclobemide (a reversible MAO-A inhibitor) have been investigated as potential
-pharmacological adjuncts to oral DMT, potentially offering a more controlled and
-predictable alternative to traditional [[schultes-ayahuasca-preparations]] while preserving the
-oral bioavailability advantage.
-
-## Key References
-
-McKenna, D.J., et al. (1984). "Monoamine oxidase inhibitors in South American
-hallucinogenic plants." Journal of Ethnopharmacology, 12(2), 179-221. Riba, J., et
-al. (2003). "Human pharmacology of ayahuasca." British Journal of Pharmacology,
-139(5), 845-852. Samoylenko, V., et al. (2010). "Banisteriopsis caapi: a review of
-ethnobotanical, phytochemical and pharmacological aspects." Journal of Pharmacy and
-Pharmacology, 62(10), 1343-1359.

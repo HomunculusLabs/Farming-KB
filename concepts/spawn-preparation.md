@@ -88,14 +88,3 @@ While grain spawn is the most common, several other spawn types exist:
   outdoor log inoculation. Each plug is inserted into a drilled hole
   and sealed with wax. Slow to colonize logs but very low-tech.
 - **[[growing-gourmet-sawdust-spawn-production-use]]**: Sterilized sawdust inoculated with mycelium, used
-  both for making grain spawn and for direct log inoculation through
-  specialized tools.
-- **Liquid culture**: Mycelium grown in a nutrient broth, often with
-  magnetized stir bars for continuous agitation. Can be expanded
-  indefinitely and drawn into syringes for inoculation. Reduces
-  contamination risk since jars are not opened.
-
-## Scale Considerations
-
-The choice of [[duggar-mushroom-spawn-preparation-techniques]]
-- [[spawn-grain-preparation]]

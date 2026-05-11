@@ -36,7 +36,7 @@ Solanum nigrum is frequently confused with the more toxic deadly nightshade (Atr
 - **Genus:** Solanum
 - **Species:** Solanum nigrum L.
 
-The taxonomy of the Solanum nigrum complex remains contested. Several taxa previously treated as distinct species (including Solanum americanum, Solanum villosum, and Solanum ptychanthum) are sometimes included within a broadly defined S. nigrum sensu lato.
+The taxonomy of the Solanum nigrum complex remains contested. Several taxa previously treated as distinct species (including [[solanum-americanum]], Solanum villosum, and Solanum ptychanthum) are sometimes included within a broadly defined S. nigrum sensu lato.
 
 Recent molecular phylogenetic studies support recognizing S. nigrum as part of a species group rather than a single polymorphic species. The cultivated form used for edible berries in Asia is sometimes designated as Solanum nigrum var. guineense.
 
@@ -50,15 +50,15 @@ Inflorescences are umbel-like cymes bearing 4–10 white flowers, each 8–12 mm
 
 Fruits are globose berries 6–10 mm in diameter, initially green and turning dull black or purplish-black at maturity. Each berry contains numerous small yellowish seeds 1.5–2 mm long.
 
-The root system consists of a taproot with lateral branching. In favorable conditions, the root can reach depths of 30 cm, contributing to the plant's drought tolerance.
+The root system consists of a taproot with lateral branching. In favorable conditions, the root can reach depths of 30 cm, contributing to the plant's [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Distribution and Habitat
 
-Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many Pacific islands, achieving a nearly cosmopolitan distribution.
+Solanum nigrum is native to Europe, Asia, and North Africa. It has been introduced and naturalized in the Americas, Australia, and many [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], achieving a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
 
 The species thrives in disturbed habitats including agricultural fields, waste grounds, roadsides, forest edges, and riverbanks. It grows from sea level to approximately 2000 m elevation in tropical and temperate zones.
 
-Black nightshade demonstrates remarkable adaptability to diverse climatic conditions. It germinates throughout the growing season in temperate regions and can behave as a perennial in frost-free environments.
+Black nightshade demonstrates remarkable adaptability to diverse climatic conditions. It germinates throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and can behave as a perennial in frost-free environments.
 
 The plant is classified as an agricultural weed in many cropping systems but is also deliberately cultivated for its edible berries in parts of Africa, India, and China.
 
@@ -87,38 +87,3 @@ Unripe green berries and all green plant parts contain significant concentration
 Cases of human poisoning attributed to S. nigrum often involve misidentification with more toxic Solanaceae species. Proper identification and consumption of only fully ripe berries eliminates virtually all risk.
 
 Livestock poisoning occurs occasionally when animals graze on large quantities of green plant material. Sheep and cattle are the most commonly affected species, presenting with ataxia, salivation, and gastrointestinal distress.
-
-Cooking ripe berries further reduces glycoalkaloid content by 20–40 percent. Traditional preparations typically involve boiling or steaming before consumption.
-
-## Traditional and Medicinal Uses
-
-In Traditional Chinese Medicine (TCM), Solanum nigrum (long kui) is used to clear heat, resolve toxicity, and reduce swelling. It is prescribed for sore throat, urinary tract infections, and inflammatory skin conditions.
-
-Indian Ayurvedic medicine employs the plant for fever, digestive complaints, and liver disorders. The leaf juice is applied topically for wound healing and skin infections in rural communities.
-
-African traditional healers use S. nigrum preparations for malaria, stomach ailments, and as a general tonic. In Nigeria, the leaves are incorporated into soups as both food and preventive medicine.
-
-In European folk medicine, the plant was historically used for skin eruptions, rheumatic pain, and as a mild diuretic. These uses are largely superseded by modern pharmaceuticals but persist in rural communities.
-
-Modern pharmacological research has validated several traditional uses. Extracts demonstrate anti-inflammatory, hepatoprotective, and antioxidant activities in animal models. Solamargine has shown cytotoxic activity against multiple cancer cell lines in vitro.
-
-Antimicrobial screening has revealed activity against Gram-positive bacteria and Candida species. The broad-spectrum activity supports traditional wound-healing applications.
-
-Hepatoprotective effects have been documented in rodent models of carbon tetrachloride-induced liver injury. Aqueous leaf extracts reduced serum transaminase levels and improved histological markers of liver damage.
-
-## See Also
-
-- [[solanum-dulcamara]]
-
-- [[solanum-americanum]]
-
-- [[atropa-belladonna]]
-- [[datura-stramonium]]
-- [[hyoscyamus-niger]]
-- [[solanum-lycopersicum]]
-- [[solanum-tuberosum]]
-- [[solanum-melongena]]
-- [[physalis-peruviana]]
-- [[withania-somnifera]]
-- [[quercetin]]
-- [[luteolin]]

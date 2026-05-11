@@ -94,10 +94,10 @@ When bioengineering alone is insufficient:
 | Black willow (Salix nigra) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
 | Cottonwood (Populus deltoides) | Floodplain | Fast-growing pioneer; wildlife habitat |
 | Red maple (Acer rubrum) | Riparian forest | Tolerates seasonal flooding; fall color |
-| Sycamore (Platanus occidentalis) | Stream bank | Distinctive bark; flood-tolerant |
+| Sycamore ([[platanus-occidentalis]]) | Stream bank | Distinctive bark; flood-tolerant |
 | River birch (Betula nigra) | Stream bank | Ornamental bark; tolerates wet soil |
-| Green ash (Fraxinus pennsylvanica) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
-| Bald cypress (Taxodium distichum) | Swamps | Very flood-tolerant; southern species |
+| Green ash ([[fraxinus-pennsylvanica]]) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
+| Bald cypress ([[taxodium-distichum]]) | Swamps | Very flood-tolerant; southern species |
 | American elm (Ulmus americana) | Riparian forest | Good shade; Dutch elm disease-resistant varieties available |
 
 ### Shrub Species
@@ -105,7 +105,7 @@ When bioengineering alone is insufficient:
 - **Red osier dogwood (Cornus sericea)**: Red stems; excellent erosion control; easy to propagate
 - **Elderberry (Sambucus canadensis)**: Edible berries; medicinal flowers; wildlife food
 - **Buttonbush (Cephalanthus occidentalis)**: Spherical flower heads; excellent for wet areas
-- **Spicebush (Lindera benzoin)**: Butterfly host plant; aromatic foliage
+- **Spicebush ([[lindera-benzoin]])**: Butterfly host plant; aromatic foliage
 - **Winterberry (Ilex verticillata)**: Red berries persist through winter; bird food
 - **Nannyberry (Viburnum lentago)**: Edible fruit; wildlife habitat; adaptable
 
@@ -116,7 +116,7 @@ When bioengineering alone is insufficient:
 - **Cardinal flower (Lobelia cardinalis)**: Brilliant red flowers; hummingbird attractor
 - **Blue vervain (Verbena hastata)**: Tall spikes of purple flowers; self-seeds
 - **New England aster (Symphyotrichum novae-angliae)**: Late fall bloom; pollinator resource
-- **Switchgrass (Panicum virgatum)**: Deep roots for erosion control; see [[prairie-ecology]]
+- **Switchgrass ([[panicum-virgatum]])**: Deep roots for erosion control; see [[prairie-ecology]]
 - **Soft rush (Juncus effusus)**: Clumping rush for wet areas; erosion control
 
 ## Erosion Control

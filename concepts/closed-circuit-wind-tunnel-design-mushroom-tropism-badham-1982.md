@@ -1,5 +1,5 @@
 ---
-title: Closed-Circuit Wind Tunnel Design for Mushroom Tropism Research
+title: Closed Circuit Wind Tunnel Design Mushroom Tropism Badham 1982
 created: 2026-05-09
 tags: [mycology, wind-tunnel, tropism, anemotropism, psilocybe-cubensis, experimental-design, badham-1982, environmental-control, humidity-regulation, airflow-velocity]
 date: 2026-05-09
@@ -11,9 +11,9 @@ type: concept
 
 # Closed-Circuit Wind Tunnel Design for Mushroom Tropism Research
 
-Edmond Badham's 1982 study of tropisms in Psilocybe cubensis required a
+Edmond Badham's 1982 study of tropisms [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] required a
 controlled environment capable of independently regulating wind velocity,
-humidity, temperature, and light while accommodating growing mushrooms over
+humidity, temperature, and light while accommodating [[falconer-growing-mushrooms-in-sheds]] over
 72-hour experimental periods. The closed-circuit wind tunnel he designed
 and described in Mycologia represents a specialized piece of mycological
 equipment that enabled the first systematic investigation of anemotropism
@@ -64,8 +64,8 @@ Temperature was maintained at 24.5 plus or minus 1.5 degrees Celsius using
 a heat cable and a temperature proportioner module designated as
 Thermotrack II. A thermometer attached to the temperature proportioner
 provided continuous temperature monitoring. This temperature range is
-within the optimal growth range for Psilocybe cubensis, supporting
-normal metabolic function and basidiocarp development throughout the
+within the optimal growth range [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]], supporting
+normal metabolic function and [[four-stage-basidiocarp-development-psilocybe-cubensis-badham]] throughout the
 72-hour experimental runs.
 
 ## Lighting System
@@ -78,7 +78,7 @@ constant illumination. The ability to direct light from above or below the
 cultures was important for distinguishing phototropic from geotropic and
 anemotropic responses. When light was directed from below, the normal
 phototropic upward growth response could be separated from the negative
-geotropic response, allowing Badham to determine whether gravitropic
+[[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]], allowing Badham to determine whether gravitropic
 sensitivity was dependent on light exposure.
 
 ## Water Insulation and Light Filtering
@@ -88,33 +88,3 @@ tunnel design. A water barrier surrounded the working area, with a water
 heater maintaining the water temperature. This water jacket served to
 stabilize the temperature of the working area by absorbing thermal
 fluctuations and provided a filtered light environment by diffusing the
-fluorescent illumination through the water layer.
-
-## Return Airflow and Closed Circuit
-
-The wind tunnel operated as a closed circuit, with return air flowing back
-to the blower through a return air flow duct. This closed-circuit design
-prevented the introduction of airborne contaminants from the laboratory
-environment and maintained consistent air composition throughout the
-experiment. The closed circuit also allowed precise control of the
-humidity within the system, since humidified air was continuously
-recirculated rather than being replaced by drier room air.
-
-## Rotation Capability
-
-A key feature of the wind tunnel was the ability to rotate mushroom
-cultures within the airflow. Cultures could be rotated perpendicular to
-the air flow at 3 revolutions per minute or parallel to the flow at the
-same rate. This rotation capability was essential for distinguishing
-between true anemotropism (growth directed by wind) and simple mechanical
-bending by wind force. When rotated perpendicular to the flow, mushrooms
-experiencing true tropic responses grew upright, while mechanically bent
-mushrooms would have continued to lean in the wind direction.
-
-## Related Concepts
-
-- [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]]
-- [[evaporative-demand-hypothesis-mushroom-tropism]]
-- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]
-- [[anemotropism-in-basidiomycete-mushrooms]]
-- [[mushroom-phototropism]]

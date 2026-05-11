@@ -19,13 +19,13 @@ These fungus-like organisms include important parasites of aquatic plants and an
 
 ### Ascomycetes and Mitosporic Fungi
 
-Freshwater ascomycetes include both species that fruit on submerged wood and plant debris (many with unique morphological adaptations for aquatic life) and species that are primarily terrestrial but periodically found in aquatic habitats. The Ingoldian fungi [[fungal-taxonomy-and-kingdom-fungi]]—a group of asexual ascomycetes that produce distinctive tetraradiate or sigmoid conidia adapted for dispersal in flowing water—are among the most characteristic and well-studied freshwater fungi.
+Freshwater ascomycetes include both species that fruit on submerged wood and plant debris (many with unique morphological adaptations for aquatic life) and species that are primarily terrestrial but periodically found in [[biodiversity-fungi-freshwater-aquatic-habitats]]. The Ingoldian fungi [[fungal-taxonomy-and-kingdom-fungi]]—a group of asexual ascomycetes that produce distinctive tetraradiate or sigmoid conidia adapted for dispersal in flowing water—are among the most characteristic and well-studied freshwater fungi.
 
 ## Collection Methods
 
 ### Chytrids and Hyphochytrids
 
-Chytrids are microscopic [[freshwater-fungi-diversity-and-sampling]] and cannot be collected by unaided sight or standard microbiological methods such as dilution plating. They are found by examining natural substrata under a microscope or, more commonly, by using baiting techniques.
+Chytrids are microscopic [[freshwater-fungi-diversity-and-sampling]] and cannot be collected by unaided sight or standard microbiological methods such as [[particle-filtration-dilution-plating-microfungal-isolation]]. They are found by examining natural substrata under a microscope or, more commonly, by using baiting techniques.
 
 #### Baiting Technique
 
@@ -77,7 +77,7 @@ Chytrids and hyphochytrids require compound microscopy for identification. Key f
 
 ### Reference Works
 
-Key identification resources for freshwater fungi include:
+Key [[mushroom-identification-resources]] for freshwater fungi include:
 
 - Sparrow, R.K. (1960). *Aquatic Phycomycetes* — the standard monograph.
 - Sparrow, R.K. (1973). Key to genera of aquatic phycomycetes.
@@ -87,39 +87,3 @@ Key identification resources for freshwater fungi include:
 ## Isolation and Culturing
 
 ### Chytrid Isolation
-
-Isolate individual chytrid sporangia under a dissecting microscope using a fine needle or micropipette. Transfer to fresh bait plates with antibiotic-amended water to suppress bacterial growth. Many chytrids can be maintained on agar media with appropriate nutrients, though some remain unculturable.
-
-### Ascomycete Isolation
-
-Isolate from single spores or from bits of colonised substratum placed on selective media. Common media include cornmeal agar, potato dextrose agar, and water agar with sterile plant material.
-
-### Culture Preservation
-
-Maintain cultures by periodic transfer (every 2-4 months) or preserve in sterile water or mineral oil at room temperature for longer-term storage. Cryopreservation in liquid nitrogen is preferred for valuable isolates.
-
-## Assessing Biodiversity and Abundance
-
-### Quantitative Methods
-
-- **Most Probable Number (MPN)**: Adapted from bacteriology, this method estimates zoospore concentrations by baiting serial dilutions of water samples.
-- **Direct counting**: Examine substrata microscopically and count sporangia or fruiting bodies per unit area.
-- **Molecular methods**: Environmental DNA (eDNA) metabarcoding from water samples or substratum surfaces is increasingly used to detect species not recoverable by traditional methods.
-
-### Phenological Monitoring
-
-Place bait bags at fixed stations and retrieve at regular intervals (weekly or monthly) to track seasonal patterns in fungal activity and species composition.
-
-## Conservation Concerns
-
-Freshwater habitats are among the most threatened ecosystems globally. Pollution, channelisation, damming, and agricultural runoff have drastically altered freshwater fungal communities. Documenting current biodiversity provides essential baseline data against which future changes can be measured. The pathogenic chytrid *Batrachochytrium dendrobatidis*, responsible for amphibian declines worldwide, exemplifies the ecological significance of freshwater fungi and the need for comprehensive survey work.
-
-## See Also
-
-- [[biodiversity-of-fungi:-decomposition-and-nutrient-cycling]]
-- [[aquatic-fungi-and-zoospore-biology]]
-- [[ingoldian-aquatic-fungi:-spore-dispersal]]
-
-## Source
-
-- Mueller, G.M., Bills, G.F., & Foster, M.S. (eds.) (2004). *Biodiversity of Fungi: Inventory and Monitoring Methods*. Elsevier Academic Press. Chapter: Shearer, C.A., Langsam, D.M., & Longcore, J.E., "Fungi in Freshwater Habitats."

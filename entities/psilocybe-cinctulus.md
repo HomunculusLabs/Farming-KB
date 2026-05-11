@@ -10,11 +10,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J (1998). "A worldwide geographical distribution of the neurotropic fungi." Bibliotheca Mycologica, 173.
+  - Guzmán G, Allen JW, Gartz J (1998). "A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi." Bibliotheca Mycologica, 173.
   - Gerhardt J (1996). "Taxonomische Revision von Psilocybe s. lato." Dissertation, ETH Zürich.
   - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of emcdda-hallucinogenic-mushrooms-emerging-trend-europe in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
   - Stijve T, Kuyper TW (1988). "Absorption of psilocybin from Psilocybe mushrooms." Planta Medica, 54(3), 271-274.
-  - Gartz J (1994). "Extracting psilocybin from hallucinogenic mushrooms." Journal of Psychoactive Drugs, 26(1), 73-74.
+  - Gartz J (1994). "Extracting psilocybin from [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]." Journal of Psychoactive Drugs, 26(1), 73-74.
 created: 2026-04-28
 ---
 
@@ -39,7 +39,7 @@ Its psychoactive properties are modest compared to better-known species like *P.
 - Genus: *Psilocybe* (Fr.) P. Kumm. sect. *Coprinopsides*
 - Species: *P. cinctulus* (Berk. & M.A. Curtis) Noordel.
 
-**Synonyms:** *Agaricus cinctulus* Berk. & M.A. Curtis, *Coprinus cinctulus* (Berk. & M.A. Curtis) Berk., *Deconica cinctula* (Berk. & M.A. Curtis) Redhead, *Panaeolus cinctulus* (Berk. & M.A. Curtis) Sacc., *Psilocybe subcoprophila* Britzelm.
+**Synonyms:** *Agaricus cinctulus* Berk. & M.A. Curtis, *Coprinus cinctulus* (Berk. & M.A. Curtis) Berk., *Deconica cinctula* (Berk. & M.A. Curtis) Redhead, *[[panaeolus-cinctulus]]* (Berk. & M.A. Curtis) Sacc., *Psilocybe subcoprophila* Britzelm.
 
 The cap is 5–25 mm in diameter, hemispherical to convex, expanding to plane with age. Surface is hygrophanous, reddish-brown when moist fading to ochraceous or straw-colored as it dries. A distinctive membranous ring zone is often visible on the stipe.
 
@@ -53,7 +53,7 @@ Basidiospores are ellipsoid to slightly lemon-shaped, 10–13 × 6.5–8 µm, wi
 
 The species fruits in grassy habitats including lawns, parks, pastures, meadows, and roadsides. It is particularly associated with nutrient-enriched soils and may fruit in areas where animals graze, though it does not grow directly on dung. Fruiting occurs from late spring through autumn, peaking in warm, wet conditions.
 
-In urban and suburban settings, *P. cinctulus* is one of the most commonly encountered psilocybin mushrooms. It readily colonizes newly established lawns and landscaped areas with irrigation. Reports from the Pacific Northwest, Great Britain, Central Europe, and eastern Australia document it as a persistent component of grassland mycobiomes.
+In urban and suburban settings, *P. cinctulus* is one of the most commonly encountered [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]. It readily colonizes newly established lawns and landscaped areas with irrigation. Reports from the [[psilocybin-north-america-pacific-northwest]], Great Britain, Central Europe, and eastern Australia document it as a persistent component of grassland mycobiomes.
 
 ## Bioactive Compounds
 
@@ -81,38 +81,10 @@ Interest in *P. cinctulus* cultivation has increased among amateur mycologists s
 
 ## Ecological Role
 
-As a saprotrophic grassland fungus, *P. cinctulus* participates in the decomposition of organic matter in soil and thatch layers. It contributes to nutrient cycling in managed grasslands and may form associations with root zones of grass species, though it is not a confirmed mycorrhizal partner.
+As a saprotrophic grassland fungus, *P. cinctulus* participates in the decomposition of organic matter in soil and thatch layers. It contributes to [[nutrient-cycling-in-soil]] managed grasslands and may form associations with root zones of grass species, though it is not a confirmed mycorrhizal partner.
 
 The species appears to benefit from regular mowing and irrigation, which maintain the short, moist conditions it prefers. In agricultural settings, it is more common in grazed pastures than in intensively managed hay fields, suggesting it benefits from the nutrient inputs associated with animal activity rather than the disturbance regime of cutting alone.
 
 *P. cinctulus* can accumulate heavy metals from contaminated soils, as demonstrated in studies of urban lawn mycobiomes. This has implications for foraging in areas with potential soil contamination from vehicle emissions, industrial activity, or pesticide application.
 
 ## Ethnobotanical History
-
-While *P. cinctulus* lacks the ceremonial significance of species like *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* or *P. semilanceata*, it has been used recreationally and incidentally across its range. In Australia, Allen and Merlin documented Aboriginal knowledge of psychoactive mushrooms in grasslands, with *P. cinctulus* likely among the species involved.
-
-In Europe and North America, the species has been widely known among amateur mycologists since the 1970s. Its abundance in suburban lawns has led to frequent accidental encounters and deliberate foraging. The modest potency means it is rarely targeted specifically, but it is commonly included in regional mushroom guides covering psychoactive species.
-
-## Legal Status
-
-The legal status of *P. cinctulus* varies by jurisdiction, generally following the scheduling applied to psilocybin-containing mushrooms. In the Netherlands, fresh psilocybin mushrooms were banned in 2008, though truffle-forming species remain available through a legal loophole.
-
-In the United States, the species is effectively illegal under the Controlled Substances Act as a container of Schedule I substances, though enforcement against individual foragers is rare. Several US states and municipalities have deprioritized or decriminalized psilocybin mushroom possession since 2019.
-
-In many countries, legislation targets the active compounds (psilocybin and psilocin) rather than the mushrooms themselves, creating legal ambiguity. In Japan, psilocybin mushrooms were specifically scheduled in 2002 following increased recreational use.
-
-## Research Potential
-
-*P. cinctulus* has attracted interest from researchers studying tryptamine biosynthesis in fungi due to its broad distribution and accessible fruiting. Its grassland ecology provides a contrast to the dung-associated and wood-decomposing species that dominate laboratory research.
-
-The species produces both psilocybin and baeocystin, making it useful for comparative studies of alkaloid ratios across different ecological niches. Some researchers have investigated whether grassland Psilocybe species have different enzyme expression profiles for the psilocybin biosynthetic pathway compared to coprophilous relatives.
-
-Emerging interest in microdosing has renewed attention on *P. cinctulus* as a locally available source in regions where more potent species are scarce. However, its variable and generally low potency makes standardization difficult for any clinical or therapeutic application.
-
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[baeocystin]]
-- [[amanita-muscaria-entity]]
-- [[panaeolus-cyanescens-entity]]
-- [[stropharia-rugosoannulata]]

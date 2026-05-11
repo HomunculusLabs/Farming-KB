@@ -2,7 +2,7 @@
 
 ## Overview
 
-Nettle tea is a nitrogen-rich liquid [[complete-organic-fertilizer-cof-recipe-solomon]] produced by fermenting [[comparison-stinging-nettle-vs-horsetail]] leaves (Urtica dioica) in water. It is one of the most valued homemade fertilizers in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], [[comparison-biodynamic-farming-vs-organic-farming]], and permaculture systems. Nettles are prolific, widespread, and easy to harvest, making nettle tea an accessible and cost-free fertilizer option for most temperate-climate gardeners. The high nitrogen and iron content of nettle tea makes it particularly effective for promoting vigorous vegetative growth in young plants, seedlings, and leafy crops. Beyond its nutritional value, nettle tea also functions as a mild insecticide and foliar fungistat when applied as a spray.
+Nettle tea is a nitrogen-rich liquid [[complete-organic-fertilizer-cof-recipe-solomon]] produced by fermenting [[comparison-stinging-nettle-vs-horsetail]] leaves (Urtica dioica) in water. It is one of the most valued homemade fertilizers in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], [[comparison-biodynamic-farming-vs-organic-farming]], and permaculture systems. Nettles are prolific, widespread, and easy to harvest, making nettle tea an accessible and cost-free fertilizer option for most temperate-climate gardeners. The high nitrogen and iron content of nettle tea makes it particularly effective for promoting vigorous [[cannabis-vegetative-growth-stage]] in young plants, seedlings, and leafy crops. Beyond its nutritional value, nettle tea also functions as a mild insecticide and foliar fungistat when applied as a spray.
 
 ## Nutritional Profile of Stinging Nettle
 
@@ -13,14 +13,14 @@ Stinging nettle (Urtica dioica) accumulates an impressive concentration of plant
 - **Potassium (K)**: 2-4% — supports overall plant health, enzyme activation, and disease resistance
 - **Calcium (Ca)**: 1-2% — cell wall structure, root membrane integrity
 - **Magnesium (Mg)**: 0.3-0.6% — central atom of the chlorophyll molecule
-- **Trace elements**: Manganese, zinc, copper, boron, and sulfur in biologically significant concentrations
+- **[[teaming-with-nutrients-micronutrients-and-trace-elements]]**: Manganese, zinc, copper, boron, and sulfur in biologically significant concentrations
 - **Formic acid and histamine**: These compounds, which cause the stinging sensation, have insecticidal properties when applied as a foliar spray
 
 The NPK ratio of nettle leaves is approximately 5-1-3 (N-P-K), making nettle tea one of the most nitrogen-dominant organic liquid feeds available. This profile is essentially the inverse of comfrey tea, and the two are often used in complementary succession.
 
 ## Harvesting Nettles for Tea Production
 
-Nettles can be harvested from wild stands or cultivated patches throughout the growing season:
+Nettles can be harvested from wild stands or cultivated patches throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]:
 
 - **Timing**: The highest nutrient concentration occurs in young, actively growing tops (top 20-30 cm) during spring and early summer (April-June in the Northern Hemisphere). Later harvests are acceptable but produce slightly lower-nutrient tea
 - **Harvest method**: Wear thick gloves and long sleeves. Cut the top portion of the stem with scissors or a knife. Harvest before flowering — once nettles begin to flower, they produce gritty particles (cystoliths) that can irritate the digestive tract if ingested, and nutrient quality begins to decline
@@ -41,7 +41,7 @@ This is the most common approach, producing tea in 2-3 weeks:
 6. After 2-3 weeks, the liquid turns dark brown or black and develops a strong, earthy odor (not as foul as anaerobic comfrey tea, but distinctly pungent)
 7. Strain through a coarse sieve or cheesecloth
 8. Dilute 1:10 with water for soil drench, or 1:20 for foliar spray
-9. The spent nettle solids go to the compost pile
+9. The spent nettle solids go to the [[mushroom-cultivator-compost-pile-management]]
 
 ### Quick Steeping Method (No Fermentation)
 
@@ -52,7 +52,7 @@ For gardeners who need fertilizer quickly without waiting for fermentation:
 3. Strain and dilute 1:5 to 1:10 with water
 4. Use immediately — this product does not store well because it has not been stabilized by fermentation
 
-This method extracts soluble nutrients quickly but misses the microbial fermentation products (organic acids, enzymes, beneficial microorganisms) that develop during the aerobic process. It is suitable for emergency feeding but less potent than the fermented version.
+This method extracts soluble nutrients quickly but misses the microbial fermentation products (organic acids, enzymes, [[forest-and-bamboo-beneficial-microorganisms]]) that develop during the aerobic process. It is suitable for emergency feeding but less potent than the fermented version.
 
 ### Concentrated Nettle Slurry
 
@@ -82,39 +82,8 @@ This anaerobic method produces the strongest product but with significant odor. 
 - Can be combined with insecticidal use — the formic acid and histamine content deters aphids, spider mites, and certain caterpillars
 - Do not spray on edible portions within 3-5 days of harvest
 
-**Seedling treatment:**
+**[[jadam-seed-seedling-treatment]]:**
 - A very dilute solution (1:20) can be used as an initial feed for seedlings once they have developed their first true leaves
 - Provides gentle nitrogen without the risk of fertilizer burn associated with synthetic products
 
 ## Nettle Tea as a Plant Protection Agent
-
-Beyond nutrition, nettle tea has recognized plant protection properties:
-
-- **Insect repellent**: The formic acid and other compounds in nettle tea repel aphids, whiteflies, thrips, and spider mites when applied as a foliar spray. The effect is moderate and temporary, requiring regular reapplication (every 7-10 days) for sustained protection
-- **Fungistatic**: Nettle tea suppresses certain foliar fungal diseases, including [[cervantes-powdery-mildew-prevention-treatment]] and botrytis. The mechanism is not fully understood but may involve stimulation of plant immune responses or direct antimicrobial activity of nettle compounds
-- **Plant tonic**: Regular applications of dilute nettle tea appear to strengthen plant cell walls and increase resistance to both biotic and abiotic stress. Biodynamic practitioners consider nettle tea one of the most important "preparations" for overall plant vitality
-
-## Nettle Tea vs. Comfrey Tea
-
-These two homemade [[solomon-liquid-fertilizers-and-foliar-feeding]] serve complementary roles in the organic garden:
-
-| Property | Nettle Tea | Comfrey Tea |
-|----------|-----------|-------------|
-| Primary nutrient | Nitrogen (N) | Potassium (K) |
-| Best for | Leafy growth, seedlings | Fruiting, flowering |
-| Season of use | Spring, early summer | Mid-summer, autumn |
-| Iron content | Very high | Moderate |
-| Potassium content | Moderate | Very high |
-| Insecticidal properties | Yes (formic acid) | No |
-| Odor during brewing | Moderate | Strong (anaerobic) |
-| Plant availability | Widespread wild | Requires cultivation |
-
-An effective organic feeding schedule uses nettle tea during the vegetative growth phase and transitions to comfrey tea as plants begin flowering and fruiting.
-
-## Related Topics
-
-- [[comfrey-tea-liquid-fertilizer]]
-- [[dynamic-accumulator-plants-trace-minerals]]
-- [[nutrient-cycling-in-soil]]
-- [[foliar-feeding]]
-- [[composting-methods-comparison]]

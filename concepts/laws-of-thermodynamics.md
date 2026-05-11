@@ -16,7 +16,7 @@ fundamental laws (numbered 0 through 3) that together define the limits
 of energy conversion, establish the arrow of time, and underpin virtually
 every engine, refrigerator, chemical reaction, and biological process.
 The field emerged from 19th-century studies of [[query-why-cant-heat-engines-be-100-percent-efficient]], with key
-contributions by Sadi Carnot (1824), James Joule (1843), Rudolf Clausius
+contributions by [[sadi-carnot]] (1824), James Joule (1843), Rudolf Clausius
 (1865), Lord Kelvin, Walther Nernst (1906), and J. Willard Gibbs.
 
 ## Zeroth Law and Temperature
@@ -88,45 +88,6 @@ differentials, the four Maxwell relations connect unmeasurable quantities
 (dT/dV)_S = -(dP/dS)_V, (dT/dP)_S = (dV/dS)_P,
 (dS/dV)_T = (dP/dT)_V, and (dS/dP)_T = -(dV/dT)_P. These relations
 are essential for deriving equations of state, material property
-relationships, and calculating entropy changes from PVT data.
-
-## Equations of State
-
-The ideal gas law PV = nRT (R = 8.314 J/(mol K)) assumes point particles
-with no intermolecular forces and works well at low pressures. The van
-der Waals equation (P + a(n/V)^2)(V - nb) = nRT corrects for
-intermolecular attraction (parameter a) and finite molecular volume
-(parameter b). For nitrogen: a = 1.390 L^2 atm/mol^2, b = 0.0391 L/mol.
-This equation captures liquid-vapor transitions and the critical point.
-The virial equation PV/(nRT) = 1 + B(T)/V + C(T)/V^2 + ... provides a
-systematic expansion. The critical point occurs at T_c = 8a/(27Rb).
-
-## Phase Equilibria
-
-Gibbs phase rule F = C - P + 2 relates degrees of freedom (F),
-components (C), and phases (P). The Clausius-Clapeyron equation
-d(ln P)/dT = dH_vap / (RT^2) describes liquid-vapor equilibrium. For
-water, dH_vap = 40,660 J/mol and the triple point occurs at 273.16 K
-and 611.657 Pa. Phase diagrams plot equilibrium boundaries as functions
-of pressure and temperature, guiding alloy design, semiconductor
-processing, and geological interpretation.
-
-## Applications
-
-Thermodynamics pervades engineering and science. Heat engines, jet
-turbines, and refrigerators are designed around thermodynamic cycles
-(Carnot, Otto, Rankine, Brayton). In chemistry, the equilibrium constant
-K = exp(-dG_deg/RT) governs reaction extent, essential for the Haber-
-Bosch ammonia synthesis and battery design. Statistical mechanics
-bridges microscopic behavior to macroscopic properties through the
-partition function. [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] thermodynamics assigns entropy proportional
-to horizon area (Bekenstein-Hawking formula). Biological systems
-maintain low internal entropy by exporting it to their environment,
-powered by ATP hydrolysis (dG_deg ~ -30.5 kJ/mol).
 
 ## See Also
-
-- [[ozier-pdc-composting-and-soil-building]]
-- pdc-energy-systems-and-appropriate-technology
-- [[ingham-carbon-nitrogen-ratios-compost-tea]]
-- [[statistical-mechanics]]
+- [[fukuoka-critique-laws-agricultural-science]]

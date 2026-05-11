@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,14 +87,3 @@ concentrated hydrogen peroxide. Store in a cool, dark place away from
 organic materials.
 
 ## Hydrogen Peroxide vs. Beneficial Organisms
-
-One important consideration is that hydrogen peroxide does not
-distinguish between harmful and beneficial microorganisms. When
-applied to the root zone, it will kill pathogenic fungi but also
-beneficial organisms like mycorrhizae, trichoderma, and beneficial
-bacteria. See [[hydrogen-peroxide-tissue-culture-wild-polypores]] Concepts
-
-- [[cervantes-seed-germination]] - seed sterilization and germination
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - water culture and oxygenation
-- [[cervantes-trichoderma-beneficial-fungi]] - beneficial organisms
-  affected by H2O2

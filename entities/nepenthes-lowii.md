@@ -89,27 +89,5 @@ Many growers use ultrasonic humidifiers, [[bloomfield-mushroom-evaporative-cooli
 
 The species requires very pure water (reverse-osmosis, distilled, or rainwater). Tap water contains minerals that accumulate in the substrate and damage roots over time.
 
-A substrate of live sphagnum moss or a mix of long-fiber sphagnum with perlite works well. Good drainage is essential to prevent [[cannabis-root-rot-prevention-and-treatment]].
-
-[[growing-gourmet-light-requirements-mushroom-fruiting]] are moderate — bright, diffused light simulates the mountain cloud forest conditions the species prefers. Direct sun causes leaf burn.
-
-Growth is slow compared to lowland *Nepenthes* species. Upper pitchers may take 3–5 years to develop from seed, making the species primarily of interest to specialist collectors.
-
-## Related Species
-
-*N. lowii* is part of the *Montanae* clade and is closely related to *N. macrophylla* of Mount Trus Madi and *N. rajah* of Kinabalu.
-
-*N. epiphytica*, once considered a form of *N. lowii*, was described as a separate species in 2011 based on differences in pitcher morphology and distribution.
-
-Natural hybrids include *N. × trusmadiensis* (with *N. macrophylla*), considered one of the most spectacular and sought-after *Nepenthes* hybrids in cultivation.
-
-Compared to *N. rajah*, *N. lowii* produces smaller pitchers with a more extreme lid reflex and lacks the distinctive decurrent leaf wings present in juvenile *N. rajah*.
-
 ## See Also
-
-- [[nepenthes-mirabilis]]
-- [[dionaea-muscipula]]
-- [[drosera-rotundifolia]]
-- darlingtonia californica
-- [[sarracenia-flava]]
-- [[utricularia-vulgaris]]
+- [[nepenthes-bicalcarata]]

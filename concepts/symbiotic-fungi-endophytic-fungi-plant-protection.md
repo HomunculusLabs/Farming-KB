@@ -88,29 +88,3 @@ that directly promote mycorrhiza formation:
 - Both Gram-negative (Pseudomonas) and Gram-positive (Streptomyces) species
 
 Streptomyces sp. AcH 505, isolated from Norway spruce (Picea abies) rhizosphere:
-
-- Significantly promoted mycelial growth of Amanita muscaria
-- Promoted mycorrhization rate
-- Simultaneously suppressed plant pathogens Armillariella obscura and Heterobasidion
-  annosum
-
-## Fungus-Bacterium Interaction Dynamics
-
-The outcome of bacterium-fungus interactions depends on multiple factors:
-
-- Media composition (mutualistic on MMN vs. antagonistic on ISP2 for AcH 505/A. muscaria)
-- Inoculum size (too small = no effect; adequate = promotion; excess = antagonism)
-- Growth conditions (10 degrees C maximizes reproducibility for temperate forest species)
-- Fungal growth rate (slowest-growing strains most responsive to helper bacteria)
-
-Three co-culture methods:
-
-1. Bacteria next to fungus on agar (diffusible molecules)
-2. Cellophane membrane below fungal material (10 kDa cut-off)
-3. Cross-walled Petri dishes (volatile-mediated effects)
-
-## Biocontrol Potential
-
-P. indica serves as a multifunctional agent:
-
-- Biocontrol agent against pathogens

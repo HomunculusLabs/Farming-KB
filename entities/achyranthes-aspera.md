@@ -10,9 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Khare, C.P. (2007). Indian Medicinal Plants: An Illustrated Dictionary. Springer-Verlag.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
-  - Nadkarni, K.M. (1976). Indian Materia Medica. Popular Prakashan, Bombay.
+  - Nadkarni, K.M. (1976). Indian [[herbal-materia-medica]]. Popular Prakashan, Bombay.
   - Sharma, P.V. (2014). Caraka-Saṃhitā: Agniveśa's Treatise Refined and Annotated by Caraka and Redacted by Dṛḍhabala. Chaukhambha Orientalia.
   - Jain, S.K. (1991). Dictionary of Indian Folk Medicine and Ethnobotany. Deep Publications, New Delhi.
 ---
@@ -43,7 +44,7 @@ The fruit is a small, oblong utricle approximately 3 mm long, containing a singl
 
 ## Distribution and Habitat
 
-A. aspera has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring across South and Southeast Asia, sub-Saharan Africa, Central and South America, and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
+A. aspera has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring across South and [[psilocybe-southeast-asia-pacific]], sub-Saharan Africa, Central and [[guzman-psilocybin-mushrooms-south-america]], and the Caribbean. It is particularly abundant in India, where it grows throughout the country from sea level to 1,800 meters elevation.
 
 The species colonizes a wide range of habitats including roadsides, wastelands, pastures, cultivated fields, and forest margins. It is tolerant of poor, compacted, and saline soils, contributing to its success as a weed species.
 
@@ -63,11 +64,11 @@ As a weed, A. aspera is difficult to control due to its persistent seed bank and
 
 The roots contain triterpenoid saponins as the major bioactive constituents, including achyranthosides A–F and betaine. Alkaloids, including achyranthine and betacyanine, have been isolated from various plant parts.
 
-The seeds are rich in ecdysteroids, particularly 20-hydroxyecdysone, a phytoecdysteroid with anabolic and adaptogenic properties. Concentrations of 0.5–2.0% have been reported in dried seed material.
+The seeds are rich in ecdysteroids, particularly 20-hydroxyecdysone, a phytoecdysteroid with anabolic [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]. Concentrations of 0.5–2.0% have been reported in dried seed material.
 
 Pharmacological studies have demonstrated anti-inflammatory activity in carrageenan-induced paw edema models. Hepatoprotective effects have been documented against carbon tetrachloride and paracetamol-induced liver damage in rodent models.
 
-Antimicrobial assays show activity against both Gram-positive and Gram-negative bacteria, including *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa*. Antifungal activity against dermatophytes has also been reported.
+Antimicrobial assays show activity against both Gram-positive and Gram-negative bacteria, including *[[staphylococcus-aureus]]*, *Escherichia coli*, and *Pseudomonas aeruginosa*. Antifungal activity against dermatophytes has also been reported.
 
 ## Traditional Uses
 
@@ -77,7 +78,7 @@ The plant is used in the treatment of piles, fistula, and menstrual disorders in
 
 In African traditional medicine, the leaves are applied topically for wound healing and snakebite treatment. The pounded roots are used as a toothache remedy and for treating gum infections.
 
-The seeds have emetic and purgative properties and are used in traditional veterinary medicine. In some regions, the ash of the whole plant is mixed with honey and applied to treat skin diseases and fungal infections.
+The seeds have emetic and purgative properties and are used in traditional veterinary medicine. In some regions, the ash of the whole plant is mixed with honey and applied to treat skin diseases and [[blesching-cannabis-fungal-infections-candida]].
 
 ## Ecological Interactions
 
@@ -86,29 +87,3 @@ The sharp, hardened bracts of the inflorescence are an adaptation for epizoochor
 A. aspera serves as a host plant for several lepidopteran species, including the beet webworm (*Hymenia recurvalis*) and various Hesperiidae butterflies. The flowers attract small pollinators, particularly flies and small bees.
 
 The deep taproot system helps break compacted soils and can bring nutrients from deep soil layers to the surface through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]]. Despite its weedy status, the species contributes to soil [[fungal-ecosystem-processes-overview]] in degraded landscapes.
-
-## Weed Management
-
-A. aspera is classified as one of the most problematic weeds in [[fukuoka-indian-agriculture-observations]], particularly in cereal and legume crops. It competes aggressively for water, nutrients, and light, reducing crop yields by 15–30% in heavily infested fields.
-
-Pre-emergence herbicides including atrazine and pendimethalin provide partial control, but the persistent seed bank requires integrated management strategies. Mechanical tillage before seed set is the most effective non-chemical control method.
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research has identified several fungal pathogens, including *Colletotrichum dematium* and *Puccinia achyranthis*, as potential biocontrol agents. However, no biological control program has been implemented due to the species' medicinal importance.
-
-## Modern Pharmacological Research
-
-Recent in vitro and in vivo studies have expanded understanding of A. aspera's pharmacological potential. Antioxidant assays demonstrate significant DPPH and ABTS radical scavenging activity, primarily attributed to flavonoid and phenolic compounds in leaf extracts.
-
-Anti-diabetic activity has been investigated in streptozotocin-induced diabetic rat models. Administration of aqueous root extracts reduced fasting blood glucose levels by 25–40% over 21 days, comparable to standard drug glibenclamide.
-
-Anti-cancer properties have been evaluated against several human cancer cell lines. Methanolic root extracts showed cytotoxic activity against MCF-7 breast cancer and A549 lung cancer cell lines with IC50 values in the range of 50–150 μg/mL. Further research is needed to isolate the active compounds responsible.
-
-## See Also
-
-- amaranthus-palmeri
-- [[chenopodium-album]]
-- [[tropaeolum-majus]]
-- [[calendula-officinalis]]
-- achillea-millefolium
-- [[arnica-montana]]
-- [[inula-helenium]]

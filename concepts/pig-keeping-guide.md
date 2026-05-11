@@ -88,25 +88,3 @@ Breeds are divided by skin color:
 - Recommended for small-scale and sustainable farms
 
 ## Breeding
-
-- **Boar management**: Boars can be aggressive and can injure you — you may not want to keep your own. If you do, avoid Chester Whites (known to be worse).
-- **Heat detection**: Sows go into heat when not nursing
-- **Gestation**: Four months (approximately 114 days)
-- **Farrowing**: The sow gives birth in the farrowing pen
-- **Piglet warmth**: Piglets need to be kept at about 86°F (30°C) and will huddle together even at that temperature
-- **Creep feeder**: When piglets are about a month old, a feeder that only piglets can access makes weaning easier
-- **Weaning**: Begin at around one month of age
-
-## Butchering
-
-- **Market weight**: Around 250 pounds (113 kg), yielding approximately 140 pounds (63.5 kg) of meat
-- **Time to market**: About six months (depending on grain supplementation)
-- **Winter consideration**: If pigs have not reached target weight before winter, supplement forage with grain
-- **Labor**: Butchering pigs is very labor-intensive and requires extra sanitary procedures — delegating to a professional is recommended unless you have a professional butchering facility
-
-## Related Topics
-
-- [[goat-keeping-guide]] — another versatile homestead animal
-- [[cattle-keeping-guide]] — larger ruminant livestock
-- [[no-till-grain-growing]] — grain for supplementary feeding
-- [[jadam-fruit-tree-winter-pest-control]]

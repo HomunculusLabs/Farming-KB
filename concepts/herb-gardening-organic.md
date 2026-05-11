@@ -88,10 +88,3 @@ Herbs play an important role in organic gardens as companion plants. Their stron
 - Chives deter aphids when planted near roses
 
 Source: Geoff Hamilton, [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] (Nick Hamilton, ed.), 2010
-## See Also
-
-- [[organic-herb-gardening]]
-
-- [[companion-planting-deterrents]]
-- [[organic-composting-methods]]
-- [[cold-frame-construction]]

@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,35 +88,3 @@ Fukuoka argued that the total energy absorbed by rice, green manure, algae, and 
 [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] views weeds growing at the base of rice plants only as pests that rob sunlight and nutrients. But removing weeds with herbicides upsets the delicate balance of nature, destroying the ecosystem of insects and microorganisms dependent on those weeds. Unbalanced rice is diseased rice, and therefore highly susceptible to concentrated attack by disease and insect pests.
 
 Before pulling the weeds growing at the base of the rice plants, natural farming asks why they are there. Are these grasses the by-product of human action or did they arise spontaneously and naturally? If the latter, then they are without doubt of value and are left to grow. The natural farmer takes care to allow natural plants that protect the natural soil to carry out their mission.
-
-## The Farmer's Proper Role
-
-In natural farming, the farmer's proper role is not to utilize the animals and plants of nature so much as to help invigorate the ecosystem. Rather than plowing the fields and growing crops, man would be better occupied in protecting the vitality of all the organisms inhabiting the earth and guarding the natural order. Yet it is always man who destroys the ecosystem and disrupts the natural cycles and flow of life.
-
-The guardian of a watermelon patch does not watch the watermelons, he looks out for watermelon thieves. Nature protects itself and sees to the boundless growth of the organisms that inhabit it. Man must hold a vision that is in unity with nature. The farmer must strictly guard his proper place in nature and never sacrifice something else to human desire.
-
-## Comparison of Rice Forms
-
-| Characteristic | Conventional (Feminine) | Natural (Masculine) |
-|---|---|---|
-| Stalk height | Tall, elongated | Short, sturdy |
-| Panicle-to-stalk ratio | 6:1 to 8:1 | Low ratio |
-| Nodes above ground | 5 or more | 3 or 4 |
-| Internode length (4th-5th) | Normal | Very short |
-| Leaf arrangement | Often drooping | Erect, phyllotaxic order |
-| Lodging resistance | Weak | Strong |
-| Disease resistance | Low | High |
-| Energy concentration | Diffuse | Concentrated |
-| Yield stability | Variable | Stable |
-
-## Wikilinks
-
-- [[fukuoka-rice-plant-ideal-morphology]]
-- [[fukuoka-high-yield-rice-barley]]
-- [[fukuoka-textdoc-ideal-form-high-yielding-rice]]
-- [[fukuoka-natural-soil-fertility]]
-- [[fukuoka-textdoc-sparse-seeding-natural-high-yield-rice]]
-
-## See Also
-
-- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]

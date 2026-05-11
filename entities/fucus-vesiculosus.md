@@ -87,24 +87,3 @@ Fucoidan extracted from bladder wrack is marketed as a dietary supplement with c
 The species is used in cosmetics as a source of fucoidan, alginate, and antioxidant polyphenols. Skincare formulations use bladder wrack extracts for their purported anti-aging and moisturizing effects.
 
 Bladder wrack is harvested commercially for alginate production and as a raw material for agricultural biostimulants. It is also used as a feed supplement in livestock and aquaculture.
-
-The species has potential applications in bioremediation, absorbing [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated coastal waters. Its high affinity for metals including lead, cadmium, and arsenic has been demonstrated in laboratory and field studies.
-
-In Nordic cuisine, bladder wrack is occasionally eaten as a salad vegetable or dried as a seasoning. It is more commonly consumed as a health supplement than as a direct food item.
-
-Traditional Irish and Scottish uses included wrapping fish for cooking, fertilizer for coastal agriculture, and bedding for livestock. These historical uses have largely been replaced by synthetic alternatives.
-
-## See Also
-
-- [[saccharina-latissima]]
-- [[ulva-lactuca]]
-- [[palmaria-palmata]]
-- [[undaria-pinnatifida]]
-- [[cannabis-anti-inflammatory-applications]]
-- magnesium
-- calcium
-- [[psilocybe-cubensis]]
-- [[reishi-ganoderma-lucidum]]
-- [[coriandrum-sativum]]
-- [[zingiber-officinale]]
-- [[foeniculum-vulgare-entity]]

@@ -11,8 +11,8 @@ updated: 2026-05-08
 sources:
   - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." University of Michigan Press.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford.
-  - Fang, S. et al. (2017). "Phytoremediation of heavy metals by Salix integra." Environmental Science and Pollution Research, 24(20), 16884–16892.
-  - Kuzovkina, Y.A. & Quigley, M.F. (2005). "Willows beyond wetland uses in North America." Journal of Environmental Horticulture, 23(1), 15–21.
+  - Fang, S. et al. (2017). "Phytoremediation [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by Salix integra." Environmental Science and Pollution Research, 24(20), 16884–16892.
+  - Kuzovkina, Y.A. & Quigley, M.F. (2005). "Willows beyond wetland uses in [[guzman-psilocybin-mushrooms-north-america]]." Journal of Environmental Horticulture, 23(1), 15–21.
 ---
 
 ## Overview
@@ -37,7 +37,7 @@ Leaves are lanceolate to narrowly elliptic, 4 to 10 cm long and 1 to 2.5 cm wide
 
 Catkins appear in early spring before or with the leaves, measuring 2 to 4 cm in length. Staminate catkins are yellow with prominent stamens, while pistillate catkins are greenish and shorter.
 
-The bark is smooth and grayish-green on young stems, becoming rougher and darker with age. Branches are brittle at the base but highly flexible at the tips, a characteristic that facilitates vegetative propagation.
+The bark is smooth and grayish-green on young stems, becoming rougher and darker with age. Branches are brittle at the base but highly flexible at the tips, a characteristic that facilitates [[hamilton-vegetative-propagation]].
 
 Winter buds are small, reddish-brown, and appressed to the stem, with a single visible bud scale. Bud break occurs early in spring, making the species susceptible to late frost damage in colder regions.
 
@@ -65,7 +65,7 @@ Like many willows, Salix integra supports a diverse community of phytophagous in
 
 The species contributes to riparian food webs by shedding leaves that feed aquatic detritivores. Fallen leaves break down rapidly in water, releasing nutrients that support stream productivity.
 
-Willow roots form associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, enhancing nutrient uptake in nutrient-poor alluvial soils. These [[dighton-mycorrhizal-networks-carbon-transfer]] may also connect individual plants across riparian corridors.
+Willow roots form associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, enhancing [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in nutrient-poor alluvial soils. These [[dighton-mycorrhizal-networks-carbon-transfer]] may also connect individual plants across riparian corridors.
 
 ## Cultivation and Uses
 
@@ -85,35 +85,6 @@ Regular renewal pruning — removing one-third of the oldest stems at ground lev
 
 The species responds well to coppicing, producing long, straight shoots suitable for living willow structures and garden features. In commercial production, plants are often grown as standards with a 60 to 90 cm clear stem.
 
-Container cultivation is successful provided plants are watered frequently during the growing season. A slow-release fertilizer applied in spring supports vigorous foliar display.
+Container cultivation is successful provided plants are watered frequently during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. A slow-release fertilizer applied in spring supports vigorous foliar display.
 
-In phytoremediation, Salix integra has demonstrated effective uptake of cadmium and lead from contaminated soils. Harvested biomass can be safely disposed of or processed for metal recovery.
-
-Research by Fang et al. (2017) showed that Salix integra accumulated up to 120 mg/kg of cadmium in leaf tissue under hydroponic conditions. Translocation factors exceeded 1.0, indicating efficient movement of metals from roots to shoots.
-
-Stems are flexible and suitable for basketry and living willow structures. Coppicing every 2 to 3 years promotes vigorous regrowth of colorful new stems.
-
-The species has been used in traditional Japanese gardens for centuries, where it is valued for its graceful form and seasonal color changes. Its [[ethnomycology-cultural-significance-sacred-fungi]] in Japan predates its introduction to Western horticulture by approximately 200 years.
-
-## Notable Cultivars
-
-'Hakuro-nishiki' is the standard variegated cultivar, introduced from Japan. It displays pink, white, and green foliage and is widely available in the nursery trade.
-
-'Pendula' is a weeping form with cascading branches, often grafted onto a standard to create a small weeping tree. It is less common in commerce than the variegated type.
-
-A compact dwarf form sold under trade names such as 'Minaret' or 'Nishiki' reaches only 60 to 90 cm in height, making it suitable for rock gardens and small urban spaces. Its smaller scale has increased its popularity in recent nursery catalogs.
-
-Propagation of named cultivars must be vegetative to preserve variegation patterns. Seed-grown progeny typically revert to the green-leaved wild type and lack the ornamental characteristics of selected forms.
-
-## See Also
-
-- [[salix-alba]]
-- [[salix-babylonica]]
-- [[salix-nigra]]
-- [[salix-caprea]]
-- [[salix-purpurea]]
-- [[populus-tremuloides]]
-- [[betula-nigra]]
-- [[nyssa-sylvatica]]
-- [[ulmus-americana]]
-- [[quercus-robur]]
+In phytoremediation, Salix integra has demonstrated effective uptake of cadmium and lead from [[fungal-competition-survival-contaminated-soils]]. Harvested biomass can be safely disposed of or processed for metal recovery.

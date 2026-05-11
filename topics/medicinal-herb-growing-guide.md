@@ -6,6 +6,7 @@ tags: [herbalism, medicinal-herbs, herb-growing, gardening, permaculture,
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - herb-growing-guide.md
   - chamomile-growing-guide.md
   - echinacea-growing-guide.md

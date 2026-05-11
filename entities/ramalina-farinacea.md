@@ -88,28 +88,3 @@ Ethnobotanical records from the Mediterranean indicate that *R. farinacea* was t
 The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping dust particles and contributing organic matter to the bark surface. It is an early coloniser of young twigs and frequently establishes before other epiphytes.
 
 The photobiont partner is a trebouxioid green alga, typically assigned to the genus *Trebouxia*. Algal identity can influence the growth rate and [[fungal-lichen-stress-tolerance-and-poikilohydry]] of the lichen symbiosis.
-
-In forestry, heavy *R. farinacea* colonisation has been associated with reduced growth in some tree species. However, the causal relationship between lichen cover and tree health remains debated among researchers.
-
-## Similar Species
-
-*Ramalina fastigiata* is a closely related species with broader, more robust branches and a more erect growth form. It lacks the dense marginal soredia of *R. farinacea* and has a different medullary chemistry.
-
-*Ramalina fraxinea* is much larger, with branches reaching 10–15 cm long. It has conspicuous apothecia and a chemistry dominated by usnic acid and sekikaic acid.
-
-*Ramalina canariensis* is a western European species with narrow, cylindrical branches rather than flattened straps. It typically grows in coastal situations and is more pollution-sensitive.
-
-*Usnea* species can superficially resemble *R. farinacea* but are distinguished by their elastic central cord, which is absent in *Ramalina*. Cross-sections of *Usnea* branches reveal a distinct axial strand.
-
-*Physcia* species such as *P. aipolia* share the grey-green colouration but have a foliose thallus closely appressed to the substrate. They are never truly fruticose or pendulous like *Ramalina*.
-
-Molecular phylogenetic analyses have confirmed *R. farinacea* as a distinct species within the Ramalina clade. Its closest relatives include *R. fastigiata* and the Mediterranean species *R. pityrea*.
-
-## See Also
-
-- [[ramalina-fastigiata]]
-- [[usnea-florida]]
-- [[evernia-prunastri]]
-- [[flavoparmelia-caperata]]
-- [[physcia-aipolia]]
-- [[mycology]]

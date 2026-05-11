@@ -35,7 +35,7 @@ test.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 1
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 1
 
 ## Research Evidence
 
@@ -61,7 +61,7 @@ an increased risk of developing Kaposi's sarcoma.
 | Drug | Study Type | Key Findings | CHI |
 |------|-----------|-------------|-----|
 | WIN55,212-2 (synthetic cannabinoid) | Laboratory | 2009, University of Catania, Italy: WIN55,212-2 reduced viability of human Kaposi's sarcoma cells in vitro | 1 |
-| Cannabis vs. cocaine, amphetamines, poppers | 401 HIV+/HHV-8+ men | 2009, Los Angeles: Poppers correlated with KS; long-term cannabis use not correlated with increased KS risk | 0 |
+| Cannabis vs. [[cocaine]], amphetamines, poppers | 401 HIV+/HHV-8+ men | 2009, Los Angeles: Poppers correlated with KS; long-term cannabis use not correlated with increased KS risk | 0 |
 
 ## Strain-Specific Considerations
 
@@ -69,7 +69,7 @@ WIN55,212-2 binds with higher affinity to CB2 receptors than CB1 receptors.
 Indicas and indica-dominant strains tend to present a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]],
 thus relatively favoring CB2 receptor activation. This suggests that indica
 strains with higher CBD content may be more relevant for potential anti-KS
-therapeutic applications.
+[[psilocybin-therapeutic-applications]].
 
 ## Clinical Context
 
@@ -77,7 +77,7 @@ Kaposi's sarcoma lesions often develop around visible areas (nose, mouth,
 neck, chest) and are therefore very noticeable. While KS was historically
 associated with AIDS, it can develop independently of HIV status. The finding
 that cannabis use is not associated with increased KS risk is reassuring for
-immunocompromised patients who may use cannabis for symptom management.
+immunocompromised patients who may use cannabis for [[cannabis-cancer-symptom-management]].
 
 The anti-tumor activity of CB2-binding cannabinoids against KS cells is
 consistent with findings in other cancers where CB2 receptor activation has
@@ -88,14 +88,3 @@ pages in the Cannabis Health Index.
 
 The lesions formed by KS often develop around visible areas (nose, mouth,
 neck, chest) and are very noticeable. Even though the allopathic community was
-wrong in painting KS as the signature disease of AIDS, the highly charged
-shame and judgment associated with that era may persist for patients. KS
-development suggests that a combination of cancer and viral herpes patterns
-may be activated. Suggested blessing: "May you create love and approval for all
-aspects of yourself."
-
-## See Also
-
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-liver-cancer]]
-- [[endocannabinoid-system-overview]]

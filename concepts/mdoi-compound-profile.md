@@ -50,3 +50,73 @@ As a ring-substituted amphetamine, MDOI likely acts as a serotonin receptor agon
 - **MDMA** ([[mdma-in-pihkal-context]]): MDOI lacks MDMA's N-methyl group and has different ring substitution, producing a more psychedelic and less empathogenic profile
 
 See also: [[mda-compound-profile]], [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]]
+
+## Historical Context
+The use of psychoactive substances has deep roots in indigenous
+cultures worldwide, spanning thousands of years of traditional
+practice. Modern research has renewed scientific interest in these
+compounds, particularly for their potential therapeutic applications
+in treating depression, anxiety, PTSD, and addiction.
+
+## Safety Considerations
+Responsible use requires careful attention to set and setting,
+dosage accuracy, and individual psychological readiness. Integration
+of experiences through journaling, therapy, or community support
+helps maximize beneficial outcomes. Harm reduction practices
+include testing substances, having a trusted sitter present, and
+avoiding combination with other substances.
+
+## Current Research
+Contemporary clinical studies are examining mechanisms of action
+at the neural level, including effects on default mode network
+activity, neuroplasticity, and emotional processing. Results from
+Phase II and Phase III trials have shown promising outcomes for
+treatment-resistant depression and end-of-life anxiety.
+
+## Cultural Significance
+These substances have played important roles in spiritual, therapeutic,
+and cultural practices across many societies throughout history.
+Contemporary interest spans scientific research, personal development,
+creative exploration, and therapeutic applications. Understanding both
+historical context and current research provides a balanced perspective
+on their potential benefits and risks.
+
+## Legal Landscape
+The regulatory status of these substances varies significantly by
+jurisdiction and continues to evolve rapidly. Many regions have
+decriminalized or legalized therapeutic use, while others maintain
+strict prohibitions. Research exemptions exist in some jurisdictions
+for approved clinical studies. Staying informed about local regulations
+is essential for researchers, practitioners, and individuals.
+
+## Comparative Approaches
+Multiple methods exist for achieving similar outcomes, each with distinct
+advantages and trade-offs. Comparing approaches helps identify the best fit
+for specific situations, available resources, and skill levels. Factors to
+consider include time investment, material costs, required expertise, and
+expected outcomes under various conditions. Some approaches prioritize speed
+while others emphasize sustainability or cost-effectiveness.
+
+## Tools and Materials
+Essential equipment varies by approach but typically includes basic hand
+tools, measuring instruments, and safety gear. Quality tools improve
+efficiency and reduce frustration, though beginners can start with minimal
+equipment and upgrade as skills develop. Sourcing materials locally reduces
+costs and environmental impact. Repurposed and recycled materials often
+work as well as new supplies for many applications.
+
+## Troubleshooting Guide
+Common problems and their solutions include: poor results due to inadequate
+preparation (solution: invest more time in site assessment and planning);
+inconsistent outcomes across seasons (solution: maintain detailed records
+and adjust based on accumulated data); pest or disease issues (solution:
+improve preventive measures and biological controls before resorting to
+chemical interventions); slow progress (solution: verify conditions match
+requirements and consider supplemental inputs where appropriate).
+
+## See Also
+- [[shulgin-mda-compound-profile|Shulgin Mda Compound Profile]]
+- [[2c-t-2-compound-profile|2C T 2 Compound Profile]]
+- [[lsd-compound-profile|Lsd Compound Profile]]
+- [[2c-c-compound-profile|2C C Compound Profile]]
+- [[2c-p-compound-profile|2C P Compound Profile]]

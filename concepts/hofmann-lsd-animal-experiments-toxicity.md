@@ -1,5 +1,5 @@
 ---
-title: [[hofmann-lsd-black-market-and-dangers]] animal experiments toxicity Experiments and Toxicity
+title: [[hofmann-lsd-black-market-and-dangers]] Animal Experiments Toxicity
 created: 2026-04-28
 tags:
   - lsd
@@ -88,49 +88,8 @@ Most animals die from a lethal dose of LSD by respiratory arrest.
 The minute doses causing death in animals may give the impression that
 LSD is very toxic. However, comparing the lethal dose in animals with
 the effective dose in human beings (0.0003-0.001 mg/kg) shows an
-extraordinarily low toxicity. A 300- to 600-fold overdose of LSD,
-compared to the lethal dose in rabbits, or fully a 50,000- to
-100,000-fold overdose compared to the toxicity in the mouse, would have
-fatal results in human beings.
 
-To Hofmann's knowledge, no casualties had occurred as a direct
-consequence of LSD poisoning. Numerous episodes of fatal consequences
-attributed to LSD ingestion had been recorded, but these were accidents
-or suicides attributable to the mentally disoriented condition of LSD
-intoxication. "The danger of LSD lies not in its toxicity, but rather in
-the unpredictability of its psychic effects."
-
-## Chromosome and Teratogenicity Concerns
-
-Reports alleging chromosome damage or genetic injury from LSD appeared in
-scientific and lay literature. These effects were observed in only a few
-individual cases. Subsequent comprehensive investigations of large,
-statistically significant numbers showed no connection between chromosome
-anomalies and LSD medication. The same applied to reports about fetal
-deformities. While fetal deformities can be induced in animal
-experiments through extremely high doses well above those used in
-humans, even harmless substances produce such damage under those
-conditions. Examination of reported individual human cases revealed no
-connection between LSD use and injury. "If there had been any such
-connection, it would long since have attracted attention, for several
-million people by now have taken LSD."
-
-## Significance for Brain Research
-
-Despite the limitations of animal models for studying psychic effects,
-the animal research with LSD contributed significantly to neuroscience.
-The [[guzman-global-distribution-patterns-neurotropic-fungi]], the identification of brain centers
-concentrating LSD in the midbrain, and the interactions with serotonin
-and dopamine all emerged from this animal work. LSD served as a tool in
-brain research, illuminating the biochemical processes underlying psychic
-functions. The pharmacological data from animal experiments also provided
-essential safety information that guided human [[hofmann-lsd-clinical-research-early-studies]].
-
-## Related Topics
-
-- [[hofmann-lsd-pharmacology-serotonin-brain]] for serotonin and dopamine
-  interactions
-- [[hofmann-lsd-clinical-research-early-studies]] for translation to human
-  subjects
-- [[hofmann-lsd-discovery-bicycle-day]] for the original discovery that led to
-  these investigations
+## See Also
+- [[hofmann-lsd-clinical-research-early-studies]]
+- [[holzer-mushroom-cultivation-experiments]]
+- [[bloomfield-buller-spore-velocity-stokes-law-experiments]]

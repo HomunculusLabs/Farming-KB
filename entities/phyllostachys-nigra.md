@@ -88,23 +88,3 @@ The dark culms create dramatic contrast against light-colored walls, gravel, and
 **Shoot production:** Young shoots are edible but less commonly harvested for food than other *Phyllostachys* species. Shoots have a mild, slightly bitter flavor.
 
 ## Ecological Role
-
-**Invasiveness:** Considered potentially invasive in mild-climate regions including coastal California, the southeastern United States, parts of southern Europe, eastern Australia, and New Zealand.
-
-Spread rates are generally slower than [[phyllostachys-aurea]] but containment barriers are still recommended for garden plantings.
-
-**Habitat value:** Dense stands provide cover and nesting habitat for songbirds. The relatively open canopy beneath allows some understory growth compared to denser bamboos.
-
-**Soil and water effects:** Bamboo leaf litter adds [[hamilton-composting-and-organic-matter-management]] and moderates soil temperature. Root systems help prevent erosion on steep banks.
-
-## See Also
-
-- [[phyllostachys-edulis]] — Moso bamboo, the largest and most commercially important species
-- [[arundinaria-gigantea]] — [[growing-gourmet-north-american-reishi-species]] native giant cane bamboo
-- [[miscanthus-sinensis]] — Chinese silver grass, ornamental bioenergy grass
-- [[pseudotsuga-menziesii]] — Douglas-fir, evergreen companion tree
-- [[fagus-sylvatica]] — European beech, shade companion
-- [[quercus-robur]] — English oak, hardwood landscape partner
-- [[acer-saccharum]] — Sugar maple, fall-color companion
-- [[pinus-nigra]] — European black pine, evergreen windbreak partner
-- [[betula-pendula]] — Silver birch, contrasting light-barked companion

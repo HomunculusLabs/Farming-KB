@@ -13,7 +13,7 @@ Malawi Gold is arguably the most famous African african-landrace-sativa-modern-h
 
 - **Growth pattern:** tall, lanky, and vigorous — a classic equatorial sativa structure
 - **Flowering time:** extremely long in its pure form (14–16+ weeks), but [[african-landrace-sativa-modern-hybrids]] incorporating Malawi genetics have significantly reduced this
-- **Resin production:** legendary — Malawi Gold is renowned for its exceptional resin coverage and potency
+- **[[cannabis-glandular-trichome-types-resin-production-clarke]]:** legendary — Malawi Gold is renowned for its exceptional resin coverage and potency
 - **Aroma and flavor:** sweet, earthy, with floral and sometimes cherry-like notes
 
 ### Chunky Cherry Malawi (Kingdom Organic Seeds)
@@ -26,7 +26,7 @@ Another Malawi-based hybrid featured in the volume, Doobie's Malawi from DoobieD
 
 ## Swazi (Swaziland Landrace)
 
-Swazi is a pure landrace sativa from Swaziland (now Eswatini), South Africa. Featured as a strain entry from Spain's Tropical Seeds Company, it represents the wild, untamed character of African sativa genetics.
+Swazi is a pure [[african-landrace-sativa-strains]] from Swaziland (now Eswatini), South Africa. Featured as a strain entry from Spain's Tropical Seeds Company, it represents the wild, untamed character of African sativa genetics.
 
 ### Characteristics
 
@@ -46,11 +46,11 @@ Sweet, delicious smoke described as "sweet as a slice of pie with extra ice crea
 
 ## King Congo
 
-A pure F1 sativa from Tropical Seeds Company (Spain), combining Ciskei P3 (a South comparison-cavendish-vs-east-african-highland-bananas Sativa) and Congo Pointe Noire genetics. This strain represents the modern breeder's approach to preserving African landrace genetics while making them more accessible.
+A pure F1 sativa from Tropical Seeds Company (Spain), combining Ciskei P3 (a South comparison-cavendish-vs-east-african-highland-bananas Sativa) and [[oner-king-congo-congo-pointe-noire-ciskei-african-sativa]] genetics. This strain represents the modern breeder's approach to preserving [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] genetics while making them more accessible.
 
 ### Characteristics
 
-- **Growth pattern:** medium-sized plant, surprisingly suitable for indoor growth despite pure sativa heritage — rare for African landraces
+- **Growth pattern:** medium-sized plant, surprisingly suitable for indoor growth despite pure [[cannabis-landrace-sativa-heritage-varieties]] — rare for African landraces
 - **Appearance:** deep green buds with snow-white hairs, producing "fists of flowers"
 - **Flowering time:** 65–75 days — relatively short for a pure sativa
 - **Yield:** average to heavy indoors; heavy outdoors
@@ -62,7 +62,7 @@ Aroma of lemon and lime with sweet undertones and an earthy aftertaste. The high
 
 ## Pure Africa (Kenyan Landrace)
 
-A pure sativa landrace from Kenya, specifically from the slopes of Mount Kilimanjaro. Available through Original Sensible (Spain).
+A pure [[cannabis-sativa-landrace-strains]] from Kenya, specifically from the slopes of Mount Kilimanjaro. Available through Original Sensible (Spain).
 
 ### Characteristics
 
@@ -88,31 +88,3 @@ This latitude-based photoperiod sensitivity makes southern African landraces uni
 Also featured in the volume is South Indian from AutoFem (Spain), a pure landrace strain from India that has been stabilized over years of breeding. While technically South Asian rather than Southern African, it shares many characteristics with African landraces and represents the broader pattern of equatorial sativa diversity.
 
 ### Characteristics
-
-- Tall, thin plant with wild branching structure
-- Produces long, fluffy buds with moderate trichome coverage
-- Pale green buds with yellow and white highlights
-- Aroma of pine, mint, and incense
-- Used extensively as a parent in commercial hybrid strains
-
-This strain has been "somewhat calmed by the [stabilization] process but still acts as the cannabis equivalent of Marlon Brando in 'The Wild One'" — a reminder that even stabilized landraces retain their wild character.
-
-## The Rev on African Sativas
-
-The Rev's introduction to the volume expresses particular enthusiasm for African landraces: "I love the exotic sativas; Congo, Swazi, Malawi, Oaxacan, Colombian, Central and chiric-caspi-brunfelsia-south-american-hallucinogen varieties, Durban Poison, and some of the old Hawaiians." He describes the experience of smoking African landraces as setting "my soul on fire" and identifies them as the strains he reaches for when he needs to "find my creativity when it's hidden beneath layers of tiredness and apathy."
-
-This sentiment reflects a broader trend in cannabis connoisseurship: as the market has been saturated with indica-heavy hybrids and Kush varieties, a growing community of breeders and consumers is returning to landrace genetics — particularly African and Southeast Asian sativas — for their unique effects, flavors, and the [[biodiversity-fungal-genetic-diversity]] they bring to breeding programs.
-
-## Conservation of Landrace Genetics
-
-The volume implicitly addresses the urgency of landrace conservation. Many original landrace varieties — including Panama Red, which The Rev describes as having "bordering on hallucinogenic" potency — exist today only in watered-down versions. The real Panama Red clone sold for approximately $5,000 in the early 1980s but has since been lost. Breeders like SnowHigh Seeds, Tropical Seeds Company, and The Rev's Kingdom Organic Seeds are working to preserve and stabilize remaining landrace genetics before they disappear entirely.
-
-The work of sourcing, stabilizing, and making these genetics available in seed form is presented throughout the volume as both a botanical conservation effort and a service to the cannabis community — ensuring that future generations of breeders have access to the genetic diversity that makes cannabis such a remarkable plant.
-
-The African landraces featured here — Malawi Gold, Swazi, King Congo, and Pure Africa — represent just a fraction of the continent's cannabis diversity. Other notable African varieties mentioned in the broader series include Durban Poison, Lesotho, and Nigerian genetics, each adapted to their specific regional environments and carrying unique cannabis-terpene-profiles-sativa and effects.
-
-For growers and breeders, these landraces offer irreplaceable genetic material. Their photoperiod sensitivity, disease resistance, resin production, and unique [[cannabis-terpene-profiles]] provide traits that are difficult or impossible to replicate through hybrid breeding alone.
-
----
-
-**See also:** [[durban-poison]], [[african-landrace-sativa-strains]], [[oner-sativa-vs-indica-classification]]

@@ -6,11 +6,12 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Fruit Forest Establishment
 
-The establishment of fruit forests (also called food forests or orchard forests) is one of [[sepp-holzer-entity]]'s most distinctive contributions to permaculture practice. His method is radically different from conventional [[fukuoka-citrus-orchard-establishment-bare-hillside]]: instead of planting [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] trees in prepared rows, he sows seeds directly onto the site, allows natural selection to take place, and then grafts desired varieties onto the strongest, best-adapted seedlings. This approach produces resilient, self-sufficient fruit forests at minimal cost.
+The establishment of fruit forests (also called food forests or orchard forests) is one of [[sepp-holzer]]'s most distinctive contributions to permaculture practice. His method is radically different from conventional [[fukuoka-citrus-orchard-establishment-bare-hillside]]: instead of planting [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] trees in prepared rows, he sows seeds directly onto the site, allows natural selection to take place, and then grafts desired varieties onto the strongest, best-adapted seedlings. This approach produces resilient, self-sufficient fruit forests at minimal cost.
 
 ## The Sowing Method
 
@@ -87,28 +88,3 @@ Wild fruit trees can also be grown in the form of fruit hedges that serve as win
 In a well-structured garden, hedges of fruit bushes instead of monocultures offer birds a habitat and a source of food. The greater the diversity of plant varieties within the hedges, meadows, or forests, the greater the diversity of the yield of fruits and berries.
 
 ## Multi-Grafting
-
-With grafting there are no limits to your fantasy: it is perfectly possible to graft a number of varieties onto a single tree. This is a great advantage when there is only space for one tree. Many fruit trees, especially apples and pears, cannot self-pollinate, so they must have pollinating varieties available. This problem is solved by grafting a branch from a pollinating variety onto the same tree.
-
-Having a number of varieties on one tree in a small garden helps to minimise the risk of crop failure. Different ripening times and different varieties of fruit make it possible not only to have a more varied harvest, but also creates a unique collection and increases the happiness gained from a single fruit tree.
-
-## The Shock Method
-
-Holzer recounts discovering a transplanting technique as a child. He found small wild apple trees on a pile of stones and carried them home. His mother scolded him, saying that with fully-grown leaves, the trees would not take root at that time of year. Despite this, he planted them, covered the soil with leaves, and could not water them because the garden was too far from water.
-
-He came upon the naive idea of removing all the leaves from the trees, reasoning that a plant without leaves could not lose water through transpiration. To his astonishment, the trees survived and thrived. This shock method -- removing all leaves before transplanting a leafed-out tree -- works because it eliminates the main cause of transplant failure: water loss through leaves that the damaged root system cannot replace.
-
-## Long-Term Management
-
-Once established, a fruit forest requires minimal intervention:
-
-- Periodic grazing with livestock to manage understorey growth
-- Selective pruning for access and light management
-- Grafting new varieties onto established rootstocks
-- Harvesting fruit, nuts, and timber
-- Maintaining diversity through continued seedling establishment
-- Monitoring for [[hamilton-pest-and-disease-control-organic]] issues, intervening only when necessary
-
-The result is a self-sustaining, productive ecosystem that improves over time rather than degrading -- the opposite of conventional agriculture.
-
-See also: holzer-fruit-tree-planting-method, [[holzer-livestock-integration]], [[holzer-recommended-old-fruit-varieties]], [[holzer-terrace-systems]]

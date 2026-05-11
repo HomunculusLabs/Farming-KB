@@ -9,11 +9,11 @@ sources: []
 
 # Homestead Community Building
 
-Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member. (see [[permaculture-community-resilience]]).
+Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
 
 ## Barter Networks
 
-Barter is the oldest form of exchange and remains highly practical among homesteaders. The key is identifying what you produce in surplus and what others need. (see [[homestead-record-keeping]]).
+Barter is the oldest form of exchange and remains highly practical among homesteaders. The key is identifying what you produce in surplus and what others need.
 
 ### What to Barter
 - Produce and preserved foods (eggs, vegetables, fruit, honey, canned goods, cured meats)
@@ -32,7 +32,7 @@ Barter is the oldest form of exchange and remains highly practical among homeste
 
 ## Tool Libraries
 
-Tool libraries reduce duplication, save money, and build community. A shared tool collection means access to expensive or rarely-used equipment without individual ownership costs. (see [[comparison-root-cellaring-vs-food-dehydration]]).
+Tool libraries reduce duplication, save money, and build community. A shared tool collection means access to expensive or rarely-used equipment without individual ownership costs.
 
 ### How to Start a Tool Library
 - Assess what tools the community already owns and is willing to share
@@ -67,7 +67,7 @@ Seed swaps preserve genetic diversity, reduce costs, and build local adaptation.
 - Partner with the local library, community center, or farmers market for venue
 
 ### Seed Saving Basics
-- Open-pollinated (OP) and heirloom varieties breed true from saved seed
+- Open-pollinated (OP) [[cannabis-landrace-and-heirloom-varieties]] breed true from saved seed
 - Hybrid varieties do not breed true — do not save seed from hybrids unless you are experimenting
 - Some crops cross-pollinate readily (squash, corn, brassicas) — isolate or hand-pollinate for pure seed
 - Store seeds cool, dark, and dry — in paper envelopes inside a sealed container in the refrigerator
@@ -88,13 +88,13 @@ Every homesteader has skills others need. Formal and informal skill sharing buil
 - Food preservation (canning, fermentation, dehydration)
 - Animal husbandry and processing
 - Carpentry and building
-- Permaculture design and [[permaculture-principles]] principles
+- [[mollison-rabbits-in-permaculture-design-and-soil-preparation]] [[permaculture-principles]] principles
 - Herbal medicine and plant identification
 - Beekeeping
 - Welding and metalwork
 - Fruit tree pruning and grafting
 - Seed saving
-- Natural building methods ([[mud-oven]], timber frame)
+- [[query-what-are-the-best-natural-building-methods]] ([[mud-oven]], timber frame)
 
 ## Buying Clubs
 
@@ -120,10 +120,10 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 
 Beyond direct barter, broader local food networks strengthen community food security:
 
-- **Community Supported Agriculture (CSA)** — subscribe to local farms for weekly produce boxes
+- **[[community-supported-agriculture-csa]] (CSA)** — subscribe to local farms for weekly produce boxes
 - **Farmers markets** — sell surplus and connect with other producers
 - **Food cooperatives** — member-owned grocery stores that prioritize local products
-- **Community gardens** — shared growing space for those without land
+- **[[gaias-garden-creating-community-gardens]]** — shared growing space for those without land
 - **Gleaning networks** — organized harvesting of surplus from farms and orchards for food banks
 - **Meal trains** — organized meal delivery during illness, injury, or family emergencies
 
@@ -147,4 +147,3 @@ If you are new to an area:
 - Offer to help during busy seasons (harvest, haying, butchering)
 - Host a potluck — food brings people together
 - Be reliable — your reputation is built on follow-through
-

@@ -14,17 +14,17 @@ tags:
 sources:
   - Cushnie, T.P.T. & Lamb, A.J. (2005). "Antimicrobial activity of flavonoids." International Journal of Antimicrobial Agents, 26(5), 343-356.
   - Bhat, R. et al. (2013). "Clove: a champion spice." International Journal of Biochemistry Research & Review, 3(1), 87-109.
-  - Chaieb, K. et al. (2007). "Antimicrobial activity of essential oils." Phytotherapy Research, 21(6), 501-506.
+  - Chaieb, K. et al. (2007). "Antimicrobial activity of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." Phytotherapy Research, 21(6), 501-506.
   - Kuroda, M. et al. (2012). "Anti-inflammatory effects of eugenol." Journal of Agricultural and Food Chemistry, 60(2), 543-548.
 ---
 
 # Eugenia caryophyllata
 
-**Eugenia caryophyllata** (syn. *Syzygium aromaticum*), commonly known as clove, is an aromatic evergreen tree in the family Myrtaceae, native to the Maluku Islands (the Moluccas or "Spice Islands") of Indonesia. The dried flower buds of this tree have been traded as a prized spice for over 2,000 years.
+**Eugenia caryophyllata** (syn. *[[syzygium-aromaticum]]*), commonly known as clove, is an aromatic evergreen tree in the family Myrtaceae, native to the Maluku Islands (the Moluccas or "Spice Islands") of Indonesia. The dried flower buds of this tree have been traded as a prized spice for over 2,000 years.
 
 Cloves are among the most potent [[dmt-botanical-sources-pharmacology]] of eugenol, comprising 70–90% of the essential oil. This phenolic compound is responsible for the characteristic aroma, flavor, and most of the documented pharmacological activities of clove preparations.
 
-The species is commercially cultivated across tropical regions, with Indonesia, Madagascar, India, and Sri Lanka as the leading producers. Global clove production exceeds 150,000 metric tons annually, serving both culinary and pharmaceutical markets.
+The species is commercially cultivated across [[fukuoka-natural-farming-in-tropical-regions]], with Indonesia, Madagascar, India, and Sri Lanka as the leading producers. Global clove production exceeds 150,000 metric tons annually, serving both culinary and pharmaceutical markets.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ The fruit is a fleshy drupe (called "mother clove") containing a single seed. It
 
 ## Distribution and Habitat
 
-Clove is native to the Maluku Islands in eastern Indonesia, specifically Ternate, Tidore, Moti, Makian, and Bacan. The species requires a humid tropical climate with annual rainfall of 1,500–3,000 mm and temperatures of 20–30°C.
+Clove is native to the Maluku Islands in eastern Indonesia, specifically Ternate, Tidore, Moti, Makian, and Bacan. The species requires a humid [[query-how-to-design-a-food-forest-for-a-tropical-climate]] with annual rainfall of 1,500–3,000 mm and temperatures of 20–30°C.
 
 Cultivation has spread to Madagascar (the world's largest producer since the 19th century), Zanzibar, India (Kerala and Karnataka), Sri Lanka, Malaysia, Brazil, and the West Indies. The tree grows best in volcanic or deep loamy soils at elevations of 0–500 meters.
 
@@ -75,7 +75,7 @@ Additional pharmacological activities documented in the literature include antio
 
 ### Safety and Toxicity
 
-Eugenol has a relatively low acute toxicity (LD50 in rats: 2,680 mg/kg oral). However, clove essential oil can cause mucosal irritation at high concentrations and should be diluted before topical application. Ingestion of clove oil (not the whole spice) has been associated with liver damage in case reports involving children.
+Eugenol has a relatively low [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] (LD50 in rats: 2,680 mg/kg oral). However, clove essential oil can cause mucosal irritation at high concentrations and should be diluted before topical application. Ingestion of clove oil (not the whole spice) has been associated with liver damage in case reports involving children.
 
 The European Food Safety Authority (EFSA) has established a NOAEL of 150 mg/kg body weight/day for eugenol. Clove oil should not be applied to broken skin or used undiluted in the mouth for extended periods due to risk of mucosal burns.
 
@@ -85,33 +85,6 @@ Cloves are used whole, ground, or as essential oil in cuisines worldwide. In Ind
 
 Nutritionally, dried cloves are remarkably rich in manganese (30% DV per teaspoon) and contain significant amounts of vitamin K, iron, calcium, and dietary fiber. The spice is used in very small quantities, so nutritional contributions are minimal in practice.
 
-Clove oil is used as a food preservative due to its antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has shown effectiveness in extending the shelf life of meat products and fruit juices at concentrations as low as 0.1% v/v.
+Clove oil is used as a food preservative due to its antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has shown effectiveness in extending the [[ingham-aact-holding-time-shelf-life-decay]] of meat products and fruit juices at concentrations as low as 0.1% v/v.
 
 ## Traditional Medicine and Ethnobotany
-
-In Ayurvedic medicine, clove (Lavanga) has been used for over 2,500 years to treat digestive disorders, respiratory conditions, and dental pain. The Kama Sutra references clove as a breath freshener and aphrodisiac.
-
-Traditional Chinese medicine employs clove to warm the spleen and stomach, dispel cold, and promote circulation. It is classified as a hot, acrid herb and is used in formulations for digestive weakness, vomiting, and hernia pain.
-
-Indonesian Jamu medicine uses clove preparations for stomach ailments and to strengthen the immune system. Clove cigarettes (kretek) have been a cultural fixture in Indonesia since the late 19th century, though this application raises health concerns due to the combination of tobacco and eugenol inhalation.
-
-## Permaculture and Agroforestry Applications
-
-Clove trees are well-suited to tropical agroforestry systems. They can be integrated into multi-strata food forests, providing shade for understory crops such as coffee, cocoa, and vanilla while producing a high-value cash crop from the flower buds.
-
-The tree's dense canopy provides windbreak protection and contributes [[hamilton-composting-and-organic-matter-management]] through leaf litter. Its deep root system helps prevent soil erosion on sloping tropical terrain. Intercropping with nitrogen-fixing trees such as Gliricidia sepium can improve soil fertility while maintaining clove productivity.
-
-Clove bud production is sensitive to water stress during the critical flowering period. Agroforestry designs should ensure adequate moisture retention through mulching and ground cover. The species is relatively pest-resistant due to its high eugenol content, reducing the need for synthetic pesticide inputs.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], clove trees occupy the canopy layer of tropical food forests. They pair well with mid-layer species like banana, papaya, and citrus, and ground-layer crops such as turmeric, ginger, and galangal. The spicy leaf litter may have allelopathic effects on some understory species, so [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] should be evaluated locally.
-
-Propagation is primarily by seed, which germinates within 2–4 weeks when fresh. Seed viability declines rapidly; seeds should be planted within one week of collection. Grafted or budded trees produce crops sooner (3–4 years vs. 7+ for seedlings) and allow selection of superior genotypes.
-
-## See Also
-
-- eugenia caryophyllata
-- pimenta dioica
-- [[zingiber-officinale]]
-- [[eugenol]]
-- [[cinnamomum-cassia]]
-- [[foeniculum-vulgare-entity]]

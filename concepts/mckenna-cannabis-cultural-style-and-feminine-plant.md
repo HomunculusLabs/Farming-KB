@@ -1,5 +1,5 @@
 ---
-title: "Cannabis as a mckenna cannabis cultural style and feminine plant and the Feminine Plant"
+title: Mckenna Cannabis Cultural Style And Feminine Plant
 created: 2026-05-06
 tags:
   - cannabis
@@ -19,10 +19,10 @@ type: concept
 
 ## Overview
 
-Terence McKenna advanced the provocative thesis that cannabis does not merely
+[[terence-mckenna]] advanced the provocative thesis that cannabis does not merely
 intoxicate its users but actively shapes the cultural style and aesthetic
 sensibilities of the societies that embrace it. Drawing on the distinction
-between partnership and dominator social models developed by Riane Eisler,
+between [[partnership-and-dominator-cultures-in-human-history]] social models developed by Riane Eisler,
 McKenna argued that cannabis promotes values of community, sensory awareness,
 and noncompetitive behavior that are antithetical to hierarchical, male-dominated
 social organization.
@@ -42,7 +42,7 @@ architectural styles and design motifs of Mughal Delhi or tenth-century Isfahan
 may be somehow derivative of or inspired by the visions of hashish.
 
 Similarly, he drew a parallel with alcohol's influence on feudal Europe, where
-the stimulant properties of fermented beverages channeled social development
+the stimulant properties of [[comparison-mead-vs-kvass-fermented-beverages]] channeled social development
 toward forms and cultural self-images compatible with a warrior aristocracy.
 
 Aesthetic assumptions and styles function as indices of the level and kind of
@@ -88,51 +88,3 @@ coffee, which reinforces industrial values, is both welcomed and encouraged.
 McKenna pointed to the longer hair lengths adopted by men during the rise of
 marijuana use in the 1960s [[dmt-containing-plants-united-states-halpern]] as a textbook case of feminine values
 accompanying the use of a boundary-dissolving plant. The hysterical reaction
-to this adjustment in folkways revealed, in his view, the insecurity and sense
-of danger felt by the male ego in the presence of any factor that might restore
-partnership values to human affairs.
-
-The contempt directed at cannabis users was, for McKenna, a thinly disguised
-contempt for the values of community and the feminine. The media's need to
-endlessly repudiate the psychedelic drug use of the 1960s reflected a deeper
-fear of genderless partnership thinking based on a diminished sense of self.
-
-## Cannabis and the Archaic Revival
-
-The persistence of cannabis use despite decades of prohibition and
-criminalization is, for McKenna, one of the most persistent aspects of what he
-called the Archaic Revival. It indicates that the innate drive to restore the
-psychological balance typifying [[mckenna-dominator-vs-partnership-society-model]], once it finds a suitable
-vehicle, is not easily deterred.
-
-Everything about cannabis that makes it inimical to bourgeois values endears it
-to the Archaic Revival. It diminishes the power of ego, mitigates
-competitiveness, causes users to question authority, and reinforces the notion
-of the merely relative importance of social values.
-
-No other drug can compete with cannabis for its ability to satisfy the innate
-yearning for boundary dissolution while leaving intact the structures of
-ordinary society. McKenna speculated that if every alcoholic were a cannabis
-user, the social consequences of the drug problem would be transformed.
-
-## Cannabis in Hindu and Islamic Mysticism
-
-Cannabis held associations with the esoteric, hence secret, side of both Muslim
-and Hindu religiosity. In India, the yogic practices of saddhus and the
-emphasis on direct experience of the transcendent were closely connected to
-cannabis veneration. J. Campbell Oman, a nineteenth-century observer of Indian
-folkways, noted that hemp drugs "known since very early times in the East, are
-not irresponsible for some of its wild dreamings."
-
-The growing presence of cannabis in Vedic society and later in Islam may have
-acted to slow the rise of dominator values. It gave encouragement to heterodox
-forces such as the Shivites in Hinduism and the Sufis in Islam, who made no
-secret of their reliance on cannabis as a source of religious inspiration that
-was particularly feminine in emphasis.
-
-## See Also
-
-- [[mckenna-cannabis-culture-history]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-- [[mckenna-cannabis-language-weaving-cordage-narrative]]
-- [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]

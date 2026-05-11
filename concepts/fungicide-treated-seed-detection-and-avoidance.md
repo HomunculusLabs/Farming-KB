@@ -41,14 +41,14 @@ Many commercial seed treatments combine multiple fungicides to provide broader s
 
 The most reliable method of identifying treated seed is checking the product packaging. Regulatory requirements in most jurisdictions mandate that seed treated with pesticides, including fungicides, be clearly labeled. Key terms to look for include:
 
-- "Treated with fungicide" or "Fungicide treated"
+- "Treated with fungicide" or "[[fungicide-treated-seed-contamination-risk-mushroom-substrate]]"
 - "Contains pesticide treatment" or "Chemically treated"
 - Specific active ingredient names (e.g., thiram, captan, metalaxyl)
 - Warning statements about handling treated seed
 - EPA registration numbers for the treatment chemicals
 - Appropriate personal protective equipment requirements
 
-In the [[dmt-containing-plants-united-states-halpern]], the Federal Seed Act requires treated seed labels to include the name of the pesticide, the rate of application, and a statement affirming that the seed has been treated. In the European Union, Regulation (EC) No 1107/2009 governs plant protection products, and treated seed must bear the phrase "treated seed" along with the active substance name.
+In the [[dmt-containing-plants-united-states-halpern]], the Federal Seed Act requires treated seed labels to include the name of the pesticide, the rate of application, and a statement affirming that the seed has been treated. In [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]], Regulation (EC) No 1107/2009 governs plant protection products, and treated seed must bear the phrase "treated seed" along with the active substance name.
 
 ### Visual Inspection
 
@@ -75,9 +75,9 @@ Honest suppliers will be able to provide this information. Evasive answers or in
 
 ### Animal Feed Stores
 
-The most practical and economical source of untreated grass seed for cultivation is animal feed stores:
+The most practical and economical source of untreated [[grass-seed-as-mushroom-substrate]] for cultivation is animal feed stores:
 
-- **Birdseed**: Rye grass seed (Lolium perenne) sold as bird feed is typically untreated because fungicide coating adds cost without benefit for feed purposes
+- **Birdseed**: [[grass-seed-substrate-preparation-rye-grass-mycology]] seed ([[lolium-perenne]]) sold as bird feed is typically untreated because fungicide coating adds cost without benefit for feed purposes
 - **Cost advantage**: Birdseed-grade seed often costs significantly less than horticultural-grade seed from cultivation suppliers
 - **Availability**: Feed stores are widely available in rural and suburban areas
 - **Bulk purchasing**: Seed can be bought in quantity at favorable prices
@@ -88,46 +88,3 @@ Certified organic seed is guaranteed by regulation to be free from synthetic pes
 
 - USDA National Organic Program (NOP) standards prohibit synthetic pesticide treatment of organic seed
 - Third-party certification provides verification of untreated status
-- Generally more expensive than feed store seed but offers documented assurance
-
-### Direct from Seed Growers
-
-Purchasing directly from seed growers or seed cleaning operations:
-
-- Growers can confirm no treatment was applied post-harvest
-- Seed cleaning operations process raw seed without adding treatments
-- May require establishing a relationship with a local grower
-
-## Testing for Fungicide Residues
-
-When uncertainty exists about seed treatment status, a simple bioassay provides definitive answers:
-
-1. Prepare a small test jar (half-size or pint jar) using the suspect seed following standard substrate preparation
-2. Inoculate with a known viable, vigorous culture ([[comparison-liquid-culture-vs-grain-spawn]] or aggressive agar strain)
-3. Maintain optimal incubation conditions (24-26°C, darkness)
-4. Observe mycelial growth over 5-7 days compared to a positive control using confirmed untreated seed
-5. If mycelium fails to colonize or shows severely inhibited growth relative to the control, the seed likely contains fungicide residues
-
-This bioassay is inexpensive and conclusive. It should be performed whenever a new seed source or batch is being evaluated.
-
-## Best Practices Summary
-
-- Always check packaging labels before purchasing seed for cultivation use
-- Reject seed with any colored coating, visible powder, or treatment markings
-- Source seed from animal feed stores or organic suppliers when possible
-- Maintain a relationship with a reliable, untreated seed supplier
-- Perform bioassays when switching to a new seed batch or source
-- Keep records of seed source, batch number, purchase date, and colonization performance
-- Never assume seed is untreated based solely on visual appearance
-- When in doubt, test before committing to a full cultivation run
-
-## Related
-
-- fungicide-treated-seed-avoidance-mushroom-substrate
-
-- [[grass-seed-substrate-preparation]]
-- [[casing-soil-sterilisation-debate-mushroom-cultivation]]
-
----
-
-*Source: Gartz et al., cultivation guid  ubstrate preparation for Psilocybe species*

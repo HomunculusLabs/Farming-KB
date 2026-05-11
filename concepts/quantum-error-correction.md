@@ -2,7 +2,8 @@
 title: "Quantum Error Correction"
 created: 2026-04-28
 updated: 2026-05-06
-sources: []
+sources:
+  - "raw/papers/terence-mckenna-food-of-the-gods.md"
 type: concept
 tags: [reference]
 ---
@@ -86,61 +87,3 @@ Its cost is a very large overhead in physical qubits.
 Topological codes store information in global features that are resistant to local perturbations.
 
 Subsystem codes reduce measurement complexity by introducing gauge degrees of freedom.
-
-Bosonic codes encode quantum information in oscillator modes rather than only in two-level qubits.
-
-Examples include cat codes, binomial codes, and Gottesman-Kitaev-Preskill codes.
-
-Error mitigation is different from quantum error correction.
-
-Mitigation tries to infer less noisy answers from noisy computations without full logical protection.
-
-Correction aims to actively maintain valid encoded quantum information during computation.
-
-## Applications and Significance
-
-Quantum error correction is required for large-scale algorithms such as Shor's factoring algorithm.
-
-It is also required for deep simulations of quantum chemistry, materials, and lattice gauge theories.
-
-Without correction, useful computations are limited by circuit depth and device noise.
-
-With correction, computations can be extended by increasing code distance and physical resources.
-
-The resource cost shapes realistic expectations for quantum advantage.
-
-Many algorithms require millions of physical qubits when error correction overhead is included.
-
-This has made architecture, decoding, and hardware efficiency central research areas.
-
-Fast classical decoding is necessary because syndrome data accumulates continuously.
-
-Control electronics must integrate with cryogenic or vacuum hardware in many platforms.
-
-Error correction also guides hardware design by defining target error rates and connectivity needs.
-
-Some qubit types are valued because they naturally suppress certain errors.
-
-Examples include biased-noise qubits, bosonic modes, and proposed topological qubits.
-
-Quantum communication also uses related ideas.
-
-Quantum repeaters need entanglement purification and error correction to extend secure links.
-
-Quantum memories require codes to store states for long periods.
-
-The field clarifies the distinction between noisy intermediate-scale quantum devices and fault-tolerant machines.
-
-It also connects practical engineering to foundational ideas about measurement and information.
-
-Quantum error correction shows that measurement can protect quantum information rather than merely destroy it.
-
-It is a conceptual bridge between fragile microscopic states and robust computational systems.
-
-## See Also
-
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
-- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
-- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
-
-Quantum error correction is not merely a repair mechanism.

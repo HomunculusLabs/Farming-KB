@@ -13,8 +13,8 @@ sources:
 
 **Elaphomyces granulatus** is a hypogeous (underground) ectomycorrhizal
 ascomycete fungus in the family Elaphomycetaceae, commonly known as the
-deer truffle. It forms subterranean fruiting bodies and relies entirely
-on animal vectors for spore dispersal, representing a unique ecological
+deer truffle. It forms subterranean [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and relies entirely
+on animal vectors for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]], representing a unique ecological
 strategy among [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]].
 
 ## Taxonomy and Distribution
@@ -22,7 +22,7 @@ strategy among [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-a
 Elaphomyces granulatus produces underground fruiting bodies (ascocarps)
 resembling small, rough-skinned potatoes. It is widely distributed
 across temperate forests of the Northern Hemisphere, forming
-ectomycorrhizal associations with various tree species, particularly
+[[ectomycorrhizal-associations]] with various tree species, particularly
 conifers and oaks. The rough, warty exterior darkens with maturity from
 light brown to nearly black, while the interior spore mass becomes
 powdery and dark brown. Unlike epigeous ectomycorrhizal species, E.
@@ -45,7 +45,7 @@ E. granulatus sporocarps as part of a study of fungal food consumed by
 red squirrels (Sciurus vulgaris). The species had relatively low
 nutritional value compared to other fungal foods:
 
-- **Protein**: 17% (vs. Lactarius deliciosus and Boletus edulis at 30%)
+- **Protein**: 17% (vs. [[lactarius-deliciosus]] and [[boletus-edulis-entity]] at 30%)
 - **Phosphorus**: 0.21% (the lowest of all species tested; L. deliciosus
   0.60%)
 - **Potassium**: 0.6% (extremely low vs. [[allegro-amanita-muscaria-properties-and-pharmacology]] at 7.9%)
@@ -86,41 +86,5 @@ reliable food source when above-ground fungi are scarce.
 ## Carbon Sequestration
 
 As an ectomycorrhizal fungus producing persistent underground fruiting
-bodies, E. granulatus contributes to carbon sequestration in forest
+bodies, E. granulatus contributes [[query-how-do-fungi-contribute-to-carbon-sequestration]] in forest
 soils. The hypogeous sporocarps persist for extended periods, slowly
-decomposing and contributing to stable soil organic matter pools.
-Hypogeous fungi are particularly significant due to the below-ground
-persistence of their fruiting bodies and slow turnover of their mycelial
-networks.
-
-## Ecological Significance
-
-Elaphomyces granulatus represents an important link between
-ectomycorrhizal fungi and mammalian food webs. Its complete dependence
-on animal vectors for spore dispersal creates a mutualistic
-relationship with mycophagous mammals, who receive food in return for
-dispersal services. The species' nitrogen immobilization strategy
-conserves nutrients within the mycorrhizal cycle, while carbon
-sequestration through persistent sporocarps contributes to long-term
-soil [[holmgren-soil-humus-carbon-storage-rebuilding]]. The dependence of forest regeneration on
-animal-dispersed ectomycorrhizal inoculum underscores the importance of
-maintaining healthy populations of mycophagous mammals.
-
-## Key Studies
-
-| Year | Researchers | Finding |
-|------|------------|---------|
-| 1978 | Fogel and Trappe | General patterns of [[dighton-fungal-nutritional-composition-animal-diets]] composition |
-| 1984 | Gronwall and Pehrson | Nutritional analysis of E. granulatus as squirrel food |
-| 1989 | Cork and Kenagy | Viable spore dispersal through rodent gut passage |
-
-## See Also
-
-- [[mycorrhiza]]
-
-- [[boletus-edulis-entity]] - epigeous ectomycorrhizal fungus with higher nutritional value
-- lactarius deliciosus - epigeous ectomycorrhizal fungus consumed by squirrels
-- tuber melanosporum - hypogeous ectomycorrhizal fungus (black truffle)
-- [[amanita-muscaria-cultural-history]] - epigeous ectomycorrhizal fungus with high potassium content
-- [[suillus-luteus]] - epigeous ectomycorrhizal fungus in pine forest ecosystems
-- Hymenogaster - hypogeous ectomycorrhizal fungus dispersed by voles and squirrels

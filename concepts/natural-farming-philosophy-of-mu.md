@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,58 +88,3 @@ observed that the age of aggressive expansion driven by growing material desires
 ending, and a new age of consolidation and convergence had arrived. Human knowledge
 and effort expand and grow increasingly complex and wasteful without limit. The
 solution is to halt this expansion, to converge, simplify, and reduce knowledge and
-effort.
-
-This is not mere passivity. Fukuoka's "do-nothing" means eliminating unnecessary
-practices, expenditures, and labor. It means telling oneself, "I don't need to do
-this, I don't need to do that." After thirty years of this process, Fukuoka had
-reduced his farming labor to essentially just sowing seed and spreading straw.
-
-## Unity of All Natural Laws
-
-Fukuoka argued that all the various laws identified by agricultural science,
-including the law of diminishing returns, the law of equilibrium, the law of
-adaptation, the law of compensation and cancellation, and Liebig's [[liebig-law-of-minimum-critique-natural-farming]],
-are merely different manifestations of a single fundamental principle. He called
-this the "Dharmic Law That All Things Return to One."
-
-All things fuse into a circle, which reverts to a point, and the point to nothing.
-To man, it appears as if something has occurred and something has vanished, yet
-nothing is ever created or destroyed. The different laws of agricultural science are
-scattered images, as seen through the prisms of time and circumstance, of this
-fundamental law. Because they all derive from the same source and were originally
-one, it is natural that they should fuse together.
-
-Fukuoka noted that these fragmentary laws cannot be reassembled into the original
-whole, any more than the pieces of a broken mirror can be reassembled into a mirror
-more perfect than the original. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] based on the application of such
-laws is thus fundamentally different from natural farming, which observes the basic
-unity of nature.
-
-## Nature as an Indivisible Whole
-
-Fukuoka insisted that nature cannot be explained, expanded upon, or understood
-through human analysis. As an organic whole, it is not subject to man's
-classifications, nor does it tolerate dissection and analysis. Once broken down,
-nature cannot be returned to its original state. All that remains is an empty skeleton
-devoid of the true essence of living nature.
-
-Nature, in Fukuoka's view, is neither living nor dead, small or large, weak or
-strong, feeble or thriving. Notions of right and wrong, good and bad, are alien to
-nature; these are distinctions invented by man. Nature maintained a great harmony
-without such notions, and brought forth the grasses and trees without the helping
-hand of man.
-
-The living, holistic biosystem that is nature cannot be dissected or resolved into
-its parts. This understanding is the starting point for all of Fukuoka's practical
-farming recommendations, from no-tillage cultivation to the elimination of
-fertilizers and pesticides. Each specific technique flows from the philosophical
-premise that human intervention is inherently destructive and that nature is
-self-sufficient.
-
-## The Spiritual Dimension
-
-For Fukuoka, natural farming was a spiritual practice and a path to what he called
-"true humanity." He described natural farming, natural diet, and natural healing as
-part of one whole, all aiming at the creation of an "ideal man" who lives in
-accordance with nature, free from the delusions created by human knowledge and the

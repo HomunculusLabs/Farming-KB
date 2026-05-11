@@ -1,7 +1,7 @@
 ---
-title: PF-TEK Mycelium Colonization Observation and Timing
+title: Pf Tek Mycelium Colonization Observation And Timing Fanaticus
 source: pf-tek-psilocybe-fanaticus.md
-author: Psilocybe Fanaticus
+author: [[pf-tek-psilocybe-fanaticus]]
 topics: mycology, cultivation, pf-tek, mycelium, colonization, incubation
 created: 2026-05-10
 ---
@@ -11,9 +11,9 @@ created: 2026-05-10
 ## Overview
 
 Mycelium colonization is the critical growth phase in the PF-TEK cultivation
-method, occurring between spore inoculation and the onset of fruiting. During
+method, occurring between [[mushroom-spore-inoculation-technique]] and the onset of fruiting. During
 this period, fungal mycelium spreads through the brown rice flour and
-vermiculite substrate, consuming nutrients and establishing the network that
+[[pf-tek-brown-rice-vermiculite-substrate]], consuming nutrients and establishing the network that
 will eventually produce fruiting bodies. Psilocybe Fanaticus (PF) documented
 detailed observation protocols and timing expectations for this phase, providing
 cultivators with benchmarks for healthy versus problematic colonization.
@@ -63,8 +63,8 @@ initial flush, but these are typically sparse and small.
 
 From spore inoculation to first harvest, the entire process takes approximately
 4 to 6 weeks under optimal conditions. This timeline assumes consistent
-temperatures, proper substrate preparation, viable spores, and a sterile
-inoculation technique. Any deviation from optimal conditions will extend this
+temperatures, proper [[bulk-substrate-preparation]], viable spores, and a sterile
+[[inoculation-technique-and-alcohol-flaming]]. Any deviation from optimal conditions will extend this
 timeline.
 
 ## Incubation Temperature
@@ -88,49 +88,3 @@ Key observations include:
 3. **Color**: Pure white indicates healthy mycelium. Any off-color (blue from
    handling is normal; green, black, or other colors indicate contamination).
 4. **Substrate appearance**: The brown rice flour substrate should gradually
-   turn white as mycelium consumes it.
-
-## Control Jar Technique
-
-PF described the control jar method to distinguish sterilization failures from
-inoculation contamination. After steam sterilization, jars are allowed to cool,
-tightened, and left uninoculated for several days. If colored growths or
-rancid odors appear, the sterilization process itself was insufficient. If the
-control jars remain clean but inoculated jars show contamination, the syringe
-or inoculation technique is at fault.
-
-## Non-Germination Diagnosis
-
-When spores fail to germinate, PF identified several common causes:
-
-- **Insufficient depth**: Spore solution absorbed by the dry vermiculite
-  barrier layer rather than reaching the substrate.
-- **Heat killing**: Jars not cooled sufficiently after sterilization, killing
-  spores on contact.
-- **Transit damage**: Syringes exposed to extreme heat during shipping.
-- **Freezing**: Extreme cold temperatures destroying spore viability.
-
-## Senescence Considerations
-
-PF-TEK uses multispore inoculation, which introduces significant genetic
-diversity. With repeated propagation from spore prints, the genetic line
-gradually weakens through senescence. PF noted that after several generations
-of spore-to-spore transfer, colonization speed decreases and fruiting quality
-diminishes. This is a natural consequence of repeated sexual reproduction
-cycles without selection pressure for vigor.
-
-## Blue Bruising vs. Contamination
-
-During colonization and handling, mycelium often bruises blue where touched or
-disturbed. This is a normal oxidative reaction in psilocybin-containing
-species and does not indicate contamination or disease. True contamination
-presents as distinctly colored patches (green mold, black pin mold, bacterial
-slime) that spread independently of the mycelial network.
-
-## See Also
-
-- [[pf-tek-contamination-prevention-and-troubleshooting]]
-- [[pf-tek-non-germination-troubleshooting]]
-- [[pf-tek-fruiting-and-harvesting]]
-- [[pf-tek-control-jar-sterility-verification]]
-- [[pf-tek-substrate-formula-and-preparation]]

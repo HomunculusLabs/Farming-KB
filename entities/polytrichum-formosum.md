@@ -87,39 +87,3 @@ Populations have declined in parts of Central Europe where industrial pollution 
 The species shows moderate heavy metal tolerance and has been studied for its bioaccumulation capacity in contaminated forest soils.
 
 ## Traditional Uses and Applications
-
-The robust, leathery leaves and dense growth form of *P. formosum* made it useful for traditional basketry and packing material in some European regions.
-
-The species has been used in decorative moss arrangements and as a ground cover in shaded woodland gardens.
-
-In Scandinavian countries, *Polytrichum* species were historically collected as pillow and mattress stuffing alongside *Sphagnum* and *Leucobryum*.
-
-The moss has been investigated for its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]], with extracts showing moderate activity against certain bacteria and fungi.
-
-Like other Polytrichaceae, it has been studied for its unique water-conducting anatomy, contributing to understanding of early land plant evolution.
-
-The distinctive hairy calyptra makes it a popular specimen for bryological education and field identification courses.
-
-## Cultivation and Conservation
-
-*Polytrichum formosum* can be cultivated in shaded outdoor beds with acidic to neutral soil and consistent moisture.
-
-Propagation is most successful through transplantation of intact tufts with attached soil and rhizoids, as spore culture is slow.
-
-Optimal conditions include dappled shade, moderate humidity, and temperatures between 10–20 °C.
-
-The species is not considered threatened globally, though local populations have been impacted by air pollution and habitat disturbance.
-
-In Central Europe, recovery has been observed in areas where industrial emissions have been reduced since the late 20th century.
-
-Forest management practices that maintain diverse canopy structure and preserve decaying wood benefit *P. formosum* populations.
-
-Conservation recommendations include retaining woody debris and undisturbed humus layers in managed forests.
-
-## See Also
-
-- [[hypnum-cupressiforme]]
-- [[dicranum-scoparium]]
-- [[thuidium-delicatulum]]
-- [[aulacomnium-palustre]]
-- [[leucobryum-glaucum]]

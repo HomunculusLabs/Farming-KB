@@ -88,14 +88,3 @@ among the most potent inducers, reducing substrate AUC >90%.
 CYP11A1 (P450scc): cholesterol cleavage to pregnenolone (rate-limiting).
 CYP17A1: 17alpha-hydroxylase/17,20-lyase. CYP21A2: 21-hydroxylase; deficiency
 causes congenital adrenal hyperplasia (~1:15,000). CYP11B1/B2:
-cortisol/aldosterone synthesis. CYP19A1 (aromatase): androgen to estrogen
-conversion; targeted by aromatase inhibitors (letrozole, anastrozole) in breast
-cancer. CYP1B1: genotoxic estradiol 4-hydroxylation.
-
-## Nomenclature and Industrial Applications
-
-CYP nomenclature (Nelson): CYP + Family (>=40% identity) + Subfamily (>=55%) +
-Gene + Allele (*numeral, e.g., CYP2D6*4). Duplications: xN. Over 800 families
-across species; 18 in humans.
-
-Applications: bioremediation (CYP101 oxidizes [[cytochrome-p450-enzyme-system]]

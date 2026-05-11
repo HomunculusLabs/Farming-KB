@@ -18,11 +18,11 @@ type: concept
 
 The interaction between [[biodiversity-rust-fungi-urediniomycetes]] and their host plants
 represents one of the most intensively studied examples of
-coevolutionary arms races in biology. As rust fungi evolve new
+coevolutionary arms races in biology. As [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]] evolve new
 strategies for infecting crop plants, the plants counter with
-refined defense mechanisms. The most dramatic of these plant
+refined [[plant-defense-mechanisms]]. The most dramatic of these plant
 defenses is the hypersensitive response, a form of programmed
-cell death that sacrifices a small patch of tissue to contain
+[[blesching-cannabis-apoptosis-and-cancer-cell-death]] that sacrifices a small patch of tissue to contain
 the invading pathogen. Understanding this molecular battle has
 profound implications for global food security.
 
@@ -31,7 +31,7 @@ profound implications for global food security.
 When a rust spore lands on a resistant variety of wheat or
 other cereal crop, the story unfolds very differently from an
 infection of a susceptible plant. The uredospore germinates
-normally, sending out a germ tube that locates a stoma and
+normally, sending out a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] that locates a stoma and
 forms an appressorium over the opening. A penetration hypha
 enters the leaf and begins to establish itself between the
 cells. At this point, the resistant plant mounts its defense.
@@ -53,10 +53,10 @@ programmed into the plant's genome. By killing its own cells
 around the infection site, the plant deprives the fungus of
 living cytoplasm, which is its sole source of nutrients. Rust
 fungi feed through haustoria, specialized absorptive organs
-that penetrate plant cell walls and draw nutrients from the
+that penetrate plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and draw nutrients from the
 living cytoplasm without killing the cell outright. When the
 plant cell dies, the haustorium is left sucking from an empty
-vessel, and the fungal mycelium can spread no further.
+vessel, and the [[fungal-mycelium-hyphae-and-the-feeding-phase]] can spread no further.
 
 This strategy is remarkably effective because it is localized.
 Only a handful of cells are sacrificed, leaving the rest of the
@@ -87,54 +87,3 @@ Puccinia graminis encompasses a number of special races called
 formae speciales that target particular crops. Within each
 forma specialis, there is further specialization: not all
 varieties of a crop species are equally susceptible to infection.
-
-The situation is complicated by the sexual recombination that
-occurs on the barberry alternate host. [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
-shuffles the fungal genes into novel combinations with each
-generation, producing new races that may overcome existing
-plant resistance. The eradication of barberry from wheat-growing
-regions was motivated in part by the desire to slow this
-evolutionary arms race by eliminating the sexual stage of the
-rust [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
-
-## Plant Breeding for Rust Resistance
-
-Plant breeders select for resistant crops by exposing varieties
-to different races of rust in controlled environments and
-identifying those that mount an effective hypersensitive response.
-This process can be informed by basic research on the molecular
-interactions between the fungus and the plant. Understanding
-how rusts recognize the microscopic topography of a leaf surface
-to locate stomata, for instance, makes leaf roughness a
-potentially important character for selection in the greenhouse.
-
-The challenge for breeders is that resistance is often specific
-to particular rust races. A wheat variety that is resistant to
-one race of Puccinia graminis may be completely susceptible to
-another. This specificity means that new resistant varieties
-must be developed continually as the rust population evolves.
-The timeline from breeding to commercial deployment can take
-years or even decades, during which the pathogen may already
-have evolved countermeasures.
-
-## Genetic Engineering and Antifungal Defense
-
-Rather than embarking on years of selective breeding, many plant
-biotechnologists are exploring the prospect of direct genetic
-engineering of crop plants with built-in antifungal defenses.
-The dream is to create mutant plants whose epidermal cells
-produce fungicides, effectively turning every cell on the leaf
-surface into a chemical weapons factory directed against
-invading fungi. Other approaches include engineering plants to
-express enhanced versions of the hypersensitive response, making
-them able to detect and respond to a broader range of pathogen
-signals.
-
-The potential benefits of such approaches are significant.
-Crops with built-in antifungal defenses could reduce or
-
-## See also
-
-- [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]
-- [[bloomfield-potato-blight-phytophthora-infestans]]
-- [[bloomfield-coffee-rust-and-crop-pathogens]]

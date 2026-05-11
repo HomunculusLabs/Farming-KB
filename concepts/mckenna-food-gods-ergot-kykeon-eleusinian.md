@@ -87,38 +87,3 @@ culminating in epileptic-like convulsions and delirium. McKenna asks
 the critical question: if the source of the [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] was
 ergotized beer, how could it have been taken for so many centuries
 without unpleasant side effects becoming part of the legend?
-
-## Possible Resolutions
-
-McKenna identifies two possible solutions to the toxicity problem.
-First, *Claviceps paspali*, which preferentially infects barley rather
-than rye, may contain a higher proportion of the psychoactive but less
-toxic simple ergot alkaloids, similar to those found in morning
-glories, and a lower proportion of the toxic peptide-containing ergot
-alkaloids. Second, as Wasson and Hofmann reported in *The Road to
-Eleusis*, macerating the ergotized grain in water would effectively
-separate the water-soluble psychoactive alkaloids from the fat-soluble
-toxic alkaloids.
-
-Despite these possibilities, McKenna notes that as of his writing, no
-one had subjected the Wasson-Hofmann theory to what he calls the "acid
-test": the actual brewing of a reliable hallucinogen from cereal grain
-infected with ergot. Until this is done, the theory remains "well-argued
-speculation."
-
-## Relationship to Graves's Psilocybin Theory
-
-McKenna presents the ergot theory and Graves's psilocybin theory as
-complementary rather than mutually exclusive. He suggests that if future
-research were to rule out ergot, then Graves's insistence that
-[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] constituted the Mystery would need to be taken
-very seriously. Both theories share the fundamental assumption that the
-Eleusinian experience was pharmacologically mediated, a premise that
-McKenna considers well-established by the accounts of initiates and the
-historical evidence of the sacrament's tangible nature.
-
-## See Also
-
-- [[eleusinian-mysteries]]
-- [[mckenna-food-gods-fall-consciousness]]
-- [[mckenna-food-gods-partnership-dominator]]

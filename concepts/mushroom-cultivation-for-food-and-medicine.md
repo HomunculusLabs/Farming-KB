@@ -1,5 +1,5 @@
 ---
-title: Mushroom Cultivation for Food and Medicine
+title: Mushroom Cultivation For Food And Medicine
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -19,7 +19,7 @@ year-round in unused spaces like basements, closets, or spare rooms.
 
 ## Basic Biology
 
-Cultivated mushrooms are the fruiting bodies of fungi in the Basidiomycota
+[[fungi-cultivated-mushrooms-pathogens-competitors]] are the fruiting bodies of fungi in the Basidiomycota
 division. The fungal organism itself (mycelium) is a network of thread-like
 hyphae that colonizes a substrate (food source). When environmental conditions
 are right, the mycelium forms mushrooms (fruiting bodies) that produce spores
@@ -44,7 +44,7 @@ for reproduction.
 4. **Incubate** -- keep in a warm (70-75F/21-24C), dark place while mycelium
    colonizes the substrate (2-4 weeks)
 5. **Initiate fruiting** -- introduce fresh air, light, and high humidity
-   (90-95%) to trigger mushroom formation
+   (90-95%) to trigger [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]]
 6. **Harvest** -- pick mushrooms just before the cap fully expands for best
    texture and before spores drop
 
@@ -71,9 +71,9 @@ productive on straw.
 | Species | Substrate | Difficulty | Notes |
 |---------|-----------|------------|-------|
 | Oyster ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) | Straw, sawdust, coffee grounds | Easy | Fast grower, forgiving |
-| Shiitake (Lentinula edodes) | Hardwood logs, sawdust blocks | Moderate | Best flavor from log-grown |
-| Button (Agaricus bisporus) | Composted manure | Moderate | Most common commercial |
-| Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) | Sawdust | Moderate | Medicinal properties |
+| Shiitake ([[lentinula-edodes]]) | Hardwood logs, sawdust blocks | Moderate | Best flavor from log-grown |
+| Button ([[agaricus-bisporus]]) | Composted manure | Moderate | Most common commercial |
+| Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) | Sawdust | Moderate | [[panax-ginseng]] |
 | Reishi ([[ganoderma-lucidum]]) | Hardwood sawdust | Moderate-Adv. | Medicinal, woody texture |
 | Wine Cap ([[stropharia-rugosoannulata]]) | Wood chips, straw | Easy | Outdoor garden beds |
 | King Stropharia | Straw/wood chip mulch | Easy | Great for garden integration |
@@ -88,62 +88,3 @@ Mushrooms are rich in:
 - Beta-glucans (immune-stimulating polysaccharides)
 - Ergothioneine (antioxidant)
 - Vitamin D2 (when exposed to UV light -- expose gills to sunlight before
-  eating)
-
-## Substrate Preparation and Pasteurization
-
-Proper substrate preparation is the single most important factor in successful
-mushroom cultivation. The goal is to create a medium that is nutritionally
-available to the target fungus while suppressing competitor organisms.
-
-**Pasteurization** (not full sterilization) is sufficient for most substrates
-used in small-scale cultivation:
-
-- Hot water bath method: Submerge straw or wood chips in water heated to
-  160-170F (71-77C) for 1-2 hours, then drain and cool
-- Steam pasteurization: Expose substrate to steam for 8-12 hours in a sealed
-  container or barrel
-- Hydrated lime method: Soak straw in a calcium hydroxide solution (pH 12-13)
-  for 12-18 hours, then drain; the high pH kills most competitors
-
-**Full sterilization** is required for supplemented sawdust blocks:
-
-- [[comparison-pressure-canning-vs-water-bath-canning]] at 15 PSI for 90-120 minutes
-- Autoclave treatment for commercial operations
-- Essential when adding nitrogen supplements (bran, grain) that attract
-  competitors
-
-The [[mushroom-substrate-preparation]] process must balance thoroughness with
-practicality. Over-sterilization can create substrate degradation, while
-under-preparation leads to contamination losses.
-
-## Contamination Prevention and Management
-
-Contamination is the most common challenge for beginning mushroom cultivators.
-Prevention strategies include:
-
-- **Clean workspace**: Work in a sanitized area, ideally with a still air box
-  or laminar flow hood for spawn transfer
-- **Hygiene**: Wash hands and forearms thoroughly; wear gloves and a face mask
-  during inoculation
-- **Spawn quality**: Use only vigorous, clean spawn from reputable suppliers;
-  avoid old or contaminated spawn
-- **Substrate quality**: Use fresh, uncontaminated substrate materials; avoid
-  moldy straw or wet sawdust
-- **Environmental control**: Maintain proper [[greg-green-temperature-and-humidity-control]] during
-  incubation to favor the target species over competitors
-
-Common contaminants include Trichoderma (green mold), Coprinus (ink caps),
-and various bacteria that cause souring of the substrate. Early detection and
-removal of contaminated material prevents spread to healthy blocks or bags.
-
-## Medicinal Mushroom Processing
-
-Many cultivated mushrooms have documented medicinal properties. Proper
-processing preserves bioactive compounds:
-
-**Drying**: Slice fresh mushrooms thinly and dry at 90-110F (32-43C) with
-## See Also
-
-- [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]

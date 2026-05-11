@@ -87,15 +87,3 @@ Accurate identification requires [[fungal-microscopic-examination-mounting-media
 psilocybe natmansii was first identified as a distinct taxon during systematic surveys of European [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] conducted by Dutch mycologists in the late 20th century. These surveys, which also documented species such as psilocybe-hispanica, helped establish the diversity of psilocybin-containing species in European grasslands. The species has been confirmed by DNA barcoding in modern collections, validating its status as a genuine taxon rather than a morphological variant of more common species.
 
 ## Life Cycle and Seasonality
-
-psilocybe natmansii follows the general life cycle pattern of grassland Psilocybe species. Spores germinate in the soil, forming mycelium that grows through the root zone of grasses. The mycelium can persist in soil for extended periods, forming a symbiotic network with grass roots and soil microorganisms. Fruiting occurs when environmental conditions are favorable, particularly following cool, wet periods in late summer and autumn.
-
-The species typically fruits in scattered individuals or small groups rather than in the large clusters characteristic of wood-inhabiting species. Individual mushrooms are short-lived, typically lasting 3 to 7 days depending on weather conditions. Successive flushes can occur over a period of several weeks if favorable conditions persist.
-
-## Toxicology and Safety
-
-psilocybe natmansii is not known to be physically toxic, though it contains the psychoactive compounds [[psilocin]]. As with all [[edible-wild-mushrooms-by-region]], accurate identification is essential to avoid confusion with potentially dangerous species. The small size and grassland habitat of P. natmansii mean it could potentially be confused with species of [[psilocybe-semilanceata]] may require larger doses for comparable effects. Typical effects include alterations in visual perception, changes in the perception of time and space, enhanced emotional sensitivity, and philosophical or spiritual insights. The onset of effects occurs 20 to 60 minutes after ingestion, with peak effects at 2 to 3 hours and a total duration of 4 to 6 hours.
-
-## Legal Status
-
-As a psilocybin-containing species, psilocybe natmansii is controlled in most jurisdictions. In the Netherlands, the sale of fresh psilocybin mushrooms was prohibited following legislation in 2008, though the legal status of naturally occurring specimens found in the wild remains ambiguous in some European countries. Under the UN Convention on Psychotropic Substances of 1971, [[psilocin]] are Schedule I substances.

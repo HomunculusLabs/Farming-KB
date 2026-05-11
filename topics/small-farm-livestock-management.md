@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - chicken-keeping-basics.md
   - chicken-tractor-systems.md
   - poultry-systems-in-permaculture.md

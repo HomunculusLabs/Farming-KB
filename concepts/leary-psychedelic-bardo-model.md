@@ -87,14 +87,3 @@ The manual provides detailed descriptions of each Second Bardo vision type, offe
 7. **The Magic Theatre**: Visions of specific scenes, memories, fantasies, or symbolic narratives that can feel intensely real. The instruction is to remember that "you are the director, the producer, and all the actors in this drama."
 
 ## Contemporary Relevance and Scientific Validation
-
-Modern neuroscience has begun to confirm several of Leary's key insights. Research on the [[psychedelic-mushroom-set-and-setting]] in clinical trials at institutions like Johns Hopkins, Imperial College London, and Usona Institute draw directly on principles Leary articulated: careful preparation, a safe and aesthetically pleasing environment, trained guides or therapists, and integration of the experience afterward. The terminology has shifted — "guide" became "therapist," "session" became "treatment," "re-entry" became "integration" — but the underlying model of the psychedelic experience as a structured journey through distinct phases remains recognizably Leary's.
-
-## See Also
-
-- [[leary-psychedelic-manual-approach]]
-- [[psychedelic-set-and-setting]]
-- [[psilocybin-and-mystical-experience]]
-- [[psychedelic-consciousness-models]]
-- [[herbal-medicine]]
-- [[psychedelic-spirituality-and-religion]]

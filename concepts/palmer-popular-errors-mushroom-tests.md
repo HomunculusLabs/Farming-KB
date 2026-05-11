@@ -10,7 +10,7 @@ type: concept
 
 # Palmer on Popular Mushroom Tests and Errors
 
-One of Julius Palmer's most persistent campaigns was against the
+One of [[julius-palmer]]'s most persistent campaigns was against the
 various "tests" and "rules" that the public believed could distinguish
 [[palmer-edible-mushrooms-north-america]] from poisonous ones. He declared unequivocally that
 "no test of any kind, in form, shape, color, basis of growth, or
@@ -34,7 +34,7 @@ The tradition of stirring mushrooms with a silver spoon and discarding
 them if the spoon darkened was, Palmer argued, based on a
 misunderstanding. Mushrooms decay rapidly; a fair, solid fungus quickly
 becomes honeycombed with maggots, and on a warm day the cells are
-charged with the vapor of decomposition. When such mushrooms are boiled,
+charged with the vapor of [[decomposition]]. When such mushrooms are boiled,
 sulphuretted hydrogen or other noxious gases are liberated, darkening
 the silver. This correctly indicates decomposition — but not specifically
 fungal poisoning. "It is the same with fish at sea," Palmer noted.
@@ -88,49 +88,3 @@ bruised. Palmer noted that several esculent Agarics turned red when
 bruised, and many edible Boleti changed color dramatically. The
 "dying dolphin of the ocean" analogy — a poetic reference to the way
 some fungi shift through vivid colors when cut — showed how unreliable
-color change was as an indicator of danger.
-
-## Palmer's Proposed Alternative
-
-Palmer argued that the only reliable approach was the same common
-sense applied to every other department of knowledge. Just as there was
-no infallible test for distinguishing poisonous berries from currants,
-one must learn the individual characteristics of each species — their
-habits, color, size, smell, taste, and general appearance — just as
-well as one knew ordinary kitchen vegetables.
-
-He proposed that the cultivation of perceptive faculties was the key.
-The ability to distinguish fungi was a skill acquired through practice,
-like a jeweler detecting a tawdry imitation at a glance. "No one should
-attempt to gather mushrooms who has not the power to fix in his mind
-the exact characteristics of any specimen," he wrote.
-
-## Harm of Perpetuated Errors
-
-Palmer considered these false tests not merely harmless folklore but
-actively dangerous. They gave people false confidence, leading them to
-eat fungi they should have avoided or to reject wholesome varieties. He
-noted that leading magazines had published articles condensed from
-mycological books by professional writers who were ignorant of their
-subject, weaving in "signs and tests which are utterly absurd."
-
-Palmer also traced how these errors originated in the peculiar nature
-of the one cultivated species. Since the common mushroom happened to
-peel, happened to have pink gills, happened to grow in pastures, and
-happened to leave a silver spoon bright, people erroneously reversed
-these observations into universal rules — failing to recognize that
-these were merely the characteristics of one species among a thousand.
-
-He lamented that even European charts sent from Harvard showed "the old,
-worthless traditions and signs to enable one to tell a mushroom from a
-toadstool." The curse of mycology, he declared, had always been
-tradition perpetuated by those who wrote without personal acquaintance
-with a single toadstool.
-
-See also: mushroom-identification,
-[[ramsbottom-poisonous-fungi-identification-guide]]
-
-## See Also
-
-- mushroom-identification-myth-infallible-tests
-- [[palmer-mushroom-vs-toadstool-terminology]]

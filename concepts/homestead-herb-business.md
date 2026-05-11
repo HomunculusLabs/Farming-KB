@@ -27,11 +27,11 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 ### Medicinal Herbs (Higher Margin, Niche Market)
 - Chamomile: calming tea, easy to grow, high demand
 - Echinacea: immune support, popular tincture ingredient
-- Lemon balm: calming, easy to grow, perennial
-- Calendula: skin healing, salves, infused oils, annual
+- [[comparison-echinacea-vs-lemon-balm]]: calming, easy to grow, perennial
+- Calendula: skin healing, salves, [[blesching-cannabis-tinctures-infused-oils-topical-preparations]], annual
 - Peppermint: digestive, tea, tincture
 - Yarrow: wound healing, fever reduction, perennial
-- Holy basil (tulsi): adaptogen, growing popularity
+- [[holy-basil-tulsi-guide]] (tulsi): adaptogen, growing popularity
 - Valerian: sleep aid, root harvest, perennial
 - Elderberry: syrup, immune support, shrub
 
@@ -53,8 +53,8 @@ Start with 5-8 varieties. Recommended starter mix:
 - Most herbs prefer well-drained soil and full sun (6+ hours)
 - Perennial herbs: plant once, harvest for years
 - Annual herbs: succession plant every 2-3 weeks for continuous harvest
-- Container growing: excellent for mint (containment) and annuals
-- Integrate into [[food-forest-design|food-forest]] and [[food-forest-design|plant-systems]] designs
+- [[container-growing-vegetables-herbs]]: excellent for mint (containment) and annuals
+- Integrate into [[food-forest-design]] and [[food-forest-design]] designs
 
 ### Harvest Timing
 - Harvest culinary herbs just before flowering (peak oil content)
@@ -79,7 +79,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Oven drying: lowest setting with door propped open. Less ideal -- easy to over-dry.
 - Herbs are dry when stems snap and leaves crumble.
 - Store in airtight glass jars away from light and heat.
-- Shelf life: 1 year for leaves, 2 years for roots/seeds.
+- [[ingham-aact-holding-time-shelf-life-decay]]: 1 year for leaves, 2 years for roots/seeds.
 
 ### Tinctures
 - Alcohol tincture: pack dried herb in jar, cover with 80-100 proof vodka or everclear
@@ -95,7 +95,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio by weight)
 - Heat gently until beeswax melts
 - Pour into tins or jars
-- Add essential oils (optional) after cooling slightly
+- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (optional) after cooling slightly
 - Shelf life: 1-2 years
 
 ### Tea Blends

@@ -1,5 +1,5 @@
 ---
-title: Fungal Degradation of Explosives and Nitroaromatics
+title: Staycare Fungal Degradation Of Explosives And Nitroaromatics
 created: 2026-04-28
 tags: [bioremediation, explosives, nitroaromatics, TNT, fungal-degradation]
 date: 2026-04-25
@@ -40,7 +40,7 @@ peroxidase (LiP) activity, though this is caused by metabolites rather
 than TNT itself. Hydroxylamino intermediates are the actual LiP inhibitors.
 [[fungal-manganese-peroxidase-remediation]] (MnP) production is also suppressed by TNT, and MnP
 may not be essential for TNT degradation in P. chrysosporium. These
-inhibition effects complicate the use of ligninolytic fungi for TNT
+inhibition effects complicate the use [[biochemistry-of-ligninolytic-fungi-bioremediation]] for TNT
 bioremediation, as the very enzymes that could degrade the compound are
 suppressed during the process.
 
@@ -48,9 +48,9 @@ suppressed during the process.
 
 Phlebia radiata degrades both TNT and 2-amino-4,6-dinitrotoluenes
 (22% and 76%, respectively), suggesting potential for munitions-contaminated
-site remediation. Pleurotus ostreatus and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] degrade TNT
-in solid-state systems. The brown rot fungus Gloeophyllum trabeum
-transforms 50 ppm TNT to below detection limits within 3 days and can grow
+site remediation. [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] and [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] degrade TNT
+in solid-state systems. The brown rot fungus [[gloeophyllum-trabeum]]
+transforms 50 ppm TNT to below [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]] within 3 days and can grow
 with TNT concentrations exceeding 40 mg/l, showing greater tolerance than
 P. chrysosporium. Nematoloma frowardii MnP degrades amino-dinitrotoluene
 to carbon dioxide in the presence of reduced glutathione.
@@ -61,7 +61,7 @@ Dinitrotoluenes contaminate sites from TNT manufacturing and propellant
 production. P. chrysosporium degrades 2,4-dinitrotoluene through a
 reductive pathway yielding 2-amino-4-nitrotoluene, with subsequent
 elimination of the amine group as ammonium and the nitro group as nitrite.
-Ceratocystis coerulescens, Lentinus lepideus, and Trichoderma harzianum
+Ceratocystis coerulescens, Lentinus lepideus, and [[trichoderma-harzianum]]
 also degrade dinitrotoluene, with C. coerulescens and T. harzianum
 degrading it more rapidly and completely. Lignolytic conditions favour
 rapid and complete degradation.
@@ -88,44 +88,3 @@ protein-nitric oxide complexes detected in mycelial samples. A glutathione
 transferase-like system was proposed for nitrite evolution from GTN.
 
 ## NTO (5-Nitro-1,2,4-triazol-3-one)
-
-NTO is a modern [[fungal-explosive-compound-degradation]]. Penicillium sp. isolated from
-contaminated waste transforms NTO to 5-amino-1,2,4-triazol-3-one (ATO)
-via nitro group reduction. All tested fungi catalyzed this initial
-reduction, though further transformation of ATO was limited to bacterial
-systems. Whether P. chrysosporium can degrade ATO further remains under
-investigation.
-
-## Composting Applications
-
-Composting has been used as a full-scale treatment process for
-explosives-contaminated soils and sludges. Fungi play a vital role in
-composting treatment processes. [[fungal-degradation-energetic-compounds-detailed]] including HMX, TETRYL,
-nitroguanidine, and PETN have been treated in mixed wastes via composting.
-Energetic compounds are reductively transformed and often become tightly
-bound to organic fractions of the composts. Laccase-mediated coupling
-products between TNT metabolites and humic substances have been
-characterized, providing models for pollutant immobilization in soil
-organic matter. The reversibility of this binding and the bioavailability
-of compost-bound residues remain subjects of ongoing investigation.
-
-## Full-Scale Applications
-
-P. chrysosporium cultures immobilized on rotating biological contactor
-discs have effectively treated TNT waste streams (pink water), removing
-both TNT and RDX to allowable limits. Batch reactor studies have also
-demonstrated utility of P. chrysosporium for TNT removal. These successes
-highlight the potential for scaling fungal treatment systems for military
-and industrial explosive waste remediation, though consistent inoculum
-delivery remains a challenge for field deployment.
-
-## See Also
-
-- [[staycare-fungal-degradation-of-pcbs-and-dioxins]]
-
-- [[staycare-fungal-degradation-of-ddt-and-organochlorine-insecticides]]
-- [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]]
-
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[staycare-solid-state-fermentation-for-bioremediation]]
-- [[fungal-degradation-explosives-tnt-rdx]]

@@ -5,6 +5,7 @@ tags: [homesteading, soap-making, natural-cleaning, body-care, permaculture, sel
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - soap-making-guide.md
   - permaculture-designers-manual-soap-making.md
   - permaculture-designers-manual-soap-candle-making.md

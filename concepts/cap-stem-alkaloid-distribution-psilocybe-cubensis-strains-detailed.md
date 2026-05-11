@@ -2,9 +2,9 @@
 
 ## Overview
 
-The distribution of psilocybin and psilocin between the cap (pileus) and stem
-(stipe) of Psilocybe cubensis is not uniform and varies significantly between
-strains. Bigwood and Beug (1982) analyzed cap and stem tissue separately in
+The distribution of [[hplc-analysis-of-psilocybin-and-psilocin]] between the cap (pileus) and stem
+(stipe) of [[psilocybe-cubensis]] is not uniform and varies significantly between
+strains. Bigwood and Beug (1982) analyzed [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] tissue separately in
 three different strains and found distinct patterns of alkaloid partitioning
 that have implications for both users and researchers studying fungal
 alkaloid biosynthesis.
@@ -88,48 +88,3 @@ different ratio of psilocybin to psilocin than whole-mushroom consumers.
 **Strain identification.** The cap-stem distribution pattern could serve as
 a crude chemical fingerprint for strain identification, complementing
 morphological characteristics.
-
-**[[amanita-preparation-methods]].** Drying and grinding practices that homogenize the
-whole mushroom will average out cap-stem differences, while consuming
-separated tissue will expose users to the specific alkaloid profile of that
-tissue type.
-
-**[[mckenna-baconian-exploration-tryptamine-research-methodology]].** Studies reporting alkaloid content should specify
-whether analysis was performed on whole mushrooms, caps only, or stems only,
-as this significantly affects reported concentrations and comparisons
-between studies.
-
-## Relationship to Flush-Dependent Variation
-
-The cap-stem distribution data was collected from first-flush specimens,
-where psilocin levels are at or near zero. It is unknown whether the
-cap-stem distribution pattern changes across subsequent flushes as psilocin
-accumulates. If psilocin biosynthesis occurs primarily in the stem (as the
-first-flush data suggests for M.R. and Equadorian strains), the cap-stem
-ratio may shift toward the stem in later flushes as total psilocin
-increases.
-
-This question has implications for understanding the spatial organization of
-the [[psilocybin-biosynthetic-metabolic-pathway]] pathway within the basidiocarp and the
-mechanism by which psilocin accumulates with successive flushes.
-
-## Analytical Methodology
-
-All analyses were performed using reversed-phase HPLC calibrated against
-National Institute on Drug Abuse standards, with qualitative confirmation by
-TLC. Samples were freeze-dried, sealed in plastic, and stored at -5°C until
-analysis to preserve alkaloid integrity.
-
-## See Also
-
-- [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- psilocin psilocin variation across flushes
-- [[psilocybe-cubensis-flush-variation]]
-- [[psilocybin-psilocin-biosynthetic-timing-first-flush-absence]]
-- [[hplc-analysis-of-psilocybin-and-psilocin]]
-
-## Sources
-
-- Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin and psilocin
-levels with repeated flushes of Psilocybe cubensis. *J. Ethnopharmacol.*,
-5, 287-291.

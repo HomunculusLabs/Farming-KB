@@ -87,28 +87,3 @@ Indoor tank culture using artificial seawater and LED lighting has produced cons
 Dictyota dichotoma is the type species of the genus Dictyota, which contains approximately 40 accepted species worldwide. Several congeners are morphologically similar and frequently confused in field identifications.
 
 Dictyota menstrualis is a closely related Atlantic species distinguished by its slightly wider fronds and more irregular branching pattern. It produces a similar but distinct diterpenoid profile dominated by dolastane-type compounds.
-
-Dictyota cervicornis is a tropical Indo-Pacific species found in reef flat environments. It tends to be smaller and more delicate than D. dichotoma, with narrower branch segments and a lighter brown colouration.
-
-Dictyota ciliolata occurs sympatrically with D. dichotoma across much of its range and is differentiated by the presence of marginal cilia (hair-like projections) along the thallus edges. These cilia are visible under magnification but not to the naked eye.
-
-## Research Significance
-
-Dictyota dichotoma has become a model organism for studying chemical ecology in marine brown algae. Its prolific production of defensive diterpenes makes it an ideal system for investigating plant-herbivore coevolution.
-
-The species has contributed significantly to the field of marine natural products chemistry. Several of its diterpenoids were among the first marine secondary metabolites to have their absolute configurations determined by X-ray crystallography.
-
-[[dighton-fungi-climate-change-feedback]] research has identified D. dichotoma as a potential indicator species for warming oceans. Its range has been expanding northward in the northeast Atlantic over recent decades, consistent with rising sea surface temperatures.
-
-Recent transcriptomic studies have begun to elucidate the biosynthetic pathways responsible for diterpenoid production. Understanding these pathways could enable sustainable production of valuable metabolites through biotechnological approaches.
-
-## See Also
-
-- [[sargassum-fusiforme]]
-- [[saccharina-latissima]]
-- [[fucus-serratus]]
-- [[chondrus-crispus]]
-- [[undaria-pinnatifida]]
-- [[porphyra-umbilicalis]]
-- [[caulerpa-lentillifera]]
-- bioactive compounds

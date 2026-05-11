@@ -88,21 +88,3 @@ For pure stands of runner-type grasses where individual plants cannot be detecte
 All managed lands require annual landscape monitoring—farms, ranches, forests, national parks. This annual check assesses progress toward the landscape goal and detects trends that may require management adjustment.
 
 The monitoring notes used with this technique are constantly being improved to incorporate simpler and more practical methods for measuring change, recognizing that field-level operators usually lack the time or training for full academic studies.
-
-## The Cost of Not Monitoring
-
-By the time species have changed or costs of external inputs have risen to maintain production once achieved without them, significant change has already occurred in all four ecosystem foundation blocks. Early detection through simple soil surface monitoring can prevent costly and sometimes irreversible damage.
-
-## Sources
-
-- Savory, Allan. *Holistic Resource Management*, Chapter 41. Island Press, 1988.
-- *Holistic Resource Management Workbook*. Center for Holistic Resource Management.
-
-## See Also
-
-- permaculture-designers-manual-grazing-management
-- [[livestock-fencing-guide]]
-- [[glomalin-and-soil-carbon]]
-- [[savory-land-planning-and-grazing-cell-design]]
-- [[savory-holistic-resource-management-biological-monitoring]]
-- [[savory-erosion-and-land-deterioration]]

@@ -88,25 +88,3 @@ The species is not cultivated commercially. Its rapid deliquescence makes it imp
 *Parasola plicatilis* is not commercially cultivated due to its minute size, fragile constitution, and rapid autodeliquescence. It has no recognized culinary or economic value as a cultivated species.
 
 Laboratory fruiting has been achieved on sterilized soil and compost-based substrates under controlled humidity and temperature. Colonization is rapid, typically completing within 7–10 days, but fruiting requires very high ambient humidity (95%+) and occurs unpredictably.
-
-The species has been used as a model organism in studies of fungal deliquescence and autodigestion. Its rapid transition from mature fruiting body to spore-laden fluid makes it useful for investigating programmed cell death in basidiomycete gill tissue.
-
-## Bioactive Compounds
-
-Limited chemical investigation has been conducted on *Parasola plicatilis* due to its small size and lack of economic importance. The species is not known to contain significant bioactive metabolites.
-
-Coprinoid mushrooms in the broader Psathyrellaceae have been investigated for various compounds including antimicrobial peptides, phenolic antioxidants, and lectins. However, specific studies isolating compounds from *P. plicatilis* are absent from the literature.
-
-The black, deliquescent fluid produced during spore maturation contains melanized spores and dissolved gill tissue. This fluid has not been investigated for biological activity but is presumed to be primarily composed of degraded proteins, carbohydrates, and pigment residues.
-
-## See Also
-
-- [[coprinus-atramentaria]]
-- [[pleurotus-ostreatus]]
-- [[calvatia-gigantea]]
-- [[panaeolus-cambodginiensis]]
-- conocybe
-- coprinopsis
-- [[lepista-nuda]]
-- [[armillaria-mellea-entity]]
-- [[stropharia-rugosoannulata]]

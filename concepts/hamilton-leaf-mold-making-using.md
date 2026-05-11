@@ -88,25 +88,3 @@ of fully mature garden compost.
 Avoid collecting leaves that show signs of serious disease, as fungal
 pathogens may survive the composting process and be returned to the
 garden. Leaves from diseased roses or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] should be burned
-rather than composted.
-
-If space is limited, leaf mold can be made in plastic bags. Fill
-perforated black plastic sacks with damp leaves, tie them closed, and
-leave them in a sheltered spot. This method actually accelerates
-decomposition because the plastic retains moisture and warmth.
-
-For faster results, run a lawnmower over the leaves before piling them.
-Shredded leaves have far more surface area exposed to fungal attack and
-will break down considerably faster than whole leaves. This simple step
-can reduce the waiting time by half or more.
-
-## Summary
-
-Leaf mold is a slow but supremely rewarding form of organic matter. It
-requires minimal effort — simply collect autumn leaves, pile them in a
-simple enclosure, and wait. The resulting material is among the finest
-soil conditioners available, providing excellent structure, moisture
-retention, and a perfect medium for potting and [[hamilton-seed-sowing-techniques]]. Combined
-with [[hamilton-animal-manure-types-and-use]], leaf mold
-completes the organic gardener's toolkit for building and maintaining
-healthy, fertile soil.

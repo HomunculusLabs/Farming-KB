@@ -1,5 +1,5 @@
 ---
-title: "Oyster [[spawn-production-techniques]]: Grain and Sawdust Methods"
+title: Oyster Mushroom Spawn Production Grain Sawdust
 source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, spawn, grain-spawn, sawdust-spawn, inoculation, tissue-culture, pleurotus]
 ---
@@ -88,36 +88,3 @@ spawn may show green (Trichoderma), black, or pink patches. The handbook recomme
  growers always test a small batch before committing to full production runs.
 
 ## Challenges in Developing Countries
-
-The handbook identifies spawn availability as the single greatest bottleneck for
-oyster [[mushroom-cultivation-in-kenya]] developing countries. Reliable spawn production
-requires laboratory facilities, trained personnel, and consistent quality control.
-Many programs have failed because they distributed spawn without establishing
-sustainable local production capacity.
-
-## Cost Analysis
-
-In Nepal, spawn costs represent approximately 23% of total production costs for
-small-scale oyster mushroom operations. A single bottle of grain spawn (approximately
-500g) costs NPR 50-60 and inoculates roughly 10-15 substrate bags. The handbook
-calculates that a basic spawn laboratory can be established for NPR 50,000-100,000
-(USD 670-1,340), with ongoing production costs of NPR 10-15 per bottle.
-
-This startup investment is significant for rural communities but becomes economical
-at scale. A single laboratory serving 50-100 growers can achieve break-even within
-6-12 months. The handbook recommends cooperative spawn production centers as a model
-for community-based mushroom cultivation programs.
-
-## Strain Selection Considerations
-
-Different Pleurotus species and strains within species show marked variation in
-fruiting temperature range, substrate preference, yield potential, shelf life, and
-market appeal. P. ostreatus is most widely cultivated due to its broad adaptability.
-P. pulmonarius tolerates higher temperatures, making it suitable for tropical lowlands.
-P. cystidiosus produces well in subtropical conditions with distinctive morphology.
-
-## See Also
-
-- [[mushroom-biology-life-cycle-classification]]
-- [[oyster-mushroom-substrate-materials-preparation]]
-- [[oyster-mushroom-spent-substrate-recycling]]

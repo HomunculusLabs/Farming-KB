@@ -11,7 +11,7 @@ sources: [papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 Updated: 2026-04-18
 
-A seasonal calendar divides the gardening year into four periods: spring (March to end of May), summer (June to end of August), autumn (September to end of November), and winter (December to end of February). Gardening is far from an exact science -- there are almost always alternative methods, and regional climatic conditions significantly affect timing.
+A [[beekeeping-seasonal-calendar]] divides the gardening year into four periods: spring (March to end of May), summer (June to end of August), autumn (September to end of November), and winter (December to end of February). Gardening is far from an exact science -- there are almost always alternative methods, and regional climatic conditions significantly affect timing.
 
 ## Spring
 
@@ -26,25 +26,25 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 
 **Vegetable**: Feed spring cabbages with dried blood or kelp meal. Start sowing peas and beets under cloches, green beans in greenhouse. Sow leeks, Brussels sprouts, cabbages in stale seedbed. Start sowing chard. Plant sea kale, shallots, garlic, onion sets, potatoes, Jerusalem artichokes. Plant out peas and early spinach from greenhouse.
 
-**Fruit**: Protect blossoms from frost with garden fabric. Finish winter pruning and planting. Prune fan-trained cherry and plum trees. Feed and mulch fruit trees and bushes. Spray for apple/pear scab or gooseberry mildew if needed.
+**Fruit**: Protect blossoms from frost with garden fabric. Finish winter pruning and planting. Prune fan-trained cherry and plum trees. Feed and mulch fruit [[pruning-fruit-trees-and-bushes]]. Spray for apple/pear scab or gooseberry mildew if needed.
 
 **Greenhouse**: Ventilate on sunny days, close at night. Keep atmosphere fairly dry. Sow ornamental half-hardy annuals. Start sowing herbs. Take cuttings of overwintered perennials. Sow peppers, eggplants, cucumbers, tomatoes. Sow okra and leeks. Tie up vine rods.
 
 ### Mid-Spring
 **Ornamental**: Plant bare root evergreens. Prune shrubs flowering on one-year-old wood immediately after flowering. Prune shrubs flowering on current season's wood. Prune heathers after flowering. Plant floating, oxygenating, and marsh plants in pond. Plant tubs and [[hamilton-hanging-baskets-organic]]. Take cuttings of half-hardy perennials.
 
-**Vegetable**: Plant asparagus crowns. Sow sweet corn under polyethylene. Sow Florence fennel, peas, okra, turnips, kohlrabi, salsify, scorzonera, carrots, beets, cauliflower, broccoli, kale, Swiss chard. Plant globe artichokes, green beans, onions. Set up canes for runner beans. Plant eggplants and peppers under cloches.
+**Vegetable**: Plant asparagus crowns. Sow sweet corn under polyethylene. Sow Florence fennel, peas, okra, turnips, kohlrabi, salsify, scorzonera, carrots, beets, cauliflower, broccoli, kale, Swiss chard. Plant [[growing-globe-artichokes]], green beans, onions. Set up canes for runner beans. Plant eggplants and peppers under cloches.
 
 **Fruit**: Feed red and white currants with rock potash, [[query-how-to-grow-black-currants-at-home]] with blood, fish, and bone meal. Remove cloches from strawberries by day for pollination. Graft apples, pears, and plums. Hand-pollinate blossoms under fabric.
 
 **Greenhouse**: Start shading and increase ventilation. Sow cucumbers for cloches. Sow leeks, runner beans, okra, squash, celeriac for outside. Plant tomatoes in [[coleman-unheated-greenhouse-design]] in growing bags or borders.
 
 ### Late Spring
-**Ornamental**: Finish planting bare root evergreens. Support tall perennials. Trim ground cover after flowering. Plant out half-hardy annuals when frost has passed. Start clipping fast-growing hedges. Prune early flowering climbers. Plant deep-water aquatic plants. Sow hardy perennials and biennials. Start softwood cuttings. Control aphids.
+**Ornamental**: Finish planting bare root evergreens. Support tall perennials. Trim ground cover after flowering. Plant out half-hardy annuals when frost has passed. Start clipping fast-growing hedges. Prune [[equatorial-photoperiod-early-flowering]] climbers. Plant deep-water aquatic plants. Sow hardy perennials and biennials. Start softwood cuttings. Control aphids.
 
 **Vegetable**: Finish planting squash and fruiting vegetables under cloches. Mound soil around potatoes. Plant out leeks. Transplant celery, sweet corn, green and runner beans, fruiting vegetables, celeriac. Pinch off broad bean tops if affected by blackfly. Place carpet pads around cabbages against cabbage root fly. Erect carrot fly barriers.
 
-**Fruit**: Water fruit bushes and trees. Mulch strawberries with straw, cover with netting. Tie in and pinch off wall-trained fruit. Thin gooseberries. Put out codling moth traps.
+**Fruit**: Water [[holzer-soft-fruit-bushes-and-berries]] trees. Mulch strawberries with straw, cover with netting. Tie in and pinch off wall-trained fruit. Thin gooseberries. Put out codling moth traps.
 
 **Greenhouse**: Summer prune grapevines. Feed tomatoes and remove sideshoots. Continue shading and ventilation.
 
@@ -83,22 +83,8 @@ A seasonal calendar divides the gardening year into four periods: spring (March 
 - This is the main planting season for deciduous trees, shrubs, and hedges
 - Continue planting spring-flowering bulbs. Lift and store tender bulbs and tubers
 - Take hardwood cuttings. Start collecting seeds
-- Clean up around fruit trees to prevent overwintering of pests and diseases
+- Clean up around fruit trees to prevent overwintering of [[mushroom-pests-and-diseases]]
 
 ## Winter
 
 ### Throughout Winter
-- Protect tender plants from frost with straw, fleece, or sacking
-- Clean, sharpen, and oil tools. Service mowers
-- Plan next year's garden. Order seeds
-- This is the main season for pruning deciduous trees and shrubs
-- Check stored produce regularly
-
-## Related Topics
-- [[greg-green-odor-control-and-air-filtration]]
-- [[green-manure-crops]]
-
-## Source
-- Hamilton, Geoff & Nick Hamilton. "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]." The Gardening Year section, pp. 279-283.
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-seasonal-gardening-calendar]]

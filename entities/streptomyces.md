@@ -88,21 +88,3 @@ Species-level identification is difficult because many taxa are closely related 
 ## Relevance to this wiki
 
 *Streptomyces* connects soil microbiology, compost maturity, antibiotic history, and plant disease.
-It is referenced in concept pages on [[decomposition]], and rhizosphere microbial interactions.
-It also links agricultural [[amphotericin-b-antifungal]].
-When a concept page mentions actinomycetes as earthy-smelling bacteria, this genus is usually the central example.
-When a page discusses microbial antagonism in the rhizosphere, streptomycetes are among the organisms most likely to produce inhibitory compounds.
-The entity should not be treated as a single functional guild because decomposers, mutualists, pathogens, and industrial strains all occur within it.
-
-## Key takeaways
-
-*Streptomyces* is a bacterial genus, not a fungus, despite its [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] habit.
-It is one of the dominant named actinomycete groups in aerated soil and mature compost.
-Its geosmin production explains much of the pleasant earthy odor associated with healthy soil.
-Its secondary metabolism has supplied many antibiotics, antifungals, antiparasitics, and anticancer agents.
-Its agricultural roles range from plant [[brassinosteroid-growth-promotion-psilocybe-cubensis]] and pathogen suppression to crop diseases such as potato scab.
-Its importance comes from strain-level diversity, so broad claims about the genus should be qualified by species, strain, and environment.
-
-## See Also
-
-- [[streptomyces-avermitilis]]

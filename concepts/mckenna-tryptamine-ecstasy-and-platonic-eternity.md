@@ -2,7 +2,7 @@
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna articulated a philosophical
+In his 1983 Esalen lecture, [[terence-mckenna]] articulated a philosophical
 framework connecting the tryptamine [[leary-psychedelic-experience-bardo-mapping]] to Platonic
 metaphysics and the concept of eternity. Drawing on Plato's Timaeus—
 "time is the moving image of eternity"—McKenna proposed that the
@@ -35,7 +35,7 @@ of eternity." In this framework:
 
 McKenna writes: "The tryptamine ecstasy is a stepping out of the
 moving image and into eternity, the eternity of the standing now, the
-nunc stans of Thomas Aquinas." This is not a metaphorical description
+[[mckenna-tryptamine-transtemporal-eternity-and-nunc-stans]] of Thomas Aquinas." This is not a metaphorical description
 but a literal claim about the ontological status of the experience.
 
 ## The Nunc Stans and Thomas Aquinas
@@ -53,7 +53,7 @@ of the divine eternity. In Aquinas's framework:
 
 McKenna appropriates this theological concept for his description of
 the tryptamine state, claiming that under the influence of DMT or
-psilocybin, the human mind temporarily achieves something analogous
+[[psilocybin]], the human mind temporarily achieves something analogous
 to the divine perspective: a simultaneity of all temporal moments, a
 comprehension of history as a single, unified field rather than a
 sequential stream.
@@ -88,61 +88,3 @@ eternal present that was always already there.
 
 In this state, "all of human history is seen to lead toward this
 culminating moment." The voyager perceives the entire arc of human
-development—from nomadism to civilization to the present—as a single
-coherent process with a discernible direction and destination.
-
-## Critique of the Physicalist Time Frame
-
-McKenna explicitly challenges the standard scientific model of time:
-
-- The physicist's description of a universe lasting billions of years
-  is "a dualistic conception, an inductive projection"
-- Applied to consciousness and language, this model is "very
-  unsophisticated"
-- Consciousness can "collapse the state vector" and cause being to
-  undergo "the formality of actually occurring" (Whitehead)
-- The [[decentralizing-bender-perceiving-self-primary-datum-mckenna]] should be the primary datum, not an accident
-  in an indifferent universe
-
-This critique extends to McKenna's broader argument about human
-centrality: the human cerebral cortex is "the most richly organized
-material in the universe" and the experience one is having right now
-is "the densest and richest experience in the universe." Everything
-should be "constellated outward from the perceiving self."
-
-## The Future as Psychedelic
-
-McKenna's most provocative claim follows from this metaphysical
-framework: "The future is bound to be psychedelic, because the future
-belongs to the mind." He argues that:
-
-- We are just beginning to explore the potentials of consciousness
-- A serious engineering approach to mind will reveal "the plasticity,
-  the mutability, the eternal nature of the mind"
-- The ultimate human future involves releasing consciousness "from
-  the monkey"—exteriorizing the soul and internalizing the body
-- The [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]] would exist as "a superconducting lens of
-  [[mckenna-translinguistic-matter-and-exteriorized-soul]] generated out of the body of each of us at
-  a critical juncture at our psychedelic Bar Mitzvah"
-
-This vision, while speculative, follows logically from McKenna's
-premise that the tryptamine state reveals the true ontological status
-of consciousness as the primary reality.
-
-## Relationship to the Stoned Ape Hypothesis
-
-The framework of tryptamine ecstasy as access to Platonic eternity
-connects to McKenna's broader stoned ape hypothesis. If psilocybin
-mushrooms catalyzed the emergence of language and self-reflection in
-early hominids, then the tryptamine state may represent not an
-anomalous experience but a recovery of the original mode of
-consciousness from which ordinary human awareness devolved.
-
-## Related Concepts
-
-- [[mckenna-eschatology-and-acceleration-of-history]]
-- [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
-- [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
-- [[tryptamine-consciousness-theory]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[stoned-ape-hypothesis-mckenna]]

@@ -41,7 +41,7 @@ The erect fronds are the macroscopic sporophyte generation. Microscopic gametoph
 
 ## Distribution and Habitat
 
-S. lomentaria has a truly cosmopolitan distribution in temperate and cold waters. It occurs on all continents except Antarctica, from the intertidal zone to approximately 20 m depth. It is particularly abundant in the North Atlantic, North Pacific, and around Japan and Korea.
+S. lomentaria has a truly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and cold waters. It occurs on all continents except Antarctica, from the intertidal zone to approximately 20 m depth. It is particularly abundant in the North Atlantic, North Pacific, and around Japan and Korea.
 
 The species is highly opportunistic and colonizes a wide range of substrates including rocks, shells, artificial structures, and even other algae. It is a classic early-successional species that rapidly colonizes newly available space.
 
@@ -67,7 +67,7 @@ Herbivory by gastropods (particularly littorinid snails) is a significant source
 
 In Korea and Japan, S. lomentaria is harvested from the wild and sold as food under the names "hijiki-modoki" (Japan) and "me-tae-sa-ram" (Korea). The fronds are typically blanched and served in salads, soups, or as a side dish.
 
-Cultivation has been attempted on a small scale using spore seeding of ropes and nets. Growth rates in culture are moderate, but the species' low market value compared to premium seaweeds like Porphyra and Undaria limits commercial interest.
+Cultivation has been attempted on a small scale using spore seeding of ropes and nets. [[coleman-sunlight-and-winter-crop-growth-rates]] in culture are moderate, but the species' low market value compared to premium seaweeds like Porphyra and Undaria limits commercial interest.
 
 The species is investigated as a source of fucoidan for nutraceutical applications. Its broad distribution and ease of collection make it a convenient raw material, though fucoidan yields are lower than from larger kelp species.
 
@@ -77,7 +77,7 @@ S. lomentaria exhibits a diplohaplontic isomorphic alternation of generations, t
 
 Sporophytes produce unilocular sporangia that release haploid zoospores by meiosis. These settle and develop into dioecious gametophytes that produce either eggs or sperm. Fertilization occurs on the crust surface, and the resulting zygote develops into a new sporophyte.
 
-Environmental conditions strongly influence the life cycle. Reduced daylength and lower temperatures favor sporophyte development, while warm conditions promote the microscopic phase. This environmental regulation allows the species to persist as crustose gametophytes during unfavorable seasons.
+Environmental conditions strongly influence the [[agaricus-campestris-biology-and-life-cycle]]. Reduced daylength and lower temperatures favor sporophyte development, while warm conditions promote the microscopic phase. This environmental regulation allows the species to persist as crustose gametophytes during unfavorable seasons.
 
 ## Invasive Potential
 
@@ -88,28 +88,3 @@ The species' ability to form persistent microscopic stages and colonize artifici
 Despite its invasive tendencies, ecological impacts are generally considered low. S. lomentaria does not form dense canopies or outcompete native flora, instead occupying disturbed or marginal habitats without displacing established communities.
 
 ## Research Significance
-
-S. lomentaria has served as a model organism for studies of brown algal life cycle regulation, particularly the environmental cues controlling phase transitions. Research on photoperiod and temperature effects has elucidated mechanisms of seasonal phase alternation.
-
-The species is widely used in ecotoxicology as a bioindicator organism for [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination and water quality assessment. Its broad distribution and ease of laboratory culture make it practical for standardized toxicity testing protocols.
-
-Genomic resources for S. lomentaria are under development as part of broader brown algal genomics initiatives. Transcriptomic studies have identified genes involved in fucoidan biosynthesis and stress responses, providing targets for biotechnological applications.
-
-## Related Species
-
-The genus Scytosiphon contains approximately 5–10 recognized species, though taxonomic boundaries are uncertain due to morphological plasticity. S. complanatus is a closely related species distinguished by its flattened, ribbon-like fronds.
-
-Colpomenia peregrina, the oyster thief, is in the same family and shares a similar life history strategy. Both species are opportunistic colonizers with hollow thalli, though Colpomenia forms spherical rather than cylindrical bladders.
-
-Petalonia fascia is another scytosiphonacean alga with a similar habitat and distribution. The two species can co-occur on the same substrates and are sometimes confused in field identification. Molecular tools are increasingly used to distinguish closely related taxa within the family.
-
-## See Also
-
-- [[fucus-serratus]]
-- [[porphyra-umbilicalis]]
-- [[gelidium-amansii]]
-- [[dictyota-dichotoma]]
-- [[padina-pavonica]]
-- [[postelsia-palmaeformis]]
-- [[laminaria-digitata]]
-- [[sargassum-muticum]]

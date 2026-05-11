@@ -12,8 +12,8 @@ type: concept
 # Cannabis and Colon Cancer (Colorectal Cancer)
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
-for evaluating the therapeutic potential of cannabis across various
-conditions. For colon cancer (colorectal cancer), the CHI scores 3
+for evaluating the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
+conditions. [[cannabis-for-colon-cancer]] (colorectal cancer), the CHI scores 3
 studies with a combined CHI value of 4, indicating emerging but
 preliminary evidence.
 
@@ -39,13 +39,13 @@ exhibit similar symptoms.
 Hypothesized causes include cellular mutations by inheritance or dietary
 exposure to carcinogens. Other known aspects that increase the risk of
 developing colon cancer are the presence of colon polyps, [[blesching-cannabis-irritable-bowel-syndrome]]
-syndrome, and ulcerative colitis. Additional risk factors include smoking
+syndrome, [[cannabis-and-ulcerative-colitis]]. Additional risk factors include smoking
 tobacco, use of alcohol, aged 50 or over, male gender, obesity, a
 sedentary lifestyle, the presence of other environmental carcinogens,
 African American heritage, and receiving radiation therapy for cancer.
 
 In 2010, the National Cancer Institute at the National Institutes for
-Health estimated that the U.S. had over 100,000 new colon cancer patients
+Health estimated that the U.S. had over 100,000 new colon [[cannabis-for-cancer-patients]]
 and more than 50,000 fatalities from rectal and colon cancer combined.
 
 Within allopathic medicine, colon cancer is diagnosed by colonoscopies,
@@ -61,8 +61,8 @@ Bristol (2005) experiments indicated another possible mechanism involving
 the inhibition of the enzyme cyclooxygenase 2 (COX-2). The genetic and
 pharmacologic studies from Nashville (2008) demonstrated in part that
 activation of CB1 reduced intestinal tumor growth in mice. It suggests
-endogenous cannabinoid receptors (CB1) as a possible target of a novel
-mechanism for prevention and treatment of colon cancer using the body's
+endogenous [[cannabinoid-receptors-cb1-and-cb2]] (CB1) as a possible target of a novel
+mechanism for [[cannabis-root-rot-prevention-and-treatment]] of colon cancer using the body's
 own anandamide.
 
 ## Study Summary
@@ -88,49 +88,3 @@ lower THC:CBD ratio.
 
 Juice obtained from fresh leaves of both indica and sativa strains
 contains non-psychoactive forms of plant cannabinoids, THC-acid, CBD-acid,
-and CBG-acid. Sativa strains with a higher THC-acid:CBD-acid ratio tend
-to activate CB1 in greater proportions.
-
-Isolated synthetic cannabinoid prescription medications containing THC
-(such as Sativex, Dronabinol, Marinol, or Nabilone) activate both CB1
-and CB2.
-
-## Mind-Body Medicine and Colon Cancer
-
-A study conducted by Australian psychiatrists on more than 637 newly
-confirmed colon cancer patients showed a psychological framework unique
-to the participants when compared to healthy people of similar age and
-social situation. The psychological factors included: denial and
-repression of anger and of other negative emotions, a commitment to
-prevailing social norms resulting in the external appearance of a "nice"
-or "good" person, and a suppression of reactions which may offend others
-and the avoidance of conflict.
-
-In summary, aggravating factors may include suppressed emotions,
-repression of anger, seeking approval from others, and suppression of
-reactions. Consider appropriate release of emotions, raising self-esteem,
-and adhering to one's own ideals and standards rather than those of
-others.
-
-## Supporting Spices and Foods
-
-- **Basil**: Thwarted chemical attempts to produce stomach cancer in
-  rodents
-- **Caraway**: Controlled lipid peroxidation and antioxidant homeostasis,
-  preventing chemically induced colon cancer lesions in rats
-- **Cardamom**: Protective effects on experimentally induced colon
-  carcinogenesis
-- **Cumin**: Significantly suppressed colon carcinogenesis in test animals
-- **Nigella (Black Seed)**: Thymoquinone demonstrated chemotherapeutic
-  responses comparable to 5-fluorouracil against colon cancer cell lines
-- **Saffron**: May possess anticancer activity including against colon
-  adenocarcinoma
-- **Turmeric**: Anti-inflammatory properties supporting healing of
-  [[blesching-cannabis-inflammatory-bowel-disease]] disease, ulcerative colitis, and adenomatous polyposis
-
-## See Also
-
-- [[blesching-cannabis-inflammatory-bowel-disease]]
-- [[blesching-cannabis-hepatitis]]
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

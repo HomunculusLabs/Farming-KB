@@ -22,7 +22,7 @@ sources:
 
 The species forms conspicuous dark green to bluish-black gelatinous colonies that swell dramatically when wet. These colonies are commonly known as star jelly, fallen star, or witch's butter, though these names are shared with unrelated organisms.
 
-*Nostoc commune* is a nitrogen-fixing organism that plays a critical role in soil fertility, particularly in arid, polar, and nutrient-poor environments where it forms biological soil crusts.
+*Nostoc commune* is a nitrogen-fixing organism that plays a critical role in soil fertility, particularly in arid, polar, and nutrient-poor environments where it forms [[biological-soil-crusts]].
 
 The species has a long history of human use as food and medicine in East Asia, [[psilocybe-southeast-asia-pacific]], and parts of Africa. Dried colonies are sold commercially in Chinese markets as a culinary ingredient.
 
@@ -54,7 +54,7 @@ The gelatinous matrix is composed primarily of a complex sulfated heteropolysacc
 
 ## Distribution and Habitat
 
-*Nostoc commune* has a cosmopolitan distribution across all continents, including Antarctica. It occurs from tropical to polar regions and from sea level to alpine elevations exceeding 5000 m.
+*Nostoc commune* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across all continents, including Antarctica. It occurs from tropical to polar regions and from sea level to alpine elevations exceeding 5000 m.
 
 The species colonizes a wide range of terrestrial habitats including bare soil, gravel, rock surfaces, tree bark, and concrete. It is particularly abundant in seasonally wet environments such as rice paddies, stream banks, and desert margins.
 
@@ -68,13 +68,13 @@ Optimal growth occurs at moderate temperatures (15–30°C) with adequate moistu
 
 *Nostoc commune* produces a diverse array of bioactive metabolites. The extracellular polysaccharide matrix (nostocan) has demonstrated antioxidant, immunomodulatory, and antiviral activities.
 
-The species produces several unique lipopeptides, including nostocyclopeptides with reported antibacterial and antifungal properties. These compounds may serve ecological functions in competitive interactions within soil microbial communities.
+The species produces several unique lipopeptides, including nostocyclopeptides with reported antibacterial and antifungal properties. These compounds may serve [[fungal-melanin-biosynthesis-ecological-functions]] in competitive interactions within soil [[cannabis-rhizosphere-microbial-communities]].
 
 Phytochemical analysis has identified carotenoids (β-carotene, echinenone), chlorophyll *a*, phycobiliproteins (phycocyanin, allophycocyanin), and tocopherols. These pigments contribute to the organism's antioxidant capacity.
 
 Studies have demonstrated hepatoprotective effects in rodent models of chemical-induced liver injury. Aqueous extracts reduced serum transaminase levels and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers, suggesting potential pharmaceutical applications.
 
-Anti-inflammatory activity has been documented through inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in macrophage cell lines. These findings align with traditional medicinal uses in Chinese and Southeast Asian folk medicine.
+Anti-inflammatory activity has been documented through inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in macrophage cell lines. These findings align with traditional medicinal uses in Chinese and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] folk medicine.
 
 UV-absorbing compounds, particularly mycosporine-like amino acids (MAAs), accumulate in the colony matrix and provide protection against UV radiation. This adaptation is critical for survival in exposed terrestrial habitats.
 
@@ -86,28 +86,4 @@ The texture when cooked is soft and gelatinous, similar to sea vegetables. The f
 
 In the Philippines, *Nostoc* species are gathered during the rainy season and used in traditional dishes. Indigenous communities in the Andean highlands of South America also consume related *Nostoc* species as a supplemental food source.
 
-Nutritional analysis shows *N. commune* contains approximately 15–20% protein, moderate levels of essential amino acids, and minerals including calcium, iron, and phosphorus. The polysaccharide fraction is largely indigestible but provides dietary fiber.
-
-In traditional Chinese medicine, *Nostoc commune* is classified as a cooling food and is used to clear heat, improve eyesight, and support cardiovascular health. These uses are documented in classical herbals dating to the Ming dynasty.
-
-## Ecological Significance
-
-As a free-living nitrogen fixer, *Nostoc commune* contributes significantly to nitrogen input in terrestrial ecosystems. Field measurements indicate fixation rates of 1–5 kg N per hectare per year in biological soil crusts.
-
-The gelatinous matrix improves soil structure by binding particles together, enhancing aggregation and reducing erosion. This function is particularly important in arid and semi-arid environments where soil stabilization is critical.
-
-The organism also forms symbiotic associations with fungi, lichens, and higher plants. Some bryophytes and cycads host *Nostoc*-like cyanobacteria in specialized cavities, receiving fixed nitrogen in exchange for carbohydrates.
-
-In [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] ecosystems, *Nostoc commune* colonizes flooded soil surfaces and contributes to the nitrogen fertility of the paddy. Traditional rice-farming practices in parts of Southeast Asia have long recognized the soil-building benefits of maintaining cyanobacterial populations.
-
-[[dighton-fungi-climate-change-feedback]] models predict expansion of biological soil crusts into higher latitudes as temperatures rise. *N. commune* is expected to play an increasing role in the carbon and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]] of boreal and tundra ecosystems under future climate scenarios.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[gracilaria-verrucosa]]
-- [[laminaria-digitata]]
-- [[lowenfels-nutrients-nitrogen-cycle]]
-- [[saccharina-latissima]]
-- [[ulva-intestinalis]]
-- [[chondrus-crispus]]
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows *N. commune* contains approximately 15–20% protein, moderate levels of essential amino acids, and minerals including calcium, iron, and phosphorus. The polysaccharide fraction is largely indigestible but provides dietary fiber.

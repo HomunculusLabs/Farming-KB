@@ -88,22 +88,3 @@ and activated charcoal to 10% of total mass. Balance to a pH of 7.0.
 
 ### Moisture and Nutrition
 Mushrooms are 88 to 90% water and 10 to 12% dry matter.
-
-## Interactions
-
-Lepista nuda contains thermobile hemolysin, a compound that can degenerate red
-blood cells. Alexander Smith (1980) cautions that this mushroom should not be
-eaten raw, but only after cooking. Although the mushroom has been responsible
-for scattered poisonings when quantities have been eaten raw, the effects have
-been relatively minor and the toxin is easily destroyed by cooking or
-parboiling.
-
-Despite this caution, Lepista nuda is regarded as a mushroom with many positive
-attributes. Its striking violet color, firm texture, and good taste recommend
-this species as one of high culinary appeal.
-
-## See Also
-
-- [[agaricus-brunnescens]]
-- [[pleurotus-ostreatus]]
-- [[lepista-sordida]]

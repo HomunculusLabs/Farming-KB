@@ -77,7 +77,7 @@ The "Stoned Ape" hypothesis, articulated most fully in *Food of the Gods* (1992)
 
 ## The Archaic Revival
 
-The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-Shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 
@@ -88,26 +88,3 @@ The "Timewave" was a mathematical function (derived from the I Ching's King Wen 
 Despite its empirical failure, Novelty Theory articulated an intuition about accelerating change that has found echoes in discussions of technological singularity, exponential technological growth, and the perception that the rate of cultural and technological change is itself increasing. The theory's emphasis on fractal patterns in history anticipated later work in complexity theory and cliodynamics, even if the specific mathematical apparatus has been abandoned.
 
 ## Influence on Cyberculture and Digital Culture
-
-McKenna was one of the most influential voices in the intersection of psychedelic culture and digital technology. His lectures, delivered in a distinctive rhetorical style blending scholarly erudition with irreverent humour, circulated widely on cassette tape and later on the internet. He was an early advocate for virtual reality, seeing it as a technology that could democratise visionary experience. His concept of the "world made of language" anticipated discussions of linguistic relativity in digital media, and his emphasis on the role of psilocybin in the development of language resonated with researchers studying the origins of symbolic communication.
-
-McKenna's digital afterlife has been significant. His lectures are among the most shared content in psychedelic communities on YouTube, Spotify, and podcast platforms. The "McKenna meme" -- his image accompanied by out-of-context quotations -- has become a ubiquitous feature of psychedelic internet culture, sometimes to the detriment of the nuanced arguments he actually made. His influence can be traced in the writings of Erik Davis, Daniel Pinchbeck, and other figures in the countercultural intellectual tradition.
-
-## Critiques of McKenna's Theories
-
-McKenna's work has been criticised from multiple perspectives:
-- **Scientific criticism**: The Stoned Ape theory lacks falsifiable predictions and direct archaeological evidence. Anthropologists point out that the diet of early hominids is poorly constrained, and the effects of psilocybin on visual acuity have not been demonstrated in controlled studies. The Timewave's derivation from the I Ching has been criticised as numerological rather than mathematical.
-- **Anthropological criticism**: Indigenous scholars and anthropologists have challenged McKenna's characterisation of prehistoric societies as universally partnership-oriented and mushroom-centred. The diversity of prehistoric cultures and their relationships with psychoactive plants was far more complex than McKenna's monolithic narrative suggests.
-- **Political criticism**: Some critics argue that McKenna's emphasis on individual psychedelic experience as the solution to civilisational crisis understates the structural and material dimensions of inequality, ecological destruction, and political oppression. The personal is not always political in the simple way McKenna sometimes implied.
-- **Romantic primitivism**: McKenna's nostalgia for a lost mushroom paradise has been compared to the noble savage myth -- a romantic idealisation of prehistoric life that denies the genuine hardships, violence, and limitations of pre-agricultural societies.
-
-## Legacy
-
-Despite these criticisms, McKenna's influence on contemporary psychedelic culture is immense. His articulation of the psychedelic experience as a source of genuine insight into consciousness, ecology, and human potential helped sustain interest in [[psychedelic-therapy-current-research]] in [[hofmann-lsd-clinical-research-early-studies]] owes an intellectual debt to McKenna's insistence that these substances deserve serious attention, even if the specific claims he made have not all survived scrutiny.
-
-## See Also
-
-- [[mckenna-food-of-the-gods-thesis]]
-- [[cultural-evolution-and-psychoactive-substances]]
-- [[mckenna-cannabis-culture-history]]
-- [[mckenna-diet-symbiosis-human-evolution]]

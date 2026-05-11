@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Ericoid and orchid mycorrhizae are two specialized types of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] adapted to challenging environments. Ericoid mycorrhizae (ERM) enable plants in the Ericaceae family to thrive in acidic, nutrient-poor soils, while orchid mycorrhizae (OM) are essential for orchid seed germination and early development, with some orchids remaining fully mycoheterotrophic throughout their lives. Based on *Symbiotic Fungi*.
+Ericoid and orchid mycorrhizae are two specialized types of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] adapted to challenging environments. [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] (ERM) enable plants in the Ericaceae family to thrive in acidic, nutrient-poor soils, while orchid mycorrhizae (OM) are essential for orchid seed germination and early development, with some orchids remaining fully mycoheterotrophic throughout their lives. Based on *Symbiotic Fungi*.
 
 ## Ericoid Mycorrhizae (ERM)
 
@@ -20,7 +20,7 @@ The Ericaceae family includes heaths, heathers, blueberries, cranberries, rhodod
 ### Fungal Partners
 ERM fungal partners are primarily ascomycetes:
 - **Rhizoscyphus ericae** (formerly Pezizella ericae): The most well-studied ERM fungus
-- **Oidiodendron maius**: Common ERM associate
+- **[[oidiodendron-maius]]**: Common ERM associate
 - **Meliniomyces** spp.: Frequently isolated from ericaceous roots
 - Various other ascomycete genera
 
@@ -32,9 +32,9 @@ ERM fungal partners are primarily ascomycetes:
 
 ### Functions and Benefits
 - **Nitrogen nutrition**: ERM fungi can access organic nitrogen sources (proteins, amino acids, chitin) that are unavailable to non-mycorrhizal plants. This is critical in acidic soils where mineralization is slow and ammonium dominates.
-- **Phosphorus uptake**: Enhanced phosphorus acquisition from organic and inorganic sources
+- **Phosphorus uptake**: Enhanced [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] from organic and inorganic sources
 - **Heavy [[fungal-metal-tolerance-mechanisms]]**: ERM associations confer tolerance to aluminum and other toxic metals common in acidic soils
-- **Protection from pathogens**: Mycorrhizal roots are less susceptible to soilborne pathogens
+- **Protection from pathogens**: [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]] are less susceptible to soilborne pathogens
 - **Decomposition**: ERM fungi produce proteases, phosphatases, and other enzymes that break down complex organic matter
 
 ### Ecological Significance
@@ -43,7 +43,7 @@ ERM are key to understanding why Ericaceae dominate in harsh habitats. In boreal
 ## Orchid Mycorrhizae (OM)
 
 ### Host Plants
-All orchids (Orchidaceae) require mycorrhizal fungi at least during seed germination. With approximately 28,000 species, orchids represent one of the largest plant families, and their dependence on fungal partners is a defining feature.
+All orchids (Orchidaceae) require [[arbuscular-mycorrhizal-fungi]] at least during seed germination. With approximately 28,000 species, orchids represent one of the largest plant families, and their dependence on fungal partners is a defining feature.
 
 ### Fungal Partners
 Orchid mycorrhizal fungi are primarily basidiomycetes:
@@ -67,7 +67,7 @@ Orchid seeds are microscopic and contain essentially no stored nutrients. Germin
 ### Nutrition Modes
 - **Autotrophic**: Most mature orchids photosynthesize but may still receive carbon from fungi
 - **Mixotrophic**: Partially photosynthetic, partially fungal-dependent
-- **Fully mycoheterotrophic**: Non-photosynthetic orchids that obtain all carbon from fungi. These often associate with ectomycorrhizal fungi that are simultaneously connected to trees, effectively creating a tripartite [[singh-mycorrhizal-network-carbon-transfer-plants]] pathway: tree to ECM fungus to orchid
+- **Fully mycoheterotrophic**: Non-photosynthetic orchids that obtain all carbon from fungi. These often associate with [[ectomycorrhizal-fungi]] that are simultaneously connected to trees, effectively creating a tripartite [[singh-mycorrhizal-network-carbon-transfer-plants]] pathway: tree to ECM fungus to orchid
 
 ### Specificity
 Orchid-fungal specificity varies widely:
@@ -88,19 +88,3 @@ Orchid-fungal specificity varies widely:
 |---|---|---|
 | Fungal phylum | Ascomycota | Basidiomycota |
 | Infection structure | Hyphal coils | Pelotons (with digestion cycle) |
-| Primary benefit | N and P from organic matter | C (especially early stage), nutrients |
-| Host specificity | Moderate | Variable (low to very high) |
-| Habitat | Acidic, nutrient-poor soils | Extremely varied |
-| Dependency | Beneficial but not obligate | Obligate (at least for germination) |
-
-## Related
-
-- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
-
-- [[lycopodium-clavatum]]
-
-- [[arbuscular-mycorrhizal-fungi]] -- the most common mycorrhizal type
-- [[mycorrhizal-networks]] -- common [[dighton-mycorrhizal-networks-carbon-transfer]]
-- [[fungal-symbiosis-types]] -- overview of fungal symbioses
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
-- [[ericoid-mycorrhizae-types-and-ecology]]

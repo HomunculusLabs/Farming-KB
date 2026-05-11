@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis Terpene Entourage Effect Profiles
 
-The "entourage effect" describes the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that produces therapeutic effects greater than the sum of individual components. Cannabis contains 200-250 constituents, and the full-spectrum interaction of these compounds is central to the plant's medicinal efficacy.
+The "entourage effect" describes the synergistic interaction between cannabinoids, terpenes, and other cannabis constituents that produces [[cbd-therapeutic-effects]] greater than the sum of individual components. Cannabis contains 200-250 constituents, and the full-spectrum interaction of these compounds is central to the plant's medicinal efficacy.
 
 ## The Entourage Effect Concept
 
@@ -17,7 +17,7 @@ A 2009 meta-analysis from the University of Massachusetts found that "all classe
 
 ## (E)-Beta-Caryophyllene: The Dietary Cannabinoid
 
-Perhaps the most significant terpene discovery in cannabinoid science is (E)-beta-caryophyllene ((E)-BCP), identified by international researchers (2008, 2012) as a functional, non-psychoactive CB2 agonist.
+Perhaps the most significant terpene discovery in [[greg-green-thc-and-cannabinoid-science]] is (E)-beta-caryophyllene ((E)-BCP), identified by international researchers (2008, 2012) as a functional, non-psychoactive CB2 agonist.
 
 ### Key Properties
 
@@ -35,8 +35,8 @@ Perhaps the most significant terpene discovery in cannabinoid science is (E)-bet
 | White Ashanti Pepper | 52% |
 | Indian Bay-Leaf | 25% |
 | Grains of Paradise | 22% |
-| Cannabis sativa | 12-35% |
-| Black Pepper | 7-19% |
+| [[blesching-cannabis-sativa-indica-classification]] | 12-35% |
+| [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] | 7-19% |
 | African Basil | 14% |
 | Sri Lanka Cinnamon | 7-11% |
 | Rosemary | 1-8% |
@@ -88,45 +88,3 @@ Activation of CB2 receptors via dietary (E)-BCP may present a new therapeutic st
 - Complex aroma (piney, floral, herbal)
 - Antioxidant, mildly sedative
 - Antifungal properties
-
-## How Terpenes Modulate Cannabinoid Effects
-
-### THC Modulation
-- Myrcene increases THC's psychoactive potency by enhancing blood-brain barrier penetration
-- Pinene may counteract THC's memory-impairing effects
-- Limonene may elevate mood alongside THC's euphoric effects
-
-### CBD Enhancement
-- Linalool may enhance CBD's anxiolytic and anticonvulsant properties
-- (E)-BCP provides additional CB2 activation complementing CBD's affinity for CB2
-- Caryophyllene adds anti-inflammatory potency to CBD's effects
-
-### Pain and Inflammation Synergy
-- Multiple terpenes contribute anti-inflammatory action alongside cannabinoids
-- The combined effect exceeds that of any single compound
-- This explains why full-spectrum preparations often outperform isolated cannabinoids
-
-## Practical Implications for Patients
-
-- **Whole-plant cannabis** provides the full entourage of cannabinoids, terpenes, and other compounds
-- **Isolated THC or CBD** may be less effective than full-spectrum preparations
-- **[[blesching-cannabis-strain-selection-receptor-targeting]]** should consider [[cannabis-terpene-profiles-sativa]], not just THC/CBD content
-- **Dietary adjuncts** like (E)-BCP-containing spices can supplement cannabinoid therapy
-- **Sativex** (prescription THC:CBD) retains some entourage properties compared to pure isolates
-
-## Related Topics
-
-- [[cannabis-terpene-profile]]
-- [[cannabis-cbd-therapeutic-profile]]
-- [[blesching-cannabis-terpenoids-and-flavonoids]]
-
-## Key Insight
-
-The entourage effect explains why centuries of traditional use of whole cannabis plant preparations often outperform modern isolated cannabinoid pharmaceuticals. The 200-250 constituents in cannabis work together synergistically, with terpenes playing a crucial modulatory role in directing and enhancing the therapeutic effects of cannabinoids.
-
-## See Also
-
-- [[dom-compound-profile]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-for-neuropathic-pain]]
-- [[cannabis-thc-therapeutic-profile]], [[cannabis-minor-cannabinoids]], CBC, and CBN) have been discovered to be potent against bacteria, including multi-drug-resistant bacteria, most notably methicillin-resistant Staphylococcus aureus (MRSA). The five major cannabinoids have demonstrated potent antibacterial activity: THC ([[cannabis-cbd-therapeutic-profile]]): The non-psychoactive cannabinoid with significant antibacterial activity, particularly notable because it can be used without psychoactive effects. Related: [[cannabis-minor-cannabinoids]], [[cannabis-endocannabinoid-system]], entourage effect

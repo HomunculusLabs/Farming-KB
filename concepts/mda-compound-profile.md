@@ -68,3 +68,18 @@ This dual action — serotonin release plus 5-HT2A agonism — distinguishes MDA
 MDA is typically synthesized from safrole or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
 
 See also: [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-receptor-pharmacology]]
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
+- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]

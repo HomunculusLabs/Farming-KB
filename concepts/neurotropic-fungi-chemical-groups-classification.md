@@ -42,17 +42,17 @@ are neurotropic; many Panaeoloideous fungi lack chemical studies.
 
 ### Volatility of Active Compounds
 
-Psilocybin and psilocin are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that degrade significantly
+[[hplc-analysis-of-psilocybin-and-psilocin]] are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that degrade significantly
 with specimen age. This has practical consequences:
 
-- Herbarium specimens from 1869 contained only 0.014% psilocybin vs
+- [[herbarium-specimens-fungal-collections]] from 1869 contained only 0.014% psilocybin vs
   0.84% in 1976 specimens
 - Mexican Indians discard dried specimens older than one year as
   inactive
 - Specimens kept for extended periods may produce no effects even at
   normal doses
 - Exposure to fresh collections in enclosed spaces can produce
-  psychoactive effects through volatile compounds in the air
+  psychoactive effects through [[mycovolatiles-fungal-volatile-compounds]] in the air
 
 ## Group 2: Ibotenic Acid Mushrooms
 
@@ -70,14 +70,14 @@ Three *Amanita* species are recognized:
 
 - **A. muscaria** — the fly agaric; red cap with white spots;
   mycorrhizal with *Pinus* and *Betula* in northern hemisphere forests;
-  also found in pine plantations in tropical regions (Brazil, Colombia,
+  also found in pine plantations [[fukuoka-natural-farming-in-tropical-regions]] (Brazil, Colombia,
   Tanzania, Australia, New Zealand)
 - **A. pantherina** — the panther cap; brown cap with white warts;
-  central European forests
+  [[psilocybe-bohemica-central-european]] forests
 - **A. regalis** — the royal fly agaric; rare, yellowish-brown cap
 
 These species are culturally significant as the sacred mushroom of
-Siberian shamanism among the Chukchee and Koryak peoples, where the
+[[harner-amanita-muscaria-siberian-shamanism]] among the Chukchee and Koryak peoples, where the
 practice of drinking the urine of *A. muscaria* consumers concentrates
 and purifies the active compounds.
 
@@ -87,56 +87,3 @@ and purifies the active compounds.
 
 Ergot fungi produce **ergot alkaloids** (ergolines), a diverse family
 of compounds including:
-
-- **Ergotamine** and **ergocristine** — vasoconstrictors used
-  medically for migraine
-- **Lysergic acid** — precursor to LSD
-- **Ergonovine** — used medically to control postpartum hemorrhage
-
-### Species
-
-- **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** — the classic ergot, parasitic on grasses and
-  cereals; causes ergotism (St. Anthony's Fire) when infected grain is
-  consumed; historically significant in both medicine and as a cause of
-  mass poisonings
-- **C. nigricans**, **C. paspali**, **C. rolfesii**, **C. tripsicii** —
-  additional Claviceps species with ergot alkaloids
-- **Cordyceps capitata** and **C. ophioglossoides** — used ceremonially
-  by indigenous peoples in Mexico (Nevado de Toluca region), often in
-  conjunction with *Psilocybe muliercula*; taxonomically related to
-  Claviceps
-
-## Group 4: Sacred Fungi Without Chemical Studies
-
-### Unclassified Species
-
-Several genera contain species used as sacred fungi by indigenous
-peoples but for which no reliable chemical studies have been conducted:
-
-- **Boletus** (6 species) and **Heimiella** (2 species) — reported as
-  hallucinogenic in New Guinea by Heim (1963, 1966, 1978), though Ott
-  (1993) suggested they lack neurotropic properties
-- **Russula** (6 species) — used by aboriginal peoples in New Guinea
-- **Gasteromycetes** (6 species in Lycoperdales and Phallales) —
-  including puffballs used by Mexican Indians for ceremonial purposes;
-  *Lycoperdon mixtecorum* and *L. marginatum* were reported as narcotic
-  fungi among the Mixtec of Oaxaca, though Ott et al. (1975) found
-  them to be common edible species possibly confused with true
-  neurotropic fungi
-
-### The Elaphomyces Connection
-
-*Elaphomyces* species (false truffles) are placed at the center of
-ceremonies as a "director" alongside Cordyceps and Psilocybe species.
-The Trique Indians of Alta Mixteca use *Elaphomyces* to help heal
-wounds and "rejuvenate the organism." *Elaphomyces* is the host genus
-for Cordyceps, linking the taxonomic and ceremonial relationships.
-
-## Related Topics
-
-- [[psilocybe-genus-taxonomy-classification]] — detailed taxonomy of
-  the largest group
-- [[mexico-center-neurotropic-fungal-biodiversity]] — geographic
-  [[guzman-global-distribution-patterns-neurotropic-fungi]]
-- [[soma-vedic-enigma-amanita-psilocybin-debate]] — cultural use of
-  Group 2 fungi

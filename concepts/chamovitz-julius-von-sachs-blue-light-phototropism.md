@@ -88,21 +88,3 @@ systems that govern their spatial orientation toward light.
 ## Blue Light in Modern Horticulture
 
 Understanding von Sachs's discovery has practical applications in
-controlled-environment agriculture and [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. Growers use blue
-light LEDs to control plant architecture, promote compact vegetative
-growth, and prevent excessive stem elongation (etiolation). Blue light
-supplementation is standard in [[query-how-does-no-till-cannabis-cultivation-work]], microgreen production,
-and seedling nurseries. The ratio of blue to red light is a critical
-parameter in horticultural lighting design, directly tracing back to the
-fundamental insight that plants perceive and respond to specific wavelengths
-of light in distinct ways. Modern [[comparison-cmh-vs-led-grow-lights]] lights are engineered to deliver
-precise blue-to-red spectral ratios optimized for different growth stages
-and crop species, all grounded in the photobiological principles first
-described by von Sachs and later refined through phytochrome and phototropin
-research.
-
-## See Also
-
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]-red-far-red-switch-photoperiodism
-- [[what-a-plant-knows-plant-vision-and-light-perception]]-and-mechanism-of-light-perception
-- phototropism and phytochrome

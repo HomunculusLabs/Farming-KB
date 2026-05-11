@@ -1,5 +1,5 @@
 ---
-title: San san pedro cactus history History in Plants of the Gods
+title: San Pedro Cactus History
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -12,7 +12,7 @@ tags: [history]
 
 Schultes and Hofmann document the San Pedro cactus ([[san-pedro-cactus-preparation]])
 as representing undoubtedly one of the most ancient of the magic plants of
-South America, with archaeological evidence reaching back to 1300 BC.
+[[guzman-psilocybin-mushrooms-south-america]], with archaeological evidence reaching back to 1300 BC.
 
 ## Archaeological Record
 
@@ -31,7 +31,7 @@ shaman, holding Huachuma (the indigenous name for Trichocereus).
 
 ## Botanical Identity
 
-San Pedro is Trichocereus pachanoi [= Echinopsis pachanoi], a fast-growing
+San Pedro is [[trichocereus-pachanoi]] [= [[echinopsis-pachanoi]], a fast-growing
 columnar cactus that develops few if any thorns when cultivated. The cactus
 is known in northern coastal Peru as San Pedro and in the northern Andes as
 Huachuma or Achuma. A species from the [[entheogen-trichocereus-genus-mescaline-cacti]] not yet
@@ -87,10 +87,3 @@ winds" and the "four roads." This taxonomic system reflects the deep
 integration of the cactus into Andean cosmology.
 
 ## Chemistry
-
-Trichocereus contains as its main alkaloid mescaline, responsible for the
-visual hallucinogenic effects. From dried specimens of San Pedro, 2 percent
-mescaline has been isolated. In addition, hordenine has also been detected.
-
-See also: [[mescaline-ethnobotany]],
-[[ayahuasca-preparation]]

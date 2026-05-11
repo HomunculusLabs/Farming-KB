@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Hobbs, J. (2020). "Agroforestry and bill-mollison-permaculture-a-designers-manual-permaculture-design-principles." Cascadia Permaculture Institute.
   - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd ed. Chelsea Green. (references Hobbs' design philosophy)
   - Holmgren, D. (2002). Permaculture: Principles and Pathways Beyond Sustainability. Holmgren Design Services.
@@ -87,30 +88,3 @@ Several design principles recur throughout Hobbs' teaching and consulting work:
 **Edge is where the action is:** She emphasizes maximizing productive edges between ecosystems — forest-field transitions, riparian zones, windbreak-field interfaces — as the most biodiverse and productive areas.
 
 **Function stacking:** Each element in a design should serve multiple functions. A hedgerow provides wind protection, wildlife habitat, nitrogen fixation, pollinator forage, and potentially food harvest simultaneously.
-
-**Small and slow solutions:** Hobbs advocates beginning with small, manageable interventions and expanding based on observed results rather than implementing large-scale earthworks or plantings without site-specific knowledge.
-
-**Bioregional adaptation:** Designs must be adapted to the specific conditions of the Cascadia bioregion (and wherever the practitioner works) rather than importing designs from other climates without modification.
-
-## Notable Projects and Legacy
-
-Hobbs' design work spans residential, community, and commercial scales throughout the Pacific Northwest and beyond. Several projects illustrate her approach particularly well.
-
-**Hedgerow installations:** Her multi-functional hedgerow designs have been implemented on dozens of farms and properties across Oregon, Washington, and Northern California.
-These installations typically combine nitrogen-fixing shrubs (Elaeagnus, Caragana), berry-producing species (Ribes, Rubus), flowering pollinator plants, and timber trees into linear systems serving windbreak, habitat, and production functions simultaneously.
-
-**Riparian restoration projects:** Hobbs has designed numerous streamside restoration projects that integrate native riparian plantings with productive agroforestry elements such as nut trees and berry shrubs. These projects demonstrate that ecological restoration and food production are not mutually exclusive goals.
-
-**Educational site development:** Her home demonstration site in the Willamette Valley has hosted hundreds of students and visitors over three decades. The property showcases food forests at various stages of maturity, integrated poultry systems, water harvesting earthworks, and native plant propagation areas.
-
-**Influence on the profession:** Hobbs' emphasis on professional standards, combined with her decades of teaching, has helped establish permaculture design as a credible professional discipline in North America. Many of her former students now operate successful design firms and educational organizations, extending her influence through their own work.
-
-Her legacy is perhaps most visible in the Pacific Northwest's unusually dense concentration of skilled permaculture designers and practitioners, many of whom trace their educational lineage directly to her courses.
-
-## See Also
-
-- [[sepp-holzer-entity]] — Austrian permaculture pioneer whose site-observation philosophy parallels Hobbs' approach
-- [[mark-shepard]] — Restoration agriculture pioneer, complementary agroforestry approach
-- [[richard-perkins]] — No-till market gardening educator, bridging permaculture and commercial farming
-- [[david-holmgren]] — Co-originator of permaculture; Holmgren's principles underpin Hobbs' teaching
-- [[agroforestry]] — Core practice area Hobbs integrates into permaculture design

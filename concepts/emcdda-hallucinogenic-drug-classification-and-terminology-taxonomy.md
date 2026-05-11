@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogenic Drug Classification and Terminology Taxonomy"
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper, 2006)
-topics: hallucinogen terminology, drug classification, psychotomimetic, psychedelic, psychodysleptic
+topics: [[hallucinogen-terminology-and-chemical-classification]], drug classification, psychotomimetic, psychedelic, psychodysleptic
 created: 2026-05-08
 ---
 
@@ -20,7 +20,7 @@ class of substances, each carrying different connotations.
 ### Psychedelic
 
 Derives from Greek meaning "mind manifesting" or "mind expanding."
-Coined by Humphry Osmond in 1957. This is the term preferred by most
+Coined by [[humphry-osmond]] in 1957. This is the term preferred by most
 recreational users as it carries positive connotations of expanded
 consciousness and spiritual insight.
 
@@ -58,7 +58,7 @@ effects, limiting their appeal relative to ecstasy.
 
 - **Phantastica** — a historical term, rarely used in modern literature
 - **Oneirogenic** — referring to dream-like states produced by
-  substances like Calea zacatechichi
+  substances like [[calea-zacatechichi]]
 
 ## Chemical Classification by Structure
 
@@ -68,8 +68,8 @@ major structural classes in the EMCDDA framework:
 ### 1. Indolealkylamines (Tryptamines)
 
 The most relevant class for mushroom hallucinogens. Includes LSD,
-psilocin (4-HO-DMT), psilocybin (4-PO-DMT), DMT, baeocystin, and
-norbaeocystin. All share an indole ring and structural similarity to
+psilocin (4-HO-DMT), [[psilocybin]] (4-PO-DMT), DMT, [[baeocystin]], and
+[[norbaeocystin]]. All share an indole ring and structural similarity to
 serotonin (5-HT), explaining their primary action at 5-HT2A receptors.
 
 ### 2. Phenylethylamines
@@ -88,40 +88,3 @@ than [[powell-psilocybin-serotonin-pathways-environmental-chemistry]].
 
 The framework distinguishes true hallucinogens from pseudo-hallucinogens
 — substances producing psychotic and delirious effects without classic
-visual disturbances. These include anticholinergic deliriants
-(scopolamine, atropine from Datura and Atropa) and dissociative
-anesthetics (ketamine, PCP), which produce confusion and delirium
-rather than the lucid [[weil-the-natural-mind-altered-states-normalcy]] of classic hallucinogens.
-
-## Relevance to Mushroom Classification
-
-Psilocybin-containing mushrooms belong firmly in the indolealkylamine
-class, distinguishing them from [[allegro-amanita-muscaria-properties-and-pharmacology]] (GABAergic muscimol
-and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]) and synthetic "herbal highs" sold in smartshops.
-
-## Historical Evolution of Terminology
-
-- **1950s-1960s**: "Psychotomimetic" dominated clinical literature
-- **1960s-1970s**: "Psychedelic" became popular during the
-  counterculture era
-- **1980s-present**: "Hallucinogenic" became standard in scientific
-  and regulatory contexts
-
-In practice, "hallucinogenic" and "psychedelic" are used
-interchangeably, though the choice signals the speaker's perspective.
-
-## Regulatory Implications
-
-The choice of classification framework has direct regulatory
-consequences. The EMCDDA's adoption of the hallucinogen terminology
-reflects a harm-focused regulatory perspective that emphasises the
-potential for perceptual distortion and psychological risk rather than
-the consciousness-expanding framing preferred by user communities.
-This tension between clinical and user-driven terminology continues
-to shape drug policy debates across Europe.
-
-## See Also
-- [[hallucinogen-terminology-and-chemical-classification]]
-- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-- [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]

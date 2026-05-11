@@ -87,31 +87,3 @@ The compound has not been widely studied outside of Shulgin's original work. No 
 ## Related Compounds
 
 Miproscaline is part of a series of 4-substituted phenethylamines derived from the mescaline scaffold. Related compounds include escaline (4-ethoxy), proscaline (4-propyloxy), and isomescaline (4-isopropoxy).
-
-The sulfur-containing phenethylamines also include thiomescaline (4-mercaptomescaline) and several 4-alkylthio derivatives. Within this family, miproscaline is one of the best-documented compounds.
-
-Structurally related psychedelic phenethylamines include 2C-T-2, 2C-T-7, and 2C-T-21, which incorporate methylthio and other sulfur substituents on the 2,5-dimethoxyphenethylamine core rather than the mescaline pattern.
-
-## Toxicity
-
-Formal toxicological studies on miproscaline have not been conducted. Based on its structural similarity to mescaline and other phenethylamines, the expected toxicity profile is moderate at recreational doses.
-
-The methylthio group could potentially be metabolized to sulfoxide or sulfone metabolites. These oxidative metabolites are common for thioether-containing drugs but have not been specifically characterized for miproscaline.
-
-As with other 5-HT2A agonists, miproscaline carries theoretical risks of serotonin syndrome when combined with MAOIs, SSRIs, or other serotonergic substances. HPPD (Hallucinogen Persisting Perception Disorder) is a rare but documented risk with all classical psychedelics.
-
-## Harm Reduction
-
-Harm reduction practices for miproscaline are consistent with those for other psychedelic phenethylamines. Testing substances with reagent kits can help verify identity, though miproscaline-specific tests are not widely available.
-
-Users should start with the lowest effective dose, ensure a safe and comfortable setting, and have a trusted sober companion present. Adequate hydration and avoidance of dangerous activities during the experience are essential.
-
-Due to the lack of formal pharmacological research, individuals with cardiovascular conditions, psychiatric disorders, or those taking medications that interact with the serotonergic system should exercise particular caution or avoid use entirely.
-
-## See Also
-
-- [[proscaline]]
-- [[2c-b]]
-- [[4-ho-met]]
-- [[bufotenin]]
-- [[dmt-nn-dimethyltryptamine]]

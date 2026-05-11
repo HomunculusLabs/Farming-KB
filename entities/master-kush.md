@@ -27,14 +27,14 @@ Master Kush is a classic indica-dominant [[blesching-cannabis-strain-selection-r
 
 The strain won the High Times Cannabis Cup twice, taking first place in 1992 and again in 1993, cementing its reputation as one of the premier indica varieties of its era. Master Kush became a foundational breeding line that has influenced hundreds of subsequent cultivars, particularly in the "Kush" family of strains.
 
-Its genetics represent some of the most authentic Afghan indica stock available outside of its native region, preserving the compact structure, heavy resin glands, and deeply relaxing body effects characteristic of Hindu Kush landraces cultivated for traditional hashish production.
+Its genetics represent some of the most authentic Afghan indica stock available outside of its native region, preserving the compact structure, heavy resin glands, and deeply relaxing body effects characteristic of Hindu Kush landraces cultivated for traditional [[cannabis-hashish-production]].
 
 ## Strain Classification
 
 - **Type:** Indica-dominant (approximately 90% indica / 10% sativa)
 - **Lineage:** Hindu Kush × Hindu Kush (two distinct landrace phenotypes)
 - **Breeder:** Dutch Passion Seed Company, Amsterdam, circa early 1990s
-- **THC content:** 17–23% (contemporary lab-tested samples)
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 17–23% (contemporary lab-tested samples)
 - **CBD content:** Low (<1%, typically 0.1–0.3%)
 - **Award history:** 1st place, High Times Cannabis Cup (1992, 1993)
 
@@ -44,7 +44,7 @@ Master Kush produces dense, chunky buds with a compact indica structure. The flo
 
 Coloration ranges from deep forest green to dark olive, often with subtle purple-blue hues in the later stages of flowering, particularly when exposed to cooler nighttime temperatures. The foliage is broad-leafleted, characteristic of indica genetics.
 
-Trichome coverage is exceptionally heavy, giving the buds a frosted, crystalline appearance. The resin glands are large and bulbous, producing abundant THC-rich glandular trichomes across all flower surfaces. This heavy resin production is a hallmark of the strain's hashish-producing heritage.
+Trichome coverage is exceptionally heavy, giving the buds a frosted, crystalline appearance. The resin glands are large and bulbous, producing abundant THC-rich glandular trichomes across all flower surfaces. This heavy [[cannabis-resin-production-and-quality-traits-clarke]] is a hallmark of the strain's hashish-producing heritage.
 
 ## Aroma and Flavor Profile
 
@@ -61,14 +61,14 @@ The aroma is classically "Kush" — a complex blend of damp earth, aged wood, an
 - **Duration:** 2–3 hours, with lingering body effects for an additional 1–2 hours
 - **Primary effects:** Deep physical relaxation, euphoria, cerebral calm, stress dissolution
 - **Body effects:** Heavy body stone, muscle tension relief, couch-lock at higher doses
-- **Medical applications:** [[cannabis-chronic-pain-management]], insomnia, anxiety, muscle spasms, PTSD-related sleep disturbance, appetite stimulation
+- **[[oner-sativa-medical-applications]]:** [[cannabis-chronic-pain-management]], insomnia, anxiety, muscle spasms, PTSD-related sleep disturbance, [[cannabis-for-cachexia-and-appetite-stimulation]]
 - **Side effects:** Dry mouth, dry eyes, dizziness at high doses, potential paranoia in anxiety-prone individuals, strong sedation
 
 The psychoactive profile is heavily body-dominant with a gentle cerebral uplift that transitions into a pervasive sense of physical calm. The strain is best suited for evening or nighttime use. At moderate doses it promotes relaxation without complete sedation; at higher doses it produces deep couch-lock and sleepiness.
 
 ## Growing Characteristics
 
-- **Flowering time:** 8–9 weeks indoors (56–63 days)
+- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors (56–63 days)
 - **Yield:** Moderate to high; 350–450 g/m² indoors, 400–500 g/plant outdoors
 - **Height:** Short to medium; 80–120 cm indoors, typically under 150 cm outdoors
 - **Difficulty:** Easy to moderate; suitable for beginners
@@ -88,28 +88,3 @@ Master Kush is considered an excellent strain for novice growers due to its hard
 | Limonene | 0.2–0.5% | Mood elevation, stress relief |
 | α-Humulene | 0.1–0.4% | Anti-inflammatory, appetite suppression |
 | Linalool | 0.05–0.2% | Anxiolytic, sedative enhancement |
-| α-Pinene | Trace | Focus, bronchodilation |
-
-## Genetic Relatives and Crosses
-
-Master Kush has been used extensively as a breeding parent, contributing its resin production, compact structure, and sedative effects to numerous descendant cultivars.
-
-- **Hindu Kush parentage:** Both parents are selected Hindu Kush landrace phenotypes, preserving authentic Afghan genetics that are increasingly rare in commercial seed markets.
-- **Notable descendants:** Master Kush has been crossed with Skunk #1, White Widow, and numerous other foundational lines. It appears in the lineage of many modern "Kush" varieties.
-- **Similar strains:** Afghani, Bubba Kush, Hindu Kush, OG Kush (distant relative through shared landrace ancestry).
-
-## Cultural Significance
-
-Master Kush emerged during the golden age of Amsterdam [[oner-cannabis-breeding-fundamentals]] in the early 1990s, a period when Dutch seed companies were refining landrace genetics into stabilized commercial varieties. Its back-to-back Cannabis Cup victories in 1992–1993 established it as a benchmark strain against which other indicas were measured.
-
-The strain represents a cultural bridge between traditional hashish-producing regions of Central Asia and Western [[mckenna-cannabis-culture-history]]. Its heavy resin production and indica profile are direct inheritances from centuries of selective breeding by Afghan and Pakistani farmers who cultivated cannabis for charas and hashish production in the Hindu Kush mountain range.
-
-Master Kush's name reflects the breeder's intention to create a "master" expression of Kush genetics — distilling the essential characteristics of Hindu Kush landraces into a stable, high-performing cultivar. The strain remains popular among medical cannabis patients seeking reliable sedative effects and among breeders seeking authentic Kush foundation stock.
-
-## See Also
-
-- [[cannabis-sativa]]
-- [[hindu-kush]]
-- [[og-kush-cannabis-entity]]
-- [[skunk-1]]
-- [[beta-caryophyllene]]

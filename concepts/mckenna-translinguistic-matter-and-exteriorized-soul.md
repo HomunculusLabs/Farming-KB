@@ -1,5 +1,5 @@
 ---
-title: "mckenna translinguistic matter and exteriorized soul and the mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah — McKenna"
+title: Mckenna Translinguistic Matter And Exteriorized Soul
 type: concept
 tags:
   - consciousness
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna articulated one of his most
+In his 1983 Esalen lecture, [[terence-mckenna]] articulated one of his most
 radical visions: the future exteriorization of the human soul as a
 "superconducting lens of translinguistic matter."
 
@@ -43,7 +43,7 @@ color" — [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] t
 Englished." McKenna proposed that language may be merely a shadow or
 lower-dimensional projection of this deeper translinguistic capacity.
 
-The tryptamine experience suggests that human beings possess a latent
+The [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] suggests that human beings possess a latent
 ability to perceive and generate meaning directly in three-dimensional
 space, without the intermediary of spoken or written language.
 
@@ -88,58 +88,3 @@ McKenna proposed that language is not merely a human tool but a
 self-replicating information system with its own evolutionary trajectory.
 
 He compared language to DNA, noting that both involve "learning, coding,
-templating, recording, testing, re-testing, re-coding."
-
-Language is "in us monkeys now and moving through us and moving out of
-our hands and into the noosphere with which we have surrounded ourselves."
-
-This framing anticipates themes later developed in complexity theory and
-the study of cultural evolution: that ideas and linguistic structures
-behave as autonomous replicators, using human minds as their substrate.
-
-## Connection to Philip K. Dick's VALIS
-
-McKenna drew explicitly on Philip K. Dick's novel *VALIS* in developing
-these ideas.
-
-Dick described the Logos as "a creature of pure information" that was
-"buried in the ground at Nag Hammadi" along with the Chenoboskion
-Library circa 370 A.D.
-
-As static information, it existed there until 1947, when the Gnostic
-texts were translated and read.
-
-Once people had the information in their minds, "the symbiote came alive"
-— analogous to how McKenna imagined mushroom consciousness operating as
-a thing of pure information.
-
-The mushroom consciousness, like Dick's Logos, exists "in hyperspace, in
-dream and in the psilocybin trance, at the quantum foundation of being,
-in the human future, and after death."
-
-## Eschatological Implications
-
-McKenna's vision of translinguistic matter and the exteriorized soul is
-fundamentally eschatological.
-
-It presents human history as a brief interval between biological
-emergence and a transcendent transformation of consciousness.
-
-"The future is bound to be psychedelic," McKenna declared, "because the
-future belongs to the mind."
-
-He argued that once humanity takes "a serious engineering approach to
-this," it will discover "the plasticity, the mutability, the eternal
-nature of the mind" and release it from the constraints of biological
-existence.
-
-The tryptamine state, in McKenna's account, provides a preview of this
-future — a "stepping out of the moving image and into eternity, the
-eternity of the standing now."
-## See Also
-
-- [[mckenna-exteriorized-soul-and-psychedelic-bar-mitzvah]]
-
-- [[the-logos-and-translinguistic-matter]]
-- [[mckenna-psilocybin-language-poetry-vocal-impulse]]
-- [[consciousness-and-psychedelics]]

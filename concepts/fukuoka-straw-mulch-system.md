@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Straw Mulch System
 
@@ -87,21 +88,6 @@ in making the work easier instead of harder. 'How about not doing this?'
 not doing that?' — that was my way of thinking. I ultimately reached the
 conclusion
 that there was no need to plow, no need to apply fertilizer, no need to make
-compost,
-no need to use insecticide. When you get right down to it, there are few
-agricultural
-jobs that need to be done at all."
 
-## Scientific Validation of Straw Mulch Benefits
-
-Modern agricultural research has confirmed many of Fukuoka's empirical observations about straw mulch. Studies on rice-straw mulching demonstrate 15-40% reduction in weed biomass compared to unmulched controls, primarily through physical suppression of weed seed germination and light interception. Straw mulch also increases soil organic carbon by 0.1-0.3% per year of continuous application, improves aggregate stability, and enhances earthworm populations by providing both food and habitat. Research from the International Rice Research Institute (IRRI) has shown that incorporating rice straw rather than burning it (the common practice in many Asian countries) can reduce nitrogen fertilizer requirements by 20-30% over several seasons as the straw decomposition feeds the soil microbial community. The moisture-retention effects are also well-documented: a 5-10 cm straw mulch layer can reduce soil surface evaporation by 50-70%, critically important in both rainfed and irrigated systems. These findings validate Fukuoka's claim that returning straw to the field is not merely waste disposal but a fundamental soil-building practice.
-
-See also:
-- [[fukuoka-rice-barley-dual-culture]] — complete rotation system
-- [[fukuoka-natural-fertility-cycle]] — soil fertility without inputs
-- [[fukuoka-one-straw-revolution-philosophy]] — the original book
-
-## Merged: Straw Mulch Detailed Guide
-updated: 2026-04-18 Fukuoka's practice of scattering fresh, uncut straw over fields is central to his [[fukuoka-natural-fruit-tree-pest-control]] — winter weeds had not yet appeared when straw was spread, so seeding over standing rice with a straw cover suppressed weed germination effectively. The recommended quantities per quarter-acre: - After rice harvest: 650-900 pounds of chicken manure before or after returning rice straw - Late February: Additional 200 pounds during barley heading stage - After barley harvest: 450-900 pounds of dried chicken manure with barley straw (fresh manure can harm rice seedlings) - Optional: 200-450 pounds during early rice heading stage However, from the standpoint of [[fukuoka-compost-unnecessary-philosophy]].
-## Merged: Discovery of the Straw Mulch Method
-In the final chapter of [[fukuoka-one-straw-revolution-philosophy]]. This discovery underlies Fukuoka's broader [[fukuoka-microbial-ecology-decomposition]] for the scientific details of natural straw decomposition. Related: fukuoka straw mulch system, [[fukuoka-straw-mulch-philosophy]], [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]
+## See Also
+- [[fukuoka-soil-fertility-straw-mulch]]

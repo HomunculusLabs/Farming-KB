@@ -11,7 +11,7 @@ sources: [raw/papers/sterilizing-surfaces-by-irradiation-with-microwaves.md]
 
 ## Overview
 
-Surface sterilization is a critical requirement across aerospace, medical, pharmaceutical, food processing, and mycological applications. The NASA [[mushroom-cultivation]] [[mushroom-substrate-sterilization-and-pasteurization]]. [[comparison-grain-spawn-vs-grain-to-grain-transfer]] is typically sterilized at 15 psi for 90–120 minutes to ensure complete penetration and spore kill. Bulk substrates may be pasteurized at lower temperatures (60–70°C) which kills most competitors but not *Bacillus* spores.
+Surface sterilization is a critical requirement across aerospace, medical, pharmaceutical, food processing, and mycological applications. The NASA [[mushroom-cultivation]] [[mushroom-substrate-sterilization-and-pasteurization]]. [[comparison-grain-spawn-vs-grain-to-grain-transfer]] is typically sterilized at 15 psi for 90–120 minutes to ensure complete penetration and spore kill. [[mushroom-cultivation-bulk-substrates]] may be pasteurized at lower temperatures (60–70°C) which kills most competitors but not *Bacillus* spores.
 
 ## Gamma Irradiation
 
@@ -22,7 +22,7 @@ Gamma rays (high-energy photons from radioactive isotopes like Cobalt-60 or Cesi
 - Excellent penetration through materials — can sterilize sealed packages
 - No significant temperature increase during treatment
 - Effective against all known microorganisms at sufficient dose
-- No chemical residues
+- No [[ingham-manure-antibiotics-chemical-residues-composting]]
 - Can sterilize pre-packaged, pre-assembled products
 
 ### Limitations
@@ -36,7 +36,7 @@ Gamma rays (high-energy photons from radioactive isotopes like Cobalt-60 or Cesi
 ## Ultraviolet (UV) Light Sterilization
 
 ### Principle
-UV-C light (254 nm) causes thymine dimers in microbial DNA, preventing replication and leading to cell death. UV is a surface phenomenon — penetration into materials is negligible.
+UV-C light (254 nm) causes thymine dimers in microbial DNA, preventing replication and leading to [[blesching-cannabis-apoptosis-and-cancer-cell-death]]. UV is a surface phenomenon — penetration into materials is negligible.
 
 ### Advantages
 - Chemical-free with no residues
@@ -46,7 +46,7 @@ UV-C light (254 nm) causes thymine dimers in microbial DNA, preventing replicati
 - Simple equipment requirements
 
 ### Limitations
-- **Line-of-sight only** — cannot sterilize shadowed areas, recesses, or complex geometries
+- **Line-of-sight only** — cannot sterilize shadowed areas, recesses, or [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
 - Decreased effectiveness with increasing distance from the source
 - UV lamps degrade over time and require regular replacement
 - Some organisms have UV repair mechanisms
@@ -88,29 +88,3 @@ Broad-spectrum antimicrobial effective against bacteria, fungi, viruses, and som
 
 ### Limitations
 - Requires controlled moisture on target surfaces (~9 μL/cm²)
-- Complex antenna and waveguide engineering needed for uniform coverage
-- Material compatibility constraints (metals, some plastics)
-- Less extensively validated than established methods
-- Standing wave patterns can create uneven exposure
-
-## Selection Guide
-
-| Application | Best Method | Rationale |
-|---|---|---|
-| Grain spawn sterilization | Autoclave | Reliable, inexpensive, heat-stable jars |
-| Sealed pre-assembled devices | Gamma irradiation | Penetrates packaging |
-| Lab bench surfaces | Alcohol wipes | Fast, no residue |
-| Clean [[stamets-growing-room-air-circulation-co2-management]] | UV-C | Continuous air treatment |
-| Complex assembled systems | Microwave | Targets internal surfaces without disassembly |
-| Whole-room decontamination | VHP | Reaches all surfaces, no residue |
-| Field emergency sterilization | Chemical (peroxide) | Portable, broad-spectrum |
-
-## References
-
-- NASA Tech Briefs MSC-22484: "Sterilizing Surfaces by Irradiation With Microwaves"
-- Atwater, J.E., Streech, N.D., Garmon, F.C. — Lyndon B. Johnson Space Center
-- Russell, A.D., Hugo, W.B., Ayliffe, G.A.J. (1999). *Principles and Practice of Disinfection, Preservation and Sterilization*.
-
-## See Also
-- [[microwave-vs-conventional-surface-sterilization-methods]]
-- [[challenge-microorganisms-microwave-surface-sterilization]]

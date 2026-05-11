@@ -9,7 +9,7 @@ sources: []
 
 # Chytrid Fungi Guide
 
-Chytridiomycota is the most basal and primitive phylum of fungi, believed to be the earliest-diverging fungal lineage. Chytrids are unique among fungi in possessing flagellated spores (zoospores) that swim through water using a single posterior flagellum. Though often overlooked, chytrids play critical ecological roles in aquatic ecosystems and include one of the most devastating wildlife pathogens ever described. (see [[fungal-interactions-organisms]]).
+Chytridiomycota is the most basal and primitive phylum of fungi, believed to be the earliest-diverging fungal lineage. Chytrids are unique among fungi in possessing flagellated spores (zoospores) that swim through water using a single posterior flagellum. Though often overlooked, chytrids play critical ecological roles in [[dighton-fungal-biomass-production-aquatic-ecosystems]] and include one of the most devastating wildlife pathogens ever described.
 
 ## Defining Characteristics
 
@@ -25,14 +25,14 @@ Chytridiomycota is the most basal and primitive phylum of fungi, believed to be 
 Modern taxonomy divides the traditional Chytridiomycota into several phyla:
 - Chytridiomycota (true chytrids)
 - Blastocladiomycota (blastoclads)
-- Neocallimastigomycota (anaerobic rumen fungi)
+- Neocallimastigomycota ([[anaerobic-rumen-fungi-biology-herbivore-digestion]])
 - Olpidiomycota (olpidium)
 
 ## Key Groups and Species
 
 ### Batrachochytrium dendrobatidis (Bd)
 
-The most infamous chytrid, Bd is the causative agent of chytridiomycosis in amphibians. Discovered in 1998, it has been responsible for the decline or extinction of over 500 amphibian species worldwide, making it the most destructive pathogen affecting vertebrate biodiversity. Bd infects keratinized skin cells of adult amphibians, disrupting osmoregulation and leading to death by cardiac arrest. (see [[biodiversity-of-fungi-chytrid-zoosporic-fungi-ecology]]).
+The most infamous chytrid, Bd is the causative agent of chytridiomycosis in amphibians. Discovered in 1998, it has been responsible for the decline or extinction of over 500 amphibian species worldwide, making it the most destructive pathogen affecting vertebrate biodiversity. Bd infects keratinized skin cells of adult amphibians, disrupting osmoregulation and leading to death by cardiac arrest.
 
 Key facts about Bd:
 - Optimal growth temperature: 17-25 C
@@ -44,7 +44,7 @@ Key facts about Bd:
 
 ### Batrachochytrium salamandrivorans (Bsal)
 
-A related chytrid discovered in 2013 that primarily affects salamanders and newts. First identified after mass die-offs of fire salamanders in Europe. Bsal is considered a major emerging threat, particularly to the diverse salamander fauna of North America. Biosecurity measures have been implemented to prevent its spread.
+A related chytrid discovered in 2013 that primarily affects salamanders and newts. First identified after mass die-offs of fire salamanders in Europe. Bsal is considered a major emerging threat, particularly to the diverse salamander fauna [[berry-growing]]. Biosecurity measures have been implemented to prevent its spread.
 
 ### Rumen Chytrids (Neocallimastigomycota)
 
@@ -60,7 +60,7 @@ Parasitic chytrids that infect plant roots. Olpidium brassicae is a vector for s
 
 ### Chytridium and Rhizophydium
 
-Saprotrophic chytrids commonly found in freshwater and soil. They decompose pollen, chitin, cellulose, and keratin in aquatic environments. These are among the most numerous and ecologically important chytrids, playing a role analogous to that of terrestrial decomposer fungi.
+Saprotrophic chytrids commonly found in freshwater and soil. They decompose pollen, chitin, cellulose, and keratin in [[fungal-roles-aquatic-environments]]. These are among the most numerous and ecologically important chytrids, playing a role analogous to that of terrestrial decomposer fungi.
 
 ## Aquatic Ecology
 
@@ -73,10 +73,10 @@ Chytrids are major decomposers in aquatic ecosystems. They are particularly impo
 - Parasitizing diatoms and other algae, regulating algal populations
 
 ### The Chytrid Energy Pathway
-Recent research has revealed that chytrids play a crucial role in aquatic food webs through the "mycoloop." When chytrids parasitize diatoms and other algae, the zoospores they produce are rich in lipids and are readily consumed by zooplankton. This transfers energy from inedible or poorly digestible algae (like diatoms with siliceous frustules) to higher trophic levels. This pathway is increasingly recognized as ecologically significant in freshwater and marine systems.
+Recent research has revealed that chytrids play a crucial role in aquatic food webs through the "mycoloop." When chytrids parasitize diatoms and other algae, the zoospores they produce are rich in lipids and are readily consumed by zooplankton. This transfers energy from inedible or poorly digestible algae (like diatoms with siliceous frustules) to higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]. This pathway is increasingly recognized as ecologically significant in freshwater and marine systems.
 
 ### Seasonal Dynamics
-Chytrid populations typically peak in spring and fall when water temperatures are moderate and organic matter input is high. Winter ice cover and summer heat generally suppress chytrid activity, though some cold-adapted species remain active under ice.
+Chytrid populations typically peak in spring and fall when water temperatures are moderate [[hamilton-composting-and-organic-matter-management]] input is high. Winter ice cover and summer heat generally suppress chytrid activity, though some cold-adapted species remain active under ice.
 
 ## Identification and Study
 

@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short growing seasons, cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
+Mountain gardening is the practice of cultivating plants at high elevations (typically above 3,000 feet) where short [[jeavons-climate-adaptation-growing-seasons]], cool temperatures, intense UV radiation, thin soils, and frost risk present unique challenges. Every 1,000 feet of elevation gain roughly corresponds to moving 200-300 miles northward in terms of growing conditions. Mountain gardeners must work creatively with microclimates, cold-hardy varieties, and season-extension techniques to achieve productive harvests.
 
 ## Altitude Effects on Growing
 
@@ -55,7 +55,7 @@ Methods that require no external energy:
 
 - **Stone walls**: Absorb heat during the day and radiate it at night; a south-facing stone wall can create a microclimate 5-10°F warmer than surrounding areas
 - **Water bodies**: Ponds, water barrels, and even large containers of water moderate temperature; water releases heat as it cools
-- **Thermal mass**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
+- **[[comparison-windbreak-vs-thermal-mass]]**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
 - **Slope position**: Cold air drains downhill; avoid planting in low spots and frost pockets
 - **Windbreaks**: Dense plantings or fences on the north and west sides reduce cold wind exposure
 - **Mulch**: A thick layer of mulch insulates soil and protects shallow roots from freezing
@@ -77,7 +77,7 @@ Methods requiring energy or materials:
 ## Rock Walls and Microclimates
 
 ### Stone Wall Construction
-Stone walls are the traditional mountain garden's most valuable tool:
+Stone walls are the [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] garden's most valuable tool:
 
 - **South-facing walls**: Absorb maximum solar radiation; create the warmest microclimates
 - **Terrace walls**: Convert slopes into level planting areas; retain soil and moisture
@@ -135,7 +135,7 @@ Perennials that survive and produce at high elevations:
 ## Soil Building at Elevation
 
 ### Thin Mountain Soils
-Mountain soils are typically shallow, rocky, and low in organic matter:
+Mountain soils are typically shallow, rocky, and low in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:
 
 - Glacial, alluvial, or residual soils with limited topsoil depth
 - High rock content provides drainage but limits root growth
@@ -143,8 +143,8 @@ Mountain soils are typically shallow, rocky, and low in organic matter:
 - Often acidic due to conifer influence and high rainfall
 
 ### Building Soil
-- Import compost and organic matter; incorporate 4-6 inches into new beds
+- Import [[coleman-compost-and-organic-fertility-management]] matter; incorporate 4-6 inches into new beds
 - Use raised beds to increase rooting depth above rocky subsoil
-- Plant green manure cover crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
+- Plant [[green-manure-cover-crops]] crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
 - Add biochar to improve nutrient retention in sandy mountain soils

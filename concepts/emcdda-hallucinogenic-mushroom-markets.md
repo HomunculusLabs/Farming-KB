@@ -87,33 +87,3 @@ Spore Ring Europe (fsre.org). Instructions on [[falconer-growing-mushrooms-in-sh
 spore prints and substrate are easily found online.
 
 ## Legal Loopholes in Retail
-
-Some retailers use existing legal loopholes. In the Czech Republic, a
-newspaper reported a shop in Prague selling hallucinogenic mushrooms
-under the label of "aromatic and decorative goods," with a leaflet
-warning customers not to ingest them, thus evading national legislation.
-
-The majority of online shops offer international shipping. However,
-many sites do not ship to countries where sales are prohibited and/or
-advise customers to verify the legal status before ordering. Many sites
-have different language versions (mainly English, French, and German) to
-attract foreign customers.
-
-## Post-Prohibition Market Shift
-
-Following UK prohibition in July 2005, internet sites stopped selling
-hallucinogenic mushrooms. UK retailers such as EveryOneDoesIt.com and
-Allsalvia.co.uk switched sales to legal alternatives including:
-
-- Fly Agaric (*[[salvia-divinorum]].
-
-## Seizures
-
-Police or customs seizures were reported in 2004 in Czech Republic,
-Estonia, Germany, Greece, Hungary, Lithuania, Netherlands, Norway,
-Poland, Portugal, Slovakia, Slovenia, and Sweden. The largest quantity
-seized was 11.5 kg in Poland. Estonia confiscated 14 mail deliveries of
-[[hallucinogenic-mushroom-legal-status-europe]] for how
-  legislation shaped the retail market
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the
-  species commonly sold in retail markets

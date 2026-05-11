@@ -1,5 +1,5 @@
 ---
-title: The fukuoka doi garment culture clothing [[query-jadam-vs-korean-natural-farming]] the fukuoka-culture-of-clothing-and-meat in comparison-natural-farming-vs-permaculture
+title: Fukuoka Doi Garment Culture Clothing [[cho-loess-powder-in-natural-farming]]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: [[masanobu-fukuoka]]
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]
@@ -9,7 +9,7 @@ tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-att
 
 ## Overview
 
-During his [[fukuoka-european-travels-natural-farming]] documented in *The Road Back to Nature*, Masanobu Fukuoka wore
+During his [[fukuoka-european-travels-natural-farming]] documented in *The Road Back to Nature*, [[masanobu-fukuoka-natural-farming-philosophy]] wore
 traditional Japanese geta (wooden sandals) and a garment called the doi throughout his tour.
 This experience led him to develop a comprehensive philosophy connecting the garments farmers
 wear to their relationship with the land, with God, and with cultural identity. He argued that
@@ -87,52 +87,3 @@ Fukuoka's reflections went beyond practicality into the spiritual dimension of f
 
 He argued that the farmer works in the service of God, and the farmer's struggle with scythe
 and hoe must be identical in spirit to the samurai holding his sword.
-
-Therefore, the farmer's work clothes must be proper dress before God.
-
-The haori and hakama — proper dress for gentlemen — probably originated in the plainer farmer's
-denchi (work vest) and monpe.
-
-The doi restored this connection in contemporary form, bridging formal and work clothing.
-
-## The Minimalist Clothing Vision
-
-Fukuoka's ultimate vision for clothing was radically minimalist.
-
-Because man is an animal born naked, simple diet and dress would suffice.
-
-One bowl and one robe — the traveling robe of a Zen monk — would do well.
-
-For Japan, he proposed men need wear only indigo-dyed cotton from Tokushima, women only light
-blue jindaifuku. Two colors throughout the year.
-
-All the Japanese ever had to do was live in houses of wood, earth, and paper, wear the doi,
-and drink tea. The revival of a people held in high esteem begins with the geta.
-
-## The Confusion of Modern Fashion
-
-Japanese fashion designers had become caught up in creating unusual new attire, driven by the
-same restlessness characterizing the broader Japanese confusion over diet and lifestyle.
-
-The Japanese had lost their traditional aesthetic anchors and were adrift in synthetic
-materials and imported fashions serving neither comfort, beauty, nor spiritual purpose.
-
-If Japanese women traveled abroad in kimono rather than Western outfits, Fukuoka believed they
-would be most happily received — traditional clothing carried cultural distinctiveness that
-commanded respect and curiosity.
-
-## Implications for Farming Communities
-
-When farmers adopted clothing of urban professionals, they implicitly accepted a hierarchy
-placing farming below other occupations.
-
-When they wore distinctive farming garments, they affirmed the dignity of agricultural work.
-
-The doi was Fukuoka's attempt to create a garment bridging these worlds: practical for field
-work, dignified for formal occasions, rooted in tradition but adapted to contemporary life.
-
-## See Also
-
-- [[fukuoka-culture-of-clothing-and-meat]]
-- [[fukuoka-road-touring-europe-geta-monpe]]
-- [[fukuoka-natural-diet-philosophy]]

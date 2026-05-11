@@ -5,9 +5,9 @@ type: species
 tags:
   - plants
   - rubiaceae
-  - herbal-medicine
+  - [[herbal-medicine]]
   - aphrodisiac
-  - yohimbine
+  - [[yohimbine]]
   - west-african-flora
   - traditional-medicine
   - alkaloids
@@ -79,67 +79,12 @@ optimal growth as it matures.
 
 ## Bioactive Compounds and Pharmacology
 
-The bark contains approximately 1–6% total indole alkaloids, with
+The bark contains approximately 1–6% total [[indole]] alkaloids, with
 yohimbine (also known as quebrachine) being the primary active constituent
 at 0.5–2% of dry bark weight. Over 30 related alkaloids have been
 identified, including alpha-yohimbine (rauwolscine), beta-yohimbine,
-corynanthine, ajmalicine, and reserpine.
+corynanthine, ajmalicine, and [[reserpine]].
 
 Yohimbine is a selective competitive antagonist of alpha-2 adrenergic
-receptors, with additional activity at serotonin 5-HT1A receptors and
+receptors, with additional activity at [[serotonin]] 5-HT1A receptors and
 dopamine D2 receptors. By blocking presynaptic alpha-2 autoreceptors, it
-increases sympathetic nervous system activity, enhancing norepinephrine
-release. This mechanism underlies its effects on sexual function, as it
-facilitates erectile response through increased penile blood flow.
-
-Corynanthine, a related alkaloid, acts as an alpha-1 antagonist, which
-may partially counteract some of yohimbine's pressor effects. Ajmalicine
-has antihypertensive and sedative properties, contributing to the
-complex pharmacological profile of crude bark extracts versus isolated
-yohimbine.
-
-## Traditional and Modern Uses
-
-In West and Central African traditional medicine, yohimbe bark decoctions
-have been used as an aphrodisiac, stimulant, and treatment for erectile
-dysfunction, fever, cough, and leprosy. Baka and Mbuti pygmy communities
-historically used the bark as a hunting stimulant and ceremonial
-intoxicant.
-
-In modern [[childrens-herbal-medicine]], yohimbe bark extract is marketed as a dietary
-supplement for sexual enhancement, athletic performance, and weight loss.
-Prescription yohimbine hydrochloride has been approved in some countries
-for the treatment of organic erectile dysfunction, though it has been
-largely superseded by PDE5 inhibitors like sildenafil.
-
-Clinical evidence supports modest efficacy of yohimbine for sexual
-dysfunction, with meta-analyses showing a positive response rate
-approximately 30–40% above placebo. Side effects at therapeutic doses
-include anxiety, tachycardia, hypertension, sweating, and insomnia.
-
-## Cultivation and Conservation
-
-*P. yohimbe* is difficult to cultivate outside its native range due to
-specific tropical requirements. Seeds lose viability rapidly and require
-moist, warm conditions for germination. [[coleman-sunlight-and-winter-crop-growth-rates]] in plantations are
-slow, with trees taking 15–25 years to reach bark-harvestable size.
-
-Wild populations have declined significantly due to unsustainable bark
-harvesting. Stripping bark too extensively or too frequently kills trees,
-and the high market demand has led to destructive harvesting practices.
-The species is listed as Endangered on the IUCN Red List and is protected
-under CITES Appendix II, which regulates international trade.
-
-Conservation efforts include community-based sustainable harvesting
-programs in Cameroon and Nigeria, cultivation trials, and the development
-of synthetic yohimbine production to reduce pressure on wild populations.
-Bark substitutes from related *Pausinystalia* species have been
-investigated, though yohimbine content varies considerably.
-## See Also
-
-- [[ephedra-sinica]] — another stimulant-containing plant with
-  adrenergic activity
-- [[piper-methysticum]] — kava, a Pacific psychoactive plant
-- [[turnera-diffusa]] — damiana, another traditional aphrodisiac herb
-- pausinystalia yohimbe — genus overview for related African medicinal trees
-- yohimbine — the primary alkaloid compound isolated from yohimbe

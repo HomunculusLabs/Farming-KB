@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
 
@@ -87,31 +88,3 @@ of nations will be measured by the quantity and quality of their forests.
 ## Sustainable Harvesting from Native Forests
 
 Given careful management, it is possible to harvest firewood, poles, and sawlogs
-from native forests without reducing the capacity of the forest to continue its
-full range of ecological functions. Like yabbies in a dam, the total canopy cover
-in a forest is limited, but that canopy may exist as many thin saplings or a few
-large trees.
-
-Thinning of regrowth forest stands allows remaining trees to grow faster and to
-a larger size. If the least desirable trees are removed as firewood, the maturing
-forest will have increased values. The principle is simple: "remove little trees
-to grow big trees." This is often counter-intuitive for people with experience at
-reforestation but none in managing established forest.
-
-## The Broader Forest Strategy
-
-Tree crops that provide human food tend to be more demanding of mineral fertility
-and grow more slowly than hardy forest trees capable of generating the most woody
-biomass. Although [[permaculture-design]] concept began with the
-question of how to create forests that were agriculturally productive, rather
-than simply seeing the need for less farmland and more forest for catchment
-protection.
-
-The holmgren-forest-management-sustainable-yield,
-[[holmgren-soil-humus-carbon-storage-rebuilding]]
-## See Also
-- [[david-holmgren]]
-- [[permaculture-plants-fire-resistant-trees-shrubs]]
-- [[permaculture-plants-legume-trees-acacia-carob-locust]]
-- [[permaculture-plants-nitrogen-fixing-trees]]
-- [[permaculture-plants-fruit-trees-subtropical]]

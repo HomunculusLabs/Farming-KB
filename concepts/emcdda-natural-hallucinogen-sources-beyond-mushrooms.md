@@ -33,19 +33,19 @@ southern Texas and northern Mexico. Contains mescaline
 (3,4,5-trimethoxyphenethylamine), a phenylethylamine hallucinogen.
 Peyote has been used in ceremonial contexts by indigenous peoples for
 over 5,000 years, most notably by the [[halpern-sacramental-peyote-and-native-american-church]] Church, which
-gained legal protection for peyote use in religious ceremonies in the
+gained legal protection for peyote use in [[entheogenic-folk-religious-ceremonies]] in the
 United States.
 
 ### Ayahuasca
 
-A psychoactive brew prepared from the Banisteriopsis caapi vine
+A psychoactive brew prepared from the [[ayahuasca-and-banisteriopsis-caapi]] vine
 (contains [[turner-harmala-alkaloids-preparation-and-dosage]] acting as MAO inhibitors) combined
-with Psychotria viridis or Diplopterys cabrerana leaves (containing
+with [[chacruna-psychotria-viridis]] or Diplopterys cabrerana leaves (containing
 DMT). The MAO inhibition allows orally active DMT, which would
 normally be broken down by monoamine oxidase enzymes in the gut.
 Used traditionally by indigenous Amazonian peoples and now in
 syncretic religious movements like Santo Daime and União do
-Vegetal throughout South America.
+Vegetal throughout [[guzman-psilocybin-mushrooms-south-america]].
 
 ### Morning Glory (Ipomoea tricolor, Turbina corymbosa)
 
@@ -55,7 +55,7 @@ traditionally by Aztec and Mazatec peoples of Mexico in ritual
 contexts. LSA is notably less potent than LSD but produces similar
 though milder effects. Morning glory seeds were noted in the EMCDDA
 report as the active ingredient in "Purple Ohms" capsules marketed
-as legal alternatives to hallucinogenic mushrooms in the UK.
+as legal alternatives [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] in the UK.
 
 ### Iboga (Tabernanthe iboga)
 
@@ -75,7 +75,7 @@ potent naturally occurring hallucinogen known. Salvinorin-A is
 structurally unique, belonging to the neoclerodane diterpene class
 rather than tryptamine or phenylethylamine families. Unlike
 classical hallucinogens, salvia acts on kappa-opioid receptors rather
-than serotonin receptors. The EMCDDA notes that Salvia divinorum
+than [[psilocybin-pharmacology-and-serotonin-receptors]]. The EMCDDA notes that Salvia divinorum
 was widely available since the mid-1990s, primarily as a smoked herb,
 and was commonly sold under the "herbal highs" product label in
 European smartshops.
@@ -87,48 +87,3 @@ animal sources, though these are far less commonly used than plant-
 and fungus-derived substances:
 
 ### Bufo Toads
-
-Species such as Bufo alvarius (Colorado River toad) secrete
-bufotoxins including 5-MeO-DMT from their parotoid glands. The
-dried secretions have been used as a smokable hallucinogenic
-substance, particularly in New Age and psychonaut communities.
-
-### Fish
-
-Certain species of fish, particularly those in the family
-Siganiidae (rabbitfish), have been reported to produce
-hallucinogenic effects when consumed. These reports come primarily
-from the Mediterranean and Indo-Pacific regions, though the specific
-compounds responsible remain poorly characterised.
-
-## Chemical Diversity Across Natural Sources
-
-What unites these diverse natural hallucinogens is their ability to
-produce distortions in sensations and markedly alter mood and thought
-processes, yet they achieve these effects through fundamentally
-different biochemical mechanisms:
-
-- **Tryptamine-based**: [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], ayahuasca (DMT), morning
-  glory (LSA) — act primarily on serotonin receptors
-- **Phenylethylamine-based**: peyote (mescaline) — distinct receptor
-  profile from tryptamines
-- **Cannabinoid-based**: cannabis — endocannabinoid system
-- **Kappa-opioid-based**: Salvia divinorum (salvinorin-A) — unique
-  mechanism among natural hallucinogens
-- **Complex indole alkaloids**: iboga (ibogaine) — multiple receptor
-  interactions including serotonin and NMDA
-
-## The "Return to Nature" Trend
-
-The EMCDDA identifies a "return to nature" megatrend as a key driver
-of interest in natural hallucinogens. This cultural movement favours
-organic and herbal products over synthetic drugs, which has facilitated
-the marketing of hallucinogenic mushrooms, Salvia divinorum, and
-morning glory seeds alongside products labelled as "herbal highs" and
-"herbal ecstasy" in European smartshops during the late 1990s and
-early 2000s.
-
-## See Also
-- [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
-- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
-- [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]

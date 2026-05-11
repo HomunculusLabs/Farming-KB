@@ -87,34 +87,3 @@ The species holds [[ethnomycology-cultural-significance-sacred-fungi]] in Hindu 
 *Curcuma aromatica* is propagated primarily through rhizome division. [[jeavons-seed-propagation-techniques]] is possible but uncommon due to low germination rates and slow growth of seedlings.
 
 Rhizome pieces weighing 25–40 g with 2–3 active buds are planted at 5–7 cm depth. Planting is typically done at the onset of the monsoon season in South Asia, during April to June.
-
-The crop requires partial shade for optimal growth; full sun exposure can reduce rhizome quality. A spacing of 30 × 30 cm is recommended, yielding approximately 30,000 plants per hectare.
-
-Organic matter application (farmyard manure at 10–15 t/ha) significantly improves rhizome yield. The crop responds well to balanced NPK fertilization, though excessive nitrogen promotes foliage at the expense of rhizome production.
-
-Harvest occurs 8–10 months after planting, once the aerial parts senesce. Average rhizome yield is 8–12 t/ha under managed conditions, lower than common turmeric but compensated by higher essential oil content.
-
-**Post-harvest processing involves washing, slicing, and sun-drying.** Dried rhizomes are typically ground to a fine powder for commercial use in cosmetics and traditional medicine formulations.
-
-## Related Species
-
-*Curcuma aromatica* is one of approximately 120 species in the genus *Curcuma*. It belongs to the *C. aromatica* complex, a group of closely related species that includes *C. longa*, *C. zedoaria*, and *C. caesia*.
-
-Compared to *C. longa*, wild turmeric produces smaller rhizomes with lower curcuminoid content but significantly higher essential oil concentration. This makes it more suitable for aromatic and topical applications rather than as a dietary spice.
-
-*Curcuma zedoaria* (white turmeric) shares the camphoraceous aroma profile but produces white rather than yellow rhizome flesh. *Curcuma caesia* (black turmeric) has a distinctive bluish-black rhizome interior and is used primarily in ritualistic and magical practices.
-
-The species can hybridize with other *Curcuma* species in cultivation, producing intermediate morphological forms. Natural hybrids have been reported in overlapping distribution zones in northeastern India and northern Thailand.
-
-## See Also
-
-- [[curcuma-angustifolia]]
-- [[curcuma-kwangsiensis]]
-- [[limnophila-aromatica]]
-
-- [[curcuma-longa]]
-- [[curcuma-zedoaria]]
-- [[zingiber-officinale]]
-- [[alpinia-galanga]]
-- [[hedychium-coronarium]]
-- [[zingiber-zerumbet]]

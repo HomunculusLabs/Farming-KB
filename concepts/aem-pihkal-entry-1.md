@@ -62,7 +62,7 @@ recrystallizations from hexane, 8.7 g yield).
 Conventional ammonium acetate/acetic acid conditions failed,
 producing either a white adduct C23H30N2O8 composed of one
 molecule each of nitrostyrene, benzaldehyde, and ammonia, or
-3,4,5-trimethoxybenzonitrile from reaction with decomposition
+3,4,5-trimethoxybenzonitrile from reaction with [[decomposition]]
 products of nitropropane.
 
 Reduction was carried out with LAH in anhydrous ether (5.9 g LAH
@@ -88,34 +88,3 @@ alkyl halides with nitrous acid, separating the unwanted nitrite
 ester from the desired nitroalkane by [[cannabis-fractional-distillation-cannabinoids]].
 Nitrostyrenes formed reasonably (often in poor yields) and
 reduced to amines that formed crystalline picrates and
-hydrochloride salts. The project was dropped once AEM proved
-inactive.
-
-Several higher homologues (AOM, ANM, AUM) were never pursued
-beyond the nitrostyrene stage. AOM was never made because no
-nonylbromide could be located to prepare the needed nitrononane.
-
-## Safety and Pharmacology
-
-No pharmacological activity was detected at 220 mg. The compound
-was not pursued further. The entire alpha-alkyl series was
-deprioritized based on this negative result and was never
-published, as there was no reason to publish presumably inactive
-and uninteresting material.
-
-## Significance
-
-AEM represents an important negative data point in the
-structure-activity relationship (SAR) of phenethylamines. It
-disproved the hypothesis of progressive potency doubling with
-alpha-carbon chain extension, a logical but incorrect
-extrapolation from the mescaline-to-TMA comparison. This finding
-helped focus subsequent research on other structural variables
-such as ring substitution patterns rather than side chain
-elongation.
-
-## See Also
-
-- [[pihkal-mescaline-analogs]]
-- [[pihkal-introduction-and-methodology]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]

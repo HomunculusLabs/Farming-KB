@@ -8,7 +8,7 @@ tags:
   - helvellaceae
   - edible
   - wild-mushroom
-  - mycology
+  - [[mycology]]
   - foraging
   - cup-fungi
   - europe
@@ -20,7 +20,7 @@ updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Helvella crispa." MushroomExpert.com.
   - Breitenbach, J. & Kränzlin, F. (1984). Fungi of Switzerland, Vol. 1. Verlag Mykologia.
-  - Denison, W.C. (1968). "The genus Helvella in psilocybin-north-america-pacific-northwest." Mycologia 60(5): 1013-1037.
+  - Denison, W.C. (1968). "The genus Helvella in [[psilocybin-north-america-pacific-northwest]]." Mycologia 60(5): 1013-1037.
   - https://www.mushroomexpert.com/helvella_crispa.html
 ---
 
@@ -28,7 +28,7 @@ sources:
 
 **Helvella crispa**, commonly known as the **white saddle** or **fluted white helvella**, is a species of
 cup fungus in the family Helvellaceae (order Pezizales).
-It is widely distributed across temperate regions of the Northern Hemisphere and is one of the more
+It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and is one of the more
 frequently encountered species in the genus Helvella.
 
 The mushroom is distinctive for its saddle-shaped, irregularly lobed cap and its deeply ribbed,
@@ -38,7 +38,7 @@ recommend caution due to variable reports of gastrointestinal upset in sensitive
 ## Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Class:** Pezizomycetes
 - **Order:** Pezizales
 - **Family:** Helvellaceae
@@ -78,7 +78,7 @@ filamentous, septate, slightly clavate at the tips, 2–4 µm wide.
 
 ## Distribution and Habitat
 
-*Helvella crispa* has a broad distribution across temperate regions of Europe, North America, and
+*Helvella crispa* has a broad distribution across temperate regions of Europe, [[guzman-psilocybin-mushrooms-north-america]], and
 Asia. In Europe, it is one of the most commonly collected Helvella species, found from Scandinavia
 to the Mediterranean.
 
@@ -88,37 +88,3 @@ paths, in disturbed soil, and in mossy areas. Fruiting occurs from late summer t
 typically August to November, with peak abundance in September and October.
 
 ## Edibility and Culinary Use
-
-*Helvella crispa* is considered edible when thoroughly cooked. Most European foraging guides rate
-it as a choice edible, particularly in France and Italy where helvellas are traditionally collected
-and consumed.
-
-**Important precautions:**
-
-- Raw or undercooked specimens may contain trace amounts of gyromitrin-like compounds.
-- Always cook thoroughly by parboiling for 10–15 minutes, discarding the water, before further
-  preparation.
-- Some individuals report gastrointestinal discomfort even with properly cooked specimens.
-- Never consume any Helvella species raw.
-- Positive identification is essential to avoid confusion with toxic species.
-
-## Ecological Role
-
-*Helvella crispa* is likely ectomycorrhizal, forming associations with hardwood trees in forest
-ecosystems. Evidence for mycorrhizal status in Helvellaceae is growing, though some species may
-also be saprotrophic on [[fungal-succession-woody-debris-ecology]]. The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest soils
-and serves as a food source for various invertebrates and small mammals.
-
-## Similar Species
-
-- *[[helvella-acetabulum]]
-
-- [[gyromitra-esculenta]]
-- [[verpa-bohemica]]
-- disciotis venosa
-- helvella acetabulum
-- helvella elastica
-
-## See Also
-
-- [[neckera-crispa]]

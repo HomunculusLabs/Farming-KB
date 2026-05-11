@@ -18,7 +18,7 @@ The breakup of medieval Europe occurred not from political or religious forces a
 
 Broadening of tastes or acquiring a taste is a learned process with both a psychological and biochemical component. On one hand, it entails overcoming the inertia of established habits that exclude the potential new food item as exotic, unfamiliar, or poisonous.
 
-On the other hand, it involves adaptation to a chemically exotic substance. This process brings into action involuntary systems such as the immune system and psychological mechanisms like wanting to accept the new food for reasons that may be as much social as nutritional.
+On the other hand, it involves adaptation to a chemically exotic substance. This process brings into action involuntary systems such as the immune system and [[psilocybin-psychological-mechanisms]] like wanting to accept the new food for reasons that may be as much social as nutritional.
 
 In the case of hallucinogenic plants, the shifts in self-image and societal role that follow their acceptance are rapid and massive. But hallucinogens are at the dramatic end of this scale.
 
@@ -42,7 +42,7 @@ The desire for novelty was not merely aesthetic but existential. It spoke to a d
 
 McKenna draws on personal experience from his fieldwork in the Upper Amazon to illustrate the power of variety. After weeks in the jungle, one's mind fills with plans for the restaurants to visit, the music to hear, the movies seen. The bewildering multiplicity of civilized life can be forgotten and then hungered for almost like withdrawal from a powerful drug.
 
-Once, after many days in the rain forest, he went to a village to ask permission to make plant collections in the tribal area. The only high-tech intrusion into the primitive circumstances of the tribe was a cheesecake calendar brought from Iquitos and proudly affixed to the thatched wall directly behind the headman.
+Once, after many days in the [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]], he went to a village to ask permission to make plant collections in the tribal area. The only high-tech intrusion into the primitive circumstances of the tribe was a cheesecake calendar brought from Iquitos and proudly affixed to the thatched wall directly behind the headman.
 
 He recounts being drawn not to the content but to the colors: magenta, cyan, and apricot. The terrible and obsessive attraction to variety was as haunting as the lure of any drug. This personal anecdote grounds the larger historical argument in direct experience.
 
@@ -87,39 +87,3 @@ When Dutch and Portuguese navigators eventually reached the Moluccas, the Spice 
 ## The Unconscious Drive to Symbiosis
 
 There was a sudden acceleration of novelty and appearance of new social forms, the telltale tracks of a quantum leap forward in the power of the European imagination. Once again, pursuit of plants and the mental stimulation they induce was propelling experimentation with new social forms, new technologies, and a sudden expansion of language and imagination.
-
-Pressure to expand the spice trade remade the arts of navigation, shipbuilding, diplomacy, warfare, geography, and economic planning. The unconscious drive to mimic and thus partly recapture the lost symbiosis with the vegetable world was acting as a catalyst to dietary experimentation and to a restless quest for new plants.
-
-This drive propelled dietary experimentation and a restless quest for new relationships with plants, including new forms of intoxication. The breakup of Christian medieval Europe was, in McKenna's reading, a botanical event as much as a political one.
-
-McKenna sees this pattern repeating throughout human history: the pursuit of plants and their psychoactive properties drives cultural innovation. The spice trade was simply the most dramatic example of this principle operating on a civilizational scale.
-
-The pursuit of plants and the mental stimulation they induce was propelling a portion of the human family into experimentation with new social forms, new technologies, and a sudden expansion of language and imagination.
-
-## From Spice to the Global Drug System
-
-When the thirst for variety was slaked by massive importation of spices, dyes, and flavorings, the infrastructure that had been put in place turned to sugar, chocolate, tea, coffee, and distilled alcohol, all of which are drugs.
-
-Our present global trading system was created to cater to people's inherent need for variety and stimulation. It did this with a single-minded intensity that brooked no interference from church or state. Neither moral scruples nor physical barriers were able to stand in its way.
-
-Now any drug, no matter how restricted its traditional area of use, can be identified and produced for rapid export and sale to hungry markets anywhere on the globe. Worldwide pandemics of substance abuse became possible for the first time in history.
-
-The importation of tobacco into Europe in the sixteenth century was the first and most obvious example, followed by the forced spread of opium use in China by the British and distilled alcohol abuse among North [[harner-american-indian-peyote-rituals]] tribes. The pattern of botanical imperialism was established and would only accelerate.
-
-The lesson McKenna draws is that the human need for psychoactive experience is fundamental and cannot be legislated away. It can only be channeled, for better or worse, through the available pharmacological options.
-
-The spice trade was not merely commerce; it was the first great chapter in the globalization of human desire for [[weil-the-natural-mind-altered-states-normalcy]]. What began as a quest for pepper and cinnamon ended with an interconnected world where every psychoactive plant could reach every market.
-
-The consequences of that transformation are still unfolding in the form of global drug prohibition, the [[cervantes-war-on-drugs-statistics]], and the ongoing tension between the human appetite for psychoactive experience and the state's desire to control it. McKenna saw the spice trade as the original template for this dynamic.
-
-This template continues to shape our world, from the opium wars to the modern war on drugs, from the sugar plantations of the Caribbean to the coca fields of South America.
-
-## See also
-
-[[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
-[[mckenna-cannabis-culture-history]]
-[[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-
-## See Also
-
-- [[mckenna-manifesto-habit-obsession-drug-dilemma]]

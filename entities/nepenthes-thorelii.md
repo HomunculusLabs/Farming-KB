@@ -13,7 +13,7 @@ sources:
   - Clarke, C. (1997). "Nepenthes of Borneo." Natural History Publications.
   - Mey, F.S. (2013). "Nepenthes thorelii ex situ." Carnivorous Plant Newsletter, 42(4), 120-126.
   - Schlauer, J. (2020). "Nepenthes nomenclatural database." Carnivorous Plant Database.
-  - McPherson, S.R. (2009). "Pitcher Plants of the datura-metel-old-world-ethnobotany." Redfern Natural History Productions.
+  - McPherson, S.R. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
 ---
 
 ## Overview
@@ -88,57 +88,7 @@ The waxy zone is covered with microscopic platelets that cause insects to
 lose traction and fall into the digestive fluid. The peristome, when wet,
 becomes extremely slippery, directing prey toward the pitcher interior.
 
-The digestive fluid contains proteases, chitinases, and esterases secreted
-by glands on the pitcher's lower surface. This fluid breaks down insect
-prey over 24–72 hours, and the resulting nutrients are absorbed through
-the glandular epithelium.
-
-The operculum (lid) prevents excess rainwater from diluting the digestive
-fluid while allowing access to the pitcher mouth. The lid also secretes
-nectar on its underside to attract prey.
-
-## Cultivation
-
-Nepenthes thorelii is considered a lowland tropical species requiring
-warm conditions and high humidity. The identity of cultivated material
-sold under this name has been questioned, with some authorities suggesting
-it may represent hybrids or other species.
-
-Plants should be grown in a well-draining mix of sphagnum peat,
-perlite, and orchid bark. Temperatures should range from 22–30 °C during
-the day with a nighttime drop to 18–22 °C.
-
-Humidity must be maintained at 60–80% for optimal pitcher production. The
-plants can tolerate lower humidity but may fail to produce functional
-traps under excessively dry conditions.
-
-Bright indirect light or partial shade is preferred. Under artificial
-lighting, 12–14 hours of illumination at moderate intensity produces
-good growth and pitcher development.
-
-## Conservation
-
-Nepenthes thorelii is listed as Data Deficient by the IUCN due to the
-absence of confirmed wild populations. The species may be extinct in the
-wild, though unexplored habitats in remote areas of Indochina could still
-harbor surviving populations.
-
-The primary historical threat was habitat destruction from agricultural
-development and urbanization in southern Vietnam and eastern Cambodia. The
-region has undergone extensive land-use change over the past century.
-
-Cultivated plants sold as N. thorelii provide an ex situ genetic reserve,
-though the taxonomic identity of this material requires clarification.
-Field surveys in potentially suitable habitat are needed to determine
-whether any wild populations persist.
-
 ## See Also
-
-- [[nepenthes-rajah]]
-- [[drosera-rotundifolia]]
-- [[drosera-capensis]]
-- [[pinguicula-moranensis]]
-- [[utricularia-vulgaris]]
-- [[dionaea-muscipula]]
-- [[cephalotus-follicularis]]
-- darlingtonia californiana
+- [[garden-myths-native-plants-and-invasive-species]]
+- [[nepenthes-bicalcarata]]
+- [[nepenthes-lowii]]

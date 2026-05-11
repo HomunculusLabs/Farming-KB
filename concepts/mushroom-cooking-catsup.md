@@ -1,5 +1,5 @@
 ---
-title: falconer-mushroom-cooking-selection-and-preparation and Catsup
+title: Mushroom Cooking Catsup
 created: 2026-04-28
 tags: [mushrooms, cooking, catsup, victorian-cuisine, food-preservation]
 date: 2026-04-28
@@ -11,11 +11,11 @@ type: concept
 
 # Mushroom Cooking and Catsup
 
-James Cuthill included practical cooking instructions in his
+[[james-cuthill]] included practical cooking instructions in his
 1870 treatise on [[accessible-mushroom-cultivation-for-disabilities]], recognising that
 [[magic-mushroom-preparation-and-consumption-methods]] were the ultimate purpose of all
 cultivation efforts. He addressed both the cottager's wife
-with simple home cooking methods and the commercial grower
+with simple home [[solar-cooking-methods]] and the commercial grower
 with guidance on mushroom catsup production.
 
 ## Nutritional Value
@@ -88,57 +88,3 @@ with wild-gathered specimens.
 ### Quality of London Catsup
 
 London mushroom catsup was acknowledged to be very high-
-flavoured. However, Cuthill raised a disturbing concern about
-commercial production, noting that it was said to be "not
-unfrequently made of the broth of dead horses." This
-suggestion of adulteration was a common concern in Victorian
-food production, where the ingredients of processed foods
-were often opaque to consumers.
-
-The implication was that home-produced mushroom catsup from
-genuinely [[fungi-cultivated-mushrooms-pathogens-competitors]] offered both a superior and
-more honest product than what might be purchased from
-commercial suppliers of uncertain provenance.
-
-### Commercial Value
-
-A cottager with surplus mushrooms could convert them into
-catsup for sale, extending the shelf life of the crop and
-increasing its value. While Cuthill did not provide a
-detailed catsup recipe in his mushroom treatise, the
-reference to its commercial value indicates that recipes
-were widely known and the market was well-established.
-
-## Testing for Edibility
-
-Cuthill provided a simple test for distinguishing true edible
-mushrooms from [[ramsbottom-poisonous-fungi-identification-guide]]: putting salt over the gills.
-If the mushroom is genuine, the gills will turn black in a
-short time, being of exactly the colour of an old, over-grown
-mushroom. On poisonous fungi, salt has no effect.
-
-He assured readers that no one need have doubts about
-mushrooms grown by themselves from pure horse manure and pure
-spawn. The risk of poisonous contamination only existed when
-town hawkers gathered mushrooms from fields, where from
-ignorance or carelessness they were likely to gather
-toadstools mixed with genuine mushrooms. No thoughtful grower
-would mix horse-chestnut leaves or old decayed wood with
-their beds, materials that might introduce spurious fungi.
-
-## Market Value
-
-Cuthill referenced market prices to illustrate the value of
-cultivated mushrooms. Thirty years before his writing, one
-pottle (about one pound) could realise ten shillings. Even
-at the time of writing, a pound occasionally sold for five
-shillings in Covent Garden Market. His record specimen, grown
-in July 1856, had a circumference of three feet six inches
-and weighed four and a half pounds, worth at least twenty
-shillings at market values.
-## See Also
-
-- [[falconer-mushroom-cooking-selection-and-preparation]]
-- [[falconer-victorian-mushroom-cooking-recipes]]
-- [[james-cuthill]]
-- [[mushroom-cultivation]]

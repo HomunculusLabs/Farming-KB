@@ -88,34 +88,3 @@ of mushrooms in honey (as described in the myth of Glaukos preserved in a
 honey pithos). By the late Minoan period, opium had largely replaced the older
 hallucinogens as the vehicle of visionary experience—a "strong medicine" for
 a culture that had lost its original connection to the mushroom
-mystery.
-## Dionysus: The Twice-Born God
-
-Dionysus entered Greek culture from the south—from island cultures with
-roots ten thousand years deep in the religion of the mushroom Mother Goddess.
-In his androgyny, madness, and personification of ecstatic intoxication,
-Dionysus represents the death agony of the partnership culture. A male god
-softened by the androgynous values of Gaian culture, a dying god personifying
-the death of the symbiotic relationship to vegetation—Dionysus was
-"comprehensible only to initiates, usually women, in the cult." Only in the
-late phase of Greek culture was he transformed into the god of wine; the older
-stratum is darker, touched with the bizarre, and connected to vegetation cults
-of great
-antiquity.
-## The Fall: From Partnership to Dominator
-
-McKenna follows Riane Eisler and Marija Gimbutas in arguing that Old
-Europe—matrifocal, agricultural, egalitarian, and peaceful—was disrupted
-by successive waves of Indo-European invaders (the "Kurgan Waves") who were
-patriarchal, stratified, pastoral, mobile, and war-oriented. With this
-transition, the great mystery religions were suppressed, monotheism and
-patriarchy triumphed, and what McKenna calls "the dark night of the planetary
-soul that we call Western civilization
-began."
-The consequences of this transition reverberate to the present day. The
-replacement of the Great Goddess with a male sky-god inverted the cosmological
-hierarchy, placing the masculine above the feminine, the transcendent above
-the immanent, and the authoritarian above the ecstatic. As McKenna wrote: "The
-fall from Paradise seems to have had its beginning in the casting out of the
-psychedelic plants from the diet of
-humankind."

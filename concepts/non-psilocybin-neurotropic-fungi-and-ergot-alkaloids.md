@@ -88,15 +88,3 @@ fungi used by indigenous peoples, particularly in New Guinea. Heim
 aborigines. However, Ott (1993) stated that they do not possess any
 neurotropic properties, raising questions about whether their effects
 are truly chemical or primarily cultural and suggestible.
-
-### Gasteromycetes (Puffballs)
-
-Six species of gasteromycetes from the Lycoperdales and Phallales in
-three genera are used as sacred fung [[global-distribution-of-neurotropic-fungi]]
-- [[mckenna-soma-mystery-and-the-vedic-enigma]]
-
-## See Also
-
-- [[ergot-amanita-neurotropic-fungi-groups]]
-- non-psilocybe-neurotropic-fungi-genera
-- [[ergot-fungi-and-cordyceps]]

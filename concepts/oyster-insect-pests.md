@@ -1,5 +1,5 @@
 ---
-title: "Insect Pests of query-how-to-grow-oyster-mushrooms-at-home"
+title: Oyster Insect Pests
 created: 2026-04-28
 tags: [pests, insects, mites, sciarids, pest-management]
 date: 2026-04-28
@@ -32,13 +32,13 @@ multifaceted and severe:
 - Adult flies spread diseases and mites between cultivation units
 
 Female adults lay 100-130 eggs at a time on cultivation beds. Eggs hatch
-after 4-5 days at 20C. Growth and development are delayed or poor below 15C
-or above 30C, indicating that temperature management can help suppress
+after 4-5 days at 20C. [[cytokinin-plant-growth-and-development]] are delayed or poor below 15C
+or above 30C, indicating that [[cervantes-reservoir-temperature-management]] can help suppress
 sciarid populations during cooler or warmer periods.
 
 ## Scaptosids (Coboldia fuscipes)
 
-This fly species occurs mainly during summer crop cultivation when
+This fly species occurs mainly during summer [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] when
 temperatures are elevated. Larvae feed on mycelium, causing substrate rotting
 and significant yield loss. Both adults and larvae are known to transfer mites
 and diseases between cultivation units. Larvae grow and develop rapidly above
@@ -65,7 +65,7 @@ makes exclusion through physical barriers the most effective control strategy.
 Phorid adults are 2-4mm and are characterized by quick, hopping movement on
 substrate surfaces. Larvae are 4-6mm long with white, transparent bodies and
 no distinct black head capsule, distinguishing them from sciarid larvae.
-Phorid larvae feed on mycelia and create cavities in fruiting bodies.
+Phorid larvae feed on mycelia and create cavities in [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 Phorids usually occur during summer cultivation but normally cause less damage
 than other fly species.
 
@@ -88,48 +88,3 @@ quality. Beyond direct feeding damage, mites carry pathogens and nematodes.
 Some species cause itchy rashes among growers handling infested substrate.
 
 Mites are particularly problematic because they can survive in substrate
-residues and spread between cultivation cycles. Thorough pasteurization is
-the most effective mite control measure.
-
-## Integrated Pest Management
-
-Sanitation and hygiene form the foundation of pest management:
-
-- Keep growing houses thoroughly clean and disinfected before each
-  cultivation cycle
-- Remove all waste, weed material, mushroom debris, and standing water that
-  could harbor or attract pests
-- Install mesh screening with apertures not exceeding 0.5-0.6mm on air
-  inlets to exclude adult flies
-- Keep doors closed during spawning and mycelium growth phases
-- Maintain low fly populations during [[mushroom-spawn-run-thermogenesis-cotter]] to prevent the initial
-  infestations that produce high populations later
-- Pasteurize substrates thoroughly, especially for mite control
-- Burn mosquito coils inside growing houses as effective [[jadam-fly-control-livestock]]
-- Minimize the number of people entering growing rooms
-- Monitor pest populations regularly using [[cervantes-sticky-traps-pest-monitoring]] and visual
-  inspection to detect infestations early
-
-## Seasonal Patterns
-
-Understanding seasonal pest patterns helps growers anticipate and prevent
-infestations. Cool-season pests like sciarids dominate during spring and
-autumn when temperatures are moderate, while warm-season species like
-scaptosids and phorids proliferate during summer. In tropical regions with
-minimal seasonal variation, pest pressure remains relatively constant
-year-round, making continuous vigilance and prevention even more important.
-
-## Economic Impact
-
-Pest damage in oyster mushroom cultivation translates directly to economic
-losses through reduced yield, lower quality, and increased control costs.
-Severe infestations can cause total crop failure. The cost of chemical
-controls, screening materials, and labor for sanitation must be weighed
-against potential losses. Prevention through good hygiene and physical
-barriers is consistently more cost-effective than remedial chemical
-treatment after infestation has occurred.
-
-## See Also
-- [[query-how-to-grow-oyster-mushrooms-at-home]]
-- [[oyster-brown-blotch-disease]]
-- [[oyster-growing-house-types]]

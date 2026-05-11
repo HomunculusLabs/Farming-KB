@@ -1,5 +1,5 @@
 ---
-title: JADAM Local Material Resource Cycling
+title: Jadam Local Material Resource Cycling
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Local Material Resource Cycling
 
-JADAM's ultra-low-cost farming depends on using locally available, free or nearly free materials as inputs. The system eliminates dependence on purchased inputs by cycling nutrients on-farm through crop residues, wild grass, leaf mold, and other locally sourced materials.
+JADAM's ultra-low-cost farming depends on using locally available, free or nearly free materials as inputs. The system eliminates dependence on purchased inputs by cycling nutrients on-farm through [[jadam-monoculture-disorder-crop-residues]], wild grass, leaf mold, and other locally sourced materials.
 
 ## The Principle: Return What Was Taken
 
@@ -19,10 +19,10 @@ Fertilizer exists to bring back nutrients removed by harvest. What you emptied, 
 
 ### Crop Residues
 
-Crop residues (branches, leaves, roots, fruits) are the single best fertilizer for crops because they have the exact nutritional balance the crop needs. JADAM does not view crop residues as a disease source but as a nutrient source. They are the perfect fertilizer -- returning to the soil what the crop extracted.
+Crop residues (branches, leaves, roots, fruits) are the single best fertilizer for crops because they have the exact [[jadam-nutritional-balance-philosophy]] the crop needs. JADAM does not view crop residues as a disease source but as a nutrient source. They are the perfect fertilizer -- returning to the soil what the crop extracted.
 
 - Use as base fertilizer by leaving on the soil surface
-- Convert to liquid fertilizer (JLF) by [[jadam-anaerobic-fermentation-principles]] in water with leaf mold
+- Convert to [[comfrey-tea-liquid-fertilizer]] (JLF) by [[jadam-anaerobic-fermentation-principles]] in water with leaf mold
 - Nitrogen content of various JLF sources: wild grass (0.01%), purslane (0.2%), tomato (0.27%), spinach (0.29%)
 
 ### Wild Grass
@@ -32,7 +32,7 @@ Wild grass is second only to crop residues because it has a nutrient composition
 - Cut wild grass and use as JLF material
 - Combine with crop residues to make "GC-JLF" (grass and crop residues JLF)
 - Dilute GC-JLF approximately 100x and use throughout the season
-- Rye broadcast in autumn provides approximately 20 tons of organic matter per 0.1 ha
+- Rye broadcast in autumn provides approximately 20 tons of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] per 0.1 ha
 
 ### Leaf Mold
 
@@ -77,7 +77,7 @@ JADAM strongly opposes the use of sugar, molasses, vinegar, wood vinegar, and al
 ### Base Fertilizer
 - Crop residues left on soil surface
 - Cover crop (hairy vetch, oats, rye, etc.)
-- Additional: sawdust, tree bark, or leaves if cover crops are not possible
+- Additional: sawdust, tree bark, or leaves if [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] not possible
 
 ### Additional Fertilizer
 - Crop residue JLF (best -- same nutrients the crop needs)
@@ -88,22 +88,3 @@ JADAM strongly opposes the use of sugar, molasses, vinegar, wood vinegar, and al
 ### Quality Improvers (anytime)
 - Sea water or sea salt
 - Humus soil JLF
-- Phyllite JLF
-- Chitosan JLF
-- [[bionutrients-lab-calcium-phosphate-calamansi]] JLF
-- Potassium JLF
-
-## Self-Sufficiency Target
-
-JADAM aims for farmers to produce all inputs themselves from local materials. The only purchased items needed are ingredients for [[jadam-natural-pesticide-institute-and-research]] and wetting agent, costing approximately $100 per acre per year. Everything else -- fertilizer, microorganisms, minerals -- comes from what is freely available on or near the farm.
-
-## Related
-
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-calcium-phosphate-fertilizer]]
-- [[jadam-nutritional-balance-fertilizer]]

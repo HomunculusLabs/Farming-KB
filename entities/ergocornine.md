@@ -11,8 +11,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hofmann, A. (1964). "The active principles of the ergot fungus." Proceedings of the Royal Society of Medicine, 57(Suppl), 14–20.
-- Berde, B., Schild, H.O. (1978). Ergot Alkaloids and Related Compounds. Springer-Verlag.
+  - Hofmann, A. (1964). "The active principles of the ergot-fungus." Proceedings of the Royal Society of Medicine, 57(Suppl), 14–20.
+- Berde, B., Schild, H.O. (1978). [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] and Related Compounds. Springer-Verlag.
 - Schardl, C.L., Panaccione, D.G., Tudzynski, P. (2006). "Ergot alkaloids — biology and molecular biology." Alkaloids: Chemical and Biological Perspectives, 63, 45–86.
 - Gröger, D., Floss, H.G. (1998). "Biochemistry of ergot alkaloids." In: Biochemistry of Microbial Degradation. Springer.
 - Kren, V., Cvak, L. (1999). Ergot: The Genus Claviceps. CRC Press.
@@ -30,7 +30,7 @@ ergot fungus *[[lysergic-acid-amide]] linked to a cyclol ring
 
 The distinguishing feature among the four principal ergopeptines is the
 first amino acid in the tripeptide moiety:
-- **Ergocornine:** L-valine (isopropyl side chain)
+- **Ergocornine:** L-valine (isopropyl [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]])
 - **Ergocristine:** L-phenylalanine (benzyl side chain)
 - **Ergocryptine:** L-leucine (isobutyl side chain)
 - **Ergotamine:** L-alanine (methyl side chain)
@@ -72,7 +72,7 @@ pathway**, which proceeds through several well-characterized steps:
 1. L-tryptophan → dimethylallyltryptophan (DMAT) by prenyltransferase
 2. DMAT → festuclavine via a series of methylation and reduction steps
 3. Festuclavine → [[ergot-and-lysergic-acid-history]] (via agroclavine intermediates)
-4. Lysergic acid + activated tripeptide (L-Val-L-Pro-L-Phe) → ergocornine
+4. [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] + activated tripeptide (L-Val-L-Pro-L-Phe) → ergocornine
    via the enzyme **ergopeptine synthase** (a non-ribosomal peptide
    synthetase-like enzyme complex)
 
@@ -87,29 +87,4 @@ Ergocornine is produced primarily by:
 - ***[[bloomfield-ergot-claviceps-purpurea-ergotism]]*** — the common ergot fungus parasitizing rye,
   wheat, barley, and other cereal grasses. Ergocornine typically
   constitutes 5–15% of the total ergopeptine alkaloid fraction.
-- ***Claviceps paspali*** — tropical ergot species on *Paspalum* grasses
-- [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in the *Epichloë* (formerly *Neotyphodium*) genus
-  infecting pasture grasses, where ergopeptines contribute to livestock
-  toxicosis (fescue toxicosis, ryegrass staggers)
-
-Total ergopeptine content in *C. purpurea* sclerotia ranges from 0.2–0.5%
-dry weight, with ergocornine as a significant but not dominant component.
-
-## Derivatives and Applications
-
-**Bromocriptine** (2-bromo-α-ergocryptine) is a semisynthetic derivative
-of ergocryptine, a close structural relative of ergocornine. Bromocriptine
-is widely prescribed for Parkinson's disease, hyperprolactinemia, and
-type 2 diabetes. While ergocornine itself is not used clinically, it
-serves as an important pharmacological reference compound for understanding
-ergopeptine structure-activity relationships.
-
-Ergocornine has been used experimentally to:
-- Characterize dopamine receptor subtypes in radioligand binding assays
-- Study prolactin regulation in neuroendocrinology research
-- Investigate ergopeptine biosynthesis in *Claviceps* genetics
-
-## See Also
-
-- [[ergotamine]] — Clinically important ergopeptine for migraine treatment
-- [[lsd]] — Semisynthetic lysergamide derived from ergot alkaloid pathway
+- ***[[claviceps-paspali]]*** — tropical ergot species on *Paspalum* grasses

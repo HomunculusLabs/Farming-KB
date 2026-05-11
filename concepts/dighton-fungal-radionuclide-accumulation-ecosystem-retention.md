@@ -22,7 +22,7 @@ radionuclide waste and hazards of radiation pollution from nuclear
 detonations and releases from atomic energy plants. The Chernobyl
 disaster in 1986 focused attention on accumulation of radioactive
 fallout in terrestrial ecosystem components, including fungi, which
-serve as both nutrient accumulators and vectors for radionuclide
+serve as both [[dynamic-nutrient-accumulators]] and vectors for radionuclide
 transfer through food chains.
 
 ## Radionuclide Accumulation in Fruit Bodies
@@ -35,7 +35,7 @@ fruiting structures. Members of the Cortinariaceae are known cesium
 accumulators. The European Community set a limit of 600 Bq per kg for
 foodstuffs, but Byrne found levels of 134,137Cs radioactivity in fungi
 ranging from 0.5 kBq per kg dry weight (Cortinarius praestans) to 43
-and 44 kBq per kg (Laccaria amethystina and Cortinarius armillatus), up
+and 44 kBq per kg ([[laccaria-amethystina]] and Cortinarius armillatus), up
 to 80 times the safe consumption limit.
 
 Fungi accumulate a range of radionuclides beyond cesium, including 7Be,
@@ -51,7 +51,7 @@ divided Ukraine into regions of different soil contamination levels.
 Among 41 basidiomycete species, activity of 137Cs ranged from zero to
 33 kBq per kg dry weight in low-contamination regions to 1.4 to 3.7 MBq
 per kg in heavily contaminated areas around Chernobyl. Within
-Suillus luteus, a strong positive relationship existed between 137Cs
+[[suillus-luteus]], a strong positive relationship existed between 137Cs
 and 134Cs accumulation and soil surface contamination levels.
 
 Concentration factors for radiocesium accumulation into basidiomycete
@@ -76,54 +76,14 @@ and retainers of radionuclides in the environment.
 
 ## Uptake Mechanisms
 
-Radionuclide uptake mechanisms in fungi involve cell-wall ion exchange
+[[dighton-fungal-radionuclide-uptake-mechanisms]] in fungi involve cell-wall ion exchange
 sites and potassium replacement. Potassium replacement is species-
-specific: Rb and Cs replace K in Fusarium solani, but only Rb, not Li,
+specific: Rb and Cs replace K in [[fusarium-solani]], but only Rb, not Li,
 Na, or Cs, could replace K in Candida utilis. Connolly et al. (1998)
 demonstrated that the [[bloomfield-wood-decay-fungi-spalted-timber]] fungus Resinicium bicolor could utilize
 strontium from strontianite sand, translocate it through mycelial cord
 systems, and deposit it in [[fungal-calcium-oxalate-crystals]] crystals. This suggests
 strontium behaves similarly to calcium in [[singh-fungal-metabolism-pahs]] and
-indicates a pathway for translocation of 90Sr within decomposer fungi.
+indicates a pathway for translocation of 90Sr within [[decomposer-fungi-succession]].
 
 ## Mycorrhizal Influence on Plant Uptake
-
-The role of mycorrhizae in plant uptake of radionuclides is complex and
-sometimes conflicting. Arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] of soybeans
-by Glomus mosseae significantly increased 90Sr uptake. However, ericoid
-mycorrhizal heather plants showed lower radiocesium influx than
-nonmycorrhizal plants, though internal redistribution allowed greater
-proportion of Cs to be translocated to shoots in mycorrhizal plants.
-Berreck and Hasselwandter (2001) showed mycorrhizal development in
-Agrostis tenuis roots reduced Cs uptake at moderate nutrient levels,
-suggesting protection through sequestration in extraradical hyphae.
-
-## Saprotrophic Immobilization
-
-Grassland soil saprotrophic fungi have great potential for uptake and
-immobilization of radiocesium fallout. Dighton et al. (1991) estimated
-that the fungal complement of two upland grass ecosystems in northern
-England could take up between 350 and 804 nmol Cs per square meter per
-hour. Considering radiocesium concentrations in pore water at the
-micromolar level, these fungi could accumulate a large percentage of
-total fallout. The distribution of fungal mycelia in upper soil horizons
-correlates with radiocesium accumulation in upper soil and reduced
-downward movement through immobilization.
-
-## Chernobyl Reactor Communities
-
-Zhdanova et al. (1994, 2000) showed that [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in soil at
-Chernobyl have been altered by intense radiation doses, leading to
-simpler community structure and dominance of melanin-containing
-(pigmented) fungal species at higher radioactivity levels. Large numbers
-of fungal species can still be isolated from the walls of the reactor
-room, though intense sustained radiation has shifted genetic composition
-within some species.
-
-## See Also
-
-- [[dighton-fungal-radionuclide-uptake-mechanisms]]
-
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- [[singh-uranium-radionuclide-fungal-biosorption]]
-- [[dighton-fungal-roles-in-nutrient-cycling]]

@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -13,15 +14,15 @@ type: concept
 
 As cannabis plants progress through flowering, the weight of
 developing buds can cause branches to bend, break, or collapse.
-Jorge Cervantes covers several methods of physical plant support that
-help maintain canopy structure, improve light distribution, and
+[[jorge-cervantes]] covers several methods of physical plant support that
+help maintain canopy structure, improve [[cervantes-reflective-hoods-light-distribution]], and
 prevent crop loss from structural failure.
 
 ## The Need for Plant Support
 
-Heavy-yielding cannabis strains often develop massive flower clusters
+Heavy-yielding [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] often develop massive flower clusters
 that exceed the load-bearing capacity of their branches. Cervantes
-notes that large strains like 'Big Bud' yield enormous amounts and
+notes that large strains like '[[big-bud]]' yield enormous amounts and
 bottom branches must be tied or staked to avoid breaking under bud
 weight. Similarly, plants with dominant main colas and several large
 terminal buds on main branches may need trellising to avoid broken
@@ -33,7 +34,7 @@ dense and heavy.
 
 Bamboo sticks are one of the simplest and most commonly used support
 tools. Cervantes describes plants so large they were staked with
-bamboo sticks. Stakes are driven into the growing medium alongside
+bamboo sticks. Stakes are driven into the [[cervantes-green-algae-growing-medium]] alongside
 the main stem or branches, and the plant is secured with soft ties,
 twine, or plant clips. Key considerations:
 
@@ -87,26 +88,3 @@ trying to prop up branches that have already bent, which can cause
 additional stress or breakage. Support should be adjusted as plants
 grow -- trellis netting can be raised in layers, and stakes can be
 extended as needed.
-
-## Integrating Support with Training
-
-Plant support works synergistically with [[cannabis-training-techniques-comparison]].
-SCROG ([[cannabis-screen-of-green-scrog-guide]]) inherently provides support as plants grow
-through the screen. In supercropping, bent branches may need stakes
-to hold their new position while the knuckle heals. Low-stress
-training with tie-downs often requires a trellis or net to create
-the horizontal canopy structure. The most effective gardens combine
-training methods with physical support to maximize yield and
-minimize the risk of structural failure during peak flower weight.
-
-When combining support with training, install the support structure
-before applying training techniques. A trellis net should be in
-place before bending branches under it. Stakes should be positioned
-before supercropping so the bent branch has something to lean
-against while the knuckle forms. Planning ahead prevents the need
-to work around heavy buds and fragile stems later in flowering.
-
-## See Also
-- [[screen-of-green]]
-- [[cervantes-flowering-phase]]
-- [[cervantes-co2-enrichment]]

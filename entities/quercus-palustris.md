@@ -21,7 +21,7 @@ sources:
 
 **Quercus palustris**, commonly known as pin oak or swamp Spanish oak, is a
 deciduous tree in the family Fagaceae. It is native to eastern and central
-North America, ranging from New England to the Midwest and south to the
+[[guzman-psilocybin-mushrooms-north-america]], ranging from New England to the Midwest and south to the
 Ozark Plateau.
 
 The species is one of the most widely planted oaks in urban landscapes due to
@@ -38,7 +38,7 @@ of 60–100 cm at maturity.
 **Quercus palustris** Münchh. was described by Otto von Münchhausen in 1770.
 The specific epithet *palustris* refers to its preference for swampy, low-lying
 habitats. It belongs to section *Lobatae* (red oaks), characterized by bristle-
-tipped leaf lobes and acorns that mature over two growing seasons.
+tipped leaf lobes and acorns that mature over two [[jeavons-climate-adaptation-growing-seasons]].
 
 The leaves are 10–18 cm long and 8–13 cm wide, with 5–7 deep lobes separated
 by wide U-shaped sinuses. Each lobe terminates in one or more bristle-tipped
@@ -65,11 +65,11 @@ Coastal Plain and the upper Mississippi Valley.
 The species is most commonly associated with bottomland forests, floodplain
 swamps, and the margins of ponds and streams. It thrives in poorly drained,
 acidic clay soils with a pH of 4.5–6.0. It is frequently a dominant canopy
-tree in swamp hardwood forests of the central United States.
+tree in swamp hardwood forests of the central [[dmt-containing-plants-united-states-halpern]].
 
 Pin oak is relatively intolerant of alkaline soils. In landscapes with high
 pH (>7.0), the tree develops severe iron chlorosis, characterized by yellowing
-of interveinal leaf tissue while veins remain green.
+of interveinal [[leaf-tissue-analysis-crop-nutrient-status]] while veins remain green.
 
 ## Cultivation and Landscaping
 
@@ -83,63 +83,7 @@ fibrous, shallow root system. It prefers full sun and tolerates wet
 conditions better than most landscape oaks, including periodic flooding of
 up to 30 days during the dormant season.
 
-Growth rate is moderate to fast, averaging 30–60 cm per year in youth.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate to fast, averaging 30–60 cm per year in youth.
 Pin oak begins producing acorns at approximately 20–25 years of age.
 Cultivars are uncommon; the species form is overwhelmingly preferred in
 nursery trade.
-
-A significant limitation in urban settings is the tree's tendency to
-retain dead lower branches. These must be removed by pruning, as they do
-not self-prune readily and can create maintenance hazards along sidewalks
-and roads.
-
-## Ecology and Wildlife
-
-Pin oak acorns are an important food source for wildlife, including wild
-turkey, white-tailed deer, wood ducks, mallards, blue jays, and various
-species of squirrel. The acorns are relatively low in tannins compared to
-many red oak species, making them more palatable to wildlife.
-
-The tree provides nesting habitat and cover for numerous bird species.
-Cavity-nesting birds such as woodpeckers, chickadees, and nuthatches use
-mature pin oaks for excavation sites. The dense canopy also offers summer
-roosting habitat for migratory songbirds.
-
-In bottomland forest ecosystems, pin oak plays a role in flood attenuation
-and streambank stabilization. Its shallow, spreading root system helps bind
-alluvial soils along river corridors.
-
-Several [[bloomfield-fungal-pathogens-and-parasites]] affect pin oak, including oak wilt (*Ceratocystis
-fagacearum*), which can be lethal, and leaf blister (*Taphrina caerulescens*).
-The species is also a host for gall wasps of the family Cynipidae, which
-form distinctive spherical galls on leaves and twigs.
-
-## Timber and Uses
-
-Pin oak lumber is classified as red oak and is sold collectively with other
-red oak species (*Quercus* spp.) in commercial markets. The wood is hard,
-heavy, and coarse-grained with a specific gravity of approximately 0.63.
-
-It is used for flooring, furniture, cabinetry, millwork, and pallets. The
-lumber machines well and takes stain and finish uniformly. However, pin oak
-is not considered a premium timber species compared to white oak or northern
-red oak due to its relatively small size and tendency toward tension wood.
-
-Historically, pin oak was used for fence posts, railroad ties, and general
-construction. The species has also been used in mine timbers and for fuelwood.
-In the contemporary market, it remains an important component of the
-central hardwood lumber resource.
-
-The bark was historically used in tanning leather, as it contains moderate
-levels of tannins. Indigenous peoples of the eastern woodlands utilized pin
-oak acorns as a food source after leaching to remove bitter tannins.
-
-## See Also
-
-- [[eleocharis-palustris]]
-
-- [[quercus-alba]]
-- [[quercus-suber]]
-- [[acer-saccharum]]
-- [[carya-ovata]]
-- [[betula-papyrifera]]

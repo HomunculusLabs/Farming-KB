@@ -1,6 +1,6 @@
 ---
-title: Mushroom mushroom bag inoculation short needle vs long needle Short Needle vs Long Needle Methods
-source: raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
+title: Mushroom [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]] [[jarrold-short-needle-vs-long-needle-mushroom-inoculation-methods]] Long Needle
+source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 tags: [mushroom-cultivation, inoculation, spore-syringe, needle-method, boil-a-bag, sterile-technique]
 created: 2026-05-09
 ---
@@ -53,7 +53,7 @@ This sealing step is critical — without it, the
 puncture becomes a contamination vector.
 
 The short needle method is more labour-intensive and
-carries higher contamination risk.
+carries higher [[fungicide-treated-seed-contamination-risk-mushroom-substrate]].
 
 ## Long Needle Method
 
@@ -87,43 +87,3 @@ Thin stainless steel tubing from model shops is
 inserted as a replacement.
 
 Heating the tube tip before insertion aids fitting.
-
-## Flame Sterilisation Protocol
-
-The needle must be flame-sterilised between every
-inoculation using a methylated spirits flame.
-
-The spore [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] must be replaced immediately after
-each refill to prevent airborne contamination.
-
-A single lapse in sterile technique can introduce
-competitor organisms into the substrate.
-
-## Breathing Precautions
-
-A breathing mask or clean handkerchief must cover
-the nose and mouth during inoculation.
-
-This is not for operator safety but to prevent breath
-from contaminating the spore solution or open points.
-
-Human breath carries bacteria and fungal spores.
-
-## Method Comparison
-
-| Aspect | Short Needle | Long Needle |
-|--------|-------------|-------------|
-| Needle | Standard 4 cm | Custom tube |
-| Entry | Through bag wall | Through filter |
-| Volume | 5 cc per point | 10 cc total |
-| Points per bag | 2 | 1 |
-| Contam. risk | Higher | Lower |
-| Difficulty | More difficult | Easier |
-
-## See Also
-
-- [[mushroom-spore-syringe-preparation]]
-- [[straw-based-mushroom-cultivation-boil-bag-method]]
-- [[filter-can-construction-mushroom-cultivation]]
-- [[mushroom-cultivation]]
-- [[straw-substrate-preparation-marmite-yeast-extract-soak]]

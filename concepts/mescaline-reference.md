@@ -9,7 +9,7 @@ sources: []
 
 # Mescaline Reference
 
-Mescaline is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known psychoactive substances, with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
+Mescaline is a naturally occurring protoalkaloid and psychedelic compound found in several species of cacti. It is one of the oldest known [[cultural-evolution-and-psychoactive-substances]], with evidence of ceremonial use spanning over 5,000 years in the Americas. Mescaline produces profound alterations in consciousness, visual hallucinations, and altered perception of time and space.
 
 ## Chemistry
 
@@ -31,9 +31,9 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 - Small, spineless cactus native to the Chihuahuan Desert (Texas, Mexico)
 - Contains approximately 0.4-6% mescaline by dry weight (varies by population)
 - Slow-growing: takes 5-15 years to reach maturity from seed
-- Traditional use: Huichol, Tarahumara, and other indigenous cultures in northern Mexico
-- Ceremonial context: peyote is considered a sacred medicine and teacher plant
-- Legal status in the US: legal for members of the Native American Church (NAC) for religious use; Schedule I otherwise
+- Traditional use: Huichol, Tarahumara, and other [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] in northern Mexico
+- [[kava-traditional-preparation-ceremonial-context]]: peyote is considered a sacred medicine and teacher plant
+- Legal status in the US: legal for members of the [[halpern-sacramental-peyote-and-native-american-church]] (NAC) for religious use; Schedule I otherwise
 - Conservation concern: wild peyote populations are declining due to overharvesting, habitat loss, and slow growth rates
 
 ### San Pedro (Echinopsis pachanoi, syn. Trichocereus pachanoi)
@@ -57,7 +57,7 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 
 ### Other Species
 
-- Peruvian Torch (Echinopsis peruviana): 0.3-2.4% mescaline
+- Peruvian Torch ([[echinopsis-peruviana]]): 0.3-2.4% mescaline
 - Echinopsis scopulicola: variable mescaline content
 - Various Trichocereus/Echinopsis hybrids: mescaline content varies widely
 - Doñana cactus (Corryocactus brevistylus): reported to contain mescaline but less studied
@@ -142,7 +142,7 @@ As with all psychedelics, set (mindset) and setting (environment) profoundly inf
 
 ## Pharmacology
 
-- Primary mechanism: agonist activity at the 5-HT2A serotonin receptor
+- Primary mechanism: agonist activity at the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]]
 - Also interacts with 5-HT2C, 5-HT1A, and alpha-2 adrenergic receptors
 - The phenethylamine structure means mescaline also has mild amphetamine-like stimulation
 - The 3,4,5-trimethoxy substitution pattern is the key pharmacophore

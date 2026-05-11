@@ -13,13 +13,13 @@ sources:
   - Jermy, A.C. et al. (2007). *The Illustrated Field Flora of Britain and Northern Europe*. Blume.
   - Stace, C.A. (2019). *New Flora of the British Isles*, 4th ed. C&M Floristics.
   - Egorova, T.V. (1999). *The Sedges (Carex L.) of Russia and Adjacent States*. Missouri Botanical Garden Press.
-  - Global Biodiversity Information Facility (GBIF). *Carex globularis L.* https://www.gbif.org/species/2722845
-  - Wheeler, G.A. & Guaglianone, E.R. (2003). "Carex section Vesicariae in South America." *Brittonia* 55: 58-66.
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). *Carex globularis L.* https://www.gbif.org/species/2722845
+  - Wheeler, G.A. & Guaglianone, E.R. (2003). "Carex section Vesicariae in [[guzman-psilocybin-mushrooms-south-america]]." *Brittonia* 55: 58-66.
 ---
 
 ## Overview
 
-**Carex globularis** is a circumboreal perennial sedge of the family Cyperaceae, commonly known as globe sedge or round-fruited sedge. It is widespread across northern Europe, Asia, and North America.
+**Carex globularis** is a circumboreal perennial sedge of the family Cyperaceae, commonly known as globe sedge or round-fruited sedge. It is widespread across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 The species is named for its nearly spherical utricles, which are distinctive among Carex species in its range. It typically grows in wet peaty habitats including bogs, fens, and damp coniferous woodlands.
 
@@ -63,7 +63,7 @@ Elevational range extends from sea level to approximately 2000 m. Alpine populat
 
 The species is tolerant of cold conditions and is a component of tundra vegetation in subarctic regions of Scandinavia and Siberia.
 
-In North America, the species ranges from Alaska across Canada to the Great Lakes region and New England. It occurs in similar habitats as in Eurasia, primarily acidic peatlands and wet boreal forests.
+In North America, the species ranges from Alaska across Canada to the Great Lakes region and New England. It occurs in similar habitats as in Eurasia, primarily acidic peatlands and wet [[biodiversity-fungi-temperate-boreal-forests]].
 
 Populations in the southern parts of its range, such as the Alps and Carpathians, are typically restricted to high-elevation mire habitats where conditions remain cool and moist.
 
@@ -71,7 +71,7 @@ Populations in the southern parts of its range, such as the Alps and Carpathians
 
 Carex globularis is a characteristic species of acidic mire communities across its circumboreal range. It typically occupies the wetter microtopographic positions within bog complexes.
 
-Common associates include Sphagnum species, Eriophorum vaginatum, Carex nigra, Carex canescens, Andromeda polifolia, and Vaccinium oxycoccos in boreal mire systems.
+Common associates include Sphagnum species, Eriophorum vaginatum, Carex nigra, [[carex-canescens]], Andromeda polifolia, and Vaccinium oxycoccos in boreal mire systems.
 
 The inflated utricles float on water, facilitating hydrochory. Seeds can be dispersed across the mire surface by water movement during periods of high water table.
 
@@ -81,41 +81,10 @@ Several sedge-feeding invertebrates use Carex globularis as a host plant, includ
 
 In boreal forest mires, the species contributes to ground cover beneath open conifer canopies. It plays a role in maintaining the moss layer that underpins peat accumulation.
 
-The root system is relatively shallow but extensive, forming a dense mat that contributes to peat formation. Slow decomposition of sedge roots is a key process in boreal peatland carbon sequestration.
+The root system is relatively shallow but extensive, forming a dense mat that contributes to peat formation. Slow decomposition of sedge roots is a key process in boreal peatland [[gadd-fungal-carbon-sequestration]].
 
 Small mammals such as voles use the tussocks for cover and may cache seeds near the base of Carex globularis plants. Birds including snipe and curlew forage in mire areas where the species is abundant.
 
 ## Conservation and Threats
 
 Carex globularis is assessed as Least Concern globally due to its wide circumboreal distribution. However, regional declines have been documented in intensively managed landscapes.
-
-Peatland drainage for forestry is a significant threat in Fennoscandia and parts of Canada. Conversion of mires to commercial forestry plantations removes suitable habitat.
-
-Climate warming may reduce the extent of suitable mire habitat in southern parts of its range. Increased evapotranspiration could lead to peatland desiccation in regions already experiencing summer drought.
-
-Conservation efforts focus on protecting intact mire complexes and restoring drained peatlands. The species benefits from hydrological management that maintains the water table near the surface.
-
-## Related Species
-
-Carex globularis is closely related to Carex vesicaria and Carex rostrata within section Vesicariae. It is distinguished from Carex rostrata by its smaller, more spherical utricles and shorter stature.
-
-The section Vesicariae is characterized by inflated utricles, a trait thought to facilitate water dispersal. This morphological syndrome links species across boreal and temperate regions.
-
-Hybridization with Carex rostrata has been reported in zones of habitat overlap, producing intermediate forms. These hybrids can complicate field identification in mire communities.
-
-The section Vesicariae is distributed primarily across boreal and temperate regions of the Northern Hemisphere. Species within the section share the inflated utricle syndrome but differ in utricle shape and size.
-
-Molecular phylogenetic studies have confirmed the monophyly of section Vesicariae and clarified relationships among its constituent species. The section is part of the larger Vignea clade.
-
-## See Also
-
-- [[carex-rostrata]]
-- [[carex-nigra]]
-- [[carex-canescens]]
-- [[carex-panicea]]
-- [[carex-lasiocarpa]]
-- [[sphagnum-palustre]]
-- [[sphagnum-cuspidatum]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]
-- [[schoenoplectus-lacustris]]

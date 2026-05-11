@@ -1,5 +1,5 @@
 ---
-title: "Subcutaneous and subcutaneous dematiaceous fungal pathogens Pathogens"
+title: Subcutaneous Dematiaceous Fungal Pathogens
 created: 2026-04-26
 tags:
   - mycology
@@ -40,7 +40,7 @@ dematiaceous (dark-pigmented) fungi found in soil and on plant material.
 
 ### Phaeohyphomycosis
 
-Phaeohyphomycosis refers to infections caused by dematiaceous fungi in
+Phaeohyphomycosis refers to infections caused by [[dematiaceous-fungi-melanin-fungal-ecology]] in
 which the tissue form consists of dark-walled septate hyphae (rather
 than sclerotic cells or grains). The spectrum of disease ranges from
 superficial and subcutaneous infections to invasive and disseminated
@@ -50,7 +50,7 @@ cause fatal brain abscesses even in immunocompetent individuals.
 ### Eumycetoma (Mycetoma)
 
 Mycetoma is a chronic subcutaneous infection characterized by the
-formation of granules (aggregates of fungal hyphae) within abscesses,
+formation of granules (aggregates of [[fungal-hyphae]]) within abscesses,
 sinus tracts, and swollen tissue. Eumycetoma is caused by true fungi,
 as opposed to actinomycetoma caused by filamentous bacteria. The disease
 is most common in tropical and subtropical regions, particularly among
@@ -65,8 +65,8 @@ degree of specialization for pathogenesis as the Onygenalean systemic
 pathogens do, including conversion to a particulate [[green-cannabis-grow-bible-vegetative-phase-management]] (a
 budding yeast) within host tissue and resistance to killing by the
 neutrophil and macrophage components of the vertebrate cellular immune
-system. It has a worldwide distribution and is associated mostly with
-finely divided, highly cellulosic plant debris such as peat moss and
+system. It has a [[worldwide-distribution-psilocybin-mushrooms]] and is associated mostly with
+finely divided, highly cellulosic plant debris such as [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] and
 grass stalks.
 
 ## Key Genera and Species
@@ -79,7 +79,7 @@ species in the following genera of Herpotrichiellaceous affinity:
 - **Fonsecaea**: Includes F. pedrosoi, the most common cause of
   chromoblastomycosis worldwide, and F. compacta
 - **Cladophialophora**: C. carrionii is a major agent of
-  chromoblastomycosis in arid regions; C. bantiana may cause a
+  chromoblastomycosis [[fukuoka-natural-farming-in-arid-regions]]; C. bantiana may cause a
   virulent, fatal brain cavitation, most likely subsequent to
   inhalation of inoculum
 - **Phialophora**: P. verrucosa causes chromoblastomycosis; other
@@ -88,61 +88,3 @@ species in the following genera of Herpotrichiellaceous affinity:
   phaeohyphomycosis and eumycetoma; E. dermatitidis may cause fatal
   brain infection
 - **Rhinocladiella**: R. aquaspersa is an occasional agent of
-  chromoblastomycosis
-
-### Loculoascomycetous Agents
-
-Certain Loculoascomycetous species and their anamorphs also cause
-subcutaneous disease:
-- **Curvularia lunata**: Can cause phaeohyphomycosis
-- **Neotestudina rosatii**: Associated with mycetoma
-- **Leptosphaeria senegalensis**: A known agent of eumycetoma
-
-### Hypocrealean Anamorphs
-
-- **Acremonium falciforme**: Causes eumycetoma
-- **Acremonium kiliense**: Associated with subcutaneous infection
-- **Fusarium verticillioides**: Can cause subcutaneous disease
-
-### Microascalean Agents
-
-- **Pseudallescheria boydii**: A prominent subcutaneous pathogen and
-  also an opportunistic pathogen; must be cited in both categories
-- **Scedosporium prolificans**: An agent of subcutaneous and
-  disseminated disease, underrepresented by conventional sampling
-  techniques for soil and plant material
-
-## Environmental Reservoirs
-
-These fungi are primarily environmental saprobes found in soil and on
-decaying plant material. Their distribution mainly is elucidated with
-biomedical isolations. Traumatic implantation of contaminated material
-(wood splinters, thorns, soil) introduces the fungus into the dermal or
-subcutaneous tissue, where it establishes infection. Some species show
-particular geographic associations:
-
-- Sporothrix schenckii is hyperendemic in parts of Central and South
-  America
-- Chromoblastomycosis is most prevalent in tropical and subtropical
-  regions of Central and South America, Africa, and Asia
-- Mycetoma is most common in the "mycetoma belt" stretching across
-  Sudan, Somalia, Senegal, India, and other tropical regions
-
-## Virulence Factors
-
-Key virulence attributes of subcutaneous fungal pathogens include:
-
-- **Melanin production**: Dark pigments in cell walls protect against
-  oxidative killing by [[fungal-virulence-factors-host-immune-evasion]] cells and may scavenge free
-  radicals
-- **Thermotolerance**: Ability to grow at mammalian body temperature
-- **Sclerotic [[fungal-fruiting-body-formation-environmental-triggers]]**: In chromoblastomycosis agents, the
-  ability to form thick-walled cells that resist phagocytosis
-- **Dimorphism**: Conversion from environmental mold form to tissue
-  yeast form (Sporothrix schenckii)
-## See Also
-
-- [[dematiaceous-fungi-melanin-fungal-ecology]]
-- [[fusarium-verticillioides]]
-- [[fungal-hyphae]]
-- [[melanized-fungal-pathogens]]

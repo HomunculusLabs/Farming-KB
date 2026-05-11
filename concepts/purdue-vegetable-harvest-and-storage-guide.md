@@ -1,5 +1,5 @@
 ---
-title: Purdue Vegetable vegetable-harvest-and-storage-guide Guide
+title: Purdue [[vegetable-harvest-and-storage-guide]] [[root-vegetable-storage-guide]]
 created: 2026-04-28
 tags:
   - vegetable-harvest
@@ -88,30 +88,3 @@ Vegetables are grouped into four storage categories based on their [[greg-green-
 ## Warm, Moist Storage (55-60 degrees F, 80-85% RH)
 
 **Sweet Potatoes:** Harvest in fall before frost and freezing temperatures. Handle carefully during digging. Cure for 1 week at 80-85 degrees F. Ideal storage is at 55 degrees F and 85% relative humidity. This can be accomplished in a basement using ventilated boxes covered with periodically moistened burlap sacks.
-
-## Other Vegetables
-
-**Asparagus:** Harvest 6- to 8-inch spears by snapping or cutting at ground level. Store in plastic bags in refrigerator for up to 1 week. Freeze or can surplus.
-
-**Green Onions:** Harvest when sufficient size. Wash, cut off roots, remove part of top leaving 1 inch or more of green. Store in plastic bags in refrigerator for up to 2 weeks.
-
-**Rhubarb:** Harvest leaf stalks when 1/2 to 1 inch in diameter. Do not use the leafy blades (they contain oxalic acid). Store in perforated plastic bags for up to 3 weeks in the refrigerator. Freeze surplus.
-
-**[[growing-sweet-corn-organically]]:** Harvest when kernels are plump, tender, and exude milky juice when pressed. Silks should be dry. Husk to conserve space, store in plastic bags in refrigerator. Freeze or can surplus.
-
-**Lima Beans:** Harvest when pods have filled. For tender limas, harvest slightly immature. Shelled limas store about 1 week in perforated plastic bags in the refrigerator.
-
-**Garden Peas:** Harvest when pods have filled. Unshelled peas keep about 1 week in perforated plastic bags. Snow peas when fully elongated but still flat-sided. Snap peas when peas reach full size.
-
-**Green Beans:** Most tender when the small seed inside is one-fourth mature size. Store up to 1 week in perforated plastic bags in the warmer part of the refrigerator.
-
-**Okra:** Harvest pods at 2 to 3 inches. Over-mature pods are woody. Store in plastic bags in the warmer part of the refrigerator for about 1 week.
-
-**Muskmelon:** Harvest when stem slips easily from the fruit. Store ripe melons in refrigerator in a plastic bag for up to 10 days.
-
-**Summer Squash:** Harvest when fruit is small (6-8 inches long), young, and tender. Skin should be easily penetrated with a thumbnail. Store up to 1 week in a perforated plastic bag in the refrigerator.
-
-## See Also
-
-- [[purdue-nitrogen-side-dressing-schedule]]
-- [[vegetable-harvest-and-storage-guide]]

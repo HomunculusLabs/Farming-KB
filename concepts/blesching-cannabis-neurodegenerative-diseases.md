@@ -3,7 +3,7 @@ title: Cannabis for Neurodegenerative Diseases
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The cannabis-health-index (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology blesching-cannabis-multiple-sclerosis cannabis-chronic-pain-management"
+wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-multiple-sclerosis]] [[cannabis-chronic-pain-management]]"
 type: concept
 tags: [cannabis]
 ---
@@ -29,7 +29,7 @@ and CB2) are firmly embedded in all parts of the nervous system.
 CB1 receptor sites are especially prominent in those parts of the brain (CNS)
 related to motor control, cognition, emotional responses, motivation, and
 homeostasis. CB2 receptor sites often sit outside the brain in the periphery,
-and they relate to the autonomic nervous system (ANS), immune system, cellular
+and they relate to the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] (ANS), immune system, cellular
 circulation, hormonal regulation, and gastrointestinal function.
 
 Scientists suspect that other undiscovered receptor sites exist in endothelial
@@ -70,11 +70,11 @@ new therapeutic possibilities for treating cerebrovascular disorders."
 The same team of scientists from Fukuoka also concluded that 24 hours after
 the induced stroke in mice, THC significantly increased the expression of CB1
 receptors in both the striatum and cortex but not in the hypothalamus
-(responsible for body temperature regulation).
+(responsible for body [[blesching-cannabis-fever-temperature-regulation]]).
 
 These observations led the team to conclude that THC prevents stroke by
 producing a lower body temperature independent of the hypothalamus. These
-findings describe a new mechanism of body temperature control.
+findings describe a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]].
 
 If the Japanese results can be confirmed in humans, cannabinoids, especially
 cannabidiol, may one day be used as neuroprotective agents in patients prone
@@ -88,57 +88,3 @@ stroke.
 A multidisciplinary Bethesda research team examined the neuroprotective
 properties of cannabinoids by designing an experiment inducing rats to
 binge-drink alcohol. This activity causes substantial neurodegeneration in the
-brain, especially the hippocampus and the entorhinal cortex.
-
-Concurrently, the rats received CBD, a non-psychoactive cannabinoid. Results
-indicated that CBD could protect nerve cells from alcohol-induced toxicity in
-a dose-dependent manner.
-
-### THC Protects Against MDMA Neurotoxicity (Barcelona, Spain, 2010)
-
-Laboratory studies in Italy (2009) and Spain (2010) echoed results on the
-neuroprotective properties of cannabinoids. Researchers discovered that while
-the drug ecstasy (MDMA) produces hyperthermia, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and neuronal
-damage, especially at higher room temperatures, THC causes the opposite
-(namely hypothermic, anti-inflammatory, and antioxidant effects).
-
-Researchers concluded that THC protects against MDMA neurotoxicity, at least
-in mice.
-
-### Endocannabinoid Neuroprotection (Rome, Italy, 2009)
-
-Researchers at the Santa Lucia Foundation in Rome demonstrated that
-endocannabinoids are neuroprotective, providing additional evidence for the
-therapeutic potential of the endocannabinoid system in neurological disorders.
-
-## Strain and Form Considerations
-
-The results of these pre-clinical studies suggest:
-
-- THC is neuroprotective before a stroke
-- CBD is neuroprotective when used before and after a stroke
-- CBD may provide neuroprotection independently of the currently known
-  cannabinoid receptor system
-
-CBD has a higher affinity for CB2, while THC binds relatively equally to CB1
-and CB2. [[mushroom-cancer-clinical-trials-overview]] conducted on humans will ultimately prove whether
-or not the pre-clinical results translate directly to the human condition.
-
-Both basic strains provide biologically active full-spectrum cannabinoid and
-non-cannabinoid plant materials. Indicas and indica-heavy hybrids contain a
-lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]] favoring CB2 expression when compared to sativas or
-sativa-heavy strains.
-
-Raw, fresh leaf or juice contains non-psychoactive CBD-acid at higher
-concentrations, thereby increasing CB2 activation.
-
-William L. Courtney, MD, a physician working with fresh cannabis, considers
-raw cannabis a dietary essential that provides potent preventative influences
-on several degenerative processes often involved with neurological diseases.
-These preventative features include neuroprotection and anti-inflammatory
-and antioxidant properties.
-
-## See Also
-- [[blesching-cannabinoid-pharmacology]]
-- [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-inflammatory-diseases]]

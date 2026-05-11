@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-designers-manual-animal-forage-systems]] Duck Pond Systems
+title: Permaculture Designers Manual Duck Pond Systems
 created: 2026-04-18
 updated: 2026-05-09
 type: concept
@@ -88,35 +88,3 @@ The pond shape influences water circulation [[savory-dung-behavior-and-nutrient-
 Irregular shorelines with bays and peninsulas create diverse microhabitats
 for both ducks and the aquatic plants and animals that support the
 integrated system. The edges should be planted with a graduated sequence
-of species from emergent reeds at the waterline to moisture-loving
-perennials on the banks, creating a natural filtration buffer zone.
-
-Water quality management in duck ponds relies on biological processes
-rather than chemical treatments. The manure input from ducks feeds
-phytoplankton and zooplankton populations that form the base of the
-aquatic food web. Excess nutrients are taken up by aquatic plants, which
-are harvested as duck forage or compost material, closing the nutrient
-loop within the system.
-
-## Duck Breeds and Management
-
-Mollison references Muscovy ducks as particularly well-suited to
-permaculture systems. Muscovy ducks are hardy, prolific foragers, and
-relatively quiet compared to other domestic duck breeds. They are
-effective at controlling mosquito larvae, snails, and slugs in garden
-and pond environments. Khaki Campbell ducks are another excellent choice
-for permaculture systems, known for their high egg production (up to 300
-eggs per year) and calm temperament.
-
-Duck housing should be positioned above and adjacent to the pond so that
-manure is naturally washed into the water by rainfall. A simple
-slatted-floor shelter allows droppings to fall directly into a collection
-area or water channel leading to the pond. Night housing protects ducks
-from predators and provides a secure location for egg collection. The
-housing should be well-ventilated but protected from wind and rain.
-
-## Related Topics
-
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[permaculture-designers-manual-animal-housing-detailed]]
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

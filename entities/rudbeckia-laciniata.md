@@ -13,7 +13,7 @@ sources:
   - Urbatsch, L.E. (2000). "Rudbeckia." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Rudbeckia laciniata L." PLANTS Database. https://plants.usda.gov/home/plantProfile?symbol=RULA
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Company.
-  - Kindscher, K. (1987). Edible Wild Plants of the Prairie. University Press of Kansas.
+  - Kindscher, K. (1987). [[edible-wild-mushrooms-by-region]] Plants of the Prairie. University Press of Kansas.
 ---
 
 # Rudbeckia laciniata
@@ -22,7 +22,7 @@ sources:
 
 **Rudbeckia laciniata**, commonly known as cutleaf coneflower, green-headed coneflower, or wild golden glow, is a perennial herbaceous plant in the family Asteraceae.
 
-It is native to eastern and central North America, where it grows in moist woodlands, thickets, and along stream banks.
+It is native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], where it grows in moist woodlands, thickets, and along stream banks.
 
 The species is notable for its tall stature, reaching up to 3 meters, and its bright yellow ray florets surrounding a distinctive greenish central disk.
 
@@ -80,46 +80,10 @@ The cultivar 'Herbstsonne' ('Autumn Sun') is widely grown for its reliable perfo
 
 Plants are easily propagated by seed, which germinates without stratification in 14–21 days at 20°C.
 
-Division of clumps in early spring is the preferred method for maintaining named cultivars.
+Division of clumps in [[coleman-overwintered-onions-and-early-spring-crops]] is the preferred method for maintaining named cultivars.
 
 Plants perform best in rich, moist soil in full sun to partial shade.
 
 Taller stems may require staking in exposed sites, especially in cultivars with heavy flower heads.
 
 The species is relatively pest-free, though [[query-how-to-get-rid-of-slugs-and-snails-organically]] can damage young foliage in damp conditions.
-
-## Edibility and Traditional Uses
-
-Young shoots and leaves of **Rudbeckia laciniata** are edible when cooked and were historically consumed by [[halpern-sacramental-peyote-and-native-american-church]] tribes and early settlers.
-
-The Potawatomi and Iroquois traditionally harvested the tender young stems in spring, boiling them as a potherb.
-
-The cooked greens have a flavor described as similar to celery or cabbage, with a mild bitterness that diminishes with cooking.
-
-The Cherokee used an infusion of the roots as a traditional remedy for digestive complaints and as a wash for snake bites.
-
-An ointment prepared from the root was applied to burns, sores, and swellings in Appalachian folk medicine.
-
-Modern foragers consider the young spring shoots the most palatable part, recommending harvest before flower buds form.
-
-## Ecological Role
-
-The nectar and pollen of cutleaf coneflower attract a diverse array of pollinators, including native bees, honey bees, and butterflies.
-
-Goldfinches and other seed-eating birds consume the achenes in autumn and winter, making the species valuable for wildlife gardens.
-
-The tall stems provide structural support in mixed plantings and offer perching sites for insects and small birds.
-
-Deer and rabbits generally avoid browsing the foliage, which contains bitter sesquiterpene lactones.
-
-In riparian buffer plantings, the species helps stabilize stream banks with its fibrous root system.
-
-It serves as a larval host for the silvery checkerspot butterfly (*Chlosyne nycteis*).
-
-## See Also
-
-- [[echinacea-purpurea]]
-- [[coreopsis-lanceolata]]
-- [[achillea-millefolium]]
-- [[solidago-canadensis]]
-- [[inula-helenium]]

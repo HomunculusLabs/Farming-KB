@@ -59,11 +59,11 @@ Sustainability inherently considers the needs of future generations, ensuring th
 
 Sustainability has become increasingly practical and concrete through various applications:
 
-- **Sustainable agriculture** - farming methods that maintain soil fertility and ecosystem health
+- **[[phosphate-accumulators-sustainable-agriculture]]** - [[cho-poultry-natural-farming-methods]] that maintain soil fertility and ecosystem health
 - **Sustainable design** - environmentally conscious design principles
 - **Sustainable energy** - renewable energy systems and reduced consumption
-- **Sustainable tourism** - tourism that minimizes environmental impact
-- **Sustainable living** - lifestyle choices that reduce ecological footprint
+- **Sustainable tourism** - tourism that minimizes [[fertilizer-pollution-environmental-impact]]
+- **[[natural-farming-sustainable-living-principles]]** - lifestyle choices that reduce ecological footprint
 
 The growing shift toward sustainability represents a repudiation of the early 20th-century industrial model of exploitation of nature, with its technology-driven economic growth and demand for ever-greater consumption of products and services.
 
@@ -73,7 +73,12 @@ Fungi can play a significant role in the pursuit of sustainability. They are ess
 
 ## See Also
 
-- [[zeri-organization]] - Zero Emissions Research and Initiatives organization
+- [[zeri-organization]] - Zero [[zero-emissions-research-and-initiatives]] and Initiatives organization
 - [[mycoremediation-applications]] - Using fungi for environmental remediation
-- [[sustainable-mushroom-cultivation]] - Mushroom cultivation for sustainable development
+- [[sustainable-mushroom-cultivation]] - [[accessible-mushroom-cultivation-for-disabilities]] for sustainable development
 - [[agricultural-waste-recycling]] - Converting agricultural waste to valuable products
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

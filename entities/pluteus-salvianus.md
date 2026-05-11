@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycological Research, 104(4), 499-506.
+  - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycological Research, 104(4), 499-506.
   - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Allen JW, Merlin MD, Jansen KL. (1991). "An ethnomycological review of psychoactive Agaricales in Australia." Journal of Psychoactive Drugs, 23(4), 367-371.
 created: 2026-05-07
@@ -22,11 +22,11 @@ created: 2026-05-07
 
 *Pluteus salvinius* is a saprotrophic basidiomycete fungus in the family
 Pluteaceae, notable for its reported psychoactive properties attributed to
-psilocybin and psilocin. It was first described from material collected in
+[[hplc-analysis-of-psilocybin-and-psilocin]]. It was first described from material collected in
 eastern Australia and belongs to section *Celluloderma* of the genus *Pluteus*.
 
 The species is one of several *Pluteus* mushrooms known to contain
-hallucinogenic tryptamine alkaloids, placing it alongside *P. cyanopus* and
+hallucinogenic [[hplc-analysis-of-tryptamine-alkaloids]], placing it alongside *P. cyanopus* and
 *P. villosus* in the relatively small group of psychoactive pluteoid fungi.
 
 ## Taxonomy
@@ -51,7 +51,7 @@ maturity. The cap surface is hygrophanous, appearing pale brown to ochraceous
 when moist, drying to a noticeably lighter buff or cream color.
 
 Gills are free from the stipe, crowded, and white at first, becoming pinkish
-as spores mature. This pinkish spore print is diagnostic of the genus *Pluteus*
+as spores mature. This pinkish [[boil-a-bag-spore-print-technique-jarrold]] is diagnostic of the genus *Pluteus*
 and distinguishes it from free-gilled *Psilocybe* species that produce
 dark purple-brown prints.
 
@@ -88,35 +88,3 @@ Related species in section *Celluloderma* typically contain 0.1 to 0.8%
 psilocybin by dry weight, with psilocin present at lower concentrations.
 
 Baeocystin has also been detected in several *Pluteus* species and is likely
-present in *P. salvinius*, though dedicated chromatographic studies are needed
-to confirm its profile.
-
-## Ecology
-
-As a primary decomposer of hardwood, *P. salvinius* contributes to nutrient
-cycling in subtropical forest ecosystems. Its role in breaking down lignin and
-cellulose facilitates [[hamilton-composting-and-organic-matter-management]] turnover on fallen timber.
-
-The species is not considered common and is typically encountered as solitary
-fruiting bodies or in small scattered groups rather than in dense clusters.
-This sparse fruiting pattern may reflect specific substrate requirements or
-competitive interactions with other wood-decay fungi.
-
-## Related Species
-
-Several *Pluteus* species share morphological and chemical similarities:
-
-- *P. cyanopus* — Northern Hemisphere species with confirmed psilocybin
-  content, blueing reaction on the stipe base
-- *P. villosus* — European species with similar habitat preferences
-- *P. cervinus* — Common deer mushroom, non-psychoactive, widespread
-  in temperate regions
-- *P. atricapillus* — Dark-capped species found on coniferous wood
-
-## See Also
-
-- [[psilocybe-cyanescens]]
-- gymnopilus-luteofolius
-- [[stropharia-rugosoannulata]]
-- [[baeocystin]]
-- [[psilocybin]]

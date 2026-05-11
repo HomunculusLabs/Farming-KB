@@ -22,9 +22,9 @@ sources:
 
 **Caulerpa lentillifera** J. Agardh is a species of green marine macroalga in the family Caulerpaceae. It is commonly known as sea grapes, green caviar, or *umi-budō* in Japanese, referring to its distinctive grape-like appearance.
 
-The species is widely consumed as a raw vegetable in Southeast Asia, the Pacific Islands, and increasingly in Japan and Australia. Its texture is crisp and slightly crunchy, with a briny, fresh flavor that has made it popular in salads and cold dishes.
+The species is widely consumed as a raw vegetable in [[psilocybe-southeast-asia-pacific]], the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and increasingly in Japan and Australia. Its texture is crisp and slightly crunchy, with a briny, fresh flavor that has made it popular in salads and cold dishes.
 
-C. lentillifera is one of the most commercially valuable green algae species, with significant export markets from the Philippines, Vietnam, and Fiji to Japan, Korea, and other Asian countries.
+C. lentillifera is one of the most commercially valuable [[cervantes-green-algae-growing-medium]] species, with significant export markets from the Philippines, Vietnam, and Fiji to Japan, Korea, and other Asian countries.
 
 ## Taxonomy and Morphology
 
@@ -52,7 +52,7 @@ The species is commonly found in association with mangrove root systems and seag
 
 C. lentillifera is rich in minerals, particularly calcium (320–680 mg per 100 g dry weight), magnesium, iron, and potassium. Its mineral content exceeds that of most land-grown vegetables.
 
-Protein content ranges from 8–15% dry weight, with a balanced amino acid profile including all essential amino acids. The species contains relatively high levels of branched-chain amino acids compared to other seaweeds.
+Protein content ranges from 8–15% dry weight, with a balanced [[cho-fish-amino-acid-preparation]] profile including all essential amino acids. The species contains relatively high levels of branched-chain amino acids compared to other seaweeds.
 
 The species produces unique [[antifungal-secondary-metabolites-coprophilous-fungi]] including caulerpenyne, a sesquiterpene with antibacterial and cytotoxic properties. Caulerpenyne acts as a chemical defense against herbivores and epiphytes.
 
@@ -79,35 +79,12 @@ The flavor is mildly briny with oceanic sweetness, and the texture is the primar
 
 C. lentillifera cultivation is well-established in the Philippines, Vietnam, Japan, and Fiji. The most common method involves planting stolon fragments in shallow brackish water ponds or raceways.
 
-Pond cultivation uses earthen ponds with 20–40 cm water depth, enriched with organic or [[ingham-inorganic-fertilizers-soil-biology-damage]] to promote growth. The growth cycle is 30–45 days, with partial harvesting allowing continuous production.
+Pond cultivation uses earthen ponds with 20–40 cm water depth, enriched with organic or [[ingham-inorganic-fertilizers-soil-biology-damage]] to promote growth. The [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] is 30–45 days, with partial harvesting allowing continuous production.
 
 Land-based tank cultivation using recirculating aquaculture systems (RAS) has been developed in Japan for premium-grade production. This method provides better quality control and reduces contamination risks.
 
-Yields range from 5–15 tonnes fresh weight per hectare per cycle. The primary market constraint is short shelf life — harvested sea grapes remain fresh for only 3–5 days under refrigeration.
+Yields range from 5–15 tonnes fresh weight per hectare per cycle. The primary market constraint is short [[ingham-aact-holding-time-shelf-life-decay]] — harvested sea grapes remain fresh for only 3–5 days under refrigeration.
 
 Post-harvest handling improvements, including modified atmosphere packaging and cold chain logistics, are extending shelf life to 7–10 days. These advances are critical for expanding export markets from the Philippines and Vietnam to Japan and Korea.
 
 ## Ecological Role
-
-C. lentillifera contributes to [[lichens-primary-production-soil-formation-dighton]] in shallow tropical coastal ecosystems. Its dense growth forms meadow-like habitats that shelter small invertebrates and juvenile fish.
-
-The species is capable of rapid [[cannabis-vegetative-growth-stage]], colonizing disturbed sandy substrates. In some locations, Caulerpa species can become invasive, outcompeting native seagrass species.
-
-However, C. lentillifera is generally less invasive than its notorious congener *Caulerpa taxifolia*, which has caused significant ecological damage in the Mediterranean Sea. The cultivated sea grape is typically restricted to pond systems.
-
-The species absorbs dissolved nutrients from the water column, providing bioremediation capacity in integrated aquaculture systems. This has led to its incorporation into polyculture designs alongside shrimp and finfish operations. Integrated cultivation can reduce nutrient pollution from aquaculture effluent while producing a secondary crop with high market value.
-
-Research is exploring the potential of C. lentillifera extracts in pharmaceutical applications, particularly for anti-inflammatory and antimicrobial compounds. The unique caulerpenyne metabolite has shown promising activity against antibiotic-resistant bacteria in preliminary studies.
-
-Water quality monitoring is essential in sea grape cultivation, as the siphonous thallus readily absorbs contaminants from the surrounding water. Heavy metal testing is standard practice for export-grade products.
-
-## See Also
-
-- [[gracilaria-verrucosa]]
-- [[porphyra-umbilicalis]]
-- [[palmaria-palmata]]
-- [[fucus-vesiculosus]]
-- resveratrol
-- [[eucheuma-denticulatum]]
-- [[laminaria-digitata]]
-- [[taurine]]

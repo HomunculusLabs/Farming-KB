@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
+  - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Coleman's First Rule of Biological Agriculture
@@ -18,7 +18,7 @@ sources:
 Eliot Coleman articulated a foundational principle for understanding the
 relationship between plants, pests, and growing conditions: "Nature makes
 sense." This deceptively simple statement encapsulates a philosophy of
-biological agriculture that treats insect pests and plant diseases not as
+biological agriculture that treats [[duggar-mushroom-insect-pests-and-fungal-diseases]] plant diseases not as
 enemies to be destroyed but as symptoms of underlying problems to be solved.
 
 ## Pests as Symptoms, Not Problems
@@ -32,7 +32,7 @@ removing pests from a plant does not cure the problem or eliminate the
 cause. All it does is throw a cloak over the problem — a palliative
 rather than a cure.
 
-This distinction is critical. Chemical pesticides, organic sprays, garlic
+This distinction is critical. [[comparison-parasitoid-wasps-vs-chemical-pesticides]], organic sprays, garlic
 drenches, and even hand-picking bugs are all palliatives. They may reduce
 visible damage temporarily but they do not address why the plant was
 vulnerable in the first place.
@@ -63,7 +63,7 @@ should ask: Is the soil ready for this crop? Was the preceding crop a heavy
 feeder? Have mineral deficiencies been corrected? Were transplants stressed?
 
 Each of these questions points toward a correctable cause. Addressing the
-cause eliminates the symptom, often without any direct pest management
+cause eliminates the symptom, often without any direct [[query-what-is-biofumigation-and-how-does-it-work]]
 action at all.
 
 ## Diagnostic Questions
@@ -75,7 +75,7 @@ Is the soil ready for that crop, or should the rotation or cultural
 practices be changed? Brassicas benefit from higher nitrogen, but tomatoes
 given extra nitrogen produce leaves and no fruit.
 
-How long ago were [[jeavons-green-manures-cover-crops]] or crop residues turned under? Three weeks
+How long ago were [[jeavons-green-manures-cover-crops]] or [[jadam-monoculture-disorder-crop-residues]] turned under? Three weeks
 is the minimum for soil bacteria to digest green matter and return the soil
 to balanced state.
 
@@ -83,59 +83,8 @@ Was the compost mature? Immature compost causes a wide range of problems
 from nutrient imbalances to pathogen introduction.
 
 Have mineral deficiencies indicated by soil tests been corrected? Trace
-elements can be the key to pest resistance, and only a complete soil
+elements can be the key to [[cannabis-disease-pest-resistance-breeding-clarke]], and only a complete soil
 analysis reveals them.
 
 Were transplants stressed? Crops like melons and squash are far more
 resistant to cucumber beetles when given a few weeks of protection by a
-lightweight cover after transplanting.
-
-## Learning by Observing
-
-Coleman used the example of a lawn growing mostly crabgrass, sorrel, and
-dandelions. The conventional approach is to apply herbicides, fertilizers,
-and stimulants to suppress weeds so grass can struggle ahead.
-
-The biological approach is to study the optimum growing conditions for the
-desired grass species and create those conditions through compost, rock
-powders, aeration, and drainage. When conditions favor the desired species,
-it outcompetes the weeds naturally.
-
-Wild vegetation on undisturbed land demonstrates this principle constantly.
-Different plant communities grow in different places because soil
-conditions vary. The native vegetation is an excellent indicator of what
-the soil will support.
-
-## The Greenhouse Context
-
-Coleman's pest philosophy applies equally in the controlled environment of
-a [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]. The confines of a greenhouse might seem to invite
-trouble, but the same principles hold.
-
-In the winter greenhouse, the only significant pest observed was aphids on
-spinach starting in early February. Rather than spraying, Coleman
-investigated the underlying conditions that made the spinach vulnerable
-and addressed those.
-
-The nonconfrontational approach to pests is not passive acceptance. It is
-active investigation and correction of causes. It requires more knowledge
-and observation than spraying but produces more durable results.
-
-## Organic vs. Biological Agriculture
-
-Coleman drew an important distinction between [[coleman-deep-organic-farming-philosophy]] that merely
-substitutes natural inputs for synthetic ones and truly biological farming
-that addresses root causes. The organic farmer who uses natural
-insecticides is no wiser than the chemical farmer — different materials,
-same mistake.
-
-Biological agriculture aims to create conditions where pests and diseases
-simply do not become problems. This requires understanding soil ecology,
-plant physiology, and the complex interactions within the farm ecosystem.
-
-## See Also
-
-- [[coleman-winter-harvest-philosophy]]
-- [[natural-farming-guide-integrated-pest-management]]
-- [[fukuoka-natural-farming-weed-and-insect-philosophy]]
-- [[coleman-winter-harvesting-techniques]]

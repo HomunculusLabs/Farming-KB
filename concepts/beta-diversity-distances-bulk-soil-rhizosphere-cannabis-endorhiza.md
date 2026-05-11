@@ -1,5 +1,5 @@
 ---
-title: Beta-Diversity Distances Between Bulk Soil Rhizosphere and Cannabis Endorhiza Communities
+title: Beta Diversity Distances Bulk Soil Rhizosphere Cannabis Endorhiza
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags:
   - cannabis
@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-The Winston et al. (2014) Cannabis microbiome study provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the endorhiza community. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
+The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the [[proteobacteria-dominance-cannabis-endorhiza-community]]. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
 
 ## The Three Compartments
 
@@ -35,7 +35,7 @@ The study compared beta-diversity distances between all pairs of compartments us
 - **Unweighted**: Mean rhizosphere-bulk soil distance was significantly lower than rhizosphere-endorhiza distance (t = 24.59, p < 0.001)
 - **Weighted**: Mean rhizosphere-bulk soil distance was significantly lower than rhizosphere-endorhiza distance (t = 211.82, p < 0.001)
 
-The extremely high t-statistic for the weighted comparison (211.82) reflects the large effect size — the abundance-weighted community structure of the rhizosphere is far more similar to bulk soil than to the endorhiza interior. This makes intuitive sense: the rhizosphere is essentially modified soil, while the endorhiza represents a fundamentally different ecological niche.
+The extremely high t-statistic for the weighted comparison (211.82) reflects the large effect size — the abundance-weighted [[edaphic-determinants-cannabis-microbiome-community-structure]] of the rhizosphere is far more similar to bulk soil than to the endorhiza interior. This makes intuitive sense: the rhizosphere is essentially modified soil, while the endorhiza represents a fundamentally different ecological niche.
 
 ## Bulk Soil-Endorhiza vs. Rhizosphere-Endorhiza Distances
 
@@ -86,36 +86,4 @@ Of the 51 OTUs significantly different between sample types in the weighted anal
 
 Beta-diversity distances were computed using QIIME 1.7.0 with both weighted and unweighted UniFrac metrics. The phylogenetic tree was built using FastTree from PyNAST-aligned sequences against the Greengenes core set. Significance of distance comparisons was assessed using pairwise t-tests between distance matrices, with all samples from both experiments included in the analysis. Samples were rarified to an even depth of 3,000 sequences (first experiment) or 45,000 sequences (second experiment) before distance computation.
 
-The use of triplicate samples per plant (three separate root samples per plant) in the second experiment provided within-plant replication that allowed estimation of within-plant heterogeneity, though these pseudoreplicates do not represent true biological independence. The PCoA visualization of community distances showed clear clustering patterns, with PC1 dominated by soil type (32.06% variance in unweighted analysis) and PC2 dominated by sample type differentiation (11.34% variance).
-
-### ADONIS Results for Individual Sample Types
-
-The per-sample-type ADONIS analyses provided additional granularity to the distance comparison. In the first experiment, endorhiza samples clustered significantly from other categories (weighted ADONIS: R² = 0.59, p = 0.001) and bulk soil also formed a distinct cluster (weighted ADONIS: R² = 0.29, p = 0.004). Rhizosphere samples, however, did not form a significantly distinct cluster (weighted ADONIS: R² = 0.09, p = 0.10), consistent with the interpretation that the rhizosphere community is an intermediate state that overlaps substantially with both bulk soil and endorhiza communities.
-
-In the second experiment with better edaphic variation, the pattern was similar but with significant rhizosphere clustering emerging in the weighted analysis (ADONIS: R² = 0.13, p = 0.001). This suggests that with sufficient statistical power and environmental contrast, the rhizosphere can be distinguished as a discrete community state, but its differentiation from bulk soil is inherently weaker than the endorhiza differentiation from both other compartments.
-
-## Ecological Interpretation: Root as a Strong Habitat Filter
-
-The distance data collectively paint a picture of the root as a powerful ecological filter that creates a distinct microbial habitat from the surrounding soil. The large and significant distance between endorhiza and both soil-adjacent compartments (rhizosphere and bulk soil) indicates that the conditions inside root tissue — including different oxygen availability, nutrient profiles, pH, immune responses, and physical structure — select for a fundamentally different microbial community than exists in the soil.
-
-The relatively small distance between rhizosphere and bulk soil indicates that root exudates, while chemically significant, modify rather than transform the soil microbial community. Exudates may stimulate the growth of specific soil taxa (particularly Proteobacteria that are adept at utilizing simple carbon compounds) without excluding the broader soil community. This is consistent with the view of the rhizosphere as a "hot spot" of microbial activity superimposed on, rather than replacing, the background soil community.
-
-## Relevance to Agricultural Microbiome Management
-
-Understanding the relative magnitude of community distances between compartments has practical implications for agricultural microbiome management. Interventions that modify the bulk soil community (composting, biochar amendment, cover cropping) will have the strongest effect on the rhizosphere but may have limited reach into the endorhiza, where host genotype exerts stronger control. Conversely, interventions targeting the endorhiza directly (seed coating, root dip treatments, endophyte inoculation) may be more effective for establishing specific beneficial bacteria within root tissue, though they must overcome the host's innate selection filters.
-
-For [[query-how-does-no-till-cannabis-cultivation-work]], the strong endorhiza differentiation from soil suggests that cultivar selection may be the most effective lever for managing the root microbiome, as cultivar genotype determines which soil-derived taxa can successfully establish within root tissue. Soil management remains important for establishing the available species pool, but the genotype-dependent second tier of selection ultimately determines the endorhiza [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-## See Also
-
-- [[cannabis-microbiome-two-tier-selection]] — The two-tier model these distances test
-- [[two-tier-selection-model-plant-microbiome]] — General framework for root microbiome assembly
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] — Alpha diversity decline across compartments
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]] — Acidobacteria depletion in the root interior
-- [[core-endorhiza-bacterial-community-composition-cannabis]] — Core taxa surviving the endorhiza filter
-- [[cannabis-endorhiza-microbiome]] — Endorhiza community structure
-- [[edaphic-factors-structuring-cannabis-microbiome]] — Soil determinants of community composition
-- [[cannabis-endorhiza-shared-otu-soil-source-validation]] — OTU sharing between endorhiza and soil
-- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] — Metric sensitivity to strain effects
-- [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] — OTU-level abundance analysis
-- [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]] — Post-harvest community dynamics
+The use of triplicate samples per plant (three separate root samples per plant) in the second experiment provided within-plant replication that allowed estimation of within-plant heterogeneity, though these pseudoreplicates do not represent true biological independence. The PCoA visualization of community distances showed clear clustering patterns, with PC1 dominated by soil type (32.06% variance in [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]) and PC2 dominated by sample type differentiation (11.34% variance).

@@ -1,5 +1,5 @@
 ---
-title: McKenna mckenna vegetable mind and gaian holism and Gaian Holism
+title: Mckenna Vegetable Mind And Gaian Holism
 created: 2026-04-28
 tags: [philosophy, consciousness, gaian-theory, entheogens, mckenna]
 date: 2026-04-25
@@ -53,7 +53,7 @@ with the plant kingdom.
 ## Relationship to the Partnership Model
 
 These concepts are inseparable from McKenna's broader partnership and
-dominator models. The vegetable mind represents the cognitive dimension
+[[partnership-and-dominator-models]]. The vegetable mind represents the cognitive dimension
 of the [[mckenna-dominator-vs-partnership-society-model]], while its suppression enabled dominator
 culture to flourish. The return to Gaian holism is thus not merely a
 philosophical exercise but a concrete political and ecological program.
@@ -68,7 +68,7 @@ A key element of McKenna's framework is the concept of "psychedelic
 exopheromones," compounds produced by plants that regulate the
 symbiotic relationship between humans and the plant kingdom. Just as
 insect pheromones mediate [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]] between members of
-a species, McKenna proposes that psilocybin and related tryptamines
+a species, McKenna proposes that [[psilocybin]] and related tryptamines
 function as exopheromones mediating communication across species
 boundaries. Without awareness of these exopheromones and the
 relationships they encode, McKenna argues, humanity stands "outside
@@ -88,13 +88,3 @@ complexities of actual shamanic practices. The universalizing tendency of
 the theory, which posits a single plant-human symbiosis underlying all
 human cultures, has been challenged by anthropologists who document
 significant variation in plant use across societies. Despite these
-criticisms, the concepts remain influential in psychedelic studies,
-ecophilosophy, and the broader discourse on human-nature relationships.
-
-## See Also
-
-- [[mckenna-jaynes-bicameral-mind-breakdown]]
-
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
-- [[mckenna-eleusinian-mysteries]] and kykeon
-- [[gaian-psychotherapy-and-entheogenic-plants]]

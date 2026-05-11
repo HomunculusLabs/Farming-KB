@@ -1,10 +1,11 @@
 ---
-title: Bioregional Organization and Alternative Nation
+title: Bioregional Organization Mollison
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
@@ -87,18 +88,9 @@ In Chile, while the government accumulated a $12 billion foreign debt, poor peop
 
 ## Two Paths to Political Change
 
-1. **Work within existing systems** to bring ecological change through political affiliations
-2. **Create alternatives outside** existing systems through direct action, [[savory-community-organization-and-shared-grazing]], and bioregional self-reliance
-
-Both are valid. The place to start change is first with the individual (oneself), and second in one's region or neighbourhood.
-
 ## See Also
-
-- bioregionalism-in-permaculture
-- permaculture-legal-structures
 - [[bioregional-organization]]
-- permaculture-village-design
-- right-livelihood-and-permaculture-business
-- holmgren-energy-descent-culture-adaptation
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]
-- [[tidal-estuarine-aquaculture-mollison]]
+- [[zeri-organization]]
+- [[savory-community-organization-and-shared-grazing]]
+- [[ozier-pdc-stewardship-mandala-community-organization]]
+- [[fungal-woronin-bodies-and-septal-pore-organization]]

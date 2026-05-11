@@ -6,6 +6,7 @@ type: comparison
 tags: [permaculture, design, comparison]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Permaculture Zone Design Comparison Permaculture zone design organizes a property into concentric areas based on frequency of human visitation and management intensity. Zone 0 is the home center, Zone 1 is the most intensively visited and managed area, and Zone 5 is wilderness. The scale of a site determines how many zones are practical and what each zone contains. This comparison examines four common scales — urban balcony, suburban backyard, rural homestead, and farm-scale — and how zone design adapts to each. For foundational principles, see [[backyard-food-forest-design]] and broader food forest principles in [[backyard-food-forest-design]].
 

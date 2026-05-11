@@ -1,5 +1,5 @@
 ---
-title: "PF pf tek spore printing and syringe preparation spore-printing-and-syringe-preparation Preparation"
+title: Pf Tek Spore Printing And Syringe Preparation
 created: 2026-04-28
 tags:
   - cultivation
@@ -20,13 +20,13 @@ type: concept
 
 ## Overview
 
-Spore printing and syringe preparation are essential skills in the [[psilocybe-cubensis]] specimens and prepare sterile spore solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and fruiting. Psylocybe Fanaticus developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
+Spore printing and syringe preparation are essential skills in the [[psilocybe-cubensis]] specimens and prepare [[sterile-spore-print-collection-glass-jar-technique]] solutions for inoculating new substrate jars. These techniques represent the third stage of the PF cultivation process, following [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] and fruiting. [[psylocybe-fanaticus]] developed these methods to be accessible using common household materials while maintaining the sterile conditions necessary for successful cultivation.
 
 ## Spore Viability and Timing
 
 ### Optimal Harvest Window
 
-Mature specimens are best for spore production but are weaker in psychedelic potency compared to immature mushrooms. Mature specimens are characterised by:
+Mature specimens are best for [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] but are weaker in psychedelic potency compared to immature mushrooms. Mature specimens are characterised by:
 
 - Darker colours with dark bluish tones appearing on caps and stems
 - Upturned cap margins (umbrella-like appearance)
@@ -38,7 +38,7 @@ The purple spore deposits signal that the mushroom has matured and entered its s
 
 ### Spore Degradation
 
-[[pf-tek-inoculation-without-lids-and-alcohol-flaming|alcohol flame]] (a clean flame that avoids the soot residue of butane lighters)
+[[pf-tek-inoculation-without-lids-and-alcohol-flaming]] (a clean flame that avoids the soot residue of butane lighters)
 2. Snip off the mushroom cap, cutting the top of the stem as far up into the cap as possible so the gills will sit flat on the jar bottom
 3. Use a straight pin to pierce the top of the cap for handling
 4. With quick, sure movements, place the cap gill-side-down into the jar
@@ -60,7 +60,7 @@ Store the spore print jar at room temperature in a dark place away from sunlight
 
 ### Equipment and Materials
 
-1. Spore print jar (prepared as described above)
+1. [[spore-print]] jar (prepared as described above)
 2. Sterile syringe with water for injecting into the spore print jar
 3. Sterile syringe for loading spore solution out of the jar
 4. Small Pyrex glass stirring rod (scientific and lab supply)
@@ -88,27 +88,3 @@ The custom two-hole lid is prepared by:
 1. Inject sterile water into the spore print jar through the needle hole
 2. Flame sterilise the glass stirring rod, allow to cool for a minute, then insert through the centre lid hole
 3. Using the rod end, scrape spores into the water
-4. Insert the sterile syringe needle through the small edge hole
-5. Tilt the jar until water reaches the needle tip and draw the spore water into the syringe
-
-The key principle throughout this procedure is to expose the jar interior to as little [[stamets-growing-room-air-circulation-co2-management]] as possible. Always protect the holes in the lid by placing tin foil or sterile surgical tape over them before and after the procedure.
-
-### Syringe Storage
-
-Store syringes at cool temperatures in the dark. A properly prepared spore syringe remains viable for several months and potentially up to a year or more. Before each use, shake the syringe well to redistribute spores in the water, as they tend to settle over time.
-
-## Integration with the PF Cultivation Cycle
-
-Spore printing and syringe preparation close the [[pf-tek]] substrate jars
-4. Colonised jars produce new fruiting bodies, completing the cycle
-
-This approach, using mass [[mushroom-spore-inoculation-techniques]] directly to the [[pf-tek-maximum-fruiting-substrate-formula]] rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
-## Related
-
-- [[pf-tek-spore-viability-degradation]]
-
-- [[mushroom-spore-printing-syringe-preparation-pf-tek]]
-
-- [[pf-tek-inoculation-technique-and-syringe-management]] Topics
-
-- [[pf-tek-psilocybe-fanaticus]]

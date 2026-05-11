@@ -12,14 +12,14 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Schreiber, H.D. et al. (2012). "Amphicarpaea bracteata: A Unique Amphicarpic Legume." Castanea, 77(2): 120-129.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of [[north-carolina-mycodiversity]] Press.
   - United States Department of Agriculture, NRCS. "Amphicarpaea bracteata (L.) Fernald." PLANTS Database.
-  - Moerman, D.E. (1998). "Native American Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "Native [[tree-daturas-brugmansia-south-american-ethnobotany]]." Timber Press.
 ---
 
 ## Overview
 
-Amphicarpaea bracteata, commonly known as hog peanut or American hogpeanut, is an annual to perennial herbaceous vine in the family Fabaceae native to eastern North America. It is notable for its amphicarpic reproductive strategy, producing both aerial and subterranean flowers and seeds.
+Amphicarpaea bracteata, commonly known as hog peanut or American hogpeanut, is an annual to perennial herbaceous vine in the family Fabaceae native to [[polypore-fungi-eastern-north-america]]. It is notable for its amphicarpic reproductive strategy, producing both aerial and subterranean flowers and seeds.
 
 The species was an important food source for Native Americans, who harvested the underground peanut-like seeds. It remains a culturally significant edible wild plant in some regions.
 
@@ -71,13 +71,13 @@ Raw underground seeds contain trypsin inhibitors and should be cooked before con
 
 Aerial seeds are smaller and less palatable than subterranean seeds. They serve primarily for dispersal and colonization rather than as a significant food resource.
 
-The species has been investigated for use in intercropping systems due to its shade tolerance and nitrogen fixation. Its twining habit allows it to coexist with taller crops without competing for light.
+The species has been investigated for use in intercropping systems due to its shade tolerance and [[biological-nitrogen-fixation-agriculture]]. Its twining habit allows it to coexist with taller crops without competing for light.
 
-Propagation from seed requires cold stratification for 60 to 90 days. Subterranean seeds have higher germination rates than aerial seeds under controlled conditions.
+Propagation from seed requires cold stratification for 60 to 90 days. Subterranean seeds have higher germination rates than aerial seeds under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
 Transplanting established plants is difficult due to the delicate twining stems and sensitive root system. Direct seeding into prepared sites is the preferred establishment method.
 
-The species has potential as a ground cover for shaded agroforestry systems. Its nitrogen fixation and low light requirements suit it to understory positions in food forests and forest gardens.
+The species has potential as a ground cover for shaded agroforestry systems. Its [[legume-nitrogen-fixation-and-green-manure]] low light requirements suit it to understory positions in food forests and forest gardens.
 
 ## Ecological Role
 
@@ -88,34 +88,3 @@ The amphicarpic reproductive strategy is an adaptation to uncertain above-ground
 Aerial flowers are pollinated by small bees and wasps. The nectar and pollen resources support diverse insect populations in shaded woodland habitats.
 
 White-tailed deer browse the foliage moderately, and wild turkeys consume both aerial and subterranean seeds. Small mammals including chipmunks and mice cache underground seeds.
-
-The twining vines provide structural connectivity between herbaceous and woody vegetation layers. This architecture creates microhabitats used by ground-dwelling arthropods.
-
-Root associations with vesicular-arbuscular mycorrhizal fungi enhance phosphorus uptake in the shaded forest floor environment. This mutualism complements the nitrogen fixation provided by rhizobial bacteria.
-
-Leaf decomposition contributes nitrogen-rich litter to the forest floor. Decomposition rates are moderate, providing a sustained release of nutrients to the soil ecosystem.
-
-## Related Species
-
-The genus Amphicarpaea is small, with only two or three species recognized worldwide. A. bracteata is by far the most widespread and well-studied member.
-
-Amphicarpaea edgeworthii is an Asian species found in China, Japan, and Korea. It shares the amphicarpic reproductive strategy but differs in leaf morphology and flower size.
-
-The genus is closely related to Glycine (soybean) and is placed in the tribe Phaseoleae within subfamily Faboideae. Molecular phylogenetic studies confirm this relationship.
-
-The chromosome number of A. bracteata is 2n = 20. Cytogenetic comparisons with Asian Amphicarpaea species suggest a shared ancestral karyotype.
-
-Other amphicarpic legumes include certain Vicia and Lathyrus species, but A. bracteata is the most pronounced example of the strategy in the Fabaceae.
-
-## See Also
-
-- [[glycine-max]]
-- [[vicia-villosa]]
-- [[trifolium-pratense]]
-- [[lespedeza-cuneata]]
-- [[desmodium-canadense]]
-- [[medicago-sativa]]
-- [[mycorrhiza]]
-- [[cover-crop]]
-- [[companion-planting]]
-- [[agroforestry]]

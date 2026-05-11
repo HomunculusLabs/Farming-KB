@@ -14,7 +14,7 @@ sources:
   - Knoll J (1975). "The pharmacology of papaverine." Acta Medica Academiae Scientiarum Hungaricae 32(1): 1-17.
   - Bülbring E, Tomita T (1987). "Action of papaverine on smooth muscle." Journal of Physiology 389: 131-146.
   - Kukovetz WR, Pöch G (1970). "Inhibition of cyclic-3',5'-nucleotide phosphodiesterase by papaverine." Naunyn-Schmiedebergs Archives of Pharmacology 267(2): 189-194.
-  - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical Principles and Practice 2(3): 147-163.
+  - Preziosi P (1983). "The pharmacology of papaverine and related benzylisoquinoline alkaloids." Medical [[biodynamic-farming-principles-and-practice]] 2(3): 147-163.
   - Sigwart U et al. (1987). "Papaverine in interventional cardiology." Journal of the American College of Cardiology 10(6): 1317-1325.
 ---
 
@@ -26,7 +26,7 @@ Papaverine is a benzylisoquinoline alkaloid found in opium, constituting approxi
 
 It was first isolated from opium in 1848 by Georg Merck and was introduced into medical practice as a smooth muscle relaxant in the early 20th century.
 
-Unlike morphine and codeine, papaverine has no opioid receptor activity and produces no analgesic, euphoric, or dependence-producing effects.
+Unlike [[morphine]] and [[codeine]], papaverine has no [[salvinorin-a-kappa-opioid-receptor-pharmacology]] activity and produces no analgesic, euphoric, or dependence-producing effects.
 
 Papaverine is classified pharmacologically as a non-nitrogenous phosphodiesterase inhibitor with direct vasodilatory and antispasmodic properties.
 
@@ -60,7 +60,7 @@ The compound also demonstrates weak adenosine receptor antagonism, which may con
 
 When administered intravenously, papaverine produces rapid vasodilation with an onset of 1–2 minutes and a duration of 10–30 minutes.
 
-Oral bioavailability is moderate (approximately 24–54%), with extensive first-pass hepatic metabolism producing primarily conjugated metabolites.
+[[first-pass-metabolism-and-oral-bioavailability]] is moderate (approximately 24–54%), with extensive first-pass hepatic metabolism producing primarily conjugated metabolites.
 
 ## Natural Occurrence
 
@@ -68,11 +68,11 @@ Papaverine is biosynthesized in P. somniferum through the benzylisoquinoline alk
 
 Unlike morphine and codeine, which are stored primarily in the latex, papaverine is distributed throughout the poppy plant including roots, stems, and leaves.
 
-Some related species including Papaver rhoeas (corn poppy) and Argemone mexicana (prickly poppy) also contain papaverine in detectable quantities.
+Some related species including [[papaver-rhoeas]] (corn poppy) and Argemone mexicana (prickly poppy) also contain papaverine in detectable quantities.
 
 Commercial papaverine is obtained as a byproduct of morphine extraction from opium, separated during the purification process.
 
-The alkaloid profile of different poppy cultivars varies; varieties bred for high thebaine content often have reduced papaverine levels.
+The alkaloid profile of different poppy cultivars varies; varieties bred for high [[thebaine]] content often have reduced papaverine levels.
 
 Total synthesis of papaverine has been achieved but is not economically competitive with extraction from natural sources.
 
@@ -87,34 +87,3 @@ The drug is employed in the management of peripheral vascular disease, especiall
 Papaverine is a component of intracavernosal injection therapy for erectile dysfunction, often combined with phentolamine and alprostadil in triple-therapy formulations.
 
 As a smooth muscle antispasmodic, papaverine has been used to treat biliary colic, renal colic, and gastrointestinal hypermotility.
-
-Topical papaverine formulations have been investigated for enhancing transdermal drug delivery through local vasodilation.
-
-Research into papaverine derivatives has explored selective PDE10A inhibition for the treatment of neurological and psychiatric disorders.
-
-In ophthalmology, papaverine eye drops have been used experimentally to dilate ocular blood vessels and improve retinal blood flow.
-
-## Legal Status
-
-Papaverine is not a controlled substance in most jurisdictions due to its absence of opioid receptor activity and negligible abuse potential.
-
-In the United States, papaverine is available by prescription only and is unscheduled under the Controlled Substances Act.
-
-The drug is included in the World Health Organization Model List of Essential Medicines in its complementary list for the treatment of vascular conditions.
-
-International control of papaverine is not mandated by the UN Single Convention on Narcotic Drugs, though its extraction from opium places it within the regulatory scope of opium processing.
-
-In the European Union, papaverine is classified as a prescription-only medicine under Directive 2001/83/EC.
-
-## See Also
-
-- [[morphine]]
-- [[codeine]]
-- [[thebaine]]
-- [[noscapine]]
-- [[papaver-somniferum]]
-- opium
-- [[cocaine]]
-- [[caffeine]]
-- [[atropine]]
-- dopamine

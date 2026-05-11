@@ -17,7 +17,7 @@ and the prolonged use of chemical weedkillers has a very damaging effect
 on soil organisms. At one research station, soil that had been regularly
 treated with paraquat/diquat was found to contain no earthworms and most
 other beneficial soil organisms were either reduced or absent. The organic
-approach uses physical methods that protect soil life while achieving
+approach uses physical methods that protect [[soil-life]] while achieving
 effective clearance.
 
 ## Principles of Organic Weed Clearance
@@ -88,38 +88,6 @@ root reserves.
 
 Weeds with deep taproots, such as dandelions and docks, are remarkably
 resilient. Even a dock root nailed to a shed door and left for two years
-will flourish when replanted. The only effective approach is to dig them
-out completely and dispose of them in household waste. Chemical-free
-eradication of established perennial weeds requires patience and
-determination but is entirely achievable.
 
-## Preventing Weeds from Spreading
-
-Two sources of ongoing weed problems are airborne seeds from neighbouring
-gardens and creeping roots coming under fences. Airborne seeds are best
-addressed by politely asking neighbours to cut weeds before they set seed.
-For creeping roots, install a barrier running deep into the soil along
-the fence line. This provides effective, permanent protection.
-
-The organic approach to weed clearance is more labour-intensive than
-spraying chemicals, but the results are far superior in the long term. The
-soil remains alive with beneficial organisms, the cleared ground is
-genuinely clean, and no harmful residues remain to affect future crops.
-
-## Practical Tips
-
-- Start clearance in late summer or fall for the best results
-- Never put perennial weed roots on the compost heap
-- Cover cleared ground immediately to prevent reinfestation
-- Use potatoes as a cleaning crop in the first year on any new plot
-- Dig out dandelions and docks completely; no shortcut works
-- Be patient with bindweed and couch grass; they require multiple seasons
-- Install root barriers along fence lines to prevent encroachment
-- Regular cultivation is the single most effective organic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-
-## Related Concepts
-
-- [[hamilton-organic-weed-management]]
-- [[hamilton-digging-and-cultivation]]
-- [[hamilton-mulching-materials-and-techniques]]
-- [[hamilton-soil-biology-and-microorganisms]]
+## See Also
+- [[permaculture-plants-ground-covers-living-mulches]]

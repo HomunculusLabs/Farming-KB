@@ -87,18 +87,3 @@ The contrast between shamanic religion and institutional religion is central to 
 McKenna saw the alchemical tradition as a kind of underground preservation of the lost mystery — a coded language through which the memory of plant-based ecstatic religion survived centuries of suppression. The alchemists' search for the materia mater, the universal panacea, was in McKenna's reading a disguised continuation of the ancient quest for the psychedelic experience that had once been the foundation of all religion. Similarly, the European witch cults of the medieval and early modern periods — with their flying ointments (often containing psychoactive alkaloids from nightshade plants), their nocturnal gatherings, and their veneration of the Goddess — represented a survival of the pre-Christian ecstatic tradition, however distorted and demonized by their persecutors.
 
 The suppression of these traditions — the Inquisition, the witch-burnings, the systematic destruction of indigenous religious practices by colonial missionaries — was, in McKenna's view, the final and most violent phase of the abandonment of the mystery, extending the process from cultural forgetting to active persecution.
-
-See also:
-- [[entheogenic-eleusis-theory-scholarly-reception]]
-- [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an Archaic Revival — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-- [[mckenna-archaic-revival]]
-- [[psychedelic-consciousness-models]]
-- [[psychedelic-mushroom-set-and-setting]]

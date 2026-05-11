@@ -88,10 +88,3 @@ THC being the main active compound. THC levels are genetically determined
 while quantities are influenced by growing conditions. Minor cannabinoids
 like CBD and CBN contribute to the overall experience. Understanding the
 genetics behind THC production helps growers select the right strains and
-optimize their cultivation for maximum potency.
-
-## See Also
-
-- [[thc-bomb]]
-
-- [[greg-green-odor-control-and-air-filtration]]

@@ -43,7 +43,7 @@ practical advantage for perennial crop systems.
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
-- **Phylum:** Ascomycota
+- **Phylum:** [[ascomycota]]
 - **Class:** Dothideomycetes
 - **Order:** Pleosporales
 - **Family:** Leptosphaeriaceae
@@ -69,10 +69,10 @@ following the pathogen into plant tissue. It produces glucose
 oxidase as its main antifungal agent (Kim et al. 1990).
 
 Glucose oxidase releases [[cervantes-hydrogen-peroxide-sterilization]] from glucose, a
-reactive oxygen species highly toxic to fungal cells.
+[[reactive-oxygen-species-and-oxidative-stress]] highly toxic to fungal cells.
 Additionally, C. minitans produces beta-1,3 glucanase and
 chitinase, enzymes that degrade the structural polysaccharides of
-fungal cell walls. Notably, C. minitans does not form appressoria
+fungal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Notably, C. minitans does not form appressoria
 (Huang and Kokko 1988), unlike many mycoparasites.
 
 ### Biocontrol Efficacy
@@ -84,27 +84,7 @@ preventing carpogenous germination of sclerotia (Mueller et al.
 1985). It colonizes sclerotia more successfully on and in roots
 than inside stems of sunflower (Huang 1978).
 
-When applied together with Talaromyces flavus against
+When applied together with [[talaromyces-flavus]] against
 Sclerotinia, the combination produced nearly equivalent effect to
 either agent alone (McLaren et al. 1994). This suggests these
 agents occupy similar niches on the sclerotial surface rather
-than acting synergistically, meaning combining them may not
-provide additional benefit over the most effective single agent.
-
-### Selective Isolation and Detection
-Selective isolation of C. minitans from environmental samples
-uses S. sclerotiorum sclerotia as bait (Gerlagh and Vos 1991).
-This method exploits the parasite's strong host-specific
-attraction to sclerotia, allowing sensitive detection even at low
-population densities in soil. Population monitoring is important
-for assessing establishment and persistence of introduced C.
-minitans in biocontrol programs.
-
-### Host Range and Limitations
-C. minitans is specialized on Sclerotinia species, particularly
-S. sclerotiorum and S. minor. This specialization ensures
-targeted biocontrol activity with minimal non-target effects, but
-limits utility to Sclerotinia management. Coniothyrium sporulosum
-was found as an antagonist of [[sclerotinia-sclerotiorum]], [[jadam-cover-crop-soil-temperature-management]]
-- [[trichoderma-virens]]
-- [[sporidesmium-sclerotivorum]]

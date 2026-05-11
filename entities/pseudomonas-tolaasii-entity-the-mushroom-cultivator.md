@@ -88,17 +88,3 @@ facilities, not only for crop protection but also for worker safety.
 The economic impact of Pseudomonas tolaasii can be severe. Bacterial blotch can
 devastate entire crops of Agaricus and Psilocybe species if not promptly identified and
 managed. The speed at which the lesions develop and spread means that early detection
-is critical. Growers should monitor crops daily during the cropping phase, paying
-particular attention to areas where water tends to pool or where air circulation is
-poor.
-
-The disease cycle of Pseudomonas tolaasii begins when bacteria are introduced to the
-[[cannabis-growing-environment-setup]] via contaminated water, casing materials, or vectors such as flies
-and mites. Once established on the mushroom surface, the bacteria multiply rapidly in
-the moist environment, producing the characteristic lesions and slimy exudate. Spores
-and bacteria are then dispersed to adjacent mushrooms through water splash, physical
-contact during harvesting, and insect activity.
-
-## See Also
-- [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
-- [[verticillium-malthousei-entity-the-mushroom-cultivator]]

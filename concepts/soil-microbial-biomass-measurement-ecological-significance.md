@@ -1,5 +1,5 @@
 ---
-title: Soil Microbial Biomass: Measurement and Ecological Significance
+title: Soil Microbial Biomass Measurement Ecological Significance
 category: soil-science
 source: general-knowledge
 mined: 2026-05-10
@@ -11,7 +11,7 @@ aliases: [smb, microbial-biomass-carbon, microbial-biomass-nitrogen, soil-microb
 
 ## Overview
 
-Soil microbial biomass (SMB) is the living component of soil organic matter, comprising the total mass of all microorganisms in soil including bacteria, fungi, archaea, actinomycetes, and protozoa (though usually dominated by bacteria and fungi). Despite representing only 1-5% of total soil organic carbon, microbial biomass is responsible for the majority of nutrient cycling, organic matter decomposition, and soil structure maintenance. It serves as both a labile nutrient reservoir and a sensitive indicator of soil health and management-induced changes.
+Soil microbial biomass (SMB) is the living component of [[knf-leaf-mold-humus]], comprising the total mass of all microorganisms in soil including bacteria, fungi, archaea, actinomycetes, and protozoa (though usually dominated by bacteria and fungi). Despite representing only 1-5% of total soil organic carbon, microbial biomass is responsible for the majority of nutrient cycling, organic matter decomposition, and soil structure maintenance. It serves as both a labile nutrient reservoir and a sensitive indicator of soil health and management-induced changes.
 
 ## Composition of Soil Microbial Biomass
 
@@ -25,7 +25,7 @@ Soil microbial biomass (SMB) is the living component of soil organic matter, com
 - Microbial biomass nitrogen is typically 2-10% of total soil nitrogen.
 - MBC:MBN ratio typically ranges from 5:1 to 15:1, with lower ratios indicating fungal dominance.
 - MBN is an important source of plant-available nitrogen through mineralization.
-- The C:N ratio of microbial biomass provides information about community composition and nutrient cycling dynamics.
+- The C:N ratio of microbial biomass provides information about [[core-endorhiza-bacterial-community-composition-cannabis]] [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] dynamics.
 
 ### Phosphorus (MBP)
 - Microbial biomass phosphorus is typically 1-5% of total soil phosphorus.
@@ -67,13 +67,13 @@ Developed by Anderson and Domsch (1978):
   - Bacteria: i15:0, a15:0, 16:1ω7, cy17:0, cy19:0
   - Fungi: 18:1ω9, 18:2ω6,9
   - Actinomycetes: 10Me16:0, 10Me17:0, 10Me18:0
-  - Arbuscular mycorrhizal fungi: 16:1ω5
+  - [[arbuscular-mycorrhizal-fungi]]: 16:1ω5
   - Gram-positive bacteria: i15:0, a15:0, i17:0
   - Gram-negative bacteria: 16:1ω7, cy17:0, cy19:0
 - Provides both total biomass and community composition data.
 - PLFAs turn over rapidly (hours to days), making them responsive to recent changes.
 
-**Advantages**: Gives community structure information; sensitive to management changes.
+**Advantages**: Gives [[edaphic-determinants-cannabis-microbiome-community-structure]] information; sensitive to management changes.
 **Limitations**: Expensive; requires specialized equipment (GC-FID or GC-MS); cannot identify specific species.
 
 ### DNA-Based Methods
@@ -88,54 +88,3 @@ Developed by Anderson and Domsch (1978):
 - **Clay content**: Clay protects microbial cells from predation and desiccation, increasing SMB.
 - **Soil moisture**: Optimal at 50-60% water-holding capacity. Both drought and waterlogging reduce SMB.
 - **pH**: Most microbial groups prefer near-neutral conditions; acidification reduces total biomass and shifts community composition.
-- **Temperature**: SMB increases with temperature up to an optimum (typically 25-30°C for mesophilic communities).
-
-### Management Practices
-- **Tillage**: Conventional tillage reduces SMB by 20-50% compared to no-till, primarily by disrupting fungal hyphal networks and exposing organic matter to rapid decomposition.
-- **Cover crops**: Living roots provide continuous carbon inputs (exudates, sloughed cells), maintaining SMB between cash crops. Increases of 15-40% are typical.
-- **Organic amendments**: Compost, manure, and green manures significantly increase SMB by providing labile carbon substrates.
-- **Crop rotation**: Diverse rotations with high-residue crops maintain greater SMB than monocultures.
-- **Nitrogen fertilization**: Moderate N can increase SMB; excessive N (especially synthetic) may reduce fungal biomass and shift communities toward bacterial dominance.
-- **Pesticides**: Broad-spectrum pesticides can reduce SMB, though effects vary by compound and application rate. Some fungicides are particularly detrimental to soil fungal communities.
-- **Grazing**: Moderate grazing can increase SMB through root turnover; overgrazing reduces inputs and biomass.
-
-## Ecological Functions of Soil Microbial Biomass
-
-### Nutrient Cycling
-- **Decomposition**: Microbial enzymes break down complex organic compounds (cellulose, lignin, chitin, proteins) into simpler forms.
-- **Mineralization**: Microbial turnover releases plant-available nitrogen, phosphorus, and sulfur.
-- **Immobilization**: Microbes temporarily sequester nutrients during periods of high substrate availability, preventing leaching losses.
-- **Nitrification**: Chemoautotrophic bacteria oxidize ammonium to nitrite and nitrate.
-- **Denitrification**: Facultative anaerobic bacteria reduce nitrate to N₂ or N₂O under low-oxygen conditions.
-
-### Soil Structure Formation
-- Fungal hyphae physically bind soil particles into aggregates.
-- Bacterial exopolysaccharides act as glue, stabilizing soil aggregates.
-- Microbial necromass contributes to stable soil organic matter (MAOM).
-- Glomalin-related soil protein from AM fungi is a particularly important aggregate stabilizer.
-
-### Disease Suppression
-- High microbial biomass creates competition for resources, limiting pathogen establishment.
-- Certain microbial groups produce antibiotics, siderophores, or lytic enzymes that inhibit pathogens.
-- Microbial biomass activity is correlated with general soil suppressiveness.
-
-### Carbon Sequestration
-- Microbial processing efficiency determines how much plant-derived carbon is stabilized vs. respired as CO₂.
-- Microbial necromass (dead microbial cells and residues) is a major source of stable soil carbon.
-- Fungal-dominated systems tend to stabilize more carbon than bacterial-dominated systems.
-
-## Biomass as a Soil Health Indicator
-
-MBC and derived ratios are widely used in soil health assessments:
-- **MBC:SOC ratio**: Values of 1-3% indicate healthy, active soils. Lower values suggest degraded conditions.
-- **MBC:MBN ratio**: Values of 6-10 suggest balanced microbial communities. Higher values (>15) indicate fungal dominance; lower values (<5) suggest bacterial dominance or stress.
-- **Metabolic quotient (qCO₂)**: Respiration per unit biomass. Low values indicate efficient use of carbon; high values suggest stress or disturbance.
-- **Microbial quotient**: (MBC/total organic C) × 100. Provides a normalized measure of the active carbon pool.
-
-## See Also
-
-- [[soil-health-indicators]]
-- [[soil-respiration]]
-- [[soil-organic-carbon-fractions-turnover-dynamics]]
-- [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
-- [[building-soil-fertility-long-term]]

@@ -1,5 +1,5 @@
 ---
-title: guzman allen gartz sacred puffballs gasteromycetes indigenous cultures and Gasteromycetes in Indigenous Cultures
+title: Guzman Allen Gartz Sacred Puffballs Gasteromycetes Indigenous Cultures
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -24,14 +24,14 @@ and related fungi, as sacred or narcotic substances by indigenous
 peoples. These fungi generally lack confirmed psychoactive chemistry,
 yet they occupy important roles in traditional ceremonies and
 healing practices. Their inclusion in the global checklist reflects
-the authors' recognition that indigenous knowledge of fungal
-properties may precede and exceed scientific understanding.
+the authors' recognition that [[psilocybin-chemistry-stability-indigenous-knowledge]] of fungal
+properties may precede and exceed [[fukuoka-fallacies-scientific-understanding]].
 
 ## Mixtec Sacred Puffballs of Oaxaca
 
 The most extensively documented case of sacred puffball use involves
 the Mixtec Indians of Oaxaca, Mexico. Heim and Wasson (1962) and
-Heim et al. (1967) first reported the use of Lycoperdon mixtecorum
+Heim et al. (1967) first reported the use of [[lycoperdon-mixtecorum]]
 and L. marginatum as narcotic fungi. These species are synonyms of
 Vascellum qudenii and Lycoperdon candidum respectively. Ott et al.
 (1975) conducted a follow-up investigation in the same locality
@@ -41,7 +41,7 @@ Mixtec sacred puffballs actually were. Ott and colleagues identified
 at least nine species being used indistinctly as narcotic fungi by
 the local Indians. Beyond the original two species, these included
 Vascellum pratense, V. curtisii, V. intermedium, Lycoperdon
-oblongiosporum, Rhizopogon species, Astraeus hygrometricus, and
+oblongiosporum, Rhizopogon species, [[astraeus-hygrometricus]], and
 Scleroderma verrucosum.
 
 ## Chemical Analysis of the Sacred Puffballs
@@ -72,7 +72,7 @@ This cosmological interpretation connects the biological phenomenon
 of circular fungal growth patterns with spiritual beliefs about
 celestial bodies descending to earth. Guzmán (1994a, 1994b, 1997)
 discussed several puffballs used by Mexican Indians in traditional
-medicine, including Lycoperdon perlatum, which forms fairy rings in
+medicine, including [[lycoperdon-perlatum]], which forms fairy rings in
 grasslands. While none of these species possess neurotropic
 properties and are in fact edible, their cultural significance
 appears to derive from their visual similarity to psychoactive
@@ -88,54 +88,3 @@ Mexico. This striking fungus, commonly known as the veiled lady
 mushroom or long-net stinkhorn, was first documented in ceremonial
 use by Heim and Wasson (1958) and Wasson (1959a). Its use in
 divination contexts suggests that indigenous classification of
-sacred fungi is based on cultural and ritual criteria rather than
-purely pharmacological ones. The inclusion of D. indusiata in the
-checklist alongside more conventionally neurotropic species reflects
-the authors' recognition that the category of sacred fungi transcends
-chemical classification.
-
-## Ganoderma as a Sacred Fungus
-
-Guzmán et al. (1975) reported the cult of [[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]] in a
-church in Chignahuapan, Puebla, Mexico. The church was built
-specifically in honor of this fungus, and the local Indians regarded
-it as a saint. The inner surface of the fungal specimen was
-decorated with an arresting sketch portraying Christ with a sun
-and moon on each side. While there is no evidence of neurotropic
-properties in Ganoderma lobatum, its use in cult practice is
-probably related to the use of neurotropic Psilocybe species common
-in the same region. This case illustrates how the cultural framework
-of sacred fungi can encompass species that serve symbolic or
-ceremonial roles without necessarily containing psychoactive
-compounds themselves.
-
-## The Broader Category of Sacred Non-Psychoactive Fungi
-
-The gasteromycetes and other sacred non-psychoactive fungi raise
-important questions about how indigenous peoples classify and use
-fungi. The Mixtec practice of using a mixture of nine species
-indistinctly suggests that the category of sacred fungus is defined
-by context and cultural tradition rather than by pharmacological
-properties. The confusions between species are understandable given
-that many puffballs share the general appearance of small rounded
-fruiting bodies that could be mistaken for the unopened stages of
-various gilled mushrooms. The paper's decision to include these
-species in the global checklist, despite their doubtful chemistry,
-represents a scientifically cautious but culturally respectful
-approach that preserves ethnobotanical information for future
-investigation with modern analytical methods.
-
-## See also
-
-[[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
-[[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]]
-
-## See Also
-
-- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
-
-- [[guzman-allen-gartz-neurotropic-fungi-asia]]
-- [[guzman-allen-gartz-clavicipitalean-neurotropic-fungi]]
-- guzman [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] sacred puffballs gasteromycetes indigenous cultures
-- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
-- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]

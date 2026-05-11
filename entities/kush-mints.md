@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2024). "Kush Mints Cannabis Strain Information."
     Leafly.com.
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint Cannabis Strains."
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]."
     CannabisTrainingUniversity.com.
   - DGC Magazine (2023). "Kush Mints Strain Review." DGCmag.com.
 ---
@@ -28,7 +28,7 @@ sought-after strains in the modern premium cannabis market since its
 release in the late 2010s.
 
 The strain is renowned for its high THC content, complex minty and
-kush-forward terpene profile, and deeply relaxing effects that blend
+kush-forward [[cannabis-terpene-profile]], and deeply relaxing effects that blend
 body sedation with cerebral calm.
 
 Kush Mints has served as a foundational parent for numerous
@@ -80,63 +80,11 @@ the strain's characteristic relaxed-yet-functional effect profile.
 - **Cerebral effects:** Gentle uplifting head high that transitions
   to sedation
 
-**Medical applications:**
+**[[oner-sativa-medical-applications]]:**
 
-- Chronic pain management (neuropathic and inflammatory)
+- [[cannabis-chronic-pain-management]] (neuropathic and inflammatory)
 - Insomnia and [[cannabis-sleep-disorders-and-insomnia]]
 - Anxiety and stress relief
 - Muscle spasms and tension
-- Appetite stimulation
-- PTSD symptom management
-
-**Side effects:** Dry mouth (common), dry eyes (common), dizziness
-(with high doses), anxiety or paranoia (rare, typically with
-overconsumption). New users should approach with caution due to
-high THC content.
-
-## Growing Characteristics
-
-- **Flowering time:** 8-9 weeks indoors
-- **Yield:** Moderate to high (400-500 g/m² indoor; 400-600 g/plant
-  outdoor)
-- **Height:** Medium; 90-130 cm indoors
-- **Difficulty:** Moderate; suitable for experienced growers
-- **Climate:** Prefers warm, dry Mediterranean conditions; moderate
-  humidity during flowering to prevent mold
-- **Resistance:** Good resistance to common pests; moderate mold
-  resistance — requires airflow management
-- **Nutrient needs:** Moderate to heavy feeder during vegetative
-  stage; reduce nitrogen in late flowering
-- **Training:** Responds well to LST, ScrOG, and topping; develops
-  dense colas that may require support
-
-Plants exhibit deep green foliage with purple and blue hues in
-cooler temperatures. Buds are dense, chunky, and heavily coated
-in trichomes with vivid orange pistils.
-
-## Genetic Relatives and Crosses
-
-- **Bubba Kush:** Contributes indica dominance, earthy kush flavor,
-  and sedative body effects
-- **Animal Mints:** Contributes mint terpenes, high resin production,
-  and potency
-- **Notable crosses:** Jet Fuel Gelato (Kush Mints × Jet Fuel G6),
-  Animal Mints (Kush Mints × Animal Cookies parent reversal),
-  Kush Mints #11 (selected phenotype)
-
-## Cultural Significance
-
-Kush Mints emerged from the Los Angeles cannabis breeding scene and
-rapidly gained a reputation as a "top-shelf" strain. It won multiple
-High Times Cannabis Cup accolades and has become a staple in licensed
-dispensaries across legal markets in [[psilocybin-north-america-pacific-northwest]].
-
-The strain exemplifies the modern trend toward complex, multi-layered
-[[cannabis-terpene-profiles-sativa]] in indica-dominant hybrids and represents the
-pinnacle of Seed Junky Genetics' [[cervantes-breeding-program-design-goal-setting]].
-
-## See Also
-
-- [[blue-dream]]
-- [[linalool]]
-- [[myrcene]]
+- [[cannabis-for-cachexia-and-appetite-stimulation]]
+- PTSD [[cannabis-cancer-symptom-management]]

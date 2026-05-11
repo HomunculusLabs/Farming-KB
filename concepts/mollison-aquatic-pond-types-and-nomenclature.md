@@ -4,11 +4,12 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags:
-  - permaculture
+  - [[permaculture]]
   - design
   - water
   - agriculture
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
@@ -39,7 +40,7 @@ health.
 Contour dams are built along a contour, with wing banks running upslope to
 impound water. The contour may be concave or convex on the downhill side.
 Contour dams are one of the most versatile and widely applicable water storage
-types in permaculture design, as they can be placed at any suitable point
+types [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], as they can be placed at any suitable point
 along a slope to capture
 runoff.
 The siting of contour dams follows similar principles to
@@ -87,12 +88,3 @@ improve resilience and productivity over time.
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[permaculture-design]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
-- [[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
-- [[mollison-designers-check-dam-types-and-landscape-placement]]

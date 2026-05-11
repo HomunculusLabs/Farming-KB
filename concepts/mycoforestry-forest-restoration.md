@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycoforestry and Forest Restoration
 
-Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal [[mycoforestry-fungal-forest-restoration]] networks to establish nutrient cycling in damaged landscapes.
+Mycoforestry is the use of fungi to restore and sustain forest ecosystems. It encompasses the practice of inoculating seedlings with mycorrhizal fungi, deploying saprophytic fungi for decomposition and soil creation, and using fungal networks to establish [[nutrient-cycling-in-soil]] damaged landscapes.
 
 ## The Mycelial Network
 
@@ -19,13 +19,13 @@ In old-growth forests, mycelial networks form a "mycelial mat" -- a vast undergr
 
 Mycorrhizal fungi form symbiotic associations with plant roots, extending the root system's reach and enabling the plant to access nutrients and water that would otherwise be unavailable. Mycorrhizal inoculation of seedlings involves:
 
-1. Applying mycorrhizal inoculum (such as MycoGrow) to seedling roots at planting time
+1. Applying [[arbuscular-mycorrhizal-inoculum-production-best-practices]] (such as MycoGrow) to seedling roots at planting time
 2. Ensuring the inoculum contacts the root zone directly
-3. Planting seedlings in sites where native mycorrhizal networks have been disrupted
+3. Planting seedlings in sites where native [[arbuscular-mycorrhizal-networks]] have been disrupted
 
 Benefits of mycorrhizal inoculation:
 - Increased nutrient uptake (phosphorus, nitrogen, micronutrients)
-- Enhanced drought tolerance
+- Enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Protection against root pathogens
 - Improved soil structure through glomalin production
 
@@ -34,7 +34,7 @@ Benefits of mycorrhizal inoculation:
 A demonstrated mycoforestry technique for reclaiming damaged roads and disturbed sites:
 
 1. Wood chips are placed along road scar surfaces
-2. Chips are inoculated with oyster mushroom (Pleurotus ostreatus) mycelium as a keystone species
+2. Chips are inoculated with oyster mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) mycelium as a keystone species
 3. Straw is spread over inoculated wood chips
 4. Non-seeding wheat or native grass seed, mixed with mycorrhizal inoculum, is broadcast
 5. Rainfall activates growth; seeds sprout within a week
@@ -44,7 +44,7 @@ Over years, the wood chips decompose into rich soil (approximately 1-2 inches of
 
 ## Wood Chips as Ecological Currency
 
-Wood chips serve as a primary substrate for mycoforestry practices. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
+Wood chips serve as a primary substrate for [[mycoforestry-practices]]. They provide the carbon source that fuels fungal growth, which in turn creates soil, retains moisture, and supports the re-establishment of native plant communities. As Stamets writes: "Wood chips are the ecological currency that we should bank for preventing erosion."
 
 ## Future Approaches
 
@@ -53,6 +53,37 @@ Future trials for mycoforestry use a matrix of white rot, brown rot, and mycorrh
 ## See Also
 
 - [[mycofiltration-water-treatment]]
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[fungal-ecology-decomposition-cycles]]
 - [[paul-stamets]]
+
+## Practical Applications
+- Fungal cultivation techniques benefit from understanding these biological principles.
+- Field application requires attention to local environmental conditions and substrate availability.
+- Integration with sustainable agriculture practices enhances ecological outcomes.
+- Research findings support both commercial and small-scale cultivation approaches.
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

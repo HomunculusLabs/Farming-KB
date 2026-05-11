@@ -1,5 +1,5 @@
 ---
-title: Permaculture Zone Design System
+title: Natural Farming Guide Zone Design System
 created: 2026-04-28
 tags: [natural-farming, permaculture, zone-design, land-planning, sustainable-living]
 date: 2026-04-25
@@ -35,7 +35,7 @@ gatherings, and produce human waste. You will spend the most time here,
 and so everything else branches out from this zone.
 
 Key elements include the kitchen, shade room, greenhouse, trellises and
-their attached vines, composting toilet, and house pets. The house should
+their attached vines, [[comparison-biogas-vs-composting-toilet]], and house pets. The house should
 ideally be built halfway up a slope, on the sun-facing side, close to
 the main road with a short driveway, and on soil with good drainage.
 
@@ -62,7 +62,7 @@ crops that make up the staples of your diet, like grains or potatoes.
 Worms, rabbits, chickens, ducks, or fish can be raised in a small yard
 just beyond the proximity of the Zone 1 gardens.
 
-This is also where you would keep fruit and nut trees and the compost
+This is also where you would keep fruit [[holzer-sweet-chestnut-and-nut-trees]] and the compost
 heap and use hedges and trellising to maximize the edges. In a suburban
 area, this is as far as the land would extend. On a larger piece of land,
 you might also keep a few goats here, or a single milk cow.
@@ -72,7 +72,7 @@ you might also keep a few goats here, or a single milk cow.
 Zone 3 is for rural areas and properties that are larger. This is where
 you would have a larger, unpruned orchard and other trees that act as a
 windbreak for the house. The goat pen and beehives are placed here, and
-the area is full of living mulches, plants for animal fodder, and
+the area is full of [[permaculture-plants-ground-covers-living-mulches]], plants for animal fodder, and
 firebreaks.
 
 Water is stored in the soil in swales, or it is caught with small dams
@@ -84,51 +84,7 @@ going to be sold for profit.
 
 Zone 4 shows the benefit of having a large piece of [[mollison-country-permaculture-rural-land-design]]. This is
 an area of long-term development through a woodlot, dam, and extensive
-tree planting. Windmills and large animal stock are placed here, along
+[[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]. Windmills and large animal stock are placed here, along
 with large-scale water harvesting.
 
 Pigs work well in a forest zone like this. No mulches are used, and
-hardy edible plants are foraged from the edges of the forest where they
-need very little ongoing care. Water is managed with small dams, rivers,
-and windmill pumps for irrigation into Zone 3.
-
-## Zone 5: Wilderness Preserve
-
-Zone 5 can and should be placed on any sized property. This is a
-wilderness area, the nature preserve. This is where wildlife corridors
-and forest growth can be fostered. This is where you can observe the
-untamed wilderness and have fun in the woods.
-
-In an urban backyard, this would simply be a back corner that you leave
-to the birds and bunnies. When planning Zone 5, you might need to remove
-any man-made problems, but once done, you simply fence it off and leave
-it alone. Planting native species is the same as planting a garden,
-which misses the point of what Zone 5 is supposed to be.
-
-## Sectors: External Influences
-
-Zones can be further divided into sectors, which are the outside
-influences or energies that affect the land. Sectors include the
-direction of prevailing wind, rainfall patterns and distribution,
-sun angle in all seasons, fire danger, noise and privacy concerns,
-flood-prone areas, hills and slopes, and views to preserve or block.
-
-When placing elements, keep the sectors in mind. If a place is windy,
-add a windbreak. If it gets flooded, add trees that tolerate water.
-Put the garden where there will be the right amount of sunlight.
-
-## Slope as a Design Factor
-
-Slope is the deciding factor for the placement of most elements. Water
-flow, [[comparison-passive-solar-vs-earth-sheltered]] heating, solar panels, weather exposure, erosion,
-and the angle of sunshine are all determined by the slope. The top of a
-slope is best for catching and storing water. The middle is the most
-sheltered location for a house. The bottom is perfect for gardens and
-animals, though flat areas at the bottom can be prone to [[cervantes-salt-buildup-leaching-management]]
-through evaporation.
-
-## See Also
-
-- [[natural-farming-guide-swale-water-management]]
-- [[natural-farming-guide-sheet-mulching-no-dig-garden-preparation]]
-- [[natural-farming-guide-contour-farming-strip-cropping]]

@@ -87,31 +87,3 @@ As a brown-rot fungus, *D. quercina* plays a critical role in forest carbon cycl
 The brown-rot mechanism involves [[bioremediation-fenton-chemistry-brown-rot-fungi]] — the fungus generates hydroxyl radicals via extracellular [[cervantes-hydrogen-peroxide-sterilization]] and ferrous iron, which depolymerize cellulose chains. This non-enzymatic system is more efficient at degrading crystalline cellulose than white-rot enzymatic pathways.
 
 In forest ecosystems, *D. quercina* contributes to snag decomposition, cavity creation for wildlife habitat, and nutrient release. Its preference for oak heartwood makes it a late-stage successional decomposer, often following initial colonization by white-rot species.
-
-The species has been investigated for bioremediation potential due to its ability to tolerate and accumulate heavy metals from contaminated wood substrates, though this research remains preliminary.
-
-## Edibility and Culinary Use
-
-*D. quercina* is generally considered inedible or marginally edible due to its tough, corky texture and bitter taste. Young specimens can be cooked and consumed, but the culinary value is negligible compared to other polypores.
-
-The flesh is extremely fibrous and does not soften significantly with prolonged cooking. Flavor is described as acrid and nutty, with an unpleasant astringent aftertaste. No reliable cases of toxicity have been documented, but the species is not recommended for foraging.
-
-Some foragers report using dried and powdered brackets as a seasoning agent in small quantities, though this practice is uncommon and not widely supported by culinary mycology resources.
-
-## Related Species
-
-*Daedalea quercina* is the type species of the genus *Daedalea*. It can be confused with several maze-gilled polypores:
-
-- *Lenzites betulina* (gilled polypore) has true gills rather than daedaleoid pores and grows on birch. Spores are slightly larger.
-- *Trametes ochracea* develops a more consistently poroid surface with age and has smaller, thinner brackets. It lacks the prominent maze-like pattern.
-- *Ganoderma applanatum* (artist's bracket) has a white pore surface that bruises brown, a glossy upper surface, and a double-walled spore. It is considerably larger and longer-lived.
-
-The variable pore morphology of *D. quercina* can cause confusion, as individual brackets may develop predominantly poroid surfaces on one side and daedaleoid surfaces on another, depending on orientation and moisture gradients.
-
-## See Also
-
-- [[ganoderma-applanatum]]
-- [[xylaria-polymorpha-entity]]
-- [[laetiporus-sulphureus]]
-- [[polypore-fungi-eastern-north-america]]
-- [[mycoremediation]]

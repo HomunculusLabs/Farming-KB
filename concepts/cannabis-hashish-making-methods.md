@@ -1,5 +1,5 @@
 ---
-title: oner-cannabis-hashish-production Making Methods
+title: Cannabis Hashish Making Methods
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,14 +13,14 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 ## What Hashish Is
 
 ### Trichomes
-- Tiny resin glands on cannabis flowers and leaves
+- Tiny [[greg-green-trichomes-and-resin-glands]] on cannabis flowers and leaves
 - Contain cannabinoids, terpenes, and flavonoids
 - Three types: bulbous, capitate-sessile, and capitate-stalked (the largest, most potent)
 - When separated and pressed, trichomes form hashish
 
 ### Types of Hash
 - **[[green-cannabis-dry-sift-water-extraction]]**: Trichomes separated by sieving dry plant material
-- **Ice water (bubble hash)**: Trichomes separated using ice water and agitation
+- **Ice water ([[cervantes-water-hash-bubble-hash]])**: Trichomes separated using ice water and agitation
 - **Hand-rubbed (charas)**: Trichomes collected by rubbing living plants
 - **Chemical extraction**: Solvent-based (bho, CO2, ethanol) — technically not traditional hash
 
@@ -88,37 +88,3 @@ Hashish (hash) is a concentrated cannabis product made by separating and collect
 ## Hand-Rubbed (Charas)
 
 ### The Traditional Method
-- Workers rub flowering cannabis plants between their hands
-- Resin collects on hands as a dark, sticky mass
-- Periodically scraped off and rolled into balls or sticks
-- Still practiced in India, Nepal, Morocco
-
-### Quality
-- Extremely high terpene content (fresh resin from living plants)
-- Potency varies widely depending on strain, timing, and skill
-- The finest charas (Malana Cream) commands premium prices
-
-### Drawbacks
-- Labor-intensive and low yield
-- Plant damage reduces subsequent flower yield
-- Quality depends entirely on skill and timing
-
-## Pressing Hash
-
-### Why Press
-- Compresses loose kief/bubble hash into a solid block
-- Activates heat and pressure to create homogeneous mass
-- Improves storage, handling, and aging
-- Traditional: pressed between layers of cellophane or parchment with heat
-
-### Methods
-- **Hand press**: Warm kief in hand, roll and press between fingers
-- **Pollen press**: Mechanical press for consistent results
-- **Heat press**: Professional method, 180-200°F, 10-50 tons pressure
-- **Traditional**: Wrapped in cellophane, pressed between heated flat irons
-
-## Related
-- [[cannabis-extraction-methods]] — for solvent-based extraction
-- [[cannabis-harvest-and-curing]] — for proper drying/curing before processing
-- [[hashish-binding-pressing-and-storage-techniques]]
-- [[cannabis-hashish-from-extracted-oil-techniques]]

@@ -77,3 +77,13 @@ pressure, soil biology, yields, and long-term resilience.
 
 - [[psih-enzyme]] — hydroxylase producing PsiK's substrate, 4-hydroxytryptamine
 - [[baeocystin]] — the next intermediate after PsiM methylation of norbaeocystin
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.

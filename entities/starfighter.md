@@ -15,7 +15,7 @@ sources:
   - AllBud Strain Reviews. "Starfighter." allbud.com.
   - SeedFinder Database. "Starfighter." seedfinder.eu.
   - Dutch Passion Seed Co. "cannabis-strain-breeding-techniques notes." dutch-passion.com.
-  - "Cannabis chemotype analysis of Chemdawg-derived hybrids." (2019). Journal of Cannabis Research.
+  - "[[cannabis-chemotype-classification]] analysis of Chemdawg-derived hybrids." (2019). Journal of Cannabis Research.
 created: 2026-04-28
 ---
 
@@ -31,7 +31,7 @@ Starfighter typically tests between 18–26% THC with minimal CBD content (<1%).
 
 It has won no major cannabis cups but maintains a devoted following among extract artists and home growers for its heavy trichome production.
 
-The name references both the Chemdawg lineage ("Alien" parent) and the bright, stellar quality of its resin glands.
+The name references both the [[chemdawg-lineage-and-legacy]] ("Alien" parent) and the bright, stellar quality of its [[greg-green-trichomes-and-resin-glands]].
 
 ## Lineage
 
@@ -45,7 +45,7 @@ Lemon OG contributes bright citrus notes and a relaxing indica body effect.
 
 The cross is approximately 60% indica / 40% sativa in its reported effects, though exact ratios vary by phenotype.
 
-Starfighter has been used as a parent in subsequent crosses, most notably **Starfighter OG** and **Death Star**-adjacent lines.
+Starfighter has been used as a parent in subsequent crosses, most notably **Starfighter OG** and **[[jedi-death-star]]**-adjacent lines.
 
 ## Appearance
 
@@ -57,7 +57,7 @@ The most notable visual feature is the extraordinary trichome coverage — buds 
 
 Pistils are orange to amber, relatively sparse compared to the dominant [[cannabis-glandular-trichome-types-resin-production-clarke]] layer.
 
-The resin is thick and sticky, clinging to scissors and grinders, making Starfighter popular for solvent extraction.
+The resin is thick and sticky, clinging to scissors and grinders, making Starfighter popular for [[cannabis-solvent-extraction]].
 
 ## Aroma and Flavor
 
@@ -87,58 +87,3 @@ Secondary terpenes include pinene, linalool, and humulene in trace amounts.
 - **CBD:** <1% (typically <0.1%)
 - **CBG:** <0.5%
 - **THCV:** trace
-
-The high limonene content is unusual for a Chemdawg descendant and drives the distinctive lemon character.
-
-## Effects
-
-Onset is moderately fast, with initial cerebral effects arriving within 5–10 minutes of inhalation.
-
-The high begins with an uplifting, euphoric head buzz accompanied by mild cerebral stimulation and enhanced sensory perception.
-
-As the high progresses, a deep body relaxation develops, spreading from the shoulders downward without being overwhelmingly sedative.
-
-Most users report a balanced experience suitable for late afternoon or evening use.
-
-Common recreational applications include creative work, social settings, and relaxation.
-
-The strain is less likely to induce anxiety than pure sativa Chemdawg phenotypes, likely due to the Lemon OG indica influence.
-
-## Cultivation
-
-Starfighter is considered moderately difficult to cultivate, best suited for growers with some experience.
-
-**Flowering time:** 8–9 weeks indoors; late September to mid-October outdoors.
-
-**Yield:** Moderate, approximately 350–450 g/m² indoors.
-
-The plants are medium height with good lateral branching and respond well to low-stress training (LST).
-
-They are moderately resistant to mold and pests but can be sensitive to nutrient overload, particularly nitrogen.
-
-The strain performs well in both soil and hydroponic setups, with organic soil reportedly enhancing the terpene profile.
-
-Cool nighttime temperatures (below 18°C) in the final two weeks of flowering can promote anthocyanin production and purple coloration.
-
-## Medical Applications
-
-Starfighter is commonly used for [[cannabis-chronic-pain-management]] management, including neuropathic pain and muscle spasms.
-
-The relaxing body effects aid with insomnia at larger doses.
-
-Some patients report anxiety and stress relief without the paranoia sometimes associated with high-THC sativas.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of high-THC cannabis.
-
-Higher doses may cause dizziness, mild paranoia, or couch-lock in sensitive individuals.
-
-The strong cerebral onset can be disorienting for novice users.
-## See Also
-
-- [[sfv-og]]
-- [[sour-diesel]]
-- [[gelato]]
-- [[jack-herer-cannabis-strain]]
-- [[tangie-cannabis]]

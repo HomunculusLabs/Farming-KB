@@ -9,18 +9,18 @@ sources: []
 
 ## What Is Vinegar
 
-Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic acid bacteria (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine. (see [[comparison-fermented-vegetables-vs-canning]]).
+Vinegar is a sour liquid produced by the oxidation of ethanol (alcohol) into acetic acid by acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] (Acetobacter species). The word comes from the French "vin aigre," meaning sour wine. Vinegar has been produced for thousands of years and is used in cooking, food preservation, cleaning, and medicine.
 
 The vinegar-making process involves two distinct stages of fermentation:
 
 1. **Alcoholic fermentation:** Yeast converts sugars into ethanol (this step produces wine, beer, cider, or mead)
 2. **Acetic fermentation:** Acetobacter bacteria convert ethanol into acetic acid (this step produces vinegar)
 
-For home vinegar making, you can start from an alcoholic beverage (wine, beer, cider) or from raw fruit juice and let both fermentations happen sequentially. (see [[food-fermentation-guide]]).
+For home vinegar making, you can start from an alcoholic beverage (wine, beer, cider) or from raw [[bionutrients-lab-fermented-fruit-juice-ffj]] and let both fermentations happen sequentially.
 
 ## Mother of Vinegar
 
-The "mother" is a gelatinous, cellulose-based biofilm that forms on the surface of fermenting vinegar. It consists of Acetobacter bacteria and their cellulose matrix. The mother is not required for vinegar production (acetobacter are naturally present in the environment) but significantly speeds up the process and protects the vinegar from contamination.
+The "mother" is a gelatinous, cellulose-based biofilm that forms on the surface of fermenting vinegar. It consists of Acetobacter bacteria and their cellulose matrix. The mother is not required for [[jadam-brown-rice-vinegar-production]] (acetobacter are naturally present in the environment) but significantly speeds up the process and protects the vinegar from contamination.
 
 ### Obtaining a Mother
 
@@ -73,9 +73,9 @@ For vinegars made directly from fruit juice, both fermentations happen in sequen
 
 ### Other Bases
 
-- Rice vinegar: from sake or rice wine
+- [[brown-rice-vinegar-brv]]: from sake or rice wine
 - Mead vinegar: from honey wine (mead)
-- Palm vinegar: traditional in Southeast Asia
+- Palm vinegar: traditional in [[psilocybe-southeast-asia-pacific]]
 - Coconut water vinegar: from fermented coconut water
 
 ## The Vinegar Making Process
@@ -142,9 +142,8 @@ Infusing finished vinegar with herbs, fruits, and spices creates versatile flavo
 - Tarragon vinegar: 3-4 sprigs fresh tarragon per cup of vinegar
 - Raspberry vinegar: 1/2 cup fresh raspberries per cup of vinegar
 - Garlic and herb vinegar: garlic cloves, rosemary, thyme, bay leaf
-- Hot pepper vinegar: whole chili peppers (jalapeno, habanero, Thai bird's eye)
+- Hot pepper vinegar: whole [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] (jalapeno, habanero, Thai bird's eye)
 - Lemon or citrus vinegar: lemon peel, zest, or juice
 - Rosemary vinegar: 2-3 sprigs fresh rosemary
 - Mint vinegar: fresh mint leaves
 - Vanilla vinegar: 1 split vanilla bean
-

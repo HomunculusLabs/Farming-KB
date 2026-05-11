@@ -1,10 +1,11 @@
 ---
-title: "Trajectory from fukuoka textdoc trajectory hothouse agriculture to total food synthesis to Total Food Synthesis"
+title: Fukuoka Textdoc Trajectory Hothouse Agriculture To Total Food Synthesis
 created: 2026-04-28
 tags: [fukuoka, natural-farming, food-synthesis, hothouse-agriculture, hydroponics, artificial-food, petroleum-agriculture, decline]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,10 +14,10 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka traces what he sees as the inevitable
-trajectory of modern agriculture: from open-field cultivation
+[[masanobu-fukuoka]] traces what he sees as the inevitable
+trajectory of [[fukuoka-critique-modern-agriculture]]: from open-field cultivation
 to hothouse horticulture, from hothouse to hydroponic gravel
-culture, and ultimately to the total chemical synthesis of
+culture, and ultimately to the total [[psilocin-chemical-synthesis]] of
 food. Each step further removes food production from nature
 and accelerates the destruction of the natural environment.
 
@@ -59,7 +60,7 @@ basis over the entire plant. Nutrients are taken in not only
 through the roots but also through leaf surfaces, making them
 more immediately available and resulting in a higher growth
 rate. The temperature is increased and the level of light
-exposure raised with artificial lighting. Carbon dioxide is
+exposure raised with artificial lighting. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is
 sprayed and oxygen pumped in.
 
 True, freshly colored melons with a beautifully networked skin
@@ -87,62 +88,3 @@ to launch a rocket into outer space.
 
 Would a vegetable factory in the center of a major city really
 provide people with fresh, inexpensive, and nutritious
-vegetables? A vegetable factory like this cannot be built and
-run without considerable outlays for capital and materials.
-However efficient and modern it may be, such a plant cannot
-possibly grow produce more cheaply than crops grown naturally
-with sunlight and soil.
-
-Nature produces without calling for supplies or remuneration,
-but human effort always demands payment in return. The more
-sophisticated the equipment, the higher the costs. When a
-highly efficient robot is developed, people applaud, but
-their joy is short-lived, for soon they are dissatisfied
-again.
-
-## The Sunlight Limit
-
-The amount of sunlight a field receives is fixed, and the
-yield of rice depends on the amount of sunlight that shines
-on that area. No degree of human tampering with the other
-conditions of [[jadam-rice-cultivation-methods]] can change the upper limit in
-the rice yield. What humanity believes to be high-yielding
-technology is just an attempt to approach the limits of
-natural yields; more accurately, it is just an effort to
-minimize harvest losses.
-
-Even worse, humanity must take full responsibility for
-destruction of the cyclic and material order of the natural
-world brought about by the use of technology. Since this
-disruption in the balance of nature is the basic cause of
-environmental pollution, humans have brought lengthy suffering
-down upon their own head.
-
-## Science as Repair, Not Creation
-
-Science can produce no good without evil. It is effective
-only at the price of the destruction of nature. This is why,
-after humanity has maimed and disfigured nature, science
-appears to give such striking results when all it is doing
-is repairing the most extreme damage.
-
-Nature is entirely self-contained. In its eternal cycles of
-change, never is there the slightest extravagance or waste.
-All the products of the human intellect, which has strayed far
-from the bosom of nature, and all human labors are doomed to
-end in vain.
-
-## The Vicious Cycle
-## See Also
-
-- [[fukuoka-textdoc-hothouse-to-food-synthesis-trajectory]]
-
-- [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
-- [[fukuoka-food-synthesis-trajectory]]
-
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-  for [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] calculations
-- [[fukuoka-textdoc-decline-quality-food]] for quality
-  deterioration
-- [[fukuoka-textdoc-genetic-engineering-critique-warning]] for
-  Fukuoka's warning about [[fukuoka-textdoc-genetic-engineering-critique-warning]]

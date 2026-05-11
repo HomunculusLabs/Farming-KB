@@ -9,7 +9,7 @@ sources: []
 
 # Garden Bed Designs
 
-Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive vegetable production.
+Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive [[coleman-french-historical-winter-vegetable-production]].
 
 ## Raised Beds
 
@@ -17,7 +17,7 @@ The most popular backyard garden bed type. A framed box filled with soil mix, ra
 
 ### Advantages
 - Improved drainage in heavy or compacted soils
-- Soil warms faster in spring, extending the growing season
+- Soil warms faster in spring, extending [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - Reduced bending and kneeling for the gardener
 - Clean separation between garden and lawn
 - Easy to add amendments and manage soil biology
@@ -48,7 +48,7 @@ Originating in Africa, keyhole gardens are circular raised beds with a central c
 - Compost in the central basket leaches nutrients outward into the surrounding soil
 - Moisture wicks from the compost basket to the bed
 - Kitchen scraps decompose in place, feeding the garden continuously
-- Excellent for [[water-management]] in arid regions
+- Excellent for [[water-management]] [[fukuoka-natural-farming-in-arid-regions]]
 
 ### Construction
 - Build circular stone, brick, or wood wall 3 feet tall
@@ -58,7 +58,7 @@ Originating in Africa, keyhole gardens are circular raised beds with a central c
 
 ## Wicking Beds
 
-Self-watering garden beds that draw moisture up from a reservoir below the soil via capillary action.
+Self-watering garden beds that draw moisture up from a reservoir below the soil via [[capillary-action-in-soils]].
 
 ### Design
 - Waterproof container with a water reservoir in the bottom (6-12 inches)
@@ -87,10 +87,10 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 
 ## Hugelkultur Beds
 
-Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture-history|regenerative]] growing.
+Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design]] and [[regenerative-agriculture-history]] growing.
 
 ### Design
-- Mound of rotting wood, branches, leaves, and organic matter
+- Mound of rotting wood, branches, leaves, [[hamilton-composting-and-organic-matter-management]]
 - Covered with inverted sod, compost, and topsoil
 - Can be freestanding mounds or built in trenches
 
@@ -117,7 +117,7 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 
 ## Straw Bale Gardens
 
-Growing vegetables directly in conditioned straw bales, no soil required.
+[[container-growing-vegetables-herbs]] directly in conditioned straw bales, no soil required.
 
 ### Conditioning Process (10-14 days)
 - Days 1-3: Water bales thoroughly, add high-nitrogen fertilizer (fish emulsion, blood meal)

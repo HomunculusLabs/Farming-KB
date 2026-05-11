@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-**Runtz** is an award-winning, highly sought-after hybrid cannabis strain created by crossing **Zkittlez** with **Gelato #33**. Bred by the **Cookies Fam** in Los Angeles, Runtz burst onto the scene in the late 2010s and rapidly became one of the most talked-about strains in the cannabis community. It is celebrated for its exceptionally sweet, candy-like flavor profile, striking multicolored buds, and potent, balanced effects.
+**Runtz** is an award-winning, highly sought-after [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing **Zkittlez** with **Gelato #33**. Bred by the **Cookies Fam** in Los Angeles, Runtz burst onto the scene in the late 2010s and rapidly became one of the most talked-about strains in the cannabis community. It is celebrated for its exceptionally sweet, candy-like flavor profile, striking multicolored buds, and potent, balanced effects.
 
 The strain's name references the iconic Runts candy, reflecting its unmistakable tropical fruit sweetness.
 
@@ -34,8 +34,8 @@ The strain's name references the iconic Runts candy, reflecting its unmistakable
 | **Type** | Balanced Hybrid (50/50 Indica-Sativa) |
 | **Cross** | Zkittlez × Gelato #33 |
 | **Breeders** | Cookies Fam (Los Angeles, California) |
-| **Lineage Group** | Cookies family line — descendant of Girl Scout Cookies |
-| **Genetic Background** | Purple Punch × Grape Ape × OG Kush (via Zkittlez); Thin Mint Cookies × Sunset Sherbet (via Gelato) |
+| **Lineage Group** | Cookies family line — descendant of [[girl-scout-cookies]] |
+| **Genetic Background** | [[purple-punch]] × Grape Ape × OG Kush (via Zkittlez); [[thin-mint-cookies]] × [[sunset-sherbet]] (via Gelato) |
 
 The genetic architecture combines two of the most decorated breeding lines in modern cannabis: the **Zkittlez** line (explosive fruit terpenes, purple coloration) and the **Gelato** line (creamy dessert flavors, potent effects).
 
@@ -78,7 +78,7 @@ Several sub-lineages exist: **White Runtz**, **Pink Runtz**, and **Black Runtz**
 - **Euphoria:** Strong cerebral uplift, mood elevation, giddy happiness
 - **Relaxation:** Full-body calm without couch-lock
 - **Creativity:** Enhanced creative thinking and sociability
-- **Appetite stimulation:** Significant munchies effect
+- **[[cannabis-for-cachexia-and-appetite-stimulation]]:** Significant munchies effect
 - **Pain relief:** Moderate analgesia for mild-to-moderate [[cannabis-chronic-pain-management]]
 
 ### Onset and Duration
@@ -88,43 +88,3 @@ Several sub-lineages exist: **White Runtz**, **Pink Runtz**, and **Black Runtz**
 Dry mouth, dry eyes, anxiety at high doses, dizziness, lethargy with heavy use.
 
 ## Medical Applications
-
-- **Stress and anxiety relief:** Balanced calm without sedation
-- **Depression:** Mood-elevating euphoria
-- **Chronic pain:** Moderate analgesia
-- **PTSD:** Reported anecdotally for symptom management
-- **Insomnia:** Higher doses may promote sleep
-- **Appetite loss:** Effective appetite stimulant
-
-## Cultivation
-
-| Parameter | Recommendation |
-|-----------|---------------|
-| **Indoor flower time** | 8–9 weeks |
-| **Outdoor harvest** | Early October (Northern Hemisphere) |
-| **Yield (indoor)** | 300–400 g/m² |
-| **Height** | Medium (80–130 cm indoor) |
-| **Difficulty** | Moderate — not beginner-friendly |
-| **Feeding** | Moderate-to-heavy feeder; benefits from cal-mag |
-
-Purple phenotype expression is enhanced by cooler night temperatures (15–18°C) during late flowering. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high humidity. Strong terpene production requires [[cannabis-odor-control-and-carbon-filters]] for discreet indoor grows.
-
-## Popular Phenotypes and Crosses
-
-- **White Runtz** — selected phenotype with extra frosty white trichome coverage
-- **Pink Runtz** — deeper pink-purple hues
-- **Black Runtz** — rare dark phenotype with intense purple-black coloration
-- **Runtz Muffin** — Runtz × Blueberry Muffin
-- **Krypto Runtz** — selected high-potency phenotype
-
-## Related Strains
-
-- [[gelato]] — parent strain, creamy dessert profile
-- [[purple-punch]] — ancestor via Zkittlez, purple coloration source
-
-## See Also
-
-- [[pink-runtz]]
-
-- [[grape-ape]]
-- [[purple-punch]]

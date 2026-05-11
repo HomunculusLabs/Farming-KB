@@ -14,7 +14,7 @@ in terrestrial ecosystems.
 
 Geomycology is the study of fungal roles in geological processes, bridging
 [[mycelial-networks]]. Fungi have been components of terrestrial
-microbial communities since the Ordovician period (480-460 million years
+[[cannabis-rhizosphere-microbial-communities]] since the Ordovician period (480-460 million years
 ago).
 
 ## Rock-Dwelling Fungi
@@ -32,7 +32,7 @@ granite, sandstone, basalt, andesite, and gneiss. Lichen symbioses with
 algae or cyanobacteria represent one of the most successful strategies for
 fungal survival in extreme sub-aerial environments and are extremely
 biogeochemically active. Oligotrophic rock-dwelling fungi scavenge nutrients
-from air, rainwater, organic residues on mineral surfaces, and waste products
+from air, rainwater, organic residues on [[fungal-community-profiling-rock-mineral-surfaces-gadd]], and waste products
 of other microorganisms.
 
 ## Mechanisms of Fungal Weathering
@@ -60,15 +60,15 @@ acidify their microenvironment through proton excretion, organic acid
 secretion, and carbonic acid formation from respiratory CO2. Complexolysis
 involves the excretion of metal-complexing metabolites including carboxylic
 acids (especially oxalic and citric acid), amino acids, siderophores, and
-phenolic compounds. When fungi excrete large amounts of a strong chelator
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. When fungi excrete large amounts of a strong chelator
 like oxalate, the solubilization mechanism shifts from proton-promoted to
 ligand-promoted dissolution.
 
 ## Fungal Biomineralization: Carbonates and Oxalates
 
-Fungi precipitate secondary minerals through both metabolism-independent
+Fungi precipitate [[gadd-mycogenic-mineral-precipitation-secondary-minerals]] through both metabolism-independent
 and metabolism-dependent processes. This has important implications for
-soil formation and carbon cycling.
+soil formation [[mycorrhizal-fungi-and-carbon-cycling]].
 
 ### Carbonate Precipitation
 
@@ -76,7 +76,7 @@ Microbial carbonate precipitation coupled with silicate weathering provides
 an important CO2 sink. Many near-surface limestones and calcic soil horizons
 are secondarily cemented with calcite (CaCO3) and whewellite ([[fungal-calcium-oxalate-crystals]]
 monohydrate). Fungal filaments mineralized with calcite have been documented
-in limestones and calcareous soils worldwide. Calcium oxalate can be degraded
+in limestones and calcareous soils worldwide. [[fungal-calcium-oxalate-and-carbonate-precipitation]] can be degraded
 to calcium carbonate, acting to cement pre-existing limestones. During
 fungal hyphal [[beauveria]] caledonica
 transformed cadmium, copper, lead, and zinc from toxic minerals into
@@ -88,34 +88,3 @@ Fungi efficiently immobilize metals through biosorption to biomass (cell
 walls, pigments, extracellular polysaccharides), transport and intracellular
 accumulation, and extracellular precipitation. Fungal biomass can
 bioaccumulate metals (Ni, Zn, Ag, Cu, Cd, Pb) even from dilute external
-concentrations. Metal binding occurs in both living and dead fungal biomass,
-making spent fungal biomass potentially useful for bioremediation. Metal
-immobilization reduces external free metal activity, shifting equilibria
-to release more metal into solution -- a dynamic interplay between
-mobilization and immobilization processes.
-
-## Ecological Significance
-
-Fungal mineral transformations have far-reaching ecological consequences.
-By solubilizing phosphate minerals, fungi make phosphorus available to
-plants. Through mycorrhizal associations, they are major agents in
-carbon, nitrogen, and [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. [[fungal-metal-transformations-biosorption]] affect
-soil toxicity and [[ph-and-nutrient-availability-garden-soils]]. Precipitation of secondary minerals
-contributes to soil aggregation and structure formation. Fungal weathering
-of basaltic outcrops in sub-polar areas appears to be chronologically
-the first weathering process, preceding cryogenic weathering. Alkaline
-rocks are generally more susceptible to fungal attack than acidic rocks.
-
-## See Also
-
-- [[fungal-biogeochemical-mineral-transformations]]
-
-- [[fungal-ecology-decomposition-cycles]]
-- [[mycelial-network-nutrient-transport-imaging-gadd]]
-
-## Source
-
-- Gadd, G.M., Burford, E.P., Fomina, M. & Melville, K. (2006). Mineral
-  transformations and fungal mineral transformations biogeochemical cycles gadd: a geomycological perspective.
-  In Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.), *Fungi in the
-  Environment*, pp. 77-111. Cambridge University Press.

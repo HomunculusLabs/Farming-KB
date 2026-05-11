@@ -1,5 +1,5 @@
 ---
-title: HPLC hplc analysis of psilocybin and psilocin and Psilocin in Mushrooms
+title: Hplc Analysis Of Psilocybin And Psilocin
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -16,7 +16,7 @@ mushroom tissue. Bigwood and Beug's 1982 study exemplifies the
 application of reversed-phase HPLC to the analysis of *Psilocybe
 cubensis*, establishing methodology that has influenced subsequent
 research on [[archaeology-of-psychedelic-mushroom-use]] alkaloid content. Their approach
-combined HPLC quantification with thin-layer chromatography (TLC)
+combined [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]] with thin-layer chromatography (TLC)
 for qualitative confirmation.
 
 ## Reversed-Phase HPLC Method
@@ -33,7 +33,7 @@ at different retention times, allowing separation and individual
 quantification.
 
 The specific conditions were not detailed in the 1982 paper (having
-been described in their companion paper on Pacific Northwest species),
+been described in their companion paper on [[psilocybin-north-america-pacific-northwest]] species),
 but the general approach involved extracting alkaloids from dried
 mushroom tissue, injecting the extract onto the HPLC column, and
 measuring the peak areas of psilocybin and psilocin as they eluted.
@@ -62,7 +62,7 @@ because psilocin levels in *P. cubensis* are often very low,
 particularly in early flushes where they may be absent entirely.
 The ability to detect psilocin at such low concentrations allows
 researchers to accurately characterize the progressive increase in
-psilocin levels across successive flushes.
+psilocin levels across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]].
 
 ## Data Processing
 
@@ -88,62 +88,3 @@ confirming that the HPLC peaks identified as psilocybin and psilocin
 are indeed those compounds.
 
 This dual-method approach (HPLC for quantification, TLC for
-confirmation) strengthens the reliability of the analytical results.
-While TLC is less precise and quantitative than HPLC, it provides
-independent evidence that the correct compounds are being measured.
-
-## Sample Preparation Protocol
-
-Sample preparation was critical to the accuracy of the analysis.
-Bigwood and Beug followed a rigorous protocol:
-
-1. **Immediate freeze-drying**: Mushrooms were freeze-dried
-   immediately after harvest to preserve alkaloid content and
-   prevent degradation. Psilocin is particularly prone to oxidation
-   and enzymatic degradation post-harvest.
-
-2. **Sealed storage**: Dried samples were sealed in plastic and
-   stored at -5°C until analysis. Cold, airtight storage minimizes
-   oxidative degradation of psilocin and potential conversion of
-   psilocin to blue oxidation products.
-
-3. **Voucher specimens**: Specimens were prepared for deposit in the
-   University of Washington Herbarium (WTU), providing a permanent
-   botanical reference that allows future researchers to verify the
-   species identification.
-
-## Strain Comparison Application
-
-The analytical methodology was applied to compare alkaloid levels
-across multiple contexts: within a single strain across flushes,
-between different strains grown under identical conditions, and in
-street samples of unknown provenance. The consistent methodology
-allowed meaningful comparisons across these different sample types.
-
-The street sample analysis revealed the widest variation—psilocybin
-levels varied by nearly an order of magnitude (0.7 to 6.2 mg/g)
-across five samples. This extreme variability in uncontrolled
-samples highlights the importance of analytical chemistry for
-understanding the actual potency of mushrooms in circulation,
-versus the highly variable anecdotal estimates common in
-recreational contexts.
-
-## Modern Analytical Advances
-
-Since the Bigwood and Beug study, analytical methods have advanced
-significantly. Modern techniques include LC-MS (liquid
-## See Also
-
-- [[hplc-analysis-psilocybin-psilocin]]
-
-- [[psilocybin]] · [[psilocin]]
-- [[psilocybe-cubensis]]
-- [[psilocybin-psilocin-variation-across-flushes]]
-- [[fungal-siderophore-detection-analytical-methods]]
-
-## Sources
-
-- Bigwood, J. & Beug, M.W. (1982). "Variation of Psilocybin and
-  Psilocin Levels with Repeated Flushes of Mature Sporocarps of
-  [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (Earle) Singer." *J. Ethnopharmacol.*, 5,
-  287–291.

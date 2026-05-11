@@ -88,27 +88,3 @@ The oleoresin (balsam) of Siberian fir contains a complex mixture of terpenoids 
 Siberian fir needle oil is produced on a commercial scale primarily in Russia, with annual production estimated at several hundred tonnes. The Altai Republic and Siberian regions are the main production areas.
 
 The oil is used in the fragrance industry as a base note in perfumes, soaps, and cosmetics. Its fresh, balsamic, coniferous aroma blends well with other woody and herbal essential oils.
-
-[[aact-compost-quality-standards-ingham]] for fir needle oil specify minimum bornyl acetate content and maximum camphor content. Adulteration with cheaper conifer oils is a known quality concern in the international trade.
-
-## Cultivation and Economic Importance
-
-Siberian fir is occasionally cultivated as an ornamental tree in cold-climate gardens and arboreta. Its narrow, symmetrical form and cold hardiness make it suitable for northern landscapes where few other evergreens thrive.
-
-The species is hardy to USDA Zone 2, making it one of the most cold-tolerant ornamental conifers available. However, it performs poorly in regions with hot, humid summers and is susceptible to late spring frosts in marginal climates.
-
-Timber from Siberian fir is light, soft, and relatively low-density, similar to other true firs. It is used primarily for pulpwood, light construction, and box-making, though it is considered inferior to spruce for most structural applications.
-
-The species is also planted for reforestation in degraded boreal forest areas, particularly where native mixed-species stands are being restored. Its shade tolerance makes it valuable for underplanting beneath established pine or larch canopies.
-
-## See Also
-
-- [[abies-grandis]]
-- [[abies-nordmanniana]]
-- [[picea-sitchensis]]
-- [[larix-decidua]]
-- [[juniperus-communis]]
-- [[pinus-nigra]]
-- [[pseudotsuga-menziesii]]
-- [[thuja-plicata]]
-- [[sequoia-sempervirens]]

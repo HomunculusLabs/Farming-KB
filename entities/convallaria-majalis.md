@@ -28,7 +28,7 @@ sources:
 ## Overview
 
 **Convallaria majalis** (lily of the valley) is a herbaceous perennial
-plant in the family Asparagaceae, native to temperate regions of the
+plant in the family Asparagaceae, native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the
 Northern Hemisphere. Valued for its intensely fragrant white flowers,
 it is widely cultivated as an ornamental [[hamilton-shade-garden-plants]].
 
@@ -81,56 +81,10 @@ Cardiac glycoside content is highest in the flowers and roots, with lower
 concentrations in leaves and berries. Dry flower material contains
 approximately 0.1–0.3% convallatoxin.
 
-Flavonoids (quercetin, kaempferol derivatives) and asparagine are also
+Flavonoids ([[quercetin]], [[kaempferol]] derivatives) and asparagine are also
 present in significant quantities.
 
 ## Pharmacology and Toxicity
 
 Convallatoxin inhibits Na⁺/K⁺-ATPase on cardiac myocyte membranes,
 increasing intracellular sodium and calcium concentrations. This enhances
-myocardial contractility (positive inotropic effect) and slows AV nodal
-conduction (negative chronotropic effect).
-
-**Historical medicinal use:** European folk medicine employed *C. majalis*
-extracts as a heart tonic, diuretic, and anti-epileptic. The plant was a
-precursor to modern cardiac glycoside drugs (digoxin), though digoxin is
-derived from *Digitalis lanata*.
-
-**Toxicity:** All parts are poisonous. Ingestion of berries — attractive
-to children due to their red color — is the most common poisoning route.
-Symptoms include nausea, vomiting, abdominal pain, cardiac arrhythmias
-(PVCs, heart block, ventricular fibrillation), hyperkalemia, and visual
-disturbances. Fatal dose: estimated at 5–10 berries for a child, 20–30
-for an adult. Treatment includes activated charcoal, cardiac monitoring,
-and digoxin-specific antibody fragments (Fab) in severe cases.
-
-## Ecological Role
-
-*Convallaria majalis* forms extensive clonal colonies via creeping rhizomes,
-often dominating the understory in suitable habitats. The dense mats
-suppress competing vegetation, creating near-monoculture patches.
-
-Flowers are pollinated by bees and other insects attracted to the strong
-fragrance. Red berries are dispersed by birds, which are relatively
-insensitive to the cardiac glycosides.
-
-In woodland ecosystems, the plant contributes to [[fukuoka-citrus-orchard-ground-cover-cultivation]] diversity
-and provides early-season nectar for pollinators. Deer generally avoid it
-due to toxicity.
-
-## Cultivation
-
-Widely cultivated as an ornamental ground cover for shaded gardens. Hardy
-to USDA zone 2. Propagation by division of rhizomes in autumn or early
-spring; seeds require cold stratification.
-
-Prefers partial to full shade, consistent moisture, and rich organic soil.
-Tolerates drought once established but performs poorly in waterlogged
-conditions. Spreads aggressively in ideal conditions and can become
-## See Also
-
-- [[digitalis-purpurea]]
-cardiac glycoside
-na k atpase
-ouabain
-convallatoxin

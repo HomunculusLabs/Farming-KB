@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Rivadavia, F. et al. (2003). "Drosera." Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 8.
-  - Gibson, T.C. (1991). "Morphometric variation in the Drosera rotundifolia complex." Canadian Journal of Botany, 69(1), 168-180.
+  - Gibson, T.C. (1991). "Morphometric variation in the [[drosera-rotundifolia]] complex." Canadian Journal of Botany, 69(1), 168-180.
   - USDA NRCS (2024). "Drosera linearis." Natural Resources Conservation Service PLANTS Database.
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
   - Juniper, B.E., Robins, R.J. & Joel, D.M. (1989). "The Carnivorous Plants." Academic Press.
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Drosera linearis, commonly known as the **slender-leaved sundew** or **linear sundew**, is a perennial carnivorous plant in the family Droseraceae. It is native to northern North America, occurring in Canada and the northern United States.
+Drosera linearis, commonly known as the **slender-leaved sundew** or **linear sundew**, is a perennial carnivorous plant in the family Droseraceae. It is native to northern [[guzman-psilocybin-mushrooms-north-america]], occurring in Canada and the northern United States.
 
 The species is recognized by its distinctive narrow, linear leaves that distinguish it from the broader-leaved D. rotundifolia. It produces glandular tentacles that secrete sticky mucilage to trap small insects.
 
@@ -55,7 +55,7 @@ The species reaches its southern range limit in the Great Lakes region and the m
 
 Habitat includes open, acidic wetlands such as sphagnum bogs, fen margins, sandy seepages, and the margins of boreal lakes and streams. It frequently grows on floating sphagnum mats at the edges of ponds and lakes.
 
-Soil pH in typical habitats ranges from 4.0 to 6.0, with low concentrations of available nitrogen and phosphorus. These conditions favor carnivory as a nutrient acquisition strategy.
+Soil pH in typical habitats ranges from 4.0 to 6.0, with low concentrations of [[plant-available-nitrogen-ammonium-nitrate]] and phosphorus. These conditions favor carnivory as a [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] strategy.
 
 Elevation ranges from near sea level to approximately 1,200 meters in montane populations. The species requires consistently moist to saturated substrates with high organic content.
 
@@ -81,41 +81,10 @@ D. linearis is grown by specialized carnivorous plant collectors but is less wid
 
 Plants should be grown in a 1:1 mix of sphagnum peat moss and silica sand, kept waterlogged with pure water. Full sun to partial shade is acceptable, with more intense light producing redder coloration.
 
-A cold dormancy period of 3–5 months is essential. Plants form tight hibernacula and can tolerate sustained freezing if the growing medium remains moist. Minimum winter temperatures of -10°C are tolerated.
+A cold dormancy period of 3–5 months is essential. Plants form tight hibernacula and can tolerate sustained freezing if the [[cervantes-green-algae-growing-medium]] remains moist. Minimum winter temperatures of -10°C are tolerated.
 
 Propagation from seed requires cold stratification for 4–6 weeks. Seeds are dust-like and should be sown on the surface of moist medium without burial. Germination typically occurs within 2–4 weeks after stratification.
 
 Leaf cuttings and root cuttings are effective vegetative [[vegetative-propagation-methods-mollison]]. Flower stalk cuttings also produce plantlets when laid on moist medium.
 
-Plants in cultivation typically live 5–10 years, though wild populations may persist for decades through continuous seedling recruitment. Division of mature clumps is the fastest vegetative propagation method.
-
-## Ecology
-
-Drosera linearis occupies an ecological niche intermediate between the amphibious D. intermedia and the strictly terrestrial D. rotundifolia. Its tolerance for saturated substrates allows it to colonize floating mats and emergent substrates unavailable to other Drosera species.
-
-The species serves as a food source for specialized herbivores, particularly the plume moth caterpillar (Hellinsia) that feeds on sundew leaves and flowers. Despite the adhesive traps, some insects have evolved strategies to feed on carnivorous plants.
-
-In northern peatland ecosystems, D. linearis contributes to the overall biodiversity and food web complexity. Its insect captures remove nitrogen from the animal compartment and redistribute it into the plant community.
-
-The species is an effective colonizer of disturbed wetland habitats, including newly exposed peat surfaces and abandoned beaver ponds. Seed dispersal is primarily by wind and water.
-
-Population densities can reach several hundred individuals per square meter in favorable sites. However, populations fluctuate significantly between years depending on water table levels.
-
-[[dighton-fungi-climate-change-feedback]] poses a long-term threat to boreal populations through altered precipitation patterns and increased frequency of drought events. Drying of peatland habitats could reduce suitable growing conditions across significant portions of the range.
-
-In northern peatland ecosystems, D. linearis contributes to the overall biodiversity and food web complexity. Its insect captures remove nitrogen from the animal compartment and redistribute it into the plant community.
-
-Competition with other carnivorous plants is generally low due to niche partitioning by substrate preference and leaf architecture. D. linearis occupies wetter microsites than D. rotundifolia but drier ones than Utricularia species.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[drosera-intermedia]]
-- [[drosera-anglica]]
-- [[drosera-spatulata]]
-- [[drosera-capensis]]
-- [[pinguicula-vulgaris]]
-- [[utricularia-subulata]]
-- [[aldrovanda-vesiculosa]]
-- [[drosera-filiformis]]
-- [[sarracenia-purpurea]]
+Plants in cultivation typically live 5–10 years, though wild populations may persist for decades through continuous seedling recruitment. Division of mature clumps is the fastest [[hamilton-vegetative-propagation]] method.

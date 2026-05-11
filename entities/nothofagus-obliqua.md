@@ -88,30 +88,3 @@ In New Zealand, it has naturalized in some areas and is considered a potential f
 [[cannabis-seed-germination-methods]] requires cold stratification at 2–5°C for 30–60 days, followed by sowing in well-drained nursery beds. Germination rates are typically 60–80% from fresh seed.
 
 In agroforestry systems, N. obliqua can serve as a component of silvopastoral systems in temperate highlands, providing shade for livestock and timber revenue.
-
-Growth rates in plantations range from 1.0–1.5 m/year in height during the first decade, with mean annual increment of 12–20 m³/ha/year under favorable conditions.
-
-## Related Species
-
-N. obliqua hybridizes naturally with N. nervosa (roble de Neuquén) where their ranges overlap in Argentina, producing intermediates sometimes classified as N. leonii.
-
-Other close relatives include N. dombeyi (evergreen coihue), N. pumilio (lenga), N. antarctica (ñire), and N. betuloides (guindo evergreen).
-
-The genus Nothofagus, once placed in Fagaceae, is now recognized in its own family Nothofagaceae based on molecular phylogenetics, and is part of the Antarctic flora lineage.
-
-## Conservation Status
-
-N. obliqua is assessed as Least Concern by the IUCN, though its natural forests have been significantly reduced by conversion to agriculture and plantation forestry.
-
-In Chile, an estimated 35–40% of original N. obliqua forests have been lost since European colonization. Remaining old-growth stands are concentrated in the Andes and coastal range.
-
-Logging of natural stands is regulated in Chile under the Native Forest Law ( Ley 20.283, 2008), which requires management plans and restricts clearcutting in old-growth forests.
-
-Ex situ conservation collections exist in arboreta worldwide, and provenance trials in New Zealand and Europe have identified fast-growing populations suitable for plantation development.
-
-## See Also
-
-- [[amanita-pantherina]] — ectomycorrhizal fungus associated with Nothofagus
-- [[cortinarius-cinnamomeus]] — mycorrhizal fungus found under Nothofagus
-- [[black-locust-entity]] — fast-growing temperate timber tree analog
-- [[quercus-robur]] — northern hemisphere ecological equivalent (oak)

@@ -12,7 +12,7 @@ sources:
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livelier Landscapes." Timber Press.
   - Hitchcock, A.S. (1951). "Manual of the Grasses of the dmt-containing-plants-united-states-halpern." USDA.
   - Clayton, W.D. et al. (2006). "World Grass Species." Royal Botanic Gardens, Kew.
-  - Greenlee, J. (1992). "The Encyclopedia of Ornamental Grasses." Rodale Press.
+  - Greenlee, J. (1992). "The Encyclopedia of [[ornamental-grasses-guide]]." Rodale Press.
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ The hybrid results from a cross between *Calamagrostis epigejos* and *Calamagros
 
 It is widely regarded as one of the most useful and dependable ornamental grasses for temperate gardens worldwide.
 
-The cultivar 'Karl Foerster' is the most popular and widely planted ornamental grass in commercial horticulture.
+The cultivar 'Karl Foerster' is the most popular and widely planted ornamental grass in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ The parent species *C. epigejos* ranges across much of Europe and temperate Asia
 
 The hybrid itself occurs naturally where the ranges of the parent species overlap in central and eastern Europe.
 
-It has been widely introduced in cultivation across [[psilocybin-north-america-pacific-northwest]], temperate South America, Australia, and New Zealand.
+It has been widely introduced in cultivation across [[psilocybin-north-america-pacific-northwest]], temperate [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 In natural settings, the parent species occupy meadows, forest clearings, riparian margins, and disturbed ground.
 
@@ -63,7 +63,7 @@ It prefers full sun but tolerates partial shade, particularly in hotter climates
 
 Plants accept a wide range of soil types including clay, loam, and sandy soils, provided drainage is adequate.
 
-Once established, it is notably drought-tolerant, requiring minimal supplemental irrigation in temperate regions.
+Once established, it is notably drought-tolerant, requiring minimal supplemental irrigation in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Maintenance is minimal — cutting back [[fungal-roles-in-old-growth-forests]] to 5 to 10 cm above ground in late winter before new shoots emerge.
 
@@ -85,31 +85,6 @@ Stems and dried panicles offer winter habitat and forage for birds and small mam
 
 The grass is increasingly used in green infrastructure projects including bioswales and rain gardens.
 
-Its tolerance of periodic waterlogging and occasional drought makes it versatile in sustainable landscape design.
+Its tolerance of periodic waterlogging and occasional drought makes it versatile in sustainable [[holzer-permaculture-landscape-design]].
 
 Landscape architects frequently specify it for public plantings, commercial landscapes, and residential gardens.
-
-## Notable Cultivars
-
-'Karl Foerster' is the standard cultivar, introduced by the German nurseryman Karl Foerster in the 1930s and later popularized globally.
-
-It was named Perennial Plant of the Year in 2001 by the Perennial Plant Association.
-
-'Overdam' is a variegated cultivar with cream-striped leaves, slightly shorter at 1.2 to 1.5 meters.
-
-'Avalanche' is another variegated selection with wider white margins on the leaves, introduced in the early 2000s.
-
-'Eldorado' features golden-yellow variegated foliage, growing to approximately 1.5 meters.
-
-'Waldenbuch' is a compact selection reaching roughly 1.0 meter, suitable for smaller garden spaces.
-
-## See Also
-
-- [[pennisetum-setaceum]]
-- [[miscanthus-sinensis]]
-- [[deschampsia-caespitosa]]
-- [[festuca-glauca]]
-- [[muhlenbergia-capillaris]]
-- [[panicum-virgatum]]
-- [[cortaderia-selloana]]
-- [[arundo-donax]]

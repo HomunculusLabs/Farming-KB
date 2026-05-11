@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis and the Endocannabinoid System
 
-The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine. (see [[cannabinoid-receptors-cb1-and-cb2]]).
+The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]. Understanding the ECS is essential to understanding why cannabis works as medicine.
 
 ## Components of the ECS
 
@@ -26,11 +26,11 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - CBD does not bind directly to CB2 but modulates its activity indirectly
 
 ### Endogenous Ligands
-- **Anandamide (AEA)**: The "bliss molecule" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
+- **Anandamide (AEA)**: The "[[anandamide-bliss-molecule]]" — binds CB1, involved in mood, pain, appetite. Named from Sanskrit "ananda" (joy)
 - **2-AG (2-Arachidonoylglycerol)**: The most abundant endocannabinoid — binds both CB1 and CB2, involved in immune function
 
 ### Metabolic Enzymes
-- **FAAH** (Fatty Acid Amide Hydrolase): Breaks down anandamide
+- **FAAH** (Fatty [[lysergic-acid-amide]] Hydrolase): Breaks down anandamide
 - **MAGL** (Monoacylglycerol Lipase): Breaks down 2-AG
 - These enzymes regulate how long endocannabinoids act in the body
 
@@ -40,14 +40,14 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - Partial agonist at CB1 and CB2
 - Directly activates receptors, producing psychoactive effects
 - Mimics anandamide but is more resistant to breakdown (lasts longer)
-- Produces: euphoria, altered perception, increased appetite, pain relief
+- Produces: euphoria, altered perception, increased appetite, [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
 
 ### CBD
 - Does NOT bind directly to CB1 or CB2
 - Acts as a negative allosteric modulator at CB1 (reduces THC's psychoactive effects)
 - Inhibits FAAH (increases anandamide levels naturally)
 - Activates TRPV1 (vanilloid) receptors — involved in pain and inflammation
-- Activates 5-HT1A serotonin receptors — involved in anxiety and mood
+- Activates 5-HT1A [[psilocybin-pharmacology-and-serotonin-receptors]] — involved in anxiety and mood
 - Anti-inflammatory, anti-anxiety, anti-seizure, neuroprotective
 
 ### Other Cannabinoids
@@ -58,10 +58,27 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 
 ## Clinical Significance
 
-The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids. (see [[cannabis-sativa-vs-indica-guide]]).
+The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids.
 
 ## Related
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics
 - [[cannabis-for-chronic-pain]] — for pain applications
 - [[psilocybin-psychological-mechanisms]] — for comparison with psychedelic mechanisms
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
+- [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]
+- [[blesching-cannabis-thyroid-cancer-endocannabinoid-endocrine-system]]
+- [[blesching-cannabis-dopamine-endocannabinoid-system]]
+- [[endocannabinoid-system-and-cannabis-pharmacology]]

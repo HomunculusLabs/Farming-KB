@@ -1,5 +1,5 @@
 ---
-title: Two-Phase two phase directed growth psilocybe cubensis basidiocarp development in brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Basidiocarp Development
+title: Two Phase Directed Growth Psilocybe Cubensis Basidiocarp Development
 source: Badham 1982 - Tropisms in the Mushroom Psilocybe cubensis
 type: concept
 tags: [mycology, tropism, psilocybe-cubensis, basidiocarp, anemotropism, geotropism, mushroom-development]
@@ -14,8 +14,8 @@ Edmond R. Badham's 1982 study in *Mycologia* demonstrated that the developing ba
 
 The two phases are:
 
-1. **Phase 1 (Primary stipe elongation):** Anemotropic growth oriented toward the direction of greatest evaporative demand (typically into the wind).
-2. **Phase 2 (Sporulation-stage reorientation):** A negative geotropic response that causes the pileus to turn upward, repositioning the lamellae for spore release.
+1. **Phase 1 (Primary [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]):** Anemotropic growth oriented toward the direction of greatest [[evaporative-demand-hypothesis-mushroom-growth]] (typically into the wind).
+2. **Phase 2 (Sporulation-stage reorientation):** A negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] that causes the pileus to turn upward, repositioning the lamellae for spore release.
 
 ## Phase 1: Anemotropic Stipe Elongation (Stages 1–2)
 
@@ -64,13 +64,13 @@ Badham suggested that cells of the stipe may be responding to the evaporative de
 
 ### The Transition Point
 
-At approximately Stage 2, when the pileus becomes nearly spherical and spore formation begins, a second tropism **masks** the effect of Phase 1 anemotropism. This second tropism is a **negative geotropic response** — the pileus turns upward from the direction of wind and opens with lamellae facing downward.
+At approximately Stage 2, when the pileus becomes nearly spherical [[mushroom-geotropism-and-spore-formation]] begins, a second tropism **masks** the effect of Phase 1 anemotropism. This second tropism is a **negative geotropic response** — the pileus turns upward from the direction of wind and opens with lamellae facing downward.
 
 ### Connection to Spore Production
 
 The Phase 2 geotropic response is closely tied to spore formation:
 
-- **Fertile basidiocarps** undergoing sporulation exhibited clear negative geotropism.
+- **Fertile basidiocarps** undergoing sporulation exhibited clear [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]].
 - **Sterile (sporeless) mutants** did **not** exhibit the Phase 2 geotropic response — they continued growing in the direction of the wind throughout development.
 - **Absence of light** (which prevents spore formation) also prevented the geotropic reorientation.
 
@@ -88,38 +88,3 @@ The two-phase growth strategy positions the pileus optimally for spore release:
 
 1. **Phase 1** directs stipe growth toward the greatest air movement, elevating the pileus into regions of better airflow for eventual spore dispersal.
 2. **Phase 2** reorients the pileus so that lamellae face **downward**, allowing gravity to assist in basidiospore release and fall.
-
-### Cespitose Spacing
-
-Badham also proposed that Phase 1 anemotropic growth serves an additional adaptive function for **cespitose** (clustered) fruiting bodies. By directing growth toward evaporative demand, individual stipes within a cluster grow **away from each other**, increasing spacing between fruiting bodies and reducing competition for airflow around the gills.
-
-### Veil Protection
-
-The **partial veil** (covering the unexpanded portion of the stipe and developing gills) may serve to protect the upper stipe from wind and light during Phase 1, preventing premature triggering of Phase 2 before spore formation is complete.
-
-## Comparison with Previous Models
-
-Prior to Badham's work, [[phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms]] studies had focused primarily on phototropism and geotropism as independent responses. The two-phase model integrates these with **anemotropism** (wind response) and provides a developmental timeline for how one tropism transitions to another:
-
-| Feature | Phase 1 | Phase 2 |
-|---------|---------|---------|
-| Primary stimulus | Evaporative demand (wind) | Gravity |
-| Developmental stage | Stages 1–2 | Stages 2–3 |
-| Spore dependence | Independent | Dependent |
-| Light dependence | Independent | Indirect (via sporulation) |
-| Sterile mutant response | Normal | Absent |
-| Functional role | Elevation, spacing | Pileus reorientation for dispersal |
-
-## Related Concepts
-
-- [[anemotropism-in-fungi]] — Wind-directed growth responses in fungi
-- [[evaporative-demand-hypothesis-mushroom-tropism]] — The proposed mechanism for Phase 1 curvature
-- [[mushroom-geotropism]] — Gravity-directed growth in basidiomycetes
-- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]] — Evidence linking geotropism to spore production
-- [[phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms]] — Cross-species comparison of tropism mechanisms
-- [[partial-veil-tropism-protection-before-spore-release]] — Veil as protective structure during Phase 1
-- [[cespitose-fruiting-body-spacing-and-tropism]] — Cluster spacing via anemotropic growth
-
-## Source
-
-Badham, E. R. (1982). Tropisms in the mushroom Psilocybe cubensis. *Mycologia*, 74(2), 275–279.

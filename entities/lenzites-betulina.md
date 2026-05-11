@@ -15,12 +15,12 @@ tags:
   - saprotroph
   - brown-rot
   - bracket-fungus
-  - mycology
+  - [[mycology]]
 sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polypore Taxonomy in the 21st Century." Mycotaxon 89: 77-88.
   - Kirk, P.M. et al. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores." Synopsis Fungorum 14: 170-171.
-  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." bloomfield-fungal-biology-and-hyphal-growth 121(9): 798-824.
+  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." [[bloomfield-fungal-biology-and-hyphal-growth]] 121(9): 798-824.
   - Index Fungorum. "Lenzites betulina (L.) Fr." http://www.indexfungorum.org
 ---
 
@@ -28,8 +28,8 @@ sources:
 
 ## Overview
 
-*Lenzites betulina*, commonly known as the gilled [[bloomfield-basidiomycete-biology-overview|basidiomycete]] mazegill, is a
-[[decomposition-cycles]] in forest ecosystems.
+*Lenzites betulina*, commonly known as the gilled [[bloomfield-basidiomycete-biology-overview]] mazegill, is a
+[[decomposition-cycles]] in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 ## Taxonomy and Morphology
 
@@ -87,10 +87,4 @@ on the same substrate.
 research interest for their antimicrobial, antioxidant, and potential
 antineoplastic properties.
 
-Studies have identified phenolic compounds, terpenoids, and sesquiterpenes from
-the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and mycelial extracts. Betulinic acid derivatives, lenzitesins,
-and various triterpenoids have been isolated and characterized.
-
-Antimicrobial assays have demonstrated moderate activity against *Staphylococcus
-aureus*, *Escherichia coli*, and *[[stereum-hirsutum]]* and *[[ganoderma-lucidum]]* or
-*[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*.
+Studies have identified [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], terpenoids, and sesquiterpenes from

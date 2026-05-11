@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Case, F.W. & Case, R.B. (1997). *Trilliums of psilocybin-north-america-pacific-northwest*. Timber Press.
-  - Freeman, C.C. (2009). "Trillium." In: Flora of North America North of Mexico, Vol. 26. Oxford University Press.
+  - Freeman, C.C. (2009). "Trillium." In: Flora [[berry-growing]] North of Mexico, Vol. 26. Oxford University Press.
   - Picking, D. & deRoos, J. (2007). "Status of Trillium grandiflorum in Nova Scotia." Canadian Field-Naturalist 121(3): 277–281.
   - Jolls, C.L. (2003). "Populational variation in Trillium (Liliaceae) under reduced herbivory." Canadian Journal of Botany 81(12): 1339–1351.
 ---
@@ -41,7 +41,7 @@ The fruit is a fleshy, greenish-white berry 1–1.5 cm across, ripening to purpl
 
 *T. grandiflorum* is part of the *Trillium* subgenus *Trillium*. It is most closely related to *T. erectum* (red trillium) and *T. cernuum* (nodding trillium), with which it occasionally hybridizes in areas of range overlap.
 
-Natural hybrids with *T. erectum*, known as *T.* × *helodes*, produce flowers intermediate in color between white and maroon. The genus *Trillium* contains approximately 50 species, with eastern North America as a global center of diversity.
+Natural hybrids with *T. erectum*, known as *T.* × *helodes*, produce flowers intermediate in color between white and maroon. The genus *Trillium* contains approximately 50 species, with eastern North America as a [[mexico-global-center-neurotropic-fungal-diversity-guzman-1998]] of diversity.
 
 Within North America, trilliums are divided into two subgenera based on flower orientation. Subgenus *Trillium* (pedicellate-flowered) includes *T. grandiflorum*, while subgenus *Phyllantherum* (sessile-flowered) includes species like *T. sessile*.
 
@@ -51,13 +51,13 @@ Within North America, trilliums are divided into two subgenera based on flower o
 
 Populations are largest in the Appalachian Plateau and the glaciated regions of southern Ontario and the northeastern [[dmt-containing-plants-united-states-halpern]]. Scattered disjunct populations occur in the Ozarks and along the Cumberland Plateau.
 
-The species grows in rich, moist, well-drained soils of mature deciduous or mixed forests. It is strongly associated with sugar maple (*Acer saccharum*), American beech (*Fagus grandifolia*), and basswood (*Tilia americana*) canopy trees.
+The species grows in rich, moist, well-drained soils of mature deciduous or mixed forests. It is strongly associated with sugar maple (*[[acer-saccharum]]*), American beech (*[[fagus-grandifolia]]*), and basswood (*[[tilia-americana]]*) canopy trees.
 
 Elevation ranges from near sea level to approximately 800 meters. It prefers north-facing slopes and coves with deep leaf litter and dappled spring sunlight.
 
 The species is absent from areas with shallow or sandy soils and from forests that have been recently logged or fragmented. It is also sensitive to soil compaction from recreational foot traffic.
 
-Spring ephemerals like *T. grandiflorum* complete their entire above-ground growth cycle before the forest canopy closes. This narrow phenological window requires efficient photosynthesis and nutrient mobilization from the rhizome.
+Spring ephemerals like *T. grandiflorum* complete their entire above-ground growth cycle before the forest canopy closes. This narrow phenological window requires efficient photosynthesis [[singh-phosphate-solubilizing-fungi-and-nutrient-mobilization]] from the rhizome.
 
 ## Ethnobotany and Uses
 
@@ -88,32 +88,3 @@ The species is listed as endangered in several states including New York and Del
 [[dighton-fungi-climate-change-feedback]] may threaten populations at the southern edge of the range. Warmer spring temperatures can accelerate leaf emergence before canopy closure, reducing the photosynthetic window.
 
 Urban expansion and invasive plant species such as garlic mustard (*Alliaria petiolata*) also threaten forest-floor communities. Garlic mustard alters soil chemistry and competes for the same limited spring light resources.
-
-## Cultivation
-
-*T. grandiflorum* requires partial to full shade and rich, humusy, well-drained soil with a slightly acidic pH (5.5–6.5). It is hardy in USDA zones 3–8.
-
-Planting depth should place the rhizome 2.5–5 cm below the soil surface. Fall planting is preferred to allow root establishment before spring growth. Plants should be spaced 20–30 cm apart.
-
-Propagation is primarily by seed, which requires a warm stratification period followed by cold stratification. Seed-to-flowering time is typically 5–7 years. Division of established clumps is possible but slow.
-
-Some specialty nurseries offer tissue-cultured propagules that flower in 3–4 years, significantly faster than seed-grown plants. However, tissue-cultured trilliums may have reduced vigor compared to rhizome-divided stock.
-
-The species has few serious pest or disease problems. Slugs may damage emerging foliage. Root rot can develop in poorly drained soils. Once established, plants can persist for decades with minimal care.
-
-[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with other spring ephemerals such as bloodroot, Virginia bluebells, and Dutchman's breeches creates a naturalistic woodland display. *T. grandiflorum* pairs well with ferns that emerge later in the season.
-
-In the landscape, large drifts of white trillium under deciduous trees provide one of the most iconic displays of the temperate forest spring. The species is widely recommended for native plant gardens and ecological restoration projects.
-
-## See Also
-
-- [[podophyllum-peltatum]]
-- [[sanguinaria-canadensis]]
-- [[convallaria-majalis]]
-- [[polygonatum-biflorum]]
-- gaultheria-procumbens
-- [[asarum-canadense]]
-- [[aralia-racemosa]]
-- [[allium-tricoccum]]
-- [[hydrastis-canadensis]]
-- actaea-racemosa

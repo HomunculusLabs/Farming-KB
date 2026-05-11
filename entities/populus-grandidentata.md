@@ -10,10 +10,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - J. S. Maini (1960). "Taxonomy and distribution of Populus grandidentata." Canadian Journal of Botany 38: 769–785.
+  - J. S. Maini (1960). "guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution of Populus grandidentata." Canadian Journal of Botany 38: 769–785.
   - B. V. Barnes & W. H. Wagner (2004). "Michigan Trees." University of Michigan Press.
   - USDA Forest Service (2024). "Silvics of psilocybin-north-america-pacific-northwest: Populus grandidentata." fs.usda.gov.
-  - G. W. Argus (2010). "Salicaceae." In Flora of North America, Vol. 7. Oxford University Press.
+  - G. W. Argus (2010). "Salicaceae." In Flora [[berry-growing]], Vol. 7. Oxford University Press.
   - R. D. Guldin (1983). "Bigtooth aspen." In R. M. Burns, tech. comp., "Silvicultural Systems for the Major Forest Types of the United States." USDA Agric. Handb. 445.
 ---
 
@@ -51,7 +51,7 @@ Seed viability is extremely short-lived, typically lasting only 2–4 weeks afte
 
 ## Distribution and Habitat
 
-Populus grandidentata ranges from Nova Scotia and New Brunswick west to southeastern Manitoba and Minnesota, and south through the Great Lakes region to Iowa, Missouri, and the mountains of North Carolina and Tennessee. The species is most abundant in the Great Lakes states and southern Ontario.
+Populus grandidentata ranges from Nova Scotia and New Brunswick west to southeastern Manitoba and Minnesota, and south through the Great Lakes region to Iowa, Missouri, and the mountains of [[north-carolina-mycodiversity]] and Tennessee. The species is most abundant in the Great Lakes states and southern Ontario.
 
 The species typically occupies drier, warmer, and more upland sites than quaking aspen. It is common on sandy or gravelly soils, well-drained loams, and burned or logged sites. Optimal soil pH ranges from 5.5 to 7.5, reflecting its broader tolerance of less acidic conditions than P. tremuloides.
 
@@ -69,7 +69,7 @@ Root suckering is stimulated by disturbance, particularly fire, which kills abov
 
 The root system of bigtooth aspen is shallow and widespread, with lateral roots extending 10–20 meters from the parent tree. These roots form interconnected networks within clones, allowing [[mycelial-network-resource-sharing-plants]] between ramets. Following disturbance, dormant buds on lateral roots are activated by exposure to light and increased soil temperature, initiating the suckering response.
 
-The species supports a diverse fauna. Ruffed grouse feed heavily on bigtooth aspen buds during winter, and the buds are a primary food source determining grouse population dynamics in the Great Lakes region. Beaver prefer aspen for dam construction and winter food caches.
+The species supports a diverse fauna. Ruffed grouse feed heavily on bigtooth aspen buds during winter, and the buds are a primary food source determining grouse [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] in the Great Lakes region. Beaver prefer aspen for [[mollison-designers-dam-construction-and-water-storage]] winter food caches.
 
 White-tailed deer browse young shoots and sprouts, particularly in the first years after disturbance when sucker growth is most accessible. Porcupines feed on the bark of mature trees during winter, occasionally girdling and killing individual stems. This bark feeding creates additional cavity opportunities for cavity-nesting wildlife.
 
@@ -77,7 +77,7 @@ Cavity-nesting birds including woodpeckers, nuthatches, and chickadees depend on
 
 The leaves support a rich arthropod community, including caterpillars of the forest tent caterpillar (Malacosoma disstria), which periodically defoliates aspen stands during outbreak years. These outbreaks can reduce growth but rarely cause stand-level mortality in bigtooth aspen.
 
-Other significant herbivores include the poplar borer (Saperda calcarata), whose larvae tunnel in the trunk, and the large aspen tortrix (Choristoneura conflictana), which rolls and feeds on leaves. Despite this herbivore pressure, bigtooth aspen's rapid growth rate generally allows it to recover from defoliation within 1–2 growing seasons.
+Other significant herbivores include the poplar borer (Saperda calcarata), whose larvae tunnel in the trunk, and the large aspen tortrix (Choristoneura conflictana), which rolls and feeds on leaves. Despite this herbivore pressure, bigtooth aspen's rapid growth rate generally allows it to recover from defoliation within 1–2 [[jeavons-climate-adaptation-growing-seasons]].
 
 ## Cultivation and Uses
 
@@ -88,34 +88,3 @@ Timber value is limited due to the species' small size, tendency to develop hear
 Aspen wood has a low density (approximately 380 kg/m³ at 12% moisture content) and an even, fine texture. These properties make it suitable for oriented strand board (OSB) production, where aspen has become a preferred feedstock. The wood is also used for animal bedding and as a [[grass-seed-substrate-for-mushroom-cultivation]] cultivation.
 
 Silvicultural management typically employs clearcutting at 40–50 year rotations, relying on natural root suckering for stand regeneration. Pre-commercial thinning of dense suckering stands improves growth rates and reduces self-thinning mortality. The species responds well to fertilization on nutrient-poor sites.
-
-In landscaping, P. grandidentata is occasionally used in large-scale reclamation projects and native plantings, though it is less commonly planted than quaking aspen. Its larger, more coarsely textured leaves and slightly more upright form distinguish it from its more widely cultivated relative.
-
-The species is particularly valued in ecological restoration for its ability to rapidly stabilize disturbed soils and provide early-successional wildlife habitat. Its root system is extensive and helps prevent erosion on slopes, road cuts, and mined lands. Fall foliage color is a bright golden-yellow, providing seasonal ornamental interest.
-
-## Conservation
-
-Populus grandidentata is secure across its range and not considered threatened. The species has actually expanded its distribution in some areas due to increased forest disturbance from logging and fire suppression-release events that create suitable regeneration conditions.
-
-However, long-term declines in aspen coverage have been documented across portions of the Great Lakes region, where fire suppression and reduced disturbance frequency have allowed succession to advance past the aspen seral stage. In areas where fire has been excluded for over a century, aspen clones are senescing without replacement.
-
-This phenomenon, termed "aspen decline" or "aspen loss," is particularly pronounced in the western Great Lakes and portions of the northeastern United States. Research suggests that successful aspen regeneration requires canopy-opening disturbance at intervals of 40–60 years to maintain viable clone populations.
-
-[[dighton-fungi-climate-change-feedback]] is projected to shift the species' range northward over the coming decades. Increased drought stress at the southern range margin may reduce growth rates and increase susceptibility to disease, while warming temperatures may facilitate expansion into boreal regions currently dominated by coniferous species.
-
-The species' reliance on root suckering for regeneration makes it vulnerable to extended drought periods that deplete root carbohydrate reserves. In the western Great Lakes region, aspen decline has been linked to consecutive years of below-average precipitation combined with above-average temperatures.
-
-Increased frequency of extreme weather events, including ice storms and late spring frosts, poses additional risks to aspen stands across the species' range. These events can cause widespread branch breakage and crown damage, creating entry points for decay fungi that accelerate the heartrot process already prevalent in mature aspen.
-
-## See Also
-
-- [[populus-tremuloides]]
-- [[populus-deltoides]]
-- [[populus-nigra]]
-- [[populus-balsamifera]]
-- [[salix-alba]]
-- [[betula-pendula]]
-- [[betula-nigra]]
-- [[acer-saccharum]]
-- [[pinus-strobus]]
-- [[picea-abies]]

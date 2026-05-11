@@ -70,48 +70,20 @@ Controlled burning creates a mosaic of age classes that maximizes both structura
 
 Heather flowers contain flavonoids (quercetin, myricetin, kaempferol derivatives), tannins, and phenolic acids.
 
-The leaves produce arbutin and ursolic acid, contributing to mild diuretic and anti-inflammatory activity.
+The leaves produce arbutin and [[ursolic-acid]], contributing to mild diuretic and anti-inflammatory activity.
 
-Traditional herbal preparations use flowering shoots in infusions for urinary complaints, rheumatism, and gout.
+Traditional [[honey-based-herbal-preparations]] use flowering shoots in infusions for urinary complaints, rheumatism, and gout.
 
 Heather honey, produced from the nectar of C. vulgaris, is distinguished by its amber color, thixotropic gel-like texture, and high antioxidant content.
 
-The chemical composition includes characteristic markers such as abscisic acid and kaempferol glucosides unique to Calluna nectar.
+The chemical composition includes characteristic markers such as [[abscisic-acid-plant-stress-hormone]] and kaempferol glucosides unique to Calluna nectar.
 
 ## Ecology and Applications
 
-C. vulgaris is a keystone species of heathland ecosystems, supporting over 40 species of invertebrates that are heather specialists.
+C. vulgaris is a keystone species of [[ericoid-mycorrhiza-heathland-ecosystems]], supporting over 40 species of invertebrates that are heather specialists.
 
 The heather beetle (Lochmaea suturalis) is the primary herbivore, with outbreaks causing extensive defoliation cycles.
 
 Heather provides nesting cover and food for red grouse (Lagopus lagopus scotica), whose diet is approximately 90% heather shoots in winter.
 
-In permaculture and ecological restoration, heather is planted for [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native wildflower meadow mixes.
-
-The dried stems have been used historically for thatching roofs, stuffing mattresses, and making besom brooms.
-
-Heather yields a range of natural dyes: yellow from the flowers, green from the whole plant with alum mordant, and orange from the flowering tops.
-
-Modern horticultural cultivars number over 800 varieties, selected for flower color, foliage variation, and growth habit.
-
-## Cultivation
-
-Propagation from seed requires light for germination and a cold period; seeds are sown on the surface of acidic peat-based compost.
-
-Semi-ripe cuttings taken in late summer under mist provide reliable vegetative propagation for named cultivars.
-
-The species requires acidic soil (pH 4.0–5.5) and excellent drainage; it is intolerant of alkaline conditions and waterlogging.
-
-Sun exposure should be full; partial shade produces leggy growth and reduced flowering.
-
-Established plants are highly drought-tolerant once their deep root systems develop, making them suitable for xeriscaping on appropriate soils.
-
-Pruning immediately after flowering maintains compact form and encourages vigorous new growth from the base.
-
-## See Also
-
-- arctostaphylos-uva-ursi
-- [[myrica-gale]]
-- [[quercus-robur]]
-- [[urtica-dioica]]
-- [[plantago-major]]
+In permaculture and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], heather is planted for [[permplant-willows-salix-erosion-control-fodder]] on degraded acidic soils and as a component of native [[hamilton-wildflower-meadow]] mixes.

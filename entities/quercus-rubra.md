@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Quercus rubra** L., commonly known as northern red oak, is a large deciduous tree native to eastern and central North America. It is one of the most important and widely distributed oaks on the continent, valued for both timber production and ornamental landscaping.
+**Quercus rubra** L., commonly known as northern red oak, is a large deciduous tree native to eastern and central [[guzman-psilocybin-mushrooms-north-america]]. It is one of the most important and widely distributed oaks on the continent, valued for both [[honey-locust-pod-fodder-timber-production]] and ornamental landscaping.
 
 Northern red oak typically reaches heights of 20–30 meters, with exceptional specimens exceeding 40 meters in optimal conditions. The species is recognized by its distinctive dark, heavily furrowed bark and brilliant red autumn foliage.
 
@@ -38,7 +38,7 @@ Leaves are alternate, simple, 10–25 cm long and 10–15 cm wide, with 7–11 p
 
 Acorns are 1.5–2.5 cm long, broadly ovoid, and enclosed approximately one-quarter to one-third by a shallow, saucer-shaped cup. The cup scales are reddish-brown and appressed.
 
-The cap of the acorn is relatively thin and shallow compared to white oak species. Acorns require two growing seasons to mature, a trait shared with other members of section Lobatae.
+The cap of the acorn is relatively thin and shallow compared to white oak species. Acorns require two [[jeavons-climate-adaptation-growing-seasons]] to mature, a trait shared with other members of section Lobatae.
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ Northern red oak is a fire-adapted species. Moderate-intensity fires promote reg
 
 ## Timber and Uses
 
-Red oak is one of the most commercially valuable hardwood species in North America. Annual production of red oak lumber exceeds that of any other single hardwood species in the United States.
+Red oak is one of the most commercially valuable hardwood species in North America. Annual production of red oak lumber exceeds that of any other single hardwood species in the [[dmt-containing-plants-united-states-halpern]].
 
 The heartwood is light reddish-brown with a coarse, straight grain and prominent rays. It ranks relatively high in hardness and wear resistance, making it suitable for flooring, furniture, cabinetry, and millwork.
 
@@ -78,7 +78,7 @@ Other uses include railroad ties, mine timbers, pallets, and pulpwood. The speci
 
 The bark has historical use in tanning leather due to its tannin content. Indigenous peoples used various parts of the tree for food, medicine, and material culture.
 
-Red oak sawdust and chips are used as smoking wood for barbecue and meat curing, imparting a mild, slightly sweet flavor. The wood is also used in biomass energy production due to its high calorific value.
+Red oak sawdust and chips are used as smoking wood for barbecue and meat curing, imparting a mild, slightly sweet flavor. The wood is also used in [[passive-solar-and-biomass-energy]] production due to its high calorific value.
 
 ## Cultivation
 
@@ -87,30 +87,3 @@ Northern red oak is widely planted as a [[mollison-designers-legume-shade-tree-p
 Transplant success is highest when trees are young, as mature red oaks develop a deep taproot that makes relocation difficult. Container-grown or balled-and-burlapped specimens under 5 cm caliper establish most readily.
 
 Optimal growth requires full sun to partial shade and consistent moisture during establishment. The species is moderately drought-tolerant once established but performs best with 75–125 cm of annual precipitation.
-
-Propagation is primarily from seed. Acorns should be stratified at 1–4°C for 30–90 days before spring sowing. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is common in reforestation, with seedlings typically reaching 30–60 cm in the first growing season.
-
-Growth rates in plantations average 30–60 cm per year in height during the first 20 years. Mean annual increment peaks between ages 30 and 50, with mature trees capable of producing 5–10 m³ per hectare per year on quality sites.
-
-## Related Species
-
-Quercus rubra is part of section Lobatae, which includes approximately 100–150 species of red oaks distributed across North America, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and Eurasia. The section is characterized by leaf lobes with bristle tips and acorns that mature in two years.
-
-The closest relatives of northern red oak include Quercus velutina (black oak), Quercus coccinea (scarlet oak), and Quercus palustris (pin oak). These species frequently co-occur and can hybridize where their ranges overlap.
-
-Northern red oak is frequently confused with scarlet oak and black oak in the field. Key distinguishing features include bark color and texture, leaf sinus depth, and acorn cup morphology.
-
-Compared to white oak (Q. alba), red oak has longer leaf lobes with bristle tips, darker and more furrowed bark, and acorns with hairy inner shells. White oak acorns mature in one season versus two for red oak.
-
-## See Also
-
-- [[quercus-montana]]
-
-- [[quercus-robur]]
-- [[fagus-grandifolia]]
-- [[pinus-sylvestris]]
-- [[juglans-nigra]]
-- [[castanea-sativa]]
-- [[populus-tremuloides]]
-- [[larix-decidua]]
-- [[tsuga-heterophylla]]

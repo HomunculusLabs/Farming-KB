@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Bats are among the most important yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essentia [[leatherjacket-pest-control]] ol services valued at billions of dollars annually in agricultural savings [[palmer-edible-mushrooms-north-america]] ca is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrom [[mollison-designers-wind-energy-and-windmills-for-water-supply]] rgy development, and persecution. Installing bat hous [[gaias-garden-catching-storing-and-conserving-water]] ing bat habit [[plutarch-and-cicero-on-the-eleusinian-mysteries]] the homestead supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation]] for complement [[wildlife-habitat-creation]] itat practices.
+Bats are among the most important yet misunderstood animals on Earth. As the primary predators of night-flying insects, bats provide essential pest control services valued at billions of dollars annually in agricultural savings. [[guzman-psilocybin-mushrooms-north-america]] is home to approximately 45 bat species, many of which are declining due to habitat loss, white-nose syndrome, wind energy development, and persecution. Installing bat houses and conserving bat habitat on the homestead supports these valuable animals while reducing pest insect populations. See also [[bird-habitat-creation]] and [[pollinator-conservation]] for complementary [[hemenway-backyard-wildlife-habitat]] practices.
 
 ## North American Bat Species
 
@@ -65,7 +65,7 @@ Bat houses must meet specific criteria to attract and retain bats:
 - **Chamber dimensions**: At least 14 inches wide, 24 inches tall, and 3/4 inch deep (single chamber) or multiple chambers
 - **Landing area**: Extend the landing/roosting surface 3-6 inches below the bottom of the house
 - **Rough interior surfaces**: Score or groove interior wood, or cover with fiberglass window screening (1/8 inch or 1/4 inch mesh) for bats to cling to
-- **Ventilation**: Vent slots near the top of the house for air circulation (critical in hot climates)
+- **Ventilation**: Vent slots near the top of the house for [[stamets-growing-room-air-circulation-co2-management]] (critical in hot climates)
 - **Paint/stain**: Dark color (black or dark brown) in cool climates; medium color in moderate climates; light color in hot climates; use exterior-grade, non-toxic paint or stain on exterior only
 - **Construction materials**: Untreated plywood (1/2 inch minimum) or cedar; avoid pressure-treated wood; exterior screws and caulk all seams to prevent drafts
 
@@ -110,7 +110,7 @@ While bats eat mosquitoes, their impact on mosquito populations is often oversta
 - Mosquitoes make up a relatively small percentage of bat diet (typically 1-3%)
 - Bats prefer larger, more energy-rich insects (moths, beetles, flies)
 - However, bats still consume millions of mosquitoes nightly across a landscape
-- The primary benefit of bats is broader agricultural and forest pest insect control
+- The primary benefit of bats is broader agricultural and forest pest [[cervantes-mealybugs-scale-insect-control]]
 
 ### Target Pest Species
 Bats are particularly effective at controlling:
@@ -123,7 +123,7 @@ Bats are particularly effective at controlling:
 ## White-Nose Syndrome
 
 ### The Disease
-White-nose syndrome (WNS) is a devastating fungal disease of hibernating bats:
+White-nose syndrome (WNS) is a devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of hibernating bats:
 
 - Caused by the fungus Pseudogymnoascus destructans (Pd)
 - Identified in New York in 2006; has spread to over 40 US states and 7 Canadian provinces
@@ -143,7 +143,7 @@ Not all bat species are equally affected:
 - **Most susceptible**: Little brown bat, northern long-eared bat, tricolored bat, Indiana bat (mortality 90-100%)
 - **Moderately susceptible**: Big brown bat, eastern small-footed myotis (mortality 30-70%)
 - **Less susceptible**: Mexican free-tailed bat, silver-haired bat, eastern red bat (migrate rather than hibernate; lower exposure)
-- **Resistant**: Some European bat species coexist with Pd; research into resistance mechanisms ongoing
+- **Resistant**: Some European bat species coexist with Pd; research into [[fungal-metal-ion-resistance-mechanisms]] ongoing
 
 ### What You Can Do
 - Install bat houses to provide alternative summer roosting habitat

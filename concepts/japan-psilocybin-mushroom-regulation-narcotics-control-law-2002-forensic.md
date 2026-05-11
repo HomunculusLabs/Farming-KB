@@ -5,7 +5,7 @@
 On June 6, 2002, Japan enacted regulations under the Narcotics and Psychotropic
 Control Law prohibiting fungi containing [[hplc-analysis-of-psilocybin-and-psilocin]]. This
 legislative action was driven by increasing recreational use among young
-people, the relatively low cost and perceived safety of magic mushrooms compared
+people, the relatively low cost and perceived safety of [[1960s-counterculture-and-magic-mushrooms]] compared
 to other drugs, and the difficulty of identifying psilocybin-containing fungi
 using conventional morphological and microscopic methods alone. The regulation
 created an urgent need for reliable chromatographic identification standards,
@@ -24,7 +24,7 @@ to this trend:
 recreational substances
 - **Lower guilt perception**: Users reported less awareness of guilt or
 social stigma associated with mushroom use compared to other drugs
-- **Legal gray area**: Prior to 2002, psilocybin mushrooms were not
+- **Legal gray area**: Prior to 2002, [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] were not
 specifically regulated under Japanese narcotics law
 - **Availability**: Mushrooms were sold openly in shops, at festivals,
 and through mail order, sometimes marketed as "herbal products" or
@@ -34,7 +34,7 @@ and through mail order, sometimes marketed as "herbal products" or
 
 Japanese health authorities and law enforcement became concerned about:
 
-1. The difficulty of dose [[jadam-pest-control-with-natural-pesticides-jhs]] mushroom products, leading
+1. The difficulty of dose [[jadam-pest-control-with-natural-pesticides-jhs]] [[cotter-mushroom-products-and-value-added-applications]], leading
 to unpredictable effects
 2. Potential for psychological harm from unguided use in inappropriate
 settings
@@ -67,7 +67,7 @@ reagent or UV visualization, but limited in specificity
 - **Gas chromatography (GC)**: Higher specificity but requires derivatization
 of the polar psilocybin molecule
 - **High-performance liquid chromatography (HPLC)**: The most reliable
-method for direct analysis of psilocybin and psilocin in mushroom tissue
+method for direct analysis of [[psilocybin-and-psilocin-chemical-synthesis]] in [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
 
 ### The Standard Compound Requirement
 
@@ -87,63 +87,4 @@ making gram-scale production impractical
 ## Impact on Synthetic Chemistry Research
 
 The 2002 regulation created direct institutional demand for reliable synthetic
-routes to psilocin and psilocybin. This regulatory pressure contributed to the
-funding and motivation behind Shirota, Hakamata, and Goda's 2003 paper, which
-was published by the National Institute of Health Sciences in Tokyo — the very
-agency responsible for regulatory analytical standards in Japan.
-
-The paper explicitly frames its contribution in regulatory terms: "The
-identification of the 'magic mushroom' using morphologic and microscopic
-analyses is quite difficult without experts, so that chromatographic methods
-including TLC, GC, and HPLC are usually employed. For these chromatographic
-analyses, [[shirota-forensic-standard-compounds-magic-mushroom-identification]] are always needed."
-
-## The Regulatory Framework
-
-The Narcotics and Psychotropic Control Law of Japan classifies controlled
-substances into several schedules or categories. The 2002 amendment placed
-psilocybin and psilocin — and fungi containing them — under the narcotics
-provisions of the law, making their possession, cultivation, sale, and
-distribution criminal offenses.
-
-The regulation covers:
-
-- **All fungal species** known to contain psilocybin or psilocin
-- **The chemical compounds** psilocybin (4-phosphoryloxy-N,N-dimethyl-
-tryptamine) and psilocin (4-hydroxy-N,N-dimethyltryptamine) themselves
-- **Products containing** these compounds, including dried mushrooms,
-fresh mushrooms, mushroom extracts, and preparations
-
-## Broader International Context
-
-Japan's 2002 regulation was part of a broader international trend toward
-scheduling psilocybin mushrooms. The Netherlands, which had long tolerated
-the sale of magic mushrooms, banned them in 2007. The United Kingdom had
-classified psilocybin as a Class A drug since the 1971 Misuse of Drugs Act,
-though fresh mushrooms were not explicitly covered until the Drugs Act of 2005.
-
-The United Nations Convention on Psychotropic Substances of 1971 had
-scheduled psilocybin and psilocin but did not explicitly address the
-unprocessed fungal material. This regulatory gap led to varying national
-approaches, with some countries regulating the compounds but not the
-mushrooms themselves until specific legislation was enacted.
-
-## Scientific Research Impact
-
-The scheduling of psilocybin mushrooms created significant barriers to
-scientific research on their [[metzner-ayahuasca-therapeutic-potential]]. In Japan, research on
-psilocybin and psilocin became restricted to government-approved laboratories
-working under controlled conditions, primarily for forensic identification
-purposes rather than clinical investigation. This pattern repeated globally,
-contributing to the decades-long hiatus in psychedelic research that only
-began to reverse in the 2010s.
-## See Also
-
-- [[japan-narcotics-control-law-psilocybin-fungi-2002]]
-- [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
-- psilocybin psilocin legal status worldwide
-
-## Sources
-
-- Shirota, O., Hakamata, W. & Goda, Y. "Concise Large-Scale Synthesis of
-Psilocin and Psilocybin." Journal of Natural Products, 66, 885-887, 2003
+routes to [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. This regulatory pressure contributed to the

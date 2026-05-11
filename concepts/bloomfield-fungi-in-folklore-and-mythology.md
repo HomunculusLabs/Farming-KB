@@ -31,7 +31,7 @@ discusses this and related mythology in Fungi, Folklore, Fiction, & Fact (1982).
 The biology reinforces the folklore: stinkhorns emerge from egg-shaped structures
 (2-3 centimeters in diameter) buried underground. Inside, a central receptacle
 runs pole-to-pole through the center, surrounded by a green-black cushion of
-spores called the gleba. When the receptacle absorbs [[amanita-muscaria-entity]]) -- "the choice of fairy tale illustrators" with
+spores called the gleba. When the receptacle absorbs [[amanita-muscaria]]) -- "the choice of fairy tale illustrators" with
 its bright red cap splattered with white scales -- is "associated with a rich
 history of ritual use and abuse, and has played center stage in numerous fiction
 and nonfiction books." Its visual hallucinations, caused by muscimol and
@@ -88,12 +88,3 @@ in the sixteenth century.
 Folk medicine has employed fungi across cultures:
 
 - **Puffball spores** were used to stop nosebleeds through limited inhalation.
-  Midwives applied them to newborns' umbilical stumps to stop bleeding. However,
-  massive inhalation causes lycoperdonosis -- acute lung inflammation when
-  chitin-walled spores lodge in alveoli.
-
-- **Stinkhorn receptacles** were considered delicacies in some European
-  traditions, prepared by slicing the expanded tissue into rings and cooking.
-
-- **Cordyceps** has been used in Chinese medicine for hundreds of years, sold
-## See Also

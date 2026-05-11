@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Green Manure Crops
 From "Sepp Holzer's Permaculture" by Sepp Holzer.
@@ -87,9 +88,3 @@ tall growth habit provides support for climbing legumes in polyculture mixtures,
 and their straw is valuable as mulch or animal bedding. Using ancient grains as
 green manure also serves a conservation function, maintaining the genetic
 diversity of these heritage varieties that might otherwise be lost as modern
-agriculture converges on a narrow range of high-yielding but input-dependent
-cultivars. Holzer's approach demonstrates that soil improvement and food
-production are not separate activities but can be integrated into a single,
-multi-functional system.
-## See Also
-- [[sepp-holzer-method]], [[sepp-holzer-terracing-and-hugelkultur]], [[holzer-raised-bed-design-principles]], [[holzer-microclimates-permaculture]], [[holzer-assessing-the-land]], [[composting-humus-building-holzer]], [[green-manure-crops]]

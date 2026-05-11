@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Sepp Holzer Fruit Tree Varieties for Mountain Climates
@@ -87,9 +88,3 @@ Despite conventional wisdom, Holzer successfully grows apricots, peaches, plums,
 While most commercial orchards rely on grafted trees, Holzer also experiments with seed-grown fruit trees. These develop genetic diversity and natural resilience, though fruit quality is less predictable. Seed-grown trees serve as rootstock candidates and as genetic material for future breeding. He plants seeds from the best-performing trees to gradually develop locally adapted varieties.
 
 See also: [[permaculture-fruit-tree-guide]], [[permaculture-fruit-tree-guide]], [[permaculture-fruit-tree-guide]]
-
-## Related
-
-- [[fruit-tree-guild-roles]]
-- [[holzer-stone-fruit-varieties-and-growing]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]

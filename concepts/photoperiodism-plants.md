@@ -1,5 +1,5 @@
 ---
-title: [[photoperiodism]] — How Plants Measure Day and Night Length
+title: Photoperiodism Plants
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
@@ -88,51 +88,3 @@ Perhaps the most surprising discovery about photoperiodism was what
 plants are actually measuring. Around the time of World War II,
 scientists found that they could manipulate flowering by interrupting
 the dark period with brief flashes of light — not by extending the
-daylight period.
-
-If a short-day plant like the soybean was given just a few minutes of
-light in the middle of the night, it would not flower, even though the
-total daylight hours remained short. Conversely, if a long-day plant
-like the iris was given a brief flash of light in the middle of the
-night during winter, it would flower, even though the natural day
-length was short.
-
-These experiments proved conclusively that plants do not measure the
-length of the day. They measure the length of the continuous period of
-darkness. A long night tells a short-day plant it is time to flower; a
-short night tells a long-day plant it is time to flower. The
-interruption of the dark period — even by a few minutes of light —
-resets the plant's internal clock and alters its flowering behaviour.
-
-## Practical Applications: Greenhouse Flower Farming
-
-The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] had immediate and enormous practical
-consequences for agriculture, particularly in greenhouse flower farming.
-Farmers quickly realised that by controlling the light environment, they
-could manipulate flowering schedules to meet market demand.
-
-The chrysanthemum industry provides a classic example. Chrysanthemums
-are short-day plants that naturally flower in the autumn as days grow
-shorter. But Mother's Day falls in spring, when days are long and
-chrysanthemums would not normally bloom. Greenhouse farmers solved this
-problem by keeping the lights on for a few minutes each night
-throughout autumn and winter. This brief interruption of the dark period
-prevented the plants from flowering prematurely. Then, about two weeks
-before Mother's Day, the farmers simply stopped turning on the lights
-at night. The plants, suddenly experiencing long uninterrupted nights,
-all began to flower at once — perfectly timed for the holiday market.
-
-This technique gave farmers unprecedented control over flowering
-schedules. Plants that once flowered only at specific times of year
-could now be brought into bloom whenever the market demanded, simply by
-manipulating the duration of darkness they experienced.
-
-## Legacy
-
-Garner and Allard's 1918 discovery of photoperiodism opened an entirely
-new field of plant biology. It showed that plants possess internal
-clocks capable of measuring time with remarkable precision, and that
-this timekeeping governs some of the most important decisions a plant
-makes — including when to reproduce. The practical applications, from
-greenhouse flower production to [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]], continue to shape
-commercial horticulture to this day.

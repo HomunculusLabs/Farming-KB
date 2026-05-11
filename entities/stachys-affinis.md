@@ -25,7 +25,7 @@ The species is native to northern China and was introduced to Europe and Japan i
 
 In France, it is known as crosne du Japon after the town where it was first cultivated commercially.
 
-Unlike the globe artichoke (Cynara scolymus), which is a thistle, Chinese artichoke is a member of the mint family.
+Unlike the globe artichoke ([[cynara-scolymus-entity]]), which is a thistle, Chinese artichoke is a member of the mint family.
 
 ## Taxonomy and Morphology
 
@@ -66,9 +66,9 @@ It has been cultivated in China for centuries as a specialty [[fukuoka-western-r
 
 The species was introduced to France in the 1880s by a French missionary, Auguste Pailleux, who brought it from China.
 
-It subsequently spread to other European countries and to Japan, where it remains a popular winter vegetable.
+It subsequently spread to other European countries and to Japan, where it remains a popular [[coleman-french-historical-winter-vegetable-production]].
 
-In its native range, the plant grows in moist, well-drained soils in temperate climates.
+In its native range, the plant grows in moist, well-drained soils [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 It is adapted to cool-temperate conditions and tolerates winter temperatures below freezing, with tubers surviving in the ground.
 
@@ -87,51 +87,3 @@ The tubers are low in calories and contain modest amounts of protein, potassium,
 They contain small quantities of vitamins B1, B2, and C.
 
 The high stachyose content means the tubers can cause flatulence in some individuals, as humans lack the enzyme to digest this oligosaccharide.
-
-Raw tubers have a mild, sweet, nutty flavor with a texture similar to water chestnuts or Jerusalem artichokes.
-
-## Culinary and Traditional Uses
-
-In Chinese cuisine, Chinese artichoke tubers are typically stir-fried with pork, braised, or pickled.
-
-They are valued for their crisp texture, which is retained even after cooking.
-
-In Japan, the tubers (chorogi) are traditionally prepared as pickles (tsukemono) served as part of New Year celebrations.
-
-French cuisine treats crosne as a delicacy, often sautéed in butter with herbs or used in salads.
-
-The tubers should be washed gently and peeled before cooking; over-peeling wastes the thin edible skin.
-
-They are also eaten raw as a snack or garnish for their refreshing crunch.
-
-In traditional Chinese medicine, the tubers are considered a warming food that aids digestion.
-
-The aerial parts of the plant are not consumed and have limited medicinal application.
-
-## Cultivation
-
-Chinese artichoke is propagated exclusively by planting whole tubers or tuber segments in [[coleman-overwintered-onions-and-early-spring-crops]].
-
-Tubers are planted 5–8 cm deep, 20–30 cm apart, in rows 40–50 cm apart.
-
-The plant prefers full sun to partial shade and regular moisture throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-Growth is moderate, with the plant reaching full size by mid-summer.
-
-Tuber formation begins in late summer as [[coleman-winter-day-length-and-persephone-months]] shortens, continuing until the first frost.
-
-Harvest occurs in late autumn after the foliage has died back, typically 6–7 months after planting.
-
-Yields range from 1–3 kg per square meter depending on soil conditions and cultivation practices.
-
-The tubers are relatively perishable and should be stored in cool, humid conditions or left in the ground until needed.
-
-The plant has few serious pests or diseases, making it a low-maintenance crop for home gardeners.
-
-## See Also
-
-- [[pachyrhizus-erosus]]
-- [[lathyrus-tuberosus]]
-- [[ipomoea-batatas]]
-- [[lamium-album]]
-- [[leonurus-cardiaca-entity]]

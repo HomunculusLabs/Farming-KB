@@ -11,7 +11,7 @@ play a notable role in distinguishing cannabis cultivar-specific endorhiza
 communities. While Proteobacteria dominate the cultivar-differentiating OTUs,
 Bacteroidetes contribute several significant abundance differences between
 strains, making them an important but often overlooked component of the
-cannabis root microbiome.
+[[cannabis-root-microbiome]].
 
 ## Bacteroidetes in the Cannabis Root Zone
 
@@ -20,7 +20,7 @@ responsible for several significant OTU abundance differences between cannabis
 strains in both experiments. Specifically, two orders within the phylum were
 highlighted:
 
-- **Sphingobacteriales**: Present as part of the core endorhiza community
+- **Sphingobacteriales**: Present as part of the core [[proteobacteria-dominance-cannabis-endorhiza-community]]
   across all cultivars. These bacteria are known for their ability to
   degrade complex polysaccharides and are commonly found in soil and
   plant-associated environments. They are gram-negative, aerobic or
@@ -47,7 +47,7 @@ because:
 2. The Bacteroidetes contribution to strain differentiation occurs at the
    abundance level (weighted analysis) rather than presence/absence level
    (unweighted analysis), consistent with the broader pattern that strain
-   effects community structure more than composition.
+   effects [[edaphic-determinants-cannabis-microbiome-community-structure]] more than composition.
 3. The presence of Bacteroidetes in the core endorhiza community (alongside
   Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, and
   Actinomycetales) suggests these are not transient colonizers but
@@ -56,7 +56,7 @@ because:
 ## Ecological Functions of Root-Associated Bacteroidetes
 
 Bacteroidetes in the root zone contribute several ecological functions
-relevant to cannabis cultivation:
+relevant to [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]:
 
 - **Polysaccharide degradation**: Sphingobacteriales and Flavobacteriales
   are efficient degraders of complex plant polysaccharides. Within the
@@ -65,7 +65,7 @@ relevant to cannabis cultivation:
 - **Biofilm formation**: Some Bacteroidetes species contribute to biofilm
   formation on root surfaces, which can protect against pathogen invasion
   and improve nutrient retention in the rhizosphere.
-- **Siderophore production**: Certain Flavobacteriales produce siderophores
+- **[[singh-fungal-siderophore-production-iron-acquisition]]**: Certain Flavobacteriales produce siderophores
   that bind iron, improving iron availability for both the bacteria and
   their host plant in iron-limited soil conditions.
 - **Antifungal activity**: Some Bacteroidetes produce compounds with
@@ -80,7 +80,7 @@ for root microbiome assembly. Under this model:
 - **Tier 1 (soil-driven)**: Soil type determines the pool of Bacteroidetes
   available for colonization. Different soils contain different
   Sphingobacteriales and Flavobacteriales species, and this edaphic
-  filtering was the strongest factor shaping community composition.
+  filtering was the strongest factor shaping [[core-endorhiza-bacterial-community-composition-cannabis]].
 - **Tier 2 (host-driven)**: Cannabis cultivar genotype then fine-tunes the
   relative abundances of these Bacteroidetes within the root interior,
   producing the strain-specific abundance patterns observed in the data.
@@ -88,39 +88,3 @@ for root microbiome assembly. Under this model:
 This two-step process explains why the same Bacteroidetes taxa tend to be
 present across all cultivars (tier 1 filtering), but at significantly
 different abundances depending on which cannabis strain is hosting them
-(tier 2 selection). The endorhiza communities from both experiments
-shared more OTUs with their own soil than with foreign soil, confirming
-the soil-derived origin of these Bacteroidetes populations.
-
-## Comparison with Other Plant Systems
-
-The role of Bacteroidetes in cannabis aligns with observations in other plant
-species. In Arabidopsis thaliana, Populus deltoides, and various crop plants,
-Bacteroidetes (especially Flavobacteriales) are consistently enriched in the
-rhizosphere relative to bulk soil and show plant species-specific abundance
-patterns. The cannabis findings extend this pattern to a medicinally and
-economically important crop with unique secondary metabolite profiles, raising
-the possibility that Bacteroidetes-host interactions may be particularly
-relevant in plants producing specialized metabolites.
-
-## Research Implications
-
-The involvement of Bacteroidetes in cannabis strain differentiation raises
-interesting questions for future research:
-
-- Do specific Bacteroidetes taxa interact with cannabinoid biosynthesis
-  pathways, either directly through metabolic exchange or indirectly
-  through plant signaling cascades?
-- Could Bacteroidetes be used as bioindicators of cultivar health or as
-  probiotic inoculants tailored to specific cannabis strains?
-- How do Bacteroidetes populations change across the cannabis growth
-  cycle, particularly during the transition from vegetative growth to
-  flowering when cannabinoid production peaks?
-
-## See Also
-
-- [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[core-endorhiza-bacterial-community-composition-cannabis]]
-- [[cannabis-cultivar-microbiome-specificity]]
-- [[two-tier-selection-model-plant-microbiome]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]

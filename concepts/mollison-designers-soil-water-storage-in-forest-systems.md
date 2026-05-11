@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Soil Water Storage Mechanisms in Forest Systems
 
-In *Permaculture: A Designers' Manual*, Bill Mollison presents a
+In *Permaculture: A Designers' Manual*, [[bill-mollison]] presents a
 detailed analysis of how forests function as immense water storage
 systems. Understanding soil water storage mechanisms is essential
 for [[mollison-earthworks-planning-and-post-earthworks-planting]], and all aspects of permaculture water management.
@@ -73,7 +74,7 @@ and means to hold fresh water on land.
 At the crown, forceful raindrops are broken up and scattered, often
 to mist or coalesced into small bark-fissured streams, descending
 to earth robbed of the kinetic energy that destroys the soil mantle
-outside forests. Further impedance takes place on the forest floor,
+outside forests. Further impedance takes place on the [[fungal-ecology-forest-floor]],
 where roots, litter, logs, and leaves redirect, slow down, and pool
 the water.
 
@@ -81,45 +82,9 @@ the water.
 
 Most tree roots are in the top 30-60 cm (12-24 inches) of soil, but
 the remaining roots penetrate as much as 40 m deep in the rocks
-below. Once soil is fully charged at "field capacity," free water
+below. Once soil is fully charged at "[[bulk-substrate-field-capacity]]," free water
 at last percolates through the interstitial spaces of the soil and
 commences a slow progression to the streams, and thence to sea.
 
 Trees may intercept and draw on underground reserves for growth at
 any time, pumping water again to air. This cycling process means
-that forests effectively manage both surface water and deep
-groundwater resources simultaneously.
-
-## Design Implications
-
-Mollison's analysis has several direct implications for permaculture
-design:
-
-- Tree planting is the most effective long-term strategy for water
-  conservation on any site
-- Mulch and litter layers are critical components of the
-  infiltration system, connecting to [[mollison-designers-forest-condensation-and-micro-climate-rainfall]] enhance total precipitation
-- Earthworks such as swales slow water movement and increase
-  infiltration time, supporting [[mollison-earthworks-planning-and-post-earthworks-planting]]
-- Soil rehabilitation through [[hamilton-composting-and-organic-matter-management]] addition dramatically
-  increases water storage capacity
-
-## Water and Soil Life
-
-The soil particles around the tree are wetted with a surface film of
-water, as are the leaves and root hairs. This bound water forms a
-film available to roots, which can remove the water down to 15
-atmospheres of pressure, when the soil retains the last thin film.
-The entire system depends on living soil biology, especially
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]], to maintain the sponge-like humus structure that
-holds water in biological storage.
-
-## Conclusion: Forests as Water Infrastructure
-
-Mollison's treatment makes clear that forests are not merely
-collections of trees but are water management infrastructure of the
-highest order. The combination of interception, infiltration, three
-types of storage, and slow percolation means that forests regulate
-water flow far more effectively than any human-engineered system.
-Protecting and restoring forest cover is therefore the most
-important strategy for water security in any bioregion.

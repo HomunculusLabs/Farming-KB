@@ -1,10 +1,11 @@
 ---
-title: Weed Utility and Grass Soil Enrichment in comparison-natural-farming-vs-permaculture
+title: Fukuoka Textdoc Weed Utility Grass Soil Enrichment
 created: 2026-04-28
 tags: [fukuoka, natural-farming, weeds, soil-health, no-weeding, green-manure, erosion-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -75,56 +76,15 @@ cover is more valuable than any [[cervantes-fertilizer-application-strain-feedin
 ## The Weedless Method: Using Weeds Against Weeds
 
 Of course, Fukuoka acknowledges that farmers say weeds growing wild in rice and wheat
-fields or under fruit trees interfere with other work. Even in cases where cultivation
+fields or under [[comparison-grafting-vs-budding-fruit-trees]] interfere with other work. Even in cases where cultivation
 with weeds appears possible and beneficial in principle, monoculture is more convenient
 for the farmer. In practice, one must adopt a method that utilizes the strength of
 weeds but also takes into account the convenience of farming operations, a "weedless"
 method that allows the weeds to grow.
 
-This led to his discovery of using clover and other green manure plants as a living
+This led to his discovery of using clover and other [[coleman-mobile-greenhouse-green-manure-soil-building]] plants as a living
 mulch. By sowing clover and Chinese milk vetch over the ridges of maturing barley one
 month before the barley harvest, a rich growth of these herbs among the barley
 suppresses undesirable weeds while simultaneously fixing nitrogen and building soil.
 
 ## The Connection to Fertilizer Dependence
-
-If one believes that crops grow with the aid of fertilizers, then the surrounding
-weeds must be removed because they rob the crop plants of fertilizer. But in natural
-farming, where plants grow of their own accord without relying on fertilizers, the
-surrounding weeds do not pose any problem at all. Nothing is more natural than to see
-grass growing at the foot of a tree; no one would ever think of that grass as
-interfering with the growth of the tree.
-
-The weed problem and the fertilizer problem are thus two sides of the same coin.
-Both arise from the decision to grow crops in isolation from their natural plant
-community. Remove the fertilizer, and the weeds become allies rather than competitors.
-
-## Cover of Grass Is Beneficial
-
-Fukuoka's "cover of grass" method includes sod culture and green manure cropping.
-In his rice and barley succession system, white clover serves as a permanent living
-mulch that suppresses weeds, fixes nitrogen, prevents erosion, and maintains soil
-moisture. When the field is flooded in early summer, the clover is weakened just
-enough to allow rice seedlings to break through, then it recovers to protect the
-soil surface during the rice growing season.
-
-In orchards, a similar principle applies. The living orchard soil is preserved and
-actively enriched by ground cover plants. Fruit trees grow up sturdy and healthy
-without fertilizers, orderly and beautiful without the need for herbicide application.
-
-## Modern Validation
-
-Fukuoka's weed utility principles have been validated by modern soil science. Research
-on cover crops confirms that living root systems maintain [[dighton-mycorrhizal-networks-carbon-transfer]],
-prevent soil compaction, cycle nutrients from deep soil layers, and support
-[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations. The no-till movement in modern agriculture, while
-often still reliant on herbicides, is moving toward Fukuoka's ideal of managing weeds
-through competition and smother crops rather than eradication.
-
-## See Also
-
-- [[fukuoka-textdoc-weeds-beneficial-plants-soil-enrichment-coexistence]]
-
-- [[fukuoka-weed-management-and-green-manure]]
-- [[direct-seeded-notillage-rice-barley-clover-succession]]
-- [[fukuoka-textdoc-natural-soil-management]]

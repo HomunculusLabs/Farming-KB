@@ -87,27 +87,3 @@ Optimal cultivation parameters for related sanghuang species include incubation 
 The growing market for sanghuang-based health products in China and Southeast Asia creates potential incentive for developing cultivation protocols for less common species like *S. lonicericola*.
 
 ## Ecological Role
-
-As a white-rot polypore, *S. lonicericola* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing lignin and cellulose in dead hardwood branches. Its perennial fruiting habit means individual basidiocarps can continue decomposing substrate for years.
-
-The species contributes to the saproxylic fungal community in temperate mixed forests. Its moderate host specificity for Caprifoliaceae suggests a co-evolved relationship with honeysuckle species in northeastern Asian forests.
-
-*Sanghuangporus* species serve as microhabitats for various invertebrates, including beetle larvae and mites, within the galleries and pores of mature basidiocarps. They may also compete with other wood-decay fungi for substrate resources.
-
-### Conservation Status
-
-*S. lonicericola* has not been formally evaluated for conservation status by the IUCN. However, many *Sanghuangporus* species are considered rare in nature due to over-harvesting of wild fruiting bodies for the medicinal trade.
-
-Habitat loss through deforestation and forest fragmentation in northeastern China threatens wild populations. The species' host specificity for *Lonicera* makes it particularly vulnerable to declines in its preferred host tree populations.
-
-Ex situ conservation through cultivation and strain banking represents the most practical approach to preserving genetic diversity. Several Chinese research institutions maintain living collections of *Sanghuangporus* species for both conservation and commercial purposes.
-
-## See Also
-
-- [[sanghuangporus-baumii]]
-- [[phellinus-igniarius-entity]]
-- [[trametes-versicolor-entity]]
-- [[fomes-fomentarius]]
-- [[hericium-erinaceus]]
-- [[maitake-grifola-frondosa]]
-- [[pleurotus-ostreatus]]

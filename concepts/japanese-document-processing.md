@@ -1,5 +1,5 @@
 ---
-title: Japanese fukuoka-document-processing-research
+title: Japanese Document Processing
 created: 2026-04-28
 tags: [japanese, typography, text-processing, internationalization]
 date: 2026-04-28
@@ -88,33 +88,8 @@ Japanese documents increasingly use horizontal (yoko-gaki) layout influenced
 by Western conventions, but vertical text remains common in literature,
 formal documents, and certain genres. Supporting vertical text requires
 rotated character glyphs, different punctuation positioning, and specialized
-page layout algorithms.
-
-## Japanese-Specific Word Processing Features
-
-[[microsoft-word]] and other word processors include Japanese-specific features
-including IME (Input Method Editor) integration, which converts phonetic input
-to Japanese characters;jisage (indentation) for emphasis using wider character
-spacing; andwarichu (inline two-line text) for annotations within running text.
-
-IME integration is particularly important for document automation, as it
-affects how text is stored, searched, and processed. Japanese text may be
-stored with different normalization forms for the same characters, and
-search systems must account for this variation to produce accurate results.
-
-## Regional Administrative Standards
-
-Japanese organizations often follow JIS (Japanese Industrial Standards)
-for document formatting, which specify paper sizes (JIS B series differs from
-ISO B series), margin standards, and heading hierarchy conventions. Document
-administrators working in Japanese contexts must understand these standards
-to create compliant templates and ensure proper rendering across different
-printing environments.
 
 ## See Also
-
-- [[stropharia-venenata-japanese-bluing-species]]
-- [[faires-meat-processing-curing-and-smoking]]
-- [[microsoft-word-document-format]] for Word's handling of Japanese text
-- [[document-automation-administration]] for administration in Japanese orgs
-- unicode and character encoding for encoding standards overview
+- [[fukuoka-document-processing-research]]
+- [[animal-harvest-and-processing]]
+- [[faires-dairy-processing-cheese-and-butter]]

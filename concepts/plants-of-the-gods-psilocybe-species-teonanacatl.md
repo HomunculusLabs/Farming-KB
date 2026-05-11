@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe Species: Teonanacatl — Little Flowers of the Gods"
+title: Plants Of The Gods Psilocybe Species Teonanacatl
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -32,22 +32,22 @@ The genus Psilocybe (Fr.) Quelet contains approximately 180
 species distributed nearly cosmopolitan. The most important
 psychoactive species include:
 
-- Psilocybe mexicana Heim (Teonanacatl) — the type species,
+- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] Heim (Teonanacatl) — the type species,
   found nearly cosmopolitan except in Mexico, central to the
   original discovery of psilocybin by Albert Hofmann.
-- Psilocybe cubensis (Earle) Sing. (San Isidro) — nearly
+- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] (Earle) Sing. (San Isidro) — nearly
   cosmopolitan in the tropics, known in Oaxaca as Hongo de
   San Isidro or Di-shi-tjo-le-rra-ja ("divine mushroom of
   manure").
-- Psilocybe cyanescens (Wavy Cap) — found in North America
+- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (Wavy Cap) — found in North America
   and Central Europe, relatively easy to identify by its wavy
   brown cap. It is very closely related to P. azurescens and
   P. bohemica, both also very powerful hallucinogens.
 - [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (Liberty Cap) — cosmopolitan
-  except Mexico, the most common psychoactive mushroom in
+  except Mexico, the most common [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in
   the Psilocybe genus. It may have been used in Central
   Europe for about 12,000 years.
-- Psilocybe aztecorum — known only from the slopes of the
+- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] — known only from the slopes of the
   volcano Popocatepetl, depicted on the pedestal of the
   Xochipilli statue.
 
@@ -88,48 +88,3 @@ Miniature mushroom stones, 2,200 years of age, have been found
 in archaeological sites near Guatemala City. More than two hundred
 mushroom stone effigies have been discovered, the oldest dating
 from the first millennium B.C. Although the majority are
-Guatemalan, some have been unearthed in El Salvador and Honduras
-and others as far north as Veracruz and Guerrero in Mexico. These
-artifacts indicate the great antiquity of a sophisticated sacred
-use of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
-
-The Xochipilli statue, Aztec Prince of Flowers, discovered on the
-slopes of Mt. Popocatepetl, is engraved with stylized flowers
-identified as sacred, inebriating plants. The pedestal is decorated
-with cross-sections of the caps of Psilocybe aztecorum. His face
-is in ecstasy, as though seeing visions, confirming the religious
-significance of these mushrooms in Aztec culture.
-
-## Maria Sabina and the Mazatec Tradition
-
-The Mazatec shaman Maria Sabina described the effects:
-"The more you go inside the world of Teonanacatl, the more things
-are seen. And you also see our past and our future, which are
-there together as a single thing already achieved. I saw stolen
-horses and buried cities, the existence of which was unknown.
-Millions of things I saw and knew. I knew and saw God."
-
-Albert Hofmann visited Maria Sabina in 1962 and took many portraits
-of her during the nightlong chanting and clapping ceremony, in
-which she felt herself fully in contact with the other world.
-
-## Chemistry
-
-The active principles of Psilocybe species are psilocybin
-(4-phosphoryloxy-N,N-dimethyltryptamine) and psilocin, along
-with baeocystin and norbaeocystin in some species. Content varies
-between 0.2 and 0.6% psilocybine in dried material, with P.
-cyanescens reaching approximately 1% total tryptamines. The
-mushrooms cause both visual and auditory hallucinations.
-
-## Related
-
-- [[plants-of-the-gods-nutmeg-myristica]]
-- [[plants-of-the-gods-mushroom-stone-artifacts]]
-- [[plants-of-the-gods-conocybe-psychoactive-mushrooms]] Topics
-
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  [[plants-of-the-gods-chemical-structures-hallucinogens]] of psilocybin and psilocin
-- [[plants-of-the-gods-claviceps-ergot-alkaloids]] — ergot,
-  which shares [[ergot-alkaloid-chemistry-history]] with [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-- [[plants-of-the-gods-datura-species-toloache]]

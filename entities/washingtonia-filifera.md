@@ -43,11 +43,11 @@ In Mexico, populations extend through Baja California and Sonora. The species is
 
 It grows almost exclusively in desert oases, spring-fed riparian corridors, and along intermittent streams. These habitats are characterized by a permanent or near-permanent water table within reach of the root system.
 
-The species is frost-tolerant to approximately −10 °C, making it one of the cold-hardiest large palms. It tolerates extreme heat above 50 °C during summer months in its native range.
+The species is frost-tolerant to approximately −10 °C, making it one of the cold-hardiest large palms. It tolerates [[extreme-heat-preparedness]] above 50 °C during summer months in its native range.
 
 Soils range from sandy alluvial deposits to gravelly wash substrates. High calcium carbonate content is typical of most native stands.
 
-Associated riparian species include Fremont cottonwood (Populus fremontii), desert willow (Chilopsis linearis), and arrowweed (Pluchea sericea). The palm overstory creates a distinct structural layer above these smaller riparian trees and shrubs.
+Associated riparian species include Fremont cottonwood ([[populus-fremontii]]), desert willow (Chilopsis linearis), and arrowweed (Pluchea sericea). The palm overstory creates a distinct structural layer above these smaller riparian [[nitrogen-fixing-trees-and-shrubs]].
 
 Stands are typically found on north-facing canyon walls or in narrow ravines where groundwater surfaces. These microrefugia are cooler and more humid than the surrounding desert plain.
 
@@ -55,7 +55,7 @@ Stands are typically found on north-facing canyon walls or in narrow ravines whe
 
 Washingtonia filifera groves create microhabitat islands within the surrounding desert matrix. The shade and elevated humidity beneath the canopy support epiphytes, ferns, and mosses that are absent from the open desert.
 
-Numerous bird species nest in the persistent dead frond skirts, including hooded orioles, vermilion flycatchers, and great horned owls. The fruit is consumed by coyotes, foxes, and numerous bird species, which serve as seed dispersal agents.
+Numerous bird species nest in the persistent dead frond skirts, including hooded orioles, vermilion flycatchers, and great horned owls. The fruit is consumed by coyotes, foxes, and numerous bird species, which serve as [[clay-pellet-seed-dispersal]] agents.
 
 Bats roost in the skirt of dead fronds, and the palm flower spike provides nectar for several bat and insect species. The root system helps stabilize stream banks and prevent erosion in flash-flood-prone desert canyons.
 
@@ -63,7 +63,7 @@ The species is an obligate riparian phreatophyte, requiring access to groundwate
 
 Insect communities associated with the palm include a specialized palm-boring beetle (Dynamis) and several species of scale insects. These herbivores rarely cause significant damage to healthy mature palms.
 
-The dead frond skirt provides habitat complexity comparable to epiphyte loads in tropical forests. Arthropod diversity within palm skirts is significantly higher than in surrounding desert scrub.
+The dead frond skirt provides habitat complexity comparable to epiphyte loads in [[fungal-biodiversity-tropical-forests]]. Arthropod diversity within palm skirts is significantly higher than in surrounding desert scrub.
 
 ## Cultivation and Uses
 
@@ -75,7 +75,7 @@ Cahuilla, Kumeyaay, and other indigenous peoples of southern California used the
 
 The bud (palm heart) is edible, though harvesting it kills the tree. The woody petiole bases were used as cooking implements and the trunk segments served as construction material for shelters.
 
-The persistent dead frond skirt is often removed in cultivation for fire safety and aesthetic reasons. However, this practice also removes important wildlife habitat, and some municipalities now recommend leaving skirts intact where fire risk is low.
+The persistent dead frond skirt is often removed in cultivation for fire safety and aesthetic reasons. However, this practice also removes important [[hemenway-backyard-wildlife-habitat]], and some municipalities now recommend leaving skirts intact where fire risk is low.
 
 Propagation is primarily from seed, which germinates readily within 1–3 months when kept warm and moist. Transplanting large specimens is possible but risky, as the root system is sensitive to disturbance.
 
@@ -88,26 +88,3 @@ The genus Washingtonia comprises only two species: Washingtonia filifera and [[w
 Natural hybridization between the two species occurs where their ranges overlap in southern California and Baja California. Hybrids, often called Washingtonia × filibusta, exhibit intermediate morphology and are widely planted as ornamentals.
 
 Washingtonia × filibusta combines the cold hardiness of W. filifera with the rapid growth and slimmer profile of W. robusta. This hybrid is now the most commonly planted Washingtonia in urban landscapes in California and Arizona.
-
-## Conservation Status
-
-Washingtonia filifera faces several conservation threats across its native range. Groundwater depletion from urban and agricultural development has reduced or eliminated many natural oasis habitats.
-
-Climate change projections indicate increasing drought frequency and severity in the southwestern U.S., which may reduce recruitment and increase adult mortality. Rising temperatures may also expand the range of invasive species that compete with palm seedlings.
-
-Wildfire is an increasing threat as invasive grasses create continuous fuel beds in formerly bare desert washes. Palm groves that historically burned infrequently now face more frequent fire exposure.
-
-Several protected populations exist within California state parks, including Palm Canyon in the Indian Canyons of the Agua Caliente Band of Cahuilla Indians near Palm Springs. The species is not currently listed under the U.S. Endangered Species Act.
-
-The IUCN Red List assessment classifies Washingtonia filifera as Least Concern, though this designation has been criticized for not adequately accounting for ongoing groundwater depletion. Local population declines of 20–50% have been documented in several desert aquifer basins.
-
-## See Also
-
-- [[washingtonia-robusta]]
-- [[cocos-nucifera]]
-- [[phoenix-dactylifera]]
-- [[roystonea-regia]]
-- [[sabal-palmetto]]
-- [[trachycarpus-fortunei]]
-- [[butia-capitata]]
-- [[jubaea-chilensis]]

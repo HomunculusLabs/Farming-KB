@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Cold Frame Construction
 
-A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through. (see [[cold-frame-gardening]]).
+[[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] is a bottomless box with a transparent lid, used to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
 
 ## Construction
 
@@ -43,7 +43,7 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 | Season | Use |
 |---|---|
 | Late winter | Start seedlings 4-6 weeks early |
-| Early spring | Harden off indoor-started plants |
+| [[coleman-overwintered-onions-and-early-spring-crops]] | Harden off indoor-started plants |
 | Autumn | Extend harvest of lettuce, greens, radishes |
 | Winter | Overwinter hardy crops (parsley, leeks, spinach) |
 
@@ -62,4 +62,21 @@ A cold frame is a bottomless box with a transparent lid, used to extend the grow
 ## Related
 - [[seed-starting-indoors]] — for earlier starts under lights
 - [[garden-bed-preparation]] — for preparing the cold frame bed
-- [[drought-gardening]] — for managing moisture in enclosed spaces
+- [[drought-gardening]] — for managing moisture in [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[comparison-greenhouse-vs-cold-frame]]
+- [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
+- [[comparison-cold-frame-gardening-vs-greenhouse-growing]]
+- [[cold-frame-gardening]]
+- [[comparison-bamboo-construction-vs-timber-frame-basics]]

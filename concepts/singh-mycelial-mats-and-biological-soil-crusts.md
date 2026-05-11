@@ -1,5 +1,5 @@
 ---
-title: Mycelial Mats and Biological Soil Crusts
+title: Singh Mycelial Mats And Biological Soil Crusts
 created: 2026-04-26
 tags:
   - mycelial-mats
@@ -21,10 +21,10 @@ type: concept
 Mycelial mats and biological soil crusts (BSCs) represent macroscopic
 fungal structures that significantly influence soil physical properties,
 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and ecosystem stability. The Singh source documents
-the formation, ecological functions, and bioremediation applications
+the formation, [[fungal-melanin-biosynthesis-ecological-functions]], and [[fungi-in-the-environment-bioremediation-applications]]
 of these fungal-dominated structures, particularly their roles in soil
 stabilization, [[permplant-willows-salix-erosion-control-fodder]], and the creation of microenvironments
-that support diverse microbial communities and pollutant degradation.
+that support diverse [[cannabis-rhizosphere-microbial-communities]] [[staycare-lignin-peroxidase-and-pollutant-degradation]].
 
 ## Mycelial Mat Formation
 
@@ -69,7 +69,7 @@ mechanisms:
 - Hydrophobic compounds: Some fungal mats produce hydrophobic
   compounds that coat soil particles, reducing water erosion.
 
-- Organic matter incorporation: Fungal decomposition of plant litter
+- Organic matter incorporation: [[dighton-fungal-decomposition-leaf-litter-dynamics]] of plant litter
   produces humic substances that contribute to stable soil organic
   matter and aggregate stability.
 
@@ -88,60 +88,3 @@ Mycelial mats provide effective erosion control through:
 - Infiltration enhancement: The porous structure of mycelial mats
   increases water infiltration rates, reducing surface runoff and
   associated erosion.
-
-- Splash attenuation: Mats absorb the kinetic energy of raindrops,
-  reducing splash erosion and particle detachment.
-
-- Vegetation establishment: By stabilizing soil surfaces and improving
-  water retention, mats create favorable conditions for plant
-  colonization, which provides additional erosion protection.
-
-The Singh source describes applications of mycelial mat technology
-for erosion control on mine tailings, road cuts, construction sites,
-and degraded rangelands.
-
-## Biological Soil Crusts
-
-Biological soil crusts (BSCs), also called cryptogamic or microbiotic
-crusts, are complex communities of cyanobacteria, algae, fungi
-(including yeasts and filamentous fungi), lichens, and bryophytes
-that form a living surface layer on soils in arid and semi-arid
-regions. Fungal components of BSCs include:
-
-- Dark [[dark-septate-endophytes-root-colonizing-fungi]] that form extensive melanized hyphal
-  networks within the crust.
-
-- Microfungi that decompose organic matter and contribute to nutrient
-  cycling.
-
-- Yeasts that tolerate desiccation and UV exposure at the soil
-  surface.
-
-BSCs stabilize soil surfaces, fix atmospheric nitrogen and carbon,
-modulate water retention, and create hospitable microsites for seed
-germination and plant establishment.
-
-## Bioremediation Applications
-
-Mycelial mats and BSCs contribute to bioremediation through:
-
-- Contaminant adsorption: The high surface area and charged functional
-  groups of hyphal mats bind heavy metals and organic pollutants.
-
-- [[ligninolytic-enzyme-production-bioremediation]]: Mats of white-rot fungi produce lignin-modifying
-  enzymes that degrade aromatic pollutants in surface soils.
-
-- Habitat creation: Mats support diverse microbial communities
-  including bacteria that contribute to contaminant degradation.
-
-- Phytoremediation support: By stabilizing soil and improving plant
-  growth conditions, mats enhance phytoremediation effectiveness.
-
-## See Also
-
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[singh-pentachlorophenol-fungal-soil-transformation]]
-- singh microcosm and mesocosm studies in mycorrhizal remediation
-
-- mycorrhizal fungi heavy metal phytostabilization
-- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

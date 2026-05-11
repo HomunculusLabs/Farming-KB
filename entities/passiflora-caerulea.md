@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Passiflora caerulea is an evergreen to semi-evergreen climbing vine in the family Passifloraceae, native to South America.
+Passiflora caerulea is an evergreen to semi-evergreen climbing vine in the family Passifloraceae, native to [[guzman-psilocybin-mushrooms-south-america]].
 
 It is one of the most widely cultivated passionflower species, grown for its exotic flowers and edible fruit.
 
@@ -73,7 +73,7 @@ In the [[dmt-containing-plants-united-states-halpern]], it is established in Cal
 
 ## Cultivation
 
-Blue passionflower is one of the easiest Passiflora species to cultivate in temperate climates.
+Blue passionflower is one of the easiest Passiflora species to cultivate [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 It is propagated from seed (stratification aids germination) or from semi-ripe cuttings in summer.
 
@@ -88,42 +88,3 @@ The species is widely available in the nursery trade and is a standard conservat
 ## Chemistry and Uses
 
 The aerial parts of P. caerulea contain flavonoids (vitexin, isovitexin, orientin) and [[turner-harmala-alkaloids-preparation-and-dosage]].
-
-Harman and harmaline are present in trace amounts, contributing to mild sedative activity.
-
-Herbal preparations from the aerial parts are used as a mild anxiolytic and sleep aid in European phytotherapy.
-
-Clinical studies support modest anxiolytic effects comparable to low-dose oxazepam.
-
-The fruit is edible but is considered inferior to commercial passionfruit (P. edulis) for culinary use.
-
-It is occasionally used in jams and beverages, often combined with sweeter [[holzer-stone-fruit-varieties-and-growing]].
-
-## Ecological Role
-
-P. caerulea is the primary larval host plant for several Heliconius butterfly species in its native range.
-
-The extrafloral nectaries attract ants that provide some protection against herbivores.
-
-In naturalized areas, the vine can grow aggressively and smother native vegetation.
-
-Birds disperse the seeds after consuming the fruit pulp.
-
-## Cultural Significance
-
-The flower's complex structure was first interpreted as a symbol of the Crucifixion by Jesuit missionaries in the 16th century.
-
-The ten petals and sepals represented the apostles, the corona filaments the crown of thorns.
-
-This symbolic interpretation gave the genus its common name "passionflower."
-
-The species has been in European cultivation since the early 17th century.
-
-It received the Royal Horticultural Society's Award of Garden Merit.
-
-## See Also
-
-- [[passiflora-edulis]] — purple passionfruit, the commercially important fruit-bearing species
-- [[lonicera-japonica]] — Japanese honeysuckle, a twining vine with edible flowers
-- [[parthenocissus-tricuspidata]] — Boston ivy, a climbing plant for architectural coverage
-- rubus-idaeus-entity — red raspberry, a fruit-bearing plant with edible berries like passionfruit

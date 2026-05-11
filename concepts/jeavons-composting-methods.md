@@ -88,17 +88,3 @@ Green manures (cover crops such as vetch, clover, alfalfa, beans, peas) are grow
 **GROW BIOINTENSIVE recommendation:** Use compost crops without digging in the residues. The growing process puts nitrogen into the soil, and the plant residues are more valuable in the compost pile.
 
 ## Compost Crops
-
-These are dual-purpose crops that produce both significant calories for the diet and large amounts of carbonaceous material for compost. Key examples include grains (wheat, cereal rye, oats, barley, triticale, corn, sorghum, amaranth, quinoa), fava beans (grown to maturity), and sunflowers. These should optimally occupy about 60% of the farm area over the course of a year.
-
-## Materials to Avoid
-
-- Diseased plants or plants with severe insect attacks
-- Poisonous plants (oleander, hemlock, castor beans)
-- Plants with toxic acids (eucalyptus, walnut, juniper, [[jeavons-soil-fertility]]
-- [[jeavons-vermicomposting-techniques]]
-- [[jeavons-vermicomposting-techniques]]
-
-## See Also
-
-- [[natural-farming-guide-composting-methods-and-techniques]]

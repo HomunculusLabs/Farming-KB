@@ -1,10 +1,11 @@
 ---
-title: Bulk Substrate Spawning and Spawn Running in The Mushroom Cultivator
+title: Mushroom Cultivator Bulk Substrate
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Bulk Substrate Spawning and Spawn Running in The Mushroom Cultivator
@@ -14,16 +15,16 @@ Updated: 2026-04-18
 
 ## Overview
 
-The inoculation of compost or bulk substrates is called spawning. The colonization of these substrates by mushroom mycelium is known as spawn running. The fundamental principle is that colonization must proceed as rapidly as possible to prevent competing organisms from becoming established. Once the mushroom mycelium becomes dominant, natural antibiotics secreted into the substrate inhibit competitors.
+The inoculation of compost or [[mushroom-cultivation-bulk-substrates]] is called spawning. The colonization of these substrates by [[antimicrobial-compounds-mushroom-mycelium]] is known as spawn running. The fundamental principle is that colonization must proceed as rapidly as possible to prevent competing organisms from becoming established. Once the mushroom mycelium becomes dominant, natural antibiotics secreted into the substrate inhibit competitors.
 
 ## Critical Factors for Spawning
 
 ### 1. Moisture Content
 
 Mushroom mycelium does not grow in substrate that is either too dry or too wet:
-- **Dry substrate**: Produces fine wispy mycelial growth and poor [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] because water essential for [[mycelial-network-nutrient-transport-imaging-gadd]] is lacking
+- **Dry substrate**: Produces fine wispy [[mycelial-growth-and-colonization]] poor [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] because water essential for [[mycelial-network-nutrient-transport-imaging-gadd]] is lacking
 - **Over-wet substrate**: Inhibits mycelial growth, produces overly stringy mycelia
-- Controlled experiments with Agaricus brunnescens showed yield depressions when moisture deviated more than 2% from optimum
+- Controlled experiments with [[agaricus-brunnescens]] showed yield depressions when moisture deviated more than 2% from optimum
 - Deviations greater than 5% generally prevent fruitbody production entirely
 - **Correction**: Dry compost should be lightly watered and mixed well; over-wet compost gets gypsum added to bind loose water
 
@@ -49,7 +50,7 @@ Dry weight per square foot of cropping surface largely determines total yield:
 ### 4. Duration of Spawn Run
 
 - Once colonization is complete, the substrate should be cased or switched to fruiting mode
-- Continuing spawn running beyond this point wastes nutrients on vegetative growth
+- Continuing spawn running beyond this point wastes nutrients on [[cannabis-vegetative-growth-stage]]
 - If cropping must be delayed, cool the substrate until a better time
 
 ## Spawning Methods
@@ -87,32 +88,3 @@ After spawning, level and compress the substrate to avoid dehydration from exces
 - **Plastic covering**: Can be used to counteract drying, but remove during peak activity if temperatures rise
 
 ## Super Spawning (Active Mycelium Spawning)
-
-Also called the Hunke-Till process. A set amount of substrate is fully colonized, then used as inoculum for increased amounts of similar substrate. Theoretically, a small quantity of inoculum can be pyramided into considerable amounts of fully colonized substrate. This requires the primary substrate to be contaminant-free. An excellent example is propagation of [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] on wood chips.
-
-## Supplementation
-
-### At Spawning
-
-[[mushroom-delayed-release-supplements]] nutrients specially formulated in a denatured protein coat, designed to become available during the first three flushes:
-- Application rate: 5-7% of substrate dry weight
-- Yield increases: 1/2 to 1 lb/sq ft
-- Complete mixing is essential
-- Caution: these materials make substrate more suitable to contaminants if predisposing factors are present
-
-### At Casing (S.A.C.)
-
-Supplementation at casing uses soy bean meal, cottonseed meal, ground rye, wheat, or kafir corn grains:
-- Rate: 10% of substrate dry weight
-- Both substrate and supplements must be clean and contaminant-free
-- Anticipate high substrate temperatures on 2nd-3rd day after supplementation
-- Yield increases: 1/2 to 2 lbs/sq ft possible
-
-## See Also
-
-- [[oil-drum-sterilizer-mushroom-substrate-bags]]
-
-- [[mushroom-cultivator-grain-spawn-production]] -- producing grain spawn
-- [[mushroom-cultivator-casing-soil]] -- applying casing after spawn run
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] -- [[stamets-substrate-supplementation-strategies-mushroom-cultivation]] techniques
-- [[lichens-primary-production-soil-formation-dighton]]

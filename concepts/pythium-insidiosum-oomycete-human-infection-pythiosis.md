@@ -1,7 +1,7 @@
 ---
 title: Pythium insidiosum and Pythiosis
 source: Mr. Bloomfield's Orchard (Money, 2002)
-tags: [mycology, pathogen, oomycete, pythiosis, human-disease, zoospore]
+tags: [[mycology]], pathogen, oomycete, pythiosis, human-disease, zoospore]
 created: 2026-05-09
 ---
 
@@ -12,7 +12,7 @@ life-threatening infection in humans and animals. Despite being commonly
 grouped with fungi, Pythium is actually an oomycete (water mold),
 belonging to the kingdom Straminipila rather than the true fungi
 (Eumycota). This taxonomic distinction has profound clinical
-implications because oomycetes lack ergosterol in their cell membranes,
+implications because oomycetes lack [[ergosterol]] in their cell membranes,
 rendering standard antifungal drugs that target ergosterol synthesis
 entirely ineffective against pythiosis.
 
@@ -21,7 +21,7 @@ entirely ineffective against pythiosis.
 Pythium and its relatives are oomycetes, not true fungi. The key
 differences include:
 
-- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition**: Oomycete cell walls contain cellulose
+- **[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] composition**: Oomycete [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] contain cellulose
   microfibrils (staining blue with iodine solution), whereas true fungi
   have chitin-based walls that do not bind iodine.
 - **Membrane sterols**: Pythium lacks ergosterol, the target of most
@@ -60,7 +60,7 @@ progresses, Pythium erodes bone, producing a characteristic
 "moth-eaten" appearance on radiographs. While the infection may not
 directly kill the patient if confined to the extremities, it can
 effectively sentence someone to restricted mobility, a devastating
-prognosis in developing countries where agricultural labor is essential.
+prognosis in [[low-cost-mushroom-growing-house-construction-developing-countries]] where [[fukuoka-textdoc-energy-efficiency-agricultural-labor]] is essential.
 
 ### Vascular Pythiosis
 When Pythium infects arteries, particularly the femoral or iliac
@@ -88,61 +88,3 @@ Pythiosis is far more common in animals than in humans:
 - **Canine pythiosis**: Dogs develop gastrointestinal or cutaneous
   forms, with the gastrointestinal variant causing weight loss,
   vomiting, and intestinal obstruction.
-- **Other hosts**: Cats, cattle, and sheep have also been affected.
-
-## Treatment Challenges
-
-Treatment of pythiosis is exceptionally difficult due to the organism's
-unique biochemistry:
-
-- **Antifungal drugs are ineffective**: Because Pythium lacks
-  ergosterol, azole drugs (which inhibit ergosterol synthesis) and
-  amphotericin B (which binds ergosterol) have little to no effect.
-- **Surgical debridement**: Aggressive surgical removal of infected
-  tissue is often necessary, sometimes requiring amputation. The
-  procedure is described clinically as "debridement" but is in
-  reality the carving away of massive amounts of tissue.
-- **Iodine therapy**: Historically, iodine was included in early
-  treatment regimens, perhaps because it interferes with cellulose
-  synthesis in the oomycete cell wall. The original observation that
-  oomycete walls stain blue with iodine while true fungal walls do not
-  was one of the first clues to their distinct taxonomic status.
-- **Immunotherapy**: Leonel Mendoza at Michigan State University
-  developed a vaccine-based approach using Pythium antigens. This
-  immunotherapy has shown remarkable success in treating both equine
-  and human cases, including curing a boy in Thailand with an arterial
-  infection. The small number of human cases has limited wider
-  recognition of this approach.
-
-## Evolutionary Context
-
-Pythium is likely an ancient pathogen that has existed for hundreds of
-millions of years. Martha Powell, a leading expert on zoospore-forming
-fungi, has found oomycetes growing in skin lesions on turtles and
-reptiles in Alabama, suggesting that these organisms were parasitizing
-vertebrates long before the appearance of mammals. It is plausible that
-the same pathogenic strategies now used against humans were first
-refined on the leg wounds of dinosaurs and other prehistoric animals.
-
-## Laboratory Safety
-
-Working with Pythium insidiosum requires extreme caution. The organism
-must never be permitted to discharge its infectious zoospores in the
-laboratory. Cultures on agar must be kept relatively dry to prevent
-condensation that could trigger zoospore release. If water contacts a
-sporulating culture, zoospores can contaminate the handler through
-minor skin breaks or mucous membranes. Even brief accidental exposure
-to zoospore-laden water can potentially initiate infection, as Nicholas
-Money himself discovered when water seeped from a contaminated plate
-onto his hands during an undergraduate demonstration.
-
-## See Also
-
-- [Bloomfield [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]] Biology](bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis.md)
-- [[biodiversity-oomycetes-straminipiles|Biodiversity of Oomycetes and Straminipiles]]
-- [Cervantes [[cannabis-root-rot-prevention-and-treatment]] and Pythium [[cervantes-damping-off-seedling-disease-prevention]](cervantes-root-rot-pythium-damping-off.md)
-- [[dermatophyte-fungi-human-disease|Dermatophyte Fungi and Human Disease]]
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] Cell Walls](alpha-1-3-glucan-fungal-pathogen-cell-walls.md)
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
-- [[bloomfield-pythium-oomycete-water-molds]]
-- [[bloomfield-oomycete-zoospore-discharge-saprolegnia-sporulation]]

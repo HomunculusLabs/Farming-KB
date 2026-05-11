@@ -1,18 +1,19 @@
 ---
-title: "Pest and cervantes pest disease prevention overview Overview"
+title: Cervantes Pest Disease Prevention Overview
 created: 2026-04-28
 tags: [pest-prevention, disease-control, cleanliness, IPM, sanitation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Pest and Disease Prevention Overview
 
-Prevention is the foundation of integrated pest management in
-[[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes emphasizes in Chapter
+Prevention is the foundation of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] in
+[[query-how-does-no-till-cannabis-cultivation-work]]. [[jorge-cervantes]] emphasizes in Chapter
 Fourteen that "an ounce of prevention is worth a pound of cure"
 when it comes to insects, fungi, and diseases. The key principle
 is straightforward: preventing infestations is far easier and less
@@ -48,7 +49,7 @@ Growers should wash their hands before touching foliage and after
 handling any diseased plants. A critical practice is to visit the
 indoor garden before working outdoors, not after. Walking across a
 lawn with rust fungus or handling houseplants with spider mite
-infestations can introduce these problems to the cannabis garden.
+infestations can introduce these problems to the [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]].
 Cervantes recommends washing hands and changing clothes, including
 shoes, before entering an indoor garden.
 
@@ -70,12 +71,12 @@ for outdoor gardens where natural biological controls are available.
 
 ## Environmental Controls
 
-Forced air circulation makes life difficult for pests and diseases.
+Forced air circulation makes life difficult for [[mushroom-pests-and-diseases]].
 Pests struggle to hold onto plants in windy conditions, and their
 flight paths become erratic. Fungal spores have little time to
 settle on surfaces in a breeze, and they grow poorly on wind-dried
 soil, stems, and leaves. Adequate ventilation also controls
-humidity, which is critical because mold and fungal diseases
+humidity, which is critical because mold [[duggar-mushroom-insect-pests-and-fungal-diseases]]
 thrive in stagnant, moist air.
 
 A vent fan connected to a humidistat is often the most effective
@@ -86,46 +87,3 @@ to around 50 percent, eliminated the mold problem, and increased
 harvest volume.
 
 ## Plant Selection and Health
-
-Planting insect-resistant and fungus-resistant cannabis strains
-provides a significant advantage. Cannabis indica tends to be
-more resistant to pests, while sativa varieties show greater
-resistance to fungal attacks. Mother plants known to be resistant
-should be selected as the foundation of any [[cervantes-breeding-program-design-goal-setting]].
-
-Maintaining plants in vigorous, fast-growing condition is crucial.
-Diseases attack sick plants first, and strong plants tend to
-outgrow pest and disease pressure. A healthy plant with robust
-growth can often tolerate minor pest presence without significant
-yield loss.
-
-## The Control Progression
-
-When prevention fails and pests or diseases establish themselves,
-Cervantes outlines a logical progression of control measures:
-
-1. Prevention: cleanliness, new soil, dedicated tools,
-   resistant varieties, healthy plants, climate control
-2. Manual removal: fingers, sponges, water sprays
-3. Organic sprays: insecticidal soap, neem, pyrethrin,
-   biological controls
-4. Natural predators: [[coleman-beneficial-insects-and-ecological-pest-control]] released to
-   prey on pests
-5. Chemical controls: synthetic pesticides as a last
-   resort
-
-Most insects lay thousands of eggs in short periods. If 100
-mites each lay 1,000 eggs during a two-week lifespan, and those
-eggs mature into adults within weeks, the population can explode
-from 100 to 100 million in a single month. This exponential growth
-is why early detection and immediate response are essential.
-
-## See Also
-
-- [[beer-styles-overview]]
-- [[cervantes-rejuvenation-re-vegging]]
-
-- [[cervantes-biological-pest-control-predators]]
-- [[cervantes-spider-mites-identification-control]]
-- [[cervantes-gray-mold-botrytis-prevention]]
-- [[cervantes-air-quality-ventilation]]

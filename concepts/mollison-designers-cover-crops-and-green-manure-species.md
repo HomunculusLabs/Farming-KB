@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,34 +88,3 @@ Phacelia is an excellent bee forage that also produces good biomass. Sunflower
 roots access deep soil nutrients and the tall plants create wind protection.
 
 ## Climate-Specific Selection
-
-In cold temperate zones, winter-hardy covers (cereal rye, hairy vetch,
-crimson clover) protect soil through freezing conditions and provide early
-spring biomass. In Mediterranean climates, autumn-sown covers grow through
-mild winters and are terminated before summer drought. In tropical zones,
-fast-growing summer covers (cowpea, sunn hemp, sorghum-sudangrass) produce
-multiple crops per year. In arid zones, drought-adapted species (sorghum,
-millet, sweet clover) must be used, with careful timing to match seasonal
-rainfall patterns.
-
-## Timing of Incorporation
-
-Cover crops are terminated at the stage that maximises their benefit to the
-subsequent cash crop. Legumes fix maximum nitrogen during flowering but
-should be terminated before seed set to prevent weediness. Cereal covers are
-easiest to terminate when young and succulent but produce less biomass. The
-balance between [[dighton-fungal-biomass-production-aquatic-ecosystems]] and ease of termination guides timing.
-
-Termination methods include: mowing and surface mulching (preferred in no-till
-systems), roller-crimping (mechanically kills without cutting), shallow
-incorporation with a disc or rotary hoe, and frost-kill for winter-tender
-species. In no-till systems, the terminated cover crop remains on the surface
-as a mulch mat through which the cash crop is direct-drilled.
-
-## Integration into Crop Rotations
-
-Mollison emphasises that cover crops should be planned as integral phases of
-the rotation, not as afterthoughts. A typical temperate vegetable rotation
-might include: winter cover crop, spring vegetables, [[solomon-buckwheat-summer-cover-crop-guide]], autumn
-vegetables. In broadacre systems, ley farming (see [[hamilton-green-manure-crops-and-cover-cropping]]
-- [[mollison-designers-trout-and-cool-water-aquaculture-species]]

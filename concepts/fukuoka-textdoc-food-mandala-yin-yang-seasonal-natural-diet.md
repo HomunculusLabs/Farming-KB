@@ -5,6 +5,7 @@ tags: [fukuoka, natural-diet, yin-yang, seasonal-eating, food-philosophy, japane
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
@@ -86,34 +87,3 @@ Barley, another staple that is slightly more yin than rice, is harvested in the 
 More than thirty years have passed since the days of famine and hunger in Japan following World War II. Today, with bumper crops of grain, rice surpluses have formed and there is no longer enough warehouse space to store all the old grain. Dissatisfied consumers are furious, complaining that the price of rice is too high, that they have no need for bad-tasting rice and want to eat good-tasting rice.
 
 The difference in taste between different varieties is very small. Depending on the land on which it is grown, the method of cultivation, and the weather, poor-tasting varieties may approach tasty varieties in flavor, while tasty rice, when hit by bad weather, is often less palatable than poor-tasting rice.
-
-The chances that a tasty variety of rice will be grown, properly processed, and cooked skillfully to give rice of outstanding taste is not more than one in a thousand. This campaign for tasty rice has placed a great burden on the farmer and forced the housewife to buy high-priced rice without knowing what is going on. The only one likely to benefit from all this is the merchant.
-
-Bitten by the illusion of slightly tasty rice, people today are all floundering about in a sea of mud and toil, placing themselves ever deeper in Fukuoka's debt of gratitude.
-
-## Natural Diet as Foundation for Natural Farming
-
-Natural diet and natural farming are not separate and distinct ideas, but united intimately as one whole. They are one too with natural fishing and animal husbandry. Man's food, clothing, and shelter, and his spiritual existence must all be blended together with nature in perfect harmony.
-
-Natural farming consists of adapting to true nature, that is, nature understood with non-discriminating knowledge. In the same way, a true natural diet is a way of eating where one feeds randomly with an undiscriminating attitude on food taken from the wild, crops grown by natural farming, and fish and shellfish caught using natural methods of fishing.
-
-Agricultural crops which for many thousands of years have merely adapted to the environment and at some point survived through natural selection to become fixtures of human society may be thought of as foods that arose naturally rather than as artificial foods which originated through the application of discriminating knowledge by the farmer. This of course does not apply to crops that have been developed more recently through breeding programs and are considerably alienated from nature.
-
-These, along with artificially bred fish and livestock, should be firmly excluded from the diet. When such artificial foods are eaten, the body loses its natural balance and disease follows. The closer one's food remains to its wild, natural state, the more perfectly it fulfills its nutritional purpose and the less the body suffers from the contradictions of human knowledge.
-
-## The Problem of Modern Food Processing
-
-Modern food processing has severed the connection between food and its source. When food is processed, refined, and preserved using industrial methods, it loses its natural character and becomes a substance that merely resembles food. The vitamins and minerals added back to processed foods after refining are a poor substitute for the complex nutritional matrix that existed in the original whole food.
-
-Processed foods are designed to appeal to the discriminating palate, not to nourish the body. They are engineered to be irresistible, to create cravings, and to drive consumption. In this way, the food industry perpetuates the very cycle of nutritional confusion and dietary imbalance that Fukuoka identified as the root cause of dietary illness.
-
-The natural farmer sees processed food as a symptom of humanity's fundamental alienation from nature. When people eat food that has been divorced from the soil, the seasons, and the local ecosystem, they consume not just nutrition but the philosophy of separation that produced it.
-
-## See Also
-
-- [[fukuoka-seasonal-food-mandala-local-diet]]
-
-- [[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]
-- [[fukuoka-textdoc-diet-of-the-sick-returning-nature]]
-- [[fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]

@@ -88,16 +88,3 @@ The apple guild functions through multiple interconnections:
 
 The basic apple guild pattern can be adapted for other fruit trees:
 - **Pear guild:** Replace with plants suited to pear-specific pests (fire blight resistance)
-- **Stone fruit guild:** Add plants that deter peach borer and plum curculio
-- **Citrus guild:** In warmer climates, use plants that deter citrus leafminer and scale
-
-## See Also
-
-- [[fruit-tree-guild-roles]]
-- [[gaia-garden-plant-guilds]]
-- permaculture-plant-guilds
-- [[permaculture-fruit-tree-guide]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 7: Creating Communities for the Garden

@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Cannabis Cannabinoids: THC, CBD, and Chemistry
 
 Cannabis is the only plant genus that produces a unique class of
-chemical compounds called cannabinoids. With advances in genetic
+[[neurotropic-fungi-chemical-compounds]] called cannabinoids. With advances in genetic
 engineering, it is only a matter of time until cannabinoids may be
 added to other plants. Cannabinoids are ingredients unique to
 cannabis; the psychoactive cannabinoids are responsible for the
@@ -33,7 +34,7 @@ flower tops (buds) of potent marijuana can contain up to 25 percent
 delta-9-THC. In potent varieties of marijuana, perhaps all of the
 mind-bending effects are derived from delta-9-THC.
 
-Delta-8-THC is found in very low concentrations in cannabis. It also
+[[delta-8-thc]] is found in very low concentrations in cannabis. It also
 produces psychoactive effects, but there is so little delta-8-THC in
 most cannabis that researchers, breeders, and growers concentrate on
 the more abundant and potent delta-9-THC. To simplify matters, both
@@ -51,8 +52,8 @@ force of the high is subjective and must be discerned by each smoker.
 
 [[mushroom-cancer-clinical-trials-overview]] have shown that CBD reduces the anxiety provoked by
 THC, and CBD demonstrates antipsychotic effects. CBD is gaining
-recognition for its therapeutic potential in treating epilepsy, pain,
-inflammation, and anxiety disorders.
+recognition for its [[metzner-ayahuasca-therapeutic-potential]] in treating epilepsy, pain,
+inflammation, and [[cannabis-for-anxiety-disorders]].
 
 ## CBN (Cannabinol)
 
@@ -86,26 +87,4 @@ intense. CBC is non-psychoactive on its own and may contribute to the
 
 Dr. Ethan Russo described "endocannabinoid deficiency syndrome" and
 suggested that the administration of THC and CBD corrected for
-deficiencies of either anandamide or CB receptors. The administration
-of THC and CBD seems to kick-start our endocannabinoid system. THC
-stimulates the release of anandamide, and CBD inhibits the breakdown
-of anandamide.
-
-Tolerance and addiction to marijuana is uncommon, in part, because THC
-is a "partial agonist." Agonists are compounds that stimulate
-receptors, and partial agonists can only partially activate receptors.
-Perhaps the best medicines are partial agonists: they steer us away
-from disease, but our innate healing mechanisms are still required to
-restore us to complete health.
-
-## Cannabinoid Potency Factors
-
-The potency and cannabinoid profile of cannabis is influenced by
-genetics, growing conditions, [[cannabis-harvest-timing-visual-cues]], and post-harvest
-handling. See [[cervantes-strain-selection]] guide covers genetic factors affecting
-cannabinoid ratios. For information on how cannabinoids interact with
-terpenoids in the entourage effect, see [[cervantes-drying-buds-methods]] and [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - resin glands that
-  produce and store cannabinoids
-- [[cervantes-flowering-phase]] - cannabinoid production during bloom
-- [[cervantes-hash-making-extracts]] - concentrating cannabinoids
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - proper storage prevents degradation
+deficiencies of either [[anandamide]] or CB receptors. The administration

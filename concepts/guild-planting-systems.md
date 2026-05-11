@@ -1,10 +1,11 @@
 ---
-title: "Guild Planting Systems"
+title: Guild Planting Systems
 created: 2026-04-28
 tags: [permaculture, polyculture, companion-planting, plant-guilds]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -26,7 +27,7 @@ crop in monoculture, a guild stacks multiple functions vertically and
 horizontally. Each member fills a specific niche: some [[query-how-to-fix-nitrogen-toxicity-in-cannabis]],
 others attract pollinators, repel pests, accumulate minerals, or provide
 mulch. The concept draws heavily from observation of natural plant
-communities and traditional indigenous land management. Mollison
+communities and [[traditional-indigenous-use-sacred-fungi]] land management. Mollison
 described guilds as "assemblages of species that yield products and
 services while reducing maintenance inputs." The key insight is that
 well-designed guilds are self-regulating and self-fertilizing.
@@ -54,7 +55,7 @@ Insectary flowers at the edges attract pollinators.
 Mollison outlined several principles for effective [[apple-guild-design-guide]]:
 
 1. **Observe natural patterns**: Study local plant communities and
-   recreate their associations. Forest edge communities are especially
+   recreate their associations. [[forest-edge-windbreak-rainfall-compression]] communities are especially
    productive models.
 2. **Stack functions**: Each element should serve multiple purposes.
    A comfrey plant accumulates minerals, attracts bees, provides mulch,
@@ -71,8 +72,8 @@ Mollison outlined several principles for effective [[apple-guild-design-guide]]:
 
 Guild composition varies significantly by climate. In tropical zones,
 guilds often center on banana, coconut, or breadfruit with understory
-taros, sweet potatoes, and leguminous trees. In temperate regions,
-fruit trees form the backbone with berry bushes, herbs, and ground
+taros, sweet potatoes, and leguminous trees. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]],
+[[comparison-grafting-vs-budding-fruit-trees]] form the backbone with berry bushes, herbs, and ground
 covers filling lower layers. Arid guilds rely heavily on drought-tolerant
 natives and nurse plants that create shade and improve soil.
 
@@ -87,63 +88,3 @@ natives and nurse plants that create shade and improve soil.
 ## Classic Apple-Centric Guild Example
 
 The apple-centered guild is the most widely referenced example in
-permaculture literature, illustrating how multiple species support a
-central productive tree. At the centre stands the apple tree, the
-primary producer. Directly beneath it, comfrey accumulates calcium,
-potassium, and phosphorus from deep subsoil layers, drawing these
-nutrients into its leaves which are regularly cut for nutrient-rich
-mulch. Daffodil bulbs planted around the tree base deter grazing
-animals and suppress grass competition. A nitrogen-fixing shrub such
-as seaberry or goumi planted nearby supplies supplemental nitrogen
-to the guild. Alliums including garlic chives and walking onions
-repel codling moth and apple maggot through their sulphur compounds.
-Attractant plants such as fennel, dill, and yarrow draw parasitic
-wasps that prey on apple pests. A climbing nasturtium provides
-additional [[fukuoka-citrus-orchard-ground-cover-cultivation]] and traps aphids away from the tree. This
-classic arrangement demonstrates how [[fungal-functional-diversity-decomposition]] creates
-a self-maintaining productive system that requires minimal external
-inputs once established.
-
-## Nitrogen Fixation Dynamics in Guilds
-
-Nitrogen fixation is one of the most critical functions in any guild
-system, yet its dynamics are frequently misunderstood. Leguminous
-plants form symbiotic associations with Rhizobium bacteria that convert
-atmospheric nitrogen into ammonium, a plant-available form. However,
-this fixed nitrogen is not automatically shared with neighbouring
-plants. Instead, it becomes available to the wider guild through
-several pathways: root exudation of nitrogen compounds into the
-rhizosphere, decomposition of nitrogen-rich legume root nodules and
-leaf litter, and the action of soil organisms that mineralise organic
-nitrogen into inorganic forms. The effectiveness of nitrogen fixation
-depends on proper Rhizobium inoculation, adequate soil calcium and
-phosphorus levels, and the health of the host plant. In permaculture
-guilds, nitrogen fixers are typically placed at the periphery or in
-the upper canopy where they receive full sun, maximising their
-photosynthetic capacity and thus the energy available for fixation.
-Chop-and-drop management of leguminous biomass cycles nitrogen through
-the guild more rapidly than natural leaf fall alone.
-
-## Guild Establishment and Maintenance
-
-Successful guild establishment follows a phased approach rather than
-attempting to install all components simultaneously. Begin with the
-canopy tree or primary productive element, allowing it to establish
-its root system before adding understory species. During the first
-year, focus on building soil biology through compost applications,
-mulching, and the introduction of nitrogen fixers and dynamic
-accumulators. Insectary plants and pest-repellent species can be
-interplanted in the second year as the canopy begins to cast shade
-that defines the understory microclimate. [[permaculture-plants-food-forest-ground-covers-bamboos]] are
-introduced once the soil surface is adequately protected from
-direct sun. Ongoing maintenance involves seasonal chop-and-drop of
-biomass plants, observation of [[hamilton-pest-and-disease-control-organic]] dynamics, and
-successional replacement of short-lived species. Guilds mature over
-five to ten years, with early successional species gradually giving
-way to more permanent plantings as the system self-organises.
-## See Also
-- [[apple-centered-guild-design]]
-- perennial polycultures
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[permaculture-guild-design]]

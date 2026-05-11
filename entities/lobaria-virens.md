@@ -36,7 +36,7 @@ The thallus is large, 10–25 cm in diameter, with broad, rounded lobes that are
 
 The lower surface is pale tan to light brown with a loosely woven network of simple to branched rhizines. The margin is typically wavy and often uplifted.
 
-Cephalodia are conspicuous, appearing as dark blue-green to black warty protuberances on the upper surface. These contain the *Nostoc* cyanobiont responsible for nitrogen fixation.
+Cephalodia are conspicuous, appearing as dark blue-green to black warty protuberances on the upper surface. These contain the *Nostoc* cyanobiont responsible for [[biological-nitrogen-fixation-agriculture]].
 
 Apothecia are rare but when present, they are lecanorine, 2–8 mm in diameter, with a reddish-brown disc. Soredia and isidia are absent, limiting vegetative dispersal to thallus fragmentation.
 
@@ -44,11 +44,11 @@ Apothecia are rare but when present, they are lecanorine, 2–8 mm in diameter, 
 
 *Lobaria virens* occurs primarily in western and central Europe, from the British Isles and Scandinavia to the Iberian Peninsula and the Alps. It is particularly abundant in the Atlantic oak woodlands of western Scotland, Wales, and Ireland.
 
-In North America, the species is rare, with scattered records in the Appalachian Mountains and the Pacific Northwest. The American populations have sometimes been treated as a separate taxon.
+In [[guzman-psilocybin-mushrooms-north-america]], the species is rare, with scattered records in the Appalachian Mountains and the [[psilocybin-north-america-pacific-northwest]]. The American populations have sometimes been treated as a separate taxon.
 
 European populations show a strong oceanic distribution pattern, with highest abundance in areas receiving over 1,500 mm annual precipitation. Continental populations are restricted to fog-prone montane valleys and ravine forests.
 
-The species grows on the bark of mature deciduous trees, especially oak (*Quercus* spp.), ash (*Fraxinus excelsior*), hazel (*Corylus avellana*), and maple (*Acer* spp.). It prefers trunks with moderately acidic bark in sheltered, humid microsites.
+The species grows on the bark of mature deciduous trees, especially oak (*Quercus* spp.), ash (*Fraxinus excelsior*), hazel (*[[corylus-avellana]]*), and maple (*Acer* spp.). It prefers trunks with moderately acidic bark in sheltered, humid microsites.
 
 Elevation ranges from sea level to approximately 1,500 meters. It is most common in old-growth forests with high canopy continuity, minimal air pollution, and stable microclimatic conditions.
 
@@ -60,7 +60,7 @@ The species is highly sensitive to air pollution, particularly sulfur dioxide an
 
 *L. virens* is considered an indicator of forest continuity and ecological integrity. Its presence in a woodland typically indicates centuries of undisturbed habitat with stable humidity and air quality.
 
-Conservation status varies by region. It is listed as threatened or near-threatened in several European countries, including Germany, Switzerland, and the Netherlands. In the British Isles, it is protected under biodiversity legislation in Scotland and Wales.
+[[fungal-biodiversity-conservation-status]] varies by region. It is listed as threatened or near-threatened in several European countries, including Germany, Switzerland, and the Netherlands. In the British Isles, it is protected under biodiversity legislation in Scotland and Wales.
 
 The lichen supports diverse microfaunal communities, including tardigrades, nematodes, and mites. These invertebrate populations contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen thallus and surrounding bark microhabitat.
 
@@ -76,7 +76,7 @@ In traditional medicine, preparations of *Lobaria* were applied as poultices for
 
 The species has no significant modern economic uses. Its primary value is ecological, as a nitrogen fixer and bioindicator of old-growth forest health.
 
-Reproduction occurs primarily through thallus fragmentation, as soredia and isidia are absent. Sexual reproduction via apothecia produces ascospores, but these require simultaneous contact with both compatible algal and cyanobacterial partners.
+Reproduction occurs primarily through thallus fragmentation, as soredia and isidia are absent. [[basidiomycete-mating-systems-sexual-reproduction]] via apothecia produces ascospores, but these require simultaneous contact with both compatible algal and cyanobacterial partners.
 
 Establishment from ascospores is considered rare in nature. The dual-symbiont requirement imposes a significant bottleneck on sexual recruitment, making established populations slow to recover from disturbance.
 
@@ -87,21 +87,3 @@ Nitrogen fixation rates in *L. virens* cephalodia have been measured at 1.5–4.
 ## Related Species
 
 *Lobaria virens* is part of the *L. pulmonaria* species complex and is most closely related to *L. pulmonaria*. It differs in its brighter green color when wet, more pronounced cephalodia, and absence of a reticulate pattern on the lower surface.
-
-From *L. pulmonaria*, it is separated by the K+ red medulla reaction (stictic acid present) versus the K− to K+ pale yellow reaction in *L. pulmonaria* (which contains gyrophoric acid as the major medullary compound).
-
-*L. scrobiculata* is another similar species, distinguished by its larger, more conspicuous cephalodia and strongly ridged lower surface with raised reticulations. *L. virens* has a smoother lower surface and less prominent cephalodia.
-
-The genus *Lobaria* underwent significant taxonomic revision in the early 2000s. Molecular phylogenetic studies confirmed that *L. virens* forms a well-supported clade with *L. pulmonaria* and *L. scrobiculata* within the Lobariaceae.
-
-In herbarium practice, *L. virens* is sometimes confused with well-hydrated specimens of *L. pulmonaria*. Careful examination of medullary spot test reactions and cephalodium morphology is required for reliable identification.
-
-## See Also
-
-- [[lobaria-pulmonaria]]
-- [[peltigera-membranacea]]
-- [[cladonia-portentosa]]
-- [[hypogymnia-tubulosa]]
-- [[usnea-florida]]
-- [[flavoparmelia-caperata]]
-- [[lecanora-muralis]]

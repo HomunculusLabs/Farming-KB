@@ -5,6 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Swale Design
@@ -86,11 +87,3 @@ Sediment accumulation in swale bottoms gradually reduces infiltration capacity. 
 [[permaculture-earthworks-and-water-harvesting]]
 
 [[keyline-design]]
-
-permaculture-dam-design
-
-[[permaculture-climate-strategies]]
-
-## Related
-
-- [[mollison-soil-erosion-control]]

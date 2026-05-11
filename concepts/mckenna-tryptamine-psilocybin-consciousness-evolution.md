@@ -87,13 +87,3 @@ McKenna notes that psilocybin mushroom use was historically confined to the cent
 McKenna reports that the mushroom is "full of answers to the questions raised by its own presence." One can access "images of cosmological history" spanning the last four and a half billion years. Such experiences raised questions of independent validation, but as McKenna became more familiar with "the epistemological assumptions of modern science," he "slowly realized that the structure of the Western intellectual enterprise is so flimsy at the center that apparently no one knows anything with certitude." This made him "less reluctant to talk about these experiences," arguing that "they are experiences, and as such they are primary data for being."
 
 ## Without Psychedelics: The Limits of Modern Access
-
-McKenna argues that in the absence of psychedelic compounds, "the closest we can get to the Mystery is to try to feel in some abstract mode the power of myth or ritual." This approach, he says, is "a very overintellectualized and unsatisfying sort of process." The implication is that intellectual understanding of religious and mystical traditions, however thorough, cannot substitute for the direct experiential knowledge that tryptamines provide. The mushroom offers not a theory about reality but a direct encounter with it.
-
-## See Also
-
-- [[mckenna-roland-fischer-psilocybin-visual-acuity]]
-
-- [[mckenna-archaic-revival]]
-- [[psilocybin-mushroom-distribution-worldwide]]
-- [[bufotenin]]

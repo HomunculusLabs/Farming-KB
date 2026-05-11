@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Musculoskeletal Conditions
 
-Musculoskeletal conditions including arthritis, fibromyalgia, and related disorders are among the most common reasons patients seek medical cannabis. The [[blesching-cannabis-health-index-autoimmune-conditions]] provides evidence for cannabis across multiple musculoskeletal conditions, with pain relief, anti-inflammatory action, and spasm reduction being the primary therapeutic mechanisms.
+Musculoskeletal conditions including arthritis, fibromyalgia, and related disorders are among the most common reasons patients seek medical cannabis. The [[blesching-cannabis-health-index-autoimmune-conditions]] provides evidence for cannabis across multiple musculoskeletal conditions, with pain relief, anti-inflammatory action, and spasm reduction being the primary [[cannabidiol-therapeutic-mechanisms]].
 
 ## Arthritis (Osteoarthritis)
 
@@ -19,7 +19,7 @@ Osteoarthritis is the most common form of arthritis, affecting millions worldwid
 
 ### Evidence Base
 - Meta-analysis (2009, University of Massachusetts Medical School) confirmed that all types of cannabinoids (endogenous, plant-based, and synthetic) effectively reduce pain from inflammation in rheumatism and chronic neuropathic pain
-- Laboratory studies (2006, Boston) suggested therapeutic potential of cannabinoids on inflammatory diseases
+- Laboratory studies (2006, Boston) suggested [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on [[blesching-cannabis-inflammatory-diseases]]
 - CB2 receptors in joint tissue mediate anti-inflammatory effects
 
 ### Mechanism of Action
@@ -59,7 +59,7 @@ Research links fibromyalgia to early life stress affecting brain modulatory circ
 ## Muscle Spasms and Cramps
 
 Cannabis's antispasmodic properties are relevant for:
-- **Multiple sclerosis**: Cannabis reduces spasticity significantly (26+ studies)
+- **[[blesching-cannabis-multiple-sclerosis]]**: Cannabis reduces spasticity significantly (26+ studies)
 - **[[blesching-cannabis-spinal-cord-injuries]] injury**: May reduce spasticity below the level of injury
 - **Menstrual cramps**: Historical and clinical use for dysmenorrhea
 - **Exercise-induced cramps**: Anecdotal reports of relief
@@ -73,7 +73,7 @@ CB1 receptors in the spinal cord and peripheral nervous system modulate muscle t
 CB2 receptors are present in bone tissue and play a role in bone metabolism. The endocannabinoid system influences:
 - **Bone formation**: CB2 activation may promote osteoblast (bone-building cell) activity
 - **Bone resorption**: May reduce osteoclast (bone-removing cell) activity
-- **Fracture healing**: Emerging evidence suggests cannabinoids may support bone repair
+- **[[blesching-cannabis-bone-fracture-healing]]**: Emerging evidence suggests cannabinoids may support bone repair
 
 While clinical evidence is limited, the presence of CB2 receptors in bone tissue provides a strong rationale for further research into cannabis for bone health.
 
@@ -82,30 +82,9 @@ While clinical evidence is limited, the presence of CB2 receptors in bone tissue
 Topical cannabis preparations are particularly valuable for musculoskeletal conditions:
 - **Localized delivery**: Direct application to affected joints or muscles
 - **Minimal systemic effects**: No psychoactive impact from properly formulated topicals
-- **Combination therapy**: Can be used alongside oral or inhaled cannabis
+- **[[lentinan-gastric-cancer-combination-therapy]]**: Can be used alongside oral or inhaled cannabis
 - **Reduced [[cannabis-drug-interactions-and-contraindications]]**: Minimal systemic absorption means fewer pharmaceutical interactions
 
 ### Recommended Topical Applications
 - Cannabis-infused balms and salves for arthritic joints
 - Massage oils containing cannabinoids for muscle pain
-- Patches for sustained delivery to specific areas
-- CBD-dominant topicals for daytime use without cognitive effects
-
-## Exercise and Recovery
-
-Cannabis may support musculoskeletal health in active individuals:
-- **Post-exercise inflammation**: Anti-inflammatory properties may reduce delayed-onset muscle soreness
-- **Recovery**: May improve sleep quality for better recovery
-- **[[cannabis-pain-management-protocols]]**: Alternative to NSAIDs, which carry gastrointestinal and [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] with chronic use
-
-## Dosing Considerations
-
-- Chronic conditions benefit from consistent dosing schedules rather than as-needed use
-- Indica strains (lower THC:CBD ratio) may be preferred for nighttime use due to sedative effects
-- Sativa or balanced strains may be preferred for daytime use to maintain function
-- Topical applications can supplement systemic cannabis without increasing psychoactive burden
-- Start low and titrate slowly, especially in opioid-dependent patients
-
-See also: [[cannabis-anti-inflammatory-applications]], [[cannabis-dosing-guidelines-by-condition]]
-- [[blesching-cannabis-neuropathic-pain]]
-- mushroom-cytokine-production-immune-activation

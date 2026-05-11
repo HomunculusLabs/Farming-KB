@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, stropharia, mycofiltration]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # King Stropharia (Stropharia rugoso-annulata) Permaculture and Mycofiltration #mycoremediation #mushroom-cultivation #mycofiltration #permaculture #outdoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Chapters 5, 21, 22 ## Overview Stropharia rugoso-annulata, the Wine Cap or Garden Giant, is a large, robust mushroom central to Stamets' permaculture vision. It grows to 5+ lbs per specimen under optimal conditions. This species is the primary organism recommended for king-stropharia-wine-cap-cultivation, [[wine-cap-mushroom-cultivation]], wine cap stropharia cultivation.
@@ -87,14 +88,3 @@ Grows naturally on both hardwoods and softwoods. Notable conifer species: firs (
 
 King Stropharia is the final stage in Stamets' recommended species sequencing strategy:
 - Stage 1: [[cotter-oyster-mushroom-cultivation]] (partial decomposition, no amendment)
-- Stage 3: King Oyster or [[stamets-species-sequencing-recycling-substrates]] for full details.
-
-## Ecological Role
-
-King Stropharia occupies a unique ecological niche as a bacterially-dependent decomposer that bridges the gap between primary wood decomposers and soil-building organisms. Its ability to filter pathogens while building soil makes it invaluable for permaculture systems, permaculture-designers-manual-wetland-treatment.
-
-## See Also
-
-- [[king-stropharia-ecological-interactions-permaculture]]
-
-- [[stropharia-venenata-japanese-bluing-species]]

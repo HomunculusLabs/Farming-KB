@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Tuli, H.S. et al. (2013). \"Cordycepin: A compound with therapeutic potential.\" Life Sciences, 93(23), 863-869."
+  - "Tuli, H.S. et al. (2013). \"Cordycepin: A compound with metzner-ayahuasca-therapeutic-potential.\" Life Sciences, 93(23), 863-869."
   - "Wang, Y. et al. (2016). \"Cordycepin: Pharmacological activities and underlying mechanisms.\" Frontiers in Pharmacology, 7, 492."
   - "Yoshikawa, N. et al. (2004). \"Cordycepin (3'-deoxyadenosine) inhibits the growth of B16-BL6 mouse melanoma cells through the stimulation of adenosine A3 receptor.\" Cancer Chemotherapy and Pharmacology, 54(3), 229-234."
   - "Winterhoff, H. et al. (1996). \"Cordycepin, a constituent of Cordyceps, its chemical and pharmacological properties.\" Phytomedicine, 2(3), 221-230."
@@ -22,11 +22,11 @@ sources:
 
 ## Overview
 
-Cordycepin is a nucleoside analogue structurally similar to adenosine, distinguished by the absence of a hydroxyl group at the 3′ position of the ribose ring (3′-deoxyadenosine). First isolated from *Cordyceps militaris* in 1950 by Cunningham and colleagues, it is the signature bioactive compound of the Cordyceps genus and one of the most pharmacologically significant fungal metabolites.
+Cordycepin is a nucleoside analogue structurally similar to adenosine, distinguished by the absence of a hydroxyl group at the 3′ position of the ribose ring (3′-deoxyadenosine). First isolated from *[[cordyceps-militaris]]* in 1950 by Cunningham and colleagues, it is the signature bioactive compound of the Cordyceps genus and one of the most pharmacologically significant fungal metabolites.
 
 Cordycepin exhibits broad biological activity including anticancer, immunomodulatory, anti-inflammatory, and antiviral properties. Its structural resemblance to adenosine allows it to interfere with nucleic acid synthesis and [[fungal-environmental-sensing-signal-transduction-read]] pathways, making it a molecule of sustained interest in pharmacology and natural products chemistry.
 
-The compound has been investigated in over 3,000 published studies and is currently the subject of clinical trials in oncology. Unlike many fungal metabolites, cordycepin has a well-characterized mechanism of action anchored in its nucleoside mimicry.
+The compound has been investigated in over 3,000 published studies and is currently the subject of [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in oncology. Unlike many fungal metabolites, cordycepin has a well-characterized mechanism of action anchored in its nucleoside mimicry.
 
 ## Chemical Identity
 
@@ -44,7 +44,7 @@ The compound has been investigated in over 3,000 published studies and is curren
 Cordycepin is biosynthesized via the purine nucleotide pathway in fungi.
 
 - **Primary producer:** *Cordyceps militaris* (fruiting bodies and mycelium)
-- **Secondary source:** *Cordyceps sinensis* (trace amounts in natural specimens)
+- **Secondary source:** *[[cordyceps-sinensis]]* (trace amounts in natural specimens)
 - **Other sources:** *Isaria sinclairii*, *Aspergillus nidulans* ([[singh-genetically-engineered-fungi-bioremediation]] strains)
 - **Biosynthetic pathway:** Derived from adenosine monophosphate (AMP) via 3′-deoxy-AMP intermediate, catalyzed by cordycepin synthase (Cns1/Cns2)
 - **Culture accumulation:** Mycelial fermentation of *C. militaris* produces 0.5–4.0 g/L depending on strain and conditions
@@ -86,34 +86,5 @@ Cordycepin modulates both innate and adaptive immune responses.
 
 ## Antimicrobial and Antiviral Activity
 
-- **Antibacterial:** Inhibits *Bacillus subtilis*, *Staphylococcus aureus*, and *Escherichia coli* at MIC values of 50–200 µg/mL
+- **Antibacterial:** Inhibits *[[bacillus-subtilis]]*, *[[staphylococcus-aureus]]*, and *Escherichia coli* at MIC values of 50–200 µg/mL
 - **Antifungal:** Activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* reported
-- **Antiviral:** Inhibits replication of influenza virus, Epstein-Barr virus, and HIV through interference with viral RNA synthesis and processing
-
-## Pharmacokinetics and Bioavailability
-
-- **Absorption:** Oral bioavailability is limited (~15–25%) due to rapid first-pass metabolism
-- **Distribution:** Crosses the blood-brain barrier; detected in brain tissue after systemic administration
-- **Metabolism:** Rapidly deaminated to 3′-deoxyinosine by adenosine deaminase (ADA); this is the primary metabolic inactivation pathway
-- **Elimination:** Renal excretion of parent compound and metabolites; plasma half-life approximately 1–2 hours
-- **ADA inhibition strategy:** Co-administration with pentostatin extends half-life to 4–6 hours and significantly increases plasma AUC
-
-## Occurrence in Cordyceps Products
-
-- **Wild *C. sinensis*:** Cordycepin content typically 0.01–0.1% dry weight; highly variable
-- **Cultivated *C. militaris*:** 0.3–1.5% dry weight in fruiting bodies; higher in solid-state fermented mycelium (up to 3%)
-- **CS-4 mycelial fermentation:** Commercial products contain variable amounts; quality control via HPLC is essential
-- **Standardization:** Reputable supplements specify cordycepin content (typically 0.5–1.0%)
-- **Extraction:** Hot water extraction recovers cordycepin efficiently; ethanol extraction is less effective for this polar nucleoside
-
-## Toxicity and Safety Profile
-
-- **LD₅₀:** >4 g/kg (oral, mouse) — classified as low toxicity
-- **[[blesching-cannabis-safety-adverse-effects-evidence]]:** Mild gastrointestinal disturbance at high oral doses; transient hypotension at high i.v. doses due to adenosine receptor activation
-- **Drug interactions:** Potential additive effects with adenosine [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] and nucleoside analogues used in chemotherapy
-- **Contraindications:** Caution in patients on immunosuppressive therapy or anticoagulant medications
-
-## See Also
-- [[cordyceps-sinensis]]
-- [[ergothioneine]]
-- [[cordyceps-cancer-bioactive-compounds]]

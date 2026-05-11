@@ -88,33 +88,3 @@ Applying too much water pushes moisture below the root zone through gravity, car
 Water thoroughly but infrequently. Each irrigation should wet the soil to the full depth of the root zone. Then allow time for the plants to draw down the moisture through transpiration before irrigating again. This pattern encourages deep root growth and minimizes nutrient leaching.
 
 ## Plow Pans and Capillary Interruption
-
-A plow pan is a compacted layer of soil created by repeated plowing or rototilling at the same depth. The metal implement's bottom (or "sole") slides across the soil at a consistent depth, compressing it into a hard, impermeable layer. This layer blocks both root penetration and the upward movement of water through capillary action.
-
-Solomon considers plow pans one of the most serious but underappreciated problems in agriculture and gardening. A vegetable that ideally develops a root system four feet deep may be largely restricted to the top seven inches by a plow pan. The capillary moisture from the deep subsoil cannot reach the root zone, making the crop entirely dependent on rainfall and irrigation.
-
-The only remedy for a plow pan is to break through it with a spade or digging fork. Rototilling will not eliminate an existing plow pan — in fact, repeated rototilling creates one at the depth of the tine tips. Hand-digging with a spade, working to a full foot depth, is the only reliable way to restore capillary continuity through the entire soil profile.
-
-## Measuring Soil Moisture
-
-Solomon advocates learning to assess soil moisture by feel and observation rather than relying on instruments. The most reliable method is to dig a small hole and examine the soil profile:
-
-1. **Surface layer**: Dries fastest due to sun and wind exposure
-2. **Root zone**: Should remain consistently moist (not wet, not dry) for active growth
-3. **Subsoil**: Below the root zone, should be damp but not saturated
-
-A handful of soil squeezed in the fist provides immediate information: if it forms a ball that crumbles when poked, moisture is about right. If it won't form a ball, it is too dry. If water drips from the fist, it is too wet.
-
-Solomon also describes the "shiny surface" test used in sprinkler irrigation: when water is applied faster than the soil can absorb it, the surface develops a shiny, wet sheen. As the soil below becomes saturated, the shine persists longer after the water is turned off. When the shine lasts 10 or more seconds, the topsoil has reached field capacity and watering should stop. However, this test primarily indicates surface saturation and does not reveal how deeply the moisture has penetrated — only digging a test hole confirms that.
-
-## Capillary Rise and Soil Layers
-
-Different soil layers conduct water at different rates. A coarse sand layer overlying a finer clay layer creates a capillary break — water moves quickly through the sand but cannot easily cross into the finer pores of the clay below. Conversely, a fine-textured layer over a coarse layer conducts water efficiently until it reaches the interface, where the larger pores of the coarse layer below cannot pull the water downward by capillary action alone.
-
-This is why Solomon emphasizes the importance of working soil to a consistent texture throughout the root zone. Sharp transitions between soil layers (such as a plow pan or a buried layer of compacted subsoil) interrupt capillary continuity and create barriers to both water movement and root penetration.
-
-## Related Concepts
-
-- [[jeavons-water-management-irrigation]]
-- [[comparison-xeriscaping-vs-drought-gardening]]
-- [[seed-germination-techniques-solomon]]

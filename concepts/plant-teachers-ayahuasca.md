@@ -1,5 +1,5 @@
 ---
-title: Plant Teachers in mckenna-food-gods-amazonian-shamanism-ayahuasca
+title: Plant Teachers Ayahuasca
 created: 2026-04-28
 tags:
   - amazonian-shamanism
@@ -17,7 +17,7 @@ type: concept
 # Plant Teachers (Doctores) in Amazonian Shamanism
 
 In Amazonian vegetalismo, every plant is understood to possess a spirit --
-a conscious, living essence that sees everything. As Pablo Amaringo states:
+a conscious, living essence that sees everything. As [[pablo-amaringo]] states:
 "Every tree, every plant, has a spirit. People may say that the plant has
 no mind. I tell them that the plant is alive and conscious. A plant may
 not talk, but there is a spirit in it that is conscious, that sees
@@ -36,7 +36,7 @@ sorcery, and the nature of reality.
 
 ## Ayahuasca as the Primary Plant-Teacher
 
-ayahuasca-preparation|Ayahuasca (Banisteriopsis caapi) is the supreme
+[[ayahuasca-preparation]]|Ayahuasca ([[ayahuasca-and-banisteriopsis-caapi]]) is the supreme
 plant-teacher. According to Amaringo's vision of its origin, the vine grew
 from the hair of a defeated Shins king named Sinchihuyacui, who appeared
 to his widow Queen Ganmacuina in a dream and instructed her to take
@@ -47,7 +47,7 @@ harps and quenas."
 
 ## Chacruna as the Complementary Teacher
 
-Chacruna (Psychotria viridis) is the essential companion to ayahuasca. In
+Chacruna ([[chacruna-psychotria-viridis]]) is the essential companion to ayahuasca. In
 visions, the ayahuasca vine appears as a black snake with yellow, orange,
 and blue spots, while chacruna manifests as a bright, luminous serpent.
 The chacruna serpent penetrates the ayahuasca serpent, producing the
@@ -63,7 +63,7 @@ Plant-teachers communicate through several channels:
   where spirits of plants appear and teach directly
 - **Dreams**: Plants such as renaquilla (Ficus sp.) send their spirit
   mothers to teach healers in their dreams
-- **Icaros**: Each plant possesses its own [[mariri-phantom-sorcery]]
+- **[[icaros]]**: Each plant possesses its own [[mariri-phantom-sorcery]]
 extracted from poisonous animals.
 
 ## The Campa Indians as Masters of Plant Knowledge
@@ -88,12 +88,3 @@ of the visionary experience.
 ## The Science of Vegetalismo
 
 The accumulated knowledge from plant-teachers constitutes what Amaringo
-calls the ciencia vegetalista or aiquimia palistica (plant alchemy). This
-science encompasses healing, sorcery, divination, and the ability to
-travel to other worlds. One can only become a good vegetalista by keeping
-a diet or fasting for years, gradually ascending through the three
-degrees: muraya, sumi, and [[entheogenic-ceremony]]
-
-- [[spirit-mothers-of-plants]] -- The guardian spirits of individual plants
-- [[icaros-power-songs]] -- Songs taught by the plant spirits
-- [[banco-sumiruna-muraya]] -- The hierarchy of vegetalista practitioners

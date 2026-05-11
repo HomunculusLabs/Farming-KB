@@ -1,5 +1,5 @@
 ---
-title: Cannabis clarke marijuana botany terpene biosynthesis aromatic profiles and Aromatic Profiles
+title: [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]] Aromatic Profiles
 created: 2026-04-28
 tags: [cannabis, terpenes, botany, aroma, breeding, clarke]
 date: 2026-04-25
@@ -26,7 +26,7 @@ calyxes and subtending leaflets. When a floral cluster is squeezed, the
 resinous heads of glandular trichomes rupture and the aromatic terpenes
 are exposed to the air. This mechanical release of aromatic compounds is
 the basis for the characteristic scent that cultivators and consumers
-associate with different Cannabis strains.
+associate with different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].
 
 The relationship between terpenes and the sensory experience of Cannabis
 extends across three distinct modes of perception. The first is the
@@ -76,7 +76,7 @@ plant matures.
 
 ## Sampling and Evaluating Aroma
 
-Clarke provides a systematic methodology for sampling Cannabis aromas
+Clarke provides a systematic methodology for [[post-harvest-vs-pre-harvest-sampling-cannabis-endorhiza]] aromas
 during breeding operations. Aromas of fresh or dried clusters are sampled
 and compared in a way that separates them to avoid confusion. Each
 sample is placed in the corner of a twice-folded, labeled piece of
@@ -88,48 +88,3 @@ resins will adhere to the fingers and bias further sampling.
 
 Taste is sampled by loosely rolling dried floral clusters in a cigarette
 paper and inhaling to draw a taste across the tongue. Samples should be
-approximately the same size for fair comparison. Orally ingested Cannabis
-generally tastes bitter due to the vegetative plant tissues, but the
-resin is characteristically spicy and hot, somewhat like cinnamon or
-pepper.
-
-## Genetic Complexity of Aroma Breeding
-
-The genetic control of aroma in Cannabis is remarkably complex, comparable
-to the challenges faced by breeders of perfume roses. Each strain has
-several characteristic aromas, and these are occasionally transmitted to
-hybrid offspring such that they resemble one or both parents in aroma.
-However, breeders frequently complain that their strain has lost the
-desired aromatic characteristics of the parental strains.
-
-Fixed hybrid strains will develop a characteristic aroma that is
-hereditary and often true-breeding. The cultivator with preservation of
-a particular aroma as a goal can clone the individual with a desired
-aroma in addition to breeding it. This dual strategy provides insurance
-in case the aroma is lost in the offspring by segregation and
-recombination of genes. The interplay between terpene biosynthesis and
-cannabinoid production remains one of the most promising frontiers in
-[[oner-cannabis-breeding-fundamentals]] science.
-
-## Persistence and Shelf Life Considerations
-
-Cannabis resins deteriorate as they age, and the aromatic principles and
-cannabinoids [[query-can-fungi-break-down-plastic-pollution]] slowly until they are hardly noticeable. Since
-fresh Cannabis is only available once a year in temperate regions, an
-important breeding goal has been a strain that keeps well when packaged.
-Packageability and shelf life are important considerations in the
-breeding of fresh fruit species and will prove equally important if
-trade in Cannabis develops after legalization.
-
-[[cannabis-terpene-profiles-sativa]] thus serve as both a sensory pleasure and a scientific
-tool. Their biosynthetic connections to cannabinoids, their genetic
-complexity, and their role in the overall psychoactive experience make
-them an essential consideration for any serious Cannabis [[cervantes-breeding-program-design-goal-setting]].
-The study of terpenes bridges the gap between the chemistry of the plant
-and the subjective experience of the consumer.
-
-## See Also
-
-- [[clarke-marijuana-botany-trichome-biology]]
-- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
-- [[clarke-marijuana-botany-flowering-and-photoperiodism]]

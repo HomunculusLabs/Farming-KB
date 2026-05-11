@@ -33,13 +33,13 @@ created: 2026-04-28
 | Double Bond Position | C-8 (between C-8 and C-9) |
 | Stereochemistry | (−)-trans-Δ⁸-THC |
 
-The critical structural distinction from Δ⁹-THC is the location of the double bond in the cyclohexene ring. In Δ⁹-THC, the double bond is between C-9 and C-10, while in Δ⁸-THC it is between C-8 and C-9. This shift from a terminal to an internal double bond alters the molecule's three-dimensional conformation and its affinity for cannabinoid receptors.
+The critical structural distinction from Δ⁹-THC is the location of the double bond in the cyclohexene ring. In Δ⁹-THC, the double bond is between C-9 and C-10, while in Δ⁸-THC it is between C-8 and C-9. This shift from a terminal to an internal double bond alters the molecule's three-dimensional conformation and its affinity for [[cannabinoid-receptors-cb1-and-cb2]].
 
 ### Biosynthesis
 
 Δ⁸-THC is not a primary biosynthetic product of the cannabis plant. It occurs in trace amounts (typically < 1% of total cannabinoid content) as a degradation product or through isomerization of Δ⁹-THC under certain conditions. The primary biosynthetic pathway produces Δ⁹-THC via:
 
-1. **CBGA** (cannabigerolic acid) → **THCA** (tetrahydrocannabinolic acid) via THCA synthase
+1. **CBGA** ([[cannabigerolic-acid-cbga]]) → **THCA** ([[tetrahydrocannabinolic-acid-thca]]) via THCA synthase
 2. **THCA** → **Δ⁹-THC** via decarboxylation (heat, light, or aging)
 3. **Δ⁹-THC** → **Δ⁸-THC** via acid-catalyzed isomerization (naturally occurs slowly over time)
 
@@ -64,12 +64,12 @@ Users consistently report a qualitative difference between Δ⁸-THC and Δ⁹-T
 - **Reduced anxiety**: Lower incidence of paranoia and anxious reactions
 - **Body-focused**: More pronounced physical relaxation with less cerebral intensity
 - **Duration**: Slightly shorter duration of effects (2–4 hours vs. 3–6 hours for Δ⁹-THC)
-- **Appetite stimulation**: Comparable or slightly reduced munchies effect
+- **[[cannabis-for-cachexia-and-appetite-stimulation]]**: Comparable or slightly reduced munchies effect
 - **Sedation**: More sedating at higher doses, with a "couch-lock" quality
 
 ### Therapeutic Potential
 
-Research into Δ⁸-THC's therapeutic applications is in early stages but promising:
+Research into Δ⁸-THC's [[psilocybin-therapeutic-applications]] is in early stages but promising:
 
 - **Anti-emetic**: A 1995 clinical study by Abrahamov et al. demonstrated Δ⁸-THC's efficacy in reducing chemotherapy-induced nausea in pediatric oncology patients, with minimal psychoactive side effects
 - **Appetite stimulation**: Animal studies show appetite-enhancing effects comparable to Δ⁹-THC
@@ -88,36 +88,3 @@ Natural Δ⁸-THC is present in cannabis at concentrations too low (typically < 
 The vast majority of commercial Δ⁸-THC is produced through **chemical isomerization** of CBD (cannabidiol) derived from legal hemp:
 
 1. **CBD isolation**: CBD is extracted from hemp biomass (legal under the 2018 U.S. Farm Bill if THC < 0.3%)
-2. **Isomerization**: CBD is dissolved in an organic solvent and treated with a strong acid catalyst (typically p-toluenesulfonic acid or Lewis acids like boron trifluoride) under controlled conditions
-3. **Purification**: The crude reaction mixture undergoes chromatographic purification to isolate Δ⁸-THC from residual CBD, Δ⁹-THC, and byproducts
-4. **Formulation**: Purified Δ⁸-THC is formulated into gummies, vapes, tinctures, and other consumer products
-
-### Quality and Safety Concerns
-
-The semi-synthetic [[directed-inoculum-production-process-for-amf]] raises significant safety concerns:
-
-- **Residual solvents**: Improper purification can leave hazardous solvent residues
-- **Acid catalysts**: Incomplete removal of acidic catalysts poses health risks
-- **Byproducts**: Isomerization produces Δ⁹-THC, Δ¹⁰-THC, and other isomers; product testing frequently shows Δ⁹-THC levels exceeding legal hemp thresholds
-- **Lack of standardization**: The largely unregulated market has inconsistent dosing and purity
-- **Contamination**: Some products have been found to contain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], pesticides, and cutting agents
-
-## Legal Status
-
-The legal status of Δ⁸-THC exists in a complex and rapidly evolving gray area:
-
-- **Federal ([[dmt-containing-plants-united-states-halpern]])**: The 2018 Farm Bill legalized hemp and its derivatives, including cannabinoids like CBD. Since Δ⁸-THC can be synthesized from hemp-derived CBD, it was initially argued to be legal. The DEA's 2020 Interim Final Rule stated that "synthetically derived tetrahydrocannabinols" remain Schedule I, but the status of hemp-derived isomers remains contested in courts.
-- **State level**: As of 2026, over 20 U.S. states have explicitly banned or restricted Δ⁸-THC products, while others allow their sale with varying regulations on age, testing, and labeling.
-- **International**: Most countries classify Δ⁸-THC as a controlled substance alongside Δ⁹-THC under their respective drug scheduling conventions.
-
-## Market and Cultural Impact
-
-The Δ⁸-THC market exploded in 2020–2022, driven by a regulatory loophole that allowed psychoactive cannabis products in states where Δ⁹-THC remained illegal. At peak market penetration (2022), Δ⁸-THC products generated an estimated $2–4 billion in annual U.S. retail sales.
-
-The market has since contracted due to regulatory crackdowns, product quality scandals, and the expansion of legal Δ⁹-THC markets. However, Δ⁸-THC remains popular as a more affordable, more accessible, and milder alternative to traditional cannabis products.
-
-## See Also
-
-- [[cannabidiol-cbd]] — CBD, the primary precursor for Δ⁸-THC synthesis
-- [[tetrahydrocannabiphorol-thcp]] — A recently discovered cannabinoid with higher CB1 affinity than Δ⁹-THC
-- hexahydrocannabinol hhc — A hydrogenated cannabinoid derivative

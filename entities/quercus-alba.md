@@ -12,13 +12,13 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
-  - Abrams, M.D. (1996). "Distribution, historical development and ecophysiological attributes of oak species in the eastern United States." Annals of Forest Science, 53(2-3), 487-512.
+  - Abrams, M.D. (1996). "Distribution, historical development and ecophysiological attributes of oak species in the eastern [[dmt-containing-plants-united-states-halpern]]." Annals of Forest Science, 53(2-3), 487-512.
   - Nixon, K.C. (1993). "Infrageneric classification of Quercus (Fagaceae) and typification of sectional names." Annales des Sciences Forestières, 50(S1), 25-34.
 ---
 
 ## Overview
 
-**Quercus alba**, commonly known as white oak, is a large deciduous tree native to eastern and central North America.
+**Quercus alba**, commonly known as white oak, is a large deciduous tree native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
 
 It is one of the most important timber species in the eastern United States, prized for its strong, durable heartwood and distinctive pale color.
 
@@ -42,7 +42,7 @@ Leaf color in autumn ranges from dull brown and purplish-red to rich wine-red, w
 
 **Acorns:** Oval to ellipsoidal, 1.5–2.5 cm long, enclosed approximately one-quarter to one-third by the cap (cupule). Cup scales are warty and tuberculate.
 
-Acorns mature in a single growing season (unlike red oaks, which require two years), dropping from September through November.
+Acorns mature in a single [[extending-growing-season]] (unlike red oaks, which require two years), dropping from September through November.
 
 **Wood:** Heartwood is light to medium brown, often with an olive cast. Sapwood is narrow and lighter. The grain is straight with a coarse, uneven texture.
 
@@ -76,7 +76,7 @@ These caterpillars in turn serve as the primary food source for nesting songbird
 
 White oak cavities, whether formed through heart rot or branch breakage, provide critical denning habitat for bats, squirrels, wood ducks, and various cavity-nesting birds.
 
-Mycorrhizal associations with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are essential for [[plant-nutrient-uptake-mechanisms]], linking white oak roots to extensive belowground fungal networks.
+[[plants-without-mycorrhizal-associations]] with [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are essential for [[plant-nutrient-uptake-mechanisms]], linking white oak roots to extensive belowground [[teaming-with-microbes-tilling-damage-to-fungal-networks]].
 
 ## Timber and Woodworking
 
@@ -87,43 +87,3 @@ These tyloses also make white oak impermeable to liquids, a property exploited h
 The species remains the primary choice for American whiskey barrels, where it contributes vanilla, caramel, and toasted coconut flavor compounds through lignin breakdown during charring and toasting.
 
 White oak lumber is widely used in flooring, furniture, cabinetry, millwork, boat building, and exterior construction.
-
-Quartersawn white oak commands a premium price due to the attractive medullary ray figure (tiger oak), historically popular in Arts and Crafts style furniture.
-
-The Janka hardness rating for white oak is approximately 1,360 lbf (6,050 N), classifying it as a hard hardwood suitable for heavy-use applications.
-
-## Cultivation
-
-White oak is propagated from seed, requiring 30–90 days of cold stratification at 1–5°C for reliable germination.
-
-[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is common in reforestation and restoration plantings, though seed predation by wildlife can significantly reduce establishment rates.
-
-Container-grown seedlings are preferred for [[permaculture-difficult-sites-plant-guide]], with planting typically done in early spring before bud break.
-
-Growth rates are moderate, with trees reaching 18–24 m in height at maturity on good sites. Annual height growth averages 30–60 cm in young trees.
-
-Open-grown specimens develop broad, rounded crowns with spreading branches, while forest-grown trees produce tall, straight boles with relatively small crowns.
-
-White oak is moderately drought-tolerant once established but is sensitive to soil compaction, grade changes, and root disturbance during construction activities.
-
-Major pests include the oak wilt fungus (*Bretziella fagacearum*), oak leaf blister (*Taphrina caerulescens*), and defoliators such as the gypsy moth and oak leafroller.
-
-## See Also
-
-- [[quercus-virginiana]]
-
-- [[quercus-muhlenbergii]]
-
-- [[quercus-michauxii]]
-
-- [[quercus-imbricaria]]
-
-- [[quercus-falcata]]
-
-- [[quercus-bicolor]]
-
-- [[quercus-suber]]
-- [[castanea-sativa]]
-- [[betula-pendula]]
-- [[tilia-cordata]]
-- [[castanea-mollissima]]

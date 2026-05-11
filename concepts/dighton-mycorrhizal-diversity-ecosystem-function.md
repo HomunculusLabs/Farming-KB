@@ -88,27 +88,3 @@ This reflects adaptation to local nutrient conditions, as oak litter
 immobilizes phosphorus during initial decomposition stages.
 
 ## Environmental Influences on Community Structure
-
-### Litter Effects
-
-Repeated harvesting of forest floor leaf litter in a Swedish spruce
-forest reduced the abundance of ectomycorrhizae on roots but not the
-number of species (Mahmood et al., 1999). Complete removal of leaf
-litter on Scots pine forest floor increased mycorrhizal species
-diversity, while doubling the leaf litter reduced diversity below that
-of control plots (Baar and de Vries, 1995). Leaf litter species
-composition and its chemical constituents (particularly phenolic
-content) can exert significant control over ectomycorrhizal community
-development.
-
-### Litter Patch Heterogeneity
-
-Dighton et al. (2000) showed that localized patches of leaf litter of
-different sizes on the New Jersey pine barrens forest floor supported
-different ectomycorrhizal communities. Larger litter patches contained
-a higher proportion of oak leaves, altering [[fungal-decomposition-resource-quality-determinants]] and soil
-chemistry, which in turn influenced the mycorrhizal species composition
-
-## See Also
-
-- [[dighton-ectomycorrhizal-hartig-net-structure-function]]

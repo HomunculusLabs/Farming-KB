@@ -87,34 +87,3 @@ Nitrogen fixation is temperature-dependent, with optimal rates occurring between
 Solorina crocea plays an important role in nitrogen input to arctic and alpine ecosystems through the activity of its cyanobacterial photobiont. In nitrogen-limited tundra soils, this input can be ecologically significant, particularly during the short growing season when [[biological-nitrogen-fixation-agriculture]] demand is highest.
 
 Solorina crocea contributes to soil stabilization in arctic and alpine habitats, where its thallus helps bind loose substrate and reduces erosion. Its presence is often associated with well-developed moss-lichen mats that form a critical component of the cryptogamic ground cover in cold ecosystems.
-
-The water-holding capacity of the thallus is considerable, with absorption rates reaching 200 to 300 percent of dry weight. This stored moisture is released slowly during dry periods, benefiting both the lichen and surrounding soil organisms in arid alpine microhabitats.
-
-Solorina crocea provides microhabitat for various soil microarthropods, including tardigrades, nematodes, and oribatid mites. These organisms find shelter and food resources within and beneath the thallus, contributing to soil food web complexity in otherwise austere alpine environments.
-
-Tardigrades, in particular, are abundant in Solorina crocea thalli in arctic habitats. The lichen provides both a physical refuge from desiccation and a food source through its algal cells and associated microorganisms.
-
-The species is considered an indicator of relatively undisturbed arctic and alpine habitats. It is sensitive to trampling by livestock and human foot traffic, and populations decline rapidly in areas subjected to recreational overuse or grazing pressure.
-
-## Conservation
-
-Solorina crocea is not currently listed as threatened globally, but it is considered rare or uncommon throughout most of its range. Its restriction to arctic and alpine habitats makes it potentially vulnerable to climate change, which is altering temperature and moisture regimes in these sensitive ecosystems.
-
-In the European Alps, the species has been documented at elevations above 2,000 meters, where warming temperatures may reduce the duration of snow cover that the species depends on for moisture. Upslope migration is limited by the availability of suitable substrate above the current alpine zone.
-
-The species is protected under various national and regional conservation frameworks. In several European countries, it is listed as a species of conservation concern due to its restricted habitat requirements and sensitivity to disturbance. Long-term monitoring programs in Scandinavia and the Alps track population trends.
-
-Collection for scientific or commercial purposes is generally discouraged due to the species' slow growth rate and limited populations. The combination of restricted range, habitat specificity, and climate sensitivity makes Solorina crocea a species of potential future conservation concern.
-
-## See Also
-
-- [[peltigera-canina]]
-- [[peltigera-membranacea]]
-- [[lobaria-pulmonaria]]
-- [[hypogymnia-physodes]]
-- [[cladonia-rangiferina]]
-- [[cladonia-stellaris]]
-- [[nephroma-arcticum]]
-- [[nephroma-laevigatum]]
-- [[cetraria-islandica]]
-- [[evernia-prunastri]]

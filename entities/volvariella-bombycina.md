@@ -11,9 +11,9 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Chang, S.T. & Miles, P.G. (2004). "Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact." 2nd ed. CRC Press.
-  - Stamets, P. (1993). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
-  - Wasser, S.P. (2010). "Medicinal mushroom science: history, current status, future trends, and unsolved problems." International Journal of Medicinal Mushrooms 12(1): 1-16.
+  - Chang, S.T. & Miles, P.G. (2004). "Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and [[fertilizer-pollution-environmental-impact]]." 2nd ed. CRC Press.
+  - Stamets, P. (1993). "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
+  - Wasser, S.P. (2010). "[[gourmet-medicinal-mushroom-casing-layer-techniques]] science: history, current status, future trends, and unsolved problems." International Journal of [[cancer-medicinal-mushrooms-extraction-bioavailability]] 12(1): 1-16.
 ---
 
 # Volvariella bombycina
@@ -24,7 +24,7 @@ sources:
 
 It is distinguished by its prominent volva at the base, free pink gills, and a silky-white to cream cap covered with radiating fibrils that give it a characteristic sheen resembling silk.
 
-The species is widely distributed in tropical and subtropical regions and is occasionally cultivated for food alongside its more commercially prominent relative, *Volvariella volvacea*.
+The species is widely distributed in tropical and subtropical regions and is occasionally cultivated for food alongside its more commercially prominent relative, *[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]*.
 
 ## Taxonomy and Morphology
 
@@ -78,7 +78,7 @@ It is a saprotrophic species that colonizes dead or dying hardwood, particularly
 
 Commonly associated substrates include oak (*Quercus* spp.), beech (*Fagus* spp.), elm (*Ulmus* spp.), maple (*Acer* spp.), and occasionally coniferous wood.
 
-Fruiting occurs singly to scattered, typically in summer through autumn in temperate zones and year-round in tropical climates.
+Fruiting occurs singly to scattered, typically in summer through autumn in temperate zones and year-round in [[fukuoka-natural-farming-tropical-climates]].
 
 The species shows a preference for exposed wood surfaces and is frequently found on standing dead trees or recently felled timber.
 
@@ -87,46 +87,3 @@ The species shows a preference for exposed wood surfaces and is frequently found
 *V. bombycina* is considered a secondary cultivated mushroom, commercially less important than *V. volvacea* but gaining interest for its nutritional profile.
 
 Cultivation utilizes pasteurized straw, sawdust, or [[fungi-in-composting-and-agricultural-waste-conversion]] substrates similar to those used for *Pleurotus* species.
-
-Optimal fruiting temperature ranges from 25–32°C with high humidity (85–95% relative humidity).
-
-The [[stamets-biological-efficiency-yield]] on supplemented straw substrates typically ranges from 40–60%, lower than *P. ostreatus* but comparable to *V. volvacea*.
-
-Pin formation requires high humidity and adequate fresh air exchange; excessive CO₂ leads to elongated stipes and small caps.
-
-One significant advantage of *V. bombycina* cultivation is its relatively short cropping cycle of 10–14 days from spawn to first harvest.
-
-## Nutritional and Bioactive Properties
-
-The fruiting body is edible when positively identified and is considered a good nutritional mushroom with a mild, pleasant flavor.
-
-Protein content ranges from 20–30% of dry weight, comparable to other [[fungi-cultivated-mushrooms-pathogens-competitors]], with a favorable amino acid profile.
-
-The species contains notable amounts of ergosterol (provitamin D₂), β-glucans, and several phenolic compounds with documented antioxidant activity.
-
-Preliminary studies indicate antimicrobial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
-
-## Toxic Lookalikes
-
-**Critical warning:** *V. bombycina* shares its saccate volva with deadly *Amanita* species and must be distinguished by its pink spore print and free gills.
-
-*Amanita phalloides* (death cap) and *A. virosa* ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]) have white spore prints and attached gills.
-
-*Amanita volvata* and similar species may superficially resemble *V. bombycina* but differ in spore color and gill attachment.
-
-Collectors should always perform a spore print test before consumption; any specimen with a white spore print and volva should be treated as potentially lethal.
-
-## Ecological Role
-
-As a primary decomposer of hardwood, *V. bombycina* plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within forest ecosystems.
-
-The species contributes to carbon mineralization and releases bound nitrogen and phosphorus from woody substrates back into the soil.
-
-It serves as a food source for various invertebrates including beetles (Coleoptera) and fly larvae (Diptera) that feed on decaying fungal tissue.
-
-## See Also
-
-- [[amanita-phalloides]]
-- [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[coprinus-comatus]]

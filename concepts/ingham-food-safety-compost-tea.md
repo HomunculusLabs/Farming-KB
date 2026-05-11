@@ -5,6 +5,7 @@ tags: [food-safety, e-coli, compost-tea, pathogens, ingham]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---

@@ -1,86 +1,139 @@
+---
+title: Psilocybin Mushrooms
+aliases: [magic mushrooms, psilocybin, psychedelic mushrooms, teonanacatl]
+tags: [mycology, psychedelics, ethnobotany, pharmacology, consciousness]
+created: 2026-05-10
+source: Terence McKenna - Food of the Gods; Nicholas P. Money - Mr. Bloomfield's Orchard
+---
 
 # Psilocybin Mushrooms
 
-Psilocybin mushrooms are fungi containing the psychoactive compounds psilocybin and psilocin, which produce profound alterations in perception, cognition, and mood. Richard Evans Schultes's "[[serotonin-receptor-interference-psychedelic-mechanism]] subtypes.
+Psilocybin mushrooms are fungi containing the psychoactive compounds
+[[hplc-analysis-of-psilocybin-and-psilocin]], which produce altered states of consciousness
+including visual hallucinations, altered perception of time and space,
+enhanced introspection, and mystical-type experiences. The genus Psilocybe
+contains the majority of known psychoactive species, though psychoactive
+mushrooms are also found in several other genera including Panaeolus,
+Gymnopilus, and Inocybe. These mushrooms have been used in religious and
+healing contexts for thousands of years and are currently the subject of
+intensive research for their therapeutic potential in treating depression,
+anxiety, and addiction.
 
-### Baeocystin and Norbaeocystin
+## Pharmacology
 
-- Minor alkaloids found alongside psilocybin in many species.
-- Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a demethylated analog of psilocybin.
-- Their pharmacological contribution to the overall effect is not fully understood.
+Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is a prodrug that is
+dephosphorylated in the body to psilocin (4-hydroxy-N,N-dimethyltryptamine),
+the pharmacologically active compound. Both psilocybin and psilocin are
+structural analogs of serotonin (5-hydroxytryptamine) and act primarily as
+agonists at the serotonin 5-HT2A receptor, which is highly concentrated in
+the cerebral cortex and is believed to mediate the perceptual and cognitive
+effects of psychedelics.
 
-## Mesoamerican Sacred Mushrooms
+The onset of effects typically occurs 20-60 minutes after ingestion, with
+peak effects at 1-2 hours and a total duration of 4-6 hours. The intensity
+of effects depends on dose, set (the user's mindset and expectations), and
+setting (the physical and social environment). At moderate doses, users
+commonly report visual enhancements (intensified colors, geometric patterns,
+trailing effects), altered temporal perception, synesthesia, emotional
+intensification, and a sense of interconnectedness or unity.
 
-### Teonanacatl
+At higher doses, psilocybin can produce profound [[psilocybin-mystical-experiences-personality-change]]
+characterized by a sense of sacredness, deep peace, unity with all things,
+transcendence of time and space, and difficulty describing the experience
+in words. These "mystical-type experiences" have been reliably reproduced
+in controlled laboratory settings and are correlated with long-term positive
+changes in attitudes, mood, and behavior.
 
-The Aztecs called psilocybin mushrooms *teonanacatl*, variously translated as "flesh of the gods" or "divine mushroom." This term, recorded by Spanish chroniclers during the conquest of Mexico, attests to the central religious role these fungi played in Aztec and broader Mesoamerican culture.
+## Taxonomy and Distribution
 
-### Cultural Context
+There are over 180 known species of psilocybin-containing mushrooms,
+distributed worldwide. They are particularly abundant in tropical and
+subtropical regions of the Americas, Southeast Asia, and Australia, but
+several species grow in temperate zones as well. Psilocybe cubensis, the
+most commonly cultivated species, is native to subtropical grasslands and
+is found throughout Central and South America, Southeast Asia, and
+Australia. Psilocybe semilanceata (liberty cap) is common in temperate
+grasslands of Europe and North America.
 
-Schultes documents that modern Mexican Indians in Oaxaca and surrounding regions continued the pre-Columbian mushroom tradition well into the 20th century:
+Most psilocybin mushrooms are small to medium-sized with conical or
+bell-shaped caps that bruise blue when damaged — the blue bruising is
+caused by the oxidation of psilocybin and psilocin and serves as a field
+identification characteristic. However, blue bruising alone is not a
+reliable indicator, as some toxic species also bruise blue and some
+psilocybin-containing species do not bruise prominently.
 
-- **Mazatec people** — The Mazatec of Oaxaca are the best-known continuing practitioners of [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]. María Sabina, a Mazatec curandera, became internationally known after allowing Wasson to participate in a velada (night ceremony) in 1955.
-- **Ritual use** — Mushrooms were consumed in nocturnal ceremonies (veladas) for divination, healing, and communication with the spirit world.
-- **Shamanic practice** — The mushroom served as a tool for the curandero/a (healer) to diagnose illness, locate lost objects, and divine the future.
-- **Ceremonial structure** — Sessions typically occurred at night in darkness, with the healer consuming mushrooms first and then distributing them to participants.
+## Historical and Cultural Use
 
-### The Wasson Expedition
+The use of psilocybin mushrooms in Mesoamerican cultures is well documented.
+The Aztecs called them teonanacatl, meaning "flesh of the gods" or "divine
+mushroom," and used them in [[entheogenic-folk-religious-ceremonies]] for divination, healing,
+and communication with the divine. After the Spanish conquest, Catholic
+missionaries suppressed mushroom use, driving it underground where it
+survived in indigenous communities, particularly in the Mazatec region of
+Oaxaca, Mexico.
 
-R. magic-mushroom-british-underground-1970s" in *Life* magazine introduced psilocybin mushrooms to the Western public.
-- [[psilocybin-containing-genera-beyond-psilocybe]] mushroom genera and species:
+The modern history of psilocybin began in 1957 when R. Gordon Wasson, a
+Vice President of J.P. Morgan and amateur mycologist, published an account
+in Life magazine of his participation in a [[maria-sabina-and-mazatec-mushroom-ceremony]] with
+curandera Maria Sabina. This article introduced psilocybin mushrooms to
+Western culture and triggered both scientific interest and popular
+enthusiasm. In 1958, Albert Hofmann isolated and identified psilocybin and
+psilocin from Psilocybe mexicana specimens collected by Wasson.
 
-### Psilocybe
+## McKenna's Role and Amazonian Context
 
-The primary genus, containing over 100 species worldwide:
+Terence McKenna played a significant role in popularizing psilocybin
+mushrooms through his writings, lectures, and ethnobotanical explorations.
+In 1971, McKenna and his brother Dennis traveled to the Colombian Amazon in
+search of oo-koo-hé, a DMT-containing preparation, and instead encountered
+Stropharia cubensis (now Psilocybe cubensis) growing abundantly in the
+region. McKenna became a passionate advocate for the consciousness-expanding
+potential of psilocybin mushrooms.
 
-- **[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]** — The species Wasson encountered in Mexico; one of the first chemically analyzed.
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — The most widely cultivated species; large, robust, and relatively potent. Distributed in subtropical and tropical regions worldwide.
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ([[global-distribution-of-neurotropic-fungi]] of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]:
+McKenna's "stoned ape hypothesis" proposed that psilocybin mushrooms played
+a crucial role in human cognitive evolution, and his concept of the
+"[[archaic-revival-partnership-vs-dominator-cultures]]" called for a return to nature-based, psychedelic-informed
+spirituality. While his evolutionary claims are speculative, his advocacy
+contributed to the broader cultural reassessment of psychedelics that has
+accelerated in the 21st century.
 
-- **Mesoamerica** — The cultural heartland of ceremonial mushroom use. Over 30 species documented in Mexico alone.
-- **South America** — Species found in Colombia, Ecuador, Peru, and Brazil. Some Amazonian peoples may use them, though this is less documented than ayahuasca use.
-- **North America** — Temperate species from the Pacific Northwest, the Gulf Coast, and the southeastern US.
-- **Europe** — Liberty caps and related species have a long history of use, though less ritualized than in Mesoamerica.
-- **Asia and Australia** — Introduced species (particularly *P. cubensis*) found in tropical and subtropical regions. Native species also occur.
-- **Africa** — Several species documented; traditional use in some regions.
+## Modern Research and Therapeutic Applications
+
+Since the early 2000s, psilocybin has been the subject of a research
+renaissance. Clinical trials at institutions including Johns Hopkins
+University, Imperial College London, and New York University have
+demonstrated significant therapeutic potential. Key findings include:
+
+- A single dose of psilocybin, combined with psychotherapy, produced
+rapid and sustained reductions in depression and anxiety in patients
+with life-threatening cancer diagnoses.
+
+- Psilocybin-assisted therapy showed efficacy in treating treatment-
+resistant depression, with effects lasting months after a single or
+few administrations.
+
+- Controlled studies demonstrated reductions in alcohol and tobacco
+dependence following psilocybin-assisted treatment.
+
+- Brain imaging studies revealed that psilocybin reduces activity in the
+[[default-mode-network-and-ego-dissolution]] (DMN), a brain system associated with self-
+referential thinking and rumination. This DMN suppression correlates
+with the subjective experience of ego dissolution and may underlie
+the therapeutic effects.
 
 ## Legal Status
 
-The legal status of psilocybin mushrooms has shifted significantly since Schultes's 1976 publication:
-
-- **Controlled internationally** under the UN Convention on Psychotropic Substances (1971) as a Schedule I substance.
-- **Decriminalization movement** — Beginning in the 2010s, several jurisdictions have decriminalized possession and cultivation, including parts of the US (Oregon, Colorado, several cities), the Netherlands (truffle sale remains quasi-legal), and Brazil (native use is protected).
-- **Medical research** — Clinical trials at institutions like Johns Hopkins, Imperial College London, and others have demonstrated therapeutic potential for depression, anxiety, PTSD, and substance use disorders.
-- **Rescheduling** — In 2024, the Australian Therapeutic Goods Administration rescheduled psilocybin for prescribed therapeutic use.
-
-## Modern Context
-
-The study of psilocybin mushrooms bridges ethnobotany, chemistry, psychology, and medicine. From the Mazatec velada to modern clinical trials, these fungi continue to challenge assumptions about consciousness, mental health, and the relationship between humans and psychoactive plants. Schultes's documentation of their [[ethnomycology-cultural-significance-sacred-fungi]] ensures that the indigenous knowledge underlying modern interest is preserved and respected.
+Psilocybin is classified as a Schedule I substance under the United Nations
+Convention on Psychotropic Substances and is illegal in most countries.
+However, legal reforms are underway in several jurisdictions. Oregon became
+the first U.S. state to legalize psilocybin for therapeutic use in 2020,
+followed by Colorado in 2022. Several cities have decriminalized psilocybin
+possession. The Netherlands permits the sale of "magic truffles" (sclerotia
+of Psilocybe species), which contain the same active compounds. Indigenous
+use of psilocybin mushrooms continues legally in parts of Mexico.
 
 ## See Also
 
-- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
-
-- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-
-- [[peyote-and-mescaline]]
-- [[ayahuasca-and-banisteriopsis-caapi]]
-- fly agaric as hallucinogen
-## Practical Considerations
-
-Successful implementation of Psilocybin Mushrooms requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[stoned-ape-hypothesis]]
+- [[eleusinian-mysteries]]
+- [[fungal-fruiting-body-biology]]

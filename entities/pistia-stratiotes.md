@@ -87,33 +87,3 @@ In aquaponics, water lettuce serves as a biofilter plant, extracting dissolved n
 Pistia stratiotes is listed as a noxious weed in numerous jurisdictions including the United States (federal noxious weed), Australia (Weed of National Significance), South Africa (NEM:BA Category 1b), and the European Union (EPPO A2 listed).
 
 The species is prohibited from sale or transport in many temperate countries to prevent establishment. Despite regulations, illegal aquarium trade and accidental transport via shipping ballast water continue to spread it to new waterways.
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents include the weevil Neohydronomus affinis (successfully deployed in Australia and South Africa) and the moth Spodoptera pectinicornis. The weevil has achieved 80–95% control in tropical release sites.
-
-## Nutritional Profile
-
-When grown in clean water, Pistia biomass has potential as a livestock feed supplement. Crude protein content ranges from 15–22% of dry weight, comparable to alfalfa. The amino acid profile includes significant lysine and methionine.
-
-Mineral content includes calcium (1.2–2.0% DW), phosphorus (0.3–0.6% DW), and potassium (2.5–4.0% DW). However, oxalate levels (2–5% DW) limit unprocessed use as ruminant feed; ensiling reduces oxalate concentration by 40–60%.
-
-The plant has been used traditionally as a pig and duck fodder in Southeast Asia. Modern evaluation suggests it is best used as a supplementary feed (≤30% of dry matter intake) rather than a primary forage source.
-
-## Traditional and Ethnobotanical Uses
-
-In Indian Ayurvedic medicine, water lettuce is used to treat skin diseases, dysentery, and hemorrhoids. The leaf paste is applied topically for eczema and boils. In West African traditional medicine, leaf infusions treat jaundice and urinary complaints.
-
-In Vietnamese folk medicine, the plant is used as a diuretic and anti-inflammatory. Fresh leaves are applied to wounds and burns. In Madagascar, root decoctions are used to treat malaria-like symptoms, though efficacy is unverified.
-
-The spongy leaf parenchyma has been used as a packing material and wound dressing in rural communities across tropical Africa. Dried leaves are woven into rough mats in parts of Southeast Asia.
-
-## See Also
-
-- [[stratiotes-aloides]]
-
-- lemnaceae
-- eichhornia crassipes
-- [[lemna-minor]]
-- [[euryale-ferox]]
-- [[phytoremediation]]
-- [[kaempferol]]
-- apigenin

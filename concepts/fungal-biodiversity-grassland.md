@@ -88,18 +88,3 @@ ecosystems. The impacts cascade through multiple fungal guilds.
   further disturbance.
 
 ### Monoculture and Fungal Homogenization
-- Replacing diverse native grassland plant communities with single-species
-  crop monocultures drastically reduces the diversity of host-specific
-  mycorrhizal and endophytic fungal associations.
-- Some arbuscular mycorrhizal fungal species are generalists that
-  persist across cropping systems, but many specialist species are
-  lost when their particular host plants are removed from the
-  landscape.
-- The resulting homogenization of fungal communities reduces the
-## See Also
-
-- [[fungal-biodiversity-forest-ecosystems]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- fire-associated-fungi
-- [[endophytic-fungi-in-grasslands]]
-- [[fungal-endophytes-plant-fitness]]

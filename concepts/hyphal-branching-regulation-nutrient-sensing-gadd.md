@@ -9,8 +9,8 @@ source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 
 ## Overview
 
-Hyphal branching is the fundamental process by which filamentous fungi
-construct their mycelial networks. Unlike plants and animals that grow
+Hyphal branching is the fundamental process by which [[environmental-sensing-filamentous-fungi-read]]
+construct their [[fungal-mycelial-networks-nutrient-translocation]]. Unlike plants and animals that grow
 by cell division throughout their bodies, fungi grow exclusively at their
 tips, and branching creates new tips. The regulation of branching — its
 timing, frequency, and spatial pattern — determines the overall morphology
@@ -20,7 +20,7 @@ nutrients.
 ## The Relationship Between Internal Resources and Branching
 
 It has been widely reported that hyphal branching in mycelial fungi is
-related to the status of internally located material. Turgor pressure
+related to the status of internally located material. [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 and the build-up of tip vesicles have been implicated as key factors
 controlling when and where branches initiate (Webster, 1980; Gow and
 Gadd, 1995). When sufficient internal resources accumulate behind the
@@ -35,7 +35,7 @@ growth when it has the energetic resources to do so.
 
 ## Nutrient Uptake and Active Translocation
 
-In mycelial fungi, nutrient uptake occurs by active transport across
+In mycelial fungi, nutrient uptake occurs by [[diffusion-osmosis-and-active-transport-in-plants]] across
 the plasma membrane. This means uptake depends not only on the external
 substrate concentration but also on:
 
@@ -49,7 +49,7 @@ Many species of fungi possess both active (metabolically driven) and
 passive (diffusive) translocation mechanisms for carbon compounds
 (Olsson, 1995). Active translocation moves internal substrate towards
 hyphal tips since they represent the major growth sites and are
-therefore the largest net energy sinks. This nutrient transport
+therefore the largest net energy sinks. This [[fungal-pulsatile-nutrient-transport-mycelial-networks]]
 capability is especially well-developed in mycorrhizal fungi, which
 form extensive hyphal networks to shuttle nutrients between soil and
 plant roots—see [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]]
@@ -76,9 +76,9 @@ to internal substrate concentration. In these models:
 - The colony expands as a function of tip number and tip extension
   rate
 - Anastomosis (hyphal fusion) creates interconnected networks that
-  improve resource sharing
+  improve [[mycelial-network-resource-sharing-plants]]
 
-The models were validated using Rhizoctonia solani grown on glucose
+The models were validated using [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]] grown on glucose
 medium, with good quantitative agreement between predicted and observed
 biomass values and colony radial expansion rates.
 
@@ -88,57 +88,3 @@ Hyphal branches can also grow toward each other and fuse, a process
 called anastomosis. This creates an interconnected network that allows
 resource sharing across the mycelium. Anastomosis rates, like branching
 rates, depend on the physiological state of the fungus and the
-availability of internal resources. The resulting network topology
-affects how efficiently the colony can transport nutrients, water, and
-signaling molecules.
-
-## Environmental Influences on Branching
-
-Hyphal growth direction and branching patterns can change in response
-to environmental cues including:
-
-- Nutrient gradients (chemotropism)
-- Surface topography (thigmotropism)
-- Light direction and intensity
-- Temperature gradients
-- The presence of other organisms
-
-The fractal, branching nature of the mycelial network is not random
-but reflects the fungus's integrated response to all available
-environmental information, processed through its internal resource
-state.
-
-## Ecological Significance
-
-The regulation of branching determines how efficiently a fungus can:
-
-- Colonize new territory and explore heterogeneous environments
-- Locate and exploit nutrient patches
-- Compete with other microorganisms for space and resources
-- Form interconnected networks that buffer against local resource
-  depletion
-
-These ecological functions are part of broader soil foodweb dynamics,
-where fungal hyphal networks interact with bacteria, protozoa, nematodes,
-and other microorganisms to cycle nutrients through trophic levels
-(see [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] for
-a detailed overview of these interactions). Understanding branching
-regulation is therefore central to understanding fungal ecology, from
-decomposer communities in soil to pathogen spread in plant tissues.
-
-## Summary
-
-Hyphal branching is regulated by the fungus's internal physiological
-state, particularly the accumulation of turgor pressure and tip vesicles
-behind growing apices. The Spitzenkörper serves as both the director of
-tip growth and the initiator of new branches. Mathematical models
-confirm that branching is proportional to internal substrate
-concentration, creating a feedback loop where nutrient acquisition
-drives exploration, and exploration drives further nutrient acquisition.
-
-## See Also
-
-- [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]] — Mycorrhizal fungi, nutrient transport through hyphal networks, and plant-fungal symbiosis
-- [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]] — Soil foodweb dynamics, nutrient cycling, and fungal interactions with microorganisms
-- [[fungal-melanin-environmental-protection-stress-resistance-gadd]] — Fungal adaptations to environmental stress, also from Gadd et al.
-- [[fungal-bioaccumulation-biosorption-metals-gadd]] — Fungal metal accumulation mechanisms and environmental interactions

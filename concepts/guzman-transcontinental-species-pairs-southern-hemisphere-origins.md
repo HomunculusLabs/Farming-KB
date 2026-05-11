@@ -10,7 +10,7 @@ created: 2026-05-08
 
 One of the most intriguing biogeographic patterns in [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] is the
 existence of closely related species pairs separated by vast oceanic distances.
-Species from Mexico and Central America have near-identical counterparts in
+Species from Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] have near-identical counterparts in
 Southeast Asia and the South Pacific, suggesting ancient Gondwanan
 distributions or long-distance dispersal events that predate human migration.
 
@@ -26,7 +26,7 @@ supercontinent or extraordinary dispersal capability.
 ## The Section Zapotecorum Connection
 
 A similar pattern appears in Section Zapotecorum: *P. zapotecorum* (Mexico
-and South America) and *P. aucklandii* (New Zealand) are closely related
+and [[guzman-psilocybin-mushrooms-south-america]]) and *P. aucklandii* (New Zealand) are closely related
 across the width of the Pacific.
 
 ## Horak's Pacific Basin Hypothesis
@@ -54,11 +54,11 @@ hypothesis includes:
    exploration in northern regions.
 
 2. **Wider range of sections and varieties**: The greatest taxonomic
-   diversity within the genus is found in neotropical regions, suggesting a
+   diversity within the genus is found in [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]], suggesting a
    longer period of evolutionary diversification.
 
 3. **Traditional use concentrated in southern regions**: The main ethnic
-   groups with documented ceremonial use of neurotropic fungi are in Mexico
+   groups with documented ceremonial use [[distribution-of-neurotropic-fungi]] are in Mexico
    and New Guinea, both in regions with high native diversity.
 
 4. **Migration patterns**: Species appear to have spread from the south to
@@ -72,7 +72,7 @@ diversity in Psilocybe despite being comparatively poorly explored. The
 concentration of species in these regions, combined with the trans-Pacific
 species pairs, suggests an ancient Australasian-South American connection.
 
-New Guinea is particularly significant because it hosts indigenous cultures
+New Guinea is particularly significant because it hosts [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
 with documented ceremonial mushroom use, paralleling the Mesoamerican
 tradition. The independent development of [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] on opposite
 sides of the Pacific, combined with the biological relationships between the
@@ -80,7 +80,7 @@ fungi themselves, suggests a deep historical connection.
 
 ## The Colombian Gold Pectorals
 
-Additional evidence for ancient neurotropic fungi use in South America comes
+Additional evidence for ancient [[indigenous-neurotropic-fungi-use-mexico]] in South America comes
 from Colombia, where Schultes and Bright (1979) discovered pre-Columbian gold
 pectorals depicting mushroom-like figures. Guzmán subsequently reported 12
 neurotropic Psilocybe species from Colombia, supporting the interpretation
@@ -88,36 +88,3 @@ of these artifacts as evidence of indigenous mushroom use.
 
 The Colombian findings bridge the gap between the well-documented
 Mesoamerican mushroom cults and the South American center of Psilocybe
-diversity, suggesting that ceremonial use may have been more widespread in
-South America than currently documented.
-
-## The Cattle Introduction Factor
-
-The distribution of dung-dependent species like *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* adds a
-human-mediated layer to these biogeographic patterns. Cattle introduced by
-Spanish colonizers in the 16th-17th centuries created new substrate
-availability across the Americas. *P. cubensis*, which does not grow in
-Europe, was likely introduced to the Americas through the slave trade,
-making its current "pan-tropical" distribution partly an artifact of
-colonial commerce.
-
-## Biogeographic Implications
-
-The transcontinental species pairs and southern hemisphere origin hypothesis
-have several implications:
-
-- Underexplored tropical and subtropical regions likely harbor many
-  undescribed species
-- The true center of Psilocybe diversity may be in South America rather than
-  Mexico
-- Fungal biogeography may preserve ancient continental connections that are
-  not visible in plant or animal distributions
-- The independent emergence of mushroom ceremonies in Mexico and New Guinea
-  may reflect a shared biological resource base rather than cultural
-  diffusion
-
-## See Also
-
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-- [[guzman-magic-mushrooms-global-biogeography]]
-- [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]

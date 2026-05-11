@@ -69,3 +69,18 @@ The discovery of *P. natalensis* was important because:
 - [[psychedelic-mushroom-history]] — Historical timeline including African evidence
 - [[archaeology-of-psychedelic-mushrooms]] — Archaeological evidence of ancient use
 - [[psilocybin-mushroom-chemistry]] — Field identification of 16 species
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]]
+- [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[mushrooms-fungi-from-around-the-world-guide]]

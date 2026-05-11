@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Terminalia bellirica** (Gaertn.) Roxb., commonly known as **bahera**, **bibhitaki**, or **beleric myrobalan**, is a large deciduous tree in the family Combretaceae.
 
-It is one of the three constituent fruits of the classical Ayurvedic formulation **Triphala** ("three fruits"), alongside *Terminalia chebula* (haritaki) and *Emblica officinalis* (amalaki).
+It is one of the three constituent fruits of the classical Ayurvedic formulation **Triphala** ("three fruits"), alongside *[[terminalia-chebula]]* (haritaki) and *[[emblica-officinalis]]* (amalaki).
 
 The species is widely distributed across the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where it has been used in traditional medicine for over 3,000 years.
 
@@ -73,7 +73,7 @@ The dried fruit rind contains a complex mixture of [[query-what-are-the-main-bio
 
 **Antioxidant:** Fruit extracts show significant DPPH and ABTS radical scavenging activity, attributed to gallic and ellagic acid content.
 
-**Antimicrobial:** Methanolic extracts demonstrate broad-spectrum activity against *Staphylococcus aureus*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
+**Antimicrobial:** Methanolic extracts demonstrate broad-spectrum activity against *[[staphylococcus-aureus]]*, *Escherichia coli*, *Pseudomonas aeruginosa*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
 
 **Anti-diabetic:** Aqueous extracts lower fasting blood glucose in streptozotocin-induced diabetic rat models, likely via α-glucosidase inhibition.
 
@@ -87,45 +87,4 @@ In **Ayurveda**, the dried fruit (bibhitaki) is classified as kapha-pitta hara (
 
 Classical indications include cough, bronchitis, sore throat, eye disorders, digestive weakness, and constipation.
 
-The fruit powder is applied externally as a wound dressing and hair tonic. Seed oil is used topically for skin diseases.
-
-In **Siddha** and **Unani** medicine, it is prescribed for respiratory ailments, hemorrhoids, and urinary calculi.
-
-Modern nutraceutical use centers on Triphala standardised extracts for digestive health, antioxidant support, and detoxification protocols.
-
-## Permaculture and Agroforestry Applications
-
-**Terminalia bellirica** is a valuable multi-purpose tree for tropical agroforestry systems:
-
-- Provides medium-density shade suitable for shade-tolerant understory crops
-- Deep taproot system improves soil structure and brings nutrients from subsoil layers
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes significant [[hamilton-composting-and-organic-matter-management]]; decomposes relatively slowly
-- Drought-tolerant once established; suitable for dryland agroforestry
-- Timber is hard and durable, used for construction, tool handles, and boat building
-- Fruit harvest provides seasonal income in rural economies
-
-Suitable as a component in multi-strata food forests, windbreaks, and watershed protection plantings in the tropics and subtropics.
-
-## Cultivation
-
-Propagation is primarily from seed. Seeds require scarification or soaking in warm water for 24 hours before sowing. Germination occurs within 15–30 days under nursery conditions.
-
-Seedlings are transplanted at 8–12 months, spaced 8–10 m apart in plantation settings. Trees begin bearing fruit at 8–10 years, with peak production at 15–20 years.
-
-Average fruit yield is 50–80 kg per tree per year. Harvest period is November–January in India.
-
-The species responds well to organic manuring and tolerates moderately acidic to alkaline soils (pH 5.5–8.5).
-
-## Related Species
-
-- **Terminalia chebula** — black myrobalan; Triphala partner; higher tannin content
-- **Terminalia catappa** — tropical almond; coastal ornamental with edible seeds
-- **Terminalia arjuna** — arjuna tree; cardioprotective bark medicine
-- **Terminalia ferdinandiana** — Kakadu plum; highest recorded vitamin C content of any fruit
-
-## See Also
-- [[amazonian-medicinal-plants-reference]]
-- [[permaculture-plants-fruit-trees-subtropical]]
-- [[terminalia-arjuna]]
-- [[terminalia-chebula]]
-- [[terminalia-catappa]]
+The fruit powder is applied externally as a wound dressing and hair tonic. Seed oil is used topically for [[blesching-cannabis-skin-diseases]].

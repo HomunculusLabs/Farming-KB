@@ -14,8 +14,8 @@ sources:
   - Harvey, W.H. (1876). "On the source of Siam benzoin." Pharmaceutical Journal and Transactions, 7, 396-401.
   - Burkill, I.H. (1935). A Dictionary of the Economic Products of the Malay Peninsula. Crown Agents for the Colonies.
   - Suwanvecho, C. & Itharat, A. (2009). "Study of styrax resin." Thai Journal of Phytopharmacy, 16(2), 33-40.
-  - Nguyen, T.B. et al. (2020). "Chemical composition and biological activities of Styrax tonkinensis resin." Journal of Essential Oil Research, 32(5), 392-401.
-  - An, N.T. et al. (2017). "Sustainable management of benzoin production in northern Laos." Forest Ecology and Management, 391, 1-8.
+  - Nguyen, T.B. et al. (2020). "Chemical composition and biological activities of Styrax tonkinensis resin." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 32(5), 392-401.
+  - An, N.T. et al. (2017). "Sustainable management of benzoin production in northern Laos." Forest [[nematode-management]], 391, 1-8.
 ---
 
 ## Overview
@@ -26,7 +26,7 @@ The species typically reaches 10–20 meters in height and produces benzoin resi
 
 Benzoin resin contains benzoic acid, vanillin, and numerous other aromatic compounds that contribute to its warm, sweet, balsamic fragrance. These same compounds underpin its traditional medicinal applications as an expectorant and wound-healing agent.
 
-The species plays an important ecological role in montane forest ecosystems and has been the subject of reforestation initiatives aimed at sustainable resin production.
+The species plays an important ecological role in montane [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and has been the subject of reforestation initiatives aimed at sustainable [[cannabis-glandular-trichome-types-resin-production-clarke]].
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ Fruiting occurs from September through November in the native range. Birds and s
 
 Benzoin resin is produced in specialized ducts within the bark and secondary phloem. When the bark is wounded, the resin exudes as a thick, pale yellow to reddish-brown liquid that hardens upon exposure to air.
 
-Fresh resin is soft and sticky, gradually hardening to a brittle, amber-colored solid. The quality and aroma profile vary depending on the tree's age, wound severity, and post-harvest processing methods.
+Fresh resin is soft and sticky, gradually hardening to a brittle, amber-colored solid. The quality and aroma profile vary depending on the tree's age, wound severity, and post-harvest [[mushroom-storage-and-processing-methods]].
 
 ## Distribution and Habitat
 
@@ -66,7 +66,7 @@ Siam benzoin resin contains a complex mixture of aromatic acids, esters, and ter
 
 Vanillin is present at 1–3%, contributing significantly to the characteristic warm, vanilla-like fragrance. Other aromatic compounds include cinnamic acid, p-coumaric acid, and their corresponding esters.
 
-The resin demonstrates antimicrobial activity against a range of Gram-positive bacteria and fungi. Benzoic acid and its esters are primarily responsible for this preservative quality, which has historically supported its use in wound care.
+The resin demonstrates antimicrobial activity against a range of Gram-positive bacteria and fungi. Benzoic acid and its esters are primarily responsible for this preservative quality, which has historically supported its use in [[blesching-cannabis-wound-care]].
 
 Anti-inflammatory activity has been documented in vitro, with benzoin extracts inhibiting cyclooxygenase-2 expression and reducing prostaglandin E2 production. These findings support traditional use as a topical anti-inflammatory.
 
@@ -78,43 +78,12 @@ The resin also demonstrates antioxidant activity, scavenging DPPH and hydroxyl r
 
 ## Ethnobotanical and Traditional Uses
 
-Siam benzoin has been used in Southeast Asian traditional medicine for centuries. In Vietnamese folk practice, benzoin resin is applied topically to treat skin infections, burns, and slow-healing wounds.
+Siam benzoin has been used in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] traditional medicine for centuries. In Vietnamese folk practice, benzoin resin is applied topically to treat skin infections, burns, and slow-healing wounds.
 
 In traditional Chinese medicine, the resin known as "anxi xiang" is prescribed as an expectorant for chronic coughs and bronchitis. It is typically administered as a decoction or dissolved in alcohol as a tincture.
 
-The resin has served as a key ingredient in incense and religious ceremonies across Buddhist, Hindu, and Christian traditions. Its fragrant smoke is believed to purify spaces and facilitate meditation.
+The resin has served as a key ingredient in incense and [[entheogenic-folk-religious-ceremonies]] across Buddhist, Hindu, and Christian traditions. Its fragrant smoke is believed to purify spaces and facilitate meditation.
 
 Perfumers have valued benzoin as a fixative and base note since at least the medieval period. It remains a standard ingredient in oriental fragrance compositions, amber accords, and fougère perfumes.
 
 The resin's ability to anchor volatile top notes and extend the longevity of fragrance compositions makes it indispensable in perfumery. Synthetic vanillin has partially replaced benzoin in some applications, but natural benzoin retains a complex aroma profile that synthetics cannot fully replicate.
-
-In traditional wound care, benzoin tincture is applied as an antiseptic barrier that forms a protective film over minor cuts and abrasions. This practice continues in modern first-aid formulations.
-
-Commercial benzoin tincture preparations contain 10–20% benzoin resin in alcohol and are widely available as skin protectants. The tincture is also used to increase the adhesion of medical tapes and dressings.
-
-## Cultivation and Commercial Applications
-
-Styrax tonkinensis is propagated from seed, with germination rates improving after cold stratification for 30–60 days. Seedlings require 8–12 months in the nursery before field planting.
-
-Benzoin harvesting begins when trees reach approximately 10 cm trunk diameter, typically 7–10 years after planting. The bark is struck with a wooden mallet to induce resin flow, and the exuding resin is collected after hardening.
-
-A single tree may be tapped annually for 20–30 years, yielding 100–500 grams of crude benzoin per harvest. Yields decline with tree age and repeated tapping intensity.
-
-The global market for Siam benzoin is valued at approximately 10–15 million USD annually, with principal demand from the fragrance and pharmaceutical industries. Supply constraints from overharvesting of wild trees have driven plantation expansion.
-
-Sustainable harvesting certification programs have been introduced in Vietnam and Laos to ensure resin is produced without depleting natural stands. These programs promote rotational tapping and minimum harvest intervals.
-
-The species also provides non-resin forest products including firewood, light construction timber, and ornamental planting stock. Its fragrant flowers make it an attractive landscape tree in tropical gardens.
-
-Efforts to improve benzoin yield through selection of high-resin-producing genotypes are ongoing at forestry research stations in Vietnam. Tissue culture propagation protocols have been developed for clonal mass production.
-
-## See Also
-
-- [[boswellia-sacra]]
-- [[commiphora-myrrha]]
-- [[cinnamomum-verum]]
-- [[pistacia-lentiscus]]
-- [[syzygium-aromaticum]]
-- [[croton-lechleri]]
-- [[cananga-odorata]]
-- [[lavandula-angustifolia]]

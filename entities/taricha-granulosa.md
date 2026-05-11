@@ -13,8 +13,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Brodie, E.D. III & Brodie, E.D. Jr. (1999). "Predator-prey arms races." BioScience, 49(7), 557–568.
-  - Hanifin, C.T. et al. (2008). "Tetrodotoxin levels in rough-skinned newts are correlated with garter snake resistance." Journal of Chemical Ecology, 34(6), 768–775.
-  - Petranka, J.W. (1998). "Salamanders of the dmt-containing-plants-united-states-halpern and Canada." Smithsonian Institution Press.
+  - Hanifin, C.T. et al. (2008). "Tetrodotoxin levels in rough-skinned newts are correlated with garter snake resistance." Journal of [[plant-volatile-communication-chemical-ecology]], 34(6), 768–775.
+  - Petranka, J.W. (1998). "Salamanders of the [[dmt-containing-plants-united-states-halpern]] and Canada." Smithsonian Institution Press.
   - IUCN Red List (2024). "Taricha granulosa." https://www.iucnredlist.org/species/59404/18007266
 ---
 
@@ -54,7 +54,7 @@ Males develop a smooth skin and swollen cloaca during the aquatic breeding seaso
 
 Females are generally larger than males and retain their granular skin texture throughout the year. Egg-laying females may carry 200–400 eggs in their oviducts.
 
-Newts of the genus *Taricha* are sometimes called "Pacific newts" and are restricted to western North America. The genus includes four species, of which *T. granulosa* has the widest distribution.
+Newts of the genus *Taricha* are sometimes called "Pacific newts" and are restricted to western [[guzman-psilocybin-mushrooms-north-america]]. The genus includes four species, of which *T. granulosa* has the widest distribution.
 
 ## Distribution and Habitat
 
@@ -80,41 +80,10 @@ Individual toxicity varies enormously among populations. Some coastal population
 
 Newts are resistant to their own toxin through [[cho-fish-amino-acid-preparation]] substitutions in their sodium channels. A single point mutation (substitution of aspartate for glycine at position 1716) confers significant TTX resistance.
 
-TTX is not synthesized by the newt itself but is acquired through dietary accumulation. Bacteria of the genera *Vibrio*, *Pseudomonas*, and *Bacillus* are suspected TTX producers that enter the newt's food chain.
+TTX is not synthesized by the newt itself but is acquired through dietary accumulation. Bacteria of the genera *Vibrio*, *[[pseudomonas]]*, and *Bacillus* are suspected TTX producers that enter the newt's food chain.
 
 Captive-raised newts fed a diet of non-toxic prey items (e.g., crickets, earthworms) gradually lose their toxicity over time. This confirms the dietary origin of TTX and suggests that wild toxicity depends on access to specific alkaloid-bearing invertebrates.
 
 Handling rough-skinned newts is dangerous. Human poisoning has been documented after ingestion, with symptoms including numbness, tingling, nausea, and in severe cases, respiratory paralysis and death.
 
 ## Ecology and Coevolution
-
-The rough-skinned newt is engaged in a classic coevolutionary arms race with the common garter snake (*Thamnophis sirtalis*). Snakes have evolved TTX-resistant sodium channels, while newts have evolved increasingly potent toxin levels.
-
-In some populations, newts carry enough TTX to kill approximately 25,000 mice, while local garter snake populations can withstand doses that would be lethal to other snake species. The reciprocal escalation of toxin and resistance has been documented across dozens of populations.
-
-The arms race follows a geographic mosaic pattern. Populations where newts are highly toxic tend to have highly resistant snakes, while populations where newts are less toxic have snakes with lower resistance.
-
-This geographic mosaic was first described in detail by Edmund D. Brodie Jr. and Edmund D. Brodie III in the 1990s. Their work demonstrated that coevolutionary dynamics vary across the landscape rather than being uniform.
-
-During the breeding season, newts become aquatic and develop a smoother skin. Courtship involves the male clasping the female with his hind limbs and rubbing his chin on her snout.
-
-The male deposits a spermatophore on the substrate, which the female picks up with her cloaca. Fertilization is internal.
-
-Eggs are laid singly, attached to aquatic vegetation or submerged debris. Each egg is surrounded by a gelatinous capsule and measures 2–3 mm in diameter. Larvae hatch after 3–5 weeks and metamorphose in late summer.
-
-Newts are relatively long-lived, with some individuals documented surviving over 15 years in the wild. Their toxicity provides effective protection from most vertebrate predators, though some birds may learn to avoid them.
-
-The rough-skinned newt's coevolutionary relationship with garter snakes is one of the best-documented examples of reciprocal natural selection in vertebrates. It is frequently cited in evolutionary biology textbooks as a case study in predator-prey arms races.
-
-## See Also
-
-- [[amanita-muscaria-entity]]
-- [[ambystoma-mexicanum]]
-- [[amanita-phalloides]]
-- [[bufotenin]]
-- [[bufo-bufo]]
-- [[dendrobates-tinctorius]]
-- [[fungal-conservation-endangered-species]]
-- [[fungal-ecosystem-indicator-species]]
-- [[psilocybin]]
-- [[rana-temporaria]]

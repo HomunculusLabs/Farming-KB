@@ -40,7 +40,7 @@ to walk.
 ### Epidemiology
 
 According to the World Health Organization, flu epidemics occur every
-year during fall and winter in temperate regions. "Worldwide, these annual
+year during fall and winter in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. "Worldwide, these annual
 epidemics result in about three to five million cases of severe illness,
 and about 250,000 to 500,000 deaths." Most deaths associated with
 influenza in industrialized countries occur among people age 65 or older.
@@ -61,7 +61,7 @@ in alleviating the cough and fever often associated with colds and flu.
 The anti-inflammatory, antispasmodic, and bronchodilating properties of
 cannabis may play a part in the therapeutic impact of the herb as an
 anti-tussive. THC has demonstrated cough-suppressing capacities similar
-to that of codeine.
+to that of [[codeine]].
 
 ## Allopathic Treatment Concerns
 
@@ -88,62 +88,3 @@ habit-forming and can produce respiratory depression.
 ### Antipyretics
 
 Acetaminophen overuse causes about 56,000 emergency room visits and
-26,000 hospitalizations yearly, with approximately 500 cases ending in
-death. Aspirin is linked to Reye's syndrome, a potentially fatal
-condition, especially in people under twenty.
-
-### Antibiotics
-
-Antibiotics only kill bacteria and cannot cure colds or flu, which are
-viral. In 1983, more than 51% of the more than three million patients
-who saw doctors for treatment of the common cold were given an unnecessary
-prescription for an antibiotic.
-
-### Flu Vaccines
-
-Flu vaccines are made from last year's viral strain. By the time a
-vaccine reaches the public, the current outbreak virus is typically a
-different mutated kind, rendering the promise of immunity questionable.
-Long-term studies on potential effects have not been conducted.
-
-## Mind-Body Medicine and Colds/Flu
-
-Research on vasomotor rhinitis revealed that symptoms occurred when a
-patient was faced with a life situation they wished would go away, or
-felt avoidance would be the best course. Typical statements included "I
-wanted them to go away," "I wanted to blot it all out," and "I wanted to
-hole up for the winter."
-
-A study of 334 healthy volunteers exposed to cold viruses found that
-those with tendencies to experience positive emotions had significantly
-greater resistance to developing a cold.
-
-The annual anxiety about getting sick during "cold and flu season" may
-also contribute to lowered immunity. In the U.S., about 1 in 4 will catch
-a cold, but 3 out of 4 will not. For flu, 1 out of 10 Americans will
-catch it, but 9 out of 10 will stay healthy.
-
-## Supporting Foods and Herbs
-
-- **Anise**: Used as an expectorant for coughs and sore throats;
-  possesses bronchodilatory qualities from possible antihistamine-like
-  properties.
-- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] can inactivate enveloped viruses
-  and may be used as virucidal agents.
-- **Fennel**: Approved by the German Commission E for catarrh of the
-  upper respiratory tract.
-- **Garlic**: Cuban physicians use garlic syrup to treat colds, coughs,
-  and flu.
-- **Myrrh**: Approved for topical treatment of mucous-membrane
-  inflammation such as sore throat during cold episodes.
-- **Oregano**: Tea of oregano may be effective in treating certain
-  respiratory illness.
-## Related Topics
-
-- [[cannabis-health-index]]
-- [[blesching-cannabis-immune-system-modulation]] - Immune system
-  support through cannabinoids
-
-## See Also
-
-- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]

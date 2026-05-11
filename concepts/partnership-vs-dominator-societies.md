@@ -1,5 +1,5 @@
 ---
-title: archaic-revival-partnership-vs-dominator-cultures societies
+title: [[archaic-revival-partnership-vs-dominator-cultures]] Societies
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -76,7 +76,7 @@ and control.
 
 McKenna argued that the terror the ego feels in contemplating the
 dissolution of boundaries between self and world lies behind not only
-the suppression of altered states of consciousness but more generally
+the suppression of altered [[mckenna-food-gods-designer-states-of-consciousness]] but more generally
 explains the suppression of the feminine, the foreign and exotic, and
 transcendental experiences.
 
@@ -87,45 +87,3 @@ control structures. Encounters with psychedelic plants throw into
 question the entire worldview of the [[mckenna-dominator-culture-and-suppression-of-ecstasy]].
 
 ## Implications for Drug Policy
-
-McKenna used the partnership-dominator framework to argue that the
-"[[cervantes-war-on-drugs-statistics]]" is not fundamentally about public health or social order
-but about maintaining the dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]]. The suppression of
-access to shamanic ecstasy closes off the refreshing waters of emotion
-that flow from having a deeply bonded, almost symbiotic relationship to
-the earth.
-
-As a consequence, the maladaptive social styles that encourage
-overpopulation, resource mismanagement, and environmental toxification
-develop and maintain themselves. No culture on earth, McKenna argued, is
-as heavily narcotized as the industrial West in terms of being inured to
-the consequences of maladaptive behavior.
-
-## The Archaic Revival
-
-McKenna proposed an "Archaic Revival" — a return to the partnership
-values that characterized human culture before the rise of dominator
-civilizations. This would involve not a literal return to Stone Age life
-but a recovery of the ecological awareness, spiritual openness, and
-communal values that defined pre-dominator societies.
-
-The revival would necessarily include a reconsideration of humanity's
-relationship with psychoactive plants — not as dangerous drugs to be
-suppressed but as ancient allies in the pursuit of consciousness,
-community, and ecological harmony. McKenna argued that this recovery is
-essential for creating a humane and sustainable future.
-
-## Modern Relevance
-
-The partnership-dominator framework continues to influence discussions
-about gender equality, environmental policy, indigenous rights, and drug
-reform. It provides a historical lens for understanding why certain
-forms of knowledge and experience have been systematically suppressed
-in Western civilization, and offers an alternative vision of human social
-organization that prioritizes cooperation over competition and ecological
-stewardship over exploitation.
-
-## See Also
-- [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-food-gods-partnership-dominator]]
-- [[partnership-vs-dominator-culture-mckenna]]

@@ -1,9 +1,9 @@
 ---
-title: "Fukuoka's fukuoka sowing green philosophy one grain revolution and One-Grain Revolution"
+title: Fukuoka Sowing Green Philosophy One Grain Revolution
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-road-one-straw-revolution-continuation fukuoka-road-spiritual-aspects-farming fukuoka-road-to-natural-farming"
+sources: "masanobu-fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
+wikilinks: "[[fukuoka-sowing-natural-farming-philosophy]] [[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-natural-farming-climate-change]] [[fukuoka-road-one-straw-revolution-continuation]] fukuoka-road-spiritual-aspects-farming fukuoka-road-to-natural-farming"
 type: concept
 tags: [fukuoka]
 ---
@@ -88,54 +88,3 @@ gravel with Fukuoka, understanding that it would be wonderful if the area turned
 green.
 
 Fukuoka compared Western and Eastern medicine to illustrate two approaches:
-[[fukuoka-eastern-western-medicine-healing-world-crisis]] treats localized symptoms (like conventional agriculture treats
-specific problems), while Eastern medicine seeks the overall health of the whole
-person (like natural farming seeks the health of the entire ecosystem). Both are
-moving in opposite directions.
-
-## The Question of Spirit and Death
-
-Fukuoka addressed the fear of death directly: it is not so much a fear of bodily
-death as fear of losing attachment to wealth, fame, and worldly desires.
-Material things are illusion — value is born and disappears according to the
-whims of the times. There is nothing for people to gain and nothing to lose. As
-long as people lived according to natural law, they could die peacefully at any
-time like withering grasses.
-
-The way to elucidate the true nature of the mind is to consider it from the
-standpoint of *mu* — the awareness before one becomes aware of oneself, the
-original mind before Descartes's "I think." It is only through nature that we
-can see this original mind.
-
-## The One-Grain Revolution
-
-Fukuoka's vision extended to global food security. He told the director of the
-Brazil environmental summit that even if the world's population doubled,
-everyone could be fed through natural farming without using a drop of oil. His
-"one-grain revolution" proposed that a single grain of rice, grown naturally,
-contained within it the principle that could transform human agriculture
-worldwide. This was the continuation and culmination of The One-Straw Revolution
-— his earlier book had introduced the idea; this final book provided the global
-blueprint.
-
-The natural farming revolution's goal was nothing less than returning the earth
-to the paradise it once was. Fukuoka's measures for countering desertification
-were exactly the same as the basic natural farming method. One could refer to it
-as a natural farming revolution whose goal is to re-create the [[allegro-garden-of-eden-and-delight]]
-where people would live together in abundance, in freedom, and in peace.
-
-## Abandoning What We Think We Know
-
-The book's final philosophical chapter urged the courage to abandon what we
-think we know. Fukuoka told theoretical physicist Fritjof Capra: "You seem to
-have written your books believing they would be useful to other people. I've
-written mine with the idea that books are not useful at all." While both
-investigated nature and yearned for a return to it, on the point of affirming or
-negating human knowledge, they were moving in opposite directions.
-
-## See Also
-
-- [[fukuoka-sowing-natural-farming-philosophy]] — The philosophical foundation -
-[[fukuoka-sowing-natural-farming-climate-change]] — The environmental analysis -
-[[fukuoka-road-spiritual-aspects-farming]] — Spiritual dimensions of
-farming

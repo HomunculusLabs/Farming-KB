@@ -87,32 +87,3 @@ Stereum hirsutum is not edible. Its tough, leathery texture and small size make 
 No significant toxicity has been reported, but it is simply ignored by foragers.
 
 The species has been investigated for [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Stereum species produce various sesquiterpenes and other [[antifungal-secondary-metabolites-coprophilous-fungi]], and extracts of S. hirsutum have shown activity against certain bacteria and fungi in laboratory assays.
-
-In horticulture, S. hirsutum is considered a minor pathogen when it colonizes pruning wounds on fruit trees, though it typically only affects already-compromised or poorly managed trees.
-
-## Similar Species
-
-The most common confusion is with Trametes versicolor (true turkey tail), which can look superficially similar when viewed from above.
-
-- **Trametes versicolor:** Has a poroid (pored) undersurface rather than smooth.
-  The upper surface zones are typically more vivid with sharper color contrasts
-  including white bands. It belongs to Polyporales and has a trimitic hyphal
-  system without clamp connections.
-
-- **Stereum ostrea (crowded parchment):** Generally larger with more robust
-  brackets and a smoother, less hairy upper surface. The hymenophore is more
-  distinctly wrinkled and often develops a violet tint when young.
-
-- **Stereum sanguinolentum (bleeding stereum):** Similar in form but develops
-  dark red resinous exudates when cut or damaged. Typically found on conifer
-  wood rather than hardwood.
-
-## See Also
-
-- [[stereum-ostrea]]
-
-- [[daedaleopsis-confragosa]]
-- [[tremella-mesenterica]]
-- [[irpex-lacteus]]
-- [[ganoderma-applanatum]]
-- [[xylaria-polymorpha-entity]]

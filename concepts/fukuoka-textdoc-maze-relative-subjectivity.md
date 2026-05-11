@@ -5,6 +5,7 @@ tags: [epistemology, subjectivity, knowledge, perception, philosophy-of-nature]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable|fukuoka-textdoc.md
 type: concept
 ---
@@ -87,42 +88,5 @@ non-discriminating knowledge. An infant sees things intuitively. When observed
 without intellectual discrimination, nature is entire and complete, a unity.
 In this non-discriminating view, there is no cause for doubt or discontent.
 
-The adult mentally picks things apart and classifies them; he sees everything
-as imperfect and fraught with inconsistency. Armed with doubts about
-"imperfect" nature and discontent, man sets forth to improve upon nature and
-vainly calls the changes "progress" and "development."
-
-## The Child Who Knows the Earth
-
-When a child living in the country comes across a muddy rice field, he jumps
-right in and plays. This is the simple, straightforward way of a child who
-knows the earth intuitively. But a child raised in the city lacks the courage
-to jump in. His mother has told him dirt is filthy and full of germs. Are the
-mother's knowledge and judgment really better than the unschooled intuition
-of the country child? The knowledge that "there are germs in the soil" is
-more ignorant than ignorance itself.
-
-## The Unknowing Child Grows Up Strong
-
-Hundreds of millions of microorganisms crowd each gram of soil. Bacteria are
-present, but so are other bacteria that kill these bacteria, and yet other
-bacteria that kill the killer bacteria. The soil contains bacteria harmful to
-man, but also many that are harmless or even beneficial. The soil in the
-fields under the sun is not only healthy and whole, it is absolutely essential
-to man. A child who rolls in the dirt grows up healthy. An unknowing child
-grows up strong.
-
-## The Illusion of Progress
-
-People believe that as a child grows into adulthood his understanding of
-nature deepens and through this process he becomes able to contribute to
-progress and development. That this "progress" is nothing other than a march
-toward annihilation is clearly shown by the spiritual decay and environmental
-pollution that plague the developed nations of the world. Each step of
-so-called understanding moves man further from the truth he seeks.
-
 ## See Also
-
-- [[fukuoka-errors-human-intellect]]
-- [[fukuoka-nature-is-unknowable]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
+- [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]

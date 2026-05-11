@@ -1,11 +1,11 @@
 ---
-title: McKenna's mckenna shamanism and techniques of ecstasy of Ecstasy
+title: Mckenna Shamanism And Techniques Of Ecstasy
 source: mckenna_t-food_of_the_gods.md
 topics: shamanism, ethnobotany, trance, healing, spirituality
 ---
 # McKenna's Shamanism and Techniques of Ecstasy
 
-Terence McKenna's exploration of shamanism in "Food of the Gods" draws
+[[terence-mckenna]]'s exploration of shamanism in "Food of the Gods" draws
 heavily on Mircea Eliade's foundational work "Shamanism: Archaic
 Techniques of Ecstasy" while adding his own perspective as an
 ethnobotanist who spent years studying shamanic [[yakuruna-water-spirits-of-the-amazon]].
@@ -30,7 +30,7 @@ must shamanize in order to remain cured.
 
 ## The Initiation
 
-The shamanic initiation involves a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]], which
+The [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]] involves a symbolic [[allegro-death-and-resurrection-in-the-mushroom-cult]], which
 is understood as a radical transformation into a superhuman condition.
 The neophyte undergoes initiatory sickness and trances, lying as though
 dead or in deep trance for days on end. During this time, helping spirits
@@ -49,13 +49,13 @@ transformation is from a profane into a sacred state of being.
 ## Techniques of Ecstasy
 
 Not all shamans use intoxication with plants to obtain ecstasy, but all
-shamanic practice aims to give rise to ecstasy. Drumming, manipulation of
+[[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] aims to give rise to ecstasy. Drumming, manipulation of
 breath, ordeals, fasting, theatrical illusions, and sexual abstinence are
 all time-honored methods for entering the trance necessary for shamanic
 work.
 
 Yet none of these methods is as effective, as ancient, and as
-overwhelming as the use of plants containing chemical compounds that
+overwhelming as the use of plants containing [[neurotropic-fungi-chemical-compounds]] that
 produce visions. This practice of using visionary plant intoxicants may
 seem alien to Westerners, who regard psychoactive drugs as either
 frivolous or dangerous. But the shamanic use of plants is fundamentally
@@ -88,52 +88,3 @@ reflected in language, but instead is actually produced by language."
 
 From the psychedelic shaman's point of view, the cosmos is a tale that
 becomes true as it is told, and as it tells itself. Human imagination can
-seize the tiller of being in the world. This perspective makes the
-shaman the remote ancestor of the poet and artist.
-
-## The Amazonian Experience
-
-McKenna arrived in the Upper Amazon in early 1970 after spending years in
-Asian societies. He found in India that religion, where the luminous
-flame of the spirit has guttered low, is no more than a hustle — four
-millennia of priestcraft had produced world-weary eyes. Modern Hindu
-India was both antithesis and fitting prelude to the nearly archaic
-shamanism he found in the lower Rio Putumayo of Colombia.
-
-There he studied the shamanic use of hallucinogenic plants, particularly
-ayahuasca (Banisteriopsis caapi) and the tryptamine-containing admixture
-plants. The Amazonian shamanic tradition represented, for McKenna, a
-living survival of the Archaic worldview that had been lost in Western
-civilization.
-
-## Shamanism and Ordinary Religion
-
-McKenna drew a sharp contrast between shamanism and organized religion.
-Shamanism is experiential, direct, and personal — the shaman encounters
-the sacred directly through ecstatic states. Organized religion, by
-contrast, substitutes priestcraft, dogma, and ritual for direct
-experience. The shaman is the original religious practitioner; priests
-and theologians came later, institutionalizing and diluting the direct
-experience that was shamanism's foundation.
-
-The suppression of shamanic gnosis, with its reliance on ecstatic
-dissolution of the ego, has robbed us of life's meaning, McKenna argued.
-We are killing the planet to keep intact the wrongheaded assumptions of
-the ego-dominator [[mckenna-cannabis-cultural-style-and-feminine-plant]].
-
-## Modern Relevance
-
-McKenna saw the revival of interest in shamanic practices as part of a
-broader "[[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]" — a return to pre-industrial, pre-literate
-[[weil-cultural-attitudes-toward-altered-states]] community, substance use, and nature. This revival
-represents a recovery of the relationship that humans evolved with nature
-through the use of psychoactive plants before the fall into history.
-
-## See Also
-
-- [[mckenna-ecstasy-as-social-catalyst]]
-- [[shamanism-and-techniques-of-ecstasy]]
-
-- [[mckenna-stoned-ape-hypothesis]]
-- [[partnership-vs-dominator-culture-mckenna]]
-- mckenna soma mystery and the vedic enigma

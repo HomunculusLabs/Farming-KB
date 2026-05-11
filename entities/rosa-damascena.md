@@ -59,7 +59,7 @@ Petals are pink to deep rose-red, with a velvety texture and intensely fragrant.
 
 The primary commercial growing regions are the Valley of Roses in central Bulgaria and Isparta province in Turkey. Significant cultivation also occurs in Iran, India (Kashmir), Morocco, and China.
 
-The plant prefers temperate climates with cold winters (vernalization requirement of 500–1000 chill hours) and warm, dry summers. Optimal growth occurs in well-drained, loamy soils at pH 6.0–7.0.
+The plant prefers [[fukuoka-natural-farming-temperate-climates]] with cold winters (vernalization requirement of 500–1000 chill hours) and warm, dry summers. Optimal growth occurs in well-drained, loamy soils at pH 6.0–7.0.
 
 Bulgarian production centers on the Kazanlâk rose (*R. damascena* var. *trigintipetala*), harvested annually in late May to mid-June during a brief 15–25 day flowering window.
 
@@ -75,9 +75,9 @@ The major constituents are citronellol (18–35%), geraniol (12–25%), nerol (5
 
 Over 300 compounds have been identified in Damask rose oil, including phenylethyl alcohol (trace in distilled oil, abundant in rose water), eugenol, farnesol, and linalool.
 
-Rose absolute, obtained by solvent extraction, has a different composition — higher in phenylethyl alcohol and benzyl alcohol, with a deeper, more tenacious aroma preferred in high-end perfumery.
+Rose absolute, obtained by [[cannabis-solvent-extraction]], has a different composition — higher in phenylethyl alcohol and benzyl alcohol, with a deeper, more tenacious aroma preferred in high-end perfumery.
 
-Rose water, a byproduct of distillation, contains water-soluble fractions of the oil and is used in cuisine, skincare, and religious ceremonies across the Middle East and South Asia.
+Rose water, a byproduct of distillation, contains water-soluble fractions of the oil and is used in cuisine, skincare, and [[entheogenic-folk-religious-ceremonies]] across the Middle East and South Asia.
 
 ## Bioactive Compounds and Pharmacology
 
@@ -85,40 +85,6 @@ Key bioactive constituents include flavonoids (quercetin, kaempferol, myricetin 
 
 **Antioxidant activity** has been demonstrated in multiple in vitro assays, with the petals showing significant DPPH radical scavenging capacity comparable to standard antioxidants.
 
-Anti-inflammatory effects are mediated through inhibition of cyclooxygenase-2 (COX-2) and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in cell culture models.
+Anti-inflammatory effects are mediated through inhibition of cyclooxygenase-2 (COX-2) and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in cell [[mckenna-partnership-dominator-culture-models]].
 
-Antimicrobial activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and some fungal species has been documented for both the essential oil and aqueous extracts.
-
-The essential oil exhibits anxiolytic and antidepressant-like effects in animal models, supporting traditional use as a nervine and mood enhancer. Inhalation of rose oil reduces cortisol levels in clinical studies.
-
-## Traditional and Modern Uses
-
-Persian traditional medicine employs rose preparations for digestive complaints, menstrual disorders, and respiratory conditions. Avicenna (Ibn Sina) documented the medicinal use of Damask rose extensively in *The Canon of Medicine*.
-
-Rose water has been used for centuries in Middle Eastern and South Asian cuisine — in desserts (gulab jamun, baklava), beverages (sherbet), and rice dishes.
-
-In skincare, rose oil and rose water are used as astringents, toners, and anti-aging preparations. The oil's emollient properties make it a common ingredient in luxury cosmetics.
-
-The perfumery industry values rose oil as a middle-to-base note. It is a key ingredient in approximately 75% of all quality perfumes.
-
-## Permaculture and Agroforestry Applications
-
-Damask rose serves multiple functions in permaculture designs. As a hedgerow species, it provides windbreaks, privacy screening, and wildlife habitat.
-
-The flowers attract diverse pollinators — bees, butterflies, and hoverflies — making it an excellent companion plant for fruit trees and vegetable crops in food forest systems.
-
-Rose hips provide winter food for birds and are rich in vitamin C for human consumption. The dense, thorny growth offers nesting sites and protective cover for small fauna.
-
-In multistrata systems, Damask rose occupies the shrub layer beneath fruit trees and above [[permaculture-plants-food-forest-ground-covers-bamboos]]. Its root system helps prevent soil erosion on slopes.
-
-## See Also
-
-- [[nigella-damascena]]
-
-- [[rosa-canina]]
-
-- [[ocimum-basilicum]]
-- [[melissa-officinalis]]
-- [[rosmarinus-officinalis-entity]]
-- [[calendula-officinalis]]
-- hippophae-rhamnoides
+Antimicrobial activity against Gram-positive bacteria (*[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*) and some fungal species has been documented for both the essential oil and aqueous extracts.

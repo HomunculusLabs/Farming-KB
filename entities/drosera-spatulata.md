@@ -87,34 +87,3 @@ The species hybridizes naturally with several congeners where ranges overlap. Hy
 In its native habitats, D. spatulata contributes to local insect population control. It captures small flying insects including gnats, midges, and winged ants.
 
 The species serves as a food source for specialized herbivores in some regions. Caterpillars of certain moths feed on the leaves and flowers despite the mucilage.
-
-Its presence is an indicator of nutrient-poor, waterlogged conditions. The plants often grow in association with other carnivorous species including Utricularia and other Drosera.
-
-D. spatulata plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within bog ecosystems. By capturing insect prey, it redistributes nitrogen and phosphorus from the animal kingdom into the plant-available nutrient pool.
-
-## Conservation Status
-
-D. spatulata has not been formally assessed by the IUCN. However, its broad geographic range and tolerance of disturbed habitats suggest a low risk of global extinction.
-
-Local populations face threats from habitat destruction, particularly urban development and agricultural drainage of wetlands. Coastal populations in Australia and Southeast Asia are vulnerable to development pressure.
-
-Collection from the wild is generally not a significant threat due to the species' abundance and ease of cultivation. Commercial nursery stock is widely available, reducing pressure on wild populations.
-
-Several populations within protected areas and national parks receive indirect conservation benefit. The species' ability to colonize artificial wet habitats provides additional resilience.
-
-## See Also
-
-- [[drosera-binata]]
-- [[drosera-burmannii]]
-
-- [[drosera-capensis]]
-- [[drosera-anglica]]
-- [[pinguicula-vulgaris]]
-- [[sarracenia-purpurea]]
-- [[aldrovanda-vesiculosa]]
-- nitrogen
-- wetland
-- conservation
-- adaptation
-- evolution
-- ecosystem

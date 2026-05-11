@@ -1,5 +1,5 @@
 ---
-title: cervantes bacillus thuringiensis bt control (Bt) for query-how-to-use-neem-oil-for-cannabis-pest-control Control
+title: Cervantes Bacillus Thuringiensis Bt Control
 created: 2026-04-26
 tags:
   - cannabis
@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Bacillus Thuringiensis (Bt) for Cannabis Pest Control
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- Jorge Cervantes
+-- [[jorge-cervantes]]
 
 ## Overview
 
@@ -62,10 +63,10 @@ Effective against hard-to-kill budworms, borers, armyworms, and pests
 that have built up a resistance to Btk.
 
 ### B. thuringiensis var. israelensis (Bti)
-Effective against the larvae of mosquitoes, black flies, and fungus gnats.
+Effective against the larvae of mosquitoes, black flies, and [[cervantes-fungus-gnats]].
 Look for Gnatrol, Vectobac, and Gnatrol WDG. All are lethal to larvae.
 Adults do not feed on plants and are not affected. Fungus gnats can cause
-root problems including rot. Use Bti to get rid of them as soon as they
+root problems including rot. Use Bti [[query-how-to-get-rid-of-slugs-and-snails-organically]] of them as soon as they
 are identified.
 
 ### B. thuringiensis var. morrisoni
@@ -87,38 +88,3 @@ water-saturated mediums and promotes beneficial fungus that attacks
 diseases.
 
 ### B. subtilis
-A soil-dwelling bacterium that curbs Fusarium, Pythium, and Rhizoctonia
-that cause damping-off. Commercially available under [[emcdda-brand-names-user-terms-smartshop-marketing]] Epic,
-Kodiac, Rhizo-Plus, Serenade, etc. Soak seeds and apply as a
-soil-drench.
-
-### B. popilliae
-Colonizes larvae and grub bodies that consume it, causing them to turn
-milky-white before dying. Often called milky spore disease. Most effective
-against Japanese beetle grubs.
-
-## Application Tips
-
-- Apply Bt as soon as caterpillars or larvae are spotted
-- Young pests are most susceptible to Bt treatment
-- Multiple applications are usually necessary since Bt does not reproduce
-  inside insects
-- Add UV inhibitors to extend effectiveness on foliage
-- Use spreader-stickers to improve coverage
-- Feeding stimulants such as Entice or Konsume improve ingestion
-- Bt breaks down in 1 to 3 days under UV light; reapply as needed
-- Encapsulated forms last longer on foliage (more than a week)
-
-## Safety
-
-Bt is EPA Toxicity Class IV (essentially non-toxic). It is nontoxic to
-mammals, beneficial insects, and plants. Some individuals may develop
-allergic reactions. The Bt toxin is perishable and must be stored and
-applied according to label directions.
-
-## See Also
-
-- [[cervantes-pest-disease]] for general [[cannabis-pest-management-guide]]
-- [[beneficial-insects-cannabis]] for predator introductions
-- [[root-rot-cannabis]] for fungus gnat-related root problems
-- [[leaf-miners-cannabis]] for Bt-targeted pests

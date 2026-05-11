@@ -1,5 +1,5 @@
 ---
-title: Psilocybin [[psilocybin-psilocin-variation-across-flushes]]
+title: Psilocybin Variation Across Flushes
 source: Bigwood & Beug (1982) Journal of Ethnopharmacology
 extracted: 2026-05-10
 type: concept
@@ -8,7 +8,7 @@ tags: [psilocybin, psilocybe-cubensis, alkaloid-variation, flush, fruiting, HPLC
 
 # Psilocybin Variation Across Flushes
 
-The concentration of psilocybin in *[[psilocybe-cubensis]] is]]* sporocarps varies unpredictably across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] (harvests) from the same culture.
+The concentration of psilocybin in *[[psilocybe-cubensis]]* sporocarps varies unpredictably across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]] (harvests) from the same culture.
 
 Bigwood and Beug (1982) demonstrated that psilocybin levels fluctuate by a factor of four across flushes, with no consistent upward or downward trend.
 
@@ -87,37 +87,3 @@ The factor-of-four variation is substantial and must be accounted for in any pha
 ## Comparison with Street Samples
 
 Five street samples of dried *P. cubensis* were analyzed for comparison.
-
-Psilocybin levels ranged from 0.7 to 6.2 mg/g — a factor of nearly ten variation between samples.
-
-This inter-sample variability far exceeds the intra-culture flush-to-flush variability.
-
-Street sample variability reflects differences in strain, substrate, growing conditions, harvest timing, and post-harvest handling.
-
-## Cultivation on Rye Grain vs Compost
-
-The study noted that carpophores from compost substrate are more robust in appearance than those cultivated on rye grain.
-
-However, the alkaloid analysis was performed exclusively on rye-grain-grown specimens.
-
-It remains unknown whether compost cultivation produces different alkaloid profiles.
-
-## Implications for Cultivation
-
-The data suggest that:
-
-- No single flush can be considered representative of a strain's potency
-- Multiple flush analyses are needed to characterize a strain's alkaloid profile
-- First flush mushrooms are not necessarily more or less potent than later flushes
-- Substrate composition and environmental conditions likely contribute more to [[psilocybe-cubensis-potency-variation-by-flush]] than flush number
-- Users cannot assume consistent potency across harvests from the same culture
-
-## See Also
-
-- [[psilocybin-vs-psilocin-distribution-cap-stem]]
-
-- [[psilocin-emergence-in-later-flushes]]
-
-## Sources
-
-- Bigwood, J. & Beug, M.W. (1982). Variation of [[hplc-analysis-of-psilocybin-and-psilocin]] Levels with Repeated Flushes of Mature Sporocarps of Psilocybe cubensis. Journal of Ethnopharmacology, 5, 287–291.

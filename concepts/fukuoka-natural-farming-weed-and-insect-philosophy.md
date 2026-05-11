@@ -3,6 +3,7 @@ title: fukuoka-natural-farming fukuoka natural farming weed and insect philosoph
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Fukuoka, M. (1978) - The One-Straw Revolution"
 type: concept
 tags: [fukuoka, natural-farming]

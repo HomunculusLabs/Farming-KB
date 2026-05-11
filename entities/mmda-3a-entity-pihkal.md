@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA-3a
 
-PIHKAL entry #134. 2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #134. 2-METHOXY-3,4-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -70,7 +70,7 @@ in nature as the [[permaculture-designers-manual-essential-oil-plants]] croweaci
 1-allyl-2-methoxy-3,4-methylenedioxybenzene. It thus can allow
 MMDA-3a to be classified as an Essential Amphetamine, since it can
 arise, in principle, by amination in the liver in vivo. But in the
-laboratory, croweacin is certainly not a practical starting material
+laboratory, croweacin is certainly not a practical [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
 in this synthesis.
 
 I have been told of a number of [[mushroom-cancer-clinical-trials-overview]] that have explored
@@ -88,60 +88,3 @@ phenethylamine analog was prepared by the condensation of 7.6 g of the
 above benzaldehyde with nitromethane (in acetic acid with ammonium
 acetate catalyst, giving 5.4 g of the nitrostyrene with a mp of
 115.5-116.5 deg C from methanol) followed by lithium aluminum hydride
-reduction (in ether). The product,
-2-methoxy-3,4-methylenedioxyphenethylamine hydrochloride (2C-3a)
-melted at 143-145 deg C. A series of subjective evaluations were made,
-and there are reports of marginal effects in the 40 to 120 milligram
-range. At 40 milligrams, perhaps the hint of a psychic energizer; at
-65 milligrams, there was a pleasant mood elevation; at 80 milligrams,
-there was a brief paresthetic twinge noted at about the hour and a
-half point, and at 120 milligrams, about the same at one hour, and
-then nothing. The fact that there can be such a modest change of
-effect over a three-fold range of dosage suggests that this compound
-might have some merit as an anti-depressant. It would be interesting
-to know if it blocks serotonin reuptake!
-The 4-carbon analog was made similarly (from the aldehyde and
-nitropropane but using tert-butylammonium acetate as a reagent in 100%
-excess and isopropanol as solvent, giving bright yellow crystals
-melting at 105.5-106.5 deg C from 25 volumes of boiling methanol)
-followed by reduction (with lithium aluminum hydride in ether) to give
-1-(2-methoxy-3,4-methylenedioxyphenyl)-2-aminobutane hydrochloride
-(4C-3a) with a mp of 183-185 deg C with prior sintering at 173 deg C. This
-material has been tasted at up to 3.5 milligrams with nothing noted.
-There have been no trials at any higher dose.
-## Synthesis
-To a solution of 100 g of 2,3-dihydroxyanisole in 1 L dry
-acetone there was added 110 g of powdered anhydrous K2CO3 followed by
-210 g of methylene iodide. This was brought up to a reflux on the
-[[scythian-cannabis-steam-bath-ritual]]. There was a sudden appearance of a solid phase, and then
-a gentle reflux was maintained for three days, during which time much
-of the heavy solid that initially formed had redissolved. The
-reaction mixture was filtered to remove the insoluble salts, and these
-were washed with hot acetone. The combined mother liquor and washes
-were stripped of solvent under vacuum, leaving a solid residue. This
-was leached with several portions of boiling hexane. These were
-pooled, and removal of the solvent under vacuum provided 53.6 g of
-2,3-methylenedioxyanisole as white crystals with a sharp spicy smell.
-A mixture of 120 g N-methylformanilide and 137 g POCl3 was allowed to
-incubate at [[jadam-ambient-temperature-principle]] for 0.5 h, then there was added 53 g
-of crude 2,3-methylenedioxyanisole. The dark reaction mixture was
-heated on the steam bath for 2 h and then poured into a beaker filled
-with shaved ice. This was stirred until hydrolysis was complete, and
-the black, almost crystalline gunk that separated was removed by
-filtration. The 53.6 g of crude product was analyzed by GC using an
-ethylene glycol succinate column at 190 deg C. Three peaks were apparent
-and had baseline separation. The major peak at 7.8 min constituted
-82% of the product and was 2-methoxy-3,4-methylenedioxybenzaldehyde.
-A minor peak at 12.0 min represented 16% of the product and was the
-positional isomer 4-methoxy-2,3-methylenedioxybenzaldehyde. A trace
-component (2%) lay intermediate (at 9.5 min) and was
-myristicinaldehyde. The mps of the two major benzaldehydes were
-sufficiently different that they could serve as means of
-identification. The major product was obtained directly from the
-black gunk by repeated extraction with boiling cyclohexane which, upon
-removal of the solvent, gave 33.1 g of a yellow-colored product.
-This, upon one additional recrystallization from boiling cyclohexane,
-## See Also
-- [[permaculture-farm-design-principles]]
-- [[mmda-3b-entity-pihkal]]
-- [[pihkal-qualitative-effects-themes]]

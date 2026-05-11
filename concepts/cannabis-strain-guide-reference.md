@@ -88,13 +88,3 @@ Strains marked TB (true breeding) produce consistent offspring when bred, making
 - [[cannabis-sativa-vs-indica-guide]]
 
 - [[cannabis-genetics-and-breeding]]
-- [[northern-lights]]
-- [[jock-horror]]
-
-## See Also
-
-- [[cannabis-strain-sherpa]]
-- [[cannabis-strain-satori]]
-- [[super-boof-cannabis-strain]]
-- [[cannabis-strain-chupacabra]]
-- [[mochi-cannabis-strain]]

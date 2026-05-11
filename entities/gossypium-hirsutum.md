@@ -22,7 +22,7 @@ sources:
 
 The species belongs to the tetraploid (2n = 4x = 52) New World cotton lineage, resulting from an ancient hybridization between an A-genome and D-genome diploid progenitor roughly 1–2 million years ago.
 
-Gossypium hirsutum is native to Central America and southern Mexico. It was domesticated independently in the Yucatán Peninsula and the Gulf Coast region of present-day United States.
+Gossypium hirsutum is native to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and southern Mexico. It was domesticated independently in the Yucatán Peninsula and the Gulf Coast region of present-day United States.
 
 ## Taxonomy and Morphology
 
@@ -46,11 +46,11 @@ Seeds are ovoid, approximately 8–10 mm long, and bear both long lint fibers (e
 
 ## Distribution and Habitat
 
-Gossypium hirsutum is native to tropical and subtropical regions of Central America, from central Mexico to northern Colombia. Wild populations persist in coastal dunes and dry thorn scrub of the Yucatán Peninsula.
+Gossypium hirsutum is native to tropical and subtropical regions of Central America, from [[psychoactive-cacti-of-central-mexico]] to northern Colombia. Wild populations persist in coastal dunes and dry thorn scrub of the Yucatán Peninsula.
 
 Commercial cultivation extends between approximately 37°N and 32°S latitude. Major producing countries include China, India, the United States, Pakistan, and Brazil.
 
-The species requires a frost-free growing season of 150–200 days with accumulated growing degree days above 15°C of 1800–2200. Annual rainfall requirements are 500–1200 mm, with adequate moisture most critical during flowering and boll development.
+The species requires a frost-free [[extending-growing-season]] of 150–200 days with accumulated growing degree days above 15°C of 1800–2200. Annual rainfall requirements are 500–1200 mm, with adequate moisture most critical during flowering and boll development.
 
 Optimal soils are deep, well-drained loams to clay loams with pH 5.5–8.0. Gossypium hirsutum is moderately tolerant of salinity but sensitive to waterlogging.
 
@@ -62,9 +62,9 @@ Nitrogen fertilization rates range from 60–120 kg/ha depending on soil fertili
 
 Irrigation is critical in arid production regions. Both furrow and center-pivot sprinkler systems are used, with total seasonal water requirements of 600–1000 mm.
 
-Pest management is a major production challenge. Key arthropod pests include the boll weevil (Anthonomus grandis), pink bollworm (Pectinophora gossypiella), and various aphid and whitefly species.
+[[query-what-is-biofumigation-and-how-does-it-work]] is a major production challenge. Key arthropod pests include the boll weevil (Anthonomus grandis), pink bollworm (Pectinophora gossypiella), and various aphid and whitefly species.
 
-Major diseases include bacterial blight (Xanthomonas citri pv. malvacearum), Fusarium wilt (Fusarium oxysporum f. sp. vasinfectum), and Verticillium wilt. Resistant cultivars and crop rotation are primary management tools.
+Major diseases include bacterial blight (Xanthomonas citri pv. malvacearum), [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]] ([[fusarium-oxysporum]] f. sp. vasinfectum), and Verticillium wilt. Resistant cultivars and crop rotation are primary management tools.
 
 Harvest occurs 150–180 days after planting when 60–70% of bolls are open. Mechanical pickers and strippers are used in most production systems, with seed cotton ginned to separate fiber from seed.
 
@@ -87,24 +87,3 @@ Organic cotton production has expanded significantly, reaching approximately 1% 
 ## Ecological and Economic Role
 
 Cotton is one of the world's most important fiber crops, with global production exceeding 25 million metric tons of lint annually. The cotton sector supports hundreds of millions of livelihoods across the production chain.
-
-Cotton cultivation has significant environmental impacts, particularly water consumption and pesticide use. Cotton accounts for roughly 16% of global insecticide use despite occupying only 2.5% of arable land.
-
-The crop provides habitat and nectar resources for pollinators and beneficial insects in agroecosystems. However, intensive pesticide applications can disrupt these ecological services.
-
-Crop rotation with legumes (such as [[glycine-max]] and [[arachis-hypogaea]]) improves soil nitrogen and breaks pest cycles. Conservation tillage systems in cotton reduce erosion and improve soil health.
-
-Genetically engineered Bt cotton, expressing insecticidal proteins from Bacillus thuringiensis, was adopted rapidly after commercialization in 1996. It has reduced insecticide applications in many production systems.
-
-Cottonseed hulls serve as roughage in ruminant diets, and the entire cotton plant can be used as mulch or composted. Cotton stalks are used as fuel in some regions.
-
-## See Also
-
-- [[glycine-max]]
-- [[arachis-hypogaea]]
-- [[zea-mays]]
-- [[linum-usitatissimum]]
-- [[carthamus-tinctorius]]
-- [[sesamum-indicum]]
-- [[helianthus-annuus-entity]]
-- [[vitis-vinifera]]

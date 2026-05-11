@@ -26,7 +26,7 @@ sources:
 
 ## Overview
 
-**Stardawg** is a potent indica-dominant hybrid cannabis strain created by **Top Dawg Seeds** founder JJNY, a prominent breeder within the Chemdawg family lineage. It emerged from the Pacific Northwest cannabis scene in the early 2010s and has since become one of the most recognizable "gas" strains in modern cannabis culture, prized for its extremely pungent aroma and powerful cerebral effects.
+**Stardawg** is a potent indica-dominant hybrid cannabis strain created by **Top Dawg Seeds** founder JJNY, a prominent breeder within the Chemdawg family lineage. It emerged from the [[psilocybin-north-america-pacific-northwest]] cannabis scene in the early 2010s and has since become one of the most recognizable "gas" strains in modern [[mckenna-cannabis-culture-history]], prized for its extremely pungent aroma and powerful cerebral effects.
 
 The strain is a cross between **Chemdawg 91** and **Tres Dawg**, both themselves Chemdawg selections. It is sometimes referred to as "Stardog" or "Stardawg Guava" depending on the specific phenotype. Stardawg has earned a reputation as a connoisseur-grade strain with consistently high THC content, typically testing between 20–26%.
 
@@ -40,7 +40,7 @@ Its influence on modern breeding is substantial: Stardawg has been used as a par
 - **Breeder:** JJNY / Top Dawg Seeds
 - **Geographic origin:** Pacific Northwest, United States
 
-Chemdawg 91 is itself descended from the legendary Chemdawg, which originated from a bag of seeds acquired at a Grateful Dead concert in the early 1990s. This makes Stardawg a third-generation descendant of one of the most influential cannabis lines in modern breeding history.
+Chemdawg 91 is itself descended from the legendary Chemdawg, which originated from a bag of seeds acquired at a Grateful Dead concert in the early 1990s. This makes Stardawg a third-generation descendant of one of the most influential cannabis lines [[haze-lineage-and-legacy-in-modern-breeding]] history.
 
 ## Appearance
 
@@ -48,7 +48,7 @@ Buds are medium to large in size with a dense, chunky structure typical of indic
 
 Coloration ranges from bright to dark green with occasional flashes of purple, particularly in cooler growing conditions. Pistils are numerous, orange to amber in color, and stand out prominently against the resinous calyxes.
 
-The overall visual impression is one of density and resin production rather than exotic coloring. Experienced growers note that properly cured Stardawg buds have a characteristic "wet" or "greasy" sheen from the heavy trichome blanket.
+The overall visual impression is one of density [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] rather than exotic coloring. Experienced growers note that properly cured Stardawg buds have a characteristic "wet" or "greasy" sheen from the heavy trichome blanket.
 
 ## Aroma and Flavor
 
@@ -62,7 +62,7 @@ The flavor largely mirrors the aroma, delivering a harsh diesel taste on the inh
 
 ## Terpene Profile
 
-Stardawg's terpene profile is dominated by pungent, gassy terpenes characteristic of the Chemdawg lineage:
+Stardawg's terpene profile is dominated by pungent, gassy terpenes characteristic of the [[chemdawg-lineage-and-legacy]]:
 
 - **Caryophyllene** — 30–45%: Peppery, spicy, contributes to the "gas" quality and provides anti-inflammatory effects via CB2 [[tihkal-receptor-binding-serotonin]].
 - **Myrcene** — 20–35%: Earthy, musky base note; sedative properties that contribute to the indica-dominant body effects.
@@ -87,44 +87,4 @@ Onset is relatively fast, typically within 5–10 minutes of inhalation. Effects
 
 Common reported effects:
 - **Cerebral:** Euphoria, creative stimulation, focus enhancement, giddiness
-- **Physical:** Body relaxation, couch-lock at higher doses, appetite stimulation
-- **Duration:** 2–3 hours, depending on dosage and individual tolerance
-
-At moderate doses, Stardawg is functional and socially engaging. At higher doses, the indica side dominates, producing heavy sedation suitable for evening use. Beginners should approach with caution due to the high THC content.
-
-## Cultivation
-
-- **Flowering time:** 9–10 weeks indoors
-- **Yield:** Moderate to high (350–450 g/m² indoors)
-- **Difficulty:** Intermediate; requires attention to [[green-cannabis-grow-bible-nutrient-management-ppm]] and odor control
-- **Preferred climate:** Temperate to warm; performs well indoors and in Mediterranean climates
-- **Height:** Medium; moderate stretching during early flowering
-
-Stardawg responds well to [[cannabis-training-techniques-comparison]] including SCROG, LST, and topping.
-The plants produce strong odors throughout flowering, making effective carbon filtration essential for indoor cultivation.
-The strain is moderately resistant to mold and pests but requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during late flowering due to dense bud structure.
-
-## Medical Applications
-
-Stardawg is commonly used in medical cannabis contexts for the following conditions:
-
-- **Chronic pain:** The combination of high THC and caryophyllene provides both analgesic and anti-inflammatory effects.
-- **Stress and anxiety:** The euphoric cerebral onset can provide temporary relief from anxiety symptoms at low to moderate doses, though high doses may exacerbate anxiety in susceptible individuals.
-- **Appetite stimulation:** Strong munchies effect makes it useful for conditions involving appetite suppression.
-- **Insomnia:** The sedative body effects at higher doses can aid sleep onset in patients with sleep disorders.
-- **PTSD:** Some patients report symptom relief from the mood-elevating cerebral effects.
-
-## Side Effects
-
-Common side effects include dry mouth, dry eyes, and dizziness.
-At higher doses, anxiety and paranoia are possible, particularly in inexperienced users.
-The heavy indica effects can cause pronounced couch-lock and lethargy.
-No serious adverse interactions with pharmaceuticals have been documented, but the high THC content warrants caution when combining with CNS depressants.
-
-## See Also
-
-- [[chemdawg]] — Detailed entity page for the Chemdawg genetic line
-- [[og-kush-cannabis-entity]] — Another foundational strain with Chemdawg genetic contributions
-- [[myrcene]] — Dominant sedative terpene contributing to indica-dominant effects
-- [[gmo-garlic-cookies]] — Modern descendant with enhanced Chemdawg lineage traits
-- dosidos — Notable Stardawg-influenced hybrid with similar terpene profile
+- **Physical:** Body relaxation, couch-lock at higher doses, [[cannabis-for-cachexia-and-appetite-stimulation]]

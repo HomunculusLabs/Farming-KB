@@ -25,7 +25,7 @@ Skirret roots have a sweet, nutty flavor often compared to parsnip and carrot. T
 
 ## Taxonomy and Morphology
 
-**Sium sisarum** L. belongs to the order Apiales, family Apiaceae (Umbelliferae). The genus *Sium* contains approximately 10 species distributed across temperate regions of the Northern Hemisphere.
+**Sium sisarum** L. belongs to the order Apiales, family Apiaceae (Umbelliferae). The genus *Sium* contains approximately 10 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The plant grows 60–120 cm tall with erect, hollow stems that are slightly ridged and branching in the upper portion. Basal leaves are pinnately compound with 5–11 ovate-lanceolate leaflets, each 3–8 cm long with serrated margins.
 
@@ -47,9 +47,9 @@ Wetland margins and stream banks in its native range provide the consistently mo
 
 ## Cultivation
 
-Skirret is propagated primarily by division of root crowns in early spring, as seed germination is slow and unpredictable. Crown divisions establish more quickly and produce harvestable roots in the first growing season.
+Skirret is propagated primarily by division of root crowns in early spring, as seed germination is slow and unpredictable. Crown divisions establish more quickly and produce harvestable roots in the first [[extending-growing-season]].
 
-Plants are spaced 30–45 cm apart in rows 60 cm wide. Regular irrigation is essential during the growing season, as moisture stress reduces tuber quality and promotes premature flowering.
+Plants are spaced 30–45 cm apart in rows 60 cm wide. Regular irrigation is essential during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], as moisture stress reduces tuber quality and promotes premature flowering.
 
 Harvesting occurs in late autumn after the first frosts, which convert starches to sugars and improve flavor. Roots can be stored in damp sand or soil in a cool location for several months.
 
@@ -83,33 +83,8 @@ Tudor and Stuart-era banquets frequently featured skirret among the root vegetab
 
 ## Ecological Role
 
-Skirret provides nectar and pollen for a range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including hoverflies, parasitic wasps, and small bees. The umbelliferous flower structure is particularly attractive to these pollinator groups.
+Skirret provides nectar and pollen for a range of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including hoverflies, [[parasitic-wasps-biological-pest-control]], and small bees. The umbelliferous flower structure is particularly attractive to these pollinator groups.
 
-The plant's deep root system helps improve soil structure in heavy clay soils. The fibrous root mass breaks up compacted layers and increases water infiltration rates.
+The plant's deep root system helps [[query-how-do-fungi-improve-soil-structure]] in heavy clay soils. The fibrous root mass breaks up compacted layers and increases water infiltration rates.
 
-As a perennial vegetable, skirret contributes to year-round ground cover in polyculture systems. Its foliage dies back in winter, adding organic matter to the soil surface and protecting against erosion.
-
-## Related Species
-
-The genus *Sium* includes several other edible and medicinal species. *Sium latifolium* (greater water-parsnip) is native to European wetlands and was historically consumed as a vegetable.
-
-*Sium suave* (water parsnip) is native to [[psilocybin-north-america-pacific-northwest]] and was an important food plant for indigenous peoples of the Great Plains and prairie regions. Its tubers were harvested in autumn and stored for winter use.
-
-Skirret is closely related to other root vegetables in Apiaceae including parsnip, carrot, and parsley root. These species share similar cultivation requirements and nutritional profiles.
-
-Modern breeding efforts focus on selecting clones with larger, less fibrous tubers. Heritage seed organizations in Europe and North America maintain genetic material from historical cultivars and wild populations.
-
-Renewed interest in skirret has been driven by the permaculture and perennial vegetable movements, which value its low-maintenance growth habit and perennial nature. Several small-scale market gardeners now offer skirret at farmers' markets and through community-supported agriculture programs.
-
-Research into the inulin content and prebiotic properties of skirret roots has identified potential health benefits for gut microbiome health. The specific fructooligosaccharide profile differs from that of [[comparison-jerusalem-artichoke-vs-potato]] and chicory.
-
-## See Also
-
-- [[anthriscus-cerefolium]]
-- [[levisticum-officinale]]
-- [[cryptotaenia-japonica]]
-- [[petroselinum-crispum]]
-- [[anethum-graveolens]]
-- [[borago-officinalis]]
-- [[tropaeolum-majus]]
-- [[ipomoea-batatas]]
+As a perennial vegetable, skirret contributes to year-round ground cover in polyculture systems. Its foliage dies back in winter, adding [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to the soil surface and protecting against erosion.

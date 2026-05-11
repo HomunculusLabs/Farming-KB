@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - papers/hamilton-geoffhamilton-nick_-organic-gardening.md
 type: concept
 ---
@@ -87,31 +88,3 @@ Potatoes are affected by slugs, wireworms, potato cyst eelworm,
 potato blight, scab, potato blackleg, spraing, and wart disease.
 See [[hamilton-deep-bed-system]].
 They can be planted at the same spacing as conventional rows but
-with potentially higher yields per unit area. The black plastic
-method works especially well in deep beds, eliminating the need for
-earthing up and significantly reducing weeding and watering
-requirements throughout the season.
-
-## Nutrient Requirements
-
-Potatoes are heavy feeders and benefit from soil enriched with
-well-rotted compost or manure. When preparing the planting area,
-incorporate a generous layer of organic matter. Blood, fish, and bone
-meal applied at planting time provides a balanced nutrient supply.
-Avoid excessive nitrogen, which promotes lush foliage at the expense
-of tuber development. Potatoes have a high potassium requirement,
-which can be supplemented with comfrey liquid feed or wood ash.
-See [[hamilton-organic-fertilizers-and-plant-nutrition]] for organic
-fertilizer options suitable for potato production.
-
-## Summary
-
-Potatoes are a cornerstone of the organic [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], offering
-superior flavor when grown organically. Key success factors include
-chitting seed potatoes in cool, light conditions; avoiding lime on
-the potato plot; earthing up regularly for [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] and to
-prevent greening; and vigilant monitoring for blight and other
-diseases. Early varieties provide delicious fresh crops while main
-crops serve as excellent winter storage vegetables. The black plastic
-method under cloches provides the earliest harvests, and potatoes
-serve double duty as a soil-improving cleaning crop in new gardens.

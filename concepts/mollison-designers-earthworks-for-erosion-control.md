@@ -1,15 +1,16 @@
 ---
-title: mollison designers earthworks for erosion control Control
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Earthworks [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - erosion-control
   - earthworks
   - land-rehabilitation
-  - water-management
+  - [[water-management]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -47,7 +48,7 @@ protected, with sufficient capacity to handle peak storm flows.
 Diversion drains should have a minimum grade of 1 to 2 percent to prevent
 ponding and sediment accumulation. The drain cross-section must be sized for
 the expected peak flow from the contributing catchment. Outfall points must
-be stabilized with rock, vegetation, or energy dissipators to prevent erosion
+be stabilized with rock, vegetation, or energy dissipators to [[query-how-do-i-garden-on-a-slope-and-prevent-erosion]]
 at the discharge location.
 
 ## Check Dams
@@ -59,7 +60,7 @@ they step the water flow down a gradient rather than allowing it to cut
 deeper into the channel.
 
 Check dams can be constructed from a wide range of materials: stone, timber,
-brush, sandbags, or gabions. The key design principle is that the dam height
+brush, sandbags, or gabions. The key [[design-principle-integration]] is that the dam height
 should not exceed the channel depth at the construction point, preventing
 flow from cutting around the sides. A series of check dams placed at intervals
 up a gully can progressively fill the channel with sediment and eventually
@@ -87,47 +88,3 @@ Grade stabilization structures are installed at points where a change in
 channel slope would otherwise create a waterfall or headcut that migrates
 upslope, progressively destroying the drainage system. Drop structures,
 weirs, and cascades are common types. They absorb the energy of falling water
-and establish a stable channel profile.
-
-These structures are critical where natural drainage lines cross from gentle
-to steep slopes, or where roads and tracks concentrate runoff into channels.
-Without grade stabilization, headcuts can advance rapidly, sometimes meters
-per year, destroying productive land and infrastructure.
-
-## Gully Rehabilitation
-
-Gully erosion represents the most severe form of water erosion and requires
-comprehensive rehabilitation strategies. Mollison outlines a multi-step
-approach:
-
-1. **Stabilize the gully head**: Prevent further upslope migration with a
-   grade stabilization structure or headcut control.
-2. **Reduce water inflow**: Install [[mollison-designers-diversion-drains-and-interceptor-banks]] contour banks above
-   the gully to reduce the volume of water entering the channel.
-3. **Slow flow within the gully**: Install a series of check dams or gabion
-   structures to step the flow and trap sediment.
-4. **Vegetate**: Plant the gully floor, sides, and contributing catchment
-   with deep-rooted grasses, trees, and shrubs. Roots bind soil and reduce
-   future erosion potential.
-5. **Fill progressively**: As check dams trap sediment, the gully gradually
-   fills from the bottom up, eventually restoring the land to productive use.
-
-## Broadscale Earthmoving Principles
-
-Large-scale earthworks require careful planning and execution. Mollison
-emphasizes working with the natural contours of the land, moving soil the
-shortest possible distances, and completing earthworks before the rainy season
-to allow vegetation establishment. Machinery selection depends on scale,
-site access, and budget. Small excavators and bulldozers are versatile for
-most [[permaculture-earthworks]]; larger machinery suits broadscale reshaping.
-
-## Summary
-
-> **Definition:** Earthworks for erosion control are designed structures
-> including contour banks, diversion drains, check dams, gabion walls, and
-> grade stabilization structures that slow water flow, reduce runoff velocity,
-> capture sediment, and create conditions for vegetation re-establishment. In
-
-## See Also
-
-- [[mollison-designers-rampant-blackberry-control]]

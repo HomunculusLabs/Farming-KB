@@ -2,7 +2,7 @@
 title: "Soil mollison soil formation rates and erosion costs and the Cost of Erosion"
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - soil-science
   - erosion
   - sustainability
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -81,67 +82,13 @@ Mollison connects soil erosion to broader systemic failures:
 
 - Forest clearing for agriculture removes the soil-building and
   soil-holding capacity of trees.
-- Bare fallow and tillage oxidise humus to carbon dioxide, which is
+- Bare fallow and tillage oxidise humus to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], which is
   lost to the atmosphere.
 - Burning vegetation is worse than tillage, producing terpenes,
   creosotes, nitrogen, and dust particles alongside rapid humus loss.
 - Following deforestation, up to 30% more silt per annum flows into
   and reduces the useful life of water storages.
 
-When we cut forests, we must pay the end cost in drought, water loss,
-nutrient loss, and salted soils. Such costs are not charged by uncaring
-or corrupted governments, and deforestation has therefore impoverished
-whole nations.
-
-## The Plough Culture Problem
-
-There is now abundant proof that forced yields from ploughed and
-fertilised monocultures are temporary, and that plough cultures destroy
-soils and societies. Mollison argues that we are obliged by entrenched
-bureaucracies to pay for the destruction of our world, regardless of
-the long-term costs to be borne by our children and our societies.
-
-John Jeavons estimates that, based on garden productivity, we could
-return perhaps 94% of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] to nature. Our largest job is
-the restoration of soils and forests for the sake of a healthy earth
-itself. It is most definitely not to clear, deforest, or ruin any more
-land, but first to put in order what we have destroyed.
-
-## Permaculture's Soil Ethic
-
-The permaculture approach to soil is guided by several values:
-
-- Health: conservative approaches, especially regarding biocides and
-  artificial fertilisers.
-- Yield: questioning whether high short-term yields justify long-term
-  soil destruction.
-- Life in soil: soil organisms are a major soil factor affecting pH,
-  mineral content, soil structure, and erosion.
-- Ethics: we should focus on the 4% of earth needed for food production
-  while restoring the remaining degraded land.
-
-## Integration with Permaculture Systems
-
-- mollison-soil-rehabilitation for restoring degraded soils.
-- mollison-green-manure-soil-fertility for biological soil
-  improvement.
-- mollison-no-tillage-grain-systems for cropping without tillage.
-
-## Key Principles
-
-1. Soil forms at 2-4 t/ha/year; tillage agriculture can lose 40-500
-  t/ha/year -- a catastrophic imbalance.
-2. Forests, permanent pastures, lakes, and mulched systems are the only
-  places where soil is conserved or increased.
-3. A single erosion event can destroy 2000 years of soil formation.
-4. The cost of soil loss is never charged against agricultural profit --
-  it is an unaccounted externality.
-5. Permaculture seeks to restore soils and forests, not to exploit more
-  land.
-6. Our largest job is rehabilitation of what we have already destroyed.
 ## See Also
 - [[mollison-soil-erosion-control]]
-- [[soil-erosion-control]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[chisel-plough-soil-conditioning-mollison]]
-- [[fungal-microaggregate-formation-and-soil-stability]]
+- [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]

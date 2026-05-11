@@ -2,9 +2,9 @@
 
 ## Overview
 Fungal mycelial [[mycelial-network-graph-theory-analysis]] networks — particularly those formed by cord-forming basidiomycetes
-such as *Phanerochaete velutina* — can be analyzed using tools from graph [[mycelial-network-graph-theory-analysis]] theory,
+such as *[[phanerochaete-velutina]]* — can be analyzed using tools from graph [[mycelial-network-graph-theory-analysis]] theory,
 the same mathematical framework used to study ecological food webs, metabolic
-networks, and genetic networks. This approach translates the morphological structures
+networks, and genetic networks. This approach translates the [[ectomycorrhizal-morphological-structures]]
 of fungal networks into a form appropriate for network modeling, enabling quantitative
 analysis of their architecture, efficiency, and resilience.
 
@@ -17,7 +17,7 @@ connected by links (or edges, E).
 The translation from biological structure to mathematical graph follows these steps:
 1. **Identify cords**: Mycelial cords are the most convenient spatial scale for
    analysis, as they are readily identifiable discrete structures representing
-   the major transport pathways.
+   the major [[the-apoplastic-symplastic-and-transcellular-transport-pathways]].
 2. **Define nodes**: Each branch point or junction (anastomosis) is represented
    as a node.
 3. **Define links**: The persistent cords connecting nodes form the links.
@@ -65,7 +65,7 @@ clustering indicates local redundancy — if one link fails, alternative paths e
 nearby.
 
 ## Network Evolution Over Time
-The network architecture of *P. velutina* is not static but continuously evolves
+The [[mycelial-network-architecture]] of *P. velutina* is not static but continuously evolves
 through three distinct phases:
 
 ### Phase 1: Proliferation
@@ -84,61 +84,6 @@ sparser but more efficient network. The result is a streamlined transport system
 connecting resources.
 
 ## Resilience Testing
-Network resilience estimates the extent to which network properties change as
+[[gadd-mycelial-network-resilience-grazing-pressure]] estimates the extent to which network properties change as
 nodes or links are removed. This simulates damage from grazing, physical
 disturbance, or resource depletion.
-
-### Methodology
-1. Randomly remove nodes (up to 120 in experimental networks).
-2. Measure the fraction of remaining nodes still connected to the initial inoculum.
-3. Compare resilience to model networks (Delaunay triangulation, relative
-   neighbourhood graph, minimum spanning tree).
-
-### Findings
-- Fungal networks show intermediate resilience — more robust than minimum
-  spanning trees but less than fully connected Delaunay triangulations.
-- The three-phase development process (proliferation → selection → regression)
-  produces networks that balance transport efficiency with damage tolerance.
-- The spatial constraints of planar networks limit the ability to create "short
-  cuts" between physically remote parts of the network.
-
-## Spatial Constraints
-Most network analysis has focused on topology rather than spatial relations. However,
-fungal networks are inherently spatial, and this imposes constraints:
-- Nodes have much higher probability of connecting to physical neighbors.
-- In 2-D planar networks, links cannot cross without forming a new node.
-- This makes it difficult to create topological equivalents to "short cuts" between
-  physically remote network regions.
-- Weighting links by transport speed and capacity may have an equivalent effect to
-  long-range communication, bringing distant parts of the network into closer
-  effective contact.
-
-## Network Size
-In *P. velutina* grown in a 24 cm square microcosm:
-- Corded networks comprise approximately 300-500 main nodes.
-- Including the finest discernible hyphae increases the count to approximately
-  3,000 nodes.
-- Links are considered bidirectional since the physiological direction of nutrient
-  flux varies depending on source-sink relations and cannot be predicted a priori.
-
-## Implications
-Graph-theoretic analysis of fungal networks reveals that fungi construct
-transport systems with remarkably sophisticated engineering:
-- **Efficiency**: Short path lengths and high clustering enable rapid resource
-  distribution.
-- **Resilience**: Multiple redundant pathways ensure function despite damage.
-- **Adaptability**: Dynamic reconfiguration allows response to changing resource
-  availability.
-- **Economy**: The three-phase development process minimizes biomass investment
-  while maximizing functional connectivity.
-
-## Source
-- Bebber, D.P. et al. "Imaging mycelial nutrient dynamics." In Gadd, G.M.,
-  Watkinson, S.C. & Dyer, P.S. (eds.) *Fungi in the Environment*. Cambridge
-  University Press. Lines 1320-1500 of the full text.
-
-## See Also
-- [[pcsi-scintillation-imaging-mycelial-nutrient-transport-bebber]]
-- [[gadd-mycelial-network-resilience-graph-theory]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
-- [[mycelial-foraging-strategy-resource-capture]]

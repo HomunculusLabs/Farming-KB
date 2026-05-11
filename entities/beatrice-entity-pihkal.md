@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BEATRICE
 
-PIHKAL entry #11. 2,5-Dimethoxy-4,N-dimethyl-A.
+[[2c-b-pihkal-entry-20]] #11. 2,5-Dimethoxy-4,N-dimethyl-A.
 
 ## Dosage and Duration
 
@@ -88,18 +88,5 @@ additional dilute H2SO4 needed to effect a clear solution. The Et2O
 was separated, and the aqueous phase extracted with 100 mL Et2O and
 then with 2x250 mL CH2Cl2. Following the addition of 100 g potassium
 
-sodium tartrate, the mixture was made basic with 25% NaOH. The clear
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[2c-b-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[bis-tom-entity-pihkal]] -- BIS-TOM (PIHKAL #12)
+- [[ethyl-j-entity-pihkal]]

@@ -87,37 +87,3 @@ Propagation is primarily through stem cuttings. Seeds require fresh material and
 N. ampullaria displays notable morphological [[psilocybin-psilocin-variation-across-flushes]] its range. Bornean populations tend to produce larger pitchers with more pronounced coloration than those from Sumatra.
 
 Several distinct forms have been recognized by horticulturalists. A marbled or variegated form from Sarawak produces pitchers heavily speckled with red and purple.
-
-The species is most closely related to N. gracilis and N. bicalcarata within its range. It occasionally hybridizes with N. gracilis in Peninsular Malaysia and with N. rafflesiana in Borneo.
-
-Natural hybrids are intermediate in morphology and often difficult to distinguish without detailed analysis. The N. ampullaria × N. rafflesiana hybrid is among the most commonly encountered in lowland Borneo.
-
-## Conservation Status
-
-N. ampullaria is listed as Least Concern by the IUCN due to its wide distribution and large population sizes. It remains common across much of its range.
-
-However, habitat loss through deforestation and agricultural expansion poses localized threats. Peat swamp drainage in Sumatra and Kalimantan has eliminated some populations.
-
-Collection for the horticultural trade is not considered a significant threat. The species is widely propagated in cultivation and readily available from commercial nurseries.
-
-Several key populations occur within protected areas including Kinabalu National Park, Gunung Mulu National Park, and Taman Negara. These provide important safeguards for the species.
-
-## See Also
-
-- [[nepenthes-thorelii]]
-
-- [[nepenthes-mirabilis]]
-- darlingtonia californica
-- [[drosera-rotundifolia]]
-- [[sarracenia-purpurea]]
-- nitrogen
-- wetland
-- adaptation
-- evolution
-- ecosystem
-- biodiversity
-- conservation
-- habitat
-- nutrition
-
-- [[nepenthes-reinwardtiana]]

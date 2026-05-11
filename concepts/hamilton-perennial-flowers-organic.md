@@ -1,5 +1,5 @@
 ---
-title: Growing hamilton perennial flowers organic Organically
+title: Hamilton Perennial Flowers Organic
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -15,7 +15,7 @@ Perennials are plants with soft stems that generally die down every winter and p
 
 ## Choosing Perennials
 
-Perennials are confusingly sold under many names: "herbaceous perennials," "herbaceous plants," "hardy plants," "hardy perennials," and "hardy herbaceous perennials" -- they are all the same thing. Half-hardy perennials are merely perennials that need to spend the winter indoors.
+Perennials are confusingly sold under many names: "[[permaculture-plants-herbaceous-perennials]]," "herbaceous plants," "hardy plants," "hardy perennials," and "hardy herbaceous perennials" -- they are all the same thing. Half-hardy perennials are merely perennials that need to spend the winter indoors.
 
 The plants you choose will be governed by the soil type and aspect of your border, but try to include as varied a selection as possible. Consider:
 - Flowering season (plan for color from [[coleman-overwintered-onions-and-early-spring-crops]] through late fall)
@@ -77,7 +77,7 @@ Some perennials -- for example, Michaelmas daisies (Aster novi-belgii), delphini
 ## Seasonal Perennial Highlights
 
 ### Early Spring
-Cowslip (Primula veris), drumstick primrose (Primula denticulata), windflower (Anemone blanda), hellebores
+Cowslip ([[primula-veris]]), drumstick primrose ([[primula-denticulata]]), windflower ([[anemone-blanda]]), hellebores
 
 ### Mid-Spring
 Forget-me-not (Myosotis alpestris), alyssum, forsythia (shrub), grape hyacinth (Muscari), euphorbia
@@ -87,18 +87,3 @@ Magnolia, clematis, lilac, peony, Solomon's seal, lily-of-the-valley, columbine,
 
 ### Early Summer
 Lilac, fuchsia, rosemary, potentilla, escallonia, lupin, delphinium, rose, plantain lily (Hosta)
-
-### Midsummer
-Yarrow, dahlia, bellflower, freesia, foxglove, mock orange, bittersweet
-
-### Fall
-Michaelmas daisy, ice plant (Sedum spectabile), cotoneaster, tienturier grape, rose hips, good-luck plant (Oxalis deppei), sternbergia
-
-## Related Concepts
-
-- [[hamilton-rose-growing-organic]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[seed-starting-indoors-solomon]]

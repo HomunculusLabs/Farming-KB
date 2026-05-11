@@ -87,11 +87,3 @@ productivity. Its exceptional aluminum tolerance makes it a candidate for
 forest reclamation on acidic, degraded soils. In sustainable forestry and
 permaculture, understanding Suillus ecology helps inform tree planting
 strategies and soil management practices for conifer-dominated systems.
-
-## See Also
-
-- [[suillus-placidus]]
-
-- [[paxillus-involutus]]
-- [[cenococcum-geophilum]]
-- [[suillus-americanus]]

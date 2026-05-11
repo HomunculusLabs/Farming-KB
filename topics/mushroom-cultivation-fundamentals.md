@@ -5,6 +5,7 @@ tags: [mushroom-cultivation, mycology, sterility, substrate, fruiting, spawn, co
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - growing-gourmet
   - stamets-cultivator
   - cotter

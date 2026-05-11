@@ -9,17 +9,17 @@ sources:
 ---
 # Cannabis Respiratory Conditions
 
-The relationship between cannabis and respiratory health is complex. While smoking any plant material carries risks for the lungs, the [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) addresses respiratory conditions including asthma, chronic obstructive pulmonary disease (COPD), and [[psk-breast-lung-cancer-clinical-trials]], noting that cannabis-only smoking has been found to be mildly lung-protective and was not associated with an increased risk of lung cancer in some studies. The CHI covers lung diseases as a separate therapeutic category.
+The relationship between cannabis and respiratory health is complex. While smoking any plant material carries risks for the lungs, the [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) addresses respiratory conditions including asthma, chronic obstructive pulmonary disease (COPD), and [[psk-breast-lung-cancer-clinical-trials]], noting that cannabis-only smoking has been found to be mildly lung-protective and was not associated with an increased risk of [[blesching-cannabis-lung-cancer]] in some studies. The CHI covers lung diseases as a separate therapeutic category.
 
 ## Cannabis and Lung Health
 
 ### Smoking vs. Other Methods
-The primary respiratory concern with cannabis is the method of administration. Smoking burned plant material exposes the lungs to tar, carbon monoxide, and other combustion byproducts. The Cannabis Health Index notes that the smoking of plant material and its effect on the lungs is an area where concerns are raised. To minimize potential risk, the CHI recommends:
+The primary respiratory concern with cannabis is the method of administration. Smoking burned plant material exposes the lungs to tar, carbon monoxide, and other combustion byproducts. The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] notes that the smoking of plant material and its effect on the lungs is an area where concerns are raised. To minimize potential risk, the CHI recommends:
 
 - **Vaporizers**: Heat cannabis to release cannabinoids and terpenes without combustion, significantly reducing exposure to harmful byproducts
 - **Tinctures**: Alcohol-based or glycerin-based liquid extracts taken sublingually, completely bypassing the lungs
 - **Edibles/capsules**: Ingested products that avoid pulmonary exposure entirely
-- **Topicals**: Creams and balms for localized relief without systemic or pulmonary effects
+- **Topicals**: Creams and balms for localized relief without systemic or [[blesching-cannabis-smoking-lung-pulmonary-effects]]
 
 ### The Lung Cancer Evidence
 A notable large-scale study found that cannabis-only smoking (as opposed to cannabis combined with tobacco) was mildly lung-protective and was not associated with an increased risk of lung cancer. This finding has been attributed to the anti-inflammatory and anti-tumor properties of cannabinoids. However, this should not be taken as an endorsement of smoking cannabis, as other respiratory risks remain.
@@ -37,7 +37,7 @@ Cannabis has bronchodilatory properties that may benefit asthma patients:
 - Smoking cannabis is contraindicated for asthma patients due to smoke irritation
 - Vaporizing at appropriate temperatures is a safer alternative for asthma patients seeking bronchodilatory benefits
 - Combustion byproducts can trigger bronchospasm in sensitive individuals
-- Always consult a pulmonologist before using cannabis for asthma
+- Always consult a pulmonologist before using [[cannabis-for-asthma]]
 
 ### Mechanism
 THC's bronchodilatory effects are mediated through CB1 receptor activation in the bronchial smooth muscle. This mechanism is distinct from the beta-agonist pathway used by conventional asthma inhalers, suggesting potential complementary use.
@@ -88,14 +88,3 @@ Research on cannabis and pulmonary function has produced mixed results:
 3. **Start with low doses** and titrate slowly, monitoring respiratory response
 4. **Inform your pulmonologist** about any cannabis use
 5. **Consider beta-caryophyllene-rich products** as an additional anti-inflammatory agent for respiratory conditions
-6. **Monitor lung function** regularly if using inhaled cannabis products
-
-## Related
-
-- [[cannabis-anti-inflammatory-applications]] -- anti-inflammatory mechanisms
-- [[cannabis-endocannabinoid-system]] -- receptor biology
-- [[cannabis-administration-methods-comparison]] for a detailed comparison of delivery routes.
-
-## Bronchodilator Properties
-
-Related research on [[cannabis-for-asthma]] has demonstrated that THC acts as a bronchodilator, which could theoretically benefit COPD patients who experience airway constriction. While this has not been specifically studied in COPD, the bronchodilator properties of cannabinoids may complement the anti-inflammatory and weight-gain benefits.

@@ -88,24 +88,3 @@ absorption. The familiar witch's broomstick goes far back in European
 magic beliefs, connected to the application of these ointments.
 
 The ancient goddess of witches, Hecate, lords over the psychoactive
-and magical herbs, particularly those in the Nightshade family. The
-solanaceous plants -- Henbane, Belladonna, and Mandrake -- were her
-special province, and their use was believed to grant access to her
-realm of prophetic power and necromantic knowledge. Porta, a
-contemporary of Galileo, wrote in 1589 that under the effects of a
-potion of these solanaceous plants a "man would seem sometimes to be
-changed into a fish; and flinging out his arms, would swim on the
-ground; sometimes he would seem to skip up and then to dive down
-again."
-
-Henbane's role spans from ancient Egyptian medicine through classical
-Greek prophecy to [[lycanthropy-solanaceous-hallucinogens]] medieval, making it one of the
-most historically significant psychoactive plants in Western
-civilization. Its reputation as a plant of oracles, witches, and
-physicians testifies to the enduring human fascination with plants
-that alter consciousness and blur the boundary between the natural and
-supernatural worlds.
-
-## See Also
-
-- [[henbane-hyoscyamus-niger-ethnobotany]]

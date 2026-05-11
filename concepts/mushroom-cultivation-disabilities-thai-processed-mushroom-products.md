@@ -1,5 +1,5 @@
 ---
-title: Thai Processed Mushroom Products and Fermentation Recipes
+title: Mushroom Cultivation Disabilities Thai Processed Mushroom Products
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -16,8 +16,8 @@ sources:
 # Thai Processed Mushroom Products and Fermentation Recipes
 
 Because mushrooms are highly perishable, strategies for conservation and
-processing are essential for any mushroom cultivation enterprise. The FAO
-training manual for disabled mushroom farmers in northeastern Thailand
+processing are essential for any [[accessible-mushroom-cultivation-for-disabilities]] enterprise. The FAO
+training manual for [[fao-monitoring-evaluation-disabled-mushroom-entrepreneurs]] farmers in northeastern Thailand
 documents several traditional Thai methods for processing fresh mushrooms
 into shelf-stable products, representing an important income diversification
 strategy for small-scale producers.
@@ -40,9 +40,9 @@ facilities in rural areas may not support elaborate processing techniques.
 
 ## Fermented Mushrooms: Pla La Hed
 
-Pla la hed is a traditional fermented mushroom preparation widely
+Pla la hed is a traditional fermented [[magic-mushroom-preparation-and-consumption-methods]] widely
 appreciated in northeastern Thailand. The recipe calls for two kilograms
-of shredded oyster mushrooms or the Nang Fa variety, 200 grams of roasted
+of shredded [[cultivation-of-oyster-mushrooms]] or the Nang Fa variety, 200 grams of roasted
 rice, 100 grams of salt, and three tablespoons of garlic cloves.
 
 The preparation process involves cleaning, trimming, and shredding the
@@ -88,47 +88,3 @@ oil, and two teaspoons of ground pepper.
 The preparation involves frying the dried shredded mushrooms in vegetable
 oil until crispy, then draining the oil. Palm sugar is caramelized in a
 pan, and the fried mushrooms are added along with soy sauce and ground
-pepper. The mixture is stirred until the sugar coating is evenly
-distributed. Sesame seeds are added last. The result is a crunchy,
-caramelized mushroom snack with a balance of sweet, salty, and savory
-flavors.
-
-## Pickled Mushrooms with Soy Sauce
-
-Pickled mushrooms preserved in soy sauce offer another shelf-stable
-product. The soy sauce acts as both a preservative and a flavoring agent,
-its high salt content inhibiting microbial growth while imparting a
-distinctive umami character. This preparation is straightforward and can
-be produced with minimal equipment, making it accessible to rural
-producers with limited resources.
-
-## Economic Significance for Small Producers
-
-The ability to process mushrooms into shelf-stable products addresses two
-critical challenges for small-scale mushroom farmers: the perishability of
-the fresh product and the need to diversify income streams. By converting
-fresh mushrooms that might otherwise spoil into fermented, dried, or
-candied products, producers can extend the effective market window from
-hours to weeks or months.
-
-These processed products also typically command higher per-kilogram prices
-than fresh mushrooms, improving the overall profitability of the
-cultivation enterprise. For disabled farmers who may face transportation
-challenges in reaching daily fresh markets, processed products offer the
-flexibility to sell when conditions permit.
-
-## Waste Management Integration
-
-Processing mushroom waste, including stems, trimmings, and spent substrate,
-can be composted and returned to the cultivation cycle. The training manual
-emphasizes that waste management and recycling are integral components of a
-sustainable mushroom enterprise, with spent substrate serving as an
-excellent organic fertilizer for vegetable gardens.
-
-## See Also
-
-- [[mushroom-cultivation-disabilities-training-manual-overview]]
-- [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
-- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
-- [[duggar-mushroom-culinary-preparation-and-cooking]]
-- [[duggar-mushroom-harvest-and-post-harvest]]

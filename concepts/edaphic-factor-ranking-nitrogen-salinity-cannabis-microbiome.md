@@ -1,5 +1,5 @@
 ---
-title: Edaphic Factor Ranking in cultivar-cannabis-microbiome-two-tier-selection-model Assembly via BEST Analysis
+title: Edaphic Factor Ranking Nitrogen Salinity Cannabis Microbiome
 created: 2026-05-08
 tags: [microbiology, cannabis, microbiome, edaphic-factors, soil-science, nitrogen, salinity, BEST-analysis, community-ecology]
 date: 2026-05-08
@@ -11,7 +11,7 @@ date: 2026-05-08
 
 The physical and chemical properties of soil — collectively called edaphic
 factors — are primary drivers of [[edaphic-factors-microbial-community-structure]] structure. In the
-Cannabis microbiome study (Winston et al., 2014), a Best Subset of
+[[winston-cannabis-microbiome-study-design]] (Winston et al., 2014), a Best Subset of
 Environmental Variables with Maximum (Rank) Correlation (BEST) analysis
 was employed to determine which [[soil-edaphic-factors-microbial-communities]] most strongly influence
 [[core-endorhiza-bacterial-community-composition-cannabis]] across bulk soil, rhizosphere, and endorhiza
@@ -19,9 +19,9 @@ compartments.
 
 ## Edaphic Factors Measured
 
-The study quantified five soil physicochemical properties for each sample:
+The study quantified five [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] for each sample:
 - **Total Nitrogen** (N)
-- **Total Organic Carbon** (C)
+- **Total [[dighton-fungal-dissolved-organic-carbon-production]]** (C)
 - **pH**
 - **Salinity**
 - **Water content**
@@ -83,55 +83,7 @@ compatible nitrogen metabolism strategies.
 The Mo-Bio soil had total nitrogen of 0.26-1.51%, while the Orange
 County soil had 0.53% nitrogen but dramatically higher organic carbon
 (20.0%). Despite lower nitrogen, the high-carbon Orange County soil
-supported a distinct microbial community, reflecting the interplay
+supported a distinct [[cannabis-cultivar-microbial-community-effects]], reflecting the interplay
 between carbon availability and nitrogen limitation.
 
 ## Salinity as the Second Factor
-
-Salinity ranked second in both analyses, which is notable given that
-soil salinity directly affects microbial osmotic balance. High salinity
-creates a physiological barrier that excludes salt-sensitive taxa while
-selecting for halotolerant organisms. The Mo-Bio soil had salinity
-readings of 5.12-7.44 compared to 1.73 for the Orange County soil,
-representing a substantial difference that contributed to community
-differentiation.
-
-## Carbon and Water Content
-
-Organic carbon content ranked third and water content fourth. Carbon
-is the primary energy source for heterotrophic soil bacteria, while
-water content affects oxygen diffusion, [[cervantes-nutrient-mobility-deficiency-diagnosis]], and
-microbial activity. The dramatic difference in organic carbon between
-soil types (3-5% vs. 20%) likely drove much of the community
-differentiation beyond what nitrogen alone explains.
-
-## pH: Weakest but Still Significant
-
-pH ranked last among the five factors tested, though it remained
-statistically significant (r = 0.221, p = 0.001). This is somewhat
-surprising given that pH is often cited as the strongest edaphic
-predictor of soil microbial community composition in the broader
-literature. The relatively narrow pH range across samples (6.63-6.94)
-may have limited the ability to detect stronger pH effects, as all
-soils were mildly acidic.
-
-## Interaction with Plant Strain Effects
-
-THC levels were significantly correlated with endorhiza community structure
-(Mantel r = 0.863, p = 0.001), but THC was also correlated with edaphic
-variables because one soil type produced higher-THC plants. This confounding
-means microbiome-cannabinoid associations cannot be cleanly separated from
-soil chemistry without controlled experiments.
-
-## Implications for Cannabis Cultivation
-
-For growers, the edaphic factor rankings suggest a priority order for
-soil management:
-1. **Nitrogen management** has the largest effect on the available
-   microbial community
-2. **Salinity control** (through irrigation practices) is the second
-   most important lever
-3. **Organic matter** (carbon) amendments should target adequate levels
-   rather than maximizing content
-4. **Water management** and **pH adjustment** fine-tune the community
-   but have smaller effects within normal ranges

@@ -13,21 +13,21 @@ Cannabis is an annual, dioecious (separate male and female plants) herbaceous pl
 
 ### Seed and Germination
 
-Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
+[[query-how-to-germinate-cannabis-seeds]] are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
 
 ### Vegetative Structures
 
-**Stem**: Erect, typically 1-5 meters tall in outdoor conditions, with visible nodes where branches and leaves attach. Under favorable conditions, Cannabis can grow up to 7 cm/day. The stem provides structural support and is the source of hemp fiber (in fiber-type varieties). Nodes (intersections where leaves attach) alternate along the main stem.
+**Stem**: Erect, typically 1-5 meters tall in outdoor conditions, with visible nodes where branches and leaves attach. Under favorable conditions, Cannabis can grow up to 7 cm/day. The stem provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and is the source of hemp fiber (in fiber-type varieties). Nodes (intersections where leaves attach) alternate along the main stem.
 
 **Leaves**: Compound palmate leaves with 3-13 serrated leaflets (fingers). The sequence develops progressively: the first true leaves have 1 leaflet, the second pair has 3, the third 5, up to 11 or more. Each leaflet has serrated edges. The petiole (leaf stem) connects to the main stem at the node.
 
 **Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by genetics and growing conditions.
 
-**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid vegetative growth.
+**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid [[cannabis-vegetative-growth-stage]].
 
 ### Flowering Structures
 
-Cannabis is a short-day plant [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] — flowering is triggered when daylength drops below a critical threshold (varies by strain, typically 12-14 hours). The first sign of flowering is undifferentiated flower primordia at the nodes, behind the stipules (leaf spurs).
+Cannabis is a short-day plant — flowering is triggered when daylength drops below a critical threshold (varies by strain, typically 12-14 hours). The first sign of flowering is undifferentiated flower primordia at the nodes, behind the stipules (leaf spurs).
 
 **Female (pistillate) flowers**:
 - Calyx: a symmetrical tubular floral sheath that envelops the ovule. The calyx is the primary site of cannabinoid and terpene production.
@@ -46,7 +46,7 @@ Cannabis is a short-day plant [[green-cannabis-plant-anatomy-calyx-pistil-bud-st
 
 ### Trichomes (Glandular Hairs)
 
-Trichomes are the primary sites of cannabinoid and terpene biosynthesis. Three major types:
+Trichomes are the primary sites of cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. Three major types:
 
 1. **Capitate-stalked trichomes**: Largest and most abundant on female flower parts. Consist of a stalk and a globular head (gland) where cannabinoids and terpenes are synthesized and stored. These are the primary source of the psychoactive resin.
 
@@ -54,7 +54,7 @@ Trichomes are the primary sites of cannabinoid and terpene biosynthesis. Three m
 
 3. **Bulbous trichomes**: Smallest, barely visible. Found throughout the plant surface.
 
-The glandular head contains a secretory cavity where the cannabinoid precursor olivetolic acid is enzymatically converted to CBGA (cannabigerolic acid), which is then converted to THCA, CBDA, or CBCA by specific synthase enzymes. Decarboxylation (heating) converts the acidic forms to their active neutral forms (THC, CBD, CBC).
+The glandular head contains a secretory cavity where the cannabinoid precursor olivetolic acid is enzymatically converted to CBGA ([[cannabigerolic-acid-cbga]]), which is then converted to THCA, CBDA, or CBCA by specific synthase enzymes. Decarboxylation (heating) converts the acidic forms to their active neutral forms (THC, CBD, CBC).
 
 ### Reproduction
 
@@ -65,3 +65,23 @@ Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen t
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-extraction-methods]]
 - [[cannabis-extraction-basics]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

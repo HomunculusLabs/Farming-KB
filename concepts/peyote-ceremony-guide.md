@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Peyote (Lophophora williamsii [[mescalero-apache-peyote-use]]) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline as its primary psychoactive alkaloid, along with a complex of other compounds including peyophylline, lophophorine, and anhalonidine. Peyote has been used as a sacrament by indigenous peoples for at least 5,700 years — archaeological evidence from the Shumla Caves in Texas includes peyote buttons radiocarbon dated to 3780–3660 BCE.
+Peyote ([[lophophora-williamsii]]) is a small, spineless cactus native to the Chihuahuan Desert of southern Texas and northern Mexico. It contains mescaline as its primary psychoactive alkaloid, along with a complex of other compounds including peyophylline, lophophorine, and anhalonidine. Peyote has been used as a sacrament by indigenous peoples for at least 5,700 years — archaeological evidence from the Shumla Caves in Texas includes peyote buttons radiocarbon dated to 3780–3660 BCE.
 
-Peyote occupies a unique position in the world of entheogens: it is simultaneously a controlled substance, a religious sacrament protected by law, and a species [[mescaline-peyote-and-san-pedro-guide]] facing ecological threat from overharvesting.
+Peyote occupies a unique position in the world of entheogens: it is simultaneously a controlled substance, a religious sacrament protected by law, and a species facing ecological threat from overharvesting.
 
 ## The Plant
 
@@ -90,7 +90,7 @@ Peyote songs are a vital component of NAC ceremony. They are:
 ### Dosage
 - 4–12 fresh buttons (5–10 g fresh each) for a standard ceremony dose
 - 5–20 dried buttons for equivalent effects
-- Mescaline content varies: fresh buttons contain roughly 0.4% mescaline by weight
+- [[gottlieb-peyote-botany-and-mescaline-content]] varies: fresh buttons contain roughly 0.4% mescaline by weight
 - A standard dose contains approximately 200–400 mg mescaline
 
 ## Conservation Concerns
@@ -98,7 +98,7 @@ Peyote songs are a vital component of NAC ceremony. They are:
 Peyote is under significant ecological pressure:
 
 - Wild populations have declined dramatically in Texas and Mexico
-- Poaching by non-indigenous harvesters for the commercial market is a primary threat
+- Poaching by non-indigenous harvesters for the [[porcini-commercial-market]] is a primary threat
 - The slow growth rate means populations cannot recover from overharvesting
 - Climate change is altering the Chihuahuan Desert ecosystem
 - Several organizations are working on peyote conservation and sustainable cultivation programs
@@ -107,13 +107,27 @@ Peyote is under significant ecological pressure:
 
 - Peyote contains mescaline — a potent psychedelic requiring respect and preparation
 - Nausea is nearly universal during onset — considered part of the cleansing process
-- Not appropriate for people with schizophrenia, bipolar disorder, or psychotic conditions
+- Not appropriate for people with schizophrenia, [[blesching-cannabis-bipolar-disorder]], or psychotic conditions
 - Cardiovascular conditions require medical evaluation before use
 - The ceremony context itself (experienced leader, structured ritual, community support) provides significant harm reduction
 - Legal protections apply only to NAC members of recognized tribes — see [[psychedelic-plants-legal-status]]
-- See [[mescaline-extraction-guide]] for extraction chemistry
+- See [[mescaline-extraction-guide]] for [[mushroom-polysaccharide-extraction-chemistry]]
 
 ## Related Topics
 
 - [[san-pedro-cactus-preparation]] — a faster-growing mescaline cactus alternative
-- [[mescaline-extraction-guide]] — laboratory extraction methods
+- [[mescaline-extraction-guide]] — laboratory [[arbuscular-mycorrhizal-spore-extraction-methods]]
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[golden-guide-peyote-and-mescaline-cacti]]
+- [[gottlieb-peyote-botany-and-mescaline-content]]
+- [[gottlieb-peyote-cultivation-from-seed]]
+- [[gottlieb-peyote-extraction-and-preparation-methods]]
+- [[gottlieb-peyote-legal-status-and-conservation]]

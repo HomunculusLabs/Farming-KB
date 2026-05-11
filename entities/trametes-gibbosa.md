@@ -36,7 +36,7 @@ It is a white-rot decomposer commonly found on dead hardwood, particularly beech
 
 The species is notable for its lumpy, uneven pore surface and concentrically zoned upper surface, which give it a distinctive appearance among bracket fungi.
 
-Though not widely consumed as an edible, it has attracted interest for its bioactive metabolites and potential medicinal properties.
+Though not widely consumed as an edible, it has attracted interest for its bioactive metabolites and potential [[panax-ginseng]].
 
 ## Taxonomy and Morphology
 
@@ -46,7 +46,7 @@ The species was originally described by Persoon in 1801 and has been placed in s
 
 The basionym is *Boletus gibbosus* Pers. (1801).
 
-The fruiting body is a semicircular to fan-shaped bracket, 5–15 cm wide and 1–4 cm thick at the base.
+The [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is a semicircular to fan-shaped bracket, 5–15 cm wide and 1–4 cm thick at the base.
 
 The upper surface is concentrically zoned in shades of white, grey, and pale brown, often with a whitish bloom.
 
@@ -66,17 +66,17 @@ Cystidia are absent or very rare on the hymenium.
 
 ## Distribution and Habitat
 
-*T. gibbosa* is found across Europe, from Scandinavia to the Mediterranean, and extends into parts of Asia and North America.
+*T. gibbosa* is found across Europe, from Scandinavia to the Mediterranean, and extends into parts of Asia and [[guzman-psilocybin-mushrooms-north-america]].
 
 In Europe it is among the more frequently encountered Trametes species on hardwood.
 
-The fungus is saprotrophic, growing almost exclusively on dead or dying hardwood logs and stumps.
+The fungus is saprotrophic, growing almost exclusively on dead or dying hardwood [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]].
 
-Preferred substrates include beech (*Fagus sylvatica*), oak (*Quercus* spp.), birch (*Betula* spp.), and occasionally maple and ash.
+Preferred substrates include beech (*[[fagus-sylvatica]]*), oak (*Quercus* spp.), birch (*Betula* spp.), and occasionally maple and ash.
 
 Fruiting occurs from late spring through autumn, with peak abundance in late summer and early autumn.
 
-It is typically found in deciduous and mixed forests, particularly in older stands with abundant coarse woody debris.
+It is typically found in deciduous and mixed forests, particularly in older stands with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]].
 
 The species can persist on the same substrate for multiple years, producing perennial brackets that add new growth zones annually.
 
@@ -87,47 +87,3 @@ Like other *Trametes* species, *T. gibbosa* produces a range of bioactive [[anti
 Polysaccharides isolated from the fruiting body have demonstrated immunomodulatory activity in vitro, stimulating macrophage function and cytokine production.
 
 Triterpenoids present in the context show anti-inflammatory properties in preliminary assays.
-
-The species contains phenolic compounds, including hispidin derivatives, which contribute to its antioxidant capacity.
-
-Lanostane-type triterpenes with cytotoxic activity against certain cancer cell lines have been isolated from cultured mycelium.
-
-Protease enzymes produced by *T. gibbosa* have been investigated for industrial applications, particularly in bioprocessing and leather treatment.
-
-Laccase activity is notable and comparable to *T. versicolor*, suggesting potential for bioremediation applications.
-
-## Ecology and Applications
-
-*T. gibbosa* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] as a primary decomposer of hardwood.
-
-Its white-rot metabolism breaks down lignin, cellulose, and hemicellulose, contributing to carbon and nutrient release.
-
-The species is a moderate to strong decomposer, capable of extensive wood breakdown over several years.
-
-It competes with other wood-inhabiting fungi for substrate, and its perennial fruiting strategy allows it to maintain territory.
-
-In bioremediation, the laccase and [[fungal-manganese-peroxidase-remediation]] enzymes of *T. gibbosa* can degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons and synthetic dyes.
-
-The species has been tested in laboratory-scale remediation of contaminated wood and soil substrates.
-
-In artisanal contexts, tough dried brackets have been used as makeshift drawing surfaces and polishing materials.
-
-## Related Species
-
-*T. versicolor* (Turkey Tail) is the most similar species but has more regular, round pores and thinner, more flexible brackets.
-
-*T. hirsuta* has a distinctly hairy upper surface and more regular pores.
-
-*T. ochracea* is typically smaller with a more ochre-colored upper surface.
-
-*T. trogii* grows primarily on dead conifers and has a coarser pore surface.
-
-*Coriolopsis trogii* was formerly considered congeneric and occupies a similar ecological niche on hardwood.
-
-## See Also
-
-- [[trametes-hirsuta]]
-- [[trametes-ochracea]]
-- [[fomes-fomentarius]]
-- [[coriolopsis-trogii]]
-- [[mycoremediation]]

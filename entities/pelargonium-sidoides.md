@@ -47,7 +47,7 @@ EPs 7630 demonstrates broad-spectrum antibacterial activity against respiratory 
 - *Streptococcus pneumoniae*
 - *Haemophilus influenzae*
 - *Moraxella catarrhalis*
-- *Staphylococcus aureus* (including some MRSA strains)
+- *[[staphylococcus-aureus]]* (including some MRSA strains)
 - *Streptococcus pyogenes* (Group A Strep)
 - *Mycobacterium tuberculosis* (moderate activity)
 
@@ -56,7 +56,7 @@ The mechanism appears multifactorial: direct bacterial membrane disruption, inte
 ### Immunomodulatory Effects
 - Stimulates phagocytic activity of macrophages and neutrophils
 - Enhances natural killer (NK) cell activity
-- Increases secretion of nitric oxide (NO) and reactive oxygen species (ROS) by immune cells
+- Increases secretion of nitric oxide (NO) and [[reactive-oxygen-species-and-oxidative-stress]] (ROS) by immune cells
 - Modulates cytokine production: increases interferon-β, decreases pro-inflammatory cytokines in excess
 - Activates the innate immune response without excessive inflammatory activation
 
@@ -64,7 +64,7 @@ The mechanism appears multifactorial: direct bacterial membrane disruption, inte
 Limited in vitro evidence suggests activity against:
 - Respiratory syncytial virus (RSV)
 - Influenza A virus
-- Herpes simplex virus
+- [[cannabis-antiviral-herpes-simplex-blesching]] virus
 
 Antiviral mechanisms may involve interference with viral attachment and replication, as well as enhanced [[fungal-virulence-factors-host-immune-evasion]] response.
 
@@ -88,13 +88,3 @@ A 2008 Cochrane review concluded that EPs 7630 has modest beneficial effects in 
 RCTs show reduction in cold symptom severity and duration, particularly for nasal congestion, sore throat, and cough when started within 48 hours of symptom onset.
 
 ### Acute Sinusitis
-[[mushroom-cancer-clinical-trials-overview]] demonstrate improvement in sinusitis symptoms including facial pain, nasal discharge, and headache compared to placebo.
-
-### Acute Tonsillopharyngitis
-Evidence supports faster symptom resolution in bacterial and viral tonsillopharyngitis, with reduced need for antibiotics.
-
-### Children
-EPs 7630 has been studied in children aged 1–12 years and demonstrates safety and efficacy at age-appropriate doses, making it one of the few evidence-based herbal options for pediatric respiratory infections.
-
-## See Also
-- [[herbal-medicine-making-basics]]

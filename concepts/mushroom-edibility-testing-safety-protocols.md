@@ -87,14 +87,3 @@ as morels, chanterelles, puffballs, and chicken of the woods, which have few
 dangerous lookalikes. Master one genus at a time rather than learning many
 species simultaneously. Study both the edible species and its lookalikes side
 by side, noting distinguishing characteristics carefully.
-
-Joining a local mycological society provides access to experienced identifiers
-who can verify specimens and teach field skills. Many societies organize forays
-led by knowledgeable mycologists. Online forums can supplement but should
-never replace in-person expert verification when consuming wild mushrooms.
-
-## See Also
-
-- Amanita Species and Amatoxins
-- Spore Print [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-- Mycetism and Fungal Poisoning Syndromes

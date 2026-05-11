@@ -1,5 +1,5 @@
 ---
-title: "[[ghouled-field-guide-historical-context]] to [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] Hunting Methodology"
+title: Field Guide Psilocybin Mushroom Hunting Methodology
 created: 2026-04-28
 tags: mycology, foraging, psilocybin, field-guide, ecology]
 date: 2026-04-28
@@ -11,8 +11,8 @@ type: concept
 
 This page covers the practical methodology for locating and harvesting
 psilocybin-containing mushrooms in the wild, as described in F.C. Ghouled's 1972
-field guide. The three target species — *Psilocybe cubensis*, *Panaeolus
-subbalteatus*, and *Psilocybe caerulescens* — are common throughout the southern
+field guide. The three target species — *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]*, *Panaeolus
+subbalteatus*, and *[[psilocybe-caerulescens]]* — are common throughout the southern
 United States, from California to Louisiana and South Carolina to Florida.
 
 ## When to Hunt: Temperature and Season
@@ -47,7 +47,7 @@ because they are over 90% water, and direct sun accelerates this deterioration.
 ## Where to Look: Habitats and Substrates
 
 **Cow pastures** are the primary hunting ground for *Psilocybe cubensis* and
-*Panaeolus subbalteatus*. Both species grow exclusively on the manure of grass
+*[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]*. Both species grow exclusively on the manure of grass
 or grain-fed animals, most commonly cow manure, but also horse, pig, sheep, and
 goat manure. *Panaeolus subbalteatus* occurs at roughly 12% the frequency of its
 companion species.
@@ -61,8 +61,8 @@ prevent water accumulation that would damage immature mycelium.
 ## The Mycelium Growth Cycle
 
 Understanding the mycelium growth cycle is essential for productive hunting.
-**Spore germination** begins the vegetative phase when spores land on suitable
-substrate. **Mycelial colonization** follows as the mycelium grows as a moldish,
+**Spore germination** begins the [[cervantes-vegetative-phase]] when spores land on suitable
+substrate. **[[mycelial-colonization]]** follows as the mycelium grows as a moldish,
 web-like network permeating the soil or manure, taking from 6 to 12 weeks or
 longer to fully mature.
 
@@ -75,7 +75,7 @@ dormant; too much and it rots.
 
 ## Potency Factors by Season
 
-Seasonal variation significantly affects psilocybin and psilocin content. **Hot
+Seasonal variation significantly affects [[hplc-analysis-of-psilocybin-and-psilocin]] content. **Hot
 weather** produces specimens with less psilocybin — the guide states specimens
 found during hot spells are "poor quality" regardless of rain. **Cool weather**
 (late spring, early fall) correlates with higher potency. The ideal combination
@@ -88,25 +88,3 @@ promptly before sun exposure degrades them.
 Successful foraging requires attention to practical considerations beyond timing
 and location. **Timing your visit:** plan to hunt 24-48 hours after significant
 rainfall when temperatures are in the optimal 65-85°F range.
-**Search pattern:** walk slowly and systematically across pastures, scanning
-manure patties and enriched soil areas. **Harvesting method:** twist mushrooms
-gently at the base without disturbing the underlying mycelium.
-**Storage:** use paper bags or baskets, never plastic, which traps moisture.
-**Record keeping:** note location, date, weather conditions, and habitat for
-each collection site to enable revisits under similar conditions.
-
-## Planning Your First Trip
-
-The guide recommends starting with a site close to home. An ample supply of
-*Psilocybe cubensis* can be found within a 50-mile radius of most cities in the
-American South. Range can be increased after the hunter has learned to identify
-the target species with confidence.
-
-## Related
-
-- [[field-guide-psilocybin-mushroom-species-identification]] for detailed
-species descriptions
-- [[field-guide-psilocybin-dosage-extraction-cultivation]] for post-harvest
-processing
-- [[oss-oeric-harvesting-and-crop-management]] for cultivation harvest
-techniques

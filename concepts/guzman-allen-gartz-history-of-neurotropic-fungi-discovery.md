@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 ---
@@ -87,19 +88,3 @@ In the late 1950s, only about 20 species of neurotropic fungi were recognized,
 belonging to genera Psilocybe (the majority), Conocybe, Stropharia, Panaeolus,
 Cordyceps, Claviceps, and Amanita. By the time of Guzmán, Allen and Gartz's
 comprehensive 1998/2000 publication, 216 species were documented across a far
-wider range of genera, reflecting decades of taxonomic refinement, chemical
-analysis, and field exploration. This exponential growth underscores how much
-remained unknown during the early periods and how much potential diversity may
-still await discovery.
-
-## Legacy and Continuing Research
-
-The collaborative framework established by Schultes, Wasson, Heim, Singer,
-and later Guzmán, Allen, and Gartz continues to guide modern research. Their
-work demonstrated that neurotropic fungi are not merely curiosities but
-represent a significant component of global fungal biodiversity with deep
-cultural roots. The historical progression from indigenous knowledge through
-scientific rediscovery to modern systematic study provides a model for
-ethnobotanical research across disciplines. As noted in
-[[guzman-allen-gartz-global-psilocybe-biogeography]], the uneven exploration of many tropical and temperate regions
-suggests that the full diversity of neurotropic fungi has yet to be documented.

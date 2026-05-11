@@ -88,33 +88,3 @@ psychoactive species remains prohibited.
 ## Microscopic Analysis
 
 Beyond color, spore prints provide spores for [[fungal-microscopic-examination-mounting-media-techniques]].
-Under magnification (typically 400x to 1000x), spore characteristics
-such as size, shape, wall thickness, germ pore presence, and
-ornamentation provide additional taxonomic information. Psilocybe
-species typically have ellipsoidal to subrhomboidal spores with a
-distinct germ pore, measuring approximately 8 to 12 micrometers in
-length. For more on species identification, see
-[[psilocybe-genus-diversity-and-taxonomy]].
-
-## Spore Deposit Patterns
-
-The pattern and density of the spore deposit can provide useful
-information. Some species produce dense, heavy deposits with sharply
-defined patterns, while others produce lighter, more diffuse prints.
-The radial arrangement of gills typically creates concentric rings or
-radial lines reflecting the gill structure.
-
-## Preservation
-
-Spore prints can be preserved by drying thoroughly and storing in a
-cool, dark, dry location. Some mycologists spray prints with hairspray
-or artist's fixative to prevent smudging. For cultivation, spore
-prints stored in airtight containers with desiccant at refrigeration
-temperatures can remain viable for several years, though germination
-rates decline over time.
-
-## See Also
-
-- [[mycology]]
-- [[psilocybe-genus-diversity-and-taxonomy]]
-- [[fungal-taxonomy]]

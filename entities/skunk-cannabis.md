@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
   - ElSohly MA et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis, 4(7-8), 660-667.
+  - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug [[soil-testing-and-analysis]], 4(7-8), 660-667.
   - Mowatt L et al. (2020). "cannabis-terpene-profiles-sativa of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
 
 created: 2026-05-07
@@ -20,9 +20,9 @@ created: 2026-05-07
 
 ## Overview
 
-Skunk is a foundational cannabis hybrid created in the United States during the late 1970s by Sam the Man (Samuel Skunkman). It is widely regarded as one of the most influential cannabis strains in breeding history, serving as a genetic cornerstone for hundreds of modern varieties.
+Skunk is a foundational cannabis hybrid created in the United States during the late 1970s by Sam the Man (Samuel Skunkman). It is widely regarded as one of the most influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in breeding history, serving as a genetic cornerstone for hundreds of modern varieties.
 
-The strain resulted from crossing Afghani indica landrace genetics with [[acapulco-gold]] ld]] and [[colombian-gold]] ld]] sativa lines. Its balanced hybrid genetics (approximately 50/50 indica-sativa) established a template for high-yielding, potent, and resinous cultivars that dominated commercial cultivation through the 1990s and 2000s.
+The strain resulted from crossing Afghani indica landrace genetics with acapulco gold ld and [[colombian-gold]] sativa lines. Its balanced hybrid genetics (approximately 50/50 indica-sativa) established a template for high-yielding, potent, and resinous cultivars that dominated commercial cultivation through the 1990s and 2000s.
 
 ## Lineage
 
@@ -60,7 +60,7 @@ The relatively balanced terpene profile contributes to the strain's versatile ef
 
 Skunk produces a well-balanced effect profile beginning with an uplifting, euphoric cerebral onset that transitions into a relaxing body stone. Duration is typically 2–3 hours, with peak effects at 45–90 minutes post-consumption.
 
-Medical users report efficacy for stress relief, mild to moderate pain management, appetite stimulation, and insomnia. The balanced indica-sativa profile makes it suitable for daytime or evening use depending on dosage.
+Medical users report efficacy for stress relief, mild to moderate pain management, [[cannabis-for-cachexia-and-appetite-stimulation]], and insomnia. The balanced indica-sativa profile makes it suitable for daytime or evening use depending on dosage.
 
 Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, and in higher doses, anxiety or paranoia, particularly in users with low THC tolerance. The strain's potency and widespread availability have made it a reference point in public health discussions about cannabis-related psychiatric risk.
 
@@ -72,7 +72,7 @@ Indoor flowering time is 7–9 weeks with yields of 400–500 g/m². Outdoor har
 
 ## Genetic Legacy
 
-Skunk's influence on modern cannabis genetics is arguably unparalleled. Its descendants include dozens of commercially significant strains such as Super Skunk, Skunk #1 (the stabilized Sensi Seeds version), Cheese (a UK-selected phenotype famous for its intense aroma), and Critical Mass.
+Skunk's influence on modern [[cannabis-genetics-and-breeding]] is arguably unparalleled. Its descendants include dozens of commercially significant strains such as Super Skunk, Skunk #1 (the stabilized Sensi Seeds version), Cheese (a UK-selected phenotype famous for its intense aroma), and Critical Mass.
 
 The Skunk lineage forms the backbone of the "Skunk family," one of the four major genetic families in [[oner-cannabis-breeding-fundamentals]] alongside Kush, Haze, and Northern Lights. Crosses between Skunk and these other lineages produced foundational hybrids including Shiva Skush (Skunk × Northern Lights #5), Silver Haze (Skunk × Haze), and Master Kush (Skunk × Hindu Kush).
 
@@ -80,8 +80,8 @@ Cheese, selected from a Skunk #1 phenotype in the UK during the 1980s, became on
 
 ## Notable Phenotypes and Derivatives
 
-The original Skunk was not a single genotype but rather a population of related individuals showing significant phenotypic variation. This genetic diversity allowed breeders to select for specific traits including potency, yield, aroma, and flowering time.
+The original Skunk was not a single genotype but rather a population of related individuals showing significant phenotypic variation. This [[biodiversity-fungal-genetic-diversity]] allowed breeders to select for specific traits including potency, yield, aroma, and flowering time.
 
-Super Skunk, bred by Sensi Seeds in the 1990s, crossed Skunk #1 with an Afghani male to enhance resin production and reduce flowering time to 6–7 weeks. It won the Cannabis Cup in 1990 and remains a commercial staple.
+Super Skunk, bred by Sensi Seeds in the 1990s, crossed Skunk #1 with an Afghani male to enhance [[cannabis-resin-production-and-quality-traits-clarke]] reduce flowering time to 6–7 weeks. It won the Cannabis Cup in 1990 and remains a commercial staple.
 
 Citrus Skunk phenotypes expressing elevated limonene content have been selected by multiple breeders. These variants emphasize the sweet citrus notes in the Skunk terpene profile while moderating the characteristic sulfurous pungency.

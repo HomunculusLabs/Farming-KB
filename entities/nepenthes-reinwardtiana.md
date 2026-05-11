@@ -27,7 +27,7 @@ The species is distinguished by its distinctive two prominent "eye spots" (dark 
 
 N. reinwardtiana is one of the most widespread Nepenthes species in Borneo, occurring from sea level to approximately 2,200 meters elevation. It exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range.
 
-Some taxonomists have recognized infraspecific taxa within N. reinwardtiana based on pitcher morphology and altitudinal distribution. However, these variants form a continuous cline and most modern treatments do not recognize formal varieties.
+Some taxonomists have recognized infraspecific taxa within N. reinwardtiana based on pitcher morphology and [[psilocybin-mushroom-altitudinal-distribution]]. However, these variants form a continuous cline and most modern treatments do not recognize formal varieties.
 
 The species epithet honors Caspar Georg Carl Reinwardt (1773–1854), a German-Dutch botanist and founder of the Buitenzorg Botanical Gardens (now Kebun Raya Bogor) in Java.
 
@@ -81,39 +81,10 @@ N. reinwardtiana is considered an easy-to-grow species and is widely available i
 
 Highland forms prefer cool nights (12–18°C) and warm days (22–28°C), while lowland forms tolerate consistently warm conditions. Most cultivated plants are intermediates that grow well at typical room temperatures.
 
-A well-draining, acidic growing medium such as a mix of sphagnum peat moss, perlite, and orchid bark is suitable. Plants require high humidity (60–90%) and bright, diffuse light.
+A well-draining, acidic [[cervantes-green-algae-growing-medium]] such as a mix of sphagnum [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], perlite, and orchid bark is suitable. Plants require high humidity (60–90%) and bright, diffuse light.
 
-Direct afternoon sun should be avoided in warm climates, as it can scorch the leaves and pitchers. Artificial lighting with LED grow lights is effective for [[cannabis-sativa-indoor-cultivation-techniques]].
+Direct afternoon sun should be avoided in warm climates, as it can scorch the leaves and pitchers. Artificial lighting with [[comparison-cmh-vs-led-grow-lights]] is effective for [[cannabis-sativa-indoor-cultivation-techniques]].
 
 Propagation from cuttings is straightforward and typically successful. Stem cuttings 10–15 cm long with at least two nodes root readily in moist sphagnum moss under high humidity.
 
 Seed-grown plants show greater genetic variation than vegetatively propagated clones. Seeds require warm, humid conditions for germination and may take several weeks to sprout.
-
-Mature plants produce pitchers continuously throughout the [[savory-growing-season-and-non-growing-season-management]]. Individual pitchers remain functional for 2–4 months before senescing.
-
-## Ecology and Conservation
-
-Nepenthes reinwardtiana is not currently considered threatened, though habitat loss from deforestation and agricultural expansion is reducing population sizes in lowland areas. Highland populations are relatively secure.
-
-The species provides ecological services including insect population regulation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems. Pitcher fluid supports communities of microorganisms and invertebrate larvae.
-
-Several species of spiders build webs on or near pitchers, intercepting insects attracted to the nectar. This commensal relationship benefits the spiders without harming the plant.
-
-Mutualistic relationships with tree shrews (Tupaia spp.) have been documented in some Nepenthes species that produce exudate on the pitcher lid. While not confirmed for N. reinwardtiana specifically, similar interactions may occur.
-
-Ant-plant mutualisms are also common in Nepenthes, with certain ant species nesting in the hollow tendrils of upper pitchers. These ants may provide the plant with nutrients from their waste products while receiving shelter.
-
-Hybridization with other Nepenthes species is common where ranges overlap. Natural hybrids involving N. reinwardtiana include crosses with N. tentaculata and N. fusca, which are frequently encountered in montane Borneo. These hybrids often exhibit intermediate morphology between the parent species and can be difficult to distinguish without careful examination.
-
-Some hybrids are fertile and can backcross with parent species, creating complex introgression patterns that complicate species identification in the field.
-
-## See Also
-
-- [[nepenthes-mirabilis]]
-- [[nepenthes-maxima]]
-- [[nepenthes-ampullaria]]
-- [[nepenthes-rajah]]
-- [[nepenthes-lowii]]
-- [[nepenthes-bicalcarata]]
-- [[nepenthes-villosa]]
-- [[nepenthes-thorelii]]

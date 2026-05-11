@@ -1,5 +1,5 @@
 ---
-title: mckenna opium history demeter poppy and the Demeter Poppy Goddess
+title: Mckenna Opium History Demeter Poppy
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -88,23 +88,10 @@ opium was originally used.
 ## The Opium Wars and Imperial Drug Diplomacy
 
 The suppression of one drug inevitably leads to involvement with another.
-It was the prohibition of tobacco smoking in China by the last emperor
-of the Ming Dynasty (1628-1644) that led frustrated tobacco addicts to
-experiment with smoking opium. Before that time, the smoking of opium was
-not known. By 1793, opium and tobacco were smoked together throughout
-China. By 1830, more than 25,000 chests were being illegally imported. The incident that
-triggered the Opium Wars was the destruction of 20,000 chests of opium
-by Chinese authorities. In 1838, Commissioner Lin burned Chinese
-warehouses and British ships awaiting unloading. More than a year's
-supply of opium was sent up in smoke.
 
-The British declared war in 1840. The Chinese did not have a chance; the
-war was short and decisive. The Treaty of Tientsin eventually legalized
-the Chinese opium traffic, modeling international drug trading by
-twentieth-century governments.
 ## See Also
-
-- [[mckenna-eleusinian-mysteries]]
 - [[mckenna-eschatology-and-acceleration-of-history]]
-- [[mckenna-history-shockwave-eschatology-temporal-acceleration]]
-- [[mckenna-opium-tobacco-paradoxical-attitudes]]
+- [[mckenna-mushroom-cultivation-history]]
+- [[mckenna-absence-of-dmt-motifs-in-art-history]]
+- [[mckenna-opium-de-quincey-and-birth-of-psychopharmacology]]
+- [[mckenna-eschatology-history-as-shockwave]]

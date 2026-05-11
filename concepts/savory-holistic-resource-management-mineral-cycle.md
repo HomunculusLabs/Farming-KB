@@ -88,9 +88,3 @@ speeds the breakdown of organic material, and planting monocultures
 creates less diverse root systems that discourage diversity in soil
 microorganism species. The result is an accelerating dependency on
 external inputs as the [[jadam-natural-mineral-leaching-and-replenishment]] cycle is progressively destroyed.
-## See Also
-
-- [[savory-holistic-resource-management-water-cycle]]
-
-- [[savory-water-cycle-management]]
-- [[savory-energy-tetrahedron]]

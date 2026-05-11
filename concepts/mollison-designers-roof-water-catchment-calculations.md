@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] roof water catchment calculations Calculations
+title: Mollison Designers Roof Water Catchment Calculations
 created: 2026-04-28
 tags:
   - water-harvesting
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,21 +88,3 @@ For a household of 4 people using 150 litres per person per day during a
 This requires a tank of approximately 47,000 litres capacity. Mollison
 recommends multiple smaller tanks over one large tank for redundancy and
 easier management.
-
-## Seasonal Variation and Water Budgeting
-
-In areas with strongly seasonal rainfall, Mollison advises constructing a
-monthly water budget:
-
-- Monthly yield = Roof area x Monthly rainfall (mm) x Runoff coefficient
-  x 0.001
-- Monthly demand = Number of people x Daily demand per person x Days in
-  month
-- Net monthly balance = Monthly yield minus Monthly demand
-- Cumulative balance tracks the filling or depletion of storage over the
-  year
-
-The tank must be sized to cover the maximum cumulative deficit (the
-lowest point in the cumulative balance curve). In Mediterranean or
-
-## See Also

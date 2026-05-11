@@ -88,15 +88,3 @@ ambiguous — only the contained alkaloids were controlled. This allowed a
 quasi-legal mushroom trade to persist until the Drugs Act 2005 specifically
 criminalized fresh [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], a remarkable 34-year gap rooted in
 legislative oversight.
-
-## Legacy of the British Underground
-
-The underground [[mazatec-mushroom-culture-and-velada]] of 1965-1972 established
-patterns persisting for decades. The autumn foraging ritual, informal knowledge
-networks, and the connection between mushrooms and alternative spirituality all
-originate in this brief but fertile period.
-
-- magic-mushroom-cultural-history
-- [[wasson-hofmann-ruck-theory]]
-- [[psychedelic-mushroom-set-and-setting]]
-- [[roger-heim-scientific-study-psilocybin]]

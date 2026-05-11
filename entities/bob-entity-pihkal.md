@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BOB
 
-PIHKAL entry #13. 4-Bromo-2,5,beta-trimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #13. 4-Bromo-2,5,beta-trimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -29,7 +29,7 @@ PIHKAL entry #13. 4-Bromo-2,5,beta-trimethoxy-PEA.
 >
 > (with 10 mg) I had to get away and into myself, so I weeded in the
 > [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] for almost an hour. Then I lay down in the bedroom,
-> and enjoyed a magnificent vegetable garden, in Southern France, in my
+> and enjoyed a magnificent [[aphid-management-vegetable-garden-solomon]], in Southern France, in my
 > mind's eye. An extraordinary zucchini. And the weeds had all been
 > magically pulled. In another couple of hours a neurological
 > over-stimulation became apparent, and I spent the rest of the day
@@ -57,7 +57,7 @@ This compound, BOB, is the most potent of
 the BOX series. And yet, as with all of the members of this family,
 there are overtones of physical concern, and of some worry as to the
 integrity of the body. There may well be a separation of activity
-with the two optical isomers, but there is not a tremendous push to
+with the two [[optical-isomers-psychedelic-phenethylamines]], but there is not a tremendous push to
 explore this particular family much further. They can't all be
 winners, I guess. What would be the activities of compounds with a
 sulfur instead of an oxygen at the beta-oxygen position? What would
@@ -88,21 +88,3 @@ of 119-120 deg C. Anal. (C11H14BrNO5) C,H.
 
 A solution of LAH (15 mL of 1 M solution in THF) was diluted with an
 equal volume of anhydrous THF, and cooled (under He) to 0 deg C with an
-external ice bath. With good stirring there was added 0.38 mL 100%
-H2SO4 dropwise, to minimize charring. This was followed by the
-addition of 1.0 g
-1-(4-bromo-2,5-dimethoxyphenyl)-1-methoxy-2-nitroethane as a solid
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[boh-entity-pihkal]]
-- [[bom-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[bod-entity-pihkal]] -- BOD (PIHKAL #14)

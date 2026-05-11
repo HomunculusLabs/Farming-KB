@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
@@ -86,17 +87,3 @@ Source: Masanobu Fukuoka, *The Road Back to Nature* (1996), pp. 53-54
 Fukuoka taught Thomas Nelissen that the pond in a Japanese garden should be dug in the shape of the Japanese character for heart (kokoro). If you dig a garden in this shape, the pond is wider at certain points, leaving some areas floating free like islands. What you have then is water flowing downstream, a pool, a sea, and islands.
 
 If one patterns it after the character for heart, then even a novice can make a pond. Thomas returned to Holland and traveled about the country, instructing people to take up a spade and dig up their lawns in the shape of hearts. In this way, high and low ground is created, so you have mountains, rivers, and valleys. When water is made to flow from the left side of the "heart," this immediately gives a Japanese pond. A garden can be created in this way without requiring the services of a gardener.
-
-## Seed Scattering Method
-
-One should then scatter over the garden a mixture of the seeds of many different vegetables: daikon, Chinese cabbage, burdock, carrot, and so forth. The garden has its hills, plains, and shores. Water dropwort, shepherd's-purse, and hornwort seeds that fall near the water's edge take well. Vegetables such as hardy beans and daikon, carrots and squash grow in higher, drier places, while cucumbers take in the slightly moist areas.
-
-You just let the seeds decide for themselves at what height and in what degree of ground moisture to grow. At first you will need a lot of seeds, which must be mixed together and scattered throughout the garden. Once this has been done, you will notice a mix of plants emerging and growing.
-
-## East vs. West: The Garden Ethos
-
-The Western idea of a garden is to plant grass, create an artificial stretch of green, and enjoy this. However, the typical pocket-sized garden in Japan contains a bit of everything. It may be small and appear the very picture of confusion, but this very confusion is a source of great fascination. In this way, one may have a productive garden going within a year's time.
-
-## Why This Method Is More Popular Abroad
-
-The reason this type of garden has become even more popular abroad than in Japan is because of the dearth of vegetables in Europe and America. The notion of the division of labor has become so entrenched there that few people have home gardens. Instead, everyone buys and eats produce transported from far away. In America, California supplies fruit and tomatoes to the entire nation. These are not fresh or tasty, and because they are uniform market products, the variety is very limited.

@@ -1,7 +1,7 @@
 ---
-title: Mushroom mollison-designers-house-design-climate-zones
+title: Mushroom House Design
 created: 2026-04-28
-tags: [mycology], architecture, cultivation, infrastructure, design]
+tags: [[mycology]], architecture, cultivation, infrastructure, design]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/benjamin-minge-duggar-mushroom-growing.md]
@@ -10,16 +10,16 @@ type: concept
 
 # Mushroom House Design
 
-The design and construction of [[duggar-mushroom-growing-history-and-methods]]
+The [[farm-pond-design-and-construction]] of [[duggar-mushroom-growing-history-and-methods]]
 facilities is a critical factor in commercial success.
-Any situation in which temperature and moisture may be
+Any situation in which [[mushroom-growing-temperature-and-moisture]] may be
 controlled according to the requirements of the mushroom
 should be satisfactory. Facilities range from natural
 caves to purpose-built structures.
 
 ## French Cave Systems
 
-In France, the mushroom industry has fallen heir to the
+In France, the [[mushroom-industry-african-countries]] has fallen heir to the
 subterranean quarries constituting extensive arrays of
 artificial caves, especially under Paris and its environs.
 These caves were formed by mining limestone for building
@@ -88,35 +88,3 @@ inconvenience from direct drafts when roof ventilators
 are used.
 
 ## Heating
-
-A heater is necessary since winter is the important
-season for mushroom work. Many commercial mushroom houses
-that pay well are not particularly elaborate. For
-temporary use, a very simple boarded shed or unused barn
-may serve, provided temperature can be maintained. The
-exact form of heating will depend entirely upon local
-conditions and the scale of operations.
-
-## Open Air Culture
-
-In Southern England, where winter temperature extremes
-are moderate, culture in modified hot beds or [[hamilton-cold-frames-and-hardening-off]]
-has been successful. Simple frames are employed, covered
-with sheet iron or boards and straw. Open air culture
-cannot be regarded as having great possibilities in most
-regions, but sections of California with mean monthly
-temperatures of 50 to 60 degrees Fahrenheit and without
-pronounced daily range might be suitable. Experiments
-with spawning pastures and lawns have shown inconsistent
-results and are not to be depended upon.
-
-## See Also
-
-- [[mushroom-growing-temperature-and-moisture]]
-- [[mushroom-market-and-production]]
-
-## References
-
-- Duggar, B.M. Mushroom Growing. Macmillan, 1915.
-- Falconer, W. Mushrooms: How to Grow Them. 1900.
-- [[mushroom-growing-house-construction-low-cost]]

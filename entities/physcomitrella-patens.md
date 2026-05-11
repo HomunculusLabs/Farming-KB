@@ -11,7 +11,7 @@ date: 2026-05-10
 sources:
   - Rensing, S.A. et al. (2008). "The Physcomitrella genome reveals evolutionary insights into the conquest of land by plants." Science, 319(5859), 64-69.
   - Cove, D.J. et al. (2006). "The moss Physcomitrella patens: a model organism with a model genome." The Plant Journal, 45(4), 483-493.
-  - Lang, D. et al. (2018). "The Physcomitrella patens chromosome-scale assembly reveals moss genome structure and evolution." The Plant Journal, 93(3), 515-533.
+  - Lang, D. et al. (2018). "The Physcomitrella patens chromosome-scale assembly reveals moss genome [[cage-fungi-clathrus-anthurus-laternea-structure-and-evolution]]." The Plant Journal, 93(3), 515-533.
   - Frank, W. et al. (2005). "Physcomitrella patens is highly tolerant against drought stress." Plant Physiology, 138(2), 928-937.
 ---
 
@@ -53,9 +53,9 @@ The chromosome number is n = 27, with a haploid-dominant life cycle typical of m
 
 In nature, Physcomitrella patens grows on bare, damp, nutrient-rich soil in open habitats. Typical sites include riverbanks, lake margins, cultivated fields, garden beds, and disturbed ground with seasonal moisture.
 
-The species shows a preference for slightly acidic to neutral substrates (pH 5.5–7.0) with high organic matter content. It colonizes rapidly after soil disturbance but is competitively excluded by taller mosses and vascular plants within a few growing seasons.
+The species shows a preference for slightly acidic to neutral substrates (pH 5.5–7.0) with high organic matter content. It colonizes rapidly after soil disturbance but is competitively excluded by taller mosses and vascular plants within a few [[jeavons-climate-adaptation-growing-seasons]].
 
-The species has a subcosmopolitan distribution, occurring across Europe, Asia, Africa, and the Americas. It prefers temperate to subtropical climates and is most frequently collected in lowland areas below 500 m elevation.
+The species has a subcosmopolitan distribution, occurring across Europe, Asia, Africa, and the Americas. It prefers temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] and is most frequently collected in lowland areas below 500 m elevation.
 
 As an annual or short-lived perennial, Physcomitrella relies on prolific spore production to maintain populations in ephemeral habitats. The spore bank in the soil can persist for several years, germinating when conditions become favorable.
 
@@ -69,7 +69,7 @@ The Physcomitrella patens genome was published in 2008 by an international conso
 
 A 2018 chromosome-scale assembly by Lang et al. resolved the genome into 27 pseudochromosomes, revealing extensive synteny with other bryophyte genomes. Transposable elements constitute approximately 48% of the genome, with LTR retrotransposons being the most abundant class.
 
-A landmark feature of the genome is the abundance of genes involved in stress tolerance and DNA repair. Gene families encoding LEA proteins, heat shock proteins, and DNA repair enzymes are significantly expanded relative to vascular plants.
+A landmark feature of the genome is the abundance of genes involved in [[fungal-lichen-stress-tolerance-and-poikilohydry]] DNA repair. Gene families encoding LEA proteins, heat shock proteins, and DNA repair enzymes are significantly expanded relative to vascular plants.
 
 Homologous recombination occurs at frequencies 100–1000 times higher than in flowering plants. This enables precise gene replacement using simple DNA constructs, a capability that has attracted broad interest from the synthetic biology community.
 
@@ -79,7 +79,7 @@ Gene expression is regulated through promoter elements broadly conserved with va
 
 ## Research Applications
 
-Physcomitrella patens is the only land plant in which gene targeting by homologous recombination is routine. Over 1,000 genes have been knocked out in systematic reverse-genetics campaigns, creating an unparalleled resource for functional genomics.
+Physcomitrella patens is the only land plant in which gene targeting by homologous recombination is routine. Over 1,000 genes have been knocked out in systematic reverse-genetics campaigns, creating an unparalleled resource for [[functional-genomics-arbuscular-mycorrhiza]].
 
 The species is used to study plant evolution by comparing its genes and pathways with those of vascular plants. This comparative approach has revealed which genetic mechanisms were present in the earliest land plants and which evolved later.
 
@@ -87,35 +87,4 @@ Biopharmaceutical applications include the production of recombinant proteins in
 
 The species is also a model for studying plant-microbe interactions, including responses to pathogen-associated molecular patterns (PAMPs). It lacks many of the resistance (R) genes found in flowering plants, providing insight into the ancestral immune system.
 
-Chitin fragments trigger a strong defense response in Physcomitrella, leading to the production of reactive oxygen species and defense-related metabolites. This chitin response represents the earliest known form of fungal pathogen detection in the plant lineage.
-
-Cryopreservation of Physcomitrella protonemata in liquid nitrogen is routine, enabling long-term storage of mutant lines. The International Moss Stock Center (IMSC) maintains thousands of characterized accessions for the research community.
-
-## Development and Physiology
-
-Physcomitrella development proceeds through distinct stages: spore germination, protonemal growth, gametophore bud formation, leafy shoot development, and sexual reproduction. Each stage is regulated by environmental cues and hormone signaling.
-
-Auxin (indole-3-acetic acid) and cytokinin regulate protonemal branching and gametophore initiation, paralleling their roles in vascular plants. However, moss-specific signaling components have also been identified through mutagenesis studies.
-
-Light quality and photoperiod profoundly affect development through phytochrome and cryptochrome photoreceptors. Red light promotes chloronemal growth, while blue light stimulates caulonemal development and gametophore formation.
-
-Desiccation tolerance in Physcomitrella involves rapid accumulation of the sugar trehalose and late embryogenesis abundant (LEA) proteins. Unlike most vascular plants, this moss can survive complete dehydration and resume growth within hours of rehydration.
-
-The species also exhibits remarkable freezing tolerance, surviving temperatures below −80°C in the laboratory. Cryoprotective compounds including flavonoids and soluble sugars accumulate during cold acclimation, protecting cellular membranes and proteins.
-
-Water transport occurs by capillary action along the external surfaces of the plant rather than through internal conducting tissue. The species lacks xylem and phloem, instead relying on passive water movement across thin cell walls.
-
-Despite lacking true roots, Physcomitrella possesses rhizoids that anchor the gametophore to the substrate. These simple filaments also facilitate nutrient uptake from the surrounding soil solution.
-
-## See Also
-
-- [[funaria-hygrometrica]]
-- [[polytrichum-commune]]
-- [[bryum-argenteum]]
-- [[sphagnum-palustre]]
-- [[ceratodon-purpureus]]
-- [[marchantia-polymorpha]]
-- [[selaginella-moellendorffii]]
-- [[arabidopsis-thaliana]]
-- [[sphagnum-capillifolium]]
-- [[brachythecium-rutabulum]]
+Chitin fragments trigger a strong defense response in Physcomitrella, leading to the production of [[reactive-oxygen-species-and-oxidative-stress]] and defense-related metabolites. This chitin response represents the earliest known form of fungal pathogen detection in the plant lineage.

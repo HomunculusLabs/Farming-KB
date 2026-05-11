@@ -25,10 +25,10 @@ anthomyiid species. The fungus is best known for its behavioral manipulation
 of hosts, causing infected flies to climb to elevated positions and adopt a
 characteristic "death grip" posture before expiring.
 
-This summit disease strategy maximizes [[aquatic-fungi-spore-dispersal-ingold]] range by positioning
+This [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]] strategy maximizes [[aquatic-fungi-spore-dispersal-ingold]] range by positioning
 the cadaver at an optimal height for wind-borne conidial release. The species
 has been recorded infecting houseflies (*Musca domestica*), blowflies
-(Calliphoridae), fungus gnats, and numerous other Diptera worldwide.
+(Calliphoridae), [[cervantes-fungus-gnats]], and numerous other Diptera worldwide.
 
 ## Taxonomy and Morphology
 
@@ -66,20 +66,20 @@ disease" posture persists for hours before death, after which the cadaver
 ruptures to release forcibly discharged conidia.
 
 Under unfavorable conditions, the fungus may form resting spores (zygospores)
-that persist in soil or leaf litter. These can survive months to years before
+that persist in soil or [[dighton-fungal-decomposition-leaf-litter-dynamics]]. These can survive months to years before
 germinating upon contact with a suitable host.
 
 ## Bioactive Compounds
 
 *Entomophthora muscae* produces several bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]
-associated with host manipulation and immune evasion.
+associated with host manipulation and [[fungal-virulence-factors-host-immune-evasion]].
 
 Adenosine and other nucleosides have been detected in infected flies at
 elevated concentrations, suggesting the fungus may pharmacologically alter
 host behavior. These compounds may act on fly nervous system pathways to
 promote the climbing behavior characteristic of terminal infection.
 
-The fungal cell wall contains β-1,3-glucans and chitin-based structures that
+The [[chitin-chitosan-fungal-cell-wall]] contains β-1,3-glucans and chitin-based structures that
 help evade insect hemocyte recognition. Proteomic studies have identified
 secreted effector proteins that may suppress host melanization responses.
 
@@ -88,38 +88,3 @@ secreted effector proteins that may suppress host melanization responses.
 *E. muscae* is a natural population regulator of muscoid flies and can cause
 epizootics (mass infection events) in fly populations during warm, humid
 conditions. Epizootics may reduce housefly populations by 60–90% in
-localized areas.
-
-The species has been investigated as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent for
-agricultural pests, particularly *Delia radicum* (cabbage root fly) in
-brassica crops. Laboratory bioassays have demonstrated infectivity rates
-exceeding 80% under optimal humidity conditions.
-
-Conservation biological [[jadam-weed-control-strategies-natural]] aim to maintain wild *E. muscae*
-populations in agroecosystems through habitat management. Reducing
-broad-spectrum insecticide use preserves the fungal reservoir in field
-margins and hedgerows.
-
-The fungus also serves as a model organism for studying host–pathogen
-coevolution and behavioral manipulation in insect–fungal systems. Genomic
-resources are now available for comparative studies with other
-entomopathogenic taxa.
-
-## Related Species
-
-- ***Entomophthora muscae*** sensu stricto — the type species infecting
-  *Musca domestica* and related muscoid flies.
-- ***Entomophthora schizophorae*** — infects scatophagid and muscid flies in
-  Europe, formerly considered a synonym of *E. muscae*.
-- ***Entomophthora syrphi*** — specializes on hoverflies (Syrphidae).
-- ***Entomophthora scatophagae*** — recorded from Scatophagidae in
-  agricultural settings.
-
-## See Also
-
-- [[ophiocordyceps-unilateralis]] — zombie ant fungus with behavioral
-  manipulation of Formicidae
-- [[purpureocillium-lilacinum]] — nematophagous fungus for plant-parasitic
-  nematode control
-- [[entoloma-sinuatum]] — toxic agaric causing the majority of fatal fungal
-  poisonings in Europe

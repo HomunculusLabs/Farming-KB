@@ -10,7 +10,7 @@ topics: [permaculture, waste, recycling, circular-economy, industrial-design, co
 In his elaborati [[chicken-of-the-woods]] the principle "Produce No Waste," Holmgren provides a
 nuanced framework for understanding waste not as an inevitable byprodu [[fukuoka-textdoc-errors-of-human-intellect]] man activity b [[allegro-christianity-as-a-fertility-cult]] s a failure of design. His treatment [[fungal-industrial-wastewater-treatment]] goes well beyond the
 familiar waste hierarchy to examine specific industrial [[fungal-industrial-wastewater-treatment]] examples, the psychology
-of wasteful habits [[psilocybin-and-the-logos]] he radical potential of upstream redesign.
+of wasteful habits [[psilocybin-logos-consciousness]] he radical potential of upstream redesign.
 
 ## The Waste Hierarchy in Depth
 
@@ -88,56 +88,3 @@ Holmgren identifies several structural barriers to upstream redesign:
 
 Holmgren uses the language of addiction to describe society's relationship
 with wasteful consumption. This framing is deliberate: just as addiction
-involves compulsive behavior despite known harmful consequences, wasteful
-consumption persists despite widespread awareness of its environmental costs.
-
-The addictive pattern involves:
-
-- Immediate gratification from convenience outweighing long-term consequences
-- Escalation: as waste systems become more efficient, consumption increases to
-  fill the available capacity (Jevons paradox applied to waste)
-- Denial: the belief that technological solutions (better recycling, more
-  efficient processing) can solve problems that are fundamentally about
-  overconsumption
-- Withdrawal resistance: the discomfort and inconvenience of changing
-  established habits
-
-Breaking this addiction requires not just technical solutions but cultural
-transformation — a shift in values and expectations that makes wasteful
-consumption socially unacceptable rather than normal.
-
-## The "Tunnelling Through Cost Barriers" Concept
-
-Holmgren draws on Amory Lovins's concept of "tunnelling through cost barriers"
-to illustrate how radical redesign can simultaneously reduce waste and cost.
-The idea is that conventional thinking assumes a tradeoff between environmental
-performance and economic cost. But radical redesign — rethinking the entire
-system from first principles — can achieve both goals simultaneously.
-
-In waste terms, this means that redesigning products for durability, reuse,
-and disassembly can reduce both material costs and waste management costs. The
-barrier is the initial investment in redesign, not the ongoing economics.
-Lovins's insight is that the apparent cost barrier is often an artifact of
-conventional thinking rather than an inherent constraint.
-
-## Implications for Permaculture Design
-
-For permaculture designers, Holmgren's analysis suggests several practical
-principles:
-
-- Design systems so that waste from one element becomes food for another
-- Prioritize source reduction over end-of-pipe solutions
-- Question whether recycling is truly beneficial or merely a way of
-  legitimizing continued overconsumption
-- Look for upstream redesign opportunities that eliminate waste categories
-  entirely
-- Recognize that the most impactful interventions are often the most
-  politically difficult
-
-## See Also
-
-- [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
-- holmgren integrate rather than segregate
-- holmgren use small and slow solutions
-- holmgren use and value renewable resources
-- holmgren creatively use and respond to change

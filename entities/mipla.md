@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-**MIPLA** (N6-methylisopropyllysergamide) is a synthetic lysergamide and psychedelic compound of the ergoline family. It is a structural analogue of LSD (lysergic acid diethylamide) in which the N6-diethylamide substituent is replaced with an N-methyl-N-isopropylamide group.
+**MIPLA** (N6-methylisopropyllysergamide) is a synthetic lysergamide and psychedelic compound of the ergoline family. It is a structural analogue of LSD ([[lsd-d-lysergic-acid-diethylamide]]) in which the N6-diethylamide substituent is replaced with an N-methyl-N-isopropylamide group.
 
 MIPLA is classified as a novel psychoactive substance (NPS) and is controlled as a Schedule I substance in many jurisdictions. It is one of several lysergamide analogues that emerged in the research chemical market during the 2010s, alongside 1P-LSD, ETH-LAD, and ALD-52.
 
@@ -47,7 +47,7 @@ Additional receptor interactions likely contribute to the overall effect profile
 
 - **5-HT1A**: Partial agonist activity, potentially contributing to anxiolytic and mood-stabilizing effects
 - **5-HT2C**: Agonist activity, possibly involved in visual perception alterations
-- **TAAR1**: Trace amine receptor binding, observed with other lysergamides
+- **TAAR1**: [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]] [[beta-glucan-receptor-binding]], observed with other lysergamides
 - **Dopamine receptors**: Weak binding at D2-like receptors
 
 The N6 substituent influences both receptor affinity and metabolic stability. Compared to LSD's diethylamide, the methyl-isopropyl group may alter first-pass metabolism and hepatic clearance rates.
@@ -78,7 +78,7 @@ These ranges are derived from user self-reports and are approximate. The compoun
 
 ## Legal Status
 
-MIPLA is controlled as a Schedule I substance under the United States Federal Analogue Act due to its structural similarity to LSD. It is also controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] and in the EU under individual member state legislation.
+MIPLA is controlled as a Schedule I substance under the [[dmt-containing-plants-united-states-halpern]] Federal Analogue Act due to its structural similarity to LSD. It is also controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] and in the EU under individual member state legislation.
 
 The compound is classified as a controlled substance in Australia (Schedule 9), Canada (Schedule III), and most European nations. Japan and New Zealand have also scheduled MIPLA specifically or as a lysergamide analogue.
 
@@ -87,31 +87,3 @@ Despite legal restrictions, MIPLA has been detected in seized blotter papers acr
 ## History
 
 MIPLA was first described in the scientific literature in the context of structure-activity relationship (SAR) studies on lysergamide derivatives. The compound was initially investigated as part of systematic exploration of N6-substituted lysergamides to understand the pharmacophore requirements for 5-HT2A receptor activation.
-
-It entered the recreational market as a novel psychoactive substance during the lysergamide wave of the mid-2010s, following the popularization of 1P-LSD and ETH-LAD. The first confirmed detections in forensic samples date to approximately 2016–2017.
-
-Analytical methods for detection were developed by EMCDDA-affiliated laboratories and published in the European early warning system reports.
-
-## Related Compounds
-
-- **LSD (N6-diethyllysergamide):** The reference lysergamide; MIPLA differs only in the N6 substituent
-- **ALD-52 (N6-acetyl-N6-propyllysergamide):** Acetylated LSD analogue with similar potency
-- **ETH-LAD (N6-ethyl-N6-(6-norlysergic acid)diethylamide):** Ethyl-substituted analogue with reportedly higher potency
-- **1P-LSD (N6-propionyllysergamide):** Prodrug that converts to LSD in vivo
-
-The systematic substitution [[psilocin-accumulation-pattern-across-flushes]] these analogues demonstrates that the N6 position tolerates moderate steric variation while maintaining 5-HT2A affinity, though individual analogues differ in metabolic stability, duration, and subjective character.
-
-## Synthesis
-
-MIPLA is synthesized from lysergic acid or ergotamine as starting material, following established lysergamide synthesis pathways. The key step involves condensation of lysergic acid with methylisopropylamine under peptide coupling conditions.
-
-The synthesis requires laboratory expertise and access to controlled precursors. MIPLA is not produced at significant scale relative to LSD and 1P-LSD.
-
-## See Also
-
-- [[1p-lsd]]
-- [[ald-52]]
-- [[1b-lsd]]
-- [[lysergic-acid]]
-- [[psilocybin]]
-- [[4-acetoxy-dmt]]

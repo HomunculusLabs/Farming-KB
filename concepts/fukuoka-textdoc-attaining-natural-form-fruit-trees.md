@@ -15,19 +15,20 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 6576-6613, 6463-6574)
 type: concept
 ---
 
 # Attaining the Natural Form of Fruit Trees
 
-Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most fruit trees naturally grow in a [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
+Fukuoka's research into the natural forms of fruit trees represents one of his most significant practical contributions to orcharding. His discovery that most [[query-how-do-i-prune-fruit-trees-naturally]] grow in a [[comparison-central-leader-vs-open-center-fruit-tree-training]] form, contrary to the open-centered systems advocated by specialists, led him to develop methods for training trees to forms that require minimal or no pruning.
 
 ## The Search for Natural Form
 
-The art of pruning fruit trees is the most advanced skill in orcharding, and is even said to separate the good farmer from the bad. Although Fukuoka had grown fruit trees without pruning, he found this very difficult going at first because he did not know what the natural forms of the different types of fruit trees were.
+The art of [[no-pruning-fruit-trees]] is the most advanced skill in orcharding, and is even said to separate the good farmer from the bad. Although Fukuoka had grown fruit trees without pruning, he found this very difficult going at first because he did not know what the natural forms of the different types of fruit trees were.
 
-The natural forms shown from time to time in journals on fruit growing are not at all what they are made out to be. These are just abandoned trees of confused shape that have been left to grow untended after having been initially pruned and otherwise cared for.
+The natural forms shown from time to time in journals on [[berry-and-small-fruit-growing]] are not at all what they are made out to be. These are just abandoned trees of confused shape that have been left to grow untended after having been initially pruned and otherwise cared for.
 
 It was relatively easy to determine that the natural form of most deciduous fruit trees is a central leader system, but determining the natural form of citrus trees, and especially the Satsuma orange, proved difficult.
 
@@ -43,9 +44,9 @@ One dying branch caused other branches to wither and die. The confused shape of 
 
 To correct these gross disorders, Fukuoka then tried the reverse: heavy pruning and thinning. He left only several rising suckers remaining. Yet four or five primary scaffold branches were still too many, with too little space left between adjoining branches.
 
-Growth at the center of the trees was poor and the inner branches gradually withered, causing a sharp drop in fruit production in the interior portion of the trees. This experience taught him that abandoning the trees was the wrong way to approach their natural form, but heavy pruning was equally misguided.
+Growth at the center of the trees was poor and the inner branches gradually withered, causing a sharp drop in [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in the interior portion of the trees. This experience taught him that abandoning the trees was the wrong way to approach their natural form, but heavy pruning was equally misguided.
 
-Following the end of the war, specialists began advocating a natural open-centered system consisting of removing scaffold branches at the center while leaving several scaffolds projecting outward at angles of about 42 degrees. Fukuoka's ultimate goal, however, remained to practice natural farming without pruning at all.
+Following the end of the war, specialists began advocating a natural open-centered system consisting of removing scaffold branches at the center while leaving several scaffolds projecting outward at angles of about 42 degrees. Fukuoka's ultimate goal, however, remained to practice [[cho-loess-powder-in-natural-farming]] without pruning at all.
 
 ## Natural Forms of Various Fruit Trees
 
@@ -71,7 +72,7 @@ They are frutescent, having several scaffold branches extending with equal vigor
 
 ### Step 1: Determine the Natural Form First
 
-The very first thing one must do when preparing to grow a type of fruit tree by natural farming methods is to know the natural form for that fruit tree. For Satsuma orange trees, the scaffold branches do not grow very straight and there is great individual variation.
+The very first thing one must do when preparing to grow a type of fruit tree by [[cho-poultry-natural-farming-methods]] is to know the natural form for that fruit tree. For Satsuma orange trees, the scaffold branches do not grow very straight and there is great individual variation.
 
 To determine the natural form of citrus, Fukuoka looked at a cross-section of hardier and more vigorous [[query-best-citrus-varieties-for-different-climates]] than the Satsuma orange. The summer orange and the shaddock were especially useful in this regard. Both are clearly of the central leader type.
 
@@ -86,39 +87,3 @@ For transplanted saplings, some pinching back is generally necessary to correct 
 Cutting the first one or two shoots is very important because it can determine the shape of the tree over its entire lifetime and is a major factor in the success or failure of an orchard.
 
 ### Step 4: Minimal Ongoing Intervention
-
-Trees that show normal, steady growth right from the start assume a nearly natural form and can thereafter be left alone. It is not through abandonment that a cultivated tree takes on a natural form, but only through the most careful attention and protection during the formative years.
-
-When something causes a tree to take on a shape that deviates from the natural form, any [[fruit-tree-pruning-training]] done should attempt to return the tree to its natural form.
-
-## Advantages of the Natural Form
-
-### No Branch or Leaf Is Wasted
-
-The natural form permits tree growth and development best suited to the cultivation conditions and environment. No branch or leaf is wasted. This form enables maximum growth and maximum exposure to sunlight, resulting in maximum yields.
-
-An unnatural form created artificially upsets the innate efficiency of the tree. This reduces the tree's natural powers and commits the grower to unending labors.
-
-### Minimal Pruning and Disease
-
-The natural form consists of an erect central trunk, causing little entanglement with neighboring trees or crowding of branches and foliage. The amount of pruning required gradually decreases and little disease or pest damage arises, necessitating only a minimum of care.
-
-### Superior to Open-Centered Systems
-
-In natural open-centered systems formed by thinning scaffold branches at the center of the tree, the remaining scaffold branches open up at the top and soon entangle with adjacent trees. In addition, secondary scaffold branches and laterals growing from several primary scaffold branches oriented at unnatural angles also crisscross and entangle.
-
-This increases the amount of pruning that has to be done after the tree has matured, exactly the opposite of the intended result.
-
-## The Central Leader Discovery
-
-When Fukuoka reported his findings at a meeting of the Ehime Prefectural Fruit Growers Association, stating that the natural form of the citrus tree is a central leader type form, this created a stir among several specialists present, but was laughed off as just so much nonsense by the farmers.
-
-He was to sacrifice about 400 citrus trees, roughly half of those in his care, in his search for the natural form. The natural form is constant and unchanging in natural farming and permits pruning to be dispensed with entirely.
-
-Whatever new [[pruning-techniques-organic]] may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage. Even when performing surgery on a tree in a mechanized orchard, it makes more sense to work on a tree trained on a single stem than to allow the tree to grow as much as it can and later cut it with a saw.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]]
-- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]

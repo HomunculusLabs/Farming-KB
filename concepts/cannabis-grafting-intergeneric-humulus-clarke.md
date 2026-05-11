@@ -15,7 +15,7 @@ Grafting is an asexual propagation technique that joins the tissues of two
 plants so they grow as one. In Cannabis, grafting has attracted both
 scientific curiosity and practical interest, particularly the intergeneric
 grafting of Cannabis with its closest botanical relative, Humulus (hops).
-Robert Clarke documents the history, science, and technique of Cannabis
+[[robert-clarke]] documents the history, science, and technique of Cannabis
 grafting in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]], providing a thorough examination of what
 grafting can and cannot accomplish with this species.
 
@@ -61,7 +61,7 @@ cannabinoid formation across the grafts."
 This finding definitively established that:
 
 1. Cannabinoids are not produced in the roots and transported upward
-2. Cannabinoid biosynthesis occurs locally in the tissues where the
+2. [[cannabinoid-biosynthesis-pathway]] occurs locally in the tissues where the
    compounds are found
 3. Grafting cannot transfer psychoactive properties between species
 4. The cannabinoid profile of a grafted shoot reflects its own genotype,
@@ -88,51 +88,3 @@ that will be grafted onto it. The seedlings are allowed to grow until they
 are four weeks old, at which point they are ready to be grafted.
 
 ### The Grafting Procedure
-
-1. A diagonal cut is made approximately halfway through the stock stem
-2. A matching diagonal cut is made on one of the scion seedlings at the
-   same level
-3. The cut portions are slipped together so that the inner cut surfaces
-   are touching, aligning the vascular cambium layers
-4. The joint is held secure with a fold of cellophane tape
-5. A second scion from an adjacent seedling may be grafted to the stock
-   higher up the stem if desired
-
-### Aftercare and Healing
-
-- After two weeks, the unwanted portions of the grafts are cut away
-- Eight to twelve weeks are needed to complete the graft union
-- Plants are maintained in a mild environment (moderate temperature and
-   humidity) throughout the healing period
-- As the graft takes and the plant begins to grow, the tape falls off
-   naturally
-
-## Limitations of Cannabis Grafting
-
-It is important for breeders and cultivators to understand what grafting
-cannot accomplish:
-
-- Grafting does not alter the cannabinoid profile of the scion
-- Grafting does not transfer disease resistance from rootstock to scion
-- Grafting does not improve the potency of the grafted portion
-- Grafting cannot be used to produce cannabinoids in non-Cannabis species
-
-The primary value of Cannabis grafting is aesthetic and experimental. It
-allows the creation of multi-strain specimen plants and serves as a useful
-teaching tool for understanding plant anatomy and vascular connections.
-
-## Grafting in the Context of Cannabis Propagation
-
-Grafting occupies a minor but interesting position among Cannabis
-propagation techniques. Unlike [[cannabis-propagation-sexual-vs-asexual-clarke]], which
-creates new genetic combinations through recombination, grafting simply
-joins existing genotypes without genetic change.
-
-For practical breeding purposes, Clarke emphasizes that [[cannabis-seed-selection-and-strain-types]] and
-[[cannabis-controlled-pollination-seed-production]] through
-[[cannabis-propagation-sexual-vs-asexual-clarke]]
-[[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
-
-## See Also
-
-- [[humulus-lupulus]]

@@ -88,25 +88,3 @@ Landscape lifespan is relatively short for a large tree, typically 60–100 year
 Successful establishment requires access to shallow groundwater or supplemental irrigation for the first 2–3 years. Planting alongside willow species improves establishment success rates by providing shade that reduces evaporative water loss from young seedlings.
 
 Wood is light, soft, and relatively weak, with a specific gravity of approximately 0.37. It is not commercially important as a timber species, though it has been used locally for crates, pallets, and fencing material. The wood burns rapidly and produces moderate heat, making it a poor firewood choice.
-
-Indigenous peoples of the Southwest used the tree extensively. The cottony seed fibers served as padding and wound dressing. Bark and leaves were prepared as medicinal poultices for wounds, sprains, and skin conditions.
-
-The Pueblo peoples traditionally planted cottonwoods near villages and springs. Cottonwood root was carved into kachina dolls by Hopi and other Pueblo cultures, a practice that continues today. The tree holds significant cultural importance in Navajo (Diné) tradition, where it is associated with protection and the cardinal direction north.
-
-Fremont cottonwood populations have declined significantly across their range due to groundwater depletion, river damming, and agricultural conversion of floodplains. It is estimated that over 90% of original riparian cottonwood-willow gallery forests in the Southwest have been lost since European settlement. The species is not listed under the U.S. Endangered Species Act, but is considered a species of conservation concern by several state agencies. Groundwater pumping for urban and agricultural use represents the primary ongoing threat.
-
-## See Also
-
-- [[populus-deltoides]]
-- [[populus-nigra]]
-- [[populus-balsamifera]]
-- [[populus-tremuloides]]
-- [[betula-pendula]]
-- [[salix-alba]]
-- [[salix-babylonica]]
-- [[salix-nigra]]
-- [[platanus-occidentalis]]
-- [[acer-saccharum]]
-- [[nyssa-sylvatica]]
-- [[liquidambar-styraciflua]]
-- [[acer-rubrum]]

@@ -1,5 +1,5 @@
 ---
-title: Phototropism and Darwin's Plant Light Experiments
+title: [[phototropism-darwin-plant-light-response]] [[phototropism-light-sensing]]
 created: 2026-05-09
 tags:
   - plant-biology
@@ -74,7 +74,7 @@ not bend — the tip was there but could not perceive light.
 
 **Seedling D — Tip covered with a clear glass cap.** The tip was covered with
 transparent glass. This seedling bent normally, because the glass still allowed light
-to reach the tip and trigger the directional sensing response.
+to reach the tip and trigger the [[phototropin-blue-light-receptor-plant-directional-sensing]] response.
 
 **Seedling E — Midsection covered with a lightproof tube.** The bending zone was
 wrapped in an opaque tube while the tip remained fully exposed. This seedling bent
@@ -88,61 +88,3 @@ midsection being blocked (E) — the plant bent. When the tip was removed (B) or
 (C), the plant did not bend regardless of whether the bending machinery was intact.
 The conclusion was inescapable: the tip functions as the plant's "eye," detecting the
 direction of incoming light, while the midsection functions as the "muscle," executing
-the differential growth that produces the bend. This separation of perception and
-response was profound. It demonstrated that phototropism is a coordinated signalling
-process, not a simple photosynthetic effect where the illuminated side grows
-differently due to [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]].
-
-## Julius von Sachs and the Role of Blue Light
-
-The question of which colour drives phototropism was answered by the German botanist
-Julius von Sachs, a contemporary of Darwin. In 1864, Sachs discovered that blue light
-is the primary colour inducing phototropism in plants. Other colours — red, green,
-yellow — have little to no effect on bending. This was significant because it
-distinguished phototropism from photosynthesis, which is driven by both red and blue
-light absorbed by chlorophyll. If phototropism were merely a photosynthetic consequence,
-all photosynthetically active wavelengths would produce bending. Sachs' discovery proved
-the two processes rely on fundamentally different light-sensing mechanisms.
-
-## Phototropism Versus Photosynthesis
-
-Photosynthesis converts light energy into chemical energy using chlorophyll pigments
-that absorb primarily red and blue light. It is a metabolic process concerned with
-energy production, occurring mainly in leaves where chloroplasts are concentrated.
-Phototropism, by contrast, is a directional growth response concerned with orienting
-the plant's body to optimise its position relative to the light source. The
-photoreceptors for phototropism are sensitive mainly to blue light and reside in the
-seedling tip, not in leaf tissues like chlorophyll. The [[plant-phototropism-darwin-experiments]] proved this
-conclusively: their dim gas lamp provided far too little energy for meaningful
-photosynthesis, yet it triggered a strong phototropic response after only three hours.
-The plant was bending because a specialised light-sensing system had detected direction
-and sent a hormonal signal downward — not because one side was photosynthesising faster.
-
-## Rudimentary Sight in Plants
-
-The Darwins' experiments established that plants possess a form of sight. Not sight as
-humans experience it — plants do not form images or have brains to process visual
-information. But the core components of vision are present. A specialised part of the
-plant body detects light (the tip functions as the eye), that information is transmitted
-to another part (the midsection), and the organism responds by altering its orientation.
-This is, by any reasonable definition, a rudimentary visual system. The discovery that
-plants can sense the direction, colour, and duration of light opened the entire field
-of plant photobiology. Plants, as [[daniel-chamovitz]] argues in *What a Plant Knows*,
-monitor their visible environment continuously. They know if you come near them, if you
-are wearing a blue or red shirt, if you have moved their pot. Their visual world is
-richer and more sophisticated than most people imagine.
-
-## Legacy
-
-The Darwins' experiments remain a staple of biology education and a model of elegant
-[[cannabis-microbiome-experimental-design]]. Modern molecular biology has identified the photoreceptor proteins
-— called phototropins — that mediate the blue-light response in plant tips, and the
-auxin hormones that carry the signal from tip to midsection causing differential cell
-elongation. But the fundamental insight — that the tip perceives light and the stem
-responds — was established by a father-son team in a dark room in the 1880s, and it
-remains as valid today as when they first published their findings.
-
-## See Also
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[phytochrome-red-far-red-light-switch]]
-- [[photoperiodism-plant-day-length-measurement]]

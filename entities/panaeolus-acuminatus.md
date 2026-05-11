@@ -1,10 +1,11 @@
 ---
-title: "Panaeolus acuminatus"
+title: Panaeolus Acuminatus
 created: 2026-04-28
 tags: [species, fungus, psilocybin-mushroom, panaeolus, fungi, basidiomycota, bolbitiaceae, coprophilous]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - psilocybin-mushrooms-of-the-world-stamets.md
   - /Users/t3rpz/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 type: entity
@@ -51,7 +52,7 @@ Odor is mild or slightly farinaceous (mealy), sometimes slightly earthy. Taste i
 
 ## Distribution and Habitat
 
-Panaeolus acuminatus has a wide distribution across temperate and subtropical regions worldwide. It is one of the most common *Panaeolus* species in temperate regions, found throughout North America, Europe, Asia, South America, and parts of Africa and Australasia. In the Pacific Northwest, it is as frequently encountered as P. papilionaceus.
+Panaeolus acuminatus has a wide distribution across temperate and subtropical regions worldwide. It is one of the most common *Panaeolus* species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], found throughout North America, Europe, Asia, South America, and parts of Africa and Australasia. In the [[psilocybin-north-america-pacific-northwest]], it is as frequently encountered as P. papilionaceus.
 
 Scattered to gregarious on manured grounds or dung in spring, and on nitrogen-enriched soils, compost piles, and decomposing plant material. Often among the first colonizers of fresh dung deposits, appearing within days to weeks after deposition. Common along field-forest interfaces, especially in the Pacific Northwest. The species shows a strong preference for the field-forest ecotone. Fruiting occurs primarily in spring, though specimens can be found through the growing season where conditions permit.
 
@@ -76,8 +77,8 @@ Several *Panaeolus* species are similar and can be difficult to distinguish with
 
 - **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — Larger, with a distinctly banded or "sub-belted" cap margin; confirmed psychoactive
 - **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** — Hygrophanous, bluing prominently when bruised; highly psychoactive
-- **Panaeolus sphinctrinus** — Smaller, found on dung; grayish cap with a dark center
-- **Panaeolus campanulatus** — Similar habitat and size; bell-shaped cap, very common
+- **[[panaeolus-sphinctrinus]]** — Smaller, found on dung; grayish cap with a dark center
+- **[[panaeolus-campanulatus]]** — Similar habitat and size; bell-shaped cap, very common
 - **Panaeolus tropicalis** — Tropical and subtropical distribution; confirmed psychoactive
 - **Panaeolus foenisecii** — Common in lawns and pastures
 
@@ -85,36 +86,4 @@ Accurate identification requires examination of spore size, shape, and microscop
 
 ## Ecological Role
 
-As a coprophilous fungus, *Panaeolus acuminatus* plays an important ecological role in nutrient cycling:
-
-1. **Decomposition** — Breaks down complex organic matter in animal dung, releasing nitrogen, phosphorus, and other nutrients back into the soil
-2. **Spore dispersal** — Spores are adapted to survive passage through herbivore digestive tracts, ensuring deposition on fresh dung deposits
-3. **Succession** — Often an early successional species on dung, followed by other fungal colonizers in a predictable sequence
-
-## Relevance
-
-Panaeolus acuminatus is important as a comparison species for identification purposes. Its resemblance to psychoactive *Panaeolus* species makes it a potential source of misidentification for foragers. Understanding its non-psychoactive chemistry and distinguishing features (lemon-shaped spores, chestnut cap, pruinose stem with water droplets) helps differentiate it from active species in the same habitats. Its presence in disturbed, manured soils exemplifies the ecological niche shared by many *Panaeolus* species.
-
-## Cultural and Ethnobotanical Significance
-
-*Panaeolus acuminatus* does not have a documented history of [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] use. Its small size, non-psychoactive content, and similarity to other non-psychoactive dung-inhabiting mushrooms make it an unlikely candidate for intentional ceremonial or recreational use.
-
-## Safety Notes
-
-Identification of *Panaeolus* species requires careful microscopic work. Several species of coprophilous mushrooms can contain toxins or other undesirable compounds. Consumption of any unidentified dung-inhabiting mushroom is not recommended due to the risk of misidentification and potential exposure to pathogens from the dung substrate itself.
-
-## Conservation Status
-
-Not considered threatened due to its wide cosmopolitan distribution and association with common agricultural and pastoral habitats. Populations are likely stable across most of its range.
-
-## See Also
-
-- [[panaeolus-subbalteatus]] — Another confirmed psychoactive *Panaeolus* species
-- [[panaeolus-sphinctrinus]]
-- [[conocybe-cyanopus]]
-- [[psilocybe-cubensis]]
-
-## References
-
-- Schultes, R.E. (1976). *A Golden Guide to Hallucinogenic Plants*. Golden Press, New York.
-- Stamets, P. (1996). *[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World*. Ten Speed Press.
+As a coprophilous fungus, *Panaeolus acuminatus* plays an important ecological role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]:

@@ -9,7 +9,7 @@ sources: []
 
 # Reishi Cultivation Guide
 
-Reishi (Ganoderma lucidum) is one of the most revered mushrooms in traditional Chinese medicine, where it has been used for over 2,000 years as a tonic for longevity, vitality, and immune support. Known as "Lingzhi" in China and "Mannentake" in Japan, Reishi is now widely cultivated for both medicinal supplements and ornamental purposes.
+Reishi ([[ganoderma-lucidum]]) is one of the most revered mushrooms in traditional Chinese medicine, where it has been used for over 2,000 years as a tonic for longevity, vitality, and immune support. Known as "Lingzhi" in China and "Mannentake" in Japan, Reishi is now widely cultivated for both medicinal supplements and ornamental purposes.
 
 ## Overview
 
@@ -20,9 +20,9 @@ Reishi is a wood-decomposing polypore that produces large, kidney- or fan-shaped
 Several Ganoderma species are cultivated:
 
 - G. lucidum: the classic "red Reishi" of Asian medicine, most studied
-- G. tsugae: hemlock Reishi, native to eastern North America
+- G. tsugae: hemlock Reishi, native to [[polypore-fungi-eastern-north-america]]
 - G. lingzhi: taxonomically separated from G. lucidum; the primary Lingzhi of Chinese commerce
-- G. oregonense: a large Pacific Northwest species used by some growers
+- G. oregonense: a large [[psilocybin-north-america-pacific-northwest]] species used by some growers
 - G. sessile: a North American species increasingly cultivated for supplements
 
 The red Reishi (G. lucidum and G. lingzhi) contains the highest concentrations of medicinal compounds and is the standard for commercial cultivation.
@@ -31,7 +31,7 @@ The red Reishi (G. lucidum and G. lingzhi) contains the highest concentrations o
 
 ### Triterpenes
 
-Triterpenes (ganoderic acids) are the primary bioactive compounds responsible for Reishi's bitter taste and many of its therapeutic effects:
+Triterpenes (ganoderic acids) are the primary [[cordyceps-cancer-bioactive-compounds]] responsible for Reishi's bitter taste and many of its therapeutic effects:
 
 - Over 150 triterpenes identified
 - Anti-inflammatory, hepatoprotective, and anti-tumor properties
@@ -74,7 +74,7 @@ Log-grown Reishi is considered the highest quality due to slow growth and natura
 
 ### Bag Cultivation (Sawdust Blocks)
 
-Indoor sawdust block cultivation is faster and more productive:
+Indoor [[supplemented-sawdust-block-cultivation]] is faster and more productive:
 
 #### Substrate Formula
 
@@ -132,7 +132,7 @@ Spore collection: Reishi spores have a separate market. Some growers place paper
 ## Yield Expectations
 
 - Log cultivation: 50-100g dry weight per log per year; slower but higher quality
-- Bag cultivation: 100-200g fresh per bag; biological efficiency 40-70%
+- Bag cultivation: 100-200g fresh per bag; [[biological-efficiency]] 40-70%
 - Bag cultivation is 2-3x faster but produces lower triterpene concentrations
 
 ## Common Problems

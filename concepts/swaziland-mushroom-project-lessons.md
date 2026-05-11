@@ -21,15 +21,15 @@ government-initiated vs. farmer-initiated mushroom development models. Initiated
 by the king after visiting Thai mushroom farms in 2000, the project established
 a spawn-impregnated bag distribution center at Malkerns Research Station. The
 project illustrates both the potential and vulnerabilities of centralized mushroom
-development approaches in African countries.
+development approaches in [[mushroom-industry-african-countries]].
 
 ## Project Structure
 
 The distribution center performed all key production steps: substrate mixing,
 bagging, sterilization, inoculation, and incubation. Well-incubated bags were
 distributed free to farmers who only needed to manage fruiting, watering, and
-harvesting in their own growing houses. Equipment included imported Thai mixers
-and bagging machines, and locally fabricated sterilizers. Three oyster mushroom
+harvesting in their own [[mushroom-growing-houses]]. Equipment included imported Thai mixers
+and bagging machines, and locally fabricated sterilizers. Three [[cotter-oyster-mushroom-cultivation]]
 strains were used.
 
 Two Export Production Villages (EPVs) were selected as pilot sites: Siphofaneni
@@ -48,7 +48,7 @@ including Bermuda grass hay, mixed Lowveld grasses, and corncobs.
 
 Spent oyster [[gourmet-medicinal-mushroom-substrate-preparation]] was also researched for agricultural use.
 Cucumbers, spinach, and eggplant were successfully grown on SMS-fertilized
-fields. Experimental cultivation of shiitake and [[stamets-reishi-ganoderma-lucidum-cultivation]] was also
+fields. Experimental [[cultivation-of-shiitake]] and [[stamets-reishi-ganoderma-lucidum-cultivation]] was also
 conducted.
 
 ## Village Outcomes
@@ -73,7 +73,7 @@ In April 2003, the distribution center stopped operating due to:
 - Critical lack of funding as UNDP Swaziland blocked funds from the ZERI Regional
   Project, citing endless research without considerable results
 - High contamination rate (20%) of bags requiring better facilities
-- Need for temperature control in the inoculation room
+- Need for [[hamilton-greenhouse-heating-and-temperature-control]] in the inoculation room
 
 Farmers were left helpless, maintaining empty growing houses, unable to produce
 mushrooms without the distribution center because they had never been trained in
@@ -87,40 +87,4 @@ The Swaziland case crystallizes the debate between two approaches:
 **Advantages**: More effective when farmers lack mushroom knowledge (common in
 Africa where [[mazatec-mushroom-culture-and-velada]] is limited). Ensures quality control through
 centralized production. Swaziland has adequate extension workers for support.
-The farmer's job (fruiting and harvesting) requires minimal skill.
-
-**Critical weakness**: If the center stops, everything stops. Farmers cannot
-produce spawn-impregnated bags themselves. Creates dependency rather than
-self-sufficiency. This was the fundamental failure in Swaziland.
-
-### Bottom-Up (Farner-Education)
-UNDP Swaziland's proposed alternative: educate farmers to perform the entire
-cultivation process themselves. Farmers would research appropriate local
-substrates, learn from each other's experience, and work actively for their own
-[[mushroom-poverty-alleviation-developing-countries]]. This approach is used successfully in Uganda. The theory
-is that educated farmers can solve problems independently.
-
-### Recommended Hybrid Approach
-Both approaches could cooperate: the distribution center could sell bags to
-growers while project funds invest in farmer education. This would combine
-quality control with farmer self-sufficiency, utilizing already-invested
-infrastructure while building long-term capacity.
-
-## Key Lessons for Project Planners
-
-- Never create farmer dependency on a single centralized facility
-- Train farmers in the complete cultivation process, not just fruiting
-- Secure substrate supply agreements before project launch
-- Ensure multiple funding sources to prevent single-point-of-failure
-- Account for the possibility that "waste" materials may acquire market value
-- Consider regional climate variations when selecting pilot sites
-- Invest in durable growing house materials from the start
-- Build farmer capacity for business management alongside cultivation skills
-
-## Related
-
-- [[chakowa-orphanage-mushroom-project-zimbabwe]] Concepts
-
-- [[mushroom-industry-african-countries]]
-- [[oyster-mushroom-spawn-production]]
-- oyster-mushroom-substrate-materials-guide
+The farmer's job ([[pf-tek-fruiting-and-harvesting]]) requires minimal skill.

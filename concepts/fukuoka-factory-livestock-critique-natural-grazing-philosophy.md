@@ -1,12 +1,12 @@
 # Fukuoka on Factory Livestock and Natural Grazing Philosophy
 
 ## Source
-*Masanobu Fukuoka — The Natural Way of Farming (1985)*
+*[[masanobu-fukuoka]] — The Natural Way of Farming (1985)*
 
 ## Summary
-Fukuoka extended his natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] to animal husbandry, arguing that modern
+Fukuoka extended his natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] to [[holzer-natural-animal-husbandry]], arguing that modern
 factory-style livestock production transforms living creatures into mere machines for
-converting processed feed into animal products. He advocated for open grazing in forests
+converting processed feed into animal products. He advocated for [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]] in forests
 and meadows as the most efficient and humane form of livestock production, and proposed
 integrating multiple species — cattle, pigs, chickens, goats, and rabbits — in
 orchard-based grazing systems where each species contributes to soil fertility and
@@ -34,7 +34,7 @@ factory-produced meat and milk-fabricating machines.
 
 ## Open Grazing as the Ideal
 
-Under the precepts of natural farming, livestock farming takes the form of open
+Under the precepts [[four-principles-of-natural-farming]], livestock farming takes the form of open
 grazing. Cattle, pigs, and chickens fattened while free to roam at will on the open
 land under the sun's rays are a precious, irreplaceable source of food for man. The
 problem lies elsewhere — in the prejudiced view that sees natural farming as
@@ -79,7 +79,7 @@ is to raise the right animal in the right environment while letting nature be.
 ## The Barn Is Unnecessary
 
 Fukuoka argued that the fundamental concept of "raising" livestock should not even exist
-in natural farming. Nature is the one that raises and grows. Heat and cold exist, and
+[[mulching-in-natural-farming]]. Nature is the one that raises and grows. Heat and cold exist, and
 yet do not exist, in nature. One will never be wrong in starting with the assumption
 that the [[greg-green-temperature-and-humidity-control]] are everywhere and at all times just right.
 
@@ -87,50 +87,3 @@ All that is needed, for the convenience of man, is the smallest of sheds: perhap
 milking shed for the cows and a tiny chicken shed in which hens can lay their eggs. As
 for the animals, they will scratch and forage freely for food night and day under the
 open sky, find themselves a place to roost, and grow up strong and healthy.
-
-## Disease Prevention Through Health
-
-Disease has become a frequent problem in animal husbandry. Fukuoka argued this problem
-will never be solved unless farmers make their starting point the raising of healthy
-animals that do not contract diseases. Rather than treating disease after it appears,
-the natural farming approach is to create conditions where disease cannot take hold —
-through proper diet, freedom of movement, fresh air, and the natural selection pressures
-of open environments.
-
-Eighty percent of Japan consists of mountains and valleys. Fukuoka proposed fencing off
-depopulated mountain villages to create large open grazing ranges, placing all sorts of
-domestic animals inside and leaving them to themselves for years — an experiment to
-discover what [[holzer-natural-animal-husbandry]] husbandry truly produces.
-
-## Unconditional Truth vs Conditional Science
-
-[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is content to think of conditional truth as the truth, but natural
-farming makes every effort to discard all premises and conditions and seek out a truth
-without conditions. For instance, in order to study a particular animal feed, scientific
-farming will give various formulations to cows chained in a barn and judge the mixture
-producing the best results to be superior — inductive experimentation.
-
-Natural farming does not follow this approach. Because its goal is unconditional truth,
-it begins by examining the cow from a standpoint that disregards environmental
-conditions, by asking how the cow lives in open nature. It takes a broader perspective
-and looks at how a cow is born and grows, considering all factors that relate to life:
-weather, climate, living environment, exercise, sleep, and more.
-
-## Loss of Nature in Modern Production
-
-Both the farm worker directly engaged in raising livestock and the city dweller who
-consumes these food products lose their health and humanity as they turn away from
-nature. Livestock production under factory-like conditions is generally thought to be
-efficient, but this is a nearsighted assessment based on a limited spatial and temporal
-frame of reference. The pitiful sight of fowl, pigs, and cattle confined to cages and
-unable even to move bears witness to the loss of nature of these animals and points also
-to man's alienation from and loss of nature.
-
-Unchanging truths can be found only through experiments free of conditions, assumptions,
-and notions of time and space — a standard that conventional agricultural science, with
-its reductionist methodology, cannot meet.
-
-## See Also
-- [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
-- [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]
-- [[fukuoka-natural-livestock-integration-philosophy]]

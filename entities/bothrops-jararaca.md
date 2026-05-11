@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Bothrops jararaca, commonly known as the jararaca, is a highly venomous pit viper species endemic to southeastern South America. It is one of the most medically important snakes in Brazil, responsible for the majority of snakebite envenomations in the densely populated states of São Paulo, Rio de Janeiro, and Minas Gerais.
+Bothrops jararaca, commonly known as the jararaca, is a highly venomous pit viper species endemic to southeastern [[guzman-psilocybin-mushrooms-south-america]]. It is one of the most medically important snakes in Brazil, responsible for the majority of snakebite envenomations in the densely populated states of São Paulo, Rio de Janeiro, and Minas Gerais.
 
 The species has played a pivotal role in the history of antivenom production and cardiovascular pharmacology. The discovery of bradykinin-potentiating peptides (BPPs) in its venom led directly to the development of captopril, one of the first angiotensin-converting enzyme (ACE) inhibitors used to treat hypertension.
 
@@ -48,9 +48,9 @@ Bothrops jararaca is endemic to southern and southeastern Brazil, eastern Paragu
 
 The species is strongly associated with the Atlantic Forest biome, one of the most biodiverse and threatened ecosystems on Earth. It occurs from sea level to approximately 1,500 meters in elevation within forested and forest-edge habitats.
 
-Habitat preferences include tropical and subtropical moist forests, secondary growth forest, banana and coffee plantations, and rural agricultural areas. The species is frequently encountered near human dwellings, particularly in areas where forest has been converted to agriculture.
+Habitat preferences include tropical and subtropical moist forests, secondary [[teaming-with-microbes-old-growth-forest]], banana and coffee plantations, and rural agricultural areas. The species is frequently encountered near human dwellings, particularly in areas where forest has been converted to agriculture.
 
-Jararacas are primarily nocturnal and terrestrial, though juveniles may be partially arboreal. During daylight hours they shelter under leaf litter, fallen logs, rocks, and in rodent burrows.
+Jararacas are primarily nocturnal and terrestrial, though juveniles may be partially arboreal. During daylight hours they shelter under [[dighton-fungal-decomposition-leaf-litter-dynamics]], fallen logs, rocks, and in rodent burrows.
 
 Activity patterns are influenced by temperature and rainfall. Peak activity occurs during the warm wet season from October to March. During cooler months, the species becomes less active and may enter periods of reduced metabolism.
 
@@ -84,37 +84,6 @@ Bothropic antivenom produced by Instituto Butantan is the standard treatment. It
 
 The discovery of BPPs in Bothrops jararaca venom represents one of the most significant contributions of venom research to clinical medicine. Captopril, approved by the FDA in 1981, was the first ACE inhibitor and has been prescribed to hundreds of millions of patients worldwide for hypertension, heart failure, and diabetic nephropathy.
 
-This pharmaceutical legacy has made Bothrops jararaca one of the most studied venomous snakes in the world. Research on its venom continues to yield novel bioactive compounds with potential therapeutic applications in cardiovascular medicine.
+This pharmaceutical legacy has made Bothrops jararaca one of the most studied venomous snakes in the world. Research on its venom continues to yield novel [[cordyceps-cancer-bioactive-compounds]] with potential [[psilocybin-therapeutic-applications]] in cardiovascular medicine.
 
 ## Ecology and Conservation
-
-Bothrops jararaca is a generalist predator that feeds primarily on small mammals, particularly rodents. Lizards, frogs, and occasionally birds and other snakes supplement the diet.
-
-The species is an ambush predator that relies on its cryptic coloration and thermoreceptive loreal pits to detect and strike passing prey. Venom is delivered through hollow hinged fangs that fold against the roof of the mouth when not in use.
-
-Prey is struck and released, then tracked by scent using the forked tongue and Jacobson's organ. The venom rapidly immobilizes small mammals through coagulopathy and tissue damage, preventing escape.
-
-Reproduction is viviparous. Mating occurs primarily during the autumn months. Females give birth to 10 to 40 neonates between February and April, coinciding with the onset of the warm wet season.
-
-Neonates measure 15 to 25 cm in length and are capable of delivering envenomating bites from birth. Juvenile jararacas are known to use caudal luring, wiggling the bright yellow tail tip to attract frog and lizard prey.
-
-The bright yellow tail tip is lost as the snake matures, coinciding with a dietary shift from ectothermic prey toward endothermic mammals. This ontogenetic color change is a common feature among juvenile pit vipers and reflects changing foraging strategies.
-
-Bothrops jararaca is listed as Least Concern by the IUCN. The species remains common throughout much of its range despite the extensive loss of Atlantic Forest habitat. Its adaptability to agricultural and suburban environments has buffered population declines.
-
-However, ongoing deforestation and urbanization continue to fragment populations. Road mortality is a significant source of mortality in areas where the species crosses roads between forest fragments. Long-term monitoring is recommended to assess population trends.
-
-Despite its medical importance, Bothrops jararaca receives limited conservation attention compared to more charismatic species. Its role as a model organism in drug discovery highlights the broader ecological and scientific value of venomous snake conservation.
-
-## See Also
-
-- [[atropine]]
-- [[nicotine]]
-- [[muscarine]]
-- [[strychnine]]
-- [[aconitum-napellus]]
-- [[digitalis-purpurea]]
-- [[ricinus-communis]]
-- [[bufotenin]]
-- [[morphine]]
-- [[cocaine]]

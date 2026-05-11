@@ -87,22 +87,3 @@ Regular inspection of filter cans during the grow cycle is recommended. Any visi
 ## Scale and Commercial Applications
 
 In commercial mushroom cultivation operations, filter can equivalents are built into the design of autoclavable grow bags, spawn bags, and bulk substrate containers. These commercial products use factory-applied filter patches made from microporous membranes that are bonded to the bag during manufacturing.
-
-The advantage of commercial filter patches over DIY filter cans is consistency and reliability. Factory-bonded patches are tested for airflow rate and bacterial retention, ensuring consistent performance across batches. For home cultivators, however, DIY filter cans remain a cost-effective and functional alternative.
-
-Large-scale operations may also use positive-pressure clean rooms or laminar flow hoods for inoculation, reducing dependence on individual container filtration. However, gas exchange filters remain necessary during the prolonged colonization phase even when inoculation is performed in a controlled environment.
-
-## Common Mistakes in Filter Can Construction
-
-Several common mistakes can compromise filter can performance. Overpacking polyfill into the filter can restricts airflow excessively and creates channels for unfiltered air to pass through gaps in the packing material. The filter material should be loosely packed at uniform density.
-
-Using inappropriate filter materials, such as cotton balls, cotton swabs, or paper towels, is a frequent error. These materials do not provide reliable filtration at the particle sizes needed to exclude fungal spores and may also absorb moisture and promote mold growth on the filter surface itself.
-
-Failing to seal the filter can adequately to the container is perhaps the most common point of failure. Even a tiny gap between the filter can flange and the container surface can allow contaminants to enter while providing the illusion of adequate protection. All seals should be checked before and after sterilization.
-
-## See Also
-
-- [[mushroom-substrate-preparation|substrate sterilization methods]]
-- [[boil-a-bag-mushroom-cultivation-technique|boil a bag pressure sterilization technique]]
-- [[mushroom-inoculation-hygiene-cotter|inoculation clean technique]]
-- [[mycelial-networks]]

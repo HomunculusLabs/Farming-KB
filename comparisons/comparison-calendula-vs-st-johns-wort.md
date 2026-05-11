@@ -22,7 +22,7 @@ applications, and safety considerations to help herbalists and gardeners
 understand when to choose one over the other.
 
 ## Calendula
-[[calendula-officinalis.md]]
+[[calendula-officinalis]]
 
 Calendula officinalis, commonly known as pot marigold, is an annual or 
 short-lived perennial herb in the aster family (Asteraceae). Native to 
@@ -50,7 +50,7 @@ full sun, though it tolerates partial shade and moderate drought once
 established.
 
 ## St. John's Wort
-[[st-johns-wort-cultivation-and-medicinal-uses.md]]
+[[st-johns-wort-cultivation-and-medicinal-uses]]
 
 St. John's Wort (*Hypericum perforatum*) is a perennial herb native to 
 Europe, western Asia, and North Africa, now naturalized throughout much 

@@ -10,10 +10,10 @@ created: 2026-05-08
 
 ## Overview
 
-Salvia divinorum is a psychoactive plant from the mint family
+[[salvia-divinorum]] is a psychoactive plant from the mint family
 (Lamiaceae) that contains the neoclerodane diterpene salvinorin-A.
 It is traditionally consumed by Mazatec Indians of Oaxaca, Mexico,
-but is now grown and sold in the United States and worldwide.
+but is now grown and sold in the [[dmt-containing-plants-united-states-halpern]] and worldwide.
 Salvinorin-A is unique among naturally occurring hallucinogens as
 the first identified non-nitrogenous kappa-opioid receptor agonist.
 
@@ -22,8 +22,8 @@ the first identified non-nitrogenous kappa-opioid receptor agonist.
 ### Kappa-Opioid Receptor Mechanism
 
 Most hallucinogens are psychoactive through action at the 5-HT2A
-serotonin receptor subtype (including LSD, psilocin, DMT, and
-mescaline). Salvinorin-A has no activity at serotonin receptors
+[[serotonin-receptor-interference-psychedelic-mechanism]] subtype (including LSD, psilocin, DMT, and
+mescaline). Salvinorin-A has no activity at [[psilocybin-pharmacology-and-serotonin-receptors]]
 and instead is the first known naturally occurring non-nitrogenous
 kappa-opioid receptor (KOR) agonist (Roth et al., 2002).
 
@@ -40,7 +40,7 @@ natural products.
 
 ## Traditional Use
 
-The Mazatec people of Oaxaca, Mexico traditionally consume Salvia
+The [[mazatec-people]] of Oaxaca, Mexico traditionally consume Salvia
 divinorum by chewing fresh leaves or drinking the juice of crushed
 leaves. The salvinorin-A is absorbed through the oral mucosa
 during chewing (Valdes et al., 1983). Traditional use is
@@ -88,55 +88,3 @@ mechanisms are.
 
 ### Primary Risks
 Harm from Salvia divinorum most likely occurs from:
-- **Inadequate preparation**: Users not expecting the intensity
-  of the experience
-- **Dangerous settings**: Intoxication in environments where
-  it is dangerous to be dissociated (e.g., driving, heights)
-
-The KOR agonism produces a distinctive "dissociative" state
-characterized by loss of connection with consensual reality,
-rather than the visual and emotional spectrum of classical
-psychedelics.
-
-## Related Lamiaceae Species
-
-Many other Lamiaceae ornamentals may ultimately prove to be
-psychoactive. Coleus blumei and [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]] leaves are
-sometimes chewed by Mazatec Indians as Salvia divinorum
-substitutes (Wasson, 1962; Schultes & Hofmann, 1992), though
-only Salvia divinorum has been confirmed to contain salvinorin-A.
-
-A more determined search for a Salvia divinorum substitute
-might be triggered if the plant is scheduled. If such a plant
-exists among popular ornamental Coleus species, restricting
-access to these common houseplants would create legal
-challenges.
-
-## Botanical Characteristics
-
-Salvia divinorum is a perennial herb in the mint family that
-can grow to over one meter in height. It produces large green
-leaves and rarely flowers under cultivation, reproducing
-primarily through vegetative cuttings. The plant requires
-warm, humid, shaded conditions and is relatively easy to
-propagate, contributing to its widespread availability.
-
-## Comparison with Other Dissociatives
-
-Salvinorin-A joins a small group of naturally occurring
-dissociative agents, alongside:
-- **Muscimol/[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]** from [[allegro-amanita-muscaria-properties-and-pharmacology]] (GABA
-  receptor agonism)
-- **DMT** (5-HT2A agonism, though sometimes described as
-  dissociative at breakthrough doses)
-
-Unlike synthetic dissociatives (ketamine, PCP, dextromethorphan)
-which are NMDA receptor antagonists, salvinorin-A's KOR
-mechanism represents an entirely different dissociative
-pathway.
-
-## See Also
-- [[psilocybin-mushrooms-species-and-pharmacology]]
-- [[mescaline-peyote-san-pedro-cactus]]
-- [[salvia-divinorum-salvinorin-a-pharmacology]]
-- [[salvia-divinorum-and-salvinorin-a]]

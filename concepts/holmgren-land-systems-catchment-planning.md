@@ -1,5 +1,5 @@
 ---
-title: "Land Systems and Catchment Planning in Permaculture"
+title: Holmgren Land Systems Catchment Planning
 created: 2026-04-26
 tags:
   - land-systems
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 ---
@@ -87,31 +88,3 @@ agencies. Several difficulties remain:
 - Many improvements to land productivity turn out to be short-lived, but some
   forms of degradation are also temporary as ecological processes transform land
   into new states
-
-## Nested Geographic Systems
-
-Land Systems describe self-organising systems as a series of nested geographic
-systems which can be projected up to encompass the bioregion and down to include
-individual sites. Technical languages and mapping tools can be used by landscape
-ecologists to provide more concrete ways to understand landscapes and apply
-ecological principles to their management.
-
-Most published studies are at scales useful to planners and broadacre farmers but
-can also serve consultants, real estate agents, and those searching for the right
-land to buy. They provide a more piecemeal understanding of the diversity of land
-within any bioregion.
-
-## Catchment and Regional Planning
-
-The key landscape storages of natural capital provide a framework for a new way
-of thinking about catchment and regional planning. In considering new and existing
-land uses and management, Holmgren suggests we should:
-
-- Identify the mechanisms and storages for water, nutrients, and carbon in the
-  system
-- Identify the likely leakages of water, nutrients, and carbon
-- Compare the relative efficiency of storage and risks of losses with natural
-  and wild systems evolved under similar energy and resource regimes
-
-Good skills of [[holmgren-water-harvesting-storage-landscapes]],
-[[bioregional-organization]]

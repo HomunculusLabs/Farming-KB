@@ -77,3 +77,20 @@ The implications for farm economics are significant: if monoculture is not inher
 - [[fukuoka-crop-rotation-and-natural-weeds]]
 - [[jadam-mineral-fertilizer]]
 - [[fungal-nutrient-cycling-mineral-transformations]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
+- [[jadam-dualism-critique-agriculture]]
+- [[jadam-crop-rotation-critique]]
+- [[jadam-monoculture-disorder-crop-residues]]
+- [[jadam-phyllite-water-method]]

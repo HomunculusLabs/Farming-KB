@@ -18,7 +18,7 @@ type: concept
 ## Overview
 
 [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are small, dull-colored fungi that never attracted much
-notice in Western culture until R. Gordon Wasson brought traditional
+notice [[mycophobia-in-western-culture]] until R. [[gordon-wasson-comparative-method-ethnomycology]] brought traditional
 ceremonial use of [[guzman-magic-mushrooms-african-species]] in Mexico to world attention in 1957. For
 some time thereafter, Americans and Europeans streamed to remote areas of
 Oaxaca in search of them, unaware that equally potent species grew in their
@@ -35,14 +35,14 @@ species containing it.
 
 Psilocybin-containing mushrooms span several genera. The major groups include
 Psilocybe, Panaeolus, Gymnopilus, Conocybe, Inocybe, and Pluteus. Each has
-distinctive morphological features that aid field identification.
+distinctive morphological features that aid [[palmer-mushroom-hunting-field-identification]].
 
 The genus Panaeolus is recognized by the mottled or spotted appearance of
 gills just prior to full maturity, caused by uneven ripening of
 spore-producing cells (basidia) on gill surfaces. Many Panaeolus species
 grow in dung, while several prefer grassy or woodland habitats. They
 typically have hemispheric caps, relatively long stems, and produce black
-spore prints.
+[[macrofungal-documentation-photography-spore-prints]].
 
 Psilocybe species are the most diverse and widely distributed group. They
 typically have dark purplish brown spore deposits, viscid caps when moist
@@ -57,7 +57,7 @@ characteristic for identifying psilocybin-containing mushrooms. When the
 flesh of a psilocybin mushroom is bruised or cut, enzymatic oxidation of
 psilocin causes a distinctive blue to blue-black coloration. However, this
 reaction is not universal among all psychoactive species, and some non-
-psychoactive mushrooms may also blue. The bluing reaction should always be
+[[ceremonial-shamanic-use-psychoactive-mushrooms]] may also blue. The bluing reaction should always be
 considered alongside other morphological features.
 
 ## Habitat Identification
@@ -77,7 +77,7 @@ simple mistake can have deadly ramifications.
 
 ## Key Identification Features
 
-When attempting to identify psilocybin mushrooms, several features should be
+When attempting to identify [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], several features should be
 carefully examined:
 
 1. **Spore print color**: Dark purplish brown to black, depending on genus.
@@ -88,46 +88,3 @@ carefully examined:
    (color changes as moisture is lost).
 
 3. **Gill attachment**: How gills connect to the stem (free, adnate,
-   adnexed, sinuate, or subdecurrent).
-
-4. **Stem features**: Length, thickness, presence of partial veil, ring
-   zone, bruising reaction, and basal mycelium characteristics.
-
-5. **Habitat and substrate**: Whether growing in dung, grass, decayed
-   wood, wood chips, or enriched soils.
-
-6. **Microscopic features**: Spore size and shape, presence of
-   pleurocystidia and cheilocystidia, and basidial structure.
-
-## Dangers of Mistaken Identification
-
-The dangers of mistaken identification cannot be overstated. Several genera
-of toxic mushrooms share habitats with psilocybin species. Galerina
-marginata, a deadly species containing amatoxins, grows in identical wood
-chip habitats as [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] and P. stuntzii. Many mycologists
-have noted the importance of proper identification tools, though some
-historically expressed resistance to distributing information about
-psilocybin species.
-
-Professional mycologists have sometimes been mistrustful of anyone
-expressing a passion for Psilocybe. During the counterculture movement of
-the 1960s and 1970s, hunting for psilocybes approached the level of a
-national sport in certain regions. Learning proper identification is
-essential for safety.
-
-## Field Collection Tips
-
-When collecting mushrooms for identification, always bring a basket or paper
-bag (never plastic, which causes rapid decomposition). Note the habitat,
-substrate, and associated tree species. Collect specimens at various stages
-of maturity. Take spore prints by placing caps gill-side down on paper.
-Photograph specimens in situ before collection. Never consume any mushroom
-based solely on visual identification from a book or website.
-
-## Related
-
-- [[magic-mushroom-global-distribution]]
-- psilocybin mycology chemistry
-- [[spore-print-collection]]
-- [[amanita-poisoning-identification-antidotes-palmer]]
-- [[mushroom-cultivation-sterile-technique]]

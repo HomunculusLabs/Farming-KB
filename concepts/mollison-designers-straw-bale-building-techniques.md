@@ -1,5 +1,5 @@
 ---
-title: comparison-cob-construction-vs-straw-bale-construction Building Techniques
+title: Mollison Designers Straw Bale Building Techniques
 created: 2026-04-28
 tags:
   - natural-building
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -25,7 +26,7 @@ byproduct into durable housing.
 
 ## Load-Bearing vs. Post-and-Beam (Infill) Systems
 
-Two primary structural approaches exist in straw bale construction:
+Two primary structural approaches exist in [[comparison-cob-construction-vs-straw-bale-construction]]:
 
 **Load-bearing (Nebraska style):** The bale walls themselves carry the
 roof load. This simpler method uses wooden top plates and window/door
@@ -57,7 +58,7 @@ Straw bale walls require protective coatings on both exterior and
 interior surfaces. Mollison emphasizes earthen and lime-based plasters
 as permaculture-appropriate finishes:
 
-- **Earth plaster:** Clay, sand, and straw fiber mix applied in 2-3
+- **[[earth-plaster-and-natural-finishes]]:** Clay, sand, and straw fiber mix applied in 2-3
   coats. Cheapest option; excellent breathability. Vulnerable to
   water erosion on exposed walls.
 - **[[comparison-lime-plaster-vs-earthen-plaster]]:** Lime, sand, and fiber. More water-resistant than
@@ -75,7 +76,7 @@ moisture intrusion at the base.
 ## Moisture Barriers and Foundation Design
 
 Moisture is the primary enemy of straw bale construction. Key
-protection strategies include:
+[[permaculture-frost-protection-strategies]] include:
 
 - Raised foundations keeping bales at least 200mm above grade
 - Gravel trench or rubble foundations for drainage
@@ -87,33 +88,3 @@ protection strategies include:
 The base course of bales is the most vulnerable. Some builders place
 the first bales on a raised curb or use special moisture-resistant
 bases. Proper site drainage -- directing water away from foundations --
-is essential in permaculture site planning.
-
-## Thermal Performance
-
-Straw bale walls offer exceptional thermal insulation, typically R-2.4
-to R-3.0 per inch, yielding total wall R-values of R-30 to R-45 for a
-standard bale width (450-500mm). This far exceeds conventional framed
-walls and rivals or surpasses insulated concrete forms. Key thermal
-characteristics:
-
-- High thermal resistance reduces heating and cooling energy needs
-- Thick walls provide significant thermal lag, delaying heat transfer
-- High mass when plastered improves comfort in diurnal temperature
-  swings
-- Air tightness reduces infiltration losses when properly detailed
-
-Mollison highlights straw bale buildings as examples of [[passive-solar-design]] principles. The
-combination of high insulation and thermal mass (from plaster coatings)
-creates stable interior temperatures with minimal mechanical heating or
-cooling. In temperate climates, straw bale homes can remain comfortable
-year-round with earth-building-permaculture techniques, [[rainwater-harvesting-systems]] for fully integrated
-permaculture dwellings. The thick walls also provide excellent sound
-insulation and a sense of solidity that contributes to psychological
-comfort.
-
-## See Also
-
-- [[passive-solar-design]]
-- [[permaculture-design]]
-- sustainable architecture

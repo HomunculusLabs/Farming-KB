@@ -88,31 +88,3 @@ without quantized distinction.
 ## The Glossolalia Phenomenon
 
 McKenna distinguished DMT language phenomena from classical
-glossolalia. Classical glossolalia produces fluent but semantically
-empty vocalizations, after which speakers ask whether they succeeded.
-The DMT-induced phenomenon is fundamentally different: a brain state
-allowing expression of an assembly language behind language, a primal
-Ursprache described by Robert Graves in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] or in the
-Kabbalistic Zohar. This is language at a pre-semantic level where
-meaning is conveyed through sound, visual form, and felt quality
-without conventional linguistic mediation.
-
-## Borges, the Aleph, and the Secret of the Phoenix
-
-McKenna drew a parallel with Jorge Luis Borges' The Sect of the
-Phoenix, describing a secret society present in every culture, bound by
-a single trivial rite that is simultaneously sacred and ridiculous,
-furtively performed and impossible to name, yet alluded to by all
-words. McKenna suggested the tryptamine experience may constitute this
-secret: a trans-cultural phenomenon discovered and rediscovered across
-millennia but never integrated into mainstream discourse. The parallel
-with Borges' The Aleph, a point containing all other points allowing
-simultaneous perception of everything, underscores the totality and
-resistance to partial description characterizing the DMT state.
-
-## Shamanism and the Validation Problem
-
-In archaic societies, individuals showing signs of oddness, epilepsy,
-or survival of unusual ordeals are identified as potential [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[tryptamine]] compounds overview

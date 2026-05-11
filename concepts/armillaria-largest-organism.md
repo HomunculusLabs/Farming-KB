@@ -2,11 +2,11 @@
 title: Armillaria - The Largest Living Organism
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - basidiomycota
   - armillaria
-  - fungal-ecology
-  - mycelium
+  - [[fungal-ecology]]
+  - [[mycelium]]
   - forest-ecology
   - fairy-rings
 date: 2026-04-28
@@ -20,9 +20,9 @@ type: concept
 
 ## Overview
 
-*Armillaria* is a genus of [[basidiomycota-classification-major-clades|Basidiomycota overview]]
-- [[bloomfield-fairy-rings-armillaria-giant-fungi|Fairy ring fungi]]
-- [[fungal-ecology-forest-ecosystems|Fungal forest pathology]]
+*Armillaria* is a genus of [[basidiomycota-classification-major-clades]]
+- [[bloomfield-fairy-rings-armillaria-giant-fungi]]
+- [[fungal-ecology-forest-ecosystems]]
 ## Practical Applications
 
 Armillaria - The Largest Living Organism has a range of practical applications that make it relevant to
@@ -88,15 +88,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

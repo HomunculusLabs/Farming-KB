@@ -88,28 +88,3 @@ In traditional medicine, leaf extracts have been applied topically for burns, wo
 The red fruit juice has served as a cosmetic dye and ink substitute in several traditional cultures across Africa and Asia.
 
 The species is increasingly recognized as a climate-resilient vegetable due to its heat tolerance, [[cannabis-disease-pest-resistance-breeding-clarke]], and low input requirements.
-
-Its perennial growth habit and ability to regenerate from the root crown after harvest provide continuous production with minimal replanting, reducing labor and seed costs for smallholder farmers.
-
-## Related Species and Cultivars
-
-*Basella alba* is the only widely cultivated species in the family Basellaceae, though the genus also includes *Basella paniculata*, a less common African relative.
-
-The red-stemmed form, historically described as *Basella rubra*, is the most commonly grown cultivar in tropical Asia and is valued for both its ornamental appearance and culinary quality.
-
-A green-stemmed cultivar (*B. alba* var. *alba*) is preferred in some West African markets where consumers associate green stems with freshness and lower bitterness.
-
-Differences between green and red forms extend beyond pigmentation — the red cultivar contains higher levels of betalain antioxidants in stems and leaves.
-
-The genus *Anredera* contains several related climbing species, including *Anredera cordifolia* (Madeira vine), which produces edible tubers but is classified as an invasive weed in many subtropical regions.
-
-In traditional agricultural systems, Malabar spinach is often intercropped with okra, eggplant, or cassava, where its climbing habit allows efficient use of vertical space without competing for ground-level resources.
-
-## See Also
-
-- [[spinacia-oleracea]]
-- [[talinum-fruticosum]]
-- [[colocasia-esculenta]]
-- [[ocimum-basilicum]]
-- [[abelmoschus-esculentus]]
-- [[psophocarpus-tetragonolobus]]

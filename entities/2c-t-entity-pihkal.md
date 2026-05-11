@@ -21,7 +21,7 @@ sources: ["Shulgin - PIHKAL"]
 
 > (with 60 mg) Poetry was an easy and natural
 > thing. Both the reading of it and the writing of it. This is a
-> potential MDMA substitute since it opens things up but it doesn't do
+> potential [[mdma]] substitute since it opens things up but it doesn't do
 > anything to get in the way.
 >
 > (with 75 mg) I am already aware at a quarter of an hour into it! It
@@ -88,44 +88,6 @@ the relative position down the side of the street.
 Both of the homologous mono-ethoxy Tweetios of 2C-T have been
 synthesized and evaluated. The 2-EtO-homologue of 2C-T is
 2-ethoxy-5-methoxy-4-methylthiophenethylamine, or 2CT-2ETO. The
-benzaldehyde (2-ethoxy-5-methoxy-4-(methylthio)benzaldehyde) was an
-oil, the nitrostyrene intermediate had a melting point of 137-138 deg C,
-
-(Additional commentary available in source.)
-
-## Synthesis
-
-A solution of 149 g sodium thiosulfate in 300 mL H2O was
-vigorously stirred. To this there was added, over the course of 10
-min, a solution of 43.2 g benzoquinone in 200 mL acetic acid. After
-an additional 1 h stirring at room temperature, all volatiles were
-removed under vacuum. The residual syrup slowly set up as crystals
-which, after grinding under brine, were removed by filtration and
-washed with additional brine. These were dissolved in MeOH, clarified
-by filtration through a Celite bed, and the clear filtrate stripped of
-solvent under vacuum. The yellow, powdery sodium
-2,5-hydroxyphenylthiosulfate weighed 67 g when dry. This intermediate
-was dissolved in aqueous HCl (50 g in 200 mL H2O containing 400 mL
-concentrated HCl), cooled with an external ice bath, and treated with
-250 g zinc dust added at a rate that kept the temperature below 60 deg C.
-About 1.5 h were required, and caution must be taken concerning the
-poisonous hydrogen sulfide that evolves. An additional 50 mL
-concentrated HCl was added, and the aqueous phase decanted from the
-unreacted zinc metal. This was extracted with 6x100 mL Et2O, and
-these extracts were pooled, washed with brine, and the solvent removed
-under vacuum to yield 33.1 g of 2,5-dihydroxythiophenol as pale yellow
-needles with a mp of 118-119 deg C.
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-t-2-entity-pihkal]] -- 2C-T-2 (PIHKAL #40)
+- [[aleph-entity-pihkal]]

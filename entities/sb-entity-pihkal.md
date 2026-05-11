@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # SB
 
-PIHKAL entry #144. SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #144. SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -39,7 +39,7 @@ SYMBESCALINE; 3,5-DIETHOXY-4-METHOXYPHENETHYLAMINE
 
 It must be concluded that SB is "probably"
 not active. There was no convincing evidence for much effect at
-levels that would clearly be active for mescaline. This is the kind
+levels that would clearly be active for [[mescaline]]. This is the kind
 of result that puts some potentially ambiguous numbers in the
 literature. One cannot say that it is inactive, for there might well
 be something at 400 or 800 or 1200 milligrams. But since it has been
@@ -88,24 +88,3 @@ appropriately depressed (mp 137-140 deg C.).
 
 A solution of 7.6 g 2,6-diethoxyphenol in 40 mL MeOH was treated with
 4.9 g of a 40% aqueous solution of dimethylamine followed by 3.6 g of
-a 40% aqueous solution of formaldehyde. The mixture was heated 1 h on
-the [[scythian-cannabis-steam-bath-ritual]], and all volatiles were removed under vacuum. The
-residual dark oil was dissolved in 36 mL IPA and 10.3 g of methyl
-iodide was added. There was spontaneous heating, and the deposition
-of fine white solids. After standing for 10 min, these were removed
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[p-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

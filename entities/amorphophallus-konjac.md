@@ -88,25 +88,3 @@ Leaf blight caused by *Phytophthora* species also poses a significant threat, pa
 Nematodes of the genus *Meloidogyne* (root-knot nematodes) can cause substantial damage to corms, reducing both yield and processing quality. Soil fumigation and crop rotation with non-host species are standard management practices.
 
 Insect pests are generally minor, though aphids may transmit [[cervantes-viral-diseases-cannabis]] and thrips can damage young leaves. Integrated pest management combining clean seed, rotation, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is recommended.
-
-## Processing and Industrial Uses
-
-Konjac corm processing involves peeling, slicing, grinding, and drying to produce konjac flour. The flour is further refined through alcohol precipitation to isolate pure konjac glucomannan for pharmaceutical and food-grade applications.
-
-Beyond food, KGM is used in biomedical applications including wound dressings, drug delivery systems, and tissue engineering scaffolds. Its biocompatibility and biodegradability make it attractive for medical materials.
-
-In the cosmetics industry, konjac is used in facial sponges, masks, and moisturizing formulations. Konjac sponges have become popular internationally as a gentle, natural exfoliating tool.
-
-Industrial applications include use as a film-forming agent in biodegradable packaging, a flocculant in water treatment, and a binder in construction materials. The diversity of applications continues to drive research into konjac chemistry.
-
-## See Also
-
-- [[xanthosoma-sagittifolium]]
-- [[dioscorea-rotundata]]
-- [[moringa-oleifera]]
-- [[cajanus-cajan]]
-- [[smallanthus-sonchifolius]]
-- [[pisum-sativum]]
-- lupinus-albus
-- [[canavalia-ensiformis]]
-- [[ceratonia-siliqua]]

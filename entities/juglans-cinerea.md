@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-**Juglans cinerea**, commonly known as butternut or white walnut, is a deciduous tree native to [[polypore-fungi-eastern-north-america]] America. It is closely related to black walnut (*Juglans nigra*) but distinguished by its lighter wood, oblong nuts, and highly fissured bark.
+**Juglans cinerea**, commonly known as butternut or white walnut, is a deciduous tree native to [[polypore-fungi-eastern-north-america]] America. It is closely related to [[black-walnut-juglans-nigra]] (*[[juglans-nigra]]*) but distinguished by its lighter wood, oblong nuts, and highly fissured bark.
 
-The species has experienced dramatic population declines due to butternut canker disease, caused by the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] *Ophiognomonia clavigignenti-juglandacearum*. It is listed as endangered in both the United States and Canada.
+The species has experienced dramatic population declines due to butternut canker disease, caused by the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] *Ophiognomonia clavigignenti-juglandacearum*. It is listed as endangered in both the [[dmt-containing-plants-united-states-halpern]] and Canada.
 
 Butternut wood is prized for woodworking and carving due to its fine grain and warm tone. The nuts have a rich, buttery flavor superior to black walnut and were historically important in Indigenous and settler food systems.
 
@@ -79,42 +79,12 @@ Butternut bark, husks, and leaves contain juglone (5-hydroxy-1,4-naphthoquinone)
 
 The inner bark has a long history of use in traditional medicine as a mild laxative and cathartic. It was listed in the US Pharmacopeia from 1820 to 1905 under the name "butternut bark."
 
-Extracts demonstrate anti-inflammatory activity in vitro, attributed to flavonoids and phenolic compounds. The fixed oil from kernels is rich in linoleic acid (57%) and oleic acid (24%).
+Extracts demonstrate anti-inflammatory activity in vitro, attributed to flavonoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. The fixed oil from kernels is rich in linoleic acid (57%) and oleic acid (24%).
 
-No [[mushroom-cancer-clinical-trials-overview]] validate traditional uses. The laxative effect is attributed to anthraquinone-like compounds stimulating peristalsis. Juglone is cytotoxic to certain cancer cell lines at high concentrations.
+No [[mushroom-cancer-clinical-trials-overview]] validate traditional uses. The laxative effect is attributed to anthraquinone-like compounds stimulating peristalsis. Juglone is cytotoxic to certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines at high concentrations.
 
 ## Butternut Canker Disease
 
 Butternut canker, caused by *Ophiognomonia clavigignenti-juglandacearum* (OCJ), is the primary threat to species survival. First identified in Wisconsin in 1967, it has since spread throughout the species' range.
 
 The fungus infects through wounds, bark cracks, and leaf scars, forming elliptical cankers that girdle branches and stems. Multiple cankers on a single tree typically lead to mortality within 10–15 years of initial infection.
-
-Mortality rates exceed 80% in many stands. In Canada, the species is listed as Endangered under the Species at Risk Act. In the US, it is a species of concern in most states within its range.
-
-Limited resistance has been observed in a small percentage of individuals. Breeding programs in the US and Canada are working to identify resistant genotypes and develop disease-tolerant planting stock.
-
-Hybridization with Japanese walnut (*Juglans ailantifolia*) produces the "buartnut," which shows varying degrees of canker resistance. Buartnuts are being planted as potential replacements in forestry and agroforestry.
-
-## Ecological Role
-
-Butternut nuts are an important food source for wildlife, including squirrels, chipmunks, deer, bears, and numerous bird species. The high fat content provides critical energy for winter survival.
-
-The tree serves as a host for several lepidopteran species, including the butternut woollyworm (*Datana integerrima*) and the walnut caterpillar (*Datana persimilis*). These specialist herbivores rarely cause significant damage to healthy trees.
-
-Butternut contributes to riparian zone stability along stream corridors. Its root system helps prevent bank erosion on floodplains and terraces.
-
-As a nitrogen-fixing associate through mycorrhizal relationships, the tree supports soil fertility in mixed hardwood stands. Juglone exudation creates a allelopathic zone that inhibits certain understory competitors.
-
-## See Also
-
-- [[juglans-nigra]]
-- [[juglans-regia]]
-- [[carya-illinoinensis]]
-- [[carya-ovata]]
-- [[betula-nigra]]
-- [[acer-saccharum]]
-- [[quercus-alba]]
-- [[fagus-sylvatica]]
-- [[ulmus-americana]]
-- [[populus-tremuloides]]
-- [[tilia-americana]]

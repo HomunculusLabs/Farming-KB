@@ -3,11 +3,11 @@
 ## Overview
 
 Salvinorin-A is the principal psychoactive compound in [[golden-guide-salvia-divinorum-and-diviner-sage]],
-a mint family (Lamiaceae) plant traditionally used by the Mazatec people of Oaxaca, Mexico.
+a mint family (Lamiaceae) plant traditionally used by the [[mazatec-people]] of Oaxaca, Mexico.
 Salvinorin-A is remarkable in pharmacology because it is the first known naturally occurring
 non-nitrogenous opioid receptor agonist.
-Unlike virtually all other classical hallucinogens, which act at the 5-HT2A serotonin receptor,
-salvinorin-A has no activity at serotonin receptors and instead acts as a potent kappa-opioid receptor (KOR) agonist.
+Unlike virtually all other classical hallucinogens, which act at the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]],
+salvinorin-A has no activity at [[psilocybin-pharmacology-and-serotonin-receptors]] and instead acts as a potent kappa-opioid receptor (KOR) agonist.
 
 ## Chemical Properties
 
@@ -46,7 +46,7 @@ Unlike LSD, psilocybin, mescaline, and DMT,
 salvinorin-A shows no affinity for serotonin 5-HT2A receptors,
 which are the primary site of action for classical hallucinogens.
 This fundamental difference in mechanism of action
-explains why the Salvia divinorum experience is qualitatively distinct
+explains why the [[hofmann-salvia-divinorum-discovery]] experience is qualitatively distinct
 from other hallucinogens, often described as more dissociative than psychedelic.
 
 ## Methods of Administration and Dosage
@@ -88,61 +88,3 @@ Common effects include:
 - Altered sense of self and [[psilocybin-ego-dissolution-mechanisms]]
 - Visual distortions and closed-eye imagery
 - Uncontrollable laughter or crying
-- Synesthetic experiences
-- Re-experiencing of past memories
-- Geometric and organic visual transformations
-
-The experience is typically described as intense and overwhelming,
-even at moderate doses.
-Many users report that the intensity is disproportionate
-to their expectations based on experience with other psychedelics.
-Loss of physical coordination is common during the peak effects.
-
-## Duration of Effects
-
-The duration varies significantly by method of administration:
-- Smoked: 5-15 minutes (very brief)
-- Oral mucosa absorption (chewing): 30-60 minutes
-- Sublingual tincture: 30-90 minutes
-
-The brevity of the smoked experience is notable
-and contrasts sharply with other hallucinogens,
-which typically last 4-12 hours.
-This [[savory-short-duration-grazing-and-cell-systems]] may contribute to the substance's appeal
-as it limits the time window for potentially distressing experiences.
-
-## Legal Status and Regulatory Concerns
-
-As of the period covered by Halpern's 2004 review,
-the DEA had not scheduled Salvia divinorum or salvinorin-A,
-but was closely monitoring it as a possibly emerging drug of abuse.
-Since then, many US states and numerous countries have enacted restrictions.
-The plant itself remains unscheduled at the federal level in the US
-(as of the original publication), though this status has evolved.
-Salvia divinorum has no reinforcing properties, which limits its abuse potential.
-Harm from Salvia divinorum most likely occurs
-from inadequate preparation or dangerous settings
-(e.g., driving while intoxicated),
-rather than from the compound's inherent pharmacology.
-
-## Potential for Substitution
-
-Many other Lamiaceae ornamentals may ultimately prove
-to be psychoactive similar to Salvia divinorum.
-Coleus spp. plants, popular in gardens for their intense leaf colors,
-are sometimes chewed by Mazatec Indians as a Salvia substitute.
-
-## See Also
-- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
-- [[salvinorin-b]]
-- [[salvia-divinorum-profile]]
-- [[amanita-muscaria-chemistry-and-pharmacology]]
-
-## Sources
-
-- Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the US. Pharmacology & Therapeutics, 102, 131-138.
-- Roth, B.L. et al. (2002). Salvinorin A: a potent naturally occurring nonnitrogenous kappa opioid selective agonist. PNAS, 99(18), 11934-11939.
-- Siebert, D.J. (1994). Salvia [[salvia-divinorum-and-salvinorin-a]] A. Journal of Psychoactive Drugs.
-- Valdes, L.J. et al. (1983). Two new neoclerodane diterpenoids from Salvia divinorum. Journal of Natural Products.
-
-## See Also

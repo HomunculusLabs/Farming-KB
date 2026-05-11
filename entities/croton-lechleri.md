@@ -23,7 +23,7 @@ updated: 2026-04-28
 sources:
   - Cai, Y. et al. (1991). "Polyphenolic compounds from Croton lechleri."
     Phytochemistry 30(3): 953-955.
-  - Perdue, G.P. et al. (1979). "chiric-caspi-brunfelsia-south-american-hallucinogen plants II: taspine, a
+  - Perdue, G.P. et al. (1979). "[[chiric-caspi-brunfelsia-south-american-hallucinogen]] plants II: taspine, a
     novel cicatrizant agent." Journal of Natural Products 42(5): 567-568.
   - Chen, Z.L. et al. (1994). "Croton lechleri sap — a source of
     proanthocyanidins." Journal of Natural Products 57(1): 54-59.
@@ -42,7 +42,7 @@ anti-inflammatory, and gastrointestinal remedy.
 The tree typically reaches 10–20 meters in height and is one of the most
 economically significant medicinal plants harvested from the wild in the Amazon
 region. Commercial preparations of the latex are sold internationally as
-dietary supplements and topical treatments.
+[[medicinal-mushroom-dietary-supplements]] and topical treatments.
 
 ## Taxonomy and Morphology
 
@@ -50,7 +50,7 @@ Eudicots → Rosids → Malpighiales → **Euphorbiaceae → *Croton → C. lech
 
 Described by John Muirhead Macfarlane in 1891, the species epithet *lechleri*
 honors the German botanist and collector Wilhelm Lechler, who extensively
-collected in South America during the mid-19th century.
+collected in [[guzman-psilocybin-mushrooms-south-america]] during the mid-19th century.
 
 ### Morphology
 
@@ -73,7 +73,7 @@ abundant in lowland and premontane tropical moist forests, often in disturbed
 or secondary growth areas, along riverbanks, and at forest edges.
 
 The species is light-demanding and colonizes gaps and clearings readily. It is
-commonly found in agroforestry systems and along roadsides throughout the Peruvian
+commonly found in [[agroforestry]] systems and along roadsides throughout the Peruvian
 and Ecuadorian Amazon.
 
 ## Phytochemistry
@@ -88,39 +88,3 @@ The dark red latex of *C. lechleri* is a complex mixture of [[query-what-are-the
   compound. Taspine promotes fibroblast migration and collagen deposition
   at wound sites at concentrations as low as 0.001%.
 - **SP-303 (Famotidine analog):** A proanthocyanidin oligomer with clinically
-  demonstrated antidiarrheal activity. It inhibits intestinal chloride
-  secretion and enterotoxin binding.
-- **Diterpenes:** Including hardwickiic acid and crotonadiol, contributing
-  anti-inflammatory activity via NF-κB pathway modulation.
-- **Lignans and phenolic compounds:** Nor-β-lapachone and other quinones with
-  reported cytotoxic activity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
-
-## Traditional and Modern Medicine
-
-Indigenous communities across the Amazon use *C. lechleri* latex both internally
-and externally. The Shipibo-Conibo, Asháninka, Quichua, and other groups apply
-the latex directly to cuts, burns, insect bites, and fungal skin infections.
-Internally, diluted latex is consumed for gastrointestinal ulcers, diarrhea,
-and as a general anti-inflammatory tonic.
-
-Modern [[hofmann-lsd-clinical-research-early-studies]] has validated several traditional uses:
-- Topical application accelerates wound closure in controlled studies
-- SP-303 demonstrated efficacy against traveler's diarrhea in Phase II trials
-- Anti-inflammatory effects confirmed in murine models at standardized doses
-- Antimicrobial activity demonstrated against *Staphylococcus aureus*,
-  *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*
-
-## Harvesting and Sustainability
-
-Wild harvesting of *C. lechleri* latex is a significant income source for
-rural Amazonian communities. Tappers make diagonal cuts in the bark and collect
-the exuding latex in containers, a process similar to rubber tapping.
-Sustainable harvesting protocols limit the number of cuts per tree and allow
-recovery periods between tappings.
-
-## See Also
-
-- [[mimosa-tenuiflora]]
-- [[uncaria-tomentosa]] · Bixa orellana ·
-[[piper-methysticum]] · Tabebuia ·
-[[banisteriopsis-caapi]] · Chondrodendron tomentosum · Cinchona

@@ -87,10 +87,3 @@ L. diffusa faces significant conservation pressures in its restricted natural ra
 Habitat destruction through agricultural expansion, urban development, and road construction continues to reduce available habitat. Illegal collection by both commercial and private collectors further threatens wild populations.
 
 The species extremely limited range makes it particularly vulnerable to habitat loss and [[dighton-fungi-climate-change-feedback]]. Conservation organizations have called for strengthened protections and habitat restoration efforts in the Sierra Gorda region.
-
-## See Also
-
-- [[mescaline]]
-
-- Pellotine
-- [[trichocereus-pachanoi]]

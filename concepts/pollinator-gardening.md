@@ -9,14 +9,14 @@ sources: []
 
 # Pollinator Gardening
 
-Pollinators are essential for the reproduction of over 80% of flowering plants and approximately one-third of human food crops. Creating habitat for pollinators supports both wild ecosystems and agricultural productivity. A pollinator garden provides food (nectar and pollen), nesting sites, and shelter for bees, butterflies, hummingbirds, moths, flies, and beetles. (see [[bird-habitat-creation]]).
+Pollinators are essential for the reproduction of over 80% of flowering plants and approximately one-third of human food crops. Creating habitat for pollinators supports both wild ecosystems and agricultural productivity. A pollinator garden provides food (nectar and pollen), nesting sites, and shelter for bees, butterflies, hummingbirds, moths, flies, and beetles.
 
 ## Native Bee Species
 
 North America has over 4,000 native bee species. Unlike the European honeybee (Apis mellifera), most native bees are solitary and do not live in colonies. Key groups include:
 
 ### Bumblebees (Bombus spp.)
-Large, fuzzy bees that can buzz-pollinate (vibrate flowers to release pollen), making them essential for tomatoes, peppers, and eggplants. They live in small underground colonies of 50-500 individuals. Queens overwinter in leaf litter or soil and emerge in early spring. (see [[wildlife-habitat-creation]]).
+Large, fuzzy bees that can buzz-pollinate (vibrate flowers to release pollen), making them essential for tomatoes, peppers, and eggplants. They live in small underground colonies of 50-500 individuals. Queens overwinter in leaf litter or soil and emerge in early spring.
 
 ### Mason Bees (Osmia spp.)
 Solitary bees that nest in hollow stems and pre-existing cavities. Orchard mason bees (Osmia lignaria) are superb early-season pollinators for fruit trees. They are active in cool weather when honeybees are not yet flying. They seal nest cells with mud.
@@ -37,8 +37,8 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 ### Key Host Plants (Larval Food)
 - Milkweed (Asclepias spp.) -- Monarch butterflies (essential)
 - Parsley, dill, fennel -- Black swallowtail
-- Spicebush (Lindera benzoin) -- Spicebush swallowtail
-- Pawpaw (Asimina triloba) -- Zebra swallowtail
+- Spicebush ([[lindera-benzoin]]) -- Spicebush swallowtail
+- Pawpaw ([[asimina-triloba]]) -- Zebra swallowtail
 - Pipevine (Aristolochia spp.) -- Pipevine swallowtail
 - Sunflower (Helianthus spp.) -- Painted lady
 - Asters and violets -- Pearl crescent and fritillaries
@@ -46,7 +46,7 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 ### Key Nectar Plants (Adult Food)
 - Coneflower (Echinacea purpurea)
 - Joe-Pye weed (Eutrochium purpureum)
-- Butterfly weed (Asclepias tuberosa)
+- Butterfly weed ([[asclepias-tuberosa]])
 - Black-eyed Susan (Rudbeckia hirta)
 - Lantana (Lantana camara)
 - Verbena bonariensis
@@ -59,7 +59,7 @@ Butterflies need two types of plants: host plants for caterpillars and nectar pl
 Hummingbirds are drawn to tubular, nectar-rich flowers in red, orange, and pink. They have no sense of smell, so fragrance is irrelevant.
 
 Top hummingbird plants:
-- Trumpet vine (Campsis radicans)
+- Trumpet vine ([[campsis-radicans]])
 - Cardinal flower (Lobelia cardinalis)
 - Bee balm (Monarda didyma)
 - Columbine (Aquilegia spp.)
@@ -105,7 +105,7 @@ A successful pollinator garden provides continuous blooms from early spring thro
 - Crocus, daffodil, snowdrop
 - Serviceberry (Amelanchier)
 - Pussy willow (Salix discolor)
-- Wild geranium (Geranium maculatum)
+- Wild geranium ([[geranium-maculatum]])
 - Hepatica, bloodroot, spring beauties
 
 ### Late Spring (May-June)
@@ -118,7 +118,7 @@ A successful pollinator garden provides continuous blooms from early spring thro
 ### Summer (July-August)
 - Joe-Pye weed, blazing star
 - Mexican sunflower, zinnia
-- Anise hyssop (Agastache foeniculum)
+- Anise hyssop ([[agastache-foeniculum]])
 - Purple coneflower, black-eyed Susan
 - Mountain mint (Pycnanthemum spp.)
 

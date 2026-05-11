@@ -1,10 +1,11 @@
 ---
-title: "Japan's fukuoka textdoc basic agriculture law japan food self sufficiency crisis Law and the Food Self-Sufficiency Crisis"
+title: Fukuoka Textdoc Basic Agriculture Law Japan Food Self Sufficiency Crisis
 created: 2026-04-28
 tags: [fukuoka, agriculture-policy, japan, food-security, postwar-agriculture, farmland-reduction]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "administrator-microsoft-word-fukuoka-textdoc.md"
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka's *The Natural Way of Farming* contains a scathing political and economic analysis of Japan's [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]] transformation. He documents how government policy systematically dismantled the farming class, transferring wealth and labor from rural communities to urban industrial centers while driving Japan's food self-sufficiency below thirty percent.
+[[masanobu-fukuoka]]'s *The Natural Way of Farming* contains a scathing political and economic analysis of Japan's [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]] transformation. He documents how government policy systematically dismantled the farming class, transferring wealth and labor from rural communities to urban industrial centers while driving Japan's food self-sufficiency below thirty percent.
 
 This critique centers on the Basic Agriculture Law of 1961, which Fukuoka argues was not a foundation for farmers but an instrument of control that transferred power to the financial community.
 
@@ -37,7 +38,7 @@ With this wave of change from labor-intensive to capital-intensive farming came 
 
 Traditional farming with draft animals was abandoned and replaced with methods involving the heavy application of [[cervantes-chemical-fertilizers-guide]] and pesticides.
 
-The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, chemical fertilizers, and petroleum-based farming materials laid the foundation for development of the chemical industry.
+The rapid mechanization of agriculture lit the fires for the revival and precipitous growth of the machine industry, while the adoption of pesticides, [[cannabis-chemical-fertilizers]], and petroleum-based farming materials laid the foundation for development of the chemical industry.
 
 What began as a movement to assure adequate food supplies in times of acute shortage grew into a drive to increase food production, the momentum of which carried over into the industrial world.
 
@@ -73,7 +74,7 @@ While the one-acre farmer was doing all he could to work his way up to three or 
 
 People talk of cheap rice, but it has never been the farmer who sets the price of rice or other farm produce. Nor is it the farmer who determines [[fukuoka-textdoc-production-costs-not-coming-down]]. The price of rice nowadays is the price calculated to support the manufacturers of agricultural equipment; it is the price needed for the production of new farm implements; it is the price at which fuel can be bought.
 
-The retail price of farm produce is said to be too high in Japan, but this is because the costs of distribution are too high. Distribution costs in Japan are five times those in the United States and twice as high as in West Germany.
+The retail price of farm produce is said to be too high in Japan, but this is because the costs of distribution are too high. Distribution costs in Japan are five times those in the [[dmt-containing-plants-united-states-halpern]] and twice as high as in West Germany.
 
 One cannot help suspecting that the aim of Japan's food policy is to find the best way to line government coffers with gold. The federal assistance given per farmer is twice as high in the United States as in Japan, and three times as high in France. Japanese farmers are treated with indifference.
 
@@ -86,36 +87,3 @@ Because all of the farmer's work had been mechanized and systematized, the farmi
 The farmer may have thought at first that modern developments would make his job easier. Well, it freed him from the land and now he works harder than ever at other jobs, wearing away his body and mind. The chain saw was developed because someone decided that a tree had to be cut faster. Rather than making things easier for the farmer, the mechanized transplantation of rice has sent him running off to find other work.
 
 The disappearance of the sunken hearth from farming homes has extinguished the light of ancient farming village culture. Fireside discussions have vanished, and with them, the village philosophy.
-
-## The Illusion of Mechanization's Efficiency
-
-The claim that mechanization has increased the efficiency of work is, in Fukuoka's view, a dangerous illusion. Farmers must use the extra hours away from their fields to earn outside income to help pay for their equipment.
-
-All they have done is exchange their work in the fields for a job in some company; they have traded the joy of working outdoors in the open fields for dreary hours of labor shut up inside a factory.
-
-The farmer who is in love with money no longer has any time or affection for nature or his crops. All he has time for anymore is to blindly follow the figures spit out by distribution industry computers and the plans of agricultural administrators. He doesn't talk with the land or converse with the crops; he is interested only in money crops.
-
-## The Warning from American Agriculture
-
-In 1979, Fukuoka visited the United States and was astounded by what he saw. Because meat is the food staple in America, agriculture is dominated by [[fukuoka-textdoc-natural-livestock-farming-open-grazing]]. Grazing has destroyed the ecology of natural grasses, devastating the land.
-
-Land that has lost its fertility is barren of nature's strength. This accounts for the development of a modern agriculture totally reliant on petroleum energy. The low productivity of the land drives farmers to large-scale operations. Large operations require mechanization with machinery of increasing size. This big iron breaks down the structure of the soil, setting up a negative cycle.
-
-To get an idea of just how fragile commercial agriculture is, just consider that U.S. farmers working 500 to 700 acres have smaller net incomes than Japanese farmers on 3 to 5 acres.
-
-## Connection to Natural Farming Philosophy
-
-This political analysis underpins Fukuoka's broader argument that modern agricultural systems are fundamentally misguided. The food self-sufficiency crisis demonstrates the consequences of separating food production from natural principles.
-
-When agriculture becomes an industrial process driven by economic policy rather than ecological wisdom, both the land and the farming community are destroyed.
-
-Fukuoka's alternative vision of quarter-acre self-sufficient farming directly counters the industrial model. By reducing farming to its most basic human scale, he proposes a system where food production serves the farmer and the local community rather than urban industrial interests.
-
-When the farmer forgets the land to which he owes his existence and becomes concerned only with his own self-interest, when the consumer is no longer able to distinguish between food as the staff of life and food as merely nutrition, when the administrator looks down his nose at farmers and the industrialist scoffs at nature, then the land will answer with its death. Nature is not so kind as to forewarn a humanity so foolish as this.
-
-## See Also
-
-- [[fukuoka-textdoc-farming-for-all-vision]]
-- [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
-- [[fukuoka-textdoc-production-costs-not-coming-down]]
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]

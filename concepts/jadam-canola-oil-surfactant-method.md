@@ -3,7 +3,7 @@ title: JADAM jadam canola oil surfactant method Surfactant Method
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, natural-farming]
+tags: [jadam, [[natural-farming]]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
@@ -11,11 +11,11 @@ sources:
 
 ## Overview
 
-JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in JADAM pesticide system, responsible for coating, wetting, and delivering pesticide into target pests. JWA costs less than 50 cents per liter to produce.
+JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA) is a natural surfactant made from canola oil and potassium hydroxide (caustic potash). It is the most critical ingredient in [[jadam-pesticide-dosage-guide]] system, responsible for coating, wetting, and delivering pesticide into target pests. JWA costs less than 50 cents per liter to produce.
 
 ## Why Canola Oil
 
-JADAM primarily uses canola oil instead of soybean oil because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
+JADAM primarily uses canola oil instead of [[soybean-oil-wastewater-fungi]] because it produces better wetting power. Canola oil creates a more effective surfactant that spreads more evenly on plant surfaces.
 
 ### GMO Concern
 
@@ -41,7 +41,7 @@ This is too complicated and difficult for farmers.
 
 ## JADAM's No-Heat Breakthrough
 
-Youngsang Cho experimented extensively to find a radically easier method:
+[[youngsang-cho]] experimented extensively to find a radically easier method:
 - Goal: no heating, only 10 minutes of mixing, 3 days of sitting
 - Completely ignored temperature requirements
 - Continued experimenting with different proportions of water, caustic potash, and oil
@@ -88,31 +88,3 @@ The key insight: "Maybe it was somebody's intention to make [soap-making] diffic
 - Tightly sealed, no expiration date
 - Quality actually improves with age
 - Store above freezing; can thaw and reuse if frozen
-- Becomes darker with age
-- If white film forms on top, remove and use liquid below
-- Can also be used as detergent, dishwasher, and soap
-
-## Usage Rates
-
-For 500 L (132 gal) of pesticide:
-- Mild [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]: 3 L (0.8 gal) JWA
-- Growing pest problem: 5 L (1.3 gal) JWA
-- Serious pest problem: up to 15 L (4 gal) JWA
-- Winter: 10-20 L (2.6-5.3 gal) for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-- Fog machines: 500 cc per 17 L water
-- Always use minimum 1.5 L (0.4 gal) for even dispersion
-
-Continuous use above 10 L may suppress growth in some crops and damage white powder coating of certain fruits. JWA alone controls aphids, mites, and [[cervantes-powdery-mildew-prevention-treatment]] in early stages.
-
-## Roughly 30 applications per 100 L batch. Total oil used per 500 L spray: only 0.54 L (approximately 926x dilution of the oil itself).
-
-## Safety
-
-Strong heat is produced. Work in well-ventilated area. Wear full protective gear. Keep 1-2 L water handy for emergency cooling. The reaction is exothermic and vigorous.
-
-## See Also
-
-- [[jadam-water-spraying-guidelines]] -- water quality and spraying rules
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-pesticide-for-aphids-and-mites]]
-- [[jadam-water-quality-pesticide]]

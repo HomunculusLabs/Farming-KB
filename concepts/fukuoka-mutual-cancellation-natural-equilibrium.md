@@ -88,29 +88,3 @@ This principle of mutual cancellation provides strong philosophical support for 
 [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is the sum of knowledge extracted from nature by the human intellect—finite, closely circumscribed, and inherently incomplete. Natural farming, by contrast, relies on the vast, boundless, perfect knowledge and power of nature itself. No matter how desperately he struggles, man will never be more than a small, imperfect part of nature's totality. As imperfection can never be the equal of perfection, so scientific farming must always yield a step to natural farming.
 
 The Mahayana farmer recognizes that the search for agricultural improvement through science is like a man digging a pit: the more he digs, the deeper the pit, and the more darkness surrounds him. The Hinayana farmer, seeking to approach nature by casting off human knowledge, begins climbing out of the pit. Only the Mahayana farmer, who never entered the pit at all, stands in the full light of day.
-
-## The Sword-Fighting Analogy
-
-Fukuoka borrowed an analogy from Japanese martial arts to illustrate the three ways of farming. [[fukuoka-mahayana-and-hinayana-natural-farming]] farming may be likened to the one-sword school of swordfighting, directed toward the center. Scientific farming is like the two-sword school, directed outward. The two can be compared because they operate in the same realm. But Mahayana natural farming is the unmoving no-sword school—comparison with which is impossible.
-
-Scientific farming uses all possible means at its disposal, increasing the number of swords (techniques, inputs, interventions). Natural farming tries to obtain the best possible results while rendering all means useless, in effect reducing the number of its swords (Hinayana) or doing entirely without (Mahayana). The view is based on the philosophical conviction that if man makes a genuine effort to approach nature, then even should he abandon all deeds and actions, nature will take each of these over and perform them for him.
-
-The mutual cancellation principle is the practical manifestation of this analogy: the farmer who wields two swords finds them crossing and blocking each other, while the farmer with no sword moves freely.
-
-## Relevance Beyond Agriculture
-
-The principle of mutual cancellation extends well beyond farming. In medicine, treating symptoms with pharmaceuticals often creates side effects that require additional pharmaceuticals, each with its own side effects—a cascade of interventions that leaves the patient worse off than before. In economics, interventions to correct market distortions often create new distortions. In environmental management, technological fixes for pollution often create new forms of pollution. Fukuoka's insight about agriculture is, at its root, an insight about the limits of the analytical, interventionist approach to any complex natural system.
-
-The modern era, with its faith in technology and its addiction to data, has only deepened the problem. More data leads to more interventions, which lead to more side effects, which lead to calls for more data. The cycle is self-reinforcing and self-defeating. Breaking free of it requires not more knowledge but a different kind of understanding—one that sees wholes rather than parts, and trusts nature's wisdom over human cleverness.
-
-## See Also
-
-- [[fukuoka-paradoxes-scientific-farming]] — Specific paradoxes Fukuoka identified
-- [[fukuoka-theory-principle-of-non-causality]] — The principle of non-causality in detail
-- [[fukuoka-textdoc-increased-production-not-increased-yields]] — Production vs. yield distinction
-- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]] — Another example of intervention creating problems
-- fukuoka textdoc hinayana vs mahayana natural farming — The three paths of farming
-- fukuoka textdoc sword fighting analogy — The martial arts analogy for farming approaches
-- fukuoka textdoc scientific knowledge ignorance — How scientific knowledge is a form of ignorance
-- fukuoka textdoc mu nature nothingness — The philosophical foundation of Mahayana farming
-- fukuoka textdoc illusion of knowledge — Fukuoka's epistemological critique

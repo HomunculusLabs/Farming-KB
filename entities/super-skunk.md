@@ -87,33 +87,3 @@ The high is predominantly physical, starting with a pleasant cerebral uplift tha
 Beginner consumers should approach with caution due to the combination of high THC and sedative terpene profile.
 
 ## Growing Characteristics
-
-- **Flowering time:** 7–8 weeks (45–56 days) indoors
-- **Yield:** 400–500 g/m² indoor; 500–700 g/plant outdoor
-- **Height:** 80–130 cm indoors
-- **Difficulty:** Easy to moderate
-- **Climate:** Temperate to warm; performs well in Mediterranean climates
-- **Resistance:** Good mold and pest resistance; moderate humidity tolerance
-- **Nutrient needs:** Moderate to heavy feeder during flowering
-- **Training:** Responds well to LST, SCROG, and topping for increased yield
-
-Super Skunk is considered one of the easiest high-quality strains to grow, making it popular with both beginners and experienced cultivators.
-
-Its Skunk #1 heritage provides robust growth and disease resistance, while the Afghani genetics ensure compact structure suitable for [[cannabis-sativa-indoor-cultivation-techniques]].
-
-## Genetic Relatives and Crosses
-
-- **Skunk #1:** The sativa-leaning parent that provided vigor, yield, and the iconic skunky aroma
-- **Afghani:** The pure indica parent contributing resin density, bud structure, and body stone
-- **Notable crosses:** Super Skunk has been used as a parent in countless hybrids including Super Silver Haze, Cheese (Exodus Cut), and many modern indica-dominant varieties
-
-The Exodus Cheese clone, one of the most famous cannabis cuts in history, is believed to descend directly from Super Skunk lineage, carrying its distinctive skunky foundation into the UK Cheese genetic line.
-
-## See Also
-
-- [[rainbow-chips]]
-
-- [[afghan-kush]] — Landrace indica genetics related to the Afghani parent
-- [[super-silver-haze]] — Notable descendant combining Super Skunk with Haze and NL
-- [[chemdawg]] — Chemdog lineage that influenced many modern hybrids
-- [[beta-caryophyllene]] — Dietary cannabinoid found in Super Skunk's profile

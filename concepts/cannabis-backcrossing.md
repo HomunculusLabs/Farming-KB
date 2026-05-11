@@ -3,6 +3,7 @@ title: Cannabis Backcrossing
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,38 +88,3 @@ recurrent parent:
 1. Cross Recurrent Parent x Donor Parent to produce F1.
 2. Create an F2 population via full sib-mating to expose homozygous
    recessive individuals.
-3. Select F2 plants showing the recessive trait and backcross to the
-   recurrent parent to produce BC1.
-4. Create a BC1F2 population via sib-mating to again expose
-   homozygous recessive individuals.
-5. Select BC1F2 recessive plants and backcross to the recurrent parent
-   to produce BC2.
-6. Create BC2F2 via sib-mating, select recessive individuals, and
-   backcross to produce BC3.
-7. Grow out BC3, select and sib-mate ideal candidates to create an F2
-   population where recessive-condition plants are selected as the
-   basis for a new inbred or open-pollinated seed line.
-
-The entire resulting BC3F3 generation is homozygous for the recessive
-trait and breeds true for it.
-
-## Limitations of Backcrossing
-
-Despite its popularity, backcrossing has specific drawbacks:
-
-- When the recurrent parent is not truly true-breeding, backcross
-  generations segregate and many desirable traits fail to reproduce
-  reliably.
-- The "improved" variety differs only slightly from the recurrent
-  parent (typically just one trait).
-- If multiple traits are to be introgressed, other techniques such as
-  inbreeding or [[cervantes-recurrent-selection-pedigree-breeding]] may be more rewarding. Multiple
-  traits should be tracked in separate backcross programs and combined
-  in a final set of crosses.
-
-## See Also
-
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-genetic-stability]]
-- [[cannabis-seed-banks-and-genetics]]
-- [[solomon-hybrid-vs-open-pollinated]]

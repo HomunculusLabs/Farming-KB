@@ -88,12 +88,3 @@ Most clinical studies report dose-dependent adverse effects including reduced ba
 
 - [[cannabis-for-neurological-conditions]]
 - [[cannabis-endocannabinoid-system]]
-- [[blesching-cannabis-health-index-autoimmune-conditions]]
-
-## Key Consideration
-
-Many MS patients have turned to cannabinoid therapy due to limited success with conventional pharmaceutical approaches. Cannabis may not only alleviate symptoms but also slow disease progression through anti-inflammatory and neuroprotective mechanisms.
-- [[cannabis-and-multiple-sclerosis]]
-
-- [[dom-compound-profile]]
-- [[blesching-cannabis-glaucoma]]

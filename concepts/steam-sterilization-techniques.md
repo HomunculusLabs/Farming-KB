@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-atmospheric-steam-sterilization]] Techniques
+title: Steam Sterilization Techniques
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
@@ -87,54 +87,3 @@ bacteria can be detected by loosening the jar lid and checking for the
 smell. If contamination appears at this stage, the sterilization
 technique needs to be examined — most likely the sterilization time was
 insufficient.
-
-If the control jars remain clean and unchanged after several days, the
-sterilization is confirmed effective and the jars are ready for spore
-syringe inoculation. If contamination occurs after inoculation but the
-controls were clean, the problem lies with the syringe or with breaching
-the [[pf-tek-dry-vermiculite-contaminant-barrier]] layer during the inoculation process.
-
-## Signs of Drying Versus Contamination
-
-A critical diagnostic skill in [[pf-tek-cultivation-method]] is distinguishing
-substrate drying from contamination. Overheating during sterilization
-dries the substrate, which manifests as initial [[growing-gourmet-spore-germination-strain-isolation]] that
-then halts at a certain point depending on how dry the substrate has
-become. The fungus will spread but then stop growing with no visible
-contamination.
-
-Generally, any halted growth without contamination is a sign of dried
-substrate. The remedy is straightforward: increase the water content of
-the [[pf-substrate-formula]] being used. By contrast, contamination presents as
-colored growths (pastels to black) or foul odors, and indicates
-sterilization failure rather than moisture problems.
-
-## The Alcohol Flaming Technique for Needle Sterilization
-
-During inoculation, if the syringe needle is touched or otherwise
-potentially contaminated, it must be resterilized by flaming. The PF TEK
-specifies using an alcohol flame rather than a butane cigarette lighter
-because butane leaves an undesirable soot residue on the needle.
-
-The alcohol flaming technique uses a simple setup: a tequila shotglass
-placed upside down to create a small reservoir. Using an eyedropper, a
-few drops of denatured [[permaculture-on-farm-alcohol-fuel-production]] (available at hardware stores) are
-placed onto the hollow bottom of the inverted glass and touched with a
-match or lighter. This produces a short, clean blue flame.
-
-The needle is heated in this blue flame for a few seconds to resterilize
-it. There may be a few "pops" of boiling water spurting from the needle
-during flaming, but the spores within the syringe body remain safe. After
-use, the needle guard is replaced and the syringe stored in a dark, cool
-place. The needle must be resterilized immediately before any subsequent
-use.
-
-This technique can also be used to flame-sterilize other small stainless
-steel tools during sterile work. The combination of denatured alcohol,
-eyedropper, and tequila shotglass forms a portable sterile field that
-requires no specialized equipment beyond what is already in the PF TEK
-[[oss-oeric-equipment-and-materials-list]].
-
-## See Also
-
-- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]

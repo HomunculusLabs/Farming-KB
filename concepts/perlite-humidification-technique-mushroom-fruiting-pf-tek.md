@@ -1,5 +1,5 @@
 ---
-title: Perlite Humidification Technique for [[aquarium-humidity-chamber-mushroom-fruiting]]
+title: Perlite Humidification Technique Mushroom Fruiting Pf Tek
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -88,43 +88,3 @@ Compared to electric humidification systems, perlite offers significant cost adv
 |-----------|---------------|------------------------------|
 | Humidifier unit | None ($0) | $15-60 |
 | Perlite/medium | $3-8 per bag | $5-15 replacement wicks |
-| Power consumption | Zero | 5-25W continuous |
-| Maintenance | Replace every 2-3 grows | Weekly cleaning |
-| Failure mode | Gradual drying (visible) | Mechanical/electrical failure |
-| Noise | Silent | Audible hum/bubbling |
-| Lifespan | Indefinite (with replacement) | 6-24 months |
-
-The zero power consumption is particularly relevant for growers concerned about energy costs or those operating multiple fruiting chambers simultaneously. A grower running four fruiting chambers with electric humidifiers would consume 20-100W continuously — approximately 0.5-2.4 kWh/day — while four perlite-based chambers consume nothing.
-
-### Water Quality Considerations
-
-The water used to saturate perlite can affect both humidification performance and long-term hygiene:
-
-- **Distilled water**: Ideal. Produces no mineral buildup and extends perlite's effective lifespan between replacements. The lack of dissolved minerals also means the evaporated humidity is pure water vapor with no mineral content
-- **Filtered water**: Good alternative. Removes chlorine and most minerals that could accumulate
-- **Tap water**: Acceptable for short-term use but causes gradual mineral scaling on perlite surfaces. In areas with hard water (high calcium/magnesium content), visible white mineral deposits will form within 2-3 growing cycles, reducing the effective evaporative surface area
-- **Boiled water**: Not recommended. While boiling kills pathogens, it concentrates dissolved minerals through evaporation, potentially worsening scaling issues
-
-### Advanced Technique: Perlite Layer with Hydrogen Peroxide
-
-Some cultivators add 3% hydrogen peroxide to the perlite saturation water at a ratio of approximately 1:10 (peroxide to water). This provides additional protection against bacterial contamination in the humidification layer without harming mycelium or developing fruiting bodies. The hydrogen peroxide breaks down into water and oxygen within hours, leaving no residue.
-
-This technique is most useful in humid environments where the fruiting chamber is prone to bacterial slime or in cases where tap water is the only available water source. It should not be used with every watering, as the oxidation byproducts can accumulate over time.
-
-### Troubleshooting Humidity Problems
-
-When perlite humidification fails to maintain adequate humidity (below 85% relative humidity for most [[psilocybe-cubensis]] strains), the cause is typically one of the following:
-
-1. **Perlite layer too thin**: The most common cause. Increase depth to at least 3 inches
-2. **Excessive air exchange**: Too many or too large holes in the fruiting chamber can overwhelm the perlite's evaporation capacity. Reduce hole size or number, or increase perlite depth
-3. **Perlite contaminated with soap or oil**: Perlite that has contacted detergents becomes hydrophobic and will not wet properly. Replace with fresh perlite
-4. **Environmental conditions**: In very dry climates or heated rooms, even perlite may struggle. Adding a layer of wetted vermiculite beneath the perlite can provide additional water reserves
-5. **Perlite exhausted**: After 3-4 growing cycles, perlite may become compacted and mineral-encrusted. Replacing it restores full performance
-
-## See Also
-
-- [[pf-tek-guide]]
-- pf terrarirum humidification
-- fruiting chamber humidity management
-- shotgun fruiting chamber design
-- perlite vs vermiculite mushroom cultivation

@@ -19,10 +19,10 @@ type: concept
 
 # Ingoldian Aquatic Fungi
 
-Ingoldian fungi (also called Ingoldian hyphomycetes) are a group of aquatic
+Ingoldian fungi (also called [[ingoldian-hyphomycetes-spore-dispersal-in-water]]) are a group of aquatic
 and semi-aquatic microfungi that produce conidia of extraordinary geometric
 complexity, including star-shaped (tetraradiate), crescent-shaped, sigmoid,
-and helically coiled spores. Named for their discoverer, Cecil Terence Ingold,
+and helically coiled spores. Named for their discoverer, Cecil [[terence-ingold-mycologist]],
 who first described them in foam collected from a brook near his home in
 Leicester in 1938, more than 300 species have since been identified worldwide,
 generating over 1,000 scientific publications.
@@ -71,12 +71,12 @@ a second point to prevent further disturbance.
 Some Ingoldian species combine these features, producing spores that resemble
 balloon animals created by party entertainers: multiple arms, curves, and
 helices integrated into single structures. This morphological diversity
-reflects the wide range of aquatic habitats colonized by the group.
+reflects the wide range of [[biodiversity-fungi-freshwater-aquatic-habitats]] colonized by the group.
 
 ## Hydrodynamic Function
 
 ### Why Not Slower Sedimentation?
-The unusual shapes of Ingoldian spores were initially thought to slow their
+The unusual shapes of [[aquatic-fungi-and-ingoldian-spores]] were initially thought to slow their
 descent through the water column, increasing time available for encountering a
 submerged leaf before settling into bottom sediment. However, meticulous
 experiments demonstrated that spores with microscopic arms fall through water
@@ -88,60 +88,3 @@ slowed sedimentation, elaborate spore shapes would be expected in terrestrial
 fungi too, where faster descent in air places an even greater premium on drag.
 But [[query-how-to-store-mushroom-spores-long-term]] and airborne conidia are always compact, confirming that
 any appendage on a microscopic spore adds unwelcome mass and speeds descent.
-
-### Search Theory
-The most compelling explanation comes from search theory, a branch of
-mathematics developed originally for antisubmarine warfare. Analysis shows
-that the probability of hitting a target increases in proportion to the length
-of the search vehicle. A star-shaped spore has a much higher probability of
-encountering a submerged leaf than a compact spore of equal mass. Because the
-appendages are no thicker than hyphae, these decorative structures span an
-enormous area (for a microorganism) with minimal cytoplasmic investment.
-
-### Three-Point Landing
-When the tip of one arm strikes a solid surface, water movement forces the
-spore to pivot around the attachment point until additional arms contact the
-substrate, completing a stable three-point landing. Upon contact, each arm
-tip swells and secretes adhesive that cements the tripod to the leaf. The
-swellings then produce infection hyphae that penetrate the leaf, so a single
-spore attacks its food from the corners of a triangle.
-
-## Ecological Role in Stream Ecosystems
-
-### Leaf Decomposition
-Ingoldian fungi are instrumental in leaf decomposition in freshwater streams.
-Spores colonize submerged autumn leaves, spawn mycelia that soften and
-macerate plant tissues by secreting cellulose-degrading enzymes, and raise
-the protein content of the debris as dead plant material is transformed into
-living fungal tissue. This microbial processing is a critical food source for
-tiny crustaceans and other stream invertebrates.
-
-### Seasonal Abundance
-Ingoldian spores reach concentrations of 20,000 per liter of water in late
-fall and early winter, peaking during the season of maximum leaf input. Someone
-splashing around in a creek is exposed to millions of these spores, though
-fortunately no human infections by Ingoldians have been reported.
-
-### Anamorph-Telomorph Connections
-The mycelia that produce tetraradiate and sigmoid spores are the asexual
-phases (anamorphs) of fungi that produce sexual spores in other habitats. The
-enormous star-spores of Actinospora are products of an ascomycete cup fungus.
-Other Ingoldians are asexual manifestations of basidiomycetes and various
-ascomycetes. Some zygomycetes that parasitize aquatic insects also produce
-tetraradiate spores in creeks.
-
-The independent evolution of tetraradiate spore morphology by unrelated fungi
-represents a striking case of evolutionary convergence, analogous to the
-independent derivation of invasive hyphae by stramenopile oomycetes and true
-fungi.
-
-## Terrestrial Phases and Aero-Aquatic Relatives
-
-Spore formation is not restricted to submerged locations. Ingoldians also grow
-on plants that overhang creeks, entering the water during rainstorms. This
-mermaid-like [[bloomfield-fungal-life-cycle-spiral-versus-circle]] explains their appearance on riparian vegetation.
-## See Also
-
-- [[fungal-spore-dispersal]]
-- [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]]

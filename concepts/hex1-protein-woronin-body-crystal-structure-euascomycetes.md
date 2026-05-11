@@ -1,5 +1,5 @@
 ---
-title: HEX-1 Protein and Woronin Body [[crystal-structure-and-crystal-defects]] in Euascomycetes
+title: Hex1 Protein Woronin Body Crystal Structure Euascomycetes
 source: Fungi in the Environment (Gadd, Watkinson & Dyer, 2007)
 source_path: /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 tags: [fungi, woronin-bodies, hex1-protein, septal-pore, euascomycetes, fungal-cell-biology, peroxisome, crystallization, ascomycota]
@@ -39,7 +39,7 @@ the Woronin bodies first observed by Woronin in 1886.
 Electron microscopy reveals the Woronin body as:
 
 - Generally **oval** in shape, though **hexagonal forms** occur in some
-  species (notably *[[neurospora-crassa]] sa]]* and *[[fusarium-oxysporum]]*)
+  species (notably *[[neurospora-crassa]]* and *[[fusarium-oxysporum]]*)
 - Centered on an **electron-dense protein matrix** circumscribed by a
   single unit membrane
 - **Diameter**: 100 nm to >1 μm, generally larger than the septal pore
@@ -87,64 +87,3 @@ Euascomycetes, including *[[aspergillus-fumigatus]]* (invasive aspergillosis),
 *Magnaporthe grisea* (rice blast), *[[botrytis-cinerea]]* (gray mold), and
 model organisms *A. nidulans* and *A. oryzae*. This pathogen prevalence
 suggests Woronin bodies may be attractive targets for novel fungicides.
-
-## Functional Evidence from Mutants
-
-**hex-1 knockout mutants** have been generated in multiple Euascomycetes:
-
-- *Neurospora crassa*: Mutants are devoid of visible Woronin bodies
-  and **bleed protoplasm through septal pores** following cellular
-  damage, directly confirming the sealing function
-- *Magnaporthe grisea*: Mutants are defective in septal-pore sealing,
-  **appressorium morphogenesis**, and invasive growth within plant
-  hosts. Mutant hyphae die in response to nitrogen starvation.
-  Nitrogen starvation and growth in planta regulate production of
-  HEX-1 splice variants, suggesting the Woronin body system is
-  dynamically regulated by nutritional status
-- *Aspergillus oryzae* and *A. nidulans*: All confirmed defective in
-  septal-pore sealing, establishing functional conservation
-
-## Crystallinity and Structural Biology
-
-The spontaneous in vitro crystallization of HEX-1 suggested that solving
-the crystal structure would provide an accurate model of the native
-Woronin body core. The crystal structure revealed:
-
-- HEX-1 self-assembles into an ordered lattice through specific
-  protein-protein interfaces
-- The crystal packing explains both the oval and hexagonal morphologies
-  observed in different species — they represent different orientations
-  or growth conditions of the same underlying crystal structure
-- The dense crystalline core provides the mechanical rigidity needed to
-  withstand turgor pressure differences across the septum during the
-  plugging event
-
-## Septal Pore Sealing Mechanism
-
-The sequence of events during damage-induced sealing:
-
-1. Hyphal damage creates a pressure differential across the septum
-2. Woronin bodies, held near the pore by tethering filaments, are drawn
-   into the pore by cytoplasmic flow
-3. The crystalline HEX-1 core physically occludes the pore opening
-4. Cell wall material is deposited over the complex, creating a
-   permanent seal that restores compartment integrity
-
-## Ecological and Evolutionary Significance
-
-Woronin bodies represent one of several septal-pore-associated organelles
-that evolved independently in different fungal lineages:
-
-- **Euascomycetes**: Woronin bodies (peroxisome-derived, HEX-1 core)
-- **Hymenomycetes** (Basidiomycota): Septal pore caps (ER-derived)
-- **Urediniomycetes**: Woronin-body-like organelles (striated cores)
-
-The fungi with the most complex septal-pore organelles also produce the
-largest multicellular fruiting bodies, suggesting these organelles are
-essential adaptations supporting multicellular organization in fungi.
-
-## See Also
-
-- [[fungal-woronin-bodies-and-septal-pore-organization]]
-- [[woronin-bodies-septal-pore-plugging-fungal-hypha]]
-- [[fungal-appressorium-and-infection-structures]]

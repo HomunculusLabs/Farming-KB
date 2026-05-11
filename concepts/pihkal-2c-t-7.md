@@ -54,7 +54,7 @@ ranges from 8 to 15 hours.
 Insufflation at 5 to 10 mg is particularly dangerous. Several documented
 fatalities involved insufflation, which produces rapid onset and intensely
 high peak plasma concentrations. Shulgin strongly cautioned against this
-route of administration.
+[[mushroom-taste-route-of-administration-and-consumption-barriers]].
 
 ## Effects Profile
 
@@ -88,49 +88,3 @@ within the 2C-T series regarding chain length effects.
 ## Pharmacology
 
 2C-T-7 acts as a potent agonist at serotonin 5-HT2A receptors with
-significant 5-HT2C affinity. The propylthio group's increased lipophilicity
-enhances membrane penetration and receptor interaction. The compound may
-also have alpha-adrenergic receptor activity, contributing to pronounced
-cardiovascular effects. The interaction between serotonergic and adrenergic
-systems may underlie dangerous synergistic effects when combined with MAOIs.
-
-Metabolism occurs through hepatic oxidative deamination and S-oxidation of
-the propylthio group. Production of potentially active metabolites through
-S-oxidation has been proposed as a factor in some adverse reactions.
-
-## Safety and Harm Reduction
-
-2C-T-7 carries more significant safety concerns than most other 2C
-compounds. Multiple fatalities have been associated with its use, several
-involving insufflation or combination with MAOIs. The 2C-T-7 plus MAOI
-combination has been implicated in deaths and is considered extremely
-dangerous.
-
-The most critical harm reduction principle: never insufflate 2C-T-7. Oral
-administration with accurate dosing is significantly safer. Keep doses at or
-below 25 mg. Never combine with MAOIs, SSRIs, or other serotonergic
-substances. Individuals with cardiovascular issues should avoid entirely.
-
-## Comparison to Related Compounds
-
-Compared to 2C-T-2, 2C-T-7 is more potent, longer-lasting, and carries
-greater safety risks. 2C-T-2 is more manageable with lighter body load.
-Against 2C-B, 2C-T-7 is dramatically more intense, longer-acting, and more
-physically demanding. Within the 2C-T series, 2C-T-7 represents a turning
-point where compounds become significantly more dangerous; 2C-T and 2C-T-2
-are generally safer alternatives.
-
-## Historical and Cultural Significance
-
-2C-T-7 emerged in the late 1990s and early 2000s research chemical market.
-Its reputation was damaged by high-profile fatalities reported in media and
-medical literature. The compound was emergency-scheduled by the DEA in 2002,
-among the first 2C compounds specifically targeted. It is Schedule I in the
-US and controlled in most countries. The safety incidents have made 2C-T-7
-a cautionary example in harm reduction discussions about research chemicals.
-
-## See Also
-
-- [[pihkal-2c-b]]
-- [[pihkal-2c-i]]
-- [[pihkal-cautionary-note-and-legal-context]]

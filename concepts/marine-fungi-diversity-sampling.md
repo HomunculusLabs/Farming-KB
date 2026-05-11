@@ -1,17 +1,18 @@
 ---
-title: Marine Fungi: [[freshwater-fungi-diversity-and-sampling]] Methods
+title: Marine Fungi Diversity Sampling
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, marine-biology, ecology, sampling]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 # Marine Fungi: Diversity and Sampling Methods
 
 Marine fungi inhabit a wide range of coastal and estuarine environments, from
 sandy beaches to coral reefs, mangrove forests, and salt marshes. Their
-diversity and ecological roles are increasingly recognized as important
-components of coastal ecosystems, though they remain among the least studied
+diversity and [[ecological-roles-fungi-ecosystems]] are increasingly recognized as important
+components of [[dighton-fungi-mangrove-coastal-ecosystems]], though they remain among the least studied
 groups of marine microorganisms.
 
 ## Major Groups and Habitats
@@ -61,7 +62,7 @@ revolutionized marine mycology by enabling detection and identification of fungi
 directly from environmental samples without the need for cultivation.
 
 DNA barcoding using the internal transcribed spacer (ITS) region has become the
-standard for fungal identification in marine environments. Metabarcoding studies
+standard for [[dna-barcoding-fungal-identification]] in marine environments. Metabarcoding studies
 of environmental DNA from seawater, sediment, and substrate surfaces have
 revealed a far greater diversity of marine fungi than culture-based methods ever
 suggested, including many novel lineages without known cultured representatives.
@@ -74,65 +75,15 @@ understanding of fungal diversity in the oceans.
 
 ## Biogeographic Patterns
 
-Marine fungal diversity follows distinct biogeographic patterns that reflect
+[[marine-fungal-diversity-ecology]] follows distinct biogeographic patterns that reflect
 both historical and contemporary environmental processes. Tropical and subtropical
-regions, particularly mangrove ecosystems and coastal restoration, harbor the highest known species
+regions, particularly [[mangrove-ecosystems-and-coastal-restoration]] coastal restoration, harbor the highest known species
 richness of marine fungi. The Indo-Pacific region is recognized as a biodiversity
 hotspot, with many marine fungal species showing restricted geographic ranges.
 
 Temperature, salinity, and substrate availability are the primary environmental
-determinants of marine fungal community composition. Warm-water species
+determinants of marine fungal [[core-endorhiza-bacterial-community-composition-cannabis]]. Warm-water species
 predominate in tropical mangroves and coral reefs, while cold-adapted species
 colonize higher-latitude shorelines. The transition between marine and
 terrestrial fungal communities along estuarine gradients creates unique
 ecotonal communities with mixed marine and terrestrial species.
-
-Latitudinal diversity gradients in marine fungi are less well documented than in
-terrestrial systems, partly because marine mycological surveys have been
-geographically biased toward well-studied temperate coastlines. Targeted surveys
-of under-sampled tropical and polar regions are likely to reveal significant
-new diversity and reshape our understanding of global fungal biogeography.
-
-## Ecological Roles
-
-Marine fungi play important but often overlooked roles in coastal ecosystem
-functioning. As decomposers of woody debris, algae, and plant detritus, they
-are essential for [[nutrient-cycling-in-soil]] mangrove forests, salt marshes, and
-beach ecosystems. Their enzymatic activities release organic carbon and
-nitrogen back into coastal food webs, supporting secondary production.
-
-Marine fungi form symbiotic associations with a variety of marine organisms.
-Endophytic relationships with seagrasses and marine algae can enhance host
-[[fungal-lichen-stress-tolerance-and-poikilohydry]] disease resistance, analogous to terrestrial endophyte
-functions. Parasitic marine fungi attack living marine organisms including
-algae, sponges, corals, and other invertebrates, influencing population
-dynamics and community structure.
-
-The bioremediation potential of marine fungi is an emerging research area.
-Marine-derived fungal species have shown the ability to degrade petroleum
-hydrocarbons, plastics, and other anthropogenic pollutants in coastal
-environments, suggesting potential applications in managing marine pollution
-and oil spill remediation.
-
-## Conservation and Taxonomic Challenges
-
-Marine fungi face [[fungal-conservation-challenges]] associated with habitat destruction,
-particularly the loss of mangrove forests and coral reefs that support diverse
-fungal communities. Coastal development, pollution, and climate change threaten
-both the fungi and their substrates, potentially leading to species losses
-before they are even documented.
-
-Taxonomic knowledge of marine fungi remains incomplete, with many species known
-only from single collections or preliminary descriptions. The lack of
-comprehensive taxonomic reference databases hampers both biodiversity
-assessment and ecological studies. Integrating morphological, molecular, and
-phylogenetic approaches is essential for building a robust classification
-system that reflects evolutionary relationships among marine fungal lineages.
-
-## Related Concepts
-
-- [[fungicolous-fungi-parasites-associates]]
-- insect-associated-fungi-sampling-diversity
-- [[fungal-nutrient-cycling-forests]]
-- [[fungal-biodiversity]]
-- [[fungal-community-assembly]]

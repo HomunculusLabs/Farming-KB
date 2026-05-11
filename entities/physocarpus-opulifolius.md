@@ -87,35 +87,3 @@ Ninebark has shown promise in phytoremediation applications due to its ability t
 Deer browsing is generally light on ninebark compared to many other landscape shrubs. This relative resistance to herbivory makes it particularly valuable in suburban and rural plantings where deer pressure is a significant concern.
 
 ## Landscape Uses
-
-Ninebark is valued as a specimen shrub, mass planting, hedge, and mixed border component across a wide climate range. Its multi-season interest—spring flowers, colorful summer foliage, persistent fruit, and exfoliating winter bark—makes it exceptionally versatile.
-
-Darker-foliaged cultivars like 'Diabolo' and 'Summer Wine' provide strong contrast in mixed shrub borders when paired with gold or chartreuse-leaved plants. They are also effective as informal hedges and screening plantings.
-
-Compact cultivars such as 'Little Devil' and 'Tiny Wine' have expanded ninebark's utility into foundation plantings, small gardens, and container combinations. Their smaller mature size reduces the need for frequent pruning.
-
-The 'Center Glow' cultivar offers a unique two-tone foliage effect, with new leaves emerging bright gold before maturing to a deep burgundy center. This bicolored appearance has made it one of the most sought-after selections in recent nursery catalogs.
-
-Ninebark performs well in challenging urban sites, including parking lot medians, street tree pits, and commercial landscapes with compacted soils. Its tolerance of road salt and air pollution makes it suitable for northern urban environments.
-
-The species is increasingly used in ecological landscaping, rain gardens, and sustainable landscape designs. Its combination of ornamental quality, wildlife value, and low maintenance requirements aligns well with current landscaping trends.
-
-Ninebark's rapid growth rate allows it to fill landscape roles quickly, often reaching mature size within three to five years. This fast establishment makes it cost-effective for large-scale commercial and municipal plantings.
-
-## See Also
-
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[viburnum-opulus]]
-- [[prunus-spinosa]]
-- rosa-canina
-- [[corylus-cornuta]]
-- [[ligustrum-vulgare]]
-- agrimonia-eupatoria
-- [[filipendula-ulmaria]]
-- crataegus-monogyna
-- [[crataegus-laevigata]]
-- [[viburnum-dentatum]]
-- [[fraxinus-pennsylvanica]]
-- [[salix-alba]]
-- [[betula-pendula]]

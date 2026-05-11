@@ -88,23 +88,3 @@ Modern analysis showed that normal doses of P. mexicana contain
 approximately 10 mg of psilocybin, with effects lasting 4-6 hours.
 
 ## New Guinea Aboriginal Use
-
-The "mushroom madness" of the Kuma people of New Guinea was documented
-by Heim and Wasson (1965). They used several species of Boletus,
-Heimiella, and Russula in ritual contexts. However, Ott (1993) noted
-that scientific evidence for the neurotropic properties of many New
-Guinea species is lacking.
-
-## Asian Traditions
-
-### Soma Hypothesis
-
-Wasson (1968) proposed that guzman-magic-mushrooms-copelandia-panaeolus
-- guzman-magic-mushrooms-mexican-diversity
-- guzman-magic-mushrooms-psilocybe-sections
-## See Also
-- [[soma-hypothesis]]
-- [[psilocybe-mexicana]]
-- [[neurotropic-fungi]]
-- [[mazatec-people]]
-- [[dictyophora-indusiata]]

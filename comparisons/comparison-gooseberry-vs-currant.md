@@ -13,6 +13,7 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Bowling, J. C. "Growing Gooseberries and Currants." Brooklyn Botanic Garden, 2018.
   - Daley, B. "Currants and Gooseberries." University of Minnesota Extension, 2021.
   - CCOF. "Organic Berry comparison-biochar-production-guide-vs-biochar-soil-amendment." Cornell University, 2022.

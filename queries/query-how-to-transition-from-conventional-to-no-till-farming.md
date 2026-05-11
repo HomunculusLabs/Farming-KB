@@ -32,7 +32,7 @@ The key metric to watch is aggregate stability, not just organic matter percenta
 Weed management is the #1 reason farmers abandon no-till. Strategies that work:
 
 - **Dense crop canopies:** Plant populations at the upper end of recommended ranges. Narrow rows (15-inch corn, 7.5-inch soybeans) close canopy faster.
-- **Cover crop mulch:** A thick [[soil-food-web]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
+- **Cover crop mulch:** A thick [[soil-foodweb]] cycles nutrients downward. Banded starter fertilizer at planting (2 inches beside and below the seed) helps during early transition.
 - **Nitrogen:** Expect a temporary nitrogen immobilization in years 1–2 as soil microbes break down residue. Increase N rates by 20–30 lbs/acre above conventional recommendations during this period. Legume cover crops can offset this by year 3+.
 - **Compost and manure:** Surface-applied compost or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] feeds soil biology without needing incorporation. This is one of the fastest ways to jumpstart biological activity during transition.
 - **pH management:** No-till soils tend to acidify at the surface. Monitor pH in the top 3 inches separately and apply lime accordingly. Pelletized lime is easier to surface-apply effectively.

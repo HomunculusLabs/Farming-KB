@@ -88,28 +88,3 @@ including [[fungal-volatile-organic-compounds-communication]] compounds and odor
 
 Effective composting bioremediation requires regular monitoring of key
 process parameters. Temperature should be tracked at multiple depths within
-the compost pile, as the thermophilic zone may not extend uniformly
-throughout the matrix. Moisture content should be maintained at 50-60%
-through periodic watering or covering. Aeration effectiveness can be
-assessed by measuring oxygen levels at various points within the pile, with
-supplemental turning or forced aeration applied when oxygen drops below
-10-15%. The progress of contaminant degradation is typically monitored by
-periodic sampling and [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of both the compost matrix and any
-leachate produced during the process.
-
-## Applications and Case Studies
-
-Composting bioremediation has been successfully applied to a wide range of
-contaminated materials, including pesticide-contaminated soils, petroleum
-hydrocarbon spills, explosive residues such as TNT and RDX, polycyclic
-aromatic hydrocarbons from industrial sites, and chlorinated solvents.
-Municipal composting facilities have been adapted for treating organic
-contaminants in co-composted waste streams. The approach is particularly
-effective for mixed contamination where both organic pollutants and excess
-nutrients are present, as the composting process simultaneously degrades
-organic compounds while stabilizing nutrient cycling.
-
-## See Also
-
-- [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
-- [[lowenfels-composting-science-microbiology]]

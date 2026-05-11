@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Smith, A.H. & Thiers, H.D. (1971). The Boletes of Michigan. University of Michigan Press."
   - "Kuo, M. (2024). Leccinum insigne. MushroomExpert.com."
-  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern dmt-containing-plants-united-states-halpern and Eastern Canada. Timber Press."
+  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern [[dmt-containing-plants-united-states-halpern]] and Eastern Canada. Timber Press."
   - "Watling, R. (1970). \"Notes on British boletes: Leccinum and the genus Boletus.\" Notes from the Royal Botanic Garden Edinburgh, 30, 103-124."
 ---
 
@@ -24,7 +24,7 @@ sources:
 *Leccinum insigne*, commonly known as the aspen scaber stalk, is a pored
 mushroom in the family Boletaceae. It is an ectomycorrhizal species
 forming obligate associations with *Populus* species, particularly quaking
-aspen (*Populus tremuloides*) and cottonwood (*P. deltoides*).
+aspen (*[[populus-tremuloides]]*) and cottonwood (*P. deltoides*).
 
 The species is edible when thoroughly cooked, though some individuals
 report gastrointestinal upset — a pattern common across the genus
@@ -87,57 +87,4 @@ represent distinct but morphologically similar species.
 
 Ectomycorrhizal, forming obligate associations with:
 - *Populus tremuloides* (quaking aspen) — primary associate
-- *Populus deltoides* (eastern cottonwood)
-- *Populus balsamifera* (balsam poplar)
-- *Populus grandidentata* (bigtooth aspen)
-
-Fruits on the ground in aspen groves, riparian corridors, and mixed
-hardwood forests with aspen component.
-Prefers well-drained sandy to loamy soils.
-Season: July to October, peaking August–September.
-
-## Edibility
-
-Considered edible when thoroughly cooked by most authorities.
-Mild to slightly nutty flavor; firm texture suitable for sautéing.
-
-⚠️ **Important caveats:**
-- Some individuals experience nausea, vomiting, or diarrhea after
-  consuming *Leccinum* species, particularly when eaten raw or
-  undercooked. Always cook thoroughly.
-- The genus has been associated with rare but serious gastrointestinal
-  reactions, especially when consumed with alcohol.
-- *L. insigne* should not be confused with red-pored boletes
-  (*Suillellus* spp.), which are toxic.
-- When in doubt about identification, consult a local mycologist.
-
-## Similar Species
-
-| Species | Key Differences from *L. insigne* |
-|---------|-----------------------------------|
-| *Leccinum aurantiacum* | Associates with birch and aspen; cap bright orange-red |
-| *Leccinum scabrum* | Associates with birch; cap brown to gray-brown, paler overall |
-| *Leccinum holopus* | Very pale cap; associates with birch in boggy habitats |
-| *Leccinum rugosiceps* | Cap with whitish "frosting" at margin; pine associate |
-| *Tylopilus felleus* | Pink pores at maturity; extremely bitter — inedible |
-
-The *L. insigne* species complex remains taxonomically unsettled. Molecular
-studies suggest that [[growing-gourmet-north-american-reishi-species]] "L. insigne" may comprise multiple
-cryptic species associated with different *Populus* hosts.
-
-## Ecology
-
-As an ectomycorrhizal partner of *Populus* species, *L. insigne*
-facilitates nutrient and water exchange with its host trees.
-The [[arbuscular-mycorrhizal-network-visualization-anastomosis]] extends the effective root zone of aspens,
-particularly important in nutrient-poor sandy soils.
-
-Aspen forests with diverse *Leccinum* populations tend to show greater
-seedling regeneration rates, suggesting a facilitative role in stand
-dynamics. Fruiting is promoted by adequate summer rainfall following
-a dry spring period.
-
-## See Also
-- [[suillus-luteus]]
-- [[gyroporus-cyanescens]]
-- [[mycorrhizal-edible-mushroom-species-overview]]
+- *[[populus-deltoides]]* (eastern cottonwood)

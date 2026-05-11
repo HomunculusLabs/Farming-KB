@@ -85,46 +85,6 @@ The art continues to evolve while maintaining deep respect for ancestry and oral
 Its history is not a straight path from oppression to acceptance, but an ongoing negotiation over power, memory, and belonging.
 
 ## Applications and Significance
-Capoeira develops mobility, coordination, rhythm, balance, flexibility, and spatial awareness.
+Capoeira develops mobility, coordination, rhythm, balance, flexibility, [[plant-gravitropism-and-spatial-awareness]].
 Its training builds both physical skill and social perception.
 Because the game is improvised, players learn to read intention under uncertainty.
-This makes capoeira a useful model for embodied cognition and interactive decision-making.
-The art teaches tactical deception without reducing practice to violence.
-It can support youth development by combining discipline, music, community, and identity.
-Community capoeira groups often provide mentorship and cross-generational belonging.
-In Brazil, capoeira remains tied to Afro-Brazilian pride and anti-racist cultural politics.
-Outside Brazil, it can connect students to Portuguese language, Brazilian history, and diaspora studies.
-Capoeira is used in dance, theater, film, and contemporary performance.
-Its circular structure makes it useful for participatory education and group facilitation.
-Music training teaches rhythm, call-and-response, memory, and collective listening.
-Songs serve as informal archives of teachers, places, warnings, and values.
-Capoeira also offers a lens for studying how oppressed communities transform surveillance into expressive strategy.
-The roda models conflict without necessarily resolving it through domination.
-Players may challenge, mock, invite, evade, or reconcile within shared rules.
-This gives the art ethical depth as well as athletic complexity.
-Capoeira has influenced mixed movement cultures, breakdance conversations, parkour aesthetics, and martial arts performance.
-However, its value is not only in spectacular kicks or acrobatics.
-The deepest skill lies in relation: to music, opponent, community, ancestry, and the moment.
-As heritage, capoeira demonstrates how culture can encode resistance in pleasure.
-As practice, it shows that play can be serious and that seriousness can be playful.
-As scholarship, it links movement studies, African diaspora history, musicology, anthropology, and political memory.
-
-## Related Concepts
-[[meiji-restoration]] offers a distant comparison for the modernization and national reframing of martial traditions.
-[[kintsugi]] provides an analogy for transforming historical fracture into visible cultural strength.
-[[shamanic-use-of-psychedelics]] is not directly related, but both fields require careful attention to ritual context and cultural ownership.
-[[urban-guerrilla-gardening]] is a loose cultural parallel in using urban space creatively under constraint.
-[[entheogen-culture]] illustrates how global circulation can preserve, distort, or commodify local practices.
-Cultural Heritage would be a useful broader page linking living traditions across societies.
-
-## See Also
-Afro-Brazilian Culture
-Atlantic Slave Trade
-Martial Arts Anthropology
-Music And Embodied Practice
-Intangible Cultural Heritage
-Brazilian History
-Diaspora Studies
-Ritual Performance
-Embodied Cognition
-Oral Tradition

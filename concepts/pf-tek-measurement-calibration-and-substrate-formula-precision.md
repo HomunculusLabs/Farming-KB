@@ -1,7 +1,7 @@
 ---
-title: "PF pf tek measurement calibration and substrate formula precision Calibration and pf-tek-substrate-formula-details Precision"
+title: Pf Tek Measurement Calibration And Substrate Formula Precision
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-topics: measurement calibration, substrate formula, metric conversions, brown rice powder, vermiculite
+topics: measurement calibration, substrate formula, metric conversions, [[brown-rice-flour-substrate]] powder, vermiculite
 created: 2026-05-08
 ---
 
@@ -12,7 +12,7 @@ created: 2026-05-08
 [[pf-tek-psilocybe-fanaticus-cultivation-method]] emphasised that measurement accuracy is critical
 to successful [[accessible-mushroom-cultivation-for-disabilities]]. The PF [[pf-tek-substrate-moisture-diagnosis-and-correction]] formula uses
 small volumes in half-pint jars, where even minor measurement errors
-can lead to substrate failure. Fanaticus specifically warned that
+can lead to [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]]. Fanaticus specifically warned that
 inaccurate measuring cups "will set up certain failure or diminished
 growth."
 
@@ -80,51 +80,10 @@ difference" in colonization success and eventual fruiting performance.
 Place regular brown rice in a small canister-type coffee bean grinder
 and grind to fine powder. The powder should be consistently fine
 with no large particles remaining, as uneven particle size affects
-both water absorption and mycelial colonisation speed.
+both water absorption and [[jar-shaking-grain-redistribution-mycelial-colonisation]] speed.
 
 ### Source
 
 Brown rice powder is available from health food stores and food
 cooperatives. The whole brown rice for grinding can be purchased at
 the same locations or at any grocery store.
-
-## Vermiculite Grade Considerations
-
-The PF Tek formulas were originally developed using finer-grade
-vermiculite. Vermiculite coarseness varies considerably between
-brands, which directly affects water holding capacity:
-
-- **Fine vermiculite** (~1mm average particle size): holds more water,
-  preferred for PF Tek
-- **Coarse vermiculite** (~4-5mm average, up to 8mm): holds less
-  water, requires formula adjustment
-
-Fanaticus recommended shopping around to obtain both types for
-comparison. If using coarse vermiculite, reduce the water amount to
-prevent a wet, sloppy substrate.
-
-## Water Content Diagnosis
-
-The correct substrate moisture level should feel "damp and cohesive"
-when mixed. Fanaticus advised keeping detailed notes on formula
-variations to identify the mix that produces the best fruiting:
-
-- **Too dry**: evidenced by [[growing-gourmet-spore-germination-strain-isolation]] but halted growth at
-  a certain point — the mycelium spreads but then stops
-- **Too wet**: the substrate becomes sloppy, waterlogged, and
-  susceptible to bacterial contamination
-- **Correct**: damp, holds together when squeezed, no free water
-  draining from the mix
-
-## The Importance of Per-Jar Mixing
-
-Fanaticus specified mixing each jar's substrate individually rather
-than preparing a large batch. This ensures accurate formula rendering
-for every jar, preventing the compounding errors that can occur when
-dividing a bulk mix into individual jars.
-
-## See Also
-
-- [[pf-tek-brown-rice-flour-freshness-and-preparation]]
-- [[pf-tek-substrate-moisture-diagnosis-and-correction]]
-- [[pf-tek-maximum-fruiting-substrate-formula]]

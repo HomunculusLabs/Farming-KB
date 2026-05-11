@@ -25,11 +25,11 @@ created: 2026-04-28
 
 *Inocybe corydalina* is a small to medium agaric mushroom in the family
 Inocybaceae, notable as one of the few species outside the traditional
-psilocybin genera (*Psilocybe*, *Gymnopilus*, *Panaeolus*) confirmed to
-contain psilocybin and psilocin.
+[[stamets-psilocybin-genera-beyond-psilocybe]] (*Psilocybe*, *Gymnopilus*, *Panaeolus*) confirmed to
+contain [[hplc-analysis-of-psilocybin-and-psilocin]].
 
 The species is a classic "little brown mushroom" (LBM), easily overlooked
-in forest leaf litter. Its psychoactive properties were first confirmed
+in forest [[dighton-fungal-decomposition-leaf-litter-dynamics]]. Its psychoactive properties were first confirmed
 by Stijve and Kuyper in 1985, making it one of the more pharmacologically
 interesting members of a predominantly innocuous genus.
 
@@ -58,7 +58,7 @@ maturing to clay-brown as spores develop. The stipe is 30–60 mm long
 and 3–5 mm thick, cylindrical, and white-silvery with a fibrillose
 surface that may develop a slight cortina-like veil zone.
 
-The spore print is tobacco-brown. Basidiospores are smooth, elliptical
+The [[boil-a-bag-spore-print-technique-jarrold]] is tobacco-brown. Basidiospores are smooth, elliptical
 to bean-shaped (amygdaliform), measuring 9–12 × 5–6.5 µm with a
 pronounced apiculus. No pleurocystidia are present. Cheilocystidia are
 clavate to pear-shaped (pyriform), thin-walled.
@@ -82,58 +82,9 @@ with good canopy cover.
 
 *I. corydalina* is confirmed to contain psilocybin and psilocin, the
 classical serotonergic [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Concentrations are
-generally low compared to dedicated psilocybin mushrooms, but sufficient
+generally low compared to dedicated [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], but sufficient
 to produce noticeable psychoactive effects.
 
 Analysis by Stijve and Kuyper (1985) detected psilocybin at
 approximately 0.01–0.1% dry weight, depending on the specimen. Psilocin
 was also present at lower concentrations.
-
-Some specimens may also contain low levels of muscarine, a parasympathomimetic
-toxin common to many *Inocybe* species. The co-occurrence of psilocybin and
-muscarine in the same genus complicates the risk profile for would-be
-recreational users.
-
-Baeocystin and norbaeocystin have not been systematically investigated
-in this species, though they are plausible minor constituents given
-their presence in related psilocybin-containing taxa.
-
-## Identification and Similar Species
-
-Accurate identification of *I. corydalina* to species level within
-*Inocybe* is extremely challenging and generally requires microscopic
-examination of spore morphology and cystidia.
-
-The olive-brown fibrillose cap, smooth amygdaliform spores, and clavate
-cheilocystidia help distinguish it from other *Inocybe* species. However,
-at least a dozen similar species exist in temperate European forests.
-
-*I. geophylla* (the earthy inocybe) is a common lookalike but has
-silvery-white caps and prominent pleurocystidia. *I. rimosa* has a
-radially cracked (rimose) cap surface and nodulose spores.
-
-The primary identification hazard is confusion with other muscarine-
-containing *Inocybe* species that lack psychoactive compounds but
-can cause dangerous cholinergic poisoning (sweating, salivation,
-lacrimation, bradycardia, bronchorrhea).
-
-## Ecology
-
-As an ectomycorrhizal species, *I. corydalina* contributes to forest
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between tree roots
-and soil. Its relatively small fruiting body and inconspicuous habit
-suggest it plays a minor but stable role in woodland [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
-
-The genus *Inocybe* as a whole is one of the most species-rich
-ectomycorrhizal agaric genera in temperate forests, with an estimated
-300–500 species worldwide. Most are non-psychoactive, making *I.
-corydalina* a notable exception within the genus.
-
-## See Also
-
-- [[psilocin]]
-- [[psilocybe-semilanceata]]
-- [[pluteus-saliginus]]
-- [[mycena-cyanorrhiza]]
-- [[baeocystin]]
-- [[norpsilocin]]

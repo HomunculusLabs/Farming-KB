@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
 
@@ -45,7 +46,7 @@ cycle. Earth banks and berms provide enormous thermal mass for building and
 garden protection, with earth-sheltered structures using ground temperature
 stability to reduce heating and cooling needs.
 
-[[sepp-holzer-entity]]'s approach at the Krameterhof demonstrates this integration, with
+[[sepp-holzer]]'s approach at the Krameterhof demonstrates this integration, with
 raised beds combining earth thermal mass and [[cervantes-wind-protection-outdoor-cannabis]] from surrounding
 topography, creating a mosaic of microclimates supporting remarkable
 biodiversity at high altitude.

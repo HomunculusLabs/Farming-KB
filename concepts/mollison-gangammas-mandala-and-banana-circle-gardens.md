@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,41 +88,3 @@ This garden is intensively-planted, has very little path per
 bed area, is easy to build and maintain, provides everyday
 greens, minerals, vitamins, allows no water run-off, and can
 be built on any substrate (rock, concrete, roof areas). It
-combines basic nutrition, soil building, rainwater harvest,
-eventual self-mulching, various weed and animal barriers,
-small livestock fodder, overhead shade, no-dig gardening,
-least-path access, direct waste water disposal, and a pleasing
-design.
-
-## Building the Soil
-
-It takes 9-15 months to build up worms and a good soil in a
-new banana circle. Any surplus compostables can be pushed under
-the top mulch layer. The dense planting and constant mulch
-create a self-sustaining soil ecosystem. The banana circle acts
-as a greywater and organic waste processing centre while
-producing food.
-
-## Tropical Adaptability
-
-The overall mandala pattern can be altered to fit almost every
-site form, but is presented as a flat site pattern. Although
-building such a garden is fast and simple, its design is
-sophisticated. The design owes much to the work of the
-East-West Institute in Hawaii and the Samaka gardens of the
-Philippines, but the layout is purely permaculture.
-
-## Species for Shade Trees
-
-Within the mandala, shade trees include Leucaena and palms for
-hot regions. The hedge sequence from inside to outside is:
-vetiver or lemon grass (innermost), comfrey, arrowroot, then
-a taller hedge of Casuarina, papaya, castor, Leucaena, pigeon
-pea, and banana (outermost). This layered hedge serves as weed
-barrier, windbreak, mulch source, and animal deterrent.
-
-## See Also
-
-- [[mollison-tropical-mulch-systems-and-materials]]
-- [[mollison-animal-integration-permaculture-design]]
-- [[permaculture-food-forests-design-course]]

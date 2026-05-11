@@ -88,11 +88,3 @@ and seed suppliers worldwide.
 
 Caragana arborescens flowers from late April to early June in the Northern
 Hemisphere, depending on latitude and local climate. Pods mature from
-late June through August. Leaf bud break occurs in early to mid-April,
-making caragana one of the first woody plants to leaf out in spring.
-Autumn leaf drop typically occurs in late October to early November.
-
-## See Also
-- [[permaculture-windbreak-design]]
-- [[food-forest-design]]
-- [[permaculture]]

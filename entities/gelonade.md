@@ -88,33 +88,3 @@ Plants exhibit moderate stretch during the early [[green-cannabis-grow-bible-flo
 Yields are average to above-average, with indoor growers reporting 400–500 g/m² under optimal conditions.
 
 ## Medical Applications
-
-The strain's uplifting cerebral effects make it suitable for managing symptoms of depression, anxiety, and chronic stress.
-
-The balanced body component may provide mild relief from mild to moderate pain, headaches, and muscle tension.
-
-Some patients report benefits for fatigue and attention deficit disorders due to the focusing and energizing properties.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, which are typical of high-THC cannabis strains.
-
-In higher doses, some users report mild anxiety, paranoia, or dizziness, particularly those with lower tolerance to THC.
-
-The cerebral intensity of Gelonade may be overstimulating for individuals prone to anxiety or panic responses with sativa-dominant varieties.
-
-## Notable Phenotypes
-
-Multiple phenotype cuts of Gelonade circulate in the commercial market, with variation in terpene expression and bud structure between selections.
-
-The most sought-after phenotypes express the strongest lemon candy aroma with a pronounced Gelato creaminess on the exhale.
-
-Several breeders have used Gelonade as a parent in further crosses, including combinations with Runtz, Jealousy, and other modern dessert-strain genetics.
-
-## See Also
-
-- [[gelato-33]]
-- [[tropicana-cookies]]
-- [[sour-diesel]]
-- [[limonene]]
-- [[linalool]]

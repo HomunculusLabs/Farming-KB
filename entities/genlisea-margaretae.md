@@ -19,7 +19,7 @@ sources:
 
 **Genlisea margaretae** is one of the smallest known carnivorous plants and holds the record for the smallest known genome of any non-parasitic flowering plant. It belongs to the corkscrew plants (genus Genlisea) in the family Lentibulariaceae, closely related to bladderworts and butterworts.
 
-The species is native to tropical Africa and South America, growing in seasonally flooded sandy or peaty soils. Its underground subterranean leaves form intricate corkscrew-shaped traps that capture microscopic soil organisms.
+The species is native to tropical Africa and [[guzman-psilocybin-mushrooms-south-america]], growing in seasonally flooded sandy or peaty soils. Its underground subterranean leaves form intricate corkscrew-shaped traps that capture microscopic soil organisms.
 
 G. margaretae gained widespread attention in the scientific community following a 2006 study that identified it as having one of the smallest known nuclear genomes of any angiosperm, at approximately 63 megabase pairs. This is smaller than many bacterial genomes.
 
@@ -51,7 +51,7 @@ The species grows in wet, sandy or peaty soils in seasonally flooded habitats. T
 
 Elevation ranges from near sea level to approximately 1500 m in African mountain ranges. The species tolerates warm tropical temperatures year-round and does not require a dormancy period.
 
-Flowering occurs primarily during the wet season when conditions favor pollinator activity and seed dispersal. The small flowers are likely pollinated by tiny insects, though specific pollinators have not been documented for this species.
+Flowering occurs primarily during the wet season when conditions favor pollinator activity and [[clay-pellet-seed-dispersal]]. The small flowers are likely pollinated by tiny insects, though specific pollinators have not been documented for this species.
 
 Soil requirements are highly specific: nutrient-poor white sands with high water retention capacity. The species is often found growing alongside Utricularia, Drosera, and other Genlisea species in these impoverished substrates.
 
@@ -81,32 +81,10 @@ G. margaretae is considered moderately difficult to cultivate. It requires a sub
 
 Temperature requirements are tropical, with optimal growth at 22–30°C. The species does not tolerate cold and must be protected from temperatures below 15°C. High humidity is essential for healthy growth.
 
-Propagation is most reliably achieved from seed, which germinates readily on wet peat. Vegetative propagation is possible through division of established clumps, though the small size of the plant makes this technically challenging.
+Propagation is most reliably achieved from seed, which germinates readily on wet peat. [[hamilton-vegetative-propagation]] is possible through division of established clumps, though the small size of the plant makes this technically challenging.
 
 Seeds are extremely small and dust-like, similar to those of Utricularia and some orchids. A [[cervantes-selfing-single-seed-descent]] capsule can contain hundreds of seeds, allowing rapid colonization of suitable habitat when conditions are favorable.
 
 The tiny size of G. margaretae makes it best suited for experienced carnivorous plant growers with terrarium setups. It is rarely available commercially and is primarily distributed through specialist societies and private growers.
 
 When grown successfully, the species can form dense mats in cultivation, with multiple rosettes connected by underground stolons. These colonies are self-sustaining if conditions remain stable, with new plants emerging from seed and stolon fragmentation.
-
-## Conservation
-
-Little formal conservation assessment has been conducted for G. margaretae. Its wide but scattered distribution across two continents suggests some degree of natural resilience, though specific populations may be threatened by habitat destruction.
-
-In Africa, wetland drainage for agriculture and urbanization poses the greatest threat to known populations. The species' preference for seasonally flooded habitats places it in direct conflict with [[jadam-rice-cultivation-methods]] in some regions.
-
-The species is not listed on the IUCN Red List. Its small size and inconspicuous appearance mean that populations are likely under-recorded, and the species may be more widespread than current data suggest.
-
-Genlisea species, like all carnivorous plants, are covered by CITES regulations that restrict international trade in wild-collected specimens. The limited horticultural demand for G. margaretae means that collection pressure is minimal.
-
-## See Also
-
-- [[genlisea-aurea]]
-- [[utricularia-reniformis]]
-- [[utricularia-sandersonii]]
-- [[pinguicula-esseriana]]
-- [[pinguicula-moranensis]]
-- [[drosera-capensis]]
-- [[drosera-rotundifolia]]
-- [[utricularia-subulata]]
-- [[utricularia-vulgaris]]

@@ -46,7 +46,7 @@ Triptolemus embodies the transition from hunter-gatherer to agricultural civiliz
 
 ### Mythological Role
 
-Eumolpus ("good singer") was the ancestor of the Eumolpidae, the primary priestly family that controlled the Eleusinian Mysteries. His name reflects his role: he was the one who sang the sacred hymns and performed the liturgical functions of the Mysteries.
+Eumolpus ("good singer") was the ancestor of the Eumolpidae, the primary priestly family that controlled [[plutarch-and-cicero-on-the-eleusinian-mysteries]]. His name reflects his role: he was the one who sang the sacred hymns and performed the liturgical functions of the Mysteries.
 
 ### The Eumolpidae
 
@@ -73,7 +73,7 @@ Together, the Hierophant (from Eumolpidae) and the Dadouchos (from Kerykes) cond
 
 Other priesthoods included:
 - **Hierophantides**: The female priestess who assisted with certain rituals
-- **Priestess of Demeter and Persephone**: Maintained the sanctuary
+- **Priestess of [[demeter-and-persephone-in-eleusinian-mythology]]**: Maintained the sanctuary
 
 ## Celeus and the Eleusinian Royal House
 
@@ -88,24 +88,3 @@ Demeter nursed the young prince Demophoon, anointing him with ambrosia by day an
 This myth encodes the Mystery's promise: immortality was possible but required conditions mortals could not sustain. The initiate at Eleusis received a foretaste of what Demophoon almost achieved.
 
 ## The Legal Framework
-
-Control of the Mysteries was not merely customary but legally enforced. Athenian law prohibited:
-- Impersonating a Hierophant
-- Unauthorized performance of the sacred rites
-- Revelation of what occurred in the telesterion
-- Sacrilege against the sanctuary
-
-The Alcibiades scandal of 415 BC -- when aristocrats were caught performing the Mystery at private dinner parties -- led to trials, exile, and property confiscation, demonstrating the legal seriousness of the cult.
-
-## The "Happy Among Men" Formula
-
-The Homeric Hymn's declaration -- "Happy is he among men upon earth who has seen these mysteries" -- was the central promise of Eleusis. This happiness was not merely earthly joy but a guarantee of a blessed afterlife: "he who is uninitiate and who has no part in them, never has lot of like good things once he is dead, down in the darkness and gloom."
-
-The Eumolpidae and Kerykes were the custodians of this promise, maintaining the unbroken chain of transmission from Demeter herself through Triptolemus and Eumolpus to each generation of initiates.
-
-## Related Topics
-
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- the ritual the families controlled
-- [[the-road-to-eleusis-wasson-hofmann-ruck]] -- the modern interpretation
-- [[wasson-hofmann-and-ruck-the-collaborative-eleusis-theory]]
-- [[demeter-ergot-symbiosis-eleusinian-symbolism]]

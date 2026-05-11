@@ -2,7 +2,7 @@
 title: "Cynara scolymus"
 created: 2026-04-28
 type: species
-tags: [species, plant, herbal, permaculture, medicinal, edible, hepatoprotective]
+tags: [species, plant, herbal, [[permaculture]], medicinal, edible, hepatoprotective]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +26,7 @@ and liver health. The plant is also an excellent [[silybum-marianum]] (milk this
 - **Species:** C. scolymus L.
 - **Authority:** Carl Linnaeus, 1753
 - **Common names:** Globe artichoke, French artichoke, green artichoke
-- **Synonyms:** Cynara cardunculus var. scolymus (L.) Fiori;
+- **Synonyms:** [[cynara-cardunculus]] var. scolymus (L.) Fiori;
   Cynara cardunculus subsp. scolymus (L.) Hayek
 - **Note:** Taxonomically, globe artichoke is often treated as a
   cultivar group of C. cardunculus (cardoon), with which it is fully
@@ -56,7 +56,7 @@ the following year's crop.
 - **Native range:** Mediterranean region, likely derived from wild
   C. cardunculus in southern Italy, Sicily, and North Africa
 - **Cultivation:** Mediterranean Europe (Italy, Spain, France leading
-  producers), California, South America (Peru, Argentina), North Africa,
+  producers), California, [[guzman-psilocybin-mushrooms-south-america]] (Peru, Argentina), North Africa,
   and parts of Asia
 - **Habitat preference:** Full sun, deep fertile well-drained soils;
   tolerant of slightly alkaline pH (6.5–8.0); sensitive to waterlogging;
@@ -81,53 +81,10 @@ the following year's crop.
   hepatoprotective and antioxidant effects
 ### Flavonoids and Other Compounds
 - **Luteolin-7-O-glucoside and luteolin-7-O-rutinoside:** Major
-  flavonoid glycosides in leaf tissue
+  flavonoid glycosides in [[leaf-tissue-analysis-crop-nutrient-status]]
 - **Scaposide:** Phenylpropanoid glycoside with antioxidant activity
 - **Inulin:** Major storage carbohydrate in roots (up to 40% dry weight);
   prebiotic fructan polysaccharide supporting beneficial gut microbiota
 - **Dietary fiber:** High in the edible globe (5–10 g/100 g fresh weight)
 ## Pharmacology and Therapeutic Applications
 ### Hepatoprotective Effects
-Artichoke leaf extract (ALE) is among the most clinically studied herbal
-hepatoprotectants. Mechanisms include: antioxidant scavenging of free
-radicals in hepatocytes, stimulation of bile flow (choleretic effect)
-at doses of 1.5–3 g dried leaf equivalent, and membrane stabilization
-of liver cells. Cynarin increases bile acid secretion by 40–60% in
-[[mushroom-cancer-clinical-trials-overview]], improving fat digestion and cholesterol excretion.
-### Lipid Metabolism
-Multiple randomized controlled trials demonstrate that ALE reduces total
-cholesterol by 8–18% and LDL cholesterol by 10–23% over 6–12 weeks of
-supplementation at 500–1920 mg/day standardized extract. The mechanism
-involves inhibition of hepatic cholesterol synthesis and increased biliary
-cholesterol excretion.
-### Dyspepsia and IBS
-Commission E (Germany), ESCOP, and the European Medicines Agency have
-approved artichoke leaf preparations for dyspeptic complaints. Clinical
-trials show significant reduction in nausea, bloating, abdominal pain,
-and flatulence compared to placebo. Benefits also extend to IBS symptoms.
-### Antioxidant and Anti-inflammatory
-In vitro ORAC values for artichoke leaf extract are among the highest of
-all vegetables. Luteolin and cynarin inhibit NF-κB signaling and COX-2
-expression, contributing to anti-inflammatory effects.
-## Permaculture and Cultivation Notes
-- **Propagation:** By seed (cultivar variation from [[fungal-life-cycles-sexual-reproduction-metamorphosis]])
-  or vegetatively by offsets (suckers) and root division; vegetative
-  propagation preserves exact cultivar characteristics
-- **Planting:** Offset planting in autumn or [[coleman-overwintered-onions-and-early-spring-crops]]; seed-started
-  plants require 6–8 weeks indoors before last frost
-- **Spacing:** 90–120 cm between plants in all directions
-- **Soil requirements:** Deep, fertile, well-drained; incorporate
-  compost before planting; pH 6.5–8.0
-- **Water:** Regular irrigation critical during bud formation; mature
-  plants are moderately [[permplant-carob-drought-tolerant-food-tree]] due to deep roots
-- **Harvest:** Primary buds harvested when tight and 7–10 cm diameter;
-  secondary buds follow on lateral shoots
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Benefits from interplanting with nitrogen-fixing
-  legumes; avoid planting near [[permaculture-plants-root-crops-and-tubers]] that compete for deep soil
-  nutrients. For broader digestive herbal approaches, see [[mollison-tree-biomass-and-forest-as-living-entity]]
-- [[echinacea-purpurea]]
-- peppermint
-
-## See Also
-
-- [[cynara-cardunculus]]

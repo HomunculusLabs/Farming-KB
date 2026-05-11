@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---

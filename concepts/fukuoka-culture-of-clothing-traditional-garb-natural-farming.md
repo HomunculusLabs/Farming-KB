@@ -1,7 +1,7 @@
 ---
-title: Culture of Clothing and Traditional Garb in Natural Farming
+title: Fukuoka Culture Of Clothing Traditional Garb Natural Farming
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 topics: [clothing, natural-farming, traditional-culture, japan, permaculture]
 ---
 
@@ -71,14 +71,14 @@ disconnect the farmer from the biological world.
 
 ## Traditional Clothing as Ecological Practice
 
-Fukuoka's clothing philosophy connects to core natural farming principles:
+Fukuoka's clothing philosophy connects to core [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]:
 
 - **Local materials**: Indigo-dyed cotton from Tokushima for men, light blue
   jindaifuku for women — two colors sufficient for year-round dress
 - **Biodegradable**: Natural fiber clothing returns to the earth without
   persistent pollution
 - **Breathable connection**: Natural fabrics maintain the body's relationship
-  with ambient temperature and humidity, rather than sealing it off
+  with ambient [[greg-green-temperature-and-humidity-control]], rather than sealing it off
 - **Minimal consumption**: One bowl and one robe — the traveling robe of a Zen
   monk — would suffice for most needs
 - **Cultural identity**: Traditional clothing maintained a tidy Japanese
@@ -88,35 +88,3 @@ Fukuoka's clothing philosophy connects to core natural farming principles:
 
 During his European tour, Fukuoka noticed that traditional Bulgarian peasant
 dress was nearly identical to Japanese peasant clothing, suggesting universal
-patterns in agrarian material culture that transcend geography. He also observed
-that wherever he went in Europe, people reacted favorably to his traditional
-attire, while Japanese tourists in fine Western outfits attracted no attention
-at all.
-
-This observation reinforced his conviction that traditional clothing carries a
-universal human dignity that modern fashion obscures. The haori and hakama,
-which originated in plain farmer's clothing like the denchi and monpe, became
-proper dress for gentlemen — demonstrating that agricultural culture was once
-the foundation of refined civilization rather than its opposite.
-
-## Relevance to Permaculture and Ecological Design
-
-Fukuoka's clothing critique anticipates permaculture's principle of using
-small and slow solutions. The revival of traditional, locally-made, natural
-fiber clothing represents a design intervention at the most intimate scale —
-the interface between the human body and the environment. His insistence that
-clothing shapes the farmer's relationship to soil connects material culture to
-land stewardship in a way that industrial permaculture practice often overlooks.
-
-The broader lesson is that sustainability requires attention not only to farming
-methods and food systems but to every dimension of material culture — including
-what we wear while working the land. Synthetic fibers derived from petroleum
-represent a hidden energy and pollution cost in agriculture that is rarely
-accounted for.
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-mu-philosophy]]
-- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
-- [[fukuoka-bushman-philosophy-great-spirit]]
-- [[holmgren-small-and-slow-solutions]]

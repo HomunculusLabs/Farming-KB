@@ -55,7 +55,7 @@ we do. Culture itself is largely a matter of habit, learned from parents and tho
 and then slowly modified by shifting conditions and inspired innovations.
 
 When habits consume us, when our devotion to them exceeds culturally defined norms, we label
-them as obsessions. An obsession with the chemical constituents of foods and drugs, also
+them as obsessions. An obsession with the [[guzman-magic-mushrooms-chemical-constituents]] of foods and drugs, also
 called metabolites, is labeled an addiction. McKenna notes that addictions and obsessions are
 unique to human beings. While anecdotal evidence supports preference for intoxicated states
 among elephants, chimpanzees, and some butterflies, these animal behaviors are enormously
@@ -88,60 +88,3 @@ compounds that can interact with any of the senses ranging from taste and smell 
 and hearing.
 
 The acquisition of a taste for these compounds, the acquisition of a behaviorally and
-physiologically reinforced habit, is what defines the basic chemical addiction syndrome.
-Plant use, in McKenna's view, is an example of a complex language of chemical and social
-interactions, yet most people are unaware of the effects of plants on themselves and their
-reality. This is partly because humanity has forgotten that plants have always mediated the
-human cultural relationship to the world at large.
-
-## The Ambience of Intoxication
-
-McKenna introduces the concept of an "ambience of intoxication" to describe the normalized
-state of culturally sanctioned but pharmacologically altered consciousness that characterizes
-every human society. Many drugs are normally used in subthreshold or maintenance doses; coffee
-and tobacco are obvious examples in Western culture. The result is that people in a culture
-swim in the virtually invisible medium of culturally sanctioned yet artificial states of mind,
-much as fish are unaware of the water in which they swim.
-
-This ambient intoxication is not limited to obviously psychoactive substances. McKenna argues
-that the ways in which humans use plants, foods, and drugs cause the values of individuals and
-entire societies to shift. Eating some foods makes us happy, eating others sleepy, and still
-others alert. Society tacitly encourages certain behaviors that correspond to internal
-feelings, thereby encouraging the use of substances that produce acceptable behaviors. The
-line between food, drug, and spice is, in McKenna's analysis, far more blurred than modern
-regulatory frameworks acknowledge.
-
-## Evolutionary Context of Chemical Dependence
-
-McKenna connects the phenomenon of acquired taste and chemical addiction to his broader
-evolutionary narrative. As early hominids expanded their omnivorous diet, they encountered
-an ever-shifting chemical equilibrium. Each encounter with a new food, drug, or flavoring was
-fraught with risk and unpredictable consequences. The strategy of the early hominid omnivore
-was to eat everything that seemed foodlike and to vomit whatever was unpalatable. Plants found
-edible by this method were then incorporated into the diet.
-
-An organism may regulate chemical input through internal processes but, ultimately, mutagenic
-influences increase and a greater than usual number of genetically variant individuals are
-offered up to the process of natural selection. The results are accelerated changes in neural
-organization, states of consciousness, and behavior. In this context, the capacity to form
-chemical habits, including addictive ones, is not a flaw but an evolutionary mechanism for
-exploring and adapting to new chemical environments.
-
-## The Frontier of Risk and Opportunity
-
-McKenna concludes his discussion of acquired tastes by framing the human relationship with
-psychoactive compounds as existing at the frontier of risk and opportunity. These compounds
-have, in his words, "the remarkable ability to remind us of both our frailty and our capacity
-for the magnificent." Drugs, like reality, seem destined to confound those who seek clear
-boundaries and an easy division of the world into black and white.
-
-How humanity meets the challenge of defining its future relationships to these compounds, and
-to the dimensions of risk and opportunity they offer, may determine our potential for survival
-and evolution as a conscious species. The denial of this complexity, whether through prohibition
-or through the trivialization of drug experience, represents for McKenna a failure to engage
-with one of the most fundamental aspects of the human condition.
-## See Also
-
-- [[mckenna-alcohol-and-the-alchemy-of-spirit]]
-- [[mckenna-opium-tobacco-paradoxical-attitudes]]
-- [[mckenna-diet-symbiosis-human-evolution]]

@@ -12,11 +12,11 @@ sources:
 
 ## Purpose
 
-In principle, a garden in town has the same purpose as a kitchen garden. Sepp Holzer considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters. (see [[purdue-garden-planning-and-layout]]).
+In principle, a garden in town has the same purpose as a [[culinary-herbs-cultivation-and-kitchen-garden-guide]]. [[comparison-sepp-holzer-vs-biodynamic]] considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
 
 ## Design Principles
 
-Everything that applies to a kitchen garden can also be applied to a town garden. When space is limited, optimal design becomes even more critical. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+Everything that applies to a kitchen garden can also be applied to a town garden. When space is limited, optimal design becomes even more critical.
 
 ### Raised Beds and Terraces
 
@@ -30,7 +30,7 @@ Valuable space can be gained by creating raised beds and terraces. These provide
 
 ### Soil Preparation
 
-Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active soil life develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
+Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active soil life develops through mixed crops and the absence of [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and fertilisers. The regenerative power of the soil improves enormously.
 
 For heavy loam soil that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
 
@@ -40,7 +40,7 @@ For heavy loam soil that is water and air impermeable: loosen and aerate by mixi
 
 In small gardens, careful plant selection is critical to prevent shading. Tall-growing trees should not be planted. Instead:
 - Use house or shed walls for the masonry stove effect -- brick heat retention and radiation
-- Plant heat-loving fruit trees (peach, apricot) as espalier trees against walls
+- Plant heat-loving [[comparison-grafting-vs-budding-fruit-trees]] (peach, apricot) as espalier trees against walls
 - Create tiered terraces using vertical surfaces at every level
 - Plant shrubs and fruit trees at staggered heights
 - Use trees as climbing aids for grapes, kiwi fruit, cucumbers, pumpkins, courgettes, peas, and beans
@@ -60,4 +60,21 @@ Children who grow up around nature learn from it through intensive observation. 
 - [[permaculture-zones-in-practice]] -- zone-based design applied to town settings
 - [[container-gardening-guide]] -- growing in small urban spaces
 - [[raised-bed-gardening]] -- constructing raised beds for limited areas
-- [[urban-farming-methods]] -- broader urban agriculture techniques
+- [[urban-farming-methods]] -- broader [[urban-agriculture-and-rooftop-farming]] techniques
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[hamilton-rock-garden-design]]
+- [[herb-garden-design]]
+- [[query-how-do-i-design-a-crop-rotation-plan-for-my-vegetable-garden]]
+- [[mollison-designers-community-garden-design-urban-permaculture]]
+- [[garden-guilds-and-polyculture-design]]

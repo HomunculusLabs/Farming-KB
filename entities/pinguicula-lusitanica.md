@@ -88,23 +88,3 @@ Under optimal conditions, a single plant can produce hundreds of tiny seeds. The
 The species can become a weedy volunteer in collections of other carnivorous plants, as seeds readily germinate in any moist peat-based substrate. Some growers consider this a nuisance, while others appreciate the self-seeding behavior.
 
 ## Conservation
-
-P. lusitanica is not globally threatened, but has experienced significant declines in parts of its range, particularly in lowland Britain and western France. Habitat loss through drainage of wetlands, agricultural intensification, and peat extraction are the primary threats.
-
-In the United Kingdom, the species is classified as Nationally Scarce and is protected under the Wildlife and Countryside Act. Many historic populations have been lost to agricultural drainage, though it persists in protected nature reserves.
-
-The annual life strategy of P. lusitanica makes it vulnerable to habitat disturbance. Unlike perennial butterworts that can persist through unfavorable years, annual populations depend on successful seed production each season.
-
-Seed bank dynamics play a critical role in population persistence. Seeds can remain viable in the soil for several years, allowing populations to recover after periods of adverse conditions. However, repeated disturbance that prevents seed set can lead to local extinction.
-
-## See Also
-
-- [[pinguicula-grandiflora]]
-- [[pinguicula-vulgaris]]
-- [[pinguicula-moranensis]]
-- [[pinguicula-esseriana]]
-- [[drosera-rotundifolia]]
-- [[drosera-intermedia]]
-- [[drosera-anglica]]
-- [[utricularia-vulgaris]]
-- [[aldrovanda-vesiculosa]]

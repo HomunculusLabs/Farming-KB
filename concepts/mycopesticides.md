@@ -10,13 +10,13 @@ sources:
 
 # Mycopesticides — Fungi as Natural Insect Control
 
-Using entomopathogenic fungi to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating mycelium as an insect attractant. From *Mycelium Running* (2005).
+Using [[comparison-trichoderma-vs-entomopathogenic-fungi]] to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating mycelium as an [[knf-fluorescent-insect-attractant]]. From *[[mycelium-running-conservation-biology-and-fungi]]* (2005).
 
 ## The Discovery: Pre-Sporulating Mycelium as a Trojan Horse
 
 ### Origin Story
 
-[[paul-stamets]]' farmhouse on the Olympic Peninsula was being destroyed by carpenter ants (Camponotus modoc). After discovering that wood-digesting fungi preceded insect invasions, he obtained a culture of Metarhizium anisopliae — a green mold fungus used to kill termites:
+[[paul-stamets]]' farmhouse on the Olympic Peninsula was being destroyed by carpenter ants (Camponotus modoc). After discovering that wood-digesting fungi preceded insect invasions, he obtained a culture of [[metarhizium-anisopliae]] — a green mold fungus used to kill termites:
 
 1. Cultured the mold on malt-enriched agar
 2. Noticed white wedge sectors emerging from green sporulating colonies
@@ -55,7 +55,7 @@ Cordyceps lloydii infects carpenter ants and compels them to climb to the canopy
 | Genus | Form | Primary Targets |
 |-------|------|----------------|
 | Metarhizium anisopliae | Green mold | Termites, ants, locusts, mosquitoes, flies |
-| Beauveria bassiana | White mold | Wide range of insects |
+| [[beauveria-bassiana]] | White mold | Wide range of insects |
 | Paecilomyces spp. | White mold | Various agricultural pests |
 | Hirsutella spp. | Various | Specific host insects |
 | Cordyceps spp. | Mushroom | Ants, caterpillars, other insects |
@@ -112,7 +112,7 @@ Presporulating mycelium can be projected via many carriers:
 - Paper
 - Cardboard
 - Biodegradable fabrics
-- Agricultural waste products
+- [[agricultural-waste-recycling]] products
 
 This enables "landscapes customized with mycelial matrices" targeting specific insects.
 

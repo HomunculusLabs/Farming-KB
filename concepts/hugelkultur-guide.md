@@ -9,11 +9,11 @@ sources: []
 
 # Hugelkultur Guide
 
-Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woody debris beneath soil to create a long-lasting, self-fertilizing growing mound. As the wood decomposes, it releases nutrients, holds moisture, and generates heat — improving soil fertility for years with minimal external inputs. (see [[garden-bed-designs]]).
+Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woody debris beneath soil to create a long-lasting, self-fertilizing growing mound. As the wood decomposes, it releases nutrients, holds moisture, and generates heat — improving soil fertility for years with minimal external inputs.
 
 ## Benefits Over Time
 
-- Year 1: Mounds settle; wood begins breaking down. May need supplemental water and nitrogen. (see [[comparison-hugelkultur-vs-wicking-bed]]).
+- Year 1: Mounds settle; wood begins breaking down. May need supplemental water and nitrogen.
 - Year 2-3: Decomposition accelerates; sponge effect develops; microbial activity peaks.
 - Year 4+: Rich humus layer, consistent moisture retention, reduced irrigation needs.
 - Long-term: Sequesters carbon, builds topsoil, requires diminishing fertilization.
@@ -61,7 +61,7 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ### Established Mounds (Year 2+)
 - Virtually any crop thrives: tomatoes, squash, peppers, brassicas, root vegetables.
-- The sponge effect reduces watering to once per week or less in temperate climates.
+- The sponge effect reduces watering to once per week or less [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 - Vining crops (squash, cucumbers) cascade beautifully off mound sides.
 
 ## Irrigation
@@ -72,9 +72,9 @@ Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woo
 
 ## Troubleshooting
 
-- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, composted manure, or fish emulsion. More common in year 1 with high-wood-volume mounds.
+- **Nitrogen deficiency (yellowing leaves)**: Top-dress with blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[comparison-fish-hydrolysate-vs-fish-emulsion]]. More common in year 1 with high-wood-volume mounds.
 - **Excessive settling**: Pack layers firmly during construction; add more soil/compost in year 2.
-- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, diatomaceous earth, or encourage predator populations (ducks, ground beetles).
+- **Slugs and pests**: The moist environment attracts slugs. Use beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], or encourage predator populations (ducks, [[ground-beetles-carabidae-and-biological-pest-control]]).
 - **Dry spots**: Large logs can create air pockets; water deeply and slowly to saturate.
 
 ## Hugelkultur vs. Conventional Raised Beds

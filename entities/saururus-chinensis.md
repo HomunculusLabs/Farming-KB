@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Saururus chinensis** is a perennial herbaceous plant in the family Saururaceae, native to East and Southeast Asia. It is commonly known as Chinese lizard's tail, three-heart leaf, or shu wei cao in Chinese traditional medicine.
+**Saururus chinensis** is a perennial herbaceous plant in the family Saururaceae, native to East and [[psilocybe-southeast-asia-pacific]]. It is commonly known as Chinese lizard's tail, three-heart leaf, or shu wei cao in Chinese traditional medicine.
 
-The species is closely related to Saururus cernuus, the American lizard's tail, but can be distinguished by its larger size, white bracts subtending the inflorescence, and more robust growth habit.
+The species is closely related to [[saururus-cernuus]], the American lizard's tail, but can be distinguished by its larger size, white bracts subtending the inflorescence, and more robust growth habit.
 
 Saururus chinensis typically grows 30 to 80 centimeters tall in its native habitat. It produces erect stems from a creeping rhizome system that forms dense colonies in wetland areas.
 
@@ -36,7 +36,7 @@ The species has been included in the pharmacopoeias of China, Japan, and Korea, 
 
 Saururus chinensis was originally described by João de Loureiro in 1790 and later transferred to its current placement by Henri Ernest Baillon in 1871. The genus name Saururus means "lizard tail," referring to the shape of the inflorescence.
 
-The rhizome is thick, creeping, and white when cut, producing numerous fibrous roots at the nodes. It grows horizontally in the upper soil layers or just below the water surface in aquatic habitats.
+The rhizome is thick, creeping, and white when cut, producing numerous fibrous roots at the nodes. It grows horizontally in the upper soil layers or just below the water surface in [[biodiversity-fungi-freshwater-aquatic-habitats]].
 
 Stems are erect, simple or sparingly branched, and smooth. They are hollow or pith-filled, 4 to 8 millimeters in diameter, with conspicuous swollen nodes at leaf attachment points.
 
@@ -54,9 +54,9 @@ Saururus chinensis is distributed across much of China, from Hubei and Sichuan i
 
 The species grows in a variety of wetland habitats including marshes, stream margins, ditches, rice paddies, and swampy forest clearings. It is most common at elevations below 1,000 meters.
 
-Optimal growth occurs in shallow standing water or saturated soils. The plant tolerates water depths of 5 to 20 centimeters during the growing season but can survive in moist soil without standing water.
+Optimal growth occurs in shallow standing water or saturated soils. The plant tolerates water depths of 5 to 20 centimeters during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] but can survive in moist soil without standing water.
 
-The species is adapted to warm-temperate to subtropical climates with annual precipitation exceeding 1,000 millimeters. It is deciduous in cooler parts of its range, dying back to the rhizome in winter.
+The species is adapted to warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual precipitation exceeding 1,000 millimeters. It is deciduous in cooler parts of its range, dying back to the rhizome in winter.
 
 In its native range, Saururus chinensis often forms extensive colonies that dominate the herbaceous layer of wetland communities. It is associated with other wetland species such as Acorus, Typha, and various Cyperaceae.
 
@@ -64,19 +64,19 @@ The species serves as habitat and refuge for aquatic invertebrates and amphibian
 
 ## Chemistry and Pharmacology
 
-Chemical investigations of Saururus chinensis have identified a diverse array of bioactive compounds. The primary classes include lignans, flavonoids, alkaloids, and essential oil components.
+Chemical investigations of Saururus chinensis have identified a diverse array of [[cordyceps-cancer-bioactive-compounds]]. The primary classes include lignans, flavonoids, alkaloids, and [[permaculture-designers-manual-essential-oil-plants]] components.
 
 The lignans sauchinone and saucerneol are characteristic compounds of the species. These dibenzylbutyrolactone lignans have been the focus of extensive pharmacological investigation.
 
-Sauchinone has demonstrated anti-inflammatory activity through inhibition of NF-kappaB signaling pathways. It also shows hepatoprotective effects and anti-platelet aggregation activity in experimental models.
+Sauchinone has demonstrated anti-inflammatory activity through inhibition of NF-kappaB [[plant-signaling-pathways]]. It also shows hepatoprotective effects and anti-platelet aggregation activity in experimental models.
 
-Flavonoid compounds including quercetin, kaempferol, and their glycosides contribute to the antioxidant properties of the plant. These compounds scavenge reactive oxygen species and reduce oxidative stress.
+Flavonoid compounds including quercetin, kaempferol, and their glycosides contribute to the antioxidant properties of the plant. These compounds scavenge [[reactive-oxygen-species-and-oxidative-stress]] and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 Essential oil analysis has identified linalool, alpha-pinene, and beta-caryophyllene as major volatile constituents. The oil exhibits antimicrobial activity against both Gram-positive and Gram-negative bacteria.
 
 Aqueous and ethanol extracts have shown diuretic, anti-edematous, and detoxifying effects in animal studies. These findings support the traditional use of the herb for promoting urination and reducing swelling.
 
-Toxicological studies have established a favorable safety profile for the herb at standard therapeutic doses. No significant hepatotoxicity or nephrotoxicity has been observed in subchronic toxicity assessments of standardized extracts.
+Toxicological studies have established a favorable [[blesching-cannabis-safety-profile]] for the herb at standard therapeutic doses. No significant hepatotoxicity or nephrotoxicity has been observed in subchronic toxicity assessments of standardized extracts.
 
 ## Cultivation
 
@@ -86,35 +86,4 @@ Propagation is achieved through rhizome division in early spring or seed sowing.
 
 Seeds require moist stratification and light for germination. Germination rates are variable, ranging from 30 to 70 percent depending on seed source and treatment.
 
-Planting in medicinal herb gardens typically uses raised beds with irrigation channels to maintain saturated soil conditions. A spacing of 30 by 30 centimeters allows adequate room for rhizome spread.
-
-The species is generally pest-free but may be affected by aphids and spider mites in dry conditions. Fungal leaf spot diseases can occur under humid conditions with poor air circulation.
-
-Harvest of aerial parts for medicinal use typically occurs during the flowering period in mid-summer. Plants are cut 10 to 15 centimeters above ground level and dried in shade to preserve bioactive compounds.
-
-## Traditional Uses
-
-In traditional Chinese medicine, the whole herb of Saururus chinensis is classified as a drug that clears heat and promotes diuresis. It is used to treat urinary tract infections, edema, and inflammatory conditions.
-
-The dried aerial parts are prepared as decoctions, powders, or tinctures. The standard daily dose in traditional practice ranges from 9 to 15 grams of dried herb material.
-
-In Korean traditional medicine (Hanbang), the herb is called "samyeach" and is prescribed for kidney disorders, urinary dysfunction, and skin inflammation. It is often combined with other diuretic herbs.
-
-Topical applications include poultices of fresh leaves applied to wounds, boils, and insect bites. The leaves are also used in traditional bath preparations for skin conditions.
-
-Modern herbal formulations incorporate Saururus chinensis extract in preparations marketed for urinary tract health and anti-inflammatory support. Standardized extracts are available in capsule and tablet forms.
-
-Clinical trials in Korea have investigated the efficacy of Saururus chinensis extract for chronic kidney disease. Preliminary results suggest potential renoprotective effects, though larger controlled studies are needed.
-
-## See Also
-
-- [[saururus-cernuus]]
-- [[houttuynia-cordata]]
-- [[asarum-canadense]]
-- [[asarum-caudatum]]
-- [[chloranthus-spicatus]]
-- [[lindera-benzoin]]
-- [[typha-latifolia]]
-- [[nymphaea-alba]]
-- [[pteridium-aquilinum]]
-- [[pontederia-cordata]]
+Planting in [[medicinal-herb-growing]] gardens typically uses raised beds with irrigation channels to maintain saturated soil conditions. A spacing of 30 by 30 centimeters allows adequate room for rhizome spread.

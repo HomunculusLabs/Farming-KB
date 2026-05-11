@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Sisymbrium officinale, commonly known as hedge mustard, is an annual or biennial herb in the family Brassicaceae native to Europe and widely naturalized across temperate regions worldwide.
+Sisymbrium officinale, commonly known as hedge mustard, is an annual or biennial herb in the family Brassicaceae native to Europe and widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species has a long history of use in European traditional medicine, particularly as a remedy for respiratory ailments and sore throats, reflected in its specific epithet *officinale*.
 
@@ -49,7 +49,7 @@ The root system is a fibrous taproot typical of annual Brassicaceae, relatively 
 
 Sisymbrium officinale is native to Europe, the Mediterranean basin, and western Asia, with its range extending from the British Isles and Scandinavia southward to North Africa and eastward to the Himalayas.
 
-The species has been introduced and naturalized in North America, South America, southern Africa, Australia, and New Zealand through human activity.
+The species has been introduced and naturalized in [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, and New Zealand through human activity.
 
 In North America, hedge mustard is widespread across the contiguous United States and southern Canada, particularly common in agricultural areas and urban environments.
 
@@ -59,7 +59,7 @@ It tolerates a wide range of soil types from sandy loams to heavy clays, preferr
 
 Sisymbrium officinale is typically found at low to middle elevations below 1,500 meters, though it occurs at higher altitudes in Mediterranean mountain ranges.
 
-The species is a classic component of the *Sisymbrietum officinalis* ruderal plant community in central European phytosociology.
+The species is a classic component of the *Sisymbrietum officinalis* ruderal plant community in [[psilocybe-bohemica-central-european]] phytosociology.
 
 ## Edibility and Traditional Uses
 
@@ -71,7 +71,7 @@ The seeds can be used as a mustard substitute, ground and mixed with vinegar or 
 
 In traditional European herbalism, hedge mustard was primarily valued as an antiscorbutic, diaphoretic, and expectorant herb.
 
-The species was a standard remedy for sore throats and hoarseness in medieval European medicine, often prepared as a gargle or decoction of the whole plant.
+The species was a standard remedy for sore throats and hoarseness in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] medicine, often prepared as a gargle or decoction of the whole plant.
 
 Culpeper's *Complete Herbal* (1653) recommended hedge mustard for treating coughs, wheezing, and loss of voice, and as a poultice for inflammation.
 
@@ -81,41 +81,10 @@ The plant was also traditionally used as a digestive bitter to stimulate appetit
 
 Sisymbrium officinale contains glucosinolates typical of Brassicaceae, primarily sinigrin and gluconasturtiin, which hydrolyze to yield isothiocyanate compounds upon tissue damage.
 
-The isothiocyanates produced, particularly allyl isothiocyanate, contribute to the pungent flavor and are responsible for many of the species' traditional medicinal properties.
+The isothiocyanates produced, particularly allyl isothiocyanate, contribute to the pungent flavor and are responsible for many of the species' traditional [[panax-ginseng]].
 
 Flavonoid compounds including quercetin and kaempferol glycosides have been isolated from aerial parts, contributing antioxidant activity.
 
 The essential oil contains sulfur-containing volatiles alongside smaller quantities of terpenes and fatty acid derivatives.
 
 Modern pharmacological studies have confirmed anti-inflammatory and antimicrobial activities for extracts of the aerial parts.
-
-However, mutagenic compounds have also been identified in the plant, suggesting caution in the use of crude preparations for internal medicinal purposes.
-
-No major clinical trials have been conducted on Sisymbrium officinale extracts, and its traditional uses remain largely unsupported by rigorous evidence.
-
-## Ecological Role
-
-Sisymbrium officinale serves as a food source for several insect herbivores, including flea beetles of the genus Phyllotreta and larvae of various Lepidoptera.
-
-The flowers provide nectar and pollen for small bee species, hoverflies, and other generalist pollinators during its extended flowering period from May through October.
-
-As a ruderal species, hedge mustard plays a role in primary succession on disturbed ground, helping to stabilize bare soils and contributing organic matter as plants senesce.
-
-The species is an early colonizer of post-industrial sites and urban wasteland, often forming part of the initial plant community before perennial species establish.
-
-Seed production is abundant, with individual plants producing hundreds of seeds that contribute to a persistent soil seed bank capable of germinating over multiple years.
-
-Seeds are dispersed by wind, water splash, and attachment to animal fur, facilitating rapid colonization of new disturbed sites within and between habitat patches.
-
-## See Also
-
-- [[sinapis-arvensis]]
-- [[brassica-juncea]]
-- [[capsella-bursa-pastoris]]
-- [[barbarea-vulgaris]]
-- [[nasturtium-officinale]]
-- [[arabidopsis-thaliana]]
-- [[brassica-rapa]]
-- [[raphanus-sativus]]
-- [[brassica-oleracea]]
-- [[diplotaxis-tenuifolia]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Lychnis coronaria, commonly known as rose campion or mullein pink, is a short-lived perennial in the family Caryophyllaceae. It is native to southern Europe and the Mediterranean region and is widely grown for its silvery felted foliage and vivid magenta flowers.
+Lychnis coronaria, commonly known as rose campion or [[mullein]] pink, is a short-lived perennial in the family Caryophyllaceae. It is native to southern Europe and the Mediterranean region and is widely grown for its silvery felted foliage and vivid magenta flowers.
 
 The plant forms a basal rosette of woolly, silver-white leaves that provide year-round ornamental interest. Tall flowering stems rise in early summer bearing bright magenta to deep rose-pink flowers.
 
@@ -43,7 +43,7 @@ Molecular studies by Oxelman and colleagues placed the traditional genus Lychnis
 
 The horticultural trade continues to use Lychnis coronaria almost exclusively. Synonyms include Agrostemma coronaria and Coronaria tomentosa.
 
-Chromosome number is 2n = 24. The species is closely related to Lychnis chalcedonica (Maltese cross) and Lychnis flos-cuculi (ragged robin).
+Chromosome number is 2n = 24. The species is closely related to [[lychnis-chalcedonica]] (Maltese cross) and Lychnis flos-cuculi (ragged robin).
 
 These three Lychnis species share the characteristic of showy flowers in shades of red or pink, adapted to butterfly pollination. They are frequently grown together in cottage garden schemes.
 
@@ -59,7 +59,7 @@ The calyx is tubular, 15–18 mm long, with five teeth and prominent veins. It i
 
 A white-flowered form (f. albiflora) and a double-flowered form are known in cultivation. The white form is sometimes sold as 'Alba' or 'Angel's Blush.'
 
-The fruit is an ovoid capsule containing numerous small, dark brown, kidney-shaped seeds. Each plant can produce several thousand seeds over a single growing season.
+The fruit is an ovoid capsule containing numerous small, dark brown, kidney-shaped seeds. Each plant can produce several thousand seeds over a single [[extending-growing-season]].
 
 The stem is erect, unbranched or sparingly branched, and covered in dense white tomentum. Stem height varies from 40 cm in poor soils to over 1 m in fertile garden conditions.
 
@@ -71,7 +71,7 @@ The species is well adapted to Mediterranean climate conditions with hot, dry su
 
 In its native range, Lychnis coronaria occurs in regions with annual rainfall of 400–800 mm. It is absent from areas with persistently wet winters or waterlogged soils.
 
-It has naturalized widely across temperate Europe, the British Isles, and parts of North America. In some regions, it is considered a casual weed of waste ground and old walls.
+It has naturalized widely across temperate Europe, the British Isles, and parts [[berry-growing]]. In some regions, it is considered a casual weed of waste ground and old walls.
 
 The species is not considered invasive in any jurisdiction and poses minimal ecological risk. It is listed as Least Concern by the IUCN throughout its native range.
 
@@ -88,34 +88,3 @@ Plants are short-lived perennials, typically persisting 3–5 years in the garde
 The cultivar 'Alba' (white flowers) and 'Gardeners' World' (compact habit) are commonly available. The species type with magenta flowers is the most widely grown form.
 
 Hardy to USDA zones 4–9, Lychnis coronaria requires no special winter protection. It is pest-free and disease-resistant, with no significant insect or pathogen problems.
-
-The woolly foliage can trap moisture in humid climates, occasionally leading to crown rot. Good air circulation and sharp drainage prevent this issue in most garden settings.
-
-The woolly foliage is unpalatable to deer and rabbits, making it a good choice for gardens with heavy browsing pressure. It attracts bees and butterflies during its extended summer bloom period.
-
-Deadheading extends the flowering period and reduces self-seeding. Alternatively, allow some seed heads to mature for natural regeneration.
-
-Rose campion received the RHS Award of Garden Merit, reflecting its reliability and ornamental value in UK gardens. It remains one of the most commonly recommended silver-foliaged perennials.
-
-## Ecological Role
-
-The flowers provide nectar and pollen for a range of summer-active pollinators. Long-tongued bees and butterflies are the primary visitors.
-
-In its native Mediterranean habitat, Lychnis coronaria grows in open, disturbed sites as a pioneer species. It colonizes road cuts, abandoned fields, and rocky outcrops.
-
-The dense woolly pubescence serves multiple functions: it reflects intense sunlight, reduces water loss, and deters herbivory. This adaptation allows the plant to thrive in exposed, drought-prone sites.
-
-The species has been used in traditional European folk medicine as an astringent and wound herb. However, it has no significant pharmacological use and is not considered a medicinal plant in modern herbalism.
-
-## See Also
-
-- [[dianthus-barbatus]]
-- [[dianthus-caryophyllus]]
-- [[saponaria-officinalis]]
-- [[silene-vulgaris]]
-- [[echium-vulgare]]
-- [[stellaria-media]]
-- [[campanula-rotundifolia]]
-- [[aquilegia-vulgaris]]
-- [[alchemilla-vulgaris]]
-- [[myosotis-sylvatica]]

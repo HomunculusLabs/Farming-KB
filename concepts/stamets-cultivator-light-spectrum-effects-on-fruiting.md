@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -87,30 +88,3 @@ important when designing growing rooms, as eliminating unnecessary
 lighting reduces both equipment costs and heat generation.
 
 ## Blue Light and Primordia Formation
-
-Research has shown that blue light in the 370-495 nanometer range is
-particularly important for primordia formation in many species. The
-blue spectra appear to trigger biochemical pathways leading to
-fruitbody initiation. This is why grow-lux type fluorescent tubes,
-which are enriched in blue wavelengths, outperform warm-white tubes
-for mushroom cultivation. Incandescent lighting, which is heavily
-weighted toward red and infrared spectra, is generally unsuitable
-for mushroom fruiting and generates excessive heat.
-
-## Practical Recommendations
-
-For home cultivators and small commercial operations, a simple
-fluorescent fixture with a Daylite 65 or Vita-Lite tube on a 12-hour
-timer provides adequate light for most photosensitive species. The
-fixture should be positioned to illuminate all cropping surfaces
-evenly. For larger operations, multiple fixtures may be needed to
-ensure uniform coverage across all shelf tiers. Regular cleaning of
-light fixtures and tubes maintains optimal light output.
-
-## Related Topics
-
-- [[stamets-pinning-initiation-stages-environmental-control]]
-- stamets-fruiting-strategies-and-primordia-formation
-- [[agaricus-bisporus]]
-- [[pleurotus-ostreatus]]
-- [[mushroom-cultivation]]

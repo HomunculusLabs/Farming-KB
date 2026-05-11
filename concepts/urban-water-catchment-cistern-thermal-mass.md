@@ -1,5 +1,5 @@
 ---
-title: "Urban Water Catchment Cisterns and [[comparison-windbreak-vs-thermal-mass]] Systems"
+title: Urban Water Catchment Cistern Thermal Mass
 created: 2026-04-28
 tags: [urban-permaculture, water-catchment, cisterns, thermal-mass]
 date: 2026-04-25
@@ -88,13 +88,3 @@ Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[water-catchment-urban-permaculture]]
-- [[mollison-designers-roof-water-catchment-calculations]]
-- [[urban-permaculture-trees-water-cycling]]

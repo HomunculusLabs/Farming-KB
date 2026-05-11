@@ -9,6 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - gardening-when-it-counts-steve-solomon.md
 created: 2026-04-28
 type: concept

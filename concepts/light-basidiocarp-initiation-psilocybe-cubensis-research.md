@@ -88,26 +88,3 @@ standard fluorescent lighting is effective for indoor cultivation. The extreme
 photosensitivity requiring only milliseconds of exposure means that even
 incidental light during routine maintenance is sufficient to maintain fruiting
 cycles. The ineffectiveness of red light confirms its appropriateness as a
-safe light for manipulation of cultures without triggering unwanted initiation.
-
-## Broader Significance for Fungal Photobiology
-
-Badham's study placed P. cubensis within the growing body of literature on
-fungal photoresponses. The action spectrum with peak sensitivity in the
-blue/UV region is consistent with responses documented across numerous fungal
-species, suggesting conservation of the photoreceptor mechanism. The
-phototropic zone observed at 10 degrees Celsius, where blue pigment accumulates
-in a specific band on the pileus, provides additional evidence for the
-relationship between light exposure and [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] metabolism. The
-connection between the phototropic zone and hallucinogenic indoles noted by
-Singer (1958) remains an area of scientific interest. This research connects
-directly to the [[psilocybin-biosynthetic-metabolic-pathway]] and may help
-explain the ecological function of these compounds.
-
-## See Also
-
-- [[light-wavelength-basidiocarp-initiation-psilocybe-cubensis-badham]]
-
-- [[oss-oeric-terrarium-design-and-humidity]]
-- [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[psilocybe-cubensis-flush-variation]]

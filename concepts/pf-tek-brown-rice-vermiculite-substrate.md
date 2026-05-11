@@ -88,32 +88,3 @@ The mass spore inoculation approach of the PF TEK is also biologically significa
 ## The Dry Vermiculite Contaminant Barrier
 
 The dry vermiculite layer at the top of each jar is one of the most important innovations of the PF TEK. It serves multiple functions simultaneously:
-
-1. **Physical barrier:** Dry vermiculite is inhospitable to airborne mold spores and bacteria, which require moisture to germinate and colonize. The dry layer intercepts contaminants before they reach the nutritious wet substrate.
-2. **Moisture buffer:** During incubation, moisture evaporating from the substrate condenses in the headspace. The dry vermiculite absorbs this condensation, preventing it from pooling on the substrate surface where it could create conditions favorable to contamination.
-3. **Gas exchange filter:** Despite being dry, the vermiculite layer is porous enough to allow slow gas exchange — oxygen in and carbon dioxide out — which is essential for mycelial respiration during colonization.
-
-The barrier must remain undisturbed during inoculation. If the needle displaces vermiculite and exposes the wet substrate, the protective effect is compromised. Careful inoculation technique involves inserting the needle at an angle so it slides down the glass wall below the barrier layer.
-
-## Substrate Hydration Science
-
-The ideal substrate moisture content for *Psilocybe cubensis* cultivation is approximately 60–65% water by weight. This provides sufficient free water for metabolic processes while maintaining enough air space in the vermiculite matrix for gas exchange. The "field capacity" test is useful: squeeze a handful of mixed substrate — it should hold together in a clump but no water should drip from it.
-
-Different grades of vermiculite have dramatically different water holding capacities. Fine-grade vermiculite can absorb and retain 3–4 times its weight in water, while coarse grade may only retain 1.5–2 times its weight. This is why the same recipe can produce vastly different results with different vermiculite sources. Always calibrate water volume to the specific vermiculite being used.
-
-Temperature during steam sterilization also affects final moisture content. Aggressive boiling drives off more water, potentially drying the substrate below the threshold needed for full colonization. The gentlest possible boil that maintains steam is ideal.
-
-## Legacy and Influence
-
-The PF TEK spawned an entire generation of amateur mycologists and remains one of the most widely used cultivation methods worldwide. It has been translated into multiple languages and adapted for regions where vermiculite is unavailable (substitutes like perlite and sand have been explored, though with inferior results). The fundamental principles — simple substrate, steam sterilization, dry contaminant barrier, and direct spore inoculation — have been incorporated into virtually every subsequent beginner-friendly cultivation method.
-
-## See Also
-
-- [[dual-chambered-terrarium-fruiting]]
-- [[mushroom-potency-harvest-timing]]
-- [[spore-printing-and-syringe-preparation]]
-
-## References
-
-- Psylocybe Fanaticus, *PF TEK — [[psilocybe-fanaticus]]*, 2nd Edition, 1996
-- Source: `fanaticus-pf-tek-psilocybe-fanaticus.md`

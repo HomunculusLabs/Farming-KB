@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] - Gadd
+title: Gadd Mycorrhizal Carbon Sequestration Soil
 source: Fungi in the Environment - Gadd, Watkinson, Dyer (2006)
 source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 topics: mycology, mycorrhiza, carbon sequestration, soil organic matter, glomalin, fungal biomass, climate
@@ -88,32 +88,3 @@ Quantifying the contribution of mycorrhizal fungi to soil carbon pools is
 challenging because mycorrhizal carbon is difficult to distinguish from other
 sources of soil organic matter. Techniques such as isotopic labeling,
 molecular fingerprinting, and biomarker analysis are used to track carbon flow
-through mycorrhizal pathways. Models of soil carbon dynamics increasingly
-incorporate mycorrhizal carbon fluxes, but the complexity of mycorrhizal
-interactions with plants, soil, and other organisms makes accurate prediction
-difficult. Current estimates suggest that mycorrhizal fungi contribute 50 to
-700 petagrams of carbon to global soil carbon stocks, but this range reflects
-the substantial uncertainty in current understanding.
-## Climate Change Feedbacks
-
-Climate change may alter the role of [[singh-mycorrhizal-fungi-in-heavy-metal-phytostabilization]] carbon sequestration
-through multiple pathways. Rising atmospheric CO2 concentrations may increase
-the amount of carbon that plants allocate to mycorrhizal fungi, potentially
-enhancing carbon inputs to soil. However, warming temperatures may accelerate
-the decomposition of both plant litter and mycorrhizal residues, potentially
-reducing net carbon storage. Changes in precipitation patterns may shift the
-balance between arbuscular and [[ectomycorrhizal-associations]], which differ in
-their carbon storage characteristics. Understanding these feedbacks is
-critical for predicting how soil carbon stocks will respond to ongoing climate
-change and for developing [[weed-management-strategies]] that maintain or enhance
-carbon sequestration.
-
-## See Also
-
-- mycorrhizal-symbiosis-plant-nutrient-uptake.md
-- gadd-vacuolar-system-long-distance-transport-fungi.md
-- soil-carbon-sequestration-mechanisms.md
-- glomalin-soil-aggregate-stability.md
-## References
-
-- Fungi in the Environment - Gadd, Watkinson, Dyer (2006).

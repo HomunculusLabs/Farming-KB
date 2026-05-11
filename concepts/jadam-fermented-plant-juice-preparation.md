@@ -1,5 +1,5 @@
 ---
-title: JADAM Herb Solution (JHS) Preparation
+title: Jadam Fermented Plant Juice Preparation
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,11 +9,11 @@ sources:
 ---
 # JADAM Herb Solution (JHS) Preparation
 
-JADAM herb solution (JHS) is made by boiling herbs in water and is used primarily for [[mushroom-pests-insect-control-stamets]]. JHS is a core component of JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP). It also functions as a fertilizer, providing nutrients unlike chemical pesticides.
+JADAM herb solution (JHS) is made by boiling herbs in water and is used primarily for [[mushroom-pests-insect-control-stamets]]. JHS is a core component of JADAM [[jadam-natural-pesticide-institute-and-research]] (JNP). It also functions as a fertilizer, providing nutrients unlike [[comparison-parasitoid-wasps-vs-chemical-pesticides]].
 
 ## Boiling Method (Recommended)
 
-JADAM recommends boiling herbs over other extraction methods (vinegar, wood vinegar, alcohol brewing) because boiling is cheap, easy, and extracts the most active compounds -- analogous to how boiling chicken produces the richest broth.
+JADAM recommends boiling herbs over other [[arbuscular-mycorrhizal-spore-extraction-methods]] (vinegar, wood vinegar, alcohol brewing) because boiling is cheap, easy, and extracts the most active compounds -- analogous to how boiling chicken produces the richest broth.
 
 ### Step-by-Step Process
 
@@ -45,7 +45,7 @@ Use high heat initially to bring to boil, then lower to medium and maintain a ge
 1. Pour boiling JHS into heat-resistant bottles until completely full (no air gap)
 2. Seal tightly with lid
 3. Immediately lay bottle on its side -- hot liquid sterilizes the small air pocket around the lid
-4. Store in cool, dark place; cold storage is ideal
+4. Store in cool, dark place; [[root-cellaring-guide]] is ideal
 5. Properly sterilized JHS keeps for 1-2 years
 
 If a bottle inflates during storage, sterilization failed and microbial decomposition has begun -- JHS loses effectiveness. Use small bottles (easier to fill, use up quickly, less prone to microbial attack). After autumn harvest, prepare JWA, JS, and various JHSs for next year's farming.
@@ -69,9 +69,9 @@ Some herbs that resist decomposition can be extracted by soaking in water:
 | Stronger | Ginkgo | Fresh leaves, fallen leaves, fruits | Spring to autumn |
 | Strongest | Korean pasque flower root | Roots | Autumn |
 
-Other effective herbs: pokeweed, water pepper (Persicaria hydropiper), bracken (Pteridium), foxglove (Digitalis purpurea), red spider lily (roots), oleander (leaves), garden balsam (leaves, roots), tobacco (leaves), monkshood (leaves, roots), sophora root, garlic (bulbs), hot pepper (fruits), peppermint (leaves), pyracantha (fruits).
+Other effective herbs: pokeweed, water pepper (Persicaria hydropiper), bracken (Pteridium), foxglove ([[digitalis-purpurea]]), red spider lily (roots), oleander (leaves), garden balsam (leaves, roots), tobacco (leaves), monkshood (leaves, roots), sophora root, garlic (bulbs), hot pepper (fruits), peppermint (leaves), pyracantha (fruits).
 
-Jerusalem artichoke was discovered as a pesticide by farmer Jeongho Gim. Its inulin content (beneficial for diabetes) somehow acts as pesticide. It is edible yet controls aphids, mites, and most moths.
+[[jerusalem-artichoke]] was discovered as a pesticide by farmer Jeongho Gim. Its inulin content (beneficial for diabetes) somehow acts as pesticide. It is edible yet controls aphids, mites, and most moths.
 
 ## Usage
 
@@ -87,33 +87,3 @@ Jerusalem artichoke was discovered as a pesticide by farmer Jeongho Gim. Its inu
 Analysis of Korean pasque flower root JHS shows it contains N (0.01%), P2O5 (0.070%), K2O (0.071%), CaO (0.015%), MgO (0.005%), plus micronutrients (Fe, Mn, Zn, Cu). This dual function (pesticide + fertilizer) is impossible with chemical pesticides.
 
 ## Herbal Oil Enhancement
-
-Herbs with strong scent (peppermint, Korean mint, cinnamon bark, star anise, rosemary, lavender, hot pepper, mustard) can be deep-fried in canola oil. Poisonous substances melt into the oil, which preserves the flavor long-term. This oil can replace canola oil in making JWA, creating "herbal JWA" (H-JWA) -- water plus H-JWA would suffice to [[query-how-to-control-pests-without-chemicals]].
-
-## Key Advantages Over Other Extraction Methods
-
-| Method | Cost | Ease | Strength | Compatibility with JWA |
-|--------|------|------|----------|----------------------|
-| Boiling (JADAM) | Very low | Easy | Strong | Excellent (mixes well, foams) |
-| Vinegar brewing | Medium | Medium | Moderate | Poor (causes clotting) |
-| Wood vinegar brewing | Medium | Medium | Moderate | Poor (causes clotting) |
-| [[pf-tek-alcohol-extraction-method]] | High | Hard | Strong | Good (mixes well) |
-| Fresh juice blending | Low | Hard | Weak | Poor (sticky residue) |
-| Water soaking | Low | Easy | Mild | Good |
-
-JADAM advises against the "fresh juice" method (blending fresh herbs) because it is hard work, not as effective, and can leave sticky substances on fruit surfaces.
-
-## Self-Sufficiency
-
-Grow Jerusalem artichoke, ginkgo, Korean pasque flower, and red spider lily around your farm. These perennials require minimal maintenance once established and provide year-round pesticide material, eliminating purchase costs entirely.
-
-## Related
-
-- [[jadam-herb-solution-jhs]]
-- [[jadam-jhs-nutritional-analysis]]
-- [[jadam-pesticide-mixing-guidelines]]
-- jadam-jinap-daeng-saeng-fermented-plant-juice
-- [[korean-natural-farming-fpj-and-ffp-recipes]]
-- [[cho-fermented-plant-juice-preparation]]
-- [[jadam-pesticide-for-aphids-and-mites]]
-- [[jadam-natural-pesticide-recipes]]

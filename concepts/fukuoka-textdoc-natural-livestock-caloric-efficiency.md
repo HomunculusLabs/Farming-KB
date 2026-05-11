@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, livestock, chickens, caloric-efficiency, energy
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,57 +88,3 @@ the greater the effort and pains that must be taken by the farmer.
 Fukuoka provides a striking calculation of the land required to support one human
 being under different dietary regimes:
 - Grains: 200 square yards
-- Potatoes: 600 square yards
-- Milk: 1,500 square yards
-- Pork: 4,000 square yards
-- Beef: 10,000 square yards
-
-If the entire human population were dependent on a diet of just beef, humanity would
-have already reached its limits of growth. The world population could grow to three
-times its present level on a diet of pork, eight times on a milk diet, and twenty
-times on a potato diet. On a diet of just grains, the carrying capacity of earth is
-sixty times the current world population.
-
-## What Should Be Raised and Where
-
-Fukuoka's answer is to select breeds that can be left to graze the mountain pastures.
-Raising large numbers of genetically improved Holstein cows and beef cattle in indoor
-pens on concentrated feed is a highly risky business for both man and livestock alike,
-yielding higher rates of energy loss.
-
-Native breeds thought to be of lower productivity actually have higher feed efficiency
-and do not lead to depletion of the land. Being closer to nature, the wild boar and
-the black Berkshire pig are more economical than the supposedly superior white Yorkshire
-breed. Profits aside, it would be better to raise small goats than dairy cattle. And
-raising deer, boars, rabbits, chickens, wildfowl, and even edible rodents would be even
-more economical, and better protect nature, than goats.
-
-## The Vision of Natural Livestock Integration
-
-In Fukuoka's idealized vision of livestock farming, bees busily make the rounds of
-clover and vegetable blossoms thickly flowering beneath trees laden heavy with fruit.
-Semi-wild chickens and rabbits frolic with dogs in fields of growing wheat. Great
-numbers of ducks and mallards play in the rice paddy. At the foot of the hills and in
-the valleys, black pigs and boars grow fat on worms and crayfish, and from time to time
-goats peer out from the thickets and trees.
-
-An environment comfortable for small animals is also an ideal setting for man. This is
-not primitive backwardness but an organic partnership between man, animal, and nature.
-
-## Connection to Global Food Security
-
-Fukuoka's caloric efficiency analysis has direct implications for global food security.
-The practice of raising cattle in indoor stalls with feed grain shipped from the United
-States has helped deplete American soil. Such practices are not merely uneconomical,
-they amount essentially to a campaign to destroy vegetation on a global scale.
-
-The modern fishing industry parallels this destruction: expensive fish are raised by
-feeding them several times their weight in smaller fish while rejoicing at how abundant
-fish have become. Protecting seas in which fish can still be caught by hand should be
-a clear priority over the development of superior methods for catching fish.
-
-## See Also
-
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-natural-livestock-unconditional-truth]]
-- [[fukuoka-textdoc-natural-livestock-open-grazing]]

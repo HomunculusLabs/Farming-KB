@@ -60,7 +60,7 @@ has culinary applications in pickling and preservation.
   dries on their surfaces.
 - **Stipe:** 3–7 cm long, 0.8–1.5 cm thick, cylindrical, solid becoming
   hollow with age; surface smooth, concolorous with the cap or slightly
-  paler, often with a slightly darker basal mycelium.
+  paler, often with a slightly darker basal [[mycelium]].
 - **Latex:** White, copious, unchanging (not turning yellow or other
   colors), mild-tasting on the tongue.
 - **Flesh:** White to pale cream, moderately thick, brittle (typical of
@@ -79,7 +79,7 @@ Lactarius quietus is widespread across temperate Europe, from the
 Iberian Peninsula through central Europe to the British Isles and
 southern Scandinavia.
 
-It is strongly associated with oak species (Quercus robur, Q. petraea,
+It is strongly associated with oak species ([[quercus-robur]], Q. petraea,
 Q. ilex, Q. pubescens) and is one of the most faithful mycorrhizal
 partners of oaks, rarely found in the absence of Quercus.
 
@@ -88,59 +88,3 @@ ranging from acidic to calcareous.
 
 It frequently occurs alongside other oak-associated Lactarius species
 including L. subdulcis, L. chrysorrheus, and L. fuliginosus.
-
-## Ecological Role
-
-L. quietus is an obligate ectomycorrhizal species forming [[dighton-ectomycorrhizal-hartig-net-structure-function]]
-structures on oak fine roots, exchanging carbon for mineral nutrients
-and water through its extensive extraradical mycelium.
-
-Studies show L. quietus mycelium is effective at mobilizing organic
-nitrogen from [[dighton-fungal-decomposition-leaf-litter-dynamics]] — a relevant function in oak forests where
-slowly decomposing litter accumulates.
-
-Its consistent abundance makes it a reliable indicator species for
-healthy oak forest mycorrhizal communities. Fruiting bodies are consumed
-by slugs, insects, and small mammals.
-
-## Edibility and Culinary Use
-
-Lactarius quietus is edible but of limited culinary interest due to its
-mild flavor and distinctive, somewhat unpleasant odor.
-
-In Eastern European traditions, it is collected for pickling, where the
-vinegar and spice aromas mask its characteristic smell while the firm
-flesh retains texture well through preservation.
-
-Some foragers use it in mixed mushroom dishes where its mild character
-serves as a base for more flavorful species.
-
-It is generally not recommended for drying due to its thin flesh and
-unremarkable flavor profile.
-
-As with all Lactarius species, the white, unchanging latex and mild taste
-confirm it is not one of the peppery or acrid species that should be
-be avoided.
-
-## Similar Species
-
-- **Lactarius subdulcis:** Similar oak associate; cap more zonate, taste
-  slightly sweet and hazelnut-like.
-- **Lactarius chrysorrheus:** Also under oaks; latex turns bright yellow
-  on the gills within seconds — key distinguishing feature.
-- **Lactarius fuliginosus:** Darker grey-brown cap, stronger odor, larger
-  spores; prefers acidic soils.
-- **Lactarius hepaticus:** Pine associate with liver-colored cap; latex
-  white, unchanging but found under different hosts.
-
-## Permaculture and Agroforestry Applications
-
-Lactarius quietus naturally establishes in agroforestry systems and food
-forests with oak canopy trees. Its presence indicates functional
-[[dighton-mycorrhizal-networks-carbon-transfer]] and contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. No commercial
-cultivation exists, but preserving oak mycorrhizal communities during
-
-## See Also
-- [[russula-cyanoxantha]]
-- [[hygrophorus-russula]]
-- [[mycorrhizal-edible-mushroom-species-overview]]

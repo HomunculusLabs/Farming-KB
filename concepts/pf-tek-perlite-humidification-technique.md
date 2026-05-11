@@ -1,5 +1,5 @@
 ---
-title: PF TEK Perlite Humidification Technique
+title: Pf Tek Perlite Humidification Technique
 created: 2026-04-28
 tags: [pf-tek, perlite, humidity, terrarium, fruiting, mycology]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The perlite humidification technique is an alternative [[stamets-cultivator-humidity-management-fogging-systems]] method for [[ectomycorrhizal-mushroom-fruiting-ecology]] chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual [[dual-chambered-terrarium-design]], perlite humidification can eliminate the need for frequent manual spraying while maintaining optimal fruiting conditions.
+The perlite humidification technique is an alternative [[stamets-cultivator-humidity-management-fogging-systems]] method for [[ectomycorrhizal-mushroom-fruiting-ecology]] chambers that uses a layer of wetted perlite to create and maintain high humidity conditions. Originally described as an anonymous internet newsgroup posting, this low tech approach gained rapid popularity among cultivators for its simplicity and effectiveness. When used in conjunction with the PF dual [[dual-chambered-terrarium-design]], perlite humidification can eliminate the need for frequent manual spraying while maintaining optimal [[fruiting-conditions]].
 
 ## What Is Perlite
 
@@ -25,7 +25,7 @@ Perlite is a bright white, lightweight volcanic glass that has been expanded thr
 
 The perlite humidification process relies on several physical properties of the material:
 
-- Perlite absorbs water into its porous structure through capillary action
+- Perlite absorbs water into its porous structure through [[capillary-action-in-soils]]
 - Gravity keeps the bulk water at the bottom of the perlite layer
 - Water moves through the porous structure and evaporates gradually into the air above
 - The evaporation occurs slowly over an extended period (estimated at weeks)
@@ -41,7 +41,7 @@ Within a perlite layer, water distributes itself with gravity pulling the bulk o
 ### Required Materials
 
 - Horticultural perlite (available at plant shops)
-- A suitable fruiting chamber (the PF dual chambered terrarium works well)
+- A suitable [[comparison-laminar-flow-hood-vs-fruiting-chamber]] (the PF [[dual-chambered-terrarium]] works well)
 - Clean water (distilled or filtered preferred)
 - Mushroom cakes ready for fruiting
 
@@ -61,7 +61,7 @@ When cakes are placed directly on the perlite, wick like action transfers moistu
 
 ### Humidity Levels
 
-A properly set up perlite layer creates and maintains near 100% humidity within a sealed terrarium. The consistent evaporation from the perlite surface saturates the air with water molecules, creating the humid shroud that mushroom mycelium requires for fruiting.
+A properly set up perlite layer creates and maintains near 100% humidity within a sealed terrarium. The consistent evaporation from the perlite surface saturates the air with water molecules, creating the humid shroud that [[antimicrobial-compounds-mushroom-mycelium]] requires for fruiting.
 
 ### Duration
 
@@ -88,37 +88,3 @@ The perlite technique becomes even more effective when used in conjunction with 
 The original report described a setup using a small PF aquarium bubbler alongside the perlite layer. However, the observer noted that the wet perlite was clearly the primary humidity source, with the cakes flushing much better than with the bubbler alone. The bubbler is optional and not necessary for effective perlite humidification.
 
 ### Without the Spray Shield
-
-While the spray shield is designed for the manual spray-based approach, it can remain in place with perlite humidification or be removed. Without the spray shield, the cakes have more open space in the terrarium and may benefit from increased air exchange.
-
-## Potential Drawbacks
-
-### Water Management
-
-While perlite provides long lasting humidification, standing water can accumulate at the bottom of the terrarium over time. This water must be periodically siphoned out using a rubber bulb battery filler or similar tool to prevent bacterial buildup.
-
-### Perlite Quality
-
-The effectiveness of perlite humidification depends on using proper horticultural perlite. Construction grade perlite or other substitutes may not have the same porous structure and evaporation characteristics.
-
-### Initial Setup Cost
-
-Perlite is inexpensive but represents an additional material beyond the standard PF TEK equipment list. However, perlite can be reused indefinitely by rinsing and drying between grows.
-
-## The Broader Principle: Less Is More
-
-The perlite humidification technique exemplifies a recurring theme in the PF TEK philosophy: simpler solutions often outperform complex ones. Where electric humidifiers, heating cables, and elaborate misting systems add complexity and potential failure points, a simple layer of wet volcanic glass provides superior results with minimal equipment and maintenance.
-
-This principle extends throughout the PF TEK, from the vermiculite barrier replacing the need for a pressure canner, to the dual chambered terrarium replacing the need for climate controlled fruiting rooms. The perlite technique fits naturally within this framework of elegant simplicity.
-
-## Modern Relevance
-
-The perlite humidification technique described in the PF TEK has become a foundational element of modern [[accessible-mushroom-cultivation-for-disabilities]]. The [[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] chamber (SGFC), one of the most popular fruiting containers for home cultivators, is essentially a direct descendant of the perlite humidification concept. The SGFC uses a plastic tote with drilled holes filled with a perlite layer, applying the same evaporation based humidification principle that was first popularized through the PF TEK community.
-
-## See Also
-
-- [[pf-tek-perlite-humidification-evaporation-dynamics]]
-
-- [[pf-tek-fruiting-chamber]] for the dual chambered terrarium
-- [[pf-substrate-formula]] for the role of vermiculite in the substrate
-- [[pf-tek-mushroom-growth-timeline]] for understanding humidity needs during fruiting

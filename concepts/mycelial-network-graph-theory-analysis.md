@@ -8,14 +8,14 @@ topics: [fungi, mycelium, network-theory, graph-theory, foraging, nutrient-trans
 
 ## Overview
 
-Fungal mycelia form complex, spatially extended networks that can be analyzed using graph theory — the mathematical study of networks represented as nodes connected by links. This approach, pioneered by researchers studying cord-forming basidiomycetes, translates the morphological structures of mycelia into a form suitable for network modeling, enabling quantitative analysis of transport efficiency, resilience to damage, and resource allocation strategies.
+[[gadd-mathematical-modelling-fungal-mycelia-form-function]] complex, spatially extended networks that can be analyzed using graph theory — the mathematical study of networks represented as nodes connected by links. This approach, pioneered by researchers studying cord-forming basidiomycetes, translates the [[ectomycorrhizal-morphological-structures]] of mycelia into a form suitable for network modeling, enabling quantitative analysis of transport efficiency, resilience to damage, and [[mycelial-foraging-resource-allocation]] strategies.
 
 ## From Mycelium to Graph
 
 The starting assumption is that the fungal mycelium forms a (planar) spatial network that can be represented as a graph comprising a set of nodes (vertices, V) connected by links (edges, E). The translation process works as follows:
 
 ### Defining Nodes and Links
-- **Cords** (the most convenient spatial scale) serve as the primary structural elements, representing major transport pathways through the mycelium
+- **Cords** (the most convenient [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]]) serve as the primary structural elements, representing major [[the-apoplastic-symplastic-and-transcellular-transport-pathways]] through the mycelium
 - **Branch points and junctions** are represented as nodes
 - **Persistent cords** connecting junctions form the links
 - **Tips** have a degree of 1 (connected to only one previous node)
@@ -87,39 +87,4 @@ The functional significance of pulsatile transport may relate to:
 
 ## Resilience to Damage
 
-Graph theory provides tools for analyzing network resilience — the ability to maintain function despite damage. In fungal networks, this relates to:
-- **Random link removal**: Simulating damage to individual cords
-- **Random node removal**: Simulating the loss of junction points or resources
-- **Targeted attacks**: Removing the most connected nodes (highest degree)
-
-Fungal networks typically show greater resilience than purely random or regular networks because of their intermediate connectivity — enough redundancy to survive partial damage, but not so much connectivity that the cost becomes prohibitive.
-
-## Comparison with Mathematical Network Models
-
-Researchers have compared fungal networks against three mathematical models generated with the same node positioning:
-1. **Delaunay triangulation (DT)**: Maximally connected network
-2. **Relative neighborhood graph (RNG)**: Intermediate connectivity
-3. **Minimum spanning tree (MST)**: Minimal connectivity (no redundancy)
-
-Fungal networks fall between these extremes, suggesting they optimize the trade-off between transport efficiency (favors more connections) and material cost (favors fewer connections). This balance reflects the fundamental biological constraint: building and maintaining mycelial connections has metabolic costs that must be justified by improved resource capture.
-
-## Ecological Implications
-
-Different fungal species exhibit different [[mycelial-foraging-strategies-nutrient-translocation]] that represent different points on the efficiency-vs-resilience spectrum:
-- **Phanerochaete velutina**: A cord-forming saprotroph that invests heavily in persistent transport networks, enabling rapid reallocation of nutrients across large distances
-- Species with less developed cord systems may sacrifice long-range transport efficiency for lower material investment
-- The choice of strategy likely reflects adaptation to specific environmental conditions — resource [[guzman-global-distribution-patterns-neurotropic-fungi]], disturbance frequency, competition intensity
-
-## Key Research References
-
-- Bebber, D.P. et al. (2006). Imaging [[gadd-mycelial-nutrient-translocation-imaging]] dynamics. In Fungi in the Environment, pp. 3–21. Cambridge University Press.
-- Tlalka, M. et al. (2002). Continuous imaging of amino acid translocation in intact mycelia of Phanerochaete velutina reveals rapid, pulsatile fluxes. New Phytologist 153, 173–84.
-- Tlalka, M. et al. (2003). Noncircadian oscillations in amino acid transport have complementary profiles in assimilatory and foraging hyphae. New Phytologist 158, 325–35.
-- Albert, R. & Barabási, A.L. (2001). Statistical mechanics of complex networks. Reviews of Modern Physics.
-
-## See Also
-
-- [[fungal-vacuolar-system-nutrient-translocation]]
-- [[woronin-bodies-septal-pore-plugging-fungal-hypha]]
-- [[mycorrhizal-networks-common-mycelial-network]]
-- [[fungi-in-the-environment-decomposition-wood-decay]]
+Graph theory provides tools for analyzing [[gadd-mycelial-network-resilience-grazing-pressure]] — the ability to maintain function despite damage. In fungal networks, this relates to:

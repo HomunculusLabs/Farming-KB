@@ -87,10 +87,3 @@ Grass-Crop JADAM Liquid Fertilizer (GC-JLF) combines wild grass and crop residue
 ## Traditional Wisdom
 
 Korean farmers for thousands of years understood the value of wild plants. They used every available organic matter. The modern practice of sterilizing fields of all non-crop plants is an imported industrial approach that destroys the [[fukuoka-natural-fertility-cycle]] cycle.
-
-## See Also
-
-- [[jadam-liquid-fertilizer]] -- the JLF system
-- [[jadam-customized-liquid-fertilizer]] -- when extra nitrogen is needed
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-wild-grass-liquid-fertilizer]]

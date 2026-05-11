@@ -3,13 +3,14 @@ title: "Drought-Proofing Strategies for Farms and Landscapes"
 created: 2026-04-26
 tags:
   - permaculture
-  - water-management
+  - [[water-management]]
   - drought-resilience
-  - keyline-design
+  - [[keyline-design]]
   - landscape-planning
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -17,9 +18,9 @@ type: concept
 # Drought-Proofing Strategies for Farms and Landscapes
 
 Mollison emphasizes that few farmers have invested in "drought-proofing"
-their land by creating gravity-fed irrigation systems such as Keyline
+their land by creating gravity-fed [[irrigation-systems]] such as Keyline
 systems. This page covers the comprehensive strategies for making
-landscapes resilient to extended dry periods through water conservation,
+landscapes resilient to extended dry periods through [[water-conservation]],
 biological storage, and earthworks.
 
 ## The Water Crisis and Drought
@@ -42,9 +43,9 @@ availability.
 
 P.A. Yeomans' "Keyline" system provides drought-proofing for farms by
 using gravity-fed water distribution across the landscape. The Keyline
-plan, written in 1954, is the pioneering modern text on landscape design
+plan, written in 1954, is the pioneering modern text on [[holzer-permaculture-landscape-design]]
 for water conservation and gravity-fed flow irrigation. It also involves
-patterning, tree planting, soil treatment, and fencing alignment, making
+patterning, [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]], soil treatment, and fencing alignment, making
 it the first book on functional landscape design in modern times.
 
 [[query-how-does-keyline-design-work-in-permaculture]] is covered in detail in mollison-keyline-soil-conditioning-humid-water.
@@ -87,46 +88,3 @@ proliferation of life forms where no "free" water otherwise exists. On
 atolls and arid islands of free-draining sands, the biological reserves
 are the main water reserves. Plants such as cactus, palms, and agaves
 have specific tissues or organs to store water.
-
-In the local microclimate, the water in vegetation greatly moderates
-heat and cold excesses, and both releases to and absorbs water from
-passing air streams. Essential crops such as cassava will produce crop
-as a result of the humidity provided by surrounding vegetation.
-
-## Forest Role in Drought Alleviation
-
-Trees greatly alleviate droughts by slowing the passage of water through
-soils. A general estimate is that 2.5-7 cm of rain is stored per 30 cm
-depth of soil mantle in retention storage, although soils of fine
-texture and high organic content may store 10-30 cm per 30 cm depth.
-The soil becomes an impediment to water movement, and free interstitial
-water can take 1-40 years to percolate through to streams, greatly
-alleviating droughts while recharging retention storages.
-
-## Integration with Related Systems
-
-- mollison-swale-design-details for swale construction specifications.
-- mollison-arid-lands-design-and-erosion-control for dryland-specific
-  techniques.
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-  for additional arid strategies.
-
-## Key Principles
-
-1. Water availability is the primary [[fukuoka-creating-natural-farm-site-selection-establishment]] factor -- all else
-  is secondary.
-2. Gravity-fed systems (Keyline) are the most energy-efficient approach
-  to drought-proofing.
-3. Earthworks should maximize infiltration rather than rapid runoff.
-4. Biological water storage in vegetation is as important as dam
-  storage.
-5. Forest cover dramatically increases soil water retention and base
-  flow in streams.
-6. Diversify storage types: dams, swales, soil moisture, and biological
-  reserves.
-## See Also
-- [[irrigation-systems]]
-- [[water-conservation]]
-- [[keyline-design]]
-- [[mollison-wet-dry-tropical-design-strategies]]
-- [[mollison-designers-snow-ice-and-winter-design-strategies]]

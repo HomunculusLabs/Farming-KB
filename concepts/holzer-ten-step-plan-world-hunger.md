@@ -3,13 +3,14 @@ title: Holzer Ten holzer ten step plan world hunger for World Hunger
 created: 2026-04-26
 tags:
   - food-security
-  - permaculture
+  - [[permaculture]]
   - holzer-permaculture
   - agriculture-policy
   - self-sufficiency
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -47,13 +48,13 @@ body and the surface of the earth are both made up of 70% water. There is no
 life or fertility without water. A healthy hydrological balance enables the
 growing of healthy food without artificial fertiliser, supports
 [[desertification-causes-reversal]] and floods. It
-is acceptable to use heavy machinery to create [[sepp-holzer-terrace-systems-and-raised-beds]] as part of transitional ethics.
+is acceptable to use [[jadam-soil-compaction-heavy-machinery]] to create [[sepp-holzer-terrace-systems-and-raised-beds]] as part of transitional ethics.
 
 ### 2. Abolishment of Industrial Livestock Farming
 
 Holzer has nothing against meat consumption when animals are kept naturally
 and slaughtered humanely. Mass production of meat destroys the environment and
-is uneconomical. The immense areas needed to grow animal feed should grow food
+is uneconomical. The immense areas needed to grow [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] should grow food
 for humans instead. Animals should be integrated into natural cycles using
 permaculture methods. See [[holzer-crater-gardens-hugelkultur]], terracing, hugelkultur, and crater gardening.
 Telegraph poles, bridge piers, and house walls can grow vegetables and herbs
@@ -87,35 +88,3 @@ By helping each other, communities grow and develop. Holzer envisions people
 travelling from community to community, each unique, with names like
 "Community of self-sufficiency" or "Community of co-operation with sun,
 water, and the earth."
-
-### 9. Conservation of Ancient Wisdom
-
-Methods of food preservation that do not require electricity or modern
-technology need to be preserved and shared. Air-drying of meat, curing,
-salting, keeping food in wood ash, solar dehydration, and herb lore are
-almost-forgotten techniques essential for self-sufficiency.
-
-### 10. Changing the Educational System
-
-People need to learn to read nature. This is the best long-term measure for
-world food production. Children are the best capital; they need to experience
-nature. This creates joyful living followed by practical knowledge. An
-African proverb says: "It takes a whole village to raise a child."
-
-## Implementation: The Self-Sufficiency Garden
-
-Holzer demonstrates the plan with a practical exercise: what would you do
-with one hectare of unproductive land with poor soil, low pH, and steep
-slopes that needs to feed a family quickly?
-
-The answer: get two or three pigs, divide the land into four paddocks, and
-use the pigs to work the ground. After opening and composting the soil, sow
-lettuces, radishes, herbs, potatoes, and grain. Move pigs through paddocks
-in rotation while planting berry bushes and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] between vegetables.
-Within months, previously unproductive land becomes a beautiful garden with
-great soil and full biodiversity.
-
-## See Also
-
-- [[reforestation-with-pigs]] for [[mollison-animal-integration-permaculture-design]] (Steps 2 and 5)
-- [[permaculture-seed-saving-breeding]] for [[holzer-seed-autonomy-preserving-old-varieties]]

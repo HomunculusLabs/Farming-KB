@@ -6,13 +6,13 @@ Power analysis is a crucial but frequently overlooked component of fungal biodiv
 
 ## The Problem in Fungal Biodiversity Research
 
-When comparing species richness or community composition among sites, researchers commonly encounter nonsignificant statistical results. The null hypothesis (H₀) is not rejected, leading to the conclusion that no differences exist. However, this interpretation may be wrong if the study lacked sufficient statistical power.
+When comparing species richness or [[core-endorhiza-bacterial-community-composition-cannabis]] among sites, researchers commonly encounter nonsignificant statistical results. The null hypothesis (H₀) is not rejected, leading to the conclusion that no differences exist. However, this interpretation may be wrong if the study lacked sufficient statistical power.
 
 Two reasons explain nonsignificant results in fungal biodiversity comparisons:
 1. **No real differences exist** among the ecological units being compared
 2. **Sample sizes are too small** to reveal biological differences of a magnitude considered important
 
-Power analysis distinguishes between these alternatives and should be considered a crucial component of any experimental design and analysis (Taylor and Gerrodette 1993; Thomas and Juanes 1996).
+Power analysis distinguishes between these alternatives and should be considered a crucial component of any [[cannabis-microbiome-experimental-design]] and analysis (Taylor and Gerrodette 1993; Thomas and Juanes 1996).
 
 ## Statistical Power Defined
 
@@ -32,8 +32,8 @@ The power of a statistical test is its ability to reject the null hypothesis whe
 
 Fungal communities typically exhibit high spatial and temporal variability:
 - Sporocarp surveys capture only species fruiting during the sampling period
-- Soil fungal communities show strong microhabitat heterogeneity
-- Molecular methods introduce their own sources of variance (primer bias, PCR stochasticity)
+- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] show strong microhabitat heterogeneity
+- [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] introduce their own sources of variance (primer bias, PCR stochasticity)
 - High community variance reduces statistical power, requiring larger sample sizes
 
 ### Scale-Dependent Patterns
@@ -82,51 +82,9 @@ For multivariate analyses (PERMANOVA, ANOSIM, MRPP):
 ### Monitoring Programs
 
 Long-term monitoring of fungal biodiversity presents unique challenges:
-- Interannual variation in fruiting can be extreme
+- [[macrofungal-fruiting-phenology-interannual-variation]] in fruiting can be extreme
 - Power analysis should account for temporal autocorrelation
 - Detecting trends over time requires more years of data than most programs collect
-- Sequential or adaptive designs can optimize resource allocation
+- Sequential or adaptive designs can optimize [[mycelial-foraging-resource-allocation]]
 
 ## When to Conduct Power Analysis
-
-### Before Data Collection (A Priori)
-
-Power analysis is most useful during study design because it allows the investigator to:
-- Evaluate trade-offs between sample size and detectable effect size
-- Optimize use of financial resources and personnel
-- Determine whether a study is feasible given available resources
-- Justify sample size decisions in proposals and publications
-
-### After Data Collection (Post Hoc)
-
-Even after a study is completed, power analysis is valuable for:
-- Interpreting the biological meaning of nonsignificant results
-- Determining the effect size that the study was powered to detect
-- Informing the design of future studies
-- Identifying whether additional sampling would likely yield significant results
-
-## Tools and Software
-
-Power analysis can be performed using charts and tables in statistical texts (Cohen 1988; Lipsey 1990; Zar 1996), though interpolation between tabled values can introduce errors. Thomas and Krebs (1997) reviewed 29 programs and five statistical packages that perform power analyses. Modern alternatives include:
-- **G*Power** (free): Covers a wide range of statistical tests
-- **R packages**: `pwr`, `WebPower`, `simr` for simulation-based power analysis
-- **PASS**: Commercial software with extensive test coverage
-- **Custom simulations**: Particularly useful for complex multivariate analyses common in fungal community ecology (PERMANOVA, NMDS)
-
-## Recommendations for Mycologists
-
-1. **Always conduct a priori power analysis** before designing a fungal biodiversity study
-2. **Use pilot data** to estimate community variance and effect sizes
-3. **Account for temporal variation** by considering seasonal fruiting patterns and interannual variability
-4. **Match spatial scale** between sampling design and the ecological processes being studied
-5. **Report power analyses** in publications to allow readers to interpret nonsignificant results
-6. **Consider using simulations** for complex multivariate analyses where analytical power calculations are unavailable
-7. **Aim for power ≥ 0.80** to adequately detect biologically meaningful differences
-
-## See Also
-
-- [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]]
-- [[fungal-beta-diversity-similarity-indices-zak-willig]]
-- [[fungal-species-abundance-distributions-diversity-indices]]
-- [[fungal-biodiversity-data-analysis]]
-- [[biodiversity-fungi-soil-fungal-communities]]

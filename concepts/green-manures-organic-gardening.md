@@ -1,5 +1,5 @@
 ---
-title: "jeavons-green-manures-cover-crops in hamilton-geoffhamilton-nick-organic-gardening-companion-planting"
+title: Green Manures Organic Gardening
 created: 2026-04-28
 tags: [green-manure, soil-fertility, nitrogen-fixation,
       cover-crops, organic-gardening]
@@ -88,21 +88,9 @@ in. Taller plants can be worked into the surface with a
 rotary cultivator, then cultivated more deeply after
 a few days of wilting.
 
-### Depth
-Do not bury the material deeper than about 6in (15cm).
-If the crop has become hard and woody, apply liquid
-fertilizer such as liquid seaweed or [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] to
-assist decomposition.
-
-## Mustard as a Quick Green Manure
-
-Mustard is a fast-growing, low crop ideal for covering
-land empty for a few weeks during the [[savory-growing-season-and-non-growing-season-management]].
-Sow seed in rows 0.5in (1cm) deep and 6in (15cm) apart.
-When seedlings reach 6 to 9in (15 to 20cm) tall, before
-flowering, cut down at the base and allow to wilt before
-digging in.
-
-## Winter [[composting-organic-garden]]
-- [[soil-health-management]]
-- [[mulching-organic-garden]]
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
+- [[organic-herb-gardening]]
+- [[herb-gardening-organic-hamilton]]

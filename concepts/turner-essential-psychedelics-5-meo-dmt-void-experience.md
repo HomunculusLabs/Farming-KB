@@ -1,5 +1,5 @@
 ---
-title: 5-MeO-DMT Void Experience - Turner's turner essential psychedelics 5 meo dmt void experience Guide
+title: [[turner-essential-psychedelics-cosmic-synergism-combinations]] 5 [[5-meo-dmt-and-bufo-alvarius]] Void Experience
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [dmt, psychedelics]
 
 # 5-MeO-DMT Void Experience
 
-D.M. Turner's treatment of 5-Methoxy-DMT in "The Essential Psychedelics Guide"
+D.M. Turner's treatment of 5-Methoxy-DMT in "The [[turner-essential-psychedelics-dmt-hyperspace]] Guide"
 emphasizes its raw power and the uniquely overwhelming quality of the void
 experience it produces. He considers 5-MeO-DMT the more potent of the two
 common DMT varieties in terms of dose required, onset speed, and force of
@@ -82,41 +82,9 @@ two hours) when combined with [[turner-harmala-alkaloids-preparation-and-dosage]
 
 ## Combination with Harmala Alkaloids
 
-The combination of 5-MeO-DMT and Harmala alkaloids produces what Turner calls
+The combination of 5-MeO-DMT and [[harmala-alkaloids]] produces what Turner calls
 "the most powerful experience I have ever felt." However, this tends to be both
 physically and mentally overwhelming. He reports becoming violently nauseous,
 experiencing extreme discomfort, and witnessing others go through sheer misery.
 One friend who ingested 5-MeO plus Harmala felt he had entered an ill-intentioned
 pact with a spirit, went into convulsions, and bit the inside of his mouth.
-
-Since Harmala slows the onset of 5-MeO-DMT so drastically, Turner found he
-loses much of the brilliance experienced using 5-MeO-DMT alone. For this reason
-he reverted to taking 5-MeO-DMT by itself.
-
-## The "Diamond Consciousness" of DMT Alone
-
-Some users feel that the DMT high is "warbly" in combination with Harmala and
-lacks the "Diamond Consciousness" of DMT alone. This term -- Turner's own
-phrase -- appears to refer to the crystalline, brilliant, instantaneous quality
-of the pure 5-MeO experience that is diluted when onset is slowed by MAO
-inhibition.
-
-## Safety Considerations
-
-5-MeO-DMT is an MAO inhibitor, requiring users to avoid certain foods and
-medications. Since it takes effect almost immediately, users should lie down or
-sit in a reclining position prior to taking a hit. One will neither be able to
-stand up nor recognize their surroundings after a good dose.
-
-## Related Concepts
-
-- void experience
-- ego death
-- 5-methoxy-dimethyltryptamine
-- mao inhibition
-- diamond consciousness
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[first-time-grower-common-mistakes]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
-- [[cannabis-harvest-timing-visual-cues]]

@@ -55,13 +55,13 @@ rather than all at once. In year one, plant the apple tree and sheet-
 mulch the entire guild area to suppress existing grass. Add daffodil
 bulbs and [[composting]] around the drip line. In year two, as the tree
 begins to root out, introduce comfrey root cuttings at cardinal points
-inside the bulb ring. Sow clover seed as a living mulch and plant
+inside the bulb ring. Sow clover seed as a [[query-what-is-living-mulch-and-when-should-i-use-it]] plant
 fava beans in dappled light areas. In year three, fill remaining gaps
 with insectary flowers, artichokes, and accumulator plants. This
 phased approach prevents young guild plants from competing with the
 newly planted tree for water and nutrients during its critical
-establishment period. Mulch heavily with wood chips in the inner zone
-and straw in the outer zone to retain moisture and suppress weeds.
+establishment period. Mulch heavily with [[query-how-to-use-wood-chips-in-your-garden]] the inner zone
+and straw in the outer zone to retain moisture and [[query-how-do-cover-crops-suppress-weeds]].
 
 ## Seasonal Management Tasks
 
@@ -81,21 +81,10 @@ corms and plan any guild expansions for the following spring.
 
 The apple guild template transfers readily to other fruit trees with
 species-specific adjustments. For [[comparison-apple-tree-care-vs-apple-guild-design]], substitute
-garlic bulbs for daffodils and add tansy to repel codling moth.
+garlic bulbs for daffodils and add tansy to repel [[fukuoka-textdoc-invasive-pest-quarantine-medfly-codling-moth]].
 Pear guilds benefit from extra nitrogen fixers since pears are
-heavier feeders. Stone fruit guilds (peach, plum, cherry) should
+heavier feeders. Stone [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] (peach, plum, cherry) should
 emphasize fungal balance — these trees are susceptible to brown rot
 and bacterial canker, so include plants that support beneficial
-mycorrhizal fungi. Citrus guilds in warmer climates center on plants
+[[arbuscular-mycorrhizal-fungi]]. Citrus guilds in warmer climates center on plants
 that attract predatory wasps for scale and aphid control. Regardless
-of the central tree species, the functional roles remain constant:
-grass suppression, nitrogen fixation, nutrient accumulation, pest
-control, mulch production, and pollinator attraction. See
-[[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
-for species recommendations suited to different climate zones.
-
-## See Also
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
-- [[comparison-apple-tree-care-vs-apple-guild-design]]
-- [[hemenway-guild-member-roles-and-species-selection]]
-- [[query-how-do-i-design-an-apple-tree-guild]]

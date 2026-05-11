@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Weed control in the organic garden relies on prevention, cultural techniques, and mechanical methods rather than chemical herbicides. The aim is to suppress weeds through good soil management, timely cultivation, and strategic use of mulches and ground covers. Weeds compete with crops for water, nutrients, light, and space; they can also harbor [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
+Weed control in the [[comparison-vermicomposting-vs-composting-organic-garden]] relies on prevention, cultural techniques, and mechanical methods rather than chemical herbicides. The aim is to [[query-how-do-cover-crops-suppress-weeds]] through good soil management, timely cultivation, and strategic use of mulches and [[permaculture-plants-food-forest-ground-covers-bamboos]]. Weeds compete with crops for water, nutrients, light, and space; they can also harbor [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## Prevention Through Soil Management
 
@@ -23,9 +23,9 @@ Weed control in the organic garden relies on prevention, cultural techniques, an
 - On light/sandy soils, mulching is especially important to reduce water loss
 
 ### Ground Cover
-- Keep soil surface covered with vegetation or mulch as much as possible, especially during winter when nutrient leaching is most rapid
+- Keep soil surface covered with vegetation or mulch as much as possible, especially during winter when [[green-cannabis-soil-flushing-nutrient-leaching]] is most rapid
 - Green-manure crops (mustard, phacelia) on vacant ground prevent weed establishment
-- In the ornamental garden, ground cover plants shade out weeds
+- In the ornamental garden, [[ground-cover-plants]] shade out weeds
 
 ### Dense Planting
 - Close spacing of vegetables and ornamentals leaves less room for weeds
@@ -35,7 +35,7 @@ Weed control in the organic garden relies on prevention, cultural techniques, an
 
 ### Hoeing
 - Start hoeing regularly from [[coleman-overwintered-onions-and-early-spring-crops]] onwards
-- Hoe between ornamental plants throughout the growing season
+- Hoe between ornamental plants throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - Many weeds will be seeding in summer, making regular hoeing critical
 - Hoe on dry days so weed roots desiccate quickly
 - Cut down perennial weeds near the garden that could spread seed
@@ -88,19 +88,3 @@ Weed control in the organic garden relies on prevention, cultural techniques, an
 
 ### Autumn
 - Lightly fork over vacant ground in borders and mulch with compost or manure
-- Collect fallen leaves for leaf mold (reduces debris that can harbor weeds)
-- Sow green-manure crops on light soils to cover vacant land for winter
-- Dig in spring-sown green-manure crops
-- Clean up leaves and vegetable debris to prevent disease
-
-### Winter
-- Continue digging on heavy soils (frost action helps break clods and kills exposed weed roots)
-- Sheet composting of autumn material on empty beds
-- Planning: identify weed-prone areas for extra attention in spring
-
-## Related Concepts
-
-- [[nitrogen-fixing-trees-and-shrubs]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[holzer-green-manure-and-soil-building-plants]]

@@ -1,5 +1,5 @@
 ---
-title: "Jack Herer (Cannabis Strain)"
+title: Jack Herer Cannabis Strain
 created: 2026-04-28
 type: strain
 tags:
@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Jack Herer is one of the most legendary and influential cannabis strains in modern history. Named after the renowned cannabis activist and author of *The Emperor Wears No Clothes*, this sativa-dominant hybrid has been a staple in dispensaries worldwide since its creation in the Netherlands in the 1990s. It is celebrated for its clear-headed, creative, and uplifting effects, as well as its complex terpene profile featuring prominent pine and spice notes.
+Jack Herer is one of the most legendary and influential [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in modern history. Named after the renowned cannabis activist and author of *The Emperor Wears No Clothes*, this sativa-dominant hybrid has been a staple in dispensaries worldwide since its creation in the Netherlands in the 1990s. It is celebrated for its clear-headed, creative, and uplifting effects, as well as its complex [[cannabis-terpene-profile]] featuring prominent pine and spice notes.
 
 ## Lineage and Genetics
 
@@ -36,9 +36,9 @@ Jack Herer is one of the most legendary and influential cannabis strains in mode
 
 Jack Herer is a three-way cross of prestigious genetics:
 
-1. **Haze:** A classic [[cannabis-sativa-landrace-strains]] cross (Mexican × Colombian × Thai × South Indian). Contributes the cerebral, uplifting effects and extended flowering time. Haze is one of the most important genetic pillars in [[oner-cannabis-breeding-fundamentals]] history.
+1. **Haze:** A classic [[cannabis-sativa-landrace-strains]] cross (Mexican × Colombian × Thai × South Indian). Contributes the cerebral, uplifting effects and extended [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Haze is one of the most important genetic pillars in [[oner-cannabis-breeding-fundamentals]] history.
 
-2. **Northern Lights #5:** An iconic pure indica originally from Afghanistan. Provides structural backbone, resin production, and a grounding body element to balance Haze's racing cerebral effects. Northern Lights #5 is widely regarded as one of the most influential indicas ever bred.
+2. **[[cannabis-strain-mango-haze-northern-lights-skunk-haze]] #5:** An iconic pure indica originally from Afghanistan. Provides structural backbone, [[cannabis-glandular-trichome-types-resin-production-clarke]], and a grounding body element to balance Haze's racing cerebral effects. Northern Lights #5 is widely regarded as one of the most influential indicas ever bred.
 
 3. **Shiva Skunk:** A potent indica-dominant cross of Skunk #1 and Northern Lights. Adds additional resin coverage, pest resistance, and a pungent, earthy aroma that rounds out the terpene profile.
 
@@ -88,59 +88,3 @@ The overall sensory experience is often described as "forest fresh" or "Christma
 ### Onset and Duration
 
 - **Onset:** Rapid, typically within 2–5 minutes when smoked or vaporized
-- **Peak effects:** 30–60 minutes after consumption
-- **Duration:** 2–3 hours for smoked/vaporized; 4–6 hours for edibles
-
-### Primary Effects
-
-**Cerebral (dominant):**
-- Euphoric, happy, and uplifted mood
-- Enhanced creativity and divergent thinking
-- Increased focus and mental clarity (unusual for high-THC sativas)
-- Mild psychedelic enhancement — colors appear more vivid, music sounds richer
-- Conversational and sociable energy without anxiety or racing thoughts
-
-**Physical (supporting):**
-- Gentle body relaxation without heavy sedation
-- Mild analgesic effect — useful for mild to moderate pain
-- Muscle tension relief without couch-lock
-- Functional energy — users typically remain active and productive
-
-### Therapeutic Applications
-
-Jack Herer is commonly used in medical cannabis programs for:
-
-- **Depression and mood disorders:** The euphoric and uplifting effects provide significant mood elevation for many patients
-- **ADHD:** The focusing and clarity effects help some patients with attention difficulties
-- **Chronic pain:** Moderate analgesic properties without the sedation of heavy indicas
-- **Fatigue:** The energetic sativa component provides daytime symptom relief
-- **PTSD and anxiety (low doses):** At controlled doses, the mood-elevating and grounding effects can be therapeutic; higher doses may exacerbate anxiety in susceptible individuals
-- **Migraines:** Some patients report relief from migraine symptoms, particularly the accompanying mood disturbance
-
-## Growing Information
-
-### Cultivation Difficulty
-
-- **Rating:** Moderate to difficult
-- Jack Herer can be challenging for novice growers due to its Haze genetics, which demand attention to [[cannabis-nutrient-regimens-comparison]] and [[eclss-environmental-control-life-support]]
-
-### Growing Characteristics
-
-| Parameter | Details |
-|-----------|---------|
-| **Flowering time** | 8–10 weeks indoors; late October outdoors |
-| **Yield (indoor)** | 350–500 g/m² |
-| **Yield (outdoor)** | 400–600 g/plant |
-| **Plant height** | Medium-tall (100–180 cm indoors) |
-| **Stretch during flower** | Moderate (1.5–2× vegetative height) |
-| **Suitable for:** | SCRoG, LST, SOG with appropriate training |
-
-### Cultivation Notes
-
-- Responds well to low-stress training (LST) and screen of green (SCRoG) methods
-- Haze lineage makes it sensitive to overfeeding — use a light nutrient hand, especially with nitrogen during mid-flower
-## See Also
-
-- [[purple-haze-cannabis]] — The foundational sativa parent
-- [[skunk-1]] — The backbone of modern hybrid breeding
-- [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] — Comprehensive guide to cannabis terpene science

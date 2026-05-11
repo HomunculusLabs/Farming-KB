@@ -1,5 +1,5 @@
 ---
-title: Permaculture Seed Saving and Selection
+title: Permaculture Seed Saving And Selection
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Seed Saving and Selection
 
-Seed saving [[permaculture-seed-saving-breeding]] is presented by Mollison as both a practical gardening skill and a political act of resistance against the corporate control of food systems. The Designers' Manual devotes a full section to seed and seed resources in the context of cool-climate home gardens.
+Seed saving is presented by Mollison as both a practical gardening skill and a political act of resistance against the corporate control of food systems. The Designers' Manual devotes a full section to seed and seed resources in the context of cool-climate home gardens.
 
 ## The Political Context
 
-Mollison warns that the 20-30 basic food crop seeds (grains and grain legumes) are subject to concerted control by a few agro-chemical multinationals as part of a global power play. Through seed contracts, seed patents, and control of seed retail outlets, these corporations are preparing the ground for de facto control of nations by controlling food via "aid" allocation and market control.
+Mollison warns that the 20-30 basic food crop seeds (grains and [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]]) are subject to concerted control by a few agro-chemical multinationals as part of a global power play. Through seed contracts, seed patents, and control of seed [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]], these corporations are preparing the ground for de facto control of nations by controlling food via "aid" allocation and market control.
 
 The estimated loss of locally adapted seed is 85% of European varieties, resulting from the monopoly control of seed markets by patenting.
 
@@ -48,11 +48,11 @@ Mollison describes several methods to make annuals behave as perennials:
 
 ### Cold-Climate Seed Stratification
 
-In cold climates, seed of cold-area crops is stratified by refrigeration -- the natural winter chill that breaks dormancy in many temperate species can be replicated artificially.
+[[query-how-do-i-grow-figs-in-cold-climates]], seed of cold-area crops is stratified by refrigeration -- the natural winter chill that breaks dormancy in many temperate species can be replicated artificially.
 
 ## Seed Sources and Networks
 
-Seed sources are numerous and are listed in most organic farming or permaculture publications. Perennials and trees providing staple food have largely usurped seed patenting, making tree crop propagation a natural escape from corporate control.
+Seed sources are numerous and are listed in most [[coleman-deep-organic-farming]] or permaculture publications. Perennials and trees providing staple food have largely usurped seed patenting, making tree crop propagation a natural escape from corporate control.
 
 It is particularly important for small farmers to grow and share seed, as seed outlets are bought up by the agro-chemical industry, and seeds are altered to suit corporate purposes rather than local food production.
 
@@ -63,6 +63,23 @@ Seed saving is integral to Zone 1 -- the home garden. Seedling trays, mother pla
 ## Related Concepts
 
 - [[permaculture-zone-0-house-design]] -- Zone 1 garden as seed-saving centre
-- [[permaculture-tree-crop-systems]] -- vegetative propagation of tree crops
+- [[permaculture-tree-crop-systems]] -- [[hamilton-vegetative-propagation]] of tree crops
 - [[permaculture-introduction-and-ethics]] -- ethical basis for seed sovereignty
 - [[permaculture-currency-and-economics]] -- community seed exchange as economic strategy
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[seed-saving-and-selection]]
+- [[seed-saving-and-variety-selection]]
+- [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
+- [[seed-saving-variety-selection-solomon]]
+- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

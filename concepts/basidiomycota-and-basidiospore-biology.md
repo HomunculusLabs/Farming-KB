@@ -88,38 +88,3 @@ basidiospore lands on a suitable substrate and germinates, producing a haploid
 germ tube that elongates into a hypha. This haploid hypha grows and branches
 to form a haploid mycelium composed of [[fungal-hyphae-and-mycelium]]. When
 haploid mycelia of compatible mating types encounter one another, they fuse
-(plasmogamy), exchanging nuclei without immediately fusing them. The resulting
-dikaryotic mycelium grows extensively through its substrate, secreting enzymes
-to digest organic matter and absorbing the resulting nutrients.
-
-When the dikaryotic mycelium has accumulated sufficient resources and
-encounters appropriate environmental cues (temperature, moisture, light), it
-forms a fruiting body — the mushroom. Within the developing fruiting body,
-the basidia form on the hymenium, undergo karyogamy and meiosis, and produce
-basidiospores that are discharged into the air to begin the cycle anew.
-
-## Ecological Roles
-
-The Basidiomycota play essential roles in virtually all terrestrial ecosystems.
-As decomposers, basidiomycetes are the primary agents of wood decay, breaking
-down cellulose and lignin — the two most abundant organic polymers on Earth.
-White-rot fungi degrade both cellulose and lignin, while brown-rot fungi
-primarily degrade cellulose, leaving a brown, lignin-rich residue. Without
-basidiomycete decomposers, the world's forests would be buried under
-accumulations of dead wood and plant litter.
-
-As mycorrhizal partners, basidiomycetes form symbiotic associations with the
-roots of an estimated 80 to 90 percent of all plant species. These
-ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations are critical for
-plant nutrition, particularly in nutrient-poor soils, and are fundamental to
-the health and productivity of forest ecosystems.
-
-As pathogens, certain basidiomycetes cause significant damage to agricultural
-crops, timber, and ornamental plants. Armillaria species, the honey mushrooms,
-are among the most destructive tree pathogens in the world, capable of killing
-large areas of forest. The rusts and smuts attack cereal crops, causing
-devastating losses in wheat, corn, rice, and other staples.
-
-The ecological versatility of the Basidiomycota — encompassing decomposition,
-mutualism, and parasitism — makes them indispensable components of terrestrial
-ecosystems and central subjects of mycological research.

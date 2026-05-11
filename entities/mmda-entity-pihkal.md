@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA
 
-PIHKAL entry #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,48 +88,6 @@ with the eyes closed. This is the compound that I had first completed
 in 1962, and had named it MMDA, and had begun the exploring of it when
 I heard that Dr. Gordon A. Alles, a professor of pharmacology at U. C.
 L. A. who had his own private laboratory in Los Angeles, had also
-synthesized it in 1962, had also named it MMDA, and had also begun
-exploring it. We made a date to meet and share ideas, and then he
-died, at the age of 62, in 1963.
-This is a material that might be a contributing factor to the
-pharmacology of nutmeg. The major [[permaculture-designers-manual-essential-oil-plants]] from that spice is
-myristicin, and it is the easiest source of MMDA. It has been
-reported that the passage of this oil through the liver of a rabbit
-will generate MMDA in that animal. The only difference between the
-two molecules, structurally, are the elements of ammonia. Myristicin
-plus ammonia gives MMDA. Another natural source of myristicin is Oil
-of Parsley, which is also an excellent source of apiole, mentioned
-under DMMDA. A rumor that had currency in the 1960's, that parsley
-could get you high, probably had its origins in the reports of
-myristicin being present, coupled with myristicin being the principal
-source of MMDA. The relationship to myristicin (an essential oil) led
-to the classifying of MMDA as a Essential Amphetamine. These
-relationships are expanded upon, under TMA.
-At the time that the FDA issued its proclamation of dangerous drugs
-(in the mid-1960's), MMDA was being talked about, and in fact it had
-just become available commercially in England through the Koch Light
-Industries. But to my knowledge it had never appeared on the street,
-so its having being swept into the listings of evil drugs was simply a
-coincidence of bad timing. The close resemblance of initials between
-MMDA, and the currently notorious MDMA, has led to no small amount of
-confusion in the popular press. They remain totally separate and
-completely different drugs.
-## Synthesis
-(from protocatechualdehyde) A solution of 18 g commercial
-protocatechualdehyde (3,4-dihydroxybenzaldehyde) in 200 mL warm acetic
-acid was filtered free of any insolubles, to provide a very dark but
-clear solution. With good stirring there was then added 20 g
-elemental bromine. The reaction spontaneously heated to about 30 deg C
-and solids appeared in about 5 min. Stirring was continued for 1 h,
-and then the light gray solids that had formed were removed by
-filtration and lightly washed with acetic acid. These were air dried
-on the [[scythian-cannabis-steam-bath-ritual]] until free of acetic acid smell. The product,
-3-bromo-4,5-dihydroxybenzaldehde, weighed 11.7 g and had a mp of 222
-deg C.
-To a solution of 11.7 g 3-bromo-4,5-dihydroxybenzaldehyde in 36 mL
-DMSO there was added 29 g methylene iodide followed by 20.8 g
-anhydrous K2CO3. This was heated on the steam bath for 3 h, added to
-1 L H2O, made strongly basic with NaOH, then extracted with 3x100 mL
+
 ## See Also
-- [[cannabis-harvest-timing-visual-cues]]
-- [[4t-mmda-2-entity-pihkal]]
+- [[mmda-3b-entity-pihkal]]

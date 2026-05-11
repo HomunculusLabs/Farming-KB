@@ -88,15 +88,3 @@ It is critical to distinguish between burn (too much) and deficiency (too little
 See [[cannabis-nutrient-deficiency-and-toxicity-guide]] for the full [[cannabis-nutrient-deficiency-and-toxicity-guide]] reference.
 
 ## Seedling Sensitivity
-
-Seedlings are extremely vulnerable to nutrient burn. During the first 1–2 weeks:
-
-- Use plain water only
-- No nutrients whatsoever
-- After 2 weeks, introduce nutrients at quarter strength maximum
-- Gradually increase to half strength by week 4
-
-See [[cannabis-nutrient-deficiency-and-toxicity-guide]] — full deficiency/toxicity reference
-- [[cannabis-nutrient-lockout-and-ph]] — pH-related availability problems
-- [[cannabis-nutrient-recipes]] — proper feeding schedules
-- [[cannabis-chronic-pain-management]]

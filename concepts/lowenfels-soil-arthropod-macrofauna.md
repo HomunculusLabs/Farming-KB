@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---
@@ -86,48 +87,3 @@ earthworms, and other small soil animals. As top predators in the soil food
 web, centipedes help regulate populations of other soil arthropods and
 contribute to [[cervantes-biological-pest-control-predators]] control. Their presence indicates a complex,
 multi-trophic-level soil food web.
-
-## Beetles and Other Macroarthropods
-
-Ground beetles, rove beetles, and various other beetles are important
-predators in the soil food web, consuming insect larvae, slugs, and other
-invertebrates. Some beetle larvae are significant decomposers of woody
-material. Ants, while not always considered beneficial, move enormous
-quantities of soil and organic material, aerating soil and redistributing
-nutrients. Isopods (pillbugs and sowbugs) are terrestrial crustaceans that
-feed on decaying plant material, contributing to decomposition in moist
-microhabitats.
-
-## Roles in Decomposition
-
-Soil arthropods contribute to decomposition primarily through physical
-fragmentation of organic matter. By chewing, tearing, and grinding coarse
-organic debris, they dramatically increase the surface area available for
-microbial colonization. This fragmentation is often the rate-limiting step
-in the decomposition of woody materials and tough plant residues. The
-arthropod gut also provides a unique microbial environment where
-decomposition continues after ingestion, producing fecal pellets that are
-colonized by bacteria and fungi differently than the original material.
-
-## Roles in Soil Structure
-
-The physical activities of soil macrofauna profoundly influence soil
-structure. Earthworm burrows create macropores that improve drainage and
-aeration. Ant tunnels and termite galleries serve similar functions.
-Arthropod movement through soil pores mixes organic and mineral particles,
-promoting [[soil-aggregate-formation-fungal-contributions]]. The fecal pellets of earthworms, mites, and
-springtails act as microaggregates that are stable in soil. These structural
-improvements complement the chemical aggregation mediated by
-[[lowenfels-nematode-food-web-roles]], [[lowenfels-soil-protozoa-cycling]] create the complex trophic
-interactions that characterize a mature soil ecosystem.
-
-## Supporting Soil Macrofauna
-
-Habitat preservation is the key to maintaining healthy macrofauna populations.
-Surface mulches provide food and habitat for springtails, mites, and
-millipedes. Minimizing tillage preserves burrow systems and reduces physical
-disturbance. [[lowenfels-cover-crops-soil-biology]] provide continuous root
-systems and aboveground biomass that support diverse macrofauna communities.
-Avoiding broad-spectrum pesticides protects both target and non-target soil
-organisms, maintaining the biological pest control services that predatory
-arthropods provide.

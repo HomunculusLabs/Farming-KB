@@ -52,12 +52,12 @@ Mediators are low-molecular-weight compounds that act as electron shuttles, exte
 * **Natural mediators:**
   * **Methyl syringate** — derived from lignin [[pleurotus-ostreatus]] ipal Laccase-Producing Species
 
-* **Trametes versicolor** — model laccase producer; yields up to 50,000 U/L in optimized submerged fermentation
-* **Trametes hirsuta** — high laccase yields with broad substrate specificity
+* **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — model laccase producer; yields up to 50,000 U/L in optimized submerged fermentation
+* **[[trametes-hirsuta]]** — high laccase yields with broad substrate specificity
 * **Pleurotus ostreatus** — dual laccase isozyme system (POXA1, POXA2, POXC) with distinct catalytic properties
 * **Pleurotus pulmonarius** — thermotolerant laccases suitable for tropifruiting-body-developmentoporus cinnabarinus** — produces laccase as its sole ligninolytic enzyme (no peroxidases)
-* **Cerrena unicolor** — extremely high laccase titers (up to 100,000 U/L reported)
-* **Ganoderma lucidum** — laccase involved in fruiting body development and lignin degradation
+* **[[cerrena-unicolor]]** — extremely high laccase titers (up to 100,000 U/L reported)
+* **[[ganoderma-lucidum]]** — laccase involved in [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and lignin degradation
 * **Phlebia radiata** — produces a high-redox-potential laccase effective against recalcitrant pollutants
 
 ### Regulation of Laccase Production
@@ -67,7 +67,7 @@ Laccase gene expression is regulated by multiple environmental factors:
 * **Carbon source limitation:** Low available carbon (especially glucose) induces laccase expression as the fungus shifts to lignin degradation for energy
 * **Nitrogen source:** Peptone and yeast extract typically enhance laccase production more than inorganic nitrogen sources
 * **Metal ions:** Copper (0.5–2.0 mM CuSO₄) is the most potent laccase inducer, upregulating expression 10–50 fold. Manganese, zinc, and iron also modulate laccase production
-* **Aromatic compounds:** Phenolic compounds (guaiacol, veratryl alcohol, ferulic acid) and xenobiotics (dyes, PAHs) induce laccase as a xenobiotic response
+* **Aromatic compounds:** Phenolic compounds (guaiacol, [[fungal-lignin-peroxidase-veratryl-alcohol]], ferulic acid) and xenobiotics (dyes, PAHs) induce laccase as a xenobiotic response
 * **pH:** Optimal production at pH 4.5–6.0 for most white-rot species
 * **Agitation:** Shaken liquid cultures typically produce 5–10× more laccase than static cultures due to improved oxygen transfer
 
@@ -87,28 +87,3 @@ Laccase-mediator systems (LMS) are highly effective for textile wastewater treat
 * **Antibiotics:** Laccase degrades tetracyclines, fluoroquinolones, and sulfonamides, reducing antimicrobial resistance gene selection pressure in wastewater
 * **NSAIDs:** Ibuprofen, diclofenac, and naproxen are transformed through hydroxylation and coupling reactions
 * **Endocrine disruptors:** Bisphenol A, nonylphenol, and triclosan are effectively polymerized or mineralized
-
-### Pulp and Paper Industry
-
-Laccase-mediator systems are used for:
-
-* **Biobleaching:** Delignification of kraft pulp, reducing the need for chlorine-based bleaching chemicals
-* **Pitch control:** Removal of resin acids (abietic acid, dehydroabietic acid) that cause deposit problems in paper machines
-
-## Industrial Production
-
-Large-scale laccase production is typically carried out in stirred-tank bioreactors using optimized strains of *Trametes versicolor* or *Pleurotus ostreatus*. Key production parameters:
-
-* Working volume: 10,000–100,000 L industrial scale
-* Aeration: 0.5–1.5 vvm (volume of air per volume of liquid per minute)
-* Temperature: 25–30°C
-* pH: 4.5–5.5, controlled through automated base addition
-* Copper supplementation: 0.5–1.0 mM CuSO₄ added during mid-exponential phase
-* Production cycle: 5–10 days for peak laccase activity
-
-Immobilized laccase preparations (on alginate beads, chitosan, silica, or activated carbon) offer improved stability, reusability, and continuous processing capability for wastewater treatment applications.
-
-## See Also
-
-* [[pleurotus-pulmonarius]] — Thermotolerant laccase producer for tropical bioremediation
-* [[fungal-manganese-peroxidase-remediation]] — Complementary ligninolytic peroxidase enzyme

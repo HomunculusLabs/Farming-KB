@@ -1,5 +1,5 @@
 ---
-title: "bioremediation fungal metallothioneins phytochelatins and Phytochelatins in staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi"
+title: Bioremediation Fungal Metallothioneins Phytochelatins
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, fungal-physiology, metal-detoxification]
 date: 2026-04-25
@@ -55,7 +55,7 @@ The identification of genes encoding phytochelatin synthases has provided
 molecular evidence for the role of phytochelatins in [[fungal-metal-tolerance-mechanisms]].
 Heterologous expression of PCS genes dramatically enhances metal
 tolerance, confirming that phytochelatin production is a major mechanism
-of intracellular detoxification in fungi and plants. This genetic
+of intracellular [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]] and plants. This genetic
 evidence is important for potential applications in fungal-bioremediation.
 
 ## Bioremediation Applications
@@ -88,19 +88,3 @@ quantification of metal ions at low concentrations.
 An intriguing property of phytochelatin-CdS complexes is their ability
 to behave like semiconductor nanocrystallites. Incorporation of sulfide
 into zinc-histidine complexes produced histidine-ZnS nanocrystals with
-photocatalytic properties that efficiently degraded paraquat and
-p-nitrophenol under UV irradiation. Glutathione- and cysteine-capped
-ZnS nanocrystals were also efficient at photoreducing various dyes,
-suggesting novel materials science applications.
-
-## Connections to Phytoremediation
-
-Plant metal tolerance may be improved by transfer of fungal
-metal-resistance genes. The yeast metallothionein gene has been
-transferred into cauliflower, producing cadmium-tolerant transgenic
-plants that accumulated more cadmium in leaves than non-transformed
-controls. Such approaches combine the advantages of fungal metal
-detoxification mechanisms with the large [[dighton-fungal-biomass-production-aquatic-ecosystems]] of plants.
-
-See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]],
-[[mycoremediation]].

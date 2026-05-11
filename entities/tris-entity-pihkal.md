@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TRIS
 
-PIHKAL entry #175. TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #175. TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -25,7 +25,7 @@ TRESCALINE; TRISESCALINE; 3,4,5-TRIETHOXYPHENETHYLAMINE
 
 > (with 240 mg) No effects were noted at any time
 > following 240 milligrams of trisescaline. This would have been a
-> thoroughly active level of the trimethoxy counterpart, mescaline.
+> thoroughly active level of the trimethoxy counterpart, [[mescaline]].
 
 ## Extensions and Commentary
 
@@ -88,15 +88,3 @@ held at reflux on the steam bath for 1 h. After cooling back to room
 (Additional synthesis details available in source.)
 
 ## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[p-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

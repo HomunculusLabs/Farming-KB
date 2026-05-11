@@ -88,32 +88,3 @@ fungal dispersal strategies.
 The actual distance that fungal spores travel before germination varies
 enormously depending on the dispersal mechanism, spore morphology, and
 environmental conditions. While some spores can travel hundreds of kilometers
-in the atmosphere, most effective dispersal occurs over much shorter distances,
-typically meters to kilometers. This limited effective dispersal distance
-contributes to the geographic structure observed in many fungal populations
-and has important implications for [[fungal-biodiversity]], conservation, and
-the spread of fungal diseases.
-
-Spore morphology plays a critical role in dispersal efficiency. Small,
-ornamented spores with low settling velocities remain airborne longer, while
-large, smooth spores sediment more quickly. Some fungi produce spores with
-hydrophobic surfaces that resist wetting, enhancing aerial dispersal, while
-others produce spores with mucilaginous coatings that adhere to animal vectors
-or substrates.
-
-## Seasonal and Diurnal Patterns
-
-Fungal spore dispersal follows distinct seasonal and diurnal patterns. Many
-mushroom species time spore release to coincide with favorable environmental
-conditions: warm temperatures, high humidity, and gentle air currents. Spore
-concentrations in outdoor air typically peak in late summer and fall in
-temperate regions, though some species release spores year-round. Diurnal
-patterns also exist, with many fungi releasing spores during morning hours
-when humidity drops and thermals begin to form.
-
-## See Also
-
-- [[mushroom-fruiting-body-morphology]]
-- [[fungal-biodiversity]]
-- [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]

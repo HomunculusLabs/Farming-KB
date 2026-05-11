@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Mollison, B. (1988). "Permaculture: A Designers' Manual." Tagari Publications.
   - Holzer, S. (2010). "comparison-sepp-holzer-vs-biodynamic's Permaculture." Chelsea Green Publishing.
   - Harvey, M. (2011). "The Small-Scale Poultry Flock." Chelsea Green Publishing.
@@ -30,14 +31,14 @@ created: 2026-05-07
 ## Overview
 
 A duck tractor is a mobile, floorless enclosure used to house ducks on
-pasture or garden beds in a rotational pattern. Adapted from the chicken
-tractor concept popularized by Bill Mollison in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], duck
+pasture or [[natural-farming-guide-hugelkultur-mounded-garden-beds]] in a rotational pattern. Adapted from the chicken
+tractor concept popularized by [[bill-mollison]] in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], duck
 tractors allow ducks to forage on fresh vegetation and insects while
 depositing manure directly onto the soil, providing fertility, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]],
 and [[fukuoka-weed-management-and-green-manure]] in a managed, movable system.
 
 Ducks are particularly well-suited to tractor systems because of their
-foraging behavior, aquatic preferences, and lower tendency to scratch and
+[[root-foraging-behavior]], aquatic preferences, and lower tendency to scratch and
 damage plant roots compared to chickens.
 
 ## Design Principles
@@ -75,7 +76,7 @@ Several duck breeds are well-suited to tractor systems:
 - **Muscovy** — large, quiet, excellent insect forager, low water
   requirements, good meat bird, roosts on perches
 
-For pest control in garden beds, lighter breeds such as Khaki Campbell and
+[[insectary-plants-for-pest-control]] in garden beds, lighter breeds such as Khaki Campbell and
 Indian Runner are preferred because they cause less soil compaction.
 
 ## Benefits
@@ -86,56 +87,4 @@ daily. When distributed across a tractor rotation, this provides a slow-
 release fertility source equivalent to moderate compost applications.
 
 **Pest control:** Ducks are voracious consumers of slugs, snails, and
-insect pests. They are among the most effective biological controls for
-slug infestations in vegetable gardens. They also consume weed seeds, grass
-hoppers, caterpillars, and beetle larvae.
-
-**Weed management:** Ducks graze on young weed seedlings and suppress weed
-growth through trampling and consumption, reducing competition for crop
-plants.
-
-**Aerated soil:** Duck activity gently disturbs the soil surface without
-the destructive scratching behavior of chickens, improving aeration and
-water infiltration.
-
-**Integrated aquaculture:** Duck tractor systems can be combined with small
-ponds or water features, where duck manure fertilizes aquatic plants and
-feeds fish or crustaceans in polyculture setups.
-
-## Management Practices
-
-Effective duck tractor management follows rotational principles:
-
-- **Move frequency:** every 1–3 days depending on stocking density,
-  season, and vegetation recovery rate
-- **Stocking density:** 2–4 ducks per m² of tractor area for active
-  foraging; reduce density to 1–2 per m² in delicate garden beds
-- **Timing:** introduce ducks after seedlings are established (15–20 cm
-  tall) to prevent damage to young plants
-- **Seasonal adjustment:** reduce tractor time during extreme heat; ducks
-  overheat more readily than chickens
-- **[[savory-supplemental-feeding-and-winter-management]]:** provide grain or layer feed as a supplement,
-  typically 50–70% of diet from forage, 30–50% from supplemental feed
-
-## Limitations
-
-Duck tractors require more water management than [[mollison-designers-chicken-tractors-egg-production]]. Ducks
-need regular access to water for drinking and head-dipping, which creates
-wet areas that can become muddy or foul-smelling if not managed.
-
-Predator pressure is significant, particularly at night. The tractor must
-be fully enclosed and secured against digging and climbing predators.
-
-Soil compaction can occur with heavy breeds or high stocking densities on
-wet soils. Rotate more frequently or use lighter breeds on clay-heavy soils.
-
-Ducks may damage ripe strawberries, lettuce, and other low-growing crops.
-Selective placement and timing of tractor rotations are essential.
-
-## See Also
-
-- [[silvopasture]]
-- [[vermicomposting]]
-- [[hugelkultur]]
-- comfrey
-- [[dynamic-accumulators]]
+[[duggar-mushroom-insect-pests-and-fungal-diseases]]. They are among the most effective biological controls for

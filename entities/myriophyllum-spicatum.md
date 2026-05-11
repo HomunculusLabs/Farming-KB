@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Aiken, S.G., Newroth, P.R. & Wile, I. (1979). "The biology of Canadian weeds: Myriophyllum spicatum." Canadian Journal of Plant Science, 59(1), 201–215.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, Potamogeton crispus, and Elodea canadensis." Hydrobiologia, 131, 3–21.
+  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, [[potamogeton-crispus]], and [[elodea-canadensis]]." Hydrobiologia, 131, 3–21.
   - Smith, C.S. & Barko, J.W. (1990). "Ecology of Eurasian watermilfoil." Journal of Aquatic Plant Management, 28, 55–64.
   - Eiswerth, M.E. et al. (2000). "Economic analysis of watermilfoil control." Journal of Aquatic Plant Management, 38, 49–56.
 ---
@@ -23,7 +23,7 @@ sources:
 
 It is one of the most aggressive invasive aquatic plants in [[psilocybin-north-america-pacific-northwest]], where it was introduced in the 1940s and has since spread to most U.S. states and Canadian provinces.
 
-The species forms dense monospecific stands that displace native vegetation, impede recreation, and alter aquatic ecosystem function.
+The species forms dense monospecific stands that displace native vegetation, impede recreation, and alter aquatic [[dighton-mycorrhizal-diversity-ecosystem-function]].
 
 Its feathery submerged foliage and terminal emergent flower spikes make it readily identifiable in the field.
 
@@ -55,9 +55,9 @@ Flowers are small and inconspicuous, with reddish bracts and four tiny petals, a
 
 Native to Europe, temperate Asia, and North Africa, from the British Isles and Scandinavia to Japan.
 
-In North America it was first recorded in the Chesapeake Bay area around 1942, likely introduced via ballast water or the aquarium trade.
+In [[guzman-psilocybin-mushrooms-north-america]] it was first recorded in the Chesapeake Bay area around 1942, likely introduced via ballast water or the aquarium trade.
 
-It now occurs in 45 U.S. states, most Canadian provinces, and has spread to parts of South America, Australia, and New Zealand.
+It now occurs in 45 U.S. states, most Canadian provinces, and has spread to parts of [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 The species colonizes a broad range of freshwater habitats including lakes, ponds, reservoirs, slow rivers, and irrigation canals.
 
@@ -83,55 +83,8 @@ Boat propellers, water currents, and waterfowl are the primary vectors for fragm
 
 Chemical allelopathy has been documented, with *M. spicatum* releasing polyphenols that inhibit the growth of competing algae and macrophytes.
 
-Decomposition of massive seasonal die-offs can deplete dissolved oxygen, leading to localized fish kills.
+Decomposition of massive seasonal die-offs can deplete [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]], leading to localized fish kills.
 
 ## Human Uses
 
 Despite its invasive status, *M. spicatum* has been investigated for phytoremediation of water contaminated with heavy metals and nutrients.
-
-The plant efficiently accumulates nitrogen, phosphorus, and certain heavy metals including lead and cadmium from contaminated water.
-
-Harvested biomass has been tested as feedstock for biogas production through [[biogas-digester-basics]].
-
-In its native range the species is a component of balanced aquatic plant communities and is not considered problematic.
-
-Some aquarium hobbyists cultivate it in controlled settings, though this practice is discouraged or prohibited in regions where it is invasive.
-
-The plant has limited traditional medicinal use in European folk herbalism, primarily as a poultice for skin ailments.
-
-## Cultivation and Control
-
-Cultivation is discouraged or illegal in many jurisdictions due to the species' invasive potential.
-
-In its native range it can be propagated from stem fragments in outdoor ponds or large aquaria with full-spectrum lighting.
-
-Control of invasive populations relies on an integrated approach combining mechanical, chemical, and biological methods.
-
-Mechanical harvesting with aquatic weed cutters provides immediate relief but promotes fragmentation and regrowth if not repeated.
-
-Herbicide treatments using 2,4-D, diquat, or fluridone are effective but raise concerns about non-target impacts on native plants.
-
-The milfoil weevil (*Euhrychiopsis lecontei*) is a specialist herbivore that has been deployed as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent in North America.
-
-Benthic barrier mats placed on lake bottoms can suppress established beds by blocking light to rooted plants.
-
-Prevention through boat inspection and decontamination programs is considered the most cost-effective management strategy.
-
-## Reproductive Biology
-
-[[fungal-life-cycles-sexual-reproduction-metamorphosis]] in *M. spicatum* produces small flowers above the water surface on emergent spikes. Pollination occurs primarily by wind, though insect visitation has also been documented. Seed production is variable and often low compared to vegetative output.
-
-Seeds are minute and lack specialized dispersal structures, limiting natural seed-based spread. Germination rates under laboratory conditions range from 10–60% depending on temperature and light regimes. Seed banks in sediments can persist for several years.
-
-Vegetative propagation dominates population expansion. Autochory (self-fragmentation) occurs when senescing stems break apart, releasing viable fragments. Allochory (external transport) via water currents, boats, and animals is the primary mechanism of long-distance dispersal.
-
-## See Also
-
-- [[myriophyllum-verticillatum]]
-
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[azolla-filiculoides]]
-- [[nymphaea-alba]]
-- [[pontederia-cordata]]
-- wetland

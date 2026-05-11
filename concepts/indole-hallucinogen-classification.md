@@ -9,7 +9,7 @@ chemically and hence ideal molecules for [[arbuscule-isolation-metabolic-activit
 world of organic life.
 
 The indole hallucinogens represent one of the most pharmacologically and
-culturally significant classes of psychoactive substances. Terence McKenna,
+culturally significant classes of [[cultural-evolution-and-psychoactive-substances]]. [[terence-mckenna]],
 in "Food of the Gods," identified four principal [[four-families-of-indole-hallucinogens]]
 hallucinogens that occur in plants and have been used by humans for visionary
 and spiritual purposes.
@@ -39,7 +39,7 @@ rare in nature. That they are the best known of the hallucinogens is
 undoubtedly due to the fact that millions of doses of LSD were manufactured
 and sold during the 1960s.
 
-LSD (lysergic acid diethylamide) is a semi-synthetic derivative of lysergic
+LSD ([[lsd-d-lysergic-acid-diethylamide]]) is a semi-synthetic derivative of lysergic
 acid, which occurs naturally in ergot. LSD is extraordinarily potent, active
 at doses measured in micrograms. While it is a psychedelic, relatively large
 doses are necessary to elicit the full hallucinogenic "paradis artificiel" of
@@ -68,9 +68,9 @@ to 15 minutes but can feel subjectively much longer. When taken orally with
 a monoamine oxidase inhibitor (MAOI), as in ayahuasca, the effects last
 several hours.
 
-Psilocybin and psilocin occur in mushrooms of the genera Psilocybe,
+[[hplc-analysis-of-psilocybin-and-psilocin]] occur in mushrooms of the genera Psilocybe,
 Panaeolus, Conocybe, Copelandia, and Inocybe. They are structurally similar
-to serotonin and act primarily as 5-HT2A receptor agonists. Psilocybin is
+to serotonin and act primarily as 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]. Psilocybin is
 the phosphate ester of psilocin and serves as a prodrug, converted to the
 active psilocin in the body.
 
@@ -84,53 +84,7 @@ break down DMT-type hallucinogens before they can take effect.
 This MAO inhibition allows beta-carbolines to be used in conjunction with
 DMT to prolong and intensify visual hallucinations. This combination is the
 basis of the hallucinogenic brew ayahuasca (also called yagé or hoasca) in
-use throughout Amazonian South America.
+use throughout Amazonian [[guzman-psilocybin-mushrooms-south-america]].
 
 The primary plant sources of beta-carbolines in ayahuasca are Banisteriopsis
 caapi (which contains harmine, harmaline, and tetrahydroharmine) and
-Psychotria viridis or Diplopterys cabrerana (which contain DMT). The
-beta-carbolines also contribute their own psychoactive effects, including
-mild sedation and visual phenomena.
-
-Beta-carbolines are also found in [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue), which grows
-across arid portions of Mediterranean North Africa and the Middle East.
-Beta-carbolines were legal and virtually unknown to the general public until
-relatively recently.
-
-### 4. The Ibogaine Family
-
-These substances occur in two related African and South American tree genera,
-Tabernanthe and Tabernamontana. Tabernanthe iboga is a small, yellow-
-flowered bush with a history of usage as a hallucinogen in tropical West
-Africa, particularly among the Fang people of Gabon.
-
-The active compounds of iboga bear a [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to
-beta-carbolines. Ibogaine is known more as a powerful aphrodisiac than as a
-hallucinogen. Nevertheless, in sufficient doses it is capable of inducing a
-powerful visionary and emotional experience lasting 24 to 48 hours.
-
-Ibogaine has attracted significant scientific interest for its reported
-ability to interrupt opioid addiction and alcohol dependence, often with a
-single dose. However, ibogaine carries cardiac risks and remains largely
-unstudied in controlled clinical settings. It is classified as a Schedule I
-substance in the United States.
-
-## Pharmacological Significance
-
-McKenna argued that these four families of indole hallucinogens "may contain
-the most important and exciting information that human beings have gathered
-concerning the natural world since the long-forgotten birth of science." He
-believed that properly understood and applied, knowledge of these compounds
-could "become a compass leading us back to the lost garden world of our
-origins."
-
-The structural similarity between all four families and the endogenous
-neurotransmitter serotonin is pharmacologically significant. It is this
-similarity that allows these compounds to interact with the brain's
-serotonergic systems, producing their characteristic effects on perception,
-mood, cognition, and the sense of self.
-
-## See Also
-- [[stoned-ape-hypothesis-mckenna]]
-- [[shamanic-ecstasy-and-healing]]
-- [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]

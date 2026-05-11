@@ -87,33 +87,3 @@ establishment but increase cost for large installations. This species is
 well-suited to [[spawn-production]] at lower rates.
 
 ## Economic Considerations
-
-Grain spawn costs $10-25 per pound. At 10% spawn rate on a 10 kg block,
-spawn costs $2.20-5.50 per block. Reducing from 10% to 5% halves cost but
-may reduce yield 10-25% and extend colonization 50-100%. The economic optimum
-depends on spawn cost versus [[hallucinogenic-mushroom-market-in-europe]] value, space availability, and
-seasonal contamination pressure.
-
-## Practical Optimization Strategy
-
-1. Start at 10% to establish baseline performance
-2. After consistent success, reduce in 2% increments while tracking
-   colonization time and yield
-3. Stop when colonization exceeds your target or yields drop 10-15%
-4. Use higher rates in summer, lower in winter
-5. Vigorous, fresh [[mycelium]] at 8% outperforms old spawn at 12%
-
-## Measuring Spawn Quality
-
-- Uniform white mycelial coverage of all grain kernels
-- Strong mushroom-like aroma (no sour or moldy smells)
-- No visible contamination (green, black, or pink patches)
-- Grains remain individual and do not clump excessively
-- Use within 2-4 weeks of full colonization for best results
-
-## See Also
-
-- [[growing-gourmet-spawn-production]]
-- [[contamination-prevention-in-mushroom-cultivation]]
-- [[biological-efficiency-mushroom-cultivation]]
-- [[mycelium]]

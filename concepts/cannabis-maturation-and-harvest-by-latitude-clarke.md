@@ -37,7 +37,7 @@ Change in photoperiod is the factor that usually triggers the developmental [[qu
 - Long season from February-March through October-December
 - Short season may also exist from December-January through March-April (90-120 days)
 - In Hawaii, a third short season is sometimes used (June-September or September-December)
-- Southeast Asia, Hawaii, Mexico, Jamaica, Pakistan, Nepal, and India are all in this zone
+- [[psilocybe-southeast-asia-pacific]], Hawaii, Mexico, Jamaica, Pakistan, Nepal, and India are all in this zone
 - Some of the world's most potent Cannabis is grown in the northern subtropical zone
 
 ### Northern and Southern Temperate Zones (30-60 degrees)
@@ -88,22 +88,3 @@ Since ancient times, planting and harvest dates based on moon cycles have been o
 - Resin may still continue being secreted at equatorial and subtropical latitudes
 - Trichomes change color as resins mature (transparent to amber/opaque)
 - Calyxes swell with secreted resins
-
-### Resin Maturity
-- Peak floral stage with maximum THC and terpene production
-- As resins age, they change color; transparent amber resins indicate active biosynthesis
-- When biosynthesis ceases, resins turn opaque as cannabinoid levels decline
-- Capitate-stalked trichomes may still be elongating and secreting during peak floral stage
-
-### Environmental Factors
-- Arid conditions may increase [[cannabis-glandular-trichome-types-resin-production-clarke]] (possibly a protective response)
-- Low temperatures slow or stop resin secretion
-- The usual aim of timing harvest is ensuring high THC with the desired balance of aromatic terpenes
-
-## Related Topics
-
-- [[cannabis-harvest-and-curing]] - Harvest and curing methods
-- [[cannabis-glandular-trichome-types-resin-production-clarke]] - Trichome types and resin
-- [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-curing-storage-post-harvest-clarke]]

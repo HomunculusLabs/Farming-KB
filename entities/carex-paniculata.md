@@ -11,9 +11,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
-  - Reznicek, A.A. (2002). "Carex in North America." in Flora of North America, Vol. 23. Oxford University Press.
+  - Reznicek, A.A. (2002). "Carex in [[guzman-psilocybin-mushrooms-north-america]]." in Flora [[berry-growing]], Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
-  - Global Biodiversity Information Facility (GBIF). "Carex paniculata L." https://www.gbif.org/species/2723908
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). "Carex paniculata L." https://www.gbif.org/species/2723908
   - Davies, C.E. et al. (2004). "European Red List for Habitats." European Commission.
 ---
 
@@ -67,7 +67,7 @@ Seed production is moderate, but vegetative spread through tussock expansion is 
 
 The tussocks of Carex paniculata create critical microhabitat diversity in fen ecosystems. The elevated mounds provide dry refugia above the water table.
 
-Amphibians such as the common frog use tussock bases for overwintering shelter. Invertebrates including ground beetles and spiders colonize the tussock interior.
+Amphibians such as the common frog use tussock bases for overwintering shelter. Invertebrates including [[ground-beetles-carabidae-and-biological-pest-control]] and spiders colonize the tussock interior.
 
 The dense root mass stabilizes wetland soils and reduces erosion along watercourses. Tussocks can persist for decades or even centuries under stable conditions.
 
@@ -77,37 +77,14 @@ The species is moderately palatable to grazing livestock. Light grazing can main
 
 Carex paniculata is occasionally cultivated for large-scale wetland restoration and water garden plantings. It is available from native plant nurseries specializing in wetland species.
 
-Propagation is primarily by division of established tussocks in early spring. Seed germination requires cold stratification for 4 to 6 weeks.
+Propagation is primarily by division of established tussocks in early spring. [[cannabis-seed-germination]] requires cold stratification for 4 to 6 weeks.
 
 The species requires full sun to partial shade with consistently wet or waterlogged soils. It is hardy to USDA Zone 4.
 
-Garden and restoration uses include stormwater retention basins, constructed wetlands, and naturalistic pond margins. Its architectural tussock form provides strong visual interest.
+Garden and restoration uses include stormwater retention basins, [[comparison-constructed-wetlands-vs-bioswales]], and naturalistic pond margins. Its architectural tussock form provides strong visual interest.
 
 Maintenance is minimal in appropriate hydrological conditions. Removal of dead leaf material every few years prevents excessive thatch buildup.
 
 ## Uses and Conservation
 
 Carex paniculata has limited direct economic uses. Historically, the fibrous leaf bases were used for stuffing mattresses and upholstery in rural European communities.
-
-The species is listed as Least Concern on the IUCN Red List and has no major conservation concerns at the continental scale. However, local populations have declined significantly.
-
-Wetland drainage and agricultural intensification have reduced suitable habitat across much of its European range. In lowland England, the species has been lost from many historic fen sites.
-
-It is included in several national wetland conservation programs as a characteristic species of priority fen habitats. Restoration projects often target re-establishment of C. paniculata tussocks.
-
-The tussock structure provides a valuable model for biomimetic erosion control designs. Engineers have studied its root architecture for bioengineering applications in stream restoration.
-
-In ecological landscaping, Carex paniculata is planted in rain gardens and bioswales where its dense root system filters runoff water effectively.
-
-## See Also
-
-- [[carex-pensylvanica]]
-- [[carex-laxiflora]]
-- [[carex-sylvatica]]
-- [[juncus-effusus]]
-- [[typha-latifolia]]
-- [[schoenoplectus-lacustris]]
-- [[deschampsia-caespitosa]]
-- [[molinia-caerulea]]
-- [[spartina-alterniflora]]
-- [[bromus-inermis]]

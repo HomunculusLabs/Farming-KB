@@ -7,7 +7,7 @@ created: 2026-05-10
 
 # Landrace Sativa Varieties
 
-Landrace cannabis varieties are indigenous populations that have adapted to their
+[[cervantes-landrace-cannabis-populations]] varieties are indigenous populations that have adapted to their
 specific geographic environments over centuries or millennia of natural selection
 and traditional cultivation [[cannabis-landrace-sativa-growing-challenges]]. Unlike modern hybrid strains created through intentional
 breeding programs, landraces represent the genetic foundation from which all
@@ -34,7 +34,7 @@ original landrace stock.
 ## Southeast Asian Landraces
 
 Southeast Asia is one of the most important centers of cannabis sativa genetic
-diversity. The region's tropical climate, with consistent year-round temperatures
+diversity. The region's [[query-how-to-design-a-food-forest-for-a-tropical-climate]], with consistent year-round temperatures
 and minimal day-length variation near the equator, produced some of the most
 potent and longest-flowering sativa varieties known.
 
@@ -69,7 +69,7 @@ in California in the 1970s from a complex cross of Southeast Asian sativas
 (including Thai and possibly Cambodian) with Colombian and Mexican landrace stock.
 Haze represents the quintessential expression of sativa genetics and has become
 one of the most influential breeding lines in cannabis history, contributing
-genetics to countless modern hybrids including Amnesia Haze, Super Lemon Haze,
+genetics to countless modern hybrids including Amnesia Haze, [[oner-super-lemon-haze-greenhouse-strain-profile]],
 and many others.
 
 ## African Landraces
@@ -87,64 +87,3 @@ In the northern hemisphere, Durban Poison begins flowering in late June and
 finishes by the second half of September, well before autumn rains. This early-
 finishing trait has made Durban Poison one of the most valuable sativa parents
 in breeding, as it passes on manageable flowering times to its progeny.
-
-Durban Poison is a pure sativa with a distinctive anise-sweet aroma, energetic
-uplifting effects, and relatively compact growth for a sativa. It is one of the
-few pure landrace sativas that finishes early enough for reliable outdoor
-cultivation in northern latitudes.
-
-### Malawi
-
-Malawi Gold and related Malawian varieties originate from the highlands of Malawi
-in southeastern Africa. These are tall, vigorous plants with a reputation for
-exceptional potency and a unique, complex aroma profile. The Chunky Cherry Malawi
-documented in this guide is a cross of Deep Chunk indica with a Cherry Malawi
-parent, demonstrating how Malawian genetics are being incorporated into modern
-breeding programs.
-
-### Congolese and Swazi
-
-Congolese and Swazi varieties represent the Central and Southern African sativa
-gene pools. King Congo (from Tropical Seeds Company) is a Congolese landrace-
-based strain that grows tall with a strong, energetic effect. Swazi varieties,
-including Doobie's Malawi-Swazi crosses, are adapted to the highland conditions
-of Swaziland (Eswatini) and tend to be hardy, disease-resistant plants with a
-sweet, fruity aroma.
-
-### Kenyan
-
-Pure Africa (from Original Sensible) is described as a landrace Kenyan sativa
-from the slopes of Mount Kilimanjaro. It reportedly has a long flowering period
-(70+ days), exceptional mold resistance, and a trippy, psychedelic effect. It
-is reportedly used in religious ceremonies by some Kenyan communities and by
-hunters to achieve a concentrated mental state.
-
-## Central and South American Landraces
-
-### Colombian
-
-Colombian Gold and related Colombian varieties were among the most celebrated
-sativas of the 1970s. Colombia's tropical highland climate produced vigorous,
-potent sativas with a golden-tinged appearance and a smooth, sweet flavor. These
-varieties were major contributors to the original Haze cross and have influenced
-countless modern hybrids. The Rio Negro Colombian Sativa documented in this guide
-is a more recent example of Colombian landrace genetics in cultivation.
-
-### Mexican
-
-Mexican landraces, including Acapulco Gold, Oaxacan, and the original strains
-that gave rise to the "Trainwreck" genetics of Northern California, represent the
-northernmost expression of tropical sativa diversity in the Americas. Mexican
-varieties tend to be somewhat shorter in flowering time than equatorial sativas
-due to Mexico's more northern latitude and more pronounced seasonal changes.
-
-### Panamanian
-
-Panama Red and related Panamanian varieties were legendary in the 1970s for
-their extraordinary potency. DJ Short described Panama Red as "the tequila of
-weed," noting its borderline hallucinogenic effects. The real deal Panama Red
-clone was reportedly worth $5,000 in the early 1980s but has been largely lost
-to cultivation, with only watered-down versions surviving in seed form.
-
-## The Importance of Preservation
-

@@ -1,5 +1,5 @@
 ---
-title: White-Rot Fungi and Lignin-Modifying Enzymes in Bioremediation
+title: Singh White Rot Fungi Lignin Modifying Enzymes Bioremediation
 created: 2026-04-26
 tags:
   - white-rot-fungi
@@ -20,7 +20,7 @@ type: concept
 
 White-rot fungi (WRF) are a functional group of basidiomycetes and
 some ascomycetes capable of degrading lignin, the complex aromatic
-polymer that confers structural rigidity to plant cell walls. Their
+polymer that confers structural rigidity to plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Their
 lignin-degrading enzyme system (LiP, MnP, laccase) is nonspecific
 and can oxidize a vast array of xenobiotic compounds. The Singh source
 positions WRF as the most versatile group of organisms for
@@ -71,73 +71,19 @@ the most broadly distributed lignin-modifying enzymes, found not only
 in WRF but also in ascomycetes, plants, bacteria, and insects:
 
 - Directly oxidizes phenolic substrates; oxidation of non-phenolic
-  substrates requires redox mediators (HBT, ABTS, natural mediators
+  substrates requires [[fungal-laccase-redox-mediators]] (HBT, ABTS, natural mediators
   like syringaldehyde).
 
 - Operates at near-neutral pH in many species, making it suitable
   for in situ soil and water applications.
 
-- Catalyzes both polymerization (useful in dye decolorization) and
+- Catalyzes both polymerization (useful in [[fungal-laccase-and-textile-dye-decolorization]]) and
   depolymerization of aromatic pollutants.
 
 - [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] laccase is among the most studied for
-  bioremediation applications.
+  [[fungi-in-the-environment-bioremediation-applications]].
 
 ## Hydrogen Peroxide Production
 
 All peroxidase-dependent systems require H2O2 as a co-substrate. WRF
 generate H2O2 through several metabolic pathways:
-
-- Extracellular oxidases (e.g., glyoxal oxidase, aryl alcohol
-  oxidase) produce H2O2 during oxidation of primary metabolites.
-
-- The Mn(II)/Mn(III) redox couple can generate H2O2 through
-  dismutation reactions.
-
-- Intracellular peroxisomal oxidases contribute to the H2O2 pool
-  that diffuses to [[dighton-fungal-extracellular-enzyme-systems-decomposition]] sites.
-
-Regulation of H2O2 supply is a critical control point for the
-overall oxidative capacity of the ligninolytic system.
-
-## Radical-Based Degradation Mechanism
-
-The defining feature of WRF bioremediation is radical-mediated
-degradation. Unlike specific bacterial catabolic enzymes that
-attack particular chemical bonds, WRF generate highly reactive
-oxygen species and organic radicals that attack multiple sites on
-the target molecule simultaneously:
-
-- One-electron oxidation produces aryl radicals that undergo
-  non-enzymatic reactions including ring opening, coupling,
-  and further oxidation.
-
-- This nonspecificity enables WRF to degrade complex mixtures of
-  pollutants, including creosote, coal tar, pesticide formulations,
-  and dye-containing effluents.
-
-- The trade-off is incomplete mineralization; WRF may generate
-  transient intermediates that require subsequent microbial attack
-  for complete degradation to CO2.
-
-## Environmental Factors
-
-- Carbon and nitrogen limitation typically induce ligninolytic
-  enzyme production (secondary metabolism).
-
-- Oxygen availability is essential; WRF are obligately aerobic.
-
-- Temperature optima are generally 25-30 degrees Celsius, though
-  thermotolerant species extend this range.
-
-- Moisture content affects hyphal growth and enzyme diffusion
-  in soil matrices.
-
-## See Also
-
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
-- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-- basidiomycete fungi [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]] cleanup
-- fungal enzyme systems environmental applications
-- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

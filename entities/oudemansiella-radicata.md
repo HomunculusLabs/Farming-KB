@@ -7,7 +7,7 @@ tags:
   - agaricales
   - edible
   - saprotrophic
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -24,7 +24,7 @@ sources:
 Oudemansiella radicata, the rootlet shank, is a saprotrophic basidiomycete
 in the family Physalacriaceae, distinguished by its deeply rooting stipe,
 viscid brown cap, and preference for decaying hardwood stumps and buried roots.
-Found across temperate regions of the Northern Hemisphere, it is edible when
+Found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, it is edible when
 thoroughly cooked and produces oudemansins — antifungal strobilurin-related
 compounds that have served as lead structures for synthetic agricultural fungicides.
 
@@ -86,41 +86,5 @@ The epithet *radicata* refers to the characteristically long rooting stipe.
 ## Bioactive Compounds
 
 - **Oudemansin A and B:** Strobilurin-related antifungal agents that disrupt
-  mitochondrial electron transport in competing fungi via inhibition of complex III
+  mitochondrial [[electron-transport-chain-mitochondrial-respiration]] in competing fungi via inhibition of complex III
   (cytochrome bc1). These served as lead structures for synthetic agricultural
-  fungicides including azoxystrobin and kresoxim-methyl.
-- **Polysaccharides:** β-glucan fractions with reported immunomodulatory activity
-  in preliminary in vitro studies.
-
-## Edibility and Culinary Use
-
-- **Edibility:** Edible when thoroughly cooked
-- **Flavor:** Mild to slightly nutty; texture tender in caps, fibrous in stipe
-- **Preparation:** Use caps of young specimens; remove tough rooting base
-- **Rating:** Moderate — suitable for mixed mushroom dishes, soups, and stews
-- ⚠️ **Caution:** Always positively identify before consumption
-
-## Ecological Role
-
-- **[[bloomfield-wood-decay-fungi-spalted-timber]] type:** [[comparison-brown-rot-vs-white-rot-bioremediation]] — degrades both cellulose and lignin via
-  peroxidase and laccase enzyme systems
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Mobilizes carbon and nitrogen from woody substrates
-- **Soil interactions:** Deep rooting stipe colonizes buried wood inaccessible
-  to surface-decomposing fungi
-
-## Permaculture Applications
-
-- **Stump [[permaculture-design]]
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| Oudemansiella canarii | Larger, more robust; tropical distribution |
-| Oudemansiella mucida | On living beech; thick glutinous slime on cap |
-| [[armillaria-mellea-entity]] | Clusters, rhizomorphs, bitter taste |
-
-## See Also
-
-- armillaria mellea — Related wood-decomposing agaric
-- [[xylaria-polymorpha-entity]] — Competing wood-decomposing fungus

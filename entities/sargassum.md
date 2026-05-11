@@ -26,7 +26,7 @@ sources:
 containing over 350 described species distributed across tropical and temperate
 oceans. The genus is unique among large seaweeds in including both benthic
 attached species and **holopelagic** (free-floating) species that complete their
-entire life cycle without ever attaching to substrate.
+entire [[agaricus-campestris-biology-and-life-cycle]] without ever attaching to substrate.
 
 Two holopelagic species, *S. natans* and *S. fluitans*, form the iconic
 **Sargasso Sea** in the North Atlantic — the only sea defined by ocean currents
@@ -88,56 +88,3 @@ species found nowhere else, including the Sargassum fish (*Histrio histrio*),
 Sargassum crab (*Planes minutus*), and Sargassum shrimp (*Latreutes fucorum*).
 
 Since 2011, the Great Atlantic Sargassum Belt has generated massive
-environmental and economic impacts. Beach strandings of up to 20,000 tonnes
-along single coastlines have harmed tourism, caused fish kills through
-hypoxia, and released hydrogen sulfide gas as decomposing biomass accumulates.
-
-The drivers of recent bloom expansion are debated but likely include increased
-nutrient discharge from the Amazon and Orinoco rivers driven by deforestation
-and agricultural runoff, combined with warming sea surface temperatures.
-
-## Chemistry and Bioactive Compounds
-
-Sargassum species produce **fucoidan**, a sulfated polysaccharide with
-demonstrated anticoagulant, antiviral, and immunomodulatory activities. Fucoidan
-content ranges from 5% to 20% of dry weight depending on species and season.
-
-**Phlorotannins** are polyphenolic compounds unique to brown algae that exhibit
-strong antioxidant activity. Sargassum-derived phlorotannins have shown
-cytotoxic effects against several cancer cell lines in vitro.
-
-**Alginate**, a structural polysaccharide, constitutes 20–40% of dry weight.
-Alginate from Sargassum has applications in food processing, wound dressings,
-drug delivery systems, and as a heavy metal biosorbent in water treatment.
-
-The genus also accumulates **fucoxanthin**, a carotenoid pigment with
-anti-obesity and antidiabetic properties demonstrated in animal studies.
-
-## Applications
-
-Sargassum biomass has been investigated for multiple commercial applications.
-**Alginate extraction** is the most established industrial use, with the
-polysaccharide used as a thickener, gelling agent, and stabilizer in food and
-pharmaceutical products.
-
-**Animal feed** incorporation has been studied as a strategy to manage
-stranded biomass. Dried Sargassum can replace up to 10% of conventional feed
-in ruminant and poultry diets, though high iodine and arsenic content require
-careful processing to ensure safety.
-
-**Bioremediation** potential is significant — Sargassum efficiently absorbs
-[[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] (lead, cadmium, copper) and excess nutrients from contaminated
-water. This has been applied in [[comparison-constructed-wetlands-vs-bioswales]] and [[fungal-industrial-wastewater-treatment]]
-treatment systems.
-
-**Biofuel** production via [[biogas-digester-basics]] or hydrothermal liquefaction
-converts Sargassum biomass to biogas or bio-oil. The relatively low lignin
-content of seaweed compared to terrestrial biomass makes it favorable for
-bioconversion processes.
-
-## See Also
-
-- [[saccharina-latissima]]
-- [[laminaria-digitata]]
-- [[arthrospira-platensis]]
-- [[gracilaria]]

@@ -59,7 +59,7 @@ N. villosa is endemic to two mountains in Sabah, Malaysian Borneo: Mount Kinabal
 
 The species grows on ultramafic (serpentine) rock and soils derived from ultramafic parent material. These substrates are typically deficient in major nutrients but rich in [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] such as nickel and chromium, which most plants cannot tolerate.
 
-Habitat types include subalpine scrubland, mossy upper montane forest, and exposed ridgelines above the cloud forest zone. Plants are often found growing among stunted shrubs, mosses, and ferns in areas of persistent fog and high rainfall.
+Habitat types include subalpine scrubland, mossy upper montane forest, and exposed ridgelines above the [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]] zone. Plants are often found growing among stunted shrubs, mosses, and ferns in areas of persistent fog and high rainfall.
 
 Annual precipitation in the habitat exceeds 3000 mm, distributed throughout the year. Temperatures range from approximately 5°C at night to 15°C during the day, with near-constant humidity. These conditions are among the coolest experienced by any Nepenthes species.
 
@@ -88,32 +88,3 @@ Several species of invertebrates inhabit the pitchers of N. villosa as part of t
 Mutualistic relationships with ants have been documented for some Nepenthes species, where ants feed on nectar and fallen prey without being trapped. Similar relationships may exist for N. villosa, though specific studies are lacking.
 
 Mount Kinabalu is a UNESCO World Heritage Site, providing legal protection for N. villosa and its habitat. The species is also protected under Malaysian law, and collection from the wild is prohibited without permits.
-
-The altitudinal restriction of N. villosa means that even modest temperature increases could eliminate suitable habitat on both mountains. Conservation efforts focus on habitat preservation and monitoring of population trends.
-
-## Cultivation
-
-N. villosa is considered one of the most challenging Nepenthes species to cultivate, requiring consistently cool conditions that are difficult to maintain in most climates. Nighttime temperatures below 15°C are essential for long-term health.
-
-Highland greenhouse setups with automated cooling systems are typically required. Some success has been achieved using ultrasonic foggers and [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] to maintain the cool, humid conditions the species demands.
-
-Standard Nepenthes substrates of sphagnum moss or long-fiber sphagnum work well. The species benefits from the addition of perlite or pumice for drainage. Fertilization is generally unnecessary and can be harmful.
-
-Plants grow slowly in cultivation, often taking several years to produce mature pitchers. Flowering is rare, and [[cervantes-seed-production-storage]] in cultivation is uncommon. Vegetative propagation through stem cuttings is the primary method of increase.
-
-N. villosa is available from specialist nurseries but commands high prices due to its slow growth and cultivation difficulty. Tissue-cultured plants have become more available in recent years, making the species somewhat more accessible.
-
-Pest problems are minimal in cultivation, with mealybugs and scale being the most common issues. The cool growing conditions that the species requires tend to suppress most common greenhouse pests.
-
-## See Also
-
-- [[nepenthes-lowii]]
-- [[nepenthes-rajah]]
-- [[nepenthes-thorelii]]
-- [[drosera-regia]]
-- [[heliamphora-nutans]]
-- [[cephalotus-follicularis]]
-- [[darlingtonia-californica]]
-- [[pinguicula-moranensis]]
-- [[drosophyllum-lusitanicum]]
-- [[aldrovanda-vesiculosa]]

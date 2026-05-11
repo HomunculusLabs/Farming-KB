@@ -88,33 +88,3 @@ Cicutoxin is the principal toxic principle:
 ⚠️ **Toxicity profile:** Onset of symptoms within 15–60 minutes; nausea, vomiting,
 abdominal pain, followed by generalized tonic-clonic seizures. Death typically
 results from respiratory arrest during status epilepticus. Survivors may suffer
-persistent neurological damage.
-
-## Toxicology and Clinical Significance
-
-- **Livestock:** Cattle and sheep are most commonly affected; mortality rate
-  exceeds 70% in untreated cases. Most poisonings occur in spring when
-  palatable new growth emerges before other forage is available
-- **Humans:** Children are at highest risk due to the hollow-stem "peashooter"
-  play behavior. Adults most often poisoned through misidentification of the
-  root as wild parsnip or ginseng
-- **Treatment:** No specific antidote; aggressive supportive care including
-  benzodiazepines for seizure control, activated charcoal if early presentation,
-  and airway management. Recovery is possible with rapid intervention
-
-## Ecological Role
-
-Despite its toxicity, *C. maculata* plays ecological roles:
-
-- **Pollinator resource:** Flowers attract numerous generalist pollinators
-  (syrphid flies, small bees, wasps, beetles) that are unaffected by the toxins
-- **Wetland indicator:** Presence indicates hydric soil conditions; useful in
-  wetland delineation surveys
-- **Avian resistance:** Birds are largely immune to cicutoxin and consume
-  the fruits, contributing to seed dispersal
-
-## See Also
-- [[dactylorhiza-maculata]]
-- [[digitalis-purpurea]]
-- [[nicotine]]
-- [[natives-vs-exotics]]

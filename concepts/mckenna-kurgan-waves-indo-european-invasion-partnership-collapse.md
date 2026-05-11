@@ -1,5 +1,5 @@
 ---
-title: Kurgan Waves and the Indo-European Collapse of dominator-culture-and-partnership-society
+title: Mckenna Kurgan Waves [[mckenna-vedic-soma-indo-european-mysteries]] Invasion Partnership Collapse
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, indo-european, kurgan, gimbutas, partnership-society, dominator-culture, archaeology, cultural-evolution]
 date: 2026-04-28
@@ -25,7 +25,7 @@ Their archaeological signature includes horse remains, wheeled vehicles, weapons
 
 The Old European cultures produced sophisticated ceramics with organic, flowing designs. Their burials were egalitarian, with no marked differentiation between individuals based on wealth or status. Temples and shrines dominated the [[artillery-fungus-and-built-environment-fungi]] rather than fortifications or military installations.
 
-Gimbutas's reconstruction of Old European religion revealed a sophisticated symbolic system centered on the female body, natural cycles of birth and death, and the regeneration of life. The transition marked by the Kurgan invasions was a fundamental transformation in the human relationship to the sacred.
+Gimbutas's reconstruction of Old European religion revealed a sophisticated symbolic system centered on the female body, natural cycles of birth and death, and the regeneration of life. The transition marked by the [[qatal-huyuk-kurgan-invasions-fall-of-partnership-society]] was a fundamental transformation in the human relationship to the sacred.
 
 ## Eisler's Chalice and the Blade
 
@@ -88,43 +88,3 @@ The domestication of the horse and discovery of the wheel allowed Indo-European 
 Plunder replaced pastoralism. Mead cults completed the already well-advanced process of supplanting mushroom use. Human god-kings replaced the religion of the Goddess. The orgiastic psychedelic religion was anathema to the new dominator values.
 
 ## The Melange After 2500 B.C.
-
-What developed after the Kurgan invasions was a melange of two mythic systems, Old European and Indo-European. The female deities were largely replaced by predominantly male divinities, but certain elements of the older Goddess worship persisted.
-
-The persistent cult of Mary in Christianity, the fervor reserved for Kali in Hinduism, and the concept of the divine Purusha all represent survivals of the older partnership tradition. But the underlying partnership model was fundamentally subordinated to dominator values.
-
-## The Mushroom as Third Member of the Trinity
-
-McKenna contends that the mushroom was recognized as the third and hidden member of a shamanic trinity alongside the Goddess and her cattle. The mushroom was seen to be as much a product of cattle as milk, meat, and manure.
-
-It was recognized very early as the physical connection to the presence of the Goddess. This is the secret that was lost some six thousand years ago at the eclipse of Qatal Huyuk. The crucial difference between [[partnership-and-dominator-models]] societies, for McKenna, was the depth of each culture's relationship to gnosis through plant hallucinogens.
-
-## The Vegetable Mind and Gaian Holism
-
-The mainstream of Western thought ceased to be refreshed by the gnosis of boundary-dissolving plant hallucinogens long before the close of the Minoan Era. The consequence of that severed connection is the modern world, a planet dying under moral anesthesia.
-
-McKenna argues that understanding planetary purpose may be the major contribution humanity can make to the evolutionary process. Returning to the planetary partnership style means trading the point of view of the egoistic dominator for the intuitional, feeling-toned understanding of the maternal matrix.
-
-## The Vulture Symbolism Debate
-
-Of the vulture motifs found at Qatal Huyuk, Settegast observed that if the vulture theme entered at Level VIII with pre-dynastic style flint daggers and possibly Sahara-Sudanese-related ceramics, the chance that some Anatolian vulture symbolism was actually African cannot be ruled out. This finding supports the broader argument that peoples and cultural institutions long established in Africa were entering and flourishing in the Near Eastern environment.
-
-The conclusion that African cultural traditions were flowering in Anatolia is logical and difficult to avoid. The most common motifs at Qatal, cattle, bulls, vultures, and leopards, are all animals of the African grasslands rather than the Anatolian plateau. Their presence in the iconography of Qatal Huyuk is an echo of the beautiful and sensitive renderings of cattle that typify the Tassili art.
-
-## The Crucial Difference: Depth of Gnosis
-
-McKenna asks the critical question that Eisler's framework raises but does not fully answer: what factor maintained the equilibrium of partnership societies and then faded, setting the stage for the emergence of the dominator model? His answer is the depth of a human group's relationship to the gnosis of the Transcendent Other.
-
-The depth of connection to the Gaian collectivity of organic life determines the strength of the group's connection to the archetype of the Goddess and hence to the partnership style. This assumption is based on observation of shamans in the Amazon and on the impact of plant hallucinogens on his own psychology and that of his peers.
-
-## Suppression of the Feminine and Natural Knowledge
-
-The consequence of the severed connection to the vegetable mind is the modern world, a planet dying under moral anesthesia. Suppression of the feminine and of knowledge of the natural world has been the hallmark of the intervening centuries. The next evolutionary step must involve not only a repudiation of dominator culture but a rebirth of awareness of the Goddess through the vegetable mind.
-
-The medieval Church conducted the great witch burnings to suppress all knowledge of plants such as thorn apple, [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]], and monkshood. The role of these plants in nocturnal activities was never stressed in Inquisition accounts, because the Church had no interest in a Devil diminished to relying on mere herbs. A natural explanation for phenomena attributed to demonic possession would have reduced the Devil to a carnival conjurer.
-
-## See Also
-
-- [[rig-veda-soma-hymns-amanita-muscaria]]
-- [[mckenna-archaic-sexuality-and-partnership-society]]
-- [[terence-mckenna]]

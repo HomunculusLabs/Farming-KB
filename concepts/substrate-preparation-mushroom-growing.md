@@ -12,19 +12,19 @@ type: concept
 
 # Substrate Preparation for Mushroom Growing
 
-Substrate is the material used to grow mushrooms, consisting of a mixture
+Substrate is the material used [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]], consisting of a mixture
 of all ingredients or "food" necessary for mushroom development. Proper
 substrate preparation is one of the most critical steps in mushroom
 cultivation, directly affecting yield, quality, and disease resistance.
 Although sawdust is the most common base material, other lower-cost
-alternatives exist particularly in regions with intensive rice cultivation.
+alternatives exist particularly in regions with intensive [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]].
 
 ## Choosing the Base Material
 
 ### Sawdust Substrate
 
 Sawdust is the most common and easy-to-use basic material for mushroom
-substrate bags. It is widely available and straightforward to process.
+[[oil-drum-sterilizer-mushroom-substrate-bags]]. It is widely available and straightforward to process.
 
 ### Rice Straw Substrate
 
@@ -37,11 +37,11 @@ availability, it may be better suited than sawdust in some areas.
 
 ## Rice Straw Preparation Process
 
-Rice straw substrate preparation involves a multi-step fermentation
+Rice [[jarrold-straw-substrate-preparation-marmite-supplementation]] involves a multi-step fermentation
 process:
 
 1. **Grinding** - Put straw in a grinder to reduce its size.
-2. **Initial fermentation** - Soak 100 kg paddy straw with water and
+2. **Initial fermentation** - Soak 100 kg [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] with water and
    mix with 1 to 2 percent urea by weight. Ferment for 3 days.
 3. **Lime treatment** - Turn over the pile, mix with 2 percent lime,
    and ferment for another 3 days.
@@ -64,7 +64,7 @@ The standard sawdust-based substrate recipe per 100 kg sawdust base:
 - **0 to 1 kg** Sugar (optional)
 
 This recipe serves as a reference and can be modified by adding rice
-flour, sticky rice flour, corn flour, cassava peels, cotton waste, soybean
+flour, sticky [[brown-rice-flour-substrate]], corn flour, cassava peels, cotton waste, soybean
 residue, and other nutritious [[fungi-in-composting-and-agricultural-waste-conversion]]. In [[greenhouse-cool-climates-mollison]],
 additives up to 20 percent are acceptable. For hot [[permaculture-designers-manual-climatic-zones-tropical]], do not
 exceed 7.5 percent additives.
@@ -88,41 +88,3 @@ exceed 7.5 percent additives.
     bottom of the bag without touching the bottom.
 11. **Check weight** - Each bag should weigh between 800 and 1,000 grams.
 12. **Close with plastic cap** containing cotton for filtration.
-13. **Transfer to racks** (9 bags per rack) and move to pasteurization.
-
-## Country-Style Pasteurization
-
-1. Use 200-liter drums as steaming pots with firewood.
-2. Place an iron or wooden screen about 1 inch above water level.
-3. Fill with 80 to 100 bags and cover with double layers of old rice
-   bags, then plastic sheeting tied tightly.
-4. Light fire and maintain temperature at 90 to 100 degrees C for 3 to 4
-   hours from when steam starts coming out continuously.
-5. Ensure temperature remains constant and water is always in the drum.
-6. Remove firewood and let cool for approximately 20 minutes.
-7. Remove covers and let cool further before transferring to inoculation.
-
-## Commercial Pasteurization
-
-Commercial systems use dedicated chambers with temperature monitoring.
-The chamber is loaded with iron racks, sealed, and steam is applied. A
-full commercial pasteurization cycle must reach and maintain proper
-temperature to ensure complete sterilization of all bags.
-
-## Inoculation Process
-
-Inoculation must be done with extreme caution near an alcohol lamp flame.
-The process involves transferring sterilized sorghum seed spawn into each
-bag in a clean environment. After inoculation, bags are labeled with date,
-spawn reference number, and inoculation time. Bags then move to the
-incubation house where mycelium growth takes 10 to 15 days depending on
-species.
-
-## Related Concepts
-
-- [[mushroom-house-design-management]]
-- [[buildings-tools-equipment-mushroom-cultivation]]
-
-## See Also
-
-- [[mushroom-cultivator-substrate-preparation]]

@@ -88,12 +88,3 @@ Creeping juniper is secure across most of its range and is not considered threat
 ## See Also
 
 - [[juniperus-communis]]
-- [[juniperus-scopulorum]]
-- [[juniperus-virginiana]]
-- [[pinus-banksiana]]
-- arctostaphylos-uva-ursi
-- [[picea-mariana]]
-- [[picea-glauca]]
-- [[larix-laricina]]
-- [[pinus-ponderosa]]
-- [[abies-balsamea]]

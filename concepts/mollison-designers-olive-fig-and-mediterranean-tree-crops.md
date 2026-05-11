@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,26 +88,3 @@ multiple yields:
 - **Pod uses**: Carob pods are nutritious animal fodder (high sugar and
   protein), a chocolate substitute in food processing, and a source of
   alcohol [[oyster-mushroom-shelf-fermentation-substrate-preparation]].
-- **Soil improvement**: Leaf litter is rich in minerals; the root system
-  improves soil structure on rocky hillsides.
-- **Frost sensitivity**: Limits carob to frost-free Mediterranean and
-  subtropical zones. Requires warm winters for pod set.
-
-### Carob in Landscape Design
-Mollison positions carob as a key species for mollison-bee-forage-design critical. Plant
-  multiple varieties for cross-pollination.
-- **Guild companions**: Understorey of rosemary, thyme, and clover; nurse
-  trees of carob or olive for [[cervantes-wind-protection-outdoor-cannabis]].
-
-## Pomegranate (Punica granatum)
-
-Pomegranates are exceptionally well-adapted to hot, dry Mediterranean
-conditions and offer multiple design benefits:
-## See Also
-- [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]
-- [[ceratonia-siliqua]]
-- [[permaculture-design]]
-- [[vitis-vinifera]]
-- [[olea-europaea]]
-
-- [[holzer-fig-and-mediterranean-species]]

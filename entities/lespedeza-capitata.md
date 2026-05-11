@@ -15,7 +15,7 @@ sources:
   - Great Plains Flora Association (1986). Flora of the Great Plains. University Press of Kansas.
   - Isely, D. (1990). Vascular Flora of the Eastern United States, Vol. 3, Part 2. New York Botanical Garden Press.
   - USDA NRCS (2024). "Plant Guide: Roundhead lespedeza." USDA Natural Resources Conservation Service.
-  - Millar, B.D. & Baden, C. (2015). "Lespedeza." In: Flora of North America North of Mexico, Vol. 10. Oxford University Press.
+  - Millar, B.D. & Baden, C. (2015). "Lespedeza." In: Flora [[berry-growing]] North of Mexico, Vol. 10. Oxford University Press.
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ sources:
 
 It is native to eastern and central North America, ranging from Quebec and Ontario south to Georgia and Texas.
 
-The species is valued in native plantings, prairie restoration, and wildlife habitat improvement for its hardiness, nitrogen-fixing capability, and high seed production.
+The species is valued in native plantings, [[comparison-prairie-restoration-vs-silvopasture]], and [[hemenway-backyard-wildlife-habitat]] improvement for its hardiness, nitrogen-fixing capability, and high [[cannabis-controlled-pollination-seed-production]].
 
 Roundhead lespedeza provides excellent forage for deer, rabbits, and upland game birds, and serves as a host plant for several butterfly species.
 
@@ -42,7 +42,7 @@ Flowers are produced in dense, rounded terminal clusters 1–2 cm in diameter. I
 
 The calyx is deeply lobed and becomes hardened at maturity. Flowering occurs from July through September.
 
-Fruit is a small, one-seeded legume (loment) 3–4 mm long, flattened, and reticulated. The segments separate at maturity, aiding in seed dispersal.
+Fruit is a small, one-seeded legume (loment) 3–4 mm long, flattened, and reticulated. The segments separate at maturity, aiding in [[clay-pellet-seed-dispersal]].
 
 ## Distribution and Habitat
 
@@ -70,7 +70,7 @@ The plant serves as a larval host for several butterfly species, including the e
 
 In prairie ecosystems, roundhead lespedeza contributes to plant diversity and provides structural habitat within mixed grass-forb communities.
 
-Its late-season flowering makes it an important nectar source for native bees and other pollinators when many other prairie species have finished blooming.
+Its late-season flowering makes it an important nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]] other pollinators when many other prairie species have finished blooming.
 
 ## Cultivation and Uses
 
@@ -87,24 +87,3 @@ In pasture systems, it provides moderate forage quality with crude protein conte
 Native Americans traditionally used the plant for medicinal purposes. The Cherokee used an infusion of leaves for diarrhea, and the Delaware applied poultices of bruised leaves to wounds.
 
 Some contemporary herbal traditions use the aerial parts for their purported anti-inflammatory and diuretic properties, though clinical evidence is limited.
-
-## Related Species
-
-**Lespedeza capitata** is one of approximately 40 species in the genus, most of which are native to eastern Asia or North America.
-
-It is most closely related to other North American Lespedeza species such as L. cuneata (sericea lespedeza), L. hirta (hairy bush clover), and L. procumbens (trailing lespedeza).
-
-Unlike the weedy and invasive L. cuneata, L. capitata is a desirable native component of prairie communities and does not exhibit aggressive colonization behavior.
-
-The genus Lespedeza also includes the annual species L. striata (common lespedeza) and L. virginica, which are smaller and less woody in habit.
-
-## See Also
-
-- [[lespedeza-cuneata]]
-- [[desmodium-canadense]]
-- [[desmodium-paniculatum]]
-- [[trifolium-pratense]]
-- [[baptisia-australis]]
-- [[robinia-pseudoacacia]]
-- [[vicia-cracca]]
-- [[caragana-arborescens]]

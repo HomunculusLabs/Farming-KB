@@ -35,7 +35,7 @@ tissue, and so on. Most remarkably, Abrams found he could diagnose
 patients from a single drop of blood, and even determine over telephone
 wires from miles away.
 
-His crowning insight was that quinine molecules emitted radiations
+His crowning insight was that [[quinine]] molecules emitted radiations
 that exactly canceled those from malarial molecules. Mercury canceled
 syphilis. This suggested that radiations from antidotes could be used
 to destroy disease-causing oscillations -- leading to the invention of
@@ -88,28 +88,3 @@ green and were anemic and drooping.
 This led Hieronymus to conclude that whatever caused the development of
 chlorophyll in plants was not sunlight itself but something associated
 with it -- transmittable over wires. He coined the term "eloptic
-energy" to describe this force: "Energy obeying some of the laws of
-electricity but not all of them, and some of the laws of optics, but
-not all of them." Unlike electromagnetic energy, eloptic energy does
-not attenuate inversely as the square of the distance from its source.
-
-## Controversy and Suppression
-
-The medical establishment reacted harshly to Abrams' work. Scientific
-American published eighteen consecutive issues vilifying him. The AMA
-labeled him a quack in its journal. Yet Sir James Barr, past president
-of the British Medical Association who had successfully used Abrams'
-methods, wrote that he was "the greatest genius in the medical
-profession."
-
-Dr. Ruth Drown, who refined Abrams' devices and developed a camera
-that could take pictures of organs using only a drop of blood, had her
-equipment confiscated by FDA authorities and died of grief after a
-Life magazine story branded her a charlatan. Hieronymus received U.S.
-patent 2,482,773 in 1949 for "Detection of Emanations from Materials
-and Measurement of the Volumes Thereof."
-
-## See Also
-
-- [[tompkins-photosynthesis-biophotons]] for biophoton emission
-- [[tompkins-plant-electrical-signals]] for [[agricultural-chemicals-mycorrhizal-impact]] for chemical effects

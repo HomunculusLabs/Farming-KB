@@ -33,7 +33,7 @@ Campanula trachelium belongs to section Trachelium of the genus Campanula. The s
 
 Several subspecies are recognized, differing primarily in hairiness and flower size. Subspecies trachelium is the widespread European form, while subsp. mauritanica occurs in North Africa.
 
-The basal leaves are ovate to triangular-ovate, 5–12 cm long, with a cordate base and coarsely serrated margins. The leaf surface is covered with stiff, white hairs that give the plant a rough texture reminiscent of true nettles (Urtica dioica).
+The basal leaves are ovate to triangular-ovate, 5–12 cm long, with a cordate base and coarsely serrated margins. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is covered with stiff, white hairs that give the plant a rough texture reminiscent of true nettles ([[urtica-dioica]]).
 
 Stem leaves are smaller, sessile, and more lanceolate, clasping the stem at their base. The flowering stem is robust, angular, and densely hairy.
 
@@ -61,7 +61,7 @@ The species is often found along ancient woodland boundaries and hedgerows, wher
 
 Nettle-leaved bellflower is hardy in USDA zones 4–8 and uniquely shade-tolerant among cultivated bellflowers. It thrives in partial to full shade in humus-rich, well-drained soil.
 
-Plants are long-lived and form substantial clumps over time. They require little maintenance once established and are resistant to most pests and diseases.
+Plants are long-lived and form substantial clumps over time. They require little maintenance once established and are resistant to most [[mushroom-pests-and-diseases]].
 
 Propagation is by seed sown in spring or by division in early spring or autumn. Seeds germinate readily in 14–21 days at 18–20°C.
 
@@ -71,7 +71,7 @@ Notable cultivars include 'Bernice' with semi-double violet flowers and 'Alba' w
 
 The species received the Royal Horticultural Society's Award of Garden Merit. It is particularly valued for providing summer color in difficult shaded positions.
 
-Slugs rarely trouble the hairy foliage, making it a good choice for gardens with heavy slug pressure. Powdery mildew can occur in very dry shade but is seldom serious.
+Slugs rarely trouble the hairy foliage, making it a good choice for gardens with heavy slug pressure. [[cervantes-powdery-mildew-prevention-treatment]] can occur in very dry shade but is seldom serious.
 
 The thick, fleshy taproot enables the plant to survive summer drought in shaded positions. This root also makes established plants difficult to transplant successfully.
 
@@ -85,37 +85,6 @@ The species provides late summer nectar for bumblebee queens preparing for hiber
 
 The hairy foliage may provide some deterrence against herbivory by slugs and insects. The coarse leaf texture is unpalatable to many generalist feeders.
 
-Seed dispersal is by wind, with seeds shaken from the basal pores of the nodding capsule. The species can colonize new woodland clearings through this wind-dispersal mechanism.
+[[clay-pellet-seed-dispersal]] is by wind, with seeds shaken from the basal pores of the nodding capsule. The species can colonize new woodland clearings through this wind-dispersal mechanism.
 
-The plant forms associations with arbuscular mycorrhizal fungi common in woodland soils. These fungal partners improve phosphorus uptake in the low-light, low-nutrient conditions of the forest floor.
-
-## Uses
-
-The common name "throatwort" reflects the long history of using this plant to treat throat and neck ailments. In medieval herbalism, the doctrine of signatures linked the throat-shaped corolla to throat disorders.
-
-The root was used in European folk medicine as a gargle for sore throats and tonsillitis. Preparations were made by decocting the root in water or wine.
-
-The plant contains triterpenoid saponins and flavonoids that may account for its traditional anti-inflammatory uses. Modern pharmacological investigation of these compounds has been limited.
-
-As an ornamental, C. trachelium is valued for its ability to flower in shade. It is used in woodland gardens, shaded borders, and naturalistic plantings under deciduous trees.
-
-The species is also grown in traditional cottage gardens throughout Britain and continental Europe. Its tall, leafy habit provides a wildflower character that complements more refined garden plants.
-
-In some European countries, the species is known by folk names referencing its medicinal use. The German name "Nesselblättrige Glockenblume" directly translates to "nettle-leaved bellflower."
-
-The flowers are attractive in informal cut arrangements, lasting 5–7 days in water. The hairy stems and buds add textural interest to mixed bouquets.
-
-The plant was historically used as a dye plant in parts of rural Europe. The flowers yield a pale greenish-yellow dye on wool mordanted with alum.
-
-## See Also
-
-- [[campanula-persicifolia]]
-- [[campanula-glomerata]]
-- [[campanula-medium]]
-- [[campanula-lactiflora]]
-- [[lobelia-cardinalis]]
-- [[digitalis-purpurea]]
-- [[verbascum-thapsus]]
-- [[primula-vulgaris]]
-- [[achillea-millefolium]]
-- [[gentiana-lutea]]
+The plant forms associations with [[arbuscular-mycorrhizal-fungi]] common in woodland soils. These fungal partners improve phosphorus uptake in the low-light, low-nutrient conditions of the forest floor.

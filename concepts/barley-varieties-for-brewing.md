@@ -8,7 +8,7 @@ sources: []
 ---
 # Barley Varieties for Brewing
 
-Barley (Hordeum vulgare) is the primary grain used in beer production worldwide. Not all barley is suitable for brewing -- malting barley differs from feed or food barley in key characteristics. Understanding barley varieties helps brewers make informed decisions about [[mushroom-cultivator-grain-selection-moisture]] and helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] varieties for their conditions.
+Barley ([[hordeum-vulgare]]) is the primary grain used in beer production worldwide. Not all barley is suitable for brewing -- malting barley differs from feed or food barley in key characteristics. Understanding barley varieties helps brewers make informed decisions about [[mushroom-cultivator-grain-selection-moisture]] and helps growers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] varieties for their conditions.
 
 ## Malting Barley vs Feed Barley
 
@@ -85,34 +85,6 @@ The craft malting movement has revived interest in heritage and specialty barley
 - Bere barley: An ancient six-row landrace from Scotland and the Orkney Islands. Produces a distinctive, earthy, nutty malt. Used in traditional Scottish ales and Bere bannock bread.
 - Hana malt barley: Japanese variety used in premium sake and beer production
 - Hooded barley: A distinctive form of barley with altered spike morphology, sometimes used for specialty malts
-- Himalayan barley (naked barley): Grown in the high Himalayas, used in both food and traditional fermented beverages
+- Himalayan barley (naked barley): Grown in the high Himalayas, used in both food and traditional [[comparison-mead-vs-kvass-fermented-beverages]]
 
 ## Winter vs Spring Barley
-
-Barley varieties are classified as either winter or spring types based on their planting time and vernalization requirement.
-
-### Spring Barley
-
-Planted in [[coleman-overwintered-onions-and-early-spring-crops]] and harvested in late summer. Spring barley is the most common type for malting because it generally produces lower protein content and more consistent quality. Most craft maltsters prefer spring varieties.
-
-### Winter Barley
-
-Planted in autumn, overwinters, and is harvested in early summer. Winter barley typically has higher yields than spring barley but may have higher protein content and variable malting quality. Some winter varieties produce acceptable malting barley in good growing conditions.
-
-## Growing Barley for Home Malting
-
-Home growers interested in malting barley should consider:
-
-- Choose a variety known for good malting quality (Maris Otter is widely available as seed)
-- Ensure soil pH is 6.0-7.0 and fertility is moderate (excessive nitrogen increases protein)
-- Harvest when grain moisture reaches 13% or below
-- Store grain in cool, dry conditions to maintain viability
-- Test germination rate before malting -- it should exceed 95%
-- Start with small batches (5-10 pounds) to develop technique
-
-## See Also
-
-- [[beer-brewing-basics]] for using malt in the brewing process
-- [[grain-cultivation-small-scale]] for [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] fundamentals
-- [[ale-vs-lager-fermentation]] for how barley choice affects fermentation
-- [[fukuoka-natural-rice-barley-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: "Emergency and Scavenged Container Use for accessible-mushroom-cultivation-for-disabilities"
+title: Cotter Mushroom Cultivation Emergency Scavenged Containers
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -24,16 +24,16 @@ of container options from purpose-built systems to everyday salvaged items.
 
 ## Fundamental Container Principles
 
-The mathematics of mushroom cultivation dictate the relationship between the
+The mathematics [[history-of-mushroom-cultivation]] dictate the relationship between the
 exposed surface area and the internal volume of any growing container. For
 horizontal-fruiting species, allow approximately one-half square inch of
-exposed surface area per cubic inch of growing medium. Vertical-growing species
+exposed surface area per cubic inch of [[cervantes-green-algae-growing-medium]]. Vertical-growing species
 need staggered exit holes along the container sides. Understanding this ratio
 allows any container to be evaluated for suitability.
 
 ## Plastic Log Columns
 
-Plastic tubing columns make efficient use of vertical space in fruiting rooms.
+Plastic tubing columns make efficient use of vertical space in [[cotter-growing-space-design-fruiting-rooms]].
 Cut polyethylene tubing to a manageable length, typically 2 feet longer than
 the desired column height to allow for tying both ends. Tie one end, pack
 tightly with spawned substrate, and tie the other end to create a "sausage."
@@ -88,55 +88,3 @@ refuse.
 For surface-fruiting species like [[agaricus-bisporus-cultivation-biology]], pack medium
 tightly but leave 2 inches at top for casing soil. Stack during colonization
 to save space, then separate, case individually, and place on ground or
-shelves. Mycelium drives upward into casing soil, forming a dense mat beneath
-the surface. Mist regularly to maintain moisture for primordial formation.
-
-## Reusable Bins and Buckets
-
-Drill holes along the sides of buckets or storage containers and stack to a
-safe height for vertical-growing species that need no casing. For
-horizontal-fruiters, crack the lid slightly for gas exchange and mist
-periodically. Wash and rinse with diluted bleach between uses.
-
-Buckets are ideal for urban cultivation: they take little space, require no
-support structure, and can produce [[query-how-to-grow-oyster-mushrooms-at-home]] year-round. Anyone with a
-stove, a large pot, and a few buckets can establish a productive system in an
-extra bathroom, closet, or basement, scaling the number of buckets to
-individual harvest needs.
-
-## Wooden Trays
-
-Wooden trays suit horizontal fruiters requiring open tops and no side holes.
-Use untreated conifer wood to resist [[singh-fungal-degradation-endocrine-disrupting-compounds]]. Untreated rough-cut
-pine planks from sawdust suppliers work well and can last three years or more.
-The exposed surface area suits casing with nonnutritive potting soil to
-promote mushroom formation and introduce beneficial bacteria.
-
-## Everyday Scavenged Items
-
-In emergency situations, creativity can produce remarkable results. Virtually
-anything that functions as a container will work provided it respects the
-surface-area-to-volume ratio. Suitable scavenged items include:
-
-- Large plastic soda bottles
-- Terra-cotta pots
-- Garbage bags
-- Large-diameter bamboo
-- Dried gourds
-- Woven baskets
-- Livestock feed bags
-- Lidless coolers
-- PVC pipe elbows
-- Old storage containers
-
-Containers should ideally not be clear (to limit light) or biodegradable
-(since fungi will consume them). After a natural or man-made disaster, a
-little creativity with available materials can lead to productive mushroom
-cultivation. Always ask store staff for permission before taking recyclable
-cast-offs, as many stores receive credit for returned waste products.
-
-## Related Concepts
-
-- [[mushroom-cultivator-flush-management-watering]] for post-fruiting care
-- [[staycare-fungal-in-situ-bioremediation-formulation-strategies]] for
-  advanced mycelial applications

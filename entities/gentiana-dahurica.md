@@ -58,7 +58,7 @@ Populations are most abundant in the Dahurian steppe-forest transition zone. Her
 
 The species is relatively cold-hardy, tolerating winter temperatures below −30°C. Deep snow cover provides natural insulation for the root crown during severe winters.
 
-Gentiana dahurica overlaps in range with Gentiana macrophylla, a closely related species used interchangeably in medicine. The two are distinguished by leaf width and corolla lobe shape.
+Gentiana dahurica overlaps in range with [[gentiana-macrophylla]], a closely related species used interchangeably in medicine. The two are distinguished by leaf width and corolla lobe shape.
 
 The specific epithet "dahurica" refers to Dauria, a historical region spanning the Transbaikal area of Siberia and northeastern Mongolia. This region represents the center of the species' distribution.
 
@@ -72,9 +72,9 @@ Seed production is moderate, with each capsule producing 50–200 seeds. Seeds h
 
 Germination requires a period of cold stratification. Seeds sown in autumn typically germinate the following spring after natural winter chilling.
 
-The species can persist in marginally grazed grasslands but declines under heavy grazing pressure. Its bitter compounds provide some protection against herbivory by domestic livestock.
+The species can persist in marginally grazed grasslands but declines under heavy [[gadd-mycelial-network-resilience-grazing-pressure]]. Its bitter compounds provide some protection against herbivory by domestic livestock.
 
-Mycorrhizal associations have been documented in related Gentiana species. These fungal partnerships likely enhance nutrient uptake in the nutrient-poor alpine soils where the species grows.
+[[plants-without-mycorrhizal-associations]] have been documented in related Gentiana species. These fungal partnerships likely enhance nutrient uptake in the nutrient-poor alpine soils where the species grows.
 
 ## Traditional Uses
 
@@ -84,37 +84,6 @@ In traditional Chinese medicine, Qin Jiao is classified as a wind-dampness dispe
 
 Major iridoid glycosides include gentiopicroside, swertiamarin, and amarogentin. These compounds have demonstrated anti-inflammatory, hepatoprotective, and analgesic activities in pharmacological studies.
 
-Modern clinical applications include treatment of rheumatoid arthritis and inflammatory bowel disease. Standardized extracts are available as dietary supplements in some Asian markets.
+Modern clinical applications include treatment of [[blesching-cannabis-rheumatoid-arthritis]] and [[blesching-cannabis-inflammatory-bowel-disease]]. Standardized extracts are available as [[medicinal-mushroom-dietary-supplements]] in some Asian markets.
 
 The bitter principles also stimulate digestive secretions. Small doses are traditionally used as appetite stimulants and digestive aids in Mongolian folk medicine.
-
-Wild-harvesting pressures have led to population declines in parts of Inner Mongolia. Cultivation programs are being developed to supply the herbal medicine market sustainably.
-
-The annual market demand for Qin Jiao in China exceeds 3,000 tonnes of dried root. G. dahurica and G. macrophylla together supply approximately 60% of this demand.
-
-## Cultivation
-
-Gentiana dahurica requires well-drained soil in full sun to partial shade. It is more tolerant of summer heat than many alpine gentians.
-
-Seeds require 6–8 weeks of cold stratification for reliable germination. Autumn sowing in outdoor seedbeds is the simplest method.
-
-Established plants develop deep taproots that make transplanting difficult. Permanent placement is recommended from the seedling stage.
-
-Hardy to USDA zones 4–7. The species requires good winter drainage and benefits from a mulch of gravel or coarse sand around the crown.
-
-Division is possible but should be done in early spring before new growth begins. Each division must include a portion of the crown with active buds.
-
-Cultivated plants typically reach harvestable root size in 3–4 years. Root quality (iridoid glycoside content) is highest in autumn-harvested material from plants at least 3 years old.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-scabra]]
-- [[gentiana-macrophylla]]
-- [[gentiana-cruciata]]
-- [[swertia-chirata]]
-- [[gentiana-triflora]]
-- [[codonopsis-pilosula]]
-- [[gentiana-septemfida]]
-- [[astragalus-membranaceus]]
-- [[gentiana-punctata]]

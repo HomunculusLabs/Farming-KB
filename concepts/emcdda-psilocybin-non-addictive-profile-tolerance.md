@@ -87,36 +87,3 @@ Prevalence of hallucinogenic mushroom use was consistently much lower than canna
 ### Versus LSD
 
 The EMCDDA noted that hallucinogenic mushrooms and LSD share pharmacological properties as tryptamine and ergoline hallucinogens respectively. Both act on the serotonin system and cross-tolerance exists between them. However, the mushroom experience was perceived as less predictable, less portable, and less socially facilitative than LSD, contributing to mushrooms' lower rate of regular use despite their shared hallucinogenic classification.
-
-## Self-Limiting Nature as a Barrier to Diffusion
-
-The EMCDDA identified the inherent self-limiting properties of mushroom use as one of the key "barriers to diffusion" that prevented the [[emcdda-epod-project-emerging-trend-detection-methodology]] from becoming more widespread:
-
-- **Unpredictable potency**: Variable psilocybin content between species, specimens, and growing conditions means users cannot reliably calibrate their experience from one occasion to the next
-- **Negative effects**: Nausea, panic attacks, and lack of sociable effects may outweigh positive experiences and discourage repeat use
-- **Cumbersome administration**: Unlike the convenient tablet form of ecstasy, mushrooms must be chewed or brewed, with unfamiliar and unpleasant taste, creating a barrier to social use
-- **Limited social observation**: Opportunities for potential users to witness others using mushrooms and make a favorable cost-benefit assessment are constrained by the private and introspective nature of the experience
-
-## Age of Initiation and Repeat Use
-
-The average age for first use of hallucinogenic mushrooms was between 18 and 19 years old according to the 2004 Mixmag survey. This relatively late initiation age compared to substances like cannabis or alcohol may reflect the more challenging and less socially promoted nature of the mushroom experience. Among those who had used mushrooms, the most commonly used variety was the "Mexican" cubensis strain, and over half expressed intent to use again, suggesting a pattern of occasional rather than habitual use among those who found value in the experience.
-
-## Implications for Drug Policy
-
-The non-addictive profile of hallucinogenic mushrooms has significant implications for drug policy classification and public health prioritization. The relatively low levels of reported harm and rare patterns of intensive use probably account for the lack of developments in specialized prevention materials, even as legislation was being tightened in several EU Member States. Where interventions are needed, they should target acute risk management rather than long-term dependence treatment.
-
-## Chronic Toxicity Absence
-
-The EMCDDA noted that beyond the absence of dependence, there was "no systematic research" evidence of chronic toxicity from psilocybin mushroom use. No irreversible organ damage by psilocybin had been reported according to the Dutch CAM risk assessment. Insufficient data existed on mutagenicity and teratogenicity to draw conclusions, but the overall chronic health burden appeared minimal, further distinguishing mushrooms from substances with known cumulative organ toxicity.
-
-## Emergency Burden Assessment
-
-The consistently low numbers of medical presentations across EU countries (single-digit annual cases in most reporting countries, 30-40 calls annually in Sweden as the highest reporter) confirmed that the non-addictive profile translated into a minimal emergency healthcare burden. This contrasts sharply with substances of dependence that generate ongoing treatment demand and repeated emergency presentations.
-
-## Related
-
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-
-- [[emcdda-hallucinogenic-mushroom-entactogenic-comparison-ecstasy]]
-- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
-- [[psilocybin-tolerance-cross-tolerance]]

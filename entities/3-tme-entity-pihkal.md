@@ -64,9 +64,9 @@ sources: ["Shulgin - PIHKAL"]
 
 A short unraveling of the codes used here
 for the various materials is very much needed. There are 3's and 4's
-and M's and I's and incipient confusion. Mescaline is mescaline.
+and M's and I's and incipient confusion. [[mescaline]] is mescaline.
 That much is simple. All homologs are the first letter of the
-homolog. Escaline is E, Proscaline is P, etc. If the group is at the
+homolog. Escaline is E, [[proscaline]] is P, etc. If the group is at the
 three-position, then the term "meta" is used and an M preceeds the
 name of the homolog, i.e., ME is Metaescaline. The number (3- or 4-
 or 5-) gives the position of the sulfur, which is represented by the
@@ -88,56 +88,3 @@ none                                  M                                        3
 one                                  E                                       3-TE
 
                                                                                        4-TE
-
-                                                 ME                                       3-TME
-
-                                                                                       4-TME
-
-                                                                                       5-TME
-
-two                                  SB                                        3-TSB
-
-                                                                                       4-TSB
-
-                                                 ASB                                3-TASB
-
-                                                                                       4-TASB
-
-                                                                                       5-TASB
-three                                TRIS                                3-T-TRIS
-                                                                                       4-T-TRIS
-## Synthesis
-A solution of 13.0 g of
-3-bromo-N-cyclohexyl-4,5-dimethoxybenzylidenimine (see under MP for
-its preparation) in 125 mL anhydrous Et2O in a He atmosphere was
-cooled with an external dry ice acetone bath to -80 deg C with good
-stirring. To this clear pale yellow solution there was added 32 mL
-1.55 M butyllithium in hexane (about a 25% excess) which was stirred
-for 10 min producing a fine white precipitate. There was then added
-7.0 g diethyl disulfide. The dry ice bath was removed and the
-reaction stirred as it came to room temperature. This was then added
-to 300 mL dilute HCl and the aqueous phase separated and heated on the
-[[scythian-cannabis-steam-bath-ritual]] for 45 min. A yellow oil was formed with a nearly
-colorless aqueous overhead. This was removed by decantation, and the
-remaining oil was diluted with a little MeOH and additional
-concentrated HCl. After further heating on the steam bath, this was
-added to the separated phase, all was cooled and extracted with 2x50
-mL CH2Cl2. Removal of the solvent from these pooled extracts gave
-11.8 g of a residue that was distilled. The product,
-3-ethylthio-4,5-dimethoxybenzaldehyde boiling at 106-125 deg C at 0.4
-mm/Hg and was an almost colorless oil weighing 8.3 g. Anal.
-(C11H14O3S) C,H.
-To a solution of 8.2 g 3-ethylthio-4,5-dimethoxybenzaldehyde in 125 mL
-nitromethane, there was added 1.0 g of anhydrous ammonium acetate and
-the mixture was heated on the steam bath for 1.5 h. The reaction
-mixture was stripped of nitromethane under vacuum, and the residual
-red oil was dissolved in 20 mL of boiling MeOH. This was decanted
-from a small amount of insolubles, and allowed to cool to room
-temperature. After considerable manipulation of a small sample with
-dry ice cooling, a seed of crystal was obtained, which successfully
-promoted crystallization of the entire MeOH solution. After standing
-## See Also
-
-- [[qualitative-comments-methodology-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
-- [[mdpea-entity-pihkal]]

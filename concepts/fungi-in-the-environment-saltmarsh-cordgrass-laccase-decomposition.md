@@ -19,7 +19,7 @@ type: concept
 
 # Saltmarsh Cordgrass Decomposition and Ascomycete Laccases
 
-The saltmarshes of the Georgia, USA Atlantic coast are expansive intertidal ecosystems 5-10 km wide extending from barrier islands to the mainland. The predominant macrophyte is smooth cordgrass (*Spartina alterniflora* Loisel.), which produces approximately 1.3 kg per square metre of marsh annually. The decomposition of this vast quantity of plant material is dominated by a specialized community of ascomycete fungi that employ [[singh-fungal-laccase-enzymes-bioremediation]] to break down lignocellulose, challenging the traditional view that only basidiomycetes can perform significant [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]].
+The saltmarshes of the Georgia, USA Atlantic coast are expansive intertidal ecosystems 5-10 km wide extending from barrier islands to the mainland. The predominant macrophyte is smooth cordgrass (*[[spartina-alterniflora]]* Loisel.), which produces approximately 1.3 kg per square metre of marsh annually. The decomposition of this vast quantity of plant material is dominated by a specialized community of ascomycete fungi that employ [[singh-fungal-laccase-enzymes-bioremediation]] to break down lignocellulose, challenging the traditional view that only basidiomycetes can perform significant [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]].
 
 ## The Standing-Decay System
 
@@ -41,17 +41,17 @@ Smooth-cordgrass ascomycetes are well adapted to alternating wet and dry periods
 
 ## The Cordgrass Ascomycete Community
 
-The standing-decay community is dominated by three ascomycete species that together occupy more than 90% of blade area at sites with low grazing pressure:
+The standing-decay community is dominated by three ascomycete species that together occupy more than 90% of blade area at sites with low [[gadd-mycelial-network-resilience-grazing-pressure]]:
 
 - ***Phaeosphaeria spartinicola*** Leuchtmann: The most abundant member, also a prodigious spore producer.
 - ***Phaeosphaeria halima*** (Johnson) Shoemaker and Babcock: A regularly co-occurring species.
 - ***Mycosphaerella* sp.2** (Kohlmeyer and Kohlmeyer, 1979): The third predominant species.
 
-Other species encountered include *Buergenerula spartinae* (found at 40% or more of blade area), *Hydropisphaera erubescens*, and *Koorchaloma spartinicola*, along with several undescribed species. DNA-based identification using rDNA/ITS PCR with ascomycete-selective primers confirmed the same predominant species revealed by direct microscopy.
+Other species encountered include *Buergenerula spartinae* (found at 40% or more of blade area), *Hydropisphaera erubescens*, and *Koorchaloma spartinicola*, along with several undescribed species. DNA-based identification using rDNA/ITS PCR with ascomycete-selective primers confirmed the same predominant species revealed by [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]].
 
 ## Fungal Production and Spore Output
 
-Cordgrass ascomycetes are prolific producers of fungal biomass, with a rough estimate exceeding 0.5 kg per square metre per year. A major fate of this fungal biomass is consumption by litter-comminuting invertebrates at the base of the marsh food web, including gastropods and arthropods.
+Cordgrass ascomycetes are prolific producers of [[bioremediation-fungal-biomass-biosorbent-material]], with a rough estimate exceeding 0.5 kg per square metre per year. A major fate of this fungal biomass is consumption by litter-comminuting invertebrates at the base of the marsh food web, including gastropods and arthropods.
 
 Cordgrass ascomycetes are also prodigious spore expellers, with a conservative estimate of 5.9 billion ascospores per square metre per year. This enormous spore output facilitates dispersal and colonization of new substrates.
 
@@ -76,7 +76,7 @@ Laccases are copper-containing enzymes capable of oxidizing phenolic molecules. 
 
 ### The Redox-Mediator Discovery
 
-Eggert and colleagues (1997) discovered that the basidiomycete *Pycnoporus cinnabarinus*, which possesses neither manganese nor [[fungal-lignin-peroxidase-veratryl-alcohol]], could carry out strong lignolysis because it manufactured its own redox-mediator molecule (3-hydroxyanthranilate, HAA) to work alongside laccase. This demonstrated that laccase alone, with an appropriate mediator, can serve as a sufficient lignin-oxidizing enzyme system.
+Eggert and colleagues (1997) discovered that the basidiomycete *[[pycnoporus-cinnabarinus]]*, which possesses neither manganese nor [[fungal-lignin-peroxidase-veratryl-alcohol]], could carry out strong lignolysis because it manufactured its own redox-mediator molecule (3-hydroxyanthranilate, HAA) to work alongside laccase. This demonstrated that laccase alone, with an appropriate mediator, can serve as a sufficient lignin-oxidizing enzyme system.
 
 Furthermore, interactions between cellobiose dehydrogenases and laccase-mediator molecules can allow cellulose lysis to proceed simultaneously with lignin oxidation during lignocellulose breakdown.
 
@@ -86,36 +86,4 @@ When eight strains of the most common cordgrass ascomycetes were grown on agar c
 
 ### Laccase Gene Diversity
 
-Degenerate PCR primers targeting conserved sequences within copper-binding sites II and III were designed to specifically amplify fungal laccase genes. Testing revealed:
-
-- All species possessed laccase genes in at least one strain
-- The two major *Phaeosphaeria* species exhibited five different types of partial laccase gene (less than 96% amino acid similarity), with as many as three different types within a single strain
-- Across all tested strains, **13 distinct laccase gene sequence types** were obtained
-- Cloning from naturally decaying blades yielded 26 partial laccase genes, of which only two were not identifiable with the three major community members
-
-This broad spectrum of laccase-activity potential across the cordgrass-decay ascomycetes, combined with the finding that the major species identified by microscopy and rRNA genes are the same species producing laccase genes within decaying blades, strongly supports the role of laccase-mediated lignocellulolysis in this system.
-
-## Ecological Significance
-
-The saltmarsh cordgrass decomposition system demonstrates that:
-
-1. **Ascomycetes can perform significant lignocellulose degradation**, challenging the traditional view that this capability is largely restricted to basidiomycetes.
-2. **Laccase-mediated lignin oxidation** is a viable pathway for lignocellulose breakdown in natural ecosystems, particularly when redox mediators are available.
-3. **Standing-dead plant material** provides a unique decomposition habitat that favors ascomycete dominance by protecting fungi from competition and predation.
-4. **Fungal biomass production** in saltmarshes is a major energy pathway supporting the broader food web.
-
-## Open Questions
-
-Several important questions remain about this system:
-
-1. What sorts of oxidation mediators are produced by cordgrass ascomycetes for action alongside their laccases?
-2. Is there synergy between or among laccases produced by the three major species?
-3. Which laccases are active at different points in the decay process?
-4. Are there major differences in the products of laccase lignolysis among the different ascomycete laccases?
-5. What is the relative contribution of laccase versus other enzymatic systems to total lignocellulose degradation in situ?
-
-## See Also
-- [[fungal-pah-degradation-and-soil-bioremediation]]
-- [[decomposition]]
-- [[lignin-degradation]]
-- [[fungal-enzymatic-capabilities]]
+Degenerate PCR primers targeting conserved sequences within copper-binding sites II and III were designed to specifically amplify [[fungal-laccase-and-textile-dye-decolorization]] genes. Testing revealed:

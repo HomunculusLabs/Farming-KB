@@ -88,25 +88,3 @@ Oca is relatively pest-resistant compared to potato, though it can be affected b
 Foliar diseases include downy mildew (*Peronospora* spp.) and leaf spot fungi, particularly under humid conditions. These rarely cause significant yield losses but can reduce plant vigor.
 
 [[cervantes-viral-diseases-cannabis]] are considered the most serious long-term threat because oca propagation is entirely vegetative. Virus accumulation over successive clonal generations can lead to gradual yield decline, a phenomenon known as cultivar degeneration.
-
-## Genetic Resources and Breeding
-
-The International Potato Center (CIP) in Lima maintains the world's largest oca germplasm collection, with over 400 accessions representing the species' diversity across Peru, Bolivia, and Ecuador. Morphological diversity is extensive, particularly in tuber color, shape, and flavor.
-
-Breeding efforts have focused on two objectives: developing day-neutral varieties for temperate regions and improving disease resistance. The New Zealand breeding program has produced commercially viable day-neutral lines since the 2000s.
-
-Oca's triploid genetics complicate conventional breeding because most cultivated forms produce little viable pollen. Research into chromosome manipulation and interploid crosses aims to overcome this barrier for improved hybridization.
-
-Molecular characterization using AFLP and SSR markers has revealed high genetic diversity among landraces from different valleys. This geographic structure reflects millennia of farmer selection in isolated Andean communities.
-
-## See Also
-
-- [[tropaeolum-tuberosum]]
-- [[arracacia-xanthorrhiza]]
-- [[canna-edulis]]
-- [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
-- [[pisum-sativum]]
-- [[glycine-max]]
-- [[mucuna-pruriens]]
-- [[canavalia-ensiformis]]

@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka on the Paradoxes of Scientific Farming
 
-Masanobu Fukuoka identified a fundamental paradox at the heart of
+[[masanobu-fukuoka]] identified a fundamental paradox at the heart of
 [[fukuoka-critique-scientific-agriculture-civilization]]: the problems it claims to solve are problems it
 created in the first place. His analysis reveals a self-perpetuating cycle
 where each intervention necessitates further intervention, trapping farmers
@@ -39,7 +39,7 @@ year.
 The reason [[cervantes-chemical-fertilizers-guide]] have to be applied is that the paddies are
 filled with water and the roots of the rice are allowed to rot so that the
 plants become weak. With the roots half-rotted, the crop will be lost unless
-quick-acting chemical fertilizers are used. That and only that is why
+quick-acting [[cannabis-chemical-fertilizers]] are used. That and only that is why
 administering chemical fertilizers has a booster effect on the rice plants.
 
 When man establishes the conditions in a field that render chemical
@@ -66,7 +66,7 @@ But instead of trying to breed healthy rice, scientists breed rice suited
 to these artificial and unnatural methods of cultivation. Far from
 upgrading rice, breeding programs have succeeded only in downgrading it.
 All that has been accomplished is the creation of weak rice under the
-prompting of consumer demands for tasty rice, the creation of a rice that
+prompting of consumer demands for [[fukuoka-tasty-rice-illusion]], the creation of a rice that
 must be sprayed with pesticide.
 
 ## The Unnecessary Nature of Scientific Intervention
@@ -87,42 +87,3 @@ perfect sense when you take dead soil and subject it to tests under
 unnatural conditions.
 
 ## Agricultural Progress as Decline
-
-Agricultural progress has really consisted of nothing more than resorting
-to passive rescue efforts through agriculture when the rice grew diseased
-and unhealthy and yields fell. Although [[comparison-natural-farming-vs-permaculture]] was capable of
-growing eight and even twelve bushels per quarter-acre, man destroyed the
-soil and he destroyed the rice by breeding new, weaker varieties.
-
-Mankind has put himself in the position where, unless further progress is
-made in agriculture, it will no longer be possible to harvest the yields
-of yesterday. Scientists think they have been conducting research to
-increase yields, but all they have actually been doing is developing
-techniques for reducing declines in yield.
-
-In a sense, what agricultural science boils down to is this: First man
-creates unnatural and incomplete conditions. Then he develops fields of
-learning and technology to restore the productivity of the land. Finally,
-when these appear to achieve the desired aims, he brandishes them proudly
-for all to see.
-
-## The Economic Interest Behind Scientific Farming
-
-The key sectors of Japan's chemical industry will all collapse if farming
-no longer requires plows, tillers, tractors, chemical fertilizers, and
-pesticides. No wonder then that no one is willing to believe such a
-method of farming is possible. All that new technology is only hurting
-the farmer. The labor-saving methods being developed by armies of
-researchers are squeezing the farmer tighter and tighter.
-
-The entrepreneurs have found themselves a new way of making money. We
-are seeing a golden age of farmer-less farming. [[natural-farming-methods-comparison]] today
-have done nothing but torment and squeeze the life out of the farmer.
-
-## See Also
-
-- [[scientific-farming-paradoxes-according-to-fukuoka]]
-
-- [[fukuoka-critique-laws-agricultural-science]]
-- [[fukuoka-natural-farming-philosophy-of-mu]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]

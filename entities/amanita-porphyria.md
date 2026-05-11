@@ -18,16 +18,16 @@ sources:
 
 ## Overview
 
-**Amanita porphyria** is a medium-sized ectomycorrhizal mushroom in the family
+**Amanita porphyria** is a medium-sized [[ectomycorrhizal-mushroom-fruiting-ecology]] in the family
 Amanitaceae. It is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
 Europe and Asia.
 
 The species is inedible and causes gastrointestinal distress when consumed.
-It is frequently confused with the deadly **Amanita phalloides** and the
-edible **Amanita rubescens** by inexperienced foragers.
+It is frequently confused with the deadly **[[amanita-phalloides]]** and the
+edible **[[amanita-rubescens]]** by inexperienced foragers.
 
 The epithet *porphyria* refers to the purplish-grey coloration of the cap
-surface, which is the most reliable field identification character.
+surface, which is the most reliable [[palmer-mushroom-hunting-field-identification]] character.
 
 ## Taxonomy and Morphology
 
@@ -78,7 +78,7 @@ Fruiting occurs from late summer through autumn, typically August to
 October in northern Europe. It is more common in cool, moist seasons and at
 higher elevations.
 
-The mushroom forms ectomycorrhizal associations with a broad range of
+The mushroom forms [[ectomycorrhizal-associations]] with a broad range of
 forest trees. It prefers acidic to neutral soils with well-developed humus
 layers.
 
@@ -87,56 +87,3 @@ layers.
 *Amanita porphyria* is poisonous. Consumption causes primarily
 gastrointestinal symptoms including nausea, vomiting, abdominal cramps, and
 diarrhea within 30 minutes to 2 hours of ingestion.
-
-The toxic principles have not been fully characterized. Unlike the
-amatoxin-producing species in section *Phalloideae*, *A. porphyria*
-belongs to section *Validae* and does not contain lethal amatoxins.
-
-Symptoms are generally self-limiting and resolve within 24–48 hours.
-Hospitalization is occasionally required for fluid replacement in severe
-cases. No fatalities have been conclusively attributed to this species.
-
-Despite its non-lethal toxicity, the mushroom should never be consumed due
-to the significant risk of confusion with deadly *Amanita* species,
-particularly *Amanita phalloides* and *[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]*.
-
-## Similar Species
-
-The most dangerous lookalike is **Amanita phalloides** (death cap), which
-shares a similar grey cap coloration in some forms. Key differences include
-the death cap's greenish-olive cap tint, white volva that is clearly
-separated from the stipe base, and lack of any purplish tones.
-
-**Amanita rubescens** (blusher) is a frequently confused edible species
-that turns reddish-pink when cut or bruised. *A. porphyria* does not
-stain on injury, which is a critical distinguishing character.
-
-**Amanita spissa** (grey-spotted amanita) is larger and has more robust
-volval remnants on the cap. Its cap is typically more brownish-grey rather
-than distinctly purplish.
-
-**Amanita pantherina** (panther cap) has white warts on the cap rather
-than appressed grey patches, and its volva is more prominently cup-shaped.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, *Amanita porphyria* forms mutualistic
-symbiotic associations with the fine roots of forest trees. The fungal
-mycelium extends the effective absorptive surface area of the root system,
-improving nutrient and water uptake.
-
-In exchange, the host tree provides the fungus with photosynthetically
-derived carbohydrates. This relationship is particularly important for
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in boreal and montane forest ecosystems.
-
-The species contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition
-through its extensive [[fungal-mycelial-networks-nutrient-translocation]]. Dead basidiomata return nutrients
-to the forest floor and support diverse invertebrate communities.
-
-## See Also
-
-- [[amanita-muscaria-entity]]
-- [[amanita-rubescens]]
-- [[cortinarius-violaceus]]
-- [[paxillus-involutus]]
-- [[amanita-velosa]]

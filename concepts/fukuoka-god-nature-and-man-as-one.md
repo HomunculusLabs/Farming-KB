@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
@@ -86,17 +87,3 @@ The natural farmer is not passive; he is active in a different way. He sows seed
 He is a participant, not a director.
 
 ## The Chain of Ecological Destruction
-
-The earth is an organically interwoven community of plants, animals, and microorganisms. When seen through man's eyes, it appears either as a model of the strong consuming the weak or of coexistence and mutual benefit.
-
-Yet there are food chains and cycles of matter; there is endless transformation without birth or death.
-
-A case in point is the application of toxic pesticides to apple trees and hothouse strawberries. This kills off pollinating insects such as bees and gadflies, forcing man to collect the pollen himself and artificially pollenate each of the blossoms.
-
-Although he cannot even hope to replace the myriad activities of all the plants, animals, and microorganisms in nature, man goes out of his way to block their activities, then studies each of these functions carefully and attempts to find substitutes.
-
-When a section of the forest is clear-cut and cedar trees planted, there no longer is enough food for small birds. These disappear, allowing long-horned beetles to flourish. The beetles are vectors for nematodes, which attack red pines and feed on parasitic Botrytis fungi in the trunks of the pine trees. The pines fall victim to the Botrytis fungi because they are weakened by the disappearance of the edible matsutake fungus that lives symbiotically on the roots of red pines.
-
-This chain of destruction illustrates what ecologists call "[[query-how-do-trophic-cascades-work]]" -- the ripple effects that propagate through an ecosystem when one element is disturbed.
-
-What Fukuoka understood intuitively, modern ecology has confirmed through decades of research: ecosystems are not collections of independent species but networks of interdependence in which the removal of a single element can trigger cascading failures throughout the system.

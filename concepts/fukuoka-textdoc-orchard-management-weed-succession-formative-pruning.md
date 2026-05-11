@@ -5,6 +5,7 @@ tags: [natural-farming, orchard-management, pruning, weeds, succession, tree-tra
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "5800-5870"
 type: concept
@@ -86,34 +87,3 @@ The terraces serve multiple purposes beyond simple soil retention:
 - **Soil building**: Creating level surfaces where [[hamilton-composting-and-organic-matter-management]] accumulates and decomposes in place
 
 ### Timing of Terrace Construction
-
-The timing of terrace construction is significant. Building terraces too early, before the tree roots are established, can disturb the soil and damage young root systems. Building them too late means years of soil loss that could have been prevented. The five to six year mark, when trees begin to bear fruit, represents the optimal balance: the roots are sufficiently established to withstand the disturbance, and the approaching fruit production makes access roads necessary.
-
-## The Transition to a Productive Orchard
-
-The end point of this management sequence is an orchard that looks like an orchard but functions very differently from a conventional one. The terraces provide stable, level growing surfaces. The clover ground cover eliminates weeds while fixing nitrogen. The trees, trained to their natural form, require minimal pruning. The ecosystem supports its own pest control through biodiversity.
-
-What is remarkable about this transition is that it requires progressively less labor, not more. The first years are the most labor-intensive, requiring twice-yearly cutting of brush and careful formative pruning. As the system matures, the clover reduces weeding work to occasional mowing. The natural tree form reduces pruning to almost nothing. The balanced ecosystem reduces pest management to observation. The result is an orchard that produces abundantly with minimal human intervention.
-
-This progressive reduction in labor requirements is the opposite of what happens in conventional orchards, where labor and input requirements tend to increase over time as soil degradation creates new problems that require new solutions. The natural orchard moves toward self-sufficiency, while the conventional orchard moves toward dependency.
-
-## Key Principles
-
-- Early formative pruning of just one or two shoots determines the tree's lifelong shape
-- Premature decisions about scaffold branches often prove wrong under changing growth conditions
-- Abandonment does not produce natural form; careful early attention is required
-- Seed-planted trees offer genetic diversity at the cost of unpredictable fruit quality
-- Weed succession in the orchard follows a predictable pattern from brush to herbaceous plants to clover
-- The mixed vegetation phase, despite poor yields, provides natural disease and pest protection
-- Terracing should be built when trees begin bearing, not at planting time
-- A tree shaped properly when young requires minimal pruning when mature
-- The transition from wild orchard to productive system takes approximately five to six years
-- Twice-yearly cutting with a large sickle is sufficient management during the establishment phase
-- The natural orchard requires progressively less labor as it matures
-- Conventional orchards require progressively more inputs as they degrade
-
-## Related Topics
-
-- [[fukuoka-textdoc-pruning-destruction-natural-tree-form]] for why pruning destroys natural form
-- [[fukuoka-textdoc-orchard-terracing-slope-management]] for detailed terracing techniques
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]] for the soil building context

@@ -87,35 +87,3 @@ biosorption contribute simultaneously. Live fungal cultures typically
 show higher total decolorization than dead biomass due to this
 synergistic effect, though adsorption alone can account for 20-50%
 of initial color removal.
-
-## Fungal Species for Dye Decolorization
-
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]: Effective LiP and MnP producer
-  capable of mineralizing azo dyes to CO2.
-- [[aspergillus-niger-in-fungal-bioleaching]]: Ascomycete species effective for both
-  enzymatic degradation and biosorption, with the advantage of
-  tolerating lower pH conditions common in textile effluents.
-
-## Process Optimization
-
-Critical parameters affecting decolorization efficiency:
-
-- **pH**: Laccase activity is optimal at pH 3-5; peroxidases at pH
-  4-5.5. Biosorption efficiency depends on dye charge and cell wall
-  ionization state.
-- **Temperature**: 25-30 degrees C for most fungal species; elevated
-  temperatures (up to 40 degrees C) may accelerate enzymatic reactions
-  but reduce cell viability.
-- **Dye concentration**: Higher concentrations may inhibit enzyme
-  activity or cause toxicity; typical studies use 10-200 mg/L.
-- **Carbon and nitrogen supplementation**: Glucose and nitrogen sources
-  enhance fungal growth and [[ligninolytic-enzyme-production-bioremediation]] but add process costs.
-- **Agitation**: Adequate mixing improves oxygen and substrate mass
-  transfer but excessive shear can damage mycelial structures.
-- **Incubation time**: Decolorization typically progresses over 24-120
-  hours, depending on dye structure, fungal species, and conditions.
-- **Immobilization**: [[singh-pulp-paper-effluent-fungal-decolorization]]
-
-- [[singh-distillery-wastewater-fungal-treatment]]
-- [[singh-phytotoxicity-testing-bioremediation-assessment]]
-- [[singh-fungal-immobilization-bioreactor-technology]]

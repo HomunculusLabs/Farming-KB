@@ -1,5 +1,5 @@
 ---
-title: fukuoka textdoc natural order food chain unity and Food Chain Unity
+title: Fukuoka Textdoc Natural Order Food Chain Unity
 tags:
   - fukuoka
   - ecology
@@ -9,6 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
 
@@ -17,7 +18,7 @@ created: 2026-05-07
 
 ## Overview
 
-In "The Natural Way of Farming," Masanobu Fukuoka presents his vision of the
+In "The Natural Way of Farming," [[masanobu-fukuoka]] presents his vision of the
 natural order as a unified, harmonious whole rather than a competitive struggle
 for survival. He describes the incredibly complex web of predator-prey
 relationships among animals, plants, and microorganisms, arguing that these
@@ -86,42 +87,3 @@ proliferate too greatly." Tens of millions of species live on in perfect
 harmony without increase or decrease, born and dying unseen by man.
 
 ## Microbes as Scavengers
-
-Fukuoka offers a vivid account of microbial decomposition as a natural
-service. He notes that "countless microbes and small animals in the soil are
-engaged in what could almost be called an assembly-line operation consisting
-of the dismantling, decomposition, rotting, and fermentation of the body."
-To completely return a corpse to the soil, billions upon billions of
-microorganisms appear one after another.
-
-Thanks to these microbes, the earth's surface is always clean and beautiful.
-"If animals died and the carcasses just remained there without decomposing, a
-couple of days is all it would take to make the world an intolerable place."
-People look on casually at this activity, but "there is no greater drama in
-our entire world." Nature's methods of treating garbage far surpass anything
-human engineering can devise.
-
-## Man as the Sole Heretic
-
-Despite nature's perfect self-regulation, "there is one who disrupts this
-natural order. It is man." Fukuoka declares that "man is the sole heretic in
-the natural order. Only he acts as he pleases." Instead of burying corpses in
-the earth where microbes can process them, he douses them with heavy fuel
-oil and cremates them, a process that is neither fast nor clean.
-
-The practical implication is that farmers should not interfere with natural
-balance. "When man jumps onto center stage and begins giving directions like
-a know-nothing director, the play is ruined." This principle underlies all of
-Fukuoka's farming practices: minimal intervention allows nature's self-
-governing mechanisms to maintain balance far more effectively than human
-management ever could.
-
-## Related
-
-- [[fukuoka-food-farming-unity]]
-- [[fukuoka-natural-ecosystem-food-chain-interconnection]]
-
-- [[fukuoka-textdoc-natural-order-microbial-ecology]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
-- [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]

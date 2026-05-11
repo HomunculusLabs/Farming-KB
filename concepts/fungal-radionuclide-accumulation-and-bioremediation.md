@@ -88,20 +88,3 @@ Saprotrophic fungi in organic soil horizons show elevated plutonium
 concentrations compared to mineral layers, suggesting organic matter
 binding is key to actinide bioavailability. The chitin-glucan matrix of
 fungal cell walls provides binding sites through carboxyl, phosphate,
-and hydroxyl functional groups for actinide ion chelation.
-## Food Chain Implications and Human Health
-Bioaccumulation of radionuclides in edible mushrooms creates a direct
-pathway for human exposure. Wild mushroom foraging remains culturally
-important across Eastern and Northern Europe, and contaminated mushrooms
-contribute significantly to internal radiation doses decades after
-initial deposition. Radiocesium concentrations decline with a biological
-half-life of 1-3 years in some species but persist for decades in slow-
-turnover mycorrhizal species. Cooking methods have limited effectiveness
-in reducing radiocesium content, as cesium is bound intracellularly.
-## Related Concepts
-- [[factors-affecting-mycoremediation-efficiency]]
-- fungal-heavy-metal-uptake-and-translocation
-- [[bioavailability-in-fungal-bioremediation]]
-- fungal-resource-translocation-in-mycelial-networks
-- [[fungal-ecosystem-processes-overview]]
-- [[fungal-trophic-modes-and-nutritional-guilds]]

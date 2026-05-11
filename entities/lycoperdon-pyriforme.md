@@ -30,7 +30,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Lycoperdon pyriforme* is a saprotrophic puffball fungus in the family Agaricaceae, widespread across temperate regions worldwide.
+*Lycoperdon pyriforme* is a saprotrophic puffball fungus in the family Agaricaceae, widespread across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 Commonly called the stump puffball, it is distinctive for growing in dense clusters on decaying wood, stumps, and buried roots rather than on soil.
 
@@ -48,9 +48,9 @@ The species was first described by Christiaan Hendrik Persoon in 1797.
 
 Recent molecular phylogenetic work has led some authors to reassign it to the genus *Vascellum* or *Apioperdon*, though *Lycoperdon* remains the most widely used placement.
 
-The epithet *pyriforme* refers to the pear-shaped form of the fruiting body.
+The epithet *pyriforme* refers to the pear-shaped form of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
-Fruiting bodies are 1.5–4 cm tall and 1–3 cm wide, inverted pear-shaped with a narrowed base.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are 1.5–4 cm tall and 1–3 cm wide, inverted pear-shaped with a narrowed base.
 
 The exoperidium (outer skin) is covered with fine granules or small spines that wear away with age, leaving a smooth surface.
 
@@ -68,7 +68,7 @@ The base typically attaches to a rhizomorph that anchors the fruiting body to th
 
 ## Distribution and Habitat
 
-*L. pyriforme* has a nearly cosmopolitan distribution in temperate forests of Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Australia.
+*L. pyriforme* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate forests of Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and parts of Australia.
 
 It is one of the few puffball species that grows almost exclusively on wood, particularly dead hardwood stumps, fallen logs, and buried roots.
 
@@ -87,45 +87,3 @@ The fungus also appears in urban and suburban settings on landscape tree stumps 
 Young specimens with firm, white internal flesh are edible and considered good when properly prepared.
 
 The flesh has a mild, nutty flavor and a pleasant texture when sliced and sautéed.
-
-Collection should be limited to specimens that are entirely white when cut open, as any yellowing or olive discoloration indicates maturity.
-
-The outer skin should be peeled before cooking, and the firm sterile base should be removed.
-
-As with all puffballs, positive identification requires cutting the specimen in half to confirm the uniform white interior.
-
-No gills, ridges, or internal structures other than the sterile base should be present.
-
-The species should not be confused with the young fruiting bodies of *Amanita* species, which can be deadly.
-
-## Ecology and Applications
-
-*L. pyriforme* is a primary decomposer of woody substrates, playing an important role in forest carbon cycling.
-
-Its ability to colonize freshly cut stumps and [[fungal-dead-wood-diversity]] positions it as an early-successional decomposer.
-
-The species is sensitive to air pollution, particularly sulfur dioxide, and has been used as a bioindicator of [[cervantes-air-quality-ventilation]] in European studies.
-
-Puffball spores have been investigated for their bioremediation potential, with capacity to bind [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated substrates.
-
-Methanolic extracts show antimicrobial activity against some Gram-positive bacteria.
-
-In traditional medicine, dried puffball spore powder has been applied as a styptic to stop bleeding from minor wounds.
-
-## Related Species
-
-*Lycoperdon perlatum* (Gem-Studded Puffball) is larger, grows on soil rather than wood, and has prominent pyramidal warts.
-
-*Calvatia gigantea* (Giant Puffball) can exceed 30 cm in diameter and grows singly on soil in meadows.
-
-*Calvatia cyathiformis* (Purple-Spored Puffball) has purple spores at maturity and a more robust fruiting body.
-
-*Bovista plumbea* (Grey Puffball) grows on grassland soils and has a papery outer skin that flakes away.
-
-## See Also
-
-- [[lycoperdon-marginatum]]
-- [[calvatia-cyathiformis]]
-- [[coprinus-comatus]]
-- [[pleurotus-ostreatus]]
-- [[hugelkultur]]

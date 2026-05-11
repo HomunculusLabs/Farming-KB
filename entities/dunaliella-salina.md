@@ -87,20 +87,3 @@ Multiple *D. salina* strains with differing beta-carotene content, growth rates,
 Classical mutagenesis using UV and chemical agents has yielded strains with enhanced beta-carotene accumulation. However, strain stability over extended cultivation remains a challenge due to the absence of [[fungal-life-cycles-sexual-reproduction-metamorphosis]] for strain fixation.
 
 The *D. salina* nuclear genome (~350 Mb) and chloroplast genome have been sequenced, providing resources for understanding carotenoid biosynthesis regulation and osmoregulatory gene networks.
-
-## Related Species
-
-*Dunaliella bardawil* is a closely related species from the Bardawil lagoon (Sinai Peninsula) that also accumulates very high beta-carotene levels. It is often considered a subspecies or ecotype of *D. salina* and is used interchangeably in commercial production.
-
-*Dunaliella tertiolecta* is a marine species with lower salt tolerance that does not accumulate significant carotenoids. It is studied primarily as a model for lipid production and CO2 biofixation rather than as a commercial carotenoid source.
-
-The genus *Dunaliella* contains approximately 30 described species occupying diverse saline habitats. Molecular phylogenetics has revealed several cryptic species that are morphologically similar but genetically distinct, suggesting the [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] is underestimated.
-
-## See Also
-
-- [[haematococcus-pluvialis]]
-- [[arthrospira-platensis]]
-- [[glycine-max]]
-- aquaculture
-- [[cannabis-anti-inflammatory-applications]]
-- fermentation

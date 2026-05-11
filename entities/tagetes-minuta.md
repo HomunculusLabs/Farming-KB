@@ -13,9 +13,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Soule, J.A. (1993). \"Tagetes minuta: A Potential New Herb from South America.\" In: New Crops, Wiley, 649–654."
+  - "Soule, J.A. (1993). \"Tagetes minuta: A Potential New Herb from guzman-psilocybin-mushrooms-south-america.\" In: New Crops, Wiley, 649–654."
   - "Vasudevan, P. et al. (1997). \"Tagetes: Multipurpose Marigolds.\" Economic Botany, 51(4), 393–398."
-  - "Marotti, M. et al. (2004). \"Essential Oils of Tagetes minuta.\" Flavour and Fragrance Journal, 19(5), 437–441."
+  - "Marotti, M. et al. (2004). \"[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of Tagetes minuta.\" Flavour and Fragrance Journal, 19(5), 437–441."
   - "Cárdenas-Ortega, N.C. et al. (2005). \"Antimicrobial Activity of Tagetes minuta Essential Oil.\" Journal of the Mexican Chemical Society, 49(3), 286–288."
   - "Huang, Y. et al. (2000). \"Nematicidal Activity of Tagetes minuta Against Root-Knot Nematodes.\" Nematology, 2(2), 151–158."
 ---
@@ -62,7 +62,7 @@ Glandular surfaces produce essential oils.
 branch tips. Each head 8–12 mm diameter, with 3–5 ray florets and
 8–15 disc florets. Blooms late summer to autumn. Self-pollinating.
 
-**Root:** Fibrous, 30–50 cm deep. Root exudates contain thiophenes
+**Root:** Fibrous, 30–50 cm deep. [[mycorrhiza-root-exudates]] contain thiophenes
 with allelopathic and nematicidal properties.
 
 **Seed:** Achenes, 6–8 mm long, dark brown to black, with short awns.
@@ -78,68 +78,12 @@ Australia, and [[psilocybin-north-america-pacific-northwest]]. Invasive in parts
 eastern Africa, and India.
 
 **Habitat:** Roadsides, waste ground, cultivated fields, and disturbed
-areas. Tolerates wide soil range (sandy loam to heavy clay) and pH
+areas. Tolerates wide soil range (sandy loam to [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]) and pH
 (5.5–8.0). Prefers full sun and moderate moisture; drought-tolerant
 once established. Grows from sea level to 3,500 m in native range.
 
 **Invasiveness:** Noxious weed in several Australian states and South
-African provinces. Aggressive seed production and allelopathic root
+African provinces. Aggressive [[cannabis-controlled-pollination-seed-production]] and allelopathic root
 exudates can suppress native vegetation.
 
 ## Phytochemistry
-
-The essential oil of *T. minuta* is complex and chemotype-dependent:
-
-- **Major oil components:** (Z)-β-ocimenone (20–40%),
-  (E)-β-ocimenone (5–15%), dihydrotagetone (10–25%),
-  (Z)-tagetone (5–15%), (E)-tagetone (2–10%).
-- **Thiophenes:** Bithienyl, 5-(3-buten-1-ynyl)-2,2'-bithienyl (BBT),
-  and α-terthienyl. Responsible for nematicidal, insecticidal, and
-  fungicidal activity. Concentrated in roots and glandular trichomes.
-- **Flavonoids:** Quercetagetin, patuletin, and their glycosides.
-- **Coumarins:** Scopoletin and umbelliferone in aerial parts.
-
-**Chemotype variation:** At least four distinct chemotypes exist based
-on dominant oil components. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] accessions tend to be
-ocimenone-rich; some African populations are dihydrotagetone-dominant.
-
-## Medicinal and Traditional Uses
-
-**Anthelmintic use:** Traditional use as a vermifuge (deworming agent)
-is supported by the thiophene content, which has documented
-anthelmintic activity against gastrointestinal nematodes.
-
-**Antimicrobial activity:** Essential oil shows broad-spectrum activity
-against *S. aureus*, *E. coli*, *C. albicans*, and *A. niger* in vitro.
-MIC ranges from 0.1–1.0 mg/mL depending on pathogen and chemotype.
-
-**Culinary use:** Foundational herb in Peruvian cuisine, especially
-in *ocopa* (roasted potato with spiced huacatay cheese sauce) and
-*pachamanca* (Andean earth-oven cooking).
-
-## Permaculture and Agricultural Applications
-
-*T. minuta* has extensive applications in sustainable agriculture:
-
-- **Biofumigation:** When incorporated as green manure, thiophene-rich
-  tissues suppress soil-borne pathogens, nematodes, and weed seeds.
-  Used in [[coleman-deep-organic-farming-philosophy]] rotations.
-- **Nematicidal cover crop:** Root exudates and decomposing foliage
-  are toxic to root-knot (*Meloidogyne*), lesion (*Pratylenchus*), and
-  other plant-parasitic nematodes. Reduces populations by 60–90% when
-  grown as a 60–90 day cover crop.
-- **Companion planting:** Repels whiteflies, aphids, and certain beetles.
-  Commonly interplanted with tomatoes, potatoes, and brassicas.
-- **Allelopathic weed suppression:** Root exudates inhibit competing
-  weed seed germination, reducing need for mechanical weed control.
-- **Essential oil crop:** Commercially cultivated in South Africa,
-  India, and Argentina. Oil used in perfumery, flavoring, and as
-  [[jadam-natural-pesticide-institute-and-research]]. Attracts bees, butterflies, and beneficial
-  predatory insects (ladybugs, lacewings, parasitic wasps).
-## See Also
-
-- [[symphytum-officinale]] — Comfrey, another [[nutrient-dynamic-accumulator-reference]] for
-  permaculture systems
-- [[cymbopogon-citratus]] — Lemongrass, essential oil crop with similar
-  insecticidal uses
-- [[safrole]] — Another plant-derived bioactive compound

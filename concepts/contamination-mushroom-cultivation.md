@@ -87,17 +87,3 @@ mold spores, while contaminants are constantly shed from skin, hair, clothing,
 and breath during handling operations.
 
 ## Prevention and Management
-
-Regular cleaning with 10% bleach solution or quaternary ammonia compounds
-reduces ambient spore loads significantly. Removing contaminated materials
-promptly prevents sporulation and spread to adjacent substrates. Using only
-clean, well-colonized spawn from reputable sources is fundamental. Any
-substrate with contamination covering more than 10-15% of the surface should
-be discarded immediately. See [[contamination-prevention-in-mushroom-cultivation]]
-and [[mushroom-hygiene-and-contamination]] for detailed protocols.
-
-## See Also
-
-- [[contamination-prevention-in-mushroom-cultivation]]
-- [[mushroom-contamination-and-biocontrol]]
-- [[mushroom-hygiene-and-contamination]]

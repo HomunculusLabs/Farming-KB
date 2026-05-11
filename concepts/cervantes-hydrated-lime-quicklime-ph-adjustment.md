@@ -1,10 +1,11 @@
 ---
-title: cervantes hydrated lime quicklime ph adjustment and Quicklime for pH Adjustment
+title: Cervantes Hydrated Lime Quicklime Ph Adjustment
 created: 2026-04-26
 tags: [cannabis, ph, lime, soil, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -43,9 +44,9 @@ The beauty of hydrated lime is that it washes out
 of the soil in about two weeks. Leach it quicker
 by flushing pots with copious quantities of water.
 This makes it useful for rapid pH correction when
-soil has become too acidic during a grow cycle.
+soil has become too acidic during a [[cannabis-perpetual-grow-cycle]].
 
-Hydrated lime is also used as a grow room
+Hydrated lime is also used as a [[cannabis-grow-room-setup]]
 fungicide. Sprinkle it on the floor and around the
 room. It kills fungus on contact, providing a
 sanitary [[cannabis-growing-environment-setup]].
@@ -54,7 +55,7 @@ sanitary [[cannabis-growing-environment-setup]].
 
 Do not use quicklime. Calcic lime (quicklime)
 contains only calcium and is not a good choice
-for cannabis cultivation. It does not have the
+for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. It does not have the
 buffering qualities of dolomite, nor does it
 contain any magnesium. Quicklime is toxic to
 plants and can cause severe root damage and pH
@@ -65,7 +66,7 @@ spikes that are difficult to correct.
 Dolomite lime is the preferred all-purpose lime for
 cannabis cultivation. It contains both calcium and
 magnesium carbonate, providing two essential
-secondary nutrients while buffering pH over a long
+[[calcium-magnesium-secondary-nutrients]] while buffering pH over a long
 period. Fine dolomite flour is the fastest-acting
 grade. Coarse dolomite could take a year or more
 before it becomes available for uptake by roots.
@@ -87,37 +88,3 @@ wood ashes have a high pH and help raise soil pH.
 Eggshells and oyster shells take a long time to
 decompose enough to affect the pH; they release
 calcium slowly over months or years. Wood ashes
-are faster-acting but easy to overapply due to
-their very high pH of 9.0-11.0.
-
-## Lowering pH
-
-Commercial potting soils and soilless mixes are
-often acidic and the pH seldom needs to be
-lowered. If new soil pH is under 6 or above 8,
-it is easier to change soil rather than experiment
-with altering pH. Fertilizers are naturally acidic
-and lower the pH of the growing medium over time.
-
-Sulfur will lower pH but is tricky to use. White
-vinegar at the rate of one teaspoon per gallon of
-irrigation water can lower pH by a full point.
-Hydroponic growers use phosphoric and nitric acid.
-Calcium nitrate can also be used but is less
-common. After altering the pH, check it again
-daily to make sure it remains stable.
-
-## Gypsum Interaction
-
-When calcium from one source combines with sulfur
-from another in the [[cannabis-nutrient-solution-preparation]], they can
-form crude, insoluble gypsum (calcium sulfate).
-This residue can affect [[ph-and-nutrient-availability-garden-soils]].
-Be mindful of combining calcium-rich and sulfur-
-rich amendments or nutrient solutions.
-
-## Related Topics
-
-- [[cervantes-ph-management-testing]]
-- [[cervantes-nutrient-management]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

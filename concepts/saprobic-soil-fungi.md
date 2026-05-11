@@ -16,7 +16,7 @@ cellulose. While bacteria dominate the initial breakdown of
 simple sugars, fungi excel at degrading complex plant polymers
 through extracellular enzyme secretion. White-rot basidiomycetes
 (Phanerochaete, Trametes) are among the few organisms capable
-of complete lignin degradation, using lignin peroxidase,
+of complete lignin degradation, using [[fungal-lignin-peroxidase-veratryl-alcohol]],
 [[fungal-manganese-peroxidase-remediation]], and laccase. Soft-rot Ascomycota
 (Chaetomium, Xylaria) degrade cellulose and hemicellulose.
 Fungal hyphae physically penetrate organic particles, increasing
@@ -32,11 +32,11 @@ through respiration while incorporating a portion into fungal
 biomass, which constitutes a significant soil carbon pool with
 slow turnover rates. Fungi mineralise organic nitrogen through
 protease and chitinase activity, releasing ammonium for plant
-uptake. For phosphorus cycling, saprobic fungi solubilise
-mineral phosphates through organic acid production (oxalic,
+uptake. For [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]], saprobic fungi solubilise
+mineral phosphates through [[staycare-fungal-organic-acid-production-metal-leaching]] (oxalic,
 citric acid), making phosphorus bioavailable. Fungal necromass
 (dead hyphae) is rich in chitin and glomalin-related proteins,
-contributing to stable soil organic matter and improving soil
+contributing to stable [[knf-leaf-mold-humus]] and improving soil
 aggregation and water-holding capacity.
 
 ## Common Genera in Soil
@@ -78,7 +78,7 @@ fungal activity. Most soil fungi require water potential above
 -5 MPa, with optimal decomposition near field capacity.
 Temperature directly affects enzymatic rates: mesophilic fungi
 (20-30°C) dominate temperate soils while thermophiles colonise
-composting material. Soil pH shifts community composition:
+composting material. Soil pH shifts [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]:
 acidic soils (pH <5) favour Ascomycota, while neutral to
 alkaline soils support more Basidiomycota and Zygomycota.
 Substrate quality (C:N ratio, lignin content) determines which
@@ -87,23 +87,3 @@ or chemical application reduces fungal biomass and shifts
 communities toward disturbance-tolerant generalists.
 
 ## Methods for Studying Soil Fungi
-
-Traditional methods include soil [[particle-filtration-dilution-plating-microfungal-isolation]] on selective
-and non-selective media, Warcup soil plates, and baiting
-techniques using sterile hair, insect exoskeletons, or
-cellulose. These capture an estimated 1-5% of soil fungal
-species. [[genetic-improvement-agaricus-bisporus-molecular-approaches]] have transformed soil mycology:
-direct DNA extraction followed by ITS metabarcoding reveals far
-greater diversity than cultivation. Metabarcoding studies
-consistently recover hundreds to thousands of fungal OTUs per
-sample. Stable isotope probing (SIP) links fungal identity to
-functional activity by tracking labelled substrates into DNA.
-Metatranscriptomics provides insights into active metabolic
-pathways. Combining cultivation and molecular approaches yields
-the most comprehensive picture of soil fungal communities.
-
-## See Also
-- [[fungal-decomposition-processes]]
-- [[mycorrhizal-inoculation]]
-- [[soil-food-web-nutrient-cycling]]
-- [[fungal-succession-woody-debris-ecology]]

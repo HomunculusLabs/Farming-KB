@@ -16,7 +16,7 @@ Mediterranean region and Central Asia. Prized for its bright, lemon-scented
 foliage, lemon balm has been cultivated for over 2,000 years as a medicinal
 herb, culinary ingredient, bee plant, and garden ornamental. Its genus name
 Melissa comes from the Greek word for "honeybee," reflecting its long-
-standing association with beekeeping. (see [[valerian-growing-guide]]).
+standing association with beekeeping.
 
 ## Botanical Profile
 
@@ -29,17 +29,17 @@ standing association with beekeeping. (see [[valerian-growing-guide]]).
 
 The heart-shaped, deeply veined leaves release a strong lemon fragrance when
 crushed. The plant forms bushy clumps and spreads by both rhizomes and self-
-seeding. (see [[echinacea-growing-guide]]).
+seeding.
 
 ## Medicinal Uses
 
-Lemon balm contains rosmarinic acid, flavonoids, and essential oils
+Lemon balm contains rosmarinic acid, flavonoids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
 (citral, citronellal, geranial) responsible for its calming and antiviral
 properties.
 
 Key medicinal applications:
 
-- Anxiety and stress relief: One of the gentlest nervine herbs. Clinical
+- Anxiety and stress relief: One of the gentlest [[nervine-herbs-and-anxiety-relief]]. Clinical
   studies support its use for reducing anxiety and improving mood, often
   in combination with valerian.
 - Sleep support: Promotes relaxation and improves sleep quality, especially
@@ -53,7 +53,7 @@ Key medicinal applications:
   and has been studied for use in Alzheimer's patients.
 - Fever reduction: Mild diaphoretic properties useful for breaking fevers.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tea: Steep 1-2 teaspoons dried leaves in hot water for 5-10 minutes
 - Tincture: Fresh or dried leaf tincture (1:2 or 1:5 in 40-60% alcohol)
 - Infused oil: For topical use on cold sores
@@ -84,7 +84,7 @@ produces the best foliage with consistent moisture.
 ### Propagation
 
 From seed:
-- Sow seeds indoors 6-8 weeks before last frost
+- Sow [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] 6-8 weeks before last frost
 - Lightly press seeds into soil; do not cover (needs light to germinate)
 - Germination: 10-21 days at 70 degrees F
 - Stratification improves germination rates
@@ -125,8 +125,8 @@ or spearmint and is easier to manage.
 
 ### Care and Maintenance
 - Water regularly during the first season; established plants are moderately
-  drought tolerant
-- Mulch with compost to retain moisture and suppress weeds
+  [[drought-tolerant-planting-design]]
+- Mulch with compost to retain moisture and [[query-how-do-cover-crops-suppress-weeds]]
 - Cut plants back by half after flowering to encourage a fresh flush of
   growth and prevent excessive self-seeding
 - Cut back to the ground in fall; mulch lightly in colder zones
@@ -137,10 +137,10 @@ or spearmint and is easier to manage.
 ## Harvesting
 
 For tea and culinary use:
-- Harvest leaves at any time during the growing season
+- Harvest leaves at any time during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 - The highest essential oil concentration is just before flowering
 - Cut stems 2-3 inches above the base; the plant will regrow
-- Harvest in the morning after dew has dried for best flavor and potency
+- Harvest in the morning after dew has dried [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]] and potency
 
 For medicinal use:
 - Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid

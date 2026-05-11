@@ -20,7 +20,7 @@ used in commercial and home [[query-how-does-no-till-cannabis-cultivation-work]]
 advantages in terms of flavor, yield, complexity, and control.
 
 ## Living Soil Cannabis
-[[soil-food-web]].
+[[soil-foodweb]].
 The grower's role shifts from managing nutrient solutions to maintaining
 conditions that allow soil biology to thrive. This means managing
 moisture, aeration, temperature, and periodically top-dressing with
@@ -80,4 +80,4 @@ volumes and natural light cycles complement the biology-driven approach.
 Growers practicing [[integrated-pest-management]] and [[deep-water-culture]] and
 [[comparison-dwc-vs-ebb-and-flow]]
 - [[cannabis-indoor-growing-basics]]
-- [[soil-food-web]]
+- [[soil-foodweb]]

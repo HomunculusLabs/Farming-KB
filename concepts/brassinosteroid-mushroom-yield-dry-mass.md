@@ -88,9 +88,3 @@ Faster mycelial growth allows more complete colonization of the substrate
 before fruiting initiation. The steroid may also enhance nutrient
 transport from substrate to developing fruit bodies, improving the
 efficiency of resource utilization.
-
-## Related
-
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- [[brassinosteroid-fungal-fruiting-body-morphology]]
-- [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]

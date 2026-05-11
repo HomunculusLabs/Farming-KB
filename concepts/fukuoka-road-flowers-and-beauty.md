@@ -5,6 +5,7 @@ tags: [beauty, flowers, europe, nature, aesthetics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,12 +88,3 @@ What we have is a humanity no longer moved by true beauty
 smugly saying that a beauty worthy of man has been created
 in cultivated and artificial flowers. The stagnation of
 European culture arises from the fact that no matter how
-much one decorates the gardens and windows, no matter how
-carried away one gets with fabricated beauty, mankind cannot
-be content with imitations.
-
-While observing the decline of European civilization,
-Fukuoka could not help wondering about the future of
-traditional Japanese culture -- flower arrangement and the
-tea ceremony -- that seem to be flourishing so magnificently
-today, yet may be equally hollow at their core. See also [[fukuoka-european-travels-natural-farming]].

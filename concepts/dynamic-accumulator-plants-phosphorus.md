@@ -58,16 +58,16 @@ From documented observations, the following plants also accumulate phosphorus at
 
 ### Highly Productive Accumulators
 
-- **Comfrey** (*Symphytum officinale*) — accumulates across nearly all nutrient categories; perennial; can be cut multiple times per season
+- **Comfrey** (*[[comfrey-symphytum-officinale]]*) — accumulates across nearly all nutrient categories; perennial; can be cut multiple times per season
 - **Stinging nettle** (*Urtica urens*) — high phosphorus alongside nitrogen; excellent for compost activation
 - **Dandelion** (*Taraxacum vulgare*) — deep taproot mines subsoil phosphorus; ubiquitous and easy to use
 - **Chickweed** (*Stellaria media*) — common accumulator with broad nutrient profile; prolific in cool weather
 
 ### Perennial Accumulators
 
-- **Chicory** (*Cichorium intybus*) — deep taproot perennial; [[permplant-carob-drought-tolerant-food-tree]]
+- **Chicory** (*[[cichorium-intybus]]*) — deep taproot perennial; [[permplant-carob-drought-tolerant-food-tree]]
 - **Plantains** (*Plantago* spp.) — common broadleaf "weeds"; very deep taproots
-- **Yarrow** (*Achillea millefolium*) — perennial with extensive root system; drought tolerant once established
+- **Yarrow** (*[[achillea-millefolium]]*) — perennial with extensive root system; drought tolerant once established
 - **Vetches** (*Vicia* spp.) — dual N and P accumulator; excellent cool-season cover crop
 - **Clovers** (*Trifolium* spp.) — leguminous with phosphorus cycling ability; living mulch option
 
@@ -75,62 +75,16 @@ From documented observations, the following plants also accumulate phosphorus at
 
 - **Lamb's quarters** (*Chenopodium album*) — fast-growing annual weed; pioneer species
 - **Burdock** (*Arctium minus*) — deep taproot biennial; large leaves produce significant biomass
-- **Purslane** (*Portulaca oleracea*) — succulent summer annual; edible and nutritious
+- **Purslane** (*[[portulaca-oleracea]]*) — succulent summer annual; edible and nutritious
 - **Red-root pigweed** (*Amaranthus retroflexus*) — large summer annual; high biomass producer
 - **Shepherd's purse** (*Capsella bursa-pastoris*) — widespread winter annual; common in gardens
 
 ### Wetland and Aquatic Accumulators
 
-- **Watercress** (*Nasturtium officinale*) — aquatic accumulator; high phosphorus content
+- **Watercress** (*[[nasturtium-officinale]]*) — aquatic accumulator; high phosphorus content
 - **Cattail** (*Typha latifolia*) — marsh plant; accumulates P, K, and trace minerals
 
 ### Herb Accumulators
 
-- **Fennel** (*Foeniculum vulgare*)
+- **Fennel** (*[[foeniculum-vulgare-entity]]*)
 - **Peppermint** (*Mentha piperita*)
-- **Lemon balm** (*Melissa officinalis*)
-- **Savory** (*Satureja* spp.)
-- **Parsley** (*Petroselinum crispum*)
-- **Chives** (*Allium* sp.)
-
-### Additional Accumulators
-
-- Horsetails (*Equisetum* spp.)
-- Docks (*Rumex* spp.)
-- Sow thistle (*Sonchus arvensis*)
-- Toadflax (*Linaria vulgaris*)
-- Strawberry leaves (*Fragaria* spp.)
-- Silverweed
-- Spurges (*Euphorbia* spp.)
-- Tansy (*Tanacetum vulgare*)
-- Oat straw
-- Kelp (seaweed)
-- Meadowsweet (*Filipendula ulmaria*)
-- Sorrel (*Rumex* spp.)
-- Willow (*Salix* spp.)
-- Flax seed (*Linum usitatissimum*)
-
-## Practical Seasonal Strategy
-
-The three key phosphorus accumulators — alfalfa, buckwheat, and mustard — deserve a central role in any edible landscape design. A seasonal rotation might look like:
-
-1. **Cool season**: Mustard or clover as cover crop; incorporate before warm-season planting
-2. **Summer**: Buckwheat as quick phosphorus-cycling green manure; 30-45 day cycles
-3. **Multi-year**: Alfalfa or clover as perennial phosphorus accumulator in borders, pathways, and orchard understory
-
-## Phosphorus Availability Notes
-
-- Phosphorus accumulators are most effective when their biomass is returned to the soil (not removed)
-- Combining accumulator plants with [[pgpr-mycorrhizal-inoculants-microplant-establishment]] amplifies phosphorus cycling significantly
-- Soil pH affects phosphorus availability — slightly acidic to neutral (pH 6.0-7.0) is optimal for most accumulators
-- Phosphorus is very slow to move through the soil profile; surface applications with accumulator mulch keep it in the root zone
-- Avoid applying phosphorus accumulators to areas with already excessive phosphorus levels
-
-## Related Pages
-
-- [[dynamic-accumulator-plants-potassium]]
-- [[dynamic-accumulator-plants-trace-minerals]]
-- [[dynamic-accumulators]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[green-manure-cover-crops]]

@@ -11,7 +11,7 @@ sources:
 # JHS Making Guide with 100 Herbs
 
 **Updated:** 2026-04-18
-**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.287-297 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.287-297 ([[youngsang-cho]], 2016)
 
 ## Overview
 
@@ -27,7 +27,7 @@ JADAM [[jadam-herb-solution-jhs]] (JHS) is made by boiling herbs in water and ex
 - Heat-resistant bottles for storage
 
 ### Ingredients
-- 3 kg (6.6 lb) of dried herb material
+- 3 kg (6.6 lb) of [[dried-herb-storage]] material
 - 75 L (19.8 gal) of water
 
 ### Procedure
@@ -46,7 +46,7 @@ JADAM [[jadam-herb-solution-jhs]] (JHS) is made by boiling herbs in water and ex
 12. **Bottle immediately** -- Pour into heat-resistant bottles
 13. **Fill completely** -- Squeeze slightly until no air is left, seal with lid
 14. **Lay on side** -- Immediately lay bottles on their side so hot liquid disinfects the lid area
-15. **Cold storage** -- Place in cold storage for long-term keeping
+15. **[[root-cellaring-guide]]** -- Place in cold storage for long-term keeping
 
 ### Alternative: Electric Heater Method
 - Use heat-resistant 110 L (29 gal) container
@@ -69,7 +69,7 @@ Below are the documented herbs from JADAM's guide, organized by type:
 | Monkshood | Leaves and roots | Autumn | Highly toxic -- use with care |
 | Sophora root | Roots | Autumn | Strong insecticide |
 | Red spider lily | Roots | Autumn to winter | Toxic bulb |
-| Garlic | Bulbs | Any time | Universal pest deterrent |
+| Garlic | Bulbs | Any time | Universal [[cervantes-companion-planting-pest-deterrent]] |
 | Foxglove | Leaves | Spring to autumn | Contains cardiac glycosides |
 | Bracken | Leaves | Spring to autumn | Widely available |
 
@@ -82,32 +82,9 @@ Below are the documented herbs from JADAM's guide, organized by type:
 | Garden balsam | Leaves and roots | Spring to autumn | |
 | Oleander | Leaves | Spring to autumn | Can replace KPFR in recipe #9 |
 | Peppermint | Leaves | Spring to autumn | Strong scent repels insects |
-| Hot pepper | Fruits | Autumn | |
+| [[knf-soap-water-and-hot-pepper]] | Fruits | Autumn | |
 
 ### Fruit-Based JHS
 
 | Herb | Plant Part | Collection Time | Notes |
 |---|---|---|---|
-| Pyracantha | Fruits | Autumn | |
-| Hot pepper | Fruits | Autumn | |
-
-## Storage and Shelf Life
-
-- Can keep for approximately 1 year when well-sterilized
-- Must be completely full in bottle with no air pockets
-- Store in cold storage
-- Only costs your labor
-
-## Usage Guidelines
-
-- Use 3-20 L (0.8-5.3 gal) per 500 L (132 gal) of spray
-- Can apply to all crops
-- Causes little concentration stress
-- Use water that passes [[permaculture-farm-design-principles]] principle of avoiding monoculture approaches even in [[cervantes-biological-pest-control-predators]] management.
-
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] - How to combine JHS into JNP
-- [[jadam-jhs-nutritional-analysis]] - Nutritional data showing fertilizer value
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-natural-pest-control-methods]]

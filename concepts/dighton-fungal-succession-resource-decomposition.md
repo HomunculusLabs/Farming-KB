@@ -88,34 +88,3 @@ units.
 In forested systems, standing deadwood in canopies hosts different
 [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] than wood on the forest floor. Boddy and Rayner
 (1983) found 12 basidiomycete species dominated oak wood in canopies.
-Phellinus ferreus, Stereum gausapatum, and Vuilleminia comedens were
-pioneer species of partially living branches. Phlebia adiata and
-Coriolus versicolor were secondary colonizers, while Hyphoderma
-setigerum and Stereum hirsutum were related to insect activity.
-
-In wood, interactions among fungi are clearly observable. Zones of
-interaction among adjacent competing colonies have been mapped in three
-dimensions using wood as a resource. Clear demarcation zones develop
-when genetically incompatible strains or species meet in relatively
-homogenous resources. The colonization pattern of individual straw units
-by fungi was correlated to relative growth rates, allowing species to
-be ranked in combative order.
-
-## Competition and Antibiotic Production
-
-Mixtures of fungal species caused significant reductions in growth rate
-of less combative species in the presence of combative ones. In aquatic
-systems, decomposition rates were reduced in mixed-species fungal
-assemblages compared to single species, attributed to production of
-antimicrobial compounds causing non-nutritional competition between
-fungal species. These competitive interactions shape community
-composition throughout the decomposition process.
-
-## See Also
-
-- fungal-succession-seral-vegetation
-- [[fungal-leaf-litter-succession]]
-- fungal-community-ecology
-- [[dighton-pine-needle-litter-decomposition-fungal-succession]]
-- [[fungal-decomposition-succession-resource-quality]]
-- [[phellinus-ferreus]]

@@ -88,34 +88,3 @@ Great Basin bristlecone pine is a climax species on high-elevation limestone sub
 Associated tree species at lower elevational limits include [[picea-pungens]], [[pseudotsuga-menziesii]], and limber pine (*P. flexilis*). At upper treeline, bristlecone pine is often the only tree species present.
 
 The species provides critical habitat for few specialized organisms due to the extreme environment. Clark's nutcrackers (*Nucifraga columbiana*) cache bristlecone seeds and may contribute to regeneration. The Bristlecone Pine [[cervantes-mealybugs-scale-insect-control]] (*Chionaspis pinifoliae*) is one of the few herbivores that regularly affects the species.
-
-Dead bristlecone wood persists on the landscape for thousands of years due to the extremely slow decomposition rate at high, cold, dry sites. Standing snags and fallen logs from dead trees provide stable substrate for lichens and mosses. These ancient wood remnants have enabled the extension of tree-ring chronologies well beyond the lifespan of living trees.
-
-The species' highly resinous wood contains elevated levels of phenolic compounds and pinosylvin, which contribute to its exceptional decay resistance. This chemical defense system is considered a key adaptation enabling the species' extreme longevity in an environment where decomposition is already extremely slow.
-
-## Conservation and Significance
-
-The Ancient Bristlecone Pine Forest in the White Mountains was designated a UNESCO Biosphere Reserve and is managed by the U.S. Forest Service. Recreational access is carefully managed to protect sensitive root zones and bark from damage.
-
-[[dighton-fungi-climate-change-feedback]] poses the primary long-term threat to bristlecone pine populations. Warming temperatures are allowing lower-elevation conifers to advance upslope, potentially outcompeting bristlecone pines at their current elevational range. Drought stress has increased needle mortality in recent decades.
-
-Invasive insects and pathogens, particularly the mountain pine beetle (*Dendroctonus ponderosae*), are expanding their range to higher elevations as winters warm. While bristlecone pine has historically been resistant to beetle attack due to its extreme cold habitat, this protection may diminish under continued warming.
-
-The species has negligible commercial timber value due to its small size, slow growth, and remote habitat. Its wood is extremely dense (approximately 700 kg/m³), hard, and resinous, with distinctive red and brown coloration that has been used for small craft items.
-
-The aesthetic quality of ancient bristlecone pine wood has made it valuable for artistic woodturning and sculpture. Cross-sections of dead trees display thousands of tightly spaced growth rings, creating visually striking patterns. Ethical concerns limit commercial harvesting, with most available wood coming from naturally fallen specimens.
-
-Bristlecone pine research has fundamentally shaped modern understanding of tree biology, climate history, and the science of aging. The species remains a subject of active research in genomics, dendrochronology, and the biology of extreme longevity.
-
-## See Also
-
-- [[pinus-sylvestris]]
-- [[pinus-ponderosa]]
-- [[pinus-nigra]]
-- [[pinus-strobus]]
-- [[pinus-contorta]]
-- [[picea-pungens]]
-- [[picea-abies]]
-- [[picea-sitchensis]]
-- [[juniperus-communis]]
-- [[cedrus-libani]]

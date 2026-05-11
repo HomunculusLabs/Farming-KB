@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,10 +88,5 @@ appear rapidly.
 
 ## Practical Considerations
 
-Selfing cannabis presents practical challenges:
-
-- Cannabis is naturally dioecious (separate male and female plants), so
-  selfing requires inducing a female plant to produce male flowers, as
-  described in [[cervantes-backcross-breeding-methods]]
-- [[cervantes-feminized-seed-production]]
-- [[cannabis-phenotype-selection]]
+## See Also
+- [[cervantes-cannabis-seed-purchasing-storage]]

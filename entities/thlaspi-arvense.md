@@ -12,12 +12,12 @@ updated: 2026-05-10
 sources:
   - Warwick, S.I. et al. (2002). "Biology of Canadian weeds. 131. Thlaspi arvense L." Canadian Journal of Plant Science, 82(4), 817–833.
   - Dushenkov, V. et al. (1995). "Removal of uranium from water using terrestrial plants." Environmental Science & Technology, 29(5), 1232–1238.
-  - Moser, B.R. et al. (2009). "Brassica carinata and Thlaspi arvense feedstocks for biodiesel production." Industrial Crops and Products, 29(1), 2–11.
+  - Moser, B.R. et al. (2009). "Brassica carinata and Thlaspi arvense feedstocks for [[biodiesel-production]]." Industrial Crops and Products, 29(1), 2–11.
 ---
 
 ## Overview
 
-Thlaspi arvense, commonly known as field penny-cress or fanweed, is an annual herb in the family Brassicaceae native to Eurasia and widely naturalized across North America.
+Thlaspi arvense, commonly known as field penny-cress or fanweed, is an annual herb in the family Brassicaceae native to Eurasia and widely naturalized across [[guzman-psilocybin-mushrooms-north-america]].
 
 The species has attracted significant agronomic interest as a potential winter-hardy oilseed crop and as a phytoremediation tool for heavy-metal-contaminated soils.
 
@@ -27,7 +27,7 @@ Field penny-cress produces seeds with an oil composition well-suited for biodies
 
 Thlaspi arvense was described by Linnaeus in 1753. The genus name derives from the Greek *thlapsion*, used by Dioscorides for a flat-leaved plant.
 
-The specific epithet *arvense* means "of the fields," reflecting the species' common occurrence in cultivated and disturbed agricultural land.
+The specific epithet *arvense* means "of the fields," reflecting the species' common occurrence in cultivated and disturbed [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Plants grow 20–60 cm tall with an erect, typically unbranched or sparingly branched stem arising from a basal rosette.
 
@@ -51,7 +51,7 @@ Thlaspi arvense is native to Europe, western Asia, and Siberia, with a natural d
 
 The species was introduced to North America in the eighteenth century and has since naturalized across most of the contiguous United States and southern Canada.
 
-In North America, field penny-cress is most common in the Great Plains, Upper Midwest, and Pacific Northwest regions, where it frequently occurs as an agricultural weed.
+In North America, field penny-cress is most common in the Great Plains, Upper Midwest, and [[psilocybin-north-america-pacific-northwest]] regions, where it frequently occurs as an agricultural weed.
 
 The plant inhabits cultivated fields, roadsides, railway embankments, waste areas, and disturbed ground with moderately fertile, well-drained soils.
 
@@ -59,7 +59,7 @@ It tolerates a broad pH range from slightly acidic to alkaline conditions and pe
 
 Thlaspi arvense is found at elevations from sea level to approximately 2,000 meters in its native European range, including montane agricultural zones.
 
-The species is a characteristic component of the *Caucalidion lappulae* weed community in central European cereal fields.
+The species is a characteristic component of the *Caucalidion lappulae* weed community in [[psilocybe-bohemica-central-european]] cereal fields.
 
 ## Edibility and Uses
 
@@ -83,39 +83,8 @@ The species has been investigated as a candidate for phytoextraction of uranium 
 
 Research has shown that field penny-cress can tolerate elevated concentrations of selenium and sulfur in soils associated with industrial contamination.
 
-While not a hyperaccumulator in the strictest sense, the species combines reasonable metal uptake with high biomass production and rapid growth.
+While not a hyperaccumulator in the strictest sense, the species combines reasonable metal uptake with high [[dighton-fungal-biomass-production-aquatic-ecosystems]] and rapid growth.
 
 Integration of phytoremediation with biofuel production from harvested seed oil represents a potentially economically viable remediation strategy.
 
 Field trials have demonstrated that Thlaspi arvense can be grown on marginally contaminated land without significant metal transfer to harvested seeds under certain soil conditions.
-
-## Agronomic Interest
-
-Thlaspi arvense has emerged as a promising winter-hardy oilseed crop for the Upper Midwest of the United States, where it can be double-cropped with soybeans or corn.
-
-Seeds contain approximately 30–36% oil with a fatty acid profile rich in erucic acid and linoleic acid, similar to industrial rapeseed varieties.
-
-The oil is well-suited for biodiesel production due to its favorable cold-flow properties and oxidative stability, meeting ASTM biodiesel fuel standards.
-
-As a winter annual, field penny-cress establishes in autumn, overwinters, and matures in early summer, fitting into existing crop rotations without displacing primary commodities.
-
-The species requires minimal agronomic inputs and can grow on marginal land, making it attractive for sustainable biofuel production systems.
-
-Domestication efforts are underway to improve seed yield, reduce seed shattering, and enhance oil content through breeding and genetic selection.
-
-Agronomic research at several US land-grant universities has developed semi-domesticated lines yielding up to 1,500 kg per hectare under field conditions, approaching economic viability for commercial production.
-
-Field penny-cress also functions effectively as a cover crop, reducing soil erosion and nutrient runoff during the winter fallow period between summer crops.
-
-## See Also
-
-- [[camelina-sativa]]
-- [[sinapis-arvensis]]
-- [[brassica-napus]]
-- [[brassica-juncea]]
-- [[arabidopsis-thaliana]]
-- [[capsella-bursa-pastoris]]
-- [[barbarea-vulgaris]]
-- [[raphanus-sativus]]
-- [[phytoremediation]]
-- [[brassica-rapa]]

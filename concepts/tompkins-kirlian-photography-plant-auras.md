@@ -88,32 +88,6 @@ was among the first Americans to make Kirlian-type pictures. At the
 First Western Conference on Kirlian Photography and the Human Aura in
 1972, startling pictures were shown of a leaf before and after being
 pricked. The photo of the wounded leaf revealed an enormous blood-red
-pond of energy in its center, replacing the bright azure and pinkish
-hue that showed before the pricking.
-
-Moss conjectured that "at whatever frequency we take a picture, we are
-resonating, or vibrating at the same frequency, with one particular
-aspect of the material; thus, not a whole picture, but different pieces
-of information are picked up." Kirlian photos of faith healers revealed
-a smaller glow after healing sessions, suggesting that personal
-bioenergetic reserves were being depleted in the process.
-
-## The Bioplasmic Body and Universal Connection
-
-Many parapsychologists view humans as integral parts of life on earth
-and in the universe, linked to the cosmos via the bioplasmic body.
-The bioplasmic body reacts to changes on the surface of the sun even
-though cosmic particles take about two days to reach Earth. It is
-through this body that parapsychologists believe a person can be in
-direct contact with a living plant.
-
-Stanford physicist William Tiller recommended that the Kirlian method
-"was so important to parapsychological and medical investigations that
-attention should be focused on immediate construction of such devices
-and the duplication of the Soviet results."
 
 ## See Also
-
-- [[tompkins-photosynthesis-biophotons]] for related biophoton research
-- [[tompkins-plant-perception-experiments]] for plant sentience research
-- [[bioluminescent-fungi]] for natural light emission in organisms
+- [[tompkins-plant-perception-experiments]]

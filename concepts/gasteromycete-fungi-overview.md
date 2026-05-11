@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 # Gasteromycete Fungi Overview Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi, "stomach fungi") are stinkhorn-fungi-biology - **Cage fungi** (Clathrus, Anthurus, Laternea) - Elaborate cage or star-shaped receptacles [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - **Earth-stars** (Geastrum) - Puffballs surrounded by star-shaped outer layers that open upon
@@ -87,14 +88,3 @@ Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

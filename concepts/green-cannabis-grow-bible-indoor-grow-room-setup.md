@@ -1,8 +1,9 @@
 ---
-title: Indoor Grow Room Setup - Greg Green's Cannabis Grow Bible
+title: Green Cannabis Grow Bible Indoor Grow Room Setup
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/greg-green-the-cannabis-grow-bible.md
 type: concept
 tags: [cannabis]
@@ -19,7 +20,7 @@ reflective surfaces and grow methods.
 Common indoor locations include attics, closets, basements, spare
 bathrooms, and purpose-built cabinets. The space must accommodate
 plant height, allow for light-proofing during flowering, and permit
-[[stamets-growing-room-air-circulation-co2-management]]. Security considerations include odor control, heat
+[[stamets-growing-room-air-circulation-co2-management]]. Security considerations include [[cannabis-odor-control-and-carbon-filters]], heat
 signatures, and visibility to visitors or service personnel.
 
 ## Lighting
@@ -40,7 +41,7 @@ covers the full range of lighting options:
 A full HID kit contains a bulb, reflector, ballast, timer, and
 electrical connections. Two main types:
 
-- **Metal Halide (MH)**: Better for [[cannabis-vegetative-growth-stage]]; gives off a
+- **[[cervantes-metal-halide-lighting-systems]] (MH)**: Better for [[cannabis-vegetative-growth-stage]]; gives off a
   blue tone. Range 75W-4000W.
 - **High [[cervantes-high-pressure-sodium-lighting]] (HPS)**: Better for flowering; gives off an
   orange tone. Considered the lighting choice of most cannabis
@@ -86,45 +87,4 @@ increases yields by 30% compared to 99% light-tight.
 ## Ventilation and Air
 
 - Always keep a window open or use extractor and intake fans
-- Plants need fresh air during both vegetative growth and flowering
-- Fans should circulate air close to mature plants to strengthen
-  stems and branches
-- During winter, refresh air for 15-20 minutes then close
-
-## Environment Control
-
-- **Temperature**: Target 75 degrees F. During dark periods of
-  flowering, temperature can drop to 55 degrees F.
-- **Humidity**: Target 40-80% relative humidity, ideally 60%. Fresh
-  air is the best [[cervantes-humidity-control-dehumidification]].
-- **CO2**: Plants benefit from supplemental CO2, which also helps
-  produce bigger buds.
-
-## Grow Methods
-
-Green describes four common indoor setups:
-
-1. **Bench growing**: Standard pot-on-bench under lights
-2. **SOG (Sea of Green)**: 1 plant per square foot, all clones from
-  a single mother, flowered immediately for fast turnover
-3. **ScrOG ([[cannabis-screen-of-green-scrog-guide]])**: Fewer plants trained through a wire
-  mesh screen to create an even bud canopy; average 2 oz per square
-  foot of screen with proper timing
-4. **Cabinet growing**: Small enclosed spaces (1-4 plants) with a
-  perpetual cycle using clones
-
-## Advanced Setup Example
-
-A professional grow room might be 14x24 feet with 9-foot ceilings,
-multiple vertically suspended HPS lights, Mylar and flat white
-surfaces, multiple air ducts, ozone generator for odor, CO2
-generator, and light movers (Light Rail or Sun Circle).
-
-## Related Pages
-
-- [[cannabis-indoor-growing-basics]]
-- [[cannabis-hid-lighting-specifications]]
-- [[cannabis-environment-control]]
-- [[cannabis-indoor-growing-basics]]
-- [[cannabis-grow-room-setup]]
-- [[cannabis-perpetual-grow-cycle]]
+- Plants need fresh air during both [[green-cannabis-vegetative-growth]] and flowering

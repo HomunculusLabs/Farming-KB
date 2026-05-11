@@ -87,10 +87,3 @@ development approach aligns naturally with permaculture principles
 of localized adaptation and reducing dependence on purchased seed.
 Store cleaned, dried seed in paper envelopes in a cool, dry place;
 viability remains high for 3-5 years under these conditions.
-
-## See Also
-
-- [[grain-harvesting-and-storage]]
-
-- permaculture-cold-climate-strategies
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-method]]

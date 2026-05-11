@@ -12,11 +12,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Joshi, P., Dhawan, V. (2005). "Swertia chirayita — a review." Current Science,
+  - Joshi, P., Dhawan, V. (2005). "swertia-chirayita — a review." Current Science,
     89(4), 635-641.
   - Brahmachari, G. & Mondal, S. (2014). "The genus Swertia: A review of
     phytochemistry and pharmacology." Pharmacognosy Reviews, 8(16), 60-68.
-  - Negi, J.S. et al. (2011). "Chemical constituents of Swertia chirata."
+  - Negi, J.S. et al. (2011). "[[guzman-magic-mushrooms-chemical-constituents]] of Swertia chirata."
     Natural Product Research, 25(4), 353-366.
   - Kshirsagar, A. et al. (2015). "A comprehensive review on Swertia chirata."
     Journal of Pharmacognosy and Phytochemistry, 4(1), 137-142.
@@ -89,59 +89,7 @@ pharmacological activity.
 
 Key compounds include:
 
-- **Amarogentin** — the most bitter compound known (bitterness threshold
-  1 ppb). Primary contributor to digestive bitter tonic effmedicinal-mushroom-antioxidant-anti-inflammatorycroside** — secoiridoid glycoside; hepatoprotective and
-  anti-inflammatory.
-- **Swertiamarin** — secoiridoid with anti-diabetic, hepatoprotective,
-  and anti-inflammatory effects.
-- **Mangiferin** — xanthone glycoside with antioxidant,
-  anti-diabetic, and immunomodulatory activity.
-- **Sweroside** — secoiridoid with hepatoprotective activity.
-- **Amaroswerin** — bitter xanthone glycoside.
-
-Total xanthone content ranges from 2–5% of dried material, with
-amarogentin typically comprising 0.2–0.5%.
-
-## Pharmacology and Traditional Uses
-
-**Hepatoprotective:** A primary hepatic tonic in Ayurveda and Unani
-medicine. Gentiopicroside and swertiamarin protect against
-CCl₄-induced hepatotoxicity in animal models.
-
-**A -used-foretic:** Swertiamarin and mangiferin demonstrate hypoglycemic
-activity via enhanced insulin secretion. Used for *madhumeha* (diabetes).
-
-**Anti-inflammatory and antioxidant:** Xanthones inhibit COX-2,
-NF-κB, and TNF-α pathways. Mangiferin shows significant free
-radical scavenging.
-
-**Anthelmintic:** Traditional use for intestinal worms supported by
-in vitro activity against *Ascaris* species.
-
-**Antipyretic:** Decoctions used for malaria-like intermittent fevers.
-
-**Digestive tonic:** Amarogentin's extreme bitterness stimulates the
-vagus nerve, increasing salivation and bile flow.
-
-## Cultivation
-
-Cultivation is challenging due to altitude requirements, seed dormancy,
-and fungal pathogen susceptibility.
-
-Propagation by seed requires cold stratification (30–60 days) with
-germination rates of 30–50%. Plants spaced 30–45 cm in partial shade.
-Harvest at flowerifungal--statuse content.
-
-Conservation cultivation programs have had limited success replacing
-wild collection due to quality differences.
-
-## 
-
-*swertia chirata* is classified as **Critically Endangered** by the
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
-
 ## See Also
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
-- [[herbal-plant-remedies]]
+- [[swertia-japonica]]
+- [[swertia-diluta]]
+- [[swertia-perennis]]

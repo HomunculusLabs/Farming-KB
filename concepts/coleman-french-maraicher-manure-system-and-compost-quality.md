@@ -1,17 +1,17 @@
 ---
-title: French Maraîcher Manure System and Compost Quality
+title: Coleman French Maraicher Manure System And Compost Quality
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
 tags: [french-intensive, maraicher, manure, compost, hotbed, eliot-coleman, organic-farming]
 sources:
-  - "eliot-coleman - The Winter Harvest Handbook"
+  - "eliot-coleman - The cold-house-winter-harvest-system Handbook"
 ---
 
 # French Maraîcher Manure System and Compost Quality
 
 The 19th-century Parisian maraîchers (market gardeners) built the
-world's most productive urban agriculture system on a foundation of
+world's most productive [[urban-agriculture-and-rooftop-farming]] system on a foundation of
 horse manure — using it simultaneously as heat source, soil
 amendment, and the cornerstone of their organic philosophy.
 
@@ -36,7 +36,7 @@ load of manure brought onto the site.
 ## Composted Horse Manure as Supreme Amendment
 
 Coleman states unequivocally that compost made from a mixture of
-horse manure and straw is "the best of all for vegetable growing."
+horse manure and straw is "the best of all for [[fukuoka-natural-vegetable-growing]]."
 
 The French maraîchers strongly agreed with this assessment.
 
@@ -62,7 +62,7 @@ Gressent connected compost use directly to pest resistance:
 "In principle, insect pests only attack weak, sickly plant
 specimens lacking proper nutrition."
 
-He pointed to the Parisian market gardens as proof — where
+He pointed to the [[parisian-market-gardening]] gardens as proof — where
 "copious compost use and rational crop rotations" eliminated
 pest problems entirely.
 
@@ -71,7 +71,7 @@ understanding of plant immunity and soil health.
 
 ## Hottes — The Basket Backpack System
 
-The physical logistics of manure handling required special
+The physical logistics of [[solomon-manure-handling-and-cof-ingredients]] required special
 equipment due to the garden's extreme space efficiency.
 
 Access paths were only 10 inches wide — too narrow for
@@ -87,56 +87,3 @@ manure tumble out over their head into the bed.
 Horse manure from city stables arrived at the gardens daily,
 carried by the same wagons that had delivered vegetables to
 Parisian markets — another elegant efficiency of the system.
-
-## The Organic Philosophy of the Maraîchers
-
-The old maraîchers were "organic in the best modern sense,"
-arriving at this conclusion through practical experience rather
-than ideology.
-
-Their rejection of chemical fertilizers was based on observed
-results: quantity without quality, pest vulnerability without
-compost.
-
-This empirical approach to organic growing — grounded in
-demonstrable outcomes rather than philosophical positions —
-lends particular weight to their techniques.
-
-## The Closed-Loop Urban Nutrient Cycle
-
-The maraîcher system represented a complete urban nutrient cycle:
-horses consumed hay grown on rural land, produced manure in city
-stables, the manure heated and fertilized intensive garden beds,
-and the resulting vegetables fed Parisian residents.
-
-Waste from the city (horse manure) became the productive input
-for urban agriculture. Vegetable waste presumably returned to
-compost piles, completing the cycle.
-
-This model of urban metabolism — where city "waste" streams feed
-[[fukuoka-agricultural-production-net-energy-deduction]] — remains highly relevant to modern
-urban agriculture and [[zeri-circular-economy-systems]] discussions.
-
-## Supplementary Climate Protection
-
-Beyond manure heat, the maraîchers used one-inch-thick rye straw
-mats rolled out over glass covers for overnight insulation.
-
-The central France climate (USDA Zone 8 equivalent, with winter
-minimums of 10°F to 20°F) was moderated by the Paris heat island
-effect, but the straw mats provided critical extra protection
-on the coldest nights.
-
-## See Also
-
-- [[coleman-french-maraicher-horse-manure-hotbed-system]]
-- [[coleman-british-adoption-of-french-intensive-gardening]] — Cross-Channel transfer
-- coleman four season harvest — Modern winter harvest techniques
-- french [[solomon-wide-spacing-versus-intensive-gardening-debate]] — Comprehensive system overview
-- hotbed manure heating — Manure-based heat generation
-- compost quality and soil health — Compost as foundation
-- [[coleman-french-maraicher-parisian-intensive-market-gardening]]
-- [[coleman-semi-hibernating-winter-crops-harvest-extension]]
-- [[coleman-winter-harvest-philosophy]]
-- [[winter-gardening-season-extension]]
-- [[coleman-season-extension-timeline-and-frost-protection]]

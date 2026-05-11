@@ -1,6 +1,6 @@
 ---
-title: fukuoka dutch priest vegetable garden spiritual renewal's Spiritual Renewal Through home-vegetable-garden-planning
-author: Masanobu Fukuoka
+title: Fukuoka Dutch Priest Vegetable Garden Spiritual Renewal
+author: [[masanobu-fukuoka]]
 source: The Road Back to Nature
 tags: [fukuoka, natural-farming, spiritual-renewal, gardening-therapy, holland, europe, nelissen, therapeutic-horticulture]
 created: 2026-05-08
@@ -10,11 +10,11 @@ created: 2026-05-08
 
 ## Overview
 
-One of the most moving stories in *The Road Back to Nature* concerns a Dutch priest who recovered from severe depression and suicidal thoughts through the simple act of creating a vegetable garden. This story, which Fukuoka witnessed firsthand during his visit to Holland, powerfully illustrates his belief that working with nature restores not just physical health but spiritual and psychological well-being.
+One of the most moving stories in *The Road Back to Nature* concerns a Dutch priest who recovered from severe depression and suicidal thoughts through the simple act of creating [[query-how-do-i-plan-and-start-a-vegetable-garden-from-scratch]]. This story, which Fukuoka witnessed firsthand during his visit to Holland, powerfully illustrates his belief that working with nature restores not just physical health but spiritual and psychological well-being.
 
 ## The Context: Thomas Nelissen's Teaching Tour
 
-The priest's story emerged from the work of Thomas Nelissen, a young Dutchman who had spent three years at Fukuoka's farm in Japan. Upon returning to Holland, Nelissen traveled the country teaching people how to set up home vegetable gardens using Fukuoka's natural methods. This work became quite popular and helped convince Dutch banks to loan Nelissen the equivalent of $400,000 to establish a 75-acre [[fukuoka-creating-natural-farm-site-selection-establishment]] called "Yakuso."
+The priest's story emerged from the work of Thomas Nelissen, a young Dutchman who had spent three years at Fukuoka's farm in Japan. Upon returning to Holland, Nelissen traveled the country teaching people how to set up home [[maintaining-organic-matter-in-vegetable-gardens]] using Fukuoka's [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]. This work became quite popular and helped convince Dutch banks to loan Nelissen the equivalent of $400,000 to establish a 75-acre [[fukuoka-creating-natural-farm-site-selection-establishment]] called "Yakuso."
 
 The priest was one of many ordinary people Nelissen taught during his travels. His story stood out to Fukuoka because of its dramatic demonstration of gardening's transformative power.
 
@@ -56,7 +56,7 @@ The priest thought this was funny and laughed heartily. He was not offended. Thi
 
 The priest then took Fukuoka and Thomas to a beach crowded with people. He had a specific reason: much of Holland is below sea level, so protecting the coastline is vital to national survival. He showed them a government test station where vegetation was planted to research different varieties for stabilizing sandy beaches.
 
-Fukuoka observed that the government-planted saplings were not doing well, but wild vines and crucifers growing on the sandy beach appeared healthier. He suggested planting these native species instead, noting that nature often provides better solutions than scientific research.
+Fukuoka observed that the government-planted saplings were not doing well, but wild vines and crucifers growing on the sandy beach appeared healthier. He suggested planting these native species instead, noting that nature often provides better solutions than [[psilocybin-isolation-and-early-scientific-research]].
 
 ## Broader Significance: Horticultural Therapy
 
@@ -88,34 +88,3 @@ The story also highlights a contrast between two types of institution:
 - **The vegetable garden**: Created by the priest's own hands, restoring his sense of self
 
 Fukuoka consistently argued that human-built institutions, however well-intentioned, tend to alienate people from nature, while natural processes tend to restore wholeness.
-
-## Relevance to Modern Mental Health
-
-The priest's story resonates powerfully with contemporary concerns about mental health, depression, and the healing power of nature:
-
-- Modern rates of depression and anxiety continue to rise in industrialized nations
-- Growing evidence supports "green care" and "nature prescription" approaches to mental health
-- Community gardens and urban farming programs increasingly serve therapeutic functions
-- The disconnect from nature and meaningful physical work is recognized as a contributor to psychological distress
-
-Fukuoka's account, while anecdotal, points to a fundamental truth that modern research is only beginning to validate systematically: humans evolved in relationship with nature, and that relationship is essential to psychological well-being.
-
-## Lessons for Natural Farming Advocates
-
-The priest's story offers practical lessons for anyone promoting natural farming or gardening:
-
-1. **Start with the garden, not the philosophy**: The priest didn't need to understand Fukuoka's complete worldview to benefit from his methods
-2. **Make it accessible**: Thomas Nelissen taught simple techniques that anyone could apply, regardless of expertise
-3. **The physical act matters**: It was the act of working with soil and plants, not abstract knowledge, that produced healing
-4. **Partnership is powerful**: The priest and his wife worked together, multiplying the benefit
-5. **Results speak louder than arguments**: The priest's renewed joy and ability to preach were more convincing than any lecture
-
-The Dutch priest's recovery stands as one of the most compelling testimonials to the power of natural farming — not because of crop yields or soil chemistry, but because of its ability to restore a human soul.
-
-## See Also
-
-- [[fukuoka-heart-shaped-garden-pond-technique]] — The garden technique taught to the priest
-- [[fukuoka-nelissen-farm]] — Thomas Nelissen's natural farm in Holland
-- [[fukuoka-machine-culture-doomed]] — Critique of institutional civilization
-- [[fukuoka-road-spiritual-aspects-farming]] — Spiritual dimensions of farming
-- [[fukuoka-road-churches-and-god]] — Fukuoka's observations on churches and religion

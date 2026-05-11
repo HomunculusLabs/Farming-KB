@@ -5,6 +5,7 @@ tags: [crop-rotation, vegetables, semi-wild-cultivation, soil-fertility, polycul
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---

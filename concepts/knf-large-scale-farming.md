@@ -88,15 +88,3 @@ KNF is particularly effective at community and cooperative scales:
 The economic advantages of KNF become more pronounced at larger scales:
 
 - Input cost savings multiply across larger areas
-- Labor efficiency improves with organized production systems
-- Premium product prices for chemical-free produce increase total revenue
-- Reduced external dependencies improve farm resilience
-- Waste elimination removes a major cost category in livestock operations
-
-## See Also
-
-- [[knf-fermented-mixed-compost]]
-- [[knf-nutritive-cycle-theory]]
-- [[knf-economic-benefits]]
-
-Source: Cho's Global Natural Farming (CGNF). SARRA, 2011. Chapters 1, 3, 4, 5.

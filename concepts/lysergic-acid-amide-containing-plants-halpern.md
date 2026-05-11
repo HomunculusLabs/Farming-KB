@@ -3,16 +3,16 @@
 ## Overview
 
 Lysergic acid amide (LSA), also known as ergine, is a naturally occurring
-alkaloid closely related to LSD (lysergic acid diethylamide).
+alkaloid closely related to LSD ([[lsd-d-lysergic-acid-diethylamide]]).
 Unlike LSD, which does not occur in nature, LSA is found in the seeds of several
-plant species, some of which grow commonly in the United States.
+plant species, some of which grow commonly in the [[dmt-containing-plants-united-states-halpern]].
 LSA-containing plants represent an often-overlooked category of naturally occurring
 hallucinogens that are widely accessible through gardens, seed suppliers, and wild growth.
 
 ## Chemistry and Pharmacology
 
 LSA (C16H17N3O) is an ergoline alkaloid and a direct precursor to LSD.
-It is a partial agonist at serotonin receptors, particularly 5-HT2A,
+It is a partial agonist at [[psilocybin-pharmacology-and-serotonin-receptors]], particularly 5-HT2A,
 producing hallucinogenic effects qualitatively different from LSD.
 Hallucinogenic activity occurs at doses of 2-5 mg LSA,
 providing a 4-8 hour intoxication.
@@ -29,7 +29,7 @@ LSD is active at microgram doses while LSA requires milligram doses.
 
 ### Argyreia nervosa (Hawaiian Baby Woodrose)
 
-Argyreia nervosa is a perennial climbing vine native to the Indian subcontinent
+[[argyreia-nervosa]] is a perennial climbing vine native to the Indian subcontinent
 but widely cultivated as an ornamental plant in tropical and subtropical regions.
 The plant produces large, heart-shaped leaves and attractive purple flowers,
 making it popular in gardens.
@@ -44,7 +44,7 @@ of their psychoactive potential among suppliers.
 
 ### Ipomoea violacea (Morning Glory)
 
-Ipomoea violacea and related Ipomoea species contain LSA
+[[ipomoea-violacea]] and related Ipomoea species contain LSA
 at approximately 0.02% by dry weight in seeds.
 [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] are extremely popular annual garden plants
 grown for their abundant flowers from climbing vines.
@@ -53,7 +53,7 @@ are required for an average dose.
 
 Historically, Ipomoea violacea and related Ipomoea corymbosa seeds
 were used in [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for shamanic and ceremonial purposes.
-The Mazatec people of Mexico continue traditional usage of these seeds.
+The [[mazatec-people]] of Mexico continue traditional usage of these seeds.
 The Ololiuqui ceremony, one of the oldest known psychedelic rituals,
 centers on the use of these morning glory seeds.
 
@@ -88,55 +88,3 @@ and is often severe enough to limit the experience.
 
 The LSA intoxication is characterized by:
 - Mild to moderate visual alterations (less intense than LSD or psilocybin)
-- Sedation and drowsiness (contrasting with the stimulation of LSD)
-- Significant nausea and gastrointestinal discomfort
-- Altered thought patterns and mild euphoria
-- Duration of 4-8 hours
-- Residual fatigue that may persist for a day or more
-
-The experience is generally considered gentler than classical psychedelics
-but also less profound or revelatory.
-The heavy body load and sedation make it less sought after
-than other naturally occurring hallucinogens.
-
-## Risks and Safety Considerations
-
-The primary risks of LSA-containing seeds include:
-- Severe nausea and vomiting (nearly universal)
-- Potential for ergot-like compounds in some species
-(especially Stipa robusta, which may contain ergotamine)
-- Uterine-contracting properties (pregnant women should avoid)
-- Possible interactions with serotonergic medications
-
-[[kykeon-composition-and-ergot-alkaloid-hypothesis]] poisoning is a theoretical concern,
-as some LSA-containing plants may harbor [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-that produce additional ergot compounds.
-However, documented cases of ergotism from seed consumption are rare.
-
-## Legal Status
-
-LSA itself is a Schedule III controlled substance in the United States
-under the Controlled [[controlled-substances-act-and-psychedelic-research]].
-However, the plants and seeds containing LSA are not specifically scheduled,
-and morning glory seeds are widely sold in [[solomon-garden-centers-seedling-traps]] and online.
-The seeds are sometimes treated with chemicals
-to discourage consumption, but this is a vendor practice, not a legal requirement.
-
-## See Also
-- [[datura-as-hallucinogen]]
-- [[lysergic-acid-diethylamide]]
-- [[lysergic-acid-amide]]
-- [[lysergic-acid]]
-
-## Sources
-
-- Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the US. Pharmacology & Therapeutics, 102, 131-138.
-- Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. Charles C. Thomas.
-- Chao, J.M. & Der Marderosian, A.H. (1973). Ergoline alkaloids in Argyreia nervosa. Journal of Pharmaceutical Sciences.
-- Petroski, R.J. et al. (1992). Alkaloids of Stipa robusta. Journal of Natural Products.
-
-## See Also
-
-- [[lysergic-acid-diethylamide]]
-- [[lysergic-acid-amide]]
-- [[lysergic-acid]]

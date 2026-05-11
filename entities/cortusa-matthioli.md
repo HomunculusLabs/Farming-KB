@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Cortusa matthioli (Alpine bells) is a low-growing perennial herb in the Primulaceae family native to the mountains of central and southern Europe. It is valued for its nodding, bell-shaped pink to magenta flowers and rounded, scalloped leaves that form attractive ground cover in shaded rock gardens.
+Cortusa matthioli (Alpine bells) is a low-growing perennial herb in the Primulaceae family native to the mountains of central and southern Europe. It is valued for its nodding, bell-shaped pink to magenta flowers and rounded, scalloped leaves that form attractive [[fukuoka-citrus-orchard-ground-cover-cultivation]] in shaded rock gardens.
 
 The species is one of the most distinctive members of Primulaceae, easily recognized by its bell-shaped flowers that differ markedly from the flat-faced blooms typical of Primula and related genera.
 
@@ -56,7 +56,7 @@ Cortusa matthioli is native to the mountain ranges of central and southern Europ
 
 The species is absent from the Pyrenees and the mountains of the Iberian Peninsula, despite apparently suitable habitat. Its absence from western Europe may reflect historical biogeographic constraints.
 
-The species inhabits damp, shaded rock crevices, mossy boulders, and snowflush communities where meltwater maintains constant moisture through the growing season. It prefers neutral to slightly acidic, humus-rich substrates.
+The species inhabits damp, shaded rock crevices, mossy boulders, and snowflush communities where meltwater maintains constant moisture through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. It prefers neutral to slightly acidic, humus-rich substrates.
 
 Populations are typically small and scattered, reflecting the specialized habitat requirements of the species. Large colonies are rare and usually found in particularly favorable sites with reliable seepage.
 
@@ -68,7 +68,7 @@ Disjunct populations in the Carpathians are genetically distinct from Alpine pop
 
 Cortusa matthioli is a choice plant for the alpine house, shady rock garden, or peat bed. It requires partial to full shade, constant moisture, and excellent drainage — a combination that can be challenging to achieve in practice.
 
-Plants thrive in a soil mix of equal parts loam, leaf mold, and coarse grit, topped with a mulch of shredded bark or pine needles. The species resents drying out completely at any time of year.
+Plants thrive in a soil mix of equal parts loam, [[comparison-leaf-mold-composting-vs-hot-composting-method]], and coarse grit, topped with a mulch of shredded bark or pine needles. The species resents drying out completely at any time of year.
 
 Growing Cortusa in troughs or sink gardens provides the precise control over drainage and moisture that the species demands. A north-facing position is ideal in all but the coolest gardens.
 
@@ -80,41 +80,10 @@ The species is hardy to USDA Zone 4 but performs poorly in areas with hot, humid
 
 No named cultivars exist, though alpine specialists occasionally offer selected forms with deeper flower color. The species is seldom available from mainstream nurseries and must be sought from specialist alpine plant growers.
 
-Slugs are the primary pest, particularly in early spring when new growth emerges. Regular application of organic slug controls is recommended in gardens where Cortusa is cultivated.
+Slugs are the primary pest, particularly in [[coleman-overwintered-onions-and-early-spring-crops]] when new growth emerges. Regular application of organic slug controls is recommended in gardens where Cortusa is cultivated.
 
 ## Ecological Role
 
 The nodding bell-shaped flowers are adapted for buzz pollination by bumblebees, which vibrate the flowers to release pollen. This specialized pollination mechanism is unusual within Primulaceae.
 
 Observations in the Austrian Alps have documented visitation primarily by Bombus lucorum and B. pascuorum. The flowers produce no nectar, relying entirely on pollen as a pollinator reward.
-
-Cortusa matthioli contributes to the species richness of alpine snowbed communities, where it occupies the damp, shaded microsites between larger rocks. Its presence indicates reliable moisture and relatively undisturbed habitat conditions.
-
-The species is shade-tolerant enough to persist under light shrub canopy at the lower limits of its elevational range. This flexibility may provide refugia as alpine habitats warm.
-
-The species has limited value as a forage plant due to its small stature and scattered distribution. However, it contributes to overall alpine biodiversity and is an indicator of high-quality snowbed habitat.
-
-Seed dispersal is primarily by gravity and water splash within the immediate vicinity of the parent plant. Long-distance dispersal events are rare, contributing to the fragmented distribution pattern observed across the species' range.
-
-## Conservation
-
-Cortusa matthioli is listed as rare or threatened in several central European countries. Habitat loss through alpine infrastructure development and climate change are the primary conservation concerns.
-
-The species' small, scattered populations are inherently vulnerable to stochastic extinction events. Loss of a single large colony can represent a significant proportion of the regional population.
-
-The species' specialized habitat requirements make it vulnerable to even small changes in moisture regime. Reductions in snowpack duration may eliminate the snowflush communities on which it depends.
-
-Ex situ conservation through cultivation in alpine house collections provides a safety net against local extinctions. Several European botanic gardens maintain living collections as part of alpine plant conservation programs.
-
-## See Also
-
-- [[primula-veris]]
-- [[primula-auricula]]
-- [[primula-elatior]]
-- [[cyclamen-hederifolium]]
-- [[lysimachia-vulgaris]]
-- [[anagallis-arvensis]]
-- [[dodecatheon-meadia]]
-- [[primula-japonica]]
-- [[gentiana-acaulis]]
-- [[gentiana-verna]]

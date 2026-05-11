@@ -88,22 +88,3 @@ Since perennials number in the hundreds, there is a good selection for
 every soil type and sun preference.
 
 ### Planting Perennials
-
-When planting container-grown perennials, ensure the root ball does
-not dry out. Deep soaking ensures plants get enough water when first
-planted. Most perennials benefit from being divided every few years to
-maintain vigor.
-
-### Choosing Perennials
-
-Confusingly sold as "herbaceous perennials," "herbaceous plants,"
-"hardy plants," or "hardy perennials," these plants form the backbone
-of the ornamental border. Choose varieties suited to your soil type
-and position, and aim for a succession of flowering throughout the
-season by selecting early, mid, and late-flowering species.
-
-## See Also
-
-- [[hamilton-annual-flowers-organic]]
-- [[pruning-techniques-organic]]
-- [[hamilton-ornamental-trees]]

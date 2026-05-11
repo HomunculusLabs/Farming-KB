@@ -5,6 +5,7 @@ tags: [psilocybe, quebec, mycology, mushroom-profile, northern]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -87,33 +88,3 @@ by those wishing to cultivate this species in their backyard. Its
 preference for riparian [[microfungal-biodiversity-ecology-wood-debris-sampling]] and flood-plain soils makes it
 potentially amenable to outdoor cultivation in temperate northern
 climates. The species' restricted known distribution likely reflects
-limited collecting effort rather than true geographic range, since
-suitable habitat exists across much of boreal and northern temperate
-North America. Further field surveys in appropriate riparian
-habitats may reveal a much broader distribution.
-
-## Comparison with Related Species
-
-Psilocybe quebecensis shares morphological and ecological
-similarities with several other northern [[stamets-psi-psilocybe-baeocystis-knobby-tops]], the
-"bottle cap" mushroom of the Pacific Northwest, also has swollen
-pleurocystidia and is found in similar wood-debris habitats,
-though its cap shape is more distinctly umbonate. The mango-shaped
-spores of P. quebecensis are somewhat unusual among Psilocybes
-and may prove to be a useful microscopic diagnostic character.
-
-## Field Identification Tips
-
-When searching for P. quebecensis, focus on sandy riparian
-habitats along streams in northern forests, particularly where
-alder, birch, fir, or spruce debris accumulates. The combination
-of a smooth, viscid cap that bruises bluish, rhizomorphs at the
-stem base, mottled gills with whitish edges, and a straw-yellow
-coloration on drying should help distinguish this species from
-other small woodland mushrooms. The bluing reaction, while
-confirmatory of psilocin presence, should always be considered in
-conjunction with [[comparison-spore-print-collection-vs-spore-syringe-production]] color and habitat.
-
-## See Also
-
-- [[psilocybe-quebecensis]]

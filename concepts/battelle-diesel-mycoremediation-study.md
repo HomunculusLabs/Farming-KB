@@ -9,23 +9,23 @@ sources: [raw/books/stamets-p-mycelium-running.md]
 
 # Battelle Diesel Mycoremediation Study
 
-The Washington State DOT maintenance yard experiment that proved [[query-how-to-grow-oyster-mushrooms-at-home]] can degrade petroleum hydrocarbons
+The Washington State DOT maintenance yard experiment that proved [[query-how-to-grow-oyster-mushrooms-at-home]] can degrade [[mycoremediation-petroleum-hydrocarbons]]
 
 ## Background
 
 The Washington State Department of Transportation (WSDOT) in Bellingham,
 Washington, operated a maintenance yard for trucks for more than 30 years.
 Diesel and oil contaminated the soil at levels approaching 2 percent, or
-20,000 parts per million (ppm) of total aromatic hydrocarbons (TAHs). This
+20,000 parts per million (ppm) of total [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] (TAHs). This
 is roughly the same concentration measured on the beaches of Prince William
 Sound in 1989 after the Exxon Valdez spilled its 11 million gallons of
 crude oil.
 
 In 1997 and 1998, the Washington State Department of Ecology granted WSDOT
 a variance to permit a mycoremediation experiment. The research group at
-Battelle Pacific Northwest Laboratories in Sequim, Washington (including
+Battelle [[psilocybin-north-america-pacific-northwest]] Laboratories in Sequim, Washington (including
 Susan Thomas, Meg Pinza, Pete Becker, Ann Drum, Jack Word, and Paul Stamets)
-decided to try mycoremediation techniques on this site.
+decided to try [[cotter-mycoremediation-techniques]] on this site.
 
 ## Experimental Design
 
@@ -45,7 +45,7 @@ Four treatments:
 
 Rather than dispersing mycelium throughout the pile, the spawn was placed in
 concentrated layers, sandwiching the contaminated soil in between. This
-technique accelerates mycelial colonization because the many constellation
+technique accelerates [[mycelial-colonization]] because the many constellation
 points of inoculation on each plane quickly grow to meet one another and
 fuse, forming a strong mycelial mat. The parallel planes then grow
 vertically, seeking each other out and fusing.
@@ -85,53 +85,5 @@ had shrunk substantially compared to the other piles.
 ## Preceding Lab Studies
 
 In preceding bench-scale experiments, the Battelle team used oyster mushroom
-(Pleurotus ostreatus) mycelium to test its ability to [[query-can-fungi-break-down-plastic-pollution]]
+([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) mycelium to test its ability to [[query-can-fungi-break-down-plastic-pollution]]
 diesel-saturated soil. Key findings:
-
-- With mycelium + unsterilized alder chips + bunker C oil (Exxon Valdez
-  oil): 97% of PAHs degraded after 8 weeks
-- With mycelium + sterilized alder chips: only 65% of PAHs degraded
-- Control (unsterilized chips, no mycelium): only 38% PAH decline
-
-The surprising finding was that overall remediation was enhanced when
-mycelium was introduced to a microbially competitive environment of raw wood
-chips and soil. Rather than attacking the oyster mushroom mycelium, native
-microbes that fortified the oyster mycelia seemed to have been activated.
-Contact with microbes enhanced the oyster mycelia's digestion of PAHs.
-
-## Cost Comparison
-
-Mycoremediation costs approximately $50 per ton of toxin-laden soil,
-compared to:
-- Incineration: ~$1,500 per ton
-- Solvent extraction: ~$1,200 per ton
-- Solidification: ~$800 per ton
-- Indirect thermal: ~$700 per ton
-- Soil venting: ~$400 per ton
-- Soil washing: ~$300 per ton
-- Bioremediation (bacterial): ~$150 per ton
-- Phytoremediation: ~$100 per ton
-
-## Significance
-
-This field trial succeeded in reducing toxins and supported the concept
-that oyster mushrooms can be introduced to toxic waste sites as a gateway to
-remediation. Oyster mushrooms are not merely primary decomposers -- they are
-a vanguard species for habitat restoration, leading the way for recovery of
-entire ecological communities.
-
-## Source
-
-[[woodlovers-mycelium-running-pathway-technique]] by Paul Stamets, Chapter 7: Mycoremediation
-
-## See Also
-
-- [[mycoremediation-fungal-bioremediation]]
-
-- [[cotter-mycoremediation-overview]]
-- [[fungal-bioremediation-mechanisms]]
-- fungal-carbon-substrate-utilization-efficiency
-- stamets-spawning-and-spawn-running
-- [[mycelial-colonization]]
-- [[oyster-mushroom]]
-- [[pleurotus-ostreatus]]

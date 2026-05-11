@@ -4,7 +4,7 @@
 
 Mycelial networks, formed by the filamentous growth of fungi, represent one of the most
 remarkable biological transport systems in terrestrial ecosystems. Basidiomycete cord-
-forming fungi, such as *Phanerochaete velutina* and *Resinicium bicolor*, construct
+forming fungi, such as *[[phanerochaete-velutina]]* and *Resinicium bicolor*, construct
 extensive mycelial networks that connect discrete resource patches across soil and
 decaying wood. These networks enable fungi to translocate nutrients, carbon, and water
 over distances far exceeding what individual hyphae could achieve alone, effectively
@@ -13,7 +13,7 @@ in human engineering.
 
 ## Nutrient Transport Mechanisms
 
-Fungal nutrient translocation operates through several interconnected mechanisms. The
+[[dighton-fungal-nutrient-translocation-element-redistribution]] operates through several interconnected mechanisms. The
 primary driver is cytoplasmic streaming within hyphae, powered by osmotically generated
 turgor pressure and the coordinated action of motor proteins along cytoskeletal
 elements. In cord-forming fungi, differentiated linear organs of aggregated hyphae
@@ -43,7 +43,7 @@ tracked as it moves through networks in real time.
 Network reconfiguration occurs continuously. As resources are depleted at one
 location, the mycelium may abandon those regions and consolidate transport pathways
 through the most efficient routes to remaining resource patches. Mathematical
-analysis of mycelial network architecture has revealed that these networks exhibit
+analysis of [[mycelial-network-architecture]] has revealed that these networks exhibit
 properties consistent with efficient transport systems: they tend to minimize
 path lengths between resource nodes while maintaining redundancy through multiple
 interconnections. Measurements of network topology in *Phanerochaete velutina*
@@ -56,7 +56,7 @@ The study of nutrient dynamics in mycelial networks has been revolutionized by
 advances in imaging technology. Several complementary approaches are now available:
 
 - **Autoradiography and phosphor imaging**: These techniques use radiolabelled
-  tracers (such as 14C, 32P, or 33P) to visualize nutrient movement through
+  tracers (such as 14C, 32P, or 33P) to visualize [[nutrient-movement-through-soil-to-plant-roots]]
   intact mycelial networks. When combined with time-lapse imaging, they provide
   quantitative data on the speed and directionality of translocation. The spatial
   resolution of modern phosphor screens allows mapping of nutrient distribution
@@ -79,57 +79,11 @@ advances in imaging technology. Several complementary approaches are now availab
   wood substrates, providing information about nutrient transport under more
   natural conditions.
 
-- **Network analysis and mathematical modelling**: Beyond direct imaging,
+- **Network analysis and [[gadd-mathematical-modelling-fungal-mycelia]]**: Beyond direct imaging,
   computational tools borrowed from graph theory and network science have been
-  applied to quantify mycelial network structure. Parameters such as
+  applied to quantify [[mycelial-network-structure]]. Parameters such as
   connectivity (alpha, beta, gamma indices), transport efficiency, and resilience
   to simulated damage provide quantitative frameworks for comparing networks
   across species and environmental conditions.
 
 ## Ecological Significance
-
-The nutrient transport capabilities of mycelial networks have profound ecological
-implications. In forest ecosystems, cord-forming basidiomycetes serve as primary
-decomposers of woody debris, and their ability to redistribute nutrients across
-soil horizons influences nutrient availability for plants and other soil organisms.
-Mycelial networks also play important roles in [[fungal-mineral-transformations-biogeochemical-cycles]] by mediating mineral weathering and elemental cycling.
-
-The study of mycelial nutrient dynamics intersects with [[mycorrhizal-carbon-sequestration-mechanisms]], as mycorrhizal fungal networks similarly transport
-carbon and nutrients between plants and soil. The resource allocation strategies
-observed in saprotrophic cord-forming fungi parallel those seen in mycorrhizal
-networks, suggesting convergent evolutionary solutions to the challenge of
-resource distribution in heterogeneous environments.
-
-## Emerging Directions
-
-Recent advances in microfluidic devices and lab-on-a-chip technologies are
-enabling increasingly precise control over the nutrient environments experienced
-by growing mycelia. Combined with real-time imaging and automated image analysis
-using machine learning, these approaches promise to reveal the decision-making
-processes underlying resource allocation at the level of individual hyphal tips.
-Mathematical modelling, informed by imaging data, continues to refine our
-understanding of how mycelial networks balance exploration of new territory
-with exploitation of known resources, a fundamental trade-off that shapes
-fungal ecology and evolution.
-
-## See Also
-
-- [[mycelial-network-nutrient-transport-pulsatile-dynamics]]
-- [[mycelial-network-nutrient-transport-imaging-gadd]]
-- [[gadd-mycelial-network-dynamics]]
-
-- [[fungal-mineral-transformations-biogeochemical-cycles]]
-- [[mycorrhizal-carbon-sequestration-mechanisms]]
-- wornin bodies
-
-## Sources
-
-- Bebber, D.P., Tlalka, M., Hynes, J. et al. "Imaging complex nutrient dynamics
-  in mycelial networks." In Gadd, Watkinson & Dyer (eds.), *Fungi in the
-  Environment*, Cambridge University Press, 2006.
-- Davidson, F.A. "Mathematical modelling of the form and function of fungal
-  mycelia." In Gadd, Watkinson & Dyer (eds.), *Fungi in the Environment*,
-  Cambridge University Press, 2006.
-- Boddy, L. & Jones, T.H. "Mycelial responses in heterogeneous environments."
-  In Gadd, Watkinson & Dyer (eds.), *Fungi in the Environment*,
-  Cambridge University Press, 2006.

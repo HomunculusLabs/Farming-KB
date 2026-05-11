@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 # AACT Compost Organism Levels
@@ -87,35 +88,3 @@ To obtain death of pests and pathogens, compost must maintain:
 
 ### For Thermal Compost
 - Turning times, daily temperature, end moisture, daily CO2 or O2 data per batch
-
-### For Vermicompost
-- Worm count per unit volume, temperature, and oxygen data
-
-### Chemistry and Pathogen Testing
-- Must meet city, county, state, and federal standards
-
-## Compost Types Comparison
-
-Both thermal compost and vermicompost can produce equally good results. Either can be fungal or bacterial dominated. The more important factor is finding a high-quality local source and verifying it has the biology you need through testing.
-
-### Mixing Compost Types
-A 50:50 or 25:75 mix of thermal compost with worm compost is recommended. This combines the broad organism diversity of thermal compost with the concentrated beneficial biology of vermicompost.
-
-## Paper and Cardboard as Compost Inputs
-
-Paper and cardboard (cellulose-based materials) help fungi and often select for beneficial fungal species. Key considerations:
-- Most inks this century are soy-based (safe), but verify for older paper
-- Heavy-metal based inks from before the 1980s should be avoided
-- Cardboard glues support growth of certain beneficial bacteria and fungi
-- Shredding allows more rapid decomposition when soil biology is present
-
-## See Also
-
-- [[compost-tea-aact]]
-- [[bacterial-vs-fungal-compost-teas]]
-- [[vermicompost-tea]]
-- [[soil-food-web-nutrient-cycling]]
-
-## Related
-
-- index-fungal-ecology

@@ -14,8 +14,8 @@ type: concept
 ## Overview
 
 Proper storage of mushroom cultures is essential for maintaining viability and
-genetic integrity over time. Multiple storage methods exist, from simple
-refrigeration of agar plates to cryopreservation with glycerol protectants.
+genetic integrity over time. Multiple [[food-preservation-and-storage-methods]] exist, from simple
+refrigeration of [[query-how-to-make-agar-plates-for-mushroom-cultivation]] to cryopreservation with glycerol protectants.
 Understanding strain senescence -- the gradual loss of vigor through repeated
 cell division -- is critical for maintaining productive cultures.
 
@@ -26,7 +26,7 @@ the full collection details). Label every plate, jar, and bag with generation
 codes tracking how many expansions the culture has been through:
 
 - Generation 0: original pure isolate from [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] or [[growing-gourmet-spore-germination-strain-isolation]]
-- Each subsequent expansion (master grain, liquid culture, bulk spawn)
+- Each subsequent expansion (master grain, [[comparison-agar-vs-liquid-culture]], bulk spawn)
   increments the generation number
 
 ## Strain Senescence
@@ -61,7 +61,7 @@ captivity so long they lose their ability to adapt.
 
 Most research universities purchase strains that have been in culture for years
 and may have lost their ability to adapt. A freshly isolated wild strain will
-often outperform a lab-acquired culture. Cotter advocates cloning wild specimens
+often outperform a lab-acquired culture. Cotter advocates cloning [[strain-isolation-from-wild-specimens]]
 whenever possible to capture strains already adapted to local conditions.
 
 ## Storage Methods
@@ -88,27 +88,3 @@ Before freezing an entire collection, test species for freezing tolerance:
 4. Thaw in warm water bath (77-86 degrees F / 25-30 degrees C) for 2-5
    minutes before transferring
 5. Evaluate recovery speed and growth quality
-6. Verify identity with microscope (clamp connections for basidiomycetes)
-7. Repeat monthly to gauge maximum freezing interval
-
-#### The Freezing Process
-
-Use glycerol as a cryoprotectant. The process is chemistry, not home cooking
--- follow guidelines precisely. The protectant itself can be toxic if the
-procedure is not exacting. Test small samples first before committing valuable
-cultures.
-
-### Dehydration (Off-Grid Storage)
-
-Mycelia in growing media survive long periods without water if not exposed to
-extreme heat. Allowing colonized substrate to dry completely preserves the
-mycelium until needed. Dried mushroom stems (with bases) can be stored in
-bundles in a cool, dry location for 9-12 months. To revive, wrap dried stems in
-wet cardboard following cardboard [[agar-culture-techniques-detailed]].
-
-## See Also
-
-- [[leaf-senescence-autumn-colour-change-active-plant-process]]
-
-- [[cotter-grain-spawn-production]] -- expansion and generation tracking
-- [[cotter-laboratory-setup]] -- lab design and equipment

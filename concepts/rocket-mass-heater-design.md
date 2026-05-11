@@ -4,18 +4,19 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [energy, construction, homesteading, off-grid, safety, sustainability]
-sources: []
+sources:
+  - "raw/papers/graham-bell-permaculture-garden.md"
 ---
 
-# Rocket Mas [[masonry-heater-design]] gn
+# Rocket Mass Heater Design
 
-A rocket [[rocket-stove-design]] mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by [[comparison-windbreak-vs-thermal-mass]] ass bench that absorbs and slowly radiates he [[gaias-garden-plants-for-many-purposes]] any hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
+A rocket mass heater (RMH) is a highly efficient wood-burning heating system that uses a J-shaped combustion chamber to achieve near-complete combustion of wood, followed by a [[comparison-windbreak-vs-thermal-mass]] bench that absorbs and slowly radiates heat for many hours. RMHs typically use 75-90% less wood than conventional wood stoves while producing far less smoke and pollution.
 
 ## How It Works
 
-The rocket [[rocket-stove-design]] mass heater operates on two key principles:
+The rocket mass heater operates on two key principles:
 
-1. **Complete combustion:** The J-tube design [[rocket-stove-design]] creates a super-heated horizontal burn tunnel followed by a vertical heat riser. Wood is fed into the [[psilocybin-end-of-life-care]] end of the J. As gases rise through the heat riser, they reach temperatures of 1000-1500°F, achieving near-complete combustion of particulates and creosote.
+1. **Complete combustion:** The J-tube design creates a super-heated horizontal burn tunnel followed by a vertical heat riser. Wood is fed into the short end of the J. As gases rise through the heat riser, they reach temperatures of 1000-1500°F, achieving near-complete combustion of particulates and creosote.
 2. **Thermal mass:** The hot exhaust gases travel through a sealed masonry bench (or cob bench) before exiting through a vertical chimney. The bench absorbs heat during the active burn (1-2 hours) and radiates it into the room for 12-24 hours afterward.
 
 ### The J-Tube Combustion Unit
@@ -23,7 +24,7 @@ The rocket [[rocket-stove-design]] mass heater operates on two key principles:
 The J-tube consists of:
 
 - **Feed tube:** Vertical or near-vertical, where wood is loaded. Short enough that the flame cannot climb out (typically 6-8 inches diameter, 15-20 inches tall)
-- **Burn tunnel:** Horizontal connection fro [[chicken-of-the-woods]] bottom of t [[primary-metabolic-precursors-to-the-shikimate-pathway]] d tube to the base of the heat riser (same diameter as feed tube, 12-18 inches long)
+- **Burn tunnel:** Horizontal connection from the bottom of the feed tube to the base of the heat riser (same diameter as feed tube, 12-18 inches long)
 - **Heat riser:** Vertical chimney above the burn tunnel where secondary combustion occurs. This is the hottest part of the system (typically 6-8 inches diameter, 30-48 inches tall)
 
 The heat riser must be insulated on the outside to maintain extreme internal temperatures. Common insulation: perlite-clay mix, vermiculite, or ceramic fiber blanket.
@@ -57,7 +58,7 @@ A cob bench is the most common and accessible approach:
 
 ### Bench Surface
 
-- Smooth cob or earthen plaster finish (see [[earth-plaster-and-natural-finishes]])
+- Smooth cob or [[comparison-lime-plaster-vs-earthen-plaster]] finish (see [[earth-plaster-and-natural-finishes]])
 - Stone or tile inlay for durable seating surfaces
 - Wood bench top (with an air gap above the cob) for a cooler sitting surface
 
@@ -94,7 +95,7 @@ A cob bench is the most common and accessible approach:
 
 - Do not oversize — a too-large system overheats the space and wastes wood
 - The bench length determines heat storage capacity, not the J-tube size
-- In very cold climates, two smaller RMHs may be better than one large one
+- In very [[query-best-kiwifruit-varieties-for-cold-climates]], two smaller RMHs may be better than one large one
 
 ## Safety Considerations
 
@@ -122,8 +123,8 @@ A cob bench is the most common and accessible approach:
 ### Building Codes
 
 - Rocket mass heaters are not code-approved in most jurisdictions
-- Work with your building department; they may accept it as a masonry heater under certain code sections
-- The Masonry Heater Association of North America provides resources for code-compliant masonry heating
+- Work with your building department; they may accept it as a [[comparison-masonry-heater-vs-pellet-stove]] under certain code sections
+- The Masonry Heater Association [[berry-growing]] provides resources for code-compliant masonry heating
 
 ## Common Problems and Solutions
 

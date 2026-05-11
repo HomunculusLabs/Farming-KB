@@ -53,13 +53,13 @@ Flowers are arranged in a terminal raceme that opens from the base upward, produ
 
 **Fruit:** A slender cylindrical capsule 5–9 cm long that splits open to release numerous seeds with a white pappus.
 
-Seed dispersal is primarily by wind, with each plant capable of producing 50,000–80,000 seeds.
+[[clay-pellet-seed-dispersal]] is primarily by wind, with each plant capable of producing 50,000–80,000 seeds.
 
 ## Distribution and Habitat
 
-Fireweed has a circumboreal distribution across North America, Europe, and northern Asia.
+Fireweed has a circumboreal distribution across [[guzman-psilocybin-mushrooms-north-america]], Europe, and northern Asia.
 
-In North America, it ranges from Alaska and northern Canada south to California, New Mexico, and the Appalachian region.
+In North America, it ranges from Alaska and northern Canada south to California, New Mexico, and the [[bolete-fungi-appalachian-region]].
 
 In Europe, it is widespread from Scandinavia and the British Isles south to the Mediterranean mountains.
 
@@ -73,7 +73,7 @@ Fireweed is an early seral species, dominant in the first 5–15 years after dis
 
 ## Edible and Nutritional Uses
 
-Fireweed is one of the most versatile edible wild plants in its native range.
+Fireweed is one of the most versatile [[edible-wild-mushrooms-by-region]] plants in its native range.
 
 Young shoots (10–20 cm tall) are harvested in spring and eaten as a vegetable similar to asparagus.
 
@@ -85,42 +85,6 @@ Fireweed honey is a premium monofloral honey produced from the plant's abundant 
 
 Traditional use includes fermentation of fireweed leaves to produce a mildly alcoholic beverage in Siberia and Alaska.
 
-Nutritional analysis shows the young shoots are rich in vitamin C, vitamin A, and beta-carotene.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows the young shoots are rich in vitamin C, vitamin A, and beta-carotene.
 
 ## Medicinal Properties
-
-Epilobium angustifolium has a well-documented history of use in European phytotherapy, particularly for prostate and urinary tract conditions.
-
-The aerial parts contain flavonoids (myricetin, quercetin, kaempferol), ellagitannins (oenothein B), and mucilage polysaccharides.
-
-Oenothein B is the most pharmacologically significant compound, showing anti-inflammatory and 5-alpha-reductase inhibitory activity.
-
-Clinical studies suggest fireweed extracts reduce symptoms of benign prostatic hyperplasia (BPH), including nocturia and urinary frequency.
-
-The plant also exhibits antimicrobial, antioxidant, and anti-inflammatory activities in in vitro assays.
-
-Traditional preparations include teas, tinctures, and dried herb capsules from the flowering aerial parts.
-
-## Ecological Role and Permaculture
-
-Fireweed is a premier ecological restoration species and a valuable addition to permaculture systems.
-
-Its deep rhizomatous root system stabilizes soil on disturbed sites, preventing erosion after fire, logging, or road construction.
-
-The species is a major nectar source for honeybees, bumblebees, and [[comparison-honey-bees-vs-native-solitary-bees]] bees, supporting pollinator populations.
-
-The seeds are consumed by finches and other small birds, while the foliage serves as browse for deer, elk, and moose.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], fireweed is useful as a [[nutrient-dynamic-accumulator-reference]] — its deep roots mine potassium, phosphorus, and trace minerals from subsoil.
-
-It can be incorporated into chop-and-drop mulch systems or used as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] in the early stages of food forest establishment.
-
-Fireweed acts as a nurse plant, providing shade and [[cervantes-wind-protection-outdoor-cannabis]] for establishing tree seedlings on exposed sites.
-
-## See Also
-
-- [[plantago-major]]
-- [[hypericum-perforatum]]
-- permaculture
-- [[phytoremediation]]
-- [[chop-and-drop-mulching]]

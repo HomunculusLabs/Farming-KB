@@ -1,5 +1,5 @@
 ---
-title: Fruiting Conditions in The Mushroom Cultivator
+title: Mushroom Cultivator Fruiting Conditions
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -29,21 +29,21 @@ Mushrooms fruit indoors in response to the same conditions that trigger fruiting
 
 Conditions before initiation begins:
 1. Casing layer at optimum moisture capacity
-2. Casing surface rough and porous (small mountains and valleys)
+2. [[abort-dead-pinhead-cleanup-casing-surface-hygiene]] rough and porous (small mountains and valleys)
 3. Relative humidity of growing room: 95%
 4. Substrate incubated in total darkness (for photosensitive species)
 
-During casing colonization, moisture content is gradually brought to optimum. Water in the casing moves by capillary action to the surface where evaporation draws it into the air. The higher the room humidity, the less water lost to evaporation.
+During casing colonization, moisture content is gradually brought to optimum. Water in the casing moves by [[capillary-action-in-soils]] to the surface where evaporation draws it into the air. The higher the room humidity, the less water lost to evaporation.
 
 ### Stage II: Environmental Transition (1-2 days)
 
 Begin when mycelium reaches the valleys of the casing surface:
-1. **Lower temperature** from spawn run optimum to fruiting range (e.g., Agaricus brunnescens: from 70°F to 64°F)
+1. **Lower temperature** from spawn run optimum to fruiting range (e.g., [[agaricus-brunnescens]]: from 70°F to 64°F)
 2. **Maintain humidity** at 95%
 3. **Reduce CO2** by introducing fresh air (below 2000 ppm for Agaricus)
 4. **Introduce light** on 12-hour on/off cycle
 
-Temperature shock is accomplished by ventilating with a large volume of cool fresh air. The substrate temperature should fall to fruiting temperatures within 48 hours, effectively slowing vegetative growth and signaling the mycelium to fruit.
+Temperature shock is accomplished by ventilating with a large volume of cool fresh air. The substrate temperature should fall to fruiting temperatures within 48 hours, effectively slowing [[cannabis-vegetative-growth-stage]] and signaling the mycelium to fruit.
 
 **Key principle**: Agaricus brunnescens does not pin properly at CO2 concentrations above 2000 ppm. Not until CO2 is removed will pinheads form. High CO2 causes overlay -- a dense mycelial mat that makes the casing impervious to water and produces few pinheads.
 
@@ -88,37 +88,3 @@ Once generative growth is initiated, air temperature becomes the controlling fac
 - Even pinning sets up uniform flushing pattern throughout the crop
 - Early forming pinheads ("volunteers") should be removed to benefit remaining primordia
 - Poor first flushes indicate faulty pinning procedures
-- 60-75% of total yield is normally from first two flushes
-
-### Air Movement
-
-- Creates even flow across all levels of cropping surface
-- Counteracts temperature stratification and dead air pockets
-- During pin initiation: fresh air removes metabolic gases (CO2)
-- During cropping: maturing mushrooms create more CO2 requiring continuous fresh air supply
-- Agaricus brunnescens: 4-6 air changes/hour; [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: 2-3 changes/hour
-- High CO2 produces long stems and small underdeveloped caps in Agaricus and Pleurotus
-
-### Humidity Management
-
-- Once primordia are set, humidity lowered to 85-92% and held constant
-- Evaporation aids [[mycelial-network-nutrient-transport-imaging-gadd]] from substrate to growing mushrooms
-- Below 85%: excessive drying, small stunted mushrooms, cracked scaly caps
-- Balance between air circulation, fresh air, and humidification is critical
-
-## Influence of Light on Pinhead Initiation
-
-Photosensitive species (Psilocybe cubensis, Pleurotus ostreatus) respond to specific wavelengths:
-- More pinheads initiated with blue and ultraviolet light
-- Distinct peaks at 370, 440, and 460 nanometers
-- As little as half a millisecond per day of stimulation at these wavelengths causes primordia to form
-- Red, infrared, and green light (>510 nanometers) are ineffective
-- Best practice: incubate in total darkness, expose to light only after mycelium shows through casing
-- Red light can be used for checking cultures without triggering premature pinning
-
-## See Also
-
-- [[mushroom-cultivator-casing-soil]] -- casing techniques before fruiting
-- [[monotub-cultivation]] -- environment control systems
-- [[mushroom-yield-optimization]] -- primordia [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
-- [[environmental-control-mushroom-growing]]

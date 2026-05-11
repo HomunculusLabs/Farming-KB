@@ -87,34 +87,3 @@ The primary use of S. reticulata is ornamental, valued for its late flowering, a
 In traditional Korean and Chinese medicine, the bark and leaves have been used as antipyretic and anti-inflammatory agents. Phytochemical studies have identified oleuropein, verbascoside, and several iridoid glycosides in leaf and bark extracts.
 
 The roots and bark have also been used in folk medicine as a treatment for rheumatic complaints and digestive disorders. These traditional applications lack rigorous clinical validation but have stimulated modern investigation into the species' bioactive constituents.
-
-Antioxidant assays have demonstrated that flower extracts exhibit significant free-radical scavenging activity, comparable to that of green tea catechins. The phenolic compounds responsible include syringin, oleuropein, and luteolin-7-glucoside.
-
-Wood is fine-grained, hard, and moderately heavy, with a specific gravity of approximately 0.65. It has been used locally for tool handles, walking sticks, and small turned objects, though commercial utilization is limited by the small size of most harvested trees.
-
-The heartwood is pale brown to yellowish with a satiny luster when polished. It works readily with hand and machine tools and takes a smooth finish, making it suitable for specialty woodworking applications such as pen turning and inlay work.
-
-## Ecology
-
-The late-flowering habit of S. reticulata provides a valuable nectar and pollen resource for pollinators during a period when most spring-blooming woody plants have finished flowering. The open, shallow flowers are accessible to a wide range of bee species, butterflies, and syrphid flies.
-
-Caterpillars of several sphingid and geometrid moth species feed on the foliage. The species is a recorded host for the lilac borer (Podosesia syringae), a clearwing moth whose larvae tunnel in the bark and wood of lilac and olive family members.
-
-Lilac leaf miner (Gracillaria syringella) occasionally causes aesthetic damage by mining within the leaves, creating blotch mines that reduce photosynthetic area. Severe infestations can lead to premature defoliation but rarely threaten tree health.
-
-Bird species including waxwings, thrushes, and finches consume the mature capsules and may contribute to seed dispersal. The dense canopy provides nesting sites and thermal cover for small passerines in urban and suburban landscapes.
-
-As a non-native species in North America and Europe, S. reticulata has limited [[king-stropharia-ecological-interactions-permaculture]] with local fauna. It does not appear to pose significant invasion risk, though its self-seeding capacity warrants monitoring near natural areas in cold climates.
-
-## See Also
-
-- [[syringa-vulgaris]]
-- [[syringa-oblata]]
-- [[forsythia-suspensa]]
-- [[forsythia-viridissima]]
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]
-- [[fraxinus-ornus]]
-- [[olea-europaea]]
-- [[jasminum-officinale]]
-- [[kalmia-latifolia]]

@@ -1,5 +1,5 @@
 ---
-title: Low-Irrigation Vegetable Gardening
+title: Low Irrigation Vegetable Gardening
 aliases: [dry-farming, waterwise-gardening, unirrigated-gardening, drought-gardening]
 tags: [gardening, water-conservation, sustainable-agriculture, drought]
 sources:
@@ -11,11 +11,11 @@ created: 2026-05-10
 
 ## Overview
 
-Low-irrigation vegetable gardening is a method of growing food with minimal or no supplemental watering, relying on wider plant spacing, soil moisture conservation techniques, and appropriate variety selection. Developed and refined by Steve Solomon through years of variety trials and research, this approach was practiced by gardeners before pressurized water systems existed. As water becomes scarcer and more expensive, and as chemical fertilizers (made from petroleum and natural gas) increase in cost, low-irrigation methods become increasingly relevant for food self-sufficiency. (see [[growing-food-in-hard-times]]).
+Low-irrigation vegetable gardening is a method of growing food with minimal or no supplemental watering, relying on wider plant spacing, soil [[cervantes-mulch-outdoor-moisture-conservation]] techniques, and appropriate variety selection. Developed and refined by Steve Solomon through years of variety trials and research, this approach was practiced by gardeners before pressurized water systems existed. As water becomes scarcer and more expensive, and as [[cannabis-chemical-fertilizers]] (made from petroleum and natural gas) increase in cost, low-irrigation methods become increasingly relevant for food self-sufficiency. (see [[growing-food-in-hard-times]]).
 
 ## The Problem with Intensive Irrigation
 
-During the fat years of the 1980s and 1990s, intensive raised-bed systems with close plant spacing and heavy irrigation became the standard approach promoted by gardening books and magazines. Solomon himself advocated these methods in his early books and through Territorial Seed Company. However, several problems emerged:
+During the fat years of the 1980s and 1990s, intensive raised-bed systems with [[biointensive-close-plant-spacing]] and heavy irrigation became the standard approach promoted by gardening books and magazines. Solomon himself advocated these methods in his early books and through Territorial Seed Company. However, several problems emerged:
 
 - **Water scarcity**: Rural well flow is dropping as more households pump from the same water table. Watersheds are becoming degraded, lessening groundwater recharge. Electricity costs for pumping are rising with oil prices. (see [[vegetable-seed-spacing-systems]]).
 - **High fertility requirements**: Intensive spacing [[wide-spacing-dry-gardening-low-irrigation-solomon]] demands massive inputs of manure, compost, and fertilizer. When these inputs become expensive or unavailable, intensive beds underperform.
@@ -46,7 +46,7 @@ The Cuban experience demonstrates that a temperate climate area can produce two 
 
 ## Four Spacing Systems
 
-Solomon identifies four vegetable spacing systems, ranging from most intensive to least intensive:
+Solomon identifies four [[intensive-vegetable-spacing-systems]], ranging from most intensive to least intensive:
 
 ### 1. Intensive (Raised Bed) Spacing
 
@@ -69,7 +69,7 @@ The most extreme spacing, designed for growing vegetables without any supplement
 ### Soil Preparation
 
 - Focus on building soil organic matter moderately, not excessively
-- Use Complete Organic Fertilizer (COF) to provide complete mineral nutrition
+- Use [[complete-organic-fertilizer-cof]] (COF) to provide complete mineral nutrition
 - Ensure good soil structure through appropriate cultivation and organic matter incorporation
 
 ### Plant Spacing
@@ -87,44 +87,3 @@ The most extreme spacing, designed for growing vegetables without any supplement
 - **Choose appropriate crops**: Some vegetables are naturally more drought-tolerant than others
 
 ### Crop Selection for Low Water
-
-**Easy to grow with less water:**
-- Potatoes and sweet potatoes (the most caloric-efficient crops)
-- Beans and peas (legumes fix their own nitrogen)
-- Garlic and onions
-- Winter squash
-- Root vegetables (carrots, parsnips, beets)
-
-**Moderate water needs:**
-- Tomatoes (once established, relatively drought-tolerant)
-- Peppers
-- Corn (moderate water during silking and ear development)
-- Cabbage family (once established)
-
-**High water needs (avoid or allocate carefully):**
-- Celery
-- Cauliflower
-- Lettuce and leafy greens (can be grown in cooler, moister seasons)
-
-## Garden Size Considerations
-
-As a rough gauge, take the 2,700-square-foot wartime allotment plot as a reference point. This amount of land, managed with low-irrigation methods, can produce a significant portion of a family's food. For complete family food self-sufficiency based on potatoes or sweet potatoes as the caloric base, approximately 4,500 square feet (420 square meters) per adult is needed, plus about 500 more square feet per additional adult in the family.
-
-Producing cereal grains would require five to ten times as much land per person. The healthful potato is really the most efficient calorie crop for home garden-scale food production. Solomon notes that over half his own garden's caloric production comes from potatoes.
-
-## The Coming Hard Times
-
-Solomon wrote this book in 2005 with the conviction that hard times are coming. Several converging trends support this view:
-
-- Oil and natural gas are becoming scarcer, making chemical fertilizers and irrigation pumping more expensive
-- Average people in industrialized nations will have less real purchasing power due to global economic competition
-- Water is becoming scarce in many regions as aquifers are depleted and watersheds degraded
-- Climate change may alter rainfall patterns and growing seasons
-
-The low-irrigation gardening method is designed for resilience in the face of these challenges. By reducing dependence on water, petroleum-based inputs, and expensive amendments, it provides a pathway to sustainable food production even when resources become constrained.
-
-## See Also
-
-- [[complete-organic-fertilizer-cof]]
-- [[manure-quality-and-soil-fertility]]
-- [[vegetable-spacing-and-garden-layout]]

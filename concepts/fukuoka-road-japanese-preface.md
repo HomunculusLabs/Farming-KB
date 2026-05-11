@@ -5,6 +5,7 @@ tags: [philosophy, confession, god, natural-farming, autobiography]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,10 +88,3 @@ without question the one and only path that remains for
 humanity to continue to survive on this earth.
 
 ## God Has Abandoned Man
-
-The preface concludes with a stark message: God has left
-man to his own devices; he has abandoned man. If man does
-not save himself, no one will do this for him. Even if the
-going is steep, we must lay out the route by which our
-children and grandchildren can continue to live on this
-beautiful planet.

@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,40 +88,3 @@ The electric company might call to ask if you are aware of your
 increased electricity bill. This is nothing to worry about. Simply
 reply that you are aware of the electricity being used. If you like to
 make excuses, some appliances that draw a lot of electricity are:
-electric pottery kiln, arc welder, and [[wood-fired-hot-tub]].
-
-If the situation warrants discretion, take showers at a friend's house
-or at a gym, use a Laundromat, and never use any electrical appliances
-during peak meter-reading hours.
-
-## Meter Reader Awareness
-
-The meter reader may think it is strange to see the electric meter
-spinning rapidly during the middle of the day when nobody is home.
-Change the daylight cycle to run at night, so the meter reader sees
-the meter when the lamps are off.
-
-Meter readers now use high-tech telescopes to read dials on the meter
-and store readings in integrated digital entry devices. The information
-is then dumped into the main computer at the central office.
-
-## Generator Options
-
-A generator on wheels provides complete "off the grid" security.
-Generators producing 4000 watts at full capacity can run multiple HID
-systems. Check consumption and maintenance requirements before
-purchasing. Some models make considerable noise that must be muffled.
-
-## Large Consumers
-
-Large electricity consumers may trigger the installation of a
-heavy-duty commercial power meter. The power company might notice a
-major change in consumption and assume a defective meter, replacing
-it. This has happened to growers when their consumption pattern
-changed dramatically.
-
-## Relationship to Grow Room Design
-
-Efficient [[cervantes-air-quality-ventilation]] and
-[[cervantes-high-pressure-sodium-lighting]] at 600 watts instead of
-1000 watts can provide more light per watt consumed.

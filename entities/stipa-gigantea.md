@@ -14,16 +14,16 @@ sources:
   - Huxley, A. (1992). "The New RHS Dictionary of Gardening." Macmillan.
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
   - Valdés, B. et al. (1987). "Flora Vascular de Andalucía Occidental." Ketres Editora.
-  - USDA ARS (2024). "Germplasm Resources Information Network: Stipa gigantea."
+  - USDA ARS (2024). "Germplasm Resources [[mycelium-digestive-membrane-information-network]]: Stipa gigantea."
 ---
 
 ## Overview
 
-**Stipa gigantea** is a large evergreen perennial grass in the family Poaceae, commonly known as golden oats or giant feather grass.
+**Stipa gigantea** is a large evergreen [[savory-perennial-grass-and-desertification]] in the family Poaceae, commonly known as golden oats or giant feather grass.
 
 It is native to the western Mediterranean region, including the Iberian Peninsula, Morocco, and southern France.
 
-The species is celebrated in horticulture for its dramatic flower spikes, which rise well above the foliage on slender stems and catch light throughout the growing season.
+The species is celebrated in horticulture for its dramatic flower spikes, which rise well above the foliage on slender stems and catch light throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Golden oats has received the Royal Horticultural Society's Award of Garden Merit and is widely planted in temperate gardens worldwide.
 
@@ -71,13 +71,13 @@ Naturalized populations are generally small and localized, and the species is no
 
 ## Cultivation and Uses
 
-Stipa gigantea is one of the most popular ornamental grasses in temperate horticulture.
+Stipa gigantea is one of the most popular [[ornamental-grasses-guide]] in temperate horticulture.
 
 It is prized for its architectural form, combining a neat basal mound with tall, translucent flower spikes that create dramatic vertical accents in borders and meadow plantings.
 
 The species is widely used in naturalistic garden designs, prairie-style plantings, and Mediterranean-themed landscapes.
 
-It performs best in full sun and well-drained soil, showing excellent drought tolerance once established.
+It performs best in full sun and well-drained soil, showing excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 Excessive soil moisture or poor drainage leads to crown rot and decline, particularly in winter.
 
@@ -88,40 +88,3 @@ Division of mature clumps is possible in spring but should be undertaken infrequ
 In mild climates, the foliage is semi-evergreen and retains a neat appearance through winter.
 
 In colder regions, foliage may be cut back in late winter before new growth emerges.
-
-The species is relatively pest-free and requires minimal maintenance beyond an annual cleanup of spent flowering stems.
-
-Golden oats pairs effectively in plantings with other Mediterranean species including *Lavandula angustifolia*, *Perovskia atriplicifolia*, *Salvia nemorosa*, and *Echinacea purpurea*.
-
-The flower spikes are widely used in both fresh and dried floral arrangements, where the golden awns add texture and luminosity.
-
-In its native range, the species has limited forage value.
-
-Livestock may graze young growth but generally avoid mature plants due to the coarse, tough leaves.
-
-## Ecology
-
-Stipa gigantea contributes to the structure and diversity of Mediterranean grassland ecosystems.
-
-Its deep, fibrous root system helps stabilize soils on slopes and reduces erosion in dry, exposed sites.
-
-The species provides shelter and foraging habitat for a range of invertebrates, including grasshoppers, leaf beetles, and various beneficial predatory insects.
-
-Seed-eating birds including finches and buntings consume the ripe grains, and the dense tussocks offer cover for small mammals and ground-dwelling birds.
-
-In native grassland communities, Stipa gigantea coexists with a diverse assemblage of annual and perennial forbs, geophytes, and other grasses.
-
-The open, airy panicle structure allows significant light penetration to lower vegetation layers, supporting understory plant diversity.
-
-Mature awns may play a role in seed dispersal by embedding in animal fur or catching wind currents across open terrain.
-
-## See Also
-
-- [[stipa-tenuissima]]
-- [[pennisetum-alopecuroides]]
-- [[miscanthus-sinensis]]
-- [[festuca-glauca]]
-- [[molinia-caerulea]]
-- [[panicum-virgatum]]
-- [[koeleria-macrantha]]
-- [[andropogon-gerardii]]

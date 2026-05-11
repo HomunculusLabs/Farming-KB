@@ -12,9 +12,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Jaffe JH, Martin WR (1985). "Opioid analgesics and antagonists." The Pharmacological Basis of Therapeutics. McGraw-Hill.
-  - Schmidt H, Thede RE (1969). "Thebaine conversion to oripavine." Journal of Organic Chemistry 34(6): 1711-1714.
+  - Schmidt H, Thede RE (1969). "Thebaine conversion to oripavine." Journal of [[pericyclic-reactions-organic-chemistry]] 34(6): 1711-1714.
   - Lotfipour F, Amini M (2008). "Thebaine: a promising pharmacological agent for drug dependence treatment." Pharmacology & Therapeutics 118(1): 1-9.
-  - United Nations Office on Drugs and Crime (2023). "The Opium Poppy: Controlled Substances and Their Derivatives."
+  - United Nations Office on Drugs and Crime (2023). "The Opium Poppy: [[controlled-substances-act-and-psychedelic-research]] and Their Derivatives."
   - Dedov VN et al. (2001). "Orvinols as leads for novel analgesics." Natural Product Reports 18(5): 513-527.
 ---
 
@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-Thebaine (paramorphine) is an opiate alkaloid found in the opium poppy, Papaver somniferum.
+Thebaine (paramorphine) is an opiate alkaloid found in the opium poppy, [[papaver-somniferum]].
 
-It constitutes approximately 0.2–1.5% of dry opium latex, making it the third most abundant opium alkaloid after morphine and codeine.
+It constitutes approximately 0.2–1.5% of dry opium latex, making it the third most abundant opium alkaloid after morphine and [[codeine]].
 
 Unlike morphine and codeine, thebaine produces convulsant and strychnine-like effects rather than analgesia, and is not used directly as a therapeutic agent.
 
@@ -84,37 +84,6 @@ However, thebaine is the most valuable opium alkaloid by weight as a pharmaceuti
 
 Oxycodone and oxymorphone, two widely prescribed opioid analgesics, are manufactured semi-synthetically from thebaine through oxidation and rearrangement reactions.
 
-The opioid antagonists naloxone, naltrexone, and nalmefene are all synthesized from thebaine, making it essential to emergency medicine and addiction treatment.
+The opioid antagonists naloxone, naltrexone, and nalmefene are all synthesized from thebaine, making it essential to emergency medicine [[psilocybin-and-addiction-treatment]].
 
 Buprenorphine, a partial μ-opioid agonist used in medication-assisted treatment for opioid dependence, is also derived from thebaine via the oripavine intermediate.
-
-Etorphine and carfentanil, ultra-potent veterinary opioids, are synthesized from thebaine through the orvinol series of reactions.
-
-The global demand for thebaine has increased substantially with the rising prescription rates of oxycodone and the expanding use of naltrexone for alcohol use disorder.
-
-Commercial thebaine extraction from opium straw (dried poppy capsules and stems) has largely replaced latex-derived thebaine as the primary industrial source.
-
-## Legal Status
-
-Thebaine is classified as a Schedule II controlled substance under the United States Controlled Substances Act.
-
-Internationally, thebaine is listed in Table I of the United Nations Single Convention on Narcotic Drugs, subject to the same controls as morphine and codeine.
-
-In Australia, thebaine is regulated under Schedule 8 (Controlled Drug) of the Standard for the Uniform Scheduling of Medicines and Poisons.
-
-The European Union classifies thebaine as a Category 1 narcotic under EU Regulation 273/2004.
-
-Several countries maintain government-licensed thebaine extraction facilities to ensure controlled production for pharmaceutical manufacturing.
-
-Despite its status as a controlled substance, thebaine itself has negligible abuse potential due to its aversive convulsant effects.
-
-## See Also
-
-- [[morphine]]
-- [[codeine]]
-- [[papaver-somniferum]]
-- opium
-- heroin
-- [[cocaine]]
-- [[ergotamine]]
-- [[lsd]]

@@ -1,7 +1,7 @@
 ---
-title: "metzner grof perinatal matrices and transpersonal realms Matrices and Transpersonal Realms"
+title: Metzner Grof Perinatal Matrices And Transpersonal Realms
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-tags: [ralph-metzner, stanislav-grof, perinatal-matrices, psycholytic,
+tags: [[ralph-metzner]], stanislav-grof, perinatal-matrices, psycholytic,
   transpersonal, holotropic, birth-memory, psychotherapy, consciousness]
 created: 2026-05-08
 ---
@@ -17,7 +17,7 @@ matrices and the discovery of transpersonal realms of consciousness.
 
 The psycholytic model was the dominant approach to LSD-assisted
 psychotherapy in Europe.
-In psycholytic therapy, patients were given LSD in a series of
+In [[metzner-sandoz-psycholytic-therapy-european-clinical-model]], patients were given LSD in a series of
 sessions at gradually increasing doses while undergoing analytic
 interactions using a Freudian perspective.
 
@@ -88,45 +88,3 @@ such as holotropic breathwork, a breathing method that can induce
 similar states without pharmacological substances.
 
 ## Implications for the Set and Setting Model
-
-Metzner noted that the set-and-setting model originally developed for
-understanding psychedelic experiences could be extended to holotropic
-breathwork and other nondrug methods, including meditation, rhythmic
-drumming, sensory isolation, and fasting.
-
-The discovery that the same transpersonal territories could be
-reached through multiple modalities strengthened the argument that
-these realms are genuine features of human consciousness, not mere
-drug effects.
-
-## Connection to Shamanic Traditions
-
-The perinatal and transpersonal discoveries in psycholytic therapy
-created a bridge between Western psychotherapy and shamanic
-traditions.
-Shamanic journeying, vision quests, and [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] also
-access these deeper layers of consciousness.
-
-The transpersonal realms that Grof mapped correspond closely to the
-"spirit worlds," "upper and lower worlds," and "dreamtime"
-described in indigenous shamanic traditions.
-
-## The Amplifier Analogy
-
-The amplifier analogy helps explain these discoveries.
-If psychedelics function as nonspecific amplifiers of psychic
-contents, then as defenses are progressively lowered through
-repeated sessions, ever-deeper layers of the psyche become
-accessible.
-
-Freudian material gives way to perinatal material, which in turn
-gives way to transpersonal material, revealing a stratified model
-of consciousness.
-
-## See Also
-
-[[metzner-set-and-setting-hypothesis-origins-and-extensions]]
-[[metzner-transpersonal-dimensions-psychedelic-therapy]]
-[[stanislav-grof]]
-holotropic breathwork
-perinatal psychology

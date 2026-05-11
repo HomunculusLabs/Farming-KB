@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Hofmann, A. (1978). "ergot-and-lysergic-acid-history Diethylamide and Related Compounds." Pharmacology & Therapeutics, 2(2), 223–243.
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C Thomas.
-  - Staig, S.M. & Blum, L.N. (1981). "Ergot Alkaloids: Separation and Detection by High-Performance Liquid Chromatography." Journal of Chromatography A, 210, 487–493.
+  - Staig, S.M. & Blum, L.N. (1981). "[[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]: Separation and Detection by High-Performance Liquid Chromatography." Journal of Chromatography A, 210, 487–493.
   - Cordell, G.A. (1981). Introduction to Alkaloids: A Biogenetic Approach. Wiley-Interscience.
   - Tittel, G. & Repke, D. (1973). "Isolierung und Strukturaufklärung von Lysergol aus Ipomoea-Arten." Phytochemistry, 12, 2353–2355.
 ---
@@ -23,7 +23,7 @@ Lysergol (9,10-didehydro-6-methylergoline-8β-ol) is a clavine-type ergoline
 alkaloid produced by fungi of the genus *Claviceps* (ergot fungi) and found
 in several [[golden-guide-morning-glory-and-ololiuqui]] species (*Ipomoea* spp., *Convolvulaceae*).
 It is a direct metabolic precursor in the biosynthetic pathway leading to
-lysergic acid amide (LSA) and ultimately to lysergic acid diethylamide (LSD).
+[[lysergic-acid-amide]] (LSA) and ultimately to [[lsd-d-lysergic-acid-diethylamide]] (LSD).
 Lysergol itself possesses mild psychoactive properties but is significantly
 less potent than its downstream derivatives.
 
@@ -63,9 +63,9 @@ parasitizing grasses and cereals. The biosynthetic sequence proceeds:
 - Lysergic acid → LSA, LSD, ergopeptines
 
 Beyond fungal sources, lysergol occurs in the seeds of several
-*Convolvulaceae* species, particularly *Ipomoea tricolor* (morning glory)
+*Convolvulaceae* species, particularly *[[ipomoea-tricolor]]* ([[hofmann-ololiuqui-morning-glory-investigation]])
 and *Ipomoea corymbosa* (ololiuqui), where it co-occurs with LSA,
-ergometrine, and other ergoline alkaloids. The presence of lysergol in
+ergometrine, and other [[morning-glory-lsa-and-ergoline-alkaloids]]. The presence of lysergol in
 plant seeds is attributed to symbiotic [[fungi-in-the-environment-fungal-endophytes-plant-communities]] rather than
 plant metabolism.
 
@@ -88,45 +88,3 @@ with substantially lower affinity and efficacy than LSD or LSA.
 
 The mild psychoactive effects reported for lysergol-containing plant
 preparations are primarily attributable to co-occurring alkaloids
-(particularly LSA and ergometrine) rather than lysergol itself.
-In its isolated form, lysergol produces little to no discernible
-psychoactivity at oral doses up to several milligrams.
-
-### Non-Psychoactive Bioactivity
-
-Lysergol has demonstrated moderate oxytocic (uterine-contracting)
-activity in isolated uterine tissue preparations, consistent with
-other ergoline alkaloids. It has also shown antibacterial activity
-against *Staphylococcus aureus* and *Bacillus subtilis* in vitro,
-though at concentrations far exceeding therapeutic relevance.
-
-## Historical and Cultural Significance
-
-Lysergol was first chemically characterized by Tittel and Repke in 1973
-during systematic investigations of *Ipomoea* alkaloids. Its structural
-elucidation helped establish the complete biosynthetic pathway from
-tryptophan to lysergic acid, a question that had remained partially
-unresolved since Hofmann's initial isolation of LSA from morning glory
-seeds in 1960.
-
-The ergoline alkaloids of *Ipomoea* species have a long history of ritual
-use in Mesoamerican cultures. The Aztec entheogen ololiuqui, identified
-as the seeds of *Ipomoea corymbosa*, contains lysergol among its
-constituent alkaloids. This cultural use represents one of the oldest
-known psychedelic plant traditions in the Americas.
-
-## Legal Status
-
-Lysergol is unscheduled in most jurisdictions due to its negligible
-psychoactivity. However, its structural classification as an ergoline
-alkaloid means it may fall under analogue drug legislation in some
-countries. In the United States, lysergol is not specifically listed
-under the Controlled [[controlled-substances-act-and-psychedelic-research]] but could potentially be treated
-as a positional isomer of controlled lysergamides under the Federal
-Analogue Act, though no prosecutions have been documented.
-
-## See Also
-
-- [[ergometrine]] — Ergoline alkaloid with significant oxytocic activity
-- [[lysergic-acid-amide]] — Direct downstream metabolite of lysergol
-- [[lsd]] — Semisynthetic derivative of lysergic acid

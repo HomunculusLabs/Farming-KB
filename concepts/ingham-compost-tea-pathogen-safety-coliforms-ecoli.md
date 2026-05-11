@@ -87,35 +87,3 @@ Food safety concerns should focus on preventing INTERNAL contamination of produc
 ## The Anaerobic Tea Warning
 
 Ingham draws a clear distinction between aerobic [[teaming-with-microbes-compost-tea-and-inoculation]] anaerobic preparations:
-
-- Anaerobic tea (fermented without aeration) CAN contain human pathogens and should not be applied to edible crops
-- Anaerobic tea often smells foul (putrid, sour, sewer-like) — this is an indicator that it should not be used on food crops
-- If compost tea smells bad, do not apply it to anything edible regardless of how it was brewed
-- Aerobic compost tea smells earthy, sweet, or like good forest soil
-
-## Testing for Pathogens
-
-For commercial operations or anyone with specific food safety concerns:
-
-- Standard plate count methods can detect total and fecal coliforms
-- Specific E. coli O157:H7 tests are available through commercial laboratories
-- Regular testing of both the source compost and the finished tea provides documentation of safety
-- Most university extension services can recommend appropriate testing protocols and laboratories
-
-## Practical Summary for Home Gardeners
-
-For home gardeners using compost tea on edible crops, Ingham's guidance simplifies to these key points:
-
-1. Start with quality, fully cured compost that reached thermophilic temperatures
-2. Keep the tea aerobic throughout brewing (bubbling, earthy smell, foam on surface)
-3. Do not add manure directly to the tea brew
-4. Apply the same day as brewing whenever possible
-5. If it smells bad, do not apply it to edible crops
-6. Wash vegetables before eating, as you would with any garden produce
-7. These simple precautions are sufficient for home-scale food safety
-
-The organisms in aerobic compost tea are the same beneficial bacteria and fungi that healthy plants naturally host. Properly made compost tea does not introduce novel risks beyond those inherent in [[container-growing-vegetables-herbs]] in soil.
-
-## Related Topics
-
-- [[soil-foodweb-balancing-protocol-ingham]]

@@ -87,35 +87,3 @@ James Arthur's "Mushrooms and Mankind" develops a detailed argument that the ser
 ## Nahash: The Hebrew Word for Serpent
 
 Arthur's argument begins with a crucial linguistic observation. In the Bible, the word translated as "serpent" is "nahash" (NHSH), which literally means "to decipher" or "to find out." This etymological fact alone suggests that the biblical serpent was associated not with deception but with knowledge and discovery.
-
-All throughout ancient times, Arthur notes, the serpent was known as the bringer of knowledge — hence the biblical euphemism "be ye wise as serpents." Serpents were considered the precipitators of enlightenment, a meaning that has been largely inverted in subsequent religious interpretation.
-
-## The Sumerian Origin: Enki as the Serpent Bearer
-
-Arthur traces the serpent-knowledge connection back to Sumerian mythology, where the god Enki (also called Ea) was humanity's preserver and compatriot. It was Enki who fed humans the fruit of the tree of knowledge, acting as the benefactor of mankind against the wishes of his counterpart Enlil.
-
-Enlil, in the Sumerian narratives, was the storm-god — the bringer of vengeance and wrath, jealous and controlling. Enlil commanded that humans not be allowed access to the fruit of knowledge. Enki defied this prohibition and gave humanity the gift of expanded awareness.
-
-Arthur argues that the later biblical narrative completely inverted this story, transforming the benefactor Enki into the villainous serpent and the oppressor Enlil into the righteous Jehovah. This inversion, he suggests, was a deliberate political act designed to establish control over the human population by suppressing the original narrative of liberation through knowledge.
-
-## The Caduceus as Enki's Emblem
-
-In cuneiform symbolism, Arthur notes, the caduceus — the snake coiled around the staff — is the representation for Enki and is in fact his personal emblem. This symbol, now widely associated with medicine and healing, originally represented the god who brought knowledge and entheogenic wisdom to humanity.
-
-The caduceus with its intertwined serpents carries, in Arthur's interpretation, a direct connection to mushroom symbolism. The serpents wrapped around the central staff mirror the visual appearance of the Amanita muscaria in various stages of growth, where the stem is encircled by the remnants of the universal veil.
-
-## The Serpent and the Mushroom: Visual Connections
-
-Arthur identifies multiple visual correspondences between serpents and mushrooms that support his symbolic interpretation.
-
-The mushroom in its button stage resembles an egg. As it grows and expands, pushing upward out of the bulbous base, it looks like a snake hatching and shedding its skin — being born anew. This metamorphosis from egg to serpent-like form is a key symbolic connection.
-
-Once the mushroom has fully grown, decayed, and dissolved, it leaves behind a hole in the ground. Around this hole is a white powdery substance — the spores it left behind. This hole resembles a snake's hole or lair, providing another basis for the mushroom's identification as a serpent.
-
-The depiction of the snake in the Garden of Eden, which "revealed to humans secret knowledge" about the fruit of the tree, is in Arthur's reading a grand myth encoding this mushroom-serpent association.
-
-## The Mithraic Connection
-
-Arthur extends the serpent-mushroom symbolism to Mithraic traditions. Mithra was said to have been born out of a stone, entwined with the serpent — a purely symbolic representation since no one would be literally born from a stone. Arthur interprets this as revealing that the god is the mushroom, which in turn is the god — a symbolic form representing birth into the spiritual realm through the sacred meal.
-
-Mithraic temples (Mithraeum) contained rows of bathtubs that could be filled with salt water, creating instant sensory deprivation tanks. These were used during communal ceremonies where initiates partook of a sacred meal invoking out-of-body experience — a "ritually designed sacramental, shamanistic, and communal Gnosis."

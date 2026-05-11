@@ -8,7 +8,7 @@ topics: [fungi, vacuole, nutrient-transport, hyphae, FRAP, diffusion, mycelium, 
 
 ## Overview
 
-The fungal vacuolar system is a dynamic network of membrane-bound organelles that serves as the primary organ for intracellular transport and storage in filamentous fungi. Far from being static storage compartments, vacuoles in fungal hyphae form interconnected tubular networks that facilitate long-distance translocation of nutrients — particularly nitrogen — from sites of uptake to sites of demand at growing tips. Research using FRAP (Fluorescence Recovery After Photobleaching) and computational modeling has revealed that diffusion through this vacuolar network can sustain [[gadd-hyphal-tip-growth-and-branching-mechanisms]] over distances of 12–24 mm in unbranched hyphae, but only a few millimetres in heavily branched systems.
+The fungal vacuolar system is a dynamic network of membrane-bound organelles that serves as the primary organ for intracellular transport and storage in [[environmental-sensing-filamentous-fungi-read]]. Far from being static storage compartments, vacuoles in [[fungal-hyphae]] form interconnected tubular networks that facilitate long-distance translocation of nutrients — particularly nitrogen — from sites of uptake to sites of demand at growing tips. Research using FRAP (Fluorescence Recovery After Photobleaching) and computational modeling has revealed that diffusion through this vacuolar network can sustain [[gadd-hyphal-tip-growth-and-branching-mechanisms]] over distances of 12–24 mm in unbranched hyphae, but only a few millimetres in heavily branched systems.
 
 ## Vacuolar Organization in Hyphae
 
@@ -18,7 +18,7 @@ The vacuolar system in a growing fungal hypha is not uniform but consists of dis
 Located behind the growing front, these are the classic large, spherical vacuoles visible under light microscopy. They serve as storage reservoirs and are connected by narrower tubular elements. FRAP measurements on these compartments yield specific diffusion coefficients for the vacuolar interior.
 
 ### 2. Tubular Vacuolar Network (Near and at the Tip)
-The tubular vacuole region consists of a structurally complex reticulate network of predominantly longitudinal, tube-like elements and small vesicles. While this network appears quite dynamic, most motion is short-range micrometre-scale oscillations rather than longer-range translocation of entire structures. FRAP of a region 40–60 μm long spanning the entire hyphal diameter reveals a well-connected (tubular) component and a smaller immobile (vesicle) phase.
+The tubular vacuole region consists of a structurally complex reticulate network of predominantly longitudinal, tube-like elements and small vesicles. While this network appears quite dynamic, most motion is short-range micrometre-scale oscillations rather than longer-range translocation of entire structures. FRAP of a region 40–60 μm long spanning the entire [[aact-saprophytic-pathogenic-fungal-spectrum-hyphal-diameter-ingham]] reveals a well-connected (tubular) component and a smaller immobile (vesicle) phase.
 
 ### 3. Intermediate Compartments
 Between the large discrete vacuoles and the tubular network, intermediate compartment types exist with progressively smaller vacuoles and increasing amounts of tubular network. Each type has a characteristic effective diffusion coefficient.
@@ -60,7 +60,7 @@ The modeling results reveal a striking dependence on branching:
 - **Unbranched hypha with continuous tubular vacuole**: Can sustain growth over a transport distance of approximately **12–24 mm**
 - **Maximally branched system**: Diffusion alone would operate over only **a few millimetres**
 
-This poise between sufficiency and insufficiency depending on the amount of branching suggests that the vacuolar system is an important organ for coordinating and controlling tip growth and branching.
+This poise between sufficiency and insufficiency depending on the amount of branching suggests that the vacuolar system is an important organ for coordinating and controlling [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] and branching.
 
 ## Functional Implications
 
@@ -71,7 +71,7 @@ The vacuolar system may actively regulate translocation capacity according to lo
 - The range of simulated effective diffusion coefficients varied by orders of magnitude depending on vacuole distribution, suggesting significant regulatory capacity
 
 ### Bidirectional Transport
-An alternative possibility is that the vacuolar system can translocate material acquired by the tips back into the main colony, against the mass flow component needed for tip growth. This would enable nutrient sharing between different parts of the [[gadd-mycelial-network-dynamics]], supporting the colony-level integration observed in foraging fungi.
+An alternative possibility is that the vacuolar system can translocate material acquired by the tips back into the main colony, against the mass flow component needed for tip growth. This would enable [[lowenfels-mycorrhizal-network-nutrient-sharing]] between different parts of the [[gadd-mycelial-network-dynamics]], supporting the colony-level integration observed in foraging fungi.
 
 ### Branching Control
 Because branching reduces effective diffusion distance, the vacuolar system may serve as a sensor that modulates branching frequency:
@@ -84,41 +84,7 @@ Because branching reduces effective diffusion distance, the vacuolar system may 
 ### Photon-Counting Scintillation Imaging (PCSI)
 A novel non-invasive technique was developed to track movement of 14C-labelled nitrogen compounds in foraging [[fungal-mycelial-networks-nutrient-translocation]]. The system works by:
 1. Growing mycelium in contact with an inert scintillation screen
-2. Adding 14C-labelled amino-isobutyrate (AIB) — a non-metabolized amino acid analogue
+2. Adding 14C-labelled amino-isobutyrate (AIB) — a non-metabolized [[cho-fish-amino-acid-preparation]] analogue
 3. Imaging the distribution of radioactivity over time without destroying the mycelium
 
 ### Analysis Parameters
-The AIB distribution pattern is characterized by:
-- **CMDAIB**: Position of the centre of mass of AIB relative to the inoculum centre
-- **ConcDAIB**: Angular concentration — how tightly AIB is distributed (0 = even, 1 = concentrated)
-- **Alignment**: Alignment of the CMDAIB vector with new resources
-
-### Growth-Transport Coupling
-PCSI experiments on *Phanerochaete velutina* revealed:
-- Initial phase: transport and growth are nearly symmetrical
-- Transition: shift to sparser, more asymmetric growth
-- Added resources trigger marked nitrogen accumulation and growth focused on the new resource
-- Damp glass-fibre resources produce more variable responses than filter-paper resources
-
-## Extended Observation in Larger Microcosms
-
-Modified PCSI approaches using wood-block inocula and sand substrata with translucent scintillation screens have enabled continuous imaging of 14C-AIB dynamics for extended periods (excess of 6 weeks). Key observations include:
-- 14C-AIB can travel 250 mm along a major cord within 1 hour of loading
-- Signal reaches the mycelial front within 4 hours
-- Pronounced oscillations continue for 5–7 days
-- Not all cords transport simultaneously — "route-switching" occurs
-- Some cords act as transport routes only transiently, filling and then emptying
-
-## Key Research References
-
-- Bebber, D.P., Tlalka, M. & Fricker, M.D. (2006). Imaging mycelial nutrient dynamics. In Fungi in the Environment, pp. 3–21. Cambridge University Press.
-- Darrah, P.R. et al. (2006). Modelling vacuolar transport in fungal hyphae. (Monte Carlo simulations).
-- Tlalka, M. et al. (2002). Continuous imaging of amino acid translocation in intact mycelia. New Phytologist 153, 173–84.
-- Uetake, Y. et al. (2002). Extensive tubular vacuole system in an [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungus, Gigaspora margarita. New Phytologist 4, 761–8.
-
-## See Also
-
-- [[mycelial-network-graph-theory-analysis]]
-- [[woronin-bodies-septal-pore-plugging-fungal-hypha]]
-- [[fungi-in-the-environment-decomposition-wood-decay]]
-- [[mycorrhizal-networks-common-mycelial-network]]

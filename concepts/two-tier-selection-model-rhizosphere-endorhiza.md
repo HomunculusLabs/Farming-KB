@@ -1,5 +1,5 @@
 ---
-title: Two-Tier [[cultivar-cannabis-microbiome-two-tier-selection-model]] for Rhizosphere and Endorhiza Microbiomes
+title: Two Tier Selection Model Rhizosphere Endorhiza
 created: 2026-05-09
 tags: [microbiome, rhizosphere, endorhiza, plant-microbe-interactions]
 date: 2026-05-09
@@ -88,42 +88,3 @@ soil type is the primary determinant of the rhizosphere microbial pool,
 managing soil health and composition is the most effective lever for
 influencing the plant's microbial partners. However, the secondary genotype-
 dependent selection means that different cultivars may recruit distinct
-endorhiza communities even from the same soil, suggesting that cultivar-
-specific microbial inoculation strategies may be more effective than
-universal approaches for optimizing plant fitness and production yield.
-
-## Edaphic Factor Ranking
-
-The study identified the relative importance of specific edaphic variables
-in structuring microbial communities. For weighted analysis, nitrogen had the
-strongest effect (r-stat: 0.465), followed by salinity (0.437), carbon
-(0.330), water content (0.281), and pH (0.221). The unweighted analysis
-showed the same ranking with stronger effect sizes: nitrogen (0.630),
-salinity (0.620), carbon (0.512), and water content (0.466). All edaphic
-factors tested were significantly correlated with community beta-diversity
-(p = 0.001). This ranking provides actionable guidance for soil management
-strategies aimed at optimizing the Cannabis microbiome.
-
-## Limitations and Considerations
-
-The model was tested across only five Cannabis cultivars in California soils,
-limiting its generalizability. The study also noted that THC concentration
-was significantly correlated with soil edaphic variables, making it difficult
-to disassociate THC-microbiome associations from soil chemistry effects.
-Additionally, the two-tier model does not account for potential vertical
-transmission of endophytes through seeds or the influence of above-ground
-plant compartments on root [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]].
-
-## Implications for Cannabis Cultivation Practice
-
-The two-tier selection model has practical significance for cannabis
-cultivators seeking to manipulate the root microbiome. Because soil-driven
-selection determines the initial species pool, growers can influence the
-rhizosphere community through substrate amendments such as [[bacterial-vs-fungal-compost-teas]],
-biochar, or specific microbial inoculants and biological soil amendments applied to the [[cervantes-green-algae-growing-medium]].
-However, because cultivar-driven selection ultimately shapes the endorhiza
-community, the same soil amendments applied to different cannabis cultivars
-may yield different endophytic profiles. This means that inoculation
-strategies need to be cultivar-specific for optimal results, and that
-microbial products marketed as universal cannabis supplements may not
-perform equally across all genetic backgrounds.

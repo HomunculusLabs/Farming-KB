@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 Updated: 2026-04-18 Hops (Humulus lupulus) are perennial climbing plants best known for their role in beer production. The flowers contain antimicrobial compounds and natural sedative properties. They serve multiple functions in willows-salix-spp, hazelnut, or [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] that can serve as living trellises. The shade they provide can benefit understory plants in summer. Avoid planting near sensitive plants that cannot compete with the vigorous vine. ## Medicinal Uses Hops have documented sedative and calming properties. Hop pillows (stuffed with dried flowers) are a traditional sleep aid. Hop extracts are used in herbal medicine for anxiety and insomnia. The antimicrobial compounds in hops (humulone and lupulone) help preserve beer and have been studied for other antimicrobial applications. ## [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] [[cervantes-downy-mildew-fungal-blight]] and [[cervantes-powdery-mildew-prevention-treatment]] are the most common diseases. [[cervantes-spider-mites-identification-control]], aphids, and Japanese beetles can affect plants. Ensure good [[stamets-growing-room-air-circulation-co2-management]] around the base of the vines. Remove and destroy infected foliage. See [[permaculture-vine-crops]]
 

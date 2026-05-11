@@ -1,5 +1,5 @@
 ---
-title: Oyster [[accessible-mushroom-cultivation-for-disabilities]]
+title: Cotter Oyster Mushroom Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
@@ -13,17 +13,17 @@ growers alike. They are aggressive colonizers, grow on dozens of
 substrates, fruit prolifically, and have broad market appeal.
 From Cotter's "Organic Mushroom Farming and Mycoremediation."
 ## Species and Varieties
-- **Pleurotus ostreatus** (Blue/Gray oyster): Standard
+- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Blue/Gray oyster): Standard
   cold-weather oyster, fruits at 50-70F
-- **Pleurotus pulmonarius** (Phoenix oyster): Warm-weather
+- **[[pleurotus-pulmonarius]]** (Phoenix oyster): Warm-weather
   relative, more heat-tolerant
-- **Pleurotus eryngii** (King oyster/Trumpet): Thick-stemmed,
+- **[[pleurotus-eryngii]]** (King oyster/Trumpet): Thick-stemmed,
   meaty texture, fruits at 55-65F
-- **Pleurotus citrinopileatus** (Golden oyster): Bright yellow,
+- **[[pleurotus-citrinopileatus]]** (Golden oyster): Bright yellow,
   nutty cashew flavor, prefers warmth
 - **Pleurotus djamor** (Pink oyster): Vibrant pink color,
   tropical, requires 70-85F
-- **Pleurotus columbinus** (Blue oyster): Distinctive blue-gray
+- **[[pleurotus-columbinus]]** (Blue oyster): Distinctive blue-gray
   coloration
 - Difficulty ranking: Indoor 1 / Outdoor 1 (easiest to fruit)
 ## General Characteristics
@@ -78,7 +78,7 @@ From Cotter's "Organic Mushroom Farming and Mycoremediation."
   development
 - High CO2 during colonization; lower CO2 triggers fruiting
 ## Expected Yields
-- Biological efficiency of 50-100% (pounds of mushrooms per
+- [[biological-efficiency]] of 50-100% (pounds of mushrooms per
   pound of dry substrate)
 - Typically 2-3 flushes per batch, 2-3 weeks apart
 - First flush is largest; subsequent flushes decline
@@ -88,33 +88,3 @@ From Cotter's "Organic Mushroom Farming and Mycoremediation."
 - Harvest before the cap edge turns upward (spore production
   begins at this stage)
 - Pick gilled mushrooms early to prevent fungus gnats from
-  laying eggs in gills
-- Cut at the base or twist to remove the entire cluster
-- Handle gently; oysters bruise easily and discolor
-- Fresh storage: 1-2 weeks at 38-42F
-- Drying works well; rehydrates satisfactorily
-- Freezing: Saute first, then freeze for best results
-## Cardboard Cultivation Method
-A simple, no-equipment method for growing at home:
-1. Soak corrugated cardboard in water until fully saturated
-2. Tear into pieces, peel apart the layers
-3. Place a layer of wet cardboard in a plastic bin
-4. Sprinkle spawn sparingly over the surface
-5. Add another layer of cardboard and more spawn; repeat 4-6
-  layers
-6. Drill holes in the bin for gas exchange
-7. Cover loosely with plastic to maintain humidity
-8. Incubate in a warm, dark place for 1-2 weeks
-9. Expose to diffuse light and increase ventilation
-10. Mist frequently once fruiting begins
-## Mycoremediation Applications
-- Oyster mycelium is extremely effective at breaking down
-  hydrocarbons (oil spills)
-- Can be trained to degrade herbicides including atrazine at
-  3x labeled application rates
-- Effective at filtering pathogens from contaminated water
-## See Also
-- [[tradd-cotter]]
-- [[oyster-cultivation-kenya]]
-- [[mushroom-cultivation-bulk-substrates]]
-- [[shiitake-mushroom-cultivation]]

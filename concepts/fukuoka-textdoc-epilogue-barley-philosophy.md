@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,59 +88,3 @@ The problem is that scientists "have no idea where the starting point is and are
 He particularly rejected the "well-meaning but misguided kindness" of scientists who try to explain natural farming in scientific terms and support it with theoretical arguments.
 
 "Natural farming is not a product of the knowledge of clever people. Applying human knowledge and reasoning to natural farming can only distort it, never improve it. Natural farming can criticize scientific farming, but cannot itself be evaluated scientifically."
-
-## Keep Philosophy Out of Science, Says the Professor
-
-Fukuoka recalled a university professor who told him, "It's best to keep philosophy and religion out of the world of science."
-
-Fukuoka imagined the barley's response: "Don't bring science into the world of barley."
-
-He added that while science had exploded earlier divinely inspired religious myths, "science has not overthrown true religion, nor even been able to explain it."
-
-What the barley does not tell us is that "only religion and philosophy can expose and pass judgment on the horror of the evils that flow through this world of ours."
-
-## God and Man Passing in Opposite Directions
-
-One of Fukuoka's most profound epilogue passages states:
-
-"God and man are travelers passing in opposite directions. Likewise for natural farming and scientific farming. These two paths start from the opposite sides of nature. One seeks to approach closer to nature, the other to move farther away."
-
-Nature "shows only facts, but says nothing. However these facts are stark and clear. There is no need for explanation."
-
-A true dialogue between man and nature is impossible.
-
-"Man can stand before nature and talk to it, but nature will not call out to man. Man thinks he can know God and nature, but God and nature neither know man nor tell him anything. Instead, they look the other way."
-
-## The Violet and the Clover
-
-Fukuoka closed with poetic observations about his farm.
-
-"The weeds by the roadside have significance and value as weeds. This is something that cannot be violated or taken away by garden varieties. Let weeds be weeds. Clover belongs to the meadows. Clover has value as clover."
-
-The violet growing along a mountain path "blooms for no one in particular, but people cannot overlook or forget it. The moment they see it, they know."
-
-He returned to his central theme: "If people did not change, the world would not change; [[organic-farming-methods-comparison]] would not change."
-
-## Only to Him Who Stands Where the Barley Stands
-
-His ultimate hope: "Only to him who stands where the barley stands, and listens well, will it speak and tell, for his sake, what man is."
-
-As he looked out at the ripening heads of barley standing golden before him under the sunny May sky, he recalled the words of a young visitor from a southern island. After seeing the barley, the visitor left, saying, "I have felt the awesome energy of the earth. What more can I say?"
-
-On the same day, a university professor told Fukuoka, "It's best to keep philosophy and religion out of the world of science."
-
-If the barley had heard, it probably would have answered, "Don't bring science into the world of barley."
-
-## The Natural Farm as Paradise
-
-The epilogue ends with Fukuoka's vision of his farm in spring:
-
-"Daikon, turnip, and rape blossoms bloom beneath the flowering cherry trees. Come the season of the barley harvest, and the sweet fragrance of mandarin flowers drifts over the barley field and out to the Inland Sea. At this time, my natural farm truly becomes a garden of paradise."
-
-The young people who come from the cities live in crude huts among chickens and goats, and gather around the sunken hearth to talk and laugh loudly.
-
-## See Also
-
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[natural-farming]]

@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [cultivation, mycology]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Nameko Mushroom Cultivation

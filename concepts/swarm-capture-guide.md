@@ -10,9 +10,9 @@ sources: []
 # Swarm Capture Guide
 
 Swarming is the natural means of honey bee colony reproduction. A swarm
-represents a free colony for the beekeeper who can capture and rehive it. (see [[queen-rearing-basics]]).
+represents a free colony for the beekeeper who can capture and rehive it.
 This guide covers swarm biology, capture techniques, hive baiting, and
-successful rehiving. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+successful rehiving.
 
 ## Swarm Biology
 
@@ -89,12 +89,12 @@ hive can catch swarms without any effort during swarm season.
 - Entrance: 1.5 square inches, facing south or southeast
 - Height: 10-15 feet off the ground (simulates a tree cavity)
 - Shade: partial shade is preferred
-- Scent: 5-10 drops of lemongrass essential oil on a cotton ball inside
+- Scent: 5-10 drops of lemongrass [[permaculture-designers-manual-essential-oil-plants]] on a cotton ball inside
 - Comb: one frame of old dark drawn comb is highly attractive
 
 ### Placement Strategy
 - Place traps 50-200 yards from known colonies
-- Install by early April in temperate climates
+- Install by early April [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - Check traps weekly during swarm season (May-June)
 - Use Swarm Commander or lemongrass oil as attractant
 - Place near tree lines or hedgerows along flight paths
@@ -111,7 +111,7 @@ hive can catch swarms without any effort during swarm season.
 - After 3-4 days, inspect for eggs — confirms the queen is present and laying
 - If no eggs after one week, the queen was likely lost during capture;
   introduce a new queen or combine with another colony
-- [[queen-rearing-basics|Queen rearing]] skills are valuable for
+- [[queen-rearing-basics]] skills are valuable for
   replacing lost queens
 
 ### After-Care
@@ -123,6 +123,6 @@ hive can catch swarms without any effort during swarm season.
 ## Swarm Prevention in Your Own Colonies
 
 While catching swarms is rewarding, preventing your own colonies from
-swarming preserves honey production. See [[beekeeping-problems-and-solutions]]
+swarming preserves [[faires-beekeeping-and-honey-production]]. See [[beekeeping-problems-and-solutions]]
 for prevention strategies, and [[beekeeping-seasonal-calendar]] for timing
 of management actions.

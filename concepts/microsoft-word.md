@@ -1,5 +1,5 @@
 ---
-title: [[microsoft-word-document-format]]
+title: Microsoft Word
 created: 2026-04-28
 tags: [word-processing, office-suites, document-format, microsoft, history]
 date: 2026-04-28

@@ -1,8 +1,8 @@
 ---
-title: Molecular Methods for Assessing arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
+title: Molecular Methods Fungal Diversity
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - molecular-biology
   - PCR
   - genetic-diversity
@@ -30,7 +30,7 @@ morphology and biochemistry.
 ## Impediments to Understanding Fungal Diversity
 
 Several major impediments complicate the study of fungal diversity.
-Developmental stages of many fungi occur in complex substrata such as
+[[psilocybe-cubensis-developmental-stages]] of many fungi occur in complex substrata such as
 soil, wood, plants, or animals, making them difficult to monitor.
 Lifestyle habits (saprotrophic or symbiotic) are poorly defined.
 Morphological traits are limited in number, impeding taxonomic
@@ -88,59 +88,3 @@ of samples, and produce reproducible results.
 ## Mitochondrial Genome Analysis
 
 Mitochondrial genomes are relatively small (20-80 kb), are transmitted
-maternally, and function similarly in all fungi. Mitochondrial DNA
-represents a single genetic locus; however, low levels of recombination
-have been observed in some systems. Analysis of mtDNA is particularly
-useful for determining phylogenetic differences between closely related
-fungal species.
-
-## Ribosomal RNA/DNA Comparisons
-
-Ribosomal RNA/DNA sequence comparisons are used extensively for
-assessing biodiversity of yeasts and other fungi. The rDNA regions
-include both conserved and variable domains, making them suitable for
-comparisons across a wide range of taxonomic levels. Isolation and
-characterization of rRNAs and rDNAs allows estimation of relatedness
-among taxa and construction of phylogenetic trees.
-
-## Species Monitoring
-
-Molecular methods allow investigators to monitor species in complex
-substrata without the need for culturing organisms. Samples can be
-collected from individuals in situ without impacting community
-structure. Messenger RNA transcripts can be used to quantify specific
-gene activities in nature, providing insight into [[hemenway-mulch-makers-and-plant-functional-roles]] of
-fungi in ecosystems.
-
-## PCR Variants
-
-Several PCR variants enhance the utility of molecular approaches.
-Dual-primer PCR (dpPCR) and nested-primer PCR (npPCR) increase
-specificity and sensitivity. These approaches allow extensive genetic
-analysis of very small tissue samples, greatly decreasing the need for
-lethal sampling or the culturing of organisms. As a result, samples can
-be collected from individuals regardless of their fastidious nature.
-
-## Applications in Fungal Taxonomy
-
-[[fungal-taxonomy]] is complicated by intraspecific morphological and
-physiological variation and the limited number of morphological
-markers. Including DNA-based characters in taxonomic studies alleviates
-these problems because genomic DNA is stable under changing
-environmental conditions. Mutations do occur, but the frequency is low
-and the percentage of the genome affected over short periods is small.
-
-## Challenges and Considerations
-
-Several laboratories have been unable to reproduce band patterns
-revealed by apPCR. Optimization of apPCR by modification of the
-reaction buffer, primer concentration, and cycling conditions is
-necessary. For species designations, comparisons to apPCR patterns
-from known species are required. Eventually, a library of known apPCR
-band patterns should be made available on the Internet for comparative
-analyses.
-## See Also
-
-- [[molecular-methods-in-situ-fungal-diversity-monitoring]]
-- [[fungal-biodiversity-forest-ecosystems]] for community-level analysis
-- [[fungal-species-estimates-biodiversity-overview]] for species counts

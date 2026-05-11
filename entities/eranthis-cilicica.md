@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Hiebert, R.D. & Peterson, R.L. (1985). "Biosystematics of the Eranthis hyemalis complex." Taxon, 34(2), 195-206.
+  - Hiebert, R.D. & Peterson, R.L. (1985). "Biosystematics of the eranthis-hyemalis complex." Taxon, 34(2), 195-206.
   - RHS (2024). "Eranthis cilicica — Plant Finder." Royal Horticultural Society.
   - USDA NRCS (2024). "PLANTS Database: Eranthis cilicica."
   - Tamura, M. (1995). "Ranunculaceae." In: Kubitzki, K. (ed.) The Families and Genera of Vascular Plants, Vol. II. Springer.
@@ -24,7 +24,7 @@ Eranthis cilicica, commonly called Cilician winter aconite, is a low-growing tub
 
 The species produces bright yellow cup-shaped flowers in late winter, often emerging through snow in its native habitat. It is valued in horticulture as one of the earliest spring ephemerals, naturalizing readily in woodland gardens and shaded borders.
 
-Eranthis cilicica is closely related to Eranthis hyemalis but is distinguished by more deeply divided bracts and a generally more robust growth habit. Both species are widely cultivated as winter-interest groundcovers in temperate gardens.
+Eranthis cilicica is closely related to [[eranthis-hyemalis]] but is distinguished by more deeply divided bracts and a generally more robust growth habit. Both species are widely cultivated as winter-interest groundcovers in temperate gardens.
 
 Unlike many Ranunculaceae, Eranthis species bloom before leaves appear on deciduous trees, exploiting the brief window of full sun at ground level. This phenological strategy defines its ecological niche as a classic spring ephemeral.
 
@@ -60,7 +60,7 @@ The species prefers limestone-derived alkaline soils and grows in areas with col
 
 Populations in the wild are locally abundant but restricted to specific microhabitats with suitable drainage and dappled shade. The species is not currently considered globally threatened but has a limited natural range.
 
-In cultivation, it has naturalized in parts of western and central Europe and in eastern North America. It thrives in USDA hardiness zones 4–7 and prefers locations with reliable winter moisture followed by dry summer dormancy.
+In cultivation, it has naturalized in parts of western and central Europe and in [[polypore-fungi-eastern-north-america]]. It thrives in USDA hardiness zones 4–7 and prefers locations with reliable winter moisture followed by dry summer dormancy.
 
 The species co-occurs with other early-blooming geophytes in its native range, including various Crocus, Galanthus, and Iris species. These communities form rich assemblages of winter- and early-spring flowering plants adapted to the Mediterranean montane climate pattern.
 
@@ -78,7 +78,7 @@ Soak dried tubers in room-temperature water for 24 hours before planting to rehy
 
 The plant is largely pest-free and deer-resistant due to toxic ranunculin glycosides present in all plant parts. No serious diseases are reported in cultivation, making it a reliable low-maintenance choice for winter interest.
 
-Seed propagation is possible but requires fresh seed sown immediately after collection while the elaiosome is still intact. Seedlings typically flower in their third year and may take 5–7 years to form substantial self-sustaining colonies.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but requires fresh seed sown immediately after collection while the elaiosome is still intact. Seedlings typically flower in their third year and may take 5–7 years to form substantial self-sustaining colonies.
 
 Companion plantings with snowdrops (Galanthus) and early crocus species create extended winter-blooming displays. The yellow Eranthis flowers complement the white and purple tones of these co-blooming species.
 
@@ -87,34 +87,3 @@ Under ideal conditions, a single tuber can produce a colony spanning 1–2 squar
 ## Toxicity and Chemistry
 
 All parts of Eranthis cilicica contain ranunculin, a lactone glycoside that hydrolyzes enzymatically to protoanemonin when plant tissues are damaged. Protoanemonin is a volatile irritant compound found throughout the family Ranunculaceae.
-
-Handling the plant, especially the tubers, may cause contact dermatitis in sensitive individuals. Ingestion can cause nausea, vomiting, and gastrointestinal distress, though severe poisoning is rare due to the plant's small size and intensely bitter taste.
-
-The toxic compounds serve as effective chemical defenses against herbivory by mammals, mollusks, and most insect pests. This chemical protection contributes to the plant's reliability as a garden subject with negligible pest damage.
-
-Dried herbarium specimens retain the capacity to produce protoanemonin, and botanists handling pressed Eranthis material have reported skin irritation. Gardeners are advised to wear gloves when handling tubers or dividing clumps.
-
-## Ecological Role
-
-As one of the earliest nectar sources in late winter, Eranthis cilicica provides critical early-season forage for emerging pollinators. Honeybees and various solitary bee species visit flowers on warm winter days when few other plants are blooming.
-
-The elaiosome-bearing seeds are collected and dispersed by ants, contributing to local colony expansion and gene flow. This myrmecochorous dispersal strategy is common among spring ephemerals and ensures seeds are carried to nutrient-rich microsites.
-
-Ant-dispersed seeds are typically deposited in abandoned ant nests, which provide elevated nutrient concentrations and physical protection from seed predators. This mutualistic relationship benefits both the plant through dispersal and the ants through nutritional elaiosome consumption.
-
-The plant completes its above-ground life cycle within 6–8 weeks, retreating to underground dormancy by mid-spring. This ephemeral strategy avoids direct competition with later-emerging vegetation for light, water, and soil nutrients.
-
-The tuber stores carbohydrates accumulated during the brief photosynthetic period, sustaining the plant through its long summer and autumn dormancy. This underground storage organ is highly resistant to drought and freezing, ensuring reliable re-emergence year after year.
-
-## See Also
-
-- [[eranthis-hyemalis]]
-- [[helleborus-niger]]
-- [[ranunculus-acris]]
-- [[adonis-vernalis]]
-- [[pulsatilla-vulgaris]]
-- [[clematis-vitalba]]
-- [[aconitum-napellus]]
-- [[anemone-nemorosa]]
-- [[thalictrum-aquilegiifolium]]
-- [[galanthus-nivalis]]

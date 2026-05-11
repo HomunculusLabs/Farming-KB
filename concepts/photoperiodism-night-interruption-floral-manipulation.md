@@ -50,13 +50,13 @@ completely cancel the effect of a red light interruption. If red light was flash
 during the night to prevent short-day plant flowering, a subsequent far-red flash
 would negate this effect and the plant would flower as if it had never seen the red
 light. The last colour perceived by the phytochrome system determined the plant's
-flowering response — a molecular form of light memory.
+[[mollison-designers-day-length-and-flowering-response]] — a molecular form of light memory.
 
 ## Commercial Application: Chrysanthemum Production
 
 ### The Mother's Day Problem
 Chrysanthemums are short-day plants that naturally flower in autumn as days shorten.
-However, the commercial market for chrysanthemums peaks around Mother's Day in spring.
+However, the [[porcini-commercial-market]] for chrysanthemums peaks around Mother's Day in spring.
 This creates a fundamental timing problem: how to make autumn-flowering plants bloom
 in spring.
 
@@ -79,57 +79,12 @@ enabling commercial growers to deliver uniform flowering crops on specific dates
 Short-day plants require a minimum duration of continuous darkness to initiate
 flowering. Night interruption prevents flowering by breaking the dark period below
 the critical threshold. Examples include:
-- Chrysanthemums (Chrysanthemum morifolium)
-- Soybeans (Glycine max)
-- Poinsettias (Euphorbia pulcherrima)
-- Cannabis (Cannabis sativa) — many cultivars flower under short-day conditions
+- Chrysanthemums ([[chrysanthemum-morifolium]])
+- Soybeans ([[glycine-max]])
+- Poinsettias ([[euphorbia-pulcherrima]])
+- Cannabis ([[blesching-cannabis-sativa-indica-classification]]) — many cultivars flower under short-day conditions
 
 ### Long-Day Plants
 Long-day plants flower when the dark period is shorter than a critical duration. Night
 interruption during naturally short days extends the perceived "day" and can induce
 flowering. Examples include:
-- Iris (Iris spp.)
-- Barley (Hordeum vulgare)
-- Spinach (Spinacia oleracea)
-- Lettuce (Lactuca sativa) — bolting is a long-day response
-
-### Day-Neutral Plants
-Day-neutral plants flower regardless of photoperiod and are not affected by night
-interruption techniques. Examples include tomatoes, rice, and cucumbers.
-
-## Practical Implementation Parameters
-
-### Light Intensity and Duration
-Night interruption is remarkably efficient. Only a few seconds of red light are needed
-to break the dark period. In commercial practice, light levels as low as 2-10 lux
-from incandescent or LED fixtures are sufficient. Typical interruption periods range
-from 2 to 4 hours centred in the middle of the dark period (e.g., 10 PM to 2 AM),
-though brief cyclic lighting (a few minutes every 30-60 minutes) is also effective.
-
-### Light Source Selection
-Incandescent bulbs naturally produce both red and far-red light, making them effective
-but potentially ambiguous for the phytochrome system. LED fixtures tuned to specific
-wavelengths (primarily red at 660 nm) provide cleaner signals and are more energy-
-efficient. The choice of light source depends on crop, cost, and the degree of
-photoperiodic control required.
-
-### Energy Considerations
-Because only very low light levels are needed, night interruption is energy-efficient
-compared to day-extension lighting. The use of LEDs has further reduced energy costs,
-making photoperiodic manipulation economically viable even for large-scale operations.
-
-## Impact on Cannabis Cultivation
-
-The night-interruption principle is directly relevant to Cannabis cultivation. Most
-commercially grown Cannabis cultivars are short-day plants that flower when the dark
-period exceeds approximately 12 hours. Growers can maintain plants in vegetative growth
-by providing night interruption, and trigger flowering by allowing uninterrupted dark
-periods. Any light leak during the dark phase — even briefly — can disrupt flowering
-and cause reversion to vegetative growth, a common problem in indoor cultivation.
-
-## See Also
-
-- [[photoperiodism]]
-- [[phytochrome-red-far-red-light-switch]]
-- [[chamovitz-photoperiodism-agricultural-applications]]
-- [[cannabis-photoperiodism-and-light-cycles]]

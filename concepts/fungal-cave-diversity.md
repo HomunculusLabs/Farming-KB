@@ -87,18 +87,3 @@ Many cave fungal isolates show unique physiological adaptations not present in t
 ## Cave Fungi and Human Health
 
 Cave environments can harbor pathogenic fungi, particularly in guano-rich zones. *Histoplasma capsulatum*, the causative agent of histoplasmosis, thrives in bat guano deposits in caves and represents a significant occupational hazard for spelunkers, researchers, and cave workers. Other potentially pathogenic fungi found in caves include *[[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]* and certain *Aspergillus* species capable of causing respiratory infections in immunocompromised individuals.
-
-The relatively stable conditions of caves may serve as reservoirs for these pathogens, maintaining viable populations over extended periods. Understanding cave fungal ecology is therefore not only relevant to conservation but also to public health monitoring in regions with significant cave visitation or where cave-derived materials (guano, sediments) are used in agriculture.
-
-## Conservation Considerations
-
-Cave fungal communities are vulnerable to disturbance from tourism, pollution, and changes in surface ecosystems that affect organic matter input and water quality. Cave conservation must consider the fungal component of these fragile ecosystems.
-
-Cave management practices can directly affect fungal communities in several ways. Gate installation at cave entrances alters airflow patterns and humidity regimes that fungi depend on, sometimes unintentionally shifting [[core-endorhiza-bacterial-community-composition-cannabis]]. Human visitation introduces organic matter (hair, skin cells, lint) and microbial propagules from the surface that can overwhelm native cave microorganisms. Chemical contaminants from agricultural runoff or industrial pollution entering through groundwater can be toxic to sensitive cave fungi or can stimulate opportunistic species that outcompete native communities.
-
-White-nose syndrome, caused by the fungus *Pseudogymnoascus destructans*, dramatically illustrates the vulnerability of cave ecosystems to fungal disturbance. While this pathogen primarily affects hibernating bats, its introduction to North American caves from Eurasia demonstrates how easily cave microbial communities can be disrupted by novel organisms introduced through human activity.
-
-ethnomycology [[fungal-species-estimates-taxonomy]] [[fungal-kingdom-diversity]]
-
-- [[fungal-communities-extreme-environments]]
-- [[fungal-biogeography]]

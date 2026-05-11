@@ -88,35 +88,3 @@ The effects are notably smoother and less overwhelming than those of contemporar
 ## Conservation and Revival
 
 In recent years, there has been growing interest within the cannabis community in preserving and reviving landrace genetics, including Panama Red. Several seed banks and genetic preservation projects have worked to locate, stabilize, and distribute authentic Panama Red genetics. Organizations such as the ACE Seeds bank and various underground preservation collectives have made stabilized Panama Red seeds available to growers willing to accommodate the strain's demanding cultivation requirements.
-
-This preservation effort is motivated by both cultural conservation and the recognition that landrace genetics represent an irreplaceable reservoir of genetic diversity. As the commercial cannabis industry converges on a relatively narrow set of popular hybrid genetics, the unique [[cannabis-terpene-profiles-sativa]], cannabinoid ratios, and effect profiles of landraces like Panama Red represent genetic resources that may prove valuable for future breeding programs.
-
-## Cultivation Notes for Modern Growers
-
-For growers seeking to cultivate Panama Red from authentic landrace genetics, several important considerations apply:
-
-- **Climate:** Panama Red requires a long, warm growing season with at least 14–16 weeks of favorable weather after flowering initiation. It is best suited to outdoor cultivation in Mediterranean, subtropical, or tropical climates (USDA Zones 9–13).
-- **Photoperiod:** As a pure equatorial sativa, the plant has minimal sensitivity to photoperiod changes and may continue vegetative growth under light cycles that would trigger flowering in hybrid strains. A strict 12/12 light cycle is essential for indoor flowering.
-- **Nutrient needs:** The strain is relatively light feeder compared to modern hybrids, reflecting its adaptation to the relatively poor volcanic soils of Panama. Excessive nitrogen during flowering can delay maturation.
-- **Training:** Due to its extreme height, outdoor growers often employ low-stress training (LST) or trellising to manage plant height and improve light distribution.
-- **Harvest timing:** Extended flowering means that patience is essential. Harvesting too early results in a racy, anxious high and underdeveloped terpene profile. Full maturity is indicated by approximately 70–80% amber trichomes and fully developed red coloration.
-
-## Comparison with Other Historical Landraces
-
-Panama Red can be usefully compared with other iconic landrace sativas of the era:
-
-| Characteristic | Panama Red | Colombian Gold | Acapulco Gold | Thai Stick |
-|---|---|---|---|---|
-| **Origin** | Panama | Colombia | Mexico | Thailand |
-| **Flowering** | 11–14 weeks | 10–13 weeks | 10–12 weeks | 12–14 weeks |
-| **Color** | Red-orange | Gold-green | Gold-brown | Green-brown |
-| **Aroma** | Earthy, spicy | Sweet, citrus | Sweet, woody | Chocolate, funk |
-| **Effects** | Cerebral, clear | Uplifting, social | Euphoric, creative | Intense, psychedelic |
-| **Availability** | Rare | Rare | Extremely rare | Rare |
-
-## See Also
-
-- [[limonene]] — another significant terpene in Panama Red's profile
-- Marijuana Horticulture — Cervantes' comprehensive cultivation reference
-- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]
-- [[jadam-autumn-fertilization-principle]]

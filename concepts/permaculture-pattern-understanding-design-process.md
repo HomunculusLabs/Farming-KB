@@ -1,5 +1,5 @@
 ---
-title: Pattern Understanding in the Design Process
+title: Permaculture Pattern Understanding Design Process
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -19,16 +19,16 @@ designers to place elements where they function most efficiently and
 to create systems that mirror the resilience of natural ecosystems.
 
 ## Core Pattern Concepts
-Patterns in nature emerge from the interaction of energy flows, material
+[[mollison-spiral-patterns-in-nature-and-design]] emerge from the interaction of energy flows, material
 cycles, and boundary conditions. Mollison draws heavily on Christopher
-Alexander (A Pattern Language) and on Peter Stevens' mathematical
+Alexander (A [[holmgren-pattern-thinking-and-pattern-language]]) and on Peter Stevens' mathematical
 taxonomy of natural patterns. Key families include: branching (trees,
 rivers, lungs), spiral (shells, florets, weather systems), net (spider
-webs, leaf venation, mycelial networks), wave (dunes, ridges, sound),
+webs, leaf venation, [[fungal-mycelial-networks-nutrient-translocation]]), wave (dunes, ridges, sound),
 and scatter (seed dispersal, star fields, forest gaps).
 
 ## The Design Process Using Patterns
-The permaculture design process follows a sequence from pattern to
+The [[permaculture-design-process]] follows a sequence from pattern to
 detail. Designers first observe broad-scale patterns on a site -- slope,
 water flow, wind exposure, sun arcs -- then progressively apply smaller
 patterns within those frameworks. This top-down approach ensures that
@@ -66,7 +66,7 @@ pattern is the same.
 ## Time as a Pattern Dimension
 Mollison treats time as a fourth dimension of pattern. Seasonal cycles,
 successional sequences, and daily rhythms are temporal patterns that
-designers must map alongside spatial ones. A food forest design must
+designers must map alongside spatial ones. A [[backyard-food-forest-design]] must
 account for canopy closure timing: fast-growing nurse trees shade and
 protect slower climax species until the understorey establishes.
 Understanding temporal patterns allows designers to stage interventions,
@@ -88,11 +88,3 @@ water), the mandala garden (circular sector arrangement), and the
 windbreak hedgerow (filtered edge pattern). Each compresses multiple
 functions into a small area while mimicking a natural pattern. Designers
 combine these building-block patterns into larger site plans.
-
-## Connections
-- [[permaculture-designers-manual-pattern-application]]
-- [[permaculture-zones-and-sectors]]
-- [[bill-mollison]]
-- [[holmgren-pattern-thinking-and-pattern-language]]
-- [[edge-effect-ecology]]
-- [[permaculture-site-analysis]]

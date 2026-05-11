@@ -1,5 +1,5 @@
 ---
-title: Fungal Interactions with Microbes
+title: Fungal Interactions With Microbes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Interactions with Microbes
 
-Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial community composition, nutrient cycling, plant health, and ecosystem function. Understanding these interactions is key to managing soil health and applying biological controls. (see [[fungal-interactions-organisms]]).
+Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial [[core-endorhiza-bacterial-community-composition-cannabis]], nutrient cycling, plant health, and [[dighton-mycorrhizal-diversity-ecosystem-function]]. Understanding these interactions is key to managing soil health and applying biological controls.
 
 ## Fungal-Bacterial Interactions
 
@@ -41,14 +41,14 @@ Fungi in soil and other environments engage in complex interactions with bacteri
   - Enzyme production (degrade competitors' cell walls)
 
 ### Mycoparasitism
-- Trichoderma harzianum: commercial biocontrol agent that parasitizes plant pathogenic fungi
+- [[trichoderma-harzianum]]: commercial biocontrol agent that parasitizes plant pathogenic fungi
 - Mechanisms: coiling around hyphae, penetrating cell walls, secreting lytic enzymes
 - Used against Rhizoctonia, Fusarium, Pythium, and Sclerotinia
 
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
 - Endophytic fungi within other fungi (mycoviruses)
-- Arbuscular mycorrhizal networks connecting multiple plant species
+- [[arbuscular-mycorrhizal-networks]] connecting multiple plant species
 
 ## Fungal-Viral Interactions
 
@@ -61,7 +61,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 
 ### Beneficial Effects
 - Some mycoviruses enhance fungal stress tolerance
-- May increase secondary metabolite production
+- May increase [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 - Potential tool for managing fungal diseases
 
 ## Fungal-Microfauna Interactions

@@ -88,10 +88,3 @@ terms with the fact that those apes were stoned apes. Being stoned seems to
 have been our unique characteristic." This deliberately provocative statement
 challenges the assumption that human exaltation in nature is due to purely
 internal factors rather than [[mckenna-dominator-vs-partnership-society-model]]
-tempered by psychedelic contact with the [[psilocybin-stoned-ape-hypothesis-critique]]
-
-- [[psychedelic-mushroom-set-and-setting]]
-- [[mckenna-catalyzing-consciousness-and-language]]
-- [[mckenna-plants-and-primates-coevolution]]
-- [[mckenna-human-cognition-and-the-stoned-age]]
-- [[mckenna-octopus-intelligence-and-archaic-mind]]

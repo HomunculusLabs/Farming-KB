@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-TASB
 
-PIHKAL entry #147. 4-THIOASYMBESCALINE;.
+[[2c-b-pihkal-entry-20]] #147. 4-THIOASYMBESCALINE;.
 
 ## Chemical Name
 
@@ -89,26 +89,5 @@ distilled at 112-122 deg C at 0.3 mm/Hg to yield 4-bromo (and/or
 was used in the following benzyne step without separation into its
 components.
 
-To a solution of 36 mL diisopropylamine in 150 mL anhydrous THF under
-a He atmosphere, and which had been cooled to -10 deg C with an external
-ice/MeOH bath, there was added 105 mL of a 1.6 M solution of
-butylithium in hexane. There was then added 5.1 mL of dry CH3CN
-followed by the dropwise addition of 15.0 g 4-bromo-(and/or
-6-bromo)-3-ethoxy-2-(ethylthio)anisole diluted with a little anhydrous
-THF. There was an immediate development of a dark red-brown color.
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[eme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[5-tasb-entity-pihkal]]

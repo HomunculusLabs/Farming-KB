@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Harlan, J.R. & de Wet, J.M.J. (1969). "Sources of variation in Cynodon dactylon (L.) Pers." Crop Science, 9(6), 774–778.
+  - Harlan, J.R. & de Wet, J.M.J. (1969). "Sources of variation in Cynodon dactylon (L.) Pers." brassinosteroid-anti-stress-effects-crop-science, 9(6), 774–778.
   - Burton, G.W. & Hanna, W.W. (1985). "Bermudagrass." In M.E. Heath et al. (eds.), "Forages: The Science of Grassland Agriculture." 4th ed., Iowa State University Press.
   - Taliaferro, C.M. et al. (2004). "Bermudagrass." In L.E. Moser et al. (eds.), "Warm-Season (C4) Grasses." ASA, CSSA, SSSA.
   - Shoval, I. (2000). "Cynodon dactylon as a successful weed: a review." Weed Technology, 14(3), 589–597.
@@ -52,7 +52,7 @@ The extensive root system includes both fibrous roots from nodes and thickened r
 
 *C. dactylon* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]], occurring naturally across Africa, southern Asia, and southern Europe.
 
-It has been introduced to the Americas, Australia, and Pacific islands, and is now present on every continent except Antarctica.
+It has been introduced to the Americas, Australia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], and is now present on every continent except Antarctica.
 
 The species occupies an extraordinarily wide ecological range, from sea level to over 2,000 meters in elevation.
 
@@ -62,13 +62,13 @@ Optimal growth occurs at temperatures of 25–35 °C with annual rainfall of 625
 
 Bermudagrass is sensitive to frost and cold temperatures, with top growth killed at −2 °C and rhizomes damaged below −5 °C.
 
-It is considered one of the world's ten worst weeds in tropical agriculture due to its ability to infest and suppress crop growth.
+It is considered one of the world's ten worst weeds in tropical agriculture due to its ability to infest and suppress [[coleman-sunlight-and-winter-crop-growth-rates]].
 
 ## Cultivation
 
 As a turfgrass, bermudagrass is established vegetatively using sprigs, plugs, or sod, as seed of common types has low and erratic germination.
 
-Improved seeded cultivars have been developed with better germination and more uniform turf quality for lawns and sports fields.
+Improved seeded cultivars have been developed with [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]] and more uniform turf quality for lawns and sports fields.
 
 The species requires full sun for optimal growth and density; it thins significantly under shade of 30% or more.
 
@@ -80,45 +80,10 @@ Irrigation requirements are moderate once established, as the deep root system p
 
 For forage production, the grass is typically rotationally grazed or harvested as hay with cutting intervals of 4–6 weeks.
 
-Major turf pests include the bermudagrass mite (*Eriophyes cynodoniensis*), armyworms (*Spodoptera* spp.), and various fungal diseases such as dollar spot and spring dead spot.
+Major turf pests include the bermudagrass mite (*Eriophyes cynodoniensis*), armyworms (*Spodoptera* spp.), and various [[duggar-mushroom-insect-pests-and-fungal-diseases]] such as dollar spot and spring dead spot.
 
 ## Uses and Applications
 
 Bermudagrass is the most widely used warm-season turfgrass, valued for its drought tolerance, wear resistance, and rapid recovery from damage.
 
-It is the primary turf species for golf courses, athletic fields, and lawns throughout the southern United States and tropical regions.
-
-As a forage grass, it provides nutritious grazing for cattle, horses, and sheep, with crude protein content of 8–14% depending on management.
-
-The grass is extensively used for [[permplant-willows-salix-erosion-control-fodder]] on highway embankments, mine reclamation sites, and waterway banks.
-
-Its dense, mat-forming growth habit stabilizes soil effectively on steep slopes and areas subject to water erosion.
-
-In traditional medicine, the rhizomes have been used in Indian Ayurvedic practice as a diuretic and for treating digestive complaints.
-
-The grass has been investigated for phytoremediation of heavy metal-contaminated soils due to its tolerance of lead, zinc, and copper.
-
-## Ecology
-
-*C. dactylon* forms mutualistic associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi, enhancing nutrient uptake particularly in phosphorus-poor soils.
-
-The dense turf it creates provides habitat for numerous invertebrates and serves as nesting cover for ground-nesting birds.
-
-In agricultural systems, bermudagrass competes aggressively with crop seedlings for water, light, and nutrients, reducing yields significantly.
-
-Its allelopathic properties have been documented, with root exudates inhibiting germination and growth of adjacent plant species.
-
-The species plays a role in [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in grassland soils, contributing to soil organic carbon accumulation through its extensive root system.
-
-## See Also
-
-- [[panicum-virgatum]]
-- [[miscanthus-sinensis]]
-- [[stipa-tenuissima]]
-- [[sorghum-bicolor]]
-- [[zea-mays]]
-- [[eleusine-coracana]]
-- [[pennisetum-glaucum]]
-- [[festuca-arundinacea]]
-- [[phragmites-australis]]
-- [[spartina-alterniflora]]
+It is the primary turf species for golf courses, athletic fields, and lawns throughout the southern [[dmt-containing-plants-united-states-halpern]] and tropical regions.

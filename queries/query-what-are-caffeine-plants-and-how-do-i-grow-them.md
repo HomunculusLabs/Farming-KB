@@ -31,7 +31,7 @@ Most people know coffee and tea, but several other plants produce significant ca
 
 | Plant | Scientific Name | Caffeine Level | [[coleman-cold-hardiness-testing-ratings]] | Difficulty |
 |-------|----------------|---------------|----------------|------------|
-| Tea | *[[camellia-sinensis-entity]]* | High (2.5–6%) | Zone 7 | Moderate |
+| Tea | *[[camellia-sinensis]]* | High (2.5–6%) | Zone 7 | Moderate |
 | Yerba mate | *Ilex paraguariensis* | Moderate (0.8–1.5%) | Zone 8b | Moderate |
 | Yaupon | *Ilex vomitoria* | Moderate (0.8–1.5%) | Zone 7 | Easy |
 | Guayusa | *Ilex guayusa* | High (2–4%) | Zone 10 | Moderate |

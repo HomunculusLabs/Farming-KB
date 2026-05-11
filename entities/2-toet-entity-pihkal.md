@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2-TOET
 
-PIHKAL entry #169. 4-ETHYL-5-METHOXY-2-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #169. 4-ETHYL-5-METHOXY-2-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,35 +88,6 @@ hydroxide provided white crystals of
 H2O to give tufts of crystals with a mp of 97-98 deg C. Anal.
 (C9H13NO3S) C,H.
 
-In a 2 L round bottomed flask equipped with a mechanical stirrer there
-was added 200 mL cracked ice, 45 mL of concentrated H2SO4, 26.7 g of
-still moist 3-ethyl-4-methoxybenzenesulfonyl chloride, and 45 g
-elemental zinc dust. With external heating, an exothermic reaction
-set in and the temperature was maintained at reflux conditions for 4
-h. After cooling to room temperature, the reaction mixture was
-filtered and the insolubles washed alternately with H2O and with
-CH2Cl2. The mother liquors and washings were diluted with sufficient
-
-H2O to allow CH2Cl2 to become the lower phase. These phases were
-separated, and the aqueous phase extracted with 3x100 mL CH2Cl2. The
-original organic phase and the extracts were pooled, washed with H2O,
-and the solvent removed to give 15.7 g of a smelly amber oil. This
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[5-toet-entity]]
 - [[5-toet-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[ethyl-j-entity-pihkal]]

@@ -27,7 +27,7 @@ Choose plants based on the desired effect:
 Plants that are strong against cold and can grow well in spring (mugwort, water amaranth, bamboo shoots). These pass down characteristics of endurance against extreme climatic changes.
 
 ### For Growth Promotion
-Plants that grow fast and are vigorous. Fast-developing plants have very active growth hormones that can improve plant weaknesses and recovery from health problems. Examples include kangkong (water spinach), kelp, mugwort, and lateral buds of cucumber, squash, and watermelon.
+Plants that grow fast and are vigorous. Fast-developing plants have very active [[gibberellins-plant-growth-hormones]] that can improve plant weaknesses and recovery from health problems. Examples include kangkong (water spinach), kelp, mugwort, and lateral buds of cucumber, squash, and watermelon.
 
 ### For Thicker Foliage and Fruit Enhancement
 Thinned-out fruits have lots of gibberellins which make plants healthier with thicker foliage and enhance fruit thickness.
@@ -43,7 +43,7 @@ Thinned-out fruits have lots of gibberellins which make plants healthier with th
 ## Materials
 
 - Selected plant material
-- Jaggery/brown sugar (NOT molasses -- too much moisture for proper osmotic pressure)
+- Jaggery/brown sugar (NOT molasses -- too much moisture for proper [[fungal-fruiting-body-mechanics-osmotic-pressure]])
 - Clay jar or glass jar (brown glass preferred)
 - Porous paper (paper towel)
 - Rubber band or thread
@@ -61,7 +61,7 @@ Thinned-out fruits have lots of gibberellins which make plants healthier with th
 
 5. **Weight**: Put a stone on the mixture to control the amount of air.
 
-6. **Cover**: Cover with porous paper (prevents insects while allowing air exchange).
+6. **Cover**: Cover with porous paper (prevents insects while allowing [[growing-gourmet-growing-room-ventilation-air-exchange]]).
 
 7. **Release air**: After 1-2 days, remove the weight to let trapped air escape, then re-cover.
 
@@ -71,14 +71,14 @@ Thinned-out fruits have lots of gibberellins which make plants healthier with th
 
 ### By Growth Stage
 - **Germination to early [[cannabis-vegetative-growth-stage]]**: Mugwort and bamboo shoot FPJs at 1:1000 dilution -- helps crops resist cold and grow fast and strong
-- **Vegetative growth**: Arrowroot, bamboo shoot, and reed FPJs at 1:800-1:1000 -- helps crops obtain needed nitrogen
+- **[[green-cannabis-vegetative-growth]]**: Arrowroot, bamboo shoot, and reed FPJs at 1:800-1:1000 -- helps crops obtain needed nitrogen
 
 ### For Pest Management
 - A mixture of FPJ and rice bran can be sprinkled around fruit trees to lure pests to the ground, preventing them from reaching the fruits
 
 ### Crop-Specific FPJ
 - Tomato (chili, brinjal): lateral buds of stems and leaves
-- Squash and sweet potato: vines
+- Squash and [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]: vines
 - Any crop: pinched shoots (not contaminated by chemicals)
 
 ## When NOT to Use FPJ
@@ -86,31 +86,4 @@ Thinned-out fruits have lots of gibberellins which make plants healthier with th
 1. During excessive vegetative growth or overgrowth due to prolonged rains or cloudy weather
 2. FPJ made from the crop itself (promotes further unwanted growth)
 3. During acidic or nitrogen-excessive crop conditions (creates pest-attractive environment)
-4. Conditions of too much moisture or bad ventilation (promotes fungal growth)
-
-## Usage Rate
-
-FPJ is normally used at a dilution of **1:800 to 1:1000** in water. When combined with other NF inputs, add more water to the solution.
-
-## Storage
-
-- Use polyethylene, glass, or clay containers (brown glass preferred)
-- Store in a cool, shaded place with no direct sunlight
-- Optimum storage temperature: 1-15C (refrigerator keeps for ~1 year)
-- At room temperature: use within 30 days
-
-## Troubleshooting
-
-- **Small bubbles or fungi in jar**: Caused by insufficient brown sugar or unbalanced air-to-ingredient ratio. Add more brown sugar, stir, filter, and preserve.
-- **Sticky/thick juice**: Likely made during or after rainfall when lactic acid bacteria were washed off leaves. Pick plants 2-3 days after rain instead.
-
-## Sources
-
-- Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
-
-## See Also
-
-- [[natural-farming-lab-preparation]]
-- [[natural-farming-knf-overview]]
-- [[natural-farming-ohn-preparation]]
+4. Conditions of too much moisture or bad ventilation (promotes [[brassinosteroid-fungal-growth-promotion]])

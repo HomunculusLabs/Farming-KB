@@ -53,7 +53,7 @@ Needles occur in fascicles of two, 10–18 cm long, bright green to dark green, 
 
 Pollen cones are yellow-orange, 8–15 mm long, borne in dense clusters at the base of new shoots. Seed cones are large, 8–15 cm long and 6–10 cm wide, and broadly ovoid. Immature cones are green, ripening to glossy brown after 3 years on the tree. Scales are thick and woody with a slightly raised, rounded umbo.
 
-Seeds are large for a pine, 15–20 mm long, oblong, and pale brown. The wing is vestigial (2–5 mm) and non-functional for wind dispersal, reflecting the species' adaptation to animal-mediated seed dispersal. Seeds contain approximately 55% fat, 30% protein, and 5% carbohydrates. The fatty acid profile is dominated by polyunsaturated linoleic acid (approximately 48%) and oleic acid (approximately 35%), making pine nuts a nutritionally valuable food source.
+Seeds are large for a pine, 15–20 mm long, oblong, and pale brown. The wing is vestigial (2–5 mm) and non-functional for wind dispersal, reflecting the species' adaptation to animal-mediated [[clay-pellet-seed-dispersal]]. Seeds contain approximately 55% fat, 30% protein, and 5% carbohydrates. The fatty acid profile is dominated by polyunsaturated linoleic acid (approximately 48%) and oleic acid (approximately 35%), making pine nuts a nutritionally valuable food source.
 
 Root systems are deep and well-developed, with a strong taproot in young trees that enables survival on dry, sandy sites. Lateral roots spread extensively, forming associations with mycorrhizal partners throughout the soil profile.
 
@@ -85,37 +85,6 @@ Silvicultural practices include thinning to maintain cone-bearing crowns, irriga
 
 ## Ecological Role
 
-Stone pine is a pioneer species on sandy coastal soils and abandoned agricultural land. Its shade-intolerant seedlings require open conditions for establishment, though mature trees provide shade for understory development.
+Stone pine is a pioneer species on sandy coastal soils and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]. Its shade-intolerant seedlings require open conditions for establishment, though mature trees provide shade for understory development.
 
 The species is an important food source for wildlife, particularly the Eurasian red squirrel (*Sciurus vulgaris*) and various corvids that cache seeds for later retrieval. unretrieved caches contribute to natural regeneration.
-
-Stone pine woodlands support characteristic Mediterranean scrub communities known as *pinar* or *pineda*. The understory often includes rockrose (*Cistus* spp.), rosemary (*Salvia rosmarinus*), thyme (*Thymus* spp.), and juniper (*Juniperus* spp.).
-
-Ectomycorrhizal associations include fungi in the genera *Suillus*, *Laccaria*, *Hebeloma*, *Amanita*, and *Tricholoma*. Several [[bloomfield-boletus-satanus-edible-mushroom-hazards]] species fruit prolifically in stone pine plantations, adding to their economic value.
-
-## Uses and Significance
-
-Pine nuts are the primary economic product, used in Mediterranean, Middle Eastern, and Asian cuisines. They are essential ingredients in pesto, baklava, kibbeh, and numerous traditional dishes.
-
-Stone pine wood is moderately dense (520–580 kg/m³), resinous, and durable. It has been used historically for construction beams, ship building, and cooperage. Modern uses include furniture, veneer, and biomass fuel.
-
-The species has profound [[ethnomycology-cultural-significance-sacred-fungi]] across the Mediterranean. It appears in Roman mythology, Renaissance art, and modern tourism imagery. The umbrella-shaped silhouette of mature stone pines is among the most recognizable tree forms in the world.
-
-Stone pine plantations provide important [[biodiversity-of-fungi-ecosystem-services-agriculture]] including soil stabilization on coastal dunes, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in Mediterranean agroforestry systems, and landscape amenity value. In Italy, the *dehesa* system integrates stone pine with [[savory-livestock-grazing-planning]] and cereal production.
-
-The iconic stone pine avenues of Rome, particularly along the Via Appia Antica, are protected cultural landscapes. These plantings date to the 17th and 18th centuries and are among the most photographed tree-lined roads in the world.
-
-Resin from stone pine has been harvested since antiquity for use in waterproofing, medicine, and incense. Modern applications include extraction of oleoresins for the food and pharmaceutical industries.
-
-## See Also
-
-- [[pinus-sylvestris]]
-- [[pinus-nigra]]
-- [[pinus-ponderosa]]
-- [[cedrus-libani]]
-- [[cupressus-macrocarpa]]
-- [[pseudotsuga-menziesii]]
-- [[juniperus-communis]]
-- [[juniperus-virginiana]]
-- [[picea-abies]]
-- [[taxodium-distichum]]

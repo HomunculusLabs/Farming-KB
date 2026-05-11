@@ -87,13 +87,3 @@ Most greenhouse plants require a moist, humid atmosphere. This is achieved by "d
 - Keep glass clean for maximum light transmission
 
 ## Greenhouse Pests and Diseases
-
-Common problems include aphids, whitefly, red spider mite, vine weevils, botrytis (gray mold), mildew, [[cervantes-damping-off-seedling-disease-prevention]], and virus diseases. Control methods include biological controls (Encarsia formosa for whitefly, Phytoseiulus for red spider mite), insecticidal soap, good ventilation, and scrupulous cleanliness.
-
-## Related Topics
-
-- [[cold-frame-construction]] — hardening off greenhouse seedlings
-- [[growing-vegetables-with-less-fertilizer]]
-- [[geoff-hamilton-organic-techniques]]
-- [[jadam-leaf-mold-as-ideal-soil]]
-- [[query-how-do-i-grow-tomatoes-in-a-greenhouse]]

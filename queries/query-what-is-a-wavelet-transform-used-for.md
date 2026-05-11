@@ -1,5 +1,5 @@
 ---
-title: What Is a query what is a [[kalman-filter-vs-wavelet-transform]] used for Used For?
+title: Query What Is A Wavelet Transform Used For
 created: 2026-04-28
 subtitle: FAQ on practical uses of wavelet analysis in signals, images, and noisy data
 tags: [query, wavelet-transform, signal-processing, data-analysis, denoising]

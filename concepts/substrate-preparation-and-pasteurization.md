@@ -88,23 +88,3 @@ Substrate moisture content targets 55 to 65 percent by weight, measured as
 the most practical field method: a handful of substrate squeezed firmly should
 yield only a few drops of water. Dripping freely means too wet; no moisture at
 all means too dry. Both extremes reduce yields and increase contamination risk.
-
-## Supplementation Principles
-
-Adding nitrogen-rich supplements (bran, seed meal, coffee grounds) to a base
-substrate can increase yields by 50 to 200 percent. However, every percentage
-point of supplement increases contamination risk. The general principle is to
-match supplementation level to the cleanliness of the growing environment: a
-simple still air box might handle 10 percent bran, while a certified cleanroom
-can push to 30 percent or more.
-
-Gypsum (calcium sulfate) at 1 to 2 percent is nearly universal in substrate
-recipes. It improves texture, buffers pH, and provides calcium and sulfur
-without contributing nitrogen that would feed contaminants.
-
-## See Also
-
-- [[oyster-mushroom-bag-preparation-and-pasteurization]]
-
-- [[fruiting-chamber-design-and-environmental-control]]
-- [[contamination-prevention-in-mushroom-cultivation]]

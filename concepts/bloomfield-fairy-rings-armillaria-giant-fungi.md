@@ -10,7 +10,7 @@ sources:
 type: concept
 ---
 
-Fairy rings are among the most visible and enchanting manifestations
+[[fairy-rings-and-giant-mycelia]] are among the most visible and enchanting manifestations
 of [[bloomfield-fungal-biology-and-hyphal-growth]], appearing as circular or arc-shaped bands of
 mushrooms in pastures and lawns. These formations are the visible
 evidence of massive underground [[fungal-mycelial-networks-nutrient-translocation]] that can grow to
@@ -19,7 +19,7 @@ organisms on Earth.
 
 ## Formation Mechanism
 
-When food is plentiful, a fungal mycelium tends to adopt the shape of
+When food is plentiful, a [[fungal-mycelium-hyphae-and-the-feeding-phase]] tends to adopt the shape of
 a doughnut or torus, spreading outward from its point of origin while
 leaving an ever-widening circle of dead and dying cells at its core.
 This distinctive growth pattern is responsible for the creation of
@@ -45,7 +45,7 @@ to the next through perforated septa, with nuclei actively moving
 between compartments.
 
 The plasma membrane is a continuous film throughout the mycelium,
-lining the cell wall and passing through septal pores. This connected
+lining the [[chitin-chitosan-fungal-cell-wall]] and passing through septal pores. This connected
 architecture means that damage to one part of the mycelium can affect
 cells far removed from the injury. When a hypha is severed, pressurized
 cytoplasm surges toward the wound. Fungi can repair small holes within
@@ -57,7 +57,7 @@ the organism.
 
 The most spectacular fairy ring fungi belong to the genus Armillaria
 (honey mushrooms). Large Armillaria mycelia have been discovered in
-the United States with outer rims consisting of billions of hyphal
+the [[dmt-containing-plants-united-states-halpern]] with outer rims consisting of billions of hyphal
 tips traveling through forests for thousands of years, feeding on
 [[hamilton-composting-and-organic-matter-management]] in the soil and invading tree roots.
 
@@ -88,47 +88,3 @@ allow the filamentous cells to cooperate as a single organism.
 
 Mycelia can move food and water between different parts of the
 colony to maximize growth potential. A mycelium growing inside a
-decaying log uses cellulose-degrading enzymes (cellulases) to break
-down the wood, leaving behind dark lignin in a process called brown
-rot. The colony becomes sculpted into a series of fans, with hyphae
-growing preferentially toward nutrient-rich regions.
-
-The mycelium operates as a foraging network, with hyphal tips
-secreting enzymes and absorbing nutrients at their advancing fronts.
-The plasma membrane lining the entire network allows resource
-distribution across the colony, enabling the fungus to respond to
-patchy [[ph-and-nutrient-availability-garden-soils]] in soil and wood.
-
-## Ecological Significance
-
-Fairy ring fungi play crucial roles in forest ecosystems. Armillaria
-species can be both saprotrophs (decomposing dead wood) and parasites
-(attacking living trees), making them significant agents of forest
-turnover. Their enormous underground networks influence soil structure,
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and the composition of plant communities across
-vast areas. The rings they produce above ground are the visible
-manifestation of an ancient and largely hidden biological process.
-
-## The Forest Underground
-
-Fairy ring fungi connect to a broader truth about forests: the
-largest and oldest organisms on Earth are fungal. The underground
-mycelial networks of species like *Armillaria gallica* can extend
-for dozens of hectares and persist for thousands of years. These
-networks form the biological backbone of forest ecosystems,
-connecting trees through shared nutrient pathways and acting as a
-living infrastructure that predates and outlasts the trees above.
-
-## Related Topics
-
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for
-  fungal relationships with living plants
-- bloomfields-orchard-fungal-biology-and-ecology for the role of
-  fungi in nutrient cycling
-
-## See Also
-
-- [[armillaria-cepistipes]]
-- [[mycelial-networks]]
-- [[fairy-rings-and-giant-mycelia]]
-- [[bloomfield-truffle-hunting-and-culinary-fungi]]

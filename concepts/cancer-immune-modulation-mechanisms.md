@@ -1,12 +1,12 @@
 ---
-title: Cancer cancer immune modulation mechanisms Mechanisms of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive
+title: Cancer Immune Modulation Mechanisms
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Smith, Rowan and Sullivan (2002). cancer-medicinal-mushrooms: Their raw-cannabis-thca-non-psychoactive-therapeutic-properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
   - Jong, S.C., Birmingham, J.M. and Pai, S.H. (1991). Immunomodulatory substances of fungal origin. Journal of Immunology and Immunopharmacology 11, 115-122.
   - Ooi, V.E.C. and Liu, F. (2000). Immunomodulation and anticancer activity of polysaccharide-protein complexes. Current Medicinal Chemistry 7, 715-729.
-  - Wasser, S.P. and Weis, A.L. (1999). Medicinal properties of substances occurring in higher basidiomycetes mushrooms. International Journal of Medicinal Mushrooms 1, 31-62.
+  - Wasser, S.P. and Weis, A.L. (1999). [[panax-ginseng]] of substances occurring in higher basidiomycetes mushrooms. International Journal of Medicinal Mushrooms 1, 31-62.
 type: concept
 tags: [reference]
 ---
@@ -19,7 +19,7 @@ The anticancer activity of medicinal mushroom extracts operates primarily throug
 
 ## Complement Receptor Type 3 (CR3) Binding
 
-The key receptor mechanism involves beta-glucan binding to complement receptor type 3 (CR3, also known as CD11b/CD18 or alpha-M-beta-2 integrin) on immune effector cells:
+The key [[psilocybin-pharmacology-5ht2a-receptor-mechanism]] involves beta-glucan binding to complement receptor type 3 (CR3, also known as CD11b/CD18 or alpha-M-beta-2 integrin) on immune effector cells:
 
 ### Discovery and Mechanism
 - Beta-glucans from fungi bind to iC3b-receptors (CR3) on phagocytic cells and natural killer (NK) cells, stimulating phagocytosis and/or cytotoxic degranulation
@@ -88,34 +88,3 @@ Schizophyllan induces gene expression of cytokines differently in peritoneal exu
 ## Acute Phase and Complement Activation
 
 - Non-immunological increase of host defence through acute phase protein stimulation
-- Complement system activation: Lentinan has C3-splitting activity and increases complement C3 production
-- Alkali extracts from Reishi activate both classical and alternative complement pathways
-- Reticuloendothelial system activation with increased haemolytic plaque-forming cells
-
-## Humoral Immunity
-
-Mushroom compounds also influence B-cell mediated immunity:
-- Increased antibody production (Lentinan)
-- Opsonin production facilitating phagocytosis
-- However, LZ-8 from Reishi can reduce antibody production at higher doses, demonstrating bidirectional immunomodulation
-
-## Bidirectional Immunomodulation
-
-A key feature of mushroom-derived immunomodulators is their ability to both stimulate and suppress immune responses depending on context:
-- Immune stimulation for cancer, immunodeficiency, and post-chemotherapy recovery
-- Immune suppression potentially useful for [[cannabis-autoimmune-conditions-detailed]] and gastrointestinal disorders
-- Lentinan and LEM restore or augment host cell responsiveness to lymphocytokines, hormones, and other biologically active substances
-- PSK has been shown to exert tumourcidal activity by inducing T cells that recognise PSK as an antigen and kill tumour cells in an antigen-specific manner
-
-## See Also
-
-- [[blesching-cannabis-homeostasis-and-immune-regulation]]
-
-- [[blesching-cannabis-cancer-night-sweats]]
-
-- [[blesching-cannabis-brain-cancer-glioblastoma]]
-
-- [[cancer-beta-glucan-pharmacology]]
-- [[cancer-reishi-cancer-research]]
-- kappa opioid receptor
-- mushroom-cytokine-production-immune-activation

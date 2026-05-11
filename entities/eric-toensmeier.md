@@ -39,7 +39,7 @@ Eric Toensmeier is an American lecturer, author, and agroforestry researcher rec
 ### Perennial Polyculture and Food Forests
 
 **[[perennial-vegetables]]: A Gardener's Guide to Over 100 Delicious, Easy-to-Grow Edibles** (Chelsea Green, 2007)
-- First comprehensive English-language reference on edible perennial vegetables
+- First comprehensive English-language reference on edible [[comparison-perennial-vegetables-vs-cover-crops]]
 - Profiles over 100 species suitable for temperate and tropical gardens
 - Won the American Horticultural Society Book Award
 - Remains the definitive practical guide to the subject
@@ -59,7 +59,7 @@ Eric Toensmeier is an American lecturer, author, and agroforestry researcher rec
 ### Carbon Farming and Climate
 
 **The Carbon Farming Solution: A Global Toolkit of Perennial Crops and Regenerative Agriculture Practices for Climate Change Mitigation and Food Security** (Chelsea Green, 2016)
-- Comprehensive survey of regenerative agricultural practices and perennial crops for carbon sequestration
+- Comprehensive survey of regenerative [[mycorrhizal-agricultural-practices]] and perennial crops for carbon sequestration
 - Profiles hundreds of perennial staple crops organized by use category and climate zone
 - Integrates agroforestry, silvopasture, biochar, and other carbon-negative practices
 - Selected as one of the most significant environmental books of the year by multiple outlets
@@ -78,48 +78,13 @@ Through *Paradise Lot* and his own demonstration garden in Holyoke, Toensmeier h
 ## Key Concepts and Design Principles
 
 - **Perennial polycultures:** Multi-species plantings of long-lived edible perennials that mimic natural ecosystem structure while producing food
-- **Functional analysis:** Evaluating plants by ecological function (nitrogen fixation, dynamic accumulation, pest confusion, pollinator support) rather than just yield
+- **Functional analysis:** Evaluating plants by [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] (nitrogen fixation, dynamic accumulation, pest confusion, pollinator support) rather than just yield
 - **Guild design:** Assembling plant communities where species provide mutual services — a concept he expanded and formalized beyond Bill Mollison's original framing
-- **Carbon-negative farming:** Agricultural systems that sequester more carbon than they emit, achieved through perennial root systems, minimal tillage, and woody biomass accumulation
+- **Carbon-negative farming:** Agricultural systems that sequester more carbon than they emit, achieved through perennial root systems, [[coleman-bed-preparation-and-minimal-tillage]], and woody biomass accumulation
 - **Climate-adapted food systems:** Designing agricultural systems for resilience under future climate scenarios, including the use of drought-tolerant and heat-adapted perennial species
 - **High-latitude food forests:** Adapting tropical-origin food forest concepts to temperate and cold climates through careful species selection and microclimate design
 
 ## Species Research and Plant Introductions
 
-Toensmeier has been instrumental in popularizing numerous underappreciated perennial food plants for temperate climates, including:
-- **Groundnuts** (*Apios americana*) — nitrogen-fixing tuber vine native to eastern North America
-- **Good King Henry** (*Blitum bonus-henricus*) — traditional European perennial leaf vegetable
-- **Skirret** (*Sium sisarum*) — forgotten European root vegetable with sweet, parsnip-like tubers
-- **Mashua** (*[[tropaeolum-tuberosum]]*) — Andean tuber with pest-repellent properties
-- **Oca** (*Oxalis tuberosa*) — South American tuber adaptable to temperate climates
-- **Ulluco** (*[[ullucus-tuberosus]]*) — Andean tuber with vividly colored varieties
-- **Chinese artichoke** (*Stachys affinis*) — perennial tuber producing crisp, mild-flavored corms
-- **Chayote** (*Sechium edule*) — perennial subtropical vine producing edible fruit and tuberous roots
-- **Water spinach** (*Ipomoea aquatica*) — prolific perennial aquatic leaf vegetable for warm climates
-- **Yacon** (*[[smallanthus-sonchifolius]]*) — Andean daisy producing sweet, juicy tuberous storage roots
-
-His systematic approach to evaluating these species includes assessment of climate adaptability, nutritional profile, yield potential, ecological function, and ease of propagation — creating a practical framework for breeders and growers to evaluate novel perennial crops.
-
-## International Consulting and Projects
-
-Toensmeier has consulted on perennial agriculture projects across multiple continents:
-- **Mexico:** Working with smallholder farmers on coffee agroforestry integration with food-producing understory species
-- **Brazil:** Agroforestry design for Amazonian restoration projects integrating perennial staple crops
-- **Vietnam:** Perennial vegetable systems research with local agricultural institutions
-- **United States:** Urban food forest design for community organizations and municipal governments
-
-His consulting emphasizes practical, economically viable perennial systems that can provide both ecological services and marketable products for farmers and communities.
-
-## Recognition and Influence
-
-Toensmeier's work has been cited extensively in academic literature on agroforestry, regenerative agriculture, and climate mitigation. His books are standard texts in permaculture design courses worldwide. He has received grants from the Lounsbery Foundation, the New England Food System Funders, and other organizations supporting perennial agriculture research. His *Carbon Farming Solution* was a finalist for the 2017 Books for a Better Life Award.
-
-## Criticisms and Limitations
-
-Some critics note that Toensmeier's enthusiasm for perennial staples sometimes underplays the significant yield gaps between many perennial crops and conventional annual grains. Scaling his intensive polyculture designs to field-scale commercial agriculture remains largely unproven. Additionally, some agronomists argue that the carbon sequestration rates cited in carbon farming literature may be optimistic under real-world conditions.
-
-## Related
-
-- [[david-holmgren]] — co-originator of permaculture; permaculture design principles framework
-- [[food-forest-design]] — concept pages on food forest systems
-- [[biointensive-carbon-farming]] — climate mitigation through regenerative agriculture
+Toensmeier has been instrumental in popularizing numerous underappreciated perennial food plants for [[fukuoka-natural-farming-temperate-climates]], including:
+- **Groundnuts** (*Apios americana*) — nitrogen-fixing tuber vine native to [[polypore-fungi-eastern-north-america]]

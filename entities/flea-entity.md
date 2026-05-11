@@ -89,10 +89,6 @@ The final product is converted to the oxalate salt by combining with a half-equi
 
 ## The N-Hydroxy Hypothesis
 
-FLEA provides additional evidence for Shulgin's working hypothesis that N-hydroxy amines have approximately the same potency and action as their N-hydrogen counterparts.
-
-The pattern has been observed across multiple compound pairs: [[mdoh-entity-pihkal]]|MDOH: the N-hydroxy analogue of MDA
+## See Also
 - [[flea-entity-pihkal]]
-
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+- [[cpm-entity]]

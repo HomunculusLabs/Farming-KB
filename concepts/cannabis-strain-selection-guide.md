@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/blesching-cannabis-pain-management.md"
 ---
 # Cannabis Strain Selection Guide
 
@@ -87,11 +88,3 @@ Landrace varieties, the original, regionally adapted cannabis strains from speci
 - [[maui-wowie]]
 - [[cannabis-endocannabinoid-system]] — how cannabinoids interact with the body
 - [[cannabis-thc-therapeutic-profile]] — THC therapeutic effects
-- [[cannabis-terpene-entourage-effect-profiles]] — terpenoid effects on strain character
-- [[cannabis-genetics-and-breeding]] — developing new strains
-- [[marijuana-strain-guide-sativa]] — sativa strain profiles
-- [[marijuana-strain-guide-hybrid]] — hybrid strain profiles
-
-## See Also
-
-- [[blesching-cannabis-strain-selection-receptor-targeting]]

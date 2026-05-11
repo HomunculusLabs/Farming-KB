@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin-Serotonin Structural Homology and the Endogenous Familiarity Argument"
+title: Psilocybin Serotonin Structural Homology Endogenous Familiarity Argument
 source: mckenna_t-tryptamines_consciousness.md
 topics: [psilocybin, serotonin, tryptamine, pharmacology, dmt, endogenous, mckenna, receptor-affinity]
 created: 2026-05-09
@@ -9,7 +9,7 @@ created: 2026-05-09
 
 ## Overview
 
-In his 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness," Terence McKenna presented a specific structural argument for why DMT and psilocybin produce qualitatively different experiences from other hallucinogens like LSD. His argument centers on the close structural relationship between the tryptamine hallucinogens and serotonin (5-hydroxytryptamine, 5-HT), the major neurotransmitter in the human brain. McKenna contended that this structural similarity explains both the rapid onset and the "at-home" quality of the tryptamine experience — the brain, he argued, is "absolutely at home with this compound."
+In his 1983 Esalen lecture "Tryptamine [[tryptamine-hallucinogens-and-consciousness]]," Terence McKenna presented a specific structural argument for why DMT and psilocybin produce qualitatively different experiences from other hallucinogens like LSD. His argument centers on the close [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] between the [[mckenna-tryptamine-hallucinogens-and-consciousness]] serotonin (5-hydroxytryptamine, 5-HT), the major neurotransmitter in the human brain. McKenna contended that this structural similarity explains both the rapid onset and the "at-home" quality of the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]] — the brain, he argued, is "absolutely at home with this compound."
 
 ## The Structural Comparison
 
@@ -43,9 +43,9 @@ This emphasis on language centers and the Logos was central to McKenna's argumen
 
 ### Pharmacological Basis for the Distinction
 
-The pharmacological distinction McKenna intuited has some basis in receptor pharmacology. While both LSD and tryptamines act primarily as 5-HT2A receptor agonists, they differ in their activity profiles across the serotonergic receptor family:
+The pharmacological distinction McKenna intuited has some basis in [[cannabinoid-receptor-pharmacology]]. While both LSD and tryptamines act primarily as 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], they differ in their activity profiles across the serotonergic receptor family:
 
-- **DMT and psilocybin** are relatively selective for 5-HT2A and 5-HT2C receptors, with less activity at other serotonin receptor subtypes
+- **DMT and psilocybin** are relatively selective for 5-HT2A and 5-HT2C receptors, with less activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes
 - **LSD** has broader receptor activity, including significant affinity for 5-HT1A, 5-HT5A, 5-HT6, and dopamine D2 receptors
 - This broader activity profile may contribute to the different experiential qualities McKenna described
 - Additionally, LSD is a biased agonist with longer receptor residence time, producing prolonged effects that differ qualitatively from the rapid, intense onset of DMT
@@ -82,44 +82,8 @@ McKenna's structural argument has several merits:
 The argument also has significant limitations:
 
 1. **Structural similarity does not imply identical function**: Many compounds with structural similarity to neurotransmitters have profoundly different effects. The phosphoraloxy group on psilocybin and the dimethyl groups on DMT represent substantial structural modifications that dramatically alter receptor selectivity and efficacy.
-2. **Pharmacokinetics are not evidence of endogenous function**: Rapid onset and metabolism reflect physicochemical properties, not evolutionary familiarity. Many plant toxins show rapid onset precisely because they exploit pre-existing neural machinery.
+2. **Pharmacokinetics are not evidence of endogenous function**: Rapid onset and metabolism reflect [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]], not evolutionary familiarity. Many plant toxins show rapid onset precisely because they exploit pre-existing neural machinery.
 3. **Correlation with serotonin concentration**: McKenna's claim that serotonin is "most concentrated in humans" is an oversimplification. Serotonin is found throughout the animal kingdom, and its concentration varies by tissue and species. The pineal gland, not unique to humans, has particularly high concentrations.
-4. **The Logos argument is phenomenological, not pharmacological**: McKenna's claim that tryptamines "work directly on the language centers" is based on subjective experience, not neuroimaging or electrophysiology data. Modern neuroimaging studies have shown that psychedelic effects involve distributed brain networks rather than isolated language areas.
+4. **The Logos argument is phenomenological, not pharmacological**: McKenna's claim that tryptamines "work directly on the language centers" is based on [[dosage-unpredictability-psilocybin-subjective-experience]], not neuroimaging or electrophysiology data. Modern neuroimaging studies have shown that psychedelic effects involve distributed brain networks rather than isolated language areas.
 5. **Confusion of structural class with experiential quality**: While all classical psychedelics share 5-HT2A agonism, the relationship between molecular structure and subjective experience is far more complex than simple structural homology suggests. Set, setting, dose, and individual neurochemistry all mediate the experiential outcome in ways that cannot be predicted from molecular structure alone.
-6. **The phosphoryloxy group is not trivial**: McKenna treated the substitution of hydroxyl (serotonin) with phosphoryloxy (psilocybin) as minor, but the phosphoryloxy group dramatically changes the molecule's polarity, membrane permeability, metabolic stability, and receptor binding kinetics. These pharmacokinetic differences are arguably more important for the experiential distinction than the structural similarity.
-
-## Implications for Psychedelic Research
-
-McKenna's structural argument, while not rigorous by modern pharmacological standards, highlighted an important principle that contemporary psychedelic research has validated: the closer a compound's structure to an endogenous neurotransmitter, the more precisely and cleanly it interacts with neural signaling systems. This principle has guided the development of modern psychedelic therapeutics, which often seek compounds with optimized receptor selectivity profiles.
-
-The distinction McKenna drew between tryptamine and non-tryptamine hallucinogens also anticipates modern recognition that different psychedelic compounds, despite sharing the "psychedelic" label, produce distinct experiential and therapeutic profiles that reflect their distinct receptor pharmacology. This has implications for psychedelic-assisted therapy, where matching the right compound to the right clinical application requires understanding these pharmacological distinctions.
-
-### Implications for Understanding Serotonin Evolution
-
-The structural homology between serotonin and the tryptamine hallucinogens raises deeper evolutionary questions. Serotonin's evolutionary origins predate the emergence of nervous systems — it is found in plants, fungi, and single-celled organisms, where it likely functions as a signaling molecule and antioxidant. The fact that compounds produced by fungi (psilocybin) and by mammalian metabolism (DMT) both happen to interact potently with the serotonergic system may reflect convergent evolution around the indole ethylamine scaffold, which is chemically stable, synthetically accessible from tryptophan, and capable of interacting with a wide range of protein binding sites.
-
-McKenna's observation that psilocybin is "4-phosphoraloxy-N,N-dimethyltryptamine" while serotonin is "5-hydroxytryptamine" highlights that the fungal and mammalian compounds differ primarily in the substituent at position 4 versus 5 of the indole ring and the phosphoryloxy versus hydroxyl group. These are relatively minor chemical modifications that produce dramatically different biological activities — one is a ubiquitous neurotransmitter, the other a potent hallucinogen. Understanding why such minor structural changes produce such dramatic functional differences remains an active area of neuropharmacological research.
-
-### The "Endogenous Familiarity" Hypothesis in Modern Context
-
-McKenna's broader claim — that the brain's reaction to tryptamines reveals something about consciousness — has found an unexpected echo in the REBUS (RElaxed Beliefs Under pSychedelics) model proposed by Carhart-Harris and Friston (2019). This model suggests that psychedelics work by relaxing the brain's prior beliefs (encoded in high-level cortical hierarchies), allowing bottom-up signals to escape top-down suppression. If the brain treats tryptamine molecules as "familiar" endogenous compounds, the resulting cognitive state may indeed feel like a return to a more primal mode of information processing — not because of evolutionary familiarity per se, but because 5-HT2A agonism preferentially disrupts the predictive coding mechanisms that maintain ordinary waking consciousness.
-
-This modern framework preserves the intuitive core of McKenna's argument — that tryptamines produce a state that feels like "coming home" — while grounding it in computational neuroscience rather than evolutionary biochemistry. The feeling of familiarity may not arise from the molecule's evolutionary history, but from the way it perturbs the brain's information-processing architecture.
-
-## Cross-References
-
-- [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]]
-- [[mckenna-endogenous-dmt-brain-familiarity]]
-- [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[dmt-endogenous-production]]
-- [[mckenna-tryptamines-logos-consciousness]]
-- rebus model predictive coding psychedelics
-- 5ht2a receptor agonism cortical hierarchy
-- [[psilocybin-metabolism-psilocin-conversion]]
-
-## See Also
-
-- **Tryptamine structural chemistry**: For a deeper treatment of the indole ethylamine scaffold and its chemical properties across natural products.
-- **Evolutionary origins of serotonin**: Serotonin predates nervous systems and is found across all kingdoms of life, complicating any simple "co-evolution" narrative.
-- **Psychedelic drug discrimination studies**: Animal models that demonstrate cross-generalization between tryptamine hallucinogens but not between tryptamine and non-tryptamine psychedelics, providing behavioral evidence for receptor-mediated similarity.
+6. **The phosphoryloxy group is not trivial**: McKenna treated the substitution of hydroxyl (serotonin) with phosphoryloxy (psilocybin) as minor, but the phosphoryloxy group dramatically changes the molecule's polarity, membrane permeability, metabolic stability, and [[beta-glucan-receptor-binding]] kinetics. These [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]] are arguably more important for the experiential distinction than the structural similarity.

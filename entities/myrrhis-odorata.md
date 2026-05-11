@@ -6,7 +6,7 @@ tags:
   - culinary-herb
   - medicinal-plant
   - apiaceae
-  - permaculture
+  - [[permaculture]]
   - edible-plant
   - ornamental
 date: 2026-04-28
@@ -26,7 +26,7 @@ created: 2026-04-28
 
 **Myrrhis odorata** (L.) Scop. is a herbaceous perennial plant in the family Apiaceae, commonly known as **sweet cicely** or **garden myrrh**.
 
-It is native to mountainous regions of central and southern Europe and has been widely naturalized across temperate regions worldwide.
+It is native to mountainous regions of central and southern Europe and has been widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The plant is valued as both a culinary herb and a medicinal plant, with a sweet aniseed flavor that complements both sweet and savory dishes.
 
@@ -74,7 +74,7 @@ Naturalized populations often establish in hedgerows, old gardens, and disturbed
 
 ## Chemistry and Pharmacology
 
-The [[permaculture-designers-manual-essential-oil-plants]] of Myrrhis odorata contains several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for its flavor and medicinal properties.
+The [[permaculture-designers-manual-essential-oil-plants]] of Myrrhis odorata contains several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for its flavor [[panax-ginseng]].
 
 The primary volatile constituents include **anethole**, **myrtenol**, and various sesquiterpenes.
 
@@ -87,45 +87,3 @@ The plant also contains coumarins, flavonoids, and vitamin C, particularly in th
 Furano-coumarins including bergapten have been identified, which can cause photosensitivity in sensitive individuals.
 
 ### Traditional and Validated Uses
-
-In European folk medicine, sweet cicely was used as a digestive aid and carminative, particularly for flatulence and colic.
-
-The roots were traditionally boiled to produce a syrup given to children as a cough remedy and expectorant.
-
-Modern pharmacological studies confirm mild spasmolytic activity consistent with traditional digestive applications.
-
-The high vitamin C content of young spring leaves made the plant valuable for preventing scurvy before citrus fruits were widely available.
-
-## Culinary and Edible Uses
-
-Sweet cicely is one of the few [[holzer-medicinal-and-culinary-herbs-compendium]] with a genuinely sweet flavor, allowing it to reduce sugar in recipes.
-
-Young leaves are used raw in salads or cooked as a pot herb, and they complement both fruit desserts and savory dishes.
-
-The green seeds are used whole in fruit conserves, stewed fruits, and rhubarb preparations to reduce tartness.
-
-The roots can be cooked as a [[fukuoka-western-root-vegetable-deficiency]] with a sweet parsnip-like flavor, though this use is less common today.
-
-The plant was historically used to flavor liqueurs, cordials, and herbal teas throughout central Europe.
-
-## Cultivation
-
-Myrrhis odorata is easily cultivated from seed, which requires a period of cold stratification for reliable germination.
-
-The plant prefers rich, moist soil in partial shade and is hardy to USDA zone 4 once established.
-
-It self-seeds readily in favorable conditions and can become a persistent but not invasive garden resident.
-
-Division of established clumps in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn is the most reliable vegetative propagation method.
-
-The plant requires minimal maintenance once established, making it suitable for low-input permaculture and woodland gardens.
-
-## See Also
-
-- [[viola-odorata]]
-
-- [[artemisia-dracunculus]]
-- [[levisticum-officinale]]
-- [[ocimum-basilicum]]
-- rosmarinus officinalis
-- [[glycine-max]]

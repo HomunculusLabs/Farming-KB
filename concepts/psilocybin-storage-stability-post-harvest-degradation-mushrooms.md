@@ -25,7 +25,7 @@ The study used rigorous protocols to preserve alkaloid content:
 - **Sealed packaging:** Dried mushrooms sealed in plastic, excluding
   atmospheric oxygen and moisture that promote psilocin oxidation.
 
-- **[[root-cellars-and-cold-storage]]:** Samples stored at -5 C until analysis. Low
+- **[[root-cellaring-guide]]:** Samples stored at -5 C until analysis. Low
   temperature slows residual enzymatic activity and oxidation.
 
 - **Voucher specimens:** Deposited at University of Washington Herbarium
@@ -87,49 +87,3 @@ polymerize into blue pigments:
 - Accelerated by oxygen, light (especially UV), and heat.
 - Slowed by vacuum sealing, darkness, and cold storage.
 - Complete oxidation renders psilocin pharmacologically inactive.
-
-### Overall Cascade
-Fresh mushroom -> psilocybin + psilocin -> psilocybin + degraded psilocin
--> reduced total alkaloids. Psilocin is lost first; total content
-gradually declines with improper storage.
-
-## Storage Recommendations
-
-- **Freeze-drying (optimal):** Removes water without heat, stopping
-  enzymatic dephosphorylation and minimizing thermal degradation.
-
-- **Air-drying (acceptable):** Works but allows more enzymatic
-  conversion before tissue is dry. Food dehydrator at 35-40 C is a
-  good compromise.
-
-- **Vacuum sealing:** Essential for excluding oxygen. Include
-  desiccant packets.
-
-- **Cold storage:** -5 C (Bigwood and Beug) or -18 C (standard
-  freezer) maximize shelf life. Refrigeration (4 C) is less effective.
-
-- **Dark storage:** Light accelerates psilocin oxidation. Use opaque
-  containers.
-
-- **Shelf life:** Properly stored (freeze-dried, vacuum-sealed, frozen,
-  dark), psilocybin remains stable for years. Psilocin slowly degrades
-  even under optimal conditions.
-
-## Dosage Predictability
-
-Bigwood and Beug concluded users "have no way of predicting the amount
-of psilocybin and psilocin they are ingesting." Unpredictability stems from:
-
-- **Biological variability:** 4-fold range in controlled cultures.
-- **[[panaeolus-tropicalis-cultivation-differences]]:** Strain, substrate, flush number effects.
-- **Post-harvest degradation:** Drying, storage duration, temperature,
-  and packaging all affect final potency.
-- **Combined uncertainty:** These factors multiply, producing the 10-fold
-  street sample range.
-
-## Related Topics
-
-- [[hplc-tlc-analysis-psilocybin-psilocin-quantification-bigwood-beug-1982]]
-- psilocybin potency variation flush mushroom cultivation
-- mushroom drying potency preservation freeze drying
-- psilocybin biosynthesis pathway enzymatic dephosphorylation

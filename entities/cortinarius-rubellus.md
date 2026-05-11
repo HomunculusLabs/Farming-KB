@@ -53,7 +53,7 @@ without [[fungal-microscopic-examination-mounting-media-techniques]].
   silky when dry, hygrophanous. Color varies from bright red-orange to brick red
   to reddish-brown, often with a paler margin. Viscid when moist.
 - **Gills:** Adnate to slightly emarginate (notched), moderately crowded; young
-  gills covered by a whitish partial veil (cortina) that leaves a fibrous ring zone
+  gills covered by a whitish [[partial-veil-tropism-protection-before-spore-release]] (cortina) that leaves a fibrous ring zone
   on the stem. Color pale rust to cinnamon.
 - **Stem:** 5–12 cm × 0.5–1.5 cm, cylindrical, slightly bulbous at base; pale
   yellowish above the ring zone, colored red-orange below with fine fibrils.
@@ -68,12 +68,12 @@ without [[fungal-microscopic-examination-mounting-media-techniques]].
 
 ## Distribution and Habitat
 
-Ectomycorrhizal primarily with conifers, especially Scots pine (*Pinus sylvestris*)
-and Norway spruce (*Picea abies*), on acidic soils. Found in coniferous and mixed
+Ectomycorrhizal primarily with conifers, especially Scots pine (*[[pinus-sylvestris]]*)
+and Norway spruce (*[[picea-abies]]*), on acidic soils. Found in coniferous and mixed
 forests, pine plantations, and mossy forest floors across Northern and Central
 Europe, Scandinavia, the British Isles, and extending into parts of Asia. Also
 reported from western [[psilocybin-north-america-pacific-northwest]] (as *C. rubellus* or closely related taxa).
-Fruits August–November in temperate regions. Often grows among moss (*Sphagnum*,
+Fruits August–November in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Often grows among moss (*Sphagnum*,
 *Pleurozium*) in damp conifer woods.
 
 ## Toxicity: Orellanine Poisoning
@@ -83,52 +83,8 @@ The deadly nature of *C. rubellus* results from the bicyclic dipeptide orellanin
 
 **Mechanism:** Orellanine is absorbed through the gastrointestinal tract and
 concentrated in the renal proximal tubule epithelial cells, where it generates
-reactive oxygen species causing lipid peroxidation and mitochondrial damage.
+[[reactive-oxygen-species-and-oxidative-stress]] causing lipid peroxidation and mitochondrial damage.
 The result is acute tubular necrosis.
 
-**Clinical course** follows a characteristically deceptive timeline:
+**[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** follows a characteristically deceptive timeline:
 - **Phase 1 (6–24 hours):** Nausea, vomiting, abdominal pain, headache,
-  chills. Symptoms may resolve spontaneously, leading the patient to believe
-  they have recovered.
-- **Phase 2 (latent, 1–14 days):** Asymptomatic period during which progressive
-  kidney damage occurs. Blood urea and creatinine levels rise silently.
-- **Phase 3 (2–21 days):** Oliguria or anuria, kidney failure. May progress to
-  permanent renal insufficiency requiring dialysis or transplantation. Mortality
-  rates of 10–15% are reported in confirmed cases.
-
-**Lethal dose:** As little as 100 g of fresh mushroom can cause fatal poisoning
-in adults. There is no specific antidote. Treatment is supportive, with
-hemodialysis being the primary intervention.
-
-## Similar Species and Confusion Risks
-
-The danger of *C. rubellus* is compounded by its resemblance to edible species:
-
-- ***Cortinarius orellanus* (fool's webcap):** Very similar appearance, also
-  contains orellanine. Distinguished microscopically by spore morphology.
-  Equally dangerous.
-- ***Tricholoma equestre* (yellow knight):** Can occur in similar pine-forest
-  habitats. Has white gills and white [[comparison-spore-print-collection-vs-spore-syringe-production]]; no cortina. Also implicated
-  in toxicity (rhabdomyolysis) in some cases.
-- ***Hygrophoropsis aurantiaca* (false chanterelle):** Similar orange coloration
-  but has decurrent, forked gills (true chanterelle-like) and grows on wood or
-  stumps, not directly from soil.
-- ***Chantarellus* spp.:** Young *C. rubellus* could be confused with chanterelles
-  by inexperienced foragers. Chanterelles have decurrent, blunt gill-like folds
-  and a fruity (apricot-like) odor; *Cortinarius* has true gills and a cortina.
-
-## Importance for Foragers
-
-*C. rubellus* is the single most important mushroom to learn to [[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]
-in Northern Europe. Foraging organizations in Finland, Sweden, Norway, and Poland
-designate it as a priority identification target. Key distinguishing features:
-(1) rust-brown spore print, (2) presence of a cortina (cobwebby veil), (3)
-association with conifers on acidic soil, and (4) the combination of reddish cap
-and bulbous stem base. Any mushroom matching this description in conifer forests
-should be treated as potentially deadly until proven otherwise.
-
-## See Also
-- [[cortinarius-orellanus]]
-- [[cortinarius-cinnamomeus]]
-- [[galerina-marginata]]
-- [[emcdda-wild-mushroom-foraging-misidentification-hazards]]

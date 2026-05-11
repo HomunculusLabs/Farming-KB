@@ -26,7 +26,7 @@ false hedgehog mushroom, is a species of jelly fungus in the order
 Tremellales.
 
 It is distinguished from other jelly fungi by the combination of its
-gelatinous, translucent fruiting body and its spore-bearing surface covered
+gelatinous, translucent [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and its spore-bearing surface covered
 in small, conical teeth rather than pores or a smooth hymenium.
 
 The species is edible and is collected for food in parts of Europe, Asia, and
@@ -64,19 +64,19 @@ epibasidia that bear the spores.
 
 *P. gelatinosum* has a broad circumpolar distribution across temperate and
 boreal regions of the Northern Hemisphere, with confirmed records from Europe,
-North America, and Asia.
+[[guzman-psilocybin-mushrooms-north-america]], and Asia.
 
 It is found in coniferous and mixed forests, particularly in association with
 spruce (*Picea* spp.), fir (*Abies* spp.), pine (*Pinus* spp.), and hemlock
-(*Tsuga* spp.). The species forms ectomycorrhizal associations with these
+(*Tsuga* spp.). The species forms [[ectomycorrhizal-associations]] with these
 host trees.
 
 Fruiting occurs from late summer through autumn, typically September through
-November in temperate regions. The gelatinous fruiting bodies emerge from the
+November in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The gelatinous [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] emerge from the
 forest floor, often from moss or needle litter near the base of host trees.
 
 It prefers cool, moist microhabitats with high humidity and is commonly found
-in old-growth and mature forests with abundant coarse woody debris.
+in old-growth and mature forests with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]].
 
 The species is also reported from the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], including
 Australia and New Zealand, though some authorities consider these to represent
@@ -88,62 +88,3 @@ a distinct but morphologically similar taxon.
 widely regarded as a choice edible due to its bland flavor and rubbery
 texture.
 collected for food and prepared in soups or stews. The gelatinous texture is
-reminiscent of Asian jelly fungi like *Tremella fuciformis*.
-
-The fungus must be cooked before consumption, as raw specimens can cause mild
-gastrointestinal discomfort in some individuals. Cooking softens the texture
-and removes any potential irritants.
-
-No toxic look-alikes are known, making field identification relatively safe.
-However, collectors should distinguish it from true hedgehog mushrooms
-(*Hydnum* repandum), which are fleshy rather than gelatinous.
-It is primarily collected by individual foragers for personal use.
-
-## Cultivation
-
-[[fukuoka-matsutake-artificial-cultivation-attempt]] of *P. gelatinosum* has been attempted on a small
-scale, primarily for research purposes, but no commercial production methods
-have been established.
-
-The mycorrhizal nature of the species presents a significant challenge for
-cultivation, as it requires a living host tree to establish a functional
-symbiotic relationship.
-
-[[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] in pure culture has been achieved on malt extract agar and
-potato dextrose agar at temperatures of 15–22°C. Growth rates are slow
-compared to saprotrophic jelly fungi.
-
-Some limited success has been reported with nursery inoculation of conifer
-seedlings, similar to techniques used for other [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]].
-However, fruiting body production under controlled conditions remains
-unreliable.
-
-The species is not considered a candidate for commercial cultivation at
-present due to its slow growth, low yields, and limited culinary demand.
-
-## Ecological Role
-
-*P. gelatinosum* is one of relatively few jelly fungi known to form
-ectomycorrhizal associations with trees, a role more commonly associated with
-Agaricales, Boletales, and Russulales.
-
-The mycorrhizal relationship benefits the host tree by enhancing nutrient
-uptake, particularly phosphorus and nitrogen, in exchange for carbohydrates
-derived from host photosynthesis.
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems. Its gelatinous fruiting bodies provide
-moisture and habitat for microarthropods and other soil organisms.
-
-The species serves as a food source for various forest mammals and
-invertebrates, including slugs, rodents, and deer, which may assist in spore
-dispersal through the forest.
-
-## See Also
-
-- [[tremella-fuciformis]]
-- [[tremella-mesenterica]]
-- [[hericium-erinaceus]]
-- [[hericium-coralloides]]
-- [[auricularia-polytricha]]
-- [[dictyophora-indusiata]]
-- [[lentinula-edodes]]
-- [[pleurotus-ostreatus]]

@@ -2,7 +2,7 @@
 title: DMT (N,N-Dimethyltryptamine) - The turner-essential-psychedelics-5-meo-dmt-void-experience Guide
 created: 2026-04-26
 author: D.M. Turner
-sources: The Essential Psychedelics Guide (1994)
+sources: The turner-essential-psychedelics-5-meo-dmt-void-experience Guide (1994)
 type: concept
 tags: [psychedelics, DMT, tryptamine, endogenous, dosage, smoking, visionary]
 updated: 2026-04-26
@@ -22,7 +22,7 @@ N,N-Dimethyltryptamine and 5-Methoxy-Dimethyltryptamine are naturally occurring 
 - The **human brain** as neurotransmitters
 - Human **blood, urine, and spinal fluid**
 - The **human pineal gland** (correlated to the "3rd eye" or Ajna Chakra)
-- Glands of tropical toads such as **Bufo Alvarius** (some people dry and smoke the venom)
+- Glands of tropical toads such as **[[5-meo-dmt-and-bufo-alvarius]]** (some people dry and smoke the venom)
 
 N,N-DMT and 5-MeO-DMT are also manufactured synthetically and sold on the underground market. Synthetic DMT is used much more often than DMT from natural sources.
 
@@ -31,10 +31,10 @@ N,N-DMT and 5-MeO-DMT are also manufactured synthetically and sold on the underg
 DMT is not active if taken orally - it must be smoked or snorted for psychoactive effects. To obtain a full-strength experience, the entire dose must be consumed in a short period.
 
 ### Snuff Sources
-Two sources - **[[yopo-anadenanthera-peregrina-snuff]]** and **Virola theiodora** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other's nose.
+Two sources - **[[yopo-anadenanthera-peregrina-snuff]]** and **[[virola-theiodora]]** - are made into snuffs known as **Yopo** and **Epena**. Amazon natives use ingenious methods including paired snorting devices where one person blows the DMT snuff into the other's nose.
 
 ### Ayahuasca
-Elsewhere in the Amazon, DMT-containing plants like **Psychotria veridis** are included in brews known as **Ayahuasca** or **Yage**, combined with **Banisteriopsis caapi** (source of [[turner-harmala-alkaloids-preparation-and-dosage]]). The Harmala alkaloids (MAO inhibitors) intensify the [[mckenna-dmt-experience-and-hyperspace]] and allow it to be active orally. The healers claim that plant spirits tell them which plants to use in their brews.
+Elsewhere in the Amazon, DMT-containing plants like **Psychotria veridis** are included in brews known as **Ayahuasca** or **Yage**, combined with **[[ayahuasca-and-banisteriopsis-caapi]]** (source of [[turner-harmala-alkaloids-preparation-and-dosage]]). The [[harmala-alkaloids]] ([[mao-inhibitors-and-psychedelics]]) intensify the [[mckenna-dmt-experience-and-hyperspace]] and allow it to be active orally. The healers claim that plant spirits tell them which plants to use in their brews.
 
 ## Dosage and Administration
 
@@ -88,39 +88,3 @@ DMT gets progressively "weirder" as you keep smoking it. Very few people use it 
 - Can literally feel the mind exploding and expanding outward: area → planet → cosmos, over ~15 seconds
 - Visuals: intensely complex, multidimensional, quickly-moving **geometric designs**, primarily **black and white checkerboard** style
 - Increases pulse rate and blood pressure more than N,N-DMT
-- Can produce breathing irregularities
-- Small dose: only bodily symptoms + slight visual alteration
-- "Physically manifesting energies" are more forceful
-
-### N,N-DMT: "Sheer Perfection"
-- Comes on a bit slower, less forcefully, **enchanting** the smoker with its magical nature
-- Transported to fairy tale worlds with gnomes, elves
-- Never the feeling that the universe is too small to contain you
-- **Delights** with brilliant, magical, hypnotic nature (vs. 5-MeO which can awe or frighten with power)
-- Can be the most frightening of all psychedelics - leaves a portion of the ego intact while accessing realms of discarnate entities and awesomely powerful psychic energies
-- **Spectacular visuals**: swirling, kaleidoscopic universes of unsurpassable detail, intricacy, and color brilliance
-- Visuals: kaleidoscopic-geometric forms, archetypal symbols, outlandish images of people, places, and things
-- Unique **"selective anesthetic"** property: body and mind feel simultaneously stimulated and anesthetized
-
-### Visual Environment
-DMT visuals are best in **diffused sunlight** (unlike mushrooms, which are best in pitch black). Excellent results with venetian blinds adjusted so grids of sunlight bounce around the room.
-
-## Intelligent Entity Interaction
-
-DMT and [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] (long-lasting tryptamines) share a unique property: the sense of interacting with an **intelligent entity** vastly superior in knowledge and breadth of consciousness. This entity seems aware of what's transpiring in the user's mind and is able to instruct and tailor the experience personally. This contrasts with LSD or Ketamine, where one typically feels they are interacting with their own mind.
-
-## DMT with Harmala Alkaloids
-
-Harmala alkaloids potentiate DMT in intensity, duration, content, and quality. They also make DMT orally active.
-
-- **5-MeO + Harmala**: Only slightly intensified but peak extends from 2-3 min to 10-20 min, total 40 min to 2 hours. However, high percentage of intensely unpleasant experiences - many revert to 5-MeO alone.
-- **N,N-DMT + Harmala**: Significantly intensified. 15-20 mg on Harmala = 40 mg alone. Extends total experience to 30-40 minutes.
-- The combined high is a much slower, more personally involved process
-- Often feel "embraced" by an ancient earth spirit instructing the user
-- More time to absorb the experience and integrate it
-## See Also
-
-- [[turner-lsd]]
-- [[psychedelic-combination-guide]]
-- [[psychedelic-spirituality-and-religion]]
-- [[mao-inhibitors-and-psychedelics]]

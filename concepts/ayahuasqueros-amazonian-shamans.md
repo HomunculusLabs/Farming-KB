@@ -28,11 +28,11 @@ Indigenous shamans often serve their own communities as the primary healthcare p
 
 ### Mestizo Vegetalistas
 
-Mestizo vegetalistas are non-indigenous or mixed-heritage practitioners who have adopted and adapted Amazonian shamanic practices. Vegetalismo emerged as a distinct tradition in the mid-twentieth century, particularly in the Peruvian Amazon around Iquitos and Pucallpa, where indigenous and mestizo populations have intermingled for generations.
+Mestizo vegetalistas are non-indigenous or mixed-heritage practitioners who have adopted and adapted [[amazonian-shamanic-battles-and-defensive-powers]] practices. Vegetalismo emerged as a distinct tradition in the mid-twentieth century, particularly in the [[ayahuasca-tourism-economics-peruvian-amazon]] around Iquitos and Pucallpa, where indigenous and mestizo populations have intermingled for generations.
 
 Vegetalistas typically acquire their knowledge through *dietas* — extended periods of isolation in the jungle during which they consume specific "teacher plants" while following strict dietary and behavioral restrictions. Through these dietas, the plants are believed to transmit their healing knowledge, their icaros, and their spiritual power directly to the practitioner. A serious vegetalista may complete dozens of dietas over years of training, building an extensive repertoire of plant allies and healing songs.
 
-The vegetalista tradition is more individualistic and syncretic than indigenous shamanic practice, freely incorporating elements from multiple indigenous traditions as well as Catholic, Espiritista, and other spiritual influences. This syncretism makes vegetalismo particularly adaptable and has contributed to its popularity among both mestizo Peruvians and foreign visitors.
+The vegetalista tradition is more individualistic and syncretic than indigenous shamanic practice, freely incorporating elements from multiple [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] as well as Catholic, Espiritista, and other spiritual influences. This syncretism makes vegetalismo particularly adaptable and has contributed to its popularity among both mestizo Peruvians and foreign visitors.
 
 ## Training and Apprenticeship
 
@@ -46,7 +46,7 @@ The apprenticeship involves learning the properties of medicinal plants, masteri
 
 The apprentice learns by observation and participation, gradually taking on greater responsibility within ceremonies as their skills develop. Early in training, the apprentice may simply be present during ceremonies, watching and absorbing. Later, they may assist with preparation and begin singing their own icaros under supervision.
 
-The process requires not just technical competence but the development of perceptual capacities that allow the shaman to "see" into the energetic body of patients and navigate the visionary landscape with confidence and authority. This perceptual development is perhaps the most difficult and mysterious aspect of shamanic training, as it involves learning to access and interpret states of consciousness that have no direct analogue in ordinary Western epistemology.
+The process requires not just technical competence but the development of perceptual capacities that allow the shaman to "see" into the energetic body of patients and navigate the visionary landscape with confidence and authority. This perceptual development is perhaps the most difficult and mysterious aspect of shamanic training, as it involves learning to access and interpret [[mckenna-food-gods-designer-states-of-consciousness]] that have no direct analogue in ordinary Western epistemology.
 
 ### Mestizo Vegetalista Training Through Dietas
 
@@ -64,7 +64,7 @@ The chullachaqui caspi, a small wooden staff, is sometimes used for diagnostic p
 
 Rapé (a powdered tobacco snuff blended with other medicinal plants) and sananga (eye drops made from the *Apocynaceae* family) are sometimes administered during ceremonies for their purifying and grounding effects. Rapé is blown into the nostrils using a traditional pipe called a tepi, producing an intense but brief experience that many practitioners find clarifying.
 
-Kambo (secretions from the *Phyllomedusa bicolor* frog) is sometimes offered as a separate cleansing ceremony, though this practice is distinct from ayahuasca ceremony itself. Kambo induces a powerful purgative response that is believed to cleanse the body of toxins and negative energy.
+Kambo (secretions from the *[[kambo-frog-medicine-phyllomedusa-bicolor]]* frog) is sometimes offered as a separate cleansing ceremony, though this practice is distinct from [[ayahuasca-ceremony-pharmacology-safety]] itself. Kambo induces a powerful purgative response that is believed to cleanse the body of toxins and negative energy.
 
 Poultices, baths, and perfumes made from specific plants may also be applied to patients before, during, or after ceremonies. Floral baths (*baños de flores*) prepared with aromatic Amazonian flowers are commonly used for spiritual cleansing and energetic renewal.
 
@@ -87,13 +87,3 @@ The conversion of indigenous communities to Christianity — particularly Pentec
 The explosive gr [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] tourism presents both opportunities and challenges. On one hand, it has brought economic resources and international recognition to ayahuasqueros and their traditions. On the other hand, it has created pressures toward commercialization and standardization that may erode the authenticity and depth of practice.
 
 Younger generations in some communities show declining interest in undertaking the demanding apprenticeships required to become ayahuasqueros, drawn instead by the economic opportunities of urban life or skeptical of traditional practices in an increasingly modernizing world.
-
-## See Also
-
-- [[icaros-shamanic-chanting]]
-- [[shipibo-ayahuasca-shamans-practice]]
-
-## References
-
-- Stuart, R. "Ayahuasca Tourism: A Cautionary Tale." *[[maps]]*, Vol. XII, No. 2, Summer 2002, pp. 36–38.
-- Luna, L.E. *Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon*. Almqvist & Wiksell International, 1986.

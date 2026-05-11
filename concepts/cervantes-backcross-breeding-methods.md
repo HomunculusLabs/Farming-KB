@@ -1,5 +1,5 @@
 ---
-title: cervantes backcross breeding methods Methods
+title: Cervantes Backcross [[luther-burbank-plant-breeding-methods]]
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -88,30 +89,6 @@ The resulting BC3F3 generation is homozygous for the recessive trait
 and breeds true for it, while being derived mainly from the recurrent
 parent's genetics.
 
-## Advantages of Backcrossing
-
-- Requires only small populations, suitable for indoor breeding
-- Easily replicated if the same parents are used
-- Well-adapted to the environment in which they were bred, since indoor
-  grow rooms are easily replicated worldwide
-- Progeny need less extensive field-testing across wide environments
-- Ideal traits for introgression should be simply inherited and easily
-  scored for phenotype
-
-## Limitations of Backcrossing
-
-- When the recurrent parent is not very true-breeding, the resulting
-  backcross generations segregate, and many desirable traits fail to
-  be reproduced reliably
-- The "improved" variety differs only slightly from the recurrent
-  parent (typically only one trait)
-- If multiple traits are to be introgressed, other techniques such as
-  inbreeding or [[cervantes-recurrent-selection-pedigree-breeding]] may be more rewarding
-- Multiple traits must be tracked in separate backcross programs and
-  combined in a final set of crosses
-
 ## See Also
-
-- [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-feminized-seed-production]]
-- [[cannabis-phenotype-selection]]
+- [[cervantes-breeding-program-design-goal-setting]]
+- [[cervantes-recurrent-selection-pedigree-breeding]]

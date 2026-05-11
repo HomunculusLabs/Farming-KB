@@ -45,7 +45,7 @@ Inflorescences are umbellate, borne in leaf axils, usually solitary or in pairs.
 
 The fruit is a drupe, ellipsoid, approximately eight millimeters in diameter, ripening from green to dark purple-black at maturity. Fruiting occurs from August through October.
 
-Each drupe contains a single seed enclosed in a hard endocarp. Seed viability declines rapidly under ambient storage conditions, requiring prompt sowing or cold-moist stratification for successful germination.
+Each drupe contains a single seed enclosed in a hard endocarp. Seed viability declines rapidly under ambient [[spawn-storage-conditions]], requiring prompt sowing or cold-moist stratification for successful germination.
 
 ## Distribution and Habitat
 
@@ -57,65 +57,34 @@ It prefers acidic to neutral soils derived from limestone or granite parent mate
 
 *Litsea odorifera* tolerates partial shade but achieves maximum growth and essential oil yield in full sun or light canopy gaps. It is frost-tolerant to approximately minus five degrees Celsius.
 
-Drought tolerance is moderate, with plants surviving seasonal dry periods by reducing transpiration through leaf curling. In cultivation, supplemental irrigation during the first two growing seasons improves establishment success.
+[[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate, with plants surviving seasonal dry periods by reducing transpiration through leaf curling. In cultivation, supplemental irrigation during the first two [[jeavons-climate-adaptation-growing-seasons]] improves establishment success.
 
 ## Chemistry and Traditional Uses
 
-The essential oil of *Litsea odorifera* is dominated by citral, comprising sixty to seventy-five percent of total volatile compounds. Citral is a mixture of geranial (citral A) and neral (citral B), both monoterpene aldehydes responsible for the characteristic lemon fragrance.
+The essential oil of *Litsea odorifera* is dominated by citral, comprising sixty to seventy-five percent of total [[mycovolatiles-fungal-volatile-compounds]]. Citral is a mixture of geranial (citral A) and neral (citral B), both monoterpene aldehydes responsible for the characteristic lemon fragrance.
 
 Minor constituents include limonene, linalool, geraniol, alpha-pinene, and beta-pinene. The oil profile is broadly similar to *Litsea cubeba*, though *L. odorifera* typically contains higher concentrations of geraniol and lower proportions of limonene.
 
 Leaves and twigs are collected in summer and autumn, dried, and used in decoctions or as aromatic sachets. Traditional applications include treatment of coughs, bronchitis, abdominal pain, and rheumatic complaints.
 
-The essential oil exhibits broad-spectrum antimicrobial activity against gram-positive bacteria, gram-negative bacteria, and several fungal pathogens. In vitro studies have demonstrated anti-inflammatory effects through inhibition of nitric oxide production in macrophage cell lines.
+The essential oil exhibits broad-spectrum antimicrobial activity against gram-positive bacteria, gram-negative bacteria, and several [[bloomfield-fungal-pathogens-and-parasites]]. In vitro studies have demonstrated anti-inflammatory effects through inhibition of nitric oxide production in macrophage cell lines.
 
-Citral from *Litsea* species has documented insect-repellent properties and is used commercially as a natural pesticide against stored-grain insects and mosquito larvae.
+Citral from *Litsea* species has documented insect-repellent properties and is used commercially as a [[jadam-natural-pesticide-institute-and-research]] against stored-grain insects and mosquito larvae.
 
-Steam distillation is the primary extraction method, achieving yields of one to three percent essential oil from fresh leaves. Supercritical carbon dioxide extraction produces higher-quality oil with improved preservation of thermolabile compounds.
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is the primary [[lemon-cannabis-alchemy-high-volume-extraction-method]], achieving yields of one to three percent essential oil from fresh leaves. Supercritical carbon dioxide extraction produces higher-quality oil with improved preservation of thermolabile compounds.
 
 ## Ecology and Cultivation
 
 *Litsea odorifera* provides food for several Lepidoptera species whose larvae feed on Lauraceae foliage. The fruits are eaten by birds, facilitating seed dispersal across forest landscapes.
 
-The species plays a modest role in secondary forest succession, colonizing disturbed sites and gap edges. It is not considered invasive outside its native range and is rarely cultivated beyond botanical gardens and essential-oil producers.
+The species plays a modest role in secondary [[mollison-designers-food-forest-succession-design]], colonizing disturbed sites and gap edges. It is not considered invasive outside its native range and is rarely cultivated beyond botanical gardens and essential-oil producers.
 
 Pollination is primarily by small flies and beetles attracted to the mildly fragrant flowers. The flowering period extends from February to April, preceding leaf flush in many populations.
 
 Birds including bulbuls and thrushes consume the drupes and disperse seeds over considerable distances. Seed germination rates in the wild are relatively low, limiting natural recruitment rates.
 
-The root system is moderately deep and spreading, providing effective soil stabilization on slopes. Mycorrhizal associations with arbuscular mycorrhizal fungi enhance nutrient uptake in nutrient-poor forest soils.
+The root system is moderately deep and spreading, providing effective soil stabilization on slopes. [[plants-without-mycorrhizal-associations]] with [[arbuscular-mycorrhizal-fungi]] enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in nutrient-poor forest soils.
 
 Propagation is primarily by seed, which requires cold stratification or gibberellic acid treatment to break dormancy. Semi-hardwood cuttings taken in summer root at moderate success rates under mist propagation.
 
 Commercial cultivation for essential oil production is limited but growing in southern China. Yields of fresh leaf material range from two to four tonnes per hectare, with essential oil content of one to two percent by fresh weight.
-
-Harvest occurs twice annually, in early summer and early autumn. Post-harvest regeneration is vigorous, allowing sustained production over multiple years without replanting.
-
-The species is suitable for agroforestry systems, where it can serve as an understory shrub providing aromatic products, soil stabilization, and wildlife habitat.
-
-Ornamental use is limited but increasing as drought-tolerant, fragrant landscaping gains popularity. The compact habit and glossy foliage make it suitable for hedgerows and container cultivation in warm climates.
-
-Conservation status has not been formally assessed by the IUCN, but habitat loss from agricultural expansion in southern China is a potential concern. Several *Litsea* species in the region are classified as vulnerable or endangered.
-
-## Related Species
-
-*Litsea odorifera* belongs to a complex of closely related species within the *Litsea* core clade. *Litsea cubeba* is the most commercially significant relative, widely cultivated for its citral-rich essential oil.
-
-*Litsea glutinosa* is a larger tree used in traditional medicine across Southeast Asia. Its bark contains mucilaginous compounds used as a binding agent and wound dressing.
-
-*Litsea glauca* is an evergreen tree native to East Asia with similar aromatic properties. *Neolitsea sericea*, a closely related genus, shares many ecological traits and is used in Japanese traditional medicine.
-
-*Lindera benzoin* (spicebush) represents the family in eastern North America and demonstrates the Lauraceae's wide temperate distribution. All share the characteristic aromatic foliage and drupaceous fruit.
-
-## See Also
-
-- [[litsea-cubeba]]
-- [[litsea-glauca]]
-- [[cinnamomum-camphora]]
-- [[cinnamomum-verum]]
-- [[lindera-benzoin]]
-- [[lindera-obtusiloba]]
-- [[persea-americana]]
-- [[persea-borbonia]]
-- [[asarum-canadense]]
-- [[neolitsea-sericea]]

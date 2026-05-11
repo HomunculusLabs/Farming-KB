@@ -1,6 +1,6 @@
 ---
 title: "Jack the Ripper — Jack's Cleaner × Space Queen (TGA Subcool)"
-source: "S.T. Oner — The Rev: Cannabis Sativa Vol. 3"
+source: "S.T. Oner — The Rev: [[blesching-cannabis-sativa-indica-classification]] Vol. 3"
 tags: [cannabis, sativa, strain-profile, jack-herer, space-queen, tga-subcool, thcv, parkinsons, high-thc, medical-sativa]
 ---
 
@@ -14,7 +14,7 @@ genetics. With a tested THC content of 26.6%, Jack the Ripper ranks among
 the highest-potency sativa-dominant strains available.
 
 The strain's genetics trace back through an impressive family tree that includes
-Romulan, Lamb's Bread, Pluton, Cindy99 BCGA, Northern Lights #5, Purple Haze,
+Romulan, Lamb's Bread, Pluton, Cindy99 BCGA, [[northern-lights]] #5, Purple Haze,
 and Jack Herer — making it almost a living museum of legendary cannabis
 genetics.
 
@@ -52,7 +52,7 @@ Jack the Ripper expresses two main phenotypes:
    pheno but without the pine undertone
 
 Both phenotypes share the characteristic Lemon Haze aroma that defines the
-strain's terpene profile. The primary distinguishing feature between phenos is
+strain's [[cannabis-terpene-profile]]. The primary distinguishing feature between phenos is
 the pine scent and the height difference.
 
 ### Cultivation Method
@@ -74,7 +74,7 @@ After flipping to 12/12 flowering:
 
 - Bud production becomes visible from approximately **day 12** of flowering
 - The emerging buds are **spear-shaped** and white, developing density
-  and resin production through the flowering cycle
+  [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] through the [[cannabis-photoperiod-flowering-cycle]]
 - Indoor harvest: approximately **week 8** of flowering (some phenotypes may
   run slightly longer)
 - Outdoor harvest: late September to early October
@@ -87,64 +87,3 @@ None of the Jack the Ripper phenotypes will grow excessively tall unless given
 extended outdoor vegetative periods. This makes the strain manageable in indoor
 environments, though providing adequate vertical space during the vegetative
 phase is still important for maximizing yield.
-
-## Aroma and Flavor
-
-The terpene profile of Jack the Ripper is dominated by citrus and tropical
-notes:
-
-- **Primary aroma**: Lemon Haze — bright, sharp citrus with tropical
-  undertones
-- **Secondary notes (some phenos)**: Pine, adding complexity
-- **Base notes**: Burning hash, providing an earthy counterpoint to the bright
-  citrus
-- **Tropical fruit**: Some phenotypes express distinct tropical fruit
-  characteristics
-
-The combination of bright citrus top notes with deeper hash-like base notes
-creates a complex and memorable flavor profile that has made Jack the Ripper a
-favorite among cannabis connoisseurs.
-
-## Effect Profile
-
-Jack the Ripper delivers an intense, soaring cerebral high that is consistent
-with its 26.6% THC rating:
-
-- **Onset**: Rapid and powerful — the high catches users "totally unawares"
-- **Character**: Blindingly strong head high described as being "sent straight
-  towards the light"
-- **Duration**: Long-lasting for a sativa-dominant strain
-- **Physical component**: Minimal body effects — this is predominantly a
-  cerebral experience
-- **Paranoia potential**: Moderate to high at higher doses due to the extreme
-  potency — new users should approach with caution
-
-The name's double meaning (the serial killer reference and the phrase "killer
-weed") is apt — this strain is genuinely one of the most potent sativa-dominant
-hybrids available. The breeder notes that it is "definitely from heaven rather
-than From Hell," a humorous reference to the strain's heavenly effects despite
-its dark name.
-
-## THCV Content and Medical Potential
-
-One of the most medically significant aspects of Jack the Ripper is its
-reported **THCV (tetrahydrocannabivarin)** content. THCV is a rare cannabinoid
-that has shown promise in several areas of medical research:
-
-- **Parkinson's disease**: THCV has been identified as a possible treatment for
-  Parkinson's disease symptoms, including tremor reduction and motor function
-  improvement
-- **Appetite suppression**: Unlike THC, THCV may act as an appetite suppressant
-  at low doses
-- **Anti-inflammatory**: THCV has demonstrated anti-inflammatory properties in
-  preclinical studies
-- **Diabetes**: Research suggests potential benefits for blood sugar regulation
-
-The presence of THCV alongside the extremely high THC content makes Jack the
-Ripper particularly interesting for medical cannabis patients and researchers
-studying the therapeutic potential of rare cannabinoids.
-
-## Related Concepts
-
-- [[oner-jamaican-dream-and-jamaican-lions]]
-

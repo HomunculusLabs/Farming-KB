@@ -88,32 +88,3 @@ The gold standard for long-term preservation. Mycelial samples are suspended in 
 ### Lyophilization (Freeze-Drying)
 
 Removing water from mycelial samples under vacuum after freezing. Some species survive this process well; others do not. Spores generally survive lyophilization better than mycelial tissue.
-
-### Spore Preservation
-
-The most natural and universally effective preservation method. Spores are dormant, sexually produced propagules that reset the genetic clock:
-
-- Print spores on sterile paper or glass
-- Dry thoroughly in a desiccator
-- Store in sealed containers with silica-gel desiccant
-- Keep at room temperature or refrigerate
-- Viability varies by species but many remain viable for 5-10+ years
-
-The trade-off is genetic: germinating spores produces a new multispore culture with recombined genetics, not a clone of the parent strain. For maintaining exact genetic lines, mycelial preservation is necessary.
-
-## Practical Recommendations
-
-### For Home Cultivators
-
-1. Keep at least 3-4 backup stock culture plates at all times
-2. Store stock cultures in the refrigerator whenever not actively using them
-3. Alternate between PDA and MEA for successive transfers
-4. Limit serial transfers to 10-15 generations before going back to spores
-5. Maintain a [[fungal-spore-print-guide]] collection as an insurance policy
-6. Label all cultures with species, strain designation, and transfer number
-
-### For Continuous Production Operations
-
-1. Maintain separate stock and crop culture lines
-2. Track transfer generations for every culture line
-3. Implement a scheduled refresh cycle using back-propagation from the healthiest crop jars

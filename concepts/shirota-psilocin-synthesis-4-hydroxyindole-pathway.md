@@ -1,6 +1,6 @@
 ---
-title: "[[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] from 4-Hydroxyindole"
-aliases: [psilocin synthesis, 4-hydroxyindole pathway, [[shirota-psilocin-instability-chromatographic-challenges]]]
+title: Shirota Psilocin Synthesis 4 Hydroxyindole Pathway
+aliases: [[four-hydroxyindole-psilocin-synthesis-route-shirota]], 4-hydroxyindole pathway, [[shirota-psilocin-instability-chromatographic-challenges]]
 tags: [chemistry, synthesis, psilocin, tryptamines, organic-chemistry, psilocybe]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-09
@@ -87,42 +87,4 @@ The protection step used 4-hydroxyindole (>25 g per bottle, >185 mmol) in 200 mL
 anhydrous CH2Cl2 with 20 mL pyridine (246 mmol) and 20 mL acetic anhydride
 (210 mmol). After two hours at room temperature, workup afforded 34 g of
 4-acetylindole as constant-weight ivory white crystals. The amidation used 17.6 g
-(100 mmol) of 4 in 100 mL ether with 13 mL oxalyl chloride (146 mmol), followed
-by 60 mL 2M dimethylamine (120 mmol) in THF with 10 mL pyridine (123 mmol),
-giving 22.0 g (80.0%) of the glyoxalylamide.
-
-The reduction used approximately 12 g LiAlH4 in 300 mL THF under argon, with
-22.0 g (80 mmol) of the amidated product in 250 mL THF added over two hours.
-After two hours of reflux, careful quenching afforded 14.3 g (87.5%) of psilocin
-as white crystals. All intermediates were used directly in subsequent steps
-without further purification beyond filtration and washing. The overall yield from
-commercially available 4-hydroxyindole to purified psilocin exceeds 59% across
-four steps, with each intermediate isolated as crystalline material.
-
-## Relationship to Serotonin Chemistry
-
-The structural similarity between psilocin and serotonin (5-hydroxytryptamine)
-is noteworthy. Psilocin is 4-hydroxy-N,N-dimethyltryptamine, while serotonin is
-5-hydroxytryptamine. This close resemblance is the basis for the hypothesis that
-psilocybin's hallucinogenic effect results from interference with normal brain
-serotonin actions. The [[four-hydroxyindole-psilocin-synthesis-route-shirota]] from 4-hydroxyindole parallels many
-synthetic approaches to serotonin derivatives, making it accessible to
-laboratories familiar with indole chemistry.
-
-## Advantages of the Shirota Route
-
-The primary advantage of this synthesis is the elimination of all chromatographic
-purification steps, making it practical for gram-scale production of analytical
-[[shirota-forensic-standard-compounds-magic-mushroom-identification]]. Each intermediate is crystalline and can be isolated by
-simple filtration and washing. The overall yield is high, and the reagents are
-commercially available and inexpensive. Previous syntheses of psilocin had been
-reported, but this route represents the most practical approach for producing
-reference standards in quantity.
-
-## See Also
-
-- [[4-hydroxyindole-tryptamine-synthesis-building-block]]
-- psilocybin phosphorylation synthesis
-- serotonin 5 ht receptor system overview
-- psilocybin pharmacology and mechanism of action
-- magic mushroom regulation forensic identification
+(100 mmol) of 4 in 100 mL ether with 13 mL [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] (146 mmol), followed

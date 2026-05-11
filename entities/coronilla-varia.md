@@ -21,7 +21,7 @@ sources:
 **Coronilla varia** (crown vetch, purple crownvetch) is a perennial
 legume in the family Fabaceae, native to Mediterranean Europe, southwest
 Asia, and North Africa. It forms dense, sprawling mats through rhizomatous
-spread and has been widely planted for erosion control and [[fukuoka-citrus-orchard-ground-cover-cultivation]].
+spread and has been widely planted [[mollison-designers-vetiver-grass-for-erosion-control]] and [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 
 The species was introduced to [[psilocybin-north-america-pacific-northwest]] in the mid-20th century for
 highway bank stabilization and has since naturalized across much of the
@@ -42,7 +42,7 @@ along roadsides and open fields.
   emeroides*, *Coronilla coronata*
 - **Chromosomes:** 2n = 24 (tetraploid)
 
-Plants are herbaceous perennials growing 30-60 cm tall, with trailing
+Plants are [[permaculture-plants-herbaceous-perennials]] growing 30-60 cm tall, with trailing
 stems up to 1.5 m long. Stems are hollow, multi-branched, and
 root at nodes where they contact soil, forming dense mats.
 
@@ -64,7 +64,7 @@ several meters from the parent plant.
 Morocco eastward to Turkey and the Caucasus. It occupies dry grasslands,
 rocky slopes, and open woodland margins in its native range.
 
-In North America, it has been widely planted along highways, mine
+In [[guzman-psilocybin-mushrooms-north-america]], it has been widely planted along highways, mine
 reclamation sites, and eroded slopes from the 1950s onward. It has
 escaped cultivation and naturalized across much of the eastern US, from
 New England to Georgia and west to Minnesota and Missouri.
@@ -86,64 +86,5 @@ requires scarification or inoculation with appropriate rhizobia
 irregular, taking 2-4 weeks.
 
 Once established, the plant spreads aggressively by rhizomes and forms
-a dense, nearly monospecific ground cover that suppresses weeds. Full
+a dense, nearly monospecific [[fukuoka-ground-cover-strategy]] that suppresses weeds. Full
 canopy closure typically occurs within 2-3 years of planting.
-
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates reach 100-200 kg N/ha/year, making crown vetch
-a valuable soil-improving crop. It is used in rotational systems with
-grain crops and as a permanent ground cover in orchards and vineyards.
-
-The plant provides erosion control on slopes up to 2:1 (horizontal to
-vertical). Its deep root system (1-2 m) and dense surface mat stabilize
-soil against water and wind erosion.
-
-Invasive behavior is a significant concern in natural areas. Crown vetch
-displaces native prairie and meadow species through competitive exclusion
-and allelopathy. Several US states list it as invasive or noxious.
-
-## Uses
-
-**Erosion control** is the primary application. Crown vetch is standard
-for highway bank stabilization, mine reclamation, and dam
-embankment protection. It is included in hydroseeding mixes for
-disturbed sites.
-
-**Forage** use is limited by toxicity concerns. The plant contains
-beta-nitropropionic acid (BNPA), a compound that causes neurological
-symptoms in livestock. Horses are particularly susceptible to chronic
-poisoning.
-
-As a **soil improvement crop**, crown vetch adds [[hamilton-composting-and-organic-matter-management]] and
-fixed nitrogen to depleted soils. It has been used successfully in
-reclaiming strip-mined lands and industrial brownfield sites.
-
-The showy pink flower clusters provide ornamental value and attract
-pollinators, particularly bumblebees and long-tongued bees. It is
-occasionally planted in wildflower meadows, though its invasive
-potential makes this practice controversial.
-## Related Species
-
-*Coronilla* (sensu stricto) includes approximately 20 species of
-Mediterranean and Eurasian distribution. Several species share
-ornamental and forage characteristics with *C. varia*.
-
-  flowers, native to southern Europe
-  Mediterranean
-  East
-
-The genus has been revised by some authorities, with several species
-including *C. varia* transferred to *Securigera*. The name *Securigera
-varia* is used in many European botanical references.
-
-spread give it greater persistence.
-
-## See Also
-
-- [[trifolium-pratense]]
-- [[trifolium-repens]]
-- [[melilotus-officinalis]]
-- [[lotus-corniculatus]]
-- [[glycine-max]]
-- [[medicago-sativa]]
-- [[permaculture-plants-ground-covers-living-mulches|ground cover]]
-- [[invasive-species-management|invasive species]]

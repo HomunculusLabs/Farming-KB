@@ -18,21 +18,21 @@ type: concept
 alkaloid mescaline, has one of the most extensively documented histories
 of ceremonial use of any hallucinogenic plant. From its ancient roots in
 [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] cultures to its adoption by the [[halpern-sacramental-peyote-and-native-american-church]] Church
-and its unusual rejection by the Mescalero Apache, peyote illustrates
-how cultural context determines whether hallucinogenic plants become
+and its unusual rejection by the [[mescalero-apache-peyote-use]], peyote illustrates
+how [[ayahuasca-pharmacology-and-cultural-context]] determines whether hallucinogenic plants become
 sacred medicines, dangerous witchcraft tools, or objects of proscription.
 
 ## The Native American Church
 
 Probably the most famous combination of [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] use and
 Christianity is the Native American Church, whose practitioners are
-American Indians in the United States who have largely adopted the
+[[yage-common-themes-south-american-indians]] in the [[dmt-containing-plants-united-states-halpern]] who have largely adopted the
 mescaline-containing peyote since the latter part of the nineteenth
 century. Members believe that with peyote's aid they can both "talk"
 with Jesus and cure illness.
 
 The Native American Church represents a syncretic religious tradition
-that blends indigenous peyote ceremonies with Christian elements. In
+that blends indigenous [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] with Christian elements. In
 this context, peyote functions as a sacrament, analogous to communion
 wine in Christian liturgy, enabling direct communication with the divine.
 The church's rituals typically involve all-night ceremonies with
@@ -68,7 +68,7 @@ is the principal figure; religious ecstasy, visions, and communication
 with supernaturals are the shaman's prerogatives and validate his power.
 
 Peyote use by other participants made its psychological and
-physiological effects common, and the uniqueness of the shaman's
+[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] common, and the uniqueness of the shaman's
 experiences disappeared. The peyote meetings became places where
 shamanistic rivalries and witchcraft flourished. Disruption resulted
 rather than cohesiveness through shared experience.
@@ -88,29 +88,3 @@ considered bad. An individual who uses power for purposes not oriented
 toward the common good is accorded the status of witch. Since peyote
 use involved witchcraft practices, its ingestion was equated with the
 potential for malevolent supernatural activity. By the 1950s and 1960s,
-only a few shamans and pseudoshamans were believed to still use peyote
-for witchcraft and love magic.
-
-## Cross-Cultural Patterns
-
-The Mescalero case contrasts with the amiable, harmonious group sessions
-of peyote use in other [[growing-gourmet-north-american-reishi-species]] tribes and with the similarly
-communal use of [[psilocybin]], and DMT, are structurally related
-[[serotonin]]
-receptors in the brain to produce their characteristic effects.
-
-## Legacy and Legal Status
-
-The Native American Church has been at the center of [[sacramental-ayahuasca-legal-battles-united-states]] over
-religious freedom and drug policy in the United States. While peyote
-remains a Schedule I controlled substance under federal law, the
-American Indian Religious Freedom Act and subsequent court decisions
-have provided limited protections for its ceremonial use by Native
-Americans. The tension between drug prohibition and religious freedom
-continues to shape the legal landscape surrounding indigenous use of
-psychoactive plants, echoing older conflicts between colonial
-authorities and native spiritual practices that date back centuries.
-
-## See Also
-
-- [[ethnomycology-as-discipline]]

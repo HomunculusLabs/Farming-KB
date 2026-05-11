@@ -6,7 +6,7 @@ tags:
   - 4-aco-met
   - 4-acetoxy-met
   - metocin
-  - tryptamine
+  - [[tryptamine]]
   - psychedelic
   - research-chemical
   - serotonergic
@@ -31,7 +31,7 @@ sources:
 
 4-Acetoxy-N-methyl-N-ethyltryptamine (4-AcO-MET), also known as Metocin or
 "Colour," is a synthetic psychedelic tryptamine and the N-ethyl homologue of
-4-AcO-DMT. First synthesized by Alexander Shulgin and documented in TiHKAL
+4-AcO-DMT. First synthesized by [[alexander-shulgin]] and documented in TiHKAL
 (Tryptamines I Have Known and Loved), it is structurally an acetylated derivative
 of 4-HO-MET, functioning as a prodrug that deacetylates to 4-HO-MET in vivo.
 4-AcO-MET is widely regarded as one of the most visually rich short-acting
@@ -57,7 +57,7 @@ circulates primarily through online research chemical markets.
   undergoing deacetylation by esterases in the body; some evidence suggests it
   may also have direct pharmacological activity before conversion
 - **5-HT₂A receptor agonism:** Primary mechanism of psychedelic action; partial
-  agonist at the serotonin 5-HT₂A receptor, producing altered perception,
+  agonist at the [[serotonin]] 5-HT₂A receptor, producing altered perception,
   synesthesia, and [[psilocybin-ego-dissolution-mechanisms]] at sufficient doses
 - **5-HT₁A receptor:** Possible weak agonist activity, contributing to anxiolytic
   and mood-elevating effects
@@ -88,49 +88,3 @@ circulates primarily through online research chemical markets.
   geometric patterns, texture breathing, pattern recognition enhancement,
   tracers, and closed-eye imagery described as more colorful and fluid than
   4-AcO-DMT
-- **Cognitive:** Altered thought patterns, enhanced creativity, increased
-  introspection, ego softening without full dissolution at common doses;
-  headspace is notably lighter and more manageable than psilocin
-- **Emotional:** Warmth, empathy, mild entactogenic qualities, mood elevation,
-  occasional emotional release; anxiety is less common than with 4-AcO-DMT
-- **Physical:** Mild physical lightness, tingling sensations, pupil dilation,
-  increased body temperature awareness, mild nausea on come-up (less common
-  than with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]])
-- **Auditory:** Sound enhancement, mild synesthesia, music appreciation
-  significantly heightened
-
-## Comparison to Related Compounds
-
-- **vs. 4-AcO-DMT:** Less potent, shorter duration, lighter headspace,
-  more colorful visuals; generally considered more recreational and less
-  introspective than its N,N-dimethyl counterpart
-- **vs. 4-HO-MET:** Nearly indistinguishable in practice; the acetyl group
-  primarily affects onset speed and duration rather than subjective quality
-- **vs. psilocin:** Shorter duration, more visual emphasis, less cognitive
-  load, and reduced body heaviness
-- **vs. LSD:** Significantly shorter duration, warmer emotional tone, less
-  stimulant character, and more organic visual quality
-- **vs. mescaline:** Much shorter duration, more geometric visuals, less
-  body load, and less grandiosity in thought content
-
-## Harm Reduction
-
-- **[[lsd-set-and-setting-framework]]:** Standard psychedelic harm reduction applies; comfortable
-  environment, trusted companions, and positive mindset significantly improve
-  outcomes
-- **Substance testing:** Always test with reagents; 4-AcO-MET shows no color
-  change with Marquis or Ehrlich reagents, making identification challenging;
-  GC-MS or LC-MS required for definitive identification
-- **Combinations:** Avoid combining with MAOIs (risk of hypertensive crisis),
-  other serotonergic substances (serotonin syndrome risk), or alcohol
-  (increased nausea and unpredictable effects)
-- **Mental health contraindications:** Avoid in individuals with personal or
-  family history of psychosis, schizophrenia, or severe bipolar disorder
-- **Harm potential:** Generally considered to have low physical toxicity; no
-  confirmed fatalities; long-term effects are unstudied due to novelty
-
-## See Also
-
-- [[4-acetoxy-dmt|4-AcO-DMT]] — N,N-dimethyl analogue with greater potency and depth
-- [[4-ho-mipt|4-HO-MiPT]] — related synthetic tryptamine with distinct character
-- [[5-meo-mipt|5-MeO-MiPT]] — N,N-dimethylisopropyl tryptamine ("Moxy")

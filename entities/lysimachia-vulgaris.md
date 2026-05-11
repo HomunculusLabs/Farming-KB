@@ -27,13 +27,13 @@ The species is a tall, robust plant that produces conspicuous spikes of bright y
 
 Despite its common name, yellow loosestrife is unrelated to purple loosestrife, Lythrum salicaria. The shared name arises from historical medicinal use rather than botanical relationship.
 
-Lysimachia vulgaris has been introduced to North America, where it is considered invasive in some wetland habitats. It can form dense monotypic stands that displace native vegetation.
+Lysimachia vulgaris has been introduced to [[guzman-psilocybin-mushrooms-north-america]], where it is considered invasive in some wetland habitats. It can form dense monotypic stands that displace native vegetation.
 
 ## Taxonomy and Morphology
 
 Lysimachia vulgaris was described by Carl Linnaeus in 1753 in Species Plantarum. The genus Lysimachia contains approximately 180 species distributed primarily across temperate and subtropical regions of the Northern Hemisphere.
 
-The generic name honors King Lysimachus of Thrace, who is said to have discovered the plant's medicinal properties. The specific epithet vulgaris means common, reflecting the plant's widespread distribution.
+The generic name honors King Lysimachus of Thrace, who is said to have discovered the plant's [[panax-ginseng]]. The specific epithet vulgaris means common, reflecting the plant's widespread distribution.
 
 The plant grows from a creeping rhizome that produces multiple erect stems. Stems are unbranched, 60 to 150 centimeters tall, and prominently angled or winged.
 
@@ -59,7 +59,7 @@ The plant is strongly associated with wetland habitats including stream banks, p
 
 Lysimachia vulgaris is also found in damp meadows, ditches, and railway embankments. It is tolerant of moderate disturbance and can colonize recently cleared wet ground.
 
-The species was introduced to North America in the early 19th century as an ornamental garden plant. It has since naturalized in wetlands across the northeastern United States and the Pacific Northwest.
+The species was introduced to North America in the early 19th century as an ornamental garden plant. It has since naturalized in wetlands across the northeastern United States and the [[psilocybin-north-america-pacific-northwest]].
 
 In North America, Lysimachia vulgaris can form extensive clonal colonies along waterways. Its competitive ability is enhanced by its vigorous rhizomatous growth habit.
 
@@ -77,9 +77,9 @@ Several insect herbivores feed on Lysimachia vulgaris. The chrysomelid beetle Ga
 
 The foliage is a food source for larvae of several moth species. Leaf-mining flies of the genus Phytomyza have been recorded creating mines in the leaves.
 
-In North American wetlands, dense stands of Lysimachia vulgaris can reduce plant diversity. The species shades out smaller native plants and may alter soil chemistry through allelopathic root exudates.
+In [[growing-gourmet-north-american-reishi-species]] wetlands, dense stands of Lysimachia vulgaris can reduce plant diversity. The species shades out smaller native plants and may alter soil chemistry through allelopathic root exudates.
 
-Fungal pathogens recorded on the species include rust fungi of the genus Uromyces and powdery mildew caused by Erysiphe species. These pathogens rarely cause significant damage.
+Fungal pathogens recorded on the species include rust fungi of the genus Uromyces and [[cervantes-powdery-mildew-prevention-treatment]] caused by Erysiphe species. These pathogens rarely cause significant damage.
 
 ## Cultivation
 
@@ -87,37 +87,4 @@ Lysimachia vulgaris is cultivated as an ornamental plant for wetland and wildlif
 
 The plant prefers consistently moist soil and tolerates shallow standing water. It performs best in full sun but tolerates partial shade in hotter climates.
 
-Propagation is straightforward from seed sown in spring or autumn. Division of established clumps in early spring is the most common vegetative propagation method.
-
-The species spreads aggressively by rhizomes and can become invasive in garden settings. Containment barriers may be necessary to prevent unwanted spread into adjacent areas.
-
-Several cultivars are available in the horticultural trade. These include compact forms and selections with variations in flower size and plant height.
-
-The plant is generally pest-free in cultivation. Slugs and snails may feed on young growth in spring, but established plants are rarely troubled.
-
-Lysimachia vulgaris is useful in constructed wetlands and bioswales for stormwater management. Its root system contributes to water filtration and nutrient uptake in engineered wetland systems.
-
-## Ethnobotany
-
-The common name loosestrife derives from the plant's historical use as a calming agent. The genus Lysimachia was traditionally believed to have the power to pacify conflicts and soothe aggressive animals.
-
-In medieval European herbalism, the plant was placed on the yokes of oxen to prevent fighting between paired animals. This folk belief is reflected in the common name.
-
-The dried aerial parts were used as a topical wound treatment in several European folk medicine traditions. Compresses of bruised leaves were applied to cuts and abrasions.
-
-A decoction of the root was traditionally used as an astringent for diarrhea and dysentery. The tannin content of the root contributes to these medicinal properties.
-
-Native American peoples in regions where the plant has naturalized have used it as a topical treatment for skin conditions. The plant has no significant history of use as a food crop.
-
-Yellow loosestrife has been used as a yellow dye plant. The flowers and leaves yield a pale yellow pigment suitable for dyeing wool and other natural fibers.
-
-## See Also
-
-- [[primula-veris|Primula veris]]
-- [[primula-vulgaris|Primula vulgaris]]
-- [[menyanthes-trifoliata|Menyanthes trifoliata]]
-- [[plantago-major|Plantago major]]
-- [[solidago-canadensis|Solidago canadensis]]
-- [[salix-alba|Salix alba]]
-- [[echinacea-purpurea|Echinacea purpurea]]
-- [[achillea-millefolium|Achillea millefolium]]
+Propagation is straightforward from seed sown in spring or autumn. Division of established clumps in early spring is the most common [[hamilton-vegetative-propagation]] method.

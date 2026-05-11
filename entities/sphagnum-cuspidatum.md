@@ -87,31 +87,3 @@ The species exhibits a characteristic **phenotypic plasticity** in branch length
 Photosynthetic rates are adapted to low light and low temperature conditions typical of high-latitude peatlands. Maximum net photosynthesis occurs at 15-20 degrees C, with sustained positive carbon assimilation possible at temperatures near 0 degrees C.
 
 [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] relies primarily on atmospheric deposition and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation by associated cyanobacteria. Phosphorus uptake occurs through efficient capture of dilute orthophosphate from the very low concentrations available in rain-fed bog water.
-
-## Conservation Status
-
-*Sphagnum cuspidatum* is currently assessed as **Least Concern** globally due to its wide circumboreal distribution and generally stable populations. However, peatland drainage, commercial forestry, and agricultural conversion have eliminated significant habitat across its southern range.
-
-In parts of central and western Europe, an estimated 90% of original peatland area has been lost or severely degraded over the past three centuries. Remaining populations of *S. cuspidatum* are increasingly fragmented and isolated within protected reserves.
-
-Climate change poses an additional long-term threat through altered precipitation patterns, increased drought frequency, and rising temperatures that may exceed the physiological tolerances of the species. Warmer, drier summers could reduce bog pool habitat and favor hummock species.
-
-Peatland restoration efforts increasingly recognize the importance of *S. cuspidatum* as a recolonizer of rewetted bog surfaces. The species readily establishes from persistent spore banks and vegetative fragment dispersal when appropriate hydrological conditions are restored.
-
-The species serves as a model organism in bryology and plant physiology research due to its ecological importance and ease of collection. Studies of *S. cuspidatum* have contributed significantly to understanding of peatland carbon dynamics and moss desiccation biology.
-
-Commercial harvesting of Sphagnum peat for horticultural substrates continues to impact peatland habitats globally. Growing awareness of peatland carbon storage value is driving regulatory restrictions on extraction in several European countries.
-
-## See Also
-
-- [[sphagnum-capillifolium]]
-
-- [[cladonia-rangiferina]]
-- [[usnea-barbata]]
-- [[pertusaria-amara]]
-- [[lobaria-pulmonaria]]
-- [[nephroma-arcticum]]
-- [[cladonia-portentosa]]
-- [[lecanora-muralis]]
-- [[melanelia-fuliginosa]]
-- [[plagiomnium-cuspidatum]]

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium.
+  - Barkworth, M.E. et al. (2007). "Manual of Grasses for guzman-psilocybin-mushrooms-north-america." Intermountain Herbarium.
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - USDA NRCS. "Koeleria macrantha." PLANTS Database.
   - Cope, T.A. & Gray, A. (2009). "Grasses of the British Isles." BSBI Handbook No. 13.
@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-**Koeleria macrantha** (Ledeb.) Schult., commonly known as prairie junegrass or June grass, is a perennial cool-season bunchgrass native to grasslands, open woodlands, and rocky slopes across much of North America, Europe, and Asia. It is one of the most widely distributed grasses in the Northern Hemisphere.
+**Koeleria macrantha** (Ledeb.) Schult., commonly known as prairie junegrass or June grass, is a perennial cool-season bunchgrass native to grasslands, open woodlands, and rocky slopes across much [[berry-growing]], Europe, and Asia. It is one of the most widely distributed grasses in the Northern Hemisphere.
 
-The species typically grows 20–60 cm tall and forms dense, compact tussocks with fine, involute leaves. It produces silvery to golden panicles in late spring to early summer, lending it both ornamental appeal and ecological significance.
+The species typically grows 20–60 cm tall and forms dense, compact tussocks with fine, involute leaves. It produces silvery to golden panicles in late spring to early summer, lending it both ornamental appeal [[lichen-biology-guide]].
 
-Prairie junegrass is valued for its early-season forage quality, drought tolerance, and ability to persist on thin, infertile soils. It is increasingly used in native lawn alternatives, green roof installations, and ecological restoration projects.
+Prairie junegrass is valued for its early-season forage quality, [[dighton-fungal-drought-tolerance-plant-water-relations]], and ability to persist on thin, infertile soils. It is increasingly used in native lawn alternatives, green roof installations, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 ## Taxonomy and Morphology
 
@@ -83,35 +83,8 @@ Several turf-type selections have been developed, including 'Barleria' and 'Bark
 
 Koeleria macrantha is an important early-season forage species in native grasslands. It greens up earlier than most warm-season species and provides nutritious, palatable forage in spring and early summer when other grasses are dormant.
 
-Crude protein content ranges from 8–15% during the vegetative stage, making it one of the higher-quality cool-season native grasses available to grazing animals. Palatability declines after seed set as stems become coarse and fibrous.
+Crude protein content ranges from 8–15% during the [[cannabis-vegetative-stage]], making it one of the higher-quality cool-season native grasses available to grazing animals. Palatability declines after seed set as stems become coarse and fibrous.
 
 The dense, fibrous root system contributes significantly to soil stability on dry, erosive sites. Root-to-shoot ratios of 3:1 or higher have been reported, reflecting the species' investment in below-ground biomass.
 
 Several Lepidoptera species use Koeleria as a larval host plant, including grassland skipper butterflies. The compact growth form provides nesting cover for ground-nesting birds in open habitats.
-
-In alpine and subalpine meadow ecosystems, Koeleria macrantha is a key component of the resident vegetation matrix. Its early phenology allows it to complete much of its annual growth cycle before the brief alpine growing season ends.
-
-The species is moderately fire-tolerant due to its basal meristem position and dense tussock habit. It resprouts quickly after fire and may benefit from the removal of accumulated thatch and competing vegetation.
-
-## Cultural and Economic Significance
-
-Koeleria macrantha has been used as a forage grass for centuries by pastoral communities across its range. On western rangelands, it is considered a desirable species that provides nutritious early-season grazing for cattle, sheep, and wildlife.
-
-The species is gaining commercial importance in the sustainable turfgrass industry. As water conservation regulations become more stringent in arid and semi-arid regions, native grass alternatives to conventional turf are increasingly in demand.
-
-In ecological restoration, Koeleria macrantha is valued for its ability to establish on disturbed, low-fertility sites. It is commonly used in mine reclamation, roadside stabilization, prairie reconstruction, and degraded rangeland rehabilitation.
-
-The species has potential as a component of green roof and bioswale plantings due to its drought tolerance, low growth habit, and adaptability to shallow substrates. Research is ongoing into its performance in extensive green roof systems.
-
-Several Native American peoples traditionally used the seeds of Koeleria and related species as a food source. The small grains were gathered, parched, and ground into flour, supplementing diets when more productive seed crops were unavailable.
-
-## See Also
-
-- [[festuca-ovina]]
-- [[deschampsia-caespitosa]]
-- [[danthonia-spicata]]
-- [[schizachyrium-scoparium]]
-- [[briza-media]]
-- [[stipa-tenuissima]]
-- [[pennisetum-alopecuroides]]
-- [[molinia-caerulea]]

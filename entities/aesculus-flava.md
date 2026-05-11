@@ -13,7 +13,7 @@ sources:
   - USDA NRCS (2024). "Aesculus flava." PLANTS Database.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]]: Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Cappiello, P. & Shadow, D. (2005). "Dogwoods, Lilacs, Magnolias, and More." Timber Press.
 ---
 
@@ -27,13 +27,13 @@ Yellow buckeye is one of the most shade-tolerant species among the large Aesculu
 
 In its native range, yellow buckeye contributes to the structural diversity of Appalachian cove forests. Its relatively fast juvenile growth rate allows it to compete effectively with other understory hardwoods for canopy gaps created by disturbance events.
 
-The species has been planted extensively beyond its native range as a landscape tree in parks, campuses, and large residential properties across temperate North America and Europe. Its tolerance of urban conditions is moderate, though it performs best in areas with reliable growing-season moisture.
+The species has been planted extensively beyond its native range as a landscape tree in parks, campuses, and large residential properties across temperate [[guzman-psilocybin-mushrooms-north-america]] and Europe. Its tolerance of urban conditions is moderate, though it performs best in areas with reliable growing-season moisture.
 
 ## Taxonomy and Morphology
 
 Aesculus flava was first described by John Hope in 1788 as Aesculus octandra, a name still encountered in older forestry literature. The currently accepted epithet flava was published by Solander in 1788 and has priority under the International Code of Nomenclature.
 
-The species belongs to the family Sapindaceae (soapberry family), following the reclassification of Hippocastanaceae based on molecular phylogenetic evidence. It is placed in section Pavia along with other North American buckeyes.
+The species belongs to the family Sapindaceae (soapberry family), following the reclassification of Hippocastanaceae based on molecular phylogenetic evidence. It is placed in section Pavia along with other [[growing-gourmet-north-american-reishi-species]] buckeyes.
 
 The twigs are stout and glabrous, with large, prominent lenticels and conspicuous shield-shaped leaf scars. Buds are large and sticky, covered in reddish-brown scales that exude a resinous material when crushed. Terminal buds may exceed 2 centimeters in length.
 
@@ -41,7 +41,7 @@ The leaves are palmately compound with five (occasionally seven) leaflets radiat
 
 The inflorescence is an erect panicle 15–25 centimeters long bearing 30–70 individual flowers. Flowers are pale yellow, sometimes with a subtle orange blush at the petal margins, and are arranged on a pubescent axis. Each flower has four petals and produces abundant nectar, making the tree attractive to pollinators.
 
-The fruit is a smooth, leathery capsule roughly 4–6 centimeters in diameter, usually containing one or two large glossy brown seeds. Unlike the spiny capsules of Aesculus hippocastanum, yellow buckeye capsules are essentially spineless, with only slight wrinkling or low tubercles.
+The fruit is a smooth, leathery capsule roughly 4–6 centimeters in diameter, usually containing one or two large glossy brown seeds. Unlike the spiny capsules of [[aesculus-hippocastanum]], yellow buckeye capsules are essentially spineless, with only slight wrinkling or low tubercles.
 
 ## Distribution and Habitat
 
@@ -53,9 +53,9 @@ Optimal growth occurs on deep, moist, well-drained loams derived from limestone 
 
 Yellow buckeye typically occupies intermediate to upper slope positions within its forest communities, rarely found in bottomland floodplains. It is moderately shade-tolerant in youth, capable of persisting for decades beneath a closed canopy before release opportunities arise.
 
-Elevation ranges from approximately 150 to 1500 meters above sea level, with the healthiest populations occurring between 400 and 1000 meters in the central and southern Appalachians. At lower elevations, competition from faster-growing species such as Liriodendron tulipifera limits its abundance.
+Elevation ranges from approximately 150 to 1500 meters above sea level, with the healthiest populations occurring between 400 and 1000 meters in the central and southern Appalachians. At lower elevations, competition from faster-growing species such as [[liriodendron-tulipifera]] limits its abundance.
 
-The species demonstrates moderate drought tolerance once established, though prolonged water deficits during the growing season cause premature leaf senescence. It is also moderately resistant to windthrow due to a deep and well-developed root system.
+The species demonstrates moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though prolonged water deficits during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] cause premature leaf senescence. It is also moderately resistant to windthrow due to a deep and well-developed root system.
 
 Natural regeneration is most successful on disturbed sites where mineral soil is exposed and competing vegetation is reduced. Seedlings establish most readily under partial canopy cover that provides protection from desiccation while allowing sufficient light for growth.
 
@@ -65,9 +65,9 @@ Yellow buckeye is propagated from seed, which requires a period of cold stratifi
 
 Transplanting success is highest when trees are moved as small container-grown stock or bare-root seedlings, as established taproots make mature specimens difficult to relocate. Young trees establish readily in partial shade but grow faster with increasing light availability.
 
-In cultivation, the species is hardy in USDA Zones 4–8 and prefers consistent moisture during the growing season. It is notably resistant to the leaf blotch and leaf scorch that commonly afflict Aesculus hippocastanum, making it a superior choice for ornamental planting in areas where horse chestnut performs poorly.
+In cultivation, the species is hardy in USDA Zones 4–8 and prefers consistent moisture during the [[extending-growing-season]]. It is notably resistant to the leaf blotch and leaf scorch that commonly afflict Aesculus hippocastanum, making it a superior choice for ornamental planting in areas where horse chestnut performs poorly.
 
-Pruning requirements are minimal beyond the removal of dead, damaged, or crossing branches during the dormant season. The species develops a strong central leader naturally, though double leaders occasionally form in open-grown specimens and should be corrected early.
+Pruning requirements are minimal beyond the removal of dead, damaged, or crossing branches during the dormant season. The species develops a strong [[comparison-central-leader-vs-open-center-fruit-tree-training]] naturally, though double leaders occasionally form in open-grown specimens and should be corrected early.
 
 The wood is light, soft, and creamy-white, with little commercial value for timber. It has been used historically for carving, woodenware, and occasionally for pulpwood. The seeds were traditionally carried as good-luck charms, though their toxicity precludes any practical consumption.
 
@@ -81,41 +81,10 @@ Buckeye wood has occasionally been used for artificial limb manufacture due to i
 
 Yellow buckeye flowers are an important nectar source for native bees, bumblebees, and ruby-throated hummingbirds during the late spring bloom period. The floral architecture facilitates both bee and hummingbird visitation, reflecting a generalist pollination strategy.
 
-The seeds are consumed by squirrels, which cache them for winter use, and by deer on occasion. The toxicity of aesculin limits widespread predation, and many cached seeds germinate in subsequent growing seasons, contributing to natural regeneration.
+The seeds are consumed by squirrels, which cache them for winter use, and by deer on occasion. The toxicity of aesculin limits widespread predation, and many cached seeds germinate in subsequent [[jeavons-climate-adaptation-growing-seasons]], contributing to natural regeneration.
 
-Native American peoples historically used buckeye seeds for fish poisons, leveraging the saponin content to stupefy fish in slow-moving streams. The crushed seeds were also carried as protective charms and used in traditional medicine practices, despite their inherent toxicity.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples historically used buckeye seeds for fish poisons, leveraging the saponin content to stupefy fish in slow-moving streams. The crushed seeds were also carried as protective charms and used in traditional medicine practices, despite their inherent toxicity.
 
 Several caterpillar species feed on yellow buckeye foliage, including the io moth (Automeris io) and the walnut caterpillar (Datana integerrima). These herbivores typically cause only minor defoliation and do not significantly impact tree health under normal population levels.
 
-Verticillium wilt caused by Verticillium dahliae is the most serious disease affecting cultivated yellow buckeye, though infections are relatively uncommon compared to other landscape trees. Symptoms include unilateral branch dieback, chlorotic foliage, and in severe cases, rapid tree decline.
-
-The species provides cavity habitat for nesting birds and denning mammals when mature specimens develop heartwood decay. Its dense canopy creates shaded microhabitats that support shade-adapted herbaceous species in forest understory communities.
-
-## Related Species
-
-Aesculus flava is most closely related to Aesculus pavia (red buckeye), with which it occasionally hybridizes where their ranges overlap in the southeastern United States. The hybrid, known as Aesculus × marylandica, exhibits intermediate floral and foliage characteristics.
-
-Compared to Aesculus hippocastanum (horse chestnut), yellow buckeye has smoother fruit capsules, generally taller mature form, and superior resistance to foliar diseases. Horse chestnut is native to the Balkan Peninsula and is widely planted as an ornamental in temperate regions worldwide.
-
-Aesculus glabra (Ohio buckeye) occupies a more western and northwestern distribution centered on the Ohio River Valley and extends into the Great Plains. It is typically smaller in stature than yellow buckeye and has smaller flower panicles.
-
-Aesculus californica (California buckeye) is a distinct western species adapted to summer-dry Mediterranean climates and winter-deciduous habit. It is the only buckeye species native to California and exhibits significant drought tolerance.
-
-The genus Aesculus contains approximately 13–19 recognized species distributed across North America, Europe, and Asia. Molecular studies support the division into four sections corresponding to geographic regions, with yellow buckeye placed in section Pavia alongside the other North American species.
-
-Hybridization within the genus is relatively common where species ranges overlap, producing intermediates that can complicate field identification. Natural hybrids involving Aesculus flava are occasionally encountered at the margins of its distribution.
-
-The maximum recorded age for yellow buckeye is approximately 250–300 years, based on increment core samples from old-growth stands in the Great Smoky Mountains. Growth rate averages 30–60 centimeters per year in height during the first two decades under favorable conditions.
-
-## See Also
-
-- [[aesculus-hippocastanum]]
-- [[aesculus-pavia]]
-- [[quercus-alba]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[tilia-cordata]]
-- [[juglans-nigra]]
-- [[nyssa-sylvatica]]
-- [[liquidambar-styraciflua]]
-- [[betula-pendula]]
+Verticillium wilt caused by [[verticillium-dahliae]] is the most serious disease affecting cultivated yellow buckeye, though infections are relatively uncommon compared to other landscape trees. Symptoms include unilateral branch dieback, chlorotic foliage, and in severe cases, rapid tree decline.

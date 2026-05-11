@@ -8,16 +8,16 @@ created: 2026-05-10
 # Parisian Maraichage History
 
 La culture maraichère — the intensive market gardening tradition of Paris — represents
-one of the most remarkable achievements in the history [[psychedelic-research-legal-history-united-states]] of urban agriculture. Between
+one of the most remarkable achievements in the history [[psychedelic-research-legal-history-united-states]] of [[urban-agriculture-and-rooftop-farming]]. Between
 1850 and 1900, the Parisian maraichers (market gardeners) developed a system of
-year-round vegetable production that fed the city of Paris entirely with locally grown
+year-round [[coleman-french-historical-winter-vegetable-production]] that fed the city of Paris entirely with locally grown
 produce, achieving levels of productivity, quality, and sustainability that remain
 inspiring to this day. Eliot Coleman draws extensively on this tradition as historical
 inspiration for the modern winter harvest system. (see [[coleman-rye-straw-mat-cold-frame-insulation]]).
 
 ## Origins and Development
 
-The earliest developments in French protected cultivation began in the royal potager
+The earliest developments in French [[coleman-protected-cultivation]] began in the royal potager
 (vegetable garden) at Versailles under Jean-Baptiste de La Quintinie in the 1670s and
 1680s. La Quintinie developed primitive predecessors of the cold frame and
 demonstrated that fresh vegetables could be produced out of season through careful
@@ -41,12 +41,12 @@ agriculture on a massive scale.
 The average Parisian market garden was between one and two acres in size. Despite
 this small footprint, productivity was extraordinary. Growers achieved at least four
 and usually up to eight harvests per year from the same piece of ground. The
-combination of succession planting, interplanting, and season extension meant that
+combination of [[coleman-succession-planting]], interplanting, [[cold-climate-farming-and-season-extension]] meant that
 multiple crops occupied the same bed simultaneously. A single hotbed might be sown
 with broadcast radish and carrot seed, then interplanted with lettuces. The radishes
 harvested first, making room for carrots growing among the lettuces. When the lettuces
 were harvested, the carrots completed their growth. After the carrots, cauliflower
-transplants were set out. This level of intensive production from small acreage has
+transplants were set out. This level of [[mollison-designers-market-garden-intensive-production-design]] from small acreage has
 rarely been matched since.
 
 ## The Horse Manure System
@@ -87,36 +87,3 @@ to deposit the manure where needed. This extreme space efficiency maximized the
 proportion of land devoted to growing.
 
 ## Organic Philosophy
-
-The Parisian maraichers arrived at organic principles through practical experience
-rather than ideology. As early as 1870, Vincent Gressent wrote in Le potager moderne
-that chemical fertilizers "stimulate the plant and produce quantity, but to the
-detriment of quality" and that "insect pests only attack weak, sickly plant
-specimens lacking proper nutrition." He pointed to the Parisian gardens themselves as
-proof — where copious compost use and rational crop rotations were practiced, pest
-problems simply did not occur.
-
-## Decline and Legacy
-
-The Parisian system declined in the early twentieth century as automobiles replaced
-horses (eliminating the manure supply), urban expansion consumed garden land, and
-chemical fertilizers shifted agriculture toward extensive monoculture. The techniques
-were partially transplanted to Britain after 1905 but never achieved the same level
-of perfection there.
-
-Coleman's visit to Louis Savier's garden at Banvilliers, nine miles south of Paris,
-in 1974 provided a direct link to this tradition. Savier's two-and-a-half-acre farm
-used many of the same techniques — intensive interplanting, compost-based fertility,
-protected cultivation — adapted with modern materials. The visit was a transformative
-experience for Coleman and directly influenced the development of the Four Season
-Farm system.
-
-The factors that distinguished the Parisian system — location, sustainability,
-quality, and productivity — are the same factors that Coleman identifies as the keys
-to success for twenty-first-century market gardeners.
-
-## See Also
-
-- [[cold-house-winter-harvest-system]]
-- [[mobile-greenhouses]]
-- [[winter-succession-planting-schedule]]

@@ -23,7 +23,7 @@ specific [[cannabis-cultivar-effects-soil-microbiome]].
 
 ## Experiment 2: Two Cultivars, Two Soil Types
 
-The second experiment grew White Widow and Maui Wowie across two distinct
+The second experiment grew [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]] and [[maui-wowie]] across two distinct
 soils, providing a more rigorous test of the two-tier model.
 
 ### Unweighted UniFrac
@@ -62,7 +62,7 @@ Combining experiments confirmed robustness of all three factors:
 
 In the pooled weighted analysis, strain (R2 = 0.301) nearly matched soil
 type (R2 = 0.323), demonstrating that cultivar genotype is almost as
-important as soil chemistry for community structure.
+important as soil chemistry for [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 ## Inter-Compartment Distance Comparisons
 
@@ -88,35 +88,3 @@ mixed support for the first step of the two-tier model.
 
 Mean abundance of the 51 OTUs differentiating sample types showed
 progressive decorrelation from soil to root:
-
-- Bulk soil vs rhizosphere: Pearson's rho = 0.92
-- Rhizosphere vs endorhiza: Pearson's rho = 0.63
-- Bulk soil vs endorhiza: Pearson's rho = 0.42
-
-The high soil-rhizosphere correlation (0.92) indicates minimal community
-restructuring at the rhizosphere, while the sharp drop to 0.63 reflects
-strong host filtering during root colonization.
-
-## PCoA Key Findings
-
-Principal coordinate analysis from experiment 2 confirmed the beta-
-diversity patterns visually:
-
-- Unweighted PC1 (32.06% variance): Dominated by soil type
-- Unweighted PC2 (11.34%): Sample type differentiation
-- Weighted PC1 (34.51%): Dominated by strain
-- Weighted PC2 (25.41%): Additional sample type structure
-
-The shift from soil-dominated (unweighted) to strain-dominated (weighted)
-PC1 encapsulates the core finding: soil determines composition while
-cultivar determines abundance structure.
-
-## See Also
-
-- [[cannabis-microbiome-unifrac-beta-diversity-analysis]]
-
-- [[alpha-beta-diversity-cannabis-root-microbiomes]]
-
-- [[cannabis-cultivar-microbiome-specificity]] for cultivar-level effects
-- [[microbial-alpha-diversity-soil-plant-gradient]] for diversity patterns
-- [[otu-differential-abundance-cannabis-microbiome]] for OTU-level analysis

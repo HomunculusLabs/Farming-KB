@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -86,29 +87,3 @@ The black wattle grows constantly throughout the year, always sending out new
 shoots that attract aphids and scales. These in turn support growing ladybug
 populations. Planting five or so trees per quarter-acre keeps scales and mites
 to a minimum. The tree serves as a protective [[query-how-do-i-design-habitat-for-beneficial-insects]] insects.
-
-### Replanting Old Orchards
-
-For rundown orchards 40 to 50 years old, Fukuoka recommends planting many
-acacias among the fruit trees. After five to six years, fell all fruit trees
-and acacias at once, then replant the entire orchard with three to four-year
-saplings. This method replenishes soil far better than bulldozing and
-replanting, and rejuvenates the land completely.
-
-## Soil Management Philosophy
-
-Soil improvement by [[comparison-natural-farming-vs-permaculture]] takes time: five to ten years to build six
-inches of topsoil through cover crop cultivation. Physical improvement and
-human effort alone have only temporary effect. Natural farming uses living
-organisms to physically and chemically improve soil, a process going
-hand-in-hand with [[holzer-fruit-growing-marginal-climates]]. The beneficial effects show up in tree
-lifespans two to three times longer than those of scientifically grown trees.
-
-Fukuoka applied no lime or micronutrients and noted no deficiencies. The
-constant change in cover crop conditions showed only that soil changes
-constantly and that fruit trees adapt continuously to such changes.
-## Related
-
-- [[fukuoka-orchard-herbs-cover-crop-classification]]
-
-- [[fukuoka-theory-three-ways-of-farming]] for the philosophical framework

@@ -24,7 +24,7 @@ sources:
 
 Pinus densiflora, commonly known as the Japanese red pine or Korean red pine, is a medium-sized coniferous tree in the family Pinaceae. It is native to East Asia, occurring in Japan, Korea, northeastern China, and the Russian Far East.
 
-The species is one of the most widely distributed and culturally significant pines in East Asia. It has been planted extensively for timber production, erosion control, and ornamental purposes throughout its native range.
+The species is one of the most widely distributed and culturally significant pines in East Asia. It has been planted extensively for timber production, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], and ornamental purposes throughout its native range.
 
 Japanese red pine typically reaches 20–35 meters in height, with a straight trunk up to 1 meter in diameter. It is characterized by its distinctive orange-red to red-brown bark that peels in thin, papery plates.
 
@@ -54,9 +54,9 @@ Japanese red pine is a pioneer species that colonizes disturbed sites and open a
 
 It is hardy in USDA zones 5–7 and tolerates cold winter temperatures to -30°C. The species is also relatively salt-tolerant and grows well in coastal environments.
 
-In Korea, the species is the dominant tree species in many mountainous regions and forms extensive pure stands. These pine forests are a defining feature of the Korean landscape and have deep cultural significance.
+In Korea, the species is the dominant tree species in many mountainous regions and forms extensive pure stands. These pine forests are a defining feature of the Korean landscape and have deep [[amanita-muscaria]].
 
-The species is adapted to nutrient-poor soils through its ectomycorrhizal associations. These fungal partnerships greatly expand the root system's capacity to absorb water and minerals from impoverished substrates.
+The species is adapted to nutrient-poor soils through its [[ectomycorrhizal-associations]]. These fungal partnerships greatly expand the root system's capacity to absorb water and minerals from impoverished substrates.
 
 ## Cultivation and Uses
 
@@ -70,41 +70,20 @@ The species is a popular bonsai subject, particularly in the literati and inform
 
 In traditional Korean and Japanese landscaping, Japanese red pine is a key element of temple gardens and palace grounds. It is pruned to accentuate its natural form and to frame scenic views.
 
-The species has been introduced to Europe and North America as an ornamental tree. It is relatively uncommon in Western cultivation but is valued for its distinctive bark and graceful form.
+The species has been introduced to Europe and [[guzman-psilocybin-mushrooms-north-america]] as an ornamental tree. It is relatively uncommon in Western cultivation but is valued for its distinctive bark and graceful form.
 
 ## Ecological Role
 
 Pinus densiflora forests support diverse ecosystems across East Asia. The canopy provides habitat for numerous bird species, including the Japanese pygmy woodpecker and varied tit.
 
-The species is the primary host for the Korean pine mushroom (*Tricholoma matsutake*), one of the most valuable wild mushrooms in Asia. Matsutake forms ectomycorrhizal associations with red pine roots.
+The species is the primary host for the Korean pine mushroom (*[[tricholoma-matsutake]]*), one of the most valuable wild mushrooms in Asia. Matsutake forms ectomycorrhizal associations with red pine roots.
 
 Red pine forests are subject to periodic pine wilt disease caused by the pine wood nematode (*Bursaphelenchus xylophilus*). This disease, transmitted by longhorn beetles, has devastated red pine stands in Japan since the early 20th century.
 
 Fire plays an important ecological role in maintaining red pine forests. The species has thick bark that provides moderate fire resistance, and its serotinous seed cones release seeds after fire events.
 
-Red pine needles contribute to acidic soil conditions through slow decomposition. This creates a distinct forest floor community adapted to low pH and low nutrient availability.
+Red pine needles contribute to acidic soil conditions through slow decomposition. This creates a distinct forest floor community adapted to low pH and low [[ph-and-nutrient-availability-garden-soils]].
 
 Several species of Asian thrushes and flycatchers depend on red pine forests for nesting and foraging habitat during migration. The open canopy structure allows a diverse understory to develop.
 
 ## Cultural Significance
-
-Pinus densiflora is the national tree of both Japan and South Korea. It appears on the South Korean 100-won coin and is deeply embedded in the artistic traditions of both cultures.
-
-In Korean culture, the red pine symbolizes longevity, steadfastness, and loyalty. Pine trees are a central motif in traditional Korean landscape painting (*sansuhwa*) and poetry.
-
-The species is associated with the Korean New Year celebration, where pine branches are used in traditional rituals. Pine pollen and needles have been used in Korean traditional medicine for centuries.
-
-In Japan, red pine is one of the "three iconic trees" alongside cedar and cypress. It features prominently in ukiyo-e woodblock prints and is planted at Shinto shrines and Buddhist temples.
-
-The species has been cultivated for centuries in East Asian gardens, where its bark color and branch architecture are highly prized. Dwarf and contorted cultivars have been selected for rock gardens and container culture.
-
-## See Also
-
-- [[pinus-sylvestris]]
-- [[pinus-nigra]]
-- [[pinus-ponderosa]]
-- [[pinus-strobus]]
-- [[pinus-contorta]]
-- [[picea-abies]]
-- [[larix-decidua]]
-- [[juniperus-communis]]

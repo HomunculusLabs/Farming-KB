@@ -88,10 +88,3 @@ Arbutoid mycorrhizae are ecologically important because they:
 The arbutoid condition is thought to represent an evolutionary intermediate or hybrid between ectomycorrhizal and [[singh-ericoid-mycorrhizal-fungi-remediation]] strategies. The combination of Hartig net (ectomycorrhizal feature) and intracellular colonization (ericoid/arbuscular feature) in a single root system is unique among mycorrhizal types and may reflect the evolutionary plasticity of the ericaceous mycorrhizal habit.
 
 ## See Also
-
-- mycorrhiza — Overview of all mycorrhizal types
-- [[ericoid-and-orchid-mycorrhizae]] — The related ericoid symbiosis within the same plant family
-- ericaceae — The plant family containing arbutoid hosts
-- [[monotropoid-mycorrhiza]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
-- mycorrhizal-networks-interplant-carbon-transfer

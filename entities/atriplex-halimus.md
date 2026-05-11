@@ -20,7 +20,7 @@ sources:
 
 # Atriplex halimus
 
-**atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[food-forest]] ry, windbreaks, livestock forage, and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
+**atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[food-forest]] ry, windbreaks, [[permaculture-livestock-forage-systems]], and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
 
 ## Taxonomy
 
@@ -41,11 +41,11 @@ The epithet *halimus* derives from Greek *hals* (salt) + *limne* (marsh), refere
 
 **Fruit/seed:** Achene enclosed in hardened bracteoles, 3–8 mm. Seeds small (1.5–2 mm), brown, lens-shaped. Good germination but viability declines after 2–3 years.
 
-**Root system:** Deep taproot (2–5+ m) accessing groundwater, plus extensive lateral roots (1–3 m spread). Key to drought tolerance and soil stabilization.
+**Root system:** Deep taproot (2–5+ m) accessing groundwater, plus extensive lateral roots (1–3 m spread). Key to [[dighton-fungal-drought-tolerance-plant-water-relations]] and soil stabilization.
 
 ## Distribution and Habitat
 
-Native to the Mediterranean basin and Middle East: southern Europe, North Africa, Turkey, Israel, Jordan, Iraq, Iran, Canary Islands. Widely introduced in arid regions including Australia, South Africa, California, and South America.
+Native to the Mediterranean basin and Middle East: southern Europe, North Africa, Turkey, Israel, Jordan, Iraq, Iran, Canary Islands. Widely introduced [[fukuoka-natural-farming-in-arid-regions]] including Australia, South Africa, California, and [[guzman-psilocybin-mushrooms-south-america]].
 
 Habitats: coastal dunes and cliffs, salt marshes, semi-arid rangeland, degraded land, saline agricultural soils.
 
@@ -81,17 +81,10 @@ One of the most important drought-resistant forages:
 
 ### Soil Rehabilitation
 - **Saline remediation:** Absorbs and accumulates salt, gradually reducing soil salinity
-- **Erosion control:** Extensive roots stabilize slopes, dunes, degraded soils
-- **Organic matter:** Leaf litter and root turnover improve soil structure
+- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]:** Extensive roots stabilize slopes, dunes, degraded soils
+- **Organic matter:** Leaf litter and root turnover [[query-how-do-fungi-improve-soil-structure]]
 - **Dune stabilization:** Widely planted for coastal fixation
 - **[[phytoremediation]]:** Used for heavy metal-contaminated soils
 
 ### hippophae-rhamnoides
 - elaeagnus-angustifolia
-
-- Atriplex canescens — Four-wing saltbush, North American relative
-- elaeagnus-angustifolia — Russian olive, salt-tolerant nitrogen fixer
-- [[silvopasture]] — Integration of trees and forage for livestock
-
-See [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] for more on Query Best Nut Trees For A Permaculture Food Forest By Climate Zone.
-See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

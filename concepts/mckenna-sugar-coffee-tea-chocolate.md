@@ -88,17 +88,3 @@ McKenna's characterization of sugar as an addictive drug has gained substantial 
 The health consequences of the sugar economy that McKenna described are now measured in epidemic proportions. The global rise in type 2 diabetes, obesity, cardiovascular disease, and [[cannabis-metabolic-syndrome-research]] is directly correlated with increased sugar consumption over the past century. The World Health Organization recommends limiting added sugar intake to less than 10% of total caloric intake, yet average consumption in many developed countries exceeds 15-20%. The food industry's systematic addition of sugar to processed foods — a practice that exploits the neurological reward mechanisms McKenna identified — has made it difficult for consumers to reduce their intake even when aware of the health risks.
 
 ## The Shift from Psychoactive to Addictive Plants
-
-McKenna's broader argument is that the modern era represents a fundamental shift in humanity's relationship with psychoactive plants. Where ancient and indigenous cultures primarily valued plants for their consciousness-expanding properties — their ability to produce visionary experiences, spiritual insight, and communal bonding — modern commercial culture has systematically promoted and distributed plants for their addictive and stimulant properties, which enhance productivity and consumption rather than insight and connection.
-
-The contrast between psilocybin mushrooms (which McKenna celebrates) and sugar, coffee, and tea (which he critiques) illustrates this shift. Psilocybin dissolves habitual patterns of thought, promotes ego-transcendence, and produces experiences that are inherently anti-materialist. Sugar, caffeine, and theobromine reinforce habitual behavior, enhance focus on routine tasks, and promote consumption. For McKenna, the historical suppression of visionary plants and the promotion of addictive stimulants is not coincidental but reflects the dominator culture's preference for substances that serve its values of control, productivity, and conformity.
-
-## See Also
-- [[mckenna-archaic-revival]]
-- [[psychedelic-consciousness-models]]
-- [[psychedelic-mushroom-set-and-setting]]
-
-## Contemporary Relevance
-
-McKenna's analysis of sugar, coffee, tea, and chocolate anticipates several themes that have become central to contemporary public health and food policy debates. The recognition that sugar acts as an addictive substance has entered mainstream medical discourse, and the critique of food industry practices that exploit neurochemical reward mechanisms has gained widespread acceptance. Meanwhile, the growing interest in traditional and indigenous plant medicines — including the therapeutic use of psilocybin, ayahuasca, and peyote — represents a partial fulfillment of McKenna's call for an "Archaic Revival" that recovers the consciousness-expanding plant relationships that modern culture has suppressed. The tension between these two categories of plant use — the addictive stimulants that serve industrial productivity and the visionary entheogens that challenge it — remains one of the defining features of the modern relationship between humans and psychoactive plants.
-Understanding this tension is essential for any comprehensive assessment of how psychoactive substances have shaped and continue to shape human civilization.

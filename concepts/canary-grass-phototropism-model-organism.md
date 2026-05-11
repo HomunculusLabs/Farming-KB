@@ -1,5 +1,5 @@
 ---
-title: Canary Grass as a Model Organism in Phototropism Research
+title: [[chamovitz-darwin-phototropism-experiment-canary-grass]] [[phototropism]] Model Organism
 tags: [botany, phototropism, model-organism, darwin, plant-physiology, history-of-science]
 date: 2026-04-28
 updated: 2026-04-28
@@ -28,7 +28,7 @@ it an ideal subject for experiments that require precise localisation of light
 stimuli and surgical manipulation.
 
 Several practical qualities made canary grass an excellent choice for phototropism
-research. The seedlings grow quickly under controlled conditions, their coleoptiles
+research. The seedlings grow quickly under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]], their coleoptiles
 are long enough to allow clear observation of bending responses, and their
 phototropic sensitivity is both rapid and pronounced. These characteristics enabled
 Darwin to observe measurable bending within just three hours of exposing dark-grown
@@ -88,63 +88,3 @@ the plant in ways unrelated to [[plant-vision-and-light-perception-mechanisms]].
 small cap that blocked all light placed over its tip. This seedling also failed
 to bend, indicating that it was not merely the physical presence of the tip that
 mattered, but its ability to receive light. The tip had to actually perceive the
-directional illumination to initiate bending.
-
-**Condition 4: Tip covered with a clear glass cap.** The fourth seedling had a
-cap made of transparent glass placed over its tip. This seedling bent normally
-toward the light. The glass allowed light to reach the tip while still placing a
-physical barrier there, ruling out the possibility that the lightproof cap in
-condition three was mechanically preventing bending.
-
-**Condition 5: Middle section covered with a lightproof tube.** The fifth
-seedling had an opaque tube wrapped around the middle section of its coleoptile,
-where the bending normally occurred. This seedling also bent normally,
-demonstrating that the bending tissue itself did not need to receive light
-directly.
-
-## Interpreting the Results
-
-The pattern of results was unambiguous: only those seedlings whose tips could
-receive light exhibited phototropic bending. The bending tissue in the midsection
-did not need direct light exposure, but the tip absolutely required it. Darwin
-concluded that the coleoptile tip was the "eye" of the plant, perceiving the
-direction of the light source and transmitting this information downward to the
-bending region, which executed the directional growth response through differential
-[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] on the shaded versus illuminated sides.
-
-This separation of perception and response was a revolutionary insight. It implied
-the existence of a mobile signalling mechanism, a substance produced at the tip in
-response to light that travelled downward to influence growth patterns. Decades
-later, this substance was identified as the plant hormone auxin (indole-3-acetic
-acid), which accumulates on the shaded side of the coleoptile and promotes cell
-elongation there, causing the plant to curve toward light.
-
-## Historical Context and Broader Significance
-
-Darwin's canary grass experiments were among the first rigorous demonstrations
-that plants possess a genuine sensory system for light detection. Before this
-work, the prevailing assumption among many botanists was that light-driven bending
-was simply a byproduct of photosynthesis, with more energy available on the
-illuminated side producing more growth. Darwin's dark-room methodology decisively
-disproved this hypothesis.
-
-The choice of canary grass as a model organism proved so productive that later
-researchers continued to use grass coleoptiles for phototropism studies well into
-the [[coleman-louis-savier-twentieth-century-maraicher]]. Frits Went's famous auxin-collection experiments of the
-1920s, in which he placed agar blocks on decapitated coleoptile tips to absorb the
-diffusible growth substance, were performed primarily with oat (*Avena sativa*)
-coleoptiles, which share the same basic architecture as canary grass.
-
-## Modern Legacy
-
-While contemporary plant science has largely adopted *Arabidopsis thaliana* as
-its primary genetic model organism, the coleoptile-based phototropism assay
-## See Also
-
-- [[darwin-five-condition-phototropism-experimental-design]]
-
-- [[chamovitz-darwin-phototropism-experiment-canary-grass]]
-
-- [[julius-von-sachs-blue-light-phototropism-discovery]]
-- [[plant-vision-and-phototropism]]
-- [[plant-photoreception-and-phototropism]]

@@ -10,9 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation." University of Wisconsin Press.
   - Isely, D. (1975). "Leguminosae of the dmt-containing-plants-united-states-halpern: II. Subfamily Caesalpinioideae." Memoirs of the New York Botanical Garden.
-  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference and selection guide." World Agroforestry Centre.
+  - Orwa, C. et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
   - Little, E.L. & Wadsworth, F.H. (1964). "Common Trees of Puerto Rico and the Virgin Islands." USDA Forest Service.
 ---
 
@@ -20,7 +21,7 @@ sources:
 
 **Delonix regia**, commonly known as the **royal poinciana**, **flamboyant**, or **flame tree**, is a tropical deciduous tree in the family Fabaceae, subfamily Caesalpinioideae.
 
-Native to Madagascar, it is now widely planted throughout tropical and subtropical regions as one of the world's most spectacular ornamental trees.
+Native to Madagascar, it is now widely planted throughout tropical and subtropical regions as one of the world's most spectacular [[hamilton-ornamental-trees]].
 
 The species produces massive displays of brilliant scarlet-red flowers that blanket the canopy for weeks during the dry season.
 
@@ -58,11 +59,11 @@ Each pod contains 20–40 hard, oblong seeds approximately 1.5 cm long.
 
 The species was introduced to tropical regions worldwide beginning in the early 19th century and has become naturalized in many areas.
 
-It is extensively planted throughout the Caribbean, Central and South America, [[psilocybe-southeast-asia-pacific]], East Africa, and northern Australia.
+It is extensively planted throughout the Caribbean, Central and [[guzman-psilocybin-mushrooms-south-america]], [[psilocybe-southeast-asia-pacific]], East Africa, and northern Australia.
 
 In its native Madagascar, it occurs in seasonally dry forest on well-drained soils at low elevations (0–500 meters).
 
-Outside its native range, it thrives in tropical and subtropical climates with annual rainfall of 700–1,800 mm.
+Outside its native range, it thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual rainfall of 700–1,800 mm.
 
 The tree is frost-sensitive and does not tolerate temperatures below 5 °C, limiting its cultivation to frost-free zones.
 
@@ -87,40 +88,3 @@ Pruning is required to develop strong structure, as young trees tend to produce 
 [[cervantes-seed-production-storage]] begins at 5–8 years of age, with mature trees producing thousands of pods annually.
 
 ## Uses and Applications
-
-The primary use of *D. regia* is ornamental, as a shade and street tree throughout the tropics.
-
-The wood is light and soft (density ~0.5 g/cm³), making it suitable for lightweight construction, carvings, and fence posts.
-
-In some regions, the wood is used as fuel and for [[mollison-designers-charcoal-production-biochar-soil-amendment]], though it is not considered a premium timber species.
-
-The pods and leaves serve as fodder for livestock, particularly during dry seasons when other forage is scarce.
-
-The tree provides moderate shade and is nitrogen-fixing through rhizobial root nodulation, improving soil fertility.
-
-In traditional medicine, bark extracts have been used to treat fever, and flower preparations are applied as astringents.
-
-The species is widely used in agroforestry systems as a [[mollison-designers-legume-shade-tree-pasture-systems]] for coffee, cacao, and vanilla plantations.
-
-## Ecology
-
-In its native Madagascar, *D. regia* provides habitat and nectar for native pollinators, including sunbirds and hawkmoths.
-
-The flowers are pollinated primarily by birds and large insects, with the nectar-rich structure adapted to ornithophilous pollination.
-
-The pods are dispersed by wind and water, contributing to the species' ability to naturalize outside its native range.
-
-In invaded habitats, the tree can form dense stands that shade out native understory vegetation and alter fire regimes.
-
-Despite its ecological impacts as an invasive species, it remains a keystone ornamental in tropical urban landscapes.
-
-## See Also
-
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]
-- [[albizia-julibrissin]]
-- [[ceratonia-siliqua]]
-- [[tamarindus-indica]]
-- [[gleditsia-triacanthos]]
-- [[erythrina-fusca]]
-- [[melia-azedarach]]

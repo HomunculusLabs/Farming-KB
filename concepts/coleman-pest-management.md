@@ -1,7 +1,7 @@
 ---
-title: cannabis-pest-management-guide (Greenhouse Pests, Deer, Rabbits, Voles, Birds)
+title: Coleman Pest Management
 created: 2026-04-26
-sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009), Chapter 17
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009), Chapter 17
 tags:
   - pest-management
   - voles
@@ -16,11 +16,11 @@ updated: 2026-04-26
 
 # Pest Management
 
-Eliot Coleman notes that in the winter harvest, [[vegetable-insect-and-disease-control]]
+[[eliot-coleman]] notes that in the [[cold-house-winter-harvest-system]], [[vegetable-insect-and-disease-control]]
 pests have not been a real consideration. The operation has found
 little new to report since Coleman discussed this topic in earlier
 books. The major pest that has developed is not a bug or a microbe
-but a mammal: the meadow vole. This chapter details the battle of
+but a mammal: the [[coleman-meadow-vole-pest-management]]. This chapter details the battle of
 wits with voles and the broader philosophy of pest prevention on
 the small farm.
 
@@ -87,56 +87,3 @@ interception traps placed along vole travel routes. Traps placed
 at burrow entrances, across surface runs between burrows, and
 against walls (where voles like to scurry along edges) caught voles
 based on accurate placement rather than bait attraction.
-
-## The Unbaited Box Trap
-
-The ultimate solution capitalizes on a common vole behavior: the
-tendency to enter small dark holes. Coleman built wooden boxes
-about 12 inches long, 8 inches wide, and 6 inches deep with a
-bottom attached but a removable top. At one corner of each 8-inch
-end, a rough mouse-sized hole is drilled at floor level. An
-unbaited snap trap is placed inside each entrance hole.
-
-When voles do what voles do (dart into small dark holes), the
-traps catch them. After the first vole enters, the box smells
-like vole and subsequent voles show no aversion. Every morning
-the top is lifted, traps are emptied and reset. This solution
-has been, and continues to be, impressively effective. It is
-the "surefire homemade vole trap" that Coleman now relies on.
-
-## The Pest Philosophy
-
-Beyond voles, Coleman's broader pest management philosophy
-emphasizes prevention over cure. The first response to any
-problem is prevention rather than treatment. For insect pests
-and diseases, Coleman advocates addressing the underlying causes
-(soil health, crop stress, proper rotation) rather than treating
-symptoms with sprays or other palliatives.
-
-The winter harvest itself provides a degree of natural pest
-exclusion. The cold temperatures that characterize winter
-greenhouse production are inhospitable to most insect pests,
-and the absence of outdoor host plants during freezing weather
-limits reinfection pressure. This is one of the often-overlooked
-advantages of winter growing: [[hamilton-pest-and-disease-control-organic]] pressure is
-naturally much lower than in warm-season production.
-
-## Other Wildlife Considerations
-
-While voles are the primary pest, Coleman acknowledges the
-importance of physical exclusion for other wildlife. The
-greenhouse structures themselves provide protection against
-deer, rabbits, and birds for the [[root-crops-growing-guide]] inside. For
-outdoor crops, standard fencing and netting approaches apply.
-The overall approach favors working with biological systems
-rather than engaging in continuous [[solomon-root-exudates-and-allelopathy]] against
-pests.
-
-## See Also
-
-- [[coleman-meadow-vole-pest-management]]
-
-- [[coleman-insects-diseases]]
-- coleman-greenhouse-soil-management
-- [[coleman-four-season-farm]]
-- [[coleman-tools-small-farm]]

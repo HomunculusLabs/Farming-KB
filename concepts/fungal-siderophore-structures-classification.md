@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal siderophore structures classification and Classification"
+title: Fungal Siderophore Structures Classification
 created: 2026-04-28
 tags: [siderophores, mycorrhiza, iron-acquisition, fungal-chemistry, nutrient-cycling]
 date: 2026-04-25
@@ -46,8 +46,8 @@ hexapeptide structure containing three N5-hydroxyornithine residues that
 coordinate the ferric iron. The ferrichrome family is found across a broad
 taxonomic range of fungi and is particularly prominent among mycorrhizal
 ascomycetes. Ferricrocin has been identified as the main siderophore of
-the widespread ectomycorrhizal fungus cenococcum geophilum, several
-Wilcoxina species forming ectendomycorrhizae, and the dark septate root
+the widespread ectomycorrhizal fungus [[cenococcum-geophilum]], several
+Wilcoxina species forming ectendomycorrhizae, and the [[dark-septate-endophytes]] root
 endophyte Phialocephala fortinii.
 
 ## Coprogen and Fusarinine Families
@@ -70,10 +70,10 @@ Instead, rhizoferrins are citrate-containing polycarboxylate-type
 siderophores originally isolated from Zygomycetes. The rhizoferrin
 structure features two citric acid moieties linked through a diamine
 bridge, with carboxylate groups serving as the iron-coordinating ligands.
-Whether some mycorrhizal fungi may produce both hydroxamate and
+Whether some [[arbuscular-mycorrhizal-fungi]] may produce both hydroxamate and
 polycarboxylate-type siderophores remains an open question, and represents
 an interesting area for future investigation into the metabolic versatility
-of mycorrhizal fungi.
+[[query-what-are-the-different-types-of-mycorrhizal-fungi]].
 
 ## Siderophore Production in Mycorrhizal Fungi
 
@@ -81,20 +81,10 @@ Siderophore production by mycorrhizal fungi is stimulated by lowering the
 external concentration of ferric iron. Under some circumstances, not only
 omission of iron compounds but deferration of the nutrient medium using
 Chelex resin may be required to achieve maximum siderophore release. The
-nutrient requirements of mycorrhizal fungi vary strongly, necessitating
+[[cannabis-soil-and-nutrient-requirements]] of mycorrhizal fungi vary strongly, necessitating
 customized media for each species to maximize siderophore production. The
 addition of specific precursors for siderophore biosynthesis can further
 enhance production levels. Siderophore release by the extraradical mycelium
 of mycorrhizal fungi is particularly significant because this hyphal
 network extends beyond the root zone into bulk soil where iron availability
 may be most limiting.
-
-## Ecological Significance of Mycorrhizal Siderophores
-
-The ecological significance of fungal siderophores extends beyond simple
-iron acquisition. In the [[rhizosphere-fungal-community-analysis-rrna-rdna]], as
-iron is often a limiting resource that shapes [[edaphic-factors-microbial-community-structure]] structure.
-Furthermore, siderophores can complex with other metals including toxic
-heavy metals, potentially contributing to mycorrhizal-siderophores-iron-chelation for iron chelation mechanisms
-- [[siderophores-mycorrhizal-fungi]] for ecological roles
-- [[fungal-heavy-metal-biosorption-detailed]] for metal chelation

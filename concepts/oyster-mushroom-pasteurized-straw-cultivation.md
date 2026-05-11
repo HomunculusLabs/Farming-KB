@@ -1,9 +1,9 @@
 ---
-title: "Oyster oyster mushroom pasteurized straw cultivation Straw Cultivation"
+title: Oyster Mushroom Pasteurized Straw Cultivation
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (mycopesticides-stamets, 1993)"
+  - "growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (mycopesticides-stamets, 1993)"
   - "cotter-oyster-mushroom-cultivation (MushWorld, 2004)"
 type: concept
 tags: [cultivation, mushroom-cultivation, oyster-mushroom]
@@ -11,11 +11,11 @@ tags: [cultivation, mushroom-cultivation, oyster-mushroom]
 
 # Oyster Mushroom Pasteurized Straw Cultivation
 
-Pasteurized straw cultivation is the most accessible and widely practiced [[query-what-is-the-kratky-method-for-growing-cannabis]] oyster mushrooms worldwide. It requires minimal equipment, uses inexpensive and abundant [[fungi-in-composting-and-agricultural-waste-conversion]], and is forgiving enough for beginners while remaining the foundation of many commercial operations.
+Pasteurized straw cultivation is the most accessible and widely practiced [[query-what-is-the-kratky-method-for-growing-cannabis]] [[cultivation-of-oyster-mushrooms]] worldwide. It requires minimal equipment, uses inexpensive and abundant [[fungi-in-composting-and-agricultural-waste-conversion]], and is forgiving enough for beginners while remaining the foundation of many commercial operations.
 
 ## Why Pasteurization Instead of Sterilization
 
-Unlike [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, straw does not require full sterilization. Pasteurization (heating to 160 degrees F / 71 degrees C) selectively kills temperature-sensitive competitor microorganisms while leaving a population of beneficial organisms that provide some biological protection for the mushroom mycelium. The mushroom mycelium must fully colonize the straw within approximately two weeks; beyond this window, the straw naturally contaminates regardless of pasteurization quality.
+Unlike [[oyster-mushroom-supplemented-sawdust-blocks]] substrates, straw does not require full sterilization. Pasteurization (heating to 160 degrees F / 71 degrees C) selectively kills temperature-sensitive competitor microorganisms while leaving a population of beneficial organisms that provide some biological protection for the [[antimicrobial-compounds-mushroom-mycelium]]. The mushroom mycelium must fully colonize the straw within approximately two weeks; beyond this window, the straw naturally contaminates regardless of pasteurization quality.
 
 Straw is a "forgiving" substrate because it contains lower readily-available nitrogen than supplemented substrates, making it less attractive to competitors after pasteurization.
 
@@ -76,7 +76,7 @@ For operations processing one ton or more per batch:
 7. Positive-pressure chamber with HEPA-filtered air during cooling
 8. Cool to below 105 degrees F (38 degrees C); clean inoculation area with 10% bleach solution
 
-One ton of chopped, soaked wheat straw occupies approximately 250 cubic feet (10 x 10 x 2.5 ft). Five dry tons fills a 1,000 square foot growing room.
+One ton of chopped, soaked wheat straw occupies approximately 250 cubic feet (10 x 10 x 2.5 ft). Five dry tons fills a 1,000 square foot [[duggar-mushroom-growing-room-design]].
 
 ### Method 3: Lime Water Soak (Vietnam Method)
 
@@ -87,56 +87,3 @@ One ton of chopped, soaked wheat straw occupies approximately 250 cubic feet (10
 5. Use as substrate
 
 ## Inoculation and Spawning
-
-### Spawning Rate
-
-- **Commercial spawn (purchased)**: 3-7% of substrate dry weight
-- **Self-produced spawn**: 8-15% of substrate dry weight (recommended for faster colonization)
-- **India block method**: 2% on wet basis, layered
-
-### Inoculation Procedure
-
-1. Cool pasteurized straw below 105 degrees F (38 degrees C)
-2. Broadcast grain spawn over the straw by hand
-3. Wear gloves; wash hands thoroughly every 15 minutes
-4. Mix spawn and straw thoroughly together
-5. Pack into growing containers
-
-### India Block Method (MushWorld)
-
-A traditional layered approach:
-
-1. Place a wooden frame (60 x 45 cm) on a smooth floor with jute ropes and poly sheet
-2. Fill with approximately 5 cm of cooled straw, compress with wooden lid
-3. Sprinkle spawn over the surface
-4. Repeat 5 times to achieve 25-30 cm depth
-5. Fold plastic sheet over the top and tie with ropes
-6. Punch 2 mm breathing holes in the block
-7. Place blocks on shelves in single layer for incubation
-
-## Spawn Run
-
-- **Temperature**: Maintain at 25 degrees C (77 degrees F); reduce by 3-5 degrees C from species optimum to account for respiration heat
-- **Duration**: 12-15 days for full colonization
-- **Ventilation**: Minimal; high CO2 encourages [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- **Light**: Not required
-
-## Fruiting Initiation
-
-Upon full colonization:
-
-1. Remove plastic covering (for block method) or open bags
-2. Maintain humidity above 85% through frequent misting
-3. Provide fresh air exchanges (4-8 per hour)
-4. Maintain appropriate temperature for the species (typically 10-15 degrees C drop from spawn run)
-5. Provide light at 500-1,000 lux
-
-Pins become visible approximately 9 days after opening blocks (India method). Maintain high humidity and proper ventilation throughout fruitbody development.
-
-## Harvest
-
-Most growers take 3 flushes. Mushrooms from the third flush are often dried for maximum dry matter recovery. Harvest when caps reach approximately 5 cm diameter. Stop irrigation 1-2 days before harvest. Second flush typically appears 15 days after the first.
-
-## See Also
-- [[pasteurized-straw-cultivation-techniques]]
-- [[straw-based-oyster-mushroom-cultivation]]

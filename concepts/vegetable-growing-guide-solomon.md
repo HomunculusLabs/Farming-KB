@@ -1,5 +1,5 @@
 ---
-title: fukuoka-semi-wild-vegetable-growing-natural-method Guide (Solomon)
+title: Vegetable Growing Guide Solomon
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapter 10
+Source: Gardening When It Counts, [[steve-solomon]], Chapter 10
 
 Solomon's chapter on individual vegetables is organized by importance to a self-sufficient homestead and difficulty to grow. He provides the essentials and expects the reader to understand earlier chapters on soil, spacing, and nutrition.
 
@@ -65,7 +65,7 @@ Key insights from Weaver's root studies:
 When root systems compete:
 - Plants can't efficiently acquire nutrients — "starving in the midst of plenty"
 - Growth slows, insect susceptibility increases
-- Fruit production decreases
+- [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] decreases
 - Disease susceptibility increases
 
 ## Kale and Cold-Hardy Brassicas
@@ -88,21 +88,3 @@ Solomon uses abbreviated notation:
 - **"In hills"**: Seeds sown in highly fertile mounds, sometimes with additional fertilizer
 
 ## Climate and Variety Selection
-
-Solomon acknowledges he cannot provide precise planting dates or variety recommendations for all regions. The best sources for local data:
-- Government agricultural extension offices (you pay taxes to support them — use them)
-- Regional seed companies that trial in your area
-- Experienced local gardeners
-
-## Soil Preparation Reminder
-
-The sowing depth and thinning instructions assume beds have been properly prepared with:
-- Good tilth from double-digging or fork-loosening
-- Adequate fertility ([[garden-bed-preparation]], [[root-competition-plant-spacing-solomon]], [[solomon-growing-cucurbits-guide]]
-
-- [[organic-vegetable-garden-rotation-deep-beds]]
-- [[growing-vegetables-with-less-fertilizer]]
-
-## See Also
-
-- [[solomon-municipal-compost-inadequacy-vegetable-growing]]

@@ -87,30 +87,3 @@ The fungus can be applied as conidial sprays, granular formulations, or bait sta
 The fungus persists in soil for months to years, providing residual pest control and reducing the need for repeated applications.
 
 ## Mass Production and Formulation
-
-Industrial production uses solid-state fermentation on rice, barley, or other grain substrates to generate high concentrations of conidia (>10⁹ conidia/g).
-
-Liquid fermentation (submerged culture) produces blastospores, which have shorter shelf life but are effective for certain application methods.
-
-Formulation technologies include oil-based suspensions, wettable powders, microencapsulated granules, and emulsifiable concentrates.
-
-Conidial viability is maximized by desiccating formulations to <5% moisture content and storing at 2–8°C, enabling shelf life of 12–18 months.
-
-UV protectants (e.g., Congo Red, lignin) are often added to field formulations to extend spore survival under sunlight exposure.
-
-## Ecological Safety
-
-*M. anisopliae* exhibits [[fukuoka-low-toxicity-pesticide-deception]] to mammals, birds, fish, and most non-target invertebrates, with LD50 values exceeding 10⁸ conidia/kg in rodent studies.
-
-The fungus does not produce mycotoxins in food crops at mycopesticides-entomopathogenic-fungi
-
-- [[metarhizium]]
-
-- [ophiocordyceps-unilateralis [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] nilateralis.md)
-- [[beauveria-bassiana|beauveria-bassiana]]
-- [[claviceps-purpurea|claviceps-purpurea]]
-- [[purpureocillium-lilacinum|purpureocillium-lilacinum]]
-- [[entomophthora-muscae|entomophthora-muscae]]
-- tolypocladium-ophioglossoides
-- [[cordyceps-militaris|cordyceps-militaris]]
-- [[permaculture]]

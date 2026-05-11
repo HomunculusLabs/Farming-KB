@@ -12,13 +12,13 @@ sources: []
 ## Overview
 
 Gotu kola is a low-growing, herbaceous perennial native to wetlands and
-marshy areas across tropical and subtropical Asia, Africa, and Australia. (see [[ginger-growing-guide]]).
+marshy areas across tropical and subtropical Asia, Africa, and Australia.
 One of the most important herbs in both Ayurvedic medicine (where it is
 called "Brahmi" or "Mandukaparni") and Traditional Chinese Medicine, gotu
 kola has been used for thousands of years as a brain tonic, wound healer,
 and meditation aid. It is often confused with bacopa (Bacopa monnieri),
 which shares the Ayurvedic name "Brahmi" but is a different plant with
-different properties. (see [[echinacea-growing-guide]]).
+different properties.
 
 ## Botanical Profile
 
@@ -31,7 +31,7 @@ different properties. (see [[echinacea-growing-guide]]).
 
 Gotu kola produces small, rounded, fan-shaped leaves on long, slender stems
 that root at nodes as they creep along the ground. Tiny pink to white flowers
-arise in small umbels. The entire above-ground plant is used medicinally. (see [[valerian-growing-guide]]).
+arise in small umbels. The entire above-ground plant is used medicinally.
 
 ## Medicinal Uses
 
@@ -53,13 +53,13 @@ Key medicinal applications:
 - Venous insufficiency: Clinical evidence supports its use for chronic venous
   insufficiency, varicose veins, and spider veins. Strengthens blood vessel
   walls and improves microcirculation.
-- Anxiety and stress reduction: Mild anxiolytic effect. Traditional use as a
+- Anxiety [[vipassana-mindfulness-and-stress-reduction-healing]]: Mild anxiolytic effect. Traditional use as a
   meditation aid supports its calming properties.
 - Anti-inflammatory: Reduces systemic inflammation markers.
 - Connective tissue support: Strengthens connective tissue, cartilage, and
   joint structures.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tea: Steep 1-2 teaspoons dried herb in hot water for 10 minutes
 - Tincture: Fresh or dried herb tincture (1:2 or 1:5 in 30-50% alcohol),
   30-60 drops 2-3 times daily
@@ -93,9 +93,9 @@ habit is similar to mint -- low, creeping, and spreading.
 
 Gotu kola can be grown in bog gardens, at pond edges, in rain gardens,
 or in shallow standing water (1-2 inches). It is excellent for greywater
-areas and constructed wetlands. In containers, use wide, shallow pots
+areas and [[comparison-constructed-wetlands-vs-bioswales]]. In containers, use wide, shallow pots
 without drainage holes, kept flooded with 1/2-1 inch of water at all times.
-Greenhouse growing works well in trays or beds with shade cloth (30-50%).
+[[cold-greenhouse-growing]] works well in trays or beds with shade cloth (30-50%).
 
 ### Soil Requirements
 Gotu kola prefers rich, loamy, slightly acidic soil (pH 5.5-7.0). It
@@ -132,7 +132,7 @@ From division:
 ### Care and Maintenance
 - Never let soil dry out -- the most critical care requirement
 - Maintain standing water in bog containers
-- Fertilize lightly every 4-6 weeks with liquid organic fertilizer
+- Fertilize lightly every 4-6 weeks with liquid [[complete-organic-fertilizer-cof]]
 - Pinch back runners to control spread
 - In cold zones, bring containers indoors before first frost
 - Overwinter indoors in bright light; reduce water slightly but do not let

@@ -1,6 +1,6 @@
 ---
-title: Icaros — icaros shamanic power songs Songs
-source: ayahuasca-visions
+title: [[icaros-shamanic-chanting]] [[icaros-power-songs]]
+source: [[ayahuasca-visions]]
 topics:
   - icaros
   - shamanic-songs
@@ -51,7 +51,7 @@ The primary function of an icaro is to call specific plant spirits and
 supernatural entities into the ceremonial space. Each song establishes a
 vibrational connection with its corresponding spirit, drawing that
 spirit's presence and power into the healing work. When a vegetalista
-sings during an ayahuasca ceremony, the spirit mothers of the brew's
+sings during an [[ayahuasca-ceremony-pharmacology-safety]], the [[spirit-mothers-of-plants]] the brew's
 plants and the dieted plants respond by making their presence known.
 Amaringo's paintings vividly depict this — spirits emerging from
 darkness as luminous beings, animals, and geometric patterns in response
@@ -64,7 +64,7 @@ vegetalista sings specific icaros for particular illnesses or spiritual
 conditions. The song acts as a vehicle for the plant spirit's healing
 intelligence, concentrating and directing it with precision. Icaros can
 extract harmful energies, restore energetic balance, and facilitate the
-purge essential to ayahuasca healing. Different icaros correspond to
+purge essential to [[mckenna-ayahuasca-healing-icaros-sound-suggestion]]. Different icaros correspond to
 different ceremony stages — opening the visionary space, guiding through
 difficult experiences, and closing the session.
 
@@ -88,58 +88,3 @@ revealing information about the patient's condition, appearing in
 visions that show the location and character of spiritual pathology.
 This diagnostic ability is among the most valued skills a vegetalista
 can develop.
-
-### Controlling the Visionary Experience
-
-During [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]], icaros function as steering mechanisms for
-the visionary experience. The vegetalista uses different songs to
-intensify visions, calm overwhelming experiences, redirect attention
-toward healing content, or help participants navigate challenging
-spiritual terrain. Amaringo's paintings show how the icaro shapes the
-visionary landscape — mountains rise and fall, rivers change course,
-and [[metzner-spirit-beings-multiple-realities-entheogens]] transform in response to the shaman's song.
-
-## Structure and Performance
-
-Icaros vary widely in musical characteristics. Some are simple repetitive
-melodies while others are complex compositions with elaborate vocal
-ornamentation. They may be whispered, sung softly, or projected with
-full vocal power depending on the situation. Rhythms often mimic natural
-sounds — bird calls, water movement, rustling leaves — reflecting the
-natural world from which plant spirits derive.
-
-Vegetalistas employ vocal techniques including whistling, humming,
-rhythmic chanting, and full-throated singing. Whistled icaros are
-particularly common and are believed to carry special power, as the
-high-pitched sound is considered closer to the frequency of spirit
-communication. Some icaros incorporate vocal sounds imitating animal
-calls, wind, and water.
-
-Icaros may be accompanied by simple instruments, most commonly the
-*chacapa* — a bundle of leaves producing a rustling sound when shaken,
-used to maintain rhythm and intensify the spiritual effect. Small drums,
-rattles, and flutes may also support the vocal melody.
-
-## Icaros in Shipibo Tradition
-
-The Shipibo people have developed an especially sophisticated
-relationship with icaros. Shipibo shamans sing icaros corresponding
-directly to their famous geometric designs (*quené*). Each design
-pattern is a visual representation of a specific icaro — the geometric
-lines encode the same spiritual information as the song. Shipibo women
-traditionally paint these designs on textiles and pottery, creating
-permanent visual records of plant spirits' songs.
-
-## Transmission and Lineage
-
-Icaros are transmitted from teacher to apprentice, but transmission is
-not rote learning. A vegetalista must diet with the same plants as their
-teacher to fully receive each icaro's power. Without the corresponding
-plant relationship, the song remains technically correct but
-spiritually inert. This ensures power and integrity are maintained
-across generations of practitioners.
-
-## See Also
-
-- [[ayahuasca-plant-spirits]]
-- [[shipibo-icaros-healing-songs]]

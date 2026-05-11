@@ -88,14 +88,3 @@ The multi-target pharmacology of CBD contrasts with single-mechanism pharmaceuti
 Conventional pharmaceutical treatments for anxiety include benzodiazepines (alprazolam, clonazepam, diazepam), SSRIs (sertraline, escitalopram), and buspirone.
 Benzodiazepines carry significant risks including dependence, tolerance, cognitive impairment, and potentially dangerous withdrawal syndromes.
 SSRIs require 4-6 weeks for therapeutic onset and can produce sexual dysfunction, weight gain, and emotional blunting.
-Cannabis offers a different pharmacological profile: rapid onset (minutes with inhaled, 1-2 hours with oral), no known risk of fatal overdose, and a different side effect profile.
-However, cannabis carries its own risks including cognitive effects, potential dependence with heavy use, and legal restrictions that vary by jurisdiction.
-The optimal approach for many patients may involve combining cannabis with therapy, lifestyle modifications, and [[cannabis-for-anxiety-disorders]]
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-for-depression]]
-- [[cannabis-chronic-pain-management]]
-- [[nervine-herbs-and-anxiety-relief]]
-
-## Source
-
-Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Anxiety section

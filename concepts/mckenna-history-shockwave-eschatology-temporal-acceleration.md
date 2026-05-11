@@ -88,9 +88,3 @@ the pattern itself is observable and significant.
 - [[cultural-acceleration-temporal-compression-human-history-mckenna]]
 
 - [[mckenna-history-as-eschatological-shockwave]]
-
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
--  iousness. Esalen.
-  Published 1992 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*.
-- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
-- McKenna, T. (1993). *Food of the Gods*. Bantam Books.

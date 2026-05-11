@@ -1,5 +1,5 @@
 ---
-title: Macrofungal macrofungal sampling design plots transects — Plots, Transects, and Adequacy
+title: Macrofungal Sampling Design Plots Transects
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Macrofungal Sampling Design — Plots, Transects, and Adequacy
 
-Sampling macrofungi requires careful consideration of spatial and temporal scales. The patchy distribution of sporocarps, variable fruiting patterns, and the difficulty of quantifying fungal individuals all present unique challenges.
+[[recommended-protocols-sampling-macrofungi]] requires careful consideration of spatial and temporal scales. The patchy distribution of sporocarps, variable fruiting patterns, and the difficulty of quantifying fungal individuals all present unique challenges.
 
 ## Fundamental Challenge: Individuals Cannot Be Distinguished
 
@@ -53,7 +53,7 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 - All sporocarps in plots removed and examined
 - Quantitative data: allows site comparisons
 - Detects inconspicuous and cryptic species
-- **Permanent plots:** Good for phenology, annual variation, defined area diversity
+- **Permanent plots:** Good for phenology, [[macrofungi-seasonality-annual-variation]], defined area diversity
 - **Moving plots:** Avoids disturbance effects but confounds location with annual variation
 
 ## Recommended Sampling Frequency
@@ -66,9 +66,9 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 ## Factors Affecting Species Richness
 
 ### Precipitation and Temperature
-- Precipitation is a better predictor of ectomycorrhizal fungal richness than vegetation type
+- Precipitation is a better predictor of [[ectomycorrhizal-fungal-ecology]] richness than vegetation type
 - Warm summers increase mycorrhizal sporocarp production in spruce forests but not pine
-- Spring and fall are main [[azurescens-fruiting-seasons-and-conditions]] in temperate regions with summer drought
+- Spring and fall are main [[azurescens-fruiting-seasons-and-conditions]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with summer drought
 - Excess moisture can also prevent fruiting in some species
 
 ### Vegetation
@@ -77,7 +77,7 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 - Grasslands, deserts, forests, and tundra have characteristic species
 
 ### Geography
-- Habitat diversity affects fungal richness more than geography per se
+- [[fungal-habitat-diversity]] affects fungal richness more than geography per se
 - Europe ranked lowest in fungal diversity (compared with other regions) despite most intensive collection — related to low tree diversity from Pleistocene extinctions
 - Cortinariaceae and discomycetes most diverse at middle/high latitudes
 - Saprobic Tricholomataceae most diverse at low latitudes
@@ -88,44 +88,3 @@ Sporocarps of many species have clumped distributions. Contiguous subplots are m
 - Ectomycorrhizal succession poorly documented outside plantations
 
 ## Determining Adequate Sampling
-
-### Species-Effort Curves
-- Plot species richness against cumulative sampling effort
-- Adequate when curve approaches asymptote
-- For macrofungi, this criterion is difficult or impossible to meet
-
-### Complementarity Tests
-- Measure how much new each additional sample contributes
-- Useful for comparing sampling efficiency between sites
-
-### Practical Rules
-- Each taxon should occur in at least two sampling units (ideal, rarely achievable)
-- Pilot studies determine required intensity
-- 21-year study: species richness estimators still did not stabilize
-
-## Indicator Species for Monitoring
-
-Pearson's criteria for fungal indicator taxa:
-1. Taxonomically stable and well known
-2. Well-known natural history
-3. Readily surveyed and manipulated populations
-4. Sensitive to disturbances
-5. Component of widely distributed higher taxon
-6. Exhibit habitat specificity
-7. Include species with economic value
-8. Distributions correlated with other, unrelated groups
-
-Macrofungi are sensitive to air pollution, logging, hurricanes, volcanic eruptions, and landslides.
-
-## See Also
-
-- [[biodiversity-sampling-protocol-design]]
-
-- [[sampling-design-macrofungal-surveys]]
-
-- [[macrofungal-sampling-protocols]]
-
-- [[fungal-diversity-indices-community-analysis]]
-- [[macrofungal-documentation-photography-spore-prints]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungi-forest-fire-succession-litter-dighton]]

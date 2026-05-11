@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [soil, agriculture]
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
@@ -86,25 +87,3 @@ The real value of soil testing emerges over time as results accumulate into a ma
 ## Soil Testing Frequency
 
 The appropriate frequency of soil testing depends on the intensity of land use and the management changes being implemented. For established perennial plantings with stable management, testing every 3-5 years is generally sufficient. For annual vegetable gardens where nutrients are removed with each harvest, testing every 1-2 years provides better guidance for fertilization decisions. After major management changes such as establishing a new garden, beginning a cover cropping program, or applying significant amendments, a follow-up test after one year helps assess the impact of the changes. Lowenfels recommends testing at the same time each year to make comparisons meaningful, as nutrient levels and pH can vary seasonally.
-
-## Organic Matter Testing and Its Significance
-
-Soil organic matter (SOM) is one of the most important indicators of soil health, and most soil tests include an organic matter percentage. SOM influences virtually every soil property: [[ph-and-nutrient-availability-garden-soils]], water holding capacity, aggregate stability, biological activity, and [[aact-disease-suppression-mechanisms-ingham]]. A typical agricultural soil has 2-5% organic matter, while a healthy garden soil should have 5-10% or higher. Building organic matter is a primary goal of organic gardening, but the process is slow -- increasing SOM by 1% typically requires adding several inches of compost or other organic material over several years. Monitoring SOM through regular soil testing provides a quantitative measure of whether management practices are actually building soil health.
-
-## Cation Exchange Capacity and Base Saturation
-
-Cation exchange capacity (CEC) is a measure of the soil's ability to hold positively charged nutrient ions (cations) including calcium, magnesium, potassium, and ammonium. Soils with high CEC (clay soils, soils high in organic matter) can hold more nutrients and buffer against pH changes more effectively than soils with low CEC (sandy soils). The base saturation percentage shows what proportion of the CEC is occupied by base cations (calcium, magnesium, potassium, sodium) versus hydrogen and aluminum. An ideal base saturation for most crops is approximately 65-75% calcium, 10-20% magnesium, 2-5% potassium, with hydrogen and aluminum making up the remainder. Adjusting base saturation through liming and mineral amendments is a powerful but often overlooked strategy for optimizing soil fertility.
-
-## pH Modification and Liming
-
-Adjusting soil pH is one of the most impactful actions a gardener can take based on soil test results. Most vegetables prefer a soil pH between 6.0 and 7.0, with slightly acidic conditions (6.2-6.8) being optimal for nutrient availability. When soil pH is too low (acidic), adding agricultural lime raises pH and supplies calcium. The amount of lime needed depends on the soil's current pH, the target pH, and the soil's buffering capacity (related to CEC and organic matter content). Over-liming is as problematic as under-liming, as excessive calcium can interfere with magnesium and potassium uptake. For alkaline soils (high pH), elemental sulfur or acidifying organic materials like pine needles can lower pH, though this process is slower and more difficult than raising pH with lime.
-
-## Micronutrient Testing
-
-While macronutrients (NPK) receive the most attention, micronutrient deficiencies can significantly impact plant health and productivity. Soil tests typically include measurements of iron, manganese, zinc, copper, boron, and sometimes molybdenum and chloride. Micronutrient availability is strongly influenced by soil pH: acidic soils tend to have higher availability of most micronutrients, while alkaline soils often have deficiencies of iron, manganese, and zinc. Organic matter plays a crucial role in micronutrient availability by forming complexes that prevent micronutrients from becoming unavailable through precipitation or adsorption. Diagnosing micronutrient deficiencies based solely on soil tests can be misleading, as tissue testing of plant leaves often provides a more accurate picture of actual nutrient uptake. Combining soil test data with plant tissue analysis and visual deficiency symptoms provides the most reliable basis for micronutrient management decisions.
-
-## Soil Testing Laboratories
-
-Selecting an appropriate soil testing laboratory is an important first step that affects the quality and usefulness of results. University-affiliated agricultural extension laboratories typically provide the most cost-effective testing for home gardeners, with reports formatted for non-specialist interpretation. Commercial agricultural laboratories offer more comprehensive analytical packages and faster turnaround times but at higher cost. When selecting a laboratory, gardeners should verify that the lab uses extraction methods appropriate for their soil type and region, as methods calibrated for one soil type may produce misleading results when applied to another. The lab's report format and interpretation guidelines should be clear and actionable, providing specific amendment recommendations rather than just raw numbers.
-
-## See Also

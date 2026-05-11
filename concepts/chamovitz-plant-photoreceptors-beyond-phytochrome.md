@@ -10,10 +10,10 @@ While phytochrome is the most famous plant photoreceptor, plants possess a sophi
 
 ## The Photoreceptor Families
 
-Plants detect light across the electromagnetic spectrum using several families of photoreceptor proteins. These include:
+Plants detect light across the [[electromagnetic-spectrum-plant-light-perception]] using several families of photoreceptor proteins. These include:
 
-- **Phytochromes** — detect red and far-red light (600–750 nm), regulating photoperiodism, [[cannabis-seed-germination-methods]], shade avoidance, and flowering
-- **Cryptochromes** — detect blue and UV-A light (320–500 nm), involved in circadian rhythms, de-etiolation, and flowering time
+- **Phytochromes** — detect red and far-red light (600–750 nm), regulating photoperiodism, [[cannabis-seed-germination-methods]], [[shade-avoidance-syndrome]], and flowering
+- **Cryptochromes** — detect blue and UV-A light (320–500 nm), involved in [[plant-circadian-rhythms]], de-etiolation, and flowering time
 - **Phototropins** — detect blue light (390–500 nm), mediating phototropism, chloroplast movement, and stomatal opening
 - **UVR8** — detects UV-B light (280–315 nm), triggering protective UV-responses
 - **ZEITLUPE family** — blue-light receptors involved in circadian clock regulation
@@ -22,7 +22,7 @@ Each photoreceptor family uses a different chromophore (light-absorbing molecule
 
 ## Cryptochromes: The Blue-Light Timekeepers
 
-Cryptochromes were first identified in Arabidopsis thaliana through mutants that showed altered flowering time. The name derives from the Greek "kryptos" (hidden) because these receptors were cryptic — they were present but their function was hidden until genetic screening revealed them.
+Cryptochromes were first identified in [[arabidopsis-thaliana]] through mutants that showed altered flowering time. The name derives from the Greek "kryptos" (hidden) because these receptors were cryptic — they were present but their function was hidden until genetic screening revealed them.
 
 Cryptochromes serve two fundamental roles in plants:
 
@@ -66,7 +66,7 @@ The discovery of UVR8 resolved a long-standing question in photobiology: how do 
 
 The ZEITLUPE (ZTL) family of blue-light photoreceptors plays a specialized role in circadian clock regulation. ZTL proteins contain both a blue-light sensing domain (LOV domain, similar to phototropins) and an F-box domain that targets proteins for degradation.
 
-ZTL functions as a blue-light-regulated timer: it uses light information to time the degradation of TOC1, a central component of the circadian oscillator. By controlling when TOC1 is removed, ZTL helps set the pace of the plant's internal clock.
+ZTL functions as a blue-light-regulated timer: it uses light information to time the degradation of TOC1, a central component of the circadian oscillator. By controlling when TOC1 is removed, ZTL helps set the pace of the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]].
 
 ## Cross-Talk Between Photoreceptor Systems
 
@@ -81,48 +81,9 @@ This integration allows plants to produce coherent responses to the complex spec
 
 ## Photoreceptor Evolution
 
-The photoreceptor families found in plants have deep evolutionary origins:
+The photoreceptor families found in plants have deep [[tryptamine]]:
 
 - Phytochromes exist in bacteria, algae, and all land plants
 - Cryptochromes are found in plants, animals (where they function in circadian rhythm), and some fungi
 - Phototropins are primarily found in green algae and land plants
 - UVR8 appears to be unique to the plant lineage
-
-The diversity of photoreceptor systems reflects the fundamental importance of [[plant-vision-and-light-perception-mechanisms]] to photosynthetic organisms. While animals typically use a single type of visual pigment (opsin-based), plants have evolved multiple, specialized photoreceptor families to extract maximum information from their light environment.
-
-## Agricultural Applications
-
-Understanding plant photoreceptors has practical implications for agriculture and horticulture:
-
-- Manipulating photoperiod through controlled lighting in greenhouses relies on phytochrome biology
-- Selecting crop varieties with altered photoreceptor sensitivity can optimize growth in different latitudes
-- Understanding cryptochrome signaling may help develop crops with modified flowering times
-- UV-B sensing pathways are relevant to predicting plant responses to ozone depletion
-
-## Comparative Sensitivity Across the Spectrum
-
-Different photoreceptor systems vary enormously in their sensitivity and dynamic range. Phytochromes are extraordinarily sensitive — a plant can detect far-red light levels far below the threshold of human perception. Cryptochromes operate across a broad range of blue light intensities, from dim moonlight to full sunlight. UVR8 can detect the very low levels of UV-B that penetrate the atmosphere, triggering protective responses even on cloudy days.
-
-The sensitivity of each system is tuned to its ecological function. Phototropism must work even under the dim light conditions of dawn or deep shade, explaining the high sensitivity of phototropins. Shade avoidance responses mediated by phytochrome detect the specific ratio of red to far-red light, which changes dramatically under a forest canopy compared to open sky.
-
-## Photoreceptors and Plant Behavior
-
-The concept of "plant behavior" has gained scientific legitimacy as photoreceptor research has revealed how plants actively orient themselves, track light sources, anticipate seasonal changes, and compete with neighbors for light. These are not reflexive responses but sophisticated information-processing behaviors enabled by the integrated photoreceptor network described above.
-
-Plants can distinguish between direct sunlight and light filtered through another plant's leaves. They can measure day length with precision of minutes. They can sense the quality of light reflected from surrounding vegetation and adjust their growth strategy accordingly. All of these capabilities depend on the coordinated action of multiple photoreceptor families working in concert.
-
-## Future Directions
-
-Emerging research is revealing additional layers of photoreceptor complexity. New photoreceptor candidates continue to be identified, and the signaling networks downstream of known photoreceptors are far more intricate than originally appreciated. The application of systems biology approaches — combining genomics, proteomics, and metabolomics — promises to reveal how photoreceptor signals are integrated at the molecular level to produce appropriate physiological responses.
-
-Recent work has also shown that photoreceptor signaling interacts with other sensory modalities. Temperature sensing, for example, is modulated by light signals, allowing plants to integrate multiple environmental cues when making developmental decisions. This multi-sensory integration further blurs the line between simple stimulus-response and genuine environmental awareness.
-
-The study of plant photoreceptors continues to reveal new layers of complexity in how plants perceive and respond to their light environment — a sensory capability that, while fundamentally different from animal vision, is remarkably sophisticated in its own right.
-## See Also
-
-- [[phytochrome-plant-photoreceptor]]
-- [[arabidopsis-thaliana]]
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[chamovitz-gravitropism-plant-knows-where-it-is]]
-- [[chamovitz-plant-senses-overview]]
-- [[plant-photoreceptors-and-mechanism-of-light-perception]]

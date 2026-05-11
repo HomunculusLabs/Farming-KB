@@ -13,12 +13,12 @@ different mineral types.
 Fungi on rock and mineral surfaces are important agents of:
 - **Bioweathering**: The biological breakdown of rocks and minerals, releasing
   nutrients into the soil ecosystem.
-- **Biogeochemical cycling**: Transformation of elements including carbon, nitrogen,
+- **[[gadd-fungal-metal-transformations-biogeochemical-cycling]]**: Transformation of elements including carbon, nitrogen,
   phosphorus, calcium, iron, and silicon.
 - **Soil formation**: The initial stages of pedogenesis (soil development) from
   parent rock material.
-- **Metal detoxification**: Some lithic fungi can transform toxic metals, relevant
-  to bioremediation of contaminated environments.
+- **[[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]]**: Some lithic fungi can transform toxic metals, relevant
+  to bioremediation of [[singh-fungal-biofilms-in-contaminated-environments]].
 
 ## Culture-Independent Molecular Techniques
 Traditional culturing methods capture only a small fraction of environmental fungal
@@ -27,7 +27,7 @@ diversity — the "culturable minority." Modern PCR-based approaches reveal the
 
 ### Denaturing Gradient Gel Electrophoresis (DGGE)
 DGGE separates PCR-amplified DNA fragments of the same length but different
-sequence composition. Applied to lithic fungal communities:
+sequence composition. Applied to lithic [[biodiversity-fungi-soil-fungal-communities]]:
 - DNA is extracted directly from rock samples (e.g., sandstone).
 - Fungal-specific primers amplify ribosomal DNA regions.
 - The resulting banding patterns serve as community fingerprints.
@@ -48,7 +48,7 @@ region of ribosomal DNA to generate community profiles.
 
 **Advantages**:
 - Highly sensitive and reproducible.
-- Suitable for environmental community analysis.
+- Suitable for environmental [[fungal-diversity-indices-community-analysis]].
 - High throughput enables large sample sets.
 
 **Limitations**:
@@ -57,21 +57,21 @@ region of ribosomal DNA to generate community profiles.
 - Must be combined with other phylogenetic methodologies for identification.
 
 ### Terminal Restriction Fragment Length Polymorphism (T-RFLP)
-T-RFLP analyses whole microbial community nucleic acids:
+T-RFLP analyses whole [[cannabis-cultivar-microbial-community-effects]] nucleic acids:
 - Fluorescently labelled PCR products are amplified from total environmental DNA.
 - Products are digested by restriction enzymes.
 - Fragments are analysed by a gene fragment sequencer.
 - Produces an electrophorogram for rapid sample comparison.
 
-T-RFLP has been used to investigate fungal and bacterial community dynamics in
+T-RFLP has been used to investigate fungal and [[rhizosphere-bacterial-community-dynamics]] in
 salt marshes, revealing considerable temporal variability with moderate spatial
 variability. Disadvantages include lack of instant phylogenetic information and
 the potential for spurious peaks from incomplete digestion.
 
 ## Mineralogical Influence on Fungal Communities
-A landmark study on weathered pegmatitic granite from the Wicklow Mountains,
+A [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] on weathered pegmatitic granite from the Wicklow Mountains,
 Ireland, demonstrated that mineralogy exerts strong selective pressure on fungal
-community structure:
+[[edaphic-determinants-cannabis-microbiome-community-structure]]:
 
 ### Experimental Design
 Large intact crystals of five mineral types were sampled from a single outcrop:
@@ -88,62 +88,3 @@ Large intact crystals of five mineral types were sampled from a single outcrop:
 | Granite | 23 |
 | Muscovite | 23 |
 | Plagioclase | 20 |
-| Quartz | 4 |
-
-### Key Findings
-- **Significant differences**: Fungal community structure differed significantly
-  between each mineral type (confirmed by randomization tests).
-- **Mineral-specific populations**: Strong associations were found between certain
-  ribotypes and particular mineral types. Individual ribotypes were almost
-  exclusively restricted to single mineral types.
-- **Chemical element influence**: Canonical correspondence analysis (CCA) revealed
-  that broad-scale mineralogical factors — particularly silicon, aluminum, calcium,
-  potassium, and sodium — influenced community makeup of the 16 most abundant
-  ribotypes.
-- **Quartz exception**: Quartz supported the lowest diversity (4 ribotypes),
-  likely because its pure SiO₂ composition provides limited nutritional diversity
-  compared to mineralogically complex silicates.
-
-### Implications
-This study demonstrated that:
-1. Distinct fungal populations inhabit rocks of particular mineralogical types.
-2. Individual chemical elements can exert selective pressure on fungal community
-   structure.
-3. Mineralogy is a primary driver of lithic fungal community composition, not
-   just geographic location.
-4. Fungi may play specialized roles in the weathering of specific minerals.
-
-## Statistical Analysis Methods
-Several multivariate statistical techniques are used to relate microbial community
-data to environmental factors:
-
-### Principal Components Analysis (PCA)
-Reduces complex community fingerprint data to principal components that capture
-the major axes of variation. Useful for identifying overall patterns and
-outliers.
-
-### Canonical Correspondence Analysis (CCA)
-Relates community composition directly to measured environmental variables. CCA
-identifies which chemical or physical factors most strongly influence community
-structure and which specific taxa are associated with particular conditions.
-
-## Challenges and Future Directions
-- PCR-based techniques are still in their relative infancy for rock and mineral
-  studies.
-- Many technical obstructions remain (DNA extraction efficiency from rocks,
-  primer bias, incomplete reference databases).
-- Molecular methodologies combined with descriptive statistics provide the most
-  comprehensive understanding of geomicrobial communities.
-- DNA-based approaches will likely generate a wealth of further fundamental
-  questions about how fungi interact with the mineral environment.
-
-## Source
-- Gadd, G.M. et al. "Mineral transformations and biogeochemical cycles." In
-  Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) *Fungi in the Environment*.
-  Cambridge University Press. Lines 4800-4960 of the full text.
-
-## See Also
-- [[fungal-biogeochemical-mineral-transformations]]
-- [[fungal-mineral-transformations-biogeochemical-cycles-gadd]]
-- [[fungal-bioweathering-and-mineral-transformations]]
-- [[rock-weathering-mycorrhizal-fungi-van-breemen]]

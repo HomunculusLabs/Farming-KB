@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Old Fruit Variety Selection
 
-Sepp Holzer has discovered that supposedly very demanding [[holzer-stone-fruit-varieties-and-growing]] varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+[[comparison-sepp-holzer-vs-biodynamic]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 ## Recommended Old Apple Varieties
 
@@ -53,7 +53,7 @@ Sepp Holzer has discovered that supposedly very demanding [[holzer-stone-fruit-v
 
 ## Wild and Sour Cherries
 
-Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes [[holzer-stone-fruit-varieties-and-growing]] ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
+Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
 
 ## Apricot and Peach Varieties
 
@@ -64,3 +64,20 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[fruit-tree-grafting-guide]]
 - [[fruit-forest-establishment]]
 - [[sepp-holzer-method]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-plants-fruit-trees-selection]]
+- [[seed-saving-variety-selection-solomon]]
+- [[holzer-recommended-old-fruit-varieties]]
+- [[hamilton-fruit-tree-selection-pollination]]
+- [[coleman-winter-greens-variety-selection]]

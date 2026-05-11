@@ -87,34 +87,3 @@ Modern espresso and pour-over preparations reveal more nuanced flavor layers, in
 ## Genetic Resources and Breeding
 
 *Coffea liberica* and its relatives (*C. canephora*, *C. congensis*, *C. stenophylla*) form a secondary gene pool for coffee improvement. Interspecific crosses between *C. liberica* and *C. arabica* have produced tetraploid hybrids (arabusta) combining the disease resistance of liberica with the cup quality of arabica, though these hybrids often exhibit reduced fertility.
-
-Molecular characterization using SSR markers and whole-genome sequencing has revealed substantial genetic diversity within *C. liberica*, particularly between West African and Southeast Asian accessions.
-
-Chromosome number is 2n = 22, consistent with other diploid *Coffea* species. The estimated genome size is approximately 700 Mb. Comparative genomics has identified unique resistance gene analogues in the *C. liberica* genome that are absent from *C. arabica* and *C. canephora*, making these loci priority targets for marker-assisted breeding.
-
-Conservation of wild *C. liberica* populations in African forests is considered a priority for maintaining the species' genetic resources against habitat loss and [[dighton-fungi-climate-change-feedback]]. The IUCN Red List currently classifies the species as Vulnerable, with declining populations across much of its natural range due to deforestation and agricultural expansion.
-
-## Ecological and Economic Significance
-
-*Coffea liberica* plays an important role in coffee breeding programs as a source of disease resistance genes. Its resistance to coffee leaf rust, coffee berry disease (Colletotrichum kahawae), and nematodes makes it a valuable genetic resource for developing resistant cultivars of arabica and robusta through interspecific hybridization.
-
-The species contributes to agroforestry systems in West and Southeast Asia, providing shade for understory crops and maintaining soil stability.
-
-Its deep root system reduces erosion on sloping terrain, and the leaf litter contributes to organic matter cycling in plantation ecosystems. The flowers provide nectar for pollinators, and the ripe fruits are consumed by birds and mammals, facilitating seed dispersal in natural forest habitats.
-
-Economically, liberica occupies a niche position in the global coffee market. It commands lower prices than specialty arabica but fills an important role in commercial blends, particularly in regions where its distinctive flavor is culturally preferred. The Malaysian "kopi liberica" tradition has gained international recognition as a specialty product.
-
-Annual global production is estimated at 30,000–50,000 metric tons of green beans, with Malaysia, Indonesia, and the Philippines accounting for the majority of output. Despite its small share of global production, liberica supports the livelihoods of thousands of smallholder farmers in Southeast Asia who value the crop's low input requirements and natural disease resistance.
-
-## See Also
-
-- [[coffea-arabica]]
-- [[coffea-canephora]]
-- [[caffeine]]
-- [[camellia-sinensis-entity]]
-- [[theobroma-cacao]]
-- [[psidium-guajava]]
-- [[cinchona-officinalis]]
-- [[vanilla-planifolia]]
-- [[saccharum-officinarum]]
-- [[mitragyna-speciosa]]

@@ -1,8 +1,8 @@
 ---
-title: comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol by Natural Balance (No Pesticides)
+title: Fukuoka Straw Pest Control Natural Balance
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, The Natural Way of Farming"
+sources: "masanobu-fukuoka, The Natural Way of Farming"
 wikilinks: "fukuoka-straw-four-principles fukuoka-straw-natural-farming-philosophy fukuoka-straw-vegetable-growing fukuoka-straw-rice-without-plowing fukuoka-straw-mandala-orchard-design"
 type: concept
 tags: [fukuoka]
@@ -12,10 +12,10 @@ tags: [fukuoka]
 
 ## The Natural Balance of Insects
 
-As Fukuoka walks through the paddy field, spiders and frogs scramble about,
+As Fukuoka walks through the [[cho-imo-collection-bamboo-stump-and-paddy-field]], spiders and frogs scramble about,
 locusts jump up, and droves of dragonflies hover overhead. Whenever a large
 outbreak of leafhoppers occurs, the spiders multiply too, without fail. No
-matter that there are insect pests here. As long as their natural enemies are
+matter that there are [[duggar-mushroom-insect-pests-and-fungal-diseases]] here. As long as their natural enemies are
 also present, a natural balance asserts itself.
 
 Nature is sufficient in and of itself; there never was any need for pesticides.
@@ -62,12 +62,12 @@ In most cases, serious disease and pest damage in fruit trees, such as by
 long-horned beetles and scale insects, is triggered by diminished tree vigor
 due to depleted soil fertility, a confused tree shape, poor ventilation,
 inadequate light penetration, or a combination of all of these factors.
-Because they help sustain soil fertility, a ground cover of green manure crops
+Because they help sustain soil fertility, a ground cover of [[green-manure-crops]]
 and the combination planting of manure trees may thus be regarded as basic
 defensive measures against disease and pest damage.
 
 When vegetables are grown beneath fruit trees, the number of insect pests tends
-to be low. Some diseases and pests are common both to fruit trees and
+to be low. Some diseases and pests are common both to [[holzer-wild-fruit-trees-and-hedges]]
 vegetables, and some are not. These in turn have a host of different natural
 enemies that emerge at various times of the year. As long as a balance is
 maintained between the fruit trees, the vegetables, the insect pests, and
@@ -87,36 +87,3 @@ The planting of manure trees and windbreak trees, and the combination planting
 of evergreens and deciduous trees may also be helpful in diminishing damage.
 The intercropping of leguminous green manure crops with grains and vegetables
 creates a complex ecosystem where no single pest species can dominate.
-
-## Understanding Insect Populations
-
-Insects are not the mindless destroyers that pesticide manufacturers portray.
-Every insect plays a role in the ecosystem, and even those labeled as "pests"
-serve functions that may not be immediately apparent. When an orchard is
-sprayed with pesticides, not only are the target pests killed but also the
-predatory insects that keep them in check, the pollinators that ensure fruit
-set, and the soil organisms that maintain fertility.
-
-The loss of these beneficial organisms creates a cascade of problems. Without
-predators, pest populations explode. Without pollinators, fruit set declines.
-Without soil organisms, the soil degrades and tree health deteriorates. Each
-application of pesticide deepens the farmer's dependence on chemical
-interventions, creating a vicious cycle that can only be broken by abandoning
-pesticides entirely and allowing natural balances to reassert themselves.
-
-## Healthy Plants Resist Disease
-
-The fundamental principle of [[fukuoka-natural-pest-balance]] control is that healthy plants grown
-in healthy soil are naturally resistant to disease and insect attack. Plants
-weakened by [[cervantes-chemical-fertilizers-guide]], poor soil management, and unnatural growing
-conditions become susceptible to [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] that would not trouble a
-vigorous plant. Rather than fighting the symptoms of poor plant health with
-toxic chemicals, natural farming addresses the root cause by building soil
-fertility and growing plants in conditions that mimic their natural
-environment.
-
-## See Also
-
-- [[fukuoka-straw-natural-farming-philosophy]]
-- [[fukuoka-straw-rice-without-plowing]]
-- [[fukuoka-straw-mandala-orchard-design]]

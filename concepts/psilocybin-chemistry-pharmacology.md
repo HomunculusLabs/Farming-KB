@@ -87,28 +87,3 @@ The discovery of the psilocybin biosynthetic gene cluster (PsiK, PsiM, PsiD, Psi
 Psilocybin was first isolated and characterized by the Swiss chemist Albert Hofmann in 1958, following the identification of psychoactive mushrooms by R. Gordon Wasson during his 1955 expedition to Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" brought psilocybin mushrooms to widespread public attention in the West. Hofmann subsequently identified psilocybin as the active principle and went on to synthesize it in the laboratory.
 
 The indigenous use of psilocybin mushrooms in Mesoamerica dates back at least several thousand years, with archaeological evidence including mushroom stones found in Guatemala dating to approximately 1000 BCE. The Mazatec people of Oaxaca, Mexico, continue to use psilocybin mushrooms in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies, referring to them as "teonanácatl" — "flesh of the gods."
-
-## Modern Research Directions
-
-Contemporary research into psilocybin has focused on its therapeutic potential for several conditions:
-
-- **Treatment-resistant depression**: Clinical trials at institutions including Imperial College London and Johns Hopkins have demonstrated rapid and sustained antidepressant effects from single or few-dose psilocybin-assisted psychotherapy
-- **End-of-life anxiety**: Studies with terminal cancer patients have shown significant reductions in death-related anxiety and improvements in quality of life
-- **Substance use disorders**: Preliminary research suggests psilocybin may reduce problematic alcohol and tobacco use
-- **Cluster headaches**: Anecdotal reports and early research indicate potential benefits for this severe headache condition
-
-The mechanism underlying these therapeutic effects is thought to involve increased psychological flexibility, enhanced emotional processing, and the generation of meaningful psychological insights during the [[leary-psychedelic-experience-bardo-mapping]].
-
-## See Also
-
-- [[hallucinogenic-mushroom-markets]] — Market trends, availability, and legal status
-
-## Sources
-
-- EMCDDA Thematic Paper: Hallucinogenic Mushrooms — An Emerging Trend Case Study (2006)
-- Gossop, M. (1993). Drugs and addictive behaviour: A guide to treatment.
-- Pechnick, R.N. & Ungerleider, J.T. (2005). Hallucinogens.
-- Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution of the neurotropic fungi.
-- [[psilocybin-chemistry-and-pharmacology]]
-- [[psilocybin-mushrooms]]
-- [[neurotropic-fungi]]

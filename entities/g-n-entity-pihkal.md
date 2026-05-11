@@ -77,3 +77,13 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 - [[g-4-entity-pihkal]]
 - [[g-5-entity-pihkal]]
 - [[tma-5-entity-pihkal]]
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.

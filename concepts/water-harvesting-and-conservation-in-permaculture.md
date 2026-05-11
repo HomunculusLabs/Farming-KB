@@ -88,15 +88,3 @@ Downhill from the swale, a [[fukuoka-dutch-priest-vegetable-garden-spiritual-ren
 
 The key insight of the fivefold strategy is redundancy. No single technique is
 sufficient by itself, but the combination creates a garden far more drought-
-resistant than any one method alone. If one element fails (mulch blows away,
-a tank runs dry), the other elements compensate.
-
-This synergy is one of the great benefits of [[williams-pdc-ecological-design-principles]]. These same
-techniques also moderate wet conditions: humus-rich soil absorbs vast water
-volumes without drowning roots, mulch prevents erosion from heavy rain, and
-dense plantings slow runoff. Swales can be graded at 2% to carry excess water
-away to appropriate catchments.
-
-The goal is not to eliminate irrigation entirely but to minimize it. A garden
-that needs only occasional hose watering during dry spells, supplied by
-harvested rainwater, represents a significant step toward self-sufficiency.

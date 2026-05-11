@@ -23,9 +23,9 @@ sources:
 
 ## Overview
 
-**Cocaine** (benzoylmethylecgonine) is a tropane alkaloid and powerful central nervous system stimulant derived from the leaves of *Erythroxylum coca*. It acts primarily by blocking the reuptake of dopamine, serotonin, and norepinephrine, producing intense euphoria, increased energy, and local anesthesia.
+**Cocaine** (benzoylmethylecgonine) is a tropane alkaloid and powerful central nervous system stimulant derived from the leaves of *[[erythroxylum-coca]]*. It acts primarily by blocking the reuptake of dopamine, [[serotonin]], and norepinephrine, producing intense euphoria, increased energy, and local anesthesia.
 
-Cocaine is one of the most widely used illicit substances globally. It has a long history of both medicinal and recreational use dating back thousands of years in South America.
+Cocaine is one of the most widely used illicit substances globally. It has a long history of both medicinal and recreational use dating back thousands of years in [[guzman-psilocybin-mushrooms-south-america]].
 
 ## Chemical Properties
 
@@ -39,7 +39,7 @@ Cocaine is one of the most widely used illicit substances globally. It has a lon
 - **pKa:** 8.6 (tertiary amine)
 - **CAS number:** 50-36-2
 
-Cocaine is biosynthesized in *Erythroxylum coca* via the tropane pathway from ornithine and arginine precursors. The molecule contains a bicyclic tropane ring system esterified with benzoic acid at the 3-position and a methyl ester at the 2-position, making it both a benzoate ester and a methyl ester of ecgonine.
+Cocaine is biosynthesized in *[[plants-of-the-gods-erythroxylum-coca]]* via the tropane pathway from ornithine and arginine precursors. The molecule contains a bicyclic tropane ring system esterified with benzoic acid at the 3-position and a methyl ester at the 2-position, making it both a benzoate ester and a methyl ester of ecgonine.
 
 ## Pharmacology
 
@@ -55,7 +55,7 @@ Cocaine also blocks voltage-gated sodium channels, producing local anesthesia. T
 
 ### Pharmacokinetics
 
-- **Absorption:** Rapid via nasal (onset 3–5 min), IV (seconds), and pulmonary/inhalation (seconds) routes. Oral bioavailability is low (~20%) due to hepatic first-pass metabolism.
+- **Absorption:** Rapid via nasal (onset 3–5 min), IV (seconds), and pulmonary/inhalation (seconds) routes. [[first-pass-metabolism-and-oral-bioavailability]] is low (~20%) due to hepatic first-pass metabolism.
 - **Half-life:** 0.7–1.5 hours (varies by route and individual metabolism)
 - **Volume of distribution:** 1.6–2.7 L/kg
 - **Metabolism:** Primarily hepatic via plasma and liver cholinesterases to benzoylecgonine (major inactive metabolite), ecgonine methyl ester, and norcocaine
@@ -87,45 +87,3 @@ Cocaine also blocks voltage-gated sodium channels, producing local anesthesia. T
 - Hyperthermia and rhabdomyolysis
 - Nasal septal perforation (chronic insufflation)
 - Severe psychological dependence
-
-The combination of cocaine with alcohol produces cocaethylene, a metabolite with a longer half-life and greater cardiotoxicity than cocaine alone.
-
-## Dose Ranges
-
-- **10–50 mg (nasal)** — mild stimulation, euphoria, increased sociability
-- **50–150 mg (nasal/IV)** — moderate to strong euphoria, CNS stimulation
-- **15–60 mg (smoked/crack)** — rapid, intense euphoria; short duration (5–10 minutes)
-- **>1 g/day (chronic)** — high risk of dependence, cardiovascular toxicity, psychosis
-- **>500 mg (acute oral)** — risk of severe toxicity
-- **LD50:** Estimated ~1.2 g IV in humans; fatal doses vary widely by tolerance and route
-
-## Source and Preparations
-
-### Biosynthesis
-
-Cocaine is synthesized exclusively in *Erythroxylum coca* and a few related *Erythroxylum* species. The biosynthetic pathway proceeds through putrescine → N-methylputrescine → tropinone → tropine → 2-carbomethoxytropine → cocaine.
-
-Fresh coca leaves contain 0.1–0.9% cocaine by dry weight. The alkaloid accumulates primarily in young leaves and serves an ecological role as a feeding deterrent against herbivorous insects.
-
-### Forms
-
-- **Coca leaves** — whole dried leaves; milder effect due to low alkaloid content and slow buccal absorption
-- **Coca paste (basuco/paco)** — crude intermediate extract, 40–85% cocaine sulfate
-- **Cocaine hydrochloride** — purified water-soluble salt; nasal or IV use; the most common illicit form
-- **Freebase cocaine** — insoluble base form for smoking; low melting point (~98 °C)
-- **Crack cocaine** — freebase cocaine processed with baking soda; smokeable "rocks"
-
-## Legal Status
-
-## See Also
-
-- [[erythroxylum-coca]]
-- [[atropine]]
-- [[scopolamine]]
-- [[hyoscyamine]]
-- [[serotonin]]
-- [[caffeine]]
-- [[nicotine]]
-- [[morphine]]
-- [[codeine]]
-- [[theobromine]]

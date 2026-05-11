@@ -13,10 +13,10 @@ sources: []
 
 Elderberry is a fast-growing, deciduous shrub or small tree prized for both
 its medicinal berries and ornamental value. Native to Europe (Sambucus nigra,
-black elderberry) and North America (Sambucus canadensis, American elderberry),
+black elderberry) and [[guzman-psilocybin-mushrooms-north-america]] ([[sambucus-canadensis]], American elderberry),
 elderberries have been used for centuries in traditional medicine for immune
 support, particularly during cold and flu season. Elderberry syrup is one of
-the most popular and well-studied herbal preparations in modern use. (see [[permaculture-plants-fruit-trees-temperate]]).
+the most popular and well-studied [[honey-based-herbal-preparations]] in modern use.
 
 ## Species Selection
 
@@ -33,7 +33,7 @@ the most popular and well-studied herbal preparations in modern use. (see [[perm
 For homesteads, S. canadensis is often preferred in North America due to
 greater cold hardiness and smaller size. Both species are medicinally
 equivalent. Planting at least two different varieties improves cross-
-pollination and yield significantly. (see [[valerian-growing-guide]]).
+pollination and yield significantly.
 
 Popular cultivated varieties:
 - 'Adams' (S. canadensis): Large berries, vigorous, productive
@@ -46,10 +46,10 @@ Popular cultivated varieties:
 
 Elderberries are rich in anthocyanins, flavonoids, and vitamin C. The primary
 active compounds demonstrate antiviral activity, particularly against
-influenza, by inhibiting viral replication and stimulating immune response. (see [[chamomile-growing-guide]]).
+influenza, by inhibiting viral replication and stimulating immune response.
 
 Key applications:
-- Cold and flu: Multiple clinical trials show elderberry syrup reduces
+- Cold and flu: Multiple [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] show elderberry syrup reduces
   duration and severity of influenza by 2-4 days. Most effective within
   48 hours of symptom onset.
 - Immune support: Regular use during cold and flu season may prevent illness.
@@ -107,7 +107,7 @@ irrigation.
 Consistent moisture is important for good fruit production, especially during
 flowering and fruit development. Provide 1-2 inches of water per week during
 dry periods. Drip irrigation is ideal. Once well-established (after 2-3
-years), plants are moderately drought tolerant but produce best with regular
+years), plants are moderately [[drought-tolerant-planting-design]] but produce best with regular
 water.
 
 ### Fertilization

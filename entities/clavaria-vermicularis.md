@@ -23,10 +23,10 @@ sources:
 
 *Clavaria vermicularis*, commonly known as the fingers fungus or white spindles, is a
 saprotrophic basidiomycete in the family Clavariaceae. It produces distinctive clusters of
-white, unbranched, cylindrical fruiting bodies that resemble slender fingers or worms —
+white, unbranched, cylindrical [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that resemble slender fingers or worms —
 hence the specific epithet *vermicularis* (from Latin *vermis*, worm).
 
-The species is widely distributed across temperate regions of the Northern Hemisphere, where
+The species is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, where
 it grows on the ground in grasslands, forests, and disturbed areas. It is one of the most
 recognizable coral fungi due to its simple, unbranched morphology and pure white coloration.
 While edible, it is not widely collected for the table due to its insubstantial flesh.
@@ -58,7 +58,7 @@ hyaline, and inamyloid. Basidia are 4-spored, clavate, 50–70 µm long. Cystidi
 and temperate Asia. It is found from lowland grasslands to montane forests and is one of
 the more frequently encountered clavarioid fungi in temperate regions.
 
-The species is terrestrial, growing directly on soil or very decomposed organic matter.
+The species is terrestrial, growing directly on soil or very decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 It fruits in a wide range of habitats: old pastures, meadows, forest edges, mixed
 woodlands, and disturbed ground such as roadsides and garden lawns. It is particularly
 common in grassy clearings within deciduous and coniferous forests.
@@ -69,14 +69,14 @@ lasting 5–10 days before decomposing.
 
 The species shows no strong substrate specificity beyond a preference for mineral or
 humus-rich soils. It is not associated with any particular tree species and does not form
-mycorrhizal relationships, growing instead as a free-living saprotroph.
+[[teaming-with-microbes-fungi-and-mycorrhizal-relationships]], growing instead as a free-living saprotroph.
 
 ## Similar Species and Distinguishing Features
 
 Several white clavarioid fungi can be confused with *C. vermicularis*. The most common
 lookalikes include:
 
-- **Clavulina cristata** — White coral fungus with repeatedly branched, antler-like
+- **[[clavulina-cristata]]** — White coral fungus with repeatedly branched, antler-like
   fruiting bodies. Spores are echinulate (spiny), distinguishing it from the smooth-
   spored *C. vermicularis*.
 - **Ramariopsis kunzei** — Similar white, unbranched to minimally branched clubs, but
@@ -87,57 +87,4 @@ lookalikes include:
 
 The unbranched, pure white, cylindrical fruiting bodies combined with smooth, broadly
 ellipsoid spores provide reliable identification. [[fungal-microscopic-examination-mounting-media-techniques]] of spore
-ornamentation is definitive where field identification is uncertain.
-
-## Ecological Role
-
-As a saprotroph, *C. vermicularis* decomposes organic matter in soil and leaf litter,
-contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in grassland and forest floor ecosystems. It plays a
-role in breaking down complex polysaccharides and returning carbon and minerals to the
-soil solution.
-
-The species is sensitive to [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] and habitat disturbance. In Europe,
-declines have been noted in intensively managed agricultural grasslands where high
-nitrogen inputs and frequent cutting reduce [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. It persists better in
-unimproved pastures, old meadows, and semi-natural grasslands.
-
-*C. vermicularis* serves as a food source for various invertebrates, including slugs
-and fungivorous insects. Its fruiting bodies are frequently observed with slug damage or
-larval tunnels, suggesting it contributes to invertebrate food webs in grassland habitats.
-
-## Edibility
-
-*Clavaria vermicularis* is generally considered edible, though it is not widely collected
-for culinary use. The flesh is insubstantial, watery, and bland — lacking the firm texture
-and developed flavor that characterize more popular edible mushrooms.
-
-When collected, it is typically prepared by sautéing briefly in butter or adding to soups.
-Some foragers report a mild, slightly peppery or radish-like flavor. The species has no
-known toxicity, but its unremarkable culinary qualities and soft texture limit its appeal.
-
-As with all wild mushrooms, positive identification is essential. While *C. vermicularis*
-itself is harmless, confusion with other white clavarioid species is possible. Collectors
-should be familiar with the distinguishing features described above before consuming any
-white coral fungus.
-
-## Chemistry
-
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of *Clavaria* species has identified several bioactive metabolites.
-Clavariic acids and related fatty acid derivatives have been isolated from various
-Clavariaceae members, though specific compounds from *C. vermicularis* remain
-understudied.
-
-Preliminary screening has demonstrated mild antibacterial activity in crude extracts,
-consistent with the general pattern of antimicrobial compound production in Clavariaceae.
-No pharmaceutical applications have been developed from this species.
-
-## See Also
-
-- [[thamnolia-vermicularis]]
-
-- [[clavaria-zollingeri]]
-
-- [[ramaria-stricta]] — Upright coral fungus, a larger branched Clavariaceae member
-- [[ramaria-botrytis]] — Clustered coral, an edible branched coral fungus
-- [[trametes-versicolor-entity]] — Turkey tail, a common polypore decomposer
-- [[mycena-citrinomarginata]] — A common grassland mushroom
+ornamentation is definitive where [[palmer-mushroom-hunting-field-identification]] is uncertain.

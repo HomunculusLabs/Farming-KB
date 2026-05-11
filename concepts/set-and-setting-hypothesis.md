@@ -14,10 +14,10 @@ The set and setting hypothesis is the foundational principle governing the
 nature and quality of psychedelic experiences. It holds that the primary
 determinants of a psychedelic experience are not the pharmacological
 properties of the drug itself, but rather the internal psychological state
-("set") and the external environmental and social context ("setting") in
+("set") and the external environmental and [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] ("setting") in
 which the drug is taken. The hypothesis was introduced and popularized by
-Timothy Leary, based on research conducted at Harvard University in the
-early 1960s with Ralph Metzner and Richard Alpert.
+[[timothy-leary]], based on research conducted at Harvard University in the
+early 1960s with Ralph Metzner and [[richard-alpert]].
 
 ## Definition of Set
 
@@ -28,7 +28,7 @@ psychedelic, encompassing:
   experience — healing, insight, creative inspiration, spiritual connection,
   or recreation.
 - **Expectation**: Preconceptions about what the experience will be like,
-  shaped by prior knowledge, cultural context, stories from others, and
+  shaped by prior knowledge, [[ayahuasca-pharmacology-and-cultural-context]], stories from others, and
   previous personal experiences.
 - **Motivation**: The deeper psychological drives that lead a person to
   seek a psychedelic experience — curiosity, therapeutic need, spiritual
@@ -77,59 +77,14 @@ extraordinarily sensitive to contextual factors.
 ## Extension Beyond Psychedelics
 
 Metzner noted that the set-and-setting model "can also be extended to the
-understanding of other modalities of altered states of consciousness,
+understanding of other modalities of altered [[mckenna-food-gods-designer-states-of-consciousness]],
 involving nondrug triggers such as hypnosis, meditation, rhythmic drumming,
 sensory isolation, fasting, and others." This makes set and setting a
 general principle of consciousness alteration, not merely a feature of
-psychedelic pharmacology.
+[[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
 
 ## Application in Shamanic Contexts
 
 Metzner drew a direct connection between the set and setting hypothesis and
 traditional shamanic practices. If set and setting are the crucial
 determinants of hallucinogenic experience content, then "the use of these
-substances in a ritual setting, with careful attention paid to conscious
-intention, is in fact the logical as well as the traditional approach."
-Shamanic rituals involving hallucinogens are fundamentally "the intentional
-arrangement of the set and the setting for purposes of healing and
-divination."
-
-Traditional Western psychotherapy, with or without psychedelics, can also
-appropriately be seen as a ritual — "an experience formally structured
-according to the intention of healing or problem-solving."
-
-## Implications for Safety
-
-The set and setting hypothesis has profound implications for psychedelic
-safety:
-
-- **Preparation**: Careful attention to psychological readiness and clear
-  intention-setting before the experience significantly reduces the risk
-  of adverse reactions.
-- **Environmental design**: Creating safe, comfortable, and aesthetically
-  pleasing spaces for psychedelic experiences is not merely preferable but
-  essential.
-- **Guide selection**: The presence of an experienced, trustworthy guide
-  who can shape the setting through their behavior, music, and verbal
-  interaction is critical for positive outcomes.
-- **Integration**: The meaning attributed to the experience afterward
-  (part of the ongoing "set") determines whether it produces lasting
-  benefit or distress.
-
-## The Amplifier Analogy
-
-Closely related to set and setting is the amplifier analogy, which holds
-that psychedelic drugs function as nonspecific amplifiers of psychic
-contents. The drug does not create experiences but amplifies whatever is
-present in the mind — conscious and unconscious. If the set includes fear
-and the setting includes threat, the amplification produces a terrifying
-experience. If the set includes openness and the setting includes beauty
-and safety, the amplification produces a transformative experience.
-
-## See Also
-
-- [[four-paradigms-of-psychedelic-use]]
-- [[psycholytic-and-psychedelic-therapy-models]]
-- [[psychedelic-assisted-therapy-protocol]]
-- [[hybrid-shamanic-therapeutic-rituals]]
-- [[shamanic-entheogenic-ceremonies]]

@@ -24,7 +24,7 @@ Before reaching for any pesticide, natural or synthetic, Steve Solomon asks gard
 
 Solomon and his wife Muriel apply a principle from their relationship to gardening: when something is irritating, the irritation is an opportunity to examine what within yourself might be contributing to the problem. Applied to pests, this means asking whether the struggling plant is simply not growing fast enough to overcome the problem. The question shifts from "how do I kill this pest?" to "what is making this plant vulnerable?"
 
-The most common answer is unfavorable conditions. Cold spring soil, sowing too early, [[cannabis-grow-nutrient-deficiency-problem-solving]], or a variety poorly adapted to the local climate can all slow growth enough that a plant cannot outpace insect damage. In many cases the best cure is not a killer but liquid organic fertilizer, either a foliar spray of combined fish emulsion and liquid kelp, or some spot fertigation to accelerate growth.
+The most common answer is unfavorable conditions. Cold spring soil, sowing too early, [[cannabis-grow-nutrient-deficiency-problem-solving]], or a variety poorly adapted to the local climate can all slow growth enough that a plant cannot outpace insect damage. In many cases the best cure is not a killer but liquid [[complete-organic-fertilizer-cof]], either a foliar spray of combined [[solomon-foliar-feeding-fish-emulsion-and-kelp]] liquid kelp, or some spot fertigation to accelerate growth.
 
 ## Planting Too Early: The Root Cause
 
@@ -34,7 +34,7 @@ This insight reframes many pest problems as self-inflicted wounds. The gardener 
 
 ## Plant Twice What You Need
 
-Solomon explicitly challenges what he calls "poverty consciousness," the belief that one should plant exactly the area needed and expect to harvest everything from it. Instead, he recommends planting twice as much as needed. Some years are simply difficult: too much or too little sun, blossom end rot on tomatoes, powdery mildew on cucumbers, viruses on peppers, aphid infestations. If you planted twice what you needed, there will still be enough.
+Solomon explicitly challenges what he calls "poverty consciousness," the belief that one should plant exactly the area needed and expect to harvest everything from it. Instead, he recommends planting twice as much as needed. Some years are simply difficult: too much or too little sun, blossom end rot on tomatoes, [[query-how-to-prevent-and-treat-powdery-mildew-on-cannabis]] cucumbers, viruses on peppers, aphid infestations. If you planted twice what you needed, there will still be enough.
 
 This is not wasteful; it is insurance. Seeds cost only a few cents each. The cost of losing a crop and having nothing is far greater than the cost of extra seed.
 
@@ -52,9 +52,9 @@ A foliar spray of combined fish emulsion and liquid kelp acts as what Solomon ca
 
 ## Soil Fertility as Pest Prevention
 
-Solomon provides a compelling anecdote from his own garden. He planted extra cabbage seedlings in the unmanured fringe of his garden with only cheap chemical fertilizer. The properly prepared beds produced large, healthy cabbages with no pest problems. The fringe plants were attacked first by flea beetles, then by cabbageworms. They grew so slowly that he side-dressed them with chicken manure, but their roots were severely attacked by maggots, some plants died, and the survivors produced small, tough, bitter heads at only one to two pounds compared to six pounds from the main bed.
+Solomon provides a compelling anecdote from his own garden. He planted extra cabbage seedlings in the unmanured fringe of his garden with only cheap [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]. The properly prepared beds produced large, healthy cabbages with no pest problems. The fringe plants were attacked first by flea beetles, then by cabbageworms. They grew so slowly that he side-dressed them with chicken manure, but their roots were severely attacked by maggots, some plants died, and the survivors produced small, tough, bitter heads at only one to two pounds compared to six pounds from the main bed.
 
-The lesson is clear: ideal soil conditions produce healthy plants that largely resist pests. The same species, in poor soil, becomes a magnet for every insect and disease in the area.
+The lesson is clear: ideal soil conditions produce healthy plants that largely resist pests. The same species, in poor soil, becomes a magnet for every [[vegetable-insect-and-disease-control]] in the area.
 
 ## Rejecting the American Sanitary System
 
@@ -66,7 +66,7 @@ His advice is practical: remove as many bugs as possible when washing food, and 
 
 Solomon notes that insect damage and disease often arrive together but the causal relationship is frequently misunderstood. A plant that is growing slowly due to poor soil or unfavorable weather is both more attractive to insects and more susceptible to disease. The insect and the disease are independent opportunists exploiting the same underlying weakness. Spraying the insect does not address the disease, and spraying the disease does not address the insect. Only improving growing conditions addresses both.
 
-This insight is particularly important for fungal diseases such as blight. Gardeners who experience blight often assume the solution is a fungicide, when in reality the blight took hold because the plant was already weakened by conditions that could have been corrected through better soil preparation, more appropriate timing, or adequate nutrition.
+This insight is particularly important [[jadam-pesticide-for-fungal-diseases]] such as blight. Gardeners who experience blight often assume the solution is a fungicide, when in reality the blight took hold because the plant was already weakened by conditions that could have been corrected through better soil preparation, more appropriate timing, or adequate nutrition.
 
 ## Accepting Weather-Related Losses
 
@@ -87,34 +87,3 @@ Creating proper [[query-how-do-i-design-habitat-for-beneficial-insects]] insects
 ## Spun-Fabric Row Covers as a First Line of Defense
 
 Before philosophical acceptance is tested, practical barriers exist. Spun-fabric row covers provide most of the benefits of a cloche or mini-greenhouse without the need to erect any structure. They also protect against flying insect pests without needing to spray. Several brands are available in widths of five to six feet (150 to 180 cm), offered in cut lengths from about 20 feet (6 meters) up to rolls of thousands of feet.
-
-The fabric is spread over a growing row or bed and loosely anchored with soil or staples. As plants grow, they lift the nearly weightless fabric, so no supporting structure is needed. To keep insects out, the entire perimeter must be carefully anchored. Different brands offer varying degrees of frost protection, light transmission, and durability. Reemay provides a few degrees of frost protection but reduces light by up to 25 percent. Other brands tolerate wind better and do not reduce light levels but may not last as many seasons.
-
-## The Five Percent Leaf Area Threshold
-
-For aphids specifically, Solomon identifies a useful quantitative threshold: when aphids cover about five percent of total leaf area, [[cannabis-resin-production-and-quality-traits-clarke]] start to diminish. Below this level, intervention is unnecessary and the plant will continue growing normally. This five percent figure provides an objective basis for deciding when to act versus when to observe.
-
-This principle applies more broadly. A few holes in leaves, minor cosmetic damage, and the presence of some insects are all normal and do not warrant intervention. The gardener who sprays at the first sign of any insect is wasting time, money, [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations.
-
-Aphids can multiply with amazing speed, exploding from nothing to a serious threat in days. But they can also persist at a low level without causing much trouble. The rapid population growth potential means vigilance is important, but the threshold principle means that vigilance does not equal immediate action. Watch and wait until the five percent mark before intervening.
-
-## Key Points Summary
-
-- Pest problems often indicate that plants are growing too slowly, not that pesticides are needed
-- Planting too early is the single largest cause of insect and disease problems
-- Plant twice what you need and re-sow immediately when conditions are unfavorable
-- Liquid organic fertilizer (fish emulsion and kelp) is often more effective than pesticides
-- Ideal soil fertility produces pest-resistant plants; poor soil creates pest magnets
-- Accept blemished produce as normal; the supermarket standard is unrealistic for home gardens
-- Weather-related losses are inevitable and should be accepted with grace
-- Urban gardeners face inherently higher pest pressure due to reduced biodiversity
-- Insect damage and disease often share a common root cause in slow plant growth
-- A five percent aphid leaf-area threshold provides an objective intervention trigger
-- Row covers and beneficial insect habitat are practical first defenses before pesticides
-
-## Related
-
-- [[solomon-pest-management-organic]]
-- [[soil-fertility-management]]
-- [[solomon-weed-management-without-chemicals]]
-- [[solomon-row-covers-and-season-extension]]

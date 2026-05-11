@@ -1,5 +1,5 @@
 ---
-title: "Proteomics of proteomics early am symbiosis stages Stages"
+title: Proteomics Early Am Symbiosis Stages
 created: 2026-04-26
 tags: [mycorrhiza, proteomics, transcriptomics, plant-microbe-interaction, functional-genomics]
 date: 2026-04-25
@@ -62,8 +62,8 @@ mass fingerprinting:
   - **Probable peroxidase** (two spots): Defense-related enzyme known to
     increase during both ecto- and endomycorrhizal symbioses
   - **Guanine nucleotide binding protein** (two spots): GTP-binding
-    proteins acting as mediators in signal transduction, protein transport,
-    and growth regulation
+    proteins acting as mediators in [[fungal-environmental-sensing-signal-transduction]], protein transport,
+    and [[brassinosteroid-cross-kingdom-growth-regulation-plants-fungi]]
   - **40S ribosomal protein S5**: Involved in protein synthesis
   - **Glutathione-S-transferase** (two spots): Associated with stress
     tolerance and defense responses; this is the first report of GST
@@ -88,30 +88,3 @@ levels. This discrepancy may result from:
   - Resistance of membrane proteins to 2D separation
 
 ## Defense Signalling in Early Symbiosis
-
-Events including signal perception, signal transduction, and defense gene
-activation -- similar to those in plant/pathogen interactions -- occur
-during AM symbiosis. The induction of defense gene expression could result
-from fungal elicitor recognition and signal transduction pathway activation.
-The weak and transient character of plant defense responses may reflect the
-low capacity of the fungus to trigger such responses and/or a plant
-mechanism that suppresses already-activated defense responses, allowing
-[[brassinosteroid-fungal-growth-promotion]] within plant tissue.
-
-## Future Directions
-
-Comparative sub-cellular proteomics directed towards specific cell
-compartments offers promise:
-
-  - Microsomal and plasmalemma fractions have identified previously
-    unreported AM symbiosis proteins
-  - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] proteomics could illuminate recognition events during first
-    contact
-  - Mitochondrial and vacuolar compartment studies may reveal metabolic
-    adaptations
-  - [[functional-genomics-arbuscular-mycorrhiza]]
-- mycorrhizal-plant-signaling
-- fungal-mycorrhizal-pathogen-interactions
-## See Also
-- [[glomus-mosseae]]
-- [[proteomics-early-arbuscular-mycorrhiza-symbiosis]]

@@ -38,7 +38,7 @@ The specific epithet "purpurea" refers to the distinctive purple coloration of t
 
 Gentiana purpurea produces stout, erect stems that are unbranched and leafy throughout. The stems arise from a thick, fleshy taproot that can penetrate deep into mountain soils.
 
-The taproot can reach 30–50 cm in length in mature plants, storing energy for early spring growth. This deep root system makes transplanting difficult and is a key challenge in cultivation.
+The taproot can reach 30–50 cm in length in mature plants, storing energy for [[coleman-overwintered-onions-and-early-spring-crops]] growth. This deep root system makes transplanting difficult and is a key challenge in cultivation.
 
 The leaves are ovate to lanceolate, 5–12 cm long, with prominent parallel veins. They are arranged in opposite pairs along the stem and clasp the stem at their base.
 
@@ -66,13 +66,13 @@ Gentiana purpurea is uncommon in cultivation but valued by specialist alpine gar
 
 **Soil requirements:** Plant in acidic, humus-rich soil that remains consistently moist. A mix of loam, peat substitute, and coarse grit provides suitable conditions.
 
-**Position:** Partial shade is preferred, particularly in warmer climates. In cool temperate regions, full sun is acceptable if soil moisture is maintained.
+**Position:** Partial shade is preferred, particularly in warmer climates. In cool [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], full sun is acceptable if soil moisture is maintained.
 
-**Propagation:** Sow fresh seed in autumn in a cold frame. Germination is often irregular and may require two cold periods. Division of mature plants is possible in early spring but carries risk of loss.
+**Propagation:** Sow fresh seed in autumn in [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]. Germination is often irregular and may require two cold periods. Division of mature plants is possible in early spring but carries risk of loss.
 
 **Maintenance:** Remove dead flower stems in autumn. Top-dress with leaf mold annually. Protect from slugs, which are attracted to the lush new growth in spring.
 
-The species can be grown in a woodland garden or acidic rock garden setting. It associates well with other acid-loving mountain plants such as Rhododendron species, Gentiana asclepiadea, and Veratrum album.
+The species can be grown in a woodland garden or acidic rock garden setting. It associates well with other acid-loving mountain plants such as Rhododendron species, [[gentiana-asclepiadea]], and [[veratrum-album]].
 
 Plants are slow to establish from seed and may take 4–7 years to flower. Once established, they are relatively long-lived and can persist for 15–20 years in favorable conditions.
 
@@ -84,37 +84,6 @@ The late flowering period provides a critical nectar source for bumblebees prepa
 
 The species supports specialized herbivores, including the larvae of certain microlepidoptera that feed on gentian foliage. These insect associations contribute to the overall biodiversity of alpine meadow communities.
 
-Mycorrhizal associations help the plant access phosphorus in the nutrient-poor acidic soils it inhabits. These fungal partnerships are essential for healthy growth in its native montane habitats.
+[[plants-without-mycorrhizal-associations]] help the plant access phosphorus in the nutrient-poor acidic soils it inhabits. These fungal partnerships are essential for healthy growth in its native montane habitats.
 
 The species is a component of Nardus stricta grassland communities, which are listed as a priority habitat under the EU Habitats Directive. This gives Gentiana purpurea indirect conservation protection through habitat preservation.
-
-## Uses and Ethnobotany
-
-Gentiana purpurea is one of the several Gentiana species used in the production of traditional bitter liqueurs and herbal bitters in Alpine countries. The roots contain intensely bitter secoiridoid glycosides, particularly gentiopicroside and amarogentin.
-
-In traditional Alpine folk medicine, root preparations were used as digestive aids and appetite stimulants. The bitterness was valued as a tonic to promote gastric juice secretion before meals.
-
-These digestive uses are shared across many Gentiana species and reflect a long tradition of bitter herb use in European folk medicine. Similar preparations appear in German, Austrian, Swiss, and Italian alpine herbalism.
-
-The species contributes to the blend of gentian species harvested for commercial gentian bitters production. However, Gentiana lutea (yellow gentian) is the primary commercial source, and Gentiana purpurea is used only occasionally.
-
-Harvesting wild gentian roots is now regulated or prohibited in many Alpine countries due to conservation concerns. Sustainable cultivation efforts are being explored to reduce pressure on wild populations.
-
-The IUCN has not formally assessed the species, but regional Red Lists in several Alpine countries classify it as near-threatened due to habitat loss and over-collection.
-
-Gentiana purpurea has ornamental value for its unusual dark flowers and late bloom period. It has received limited horticultural attention but is treasured by collectors of unusual alpine plants.
-
-It is occasionally featured in the autumn displays of botanical gardens with alpine collections. The dark flowers create striking contrast when planted alongside blue gentian species.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-acaulis]]
-- [[gentiana-verna]]
-- [[gentiana-amarella]]
-- [[gentiana-pneumonanthe]]
-- [[centaurium-erythraea]]
-- [[swertia-chirata]]
-- [[gentiana-clusii]]
-- [[gentiana-cruciata]]
-- [[campanula-trachelium]]

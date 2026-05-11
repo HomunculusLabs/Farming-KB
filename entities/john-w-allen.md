@@ -88,31 +88,3 @@ They also show how mushroom imagery moved through travel, tourism, craft, and co
 
 Erowid's psilocybin mushroom vault lists multiple pieces by John W. Allen.
 The vault includes *Magic Mushrooms of Australia & New Zealand* under species and varieties.
-It also lists *Safe-Pik Mushroom Identification Guide* by John W. Allen.
-The history section includes articles such as *Wasson's First Voyage* and *Maria Sabina: Saint Mother of the Sacred Mushroom* by John W. Allen.
-This web presence helped distribute his writing to a wide public audience.
-Erowid's role as a drug-information archive means Allen's work reached readers outside academic mycology.
-That public circulation is one reason his name recurs in identification-focused concept pages.
-
-## Position in mushroom studies
-
-Allen's work differs from laboratory pharmacology.
-It is field-centered, image-centered, and distribution-centered.
-It also differs from purely academic taxonomy because it is heavily oriented toward accessible documentation.
-His best-known contributions combine collection, photography, regional synthesis, and public education.
-This makes him relevant to both mycology and ethnobotanical drug-history studies.
-His collaborations with figures such as Gastón Guzmán and Jochen Gartz connect him to formal taxonomy and chemical analysis.
-His public writing connects him to identification culture and harm-reduction archives.
-The combination explains why concept pages cite him in both species and cultural contexts.
-
-## Wiki relevance
-
-John W. Allen should be linked from pages on Australian and New Zealand [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
-He should also be linked from pages on *Psilocybe samuiensis*, Koh Samui field records, and *Copelandia* documentation.
-His entity page helps separate the person from the many species pages he appears in.
-It also helps distinguish field documentation from the biological entities being documented.
-For this wiki, Allen is a high-value entity because his name appears repeatedly in source-based concept pages.
-He connects [[copelandia-genus-species-guide]], and [[gaston-guzman]]
-- allen-magic-mushrooms-australia-newzealand-species-guide
-- [[copelandia-genus-species-guide]]
-- [[psilocybin-mushroom-cultural-artifacts]]

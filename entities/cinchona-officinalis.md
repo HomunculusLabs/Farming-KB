@@ -5,7 +5,7 @@ type: species
 tags:
   - herbal-plant
   - antimalarial
-  - permaculture
+  - [[permaculture]]
   - rubiaceae
   - quinine-source
   - medicinal-plant
@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Cinchona officinalis is a species of evergreen tree in the family Rubiaceae, native to the Andean montane forests of South America.
+Cinchona officinalis is a species of evergreen tree in the family Rubiaceae, native to the Andean montane forests of [[guzman-psilocybin-mushrooms-south-america]].
 
 It is the original and most historically significant source of quinine, the first effective antimalarial compound, which revolutionized the treatment of malaria worldwide.
 
@@ -45,7 +45,7 @@ The genus name honors the Countess of Chinchón, wife of the Viceroy of Peru, wh
 
 This account is now considered apocryphal but persisted in botanical literature for centuries.
 
-**Synonyms:** *Cinchona calisaya* Wedd., *Cinchona ledgeriana* (Moens) Trimen (high-quinine variety), *Cinchona succirubra* Pav.
+**Synonyms:** *Cinchona calisaya* Wedd., *Cinchona ledgeriana* (Moens) Trimen (high-quinine variety), *[[cinchona-succirubra]]* Pav.
 
 Taxonomic boundaries within the genus remain contested, with 23–40 species recognized depending on authority.
 
@@ -87,63 +87,3 @@ Quinine (C₂₀H₂₄N₂O₂) has a molecular weight of 324.4 g/mol and is a 
 **Antimalarial activity:** Quinine binds to heme within the malaria parasite's food vacuole, preventing heme polymerization into hemozoin.
 
 This accumulation of free heme is lethal to *Plasmodium falciparum* trophozoites.
-
-Quinine remains a second-line treatment for chloroquine-resistant *P. falciparum* malaria and is used intravenously for severe/cerebral malaria.
-
-**Antiarrhythmic activity:** Quinidine, the stereoisomer of quinine, is a Class Ia antiarrhythmic that blocks sodium channels and prolongs the cardiac action potential.
-
-It treats atrial fibrillation and ventricular arrhythmias, though newer agents have largely replaced it.
-
-**Other effects:** Cinchona bark extracts exhibit bitter tonic properties (stimulating appetite and digestion), mild antipyretic activity, and in vitro antimicrobial effects.
-
-**⚠️ Safety:** Cinchona alkaloids have a narrow [[cannabis-therapeutic-index-overview]]. Quinine toxicity (cinchonism) presents as tinnitus, headache, nausea, visual disturbances, and in severe cases, hypotension, cardiac arrhythmias, and thrombocytopenia.
-
-Typical therapeutic dose: 500–600 mg quinine three times daily for malaria.
-
-Quinine is also present in tonic water (~83 mg/L in US, ~20 mg/L in EU formulations).
-
-## Cultivation and Permaculture
-
-**Climate requirements:** Tropical to subtropical highland climate with 1,500–3,000 mm annual rainfall. Optimal temperatures: 12–18°C with brief frost tolerance at higher elevations.
-
-Trees require partial shade during establishment, transitioning to full sun as canopy develops.
-
-**Soil:** Deep, well-drained, acidic to neutral soils (pH 5.0–6.5) rich in [[hamilton-composting-and-organic-matter-management]]. Volcanic loams are ideal.
-
-**Propagation:** Primarily from seed (germination 2–4 weeks). Vegetative propagation via cuttings and grafting preserves high-alkaloid clones.
-
-Seedlings are transplanted at 6–12 months.
-
-**Bark harvest:** Trees are harvested at 6–12 years by stripping bark from trunk and branches. Bark regenerates over 3–5 years for sustainable cycles.
-
-**Permaculture applications:** Cinchona serves as a productive overstory tree in tropical agroforestry, providing shade for coffee, cacao, and [[permaculture-plants-medicinal-herbs-healing]].
-
-Its deep root system prevents soil erosion on Andean slopes, and [[dighton-fungal-decomposition-leaf-litter-dynamics]] adds organic matter to forest soils.
-
-In [[food-forest]] systems (USDA 10–12).
-
-## History and Cultural Significance
-
-Cinchona bark was introduced to European medicine by Jesuit missionaries in the early 17th century, earning the name "Jesuit's bark."
-
-It became the most valuable pharmaceutical commodity of the 18th and 19th centuries, driving colonial-era botanical exploration and plantation agriculture in Asia.
-
-The Dutch established extensive Cinchona plantations on Java in the mid-19th century, dominating global quinine production until World War II.
-
-Quinine was critical to European colonization of tropical Africa, enabling survival in malaria-endemic regions.
-
-## Related Species
-
-| Species | Quinine Content | Key Characteristic |
-|---------|----------------|-------------------|
-| *C. ledgeriana* | Up to 13% | Highest quinine yield |
-| *C. calisaya* | 5–8% | Bolivian origin, widely planted |
-| *C. succirubra* | 3–5% | Red bark, high cinchonidine |
-| *C. officinalis* | 2–8% | Type species, original source |
-
-## See Also
-
-- [[cinchona-succirubra]]
-
-- `[[camellia-sinensis-entity]]` — Tea, a common understory companion in Cinchona agroforestry
-- `[[piper-nigrum-entity]]` — [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], another tropical spice tree in agroforestry systems

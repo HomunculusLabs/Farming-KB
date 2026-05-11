@@ -42,10 +42,10 @@ cases of misidentification and fatal poisoning.
 Most Amanita species are ectomycorrhizal, forming symbiotic associations with
 the roots of trees. Different species show preferences for different tree
 partners. [[allegro-amanita-muscaria-properties-and-pharmacology]] (the fly agaric) is commonly associated with
-birch and pine, while Amanita phalloides (the death cap) forms associations
+birch and pine, while [[amanita-phalloides]] (the death cap) forms associations
 with oaks and other hardwoods.
 
-These mycorrhizal relationships mean that Amanita species are generally found
+These [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] mean that Amanita species are generally found
 growing in forests or near trees, and their distribution is closely tied to
 the distribution of their tree partners. The introduction of Amanita phalloides
 to regions outside its native European range, including [[psilocybin-north-america-pacific-northwest]] and
@@ -75,7 +75,7 @@ children's books, fairy tales, video games, and psychedelic art, making it
 an icon of popular culture. Despite its fearsome reputation, fatal poisonings
 from A. muscaria are exceedingly rare.
 
-The active compounds in Amanita muscaria include muscimol and ibotenic acid,
+The active compounds in Amanita muscaria include muscimol [[amanita-muscaria-and-ibotenic-acid-containing-fungi]],
 which produce a range of effects including dizziness, confusion, visual
 distortions, and in some cases hallucinations. The mushroom was traditionally
 used as an intoxicant in Siberia and other parts of northern Asia, where
@@ -83,43 +83,8 @@ indigenous peoples consumed it for its psychoactive properties.
 
 ## Destroying Angels
 
-The destroying angels are several species of pure white Amanita mushrooms that
-contain lethal amatoxins. Amanita virosa and Amanita bisporigera are found
-in Europe and North America respectively, while Amanita ocreata occurs in
+The destroying angels are several species of pure white [[amanita-muscaria]] that
+contain lethal amatoxins. Amanita virosa and [[amanita-bisporigera]] are found
+in Europe and [[guzman-psilocybin-mushrooms-north-america]] respectively, while Amanita ocreata occurs in
 western North America. These all-white mushrooms are particularly dangerous
 because they can be confused with several edible white species.
-
-Young specimens of destroying angels, before the cap has expanded, are
-especially hazardous because they can resemble the immature "button" stage
-of [[palmer-edible-mushrooms-north-america]]. The white gills, white stalk, and partial veil are
-features shared with many harmless species, and only careful examination of
-the volva at the base reveals the mushroom's true identity.
-
-## Edible Amanita Species
-
-Not all Amanita species are toxic. Several are prized edible mushrooms,
-including the Caesar's mushroom (Amanita caesarea) of southern Europe, which
-has been prized since Roman times. The coccoli (Amanita calyptroderma) of
-western North America is another highly regarded edible species.
-
-However, the risks of misidentification are so severe that most authorities
-recommend that amateur foragers avoid collecting any Amanita species for the
-table. The consequences of confusing an edible species with a deadly one are
-simply too great to justify the risk.
-
-## Ecological Importance
-
-Beyond their toxicological significance, Amanita species play important
-ecological roles as mycorrhizal partners of forest trees. They contribute
-to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by decomposing organic matter and transferring minerals
-from soil to their tree partners. Their fruiting bodies provide food for
-various insects and other invertebrates, and some mammals can consume
-toxic Amanita species without apparent harm.
-
-## See Also
-
-- [[amanita-caesarea]]
-
-- [[toxic-mushrooms-poisoning-amatoxins-syndromes]]
-- [[fairy-rings-mycelium-ecology-soil]]
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

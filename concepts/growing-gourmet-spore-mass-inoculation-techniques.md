@@ -1,5 +1,5 @@
 ---
-title: Spore Mass cotter-inoculation-techniques-and-hygiene
+title: Growing Gourmet Spore Mass Inoculation Techniques
 created: 2026-04-26
 tags:
   - mycology
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -44,7 +45,7 @@ propagation.
 
 ## The Glass Spore Booklet Method
 
-Paul Stamets prefers taking spore prints on a pane of glass
+[[paul-stamets]] prefers taking spore prints on a pane of glass
 using duct tape as binding along one edge. The glass panes
 are folded together, and masking tape seals the three
 remaining edges, creating a glass-enclosed "Spore Booklet."
@@ -58,7 +59,7 @@ temperature fluctuation.
 
 ## Creating Spore Mass Slurries
 
-For those wishing to begin a mushroom patch using fresh
+For those wishing to begin a [[mushroom-patch-design-backyard-cultivation]] using fresh
 specimens, a more efficient method of spore collection is
 recommended. This method calls for the immersion of the
 mushroom in water to create a spore mass slurry.
@@ -67,7 +68,7 @@ mushroom in water to create a spore mass slurry.
   1. Choose fairly mature mushrooms
   2. Submerge them in a 5-gallon bucket of water
   3. Add a gram or two of table salt to inhibit bacteria
-     without substantially affecting spore viability
+     without substantially affecting [[pf-tek-spore-viability-degradation]]
   4. Add 50 ml of molasses to stimulate spores into
      frenzied germination
   5. After four hours of soaking, remove the mushroom(s)
@@ -87,36 +88,3 @@ through a variety of lignin-cellulosic wastes.
 Only at the stage when fruitbody production is sought does
 the precise formulation of the substrate become crucial.
 For [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
-([[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]), outdoor beds of mixed hardwood chips work
-well.
-
-The approach of creating "spore mass slurries" of Morels
-and other species to aerially "bomb" large expanses of
-forest lands is an idea that, as crazy as it may initially
-sound, warrants serious investigation from a growing-gourmet-mushroom-cloning-technique
-is fundamentally different from a culture originating from spores. When spores are
-germinated, many different strains are created, some
-incompatible with one another. A cultivator will not know
-what features will be expressed until each and every strain
-is grown out to the final stage. This form of genetic
-roulette results in very diverse strains, some more desirable
-than others.
-
-Spores offer the most diverse source of genetic
-characteristics, far more than the phenotypic clone. If you
-want the greatest number of strains, collect the spores. If
-you want to capture the characteristics of the mushroom you
-have found, then clone the mushroom by cutting out a piece
-of living tissue.
-
-## Limitations
-
-Spore-mass fermentation techniques are not yet widely used
-by [[growing-gourmet-north-american-reishi-species]] or European cultivators. Concern for
-preserving [[critical-mass]]
-## See Also
-- [[growing-gourmet-outdoor-log-inoculation-techniques]]
-- [[coprinus-comatus]]
-- [[mushroom-spore-inoculation-techniques]]
-- [[spore-print-collection-spore-mass-inoculation]]
-- [[pf-tek-mycelium-senescence-spore-mass-inoculation]]

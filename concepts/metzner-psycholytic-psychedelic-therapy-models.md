@@ -1,6 +1,6 @@
 ---
-title: "Psycholytic and Psychedelic Therapy Models"
-aliases: [psycholytic therapy, psychedelic therapy, LSD psychotherapy, psychotomimetic]
+title: Metzner Psycholytic Psychedelic Therapy Models
+aliases: [[european-psycholytic-therapy-1960s-1970s]], psychedelic therapy, LSD psychotherapy, psychotomimetic]
 tags: [psychedelics, psychotherapy, LSD, history, clinical-research, mental-health]
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 created: 2026-05-09
@@ -8,7 +8,7 @@ created: 2026-05-09
 
 # Psycholytic and Psychedelic Therapy Models
 
-The use of hallucinogenic drugs in Western psychotherapy developed along two
+The use of [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] Western psychotherapy developed along two
 distinct but related tracks during the 1950s and 1960s: the psycholytic model,
 dominant in Europe, and the psychedelic model, preferred in Anglo-American
 circles. Ralph Metzner, who worked with Timothy Leary and Richard Alpert at
@@ -49,7 +49,7 @@ reaction patterns acquired in early family interactions, and such insight would
 bring about resolution of inner conflicts. The Czech psychiatrist Stanislav Grof,
 working within this model, made the startling discovery that patients would
 relive the significant sensory-emotional features of their birth experience—
-patterns to which Grof gave the name perinatal matrices.
+patterns to which Grof gave the name [[metzner-grof-perinatal-matrices-and-transpersonal-realms]].
 
 ## The Psychedelic Model
 
@@ -71,7 +71,7 @@ arts community, bringing considerable publicity and notoriety to psychedelics.
 Timothy Leary, Frank Barron, Richard Alpert and the Harvard research project
 adopted the term "psychedelic" and began exploring the possibilities of the
 psychedelic experience for "normals" (mostly graduate students) as well as
-artists, musicians, poets and writers. The concept of "consciousness expansion"
+artists, musicians, poets and writers. The concept of "[[mckenna-consciousness-expansion-and-drug-war]]"
 was introduced, contrasted with the contracted, fixated awareness characteristic
 of addictions, obsessions and compulsions.
 
@@ -82,42 +82,9 @@ external setting or context, including the presence of a guide or therapist.
 
 ## Empathogens and the Shulgin Phenethylamines
 
-A significant extension occurred with Alexander Shulgin's discovery of
+A significant extension occurred with [[alexander-shulgin]]'s discovery of
 phenethylamines such as MDA, MDMA, and 2C-B, which bring about an expansion and
 centering of awareness primarily on the emotional or heart-level, with minimal
 perceptual changes. The name "empathogens" (generating a state of empathy) was
 proposed for this class. MDMA was used with impressive success in psychotherapy,
 facilitating significant opening of relationship communication and helping heal
-disabling trauma.
-
-## Five Shared Fundamental Conclusions
-
-Despite theoretical differences, Metzner identified five conclusions shared by
-both approaches:
-
-1. Psychotherapy with hallucinogens involves a profoundly expanded state of
-   consciousness, transcending neurotic dynamics and fundamental self-concepts.
-
-2. Set and setting are the most important determinants; the drug plays the role
-   of catalyst or trigger, unlike other psychiatric medications where
-   pharmacological action seems paramount.
-
-3. Two metaphors recur: the amplifier analogy (drug as nonspecific amplifier of
-   psychic contents) and the microscope metaphor (psychedelics as instruments for
-   observing hidden realms of the mind).
-
-4. The personal experience of the therapist is an essential prerequisite, implying
-   a significant role for psychedelic experience in therapist training.
-
-5. Access to transcendent, religious, or transpersonal dimensions of
-   consciousness can be attained, as recognized by Hofmann, Grof, and Leary.
-
-## See Also
-
-- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
-
-- [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[hofmann-lsd-sandoz-research-program]]
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]]
-- [[weil-psychedelic-experience-set-and-setting]]

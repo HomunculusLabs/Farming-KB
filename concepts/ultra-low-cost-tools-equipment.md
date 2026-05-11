@@ -88,29 +88,3 @@ For [[faires-livestock-integration-permaculture]] and [[accessible-mushroom-cult
 JADAM's philosophy extends beyond specific tools to a general principle: if you can make it, grow it, or find it locally, do not buy it. This applies to every aspect of farming:
 
 - Fertilizers: made from crop residues, wild grass, food waste, and leaf mold
-- Pesticides: made from local herbs, oils, and minerals
-- Microorganisms: collected from local leaf mold
-- Soil amendments: sea water, rock powders, and local organic matter
-- Seeds: saved from previous harvests
-- Mulch: grass cuttings, crop residues, and fallen leaves
-
-## Energy Independence
-
-JADAM strongly advocates reducing energy dependency in farming. As energy costs rise, energy-intensive operations become increasingly vulnerable. JADAM methods minimize energy use by:
-- Eliminating the need for heavy machinery
-- Using anaerobic fermentation (no aeration pumps needed)
-- Using gravity-fed water systems where possible
-- Relying on passive solar heating for livestock shelters and mushroom houses
-- Using manual tools instead of powered equipment where practical
-
-## Economics of Tool Investment
-
-The JADAM approach to tools follows a clear economic logic: avoid tools that create recurring costs (fuel, maintenance, depreciation) and invest in simple, durable tools that pay for themselves quickly. A sickle, a watering can, and some fermentation containers represent a complete toolkit for ultra-low-cost farming that can serve a farmer for decades with minimal replacement costs.
-
-## See Also
-
-- [[jeavons-tools-equipment-biointensive]]
-
-- [[ultra-low-cost-integrated-farming]]
-- mushroom-substrate-pasteurization-comparison
-- [[accessible-mushroom-cultivation-for-disabilities]]

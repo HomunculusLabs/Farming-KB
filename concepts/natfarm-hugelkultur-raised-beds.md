@@ -88,23 +88,3 @@ philosophy of imitating natural forest ecosystems
 for food production. Combined with [[urban-rooftop-gardening-and-sheet-mulching]] on the surface,
 hugelkultur beds become self-sustaining growing systems that improve with
 each passing year.
-
-## Shape and Design Variations
-
-The shape of hugelkultur beds can vary widely depending on available
-materials and site conditions. Straight beds work well with uniform pole
-logs, while brush and branches lend themselves to curved or freeform
-shapes. Some builders create keyhole designs for easy access, while others
-build long mounds along contour lines to capture runoff water. The beds can
-be any length but should be no more than 5 to 6 feet wide so that the
-center can be reached from either side without stepping on the bed.
-
-## What to Grow
-
-After the initial cover crop of clover, hugelkultur beds are excellent for
-root vegetables like potatoes, carrots, and radishes. The loose, well-
-draining soil created by the decomposing wood is ideal for root crops that
-need deep, loose soil. In subsequent years, the beds can support a full
-range of vegetables, herbs, and even small [[holzer-soft-fruit-bushes-and-berries]]. The moisture-
-retaining properties make them particularly valuable in dry climates or
-during drought conditions where consistent watering is difficult.

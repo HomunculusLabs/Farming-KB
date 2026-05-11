@@ -88,25 +88,3 @@ When the rich growth of clover appears about to choke out the young rice
 seedlings in early June, the levees around the field are plastered with mud
 and water is held in the field for four to seven days to weaken the clover.
 After this, the field is surface-drained to grow hardy plants. During the
-first half of the rice [[savory-growing-season-and-non-growing-season-management]], irrigation is not strictly necessary,
-but water may be passed briefly over the field once every week to ten days.
-
-During the first half of its growing season, the rice does well under
-conditions similar to upland rice cultivation, but in the second half,
-irrigation should be increased with plant growth. After heading, the rice
-requires lots of water. A soil moisture level of eighty percent is adequate.
-
-### The Duck and Carp Alternative
-
-From the standpoint of natural farming, it would be preferable and much easier
-to release ten ducklings per quarter-acre onto the field when the rice
-seedlings have become established. Not only do the ducks weed and pick off
-insects, they turn the soil. Another good idea is to release young carp. By
-making full, three-dimensional use of the field in this way, one can at the
-same time produce good protein foods.
-
-## See Also
-
-- [[fukuoka-straw-natural-farming-philosophy]]
-- [[fukuoka-straw-winter-grain-straw-mulch]]
-- [[fukuoka-straw-soil-building]]

@@ -14,7 +14,7 @@ sources:
   - Schofield J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
   - Moore M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
   - Turner N.J. (1995). "Food Plants of Coastal First Peoples." UBC Press.
-  - Foster S., Hobbs C. (2002). "A ghouled-field-guide-historical-context to Western Medicinal Plants."
+  - Foster S., Hobbs C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants."
   - Small E., Catling P.M. (1999). "Canadian Medicinal Crops." NRC Research Press.
 ---
 
@@ -66,8 +66,8 @@ extend through the Rocky Mountains of Idaho and western Montana, with disjunct
 populations as far east as Ontario and Minnesota.
 
 The species is strongly associated with old-growth and mature coniferous forests,
-particularly those dominated by western redcedar (*Thuja plicata*), western
-hemlock (*Tsuga heterophylla*), and Sitka spruce (*Picea sitchensis*).
+particularly those dominated by western redcedar (*[[thuja-plicata]]*), western
+hemlock (*[[tsuga-heterophylla]]*), and Sitka spruce (*[[picea-sitchensis]]*).
 
 It thrives in riparian zones, avalanche chutes, and areas with high soil moisture
 and dappled shade. Elevation ranges from sea level to approximately 1,500 m.
@@ -87,47 +87,3 @@ The inner bark and root cortex contain a diverse array of bioactive constituents
 - **Alkaloids:** N-methyltyramine and related phenethylamine derivatives.
 - **Volatile oils:** Contributing to the distinctive spicy-aromatic fragrance of
   fresh inner bark.
-
-## Traditional and Modern Uses
-
-### Indigenous Medicine
-
-Pacific Northwest and Plateau Indigenous peoples used devil's club extensively.
-
-The inner bark was decocted as a treatment for colds, coughs, and tuberculosis.
-Poultices of the inner bark were applied to wounds, boils, and rheumatic joints.
-
-The plant was considered a powerful protective and purifying medicine. Burned as
-smudge, the dried bark was used in spiritual ceremonies and to ward off illness.
-
-### Contemporary Herbal Medicine
-
-Current herbal practice employs devil's club primarily as an adaptogen and
-immunomodulator. Tinctures of the inner bark are used for:
-
-- Immune system support during infections and chronic immune conditions
-- Blood sugar regulation in type 2 diabetes (supported by animal studies)
-- Anti-inflammatory support for arthritic and [[cannabis-autoimmune-conditions-detailed]]
-- Respiratory tonic for chronic bronchitis and asthma
-
-## Cultivation
-
-Devil's club is slow-growing from seed, requiring 18–24 months of cold
-stratification for germination. Vegetative propagation from rhizome divisions is
-more practical and commonly employed.
-
-Plants require rich, moist, well-draining soils in partial to full shade. They
-are intolerant of drought and prolonged direct sun. Established plants are
-extremely cold-hardy, tolerating temperatures below −30°C.
-
-Harvest of inner bark from wild populations raises sustainability concerns due to
-slow growth rates. Cultivation programs in the Pacific Northwest aim to reduce
-pressure on wild stands.
-
-## See Also
-
-- [[eleutherococcus-senticosus]]
-- aralia nudicaulis
-- [[urtica-dioica]]
-- [[withania-somnifera]]
-- [[quercus-robur]]

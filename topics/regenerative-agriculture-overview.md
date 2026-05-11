@@ -5,6 +5,7 @@ tags: [regenerative-agriculture, soil-health, no-till, cover-cropping, holistic-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - holmgren-living-soil-ethic.md
   - fukuoka-living-soil.md
   - cover-crop-guide-detailed.md

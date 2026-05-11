@@ -1,5 +1,5 @@
 ---
-title: Far-Red Light and the [[phytochrome]] Molecular Switch Mechanism
+title: Far Red Light Phytochrome Switch Mechanism
 created: 2026-05-09
 tags: [plant-biology, phytochrome, far-red-light, photoreceptor, flowering]
 date: 2026-05-09
@@ -88,42 +88,3 @@ system.
 The phytochrome switch operates with extraordinary speed. Only a few seconds
 of either red or far-red light are sufficient to toggle the flowering
 response on or off. This rapid response time means that brief light
-exposures, such as lightning flashes or passing headlights, could
-theoretically disrupt photoperiodic counting in sensitive plants. The
-sensitivity of the system also means that very [[darkness-low-light-facilitation-entheogenic-ceremonies]] intensities are
-effective, making it a robust detector that functions across a wide range
-of environmental light conditions.
-
-## Agricultural Applications
-
-The phytochrome switch mechanism has direct agricultural applications. Night-
-break lighting in greenhouses uses brief red light pulses to prevent short-
-day plants like chrysanthemums from flowering prematurely. Conversely,
-extending the photoperiod with red light can induce long-day plants to
-flower out of season. Understanding the molecular switch has also enabled
-the development of crops with modified photoperiodic responses through
-phytochrome gene manipulation, expanding the geographical range where
-certain crops can be grown by decoupling flowering time from local day
-length conditions.
-
-## Two Forms of Phytochrome
-
-The two interconvertible forms of phytochrome are designated Pr (the red-
-absorbing form) and Pfr (the far-red-absorbing form). Pr absorbs red light
-and converts to Pfr, which is biologically active. Pfr absorbs far-red
-light and reverts to Pr, which is inactive. In darkness, Pfr slowly reverts
-to Pr through a thermal decay process called dark reversion. The rate of
-this dark reversion contributes to the plant's ability to measure night
-length, as the accumulated reversion of Pfr to Pr over hours of darkness
-provides an internal timer that eventually triggers flowering when a
-critical threshold of inactive Pr is reached.
-
-## Agricultural Significance
-
-Understanding the phytochrome switch has had profound practical consequences.
-Commercial greenhouse growers routinely use night-interruption lighting with
-incandescent lamps rich in far-red light to suppress flowering in
-chrysanthemums and other short-day plants, maintaining [[cannabis-vegetative-growth-stage]]
-until the desired [[harvest-window-cannabis]]. Conversely, breeders have selected for
-varieties with reduced sensitivity to far-red conversion to prevent
-unwanted flowering under artificial lighting regimes.

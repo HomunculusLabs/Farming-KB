@@ -1,5 +1,5 @@
 ---
-title: Bloomfield Fungal Reproduction and Chemical Communication
+title: Bloomfield Fungal Reproduction And Chemical Communication
 created: 2026-04-21
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual spore production to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fruiting-body-development]] formation.
+Fungi "sing" to one another in chemical pulses and answer with developmental changes. Their reproductive strategies range from simple asexual [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] to elaborate sexual cycles involving pheromone communication between mating partners. Chapter 7 of "Mr. Bloomfield's Orchard" explores the mechanisms of [[fruiting-body-development]] formation.
 
 ## A follows an endless progression: spore, mycelium, spore, mycelium
 
@@ -30,14 +30,14 @@ Water molds (Achlya species) communicate using steroid pheromones remarkably sim
 4. **Contact and penetration**: male branches attach to the oogonium surface, flatten against it, and stumpy hyphae penetrate the egg chamber to inject sperm nuclei
 5. **Fertilization**: each egg can be fertilized by a different male; thick-walled oospores form and remain dormant until conditions favor germination
 
-The chemical structures of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
+The [[plants-of-the-gods-chemical-structures-hallucinogens]] of antheridiol and oogoniol are very similar to estrogen, progesterone, and testosterone — remarkable given the evolutionary distance between water molds and animals. All are ring-shaped lipids called steroids.
 
 ### John Raper's Discoveries
 
-John Raper at Harvard first demonstrated that antheridia and oogonia development was coordinated by chemical signals:
+John Raper at Harvard first demonstrated that antheridia and oogonia development was coordinated by [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]:
 - Worked with Achlya ambisexualis (which he discovered) and A. bisexualis
 - Fished for water molds by sterilizing hemp seeds and floating them on pond water samples — zoospores swim to the surface, glue themselves to seeds, and sprout hyphae
-- Cannabis seeds have very high fat content and make superb bait for water molds
+- [[query-how-to-germinate-cannabis-seeds]] have very high fat content and make superb bait for water molds
 
 ### Hermaphroditism vs. Heterothallism
 
@@ -88,45 +88,3 @@ Zygomycete pheromones use a unique signaling mechanism:
 - Trisporic acid functions in water and is also transmitted through air
 
 ## Basidiomycete Sexual Reproduction
-
-### Multiple Mating Types
-
-Mushroom-forming fungi have the most complex mating systems in nature:
-- All mycelia appear as masses of androgynous tubes, but genetic diversity lurks in their nuclei
-- A single species of ink-cap can encompass hundreds of different strains
-- A handful of mating-type genes determines compatibility
-- Each gene has multiple alleles, but only certain combinations can coexist in one mycelium
-
-### Somatic Incompatibility
-
-When incompatible strains meet and their hyphae fuse:
-- The region of mingled cytoplasm darkens and decays
-- Failed "marriages" are probably very common
-- Evolution of many sexes maximizes outcrossing potential and genetic variation
-
-### Territorial Conflict in Wood
-
-When different fungi compete for a tree trunk:
-- Incompatible species and strains create black-pigmented battle lines (melanin-impregnated walls and poisons)
-- These visible "decay columns" are three-dimensional territories running through the wood
-- Compatible strains fuse seamlessly
-- The result resembles a map of Balkan territorial disputes etched in black ink
-
-### Group Sex in Armillaria
-
-Armillaria gallica researchers in Massachusetts found that single mushrooms sometimes develop from 9+ individual mycelia:
-- Fruiting bodies collected before 1988 were genetic mosaics; post-1988 mushrooms from the same sites develop from single mycelia
-- Possible explanation: in favorable years, individual mycelia can accumulate enough biomass alone; in stressful years, many must cooperate
-- This raises questions about "cheater" strains (analogous to slime mold cheaters) that might contribute less biomass but dominate spore production
-
-## Mushroom Formation: The Unanswered Question
-
-The development of a mushroom fruiting body remains one of the great unsolved mysteries in biology:
-- A fly [[fungal-chemical-signaling]]
-- [[williams-pdc-non-violent-communication]]
-
-## See Also
-
-- [[bloomfield-fungal-sex-pheromones-mating-communication]]
-
-- [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]

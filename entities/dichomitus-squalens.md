@@ -6,16 +6,16 @@ tags:
   - polypore
   - white-rot
   - bioremediation
-  - lignin-degradation
+  - [[lignin-degradation]]
   - basidiomycota
   - wood-decay
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores. Part 1." Synopsis Fungorum, 6, 1-387.
-  - Martinez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus staycare-phanerochaete-chrysosporium-in-bioremediation strain RP78." Nature Biotechnology, 22(6), 695-700.
+  - Martinez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
   - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
-  - Hofrichter, M. et al. (2010). "Reactive oxygen species in fungal mycoremediation-white-rot-fungi-lignin-degradation-enzymes." Fungal Biology Reviews, 24(3-4), 112-120.
+  - Hofrichter, M. et al. (2010). "[[reactive-oxygen-species-and-oxidative-stress]] in fungal [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." [[bloomfield-fungal-biology-and-hyphal-growth]] Reviews, 24(3-4), 112-120.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=128404
 created: 2026-04-28
 ---
@@ -62,7 +62,7 @@ Tubes are concolorous with the pore surface, up to 3 mm in depth.
 
 Spores are cylindrical to allantoid, smooth, hyaline, non-amyloid, measuring 6-8 × 2-2.5 µm.
 
-Basidia are clavate, four-spored, with a prominent basal clamp connection.
+Basidia are clavate, four-spored, with a prominent basal [[clamp-connection-formation-and-nuclear-migration]].
 
 ## Distribution and Habitat
 
@@ -87,40 +87,3 @@ It secretes lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase in 
 Lignin peroxidases catalyze the oxidative depolymerization of lignin via hydrogen peroxide-dependent mechanisms.
 
 Manganese peroxidase oxidizes Mn²⁺ to Mn³⁺, generating diffusible oxidants that attack phenolic lignin structures.
-
-The fungus also produces cellobiose dehydrogenase, linking lignin degradation to cellulose metabolism.
-
-Under nitrogen-limited conditions, [[ligninolytic-enzyme-production-bioremediation]] shifts toward lignin-specific degradation.
-
-## Bioremediation Applications
-
-The ligninolytic enzyme system of D. squalens degrades a range of environmental pollutants.
-
-It has demonstrated effectiveness against [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs), including benzo[a]pyrene and pyrene.
-
-Chlorinated phenols, synthetic dyes, and pharmaceutical residues are also substrates for its oxidative enzymes.
-
-The fungus can decolorize industrial effluents from textile and paper pulp manufacturing.
-
-Compared to Phanerochaete chrysosporium, D. squalens shows comparable or superior activity against certain recalcitrant compounds.
-
-Immobilized cultures on wood chips or straw have been tested in bioreactor configurations for field deployment.
-
-## Ecological Role
-
-As a primary white-rot decomposer, D. squalens plays a critical role in carbon cycling within coniferous forest ecosystems.
-
-Its ability to completely mineralize lignin sets it apart from brown-rot fungi, which primarily degrade cellulose.
-
-The fungus contributes to the formation of humic substances through partial lignin oxidation products.
-
-It serves as a food source for various fungivorous insects and their larvae.
-
-Competition with other wood-inhabiting fungi influences forest stand-level decomposition dynamics.
-
-## See Also
-
-[[fomes-fomentarius]]
-[[bjerkandera-adusta]]
-[[laricifomes-officinalis]]
-[[pleurotus-ostreatus]]

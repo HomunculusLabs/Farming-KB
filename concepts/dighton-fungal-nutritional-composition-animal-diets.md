@@ -1,5 +1,5 @@
 ---
-title: "dighton fungal nutritional composition animal diets of Fungi as Animal Food Resources"
+title: Dighton Fungal Nutritional Composition Animal Diets
 created: 2026-04-28
 tags:
   - fungal-nutrition
@@ -33,11 +33,11 @@ include:
 |------------------------|-------------|---------|-------------------|---------|
 | [[genetic-improvement-agaricus-bisporus-molecular-approaches]]      | 50          | 1.2     | --                | 7       |
 | Boletus edulis         | 33          | 5       | 58                | 7       |
-| Lactarius deliciosus   | 19          | 7       | 28                | 6       |
-| Lentinus edodes        | 40          | 5       | 54                | 3       |
-| Morchella esculenta    | 12          | 2       | 46                | 10      |
+| [[lactarius-deliciosus]]   | 19          | 7       | 28                | 6       |
+| [[lentinus-edodes-entity-the-mushroom-cultivator]]        | 40          | 5       | 54                | 3       |
+| [[morchella-esculenta]]    | 12          | 2       | 46                | 10      |
 | Suillus luteus         | 17          | 4       | 53                | 6       |
-| Tuber melanosporum     | 11          | 2       | 42                | 8       |
+| [[tuber-melanosporum]]     | 11          | 2       | 42                | 8       |
 
 For comparison, chipped beef provides approximately 30% protein and 6% fat,
 while nuts range from 11 to 30% protein with 7 to 72% fat. Fungi thus occupy
@@ -46,7 +46,7 @@ low fat relative to seeds and nuts.
 
 ## Micronutrient and Mineral Content
 
-Clinton et al. (1999) measured nutrient content of fungal fruit bodies from
+Clinton et al. (1999) measured [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies from
 both mycorrhizal and saprotrophic basidiomycetes in a Nothofagus forest.
 They found that all elements except calcium were more concentrated in fungal
 tissue than in surrounding forest floor material. This nutrient density
@@ -88,32 +88,3 @@ many animals consume fungi as part of a mixed diet rather than exclusively.
 ## Variation Among Fungal Groups
 
 Nutritional composition varies among fungal functional groups. Mycorrhizal
-basidiomycetes and saprotrophic basidiomycetes show different nutrient
-profiles, reflecting their different ecological roles and substrate
-preferences. The nutrient content of fungal fruit bodies also varies
-seasonally and with the nutritional status of the substrate or host plant.
-
-Yeasts such as Saccharomyces cerevisiae show distinct nutritional profiles
-from filamentous fungi, with lower protein content (approximately 14%) and
-lower ash content. This variation among fungal types contributes to the
-diverse feeding strategies observed among mycophagous animals.
-
-## Implications for Ecosystem Productivity
-
-The conversion of fungal biomass (primary or secondary production) into
-animal biomass represents a critical pathway of energy and nutrient flow in
-ecosystems. The nutritional quality of fungi determines the efficiency of
-this conversion. Fungi that are richer in protein and minerals support
-higher rates of animal growth and reproduction, creating stronger links
-between fungal productivity and secondary production in food webs.
-
-Understanding fungal nutritional composition is therefore essential for
-predicting how changes in fungal [[core-endorhiza-bacterial-community-composition-cannabis]] -- whether from
-disturbance, pollution, or [[dighton-fungi-climate-change-feedback]] -- will cascade through food
-webs to affect animal populations and ecosystem-level productivity.
-
-## See Also
-
-- [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- fungal-stoichiometry-ecology

@@ -60,7 +60,7 @@ In traditional Siberian practice, the mushroom was sometimes consumed after bein
 
 ## See Also
 
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]
 ## Practical Considerations
 
 Successful implementation of Muscimol and Amanita Muscaria requires attention to

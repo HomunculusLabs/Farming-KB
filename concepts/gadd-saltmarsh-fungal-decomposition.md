@@ -19,7 +19,7 @@ type: concept
 Saltmarsh ecosystems are dominated by smooth cordgrass (Spartina
 alterniflora), whose shoots undergo standing decay in the intertidal
 zone before becoming incorporated into sediments. A specialised
-ascomycete [[air-pollution-fungal-community-responses]] drives lignocellulose degradation in this
+ascomycete [[air-pollution-fungal-community-responses]] drives [[lignocellulose-degradation-by-fungi]] in this
 system, using [[staycare-laccase-enzymes-in-bioremediation]] rather than the lignin peroxidases
 characteristic of white-rot basidiomycetes.
 
@@ -40,7 +40,7 @@ The major members of the smooth-cordgrass decomposer community are
 Phaeosphaeria spartinicola, P. halima, and Mycosphaerella sp.2.
 These were identified by [[fukuoka-direct-observation-method]] of ascomata and capture of
 expelled ascospores from standing-decaying blades. At sites with low
-grazing pressure from periwinkle snails, the percentage area of
+[[gadd-mycelial-network-resilience-grazing-pressure]] from periwinkle snails, the percentage area of
 decaying blades occupied by at least one of these three species exceeded
 90%. Buergenerula spartinae was regularly encountered at 40% or more
 blade area.
@@ -48,7 +48,7 @@ blade area.
 ## Molecular identification confirmation
 
 DNA-based methods (rDNA/ITS PCR with ascomycete-selective primers)
-confirmed the species identified by direct microscopy. T-RFLP and ITS
+confirmed the species identified by [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]. T-RFLP and ITS
 clone libraries revealed the same predominant ascomycetes. Two species
 more rarely encountered were Hydropisphaera erubescens and an
 undescribed ascomycete nicknamed '4clt'. Minor species observed at less
@@ -64,7 +64,7 @@ copper-containing enzyme capable of oxidising phenolic molecules. A
 key discovery by Eggert et al. (1997) showed that if a redox-mediator
 molecule is present alongside laccase, non-phenolic portions of lignin
 can be oxidised, enabling extensive lignin breakdown. The basidiomycete
-Pycnoporus cinnabarinus uses only laccase plus self-produced
+[[pycnoporus-cinnabarinus]] uses only laccase plus self-produced
 3-hydroxyanthranilate (HAA) as a [[staycare-fungal-redox-mediator-chemistry-pollutant-degradation]].
 
 ## Laccase activity screening
@@ -78,64 +78,12 @@ using molecular techniques.
 
 ## Laccase gene primer design
 
-Twenty published amino acid sequences for laccase genes from
+Twenty published [[cho-fish-amino-acid-preparation]] sequences for laccase genes from
 ascomycetes, basidiomycetes, bacteria, a plant, and a nematode were
 aligned and examined. Conserved sequences within copper-binding sites
 II and III were targeted. Degenerate forward and reverse primers were
 designed to be specific for fungal laccases and incapable of amplifying
 non-fungal laccases. PCR with positive controls (Aspergillus nidulans,
-Cryphonectria parasitica, Podospora sp., Saccharomyces cerevisiae)
+Cryphonectria parasitica, Podospora sp., [[saccharomyces-cerevisiae]])
 produced amplification products of expected size (approximately 900
 base pairs).
-
-## Laccase gene diversity in cordgrass ascomycetes
-
-All cordgrass decay ascomycetes possessed laccase genes in at least one
-strain. The two major Phaeosphaeria species exhibited five different
-partial laccase gene types (less than 96% amino acid similarity), with
-up to three different types within a single strain. Across all tested
-strains of the community, 13 distinct sequence types were obtained,
-revealing a broad spectrum of laccase activity potential.
-
-## Laccase genes from decaying blades
-
-DNA extracted from early and late stages of standing-decaying blades
-yielded 26 cloned partial laccase genes. Only two were not identifiable
-with gene sequences from the three major ascomycete community members.
-This demonstrates that the major species identified by microscopy and
-rRNA genes are the same species producing potentially lignolytic
-laccase genes within the decaying cordgrass blades.
-
-## Interaction with cellobiose dehydrogenase
-
-Temp and Eggert (1999) showed that cellobiose dehydrogenases can
-interact with laccase-mediator molecules, potentially allowing cellulose
-lysis to proceed alongside lignin oxidation when laccase is involved in
-lignocellulose breakdown. This mechanism may explain how ascomycetes
-achieve comprehensive lignocellulose degradation without peroxidase
-enzymes, coupling lignin oxidation with cellulose degradation.
-
-## Ecological significance and carbon cycling
-
-The laccase-based lignocellulolysis pathway has significant implications
-for carbon cycling in saltmarsh ecosystems. Saltmarshes are major
-carbon sinks, and the efficiency of [[dighton-fungal-decomposition-leaf-litter-dynamics]] determines how
-much fixed carbon is mineralised versus exported to marine sediments.
-The ascomycete community's ability to rapidly mineralise lignocellulose
-during standing decay affects both marsh food webs and long-term carbon
-sequestration.
-
-## Open questions
-
-Several questions remain: (1) What redox mediators are produced by
-cordgrass ascomycetes? (2) Is there synergy between laccases from the
-three major species? (3) Which laccases are active at different decay
-stages? (4) Are there major differences in lignolysis products among
-the different laccases? (5) How does grazing pressure from periwinkle
-snails interact with fungal decomposition pathways?
-
-## Related concepts
-
-- [[gadd-fungal-biodegradation-bioremediation]]
-- [[gadd-fungal-carbon-sequestration]]
-- [[gadd-mineral-transformations-biogeochemistry]]

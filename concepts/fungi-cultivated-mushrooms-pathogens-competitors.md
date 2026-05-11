@@ -1,5 +1,5 @@
 ---
-title: Fungi on Cultivated Mushrooms -- Pathogens and Competitors
+title: Fungi Cultivated Mushrooms Pathogens Competitors
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 # Fungi on Cultivated Mushrooms -- Pathogens and Competitors
 Cultivated mushrooms face a range of fungal diseases and competitors that can
 cause significant economic losses. Understanding these interactions is
-essential for mushroom farming and biological control.
+essential for mushroom farming [[odonata-dragonflies-damselflies-ecology-and-biological-control]].
 
 ## Agaricus bisporus Pathogens
 
@@ -39,18 +39,18 @@ tends to deteriorate rapidly on rich media.
 - **[[pythium-oligandrum]]:** Causes black patches on caps
 - **Mortierella bainieri:** Causes "shaggy stipe"
 - **Trichoderma species:** Common competitors, particularly aggressive in
-  mushroom compost
+  [[duggar-mushroom-compost-fermentation-biology]]
 
 ## The Scytalidium-Agaricus Relationship
 
-A remarkable case of ecological succession in mushroom cultivation:
+A remarkable case of [[query-what-is-ecological-succession-and-how-can-farmers-use-it]] [[contamination-prevention-in-mushroom-cultivation]]:
 
 1. Scytalidium thermophilum colonizes compost during the thermophilic phase
    (55-70C)
 2. It prepares the substratum by breaking down complex organic matter
 3. Agaricus bisporus then colonizes and Scytalidium is inactivated
 4. This regular and intimate association may be comparable to the
-   Xylaria-Termitomyces relationship in termite fungus gardens
+   Xylaria-Termitomyces relationship in termite [[termite-ant-fungus-gardens]]
 
 ## Fungi on Sporocarps in Nature
 
@@ -87,63 +87,3 @@ host. Observed in association with Scleroderma mycorrhiza in Picea abies.
 ## Study Methods
 
 ### Collection
-
-Specimens collected and stored separately in boxes or paper bags. Observations
-and isolations should be made as soon as possible because sporocarps are
-quickly destroyed by insects and bacteria.
-
-### Culture
-
-Most SCIF (sporocarp-inhabiting fungi) grow on ordinary culture media.
-Preferred media include:
-
-- Cornmeal agar (nutritionally poor, transparent)
-- Malt extract agar
-- Potato-dextrose agar
-- Hypomyces fruiting agar (mixture of PDA and MEA)
-- Mushroom extract agars (containing host homogenate)
-
-### Identification
-
-- Many SCIF can be named in the field, especially on selective hosts
-- [[fungal-microscopic-examination-mounting-media-techniques]] often needed when similar species colonize the
-  same host
-- Single-spore isolation required to establish anamorph-teleomorph
-  connections
-- Dilute media recommended for long-term preservation
-
-## Geographic Distribution
-
-Unlike mostly cosmopolitan soil fungi, SCIF distributions are determined by
-their substrata -- macromycete species that are more strongly localized due to
-continental barriers and differences in climate, soil, and vegetation. Some
-SCIF are consequently localized considerably.
-
-## Trichoderma: The Most Damaging Competitor
-
-Trichoderma species represent the most economically significant fungal
-competitors in commercial mushroom cultivation. These aggressive saprobes
-colonize mushroom substrate before the crop fungus can establish itself,
-rendering entire beds or houses unproductive.
-Key Trichoderma issues in mushroom farming:
-
-- **Trichoderma aggressivum f. europaeum** and **T. aggressivum f.
-  aggressivum**: The primary causal agents of "green mold" disease on
-  Agaricus farms worldwide. First identified as a serious problem in the
-  1980s and have since become the dominant disease challenge.
-- **[[trichoderma-harzianum]]**: A complex species aggregate including both
-  pathogenic and beneficial strains. Pathogenic strains cause severe crop
-  losses; beneficial strains are used as biocontrol agents against other
-  pathogens.
-- **Spread and contamination**: Trichoderma spreads via airborne spores,
-  contaminated equipment, workers' clothing, and infected spawn. Once
-  established, it produces enormous numbers of conidia that rapidly
-  colonize adjacent substrate.
-[[weed-management-strategies]] include strict hygiene protocols, filtered air systems,
-compost quality control, and the use of selective spawn strains that
-competitively exclude Trichoderma during colonization.
-## See Also
-
-- [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]
-- [[mushrooms-fungi-from-around-the-world-guide]]
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]]

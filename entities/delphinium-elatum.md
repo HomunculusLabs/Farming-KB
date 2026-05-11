@@ -55,7 +55,7 @@ Delphinium elatum prefers cool summer conditions and struggles in hot, humid cli
 
 The species is classified as a hemicryptophyte, surviving winter as a basal bud at ground level. Spring emergence is relatively late compared to many alpine species, typically beginning in April or May.
 
-In North America, the species has naturalized in limited areas of the Pacific Northwest and New England. These populations are generally found near old gardens or abandoned homesteads.
+In [[guzman-psilocybin-mushrooms-north-america]], the species has naturalized in limited areas of the [[psilocybin-north-america-pacific-northwest]] and New England. These populations are generally found near old gardens or abandoned homesteads.
 
 Historical use of delphinium preparations as pediculicides (lice treatments) and external wound applications is documented. These uses have been superseded by safer modern alternatives.
 
@@ -71,11 +71,11 @@ Staking is essential for tall cultivars, as the hollow flower stems are vulnerab
 
 Propagation is by seed, basal cuttings, or division. Seeds require darkness and cool temperatures for germination. Fresh seed germinates more reliably than stored seed.
 
-Basal cuttings taken in early spring root readily with bottom heat. Division is best performed in early spring before new growth exceeds 10 cm, replanting vigorous outer portions.
+Basal cuttings taken in [[coleman-overwintered-onions-and-early-spring-crops]] root readily with bottom heat. Division is best performed in early spring before new growth exceeds 10 cm, replanting vigorous outer portions.
 
 Plants are relatively short-lived, typically persisting 3–5 years before the center of the crown deteriorates. Regular division every 3 years maintains vigor and flower quality.
 
-Delphinium elatum is susceptible to powdery mildew, crown rot, and slugs. Good air circulation and careful watering practices reduce fungal disease pressure significantly.
+Delphinium elatum is susceptible to [[cervantes-powdery-mildew-prevention-treatment]], crown rot, and slugs. Good [[stamets-growing-room-air-circulation-co2-management]] and careful watering practices reduce [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure significantly.
 
 The species hybridizes readily with other Delphinium species, which has been exploited extensively in horticultural breeding. Natural hybrids between D. elatum and D. cheilanthum have been documented in the Carpathians.
 
@@ -88,34 +88,3 @@ Ingestion causes nausea, vomiting, abdominal pain, muscle weakness, and in sever
 Cattle are particularly susceptible to delphinium poisoning, and the plant is considered a significant cause of livestock loss in western North America. Native Delphinium species pose a similar risk.
 
 Gardeners should wear gloves when handling the foliage, as the alkaloids can cause skin irritation in sensitive individuals. Contact with sap followed by eye rubbing has caused corneal irritation.
-
-Despite their toxicity, Delphinium alkaloids have been investigated for potential pharmaceutical applications. Some compounds show promising antiarrhythmic and neuroprotective properties in laboratory studies.
-
-Traditional herbal medicine used minute quantities of delphinium preparations as sedatives and antispasmodics. This practice is considered dangerous and has been abandoned in modern herbalism.
-
-## Ecological Role
-
-The tall flower spires of Delphinium elatum are pollinated by bumblebees (Bombus spp.), which are large enough to access the nectar deep within the spur. The "bee" petals serve as a landing platform and visual guide.
-
-Hoverflies and moths also visit the flowers, though they are less effective pollinators due to their smaller size. The deep nectar spur excludes smaller insects and creates a specialized pollination relationship.
-
-In alpine meadow communities, Delphinium elatum contributes significant vertical structure. The tall stems provide perching sites for insects and small birds in otherwise low-growing plant communities.
-
-The species is a food plant for the larvae of several moth species in its native range. The toxic alkaloids provide some protection against generalist herbivores but do not deter specialized insects.
-
-Delphinium elatum hybridizes readily with related species where ranges overlap. This natural introgression has contributed to the genetic diversity that breeders exploit in creating garden cultivars.
-
-The seeds are dispersed primarily by wind, with the follicles splitting open along one suture at maturity. Each plant can produce several hundred seeds in a favorable growing season.
-
-## See Also
-
-- [[delphinium-consolida]]
-- [[aconitum-napellus]]
-- [[ranunculus-acris]]
-- [[clematis-vitalba]]
-- [[helleborus-niger]]
-- [[anemone-nemorosa]]
-- [[pulsatilla-vulgaris]]
-- [[nigella-sativa]]
-- [[eranthis-hyemalis]]
-- [[aconitum-carmichaelii]]

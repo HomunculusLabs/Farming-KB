@@ -88,18 +88,3 @@ Climbing varieties (Alderman, Tall Telephone, original Sugar Snap) allow more ex
 
 - Seeds eaten green, like shelling peas.
 - Specific to narrow daylight-length ranges for flowering and seed formation.
-- Completely daylength-sensitive: goes into bloom and makes one set of seed that's it.
-- You must grow several varieties maturing at different times for a continuous harvest.
-- Sow all varieties at the same time; as later seed formation happens, the earlier flowers it may form, and the larger the harvest.
-- Prepare by boiling when pods have become fat but are not yet hard.
-
-## Related
-
-- [[growing-by-chunking-guide]] Concepts
-
-- [[david-holmgren]]
-- [[garden-nutrition-and-diet]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapter on legumes
-- [[solomon-cover-crops-green-manure-guide]]
-- [[holzer-green-manure-and-soil-building-plants]]

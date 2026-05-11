@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -86,11 +87,3 @@ Outdoor beds can accommodate a diverse range of substrate materials:
 - **Wood chip mulch:** Commercial landscaping mulch, commonly used
   around ornamental plantings, can serve as [[gourmet-medicinal-mushroom-substrate-preparation]].
   The Wine Cap mushroom is frequently found in such settings.
-
-- **Agricultural residues:** Spent straw from [[growing-gourmet-tree-species-guide-mushroom-cultivation]].
-
-## See Also
-
-- [[growing-gourmet-stump-totem-cultivation]]
-- [[growing-gourmet-stametsian-permaculture-model]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]

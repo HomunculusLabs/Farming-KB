@@ -21,7 +21,7 @@ sources:
 
 Cycas revoluta, commonly called the sago palm or king sago, is a cycad in the family Cycadaceae. Despite its common name, it is not a true palm but a gymnosperm more closely related to conifers and ginkgos.
 
-It is native to southern Japan including the Ryukyu Islands and Kyushu. The species is one of the most widely cultivated cycads worldwide, valued as an ornamental landscape plant in subtropical and tropical regions.
+It is native to southern Japan including the Ryukyu Islands and Kyushu. The species is one of the most widely cultivated cycads worldwide, valued as an ornamental landscape plant in subtropical and [[fukuoka-natural-farming-in-tropical-regions]].
 
 All parts of the plant contain toxic cycasin and other azoxyglycosides. Ingestion causes severe gastrointestinal distress, liver damage, and potentially fatal neurological symptoms in humans and livestock.
 
@@ -49,7 +49,7 @@ Cycas revoluta is native to the southern Japanese islands of Kyushu, Shikoku, an
 
 The species has been widely naturalized in parts of southern China, Taiwan, Korea, and northern Australia. Naturalized populations also occur in Mauritius, eastern Africa, and the Americas.
 
-It thrives in well-drained, slightly acidic soils in warm subtropical climates. Optimal growth occurs in areas with annual rainfall of 1000 to 2000 millimeters and mean temperatures of 20 to 27 degrees Celsius.
+It thrives in well-drained, slightly acidic soils in warm [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Optimal growth occurs in areas with annual rainfall of 1000 to 2000 millimeters and mean temperatures of 20 to 27 degrees Celsius.
 
 It is tolerant of coastal salt spray and brief periods of drought. It is moderately cold-hardy, surviving short freezes to minus 5 degrees Celsius with foliar damage.
 
@@ -63,9 +63,9 @@ Cycas revoluta is among the most commonly cultivated cycads in temperate and sub
 
 Propagation is primarily from seed, which requires scarification and soaking before sowing. Seeds germinate in 2 to 6 months at soil temperatures of 25 to 30 degrees Celsius.
 
-Vegetative propagation from offsets or "pups" that form at the base of mature trunks is also practiced. Offsets are removed, allowed to callus for several days, and rooted in well-drained sand.
+[[hamilton-vegetative-propagation]] from offsets or "pups" that form at the base of mature trunks is also practiced. Offsets are removed, allowed to callus for several days, and rooted in well-drained sand.
 
-The species requires excellent drainage and is susceptible to root rot in waterlogged soils. A sandy loam mix with added perlite or pumice provides ideal growing conditions.
+The species requires excellent drainage and is susceptible to [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] waterlogged soils. A sandy loam mix with added perlite or pumice provides ideal growing conditions.
 
 Major pests include the cycad scale (Aulacaspis yasumatsui), which can devastate cultivated specimens. The blue cycad butterfly (Luthrodes pandava) larvae also defoliate plants in tropical regions.
 
@@ -81,35 +81,10 @@ Other toxic constituents include cycasin-related neocycasins, macrozamin, and th
 
 Ingestion of seeds causes vomiting, diarrhea, abdominal pain, and in severe cases, seizures, coma, and death. Livestock poisoning is well documented in regions where the plant is accessible to grazing animals.
 
-Despite the toxicity, seeds have been traditionally processed as a starchy food source in Japan and Southeast Asia. Processing involves prolonged soaking, repeated washing, and fermentation to leach out water-soluble cycasin.
+Despite the toxicity, seeds have been traditionally processed as a starchy food source in Japan and [[psilocybe-southeast-asia-pacific]]. Processing involves prolonged soaking, repeated washing, and fermentation to leach out water-soluble cycasin.
 
-Traditional detoxification reduces but does not entirely eliminate cycasin. Chronic consumption of poorly processed sago flour has been epidemiologically linked to higher rates of liver cancer and neurological disorders.
+Traditional detoxification reduces but does not entirely eliminate cycasin. Chronic consumption of poorly processed sago flour has been epidemiologically linked to higher rates of [[blesching-cannabis-liver-cancer]] and neurological disorders.
 
 ## Ecological Role
 
 In its native habitat, Cycas revoluta serves as a host plant for the larvae of several Lepidoptera species. The cycad blue butterfly (Luthrodes pandava) is a specialist herbivore whose lifecycle depends on cycad foliage.
-
-The plant has a mutualistic association with cyanobacteria of the genus Nostoc. These cyanobacteria colonize specialized coralloid roots that grow upward into the litter layer near the soil surface.
-
-The coralloid roots provide a protected environment and fixed carbon for the cyanobacteria. In return, the cyanobacteria fix atmospheric nitrogen, supplying the cycad with bioavailable nitrogen in nutrient-poor soils.
-
-This nitrogen-fixing symbiosis is essential for cycad survival in the infertile, rocky substrates where the species naturally occurs. Coralloid roots can constitute up to 10 percent of total root biomass.
-
-The brightly colored seeds are dispersed by birds, rodents, and potentially fruit bats. Seed dispersal distances are typically limited, contributing to the species' clonal distribution pattern in native populations.
-
-Cycads including Cycas revoluta are among the oldest surviving lineages of seed plants. Fossil records indicate the Cycadaceae family has existed since the Permian period, approximately 280 million years ago.
-
-The genus Cycas is considered the most basal extant cycad genus, retaining ancestral traits absent in other cycad families. This phylogenetic position makes it significant for understanding gymnosperm evolution.
-
-Populations in Japan have declined due to habitat loss and over-collection of wild specimens for the horticultural trade. The species is listed as Near Threatened on the IUCN Red List.
-
-## See Also
-
-- [[ginkgo-biloba]]
-- [[araucaria-araucana]]
-- [[pinus-sylvestris]]
-- [[taxus-baccata]]
-- [[ephedra-sinica]]
-- [[juniperus-communis]]
-- [[cedrus-libani]]
-- arbuscular mycorrhiza

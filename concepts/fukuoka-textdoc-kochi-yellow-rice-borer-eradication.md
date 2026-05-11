@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,60 +87,3 @@ This contradiction became a key lesson for Fukuoka.
 Eliminating one pest, it turned out, simply created conditions for other problems.
 
 Rice stem borers and cutworms increased.
-
-Insect pests and crop diseases sometimes offset each other.
-
-A decline in insect infestation, followed by rice blast disease or sclerotium rot, could open up new problems.
-
-No in-depth study was conducted, so there was no way of knowing for certain, but the lack of a significant increase in yields despite elimination of the rice borers suggested that this is what happened.
-
-## Damage Was Always Overestimated
-
-Fukuoka later reassessed the entire campaign with a critical eye.
-
-He realized that damage by rice borers had always been overestimated.
-
-White heads of grain due to post-heading damage stand out in the field, making the damage appear worse than it actually is.
-
-Even during severe infestations, actual yield reductions were generally under ten percent, and often less than five percent.
-
-Science, he observed, "prefers to overlook those fields that have been spared and focus instead on severely infested fields."
-
-He noted that if a small section of a large rice field contains rice grown with lots of fertilizer, rice borers congregate on this soft, vulnerable rice.
-
-But if left alone, the damage would be limited to the small sacrificial area — perhaps no more than one percent of the field under cultivation.
-
-## The Sparrow Scarecrow Cascade
-
-Fukuoka used the example of sparrow control to illustrate how pest management measures cascade unnecessarily.
-
-During the fall, sparrows gather about the ripening heads of grain, causing serious damage.
-
-If one farmer puts out scarecrows, then the farmer in the next field feels he has to do the same.
-
-This snowballs until everyone in the village is busy chasing away sparrows and laying netting over their fields.
-
-But the number of sparrows is not determined simply by the amount of grain available.
-
-Other factors such as minor crops, bamboo groves for roosting, climatic factors, and natural enemies all come into play.
-
-Sparrows do not multiply suddenly when the rice begins heading.
-
-If no one did anything, the sparrows would not devastate the fields.
-
-## Pests as Self-Defense by Nature
-
-The Kochi experience led Fukuoka to his principle that "diseases and pest damage are self-defense measures taken by nature to restore balance when the [[fukuoka-textdoc-natural-order-food-chain-unity]] has been disturbed."
-
-Pests are "a divine warning that something has gone wrong, that the natural balance of rice plants has been upset."
-
-Rice growth in Kochi Prefecture, with its warm temperatures and high humidity, was "too luxuriant."
-
-Disease and pest attack was "one method taken by nature for suppressing excessive growth."
-
-The first thing that pops into the head of an agricultural scientist when he sees a pest emerge is how to kill it.
-## See Also
-
-- [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[natural-farming]]

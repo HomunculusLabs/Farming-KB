@@ -31,17 +31,17 @@ The **Juncao Industry** is defined as the industry utilizing Juncao technology a
 - **Solar energy conversion** into Juncao grasses is 6–8 times higher than for broad-leaf trees
 - **Fast growth cycle** — herbaceous plants mature in months rather than decades
 - **Sustainable supply** — grasses can be harvested multiple times per year
-- **Reduced deforestation** — eliminates pressure on forest resources from the mushroom industry
+- **Reduced deforestation** — eliminates pressure on forest resources from the [[mushroom-industry-african-countries]]
 - **Economic accessibility** — many Juncao species are wild grasses or fast-growing crops requiring minimal inputs
 
 ## Juncao Species
 
-From 1983 to 2003, **37 Juncao species** were selected as suitable for mushroom cultivation using a three-stage selection method. Key species include:
+From 1983 to 2003, **37 Juncao species** were selected as suitable [[grass-seed-substrate-for-mushroom-cultivation]] using a three-stage selection method. Key species include:
 
 | Species | Common Name |
 |---------|-------------|
 | *Musa nana* | Banana |
-| *Miscanthus sinensis* | Chinese silver grass |
+| *[[miscanthus-sinensis]]* | Chinese silver grass |
 | *Dicranopteris dichotoma* | Hayscented fern |
 | *Miscanthus floridulus* | Florida silver grass |
 | *Pennisetum purpureum* | Napier grass |
@@ -50,7 +50,7 @@ From 1983 to 2003, **37 Juncao species** were selected as suitable for mushroom 
 
 ### Nutritional Comparison with Sawdust
 
-Laboratory analysis shows that most Juncao species are nutritionally superior to sawdust:
+[[solomon-soil-testing-laboratory-analysis-low-input-gardening]] shows that most Juncao species are nutritionally superior to sawdust:
 
 - **Protein content** of selected Juncao species is 2–4 times that of sawdust
 - Fat, nitrogen, phosphorus, potassium, and magnesium contents range from 101% to 908% of sawdust levels
@@ -68,7 +68,7 @@ By 2003, **45 species of fungi** had been successfully cultivated using Juncao s
 - **Shiitake** (*Lentinula edodes*)
 - **Wood ear** (*Auricularia* spp.)
 - **Button mushroom** (*[[genetic-improvement-agaricus-bisporus-molecular-approaches]]*)
-- **Straw mushroom** (*Volvariella volvacea*)
+- **Straw mushroom** (*[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]*)
 - **Many medicinal fungi**
 
 ## Oyster Mushroom Cultivation with Juncao
@@ -82,24 +82,9 @@ Oyster mushrooms (*P. ostreatus*) are especially well-suited to Juncao cultivati
 
 ## Environmental Impact
 
-The invention of Juncao techniques represents a paradigm shift in mushroom cultivation sustainability:
+The invention of Juncao techniques represents a paradigm shift [[contamination-prevention-in-mushroom-cultivation]] sustainability:
 
 - **Protects forests** by eliminating the need for tree-based substrates
 - **Utilizes marginal lands** — many Juncao species grow on degraded or marginal soils
 - **Controls invasive plants** — species like water hyacinth can be harvested for substrate
 - **Carbon sequestration** — fast-growing grasses capture atmospheric CO2
-- **[[zeri-circular-economy-systems]]** — spent Juncao substrate can be recycled as animal feed or fertilizer
-
-## Research and Institutional Support
-
-The **JUNCAO Research Institute** was established at Fujian Agriculture & Forestry University to continue research, species selection, and international training. Juncao technology has been shared with developing countries across Asia, Africa, and Latin America as part of China's agricultural technical cooperation programs.
-
-## Related Topics
-
-- [[mushroom-substrates]] — comprehensive guide to mushroom substrate materials
-- edible-wild-mushroom-guide
-- [[medicinal-mushroom-guide-shiitake]]
-- fungal-carbon-substrate-utilization-efficiency
-- [[agaricus-bisporus]]
-- [[oyster-mushroom]]
-- [[mushroom-substrate-preparation]]

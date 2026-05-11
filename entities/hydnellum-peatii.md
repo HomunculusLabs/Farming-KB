@@ -20,9 +20,9 @@ created: 2026-04-28
 ## Overview
 
 **Hydnellum peatii** is a species of tooth fungus in the family Bankeraceae, order
-Thelephorales. It was described from tropical and subtropical forest ecosystems,
+Thelephorales. It was described from tropical and subtropical [[dighton-fungi-acidifying-pollutants-forest-ecosystems]],
 distinguished from congeners by its hymenial spine morphology, spore dimensions,
-and ecological association with ectomycorrhizal host trees.
+and ecological association with [[ectomycorrhizal-host-tree-partnerships]] trees.
 
 The species is part of the largely temperate genus *Hydnellum*, making its
 neotropical distribution noteworthy. Like other Bankeraceae, it forms
@@ -50,7 +50,7 @@ and corky, typically bioluminescent in fresh specimens of the genus.
 
 **Spores:** Basidiospores are subglobose to broadly ellipsoid, ornamented with
 tuberculate to echinulate warts, measuring approximately 5.0-6.5 × 4.5-5.5 μm.
-Spore print is brown.
+[[boil-a-bag-spore-print-technique-jarrold]] is brown.
 
 ## Distribution and Habitat
 
@@ -58,16 +58,16 @@ Spore print is brown.
 ecosystems. Collections are associated with mature forest stands featuring
 ectomycorrhizal tree hosts.
 
-The species is terricolous, fruiting directly from soil among leaf litter and
+The species is terricolous, fruiting directly from soil among [[dighton-fungal-decomposition-leaf-litter-dynamics]] and
 humus. It shows preference for well-drained, acidic forest soils typical of
-montane and premontane tropical forests. Fruiting occurs during wet seasons
+montane and premontane [[fungal-biodiversity-tropical-forests]]. Fruiting occurs during wet seasons
 when soil moisture is elevated.
 
 ## Ecology and Symbiosis
 
 As an ectomycorrhizal fungus, *H. peatii* forms mutualistic associations with
 the fine roots of compatible tree species. The fungal mantle surrounds root
-tips, and a Hartig net penetrates between epidermal and cortical cells,
+tips, and a [[dighton-ectomycorrhizal-hartig-net-structure-function]] penetrates between epidermal and cortical cells,
 facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 Host trees likely include members of Fagaceae and potentially Dipterocarpaceae
@@ -87,21 +87,3 @@ dark staining of tissues suggests the presence of polyphenolic pigments common
 to the family.
 
 ## Related Species
-
-*H. peatii* is distinguished from *Hydnellum aurantiacum* by its neotropical
-range, smaller spore size, and less vividly colored pileus. From *H.
-concrescens*, it differs in its non-concrescent fruiting habit and spore
-ornamentation pattern.
-
-Within Bankeraceae, it shares ecological traits with *Phellodon niger* and
-*Sarcodon imbricatus*, all forming ectomycorrhizal associations in forest
-ecosystems. The genus *Bankera* represents a closely related lineage within the
-same family.
-
-## See Also
-
-- [[sarcodon-imbricatus]]
-- [[thelephora-terrestris]]
-- [[mycorrhizal-fungi]]
-- [[boletus-edulis-entity]]
-- [[paxillus-atrotomentosus]]

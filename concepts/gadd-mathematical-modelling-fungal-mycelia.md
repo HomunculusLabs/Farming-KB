@@ -1,5 +1,5 @@
 ---
-title: gadd mathematical modelling fungal mycelia of Fungal Mycelial Form and Function
+title: Gadd Mathematical Modelling Fungal Mycelia
 created: 2026-04-28
 tags:
   - mathematical-modelling
@@ -16,7 +16,7 @@ type: concept
 
 # Mathematical Modelling of Fungal Mycelial Form and Function
 
-Mathematical modelling of fungal growth and function aims to reduce
+Mathematical modelling of [[brassinosteroid-fungal-growth-promotion]] and function aims to reduce
 complex biological systems to simpler mathematical representations where
 rigorous logical structures can isolate, identify, and investigate key
 properties. As Einstein noted, 'everything should be made as simple as
@@ -52,7 +52,7 @@ production.
 ## Discrete models for sparse growth
 
 When growth is sparse, as in nutrient-poor conditions or structurally
-heterogeneous environments such as soils, continuum approaches are less
+[[modelling-mycelial-growth-heterogeneous-environments-davidson]] such as soils, continuum approaches are less
 relevant. Discrete modelling is more appropriate, where individual
 hyphae are identified. Such models usually take the form of computer
 simulations and are often derived from statistical properties of
@@ -88,63 +88,3 @@ The model tracks five coupled variables across five equations:
 (5) external substrate changes via diffusion and fungal uptake.
 
 ## Key biological features captured
-
-Hyphal tips tend to move in straight lines with small random
-fluctuations, and tip growth rate depends on internal substrate status.
-Branching is modelled as proportional to internal substrate
-concentration, consistent with observations that [[bloomfield-turgor-pressure-and-hyphal-invasion]] and
-tip vesicle build-up regulate branching. [[plant-nutrient-uptake-mechanisms]] depends on
-external and internal substrate concentrations and hyphal surface area.
-Both active (metabolically driven) and passive (diffusive) translocation
-mechanisms are included.
-
-## Calibration and validation with Rhizoctonia solani
-
-The model was calibrated using the ubiquitous soil-borne saprophyte
-Rhizoctonia solani. Colony radial expansion was measured experimentally
-and compared to model predictions at 15 and 30 degrees C. Good
-quantitative agreement was obtained. Remarkably, reducing tip velocity
-by the Q10-rule generated accurate predictions at the lower temperature,
-suggesting temperature effects can be captured by varying a single
-parameter.
-
-## Role of translocation mechanisms
-
-A remarkable finding emerged when active translocation was switched off:
-radial growth rate and biomass distributions were largely unaffected in
-uniform, substrate-rich conditions. This predicts that R. solani relies
-on energy-free diffusion for metabolite redistribution in nutrient-rich
-habitats. However, in heterogeneous environments, decreasing active
-translocation reduced substrate uptake rates on newly colonised droplets.
-This offers new insight: active translocation is crucially involved in
-initial exploitative phases, while diffusive translocation serves as a
-short-range exploratory mechanism.
-
-## Functional consequences: acid production
-
-Acidity production (from proton efflux and [[fungal-organic-acid-metal-solubilization]] excretion) was
-modelled as proportional to internal substrate concentration. The model
-generated pH profiles that accurately replicated and extended
-experimental measurements. In tessellated agar droplet systems with
-nutritionally heterogeneous environments, the model successfully
-predicted growth characteristics and mapped internal substrate
-concentrations.
-
-## Hybrid cellular automaton and future directions
-
-The continuum model was extended as a hybrid cellular automaton,
-explicitly including anastomosis and translocation while treating
-substrates as continuous variables, suited to sparse growth in soils.
-Multi-scale modelling connecting gene-level processes to organismal
-function is the long-term goal. Future work must incorporate additional
-nutrient types, multi-species interactions, and complex environmental
-heterogeneity.
-
-## Related
-
-- [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]
-
-- [[gadd-mathematical-modelling-fungal-mycelia-form-function]] concepts
-
-- [[gadd-colony-morphogenesis-hyphal-growth]]
-- [[gadd-fungal-ecology-saprotrophs]]

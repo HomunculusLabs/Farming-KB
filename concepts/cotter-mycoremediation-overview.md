@@ -8,14 +8,14 @@ sources: [cotter-organic-mushroom-farming-mycoremediation]
 ---
 # Mycoremediation Overview
 
-Mycoremediation is the use of fungi, specifically mushrooms, to break down
+Mycoremediation is the use of fungi, specifically mushrooms, to [[query-can-fungi-break-down-plastic-pollution]]
 environmental and industrial pollutants. The term combines "myco" (fungus)
 and "remediation" (to clean, resolve, or correct). From Cotter's "Organic
 Mushroom Farming and Mycoremediation," Chapter 22.
 
 ## Definition and Scope
 
-- Mycoremediation uses fungal biomass as a self-healing filter targeting
+- Mycoremediation uses [[bioremediation-fungal-biomass-biosorbent-material]] as a self-healing filter targeting
   specific [[plant-communication-volatile-organic-compounds]] pollutants
 - Proven effective against PCBs, [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]], oil spills, and
   biological contaminants (especially E. coli)
@@ -29,7 +29,7 @@ Mushroom Farming and Mycoremediation," Chapter 22.
 ### The Biology of Fungal Remediation
 
 - Mushrooms are decomposers and constructors, agents of habitat renewal
-- Fungal enzyme systems secrete into the environment, breaking materials
+- [[fungal-enzyme-systems]] secrete into the environment, breaking materials
   into smaller molecular units
 - Fungi "swim through their own fluids," dissolving materials for
   absorption through cell walls
@@ -82,68 +82,9 @@ Mushroom Farming and Mycoremediation," Chapter 22.
 - More aggressive at breaking down cellulose
 - Examples: Laetiporus (chicken of the woods), Hypsizygus (elm oyster,
   shimeji)
-- Efficient wood chip and stump recyclers
-- Compatible with mycorrhizal fungi for soil rebuilding
+- [[rocket-stoves-and-efficient-wood-burning-design]] chip and stump recyclers
+- Compatible with [[arbuscular-mycorrhizal-fungi]] for soil rebuilding
 
 ### White Rot Fungi
 
-- Highly effective at breaking down lignin and complex polymers similar
-  to lignin
-- Can degrade [[singh-fungal-degradation-of-chlorinated-compounds]] found in pesticides
-- Examples: Pleurotus (oyster), Trametes (turkey tail), Ganoderma
-  (reishi)
-- Produce ligninases, peroxidases, and laccases for decomposition
-
-## Enzyme Systems
-
-Fungi produce a spectrum of enzymes for specific functions:
-
-- **Cellulases**: Break down cellulose
-- **Ligninases**: Break down lignin
-- **Peroxidases**: Degrade complex organic compounds
-- **Laccases**: Oxide reductase enzymes; break down endocrine disruptors
-  like BPA
-- Each mushroom species produces a different narrow or wide spectrum of
-  these "chemical keys"
-- Fungi can retool enzyme production when exposed to new environmental
-  factors or [[neurotropic-fungi-chemical-compounds]]
-- Metabolites include novel antibiotics and chemoattractants that assist
-  in complex degradation
-
-## Simple Small-Scale Projects
-
-### Erosion Control and Water Quality
-
-- Myceliated wood chips or wheat straw bales improve soil water-holding
-  capacity
-- Reduce erosion from rainfall and water drainage on slopes
-- Place myceliated wood chip barriers at downslope edges to filter
-  runoff before it enters watersheds
-
-### Pet Waste Remediation
-
-- Cat litter: Scoop soiled litter into a bucket, cover with inoculated
-  biodegradable litter (wheat gluten, corncob). Mycelium decomposes in
-  ~12 weeks. Vermicompost before garden use.
-- Dog waste: 5-gallon bucket collection, add spawned substrate (hardwood
-  sawdust, wood chips, spent coffee grounds). Colonizes into a firm
-  mycelium cake. Vermicompost the finished block.
-- Best species: king stropharia and oyster mushrooms for cat litter;
-  oyster mushrooms for dog waste
-
-### Chicken Coop Fungal Filters
-
-- King stropharia creates sweet-smelling chicken runs
-- Wood chip bed (8 inches deep) under poultry wire (2 inches below
-  surface)
-- Chickens scratch top 2 inches without destroying mycelium below
-- Perimeter barrier bed catches excess runoff
-- Annual replacement produces rich compost for gardens
-- Place cardboard under roosts to capture manure for easy cleanup
-
-## Evaluating Species for Mycoremediation
-## See Also
-
-- [[cotter-pet-livestock-waste-fungal-remediation-systems]]
-- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
-- [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+- Highly effective at breaking [[query-how-do-white-rot-fungi-break-down-lignin]] and complex polymers similar

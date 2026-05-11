@@ -88,18 +88,3 @@ Oral tradition and folk knowledge played an equally important role. Experienced
 foragers passed on knowledge about optimal picking times (typically September
 through November, after the first autumn rains), weather conditions (cool, damp
 days following a dry spell were said to produce the best flushes), and the
-importance of careful identification. The informal mentorship model meant that
-knowledge was typically transmitted through personal relationships — older, more
-experienced foragers teaching younger ones — rather than through published
-texts. This created a self-policing culture in which correct identification was
-emphasised as a matter of survival, given the genuine risk of confusion with
-toxic species such as Galerina marginata (the deadly skullcap) and various
-Inocybe species that share similar grassland habitats.
-
-The British mycological community's [[i-thou-relationship-with-psychedelic-entities]] mushroom
-foragers was ambivalent. Official mycological societies generally avoided the
-topic, unwilling to be associated with illegal drug use. However, individual
-mycologists sometimes provided identification advice quietly, motivated by a
-concern for public safety — the risk of fatal poisoning from misidentification
-was real and well documented. This tension between scientific knowledge and
-[[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]] created a paradoxical situation in which accurate

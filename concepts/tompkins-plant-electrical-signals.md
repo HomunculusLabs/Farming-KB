@@ -1,10 +1,10 @@
 ---
 title: Plant Electrical Signals
 created: 2026-04-26
-aliases: [plant bioelectricity, action potentials in plants, plant nervous system]
+aliases: [plant bioelectricity, [[chamovitz-plant-electrical-signaling-action-potentials]] in plants, plant nervous system]
 tags: [botany, biophysics, electrophysiology, Bose]
-related: [tompkins-plant-perception-experiments, tompkins-plant-growth-regulators, tompkins-photosynthesis-biophotons]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-growth-regulators]], [[tompkins-photosynthesis-biophotons]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -40,7 +40,7 @@ scientific world."
 With his magnifier, Bose proved that plant skins (grapes, tomatoes)
 behave similarly to animal skins (lizards, tortoises, frogs). The
 vegetal digestive organs in insectivorous plants were analogous to
-animal stomachs. Close parallels existed between light response in
+animal stomachs. Close parallels existed between [[phototropism-darwin-plant-light-response]] in
 leaves and in animal retinas. Plants became as fatigued by continuous
 stimulation as animal muscles, whether hypersensitive mimosas or
 undemonstrative radishes.
@@ -88,45 +88,3 @@ time."
 
 Bose summed up his philosophy: "This vast abode of nature is built in
 many wings, each with its own portal. The physicist, the chemist and the
-biologist come in by different doors... Hence has arisen our present
-division of phenomena into the worlds of inorganic, vegetal and
-sentient. This philosophical attitude of mind may be denied."
-
-## Lund's Bioelectric Fields
-
-At Texas State University, Professor E.J. Lund showed that plant cells
-produce electric fields, currents, or impulses which serve as "nervous
-systems." His revolutionary finding: plant growth is triggered by these
-electrical systems rather than by growth hormones (auxins). Auxins are
-"summoned and even transported by the cell-generated electric fields to
-the place where growth is known to occur."
-
-The electric pattern in plant cells changes nearly half an hour before
-hormone diffusion can be effective and growth detected.
-
-## Atmospheric Electricity and Plants
-
-Finnish scientist Selim Lemstrom theorized that luxuriant subpolar
-vegetation was attributable to the aurora borealis rather than extended
-daylight. The sharp points of plants act like lightning rods collecting
-atmospheric electricity. Soil continually emits charged particles (ions)
-into the air; during storms the polarity reverses, maintaining a
-seesaw balance of electrical gradients.
-
-## Key Quotes
-
-- "It is difficult to draw a line and say that here the physical
-  phenomenon ends and here the physiological begins." -- J.C. Bose
-- "The isolated vegetal nerve is indistinguishable from animal nerve."
-  -- J.C. Bose
-- "Growth of plants is triggered by these electrical nervous systems
-  rather than by growth hormones, or auxins, as was previously believed."
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[bacterial-endophytes-plant-roots]]
-- mycorrhizal-plant-signaling
-- [[plant-electrophysiology]]
-- [[plant-bioelectricity]]
-- [[jagadis-chandra-bose]]

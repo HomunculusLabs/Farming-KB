@@ -16,11 +16,11 @@ sources:
 
 # Psilocybin Mushroom Legal History
 
-The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization. (see [[psilocybin-mushrooms-overview]]).
+The legal status of [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] has shifted dramatically from unrestricted [[traditional-indigenous-use-sacred-fungi]] to global prohibition, and now to early movements toward decriminalization and medical legalization.
 
 ## Pre-Prohibition Era (Pre-1960s)
 
-Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure. (see [[roland-griffiths]]).
+Before the 1960s, psilocybin mushrooms were not [[controlled-substances-act-and-psychedelic-research]] anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
 
 Indigenous mushroom use in Oaxaca, Mexico was unregulated and had been continuous for centuries.
 
@@ -34,13 +34,13 @@ The transformation of LSD and psilocybin from research tools to "inebriating dru
 
 ## The UK (1968-Present)
 
-- **1968**: The UK Dangerous Drugs Act placed psilocybin and psilocin in Class A, the most restrictive category. Possession of the chemical compounds became a serious criminal offense.
+- **1968**: The UK Dangerous Drugs Act placed [[hplc-analysis-of-psilocybin-and-psilocin]] in Class A, the most restrictive category. Possession of the chemical compounds became a serious criminal offense.
 - **2005**: The Drugs Act 2005 amended UK law to explicitly criminalize the possession and sale of fresh psilocybin mushrooms, closing a loophole where fresh mushrooms had technically been legal (only the dried preparations containing psilocybin having been scheduled).
 
 ## United States (1970-Present)
 
 - **1970**: The Controlled Substances Act placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
-- The scheduling effectively ended clinical psychedelic research in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
+- The scheduling effectively ended clinical [[johns-hopkins-psychedelic-research]] in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
 
 ## International Scheduling (1971)
 
@@ -75,3 +75,20 @@ A growing movement seeks to reverse prohibition:
 - [[magic-mushroom-history-timeline]] for the full chronological context
 - [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[psilocybin-mushroom-legal-status-worldwide]]
+- [[hallucinogenic-mushroom-legal-status-europe]]
+- [[psilocybin-mushroom-evolution]]
+- [[psilocybin-clinical-research-history]]
+- [[psilocybin-mushroom-common-names-slang]]

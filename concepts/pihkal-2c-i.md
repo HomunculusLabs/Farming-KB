@@ -71,7 +71,7 @@ warmth.
 Physical effects include moderate pupil dilation, increased energy, mild
 body load (muscle tension, restlessness), and enhanced tactile perception.
 Nausea during onset is reported by some users but is generally less severe
-than with mescaline or 2C-E.
+than with [[mescaline]] or 2C-E.
 
 ## Shulgin's Commentary
 
@@ -88,43 +88,5 @@ and overwhelming experiences.
 
 ## Pharmacology
 
-2C-I acts primarily as a serotonin 5-HT2A receptor agonist with additional
-affinity for 5-HT2C. The iodine substituent increases [[beta-glucan-receptor-binding]]
-affinity compared to smaller halogens. Some research suggests 5-HT1A
-activity, which could contribute to anxiolytic properties at lower doses.
-
-Metabolism occurs through hepatic oxidative deamination and O-demethylation,
-with the large iodine atom providing metabolic stability contributing to
-extended duration. Molecular weight is 307.12 g/mol.
-
-## Safety and Harm Reduction
-
-The steep dose-response curve is the primary safety concern. Doses above
-25 mg can produce extremely intense and distressing experiences. Accurate
-milligram-scale measurement is essential. Individuals with cardiovascular
-conditions should exercise caution due to elevated heart rate and blood
-pressure. Combination with other serotonergic substances carries theoretical
-serotonin syndrome risk. Harm reduction includes starting with lower doses,
-having a trusted sitter, and planning for the full 6 to 10 hour duration.
-
-## Comparison to Related Compounds
-
-Compared to 2C-B, 2C-I produces more intense and longer-lasting visuals
-with less empathogenic warmth and a slightly more challenging headspace.
-Against 2C-E, 2C-I is less intense visually and cognitively, with less body
-load and shorter duration. 2C-I occupies a middle ground in the 2C series:
-more powerful than 2C-B but more manageable than 2C-E.
-
-## Historical and Cultural Significance
-
-2C-I appeared in the research chemical market in the early 2000s and became
-one of the most popular 2C compounds alongside 2C-B. It was widely available
-online until scheduling. In the US, 2C-I was emergency-scheduled by the DEA
-in 2012 and permanently placed in Schedule I in 2014. It remains controlled
-in most jurisdictions but occasionally appears in underground markets.
-
 ## See Also
-
-- [[pihkal-2c-e]]
-- [[pihkal-2c-t-2]]
-- [[pihkal-introduction-and-methodology]]
+- [[pihkal-2c-b-family]]

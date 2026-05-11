@@ -30,7 +30,7 @@ Its small black ripe seed pods and resemblance to hop flowers contribute to both
 
 Medicago lupulina was described by Carl Linnaeus in 1753 and is placed within the section Lupulinae of the genus Medicago.
 
-The specific epithet lupulina refers to the hop-like appearance of the flower heads, drawing a parallel with Humulus lupulus.
+The specific epithet lupulina refers to the hop-like appearance of the flower heads, drawing a parallel with [[humulus-lupulus]].
 
 It is an annual, biennial, or short-lived perennial herb growing 15 to 60 centimeters tall with spreading to erect stems.
 
@@ -48,7 +48,7 @@ The species is morphologically variable, with some taxonomic treatments recogniz
 
 Medicago lupulina is native to most of Europe, the Mediterranean basin, western and central Asia, and North Africa.
 
-It has been introduced to virtually all temperate regions of the world and is naturalized across North America, South America, southern Africa, Australia, and New Zealand.
+It has been introduced to virtually all [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world and is naturalized across North America, South America, southern Africa, Australia, and New Zealand.
 
 The species occupies a remarkably wide ecological amplitude, occurring from sea level to approximately 2,500 meters elevation.
 
@@ -72,7 +72,7 @@ Seeds possess hardseededness, a physical dormancy mechanism that allows persiste
 
 This hardseeded trait facilitates survival through unfavorable conditions and contributes to the species' success as a colonizer of disturbed sites.
 
-Black medick forms mycorrhizal associations with arbuscular mycorrhizal fungi, which enhance phosphorus uptake and drought tolerance.
+Black medick forms [[plants-without-mycorrhizal-associations]] with [[arbuscular-mycorrhizal-fungi]], which enhance phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Cultivation and Uses
 
@@ -80,37 +80,10 @@ Medicago lupulina is included in some commercial pasture and turf seed mixtures,
 
 It is considered a valuable component of organic farming systems, providing natural nitrogen input and supporting pollinator populations within crop rotations.
 
-Nutritional quality is moderate to good, with crude protein content of 18 to 24 percent in leaf tissue during vegetative growth stages.
+[[coleman-winter-greens-nutritional-quality-cold-sweetening]] is moderate to good, with crude protein content of 18 to 24 percent in leaf tissue during vegetative growth stages.
 
 Digestibility compares favorably with white clover in early growth stages but declines more rapidly as stems mature and lignify.
 
 The species has been investigated as a potential ground cover in orchards and vineyards, where its low growth habit and shade tolerance provide soil protection.
 
 Its drought tolerance is lower than that of some other annual medics, limiting its use in arid and semi-arid environments.
-
-In turf management, black medick is often considered a beneficial component of low-maintenance lawns due to its nitrogen contribution and compatibility with grasses.
-
-## Cultural Significance
-
-Black medick has a long history of use in European traditional medicine, with preparations from aerial parts used as an anti-inflammatory and diuretic agent.
-
-In medieval European herbals, it was sometimes recommended for digestive complaints and as a topical wound treatment, though modern clinical evidence is lacking.
-
-The species is listed in several European pharmacopoeias as a minor traditional herbal remedy, though it has been largely superseded by more potent medicinal species.
-
-In ecological monitoring, black medick serves as an indicator species for moderately nutrient-enriched, frequently disturbed habitats in phytosociological surveys.
-
-Its ubiquity in lawns and urban green spaces has made it one of the most recognizable small legumes among the general public in temperate regions.
-
-## See Also
-
-- [[medicago-sativa]]
-- [[trifolium-repens]]
-- [[trifolium-campestre]]
-- [[trifolium-pratense]]
-- [[melilotus-officinalis]]
-- [[vicia-sativa]]
-- [[lespedeza-cuneata]]
-- [[glycine-max]]
-- [[robinia-pseudoacacia]]
-- [[cover-crop]]

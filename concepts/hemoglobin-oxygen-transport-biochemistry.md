@@ -84,32 +84,6 @@ Myoglobin's high affinity (low P50) makes it an intracellular O2 reservoir and f
 
 ### Sickle Cell Disease (HbS)
 
-cannabis sickle cell results from a single point mutation in the beta-globin gene (HBB): a GAG-to-GTG substitution causing Glu6Val. This hydrophobic valine on the beta-chain surface creates a sticky patch that, in the deoxygenated T state, interacts with a complementary hydrophobic site (Phe85 and Leu88) on an adjacent beta chain of another hemoglobin molecule. This leads to polymerization of deoxy-HbS into long fibers that deform red blood cells into rigid sickle shapes, causing vaso-occlusion, hemolysis, pain crises, and multiorgan damage. The disease is autosomal recessive; heterozygotes (sickle cell trait, HbAS) have partial protection against severe malaria (Plasmodium falciparum), explaining the allele's high frequency in malaria-endemic regions — a textbook example of balancing selection.
+[[blesching-cannabis-sickle-cell-disease-pain-inflammation]] results from a single point mutation in the beta-globin gene (HBB): a GAG-to-GTG substitution causing Glu6Val. This hydrophobic valine on the beta-chain surface creates a sticky patch that, in the deoxygenated T state, interacts with a complementary hydrophobic site (Phe85 and Leu88) on an adjacent beta chain of another hemoglobin molecule. This leads to polymerization of deoxy-HbS into long fibers that deform red blood cells into rigid sickle shapes, causing vaso-occlusion, hemolysis, pain crises, and multiorgan damage. The disease is autosomal recessive; heterozygotes (sickle cell trait, HbAS) have partial protection against severe malaria (Plasmodium falciparum), explaining the allele's high frequency in malaria-endemic regions — a textbook example of balancing selection.
 
 ### Thalassemias
-
-Thalassemias are quantitative defects in globin chain synthesis, classified by which chain is deficient:
-
-- **Alpha-thalassemia**: Caused by deletions of one or more of the four alpha-globin genes. Severity ranges from silent carrier (one gene deleted) to HbH disease (three deleted, with beta-4 tetramers causing mild-to-moderate hemolytic anemia) to hydrops fetalis (all four deleted, lethal in utero without intervention).
-- **Beta-thalassemia**: Caused by point mutations or small deletions in the beta-globin gene that reduce (beta+) or abolish (beta-0) beta-chain production. Unpaired alpha chains precipitate, damaging erythroid precursors and causing ineffective erythropoiesis. Beta-thalassemia major (Cooley's anemia) requires lifelong transfusion and fungi-of-southeast-asia; mildly unstable, causes microcytosis; compound heterozygotes with beta-thalassemia produce severe disease.
-- **Methemoglobinemia**: Either congenital (cytochrome b5 reductase deficiency) or acquired (oxidant drugs, nitrates), causing functional anemia and cyanosis due to Fe3+-heme that cannot bind O2.
-
-## Evolutionary Aspects
-
-Hemoglobins belong to the globin superfamily, an ancient lineage of heme-binding proteins. The earliest globins likely functioned as single-domain O2 sensors or scavengers in anaerobic or microaerophilic organisms, predating the evolution of complex circulatory systems. Key evolutionary milestones include:
-
-- **Ancient origin**: Globin-like proteins appear in bacteria, archaea, and unicellular eukaryotes (e.g., the flavohemoglobins of E. coli). Plant leghemoglobins in root nodules buffer free O2 to protect nitrogenase while maintaining O2 supply for respiration.
-- **Gene duplication and divergence**: The alpha- and beta-globin genes arose from an ancestral globin gene duplication estimated at ~500-800 million years ago, preceding the divergence of jawed vertebrates. Further duplications produced the developmental globin paralogs.
-- **Convergent evolution of O2 transport**: Arthropods evolved hemocyanin (copper-based) and annelids evolved chlorocruorin and hemerythrin as independent solutions to O2 transport, demonstrating that metal-based O2 carriers have arisen multiple times.
-- **Adaptive significance of HbF**: The evolutionarily recent persistence of fetal hemoglobin (with its higher O2 affinity) reflects the intense selective pressure on mammalian placental O2 transfer. Pharmacologic reactivation of HbF synthesis (via hydroxyurea or gene therapy targeting BCL11A) is now a frontline therapy for sickle cell disease and beta-thalassemia, leveraging this ancient developmental program.
-
-## Summary
-
-Hemoglobin is an exquisitely optimized molecular machine whose allosteric properties — cooperative binding, Bohr effect, 2,3-BPG regulation, and developmental isoform switching — allow vertebrates to meet the competing demands of O2 loading in the lung and unloading in metabolically diverse tissues. Its structural simplicity (four nearly identical subunits) belies sophisticated regulation, and its genetic vulnerability (single-residue mutations causing devastating disease) reflects the evolutionary trade-off between functional optimization and mutational fragility.
-## Related
-
-- [[query-how-does-hemoglobin-know-when-to-release-oxygen]] Topics
-
-- fungal-vacuolar-systems-and-nutrient-transport
-- [[fungal-single-cell-protein-production]]
-- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]

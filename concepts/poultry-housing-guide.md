@@ -8,7 +8,7 @@ sources: []
 ---
 # Poultry Housing Guide
 
-Proper poultry housing protects birds from predators, weather extremes, and disease while providing a comfortable environment for egg production, growth, and natural behaviors. Housing design significantly impacts flock health and productivity.
+Proper poultry housing protects birds from predators, weather extremes, and disease while providing a comfortable environment for [[mollison-designers-chicken-tractors-egg-production]], growth, and natural behaviors. Housing design significantly impacts flock health and productivity.
 
 ## Design Principles
 
@@ -21,7 +21,7 @@ Proper poultry housing protects birds from predators, weather extremes, and dise
 
 ### Ventilation
 - **Critical year-round** — Ammonia from droppings damages respiratory tracts
-- Ridge vents or gable-end vents provide passive air exchange
+- Ridge vents or gable-end vents provide passive [[growing-gourmet-growing-room-ventilation-air-exchange]]
 - Avoid drafts at bird level while allowing moisture to escape
 - Cold, dry air is far healthier for birds than warm, damp air
 - Frostbite risk in combs/wattles can be managed with Vaseline in extreme cold
@@ -85,17 +85,6 @@ Poultry manure is high in nitrogen and excellent for composting:
 - **Deep litter method** — Carbon bedding absorbs nitrogen; partially composts in place
 - **Regular cleaning** — Remove and compost manure weekly in smaller coops
 - **Composting** — Mix with carbon sources (straw, leaves, sawdust) at 25-30:1 C:N ratio
-- See [[animal-manure-guide]] for nutrient content analysis
+- See [[animal-manure-guide]] for [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] analysis
 
 ## Biosecurity
-
-- Quarantine new birds for 30 days before introducing to the flock
-- Limit visitor access to the coop area
-- Clean and disinfect waterers weekly
-- Remove dead birds promptly and dispose of properly (composting or burial)
-- Control rodent populations around feed storage areas
-- See [[composting-systems]]
-- livestock-feed-management
-- [[goat-keeping-guide]]
-- [[free-range-poultry-forage-design-mollison]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]

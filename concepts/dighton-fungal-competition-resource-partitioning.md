@@ -31,7 +31,7 @@ than competitors. The colonization of resources by fungi is a function of
 [[fungal-decomposition-resource-quality-determinants]], rate of arrival of fungal propagules (spores or hyphal
 fragments), and competitive interactions among fungal species on the resource.
 
-Different fungi possess different enzymatic capabilities that determine which
+Different fungi possess different [[fungal-enzymatic-capabilities]] that determine which
 resources they can exploit. Sinsabaugh and Liptak (1997) catalogued the
 various ectoenzymes produced by fungi and their biochemical effects on organic
 resources in plant litters. This enzymatic specialization creates natural
@@ -45,7 +45,7 @@ competition through the production of antibiotic [[antifungal-secondary-metaboli
 species, allowing the producing fungus to dominate a resource. In aquatic
 ecosystems, Bergbauer et al. (1992) found that decomposition rates were
 reduced in mixed-species fungal assemblages compared to single species,
-attributing this to the production of antimicrobial compounds resulting in
+attributing this to the production of [[antimicrobial-compounds-mushroom-mycelium]] resulting in
 nonnutritional competition between fungal species.
 
 ## Competition Between Saprotrophs and Mycorrhizae
@@ -58,7 +58,7 @@ available) and compete directly with plant roots and their mycorrhizae
 (Norton and Firestone, 1996).
 
 Ectomycorrhizal fungi also compete with saprotrophic fungi for resources.
-Yamanaka (1999) showed that while Laccaria bicolor and Hebeloma spp. could
+Yamanaka (1999) showed that while [[laccaria-bicolor]] and Hebeloma spp. could
 utilize ammonium, nitrate, urea, and protein as nitrogen sources, none of the
 mycorrhizal fungi could utilize nitrogen from ethylenediamine or putrescine,
 suggesting they could not compete with saprotrophic fungi for resources in
@@ -74,11 +74,11 @@ Hebeloma mycorrhizae (134 ng P per g leaf) compared to Lactarius (55 ng) or
 Laccaria (52 ng).
 
 Bending and Read (1996) showed that while some ectomycorrhizal fungi such as
-Suillus bovinus had greater access to nitrogen from bovine serum albumin,
-others such as Lactarius controversus, Paxillus involutus, and Piloderma
+[[suillus-bovinus]] had greater access to nitrogen from bovine serum albumin,
+others such as Lactarius controversus, [[paxillus-involutus]], and Piloderma
 crocerum accumulated no more nitrogen from this organic source than from a
 basal medium. Anderson et al. (2001) showed that some variation in the ability
-of Pisolithus tinctorius isolates to utilize organic nitrogen was due to the
+of [[pisolithus-tinctorius]] isolates to utilize organic nitrogen was due to the
 length of maintenance on agar culture, with longer storage times enhancing
 organic nitrogen utilization.
 
@@ -88,39 +88,3 @@ Grazing of fungal hyphae by soil animals affects competitive outcomes among
 fungal species. Newell (1984a, b) showed that grazing by collembola altered
 the vertical distribution of competing mycelia of Mycena galopus and
 Marasmius androcaceous in a spruce forest floor. Preferential grazing of
-Marasmius restricted its growth to lower depths while Mycena dominated in the
-A soil horizon.
-
-Coleman et al. (1990) showed that reduction in microbial predators in
-ecosystems with high densities of soil fauna led to increased decomposition of
-litter through relief of grazing pressure. In contrast, in systems with low
-densities of soil fauna, faunal reduction decreased decomposition, suggesting
-a synergistic interaction between fungi and their grazers.
-
-## Resource Quality and Competitive Ability
-
-Frankland (1992, 1998) described changes from lesion-forming fungi such as
-Rhizographus and Aureobasidium on standing dead litter, through colonization
-by basidiomycetes in relation to cellulose and lignin loss. The competitive
-abilities of species shift as the resource quality changes, with early
-colonizers exploiting simple carbohydrates and later colonizers requiring
-greater enzymatic competence.
-
-## Antagonism and Chemical Interactions
-
-Litter chemistry can exert significant control over competitive outcomes.
-Koide et al. (1998) showed that polyphenols catechin and epicatechin gallate
-stimulated the growth of Suillus intermedius but reduced the growth of
-Amanita rubescens. [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] such as alpha- and beta-pinene from pine
-litter had differential effects on a range of ectomycorrhizal fungi,
-demonstrating that the phenolic content and composition of leaf litter can
-significantly influence which fungal species dominate in the vicinity of
-litter deposits.
-
-## See Also
-
-- [[fungal-resource-partitioning-decomposition-sequences]]
-
-- [[dighton-fungal-trophic-interactions-soil-food-webs]]
-- [[dighton-fungal-succession-resource-decomposition]]
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]

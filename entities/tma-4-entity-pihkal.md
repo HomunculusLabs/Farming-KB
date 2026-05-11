@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TMA-4
 
-PIHKAL entry #160. 2,3,5-TRIMETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #160. 2,3,5-TRIMETHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -34,9 +34,9 @@ That is the sum total of the knowledge of
 subjective effects that exist. There was such a precious small amount
 of the final hydrochloride salt that, by the time the needed build-up
 of dosage had been completed, there was just enough left for this
-single trial, which was conducted in South America. Based upon the
+single trial, which was conducted in [[guzman-psilocybin-mushrooms-south-america]]. Based upon the
 volunteered comparisons to LSD and TMA, a potency for this compound
-has been published that states that it is 4x the potency of mescaline,
+has been published that states that it is 4x the potency of [[mescaline]],
 or 4 M.U. The material must be re-synthesized, and re-evaluated with
 the now-accepted protocol.
 
@@ -88,54 +88,3 @@ To a solution of 68 g 2,4-dimethoxybenzaldehyde in 250 mL
 glacial acetic acid that had been warmed to 25 deg C and well stirred,
 there was added, dropwise, 86 g of a 40% peracetic acid solution (in
 acetic acid). The reaction was exothermic, and the rate of addition
-was dictated by the need to maintain the internal temperature within a
-few degrees of 28 deg C. External cooling was used as needed. The
-addition took 1 h, and when the reaction had clearly been completed
-(no further temperature rise) the entire reaction mixture was added to
-3 volumes of H2O. The excess acid was neutralized with solid K2CO3
-(283 g were required). This was extracted with 3x100 mL Et2O, the
-extracts pooled, and stripped of solvent under vacuum to give 66 g of
-crude 2,4-dimethoxyphenyl formate. This was suspended in 125 mL 10%
-NaOH, and the mixture heated on the [[scythian-cannabis-steam-bath-ritual]] for 1.5 h. On cooling,
-the reaction mixture set to a heavy black solid. This was removed by
-filtration, washed with H2O, and dissolved in 250 mL CH2Cl2. The
-organic phase was washed with dilute HCl, and then with aqueous
-NaHCO3, which removed much of the color. Removal of the solvent under
-vacuum gave a deep red goo that was dissolved in 200 mL anhydrous Et2O
-and filtered through paper. The resulting clear solution was stripped
-of solvent, yielding 34.4 g of 2,4-dimethoxyphenol as a red oil that
-crystallized on cooling. A 1.0 g sample in 4 mL pyridine was treated
-with 0.9 g benzoyl chloride and heated on the steam bath for a few
-min. The addition of H2O gave a pasty solid that was isolated by
-pressing on a porous plate. The yield of crude 2,4-dimethoxyphenyl
-benzoate was 1.1 g. Recrystallization from cyclohexane gave a white
-product with a mp of 86-87 deg C. A second recrystallization from
-cyclohexane raised this to 89-90 deg C, which is in agreement with the
-literature value.
-
-To a solution of 31.0 g crude 2,4-dimethoxyphenol in 60 mL absolute
-EtOH there was added a solution of 11.25 g KOH in 90 mL boiling EtOH.
-To this, there was then added 28 g allyl bromide which produced an
-immediate white precipitate of KBr. The mixture was held at reflux
-for 2 h and then quenched in 3 volumes of H2O. Sufficient 10% NaOH
-was added to make the reaction strongly basic, and this was extracted
-with 3x100 mL Et2O. Removal of the solvent under vacuum gave 33.2 g
-of 1-allyloxy-2,4-dimethoxybenzene, shown to be free of phenol
-starting material by GC analysis. Analyses must be carried out at low
-column temperatures (below 180 deg C) on an ethylene glycol succinate
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[tma-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

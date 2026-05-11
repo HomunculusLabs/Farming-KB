@@ -71,7 +71,7 @@ creates a favorable interaction with the [[tihkal-receptor-binding-serotonin]] p
 contributing to both potency and duration of action.
 
 Radiolabeled DOI (particularly [125I]-DOI) has become one of the most
-widely used tools in serotonin receptor research, employed in hundreds of
+widely used tools in [[serotonin-receptor-interference-psychedelic-mechanism]] research, employed in hundreds of
 published studies to map 5-HT2A receptor distribution and investigate the
 mechanisms of hallucinogen action. Its importance in basic neuroscience
 research arguably exceeds that of any other PIHKAL compound.
@@ -87,23 +87,3 @@ The extended duration of 16 to 30 hours means users must be prepared
 for a full day and night of altered consciousness including an inability
 to sleep. Redosing is dangerously discouraged due to the risk of pushing
 already-long effects into a second day.
-
-Cardiovascular effects warrant caution for individuals with pre-existing
-heart conditions, hypertension, or anxiety disorders. The stimulant
-properties can be uncomfortable and may contribute to anxiety, particularly
-during the extended comedown period. A calm, familiar environment and an
-experienced, sober sitter are essential.
-
-## Comparison to Related Compounds
-
-Compared to DOB, DOI is slightly more potent (1.5 mg threshold vs. 1 mg
-threshold) and produces a headspace that many describe as cleaner and more
-intellectual. Against DOM, DOI is dramatically more potent (milligrams vs.
-tens of milligrams) and significantly longer-lasting. Compared to its
-phenethylamine parent 2C-I, DOI is approximately ten times more potent and
-three to five times longer in duration, demonstrating the profound
-pharmacological impact of alpha-methylation.
-## See Also
-
-- [[pihkal-dom]]
-- [[pihkal-2c-i]]

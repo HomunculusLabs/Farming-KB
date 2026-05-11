@@ -88,15 +88,3 @@ repeated monoculture. The best sowing time is summer when average temperature
 exceeds 15 degrees C (59 degrees F). Seeding rate is 4-5 kg (9-11 lb) per
 0.1 ha for broadcast seeding and 2-3 kg (4.4-6.6 lb) for line seeding with
 thin soil covering.
-
-To use as green manure, cut and return to soil before heading. To reduce
-salt from greenhouse soil, grow for over 60 days to let the grass absorb
-salt, then remove the plants. High groundwater levels or alkalinity cause
-poor growth. Corn can replace Sudan grass in some applications.
-
-## Rapeseed (Rapes)
-
-Rapes are among the most common [[fukuoka-weed-succession-crop-selection-guide]]
-
-- [[solomon-cover-crops-green-manure-guide]]
-- [[jadam-green-manure-crops-for-soil-salinity-reduction]]

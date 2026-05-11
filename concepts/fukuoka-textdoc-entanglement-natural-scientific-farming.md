@@ -5,6 +5,7 @@ tags: [natural-farming, scientific-farming, sericulture, divergence, history]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -44,7 +45,7 @@ day and night; only man feared the evening dew.
 
 As advances were made, silkworms were raised first under the eaves, then
 outdoors, and finally released into nearby trees. Sericulture appeared headed
-toward natural farming when the industry fell upon hard times from synthetic
+toward [[cho-loess-powder-in-natural-farming]] when the industry fell upon [[gardening-in-hard-times]] from synthetic
 fibers. When consumers rediscovered natural silk, innovative new techniques
 were adopted: industrial sericulture. Artificial feed prepared from mulberry
 leaf powder, soybean powder, wheat powder, starch, fats, vitamins, and
@@ -56,11 +57,11 @@ conveyors.
 
 Sericulture shifted repeatedly from one side to another. From natural farming
 it moved to scientific farming, then appeared to move a step back in the
-direction of natural farming. However, once scientific farming begins to get
+direction [[four-principles-of-natural-farming]]. However, once scientific farming begins to get
 under way, it does not regress or turn back but rushes madly onward along a
 path that takes it away from nature.
 
-The intertwining of natural farming and scientific farming can be depicted
+The intertwining of [[korean-natural-farming]] scientific farming can be depicted
 as follows. Narrowly defined natural farming, which includes [[coleman-deep-organic-farming-philosophy]],
 proceeds centripetally inward toward a state of "nothingness" (Mu) by the
 elimination of human labor; it compresses and freezes time and space. Modern
@@ -87,22 +88,3 @@ with scientific farming.
 The lesson of sericulture is clear: any apparent return toward natural
 methods is temporary if it remains within the framework of scientific
 thinking. True natural farming requires a fundamental shift in worldview,
-not merely a change in techniques. See [[fukuoka-theory-three-ways-of-farming]].
-
-## The Pattern Repeats
-
-This pattern of divergence, partial return, and then further departure from
-nature repeats across all areas of agriculture. In crop cultivation, in
-[[fukuoka-textdoc-natural-livestock-farming-open-grazing]], in forestry, man repeatedly discovers that his
-interventions create new problems, partially retreats toward natural methods,
-but then uses that partial knowledge to develop even more aggressive
-scientific techniques. The cycle is driven by the fundamental error of
-believing that man can improve upon nature through knowledge and action.
-
-## See Also
-
-- [[fukuoka-textdoc-scientific-farming-energy-paradox]]
-
-- [[fukuoka-natural-farming-vs-organic-farming]]
-- [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-four-principles-natural-farming]]

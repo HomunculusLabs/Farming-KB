@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-cubensis-miniculture-method]] Technique
+title: Psilocybe Cubensis Miniculture Technique
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 extracted: 2026-05-09
 type: concept
@@ -88,55 +88,3 @@ Bigwood and Beug reported the following performance characteristics:
 ## Advantages of the Miniculture Approach
 
 ### Experimental Control
-
-- **Replication**: Each jar is an independent experimental unit, allowing statistical comparison.
-- **Standardization**: Precise control over substrate amount, water content, and inoculum.
-- **Flush tracking**: Individual jars can be tracked across multiple flushes without cross-contamination.
-
-### Space and Resource Efficiency
-
-- **Small footprint**: A single jar occupies minimal space; dozens can be maintained on a standard shelving unit.
-- **Low substrate cost**: Only 10 g of rye grain per jar makes this one of the most economical cultivation methods.
-- **Minimal equipment**: No specialized fruiting chamber is needed; jars can be placed under any suitable light source.
-
-### Contamination Management
-
-- **Isolation**: Contamination in one jar does not spread to others.
-- **Easy disposal**: Contaminated jars can be discarded without losing the entire culture.
-- **Long productive life**: The sealed jar environment provides some protection against contamination during the extended fruiting period.
-
-## Limitations
-
-- **Small individual yields**: Each jar produces a relatively small amount of material, which may be insufficient for large-scale cultivation or commercial use.
-- **Harvest handling**: Harvesting from narrow-mouth jars can be awkward; wide-mouth jars are essential.
-- **Limited substrate depth**: The shallow substrate layer restricts the size of individual mushrooms compared to bulk cultivation methods.
-- **Casing complexity**: Applying and maintaining the casing layer in jars requires careful technique.
-
-## Comparison with Other Methods
-
-| Method | Scale | Yield/Jar | Control Level | Contamination Risk |
-|--------|-------|-----------|---------------|-------------------|
-| Miniculture (jars) | Small | ~2.7 g dry | Very high | Low (isolated) |
-| Rye grain trays | Medium | Variable | Moderate | Moderate |
-| Compost substrate | Large | High | Low | High |
-| Monotub | Large | Very high | Low | Moderate |
-
-## Adaptations for Home Cultivation
-
-The miniculture method has been widely adapted by home cultivators:
-
-- **PF Tek**: The "Psilocybe Fanaticus Technique" is essentially a variation of the miniculture approach using brown rice flour instead of whole rye grain, in smaller jars.
-- **Uncasing**: Some cultivators skip the casing layer entirely, relying on the humidity within the jar for fruiting, though this typically reduces yields.
-- **Fruiting chambers**: Jars are often placed in simple plastic container fruiting chambers for better humidity control rather than being fruited in the open jar.
-
-## Key Research
-
-- Bigwood, J. and Beug, M.W. (1982). "Variation of psilocybin and psilocin levels with repeated flushes." Journal of Ethnopharmacology 5: 287-291.
-- San Antonio, J.P. (1971). "A simplified procedure for growing the cultivated mushroom on rye grain." Mushroom Science 8: 727-732.
-- Oss, O.T. and Oeric, D.N. (1976). Psilocybin: Magic Mushroom Grower's Guide. And/Or Press.
-
-## See Also
-
-- [[mushroom-cultivation-basics]]
-- [[mushroom-fruiting-body-morphogenesis]]
-- [[contamination-identification-prevention]]

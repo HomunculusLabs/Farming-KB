@@ -88,19 +88,3 @@ JADAM identifies mineral depletion as one of the most critical yet overlooked pr
 ### Natural Leaching
 
 Natural leaching is the inevitable loss of minerals when crops are harvested and removed from the field. The nutrients that built the fruits came from the soil; when the fruits are taken away, those minerals are gone. This process is intrinsic to all agriculture and cannot be entirely eliminated.
-
-JADAM has coined the term "the natural leaching of minerals" to describe this inevitable nutrient drain. The "plow layer" (approximately 1 meter / 3.3 feet deep) is where most crop roots are located. As fruits are continuously harvested, the mineral content of this layer steadily declines.
-
-### Forced Leaching
-
-Forced leaching is the preventable loss of nutrients caused by removing crop residues from the field. When farmers remove stems, leaves, branches, and other plant parts instead of returning them to the soil, they are throwing away minerals that were selectively absorbed from the soil by the roots.
-
-This is a human-caused problem with a simple solution: stop removing crop residues. See jadam crop residue fertilizer for the full argument.
-
-## The Apple Example
-
-In the 1940s, the saying in America was "an apple a day keeps the doctor away" because a single apple contained all the minerals a person needed in a day. Today, you would need 32 apples to get the same mineral content. Modern apples (and all fruits and vegetables) are severely deficient in minerals compared to their historical counterparts.
-
-JADAM traces this decline directly to the continued process of mineral leaching -- both natural and forced -- compounded by the shift from self-sufficient farming to commercial agriculture.
-
-## Organic vs. Inorganic Nutrients

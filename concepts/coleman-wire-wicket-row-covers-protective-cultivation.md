@@ -1,17 +1,17 @@
 ---
-title: "Coleman Wire Wicket Row Covers and Protective Cultivation Systems"
-source: "Eliot Coleman — The Winter Harvest Handbook"
+title: Coleman Wire Wicket Row Covers Protective Cultivation
+source: "[[eliot-coleman]] — The [[cold-house-winter-harvest-system]] Handbook"
 tags: [winter-harvest, coleman, row-cover, wire-wicket, season-extension, cold-protection, frost-protection, frost-blanket, remay, spunbond]
 ---
 
 # Coleman Wire Wicket Row Covers and Protective Cultivation Systems
 
 Eliot Coleman's protective cultivation system represents one of the most
-practical and cost-effective approaches to year-round vegetable production in
+practical and cost-effective approaches to year-round [[coleman-french-historical-winter-vegetable-production]] in
 cold climates. Central to this system is the **wire wicket row cover** — a
 simple but ingenious device that supports protective fabric above growing crops,
 creating a microclimate that can be 5–10°F warmer than ambient conditions. When
-combined with an unheated greenhouse, this double-layer protection enables
+combined with an [[coleman-unheated-greenhouse-design]], this double-layer protection enables
 harvest of cold-hardy vegetables throughout the winter months in USDA zones 4–6.
 
 ## The Layered Protection Principle
@@ -22,7 +22,7 @@ protection"** — two layers of protection between the crop and the open air:
 1. **Layer 1 — The greenhouse or high tunnel**: Provides the primary wind
    barrier and traps solar heat gain during daylight hours
 2. **Layer 2 — The row cover**: A secondary fabric layer directly over the crop
-   that provides additional insulation and frost protection
+   that provides additional insulation [[coleman-season-extension-timeline-and-frost-protection]]
 
 This principle works because each layer of protection provides approximately
 5–7°F of temperature gain over ambient conditions. With two layers, the crop
@@ -49,21 +49,21 @@ The fabric draped over the wickets is typically **spunbonded polypropylene**
 - **Weight**: 1.0–1.5 ounce per square yard for winter protection
 - **Light transmission**: 70–85%, allowing sufficient light for photosynthesis
 - **Water permeability**: Allows rain and irrigation to pass through
-- **Temperature benefit**: 4–6°F of frost protection per layer
+- **Temperature benefit**: 4–6°F of [[cervantes-microclimate-frost-protection]] per layer
 - **Durability**: Can last 2–4 seasons with careful handling
 
 ### Installation
 1. Bend the wire lengths into U-shaped arches (wickets)
 2. Push both ends of each wicket firmly into the soil along the planted row
 3. Space wickets evenly at 4–5 foot intervals
-4. Drape the row cover fabric over the arches
+4. Drape the [[coleman-row-cover-fabric-management]] over the arches
 5. Bury or weigh down the edges of the fabric along both sides of the row
 6. Leave the ends open for ventilation unless extreme cold is expected
 
 ## Greenhouse Integration
 
 In Coleman's system, the wire wicket row covers are used **inside** an
-unheated greenhouse or high tunnel:
+[[coleman-unheated-greenhouse-economic-model-passive-winter-production]] or high tunnel:
 
 ### The Synergistic Effect
 The greenhouse provides primary protection while the row cover adds secondary
@@ -87,64 +87,4 @@ Proper ventilation prevents moisture buildup and disease:
 
 - Open greenhouse vents when outdoor temperatures rise above 40–45°F
 - Pull back row covers on warm sunny days to prevent overheating
-- Moisture trapped under covers can promote fungal diseases if not managed
-- The goal is to maintain airflow while preserving insulating benefit
-
-## Protected Crops and Timing
-
-### Cold-Hardy Crops for Winter Production
-
-Coleman's system focuses on crops that are naturally cold-tolerant:
-
-- **Spinach**: The backbone crop — survives to 0°F with double protection
-- **Kale**: Extremely cold-hardy; flavor improves after frost
-- **Carrots**: Overwinter in the ground; harvested as needed
-- **Leeks**: Hardy to approximately 5°F
-- **Mâche (lamb's lettuce)**: The most cold-tolerant salad green
-- **Claytonia (miner's lettuce)**: Vigorous winter grower
-- **Scallions**: Survive with protection to approximately 10°F
-- **Parsley**: Hardy biennial that provides fresh leaves through winter
-- **Tatsoi**: Asian green with excellent cold tolerance
-- **Turnips and rutabagas**: Root crops that can be harvested through winter
-
-### Planting Schedule
-
-The critical insight in Coleman's system is that **winter crops must be
-planted during fall**:
-
-- Most crops are seeded in September or early October
-- The plants reach near-maturity by the time day length drops below 10 hours
-- After the 10-hour day threshold (around November 1 in zone 5), growth
-  essentially stops — the crops are simply "stored" in the ground
-- Harvest occurs by cutting from established plants throughout winter
-- No new growth occurs during the deep winter period; plants function as
-  living refrigerators
-
-## Comparison with Other Protection Methods
-
-### Floating Row Covers (No Wickets)
-Floating row covers rest directly on the crop without wire support — simpler
-but less effective. They provide minimal frost protection and can damage
-delicate seedlings or trap moisture against foliage.
-
-### Low Tunnels (PVC or Metal)
-Low tunnels use larger hoops covered with polyethylene film — more expensive
-and labor-intensive. They provide better wind protection but require manual
-ventilation and are harder to remove for harvest access.
-
-### Glass Cold Frames
-Traditional glass cold frames provide excellent protection but are heavy,
-expensive to build at scale, and fragile. Best suited for seed starting and
-small-scale production.
-
-## Economic Considerations
-
-Coleman's wire wicket system is designed for commercial viability:
-
-- **Startup cost**: Under $500 for wire and fabric covering a 30×100 foot
-  greenhouse
-- **Labor**: One person can install wickets and fabric for a full greenhouse
-  in 2–3 hours
-- **Longevity**: Wire wickets last indefinitely; fabric lasts 2–4 seasons
-- **Harvest efficiency**: Row covers pull back quickly for easy harvest access
-
+- Moisture trapped under covers can promote [[duggar-mushroom-insect-pests-and-fungal-diseases]] if not managed

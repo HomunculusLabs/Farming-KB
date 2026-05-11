@@ -13,7 +13,7 @@ tags:
   - foraging
   - autumn-fruiting
   - conifer-associated
-  - mycology
+  - [[mycology]]
   - curry-mushroom
   - ectomycorrhizal
 date: 2026-04-28
@@ -29,7 +29,7 @@ sources:
 
 **Lactarius camphoratus**, commonly known as the **curry milkcap** or **candy cap**, is a species of
 milk-cap fungus in the family Russulaceae.
-It is widely distributed across temperate regions of the Northern Hemisphere and is notable for
+It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and is notable for
 its distinctive sweet, curry-like or maple-syrup aroma that intensifies dramatically upon drying.
 
 The dried mushrooms are prized in culinary applications, particularly in dessert making, where
@@ -87,50 +87,4 @@ filamentous to subcylindrical, sometimes forked. Pileipellis is a cutis of repen
 
 ## Distribution and Habitat
 
-*Lactarius camphoratus* is found across Europe, North America, and parts of Asia. In Europe,
-it is widespread but not abundant, occurring from the British Isles and Scandinavia to the
-Mediterranean.
-
-It is an obligate ectomycorrhizal species, forming associations primarily with conifers,
-especially pines (*Pinus* spp.) and spruces (*Picea* spp.). It also occurs under oaks
-and beeches in mixed forests. It fruits on the ground among [[dighton-pine-needle-litter-decomposition-fungal-succession]] and moss, from
-late summer through late autumn (August to November).
-
-## Culinary Use
-
-*Lactarius camphoratus* is considered a choice edible, but with important caveats:
-
-- **Raw specimens are not eaten.** The fresh mushroom is generally too mild or slightly acrid.
-- **Drying is essential.** The characteristic maple-syrup aroma develops during the drying
-  process and persists for months to years.
-- **Culinary applications:** Dried candy caps are used in ice cream, cookies, bread pudding,
-  custards, and other desserts. They are also used in savory dishes to add depth and umami.
-- **Preparation:** Dried mushrooms are typically ground to a powder or steeped in liquid
-  (cream, milk, or alcohol) to extract flavor.
-- **Caution:** Positive identification is critical, as several similar *Lactarius* species
-  are peppery and inedible.
-
-## Bioactive Compounds
-
-Limited phytochemical research has been conducted on *L. camphoratus*. The characteristic aroma
-is attributed to [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] including sotolone (a maple-like lactone), which also occurs
-in aged sake, fenugreek, and lovage. Additional volatile constituents likely include
-2-acetyl-1-pyrroline and related Maillard reaction products that develop during drying.
-
-The species has not been investigated for significant pharmacological activity.
-
-## Similar Species
-
-- *Lactarius fragilis* — very similar North American species with a more consistently
-  maple-syrup odor; cap is redder and more fragile. Taxonomic status uncertain.
-- *Lactarius rufus* — similar size and color, but extremely peppery taste and
-  inedible; associated with pines.
-- *Lactarius quietus* — oak-associated, mild odor without the distinctive maple-curry
-  character; latex unchanging.
-- *Lactarius vietus* — wet cap, greasy feel, white latex that turns violet; not aromatic.
-
-## See Also
-
-- [[lactarius-rufus]]
-- [[lactarius-indigo]]
-- [[russula-cyanoxantha]]
+*Lactarius camphoratus* is found across Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia. In Europe,

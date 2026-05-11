@@ -31,13 +31,13 @@ eggs and cysts.
 
 Highly specialized members of Ascomycota, Zygomycota, and
 Basidiomycota are biotrophic parasites that attack insects and other
-arthropods. Necrotrophic insect fungi kill their hosts and continue
+arthropods. Necrotrophic [[insect-fungi-gardening-symbioses]] kill their hosts and continue
 growing saprobically on the dead remains. Biotrophic species often have
 unique characteristics requiring individualized collection and study
 techniques. Many entomopathogenic fungi, such as species of Cordyceps,
-produce macroscopic fruiting bodies that can be collected directly from
+produce macroscopic [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that can be collected directly from
 infected insects in the field. Others are microscopic and detectable
-only through dissection or baiting techniques. Major culture
+only through dissection or [[soil-chytridiomycete-isolation-baiting-techniques]]. Major culture
 collections including CBS and ATCC maintain diverse holdings of insect
 fungi, searchable by taxon or host.
 
@@ -73,7 +73,7 @@ flies (Diptera) are relatively easy hosts to collect. Staphylinidae
 harbor species of many genera, and carabid beetles host many
 Laboulbenia species. Success requires mass collections of varied hosts
 to ensure encountering infected individuals. Tropical collecting can
-proceed year-round, while temperate regions are best in spring or
+proceed year-round, while [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] are best in spring or
 early fall. None has completed its [[bloomfield-fungal-life-cycle-spiral-versus-circle]] in axenic culture.
 
 ## Fungal Parasites of Rotifers and Nematodes
@@ -88,47 +88,3 @@ Cephaliophora, and others). The true number of species probably reaches
 several hundred. The baiting technique, using a susceptible host
 species, is the most effective recovery method. Rotifers are cultured
 on Czapek's agar minus sucrose and maintained through weekly transfers.
-
-Predatory fungi develop extensive hyphal networks with trapping devices
-including adhesive knobs, nets, and constricting or nonconstricting
-rings. Once captured, the prey is penetrated by digestive hyphae.
-Endoparasitic fungi produce infective conidia or zoospores that adhere
-to or are ingested by the host, germinate within the body, and
-eventually produce new generations of spores. Koch's postulates must
-be satisfied to prove pathogenicity: the organism must be constantly
-associated with disease, isolated in pure culture, reproduce disease in
-healthy hosts, and be reisolated.
-
-## Molecular Approaches for Arthropod-Associated Fungi
-
-Molecular characters are especially valuable for arthropod-associated
-fungi where morphological convergence and lack of known teleomorphs
-obscure phylogenetic relationships. PCR-based methods can potentially
-glean characters from minute quantities of nonculturable types. For
-minute thalli, [[fungal-dna-extraction-methods]] requires crushing three to five thalli
-between silanized slides, then using primers that discriminate between
-insect and fungal DNA. Coamplification of contaminating insect-borne
-yeast DNA can occur; cloning PCR products and screening for
-heterologous inserts is one mitigation strategy. Mycological herbaria
-are valuable sources of DNA from genera such as Cordyceps collected as
-macroscopic fruiting bodies.
-
-Mitochondrial DNA offers additional systematics value for
-entomopathogenic fungi, with genome sizes varying from 17.6 kb to 175
-kb across fungi. rRNA genes are the most widely used mitochondrial
-markers, with both conserved and variable regions providing
-phylogenetic signal. The separation between large and small rRNA genes
-varies among species and can be used to determine evolutionary
-relationships. In Beauveria bassiana, Neurospora crassa, Podospora
-anserina, and Aspergillus nidulans, tRNA genes are clustered
-differently with respect to rRNA regions, reflecting evolutionary
-divergence.
-
-## Related Topics
-
-- [[biodiversity-nematophagous-predatory-fungi]] — specialized
-  nematode-attacking fungi
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] — DNA
-  methods for identifying entomopathogenic taxa
-- [[biodiversity-fungal-secondary-metabolites]] — [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-  from entomopathogenic fungi used in biocontrol

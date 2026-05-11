@@ -1,5 +1,5 @@
 ---
-title: Inoculation inoculation technique and alcohol flaming Flaming
+title: Inoculation Technique And Alcohol Flaming
 created: 2026-04-28
 tags: [inoculation, sterile-technique, spore-syringe, mycology, flaming]
 date: 2026-04-28
@@ -33,7 +33,7 @@ Before beginning inoculation, several conditions must be met:
 
 ### Step 1: Expose the Needle Holes
 
-Remove the tape covering the needle holes on the jar lid. Remove the needle
+Remove the tape covering the needle holes on the [[grass-seed-jar-lid-management-loose-cooling-vacuum-prevention]]. Remove the needle
 guard from the syringe. The needle holes on the lid are now exposed and ready
 for inoculation.
 
@@ -88,57 +88,3 @@ before attempting this method.
 ### Why Alcohol Flame?
 
 If the syringe needle is touched at any point during the inoculation process,
-it must be flame sterilized before continuing. An alcohol flame is preferred
-over a butane cigarette lighter because it produces a clean flame without the
-undesirable soot residue that butane lighters leave behind on stainless steel
-tools.
-
-### Equipment
-
-- Denatured [[permaculture-on-farm-alcohol-fuel-production]] (hardware stores)
-- Tequila shot glass (inverted as a burner)
-- Match or lighter
-- Eye dropper
-
-### Procedure
-
-Place a tequila shot glass upside down. Using an eye dropper, place a few drops
-of denatured alcohol on the hollow bottom. Ignite with a match. The alcohol
-produces a short, controlled blue flame. Pass the syringe needle through this
-flame for a few seconds to resterilize it.
-
-### What Happens During Flaming
-
-When the needle is heated, a few "pops" of boiling water may spurt from the
-needle. This is normal. The spores within the syringe remain safe because only
-the needle itself is exposed to the flame.
-
-## Post-Inoculation Care
-
-After inoculation is complete, replace the needle guard on the syringe. If
-there is leftover spore solution, the syringe can be stored for later use.
-Store the syringe in a dark, cool place. Resterilize the needle with the
-alcohol flame immediately before any subsequent use.
-
-Retape the needle holes on the inoculated jars with fresh masking tape to
-restore the contamination barrier.
-
-## Non-Germination Troubleshooting
-
-If spores fail to germinate, consider these common causes:
-
-1. **Solution not deep enough**: Spore solution absorbed by the dry vermiculite
-   layer instead of reaching the substrate. Ensure the needle tip is below the
-   dry vermiculite.
-
-2. **Jars too hot**: Jars not allowed to cool after sterilization, killing the
-   spores on contact.
-
-3. **Heat damage in transit**: Syringes exposed to extreme heat during
-   shipping.
-
-## See Also
-- [[incubation-and-colonization]]
-- [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
-- [[sterilization]]
-- [[pf-tek-inoculation-technique-and-syringe-management]]

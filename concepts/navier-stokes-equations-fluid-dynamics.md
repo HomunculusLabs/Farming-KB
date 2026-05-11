@@ -1,7 +1,7 @@
 ---
-title: Navier-Stokes Equations in Fluid Dynamics
+title: Navier Stokes Equations Fluid Dynamics
 type: concept
-aliases: [Navier-Stokes, Navier Stokes equations, N-S equations, fluid motion equations]
+aliases: [Navier-Stokes, [[navier-stokes-equations]], N-S equations, fluid motion equations]
 tags: [physics, fluid-dynamics, PDE, continuum-mechanics, CFD, engineering, mathematics]
 created: 2026-05-02
 updated: 2026-05-06
@@ -40,7 +40,7 @@ The convective term is the source of nonlinearity, responsible for turbulence an
 - **Euler equations** (μ → 0, inviscid): Valid at high Reynolds numbers away from boundaries. Foundation of potential flow and aerodynamic lift theory. Hyperbolic character.
 - **Stokes flow** (Re ≪ 1, creeping flow): Inertia negligible, equation becomes linear: 0 = −∇p + μ∇²**u** + **f**. Governs microfluidics, lubrication theory, biological flows at Re ~ 10⁻⁵.
 - **Potential flow** (irrotational + inviscid): **u** = ∇φ, Bernoulli's equation holds throughout. Cannot predict drag (d'Alembert's paradox) but useful for preliminary aerodynamic design.
-- **Boundary layer approximation** (Prandtl, 1904): At high Re near walls, viscous effects confined to thin layer. Yields parabolic Prandtl equations. See boundary [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] ency vs. flow timescale; vortex shedding |
+- **[[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] approximation** (Prandtl, 1904): At high Re near walls, viscous effects confined to thin layer. Yields parabolic Prandtl equations. See boundary [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] ency vs. flow timescale; vortex shedding |
 | Weber | We = ρU²L/σ | Inertial vs. [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]; droplet and bubble dynamics |
 | Prandtl | Pr = μcₚ/k = ν/α | Momentum vs. thermal diffusivity |
 | Eckert | Ec = U²/(cₚΔT) | Kinetic energy vs. enthalpy; viscous dissipation heating |
@@ -67,7 +67,7 @@ Other exact solutions: Taylor-Couette (concentric rotating cylinders), Burgers v
 
 At Re > ~2300 (pipe) or Re_x > ~5×10⁵ (flat plate), solutions become turbulent. Reynolds decomposition (**u** = ū + **u'**) introduces the Reynolds stress tensor τᵢⱼ^R = −ρ⟨u'ᵢu'ⱼ'⟩ — six unknowns with no additional equations. This is the **closure problem**.
 
-Modeling hierarchy (see [[finite-element-method]] (FEM) | Weak/variational formulation | Complex geometries; rigorous math framework | Historically lacked discrete conservation |
+Modeling hierarchy (see [[finite-element-method]] (FEM) | Weak/variational formulation | [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]; rigorous math framework | Historically lacked discrete conservation |
 | Spectral | Global basis functions (Fourier, Chebyshev) | Exponential convergence for smooth solutions | Restricted to regular domains |
 | Lattice Boltzmann (LBM) | Kinetic theory / Boltzmann equation | Excellent parallelism; complex boundaries | Compressibility artifacts; limited Mach range |
 
@@ -87,16 +87,3 @@ Leray (1934) proved existence of weak solutions (H¹) in 3D but could not show t
 - **Biomedical**: Blood flow (pulsatile, non-Newtonian), respiratory airflow, microfluidics
 - **Geophysical**: Atmospheric/oceanic circulation, pollutant dispersion, tsunami propagation
 - **Energy**: Wind turbines, nuclear thermal hydraulics, reservoir simulation, battery cooling
-
-## Key References
-
-Batchelor, G.K. (1967). *An Introduction to Fluid Dynamics*. Cambridge.
-Landau, L.D. & Lifshitz, E.M. (1987). *Fluid Mechanics*, 2nd ed. (Vol. 6). Pergamon.
-Panton, R.L. (2013). *Incompressible Flow*, 4th ed. Wiley.
-White, F.M. (2015). *Viscous Fluid Flow*, 3rd ed. McGraw-Hill.
-Pope, S.B. (2000). *Turbulent Flows*. Cambridge.
-Toro, E.F. (2009). *Riemann Solvers and Numerical Methods for Fluid Dynamics*, 3rd ed. Springer.
-## See Also
-
-- boundary layer theory fluid dynamics
-- [[heat-transfer-mechanisms]]

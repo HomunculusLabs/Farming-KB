@@ -36,9 +36,9 @@ That the Great Goddess was part of the worldview of the Round Head-style painter
 
 ## Paradise Found?
 
-The Tassili-n-Ajjer of 12,000 B.C. may well have been the partnership paradise whose loss has created one of the most persistent and poignant of our mythological motifs — the nostalgia for paradise, the idea of a lost golden age of plenty, partnership, and social balance.
+The Tassili-n-Ajjer of 12,000 B.C. may well have been the partnership paradise whose loss has created one of the most persistent and poignant of our mythological motifs — the [[mckenna-nostalgia-for-paradise]], the idea of a lost golden age of plenty, partnership, and social balance.
 
-The contention is that the rise of language, [[mckenna-dominator-vs-partnership-society-model]], and complex religious ideas may have occurred not far from the area where humans emerged — the game-filled, mushroom-dotted grasslands and savannahs of tropical and subtropical Africa. There the partnership society arose and flourished; there hunter-gatherer culture slowly gave way to domestication of animals and plants. In this milieu the psilocybin-containing mushrooms were encountered, consumed, and deified. Language, poetry, ritual, and thought emerged from the darkness of the hominid mind.
+The contention is that the rise of language, [[mckenna-dominator-vs-partnership-society-model]], and complex religious ideas may have occurred not far from the area where humans emerged — the game-filled, mushroom-dotted grasslands and savannahs of tropical and subtropical Africa. There the [[dominator-culture-and-partnership-society]] arose and flourished; there hunter-gatherer culture slowly gave way to domestication of animals and plants. In this milieu the psilocybin-containing mushrooms were encountered, consumed, and deified. Language, poetry, ritual, and thought emerged from the darkness of the hominid mind.
 
 Eden was not a myth — for the prehistoric peoples of the high plateau of the Tassili-n-Ajjer, Eden was home.
 
@@ -64,7 +64,7 @@ Henri Lhote, the site's principal documenter, was cautious about the mushroom in
 
 Riane Eisler, in *The Chalice and the Blade*, cited the Tassili paintings as evidence of pre-patriarchal, partnership-oriented societies in North Africa, emphasizing the prominence of female figures and the absence of warfare imagery in the Round Head period. This reading aligns with McKenna's interpretation but focuses on social organization rather than psychoactive use.
 
-Independent researcher Giorgio Samorini has conducted extensive studies of ethnomycological rock art across Africa and has argued that the Tassili paintings, together with similar imagery from sites in Tanzania, Chad, and Ethiopia, represent a widespread and ancient tradition of mushroom use in African shamanism. Samorini's work provides broader context for McKenna's claims, though it remains controversial within mainstream archaeology.
+Independent researcher [[giorgio-samorini]] has conducted extensive studies of ethnomycological rock art across Africa and has argued that the Tassili paintings, together with similar imagery from sites in Tanzania, Chad, and Ethiopia, represent a widespread and ancient tradition of mushroom use in African shamanism. Samorini's work provides broader context for McKenna's claims, though it remains controversial within mainstream archaeology.
 
 The Tassili n'Ajjer continues to be an active area of research. Ongoing archaeological surveys, improved dating techniques, and comparative studies with other rock art traditions across the Sahara are gradually building a more nuanced picture of the Round Head civilization — one that may or may not confirm McKenna's specific claims about [[archaeology-of-psychedelic-mushroom-use]] use, but which undeniably attests to a rich and complex prehistoric culture in the heart of the Sahara.
 
@@ -74,7 +74,7 @@ The many Round Head paintings showing unmistakable Egyptian influence in content
 
 ## Genesis as the First Drug Bust
 
-It is no coincidence that at the beginning of Western civilization, in the Book of Genesis, we read an account of history's first drug bust — the eating of the fruit of the Tree of Knowledge of Good and Evil. McKenna reads this as the mythologized memory of the loss of the mushroom-centered partnership paradise and the beginning of dominator culture's suppression of the original visionary sacrament.
+It is no coincidence that at the beginning of [[eleusinian-mysteries-psychoactive-fungi-western-civilization]], in the Book of Genesis, we read an account of history's first drug bust — the eating of the fruit of the Tree of Knowledge of Good and Evil. McKenna reads this as the mythologized memory of the loss of the mushroom-centered partnership paradise and the beginning of dominator culture's suppression of the original visionary sacrament.
 
 ## The Great Horned Goddess of Inaouanrhat
 
@@ -84,30 +84,6 @@ The Inaouanrhat painting is significant because it demonstrates that the Great G
 
 ## Cattle, Mushrooms, and the Pastoral Lifeway
 
-The intimate connection between cattle pastoralism and mushroom use at the Tassili is not coincidental. *Psilocybe cubensis* is a coprophilous (dung-growing) mushroom that thrives in the dung of grazing herbivores, particularly cattle. Wherever cattle are herded, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] follow. This biological fact creates a natural association between pastoralism and mushroom availability, and suggests that the transition from hunting and gathering to cattle herding in sub-Saharan Africa may have been accompanied by an increase — rather than a decrease — in access to psychoactive mushrooms.
+The intimate connection between cattle pastoralism and mushroom use at the Tassili is not coincidental. *Psilocybe cubensis* is a coprophilous (dung-growing) mushroom that thrives in the dung of grazing herbivores, particularly cattle. Wherever cattle are herded, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] follow. This biological fact creates a natural association between pastoralism and mushroom availability, and suggests that the transition from hunting and gathering to cattle herding in sub-Saharan Africa may have been accompanied by an increase — rather than a decrease — in access to [[ceremonial-shamanic-use-psychoactive-mushrooms]].
 
-McKenna argued that this pastoral-mushroom symbiosis shaped the culture of the Round Head civilization in fundamental ways. The cattle cult and the mushroom cult were, in effect, two aspects of the same phenomenon: a way of life built around the relationship between humans, cattle, and the psychoactive plants that grew in cattle dung. This tripartite relationship — human, bovine, fungal — formed the ecological and spiritual foundation of what McKenna considered to be humanity's original partnership paradise.
-
-## The Tassili in Comparative Perspective
-
-The rock art of the Tassili n'Ajjer does not exist in isolation. Similar traditions of rock painting, often featuring masked or transformed figures and ambiguous ceremonial objects, have been documented across the Sahara, in southern Africa, and in parts of East Africa. The tradition of San (Bushman) rock art in southern Africa, which extends back at least 25,000 years, includes many images that ethnographic research has linked to trance states and shamanic experience — providing an independent line of evidence for the antiquity of psychoactive plant use in African religious practice.
-
-The Tassili paintings also bear intriguing similarities to pre-Columbian art from the Americas, particularly the mushroom stones of Guatemala and the textile art of the Paracas and Nazca cultures of Peru. These similarities have been cited as evidence for the deep antiquity and wide geographical distribution of mushroom-based shamanism, though they could also reflect convergent cultural responses to similar psychedelic experiences.
-
-See also:
-- [[psychedelic-mushroom-set-and-setting]]
-- [[dominator-culture-and-partnership-society]]
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-
-- [[mckenna-high-plains-eden-tassili]]
-- tassili-plateau-mushroom-art
-- [[mckenna-archaic-revival]]
-- [[psychedelic-consciousness-models]]
-- [[psychedelic-mushroom-set-and-setting]]
+McKenna argued that this pastoral-mushroom symbiosis shaped the culture of the Round Head civilization in fundamental ways. The cattle cult and the mushroom cult were, in effect, two aspects of the same phenomenon: a way of life built around the relationship between humans, cattle, and the psychoactive plants that grew in cattle dung. This tripartite relationship — human, bovine, fungal — formed the ecological and [[fukuoka-textdoc-do-nothing-movement-spiritual-foundation]] of what McKenna considered to be humanity's original partnership paradise.

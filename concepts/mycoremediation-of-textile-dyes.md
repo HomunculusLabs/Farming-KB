@@ -88,10 +88,3 @@ improve resilience and productivity over time.
 
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-- [[aspergillus-niger]]
-- [[fungal-hyphae]]
-- [[mycoremediation]]

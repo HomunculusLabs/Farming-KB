@@ -88,36 +88,3 @@ A trip sitter (or guide) remains sober and provides a safe, supportive presence:
 
 **For [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] distress:**
 1. Change the sensory environment (music, lighting, location)
-2. Speak calmly and reassuringly ("you are safe," "this will pass")
-3. Encourage deep, slow breathing
-4. Offer physical comfort if welcomed (blanket, hand-holding)
-5. Remind them of the dose and expected duration
-6. Do not argue with delusions — redirect gently
-7. If the person becomes a danger to themselves or others, call emergency services
-
-**For medical emergencies:**
-- Hyperthermia (body temp above 103F/39.4C): Cool the person immediately, remove clothing, apply cool water/ice, call 911
-- Seizures: Clear the area, do not restrain, protect the head, time the seizure, call 911 if longer than 5 minutes
-- Suspected serotonin syndrome: Call 911 immediately — this is a medical emergency
-- Chest pain, difficulty breathing, loss of consciousness: Call 911 immediately
-
-**When to call emergency services:**
-- Any loss of consciousness
-- Seizures lasting more than 5 minutes
-- Signs of serotonin syndrome
-- Extreme hyperthermia
-- Chest pain or cardiovascular symptoms
-- Self-harm or violence
-- Any symptom that causes genuine concern — err on the side of calling
-
-## Harm Reduction Best Practices
-
-See [[set-and-setting]] guidance, and [[psychedelic-dose-response]] for dosing principles.
-
-- **Test your substances**: Use drug checking services (fentanyl test strips for MDMA, reagent testing kits for LSD/psilocybin)
-- **Start low, go slow**: Especially with a new substance or new batch
-- **Use with trusted people**: Never trip alone your first time
-- **Prepare your environment**: Clean, comfortable space; remove potential hazards; have water, snacks, blankets
-- **Plan your time**: Clear your schedule for the full duration plus aftereffects
-- **Research the specific substance**: Every psychedelic has unique risks and considerations
-- **Consider your mental state**: Avoid psychedelics during acute emotional crisis or extreme stress

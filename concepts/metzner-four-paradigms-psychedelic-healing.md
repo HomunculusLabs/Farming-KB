@@ -87,18 +87,3 @@ Western worldview:
    projections of the unconscious mind.
 
 ## Terminology and Classification
-
-Metzner uses the terms "psychedelic," "hallucinogenic," and
-"entheogenic" interchangeably, noting that "psychedelic" means
-"mind-manifesting" (coined by Osmond and Huxley), "hallucinogenic"
-derives from the Latin *alucinare* meaning "to wander in one's mind,"
-and "entheogen" (proposed by Wasson and Ott) means "releasing or
-expressing the divine within." The term "entheogen" connects to the
-broader discussion of [[metzner-psychedelic-psychotherapy-clinical-history]] - Metzner's
-  overview of clinical [[metzner-psycholytic-psychedelic-therapy-models]]
-- [[metzner-ayahuasca-therapeutic-potential]] - Ayahuasca in
-  therapeutic contexts
-
-## See Also
-
-- [[four-paradigms-of-psychedelic-use]]

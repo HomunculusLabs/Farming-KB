@@ -87,33 +87,3 @@ Gardeners in semi-arid regions without irrigation face an additional risk. A gre
 ## Allelopathy Risk
 
 Some cover crop species release chemical residues into the soil that inhibit the germination or growth of subsequent crops. This phenomenon, called allelopathy, is the opposite of what the gardener intends. It is important to research allelopathic interactions before selecting a cover crop species.
-
-Cereal rye is one of the most well-documented allelopathic cover crops. Its residues contain compounds that inhibit weed seed germination, which can be advantageous for weed suppression but may also retard the growth of delicate vegetable seedlings. When using allelopathic cover crops, allow extra time for the compounds to break down before planting, or supplement with a strong nitrogen source such as complete [[complete-organic-fertilizer-cof-recipe-solomon]] or chicken manure to offset any temporary nutrient tie-up.
-
-## Nitrogen Tie-Up During Decomposition
-
-When high-carbon green manure material decomposes, soil microorganisms require nitrogen to fuel the process. If the material has a high C/N ratio, the microbes will temporarily immobilize soil nitrogen, making it unavailable to subsequent crops. This nitrogen tie-up can cause stunted, yellowish growth in the first few weeks after planting into decomposing green manure.
-
-The solution is to apply a nitrogen-rich amendment at the time of turning in the cover crop. Complete organic fertilizer, chicken manure, or blood meal sprinkled on the bed before incorporation will provide the nitrogen the microbes need while leaving enough for the crop. Without this supplement, the gardener may see symptoms of nitrogen deficiency that are easily mistaken for other problems.
-
-## Key Principles Summary
-
-- Turn in green manures while they are still tender and leafy, before flowering
-- Young material decomposes in about two weeks; woody material takes four to five weeks
-- CO2 buildup during decomposition can prevent seed germination entirely
-- Heavy soils amplify timing risks because wet springs delay tillage
-- Light soils risk drying out turned-in material before it decomposes
-- Autumn-killed cover crops are the safest approach in cold-winter regions
-- In mild climates, choose species you can remove by hand when blooming begins
-- Legume green manures add nitrogen but are subject to the same decomposition timing rules
-- Test readiness by smell (earthy, not sour) and with quick-germinating radish seeds
-- On light soils, turn in promptly when conditions allow; on heavy soils, use autumn-killed crops
-- Supplement with nitrogen when turning in high-carbon residues to prevent nitrogen tie-up
-- Be aware of allelopathic effects, especially from cereal rye residues
-
-## Related
-
-- [[cover-cropping-guide]]
-- [[soil-fertility-management]]
-- [[garden-soil-basics]]
-- [[solomon-root-exudates-and-allelopathy]]

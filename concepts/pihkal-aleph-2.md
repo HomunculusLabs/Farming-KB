@@ -88,54 +88,7 @@ develops.
 
 Shulgin documented the Aleph series with particular interest in the
 fluorine substitution strategy. In PIHKAL, he noted that fluorine at the
-terminus of the thioalkyl chain produced compounds with "distinctly
-different" subjective properties compared to non-fluorinated 2C-T
-analogues. He described Aleph-2 as "moderately potent" with a "manageable"
-duration and a "clean" quality to the experience.
-
-## Pharmacology
-
-Aleph-2 acts as a 5-HT2A receptor agonist. The thioether group provides a
-large, flexible substituent that occupies significant volume in the receptor
-binding pocket, while the fluorine atom introduces specific electronic
-effects that may influence binding orientation and affinity.
-
-The fluorine atom is metabolically stable, resisting oxidative degradation
-at the terminal position. This may contribute to Aleph-2's pharmacokinetic
-profile. The thioether linkage is a site of potential metabolic oxidation,
-which may produce sulfoxide and sulfone metabolites. Limited pharmacological
-research has been conducted specifically on Aleph-2; much of what is
-understood is inferred from structural analogies to the 2C-T compounds.
-
-## Safety and Harm Reduction
-
-As with all psychedelic phenethylamines, careful dosing and appropriate
-[[lsd-set-and-setting-framework]] are essential. The 5 to 10 mg range should be respected,
-and inexperienced users should begin at the lower end. The thioether
-group raises theoretical concerns about the formation of reactive
-metabolites through sulfur oxidation, though no specific toxicity has been
-documented for Aleph-2.
-
-The body load associated with thioether compounds may be uncomfortable for
-some users, particularly those sensitive to the physical side effects of
-phenethylamines. Nausea during onset can be managed by having a light
-meal beforehand or by using antiemetics. As always, individuals with
-cardiovascular conditions, psychiatric vulnerabilities, or those taking
-serotonergic medications should exercise particular caution.
-
-## Comparison to Related Compounds
-
-Compared to 2C-T-2 (the S-ethylthio analogue), Aleph-2 is somewhat more
-potent and produces a qualitatively different experience attributed to the
-fluorine substitution. Against 2C-T-7 (the S-heptylthio compound), Aleph-2
-is significantly less potent and shorter-acting, reflecting the
-differences in chain length and the absence of fluorine. Within the Aleph
-series itself, Aleph-2 occupies a middle position in terms of potency and
-duration, making it a representative example of this innovative class of
-compounds.
 
 ## See Also
-
-- [[pihkal-2c-t-2]]
-- [[pihkal-mescaline]]
-- [[pihkal-cautionary-note-and-legal-context]]
+- [[aleph-6-entity-pihkal]]
+- [[aleph-4-pihkal-entry-5]]

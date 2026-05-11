@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,12 +88,3 @@ See [[cannabis-flushing-before-harvest]] for [[cannabis-harvest-timing-visual-cu
 ## Additional Organic Spray Ingredients
 
 Cervantes notes several homemade spray ingredients that can complement or be used alongside neem:
-
-- **Garlic**: Liberal amounts of garlic juice act as a repellent and insecticide
-- **Hot pepper**: Diluted Tabasco or concentrate repels many insects
-- **Mint oil**: Drives insects away; dilute several drops per pint of water
-- **Cinnamon oil**: A few drops per pint of water as a pesticide
-- **Vegetable (canola) oil**: Comprised mainly of fatty acids and glycerides; mix with rubbing alcohol to emulsify in water
-- **Citrus oils**: Effective insect-killing ingredient
-
-These ingredients can be combined into potent homemade sprays. For recipes and detailed mixing instructions, see [[integrated-pest-management]] strategy. They can be rotated with [[hamilton-organic-pest-control]], and [[jadam-pest-control-recipes]].

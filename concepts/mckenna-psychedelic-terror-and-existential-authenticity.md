@@ -1,5 +1,5 @@
 ---
-title: mckenna psychedelic terror and existential authenticity and Existential Authenticity in the Tryptamine Experience
+title: Mckenna Psychedelic Terror And Existential Authenticity
 created: 2026-05-06
 tags:
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 # Psychedelic Terror and Existential Authenticity in the Tryptamine Experience
 
-Terence McKenna argued that the presence of fear or terror in a [[leary-psychedelic-experience-bardo-mapping]]
+[[terence-mckenna]] argued that the presence of fear or terror in a [[leary-psychedelic-experience-bardo-mapping]]
 serves as a marker of existential authenticity. This stance directly challenges the
 predominant hedonistic framework through which psychedelics are often evaluated, and
 positions the tryptamine experience within a tradition of genuine encounter with the
@@ -29,7 +29,7 @@ unknown rather than mere recreational intoxication.
 
 McKenna observed that DMT "sometimes inspires fear," and he regarded this as one of
 the most significant features of the compound. He proposed an empirical metric for
-evaluating the authenticity of a psychedelic experience: "see how eager people are to
+evaluating the authenticity of a [[lsd-psychedelic-experience-guide]]: "see how eager people are to
 do it a second time." A touch of terror, he argued, "gives the stamp of validity to
 the experience because it means, 'This is real.'" The logic is straightforward. An
 experience that confronts the experiencer with genuinely novel ontological territory
@@ -88,42 +88,3 @@ is no dignity in the universe unless we meet these things on our feet." This mea
 approaching the entities and dimensions encountered in the tryptamine state with an
 I/[[i-thou-relationship-hyperspace-entities-tryptamine]], asking "what can you show me?" rather than submitting
 uncritically to claimed authority. Magicians and invokers, McKenna noted, have always
-understood that one must enter such encounters "with one's wits about oneself."
-
-## The Phenomenology of Astonishment
-
-A central feature of the authentic psychedelic encounter, as McKenna described it, is
-what he called "profound astonishment that persists and persists." This is not the
-fleeting surprise of encountering something unexpected in ordinary life but a sustained
-state of cognitive overwhelm in which every breath reveals that the extraordinary
-situation continues. The entities encountered in the DMT space respond to this
-astonishment by urging the experiencer to control it: "Don't get a loop of wonder
-going that quenches your ability to understand." The recognition that wonder itself
-can become an obstacle to understanding represents a sophisticated phenomenological
-observation — the affective response to the transcendent can be so overwhelming that
-it prevents the cognitive engagement necessary to integrate the experience.
-
-This dynamic has practical implications for [[metzner-psycholytic-psychedelic-therapy-models]] and exploration. The
-cultivation of what might be called "sober astonishment" — the capacity to remain
-emotionally engaged without being cognitively disabled — appears to be a skill that
-develops with experience and intention.
-
-## Contrast with Hedonistic Models
-
-McKenna acknowledged having "nothing against hedonism" and claimed to "bring something
-out of it." However, he drew a firm distinction between pleasure-seeking and the kind
-of encounter the tryptamines offer. The experience must engage the experiencer at the
-deepest level of their being, and this necessarily involves confronting the unknown in
-a way that produces genuine affective turbulence. The hedonistic model, by seeking to
-maximize pleasure and minimize discomfort, may inadvertently select against the very
-features of the experience that make it most valuable.
-
-This framework has implications for both clinical and recreational contexts. In clinical
-research, the avoidance of challenging experiences may limit therapeutic outcomes. In
-recreational use, the pursuit of purely positive experiences may prevent users from
-accessing the full range of what the tryptamine state has to offer.
-
-## See Also
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[tryptamine-hypercontinuum]]
-- [[mckenna-invention-of-lsd-and-psychedelic-sixties]]

@@ -1,5 +1,5 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology (Fly Agaric) in Plants of the Gods
+title: Plants Of The Gods Amanita Muscaria
 created: 2026-04-28
 tags: [ethnobotany, amanita, hallucinogenic-mushrooms, shamanism]
 date: 2026-04-28
@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-Amanita muscaria, commonly known as the Fly Agaric, is perhaps man's
+[[amanita-muscaria]], commonly known as the Fly Agaric, is perhaps man's
 oldest hallucinogen. This iconic red-capped mushroom with white spots
 has been identified with Soma, the ancient Indian god-narcotic, and
 plays a central role in shamanic traditions across the Northern
@@ -28,7 +28,7 @@ usually under birches, firs, and young pines. It may attain a height of
 8-9 inches (20-23 cm). The somewhat viscid, ovate, hemispheric cap
 measures 3-8 inches (8-20 cm) when mature. Three varieties exist: one
 with a blood-red cap and white warts found in the [[datura-metel-old-world-ethnobotany]] and
-northwestern North America; a yellow or orange type with yellowish warts
+northwestern [[guzman-psilocybin-mushrooms-north-america]]; a yellow or orange type with yellowish warts
 common in eastern and central North America; and a white variety found
 in Idaho. The cylindrical stem has a bulbous base, is white, and bears a
 conspicuous cream-white ring. The gills vary from white to cream or
@@ -78,7 +78,7 @@ Schmiedeberg and Koppe), but this has been proven erroneous. Eugster
 in Switzerland and Takemoto in Japan isolated [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and the
 alkaloid muscimole as responsible for the psychotropic effects. The
 mushroom is usually taken dried; the drying process induces the chemical
-transformation of ibotenic acid to muscimole, the most active
+transformation of [[amanita-muscaria-and-ibotenic-acid-containing-fungi]] to muscimole, the most active
 constituent. Muscazone is also present.
 
 ## Soma Hypothesis
@@ -88,37 +88,3 @@ hallucinogen deified in the Rig-Veda of ancient India (circa 1500 BCE).
 The Vedic hymns describe Soma as being pressed from a plant, inducing
 ecstasy, visions, and divine communion. The Rig-Veda references
 urine-drinking in the Soma ritual: "The swollen men piss the flowing
-Soma. The lords, with full bladders, piss Soma quick with movement."
-Today, Ephedra (Ephedra gerardiana) is called somalata ("Soma plant") in
-Nepal, though it is not hallucinogenic.
-
-## Mesoamerican and North American Use
-
-The Fly Agaric was apparently employed hallucinogenically in
-Mesoamerica. The Maya of highland Guatemala recognize Amanita muscaria
-as Kakulja-ikox ("lightning mushroom"), relating it to Rajaw Kakulja,
-Lord of Lightning, who directs the chacs (dwarf rain-bringers). The
-Quiche name Kaqulja refers to its legendary origin, while Itzel-cox
-refers to its sacred power as "evil or diabolical mushroom."
-
-Hallucinogenic use has been confirmed among the Dogrib Athabascan
-peoples of the Mackenzie Mountain range in northwestern Canada, and the
-Ojibwa Indians of Lake Superior in Michigan, who call it Oshtimisk
-Wajashkwedo ("Red-top mushroom").
-
-## Japanese Folklore
-
-In Japan, the spirit of the Fly Agaric is the long-nosed, red-faced
-Tengu. Whoever eats Beni-Tengu-Dake ("Red Tengu mushroom") will
-encounter this lively entity. Fireworks in the shape of Fly Agaric are
-set off on New Year's Eve in Germany to bring good luck, reflecting the
-mushroom's deep cultural penetration across Eurasia.
-
-## Related
-
-- [[plants-of-the-gods-pituri-duboisia]] Topics
-
-- [[amanita-muscaria-chemistry-and-pharmacology]] - detailed chemistry
-- [[siberian-fly-agaric-shamanism-urine-recycling]] - urine recycling
-- [[amanita-muscaria-cultural-history]] - [[shroom-cultural-history-hippie-revolution-and-counterculture]] overview
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey

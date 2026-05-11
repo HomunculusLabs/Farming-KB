@@ -88,15 +88,3 @@ The story of LOPHOPHINE is a reminder of how much remains unknown about the chem
 - Shulgin, A. and Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Transform Press.
 
 - Anderson, E.F. (1980). "Peyote: The Divine Cactus." University of Arizona Press.
-
-- Torres, C.M. and Repke, D.B. (2006). "Ancient Psychopharmacology." CIBA Foundation Symposium.
-
-- Nichols, D.E. (2004). "Hallucinogens." Pharmacology & Therapeutics, 101(2), 131-181.
-
-- Ott, J. (1993). "Pharmacotheon: Entheogenic Drugs, Their Plant Sources and History." Kennewick, WA: Natural Products Co.
-
-## Related Compounds
-
-- [[mmda-entity]] -- 3-methoxy-4,5-methylenedioxyamphetamine (the amphetamine analogue)
-
-- [[phenethylamine-pharmacology]] -- general pharmacology

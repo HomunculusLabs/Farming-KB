@@ -77,3 +77,20 @@ provides adequate protection during critical periods while still allowing the
 beneficial effects of periodic animal impact. The goal is to design a system where
 livestock can access riparian areas when impact is needed for restoration but can
 be excluded during periods when banks are vulnerable.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[savory-holistic-resource-management-decision-framework]]
+- [[savory-conventional-vs-holistic-range-management]]
+- [[savory-holistic-resource-management-energy-flow]]
+- [[savory-holistic-resource-management-mineral-cycle]]
+- [[savory-holistic-management-overview]]

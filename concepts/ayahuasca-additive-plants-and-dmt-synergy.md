@@ -21,12 +21,12 @@ experiences that neither component could achieve alone.
 
 ## The Basic Ayahuasca Chemistry
 
-Both Banisteriopsis caapi and B. inebrians owe their hallucinogenic
+Both [[ayahuasca-and-banisteriopsis-caapi]] and B. inebrians owe their hallucinogenic
 activity primarily to harmine, the major beta-carboline alkaloid in the
 plants. Harmaline and tetrahydroharmine, alkaloids present in minor
 amounts, may also contribute. The beta-carbolines are monoamine oxidase
 inhibitors (MAOIs), which is the key to understanding the ayahuasca
-brew's pharmacological sophistication. Without these MAO inhibitors,
+brew's pharmacological sophistication. Without these [[mao-inhibitors-and-psychedelics]],
 orally ingested DMT would be rapidly broken down by monoamine oxidase
 enzymes in the gut and liver, rendering it completely inactive.
 
@@ -35,7 +35,7 @@ enzymes in the gut and liver, rendering it completely inactive.
 Over a wide area including Amazonian Brazil, Colombia, Ecuador, and
 Peru, the leaves of several species of Psychotria, especially P.
 viridis, are added to the ayahuasca brew. This twenty-foot forest treelet
-belongs to the coffee family (Rubiaceae). Psychotria viridis has been
+belongs to the coffee family (Rubiaceae). [[psychotria-viridis]] has been
 found to contain the strongly hallucinogenic N,N-dimethyltryptamine
 (DMT). Known locally as chacruna, the leaves of this plant supply the
 visionary DMT component that the beta-carboline MAO inhibitors in the
@@ -74,7 +74,7 @@ pharmacological experimentation of indigenous Amazonian peoples.
 
 ## Tetrapteris methystica: Another Caapi
 
-Another kind of caapi is prepared from Tetrapteris methystica, a forest
+Another kind of caapi is prepared from [[tetrapteris-methystica]], a forest
 vine also belonging to the family Malpighiaceae. One group of Maku
 Indians of the northwesternmost Brazilian Amazon prepares a cold-water
 drink from the bark. There is no other plant ingredient. The drink is
@@ -85,46 +85,6 @@ with those of Banisteriopsis caapi, its chemistry remains unknown.
 
 ## Pharmacological Significance
 
-The ayahuasca combination of beta carboline MAO inhibitors with
+The ayahuasca combination of [[beta-carboline]] MAO inhibitors with
 DMT is pharmacologically remarkable because it represents a naturally
 occurring example of what modern pharmaceutical science calls a "drug
-synergy." Neither the Banisteriopsis vine alone nor the DMT-containing
-leaves alone, when taken orally, would produce the powerful visionary
-effects of the combined brew. The beta-carbolines in the vine inhibit
-the gut enzyme monoamine oxidase, allowing DMT to cross into the
-bloodstream and reach the brain intact, where it acts as a potent
-serotonin receptor agonist.
-
-## The Serotonin Connection
-
-DMT is structurally similar to serotonin (5-hydroxytryptamine) and
-acts primarily as an agonist at the 5-HT2A receptor subtype, the same
-receptor through which psilocybin and LSD exert their primary
-hallucinogenic effects. This pharmacological overlap explains why
-[[amaringo-ayahuasca-visions-shipibo-iconography]] share certain qualitative features with those produced
-by [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], despite the very different plant sources
-and chemical families involved. The beta-carboline harmine and
-harmaline also have their own psychoactive properties at higher doses,
-contributing a sedative and contemplative quality to the ayahuasca
-experience that distinguishes it from pure DMT.
-
-## Cultural Context of Additive Use
-
-The choice of which additive plants to include in an ayahuasca
-preparation often varies by tribe, region, and the specific purpose of
-the ceremony. A healer preparing ayahuasca for diagnostic purposes
-might select different additives than one preparing it for a communal
-celebration or an initiation rite. This nuanced approach to
-pharmacological modification reflects a deep body of traditional
-knowledge that has been transmitted orally across many generations of
-Amazonian peoples. The sheer diversity of plants added to ayahuasca
-preparations, ranging from ferns to tree leaves to other vines,
-testifies to centuries of careful experimentation and observation.
-
-## See Also
-
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
-
-- [[ayahuasca-preparation-and-ceremony]]
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
-- [[hallucinogenic-plant-chemistry]]

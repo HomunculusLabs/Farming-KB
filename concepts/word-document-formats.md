@@ -1,5 +1,5 @@
 ---
-title: microsoft-word-document-format-history formats
+title: Word Document Formats
 created: 2026-04-28
 tags:
   - microsoft-word
@@ -16,7 +16,7 @@ type: concept
 
 # Word Document Formats
 
-Microsoft Word has used several document formats throughout its history, each
+[[microsoft-word]] has used several document formats throughout its history, each
 reflecting the technological constraints and design philosophies of its era. The
 evolution of these formats mirrors broader shifts in software architecture, from
 proprietary binary formats to open, XML-based standards.
@@ -57,7 +57,7 @@ documents, as tools can work with individual XML components rather than parsing
 a monolithic binary file.
 
 Inside the ZIP archive, a .docx file follows a consistent directory layout.
-The [Content_Types].xml file at the root maps file extensions to MIME types.
+The [Content_Types].xml file at the root [[maps]] file extensions to MIME types.
 The _rels/ directory contains relationship files that define how parts
 reference each other. The word/ directory contains the core document parts:
 document.xml holds the main body text, styles.xml defines paragraph and
@@ -89,54 +89,9 @@ than .docx, particularly for complex layouts and embedded media.
 
 ## Other Supported Formats
 
-Word supports importing and exporting a variety of formats including HTML,
-plain text (.txt), OpenDocument Format (.odt used by LibreOffice), PDF, and
-XPS. PDF export was natively added in Word 2007 with a downloadable plugin and
-became built-in from Word 2010 onward. The ability to save directly to PDF
-significantly reduced the reliance on separate PDF creation tools. Word also
-supports the older WordPerfect format (.wpd) and various international text
-encoding standards.
-
-## Format Compatibility Challenges
-
-Despite the move to open standards, format compatibility remains a concern. The
-OOXML specification is extensive (over 6,000 pages), and Microsoft's
-implementation has at times included features not fully documented in the
-standard. This has led to formatting discrepancies when opening .docx files
-in non-Microsoft applications. Page layout, font rendering, and complex
-features like tracked changes and conditional formatting can differ between
-Word and competing applications. The OpenDocument Format (ODF), standardized
-as ISO/IEC 26300, offers an alternative open standard that some governments
-and organizations have adopted by policy.
-
-Compatibility mode in Word deserves special attention. When a .doc file is
-opened in Word 2007 or later, Word enters "Compatibility Mode," which
-disables features introduced after Word 2003 and displays the mode in the
-document title bar. Documents created in Compatibility Mode use the older
-layout engine, which can produce different line breaks, pagination, and
-spacing compared to native .docx mode. Key differences include the handling
-of paragraph spacing, table layout algorithms, font fallback behavior, and
-the rendering of floating objects and text wrapping. Converting a document
-from Compatibility Mode to full .docx mode can cause reflow that changes
-page count, particularly in long documents with complex formatting.
-
-[[document-format-conversion-fidelity]] between .docx and other formats is handled by built-in
-converters in Word and by third-party libraries. Word's built-in PDF export
-uses a high-fidelity rendering engine that maps OOXML formatting to PDF
-structures, though complex layouts involving floating objects and automatic
-numbering can sometimes produce unexpected results. Converting to ODF
-(.odt) loses some features that lack ODF equivalents, such as certain
-content controls, XML mapping panes, and SmartArt graphics. The reverse
-conversion (ODF to OOXML) also involves compromises where formatting models
-differ. Online conversion services and libraries like Pandoc provide
-additional conversion pathways, particularly for round-tripping between
-document formats and lightweight markup languages like Markdown.
-
 ## See Also
-
 - [[microsoft-word-document-format-history]]
-- [[japanese-document-processing]]
-- [[microsoft-word-history]]
-- [[binary-document-format-reverse-engineering]]
-- rich text format
-- pdf
+- [[microsoft-word-document-format]]
+- [[fukuoka-document-processing-research]]
+- [[document-automation-administration]]
+- [[document-interoperability-standards]]

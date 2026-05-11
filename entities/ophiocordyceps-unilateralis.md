@@ -12,7 +12,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Andersen, S.B., et al. (2017). "Disease dynamics in a specialized parasite of ant societies." Current Biology, 27(3), 328–332.
-  - Hughes, D.P., et al. (2011). "Behavioral manipulation and host specificity of a zombie-ant pathogen." BMC Ecology, 11, 18.
+  - Hughes, D.P., et al. (2011). "Behavioral manipulation and [[fungal-endemism-host-specificity]] of a zombie-ant pathogen." BMC Ecology, 11, 18.
   - Loreto, R.G., et al. (2018). "The parasite that makes ants bite." American Naturalist, 192(5), 573–583.
   - de Bekker, C., et al. (2015). "Genomic comparison of zombie-ant fungi across species." Nature Communications, 6, 8135.
   - Evans, H.C., et al. (2011). "Ophiocordyceps: a new genus for the 'zombie-ant' fungus." Mycotaxon, 115, 279–295.
@@ -51,11 +51,11 @@ The fungus produces a conspicuous stroma (food-forest-understory-plants0–25°C
 
 Each lineage within the *O. unilateralis* complex exhibits narrow host specificity, typically infecting a single ant species.
 
-The primary hosts are carpenter ants of the genus *Camponotus*, particularly *C. leonardi* in Southeast Asian forests.
+The primary hosts are carpenter ants of the genus *Camponotus*, particularly *C. leonardi* in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] forests.
 
-Infection occurs when foraging ants encounter fungal spores on the forest floor, which attach to the ant's exoskeleton and germinate.
+Infection occurs when foraging ants encounter fungal spores on the [[fungal-ecology-forest-floor]], which attach to the ant's exoskeleton and germinate.
 
-The fungus penetrates the cuticle using a combination of mechanical pressure and enzymatic degradation (cutinases, proteases, chitinases).
+The fungus penetrates the cuticle using a combination of mechanical pressure and [[enzymatic-degradation-in-mycoremediation]] (cutinases, proteases, chitinases).
 
 Once inside the hemocoel, the fungus proliferates as yeast-like hyphal bodies that evade the [[fungal-virulence-factors-host-immune-evasion]] system for several days.
 
@@ -73,7 +73,7 @@ Proteomic analysis has revealed upregulation of genes involved in enterotoxin pr
 
 ## Ecological Significance
 
-*O. unilateralis* serves as a density-dependent regulator of carpenter ant populations in tropical forests.
+*O. unilateralis* serves as a density-dependent regulator of carpenter ant populations in [[fungal-biodiversity-tropical-forests]].
 
 Ant colonies have evolved several defensive behaviors, including infected ants being carried away from the colony by nestmates.
 
@@ -88,10 +88,3 @@ This system has become a model for studying host-parasite coevolution and the ev
 ## Cultivation and Research
 
 Laboratory cultivation is challenging due to the obligate requirement for living ant hosts to complete the lifecycle.
-
-The fungus can be maintained on artificial media (PDA, SDA) as a saprotrophic phase, but fruiting requires infection of live ants.
-
-## See Also
-- [[entomophthora-muscae]]
-- [[ophiocordyceps-sinensis]]
-- [[teaming-with-microbes-old-growth-forest]]

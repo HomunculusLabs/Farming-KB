@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Experience Stages — Turner's Model
+title: Psychedelic Experience Stages
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-essential-psychedelics-guide-by-dm-turner.md]
 
 ## The Stages of the Psychedelic Experience
 
-D.M. Turner's Essential Psychedelics Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
+D.M. Turner's [[turner-essential-psychedelics-5-meo-dmt-void-experience]] Guide provides a practical phenomenological map of the psychedelic experience, breaking it into recognizable stages. Understanding these stages helps users navigate what can be otherwise overwhelming experiences.
 
 ### Stage 1 — Onset
 
@@ -39,7 +39,7 @@ The most intense phase. Duration and character depend heavily on the compound an
 
 - At lower doses: enhanced colors, pattern recognition, mood elevation, philosophical reverie
 - At moderate doses: complete visual transformation of the visual field with eyes closed, ego softening, emotional openness, enhanced music appreciation, synesthesia
-- At high doses: complete ego dissolution, mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
+- At high doses: complete [[default-mode-network-and-ego-dissolution]], mystical/peak experiences, encounters with apparently autonomous entities, profound insights or terror, complete loss of ordinary reality framework
 
 Turner distinguishes several peak-quality categories:
 - **Aesthetic**: primarily visual and sensory enhancement
@@ -72,14 +72,14 @@ Gradual return to ordinary consciousness:
 The period hours to days after the acute experience:
 
 - Residual perceptual sensitivity (colors still appear brighter, music sounds fuller)
-- Integration of insights and emotional processing
+- Integration of insights and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]
 - Dreams may be unusually vivid for several nights
 - Some users report lasting positive changes in mood, perspective, or behavior
 - Difficult experiences may require additional time to process
 
 ### Cross-Reference with Leary
 
-Turner's stage model parallels [[leary-psychedelic-manual-approach|Leary's Bardo model]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a conceptual framework to navigate non-ordinary states.
+Turner's stage model parallels [[leary-psychedelic-manual-approach]] but uses more phenomenological rather than Tibetan Buddhist terminology. Where Turner describes "onset" and "peak," Leary maps these onto the Chikhai and Chonyid Bardos. Both models serve the same purpose: providing a [[holmgren-permaculture-flower-conceptual-framework]] to navigate non-ordinary states.
 
 ## See Also
 

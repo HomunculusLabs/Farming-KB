@@ -1,5 +1,5 @@
 ---
-title: guzman allen [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]] boletes russula and gasteromycetes Russula and Gasteromycetes
+title: [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] And Gasteromycetes
 created: 2026-04-28
 tags:
   - boletes
@@ -88,21 +88,3 @@ better results with each iteration of practice and experimentation.
 ## Integration and Future Development
 
 The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]

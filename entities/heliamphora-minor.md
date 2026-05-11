@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - McPherson, S.R., Wistuba, A. & Fleischmann, A. (2011). "Sarraceniaceae of South America." Redfern Natural History Productions.
+  - McPherson, S.R., Wistuba, A. & Fleischmann, A. (2011). "Sarraceniaceae of guzman-psilocybin-mushrooms-south-america." Redfern Natural History Productions.
   - Steyermark, J.A. (1984). "Flora of the Venezuelan Guayana." Missouri Botanical Garden.
   - Berry, P.E., Holst, B.K. & Yatskievych, K. (1995). "Flora of the Venezuelan Guayana." Timber Press.
   - Naczi, R.F.C. (2006). "A new species of Heliamphora." Harvard Papers in Botany.
@@ -58,11 +58,11 @@ Prey records for H. minor are limited but include ants, small flies, and beetles
 
 ## Cultivation
 
-H. minor is considered a challenging species to cultivate, requiring cool, humid conditions that are difficult to maintain in most growing environments. It is primarily grown by specialist collectors.
+H. minor is considered a challenging species to cultivate, requiring cool, humid conditions that are difficult to maintain in most [[mushroom-growing-environments]]. It is primarily grown by specialist collectors.
 
-Cool greenhouse conditions with daytime temperatures of 15–22°C and nighttime drops to 5–12°C are essential. The species cannot tolerate sustained temperatures above 25°C.
+[[coleman-cool-greenhouse]] conditions with daytime temperatures of 15–22°C and nighttime drops to 5–12°C are essential. The species cannot tolerate sustained temperatures above 25°C.
 
-A growing medium of live sphagnum moss or a sphagnum-perlite mix works well. Constant moisture through the tray system is required, and the use of chilled, purified water is recommended.
+A [[cervantes-green-algae-growing-medium]] of live sphagnum moss or a sphagnum-perlite mix works well. Constant moisture through the tray system is required, and the use of chilled, purified water is recommended.
 
 Strong lighting, including supplemental LED or fluorescent light, promotes [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and red pigmentation. Under lower light, plants produce greener, more elongated pitchers.
 
@@ -76,7 +76,7 @@ Collection for the horticultural trade is limited by the remoteness of the habit
 
 ## Ecological Role and Symbiosis
 
-H. minor plays a role in the nutrient-poor tepui ecosystem by capturing insect prey and converting it into absorbable nutrients. This carnivorous adaptation is essential for survival in substrates with negligible available nitrogen.
+H. minor plays a role in the nutrient-poor tepui ecosystem by capturing insect prey and converting it into absorbable nutrients. This carnivorous adaptation is essential for survival in substrates with negligible [[plant-available-nitrogen-ammonium-nitrate]].
 
 The pitchers serve as microhabitats for aquatic invertebrate communities. Protozoa, nematodes, and [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] have been recorded living within the pitcher fluid of Heliamphora species.
 
@@ -87,28 +87,3 @@ The relationship between Heliamphora and its infauna is not fully understood. So
 ## Related Species and Variation
 
 H. minor is most closely related to H. heterodoxa and H. tatei within the genus. These species share similar pitcher morphology and tepui distributions.
-
-The species can be distinguished from H. heterodoxa by its smaller overall size, more compact rosette, and typically more pronounced nectar spoon. H. tatei produces considerably larger pitchers and a more robust growth habit.
-
-Geographic variation within H. minor has been noted. Plants from Kukenán-tepui tend to produce slightly larger pitchers with more red pigmentation than those from Mount Roraima.
-
-The genus Heliamphora is divided into several morphological groups. H. minor belongs to a group characterized by relatively small stature and well-developed nectar spoons.
-
-## Research Significance
-
-The tepui-endemic Heliamphora species, including H. minor, have attracted scientific interest as models of island-like biogeography. The isolated tepui summits function as sky islands separated by lowland forest barriers.
-
-Studies of Heliamphora digestive enzymes have revealed unique enzyme compositions adapted to the cold, dilute conditions within the pitchers. These enzymes function at temperatures that would inactivate most plant proteases.
-
-Conservation genetics studies have begun examining population structure across tepui summits. Preliminary data suggest limited gene flow between populations on different tepuis, supporting their recognition as evolutionarily significant units.
-
-## See Also
-
-- [[sarracenia-purpurea]]
-- [[sarracenia-leucophylla]]
-- [[sarracenia-alata]]
-- [[nepenthes-rajah]]
-- [[drosera-rotundifolia]]
-- [[pinguicula-vulgaris]]
-- [[cephalotus-follicularis]]
-- [[utricularia-vulgaris]]

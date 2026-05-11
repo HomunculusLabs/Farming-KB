@@ -6,11 +6,11 @@
 
 ## Overview
 
-Spore syringes are the primary inoculation method in the PF TEK. A spore syringe consists of millions of *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]* spores suspended in sterile water, drawn into a hypodermic syringe for delivery into substrate jars. The syringe method allows precise, controlled inoculation of multiple jars from a single spore print. Preparing spore syringes from spore prints completes the [[morel-morchella-cultivation-life-cycle]] and enables indefinite continuation of the grow.
+[[mushroom-spore-syringes]] are the primary [[boil-a-bag-long-needle-inoculation-method-jarrold]] in the PF TEK. A spore syringe consists of millions of *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]* spores suspended in sterile water, drawn into a hypodermic syringe for delivery into substrate jars. The syringe method allows precise, controlled inoculation of multiple jars from a [[single-spore-isolation-and-monokaryon-culture]] print. Preparing spore syringes from [[macrofungal-documentation-photography-spore-prints]] completes the [[morel-morchella-cultivation-life-cycle]] and enables indefinite continuation of the grow.
 
 ## The Spore Print
 
-A spore print is the starting material for syringe preparation. It is made by placing a mature mushroom cap gill-side down on a clean surface and allowing the spores to drop and collect.
+A spore print is the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for syringe preparation. It is made by placing a mature mushroom cap gill-side down on a clean surface and allowing the spores to drop and collect.
 
 ### Making a Spore Print
 
@@ -73,7 +73,7 @@ PF describes using a jar-based collection method for spore prints, which can the
 
 ### Needle Placement
 
-It is critical that the spore solution flows down along the sides of the substrate cake, below the non-nutritive upper vermiculite layer. If the needle is inserted too shallowly, the solution will be absorbed by the dry vermiculite barrier instead of reaching the nutritious substrate below, resulting in failed germination.
+It is critical that the spore solution flows down along the sides of the substrate cake, below the non-nutritive upper vermiculite layer. If the needle is inserted too shallowly, the solution will be absorbed by the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier instead of reaching the nutritious substrate below, resulting in failed germination.
 
 ### Between Jars
 
@@ -88,50 +88,3 @@ Between each jar, flame-sterilize the needle to prevent cross-contamination. The
 - If leftover solution remains, replace the needle guard and store for later use
 
 ## Non-Germination Troubleshooting
-
-If spores fail to germinate, possible causes include:
-
-1. **Shallow inoculation** — Spore solution absorbed by the dry vermiculite layer instead of reaching substrate. Ensure needle tip is below the vermiculite barrier.
-2. **Hot jars** — Jars were not allowed to cool after sterilization, killing the spores on contact. Always verify jars are cool to the touch.
-3. **Heat-killed syringes** — Syringes can be exposed to killing heat during transit (overheated cargo holds, sun-heated mailboxes). Very rare but possible.
-4. **Extreme cold** — While syringes can survive freezing, extreme low temperatures may be destructive to spores.
-5. **Dead spores** — Old syringes or improperly stored prints may contain non-viable spores.
-6. **Contamination masking** — Sometimes contamination grows so fast it obscures germination. Look carefully at the earliest stages.
-
-## The PF Spore Syringe
-
-PF distributed spore syringes as part of the original PF TEK kit. Key specifications:
-
-- **Species:** *Psilocybe cubensis* from the finest available blueing strain
-- **Price:** $10 per syringe (postage paid)
-- **Guarantee:** Guaranteed clean (uncontaminated) and viable (will germinate). Replaced or money refunded if unsatisfied.
-- **Capacity:** Enough to inoculate approximately 10 jars at 1 cc each
-- **Discretion:** No customer or mailing lists kept. All mailers discretely addressed.
-
-## Spore Viability and Longevity
-
-Spore viability depends heavily on [[spawn-storage-conditions]]:
-
-- **Optimal:** Refrigerated (2-4°C), dark, dry — spores remain viable for 1-2+ years
-- **Acceptable:** Room temperature, dark, dry — viability declines over 6-12 months
-- **Poor:** Warm, bright, or humid conditions — rapid viability loss
-- **Freezing:** Spores can survive freezing, but extreme cold may cause ice crystal damage
-
-When using older syringes, inoculate extra jars to compensate for reduced germination rates. A fresh syringe should show visible white mycelial growth within 3-5 days at 70°F. If no growth appears after 2 weeks, the spores are likely non-viable.
-
-## Multi-Spore vs. Isolated Culture
-
-The PF TEK uses a **multi-spore inoculation** approach, meaning millions of spores from a print are inoculated simultaneously. This produces [[biodiversity-fungal-genetic-diversity]] in the resulting mycelium, as each spore carries a slightly different genotype. The advantages of multi-spore inoculation:
-
-- **Complete genotype** — All genetic diversity is preserved through every generation
-- **No senescence** — Unlike cloned tissue cultures, multi-spore inoculation avoids the gradual loss of vigor
-- **Simplicity** — No need for agar work, tissue isolation, or clean room facilities
-- **Natural selection** — The strongest genetics naturally dominate during colonization
-
-The disadvantage is less consistency between grows, since each multi-spore inoculation produces a unique genetic combination. Advanced cultivators may isolate particularly productive strains on agar, but this requires significantly more equipment and skill.
-
-## See Also
-
-- [[pf-substrate]]
-- [[dual-chambered-terrarium]]
-- [[mushroom-contamination-control]]

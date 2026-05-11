@@ -1,5 +1,5 @@
 ---
-title: DMT Phenomenology and the Tryptamine Hypercontinuum
+title: Dmt Phenomenology And Tryptamine Hypercontinuum
 created: 2026-05-08
 updated: 2026-05-08
 sources:
@@ -13,7 +13,7 @@ tags: [dmt, tryptamine, phenomenology, consciousness, psychedelics, mckenna]
 ## Overview
 
 Dimethyltryptamine (DMT) is an endogenous hallucinogenic tryptamine found in small
-amounts in the human brain. Terence McKenna, in his 1983 Esalen lecture later published
+amounts in the human brain. [[terence-mckenna]], in his 1983 Esalen lecture later published
 in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]* (1992), described DMT as producing the most intense
 hallucinogenic experiences known — experiences so radically alien that they challenge
 fundamental assumptions about consciousness, reality, and the nature of mind. The
@@ -24,7 +24,7 @@ translinguistic, hyperdimensional experience that he termed the "world of the Lo
 ## Onset and Sensory Phenomenology
 
 DMT, when smoked, has an onset of approximately fifteen seconds. The initial
-experience includes a distinctive sound described as "ripping cellophane" or
+experience includes a distinctive sound described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or
 "crumpling plastic film." An ascending tone is heard, and a shifting geometric
 surface of migrating, changing colored forms appears — the normal hallucinogenic
 modality. At peak activity, all available receptor sites become occupied, and a
@@ -42,7 +42,7 @@ The phenomenology is distinguished from other hallucinogens by:
 
 A hallmark of the DMT experience, as described by McKenna, is the encounter with
 what he called "self-transforming machine elves" in *The Invisible Landscape*
-(co-authored with Dennis McKenna). These entities are described as:
+(co-authored with [[dennis-mckenna]]). These entities are described as:
 
 - Dynamically contorting topological modules distinct from their surrounding background
 - Hyperdimensional beings that undergo continuous self-transformation
@@ -79,7 +79,7 @@ primal "Ursprache" (original language) akin to what Robert Graves described in
 
 ## Quantum Mechanical Correlates
 
-McKenna noted that John Smythies, Alexander Shulgin, and others demonstrated
+McKenna noted that John Smythies, [[alexander-shulgin]], and others demonstrated
 quantum mechanical correlates to hallucinogenesis. Moving a single atom on the
 molecular ring of an inactive compound can make it highly active — which McKenna
 saw as "perfect proof of the dynamic linkage at the formative level between
@@ -88,58 +88,3 @@ quantum mechanically described matter and mind."
 He proposed that the major quantum mechanical phenomena humans experience —
 aside from waking consciousness — are dreams and hallucinations. These states
 occur when sensory input is restricted, revealing interior psycho-physical
-processes arising at the quantum mechanical level.
-
-## The Tryptamine Hypercontinuum
-
-The "hypercontinuum" concept holds that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] convey one into the
-same fundamental phenomenological space as DMT, though the psilocybin experience
-builds over an hour and is sustained for a couple of hours rather than five
-minutes. Both substances involve:
-
-- Confrontation with an "alien intelligence"
-- Extremely bizarre translinguistic information complexes
-- Access to what appears to be cosmological or galactic historical information
-- The suggestion of latent, undiscovered abilities of the human brain/body
-
-McKenna proposed that a human language might be possible in which "the intent of
-meaning is actually beheld in three-dimensional space" — and that given sufficient
-cultural engagement over millennia, such an ability could become a "cultural
-convenience" comparable to mathematics or ordinary language.
-
-## The Black Hole Effect
-
-McKenna described what he called the "black hole effect" surrounding DMT: the
-more accurately one tries to articulate the experience, the less others can
-understand. Like a gravitational black hole where no signal can escape, DMT
-creates an epistemic singularity — communication about the experience becomes
-progressively more difficult the deeper one goes. McKenna suggested this may
-explain why those who attain comparable states (such as enlightenment) often
-remain silent.
-
-## The Transtemporal Quality
-
-The tryptamine state has a transtemporal quality — McKenna described it as "an
-anticipation of the future" and "a stepping out of the moving image and into
-eternity," invoking Plato's metaphor that time is "the moving image of eternity."
-He referenced Thomas Aquinas's concept of the *nunc stans* — the "standing now."
-In this state, all of human history appears to lead toward a culminating moment,
-with visible acceleration across all domains: fire (millions of years ago),
-language (35,000 years ago), measurement (5,000 years), Galileo (400 years),
-Watson-Crick and DNA.
-
-## Endogenous Presence and Brain Chemistry
-
-DMT is an endogenous hallucinogen present in small amounts in the human brain.
-Psilocybin is 4-phosphoraloxy-N,N-dimethyltryptamine, while serotonin (5-
-hydroxytryptamine) is the major neurotransmitter found throughout the brain and
-most concentrated in humans. The rapid onset of DMT — forty-five seconds to
-peak, lasting five minutes — suggests the brain is "absolutely at home with this
-compound." By contrast, LSD is retained in the body for extended periods.
-
-## See Also
-
-- [[dmt-ego-intactness-witness-function-phenomenology]]
-
-- [[shamanism-and-hallucinogenic-plants]]
-- [[psilocin-and-psilocybin-chemistry]]

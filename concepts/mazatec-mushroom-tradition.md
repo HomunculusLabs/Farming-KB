@@ -88,29 +88,3 @@ force; they ruined them. Henceforth they will no longer work. There is no
 remedy for it."
 
 Despite this disruption, the Mazatec mushroom tradition has survived, and
-curanderos in the region continue to practice the velada ceremony, though
-with greater secrecy and selectivity than before the Wasson revelations.
-
-## Uses of the Mushrooms
-
-In Mazatec tradition, the sacred mushrooms serve multiple purposes:
-
-- **Divination**: Seeking guidance from the spirit world on important
-  decisions
-- **Healing**: Diagnosing and treating physical and spiritual illness
-- **Finding lost objects**: Locating lost or stolen property
-- **Resolving conflicts**: Mediating disputes within the community
-- **Weather prediction**: Forecasting agricultural conditions
-
-The mushrooms are regarded as sentient beings who speak to the participant
-during the ceremony. The visions they produce are interpreted by the curandero
-for practical guidance.
-
-## Context of Mazatec Entheogenic Practice
-
-The mushroom tradition exists alongside other entheogenic practices among the
-Mazatec, including the use of [[teonanacatl-history]] - Historical overview of sacred mushroom use in
-  Mexico
-- [[peyote-ceremony]] - Another major Mexican entheogenic tradition
-- [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]

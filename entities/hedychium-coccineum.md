@@ -88,21 +88,3 @@ Flavonoid content includes quercetin, kaempferol, and their glycosides. Total fl
 Wild harvesting of rhizomes for medicinal use poses localized pressure in some areas, particularly in the Khasi Hills of Meghalaya and the Chittagong Hill Tracts of Bangladesh.
 
 Ex situ conservation collections exist at several botanical gardens, including the Royal Botanic Gardens, Kew, and the Lloyd Botanic Garden in Darjeeling. Seed banking efforts have been initiated by the Millennium Seed Bank Partnership.
-
-## Economic Significance
-
-The global horticultural trade in *Hedychium* species, including *H. coccineum*, is estimated at several million USD annually. The species is widely available from nurseries and online plant retailers in temperate regions as a container plant.
-
-In northeast India, small-scale cultivation for cut flower production provides supplementary income for hill farmers. The cut flowers have a vase life of 7–10 days and are sold in local markets and as temple offerings.
-
-Hybridization programs targeting *H. coccineum* have produced commercially significant cultivars, particularly crosses with *H. coccineum* × *H. densiflorum* and *H. coccineum* × *H. flavescens*, which combine the scarlet flower color of the former with the compact habit of the latter.
-
-The essential oil has niche applications in perfumery and aromatherapy, though commercial production is limited. Research into its potential as a natural insecticide continues at several Indian agricultural universities.
-
-## See Also
-
-- [[hedychium-gardnerianum]]
-- [[alpinia-galanga]]
-- [[elettaria-cardamomum]]
-- [[canna-indica]]
-- [[boesenbergia-rotunda]]

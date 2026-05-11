@@ -1,5 +1,5 @@
 ---
-title: Trichocereus pachanoi — gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch Chemistry and Ethnobotany
+title: Plants Of The Gods Trichocereus San Pedro Chemistry
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -18,7 +18,7 @@ type: concept
 
 ## Botanical Description
 
-*Trichocereus pachanoi* (syn. *Echinopsis pachanoi*) is a branched,
+*Trichocereus pachanoi* (syn. *[[echinopsis-pachanoi]]*) is a branched,
 often spineless columnar cactus growing 9 to 20 feet (2.75 to 6 meters)
 in height. The branches bear 6 to 8 ribs, appearing glaucous when young
 and darkening to deep green with age. The pointed buds open at night to
@@ -48,9 +48,9 @@ detected in the plant include:
 
 Mescaline, a phenethylamine derivative, is responsible for the visual
 hallucinogenic effects characteristic of San Pedro intoxication. The
-mescaline content makes *T. pachanoi* one of the most significant
+[[gottlieb-peyote-botany-and-mescaline-content]] makes *T. pachanoi* one of the most significant
 naturally occurring sources of this compound, comparable to
-[[plants-of-the-gods-brugmansia-angels-trumpet]] (*Brugmansia aurea*
+[[plants-of-the-gods-brugmansia-angels-trumpet]] (*[[brugmansia-aurea]]*
   and *B. sanguinea*) — potent hallucinogens frequently added
 - Powdered bones and cemetery dust — added to ensure magical
   effectiveness
@@ -86,18 +86,4 @@ Ceramic pots from the Chimu culture (circa AD 1200) depict owl-faced
 female figures holding Huachuma (*Trichocereus*). In native markets
 today, women who sell the hallucinogenic cactus are typically both
 herbalists and shamans. The owl is associated with these women in
-native belief, linking modern practice to ancient traditions.
-
-## Subjective Effects
-
-The principal effects of *T. pachanoi* have been described by shamans
-as beginning with drowsiness and a dreamy state, followed by slight
-dizziness and a feeling of lethargy, progressing through visionary
-experiences. The effects parallel those of [[plants-gods-san-pedro]]
-
-- [[plants-of-the-gods-brugmansia-angels-trumpet]] — common Cimora
-  additive
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] — mescaline
-  chemistry
-- [[plants-of-the-gods-hallucinogens-medicine]] — therapeutic
-  applications
+native belief, linking modern practice to [[sacred-meal-ancient-traditions]].

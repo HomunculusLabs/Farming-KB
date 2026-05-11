@@ -1,5 +1,5 @@
 ---
-title: "Permaculture Ethical Principles — Holmgren's Three Ethics"
+title: Permaculture Ethical Principles Holmgren
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, ethics, holmgren, sustainability, earth-care]
 ---
@@ -27,9 +27,9 @@ self-interest. Humans are terrestrial organisms utterly dependent on healthy
 soil, clean water, and functional ecosystems. Care for the earth is care for
 the foundation of all life, including human life.
 
-In practice, this ethic manifests as soil building, water conservation, tree
+In practice, this ethic manifests as soil building, [[water-conservation]], tree
 planting, habitat restoration, and the design of productive systems that enhance
-rather than degrade ecological function. Holmgren emphasizes that even modest
+rather than degrade [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. Holmgren emphasizes that even modest
 soil [[fungal-conservation-strategies]] are an ethical responsibility, while more activist
 permaculture concepts demand that we make all reasonable efforts to increase and
 even transform the biological capacity of soil for future generations.
@@ -61,7 +61,7 @@ encourages sharing, while a sense of limits encourages restraint.
 
 A sense of abundance emerges when we experience nature's gifts, sharpest within a
 context of constraint. The first strawberry of the season is special because nature
-does not provide strawberries year round. Luxuries lose their power when they
+does not provide strawberries [[coleman-year-round-intensive-cropping-bed-management]]. Luxuries lose their power when they
 become everyday realities. Excess and waste are only possible through power over
 nature and people.
 
@@ -73,7 +73,7 @@ consumption.
 
 ## Non-Material Well-Being
 
-Holmgren emphasizes that one of the best ways to apply these ethics is to focus
+Holmgren emphasizes that one of [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]] to apply these ethics is to focus
 on non-material values. When we enjoy a sunset rather than watching a movie, when
 we walk for health rather than consuming medicine, when we play with a child rather
 than buying them a toy, we care for ourselves and others without producing or
@@ -88,35 +88,3 @@ remedial health care, pollution control, crime control, litigation.
 
 Holmgren addresses population growth directly. The world is probably already
 overpopulated for the long-term good of humanity and other species. Modeling
-suggested Costa Rica could sustainably support only 53-80% of its 1987 population
-at current consumption levels.
-
-Birth rates drop rapidly when three factors apply: women are economically secure,
-they have control over their own reproduction, and infant mortality rates are low.
-In rich countries, almost every child born accelerates consumption. Learning to see
-all children as our heirs is one of the great challenges for male culture worldwide.
-
-## Redistribution of Surplus
-
-Redistribution requires sharing surplus resources to help the earth and people
-beyond our immediate circle where there may be no mutual obligation or feedback
-mechanism to reward benevolence.
-
-Traditional societies embedded caring for land beyond family needs in nature-spirit
-traditions. Planting long-lived trees has been a traditional way of redistributing
-surplus time and resources for future generations. Within the organic movement,
-building long-term soil fertility has been regarded as stewardship — leaving land
-in better shape than when received.
-
-## Permaculture as Ethical Decision Tools
-
-In attempting to lead an ethical life we need conceptual tools that allow us to
-find what is appropriate, practical, and yet of enduring value in chaotically
-changing times. [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles are these tools. The three ethics
-provide the foundation; the [[holmgren-permaculture-twelve-design-principles-framework]] principles provide the methodology.
-
-## See Also
-
-- permaculture twelve design principles overview
-- [[permaculture-catch-and-store-energy]]
-- [[permaculture-design-from-patterns-to-details]]

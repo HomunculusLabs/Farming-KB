@@ -4,7 +4,8 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [homesteading, biology, methods, troubleshooting, ecology]
-sources: []
+sources:
+  - "raw/papers/dave-jacke-forest-garden-design.md"
 ---
 
 # Beekeeping Basics
@@ -147,4 +148,3 @@ Beetles that lay eggs in hives. Larvae tunnel through comb, defecating and ferme
 
 ### Wax Moths
 Larvae that destroy comb, especially in weak colonies or stored equipment.
-**Management**: Maintain strong colonies. Freeze stored frames for 48 hours before storage. Store supers with paradichlorobenzene (PDB) crystals (not mothballs).

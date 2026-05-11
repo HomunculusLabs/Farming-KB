@@ -88,28 +88,3 @@ Composition varies enormously by chemotype, geography, and harvest time:
   carvacrol and thymol; contributes to the aromatic profile
 - **γ-Terpinene:** 3–15%; monoterpene hydrocarbon, biosynthetic
   precursor to p-cymene
-- **Linalool:** 1–5%; monoterpene alcohol contributing floral notes
-- **β-Caryophyllene:** 1–5%; sesquiterpene with anti-inflammatory
-  activity
-- **Bornyl acetate, α-pinene, β-pinene, myrcene, limonene:**
-  Minor constituents contributing to aroma complexity
-### Chemotype Variation
-Six major chemotypes have been identified across the species range:
-1. Carvacrol type (Mediterranean, highest medicinal value)
-2. Thymol type (Central/Eastern Europe)
-3. Carvacrol/thymol mixed type
-4. cis-Sabinene hydrate type
-5. Trans-sabinene hydrate/cis-sabinene hydrate type
-## Pharmacology and Therapeutic Applications
-### Antimicrobial Activity
-Oregano essential oil (OEO) is one of the most extensively studied plant
-antimicrobials. Carvacrol disrupts bacterial cell membranes by increasing
-permeability, causing leakage of ions and ATP, and ultimately cell lysis.
-Key findings from clinical and in vitro studies:
-- **Antibacterial:** Active against Staphylococcus aureus (including
-  MRSA), Escherichia coli, Salmonella spp., Listeria monocytogenes,
-  Pseudomonas aeruginosa, and Helicobacter pylori; MIC values typically
-  0.125–0.5 mg/mL for Gram-positive bacteria
-- **Antifungal:** Effective against [[foeniculum-vulgare-entity]]
-- [[rosmarinus-officinalis-entity]]
-- [[ocimum-basilicum]]

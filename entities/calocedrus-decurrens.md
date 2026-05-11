@@ -43,7 +43,7 @@ Cones are small and distinctive, resembling tiny duck bills when closed.
 
 Each cone consists of 4–6 pairs of scales, with the outer pair enlarged and flattened to form conspicuous wing-like structures. This unique morphology distinguishes Calocedrus from all other Cupressaceae genera.
 
-Seed production begins at 20–30 years of age. Good seed crops occur at 2–5 year intervals, with individual trees producing millions of small, winged seeds.
+[[cannabis-controlled-pollination-seed-production]] begins at 20–30 years of age. Good seed crops occur at 2–5 year intervals, with individual trees producing millions of small, winged seeds.
 
 ## Distribution and Habitat
 
@@ -71,9 +71,9 @@ The timber's natural durability made it the preferred material for cedar pencils
 
 The aromatic wood has been traditionally used for closet linings, chest construction, and moth repellent sachets. The volatile oils in the heartwood provide natural insect deterrent properties.
 
-Growth rates are moderate, with trees achieving 30–60 cm of height gain per year in plantation settings. Mean annual increment ranges from 8 to 15 cubic meters per hectare on productive sites.
+[[coleman-sunlight-and-winter-crop-growth-rates]] are moderate, with trees achieving 30–60 cm of height gain per year in plantation settings. Mean annual increment ranges from 8 to 15 cubic meters per hectare on productive sites.
 
-The species is widely planted as an ornamental tree in Mediterranean and temperate climates. Its narrow, columnar form makes it suitable for screening and vertical accent planting in urban landscapes.
+The species is widely planted as an ornamental tree in Mediterranean and [[fukuoka-natural-farming-temperate-climates]]. Its narrow, columnar form makes it suitable for screening and vertical accent planting in urban landscapes.
 
 Propagation is from seed, which requires 30–60 days of cold stratification for optimal germination. Nursery production typically uses container-grown seedlings planted as 1–2 year stock.
 
@@ -88,34 +88,3 @@ The species is a minor but consistent component of Sierra Nevada mixed conifer f
 Root systems are deep and widespreading, providing slope stabilization on steep mountain terrain.
 
 The species' [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it increasingly important under warming climate conditions. Climate models project incense cedar may expand its range upslope as temperatures increase.
-
-The species is susceptible to several [[bloomfield-fungal-pathogens-and-parasites]], including pocket rot (*Tyromyces amarus*) and white pocket rot (*Phellinus pini*). These fungi cause internal decay that can reduce timber value in older trees.
-
-## Cultural Significance
-
-Incense cedar has been used by Indigenous peoples of California and the Pacific Northwest for millennia.
-
-The wood was carved into ceremonial objects, bows, and storage containers. The straight grain and workability of the wood made it ideal for detailed carving.
-
-The Karuk, Yurok, and Hupa peoples used incense cedar planks for [[low-cost-mushroom-growing-house-construction-developing-countries]] and sweat lodge frames. Bark strips were woven into baskets and used for roofing material.
-
-The aromatic foliage was burned as incense in purification ceremonies and healing rituals.
-
-Medicinal preparations from the bark and leaves treated respiratory ailments and skin conditions. Modern research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in the essential oil.
-
-The species is the official state wood of Nevada. Its distinctive silhouette appears in numerous artistic depictions of Sierra Nevada landscapes.
-
-Incense cedar is a component of "old growth" forests that are the focus of ongoing conservation debates in California. The species' ability to persist after fire makes it important for post-fire forest recovery planning.
-
-## See Also
-
-- [[sequoia-sempervirens]]
-- [[thuja-plicata]]
-- [[chamaecyparis-lawsoniana]]
-- [[pinus-ponderosa]]
-- [[pseudotsuga-menziesii]]
-- [[abies-concolor]]
-- [[pinus-sylvestris]]
-- [[cedrus-libani]]
-- [[cupressus-macrocarpa]]
-- [[quercus-rubra]]

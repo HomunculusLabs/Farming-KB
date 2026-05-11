@@ -1,10 +1,11 @@
 ---
-title: Sepp Holzer Alternative sepp holzer composting and humus building Building
+title: Sepp Holzer Composting And Humus Building
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [composting, soil]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -47,7 +48,7 @@ Any organic material that decomposes:
 - Space protected from drying out, retains heat
 - Plants on beds provide partial shade (optimal for decomposition)
 - High-quality humus produced continuously
-- No turning required (unlike traditional compost)
+- No turning required (unlike [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]])
 - No dedicated compost area needed
 
 ### Critical Factors
@@ -59,7 +60,7 @@ Any organic material that decomposes:
 ## Surface Composting (Mulching)
 
 ### The Principle
-"Mulching is nothing other than surface composting." A layer of organic material spread over the soil serves as ground cover while decomposing into fertiliser.
+"Mulching is nothing other than surface composting." A layer of organic material spread over the soil serves as [[fukuoka-citrus-orchard-ground-cover-cultivation]] while decomposing into fertiliser.
 
 ### Materials
 - Leaves, straw, cardboard
@@ -68,7 +69,7 @@ Any organic material that decomposes:
 
 ### Application Rules
 - **Moist/wet material**: spread thinly (prevents mouldering)
-- **Dry material**: spread thickly (20cm+); looser structure, better air circulation
+- **Dry material**: spread thickly (20cm+); looser structure, better [[stamets-growing-room-air-circulation-co2-management]]
 - **Never pack down**: soil pores must remain open for soil life
 - **Do not shred**: unshredded material releases nutrients more slowly and compacts less
 - **Vary materials**: same nutrients repeatedly = unhealthy for soil
@@ -87,49 +88,3 @@ Green manure plants serve multiple functions simultaneously:
 - Soil protection from erosion
 - [[hamilton-composting-and-organic-matter-management]] addition when cut and incorporated
 - [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
-- Weed suppression
-
-### Species for Mountain Climates (Krameterhof)
-- **Clover** (Trifolium spp.): nitrogen fixation, bee forage
-- **Lupins** (Lupinus spp.): deep taproot, nitrogen fixation
-- **Mustard** (Sinapis alba): fast growth, biofumigation
-- **Buckwheat** (Fagopyrum esculentum): quick cover, phosphorus scavenging
-- **Phacelia**: bee forage, soil loosening
-- **Vetch** (Vicia spp.): climbing nitrogen fixer
-
-### Decomposition in Winter
-Green manure sown in autumn decomposes over winter. The decomposition process:
-- Depends on soil conditions and temperature
-- Winter decomposition slower but still significant
-- Decomposed material provides spring nutrients
-- Soil life (earthworms, microorganisms) active even in cold soils
-
-### Integration with Raised Beds
-- Green manure can be sown directly into raised beds
-- When mature, cut and leave as surface mulch
-- Roots decompose in place, improving soil structure
-- No need to dig in -- [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] processes work
-
-## The Importance of Soil Life
-
-### Earthworms
-- Present abundantly under mulch and in compost
-- Improve soil structure through burrowing
-- Castings are extremely nutrient-rich
-- Indicator of healthy soil
-
-### Soil Microorganisms
-- Bacteria, fungi, actinomycetes drive decomposition
-- Mycorrhizal associations extend plant root systems
-- Symbiotic relationships with nitrogen-fixing bacteria on legume roots
-
-### The No-Dig Principle
-Once mulching has been established for a while, digging over or loosening soil in spring is unnecessary. Soil life maintains structure. Digging disrupts fungal networks and earthworm tunnels.
-
-See also: [[sepp-holzer-soil-fertility-and-green-manure]], [[sepp-holzer-method]]
-- [[holzer-kitchen-garden-layout-and-traditional-gardening]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
-
-## See Also
-
-- [[sepp-holzer-composting-mulching-and-liquid-fertiliser]]

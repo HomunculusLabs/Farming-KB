@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
@@ -87,10 +88,3 @@ to cooking, making it suitable for a variety of culinary applications.
 ## References
 
 - Guzman, G. Studies in Pleurotus taxonomy.
-- Han, K.C., Chen, Z.C. & Cheng, S.C. Studies on P. abalonus.
-- Miller, O.K. Original description of P. cystidiosus.
-- Stamets, P. (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
-
-## See Also
-
-- [[mushroom-cultivation-basics]]

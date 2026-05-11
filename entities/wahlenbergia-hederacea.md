@@ -18,7 +18,7 @@ sources:
 
 Wahlenbergia hederacea, the ivy-leaved bellflower, is a small creeping perennial in the family Campanulaceae. It produces solitary pale blue to white bell-shaped flowers on threadlike stems above rounded, ivy-like leaves.
 
-The species is the only European representative of the predominantly Southern Hemisphere genus Wahlenbergia. It is a plant of wet, acidic habitats including heathland flushes, bog margins, and damp sandy ground.
+The species is the only European representative of the predominantly [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] genus Wahlenbergia. It is a plant of wet, acidic habitats including heathland flushes, bog margins, and damp sandy ground.
 
 Wahlenbergia hederacea has declined across much of its northern European range due to drainage of wet heaths and agricultural intensification. It is considered threatened in several countries including the United Kingdom and Germany.
 
@@ -72,7 +72,7 @@ Vegetative spread through creeping stems allows clonal patches to persist even w
 
 The species is intolerant of shade and quickly disappears when scrub or tall herbs encroach. Population persistence therefore depends on periodic disturbance such as grazing, mowing, or fluctuating water levels.
 
-Associated species include [[ranunculus-repens]], [[caltha-palustris]], [[jasione-montana]], and Sphagnum species in bog margin habitats. It frequently co-occurs with carnivorous plants such as Drosera rotundifolia in valley bogs.
+Associated species include [[ranunculus-repens]], [[caltha-palustris]], [[jasione-montana]], and Sphagnum species in bog margin habitats. It frequently co-occurs with carnivorous plants such as [[drosera-rotundifolia]] in valley bogs.
 
 Seed output per plant is modest, typically 30–80 seeds per capsule. Seeds lack specialized dispersal structures and fall near the parent plant, limiting colonization of new sites to stepping-stone dispersal through wet habitat corridors.
 
@@ -87,34 +87,3 @@ The species is hardy to approximately USDA zone 7, though it may suffer in areas
 In cultivation, competition from more vigorous bog garden plants must be managed carefully. Wahlenbergia hederacea is easily overwhelmed by taller sedges, grasses, and moisture-loving perennials.
 
 The plant has no significant pest or disease problems in cultivation. Its low, creeping habit and small flowers make it a subtle rather than showy garden subject.
-
-Wahlenbergia hederacea has no known medicinal or culinary uses. It is of primarily botanical interest as a biogeographic anomaly — a Southern Hemisphere genus species surviving in oceanic Europe.
-
-## Conservation
-
-Wahlenbergia hederacea is listed as Vulnerable in the United Kingdom, where it has declined significantly since the 1950s. Drainage of heathland for agriculture and forestry has been the primary driver of loss.
-
-In Germany, the species is Critically Endangered, surviving at fewer than ten sites in the northwest. Remaining populations are small and vulnerable to single-event destruction through land-use change.
-
-Belgian populations are also highly fragmented, with most confined to nature reserves in the Kempen region. The species was formerly more widespread across the Campine heathlands before large-scale drainage.
-
-Conservation measures include protection of remaining heathland and bog habitats, controlled grazing to maintain open conditions, and re-introduction from seed at historically occupied sites. Ex situ conservation through seed banking is underway at the Millennium Seed Bank.
-
-In Britain, the species is a priority under the UK Biodiversity Action Plan. Specific site management includes winter grazing by cattle and ponies to prevent scrub encroachment on heathland. Populations are monitored annually by local Wildlife Trusts.
-
-The species is classified as Least Concern on the IUCN European Red List due to stable populations in Iberia. However, the northern edge of its range shows marked contraction consistent with climate warming impacts on oceanic habitats.
-
-Climate envelope modeling predicts further northward retreat of suitable habitat in coming decades. Southern English and Welsh populations are considered most at risk from increased summer drought frequency.
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-rapunculus]]
-- [[lobelia-dortmanna]]
-- [[jasione-montana]]
-- [[phyteuma-spicatum]]
-- [[campanula-patula]]
-- [[ranunculus-repens]]
-- [[caltha-palustris]]
-- [[campanula-persicifolia]]
-- [[campanula-cochlearifolia]]

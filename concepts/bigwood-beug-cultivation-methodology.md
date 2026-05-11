@@ -16,16 +16,16 @@ type: concept
 Bigwood and Beug (1982) developed a controlled "miniculture" system for
 cultivating Psilocybe cubensis that allowed systematic study of alkaloid
 [[psilocybin-psilocin-variation-across-flushes]] repeated fruitings. Their methodology adapted earlier
-rye-grain cultivation techniques into a standardized, reproducible
+rye-grain [[cannabis-sativa-indoor-cultivation-techniques]] into a standardized, reproducible
 protocol using half-pint mason jars. This miniculture approach proved
 effective for producing multiple flushes over extended periods while
-maintaining the controlled conditions necessary for meaningful
+maintaining the [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] necessary for meaningful
 scientific comparison. The method has since become a foundational
 reference in mycological research on psilocybin-producing fungi.
 
 ## Historical Development
 
-The Bigwood and bigwood beug cultivation methodology system evolved through several prior
+The Bigwood and [[bigwood-beug-amazon-strain-origin-pucalpa-peru]] cultivation methodology system evolved through several prior
 contributions. The basic rye-grain method was first described by San
 Antonio (1971) for cultivating [[genetic-improvement-agaricus-bisporus-molecular-approaches]] (the common button
 mushroom) from cased grain spawn. Oss and Oeric (1976) adapted this
@@ -40,7 +40,7 @@ the ability to track individual flushes from discrete culture vessels.
 The cultivation vessels were wide-mouth half-pint mason jars
 (approximately 250 ml capacity). Each jar was charged with 10 grams of
 rye grain and 15 ml of water, achieving a hydration ratio optimized
-for mycelial growth without excess moisture that could promote
+for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] without excess moisture that could promote
 bacterial contamination. The jars were autoclaved to achieve full
 sterilization before inoculation. This small scale allowed for numerous
 replicate cultures while minimizing the space and resource requirements
@@ -55,7 +55,7 @@ print and maintained as a [[mushroom-cultivator-stock-culture-preservation]] on 
 ensure even distribution of the growing mycelium throughout the grain
 substrate, the jars were manually shaken every four days for a total
 colonization period of 28 days. This periodic agitation prevented the
-mycelium from forming dense mats at the inoculation point and instead
+mycelium from forming dense mats at the [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]] and instead
 promoted colonization throughout the entire grain bed.
 
 ## Casing and Fruiting Initiation
@@ -66,7 +66,7 @@ the rye grain, the jars were opened and the grain surface was cased
 consisted of 2 parts peat moss, 1 part calcium carbonate, and 2 parts
 perlite and/or vermiculite. The calcium carbonate served to buffer pH
 and provide calcium, while the perlite or vermiculite improved moisture
-retention and aeration of the casing layer. The casing step is critical
+retention and aeration of the [[casing-layer-microbiology]]. The casing step is critical
 for fruiting initiation in many mushroom species, providing the
 microclimate conditions that trigger the transition from vegetative
 mycelial growth to reproductive fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]].
@@ -88,39 +88,3 @@ weeks after initial inoculation, approximately two weeks after the
 casing was applied. The minicultures continued to produce mushrooms for
 at least 20 weeks provided they remained uncontaminated, yielding an
 average of 2.7 grams dry weight per jar across all flushes. Each flush
-was harvested as soon as the sporocarps were judged mature, ensuring
-consistent developmental stage across samples.
-
-## Harvesting and Preservation
-
-Harvested mushrooms were immediately freeze-dried to preserve alkaloid
-content, then sealed in plastic and stored at -5°C until analysis.
-Freeze-drying was chosen over air-drying or oven-drying because it
-minimizes thermal degradation of the relatively labile psilocin molecule.
-Voucher specimens were prepared for deposit in the University of
-Washington Herbarium (WTU), establishing a permanent reference
-collection for taxonomic verification.
-
-## Significance for Experimental Design
-
-The miniculture approach offered several advantages for alkaloid
-research. Individual jars served as discrete experimental units,
-allowing flush-by-flush tracking from defined cultures. The small scale
-enabled replication across multiple minicultures while the controlled
-variables (substrate, hydration, temperature, strain genetics) isolated
-flush number as the primary independent variable. A total of three
-independent minicultures were maintained simultaneously, providing
-replication within the experimental design. This methodological rigor
-distinguished the Bigwood and Beug study from earlier anecdotal reports
-and established a template for subsequent controlled studies of
-psychoactive mushroom alkaloid content.
-
-## See Also
-
-- [[bigwood-beug-amazon-strain-origin-pucalpa-peru]]
-
-- [[psilocybin-psilocin-variation-across-flushes]]
-- [[psilocybe-cubensis-cap-versus-stem-alkaloid-distribution]]
-- [[agaricus-bisporus]]
-- [[psilocybe-cubensis-cultivation]]
-- [[fruiting-initiation]]

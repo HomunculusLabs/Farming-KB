@@ -10,7 +10,7 @@ sources:
 
 # Amazonian Ship Aceropunta and Visionary Cosmology
 
-Pablo Amaringo's [[amaringo-ayahuasca-visions-shipibo-iconography]] reveal an elaborate cosmology that integrates Amazonian spiritual beings, extraterrestrial entities, and multidimensional travel. Central to this cosmology is the Aceropunta, a great esoteric ship that travels the world visiting those who call it through properly sung icaros.
+[[pablo-amaringo]]'s [[amaringo-ayahuasca-visions-shipibo-iconography]] reveal an elaborate cosmology that integrates Amazonian spiritual beings, extraterrestrial entities, and multidimensional travel. Central to this cosmology is the Aceropunta, a great esoteric ship that travels the world visiting those who call it through properly sung [[icaros]].
 
 ## The Aceropunta
 
@@ -70,7 +70,7 @@ A city surrounded by dancing queens, with a giant harp that "makes one cry" (wak
 
 ## Extraterrestrial Beings
 
-Ayahuasca visions frequently include extraterrestrial beings and spacecraft:
+[[ayahuasca-visions]] frequently include extraterrestrial beings and spacecraft:
 
 - Spaceships from Mars, Saturn's satellites, and the galaxy Antares
 - Beings from Venus with half-human, half-energy bodies who come to teach medicine
@@ -87,29 +87,3 @@ Vision 36 describes a three-tiered initiation system:
 3. **Third temple**: Ordination as sublime masters with light-blue stairs. Two spaceships depart -- one upward, one downward -- signifying full mastery of esoteric sciences.
 
 ## Cross-Cultural Spiritual Masters
-
-Amaringo's visions include spiritual figures from many traditions:
-- The great guru Le Muel Kan with esoteric powers
-- The pythonic Lui Ce Fu with sparkling radiant power and visionary pipe
-- Mayan priests in mystical clothing with hieroglyphics transmitting sublime icaros
-- African healers dominating villages with icaros of thunder
-- Yoga masters with minds made blank for sensory cleansing
-- Ancient priests of Vishnu and Shiva skilled in cures of mind and body
-- The Incan Ayar, prince of all witch doctors, healers, and sorcerers
-- Princess Jerusela from Persia with a balsam enabling world travel
-- Princess Durela accompanied by a spirit teaching healing prayers
-
-## Encounters with the Dead and Ancestral Spirits
-
-- The Chai Cuilkimama (mother of silver) who helps people prosper in business
-- The Millaipa-huarmi (ugly women) who manage sickness during curing
-- The Nina-runa (fire people) with heels of fire, called upon by shamans for defense
-- The Ayamanchare (spirit of fright from the earth's steam) who teaches aerotherapy, geotherapy, and physiotherapy
-
-## Related Topics
-
-- [[yakuruna-water-spirits-of-the-amazon]] -- water realm beings
-- [[amazonian-sorcery-illness-and-curing-practices]] -- [[amazonian-sorcery-illness-and-curing-practices]]
-
-- [[amazonian-graded-powers-and-the-seven-rays-of-wisdom]]
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]

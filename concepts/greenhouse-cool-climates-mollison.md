@@ -6,13 +6,14 @@ type: concept
 tags: [permaculture, design, season-extension, microclimate]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Greenhouse Growing in Cool Climates (Mollison)
 Updated: 2026-04-18
 Source: Permaculture: A Designers' Manual, Bill Mollison,
 Section 12.8 (pp. 422-423)
 ## Role of Greenhouses in Cool Climates
-The cool temperate climates are those places where greenhouses are most
+The cool [[fukuoka-natural-farming-temperate-climates]] are those places where greenhouses are most
 commonly used for specialty crop or aquatic species production, for house
 heating, and for the winter production of vegetable and fruit crop. Modern
 glasshouses are becoming very sophisticated with respect to heat energy
@@ -32,7 +33,7 @@ Inside the greenhouse, where the whole earth floor inside the walls is
 insulated from the cold earth outside, several additional heat masses can be
 provided, most commonly as plastic or metal tanks or drums of water (some can
 be fish ponds), but also by providing active heat sources such as:
-- Domestic animals housed below plant benches
+- [[permaculture-domestic-animals]] housed below plant benches
 - Compost heaps along the poleward wall
 - Hot water storages filled from solar heat collectors
 The areas below plant benches, if used to house rabbits, guinea pigs, poultry,
@@ -41,10 +42,10 @@ as will long compost boxes along the poleward wall, or external to, but below,
 the level of the greenhouse itself. Dark curtains within the greenhouse also
 act as heat (long wave) absorbers, radiating warmth back at night.
 ## Orientation and Solar Gain
-Mollison emphasises that greenhouse orientation must maximise winter solar
+Mollison emphasises that [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] must maximise winter solar
 gain while minimising heat loss. In cool climates, the long axis should run
 east-west so that the largest glazed area faces the equator (south in the
-northern hemisphere, north in the southern hemisphere). The roof angle should
+northern hemisphere, north in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). The roof angle should
 approximate the latitude plus 10-15 degrees to capture low-angle winter sun
 while shedding summer heat. Deciduous shade plants trained over the exterior
 can provide automatic summer shading while allowing full winter penetration.
@@ -53,7 +54,7 @@ heat during the day and release it slowly at night, buffering temperature
 extremes. Mollison recommends placing dark-coloured water drums along the
 sunward wall where they receive direct sunlight for maximum thermal storage.
 ## Passive Solar Integration
-Passive solar design reduces or eliminates the need for artificial heating.
+[[passive-solar-design]] reduces or eliminates the need for artificial heating.
 Key strategies include:
 - Rock beds beneath the growing surface for heat storage and distribution
 - Convective loops that circulate warm air through sub-floor ducts
@@ -83,22 +84,7 @@ Greenhouse polycultures in cool climates should emphasise:
   tomatoes and peppers
 - Leguminous plants for nitrogen fixation within the enclosed system
 - Nitrogen-fixing groundcovers to maintain soil biology through winter
-- Companion planting with aromatic herbs (basil, marigold) to deter pests
+- [[companion-planting-with-fungi]] aromatic herbs (basil, marigold) to deter pests
   without chemical inputs in the enclosed environment
 ## Season Extension Techniques
 Beyond the basic greenhouse, Mollison describes several season extension
-techniques for cool climates: cold frames and cloches for hardening off
-seedlings; hot beds using decomposing manure beneath growing frames; deep
-mulch systems that insulate root zones; and geothermal heat exchange tubes
-that draw stable subsurface temperatures into the growing space. These
-techniques can extend the productive season by 6-8 weeks on either end of
-the outdoor growing period, dramatically increasing total annual yield.
-## Related Concepts
-- permaculture-greenhouse-design
-- cold-climate-permaculture-guide
-- [[permaculture-designers-manual-temperate-climate-design]]
-- [[greenhouse-design]]
-- [[passive-solar-design]]
-- [[mollison-frost-protection-and-thermal-belt-design]]
-- [[mollison-designers-integrated-vermiculture-composting-systems]]
-- [[season-extension-techniques]]

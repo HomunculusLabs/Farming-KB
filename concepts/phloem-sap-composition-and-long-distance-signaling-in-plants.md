@@ -87,12 +87,3 @@ This specialization allows precise routing of different compounds to different d
 ## The Plant as Integrated Organism
 
 The phloem signaling system reveals plants as sophisticated communicating organisms. Rather than passive consumers of nutrients, plants actively sense their environment, communicate needs between tissues, adjust root exudates to recruit specific microbial partners, and coordinate defense responses systemically. The phloem is the plant's nervous system, bloodstream, and endocrine system combined.
-
-## Related
-
-- [[gadd-vacuolar-system-long-distance-transport-fungi]] Topics
-
-- [[nutrient-movement-through-soil-to-plant-roots]] -- how nutrients arrive at the root
-- [[adenosine-triphosphate-and-cellular-energy]] -- ATP in the phloem
-- [[teaming-with-microbes-soil-minerals-cation-exchange]]
-- [[temperature-effects-plant-nutrient-uptake]]

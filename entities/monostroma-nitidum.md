@@ -52,17 +52,17 @@ The species is characteristic of estuarine and upper-intertidal habitats where f
 
 As a pioneer species, *M. nitidum* is among the first macroalgae to colonize newly available substrates. It tolerates wide fluctuations in salinity, temperature, and desiccation, though prolonged exposure to full salinity seawater (>30 ppt) inhibits growth. This broad tolerance makes it a reliable crop in variable estuarine environments.
 
-The species contributes significantly to estuarine primary productivity during spring blooms. Dense mats of *M. nitidum* provide habitat for meiofauna and shelter for juvenile crustaceans and fish. When thalli senesce in summer, decomposition releases nutrients that fuel subsequent productivity in the food web.
+The species contributes significantly to estuarine primary productivity during spring blooms. Dense mats of *M. nitidum* provide habitat for meiofauna and shelter for juvenile crustaceans and fish. When thalli senesce in summer, [[decomposition]] releases nutrients that fuel subsequent productivity in the food web.
 
 Interspecific competition with *Ulva* species limits *M. nitidum* distribution in areas where both genera co-occur. *Ulva* typically outcompetes *Monostroma* in higher-salinity environments, while *Monostroma* dominates in the lower-salinity upstream reaches of estuaries. This niche partitioning is a classic example of estuarine zonation.
 
-Seasonal patterns show peak biomass in spring (March–May), with thalli degrading by early summer as water temperatures exceed 22°C. Autumn populations may appear in cooler regions, but the primary harvest window is spring.
+Seasonal patterns show peak biomass in spring (March–May), with thalli degrading by early summer as water temperatures exceed 22°C. Autumn populations may appear in cooler regions, but the primary [[harvest-window-cannabis]] is spring.
 
 ## Nutritional Value and Chemistry
 
 On a dry-weight basis, *M. nitidum* contains 25–35% protein — significantly higher than most green seaweeds and comparable to some legumes. This makes it one of the most protein-rich edible macroalgae, a fact that has driven research into its use as a protein supplement.
 
-Carbohydrate content ranges from 35–45%, composed primarily of rhamnose, xylose, and glucuronic acid residues in the form of water-soluble sulfated polysaccharides. These polysaccharides have demonstrated immunostimulatory and antiviral activities in vitro, with particular activity against herpes simplex virus.
+Carbohydrate content ranges from 35–45%, composed primarily of rhamnose, xylose, and glucuronic acid residues in the form of water-soluble sulfated polysaccharides. These polysaccharides have demonstrated immunostimulatory and antiviral activities in vitro, with particular activity against [[cannabis-antiviral-herpes-simplex-blesching]] virus.
 
 Mineral content is substantial, with calcium at 400–700 mg/100 g dry weight, iron at 10–25 mg/100 g, and zinc at 3–8 mg/100 g. The calcium content exceeds that of milk on a dry-weight basis, making dried *M. nitidum* an effective calcium supplement.
 
@@ -86,28 +86,4 @@ Fujian-style Monostroma soup is considered a regional delicacy and is served at 
 
 Commercial aonori powder is produced by washing, drying, and milling whole thalli. Premium grades retain a bright green color and strong aroma, while lower grades may include mixed species or material from later-season harvests with reduced quality. The global market for aonori is estimated at 500–800 tonnes dried weight annually.
 
-[[aact-compost-quality-standards-ingham]] in Japan differentiate between *M. nitidum*-based aonori (considered superior) and *Enteromorpha*-based products. Authentic aonori commands a price premium of 2–3 times over mixed-species green seaweed powders. DNA barcoding is increasingly used for species authentication in commercial supply chains.
-
-## Cultivation and Harvesting
-
-Cultivation of *M. nitidum* utilizes two main methods: free-living gametophyte culture and net seeding. In net culture, collectors (rope nets or bamboo frames) are placed in estuaries during autumn, allowing natural spore settlement and subsequent gametophyte growth through winter.
-
-Spring harvest (March–May) targets peak biomass. Thalli are scraped or cut from collectors by hand or machine, then washed in freshwater to remove sand and epiphytes. Post-harvest processing includes sun-drying or forced-air drying, followed by milling for powder production.
-
-Japan produces approximately 2,000–3,000 tonnes fresh weight annually, with the Seto Inland Sea accounting for the majority of production. Chinese cultivation has expanded significantly since 2000, with current production estimated at 5,000–10,000 tonnes fresh weight.
-
-Environmental concerns include nutrient pollution in cultivation areas, which can promote excessive epiphyte growth and reduce crop quality. Integrated cultivation with bivalve filter feeders (oysters, mussels) has been proposed to improve water quality while generating multiple products from the same water column.
-
-[[dighton-fungi-climate-change-feedback]] poses a significant long-term threat to *M. nitidum* production. Rising water temperatures in the Seto Inland Sea have already shortened the spring harvest window, and projections suggest further contraction of suitable habitat by mid-century. Breeding programs for heat-tolerant strains are underway at several Japanese research institutions.
-
-The economic value of cultivated *M. nitidum* exceeds that of most other green seaweeds due to its premium positioning as aonori. Farm-gate prices range from USD 8–20 per kg dried powder, with processed retail products commanding substantially higher margins. This premium economics supports small-scale coastal producers and preserves traditional aquaculture communities.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[chlorella-vulgaris]]
-- [[saccharina-latissima]]
-- [[gracilaria-verrucosa]]
-- [[gelidium-amansii]]
-- [[caulerpa-lentillifera]]
-- [[hizikia-fusiforme]]
+[[aact-compost-quality-standards-ingham]] in Japan differentiate between *M. nitidum*-based aonori (considered superior) and *Enteromorpha*-based products. Authentic aonori commands a price premium of 2–3 times over mixed-species green seaweed powders. [[biodiversity-fungal-molecular-identification-dna-barcoding]] is increasingly used for species authentication in commercial supply chains.

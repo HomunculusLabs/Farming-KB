@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [knf, natural-farming]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
@@ -87,16 +88,3 @@ Despite its success, KNF faces ongoing challenges:
 - **Chemical industry resistance:** Vested interests in the chemical agriculture industry continue to oppose the spread of chemical-free farming methods
 - **Government policy:** Many governments still promote chemical-intensive agriculture through subsidies and extension services
 - **Scaling knowledge:** Training sufficient trainers to meet global demand is an ongoing challenge
-- **Research validation:** While practical results are compelling, formal scientific research validating KNF methods is still limited, though partnerships like the SARRA-SV University MoU are addressing this
-- **Standardization vs. adaptation:** Balancing the need for consistent methodology with the system's emphasis on local adaptation
-
-## The Future of KNF
-
-The book expresses confidence that Dr. Cho's revolutionary IMO technology will one day reach all corners of the world. The system's alignment with global trends toward sustainable agriculture, organic food production, climate-resilient farming, and poverty alleviation positions it for continued growth. As the limitations and costs of conventional chemical agriculture become increasingly apparent, KNF offers a proven, practical alternative that has already demonstrated its effectiveness across diverse climates, cultures, and farming systems.
-
-## See Also
-
-- [[knf-teaching-methodology]]
-- [[knf-large-scale-farming]]
-- [[fukuoka-soil-self-improvement-without-tillage]]
-- [[natural-farming-food-philosophy]]

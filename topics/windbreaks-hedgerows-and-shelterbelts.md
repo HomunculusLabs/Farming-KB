@@ -5,6 +5,7 @@ tags: [permaculture, agroforestry, windbreak, hedgerow, shelterbelt, microclimat
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
   - ~/wiki/raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md

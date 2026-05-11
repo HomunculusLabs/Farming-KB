@@ -87,30 +87,3 @@ C. disseminatus is considered edible but is generally regarded as not worthwhile
 Unlike some coprinoid species, it does not contain coprine and therefore does not cause the disulfiram-like reaction with alcohol associated with *Coprinopsis atramentaria*. There are no known toxic compounds.
 
 The flesh is thin, watery, and without significant flavor. While technically edible, collection for food is impractical given the size of individual fruiting bodies.
-
-## Related Species
-
-Several coprinoid mushrooms resemble C. disseminatus but can be distinguished by key features.
-
-*Coprinellus micaceus* (glistening inkcap) is larger (cap 20–40 mm), has glistening mica-like granules on the cap when fresh, and does partially deliquesce. It also fruits on wood but typically in denser, more robust clusters.
-
-*Coprinopsis atramentaria* (common inkcap) is substantially larger (cap 30–80 mm), has a smooth grey cap without striations, and deliquesces completely into black ink. It contains coprine and is toxic when combined with alcohol.
-
-*Coprinellus truncorum* is nearly identical to C. disseminatus but can be distinguished microscopically by its cheilocystidia morphology. C. truncorum has lageniform cheilocystidia while C. disseminatus has more variable cystidial forms.
-
-*Psathyrella candolleana* (weeping widow) shares the non-deliquescent habit and similar size but has a white spore print, not black, and lacks the pronounced striations on the cap.
-
-## See Also
-
-- [[coprinopsis-atramentaria]]
-- psathyrella
-- agaricales
-- [[wood-decay-fungi]]
-- coprinoid mushrooms
-- mycena
-- psathyrellaceae
-- [[psychedelic-fungi-taxonomy]]
-- [[coprinus-comatus]]
-- coprinellus
-- [[spore-print]]
-- [[mollison-humus-and-organic-matter-in-soils]]

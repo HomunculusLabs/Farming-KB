@@ -1,5 +1,5 @@
 ---
-title: biodiversity basidiomycete diversity taxonomy and Taxonomy
+title: Biodiversity Basidiomycete Diversity Taxonomy
 created: 2026-04-28
 tags: [fungi, taxonomy, basidiomycota, biodiversity, systematics]
 date: 2026-04-28
@@ -54,7 +54,7 @@ Members are characterized by the production of teliospores
 (diploid overwintering spores) and dimorphic life histories
 including a saprobic yeast state and a pathogenic filamentous
 state. Ultrastructural studies and molecular phylogenetic
-analyses support three major clades, or subclasses:
+analyses support three [[basidiomycota-classification-major-clades]], or subclasses:
 
 - **Entorrhizomycetidae**: Including Entorrhizales
 - **Ustilaginiomycetidae**: Including Ustilaginales and
@@ -79,57 +79,12 @@ Uredinales (rusts) contains plant pathogens displaying some
 of the most complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] among fungi, with heteroecious
 species requiring two distantly related hosts and macrocyclic
 forms possessing up to five distinct spore-producing states.
-Basidiomycetous yeasts are polyphyletic, with the order
+[[basidiomycetous-yeasts-ballistoconidia-biocontrol]] are polyphyletic, with the order
 Sporidiales including members of no fewer than three clades.
 
 ## Class Hymenomycetes
 
 The Hymenomycetes consists of fleshy forest fungi (mushrooms,
 jelly fungi, shelf fungi) and is united by a unique mycelial
-structure: the dolipore septum, in which cell walls flare near
+structure: the dolipore septum, in which [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] flare near
 the [[fungal-woronin-bodies-and-septal-pore-organization]], and a membrane structure (parenthesome) on
-either side. The class includes an estimated eight major clades
-(polyporoid, euagaric, bolete, thelephoroid, russuloid,
-hymenochaetoid, cantharelloid, and gomphoid-phalloid), each
-encompassing multiple basidiocarp and hymenophore morphologies.
-
-All eight major clades include species with a crust or
-corticioid morphology. The cantharelloids contain species with
-any one of four basidiocarp types, the fewest in any clade.
-The most basal lineage may be the gomphoid-phalloid clade,
-strongly supported by molecular data but not anticipated from
-gross morphology. That clade contains six of the seven major
-basidiocarp types, suggesting that most major basidiocarp
-morphologies have been present since early in homobasidiomycete
-evolution.
-
-## The Agaricales
-
-The Agaricales (Euagarics clade) is currently the best-studied
-and best-known group phylogenetically among the basidiomycetes.
-This clade includes the mushrooms and their gilled relatives,
-which were traditionally grouped together. Traditional
-classifications grouped all poroid forms in the Aphyllophorales,
-but phylogenetic analyses from both nuclear and mitochondrial
-genomes do not support these artificial groupings.
-
-## Ecological Roles
-
-Hymenomycetes fulfill diverse ecological functions: they
-produce [[mycorrhizae]] with plants, decay litter and wood, act
-as plant pathogens, and form symbiotic associations with
-insects. The orders Ceratobasidiales and Tulasnellales include
-plant-pathogenic species (e.g., Rhizoctonia) as well as
-saprobes. Many taxa in these orders possess septate or deeply
-divided basidia and exhibit dimorphic life cycles with yeast
-phases, consistent with those traits being ancestral for the
-Basidiomycota.
-
-## See Also
-
-- biodiversity-fungi-wood-decay-succession
-- biodiversity-fungi-plant-mutualisms
-- biodiversity-fungi-molecular-methods
-- [[biodiversity-ascomycete-diversity-taxonomy]]
-- [[lichenized-fungi-taxonomy-diversity]]
-- [[biodiversity-glomeromycota-diversity]]

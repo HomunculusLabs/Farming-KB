@@ -88,24 +88,3 @@ Lupin seeds contain 30-40% protein and 10-15% oil on a dry weight basis. The pro
 The carbohydrate fraction is dominated by non-starch polysaccharides, primarily cellulose and hemicellulose. Lupin seeds contain very little starch (less than 1%), distinguishing them from most other grain legumes.
 
 Dietary fiber content is exceptionally high at 30-40%, making lupin an attractive ingredient for high-fiber food products. Lupin fiber has demonstrated cholesterol-lowering and glycemic response-modulating effects in human [[mushroom-cancer-clinical-trials-overview]].
-
-Lupin protein isolates have functional properties comparable to soy protein, including emulsification, foaming, and gelation capacity. This makes them suitable for use in meat analogues, dairy alternatives, and protein-fortified beverages.
-
-Key minerals include potassium, calcium, magnesium, iron, and zinc. The seeds are also rich in folate and contain meaningful amounts of other B vitamins.
-
-In human food applications, lupin flour is used as a high-protein, low-glycemic substitute for wheat flour in breads, pasta, and baked goods. Lupin-based food products are increasingly popular in European and Australian markets.
-
-Allergenicity to lupin proteins has been identified as a concern, particularly for individuals with existing peanut allergies due to cross-reactivity between lupin and peanut proteins. Regulatory labeling requirements for lupin-containing foods have been implemented in the European Union.
-
-## See Also
-
-- [[glycine-max]]
-- [[vicia-faba]]
-- [[vigna-mungo]]
-- [[mucuna-pruriens]]
-- [[vigna-unguiculata]]
-- [[macadamia-integrifolia]]
-- arachis pintoi
-- [[pimpinella-anisum]]
-- [[coriandrum-sativum]]
-- [[vigna-radiata]]

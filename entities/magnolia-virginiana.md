@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Magnolia virginiana, commonly called sweetbay magnolia, is a deciduous to semi-evergreen tree in the family Magnoliaceae native to the eastern and southeastern United States.
+Magnolia virginiana, commonly called sweetbay magnolia, is a deciduous to semi-evergreen tree in the family Magnoliaceae native to the eastern and southeastern [[dmt-containing-plants-united-states-halpern]].
 
 It is valued for its fragrant, creamy-white flowers and glossy green leaves with silvery undersides.
 
@@ -28,7 +28,7 @@ Sweetbay magnolia is found in wetlands, swamps, and along stream margins, and is
 
 ## Taxonomy and Morphology
 
-Magnolia virginiana was one of the first magnolias described from North America, named by Mark Catesby and later validated by Carl Linnaeus.
+Magnolia virginiana was one of the first magnolias described from [[guzman-psilocybin-mushrooms-north-america]], named by Mark Catesby and later validated by Carl Linnaeus.
 
 The specific epithet virginiana refers to the Colony of Virginia, where early botanical specimens were collected.
 
@@ -56,7 +56,7 @@ It tolerates both permanently saturated soils and seasonally flooded conditions,
 
 Northern populations are typically found in boggy or peaty soils associated with Atlantic white cedar and red maple swamps.
 
-The species is hardy in USDA zones 5 through 9, with northern populations demonstrating significant cold tolerance.
+The species is hardy in USDA zones 5 through 9, with northern populations demonstrating significant [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
 
 ## Ecology
 
@@ -76,45 +76,14 @@ The species is generally free of serious insect or disease problems, though magn
 
 ## Cultivation and Uses
 
-Sweetbay magnolia is an excellent landscape tree for moist to wet sites where few other ornamental trees thrive.
+Sweetbay magnolia is an excellent landscape tree for moist to wet sites where few other [[hamilton-ornamental-trees]] thrive.
 
-It adapts well to average garden soils with consistent moisture and tolerates both full sun and partial shade.
+It adapts well to average [[ph-and-nutrient-availability-garden-soils]] with consistent moisture and tolerates both full sun and partial shade.
 
 The species grows at a moderate rate of 30 to 60 centimeters per year under favorable conditions.
 
 Fall foliage color is variable but can be attractive yellow-bronze in northern populations before leaf drop.
 
-Several cultivars are available, including 'Henry Hicks' (compact, cold-hardy, semi-evergreen) and 'Moonglow' (improved cold hardiness and vigor).
+Several cultivars are available, including 'Henry Hicks' (compact, cold-hardy, semi-evergreen) and 'Moonglow' (improved [[coleman-cold-hardiness-testing-ratings]] and vigor).
 
 The wood is soft, light, and straight-grained but has limited commercial use due to the tree's relatively small size.
-
-It has been used for cabinet work, boxes, and light construction where larger timber is not required.
-
-Sweetbay magnolia is recommended for rain gardens, bioswales, and riparian buffer plantings in eastern North America.
-
-The fragrant flowers make it a popular choice for pollinator gardens and scented landscapes near patios and walkways.
-
-## Conservation
-
-Magnolia virginiana is not considered threatened across most of its range, though northern disjunct populations in Massachusetts are rare and locally protected.
-
-Wetland habitat loss from urban development, agriculture, and drainage has reduced suitable habitat in portions of the coastal plain.
-
-Climate change may affect the species through sea-level rise in low-lying coastal habitats and altered precipitation patterns in inland swamp systems.
-
-Conservation efforts focus on preserving intact wetland ecosystems and incorporating sweetbay magnolia into ecological restoration projects.
-
-The species is commercially available from native plant nurseries, supporting its use in habitat restoration and landscape plantings.
-
-## See Also
-
-- [[magnolia-grandiflora]]
-- [[liriodendron-tulipifera]]
-- [[nyssa-sylvatica]]
-- [[liquidambar-styraciflua]]
-- [[acer-rubrum]]
-- [[quercus-palustris]]
-- [[tilia-cordata]]
-- [[betula-nigra]]
-- [[ulmus-americana]]
-- [[fagus-sylvatica]]

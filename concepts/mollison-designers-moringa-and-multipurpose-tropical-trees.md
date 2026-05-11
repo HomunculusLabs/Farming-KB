@@ -1,5 +1,5 @@
 ---
-title: Moringa and mollison designers moringa and multipurpose tropical trees Trees
+title: Mollison Designers Moringa And Multipurpose Tropical Trees
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -20,12 +21,12 @@ The horseradish tree or drumstick tree ([[comparison-moringa-oleifera-vs-moringa
 M. olitera in the Manual) is cited in the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] as
 a multipurpose tropical tree valued for food, fodder, and soil improvement.
 Mollison includes moringa within the broader context of multipurpose
-tropical trees that serve essential functions in permaculture systems.
+tropical trees that serve [[plant-micronutrients-and-their-essential-functions]] in permaculture systems.
 
 ## Botanical Profile
 
 Mollison lists the species as:
-- Drumstick tree, Moringa oleifera
+- Drumstick tree, [[moringa-oleifera]]
 - Horseradish tree, Moringa oleifera
 
 The tree is native to the Indian subcontinent but has been widely
@@ -37,7 +38,7 @@ readily from seed or cuttings.
 
 In the [[mollison-designers-tropical-terrace-design-and-earth-shaping]] design section, moringa appears in the list of
 crops suitable for garden terraces near homes, alongside banana, papaya,
-melons, chilies, peppers, cucurbits, sweet potato, cassava, maize, beans,
+melons, chilies, peppers, cucurbits, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], cassava, maize, beans,
 edible Chrysanthemum, edible Hibiscus, rosella, coconut, and mango. This
 placement indicates its value as a productive garden tree that can be
 integrated into intensive home food production systems.
@@ -52,8 +53,8 @@ characteristic of Zone 1 and Zone 2 tropical gardens.
 
 ## Nitrogen Fixation and Soil Improvement
 
-In the broader discussion of legume trees and soil improvement, moringa
-appears alongside Leucaena, Glyricidia, Tipuana tipu, and other
+In the broader discussion of [[legume-trees-and-nitrogen-fixing-permaculture-species]] soil improvement, moringa
+appears alongside Leucaena, Glyricidia, [[tipuana-tipu]], and other
 nitrogen-fixing or soil-improving species recommended for establishing
 tree crop systems. While moringa is not a true legume, its rapid leaf
 production and decomposition contribute significantly to soil organic
@@ -87,42 +88,3 @@ philosophy that values:
 - Species with wide potential for processing and use
 - Species that serve present and future essential needs
 - Species compatible with the wider polyculture
-
-## Nurse Tree Function
-
-Moringa's rapid growth makes it an effective nurse tree for slower-growing
-fruit and nut species. In the establishment phase of a tropical
-polyculture, moringa can provide quick shade, wind protection, and leaf
-mulch while species such as macadamia, citrus, and avocado develop their
-permanent canopy. As the target species mature, moringa can be coppiced
-or removed.
-
-## Establishment from Cuttings
-
-Like many tropical multipurpose trees, moringa establishes readily from
-large cuttings. This propagation method enables rapid establishment of
-shade and wind protection in new systems. Cuttings of 1-2 metres in length
-and 5-10 cm diameter root readily in moist conditions and produce a
-usable tree within the first [[savory-growing-season-and-non-growing-season-management]].
-
-## Comparison with Other Multipurpose Trees
-
-In the Manual's framework, moringa occupies a similar niche to other
-fast-growing multipurpose tropical trees:
-
-- Leucaena: faster-growing, more nitrogen-fixing, but some toxicity
-  concerns for non-ruminant livestock
-- Moringa: very high nutritional value, no known toxicity, more
-  cold-sensitive than Leucaena
-- Glyricidia: excellent green manure and fodder, good shade, but less
-  edible leaf production than moringa
-- Moringa: highest leaf protein content of the group, best for human
-  leaf consumption
-
-## Related
-
-- [[terminalia-catappa]]
-
-- [[mollison-designers-tropical-terrace-design-and-earth-shaping]]
-- [[mollison-designers-coppicing-management-of-legume-trees]]
-- [[mollison-tropical-mulch-systems-and-materials]]

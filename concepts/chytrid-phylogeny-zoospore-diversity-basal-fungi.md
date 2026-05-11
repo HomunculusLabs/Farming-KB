@@ -16,11 +16,11 @@ type: concept
 
 # Chytrid Phylogeny and Zoospore Diversity
 
-The Chytridiomycota occupy a pivotal position in fungal evolution
+The Chytridiomycota occupy a pivotal position in [[bloomfield-chytrid-fungi-early-fungal-evolution]]
 as the only extant fungi that produce flagellated cells at some
 stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. This ancestral trait, retained from
 a choanoflagellate-like ancestor, places chytrids at or near the
-base of the Kingdom Fungi. Modern molecular studies have revealed
+base of the [[fungal-taxonomy-and-kingdom-fungi]]. Modern molecular studies have revealed
 that the traditional Chytridiomycota is not monophyletic, though
 some chytrid lineage represents the most basal branch of true
 fungi.
@@ -33,7 +33,7 @@ cells may function as zoospores (asexual) or gametes (sexual).
 This flagellum is a plesiomorphic or ancestral trait shared with
 choanoflagellates, the probable protozoan ancestors of fungi.
 
-At the time molecular methods came into use, some mycologists
+At the time [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] came into use, some mycologists
 doubted that the Chytridiomycota were true fungi, but their
 inclusion was confirmed based on rDNA evidence. While subsequent
 studies with increased taxon sampling have shown the group is not
@@ -63,7 +63,7 @@ based on zoospore ultrastructure:
   other orders of Chytridiomycota
 - **Monoblepharidales**: one of the four well-supported monophyletic
   clades
-- **Neocallimastigales**: the anaerobic gut fungi, forming a
+- **Neocallimastigales**: the [[anaerobic-gut-fungi]], forming a
   monophyletic clade
 - **Spizellomycetales**: one of the four monophyletic clades
 - **Chytridiales**: the best-sampled order; clades consistent with
@@ -86,44 +86,5 @@ phylogenies based on mitochondrial DNA.
 
 Some chytrids with unique zoospore morphologies have not been
 classified in previously existing orders. Several, including
-Batrachochytrium dendrobatidis (associated with global amphibian
+[[batrachochytrium-dendrobatidis]] (associated with global amphibian
 decline), do not fall within any of the groups defined on the
-basis of DNA characters. James and colleagues (2000) predicted
-that additional chytrid diversity will be uncovered when more
-chytrids with unique zoospore types are included in phylogenetic
-analyses.
-
-## Ecological Significance
-
-Chytrids are primarily aquatic or soil-inhabiting fungi with
-important ecological roles:
-- Decomposition of refractory materials such as chitin, cellulose,
-  and keratin in aquatic environments
-- Parasitism of algae, other fungi, and invertebrates
-- Symbiotic associations with plant roots and animal guts
-- The [[anaerobic-rumen-fungi-biology-herbivore-digestion]] (Neocallimastigales) are a specialized chytrid lineage
-inhabiting the rumen and hindgut of herbivorous mammals, where
-they play a critical role in fiber digestion.
-
-## Key Phylogenetic Conclusions
-
-Based on currently available data:
-- Orders of Chytridiomycota based on zoospore morphology generally
-  are well supported by molecular characters, though relationships
-  among individual groups remain unresolved
-- A core group of Chytridiomycota forms a clade
-- The Blastocladiales may represent a lineage independent of the
-  other chytrid orders
-- The Chytridiomycota is not monophyletic, although some clade of
-  the group is the basal member of Kingdom Fungi
-
-## Relationship to Crown Fungi
-
-The [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] (Glomales), indicating their importance for
-life on land.
-
-## See Also
-
-- fungal-phylogeny-kingdom-classification
-- [[chytrid-fungi-guide]]
-- [[fungal-evolution]]

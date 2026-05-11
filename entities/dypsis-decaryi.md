@@ -20,11 +20,11 @@ sources:
 
 Dypsis decaryi, commonly known as the triangle palm, is a species of flowering plant in the family Arecaceae. It is endemic to Madagascar, where it grows in the southeastern Andohahela region near Tôlanaro (Fort Dauphin).
 
-The species is named after Raymond Decary, a French botanist and ethnographer who collected extensively in Madagascar during the early twentieth century. Its common name derives from the distinctive three-sided (triangular) cross-section of its trunk, formed by the closely spaced leaf scars.
+The species is named after Raymond Decary, a French botanist and ethnographer who collected extensively in Madagascar during the early [[coleman-louis-savier-twentieth-century-maraicher]]. Its common name derives from the distinctive three-sided (triangular) cross-section of its trunk, formed by the closely spaced leaf scars.
 
 Triangle palm is widely cultivated as an ornamental specimen in tropical and subtropical landscapes worldwide. It is prized for its striking form, blue-green foliage, and adaptability to a range of growing conditions.
 
-The species is one of the most commercially traded Madagascan palms in the international horticultural market. Seeds and seedlings are readily available from specialty nurseries in tropical regions.
+The species is one of the most commercially traded Madagascan palms in the international horticultural market. Seeds and seedlings are readily available from specialty nurseries [[fukuoka-natural-farming-in-tropical-regions]].
 
 International trade in wild-collected seeds has raised concerns about sustainability. Conservation organizations recommend sourcing cultivated stock to reduce pressure on wild populations.
 
@@ -38,7 +38,7 @@ The genus Dypsis is endemic to Madagascar and the Comoro Islands, comprising app
 
 The palm grows to approximately 15 meters in height, with a solitary trunk reaching 30–40 centimeters in diameter. The trunk develops its characteristic three-sided shape as the leaf bases persist and wrap around the crownshaft, creating prominent ridges.
 
-Growth rate is moderate, with established plants producing approximately 30–60 centimeters of trunk per year under optimal conditions. Container-grown specimens grow more slowly but remain healthy for many years.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, with established plants producing approximately 30–60 centimeters of trunk per year under optimal conditions. Container-grown specimens grow more slowly but remain healthy for many years.
 
 Leaves are pinnate, arching, and 2.5–4 meters long, with 80–120 leaflets per side. Leaflets are dark green to bluish-green above and silvery-green beneath, each measuring 40–60 centimeters long and 2–3 centimeters wide.
 
@@ -46,7 +46,7 @@ The crownshaft is smooth, green to gray-green, and approximately 60–90 centime
 
 Inflorescences are branched, emerging from below the crownshaft, and produce yellow-green flowers. Flowers are unisexual, with male and female flowers occurring on the same inflorescence (monoecious).
 
-Fruits are ovoid to ellipsoid, approximately 2–2.5 centimeters long, ripening from green to yellow-brown or purple-black. Each fruit contains a single seed surrounded by a thin fibrous mesocarp.
+Fruits are ovoid to ellipsoid, approximately 2–2.5 centimeters long, ripening from green to yellow-brown or purple-black. Each fruit contains a [[cervantes-selfing-single-seed-descent]] surrounded by a thin fibrous mesocarp.
 
 ## Distribution and Habitat
 
@@ -54,7 +54,7 @@ Dypsis decaryi is endemic to southeastern Madagascar, where it occurs in a narro
 
 The species has a highly restricted natural distribution, occurring across an estimated area of less than 5,000 square kilometers. This limited range makes it particularly vulnerable to habitat degradation.
 
-In its native range, the species is found in semi-arid to subhumid gallery forests along riverbanks and seasonal watercourses. It also occurs on rocky hillsides and lateritic soils in areas with a pronounced dry season.
+In its native range, the species is found in semi-arid to subhumid [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] along riverbanks and seasonal watercourses. It also occurs on rocky hillsides and lateritic soils in areas with a pronounced dry season.
 
 The climate in its native range is tropical with marked seasonality. Annual rainfall ranges from 1,000 to 1,500 millimeters, with a warm, dry season from May to October and a wet season from November to April.
 
@@ -74,11 +74,11 @@ Fresh seeds have the highest germination rates, though properly stored seeds can
 
 Regular watering during establishment is recommended, after which the palm requires minimal irrigation. Fertilization with a balanced palm fertilizer two to three times per year supports vigorous growth.
 
-Pests are relatively uncommon in cultivation, though scale insects and spider mites may occasionally affect crownshaft and leaf undersides. Root rot can develop in poorly drained soils and should be managed through proper site selection.
+Pests are relatively uncommon in cultivation, though scale insects and [[cervantes-spider-mites-identification-control]] may occasionally affect crownshaft and leaf undersides. [[cannabis-root-rot-prevention-and-treatment]] can develop in poorly drained soils and should be managed through proper [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]].
 
 ## Ecology and Uses
 
-In its native habitat, Dypsis decaryi provides food and habitat for wildlife, including lemurs and birds that consume the fruit. The species is an important component of gallery forest ecosystems in southeastern Madagascar.
+In its native habitat, Dypsis decaryi provides food and habitat for wildlife, including lemurs and birds that consume the fruit. The species is an important component of gallery [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] in southeastern Madagascar.
 
 The palm's inflorescences are visited by a variety of insect pollinators, including bees and beetles. Fruit dispersal is primarily through animal vectors, with birds and mammals carrying seeds away from parent plants.
 
@@ -87,34 +87,3 @@ The palm is listed as Endangered on the IUCN Red List due to habitat loss from a
 Conservation efforts include protection within the Andohahela National Park, which encompasses part of the species' native range. Ex situ conservation through botanical garden collections provides additional genetic safeguards.
 
 Cultivated triangle palms serve primarily ornamental purposes in landscaping. The species is widely planted in Mediterranean-climate regions, including southern California, southern Florida, parts of Australia, and South Africa.
-
-The palm's salt tolerance makes it suitable for coastal planting, and its architectural form is valued in resort and hotel landscapes. It is also grown as a container specimen in conservatories and large indoor spaces in cooler climates.
-
-In traditional Malagasy culture, the palm has limited recorded uses. The trunk has occasionally been used as a building material, and the growing tips are reportedly edible, though this practice is not widespread.
-
-Local communities near its native range occasionally harvest leaves for thatching and weaving. The species is not commercially harvested for palm heart or other food products, unlike some other Madagascan Dypsis species.
-
-## Notable Cultivars and Hybrids
-
-No named cultivars of Dypsis decaryi are widely recognized in commercial horticulture. Wild-collected specimens show some natural variation in leaf coloration and trunk form.
-
-Hybridization with other Dypsis species is possible but rarely documented in cultivation. The genus Dypsis contains over 140 species, many of which share overlapping flowering times in Madagascar.
-
-The species' distinct morphology makes it readily identifiable in mixed plantings. It is most commonly confused with Dypsis leptocheilos, the redneck palm, which has a distinctive reddish-brown tomentose crownshaft.
-
-Mature specimens develop a pronounced lean in the trunk, which is a natural growth characteristic rather than a sign of instability. This tendency is more pronounced in exposed, windy locations.
-
-Some specimens display a more pronounced blue-green leaf coloration, while others tend toward darker green. These variations appear to be environmentally influenced rather than genetically fixed.
-
-## See Also
-
-- [[dypsis-lutescens]]
-- [[bismarckia-nobilis]]
-- [[chamaedorea-elegans]]
-- [[howea-forsteriana]]
-- [[roystonea-regia]]
-- [[washingtonia-robusta]]
-- [[cocos-nucifera]]
-- [[syagrus-romanzoffiana]]
-- [[washingtonia-filifera]]
-- [[butia-capitata]]

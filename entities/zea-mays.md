@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Shurtleff, M.C. (1980). "Compendium of Corn Diseases." 2nd ed. American Phytopathological Society.
-  - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of Nutritional Science, 3, e42.
+  - Ranum, P. et al. (2014). "Nutritional impact of diversified maize-based foods." Journal of [[fukuoka-critique-western-dietetics-nutritional-science]], 3, e42.
   - Nuss, E.T. & Tanumihardjo, S.A. (2010). "Maize: a paramount staple crop in the context of global nutrition." Comprehensive Reviews in Food Science and Food Safety, 9(4), 417–436.
   - Matsuoka, Y. et al. (2002). "A single domestication for maize shown by multilocus microsatellite genotyping." PNAS, 99(9), 6080–6084.
 ---
@@ -22,9 +22,9 @@ sources:
 
 It is the most widely produced grain crop globally, with annual production exceeding 1.2 billion tonnes.
 
-The species is remarkable for its extreme morphological diversity, with varieties adapted to nearly every [[holzer-climate-zone-microclimate-creation]] from the tropics to temperate regions.
+The species is remarkable for its extreme morphological diversity, with varieties adapted to nearly every [[holzer-climate-zone-microclimate-creation]] from the tropics to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
-Maize serves as human food, animal feed, industrial raw material, and increasingly as a biofuel feedstock.
+Maize serves as human food, [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], industrial raw material, and increasingly as a biofuel feedstock.
 
 ## Taxonomy and Morphology
 
@@ -61,13 +61,13 @@ Maize was domesticated from teosinte in the Balsas River valley of southwestern 
 
 It spread throughout the Americas before European contact and subsequently to all inhabited continents.
 
-The United States, China, Brazil, Argentina, and Ukraine are the world's largest producers.
+The [[dmt-containing-plants-united-states-halpern]], China, Brazil, Argentina, and Ukraine are the world's largest producers.
 
 Maize is cultivated from 50°N to 50°S latitude, from sea level to over 3,000 meters elevation.
 
 Optimal growth requires 500–1,200 mm of annual rainfall and temperatures of 25–33°C during the [[savory-growing-season-and-non-growing-season-management]].
 
-Modern [[cervantes-hybrid-varieties-types]] typically mature in 90–120 days from planting to harvest.
+Modern [[cervantes-hybrid-varieties-types]] typically mature in 90–120 days from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]].
 
 Average grain yields range from 1–2 tonnes per hectare in subsistence systems to 10–12 tonnes under intensive management.
 
@@ -81,43 +81,10 @@ The protein is predominantly zein, a prolamin deficient in the essential amino a
 
 Quality Protein Maize (QPM) varieties were developed to address this deficiency, containing opaque-2 gene modifiers that double the lysine content.
 
-Maize is a significant source of dietary energy in many developing countries, providing over 20% of caloric intake in sub-Saharan Africa and Latin America.
+Maize is a significant source of dietary energy in many [[low-cost-mushroom-growing-house-construction-developing-countries]], providing over 20% of caloric intake in sub-Saharan Africa and Latin America.
 
 Yellow maize contains carotenoids, including lutein and zeaxanthin, which are important for eye health.
 
 White maize, preferred in many African and Latin American countries, lacks significant carotenoid content.
 
 Whole-grain maize provides dietary fiber, B vitamins (thiamine, niacin, folate), iron, and magnesium.
-
-## Ecological Role
-
-Maize is a C4 plant with high photosynthetic efficiency, particularly under warm, high-light conditions.
-
-Its rapid growth and tall stature make it an effective windbreak and shade crop when intercropped.
-
-Maize-legume intercropping systems, such as maize with beans or cowpea, are widespread in tropical smallholder agriculture.
-
-The large volume of [[jadam-crop-residue-fertilizer]] returned to soil contributes [[hamilton-composting-and-organic-matter-management]] and improves soil structure.
-
-However, intensive monoculture maize production has been associated with soil degradation, nitrogen leaching, and pesticide runoff.
-
-Conservation agriculture practices, including no-till and [[fukuoka-clover-cover-cropping-soil-ecology]], are increasingly adopted to mitigate these impacts.
-
-## Industrial Uses
-
-Maize is the primary feedstock for industrial starch production, yielding corn starch, corn syrup, high-fructose corn syrup, and corn oil.
-
-It is the largest source of bioethanol globally, particularly in the United States, where approximately 40% of the crop is used for fuel ethanol production.
-
-Corn gluten meal and corn gluten feed are important byproducts of wet milling used in animal nutrition.
-
-Biodegradable plastics, such as polylactic acid (PLA), are produced from fermented maize starch.
-
-The crop is also used in the manufacture of adhesives, textiles, pharmaceuticals, and industrial enzymes.
-
-## See Also
-
-- [[saccharum-officinarum]]
-- [[vigna-unguiculata]]
-- [[eleusine-coracana]]
-- [[ipomoea-batatas]]

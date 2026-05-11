@@ -31,7 +31,7 @@ farmer who has clean produce and a good reputation.
 
 ## Kimchi
 
-One of the most popular fermented foods in the world is kimchi, a
+One of the most popular [[lacto-fermentation-recipes]] in the world is kimchi, a
 fermented cabbage dish. Kimchi recipes vary, but they all share common
 ingredients. To make kimchi: chop up cabbage and optionally add turnips,
 beets, greens, Brussels sprouts, apple, herbs, and spices. Pack everything
@@ -42,7 +42,7 @@ stand in the kitchen for a few days.
 
 The cabbage will ferment, and the water level should rise. Smash the
 cabbage down as hard as you can a couple of times a day. If you see mold,
-scrape it off. After four or five days, move the jars to cold storage or a
+scrape it off. After four or five days, move the jars to [[root-cellaring-guide]] or a
 cupboard and let them sit for four weeks. Then the kimchi is ready to eat.
 
 ## Sauerkraut
@@ -62,7 +62,7 @@ Yogurt is technically fermented milk. Bacteria turn lactose into lactic
 acid. While store-bought yogurt contains flavoring and sugar, homemade
 yogurt is simply milk and starter. You can use any milk, and the starter can
 be plain yogurt with active cultures. The milk is heated, cooled to a warm
-temperature, mixed with the starter culture, and then kept warm for several
+temperature, mixed with the [[comparison-wild-fermentation-vs-commercial-starter-culture]], and then kept warm for several
 hours while the bacteria multiply and ferment the milk into yogurt.
 
 ## Sourdough
@@ -73,13 +73,13 @@ with 1 to 2 tablespoons of unchlorinated water. Knead this into a small
 piece of dough. Put it in a glass or ceramic (not metal) jar or bowl
 covered with a damp cloth for two days. A hard crust will form, which will
 be slightly wrinkled. This starter is then fed regularly with more flour
-and water to maintain a living culture for ongoing bread baking.
+and water to maintain a living culture for ongoing [[wild-yeast-bread-baking]].
 
 ## Safety Considerations
 
 Many people worry about botulism when preserving food. Botulism is an
 invisible, odorless, and tasteless bacteria that can paralyze or kill. The
-lactic acid produced during fermentation creates an acidic environment (pH
+[[cho-lactic-acid-bacteria-preparation]] produced during fermentation creates an acidic environment (pH
 below 4.6) where botulism spores cannot grow. This makes properly
 fermented foods inherently safe. Key safety practices include using clean
 equipment, keeping food submerged in brine, maintaining proper
@@ -88,35 +88,3 @@ odors. Mold on the surface can be scraped off; the ferment below is
 usually still safe.
 
 ## Nutritional Benefits
-
-Lacto-fermented foods are rich in probiotics that support gut health and
-immunity. The fermentation process pre-digests some nutrients, making them
-more bioavailable. [[comparison-fermented-vegetables-vs-canning]] retain more vitamin C than canned
-vegetables. The beneficial bacteria also produce various B vitamins and
-vitamin K2 during fermentation. Regular consumption of fermented foods has
-been associated with improved digestion, stronger immune function, and
-better nutrient absorption.
-
-## Integration with Self-Sufficient Living
-
-Fermentation connects to broader food preservation systems including
-and. It uses garden
-produce at peak freshness, reducing waste. Fermented foods store for months
-without refrigeration, making them ideal for off-grid living. The salt
-The salt used in fermentation can be sourced from systems. Combined with,
-any food scraps from the fermentation process return to the soil cycle.
-
-## Storage and Shelf Life
-
-Properly fermented foods can last for many months when stored in a cool,
-dark place. The fermentation process continues slowly in cold storage,
-developing deeper flavors over time. Sauerkraut and kimchi can last six
-months or more in a refrigerator or cold cellar. Once opened, fermented
-foods should be kept refrigerated and consumed within a few weeks. The
-brine can be saved and used as a starter for the next batch, carrying the
-beneficial bacteria forward.
-
-## See Also
-
-- [[lacto-fermentation-and-food-preservation-methods]]
-- [[lacto-fermentation-recipes]]

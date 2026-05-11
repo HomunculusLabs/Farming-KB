@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-climate-zone-2-orchard-food-forest|Mollison]] Zone Planning and Site Layout in Permaculture Two
+title: Mollison Permaculture Two Zone Planning And Site Layout
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -85,12 +85,7 @@ The simple way to check on any design is to ask: Why did you put that structure 
 ---
 
 ## See Also
+- [[permaculture-zone-and-sector-planning]]
+- [[permaculture-zone-planning-guide]]
 
 - [[mollison-pdc-zone-two-livestock-integration]]
-
-- [[mollison-earthworks-planning-and-post-earthworks-planting]]
-
-- [[permaculture-design]]
-- mollison-orchard-poultry-integration-and-woodlot-design
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]
-- mollison-earth-resources-from-excavation

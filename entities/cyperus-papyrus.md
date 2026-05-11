@@ -14,7 +14,7 @@ sources:
   - Leach, B. & Tait, J. (2000). "Papyrus." In Encyclopedia of Ancient Egypt. Routledge.
   - Simpson, R.S. (2004). "Papyrus." Oxford Encyclopedia of Ancient Egypt.
   - Täckholm, V. & Drar, M. (1950). "Flora of Egypt." Bulletin of the Faculty of Science, Cairo University.
-  - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. East African Natural History Society.
+  - Haines, R.W. & Lye, K.A. (1983). The Sedges and Rushes of East Africa. [[comparison-cavendish-vs-east-african-highland-bananas]] Natural History Society.
   - Bruyn, U. & Jansen, P.C.M. (1999). "Cyperus papyrus L." Plant Resources of Tropical Africa 2: Medicinal Plants.
 ---
 
@@ -52,7 +52,7 @@ Individual culms are smooth, glossy, and sharply triangular in cross-section wit
 
 Cyperus papyrus is native to central and eastern Africa, extending from the Nile Delta south through the Congo Basin to South Africa.
 
-It also occurs naturally in the Levant, Sicily, and the Pantanal wetlands of South America, where it is considered introduced.
+It also occurs naturally in the Levant, Sicily, and the Pantanal wetlands of [[guzman-psilocybin-mushrooms-south-america]], where it is considered introduced.
 
 The species is strongly associated with shallow freshwater systems including lake margins, river banks, swamps, and seasonal floodplains.
 
@@ -60,11 +60,11 @@ It thrives in water depths from 0.5 to 2 meters, though it can tolerate deeper w
 
 Papyrus swamps once covered vast areas of the Nile Valley and the Sudd region of South Sudan, forming one of the world's largest wetland ecosystems.
 
-The plant is tolerant of a wide range of soil types but prefers nutrient-rich, muddy substrates in tropical to subtropical climates.
+The plant is tolerant of a wide range of soil types but prefers nutrient-rich, muddy substrates in tropical to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 It grows best in full sun and warm temperatures, with optimal growth occurring between 25 and 30 degrees Celsius.
 
-Seasonal flooding cycles are important for seed germination and rhizome establishment in natural populations.
+Seasonal flooding cycles are important for [[cannabis-seed-germination]] and rhizome establishment in natural populations.
 
 ## Historical and Cultural Significance
 
@@ -87,46 +87,3 @@ Roman and Byzantine civilizations continued widespread papyrus use until parchme
 ## Ecology and Cultivation
 
 Cyperus papyrus is a keystone species in African wetland ecosystems, providing habitat, food, and nesting material for numerous organisms.
-
-Bird species including herons, egrets, weaver birds, and kingfishers nest extensively in papyrus stands.
-
-The dense root mats filter water, trap sediments, and cycle nutrients, playing a significant role in wetland water quality maintenance.
-
-Fish and amphibians use papyrus swamps as nursery habitats, benefiting from the shelter and food resources provided.
-
-In cultivation, C. papyrus is propagated from rhizome divisions planted in shallow water or saturated soil.
-
-The plant requires warm conditions, full sun, and consistent moisture, making it suitable for water gardens and constructed wetlands.
-
-Growth is rapid under optimal conditions, with individual culms reaching full height within 6 to 9 months.
-
-Papyrus can become invasive outside its native range, particularly in subtropical wetlands where it displaces native vegetation.
-
-## Modern Applications
-
-Ornamental horticulture is the primary modern use of C. papyrus, valued for its architectural form and tropical appearance in water gardens.
-
-The species is widely planted in botanical gardens, zoo exhibits, and constructed wetlands for wastewater treatment.
-
-Constructed wetland systems using papyrus have demonstrated effective removal of nitrogen, phosphorus, and heavy metals from polluted water.
-
-Research into biofuel production from papyrus biomass has explored its potential as a renewable energy source in East Africa.
-
-The plant continues to be harvested locally in parts of Africa for thatching, mat weaving, and traditional basketry.
-
-Conservation efforts focus on protecting remaining natural papyrus swamps, which are threatened by agricultural drainage and urban development.
-
-The Sudd in South Sudan, one of the largest remaining papyrus wetlands, covers approximately 57,000 square kilometers.
-
-## See Also
-
-- [[cyperus-alternifolius]]
-
-- [[cyperus-esculentus]]
-- [[schoenoplectus-lacustris]]
-- [[typha-latifolia]]
-- [[phragmites-australis]]
-- [[carex-stricta]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]
-- [[eichhornia-crassipes]]

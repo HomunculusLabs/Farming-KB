@@ -88,14 +88,3 @@ including Ceriporiopsis subvermispora, Phlebia brevispora, Panus
 tigrinus, Rigidoporus lignosus, Stereum hirsutum, and Ganoderma
 valesiacum. Most species express peroxidases and laccases as several
 isoenzymes. The glycosylated nature of [[singh-ligninolytic-enzymes-fungal-bioremediation]] increases
-stability. One-electron oxidation produces cation radicals that undergo
-spontaneous C-C cleavage, hydroxylation, or other reactions forming
-more hydrophilic products.
-
-## Compost Bioreactor Applications
-
-Composting is a promising reactor system for hazardous soil treatment
-with PAH-contaminated soils. A compost bioreactor enhanced removal of
-benzo[a]pyrene by [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[cotter-mycoremediation-overview]]
-- [[singh-laccase-mediated-biodegradation-pahs-dyes]]

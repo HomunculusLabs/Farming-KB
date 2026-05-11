@@ -5,6 +5,7 @@ tags: [permaculture, guild-design, companion-planting, polyculture, ecology, pla
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/concepts/permaculture-guilds.md
   - ~/wiki/concepts/permaculture-guild-design.md
   - ~/wiki/concepts/fruit-tree-guild-roles.md

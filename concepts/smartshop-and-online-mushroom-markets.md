@@ -14,11 +14,11 @@ created: 2026-05-07
 
 ## Overview
 
-The commercial market for hallucinogenic mushrooms in Europe was dominated by two countries: the **Netherlands** and the **United Kingdom**. Smartshops, market stalls, and online retailers created the infrastructure that drove the emerging trend in mushroom use from the late 1990s through the mid 2000s. The rapid expansion of internet sales and information dissemination played a critical role in diffusing the trend across national borders.
+The [[porcini-commercial-market]] for [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] Europe was dominated by two countries: the **Netherlands** and the **United Kingdom**. Smartshops, market stalls, and online retailers created the infrastructure that drove the [[emcdda-epod-project-emerging-trend-detection-methodology]] in mushroom use from the late 1990s through the mid 2000s. The rapid expansion of internet sales and information dissemination played a critical role in diffusing the trend across national borders.
 
 ## The Smartshop Model
 
-A smartshop is a retail establishment specialising in psychoactive herbal substances that are legal, alongside vitamins, minerals, and health products. Most also sell new synthetic drugs not yet placed under legal control.
+A smartshop is a retail establishment specialising in psychoactive herbal substances that are legal, alongside vitamins, minerals, and health products. Most also sell new [[mckenna-distillation-and-the-birth-of-synthetic-drugs]] not yet placed under legal control.
 
 ### Dutch Smartshop Landscape
 
@@ -28,7 +28,7 @@ A smartshop is a retail establishment specialising in psychoactive herbal substa
 - Some coffee shops also sell mushrooms
 - "Paddo cabs" provide home delivery services
 - Headshops (drug paraphernalia) and grow shops (marijuana cultivation supplies) sometimes stock mushrooms
-- Magic mushrooms estimated to constitute **50% of smartshop turnover** (2000 Dutch Risk Assessment)
+- [[1960s-counterculture-and-magic-mushrooms]] estimated to constitute **50% of smartshop turnover** (2000 Dutch Risk Assessment)
 - 64% of Dutch users aged 18+ who used mushrooms in the last year purchased them in smartshops (2001 survey)
 
 ### Most Commonly Sold Species
@@ -68,7 +68,7 @@ A systematic search using Google and AltaVista identified **39 unique online sho
 | Magic mushrooms shop | 16 (of 837,000) | 14 (of 674,000) | 19 |
 | Buy magic mushrooms | 16 (of 686,000) | 10 (of 733,000) | 16 |
 | [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] shop | 24 (of 60,500) | 5 (of 52,100) | 24 |
-| Buy psilocybe cubensis | 17 (of 29,900) | 7 (of 32,700) | 18 |
+| Buy [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] | 17 (of 29,900) | 7 (of 32,700) | 18 |
 
 ### Geographic Distribution
 
@@ -88,51 +88,3 @@ Online shops offered a range of products:
 
 - Fresh mushrooms (various species and varieties)
 - Spore prints and spore syringes
-- Spawnbags (mycelium pre-grown through woodchip substrate)
-- Growkits (complete cultivation boxes with colonised substrate)
-
-The **Free Spore Ring Europe** (fsre.org) provided various strains for approximately 1 EUR per print as a non-profit service. Cultivation instructions were freely available online.
-
-### Pricing (January 2006)
-
-| Product | Quantity | Price Range (EUR) |
-|---|---|---|
-| Fresh [[copelandia-cyanescens]] | 10 g | 13.00 to 17.50 |
-| [[psilocybe-azurescens]]) | 1 bag | 24.00 to 25.00 |
-| Growkits | 1 kit | 25.00 to 100.00 |
-| Spore prints/syringes | 1 print | 9.00 to 28.00 |
-
-### International Shipping
-
-Most online shops offered international shipping but many excluded countries where sales were prohibited. Sites frequently advised customers to verify local legal status before ordering. Multi-language sites (English, French, German) targeted international customers.
-
-## Retailer Risk Information Quality
-
-A January 2006 snapshot of 21 online shops revealed:
-
-- **Majority** warned against use with medication, alcohol, or other drugs
-- **Two thirds** recommended against use with depression or psychosis
-- **About half** provided dosage information and safe use practices (empty stomach, hydration, safe environment)
-- **Most** described sought-after positive effects
-- **Few** provided information on enhancing positive effects
-- **Vast majority** excluded information on negative side effects
-- Only a **minority** explicitly mentioned nausea and sickness
-
-The information from online retailers is systematically biased toward positive effects, with considerable variation in the extent and quality of risk information provided.
-
-## Internet Information Ecosystem
-
-Since the late 1990s, extensive internet repositories of mushroom information emerged:
-
-- **Global sites**: Erowid, Lycaeum, Mycotopia, Shroomery, MushroomJohn, The Entheogen Review
-- **Country-specific sites**: Copenhagen Mushroom Link (Denmark), Champis (France), Daath (Hungary), Kouzelne houbicky (Czech Republic), Norshroom (Norway), Svampinfo (Sweden), Taikasieniforum (Finland), and others in Spain, Portugal, and the UK
-
-These sites typically provide effects information, dosage guides, chemistry details, legal status, trip reports, photo galleries, cultivation advice, identification guides, discussion forums, and event listings.
-
-## Brand Names and User Terminology
-
-Mushrooms are known by numerous names reflecting marketing strategies and cultural contexts:
-## See Also
-
-- [[hallucinogenic-mushroom-legislation-in-europe]]: legal framework driving market changes
-- [[psilocybin-psilocin-chemistry]]: active compounds in commercial products

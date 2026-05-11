@@ -1,5 +1,5 @@
 ---
-title: Woodlovers woodlovers mycelium running pathway technique Pathway Technique
+title: Woodlovers Mycelium Running Pathway Technique
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -10,7 +10,7 @@ sources:
 ---
 # Woodlovers Mycelium Running Pathway Technique
 
-Mycelium "running" refers to the aggressive outward expansion of fungal networks through wood chip substrates. For outdoor woodlover cultivation, this natural behavior can be harnessed to expand patches, create pathways of productive mycelium, and establish new beds without laboratory-grade spawn. The technique transforms a single inoculated bed into an expanding network of productive [[psilocybin-mushroom-habitat-and-ecology]].
+Mycelium "running" refers to the aggressive outward expansion of fungal networks through wood chip substrates. For [[outdoor-woodlover-bed-preparation]] cultivation, this natural behavior can be harnessed to expand patches, create pathways of productive mycelium, and establish new beds without laboratory-grade spawn. The technique transforms a single inoculated bed into an expanding network of productive [[psilocybin-mushroom-habitat-and-ecology]].
 
 ## The Cardboard Transfer Method
 
@@ -24,7 +24,7 @@ The most practical technique for mycelium running described in the source materi
 5. Cover the cardboard with fresh wood chips
 6. The mycelium transfers from cardboard to the new wood chip substrate
 
-This works because cardboard is made of cellulose (wood pulp), which is a natural food source for lignicolous fungi. The wet cardboard provides an ideal interface — thin, flat, and easily colonized.
+This works because cardboard is made of cellulose (wood pulp), which is a natural food source for [[lignicolous-fungi]]. The wet cardboard provides an ideal interface — thin, flat, and easily colonized.
 
 ### Advantages
 - **No sterile work required**: Once mycelium is established outdoors, expansion does not need a clean room or flow hood
@@ -39,7 +39,7 @@ Mycelium will also run directly from colonized chips into adjacent fresh chips w
 ### In-Bed Expansion
 - A well-established bed naturally expands its [[gadd-mycelial-network-dynamics]] outward into surrounding soil and [[hamilton-composting-and-organic-matter-management]]
 - Adding fresh wood chips to the edges of an existing bed in spring encourages this expansion
-- Over multiple seasons, a single inoculation point can colonize a large area
+- Over multiple seasons, a single [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]] can colonize a large area
 
 ### Layered Expansion Technique
 1. In spring, spread a layer of fresh soaked wood chips around the perimeter of an existing bed
@@ -52,7 +52,7 @@ Mycelium will also run directly from colonized chips into adjacent fresh chips w
 An unexpected but documented technique: even contaminated spawn can establish productive outdoor patches through mycelium running.
 
 ### Documented Case
-- Contaminated spawn (as little as 0.3 liters) was discarded in a garden near a compost pile
+- Contaminated spawn (as little as 0.3 liters) was discarded in a garden near [[query-how-to-build-a-compost-pile-that-works]]
 - The location was half-shaded
 - Despite the contamination, the P. azurescens mycelium ran through the surrounding organic matter
 - "Marvellous mushrooms" appeared in autumn
@@ -78,7 +78,7 @@ An unexpected but documented technique: even contaminated spawn can establish pr
 
 ### Long-Term Patch Expansion
 - Properly maintained beds can last for **decades**
-- Each year, the mycelial network expands deeper and wider through the substrate
+- Each year, the [[beber-mycelial-network-graph-theory-cord-routing]] expands deeper and wider through the substrate
 - "Zillions of spores will be set free" annually from established patches
 - The patch becomes increasingly resilient over time as the mycelial network matures
 
@@ -88,30 +88,3 @@ The relationship between watering and mycelium running is nuanced:
 
 - **Summer overwatering** causes aggressive vegetative running but suppresses fruiting
 - The mycelium grows extensively through the substrate but channels energy into expansion rather than fruiting body production
-- Keeping beds humid but not wet during summer allows balanced growth that supports autumn fruiting
-- The azurescens guide is explicit: "If you over water during summer, the mycelium may grow aggressively, but you will probably see no mushrooms in late autumn"
-
-## Integration with Pathway and Garden Design
-
-The mycelium running technique can be integrated into garden design:
-
-- Place wood chip beds along garden pathways where foot traffic is light
-- Use the cardboard transfer method to establish mycelium in mulched perennial beds
-- Position beds near compost piles for [[ph-and-nutrient-availability-garden-soils]] and moisture
-- Half-shaded areas under shrubs serve dual purposes as ornamental and productive zones
-
-## Species Suitability
-
-All major woodlovers respond well to running techniques:
-- **P. azurescens**: Slower runner; benefits from higher spawn ratios and patient expansion
-- **P. cyanescens**: Aggressive colonizer; rapidly runs through new substrate
-- **P. subaeruginosa**: Robust and prolific; readily expands from established beds
-- **P. cyanofibrillosa**: Similar to P. cyanescens in running behavior
-
-## See Also
-
-- [[woodlovers-outdoor-alder-chip-method]]
-
-- [[outdoor-woodlover-bed-preparation]] — bed preparation methods
-- [[companion-cultivation-of-mushrooms-with-garden-vegetables]] — garden integration
-- [[fungal-ecosystem-roles]] — ecological role of [[fungal-mycelial-networks-nutrient-translocation]]

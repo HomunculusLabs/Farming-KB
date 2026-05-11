@@ -34,16 +34,16 @@ Companion planting is still an experimental field. The age of the plants involve
 
 ### Spacing for Better Companions
 
-Using GROW BIOINTENSIVE spacing with plant leaves barely touching allows good companions to be better friends.
+Using GROW [[jeavons-biointensive-spacing]] with plant leaves barely touching allows good companions to be better friends.
 
 ### All-Around Beneficial Plants
 
 - **Lemon balm** — Creates a beneficial atmosphere, attracts bees.
 - **Marjoram** — Beneficial effect on surrounding plants.
 - **Oregano** — Beneficial effect on surrounding plants.
-- **[[comparison-stinging-nettle-vs-horsetail]]** — Helps plants resist spoiling, increases essential oil in herbs, stimulates [[lowenfels-humus-formation-benefits]], concentrates sulfur, potassium, calcium, and iron.
+- **[[comparison-stinging-nettle-vs-horsetail]]** — Helps plants resist spoiling, increases [[permaculture-designers-manual-essential-oil-plants]] in herbs, stimulates [[lowenfels-humus-formation-benefits]], concentrates sulfur, potassium, calcium, and iron.
 - **Valerian** — Helps most vegetables, stimulates phosphorus activity.
-- **Chamomile** — Lime specialist, contains a growth hormone, combats damping off. Concentrates calcium, sulfur, and potash.
+- **Chamomile** — Lime specialist, contains a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]], combats [[cervantes-damping-off-seedling-disease-prevention]]. Concentrates calcium, sulfur, and potash.
 - **Dandelion** — Increases aromatic quality of all herbs, concentrates potash.
 - **Oak tree** — Concentrates calcium (77% in bark ash), helps plants resist diseases.
 
@@ -73,7 +73,7 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 
 ### Weed, Insect, and Animal Relationships
 
-- **Weed control** — Kale and rape discourage weed growth in the following season. Tagetes minuta (Mexican marigold) kills couch grass, convolvulus, ground ivy, horsetail.
+- **Weed control** — Kale and rape discourage weed growth in the following season. [[tagetes-minuta]] (Mexican marigold) kills couch grass, convolvulus, ground ivy, horsetail.
 - **[[mushroom-pests-insect-control-stamets]]** — Use older plants with well-developed aroma, and a large variety of herbs. Five different herbs help discourage the cabbageworm butterfly.
 
 ### Insect Control with Specific Plants
@@ -81,25 +81,10 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 | Insect Pest | Plant Control |
 |---|---|
 | Ants | Spearmint, tansy, pennyroyal |
-| Aphids | Nasturtium, spearmint, stinging nettle, southernwood, garlic |
+| Aphids | Nasturtium, spearmint, [[comparison-arnica-vs-stinging-nettle]], southernwood, garlic |
 | Cabbageworm | Sage, rosemary, hyssop, thyme, mint, wormwood |
 | Colorado potato beetle | Eggplant, flax, green beans |
 | Cutworm | Oak leaf mulch, tanbark |
 | Japanese beetle | White geranium, datura |
 | Mexican bean beetle | Potatoes |
 | Moths | Sage, santolina, lavender, mint, stinging nettle |
-| Whiteflies | Marigolds (not calendula), flowering tobacco |
-
-## Planning Guidelines
-
-- Plan your garden 12 months at a time, at least 3 months in advance.
-- Companion plant over time (rotation) is easier than companion planting in space.
-- Start with [[hamilton-salad-vegetables-organic]] — generally good companions.
-- Be easy on yourself. Learn this year, apply next year.
-- Due to lack of space, you may need to grow some non-companion plants together — accept lower yields or adjust your diet.
-- Herb plants should be reasonably mature when transplanted for optimum effect as companions.
-
-## See Also
-- [[fukuoka-white-clover-ground-cover]]
-- [[jeavons-natural-pest-control]]
-- [[jeavons-companion-planting-health-nutrition]]

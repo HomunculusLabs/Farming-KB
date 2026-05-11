@@ -1,5 +1,5 @@
 ---
-title: Psilocybin [[eu-magic-mushroom-prevalence-and-market-trends]] Use Patterns in Europe
+title: Psilocybin Mushroom European Prevalence And Trends
 source: "EMCDDA Thematic Paper - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: An Emerging Trend Case Study (2006)"
 tags: [epidemiology, europe, prevalence, psilocybin, drug-policy, emcdda]
 created: 2026-05-09
@@ -87,46 +87,3 @@ varies considerably between species, varieties, and individual specimens,
 making precise dosing difficult.
 
 ### Route of Administration
-
-Mushrooms are typically either chopped and eaten directly or brewed as a tea.
-Fresh mushrooms are sometimes consumed whole. The taste is generally described
-as unpleasant, motivating users to combine them with food or drink to mask
-the flavor.
-
-### Onset and Duration
-
-Effects typically begin 20-60 minutes after ingestion, peak at 2-3 hours, and
-subside over 4-6 hours. The duration is shorter than LSD (8-12 hours) but
-longer than most synthetic phenethylamines.
-
-### Acute Effects
-
-Effects include visual and auditory distortions, altered perception of time
-and space, synesthesia, emotional lability, and changes in thought patterns.
-Negative acute effects include nausea, anxiety, panic attacks, paranoia, and
-confusion. The experience is strongly influenced by set (user's mindset) and
-setting (environment), as originally described by Leary and Metzner.
-
-## Self-Limiting Nature of Use
-
-User accounts suggest that hallucinogenic mushrooms are not viewed favorably
-enough to promote consistent repeat use. Several factors contribute to this
-self-limiting pattern:
-
-- **Unpredictable potency**: Inability to precisely dose contributes to
-  unexpectedly intense or weak experiences.
-- **Negative effects**: Nausea, panic attacks, and lack of sociable effects
-  discourage regular use.
-- **Intensity**: The profound nature of the psychedelic experience is not
-  sought frequently by most recreational users.
-- **Duration**: The 4-6 hour commitment is substantial compared to shorter-
-  acting substances.
-
-These self-limiting characteristics differentiate mushrooms from drugs with
-high addiction potential and partially explain why prevalence remains relatively
-low despite widespread availability.
-
-## See Also
-
-- [[psilocybin-mushroom-markets-and-availability-europe]]
-- [[neurotropic-fungi-classification-and-taxonomy]]

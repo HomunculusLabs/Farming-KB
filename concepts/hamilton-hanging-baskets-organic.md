@@ -88,15 +88,3 @@ base, and thread strings through holes to build up the sides.
 
 Feeding: Spring and summer hanging baskets need feeding once a week
 with liquid kelp or animal-manure fertilizer. Winter baskets are
-hardly growing and need no feeding at all.
-
-Watering: Spring and summer baskets should be watered at least daily.
-In a particularly warm, sunny position they may need watering twice
-a day. In winter, water only when the top of the compost feels dry.
-
-Renewal: Once you have bought your first basketful [[hamilton-container-raised-bed-gardening]]
-- [[hamilton-perennial-flowers-organic]]
-
-## See Also
-
-- [[hamilton-annual-flowers-organic]]

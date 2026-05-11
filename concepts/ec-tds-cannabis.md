@@ -61,13 +61,13 @@ solution. Consequently, the ppm reading is not precise; it is only an approximat
 
 ## Typical Nutrient Concentrations
 
-While exact values depend on strain, growing medium, and growth stage, general
-guidelines for hydroponic cannabis include:
+While exact values depend on strain, [[cervantes-green-algae-growing-medium]], and [[cannabis-growth-stage-checklist]], general
+guidelines for [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] include:
 
 - **Seedlings/clones:** EC 0.5-0.8 mS/cm (250-400 ppm)
 - **Early vegetative:** EC 0.8-1.2 mS/cm (400-600 ppm)
 - **Mid vegetative:** EC 1.2-1.8 mS/cm (600-900 ppm)
-- **Early flowering:** EC 1.5-2.0 mS/cm (750-1000 ppm)
+- **[[equatorial-photoperiod-early-flowering]]:** EC 1.5-2.0 mS/cm (750-1000 ppm)
 - **Peak flowering:** EC 1.8-2.4 mS/cm (900-1200 ppm)
 - **Late flowering (flush):** EC gradually reduced to near 0
 
@@ -87,47 +87,3 @@ internal chemistry.
 
 Quick-dip portable meters allow rapid measurement directly in the nutrient tank. More
 sophisticated systems offer continuous 24-hour monitoring.
-
-## EC and Water Quality
-
-Raw water contains dissolved solids that contribute to the total EC reading. If tap
-water measures 200 ppm (0.4 mS/cm) and you add nutrients to reach a target of 1000
-ppm, the actual nutrient concentration is only 800 ppm. For precise control, start
-with reverse-osmosis water (near 0 ppm) and add nutrients to reach the desired EC.
-Check the pH of irrigation water alongside EC.
-
-## Monitoring Salt Buildup
-
-Measure the EC of nutrient solution going in and runoff coming out. If runoff EC is
-significantly higher than the input solution, salts are accumulating in the growing
-medium. This indicates it is time to flushing-nutrients|flush with plain water to
-prevent toxicity.
-
-## EC and Nutrient Problems
-
-- **EC too high:** Nutrient burn, leaf tip burn, stunted growth, locked-out nutrients
-- **EC too low:** [[cannabis-grow-nutrient-deficiency-problem-solving]] symptoms, slow growth, pale foliage
-- **EC rising in reservoir:** Plants are taking up more water than nutrients (possibly
-  due to high humidity or high temperatures)
-- **EC dropping in reservoir:** Plants are taking up nutrients faster than water
-
-## Conversion
-
-To convert ppm to EC, divide by 500 (or 700 depending on the scale used). The ppm
-scale is simple and finite: one part per million is one part of 1,000,000. To convert
-percentages into ppm, multiply by 10,000.
-
-## Equipment
-
-Combination meters that measure EC (or ppm), pH, and temperature are available and are
-the most practical option. Quick-dip portable meters allow rapid measurement directly
-in the nutrient tank. More sophisticated systems offer continuous 24-hour monitoring.
-Simple electronic meters measure electrical conductivity and interpret it as total
-dissolved solids (TDS).
-
-## See Also
-
-- [[flushing-nutrients]] -- reducing EC when salt buildup occurs
-- [[cannabis-nutrient-lockout-and-ph]] -- [[cannabis-nutrient-lockout-and-ph]] detection
-- [[growing-vegetables-with-less-fertilizer]]
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]

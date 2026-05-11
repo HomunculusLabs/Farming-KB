@@ -51,11 +51,11 @@ timing is considered.
 ## Tree and Crop Species Selection
 
 Tree species selection depends on climate, soil conditions, and management
-objectives. In temperate regions, common choices include nitrogen-fixing
+objectives. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], common choices include nitrogen-fixing
 species like black walnut (*Juglans nigra*), honey locust (*Gleditsia
 triacanthos*), and various *Robinia* species. In the tropics, leguminous
-trees such as *Gliricidia sepium*, *Leucaena leucocephala*, and
-*Calliandra calothyrsus* are widely used.
+trees such as *Gliricidia sepium*, *[[leucaena-leucocephala]]*, and
+*[[calliandra-calothyrsus]]* are widely used.
 
 Inter-row crops include cereals (maize, wheat), legumes (soybeans, beans),
 forages (alfalfa, clover), and specialty crops (vegetables, medicinal
@@ -69,7 +69,7 @@ reducing crop management inputs.
 
 ## Environmental Benefits
 
-Alley cropping delivers multiple ecosystem services beyond crop production.
+Alley cropping delivers multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond crop production.
 Soil [[permplant-willows-salix-erosion-control-fodder]] is significantly improved compared to open-field
 agriculture — tree rows act as barriers reducing wind and water erosion.
 
@@ -78,8 +78,8 @@ and root turnover. In systems with nitrogen-fixing trees, biological
 [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] can add 40–160 kg N/ha/year to the soil, reducing
 fertilizer requirements for inter-row crops.
 
-Biodiversity is enhanced through habitat creation. The tree rows serve
-as wildlife corridors, nesting sites for birds, and refugia for beneficial
+Biodiversity is enhanced through [[amphibian-habitat-creation]]. The tree rows serve
+as [[permaculture-designers-manual-wildlife-corridors]], nesting sites for birds, and refugia for beneficial
 insects including pollinators and natural pest predators. Microclimate
 moderation in the alleys reduces heat stress on crops during extreme
 temperature events.
@@ -88,44 +88,3 @@ Carbon sequestration potential is substantial. Above-ground tree biomass
 and below-ground root systems store significantly more carbon than
 conventional agriculture. Estimated carbon storage ranges from 2–10
 Mg C/ha/year depending on species, climate, and management intensity.
-
-## Economic Considerations
-
-Establishment costs are higher than conventional agriculture due to tree
-planting and initial management. However, diversified income streams from
-timber, fruit, nut, or fodder production provide long-term economic
-resilience. Returns typically improve after 5–10 years as trees mature.
-
-Yield reduction in inter-row crops (typically 10–30% compared to full-sun
-monoculture) is offset by additional tree products and reduced input costs.
-Net returns often exceed conventional systems within 8–12 years, though
-this varies by region and species combination.
-
-Risk diversification is a primary economic advantage. Multiple crop
-failures across different plant types are statistically unlikely,
-providing income stability. Market diversification reduces dependence
-on single commodity prices.
-
-## Implementation
-
-Successful implementation requires careful site assessment including
-soil type, drainage, climate data, and existing vegetation. Initial tree
-establishment benefits from weed control, irrigation during establishment,
-and protection from browsing animals.
-
-Ongoing management includes periodic tree pruning (coppicing or pollarding
-at 1–3 year intervals), [[green-cannabis-grow-bible-nutrient-management-ppm]], and pest monitoring. Root
-pruning with subsoiling equipment may be needed to reduce tree-crop root
-competition in some systems.
-
-The practice is adaptable to both smallholder and mechanized farm scales.
-Smallholder systems in the tropics often use hand tools and manual
-pruning, while temperate commercial operations use modified agricultural
-machinery designed to navigate between tree rows.
-
-## See Also
-
-- [[silvopasture]]
-- [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
-- [[biochar]]
-- [[companion-planting]]

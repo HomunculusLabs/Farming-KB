@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Principles 3 and 4: No Weeding and No Pesticides
@@ -86,11 +87,3 @@ From Fukuoka's experience, weeding in orchards is not only useless, it is positi
 ## The Transition Method
 
 In practice, Fukuoka's method for eliminating weeding labor involves:
-
-1. Sowing ladino [[fukuoka-white-clover-ground-cover]] as a ground cover together with barley
-2. Scattering rice straw over the planted field to suppress weed germination
-3. Using the clover cover to suppress subsequent weed growth
-4. Flooding the paddy briefly to weaken clover when it threatens rice seedlings
-5. Eventually allowing natural weed succession as clover declines
-
-## Weed Philosophy for Rice and Barley

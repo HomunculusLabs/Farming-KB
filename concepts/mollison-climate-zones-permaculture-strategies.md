@@ -1,16 +1,16 @@
 ---
-title: mollison climate zones permaculture strategies and Permaculture Strategies
+title: Mollison Climate Zones Permaculture Strategies
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)
+sources: bill-mollison, bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Course (1981 transcript, Yankee Permaculture, public domain)
 type: concept
 tags: [climate, culture, permaculture, site-design]
 ---
 
 # Climate Zones and Permaculture Strategies
 
-The Permaculture Design Course addresses climate not as a static
-backdrop but as a dynamic system requiring specific design strategies
+The [[mollison-permaculture-design-course-curriculum]] addresses climate not as a static
+backdrop but as a dynamic system requiring specific [[mollison-designers-snow-ice-and-winter-design-strategies]]
 for each major climate zone. Mollison's approach is to develop
 general principles that apply across climates while identifying
 zone-specific techniques.
@@ -62,7 +62,7 @@ both in soils and in the biomass of trees themselves.
 
 ## Arid Landscapes (Pamphlet III)
 
-Arid strategies centre on water conservation and heat management:
+Arid strategies centre on water conservation [[pf-tek-steam-sterilization-science-and-heat-management]]:
 
 - **Rock mulch patterns** arranged across wind to create condensation
   and shade microclimates
@@ -72,7 +72,7 @@ Arid strategies centre on water conservation and heat management:
   geology permits
 - **Deep-rooted perennials** that access water unavailable to
   annuals
-- **Minimal tillage** to preserve soil moisture
+- **[[coleman-bed-preparation-and-minimal-tillage]]** to preserve soil moisture
 
 The course emphasises that [[fukuoka-desert-reclamation-projects]] follows the principle
 of starting from water and working outward: establish water
@@ -88,61 +88,3 @@ catchment, protecting the freshwater lens from contamination, and
 using salt-tolerant species at the perimeter.
 
 **High islands** (volcanic) offer distinct microclimate zones from
-coast to summit, with different strategies for each altitude band.
-Hawaiian land subdivision patterns are cited as traditional models
-of appropriate resource allocation.
-
-## Granitic Landscapes (Pamphlet VI)
-
-Granitic landscapes feature exposed rock with thin soils in pockets
-and crevices. Design strategies work with rather than against the
-rock: using rock as thermal mass, planting in soil pockets, and
-channeling water runoff from rock surfaces to planted areas below.
-
-## Fire Control (Pamphlet VII)
-
-Fire is treated as a climate-related design factor. Strategies
-include:
-
-- **Fire-resistant plant selection** with high moisture content and
-  low oil content
-- **Green firebreaks** using moist vegetation corridors
-- **Water body placement** to serve dual fire protection and
-  production functions
-- **[[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] planning** to place structures and valuable
-  plantings away from fire-prone sectors
-- **Animal grazing management** to reduce fuel loads
-
-## Design for Climate Variability
-
-Across all climate zones, Mollison emphasises designing for
-variability rather than averages. "It is simply no good recommending
-plants to people, or designing orchards, unless you have cared for
-the water supply. Give them the ability to water at least twice in
-the summer. You must make absolutely certain that you have designed
-water storage so they can get water -- either off site, somehow, or
-on the site -- in the plant's establishment phases."
-
-Seaweed and seaweed concentrates assist water storage in dry soils,
-working as gel on the surface film to greatly assist water storage
-and plant resistance to wilt. This cross-climate technique
-demonstrates Mollison's principle that general strategies supplement
-zone-specific approaches.
-
-## The World Mean Water Balance
-
-Mollison provides a simplified model: world mean average rainfall is
-33.8 inches. Of atmospheric water, 77% falls on oceans, 23% on land.
-Of the 23% falling on land, 16 parts transpire or evaporate, leaving
-7 parts to run off to the ocean. The land additionally receives 7
-parts from horizontal advection -- where forests intervene. The
-practical application is to provide surface storage and soil storage
-of water, reducing runoff and establishing forests.
-## See Also
-
-- permaculture-cold-climate-strategies
-- [[permaculture-climate-zones]]
-- [[mollison-climate-site-analysis-permaculture]]
-- [[permaculture-design]]
-- [[water-conservation]]
-- [[bill-mollison]]

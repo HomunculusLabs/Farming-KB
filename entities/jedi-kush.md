@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - "Leafly Strain Database." https://www.leafly.com/strains/jedi-kush
   - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
-  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular Cannabis Strains." Journal of Cannabis Therapeutics 10(1-4).
+  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." Journal of Cannabis Therapeutics 10(1-4).
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
 created: 2026-04-28
 ---
@@ -20,8 +20,8 @@ created: 2026-04-28
 
 ## Overview
 
-**Jedi Kush** is an indica-dominant hybrid cannabis strain created by crossing
-**SFV OG Kush** with **Death Star**. Bred by the California-based seed company
+**Jedi Kush** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
+**SFV OG Kush** with **Death Star**. Bred by the California-based [[seed-company-supplier-reference]]
 **T.H. Seeds**, it has developed a dedicated following among medical patients
 and recreational consumers seeking deep physical relaxation and stress relief.
 
@@ -32,12 +32,12 @@ and contemplative effects.
 
 ## Lineage
 
-Jedi Kush is a cross of two well-established West Coast varieties:
+Jedi Kush is a cross of two well-established [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] varieties:
 
 - **SFV OG Kush** (pollen parent): An indica-dominant phenotype of OG Kush
   originating from California's San Fernando Valley. Provides the foundational
-  Kush terpene profile — earthy, piney, and fuel-like.
-- **Death Star** (mother): A cross of Sensi Star and Sour Diesel. Contributes
+  Kush [[cannabis-terpene-profile]] — earthy, piney, and fuel-like.
+- **Death Star** (mother): A cross of [[sensi-star]] and Sour Diesel. Contributes
   additional potency and a subtle diesel pungency to the aroma.
 
 The genetic ratio is approximately 70% indica / 30% sativa, reflecting the
@@ -88,41 +88,3 @@ terpene expression.
 
 - **THC:** 18–24%, with some phenotypes reported up to 26%
 - **CBD:** < 0.1% (negligible)
-- **THC dominant profile** with minimal minor cannabinoids
-
-## Effects
-
-The onset is relatively rapid, beginning with a cerebral pressure behind the
-eyes and temples. Within 15–30 minutes, a deep body high develops, spreading
-from the core outward as a warm, heavy physical relaxation.
-
-Medical patients commonly use Jedi Kush for [[cannabis-chronic-pain-management]], insomnia, muscle
-spasms, and anxiety. The sedative body effects make it particularly suited for
-evening and nighttime use.
-
-At higher doses, the strain can produce significant couch-lock and lethargy.
-Beginner consumers may find the potency overwhelming, and dry mouth and dry
-eyes are the most commonly reported side effects.
-
-## Cultivation
-
-Jedi Kush can be cultivated indoors or outdoors, though indoor environments
-allow better control over the dense bud structure and [[cannabis-glandular-trichome-types-resin-production-clarke]].
-
-- **Flowering time:** 8–9 weeks indoors
-- **Yield:** Moderate, approximately 350–450 g/m² indoors
-- **Difficulty:** Moderate; requires attention to humidity due to dense buds
-- **Climate preference:** Warm, dry Mediterranean climate for outdoor grows
-- **Plant height:** Medium, reaching 100–140 cm indoors
-
-The strain responds well to low-stress training (LST) and [[comparison-sea-of-green-vs-screen-of-green]] (SOG)
-methods. Nutrient requirements are moderate, with increased phosphorus and
-potassium during mid-to-late flowering.
-
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[master-kush]]
-- [[afghan-kush]]
-- [[purple-kush]]
-- [[skunk-1]]

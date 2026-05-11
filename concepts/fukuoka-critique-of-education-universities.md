@@ -1,10 +1,11 @@
 ---
-title: Fukuoka: fukuoka critique of education universities and Universities
+title: Fukuoka Critique Of Education Universities
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [fukuoka, natural-farming, philosophy]
+tags: [fukuoka, [[natural-farming]], philosophy]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,22 +88,3 @@ Fukuoka was emphatic: there is no such thing as a non-polluting pesticide.
 - The low toxicity provides latitude in use, which just makes them more harmful
 
 - New types are developed one after another in rapid succession, complicating matters
-
-- It is the most talented chemists who develop such pesticides
-
-- Science and technology strike people with one hand and help them with the other
-
-## An Age of Confrontation
-
-Fukuoka believed humanity had entered an age of confrontation between [[fukuoka-road-back-to-nature-overview]]
-
-- [[fukuoka-critique-modern-livestock]]
-
-- [[fukuoka-do-nothing-farming-philosophy]]
-
-- [[fukuoka-science-continues-rampage]]
-
-- [[fukuoka-nature-as-teacher]]
-
-## Merged: Fukuoka Children Nature Education
-In the closing sections of "The Road Back to Nature," Fukuoka delivers a scathing [[fukuoka-road-critique-of-modern-science]] education, arguing that schools systematically separate children from God and nature. His vision of proper education is radical: learning directly from nature that requires no formal instruction. 297-303 (God, man, and nature; children and God; the world of nothing) updated: 2026-04-18 - [[fukuoka-critique-modern-livestock]] - [[fukuoka-road-back-to-nature-overview]] "When still children, people understand God, but ten or twenty years later they have forgotten him." Even kindergarteners who still understand "are yanked" away from this by teachers.

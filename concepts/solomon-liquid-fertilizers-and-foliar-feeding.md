@@ -3,6 +3,7 @@ title: Solomon solomon liquid fertilizers and foliar feeding and comparison-foli
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
   - gardening-when-it-counts-steve-solomon.md
 type: concept
@@ -87,14 +88,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[solomon-foliar-feeding-fish-emulsion-and-kelp]]

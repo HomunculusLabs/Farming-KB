@@ -16,18 +16,18 @@ Rhizodeposition refers to the continuous release of organic compounds from plant
 
 Plant roots release a diverse array of carbon-containing compounds into the rhizosphere through multiple pathways:
 
-- **Root exudates**: Low-molecular-weight compounds including sugars, amino acids, organic acids, phenolics, and secondary metabolites that diffuse passively from root cells
+- **Root exudates**: Low-molecular-weight compounds including sugars, amino acids, organic acids, phenolics, [[plant-defense-chemistry-and-secondary-metabolites]] that diffuse passively from root cells
 - **Secretions**: Compounds actively transported across the plasma membrane via specific carrier proteins, often in response to environmental cues
 - **Mucilage**: Gelatinous polysaccharide material produced by root cap cells that lubricates root penetration through soil while creating a hydrated microenvironment
 - **Lysates**: Contents released from root cells undergoing senescence or programmed cell death at the root tip and along the root axis
 
-These compounds collectively create a nutrient-rich zone surrounding the root that differs dramatically from bulk soil in both chemical composition and microbial carrying capacity. The rhizodeposition stream is not static — it varies with plant age, species, cultivar, growth stage, and environmental conditions including light availability, temperature, and nutrient status. In Cannabis specifically, the production of cannabinoids and terpenes may introduce additional chemical complexity to the rhizodeposition profile compared to conventional crops.
+These compounds collectively create a nutrient-rich zone surrounding the root that differs dramatically from bulk soil in both chemical composition and microbial [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]]. The rhizodeposition stream is not static — it varies with plant age, species, cultivar, growth stage, and environmental conditions including light availability, temperature, and nutrient status. In Cannabis specifically, the production of cannabinoids and terpenes may introduce additional chemical complexity to the rhizodeposition profile compared to conventional crops.
 
 ## The First Tier: From Bulk Soil to Rhizosphere
 
-The two-tier selection model, as validated by Winston et al. (2014) in Cannabis, posits that bulk soil microbial communities are first filtered by rhizodeposition into the rhizosphere. Key observations from the Cannabis microbiome study supporting this mechanism include:
+The two-tier selection model, as validated by Winston et al. (2014) in Cannabis, posits that bulk soil microbial communities are first filtered by rhizodeposition into the rhizosphere. Key observations from the [[winston-cannabis-microbiome-study-design]] supporting this mechanism include:
 
-1. **Soil type determines presence/absence**: In the unweighted UniFrac analysis, soil type had the strongest effect on which OTUs were present across all sample types (657 significant OTUs differed by soil type). This establishes the available microbial inoculum pool from which rhizosphere communities are drawn.
+1. **Soil type determines presence/absence**: In the [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analysis, soil type had the strongest effect on which OTUs were present across all sample types (657 significant OTUs differed by soil type). This establishes the available microbial inoculum pool from which rhizosphere communities are drawn.
 
 2. **Rhizosphere as intermediate**: The rhizosphere community occupies a compositional position intermediate between bulk soil and endorhiza. Beta-diversity distances confirmed that rhizosphere and bulk soil communities were significantly more similar to each other than either was to the endorhiza (unweighted: t = 24.59, p < 0.001; weighted: t = 211.82, p < 0.001).
 
@@ -47,13 +47,13 @@ The specific compounds released through rhizodeposition exert selective pressure
 
 - **pH modification**: Root exudates can locally alter soil pH, creating microenvironments that favor particular microbial taxa. The Cannabis soils studied had pH values ranging from 6.63 to 6.94, and pH was significantly correlated with community beta-diversity (unweighted: r-stat = 0.292, p = 0.001).
 
-- **Chelation and nutrient availability**: Organic acids in root exudates can chelate minerals and increase the bioavailability of nutrients like phosphorus and iron, shifting the competitive landscape for rhizosphere microbes.
+- **Chelation [[ph-and-nutrient-availability-garden-soils]]**: Organic acids in root exudates can chelate minerals and increase the bioavailability of nutrients like phosphorus and iron, shifting the competitive landscape for rhizosphere microbes.
 
 ## Cannabis-Specific Rhizodeposition Patterns
 
 The Cannabis microbiome study revealed several patterns consistent with strong rhizodeposition-driven filtering:
 
-- **Proteobacteria enrichment**: A significant increase in Proteobacteria was observed from bulk soil through the rhizosphere and into the endorhiza. Proteobacteria, particularly Gammaproteobacteria and Alphaproteobacteria, are well-known copiotrophs that respond strongly to root-derived carbon inputs. Of the 17 OTUs that increased in abundance within the Cannabis endorhiza relative to the rhizosphere, the majority were Proteobacteria including several from the Rhizobiales order.
+- **[[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]**: A significant increase in Proteobacteria was observed from bulk soil through the rhizosphere and into the endorhiza. Proteobacteria, particularly Gammaproteobacteria and Alphaproteobacteria, are well-known copiotrophs that respond strongly to root-derived carbon inputs. Of the 17 OTUs that increased in abundance within the Cannabis endorhiza relative to the rhizosphere, the majority were Proteobacteria including several from the Rhizobiales order.
 
 - **Acidobacteria decline**: The most significant OTU abundance difference between sample types was the dramatic decrease in Acidobacteria (order iii1-15) from bulk soil into the endorhiza (Bonferroni-corrected ANOVA: p = 1.12e-7). Acidobacteria are typically oligotrophic and poorly adapted to carbon-rich rhizosphere environments, so their decline is a hallmark signature of rhizodeposition-driven filtering.
 
@@ -90,5 +90,5 @@ Understanding rhizodeposition-driven filtering has practical applications for Ca
 - [[cannabis-microbiome-two-tier-selection|Two-Tier Selection Model for Cannabis Microbiome]]
 - [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza|Post-Harvest vs. Pre-Harvest Sampling Effects]]
 - [[edaphic-factors-structuring-cannabis-microbiome|Edaphic Determinants of Cannabis Microbiome]]
-- [[proteobacteria-dominance-cannabis-endorhiza|Proteobacteria Dominance in Cannabis Endorhiza]]
+- [[proteobacteria|Proteobacteria Dominance in Cannabis Endorhiza]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition|Acidobacteria Decline from Rhizosphere to Endorhiza]]

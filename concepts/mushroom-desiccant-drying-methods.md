@@ -1,7 +1,7 @@
 ---
-title: Mushroom mushroom desiccant drying methods Methods
+title: Mushroom Desiccant Drying Methods
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
-author: Robert "Psylocybe Fanaticus" McPherson
+author: Robert "[[psylocybe-fanaticus]]" McPherson
 tags: [drying, desiccant, silica-gel, drierite, preservation, potency]
 ---
 
@@ -10,7 +10,7 @@ tags: [drying, desiccant, silica-gel, drierite, preservation, potency]
 Proper drying is critical for preserving [[pf-tek-mushroom-potency-and-age-relationship]] and
 preventing mold growth. The pf tek emphasizes desiccant-based
 drying as a superior alternative to heat-based methods. This page
-covers desiccant types, chamber construction, and best practices.
+covers desiccant types, chamber construction, [[knf-imo-diversity-and-best-practices]].
 
 ## Why Desiccant Drying
 
@@ -18,7 +18,7 @@ Heat-based drying (food dehydrators, oven drying) degrades
 [[psilocin]]. Desiccant drying offers several advantages:
 
 - **No heat**: Preserves maximum alkaloid content by avoiding
-  thermal degradation of psilocybin and psilocin
+  thermal degradation of [[hplc-analysis-of-psilocybin-and-psilocin]]
 - **Complete dryness**: Desiccants can reduce moisture content
   below what heat methods achieve, resulting in crisper, longer-
   lasting product
@@ -88,55 +88,3 @@ The basic desiccant drying chamber is simple to build:
 1. Place a 2-5 cm layer of desiccant at the bottom of the
    container
 2. Position the wire rack or screen above the desiccant layer,
-   ensuring mushrooms will not touch the desiccant directly
-3. Arrange fresh mushrooms on the rack in a single layer, not
-   overlapping. Cut larger specimens to expose more surface area
-4. Seal the container tightly
-5. Store in a cool, dry place away from direct sunlight
-
-### Drying Time
-- Small specimens: 3-5 days
-- Medium specimens: 5-7 days
-- Large whole specimens: 7-10 days
-- Sliced specimens dry significantly faster than whole ones
-
-### Monitoring
-- Check mushrooms daily for dryness. They should be "cracker dry"
-  — snap cleanly when bent, not bendable or leathery
-- Check desiccant color (if using indicator type). Replace or
-  regenerate when saturated
-- With Drierite, the blue-to-pink transition is very clear
-- With silica gel, the blue-to-pink or orange-to-green transition
-  indicates saturation
-
-## Two-Stage Drying Approach
-
-For optimal results, Fanaticus recommends a two-stage process:
-
-1. **Stage 1 — Air drying**: Place freshly harvested mushrooms on
-   a screen or paper towel in a well-ventilated area for 12-24
-   hours. This removes the majority of moisture and reduces the
-   load on the desiccant
-2. **Stage 2 — Desiccant drying**: Transfer partially dried
-   mushrooms to the desiccant chamber for final drying to
-   cracker-dry state
-
-This approach extends desiccant life and reduces overall drying
-time.
-
-## Storage After Drying
-
-Properly dried mushrooms require appropriate storage:
-
-- **Container**: Airtight glass jars with desiccant packets
-- **Environment**: Cool, dark location. Refrigeration extends
-  [[psilocybin-shelf-life-stability]] significantly; freezing can preserve potency for
-  years
-- **Desiccant**: Include a small desiccant packet in the storage
-  jar to absorb any residual moisture
-- **Shelf life**: At room temperature, 6-12 months. Refrigerated,
-  1-2 years. Frozen, 2+ years with minimal potency loss
-
-## See Also
-- [[psilocybin-metabolism-psilocin-conversion]]
-- [[mushroom-drying-canning-pickling-methods]]

@@ -60,7 +60,7 @@ Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile z
 - Widely available in nature; refractory and decay-resistant
 - Few microbes besides some bacteria and chytrids can decay pollen
 - **Pinus pollen:** Commonly used; wings reduce visibility
-- **Liquidambar styraciflua (sweet gum) pollen:** Lacks wings; better visibility of internal structures
+- **[[liquidambar-styraciflua]] (sweet gum) pollen:** Lacks wings; better visibility of internal structures
 - **Collection:** Male cones/flowers on stacked sieves; debris-free pollen accumulates in collection pan; air-dry or heat-dry at ~60C
 - **Pine pollen:** Can be used after drying
 - **Sweet gum pollen:** Should be sterilized before use
@@ -79,7 +79,7 @@ Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile z
 - Morphological plasticity can confound identifications
 
 ### Approach
-- For ecological studies with many taxa: identification based on classical morphological criteria
+- For [[mycorrhiza-bioassays-ecological-studies]] with many taxa: identification based on classical morphological criteria
 - Use Sparrow (1960) monograph (most recent comprehensive work)
 - Some genera revised since (e.g., Septosperma; Blackwell and Powell 1991)
 - Primary literature for recently described species
@@ -88,18 +88,3 @@ Chytridiomycetes (chytrids) are early-diverging fungi that reproduce by motile z
 - Not all chytrids can be brought into pure culture
 - Unifungal cultures possible by transferring single thalli to enriched water-bait cultures
 - Bacteria may accompany cultures but are manageable
-- Pure culture on nutrient agar often impractical for large numbers of isolates
-
-## Taxonomic References
-- Sparrow (1960): Most recent comprehensive monograph of Chytridiomycetes
-- Karling (1977): Revised several genera
-- Powell and Koch (1977a, 1977b): Morphological plasticity studies
-- Longcore (1996): Batrachochytrium dendrobatidis (amphibian pathogen)
-- Letcher et al. (2000s): Molecular phylogeny reshaping chytrid systematics
-
-## See Also
-
-- [[soil-fungal-isolation-techniques]]
-- fungal-phylogeny-kingdom-classification
-- [[fungi-in-the-environment-fungal-spore-dispersal]]
-- [[ingoldian-hyphomycetes-spore-dispersal-in-water]]

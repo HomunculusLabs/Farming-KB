@@ -87,26 +87,3 @@ Sugarcane is a cornerstone crop for tropical agricultural economies, employing a
 The crop supports a diverse value chain including sugar refining, bioethanol production, electricity cogeneration, and animal feed manufacturing. Molasses-based livestock feed supplements are important in many tropical dairy and beef operations.
 
 Smallholder sugarcane farmers in Africa, South Asia, and Latin America often rely on the crop as a primary cash source. Yield gaps between research station trials and smallholder fields remain significant, often exceeding 50%.
-
-As a C4 plant, sugarcane is among the most photosynthetically efficient crops, with recorded radiation use efficiency values of 1.5–2.0 g dry matter per MJ intercepted solar radiation. This makes it a productive carbon capture species in tropical agroecosystems.
-
-## Related Species
-
-**Saccharum spontaneum** (wild sugarcane) is a hardy, widely distributed relative valued for disease resistance and [[fungal-lichen-stress-tolerance-and-poikilohydry]] in breeding programs. It contributes ratooning ability and disease resistance to modern hybrids.
-
-**Saccharum sinense** and **S. barberi** are traditional Indian and Chinese canes with lower sugar content but greater environmental resilience. These species were historically important before modern hybridization programs.
-
-**Sorghum bicolor** is the closest major crop relative within the Andropogoneae tribe. Both share C4 photosynthetic pathways and similar ecological requirements, though sorghum is far more drought-tolerant.
-
-Modern commercial cultivars (called "noble canes" in breeding terminology) are typically complex hybrids with 80–90% S. officinarum genome contribution, supplemented by S. spontaneum and other Saccharum species for hardiness traits.
-
-## See Also
-
-- [[manihot-esculenta]]
-- [[vigna-radiata]]
-- [[amaranthus-caudatus]]
-- crotalaria-juncea
-- [[prosopis-juliflora]]
-- [[dioscorea-alata]]
-- [[glycine-max]]
-- [[lathyrus-tuberosus]]

@@ -1,9 +1,9 @@
 ---
-title: Fungal fungal diversity indices community analysis and rhizosphere-fungal-community-analysis-rrna-rdna
+title: Fungal Diversity Indices Community Analysis
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, ecology, biodiversity, statistics]
+tags: [[mycology]], ecology, biodiversity, statistics]
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ---
 # Fungal Diversity Indices and Community Analysis
@@ -12,7 +12,7 @@ Quantifying fungal diversity requires appropriate
 ecological indices that account for both the number of
 species present (richness) and their relative abundances
 (evenness). The choice of index affects conclusions
-about community structure and comparisons between sites.
+about [[edaphic-determinants-cannabis-microbiome-community-structure]] and comparisons between sites.
 
 ## Species Richness (S)
 
@@ -27,7 +27,7 @@ richness of the community being studied.
 
 ### Limitations of S
 
-Strongly dependent on collection effort and limited
+Strongly dependent on [[fungal-community-characterization-collection-effort-curves]] and limited
 value for comparing communities sampled with different
 intensity. The effort required to reach asymptote
 varies by taxon, substratum, habitat, and biome.
@@ -79,7 +79,7 @@ relationship provides good discriminant ability among
 sites with low sensitivity to sample size. Less affected
 by common species than Shannon or Simpson. A limitation
 is that it assumes log-series distribution regardless
-of actual community structure.
+of actual [[edaphic-factors-microbial-community-structure]].
 
 ### Other Indices
 
@@ -88,62 +88,3 @@ ability and moderate sample-size sensitivity. Berger-
 Parker d reflects the proportional importance of the
 most abundant species but has poor discriminant ability.
 Hill numbers provide a unified framework expressing
-diversity in effective number of species units. N1
-equals exp of H, and N2 equals 1/D.
-
-## Evenness Indices
-
-Evenness measures how equally individuals are distributed
-among species. Shannon evenness is E = H / ln(S).
-Hill evenness is E = N2 / N1. McIntosh evenness is
-E = (N-U) divided by (N minus sqrt of NS). Low evenness
-indicates dominance by one or a few species.
-
-## Beta Diversity and Species Turnover
-
-While alpha diversity describes within-habitat
-diversity, beta diversity measures compositional change
-between habitats or along environmental gradients. For
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]], beta diversity is often high due to
-the strong influence of substrate specificity and
-microclimate on [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-Common beta diversity measures include Sorensen index
-(based on presence-absence) and Bray-Curtis
-dissimilarity (based on abundance). Partitioning beta
-diversity into nestedness and turnover components
-helps distinguish between species loss and species
-replacement processes.
-
-## Ordination Methods
-
-Ordination techniques visualize and analyze community
-composition patterns across multiple samples. Principal
-Coordinates Analysis and Non-metric Multidimensional
-Scaling (NMDS) are widely used for [[air-pollution-fungal-community-responses]]
-data derived from sequencing studies.
-
-NMDS is particularly popular because it makes no
-assumptions about data distribution and can accommodate
-non-linear species responses. Permutational multivariate
-analysis of variance (PERMANOVA) tests for significant
-differences among predefined groups of samples.
-
-## Jackknifing for Confidence Limits
-
-Jackknifing improves accuracy of diversity estimates
-and provides confidence intervals. The procedure
-involves recalculating diversity while disregarding
-data from each of n samples, converting each jackknifed
-estimate to a pseudovalue, and computing the mean and
-confidence limits from the pseudovalues.
-
-Requirements include at least 15 samples. Bootstrap
-methods provide an alternative approach for generating
-## See Also
-
-- [[fungal-community-assembly]]
-- [[fungal-species-accumulation-rarefaction-estimators]]
-- [[fungal-species-estimates-taxonomy]]
-- [[fungal-biodiversity-measurement-methods]]
-- [[fungal-species-richness-and-diversity-indices]]

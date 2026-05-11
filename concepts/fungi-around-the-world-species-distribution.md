@@ -88,12 +88,3 @@ assessments, but progress has been slow. Key conservation challenges include:
   humidity regimes; even small microclimate changes from [[fungal-species-concept-and-taxonomy]]
   fragmentation can eliminate local populations
 - **Collecting pressure**: Popular edible and psychoactive species face
-  overharvesting in accessible areas
-
-- [[magic-mushrooms-australia-new-zealand]] — Detailed species guide for Australasia
-- [[fungal-biodiversity-tropical-forests]] — Tropical forest fungal diversity
-- [[fungal-species-concept-and-taxonomy]] — How fungal species are defined
-
-## See Also
-
-- [[gobekli-tepe]]

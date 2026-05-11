@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-pharmacology]] and Cultural Context
+title: Ayahuasca Pharmacology And Cultural Context
 created: 2026-05-09
 tags: [psychedelics, ayahuasca, dmt, maoi, amazon, shamanism]
 date: 2026-05-09
@@ -48,7 +48,7 @@ their synergistic interaction.
 The primary active compounds in ayahuasca are:
 
 - **DMT source**: Typically *[[chacruna-psychotria-viridis]]* (chacruna) or
-  *[[diplopterys-cabrerana]]* (chaliponga)
+  *[[diplopterys-cabreraeana]]* (chaliponga)
 - **MAOI source**: *Banisteriopsis caapi* (ayahuasca vine), containing
   beta-carboline alkaloids:
   - Harmine — reversible MAO-A inhibitor
@@ -88,58 +88,3 @@ Key aspects of the traditional context:
   and structure the experience
 
 ### The Shaman's Role
-
-McKenna's description of [[ayahuasqueros-amazonian-shamans]] emphasizes their
-sophistication:
-
-- Shamans are "the true phenomenologists of this world" who "know
-  plant chemistry" but call these energy fields "spirits"
-- "Spirit" functions as "a technical gloss for a very complicated
-  concept," comparable to a physicist's use of "charm"
-- Shamans are typically "an intellectual and alienated from society"
-  with "extraordinary centeredness"
-- They serve peripheral roles — consulted in crisis but excluded from
-  political power because they are sacred
-- "Shamanism is primarily techniques, not ritual" — a set of methods
-  worked out over millennia for exploring non-ordinary states
-
-### Selection and Training
-
-Shamanic ability may have biological components:
-
-- "Shamanic ability is to some degree determined by how many active
-  receptor sites occur in the brain"
-- Signs of shamanic potential include epilepsy, surviving lightning
-  strikes, or recovering from near-death illness
-- "Hypersensitivity to trance states" is a key identifying feature
-
-## Historical Destruction and Survival
-
-McKenna traces the suppression of psychedelic plant knowledge:
-
-- The "classic mushroom cults of Mexico were destroyed by the coming of
-  the Spanish conquest"
-- Franciscans "assumed they had an absolute monopoly on theophagy"
-  (eating God), yet found indigenous peoples calling a mushroom
-  *teonanácatl* — "the flesh of the gods"
-- The Inquisition pushed indigenous psychedelic practice into remote
-  areas, where it survived until rediscovered by Valentina and Gordon
-  Wasson in the 1950s
-- Ayahuasca use survived in the Amazon partly because the terrain
-  prevented complete cultural suppression
-
-## McKenna's Conceptual Framework
-
-McKenna frames ayahuasca within a larger eschatological vision:
-"History is the dash over ten to fifteen thousand years from nomadism to
-flying saucer, hopefully without ripping the envelope of the planet."
-Tryptamine plants represent a "symbiote" feeding information to humanity
-about "the larger picture," as language and consciousness expand into
-what Teilhard de Chardin called the noosphere — a sphere of thought
-surrounding the planet.
-
-## See Also
-
-- [[dmt-phenomenology-and-hyperspace-experience]]
-- [[psilocybin-and-the-logos]]
-- [[tryptamine-hallucinogens-and-language]]

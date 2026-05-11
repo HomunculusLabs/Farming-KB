@@ -39,7 +39,7 @@ The severity of the penalty underscores the functional importance of secrecy: th
 
 ## Secrecy and the Modern Psychedelic Underground
 
-The Eleusinian and Mazatec models of secrecy have found an unexpected echo in the modern [[psychedelic-harm-reduction]] movement has implicitly recognized the value of controlled information dissemination, advocating for education while respecting the importance of ritual context. The tension between making psychedelic knowledge available for safety purposes and preserving the conditions for effective therapeutic or ceremonial use mirrors the ancient dilemma faced by the Eleusinian hierophants.
+The Eleusinian and Mazatec models of secrecy have found an unexpected echo in the modern [[harm-reduction-guide]] movement has implicitly recognized the value of controlled information dissemination, advocating for education while respecting the importance of ritual context. The tension between making psychedelic knowledge available for safety purposes and preserving the conditions for effective therapeutic or ceremonial use mirrors the ancient dilemma faced by the Eleusinian hierophants.
 
 ## Philosophical Dimensions of Sacred Secrecy
 

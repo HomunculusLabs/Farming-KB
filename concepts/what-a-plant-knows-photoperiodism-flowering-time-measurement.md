@@ -40,7 +40,7 @@ of photoperiod.
 The practical implications were enormous. Flower farmers learned to
 manipulate chrysanthemums — naturally autumn bloomers — into flowering
 for Mother's Day by turning on lights for a few minutes each night.
-This "night break" technique prevented plants from perceiving a long
+This "[[night-break-experiments-and-agricultural-light-manipulation]]" technique prevented plants from perceiving a long
 enough dark period to trigger flowering.
 
 ## Measuring Darkness, Not Daylight
@@ -58,7 +58,7 @@ maintaining state over hours.
 The molecular basis centres on phytochrome ("plant colour"), discovered
 by Warren L. Butler and colleagues in the early 1950s. Phytochrome
 exists in two interconvertible forms. The active form (Pfr) absorbs
-red light (~660 nm) and converts to the inactive form (Pr). The
+[[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] (~660 nm) and converts to the inactive form (Pr). The
 inactive form absorbs far-red light (~730 nm) and converts back. This
 red/far-red photoconversion acts as a biological switch.
 
@@ -75,7 +75,7 @@ Unlike phototropism, where the "eye" is in the shoot tip (as Darwin
 showed), photoperiodic sensing is distributed across leaves. Illuminating
 a single leaf at midnight regulates flowering in the entire plant.
 Removing all leaves renders the plant completely blind to photoperiodic
-cues. Phytochrome in leaves generates a mobile signal — the FT protein
+cues. Phytochrome in leaves generates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — the FT protein
 ("florigen") — that travels through the phloem to the shoot apex,
 triggering conversion of vegetative to floral meristems.
 
@@ -85,54 +85,6 @@ Photoperiodism is intimately linked to the circadian clock, an
 internal oscillator with an approximately 24-hour period persisting
 under constant conditions. The clock regulates expression of
 phytochrome pathway genes. Plants with disrupted clocks cannot
-measure day length even with intact phytochrome systems. The
+measure [[coleman-persephone-months-winter-day-length]] even with intact phytochrome systems. The
 interaction allows plants to distinguish long from short nights with
 precision as fine as 15 minutes.
-
-## Agricultural Applications
-
-[[chrysanthemum-greenhouse-photoperiod-manipulation]] is a cornerstone of modern horticulture.
-Greenhouse growers use supplemental lighting and blackout curtains to
-control flowering in ornamentals and crops year-round. Chrysanthemums,
-poinsettias, and strawberries are induced to flower on commercial
-schedules through precise light management. Beyond flowering, phytochrome
-regulates seed germination (detecting light quality through soil) and
-[[shade-avoidance-syndrome]] responses (stem elongation under far-red-enriched canopy
-light).
-
-## Key Molecular Components
-
-The core machinery involves several protein families. Phytochromes
-(PHYA through PHYE in Arabidopsis) have distinct roles: PHYA mediates
-responses to continuous far-red and de-etiolation, while PHYB is the
-primary receptor for red/far-red reversible responses. Downstream
-transcription factors CONSTANS, GIGANTEA, and CO integrate circadian
-and light signals to regulate FT expression. FT then moves from leaf
-to shoot apex where it interacts with FD to activate floral identity
-genes like APETALA1 and LEAFY.
-
-## Temperature Interactions
-
-Photoperiodic responses are modulated by temperature in many species.
-Some plants require both a specific [[coleman-winter-day-length-and-persephone-months]] a period of cold
-(vernalization) before flowering. Winter wheat, for example, needs
-extended cold treatment followed by increasing day length. This dual
-requirement prevents premature flowering during warm autumn spells and
-ensures reproduction occurs only when conditions are truly favourable
-for seed development and dispersal.
-
-## Photoperiod in the Modern Greenhouse
-
-Commercial greenhouse operators use computer-controlled lighting
-systems to deliver precisely timed photoperiodic cues. LED grow lights
-with tunable spectra allow independent control of red and far-red
-wavelengths, enabling fine-tuning of phytochrome responses. Energy-
-saving strategies include using only red LEDs for night-break
-treatments since far-red is unnecessary and blue/green have no
-photoperiodic effect. This specificity makes photoperiodic lighting
-highly efficient compared to full-spectrum supplementation.
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[growing-gourmet-light-requirements-mushroom-fruiting]]

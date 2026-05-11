@@ -25,7 +25,7 @@ The species forms dense mats on water surfaces that can double in biomass within
 
 Giant salvinia was first identified as a distinct species in 1972 by D.S. Mitchell. Prior to that, it was frequently confused with the related *Salvinia auriculata* complex.
 
-Biological control using the weevil *Cyrtobagous salviniae* has proven highly effective in tropical and subtropical regions. Successful programs have been implemented in Australia, South Africa, and the southern United States.
+[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] using the weevil *Cyrtobagous salviniae* has proven highly effective in tropical and subtropical regions. Successful programs have been implemented in Australia, South Africa, and the southern [[dmt-containing-plants-united-states-halpern]].
 
 ## Taxonomy and Morphology
 
@@ -33,7 +33,7 @@ Biological control using the weevil *Cyrtobagous salviniae* has proven highly ef
 
 The species belongs to the *Salvinia auriculata* complex, a group of closely related [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species that are difficult to distinguish morphologically. Sterile collections, which represent the vast majority of field material, cannot be reliably differentiated without genetic analysis.
 
-All known wild populations of *S. molesta* are sterile triploids that reproduce exclusively by vegetative fragmentation. No fertile sporocarps have been observed outside of laboratory conditions, which limits genetic diversity in invasive populations.
+All known wild populations of *S. molesta* are sterile triploids that reproduce exclusively by vegetative fragmentation. No fertile sporocarps have been observed outside of laboratory conditions, which limits [[biodiversity-fungal-genetic-diversity]] in invasive populations.
 
 Fronds occur in whorls of three: two floating leaves and one submersed leaf that functions as a root analogue. The floating leaves are oval to oblong, 1–4 cm long, with distinctive upper surfaces covered in rows of branched hairs.
 
@@ -49,7 +49,7 @@ The upper leaf surfaces are covered with hydrophobic trichomes arranged in rows.
 
 The native range of *Salvinia molesta* is restricted to southeastern Brazil, particularly the states of São Paulo, Paraná, and Santa Catarina. It occurs in slow-moving rivers, lakes, ponds, and marshes in this region.
 
-The species has been introduced to over 30 countries across tropical and subtropical regions worldwide. Major invasions have been documented in Australia, New Zealand, South Africa, India, Southeast Asia, and the southern United States.
+The species has been introduced to over 30 countries across tropical and subtropical regions worldwide. Major invasions have been documented in Australia, New Zealand, South Africa, India, [[psilocybe-southeast-asia-pacific]], and the southern United States.
 
 It thrives in still or slow-moving freshwater systems with temperatures between 20–30°C. The plant is intolerant of freezing temperatures and dies back in temperate winters, though rhizome fragments can survive in mild climates.
 
@@ -61,7 +61,7 @@ Salinity tolerance is very low, which prevents establishment in brackish or estu
 
 Dense *Salvinia molesta* mats reduce light penetration to near zero beneath the canopy. This eliminates submerged aquatic vegetation and phytoplankton, disrupting the entire aquatic food web.
 
-Decomposition of the dense plant biomass consumes dissolved oxygen, creating hypoxic or anoxic conditions. Fish kills are common in heavily infested water bodies, particularly during die-back events.
+Decomposition of the dense plant biomass consumes [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]], creating hypoxic or anoxic conditions. Fish kills are common in heavily infested water bodies, particularly during die-back events.
 
 The mats impede water flow in irrigation canals and drainage ditches, increasing flood risk and reducing water availability for agriculture. In some regions, infestations have rendered entire irrigation systems unusable.
 
@@ -79,7 +79,7 @@ The most successful management approach is the biological control agent *Cyrtoba
 
 The weevil was first released in Australia in 1980, where it achieved near-complete control of *S. molesta* within 2–3 years. Similar success has been achieved in South Africa, Fiji, Papua New Guinea, and the southern United States.
 
-In Australia alone, the economic benefits of biological control have been estimated at tens of millions of dollars annually through restored water access, reduced management costs, and recovered recreational value.
+In Australia alone, the [[knf-economic-benefits]] of biological control have been estimated at tens of millions of dollars annually through restored water access, reduced management costs, and recovered recreational value.
 
 Control efficacy is temperature-dependent, with optimal weevil activity at 25–30°C. In cooler climates, the weevil's life cycle slows and control may take several years to achieve. Temperatures below 15°C effectively halt weevil reproduction.
 
@@ -88,21 +88,3 @@ Chemical control using herbicides such as diquat, glyphosate, and fluridone can 
 Mechanical removal using harvesters or nets can clear surface mats but leaves behind submersed fragments that rapidly regrow. Integrated approaches combining biological control with targeted mechanical removal produce the best long-term results.
 
 ## Chemistry and Uses
-
-*Salvinia molesta* contains several [[antifungal-secondary-metabolites-coprophilous-fungi]] including flavonoids, phenolic acids, and tannins. These compounds contribute to the plant's resistance to herbivory by generalist insects in its introduced range.
-
-The species has been investigated for phytoremediation potential, particularly for heavy metal removal from contaminated water. The fern can accumulate lead, cadmium, chromium, and arsenic from solution into its biomass.
-
-Harvested biomass has potential as feedstock for biogas production through [[biogas-digester-basics]]. Methane yields from *Salvinia* biomass are comparable to other aquatic weeds, though the high water content reduces efficiency per unit mass.
-
-In its native Brazil, the plant has limited traditional uses in animal fodder and compost. However, these uses are far outweighed by the ecological and economic damage caused by invasive populations in non-native ranges.
-
-The species has been studied as a potential bioindicator of water quality due to its rapid growth response to [[ph-and-nutrient-availability-garden-soils]]. Biomass accumulation rates correlate with phosphorus and nitrogen concentrations in the water column.
-
-## See Also
-
-- [[azolla-caroliniana]]
-- [[pistia-stratiotes]]
-- [[nymphaea-alba]]
-- typha-latifolia-entity
-- [[canna-indica]]

@@ -42,13 +42,13 @@ The majority of Psilocybe species are found in or near the Austral hemisphere,
 mainly in subtropical humid forests. These forests also host the most well-documented
 indigenous groups using neurotropic fungi, particularly in Mexico and New Guinea.
 Within these subtropical and [[fungal-biodiversity-tropical-forests]], the diversity is highest, though
-temperate regions also support significant populations.
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] also support significant populations.
 
 ## Species of Wide Distribution
 
 ### Cosmopolitan and Broad-Range Species
 
-- **Psilocybe semilanceata** (Liberty Caps) — one of the most widely distributed
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (Liberty Caps) — one of the most widely distributed
   species, found across Europe, North America, and parts of Asia. It is the most
   common wild [[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion]] in Europe, particularly in the UK, Norway,
   and Germany. Habitats include wet grassy fields and uncultivated pastures.
@@ -59,7 +59,7 @@ temperate regions also support significant populations.
   or dried imported specimens, not as a wild species. It grows on bovine dung in
   tropical grasslands.
 
-- **Psilocybe cyanescens** (Wavy Caps) — found in the [[psilocybin-north-america-pacific-northwest]] of North
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** (Wavy Caps) — found in the [[psilocybin-north-america-pacific-northwest]] of North
   America and parts of Europe. It grows on woody debris and wood chip mulch in
   disturbed habitats. It has been reported from the Czech Republic, central Europe,
   and as far as Hawaii at 3,000 m altitude.
@@ -68,11 +68,11 @@ temperate regions also support significant populations.
 
 Many species are highly localized:
 
-- **Psilocybe azurescens** — restricted to the Pacific Northwest coast of North
+- **[[psilocybe-azurescens]]** — restricted to the Pacific Northwest coast of North
   America, particularly Oregon
-- **Psilocybe quebecensis** — known from Quebec, Canada
+- **[[psilocybe-quebecensis]]** — known from Quebec, Canada
 - **Psilocybe weilii** — reported from Georgia, USA
-- **Psilocybe tampanensis** — originally found in Florida; known for producing
+- **[[psilocybe-tampanensis-entity]]** — originally found in Florida; known for producing
   sclerotia ("philosopher's stones")
 
 ## Ecological Niches
@@ -87,36 +87,3 @@ Psilocybe species occupy diverse ecological niches:
   P. pelliculosa — on decaying wood, wood chips, and forest debris
 - **Soil-inhabiting species**: P. mexicana, P. zapotecorum — in disturbed soils,
   trails, and roadbanks in subtropical forests
-
-## Key North American Distribution Centers
-
-The Pacific Northwest (British Columbia, Washington, Oregon) is one of the most
-species-rich regions in North America, hosting P. baeocystis, P. cyanescens,
-P. cyanofibrillosa, P. fimetaria, P. pelliculosa, P. semilanceata, P. stuntzii,
-P. sierrae, and P. silvatica. California additionally hosts P. azurescens.
-
-The southeastern United States (Florida, Georgia, Alabama, Louisiana) supports
-several Copelandia species and [[query-how-to-identify-psilocybe-cubensis-in-the-wild]] Gulf Coast states. Mexico
-far surpasses all other countries with 76 total neurotropic species, of which 44
-belong to Psilocybe (39% of the world total).
-
-## Ongoing Discovery
-
-New Psilocybe species continue to be described from under-surveyed regions. Gartz
-et al. (1995) discovered new species from South Africa, and Stamets and Gartz
-(1995) described new species from the USA. Guzmán et al. have described new
-species from Mexico, Colombia, Puerto Rico, Spain, Thailand, and New Zealand
-throughout the 1990s, confirming the broad and still incompletely documented
-distribution of the genus.
-
-## See Also
-
-- [[neurotropic-fungi-classification-and-taxonomy]]
-- [[mexico-neurotropic-fungi-diversity-center]]
-- [[pf-tek-brown-rice-vermiculite-cultivation]]
-
-## Sources
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide [[psilocybe-geographical-distribution-patterns]]
-  of the neurotropic fungi. Ann. Mus. civ. Rovereto, 14, 189-280.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.

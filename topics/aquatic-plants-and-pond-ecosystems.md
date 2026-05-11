@@ -5,6 +5,7 @@ tags: [ponds, aquatic-plants, aquaculture, permaculture, hydrology, duckweed, wa
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/concepts/backyard-pond-building.md
   - ~/wiki/concepts/edible-aquatic-plants.md
   - ~/wiki/concepts/faires-aquaculture-pond-systems.md

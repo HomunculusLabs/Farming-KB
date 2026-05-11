@@ -7,7 +7,7 @@ tags: [plant-biology, epigenetics, gene-memory, vernalization, chamovitz, plant-
 # Plant Epigenetic Memory and Gene-Based Remembering
 
 In Chapter 6 of "What a Plant Knows," [[daniel-chamovitz]] explores the concept of
-plant memory — not memory in the neurological sense, but a form of biological
+[[plant-memory]] — not memory in the neurological sense, but a form of biological
 information storage encoded in gene expression patterns, protein modifications,
 and epigenetic marks. Plants demonstrate a remarkable capacity to retain
 information about past experiences and use that information to modify future
@@ -34,9 +34,9 @@ fulfill all three criteria through molecular mechanisms:
 
 ### Photoperiodic Memory
 
-As described in the phytochrome system, plants "remember" the last color of
+As described in the [[phytochrome]] system, plants "remember" the last color of
 light they perceived. The phytochrome protein exists in two interconvertible
-forms: Pr (active in red light) and Pfr (active in far-red light). The
+forms: Pr (active in [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]) and Pfr (active in far-red light). The
 ratio of Pr to Pfr encodes information about recent light conditions, and
 this molecular state persists for hours, influencing downstream flowering
 responses. This is a form of short-term protein-level memory.
@@ -88,63 +88,3 @@ that poise these genes for rapid reactivation.
 
 Methylation of cytosine bases (5-methylcytosine) can silence gene
 expression without altering the DNA sequence. In plants, methylation
-occurs in three sequence contexts (CG, CHG, CHH) and is maintained
-through cell division by specific DNA methyltransferases. Stress-induced
-changes in DNA methylation patterns can persist and alter future stress
-responses.
-
-### Histone Modifications
-
-Post-translational modifications of histone proteins (acetylation,
-methylation, phosphorylation) alter chromatin structure and gene
-accessibility. Specific marks are associated with active or repressed
-gene states, maintained through cell divisions.
-
-### Small RNAs
-
-Small interfering RNAs (siRNAs) and microRNAs (miRNAs) can direct
-sequence-specific DNA methylation and post-transcriptional gene silencing.
-In some cases, RNA-mediated silencing persists across generations.
-
-### Chromatin Remodeling
-
-ATP-dependent chromatin remodeling complexes reposition nucleosomes to
-alter gene accessibility, establishing stable chromatin states that
-persist through cell division for long-term transcriptional memory.
-
-## Transgenerational Epigenetic Inheritance
-
-Evidence from several plant species suggests that environmentally induced
-epigenetic changes can be inherited:
-
-- **Drought stress**: Progeny of drought-stressed plants in some species
-  show altered gene expression patterns and improved [[dighton-fungal-drought-tolerance-plant-water-relations]].
-- **Pathogen exposure**: Primed defense responses have been reported to
-  persist for one or more generations in certain plant-pathogen systems.
-- **Nutrient stress**: Changes in DNA methylation induced by nutrient
-  deficiency can be transmitted to offspring.
-
-However, many epigenetic marks are reset during gametogenesis, limiting the
-potential for true inheritance. The extent and [[adaptive-significance-mushroom-tropisms-spore-dispersal]] of
-transgenerational epigenetic inheritance remains actively debated.
-
-## Agricultural Implications
-
-Understanding plant memory has significant practical applications:
-
-- **Seed treatment**: Pre-treating seeds with mild stress (priming)
-  produces more resilient crops through commercial seed priming treatments.
-- **Vernalization management**: Understanding the molecular basis enables
-  precise control of flowering time in crops like winter wheat and sugar beet.
-- **Breeding**: Epigenetic variation provides additional phenotypic diversity
-  that breeders can potentially harness.
-- **Grafting**: Epigenetic information can be transmitted through graft
-  junctions, suggesting rootstock selection may influence scion performance
-  through epigenetic mechanisms.
-
-## See Also
-
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[phytochrome-red-far-red-switch-and-photoperiodism]]
-- [[plant-olfaction-volatile-chemical-detection]]
-- [[thigmomorphogenesis-plant-touch-response]]

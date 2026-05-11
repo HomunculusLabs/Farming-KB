@@ -1,5 +1,5 @@
 ---
-title: "Protozoa in the Soil Food Web — [[soil-protozoa-nutrient-cycling-and-mineralization]] Assessment"
+title: Ingham Protozoa Soil Food Web Nutrient Cycling
 source: "elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com"
 source_author: "Elaine R. Ingham"
 topics: ["soil-food-web", "protozoa", "nutrient-cycling", "microbiology", "compost-tea"]
@@ -87,40 +87,3 @@ Protozoa are identified based on morphology and movement patterns under microsco
 Assessment involves counting organisms per gram of soil or compost dry weight and comparing against established benchmarks for different plant successional stages.
 
 ### Successional Patterns
-
-Protozoan communities shift with soil succession:
-
-- **Early succession (disturbed soils)**: Dominated by flagellates and naked amoebae; bacterial-dominated; associated with weed species
-- **Mid succession**: Mixed flagellates, naked and testate amoebae; more balanced bacterial-fungal ratios; associated with grasses and brassicas
-- **Late succession (mature ecosystems)**: Diverse testate amoebae and ciliates; fungal-dominated; associated with perennials, shrubs, and trees
-
-The ratio and diversity of protozoan groups provides information about the successional stage of the soil ecosystem and helps guide management decisions about compost tea formulations and soil amendments.
-
-## Protozoa in Compost Tea Troubleshooting
-
-When disease suppression or plant health improvements are not achieved with compost tea:
-
-1. First verify total and active bacteria and total and active fungi are at adequate levels
-2. If bacterial/fungal levels are adequate, check protozoa next
-3. If protozoa are deficient, the nutrient mineralization cycle is incomplete and plants may not receive adequate mineralized nutrients
-4. Consider performing a beneficial organism assay to identify specific organisms lacking
-5. Add missing protozoan groups through inoculation with good compost or commercial inoculants
-
-## Integration with Nematodes
-
-Protozoa and [[ingham-beneficial-nematodes-soil-food-web]] work together in the soil food web. Protozoa primarily consume bacteria, while bacterial-feeding nematodes also contribute to nutrient mineralization. A complete soil food web assessment considers both groups:
-
-- Bacterial-feeding nematodes: 10-15 per gram dry weight compost
-- Fungal-feeding nematodes: 5-10 per gram dry weight compost
-- Predatory nematodes: 1-5 per gram dry weight compost
-- No root-feeding nematodes should be present
-
-The combination of protozoan and nematode grazing ensures that nutrients mineralized from bacterial and fungal biomass are made available to plants throughout the soil profile, not just in the rhizosphere.
-
-## Key Principles
-
-1. **Protozoa are essential**: Without protozoa, nutrients remain locked in microbial biomass and are unavailable to plants
-2. **Diversity matters**: All three groups (flagellates, amoebae, ciliates) should be present in appropriate proportions
-3. **Ciliates as indicators**: Elevated ciliate numbers signal anaerobic conditions that need to be corrected
-4. **Compost quality determines tea quality**: Protozoa must be present in the starting compost to appear in the finished tea
-5. **Testate amoebae indicate maturity**: Their presence suggests a stable, well-structured soil ecosystem

@@ -88,32 +88,3 @@ out as an intricate, golden-linked chain, culminating in a quick,
 breathless, cheerful song of creation and growth.
 
 ## Guilt and Disenchantment
-
-Graves's delight was tempered by sentiments of guilt. He was terrified
-that the mushrooms might jeopardise his ordinary day-to-day communion
-with the Muse. Poetic inspiration was his raison d'etre, and he
-concluded it was more worthwhile. He only took mushroom pills one
-further time at a Wasson soiree, but the evening was unpleasant and
-anticlimactic. His wife Beryl Prynne watched as her face became
-"grotesquely distorted" and she swore never to repeat the experience.
-The evening's horrors were sufficient to convince Graves that he should
-thereafter seek inspiration unassisted.
-
-Nevertheless, he continued to argue that the mushroom should be
-restored to its "original religious function," administered at puberty
-by way of initiation, to deepen lovers' bonds, and in old age to
-prepare the way. "Not that I should care to enrol myself in any such
-cult," he added haughtily, "which would imply ecclesiastical
-discipline and dogma."
-
-## The Hippy Connection
-
-During the 1960s, Deia became a haven for hippies, freaks and other
-underground members. Musicians Robert Wyatt from Soft Machine and
-Daevid Allen, visionary leader of the uber-hippy psychedelic band
-Gong, were among the more famous visitors received at Graves's home.
-Young, attractive "hippy-chicks" were especially welcomed. Graves was
-always happy to talk about [[guzman-magic-mushrooms-african-species]], and it seems probable that
-he led some people to the British gordon-wasson-mushroom-discovery - Wasson's Mexico expeditions
-- [[wasson-mycophobia-mycophilia-theory]] - the theory Graves
-  - championed

@@ -1,8 +1,8 @@
 ---
-title: 2C-G - 2c-b-pihkal-entry-20 #27 Compound Profile
+title: 2C G Pihkal Entry 27
 created: 2026-04-26
 updated: 2026-04-22
-sources: PIHKAL Entry #27
+sources: 2c-b-pihkal-entry-20 #27
 type: concept
 tags: [phenethylamine, shulgin]
 ---
@@ -39,13 +39,13 @@ WARNING: Extremely long duration. At 32 mg, effects can persist for 18+ hours, w
 ## Effects and Qualitative Commentary
 
 ### 22 mg -- Functional Psychedelic
-The user remains completely functional -- able to write and answer the telephone -- but with altered sensory perception (coffee tastes "most strange"). Mental effects reach only a ++ level. Body retains memory of the experience longer than the mind. Sleep is achievable and desirable in the early evening.
+The user remains completely functional -- able to write and answer the telephone -- but with altered [[plant-sensory-perception]] (coffee tastes "most strange"). Mental effects reach only a ++ level. Body retains memory of the experience longer than the mind. Sleep is achievable and desirable in the early evening.
 
 ### 32 mg -- "True Psychedelic" / "Insight-Enhancer"
 Described as a "superb material, to be classified as a 'true psychedelic' unless one is publishing, in which case it could be best described as an 'insight-enhancer' and obviously of potential value in psychotherapy (if one would wish to spend 30 hours in a therapy session!)." Notable for its anorexic and non-sexual aspects. The user concludes: "The length of the experience is against its frequent use, of course, which is a pity, since this one is well worth investigating as often as possible."
 
 ### 32 mg -- Indole-Like Onset
-At the very beginning, a "feeling of non-physical heat in the upper back" reminiscent of indole compounds (like LSD or psilocybin), "which this ain't." Energy tremor is quite strong throughout, yet the body remains generally at ease.
+At the very beginning, a "feeling of non-physical heat in the upper back" reminiscent of [[psilocybe-semilanceata-eight-indole-compounds]] (like LSD or psilocybin), "which this ain't." Energy tremor is quite strong throughout, yet the body remains generally at ease.
 
 ### 32 mg -- Extended Duration
 Plateau at two hours with mild stomach queasiness, persisting at plateau for several more hours. Sleep finally achievable at the 18th hour. Even after sleeping and resuming normal activities the next day, complete baseline doesn't return until that evening. "A couple of days more for what is certainly complete repair. That is a lot of mileage for a small amount of material."
@@ -82,30 +82,9 @@ Synthesized from 2,3-xylenol via methylation to 2,3-dimethylanisole, oxidation t
 - The compound's psychotherapy potential is noted but the 30-hour duration makes therapeutic use impractical in most settings.
 - Milligram-accurate scales essential (20-35 mg active range).
 - See [[set-and-setting-framework]] is critical given the extreme duration.
-- See [legal context for jurisdictional status.
+- See [[pihkal-cautionary-note-and-legal-context]] for jurisdictional status.
 
 ## Practical Context
 2c G Pihkal Entry #27 Compound Profile is relevant to farming knowledge because it connects observation,
 site conditions, and management choices. Treat it as a working topic rather
 than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
-- [[psilocybin]]
-- [[psychedelic-harm-reduction-philosophy]]
-- [[powell-psilocybin-harm-reduction]]

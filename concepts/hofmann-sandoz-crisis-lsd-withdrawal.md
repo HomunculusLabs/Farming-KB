@@ -1,5 +1,5 @@
 ---
-title: "hofmann sandoz crisis lsd withdrawal and Withdrawal of LSD from Distribution"
+title: [[mckenna-food-gods-lsd-invention-hofmann-sandoz-psychedelic-era]] Crisis Lsd Withdrawal
 created: 2026-04-28
 tags: [lsd, sandoz, hofmann, drug-policy, history, pharmaceutical]
 date: 2026-04-25
@@ -25,7 +25,7 @@ Substances."
 The Sandoz statement acknowledged that more than twenty years had elapsed
 since Hofmann's discovery of LSD-25 in the Sandoz Laboratories. While
 the fundamental importance of this discovery could be assessed by its
-impact on modern psychiatric research, it had placed a heavy burden of
+impact on modern [[hofmann-lsd-psychiatric-research]], it had placed a heavy burden of
 responsibility on Sandoz as the owner of the product.
 
 ### The Problem of Commercial Exploitation
@@ -88,52 +88,3 @@ analogues of LSD with hallucinogenic properties as well as to
 For a while the distribution of LSD and psilocybin was stopped
 completely by Sandoz. Most countries subsequently proclaimed strict
 regulations concerning possession, distribution, and use of
-hallucinogens. Physicians, psychiatric clinics, and research institutes
-could again be supplied with LSD and psilocybin if they could produce a
-special permit from the respective national health authorities.
-
-### The NIMH Takes Over
-In the [[dmt-containing-plants-united-states-halpern]], the National Institute of Mental Health (NIMH)
-undertook the distribution of these agents to licensed research
-institutes, replacing the Sandoz free-distribution program.
-
-### Impact on Legitimate Research
-All these legislative and official precautions had little influence on
-LSD consumption in the drug scene, yet on the other hand hindered and
-continue to hinder medicinal-psychiatric use and LSD research in biology
-and neurology. Many researchers dreaded the red tape connected with the
-procurement of a license for the use of LSD.
-
-### The Reputation Problem
-The bad reputation of LSD, its depiction as an "insanity drug" and a
-"satanic invention," constituted a further reason why many doctors shunned
-use of LSD in their psychiatric practice. This stigma proved more damaging
-to legitimate research than to underground use.
-
-## The Decline of the LSD Boom
-
-In the course of subsequent years, the uproar of publicity about LSD
-quieted, and the consumption of LSD as an inebriant diminished, as far
-as could be concluded from the rare reports about accidents and other
-regrettable occurrences following LSD ingestion. The decrease of LSD
-accidents may not simply be due to a decline in consumption. Possibly
-recreational users, with time, became more aware of the particular
-effects and dangers of LSD and more cautious in their use.
-
-LSD, which had been considered in the Western world, above all in the
-United States, to be the number-one inebriant, relinquished this leading
-role to other substances such as hashish and the habituating, even
-physically destructive drugs like heroin and amphetamine. These
-substances, Hofmann noted, represented an alarming sociological and
-public health problem that overshadowed the LSD controversy.
-
-## The Delysid Program in Historical Context
-
-The Sandoz decision ended what had been one of the most remarkable
-chapters in pharmaceutical history. For nearly two decades, a major
-pharmaceutical company had distributed a powerful psychoactive substance
-free of charge to researchers worldwide, in the belief that its value to
-science and medicine outweighed commercial considerations. The
-[[hofmann-lsd-sandoz-research-program]]
-- [[hofmann-lsd-black-market-and-dangers]]
-- [[lsd-discovery-and-history]]

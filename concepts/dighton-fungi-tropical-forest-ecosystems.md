@@ -88,9 +88,3 @@ and functionally diverse, supporting the rapid decomposition rates and
 nutrient cycling that characterize these productive ecosystems.
 
 ## See Also
-
-- dighton fungi tropical forest ecosystems
-
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[dighton-fungal-litter-trapping-canopy-soil-formation]]
-- [[fungal-nutrient-cycling-mineral-transformations]]

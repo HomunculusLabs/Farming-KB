@@ -54,9 +54,9 @@ Seeds are brown, oval, approximately 1.5 cm long and 0.8 cm wide. They are hard 
 
 ## Distribution and Habitat
 
-*Enterolobium cyclocarpum* ranges from southern Mexico through Central America to northern South America (Colombia, Venezuela). It has been widely introduced throughout the tropics.
+*Enterolobium cyclocarpum* ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern [[guzman-psilocybin-mushrooms-south-america]] (Colombia, Venezuela). It has been widely introduced throughout the tropics.
 
-In its native range, it occurs from sea level to about 900 m elevation. It is most abundant in seasonally dry tropical forests but also thrives in moist tropical and subtropical zones.
+In its native range, it occurs from sea level to about 900 m elevation. It is most abundant in seasonally dry [[fungal-biodiversity-tropical-forests]] but also thrives in moist tropical and subtropical zones.
 
 The species is highly tolerant of a range of soil types, including sandy, clay, and limestone-derived soils. It performs best on well-drained, fertile sites with annual rainfall of 750–2,500 mm.
 
@@ -66,7 +66,7 @@ It is intolerant of frost and sustained temperatures below 5°C. Optimal growth 
 
 ## Ecology and Applications
 
-The tree forms **symbiotic relationships with rhizobia** (nitrogen-fixing bacteria) in root nodules, enriching soil fertility. This makes it valuable in agroforestry systems and silvopastoral arrangements.
+The tree forms **[[fungi-in-the-environment-symbiotic-relationships]] with rhizobia** (nitrogen-fixing bacteria) in root nodules, enriching soil fertility. This makes it valuable in agroforestry systems and silvopastoral arrangements.
 
 The sweet, fleshy pod pulp is eagerly consumed by livestock (cattle, horses, goats) and wildlife including deer, peccaries, and numerous bird species. Seeds pass through the digestive tract unharmed, aiding dispersal.
 
@@ -74,7 +74,7 @@ In silvopastoral systems, *E. cyclocarpum* provides shade for cattle, reducing h
 
 As a nitrogen-fixing legume, it contributes significantly to soil nitrogen pools. Leaf litter decomposes rapidly, recycling nutrients and improving soil [[hamilton-composting-and-organic-matter-management]].
 
-The broad canopy creates a favorable microclimate for understory crops and forage grasses. In some systems, it is intercropped with coffee, cacao, or fruit trees.
+The broad canopy creates a favorable microclimate for understory crops and forage grasses. In some systems, it is intercropped with coffee, cacao, or [[comparison-grafting-vs-budding-fruit-trees]].
 
 ## Cultivation and Uses
 
@@ -86,35 +86,4 @@ The broad canopy creates a favorable microclimate for understory crops and forag
 
 The wood is also used for boat building, crates, and plywood. Sapwood is susceptible to insect attack and decay.
 
-**Traditional uses:** The pod pulp is edible and sweet, consumed fresh by humans in some rural communities. Pods are also used as livestock feed, particularly during the dry season when other forage is scarce.
-
-Bark extracts have been used in traditional medicine as an astringent and for treating [[cannabis-for-skin-conditions-detailed]]. Infusions of the bark have also been used as a febrifuge in folk medicine.
-
-The tree has [[ethnomycology-cultural-significance-sacred-fungi]] in several Central American indigenous communities. It appears in pre-Columbian art and is associated with protection and shelter.
-
-**Ornamental value:** Widely planted as a shade and ornamental tree in parks, avenues, and urban landscapes throughout the neotropics. Its broad, symmetrical crown makes it an excellent specimen tree.
-
-In urban settings, the species is valued for rapid establishment and low maintenance requirements once established.
-
-## Conservation Status
-
-*Enterolobium cyclocarpum* is not currently considered threatened. It is listed as **Least Concern** on the IUCN Red List due to its wide distribution and abundance.
-
-However, in some parts of its native range, mature trees have been heavily harvested for timber. Selective logging of the largest individuals has reduced average tree size in some populations.
-
-Populations in agricultural landscapes are generally stable due to deliberate planting for shade. The species is widely cultivated throughout its range and beyond.
-
-Genetic erosion of wild populations is a concern in some areas where continuous harvesting of the best-formed trees may reduce genetic diversity.
-
-## See Also
-
-- [[erythrina-fusca]]
-- [[prosopis-juliflora]]
-- [[prosopis-glandulosa]]
-- [[swietenia-macrophylla]]
-- [[cedrela-odorata]]
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]
-- [[jacaranda-mimosifolia]]
-- [[dalbergia-sissoo]]
-- [[agroforestry]]
+**Traditional uses:** The pod pulp is edible and sweet, consumed fresh by humans in some rural communities. Pods are also used as [[livestock-feed-formulation]], particularly during the dry season when other forage is scarce.

@@ -26,7 +26,7 @@ sources:
 
 **Vietnam Black** is a rare pure sativa southeast-asian-mushroom-tourism-bali to landrace genetics
 
-Southeast Asian cannabis has a deep [[shroom-cultural-history-hippie-revolution-and-counterculture]]. Vietnamese landraces
+[[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cannabis has a deep [[shroom-cultural-history-hippie-revolution-and-counterculture]]. Vietnamese landraces
 were used traditionally in folk medicine, spiritual ceremonies, and hemp
 textile production. During the Vietnam War era (1955–1975), American
 soldiers encountered these strains and brought seeds back to the United
@@ -36,7 +36,7 @@ States, where they influenced early California breeding programs.
 
 Vietnam Black produces distinctive elongated, finger-like sativa buds:
 
-- **Color:** Deep forest green with dark undertones and occasional
+- **Color:** Deep [[trichoderma-forest-green-mold-guide]] with dark undertones and occasional
   purplish-black hues, especially in cool conditions — the source of
   the "Black" name
 - **Trichomes:** Exceptionally heavy coverage of translucent to
@@ -44,20 +44,20 @@ Vietnam Black produces distinctive elongated, finger-like sativa buds:
 - **Pistils:** Long, dark orange to reddish-brown pistils threading
   through loose floral clusters
 - **Structure:** Tall, open colas with pronounced internodal spacing;
-  buds are more wispy and airy than modern hybrids
+  buds are more wispy and airy than [[african-landrace-sativa-modern-hybrids]]
 - **Leaf:** Very narrow, elongated leaflets — classic [[oner-hawaiian-and-tropical-sativa-strains]]
   morphology adapted to high humidity environments
 
 ## Aroma and Flavor Profile
 
-Vietnam Black carries a complex, earthy terpene profile distinct from
+Vietnam Black carries a complex, earthy [[cannabis-terpene-profile]] distinct from
 modern hybrid strains:
 
 ### Primary Aromas
 - **Deep earth and damp soil** — rich, loamy, and organic
 - **Woody and forest-floor** — reminiscent of decaying hardwood and
   tropical undergrowth
-- **Spicy black pepper** — from elevated caryophyllene content
+- **Spicy [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]** — from elevated caryophyllene content
 - **Subtle incense and hashish** — background notes from rare sesquiterpenes
 
 ### Flavor
@@ -88,44 +88,3 @@ stimulating onset and appetite-suppressing effects.
 | **Pinene** | 0.2–0.5% | Alertness, memory, pine |
 | **Humulene** | 0.2–0.4% | Appetite suppression, woody |
 | **Limonene** | 0.1–0.3% | Mood elevation, citrus |
-| **Terpinolene** | 0.1–0.3% | Complex floral, antioxidant |
-| **Guaiol** | 0.05–0.1% | Rare woody sesquiterpene |
-
-The caryophyllene-dominant profile is unusual and gives Vietnam Black
-its signature black pepper aroma and strong anti-inflammatory properties.
-
-## Effects
-
-### Onset
-Effects begin within 5–10 minutes, building rapidly to peak intensity
-at 30–60 minutes. Duration is notably long: 4–7 hours for experienced
-users.
-
-### Experience Profile
-
-**Cerebral Effects:**
-- Intensely euphoric and mind-expanding from the first minutes
-- Strong psychedelic character — visual enhancement, altered perception,
-  synesthesia-like effects at moderate doses
-- Deep philosophical and creative thinking
-- Enhanced appreciation of music and art
-- Risk of overwhelming intensity at high doses for inexperienced users
-
-**Physical Effects:**
-- Energizing body buzz without sedation
-- Mild tremor or vibration sensation (common with potent sativas)
-- Appetite suppression (unusual — due to THCV and humulene)
-- Mild analgesic and anti-inflammatory properties
-
-### Medical Applications
-- **Treatment-resistant depression** — powerful mood elevation
-- **[[cannabis-chronic-fatigue-research]]** — sustained energy and motivation
-- **PTSD** — perspective-shifting cognitive effects
-- **Inflammation** — caryophyllene-driven anti-inflammatory activity
-- **ADHD** — enhanced focus and creative flow (anecdotal)
-
-### Negative Effects
-## See Also
-- [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]
-- [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
-- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]

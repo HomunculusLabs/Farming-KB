@@ -3,6 +3,7 @@ title: mollison-designers-design-methods-analysis and Site Analysis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 type: concept
 tags: [design]
@@ -87,19 +88,3 @@ Chart the flow of water across the site following topographical information. Thi
 Analytical graphic tool ranked 0-5 denoting the amount of human impact on an area.
 
 ### Zoning Ordinances
-
-Research local building and land-use codes before designing.
-
-## Sector Analysis Details
-
-Common sectors include fire hazard, summer wind (about 80 degrees wide), winter wind, noise sectors, summer sun (matching solar azimuth angles), winter sun, undesirable views, and desirable views. Use concentric rings for each sector to avoid visual overlap. Once complete, the sector analysis tells you where to place elements to block forces, allow access, or catch and harness them.
-
-## Related Pages
-
-- pdc-site-analysis-method
-- pdc-zone-analysis-guide
-- [[teaming-with-microbes-cover-crops-soil-health]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[cover-crops-soil-health]]
-- mollison-zone-and-sector-analysis
-- [[zone-sector-analysis-guide]]

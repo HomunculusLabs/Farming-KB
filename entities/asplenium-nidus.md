@@ -88,36 +88,3 @@ The fern is extensively used in the commercial floral and interiorscape industri
 In Polynesia, the fern has [[ethnomycology-cultural-significance-sacred-fungi]] and is sometimes used in traditional ceremonies and decorative arts. The broad fronds serve as natural platters for food presentation.
 
 Phytochemical analysis has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in A. nidus fronds, including flavonoids and phenolic acids. These compounds contribute to both the medicinal properties and the herbivore resistance observed in wild populations.
-
-## Cultivation
-
-Asplenium nidus is readily cultivated as a houseplant or garden specimen in frost-free climates. It requires warm temperatures, high humidity, and bright indirect light for optimal growth.
-
-A well-draining epiphytic potting mix containing bark, perlite, and peat is recommended for container cultivation. Standard potting soils retain too much moisture and promote root rot.
-
-Watering should maintain consistent moisture without waterlogging the root zone. The central rosette should be kept filled with water, mimicking the natural phytotelmic habitat.
-
-The fern benefits from regular applications of dilute [[jadam-liquid-fertilizer-nutritional-perspective]] during the growing season. Excessive fertilization causes frond tip burn and reduced aesthetic quality.
-
-Pests include scale insects, mealybugs, and spider mites, particularly on indoor specimens with low humidity. Systemic insecticides and increased air circulation help manage infestations.
-
-Propagation is primarily by spore, though division of large clumps is possible. Spore culture requires warm, humid conditions and typically produces sporophytes within 4–6 months.
-
-Several named cultivars are available in the horticultural trade. 'Crispy Wave' is a popular selection with highly undulate frond margins and compact rosette form.
-
-The species is increasingly used in green wall and vertical garden installations. Its bold architectural form and shade tolerance make it well suited to interior landscape design applications.
-
-## See Also
-
-- [[adiantum-capillus-veneris]]
-- [[nephrolepis-exaltata]]
-- [[pteris-vittata]]
-- [[cyrtomium-falcatum]]
-- [[dryopteris-filix-mas]]
-- [[polypodium-vulgare]]
-- [[blechnum-spicant]]
-- [[athyrium-filix-femina]]
-- [[dennstaedtia-punctilobula]]
-- [[osmundastrum-cinnamomeum]]
-
-- [[asplenium-scolopendrium]]

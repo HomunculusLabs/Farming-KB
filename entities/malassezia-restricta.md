@@ -88,13 +88,3 @@ Research has revealed significant strain-level variation within *M. restricta*:
 ## Economic Impact
 
 The economic significance of *Malassezia*-associated scalp conditions is considerable:
-
-- **Anti-Dandruff Market:** The global anti-dandruff shampoo market exceeds $3 billion USD annually, with active ingredients specifically targeting *Malassezia* (zinc pyrithione, ketoconazole, selenium sulfide, ciclopirox olamine) comprising the majority of therapeutic products
-- **Dermatological Consultations:** Seborrheic dermatitis accounts for an estimated 3 to 5% of dermatology outpatient visits, generating substantial healthcare costs
-- **Pharmaceutical Development:** The need for effective and safe anti-*Malassezia* agents drives ongoing pharmaceutical research and development investment
-
-## See Also
-
-- [[fungal-commensal-vertebrate-associations]]
-- [[biodiversity-yeast-diversity-ecology]]
-- [[gadd-fungal-biofilms-quorum-sensing]]

@@ -10,7 +10,7 @@ sources:
 ---
 # Myristicin
 Myristicin is a naturally occurring phenylpropene compound and the principal
-psychoactive constituent of nutmeg (Myristica fragrans), the spice derived
+psychoactive constituent of nutmeg ([[myristica-fragrans]]), the spice derived
 from the seed of the tropical evergreen nutmeg tree. It is also found in
 smaller quantities in parsley, dill, carrot, and several other common food
 plants. Myristicin is responsible for the characteristic intoxicating effects
@@ -21,7 +21,7 @@ recreationally as a readily available psychoactive, its effects are widely
 regarded as unpleasant, with a long onset time, prolonged duration, and high
 incidence of adverse physical effects. Myristicin is also a metabolic precursor
 to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), a psychedelic amphetamine
-first synthesized by Alexander Shulgin.
+first synthesized by [[alexander-shulgin]].
 ## Chemical Identity
 - **Chemical name:** 5-Allyl-1-methoxy-2,3-methylenedioxybenzene
 - **IUPAC name:** 1-Allyl-3-methoxy-4,5-methylenedioxybenzene
@@ -49,12 +49,12 @@ found in Myristica species:
   0.5–1.4% by weight (5–14 mg/g).
 - **Myristica argentea (papuan nutmeg):** Related species with comparable
   myristicin levels, used locally as a nutmeg substitute.
-- **Petroselinum crispum (parsley):** Present in parsley essential oil at
+- **[[petroselinum-crispum]] (parsley):** Present in parsley essential oil at
   1–5%, contributing to parsley's distinctive aroma.
-- **Anethum graveolens (dill):** Present in dill seed and herb [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+- **[[anethum-graveolens]] (dill):** Present in dill seed and herb [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
   at lower concentrations (0.1–0.5%).
-- **Daucus carota (carrot):** Trace amounts in carrot seed oil.
-- **Piper nigrum (black pepper):** Minor constituent of pepper essential oil,
+- **[[daucus-carota]] (carrot):** Trace amounts in carrot seed oil.
+- **[[piper-nigrum-entity]] (black pepper):** Minor constituent of pepper essential oil,
   typically below 0.1%.
 ## Pharmacology
 Myristicin exhibits a complex pharmacological profile combining hallucinogenic,
@@ -88,50 +88,3 @@ been documented since the 16th century:
   myristicin). Doses above 30 g significantly increase [[blesching-cannabis-safety-adverse-effects-evidence]]
   without proportional enhancement of desired effects.
 - **Onset:** 2–6 hours after oral ingestion, reflecting slow absorption and
-  metabolic activation. The delay is a major factor in accidental overdose,
-  as users often re-dose before effects manifest.
-- **Duration:** 12–48 hours, with residual aftereffects persisting up to
-  72 hours. The exceptionally long duration is one of the most unpleasant
-  aspects of nutmeg intoxication.
-- **Effects:** Described as deliriant rather than a true psychedelic. Users
-  report visual distortions (not true hallucinations), altered time
-  perception, confusion, dry mouth, red eyes, tachycardia, urinary retention,
-  and nausea. The experience is frequently dysphoric rather than euphoric.
-- **Aftereffects:** Lethargy, headache, and mild cognitive impairment may
-  persist for 1–3 days following intoxication.
-## Toxicology and Safety
-- **Acute toxicity:** Oral LD50 in rats: 1320 mg/kg. The [[cannabis-therapeutic-index-overview]]
-  is relatively narrow, with psychoactive doses approaching levels that
-  produce significant adverse effects.
-- **Hepatotoxicity:** Case reports of liver enzyme elevation and clinically
-  significant hepatotoxicity following large nutmeg ingestion. The mechanism
-  may involve CYP450 [[fungal-enzyme-induction-and-regulation]] or direct hepatocellular injury from
-  reactive metabolites.
-- **Neurotoxicity:** At high doses, myristicin produces tremor, ataxia,
-  seizures, and in rare cases, prolonged psychosis. Most cases resolve
-  within 24–72 hours with supportive care.
-- **[[cannabis-drug-interactions-and-contraindications]]:** The MAOI activity creates a risk of serotonin
-  syndrome when combined with SSRIs, SNRIs, or tramadol. Combination with
-  tyramine-rich foods may provoke hypertensive crisis, though the clinical
-  significance at typical nutmeg doses is debated.
-- **No documented fatalities** from nutmeg/myristicin alone, though cases
-  of severe toxicity requiring hospitalization are well documented.
-## Historical Context
-Nutmeg intoxication has a long history. Malay and Indonesian cultures used
-nutmeg recreationally for centuries before European contact. In 16th-century
-Europe, overuse occasionally produced deliriant effects described in medical
-texts. The psychoactive properties of myristicin were first identified in the
-early 20th century. Alexander Shulgin later demonstrated the metabolic
-conversion to MMDA. During the 1960s, nutmeg experienced periodic waves of
-recreational use as a legal psychoactive, always followed by consensus that
-the experience was unpleasant and not worth repeating.
-## See Also
-
-- myristicin entity
-
-- [[4-d-entity-pihkal]]
-- [[lsd-entity-tihkal]]
-- [[mescaline]]
-- Safrole
-- Elemicin
-- [[harmine-entity-tihkal]]

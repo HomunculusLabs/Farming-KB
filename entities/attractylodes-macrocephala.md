@@ -87,29 +87,3 @@ Charred Bai Zhu (Bai Zhu Tan) is prepared by stir-frying until the surface black
 ## Related Species
 
 Atractylodes lancea (Cang Zhu, 苍术) is the closest relative and most commonly confused species. Its rhizome is used for drying dampness and dispelling wind-cold, but lacks the spleen-tonifying properties of Bai Zhu.
-
-A. lancea contains higher levels of volatile oils (particularly atractylodin and β-eudesmol) and lower polysaccharide content compared to A. macrocephala. These chemical differences underpin their distinct therapeutic applications in TCM.
-
-A. japonica (Shi Zhu) is a Japanese species used in Kampo medicine under the name *So-jutsu*. It is chemically intermediate between A. macrocephala and A. lancea, containing both atractylenolides and significant volatile oil fractions.
-
-A. koreana is a Korean endemic species used locally as a substitute for Bai Zhu. It contains similar sesquiterpene lactones but has been less extensively studied pharmacologically.
-
-The genus Atractylodes has undergone significant taxonomic revision. Modern molecular phylogenetic studies confirm the monophyly of the genus and its placement within the subtribe Carlininae of the Cardueae tribe.
-
-## Quality Control
-
-The Chinese Pharmacopoeia specifies that dried Bai Zhu must contain not less than 0.10% atractylenolide III and 0.60% atractylenolide I as measured by HPLC. These markers serve as the primary [[aact-compost-quality-standards-ingham]] for commercial material.
-
-Polysaccharide content is another important quality parameter, typically ranging from 20–40% in dried rhizome. Water-soluble extract content must exceed 45%, and ethanol-soluble extract must exceed 10% according to pharmacopoeial standards.
-
-Adulteration with A. lancea rhizome has been reported in commercial markets, particularly when supply is limited. DNA barcoding using ITS and psbA-trnH regions has been developed for species authentication in traded materials.
-
-Geographic origin significantly affects chemical profile. Zhejiang-sourced material (known as "Zhe Bai Zhu") commands premium prices due to its higher atractylenolide content and superior organoleptic qualities compared to material from other provinces.
-
-## See Also
-
-- [[glycyrrhiza-uralensis]]
-- [[eleutherococcus-senticosus]]
-- [[angelica-sinensis]]
-- [[rhodiola-rosea]]
-- [[centella-asiatica]]

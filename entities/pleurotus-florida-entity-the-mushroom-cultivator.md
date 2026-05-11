@@ -9,7 +9,7 @@ sources: []
 ---
 # Pleurotus florida
 ## Taxonomy
-Pleurotus florida is a warm climate variety of Pleurotus ostreatus with a
+Pleurotus florida is a warm climate variety of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] with a
 complex and unsettled taxonomic history. The species is known by several names:
 - Pleurotus ostreatus (Jacq. ex Fr.) Kummer, Florida variety
 - Pleurotus ostreatus var. florida nom. prov. Eger
@@ -18,7 +18,7 @@ The genus name Pleurotus comes from the Greek "pleuro" meaning formed laterally
 or in a sideways position, referring to the lateral stem attachment to the cap.
 The epithet Florida refers to the locality where this mushroom was first
 collected.
-Dr. Rolf Singer places P. floridanus in Section Lentodiellum, characterized by
+Dr. [[rolf-singer]] places P. floridanus in Section Lentodiellum, characterized by
 metuloid pleurocystidia and mycelia that do not sclerotize. He assigns P.
 ostreatus to section Pleurotus, which lacks these features. Despite these
 differences, monokaryons from single [[mycelium]] is fast growing, ranging from rhizomorphic to linear. Its color
@@ -43,8 +43,8 @@ The Florida variety has a distinct advantage over P. ostreatus in that no cold
 shock is needed for pinhead formation. The period from initiation to first
 flush is only 10 days compared to 20 days for P. ostreatus. Its ability to
 fruit on a singular substrate, permeate straw rapidly while tolerating high
-carbon dioxide levels, and produce abundant crops quickly makes it an excellent
-species for small scale cultivation.
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] levels, and produce abundant crops quickly makes it an excellent
+species for [[cervantes-backyard-small-scale-cultivation]].
 Commercial spawn is available from Somycel as number 3025 and from the Swiss
 American Spawn Company as a low spore load strain called P 3. The American
 Type Culture Collection lists this mushroom under P. ostreatus as number 38538,
@@ -55,7 +55,7 @@ which is Block's original strain.
 ### Fruiting Substrates
 Cereal straw, normally wheat, balanced to 75% moisture content. The straw,
 chopped or whole, is pasteurized by submerging in a 160 degree F water bath
-for 20 to 30 minutes. An alternative method uses live steam pasteurization at
+for 20 to 30 minutes. An alternative method uses live [[growing-gourmet-phase-ii-steam-pasteurization]] at
 140 degrees F for 6 hours.
 In Japan, Pleurotus is grown on a mixture of hardwood sawdust and bran, four
 parts to one, at 65% moisture and a pH of 6.8 to 7.0. This mixture is
@@ -78,7 +78,7 @@ None needed, which simplifies cultivation considerably.
 - Carbon dioxide: Less than 600 ppm
 - Fresh air exchanges: 4 per hour
 - Light: Positive phototropism firmly established; 2,000 lux hours for 12
-  hours per day is most stimulatory. Grow lux type fluorescent lighting is
+  hours per day is most stimulatory. Grow lux type [[cervantes-compact-fluorescent-lighting]] is
   recommended, or diffuse natural light
 ### Cropping
 - Relative humidity: 85 to 92%
@@ -88,19 +88,3 @@ None needed, which simplifies cultivation considerably.
 - Fresh air exchanges: 4 to 6 per hour
 - Harvest stage: Directly before incurved margin expands to plane
 - Flushing interval: 10 days
-- Watering: Misting recommended to prevent cap cracking and primordia drying
-### Yield and Nutrition
-Average commercial yields approach a 1:1 ratio of fresh weight mushrooms per
-kilogram of dry weight straw. Moisture content is 91% water and 9% dry matter.
-Crude protein is 30.4% of dry weight, with 109 mg niacin per 100 g dry weight.
-## Interactions
-Of concern to cultivators is the abundant spore load, most noticeable in
-enclosed environments. Some people suffer allergic reactions from Pleurotus
-spores. A small fraction of consumers experience stomach upset, so small
-portions are recommended when first eating these mushrooms.
-The Florida variety is recommended for cultivation from late spring through
-early fall, whereas P. ostreatus suits winter cultivation, allowing growers to
-extend production by alternating between varieties.
-## See Also
-- [[flammulina-velutipes]]
-- [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]

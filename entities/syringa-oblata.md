@@ -88,33 +88,3 @@ The species is widely used in urban landscaping due to its tolerance of pollutio
 The essential oil of *Syringa oblata* has been characterized chemically, with major constituents including lilac aldehyde, lilac alcohol, and various terpenoids. These compounds contribute to the distinctive floral fragrance.
 
 Extracts from leaves and flowers have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities in laboratory studies. Phenolic compounds including verbascoside and syringin are among the bioactive constituents identified.
-
-In traditional Chinese medicine, the bark and leaves of *S. oblata* have been used to treat inflammatory conditions and skin disorders. Preparations are applied externally or decocted for topical use.
-
-The flowers are occasionally used in culinary applications, particularly for flavoring teas and confections. The fragrant blossoms are also used in the production of perfumes and aromatic products.
-
-Wood is hard, fine-grained, and takes a good polish, making it suitable for small turned objects and tool handles. It has been used traditionally for carving and inlaid woodwork in northern China.
-
-## History and Hybridization
-
-*Syringa oblata* has been cultivated in Chinese gardens for centuries, with references to its cultivation appearing in classical horticultural texts. Its early bloom time made it a valued harbinger of spring in temperate Chinese gardens.
-
-The species was first introduced to European horticulture in the 1880s through plant collections made in northern China. The Arnold Arboretum received one of the earliest documented introductions in 1889.
-
-Early lilac is a key parent in the development of Sino-Himalayan lilac hybrids, created by crossing *S. oblata* with *S. vulgaris*. The Preston lilac series (*S. × prestoniae*) also incorporates *S. oblata* genetics.
-
-Notable cultivars derived from *S. oblata* include 'Cheyenne' (deep purple), 'Mount Baker' (white), and 'Red Pixie' (reddish-pink). These selections retain the early bloom and hardiness of the parent species.
-
-The species contributed significantly to the expansion of the lilac color palette beyond the traditional purple and white of *S. vulgaris*. Pink, magenta, and bicolor forms all trace partly to *S. oblata* parentage.
-
-Hybrid lilacs derived from *S. oblata* are now among the most widely planted lilacs in cold-climate regions. Their increased cold tolerance and disease resistance have made them preferred over pure *S. vulgaris* in USDA zones 2 and 3.
-
-## See Also
-
-- [[syringa-vulgaris]]
-- [[forsythia-suspensa]]
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]
-- [[jasminum-officinale]]
-- [[olea-europaea]]
-- [[vitis-vinifera]]

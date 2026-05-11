@@ -1,137 +1,90 @@
----
-title: Permaculture Zone and Sector Planning
-created: 2026-05-08
-updated: 2026-05-08
-type: concept
-tags:
-  - permaculture
-  - zone-planning
-  - sector-analysis
-  - site-design
-  - holmgren
-sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
----
 # Permaculture Zone and Sector Planning
 
-Zone and sector planning is the most widely understood and applied permaculture
-design concept. Holmgren describes it as a "meta-analysis" extending from
-household garden to a global framework for understanding influence and
-responsibility. The zone concept creates a frequency-of-use gradient from the
-house outward; the sector concept maps external energetic forces that shape the
-site. Together they allow designers to place every element where it functions
-most efficiently with minimum energy expenditure.
+Zone and sector planning is a foundational methodology in [[permaculture-design]] that
+organizes the placement of elements in a landscape based on frequency of human use and
+the flow of natural energies across a site. Efficient systems place high-maintenance
+elements closest to the center of activity and work outward toward elements requiring
+less attention. This approach ensures that a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is practical to manage
+and responsive to natural forces shaping the landscape.
 
-## Zone Planning: The Frequency-of-Use Gradient
+## The Zone System: Organizing by Frequency of Use
 
-Zones are numbered 0 through 5, moving outward from the centre of human
-activity. They are partly physical and partly conceptual, working from a core
-of integration to a wider domain of uncertainty. The strategies effective in
-one zone will not necessarily work in another. Zone planning places elements
-according to how often they need attention — high-frequency elements close,
-low-frequency elements further away.
+The zone system divides a property into concentric rings radiating outward from the
+center of human activity — typically the home. The things you visit most often are
+placed closest to where you live, while elements requiring less frequent attention are
+placed farther away. This minimizes wasted time and energy and ensures intensive
+elements receive the attention they need.
 
-**Zone 0: The House** — The centre of activity where people live, cook, and
-work. Energy-efficient design, [[comparison-passive-solar-vs-earth-sheltered]] orientation, roof water
-harvesting, and indoor food processing belong here. In Holmgren's meta-
-analysis, Zone 0 represents the personal self — the core of identity and
-daily habits from which all design radiates.
+Zone 0 is the home itself — the house, indoor spaces, and the people who inhabit them.
+Energy systems, water harvesting, [[passive-solar-design]], and indoor food production all
+fall within Zone 0. The home is where design begins: understanding household use of
+energy, water, and food informs placement of every element beyond.
 
-**Zone 1: The Intensive Garden** — Visited daily or more often. Contains
-elements requiring frequent attention: [[holzer-medicinal-and-culinary-herbs-compendium]], salad greens, vegetable
-beds, seedling nurseries, and small poultry houses. At Melliodora, the kitchen
-garden, greenhouse, and goat yard occupy Zone 1. Soil fertility is highest
-here due to concentrated composting and mulching.
+Zone 1 is the area visited daily or multiple times per day. Intensively managed
+elements are placed here: kitchen gardens, salad greens, [[culinary-herbs-cultivation-and-kitchen-garden-guide]],
+[[plant-propagation-techniques-for-permaculture]], small greenhouses,
+worm farms, and composting systems. A well-designed Zone 1 allows harvesting a complete
+salad or gathering herbs within seconds of stepping outside.
 
-**Zone 2: The Productive Orchard** — Visited regularly but not daily. Contains
-fruit and nut trees, berry bushes, larger poultry runs, beehives, and staple
-vegetable beds. At Melliodora, deciduous fruit trees are interplanted with
-evergreen tagasaste and wattles that fix nitrogen, attract bees, and provide
-mulch and fodder. Grazing animals recycle nutrients beneath trees.
+Zone 2 is visited daily or several times weekly and contains slightly less intensive
+elements: larger [[maintaining-organic-matter-in-vegetable-gardens]], fruit trees needing regular care, berry bushes,
+poultry houses, small ponds, and [[nitrogen-fixing-trees-in-agroforestry]] used as chop-and-drop mulch sources. Much of the household's food
+production happens in Zone 2.
 
-**Zone 3: The Broadacre Farm** — Visited weekly or seasonally. Contains main
-crop production, grazing systems, and commercial orchards designed for lower
-maintenance. Pastures, field crops, and managed woodlots use biological cycling
-through livestock and perennial plantings rather than intensive composting.
+Zone 3 is visited weekly or seasonally and contains larger-scale production: main crop
+orchards, broad-acre vegetables or grains, larger livestock paddocks. Elements here are
+designed to be self-maintaining once established. [[pioneer-species-in-permaculture-design]] may prepare soil and provide shelter for eventual productive
+plantings in Zone 3.
 
-**Zone 4: The Forage and Forestry Zone** — Visited occasionally for specific
-harvests. Managed forests, foraging areas, and extensive grazing provide
-timber, firewood, wild foods, and watershed protection. In traditional
-societies, use of forests and rangelands in Zone 4 was strictly regulated by
-community governance.
+Zone 4 is a semi-wild area visited occasionally for foraging, timber, or grazing.
+Managed woodlots, agroforestry systems, and pioneer tree plantations for future
+firewood occupy this zone. It requires minimal management and buffers intensively
+managed inner zones from the wilderness beyond.
 
-**Zone 5: The Wilderness Zone** — Visited rarely. Unmanaged land left to
-natural processes — providing wildlife habitat, genetic diversity, and a
-reference for understanding [[fukuoka-natural-ecosystem-food-chain-interconnection]] dynamics. Traditional societies
-always had sacred wild areas. Zone 5 is insurance: it preserves ecological
-processes that ultimately sustain all other zones.
+Zone 5 is the wilderness — minimal human management serving as a reference ecosystem,
+[[hemenway-backyard-wildlife-habitat]], and genetic reservoir. It provides pest predator habitat, pollinator
+corridors, and water catchment protection. Even on small properties, some Zone 5 is
+recommended. Studying natural [[dighton-mycorrhizal-diversity-ecosystem-function]] here provides insights applicable to
+managed zones.
 
-## Scales of Production
+## Sector Planning: Working with Natural Energies
 
-Zone boundaries represent orders of magnitude in functional scale rather than
-rigid rings. Predators typically occupy 10 to 100 times more territory than
-their prey — similar order-of-magnitude jumps apply in human system design.
-The gradient from intensive garden to wilderness reflects a gradient of energy
-input and management intensity. Understanding which elements belong at which
-scale is fundamental to efficient design, especially during energy descent when
-available management energy will progressively decline.
+While zones organize by human use, sectors map natural energies flowing across a site.
+Sector analysis identifies directions from which sun, wind, fire, water, noise,
+pollution, and wildlife approach. The designer decides for each sector whether to block,
+channel, or welcome that energy flow.
 
-## Sector Analysis: Mapping External Forces
+Sun sectors are critical where maximizing winter sun and excluding summer sun improves
+growing conditions and reduces energy costs. Deciduous trees provide summer shade while
+allowing winter sun penetration. Solar panels, greenhouses, and heat-absorbing
+structures are placed for maximum year-round exposure.
 
-Sectors represent external energetic forces and material flows that inform,
-support, constrain, and potentially damage a design. Unlike zones (organised
-from centre outward), sectors are directional — energies from particular
-directions. The most commonly mapped sectors include:
+Wind sectors identify prevailing winds, cold winter winds, and hot summer winds.
+Windbreaks of trees and shrubs block or filter undesirable winds while allowing
+beneficial breezes. A well-designed windbreak reduces wind speed for ten to fifteen
+times its height, creating sheltered microclimate for crops, livestock, and buildings.
 
-**Sun sector** — The path of the sun determines passive solar design, shade
-patterns, and growing microclimates. At Melliodora, north-facing slopes (in
-the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]) receive maximum sun exposure.
+Fire sectors are vital in fire-prone regions. Strategies include firebreaks, fire-
+resistant species, managed fuel loads, and adequate water access. Zone planning
+interacts with fire sectors: less fire-resistant elements are placed away from risk,
+and firebreaks double as access tracks or grazing lanes.
 
-**Wind sector** — Prevailing wind directions inform windbreak placement and
-building orientation. Cold winter winds are deflected with dense shelterbelts;
-summer breezes are channelled for cooling ventilation.
+Water sectors map surface runoff and subsurface flows. Designs slow, spread, and sink
+water using swales, dams, contour planting, and mulch. Priority water management
+elements are placed uphill so water benefits each zone as it flows down.
 
-**Fire sector** — In fire-prone landscapes, the direction of greatest risk
-determines fuel breaks, fire-resistant vegetation, and building setbacks. At
-Melliodora, deciduous trees serve as green firebreaks near the house.
+Wildlife sectors identify corridors for beneficial and problematic animals. Strategic
+planting channels wildlife, creates predator habitat, and establishes pollinator
+corridors. Hedgerows, ponds, and native vegetation patches serve as stepping stones
+connecting larger habitat areas.
 
-**Water sector** — Surface water and groundwater flow determines swale
-placement, dam locations, and drainage. Water harvesting begins at the highest
-point and cascades through the zones. At Melliodora, contour landform directs
-runoff into dams and swales that recharge soil and supply gravity-fed
-irrigation.
+## Edge Effect: Maximizing Productivity at Boundaries
 
-**Wildlife sector** — Wildlife corridors and foraging routes are identified and
-protected. Wildlife provides pest control, pollination, and soil aeration as
-[[biodiversity-of-fungi-ecosystem-services-agriculture]] that permaculture designs deliberately harness.
+The edge effect observes that boundaries between different ecosystems are typically more
+productive and diverse than either adjacent area. Where pond meets land, forest meets
+grassland, or garden meets pathway, mixed conditions create niches supporting wider
+species range. Permaculture design deliberately maximizes edge by increasing boundary
+length and complexity.
 
-**Noise and pollution sector** — External sources of noise, dust, or chemical
-drift from roads or industry inform buffer planting and building placement.
-
-## Overlay Mapping
-
-Zone and sector analyses are overlaid on a single base map to reveal optimal
-element placement. An element goes where its zone requirements intersect
-favourably with sector influences. A greenhouse belongs in Zone 1 on the sun-
-facing side sheltered from cold wind. A dam belongs where water naturally flows
-at the Zone 3–4 boundary. A windbreak goes along the prevailing wind sector at
-the Zone 2–3 boundary. This overlay process is iterative — each element's
-placement affects and is affected by every other. The spider web icon for
-Principle 7 ([[permaculture-principle-design-from-patterns-to-details]] to Details) evokes this: radial lines
-represent sectors, concentric rings represent zones, and details always vary.
-
-## Meta-Analysis: Zones of Social Influence
-
-Holmgren extends zones beyond site design into a social meta-analysis: personal
-self (Zone 0), household (Zone 1), local community (Zone 2), bioregional
-networks (Zone 3), national systems (Zone 4), and global processes (Zone 5).
-Sectors in this framework include economic forces, cultural movements, climate
-change, and geopolitics. The greatest ethical concern and practical power is
-focused close to the centre, helping practitioners act effectively at the
-appropriate scale.
-
-## See Also
-- [[natfarm-zone-sector-permaculture-planning]]
-- [[gaias-garden-zone-and-sector-garden-layout]]
-- [[permaculture-plants-food-forest-ground-covers-bamboos]]
-- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+A straight-edged pond is less productive than one with an undulating shoreline. A wavy
+garden bed edge provides more growing area than a rectangular bed of the same area.

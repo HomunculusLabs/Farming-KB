@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -46,7 +47,7 @@ sinsemilla bud.
 
 Once the ovule has been fertilized by male pollen, rapid calyx
 formation and [[cannabis-glandular-trichome-types-resin-production-clarke]] slow, and seed growth starts. This
-shifts the plant's energy away from resin production and into seed
+shifts the plant's energy away from [[cannabis-resin-production-and-quality-traits-clarke]] and into seed
 production. Therefore, removing males ensures maximum resin and THC
 output.
 
@@ -55,7 +56,7 @@ output.
 Make any female marijuana sinsemilla by removing male plants as soon as
 they are identified. Removing males virtually guarantees that male
 pollen will not fertilize succulent female pistils. Unpollinated female
-plants continue to flower until calyx formation and resin production
+plants continue to flower until calyx formation and [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]]
 peak out, six to ten weeks after turning the lights to 12 hours.
 
 During six to ten weeks of flowering, calyxes develop and swell along
@@ -87,20 +88,3 @@ cannabis flowers for six to ten weeks or longer. This controlled
 environment makes it easier to ensure pure sinsemilla by eliminating
 male pollen sources entirely. With a vegetative room illuminated 18-24
 hours a day and a flowering room with 12-hour days and 12-hour nights,
-growers crank out a crop of outstanding sinsemilla buds every six to
-ten weeks all year long.
-
-## Sinsemilla vs. Seeded Bud
-
-Seedless cannabis, or sinsemilla, is sought by cultivators who wish to
-produce seedless cannabis for consumption, just as seedless grapes or
-seedless watermelon are preferred by consumers. The energy the plant
-diverts to [[cervantes-seed-production-storage]] in pollinated flowers is instead channeled
-into additional resin gland production in sinsemilla flowers, resulting
-in greater potency and more desirable sensory characteristics.
-
-## See Also
-
-- [[cervantes-hermaphrodism-intersexuality]]
-- [[cervantes-harvest-timing-trichome-ripeness]]
-- [[cervantes-pruning-training]]

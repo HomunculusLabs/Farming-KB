@@ -11,7 +11,7 @@ tags: [soil-science, microbiology, growth-regulators, humus, decomposition, fung
 
 ## Overview
 
-Dr. Elaine Ingham's work reveals two interconnected biological processes that are fundamental to understanding how [[aact-applications-guide-ingham-[[ingham-bacteria-fungi-succession-humus-formation]]]] supports plant growth: the production of natural growth regulators by soil microorganisms, and the sequential bacteria-then-fungi cycle that creates stable humus. Together, these processes explain how biological soil management produces vigorous, healthy plants without reliance on synthetic inputs.
+Dr. Elaine Ingham's work reveals two interconnected biological processes that are fundamental to understanding how [[ingham-bacteria-fungi-succession-humus-formation]] supports plant growth: the production of natural growth regulators by soil microorganisms, and the sequential bacteria-then-fungi cycle that creates stable humus. Together, these processes explain how biological soil management produces vigorous, healthy plants without reliance on synthetic inputs.
 
 ## Natural Growth Regulators
 
@@ -88,38 +88,3 @@ AACT can be used to inoculate root zones with the organisms that produce natural
 
 - Apply at transplanting to stimulate root initiation
 - Use as a root dip for bare-root plants
-- Drench soil around established plants to boost root-zone biology
-- Time applications to coincide with periods of active root growth
-
-### Building Humus Through Biological Management
-
-AACT supports the humus-building cycle by:
-
-1. Introducing diverse bacteria and fungi that can decompose organic matter
-2. Delivering protozoa and nematodes that cycle nutrients through the foodweb
-3. Providing food resources that sustain microbial activity between compost applications
-4. Supporting mycorrhizal fungi that contribute to humus through glomalin production
-
-### The Complementarity of Compost and Tea
-
-Ingham notes that compost has more food resources than compost tea, but tea is easier to transport and apply. The feeding drip approach works well in summer, though it is not needed during cooler temperatures. The ideal program combines:
-- Compost for long-term food resources and organism diversity
-- AACT for rapid inoculation and foliar protection
-- Mulch for ongoing fungal feeding and moisture conservation
-
-### Disease Suppression Connection
-
-The humus-building cycle also contributes to disease suppression. As fungi dominate and produce humic acids, the soil environment becomes less favorable for pathogenic organisms. Well-aggregated soils with high humus content support diverse microbial communities that outcompete pathogens through competitive exclusion, antibiosis, and predation. This is another reason why the bacteria-then-fungi succession matters: the final fungal-dominated state is the most disease-suppressive condition for most agricultural soils.
-
-## Practical Implications
-
-For growers working with AACT systems:
-
-- The goal is not to add growth hormones directly, but to establish the microbial community that produces them
-- Compost tea repairs damage from synthetic inputs by reintroducing the organisms that were harmed
-- The bacteria-then-fungi cycle means that patience during the early bacterial phase leads to better fungal humus production later
-- Monitoring the bacterial-to-fungal ratio in both compost and tea helps ensure the right succession is occurring
-
-## Summary
-
-Natural growth regulators and the bacteria-fungi humus cycle represent two of the most important mechanisms by which AACT improves plant growth and soil health. Growth regulators produced by root-zone microbes stimulate root development and plant vigor without the risks of synthetic hormones. The sequential decomposition cycle—bacteria first, then fungi—creates the stable humus that is the foundation of long-term soil fertility. AACT delivers both the organisms and the food resources needed to support these critical biological processes.

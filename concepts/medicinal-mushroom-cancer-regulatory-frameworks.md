@@ -88,24 +88,3 @@ European regulation of mushroom-derived products varies significantly by member 
 - **CE marking:** Medical devices incorporating mushroom-derived components require CE marking under applicable directives
 
 ## Clinical Evidence Requirements
-
-The level of clinical evidence required varies dramatically by regulatory pathway:
-
-| Regulatory Pathway | Clinical Evidence Required | Typical Cost | Time to Market |
-|---|---|---|---|
-| Pharmaceutical drug (FDA/EMA) | Phase I-III clinical trials | $500M-2B+ | 10-15 years |
-| Pharmaceutical drug (Japan/China) | Modified clinical requirements | $50-200M | 5-10 years |
-| Traditional herbal registration | Traditional use + safety data | $1-5M | 2-4 years |
-| Dietary supplement (DSHEA) | Safety documentation only | $100K-1M | 6-18 months |
-| Functional food | Safety + limited efficacy | $500K-5M | 2-3 years |
-
-## Challenges in Mushroom Product Regulation
-
-Several unique challenges complicate the regulatory pathway:
-
-- **Chemical complexity:** Mushroom extracts contain hundreds of bioactive compounds, making standardization difficult. Beta-glucans, triterpenes, and other active constituents vary significantly based on species, strain, cultivation, and processing.
-- **Batch consistency:** Natural variability in fungal metabolism means product batches may differ in active compound profiles. This is a particular concern for [[medicinal-mushroom-immune-modulation]] products where immunological activity depends on specific polysaccharide structures.
-- **Intellectual property:** Natural products cannot be patented in unmodified form, reducing financial incentive for pharmaceutical development. Companies must rely on process patents or proprietary formulations.
-- **Consumer confusion:** Products sold across multiple regulatory categories (drug, supplement, food) create confusion about appropriate use, dosing, and expected benefits.
-
-The evolving regulatory landscape continues to present both opportunities and obstacles for bringing evidence-based mushroom-derived cancer products to patients worldwide.

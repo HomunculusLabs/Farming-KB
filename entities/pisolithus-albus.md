@@ -11,10 +11,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Chambers, S.M., Liu, G. & Cairney, J.W.G. (2000). "Isolates of Pisolithus from eastern Australia show a high degree of genetic variability." Mycological Research, 104, 1301-1307.
-  - Martin, F., Delaruelle, C. & Ivory, M.H. (1998). "Genetic variability in intercontinental populations of the ectomycorrhizal fungus Pisolithus tinctorius." New Phytologist, 138, 359-368.
+  - Martin, F., Delaruelle, C. & Ivory, M.H. (1998). "Genetic variability in intercontinental populations of the ectomycorrhizal fungus [[pisolithus-tinctorius]]." New Phytologist, 138, 359-368.
   - Anderson, I.C., Chambers, S.M. & Cairney, J.W.G. (2001). "Molecular determination of the life history of Pisolithus albus and P. tinctorius." Mycological Research, 105, 1105-1110.
-  - Dell, B., Malajczuk, N. & Grove, T.S. (2002). "Ectomycorrhizal associations of Australian plants." In: Symbiotic Fungi. Berlin: Springer.
-  - Watling, R. (2006). "Mycorrhizas in tropical forests." In: Fungal Ecology. Springer.
+  - Dell, B., Malajczuk, N. & Grove, T.S. (2002). "[[ectomycorrhizal-associations]] of Australian plants." In: Symbiotic Fungi. Berlin: Springer.
+  - Watling, R. (2006). "Mycorrhizas in [[fungal-biodiversity-tropical-forests]]." In: Fungal Ecology. Springer.
 created: 2026-04-28
 ---
 
@@ -53,7 +53,7 @@ Basidiospores are spherical to broadly ellipsoid, 8–12 µm in diameter, orname
 
 ## Distribution and Habitat
 
-Originally described from Australia, *P. albus* is now known from Southeast Asia, the Pacific Islands, East Africa, and parts of South America where eucalypts have been introduced.
+Originally described from Australia, *P. albus* is now known from Southeast Asia, the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], East Africa, and parts of [[guzman-psilocybin-mushrooms-south-america]] where eucalypts have been introduced.
 
 In native Australian forests, it associates with *Eucalyptus*, *Corymbia*, and *Allocasuarina* species across a wide climatic range from tropical north to temperate south.
 
@@ -67,7 +67,7 @@ The species tolerates acidic soils (pH 3.5–6.0), low [[ph-and-nutrient-availab
 
 - **Myrtaceae:** *Eucalyptus* spp., *Corymbia* spp., *Melaleuca* spp.
 - **Fabaceae:** *Acacia* spp., *Afzelia* spp., *Intsia* spp.
-- **Dipterocarpaceae:** various Southeast Asian dipterocarp genera
+- **Dipterocarpaceae:** various [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] dipterocarp genera
 - **Pinaceae:** *Pinus* spp. (in introduced plantations)
 - **Fagaceae:** *Castanea*, *Quercus* spp. (limited compatibility)
 
@@ -87,37 +87,3 @@ Inoculation with *P. albus* significantly improves seedling survival and growth 
 - **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]:** Enhances tree establishment in reforestation programs designed for carbon credits
 
 Spore inoculum is produced commercially by collecting mature basidiocarps and preparing spore slurries or peat-based inoculum for nursery application.
-
-The species has shown particular value in rehabilitation of bauxite and gold mine tailings in Australia and Brazil, where few other mycorrhizal fungi tolerate the substrate conditions.
-
-## Permaculture Relevance
-
-In permaculture design, *P. albus* is relevant as a **pioneer soil-builder** in degraded landscapes:
-
-- Establishes [[dighton-mycorrhizal-networks-carbon-transfer]] that persist even after the host tree is removed
-- Improves soil aggregation and water-holding capacity through glomalin production
-- Creates favorable conditions for succession by other ectomycorrhizal and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi
-- Edible basidiocarps (when young, before spore maturation) — used as a food source by Aboriginal Australians
-
-## Related Species
-
-- **Pisolithus tinctorius** — [[growing-gourmet-north-american-reishi-species]] and European counterpart; historically confused with *P. albus*
-- **Pisolithus arhizus** — Mediterranean species; used as a dye fungus (hence "tinctorius")
-- **Pisolithus microcarpus** — small-fruited Australian species associated with *Allocasuarina*
-- **Scleroderma citrinum** — similar habit; powdery gleba without peridioles; poison risk
-
-## Cultural and Ethnobotanical Notes
-
-Aboriginal Australians consumed the young, firm basidiocarps of *Pisolithus* before spore maturation, roasting them on coals. The mature peridioles were historically used as a pigment source, producing yellow-brown to ochre dyes.
-
-In Southeast Asia, local communities have traditionally recognized the association between pisolithus fruiting bodies and healthy tree growth, using the presence of basidiocarps as indicators of suitable sites for shifting cultivation.
-
-The species name "albus" (white) refers to the pale peridium of young specimens, which darkens to brown with age.
-
-## See Also
-
-- [[pisolithus-tinctorius]]
-- [[ectomycorrhizal-fungi]]
-- [[holzer-reforestation-after-fire]]
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]]
-- mine site rehabilitation

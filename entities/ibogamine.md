@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Ibogamine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** and related Apocynaceae species, including *Voacanga africana* and *Tabernaemontana divaricata*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
+**Ibogamine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** and related Apocynaceae species, including *[[voacanga-africana]]* and *[[tabernaemontana-divaricata]]*. It is a close structural relative of ibogaine, the principal psychoactive alkaloid of the iboga plant.
 
 Ibogamine is classified as a tryptamine derivative with a complex pentacyclic structure. It is one of at least 12 iboga-type alkaloids identified in *T. iboga*, occurring at lower concentrations than ibogaine or voacangine.
 
@@ -42,11 +42,11 @@ Ibogamine's pharmacological profile overlaps substantially with ibogaine but sho
 
 **Serotonin system:** Ibogamine acts as a serotonin reuptake inhibitor (SRI) and binds to 5-HT₂A and 5-HT₂C receptors. Its affinity for 5-HT₂A is lower than ibogaine's, likely due to the absence of the methoxy group.
 
-**Opioid system:** Ibogamine binds to mu (μ), kappa (κ), and delta (δ) opioid receptors with moderate affinity. It acts as a kappa opioid receptor agonist, which may contribute to its anti-addictive potential.
+**Opioid system:** Ibogamine binds to mu (μ), kappa (κ), and delta (δ) opioid receptors with moderate affinity. It acts as [[salvinorin-a-kappa-opioid-receptor-pharmacology]] receptor agonist, which may contribute to its anti-addictive potential.
 
 **NMDA receptors:** Like ibogaine, ibogamine shows moderate antagonism at NMDA glutamate receptors. This activity is thought to play a role in disrupting addictive neural pathways.
 
-**Dopamine system:** Ibogamine displays weak dopamine reuptake inhibition and minimal direct dopamine receptor binding. Its dopaminergic effects are less pronounced than ibogaine's.
+**Dopamine system:** Ibogamine displays weak dopamine reuptake inhibition and minimal direct dopamine [[beta-glucan-receptor-binding]]. Its dopaminergic effects are less pronounced than ibogaine's.
 
 **Sodium channels:** Both ibogaine and ibogamine block cardiac hERG potassium channels, a property that raises cardiac safety concerns at higher doses.
 
@@ -60,7 +60,7 @@ No established human dosage range exists. In animal studies, effective doses are
 
 ## Occurrence in Nature
 
-Ibogamine occurs in the root bark of *Tabernanthe iboga* at concentrations of approximately 0.1–0.5% dry weight, making it a minor alkaloid relative to ibogaine (1–6%) and voacangine (0.5–1.5%).
+Ibogamine occurs in the root bark of *[[plants-of-the-gods-tabernanthe-iboga]]* at concentrations of approximately 0.1–0.5% dry weight, making it a minor alkaloid relative to ibogaine (1–6%) and voacangine (0.5–1.5%).
 
 It is also found in *Voacanga africana* root bark, *Tabernaemontana divaricata*, and *Ervatamia orientalis*. In *V. africana*, ibogamine occurs at roughly 0.05–0.2% dry weight.
 
@@ -78,7 +78,7 @@ Ibogamine sits within a family of closely related iboga alkaloids. **Ibogaine** 
 
 **Voacangine** is the 12-methoxy derivative of ibogamine's isomer tabersonine and serves as a common precursor for ibogaine semi-synthesis. **Ibogaine** can be produced from voacangine through demethylation and rearrangement.
 
-**Noribogaine** (12-hydroxyibogamine) is the primary active metabolite of ibogaine, with a longer half-life and significant contribution to ibogaine's prolonged therapeutic effects. Other related alkaloids include tabernanthine, coronaridine, and iboluteine.
+**Noribogaine** (12-hydroxyibogamine) is the primary active metabolite of ibogaine, with a longer half-life and significant contribution to ibogaine's prolonged [[cbd-therapeutic-effects]]. Other related alkaloids include tabernanthine, coronaridine, and iboluteine.
 
 ## Biosynthesis
 
@@ -87,34 +87,3 @@ The biosynthesis of ibogamine in *Tabernanthe iboga* follows the monoterpenoid i
 These precursors condense to form strictosidine, the universal precursor to all monoterpenoid indole alkaloids. Strictosidine undergoes a series of enzymatic transformations including hydrolysis, decarboxylation, and ring closures to produce the iboga skeleton.
 
 The specific enzymatic steps that differentiate ibogamine from ibogaine involve the absence of O-methylation at the C-12 position of the indole ring. In ibogaine biosynthesis, a specific O-methyltransferase adds the methoxy group, but this step is either absent or bypassed in ibogamine production.
-
-Understanding this pathway has practical significance for metabolic engineering efforts aimed at producing iboga alkaloids in microbial or plant cell culture systems. Voacangine is often the preferred fermentation target because it can be chemically converted to ibogaine.
-
-## History and Research Context
-
-Ibogamine was first isolated from *Tabernanthe iboga* root bark in the early 20th century, alongside ibogaine and other iboga alkaloids. The initial phytochemical work was conducted by French and Belgian researchers studying the pharmacology of iboga preparations used in Central African spiritual practices.
-
-Despite its early discovery, ibogamine has remained overshadowed by ibogaine in research attention. Most published studies on iboga alkaloids focus exclusively on ibogaine and noribogaine, leaving ibogamine's pharmacology incompletely characterized.
-
-The 1990s saw renewed interest in ibogaine as a potential anti-addiction treatment, spurred by anecdotal reports and the work of researchers like Deborah Mash and Stanley Glick. This research boom largely bypassed ibogamine, though some comparative studies included it as a reference compound.
-
-Current research gaps include a lack of human pharmacokinetic data, no controlled [[mushroom-cancer-clinical-trials-overview]], and limited receptor binding characterization. Ibogamine's primary value in research is as a comparative tool for understanding structure-activity relationships within the iboga alkaloid family.
-
-## Safety and Toxicology
-
-The toxicological profile of ibogamine is not well characterized in humans. Animal studies suggest it shares the cardiac safety concerns of ibogaine, including hERG potassium channel blockade that can prolong the QT interval.
-
-In rodent models, the LD50 of ibogamine is moderately higher than ibogaine, suggesting a somewhat wider [[cannabis-therapeutic-index-overview]]. However, species differences in iboga alkaloid metabolism make direct extrapolation to humans unreliable.
-
-No fatal overdoses attributed specifically to ibogamine have been documented. This is likely due to its rarity as an isolated compound rather than inherent safety. Caution is warranted when considering ibogamine-containing plant material, as the full alkaloid profile may include more cardiotoxic constituents.
-
-Interactions with serotonergic medications (SSRIs, MAOIs) and opioid drugs are theoretically possible based on receptor binding data, though no documented cases exist. Standard iboga therapy screening protocols would apply to any ibogamine-containing preparation.
-
-## See Also
-
-- [[noribogaine-entity]]
-- [[tabernanthe-iboga]]
-- [[tabernaemontana-divaricata]]
-- [[harmaline]]
-- [[ergotamine]]
-- [[5-meo-dmt-entity]]

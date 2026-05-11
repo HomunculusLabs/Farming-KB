@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Eugenia uniflora** L., commonly known as Surinam cherry, pitanga, Brazilian cherry, or cayenne cherry, is an evergreen shrub or small tree in the family Myrtaceae. It is native to tropical and subtropical South America, from eastern Brazil to Uruguay and northern Argentina.
+**Eugenia uniflora** L., commonly known as Surinam cherry, pitanga, Brazilian cherry, or cayenne cherry, is an evergreen shrub or small tree in the family Myrtaceae. It is native to tropical and subtropical [[guzman-psilocybin-mushrooms-south-america]], from eastern Brazil to Uruguay and northern Argentina.
 
 The species is widely cultivated for its edible fruit, which is used fresh, in jams, jellies, juices, and ice creams. The fruit has a distinctive ribbed, pumpkin-like appearance and ranges in color from orange to deep crimson at maturity.
 
@@ -28,7 +28,7 @@ The plant typically grows 3–8 meters tall as a freestanding shrub or small tre
 
 ## Taxonomy and Morphology
 
-Eugenia uniflora was described by Carl Linnaeus in 1753 in the first edition of *Species Plantarum*. The genus Eugenia is one of the largest in Myrtaceae, containing approximately 1,000 species of trees and shrubs distributed throughout tropical and subtropical regions.
+Eugenia uniflora was described by Carl Linnaeus in 1753 in the first edition of *Species Plantarum*. The genus Eugenia is one of the largest in Myrtaceae, containing approximately 1,000 species of [[nitrogen-fixing-trees-and-shrubs]] distributed throughout tropical and subtropical regions.
 
 The species epithet *uniflora* refers to the solitary flowers, though this is somewhat misleading as multiple flowers often occur at the same node. The genus is named after Prince Eugene of Savoy, an 18th-century patron of botany.
 
@@ -36,7 +36,7 @@ Surinam cherry is an evergreen shrub or small tree with a dense, spreading crown
 
 Leaves are simple, opposite, ovate to elliptic, 3–7 cm long and 1.5–3.5 cm wide, with glossy dark green upper surfaces. New leaf growth is distinctly bronzy-red to copper-colored, providing ornamental interest.
 
-When crushed, the leaves release a strong, pungent aroma reminiscent of resin or turpentine, due to the high essential oil content in the glandular leaf tissues. This characteristic odor is a useful identification feature.
+When crushed, the leaves release a strong, pungent aroma reminiscent of resin or turpentine, due to the high [[permaculture-designers-manual-essential-oil-plants]] content in the glandular leaf tissues. This characteristic odor is a useful identification feature.
 
 Flowers are solitary or in clusters of 2–3 in leaf axils, with four white petals approximately 6–8 mm long. The prominent central stamens are 8–12 mm long, giving the flowers a slightly spidery appearance.
 
@@ -48,7 +48,7 @@ Each fruit contains a single large seed (approximately 1 cm diameter) surrounded
 
 Eugenia uniflora is native to the Atlantic Forest region of eastern Brazil, extending southward through Paraguay, Uruguay, and northeastern Argentina. It occurs naturally in coastal forests, forest margins, and secondary growth areas.
 
-The species thrives in tropical and subtropical climates with annual rainfall of 1,000–2,500 mm and mean annual temperatures of 20–28°C. It is sensitive to frost, with damage occurring below -2°C.
+The species thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual rainfall of 1,000–2,500 mm and mean annual temperatures of 20–28°C. It is sensitive to frost, with damage occurring below -2°C.
 
 It tolerates a wide range of soil types, including sandy, loamy, and clay soils, but performs best on well-drained, slightly acidic to neutral soils with moderate [[hamilton-composting-and-organic-matter-management]] content. The species is moderately drought-tolerant once established.
 
@@ -76,7 +76,7 @@ Bark preparations have been used traditionally to treat fevers and respiratory c
 
 ## Ecology
 
-Eugenia uniflora provides food and habitat for a variety of wildlife species in its native range. The fruit is consumed by birds, including tanagers, thrushes, and parrots, which serve as important seed dispersal agents.
+Eugenia uniflora provides food and habitat for a variety of wildlife species in its native range. The fruit is consumed by birds, including tanagers, thrushes, and parrots, which serve as important [[clay-pellet-seed-dispersal]] agents.
 
 Flowers attract bees, butterflies, and other insect pollinators. The species flowers prolifically over an extended period, providing a consistent nectar source in tropical landscapes.
 
@@ -84,35 +84,6 @@ In its native Atlantic Forest habitat, the species contributes to forest regener
 
 The dense foliage provides shelter for small birds and mammals, while the branching structure supports epiphytic growth including mosses, lichens, and small bromeliads in humid environments.
 
-In its introduced range, particularly Florida, Surinam cherry forms dense monospecific thickets that shade out native understory species. The species' prolific fruit production ensures rapid spread by birds.
+In its introduced range, particularly Florida, Surinam cherry forms dense monospecific thickets that shade out native understory species. The species' prolific [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] ensures rapid spread by birds.
 
 The essential oil-rich leaves may provide some chemical defense against herbivorous insects, though leaf-cutter ants and several caterpillar species are known to feed on the foliage in its native range.
-
-## Chemistry and Pharmacology
-
-The essential oil of Eugenia uniflora leaves is composed primarily of sesquiterpenes, with selinene, curzerene, and germacrene D as major constituents. The oil content varies seasonally, with highest yields during the flowering period.
-
-The essential oil exhibits significant antimicrobial activity against Gram-positive bacteria and some fungal species. The oil also demonstrates insect repellent and larvicidal activity against mosquito vectors of disease.
-
-Anthocyanin pigments in the fruit, primarily cyanidin-3-glucoside and pelargonidin-3-glucoside, contribute antioxidant capacity. The total anthocyanin content of ripe fruit ranges from 40–130 mg/100g fresh weight.
-
-Leaf extracts have demonstrated antihypertensive activity in animal models, supporting the traditional use as a treatment for high blood pressure. The mechanism involves vasodilation mediated through nitric oxide pathways.
-
-Anti-inflammatory and analgesic activities have been documented for leaf extracts in carrageenan-induced inflammation models. The activity is attributed to flavonoid and tannin constituents.
-
-Hypoglycemic activity has been observed in streptozotocin-induced diabetic rats, suggesting potential utility for blood glucose management. However, [[mushroom-cancer-clinical-trials-overview]] in humans are lacking.
-
-The volatile oil composition varies significantly with geographic origin and harvest time, suggesting chemotype differentiation across the species' range. Brazilian populations tend to be sesquiterpene-rich, while some African populations show higher monoterpene content.
-
-## See Also
-
-- [[psidium-guajava]]
-- [[syzygium-aromaticum]]
-- [[syzygium-cumini]]
-- [[myrtus-communis]]
-- [[pimenta-dioica]]
-- [[melaleuca-alternifolia]]
-- [[eucalyptus-globulus]]
-- [[persea-americana]]
-- [[coffea-arabica]]
-- [[theobroma-cacao]]

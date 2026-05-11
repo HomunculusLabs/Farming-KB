@@ -13,7 +13,7 @@ tags:
   - adaptogen
   - paeoniflorin
   - ornamental
-  - permaculture
+  - [[permaculture]]
   - herbal-plant
   - root-medicine
 date: 2026-04-28
@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - He, D.Y. & Dai, J. (2011). "Pharmacological Effects of Paeonia lactiflora." Pharmacognosy Reviews, 5(10), 149-158.
   - Zhang, L. et al. (2019). "Paeoniflorin: A Review of Its Pharmacological Effects." Phytotherapy Research, 33(6), 1482-1497.
-  - Li, S.L. et al. (2012). "Advance in Studies on Chemical Constituents and Their Bioactivities of Paeonia lactiflora." Chinese Journal of New Drugs, 21(8), 855-864.
+  - Li, S.L. et al. (2012). "Advance in Studies on [[guzman-magic-mushrooms-chemical-constituents]] and Their Bioactivities of Paeonia lactiflora." Chinese Journal of New Drugs, 21(8), 855-864.
   - Xiao, J. et al. (2020). "A Review of the Pharmacological Effects of Paeonia lactiflora and Its Bioactive Components." Frontiers in Pharmacology, 11, 569.
   - https://pfaf.org/User/Plant.aspx?LatinName=Paeonia+lactiflora
 ---
@@ -87,50 +87,4 @@ Paeoniflorin and related compounds exhibit a wide range of validated
 bioactivities relevant to multiple therapeutic areas:
 
 - **Anti-inflammatory and immunomodulatory** — inhibits NF-κB and MAPK
-  signaling pathways; reduces TNF-α, IL-1β, and IL-6 production. Modulates
-  Th1/Th2 immune balance.
-- **Analgesic** — modulates GABAergic and glutamatergic neurotransmission;
-  potentiates the analgesic effect of other TCM herbs in classical formulas.
-- **Neuroprotective** — protects neurons from ischemia-reperfusion injury,
-  reduces cerebral infarct volume, and improves cognitive function in animal
-  models of Alzheimer's disease.
-- **Hepatoprotective** — attenuates liver fibrosis by inhibiting hepatic
-  stellate [[mushroom-immune-cell-activation-mechanisms]] and TGF-β1 signaling.
-- **Anti-depressant and anxiolytic** — modulates monoamine neurotransmitters
-  and HPA axis activity; albiflorin shows rapid antidepressant-like effects.
-
-In TCM, *bái sháo* is used to "nourish blood, calm the liver, and alleviate
-pain." It is a core ingredient in formulas such as *Si Wu Tang* (Four
-Substance Decoction) and *Shao Yao Gan Cao Tang*.
-
-## Cultivation
-
-Root propagation is preferred for medicinal production to ensure consistent
-bioactive profiles. Plants are spaced 50–70 cm apart in rows. Optimal growth
-occurs in deep, humus-rich soils with good drainage.
-
-Medicinal roots are harvested in autumn (September–October) of the 3rd or
-4th year, after above-ground growth senesces. Roots are washed, peeled, and
-boiled briefly before drying — this processing converts paeoniflorin to
-albiflorin and reduces tannin content.
-
-Yields of dried root average 2,000–4,000 kg/ha. China's Anhui, Zhejiang, and
-Sichuan provinces are the major production regions, with Bozhou (Anhui) as
-the primary commercial center.
-
-## Ornamental and Permaculture Value
-
-Chinese peony is among the most important garden plants in temperate zones,
-with hundreds of named cultivars in shades of white, pink, red, and coral.
-Flower forms range from single to fully double (bomb-type and anemone-type).
-
-In permaculture, peonies serve as long-lived (50+ years) perennial ground
-covers with deep taproots that improve soil structure. Their early-summer
-bloom provides nectar for pollinators, and the dense foliage suppresses
-weeds. They are compatible with understory plantings beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
-
-## See Also
-
-- [[reishi-ganoderma-lucidum]] — immunomodulatory medicinal fungus
-- [[codonopsis-pilosula]] — "poor man's ginseng," common TCM pairing
-- [[calendula-officinalis]] — ornamental [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] with anti-inflammatory properties
+  [[plant-signaling-pathways]]; reduces TNF-α, IL-1β, and IL-6 production. Modulates

@@ -6,6 +6,7 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, bubble-hash, ice]
 ---
 
@@ -87,53 +88,6 @@ Step-by-step procedure:
    speed for 15 minutes.
 8. Use a spoon to move peripheral plant material to center.
    Let soak 5 more minutes, then mix again.
-9. Repeat until all leaves have been stirred with cold water.
-10. Let resin settle for 15 minutes.
-11. Remove bags in order, draining each one. Rinse screens
-    with water to wash out latent resin.
-12. Remove the last bag with the finest screen, squeeze water
-    through the sieve by hand.
-13. Collect wet hash slurry from each bag separately.
-
-Cleanliness is of paramount importance from beginning to end.
-Everything that falls in the second bag ends up in the final
-product. Do not waste the cold water; up to five batches can
-be made with the same water. When finished, pour nutrient-rich
-water on plants.
-
-## Terpene Loss in Water Extraction
-
-Water-soluble terpinoids found in [[cannabis-resin-production-and-quality-traits-clarke]] contribute
-to fragrance and taste. The majority of these soluble
-terpinoids dissolve and are washed out when extracting resin
-with water. The result is often hash with less flavor and
-aroma compared to dry-sieved hash, despite higher purity.
-
-## Yield Comparison
-
-From 100 grams of leaf material:
-- [[cervantes-dry-sieve-hash-pollinator]] extraction: 4-6 grams of hash
-- Water extraction: 6-10 grams of hash
-
-Water extraction consistently yields 50-100 percent more than
-dry sieving from the same starting material.
-
-## Micron Bag Sizes and Quality
-
-Different micron bags produce different grades of hash:
-
-- 25 micron: most often full melt, physically the smallest bag
-- 45 micron: nice head hash, consistent and yellowish to white
-- 73 micron: full melt all the way
-- 104 micron: excellent quality and good yield
-- 120 micron: good bubble
-- 150 micron: best for big-headed indica glands
-- 160 micron: removes majority of big debris
-- 190 micron: removes the bulk of large debris
-- 220 micron: first filter where all the big stuff stays
 
 ## See Also
-
-- [[cervantes-dry-sieve-hash-pollinator]]
-- [[cervantes-pressing-hash]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+- [[oner-cannabis-water-extraction-ice-water-hash]]

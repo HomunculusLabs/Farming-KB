@@ -88,14 +88,3 @@ sites before moving.
 The moveable system requires that crops at each position are on
 compatible timelines. Winter greens at the second position must be
 established before the tunnel arrives. Summer crops at the first
-position must be finished before the tunnel departs. This demands
-careful [[coleman-row-cover-fabric-management]]
-by providing the primary structure while row covers add a secondary
-layer of protection within. The [[coleman-parisian-maraicher-system]]
-
-## See Also
-
-- [[coleman-emery-emmert-plastic-greenhouse-pioneer]]
-
-- [[coleman-hotbed-manure-heat-system]]
-- [[coleman-mobile-greenhouse-system]]

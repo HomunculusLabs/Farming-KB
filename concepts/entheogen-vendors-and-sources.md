@@ -25,7 +25,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Not explicitly scheduled in the US or most countries
 - Common sources: specialty ethnobotanical shops, Amazon importers
 
-**Psychotria viridis (Chacruna)**
+**[[chacruna-psychotria-viridis]] (Chacruna)**
 - Available as dried leaf or live plant
 - Not scheduled in the US
 - Live plants require tropical greenhouse conditions
@@ -37,18 +37,18 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Cactus Sources
 
-**Trichocereus pachanoi (San Pedro)**
+**[[trichocereus-pachanoi]] (San Pedro)**
 - Widely available as live plants from nurseries and online cactus vendors
 - Sold as ornamental landscaping cactus
 - Legal to grow in the US and most countries
 - Common sources: cactus nurseries, Etsy, eBay, specialty succulent shops
 - Cuttings are readily available and easy to root
 
-**Trichocereus peruvianus (Peruvian Torch)**
+**[[trichocereus-peruvianus]] (Peruvian Torch)**
 - Available from the same sources as San Pedro
 - Slightly less common but still widely available
 
-**Lophophora williamsii (Peyote)**
+**[[lophophora-williamsii]] (Peyote)**
 - Significantly harder to obtain legally
 - Conservation status is a major concern — wild populations are threatened
 - Some nurseries sell cultivated specimens, but legality varies
@@ -62,7 +62,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Commonly found on eBay, Etsy, and specialty ethnobotanical shops
 - Cuttings are the most common propagation method (the plant rarely produces viable seeds)
 
-**Peganum harmala (Syrian Rue)**
+**[[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue)**
 - Seeds are widely available — sold as botanical specimens, dye material, and incense
 - Legal in the US and most countries
 - Available from herb shops, ethnobotanical suppliers, and online seed vendors
@@ -112,7 +112,7 @@ Psilocybin mushroom spores do not contain psilocybin or psilocin and are therefo
 - Psilocybe cubensis (dozens of named varieties: Golden Teacher, B+, Ecuador, Thai, etc.)
 - Psilocybe cyanescens (more specialized vendors)
 - Psilocybe semilanceata (rarely available commercially — mostly foraged)
-- Panaeolus cyanescens ("copelandia")
+- [[panaeolus-cyanescens-bali-omelette]] ("copelandia")
 - Gymnopilus species
 
 ## Extraction Chemical Suppliers

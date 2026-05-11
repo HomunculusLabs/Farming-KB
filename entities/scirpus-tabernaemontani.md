@@ -88,35 +88,3 @@ Seasonal management considerations include controlling invasive competitors such
 Prescribed fire applied during the dormant season reduces accumulated litter, stimulates new shoot production from rhizomes, and sets back competing woody vegetation. Water level drawdowns during the growing season can control invasive monocots while stimulating bulrush seed germination from the seed bank, providing a cost-effective alternative to herbicide application in managed wetlands.
 
 ## Ethnobotanical Uses
-
-Indigenous peoples of North America used softstem bulrush extensively for weaving mats, baskets, and thatching material. The stems were harvested in late summer when fully mature, dried, and split for use in coiled basketry by tribes of the Great Basin, Plateau, and Plains regions.
-
-The stems' natural water resistance, derived from the waxy outer cuticle and spongy pith core, made them particularly suited for manufacturing water-carrying vessels and storage containers. Woven bulrush mats were used as flooring, wall insulation, and ceremonial coverings in traditional dwelling structures throughout the species' range.
-
-The rhizomes were occasionally consumed as a starchy food source by some Great Basin tribes. The achenes were ground into flour or parched and eaten whole, providing a calorically dense food resource during late summer and autumn when other plant foods became scarce.
-
-Nutritional analysis of bulrush rhizomes reveals high carbohydrate content (approximately 60% dry weight) with moderate protein and mineral concentrations. The rhizomes can be roasted, boiled, or dried and ground into a flour similar in texture and culinary application to traditional acorn flour.
-
-Softstem bulrush stems were used as torch material by several western North American tribes. The pithy, cylindrical stems burn slowly and evenly when dried, producing a steady flame suitable for nighttime fishing and ceremonial illumination.
-
-The fluffy, cottony pith material extracted from the stems was used as wound dressing and diaper padding by several Great Plains and Great Basin tribes. Stems were also bundled and used as canoe caulking material, taking advantage of the water-resistant pith that swells when wet to seal gaps in wooden vessel construction.
-
-## See Also
-
-- [[schoenoplectus-tabernaemontani]]
-
-- typha-latifolia-entity
-- [[typha-angustifolia]]
-- [[phragmites-australis]]
-- [[juncus-effusus]]
-- carex stricta
-- [[elodea-canadensis]]
-- [[lemna-minor]]
-- [[nymphaea-alba]]
-- [[pontederia-cordata]]
-- scirpus tabernaemontani
-- [[iris-entity]]
-- [[myriophyllum-spicatum]]
-- [[eichhornia-crassipes]]
-- [[hydrilla-verticillata]]
-- [[equisetum-arvense]]

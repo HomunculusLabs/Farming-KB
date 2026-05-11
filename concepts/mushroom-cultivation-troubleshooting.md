@@ -88,18 +88,3 @@ cases, use 113 grams chlorine mixed in 45 liters of water.
 Check humidity levels. Shortage of water produces lighter mushrooms.
 
 ### First Flush Only, No Subsequent Flushes
-Review substrate nutrition and reformulate if needed. Check hygiene,
-adjust light, temperature, humidity, air, and ventilation. Improve
-[[low-cost-mushroom-growing-house-construction-developing-countries]] management practices. Consider acquiring a new strain.
-
-## Hygiene Best Practices
-
-Maintain hygiene management at every step: clean all persons, areas,
-tools, equipment, and surroundings. Stop using contaminated areas for 1
-to 2 weeks to break contaminant [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]. For serious contamination,
-spray with appropriate chemicals. Use black-light traps with water or
-sticky traps to decrease insects. Always separate contaminated bags
-immediately upon detection.
-## Related Concepts
-
-- [[mushroom-house-design-management]]

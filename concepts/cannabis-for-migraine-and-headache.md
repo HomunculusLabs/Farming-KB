@@ -26,12 +26,12 @@ Dr. Ethan Russo documented the extensive historical use of cannabis for migraine
 ### Clinical Endocannabinoid Deficiency (CECD)
 **Russo (2004)**: "Clinical Endocannabinoid Deficiency (CECD): Can this concept explain therapeutic benefits of cannabis in migraine, fibromyalgia, [[blesching-cannabis-irritable-bowel-syndrome]] syndrome and other treatment-resistant conditions?" Neuroendocrinology Letters 25(1/2).
 
-This influential paper proposed that migraine, fibromyalgia, IBS, and other treatment-resistant conditions may share a common underlying mechanism: deficient endocannabinoid tone. This would explain why cannabis -- which supplements the endocannabinoid system -- is effective across these seemingly unrelated conditions.
+This influential paper proposed that migraine, fibromyalgia, IBS, and other treatment-resistant conditions may share a common underlying mechanism: deficient [[endocannabinoid-tone-and-emotional-wellness-blesching]]. This would explain why cannabis -- which supplements the [[endocannabinoid-system]] -- is effective across these seemingly unrelated conditions.
 
 ### Serotonin and Cannabinoids
 **Volfe, Dvilansky, and Nathan (1985)**: "Cannabinoids block release of serotonin from platelets induced by plasma from migraine patients."
 
-Cannabinoids blocked serotonin release from platelets in response to migraine patients' plasma. Serotonin dysregulation is a key factor in migraine pathophysiology -- triptan drugs (sumatriptan, etc.) work primarily through serotonin receptors.
+Cannabinoids blocked serotonin release from platelets in response to migraine patients' plasma. Serotonin dysregulation is a key factor in migraine pathophysiology -- triptan drugs (sumatriptan, etc.) work primarily through [[psilocybin-pharmacology-and-serotonin-receptors]].
 
 ### Dronabinol for Intracranial Hypertension
 **Raby et al. (2006)**: "Dronabinol reduces signs and symptoms of idiopathic intracranial hypertension." Journal of Ocular Pharmacology and Therapeutics.
@@ -88,30 +88,3 @@ Identified personality patterns associated with migraine, connecting emotional f
 - Consistent, low-dose use to maintain endocannabinoid tone
 
 ### Strain Selection
-- **For acute attacks**: Indica-dominant (Granddaddy Purple, Northern Lights) -- pain relief + sleep
-- **For prevention**: CBD-dominant (Harlequin, ACDC) -- anti-inflammatory without daily psychoactivity
-- **Pinene-rich strains**: Alpha-pinene is a vasoconstrictor that may address the vasodilation component
-
-### Avoid
-- High-THC strains during an attack (may increase anxiety and worsen symptoms)
-- Smoking (heat and particulate matter can be triggers)
-
-## Conventional vs. Cannabis Approach
-
-### Problems with Conventional Treatments
-- **Acetaminophen**: Leading cause of acute liver failure (Lee, 2004)
-- **NSAIDs**: Significant gastrointestinal, cardiovascular, and renal risks (Green, 2001; Moore et al., 2007)
-- **Triptans**: Can cause medication-overuse headache; contraindicated with cardiovascular disease
-- **Opioids**: High addiction risk; poor evidence for migraine efficacy
-
-### Cannabis Advantages
-- Multiple mechanisms: anti-inflammatory, analgesic, anti-emetic, vasoconstrictor, anxiolytic
-- Low addiction potential compared to opioids
-- Addresses nausea (common with migraine)
-- May correct underlying endocannabinoid deficiency
-
-## Related Topics
-
-- [[cannabis-and-fibromyalgia]]
-- Cannabis For Inflammation
-- [[cannabis-sativa-vs-indica-guide]] provides detailed information on strain selection based on symptom profiles. See [[blesching-cannabis-migraine]] Topics - [[cannabis-endocannabinoid-system]] for endocannabinoid deficiency concepts - [[cannabis-dosing-guidelines]] for dosing strategies - [[cannabis-therapeutic-condition-guide]] for condition-specific guidance - [[cannabis-for-motion-sickness]]

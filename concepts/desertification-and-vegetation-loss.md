@@ -87,31 +87,3 @@ by early settlers who kept driving west as their lands wore out from cattle
 grazing.
 
 ## The Illusion of Simple Cause and Effect
-
-One of Fukuoka's most challenging philosophical points is that in nature,
-there is no simple cause and effect. Even were scientists to determine which
-plant had been the first to die off in a land turned to desert, they would
-not know whether to begin by planting the first type of vegetation to
-disappear or the last to survive. The chain of interwoven events and factors
-is beyond man's powers of comprehension.
-
-When researchers study desertification, each specialist examines only a narrow
-slice — botanists ignore microorganisms, hydrologists ignore soil biology,
-climatologists ignore land-use history. The result is a fragmented
-understanding that cannot address the systemic nature of the problem. This is
-the fundamental error of the scientific approach: breaking a living whole into
-dead parts and then trying to reassemble understanding from the fragments.
-
-Science rarely looks to microorganisms for an understanding of large causal
-relationships. True, the perishing of vegetation may have triggered a drought,
-but the plants may have died as the result of the action of some
-microorganism. However, botanists are not to be bothered with
-microorganisms as these lie outside their field of interest.
-
-## Building Dams: Treating Symptoms, Not Causes
-
-Building dams in deserts is an attempt to treat the symptoms of
-desertification, not its cause. Water infrastructure projects capture and
-redistribute water but [[clay-pellet-desert-revegetation]] Seed Broadcasting for Revegetation
-- Pine Blight and Forest [[fukuoka-textdoc-pine-rot-ecosystem-collapse-chain]]
-- [[natural-farming-principles]]

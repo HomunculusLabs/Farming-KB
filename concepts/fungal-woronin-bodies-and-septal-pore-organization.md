@@ -1,5 +1,5 @@
 ---
-title: Fungal Woronin Bodies and Septal Pore Organization
+title: Fungal Woronin Bodies And Septal Pore Organization
 created: 2026-04-17
 updated: 2026-05-09
 type: concept
@@ -13,7 +13,7 @@ Woronin bodies are dense, membrane-bound organelles unique to the Euascomycetes
 (Pezizomycotina) that function as emergency plugs for septal pores in
 filamentous fungal hyphae. First described by Woronin in 1886 in Ascobolus
 pulcherrimus and named by Buller in 1933, these structures are essential for
-maintaining hyphal integrity in heterogeneous environments.
+maintaining hyphal integrity in [[fungal-mycelial-foraging-heterogeneous-environments]].
 
 ## Structure and Biogenesis
 
@@ -27,7 +27,7 @@ their association with microbodies in electron microscopy studies.
 During biogenesis, Woronin bodies form in apical cells of hyphae where they
 appear irregularly dispersed in the protoplasm, moving periodically before
 settling against a longitudinal wall or septum. The diameter of Woronin bodies
-varies among species. In Neurospora crassa they are unusually large and
+varies among species. In [[neurospora-crassa]] they are unusually large and
 hexagonal in cross-section, whereas in most other species they are roughly
 oval. Their size is closely matched to the septal pore they are designed to
 plug.
@@ -50,7 +50,7 @@ structures, allowing it to respond rapidly to damage signals.
 
 The primary function of Woronin bodies is to seal septal pores rapidly when
 adjacent cells are damaged, preventing catastrophic loss of cytoplasm.
-Collinge and Markham (1985) demonstrated this using Penicillium chrysogenum:
+Collinge and Markham (1985) demonstrated this using [[penicillium-chrysogenum]]:
 when hyphae were severed, Woronin bodies rapidly plugged 90% of septal pores
 near the damage, compared with only 5% in undamaged hyphae.
 
@@ -76,45 +76,15 @@ or PTS2) and a C-terminal domain responsible for oligomerization. Mutagenesis
 studies in Neurospora crassa showed that point mutations disrupting crystal
 formation produce amorphous Woronin bodies that fail to plug pores effectively,
 demonstrating crystalline structure is essential for function. The dense packing
-provides mechanical rigidity to withstand turgor pressure, and these self-
+provides mechanical rigidity to withstand [[bloomfield-turgor-pressure-and-hyphal-invasion]], and these self-
 assembly properties have attracted interest in biomaterials science.
 
 ## Woronin Body Tethering and Positioning
 
 Woronin bodies are actively positioned near septal pores through a specialized
-tethering apparatus. In Aspergillus oryzae, the tethering protein AoSO
+tethering apparatus. In [[aspergillus-oryzae]], the tethering protein AoSO
 (septal pore organizer) localizes to the pore rim and physically links Woronin
 bodies to it. Disruption of tethering genes causes Woronin bodies to disperse
 throughout the cytoplasm, impairing damage response. The tethering system
 involves microtubules and actin filaments that transport Woronin bodies from
 apical cells to septal pores throughout the hypha.
-
-## Comparative Septal Pore Structures
-
-Different fungal groups evolved distinct septal pore structures:
-
-- **Zygomycetes**: Simple pores without associated organelles
-- **Basidiomycota (Hymenomycetes)**: Dolipore septum with perforate
-  parenthosome cap; regulates organelle passage without plugging
-- **Basidiomycota (Urediniomycetes)**: Simpler pores with associated vesicles
-- **Ascomycota (Pezizomycotina)**: Woronin bodies provide the most specialized
-  plugging mechanism, reflecting complex multicellular development
-
-## Pathogenic Fungi and Woronin Bodies
-
-In the human pathogen Aspergillus fumigatus, Woronin bodies contribute to
-virulence by maintaining hyphal integrity during host immune attack. Neutrophils
-and macrophages damage hyphae through oxidative burst; Woronin body-mediated
-pore plugging limits damage and allows continued growth. In plant pathogenic
-fungi, mutants lacking functional Woronin bodies show reduced pathogenicity,
-suggesting pore plugging is a conserved virulence mechanism across pathogenic
-Euascomycetes.
-
-## See Also
-
-- [[gadd-woronin-bodies-hyphal-septation]]
-- [[fungal-stress-responses]]
-- [[gadd-fungal-cell-structure]]
-- [[fungal-sexual-reproduction]]
-- [[fungal-phylogeny-systematics]]
-- fungal cell wall structure

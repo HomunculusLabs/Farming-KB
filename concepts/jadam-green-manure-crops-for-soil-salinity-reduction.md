@@ -88,24 +88,3 @@ creates a synergistic effect for soil restoration.
 ## Long-Term Salinity Management
 
 JADAM's approach to salinity is not a one-time fix but a long-term soil
-management strategy. By maintaining continuous cover crop cultivation,
-avoiding soil compaction, and supporting microbial activity, farmers can
-prevent salt accumulation from recurring. The key is to maintain the open,
-permeable soil structure that nature maintains, where water can move freely
-through the soil profile without stagnating and evaporating.
-
-## Key Principles for Salinity Reduction
-
-- Eliminate the compacted soil layer that traps water and causes
-  evaporation-based salt accumulation
-- Use rye as winter [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] open field salt absorption
-- Use Sudan grass in greenhouses, growing for 60+ days then removing
-- Apply JMS to accelerate decomposition and enhance soil biology
-- Maintain continuous cover to prevent future compaction and salinity
-- Avoid practices that destroy soil structure: heavy machinery, excessive
-  tillage, and removal of crop residues
-
-## See Also
-
-- [[mollison-designers-cover-crops-and-green-manure-species]]
-- [[hamilton-green-manure-crops-and-cover-cropping]]

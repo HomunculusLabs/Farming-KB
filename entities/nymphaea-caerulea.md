@@ -28,7 +28,7 @@ The plant is an aquatic rhizomatous perennial with round, notched leaves (cordat
 
 The flowers are the most distinctive and culturally significant feature. They are star-shaped, pale blue to deep blue or violet-blue, with paler or whitish petal tips, and measure 10 to 15 cm in diameter when fully open. Each flower has 12 to 18 petals arranged in several overlapping whorls around a central yellow receptacle that contains the stamens and carpels. The petals are broad, obovate, and slightly pointed at the tips. The sepals are green, lanceolate, and approximately the same length as the outermost petals. Flowers open in the morning and close at night over the course of 3 to 4 days, with the color deepening slightly as the flower ages. The plant flowers from spring through autumn in warm climates.
 
-The rhizome is thick, fleshy, and horizontal, anchored in the muddy substrate by numerous unbranched roots. The rhizome serves as the primary organ of perennation and vegetative reproduction. Fragmentation of the rhizome is the primary means of vegetative propagation in the wild.
+The rhizome is thick, fleshy, and horizontal, anchored in the muddy substrate by numerous unbranched roots. The rhizome serves as the primary organ of perennation and vegetative reproduction. Fragmentation of the rhizome is the primary means of [[hamilton-vegetative-propagation]] in the wild.
 
 ## Distribution and Habitat
 
@@ -42,7 +42,7 @@ The psychoactive chemistry of *Nymphaea caerulea* has been the subject of ongoin
 
 Apomorphine is a dopamine receptor agonist (primarily D1 and D2) that is used medically in the treatment of Parkinson's disease. If present in pharmacologically significant quantities in the plant, it could account for reported psychoactive, euphoric, and emetic effects. However, several modern analytical studies using gas chromatography-mass spectrometry (GC-MS) and liquid chromatography-mass spectrometry (LC-MS) have failed to detect apomorphine in fresh or dried plant material of *Nymphaea caerulea*. Some researchers have suggested that earlier identifications may have resulted from artifact formation during extraction or from confusion with related aporphine alkaloids such asserotoninne or dehydronuciferine.
 
-Nuciferine is an aporphine alkaloid that has been consistently identified in *Nymphaea caerulea* and related species including *Nelumbo nucifera* (sacred lotus). It acts as a dopamine receptor antagonist (D2) and a serotonin receptor antagonist (5-HT2A), and may produce mild sedative, anxiolytic, and antipsychotic effects. Some studies have reported nuciferine concentrations of 0.01% to 0.1% in dried flowers. Other reported aporphine alkaloids include dehydronuciferine, nornuciferine, and anonaine.
+Nuciferine is an aporphine alkaloid that has been consistently identified in *Nymphaea caerulea* and related species including *[[nelumbo-nucifera]]* (sacred lotus). It acts as a dopamine receptor antagonist (D2) and a [[serotonin-receptor-interference-psychedelic-mechanism]] antagonist (5-HT2A), and may produce mild sedative, anxiolytic, and antipsychotic effects. Some studies have reported nuciferine concentrations of 0.01% to 0.1% in dried flowers. Other reported aporphine alkaloids include dehydronuciferine, nornuciferine, and anonaine.
 
 Flavonoids have been identified in the flowers and may contribute to the plant's mild psychoactive and relaxation properties. These include quercetin and kaempferol glycosides, as well as anthocyanins (primarily delphinidin and cyanidin derivatives) responsible for the blue coloration of the petals. Tannins, mucilage, and various organic acids are also present.
 
@@ -66,13 +66,13 @@ In recent decades, *Nymphaea caerulea* has gained popularity in the global ethno
 
 *Nymphaea caerulea* is cultivated as an ornamental water plant in tropical and subtropical gardens and water features worldwide. It requires full sun, warm water temperatures (above 20°C), and a rich loamy or clay substrate. The plant is planted by placing the rhizome in a container of heavy soil, which is then submerged in the pond or water garden to a depth of 15 to 45 cm above the crown. Regular fertilization during the [[savory-growing-season-and-non-growing-season-management]] promotes abundant flowering.
 
-Propagation is typically by seed or by division of the rhizome. Seeds are stratified by soaking in water and scarifying the hard seed coat, then germinating in warm (25 to 30°C) shallow water. Germination typically occurs within 1 to 3 weeks. The plant is winter-hardy only in tropical and subtropical climates and must be protected from frost. In temperate regions, it can be overwintered by moving the container to a heated greenhouse or by allowing the rhizome to go dormant in cool (not freezing) water.
+Propagation is typically by seed or by division of the rhizome. Seeds are stratified by soaking in water and scarifying the hard seed coat, then germinating in warm (25 to 30°C) shallow water. Germination typically occurs within 1 to 3 weeks. The plant is winter-hardy only in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] and must be protected from frost. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], it can be overwintered by moving the container to a heated greenhouse or by allowing the rhizome to go dormant in cool (not freezing) water.
 
 ## Comparative Ethnobotany: Nymphaea in World Cultures
 
 Water lilies of the genus *Nymphaea* have held cultural and spiritual significance far beyond ancient Egypt. In Hindu and Buddhist traditions of South and Southeast Asia, *Nymphaea nouchali* (the blue lotus of India) and *Nelumbo nucifera* (the sacred lotus) are symbols of purity, spiritual awakening, and divine beauty. The Buddha is frequently depicted seated on or holding lotus flowers, and the lotus throne is a standard attribute of Buddhist and Hindu deities.
 
-In ancient Greek and Roman mythology, water lilies were associated with nymphs and water deities. The genus name *Nymphaea* is derived from the Greek *nymphē* (nymph), reflecting the plant's association with water spirits. The white water lily (*Nymphaea alba*) was sacred to the nymphs and was associated with themes of purity, virginity, and the transition between the worlds of the living and the dead.
+In [[ancient-greek-mystery-cults-comparison]] and Roman mythology, water lilies were associated with nymphs and water deities. The genus name *Nymphaea* is derived from the Greek *nymphē* (nymph), reflecting the plant's association with water spirits. The white water lily (*Nymphaea alba*) was sacred to the nymphs and was associated with themes of purity, virginity, and the transition between the worlds of the living and the dead.
 
 In Mesoamerica, water lilies held symbolic importance in Maya culture, where they were associated with water, the underworld, and the concept of resurrection. Water lily motifs appear frequently in Maya ceramic art, stone carvings, and architectural decoration. The Maya maize god is sometimes depicted wearing a water lily headdress, symbolizing his emergence from the primordial waters.
 
@@ -87,32 +87,3 @@ In funerary contexts, the blue lotus appears on mummy wrappings, sarcophagi, can
 The lotus column (a capital in the shape of a closed or open lotus bud) is one of the distinctive architectural elements of Egyptian temple architecture.
 
 The four sons of Horus are sometimes depicted standing on open blue lotus flowers, and the god Nefertem is shown wearing a lotus crown or emerging from a lotus blossom.
-
-In the Ptolemaic and Roman periods, the blue lotus was incorporated into the syncretic religious art that blended Egyptian, Greek, and Roman iconographic traditions.
-
-The temple of Hathor at Dendera contains particularly fine relief carvings featuring blue lotus motifs in contexts of cosmic creation and renewal.
-
-## Ecological Role
-
-*Nymphaea caerulea* plays an important ecological role in its native freshwater ecosystems.
-
-The floating leaves provide shade that regulates water temperature and reduces algal growth.
-
-The flowers provide nectar and pollen for a variety of insect pollinators, including bees and beetles.
-
-The submerged portions of the plant provide habitat and shelter for aquatic invertebrates, fish fry, and amphibian larvae.
-
-The dense growth of water lilies in ponds and slow-moving waterways creates microhabitats that support [[ipomoea-tricolor]]
-
-- [[psilocybe-caerulea]]
-
-- Nymphaea nouchali
-- Nelumbo nucifera
-- Nuciferine
-- Apomorphine
-- [[nymphaea-ampla]]
-- [[nuciferine]]
-
-## See Also
-
-- [[nymphaea-odorata]]

@@ -1,5 +1,5 @@
 ---
-title: "BEST Analysis and Edaphic Factor Ranking in Cannabis Microbiome Studies"
+title: Cannabis Microbiome Best Analysis Edaphic Factor Ranking
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 topics: [microbiome, cannabis, edaphic-factors, bioenv, statistical-methods, community-ecology]
 created: 2026-05-09
@@ -9,25 +9,25 @@ created: 2026-05-09
 
 ## Overview
 
-BEST (Best Subset of Environmental Variables with Maximum Rank Correlation with Community Dissimilarities) analysis, implemented as `vegan::bioenv` in R, is a multivariate statistical method used to identify which combination of environmental variables best explains variation in community composition. In the Winston et al. (2014) Cannabis microbiome study, BEST analysis was employed alongside Mantel tests to determine the hierarchical importance of edaphic factors in structuring microbial communities across bulk soil, rhizosphere, and endorhiza compartments of Cannabis plants.
+BEST (Best Subset of Environmental Variables with Maximum Rank Correlation with Community Dissimilarities) analysis, implemented as `vegan::bioenv` in R, is a multivariate statistical method used to identify which combination of environmental variables best explains variation in [[core-endorhiza-bacterial-community-composition-cannabis]]. In the Winston et al. (2014) [[winston-cannabis-microbiome-study-design]], BEST analysis was employed alongside Mantel tests to determine the hierarchical importance of [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] in structuring [[cannabis-rhizosphere-microbial-communities]] across bulk soil, rhizosphere, and endorhiza compartments of Cannabis plants.
 
 The study examined five Cannabis cultivars (Sour Diesel, Bookoo Kush, Burmese, White Widow, and Maui Wowie) across multiple soil types, providing one of the first comprehensive assessments of how soil chemistry shapes the microbial communities associated with this commercially and medicinally important crop. The BEST analysis complemented the permutational multivariate ANOVA (ADONIS) and UniFrac-based community comparisons by quantifying the relative contributions of individual soil properties.
 
 ## Edaphic Factor Hierarchy
 
-Both weighted and unweighted UniFrac analyses identified the same ranking of edaphic factors by their correlation with community beta-diversity. All tested factors showed significant correlations (p = 0.001), but their relative importance differed substantially:
+Both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] analyses identified the same ranking of [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] by their correlation with community beta-diversity. All tested factors showed significant correlations (p = 0.001), but their relative importance differed substantially:
 
 | Rank | Edaphic Factor | Weighted (r-stat) | Unweighted (r-stat) | Interpretation |
 |------|---------------|-------------------|---------------------|----------------|
 | 1    | Nitrogen      | 0.465             | 0.630               | Primary driver of community membership and structure |
 | 2    | Salinity      | 0.437             | 0.620               | Strong ionic/osmotic filtering effect |
 | 3    | Carbon        | 0.330             | 0.512               | Organic matter as energy and carbon source |
-| 4    | Water Content | 0.281             | 0.466               | Moisture-driven metabolic activity |
+| 4    | Water Content | 0.281             | 0.466               | Moisture-driven [[arbuscule-isolation-metabolic-activity-assays]] |
 | 5    | pH            | 0.221             | 0.292               | Acid-base selection, weakest of tested factors |
 
 ### Nitrogen Dominance
 
-Nitrogen emerged as the single most important edaphic variable for structuring microbial communities in the Cannabis root zone. This finding aligns with ecological theory predicting that nitrogen availability is a primary limiting nutrient in most terrestrial ecosystems and therefore acts as a strong selective filter on microbial populations. In the Cannabis microbiome context, nitrogen likely influences:
+Nitrogen emerged as the single most important edaphic variable for structuring microbial communities in the Cannabis root zone. This finding aligns with ecological theory predicting that [[nitrogen-availability-in-legumes]] is a primary limiting nutrient in most terrestrial ecosystems and therefore acts as a strong selective filter on microbial populations. In the Cannabis microbiome context, nitrogen likely influences:
 
 - The balance between copiotrophic (fast-growing, N-rich) and oligotrophic (slow-growing, N-poor) bacterial taxa
 - The relative abundance of nitrogen-fixing bacteria such as Rhizobiales, which were prominent in the endorhiza
@@ -58,9 +58,9 @@ The total organic carbon values ranged dramatically from 3.02% to 20.0%, with th
 
 ### pH: The Weakest but Still Significant Factor
 
-Surprisingly, pH showed the weakest correlation with community structure despite being widely cited as a primary driver of soil microbial communities in the broader literature (Fierer and Jackson 2006). This may reflect the narrow pH range in the study soils (6.63 to 6.94), which varied by less than 0.4 units. Within such a restricted range, pH effects may be subtle compared to the much larger variation in nitrogen (0.26 to 1.51% total N) and carbon (3.02 to 20.0% total organic C).
+Surprisingly, pH showed the weakest correlation with [[edaphic-determinants-cannabis-microbiome-community-structure]] despite being widely cited as a primary driver of soil microbial communities in the broader literature (Fierer and Jackson 2006). This may reflect the narrow pH range in the study soils (6.63 to 6.94), which varied by less than 0.4 units. Within such a restricted range, pH effects may be subtle compared to the much larger variation in nitrogen (0.26 to 1.51% total N) and carbon (3.02 to 20.0% total organic C).
 
-All study soils were slightly acidic, falling within the range generally considered optimal for both Cannabis cultivation and soil microbial activity. Had the study included strongly acidic (below 5.5) or alkaline (above 7.5) soils, pH would likely have emerged as a more important factor.
+All study soils were slightly acidic, falling within the range generally considered optimal for both [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] and soil microbial activity. Had the study included strongly acidic (below 5.5) or alkaline (above 7.5) soils, pH would likely have emerged as a more important factor.
 
 ## BEST Analysis Methodology
 
@@ -72,7 +72,7 @@ The BEST analysis works through the following procedure:
 5. The subset with maximum rank correlation is selected as optimal
 6. Permutation tests assess statistical significance
 
-The method was implemented in the QIIME bioinformatics pipeline via the `compare_distance_matrices.py` script, which interfaces with R's `vegan::bioenv` function. The original method was developed by Clarke and Ainsworth (1993) for marine benthic community analysis and has since been widely adopted in microbial ecology.
+The method was implemented in the [[qiime-bioinformatics-pipeline-16s-rrna-microbiome]] via the `compare_distance_matrices.py` script, which interfaces with R's `vegan::bioenv` function. The original method was developed by Clarke and Ainsworth (1993) for marine benthic community analysis and has since been widely adopted in microbial ecology.
 
 ### Advantages of BEST Over Alternative Approaches
 
@@ -87,36 +87,3 @@ BEST analysis offers several advantages over methods like redundancy analysis (R
 The finding that only three of five tested variables (N, C, Water) formed the optimal subset means that salinity and pH, while individually significant, were redundant in the presence of the other three variables. This suggests that salinity and pH effects on community structure are largely mediated through their influence on nitrogen availability, carbon dynamics, or water relations. Alternatively, salinity and pH may be correlated with one or more of the three optimal variables in these soils, making their independent contribution marginal.
 
 The Spearman rho of 0.632 for the optimal three-variable model indicates that these edaphic factors explain a substantial portion of community variation, but a significant proportion (approximately 37% of rank-ordered variation) remains unexplained. This unexplained variation likely reflects the influence of plant genotype (cultivar effects), unmeasured soil properties (micronutrients, clay mineralogy), biological interactions (predation, competition), and stochastic processes.
-
-## Comparison with Mantel Tests
-
-Mantel tests confirmed that all individual edaphic factors were significantly correlated with community beta-diversity (p = 0.001 for all factors). The Mantel test ranking was consistent with BEST analysis, providing convergent evidence for the edaphic hierarchy. Both weighted and unweighted UniFrac Mantel tests were performed, and the consistency between these approaches — which differ in their treatment of abundance versus presence/absence — strengthens confidence in the findings.
-
-The weighted Mantel tests showed lower correlation coefficients than unweighted tests for all factors. This pattern suggests that edaphic factors have a stronger influence on which taxa are present (composition) than on their relative proportions (structure), consistent with niche-filtering models of community assembly. Under niche filtering, environmental conditions determine the pool of taxa capable of surviving at a site, but within that pool, interspecific interactions and stochastic processes determine relative abundances.
-
-## Implications for Cannabis Cultivation
-
-### Soil Amendment Priorities
-
-The edaphic factor hierarchy directly informs cultivation practices. Since nitrogen is the primary driver of microbial community structure, nitrogen management should be the top priority when attempting to manipulate the Cannabis microbiome through soil amendments. The strong effect of nitrogen on THC concentration, however, confounds simple causal interpretations — higher nitrogen soils in the study also produced plants with higher THC, making it difficult to disentangle microbiome effects from direct nutritional effects on cannabinoid biosynthesis.
-
-### Practical Soil Testing Protocol
-
-For growers seeking to understand or manage their Cannabis microbiome, comprehensive soil testing should prioritize measuring total nitrogen, salinity (EC), total organic carbon, water-holding capacity, and pH. These five parameters capture the vast majority of edaphic influence on microbial community structure based on the BEST analysis results.
-
-### Limitations for Cultivation Application
-
-These findings are based on field-grown plants in California sandy loam soils. Indoor cultivation systems with soilless media, hydroponics, or peat-based substrates may show entirely different factor hierarchies, as the edaphic context is fundamentally different.
-
-## Limitations and Future Directions
-
-The study used only two distinct soil types in the second experiment and minimal edaphic variation in the first experiment, limiting the generalizability of the factor rankings. All soils were sandy loams, and the hierarchy may differ substantially in clay-dominated, silt-dominated, or highly organic soils. Correlation does not establish causation, and edaphic factors may serve as proxies for other unmeasured variables such as micronutrient availability, microbial predator populations, or organic matter quality. Future studies should include a broader range of soil types and employ experimental manipulation of individual edaphic factors to establish causal relationships.
-
-## Cross-References
-
-- [[cannabis-microbiome-two-tier-selection]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]
-- [[two-tier-selection-model]]
-- [[cannabis-endorhiza-microbiome]]
-- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
-- [[16s-rrna-sequencing-microbiome-analysis]]

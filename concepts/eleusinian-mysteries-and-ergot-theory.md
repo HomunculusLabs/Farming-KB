@@ -5,7 +5,7 @@ tags: [eleusinian-mysteries, ergot, kykeon, ancient-greece, psychedelics, classi
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Food of the Gods (Terence McKenna, 1992)
+  - Food of the Gods (terence-mckenna, 1992)
 type: concept
 ---
 
@@ -14,8 +14,8 @@ type: concept
 The **Eleusinian Mysteries** were the most important religious initiation ceremony in
 ancient Greece, conducted annually for nearly two thousand years at Eleusis, a sanctuary
 near Athens. In *Food of the Gods*, Terence McKenna examines the Mysteries as a
-paradigmatic example of institutionalized psychedelic use in Western civilization's
-foundational culture, central to his broader argument about psychoactive substances in
+paradigmatic example of institutionalized psychedelic use in [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]'s
+foundational culture, central to his broader argument about [[cultural-evolution-and-psychoactive-substances]] in
 human spiritual history.
 
 ## The Annual Athenian Pilgrimage
@@ -30,7 +30,7 @@ initiation ceremony held within the Telesterion, a large hall at Eleusis where t
 central secret rites were performed.
 
 The Mysteries were open to all Greek-speaking people who had not committed murder — a
-remarkably inclusive criterion for the ancient world, and one that McKenna notes stands
+remarkably inclusive criterion for [[allegro-plants-and-drugs-in-the-ancient-world]], and one that McKenna notes stands
 in stark contrast to the exclusivity of later institutionalized religion.
 
 ## The Kykeon Beverage
@@ -72,12 +72,12 @@ making them a less likely candidate than ergot, which grows readily on barley.
 
 ## The Ergotized Beer Theory
 
-The more widely accepted psychoactive theory of the Eleusinian Mysteries centers on
+The more widely accepted psychoactive theory of [[plutarch-and-cicero-on-the-eleusinian-mysteries]] centers on
 ergot — specifically *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, the fungus that grows on barley and other
 grains. Ergot contains a family of alkaloids known as ergolines, including lysergic
 acid amide (LSA), a close chemical relative of LSD. Wasson, Hofmann, and Ruck
 proposed that the kykeon was prepared from ergotized barley — barley that had been
-infected with *Claviceps purpurea* — in such a way as to extract the psychoactive
+infected with *[[claviceps-purpurea]]* — in such a way as to extract the psychoactive
 alkaloids while avoiding the toxic ergot peptides (ergotamine, ergocristine) that cause
 ergotism, the disease known as St. Anthony's Fire.
 
@@ -88,61 +88,3 @@ have concentrated the LSA content of the kykeon to levels sufficient to produce 
 profound visionary experience in the initiates.
 
 ## Wasson's Arguments
-
-R. Gordon Wasson, the ethnomycologist who first brought the [[psychoactive-plants-united-states|sacred mushrooms]] of Mesoamerica to widespread attention, marshaled several lines of evidence
-for the psychoactive kykeon theory. He noted the extreme secrecy surrounding the
-Mysteries, the dramatic emotional impact on initiates, the central role of a
-barley-based beverage, and the persistent mushroom symbolism in Greek and Minoan art.
-Wasson argued that no purely theatrical or psychological explanation could account for
-the consistent reports of overwhelming visionary experience over nearly two millennia
-of continuous practice.
-
-## Two Thousand Years of Mystery
-
-The Eleusinian Mysteries endured for approximately two thousand years — from at least
-the Mycenaean period (c. 1500 BC) until they were suppressed by the Christian emperor
-Theodosius I in 392 AD. This extraordinary longevity, McKenna argues, is itself
-evidence for the genuineness of the experience: no mere theatrical performance or
-empty ritual could have sustained such devotion across so many generations. The
-Mysteries were the longest continuously practiced religious rite in Western history,
-and their suppression marks a decisive turning point in the relationship between
-Western civilization and psychoactive experience.
-
-## The Minoan Mushroom Connection
-
-McKenna and others have noted the prominent mushroom symbolism in Minoan art and
-religion. The Minoan civilization of Crete, which flourished from approximately 2700 to
-1450 BC, produced numerous artifacts depicting what appear to be psychoactive mushrooms,
-including the famous "Mushroom Goddess" figurines found at various Minoan sites. This
-mushroom iconography suggests that the Minoans — who were the cultural ancestors of
-the Greeks in many respects — had a well-developed tradition of psychoactive mushroom
-use that may have been absorbed into the Eleusinian tradition.
-
-## The Dionysus Connection
-
-The cult of Dionysus provides additional evidence for the centrality of psychoactive
-substances in ancient Greek religion. Dionysus was the god of wine, ecstasy, theater,
-and the dissolution of boundaries — a deity whose worship involved ritual intoxication,
-dismemberment myths, and ecstatic communion with the divine. McKenna argues that
-Dionysus represents a survival of the older, shamanic, plant-centered spirituality that
-the Eleusinian Mysteries also embodied — a form of spirituality that was progressively
-marginalized and suppressed as [[partnership-vs-dominator-culture|dominator culture]]
-consolidated its hold on Greek and, later, Western civilization.
-
-## The Historical Watershed: Suppression of the Mysteries
-
-The suppression of the Eleusinian Mysteries by Theodosius I in 392 AD was, in
-McKenna's view, a historical watershed of the first importance. It marked the moment
-when the last institutionalized psychedelic ritual in Western civilization was
-destroyed — not because it had failed or lost its power, but because the Christian
- recognized it as a threat to its monopoly on spiritual
-experience. With the destruction of the Telesterion and the prohibition of the
-Mysteries, Western civilization lost its last direct, institutional connection to the
-[[leary-psychedelic-experience-bardo-mapping]] — a loss that McKenna argues has profoundly shaped the course
-of Western history and thought.
-
-## See Also
-
-- [[shamanism-and-techniques-of-ecstasy]]
-- [[stoned-ape-hypothesis]]
-- [[partnership-vs-dominator-culture]]

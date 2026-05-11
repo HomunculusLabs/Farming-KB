@@ -1,6 +1,6 @@
 ---
-title: [[coleman-cool-greenhouse]] House and Minimal Supplementary Heat Economics
-source: raw/papers/eliot-coleman-winter-harvest-handbook.md
+title: Coleman Cool House Minimal Supplementary Heat
+source: eliot-coleman-winter-harvest-handbook.md
 tags: [winter-harvest, greenhouse-heating, cool-house, eliot-coleman, supplementary-heat, economics]
 created: 2026-05-09
 ---
@@ -18,7 +18,7 @@ It was built because the farm needed a freeze-proof area for
 
 ## Origin of the Cool House
 
-From the beginning of commercial winter production, Coleman
+From the beginning of commercial [[coleman-beet-greens-cold-house-winter-production]], Coleman
 maintained one large greenhouse with a concrete floor and a
 propane heater.
 
@@ -48,7 +48,7 @@ Highly popular crops like baby turnips and crisp radishes
 remain available all winter in the cool house, whereas
 freezing in the unheated houses limits their production.
 
-Early spring carrots reach harvest six weeks earlier in the
+[[coleman-overwintered-onions-and-early-spring-crops]] carrots reach harvest six weeks earlier in the
 cool house (April 1) compared to the cold house (May 5).
 
 ## The Heating Economics Decision
@@ -61,7 +61,7 @@ economic sense.
 Wood heat, waste oil, geothermal, or other low-cost sources
 could all potentially meet this threshold.
 
-The benefits extend beyond extra winter crops: supplementary
+The benefits extend beyond extra [[coleman-semi-hibernating-winter-crops-harvest-extension]]: supplementary
 heat also provides an earlier start on warm-weather summer
 crops like tomatoes and peppers.
 
@@ -88,60 +88,3 @@ Several key differences distinguish the two systems:
   fuel management; cold house is essentially passive
 
 ## Seedling Production Advantage
-
-The cool house provides an additional benefit beyond winter
-crop production: it serves as an excellent space for starting
-spring seedlings.
-
-The concrete floor area, already heated to just above
-freezing, provides a stable environment for germination flats
-and early transplants.
-
-Seedlings started in the cool house can be moved to the cold
-houses or [[holzer-mushroom-cultivation-outdoor-beds]] as weather permits, getting a head
-start on the spring season.
-
-## The Original Vision
-
-Despite the demonstrated benefits of minimal heating, Coleman
-remains committed to the original vision of unheated winter
-production.
-
-The cold houses continue to be more than adequate for
-baby-leaf salads, braising mixes, spinach, leeks, Asian
-greens, and [[coleman-winter-carrots]].
-
-The cool house experiment proved that heat works, but also
-reinforced the value of pursuing the simplest possible
-solution first.
-
-For growers in warmer climates than coastal Maine (Zone 5),
-unheated houses alone are likely sufficient for year-round
-production without any supplementary heat investment.
-
-## Recommendations for Other Growers
-
-Growers considering supplementary heat should evaluate their
-local fuel costs, crop mix, and market prices before
-investing in heating infrastructure.
-
-The most economically favorable scenario is a cheap local
-fuel source (wood, waste oil, geothermal) combined with
-high-value crops that command premium winter prices.
-
-For most small-scale organic growers, the cold house system
-alone provides the best return on investment, with heating
-reserved only for dedicated seedling production areas.
-
-## See Also
-
-- [[coleman-cold-greenhouse-double-layer-protection]] — The
-  unheated double-layer system
-- coleman [[comparison-passive-solar-vs-earth-sheltered]] greenhouse temperature performance
-  — Passive solar thermal dynamics
-- [[coleman-winter-greens-variety-selection]] — Cold-hardy crop
-  selection for unheated production
-- [[coleman-greenhouse-interior-design-and-management]] —
-  Interior layout and management
-- [[coleman-mobile-greenhouse-system]] — Mobile
-  greenhouse for rotation without heating

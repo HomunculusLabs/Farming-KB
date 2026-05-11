@@ -54,7 +54,7 @@ Flowers are arranged in racemes from leaf axils, approximately 1.5–2 cm in dia
 ranging from pale blue to lavender or white with a deeper tinge on the keel petal.
 Flowering typically occurs 3–5 months after sowing. The legume pod measures 10–15 cm
 long and 2–3 cm wide, containing 4–12 seeds. **Warning:** All above-ground parts
-including pods and seeds contain the natural insecticide rotenone and are toxic if
+including pods and seeds contain the [[mollison-designers-neem-tree-as-natural-insecticide]] rotenone and are toxic if
 ingested.
 The edible tuberous taproot is spherical, oblate, or irregular, commonly weighing
 0.5–3 kg (exceptional specimens exceed 5 kg). The papery tan skin must be peeled.
@@ -62,14 +62,14 @@ Interior flesh is translucent white, crisp, juicy, and mildly sweet with a nutty
 water chestnut-like flavor.
 
 ## Distribution
-Jícama is native to Central America and southern Mexico, with archaeological evidence
+Jícama is native to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and southern Mexico, with archaeological evidence
 of cultivation in pre-Columbian Mesoamerica. From its center of origin, cultivation
 spread extensively: Central America and Mexico remain the primary region of
-domestication and genetic diversity, where it is a staple ingredient. In Southeast
+domestication and [[biodiversity-fungal-genetic-diversity]], where it is a staple ingredient. In Southeast
 Asia, introduced during the colonial era, it is deeply embedded in Filipino,
 Indonesian, Vietnamese, Thai, and Malaysian cuisine (known as "singkamas" in the
-Philippines and "dông sun" in Vietnam). It is also cultivated in parts of South America,
-East Asia (southern China, Japan, Taiwan), Pacific Islands, Africa, and the Caribbean.
+Philippines and "dông sun" in Vietnam). It is also cultivated in parts of [[guzman-psilocybin-mushrooms-south-america]],
+[[neurotropic-fungi-japan-east-asia-species-cultural-context]] (southern China, Japan, Taiwan), [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Africa, and the Caribbean.
 Major commercial producers include Mexico, the Philippines, Indonesia, and Thailand.
 
 ## Nutritional Value
@@ -88,58 +88,3 @@ management and blood sugar regulation.
 ## Culinary Uses
 ### Raw Preparations
 - **Mexican street food:** Sliced or julienned with chili powder, lime juice, and salt
-  — one of the most iconic Mexican antojitos (snacks).
-- **Salads:** Added to fruit salads, green salads, or slaws for refreshing crunch.
-- **Crudités:** Served raw with dips as a low-calorie alternative to chips.
-- **Garnish:** Thinly sliced for tacos, ceviche, or soups.
-### Cooked Preparations
-- **Stir-fries:** Retains crunch when briefly stir-fried; popular in Chinese and SE
-  Asian dishes.
-- **Soups and stews:** Added in chunks, absorbing flavors while maintaining texture.
-- **Chips:** Thinly sliced and baked or fried as a low-carb chip alternative.
-- **Substitute:** Used as a water chestnut substitute in Asian recipes.
-### Food Safety Warning
-**Critical:** The skin and all above-ground parts contain rotenone, a natural
-isoflavonoid that is toxic to humans and animals. Rotenone is a mitochondrial toxin
-that inhibits complex I of the electron [[electron-transport-chain-mitochondrial-respiration]]. Ingestion causes nausea,
-vomiting, tremors, and in severe cases, respiratory paralysis and death. Only the
-peeled white interior root flesh is safe for consumption.
-
-## Permaculture Role
-Jícama offers significant benefits in permaculture and sustainable agriculture systems. As a Fabaceae member, it forms
-symbiotic associations with Rhizobium bacteria, fixing atmospheric nitrogen into
-bioavailable forms that enrich surrounding soil and benefit companion plants, reducing
-external nitrogen inputs. Its climbing habit suits vertical growth on trellises
-alongside shorter crops, and it can be intercropped with maize, squash, and beans in
-guild-type plantings that mimic [[fukuoka-natural-ecosystem-food-chain-interconnection]] patterns. The deep taproot breaks up
-compacted soil layers, improving aeration and water infiltration. Harvested tuber
-cavities create channels enhancing soil structure, and leaf litter contributes organic
-matter. Once established, the tuber acts as a water reservoir, enabling survival
-through reduced rainfall periods — making jícama suitable for dryland farming and
-regions with seasonal water scarcity. It also produces acceptable yields in poor,
-sandy, or low-fertility soils, useful for marginal lands and degraded sites.
-
-## Traditional Medicine
-In traditional Mexican and Central American herbal medicine, jícama root has been used
-to manage blood sugar levels. The high inulin content slows glucose absorption and
-modulates insulin response, providing scientific support for this traditional use.
-Traditional healers also recommend jícama for digestive complaints: high dietary fiber
-promotes regular bowel movements and prevents constipation, while prebiotic inulin
-supports a healthy gut microbiome. Additionally, [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in jícama root
-extracts demonstrate antimicrobial activity against certain [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
-pathogens, providing a rationale for its folk medicine use in treating minor infections
-and gastrointestinal disturbances.
-
-## Pests and Diseases
-Root-knot nematodes (Meloidogyne spp.) are the most serious pest — microscopic
-roundworms infecting roots, causing galls that impair water and nutrient uptake.
-Severe infestations reduce tuber size and yield; management includes crop rotation with
-non-host species and resistant rootstocks. Various Curculionidae weevil species attack
-tubers in the field and storage, with larvae boring into flesh and promoting secondary
-fungal infections. Additional pests include aphids (infesting young shoots and flowers,
-potentially transmitting [[cervantes-viral-diseases-cannabis]]), whiteflies (causing honeydew and sooty mold),
-## See Also
-
-- [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]
-- [[tihkal-receptor-binding-serotonin]]
-- [[blesching-cannabis-aging]]

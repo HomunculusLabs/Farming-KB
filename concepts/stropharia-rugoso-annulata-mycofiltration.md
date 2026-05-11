@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
@@ -87,21 +88,3 @@ Water percolating through the mycelial bed:
 ***
 
 ## Soil Building Properties
-
-Stropharia is valued not only for filtration but also for soil creation:
-- Approximately 12 inches of wood chips decompose into 1-2 inches of rich soil in 2-3 years when inoculated with mycelium
-- Without inoculation, the same decomposition takes 4-5 years
-- The resulting soil is rich in [[hamilton-composting-and-organic-matter-management]], well-structured, and teeming with microbial life
-- [[tahuya-forest-road-reclamation]], Stropharia was recommended for future trials alongside other white rot, brown rot, and mycorrhizal species. The dense mycelial mat it creates is ideal for:
-- Stabilizing road surfaces
-- Filtering runoff into streams
-- Creating [[hemenway-insectary-plants-and-beneficial-insects]]
-- Building soil from woody debris
-
-***
-
-## Related Topics
-
-- [[mycorestoration-overview]]
-- [[query-difference-between-white-rot-and-brown-rot-fungi]]
-- mycoforestry-forest-management-with-fungi

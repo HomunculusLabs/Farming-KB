@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,39 +88,3 @@ As the country came to depend on foreign grain, the knowledge of how to grow ric
 Fukuoka warned that a nation which loses its food self-sufficiency also loses its cultural autonomy. The diet of a people expresses their relationship with nature, and when that diet is determined by economic efficiency rather than ecological wisdom, the culture itself becomes distorted.
 
 The only course available for successfully rejecting scientific farming and halting its rampant growth is the establishment of a natural way of farming the agricultural mainstays: rice, barley, and wheat. This requires not just a change in technique, but a fundamental restoration of the spiritual relationship between farmer, land, and crop. The rice paddy must once again become the arbor of the soul.
-
-## The Stages of Rice Cultivation's Decline
-
-Rice farming in Japan passed through several stages of increasing separation from its spiritual roots:
-
-1. **1940: Primitive farming** (improvements in tilling methods): The farmer still understood himself as working in partnership with nature. Tilling was done with care and attention to the living soil. The rhythms of the seasons still governed agricultural practice, and the connection between farmer and land remained intact.
-
-2. **1950: Animal-powered agriculture** (increased fertilizer production): The introduction of draft animals and commercial fertilizers began to shift the farmer's attention from the land itself to the problem of boosting soil fertility. Discussion came to dwell on what constitutes soil fertility rather than what constitutes a right relationship with nature.
-
-3. **1960: Scientific farming** (mechanization): Machines replaced animals, and chemical inputs replaced natural processes. The farmer became an operator of equipment rather than a participant in natural cycles. Efficiency became the supreme value, and anything that could not be measured or optimized was discarded.
-
-4. **1970: Agribusiness** (energy-intensive systemized agriculture): The complete commodification of rice production. The farmer became a businessman, the paddy field became a production unit, and rice became one product among many in a global agricultural marketplace.
-
-Prior to the development of [[fukuoka-critique-scientific-agriculture-civilization]], rice farmers devoted themselves entirely to serving the land that grows the crops. But they gradually turned their attention from the land to the problem of boosting soil fertility, and discussion came to dwell on what constitutes soil fertility rather than what constitutes a right relationship with nature.
-
-## The Illusion of Agricultural Progress
-
-Because the emphasis in paddy-field rice production today is on the productivity of labor, farmers scramble after returns and profits. They have abandoned animal-powered farming and wholeheartedly embraced scientific farming, especially mechanization and the use of chemicals.
-
-What appears as progress is in fact a march away from nature. The yields may be higher in quantitative terms, but the rice itself has lost its vitality, its flavor, and its connection to the land. The farmer works harder than ever but derives less satisfaction from his labor.
-
-These paradoxes are the inevitable consequence of pursuing productivity without understanding purpose.
-
-## The Only Course Forward
-
-The only course available today for successfully rejecting scientific farming and halting its rampant growth is the establishment of a natural way of farming the agricultural mainstays: rice, barley, and wheat. This requires not just a change in technique, but a fundamental restoration of the spiritual relationship between farmer, land, and crop.
-
-The rice paddy must once again become the arbor of the soul, and the farmer must return to seeing cultivation as service to God rather than service to the marketplace. This restoration cannot be achieved through legislation or education alone.
-
-It requires a transformation of consciousness: a recovery of the ability to see rice not as a product but as a gift, not as starch but as the soul of a people. The path forward is not backward to some romanticized past but forward to a future in which the ancient wisdom of [[comparison-natural-farming-vs-permaculture]] is renewed and applied with the full benefit of human understanding, but without the arrogance that has led modern agriculture astray.
-
-## See Also
-
-- [[fukuoka-textdoc-matter-spirit-unity-food]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-getting-natural-diet]]

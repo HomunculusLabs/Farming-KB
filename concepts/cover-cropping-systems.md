@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [agriculture, soil-health, cover-crops, permaculture, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - ~/wiki/raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---
@@ -87,11 +88,3 @@ matter that earthworms readily colonize.
 
 ## Integration with perennial-food-forests
 - [[urban-permaculture-rainwater-harvesting-graywater]]
-- compost [[compost-tea-brewing-equipment-ingham]]
-- [[soil-food-web-structure]]
-## See Also
-- [[vigna-unguiculata]]
-- [[building-soil]]
-- [[compost-tea-brewing]]
-- [[brassica-napus]]
-- [[trifolium-incarnatum]]

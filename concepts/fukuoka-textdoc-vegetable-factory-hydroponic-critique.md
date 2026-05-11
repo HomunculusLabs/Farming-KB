@@ -10,7 +10,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - [[masanobu-fukuoka]], "The Natural Way of Farming: The [[microdosing-theory-and-practice]] of fukuoka-sowing-green-philosophy-one-grain-revolution" (1985)
 ---
 
 # Fukuoka's Critique of Artificial Cultivation and Hydroponics
@@ -21,7 +22,7 @@ He argued that each step away from natural conditions produces food that is visu
 
 ## The Slide from Soil to Sand
 
-Fukuoka described the transition from open-field vegetable cultivation to hothouse horticulture as the first step in agriculture's divorce from nature.
+Fukuoka described the transition from open-field [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] to hothouse horticulture as the first step in agriculture's divorce from nature.
 
 It began innocently enough with melons and tomatoes grown in soil within hot beds or vinyl houses.
 
@@ -45,7 +46,7 @@ Nutrients are absorbed not only through roots but through leaf surfaces, making 
 
 Temperature is controlled, artificial lighting increases light exposure, and carbon dioxide and oxygen are actively managed.
 
-Under these conditions, plant growth becomes several times faster than in field cultivation.
+Under these conditions, plant growth becomes several times faster than in [[fukuoka-rice-dry-field-cultivation]].
 
 The products are visually impressive: beautifully colored melons with intricate skin patterns, large red tomatoes, and supple green cucumbers.
 
@@ -55,7 +56,7 @@ Fukuoka acknowledged that these products look appealing and taste sweet to a pal
 
 Despite their attractive appearance, Fukuoka insisted that artificially grown products are inferior in quality.
 
-The inferiority may be "in ways unknown to man" — a crucial qualification that distinguishes his argument from simple nutritional analysis.
+The inferiority may be "in ways unknown to man" — a crucial qualification that distinguishes his argument from simple [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]].
 
 He believed that food quality encompasses dimensions beyond measurable vitamins, minerals, and calories.
 
@@ -83,45 +84,6 @@ Fukuoka argued that no artificial system can produce food more cheaply than crop
 
 Nature produces without demanding supplies or remuneration, but human effort always requires payment.
 
-The more sophisticated the equipment and facilities, the higher the costs — and human ambition for efficiency knows no stopping point.
+The more sophisticated the [[gottlieb-psilocybin-cultivation-equipment-and-facilities]], the higher the costs — and human ambition for efficiency knows no stopping point.
 
 ## The Total Synthesis Endgame
-
-Fukuoka saw hydroponics and vegetable factories as waypoints on a trajectory leading to the total chemical synthesis of food.
-
-The synthesis of urea had already enabled the production of any organic material.
-
-Protein synthesis would enable the fabrication of artificial meat from various feedstocks.
-
-Butter and cheese could be made from petroleum.
-
-Starch synthesis from wood and oil was only a matter of time.
-
-At the far end of this trajectory, agriculture would become an activity entirely unrelated to nature — a manufacturing process that happens to produce edible products.
-
-Fukuoka regarded this not as progress but as the final alienation of humanity from its biological foundations.
-
-People raised on unnatural food develop into artificial, anti-natural beings with bodies prone to disease and minds prone to confused thinking.
-
-## Why Natural Cultivation Cannot Be Replaced
-
-Fukuoka's ultimate argument was that nature produces without calling for supplies or remuneration.
-
-Every artificial input represents an energy and material cost that must be subtracted from the gross output.
-
-The net result is always a system that is more expensive, more fragile, and more dependent on external inputs than natural cultivation.
-
-A farmer working with nature invests only labor and intelligence, both of which are sustained by the farm's own output.
-
-A factory farmer depends on electricity, petroleum, chemicals, equipment manufacturers, and supply chains — none of which the farm produces.
-
-The resilience of [[comparison-natural-farming-vs-permaculture]] lies in its independence from these external inputs.
-
-The vulnerability of artificial cultivation lies in its total dependence on them.
-
-## See Also
-
-- [[fukuoka-textdoc-food-synthesis-petrochemical]]
-- fukuoka textdoc food quality decline petroleum
-- [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-mu-nothingness-philosophy]]

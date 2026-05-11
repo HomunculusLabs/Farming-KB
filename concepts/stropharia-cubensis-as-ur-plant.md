@@ -88,34 +88,3 @@ The relationship between Stropharia cubensis and zebu cattle (Bos
 indicus) is central to McKenna's argument. When hominids moved out of
 the trees and onto the grasslands, they increasingly encountered hooved
 beasts and their manure. The mushrooms growing in this manure became
-part of the human diet. Domestication of wild cattle enhanced and
-deepened the human-mushroom interspecies dependency.
-
-The first specimen of Psilocybe cubensis was collected by the American
-botanist Earle in Cuba in 1906, but current botanical thinking places
-the species origin in Southeast Asia. At the Non Nak Tha archaeological
-site in Thailand, dated to 15,000 years before present, bones of zebu
-cattle have been found coincident with human graves. Stropharia cubensis
-remains common in the Non Nak Tha area today.
-
-## The Pandemic Hypothesis
-
-The Non Nak Tha site suggests that mushroom use was a human trait that
-emerged wherever human populations and cattle evolved together. This
-pandemic distribution pattern supports the argument that Stropharia
-cubensis is the Ur plant. The human-mushroom-cattle triad formed a
-mutually reinforcing relationship: cattle created the substrate, the
-mushroom provided psychoactive benefits, and humans managed the cattle,
-thereby ensuring the mushroom's continued propagation.
-
-The relationship is probably no more than a million years old, coinciding
-with the era of the nomadic human hunter. McKenna described it not as a
-biological symbiosis but as a deep-rooted custom, an extremely powerful
-natural habit through which humans were bootstrapped to higher and
-higher cultural levels and individual self-awareness.
-
-## See Also
-
-- [[psilocybin-in-human-evolution]]
-- [[neurotropic-fungi-classification]]
-- [[psilocybin-chemistry-and-pharmacology]]

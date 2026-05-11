@@ -10,11 +10,11 @@ type: concept
 
 # Green Philosophy
 
-**Green philosophy**, as articulated by Masanobu Fukuoka in *The Natural Way of
+**Green philosophy**, as articulated by [[masanobu-fukuoka]] in *The Natural Way of
 Farming*, is a comprehensive worldview that extends far beyond agricultural
 technique into epistemology, ethics, spirituality, and the relationship between
 human knowledge and ecological destruction. Fukuoka subtitled his book "The
-Theory and Practice of Green Philosophy," indicating that [[comparison-natural-farming-vs-permaculture]] was
+[[microdosing-theory-and-practice]] of Green Philosophy," indicating that [[comparison-natural-farming-vs-permaculture]] was
 both an expression of and a laboratory for a deeper philosophical stance toward
 nature.
 
@@ -30,7 +30,7 @@ symptoms while disrupting the larger patterns that sustain health and balance.
 He described [[fukuoka-critique-scientific-agriculture-civilization]] as the primary manifestation of this error.
 By studying soil chemistry in isolation from soil biology, plant pathology in
 isolation from ecosystem dynamics, and individual crop yields in isolation from
-long-term land productivity, agricultural science generates knowledge that is
+long-term land productivity, [[fukuoka-critique-laws-agricultural-science]] generates knowledge that is
 technically correct within its narrow domain but deeply misguided in its
 practical consequences. Each intervention — tilling, fertilizing, spraying,
 weeding, pruning — solves an immediate problem while creating conditions that
@@ -75,12 +75,12 @@ the creative, organizing principle inherent in natural systems.
 Green philosophy has an explicitly spiritual dimension. Fukuoka wrote of
 seeking "the noble road that rises above the world of relativity" — a path
 beyond the dualistic thinking that separates human from nature, subject from
-object, knowledge from wisdom. He framed natural farming as a spiritual
+object, knowledge from wisdom. He framed [[cho-loess-powder-in-natural-farming]] as a spiritual
 discipline, a practice of humility and attentiveness that cultivates the same
 qualities of awareness that Buddhist and Taoist contemplative traditions
 emphasize.
 
-The practice of natural farming thus becomes a form of meditation: the farmer
+The practice [[four-principles-of-natural-farming]] thus becomes a form of meditation: the farmer
 learns to observe without judging, to act without forcing, to trust processes
 that cannot be fully understood. The farm is both a source of food and a site
 of philosophical and spiritual development.
@@ -88,21 +88,3 @@ of philosophical and spiritual development.
 ## Distinguishing Green Philosophy from Environmentalism
 
 Fukuoka was careful to distinguish green philosophy from mainstream
-environmentalism. He criticized [[coleman-deep-organic-farming-philosophy]] as "just another type of
-[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]" — substituting natural inputs for synthetic ones while
-maintaining the same paradigm of human intervention and control. Many
-environmental protection efforts, he argued, "are actually destructive" when
-examined from a broader perspective, because they manage symptoms while leaving
-the underlying attitude of domination intact. Green philosophy demands not
-merely different techniques but a fundamentally different way of relating to
-the natural world.
-
-## See Also
-
-- oyster-mushroom-green-mold-disease
-- [[fukuoka-western-eastern-philosophy-agriculture]]
-- [[natural-farming]]
-- [[do-nothing-farming]]
-- wu wei
-- deep ecology
-- ecological humility

@@ -1,7 +1,7 @@
 ---
 title: MDA (3,4-Methylenedioxyamphetamine)
 source: shulgin-a-pihkal.md
-author: Alexander Shulgin
+author: [[alexander-shulgin]]
 topics:
   - phenethylamines
   - pihkal
@@ -17,8 +17,8 @@ topics:
 MDA is [[2c-b-pihkal-entry-20]] #100, extensively documented in Shulgin's catalogue. Its chemical name
 is 3,4-methylenedioxyamphetamine, occupying a central position as the parent compound from
 which both MDMA (N-methylation) and MDE (N-ethylation) are derived. MDA is humorously
-called one of the "Ten Essential Amphetamines" since safrole — one of ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] —
-is a starting material for its synthesis.
+called one of the "Ten [[essential-amphetamines-and-natural-precursors]]" since safrole — one of ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] —
+is a [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for its synthesis.
 
 ## Dosage and Duration
 
@@ -33,7 +33,7 @@ hours to reflect his corrected assessment. The entry itself notes the revised fi
 ## Synthesis Routes
 
 There are approximately twenty different synthetic routes for MDA in the literature. The
-primary PiHKAL entry describes two methods:
+primary [[2c-c-pihkal-entry-22]] describes two methods:
 
 ### From Piperonal (via Nitrostyrene)
 
@@ -74,8 +74,8 @@ be rearranged directly to MDA.
 
 ## Optical Isomer Activity
 
-Separate assays of the pure optical isomers show the R isomer is more potent, consistent
-with all other psychedelic compounds studied in separated forms:
+Separate assays of the pure [[optical-isomers-psychedelic-phenethylamines]] show the R isomer is more potent, consistent
+with all other [[psychedelic-compounds-reference]] studied in separated forms:
 
 - **R isomer, 60 mg**: Light, brittle wound-up state (+ to ++), chills. Cleared by hour 4.
 - **R isomer, 100 mg**: Rapid development, pleasant with something serious. Clear at 8h.
@@ -88,58 +88,3 @@ with all other psychedelic compounds studied in separated forms:
 ## The "Hug Drug" History
 
 MDA was one of the major drugs popularly used in the late 1960s when the psychedelic
-concept exploded publicly. It was called the "hug-drug" and was said to stand for "Mellow
-Drug of America." It was readily available as a research chemical from several scientific
-supply houses (as were mescaline and LSD), sold inexpensively under its chemical name.
-
-## Military/Intelligence History: EA-1298 and the Blauer Case
-
-After World War II, military and intelligence agencies sought chemical agents for "truth
-serums" or incapacitation. The army contracted with the New York State Psychiatric
-Institute to explore Edgewood Arsenal chemicals. One compound, coded EA-1298, was MDA.
-In 1953, psychiatric patient Howard Blauer died from a fatal intravenous injection of
-500 mg during these experiments.
-
-## Medical Explorations: SKF-5
-
-Under the code SKF-5 (trade name Amphedoxamine), MDA was explored as an anorexic agent.
-It has also been found promising in treating psychoneurotic depression. Several medical
-reports and Claudio Naranjo's book "The Healing Journey" describe its values in
-psychotherapy.
-
-## Relationship to MDMA and MDE
-
-MDA is the N-unsubstituted parent of the major empathogenic amphetamines:
-- **MDMA** (N-methyl-MDA): The formamide of MDA is a precursor to MDMA.
-- **MDE** (N-ethyl-MDA): The acetamide of MDA is a precursor to MDE.
-
-MDA's structure can be viewed as an aromatic ring (the 3,4-methylenedioxyphenyl ring)
-with a three-carbon chain, the amine on the second carbon. The corresponding
-phenethylamine (removing the alpha-methyl group) is MDPEA (3,4-methylenedioxyphenethylamine,
-or "H" in Shulgin's Muni-Metro nomenclature), which has its own PiHKAL entry.
-
-## Homologues: ALPHA and GAMMA
-
-Moving the amine group along the three-carbon chain produces two positional isomers:
-
-**ALPHA** (alpha-ethyl-3,4-methylenedioxybenzylamine): Amine on alpha-carbon. HCl mp
-199-201 °C. At ~10 mg, produces eyes-closed "dreams" with body tingling. Not anorexic.
-Pleasant, very short-lived (~3 hours). N-methyl homologue M-ALPHA is ~2x as potent
-(~60 mg for +1 to +2) with twice the duration.
-
-**GAMMA** (gamma-3,4-methylenedioxyphenylpropylamine): Amine on gamma-carbon. HCl mp
-204-205 °C. At 200 mg orally, physical ill-at-ease, time distortion, keen environmental
-awareness. Duration ~4 hours.
-
-## Structural Relatives
-
-The ethylidene analogue (EDA, acetaldehyde addition to the catechol) shows 2-3x decreased
-potency from MDA. The acetone analogue (IDA, isopropylidine addition) is further reduced
-2-3x. Human trials of EDA at 150 mg produced only threshold light-headedness. IDA remains
-untested. The positional isomer with the methylenedioxy group at 2,3 (ORTHO-MDA) acts as
-a stimulant rather than a psychedelic — at 50 mg, one subject stayed awake all night
-
-## See Also
-- [[indole-hallucinogen-classification]]
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]

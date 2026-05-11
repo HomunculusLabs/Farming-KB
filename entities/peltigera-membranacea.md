@@ -23,7 +23,7 @@ sources:
 
 The species is notable for its association with the cyanobacterium *Nostoc* as its primary photobiont, making it an important contributor to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in temperate and boreal forest soils.
 
-It is circumpolar in distribution, occurring across Europe, North America, and parts of Asia.
+It is circumpolar in distribution, occurring across Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia.
 
 ## Taxonomy and Morphology
 
@@ -53,17 +53,17 @@ It is less tolerant of prolonged desiccation than some *Peltigera* species, whic
 
 As a cyanolichen, *P. membranacea* fixes atmospheric nitrogen through its *Nostoc* photobiont. Fixed nitrogen is leached into surrounding soil, enriching the substrate and benefiting adjacent vascular plants.
 
-The species is an indicator of old-growth forest conditions in some regions, particularly in the Pacific Northwest of North America. Its presence correlates with forest continuity, high humidity, and minimal disturbance.
+The species is an indicator of old-growth forest conditions in some regions, particularly in the [[psilocybin-north-america-pacific-northwest]] of North America. Its presence correlates with forest continuity, high humidity, and minimal disturbance.
 
 Grazing by gastropods has been documented on *Peltigera* species, though *P. membranacea* is less frequently consumed than related taxa due to [[antifungal-secondary-metabolites-coprophilous-fungi]] in its cortex.
 
-The thallus provides microhabitat for various invertebrates, including tardigrades, nematodes, and collembolans. These communities contribute to decomposition processes within the lichen mat.
+The thallus provides microhabitat for various invertebrates, including tardigrades, nematodes, and collembolans. These communities contribute to [[fungal-decomposition-processes]] within the lichen mat.
 
 Associations with bryophytes are common; *P. membranacea* frequently overgrows mosses such as *Mnium*, *Polytrichum*, and *Dicranum* species, using them as a stable substrate.
 
 ## Chemistry
 
-The primary secondary metabolites of *P. membranacea* include **tenuiorin** and **peltigerin**. These are depsidones found in the medulla and contribute to the lichen's chemical defense against herbivory and microbial colonization.
+The primary [[biodiversity-fungal-secondary-metabolites]] of *P. membranacea* include **tenuiorin** and **peltigerin**. These are depsidones found in the medulla and contribute to the lichen's chemical defense against herbivory and microbial colonization.
 
 Spot tests are characteristically negative for the cortex (K−, C−, KC−) and positive for the medulla with potassium hydroxide (K+ yellowish to reddish). The PD reaction is negative in the medulla.
 
@@ -83,34 +83,8 @@ Collection for scientific study should be minimal, as the species is slow-growin
 
 Reproduction occurs through both sexual and vegetative means. Apothecia produce ascospores that require contact with compatible *Nostoc* strains to establish a functional thallus.
 
-Vegetative propagation occurs through thallus fragmentation. Broken lobes that land on suitable moist substrate can establish new colonies, particularly in forest floor environments with abundant moss.
+[[hamilton-vegetative-propagation]] occurs through thallus fragmentation. Broken lobes that land on suitable moist substrate can establish new colonies, particularly in forest floor environments with abundant moss.
 
-Annual growth is approximately 3–5 mm per year in controlled conditions, though field rates may be lower. Thalli in shaded habitats develop broader lobes with darker coloration, while exposed individuals are smaller and more tightly adpressed.
-
-*P. membranacea* is most easily confused with *P. neckeri* and *P. horizontalis*. It differs from *P. neckeri* in its thinner thallus and absence of gyrophoric acid.
-
-From *P. horizontalis*, it is separated by conspicuous rhizines along the lower veins and a tendency toward semi-erect growth. The combination of membranous texture, brown lower surface with contrasting veins, and *Nostoc* photobiont is diagnostic.
-
-## Related Species and Research
+Annual growth is approximately 3–5 mm per year in [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]], though field rates may be lower. Thalli in shaded habitats develop broader lobes with darker coloration, while exposed individuals are smaller and more tightly adpressed.
 
 *P. membranacea* is most easily confused with *P. neckeri* and *P. horizontalis*. It differs from *P. neckeri* in its thinner thallus and absence of gyrophoric acid.
-
-From *P. horizontalis*, it is separated by conspicuous rhizines along the lower veins and a tendency toward semi-erect growth. The combination of membranous texture, brown lower surface with contrasting veins, and *Nostoc* photobiont is diagnostic.
-
-The species has served as a model organism for studying lichen-cyanobacteria symbiosis, particularly the specificity of the *Nostoc* partnership and molecular signals involved in thallus establishment.
-
-Nitrogen fixation rates of 0.5 to 3.0 μmol C₂H₄ g⁻¹ h⁻¹ have been measured via acetylene reduction assays, depending on moisture and temperature. These rates make *Peltigera* species among the most significant [[biological-nitrogen-fixation-agriculture]] fixers in temperate forest floor ecosystems.
-
-Genomic studies of *P. membranacea* have contributed to understanding of lichen evolution and the repeated transitions between green algal and cyanobacterial photobionts within the Peltigerales.
-
-## See Also
-
-- [[peltigera-leucophlebia]]
-
-- [[lobaria-pulmonaria]]
-- [[cladonia-portentosa]]
-- [[physcia-aipolia]]
-- [[lecanora-muralis]]
-- [[flavoparmelia-caperata]]
-- [[ramalina-fraxinea]]
-- [[evernia-prunastri]]

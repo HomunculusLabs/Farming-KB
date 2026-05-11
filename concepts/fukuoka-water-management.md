@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Water Management
@@ -86,24 +87,3 @@ Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of
 Fukuoka does not hold standing water in his rice paddies for extended periods. During the first half of the rice [[savory-growing-season-and-non-growing-season-management]], the rice does well under conditions similar to [[fukuoka-farming-for-all-quarter-acre-vision]], standing water is not used, but careful water management remains essential.
 
 ## The Seasonal Water Cycle
-
-The year in Fukuoka's paddies follows a distinctive water pattern:
-
-- **Early June**: After the barley harvest, when clover threatens to choke out young rice seedlings, water is held for four to seven days to weaken the clover. After this, the field is surface-drained to grow hardy plants.
-- **June and July**: The field is left unirrigated entirely, following the [[fukuoka-rice-and-barley-natural-farming]]. Fukuoka describes building levees each year as essential work:
-
-1. Carefully cut the grass on the old levee with a sickle
-2. [[query-can-fungi-break-down-plastic-pollution]] the levee with an open-ended hoe
-3. Dig up soil at the bottom of the levee and, drawing water alongside, break up and knead the earth with a three-pronged cultivator
-4. Build up the levee and, after letting it stand, plaster the top and sides with earth
-
-The grass on levees must be cut at least three times yearly. Otherwise it is impossible to locate mole holes before they enlarge considerably.
-
-## Mole Control
-
-Moles present a persistent challenge. A single mole can dig a tunnel 40-50 feet long through a freshly plastered levee overnight, weakening it so that water leaks through mole cricket and earthworm holes. To control moles:
-
-- Use stiff earth to plug holes (soft earth washes free overnight)
-- Avoid makeshift repairs, which lead to eventual crumbling
-- Do not leave grass cuttings and bundles of straw on levees, as these draw earthworms that attract moles
-- Bamboo tubes capped with valves at hard points in tunnels can catch moles

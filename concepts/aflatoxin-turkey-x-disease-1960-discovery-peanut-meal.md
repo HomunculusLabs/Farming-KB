@@ -8,7 +8,7 @@ tags: [aflatoxin, mycotoxin, turkey-x-disease, aspergillus-flavus, peanut-meal, 
 
 ## Overview
 
-The discovery of aflatoxins — among the most potent naturally occurring carcinogens — began with a catastrophic episode of animal suffering in England in 1960. One hundred thousand turkeys died from a mysterious disease characterized by loss of appetite, lethargy, and liver failure. Investigation revealed that the birds had been fed peanut meal contaminated with toxins produced by the mold Aspergillus flavus. This event, dubbed "turkey X disease," launched the field of mycotoxicology and transformed our understanding of the hidden dangers in the food supply.
+The discovery of aflatoxins — among the most potent naturally occurring carcinogens — began with a catastrophic episode of animal suffering in England in 1960. One hundred thousand turkeys died from a mysterious disease characterized by loss of appetite, lethargy, and liver failure. Investigation revealed that the birds had been fed peanut meal contaminated with toxins produced by the mold [[aspergillus-flavus]]. This event, dubbed "turkey X disease," launched the field of mycotoxicology and transformed our understanding of the hidden dangers in the food supply.
 
 ## The 1960 Turkey X Disease Outbreak
 
@@ -20,7 +20,7 @@ In 1960, poultry farmers across England began reporting devastating losses among
 - Liver failure and associated hemorrhaging
 - High mortality rates affecting entire flocks
 
-Investigation traced the common factor to contaminated peanut meal used as feed. The name "turkey X disease" was coined for this novel affliction. The economic loss was considerable, but as Nicholas Money noted, the fact that the turkeys faced an unpleasant future with or without aflatoxins may explain why the poultry industry has yet to erect a monument to this event.
+Investigation traced the common factor to contaminated peanut meal used as feed. The name "turkey X disease" was coined for this novel affliction. The economic loss was considerable, but as [[nicholas-money]] noted, the fact that the turkeys faced an unpleasant future with or without aflatoxins may explain why the poultry industry has yet to erect a monument to this event.
 
 ### Identification of the Causal Agent
 
@@ -39,7 +39,7 @@ Aflatoxins are organic molecules with a ring structure that is perfectly suited 
 
 ### DNA Damage
 
-When aflatoxins find their way into cell nuclei, they bind to DNA molecules creating an adduct — a covalent bond between the toxin and the genetic material. This causes serious genetic damage including mutations, strand breaks, and disruption of DNA replication. The p53 tumor suppressor gene is a particular target, and aflatoxin-induced mutation at codon 249 of p53 is a well-characterized molecular signature of aflatoxin exposure in human liver cancer.
+When aflatoxins find their way into cell nuclei, they bind to DNA molecules creating an adduct — a covalent bond between the toxin and the genetic material. This causes serious genetic damage including mutations, strand breaks, and disruption of DNA replication. The p53 tumor suppressor gene is a particular target, and aflatoxin-induced mutation at codon 249 of p53 is a well-characterized molecular signature of aflatoxin exposure in human [[blesching-cannabis-liver-cancer]].
 
 ### Metabolic Activation
 
@@ -55,8 +55,8 @@ Traces of aflatoxins are present in numerous food products:
 - **Peanuts and peanut butter:** The original source identified in the turkey X disease
 - **Tree nuts:** Almonds, pistachios, Brazil nuts, walnuts
 - **Dairy products:** Milk and eggs from animals fed contaminated feed
-- **Meat:** Indirect contamination through animal feed
-- **Spices:** [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], black pepper, coriander
+- **Meat:** Indirect contamination through [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
+- **Spices:** [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], coriander
 
 ### Conditions for Fungal Growth
 
@@ -70,7 +70,7 @@ In heavily infested crops, each kilogram of plant material can contain as much a
 
 ### Liver Cancer Risk
 
-If rats are fed a dose of aflatoxins equivalent to the maximum exposure anticipated for an American, one in every 10,000 animals develops liver cancer. Circumstantial evidence suggests the toxin causes the same disease in humans. However, the incidence in the United States is tenfold lower than that forecast by rodent studies, indicating that rodents and humans react differently to the same toxins.
+If rats are fed a dose of aflatoxins equivalent to the maximum exposure anticipated for an American, one in every 10,000 animals develops liver cancer. Circumstantial evidence suggests the toxin causes the same disease in humans. However, the incidence in the [[dmt-containing-plants-united-states-halpern]] is tenfold lower than that forecast by rodent studies, indicating that rodents and humans react differently to the same toxins.
 
 ### Global Burden
 
@@ -87,45 +87,3 @@ Aflatoxin exposure and hepatitis B virus infection act synergistically to increa
 ## Ecological Role of Aflatoxins
 
 ### Intended Targets
-
-It is unlikely that turkeys, or any other animals, are the evolutionary targets for aflatoxins. Animals may compete with fungi for the same food sources — harvested grain, for example — but the toxins are probably directed at other microorganisms. Local concentrations in the soil and plant tissues may be high enough in the immediate vicinity of growing hyphae to clear territory for the mold.
-
-### Parallel with Antibiotics
-
-The same natural role has been suggested for antibiotics such as penicillin and cephalosporin. By secreting these compounds, some fungi benefit both by removing competition and by obtaining an extra shot of nutrients from the dead bacteria. Fungi face a serious nitrogen shortage when consuming plant tissues because these food sources yield plenty of sugar but negligible protein. Without nitrogen-containing molecules, fungi cannot build their own proteins or nucleic acids.
-
-## Regulation and Food Safety
-
-### Regulatory Limits
-
-Following the discovery of aflatoxins, regulatory agencies worldwide established maximum permissible levels in food:
-
-- **FDA (United States):** 20 parts per billion (ppb) for human food, 0.5 ppb for milk
-- **EU:** 4 ppb for aflatoxin B1 in groundnuts, 2 ppb for direct human consumption
-- **Codex Alimentarius:** International standards varying by commodity
-
-### Detection Methods
-
-Modern aflatoxin detection uses:
-- **HPLC (High-Performance Liquid Chromatography):** Precise quantification
-- **ELISA (Enzyme-Linked Immunosorbent Assay):** Rapid screening
-- **Fluorescence under UV light:** Quick visual assessment (aflatoxins fluoresce)
-
-### Mitigation Strategies
-
-- Crop rotation and resistant varieties to reduce field infection
-- Proper [[psilocybin-mushroom-drying-and-storage-methods]] conditions (moisture below 12%)
-- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using non-toxigenic Aspergillus strains to outcompete toxigenic ones
-- Ammoniation and other chemical treatments to detoxify contaminated feed
-- Regular testing at processing facilities
-
-## See Also
-
-- [[bloomfield-aspergillus-biology-and-aflatoxins|Aspergillus Biology and Aflatoxins]]
-- [[aflatoxins-mycotoxins-food|Aflatoxins as Mycotoxins in Food]]
-- [[bloomfield-fungal-secondary-metabolites|Fungal Secondary Metabolites]]
-
-## References
-
-- Money, N.P. (2002). Mr. Bloomfield's Orchard, Chapter 8: Angels of Death.
-- Lancaster, M.C., Jenkins, F.P., Philp, J.M. (1961). Toxicity associated with certain samples of groundnuts. Nature 192: 1095-1096.

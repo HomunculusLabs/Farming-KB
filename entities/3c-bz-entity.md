@@ -78,7 +78,7 @@ there was added 24.6 g tetranitromethane. After stirring for 3 min, there was
 added a solution of 7.9 g KOH in 132 mL H2O. The nitropropene product was
 obtained as yellow crystals with mp 84-85 degrees C.
 
-Reduction with LAH, followed by picrate salt formation, decomposition with NaOH,
+Reduction with LAH, followed by picrate salt formation, [[decomposition]] with NaOH,
 extraction, and HCl gas saturation gave 2.5 g 4-benzyloxy-3,5-dimethoxy-
 amphetamine hydrochloride (3C-BZ) as a white solid with mp 161-164 degrees C.
 
@@ -88,22 +88,3 @@ Two points are worthy of commentary: the potency and the promise of 3C-BZ.
 
 As to potency, there is such uncertainty as to the effective dose that it is for
 all intents and purposes impossible to predict just what dose should be
-considered for a person's first time with this. The broad range given above, 25
-to 200 milligrams, reflects the degree of variation that has been encountered
-across ten subjects.
-
-Which is a shame, because the concept of a new ring such as is found here on
-the 4-position would have allowed an extremely wide array of substituents.
-Electron-rich things, electron-poor things, heavy things, light things, and on
-and on. This could have been a location of much variation, but it is a
-possibility that the uncertainties of dosage might extrapolate to these novel
-ring substitutions as well. Only a single variation was made, the
-4-fluorobenzyl analogue (3C-FBZ). It has been assayed only up to 4 milligrams
-and there was absolutely no activity of any kind observed at that level.
-
-## Related Compounds
-
-- [[mescaline]] -- 3,4,5-trimethoxyphenethylamine
-
-- [[3c-e-entity]]
-- [[alexander-shulgin]]

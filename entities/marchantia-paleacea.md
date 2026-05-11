@@ -11,17 +11,17 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Bischler-Causse, H. (1993). "Marchantia L.: The European and African Taxa." Bryophytorum Bibliotheca, Vol. 44. J. Cramer, Berlin.
-  - Schuster, R.M. (1992). "The Hepaticae and Anthocerotae of North America," Vol. VI. Field Museum of Natural History, Chicago.
+  - Schuster, R.M. (1992). "The Hepaticae and Anthocerotae [[berry-growing]]," Vol. VI. Field Museum of Natural History, Chicago.
   - Söderström, L. et al. (2016). "World Checklist of Hornworts and Liverworts." PhytoKeys 59: 1–828.
 ---
 
 ## Overview
 
-Marchantia paleacea is a thallose liverwort in the family Marchantiaceae, closely related to the model organism Marchantia polymorpha. It is widely distributed across temperate and subtropical regions of the Northern Hemisphere, growing on moist, calcareous soils.
+Marchantia paleacea is a thallose liverwort in the family Marchantiaceae, closely related to the model organism [[marchantia-polymorpha]]. It is widely distributed across temperate and subtropical regions of the Northern Hemisphere, growing on moist, calcareous soils.
 
 The species forms prostrate, dichotomously branched thalli 1–2 cm wide and 2–5 cm long. It is distinguished from Marchantia polymorpha by its more delicate texture, thinner thallus margins, and distinctive crescent-shaped gemmae cups.
 
-Marchantia paleacea is less commonly encountered than its famous relative but serves as an important subject in bryological research. Its cellular anatomy and reproductive biology have been studied extensively in the context of land plant evolution.
+Marchantia paleacea is less commonly encountered than its famous relative but serves as an important subject in bryological research. Its cellular anatomy and [[clarke-marijuana-botany-sex-determination-reproductive-biology]] have been studied extensively in the context of land plant evolution.
 
 The species is of particular interest to evolutionary biologists because it retains ancestral features of early land plants while displaying derived characters unique to the Marchantia lineage.
 
@@ -53,7 +53,7 @@ Ventral scales are present in two rows along the midrib, with appendages that ar
 
 Gemmae cups are borne on the dorsal surface, producing disc-shaped gemmae for asexual reproduction. The gemmae are smaller and more delicate than those of Marchantia polymorpha, measuring 0.3–0.5 mm in diameter.
 
-Rhizoids are of two types: smooth-walled and pegged (tuberculate). Smooth rhizoids anchor the thallus, while pegged rhizoids conduct water along the ventral surface through capillary action.
+Rhizoids are of two types: smooth-walled and pegged (tuberculate). Smooth rhizoids anchor the thallus, while pegged rhizoids conduct water along the ventral surface through [[capillary-action-in-soils]].
 
 Oil bodies are present in all thallus cells, appearing as small, ovoid inclusions visible under high magnification. These structures contain terpenoid compounds characteristic of the Marchantiales.
 
@@ -87,25 +87,4 @@ Spores are small (12–20 μm in diameter), thin-walled, and adapted for wind di
 
 ## Ecological Role
 
-Marchantia paleacea contributes to primary succession on bare soils, helping to stabilize substrates and initiate soil formation. Its thalli trap fine particles and organic matter, creating microhabitats for soil microorganisms.
-
-The species provides habitat for microscopic invertebrates, including tardigrades, rotifers, and nematodes. These organisms find refuge in the moist spaces between thalli and within air chambers.
-
-Like other liverworts, Marchantia paleacea produces secondary metabolites including marchantin-type bis-bibenzyls. These compounds have antimicrobial and antifungal properties that may deter herbivory and pathogen infection.
-
-The species is an important model for studying the evolution of land plant developmental genetics. Comparisons between Marchantia paleacea and Marchantia polymorpha reveal insights into the diversification of early land plants.
-
-Unlike Marchantia polymorpha, which has become a globally invasive weed, Marchantia paleacea shows more restricted ecological amplitude. This difference makes it valuable for comparative studies of bryophyte invasiveness and niche breadth.
-
-## See Also
-
-- [[marchantia-polymorpha]]
-- [[conocephalum-conicum]]
-- [[lunularia-cruciata]]
-- [[pellia-epiphylla]]
-- [[riccia-fluitans]]
-- [[frullania-dilatata]]
-- [[sphagnum-palustre]]
-- [[polytrichum-commune]]
-- [[bryum-argenteum]]
-- [[hypnum-cupressiforme]]
+Marchantia paleacea contributes to [[dighton-fungi-volcanic-glacier-primary-succession]] on bare soils, helping to stabilize substrates and initiate soil formation. Its thalli trap fine particles [[hamilton-composting-and-organic-matter-management]], creating microhabitats for soil microorganisms.

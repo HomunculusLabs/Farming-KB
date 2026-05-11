@@ -11,9 +11,9 @@ updated: 2026-04-26
 
 ## The Tryptamine Skeleton
 
-The tryptamine molecule is a naturally occurring compound found in both the animal and plant kingdoms. It is an endogenous component of the human brain. The term "tryptamine" refers both to the simple parent compound and to any of a series of compounds containing the tryptamine skeleton, modified by chemical constituents at appropriate positions in the molecule.
+The tryptamine molecule is a naturally occurring compound found in both the animal and plant kingdoms. It is an endogenous component of the human brain. The term "tryptamine" refers both to the simple parent compound and to any of a series of compounds containing the tryptamine skeleton, modified by [[guzman-magic-mushrooms-chemical-constituents]] at appropriate positions in the molecule.
 
-The core structure consists of an **indole ring** fused to a two-carbon ethylamine side chain at the 3-position. The indole ring itself is a bicyclic system of a benzene ring fused to a pyrrole ring, providing multiple sites for chemical modification.
+The core structure consists of an **indole ring** fused to a two-carbon ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at the 3-position. The indole ring itself is a bicyclic system of a benzene ring fused to a pyrrole ring, providing multiple sites for chemical modification.
 
 ## Key Positions for Substitution
 
@@ -23,13 +23,13 @@ Tryptamine chemistry revolves around modification at several critical positions:
 - **The 5-position** (on the benzene ring): The most critical position for potency. A 5-methoxy group (5-MeO) dramatically increases potency (e.g., 5-MeO-DMT). The 5-hydroxy yields bufotenine (5-HO-DMT) and is the position where tryptamine is converted to serotonin.
 - **The 6-position**: Generally considered the "kiss of death" for psychedelic activity. Substitutions here tend to decrease potency.
 - **The alpha-carbon** (adjacent to the amine on the side chain): Alpha-methylation protects the molecule from monoamine oxidase (MAO) destruction, enabling [[tihkal-oral-activity-mao-inhibition]].
-- **The nitrogen (terminal amine)**: N,N-dimethylation (as in DMT) is common. N-substitution patterns (methyl, ethyl, isopropyl, etc.) profoundly affect potency, duration, and oral bioavailability.
+- **The nitrogen (terminal amine)**: N,N-dimethylation (as in DMT) is common. N-substitution patterns (methyl, ethyl, isopropyl, etc.) profoundly affect potency, duration, [[first-pass-metabolism-and-oral-bioavailability]].
 
 ## General Synthetic Approach
 
 The primary synthetic route to substituted tryptamines described in TIHKAL follows a consistent pattern:
 
-1. **Indole starting material** (substituted or unsubstituted) is reacted with **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]** in anhydrous diethyl ether to form the **indol-3-ylglyoxyl chloride** intermediate.
+1. **Indole [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]** (substituted or unsubstituted) is reacted with **[[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]** in anhydrous diethyl ether to form the **indol-3-ylglyoxyl chloride** intermediate.
 
 2. This intermediate is treated with a **secondary amine** (dimethylamine, diethylamine, etc.) to form the corresponding **glyoxylamide**.
 
@@ -47,7 +47,7 @@ Several key SAR principles emerge from the TIHKAL data:
 - **Alpha-methylation** converts parenterally-only active tryptamines (DMT, DET, 5-MeO-DMT) into orally active compounds by blocking MAO destruction.
 - **N-substitution** with increasingly larger groups (methyl through isopropyl) can convert non-orally-active compounds to orally active ones, but excessive bulk destroys activity.
 - **4,5-Methylenedioxy** substitutions yield rich psychedelic activity, while 5,6-methylenedioxy analogues are relatively uninteresting.
-- **Fluorine substitution** at oxidation-sensitive positions can dramatically alter pharmacological profiles, sometimes producing potent MAO inhibitors rather than psychedelics.
+- **Fluorine substitution** at oxidation-sensitive positions can dramatically alter pharmacological profiles, sometimes producing potent [[mao-inhibitors-and-psychedelics]] rather than psychedelics.
 
 ## Chirality
 
@@ -87,14 +87,3 @@ Shulgin's commentary provides concrete illustrations of SAR principles:
 - **2-methyl and oral activity**: 2-Me-DMT (2,N,N-trimethyltryptamine) gains oral activity through the 2-methyl group, which protects against MAO destruction -- a pattern shared with 2-Me-DET and 5-MeO-TMT.
 
 ## Relationship to Phenethylamine Chemistry
-
-Shulgin emphasizes the analogies between tryptamine and phenethylamine substitution patterns:
-- The **5-methoxy** group on tryptamines is the positional analogue of the **4-substituent** in the phenethylamine world
-- **4,5-methylenedioxy** on tryptamines parallels MDA/MDMA in the phenethylamines
-- Understanding these cross-family analogies helps predict the activity of new compounds
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]

@@ -88,30 +88,3 @@ Standard spot tests typically yield C+ red to orange reactions from the medulla.
 TLC analysis can reliably distinguish *N. expansum* from *N. arcticum* and *N. laevigatum* based on differences in their secondary metabolite profiles. Chemical identification is essential for accurate species determination.
 
 ## Similar Species
-
-*Nephroma expansum* is most easily confused with *Nephroma arcticum*, the Arctic kidney lichen. *N. arcticum* typically has smaller, more thickly lobed thalli with a more densely tomentose lower surface.
-
-*N. arcticum* occupies more northerly latitudes and higher elevations than *N. expansum*. It also produces different secondary metabolites, including gymnemic acid derivatives not found in *N. expansum*.
-
-*Nephroma laevigatum* has a smoother upper surface with less prominent veining on the lower surface. It tends to grow on more acidic bark substrates and is generally less common than *N. expansum*.
-
-The foliose cyanolichen *Peltigera membranacea* can superficially resemble *Nephroma* species but lacks the reticulate vein pattern on the lower surface. *Peltigera* also has a different photobiont arrangement and produces cephalodia rather than lower-surface apothecia.
-
-*Lobaria pulmonaria* is another large foliose cyanolichen that may co-occur with *N. expansum*. It is distinguished by its reticulate ridges on the upper surface and the absence of the distinctive Nephroma vein pattern below.
-
-## Conservation Status
-
-*Nephroma expansum* is considered threatened or near-threatened in several European countries. Habitat loss through deforestation is the primary driver of population declines.
-
-The species is listed on the red lists of Norway, Sweden, Finland, and Switzerland. In these countries, old-growth forest removal and forest management intensification have reduced available habitat.
-
-In North America, populations are more secure but declining in areas subject to intensive logging. Conservation recommendations include retaining large trees and maintaining canopy continuity in managed forests.
-
-The species' inability to produce soredia limits natural dispersal and recolonization of suitable habitat. This life history trait makes it particularly vulnerable to habitat fragmentation.
-
-## See Also
-
-- [[peltigera-canina]]
-- [[lobaria-pulmonaria]]
-- [[hypogymnia-physodes]]
-- [[cetraria-islandica]]

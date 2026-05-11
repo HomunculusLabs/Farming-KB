@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis sex determination floral biology and Floral Biology
+title: Cannabis Sex Determination Floral Biology
 created: 2026-04-28
 tags: [cannabis, sex-determination, dioecy, flowering, marijuana-botany]
 date: 2026-04-25
@@ -26,7 +26,7 @@ plant's value.
 [[photoperiod-cannabis]] produces
 approximately equal numbers of pure staminate and pure pistillate plants
 with a few hermaphrodites. Environmental stressors including nutrient
-excess or deficiency, mutilation, and altered light cycles can shift
+excess or deficiency, mutilation, and altered [[cannabis-photoperiodism-and-light-cycles]] can shift
 this ratio dramatically away from the expected 1:1 proportion.
 
 ## Key Concepts
@@ -60,7 +60,7 @@ protruding from a thin membranous calyx covered with resin-exuding
 glandular trichomes. The calyx measures 2 to 6 millimeters and
 completely contains the ovary. Pistillate flowers are borne in pairs at
 the nodes, one on each side of the petiole behind the stipule of
-bracts that conceal the flowers. The resin glands on the calyx surface
+bracts that conceal the flowers. The [[greg-green-trichomes-and-resin-glands]] on the calyx surface
 produce the THC-laden trichomes that define the plant's psychoactive
 properties.
 
@@ -88,51 +88,3 @@ the sex of pistillate plants and prevent hermaphrodism.
 ### Sinsemilla Biology and Resin Production
 
 When pistillate plants remain unfertilized, the paired pistils wither
-but the calyxes continue swelling, and glandular trichomes grow and
-secrete aromatic THC-laden resins. Hormonal changes from seeding affect
-all metabolic processes including [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]. Upon
-fertilization, the plant channels energy into [[cervantes-seed-production-storage]] instead
-of resin production. The exact nature of these enzymatic changes
-remains unknown, but sinsemilla plants continue producing new floral
-clusters until late fall while seeded plants cease floral production.
-
-### Phyllotaxy Changes During Flowering
-
-Before flowering begins, leaf arrangement (phyllotaxy) reverses and the
-number of leaflets per leaf decreases until a small single leaflet
-appears below each pair of calyxes. The phyllotaxy also changes from
-decussate (opposite) to alternate (staggered) and usually remains
-alternate throughout the floral stages regardless of sexual type.
-
-## Applications
-
-### Sex Identification for Sinsemilla Production
-
-Growers remove all male plants to prevent pollination and produce
-seedless flowers with maximum resin content. Accurate sex identification
-requires waiting for actual flower formation, as prefloral primordia
-can be ambiguous, especially in hybrids where small non-flowering
-limbs may be confused with male primordia.
-
-### Controlled Breeding Programs
-
-Careful hand pollination using isolation bags allows breeders to
-control parentage. Data collection through numbered tagging and
-record books is essential for reproducible breeding results. The
-staminate parent contributes half the genotype and must be preserved
-and evaluated for favorable characteristics alongside pistillate
-parents.
-
-### Chromosome Biology and Trait Inheritance
-
-Understanding homozygous and heterozygous gene combinations allows
-breeders to predict offspring characteristics. Homozygous plants breed
-true for specific traits, while heterozygous plants produce variable
-offspring. Imported strains typically exhibit great seedling diversity
-for most traits.
-
-## References
-
-## See Also
-- [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-- [[clarke-marijuana-botany-sex-determination-reproductive-biology]]

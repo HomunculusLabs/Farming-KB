@@ -9,7 +9,7 @@ sources: []
 # Rock-Inhabiting and Oligotrophic Fungi
 Rocks exposed to high solar radiation, extreme temperatures,
 low nutrients, high electrolyte concentrations, and low
-humidity represent extreme environments colonized by unique
+humidity represent [[fungal-biodiversity-in-extreme-environments]] colonized by unique
 species of stress-tolerant fungi. These organisms challenge
 our understanding of the limits of fungal life.
 ## Rock-Inhabiting Fungi (Microcolonial Fungi)
@@ -27,7 +27,7 @@ our understanding of the limits of fungal life.
 - Arid region rock surfaces (sometimes with "desert varnish")
 - Various rock types and climatic conditions
 ### Desert Varnish
-- Brown, black, or orange coating on rock surfaces in arid regions
+- Brown, black, or orange coating on rock surfaces [[fukuoka-natural-farming-in-arid-regions]]
 - Rich in manganese and iron oxides and clay minerals
 - Formed by activities of lichenized epilithic and endolithic
   cyanobacteria, chemoorganotrophic bacteria, and fungi
@@ -39,7 +39,7 @@ our understanding of the limits of fungal life.
 - Soils contain sufficient nutrients or atmospheric carbon for
   slow growth of oligotrophic species
 - Likely prevalent in deep soils and low-carbon habitats
-- Not detected by traditional nutrient-rich isolation methods
+- Not detected by traditional nutrient-rich [[biodiversity-of-fungi-soil-isolation-methods]]
 - Represent new frontiers for fungal ecology
 ## Halophilic and Xerophilic Fungi
 ### Xerophilic Fungi
@@ -55,7 +55,7 @@ our understanding of the limits of fungal life.
 - No strictly halophilic fungi found along Dead Sea valley,
   only halotolerant species
 - Hortaea werneckii, Phaeotheca triangularis, and
-  Aureobasidium pullulans are black yeastlike fungi from
+  [[aureobasidium-pullulans]] are black yeastlike fungi from
   hypersaline saltpans at 15-30% salinity
 ## Phylogenetic Diversity and Taxonomic Placement
 Rock-inhabiting fungi are polyphyletic, arising from multiple
@@ -70,7 +70,7 @@ morphological and physiological strategies, making them a
 textbook example of convergent evolution in response to
 environmental stress.
 ## Biogeochemical and Weathering Roles
-Rock-inhabiting fungi contribute to mineral weathering and soil
+Rock-inhabiting [[query-how-do-fungi-contribute-to-carbon-sequestration]] [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]] and soil
 formation through both mechanical and chemical processes. Their
 hyphae penetrate microfractures in rock surfaces, exerting
 physical pressure that widens cracks over time. They secrete
@@ -88,13 +88,3 @@ the potential for life on Mars and other planetary bodies.
 Experiments exposing microcolonial fungi to simulated Martian
 conditions have demonstrated remarkable survival capabilities.
 The black fungus Cryomyces antarcticus, isolated from Antarctic
-sandstone, survived exposure to conditions on the outer surface
-of the International Space Station for over a year. These
-findings inform planetary protection protocols and shape our
-understanding of biological limits for life beyond Earth.
-## See Also
-- [[biodiversity-endolithic-fungi]] for fungi living inside rocks
-- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
-- [[microfungal-species-diversity-large-areas]]
-- [[biodiversity-xerophilic-fungi-dry-environments]]
-- [[acidophilic-alkalophilic-fungi]]

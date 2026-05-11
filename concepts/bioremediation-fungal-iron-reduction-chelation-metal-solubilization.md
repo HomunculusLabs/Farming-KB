@@ -88,11 +88,3 @@ states contributes to biogeochemical iron cycling in both aerobic
 and anaerobic soil environments. This redox cycling can mobilize
 or immobilize associated metals and metalloids depending on local
 conditions.
-
-## See Also
-
-- [[bioremediation-fungal-metal-metalloid-transformations]]
-- [[fungal-intracellular-metal-binding-molecules]]
-
-- [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]
-- [[mycoremediation]]

@@ -25,7 +25,7 @@ reticulate bolete, is a large, edible bolete fungus in the family
 Boletaceae.
 
 It is closely related to and often considered a separate species from
-Boletus edulis, distinguished by its earlier fruiting period and
+[[boletus-edulis-entity]], distinguished by its earlier fruiting period and
 prominently reticulate stipe that extends to the base.
 
 Many European mycologists recognize B. reticulatus as a distinct species,
@@ -43,7 +43,7 @@ and commercial contexts.
 - **Species:** B. reticulatus (Schaeff.) Boud. (1906)
 - **Synonyms:**
   - Boletus edulis f. reticulatus (Schaeff.) J. Blum
-  - Boletus aereus var. reticulatus (Schaeff.) Fr.
+  - [[boletus-aereus]] var. reticulatus (Schaeff.) Fr.
   - Tubiporus reticulatus (Schaeff.) Maire
   - Boletus edulis subsp. reticulatus (Schaeff.) Konrad & Maubl.
 
@@ -82,66 +82,8 @@ It is also found in North Africa, the Middle East, and temperate Asia,
 with reports from China and Japan requiring molecular confirmation.
 
 The species is ectomycorrhizal, primarily associating with oaks (Quercus
-robur, Q. petraea, Q. ilex) and beech (Fagus sylvatica), less commonly
+robur, Q. petraea, Q. ilex) and beech ([[fagus-sylvatica]]), less commonly
 with chestnut and hornbeam.
 
 It prefers warm, well-drained soils and fruits earlier than B. edulis,
 from June through September, often appearing after warm summer rains.
-
-## Ecological Role
-
-As an ectomycorrhizal bolete, B. reticulatus forms extensive mycelial
-networks connecting to [[ectomycorrhizal-host-tree-partnerships]] root systems through [[dighton-ectomycorrhizal-hartig-net-structure-function]]
-structures.
-
-The fungus is particularly effective at phosphorus mobilization,
-solubilizing mineral phosphates through [[fungal-organic-acid-metal-solubilization]] exudation and
-making phosphorus available to host trees.
-
-Its large, long-lived fruiting bodies provide a significant food source
-for forest fauna including deer, wild boar, rodents, and numerous insect
-species that complete their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] within decaying boletes.
-
-## Edibility and Culinary Use
-
-Boletus reticulatus is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], considered by many
-connoisseurs to be at least equal to B. edulis in culinary quality.
-
-The flesh is firmer and denser than B. edulis, with a slightly more
-pronounced nutty flavor that holds up well to drying and long-cooking
-preparations.
-
-It is widely used in Italian, French, and Eastern European cuisine — in
-risotto, pasta, soups, and as a dried condiment (porcini).
-
-Drying concentrates the flavor significantly; dried B. reticulatus
-develops intense umami characteristics and is reconstituted for use in
-broths, sauces, and stuffings throughout the year.
-
-No toxic lookalikes exist among the reticulate-stiped boletes, though
-Tylopilus felleus (bitter bolete) is distinguished by its pink pore
-surface and intensely bitter taste.
-
-## Similar Species
-
-- **Boletus edulis:** Cap cuticle partially peelable, stipe reticulation
-  restricted to upper portion, fruits autumn through winter.
-- **Boletus aereus:** Dark brown to black cap, white reticulation, pores
-  remain white longer; associated with oaks in warm regions. Key lookalike: Tylopilus felleus
-(bitter bolete) has pink pores and intensely bitter taste — not toxic but
-unpalatable.
-
-## Permaculture and Agroforestry Applications
-
-B. reticulatus is a highly desirable species for temperate food forests
-and agroforestry systems that include oak or beech canopy trees.
-
-Mature oak stands can support natural fruitings, providing a high-value
-seasonal harvest without active cultivation. The species is sensitive to
-soil disturbance and chemical inputs, making it a natural bioindicator
-of low-intensity, chemical-free land management.
-## See Also
-
-- [[boletus-pinophilus]]
-- [[agaricus-sylvicola]]
-- [[tricholoma-portentosum]]

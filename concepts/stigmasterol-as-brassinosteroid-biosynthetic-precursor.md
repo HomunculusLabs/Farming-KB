@@ -1,5 +1,5 @@
 ---
-title: Stigmasterol as stigmasterol as brassinosteroid biosynthetic precursor Precursor
+title: Stigmasterol As Brassinosteroid Biosynthetic Precursor
 tags: [biochemistry, steroids, brassinosteroids, stigmasterol, biosynthesis, mycology]
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt
 created: 2026-05-08
@@ -17,8 +17,8 @@ plant sterol to active brassinolide compounds, including 22S,23S-homobrassinolid
 
 Stigmasterol (C29H48O) is a plant-derived phytosterol structurally related to
 cholesterol but distinguished by an ethyl group at C-24 and a double bond between
-C-22 and C-23 in the side chain. This specific side-chain configuration makes it
-an ideal starting material for brassinosteroid synthesis because the brassinolide
+C-22 and C-23 in the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. This specific side-chain configuration makes it
+an ideal [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for brassinosteroid synthesis because the brassinolide
 skeleton requires precisely these modifications at the side chain terminus.
 
 The molecular structure of stigmasterol contains the characteristic steroid
@@ -70,7 +70,7 @@ synthetic brassinosteroids have shown promising results in:
 - Increasing crop yields in field trials
 - Conferring anti-stress effects (drought, temperature, salinity tolerance)
 - Enhancing photosynthetic efficiency
-- Improving fruit set and seed production
+- Improving fruit set and [[cannabis-controlled-pollination-seed-production]]
 
 ## Connection to Fungal Physiology
 
@@ -82,51 +82,8 @@ synthesized from stigmasterol had potent growth-promoting effects on
 - The synthetic brassinosteroid from stigmasterol was effective at extremely
   low concentrations (0.01 ppm)
 - It suggested that brassinosteroids may play a biological role beyond the
-  plant kingdom, potentially in fungal signaling or metabolism
+  plant kingdom, potentially in [[plant-fungal-signaling-mycorrhiza]] or metabolism
 
 ## Extraction and Purification
 
 Industrial extraction of stigmasterol from plant sources typically involves:
-
-1. Saponification of plant oil or plant material to release free sterols
-2. Solvent extraction using hexane, chloroform, or ethanol
-3. Column chromatography or recrystallization to separate stigmasterol from
-  other phytosterols (particularly beta-sitosterol and campesterol)
-4. Final purification by silver nitrate-impregnated silica gel chromatography
-  to resolve the C-24 isomers
-
-The purity requirements for stigmasterol used as a brassinosteroid precursor
-are demanding, as side-chain isomerism directly affects the stereochemistry of
-the final brassinolide product.
-
-## Analytical Detection
-
-Stigmasterol can be detected and quantified using several analytical methods:
-
-- **Gas chromatography (GC)**: After derivatization to trimethylsilyl ethers,
-  stigmasterol can be separated from other sterols with high resolution
-- **High-performance liquid chromatography (HPLC)**: Reverse-phase HPLC with
-  UV detection at 205-210 nm provides reliable quantification
-- **Mass spectrometry (MS)**: Electron impact MS of stigmasterol shows a
-  characteristic molecular ion at m/z 412 and diagnostic fragment ions
-- **Nuclear magnetic resonance (NMR)**: Both 1H and 13C NMR provide definitive
-  structural confirmation, particularly the vinyl proton signals at C-22/C-23
-
-## Pharmacological Relevance
-
-Beyond its role as a brassinosteroid precursor, stigmasterol itself has
-biological activities:
-
-- Cholesterol-lowering effects through competitive inhibition of intestinal
-  cholesterol absorption
-- Anti-inflammatory properties demonstrated in various animal models
-- Potential anti-cancer activity through modulation of cell signaling pathways
-- Antioxidant activity that may contribute to plant [[fungal-lichen-stress-tolerance-and-poikilohydry]]
-
-## See Also
-
-- [[stigmasterol-brassinosteroid-biosynthetic-precursor-fungal-systems]]
-
-- [[brassinosteroids]]
-- [[phytohormone-cross-kingdom-fungal-effects]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]]

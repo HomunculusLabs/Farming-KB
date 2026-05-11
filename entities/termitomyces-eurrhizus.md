@@ -14,7 +14,7 @@ sources:
   - Heim, R. (1977). "Termites et champignons." Les Termites de l'Afrique, Masson, Paris.
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin 49(4): 717-737.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
-  - Katoh, H. et al. (2002). "Genetic diversity of *Termitomyces* symbionts in fungus-growing termites." Mycoscience 43(3): 193-198.
+  - Katoh, H. et al. (2002). "[[biodiversity-fungal-genetic-diversity]] of *Termitomyces* symbionts in fungus-growing termites." Mycoscience 43(3): 193-198.
 created: 2026-04-28
 ---
 
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 **Termitomyces eurrhizus** (Berk.) R. Heim is a highly prized [[bloomfield-boletus-satanus-edible-mushroom-hazards]] in the family Lyophyllaceae.
 
-It is an obligate symbiont of fungus-growing termites (Macrotermitinae), cultivated within termite mounds across tropical Africa and South and Southeast Asia.
+It is an obligate symbiont of fungus-growing termites (Macrotermitinae), cultivated within termite mounds across tropical Africa and South and [[psilocybe-southeast-asia-pacific]].
 
 The species is among the most commercially valuable [[edible-wild-mushrooms-by-region]] in several African and Asian countries.
 
@@ -38,7 +38,7 @@ The species is among the most commercially valuable [[edible-wild-mushrooms-by-r
 - **Genus:** Termitomyces R. Heim
 - **Species:** T. eurrhizus (Berk.) R. Heim
 - **Basionym:** Agaricus eurrhizus Berk. (1847)
-- **Synonyms:** Podabrella eurrhiza (Berk.) Pegler, Termitomyces eurhizus (Berk.) R. Heim
+- **Synonyms:** Podabrella eurrhiza (Berk.) Pegler, [[termitomyces-eurhizus]] (Berk.) R. Heim
 
 The genus name *Termitomyces* references the termite association, while *eurrhizus* refers to the well-developed rooting structure.
 
@@ -76,43 +76,14 @@ Genetic studies show this vertical transmission has led to strict co-cladogenesi
 
 ## Edibility and Culinary Use
 
-*T. eurrhizus* is one of the most commercially important wild [[palmer-edible-mushrooms-north-america]] in tropical regions.
+*T. eurrhizus* is one of the most commercially important wild [[palmer-edible-mushrooms-north-america]] [[fukuoka-natural-farming-in-tropical-regions]].
 
 In West and Central Africa, it is sold in local markets at premium prices and forms an important source of income for rural collectors.
 
 The flesh is firm, white, and has a mild to nutty flavor. It is used in soups, stews, and stir-fried dishes.
 
-Nutritional analysis shows high protein content (20–30% dry weight), significant levels of essential amino acids, and minerals including potassium, phosphorus, and zinc.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows high protein content (20–30% dry weight), significant levels of essential amino acids, and minerals including potassium, phosphorus, and zinc.
 
 The mushroom also contains bioactive polysaccharides with documented antioxidant and immunomodulatory properties.
 
 ### Cultivation Attempts
-
-Cultivation of *Termitomyces* species has proven exceptionally difficult due to their obligate symbiotic relationship with termites.
-
-The fungus requires the specific biochemical and physical environment of the termite comb for normal growth and fruiting.
-
-In vitro growth on standard [[growing-gourmet-agar-media-formulas-preparation]] is possible but slow, and fruiting has rarely been achieved without termite association.
-
-Research into the metabolic basis of the symbiosis continues, with the goal of eventually enabling [[fukuoka-matsutake-artificial-cultivation-attempt]] of these valuable mushrooms.
-
-### Related Species
-
-The genus *Termitomyces* contains approximately 30 described species, many of which are regionally endemic.
-
-*T. titanicus*, also from Africa, produces the largest known mushroom by pileus diameter, reaching over 1 meter.
-
-*T. microcarpus* is a smaller species with a more slender stipe, common in Southeast Asian markets.
-
-*T. clypeatus* is found across India and is also commercially harvested.
-
-All species in the genus share the characteristic perforatorium root structure and termite association.
-
-## See Also
-
-- [[termitomyces-fuliginosus]]
-
-- [[volvariella-volvacea]]
-- [[agaricus-bisporus]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[schizophyllum-commune]]

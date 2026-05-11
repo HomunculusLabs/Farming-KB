@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Solidago speciosa, commonly called showy goldenrod, is a perennial herbaceous plant in the family Asteraceae native to eastern and central North America.
+Solidago speciosa, commonly called showy goldenrod, is a perennial herbaceous plant in the family Asteraceae native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
 
 It is one of the taller and more ornamental goldenrod species, valued in horticulture for its erect habit, showy inflorescences, and late-season bloom. The species is an important nectar source for late-season pollinators.
 
@@ -29,7 +29,7 @@ Plants grow 0.6–2 meters tall with smooth, glaucous stems that are often purpl
 
 Basal rosette leaves are larger, up to 20 cm long, and persist through winter in mild climates. Stem leaves decrease in size upward and are sessile or short-petiolate.
 
-Leaf margins are sharply serrate with 12–20 teeth per side. The upper leaf surface is dark green and glabrous, while the lower surface may be slightly pubescent along the veins.
+Leaf margins are sharply serrate with 12–20 teeth per side. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and glabrous, while the lower surface may be slightly pubescent along the veins.
 
 The inflorescence is a broad, paniculate cluster, pyramidal in outline, with recurved branches. Individual flower heads are small, about 4–6 mm across.
 
@@ -43,13 +43,13 @@ Achenes are small, compressed, and topped with a white pappus of bristly hairs t
 
 ## Distribution and Habitat
 
-S. speciosa ranges from New England and southern Ontario west to Minnesota and south to Georgia and Texas. It is most abundant in the central and midwestern United States.
+S. speciosa ranges from New England and southern Ontario west to Minnesota and south to Georgia and Texas. It is most abundant in the central and midwestern [[dmt-containing-plants-united-states-halpern]].
 
 The species inhabits open woodlands, prairies, savannas, glades, and roadside margins. It prefers well-drained, sandy or rocky soils in full sun to partial shade.
 
 It is less aggressive than many goldenrod species and does not typically form monocultures. Showy goldenrod is hardy in USDA zones 3–8.
 
-The species is found in both calcareous and acidic soils. Its broad ecological tolerance contributes to its wide geographic distribution across [[polypore-fungi-eastern-north-america]] America.
+The species is found in both calcareous and acidic soils. Its broad ecological tolerance contributes to its wide [[geographic-distribution-of-psilocybe-species]] across [[polypore-fungi-eastern-north-america]] America.
 
 The species is adapted to fire-prone ecosystems and resprouts readily from its caudex after prescribed burns. This fire tolerance makes it a valuable component of [[comparison-prairie-restoration-vs-silvopasture]] seed mixes.
 
@@ -67,11 +67,11 @@ The species is moderately drought-tolerant once established. Its deep taproot sy
 
 Showy goldenrod is resistant to most common plant diseases. Rust fungi (Coleosporium spp.) occasionally produce orange pustules on the undersides of leaves.
 
-The species is a component of several federally recognized pollinator habitat restoration seed mixes. Conservation organizations recommend S. speciosa for monarch butterfly waystations.
+The species is a component of several federally recognized [[pollinator-habitat]] restoration seed mixes. Conservation organizations recommend S. speciosa for monarch butterfly waystations.
 
 ## Cultivation
 
-S. speciosa is increasingly used in native plant gardens, meadow plantings, and ecological restoration projects. It is propagated by seed, division, or root cuttings.
+S. speciosa is increasingly used in native plant gardens, meadow plantings, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects. It is propagated by seed, division, or root cuttings.
 
 Seeds germinate readily without stratification when sown in spring. Seed should be surface-sown or lightly pressed into the soil, as light exposure aids germination.
 
@@ -88,28 +88,3 @@ Deer and rabbit browsing is generally minimal, making it suitable for unfenced n
 ## Ethnobotanical Uses
 
 [[halpern-sacramental-peyote-and-native-american-church]] tribes used goldenrod species medicinally for various ailments. The Ojibwa prepared a root decoction for fever, while the Cherokee used leaf infusions for urinary complaints.
-
-The specific ethnobotanical record for S. speciosa is limited, as many tribal uses were documented at the genus level rather than for individual species.
-
-Some Plains tribes used goldenrod inflorescences in ceremonial arrangements and as a source of yellow dye for textiles and basketry materials.
-
-European herbalists historically used goldenrod (primarily European S. virgaurea) as a diuretic and anti-inflammatory agent. American species were adopted into similar herbal traditions by early settlers.
-
-Goldenrod tea was a popular folk remedy in colonial America. The flowers were also used as a natural dye, producing shades of yellow and olive green.
-
-The plant contains saponins, flavonoids, and diterpenes that may contribute to its traditional medicinal properties. Modern pharmacological studies on Solidago species have identified anti-inflammatory and diuretic activities.
-
-Thomas Jefferson grew goldenrod species at Monticello, reflecting the plant's early popularity in American horticulture. The genus name derives from the Latin "solidare," meaning to make whole, referencing its medicinal reputation.
-
-In modern herbalism, S. speciosa is occasionally used as a substitute for the European S. virgaurea in tinctures and teas. However, clinical evidence remains limited compared to its better-studied European relative.
-
-Commercially, showy goldenrod seed is available from numerous native plant nurseries and seed suppliers. The species is recommended for rain gardens, bioswales, and [[permplant-willows-salix-erosion-control-fodder]] plantings due to its deep root system.
-
-## See Also
-
-- solidago-virgaurea
-- [[echinacea-purpurea]]
-- [[monarda-fistulosa]]
-- [[verbascum-thapsus]]
-- [[arnica-montana]]
-- [[rudbeckia-laciniata]]

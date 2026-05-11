@@ -9,6 +9,7 @@ updated: 2026-05-06
   - mollison-pdm
 date: permaculturepdated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 tags: [reference]

@@ -1,5 +1,5 @@
 ---
-title: "Dextromethorphan (DXM)"
+title: Dxm
 type: chemical
 tags:
   - dissociative
@@ -11,10 +11,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Schadel, M. et al. (1996). "Dextromethorphan pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
+  - Schadel, M. et al. (1996). "[[dextromethorphan]] pharmacokinetics." Clinical Pharmacology & Therapeutics 59(4): 403–412.
   - Werder, S.F. (2014). "Dextromethorphan abuse: a new cause of psychosis." Primary Care Companion for CNS Disorders 16(1).
   - Zhang, Y. et al. (2006). "Dextromethorphan: pharmacology and clinical applications." CNS Drug Reviews 12(3-4): 167–183.
-  - FDA (2023). "Dextromethorphan Drug Safety Communication."
+  - FDA (2023). "Dextromethorphan [[indigenous-plant-knowledge-versus-synthetic-drug-safety-metzner]] Communication."
   - Cotter, A.C. et al. (2023). "Auvelity (dextromethorphan-bupropion) for MDD." Journal of Clinical Psychiatry 84(3).
 created: 2026-05-07
 ---
@@ -31,7 +31,7 @@ agonist.
 
 At therapeutic doses (15–30 mg), DXM suppresses cough reflexes via central
 nervous system action. At recreational doses (150–1500 mg), it produces
-dissociative, euphoric, and hallucinogenic effects comparable to ketamine
+dissociative, euphoric, and hallucinogenic effects comparable to [[ketamine]]
 and PCP.
 
 In 2022, the FDA approved a combination of dextromethorphan and bupropion
@@ -66,7 +66,7 @@ profile that varies significantly with dosage.
   dissociative effects
 - Sigma-1 receptor agonist (Ki ≈ 0.05 μM) — modulates calcium signaling
   and neuroprotection
-- Serotonin reuptake inhibitor (SERT) — mild inhibition at higher doses
+- [[serotonin]] reuptake inhibitor (SERT) — mild inhibition at higher doses
 
 **Secondary targets:**
 - Alpha-4-beta-2 nicotinic receptor antagonist
@@ -87,58 +87,3 @@ sensory awareness, music appreciation. Duration 4–6 hours.
 
 **Second plateau (250–500 mg):** Disinhibition, slurred speech, impaired
 motor coordination, closed-eye visuals, sense of detachment from body.
-
-**Third plateau (500–1000 mg):** Strong dissociation, hallucinations,
-complete dissociation from body (ego death), impaired vision, difficulty
-walking.
-
-**Fourth plateau (1000–1500+ mg):** Near-complete dissociation, profound
-hallucinations, potential psychosis-like state, dangerous loss of motor
-control. Duration 6–8 hours.
-
-## Recreational Use and Risks
-
-DXM is one of the most commonly abused over-the-counter drugs, particularly
-among adolescents. It is typically consumed as cough syrup, gel capsules,
-or extracted powder.
-
-**[[blesching-cannabis-safety-adverse-effects-evidence]] include:** tachycardia, hypertension, hyperthermia,
-nystagmus, ataxia, nausea, vomiting, urinary retention, and serotonin
-syndrome when combined with MAOIs or SSRIs.
-
-**Serotonin syndrome risk:** DXM's serotonergic activity can trigger
-life-threatening serotonin syndrome when combined with other serotonergic
-drugs. This is the most significant acute danger.
-
-Chronic heavy use has been associated with cognitive impairment, addiction,
-and Olney's lesions (vacuolization) in animal models, though human relevance
-remains debated.
-
-## Clinical Applications
-
-In 2022, the FDA approved Auvelity (dextromethorphan 45 mg / bupropion
-105 mg) for major depressive disorder. Bupropion inhibits CYP2D6, increasing
-DXM bioavailability. This combination demonstrated rapid antidepressant
-effects in [[mushroom-cancer-clinical-trials-overview]], with improvement observed within one week.
-
-DXM has also been investigated for pseudobulbar affect, neuropathic pain,
-and as a neuroprotective agent in stroke models, though these applications
-remain experimental.
-
-## Legal Status
-
-DXM is unscheduled at the federal level in most countries and is legally
-available over-the-counter. Several US states restrict sales to minors, and
-some retail chains limit purchase quantities.
-
-In some nations (Sweden, Estonia, Latvia), DXM is a controlled substance.
-The 2024 FDA approval of Auvelity placed the bupropion combination under
-prescription control, while standalone DXM remains OTC.
-
-## See Also
-
-- [[dextromethorphan]]
-- opium
-- [[muscimol-entity]]
-- [[salvinorin-a-entity]]
-- [[psilocybin]]

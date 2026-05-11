@@ -1,5 +1,5 @@
 ---
-title: Amanita Toxins and the Evolutionary Puzzle of european-mushroom-poisoning-history
+title: Bloomfield Amanita Toxins Evolutionary Puzzle Mushroom Poisoning
 created: 2026-04-28
 tags:
   - mycology
@@ -22,7 +22,7 @@ type: concept
 
 The genus Amanita contains some of the most spectacular and deadly
 mushrooms, including the [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (Amanita virosa) and the
-death cap (Amanita phalloides). These species produce amatoxins,
+death cap ([[amanita-phalloides]]). These species produce amatoxins,
 miniproteins absorbed from the intestine that destroy the liver. Yet the
 evolutionary rationale for producing such lethal delayed-action toxins
 remains a genuine biological puzzle, illuminating fundamental questions
@@ -47,11 +47,11 @@ exists; mortality is below 30 percent with treatment.
 ## Species Responsible for Fatal Poisonings
 
 The death cap (Amanita phalloides) causes most fatal mushroom poisonings
-in Europe and probably North America. Many recent U.S. cases involved
+in Europe and probably [[guzman-psilocybin-mushrooms-north-america]]. Many recent U.S. cases involved
 immigrants who misidentified lethal Amanita as edible species from their
 homeland. Destroying angels and death caps resemble the paddy straw
 mushroom ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]), widely cultivated in Asia. The autumn
-skullcap (Galerina autumnalis), a classic LBM (little brown mushroom),
+skullcap ([[galerina-autumnalis]]), a classic LBM (little brown mushroom),
 contains the same amatoxins but is easily overlooked.
 
 ## The Evolutionary Puzzle of Delayed-Action Toxins
@@ -76,7 +76,7 @@ affected quickly enough. [[query-how-to-get-rid-of-slugs-and-snails-organically]
 The best explanation centers on insect larvae hatching within fruiting
 body tissues. High rates of cell division make embryos prone to genetic
 damage, so larvae in toxin-saturated flesh are highly vulnerable. The
-integrity of the entire fruiting body is critical for spore dispersal.
+integrity of the entire fruiting body is critical for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]].
 Amanita also contains phallotoxins, which bind to cellular protein
 skeletons and inhibit growth. Though not absorbed from the gut (so
 harmless to human consumers), phallotoxins serve as additional weapons
@@ -86,42 +86,5 @@ counter-defense. If insect larvae are the real targets, human casualties
 were entirely unintended by evolution.
 
 ### Hypothesis 4: Developmental Function
-Amatoxins might affect fruiting body development by limiting protein
+Amatoxins might affect [[fruiting-body-development]] by limiting protein
 synthesis in certain tissues. However, Caesar's mushroom (Amanita
-caesaria) is toxin-free and develops normally, refuting this idea.
-
-## Other Amanita Compounds
-
-The fly agaric ([[allegro-amanita-muscaria-properties-and-pharmacology]]) produces muscimol and ibotenic acid,
-which excite and sedate the nervous system by binding to brain
-receptors. The disoriented world of Lewis Carroll's Alice in Wonderland
-probably owes much to contemporary accounts of fly agaric inebriation
-by mycologist Mordecai Cubitt Cooke. Coprinus atramentarius contains
-coprine, which blocks acetaldehyde metabolism, producing symptoms
-identical to disulfiram (Antabuse) when alcohol is consumed.
-
-## Lycoperdonosis: Puffball Spore Inhalation
-
-Beyond deliberate poisoning, fungi harm through accidental exposure. In
-1994, Wisconsin teenagers who snorted puffball spores seeking
-hallucinogenic effects were hospitalized with breathing difficulties,
-fevers, and muscle pain. Puffball spores enter alveoli where macrophages
-engulf but cannot digest them due to chitinous walls, crawling around
-with conspicuous bulges. Eventually these hunchbacked immune cells
-migrate to ciliated regions and are scrubbed from lungs with their
-fungal cargo. Puffball spores were traditionally applied by midwives to
-newborn umbilical stumps to stop bleeding.
-
-## See Also
-
-- [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
-
-- [[amanita-cesarea]]
-
-- bloomfield-mushroom-poisons-and-toxidromes for broader toxicology
-- [[bloomfield-fungal-secondary-metabolites]] for secondary metabolism
-- [[fruiting-body-development]]
-- [[amanita-phalloides]]
-- [[galerina-autumnalis]]
-
-- [[bloomfield-cortinarius-webcap-orellanine-kidney-poisoning]]

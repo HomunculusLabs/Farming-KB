@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] Printing, [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]], and Preservation
+title: Mushroom Spore Printing Syringe Preparation And Preservation
 source: PF TEK [[exotic-mushroom-cultivation-guide]]
 tags:
   - mycology
@@ -87,63 +87,3 @@ difference between fresh and aged spore performance underscores the
 importance of proper preservation and timely use.
 
 ## Spore Syringe Preparation
-
-### Syringe Sterilization
-
-The syringe is sterilized by drawing boiling water into the barrel and
-allowing it to sit for approximately 1 hour. After sterilization, hot water
-is expelled and the syringe cools to room temperature before use.
-
-### Two-Hole Lid Assembly
-
-A modified jar lid with two holes is used. One accommodates the syringe
-needle, the other holds a thin stirring rod. The lid is sterilized with
-rubbing alcohol before assembly.
-
-### Sterile Water Injection and Scraping
-
-Sterile water (pre-boiled and cooled) is injected through one hole into the
-jar containing the spore print. The stirring rod is inserted through the
-second hole and used to gently scrape the print from the jar surface,
-suspending spores in sterile water for syringe loading.
-
-### Syringe Loading
-
-The sterilized syringe needle is inserted through the lid hole, and the
-spore solution is drawn into the barrel. The syringe is capped and ready
-for substrate inoculation or storage.
-
-## Syringe Storage
-
-Prepared [[mushroom-spore-syringes]] should be stored cool and dark. Under these
-conditions, syringes remain viable for several months up to approximately
-one year. Refrigeration (not freezing) extends viable storage time. Syringes
-should be labeled with species, strain, and collection date.
-
-## Desiccant Drying of Harvested Mushrooms
-
-For long-term preservation, desiccant drying removes moisture to prevent
-decomposition. Common desiccants include Drierite (anhydrous calcium
-sulfate), silica gel packets, and Damp Gone (commercial moisture absorber).
-
-### Drying Procedure
-
-1. Place a 1-inch layer of desiccant at the bottom of a sealable container
-2. Position a wire screen above the desiccant layer
-3. Arrange harvested mushrooms on the wire screen
-4. Seal the container and store at room temperature
-5. Drying takes 4 to 5 days until mushrooms are rock hard
-
-### Long-Term Storage
-
-Once thoroughly dried, mushrooms should be stored in airtight containers in
-a freezer. Sealed containers prevent moisture reabsorption and protect
-against freezer odors, preserving both structure and chemical composition.
-
-## Cool Desiccation for Alkaloid Preservation
-
-The PF TEK emphasizes that cool desiccation provides the best preservation
-of active alkaloids. Heat during drying degrades sensitive compounds,
-reducing potency. Desiccant drying at room temperature or below maximizes
-retention of active constituents, contrasting with food dehydrators or oven
-methods that may compromise alkaloid integrity through applied heat.

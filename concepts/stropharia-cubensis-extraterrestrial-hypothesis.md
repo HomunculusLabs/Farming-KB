@@ -88,35 +88,3 @@ World they encountered people who called a [[mckenna-mushroom-teonanacatl-franci
 flesh of the gods." The Inquisition was able to push the old religion
 into the mountains of Oaxaca, where it only survived in a few villages
 when Valentina and Gordon Wasson rediscovered it in the 1950s.
-
-## Competing Explanations
-
-McKenna acknowledged alternative interpretations of the mushroom
-intelligence. Rather than being literally extraterrestrial, the mushroom
-might serve as a "technological artifact allowing me to hear the alien
-when the alien is actually light-years away, using some kind of Bell
-non-locality principle to communicate." Or the mushroom might reveal
-aspects of the human psyche so alienated from ordinary awareness that
-they register as extraterrestrial.
-
-McKenna explicitly acknowledged being troubled by "how freely Bell's
-non-locality theorem is tossed around" in psychedelic discourse, while
-also noting that the intelligence encountered in the mushroom trance
-does seem to possess "a huge body of information drawn from the history
-of the galaxy."
-
-## Prehistoric Use and the Black Hole Effect
-
-The prehistoric use of ecstatic plants on this planet "is not well
-understood." Psilocybin mushroom use was historically confined to the
-central isthmus of Mexico. Stropharia cubensis is not known to be in
-archaic shamanic use anywhere in the world. DMT has been used in the
-Amazon for millennia, but by cultures McKenna described as "quite
-primitive, usually nomadic hunter-gatherers."
-
-## Related
-
-- [[stropharia-cubensis]] Concepts
-
-- [[extraterrestrial-contact-and-dmt-experience]]
-- [[terence-mckenna-tryptamine-hypothesis]]

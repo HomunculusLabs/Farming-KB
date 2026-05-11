@@ -87,29 +87,3 @@ Jastrow (1996) documented carbon recovery during prairie restoration from agricu
 - Sanders and Fitter (1992a) found AM colonization of mixed grassland varied among species but not significantly within species over time
 
 ### Spatial Heterogeneity
-
-- Farley and Fitter (1999) showed that root proliferation of seven co-occurring woodland/grassland species responded differently to localized nutrient-rich patches
-- This differential response was not affected by mycorrhizal status
-- Bever et al. (1997) demonstrated that soil community feedbacks (mediated by changes in soil organisms and nutrients) could enhance or inhibit subsequent plant growth
-
-## Climate Change Effects on Grassland Fungi
-
-- Elevated CO₂ increases C:N ratio of grassland leaf material (Gorisen and Cotrufo, 2000)
-- Hunt et al. (1991): Increased plant biomass under elevated CO₂ corresponded to increased soil organic matter accumulation in temperate grasslands, though not enough to offset atmospheric CO₂ buildup
-- CO₂-enhanced conditions favor certain AM species over others (Klironomos et al., 1997, 1998), potentially shifting community composition
-- Zak et al. (2000): Across 47 studies, the response of soil C and N cycling to elevated CO₂ varied 80-800% between life forms
-
-## Key References
-
-- Eom, A.H. et al. (2000). AM communities in tallgrass prairie. *Oecologia*.
-- van der Heijden, M.G.A. et al. (1998). Mycorrhizal diversity and plant biodiversity. *Science*.
-- Johnson, N.C. et al. (1992). AM communities in grassland. *New Phytol.*
-- Streitwolf-Engel, R. et al. (2001). Clonal plant response to AM species. *Oecologia*.
-- Gange, A.C. et al. (1993). Fungicide effects on grassland diversity. *J. Appl. Ecol.*
-
-## See Also
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-roles-grassland-ecosystems]]
-- fungal-diversity-agricultural-systems
-- [[mycorrhizal-fungi-biome-surveys]]

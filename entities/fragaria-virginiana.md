@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Darrow G.M. (1966). "The Strawberry: History, Breeding and Physiology." Holt, Rinehart and Winston.
   - Hummer K.E. et al. (2009). "Fragaria: A Genus with Deep Historical Roots and Modern Appeal." HortScience 44(5): 1255-1259.
   - USDA NRCS (2024). "Fragaria virginiana Duchesne." PLANTS Database.
@@ -86,36 +87,3 @@ The fruit also provides potassium (150–180 mg per 100 g), magnesium, and iron.
 The species is notable for its high ellagitannin content, particularly ellagic acid, which ranges from 0.5–1.2 mg/g fresh weight depending on accession and growing conditions. Bassi et al. (2021) documented significant variation in ellagic acid among wild populations, with western montane accessions showing higher concentrations than eastern lowland populations.
 
 Total phenolic content ranges from 150–300 mg GAE per 100 g fresh weight, with considerable variation among subspecies. Subspecies *glauca* typically shows higher phenolic content than subsp. *virginiana*, likely reflecting adaptation to higher UV exposure at montane elevations. The antioxidant capacity of wild *F. virginiana* fruit consistently exceeds that of commercial cultivars in comparative assays.
-
-Anthocyanin pigments are dominated by pelargonidin-3-glucoside and cyanidin-3-glucoside. The volatile aroma profile includes furaneol, mesifurane, methyl anthranilate, and linalool, which together produce the characteristic wild strawberry fragrance. These same compounds are targets of modern flavor-breeding programs in cultivated strawberry.
-
-Furaneol (2,5-dimethyl-4-hydroxy-3(2H)-furanone) is the single most important aroma compound in strawberry flavor perception. Wild *F. virginiana* accessions typically contain 3–5 times more furaneol than commercial cultivars, explaining the pronounced aromatic intensity of the wild fruit. Breeding efforts to increase furaneol content in cultivated strawberries routinely use *F. virginiana* as a donor parent.
-
-## Ecological Role
-
-Virginia strawberry provides food and habitat for a wide range of wildlife species. The fruit is consumed by songbirds, game birds, small mammals, turtles, and bear. Flowers attract native bees, syrphid flies, butterflies, and beetles, providing nectar and pollen resources during the spring bloom period.
-
-American robins, cedar waxwings, and eastern bluebirds are among the most frequent avian dispersers. Box turtles and wood turtles consume ripe fruit and disperse seeds through their digestive tracts, with scarification by gut passage enhancing germination rates. Chipmunks and white-footed mice also gather and cache the fruit, contributing to seed dispersal.
-
-The ground-covering habit stabilizes soil on slopes and stream banks, reducing erosion. In forest ecosystems, *F. virginiana* occupies the herb layer and contributes to plant community diversity. It is one of the first species to colonize disturbed forest openings, facilitating successional transitions.
-
-In permaculture and ecological restoration, Virginia strawberry is planted as a native alternative to non-native ground covers. It provides the dual benefits of soil stabilization and edible fruit production. The species performs well beneath fruit trees in agroforestry systems, where partial shade conditions are favorable.
-
-The species is a host for pathogens and pests that also affect cultivated strawberry, including *Phytophthora fragariae* (red stele), *Verticillium dahliae* (wilt), *Sphaerotheca macularis* (powdery mildew), the two-spotted spider mite (*Tetranychus urticae*), and the strawberry sap beetle (*Stelidota geminata*). Wild populations serve as reservoirs of both pathogens and resistance genes.
-
-Resistance genes identified in wild *F. virginiana* populations have been incorporated into commercial cultivars through marker-assisted breeding. The *FaRPc2* locus conferring resistance to red stele root rot was first identified in a wild accession from Minnesota. Ongoing screening of germplasm collections continues to identify novel resistance sources for emerging disease threats.
-
-The species also serves as a model for studying the evolution of sexual systems in plants. The coexistence of female, male, and hermaphroditic individuals within populations provides a natural laboratory for investigating the ecological and genetic factors that maintain sexual polymorphism. Research on *F. virginiana* has contributed to broader understanding of gynodioecy and its evolutionary stability.
-
-## See Also
-
-- [[fragaria-vesca]]
-- rubus idaeus
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-angustifolium]]
-- [[physocarpus-opulifolius]]
-- [[achillea-millefolium]]
-- [[solidago-canadensis]]
-- [[castanea-sativa]]
-- [[corylus-cornuta]]
-- [[vitis-vinifera]]

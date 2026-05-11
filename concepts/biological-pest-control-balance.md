@@ -4,6 +4,7 @@ tags: [ecology, pest-control, integrated-pest-management, natural-farming, biodi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-fukuoka.md
 created: 2026-04-28
 type: concept
@@ -87,43 +88,3 @@ whiten and wither. One field was sprayed with insecticide; another was left
 untreated. The untreated field with many withered stalks produced the higher
 yield. Investigation revealed that stem borers produced a thinning effect by
 attacking weaker plants. Remaining stalks got more room and sunlight,
-growing more strongly with more grain-bearing stalks and grains per head.
-When density is too great and insects do not thin the excess, harvests
-are actually lower.
-
-## Selective Reporting Bias
-
-Testing centre reports publish only about half of experimental results.
-Chemical companies advertise [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] ard, damaging insects
-such as [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] appeared — the predator community had been
-disrupted. Trees following natural form bear fruit yearly without pruning.
-
-## The Pine Weevil Blight Cascade
-
-Fukuoka analyzed the pine bark weevil outbreak as a cascade: mediating
-nematodes breed within trunks, blocking water and [[mycelial-network-nutrient-transport-imaging-gadd]],
-killing pines. Nematodes feed on an internal fungus; whether fungus or
-nematode appeared first remains unclear. Effect following effect in every
-direction, the only certainty is that pines are withering in unusual
-numbers. People cannot know the true cause or consequences of chemical
-remedies. Meddling unknowingly sows seeds for the next catastrophe.
-
-## Growing Sturdy Crops
-
-The fundamental principle: sturdy crops in healthy environments resist pests
-naturally. Weak "improved" varieties with excessive nitrogen and constant
-flooding become susceptible. Fukuoka's approach: stop weak varieties, reduce
-nitrogen, limit irrigation for stronger roots. With these conditions, stem
-rot, rice blast, and bacterial leaf blight would nearly disappear. Natural
-predators must not be killed — continuous flooding causes the very problems
-predators would otherwise control.
-
-## Estimated Impact of Eliminating Chemicals
-
-Most people believe abandoning chemicals would devastate yields. Experts
-estimate five percent loss from stopping insecticides, another five from
-abandoning chemical fertilizer. With reduced water use and discontinued
-pesticide spraying, first-year losses would reach about ten percent.
-## See Also
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]

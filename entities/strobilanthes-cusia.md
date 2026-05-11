@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Chen SL, et al. (2010). "Strobilanthes cusia: A Traditional Chinese Medicinal Plant." Journal of Ethnopharmacology.
-  - Hsu HY. (1986). "Oriental Materia Medica: A Concise Guide." Oriental Healing Arts Institute.
+  - Hsu HY. (1986). "Oriental [[herbal-materia-medica]]: A Concise Guide." Oriental Healing Arts Institute.
   - Zhu YP. (1998). "Chinese Materia Medica: Chemistry, Pharmacology and Applications." CRC Press.
-  - Perry LM. (1980). "Medicinal Plants of East and Southeast Asia." MIT Press.
+  - Perry LM. (1980). "Medicinal Plants of East and [[psilocybe-southeast-asia-pacific]]." MIT Press.
 ---
 
 # Strobilanthes cusia
@@ -45,7 +45,7 @@ Stems are quadrangular, often purplish, and slightly woody at the base. Young
 stems are covered with fine pubescence.
 
 Leaves are opposite, ovate to broadly elliptic, 10–25 cm long and 5–12 cm
-wide. The leaf surface is dark green above and paler beneath, with prominent
+wide. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green above and paler beneath, with prominent
 lateral veins. Leaf margins are serrulate and the petiole is 2–5 cm long.
 
 Inflorescences are axillary or terminal spikes bearing purplish-blue to white
@@ -87,58 +87,3 @@ In Japanese Kampo medicine, S. cusia root (*Banlangen*) is used in the formula
 *Sho-saiko-to* and related preparations for its antiviral and anti-
 inflammatory properties. The root was traditionally consumed as a preventive
 during epidemic seasons.
-
-As a dye plant, S. cusia leaves are fermented in water to produce indigo
-precursor compounds. The fermented solution is then oxidized to precipitate
-indigo pigment, which is used in traditional Japanese *aizome* and Chinese
-*lan* dyeing techniques.
-
-## Bioactive Compounds and Pharmacology
-
-The principal [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] S. cusia include indigo, indirubin,
-tryptanthrin, and isatin. Indirubin has been identified as the major
-antileukemic constituent and has entered [[mushroom-cancer-clinical-trials-overview]] for chronic myeloid
-leukemia treatment.
-
-Tryptanthrin exhibits anti-inflammatory, antimicrobial, and antiparasitic
-activities. It inhibits cyclooxygenase-2 and inducible nitric oxide synthase
-in inflammatory cell models, supporting the traditional anti-inflammatory
-uses.
-
-The leaves contain the glucoside indican, which is enzymatically hydrolyzed
-and oxidized to produce indigo dye. The indican content varies seasonally,
-with highest concentrations during the active growing period.
-
-Antiviral activity has been demonstrated against influenza virus, hepatitis B
-virus, and herpes simplex virus in vitro. Banlangen injection, a
-pharmaceutical preparation from the root, is widely used in China for viral
-respiratory infections.
-
-Antibacterial effects have been reported against Staphylococcus aureus,
-Streptococcus pyogenes, and Neisseria meningitidis. The broad-spectrum
-antimicrobial profile supports the traditional use for treating infections.
-
-## Cultivation
-
-S. cusia is propagated from seeds or stem cuttings. Seed propagation
-requires stratification and consistent moisture for germination. Stem
-cuttings of 15–20 cm length root readily in moist nursery beds.
-
-Commercial cultivation in China follows a two-year cycle: seedlings are
-transplanted in spring, leaves are harvested during the first [[savory-growing-season-and-non-growing-season-management]]
-for dye production, and roots are harvested in the second year for medicinal
-use.
-
-The plant prefers a warm, [[mollison-designers-cool-humid-climate-design-overview]] with annual rainfall above 1,500 mm.
-Optimal growth occurs at temperatures of 20–28°C. Partial shade improves leaf
-quality for dye production compared to full sun exposure.
-
-Organic fertilization with [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] is standard practice. Pesticide
-use is minimal in traditional cultivation systems. Post-harvest, roots are
-washed, sliced, and sun-dried for the medicinal trade.
-## See Also
-
-- [[coptis-chinensis]]
-- [[berberis-vulgaris]]
-- [[astragalus-membranaceus]]
-- [[rehmannia-glutinosa]]

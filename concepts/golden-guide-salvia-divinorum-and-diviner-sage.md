@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: golden guide salvia divinorum and diviner sage and Diviner's Sage"
+title: Golden Guide Salvia Divinorum And Diviner Sage
 created: 2026-04-28
 tags: [hallucinogenic-plants, salvia-divinorum, salvia, labiatae, mazatec,
   divination, oaxaca, hojas-de-la-pastora, pipilzintzintli, mint-family]
@@ -44,7 +44,7 @@ ability to reproduce naturally.
 
 The Mazatec Indians of Oaxaca, Mexico, are the primary users of Salvia
 divinorum. The plant is employed in divinatory rituals similar to those
-conducted with sacred mushrooms and morning glory seeds. In these ceremonies,
+conducted with [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] [[schultes-ololiuqui-and-morning-glory]] seeds. In these ceremonies,
 a curandera (shaman) typically leads the ritual, during which the patient
 consumes the prepared leaves. The curandera interprets the visions and
 experiences reported by the patient to diagnose illness, locate lost objects,
@@ -52,13 +52,13 @@ or divine future events. The Mazatec use the plant as a backup or
 substitute when their preferred sacraments, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and
 ololiuqui seeds, are not available.
 
-The preparation methods are relatively simple. Fresh leaves may be chewed
+The [[amanita-muscaria-preparation-methods]] are relatively simple. Fresh leaves may be chewed
 and held in the mouth, or the leaves may be ground and soaked in water to
 produce an infusion that is strained and drunk. The Mazatec typically
 conduct these ceremonies at night in a quiet setting, with the patient
 lying down after consuming the preparation. The experience is characterized
 by visions and altered perceptions that the curandera interprets within the
-framework of Mazatec cosmology and traditional healing practices.
+framework of Mazatec cosmology and traditional [[blesching-cannabis-healing-practices-setting-intention-affirmations]].
 
 ## Connection to Aztec Pipilzintzintli
 
@@ -88,35 +88,3 @@ the Salvia divinorum experience is often described as more dissociative in
 nature, with users reporting a sense of being transported to an alternate
 reality or of merging with objects in their environment. The onset is
 typically rapid when the leaves are chewed fresh, and the effects generally
-last from 30 minutes to about two hours.
-
-## Chemistry
-
-Chemical studies at the time of the Golden Guide's publication had failed to
-isolate any psychoactive component from Salvia divinorum. The active compound
-was later identified as salvinorin A, a neoclerodane diterpene, which is
-remarkable for being the first known non-nitrogenous opioid receptor agonist
-with psychedelic effects. Salvinorin A is not an alkaloid, which makes it
-chemically distinct from virtually all other known naturally occurring
-psychedelics. This unusual chemistry explains why earlier researchers had
-difficulty identifying the active principle using standard alkaloid
-extraction methods.
-
-## Relationship to Coleus
-
-The Mazatecs recognize the family relationship between Salvia divinorum and
-Coleus, both genera of the mint family (Labiatae). They refer to S.
-divinorum as la hembra ("the female") and to [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]] as el macho
-("the male"). There are two forms of C. blumei, which they call el nino
-("the child") and el ahijado ("the godson"). These two Coleus species are
-native to Asia, where they are valued in folk medicine but apparently have
-not been used as hallucinogens. No hallucinogenic principle has been
-discovered in the 150 known Coleus species.
-
-## See Also
-
-- [[salvia-divinorum-pharmacology]]
-
-- [[golden-guide-hallucinogenic-plants-overview]]
-- [[golden-guide-psilocybin-mushrooms-overview]]
-- [[golden-guide-peyote-and-mescaline-cacti]]

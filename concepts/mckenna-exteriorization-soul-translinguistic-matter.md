@@ -87,23 +87,3 @@ A complementary thread was the hypothesis that [[stropharia-cubensis]] mushrooms
 McKenna presented this with epistemological caution: "I don't necessarily believe what the mushroom tells me; rather we have a dialogue." The mushroom states: "I require the nervous system of a mammal. Do you have one handy?"
 
 ## The Alternative: The Alienated Soul
-
-McKenna also proposed a counter-interpretation: "It may instead be what I have recently come to suspect, that the human soul is so alienated from us in our present culture that we treat it as an extraterrestrial. To us the most alien thing in the cosmos is the human soul." This reading suggests the DMT entities are not literally extraterrestrial but represent aspects of human consciousness so deeply repressed by modern culture that they appear alien when encountered.
-
-## The Borges Connection: The Sect of the Phoenix
-
-McKenna drew on Jorge Luis Borges's short story "The Sect of the Phoenix," which describes a secret society present in every human culture, practicing a trivial, momentary rite that constitutes "the Secret." McKenna connected this to the Aleph (Borges's other story about a point that contains all other points) and to the tryptamine experience itself: a universal human capacity that is simultaneously ubiquitous and hidden, transmitted across generations yet never openly discussed.
-
-## Tryptamine States as Transtemporal
-
-McKenna characterized the tryptamine experience as fundamentally **transtemporal**. Connecting Heraclitus and Plato ("time is the moving image of eternity"), he described the tryptamine ecstasy as "a stepping out of the moving image and into eternity, the eternity of the standing now, the nunc stans of Thomas Aquinas." In this state, the boundaries between death, the future, dream, and the psychedelic present dissolve into what he called the "[[tryptamine-hypercontinuum]]."
-
-## Epistemological Position
-
-McKenna self-identified as an "explorer rather than a scientist," adopting a Baconian approach of collecting data without assumptions about ultimate meaning. He consistently emphasized that personal experience is the only valid foundation: "The only intellectual or noetic or spiritual path worth following is one that builds on personal experience." He cautioned experimenters to "build up to the experience," to "move carefully, reflect a great deal, and always try to map experiences back onto the history of the race and the philosophical and religious accomplishments of the species."
-
-## See Also
-
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[mckenna-shamanic-meme]]
-- [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]

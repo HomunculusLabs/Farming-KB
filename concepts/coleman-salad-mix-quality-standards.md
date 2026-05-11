@@ -88,27 +88,3 @@ The trial demonstrated that even at the coldest point of winter, a diverse salad
 ## The Dwarf Scotch Curled Kale Discovery
 
 The February 15 salad trial also included sweet inner leaves from a September 1 sowing of 'Dwarf Scotch Curled Kale', which proved to be the best eating of all traditional kale varieties grown under the inner cover. These plants produced beautiful kale for early-to-mid-March sales before beginning to bolt in the third week of March. The inner leaves were tender enough for raw salad use, opening a new market channel for a crop normally associated with cooked preparations.
-
-## Marketing as Butter Chard
-
-Swiss chard had been a difficult crop to sell in traditional form because of its large chewy leaves and long thick stems. The solution was to harvest only young, tender leaves no bigger than a hand, without stems, using succession plantings of Fordhook chard. Four consecutive cuts were possible before the leaf texture began to toughen.
-
-The product was renamed "butter chard" and within two weeks of introduction, half the restaurants receiving it had added a "butter chard" salad to their menus. This example illustrates the power of imaginative marketing to transform the perceived value of a crop through presentation, naming, and proper [[cannabis-harvest-timing-visual-cues]].
-
-## Continuous Improvement Process
-
-The salad mix program is never considered finished. Ongoing activities include:
-
-- Trial plantings of both standard and potential new crops each season
-- Regular evaluation of cultivar performance under cold conditions
-- Assessment of new flavor, shape, and texture possibilities for the mix
-- Investigation of planting timing to extend the availability window for each ingredient
-- Customer feedback collection to guide mix composition decisions
-- Search for hardier cultivars that would reduce dependence on the cool house during the coldest months
-
-This commitment to continuous improvement reflects the broader philosophy that the winter harvest has endless potential and that growers are barely scratching the surface of what year-round protected cultivation can supply.
-
-## See Also
-- [[coleman-baby-leaf-salad-mix-quality-standards]]
-- [[coleman-winter-greens-variety-selection]]
-- [[coleman-deep-organic-farming]]

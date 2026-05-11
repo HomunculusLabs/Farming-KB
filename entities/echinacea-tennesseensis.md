@@ -24,7 +24,7 @@ sources:
 
 The species is distinguished from other Echinacea species by its horizontally spreading ray florets, linear-lanceolate leaves, and restricted cedar glade habitat. It produces rose-pink to purplish flowers from June through August.
 
-Following decades of conservation effort including habitat protection, seed collection, and reintroduction programs, the species was proposed for delisting in 2022. Its recovery is considered a major success story in endangered plant conservation.
+Following decades of conservation effort including habitat protection, seed collection, and reintroduction programs, the species was proposed for delisting in 2022. Its recovery is considered a major [[ingham-vineyard-success-story]] in endangered plant conservation.
 
 ## Taxonomy and Morphology
 
@@ -37,7 +37,7 @@ Following decades of conservation effort including habitat protection, seed coll
 
 The species was originally described by Beadle as *Brauneria tennesseensis* in 1898 and later transferred to *Echinacea* by Small in 1903. It was rediscovered in 1968 by Elsie Quarterman and colleagues after being presumed lost for decades.
 
-Genetic analysis places E. tennesseensis within the *Echinacea purpurea* complex but as a distinct lineage that diverged during Pleistocene glacial cycles. Its closest relative is E. simulata, a species of the Ozark Highlands.
+Genetic analysis places E. tennesseensis within the *[[echinacea-purpurea]]* complex but as a distinct lineage that diverged during Pleistocene glacial cycles. Its closest relative is E. simulata, a species of the Ozark Highlands.
 
 ### Morphology
 
@@ -61,7 +61,7 @@ Echinacea tennesseensis is endemic to the Central Basin of Tennessee, primarily 
 
 The species occupies an area of approximately 600 km² within the Nashville Basin physiographic province. This geographically restricted range makes it particularly vulnerable to habitat loss from urban development.
 
-The species is restricted to open cedar glades — shallow-soil limestone outcrops with exposed bedrock, dominated by eastern red cedar (*Juniperus virginiana*). These glades occur on the Lebanon and Ridley limestone formations of the Nashville Dome.
+The species is restricted to open cedar glades — shallow-soil limestone outcrops with exposed bedrock, dominated by eastern red cedar (*[[juniperus-virginiana]]*). These glades occur on the Lebanon and Ridley limestone formations of the Nashville Dome.
 
 Typical glade soils are 5–20 cm deep over limestone bedrock, with high calcium content and rapid drainage. Summer surface temperatures can exceed 60°C, making these among the harshest plant habitats in [[polypore-fungi-eastern-north-america]] America.
 
@@ -77,7 +77,7 @@ The deep taproot allows the plant to persist through prolonged summer droughts c
 
 Natural herbivory pressure is low due to the harsh habitat, though white-tailed deer occasionally browse flowering stems. The species is self-incompatible, requiring cross-pollination for seed set.
 
-Seed dispersal is limited, with most seeds falling within 1–2 m of the parent plant. Wind and water erosion of glade soils occasionally transport seeds to suitable microsites. Fire suppression has allowed woody encroachment into some glades, threatening remaining populations.
+[[clay-pellet-seed-dispersal]] is limited, with most seeds falling within 1–2 m of the parent plant. Wind and water erosion of glade soils occasionally transport seeds to suitable microsites. Fire suppression has allowed woody encroachment into some glades, threatening remaining populations.
 
 ## Conservation and Phytochemistry
 
@@ -88,34 +88,3 @@ Recovery efforts included land acquisition by the Tennessee Department of Enviro
 The Tennessee Nature Conservancy played a central role in recovery, coordinating volunteer-based seed collection, propagation at the Cheekwood Botanical Garden, and outplanting at protected sites. Prescribed fire has been reintroduced to several glades to control eastern red cedar encroachment.
 
 As of 2021, more than 20 populations exist across six counties, with an estimated total of 500,000+ flowering stems. The USFWS proposed delisting the species in August 2022, citing recovery goals having been met or exceeded.
-
-Like other Echinacea species, E. tennesseensis contains alkamides, caffeic acid derivatives (including cichoric acid and echinacoside), and polysaccharides in the roots and aerial tissues. Chemical profiling has revealed that E. tennesseensis produces a distinctive alkamide fingerprint that differs from E. purpurea and E. angustifolia.
-
-The species contains notably higher concentrations of specific dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isomers. Immunomodulatory activity has been demonstrated in vitro for root extracts, though clinical studies have focused on E. purpurea due to the Tennessee species' protected status.
-
-The USFWS recovery plan established minimum population thresholds of 10 self-sustaining populations, each with at least 1,000 flowering individuals. Population monitoring continues through partnerships with the Tennessee Division of Natural Areas and the Missouri Botanical Garden.
-
-## Cultivation
-
-Tennessee coneflower is commercially available from native plant nurseries and is increasingly used in native landscaping. It is hardy in USDA zones 5–8 and prefers full sun with well-drained, calcareous soils.
-
-Propagation is primarily from seed, which germinates readily without stratification. Cuttings and root division are also effective but less commonly used due to the risk of depleting wild populations.
-
-Seeds should be surface-sown in fall or early spring, with germination occurring in 10–21 days under warm conditions. Transplanting seedlings is most successful when done at the 4–6 leaf stage before taproot development limits survival.
-
-In cultivation, the species performs best in rock gardens, limestone-scree plantings, and sunny borders with excellent drainage. It is less adaptable to heavy clay soils than E. purpurea but more drought-tolerant once established.
-
-Plants typically flower in their second or third year from seed and can persist for 20+ years in garden settings. Deadheading extends the bloom period and prevents unwanted self-seeding, though some gardeners allow seed dispersal to support local pollinator populations.
-
-## See Also
-
-- [[echinacea-purpurea]] — Purple coneflower, the most widely cultivated Echinacea species
-- [[echinacea-angustifolia]] — Narrow-leaved coneflower of the western prairies
-- [[echinacea-pallida]] — Pale purple coneflower, closely related to E. tennesseensis
-- [[rudbeckia-hirta]] — Black-eyed Susan, a co-occurring Asteraceae species
-- [[solidago-nemoralis]] — Old-field goldenrod, dry-habitat companion species
-- [[asclepias-tuberosa]] — Butterfly milkweed, cedar glade associate
-- [[monarda-fistulosa]] — Wild bergamot, mid-season pollinator resource
-- [[helianthus-annuus-entity]] — Common sunflower, related Asteraceae genus
-- [[liatris-spicata]] — Dense blazing star, another prairie composite
-- [[coreopsis-lanceolata]] — Lanceleaf coreopsis, early-blooming prairie species

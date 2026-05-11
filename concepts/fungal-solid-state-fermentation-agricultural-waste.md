@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal [[staycare-solid-state-fermentation-for-bioremediation]] [[agricultural-waste-substrates]] Fermentation fungi-in-composting-and-agricultural-waste-conversion
+title: Fungal [[staycare-solid-state-fermentation-for-bioremediation]] Agricultural Waste
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -36,10 +36,10 @@ preparation before inoculation with the selected fungal strain:
 Managing environmental conditions during SSF is critical because
 the solid substrate matrix creates gradients of temperature,
 moisture, oxygen, and pH within the fermenting mass:
-- Temperature control is the primary challenge at scale because
+- [[hamilton-greenhouse-heating-and-temperature-control]] is the primary challenge at scale because
   fungal metabolism generates significant heat that accumulates
   in the solid matrix faster than it can be dissipated
-- Tray bioreactors offer simple temperature management for lab
+- Tray bioreactors offer simple [[cervantes-reservoir-temperature-management]] for lab
   and small-scale production but are labor-intensive to operate
 - Packed-bed bioreactors with forced aeration improve heat removal
   but require careful control of airflow to prevent substrate drying
@@ -56,7 +56,7 @@ in solid-state fermentation of agricultural waste materials:
   industrially for biomass saccharification and biofuel production
 - **Aspergillus niger**: Generates citric acid, pectinases, and
   amylases from fruit processing waste and starchy substrates
-- **Phanerochaete chrysosporium**: White-rot fungus that degrades
+- **[[phanerochaete-chrysosporium]]**: White-rot fungus that degrades
   lignin through peroxidase enzymes, valuable for delignification
   of agricultural residues to improve animal feed digestibility
 - **Pleurotus spp.** (oyster mushrooms): Directly convert lignocellulosic
@@ -68,12 +68,12 @@ in solid-state fermentation of agricultural waste materials:
 
 SSF technology has been commercialized for several high-value
 products derived from agricultural waste fermentation:
-- Mushroom cultivation represents the largest commercial application
+- [[accessible-mushroom-cultivation-for-disabilities]] represents the largest commercial application
   of fungal SSF, with global production exceeding 12 million tons
   annually using agricultural waste as the primary substrate
 - Enzyme production via SSF achieves higher titers per unit volume
   than submerged fermentation for many fungal enzyme systems
-- Organic acid production (citric acid, lactic acid, fumaric acid)
+- [[staycare-fungal-organic-acid-production-metal-leaching]] (citric acid, lactic acid, fumaric acid)
   from starchy wastes offers a cost-competitive alternative to
   petroleum-derived chemical synthesis pathways
 - Single-cell protein production upgrades low-value crop residues

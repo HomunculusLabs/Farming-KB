@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka Crop Rotation and Natural Weeds
@@ -87,13 +88,3 @@ For farmers seeking to adopt Fukuoka's approach:
 The transition period can be challenging -- yields may drop temporarily as the soil ecosystem reorganizes. But Fukuoka's experience showed that within 3-5 years, the system stabilizes and yields recover to match or exceed conventional levels, with dramatically lower inputs and improved soil health.
 
 ## See Also
-
-- [[hamilton-useful-weeds-and-weed-identification]]
-
-- [[fukuoka-four-principles-natural-farming]] -- the four principles
-- [[cover-cropping-guide]] -- cover crops
-- [[fukuoka-natural-farming-method]] -- the complete method
-
-## Related
-
-- [[fukuoka-road-back-clover-barley-rice-method]]

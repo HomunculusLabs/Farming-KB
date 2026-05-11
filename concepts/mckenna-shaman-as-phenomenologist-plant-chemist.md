@@ -1,16 +1,16 @@
 ---
 title: Shamans as Phenomenologists — Plant Chemists Calling It Spirit
 created: 2026-05-09
-tags: [shamanism, ethnobotany, phenomenology, plant-chemistry, mckenna,
-  indigenous-knowledge, tryptamine, consciousness]
+tags: [[shamanism]], ethnobotany, phenomenology, plant-chemistry, mckenna,
+  indigenous-knowledge, [[tryptamine]], consciousness]
 source: mckenna_t-tryptamines_consciousness.md
-aliases: [Shamanic Phenomenology, Indigenous Plant Knowledge Systems,
+aliases: [[neo-shamanic-phenomenology-and-limits-of-science]], Indigenous Plant Knowledge Systems,
   Shaman as Observer]
 ---
 
 # Shamans as Phenomenologists — Plant Chemists Calling It Spirit
 
-Terence McKenna argued that indigenous shamans are not primitive mystics but
+[[terence-mckenna]] argued that indigenous shamans are not primitive mystics but
 sophisticated phenomenologists who possess deep empirical knowledge of plant
 chemistry, consciousness, and the nature of reality — knowledge they encode
 in the language of "spirit" rather than the language of molecules.
@@ -59,7 +59,7 @@ experiential signs rather than hereditary criteria:
   resistance to conventional belief mark potential candidates
 
 The common thread is demonstrated capacity to withstand and integrate extreme
-states of consciousness. The shaman is someone who has been to the edge and
+[[mckenna-food-gods-designer-states-of-consciousness]]. The shaman is someone who has been to the edge and
 returned with useful information.
 
 ## Techniques, Not Ritual
@@ -88,52 +88,3 @@ societies is ambivalent and often uncomfortable:
 - Called upon only in crisis: illness, death, psychological disturbance,
   theft, or weather prediction
 - Consulted as specialists — more like surgeons than saints
-
-This marginality is functional. The shaman's power depends on maintaining a
-perspective outside ordinary social consensus. Political entanglement would
-compromise the objectivity giving their interventions authority.
-
-## The Dialogue with Plants
-
-McKenna's most radical claim is that shamanic knowledge comes from direct
-dialogue with the plants themselves:
-
-> The fact is that the gnosis comes from plants. There is some certainty that
-> one is dealing with a creature of integrity if one deals with a plant.
-
-This positions the relationship with [[tryptamine-hallucinogens|hallucinogenic plants]] as genuinely dialogical. The plant is not a passive tool but an active
-participant communicating information about itself, consciousness, and reality.
-When McKenna asked the mushroom why it had chosen him, the answer was:
-"Because you did not believe in anything. Because you have never given over
-your belief to anyone." This suggests that shamanic capacity depends on
-epistemic openness — a willingness to engage without pre-existing categories.
-
-## Receptor Site Theory
-
-McKenna proposed a neurobiological basis for individual variation in shamanic
-ability, suggesting that shamanic potential may be partly determined by the
-density of active [[mckenna-endogenous-dmt-brain-familiarity|receptor sites]]
-in the brain. This provides a materialist complement to spiritual language of
-"calling" — it does not reduce the experience to chemistry but suggests that
-neurobiological variation may predispose certain individuals toward the states
-that training then refines and directs.
-
-## The Missing Western Tradition
-
-McKenna regarded the absence of a living shamanic tradition in modern Western
-societies as a profound cultural loss. Without the accumulated techniques,
-selection processes, and institutional knowledge that traditional societies
-maintained over millennia, individuals who encounter non-ordinary states have
-no framework for interpretation, no guidance for navigation, and no community
-for integration. The result is the [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience|black hole effect]] — experiences so alien
-to the cultural frame that they cannot be communicated. McKenna always
-asked of informants: "What can you show me?" — demanding demonstrable results
-rather than theoretical claims.
-
-## See Also
-
-- [[tryptamine-hallucinogens-and-consciousness]] — Source lecture
-- [[shamanism-techniques-of-ecstasy]] — Shamanic methodology
-- [[mckenna-dmt-black-hole-effect-epistemic-isolation]] — Epistemic isolation
-- [[mckenna-mushroom-teonanacatl-franciscan-theophagy-and-oaxaca-survival]]
-- [[mckenna-i-thou-ethics-entity-encounter]]

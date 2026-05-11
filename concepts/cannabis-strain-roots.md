@@ -22,7 +22,7 @@ draw from multiple cannabis lineages.
 
 Reina Madre (Spanish for "Queen Mother") contributes structural characteristics
 that help keep the plant manageable, while Kalijah adds sativa vigor and
-potency to the mix. The NYC Diesel influence likely contributes to the
+potency to the mix. The [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] influence likely contributes to the
 strain's complex aroma profile, while the Blue Heaven genetics may play a
 role in the attractive coloration observed during flowering. The undisclosed
 sativa parent adds an element of mystery and likely enhances the cerebral
@@ -30,7 +30,7 @@ effects.
 
 ## Breeder Information
 
-Reggae Seeds is a Spanish seed company known for their rasta-inspired branding
+Reggae Seeds is a Spanish [[seed-company-supplier-reference]] known for their rasta-inspired branding
 and their focus on creating strains with vibrant colors and rich terpene
 profiles. The collaboration with Mario from Delicatessen Seeds for the Roots
 strain brought together two respected European breeding operations, combining
@@ -45,7 +45,7 @@ from its Reina Madre parent while maintaining sativa influence. The plant is
 noted as being easier to manage than many other hybrids, making it accessible
 even to less experienced growers. Key cultivation traits include:
 
-- **Indoor flowering time**: 60 days
+- **Indoor [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]**: 60 days
 - **Outdoor harvest**: First week of October
 - **Indoor yield**: Approximately 600 grams per square yard
 - **Outdoor yield**: Up to 700 grams per plant
@@ -53,7 +53,7 @@ even to less experienced growers. Key cultivation traits include:
   stretch occurs if lights are too far from canopy
 - **Visual traits**: Tendency to foxtail during flowering; displays greens,
   orange-yellows, and reds toward harvest
-- **Bud structure**: Huge colas with sharp, deep green leaves
+- **[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]]**: Huge colas with sharp, deep green leaves
 
 The strain's manageable [[coleman-first-rule-nature-makes-sense]] it a good choice for growers transitioning
 from indica-dominant varieties to sativa-influenced hybrids. The heavy yield
@@ -69,7 +69,7 @@ descriptions, the inclusion of NYC Diesel genetics suggests notes of fuel,
 citrus, and earth. The Blue Heaven parentage may contribute subtle berry
 undertones, while the various sativa influences likely add complexity. The
 smoke is described as "delicious," indicating a well-developed and enjoyable
-terpene profile.
+[[cannabis-terpene-profile]].
 
 ## Effects
 
@@ -88,26 +88,3 @@ The social and energizing qualities make it suitable for daytime use when
 patients need to remain active and engaged. The absence of heavy sedative
 effects means it can be used without significant impairment to daily
 functioning.
-
-## Potency
-
-Roots has a THC content of approximately 17%, placing it in the moderate-to-
-high range. This potency level provides strong sativa effects while remaining
-manageable for most consumers.
-
-## Classification
-
-Roots is classified as a sativa-dominant hybrid. Despite its balanced growth
-characteristics, which show influence from both sides of its genetic heritage,
-the psychoactive effects are decidedly sativa in nature. This makes it an
-excellent example of a strain where the growing traits and the effects profile
-tell different stories about the plant's genetic composition.
-
-## See Also
-
-- [[cannabis-strain-peptide]]
-
-- [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- terpenes - Aromatic compounds in cannabis
-- sour-diesel - The Diesel family of cannabis strains
-- spanish-cannabis - [[oner-cannabis-breeding-fundamentals]] in Spain

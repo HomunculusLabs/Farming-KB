@@ -88,35 +88,10 @@ Boiling and condensation are special convection cases with
 exceptionally high transfer coefficients. During nucleate
 boiling, vapor bubbles form at surface nucleation sites and
 agitate surrounding liquid, producing coefficients an order of
-magnitude higher than single-phase convection. Film boiling,
-occurring at excessive temperature differences, insulates the
-surface with a continuous vapor layer and reduces transfer
-dramatically. Condensation similarly achieves high rates: film
-condensation on vertical surfaces follows Nusselt's classical
-theory, while dropwise condensation on non-wetting surfaces
-achieves even greater performance. These processes are critical
-to power plant condensers, refrigeration evaporators, and nuclear
-reactor cooling.
-
-## Thermal Insulation
-
-Insulation reduces unwanted heat transfer using materials with
-very low thermal conductivity such as fiberglass, mineral wool,
-expanded polystyrene, polyurethane foam, and aerogels.
-Effectiveness is measured by R-value (thermal resistance per unit
-area) or U-value (overall heat transfer coefficient). Building
-insulation reduces heating and cooling energy consumption
-significantly. Electronic thermal management employs heat sinks,
-heat pipes, thermal interface materials, and forced-air or liquid
-cooling to dissipate processor heat. Insulation selection
-balances thermal performance, cost, fire safety, moisture
-resistance, and mechanical durability.
 
 ## See Also
-
-- [[heat-exchanger-effectiveness-ntu]] design
-- fourier law of conduction
-- convection correlations
-- thermal radiation and emissivity
-- [[biomass-compost-greenhouse-heating-systems]]
 - [[heat-transfer-coefficient]]
+- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
+- [[transcendent-other-and-plant-human-information-transfer]]
+- [[comparison-grain-spawn-vs-grain-to-grain-transfer]]
+- [[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]]

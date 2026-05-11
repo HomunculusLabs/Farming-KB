@@ -3,6 +3,7 @@ title: Mother Plant Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis, plants]
@@ -87,52 +88,3 @@ be grown from seed or be a clone of a clone.
 
 A healthy, well-maintained mother plant can produce many clones. Branch tips should be
 allowed to grow 3-6 inches before taking cuttings. After taking cuttings, the mother
-needs recovery time before more are taken. Most growers find that rotating between
-several mothers provides a steady supply of cuttings without overtaxing any single plant.
-
-## Dedicated Mother Room
-
-Many growers maintain a separate vegetative/cloning room about one-quarter the size of
-the flowering room. This room houses mother plants, rooting clones, and young
-vegetative plants. A 250- or 400-watt metal halide could easily illuminate vegetative
-plants and clones that would fill a flowering room lit by three 600-watt HPS sodiums.
-Fluorescent and [[cervantes-compact-fluorescent-lighting]] lamps are more economical and work well to root
-clones.
-
-## Advantages of Cloning from Mothers
-
-- **Genetic certainty:** Every crop is identical to the proven mother
-- **No males:** All clones are female, eliminating sexing work
-- **Consistent results:** Predictable growth rate, flowering time, and yield
-- **Unlimited supply:** A single mother can produce hundreds of clones over her lifetime
-- **[[cervantes-perpetual-harvest-cycle]]:** Continuous cloning enables harvesting a ripe plant every few days
-
-## Risks
-
-- A single disease or pest on the mother affects every clone
-- Genetic weakness is propagated to all offspring
-- Power failure or equipment malfunction can kill the mother and all future clones
-- Maintaining mothers requires ongoing space, electricity, and labor
-
-## Strains Not Suitable as Mothers
-
-Ruderalis Indica and Ruderalis Skunk do not make suitable mother plants due to their
-auto-flowering capability. Outdoor strains with a slight tendency to pre-sex in an
-18-hour photoperiod include Early Girl and Early Skunk, but early flowering does not
-exclude them as mother plants. See [[ph-management-cannabis]] and regular fertilization keep mothers healthy and
-productive.
-
-## DNA and Clone Fidelity
-
-A clone is an exact genetic replica of the mother plant. Each mother's cell carries a
-DNA blueprint of itself. Radiation, chemicals, and poor cultural practices can damage
-this DNA. Unless damaged, the DNA remains intact, and clones faithfully reproduce the
-mother's characteristics. When grown in the exact same environment, clones from the
-same mother look alike. But the same clones subjected to distinct environments in
-different grow rooms will often look different.
-
-## See Also
-
-- [[vegetative-phase-cannabis]] -- the stage mothers are kept in
-- [[autoflowering-cannabis]] -- why autoflowers cannot serve as mothers
-- [[ec-tds-cannabis]] -- monitoring nutrient levels for mothers

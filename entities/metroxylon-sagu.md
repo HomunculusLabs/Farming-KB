@@ -16,12 +16,12 @@ sources:
   - Flach, M. (1997). "Sago Palm Metroxylon sagu Rottb." PROMUSA Technical Guidelines.
   - Dransfield, J., Uhl, N.W., Asmussen, C.B. et al. (2008). "Genera Palmarum." Royal Botanic Gardens, Kew.
   - Johnson, D.V. (2013). "World Checklist of Palms." International Palm Society.
-  - Jong, W. (1995). "In Search of the Tropical Forest Canopy." In: Sago Palm Cultivation and Research. Oxford University Press.
+  - Jong, W. (1995). "In Search of the [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Canopy." In: Sago Palm Cultivation and Research. Oxford University Press.
 ---
 
 ## Overview
 
-**Metroxylon sagu** (true sago palm) is a large, hapaxanthic palm species native to the swamps and lowlands of Southeast Asia and Melanesia.
+**Metroxylon sagu** (true sago palm) is a large, hapaxanthic palm species native to the swamps and lowlands of [[psilocybe-southeast-asia-pacific]] and Melanesia.
 
 It is the primary commercial source of sago starch, extracted from the pith of mature stems.
 
@@ -55,11 +55,11 @@ Fruits are globose to ovoid, approximately 5 centimeters in diameter, covered in
 
 Metroxylon sagu is native to the Malay Archipelago, occurring naturally in Malaysia, Indonesia, Papua New Guinea, and the Philippines.
 
-It has been introduced and naturalized in Thailand, Myanmar, Sri Lanka, and various Pacific islands.
+It has been introduced and naturalized in Thailand, Myanmar, Sri Lanka, and various [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species grows in freshwater swamps, peatlands, and seasonally flooded lowland forests.
 
-It thrives in humid tropical climates with annual rainfall exceeding 2,000 millimeters.
+It thrives in humid [[fukuoka-natural-farming-tropical-climates]] with annual rainfall exceeding 2,000 millimeters.
 
 Elevation range is from sea level to approximately 300 meters above sea level.
 
@@ -73,7 +73,7 @@ The species is particularly abundant in the lowland peat domes of Sumatra, Borne
 
 Propagation is primarily from suckers (tillers), which are separated from mature mother palms and transplanted.
 
-Seed propagation is possible but slower, requiring 3–6 months for germination.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slower, requiring 3–6 months for germination.
 
 Suckers are planted at spacing of 4–6 meters in prepared swamp plots or natural groves.
 
@@ -88,49 +88,3 @@ The rasped pith is washed and sieved to separate starch granules from fibrous ma
 The resulting wet starch is settled, dried, and processed into flour, pearls, or flakes.
 
 Yields range from 150–400 kilograms of dry starch per trunk, making sago one of the highest-yielding starch crops per unit area.
-
-## Culinary and Nutritional Use
-
-Sago starch is a major staple food in parts of eastern Indonesia, Papua New Guinea, and the Moluccas.
-
-It is processed into various forms including sago flour, baked breads (lempeng), noodles, and translucent pearls.
-
-Sago pearls are widely used in desserts, beverages, and puddings throughout Southeast Asia.
-
-The starch is approximately 88% carbohydrate with small amounts of protein, fat, and minerals.
-
-It is gluten-free, making it suitable for people with celiac disease or gluten intolerance.
-
-Sago grubs (larvae of the capricorn beetle, Rhynchophorus ferrugineus) infest felled trunks and are themselves a valued food source.
-
-In Papua New Guinea, sago is the dominant staple for riverine communities, processed by hand into a paste.
-
-Industrial applications include production of biodegradable plastics, adhesives, and ethanol biofuel.
-
-## Ecology
-
-Metroxylon sagu is a dominant canopy species in freshwater swamp and peatland forests across its range.
-
-The massive root mats help stabilize riverbanks and prevent erosion in floodplain environments.
-
-Sago palm swamps provide critical habitat for fish, crustaceans, and waterfowl.
-
-The dense palm stands create shaded aquatic environments that support diverse invertebrate communities.
-
-Dead palms provide breeding substrate for Rhynchophorus beetle larvae, an important protein source for local communities.
-
-The species plays a significant role in peatland carbon storage through root biomass accumulation.
-
-Sago groves support epiphytic orchids, ferns, and bromeliads in their canopy.
-
-## See Also
-
-- [[cocos-nucifera]]
-- [[borassus-flabellifer]]
-- [[elaeis-guineensis]]
-- [[areca-catechu]]
-- [[euterpe-oleracea]]
-- [[saccharum-officinarum]]
-- [[sorghum-bicolor]]
-- [[palm-tree-uses]]
-- [[fiber-and-craft-plants]]

@@ -4,16 +4,17 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, pruning, indoor, plant-growth, comparison, techniques]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 ## Overview
 
-Training techniques manipulate cannabis plant structure to optimize light distribution, increase yield, control height, and improve airflow. These methods range from gentle bending to deliberate tissue damage, each with specific use cases and trade-offs. All structural training should be performed during the [[cannabis-vegetative-stage]] before flowering begins.
+Training techniques manipulate cannabis plant structure to optimize [[cervantes-reflective-hoods-light-distribution]], increase yield, control height, and improve airflow. These methods range from gentle bending to deliberate tissue damage, each with specific use cases and trade-offs. All structural training should be performed during the [[cannabis-vegetative-stage]] before flowering begins.
 
 ## Low-Stress Training (LST)
 
-LST involves bending and securing branches to create an even, flat canopy. It is the least invasive training method and suitable for all experience levels. (see [[cannabis-vegetative-growth-stage]]).
+LST involves bending and securing branches to create an even, flat canopy. It is the least invasive training method and suitable for all experience levels.
 
 ### How It Works
 
@@ -36,11 +37,11 @@ LST involves bending and securing branches to create an even, flat canopy. It is
 
 ## Screen of Green (ScROG)
 
-ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) at a fixed height above the canopy. Branches are woven through the screen as they grow. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) at a fixed height above the canopy. Branches are woven through the screen as they grow.
 
 ### Setup
 
-- Install screen at 8-12 inches above the growing medium
+- Install screen at 8-12 inches above the [[cervantes-green-algae-growing-medium]]
 - As branches reach screen height, tuck them under and spread laterally
 - Continue weaving until the screen is roughly 70-80% full
 - Switch to 12/12 — branches will grow vertically through the screen toward the light
@@ -49,18 +50,18 @@ ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) a
 
 - Creates the most even canopy possible
 - Maximizes light utilization across the entire footprint
-- Supports heavy buds — screen acts as structural support
+- Supports heavy buds — screen acts as [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 - Can significantly increase yield per square foot
 
 ### Considerations
 
 - Works best with fewer, larger plants (1-4 plants per 3x3 or 4x4 tent)
-- Requires commitment to daily tending during vegetative growth
+- Requires commitment to daily tending during [[cannabis-vegetative-growth-stage]]
 - Not practical for autoflowers with short veg periods
 
 ## Main-Lining / Manifolding
 
-Main-lining is a systematic approach that creates a perfectly symmetrical plant with evenly spaced colas. It involves topping the plant at specific nodes and training each branch into its own designated quadrant. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+Main-lining is a systematic approach that creates a perfectly symmetrical plant with evenly spaced colas. It involves topping the plant at specific nodes and training each branch into its own designated quadrant.
 
 ### Process
 
@@ -85,7 +86,7 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ## Defoliation
 
-Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
+Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]].
 
 ### When to Defoliate
 
@@ -146,5 +147,3 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 ## Combination Approaches
 
 Experienced growers often combine techniques:
-
-- **ScROG + LST**: Use LST to train branches into the screen

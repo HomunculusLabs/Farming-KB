@@ -88,19 +88,3 @@ P. subaeruginosa, P. tasmaniana.
 New Zealand has a rich mycobiota with several endemic species:
 - **Amanita muscaria** (introduced)
 - **Claviceps paspali, C. purpurea**
-- **Copelandia cyanescens**
-- **[[panaeolus-subbalteatus]]**
-- **psilocybe-aucklandii (endemic), P. australiana, P. collybioides, P.
-  cubensis, P. eucalypta, P. kumaenorum, P. makarorae (endemic), P.
-  semilanceata, P. subaeruginosa, P. subcubensis, P. tasmaniana**
-
-### Pacific Islands
-- **Hawaii:** Amanita muscaria, Copelandia anomala, C. bispora, C.
-  cambodginiensis, C. cyanescens, C. tropicalis, [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]], P.
-  sphinctrinus, Psilocybe cubensis (?).
-## See Also
-- [[psilocybin-mushrooms]]
-- [[neurotropic-fungi]]
-- [[copelandia-cyanescens]]
-- [[gerronema-fibula]]
-- [[amanita-muscaria]]

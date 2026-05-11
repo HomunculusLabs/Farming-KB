@@ -55,8 +55,8 @@ diameter.
 
 ## Distribution and Habitat
 
-S. regelii ranges from southern Mexico through Central America (Guatemala,
-Belize, Honduras, Nicaragua, Costa Rica, Panama) into northern South America
+S. regelii ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Guatemala,
+Belize, Honduras, Nicaragua, Costa Rica, Panama) into northern [[guzman-psilocybin-mushrooms-south-america]]
 (Colombia, Venezuela, Ecuador, Peru, Brazil).
 
 It grows in tropical and subtropical forests from sea level to 1,500 meters
@@ -77,7 +77,7 @@ Additional compounds include flavonoids (astilbin, quercetin, kaempferol
 derivatives), phenolic acids (caffeic acid, ferulic acid), and diterpenes.
 
 The saponin content of dried rhizomes typically ranges from 1.5% to 2.5%,
-varying with geographic origin, [[cannabis-harvest-timing-visual-cues]], and processing methods.
+varying with geographic origin, [[cannabis-harvest-timing-visual-cues]], [[mushroom-storage-and-processing-methods]].
 
 Smilagenin and sarsasapogenin have been investigated as steroidal precursors
 in the semi-synthesis of pharmaceutical compounds including corticosteroids
@@ -87,39 +87,3 @@ and sex hormones.
 
 Indigenous peoples of Central America used S. regelii rhizomes to treat skin
 conditions, rheumatism, syphilis, and as a general tonic and blood purifier.
-
-The species gained European prominence in the 16th century when Spanish
-explorers introduced it as a treatment for syphilis, though its efficacy for
-this purpose was later discredited.
-
-In traditional herbal medicine, sarsaparilla preparations are used as
-diaphoretics, diuretics, and mild alteratives to support detoxification and
-skin health.
-
-Modern herbal practitioners employ sarsaparilla in formulations for
-psoriasis, eczema, arthritis, and as an adjunct in heavy [[staycare-phytochelatins-and-intracellular-metal-detoxification-in-fungi]]
-protocols, though clinical evidence remains limited.
-
-## Commercial and Cultural Significance
-
-Sarsaparilla root was a major ingredient in traditional root beer and remains
-used in herbal beverages, bitters, and flavoring agents throughout the Americas.
-
-The global trade in sarsaparilla rhizomes peaked in the 19th century, with
-Honduras, Jamaica, and Mexico serving as principal export centers.
-
-Sustainable harvesting concerns have been raised as wild populations face
-pressure from commercial collection, particularly in Central American regions
-where collection exceeds regeneration rates.
-
-The species is cultivated on a small scale in some tropical regions, though
-the majority of commercial supply still derives from wild-harvested roots.
-
-## See Also
-
-- [[curcumin]]
-- [[withania-somnifera]]
-- [[borago-officinalis]]
-- [[glycyrrhiza-glabra]]
-- ethnobotany
-- [[herbal-medicine]]

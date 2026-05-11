@@ -22,7 +22,7 @@ sources:
 
 The species is the largest of all hemlocks, capable of reaching heights of 40 to 60 meters in optimal conditions. It is a characteristic component of subalpine forests, often forming the upper treeline on moist mountain slopes.
 
-Mountain hemlock is distinguished from other hemlocks by its nodding terminal shoots, blue-green needles arranged in two-ranked sprays, and large pendant cones. It is an important timber species in the Pacific Northwest and a significant ecological component of high-elevation forest ecosystems.
+Mountain hemlock is distinguished from other hemlocks by its nodding terminal shoots, blue-green needles arranged in two-ranked sprays, and large pendant cones. It is an important timber species in the [[psilocybin-north-america-pacific-northwest]] and a significant ecological component of high-elevation forest ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -48,9 +48,9 @@ Isolated populations exist in the Rocky Mountains of Idaho and western Montana, 
 
 The species occupies elevations from 300 to 3,500 meters, reaching its highest elevations in the southern Sierra Nevada. It is most abundant between 900 and 2,200 meters in the Cascade Range.
 
-Mountain hemlock is a dominant component of subalpine coniferous forests, often forming pure stands near treeline. It associates with *Abies lasiocarpa*, *Picea sitchensis*, *Tsuga heterophylla*, *Chamaecyparis nootkatensis*, and various *Pinus* species depending on elevation and latitude.
+Mountain hemlock is a dominant component of subalpine coniferous forests, often forming pure stands near treeline. It associates with *Abies lasiocarpa*, *[[picea-sitchensis]]*, *[[tsuga-heterophylla]]*, *Chamaecyparis nootkatensis*, and various *Pinus* species depending on elevation and latitude.
 
-It grows on a wide range of soil types but prefers deep, well-drained, acidic soils derived from volcanic or granitic parent material. The species is tolerant of cold, heavy snowfall, and short growing seasons.
+It grows on a wide range of soil types but prefers deep, well-drained, acidic soils derived from volcanic or granitic parent material. The species is tolerant of cold, heavy snowfall, and short [[jeavons-climate-adaptation-growing-seasons]].
 
 Mean annual precipitation across its range varies from 600 to over 5,000 mm, with a significant proportion falling as snow. Coastal populations experience maritime influences with cool, wet summers, while interior populations endure more continental conditions with greater temperature extremes.
 
@@ -64,7 +64,7 @@ The seeds are consumed by numerous bird and mammal species, including crossbills
 
 Mountain hemlock is relatively fire-sensitive due to its thin bark and shallow root system. Stand-replacing fires are the dominant disturbance regime in subalpine forests where this species occurs. Post-fire regeneration is often slow, relying on seed dispersal from unburned refugia.
 
-The species forms ectomycorrhizal associations with a diverse community of fungal partners. These symbiotic relationships enhance [[plant-nutrient-uptake-mechanisms]], particularly phosphorus and nitrogen, in the often nutrient-poor subalpine soils. Common mycorrhizal associates include *Cortinarius*, *Russula*, and *Lactarius* species.
+The species forms [[ectomycorrhizal-associations]] with a diverse community of fungal partners. These [[fungi-in-the-environment-symbiotic-relationships]] enhance [[plant-nutrient-uptake-mechanisms]], particularly phosphorus and nitrogen, in the often nutrient-poor subalpine soils. Common mycorrhizal associates include *Cortinarius*, *Russula*, and *Lactarius* species.
 
 In subalpine ecosystems, mountain hemlock stands play a critical role in snowpack retention and hydrological regulation. Their dense crowns intercept and slowly release snowmelt, contributing to sustained summer streamflows in mountain watersheds.
 
@@ -87,27 +87,3 @@ Growth rates are relatively slow compared to other Pacific Northwest conifers, w
 The wood machines well but has a tendency toward grain tear around knots. It glues, screws, and takes paint and stains satisfactorily. Steam bending properties are poor due to the species' relatively brittle nature.
 
 Silvicultural management of mountain hemlock is complicated by the species' slow growth and challenging subalpine terrain. Clearcutting with reserve trees is the most common harvest method, with natural regeneration from seed relied upon for stand reestablishment.
-
-## Ornamental and Cultural Significance
-
-Mountain hemlock is cultivated as an ornamental tree in cool, moist temperate regions. Its compact, symmetrical form and blue-green foliage make it an attractive specimen for large gardens and arboreta.
-
-The species is hardy to USDA Zone 5 but performs best in areas with cool summers and abundant moisture. It is less commonly planted in cultivation than other hemlocks, partly due to its large mature size and specific environmental requirements.
-
-Several dwarf cultivars have been selected from witch's broom mutations and are valued in rock gardens and conifer collections. These compact forms maintain the species' characteristic nodding branch tips and blue-green coloration in a much smaller size.
-
-Notable cultivars include 'Elizabeth', a compact rounded form reaching approximately 1 meter in height at maturity. 'Bergman' is another dwarf selection with dense blue-green foliage and a slow growth rate, making it popular in alpine gardens.
-
-[[dighton-fungi-climate-change-feedback]] poses a potential long-term threat to mountain hemlock throughout much of its range. As temperatures rise and winter snowpacks diminish, the species may face increasing competition from lower-elevation conifers migrating upslope.
-
-Indigenous peoples of the Pacific Northwest used mountain hemlock wood for carving, tool handles, and construction of shelters and fish traps. The inner bark was occasionally used as a food source during times of scarcity.
-
-## See Also
-
-- [[tsuga-heterophylla]]
-- [[abies-grandis]]
-- [[pinus-contorta]]
-- [[sequoiadendron-giganteum]]
-- [[larix-laricina]]
-- [[larix-decidua]]
-- [[juniperus-communis]]

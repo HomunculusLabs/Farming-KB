@@ -4,6 +4,7 @@ tags: [grape, hardy-kiwi, trellising, homesteading, permaculture, fruit]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cornell University College of Agriculture and Life Sciences –  Guide"
   - "University of Minnesota Extension – Hardy Kiwi (actinidia-arguta)"
   - "Missouri Botanical Garden – Actinidia arguta Plant Profile"

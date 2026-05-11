@@ -1,5 +1,5 @@
 ---
-title: "Fungal Rock Weathering and Mineral Dissolution"
+title: Dighton Fungal Rock Weathering Mineral Dissolution
 created: 2026-04-26
 tags:
   - mycology
@@ -28,10 +28,10 @@ development.
 Lichens are often the first organisms to colonize bare rock outcrops.
 They scavenge water and nutrients from atmosphere, rain, and dew, and
 tolerate complete desiccation. Approximately 8% of terrestrial ecosystems
-are lichen-dominated, with ground cover reaching up to 100%.
+are lichen-dominated, with [[fukuoka-citrus-orchard-ground-cover-cultivation]] reaching up to 100%.
 
 Lichens produce organic acids including oxalic, citric, lichenic, and
-tartaric acids that solubilize rock. Carbon dioxide from lichen
+tartaric acids that solubilize rock. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from lichen
 respiration mixes with condensed water to form carbonic acid, an
 important agent of calcite dissolution in limestone and marble. Oxalic
 acid dissolves solid muscovite to release [[knf-water-soluble-potassium-detailed]] and
@@ -47,7 +47,7 @@ acids. Zone 2 is the area of biophysical disaggregation, where fungal
 hyphae and rhizomorphs penetrate rock fissures. Hyphal aggregations
 narrow with depth until only single hyphae exist. Zone 2 has the most
 intense [[mycorrhizal-mineral-weathering-nutrient-acquisition]] with maximal contact among cells, secreted
-polymers, and mineral surfaces, forming complexes at the nanometer
+polymers, and [[fungal-community-profiling-rock-mineral-surfaces-gadd]], forming complexes at the nanometer
 scale. Metal-lichen acid complexes form here, such as ferric oxide in
 Acarospora sinoptica and copper oxalate in Acarospora rugulosa.
 
@@ -69,10 +69,10 @@ hyphae escape into soil.
 ## Free-Living Fungi in Rock Dissolution
 
 Fungi alone produce organic acids capable of breaking down rock.
-Aspergillus niger, Penicillium, and yeasts release cations from
+[[aspergillus-niger]], Penicillium, and yeasts release cations from
 amphibolite, biotite, orthoclase, limestone, marble, and calcium
 phosphate. The white rot fungus Resinicium bicolor solubilized
-strontianite sand, translocated strontium through mycelial cords, and
+strontianite sand, translocated strontium through [[dighton-fungal-rhizomorphs-mycelial-cords]], and
 secreted it in [[fungal-calcium-oxalate-crystals]] crystals at advancing mycelium fronts,
 demonstrating movement of elements from parent mineral substrate into
 decomposing wood resources.
@@ -87,26 +87,3 @@ saprotrophic and [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they
 hyphae bearing cross walls in hyphal-generated tunnels in rock.
 
 ## Mycorrhizal Rock Weathering
-
-[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] established soils contribute to parent rock
-dissolution, often through evolved partnerships with bacteria. Azcon et
-al. (1976) showed synergistic interactions between bacteria and
-arbuscular mycorrhizae of lavender for phosphorus acquisition from rock
-phosphate. The consortium of Glomus fasciculatum, Cladosporium
-herbarum, and Bacillus circulans enabled mung bean plants to better
-obtain phosphorus from rock phosphate than any organism alone.
-
-Chang and Li (1998) found that among seven ectomycorrhizal species,
-only Hysterangium setchellii, Rhizopogon vinicolor, and Suillus bovinus
-demonstrated limestone, marble, and [[bionutrients-lab-calcium-phosphate-calamansi]] solubilization in
-plate-clearing assays. Cenococcum geophilum, Hebeloma
-crustuliniforme, Laccaria laccata, and Piloderma croceum did not clear
-the medium. The rhizosphere has 5 to 10 times greater fungal populations
-than bulk soil, and weatherable minerals near root surfaces are
-consistently depleted.
-
-## See Also
-
-- [[fungal-mineral-weathering]]
-- [[endolithic-fungi-rock-colonizing-communities]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]

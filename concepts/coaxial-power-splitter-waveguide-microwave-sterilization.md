@@ -12,15 +12,15 @@ The microwave transmission system in the NASA [[challenge-organisms-nasa-microwa
 distribute 2.45 GHz microwave energy from a single magnetron source to multiple
 dipole antennas positioned around the target surface. This transmission chain
 is critical for achieving uniform surface coverage and the specified exposure
-rate of 3.6 W per square centimeter required for complete microbial kill.
+rate of 3.6 W per square centimeter required for complete [[microbial-kill-curve-microwave-exposure-dose-response]].
 
 ## System Overview
 
 The complete microwave transmission chain consists of the following stages,
 each performing a specific impedance-matching and energy-distribution function:
 
-1. Magnetron oscillator generates the 2.45 GHz signal
-2. Waveguide-coaxial adapter transitions energy into rectangular waveguide
+1. [[magnetron-oscillator-microwave-sterilization]] generates the 2.45 GHz signal
+2. Waveguide-coaxial adapter transitions energy into [[rectangular-waveguide-dipole-antenna-microwave-surface-sterilization]]
 3. Rectangular waveguide carries energy with minimal loss to the splitting
    point
 4. Coaxial power splitter divides the signal into multiple paths
@@ -69,7 +69,7 @@ the adapter and the power splitter. Key characteristics include:
 ## Coaxial Power Splitter
 
 The coaxial power splitter divides the single microwave input into multiple
-output paths that feed individual dipole antennas. Design considerations for
+output paths that feed individual dipole antennas. [[mycoremediation-bioreactor-design-considerations]] for
 the power splitter include:
 
 - **Split ratio**: The power should be divided as evenly as possible among the
@@ -88,60 +88,3 @@ Common power splitter configurations for this application include:
 - **T-junction splitter**: Simple waveguide T-junction with matching
   irises, suitable for two-way splits
 - **Corporate feed network**: Multiple stages of two-way splitters for
-  feeding four or more antennas
-
-## Dipole Antennas
-
-The terminal elements of the transmission system are dipole antennas that
-radiate microwave energy onto the contaminated surfaces. Their design directly
-affects the uniformity and effectiveness of surface sterilization:
-
-- **Half-wave dipoles**: At 2.45 GHz, a half-wave dipole is approximately
-  61 mm long, optimized for radiation efficiency at this frequency
-- **Polarization**: The orientation of the dipole elements determines the
-  polarization of the radiated field, which affects coupling with water
-  molecules on the surface
-- **Placement**: Multiple antennas positioned around the target surface
-  ensure coverage from multiple angles, preventing shadow zones
-- **Near-field operation**: The antennas operate in the near field of the
-  target surface, where field distribution is more complex than far-field
-  approximations would predict
-
-## Surface Coverage and Uniformity
-
-The goal of the antenna array is to deliver uniform exposure of 3.6 W per
-square centimeter across the entire contaminated surface. Achieving this
-requires careful attention to:
-
-- **Antenna spacing**: Too close and fields overlap destructively; too far
-  and gaps in coverage develop
-- **Surface geometry**: Complex surface geometries (such as the mating
-  surfaces of the [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]] Access Port) require careful
-  antenna positioning to ensure all surfaces receive adequate exposure
-- **[[cervantes-reflective-materials-grow-room-walls]]**: The use of microwave-reflective materials around
-  the target can redirect energy into shadow zones, improving coverage
-- **[[microwave-reflective-transparent-materials-surface-sterilization]]**: Microwave-transparent materials allow energy to
-  pass through to reach surfaces that are not directly visible to the antennas
-
-## Standing Waves and VSWR
-
-Voltage Standing Wave Ratio (VSWR) is a critical parameter for the entire
-transmission system. High VSWR indicates impedance mismatches that:
-
-- Reduce the power delivered to the antennas
-- Increase reflected power that can damage the magnetron
-- Create hot spots in the waveguide that can cause arcing and component
-  failure
-
-The system should maintain a VSWR below 2:1 (preferably below 1.5:1) across
-the operating frequency range for reliable operation.
-
-## See Also
-
-- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
-
-- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
-
-- [[microwave-exposure-system-architecture-surface-sterilization]]
-- [[microwave-surface-sterilization-2-45ghz-nasa]]
-- [[microwave-penetration-elastomeric-materials]]

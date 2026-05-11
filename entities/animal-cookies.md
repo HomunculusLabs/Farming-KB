@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2020). "Animal Cookies blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2023). "Animal Cookies Strain Review." AllBud.com.
-  - "Girl Scout Cookies Family Tree." SeedFinder.eu.
+  - "[[girl-scout-cookies]] Family Tree." SeedFinder.eu.
   -annabis Now Magazine (2019). "The Cookie Lineage: A Genetic History." Cannabis Now.
 created: 2026-04-28
 ---
@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-Animal Cookies is an indica-dominant hybrid cannabis strain created by crossing the legendary Girl Scout Cookies with Fire OG. Also known as Animal Crackers, it was bred by the Canadian seed company Boreal Genetics, though the genetic combination was also developed independently by other breeders.
+Animal Cookies is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing the legendary Girl Scout Cookies with Fire OG. Also known as Animal Crackers, it was bred by the Canadian seed company Boreal Genetics, though the genetic combination was also developed independently by other breeders.
 
 The strain has earned a devoted following for its potent sedative effects and complex sweet, earthy aroma. It has won no major cannabis cups but consistently ranks among the most sought-after Cookies-family varieties in licensed dispensaries.
 
@@ -30,13 +30,13 @@ THC content typically ranges from 20–27%, with some phenotypes testing above 3
 
 ## Lineage
 
-**Female parent:** Girl Scout Cookies (OG Kush × Durban Poison). GSC contributes the sweet, cookie-like terpene profile and the dense bud structure that characterizes the Cookies family.
+**Female parent:** Girl Scout Cookies (OG Kush × Durban Poison). GSC contributes the sweet, cookie-like [[cannabis-terpene-profile]] and the dense bud structure that characterizes the Cookies family.
 
 **Male parent:** Fire OG (OG Kush × San Fernando Valley OG). Fire OG contributes increased [[cannabis-glandular-trichome-types-resin-production-clarke]], elevated potency, and the deeply relaxing body effects typical of OG lineage.
 
 The resulting cross is approximately 75% indica / 25% sativa in its typical expression, though phenotypic variation can shift this ratio.
 
-Animal Cookies has itself been used as a parent in numerous crosses, including Miracle Alien Cookies (MAC), which combines Animal Cookies with [[oner-colombian-landrace-sativa-strains]] genetics.
+Animal Cookies has itself been used as a parent in numerous crosses, including [[miracle-alien-cookies]] (MAC), which combines Animal Cookies with [[oner-colombian-landrace-sativa-strains]] genetics.
 
 ## Aroma and Flavor
 
@@ -54,7 +54,7 @@ Limonene contributes the citrusy sweetness and may enhance mood and stress relie
 
 **Secondary terpenes** include linalool, humulene, and pinene in trace amounts. The linalollo presence may contribute to the strain's anxiolytic and calming effects.
 
-**Cannabinoid profile:** THC 20–27%, with exceptional phenotypes reaching 30%. CBD is typically below 0.1%. Minor cannabinoids including CBG and THCV may be present in small quantities.
+**Cannabinoid profile:** THC 20–27%, with exceptional phenotypes reaching 30%. CBD is typically below 0.1%. [[cannabis-minor-cannabinoids]] including CBG and THCV may be present in small quantities.
 
 ## Effects
 
@@ -62,7 +62,7 @@ The onset is relatively rapid, typically felt within 5–10 minutes of inhalatio
 
 Within 30–45 minutes, the indica-dominant body effects become prominent. A deep, warming relaxation spreads from the core outward, often leading to couch-lock at higher doses.
 
-Medical users report effectiveness for [[cannabis-chronic-pain-management]], insomnia, muscle spasms, anxiety, and appetite stimulation. The strain is particularly valued for evening or nighttime use due to its sedative progression.
+Medical users report effectiveness for [[cannabis-chronic-pain-management]], insomnia, muscle spasms, anxiety, [[cannabis-for-cachexia-and-appetite-stimulation]]. The strain is particularly valued for evening or nighttime use due to its sedative progression.
 
 Common side effects include dry mouth and dry eyes. At higher doses, some users report dizziness, paranoia, or heightened anxiety, particularly those sensitive to high-THC indica strains.
 
@@ -87,27 +87,3 @@ Several distinct phenotypes of Animal Cookies circulate among cultivators, each 
 The "Cookie Dough" phenotype expresses stronger sweet vanilla terpenes and tends to produce more compact, rounded buds. It is favored for its flavor profile and moderate potency.
 
 The "Fire" phenotype leans more heavily into its Fire OG parentage, producing more pungent, fuel-like aromas alongside the cookie sweetness. This phenotype typically tests higher in THC and produces more pronounced sedative effects.
-
-Animal Cookies has become a building block for modern breeding programs. Its offspring include the popular MAC (Miracle Alien Cookies), which crosses Animal Cookies with a Colombian landrace, and several Cookies-family variations.
-
-## Cultivation
-
-Animal Cookies can be grown indoors, outdoors, or in greenhouses. It is considered moderately difficult to cultivate due to its sensitivity to environmental stress and nutrient requirements.
-
-**Flowering time:** 8–9 weeks indoors. Outdoor harvest is typically ready by mid-October in northern hemisphere temperate climates.
-
-**Yield:** Moderate, producing 10–14 ounces per square meter indoors. Outdoor plants yield 12–16 ounces per plant under optimal conditions.
-
-The plants develop dense, frosty buds with deep purple and green coloration. Heavy trichome coverage gives the flowers a silvery-white appearance.
-
-[[cannabis-training-techniques-comparison]] such as low-stress training (LST) and scrogging are recommended to maximize light penetration and yield. The strain responds well to defoliation during early flowering.
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[thin-mint-cookies]]
-- [[wedding-cake]]
-- [[gorilla-glue]]
-- [[runtz-entity]]
-- [[cannabis-indoor-growing-basics]]
-- [[starfighter]]

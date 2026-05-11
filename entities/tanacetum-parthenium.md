@@ -30,7 +30,7 @@ sources:
 
 **Tanacetum parthenium**, commonly known as feverfew, is a perennial herbaceous
 plant in the family Asteraceae. Native to the Balkan Peninsula and the Caucasus,
-it has become naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate regions
+it has become naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide. Feverfew is best known for its long history of use in preventing
 migraine headaches and reducing fever, with modern [[mushroom-cancer-clinical-trials-overview]] supporting
 its prophylactic efficacy against migraines.
@@ -68,8 +68,8 @@ synonym *Matricaria parthenium*.
 ## Distribution and Habitat
 
 - **Native range:** Balkan Peninsula, Anatolia, and the Caucasus region.
-- **Naturalized:** Widespread across Europe, North America, Australia, and
-  parts of South America and Asia.
+- **Naturalized:** Widespread across Europe, [[guzman-psilocybin-mushrooms-north-america]], Australia, and
+  parts of [[guzman-psilocybin-mushrooms-south-america]] and Asia.
 - **Habitat:** Roadsides, wastelands, old fields, and rocky slopes. Prefers
   well-drained soils in full sun to partial shade. Tolerates poor soils and
   is considered mildly invasive in some regions.
@@ -87,38 +87,3 @@ The primary pharmacologically active constituents include:
 - **Volatile oils:** Camphor, bornyl acetate, and various monoterpenes
   responsible for the characteristic aroma.
 - **Tannins and phenolic acids:** Chlorogenic acid and caffeic acid derivatives.
-
-## Medicinal Uses
-
-Feverfew's most extensively studied application is **migraine prophylaxis**.
-Multiple randomized controlled trials have demonstrated a statistically
-significant reduction in migraine frequency (by ~40–60%) with regular daily
-consumption of dried feverfew leaf preparations, typically 50–100 mg of
-standardized parthenolide extract.
-
-Additional traditional and investigated uses include:
-
-- Antipyretic (fever reduction) — the origin of the common name "feverfew"
-  from the Latin *febrifugia* ("fever-reducing").
-- Anti-inflammatory for arthritis and rheumatic complaints.
-- Antispasmodic for menstrual cramps and digestive discomfort.
-- Topical applications for insect bites and minor skin irritations.
-
-## Cultivation and Permaculture
-
-Feverfew is easily grown from seed, cuttings, or division. It prefers
-well-drained soil and full sun but tolerates partial shade. Hardy to USDA zone
-5. Self-seeds readily and can become weedy if not managed.
-
-**Permaculture applications:**
-
-- **[[herb-spiral]] placements.
-
-## See Also
-
-- [[matricaria-chamomilla]]
-- achillea-millefolium
-- chrysanthemum
-- apigenin
-- luteolin
-- [[cannabis-for-migraine-and-headache]]

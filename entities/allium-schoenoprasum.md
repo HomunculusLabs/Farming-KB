@@ -15,10 +15,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." In: Allium Crop Science.
+  - Fritsch, R.M. & Friesen, N. (2002). "Evolution, domestication and taxonomy." In: Allium brassinosteroid-anti-stress-effects-crop-science.
   - Block, E. (2010). Garlic and Other Alliums: The Lore and the Science. Royal Society of Chemistry.
   - Hanelt, P. (1990). "Taxonomy, evolution and history." In: Onions and Allied Crops, Vol. 1.
-  - Krest, I. et al. (2000). "Antimicrobial activity of Allium cepa, A. sativum, and A. schoenoprasum." Planta Medica 66: S31.
+  - Krest, I. et al. (2000). "Antimicrobial activity of [[allium-cepa]], A. sativum, and A. schoenoprasum." Planta Medica 66: S31.
 aliases:
   - chives
   - onion chives
@@ -30,7 +30,7 @@ aliases:
 ## Overview
 
 **Allium schoenoprasum**, commonly known as chives, is a perennial herbaceous plant in the
-family Amaryllidaceae (formerly Alliaceae). Native to temperate regions of Europe, Asia,
+family Amaryllidaceae (formerly Alliaceae). Native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, Asia,
 and [[psilocybin-north-america-pacific-northwest]], it is one of the most widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] globally.
 
 Chives are distinguished from other *Allium* species by their hollow, tubular leaves and
@@ -48,7 +48,7 @@ The species was described by Carl Linnaeus in 1753. The epithet *schoenoprasum* 
 from Greek *skhoínos* (rush) and *prason* (leek), referencing the rush-like foliage.
 Synonyms include *Allium sibiricum* L. and *Allium raddeanum* Regel.
 
-Chives belong to a section of approximately 150 Old World species, with *A. schoenoprasum*
+Chives belong to a section of approximately 150 [[datura-metel-old-world-ethnobotany]] species, with *A. schoenoprasum*
 being the only widely cultivated member of section *Schoenoprasum*.
 
 ## Morphology
@@ -69,7 +69,7 @@ requires stratification at 4°C for 2-4 weeks for optimal results.
 ## Distribution and Habitat
 
 *A. schoenoprasum* is native across a broad circumboreal range, from Europe (Scandinavia
-to the Mediterranean) through Central Asia to Siberia, and across North America from Alaska
+to the Mediterranean) through Central Asia to Siberia, and across [[guzman-psilocybin-mushrooms-north-america]] from Alaska
 to the Great Lakes region and Appalachian mountains.
 
 Wild populations occur in meadows, rocky outcrops, riverbanks, and subalpine grasslands at
@@ -87,42 +87,3 @@ converted by alliinase upon tissue damage to allicin, which degrades to diallyl 
 
 Key bioactive constituents include methyl allyl disulfide, dipropyl disulfide, and
 diallyl trisulfide. Flavonoids include kaempferol and quercetin glycosides.
-
-Antimicrobial activity has been demonstrated against Gram-positive bacteria (*Staphylococcus
-aureus*, *Bacillus subtilis*) and select fungi (*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*), attributed primarily
-to organosulfur compounds. Antioxidant capacity (ORAC values) is moderate among culinary
-herbs.
-
-## Culinary and Nutritional Use
-
-Chive leaves are harvested by cutting 2-5 cm above the soil, allowing regrowth throughout
-the [[savory-growing-season-and-non-growing-season-management]]. They are used fresh as a garnish and flavoring in soups, salads,
-egg dishes, cream cheese, and potato preparations. The flowers are edible and used as
-garnishes.
-
-Nutritionally, chives provide vitamin K (87% DV per 100 g), vitamin C, vitamin A, and
-folate. Caloric content is low (30 kcal/100 g) with minimal fat and protein.
-
-Chive flowers are attractive to pollinators, particularly bees and butterflies, making
-them valuable companion plants in kitchen gardens and permaculture designs.
-
-## Cultivation
-
-Chives are hardy to USDA zone 3 (-40°C) and are among the easiest perennial [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]].
-They prefer rich, well-drained soil and consistent moisture but tolerate drought once
-established. Plants require 6+ hours of direct sunlight for optimal production.
-
-Propagation is by seed (sown in spring at 1 cm depth) or division of clumps every 3-4
-years. Division is preferred for maintaining cultivar purity. Plants typically begin
-harvestable production in their second year from seed.
-
-Common cultivars include 'Common' (standard green), 'Forescate' (deep rose flowers),
-'Profusion' (sterile, prolonged flowering), and 'Grolau' (selected for indoor forcing).
-
-## See Also
-
-- [[allium-sativum-entity]]
-- [[ocimum-basilicum]]
-- [[rosmarinus-officinalis-entity]]
-- permaculture
-- [[urtica-dioica]]

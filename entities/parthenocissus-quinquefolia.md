@@ -88,23 +88,3 @@ Despite these cautions, the species has been used in traditional medicine. [[hal
 Virginia creeper provides important food and habitat for wildlife. The berries are consumed by numerous bird species, including bluebirds, thrushes, warblers, and woodpeckers, particularly during autumn migration.
 
 The dense foliage provides nesting sites and protective cover for small birds and mammals. The vine's structure creates microhabitats for insects, spiders, and other arthropods.
-
-Several moth species use *Parthenocissus* as a larval host plant, including the Virginia creeper sphinx (*Darapsa myron*). The foliage also supports leafhoppers, treehoppers, and other hemipteran species.
-
-The flowers, though inconspicuous to humans, provide a modest nectar resource for small bees and flies during mid-summer. This early-to-mid season bloom supplements pollinator resources before the main autumn nectar flow.
-
-In forest ecosystems, Virginia creeper competes with canopy trees for light and can suppress regeneration of understory species when growing at high density. This competitive ability makes it both ecologically valuable and potentially problematic.
-
-## See Also
-
-- [[vitis-vinifera]]
-- [[vitis-rotundifolia]]
-- [[campsis-radicans]]
-- [[clematis-vitalba]]
-- [[humulus-lupulus]]
-- [[vitis-aestivalis]]
-- [[wisteria-floribunda]]
-- [[actinidia-chinensis]]
-- [[passiflora-caerulea]]
-- [[gelsemium-sempervirens]]
-- [[jasminum-grandiflorum]]

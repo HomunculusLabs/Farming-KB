@@ -88,36 +88,3 @@ between plates.
 
 After spore germination, multiple sectors of mycelium with different genetics
 will be visible. Each represents a unique dikaryotic strain with potentially
-different characteristics (growth rate, yield, fruiting quality, disease
-resistance).
-
-Strain selection process:
-1. Transfer individual sectors to separate plates
-2. Grow each isolate to full colonization
-3. Test each isolate on grain and through fruiting
-4. Select the best-performing isolates for continued cultivation
-
-This process of selecting from a multispore germination to a single,
-high-performing isolate is called strain isolation or [[vic-high-true-breeding-strain-development-stabilization]].
-
-## Sectoring and Morphology
-
-Healthy mycelium on agar can display different growth patterns:
-- **Rhizomorphic**: Thick, rope-like strands radiating outward. Generally
-  indicates vigorous, fruiting-capable mycelium
-- **Tomentose**: Fluffy, cottony growth. Can indicate less vigorous genetics
-  or overly rich media
-- **Sectoring**: Visible boundaries between genetically distinct mycelial
-  zones within the same culture
-
-## Storage
-
-Cultures can be stored short-term at room temperature (sealed plates last
-2-4 months) or long-term in refrigeration (2-4°C, sealed with parafilm,
-lasting 6-12 months). For indefinite storage, cultures can be preserved on
-sterilized wooden dowels (slant cultures) or in glycerol solution at -20°C
-or in liquid nitrogen.
-
-## See Also
-
-- [[coleman-flame-weeding-preemergence-technique]]

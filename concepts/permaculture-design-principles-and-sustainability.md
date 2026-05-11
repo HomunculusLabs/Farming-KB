@@ -1,5 +1,5 @@
 ---
-title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles principles and sustainability and Sustainability
+title: Permaculture Design Principles And Sustainability
 tags:
   - permaculture
   - sustainability
@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - william-ozier-williams-pdc_-a-permaculture-design-cours.md
 type: concept
 created: 2026-04-28
@@ -19,7 +20,7 @@ created: 2026-04-28
 
 Permaculture is a comprehensive design system for creating sustainable human settlements and agricultural systems. The term, coined by use-and-value-renewable-resources and Services**: Prioritize resources that can be replenished naturally over those that are finite or polluting. This includes not only material resources but also the services provided by healthy ecosystems, such as pollination, water purification, and climate regulation.
 6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]**: Design for closed-loop systems where the output of one element becomes the input for another. In nature, there is no waste; every organism's output is another's resource. A well-designed permaculture system mimics these closed loops.
-7. **use-edges-and-value-the-marginal Marginal**: The interfaces between different systems (forest edges, shorelines, cultural boundaries) are often the most productive and dynamic areas. Permaculture designers deliberately create and work with edges to maximize diversity and producti faires-permaculture-ethics-and-design-principles
+7. **use-edges-and-value-the-marginal Marginal**: The interfaces between different systems (forest edges, shorelines, cultural boundaries) are often the most productive and dynamic areas. [[permaculture-principle-apply-self-regulation]] deliberately create and work with edges to maximize diversity and producti faires-permaculture-ethics-and-design-principles
 - [[permaculture-plant-selection-and-useful-species-categories]]
 ## Practical Applications
 
@@ -38,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,21 +87,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[permaculture-design]]
-- [[mollison-permaculture-two-introduction-design-principles]]
-- [[permaculture-food-forest-design-principles]]
-- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[pdc-urban-permaculture-design-principles]]

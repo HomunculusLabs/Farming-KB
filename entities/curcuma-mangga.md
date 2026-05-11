@@ -10,9 +10,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sakai K, Nagamasu H, Ito T. (2000). "Curcuma of Borneo." Acta Phytotaxonomica et Geobotanica.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of psilocybe-southeast-asia-pacific." Blumea.
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[psilocybe-southeast-asia-pacific]]." Blumea.
   - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
-  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science.
+  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science.
 ---
 
 # Curcuma mangga
@@ -88,42 +88,3 @@ some rural areas of Java.
 The rhizomes of C. mangga contain [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] rich in monoterpenes and
 sesquiterpenes. Major volatile constituents include curzerene, germacrone,
 xanthorrhizol, and β-curcumene.
-
-Non-volatile compounds identified in the rhizome include curcuminoids (curcumin,
-demethoxycurcumin, and bisdemethoxycurcumin), though at lower concentrations than
-C. longa. Flavonoids and phenolic acids contribute to the antioxidant activity
-observed in laboratory assays.
-
-Pharmacological studies have demonstrated anti-inflammatory activity in animal
-models, attributed primarily to xanthorrhizol and germacrone. Antimicrobial
-activity has been reported against Staphylococcus aureus, Escherichia coli, and
-[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] in vitro.
-
-Cytotoxic activity against several human cancer cell lines has been observed in
-preliminary screening studies, though clinical evidence remains limited. Further
-research is needed to validate traditional medicinal applications.
-
-## Culinary Applications
-
-C. mangga rhizomes are used as a spice in certain regional cuisines of Java and
-Sumatra. The fresh rhizome is grated or sliced and added to curries, soups, and
-stir-fried dishes for its aromatic flavor.
-
-The mango-like fragrance of the rhizome makes it a distinctive ingredient in
-Javanese *sayur lodeh* and other vegetable-based dishes. It is used more for
-aromatic contribution than for coloring, unlike C. longa.
-
-In some communities, the young shoots and flower buds are eaten as a vegetable.
-The shoots are blanched and served with spicy condiments as a side dish.
-
-Pickled C. mangga rhizome (*asinan*) is a traditional preserved food in parts of
-West Java. The rhizomes are salted and fermented, developing a sour flavor while
-retaining their aromatic character.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[curcuma-aromatica]]
-- [[zingiber-officinale]]
-- [[kaempferia-galanga]]
-- [[elettaria-cardamomum]]

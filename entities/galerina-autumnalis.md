@@ -88,23 +88,3 @@ to irreversible organ failure. The toxins include [[alpha-amanitin]] and beta-am
 inhibit RNA polymerase II, effectively halting protein synthesis in affected cells.
 
 Symptoms of poisoning typically begin 6 to 24 hours after ingestion with a latency
-period that may falsely suggest recovery, followed by a secondary phase of severe liver
-and kidney damage that is frequently fatal without aggressive medical intervention
-including liver transplantation.
-
-## Flavor and Preparation
-
-**This mushroom must never be consumed under any circumstances.** There is no safe
-method of preparation, and cooking, drying, or freezing does not neutralize the
-amatoxins. Even tiny amounts can be lethal.
-
-## References
-
-1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
-2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-
-## See Also
-
-- [[galerina-steglichii]]
-
-- [[fimbristylis-autumnalis]]

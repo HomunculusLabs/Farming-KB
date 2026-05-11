@@ -22,11 +22,11 @@ sources:
 
 **Lindera benzoin** is a deciduous shrub in the family Lauraceae, native to [[polypore-fungi-eastern-north-america]] America from Maine to Florida and west to Kansas and Texas. It is commonly known as spicebush, Benjamin bush, or wild allspice, names referring to the aromatic fragrance of its crushed leaves, twigs, and drupes.
 
-The species is dioecious, producing small yellow flowers in early spring before leaf emergence. Female plants bear bright red drupes in late summer and fall, which are relished by migratory birds.
+The species is dioecious, producing small yellow flowers in [[coleman-overwintered-onions-and-early-spring-crops]] before leaf emergence. Female plants bear bright red drupes in late summer and fall, which are relished by migratory birds.
 
-Spicebush is a keystone understory species in eastern deciduous forests and one of the primary larval host plants for the spicebush swallowtail butterfly (*Papilio troilus*). It is widely planted in native landscaping and ecological restoration.
+Spicebush is a keystone understory species in eastern deciduous forests and one of the primary larval host plants for the spicebush swallowtail butterfly (*Papilio troilus*). It is widely planted in native landscaping and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
-The genus *Lindera* contains approximately 80–100 species distributed across temperate and subtropical regions of Asia and eastern North America. *L. benzoin* is the only species native to eastern North America, making it a significant biogeographic outlier in the predominantly Asian genus.
+The genus *Lindera* contains approximately 80–100 species distributed across temperate and subtropical regions of Asia and eastern [[guzman-psilocybin-mushrooms-north-america]]. *L. benzoin* is the only species native to eastern North America, making it a significant biogeographic outlier in the predominantly Asian genus.
 
 ## Taxonomy and Morphology
 
@@ -42,13 +42,13 @@ Twigs are slender, green to brown, with prominent lenticels. All above-ground pa
 
 Flowers appear in March–April before the leaves, clustered in small axillary fascicles of 3–5. Male flowers have 9 stamens in 3 whorls; female flowers have 6–12 staminodes and a superior ovary.
 
-The fruit is an ovoid red drupe, ~6–10 mm long, containing a single seed. Drupes ripen from August to October and persist into early winter unless consumed by birds.
+The fruit is an ovoid red drupe, ~6–10 mm long, containing a [[cervantes-selfing-single-seed-descent]]. Drupes ripen from August to October and persist into early winter unless consumed by birds.
 
 Bark is gray-brown, smooth on young stems, becoming slightly fissured with age. The root system consists of a deep taproot with shallow lateral roots, contributing to [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Distribution and Habitat
 
-*Lindera benzoin* ranges from southern Maine and Ontario west to Michigan, Kansas, and eastern Oklahoma, and south to northern Florida and eastern Texas. It is most abundant in the Appalachian region and the Piedmont.
+*Lindera benzoin* ranges from southern Maine and Ontario west to Michigan, Kansas, and eastern Oklahoma, and south to northern Florida and eastern Texas. It is most abundant in the [[bolete-fungi-appalachian-region]] and the Piedmont.
 
 The species occurs in moist deciduous forests, floodplain woodlands, stream banks, and shaded ravine slopes. It tolerates full shade to partial sun but is most vigorous in light gaps and forest edges.
 
@@ -80,39 +80,10 @@ Dried spicebush berries are used in baking, marinades, teas, and seasonal bevera
 
 Young leaves can be brewed into a mild, refreshing tea with a sweet-spicy character. Twigs are also used for tea, especially in early spring when the aromatic compounds are most concentrated.
 
-Native American peoples used the dried fruits as a seasoning and the leaves for tea. The Cherokee, Creek, and Iroquois all incorporated spicebush into their foodways.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples used the dried fruits as a seasoning and the leaves for tea. The Cherokee, Creek, and Iroquois all incorporated spicebush into their foodways.
 
 The [[permaculture-designers-manual-essential-oil-plants]] derived from twigs and fruits contains linalool, cineole, and various terpenoids, which account for the characteristic fragrance. Commercial spicebush products remain a niche market.
 
 Spicebush tea has a long tradition as a warming winter beverage in Appalachian folk medicine. Modern interest in native edibles has increased demand for spicebush products at regional farmers' markets.
 
 ## Ecological Role
-
-*Lindera benzoin* is the primary larval host for the spicebush swallowtail (*Papilio troilus*) and the promethea silkmoth (*Callosamia promethea*). Caterpillars fold leaves around themselves to create shelters, a behavior unique to spicebush-feeding swallowtails.
-
-The red drupes are high in lipids and are a critical food resource for migratory songbirds during fall migration. Thrushes, catbirds, robins, and woodpeckers are among the primary avian consumers.
-
-The early-spring flowers provide nectar and pollen for emerging native bees, flies, and small beetles at a time when few other woody plants are in bloom. Male flowers are especially valuable for pollinator support.
-
-Spicebush is increasingly recommended in pollinator garden designs for its dual role as both nectar source and larval host. It pairs well with other native spring-blooming understory species like serviceberry and redbud.
-
-As an understory shrub, spicebush contributes to [[mollison-wet-tropical-forest-structure-and-polyculture]] and provides cover for ground-nesting birds and small mammals. Its dense thickets create microhabitats for amphibians and invertebrates.
-
-The species is considered an indicator of high-quality forest habitat in the eastern U.S. Its presence in riparian corridors signals relatively intact hydrology and low disturbance levels.
-
-Deer browsing can suppress spicebush regeneration in heavily overpopulated areas. However, the shrub's rapid growth rate allows it to recover once browsing pressure is reduced.
-
-## See Also
-
-- [[lindera-melissifolia]]
-
-- [[lindera-obtusiloba]]
-
-- [[cinnamomum-verum]]
-- [[persea-americana]]
-- [[antrodia-camphorata]]
-- [[citrus-sinensis]]
-- [[pimenta-dioica]]
-- [[curcuma-longa]]
-- [[ocimum-basilicum]]
-- [[mentha-piperita]]

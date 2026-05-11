@@ -32,7 +32,7 @@ Each mushroom decomposer produces a unique set of enzymes that can only partiall
 break down a wood-based substrate. Shiitake ([[lentinula-edodes]]), for example, is a
 primary decomposer of hardwood lignin and cellulose but leaves behind significant
 undigested fiber. Once its life cycle is complete, a secondary decomposer such as
-an [[oyster-mushroom]] om]] ([[pleurotus-ostreatus]]) can be introduced to exploit the
+an [[oyster-mushroom]] ([[pleurotus-ostreatus]]) can be introduced to exploit the
 remaining wood fiber and also consume the dead mycelium of the Shiitake.
 
 After the second species has run its course, a third species can be introduced,
@@ -88,63 +88,3 @@ sterilization times may need to be prolonged to ensure complete kill of resident
 contaminants. Oyster mushrooms grow prolifically on spent Shiitake substrate with
 no amendment, though King Oyster and Maitake benefit from 10% supplementation
 with rice bran or corn.
-
-## Mass Reduction and Biological Efficiency Across the Cascade
-
-The cascade process involves substantial mass reduction at each stage. A typical
-6-pound substrate block at 75% moisture yields approximately 1.5 pounds of
-[[query-how-to-grow-shiitake-mushrooms-on-logs]] the first flush. Between 20 and 40% of the dry mass
-evolves into gases, primarily carbon dioxide, nitrogen, and ethylene.
-
-At the end of the Shiitake cycle, roughly 3 pounds of waste substrate remains at
-approximately 50% moisture. After the Oyster mushroom stage, the substrate
-undergoes another 50% reduction in mass, leaving about 1.5 pounds. This
-remaining material, without supplementation, still supports vigorous growth of
-King Stropharia or Shaggy Mane.
-
-In total, more than 20% of the substrate dry weight is converted directly into
-edible mushrooms across the full cascade. An equivalent amount is liberated as
-gases. The remaining material is a soft, loam-like humus ideal for garden
-compost. Stamets notes that this reduction process is substantially prolonged if
-large-particle wood chips are used in the original formula.
-
-## Extending the Cycle Outdoors
-
-After indoor production ceases, the cascade can be extended by implanting
-expired blocks into outdoor beds of sawdust or soil. Stamets describes how blocks
-of recycled Oyster, Maitake, or Reishi substrate can produce additional fruitings
-when buried outdoors within three to six months, often superior to indoor crops.
-
-One of Stamets' Natural Culture beds supported a succession of three species:
-Morels in the spring, King Stropharia in the summer, and an assortment of
-Hypholoma and allied species in the fall. At this final outdoor stage, the
-mycelium can also be used as spawn to inoculate additional outdoor substrates,
-though the nutritional base is largely expired by this point.
-
-## Mimicking Natural Forest Succession
-
-Stamets explicitly frames species sequencing as a model of natural forest floor
-ecology. In forest ecosystems, multiple fungal communities coexist and succeed
-one another in the decomposition of fallen wood, each contributing its unique
-[[fungal-enzymatic-capabilities]] to the collective breakdown of lignocellulosic material.
-
-The cultivator who implements species sequencing is compressing and accelerating
-this natural succession within a controlled environment. Stamets suggests this
-model is especially relevant for understanding how many species coexist in the
-same habitat, and envisions complex biospheres wherein fungi play determinant
-roles in supporting other life cycles. He further speculates that these
-principles could be instrumental in generating food for humans in space
-exploration, where substrate materials for wood decomposers are costly and
-difficult to acquire.
-
-## Critical Considerations and Limitations
-
-The sequence of species introduction is critically important and must follow
-ecological logic. Attempting to grow a tertiary decomposer on fresh substrate,
-or a primary decomposer on heavily spent substrate, will fail. Contamination
-risk increases with each successive cycle because the substrate becomes
-increasingly enriched with residual microorganisms, necessitating longer
-sterilization. Moisture management is also more challenging at later stages;
-higher moisture contents in waste substrates frequently result in higher rates of
-bag spoilage due to fermentation. Despite these challenges, species sequencing
-represents one of the most resource-efficient and ecologically sound approaches

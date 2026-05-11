@@ -64,7 +64,7 @@ Maintain proper storage conditions for spawn. Most mushroom spawn should be stor
 
 Abnormal mushroom development can result from various environmental factors. Common fruiting body problems include elongated stems, small caps, uneven growth, and aborted mushrooms. These issues often indicate improper environmental conditions.
 
-Temperature fluctuations during the fruiting stage cause畸形 mushrooms. Maintain consistent temperatures appropriate for your mushroom species. The [[mushroom-stages-of-cultivation]] resource provides temperature guidelines for different mushroom varieties.
+Temperature fluctuations during the fruiting stage cause畸形 mushrooms. Maintain consistent temperatures appropriate for your mushroom species. The [[query-what-are-the-stages-of-mushroom-cultivation]] resource provides temperature guidelines for different mushroom varieties.
 
 Insufficient humidity during fruiting leads to dry, cracked caps and stems. Use misting systems or humidifiers to maintain optimal humidity levels. Proper air circulation is also important to prevent diseases while maintaining humidity.
 
@@ -82,7 +82,7 @@ Problems can occur even after harvest if mushrooms are not handled properly. Com
 
 Handle harvested mushrooms gently to avoid bruising and damage. Bruised mushrooms develop bacterial infections more quickly. Clean mushrooms with minimal washing to prevent introducing excess moisture that promotes bacterial growth.
 
-Store harvested mushrooms properly to maintain freshness. Most mushrooms store best in paper bags in the refrigerator, allowing air circulation while preventing moisture buildup. [[mushroom-preservation-techniques]] provides detailed storage information.
+Store harvested mushrooms properly to maintain freshness. Most mushrooms store best in paper bags in the refrigerator, allowing air circulation while preventing moisture buildup. [[mckenna-myth-of-glaukos-honey-preservation-mushroom]] provides detailed storage information.
 
 ## Key Points
 
@@ -124,7 +124,7 @@ Common contamination sources include contaminated spawn, substrate materials, ai
 
 ### Integrated Pest Management
 
-For persistent pest problems, implement integrated pest management strategies. This combines multiple control methods including cultural controls, biological controls, and targeted chemical controls as a last resort. The [[mushroom-pest-management]] guide offers comprehensive IPM strategies for mushroom cultivation.
+For persistent pest problems, implement integrated pest management strategies. This combines multiple control methods including cultural controls, biological controls, and targeted chemical controls as a last resort. The [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] guide offers comprehensive IPM strategies for mushroom cultivation.
 
 Regular monitoring helps detect pest problems early before they become infestations. Use sticky traps, visual inspections, and other monitoring tools to track pest populations and implement control measures at the optimal time.
 
@@ -132,5 +132,5 @@ Regular monitoring helps detect pest problems early before they become infestati
 
 - [[query-how-to-prevent-and-troubleshoot-mushroom-contamination]]
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
-- [[query-how-to-identify-the-most-common-edible-wild-mushrooms]]
+- [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
 - [[query-how-to-start-growing-mushrooms-at-home]]

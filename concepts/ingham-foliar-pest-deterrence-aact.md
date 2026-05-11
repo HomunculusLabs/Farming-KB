@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 # Ingham — Foliar Pest Deterrence Through AACT
@@ -86,19 +87,3 @@ The effectiveness of AACT for pest deterrence depends on maintaining diverse mic
 ## Compost Tea Biology and Organism Balance
 
 The specific composition of microbial communities in AACT determines its effectiveness for different pest deterrence applications. Ingham's [[bacterial-vs-fungal-compost-teas]] in the tea can be adjusted by modifying the brewing process: shorter brew times (12-24 hours), moderate aeration, and bacterial food sources (molasses, fish hydrolysate) favor bacterial growth, while longer brew times (24-36 hours), gentle aeration, and fungal food sources (humic acids, kelp meal) favor fungal biomass. The compost source material also matters — composts made from deciduous leaf litter and woody materials harbor more diverse fungal communities than composts from manure or green waste alone.
-
-## Integration with Holistic Pest Management
-
-AACT foliar applications are most effective when integrated into a broader pest management strategy. Ingham recommends combining tea applications with practices that support the [[ingham-compost-tea-application-rates-and-timing]] must be sufficient to coat both upper and lower leaf surfaces, as many pests feed from the undersides of leaves where microbial coverage is often thinnest.
-
-## See Also
-
-- [[ingham-foliar-insect-pest-deterrence-mechanisms]]
-- [[foliar-pest-deterrence-aact-mechanisms]]
-
-- [[ingham-aact-disease-suppression]]
-- [[compost-tea-application-rates]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- mushroom-cultivation-pests-and-contamination
-
-- [[foliar-feeding]]

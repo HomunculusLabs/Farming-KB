@@ -5,6 +5,7 @@ tags: [comparison, soil-amendments, organic-farming, knf, composting]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: comparison
 ---
@@ -108,4 +109,4 @@ then maintain it with regular FPE applications for crop-specific nutrition.
 
 - [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
 - [[compost-tea-recipe-guide]]
-- [[soil-food-web]]
+- [[soil-foodweb]]

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-Herpes simplex is a common virus belonging to the same family as the
+[[cannabis-antiviral-herpes-simplex-blesching]] is a common virus belonging to the same family as the
 chickenpox virus. There are currently eight known herpes viruses.
 According to orthodox medicine, all herpes viruses can exist in the body
 without any outward sign or symptom until a period of depressed immunity
@@ -39,12 +39,12 @@ supply for the maximum recommended dose costs about $870 (in 2015).
 
 Blesching assigns a CHI (Cannabis Health Index) value of 5 based on 3
 studies reviewed for herpes, indicating preliminary but meaningful
-evidence of therapeutic potential.
+evidence of [[metzner-ayahuasca-therapeutic-potential]].
 
 ## Cannabis and Herpes
 
 A 2010 study conducted on humans in Munster, Germany, confirmed that
-topical cannabinoids significantly reduce nerve pain after a flare-up of
+topical cannabinoids significantly reduce [[blesching-cannabis-herpes-topical-antiviral-nerve-pain]] after a flare-up of
 the herpes virus. Laboratory experiments from Tampa, Florida (2004), and
 Johnson City, Tennessee (1980), showed that THC has the ability to
 interfere with replication of the herpes virus, even in instances related
@@ -63,7 +63,7 @@ to the genesis of cancer.
 |               |            | failed to replicate in human cell cultures treated     |     |
 |               |            | with THC                                                |     |
 
-**Total CHI Value: 5**
+**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 5**
 
 ### Strain-Specific Considerations
 
@@ -88,32 +88,3 @@ herpes sores on the genitals may represent guilt associated with sexual
 activity and pleasures.
 
 People who are able to prevent or abort an outbreak acknowledge and
-appropriately express their emotions, fostering a deeper intimacy with
-themselves and others.
-
-## Supporting Herbs and Foods
-
-- **Basil**: Extracts exhibit broad-spectrum antiviral activity,
-  including defending against herpes.
-- **Cardamom**: Cineole, a major constituent, showed sufficient evidence
-  in treating vaginal herpes infections in mice to warrant further
-  research.
-- **Clove**: Eugenine, a compound from clove, inhibits viral DNA
-  synthesis in several strains of herpes (I and II), including
-  acyclovir-resistant HSV-1. [[permaculture-designers-manual-essential-oil-plants]] of clove also has antiviral
-  properties against herpes.
-- **Coconut**: A crude extract of coconut husk fiber inhibits
-  acyclovir-resistant Herpes simplex virus type 1 (HSV-1-ACVr).
-- **Turmeric**: Curcumin significantly decreases HSV-1 infectivity and
-  gene expression by inhibiting promoters of herpes gene expression.
-
-## Related Topics
-
-- [[blesching-cannabis-hiv-aids]] - Herpes as an opportunistic infection
-  in immunocompromised patients
-- [[blesching-cannabis-mrsa]] - Cannabis antibacterial research for
-  comparison
-- [[blesching-cannabis-fever-temperature-regulation]] - Fever as immune
-  response during outbreaks
-- [[blesching-cannabinoid-pharmacology]] - THC mechanisms of action
-  against viral replication

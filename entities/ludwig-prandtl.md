@@ -19,7 +19,7 @@ sources: []
 
 **Ludwig Prandtl** (4 February 1875 -- 15 August 1953) was a German fluid
 dynamicist and physicist widely regarded as the **father of modern
-aerodynamics**. His 1904 boundary layer theory resolved D'Alembert's paradox
+aerodynamics**. His 1904 [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] theory resolved D'Alembert's paradox
 and provided the mathematical foundation for understanding drag, lift, and
 streamlined body design. Over five decades at the University of Gottingen,
 he developed lifting-line theory, the mixing-length turbulence model, thin
@@ -53,7 +53,7 @@ the inviscid Euler equations. This resolved **D'Alembert's paradox** (1752)
 -- inviscid theory predicting zero drag -- by showing drag arises in the
 thin viscous boundary layer. He also introduced **flow separation**, where
 the boundary layer [[det]] aches, creating wakes that fundamentally alter drag
-and lift. This single paper founded modern fluid dynamics.
+and lift. This single paper founded modern [[computational-fluid-dynamics]].
 
 ## The Gottingen Research Center
 
@@ -88,60 +88,3 @@ trigger laminar-to-turbulent transition in boundary layers.
 ### Thin Airfoil Theory and Compressibility
 
 With students **Max Munk** and **Hermann Glauert**, Prandtl developed thin
-airfoil theory (lift-curve slope = 2*pi/rad, aerodynamic center at quarter-
-chord) and the **Prandtl-Glauert compressibility correction**
-(1/sqrt(1-M^2)), whose singularity near Mach 1 predicted the transonic
-drag rise known as the "sound barrier."
-
-### The Prandtl Number
-
-The **Prandtl number** (Pr = v/alpha = cp*mu/k) is a fundamental
-dimensionlheat-transfer-coefficient in convective heat transfer representing the ratio
-of momentum to thermal diffusivity. For air Pr ~ 0.71; for water Pr ~ 7.0.
-It appears alongside Reynolds, Nusselt, and Grashof numbers in virtually
-every convective heat transfer analysis.
-
-## The Gottingen School
-
-Prandtl trained an extraordinary generation. His most famous student,
-**Theodor von Karman** (1881-1963), became a leading aerodynamicist at
-Caltech and founded JPL. Others included **Adolf Busemann** (inventor of
-the swept wing, 1935), **Max Munk** (thin airfoil theory at NACA),
-**Jakob Ackeret** (gas dynamics at ETH Zurich), **Hermann Schlichting**
-(author of *Boundary Layer Theory*), **Heinrich Blasius** (first exact
-boundary layer solution, 1908), and **Albert Betz** (Prandtl's successor,
-who established Betz's law for wind turbine maximum efficiency of 16/27).
-
-## Political Context
-
-Prandtl joined the **Nazi Party** in 1933, apparently motivated by
-institutional loyalty rather than ideology. He attempted to protect Jewish
-colleagues including **Fritz Noether**, with limited success. His institute
-conducted military research including work relevant to the V-2 rocket
-program. After WWII, he was not classified as a war criminal and continued
-at Gottingen. Historians characterize him as technically apolitical,
-accommodating the regime to preserve his research.
-
-## Key Publications
-
-- **Prandtl, L. (1904).** "Uber Flussigkeitsbewegung bei sehr kleiner
-  Reibung." *Verhandlungen des III. Int. Mathematiker-Kongresses*.
-- **Prandtl, L. (1918).** "Tragflugeltheorie." *Nachr. Ges. Wiss.
-  Gottingen*, 107-137.
-- **Prandtl, L. (1925).** "Bericht uber Untersuchungen zur ausgebildeten
-  Turbulenz." *ZAMM*, 5, 136-139.
-- **Prandtl, L. (1942).** *Fiihrer durch die Stromungslehre*. English
-  translation: *Essentials of Fluid Dynamics*, 1952.
-- **Prandtl, L. & Tietjens, O. (1934).** *Applied Hydro- and
-  Aeromechanics*.
-
-## Legacy
-
-Prandtl died on **15 August 1953** in Gottingen. He received the **Daniel
-Guggenheim Medal** (1928), was elected Foreign Member of the **Royal
-
-See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
-See [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
-
-## See Also
-- [[euler-bernoulli-beam-theory]]

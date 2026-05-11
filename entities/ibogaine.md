@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - tryptamine
+  - [[tryptamine]]
   - oneirogen
   - anti-addictive
   - iboga
@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Heffter Review
-    of mckenna-suppression-psychedelic-research-lsd-therapy, 2, 17-27.
+    of [[mckenna-suppression-psychedelic-research-lsd-therapy]], 2, 17-27.
   - Mash, D.C. et al. (2000). "Ibogaine: Complex Pharmacokinetics, Common
     Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
   - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical
@@ -53,7 +53,7 @@ administration, producing prolonged reduction in craving and withdrawal.
 ## Pharmacology
 
 Ibogaine has a complex polypharmacological profile distinct from classical
-psychedelics like psilocybin or LSD.
+psychedelics like [[psilocybin]] or LSD.
 
 - **5-HT₂A:** Weak partial agonist — insufficient to account for full
   psychedelic effect.
@@ -63,7 +63,7 @@ psychedelics like psilocybin or LSD.
   the anti-addictive reset mechanism.
 - **µ-opioid receptor:** Mixed agonist/antagonist mediates opioid
   withdrawal interruption.
-- **SERT:** Serotonin reuptake inhibition contributes to mood effects.
+- **SERT:** [[serotonin]] reuptake inhibition contributes to mood effects.
 - **hERG channel:** Potassium channel blockade (I_Kr) produces QT
   prolongation — the primary cardiovascular safety concern.
 - **Noribogaine (metabolite):** Formed via CYP2D6 O-demethylation.
@@ -88,58 +88,3 @@ Briefly marketed in France as Lambarene (neuromuscular stimulant) in the
 1930s before withdrawal due to safety concerns.
 
 Anti-addictive properties discovered in 1962 by Howard Lotsof, a 19-year-old
-heroin user who observed that a single experience eliminated his withdrawal
-and craving. Lotsof spent decades advocating for clinical development and
-held multiple treatment patents.
-
-In Gabon, iboga root bark has been used for centuries in the Bwiti religion
-as a rite-of-passage sacrament, healing ceremony, and divinatory tool.
-
-## Synthesis and Sources
-
-- **Natural extraction:** Ibogaine constitutes 1–6% of dried *T. iboga*
-  root bark; total alkaloid extracts ~15–20% ibogaine.
-- **Semi-synthetic:** Noribogaine via O-demethylation; total synthesis exists
-  but is commercially impractical.
-- **Plant sources:** *[[voacanga-africana]]*
-  (bark, 0.5–1%), *Tabernanthe laevis*.
-- **Underground production:** Extraction operations supply unregulated
-  treatment clinics in Mexico, Costa Rica, and Europe.
-
-## Legal Status
-
-Schedule I in the [[dmt-containing-plants-united-states-halpern]]; listed under the UN Convention on
-Psychotropic Substances (1971) as Schedule I. Illegal in Belgium, France,
-Switzerland, Sweden. Unregulated or decriminalized in Brazil, New Zealand,
-Canada, Portugal, South Africa.
-
-A global network of unregulated treatment clinics operates primarily in
-Mexico, Costa Rica, Brazil, and the Netherlands, treating an estimated
-1,000–2,000 patients annually for opioid, stimulant, and alcohol dependence.
-
-## Safety and Toxicology
-
-- **Cardiovascular risk:** QT prolongation (QTc >500 ms in some patients),
-  risk of torsades de pointes. Pre-treatment ECG and continuous cardiac
-  monitoring are standard.
-- **Contraindications:** Cardiac arrhythmia, prolonged QT, hepatic
-  impairment, active psychosis, concurrent QT-prolonging medications.
-- **Fatalities:** 19+ deaths reported (1990–2008), primarily cardiac in
-  origin, mostly involving pre-existing conditions or contraindicated
-  concurrent medications.
-- **[[cannabis-therapeutic-index-overview]]:** Narrow margin between therapeutic and toxic doses.
-
-## Related Compounds
-
-- **Noribogaine:** Active metabolite, longer-acting, primary mediator of
-  sustained anti-addictive effects.
-- **18-Methoxycoronaridine (18-MC):** Synthetic analogue developed as
-  safer anti-addictive with reduced cardiotoxicity; in [[mushroom-cancer-clinical-trials-overview]]
-  for opioid use disorder.
-- **Tabernanthine:** Minor iboga alkaloid with stimulant properties.
-- **Ibogamine:** Less potent at NMDA and opioid receptors.
-
-## See Also
-
-- [[psilocybin]]
-- [[serotonin]]

@@ -88,22 +88,3 @@ support feather development and overall poultry health during [[query-how-do-i-m
 
 Skin disease in livestock occurs because of viruses that proliferate when skin
 loses fat and microbe populations decrease. Seawater addresses this by
-replenishing minerals and supporting beneficial skin microflora. Adding
-rice-washed water and FPJ to seawater enhances its effectiveness. Rice-washed
-water acts similarly to yeast in stimulating microbial activity. The remedy is
-more effective when [[knf-imo-four-stage-cultivation]]
-preparation. During the making of IMO number 3, it is necessary to add
-seawater to the mixture, building the microorganisms' ability to process
-minerals. The standard IMO formula includes brown rice vinegar (BRV) at
-1:500, mineral A at 1:1,000, and seawater at 1:30, adjusting the moisture
-content to 65 to 70%.
-
-## Related
-
-- [[knf-fpj-preparation-and-precautions]]
-- [[knf-maltose-preparation]]
-- [[knf-chitosan-preparation]] Concepts
-
-- [[knf-fermented-plant-juice]]
-- [[knf-imo-four-stage-cultivation]]
-- [[cho-seawater-and-fermented-seawater]]

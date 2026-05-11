@@ -14,8 +14,8 @@ Biological transport networks are branched distribution systems that move
 materials — nutrients, gases, signalling molecules, waste — across spatial
 scales within and between organisms. They are found in every kingdom of
 life and share remarkable [[holmgren-permaculture-twelve-design-principles-framework]] despite their diverse
-evolutionary origins. Prominent examples include fungal mycelia, animal
-vasculature, plant xylem and phloem, and slime mould foraging networks.
+[[tryptamine]]. Prominent examples include [[davidson-mathematical-modeling-fungal-mycelia]], animal
+vasculature, plant [[xylem-and-phloem-transport-systems-in-plants]], and slime mould foraging networks.
 
 ## Universal Design Principles
 
@@ -28,7 +28,7 @@ biological work of maintaining the vessel plus the work of pumping fluid
 through it. The same principle has been observed in:
 
 - **Xylem conduits** in vascular plants
-- **Hyphal branching** in fungal networks
+- **[[hyphal-branching-regulation-nutrient-sensing-gadd]]** in [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 - **Tracheal tubes** in insect respiratory systems
 - **Slime mould veins** in *[[physarum-polycephalum]]*
 
@@ -52,7 +52,7 @@ function even when substantial portions are damaged.
 
 ## Fungal Networks as Model Systems
 
-Slime moulds (*Physarum polycephalum*) have become a model organism for
+Slime moulds (*Physarum polycephalum*) have become a [[canary-grass-phototropism-model-organism]] for
 studying biological network optimisation. Despite lacking a nervous system,
 *Physarum* can:
 
@@ -88,50 +88,3 @@ raised to the 3/4 power. This arises from the fractal branching of
 distribution networks that fill space while minimising transport distance.
 
 ### Graph-Theoretic Approaches
-
-Network analysis has revealed that biological transport systems often
-exhibit **small-world** properties (short characteristic path length with
-high clustering), **scale-free** degree distributions (few highly connected
-hubs, many weakly connected nodes), and **modular** community structure
-that isolates damage to local regions.
-
-## Plant Vascular Systems
-
-### Xylem
-
-Xylem is the water-conducting tissue in vascular plants, composed of dead,
-hollow cells (tracheids and vessels) that form continuous columns from roots
-to leaves. Key design features:
-
-- **Pit membranes** between adjacent conduits allow water passage while
-  trapping air bubbles (embolism resistance).
-- **Scalariform, reticulate, and pitted** secondary wall thickening
-  patterns balance mechanical strength against conductance.
-- **Conduit diameter** increases from tips to base following Murray's
-  law, minimising flow resistance per unit investment.
-- **Cavitation** — the formation of vapour bubbles under tension — is
-  a major failure mode, especially during drought.
-
-### Phloem
-
-Phloem transports photosynthates from source (leaves) to sink (roots,
-fruits, growing tips) tissues via the pressure-flow hypothesis (Münch,
-1930): osmotic loading of sugars at sources creates hydrostatic pressure
-driving bulk flow toward sugar-depleted sinks. [[holmgren-transport-speed-and-energy-descent]] ranges from
-0.5–2 m/h, with sieve tube elements connected by porous sieve plates.
-
-## Applications
-
-Understanding biological transport networks has inspired engineering
-solutions:
-
-- **Microfluidic chip design** borrowing from leaf venation patterns.
-- **Urban logistics optimisation** informed by slime mould networks.
-- **Traffic flow algorithms** based on ant foraging trail formation.
-- **Distributed sensor networks** mimicking fungal resource sensing.
-
-## See Also
-
-- growing-gourmet-biological-efficiency-yield
-- [[mycelial-network-structure]]
-- [[fungal-ecology]]

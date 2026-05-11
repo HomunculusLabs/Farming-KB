@@ -88,19 +88,3 @@ but requiring more feed. Embden geese are similarly large, fast-growing,
 and pure white, making them the most common commercial meat breed. African
 geese are distinctive with their dorsal knob and are excellent foragers
 that maintain good weight on pasture alone. Chinese geese are smaller and
-more vocal, making them effective watchdogs, and are among the most
-prolific egg layers, producing 40-100 eggs per season compared to 20-40
-for heavier breeds.
-
-Pilgrim geese are autosexing — males are white and females are gray,
-allowing gender identification at hatch. Sebastopol geese have long,
-curly feathers that give them a distinctive appearance but make them less
-hardy in wet conditions. For homesteads focused on weed control in
-orchards or gardens, lighter breeds like Chinese or African geese are
-preferred because they are active foragers that do not compact soil as
-heavily as the large meat breeds. A typical homestead flock of 2-4 geese
-can effectively maintain a quarter-acre of orchard floor clear of most
-grasses and weeds during the growing season.
-- [[natural-farming]]
-- [[jadam-livestock-integration-and-manure-management]]
-- [[faires-livestock-integration-permaculture]]

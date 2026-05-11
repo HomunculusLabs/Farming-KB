@@ -88,11 +88,3 @@ Smaller pots:
 A compromise is to start in a 1-gallon pot and move directly to the final container, skipping intermediate steps.
 
 ## Related
-
-- [[greg-green-container-and-pot-sizing]]
-
-- [[cannabis-transplanting-guide]] — detailed transplanting techniques
-- [[cannabis-soil-and-nutrients]] — soil for containers
-- [[cannabis-soilless-grow-media]] — alternatives to soil in pots
-- [[temperature-effects-plant-nutrient-uptake]]
-- [[cannabis-screen-of-green-scrog-guide]]

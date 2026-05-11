@@ -48,7 +48,7 @@ homologue, TE. The butyl compound (see TB) was the last of this
 series of phenethylamines and as is noted there, the physical problems
 lessen, but so do the psychedelic properties. The three-carbon
 amphetamine homologues are completely unexplored. The most reasonable
-starting material for these would be 4-thiosyringaldehyde, with
+[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for these would be 4-thiosyringaldehyde, with
 S-alkylation and then the conventional nitroethane coupling followed
 with LAH reduction. The most appealing target as a potential
 psychedelic would be the methylthio homologue
@@ -88,29 +88,6 @@ not exothermic, and it was allowed to stir for 1 h. The reaction
 mixture was washed with H2O containing sodium hydrosulfite (which
 rendered it nearly colorless) and finally washed with saturated brine.
 The solvent was removed under vacuum leaving 33.5 g of a pale yellow
-liquid. This was distilled at 112-120 deg C at 0.3 mm/Hg to yield
-4-bromo-2-(n)-propylthio-1,3-dimethoxybenzene as a pale yellow oil.
-Anal. (C11H15BrO2S) C,H.
-
-To a solution of 16.8 g diisopropylamine in 100 mL anhydrous THF that
-was stirred under a N2 atmosphere and cooled to -10 deg C with an
-external ice/MeOH bath, there was added in sequence 75 mL of 1.6 M
-butyllithium in hexane, 3.0 mL of dry CH3CN, and 8.7 g of
-4-bromo-2-(n)-propylthio-1,3-dimethoxybenzene which had been dissolved
-in 20 mL THF. The bromo compound was added dropwise over the course
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[p-entity]]
-
-- [[eme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[ethyl-j-entity-pihkal]]

@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Energy Conservation
 
-Energy conservation [[mollison-designers-home-energy-conservation-and-solar-heating]] is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
+Energy conservation is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
 
 ## The Conservation Hierarchy
 
@@ -35,7 +35,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- Earthen construction (cob, adobe, rammed earth)
+- [[pdc-earthen-construction-techniques]] (cob, adobe, rammed earth)
 
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 
@@ -134,7 +134,7 @@ Water heating accounts for 15-25% of home energy use:
 - **Solar ovens**: Reach 250-350°F on sunny days, zero fuel
 - **Pressure cookers**: Reduce cooking time and fuel by 60-70%
 - **Haybox cooking**: Bring to boil, insulate, let residual heat finish cooking
-- **Rocket stoves**: Very efficient wood combustion for cooking
+- **[[rocket-stoves-and-efficient-wood-burning-design]]**: Very efficient wood combustion for cooking
 - **Thermal cookware**: Vacuum-insulated pots maintain temperature without fuel
 
 ## Water Conservation
@@ -142,9 +142,8 @@ Water heating accounts for 15-25% of home energy use:
 Saving water saves energy (pumping, heating, treating):
 
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-- Dual-flush toilets or composting toilets
+- Dual-flush toilets or [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 - Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
 - Greywater recycling for irrigation (see [[graywater-systems]])
-- Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])
+- [[comparison-drip-irrigation-vs-rainwater-harvesting]] reduces well pump energy (see [[rainwater-harvesting-systems]])
 - Mulch gardens heavily to reduce irrigation needs
-

@@ -1,5 +1,5 @@
 ---
-title: fukuoka-seasonal-eating-natural-food-calendar: The Japanese Food Calendar and fukuoka-natural-diet-as-foundation
+title: Fukuoka Textdoc Seasonal Eating Japanese Food Calendar
 created: 2026-04-28
 tags:
   - fukuoka
@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 ## Overview
 
 Fukuoka presents a detailed seasonal food calendar as a practical embodiment of the
-natural diet philosophy. Rather than abstract theory, he offers a month-by-month
+[[fukuoka-natural-diet-philosophy]]. Rather than abstract theory, he offers a month-by-month
 journey through the foods traditionally available in Japan, arguing that the farmer's
 and fisherman's diet of eating locally and seasonally is a splendid example of natural
 diet in accordance with the laws of nature. Within a quiet life passed according to
@@ -87,60 +88,10 @@ Autumn is the season for cooking mackerel pike at home. With the first frost,
 grilled chicken stalls appear. Heavy catches of yang fish such as yellowtail and tuna
 are made, and the exquisite flavor of yang fish during a yin season is described as
 part of nature's grand design. Daikon and leafy vegetables from the garden complement
-these fish. People transform yin fish into yang food by salting or grilling.
-
-Nothing surpasses homemade miso and tofu cooking, or fish cooked on river rocks at
-the fireside with crude natural salt prepared by burning [[jadam-sea-salt-and-mineral-solutions]] with brush and
-seaweed. The osechi-ryori New Year dishes demonstrate culinary wisdom: pairing
-salted salmon and herring roe with kelp and black soybeans, adding sea bream and
-lobster, goes beyond tradition to a perfect pairing of man and nature.
-
-During winter's harsh cold, mallard, jackrabbit, and other wild game served with
-Welsh onions, leek, and wild rocambole warm the body. The fragrant finishing touch of
-pickled vegetables gathered in fall completes the winter meal. In late winter, the
-edible butterbur flower peeks through snow, and beneath it the creeping saxifrage
-leaves are ready to eat.
-
-## The Practical Message
-
-Fukuoka's seasonal calendar is not mere nostalgia. He uses it to demonstrate that a
-complete natural diet arises of itself without needing to know anything or ponder the
-principle of yin and yang. As long as man accepts and lives in accordance with divine
-dispensation, the foods consumed will vary appropriately with time, circumstances,
-and the degree of health or malady. The farmer's diet and the fisherman's diet of
-sardines with potatoes and barley are the common diets of village people who know
-what is delicious without neglecting the subtle and curious flavors of nature.
-
-## The Monthly Vegetable and Fish Calendar
-
-Fukuoka provides detailed month-by-month listings of available vegetables and fish.
-In early spring, the green herbs of group C include wild rocambole, leek, mugwort,
-spring daikon, scallion, and the seven herbs. Group D adds shiitake, bamboo shoots,
-bracken, and thistle. By early summer, group G includes cucumber, eggplant, okra,
-and squash. Autumn brings group J with mushrooms, matsutake, lily bulb, sweet
-potato, and burdock, while group K adds ginkgo nut, celery, chrysanthemum, and
-sea vegetables like wakame and hijiki.
-
-The fish calendar follows a parallel rhythm. Spring brings edible fowl, oysters,
-sea urchin, sea cucumber, gray mullet, and carp. Summer yields freshwater shrimp,
-sweet fish, sea bass, and flounder. Autumn features crab, squid, tiger shrimp,
-mackerel pike, tuna, and yellowtail. Winter closes with freshwater clams, sea
-urchin, puffer, salmon, and wild boar.
-
-## Beyond Yin and Yang
-
-Fukuoka cautions that even these seasonal principles, while essential medically or
-in treating disease, can lead one back into the realm of science and discriminating
-knowledge if too much attention is paid to whether something is yin or yang, acidic
-or alkaline, or which minerals and vitamins it contains. The food mandalas he drew
-are intended as a compass by which to set one's course according to circumstances
-and the degree of sickness or health, either for a centrifugal diet or a centripetal
-diet. But once these have been examined, they may be discarded.
 
 ## See Also
-
 - [[fukuoka-seasonal-eating-natural-food-calendar]]
-
-- [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-textdoc-four-group-nutrition-scoring-critique]]
+- [[fukuoka-textdoc-color-philosophy-food-seven-prismatic-seasonal-natural-diet]]
+- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
+- [[fukuoka-textdoc-matter-spirit-unity-food]]
+- [[fukuoka-textdoc-natural-order-food-chain-unity]]

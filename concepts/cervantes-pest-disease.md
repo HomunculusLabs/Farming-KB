@@ -1,16 +1,17 @@
 ---
-title: "query-how-to-use-neem-oil-for-cannabis-pest-control and solomon-disease-identification-and-organic-remedies"
+title: Cervantes Pest Disease
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Pest and Disease Identification
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — Jorge Cervantes
+**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible — [[jorge-cervantes]]
 
 ## General Prevention
 
@@ -19,7 +20,7 @@ Prevention is the best medicine for pest and disease problems in the garden. Goo
 - Maintain proper temperature (72-76°F / 22-24°C)
 - Maintain proper humidity (45-55% ideal)
 - Ensure adequate [[stamets-growing-room-air-circulation-co2-management]] and ventilation
-- Keep grow room and tools clean
+- Keep [[cannabis-grow-room-setup]] and tools clean
 - Use sterile tools between plants
 - Inspect plants regularly
 - Quarantine new plants before introducing them
@@ -86,13 +87,3 @@ Air circulation helps prevent harmful pest and fungus attacks. Omnipresent mold 
 After pruning, open wounds invite diseases and pests. Wash hands and tools before and after pruning. Make cuts at a 45-degree angle to discourage moisture from sitting on wounds. Pruned plants can seal themselves, but problems can still arise when there is an appealing opening for pests.
 
 ## Hydrated Lime as Fungicide
-
-Hydrated lime is used as a grow room fungicide. Sprinkle it on the floor and around the room — it kills fungus on contact.
-
-## [[cervantes-indoor-grow-room-setup]] — Ventilation and environmental control
-- [[cervantes-cloning]] — Clone sanitation practices
-- [[cervantes-companion-planting-pest-deterrent]]
-
-## See Also
-
-- [[cervantes-pest-disease-prevention-overview]]

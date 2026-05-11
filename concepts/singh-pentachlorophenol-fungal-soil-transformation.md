@@ -87,32 +87,3 @@ chlorophenol-contaminated soils. Nearly 80% of chlorophenols were
 eliminated after 2 months. When highly contaminated soils (683-1108
 mg/kg) were added to the composting windrows, more than 90% of
 chlorophenols were eliminated after 3 months.
-
-## Versatile Peroxidase in PCP Oxidation
-
-Bjerkandera adusta versatile peroxidase (VP) oxidizes PCP
-(Davila-Vazquez et al., 2005). VP from Pleurotus eryngii degrades
-65% of 50 uM 2,4-DCP within 1 hour in the presence of Mn(II)
-(Rodriguez et al., 2004), and 100% degradation occurs after 2 hours
-without Mn(II). VP oxidizes a wide range of phenols either directly
-similar to horseradish peroxidase or indirectly through Mn(II) to
-Mn(III) oxidation similar to MnP.
-
-## Upflow Column Bioreactor Treatment
-
-A bench-scale upflow tubular column reactor removed 77% PCP from
-adsorbable organic halogen (AOX) using Penicillium camemberti
-(Taseli and Gokcay, 2005). The reactor consisted of a feed tank, feed
-pump, inlet, outlet, and four sampling outlets. Constant hydraulic
-loading rate of 2.12 L/L per day was maintained without aeration and
-with minimum carbon supplement, demonstrating the practical feasibility
-of continuous PCP treatment.
-
-## See Also
-
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- fungal-biosorption-desorption-regeneration
-- [[singh-chlorpyrifos-organophosphate-fungal-degradation]]
-- [[composting-systems]]
-- [[pleurotus-eryngii]]
-- [[pleurotus-ostreatus]]

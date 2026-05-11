@@ -1,8 +1,8 @@
 ---
-title: tompkins mimosa pudica sensitive plant experiments and Sensitive Plant Experiments
+title: Tompkins Mimosa Pudica Sensitive Plant Experiments
 created: 2026-04-28
 tags:
-  - plant-perception
+  - [[plant-perception]]
   - mimosa-pudica
   - thigmomorphogenesis
   - plant-electrophysiology
@@ -18,12 +18,12 @@ type: concept
 
 ## Overview
 
-The *Secret Life of Plants* documents numerous experiments involving
+The *[[plant-communication-volatile-organic-compounds]] Plants* documents numerous experiments involving
 **Mimosa pudica**, the "sensitive plant" or "touch-me-not," as a key
 subject for investigating plant sensitivity, electrical signalling, and
 perception. Mimosa pudica's dramatic visible response to touch, its
 leaflets collapsing when disturbed, made it an ideal candidate for
-early plant electrophysiology research and later for investigations into
+early [[plant-electrophysiology]] research and later for investigations into
 the [[cleve-backster-plant-perception-experiments]]
 later expanded these investigations into the realm of consciousness and
 perception.
@@ -88,50 +88,3 @@ With this instrument, Bose demonstrated that:
 
 Bose invented a **morograph**, or death recorder, to determine the exact
 critical temperature at which plant death occurred. While many plants
-died at 60 degrees Celsius, individual plants showed variations
-depending on their previous histories and ages. At death, the plant
-threw off a huge electrical force. Bose calculated that five hundred
-green peas could develop five hundred volts.
-
-## Hashimoto's Talking Cactus Experiments
-
-Dr. Ken Hashimoto of Japan extended plant communication research using
-a modified lie detection system. He wired a cactus to a polygraph using
-acupuncture needles, hoping to enter into actual conversation with the
-plant. By reversing his voice-analysis system, he transformed plant
-electrical tracings into modulated sounds.
-
-Mrs. Hashimoto, who had a renowned "green thumb," achieved the first
-breakthrough. As she assured the plant of her love, the cactus produced
-sounds described as like the high-pitched hum of very-high-voltage wires,
-except more like a song with varied rhythm and tone. The Hashimotos
-became so intimate with their plant that they reportedly taught it to
-count and add up to twenty.
-
-## Solar Time Perception
-
-The book recounts experiments by Ott in which mimosa plants in a pitch-
-dark closet continued to respond to the disappearance of the sun at the
-normal time, suggesting an ability to perceive solar position or time
-without direct light cues. Ott took six mimosa plants down a mine shaft
-to a point 650 feet underground, where they continued their diurnal
-leaf movements.
-
-## Implications for Plant Intelligence
-
-The Mimosa pudica experiments collectively challenge the assumption that
-plants are passive organisms without perception or communication
-capability. The combination of visible mechanical responses, measurable
-electrical signals, and apparent sensitivity to human presence and intent
-suggests a level of awareness that conventional botany has been reluctant
-to acknowledge.
-
-## Related Concepts
-
-- [[plant-perception]]
-- [[tompkins-plant-electrical-signals]]
-- [[tompkins-plant-chemical-communication]]
-
-## See Also
-
-- [[mimosa-pudica]]

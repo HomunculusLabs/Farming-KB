@@ -88,35 +88,3 @@ Understanding these dynamics is important for predicting how ecosystems will res
 ## Environmental Change and Mycorrhizal Function
 
 ### Elevated CO₂
-
-Rising atmospheric CO₂ concentrations generally increase plant photosynthesis and the amount of carbon allocated belowground. This could increase carbon flow to mycorrhizal fungi, potentially enhancing soil carbon sequestration. However, the response varies by mycorrhizal type, plant species, and nutrient availability.
-
-### Nitrogen Deposition
-
-Anthropogenic nitrogen deposition can reduce [[arbuscular-mycorrhizal-colonization-patterns]] and function, as plants invest less carbon in mycorrhizal associations when nitrogen is readily available. This may reduce the role of mycorrhizal fungi in soil carbon sequestration in polluted environments.
-
-### Climate Warming
-
-Warming can accelerate both plant growth and decomposition, with complex effects on mycorrhizal carbon dynamics. In some systems, warming increases mycorrhizal carbon allocation; in others, it reduces it. The net effect on soil carbon storage depends on the balance between increased carbon inputs and accelerated decomposition.
-
-## Research Frontiers
-
-Current research in mycorrhizal carbon cycling is focused on:
-
-- **Molecular mechanisms** of carbon transfer at the mycorrhizal interface, including the lipid-based carbon transport pathway unique to AMF
-- **Isotopic tracing** of carbon flow through mycorrhizal networks at ecosystem scales using ¹³C and ¹⁴C labeling techniques
-- **Common mycorrhizal networks** and their role in interplant carbon transfer, a controversial but potentially important mechanism for plant community dynamics
-- **Modeling** mycorrhizal contributions to global carbon cycle predictions, incorporating newly discovered carbon fluxes
-- **Management implications** for forestry, agriculture, and carbon offset programs, including whether mycorrhizal management can enhance carbon sequestration
-
-### Measurement Challenges
-
-Quantifying mycorrhizal carbon fluxes in the field remains technically challenging. Mycelial networks are difficult to observe directly, and separating mycorrhizal respiration from total soil respiration requires sophisticated experimental approaches. Recent advances in in-growth cores, mesh exclusion bags, and molecular techniques such as qPCR and DNA metabarcoding are improving our ability to quantify mycorrhizal contributions to carbon cycling in natural ecosystems.
-
-## See Also
-
-- [[fungal-decomposition-and-biogeochemical-cycles]]
-- [[saprotrophic-fungal-ecology]]
-- [[arbuscular-mycorrhizal-symbiosis]]
-- [[geoffrey-gadd]]
-- [[soil-foodweb-biology]]

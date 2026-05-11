@@ -83,7 +83,7 @@ Humic acid provides the greatest benefit in specific situations:
 
 - Humic acid is a natural chelator that keeps micronutrients available for plant uptake
 - It improves soil structure by promoting [[soil-aggregate-formation-fungal-contributions]] in both clay and sandy soils
-- [[soil-food-web]] activity and pairs well with biochar and compost tea
+- [[soil-foodweb]] activity and pairs well with biochar and compost tea
 
 ## Related Questions
 

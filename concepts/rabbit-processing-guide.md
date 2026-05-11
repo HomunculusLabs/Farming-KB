@@ -3,13 +3,13 @@ title: Rabbit Processing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, livestock, processing, food, homesteading, safety, workflow]
+tags: [animal-husbandry, livestock, processing, food, [[homesteading]], safety, workflow]
 sources: []
 ---
 
 # Rabbit Processing Guide
 
-On-farm rabbit processing provides a direct source of lean, high-quality meat and is one of the most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, and the processing itself requires minimal equipment compared to larger livestock. (see [[homestead-dairy-equipment]]).
+On-farm rabbit processing provides a direct source of lean, high-quality meat and is one of the most approachable livestock processing tasks for homesteaders. Rabbits are productive (a single doe can produce 60+ lb of meat per year), have a small physical footprint, and the processing itself requires minimal equipment compared to larger livestock.
 
 ## Preparation
 
@@ -18,18 +18,18 @@ On-farm rabbit processing provides a direct source of lean, high-quality meat an
 - Process rabbits at 10-14 weeks of age (4-5 lb live weight, 2-2.5 lb dressed)
 - Younger rabbits (fryers) have more tender meat and higher dressing percentage
 - Do not process breeding stock older than 6 months without expectation of tougher meat (stewers)
-- Fast rabbits for 12 hours before processing — provide water but no food. This empties the digestive tract for easier gutting. (see [[comparison-fermented-vegetables-vs-canning]]).
+- Fast rabbits for 12 hours before processing — provide water but no food. This empties the digestive tract for easier gutting.
 
 ### Equipment
 
--  **Killing cone** — A metal or plastic cone that restrains the rabbit inverted. Commercial cones cost $15-30, or make from a large funnel cut at the bottom. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+-  **Killing cone** — A metal or plastic cone that restrains the rabbit inverted. Commercial cones cost $15-30, or make from a large funnel cut at the bottom.
 -  **Sharp knife** — A 4-6 inch boning or fillet knife, freshly sharpened. A second smaller knife (paring) is useful for detail work.
 -  **Gambrel and spreader** — A metal hook or wooden spreader bar to hang the carcass during skinning and gutting.
 -  **Heavy-duty shears or loppers** — For removing feet and head.
 -  **Bucket** — For offal and blood.
 -  **Hose with spray nozzle** — For rinsing the carcass.
 -  **Cooler with ice** — For rapid chilling of processed carcasses.
--  **Cutting board** — Dedicated to meat processing, sanitized before and after use.
+-  **Cutting board** — Dedicated to [[faires-meat-processing-curing-and-smoking]], sanitized before and after use.
 -  **Plastic wrap or vacuum bags** — For packaging.
 
 ### Sanitation
@@ -139,7 +139,7 @@ Rabbit meat is exceptionally lean and nutritious:
 
 ## Regulations
 
-In the United States, the USDA exempts rabbit processing from federal inspection if:
+In the [[dmt-containing-plants-united-states-halpern]], the USDA exempts rabbit processing from federal inspection if:
 - The producer raises and processes the rabbits on their own farm
 - Sales are direct to the end consumer (no retail, restaurant, or wholesale)
 - The producer does not process rabbits from other farms
@@ -147,4 +147,3 @@ In the United States, the USDA exempts rabbit processing from federal inspection
 Some states have additional requirements. Check local regulations before selling processed rabbit meat. For a more permanent processing setup, see [[home-butcher-shop-setup]].
 
 ## Waste Utilization
-

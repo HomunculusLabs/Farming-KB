@@ -1,7 +1,7 @@
 ---
 title: Cold Shock Fruiting Trigger and Species-Specific Response Variability
 source: guid-mhtml_file___e___textos__mycology__exotic_.md
-topics: [cold shock, fruiting trigger, species specificity, pinning, [[boil-a-bag-mushroom-cultivation-technique]]]
+topics: [cold shock, fruiting trigger, species specificity, pinning, [[boil-a-bag-mushroom-cultivation-technique]]
 ---
 
 # Cold Shock Fruiting Trigger and Species-Specific Response Variability
@@ -87,61 +87,3 @@ shock likely reflects:
 
 For strains that benefit from cold shock, the guide specifies "one night" in the
 refrigerator. Practical guidelines for cold shocking:
-
-| Parameter | Recommended Range | Notes |
-|-----------|------------------|-------|
-| Duration | 12–24 hours | Longer is not necessarily better |
-| Temperature | 2–8°C (refrigerator) | Standard refrigerator temperature |
-| Timing | After full casing colonization | Mycelium must be visible through casing |
-| Pre-conditioning | 3–5 days at 20–25°C | Allows casing colonization before shock |
-
-Excessive cold shock (>48 hours) can damage tropical species and reduce yield.
-The goal is a brief metabolic disruption, not freezing or prolonged cold exposure.
-
-## Integration with Other Fruiting Triggers
-
-Cold shock should be understood as one component of a multi-factor fruiting
-initiation protocol:
-
-1. **Full substrate colonization**: Prerequisite for all species
-2. **Casing colonization**: Mycelium must reach the casing surface (3–7 days)
-3. **Cold shock** (species-dependent): Optional temperature drop
-4. **Light exposure**: Blue spectrum light (440–470 nm) at 12 hours on/off
-5. **Fresh air exchange (FAE)**: Reduced CO₂ to below 1,000 ppm
-6. **High humidity**: 85–95% relative humidity for pin formation
-7. **Temperature**: 20–25°C for subtropical species, 16–20°C for temperate
-
-Removing cold shock from the protocol means the remaining triggers must be
-adequate to initiate fruiting. For easy strains and tropical species, light,
-FAE, and humidity are typically sufficient.
-
-## Risks of Inappropriate Cold Shock
-
-Applying cold shock to species that do not benefit from it carries risks:
-
-- **Delayed fruiting**: The mycelium must recover from the cold stress before
-  initiating fruiting, adding days to the cultivation timeline
-- **Reduced yield**: Cold-stressed mycelium may produce fewer or smaller fruiting
-  bodies
-- **Contamination opportunity**: The cold shock period adds handling steps and
-  environmental transitions that increase contamination risk
-- **Mycelial damage**: Tropical species may suffer cellular damage at low
-  temperatures, particularly if condensation forms on the mycelium surface
-
-## Practical Decision Framework
-
-For cultivators deciding whether to cold shock:
-
-- **Easy strains (Ecuador, [[golden-teacher-cannabis]], B+)**: Skip cold shock; fruit directly
-- **Hard strains (rare or wild-type collections)**: Try cold shock for first
-  flush; if no benefit, skip for subsequent flushes
-- **Tropical species (*P. mexicana*, *P. tampanensis*)**: Do not cold shock
-- **Temperate *Psilocybe* species**: Cold shock recommended
-- **Panaeolus species**: Generally not required; focus on FAE and moisture
-
-## See Also
-
-- [[species-specific-fruiting-timelines-grass-seed-cultivation]] — Fruiting timelines
-- species specific flush patterns psilocybe panaeolus — Flush patterns
-- [[disposable-tray-casing-method-grass-seed-substrate]] — Casing method
-- [[casing-soil-sterilization-versus-pasteurization-debate]] — Casing preparation

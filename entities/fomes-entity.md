@@ -88,21 +88,3 @@ through autumn.
 
 Annual growth zones can sometimes be observed on the upper surface of the
 bracket as concentric ridges, allowing rough estimation of the age of the
-fruiting body. Very old specimens of *F. fomentarius* can persist for a
-decade or more, continuing to produce spores each growing season.
-
-## Nutritional and Medicinal Chemistry
-
-Modern chemical analysis of *F. fomentarius* has identified numerous
-bioactive compounds. These include triterpenoids (such as fomentariol),
-polysaccharides with immunomodulatory properties, and various sterols. Some
-of these compounds have shown promising activity against cancer cell lines
-in vitro, antimicrobial activity against pathogenic bacteria, and
-anti-inflammatory effects in animal models. However, clinical trials in
-humans are limited and more research is needed to confirm therapeutic
-potential.
-
-## See Also
-- [[fungal-diversity-leaf-litter-coarse-woody-debris]]
-- [[fungal-spore-biology]]
-- [[gourmet-mushroom-species-guide]]

@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM coleman-deep-organic-farming-philosophy: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM coleman-deep-organic-farming-philosophy: The Way to Ultra-Low-Cost Agriculture ([[youngsang-cho]], 2016)
 type: concept
 tags: [jadam, water]
 ---
@@ -12,7 +12,7 @@ tags: [jadam, water]
 # JADAM Water-Soluble Calcium Preparation
 
 Calcium is a critical secondary macronutrient in plant nutrition,
-essential for cell wall structure, membrane integrity, root development,
+essential for [[chitin-chitosan-fungal-cell-wall]] structure, membrane integrity, root development,
 and disease resistance. JADAM provides methods for producing
 water-soluble calcium from common waste materials, eliminating the need
 to purchase commercial calcium supplements.
@@ -21,7 +21,7 @@ to purchase commercial calcium supplements.
 
 [[knf-calcium-deficiency-symptoms]] manifests in multiple crop problems. In rice, calcium
 shortage contributes to lodging (falling over), disease susceptibility,
-and poor grain quality. In uncommon specialty fruit crops for permaculture, calcium deficiency causes bitter
+and poor grain quality. In [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture, [[query-how-do-i-fix-calcium-deficiency-in-plants]] causes bitter
 pit, blossom end rot, and cracking. Adequate calcium strengthens cell
 walls, making plants more resistant to fungal penetration and physical
 damage.
@@ -34,7 +34,7 @@ at essentially zero cost.
 
 ## Eggshell Calcium
 
-The primary JADAM calcium source is chicken eggshells, which are
+The primary [[jadam-calcium-fertilizer]] source is chicken eggshells, which are
 composed of approximately 94% calcium carbonate. Eggshells are
 ubiquitous waste products available from households, restaurants, and
 food processing facilities at no cost.
@@ -84,26 +84,7 @@ follows a similar pattern to eggshell preparation:
 1. **Cleaning**: Remove organic residue by scrubbing and rinsing
 2. **Drying**: Sun-dry completely
 3. **Crushing**: Break shells into small pieces, then grind to powder
-4. **Roasting** (optional): Heat treatment improves solubility
+4. **Roasting** (optional): [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]] improves solubility
 
 Oyster shells are harder than eggshells and require more energy to
 grind. Industrial crushing equipment or extended mortar-and-pestle work
-may be needed. However, the larger available quantities make oyster
-shells practical for farms near coastal areas.
-
-## Calcium Phosphate from Bone Meal
-
-[[jadam-natural-mineral-water]] is a broader mineral
-supplement approach that includes calcium along with other micronutrients.
-JMW is made by boiling mineral-rich rocks or sea materials in water to
-extract trace minerals into plant-available form.
-
-A related approach uses [[jadam-natural-pest-control-methods]]. Adding water-soluble calcium to the pesticide
-spray barrel provides simultaneous [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and calcium
-supplementation. This reduces the number of spray applications needed,
-saving labor and time.
-
-Calcium compounds also enhance the physical properties of pesticide
-sprays. Calcium ions can improve the sticking power of sprays on leaf
-surfaces, complementing the wetting action of [[jadam-calcium-fertilizer]]
-- [[jadam-mineral-water-jmw]]

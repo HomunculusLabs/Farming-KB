@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,13 +87,3 @@ There are an infinite number of such courses with infinite variations in factors
 ## The Inherent Instability of Science
 
 As the scientist makes additions and repairs and the building grows higher, it becomes increasingly unstable and imperfect. Man's observations, experiences, and ideas are all derived from nature, so he can never build a house extending beyond nature's bounds. Yet heedless of this, he breaks away from the natural arrangement of [[duggar-mushroom-environmental-factors-temperature-moisture-light]] and builds an addition — artificially cultivated crops — projecting out from the cliff on which nature stands.
-
-This artificial, chemically produced food presents a dreadful danger to man. More than wasted effort, it is the root of a calamity that threatens the very foundations of human existence.
-
-## Related Concepts
-
-- High Yield Theory and Photosynthesis Critique
-- [[fukuoka-textdoc-increased-production-not-increased-yields]]
-- [[fukuoka-critique-of-scientific-agriculture]]
-## See Also
-- [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]

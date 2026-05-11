@@ -42,7 +42,7 @@ deficiencies, and cerebrovascular disorders.
 ## Cannabis Health Index Assessment
 
 - Total Number of Studies Reviewed: 5
-- CHI Value: 10
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 10
 
 ## Key Research Findings
 
@@ -58,7 +58,7 @@ deficiencies, and cerebrovascular disorders.
 - A 2011 Madrid study found Sativex (THC/CBD) protected animals from HD
   progression, providing pre-clinical evidence for its use as a neuroprotective
   agent capable of delaying disease progression (CHI 1)
-- A 2011 meta-analysis from Madrid confirmed the endocannabinoid system
+- A 2011 meta-analysis from Madrid confirmed the [[endocannabinoid-system]]
   behaves as an endogenous neuroprotective system in both Parkinson's and
   Huntington's diseases. Activation of CB2 receptors leads to slower
   neurodegeneration, and cannabinoids with antioxidant properties or CB2
@@ -88,14 +88,8 @@ lower THC:CBD ratios, favoring CB2 activation compared to sativas.
 HD forces focus on living in the present moment. The archetype of youth
 rebelling against predetermined destiny comes to mind. HD engages the
 intensity of choice: gratitude for what exists now, or blame and hopelessness.
-Another dimension involves family burden and shared destiny, as consciousness
-retreats and is replaced by unconscious dance-like movement. Some patients
-find meaning in consciously embracing the emerging energy.
 
-## Related
+## See Also
 
-- [[cannabis-huntingtons-disease-research]] Topics
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-parkinsons-disease]]
-- [[blesching-cannabis-alzheimers-dementia]]
+- [[blesching-mind-body-medicine-psychosomatic-foundations]]
+- [[blesching-mind-body-molecules-emotions]]

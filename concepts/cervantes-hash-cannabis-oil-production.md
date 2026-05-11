@@ -1,21 +1,22 @@
 ---
-title: "Hash and cervantes hash cannabis oil production Production"
+title: Cervantes Hash Cannabis Oil Production
 created: 2026-04-28
 tags: [hash-oil, cannabis-oil, extraction, butane, honey-oil]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Hash and Cannabis Oil Production
 
-Hash oil and cannabis oil are concentrated forms of cannabis resin
+Hash oil and cannabis oil are concentrated forms of [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]]
 that extract tetrahydrocannabinol (THC) and other cannabinoids
-from plant material using solvents. Jorge Cervantes covers these
+from plant material using solvents. [[jorge-cervantes]] covers these
 concentrates in Chapter Fifteen of the Marijuana Horticulture guide,
-providing both historical context and practical production methods.
+providing both [[ghouled-field-guide-historical-context]] and practical [[hashish-production-methods]].
 These products represent some of the most potent forms of cannabis
 available, but they carry significant safety concerns related to
 both production methods and residual solvents.
@@ -26,7 +27,7 @@ Hash oil is a concentrate made by dissolving hashish or marijuana
 in hydrocarbon solvents such as ether or alcohol to extract THC and
 other cannabinoids. The resulting oils can be extremely concentrated
 and potent, often containing 60 to 90 percent THC depending on
-starting material and extraction efficiency. However, hash and
+[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and extraction efficiency. However, hash and
 cannabis oils frequently retain residues from the solvents used in
 extraction, which represent a health risk to consumers.
 
@@ -87,42 +88,3 @@ available.
 
 Jelly hash is a combination product made from high-quality hashish
 and cannabis oil, typically extracted via butane. The standard
-recipe calls for eight parts hash to one part cannabis oil. The
-resulting product is extremely potent, with a characteristic
-sticky, oily consistency that makes it difficult to handle. Jelly
-hash represents one of the most concentrated forms of cannabis
-available, combining the cannabinoid density of hash oil with the
-terpene complexity of water-extracted hash.
-
-## Oil in Cooking
-
-Cannabis oil can be used in recipes as a cooking ingredient,
-similar to cannabutter. Well-made cannabis oil is extremely potent,
-and dosing must be carefully controlled. The oil can be incorporated
-into any recipe that calls for oil or butter, providing an
-alternative to smoking for medical patients who prefer edible
-consumption methods. As with all [[oner-cannabis-edibles-infusion-dosing]], onset is delayed
-compared to inhalation, and effects tend to be stronger and longer
-lasting.
-
-## Safety and Quality Considerations
-
-The primary safety concern with all solvent-based extraction is
-residual solvent contamination. Solvents like butane, ether, and
-naphtha are toxic to humans, and incomplete evaporation leaves
-these chemicals in the final product. Proper purging through
-vacuum extraction or extended low-heat evaporation is essential
-for producing safe oils.
-
-For growers and consumers who wish to avoid solvent residues
-entirely, mechanical separation methods including dry sifting,
-water extraction, and rosin pressing provide solvent-free
-alternatives. These methods produce lower yields but eliminate the
-risk of chemical contamination entirely.
-
-## See Also
-
-- [[cervantes-volatile-solvent-extraction]]
-- [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-cannabis-butter-cooking]]
-- [[cervantes-cannabinoids-thc-cbd-chemistry]]

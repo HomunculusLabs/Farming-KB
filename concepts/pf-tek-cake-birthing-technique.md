@@ -30,7 +30,7 @@ Birthing before primordia appear is possible but may delay the onset of fruiting
 
 The PF TEK requires jars with tapered sides and no shoulders. This design is specifically intended to facilitate cake removal. Suitable containers include:
 
-- Kerr wide mouth half pint [[pf-tek-canning-jar-lid-configuration]] (most versatile)
+- Kerr wide mouth [[pf-tek-jar-size-importance-half-pint-reliability]] [[pf-tek-canning-jar-lid-configuration]] (most versatile)
 - Ball regular mouth half pint canning jar
 - Ball half pint jelly jar
 - 1/2 pint (250 ml) capacity drinking glasses with tapered sides
@@ -41,7 +41,7 @@ Jars larger than 1/2 pint are unreliable for the PF TEK and fail easily. The tap
 
 ### Step 1: Remove the Lid
 
-Remove the screw band and lift off the flat lid disc. The dry vermiculite contaminant barrier will be visible at the top of the jar, possibly with wispy mycelium growing through it.
+Remove the screw band and lift off the flat lid disc. The [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier will be visible at the top of the jar, possibly with wispy mycelium growing through it.
 
 ### Step 2: Scrape the Vermiculite Barrier
 
@@ -49,7 +49,7 @@ Using a clean fork, scrape away the majority of the dry top vermiculite layer. S
 
 ### Step 3: Prepare the Ejection Surface
 
-Place an old jar lid (a used flat disc without the rubber sealing edge, or any flat clean surface) over the mouth of the jar. This lid will serve as the base or platform for the birthed cake.
+Place an old [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (a used flat disc without the rubber sealing edge, or any flat clean surface) over the mouth of the jar. This lid will serve as the base or platform for the birthed cake.
 
 ### Step 4: Invert and Strike
 
@@ -61,7 +61,7 @@ As soon as the fungus cake emerges from the jar, inspect it for water droplets t
 
 ### Step 6: Transfer to Terrarium
 
-Immediately after birthing and daubing, place the cake into the dual chambered terrarium for the fruiting cycle. Minimize the time between birthing and terrarium placement to reduce contamination exposure.
+Immediately after birthing and daubing, place the cake into the [[dual-chambered-terrarium]] for the fruiting cycle. Minimize the time between birthing and terrarium placement to reduce contamination exposure.
 
 ## Handling Precautions
 
@@ -88,40 +88,3 @@ After the cake is placed in the terrarium, several types of growth forms may app
 ### Aborts
 
 Some of the first mushrooms to form are abhorts, characterized by convoluted caps, gnarly stems, and stunted growth. These are primo in magic alkaloids despite their unusual appearance. The tiny baby mushroom abhorts are likewise highly potent. Aborts should be picked before their heads turn black, using a pointed knife blade for clean removal.
-
-### Mutants
-
-Blob like growths of fungus with little or no cap may also appear alongside abhorts. These mutant forms are also good for harvesting and contain psychoactive compounds.
-
-### Normal Sporocarps
-
-Alongside the abhorts and mutants, perfect specimens with normal [[pf-tek-mushroom-morphology-and-lifecycle-stages]] will develop. These are the most visually impressive but are lower in potency per unit weight compared to the smaller immature forms.
-
-## The Cake as a Base
-
-The old jar lid used during birthing serves as the cake's base platform throughout the fruiting cycle. This provides:
-
-- A clean, stable surface for the cake
-- Easy handling when repositioning the cake in the terrarium
-- Minimal contact area with the terrarium surface, reducing contamination risk
-- A convenient way to lift and move the cake without touching it directly
-
-## Troubleshooting
-
-### Cake Sticking in the Jar
-
-If the cake does not slide out easily during the striking step, the jar may have shoulders or insufficient taper. Do not use excessive force, as this will damage the cake. Gently tap around the jar circumference and try again. In extreme cases, a clean butter knife can be carefully run around the inside edge to break the seal, though this risks damaging the cake surface.
-
-### Cake Cracking
-
-If the cake cracks during birthing, the pieces can still fruit successfully in the terrarium. Minor cracks will heal as the mycelium continues to grow. Major fragmentation reduces yield but rarely causes total failure.
-
-### Waterlogged Cake
-
-If the cake feels excessively wet or soggy after birthing, it may have been over hydrated during [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. Place it in the terrarium as normal but monitor closely for bacterial signs. The loose lid configuration during incubation helps prevent this issue.
-
-## See Also
-
-- [[pf-tek-mushroom-growth-timeline]] for understanding when to birth
-- [[pf-tek-fruiting-chamber]] for the terrarium where cakes are placed
-- [[pf-tek-dry-vermiculite-contaminant-barrier]] for the barrier that is scraped away

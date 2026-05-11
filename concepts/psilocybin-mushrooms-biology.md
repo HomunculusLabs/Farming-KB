@@ -87,15 +87,3 @@ affinity for 5-HT1A, 5-HT2C, and 5-HT2B receptors. Onset occurs
 within 20-60 minutes, peaks at 2-3 hours, and subsides over 4-6 hours.
 
 ## Cultivation
-
-*Psilocybe cubensis* is the most commonly cultivated species. Methods
-involve preparing sterilized grain substrate, inoculating with spores or
-culture, and inducing fruiting under appropriate conditions. See
-[[spawn-production]] for spawn preparation and
-[[spawn-grain-to-grain-transfer]] for expansion techniques.
-
-## See Also
-
-- [[entheogenic-fungi-history]]
-- [[psilocybin-therapy]]
-- [[psychedelic-fungi-taxonomy]]

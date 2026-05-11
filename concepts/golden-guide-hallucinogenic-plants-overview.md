@@ -88,36 +88,3 @@ The guide concludes with a section on psychopharmacology, noting:
 Richard Evans Schultes (1915-2001) was the foremost ethnobotanist of the 20th century, spending over a decade in the Amazon studying indigenous plant use. The Golden Guide represents his effort to make this knowledge accessible to a general audience while maintaining scientific rigor. The bibliography reflects Schultes's encyclopedic knowledge, citing works from 1911 through 1973, including Louis Lewin's "Phantastica," Wasson's "Soma: Divine Mushroom of Immortality," Harner's "Hallucinogens and Shamanism," and Schultes's own "The Botany and Chemistry of Hallucinogens" with Albert Hofmann.
 
 ## Plant Families Rich in Hallucinogens
-
-The guide identifies several botanical families as particularly rich in hallucinogenic species:
-
-- **Solanaceae** (nightshade family): Datura, Brugmansia, Brunfelsia, Latua, Atropa, Hyoscyamus, Mandragora -- containing tropane alkaloids
-- **Cactaceae** (cactus family): Lophophora, Trichocereus, Ariocarpus -- containing mescaline and related isoquinoline alkaloids
-- **Myristicaceae** (nutmeg family): Virola -- containing DMT and 5-MeO-DMT
-- **Leguminosae** (bean family): Anadenanthera, Mimosa, Erythrina -- containing DMT, 5-MeO-DMT, and bufotenine
-- **Malpighiaceae**: Banisteriopsis -- containing beta-carboline alkaloids
-- **Rubiaceae** (coffee family): Psychotria -- containing DMT
-- **Convolvulaceae** (morning glory family): Rivea, Ipomoea, Argyreia -- containing ergoline alkaloids related to LSD
-- **Agaricaceae / Strophariaceae** (fungi): Psilocybe, Conocybe, Panaeolus, Amanita -- containing psilocybin/psilocin or ibotenic acid/muscimol
-- **Apocynaceae**: Tabernanthe (iboga) -- containing ibogaine
-
-Schultes notes that hallucinogenic compounds are so prevalent in some families (particularly Convolvulaceae and Solanaceae) that it is difficult to explain why more species have not been employed as narcotics by indigenous societies.
-
-## See Also
-
-- [[gaian-psychotherapy-and-entheogenic-plants]]
-- [[amanita-muscaria-guide]]
-- [[fly-agaric-ethnobotany]]
-- [[ayahuasca-preparation]]
-- [[virola-snuff]]
-- [[yopo-anadenanthera-peregrina-snuff]]
-- ethnomycology
-- [[psilocybin-mushroom-biology-chemistry]]
-- [[morning-glory-entheogens]]
-- [[datura-stramonium]]
-- [[henbane-plant]]
-- [[ergot-fungus]]
-- [[ibogaine-pharmacology]]
-- [[dmt-reference]]
-- [[syrian-rue-entheogen]]
-- [[entheogen-culture]]

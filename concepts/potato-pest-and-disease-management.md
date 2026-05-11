@@ -1,5 +1,5 @@
 ---
-title: Potato Pest and Disease Management
+title: Potato Pest And Disease Management
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -9,12 +9,12 @@ tags: [potato, pests, diseases, integrated-pest-management]
 **Updated:** 2026-05-09
 
 ## Overview
-Potatoes are susceptible to a wide range of pests and diseases that can
+Potatoes are susceptible to a wide range of [[mushroom-pests-and-diseases]] that can
 devastate yield and quality. Effective management combines prevention
 (clean seed, crop rotation, resistant varieties), cultural practices
 (spacing, irrigation management, timely hilling), biological controls,
-and judicious use of approved sprays. Integrated pest management (IPM)
-prioritises ecological balance over chemical eradication.
+and judicious use of approved sprays. [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM)
+prioritises [[fukuoka-bushman-world-ecological-balance]] over chemical eradication.
 
 ## Late Blight (Phytophthora infestans)
 Late blight is the most destructive potato disease globally, responsible
@@ -34,7 +34,7 @@ leaves, progressing upward. Unlike late blight, it develops in warm,
 dry conditions and is favoured by plant stress. Management includes
 [[crop-rotation-benefits]] (3-4 year break from solanaceous crops), removing
 infected foliage, maintaining adequate moisture and potassium levels,
-and applying biological fungicides (Bacillus subtilis, Trichoderma).
+and applying biological fungicides ([[bacillus-subtilis]], Trichoderma).
 Resistant varieties offer partial protection.
 
 ## Colorado Potato Beetle (Leptinotarsa decemlineata)
@@ -79,8 +79,8 @@ crops. See also [[potassium-in-plant-nutrition]] for nutrient
 interactions affecting scab severity.
 
 ## Integrated Approach in Permaculture
-In permaculture design, pest management is addressed at the system
-level. [[crop-rotation-and-ley-farming|crop rotation]] breaks cycles. Polyculture and
+[[mollison-lawn-reform-and-alternatives-in-permaculture-design]], pest management is addressed at the system
+level. [[crop-rotation-and-ley-farming]] breaks cycles. Polyculture and
 [[companion-planting]] create habitat diversity supporting natural
 predators. Healthy soil biology suppresses soil-borne pathogens through
 competition and antibiosis. The goal is resilient systems where damage
@@ -88,9 +88,3 @@ stays below economic thresholds without routine chemical inputs.
 
 ## Connections
 - [[potato-cultivation-guide]]
-- [[integrated-pest-management]]
-- [[crop-rotation-benefits]]
-- [[companion-planting]]
-- late blight
-- [[soil-food-web]]
-- marigold

@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom Harvesting and Potency
+title: Mushroom Harvesting Potency
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
+Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF ([[psylocybe-fanaticus]]) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying [[food-preservation-and-storage-methods]], spore printing, and [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]].
 
 ## When to Harvest: Pre-Sporulation
 
@@ -114,7 +114,7 @@ Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 gr
 
 ### What NOT to Do
 
-- **Never dry in an oven** -- heat leaches chemical constituents and reduces quality
+- **Never dry in an oven** -- heat leaches [[guzman-magic-mushrooms-chemical-constituents]] and reduces quality
 - **Never use hot air dryers** -- same problem
 - Mushrooms dried with desiccant "lose hardly any chemical constituents"
 

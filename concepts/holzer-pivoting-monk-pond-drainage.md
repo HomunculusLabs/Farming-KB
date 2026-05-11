@@ -1,7 +1,7 @@
 ---
 title: Holzer holzer pivoting monk pond drainage - Pond Drainage Invention
 created: 2026-04-26
-tags: [water-management, pond-construction, drainage, permaculture, holzer]
+tags: [water-management, pond-construction, drainage, [[permaculture]], holzer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
@@ -20,7 +20,7 @@ complex and expensive pipe systems.
 Ponds and water retention spaces need a reliable overflow mechanism. Conventional
 solutions use pipe systems with valves that are prone to blockage by debris,
 leaves, and sediment. Blocked pipes can cause dam failure or uncontrolled
-overflow. Sepp Holzer needed a system that would be self-cleaning, simple to
+overflow. [[comparison-sepp-holzer-vs-permaculture-design]] needed a system that would be self-cleaning, simple to
 construct, and require minimal maintenance.
 
 ## The Pivoting Monk Design
@@ -51,7 +51,7 @@ engineering term for a vertical outlet pipe through a dam.
 ## The Pipe-in-Pipe System
 
 Closely related to the Holzer Monk is the pipe-in-pipe system, another of
-Holzer's inventions for water management in ponds and lakes. This system uses
+Holzer's inventions for [[water-management]] in ponds and lakes. This system uses
 concentric pipes to allow water to be drawn from different depths:
 
 - An outer pipe is set vertically into the pond.
@@ -88,28 +88,3 @@ In autumn, raising the water level higher than the summer maximum ensures that
 the pond enters winter with maximum stored water. The deeper water column
 resists freezing and provides a refuge for aquatic life beneath the ice.
 During winter, the pivoting monk can be adjusted to allow a controlled trickle
-of the warmest bottom water to overflow, which prevents surface ice from
-becoming too thick and maintains oxygen exchange. Without this capability,
-ponds with fixed overflow pipes can only manage a single water level
-year-round, losing the ecological benefits of seasonal fluctuation.
-
-## Integration with Earthworks
-
-The pivoting monk is typically installed during the construction of
-[[holzer-water-landscapes-retention]] that hydrate
-entire valleys rather than isolated points.
-
-## Troubleshooting and Maintenance
-
-While the pivoting monk is designed for low maintenance, Holzer recommends
-regular inspection at least twice per year. The most common issue is sediment
-accumulation at the pipe inlet, which can restrict flow. This is addressed by
-briefly fully opening the pivot to flush accumulated material. In freezing
-climates, the pivot chamber must be insulated or designed with drainage to
-prevent water from pooling and freezing around the mechanism.
-
-## Related Topics
-
-- [[sepp-holzer-terrace-systems-and-raised-beds]]
-- [[holzer-aquaculture-pond-construction]]
-- [[holzer-fish-farming]]

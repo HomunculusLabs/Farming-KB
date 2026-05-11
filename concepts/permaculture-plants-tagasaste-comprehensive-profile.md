@@ -1,5 +1,5 @@
 ---
-title: "Tagasaste (Chamaecytisus palmensis): Comprehensive Profile"
+title: Permaculture Plants Tagasaste Comprehensive Profile
 source: "a-selection-permaculture-plants.md"
 author: "Permaculture Plants: A Selection"
 tags: [permaculture-plants, tagasaste, tree-lucerne, nitrogen-fixing, pioneer, fodder, bee-forage, nurse-crop]
@@ -9,10 +9,10 @@ tags: [permaculture-plants, tagasaste, tree-lucerne, nitrogen-fixing, pioneer, f
 
 Tagasaste, also known as tree lucerne, is a nitrogen-fixing leguminous tree
 native to the Canary Islands and one of the most useful pioneer species in
-permaculture design. It serves multiple functions simultaneously: stock feed,
-bee forage, nurse crop, poultry forage, firewood, and soil improvement. Its
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. It serves multiple functions simultaneously: stock feed,
+bee forage, nurse crop, [[free-range-poultry-forage-design-mollison]], firewood, and soil improvement. Its
 remarkable productivity on marginal land has made it a cornerstone of
-regenerative agriculture in Australia, where over 50,000 hectares of mostly
+[[biochar]] in Australia, where over 50,000 hectares of mostly
 marginal farmland had been planted to tagasaste by 1996. (see [[nitrogen-fixing-trees-and-shrubs]]).
 
 ## Botanical Profile
@@ -88,56 +88,3 @@ degraded pasture alone. Combined tagasaste and pasture systems provide useful
 grazing from year one.
 
 ## Management for Maximum Productivity
-
-Trees should be trimmed at a very early age to encourage a bushy habit rather
-than an erect tree form. This keeps foliage within reach of stock and makes
-ring-barking virtually impossible. Ideally, trees are arranged into lock-up
-fodder systems that allow recovery periods between grazing, avoiding the
-labor-intensive cut-and-carry method. Well-fenced hedgerows can be constantly
-grazed.
-
-## Bee Forage and Poultry Feed
-
-Tagasaste flowers in winter—a time when little else blooms—making it
-exceptionally valuable for beekeeping. Cutting different plants at different
-times can significantly extend the flowering period of a stand. It is a
-prolific seed producer, and the seed serves as free-range chicken forage.
-Poultry gain significant nutritional benefit from tagasaste leaves as a source
-of greens. Rabbits reared on tagasaste in the Canary Islands are said to
-produce exceptionally tasty meat.
-
-## Tagasaste Seed as Poultry Feed
-
-| Constituent | Tagasaste Seed | Oat Grain | Wheat Grain | Field Pea |
-|-------------|---------------|-----------|-------------|-----------|
-| Crude Protein | 25% | 10% | 11% | 26% |
-| Carbohydrate | 54% | 69% | 82% | 63% |
-| Crude Fat | 12% | 4% | 2% | 1% |
-| Crude Fibre | 6% | 13% | 3% | 7% |
-
-The 25% protein and 12% fat content of tagasaste seed makes it a
-nutritionally dense poultry feed.
-
-## Nurse Crop Function
-
-Tagasaste functions as an excellent nurse crop for fruit and nut trees. In
-New Zealand trials, trees growing in close association with tagasaste (as
-close as 1 meter) consistently outperformed controls without tagasaste.
-
-For timber trees, surrounding tagasaste forces the tree upward for light,
-producing straight, long timber. For fruit or nut trees, tagasaste should be
-clipped and used as mulch around the nursed tree to encourage a spreading
-habit for easier harvest access.
-
-## Additional Uses
-
-The wood serves as good firewood and has potential as a hard, light wood for
-tool handles and craft work. An estimated 1.5 million hectares of Australian
-farms could benefit from tagasaste planting, making it one of the most
-scalable pioneer species for broadacre permaculture.
-
-## See Also
-
-- [[permaculture-plants-tree-lupin-nurse-crop-profile-[[cancer-medicinal-mushrooms-maitake-d-fraction]]]]
-- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

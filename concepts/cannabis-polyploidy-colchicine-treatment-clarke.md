@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis polyploidy colchicine treatment clarke Treatment Clarke
+title: Cannabis Polyploidy [[colchicine]] Treatment Clarke
 created: 2026-04-28
 tags: [cannabis, genetics, polyploidy, breeding, Clarke]
 date: 2026-04-25
@@ -88,62 +88,7 @@ In the first group (0.25%), cannabinoid levels were highest in the
 plants without anomalies, and in the second group (0.50%) cannabinoid
 levels were highest in plants with anomalies. Overall, treated plants
 showed a 166-250% increase in THC with respect to controls and a
-decrease of CBD (30-33%) and CBN (39-65%).
 
-THC levels in the control plants were very low (less than 1%). Possibly
-colchicine or the resulting polyploidy interferes with cannabinoid
-biogenesis to favor THC. In treated plants with deformed leaf lamina,
-90% of the cells are tetraploid (4n = 40) and 10% diploid (2n = 20).
-In treated plants without deformed lamina a few cells are tetraploid
-and the remainder are triploid or diploid.
-
-## Aneuploids: Unbalanced Chromosome Sets
-
-The transformation of diploid plants to the tetraploid level inevitably
-results in the formation of a few plants with an unbalanced set of
-chromosomes (2n + 1, 2n - 1, etc.). These plants are called aneuploids.
-Aneuploids are inferior to polyploids in every economic respect.
-
-Aneuploid Cannabis is characterized by extremely small seeds. The
-weight of 1,000 seeds ranges from 7 to 9 grams (1/4 to 1/3 ounce).
-Under natural conditions diploid plants do not have such small seeds
-and average 14-19 grams (1/2 to 2/3 ounce) per 1,000 (Zhatov 1979).
-
-## Practical Application and Safety
-
-Colchicine is sold by laboratory supply houses, and breeders have used
-it to induce polyploidy in Cannabis. However, colchicine is poisonous,
-so special care is exercised by the breeder in any use of it. Many
-clandestine cultivators have started polyploid strains with colchicine.
-Except for changes in leaf shape and phyllotaxy, no outstanding
-characteristics have developed in these strains and potency seems
-unaffected.
-
-[[jadam-seed-treatment-and-nursery-management]] is the most effective and safest way to apply colchicine.
-The entire plant growing from a colchicine-treated seed could be
-polyploid and if any colchicine exists at the end of the [[savory-growing-season-and-non-growing-season-management]]
-the amount would be infinitesimal. Colchicine is nearly always lethal
-to [[query-how-to-store-cannabis-seeds-for-long-term-viability]], and in the treatment there is a very fine line
-between polyploidy and death.
-
-## Chromosome Mapping
-
-The work of Menzel (1964) presents us with a crude map of the
-chromosomes of Cannabis. Chromosomes 2-6 and 9 are distinguished by
-the length of each arm. Chromosome 1 is distinguished by a large knob
-on one end and a dark chromomere 1 micron from the knob. Chromosome 7
-is extremely short and dense, and chromosome 8 is assumed to be the sex
-chromosome.
-
-In the future, chromosome mapping will enable us to picture the
-location of the genes influencing the phenotype of Cannabis. This will
-enable geneticists to determine and manipulate the important
-characteristics contained in the [[cannabis-gene-pool-preservation-acclimatization-clarke]]. For each trait the number
-of genes in control will be known, which chromosomes carry them, and
 ## See Also
-
-- [[cervantes-colchicine-polyploidy-mutagenesis]]
-
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]
-- [[query-how-can-companion-plants-protect-cannabis-from-pests]]
+- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]
+- [[cannabis-hybridization-back-crossing-methods-clarke]]

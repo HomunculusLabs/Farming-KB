@@ -12,7 +12,7 @@ sources:
   - Yoshimura I. (1971). "The genus Lobaria of Eastern Asia." Journal of the Hattori Botanical Laboratory 34: 231-364.
   - Jordan W.P. (1973). "The genus Lobaria in psilocybin-north-america-pacific-northwest north of Mexico." The Bryologist 76(2): 225-251.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales." American Journal of Botany 105(6): 1095-1115.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens [[berry-growing]]." Yale University Press.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The species is named for its association with oak (Quercus) trees, though
 it also grows on maple, beech, and other deciduous species. It is one of
 the largest foliose lichens in temperate North America and Europe.
 
-Like Lobaria pulmonaria, L. quercizans harbors both green algal and
+Like [[lobaria-pulmonaria]], L. quercizans harbors both green algal and
 cyanobacterial photobionts, making it a tripartite lichen with significant
 nitrogen-fixing capability. It is considered an indicator of forest
 continuity and ecological health.
@@ -60,7 +60,7 @@ Mountains and west to the Ozarks. In Europe, it occurs in scattered
 oceanic locations.
 
 The species is restricted to old-growth or late-successional forests with
-high humidity and minimal air pollution. It grows on the bark of mature
+high humidity and minimal [[air-pollution-fungal-community-responses]]. It grows on the bark of mature
 oaks, maples, beeches, and basswood, typically on trunks and large
 branches at 1–5 m height.
 
@@ -76,7 +76,7 @@ alga (Dictyochloropsis-type) in the primary photobiont layer, and Nostoc
 cyanobacteria in external cephalodia.
 
 The cyanobacterial symbiont fixes atmospheric nitrogen, contributing to
-the nitrogen economy of forest ecosystems. In old-growth stands, Lobaria
+the nitrogen economy of [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. In old-growth stands, Lobaria
 species can contribute substantially to throughfall nitrogen inputs.
 
 The species is highly sensitive to air pollution, particularly sulfur
@@ -84,42 +84,7 @@ dioxide and acid deposition. Its decline in [[polypore-fungi-eastern-north-ameri
 the mid-20th century mirrors the decline of L. pulmonaria in Europe.
 
 L. quercizans provides habitat for microarthropods and serves as a
-substrate for lichenicolous fungi. Its large, loosely attached thalli
-create humid microenvironments that support diverse microbial communities.
+substrate for [[lichenicolous-fungi]]. Its large, loosely attached thalli
+create humid microenvironments that support diverse [[cannabis-rhizosphere-microbial-communities]].
 
 ## Chemistry and Secondary Metabolites
-
-Lobaria quercizans contains several secondary metabolites typical of the
-Lobariaceae. The major medullary compounds include gyrophoric acid and
-sometimes traces of tenuiorin.
-
-Spot tests yield: medulla K+ yellow to red (gyrophoric acid), C-, PD-.
-The upper cortex is K+ yellow (atranorin or related compounds). These
-reactions are consistent with the Lobaria pulmonaria chemotype.
-
-The chemistry of L. quercizans overlaps with L. pulmonaria, making
-chemical identification alone insufficient for distinguishing the two
-species. Morphological characters, particularly thallus texture and lobe
-shape, are more reliable for identification.
-
-## Similar Species
-
-Lobaria quercizans is most similar to L. pulmonaria, which shares the
-same size range and tripartite ecology. L. pulmonaria has a smoother
-upper surface with a distinct network of ridges (reticulate), while L.
-quercizans has a more broadly wrinkled, less regularly patterned surface.
-
-L. pulmonaria also has larger, more conspicuous cephalodia and a more
-strongly tomentose lower surface. L. quercizans has a more brownish
-upper surface compared to the gray-green of L. pulmonaria when wet.
-
-L. scrobiculata has conspicuous, wart-like pustules (soralia) on the
-upper surface, which L. quercizans lacks. Sticta species are generally
-smaller and have a different rhizine structure on the lower surface.
-
-## See Also
-
-- [[peltigera-canina]]
-- [[nephroma-arcticum]]
-- [[hypogymnia-physodes]]
-- [[cetraria-islandica]]

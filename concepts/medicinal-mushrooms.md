@@ -87,35 +87,3 @@ Jing, a Chinese pharmacopoeia compiled around 200 BCE, which describes
 reishi (Lingzhi) as a superior herb for promoting longevity and vitality.
 Reishi was so revered in Chinese culture that it appears frequently in
 traditional art, architecture, and imperial iconography.
-
-Siberian and East European cultures have a long tradition of using chaga
-([[chaga-inonotus-obliquus]]) as a health tonic. Chaga tea was consumed as a general
-wellness beverage and was traditionally used to support gastrointestinal
-health and reduce inflammation. Indigenous peoples across northern Europe
-and Russia harvested chaga from birch trees and prepared it as a decoction.
-
-In traditional Japanese medicine, shiitake was valued both as a culinary
-ingredient and as a treatment for colds, fatigue, and poor circulation.
-The development of lentinan as a pharmaceutical agent from shiitake
-represents one of the most successful translations of traditional mushroom
-knowledge into modern clinical practice.
-
-## Safety Considerations and Contraindications
-
-While medicinal mushrooms are generally regarded as safe, several important
-considerations apply. Some species can interact with medications: reishi
-may have anticoagulant effects and should be used cautiously alongside
-blood-thinning drugs. Turkey tail PSK is generally well-tolerated but can
-cause mild gastrointestinal discomfort at high doses.
-
-Wild-harvested mushrooms carry risks of heavy metal accumulation and
-contaminant absorption. Mushrooms are efficient bioaccumulators and can
-concentrate environmental pollutants from air and soil. This is especially
-relevant for chaga, which is typically wild-harvested from birch trees
-that may grow in contaminated areas. Sourcing from reputable suppliers
-who test for heavy metals is strongly recommended.
-
-Pregnant and breastfeeding women should exercise caution with concentrated
-medicinal mushroom extracts, as safety data in these populations is
-limited. Individuals with autoimmune conditions should consult healthcare
-providers before using immune-stimulating mushroom preparations.

@@ -33,7 +33,7 @@ The choice of precise sowing dates for fall planting is much more crucial than
 for spring planting. In spring, warming temperatures and lengthening days
 accelerate growth, giving the grower a wider margin of error. A sowing delayed
 by a week will catch up because growing conditions are improving. In fall, the
-opposite is true: both day length and temperature are working against the
+opposite is true: both [[mollison-designers-day-length-and-flowering-response]] temperature are working against the
 grower, progressively slowing growth. A delay of just one or two weeks in fall
 can have a proportionally much larger impact on the final harvest date.
 
@@ -71,7 +71,7 @@ Midwinter harvest comes from two distinct sources:
 2. **Late-sown crops reaching size**: crops sown in September and October that
    grow slowly through fall and reach productive size just as earlier plantings
    are being exhausted. These represent a second wave of production that extends
-   the harvest window well into the new year.
+   the [[harvest-window-cannabis]] well into the new year.
 
 ## Staggered Sowing Strategy
 
@@ -88,55 +88,3 @@ A typical succession schedule for Zone 5 includes multiple planting windows:
 
 Exact dates must be adjusted for local conditions and latitude. The schedule
 above is specific to coastal Maine at approximately 44 degrees north latitude.
-
-## Sowing-to-Harvest Time Expansion
-
-A critical factor is that sowing-to-harvest time increases as days shorten. A
-spinach variety that takes 30 days from sowing to harvest when planted in late
-August may take 50-60 days when planted in early October. This non-linear
-relationship between sowing date and harvest date is what makes fall succession
-planting so challenging.
-
-Growers must develop their own crop-specific calendars based on their latitude
-and microclimate through record-keeping over multiple seasons. Published dates
-from other regions are useful starting points but cannot substitute for local
-experience.
-
-## Crop Rotation and Bed Management
-
-Beds are replanted within twenty-four hours of harvest. Residues are removed,
-the soil is re-prepared with compost, and a new crop is immediately planted.
-Careful records ensure varied crop rotation across beds, preventing soil-borne
-disease buildup and maintaining fertility. The goal is to never leave a
-greenhouse bed unplanted; empty beds represent wasted capital and missed
-revenue in the most expensive [[cotter-growing-space-design-fruiting-rooms]] per [[comparison-biointensive-vs-square-foot-gardening]] on the farm.
-
-## Planning Considerations
-
-Successful winter succession planting requires several capabilities:
-
-- **Crop-specific sowing calendars** developed through meticulous record-keeping
-  over multiple seasons
-- **Phenological observation** to refine dates for the local microclimate and
-  adjust for year-to-year weather variation
-- **Varietal selection** to identify the best winter performers from among the
-  many available cultivars of each crop
-- **Buffer plantings** for insurance against weather and pest losses that might
-  eliminate individual sowings
-- **Flexibility** to adapt in real time; a warm fall may allow later sowings,
-  while an early freeze may necessitate protection measures sooner than expected
-
-## Relationship to Traditional Market Gardening
-
-The winter succession approach has historical precedent in the parisian marketgardening tradition of 19th-century Paris, where growers achieved four to
-eight harvests per year from the same ground through intensive succession
-planting and protected cultivation. Coleman's system adapts this tradition to
-modern materials and American climate conditions, proving that the principles of
-intensive winter production are universally applicable.
-## See Also
-
-- [[coleman-succession-planting]]
-- [[unheated-greenhouse-winter-harvest]]
-- [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
-- parisian market gardening
-- [[eliot-coleman]]

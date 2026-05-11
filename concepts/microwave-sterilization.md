@@ -88,23 +88,3 @@ prolonged high-temperature exposure.
 Microwave sterilization requires only trace water (~9 µL/cm²) rather than
 full steam immersion. It leaves no chemical residues, penetrates elastomeric
 materials without disassembly, and completes cycles faster than autoclaving.
-However, it is less suited for bulk substrate sterilization where even
-heating throughout a large mass is required.
-
-For mycology applications, pressure cookers and autoclaves remain the standard
-for substrate sterilization, while microwave methods show greater promise for
-[[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]] of equipment and transfer ports.
-
-## See Also
-
-- [[microwave-water-interaction-2-45-ghz]]
-
-- [[contamination-identification-prevention]]
-
-- microwave food processing
-
-- aseptic technique
-
-- [[comparison-pasteurization-vs-sterilization]]
-
-- bacillus pumilus

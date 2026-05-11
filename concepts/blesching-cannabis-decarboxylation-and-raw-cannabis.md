@@ -1,5 +1,5 @@
 ---
-title: "comparison-cannabis-decarboxylation-chemistry-vs-edibles-guide and Raw Cannabis Use"
+title: Blesching Cannabis Decarboxylation And Raw Cannabis
 created: 2026-04-28
 tags: [cannabis, decarboxylation, raw-cannabis, cannabinoids, CBD, THC]
 date: 2026-04-25
@@ -14,12 +14,12 @@ Decarboxylation is the chemical process by which the acidic precursors of
 cannabinoids in fresh cannabis are converted into their active forms through
 heat, time, or light exposure. Understanding this process is essential for
 anyone using cannabis therapeutically, as it determines whether the medicine
-will produce psychoactive effects and influences the therapeutic profile of
+will produce psychoactive effects and influences the [[cannabidiol-cbd-therapeutic-profile-blesching]] of
 the plant material consumed.
 
 ## Overview
 
-In fresh and raw cannabis leaf, CBD and THC cannabinoids exist as CBD-acid
+In fresh and raw [[cannabis-leaf-morphology-and-phyllotaxy]], CBD and THC cannabinoids exist as CBD-acid
 and THC-acid, both of which are non-psychoactive in their raw state. Once the
 plant cannabinoids become heated, dried, or stored, decarboxylation takes
 place, changing the molecular structure and its resultant properties. While
@@ -67,7 +67,7 @@ patients seeking non-psychoactive therapeutic benefits.
 
 The decarboxylation process involves the removal of a carboxyl group from the
 cannabinoid acid molecule. In chemical terms, THC-A (tetrahydrocannabinolic
-acid) loses a carbon dioxide molecule (CO2) when exposed to sufficient heat,
+acid) loses a [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] molecule (CO2) when exposed to sufficient heat,
 converting it into delta-9-THC (tetrahydrocannabinol). This reaction typically
 occurs at temperatures between 200 and 310 degrees Fahrenheit (93 to 154
 degrees Celsius), depending on the method and duration of heating.
@@ -88,49 +88,3 @@ CBD. This has practical implications for patients who wish to maximize either
 the psychoactive or non-psychoactive components of their medicine.
 
 ## Raw Cannabis Therapeutic Applications
-
-Raw, fresh cannabis leaf is consumed by many self-growing patients as a salad
-mixed with other greens. Fresh raw leaves can also be juiced, typically diluted
-with other vegetable juices to disguise the bitter taste. The non-psychoactive
-nature of raw cannabis makes it ideal for patients who need large quantities
-of cannabinoids but must maintain cognitive function for work, driving, or
-caregiving responsibilities.
-
-Research into raw THC-A has revealed unique and potent therapeutic properties.
-Dutch scientists have demonstrated that raw THC-acid inhibits tumor necrosis
-factor alpha (TNF-alpha) levels, which have become associated with the
-promotion of inflammation and the overall regulation of specific immune
-responses. This suggests that raw cannabis may have particular value for
-patients with [[cannabis-autoimmune-conditions-detailed]], chronic inflammatory diseases, and
-conditions involving immune dysregulation.
-
-Raw cannabis medicine allows patients to benefit from the potent therapeutic
-properties of cannabis without altering their state of consciousness. Thus
-they remain able to safely operate heavy machinery, drive to and from work,
-and make delicate decisions. While formal clinical studies on raw cannabis are
-still underway, physician case studies and patient testimonials consistently
-report benefits across a wide range of conditions including arthritis,
-inflammation, immune disorders, and neurodegenerative diseases.
-
-## Practical Considerations for Patients
-
-When choosing between raw and decarboxylated cannabis, patients should consider
-their specific therapeutic needs and lifestyle requirements. Raw cannabis is
-appropriate for patients who need high doses of CBD and THC-A without
-psychoactive effects, those who must remain cognitively clear throughout the
-day, and individuals who are sensitive to the psychoactive effects of THC.
-Decarboxylated cannabis is more appropriate when psychoactive effects are
-desired or tolerated, when the full therapeutic potential of active THC is
-needed, and when rapid onset of effects is important.
-
-THC content decreases over time in stored cannabis and is affected by UV light,
-heat, and exposure to moisture. [[cannabis-sativa-indoor-cultivation-techniques]] follows a three-month cycle,
-while outdoor cultivation follows an annual or biannual cycle. Indoor crops
-tend to contain a markedly higher THC content than outdoor crops, which has
-implications for both decarboxylation efficiency and therapeutic dosing.
-
-## Related Concepts
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-therapeutic-window-methodology]]
-- [[blesching-cannabis-administration-methods]]

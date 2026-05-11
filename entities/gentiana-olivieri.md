@@ -47,7 +47,7 @@ Flowers are terminal, solitary, deep blue to violet-blue, funnel-shaped, and 3�
 
 The fruit is an elongated capsule containing numerous small, winged seeds. The root system consists of a stout, fibrous taproot, which stores the bitter principles used medicinally.
 
-The species is morphologically close to *Gentiana septemfida* and *Gentiana gelida*, all members of section *Pneumonanthe*. It can be distinguished by its solitary terminal flowers and the distinctive fringe of the corolla lobes.
+The species is morphologically close to *[[gentiana-septemfida]]* and *[[gentiana-gelida]]*, all members of section *Pneumonanthe*. It can be distinguished by its solitary terminal flowers and the distinctive fringe of the corolla lobes.
 
 Chromosome number: 2n = 20, consistent with the base number for the genus.
 
@@ -75,47 +75,16 @@ The deep blue flowers are adapted to bee pollination, with nectar guides visible
 
 Bumblebees (Bombus spp.) are the primary pollinators at high altitudes where the species grows. The funnel-shaped corolla restricts access to nectar to larger, long-tongued pollinators.
 
-Seed germination requires cold stratification for 4–8 weeks, mimicking natural winter conditions. Light exposure after stratification improves germination rates significantly.
+[[cannabis-seed-germination]] requires cold stratification for 4–8 weeks, mimicking natural winter conditions. Light exposure after stratification improves germination rates significantly.
 
 In cultivation, the species demands excellent drainage, full sun, and a neutral to alkaline soil pH. It is rarely available commercially but is grown by alpine plant specialists.
 
 Plants are intolerant of winter wet and require protection from excessive moisture in regions with maritime winters. A gritty, loam-based compost with added limestone chips provides suitable conditions.
 
-Propagation by division is possible but slow, as the plant produces few offsets. Root cuttings taken in early spring can also produce new plants. The species is long-lived once established, with individual plants persisting for 15–20 years.
+Propagation by division is possible but slow, as the plant produces few offsets. Root cuttings taken in [[coleman-overwintered-onions-and-early-spring-crops]] can also produce new plants. The species is long-lived once established, with individual plants persisting for 15–20 years.
 
 ## Traditional and Modern Uses
 
-In Turkish folk medicine, the roots of *G. olivieri* are used as a bitter tonic and appetite stimulant. The dried roots are steeped in hot water to prepare an infusion consumed before meals. This use parallels that of *Gentiana lutea* in European herbalism.
+In Turkish folk medicine, the roots of *G. olivieri* are used as a bitter tonic and appetite stimulant. The dried roots are steeped in hot water to prepare an infusion consumed before meals. This use parallels that of *[[gentiana-lutea]]* in European herbalism.
 
 Phytochemical studies have identified gentiopicrin, sweroside, and amarogentin as the primary bitter compounds.
-
-Secoiridoid glycoside concentrations in *G. olivieri* roots are comparable to those in commercial gentian root. Total secoiridoid content reaches 2–4% of dry weight.
-
-The species has been investigated for antioxidant and hepatoprotective activities. In vitro studies show moderate free-radical scavenging capacity, though clinical evidence remains limited.
-
-No modern pharmaceutical products are derived from this species. Research interest has increased since 2010, driven by the search for novel bitter compounds for digestive formulations.
-
-## Conservation
-
-Gentiana olivieri is not currently listed on the IUCN Red List. However, wild populations in Turkey face pressure from overharvesting for the herbal trade. Roots are collected indiscriminately, killing entire plants.
-
-The species is protected under Turkish biodiversity legislation, though enforcement in remote mountain areas is limited.
-
-Agricultural expansion into subalpine meadows and overgrazing by livestock also threaten habitat quality. Climate warming may push the species to higher elevations, reducing its total available habitat area.
-
-Ex situ conservation is maintained in several European alpine botanical gardens, including the Edinburgh and Geneva collections. Seed banking of Turkish provenance material is a conservation priority.
-
-Sustainable cultivation would reduce pressure on wild populations. Turkish agricultural agencies have begun pilot cultivation programs in Erzurum province, though commercial-scale production has not yet been achieved.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[gentiana-clusii]]
-- [[gentiana-verna]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[gentiana-pneumonanthe]]
-- [[exacum-affine]]
-- [[gentiana-macrophylla]]
-- [[gentiana-ciliata]]
-- [[gentiana-triflora]]

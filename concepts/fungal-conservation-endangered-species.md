@@ -1,5 +1,5 @@
 ---
-title: Fungal Conservation and Endangered Species
+title: Fungal Conservation Endangered Species
 created: 2026-04-14
 updated: 2026-04-15
 type: concept
@@ -43,14 +43,14 @@ conditions.
 
 **Ex situ conservation** involves fungal culture collections and
 cryopreservation of genetic material. Major collections maintain
-thousands of fungal strains, representing genetic diversity that
+thousands of fungal strains, representing [[biodiversity-fungal-genetic-diversity]] that
 may be lost from wild populations. However, many fungi, especially
 mycorrhizal species, cannot be maintained long-term in culture
 without their host plants.
 
 **Population monitoring** uses specialized techniques including
 fruiting body surveys, environmental DNA sampling, and spore trap
-networks. Citizen science programs have proven valuable for tracking
+networks. [[citizen-science-fungal-biodiversity-discovery]] programs have proven valuable for tracking
 macrofungal distributions, particularly in regions with strong
 foraging traditions. Long-term monitoring datasets are essential
 for detecting population trends.
@@ -66,7 +66,7 @@ Critical habitats for fungal conservation include:
 - Peatlands and wetland ecosystems
 - Coastal dune systems with specialized mycota
 
-Forest management practices significantly impact fungal diversity.
+[[mollison-course-coppice-forest-management]] practices significantly impact fungal diversity.
 Continuous-cover forestry, retention of dead wood, extended rotation
 periods, and protection of key habitat trees all support fungal
 communities. Air pollution control, particularly nitrogen deposition
@@ -76,43 +76,15 @@ reduction, is essential for protecting sensitive fungal species.
 
 Several international frameworks address fungal conservation:
 
-- The Convention on Biological Diversity explicitly recognizes fungi
+- The [[fungi-convention-on-biological-diversity]] Diversity explicitly recognizes fungi
   as components of biodiversity requiring conservation
 - The IUCN Red List process includes fungi, though assessments lag
   behind other groups
 - The Global Fungal Red List Initiative aims to systematically
   assess threatened fungal species
-- European Union Habitats Directive includes fungal habitats in
+- [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] Habitats Directive includes fungal habitats in
   protected area designations
 - The UN Sustainable Development Goals indirectly support fungal
   conservation through ecosystem protection targets
 
 National legislation rarely explicitly mentions fungi, though some
-countries have begun including them in protected species lists.
-Sweden and Norway were among the first to legally protect fungal
-species, with other European nations following suit. Conservation
-organizations increasingly recognize fungi as essential components
-of biodiversity strategies.
-
-## Emerging Conservation Challenges
-
-Climate change presents new threats to fungal conservation:
-- Phenological mismatches with host organisms
-- Range shifts creating novel assemblages
-- Increased extinction risk for specialized species
-- Altered disturbance regimes affecting habitat suitability
-
-Other emerging challenges include:
-- Invasive pathogens threatening native fungal communities
-- Biopiracy and genetic resource exploitation
-- Loss of traditional ecological knowledge about fungi
-- Competition for land use affecting fungal habitats
-- Microplastic contamination of fungal environments
-
-## See Also
-
-- [[dighton-selective-grazing-fungal-community-shifts]]
-- [[fungal-nematode-predation-and-trapping-mechanisms]]
-- [[bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis]]
-- [[mollison-hedgerow-barrier-species-selection]]
-- [[staycare-fungal-biomethylation-of-metals-and-metalloids]]

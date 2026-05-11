@@ -13,7 +13,7 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada. 2nd ed. New York Botanical Garden.
   - USDA NRCS. (2024). "Kalmia angustifolia." PLANTS Database.
   - Mulligan, G.A. & Munro, D.B. (1981). "Toxic plants of Canada." Agriculture Canada Publication.
-  - Kingsbury, J.M. (1964). Poisonous Plants of the United States and Canada. Prentice-Hall.
+  - Kingsbury, J.M. (1964). Poisonous Plants of the [[dmt-containing-plants-united-states-halpern]] and Canada. Prentice-Hall.
   - Cullina, W. (2000). Native Trees, Shrubs, and Vines. Houghton Mifflin.
 ---
 
@@ -25,7 +25,7 @@ It is native to [[polypore-fungi-eastern-north-america]] America, ranging from e
 
 The species is noted for its attractive pink flowers and significant toxicity to livestock and humans.
 
-It is a close relative of mountain laurel (*Kalmia latifolia*) but is generally smaller in stature.
+It is a close relative of mountain laurel (*[[kalmia-latifolia]]*) but is generally smaller in stature.
 
 ## Taxonomy and Morphology
 
@@ -88,40 +88,3 @@ Post-fire resprouting from rhizomes allows rapid recovery after wildfire.
 ## Toxicity and Chemistry
 
 All parts of *K. angustifolia* contain grayanotoxins (andromedotoxins), a class of diterpenoid neurotoxins.
-
-These compounds bind to voltage-gated sodium channels, causing persistent activation and disrupting nerve function.
-
-Livestock poisoning occurs most commonly in sheep, cattle, and horses that browse the foliage.
-
-Symptoms include excessive salivation, vomiting, abdominal pain, muscle weakness, ataxia, and in severe cases, cardiac arrest.
-
-Human poisoning is rare but has been documented following ingestion of honey made from Kalmia nectar (mad honey disease).
-
-The toxin concentration varies seasonally, with highest levels typically found in new growth during spring.
-
-The leaves retain toxicity even when dried, making contaminated hay a hazard.
-
-Doses as low as 0.2% of body weight in green leaf material can be lethal to sheep.
-
-## Cultural and Horticultural Significance
-
-The common name "lambkill" reflects the plant's well-documented lethality to young sheep.
-
-The species was historically used by Indigenous peoples for medicinal purposes, though this practice carried considerable risk.
-
-An infusion of leaves was reportedly used externally for skin ailments, but internal use was extremely dangerous.
-
-In horticulture, sheep laurel is less commonly cultivated than mountain laurel (*K. latifolia*) but remains available from native plant nurseries.
-
-It requires acidic, moist soils and partial shade, making it suitable for bog gardens and naturalistic woodland plantings.
-
-The compact size and attractive flowers make it a good choice for smaller gardens where *K. latifolia* would be too large.
-
-Cultivars are not widely available; most nursery stock consists of straight species propagated from wild-collected seed.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-myrtillus]]
-- arctostaphylos-uva-ursi
-- [[oxydendrum-arboreum]]

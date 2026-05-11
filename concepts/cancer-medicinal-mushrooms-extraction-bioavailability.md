@@ -1,7 +1,7 @@
 ---
 title: mushroom-extraction-methods and Bioavailability
 created: 2026-04-26
-tags: [extraction, medicinal-mushrooms, bioavailability, pharmacology]
+tags: [extraction, [[medicinal-mushrooms]], bioavailability, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -27,7 +27,7 @@ The primary antitumour compounds are water-soluble beta-D-glucans with
 heterosaccharide chains of xylose, mannose, galactose or uronic acid,
 or beta-D-glucan-protein complexes (proteoglycans). Hot water
 extraction is the traditional and most common method for obtaining
-these compounds, mirroring the preparation methods used in traditional
+these compounds, mirroring the [[amanita-muscaria-preparation-methods]] used in traditional
 Chinese medicine.
 
 The polysaccharides of [[tremella-mesenterica]], for example, are readily
@@ -72,8 +72,8 @@ of large polysaccharide molecules. Most mushroom polysaccharides are
 large molecules effective only by intravenous or intraperitoneal
 administration. Key examples include:
 
-- Lentinan: intravenous or intraperitoneal only
-- Schizophyllan: intramuscular or intraperitoneal only
+- [[lentinan]]: intravenous or intraperitoneal only
+- [[schizophyllan]]: intramuscular or intraperitoneal only
 - PSK: orally bioavailable (protein-bound, lower molecular weight)
 - PSP: orally bioavailable (protein-bound, approximately 100 kDa)
 - Maitake D-fraction: orally bioavailable
@@ -82,31 +82,8 @@ administration. Key examples include:
 The [[agaricus-blazei]] beta-1,6 glucan study demonstrated that acid
 treatment to reduce molecular mass from high to approximately 10 kDa
 converted a non-orally-active compound into an orally-active one. This
-finding could have significant application with other large beta-glucans
-to improve their oral bioavailability and increase use as
+finding could have significant application with other large [[beta-glucans]]
+to improve their [[first-pass-metabolism-and-oral-bioavailability]] and increase use as
 immunonutriceuticals.
 
 ## Protein Binding and Oral Activity
-
-An important observation is that the most successful orally-active
-[[medicinal-mushroom-compounds-and-health-benefits]] (PSK, PSP) are protein-bound polysaccharides rather
-than pure polysaccharides. The protein component appears to influence
-both bioavailability and immunological activity. PSK and PSP are
-protein-bound polysaccharides with a molecular mass of about 100 kDa,
-and both have demonstrated clinical efficacy when administered orally.
-
-## Safety of Extraction Methods
-
-The safety criteria for mushroom-derived beta-glucans have been
-exhaustively carried out in pre-clinical experiments. Acute, subacute
-and chronic toxicity tests have been performed with no evidence of
-toxicity at therapeutic doses. There were no anaphylactic reactions
-and a wide range of regulatory tests showed no evidence of
-genotoxicity. No [[blesching-cannabis-safety-adverse-effects-evidence]] were found in reproduction, lactation
-or teratogenicity studies.
-
-## Related
-
-- [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- mushroom-polysaccharide-safety-toxicity

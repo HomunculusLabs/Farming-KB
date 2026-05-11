@@ -15,9 +15,9 @@ A wormery is a managed system for producing [[vermicomposting]] by housing compo
 
 ## How Worms Improve Soil
 
-Worms feed on organic matter and eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for root growth. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably. (see [[hamilton-worm-composting-manure]]).
+Worms feed on [[savory-soil-organic-matter-and-decomposition-dynamics]] eject it as gel-coated pellets. This crumb structure improves soil drainage and aeration, providing a superior environment for [[soil-moisture-management-and-root-growth]]. The pellets convert nutrients into a form readily available to plant roots, released slowly as required, preventing short-term toxicity. The water-holding capacity of soil is also increased considerably.
 
-Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall. (see [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]).
+Worms break organic matter into smaller granules, enabling soil microbes to work on a greater surface area. They produce enzymes that help bacteria work more efficiently, accelerating decomposition overall.
 
 ## Worm Species
 
@@ -40,7 +40,7 @@ The worms needed are commonly known as "nightcrawlers" or "red worms" (*Lumbricu
 - Build up slowly — no more than 3in (7cm) of material per week
 - Worms can process grass cuttings, kitchen scraps, even soaked newspapers (in moderation)
 - Mix materials together; never overload with one type
-- Animal manure can be added on its own
+- [[animal-manure-guide]] can be added on its own
 - Place in a sunny, sheltered position — worms stop working below 45F (7C) and die in freezing weather
 - Optimum temperature: 68-75F (20-24C)
 - In cold weather, cover with old carpet; in hot weather, water the material (too wet is better than too dry)
@@ -52,14 +52,31 @@ The worm works upward through layers. Take worm-worked material from the bottom 
 ## Uses for Worm-Cast Compost
 
 - High in nutrients and microorganisms — use sparingly
-- Excellent mulch around ornamental plants, fruit trees/bushes, or between vegetable rows
+- Excellent mulch around ornamental plants, [[comparison-grafting-vs-budding-fruit-trees]]/bushes, or between vegetable rows
 - Sprinkle into seed rows before sowing (especially helpful in dry soil)
 - Rake into top inch of seedbed for crumbly surface structure
 - Seed compost: mix 1 part worm-cast compost with 2 parts peat
-- Potting compost: equal parts peat and worm-cast compost
+- [[hamilton-potting-compost-recipes-and-growing-media]]: equal parts peat and worm-cast compost
 
 ## Related
 
 - [[compost-container-types]] — other composting container designs
-- [[green-manure-crops-detailed]] — alternative soil improvement through cover crops
+- [[green-manure-crops-detailed]] — alternative soil improvement through [[query-what-is-biofumigation-and-how-does-it-work]]
 - [[homemade-liquid-fertilizer]] — liquid feeding for plants
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[wicking-bed-construction]]
+- [[wattle-and-daub-construction]]
+- [[straw-bale-construction]]
+- [[holzer-roundwood-shelter-construction]]
+- [[boil-a-bag-filter-can-construction]]

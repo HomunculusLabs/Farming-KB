@@ -88,16 +88,3 @@ forage, nitrogen fixer, and timber. For example, tagasaste
 (Chamaecytisus proliferus) provides all four functions and is
 drought-tolerant. The manual encourages designers to think in terms of
 guilds — groups of species that support each other through nutrient
-cycling, pest control, and microclimate creation.
-## Climate Zone Considerations
-Species listed span tropical, subtropical, temperate, and arid zones.
-Within any climate zone, microclimates created by elevation, aspect,
-water bodies, and existing vegetation expand the range of viable species.
-Frost pockets, heat traps, and wind-sheltered niches each support
-different subsets of the total species palette.
-## Related Topics
-- [[permaculture-designers-manual-plant-nursery]] - Propagation
-- [[permaculture-designers-manual-animal-forage-systems]] - Forage
-- mollison-native-seed-forage-systems-and-arid-species-lists
-- permaculture-designers-manual-bamboo-species-uses
-- [[cocos-nucifera]]

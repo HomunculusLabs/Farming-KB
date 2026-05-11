@@ -20,13 +20,13 @@ sources:
 
 **Festuca glauca**, commonly known as blue fescue, is a compact, clump-forming perennial ornamental grass native to central and southern Europe. It is prized for its fine, steel-blue foliage and rounded, cushion-like habit that provides year-round color and texture in gardens.
 
-The species is one of the most widely used ornamental grasses in rock gardens, border edging, and mass plantings. Its small mature size (20–30 cm tall) makes it suitable for containers, green roofs, and narrow spaces where larger grasses would overwhelm neighboring plants.
+The species is one of the most widely used [[ornamental-grasses-guide]] in rock gardens, border edging, and mass plantings. Its small mature size (20–30 cm tall) makes it suitable for containers, green roofs, and narrow spaces where larger grasses would overwhelm neighboring plants.
 
-Blue fescue is exceptionally drought-tolerant and low-maintenance once established. It has received the Royal Horticultural Society's Award of Garden Merit and remains a staple of contemporary landscape design.
+Blue fescue is exceptionally drought-tolerant and low-maintenance once established. It has received the Royal Horticultural Society's Award of Garden Merit and remains a staple of contemporary [[holzer-permaculture-landscape-design]].
 
 ## Taxonomy and Morphology
 
-**Festuca glauca** Vill. is classified within the tribe Poeae of the subfamily Pooideae. The species has a complex taxonomic history, with some authorities treating it as a subspecies of *Festuca ovina* (sheep fescue) rather than a distinct species.
+**Festuca glauca** Vill. is classified within the tribe Poeae of the subfamily Pooideae. The species has a complex taxonomic history, with some authorities treating it as a subspecies of *[[festuca-ovina]]* (sheep fescue) rather than a distinct species.
 
 The genus name *Festuca* is the Latin word for "straw" or "rush," referencing the coarse texture of some species. The epithet *glauca* means "glaucous" or "blue-gray," describing the distinctive foliage color.
 
@@ -38,7 +38,7 @@ Inflorescences are narrow, erect panicles 20–35 cm tall, appearing in early to
 
 Flowering occurs from June to August, with the panicles persisting as dried stalks through autumn. Some gardeners remove flower stems to maintain a purely foliage-focused appearance.
 
-The root system is dense and fibrous, extending 20–30 cm deep. This compact root structure makes the species suitable for shallow-soil applications such as green roofs and wall plantings.
+The root system is dense and fibrous, extending 20–30 cm deep. This compact root structure makes the species suitable for shallow-soil applications such as [[query-how-do-green-roofs-and-living-walls-benefit-urban-environments]] wall plantings.
 
 Several cultivars have been selected for enhanced blue color or compact habit, including 'Elijah Blue', 'Boulder Blue', and 'Sea Urchin'. 'Elijah Blue' is the most widely grown, valued for its intense color retention.
 
@@ -46,11 +46,11 @@ Several cultivars have been selected for enhanced blue color or compact habit, i
 
 The species is native to mountainous and subalpine regions of central and southern Europe, including the French Alps, Italian Apennines, and the Balkan Peninsula. It occurs naturally on rocky slopes, limestone outcrops, and dry grasslands at elevations of 500–2,500 meters.
 
-In its native habitat, blue fescue colonizes thin, well-drained soils with low nutrient content. It is adapted to the harsh conditions of exposed ridges and south-facing slopes where competition from taller vegetation is limited.
+In its native habitat, blue fescue colonizes thin, well-drained soils with low [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]. It is adapted to the harsh conditions of exposed ridges and south-facing slopes where competition from taller vegetation is limited.
 
 The grass prefers full sun to partial shade and tolerates a wide range of soil types, from sandy to gravelly loams. It requires excellent drainage and will not persist in waterlogged or heavy clay soils.
 
-It has naturalized in parts of [[psilocybin-north-america-pacific-northwest]], particularly in the Pacific Northwest and northeastern United States. Naturalized populations remain localized and the species is not considered invasive.
+It has naturalized in parts of [[psilocybin-north-america-pacific-northwest]], particularly in the Pacific Northwest and northeastern [[dmt-containing-plants-united-states-halpern]]. Naturalized populations remain localized and the species is not considered invasive.
 
 The species demonstrates excellent [[fungal-salt-tolerance-and-ion-homeostasis]], a trait that supports its use in coastal landscapes. This adaptation likely evolved from its native Mediterranean-climate exposure to mineral-rich, calcareous substrates.
 
@@ -87,24 +87,3 @@ The species is salt-tolerant, making it suitable for coastal gardens and roadsid
 Its fine texture provides year-round interest, as the evergreen foliage retains color through winter in milder climates. In colder zones, foliage may brown but still provides structural presence in the dormant garden.
 
 ## Ecological Role
-
-Blue fescue provides limited but meaningful habitat value in cultivated settings. The dense tufts offer shelter for ground beetles, spiders, and other beneficial predatory arthropods that contribute to natural [[cannabis-pest-management-guide]].
-
-As a cool-season (C3) grass, it begins growth earlier in spring than warm-season species, providing early-season green cover in meadow plantings. This early growth supports emerging insect populations during a critical period.
-
-The seed heads attract small seed-eating birds, though seed production is modest compared to larger ornamental grasses. The primary ecological contribution is structural rather than trophic.
-
-The species is deer-resistant and rabbit-proof, making it a reliable choice in landscapes with heavy browsing pressure. Its compact size and tough foliage are unpalatable to most herbivores.
-
-In green roof applications, blue fescue provides [[permplant-willows-salix-erosion-control-fodder]], thermal insulation, and aesthetic value with minimal maintenance inputs. Its shallow root system and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it one of the most suitable grasses for extensive green roof systems.
-
-## See Also
-
-- [[deschampsia-caespitosa]]
-- [[pennisetum-alopecuroides]]
-- [[miscanthus-sinensis]]
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
-- [[zea-mays]]

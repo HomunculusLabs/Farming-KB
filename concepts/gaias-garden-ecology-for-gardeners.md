@@ -1,16 +1,17 @@
 ---
-title: Gaia's gaias garden ecology for gardeners for Gardeners
+title: Gaias Garden Ecology For Gardeners
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
 # Ecology for Gardeners
 
-Toby Hemenway's introduction to ecological concepts that every gardener should understand. From Gaia's Garden, Chapter 2: "A Gardener's Ecology." These ecological principles form the foundation for designing self-sustaining garden ecosystems.
+[[toby-hemenway]]'s introduction to ecological concepts that every gardener should understand. From Gaia's Garden, Chapter 2: "A Gardener's Ecology." These ecological principles form the foundation for designing self-sustaining [[fungi-in-garden-ecosystems]].
 
 ## The Core Insight
 
@@ -40,7 +41,7 @@ A garden can be designed to mimic a mature ecosystem rather than being stuck in 
 
 - Emphasizing perennials over annuals (mature ecosystems are perennial-dominated)
 - Creating multiple vegetation layers (mature ecosystems have many layers)
-- Building closed nutrient cycles (mature ecosystems recycle internally)
+- Building closed [[ozier-pdc-composting-and-nutrient-cycles]] (mature ecosystems recycle internally)
 - Fostering mutually helpful relationships among all inhabitants
 
 ## Biodiversity
@@ -54,7 +55,7 @@ Biodiversity in ecosystems isn't random — it is structured and functional. Key
 
 ## Perennials versus Annuals
 
-The ecological garden imitates a mature ecosystem by emphasizing perennials rather than annuals.
+The [[ecological-garden-design]] imitates a mature ecosystem by emphasizing perennials rather than annuals.
 
 ### Advantages of Perennials
 
@@ -68,7 +69,7 @@ The ecological garden imitates a mature ecosystem by emphasizing perennials rath
 
 - **Greens:** Good King Henry, perennial kale and broccoli, French sorrel
 - **Alliums:** Perennial onions, garlic chives, walking onions
-- **Root crops:** Various perennial root vegetables
+- **Root crops:** Various perennial [[growing-root-vegetables-guide]]
 - **Herbs:** Most [[holzer-medicinal-and-culinary-herbs-compendium]] are perennial
 - **Vegetables:** Asparagus, artichokes, rhubarb
 - **Fruits and nuts:** Berries, fruit trees, nut trees
@@ -87,38 +88,3 @@ An ecological garden has many layers, from a low herb layer through shrubs and s
 In sunny climates, large trees can be closely spaced for shade. In cooler zones, trees are spread out to allow light and warmth.
 
 ## Plant Communities
-
-Plants in an ecological garden form communities, not isolated individuals. Certain species consistently appear together in nature:
-
-- **West:** Pinyon pine, juniper, Gambel's oak, mountain mahogany
-- **East:** Oak/hickory forest with mapleleaf viburnum and dogwoods
-
-### Do Plant Communities Really Exist?
-
-Ecologists debate whether communities are real units or merely random species assemblies sharing climate/soil preferences. Evidence supports both views, but for gardeners:
-
-- Communities have definite structure — removing one member (e.g., a truffle fungus) can diminish the whole community through cascading effects
-- Organisms sort themselves into highly structured groupings even without environmental gradients
-- Garden plant communities linked by relationships make for very healthy gardens
-
-## Nutrient-Accumulating Plants
-
-Fertility comes from vegetation and soil life, not fertilizer bags. Many plants excel at pulling nutrients from deep in the earth and siphoning them to the surface. With nutrient-accumulating plants in the garden, the task of spreading fertilizer dwindles to almost nothing.
-
-## Soil Building: Top-Down and Bottom-Up
-
-### Top-Down
-
-Nature builds soil from above — the constant rain of leaf litter decomposing into fluffy earth. No rotary-tilling needed. Pile on organic matter with deep mulch layers.
-
-### Bottom-Up
-
-Plants pull nutrients from deep subsoil and deposit them at the surface through leaf fall and root exudates. Together, top-down and bottom-up techniques generate the finest soil quickly.
-
-## See Also
-
-- [[gaias-garden-stacking-functions]] — [[gaias-garden-stacking-functions-detailed]] and redundancy
-- [[gaia-garden-plant-guilds]] — plant guild design
-- mollison-observation-design — observation in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
-- [[gaias-garden-water-harvesting-swales-and-greywater]]
-- [[gaias-garden-cover-crops-soil-building]]

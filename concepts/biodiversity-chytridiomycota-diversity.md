@@ -11,12 +11,12 @@ type: concept
 # Chytridiomycota Diversity
 
 The Chytridiomycota comprises approximately 800 described
-species of zoosporic fungi, defined traditionally by the
+species of [[anaerobic-zoosporic-fungi]], defined traditionally by the
 presence of a single posteriorly inserted smooth flagellum
 (Barr 2001). As the only fungi that retain a flagellated
 stage in their [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], chytrids represent the most
-basal lineage of the Kingdom Fungi, consistent with a
-choanoflagellate-like ancestor. At the time molecular methods
+basal lineage of the [[fungal-taxonomy-and-kingdom-fungi]], consistent with a
+choanoflagellate-like ancestor. At the time [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]
 came into use, some mycologists doubted that chytrids were
 true fungi, but their inclusion in the kingdom has been
 confirmed based on rDNA evidence (Forster et al. 1990; Bowman
@@ -71,7 +71,7 @@ additional chytrid diversity will be uncovered when more
 chytrids with unique zoospore types are included in
 phylogenetic analyses. Some chytrids with unique zoospore
 morphologies have not been classified in previously existing
-orders. Notably, Batrachochytrium dendrobatidis, the chytrid
+orders. Notably, [[batrachochytrium-dendrobatidis]], the chytrid
 pathogen associated with global [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], does not
 fall within any of the groups defined on the basis of DNA
 characters. This finding underscores how little is known
@@ -86,53 +86,4 @@ may be an important factor in the global decline of amphibian
 populations (Daszak et al. 1999, 2000; Longcore et al. 1999).
 This ecological crisis has highlighted how poorly understood
  chytrid diversity remains, despite the phylum's fundamental
-importance in fungal evolution and ecosystem functioning.
-
-## Ecological Roles
-
-Chytrids occupy diverse ecological niches:
-
-- **Aquatic decomposers**: Many chytrids are saprobes in
-  freshwater and marine environments, decomposing pollen,
-  chitin, keratin, cellulose, and other organic materials.
-- **Parasites of algae**: Chytrid parasites can significantly
-  affect algal population dynamics in aquatic ecosystems.
-- **Plant parasites**: Some chytrids parasitize aquatic plants
-  and terrestrial plant roots.
-- **Soil fungi**: Various chytrids occur in soil, contributing
-  to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and decomposition processes.
-- **Gut symbionts**: The Neocallimastigales are obligate
-  anaerobes in herbivore digestive tracts.
-
-## Sampling Challenges
-
-Chytrids present unique challenges for biodiversity surveys.
-Their microscopic size, aquatic habitat requirements, and
-lack of conspicuous fruiting structures mean they are
-routinely overlooked in standard fungal inventories. Special
-techniques, including baiting with substrata such as pollen,
-  chitin, or cellulose, and direct [[fungal-microscopic-examination-mounting-media-techniques]]
-  of water samples and soil extracts, are required for
-  detection. See biodiversity-fungi-molecular-methods for discussion
-  of sampling approaches.
-
-## Key Conclusions
-
-- The orders recognized on the basis of zoospore morphology
-  are generally well supported by molecular characters.
-- A core group of Chytridiomycota forms a clade, but the
-  traditional phylum as a whole is not monophyletic.
-- The Blastocladiales may represent an independent lineage.
-- Substantial undescribed diversity is predicted, especially
-  among taxa with unique zoospore morphologies.
-- Comprehensive sampling and molecular characterization of
-  chytrids remain critical research priorities.
-
-## See Also
-
-- [[biodiversity-ascomycete-diversity-taxonomy]]
-- fungal-diversity-extreme-environments
-- biodiversity-fungi-molecular-methods
-- [[decomposition]]
-- [[zoosporic-fungi]]
-- [[batrachochytrium-dendrobatidis]]
+importance in [[bloomfield-chytrid-fungi-early-fungal-evolution]] and ecosystem functioning.

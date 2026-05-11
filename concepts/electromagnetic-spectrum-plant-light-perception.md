@@ -1,5 +1,5 @@
 ---
-title: Electromagnetic Spectrum and Plant [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
+title: Electromagnetic Spectrum Plant Light Perception
 created: 2026-05-09
 tags: [physics, plant-biology, electromagnetic-spectrum, light, photoreception]
 date: 2026-05-09
@@ -31,7 +31,7 @@ frequencies:
   long
 - **Microwaves**: ~1 mm to 1 m. Used for radar, cooking
 - **Infrared**: ~700 nm to 1 mm. Felt as heat, not visible
-- **Visible light**: ~380-700 nm. Detected by both humans and plants
+- **[[plant-photoreception-visible-light]]**: ~380-700 nm. Detected by both humans and plants
 - **Ultraviolet**: ~100-380 nm. Causes sunburn in humans, detected by
   plants
 - **X-rays**: ~0.01-10 nm. Extremely short, pass through soft tissue
@@ -39,7 +39,7 @@ frequencies:
   radiation
 
 Light waves, in the middle of this range, span 0.0000004 to 0.0000007
-metres (400-700 nanometres). Blue light has the shortest wavelength in
+metres (400-700 nanometres). [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] has the shortest wavelength in
 the visible range, red the longest, with green, yellow, and orange in
 between — which is why rainbows always display the same colour ordering.
 
@@ -82,67 +82,8 @@ plants:
 ### Light as Energy (Photosynthesis)
 
 - Chlorophyll a and b absorb primarily blue (~430 nm) and red (~660 nm)
-- Driven by photon capture to fuel carbon fixation
+- Driven by photon capture to fuel [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
 - Quantity of light matters more than quality
 - Operates across the PAR range (400-700 nm)
 
 ### Light as Information (Photomorphogenesis)
-
-- Specific wavelengths trigger specific developmental responses
-- Quality and timing of light matter more than quantity
-- Operates via dedicated photoreceptors (phytochromes, cryptochromes,
-  phototropins, UVR8)
-- Low light levels can carry significant information (as Darwin's
-  experiments demonstrated)
-
-## Spectral Bands in Plant Biology
-
-### Photosynthetically Active Radiation (PAR): 400-700 nm
-
-The range of wavelengths that plants use for photosynthesis. This is the
-most fundamental [[cervantes-light-measurement-meters]] for plant growth but does not capture
-the informational roles of specific wavelengths.
-
-### UV-B: 280-315 nm
-
-Detected by UVR8 photoreceptor. Triggers protective responses including
-flavonoid biosynthesis. Important for both stress protection and, in some
-cases, the production of [[antifungal-secondary-metabolites-coprophilous-fungi]] of commercial interest.
-
-### UV-A / Blue: 320-500 nm
-
-Detected by cryptochromes and phototropins. Controls phototropism,
-[[plant-circadian-rhythms]], stomatal opening, and chloroplast positioning.
-
-### Green Light: 500-600 nm
-
-Interestingly, green is the least absorbed wavelength by plant
-photoreceptors and chlorophyll — which is why plants appear green.
-Green light penetrates deeper into canopies than red or blue.
-
-### Red / Far-Red: 600-800 nm
-
-Detected by phytochromes. The red:far-red ratio signals shade
-detection and photoperiod. Far-red penetrates canopy foliage more
-effectively than red, creating the shade signal that triggers
-avoidance responses.
-
-## Practical Applications
-
-Understanding the electromagnetic spectrum's relationship to plant
-perception enables:
-
-- **Spectrum engineering**: Designing grow lights that target specific
-  photoreceptor responses
-- **Greenhouse film selection**: Choosing materials with appropriate
-  spectral transmission properties
-- **Canopy management**: Understanding how light quality changes within
-  dense plant canopies informs pruning and spacing decisions
-- **UV supplementation**: Controlled UV exposure to stimulate protective
-  compound production without causing damage
-
-## See Also
-
-- [[phytochrome-and-plant-photoperiodism]]
-- [[phototropism-and-darwins-light-experiments]]
-- [[plant-photoreception-visible-light]]

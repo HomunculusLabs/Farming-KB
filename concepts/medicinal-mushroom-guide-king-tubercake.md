@@ -1,5 +1,5 @@
 ---
-title: King Tubercake (Pleurotus tuber-regium) — Medicinal Mushroom Guide
+title: Medicinal Mushroom Guide King Tubercake
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms. (see [[medicinal-mushroom-guide-chaga]]).
+King tubercake, also known as the king tuber mushroom, is a unique [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]] that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
 
-The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its medicinal properties. (see [[tricholoma-lobayense]]).
+The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its [[ginseng-cultivation-and-medicinal-properties]].
 
 ## Distribution and Ecology
 
@@ -30,7 +30,7 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 - **Proteoglycans:** Protein-bound polysaccharides with anti-tumor and immune-enhancing activity.
 - **Triterpenoids:** Anti-inflammatory compounds found in both sclerotia and fruiting bodies.
 - **Ergosterol and ergosterol peroxide:** Sterol compounds with antioxidant and anti-tumor properties.
-- **Phenolic compounds:** Including flavonoids with antioxidant activity.
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Including flavonoids with antioxidant activity.
 - **Lectins:** Sugar-binding proteins with immunomodulatory and anti-cancer properties.
 - **Dietary fiber:** Both sclerotia and fruiting bodies are rich in chitin and other fungal polysaccharides.
 
@@ -39,7 +39,7 @@ The species name "tuber-regium" means "royal tuber," reflecting the high esteem 
 P. tuber-regium has a rich history in African ethnomedicine:
 
 ### Traditional Applications
-- **Respiratory conditions:** Treatment of asthma, bronchitis, coughs, and chest congestion.
+- **[[cannabis-respiratory-conditions]]:** Treatment of asthma, bronchitis, coughs, and chest congestion.
 - **Digestive health:** Treatment of diarrhea, dysentery, and stomach ailments.
 - **Wound healing:** Pounded sclerotia applied topically to wounds, ulcers, and skin infections.
 - **Diabetes management:** Sclerotium tea used traditionally to control blood sugar.
@@ -50,11 +50,11 @@ P. tuber-regium has a rich history in African ethnomedicine:
 
 ## Immune System Research
 
-P. tuber-regium is one of the most immunologically active African mushrooms:
+P. tuber-regium is one of the most immunologically active [[termitomyces-african-mushrooms]]:
 
 ### Beta-Glucan Effects
 - Potent activation of macrophages, NK cells, and neutrophils.
-- Enhances phagocytic activity and reactive oxygen species production by immune cells.
+- Enhances phagocytic activity and [[reactive-oxygen-species-and-oxidative-stress]] production by immune cells.
 - Stimulates pro-inflammatory cytokine production (IL-1, IL-6, TNF-alpha) at appropriate levels for pathogen defense.
 - Promotes dendritic cell maturation and antigen presentation.
 
@@ -70,7 +70,7 @@ P. tuber-regium is one of the most immunologically active African mushrooms:
 - Beta-glucans enhance immune-mediated tumor destruction.
 - Anti-angiogenic effects documented.
 - Synergistic effects with chemotherapy drugs reported in vitro.
-- Most research is preclinical — human clinical trials are needed.
+- Most research is preclinical — human [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] are needed.
 
 ## Metabolic Health
 
@@ -94,7 +94,7 @@ P. tuber-regium is one of the most immunologically active African mushrooms:
 ## Anti-Inflammatory and Antioxidant
 
 - Significant free radical scavenging activity (DPPH, ABTS assays).
-- Reduces lipid peroxidation and oxidative stress markers.
+- Reduces lipid peroxidation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
 - Inhibits COX-2 and iNOS expression, reducing inflammatory mediator production.
 - NF-kB pathway inhibition.
 - Demonstrated anti-arthritic activity in animal models.
@@ -115,7 +115,7 @@ The sclerotium is the primary part used medicinally in Africa:
 
 - **Decoction:** Boil sliced or pounded sclerotium in water for 30-60 minutes. Strain and drink as tea.
 - **Powder:** Dried sclerotium ground into powder. Added to food, drinks, or taken in capsules.
-- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — traditional preparation for children and convalescents.
+- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — [[kava-traditional-preparation-ceremonial-context]] for children and convalescents.
 - **Topical:** Fresh sclerotium pounded into a paste for wound application.
 
 ### Fruiting Body Preparation

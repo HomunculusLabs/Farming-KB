@@ -1,10 +1,11 @@
 ---
-title: Sepp sepp holzer earth cellars and philosophy Cellars, Clay Building, and Concluding Philosophy
+title: Sepp Holzer Earth Cellars And Philosophy
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -24,10 +25,10 @@ Earth cellars are a fundamental element of Holzer's permaculture infrastructure,
 
 ### Construction
 - Built using excavator for initial earthworks
-- Clay and loam available on site in abundance is the primary building material
+- Clay and loam available on site in abundance is the primary [[bamboo-as-building-material]]
 - Simple construction technique using local materials
 - Very low construction cost
-- Traditional building methods adapted to permaculture needs
+- Traditional [[query-what-are-the-best-natural-building-methods]] adapted to permaculture needs
 
 ### Applications Across Projects
 - Krameterhof: extensive earth cellar system for farm produce
@@ -58,7 +59,7 @@ A unique [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] in Bad 
 - Heavily scented and aromatic flowers and herbs
 - Delicious berries and fruit for smell and taste
 - Brightly coloured flowers and eye-catchers leading through labyrinth
-- Different natural materials (stone, wood, water) for touch
+- Different [[building-with-natural-materials]] (stone, wood, water) for touch
 - Currently under construction with view of Mediterranean garden
 
 **Activity Garden**
@@ -87,38 +88,3 @@ Holzer consistently recommends natural water treatment systems across his projec
 - Regenerate and use surface and ground water
 - Treatment ponds with appropriate plants, aeration, and filtering
 - Deep wells for clean water access
-
-### Pump Systems
-- Water-powered pumps for energy saving
-- [[holmgren-wind-power-and-renewable-energy-debate]] options
-- Electricity from photovoltaic cells
-
-## Holzer's Concluding Philosophy
-
-### Central Idea
-"Try putting yourself in the position of your fellow creatures, whether they are plants or animals, and you will quickly find out whether the environment that you intend for them is right or not. If you observe a plant or animal closely, you will quickly see if it is happy. However, if you would not want to live in that environment as a plant or animal, then change the living conditions there quickly! Only animals that live happy lives will work for you day and night and you will be the biggest winner as the owner of a healthy plant and animal kingdom."
-
-### Critique of Modern Agriculture
-- Livestock kept in increasingly cramped conditions
-- Feeding automated and controlled by computers
-- Contact with livestock lost; animals seen as commodity
-- "You can only expect healthy produce from a healthy animal"
-- Animal suffering is passed on to people
-
-### The Agricultural Rebel
-- Holzer took over his parents' mountain farm in 1962
-- Pioneered ecological farming/permaculture at ~5,000 feet altitude after conventional methods failed
-- Fined and threatened with prison for practices like not [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] trees
-- Conducts permaculture seminars at his farm and worldwide
-- Works nationally as permaculture activist in established agricultural industry
-- International adviser for ecological agriculture
-
-### Core Belief
-"Nature is perfect in all of its creation, only we humans make mistakes."
-
-### The Holzer Family
-- Mag. Claudia Holzer: biologist, dissertation on species diversity of insects in Krameterhof [[comparison-chinampas-vs-raised-bed-gardening]] systems, works in ecological education and permaculture
-- Josef Andreas Holzer: studied forestry, then ecology and biodiversity, works intensively with permaculture principles
-
-See also: [[sepp-holzer-terrace-systems-and-raised-beds]], [[permaculture-building-design]], [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
-- mollison-permaculture-two-earth-houses-plant-shelters

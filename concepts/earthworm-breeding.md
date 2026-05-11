@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Earthworm Breeding
 
-Earthworms are among the most important helpers in every garden. Breeding them is inexpensive, requires very little time, and produces high-quality compost while disposing of organic waste. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+Earthworms are among the most important helpers in every garden. Breeding them is inexpensive, requires very little time, and produces high-quality compost while disposing of organic waste.
 
 ## Earthworm Species
 
@@ -35,7 +35,7 @@ Three main species complement each other in their work:
 
 ### Small Scale (Wooden Box)
 
-A wooden box with a capacity of one cubic metre is enough. (see [[comparison-black-soldier-fly-vs-vermicomposting]]).
+A wooden box with a capacity of one cubic metre is enough.
 
 ### Substrate
 
@@ -53,10 +53,10 @@ The soil should be loose and well aerated.
 
 - Any cooking waste can be used as food
 - Onions and garlic should be avoided — worms do not seem to like them
-- Worms particularly like used coffee filters complete with coffee grounds
-- Provide a regular supply of organic matter
+- Worms particularly like used coffee filters complete with [[oyster-mushroom-coffee-grounds-cultivation]]
+- Provide a regular supply of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - Adjust the amount of food to the number of earthworms
-- If worms can break down food as quickly as new food accumulates, the rate is optimal
+- If worms can [[query-can-fungi-break-down-plastic-pollution]] food as quickly as new food accumulates, the rate is optimal
 - This prevents harmful build-ups of mould
 
 ### Environmental Conditions
@@ -78,7 +78,7 @@ In greenhouses, worms can be bred directly in the soil instead of boxes: cover t
 
 ## Using Worm Products
 
-- Scatter bred worms along with soil and worm eggs over new terraces and raised beds (in the evening, during wet weather)
+- Scatter bred worms along with soil and worm eggs over new terraces [[sepp-holzer-terrace-systems-and-raised-beds]] (in the evening, during wet weather)
 - Use nutrient-rich, fine crumbly worm humus for especially valuable and demanding plants
 - Also suitable for flowers on balconies
 

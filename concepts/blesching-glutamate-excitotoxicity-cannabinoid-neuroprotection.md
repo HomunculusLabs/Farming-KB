@@ -1,6 +1,6 @@
 # Glutamate, Excitotoxicity, and Cannabinoid Neuroprotection
 
-**Source:** The Cannabis Health Index (Blesching, 2015)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
 
 ## Overview
 
@@ -33,10 +33,10 @@ glutamate, causing inflammation, damage, or death to nervous system cells.
 5. If unchecked, the neuron dies
 
 ### Conditions Linked to Excess Glutamate
-- Anxiety disorders and insomnia
+- Anxiety [[cannabis-sleep-disorders-and-insomnia]]
 - Autism spectrum disorders
-- Parkinson's disease and multiple sclerosis
-- Seizure disorders and increased stroke risk
+- Parkinson's disease [[cannabis-and-multiple-sclerosis]]
+- [[cannabis-for-epilepsy-and-seizure-disorders]] and increased stroke risk
 - Elevated acetylcholine, amplifying anxiety, restlessness, and fear
 
 ## The Endocannabinoid System as Glutamate Regulator
@@ -51,7 +51,7 @@ plasticity. The ECS has a dual capacity:
   protecting neurons from excitotoxic damage
 
 ### The Stress-Glutamate-Cannabinoid Connection
-Chronic stress reduces natural endocannabinoid production and receptor
+Chronic stress reduces [[blesching-anandamide-exercise-natural-endocannabinoid-enhancement]] production and receptor
 sensitivity, removing a critical biological mechanism for controlling
 glutamate. This creates a vicious cycle: stress depletes the ECS, unregulated
 glutamate increases anxiety, which further depletes the ECS.
@@ -82,47 +82,9 @@ neurological illness for different reasons.
 
 ### Stress Reduction
 Reducing fear, worry, and stress lowers glutamate through HPA axis modulation.
-The adrenal stress hormones feed back to increase brain glutamate levels.
+The adrenal [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] feed back to increase brain glutamate levels.
 
 ### Cannabinoid Therapy
 CB1-activating cannabinoids regulate glutamate through:
 1. Presynaptic CB1 activation reducing excessive glutamate release
 2. Anti-inflammatory effects breaking the inflammation-glutamate feedback loop
-3. CB2 activation on microglia reducing neuroinflammation driving excitotoxicity
-
-### Magnesium Supplementation
-Magnesium acts as a natural NMDA receptor blocker, preventing the calcium
-influx that drives excitotoxicity. Combined with cannabinoid therapy, magnesium
-provides complementary neuroprotection.
-
-## Clinical Applications
-
-### Neurodegenerative Disease Prevention
-Reducing glutamate exposure and supporting ECS function may slow or prevent
-neurodegenerative processes in Alzheimer's, Parkinson's, and ALS.
-
-### Seizure Management
-CBD is noted for reducing seizure frequency, potentially through CB2-mediated
-anti-inflammatory and glutamate-regulating pathways.
-
-### Traumatic Brain Injury
-Following TBI, glutamate levels spike dramatically. Early cannabinoid
-administration may reduce secondary excitotoxic damage. This represents a
-promising area for emergency medicine and sports medicine research, where
-rapid intervention could preserve brain tissue.
-
-## Dosing Considerations
-
-The therapeutic window for glutamate modulation is nuanced. Low-to-moderate
-CB1 activation supports healthy glutamate regulation, while excessive
-activation may temporarily increase glutamate release. Patients with seizure
-disorders or neurodegenerative conditions should work with experienced
-clinicians to find their optimal cannabinoid profile and dosing strategy.
-
-## See Also
-
-- [[blesching-cannabis-gaba-glutamate-endocannabinoid-system]]
-- [[blesching-gaba-endocannabinoid-system-anxiety-relaxation]]
-- [[blesching-dopamine-motivation-adhd-ptsd-cannabinoid-modulation]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]

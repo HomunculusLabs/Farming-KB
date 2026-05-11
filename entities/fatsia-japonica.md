@@ -43,7 +43,7 @@ Small white flowers appear in late autumn as terminal panicles, followed by smal
 
 The leaves are alternate, palmate with 7 to 9 deep lobes, each lobe narrowly ovate and serrate. Leaf blades measure 15 to 35 cm across on stout petioles 10 to 30 cm long.
 
-The upper leaf surface is dark green and lustrous, while the lower surface is paler and slightly pubescent. Juvenile leaves tend to be larger and more deeply lobed than mature foliage.
+The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and lustrous, while the lower surface is paler and slightly pubescent. Juvenile leaves tend to be larger and more deeply lobed than mature foliage.
 
 Stems are stout, greenish-gray, and bear prominent leaf scars from fallen foliage. The bark becomes slightly rough with age but remains relatively smooth compared to many woody shrubs.
 
@@ -61,9 +61,9 @@ It occurs at elevations from sea level to approximately 800 meters. The species 
 
 It commonly grows along stream banks, in forest ravines, and on shaded rocky slopes. In its native habitat, it forms part of the evergreen broadleaved forest understory alongside ferns, camellias, and other shade-tolerant species.
 
-*Fatsia japonica* has naturalized in parts of New Zealand, the British Isles, and the Pacific Northwest of North America. In these regions, it spreads primarily through bird-dispersed seeds and is generally considered a minor garden escape rather than an aggressive invader.
+*Fatsia japonica* has naturalized in parts of New Zealand, the British Isles, and the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]]. In these regions, it spreads primarily through bird-dispersed seeds and is generally considered a minor garden escape rather than an aggressive invader.
 
-The species shows moderate salt tolerance, allowing it to perform well in coastal garden situations. It is increasingly planted in Mediterranean-climate regions where irrigation is available during dry periods.
+The species shows moderate [[fungal-salt-tolerance-and-ion-homeostasis]], allowing it to perform well in coastal garden situations. It is increasingly planted in Mediterranean-climate regions where irrigation is available during dry periods.
 
 ## Cultivation
 
@@ -73,7 +73,7 @@ Strong direct sunlight causes leaf yellowing and marginal burn, particularly in 
 
 It tolerates a wide range of soil types including clay, loam, and sandy soils provided adequate moisture is available. Mulching annually with compost or leaf mold benefits growth significantly and conserves soil moisture.
 
-Propagation is straightforward by semi-hardwood cuttings taken in late summer, which root readily under mist. Seed propagation is possible but slower, requiring stratification at 4°C for 60 to 90 days before sowing.
+Propagation is straightforward by semi-hardwood cuttings taken in late summer, which root readily under mist. [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slower, requiring stratification at 4°C for 60 to 90 days before sowing.
 
 Germination typically occurs within 30 to 60 days at 15 to 20°C. Division of established clumps in early spring is another reliable propagation method for mature plants.
 
@@ -87,41 +87,4 @@ It pairs well with ferns, hostas, and hellebores in shade-garden compositions. T
 
 ## Uses and Ethnobotany
 
-In traditional Japanese medicine (*Kampo*), extracts from *Fatsia japonica* leaves and roots have been used to treat coughs, inflammation, and skin conditions. The plant contains triterpenoid saponins, including hederagenin glycosides, which demonstrate anti-inflammatory and expectorant properties in laboratory studies.
-
-Research published in the *Journal of Ethnopharmacology* has identified oleanolic acid and its derivatives as the primary bioactive constituents. These compounds show anti-tumor, hepatoprotective, and immunomodulatory activities in vitro.
-
-However, clinical validation in humans remains limited. The plant's pharmacological potential is an active area of research in Japanese and Korean institutions.
-
-The leaves have been historically used as a wrapping material in parts of rural Japan. The strong, flexible foliage was also employed as a temporary container or serving surface for foods in traditional settings.
-
-The plant's common name "paper plant" refers to the use of its pith in paper-like crafts. In contemporary landscaping, *Fatsia japonica* is valued as one of the most reliable evergreen shrubs for deep shade.
-
-It is extensively planted in urban environments where building shade limits plant choices. The Royal Horticultural Society has awarded it the Award of Garden Merit (AGM).
-
-The hybrid *x Fatshedera lizei*, a cross between *Fatsia japonica* and *Hedera helix*, combines the shrub's bold leaves with ivy's climbing habit. This intergeneric hybrid was created in 1910 in the Lisê nursery in Nantes, France.
-
-## Pests and Diseases
-
-*Fatsia japonica* is relatively pest-resistant but can be affected by several common ornamental plant problems. Scale insects, particularly soft brown scale (*Coccus hesperidum*), may colonize stems and leaf undersides in sheltered indoor or greenhouse settings.
-
-Mealybugs also occasionally infest specimens grown indoors. Regular inspection and treatment with horticultural oil or insecticidal soap controls these pests effectively.
-
-Leaf spots caused by fungal pathogens including *Phyllosticta* species can develop during wet seasons. These typically present as small, circular brown spots with yellow halos on the foliage.
-
-Good air circulation and avoidance of overhead watering minimize infection risk. Southern blight (*Sclerotium rolfsii*) can affect plants in warm, humid conditions, causing basal stem rot.
-
-Infected plants show wilting and white mycelial growth at the soil line. Phytophthora root rot may occur in poorly drained or waterlogged soils, particularly in container-grown specimens.
-
-Frost damage is the most common environmental problem in colder zones. Leaves exposed to cold drying winds develop brown, scorched margins.
-
-Protecting plants with burlap screens or siting them in sheltered microclimates prevents winter injury. Indoor specimens may develop spider mites in dry heated environments during winter months.
-
-## See Also
-
-- [[hedera-helix]]
-- [[aralia-racemosa]]
-- [[panax-ginseng]]
-- [[oplopanax-horridus]]
-- [[panax-quinquefolius]]
-- [[aralia-nudicaulis]]
+In traditional Japanese medicine (*Kampo*), extracts from *Fatsia japonica* leaves and roots have been used to treat coughs, inflammation, and [[cannabis-for-skin-conditions-detailed]]. The plant contains triterpenoid saponins, including hederagenin glycosides, which demonstrate anti-inflammatory and expectorant properties in laboratory studies.

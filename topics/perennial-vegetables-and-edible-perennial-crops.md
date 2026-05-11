@@ -5,6 +5,7 @@ tags: [perennials, vegetables, permaculture, food-forests, gardening, soil]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - /Users/t3rpz/wiki/concepts/perennial-vegetables.md
   - /Users/t3rpz/wiki/concepts/gaias-garden-perennial-vegetables.md
   - /Users/t3rpz/wiki/concepts/hemenway-perennial-vegetables.md

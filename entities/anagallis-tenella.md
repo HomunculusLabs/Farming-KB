@@ -51,11 +51,11 @@ Anagallis tenella is native to western and northern Europe, with a distribution 
 
 The species reaches its greatest abundance in the Atlantic fringe of Europe, particularly in Ireland, western Britain, western Norway, and the coastal regions of Brittany and northwest Spain.
 
-Disjunct populations occur in central European mountain ranges, including the Alps and the Carpathians, where the species occupies alpine and subalpine bog habitats.
+Disjunct populations occur in [[psilocybe-bohemica-central-european]] mountain ranges, including the Alps and the Carpathians, where the species occupies alpine and subalpine bog habitats.
 
 The plant is found in wet, acidic habitats including raised bogs, blanket bogs, bog margins, wet heathland, damp peaty grassland, and the edges of mountain streams and pools.
 
-It requires consistently moist to saturated conditions with low nutrient availability. The species is intolerant of both prolonged drought and standing water deeper than a few centimeters.
+It requires consistently moist to saturated conditions with low [[ph-and-nutrient-availability-garden-soils]]. The species is intolerant of both prolonged drought and standing water deeper than a few centimeters.
 
 Soil preference is strongly acidic, with optimal pH in the range of 4.0–5.5. It is typically found in association with Sphagnum mosses and other acidophilous bog species.
 
@@ -67,17 +67,17 @@ The species is absent from areas with calcareous or alkaline soils. Its restrict
 
 The flowers of Anagallis tenella are visited by small bees, flies, and beetles, though pollination biology has received limited formal study. The open cup-shaped flowers provide easy access to nectar.
 
-The prostrate growth form is an adaptation to the exposed conditions of open bog habitats, where wind would damage upright stems. The rooting at nodes also provides vegetative propagation and colony expansion.
+The prostrate growth form is an adaptation to the exposed conditions of open bog habitats, where wind would damage upright stems. The rooting at nodes also provides [[hamilton-vegetative-propagation]] and colony expansion.
 
 Bog pimpernel typically flowers from June through September, with the peak flowering period in July and August. In mild oceanic climates, flowering may extend into October.
 
-The species is moderately palatable to herbivores, though grazing pressure in bog habitats is typically low. Heavy grazing can reduce populations by damaging the shallow root system.
+The species is moderately palatable to herbivores, though [[gadd-mycelial-network-resilience-grazing-pressure]] in bog habitats is typically low. Heavy grazing can reduce populations by damaging the shallow root system.
 
 Dead plant material contributes to peat formation in bog ecosystems. The fibrous stems and roots decompose slowly in the anaerobic conditions of saturated peat.
 
-The species plays a modest role in nutrient cycling within bog systems. Its fine root network helps stabilize the bog surface and contributes to the retention of organic matter.
+The species plays a modest role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within bog systems. Its fine root network helps stabilize the bog surface and contributes to the retention of organic matter.
 
-Anagallis tenella is commonly associated with other bog species including Sphagnum mosses, Erica tetralix, Eriophorum angustifolium, Drosera rotundifolia, and Narthecium ossifragum.
+Anagallis tenella is commonly associated with other bog species including Sphagnum mosses, Erica tetralix, Eriophorum angustifolium, [[drosera-rotundifolia]], and Narthecium ossifragum.
 
 Seed set is typically moderate to high in favorable years, though seed viability in the soil seed bank has not been well quantified. The tiny seeds are likely dispersed by water movement across bog surfaces.
 
@@ -88,32 +88,3 @@ Bog pimpernel is occasionally cultivated in specialized rock gardens, bog garden
 The plant can be propagated by seed or by division of established mats. Seed germination requires cool, moist conditions and light exposure.
 
 Cultivation in containers using a peat-based medium with added sand and perlite is often more successful than open-ground planting. The soil must never be allowed to dry out during the growing season.
-
-No significant traditional medicinal uses have been recorded for Anagallis tenella. Its close relative Anagallis arvensis has a history of use in traditional European folk medicine, but bog pimpernel has not been similarly documented.
-
-The species has value as an indicator of healthy, undisturbed bog habitat. Its presence in a wetland community generally indicates high ecological quality and minimal drainage disturbance.
-
-## Conservation and Status
-
-Anagallis tenella is declining across much of its European range and is classified as Near Threatened on the IUCN European Red List. The primary threats are wetland drainage, peat extraction, agricultural intensification, and climate change.
-
-In the United Kingdom, the species has been lost from many lowland sites due to agricultural drainage and afforestation of peatland. Remaining populations are concentrated in western and northern areas with intact bog systems.
-
-The species is protected under national legislation in several European countries, including Germany and Switzerland. It is listed on the Red Lists of multiple European nations.
-
-Conservation efforts focus on protecting and restoring wet bog habitats through rewetting drained peatlands, restricting peat extraction, and maintaining appropriate grazing regimes in bog reserves.
-
-Climate change poses a significant long-term threat through increased summer temperatures and drought frequency. Atlantic bog species with narrow climatic tolerances, including Anagallis tenella, are considered particularly vulnerable.
-
-## See Also
-
-- [[anagallis-arvensis]]
-- [[primula-vulgaris]]
-- [[lysimachia-nummularia]]
-- [[lysimachia-vulgaris]]
-- [[juncus-effusus]]
-- [[sphagnum-palustre]]
-- [[dodecatheon-meadia]]
-- [[sagittaria-latifolia]]
-- [[eichhornia-crassipes]]
-- [[pontederia-cordata]]

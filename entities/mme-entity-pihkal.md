@@ -88,18 +88,3 @@ A solution of 14 g of the distilled, solid 4-ethoxy-3-methoxyphenol in
 MeOH. There was then added 11.9 g methyl iodide, and the mixture was
 held at reflux temperature for 2 h. The reaction was quenched with 3
 volumes H2O, made strongly basic by the addition of 1 volume of 5%
-NaOH, and extracted with 2x150 mL Et2O. Pooling the extracts and
-removal of the solvent under vacuum gave 9.7 g of
-2,4-dimethoxy-1-ethoxybenzene as a clear, off-white oil that showed a
-single peak by GC. An acceptable alternate synthesis of this ether is
-the ethylation of 2,4-dimethoxyphenol, which is described in the
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-## See Also
-
-- [[tma-2-entity]]-pihkal
-
-- [[p-entity]]

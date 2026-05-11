@@ -88,16 +88,3 @@ Mycorrhizal fungi can degrade pharmaceuticals and pesticides through incorporati
 
 - **Low environmental concentrations**: Pharmaceuticals occur at trace levels (ng/L-μg/L) that may not induce fungal enzyme production
 - **Complex matrices**: Wastewater contains many competing substrates and potential inhibitors
-- **Incomplete mineralization**: Many transformations produce metabolites of unknown toxicity
-- **Mixture effects**: Pharmaceuticals rarely occur alone; interactive effects on fungal degradation are poorly understood
-- **Regulatory gaps**: No established standards for pharmaceutical removal from wastewater
-
-## See Also
-
-- [[staycare-laccase-enzymes-in-bioremediation]]
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]]
-- [[phanerochaete-chrysosporium]].
-- Hoff, T., Liu, S.Y. & Bollag, J.M. (1985). Polymerization of chloroanilines by laccase of [[trametes-versicolor-entity]].
-- Khadrani, A. et al. (1999). Degradation of phenylurea herbicides by micromycetes.
-- Maloney, S.E. Chapter 8: Pesticide degradation by fungi. In Staycare.
-- Mougin, C. et al. (1994). Biotransformation of atrazine by [[staycare-phanerochaete-chrysosporium-in-bioremediation]].

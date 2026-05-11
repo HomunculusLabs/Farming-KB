@@ -88,17 +88,3 @@ clean, organized environment reduces contamination risks and improves results.
 ## Quality Assessment
 
 Evaluating the quality of cannabis products involves assessing multiple factors
-including cannabinoid profile, terpene content, appearance, aroma, and
-consistency. Laboratory testing provides the most accurate analysis, but
-sensory evaluation also plays an important role. Understanding the relationship
-between starting material quality, processing methods, and final product
-characteristics helps practitioners refine their techniques over time.
-
-## Regulatory Context
-
-The legal status of cannabis varies significantly by jurisdiction. Practitioners
-must be aware of and comply with all applicable local, state, and national
-regulations regarding cultivation, processing, and distribution. This includes
-licensing requirements, testing mandates, labeling standards, and packaging
-regulations. Staying informed about regulatory changes is essential for anyone
-working with cannabis products professionally.

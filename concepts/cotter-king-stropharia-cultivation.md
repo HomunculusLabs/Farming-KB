@@ -1,5 +1,5 @@
 ---
-title: "cotter king stropharia cultivation Cultivation"
+title: Cotter King Stropharia Cultivation
 created: 2026-04-28
 tags: [king-stropharia, wine-cap, garden-giant, wood-chips, outdoor-cultivation]
 date: 2026-04-25
@@ -14,13 +14,13 @@ type: concept
 King stropharia (Stropharia rugoso-annulata), also known as the wine cap or
 garden giant, is one of the top three [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] alongside oysters
 and shiitakes. This easy-to-grow, easy-to-identify species thrives on hardwood
-chips and agricultural by-products, producing massive flushes in outdoor beds.
+chips and agricultural by-products, producing massive flushes in [[holzer-mushroom-cultivation-outdoor-beds]].
 Its sweet-smelling mycelium and resilience make it ideal for gardens,
-community plots, and mycoremediation applications.
+community plots, and [[mycoremediation-applications]].
 
 ## Species Characteristics and Ecology
 
-King stropharia mycelium is white and linear, exuding a light yellow metabolite
+King stropharia mycelium is white and linear, exuding a light [[yellow-metabolite-excretion-mycelial-stress-indicator-grain-spawn]]
 on overcolonized substrates with a characteristically sweet smell. The cap is
 tan to dark burgundy, centered on the stem, with smaller buttons being darker
 and more firm. As mushrooms mature, pigments spread and the cap lightens to
@@ -71,7 +71,7 @@ cereal straws, and hulls pasteurized in a hot water bath for one to two hours.
 Drain, cool, inoculate, and stuff substrate into trays, buckets, or bags. Once
 colonization is complete (three to five weeks depending on temperature and spawn
 type), dress with 2 to 3 inches of moist casing soil and water generously.
-Grain spawn fruits much sooner and produces larger yields than sawdust spawn
+Grain spawn fruits much sooner and produces larger yields than [[comparison-grain-spawn-vs-sawdust-spawn]]
 indoors. Expect two rapid flushes several weeks apart with average yields.
 
 Recycled nursery pots work well for indoor king stropharia. Fill pots tightly
@@ -87,50 +87,4 @@ King stropharia is one of the easiest wild mushrooms to isolate on cardboard.
 Wrap stem bases, full of thick mycelium and beneficial microbes from soil and
 wood chips, in wet cardboard and place in a ziplock bag in the refrigerator.
 The stem bases revert to mycelial state, quickly colonizing the cardboard.
-Remove the fleshy stem base after colonization to prevent mold. Blend stem
-bits with distilled water to make a microbial slurry for planted beds, stored
-in a jar in the refrigerator for months.
-
-In the laboratory, this genus clones easily from cap tissue (stem tissue is
-stringy and less reliable). Spore germinations are very reliable. Commercial
-spawn is usually available as [[oyster-mushroom-supplemented-sawdust-blocks]]; grain spawn exists but is
-hard to find. For maximum yields outdoors, use supplemented sawdust spawn at
-generous inoculation rates. Expect approximately 20 pounds of fresh mushrooms
-per cubic yard of wood chips, with more if chips are mixed with agricultural
-by-products.
-
-## Mycoremediation Applications
-
-King stropharia can be used for creating simple filtration modules or living
-biofilters near livestock and pond water runoff to reduce coliform entry into
-watersheds. The species has shown activity against molecular disassembly of
-hydrocarbons, making it useful for soil remediation. Methods include capping a
-contaminated area with colonized wood chips and watering to sweat enzymes into
-the soil, or using a countertop filtration unit to collect enzyme solution as
-a soil treatment or wash for cleaning fuel tanks. These filtration capabilities
-make king stropharia a practical choice for farms and properties managing
-water quality concerns.
-
-## Key Points
-
-- King stropharia is rated difficulty 1 for outdoor cultivation, making it
-  ideal for beginners
-- Outdoor beds need 6 to 8 inches of fresh hardwood chips and take 3 to 6
-  months to fruit
-- Expect approximately 20 pounds per cubic yard of wood chips with several
-  flushes per year
-- Harvest at mid-button stage; cap liquefies quickly if overwatered at maturity
-- Sweet-smelling mycelium attracts wildlife; protect beds with mesh or cardboard
-- One of the easiest species to expand from wild stem bases on cardboard
-- Protein content ranges from 20 to 24 percent dry weight depending on strain
-- Effective for coliform reduction in water runoff and hydrocarbon
-  bioremediation
-
-## See Also
-
-- [[cotter-outdoor-mushroom-garden-mulch-beds]]
-- [[cotter-mycoremediation-techniques]]
-- cotter-seven-stages-of-mushroom-cultivation
-- [[mycoremediation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
-- [[cotter-reishi-ganoderma-cultivation]]
+Remove the fleshy stem base after colonization to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]. Blend stem

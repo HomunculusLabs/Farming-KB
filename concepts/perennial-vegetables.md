@@ -9,7 +9,7 @@ sources: []
 
 # Perennial Vegetables
 
-Perennial vegetables produce harvests year after year without replanting. They reduce soil disturbance, build [[fukuoka-soil-building-method|soil building]] organic matter over time, and are central to [[food-forest-design|food forest]] and [[permaculture-design|permaculture]] systems. Once established, they provide reliable yields with minimal annual labor.
+Perennial vegetables produce harvests year after year without replanting. They reduce soil disturbance, build [[fukuoka-soil-building-method]] organic matter over time, and are central to [[food-forest-design]] and [[permaculture-design]] systems. Once established, they provide reliable yields with minimal annual labor.
 
 ## Asparagus (Asparagus officinalis)
 
@@ -28,7 +28,7 @@ The king of perennial vegetables, asparagus can produce for 15-25 years from a s
 - Stop harvesting when spears are pencil-thin (usually mid-June)
 - Let ferns grow through summer to build crown energy
 - Cut ferns to ground after frost, mulch heavily for winter
-- Fertilize with compost or balanced organic fertilizer each spring
+- Fertilize with compost or balanced [[complete-organic-fertilizer-cof]] each spring
 
 ## Rhubarb (Rheum rhabarbarum)
 
@@ -71,7 +71,7 @@ Tangy, lemon-flavored greens that emerge early in spring and persist through fal
 
 ### Varieties
 - **French sorrel (Rumex scutatus)**: Shield-shaped leaves, milder flavor, preferred for culinary use
-- **Garden sorrel (Rumex acetosa)**: Larger leaves, more tart, very vigorous
+- **Garden sorrel ([[rumex-acetosa]])**: Larger leaves, more tart, very vigorous
 - **Red-veined sorrel (Rumex sanguineus)**: Ornamental and edible, milder flavor
 
 ### Planting and Care
@@ -96,10 +96,10 @@ Also called Egyptian onions or tree onions. They reproduce by forming bulbils at
 
 ## Additional Perennial Vegetables
 
-- **Sea kale (Crambe maritima)**: Blanched shoots in spring, zone 4-8
+- **Sea kale ([[crambe-maritima]])**: Blanched shoots in spring, zone 4-8
 - **Good King Henry (Chenopodium bonus-henricus)**: Spinach-like greens, zone 3-8
 - **Skirret (Sium sisarum)**: Sweet, parsnip-like roots, zone 4-8
-- **Jerusalem artichoke (Helianthus tuberosus)**: Productive but invasive — confine with barriers
+- **[[comparison-jerusalem-artichoke-vs-potato]] ([[helianthus-tuberosus]])**: Productive but invasive — confine with barriers
 - **Stinging nettle (Urtica dioica)**: Nutritious spring greens (harvest with gloves), tea plant
 - **Hostas**: Young shoots are edible, similar to asparagus
 
@@ -107,14 +107,14 @@ Also called Egyptian onions or tree onions. They reproduce by forming bulbils at
 
 - Place perennial vegetables in dedicated beds separate from annual crop rotation areas
 - Combine with [[edible-landscaping]] in ornamental borders
-- Use as understory plants in [[food-forest-design|food forest]] systems
+- Use as understory plants in [[food-forest-design]] systems
 - Plan for long-term soil building — these beds accumulate organic matter over decades
 
 ## See Also
 
 - [[edible-landscaping]]
 - [[garden-bed-designs]]
-- [[food-forest-design|food forest]]
+- [[food-forest-design]]
 - [[container-gardening-guide]]
 
 ## Related

@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -86,12 +87,3 @@ Signs that a leaf should be kept:
 - Contributing to photosynthesis and sugar production
 - Only minor edge burn or tip damage (less than 50 percent)
 - Located on a healthy branch with good airflow
-
-## Defoliation Schedule
-
-For growers who practice systematic defoliation, a common schedule is:
-
-1. Week 2-3 of flowering: light defoliation to open the canopy and improve air circulation
-2. Week 4-5 of flowering: moderate defoliation of large fan leaves blocking bud sites
-3. Week 6-7 of flowering: minimal cleanup only; remove only dead or severely damaged leaves
-4. Week 8+: no defoliation; the plant needs all remaining leaf area for final bud maturation

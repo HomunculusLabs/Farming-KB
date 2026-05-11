@@ -1,5 +1,5 @@
 ---
-title: Mache and coleman mache and specialty winter greens Greens
+title: Coleman Mache And Specialty Winter Greens
 created: 2026-04-28
 tags:
   - winter-greens
@@ -19,9 +19,9 @@ type: concept
 Mache (Valerianella locusta), also known as lamb's lettuce or corn
 salad, is one of the most cold-tolerant and reliable winter greens.
 It continues growing right through the winter no matter how cold the
-weather, making it a cornerstone of the Four Season Farm's winter
+weather, making it a cornerstone of the [[coleman-four-season-farm]]'s winter
 harvest program. Alongside mache, several other specialty greens play
-important roles in the winter crop mix.
+important roles in the [[coleman-sunlight-and-winter-crop-growth-rates]] mix.
 
 ## Mache Growth Characteristics
 
@@ -87,55 +87,3 @@ a valuable component of the crop mix even though it cannot be
 marketed year-round.
 
 ## Other Specialty Winter Greens
-
-Several other specialty greens complement mache in the winter harvest
-program:
-
-### Claytonia (Miner's Lettuce)
-Claytonia is extremely cold-hardy and productive. It is a staple of
-the salad mix, though it is sometimes moved from colder edge beds to
-warmer inner beds for midwinter cold-house harvest to maintain
-quality. The farm has had salad mixes that were 50 percent claytonia
-during periods when other ingredients were unavailable.
-
-### Minutina
-A hardy green with long, narrow leaves that adds texture and mild
-flavor to the salad mix. Like claytonia, minutina benefits from
-increased succession plantings to ensure a steady supply of young
-leaves rather than relying on regrowth from older plantings.
-
-### Sylvetta (Wild Arugula)
-Sylvetta arugula is perfectly cold-hardy in winter conditions. It has
-a more intense, nutty flavor than standard arugula and smaller, more
-deeply lobed leaves. The farm continues to study its soil-fertility
-needs and optimal planting timing to maximize success with this
-crop.
-
-### Watercress
-Watercress adds a peppery bite to the salad mix. Cool winter
-temperatures keep it from becoming too strong or biting, making it a
-more versatile mix ingredient than it would be in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]].
-
-### Narrow-Stem Chard
-Baby leaves of narrow-stem chard provide color and tenderness to the
-salad mix. The farm does increased succession plantings of chard to
-ensure a supply of young leaves, as regrowth on older plants can
-become tough.
-
-## Integration with the Winter Harvest System
-
-These specialty greens are integral to the farm's strategy of offering
-a diverse, high-quality salad mix throughout winter. Each crop has
-specific strengths: mache for reliability, claytonia for productivity,
-minutina for texture, sylvetta for flavor intensity. By managing each
-crop's planting timing, bed placement, and harvest stage carefully,
-the farm maintains consistent salad [[coleman-baby-leaf-salad-mix-quality-standards]] even during the most
-challenging winter conditions.
-
-See also coleman-winter-greens, [[coleman-winter-harvest-planting-schedule]].
-
-## See Also
-
-- [[coleman-mache]]
-
-- [[coleman-winter-day-length-and-persephone-months]]

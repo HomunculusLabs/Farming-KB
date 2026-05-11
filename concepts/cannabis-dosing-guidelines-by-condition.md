@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis dosing guidelines by condition by Condition
+title: Cannabis Dosing Guidelines By Condition
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -14,7 +14,7 @@ Effective cannabis dosing is highly individualized. The [[blesching-cannabis-hea
 ## Foundational Dosing Principles
 
 1. **Start low, go slow**: Begin with the smallest possible dose and increase gradually
-2. **The therapeutic window is narrow**: Too little is sub-optimal; too much can worsen symptoms
+2. **The [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] is narrow**: Too little is sub-optimal; too much can worsen symptoms
 3. **Dose dependency is critical**: A medium dose may be therapeutic while a high dose is counterproductive
 4. **Individual variation is significant**: What works for one patient may not work for another
 5. **Keep a journal**: Track dose, strain, method, timing, and effects to identify your optimal window
@@ -36,10 +36,10 @@ Effective cannabis dosing is highly individualized. The [[blesching-cannabis-hea
 ### Mental Health
 - **Dronabinol** 2.5 mg twice daily: 10% mood improvement in AIDS patients with depression (Tulsa, 1995)
 - **Nabilone**: 72% of PTSD patients experienced cessation or significant reduction of nightmares (Ottawa, 2009)
-- **HU210** (synthetic cannabinoid): Promoted hippocampal neurogenesis, producing anxiolytic and antidepressant effects (2005)
+- **HU210** ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]): Promoted hippocampal neurogenesis, producing anxiolytic and antidepressant effects (2005)
 
 ### Cardiovascular Conditions
-- **THC** 10 mg: Significantly reduced GERD symptoms (Netherlands, 2009). Note: 20 mg caused adverse effects
+- **THC** 10 mg: Significantly reduced GERD symptoms (Netherlands, 2009). Note: 20 mg caused [[adverse-effects-and-harm-reduction-psilocybin]]
 - **THC** 2.8% inhaled: Reduced blood pressure while maintaining perfusion (Howard University, 1976)
 
 ### Cancer Symptom Management
@@ -88,13 +88,3 @@ Effective cannabis dosing is highly individualized. The [[blesching-cannabis-hea
 ## Special Populations
 
 - **Elderly**: Start at half the standard beginning dose
-- **Pediatric**: Only under physician supervision; studies used 0.04-0.14 mg/kg THC
-- **Opioid-dependent**: Cannabis may allow opioid dose reduction; coordinate with prescribing physician
-- **Liver-impaired**: May require lower doses due to altered cannabinoid metabolism
-
-See also: [[cannabis-thc-cbd-ratio-guide-for-conditions]], [[cannabis-concentrates-and-extracts]]
-
-## Related
-
-- [[cannabis-health-index-scoring-system]]
-- [[fukuoka-vegetable-growing-natural-method]]

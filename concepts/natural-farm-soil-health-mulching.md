@@ -87,14 +87,3 @@ plow diagonally to prevent water runoff.
 The beds start out very tall and settle over time. Fresh wood requires
 adding nitrogen sources like straw from animal bedding to speed
 decomposition. Fungi will naturally grow and help the process.
-
-## Soil Teas
-
-A liquefied tea efficiently adds nutrients quickly, especially useful when
-plants suffer from bad weather or pest attacks. Mix one part manure to three
-parts water, ferment for at least two weeks in a container with a loose lid,
-then add 10 to 15 more parts water. Extras like comfrey, seaweed, or kitchen
-compost can be added for a continuous supply.
-## See Also
-
-- [[natural-farm-composting-vermicomposting]]

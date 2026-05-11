@@ -82,39 +82,11 @@ The onset of neurotoxic symptoms is notably rapid compared to many other elapid 
 
 Local effects at the bite site are typically minimal, with little swelling or pain. This contrasts sharply with viper envenomations and may lead patients to underestimate the severity of the bite.
 
-Polyvalent antivenoms produced by the South African Institute for Medical Research are effective against black mamba venom. Treatment typically requires multiple vials, often 10 or more in severe cases. Mechanical ventilation may be necessary to support respiration while antivenom takes effect.
+Polyvalent antivenoms produced by the [[kanna-sceletium-south-african-narcotic]] Institute for Medical Research are effective against black mamba venom. Treatment typically requires multiple vials, often 10 or more in severe cases. Mechanical ventilation may be necessary to support respiration while antivenom takes effect.
 
 The species is responsible for numerous fatalities annually across sub-Saharan Africa, though exact numbers are difficult to establish due to limited reporting infrastructure in rural areas. The combination of rapid onset, high toxicity, and limited access to antivenom in remote locations makes the black mamba one of the most feared snakes in Africa.
 
-Black mamba venom components have attracted significant pharmacological research interest. Dendrotoxins are used as research tools in neuroscience for studying potassium channel function, and several venom-derived peptides are under investigation for potential therapeutic applications.
-
-## Ecology and Conservation
-
-Dendroaspis polylepis is an active hunter that preys on small mammals, birds, and occasionally other reptiles. Its diet includes dassies (rock hyraxes), squirrels, mice, rats, and fledgling birds.
-
-The species is one of the fastest snakes in the world, capable of moving at speeds up to 20 km/h over short distances on open ground. This speed is used primarily for escaping threats rather than pursuing prey.
-
-Reproduction is oviparous. Mating occurs in spring or early summer, with males engaging in combat for access to females. The female lays 6 to 25 eggs in a warm, humid location such as a termite mound or hollow log.
-
-Incubation lasts approximately 80 to 90 days. Hatchlings measure 40 to 60 cm in total length and are fully venomous and independent from birth. Juveniles grow rapidly and may reach 2 meters within their first year.
-
-Neonate black mambas possess the same speed and defensive capabilities as adults. They are capable of delivering potentially lethal bites from the moment they hatch, making them among the most dangerous of all juvenile venomous snakes.
-
-Natural predators are few due to the species' size and venom, though birds of prey and mongoose species may take juveniles. The black mamba's primary anti-predator defense is its speed and intimidating threat display, which includes spreading a narrow cobra-like hood, exposing the black mouth lining, and producing a hollow hissing sound.
-
-Dendroaspis polylepis is listed as Least Concern by the IUCN. The species remains common throughout most of its range, though localized declines have been attributed to habitat destruction and human persecution.
-
-The species is killed on sight by many rural communities across Africa due to fear of its venom. Despite this persecution, its adaptability to modified landscapes has prevented widespread population collapse.
+Black mamba venom components have attracted significant pharmacological research interest. Dendrotoxins are used as research tools in neuroscience for studying potassium channel function, and several venom-derived peptides are under investigation for potential [[psilocybin-therapeutic-applications]].
 
 ## See Also
-
-- [[atropine]]
-- [[muscarine]]
-- [[nicotine]]
-- [[strychnine]]
-- [[aconitum-napellus]]
-- [[digitalis-purpurea]]
-- [[bufotenin]]
-- [[bufo-bufo]]
-- [[ambystoma-mexicanum]]
-- [[cocaine]]
+- [[blesching-cannabis-hypertension-cardiovascular-effects]]

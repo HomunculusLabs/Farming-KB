@@ -1,6 +1,6 @@
 ---
-title: "[[mushroom-harvesting-and-post-harvest-handling]] Marketing Guide"
-source: "Growing Gourmet and [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] (Stamets)"
+title: Growing Gourmet Mushroom Harvesting Marketing Guide
+source: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] (Stamets)"
 tags: [mycology, harvesting, marketing, post-harvest, packaging, drying]
 created: 2026-05-09
 ---
@@ -11,9 +11,9 @@ Mushrooms can be compared to fish in their perishability. Once harvested, they a
 quick to spoil unless properly cared for. Simple guidelines prevail in proper
 harvesting: young mushrooms last much longer after harvest than aged mushrooms,
 and once spores have developed on the gills, perishability is dramatically
-accelerated. For mushrooms with partial veils such as the Button Mushroom or Black
+accelerated. For mushrooms with partial veils such as the [[growing-gourmet-button-mushroom-agaricus-cultivation]] or Black
 Poplar, the ideal harvest stage is while the veils are still intact, protecting
-the gills, limiting moisture loss, and preventing spore release.
+the gills, limiting moisture loss, and preventing [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]].
 
 The cultivator must constantly counterbalance maximum yield with marketability.
 Stamets notes that at some magic moment in the maturity of a mushroom, the form
@@ -55,7 +55,7 @@ cardboard insulates and prevents rapid cooling. The ideal storage temperature is
 activity and extends shelf life.
 
 Mushrooms are sorted according to market destination. The Japanese maintain the
-strictest [[aact-compost-quality-standards-ingham]] in the world. In North America, [[query-how-to-grow-shiitake-mushrooms]] are
+strictest [[aact-compost-quality-standards-ingham]] in the world. In [[guzman-psilocybin-mushrooms-north-america]], [[query-how-to-grow-shiitake-mushrooms]] are
 graded: Number 1 specimens are three to five inches across, dark brown with
 incurved margins and veil remnants; Number 2 specimens have more fully expanded
 caps and lighter color; Number 3 specimens show damage or deformation.
@@ -69,13 +69,13 @@ actual cost per pound. In the United States, consumer packages should be small
 enough for one-handed grasping and ideally retail at or below two dollars. Once
 the sale price exceeds the two dollar threshold, a precipitous decline in sales
 occurs. Mushrooms should be covered with clear, anti-condensate, breathable
-plastic that allows carbon dioxide diffusion, extending shelf life significantly.
+plastic that allows [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] diffusion, extending shelf life significantly.
 
 ## Drying Mushrooms
 
 By drying mushrooms, cultivators recapture much of the revenue that would
 otherwise be lost due to over-production. Most mushrooms are approximately 90
-percent water. Reishi mushrooms, being woody, are between 70 and 80 percent water.
+percent water. [[query-how-to-grow-reishi-mushrooms]], being woody, are between 70 and 80 percent water.
 Shiitake are often sold dried in Asian markets where the flavor is considered to
 be actually enhanced by the drying process. Dried mushrooms can be stored for
 months at room temperature in airtight containers with no special care, making
@@ -88,50 +88,3 @@ inflated by hoops of plastic pipe and the force of a large blower at one end.
 Fresh mushrooms enter furthest downstream, while fully dried mushrooms are
 retrieved nearest the fan. This design requires no heat source, as the huge volume
 of air removes moisture through evaporation alone. Shiitake dried gills-up take on
-a tighter, more resilient texture preferred by Asian markets.
-
-Properly dried mushrooms should snap crisply when bent, indicating moisture
-content below 10 percent. They should be stored in airtight containers, preferably
-with desiccant packets for additional protection against residual moisture. Vacuum
-sealing extends shelf life further. Rehydration before cooking is straightforward:
-soaking in warm water for 20 to 30 minutes restores much of the original texture
-and flavor. The soaking liquid itself becomes a rich mushroom broth, making the
-dried product a dual-purpose ingredient.
-
-## Marketing Strategy and Market Development
-
-The United States fresh mushroom market surged from 68 million dollars in 1969 to
-665 million dollars in 1992. [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]] represented 17 million dollars of
-fresh sales in 1992, a 22 percent increase over the previous year. The average
-price for Shiitake was 4.11 dollars per pound [[query-difference-between-shiitake-and-oyster-mushrooms]] sold for 3.66
-dollars per pound. The upward trend in price, production, diversity, and markets
-was expected to continue. In Asia, marketing benefits from a long cultural
-tradition of mushroom consumption, while in North America gourmet mushrooms were a
-relatively new phenomenon with enormous growth potential.
-
-Before producing mushrooms on a commercial level, cultivators are advised to
-conduct mini-trials to refine techniques. Yields from mini-culture experiments
-often exceed average values from commercial scale operations. Production should be
-increased slowly, matched to skills in both mushroom technology and business
-management. The ultimate success of a mushroom farm centers on its ability to
-market mushrooms successfully. The person in charge of marketing must foster a
-close, professional relationship with buyers, understanding their specific quality
-requirements and delivery schedules.
-
-Cooperative marketing organizations can coordinate production and sales, becoming
-necessary when multiple growers overwhelm local markets. Direct-to-consumer sales
-through farmers markets, community-supported agriculture programs, and restaurant
-relationships often provide the highest margins for small-scale producers. The
-development of value-added products such as mushroom extracts, dried soup mixes,
-and mushroom-infused products can further diversify revenue streams and reduce
-dependence on fresh market volatility.
-
-## See Also
-
-- [[growing-gourmet-mushroom-farm-design-environments]]
-- [[growing-gourmet-agar-media-formulation-guide]]
-- [[growing-gourmet-stametsian-permaculture-model]]
-
-## Sources
-
-- Stamets, P. (2000). Growing Gourmet and Medicinal Mushrooms. Chapter 23: Harvesting, Storing, and Packaging the Crop for Market.

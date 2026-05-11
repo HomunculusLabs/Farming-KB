@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Huang, P. et al. (2019). "Phytochemical constituents and bioactivities of Neolitsea species." Fitoterapia, 134, 238–250.
-  - Li, J. et al. (2017). "Essential oil composition of Litsea species from southern China." Chemistry & Biodiversity, 14(12), e1700334.
+  - Li, J. et al. (2017). "[[permaculture-designers-manual-essential-oil-plants]] composition of Litsea species from southern China." Chemistry & Biodiversity, 14(12), e1700334.
   - Flora of China Editorial Committee (2008). "Flora of China, Vol. 7: Menispermaceae through Capparaceae." Science Press.
   - Wei, F. et al. (2019). "Chemical composition and biological activities of Litsea species." Journal of Ethnopharmacology, 245, 112173.
   - Wu, Z. & Raven, P.H. (1999). "Lauraceae." In Flora of China, Vol. 7. Missouri Botanical Garden.
@@ -25,7 +25,7 @@ The species is distinguished by its golden-indumented branchlets and leaf unders
 
 The specific epithet refers to the distinctive golden-brown tomentum covering young shoots and leaf undersides. This pubescence is most conspicuous in spring on new growth and gradually diminishes as leaves mature.
 
-In traditional Chinese medicine, the leaves and bark are used to treat colds, coughs, and rheumatic pain. The wood is valued locally for tool handles and construction, while the aromatic foliage has potential as a source of essential oils.
+In traditional Chinese medicine, the leaves and bark are used to treat colds, coughs, and rheumatic pain. The wood is valued locally for tool handles and construction, while the aromatic foliage has potential as a source of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 
 *Neolitsea aurata* is increasingly planted as an ornamental tree in parks and gardens for its glossy foliage, golden pubescence, and tolerance of partial shade.
 
@@ -61,19 +61,19 @@ The species grows in broadleaved evergreen and mixed evergreen-deciduous forests
 
 Common canopy associates include *Castanopsis* species, *Quercus* species, and *Schima superba*. In Taiwan, *Neolitsea aurata* is a characteristic component of mid-elevation cloud forests.
 
-It prefers acidic to neutral sandy loam or clay loam soils with abundant organic matter. The climate in its range is warm temperate to subtropical, with mean annual temperatures of twelve to twenty degrees Celsius.
+It prefers acidic to neutral sandy loam or clay loam soils with abundant [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The climate in its range is warm temperate to subtropical, with mean annual temperatures of twelve to twenty degrees Celsius.
 
 *Neolitsea aurata* is shade-tolerant in youth but requires increasing light for optimal growth as it matures. It regenerates well in canopy gaps and along forest edges.
 
-*Neolitsea aurata* is frost-hardy to approximately minus ten degrees Celsius, making it one of the more cold-tolerant members of the genus. This cold tolerance allows cultivation in temperate regions outside its native range.
+*Neolitsea aurata* is frost-hardy to approximately minus ten degrees Celsius, making it one of the more cold-tolerant members of the genus. This [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] allows cultivation in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] outside its native range.
 
 In cultivation, the species has demonstrated adaptability to a range of soil types, including slightly alkaline substrates. However, chlorosis may develop on calcareous soils with high pH.
 
 ## Chemistry and Ethnobotany
 
-The essential oil of *Neolitsea aurata* contains a complex mixture of monoterpenes and sesquiterpenes. Major constituents include sabinene, alpha-pinene, limonene, beta-caryophyllene, and germacrene D.
+The essential oil of *Neolitsea aurata* contains a complex mixture of monoterpenes and sesquiterpenes. Major constituents include [[sabinene]], alpha-pinene, [[limonene]], [[beta-caryophyllene]], and germacrene D.
 
-The leaves contain flavonoids, including quercetin and kaempferol derivatives, which exhibit antioxidant and anti-inflammatory activities in vitro. Tannins and lignans have also been isolated from bark and wood samples.
+The leaves contain flavonoids, including [[quercetin]] and [[kaempferol]] derivatives, which exhibit antioxidant and anti-inflammatory activities in vitro. Tannins and lignans have also been isolated from bark and wood samples.
 
 In traditional Chinese medicine, leaves are decocted for treating coughs, colds, and bronchitis. Bark preparations are applied externally for rheumatic pain and joint inflammation.
 
@@ -88,34 +88,3 @@ Fuelwood value is low, as the wood burns with considerable smoke. However, the a
 *Neolitsea aurata* provides food and habitat for forest fauna. The fruits are consumed by birds including bulbuls, thrushes, and white-eyes, which disperse seeds throughout forest landscapes.
 
 Several species of Lepidoptera use *Neolitsea* foliage as larval food plants. The dense canopy provides nesting sites for small birds and shelter for understory invertebrates.
-
-The species contributes to forest structure as a mid-canopy component in mixed evergreen forests. Its shade tolerance allows persistence in the understory until canopy openings develop.
-
-Root associations with arbuscular mycorrhizal fungi enhance nutrient uptake, particularly phosphorus acquisition in acidic forest soils. These mycorrhizal networks may also connect *Neolitsea* individuals to neighboring trees.
-
-Leaf litter decomposition is moderate, contributing organic matter and recycling nutrients to the forest floor. The aromatic compounds in fallen leaves may influence soil microbial communities.
-
-## Cultivation
-
-Propagation is primarily by seed, which requires cold-moist stratification for sixty to ninety days. Fresh seeds germinate more readily than stored seeds, with germination rates declining sharply after six months of dry storage.
-
-Semi-hardwood cuttings taken in late summer root at thirty to fifty percent under intermittent mist. Grafting onto *Litsea* or *Cinnamomum* rootstock has been attempted with limited success.
-
-Young trees require protection from direct sun and frost for the first two years. Once established, *Neolitsea aurata* is relatively low-maintenance and drought-tolerant.
-
-The species is valued in Japanese and Chinese horticulture for its golden-pubescent new growth and dense, glossy foliage. It is suitable for large containers, woodland gardens, and as a specimen tree in mild-climate landscapes.
-
-Growth rate is moderate, approximately thirty to fifty centimeters per year under optimal conditions. Trees begin flowering at five to eight years of age.
-
-## See Also
-
-- [[neolitsea-sericea]]
-- [[litsea-cubeba]]
-- [[litsea-glauca]]
-- [[litsea-odorifera]]
-- [[cinnamomum-camphora]]
-- [[cinnamomum-verum]]
-- [[lindera-benzoin]]
-- [[persea-borbonia]]
-- [[actinodaphne-lancifolia]]
-- [[asarum-canadense]]

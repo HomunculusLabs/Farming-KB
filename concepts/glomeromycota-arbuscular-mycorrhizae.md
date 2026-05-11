@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The phylum Glomeromycota comprises [[arbuscular-mycorrhizal-fungi]] ungi (AMF), which form the most widespr [[quinoa-and-ancient-grain-cultivation]] ient symbiotic relationship betw [[fungi-and-sustainability]] and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plan [[psilocybin-mushrooms-species-and-pharmacology]] nd are fundamenta [[nutrient-movement-through-soil-to-plant-roots]] nt nutrition, soil health, an [[fungal-biodiversity-ecosystem-function]] on. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
+The phylum Glomeromycota comprises the [[arbuscular-mycorrhizal-fungi]] (AMF), which form the most widespread and ancient symbiotic relationship between fungi and land plants. Dating back over 450 million years, AMF associations are found in over 80% of all terrestrial plant species and are fundamental to plant nutrition, soil health, and [[dighton-mycorrhizal-diversity-ecosystem-function]]. See [[fungal-symbiosis-types]] for the broader context of fungal symbiosis types, and [[mycorrhizal-inoculation-guide]] for practical application methods.
 
 ## Phylum Glomeromycota
 
@@ -36,14 +36,14 @@ The phylum Glomeromycota comprises [[arbuscular-mycorrhizal-fungi]] ungi (AMF), 
 ### Rhizophagus (formerly Glomus intraradices group)
 
 - One of the most commercially important AMF genera
-- Rhizophagus irregularis (syn. Glomus intraradices) is the most widely used species in commercial inoculants
+- [[rhizophagus-irregularis]] (syn. Glomus intraradices) is the most widely used species in commercial inoculants
 - Colonizes a very broad range of host plants
 - Produces abundant intraradical vesicles and arbuscules
 - Spores are small (100-200 um), yellow-brown
 
 ### Funneliformis (formerly Glomus mosseae group)
 
-- Funneliformis mosseae is a cosmopolitan species found in agricultural soils worldwide
+- [[funneliformis-mosseae]] is a cosmopolitan species found in agricultural soils worldwide
 - Large, distinctive spores (200-400 um) with a layered wall structure
 - Common in disturbed and agricultural soils
 - Good colonizer of many crop species

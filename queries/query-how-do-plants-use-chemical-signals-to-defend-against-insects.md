@@ -142,6 +142,6 @@ Not entirely, but it's a powerful component of **integrated pest management (IPM
 
 - [[query-how-do-plants-defend-themselves-chemically]]
 
-- [[plant-olfaction-and-chemical-sensing]] — comprehensive topic page on VOCs
+- [[plant-olfaction-chemical-sensing]] — comprehensive topic page on VOCs
 - [[plant-cellulose-and-carbohydrate-chemistry]] — broader plant [[plant-defense-mechanisms]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]] — another indirect defense pathway

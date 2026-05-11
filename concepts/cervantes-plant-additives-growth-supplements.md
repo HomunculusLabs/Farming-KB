@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,11 +88,3 @@ to months. "Willow water" also makes a popular rooting bath.
    end of the [[cannabis-sativa-flowering-cycle-management]].
 2. Many commercial formulas contain hormone cocktails which include
    hormones that may work against one another.
-3. Always follow label directions and start with lower concentrations.
-4. Some additives work best as foliar sprays, others as soil drenches.
-5. Care must be given to application timing relative to plant growth
-   stage for best results.
-
-## Related
-
-- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]

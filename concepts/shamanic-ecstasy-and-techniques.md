@@ -1,5 +1,5 @@
 ---
-title: Shamanic Ecstasy and Techniques
+title: Shamanic Ecstasy And Techniques
 created: 2026-05-06
 tags:
   - shamanism
@@ -21,8 +21,8 @@ type: concept
 Shamanism represents the oldest known form of religious practice, originating
 in the Upper Paleolithic period between ten and fifty thousand years ago.
 Mircea Eliade, the foremost authority on shamanism in comparative religion,
-defined it as "the archaic techniques of ecstasy." This definition emphasizes
-that the central goal of all shamanic practice is the achievement of ecstatic
+defined it as "the archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]." This definition emphasizes
+that the central goal of all [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] is the achievement of ecstatic
 states, characterized by the dissolution of ordinary consciousness and the
 entry into a hidden dimension of reality accessible only through trance.
 
@@ -65,13 +65,13 @@ exist for entering the trance necessary for shamanic work:
   toward spiritual pursuits.
 
 Among these methods, none is as effective, as ancient, and as
-overwhelming as the use of plants containing chemical compounds that
+overwhelming as the use of plants containing [[neurotropic-fungi-chemical-compounds]] that
 produce visions. The use of visionary plant intoxicants is the
 preeminent technique among the shaman's arsenal.
 
 ## Wasson Versus Eliade on Narcotic Shamanism
 
-Gordon Wasson and Mircea Eliade held fundamentally different views on
+[[gordon-wasson-comparative-method-ethnomycology]] and Mircea Eliade held fundamentally different views on
 the role of psychoactive plants in shamanism. Eliade considered what he
 called "narcotic shamanism" to be decadent, believing that if individuals
 cannot achieve ecstasy without drugs, their culture is probably in a
@@ -88,38 +88,3 @@ phenomena are central, shamanism is well on its way to becoming simply
 connection into the totality of life on the planet.
 
 ## The Shaman as Social Catalyst
-
-Shamanism functions as a social catalyst within traditional communities.
-The shamans decide when the group should move, hunt, or make war. The
-prolonged and repeated exposure to [[leary-psychedelic-experience-bardo-mapping]] acted steadily
-to dissolve the ego into undifferentiated feeling. Wherever the ego
-function began to form, it was akin to a calcareous tumor or blockage
-in the energy of the psyche. The use of psychedelic plants in a context
-of shamanic initiation dissolved this knotted structure into what Eastern
-philosophy calls the Tao.
-
-The boundary-dissolving qualities of shamanic ecstasy predisposed
-hallucinogen-using tribal groups to community bonding and group sexual
-activities, which promoted gene mixing, higher birth rates, and a
-communal sense of responsibility for group offspring. The natural
-psychedelic compounds acted as feminizing agents that tempered the
-egocentric values of the solitary hunter with feminine concerns for
-child-rearing and group survival.
-
-## The World Made of Language
-
-Evidence gathered from millennia of shamanic experience argues that the
-world is actually made of language in some fashion. For the shaman, the
-cosmos is a tale that becomes true as it is told. The shamanic path is
-built on reverence for and immersion in the powers of language and
-communication. This is why the shaman is the remote ancestor of the poet
-and artist. The ultimate wellsprings of human creativity are hidden in
-the mystery of language, and shamanic ecstasy is an act of surrender
-that authenticates both the individual self and that which is
-surrendered to, the mystery of being.
-
-## See Also
-
-- [[psilocybin-in-human-evolution]]
-- [[partnership-versus-dominator-culture]]
-- [[strophariaceae-in-ethnomycology]]

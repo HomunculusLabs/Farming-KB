@@ -19,15 +19,15 @@ sources:
 
 ## Overview
 
-Toxicodendron radicans, commonly known as poison ivy, is a woody vine or shrub in the family Anacardiaceae native to eastern North America and parts of Asia. It is notorious for producing urushiol, an oily catechol derivative that causes allergic contact dermatitis in an estimated 80-85% of humans.
+Toxicodendron radicans, commonly known as poison ivy, is a woody vine or shrub in the family Anacardiaceae native to [[polypore-fungi-eastern-north-america]] and parts of Asia. It is notorious for producing urushiol, an oily catechol derivative that causes allergic contact dermatitis in an estimated 80-85% of humans.
 
-The species is highly variable in growth form, ranging from low ground covers to robust climbing vines that ascend tree trunks over 30 meters. This morphological plasticity has historically led to extensive taxonomic confusion with related species in the genus Rhus.
+The species is highly variable in growth form, ranging from low [[permaculture-plants-food-forest-ground-covers-bamboos]] to robust climbing vines that ascend tree trunks over 30 meters. This morphological plasticity has historically led to extensive [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] with related species in the genus Rhus.
 
-Despite its notoriety as a human health hazard, poison ivy plays significant ecological roles as a food source for wildlife and as a pioneer species in disturbed habitats.
+Despite its notoriety as a human health hazard, poison ivy plays significant [[ecological-roles-fungi-ecosystems]] as a food source for wildlife and as a pioneer species in disturbed habitats.
 
-It is one of the most widely recognized plants in North America. Awareness of its hazards is considered essential outdoor knowledge across the continent.
+It is one of the most widely recognized plants in [[guzman-psilocybin-mushrooms-north-america]]. Awareness of its hazards is considered essential outdoor knowledge across the continent.
 
-The economic impact of poison ivy exposure in the United States is substantial. Lost work days and medical costs associated with dermatitis treatment are estimated to exceed hundreds of millions of dollars annually.
+The economic impact of poison ivy exposure in the [[dmt-containing-plants-united-states-halpern]] is substantial. Lost work days and medical costs associated with dermatitis treatment are estimated to exceed hundreds of millions of dollars annually.
 
 Occupational exposure is particularly common among forestry workers, landscapers, utility crews, and construction laborers.
 
@@ -51,7 +51,7 @@ Stem morphology depends on growth form. Ground-creeping forms produce slender st
 
 Poison ivy is widely distributed across eastern and central North America, from Nova Scotia west to Minnesota and south to Florida and eastern Texas. Disjunct populations occur in Arizona, New Mexico, and mountainous regions of Mexico.
 
-The species also occurs in East Asia, including Japan, Korea, and parts of China. Some authorities treat Asian populations as a separate variety, Toxicodendron radicans var. orientale, though molecular evidence suggests conspecificity with North American material.
+The species also occurs in East Asia, including Japan, Korea, and parts of China. Some authorities treat Asian populations as a separate variety, Toxicodendron radicans var. orientale, though molecular evidence suggests conspecificity with [[growing-gourmet-north-american-reishi-species]] material.
 
 Habitat preference is extremely broad. The species colonizes forest edges, open woodlands, floodplains, riparian corridors, coastal dunes, and disturbed sites including roadsides and abandoned fields.
 
@@ -71,11 +71,11 @@ Urushiol is present in all plant parts, including leaves, stems, roots, and frui
 
 Sensitization occurs upon initial skin contact in susceptible individuals, after which subsequent exposures elicit a T-cell-mediated delayed-type hypersensitivity reaction (type IV). Symptoms typically appear 12-72 hours after contact and include intense pruritus, erythema, edema, and vesiculation.
 
-Cross-reactivity with other urushiol-producing species is common. Individuals sensitized to poison ivy typically react to poison oak (Toxicodendron diversilobum), poison sumac (Toxicodendron vernix), and mango (Mangifera indica), which contains related alkylresorcinols in its peel.
+Cross-reactivity with other urushiol-producing species is common. Individuals sensitized to poison ivy typically react to poison oak (Toxicodendron diversilobum), poison sumac ([[toxicodendron-vernix]]), and mango ([[mangifera-indica]]), which contains related alkylresorcinols in its peel.
 
 The degree of sensitivity varies widely among individuals. Most sensitized people experience mild to moderate dermatitis, but highly sensitive individuals can develop severe systemic reactions requiring hospitalization.
 
-Research published in 2021 demonstrated that elevated atmospheric carbon dioxide concentrations significantly increase both the biomass and urushiol content of poison ivy plants. This finding suggests that anthropogenic climate change may increase the severity and prevalence of poison ivy dermatitis in coming decades.
+Research published in 2021 demonstrated that elevated atmospheric [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] concentrations significantly increase both the biomass and urushiol content of poison ivy plants. This finding suggests that anthropogenic [[dighton-fungal-responses-climate-change]] may increase the severity and prevalence of poison ivy dermatitis in coming decades.
 
 Burning poison ivy is extremely hazardous because urushiol volatilizes in smoke and can cause severe pulmonary inflammation upon inhalation. This risk makes prescribed burning in poison ivy-infested areas a significant occupational health concern.
 
@@ -85,37 +85,6 @@ Despite its toxicity to humans, Toxicodendron radicans provides substantial ecol
 
 White-tailed deer browse the foliage extensively without apparent ill effect, as do rabbits, muskrats, and black bears. The protein content of poison ivy foliage is comparable to that of many preferred forage species.
 
-As a pioneer species, poison ivy rapidly colonizes disturbed sites and helps stabilize soil on eroding banks and slopes. Its dense root networks contribute to slope retention and riparian zone integrity.
+As a pioneer species, poison ivy rapidly colonizes disturbed sites and helps stabilize soil on eroding banks and slopes. Its dense root networks contribute to slope retention and [[riparian-zone-restoration]] integrity.
 
 The climbing vine form creates structural habitat complexity in forest canopies. Aerial rootlets provide microhabitat for mosses, lichens, and invertebrates, while dense vine mats offer nesting sites and cover for small birds and mammals.
-
-In coastal ecosystems, poison ivy contributes to dune stabilization and serves as a nesting substrate for colonial waterbirds on barrier islands along the Atlantic and Gulf coasts.
-
-The species is increasingly recognized as an indicator of forest fragmentation and edge effects. Its abundance tends to increase in fragmented landscapes where edge habitat is abundant.
-
-## Human Interactions
-
-Poison ivy dermatitis is the most commonly reported allergic contact dermatitis in the United States, with an estimated 10-50 million cases annually. The economic burden includes lost work days, medical treatment costs, and reduced outdoor recreational activity.
-
-First-line treatment involves washing the affected area with soap and water within 20-30 minutes of exposure to remove unabsorbed urushiol. Commercial urushiol-removal products such as Tecnu and Zanfel have demonstrated superior efficacy compared to standard soap in clinical comparisons.
-
-Once the allergic reaction has developed, management focuses on symptom relief through topical corticosteroids, calamine lotion, and oral antihistamines. Severe cases involving extensive body surface area or facial involvement may require systemic corticosteroid therapy.
-
-Blister fluid does not contain urushiol and cannot spread the rash, a common misconception that contributes to unnecessary anxiety. However, contact with resin on clothing, tools, or pet fur can cause secondary exposures days after the initial contact.
-
-Prevention strategies include wearing long sleeves and gloves in infested areas, applying barrier creams before potential exposure, and learning to recognize the plant in all seasonal forms. Immunotherapy for urushiol allergy remains experimental and is not widely available.
-
-Cultural awareness of poison ivy is deeply embedded in North American folklore. The species appears in traditional remedies, literature, and children's educational materials, and its elimination from recreational areas represents a major component of the North American commercial herbicide market.
-
-## See Also
-
-- [[rhus-typhina]]
-- [[ailanthus-altissima]]
-- [[gleditsia-triacanthos]]
-- [[juglans-nigra]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[betula-nigra]]
-- [[prunus-serotina]]
-- [[quercus-rubra]]
-- [[nyssa-sylvatica]]

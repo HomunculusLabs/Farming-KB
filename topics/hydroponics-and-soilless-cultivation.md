@@ -5,6 +5,7 @@ tags: [hydroponics, soilless-cultivation, controlled-environment, plant-nutritio
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/concepts/hydroponic-growing-basics.md
   - ~/wiki/concepts/hydroponic-cannabis.md
   - ~/wiki/concepts/cannabis-hydroponic-systems.md

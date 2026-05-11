@@ -88,9 +88,3 @@ to a robust root system.
 
 Plants establish quickly and require minimal maintenance. Harvesting of
 aerial parts occurs during flowering (June-August) when bioactive compound
-concentrations peak. Drying at 35-40°C preserves iridoid and alkaloid
-content. Plants are hardy to USDA zone 3 and self-seed readily, requiring
-management to prevent unwanted spread in formal garden settings.
-## See Also
-
-- [[leonotis-leonurus]] — Related species, Siberian motherwort

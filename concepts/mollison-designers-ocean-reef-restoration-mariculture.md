@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,52 +88,3 @@ dependency) and extensive or integrated systems:
     farming with seaweed and shellfish culture so that waste
     nutrients from fish are absorbed by seaweeds and filtered by
     shellfish, creating a balanced production system
-
-## Reef Protection and Restoration
-
-Coral reefs are among the most productive and biodiverse ecosystems
-on Earth, and Mollison advocates for their protection and restoration
-as a permaculture priority. Restoration techniques include:
-
-  - Artificial reef structures: Sunk ships, concrete blocks, rock
-    piles, and purpose-built reef modules provide substrate for
-    coral settlement and fish habitat
-  - Coral transplantation: Fragments of hardy coral species are
-    attached to artificial substrates in degraded reef areas
-  - Mineral accretion: Low-voltage electrical current passed through
-    submerged steel structures accelerates calcium carbonate
-    deposition, building reef substrate up to 5 times faster than
-    natural rates
-  - Mooring buoy installation: Preventing anchor damage to existing
-    reefs by providing designated mooring points
-
-## Mangrove Restoration
-
-Mangroves are critical coastal ecosystems that provide shoreline
-protection, nursery habitat for fish and crustaceans, carbon
-sequestration, and water filtration. Mollison describes mangrove
-restoration as essential for coastal permaculture. Restoration
-methods include community-based replanting, hydrological
-rehabilitation (restoring natural tidal flow to degraded mangrove
-areas), and protection from clearing and pollution.
-
-## Coastal Permaculture Design
-
-Coastal permaculture zones integrate land and sea systems:
-  - Zone 1-2: Home garden, poultry, vegetables with seaweed mulch
-  - Zone 3: Orchards and agroforestry windbreaks
-  - Zone 4: Silvofishery ponds, mangrove forestry
-  - Zone 5: Reef and marine reserve areas
-
-## See Also
-
-- mollison designers aquaculture integrated systems
-- mollison designers wetland design
-- mollison designers coastal zone management
-- mollison designers polyculture systems
-- [[mollison-designers-dam-construction-and-water-storage]]
-- mollison-designers-gabions-and-stone-weirs-for-gully-control
-- mollison-designers-geodesic-and-dome-structures
-- [[permaculture-zones]]
-- [[permaculture-design]]
-- [[bill-mollison]]

@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-**Pontederia cordata**, commonly known as pickerelweed, is a perennial emergent aquatic plant in the family Pontederiaceae. It is native to North, Central, and South America and is one of the most recognizable wetland plants in eastern North America, producing tall spikes of violet-blue flowers through summer.
+**Pontederia cordata**, commonly known as pickerelweed, is a perennial emergent aquatic plant in the family Pontederiaceae. It is native to North, Central, and South America and is one of the most recognizable wetland plants in [[polypore-fungi-eastern-north-america]], producing tall spikes of violet-blue flowers through summer.
 
-The species is valued for its ornamental qualities in water gardens and for its ecological role in supporting pollinators and wetland wildlife. It is also widely used in constructed wetland systems for [[mollison-designers-wastewater-treatment-wetlands]] and stormwater management.
+The species is valued for its ornamental qualities in water gardens and for its ecological role in supporting pollinators and wetland wildlife. It is also widely used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for [[mollison-designers-wastewater-treatment-wetlands]] [[mollison-designers-cloudburst-and-stormwater-management]].
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ In the southeastern United States, pickerelweed occurs sympatrically with the re
 
 Pickerelweed forms extensive clonal stands through rhizomatous growth, often dominating the shallow-water zone of freshwater wetlands. It is a colonizer of disturbed sites and is one of the first emergent macrophytes to establish in newly created wetland habitats.
 
-The species can survive in water up to 60 cm deep in some populations, though most vigorous growth occurs in water less than 30 cm. It tolerates temporary drawdown and can persist in seasonally dry wetland margins. [[dighton-fungal-biomass-production-aquatic-ecosystems]] ranges from 500 to 2,000 g dry weight per square meter per year in temperate climates.
+The species can survive in water up to 60 cm deep in some populations, though most vigorous growth occurs in water less than 30 cm. It tolerates temporary drawdown and can persist in seasonally dry wetland margins. [[dighton-fungal-biomass-production-aquatic-ecosystems]] ranges from 500 to 2,000 g dry weight per square meter per year [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## Pollination Biology
 
@@ -76,7 +76,7 @@ The spongy petioles and rhizomes transport oxygen from aerial tissues to the roo
 
 The species provides egg-laying substrate for dragonflies and damselflies. Amphibians, particularly frogs and salamanders, use pickerelweed stands for breeding habitat and shelter. The above-ground biomass contributes organic matter to wetland sediments upon senescence.
 
-The dense root mat stabilizes soft substrates and reduces wave action along pond margins. In constructed wetlands, pickerelweed beds create microhabitat gradients from open water to dense vegetation that support different invertebrate and vertebrate communities at different spatial scales.
+The dense root mat stabilizes soft substrates and reduces wave action along pond margins. In [[comparison-constructed-wetlands-vs-bioswales]], pickerelweed beds create microhabitat gradients from open water to dense vegetation that support different invertebrate and vertebrate communities at different spatial scales.
 
 ## Phytoremediation
 
@@ -86,27 +86,4 @@ The extensive root system supports dense microbial biofilms that process organic
 
 Harvesting above-ground biomass in late summer removes 40–60% of the nitrogen and 50–70% of the phosphorus accumulated during the growing season. This harvested biomass can be composted or used as a low-grade mulch, closing the nutrient loop in integrated wetland treatment systems.
 
-Pickerelweed shows moderate capacity for heavy metal accumulation, particularly zinc and copper, in root tissues. It has been used in stormwater treatment wetlands and retention ponds where it removes suspended solids, nutrients, and trace metals from urban runoff.
-
-The species has demonstrated tolerance to saline conditions up to approximately 5 ppt, expanding its potential use in brackish water treatment systems. In coastal restoration projects, *P. cordata* is planted in transition zones between freshwater and tidal wetlands where its salt tolerance provides a buffer against storm surge.
-
-## Cultivation
-
-*P. cordata* is widely cultivated as an ornamental plant for water gardens, pond margins, and rain gardens. It is hardy to USDA Zone 3 and tolerates a wide range of growing conditions. Propagation is by rhizome division in spring.
-
-Plants are typically spaced 30–45 cm apart at planting. Full coverage is achieved within 2 growing seasons from rhizome divisions. In constructed wetland applications, planting densities of 4–8 plants per square meter are recommended for effective treatment performance.
-
-Several cultivars are available in the nursery trade. 'Alba' produces white flowers instead of the typical blue-violet. 'Angustifolia' has narrower leaves. The species spreads moderately and is not considered invasive outside its native range, though it can dominate small water features if not managed.
-
-In ornamental plantings, pickerelweed provides visual interest from mid-summer through autumn with its tall flower spikes and bold foliage. It combines well with other wetland perennials including *Iris versicolor*, *Lobelia cardinalis*, and *Canna indica* for naturalistic pond plantings.
-
-## See Also
-
-- [[nuphar-lutea]]
-- [[sagittaria-latifolia]]
-- [[lemna-minor]]
-- [[phragmites-australis]]
-- [[canna-indica]]
-- [[azolla-filiculoides]]
-- [[schoenoplectus-lacustris]]
-- [[trapa-natans]]
+Pickerelweed shows moderate capacity for [[dighton-fungal-heavy-metal-accumulation-bioremediation]], particularly zinc and copper, in root tissues. It has been used in stormwater treatment wetlands and retention ponds where it removes suspended solids, nutrients, and trace metals from urban runoff.

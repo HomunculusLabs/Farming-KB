@@ -1,6 +1,6 @@
 ---
 title: Leaf Senescence and leaf senescence autumn colour change active plant process Change as Active Plant Process
-source: raw/papers/what-a-plant-knows-daniel-chamovitz.md
+source: what-a-plant-knows-daniel-chamovitz.md
 tags: [plant-senses, senescence, autumn-colours, abscission, chlorophyll, carotenoid, anthocyanin, plant-physiology]
 created: 2026-05-09
 ---
@@ -43,7 +43,7 @@ nutrients each autumn that they could not replace.
 The primary trigger for autumn senescence is photoperiod —
 the shortening of days that occurs in late summer and autumn.
 
-Plants detect the lengthening night through phytochrome
+Plants detect the lengthening night through [[phytochrome]]
 pigments, the same photoreceptors that control flowering.
 
 When nights exceed a species-specific threshold, the plant
@@ -68,7 +68,7 @@ carotenoid pigments that were present all along.
 
 Carotenoids include beta-carotene (orange) and lutein
 (yellow), which function as accessory light-harvesting
-pigments during the growing season.
+pigments during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The red and purple colours come from anthocyanins, which
 are synthesised de novo during senescence rather than
@@ -77,7 +77,7 @@ merely being unmasked.
 ## The Anthocyanin Mystery
 
 Unlike carotenoids, anthocyanins are not present in leaves
-during the growing season — they are newly produced during
+during the [[extending-growing-season]] — they are newly produced during
 autumn.
 
 This synthesis requires significant metabolic investment
@@ -88,57 +88,3 @@ Several hypotheses explain anthocyanin production.
 The most widely supported theory is that anthocyanins act
 as sunscreens, protecting the leaf during the vulnerable
 period of nutrient reabsorption.
-
-By absorbing excess light, anthocyanins prevent photo-
-oxidative damage that could interrupt the recycling process.
-
-Alternative hypotheses suggest anthocyanins may function
-as antifreeze agents, deterrents to herbivorous insects, or
-signals of tree vigour to potential pests.
-
-## Abscission: The Final Separation
-
-After nutrient recovery is complete, the leaf is shed through
-a process called abscission.
-
-A specialised layer of cells called the abscission zone forms
-at the base of the leaf stalk.
-
-Enzymes in this zone [[query-can-fungi-break-down-plastic-pollution]] the cell walls, weakening the
-connection between leaf and stem until the leaf falls.
-
-The wound left behind is sealed with a protective cork layer
-that prevents water loss and pathogen entry.
-
-Abscission is precisely timed — if a leaf falls too early,
-nutrient recovery is incomplete; if too late, frost damage
-could destroy the leaf before resources are salvaged.
-
-## Individual vs Whole-Plant Senescence
-
-Senescence can involve individual leaves or entire plants.
-
-Deciduous trees shed all leaves simultaneously in autumn.
-
-Annual plants undergo whole-plant senescence at life's end.
-
-In both cases, the process maximises resource allocation to
-seeds, fruits, or perennial storage organs.
-
-## Agricultural Relevance
-
-Delayed senescence ("stay-green" traits) extends
-photosynthesis and nutrient accumulation in crops.
-
-Premature senescence from drought or disease reduces yield.
-
-Breeders select for optimal senescence timing that balances
-resource recovery with continued productivity.
-
-## See Also
-
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
-- [[phytochrome-red-far-red-light-switch]]
-- [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
-- [[plant-photoreceptors-light-perception]]
-- [[chamovitz-plant-senses-overview]]

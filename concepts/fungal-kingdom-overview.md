@@ -88,26 +88,3 @@ Fungi are foundational to virtually every terrestrial ecosystem:
 
 - **Endophytes**: Many fungi live inside plant tissues without causing
   disease, instead conferring benefits such as [[dighton-fungal-drought-tolerance-plant-water-relations]], insect
-  resistance, and enhanced growth.
-
-## Economic Significance
-
-The global mushroom industry produces over 40 million tonnes of cultivated
-mushrooms annually, worth over 0 billion. Fermentation by fungi underpins
-industries worth hundreds of billions of dollars, including brewing, baking,
-and pharmaceutical manufacturing. Fungal plant diseases, conversely, cause
-crop losses estimated at 00 billion or more per year globally.
-
-## Research Frontiers
-
-Recent advances in genomics, single-cell sequencing, and spatial transcriptomics
-are opening new windows into [[environmental-dna-fungal-discovery]]. Researchers
-can now study fungal gene expression in situ, revealing how fungi respond to
-environmental changes in real time. These tools are particularly valuable for
-studying the many fungal species that cannot be cultured.
-
-## See Also
-
-- [[fungal-biology-fundamentals]]
-- [[fungal-ecosystem-services]]
-- [[mycological-dark-taxa]]

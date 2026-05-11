@@ -1,150 +1,89 @@
+---
+title: Natural Farming Philosophy
+aliases:
+  - do-nothing farming
+  - Fukuoka farming
+  - green philosophy
+  - Mu farming
+tags:
+  - agriculture
+  - philosophy
+  - farming
+  - sustainability
+  - permaculture
+  - japan
+  - fukuoka
+  - ecology
+---
+
 # Natural Farming Philosophy
 
-**Natural Farming Philosophy** is an agricultural and ecological worldview developed by Japanese
-farmer and philosopher [[masanobu-fukuoka]] (1913–2008), articulated most fully in his book
-*The Natural Way of Farming: The Theory and Practice of Green Philosophy*. It rejects the
-premise that human intervention improves upon natural systems, arguing instead that the most
-productive and sustainable agriculture arises from aligning with — rather than manipulating —
-the self-organizing processes of the natural world.
-
-Fukuoka spent decades developing and refining his methods on a small farm on [[mollison-pdc-low-island-design]]
-in southern Japan. His approach emerged from [[fukuoka-direct-observation-method]] of natural ecosystems and a
-philosophical crisis — a realization, while working as a plant pathologist, that the more he
-studied disease, the less he understood about health.
+Natural farming is a philosophical and practical approach to agriculture developed by Japanese farmer and philosopher **Masanobu Fukuoka** (1913–2008). Presented in his seminal work *The Natural Way of Farming: The [[microdosing-theory-and-practice]] of Green Philosophy*, natural farming is based on a nature free of human meddling and intervention. It strives to restore nature from the destruction wrought by human knowledge and action, and to resurrect a humanity divorced from its relationship with the natural world.
 
 ## The Five Principles
 
-Fukuoka distilled his approach into five foundational prohibitions, each challenging a core
-assumption of conventional agriculture:
+Fukuoka demonstrated the validity of five major principles over fifty years of farming:
 
-1. **No tillage** — The soil should never be turned or plowed. Tilling destroys soil structure,
-   kills beneficial microorganisms, and accelerates erosion. Earthworms, plant roots, and
-   microbial activity naturally maintain soil tilth and fertility without mechanical disturbance.
+1. **No tillage** — Plants have always grown by direct seeding, without tillage. The soil in fields is worked by small animals and roots, and enriched by green manure plants. No plant on the face of the earth is so weak as to germinate only in plowed soil. Man has no need to plow and turn the earth, for microorganisms and small animals act as nature's tillers.
 
-2. **No fertilizer** — Neither chemical nor [[cervantes-organic-amendments-chart]] are applied. Fertilizer creates
-   dependency, disrupts natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and encourages weak, input-reliant crops.
-   Healthy soil, fed by decomposing plant residues and soil organisms, provides all the
-   nutrition plants require.
+2. **No fertilizer** — [[cannabis-chemical-fertilizers]] became thought of as indispensable only in the last fifty years or so. True, the ancient practice of using manure and compost does help speed crop growth, but this also depletes the land from which the organic material is taken. One gram of soil on Fukuoka's farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching microbes.
 
-3. **No pesticides** — Insecticides and herbicides poison the ecosystem, eliminating both pests
-   and their natural predators. Fukuoka demonstrated that balanced plant communities — including
-   what conventional agriculture calls "weeds" — naturally regulate pest populations without
-   chemical intervention.
+3. **No pesticides** — Although a thousand diseases attack plants in the fields and forests, nature strikes a balance; there never was any need for pesticides. Man grew confused when he identified these diseases as insect damage and created with his own hands the need for labor and toil.
 
-4. **No weeding** — Rather than eradicating weeds, Fukuoka managed them as ground cover and
-   green manure. Weeds suppress erosion, fix nitrogen, retain moisture, and contribute organic
-   matter when they die back. Selective management through timing and competition replaces
-   wholesale elimination.
+4. **No weeding** — Nature does not arbitrarily call one plant a weed and try to eradicate it. The distinction between crops and weeds is a human invention.
 
-5. **No pruning** — Fruit trees are left to grow in their natural form. Pruning creates wounds
-   that invite disease and forces the tree into unnatural growth patterns requiring ever more
-   human correction.
+5. **No pruning** — A fruit tree grows best in its natural habitat; the branches do not tangle, sunlight falls on every leaf, and the tree bears fully each year, not only in alternate years.
 
-## Do-Nothing Farming and the Mu Philosophy
+## The Philosophy of Mu
 
-Central to Fukuoka's system is the concept of **"do-nothing" farming**, rooted in the
-Zen-influenced idea of **Mu** (無) — emptiness, non-action, or the void. This does not mean
-literal inactivity or neglect. Rather, it describes an agriculture that minimizes human
-interference to the greatest degree possible, allowing natural processes to perform the
-functions that conventional and even [[coleman-deep-organic-farming-philosophy]] achieve through labor, machinery, and
-purchased inputs.
+Natural farming is rooted in the Zen Buddhist concept of **Mu** (nothingness) and returns to a "do-nothing" nature. The "methodless method" of nature is described as the unmoving way of Bodhidharma. Although appearing fragile and vulnerable, it is potent for it brings victory unfought; it is a Buddhist way of farming that is boundless and yielding, and leaves the soil, the plants, and the insects to themselves.
 
-Fukuoka wrote: *"All begins by relinquishing human knowledge."* He argued that the accumulation
-of agricultural science — breeding programs, soil chemistry, pest management regimes — had led
-farmers further from nature, not closer to it. Each scientific solution created new problems
-requiring further solutions, an endless cycle of intervention. The do-nothing approach breaks
-this cycle by trusting that nature already possesses the intelligence to sustain productive
-ecosystems without human management.
+Fukuoka argued that the living and [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]] that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. Those who break off a piece of nature lay hold of something that is dead, and, unaware that what they are examining is no longer what they think it to be, claim to understand nature. Because he starts off with misconceptions about nature and takes the wrong approach to understanding it, regardless of how rational his thinking, everything winds up all wrong.
 
-## Critique of Scientific and Organic Farming
+## Critique of Scientific Agriculture
 
-Fukuoka was sharply critical of modern agricultural science, including [[organic-farming-history]],
-which he regarded as merely another variant of [[fukuoka-critique-scientific-agriculture-civilization]]. While organic farmers
-replace synthetic chemicals with organic inputs — compost, bone meal, botanical sprays — the
-underlying logic remains the same: nature is deficient and must be corrected by human action.
+Fukuoka drew a sharp distinction between [[korean-natural-farming]] scientific agriculture. When comparing the two graphically, the differences become immediately apparent:
 
-Organic farming, in his view, still treated the farm as a factory where inputs produced outputs.
-It still relied on plowing, weeding, and external fertility. It still presumed that the
-farmer's role was to manage and control, rather than to participate and observe. The difference
-between [[jadam-conventional-and-organic-pesticide-integration]] farming was, to Fukuoka, one of degree rather than kind.
+- **Natural farming** is centrifugal and convergent — its objective is non-action and a return to nature. It is simple, economical, and labor-saving.
+- **[[fukuoka-illusions-of-scientific-farming]]** breaks away from nature with the expansion of human wants and desires. It is centripetal and divergent. The addition of new technology only makes it more complex and diversified, generating ever-increasing expense and labor.
 
-## The Rice-Barley-Clover Succession Method
+Because the outward expansion of scientific farming cannot be stopped, it is doomed to extinction. In contrast, natural farming remains current and applicable in any age. Although ancient, it is also forever new.
 
-Fukuoka's signature technique was a **direct-seeded, no-tillage succession system**:
+Fukuoka observed that modern agriculture is just another processing industry that uses oil energy in the form of fertilizers, pesticides, and machinery to manufacture synthetic food products which are poor imitations of natural food. The farmer today has become a hired hand of industrialized society. He tries without success to make money at farming with synthetic chemicals, a feat that would tax even the powers of the Thousand-Handed Goddess of Mercy.
 
-- In autumn, rice is harvested and barley is broadcast directly into the standing rice straw,
-  alongside white clover seed. No plowing or transplanting occurs.
-- The clover grows through winter as a living mulch, fixing nitrogen and suppressing weeds.
-- In spring, the barley matures and is harvested. Rice seed is scattered into the stubble
-  and the existing clover cover.
-- The clover is briefly flooded to weaken it and favor rice germination. No weed control,
-  fertilizer, or pesticide is applied at any stage.
-- The cycle repeats annually without plowing, transplanting, or applying fertilizer.
+## Energy Efficiency
 
-This system produces two grain crops per year from the same field with virtually no external
-inputs and minimal labor beyond harvesting and sowing.
+Natural farming's superiority becomes clear when measured by energy efficiency of production:
 
-## Documented Yields
+- Natural farming produces 130 pounds of rice (200,000 kilocalories) per man-day of labor, without input of any outside materials — about 100 times the daily intake of a farmer on a natural diet.
+- Traditional farming with horses and oxen required 10 times as much energy input.
+- Small-scale mechanization doubled the energy input again.
+- Large-scale mechanization doubled it yet another time.
 
-Fukuoka consistently achieved yields of approximately **22 bushels of rice and 22 bushels of
-winter grain (barley or wheat) per quarter-acre** — roughly 1,300 pounds of rice and an
-equivalent weight of barley annually. These yields matched or exceeded regional averages
-achieved with full chemical inputs, mechanization, and intensive labor. The comparison is
-significant because Fukuoka's fields required no purchased inputs, no machinery, and only a
-fraction of the labor.
+This geometric progression produced the energy-intensive agricultural methods of the modern era. The claim that mechanization has increased the efficiency of work is misleading — farmers must use extra hours away from their fields to earn outside income to help pay for their equipment. They have traded the joy of working outdoors for dreary hours of labor shut up inside a factory.
 
-## The Happy Hill Rice Strain
+## Food Quality and the Natural Diet
 
-One of Fukuoka's most celebrated projects was the development of **"Happy Hill" rice**. Rather
-than breeding rice through controlled crosses and selection, he scattered seeds from many
-varieties across a hillside and allowed natural selection to operate without human culling. The
-resulting strain proved remarkably vigorous: cold-resistant, disease-resistant, and
-high-yielding. Because it had been shaped entirely by environmental pressures rather than human
-breeding criteria, it possessed a robustness that laboratory-bred varieties could not match.
+Fukuoka was deeply concerned about the decline in food quality under scientific agriculture. He described the transition from open cultivation of vegetables to hothouse horticulture, then to sand and gravel culture, and ultimately to the total synthesis of food. People brought up eating unnatural food develop into artificial, anti-natural human beings with an unnatural body prone to disease and an unnatural way of thinking.
 
-## Desert Revegetation Proposal
+Science, Fukuoka argued, can produce no good without evil. It is effective only at the price of the destruction of nature. Productivity of the land can be improved through scientific farming methods only when its natural productivity is in decline. Before rejoicing over the progress of science, we should lament those conditions that have driven us to depend on its helping hand.
 
-Fukuoka extended his philosophy to global ecological restoration, proposing a method for
-[[desert-revegetation]] using **clay pellets** (sometimes called "seed balls"). Each pellet
-encases seeds of local pioneer plants along with beneficial soil microorganisms within a
-protective shell of clay and organic matter. Scattered by hand or aircraft across degraded
-landscapes, the pellets protect seeds from desiccation and predation until rainfall triggers
-germination. Fukuoka conducted revegetation projects in India, Africa, the
-Mediterranean, and other arid regions using this technique.
+## Man Cannot Know Nature
 
-## Critique of Modernization and Japanese Agricultural Policy
+A central tenet of Fukuoka's philosophy is that nature cannot be explained or expanded upon. As an organic whole, it is not subject to man's classifications, nor does it tolerate dissection and analysis. Once broken down, nature cannot be returned to its original state. All that remains is an empty skeleton devoid of the true essence of living nature.
 
-Fukuoka was a vocal critic of post-WWII Japanese agricultural modernization. Government policies
-subsidized chemical inputs, promoted monoculture, and incentivized the consolidation of small
-family farms into larger mechanized operations. In Fukuoka's view, this transformation destroyed
-**village farming culture** — the intimate, place-based knowledge systems that had sustained
-Japanese rural communities for centuries. Mechanization severed the connection between farmers
-and their land, replacing stewardship with extraction. The result was degraded soils, polluted
-waterways, and the collapse of rural communities as young people migrated to cities.
+Scientific reasoning is of no avail in helping man understand nature and add to its creations. Nature as perceived by man through [[fukuoka-microbes-soil-health-discriminating-knowledge]] is a falsehood. Man can never truly know even a single leaf or a single handful of earth. Properly speaking, nature is neither living nor dead. Notions of right and wrong, good and bad, are alien to nature. These are only distinctions invented by man.
 
-## Nature Beyond Human Intellect
+Fukuoka wrote: "In nature, there is no cause and effect." He believed that the only effective approach to problems like desertification is to leave things largely up to nature, since the web of interwoven events and factors is beyond man's powers of comprehension.
 
-A recurring theme in Fukuoka's writing is the **incomprehensibility of nature to human reason**.
-He argued that ecosystems operate on principles of complexity, interdependence, and emergence
-that defy reductionist analysis. The scientist who dissects a natural system to understand it
-necessarily destroys the very relationships that make it function. True agricultural wisdom,
-for Fukuoka, lay not in knowledge accumulation but in humility — the recognition that humans
-are participants in nature, not its directors.
+## The Illusion of High-Yield Technology
 
-## Legacy and Influence
+Fukuoka challenged the notion that scientific agriculture improves productivity or increases yields. The truth, he argued, is that yields provided by scientific farming are smaller than the yields attainable under the full powers of nature. High-yield practices are no more than glorified attempts to stave off reductions in productivity that scientific methods themselves have caused. Man creates adverse conditions, then rejoices at his "conquest" of nature.
 
-Fukuoka's work has influenced the [[permaculture]] movement, [[regenerative-agriculture]],
-[[natural-farming-no-till-method]], and ecological restoration practices worldwide. His philosophy challenges
-the foundational assumption of modern agriculture — that human ingenuity can improve upon
-nature — and offers instead a radical alternative grounded in trust, observation, and restraint.
+Chemical fertilizers are effective only when the soil is dead. Pesticides are effective only for protecting unhealthy plants. Farm machinery is useful only when one has to cultivate a large area. These methods are ineffective or even detrimental on fertile soil, healthy crops, and small fields.
 
----
+## The Quarter-Acre Farmer
 
-*Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green
-Philosophy (1985). Translated from the Japanese by Frederic P. Metreaud. Published by Rodale
-Press / Japan Publications.*
+Fukuoka envisioned a world of "quarter-acre farmers" — people who could grow their own food on small plots of land with minimal labor. On his own farm, he harvested close to 22 bushels (1,300 pounds) of winter grain and 22 bushels of rice per quarter-acre without plowing, chemical fertilizers, prepared compost, pesticides, or other chemicals. His goal was to eventually take in 33 bushels per quarter-acre.
 
-## See Also
-
-- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+The labor of one or two people was more than enough to grow crops on a quarter-acre using natural methods. Fukuoka believed that if a single head of his "Happy Hill" rice strain were sent to a country where food is scarce, a single grain could yield 5,000 grains in one year. There would be grain enough to sow a half-acre the following year, fifty acres two years hence, and 7,000 acres in the fourth year. This handful of grain could open up the road to independence for a starving people.

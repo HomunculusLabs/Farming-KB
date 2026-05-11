@@ -87,23 +87,3 @@ It is occasionally cultivated in lichen gardens and [[comparison-green-roof-vs-e
 ## Conservation
 
 Population declines have been documented across lowland western Europe, particularly in the Netherlands, northern Germany, and southern England. These declines are primarily attributed to atmospheric nitrogen deposition exceeding critical loads for oligotrophic lichen communities.
-
-Conservation strategies include habitat restoration through managed burning and grazing to maintain open heath conditions. Reintroduction programs have been attempted in areas where local extinctions have occurred.
-
-The species is listed as near-threatened or vulnerable in several national red lists across central Europe. In contrast, boreal and alpine populations remain stable and widely distributed.
-
-Climate warming poses a long-term threat to montane populations by reducing suitable microhabitat area at lower elevations. Upslope migration has been documented in several long-term monitoring studies across the Alps.
-
-## See Also
-
-- [[cladonia-pyxidata]]
-- [[cladonia-fimbriata]]
-- [[cladonia-arbuscula]]
-- [[cladonia-furcata]]
-- [[cetraria-islandica]]
-- [[xanthoria-elegans]]
-- [[peltigera-canina]]
-- [[lobaria-pulmonaria]]
-- [[evernia-prunastri]]
-- [[physcia-aipolia]]
-- [[ramalina-farinacea]]

@@ -1,5 +1,5 @@
 ---
-title: fukuoka textdoc microbes as scavengers decomposition drama: The Decomposition Drama of Nature
+title: Fukuoka Textdoc Microbes As Scavengers Decomposition Drama
 created: 2026-04-28
 tags:
   - fukuoka
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 ## Overview
 
-Masanobu Fukuoka presents the microbial decomposition of [[hamilton-composting-and-organic-matter-management]] as one of
+[[masanobu-fukuoka]] presents the microbial decomposition of [[hamilton-composting-and-organic-matter-management]] as one of
 nature's most magnificent dramas, an infinitely elaborate process that far surpasses
 any human-designed refuse treatment system. He uses vivid, almost poetic language to
 describe how bacteria, fungi, nematodes, mites, insects, and larger animals work in
@@ -34,7 +35,7 @@ in the soil engage in an assembly-line operation of dismantling, decomposition,
 rotting, and fermentation. Billions upon billions of microorganisms appear one after
 another to make the final service to a human being. A person's ultimate form may be
 that of a microbial cell, vanishing as a sweet, acrid aroma through lactic
-fermentation performed by lactic acid bacteria.
+fermentation performed by [[bionutrients-lab-lactic-acid-bacteria-serum]].
 
 ## Cremation as Disruption
 
@@ -65,13 +66,13 @@ is dropped onto the earth, presenting this as a masterclass in [[fukuoka-microbe
 
 1. The straw draws flies and other small insects that lay eggs; maggots and larvae
    emerge from these eggs.
-2. Rice blast disease, leaf blotch, and rot-causing fungi already present on the rice
+2. [[fukuoka-textdoc-non-causality-rice-blast-disease]], leaf blotch, and rot-causing fungi already present on the rice
    leaves spread rapidly over the straw.
-3. Spider mites crawl over this fungal growth.
+3. [[cervantes-spider-mites-identification-control]] crawl over this fungal growth.
 4. Yeasts, blue mold, bread mold, and trichoderma fungi proliferate, destroying the
    pathogens and beginning to decompose the straw.
 5. Nematodes feed on the fungi, bacteria feed on nematodes, mites consume bacteria,
-   predaceous mites feed on those mites. Spiders, ground beetles, earwigs, mole
+   predaceous mites feed on those mites. Spiders, [[ground-beetles-carabidae-and-biological-pest-control]], earwigs, mole
    crickets, and slugs join the succession.
 6. Fibrin-decomposing fungi exhaust their food and are supplanted by lipoid- and
    lignin-decomposing bacteria.
@@ -87,57 +88,3 @@ of biological tenants.
 
 Fukuoka recounts his own early experience at the Kochi Prefecture Agricultural
 Testing Center, where he searched for beneficial bacteria to prepare compost from
-straw and brush. He isolated and cultured many different bacteria, fungi, slime molds,
-and yeasts from refuse and animal droppings, inoculating them into straw in test tubes
-and concrete enclosures. Later he realized this experiment was worthless: scattering a
-handful of chicken droppings or clumps of soil over straw was not only the quickest
-way but gave the most completely rotted compost. He dismisses modern fads for
-"microbial" and "enzymatic" farming methods as unnecessary fuss.
-
-## The Danger of Interfering
-
-Fukuoka warns that what man knows of the natural order is only the most minute,
-infinitesimal part. Beyond the visible lead roles are infinite supporting roles
-performing important yet unknown functions. When man jumps onto center stage and
-begins giving directions like a know-nothing director, the play is ruined. Unlike a
-factory where damage may consist of only a broken gear, a disruption in nature gives
-rise to an unending series of repercussions through the biosystem.
-
-## The Balance of Multiplication and Destruction
-
-The equilibrium between production and consumption, between multiplication and
-destruction, has operated rapidly and harmoniously for untold thousands and millions
-of years. This balance, Fukuoka argues, is where one must turn for a just comparison
-of the powers of man with those of nature. Nature's method of disposing of animal
-carcasses is perfect in every sense, biologically, physically, and chemically. Any
-human attempt to replicate it would be plagued with problems and invariably create
-pollution in some form.
-
-## Earthworms, Weasels, and the Full Cycle
-
-Fukuoka extends the decomposition drama beyond microbes to describe the full food
-chain that processes organic matter. Nematode remains are fed on by earthworms,
-which are relished by moles. Weasels feed on the moles, and microorganisms break
-down the carcass of the weasel, providing nutrients for plants. The plants are
-parasitized by pathogens, fungi, and pests, and serve as food for animals and man.
-The [[fukuoka-natural-ecosystem-food-chain-interconnection]] is an incredibly complex array of interdependently linked
-organisms, none of which live separate from the rest, none of which simply die
-and are done with.
-
-## Why the Earth Remains Clean
-
-Thanks to the microbes that dispose of the remains of animals and plants, the
-Earth's surface is always clean and beautiful. If animals died and carcasses just
-remained without decomposing, a couple of days would make the world an intolerable
-place. People look casually at this microbial activity, but Fukuoka declares there
-is no greater drama in the entire world. Tens of millions of species live in
-perfect harmony without increase or decrease; they are born and die unseen by man.
-
-## The Mystery of Self-Governed Providence
-
-## See Also
-- [[microbes-scavengers-natural-farming]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-textdoc-natural-soil-management]]
-- [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
-- [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]]

@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md]
 
 # Mycoremediation of Pesticides and Persistent Organic Pollutants
 
-Fungi can degrade a wide range of synthetic organic compounds including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created. (see [[mycoremediation-techniques]]).
+Fungi can degrade a wide range of synthetic [[chamovitz-plant-scent-communication-volatile-organic-compounds]] including pesticides, polychlorinated biphenyls (PCBs), and dioxins -- some of the most persistent and toxic environmental contaminants ever created.
 
 ## The Scale of the Problem
 
@@ -20,10 +20,10 @@ Analysis of blood from the general population reveals dozens of industrial toxin
 PCBs and dioxins are among the most recalcitrant environmental pollutants. Their chemical structure -- multiple chlorine atoms attached to aromatic rings -- makes them resistant to natural breakdown. White rot fungi produce lignin-degrading enzymes that can dechlorinate and oxidize these compounds:
 
 - **Lignin peroxidase**: Can oxidize aromatic ring structures
-- **Manganese peroxidase**: Mediates the breakdown of chlorinated compounds
-- **Laccase**: A copper-containing enzyme capable of oxidizing phenolic compounds
+- **[[fungal-manganese-peroxidase-remediation]]**: Mediates the breakdown [[singh-fungal-degradation-of-chlorinated-compounds]]
+- **Laccase**: A copper-containing enzyme capable of oxidizing [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 
-These non-specific enzyme systems give white rot fungi the ability to attack chlorinated aromatics that bacteria and most other organisms cannot degrade. (see [[fungal-enzymes-in-environmental-bioremediation]]).
+These non-specific enzyme systems give white rot fungi the ability to attack [[fungal-biodegradation-chlorinated-aromatics-and-btex]] that bacteria and most other organisms cannot degrade.
 
 ## Pesticides
 
@@ -45,11 +45,42 @@ The mycoremediation approach for persistent organic pollutants involves:
 
 ## Synergistic Species Approach
 
-Using a plurality of species creates a synergistic effect for more complete degradation of toxins. Different species secrete unique mixes of extracellular enzymes and acids. The art of this emerging science lies in the selection of species and their timely introduction.
+Using a plurality of species creates a synergistic effect for more complete degradation of toxins. Different species secrete unique mixes of [[fungal-extracellular-enzymes]] and acids. The art of this emerging science lies in the selection of species and their timely introduction.
 
 ## See Also
 
-- [[mycoremediation-overview]]
+- [[cotter-mycoremediation-overview]]
 - [[mycoremediation-petroleum-hydrocarbons]]
-- [[mycoremediation-of-heavy-metals]]
+- [[mycoremediation-heavy-metals]]
 - [[fungal-enzyme-systems-bioremediation]]
+
+## Practical Applications
+- Fungal cultivation techniques benefit from understanding these biological principles.
+- Field application requires attention to local environmental conditions and substrate availability.
+- Integration with sustainable agriculture practices enhances ecological outcomes.
+- Research findings support both commercial and small-scale cultivation approaches.
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

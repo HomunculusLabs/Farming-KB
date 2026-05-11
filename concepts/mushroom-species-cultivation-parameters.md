@@ -102,6 +102,20 @@ Detailed cultivation tables for gourmet, medicinal, and ecologically important m
 ## Additional Species
 
 For Reishi, Turkey Tail, Almond Mushroom, outdoor/ecological species, mycoremediation species, and substrate preparation reference, see [[mushroom-ecological-species]].
+## Practical Cultivation Notes
+
+Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
+
+## Safety Considerations
+
+Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
+
+## See Also
+- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
+- [[acid-house-rave-culture-and-second-mushroom-boom]]
+- [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
+- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
 
 ## See Also
 

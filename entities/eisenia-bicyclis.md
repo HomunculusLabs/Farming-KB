@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Abbott I.A. & Hollenberg G.J. (1976). "Marine Algae of California." Stanford University Press.
   - Yoshida T. (1998). "Marine Algae of Japan." Uchida Rokakuho Publishing.
-  - Jiménez-Escrig A. & Goñi Cambrodón I. (1999). "Nutritional Evaluation and Physiological Effects of Edible Seaweeds." Archives of Latinoamerican Nutrition 49(2): 114–120.
+  - Jiménez-Escrig A. & Goñi Cambrodón I. (1999). "Nutritional Evaluation and [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of Edible Seaweeds." Archives of Latinoamerican Nutrition 49(2): 114–120.
   - Maeda H. et al. (2007). "Anti-tumor and Immune-modulatory Activities of Fucoidan." Mini-Reviews in Medicinal Chemistry 7(10): 1051–1058.
   - McHugh D.J. (2003). "A Guide to the Seaweed Industry." FAO Fisheries Technical Paper 441.
 ---
@@ -49,7 +49,7 @@ Commercial harvesting occurs primarily in Japan (Hokkaido, Tohoku region) and Ko
 
 ## Nutritional Profile
 
-Arame is nutritionally dense, providing significant amounts of dietary minerals, trace elements, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in a low-calorie package (approximately 43 kcal per 100g dried).
+Arame is nutritionally dense, providing significant amounts of dietary minerals, [[teaming-with-nutrients-micronutrients-and-trace-elements]], and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in a low-calorie package (approximately 43 kcal per 100g dried).
 
 **Key minerals:** Arame is exceptionally rich in calcium (approximately 900–1200 mg/100g dried), iron (10–15 mg/100g), iodine (7–8 mg/100g), magnesium, and potassium.
 
@@ -63,7 +63,7 @@ It also contains measurable amounts of zinc, manganese, and selenium. The high c
 
 The primary bioactive constituents of *Eisenia bicyclis* are sulfated polysaccharides, particularly **fucoidan** and **alginate**.
 
-Fucoidan is a sulfated fucose-rich polysaccharide with documented antitumor, immunomodulatory, antiviral, and anticoagulant activities. *Eisenia*-derived fucoidan has been studied for its apoptosis-inducing effects on cancer cell lines.
+Fucoidan is a sulfated fucose-rich polysaccharide with documented antitumor, immunomodulatory, antiviral, and anticoagulant activities. *Eisenia*-derived fucoidan has been studied for its apoptosis-inducing effects on [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
 
 Alginate, a linear copolymer of β-D-mannuronic and α-L-guluronic acid, forms viscous gels in the presence of calcium ions. It has applications as a dietary fiber and in biomedical encapsulation.
 
@@ -87,28 +87,4 @@ Eisenia bicyclis provides important habitat structure in subtidal rocky reef com
 
 The species plays a role in coastal [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], absorbing dissolved nitrogen and phosphorus from the water column. Harvesting and removing seaweed biomass can contribute to coastal eutrophication management.
 
-Potential applications include use as a bioremediation agent for [[dighton-fungal-biosorption-heavy-metal-remediation]] removal from contaminated waters, as the alginate in its cell walls can bind and concentrate toxic metals.
-
-Extracts of Eisenia bicyclis are being investigated for cosmetic applications due to the antioxidant and skin-protective properties of phlorotannins and fucoxanthin.
-
-Seaweed aquaculture of Eisenia and related laminariacean species offers potential for [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] in coastal waters, contributing to [[dighton-fungi-climate-change-feedback]] mitigation efforts.
-
-## Harvesting and Processing
-
-Commercial harvesting of arame is primarily conducted by hand-diving or mechanical cutting during the spring and summer months when biomass is at its peak.
-
-After harvest, the thalli are washed, sun-dried or mechanically dried, and cut into thin strips approximately 2–5 mm wide. The drying process concentrates nutrients and extends shelf life to several years.
-
-Quality grading is based on color (dark brown preferred), uniformity of strip width, absence of sand and debris, and moisture content (typically below 15% for commercial products).
-
-Japan remains the primary producer and consumer of arame, with Hokkaido and the Sanriku coast being the most important harvesting regions. Korean production has increased in recent decades.
-
-## See Also
-
-- [[curcumin]]
-- [[gelidium-amansii]]
-- [[laminaria-digitata]]
-- [[porphyra-umbilicalis]]
-- [[sargassum-fusiforme]]
-- [[undaria-pinnatifida]]
-- [[caulerpa-lentillifera]]
+Potential applications include use as a bioremediation agent for [[dighton-fungal-biosorption-heavy-metal-remediation]] removal from contaminated waters, as the alginate in its [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] can bind and concentrate toxic metals.

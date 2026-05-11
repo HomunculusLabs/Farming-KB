@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Smith, C.R. & Gorz, H.J. (1965. "Sweetclover improvement." Advances in Agronomy, 17, 163-231.
   - Turkington, R. et al. (1978. "The biology of Canadian weeds: Melilotus alba." Canadian Journal of Plant Science, 58(2), 525-537.
-  - Baskin, J.M. & Baskin, C.C. (1999. "Ecology of seed dormancy and germination in Melilotus alba." Weed Research, 39(3), 191-202.
+  - Baskin, J.M. & Baskin, C.C. (1999. "Ecology of [[mollison-designers-seed-dormancy-and-germination-treatments]] germination in Melilotus alba." Weed Research, 39(3), 191-202.
   - Oram, R.N. (1990. "Register of Australian Herbage Plant Cultivars." CSIRO Division of Plant Industry.
 ---
 
@@ -30,7 +30,7 @@ White sweetclover has become an aggressive invader of roadsides, riverbanks, and
 
 Melilotus albus was described by Friedrich Kasimir Medikus in 1794 and is placed within the section Melilotus of the genus Melilotus.
 
-The specific epithet albus refers to the white color of the flowers, distinguishing it from the closely related yellow sweetclover, Melilotus officinalis.
+The specific epithet albus refers to the white color of the flowers, distinguishing it from the closely related yellow sweetclover, [[melilotus-officinalis]].
 
 It is a biennial herb growing 1 to 3 meters tall with an erect, branching stem arising from a prominent taproot in its first year.
 
@@ -80,39 +80,10 @@ The species has been investigated for phytoremediation of hydrocarbon-contaminat
 
 Melilotus albus was historically one of the most important forage legumes in temperate agriculture before being largely replaced by alfalfa and clover species.
 
-It remains valued for honey production, soil improvement, and wildlife habitat in conservation plantings and reclamation projects.
+It remains valued for honey production, soil improvement, and [[hemenway-backyard-wildlife-habitat]] in conservation plantings and [[fukuoka-desert-reclamation-projects]].
 
-Nutritional quality is moderate, with crude protein content of 15 to 20 percent in vegetative stages, declining sharply as stems lignify during flowering.
+[[coleman-winter-greens-nutritional-quality-cold-sweetening]] is moderate, with crude protein content of 15 to 20 percent in vegetative stages, declining sharply as stems lignify during flowering.
 
 The risk of sweetclover disease from improperly cured hay limits its use as a conserved forage despite good palatability when fresh.
 
-White sweetclover has been used successfully in phytoremediation trials for soils contaminated with petroleum hydrocarbons, heavy metals, and saline conditions.
-
-As a green manure crop, it provides rapid biomass production and substantial nitrogen contribution when plowed under during its first year of growth.
-
-Its drought tolerance and adaptability to marginal soils make it useful for reclamation of degraded lands where other legume species fail to establish.
-
-## Cultural Significance
-
-White sweetclover honey was historically among the most widely produced and traded honey varieties in the upper midwestern United States and Canadian prairies.
-
-The species was a primary component of early soil conservation efforts during the Dust Bowl era of the 1930s in North America.
-
-Its coumarin content led to the discovery of dicoumarol, an anticoagulant compound derived from spoiled sweetclover hay, which became the prototype for the warfarin family of anticoagulant drugs.
-
-This medical discovery, made by Karl Paul Link at the University of Wisconsin in the 1940s, earned the sweetclover a notable place in pharmaceutical history.
-
-In some European folk traditions, sweetclover was used as a carminative and topical anti-inflammatory, though these uses are largely historical.
-
-## See Also
-
-- [[melilotus-officinalis]]
-- [[medicago-sativa]]
-- [[medicago-lupulina]]
-- [[trifolium-pratense]]
-- [[lespedeza-cuneata]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
-- [[desmodium-canadense]]
-- [[phytoremediation]]
-- [[cover-crop]]
+White sweetclover has been used successfully in phytoremediation trials for soils contaminated with [[mycoremediation-petroleum-hydrocarbons]], heavy metals, and saline conditions.

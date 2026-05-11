@@ -81,5 +81,5 @@ prints, spawn bags, and grow kits.
 ## Market Responses to Legal Changes
 When the UK reclassified hallucinogenic mushrooms as Class A drugs in July
 2005, retailers pivoted rapidly to legal alternatives. [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly
-agaric) gained new market attention, as did [[amanita-muscaria-entity]]
+agaric) gained new market attention, as did [[amanita-muscaria]]
 - argyreia-nervosa

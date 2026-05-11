@@ -87,26 +87,3 @@ The bark also contains tannins (4–10% by weight), flavonoids, and phenolic aci
 Leaves contain condensed tannins that deter herbivory by mammals and insects. The phenolic profile of *S. viminalis* foliage varies with genotype and growing conditions, affecting both herbivore resistance and decomposition rates.
 
 Bark extracts have been investigated for potential use in herbal medicine, though commercial interest has focused primarily on the bioenergy applications. The salicin content is lower than in *S. alba* bark, limiting pharmaceutical interest.
-
-## Ecological Role
-
-Osier willow catkins provide early-season pollen and nectar for bumblebees and other long-tongued pollinators. The species is one of the first shrubs to flower in spring, making it a critical resource for emerging queen bumblebees.
-
-The dense, bushy growth habit provides nesting habitat and cover for small birds including warblers, finches, and buntings. Coppiced stools [[query-how-do-photonic-crystals-create-structural-color]] diversity that supports a range of ground-dwelling invertebrates.
-
-Over 150 Lepidoptera species have been recorded feeding on *Salix* in Europe, with several specialists associated with *S. viminalis*. The larvae of the emperor moth (*Saturnia pavonia*) and the sallow kitten (*Furcula furcula*) commonly feed on its foliage.
-
-The root system contributes to soil stabilization along waterways and on slopes prone to erosion. Leaf litter inputs enrich soil organic matter and support detritivore communities in riparian zones.
-
-Osier willow is highly attractive to aphids, which in turn support populations of predatory insects including ladybirds, lacewings, and hoverflies. This makes it a valuable component of integrated pest management hedgerows.
-
-The species is listed as a component of priority habitats in several European biodiversity action plans. Traditional osier beds maintain open wetland habitats that support declining wetland bird species.
-
-## See Also
-
-- [[salix-babylonica]]
-- [[populus-deltoides]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[tilia-cordata]]
-- [[populus-nigra]]

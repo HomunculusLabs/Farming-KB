@@ -88,15 +88,3 @@ bacteria. The form of nitrogen available in the tea influences which
 organisms thrive. Fish hydrolysate provides nitrogen as amino acids
 and short peptides, which are accessible to a wide range of
 organisms. Synthetic nitrogen fertilizers are generally not
-recommended because they provide only simple nitrogen forms.
-
-## C:N Imbalance Symptoms
-
-When C:N is out of balance in compost tea, several symptoms may
-appear. Excess nitrogen relative to carbon causes rapid oxygen
-depletion, foul odors, and loss of fungal and protozoan organisms.
-Excess carbon relative to nitrogen results in slow organism growth,
-low total biomass, and a tea that may not provide adequate
-inoculation. Monitoring oxygen levels, organism counts, and tea
-aroma provides early warning of C:N imbalance that can be corrected
-by adjusting food resources in subsequent brews.

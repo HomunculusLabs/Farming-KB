@@ -88,29 +88,3 @@ The [[panaeolina-foenisecii]]
    Psilocybe pelliculosa, P. silvatica
 3. **Eurasian species**: [[allegro-amanita-muscaria-properties-and-pharmacology]] and some northern hemisphere
    types
-4. **North American-Eastern Asiatic species**: P. graveolens, P.
-   muliercula, P. pintonii, and P. zapotecorum from America are very
-   closely related to P. argentipes and P. subcaerulipes from Japan
-5. **Far Eastern species**: Not clearly represented among neurotropic
-   fungi
-6. **Southeastern Asiatic species**: P. subaeruginascens var.
-   subaeruginascens from Japan and Java
-7. **Tropical and subtropical species**: P. cubensis, P. subcubensis,
-    lanceata (Europe, India, Russia,
-  Canada, USA, Chile, Peru, New Zealand, Australia, Tasmania), though
-  surprisingly absent from Mexico
-
-## African Gaps
-
-Africa presents a significant gap in the [[global-distribution-of-neurotropic-fungi]]
-fungi. Only 6-8 neurotropic Psilocybe species are known from the entire
-continent, despite its high overall biodiversity. No records exist from
-southeastern Russia, Mongolia, Arabia, Turkey, or many regions of Africa.
-This absence is almost certainly due to insufficient mycological
-exploration rather than genuine absence.
-## Related
-
-- psilocybe-global-biodiversity-southern-hemisphere-origin Topics
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-- [[neurotropic-fungi]]
-- [[psilocybe-samuiensis]]

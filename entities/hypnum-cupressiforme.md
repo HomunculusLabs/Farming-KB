@@ -87,26 +87,3 @@ In pharmaceutical research, *Hypnum* species have been investigated for bioactiv
 *Hypnum cupressiforme* establishes readily from vegetative fragments on suitable substrates. Stem pieces scattered on moist, shaded, acidic surfaces produce new growth within 4–8 weeks under ambient humidity.
 
 For terrarium and bonsai cultivation, pre-collected mats can be pressed onto prepared surfaces and maintained at high humidity. The species tolerates a range of light conditions from deep shade to moderate indirect light.
-
-The species is not considered threatened globally due to its extreme abundance and wide distribution. However, local populations in heavily polluted urban areas have declined, reflecting broader trends in epiphytic bryophyte communities.
-
-Conservation priorities focus on maintaining mature forest stands with diverse bark substrates. Retention of [[fungal-dead-wood-diversity]] and veteran trees provides critical epiphytic habitat for *H. cupressiforme* and associated bryophyte species.
-
-## See Also
-
-- [[hypnum-lacunosum]]
-
-- [[sphagnum-cuspidatum]]
-- [[peltigera-aphthosa]]
-- [[sticta-sylvatica]]
-- [[nephroma-expansible]]
-- [[equisetum-hyemale]]
-- [[dryopteris-filix-mas]]
-- [[picea-abies]]
-- [[ectomycorrhiza]]
-- [[ericoid-mycorrhiza]]
-- [[larix-decidua]]
-- [[sequoia-sempervirens]]
-- [[matteuccia-struthiopteris]]
-- [[adiantum-pedatum]]
-- [[pteris-vittata]]

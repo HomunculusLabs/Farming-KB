@@ -15,9 +15,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Prozialeck, W.C. et al. (2012). "Kratom (Mitragyna speciosa): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
+  - Prozialeck, W.C. et al. (2012). "Kratom (kratom-mitragyna-speciosa-pharmacology): An overview of the science and implications for practitioners." Journal of the American Osteopathic Association, 112(12), 782–787.
   - Hassan, Z. et al. (2013). "Mechanism of antinociceptive action of Mitragyna speciosa: involvement of supraspinal opioid receptors." International Journal of Molecular Sciences, 14(12), 23482–23496.
-  - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and Alcohol Dependence, 174, 63–70.
+  - Grundmann, O. (2017). "Patterns of kratom use and health impact in the US." Drug and [[cannabis-for-alcohol-dependence]], 174, 63–70.
   - Warner, M.L. et al. (2016). "Kratom use in Thailand: an analysis of the literature." Journal of Psychoactive Drugs, 48(3), 224–229.
   - Henningfield, J.E. et al. (2018). "The pharmacology of kratom." The American Journal of Drug and Alcohol Abuse, 44(5), 496–505.
   - Singh, D. et al. (2016). "Kratom (Mitragyna speciosa) dependence, withdrawal symptoms and craving in regular users." Drug and Alcohol Dependence, 164, 53–59.
@@ -57,13 +57,13 @@ Kratom belongs to the same family as coffee (*Coffea* spp.), gardenia (*Gardenia
 Kratom leaves contain over 40 structurally related indole alkaloids, with the following being the most pharmacologically significant:
 
 - **Mitragynine:** The predominant alkaloid, constituting approximately 66% of total alkaloid content (1–1.5% of dry leaf weight). Acts as a partial agonist at mu-opioid receptors (MOR) and delta-opioid receptors, and as an antagonist at kappa-opioid receptors. Also exhibits adrenergic and serotonergic activity.
-- **7-Hydroxymitragynine:** A minor constituent (<2% of total alkaloids) but 30–46 times more potent than mitragynine at MOR. Considered the primary contributor to the opioid-like analgesic effects of kratom. More effective at activating G-protein signaling pathways (the analgesic pathway) than β-arrestin pathways (the respiratory depression pathway).
+- **7-Hydroxymitragynine:** A minor constituent (<2% of total alkaloids) but 30–46 times more potent than mitragynine at MOR. Considered the primary contributor to the opioid-like analgesic effects of kratom. More effective at activating G-protein [[plant-signaling-pathways]] (the analgesic pathway) than β-arrestin pathways (the respiratory depression pathway).
 - **Speciociliatine:** The second most abundant alkaloid (~9% of total), with reported MOR partial agonist activity. May contribute to the overall analgesic profile of whole-leaf preparations.
 - **Paynantheine:** A minor alkaloid with weak opioid receptor affinity. May modulate the overall pharmacological profile through entourage effects.
 
-The entourage effect — the synergistic interaction of multiple kratom alkaloids producing effects greater than the sum of individual components — is an area of active research interest. This phenomenon may explain why whole-leaf kratom preparations produce a different subjective experience than isolated mitragynine at equivalent doses, and has implications for the development of standardized pharmaceutical preparations.
+[[cannabis-terpene-entourage-effect]] — the synergistic interaction of multiple kratom alkaloids producing effects greater than the sum of individual components — is an area of active research interest. This phenomenon may explain why whole-leaf kratom preparations produce a different subjective experience than isolated mitragynine at equivalent doses, and has implications for the development of standardized pharmaceutical preparations.
 
-Additional alkaloids include [[speciogynine]], ajmalicine, mitraphylline, rhynchophylline, and corynantheidine. The total alkaloid content varies significantly based on growing conditions, harvest timing, leaf age, and processing methods. Young leaves generally contain higher mitragynine concentrations than mature leaves.
+Additional alkaloids include [[speciogynine]], ajmalicine, mitraphylline, rhynchophylline, and corynantheidine. The total alkaloid content varies significantly based on growing conditions, harvest timing, leaf age, [[mushroom-storage-and-processing-methods]]. Young leaves generally contain higher mitragynine concentrations than mature leaves.
 
 The commercial kratom market distinguishes between several product forms: dried leaf powder, crushed leaf, extracts (water-based and solvent-based), enhanced leaf (powder fortified with extract), and capsules. Extracted and enhanced products typically contain substantially higher mitragynine concentrations than plain leaf, and are associated with a disproportionate share of adverse events and dependence cases reported in the literature.
 
@@ -77,7 +77,7 @@ Kratom's pharmacological profile is complex and not fully characterized, involvi
 
 The unique biased signaling profile of mitragynine at MOR represents a significant pharmacological distinction from classical opioids. In animal models, mitragynine produces potent antinociception with substantially less respiratory depression, constipation, and physical dependence than morphine at equianalgesic doses. This has generated interest in kratom alkaloids as potential leads for novel analgesic drug development with improved safety profiles.
 
-Mitragynine undergoes hepatic metabolism primarily via CYP3A4 and CYP2D6, with the major metabolite being 7-hydroxymitragynine. The elimination half-life of mitragynine is approximately 7–9 hours, though significant interindividual variability has been observed. O- and N-demethylation, oxidation, and glucuronidation produce numerous secondary metabolites, some of which retain pharmacological activity.
+Mitragynine undergoes hepatic metabolism primarily via CYP3A4 and CYP2D6, with the major metabolite being 7-hydroxymitragynine. The elimination half-life of mitragynine is approximately 7–9 hours, though significant interindividual variability has been observed. O- and N-demethylation, oxidation, and glucuronidation produce numerous [[antifungal-secondary-metabolites-coprophilous-fungi]], some of which retain pharmacological activity.
 
 Recent preclinical research has identified mitragynine's biased agonism at MOR as a potential paradigm for developing safer analgesics. By preferentially activating G-protein signaling (which mediates analgesia) over β-arrestin recruitment (which mediates respiratory depression and tolerance), mitragynine and its derivatives may offer a therapeutic window not available with conventional opioid analgesics. Several pharmaceutical companies are actively developing synthetic mitragynine analogues for clinical use.
 
@@ -88,33 +88,3 @@ Recent preclinical research has identified mitragynine's biased agonism at MOR a
 **Duration:** 4–8 hours, with onset at 15–30 minutes (oral), peak at 1–2 hours.
 
 **Subjective effects profile (biphasic):**
-
-- **Low doses (1–5 g):** Predominantly stimulant effects including increased energy, alertness, sociability, and mild euphoria. Users describe effects as similar to caffeine but with greater mood elevation and reduced anxiety. Physical effects include pupillary constriction, mild tachycardia, and increased libido.
-- **High doses (5–15 g):** Predominantly opioid-like effects including analgesia, sedation, emotional blunting, and profound relaxation. Users describe effects as qualitatively similar to [[morphine]] or [[codeine]], though generally milder and with less euphoria. Doses above 15 g increase risk of nausea, vomiting, and respiratory depression.
-
-**Common side effects:** Nausea (dose-dependent, very common at higher doses), constipation, dry mouth, urinary retention, loss of appetite, weight loss, insomnia, darkening of skin, and tachycardia. Chronic heavy use is associated with hypothyroidism, hepatotoxicity, and seizures in rare cases.
-
-**Withdrawal syndrome:** Regular kratom use produces physical dependence with a withdrawal syndrome resembling mild opioid withdrawal. Onset within 12–48 hours of cessation, peaking at 2–4 days. Symptoms include anxiety, irritability, muscle aches, runny nose, diarrhea, insomnia, and craving. Severity is generally less than withdrawal from [[heroin]] or prescription opioids, though cases requiring medical management have been documented.
-
-Tolerance to kratom develops with regular daily use, typically requiring dose escalation over weeks to months. Heavy users frequently consume 20–30 grams of leaf per day, often in multiple divided doses. The rapid growth of the commercial kratom market has been accompanied by increasing reports of heavy daily use patterns and associated health consequences, though the prevalence of problematic use remains debated.
-
-## Toxicology
-
-The acute toxicity of kratom is relatively low compared to classical opioids. No confirmed fatalities have been attributed to kratom alone in controlled studies, though deaths involving kratom in combination with other substances (particularly other opioids, benzodiazepines, and alcohol) have been reported. The FDA has attributed 44 deaths to kratom-containing products, though independent analyses have questioned the causal attribution in many of these cases.
-
-**Hepatotoxicity:** Several case reports have documented elevated liver enzymes and clinically significant hepatotoxicity associated with kratom use, particularly with heavy chronic consumption or use of extracted/fortified products. The mechanism is unclear but may involve direct mitochondrial toxicity or immune-mediated injury. Most cases resolve with cessation, though rare cases of acute liver failure requiring transplantation have been reported.
-
-The hepatotoxic potential of kratom appears to be strongly correlated with dose and product type. Plain leaf preparations at typical doses are rarely associated with liver injury, while concentrated extracts and enhanced products carry disproportionate risk. This pattern suggests that supraphysiological mitragynine exposure may overwhelm normal hepatic metabolic capacity, leading to direct hepatocyte damage.
-
-**Seizure risk:** Kratom use has been associated with seizures in case reports, though the causal relationship remains uncertain due to frequent co-use of other pro-convulsant substances. The seizure risk appears to be dose-dependent and more common with extracted products that concentrate mitragynine beyond naturally occurring levels.
-
-Contamination of commercial kratom products represents an additional health concern. Testing by the FDA and independent laboratories has identified Salmonella contamination, heavy metals (lead, arsenic), and adulteration with synthetic opioids or other pharmacologically active substances in some commercial products. The lack of standardized manufacturing practices and quality control in the largely unregulated kratom industry exacerbates these risks.
-
-**Drug interactions:** Kratom's metabolism via CYP3A4 and CYP2D6 creates potential for significant pharmacokinetic interactions with medications metabolized by these enzymes. Co-administration with CYP3A4 inhibitors (ketoconazole, ritonavir) may increase mitragynine exposure, while CYP3A4 inducers (carbamazepine, St. John's wort) may reduce its effectiveness. Concurrent use with other CNS depressants carries additive respiratory depression risk.
-
-**Legal status:** Kratom remains unscheduled at the US federal level after the DEA withdrew a 2016 scheduling proposal following massive public opposition. Thailand legalized regulated kratom sale in 2021 after decades of prohibition under the 1943 Kratom Act. Malaysia, Australia, and several EU nations control kratom as a prohibited or restricted substance, while Indonesia (the largest producer) has oscillated between export promotion and domestic prohibition. The FDA has not approved kratom for any medical use.
-
-## See Also
-
-[[morphine]] [[codeine]] [[heroin]] mitragynine [[7-hydroxymitragynine]]
-[[speciogynine]] [[lsd]] [[psilocybin]] [[dmt]] [[ibogaine]]

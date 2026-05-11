@@ -87,28 +87,3 @@ The cat-attracting properties of T. marum have been attributed to volatile terpe
 Essential oil yields from dried aerial parts range from 0.3–1.2% v/w depending on harvest time and population origin. The highest yields are obtained from plants harvested during full flowering, and the chemical composition varies significantly between Sardinian and mainland Italian populations.
 
 Some Teucrium species contain hepatotoxic furanoclerodane diterpenoids (notably teucrin A in T. chamaedrys). T. marum has not been specifically investigated for these compounds, though the absence of reported hepatotoxicity in traditional use suggests lower concentrations compared to T. chamaedrys.
-
-## Traditional Uses
-
-T. marum has a documented history of use in Sardinian and Corsican folk medicine as a digestive aid and antispasmodic. Infusions of the aerial parts were administered to treat colic, indigestion, and intestinal parasites in both humans and livestock.
-
-In traditional veterinary practice, T. marum was used as a vermifuge for sheep and goats, reflecting the broader ethnoveterinary tradition of Teucrium species across the Mediterranean. The plant was also applied externally as a poultice for wounds and skin inflammations.
-
-The association between T. marum and cats was noted in classical and Renaissance herbals, where the plant was sometimes called "herba cattaria" in Latin texts. This cross-cultural recognition of the cat-attracting property predates modern scientific investigation by several centuries.
-
-The aromatic foliage was historically used as a strewing herb and in sachets to repel moths and other insects from stored textiles. In rural Sardinian communities, bundles of T. marum were placed in cupboards and linen closets for this purpose.
-
-In Sardinian ethnoveterinary tradition, T. marum decoctions were used to treat respiratory ailments in goats and sheep. The plant was also incorporated into traditional cheese-making practices in some mountain communities, where sprigs were added to rennet preparations.
-
-The species has attracted limited modern pharmacological investigation compared to T. polium. Preliminary in vitro studies on related Teucrium species demonstrate antimicrobial, anti-inflammatory, and antioxidant activities, suggesting potential avenues for future research on T. marum specifically.
-
-## See Also
-
-- [[thymus-vulgaris-entity]]
-- [[rosmarinus-officinalis-entity]]
-- [[origanum-vulgare-entity]]
-- [[mentha-piperita]]
-- [[hyssopus-officinalis]]
-- [[mentha-spicata]]
-- [[ocimum-basilicum]]
-- [[prunella-vulgaris]]

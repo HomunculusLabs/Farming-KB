@@ -9,7 +9,7 @@ sources: []
 
 # Reciprocal Roof Frame
 
-A reciprocal [[comparison-reciprocal-roof-vs-timber-frame]] roof is a self-supporting roof structure where each rafter rests on and supports the next, forming a spiraling or circular arrangement. No central column or ridge beam is needed — the rafters mutually support each other through an interlocking pattern. This creates a striking, open interior space with a central oculus (opening) at the peak.
+A reciprocal roof is a self-supporting roof structure where each rafter rests on and supports the next, forming a spiraling or circular arrangement. No central column or ridge beam is needed — the rafters mutually support each other through an interlocking pattern. This creates a striking, open interior space with a central oculus (opening) at the peak.
 
 ## How It Works
 
@@ -46,11 +46,11 @@ Reciprocal roofs are especially well-suited to roundwood (unmilled, whole logs o
 
 ### Selecting Roundwood
 
-- **Species:** Locust, oak, larch, Douglas fir, and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
+- **Species:** Locust, oak, larch, [[douglas-fir]], and [[holzer-sweet-chestnut-and-nut-trees]] are naturally rot resistant. Pine and spruce work but need more protection.
 - **Diameter:** 4-8 inches at the butt end for most small to medium structures
 - **Length:** Determined by the building radius plus overhang
 - **Straightness:** Rafters should be reasonably straight; slight curves add character but must be accounted for
-- **Condition:** Sound wood, no rot, active bark beetle galleries, or significant cracks
+- **Condition:** Sound wood, no rot, active [[bark-beetle-fungi-ophiostomatales-collection-isolation]] galleries, or significant cracks
 
 ### Peeling and Preparation
 
@@ -115,7 +115,7 @@ The reciprocal roof's round or polygonal shape and often organic geometry pair b
 
 ### Layer Assembly (top to bottom)
 
-1. **Growing medium:** 3-6 inches of lightweight soil mix (compost, sand, lightweight aggregate)
+1. **[[cervantes-green-algae-growing-medium]]:** 3-6 inches of lightweight soil mix (compost, sand, lightweight aggregate)
 2. **Root barrier:** Pond liner or heavy-duty polyethylene
 3. **Drainage layer:** Gravel or drainage mat
 4. **Filter fabric:** Prevents soil from clogging drainage
@@ -137,7 +137,7 @@ The reciprocal roof's round or polygonal shape and often organic geometry pair b
 
 ## Related Concepts
 
-- [[timber-frame-basics]] for traditional timber joinery and frame construction
+- [[timber-frame-basics]] for traditional timber joinery and [[cold-frame-construction]]
 - [[natural-building-materials-guide]] for wall systems to pair with reciprocal roofs
 - [[greenhouse-design]] for another round structure approach
 - [[rocket-mass-heater-design]]

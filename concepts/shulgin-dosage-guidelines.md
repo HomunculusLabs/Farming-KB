@@ -74,3 +74,11 @@ The dosage data in PIHKAL allows for direct comparison of compound potencies:
 | DOI | 0.5 mg | 1.5-3 mg | ~200x |
 
 See also: [[pihkal-introduction-and-methodology]], [[phenethylamine-synthesis-safety]], [[psychedelic-mushroom-set-and-setting]], [[phenethylamine-duration-and-timing]]
+
+## See Also
+
+- [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]
+- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- [[query-how-do-i-grow-elderberries-and-what-are-their-medicinal-uses]]

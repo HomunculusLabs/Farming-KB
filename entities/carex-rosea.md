@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora of North America North of Mexico 23: 254–572.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 254–572.
   - Bryson, C.T. & DeBarros, D.S. (2018). "Sedges (Cyperaceae) of the Southern United States." USDA NRCS.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
   - Hurd, P.D. Jr., Linsley, E.G. & Whitaker, T.W. (1980). "Cyperaceae as Host Plants for Bees." Journal of the Kansas Entomological Society 53(1): 136–139.
@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-**Carex rosea**, commonly known as rosy sedge, star sedge, or curved-styled woodland sedge, is a perennial herbaceous plant in the family Cyperaceae. It is native to eastern and central North America, where it grows in moist deciduous forests, floodplain woodlands, and shaded stream banks.
+**Carex rosea**, commonly known as rosy sedge, star sedge, or curved-styled woodland sedge, is a perennial herbaceous plant in the family Cyperaceae. It is native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], where it grows in moist deciduous forests, floodplain woodlands, and shaded stream banks.
 
-The species is a member of the large genus Carex, which contains over 2,000 species worldwide. Carex rosea is one of the more shade-tolerant sedges in eastern North American forests, often forming loose colonies in the herbaceous understory layer.
+The species is a member of the large genus Carex, which contains over 2,000 species worldwide. Carex rosea is one of the more shade-tolerant sedges in [[polypore-fungi-eastern-north-america]] American forests, often forming loose colonies in the herbaceous understory layer.
 
 It is not considered rare or threatened across most of its range, though local populations may decline with habitat fragmentation and canopy removal. NatureServe ranks it as G5 (globally secure) throughout its distribution.
 
@@ -51,7 +51,7 @@ The root system is fibrous and shallow, consisting of a dense network of fine ro
 
 ## Distribution and Habitat
 
-Carex rosea ranges from Nova Scotia and southern Quebec west to Minnesota, south to eastern Texas, and east to northern Florida. It is most abundant in the Appalachian region and the interior highlands of the Ozarks and Ouachitas.
+Carex rosea ranges from Nova Scotia and southern Quebec west to Minnesota, south to eastern Texas, and east to northern Florida. It is most abundant in the [[bolete-fungi-appalachian-region]] and the interior highlands of the Ozarks and Ouachitas.
 
 The species occurs in a variety of moist to mesic forest types, including maple-beech forests, oak-hickory woodlands, bottomland hardwood forests, and riparian corridors.
 
@@ -61,7 +61,7 @@ The species exhibits some ecological plasticity, occurring on both acidic soils 
 
 Carex rosea tolerates moderate shade but declines under dense, multi-layered canopy closure. It is more common in forest openings, gap-phase disturbances, and along trails and stream edges where light penetration is greater.
 
-The species is relatively tolerant of periodic flooding during the growing season, particularly in bottomland and riparian settings. It is less common in permanently saturated soils, where it is replaced by more hydrophytic Carex species such as Carex stricta and Carex lupulina.
+The species is relatively tolerant of periodic flooding during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], particularly in bottomland and riparian settings. It is less common in permanently saturated soils, where it is replaced by more hydrophytic Carex species such as [[carex-stricta]] and [[carex-lupulina]].
 
 Carex rosea also occurs in disturbed wooded areas including forest edges, old logging roads, and secondary woodlands regenerating after agricultural abandonment. It is one of the earlier Carex species to colonize disturbed forest floor microsites.
 
@@ -79,51 +79,12 @@ The seeds are dispersed by water, gravity, and to a limited extent by small mamm
 
 Carex rosea is considered an indicator species of high-quality forest communities in portions of its range. Its presence often signals relatively undisturbed conditions with intact hydrology and mature canopy structure.
 
-In forest nutrient cycling, Carex rosea contributes to root turnover and organic matter accumulation. Its fibrous root system supports mycorrhizal associations that enhance nutrient uptake in nutrient-poor forest soils.
+In forest [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], Carex rosea contributes to root turnover [[hamilton-composting-and-organic-matter-management]] accumulation. Its fibrous root system supports [[plants-without-mycorrhizal-associations]] that enhance nutrient uptake in nutrient-poor forest soils.
 
 ## Related Species
 
 Carex rosea is most easily confused with Carex radiata (eastern star sedge), which shares a similar perigynium shape and woodland habitat. Carex radiata has narrower perigynia with more prominent nerves and a longer beak.
 
-Carex laxiflora (loose-flowered sedge) overlaps in range and habitat but produces longer, more pendulous spikelets with distinctly wider leaf blades. Carex pensylvanica (Pennsylvania sedge) occupies drier, more open woodlands and has narrower leaves.
+[[carex-laxiflora]] (loose-flowered sedge) overlaps in range and habitat but produces longer, more pendulous spikelets with distinctly wider leaf blades. [[carex-pensylvanica]] (Pennsylvania sedge) occupies drier, more open woodlands and has narrower leaves.
 
 Within the section Roseae, Carex rosea is distinguished by its bidentate perigynium beak and relatively broad, nerveless inner face. Carex peckii is a more western counterpart with similar morphology but occurs in Rocky Mountain forests.
-
-The genus Carex is the largest genus in Cyperaceae, with over 2,000 species distributed globally. Section Roseae contains approximately 15 species native to North America and eastern Asia.
-
-## Cultivation
-
-Carex rosea is occasionally cultivated in native plant gardens, woodland restorations, and shaded rain gardens. It is valued for its fine-textured foliage and adaptability to dry shade, a challenging garden condition.
-
-Propagation is primarily by seed, which requires 60–90 days of cold stratification for optimal germination. Division of established clumps in early spring is also effective and produces flowering plants more quickly.
-
-Plants prefer partial to full shade and moist, well-drained soils rich in organic matter. Once established, they demonstrate moderate drought tolerance, particularly when grown under a protective tree canopy.
-
-Carex rosea is largely free of serious pest or disease problems in cultivation. Foliar rust and leaf spot fungi may occur under humid conditions but rarely require intervention.
-
-In naturalistic plantings, it combines well with other shade-tolerant natives such as wild geranium, Solomon's seal, ferns, and wild ginger. It can serve as a living mulch, suppressing weed germination through its dense basal foliage.
-
-Carex rosea requires minimal maintenance once established and does not require regular fertilization or division. It may self-seed sparingly in garden settings but is not considered aggressive or invasive.
-
-The species is not widely available in commercial horticulture but can be sourced from native plant nurseries specializing in regional ecotypes.
-
-## See Also
-
-- [[carex-vulpinoidea]]
-
-- [[carex-lacustris]]
-
-- [[carex-grayi]]
-
-- [[carex-bigelowii]]
-
-- [[carex-pensylvanica]]
-- [[carex-stricta]]
-- [[carex-laxiflora]]
-- [[carex-lupulina]]
-- [[carex-stipata]]
-- [[juncus-effusus]]
-- [[deschampsia-caespitosa]]
-- [[molinia-caerulea]]
-- [[geranium-maculatum]]
-- [[polygonatum-biflorum]]

@@ -25,7 +25,7 @@ type: concept
 
 ## Overview
 
-The theory that the Vedic [[amanita-muscaria-entity|Amanita muscaria]]. Flattery and Schwartz revived and substantially strengthened the original Jones identification by drawing on scriptural materials from the Zoroastrian tradition that had been neglected in previous scholarship.
+The theory that the Vedic [[amanita-muscaria|Amanita muscaria]]. Flattery and Schwartz revived and substantially strengthened the original Jones identification by drawing on scriptural materials from the Zoroastrian tradition that had been neglected in previous scholarship.
 
 ## Peganum Harmala — Botanical and Chemical Profile
 
@@ -88,11 +88,3 @@ improve resilience and productivity over time.
 
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]

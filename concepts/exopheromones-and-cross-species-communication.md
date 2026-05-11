@@ -25,7 +25,7 @@ exopheromones are chemical messengers that operate across species lines,
 allowing individuals of one species to influence members of an entirely
 different species. This concept has profound implications for
 understanding the role of psychoactive plants in human evolution and the
-broader question of how intelligence and communication operate in the
+broader question of how [[plant-intelligence-and-communication]] operate in the
 natural world.
 
 ## Alkaloids as Dynamic Metabolites
@@ -42,7 +42,7 @@ The role of these alkaloids in the chemistry of metabolism makes it
 clear that they are essential to the life and survival strategy of the
 organisms that produce them, though they are acting in ways that are not
 yet fully understood. Rather than being peripheral waste products,
-psychoactive compounds may serve critical ecological functions.
+psychoactive compounds may serve critical [[fungal-melanin-biosynthesis-ecological-functions]].
 
 ## Nature as Communicating Organism
 
@@ -74,7 +74,7 @@ self-reflection.
 
 Some exopheromones act in ways that allow a small group of individuals to
 affect a community or an entire biome. This amplification of effect
-through chemical signaling suggests that nature possesses mechanisms for
+through [[fungal-chemical-signaling]] suggests that nature possesses mechanisms for
 coordinated response that operate on scales far beyond the individual
 organism. The idea that nature might be an organism whose interconnected
 components act upon and communicate with one another through chemical
@@ -88,46 +88,3 @@ Transcendent Other is nature correctly perceived to be alive and
 intelligent. From another, it is the awesomely unfamiliar union of all
 the senses with memory of the past and anticipation of the future. It is
 Nature without her cheerfully reassuring mask of ordinary space, time,
-and causality.
-
-The Transcendent Other represents the crucible of the mystery of being,
-both as a species and as individuals. If hallucinogens function as
-interspecies chemical messengers, then the dynamic between primate and
-hallucinogenic plant signifies a transfer of information from one species
-to another that has been occurring for millions of years. This transfer
-has shaped human consciousness, culture, and religion in ways that are
-only beginning to be appreciated.
-
-## The Economy of Evolutionary Response
-
-Nature tends to act with a certain economy. Once developed, a given
-evolutionary response to a problem will be applied again and again in
-situations where it is appropriate. The existence of psychoactive
-compounds across widely separated plant families suggests that the
-production of these compounds represents a repeatedly deployed
-evolutionary strategy rather than a series of independent accidents.
-
-The idea that secondary compounds in plants are not truly secondary but
-serve essential communicative and regulatory functions aligns with
-emerging understanding of chemical ecology. Plants produce an enormous
-diversity of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] that influence the behavior,
-reproduction, and survival of other organisms in their environment. The
-hallucinogenic alkaloids may represent the most dramatic examples of
-this cross-species [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]].
-
-## Implications for Human-Plant Relationships
-
-The exopheromone hypothesis reframes the human relationship with
-psychoactive plants from one of mere exploitation to one of
-participation in an ancient chemical dialogue. Humans did not simply
-discover psychoactive plants; they were invited, through chemical
-messaging, into a relationship that has profoundly shaped the trajectory
-of our species. This perspective suggests that the benefits flowed in
-both directions, with humans serving as agents of dispersal and
-cultivation for the plants that provided cognitive and spiritual gifts.
-
-## See Also
-
-- [[stropharia-cubensis-as-ur-plant]]
-- [[psilocybin-chemistry-and-pharmacology]]
-- [[partnership-versus-dominator-culture]]

@@ -23,21 +23,21 @@ sources:
   - "Leafly. (2024). \"Do-Si-Dos blesching-cannabis-strain-selection-receptor-targeting Information.\" Leafly.com."
   - "AllBud. (2024). \"Do-Si-Dos Weed Strain.\" AllBud.com."
   - "Wikileaf. (2024). \"Do-Si-Dos Strain Review.\" Wikileaf.com."
-  - " cannabis strain database, Archive Seed Bank."
+  - " [[biscotti-cannabis-strain]] database, Archive Seed Bank."
   - https://www.leafly.com/strains/dosidos
   - https://www.allbud.com/marijuana-strains/indica/do-si-dos
 ---
 
 # Do-Si-Dos
 
-Do-Si-Dos is a potent indica-dominant hybrid cannabis strain bred by
-Archive Seed Bank in Oregon, crossing the legendary Girl Scout Cookies
+Do-Si-Dos is a potent indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by
+Archive Seed Bank in Oregon, crossing the legendary [[girl-scout-cookies]]
 with Face Off OG. Named after the classic spinning dance move, the strain
 has earned a reputation for heavy, full-body sedation paired with cerebral
 euphoria, making it a favorite among medical patients and evening
 recreational users.
 
-The strain took the Pacific Northwest by storm after its release in 2016,
+The strain took the [[psilocybin-north-america-pacific-northwest]] by storm after its release in 2016,
 winning multiple awards and quickly becoming a parent strain for numerous
 successful crosses. Its dense, frosty buds and sweet, earthy aroma make it
 instantly recognizable in dispensaries.
@@ -80,67 +80,11 @@ instantly recognizable in dispensaries.
   happiness, creative introspection that transitions to heavy sedation
 - **Body effects:** Strong body stone, couch-lock at higher doses,
   muscle tension relief, numbing sensation in extremities
-- **Medical applications:** [[cannabis-chronic-pain-management]], insomnia, stress, anxiety,
-  PTSD, muscle spasms, appetite stimulation, nausea
+- **[[oner-sativa-medical-applications]]:** [[cannabis-chronic-pain-management]], insomnia, stress, anxiety,
+  PTSD, muscle spasms, [[cannabis-for-cachexia-and-appetite-stimulation]], nausea
 - **Side effects:** Dry mouth (common), dry eyes (common), dizziness
   (moderate doses), paranoia/anxiety (high doses or sensitive users),
   lethargy (prolonged use)
 
 The effect profile is distinctly biphasic: a brief window of uplifted mood
 and mild creative energy gives way to progressively deeper physical
-relaxation. This makes it suitable for evening use but potentially
-debilitating for daytime activities.
-
-## Growing Characteristics
-
-- **Flowering time:** 8–9 weeks indoors; early to mid-October outdoors
-- **Yield:** Moderate; 10–14 oz/plant indoors, 12–16 oz/plant outdoors
-- **Height:** Medium; 90–150 cm indoors, can exceed 200 cm outdoors
-- **Difficulty:** Moderate — suitable for intermediate growers
-- **Climate:** Prefers warm, dry Mediterranean conditions; sensitive to
-  high humidity (mold risk due to dense bud structure)
-- **Resistance:** Moderate mold resistance; requires good airflow;
-  [[cannabis-disease-pest-resistance-breeding-clarke]] is average
-- **Nutrient needs:** Moderate to heavy feeder; responds well to PK
-  boosters in late flowering
-- **Training:** LST and ScrOG recommended; responds well to topping
-  early in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; supports moderate defoliation
-
-## Terpene Profile
-
-| Terpene | Approximate Range | Primary Effect |
-|---------|-------------------|----------------|
-| Limonene | 0.5–1.2% | Mood elevation, stress relief |
-| β-Caryophyllene | 0.4–1.0% | Anti-inflammatory, analgesic |
-| Linalool | 0.3–0.8% | Sedation, anxiolytic |
-| Myrcene | 0.3–0.7% | Sedation, muscle relaxation |
-| Humulene | 0.1–0.4% | Anti-inflammatory, appetite suppression |
-| α-Pinene | 0.1–0.3% | Focus, bronchodilation |
-
-## Genetic Relatives and Crosses
-
-- **Girl Scout Cookies (GSC):** Contributes sweet, complex aroma and
-  resin production; the backbone of Do-Si-Dos's bag appeal
-- **Face Off OG:** Contributes heavy indica sedation, diesel aromatics,
-  and potency; an OG Kush descendant
-- **Notable crosses:** Dosido #22 (Archive), Do-Si-Dos × OGKB,
-  Raspberry Do-Si-Dos, Peanut Butter Do-Si-Dos, Purple Do-Si-Dos,
-  Wifi #43 (Wifi OG × Do-Si-Dos)
-
-## Cultural Significance
-
-Do-Si-Dos emerged during the "Cookie wave" era of [[oner-cannabis-breeding-fundamentals]]
-(2014–2018), when GSC and its descendants dominated the industry. The
-strain exemplifies the Pacific Northwest breeding philosophy of pairing
-elite clone-only genetics with proven stud males. Its name references the
-childhood dance move, a playful nod from a breeder known for serious
-genetics.
-
-The strain has won or placed in multiple competitions including the
-Emerald Cup and High Times Cannabis Cup, and remains a staple in
-dispensaries across legal markets.
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[wedding-cake]]
-- [[gmo-garlic-cookies]]

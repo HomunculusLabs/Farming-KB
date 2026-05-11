@@ -1,5 +1,5 @@
 ---
-title: "Compost Quality Assessment: Visual and Microbial Indicators"
+title: Ingham Compost Quality Assessment Visual Microbial Indicators
 source: "Elaine Ingham - The Field Guide for [[actively-aerated-compost-tea]] Tea"
 source_id: "ingham-aact-field-guide"
 topics: [compost, compost-quality, soil-food-web, microbial-assessment, thermal-compost, aact]
@@ -9,7 +9,7 @@ topics: [compost, compost-quality, soil-food-web, microbial-assessment, thermal-
 
 ## Overview
 
-The quality of compost used as starter material for Actively Aerated
+The quality of compost used as starter material for [[actively-aerated-compost-tea-aact-brewing]]
 Compost Tea (AACT) is the single most important factor determining brew
 success. Ingham's field guide devotes extensive attention to compost
 quality because no brewing skill can compensate for poor starting
@@ -19,12 +19,12 @@ brewing and are delivered to soil or plant surfaces through the tea.
 
 ## Thermal vs. Vermicompost
 
-Ingham distinguishes between thermal compost and vermicompost as tea
+Ingham distinguishes between [[aact-vermicompost-vs-thermal-compost-ingham]] and vermicompost as tea
 starters. Both can produce excellent tea but have different microbial
 profiles. Thermal compost tends to have more balanced bacterial-to-fungal
 ratios and can be managed to favor either group. Vermicompost is
 typically more bacterial-dominated but contains significant protozoa and
-beneficial nematodes from worm processing.
+[[ingham-beneficial-nematodes-soil-food-web]] from worm processing.
 
 The choice depends on target crops. For fungal-dominated systems
 (perennials, trees), thermal compost with high fungal biomass is
@@ -45,7 +45,7 @@ into tea.
 Properly finished compost has a pleasant, earthy forest-floor aroma from
 geosmin produced by actinobacteria. Offensive odors indicate problems:
 sour or vinegar-like smells suggest anaerobic conditions; ammonia
-indicates incomplete nitrogen cycling; putrid or sulfurous smells
+indicates incomplete [[fungal-role-in-nitrogen-cycling]]; putrid or sulfurous smells
 indicate severe anaerobic conditions with hydrogen sulfide. Compost with
 any offensive odor should not be used for tea brewing.
 
@@ -82,38 +82,8 @@ should contain 100 million to 1 billion bacterial cells per gram, with
 vegetable crops and 10–100+ meters per gram for perennials and trees.
 Protozoa should be at least 10,000–100,000 per gram. Beneficial
 nematodes should be detectable. Diverse [[teaming-with-microbes-protozoa-and-nematodes]] indicate
-mature compost food webs with functional nutrient cycling.
+mature compost food webs with functional [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## Common Quality Problems
 
 ### Anaerobic Pockets
-
-Compost with anaerobic pockets — foul odors, dark slimy areas, or
-blackish-blue discoloration — introduces [[ingham-anaerobic-organisms-role-soil]] and
-phytotoxic metabolites (alcohol, phenol, hydrogen sulfide) into tea.
-Affected compost should be aerated and allowed to recover or discarded.
-
-### Contaminants
-
-Ingham warns about persistent herbicides (clopyralid, aminopyralid)
-surviving composting, antibiotic residues from manured animals, and
-heavy metals from contaminated feedstocks. Municipal green waste compost
-may contain lawn herbicide residues. Manure-based composts may carry
-veterinary antibiotics. Brewers should know their compost sources.
-
-## Compost Age and Storage
-
-Compost quality changes over time. Freshly finished compost has peak
-microbial diversity. Ingham recommends using compost within 6–12 months
-of completion. Very old compost may have lost microbial activity and
-produces tea with lower organism counts. Store compost in cool, shaded
-locations, kept moist. Completely dried compost loses organisms that may
-not reactivate during the short brewing cycle.
-
-## See Also
-
-- Ingham thermal compost process standards
-- Ingham vermicompost vs thermal compost
-- [[ingham-microscope-identification-soil-biology]] soil biology
-- [[ingham-compost-contaminants]]
-- AACT compost quality standards

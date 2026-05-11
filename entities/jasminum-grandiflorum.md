@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
-  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of Essential Oil Research, 20(4), 285–287.
+  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 20(4), 285–287.
   - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Oleoresins." CBI, The Hague.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 The species is the primary commercial source of jasmine absolute and jasmine concrete, two of the most valued fragrance materials used in high-end perfumery, cosmetics, and aromatherapy. Jasmine absolute is often described as the "king of florals" in perfumery, prized for its rich, warm, and complex floral aroma with animalic undertones.
 
-Beyond its commercial importance, *J. grandiflorum* holds deep cultural and religious significance across South Asia, the Middle East, and the Mediterranean. It is the national flower of several countries and is extensively used in religious ceremonies, wedding garlands, and traditional medicine.
+Beyond its commercial importance, *J. grandiflorum* holds deep cultural and religious significance across South Asia, the Middle East, and the Mediterranean. It is the national flower of several countries and is extensively used in [[entheogenic-folk-religious-ceremonies]], wedding garlands, and traditional medicine.
 
 ## Taxonomy and Morphology
 
@@ -37,7 +37,7 @@ Beyond its commercial importance, *J. grandiflorum* holds deep cultural and reli
 * **Genus:** Jasminum
 * **Species:** J. grandiflorum
 
-The genus *Jasminum* contains approximately 200 species distributed across tropical and temperate regions of the [[datura-metel-old-world-ethnobotany]]. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
+The genus *Jasminum* contains approximately 200 species distributed across tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the [[datura-metel-old-world-ethnobotany]]. Several species are commercially important, but *J. grandiflorum* and *J. sambac* (Arabian jasmine) dominate the international jasmine trade.
 
 *J. grandiflorum* is a vigorous, scrambling, deciduous shrub or weak climber, typically reaching 2–4 meters in height with support. Stems are slender, angular, and trailing, with opposite, pinnate leaves composed of 5–7 leaflets.
 
@@ -49,7 +49,7 @@ The fragrance is exceptionally strong and sweet, particularly in the evening and
 
 ## Essential Oil Chemistry
 
-Jasmine fragrance is extracted through solvent extraction rather than [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
+Jasmine fragrance is extracted through [[cannabis-solvent-extraction]] rather than [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], because the delicate floral compounds degrade under high heat. The primary commercial products are jasmine concrete (a waxy solid) and jasmine absolute (obtained by washing the concrete with alcohol).
 
 The chemical composition of jasmine absolute is extremely complex, with over 300 identified constituents. Key odor-active compounds include benzyl acetate (15–25%), linalool (5–15%), farnesene (10–15%), indole (2–5%), benzyl benzoate (5–10%), and methyl anthranilate (1–3%).
 
@@ -61,7 +61,7 @@ Extraction yield is extremely low — approximately 0.1–0.2% concrete from fre
 
 Jasmine is commercially cultivated in India (particularly Tamil Nadu and Karnataka), Egypt, Morocco, China, and Italy (Grasse region). India is the world's largest producer, with the majority of production used domestically for religious and cultural purposes.
 
-The plant thrives in warm, subtropical to tropical climates with temperatures of 20–35°C and moderate annual rainfall. It requires well-drained, fertile loamy soils and benefits from full sun to partial shade. Altitudes between 300 and 1,500 meters are generally suitable.
+The plant thrives in warm, subtropical to [[fukuoka-natural-farming-tropical-climates]] with temperatures of 20–35°C and moderate annual rainfall. It requires well-drained, fertile loamy soils and benefits from full sun to partial shade. Altitudes between 300 and 1,500 meters are generally suitable.
 
 Propagation is primarily through hardwood cuttings or layering. Plants begin flowering 6–12 months after planting. Commercial plantations typically space plants 1.5–2 meters apart, with support structures for the climbing stems.
 
@@ -88,31 +88,3 @@ In the Mediterranean and Middle East, jasmine has been associated with luxury an
 ## Pharmacology
 
 Preclinical studies on *J. grandiflorum* extracts have demonstrated several biological activities consistent with its traditional medicinal uses. The essential oil shows significant anxiolytic and sedative effects in animal models, supporting its traditional use as a calming agent.
-
-Benzyl acetate, the principal constituent of jasmine absolute, exhibits antispasmodic activity on smooth muscle tissue. Linalool contributes to the overall sedative effect through modulation of GABAergic neurotransmission, a mechanism shared with many other Lamiaceae and Oleaceae essential oils.
-
-Topical application of jasmine extracts demonstrates anti-inflammatory and wound-healing properties in animal studies. The extracts show moderate antimicrobial activity against skin pathogens including *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
-
-Methanolic extracts of *J. grandiflorum* leaves exhibit antioxidant activity through free radical scavenging mechanisms. Flavonoids and phenolic compounds identified in the leaves include luteolin, apigenin, and quercetin glycosides.
-
-## Related Species
-
-Several other *Jasminum* species are commercially or ornamentally important, often confused with *J. grandiflorum* in the trade.
-
-* **Jasminum sambac** (Arabian jasmine, sampaguita) — the most widely cultivated jasmine species in tropical Asia. Produces smaller, intensely fragrant white flowers used in garlands, tea, and essential oil production. The national flower of the Philippines and Indonesia.
-* **Jasminum officinale** (common jasmine, poet's jasmine) — a hardy, deciduous climber native to the Caucasus and Central Asia. Widely grown as an ornamental in temperate gardens. Less commercially significant for fragrance extraction than *J. grandiflorum*.
-* **Jasminum polyanthum** (pink jasmine) — a vigorous evergreen climber from China, popular as an ornamental houseplant. Produces profuse clusters of pink-tinged white flowers with a sweet fragrance.
-
-The distinction between *J. grandiflorum* and *J. officinale* in commercial perfumery is significant: *J. grandiflorum* is the standard source for jasmine absolute, while *J. officinale* is primarily an ornamental species.
-
-## See Also
-
-- [[epimedium-grandiflorum]]
-
-- [[pelargonium-graveolens]]
-- [[cymbopogon-citratus]]
-- [[pogostemon-cablin]]
-- citrus aurantium
-- ocimum-sanctum
-- [[matricaria-chamomilla]]
-- [[calendula-officinalis]]

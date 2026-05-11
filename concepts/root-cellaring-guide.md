@@ -9,11 +9,11 @@ sources: []
 
 # Root Cellaring Guide
 
-A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent temperature and humidity for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity. (see [[comparison-root-cellaring-vs-food-dehydration]]).
+A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent [[greg-green-temperature-and-humidity-control]] for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
 
 ## Ideal Conditions
 
-Different crops have different storage requirements. Understanding these ranges is essential for successful root cellaring. (see [[cold-frame-gardening]]).
+Different crops have different storage requirements. Understanding these ranges is essential for successful root cellaring.
 
 ### Temperature and Humidity by Crop
 
@@ -52,9 +52,9 @@ Key design elements:
 
 An exterior basement room can function as a root cellar if it meets temperature and humidity requirements. The room should have:
 - Exterior walls (exposed to earth on at least two sides)
-- A window or vent for temperature control
+- A window or vent for [[hamilton-greenhouse-heating-and-temperature-control]]
 - A door that seals well
-- Humidity management (damp sand floor or humidifier for high-humidity crops)
+- [[pf-tek-dual-chambered-terrarium-design-humidity-management]] (damp sand floor or humidifier for high-humidity crops)
 
 ### Above-Ground Cold Storage
 
@@ -76,7 +76,7 @@ Proper ventilation is the most critical design element. Without it, ethylene gas
 
 - Intake vent: Low on the wall near the floor, draws fresh cool air in
 - Exhaust vent: High on the opposite wall near the ceiling, lets warm stale air out
-- Both vents should have closable dampers for temperature regulation
+- Both vents should have closable dampers for [[blesching-cannabis-fever-temperature-regulation]]
 
 ### Temperature Control
 
@@ -134,5 +134,5 @@ Onions, garlic, and braided corn can be hung from rafters for maximum airflow.
 ## Related Topics
 
 - [[food-dehydration-guide]] for alternative preservation of root vegetables
-- [[canning-and-preserving]] for heat-based preservation methods
+- [[canning-and-preserving]] for heat-based [[egg-preservation-methods]]
 - [[building-with-natural-materials]] for constructing storage structures

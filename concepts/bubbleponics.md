@@ -88,24 +88,3 @@ As with [[deep-water-culture]], nutrient solution management is critical:
 - **Nutrient imbalance**: Both top-feed and reservoir delivery can cause imbalances if not managed. Monitor EC closely.
 
 ## Troubleshooting Guide
-
-| Symptom | Possible Cause | Solution |
-|---------|---------------|----------|
-| Slow early growth | Top-feed not reaching roots | Check emitter placement and flow rate |
-| Wilting | Pump failure or root rot | Check pumps; inspect root health |
-| Brown, slimy roots | Root rot from low oxygen | Increase aeration; add H2O2; lower temp |
-| Algae in reservoir | Light exposure | Cover reservoir completely |
-| Uneven plant growth | Clogged emitters | Clean or replace emitters |
-| pH climbing rapidly | Plant uptake imbalance | Adjust pH down; check nutrient ratios |
-
-## Bubbleponics System Sizing
-
-A five-gallon (19 L) reservoir per plant is standard for bubbleponics. Smaller reservoirs require more frequent monitoring and maintenance. Larger reservoirs provide more stable conditions and are recommended for flowering plants with high nutrient demands.
-
-## See Also
-
-- [[banisteriopsis-caapi]]
-- [[hydroponic-cannabis]]
-- [[cannabis-growing-mediums]]
-- [[cannabis-root-rot-prevention-and-treatment]]
-- [[cannabis-watering-schedule-and-frequency]]

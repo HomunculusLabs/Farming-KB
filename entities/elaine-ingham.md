@@ -67,3 +67,19 @@ Ingham's work is foundational to the [[regenerative-agriculture-history]] moveme
 - [[bokashi]] — EM-based fermentation
 - [[effective-microorganisms-em]] — EM consortium
 - [[soil-fertility-management]] — Soil nutrient management
+
+## Historical Significance
+
+Elaine Ingham contributed significantly to the body of
+knowledge in their field, influencing subsequent
+researchers and practitioners. Their work continues
+to be referenced in contemporary studies and remains
+relevant to ongoing discussions in the community.
+
+## See Also
+
+- [[soil-food-web-and-building-living-soil]]
+- [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
+- [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]
+- [[ingham-bacterial-to-fungal-succession-soil-food-web]]
+- [[ingham-protozoa-soil-food-web-nutrient-cycling]]

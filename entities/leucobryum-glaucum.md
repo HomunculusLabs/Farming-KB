@@ -21,7 +21,7 @@ sources:
 
 **Leucobryum glaucum**, commonly known as white moss or large white moss, is a distinctive acrocarpous moss in the family Leucobryaceae.
 
-It forms conspicuous pale bluish-white cushions that can reach 10–15 cm in diameter, making it one of the most visually striking forest floor mosses.
+It forms conspicuous pale bluish-white cushions that can reach 10–15 cm in diameter, making it one of the most visually striking [[fungal-ecology-forest-floor]] mosses.
 
 The characteristic white coloration results from specialized leucocysts — large, empty, water-filled cells that reflect light and aid in water retention.
 
@@ -49,9 +49,9 @@ The calyptra is large, cucullate, and covers most of the capsule. Spores are 12�
 
 ## Distribution and Habitat
 
-*Leucobryum glaucum* is distributed across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], with scattered populations in montane tropical regions.
+*Leucobryum glaucum* is distributed across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]], with scattered populations in montane [[fukuoka-natural-farming-in-tropical-regions]].
 
-It occurs throughout the British Isles, Scandinavia, Central Europe, the Pacific Northwest of North America, and eastern Asia.
+It occurs throughout the British Isles, Scandinavia, Central Europe, the Pacific Northwest [[berry-growing]], and eastern Asia.
 
 The species is most abundant in acidic, coniferous and mixed woodlands on well-decomposed humus or peaty soils.
 
@@ -88,37 +88,3 @@ Sporophyte production is rare, suggesting that asexual reproduction through frag
 The distinctive white cushions have made *L. glaucum* a popular subject in bryological education and nature photography.
 
 In parts of Scandinavia and Scotland, the moss was traditionally gathered as stuffing material for pillows and mattresses.
-
-Its absorbent properties made it useful as a wound dressing in folk medicine, though it was less commonly used than *Sphagnum* for this purpose.
-
-The species is commercially harvested in small quantities for the florist and terrarium trade, where its silvery appearance is valued.
-
-Horticulturists use it as a decorative ground cover in shaded acidic gardens, bonsai arrangements, and woodland plantings.
-
-It has been studied for its ability to accumulate atmospheric pollutants, serving as a passive biomonitor for [[dighton-fungal-biosorption-heavy-metal-remediation]] deposition.
-
-The leucocyst structure has attracted research interest in biomimetics for water-harvesting and insulation materials.
-
-## Cultivation and Conservation
-
-*Leucobryum glaucum* can be cultivated in shaded, acidic conditions but grows very slowly, typically less than 5 mm per year.
-
-Propagation is primarily through division of existing cushions, as [[growing-gourmet-spore-germination-strain-isolation]] and protonemal development are slow and unpredictable.
-
-Optimal cultivation conditions include acidic substrate (pH 4.0–5.5), high humidity, indirect light, and temperatures of 10–20 °C.
-
-The species is not considered globally threatened, but populations have declined significantly in parts of Central Europe due to air pollution.
-
-Habitat loss through coniferous forest clearing and conversion to agriculture has reduced available substrate in some regions.
-
-Conservation efforts focus on maintaining acidic woodland habitats and reducing atmospheric nitrogen deposition in sensitive areas.
-
-In the British Isles, it remains common and widespread, though local declines have been noted near intensive agricultural areas.
-
-## See Also
-
-- [[sphagnum-cuspidatum]]
-- [[hypnum-cupressiforme]]
-- [[climacium-dendroides]]
-- [[dicranum-scoparium]]
-- [[pinus-sylvestris]]

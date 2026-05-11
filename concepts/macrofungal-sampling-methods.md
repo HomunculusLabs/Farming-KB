@@ -88,9 +88,3 @@ Where:
 **Resource constraints** are the primary limitation on macrofungal survey design. Field time, taxonomic expertise, laboratory capacity, and funding all constrain the scope of sampling. Researchers must balance:
 
 - **Spatial extent** vs. sampling intensity at individual sites
-- **Temporal duration** vs. logistical feasibility
-- **Taxonomic resolution** (morphospecies vs. [[biodiversity-fungal-molecular-identification-dna-barcoding]]) vs. available expertise
-
-Integration with [[fungal-succession-in-decomposition]] benefit from timed sampling of woody substrates, while surveys targeting [[fungal-biodiversity-tropical-ecosystems]] surveys face particular challenges due to hyperdiversity, poorly known taxa, and limited fruiting windows.
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[lichen-biodiversity-sampling-protocols-data-analysis]]

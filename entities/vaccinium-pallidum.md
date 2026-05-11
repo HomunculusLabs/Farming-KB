@@ -20,7 +20,7 @@ sources:
 
 **Vaccinium pallidum**, the blue Ridge blueberry or hillside blueberry, is a deciduous low-growing shrub in the family Ericaceae.
 
-It is native to the eastern United States, ranging from New England south to Georgia and west to the Ozarks and southern Appalachians.
+It is native to the eastern [[dmt-containing-plants-united-states-halpern]], ranging from New England south to Georgia and west to the Ozarks and southern Appalachians.
 
 The species produces small, sweet, light blue berries that are collected for fresh eating and processing.
 
@@ -40,7 +40,7 @@ Stems are slender, green to reddish, and glabrous to finely pubescent.
 
 Leaves are alternate, elliptic to obovate, 1.5–4 cm long, with finely serrate margins.
 
-The upper leaf surface is dark green and glossy; the lower surface is pale green with a distinctive whitish bloom.
+The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and glossy; the lower surface is pale green with a distinctive whitish bloom.
 
 Flowers appear in April to May, borne in short racemose clusters on the previous year's growth.
 
@@ -68,7 +68,7 @@ It also colonizes disturbed sites including roadsides, old fields, and utility r
 
 ## Ecology and Interactions
 
-The flowers of **Vaccinium pallidum** are pollinated primarily by native bees, including bumblebees and small solitary bees.
+The flowers of **Vaccinium pallidum** are pollinated primarily by [[query-how-to-attract-native-bees-and-beneficial-insects]], including bumblebees and small [[comparison-honey-bees-vs-native-solitary-bees]].
 
 Honeybees also visit the flowers when colonies are nearby, contributing to cross-pollination.
 
@@ -87,43 +87,3 @@ The [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations of the roo
 ## Culinary and Nutritional Value
 
 The berries of **Vaccinium pallidum** are edible and similar in flavor to commercial lowbush blueberries.
-
-They are smaller than highbush blueberries but have a concentrated sweetness with mild tartness.
-
-Fresh berries are consumed directly or used in pies, muffins, jams, and preserves.
-
-Historically, the berries were gathered by Indigenous peoples of the eastern woodlands for food and trade.
-
-Nutritional analysis shows high levels of anthocyanins, vitamin C, and dietary fiber typical of the genus.
-
-Antioxidant capacity is comparable to that of other wild Vaccinium species.
-
-Commercial harvest occurs on a limited scale, primarily through wild collection rather than cultivation.
-
-The berries can be frozen successfully for long-term storage without significant quality loss.
-
-## Cultivation and Propagation
-
-**Vaccinium pallidum** is not widely cultivated commercially but has potential for native edible landscaping.
-
-It is well-suited to low-maintenance plantings in acidic, well-drained garden soils with partial to full sun.
-
-Propagation from seed requires cold stratification at 1–4°C for 60–90 days to break dormancy.
-
-Softwood cuttings taken in mid-summer root moderately well under intermittent mist.
-
-Division of established clumps in early spring is the simplest vegetative propagation method.
-
-The species shows excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, requiring minimal supplemental irrigation.
-
-It has good resistance to many common blueberry [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]], including mummy berry and botrytis.
-
-Ornamental value derives from its glossy foliage, spring flowers, and colorful autumn foliage in shades of red and orange.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-vitis-idaea]]
-- [[gaylussacia-baccata]]
-- arctostaphylos-uva-ursi
-- gaultheria-procumbens

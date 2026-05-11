@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,35 +88,3 @@ documentation that builds the information base for design. Mollison's
 approach follows a structured sequence:
 
 ### Pre-Visit Research
-Before visiting the site, gather all available secondary information:
-
-- **Topographic maps**: Contour intervals, elevation, slope aspect, drainage
-  patterns. The [[mollison-climate-site-analysis-permaculture]].
-- **Soil information**: Soil type maps, geological surveys, agricultural
-  capability assessments. The [[water-management]] history.
-- **Local knowledge**: Conversations with neighbours, long-term residents,
-  and indigenous traditional owners about site history, microclimate
-  variations, flood history, and species performance.
-
-### On-Site Observation Protocol
-
-Mollison emphasises extended observation over brief site visits. The ideal
-is to visit the site multiple times, in different seasons and weather
-conditions, before beginning design work. The [[mollison-designers-slope-analysis-keyline-design]]
-  framework provides methodology.
-- **Aspect determination**: Map which slopes face north, south, east, and
-  west. Aspect determines solar exposure, wind exposure, and frost risk.
-- **Drainage patterns**: Observe existing water flow during and after rain.
-  Identify erosion gullies, seepage zones, seasonal watercourses, and flood
-  levels. Map the [[mollison-stream-orders-and-branching-magnitudes]] hierarchy.
-- **Geological features**: Rock outcrops, cliff faces, spring lines, and
-  geological formations. These indicate groundwater, construction material
-  sources, and landscape stability.
-
-#### Water Resources
-- **Existing water features**: Dams, tanks, bores, wells, springs, streams,
-  wetlands. Map their location, capacity, reliability, and water quality.
-
-## See Also
-
-- [[williams-pdc-client-interview-process]]

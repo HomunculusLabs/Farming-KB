@@ -6,10 +6,11 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Consumer versus Conserver Society
 
-Holmgren develops a foundational distinction between two fundamental modes of human organization: the consumer society and the conserver society. This framework underlies the entire argument of "Permaculture: Principles and Pathways Beyond Sustainability" and connects directly to permaculture-ethics of earth care, people care, and fair share are the ethical foundation of conservation. The retrofitting-suburbs-permaculture is the practical strategy for making the transition in existing settlements.
+Holmgren develops a foundational distinction between two fundamental modes of human organization: the consumer society and the conserver society. This framework underlies the entire argument of "Permaculture: Principles and Pathways [[holmgren-beyond-sustainability]]" and connects directly to permaculture-ethics of earth care, people care, and fair share are the ethical foundation of conservation. The retrofitting-suburbs-permaculture is the practical strategy for making the transition in existing settlements.
 
 Holmgren argues that the consumer/conserver distinction is more useful than the more common developed/developing or rich/poor dichotomies because it describes structural relationships rather than relative positions. A wealthy community with strong local food systems, [[holmgren-wind-power-and-renewable-energy-debate]], and cooperative economics is more "conserver" than a poor community dependent on imported food, diesel generators, and extractive industries.
 
@@ -23,7 +24,7 @@ Similarly, globalization provides opportunities for "social seeding" to create n
 
 The term "beyond sustainability" in Holmgren's subtitle reflects his argument that sustainability -- maintaining current systems -- is impossible in a context of [[holmgren-energy-descent-permaculture-flower]]. For any human culture to be considered sustainable it must have the capacity to reproduce itself down the generations while providing human material needs without cataclysmic breakdown. If high-energy society is energetically impossible as anything more than a pulse in the long run of human history, then it cannot be sustainable.
 
-The task is not to sustain the consumer society but to redesign for a conserver future. This requires letting go of attachments to growth-based prosperity and embracing a different kind of wealth: health, community, skills, ecological function, and resilience. Holmgren suggests we need to "get over our naive and simplistic notions of sustainability as a likely reality for ourselves or even our grandchildren and instead accept that our task is to use our familiarity with continuous change to adapt to energy descent."
+The task is not to sustain the consumer society but to redesign for a conserver future. This requires letting go of attachments to growth-based prosperity and embracing a different kind of wealth: health, community, skills, [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]], and resilience. Holmgren suggests we need to "get over our naive and simplistic notions of sustainability as a likely reality for ourselves or even our grandchildren and instead accept that our task is to use our familiarity with continuous change to adapt to [[energy-descent-action-planning]]."
 
 ## Developing a Post-Affluent Culture
 
@@ -52,7 +53,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,31 +88,3 @@ between multiple variables and the difficulty of predicting outcomes
 with certainty. Building in redundancy, monitoring key indicators, and
 maintaining flexibility in approach all help manage this inherent
 uncertainty and improve the resilience of implementations over time.
-
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[entheogen-bwiti-iboga-initiation-fang-society]]
-- [[ingham-worm-leachate-versus-aact-comparison]]
-- [[dominator-culture-and-partnership-society]]

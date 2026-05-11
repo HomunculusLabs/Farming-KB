@@ -15,7 +15,7 @@ sources:
   - Hauke, R.L. (1978). "A taxonomic monograph of Equisetum subgenus Equisetum." Nova Hedwigia, 30, 385-455.
   - Page, C.N. (1997). "The ferns of Britain and Ireland." Cambridge University Press, 2nd edition.
   - Rumsey, F. et al. (2010). "The Equisetum genome: insights into an ancient lineage." New Phytologist, 188(3), 725-730.
-  - Øllgaard, B. (2012). "New species and combinations in tropical American Equisetum." Nordic Journal of Botany, 30(4), 401-415.
+  - Øllgaard, B. (2012). "New species and combinations in [[psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998]] Equisetum." Nordic Journal of Botany, 30(4), 401-415.
   - Guiry, M.D. & Guiry, G.M. (2024). "Equisetum telmateia." AlgaeBase. National University of Ireland.
 ---
 
@@ -41,7 +41,7 @@ Two subspecies are recognized: ssp. *telmateia* (European great horsetail) and s
 
 Each fertile stem terminates in a solitary, ellipsoid strobilus (cone) 20–40 mm long. The strobilus bears hexagonal sporangiophore shields that release green spores upon maturity.
 
-Fertile stems wither and die after spore release, typically within 4–6 weeks of emergence.
+Fertile stems wither and die after [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]], typically within 4–6 weeks of emergence.
 
 **Sterile stems** emerge later (April–May) and persist through the [[savory-growing-season-and-non-growing-season-management]]. They reach 60–150 cm (occasionally up to 200 cm), making this the tallest European horsetail.
 
@@ -55,11 +55,11 @@ The central hollow stem cavity is wide, and silica deposits in the epidermis giv
 
 ## Distribution and Habitat
 
-The species has a wide but disjunct distribution across Europe, western Asia, and western North America. In Europe, it ranges from the British Isles and Scandinavia south to the Iberian Peninsula, Italy, and the Balkans.
+The species has a wide but disjunct distribution across Europe, western Asia, and western [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it ranges from the British Isles and Scandinavia south to the Iberian Peninsula, Italy, and the Balkans.
 
 In Asia, it occurs in the Caucasus, northern Turkey, and possibly northern Iran. Populations in North Africa (Morocco, Algeria) are considered relictual.
 
-The North American subspecies (*braunii*) occurs along the Pacific coast from southeastern Alaska through British Columbia to northern California, with disjunct populations in Idaho.
+The [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] subspecies (*braunii*) occurs along the Pacific coast from southeastern Alaska through British Columbia to northern California, with disjunct populations in Idaho.
 
 **Habitat** is primarily damp, shaded environments. The species grows along stream banks, in damp woodlands, marsh edges, ditches, and wet meadows.
 
@@ -75,7 +75,7 @@ Historically, the high silica content of *E. telmateia* stems made them useful a
 
 This use was widespread across Europe and is reflected in the common name "scouring rush" (shared with other Equisetum species). The practice persisted in rural areas into the early 20th century.
 
-In traditional European herbal medicine, horsetails were used as diuretics, astringents, and wound-healing agents. Preparations were made from dried sterile stems as infusions or decoctions.
+In traditional European [[childrens-herbal-medicine]], horsetails were used as diuretics, astringents, and wound-healing agents. Preparations were made from dried sterile stems as infusions or decoctions.
 
 The herb was recommended by Dioscorides and later European herbalists for treating kidney stones, urinary tract infections, and hemorrhage. Modern herbalism continues to use *Equisetum* preparations for similar purposes.
 
@@ -88,33 +88,3 @@ Pharmacological studies have identified flavonoids (isoquercitrin, equisetrin), 
 The dense, bushy sterile stems of *E. telmateia* provide habitat structure in riparian ecosystems. The whorled branches offer perching sites for small insects and cover for amphibians and invertebrates.
 
 Several herbivorous insects specialize on Equisetum. The horsetail sawfly (*Sterictiphora equiseti*) and the horsetail weevil (*Grypus equiseti*) feed exclusively on Equisetum species.
-
-Amphibians including frogs and newts use dense horsetail stands for shelter and egg-laying sites in marshy habitats.
-
-The rhizome network helps stabilize stream banks and reduce erosion in riparian zones. The deep, extensive root systems bind alluvial soils along watercourses.
-
-The species can become locally dominant in disturbed riparian habitats, forming extensive stands that shade out smaller herbaceous plants. However, it rarely dominates to the exclusion of other species.
-
-Spores are dispersed by wind and require wet conditions for germination. The elaters facilitate movement across soil surfaces and into crevices where moisture is retained.
-
-## Silica Bioaccumulation
-
-Equisetum species are among the most prolific silica accumulators in the plant kingdom. *E. telmateia* stems contain 5–25% silica (SiO₂) by dry weight, deposited primarily as hydrated silica (opal) in epidermal cells.
-
-The silica forms a rigid, abrasive coating on the stem surface, functioning as a physical defense against herbivores and pathogens. It also provides structural support, partially replacing the lignin-reinforced cell walls typical of vascular plants.
-
-Silica uptake is active, mediated by silicon transporters (Lsi1 and Lsi2 type) in the roots. The species can absorb soluble silica from soil solution far more efficiently than most other plant families.
-
-The ability to bioaccumulate silica is considered a key evolutionary adaptation that has allowed Equisetum to persist with relatively limited lignified tissue compared to other vascular plants.
-
-In ecosystems, Equisetum species contribute significantly to the biogeochemical silicon cycle. Decomposition of silica-rich litter returns amorphous silica to the soil, influencing silicon availability for other plants.
-
-The high silica content has practical implications for palatability — the abrasive stems deter most mammalian herbivores, though horses and cattle may graze young shoots.
-
-## See Also
-
-- [[equisetum-hyemale]]
-- [[osmunda-regalis]]
-- [[athyrium-filix-femina]]
-- [[quercus-robur]]
-- [[picea-abies]]

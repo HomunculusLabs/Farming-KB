@@ -88,20 +88,3 @@ secondary to livestock, with income from hunting leases and eco-tourism.
 Some operations successfully integrate both, using livestock to create
 animal impact that wildlife alone cannot provide. The success of any
 game ranching operation depends on the quality of its planning, the
-available markets, and the specific environmental conditions of the
-land being managed.
-
-## The Planning Challenge
-
-The fundamental challenge is managing time. [[savory-livestock-grazing-planning]] planning
-techniques can be adapted for wildlife, but the inability to physically
-move wild animals creates complications. This is why [[savory-wildlife-livestock-integration]]  integration is often preferred -- livestock can be moved to create
-desired patterns, and wildlife benefits from improved conditions.
-
-## See Also
-
-- [[savory-elephant-culling-and-wildlife-population-policy]] - The predator
-  connection
-- enterprise overhead and gross profit analysis - Financial
-  evaluation tools
-- [[savory-livestock-behavior-and-grazing-styles]] - Species-specific grazing

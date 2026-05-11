@@ -18,15 +18,15 @@ sources:
 
 ## Overview
 
-Virola elongata is a tall forest tree in the family Myristicaceae, native to the Amazon basin of South America. It is one of several Virola species used traditionally as a source of hallucinogenic snuff by indigenous Amazonian peoples.
+Virola elongata is a tall forest tree in the family Myristicaceae, native to the Amazon basin of [[guzman-psilocybin-mushrooms-south-america]]. It is one of several Virola species used traditionally as a source of hallucinogenic snuff by indigenous Amazonian peoples.
 
-The genus Virola contains approximately 60 species of tropical trees distributed throughout Central and South America. Several species produce reddish resin in their bark that contains potent tryptamine alkaloids used in shamanic preparations.
+The genus Virola contains approximately 60 species of tropical trees distributed throughout Central and South America. Several species produce reddish resin in their bark that contains potent [[hplc-analysis-of-tryptamine-alkaloids]] used in shamanic preparations.
 
-Virola elongata is distinguished from the better-known Virola theiodora by its longer, more narrowly elliptical leaves and differences in bark resin composition. Both species serve similar cultural roles as sources of entheogenic snuff.
+Virola elongata is distinguished from the better-known [[virola-theiodora]] by its longer, more narrowly elliptical leaves and differences in bark resin composition. Both species serve similar cultural roles as sources of entheogenic snuff.
 
 The tree can reach 25–35 meters in height, making it one of the taller canopy species in its habitat. Its bark exudate (resin) is the primary part used in traditional preparations.
 
-Wood of Virola elongata is moderately hard and has been used locally for construction and carpentry. However, the primary cultural significance of the species lies in its pharmacological properties rather than its timber value.
+Wood of Virola elongata is moderately hard and has been used locally for construction and carpentry. However, the primary [[amanita-muscaria]] of the species lies in its pharmacological properties rather than its timber value.
 
 The species is easily confused with other Virola taxa in the field, requiring expert botanical identification. Misidentification can lead to harvesting trees with negligible alkaloid content, frustrating traditional practitioners.
 
@@ -34,7 +34,7 @@ The species is easily confused with other Virola taxa in the field, requiring ex
 
 Virola elongata was described by the German botanist Otto Warburg in 1897. The species name elongata refers to the elongated (narrowly elliptic) shape of its leaves compared to other Virola species.
 
-The tree is a canopy emergent in lowland tropical rainforest, typically reaching 25–35 meters with a straight, cylindrical trunk up to 60 cm in diameter. The crown is relatively narrow and conical in younger specimens, becoming more spreading with age.
+The tree is a canopy emergent in lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], typically reaching 25–35 meters with a straight, cylindrical trunk up to 60 cm in diameter. The crown is relatively narrow and conical in younger specimens, becoming more spreading with age.
 
 Bark is gray-brown to dark brown with shallow vertical fissures and a characteristic reddish inner bark. When the outer bark is wounded, a blood-red resin exudes that oxidizes to a deep reddish-brown upon air exposure.
 
@@ -54,7 +54,7 @@ The resin also contains 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) as a second
 
 Additional tryptamines identified include N-methyltryptamine and trace amounts of dimethyltryptamine N-oxide. The breadth of the tryptamine profile is comparable to that of Virola theiodora but with different relative proportions.
 
-The red color of the resin comes from tannins and other phenolic compounds rather than the alkaloids themselves. These phenolic compounds may serve a protective function against insect herbivory and microbial colonization of wounds.
+The red color of the resin comes from tannins and other [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] rather than the alkaloids themselves. These [[ingham-tannins-terpenes-phenolic-compounds]] may serve a protective function against insect herbivory and microbial colonization of wounds.
 
 Leaves and seeds contain lower alkaloid concentrations than bark resin, making the bark the preferred tissue for traditional preparations. Root bark may contain the highest concentrations but requires killing the tree for harvest.
 
@@ -74,7 +74,7 @@ Population density appears highest in the northwestern Amazon between the Putuma
 
 The tree plays an important ecological role as a food source for canopy-dwelling birds and primates that consume the fruit. Seed dispersal is primarily mediated by large birds including toucans and guans.
 
-Research on population genetics of Virola elongata has been limited due to the difficulty of accessing canopy trees for sampling. Molecular studies could help clarify relationships between geographic variants and inform conservation strategies.
+Research on [[aspergillus-fumigatus-population-genetics]] of Virola elongata has been limited due to the difficulty of accessing canopy trees for sampling. Molecular studies could help clarify relationships between geographic variants and inform [[endangered-fungi-and-conservation-strategies]].
 
 ## Traditional and Ethnobotanical Uses
 
@@ -82,39 +82,8 @@ Indigenous peoples of the northwestern Amazon including the Witoto, Bora, Muinan
 
 The powdered snuff is typically blown into the nostrils using a bamboo tube or bird bone applicator by a second person. Effects manifest rapidly within minutes, producing intense visionary experiences lasting 30–60 minutes.
 
-Some groups prepare Virola snuff by mixing the resin with ashes of other plant materials. The alkaline ash may facilitate alkaloid absorption through the nasal mucosa, though the primary route of administration is already effective due to the concentrated resin.
+Some groups prepare Virola snuff by mixing the resin with ashes of other plant materials. The alkaline ash may facilitate alkaloid absorption through the nasal mucosa, though the primary [[mushroom-taste-route-of-administration-and-consumption-barriers]] is already effective due to the concentrated resin.
 
 Among the Witoto people, Virola snuff is used in healing ceremonies, divination, and preparations for hunting. The visions are interpreted as communications from forest spirits providing guidance and protection.
 
-Unlike ayahuasca preparations using Banisteriopsis caapi, Virola snuff does not require MAO inhibitors for activity. The concentrated resin delivers sufficient tryptamines through the nasal route to produce effects without oral MAO inhibition.
-
-The practice of Virola snuff use has declined significantly due to acculturation and missionary activity in indigenous communities. Among groups where the practice survives, it is often restricted to elder shamans and specific ceremonial contexts.
-
-## Cultivation and Conservation
-
-Virola elongata is not commonly cultivated, as traditional practice relies on wild-harvested trees. Propagation from seed is possible but requires tropical nursery conditions with consistent warmth and humidity.
-
-Seed viability is short, requiring planting within days of harvest for reliable germination. Seedlings grow slowly under shade conditions, taking 5–10 years to reach canopy height in natural forest settings.
-
-Conservation concerns center on habitat loss through deforestation in the Amazon basin. As a canopy tree dependent on primary forest, Virola elongata cannot persist in cleared or heavily degraded landscapes.
-
-Sustainable harvest practices involve making shallow cuts in the bark rather than stripping it entirely, allowing the tree to regenerate resin. Traditional harvesters report that properly managed trees can be harvested repeatedly over decades.
-
-Botanical garden collections of Virola elongata are rare due to the difficulty of cultivating large tropical trees ex situ. Research into conservation genetics and propagation techniques is needed to support long-term preservation of the species.
-
-International trade in Virola species is not regulated under CITES appendices, though national protections may apply in range states. The primary conservation threat remains habitat destruction rather than overharvesting.
-
-Ethnopharmacological interest in Virola species has increased in recent decades, driving demand for properly identified botanical material. This creates both opportunities for indigenous communities and risks of unsustainable exploitation.
-
-## See Also
-
-- [[virola-theiodora]]
-- [[dmt]]
-- [[tryptamine]]
-- [[5-meo-dmt]]
-- [[anadenanthera-peregrina]]
-- [[banisteriopsis-caapi]]
-- [[ayahuasca]]
-- [[mimosa-tenuiflora]]
-- [[acacia-confusa]]
-- [[shamanism]]
+Unlike [[schultes-ayahuasca-preparations]] using [[ayahuasca-and-banisteriopsis-caapi]], Virola snuff does not require MAO inhibitors for activity. The concentrated resin delivers sufficient tryptamines through the nasal route to produce effects without oral MAO inhibition.

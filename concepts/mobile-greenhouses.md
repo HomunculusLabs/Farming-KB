@@ -7,7 +7,7 @@ created: 2026-05-10
 
 # Mobile Greenhouses
 
-The mobile greenhouse is a key innovation in Eliot Coleman's winter harvest system,
+The mobile greenhouse is a key innovation in Eliot Coleman's [[cold-house-winter-harvest-system]] system,
 reviving a concept with roots in nineteenth-century European horticulture. Rather than
 keeping a greenhouse permanently in one location, the mobile [[coleman-mobile-greenhouse-crop-rotation-soil-health]] greenhouse can be moved
 between two (or more) sites, allowing the same structure to serve different purposes
@@ -59,25 +59,25 @@ During the uncovered period, the exposed site can be planted to a long-term gree
 manure crop. Coleman typically sows a deep-rooting leguminous cover crop (such as
 field peas, vetch, or clover) on the uncovered site after the greenhouse moves away.
 This cover crop can grow for ten to thirteen months before being turned under and
-replaced by the returning greenhouse. The benefits are substantial: nitrogen fixation,
-deep soil aeration by cover crop roots, addition of organic matter, and the breaking
+replaced by the returning greenhouse. The benefits are substantial: [[biological-nitrogen-fixation-agriculture]],
+deep soil aeration by cover crop roots, addition of [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and the breaking
 of disease cycles through non-host crop rotation.
 
 ### Avoiding Summer Cooling Costs
 
 In a permanent greenhouse, summer crops must be grown inside the same structure used
 for winter crops. During hot summer months, the greenhouse can become extremely hot,
-requiring ventilation systems, shade cloth, or even evaporative cooling to keep
+requiring ventilation systems, shade cloth, or even [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]] to keep
 temperatures tolerable. The mobile system avoids this problem entirely — the
 greenhouse provides protection only when protection is needed, and the uncovered
-site benefits from full sun exposure during the summer growing season.
+site benefits from full sun exposure during the summer [[extending-growing-season]].
 
 ### Weed Management
 
 Moving the greenhouse disrupts weed patterns. Weeds that germinate and establish
 under the greenhouse in one season are exposed to outdoor conditions the next,
 reducing their competitive advantage. The uncovered period allows for thorough
-cultivation and cover cropping, which suppresses perennial weeds that might otherwise
+cultivation [[hamilton-green-manure-crops-and-cover-cropping]], which suppresses perennial weeds that might otherwise
 become problematic in the sheltered greenhouse environment.
 
 ## Design and Engineering
@@ -88,53 +88,3 @@ approaches documented in his work are:
 **Greased wooden skids on wooden rails:** The greenhouse base sits on wooden skids
 that are greased to slide along parallel wooden rails. This is the simplest and least
 expensive approach but requires periodic re-greasing and can be difficult in wet or
-freezing conditions.
-
-**Rails on the bottom of the structure with ball casters:** Inverted from the skid
-approach — the rails are attached to the greenhouse and roll on ball casters set
-into the tops of support posts. This allows smoother movement but requires more
-precise engineering.
-
-**Ground-level runners:** Runners attached to the bottom of each hoop slide directly
-along the ground like a sled. This is simple and effective on relatively smooth, level
-ground.
-
-**Flanged wheels on pipes:** Flanged steel wheels on the bottom of each hoop roll
-along steel pipes laid on the ground. This is Coleman's preferred method for larger
-commercial structures — it provides smooth movement with minimal resistance and the
-pipes can be leveled precisely.
-
-For the largest commercial houses (30 x 96 feet), the structure is pulled with a
-tractor using the metal sled-runner design, similar to pulling a large sled. Once in
-position, the greenhouse is bolted to ground anchors to resist wind uplift. The entire
-move can be completed in a few hours with a small crew.
-
-## Crop Rotation Integration
-
-The mobile greenhouse naturally facilitates crop rotation. Summer crops (typically
-solanaceous or cucurbit crops) occupy one site while the winter crops (brassicas,
-alliums, leafy greens, root crops) occupy the other. When the greenhouse moves, the
-crop families swap locations, providing a natural two-year rotation cycle without any
-additional planning. This rotation helps break pest and disease cycles and prevents
-the soil depletion that occurs when the same crop families are grown in the same
-location year after year.
-
-## Limitations and Considerations
-
-Mobile greenhouses require level ground and sufficient space for two growing sites
-plus maneuvering room. The initial cost of the movement system (rails, skids, or
-wheel assemblies) adds to the greenhouse investment. The move itself requires
-planning and labor, and must be timed appropriately for the transition between
-summer and winter crops. High wind conditions can make moving difficult and require
-the structure to be securely anchored in both positions.
-
-Despite these considerations, the mobile greenhouse system represents one of the most
-elegant and practical solutions for year-round vegetable production on a small to
-medium scale, combining the benefits of protected cultivation with the advantages of
-open-field management.
-
-## See Also
-
-- [[cold-house-winter-harvest-system]]
-- [[winter-succession-planting-schedule]]
-- [[parisian-maraichage-history]]

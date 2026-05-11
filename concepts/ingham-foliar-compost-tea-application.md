@@ -1,10 +1,11 @@
 ---
-title: ultra-low-cost-foliar-application-methods of comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
+title: Ingham Foliar Compost Tea Application
 created: 2026-04-26
 tags: [compost-tea, foliar-spray, disease-suppression, aact, ingham]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 ---
@@ -36,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,21 +87,4 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-
-- [[ingham-foliar-applications-compost-tea-disease-suppression]]
-- [[ingham-compost-tea-application-rates-and-timing]]
-- [[ingham-field-guide-compost-tea-application-rates]]
-- [[ingham-compost-contaminants]]
-- [[ingham-turf-lawn-compost-tea-programs]]
-- [[ingham-coli-compost-tea-food-safety]]
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the

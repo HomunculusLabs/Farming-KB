@@ -1,7 +1,7 @@
 ---
-title: Old Rice Variety Yields and the Critique of Scientific Agriculture
+title: Fukuoka Old Rice Variety Yield Scientific Agriculture Critique
 source: masanobu-fukuoka-the-road-back-to-nature.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 topics: [rice, natural-farming, yield, agricultural-science, seed-saving, heirloom]
 ---
 
@@ -9,9 +9,9 @@ topics: [rice, natural-farming, yield, agricultural-science, seed-saving, heirlo
 
 One of the most provocative practical claims in *The Road Back to Nature* is
 Fukuoka's report of growing an old Tokugawa-era glutinous rice variety using
-natural farming methods and achieving yields that rival or exceed those of
+[[cho-poultry-natural-farming-methods]] and achieving yields that rival or exceed those of
 scientific agriculture. This account serves as both empirical evidence for his
-methods and a sharp critique of the agricultural research establishment.
+methods and a sharp critique of the [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] establishment.
 
 ## The Experiment with Tokugawa-Era Glutinous Rice
 
@@ -36,7 +36,7 @@ The method Fukuoka used for this rice was the same he had employed for
 twenty-two or twenty-three years:
 
 - No tilling of the field
-- No chemical fertilizers applied
+- No [[cannabis-chemical-fertilizers]] applied
 - No pesticide spraying
 - Direct seeding within a living mulch of clover and barley
 - Natural succession of rice, barley, and white clover
@@ -88,46 +88,3 @@ Properly speaking, he argued, the goal of a college should be to create
 people who are "not lost" — sages without doubts or illusions. But modern
 universities have broken knowledge into discrete disciplines, each studying a
 fragment of reality.
-
-When scientists study a rice plant, the plant pathologist examines spots on
-leaves, the entomologist studies insects, the fertilizer specialist analyzes
-nutrients, and the plant husbandry expert manages cultivation. Each enlarges
-the body of scholarly knowledge, but as Fukuoka put it, "as this underground
-pit of knowledge is enlarged, the darkness of the unknown surrounding it grows.
-One bit of knowledge creates two new queries in our minds."
-
-The result is that "to say 'I understand' is to not understand." What
-universities call understanding is nothing more than "having broken what we
-are examining down and wandered into the obscure darkness of ignorance."
-
-## Implications for Modern Seed Policy
-
-Fukuoka's defense of heirloom varieties connects directly to contemporary
-concerns about seed sovereignty, genetic diversity, and the dominance of
-commercial seed companies. His argument that old varieties can match or exceed
-modern yields under appropriate management methods challenges the narrative
-that agricultural progress requires constant varietal replacement.
-
-The experiment also raises questions about the relationship between yield and
-nutrition. If an old variety produces comparable yields while being more
-nutritious (as brown rice), more resilient (having survived centuries without
-chemical inputs), and better adapted to local conditions, then the claimed
-advantages of modern breeding become harder to sustain.
-
-## Relevance to Heirloom Grain Revival
-
-Fukuoka's work anticipates the modern heirloom grain revival movement. His
-demonstration that old grain varieties can be productive without chemical
-inputs provides both practical evidence and philosophical foundation for
-farmers seeking to move away from industrial seed systems. The key insight
-is that variety selection must be evaluated within the context of the entire
-farming system, not in isolation under controlled experimental conditions that
-favor the specific characteristics bred into modern varieties.
-
-## See Also
-
-- [[fukuoka-do-nothing-farming-mu-philosophy]]
-- [[fukuoka-barley-clover-cultivation]]
-- [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]
-- [[fukuoka-food-strategic-weapon-critique]]
-- [[fukuoka-paradoxes-scientific-farming]]

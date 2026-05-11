@@ -13,12 +13,12 @@ type: concept
 # Iochroma Fuchsioides (Borrachera)
 
 Iochroma fuchsioides is one of approximately two dozen species of Iochroma,
-all native to the highlands of South America. It is known by the common
+all native to the highlands of [[guzman-psilocybin-mushrooms-south-america]]. It is known by the common
 name borrachera ("intoxicator") in the Sibundoy Valley of southern Colombia,
 where there are suspicions and unconfirmed reports that several species of
 Iochroma are locally taken in hallucinatory drinks. These drinks may be
 consumed either alone or mixed with other narcotic plants by Indians in the
-Sibundoy Valley. Although no chemical studies have been made of Iochroma,
+Sibundoy Valley. Although no [[chemical-studies-neurotropic-fungi-reliability-and-challenges]] have been made of Iochroma,
 the genus belongs to the nightshade family, Solanaceae, which is well
 recognized for its toxic and hallucinogenic principles.
 
@@ -43,11 +43,11 @@ through chemical investigation.
 
 The Sibundoy Valley of southern Colombia is described by Schultes as "the
 most narcotic conscious area of the New World," and the use of Iochroma in
-this region must be understood within this extraordinary cultural context.
+this region must be understood within this extraordinary [[ayahuasca-pharmacology-and-cultural-context]].
 The valley, inhabited primarily by the Kamsa and Inga peoples, is home to
 an unparalleled concentration of psychoactive plant use. The Kamsa medicine
 men cultivate and employ numerous psychoactive species, including
-Methysticodendron amesianum, various tree daturas, and Iochroma species.
+[[culebra-borrachera-methysticodendron-amesianum]], various [[tree-daturas-brugmansia-south-american-ethnobotany]], and Iochroma species.
 
 Reports that Iochroma is taken in hallucinatory drinks, either alone or
 mixed with other narcotic plants, are consistent with the general pattern of
@@ -73,7 +73,7 @@ No chemical studies have been made of Iochroma according to Schultes'
 account, representing a significant gap in the ethnopharmacological
 literature. Given the genus's placement in the Solanaceae and its reported
 use as a hallucinogen, the probable presence of tropane alkaloids or other
-Solanaceous bioactive compounds is a reasonable hypothesis. However, the
+Solanaceous [[cordyceps-cancer-bioactive-compounds]] is a reasonable hypothesis. However, the
 absence of chemical data means that the active constituents, mechanism of
 action, and toxicity profile of Iochroma all remain unknown.
 
@@ -88,45 +88,3 @@ comprehensive phytochemical screening of all reported psychoactive plants.
 ## Unconfirmed Reports
 
 Schultes carefully characterizes the psychoactive use of Iochroma as based
-on "suspicions and unconfirmed reports." This cautious language is
-important and distinguishes Iochroma from better-documented hallucinogenic
-plants. The unconfirmed status of Iochroma's psychoactivity may reflect
-several factors: the plant may be used only rarely or in very specific
-contexts, its effects may be subtle or ambiguous, or its use may be
-confused with that of more well-known plants in the same region.
-
-The presence of multiple powerful hallucinogenic plants in the Sibundoy
-Valley, including Methysticodendron amesianum and various tree daturas,
-makes it possible that reports of Iochroma intoxication may in some cases
-refer to the use of these other, better-known plants. Alternatively,
-Iochroma may genuinely be used as an admixture or alternative to these more
-prominent species.
-
-## Ornamental Value
-
-Several Iochroma species are cultivated as ornamental plants for their
-attractive tubular flowers, which come in shades of red, orange, purple,
-and blue. The ornamental popularity of the genus means that live plants are
-widely available in horticultural trade, though the psychoactive properties
-of the cultivated varieties (if any) are not well characterized. The
-contrast between the plant's ornamental reputation and its suspected
-psychoactive uses in indigenous culture illustrates the often dramatic
-divergence between Western and indigenous perspectives on plant properties.
-
-## Relationship to Other Sibundoy Psychoactive Plants
-
-Iochroma fuchsioides occupies a place within the broader pharmacopoeia of
-the Sibundoy Valley alongside Methysticodendron amesianum (culebra
-borrachera), tree daturas (Brugmansia species), and Brunfelsia species.
-All of these plants belong to the Solanaceae and are used as intoxicants or
-hallucinogens by the Kamsa and Inga peoples. The co-occurrence of multiple
-Solanaceous psychoactive species in a single valley reflects both the
-botanical richness of the region and the indigenous tradition of
-experimenting with and cultivating plants that produce [[weil-the-natural-mind-altered-states-normalcy]] of
-consciousness.
-
-## See Also
-
-- [[chiric-caspi-brunfelsia-south-american-hallucinogen]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[golden-guide-hallucinogenic-plants-overview]]

@@ -88,19 +88,3 @@ However, like manure, compost alone cannot provide complete balanced
 nutrition and should always be supplemented with COF.
 
 ## Application Rates
-
-Solomon's standard: spread compost and/or manure at whatever rate is
-practical and affordable, then apply COF at the prescribed rate per 100
-square feet. COF fills the nutritional gaps regardless of manure's
-variable and unpredictable quality.
-
-## See Also
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[composting-science-solomon]]
-- [[calcium-magnesium-secondary-nutrients]]
-- [[solomon-composting-methods]]
-
-- [[solomon-fruit-vegetables-growing]]

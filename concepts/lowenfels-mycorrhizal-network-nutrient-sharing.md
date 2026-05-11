@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---
@@ -17,16 +18,16 @@ type: concept
 # Mycorrhizal Network and Nutrient Sharing
 
 Mycorrhizal fungi form symbiotic associations with the vast majority of land
-plants. In "Teaming With Microbes," Lowenfels and Lewis describe mycorrhizae
+plants. In "[[teaming-with-microbes-actinomycetes]]," Lowenfels and Lewis describe mycorrhizae
 as one of the most important relationships in the soil food web. These fungi
 effectively extend the root system, dramatically increasing a plant's ability
 to absorb water and nutrients. The mycorrhizal network, sometimes called the
 "wood wide web," connects individual plants into an underground communication
-and resource-sharing system that fundamentally shapes plant community dynamics.
+and resource-sharing system that fundamentally shapes plant [[dighton-aquatic-hyphomycete-conidia-community-dynamics]].
 
 ## Types of Mycorrhizal Associations
 
-There are two principal categories of mycorrhizal fungi relevant to most
+There are two principal categories [[query-what-are-the-different-types-of-mycorrhizal-fungi]] relevant to most
 garden and agricultural soils:
 
 **[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungi (AMF):** These are the most widespread,
@@ -37,7 +38,7 @@ vesicles, which are storage organs within root cells. AMF are obligate
 symbionts, meaning they cannot complete their life cycle without a host plant.
 
 **Ectomycorrhizal Fungi (ECM):** These associate primarily with woody plants,
-including many trees and shrubs in temperate and boreal forests. Unlike AMF,
+including many trees and shrubs in temperate and [[biodiversity-fungi-temperate-boreal-forests]]. Unlike AMF,
 ECM do not penetrate root cells. Instead, they form a dense sheath, called a
 Hartig net, around root tips. This fungal mantle mediates all nutrient
 exchange between fungus and plant. ECM are particularly important for trees
@@ -67,13 +68,13 @@ than non-mycorrhizal plants, especially in low-phosphorus soils.
 
 ## Interplant Nutrient Sharing
 
-One of the most fascinating aspects of mycorrhizal networks is their capacity
+One of the most fascinating aspects of [[arbuscular-mycorrhizal-networks]] is their capacity
 to facilitate nutrient transfer between plants. Carbon, nitrogen, and
 phosphorus can move through hyphal connections from one plant to another. In
 forest ecosystems, this has been observed as a transfer from older, shaded
 trees to younger seedlings, essentially a form of parental investment.
 Decomposing leaf litter can be captured by fungal networks and distributed
-to neighboring plants. While the ecological significance of this sharing is
+to neighboring plants. While the [[lichen-biology-guide]] of this sharing is
 still being researched, it suggests that plants in a mycorrhizal network are
 not isolated competitors but participants in a cooperative underground system.
 
@@ -87,45 +88,3 @@ nutrients are scarce and reducing it when nutrients are abundant. This
 regulatory mechanism ensures the symbiosis remains mutually beneficial. When
 plants are supplied with high rates of soluble phosphorus fertilizer,
 [[arbuscular-mycorrhizal-colonization-patterns]] often decreases because the plant no longer needs
-the fungal partner, illustrating the law of conservation of energy.
-
-## Mycorrhizae and Soil Food Web Connections
-
-Mycorrhizal fungi are central nodes in the [[lowenfels-glomalin-soil-aggregation]], a sticky protein that
-binds soil particles into stable aggregates. Their hyphae serve as food for
-[[lowenfels-rhizosphere-bacteria-plant-interaction]] often work synergistically
-with mycorrhizae, with some bacteria acting as mycorrhiza helpers that
-stimulate fungal colonization. Mycorrhizal health is supported by practices
-like [[lowenfels-cover-crops-soil-biology]] that maintain living roots.
-
-## Mycorrhizal Diversity and Functional Complementarity
-
-Different AMF species provide different benefits to host plants. Some species
-are better at phosphorus uptake, while others excel at drought protection or
-pathogen defense. A diverse AMF community provides a portfolio of benefits
-that no single species can offer alone. This functional complementarity means
-that soils with diverse mycorrhizal communities support more resilient plant
-communities. Management practices that maintain AMF diversity, such as crop
-rotation with diverse host species and minimizing disturbance, are therefore
-preferable to practices that might favor a single dominant AMF species.
-
-## Water Relations and Drought Protection
-
-Beyond nutrient exchange, mycorrhizal fungi significantly improve plant water
-relations. The extensive hyphal network effectively increases the root absorptive
-surface area for water uptake, allowing mycorrhizal plants to access water from
-soil micropores beyond the root depletion zone. Mycorrhizal plants typically
-show improved [[dighton-fungal-drought-tolerance-plant-water-relations]], higher stomatal conductance under water stress,
-and faster recovery after drought. This water benefit is particularly important
-in the context of climate change and increasingly variable precipitation patterns.
-
-## Disturbance Sensitivity
-
-Mycorrhizal networks are sensitive to soil disturbance. Conventional tillage
-breaks hyphal networks, requiring plants to rebuild these connections each
-season. Fallow periods without host plants starve AMF, reducing their
-populations in soil. Pesticides and high rates of synthetic fertilizers,
-particularly phosphorus, can suppress mycorrhizal colonization. Lowenfels
-and Lewis argue that minimizing disturbance and maintaining continuous living
-roots are essential practices for preserving mycorrhizal networks and the
-broader soil food web they support.

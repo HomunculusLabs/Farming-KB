@@ -1,10 +1,11 @@
 ---
-title: cannabis-guerrilla-growing-guide Tactics
+title: Cervantes Guerrilla Growing Tactics
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, security, guerrilla, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -87,62 +88,10 @@ of sunlight.
 
 Wind patterns will affect your garden and influence
 where plants are located. Research average wind
-direction and force. Windbreaks protect plants from
-heat and water loss. Sustained wind will suck
-moisture from plants rapidly, creating problems
-when water supply is limited. A solid wall causes
-air to drop and whirl, while a louvered wall
-diffuses air and protects plants 6-12 feet (1.8-3
-m) from the wall.
 
-## Security Measures
-
-A secure location is the number one concern for
-most guerrilla growers. Guerrilla gardens planted
-on public land risk detection by hikers, fishermen,
-or other outdoor enthusiasts. They are interested
-in specific sports and recreation and will not go
-out of their way to find your patch unless you
-planted improperly and led them to it.
-
-Plant in a secure location that is out of sight.
-Make everything blend into surroundings so there
-is virtually no trace of a grow. Hide cannabis
-among other plants that are of similar size and
-foliage. Stinging nettles camouflage cannabis
-well, and if you brush up against them they give
-a burning sensation for about 20 minutes, which
-acts as a natural deterrent to casual explorers.
-
-Paint containers black, dark green, or camouflage.
-Camouflage sleeves are available to cover pots.
-Cover the bottom of your shoes with duct tape to
-mask footprints. Park your vehicle in a discreet
-place away from the trailhead.
-
-## Timing and Harvest
-
-Harvest before cold, damp autumn weather sets in,
-which causes bud mold and [[cervantes-powdery-mildew-prevention-treatment]]. Many
-plants can take a short mild freeze (30-32F,
--1 to 0C), but extended freezing can kill them.
-Pay close attention to weather forecasts and apply
-the information to the microclimate where your
-plants are growing. Be ready to harvest quickly if
-weather dictates.
-
-Some growers prefer to visit their patch late in
-the afternoon when visitors are less likely to be
-in the area. This gives plenty of time to complete
-tasks, and when the sun sets, you can return under
-the secure veil of twilight. Be prepared with a
-believable story and props: fishing pole, camera,
-or bird identification book.
-
-## Related
-
-- [[guerrilla-mycology]] Topics
-
-- [[cervantes-strain-selection]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-temperature-management]]
+## See Also
+- [[cannabis-guerrilla-growing-guide]]
+- [[urban-guerrilla-food-growing-city-agriculture]]
+- [[cervantes-net-pots-growing-slabs]]
+- [[cervantes-rockwool-growing-substrate]]
+- [[cervantes-green-algae-growing-medium]]

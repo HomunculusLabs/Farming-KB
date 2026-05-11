@@ -87,19 +87,3 @@ The choice of cover crop should match the needs of the subsequent crop:
   or buckwheat
 
 ## Termination
-
-Cover crops can be terminated by:
-
-- Cutting at soil level and leaving residue as [mulch
-  (preserves no-till benefits and fungal networks)
-- Crimping (for mechanical no-till systems)
-- Incorporating into soil (shifts toward bacterial dominance but disrupts
-  fungal networks)
-
-The no-till approach of cutting and leaving residue on the surface is
-preferred because it preserves [[dighton-mycorrhizal-networks-carbon-transfer]] and continues feeding the soil food web as the residue decomposes.
-
-See also: [[root-exudates-rhizosphere]], [[cover-crop-guide-detailed]]
-
-Source: Lowenfels & Lewis, Teaming with Microbes (Timber Press)
-- [[nutrient-movement-through-soil-to-plant-roots]]

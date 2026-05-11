@@ -1,6 +1,6 @@
 # GABA and the Endocannabinoid System: Cannabis as a Natural Anxiolytic
 
-**Source:** The Cannabis Health Index (Blesching, 2015)
+**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
 
 ## Overview
 
@@ -8,7 +8,7 @@ Gamma-aminobutyric acid (GABA) is the brain's primary inhibitory neurotransmitte
 functioning as the body's natural "downer." It regulates nerve cell excitability and
 muscle tone, and influences speech and language by inserting pauses between words.
 GABA is synthesized in brain cells from glutamate, and brain cells contain CB1
-cannabinoid receptors, creating a direct pharmacological pathway for cannabinoids
+[[cannabinoid-receptors-cb1-and-cb2]], creating a direct pharmacological pathway for cannabinoids
 to modulate GABAergic signaling.
 
 ## GABA Biochemistry
@@ -45,12 +45,12 @@ THC and other CB1-activating cannabinoids can enhance GABAergic transmission.
 The calming, sedating effects commonly associated with indica-dominant cannabis
 strains are largely mediated through this GABA pathway. Indica strains, with
 their higher CBD-to-THC ratios and greater CB2 affinity, tend to produce more
-pronounced GABA-mediated relaxation effects compared to sativa strains.
+pronounced GABA-mediated relaxation effects compared to [[african-landrace-sativa-strains]].
 
 The therapeutic implications are significant for conditions characterized by
 excessive neural excitation:
 
-- **Anxiety disorders:** Enhanced GABA signaling reduces fear signaling in the
+- **[[cannabis-for-anxiety-disorders]]:** Enhanced GABA signaling reduces fear signaling in the
   amygdala, the brain's threat-detection center
 - **Insomnia:** GABA promotion supports natural sleep architecture
 - **Muscle spasms:** GABA inhibits excessive motor neuron firing
@@ -64,7 +64,7 @@ excessive neural excitation:
 Multiple evidence-based approaches can boost or balance GABA availability:
 
 ### Yoga and Movement
-Yoga (asana) sessions increased brain GABA levels by 27% in clinical research.
+Yoga (asana) sessions increased brain GABA levels by 27% in [[hofmann-lsd-clinical-research-early-studies]].
 This finding has been replicated across multiple studies and represents one of
 the strongest evidence-based mind-body interventions for neurotransmitter
 modulation.
@@ -88,52 +88,3 @@ GABA-enhancing neural pathways over time.
 ## Emotional Dimension
 
 The emotional keyword associated with GABA is "I am melting" — representing the
-states of relaxation, calm, and slowed mental activity that characterize healthy
-GABA function. This contrasts sharply with the constricting emotions of fear
-(epinephrine) and excitement (glutamate).
-
-Understanding this emotional spectrum is central to the mind-body medicine
-framework described in Blesching's work. Each neurotransmitter has an
-emotional signature, and the balance between expansive emotions (associated
-with anandamide, serotonin, oxytocin, GABA) and constricting emotions
-(associated with epinephrine, dopamine, cortisol, glutamate) determines
-overall emotional and physical health.
-
-## Clinical Applications in Cannabis Therapy
-
-For cannabis-using patients, understanding the GABA connection informs strain
-selection and dosing strategies:
-
-1. **Anxiety treatment:** Indica strains with balanced THC:CBD ratios,
-   used at low to moderate doses, leverage GABA pathways for anxiolysis
-2. **Sleep disorders:** High-CBD indica strains taken 1-2 hours before
-   bedtime promote GABA-mediated sleep onset
-3. **Muscle relaxation:** Topical and systemic cannabis applications for
-   spasticity work partly through GABA-mediated muscle tone reduction
-4. **PTSD:** The combination of GABA enhancement with mindfulness-based
-   therapies addresses both the neurochemical and psychological components
-   of trauma
-
-## Integration with Mind-Body Medicine
-
-Blesching's framework emphasizes that neurotransmitter modulation is most
-effective when combined with conscious intention-setting. The subjective
-therapeutic window — the dose range where benefits are maximized and adverse
-effects minimized — varies by individual and by intention. A patient using
-cannabis specifically for GABA-related relaxation may find their optimal dose
-differs from when using it for pain relief or creative exploration.
-
-The practice of Vipassana meditation, which Blesching describes as a technique
-for developing insights into self that lead to transformation and healing,
-directly supports GABA enhancement. Mindfulness practices employed to
-contemplate the constructs of the mind (sensation, thoughts, and feelings)
-and how they contribute to health or illness parallel the neurochemical
-work of balancing GABA and glutamate.
-
-## See Also
-
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-cannabis-acetylcholine-memory-learning]]
-- [[blesching-cannabis-vasopressin-aggression]]
-- [[2-ag-endocannabinoid-signaling-blesching]]
-- [[beta-caryophyllene-dietary-cannabinoid-blesching]]

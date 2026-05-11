@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Soil Observations
@@ -86,13 +87,8 @@ Fukuoka argues that if farmland were correctly understood as a legacy to be pres
 
 ---
 
-Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
+Source: [[masanobu-fukuoka]], The Natural Way of Farming: The [[microdosing-theory-and-practice]] of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]
 
 ## See Also
-
-- [[fukuoka-one-gram-soil]]
-
-- [[fukuoka-soil-building-method]]
-- [[fukuoka-soil-self-improvement-without-tillage]]
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
-- [[fukuoka-citrus-orchard-ground-cover-cultivation]]
+- [[fukuoka-soil-management-observations]]
+- [[fukuoka-soil-microbe-fertilizer-complexity]]

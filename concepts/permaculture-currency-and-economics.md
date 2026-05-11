@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Currency and Economics
 
-Permaculture extends beyond physical landscape design into the realm of community economics. In Bill Mollison's Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from ecological design: money should serve the proliferation of life, not the accumulation of monuments. (see [[permaculture-community-resilience]]).
+Permaculture extends beyond physical [[holzer-permaculture-landscape-design]] into the realm of community economics. In [[bill-mollison]]'s Designers' Manual (Chapter 14), the financial and economic dimension is treated as inseparable from [[gaias-garden-ecological-design-process-checklist]]: money should serve the proliferation of life, not the accumulation of monuments.
 
 ## Core Philosophy
 
 Money is not intrinsically a resource -- it represents (or should represent) a resource which lies "somewhere else." All money ultimately arises from the wealth of the natural world: plants, clean water, clear air, stored energy. The accumulation of unused wealth, or wealth that does not lead to the proliferation of life, is a pollution of the same nature as any unused resource. As Mollison writes, "Manure and money have much in common."
 
-The goal of permaculture economics is to develop wealth the way we develop landscapes: by concentrating on conservation of energy and natural resources (reducing the need to earn), by developing procreative assets (forests, prairies, life systems), by reducing degenerative assets (roads, monuments, cities), and by constantly divesting surplus wealth toward these ends. (see [[animal-tractoring]]).
+The goal of [[pdc-right-livelihood-and-permaculture-economics]] is to develop wealth the way we develop landscapes: by concentrating on conservation of energy and natural resources (reducing the need to earn), by developing procreative assets (forests, prairies, life systems), by reducing degenerative assets (roads, monuments, cities), and by constantly divesting surplus wealth toward these ends.
 
 ## Asset Categories
 
@@ -100,3 +100,27 @@ Mollison's key metaphor: "Money is to the social fabric as water is to landscape
 - [[permaculture-introduction-and-ethics]] -- The ethical foundation underlying permaculture economics
 - [[permaculture-design-process]] -- Community-scale design for self-reliance
 - [[permaculture-design-process]] -- Reducing household costs through design
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

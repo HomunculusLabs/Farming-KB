@@ -1,5 +1,5 @@
 ---
-title: Pressure pressure cooker sterilization mushroom substrate of gourmet-medicinal-mushroom-substrate-preparation
+title: Pressure Cooker Sterilization Mushroom Substrate
 slug: pressure-cooker-sterilization-mushroom-substrate
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md
 created: 2026-05-08
@@ -12,10 +12,10 @@ tags: [mycology, sterilization, pressure-cooker, mushroom-cultivation, contamina
 
 Pressure cooker sterilization is a critical step in the boil-a-bag mushroom
 cultivation method, eliminating competing microorganisms from the substrate
-to give inoculated mushroom mycelium a uncontested environment for
+to give inoculated [[antimicrobial-compounds-mushroom-mycelium]] a uncontested environment for
 colonization. Without proper sterilization, contamination rates increase
 dramatically and most or all bags may fail. The method uses standard
-[[comparison-pressure-canning-vs-water-bath-canning]] principles adapted for mushroom substrate bags.
+[[comparison-pressure-canning-vs-water-bath-canning]] principles adapted for [[oil-drum-sterilizer-mushroom-substrate-bags]].
 
 ## Equipment Required
 
@@ -71,7 +71,7 @@ substrate in bags. However, several factors may require adjusted times:
 
 - **Larger bag volumes**: May need 90–120 minutes for complete heat
   penetration to the center of the substrate mass.
-- **Denser substrates**: Wood chips or sawdust blocks require longer
+- **Denser substrates**: Wood chips or [[oyster-mushroom-supplemented-sawdust-blocks]] require longer
   sterilization than loose straw.
 - **Higher altitude**: At elevations above sea level, 15 PSI corresponds
   to lower actual temperatures. Additional time or higher pressure may be
@@ -81,56 +81,10 @@ substrate in bags. However, several factors may require adjusted times:
 
 ## Contamination Sources
 
-Understanding common contamination vectors helps improve success rates:
+Understanding common [[mushroom-contamination-vectors]] helps improve success rates:
 
 - **Endogenous contaminants**: Organisms present in the straw or supplements
   before sterilization. Proper sterilization eliminates these.
 - **Airborne contaminants**: Spores that enter during cooling if bags are
   opened or filter cans are compromised. Keep bags sealed until
   inoculation.
-- **Operator-borne contaminants**: Spores from the cultivator's breath,
-  skin, or clothing. Wearing a breathing mask and working quickly near
-  a flame reduces this risk.
-- **Equipment contaminants**: Dirty syringes, unsterilized needles, or
-  contaminated work surfaces. [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] between every
-  inoculation is essential.
-
-## Troubleshooting
-
-- **Bags melting**: Using non-autoclavable bags or placing bags too close
-  to the cooker walls. Ensure bags are rated for pressure cooking.
-- **Excessive condensation inside bags**: Normal during sterilization; will
-  be absorbed by the substrate during colonization. If excessive, check
-  moisture content of original [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
-- **Bags not reaching full pressure**: Check gasket seal and weight valve
-  for proper function. Insufficient pressure means insufficient
-  sterilization temperature.
-- **Bags bursting**: Overfilling bags or blocking the filter can vent.
-  Leave adequate headspace and ensure filter can holes are not obstructed.
-
-## Safety Considerations
-
-Pressure cookers contain superheated steam under pressure and must be
-treated with respect:
-
-- **Never force-cool**: Rapid cooling can warp the cooker, damage the
-  gasket, or cause violent boiling of the substrate inside bags.
-- **Check gasket regularly**: A worn or cracked gasket may not maintain
-  proper pressure, resulting in inadequate sterilization.
-- **Monitor water level**: If the cooker boils dry during sterilization,
-  bags will melt and the cooker may be damaged. Always err on the side of
-  too much water.
-- **Release pressure carefully**: When the cycle is complete, allow the
-  pressure to drop naturally before opening. Opening while pressurized
-  releases scalding steam.
-- **Use on stable surfaces**: Pressure cookers are heavy when loaded.
-  Ensure the cooking surface is level and can support the weight.
-
-## See Also
-
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-
-- [[straw-based-mushroom-substrate-preparation]] — Substrate prep before
-  sterilization
-- [[mushroom-spore-syringe-preparation]] — Preparing inoculant
-- [[mushroom-humidity-chamber-design]] — Post-colonization fruiting

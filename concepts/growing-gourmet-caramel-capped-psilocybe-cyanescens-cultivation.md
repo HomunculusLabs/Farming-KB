@@ -1,5 +1,5 @@
 ---
-title: growing gourmet caramel capped psilocybe cyanescens cultivation Psilocybe (P. cyanescens Complex) Cultivation
+title: Growing Gourmet Caramel Capped Psilocybe Cyanescens Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -67,9 +68,9 @@ P. cyanofibrillosa. Several more taxa remain unpublished.
 ## Distribution and Habitat
 
 Found throughout temperate forests of the world, including the coastal
-Pacific Northwest, northeastern North America, the British Isles,
+[[psilocybin-north-america-pacific-northwest]], northeastern [[guzman-psilocybin-mushrooms-north-america]], the British Isles,
 eastern Europe, southern Argentina, North Africa, New Zealand and
-temperate regions of Australia. Heliotropic and primarily preferring
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Australia. Heliotropic and primarily preferring
 deciduous woods, especially in riparian habitats, fruiting in the fall.
 Possibly a saprophyte of fir seed cones, they show particular fondness
 for decorative mulch ("beauty bark") used in landscaping around newly
@@ -86,16 +87,3 @@ featuring a distinct banded germ pore at one end. Gill margins banded
 with long-throated, finger-like, non-forked or forked sterile cells.
 Some species have pleurocystidia while most do not. Growing gourmet dikaryotic
 present.
-
-## Mycelial Characteristics
-
-These Caramel Capped Psilocybes behave similarly in culture, producing
-a luxuriantly satin-like mycelia on sterilized malt [[stropharia-rugoso-annulata-mycofiltration]].
-[[growing-gourmet-sawdust-spawn-production-use]] is broadcast into hardwood or conifer ([[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
-- [[growing-gourmet-black-poplar-agrocybe-cultivation]]
-
-## See Also
-
-- [[growing-gourmet-chanterelle-truffle-cultivation-challenges]]
-- [[growing-gourmet-nameko-pholiota-cultivation]]
-- [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]]

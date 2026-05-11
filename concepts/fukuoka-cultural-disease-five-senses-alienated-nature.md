@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
@@ -35,7 +36,7 @@ Fukuoka traces the progressive alienation of each sense from its natural source:
 
 1. **Touch**: People no longer tread over the bare earth. They walk on asphalt and concrete, separated from soil by rubber soles. The tactile experience of soil — its temperature, moisture, texture — has become foreign.
 2. **Touch and connection**: Their hands have drawn away from the grasses and flowers — the direct tactile experience of living plants. Children are taught not to touch dirt, to fear insects, to stay clean.
-3. **Sight**: They do not gaze up into the heavens — the natural sky is replaced by screens and ceilings. The daily observation of weather, clouds, stars, and seasonal change has been replaced by weather apps and fluorescent lighting.
+3. **Sight**: They do not gaze up into the heavens — the natural sky is replaced by screens and ceilings. The daily observation of weather, clouds, stars, and seasonal change has been replaced by weather apps and [[cervantes-compact-fluorescent-lighting]].
 4. **Smell**: Their noses are rendered insensitive by exhaust fumes — the subtle fragrances of soil, plants, and seasons are lost. The smell of rain on dry earth, of blossoming [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], of turned soil after a frost — these experiences no longer shape daily consciousness.
 5. **Taste**: Their tongues have forgotten the simple tastes of nature — only strong, artificial flavors register. The subtle sweetness of a sun-ripened fruit, the earthy depth of naturally grown grain, the clean taste of spring water — all have been replaced by sugar, salt, and chemical additives.
 
@@ -47,7 +48,7 @@ Fukuoka identifies Japan's Meiji Reformation as the historical moment when this 
 
 "Progress in Japan since the Meiji Reformation has brought material confusion and spiritual devastation. Japan can be likened to a patient dying of cultural disease who is submitted to a medical experiment."
 
-This cultural flowering — pursued throughout the Meiji, Taisho, and Showa periods — was actually a flowering of destruction. The adoption of Western materialism and scientific reductionism severed Japan's traditional connection to nature-based living. What appeared as progress was in fact a systematic dismantling of the sensory and spiritual connections that had sustained Japanese culture for centuries.
+This cultural flowering — pursued throughout the Meiji, Taisho, and Showa periods — was actually a flowering of destruction. The adoption of Western materialism and [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] severed Japan's traditional connection to nature-based living. What appeared as progress was in fact a systematic dismantling of the sensory and spiritual connections that had sustained Japanese culture for centuries.
 
 The Meiji reforms did not merely change Japan's political and economic institutions. They rewired the Japanese relationship with the natural world. Traditional farming practices that had evolved over millennia were replaced with Western scientific methods. Traditional diets gave way to processed and imported foods. The seasonal rhythms that had structured daily life were replaced by clock time and industrial schedules. Each of these changes represented a further step of sensory alienation.
 
@@ -87,34 +88,3 @@ Cultural disease is self-reinforcing. As the senses become alienated from nature
 - Less able to appreciate natural food, driving demand for processed food
 - Less able to enjoy natural environments, driving demand for artificial entertainment
 - Less able to feel connection to the land, driving urbanization and land abandonment
-- Less able to recognize the value of traditional farming, driving adoption of industrial agriculture
-
-Each of these consequences further alienates the senses, accelerating the cycle. The only way to break it is through direct, sensory re-engagement with nature — which is exactly what [[comparison-natural-farming-vs-permaculture]] provides.
-
-## The Road Back: No Method
-
-The solution to cultural disease cannot be found in more technology or more sophisticated approaches to nature appreciation. Fukuoka is emphatic:
-
-"No method is needed for loving nature. The only road to nature is non-action, the only method is no method at all. All one must do is to do nothing."
-
-This is not passive resignation but active non-interference — a fundamental reorientation of consciousness from doing to being, from controlling to witnessing, from consuming to participating in the cycles of nature. It means allowing the senses to recover naturally by placing them back in contact with their original context. A child who grows up barefoot on the earth, who watches the sky, who tastes food fresh from the garden, who listens to birdsong instead of traffic — this child's senses will develop naturally, without effort, without method.
-
-The road back is not a program to be implemented but a condition to be allowed. Remove the barriers — the asphalt, the screens, the processed food, the artificial environments — and human nature will reassert itself.
-
-## Implications for Diet and Health
-
-When the five senses are alienated from nature, diet inevitably suffers:
-
-- A tongue that cannot taste simple food craves artificial flavor enhancers
-- Eyes that cannot appreciate natural beauty demand visually perfect but nutritionally empty produce
-- A body that never touches earth becomes weak and disease-prone
-- A mind that never observes natural cycles loses the ability to eat seasonally and locally
-- A spirit disconnected from nature seeks fulfillment through consumption rather than through relationship
-
-The cultural disease is thus the root cause of both agricultural destruction and dietary degradation. Healing one requires healing the other. And healing both requires first healing the senses — returning them to their natural context so they can once again perceive what is real, what is good, and what is true.
-
-## Connection to Other Concepts
-
-- [[fukuoka-do-nothing-farming-philosophy|Do-Nothing Farming Philosophy]]
-- [[fukuoka-disappearance-natural-diet|Disappearance of a Natural Diet]]
-- [[fukuoka-view-of-nature-and-human-hubris|View of Nature and Human Hubris]]

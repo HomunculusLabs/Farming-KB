@@ -35,7 +35,7 @@ sources:
 - **Genus:** Craterellus
 - **Species:** C. cornucopioides
 
-The genus Craterellus is closely related to Cantharellus (true chanterelles) and shares many ecological traits, including ectomycorrhizal associations with forest trees. C. cornucopioides was historically classified as Cantharellus cornucopioides before molecular phylogenetics supported its placement in Craterellus. The species epithet "cornucopioides" means "horn of plenty," referring to its funnel shape and the classical cornucopia symbol. A closely related species, C. fallax, is nearly indistinguishable in the field and is sometimes considered a synonym; both are excellent edibles.
+The genus Craterellus is closely related to Cantharellus (true chanterelles) and shares many ecological traits, including [[ectomycorrhizal-associations]] with forest trees. C. cornucopioides was historically classified as Cantharellus cornucopioides before molecular phylogenetics supported its placement in Craterellus. The species epithet "cornucopioides" means "horn of plenty," referring to its funnel shape and the classical cornucopia symbol. A closely related species, C. fallax, is nearly indistinguishable in the field and is sometimes considered a synonym; both are excellent edibles.
 
 ## Morphology and Identification
 
@@ -50,14 +50,14 @@ Black trumpets are distinctive once learned, but their dark coloration makes the
 
 ## Distribution and Habitat
 
-Black trumpets have a wide distribution across temperate regions of the Northern Hemisphere and are also found in parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]:
+Black trumpets have a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and are also found in parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]:
 
 - **Europe:** Widespread and abundant from Scandinavia to the Mediterranean; particularly common in deciduous and mixed forests of France, Germany, and Eastern Europe
-- **North America:** Eastern North America from Canada to the southeastern United States; also along the Pacific coast
+- **North America:** [[polypore-fungi-eastern-north-america]] from Canada to the southeastern United States; also along the Pacific coast
 - **Asia:** Reported in Japan, Korea, and parts of China
 - **Africa:** Rare but documented in North Africa (Morocco, Algeria)
 
-The species is an obligate ectomycorrhizal associate, forming symbiotic relationships primarily with:
+The species is an obligate ectomycorrhizal associate, forming [[fungi-in-the-environment-symbiotic-relationships]] primarily with:
 - Oaks (*Quercus* spp.)
 - Beech (*Fagus* spp.)
 - Hornbeam (*Carpinus* spp.)
@@ -73,7 +73,7 @@ Black trumpets are considered one of the finest edible mushrooms, prized for the
 - **Flavor profile:** Rich, smoky, earthy, with notes of black truffle, apricot, and aged cheese. The umami character is among the strongest of any wild mushroom.
 - **Texture:** Somewhat chewy and meaty when fresh; becomes pleasantly crisp when dried and reconstituted.
 - **Culinary uses:** Excellent in cream sauces, soups, risottos, pasta dishes, omelets, and as a seasoning. Widely used in French cuisine, particularly in dishes from the Périgord and Alsace regions. Also popular in Scandinavian cooking.
-- **Drying:** One of the best mushrooms for drying — the flavor concentrates dramatically. Dried specimens can be ground into a powerful umami seasoning powder.
+- **Drying:** One of [[query-what-are-the-best-mushrooms-for-beginners-to-grow]] for drying — the flavor concentrates dramatically. Dried specimens can be ground into a powerful umami seasoning powder.
 - **Pairings:** Complements cream, butter, garlic, thyme, poultry, game meats, and egg dishes particularly well.
 
 [[dighton-fungal-nutritional-composition-animal-diets]] (per 100 g fresh weight, approximate):
@@ -87,45 +87,4 @@ Black trumpets are considered one of the finest edible mushrooms, prized for the
 
 While black trumpets have not been as extensively studied medicinally as some other mushroom species, research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
 
-- **Antioxidant activity:** Contains phenolic compounds and ergothioneine, a potent antioxidant found in many edible mushrooms. Extracts show significant free radical scavenging activity in vitro.
-- **Anti-inflammatory:** Polysaccharide fractions from Craterellus species demonstrate anti-inflammatory effects in cell culture models.
-- **Immunomodulatory:** Beta-glucan content contributes to immune system modulation, consistent with findings across the Cantharellaceae family.
-- **Antimicrobial:** Moderate antibacterial activity has been reported against select Gram-positive bacteria.
-
-## Cultivation
-
-Like other ectomycorrhizal species, C. cornucopioides has not been successfully cultivated to the fruiting stage under controlled conditions. All commercial supply comes from wild harvesting. Challenges to cultivation include:
-
-- The obligate mycorrhizal requirement with specific host trees
-- Complex soil and [[edaphic-factors-microbial-community-structure]] requirements
-- Difficulty establishing mycorrhizal associations in artificial settings
-- Slow growth rate compared to saprotrophic mushrooms
-
-Foraged black trumpets command premium prices in gourmet markets, with dried specimens often exceeding $100 per pound in specialty food stores. Their value and difficulty of detection make them a favorite target of experienced foragers.
-
-## Lookalikes and Safety
-
-C. cornucopioides has few dangerous lookalikes, making it one of the safer mushrooms for beginners to learn:
-
-- **Craterellus cinereus:** Very similar, darker and more gray; equally edible
-- **Tremella foliacea (Jelly Leaf):** Brownish, gelatinous, brain-like — not a close lookalike when examined
-- **No deadly lookalikes are known** in regions where black trumpets grow
-
-The main risk is confusion with old or decayed specimens of other dark-colored mushrooms. As with all wild mushrooms, positive identification using multiple characteristics is recommended.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, C. cornucopioides plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
-
-- Enhances host tree access to soil minerals (phosphorus, nitrogen, micronutrients)
-- Contributes to soil aggregation and humus formation through [[fungal-mycelial-networks-nutrient-translocation]]
-- Provides food for forest invertebrates and small mammals
-- Serves as an indicator of healthy, mature forest ecosystems with intact mycorrhizal communities
-
-The species is sensitive to habitat disturbance, including clear-cutting, soil compaction, and air pollution. Its presence is generally considered a positive indicator of forest ecosystem health.
-
-## See Also
-
-- [[cantharellus-cibarius-entity]] — Golden Chanterelle, a close relative in the same family
-- [[morchella-esculenta]] — Morel, another difficult-to-spot but commercially valuable mushroom
-- [[fungal-ecology]] — Fungal roles in forest ecosystems
+- **Antioxidant activity:** Contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and ergothioneine, a potent antioxidant found in many edible mushrooms. Extracts show significant free radical scavenging activity in vitro.

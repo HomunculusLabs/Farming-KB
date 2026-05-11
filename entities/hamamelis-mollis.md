@@ -29,7 +29,7 @@ Chinese witch hazel is distinguished from its relatives by its superior fragranc
 
 ## Taxonomy and Morphology
 
-Hamamelis mollis belongs to family Hamamelidaceae, tribe Hamamelideae. The genus Hamamelis comprises 4–5 species distributed in eastern North America and East Asia.
+Hamamelis mollis belongs to family Hamamelidaceae, tribe Hamamelideae. The genus Hamamelis comprises 4–5 species distributed in [[polypore-fungi-eastern-north-america]] and East Asia.
 
 - **Kingdom:** Plantae
 - **Family:** Hamamelidaceae
@@ -40,7 +40,7 @@ Leaves are broadly obovate, 8–15 cm long, with an oblique base and wavy, serra
 
 Flowers appear in January–March on bare branches, consisting of four narrow, crinkled petals 2–3 cm long. Petals range from pale yellow to deep golden-orange, depending on the individual and provenance.
 
-The intense, sweet fragrance is the species' most distinctive characteristic, detectable from several meters away on warm winter days. This fragrance distinguishes it from the nearly scentless North American Hamamelis species.
+The intense, sweet fragrance is the species' most distinctive characteristic, detectable from several meters away on warm winter days. This fragrance distinguishes it from the nearly scentless [[growing-gourmet-north-american-reishi-species]] Hamamelis species.
 
 Fruit is a woody, two-valved capsule approximately 1.5 cm long. The capsules ripen over an extended period and explosively eject seeds up to 10 m when they finally split open in autumn.
 
@@ -68,9 +68,9 @@ Tolerates full sun to partial shade, but flower display and fragrance are strong
 
 Notable cultivars include 'Pallida' (pale sulphur-yellow flowers, strong fragrance), 'Brevipetala' (short-petaled, deep gold), and 'Jermyns Gold' (large flowers, rich yellow). The cultivar 'Fred Chittenden' is noted for particularly intense fragrance.
 
-The cultivar 'Wisley Supreme' produces some of the largest flowers in the genus, with petals reaching 3 cm. 'Westerstede' is valued for its compact growth habit and reliable heavy flowering.
+The cultivar 'Wisley Supreme' produces some of the largest flowers in the genus, with petals reaching 3 cm. 'Westerstede' is valued for its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit and reliable heavy flowering.
 
-Propagation is by seed (requiring 3 months warm + 3 months cold stratification), softwood cuttings in summer, or grafting. Many named cultivars are grafted onto Hamamelis virginiana rootstock.
+Propagation is by seed (requiring 3 months warm + 3 months cold stratification), softwood cuttings in summer, or grafting. Many named cultivars are grafted onto [[hamamelis-virginiana]] rootstock.
 
 Pruning should be minimal and limited to removing dead or crossing branches. The plant's natural vase shape is its most ornamental growth habit and should be preserved.
 
@@ -84,37 +84,6 @@ In native forests, Hamamelis mollis flowers during winter when few other nectar 
 
 The species is the primary parent of most Hamamelis × intermedia cultivars, the most widely grown witch hazels in gardens. These hybrids combine the fragrance of H. mollis with the larger flowers and vigor of H. japonica.
 
-Traditional Chinese medicine uses the bark and leaves for their astringent and anti-inflammatory properties. Extracts are applied topically for skin conditions, though less commonly than those of the North American Hamamelis virginiana.
+Traditional Chinese medicine uses the bark and leaves for their astringent and anti-inflammatory properties. Extracts are applied topically [[cannabis-for-skin-conditions-detailed]], though less commonly than those of the North American Hamamelis virginiana.
 
-The leaves contain significant quantities of tannins, including hamamelitannin, which has demonstrated antioxidant and anti-inflammatory activity in laboratory studies. These compounds contribute to the plant's astringent medicinal properties.
-
-The plant's strong fragrance has inspired its use in perfumery research. Chemical analysis has identified numerous volatile terpenes responsible for the characteristic sweet-spicy scent.
-
-Deer typically avoid browsing Hamamelis foliage due to its astringent taste. This resistance makes it valuable for landscapes in areas with heavy deer pressure.
-
-No serious pests or diseases affect the species in cultivation. Occasional coral spot fungus (Nectria cinnabarina) can invade damaged stems, but this is easily managed by pruning affected wood.
-
-## Conservation
-
-Hamamelis mollis is not currently listed as threatened on the IUCN Red List. However, habitat loss from deforestation and agricultural expansion in central China continues to reduce wild populations.
-
-Several populations in Zhejiang and Fujian are now confined to protected reserves. The species occurs within the boundaries of multiple Chinese national nature reserves.
-
-Recent field surveys suggest that some low-elevation populations in Anhui have been lost to agricultural conversion. Populations at higher elevations in Sichuan and Hubei remain relatively secure due to the rugged terrain.
-
-Ex situ conservation is excellent, with extensive collections maintained at botanical gardens in China, Europe, and North America. The species is well-represented in living collections worldwide due to its horticultural importance.
-
-The RHS has awarded H. mollis and several of its cultivars the Award of Garden Merit. This recognition confirms the species' reliability and ornamental value across diverse temperate growing conditions.
-
-## See Also
-
-- [[hamamelis-virginiana]]
-- [[fothergilla-gardenii]]
-- [[cornus-florida]]
-- [[lindera-benzoin]]
-- [[sassafras-albidum]]
-- [[viburnum-opulus]]
-- [[acer-rubrum]]
-- [[fagus-sylvatica]]
-- [[ilex-opaca]]
-- [[kalmia-latifolia]]
+The leaves contain significant quantities of tannins, including hamamelitannin, which has demonstrated antioxidant and anti-inflammatory activity in laboratory studies. These compounds contribute to the plant's astringent [[panax-ginseng]].

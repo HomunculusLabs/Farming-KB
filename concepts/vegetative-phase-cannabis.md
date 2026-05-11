@@ -88,24 +88,3 @@ move and maintain than big plants in big containers.
 ## Training Techniques
 
 Several training methods are applied during vegetative growth to improve yield and plant
-structure:
-
-- **[[fimming]]:** Similar to topping but leaves partial growth tips for multiple tops
-- **[[sea-of-green]]:** Growing many small plants for faster turnover
-- **[[ph-management-cannabis]]
-- **pH (hydroponic):** 5.8-6.8
-- **Ventilation:** Fresh air exchange is essential; [[flowering-phase-cannabis]]. Growth rate typically accelerates during the first two
-weeks of flowering (the "stretch" phase) before slowing as bud development begins.
-
-## Watering During Vegetative Growth
-
-The larger a plant gets and the bigger the root system, the faster the soil will dry
-out. Irrigate larger plants in the vegetative stage when soil is dry one-half inch
-below the surface. The key to strong vegetative growth and a heavy harvest is supplying
-roots and plants with the perfect environment. Avoid overwatering, which limits oxygen
-to roots and can promote fungal root diseases.
-
-## See Also
-
-- [[cannabis-cloning]] -- propagation during vegetative stage
-- [[mother-plant-cannabis]] -- plants held in perpetual vegetative growth

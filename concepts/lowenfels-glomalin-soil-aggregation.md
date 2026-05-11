@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---
@@ -87,13 +88,3 @@ Glomalin production is directly tied to mycorrhizal health, so practices
 that support AMF inherently support glomalin accumulation:
 
 - **Minimize tillage:** Tillage breaks hyphal networks and exposes glomalin
-  to oxidation, reducing both production and existing pools
-- **Maintain continuous living roots:** Mycorrhizal fungi need host plants
-  year-round; [[lowenfels-mycorrhizal-network-nutrient-sharing]] to the
-physical structure of soil, making it a bridge between biological and
-physical soil health. Aggregates formed with glomalin provide habitat for
-the [[lowenfels-soil-protozoa-cycling]], and shelter for
-[[lowenfels-soil-food-web-succession]]
-from [[ingham-bacterial-to-fungal-succession-soil-food-web]] dominance corresponds with increasing glomalin
-accumulation as ecosystems mature. Glomalin exemplifies the central thesis
-of Lowenfels and Lewis: that biological processes, not chemical inputs, are

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2T-MMDA-3a
 
-PIHKAL entry #166. 3,4-METHYLENEDIOXY-2-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #166. 3,4-METHYLENEDIOXY-2-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,40 +88,6 @@ return to ice bath temperature, and then all volatiles were removed
 under vacuum. The residue was poured into 500 mL H2O and acidified
 with HCl. After heating for 1 h on the [[scythian-cannabis-steam-bath-ritual]], the reaction
 mixture was cooled, producing a gummy solid that was shown to be a
-complex mixture by TLC. But there was a single fluorescent spot that
-was the product aldehyde and it was pursued. Extraction with 3x75 mL
-CH2Cl2 gave, after pooling and stripping of the solvent, a residue
-which was extracted with four separate passes, each with 75 mL boiling
-hexane. The deposited crystals from each were separated, and all
-recrystallized from boiling MeOH to give 3.3 g of
-3,4-methylenedioxy-2-(methylthio)benzaldehyde, with a mp of 77-80 deg C.
-
-To a solution of 3.0 g 3,4-methylenedioxy-2-(methylthio)benzaldehyde
-in 25 mL IPA there was added 2 mL nitroethane, 0.11 mL ethylenediamine
-and 0.1 mL acetic acid. This was held at reflux temperature for 18 h,
-and the solvents removed under vacuum. The residue showed a total of
-eight spots on TLC analysis, extending from the origin to the spot of
-the product nitrostyrene itself. Trituration of this residue under 25
-mL MeOH gave a crude nitrostyrene which was, after separation,
-
-recrystallized from 20 mL of boiling MeOH. The final isolation of
-1-(3,4-methylenedioxy-2-methylthiophenyl)-2-nitropropene gave 0.5 g of
-a product that had a mp of 94-95 deg C. The mixed mp with the
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[mmda-3a-entity-pihkal]]
-
-- [[meda-entity-pihkal]]
-
-- [[doc-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[mmda-entity-pihkal]]

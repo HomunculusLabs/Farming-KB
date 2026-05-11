@@ -4,12 +4,13 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [soil, agriculture]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Soil Fungal Diversity — Wisconsin Survey and Global Patterns
 
-Soil supports some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on Earth. The Wisconsin soil fungal survey program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[air-pollution-fungal-community-responses]] structure in relation to plant communities.
+Soil supports some of the most diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] on Earth. The Wisconsin soil [[am-fungal-survey-methods]] program — spanning 20+ years across multiple vegetation types — remains the most comprehensive quantitative study of soil [[air-pollution-fungal-community-responses]] structure in relation to plant communities.
 
 ## The Wisconsin Survey Program
 
@@ -27,7 +28,7 @@ Soil fungi, like plants and animals, are responsive to the totality of their env
 ### Key Findings
 
 #### Biome-Level Patterns
-- Fungal communities varied widely among biomes
+- [[dighton-fungal-communities-grassland-soils]] varied widely among biomes
 - Certain arrays of taxa from 30+ principal microfungal species are unmistakable indicator assemblages for each biome
 - Fusarium species, Paecilomyces lilacinus, Penicillium restrictum are among widespread indicators
 
@@ -49,7 +50,7 @@ Soil fungi, like plants and animals, are responsive to the totality of their env
 | Sand barrens | 3 | 1,000-2,000 | >18 |
 
 ### Conclusions
-- Hypothesis of concomitant species in plant and soil fungal communities was supported
+- Hypothesis of concomitant species in plant and [[biodiversity-fungi-soil-fungal-communities]] was supported
 - Vegetation imprint could be overridden by proximate factors (soil chemistry)
 - Spheres of occurrence of fungal assemblages apparent for all major tree species
 
@@ -66,7 +67,7 @@ Soil fungi, like plants and animals, are responsive to the totality of their env
 | Sweden | Clear-cut forest | 3,891 | 96 |
 
 ### Key Pattern: Tropical ≠ More Diverse
-Recent evidence indicates that species diversity in [[mollison-designers-tropical-soils-and-cation-exchange-management]] is **similar** to temperate soils. Fungal species richness in humid tropical soils is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
+Recent evidence indicates that species diversity in [[mollison-designers-tropical-soils-and-cation-exchange-management]] is **similar** to temperate soils. [[fungal-species-richness-and-diversity-indices]] in humid [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]] is comparable to temperate forests. This contrasts with above-ground patterns where tropical diversity far exceeds temperate.
 
 ## Species-Isolate Curves
 
@@ -85,26 +86,6 @@ The relationship between species richness and number of isolates is **nonlinear*
 
 ### Factors Influencing Soil Fungal Diversity
 1. **Plant diversity:** Greatest influence; fungal diversity correlates with host/substratum variety
-2. **Soil chemistry:** pH, calcium, organic matter content
+2. **Soil chemistry:** pH, calcium, [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content
 3. **Moisture and temperature:** Most fungi grow/sporulate best >15-20C; water critical
 4. **Disturbance:** Burning, logging, cultivation — effects usually quantitative
-5. **Seasonality:** Significant variation in temperature/water = different fungal communities
-6. **Succession:** Changes in fungal communities following disturbance
-
-### Soil vs. Litter
-Fungal diversity in leaf litter is significantly greater than in soil beneath it. In São Paulo, Brazil, only 6 of 87 taxa were found exclusively in soil.
-
-## Applications of Soil Fungal Survey Data
-
-1. **Indicator species:** Identify characteristic assemblages for vegetation/soil types
-2. **Monitoring:** Detect effects of disturbance, pollution, [[dighton-fungi-climate-change-feedback]]
-3. **Biocontrol:** Identify naturally occurring antagonists of plant pathogens
-4. **Food web analysis:** Understand fungal roles in decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-5. **Conservation:** Assess soil biodiversity for reserve design and management
-
-## See Also
-
-- [[soil-fungal-isolation-techniques]]
-- [[fungal-species-estimation-methods-total-diversity]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[tropical-vs-temperate-fungal-diversity]]

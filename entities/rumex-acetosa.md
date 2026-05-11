@@ -2,7 +2,7 @@
 title: "Rumex acetosa"
 created: 2026-04-28
 type: species
-tags: [species, plant, polygonaceae, edible-herb, permaculture, wild-food]
+tags: [species, plant, polygonaceae, edible-herb, [[permaculture]], wild-food]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,9 +18,9 @@ naturalized across much of [[psilocybin-north-america-pacific-northwest]] and is
 as a culinary herb. Sorrel is prized for its distinctive sharp,
 lemon-sour flavor, which comes from high concentrations of oxalic
 acid in the leaves. The plant has a long history of culinary and
-medicinal use dating back to ancient Greece and Rome, where it was
+medicinal use dating back to [[psychedelic-use-in-ancient-greece]] and Rome, where it was
 valued both as a spring tonic and as a treatment for scurvy due
-to its high vitamin C content. In permaculture and food forest
+to its high vitamin C content. In permaculture and [[food-forest]]
 designs, sorrel serves as a productive ground-cover perennial
 that provides [[coleman-overwintered-onions-and-early-spring-crops]] greens before many annual vegetables
 are harvestable.
@@ -77,7 +77,7 @@ are approximate per 100 g of fresh leaves:
 
 The high oxalic acid content is both sorrel's defining flavor
 characteristic and its primary nutritional concern. Individuals
-with kidney stones, gout, or rheumatoid arthritis should consume
+with kidney stones, gout, or [[blesching-cannabis-rheumatoid-arthritis]] should consume
 sorrel in moderation due to oxalate's potential to aggravate
 these conditions. Cooking reduces oxalic acid content by 30-50%.
 
@@ -88,61 +88,3 @@ French and Eastern European cooking. Classic preparations include
 French soupe a l'oseille (sorrel soup) and sorrel sauce as an
 accompaniment to fish. The leaves are used fresh in salads,
 folded into omelets, incorporated into pesto, and blended into
-compound butters. Cooking time should be brief to preserve color
-and vitamin C content.
-
-## Cultivation
-
-- **Hardiness:** USDA zones 3-8
-- **Soil preference:** Moist, well-drained, fertile loam; tolerates
-  acidic to neutral pH (5.5-7.0); does not perform well in waterlogged
-  soils despite preferring consistent moisture
-- **Propagation:** Seed (direct sow in spring or autumn), division
-  of established clumps in early spring or autumn; division is
-  preferred as it maintains the desirable leaf characteristics of
-  selected cultivars
-- **Spacing:** 30-45 cm between plants
-- **Light:** Full sun to partial shade; partial shade produces
-  more tender leaves in hot climates
-- **Lifespan:** Perennial; productive for 4-6 years before the
-  center of the clump dies out and requires division
-- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Generally pest-free; may attract aphids
-  on flower stalks; susceptible to rust (Puccinia spp.) in humid
-  conditions, though this rarely kills established plants
-- **Harvest:** Individual outer leaves can be harvested continuously
-  from early spring through autumn; cut flower stalks promptly to
-  extend leaf production and prevent self-seeding
-
-## Permaculture Applications
-
-In permaculture systems, sorrel functions as a [[nutrient-dynamic-accumulator-reference]]
-of minerals from deep soil layers via its taproot. It serves as
-an early-season food source when few other perennial greens are
-available, filling a temporal niche in food forest designs. The
-plant's tolerance of partial shade makes it suitable for the
-herbaceous layer beneath [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Sorrel's dense basal
-rosette provides effective weed suppression through [[fukuoka-citrus-orchard-ground-cover-cultivation]].
-It is a useful companion plant in polycultures, though its
-aggressive self-seeding habit means it may require management
-in tightly designed guilds. The deep root system helps break
-compacted subsoil layers, improving infiltration for neighboring
-plants.
-
-## Medicinal Properties
-
-Traditionally, sorrel has been used as a diuretic, laxative, and
-febrifuge. The high vitamin C content made it valuable for
-preventing and treating scurvy before the widespread availability
-of citrus fruits. The tannins in sorrel leaves have mild astringent
-properties. In European folk medicine, a poultice of crushed
-sorrel leaves was applied to skin inflammations and minor wounds.
-Modern herbalists recommend sorrel as a spring tonic and
-digestive aid.
-
-## See Also
-
-- [[rumex-patientia]]
-- [[taraxacum-officinale]]
-- [[borago-officinalis]]
-- rumex-obtusifolius-entity
-- [[food-forest-design]]

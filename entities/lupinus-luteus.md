@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Gladstones, J.S. (1970). "Lupins as crop plants." Field Crop Abstracts 23: 123-148.
   - Cowling, W.A. et al. (1998). "Lupinus." In: The IGBP/SCGT Phylip Database, Legume Phylogeny Working Group.
-  - Huyghe, C. (1997). "White lupin (Lupinus albus L.)." Field Crops Research 53: 147-160.
+  - Huyghe, C. (1997). "White lupin ([[lupinus-albus]] L.)." Field Crops Research 53: 147-160.
   - Palta, J.A. & Ludwig, C. (2000). "Yellow lupin (Lupinus luteus) is a superior crop to narrow-leafed lupin (L. angustifolius) in sandy acid soils." Field Crops Research 68: 57-64.
   - European Lupin Association (2022). "Lupinus luteus: agronomic guide." ELA Technical Bulletin No. 7.
 ---
@@ -22,13 +22,13 @@ sources:
 
 **Lupinus luteus** is an annual legume in the family Fabaceae, commonly known as yellow lupine, European yellow lupin, or narrowleaf yellow lupin.
 
-It is native to the Mediterranean region and the Iberian Peninsula, and has been cultivated as a grain legume and green manure crop for centuries.
+It is native to the Mediterranean region and the Iberian Peninsula, and has been cultivated as a grain legume and [[holzer-green-manure-crop-compendium]] for centuries.
 
 The species produces bright yellow flowers in dense terminal racemes and protein-rich seeds that serve as livestock feed and potential human food.
 
 Its striking floral displays also make it an attractive ornamental annual for wildflower meadows and cottage gardens.
 
-Yellow lupine is valued in sustainable agriculture for its deep taproot, nitrogen fixation capacity, and tolerance of acidic, sandy soils where other legumes perform poorly.
+Yellow lupine is valued in [[phosphate-accumulators-sustainable-agriculture]] for its deep taproot, [[biological-nitrogen-fixation-agriculture]] capacity, and tolerance of acidic, sandy soils where other legumes perform poorly.
 
 ## Taxonomy and Morphology
 
@@ -52,9 +52,9 @@ Seed protein is rich in lysine but relatively low in sulfur-containing amino aci
 
 Yellow lupine is native to the western Mediterranean Basin, particularly the Iberian Peninsula, southern France, and northwestern Italy.
 
-It has been naturalized in parts of central and northern Europe, the British Isles, southeastern Australia, and parts of South America.
+It has been naturalized in parts of central and northern Europe, the British Isles, southeastern Australia, and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
-The species is adapted to sandy, acidic soils with pH 4.0–6.5, where it outperforms most other grain legumes including white lupin and narrow-leafed lupin.
+The species is adapted to sandy, acidic soils with pH 4.0–6.5, where it outperforms most other [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]] including white lupin and narrow-leafed lupin.
 
 It is found in coastal dunes, scrubland, open woodland margins, and disturbed ground in its native range. It prefers Mediterranean climates with warm, dry summers and mild, wet winters.
 
@@ -87,34 +87,3 @@ The crop matures in 110–140 days from sowing. Grain yields range from 1.5–3.
 Seeds contain 35–45% protein and 10–15% oil, making them an excellent protein supplement for livestock rations.
 
 Low-alkaloid "sweet" cultivars have been developed that contain less than 0.02% alkaloids, allowing direct use in monogastric feeds without heat treatment.
-
-The Polish breeding program at the Plant Breeding and Acclimatization Institute (IHAR) has been particularly successful in developing low-alkaloid yellow lupin cultivars since the 1980s.
-
-As a cover crop, yellow lupine provides excellent biomass production (6–12 t/ha dry matter), weed suppression, and soil improvement through nitrogen fixation and organic matter addition.
-
-In human nutrition, lupin flour is used as a high-protein, gluten-free ingredient in breads, pasta, and plant-based meat alternatives, though yellow lupin is less widely used for this purpose than white lupin.
-
-## Related Species
-
-**Lupinus luteus** is one of approximately 270 species in the genus Lupinus, which is divided into Old World and New World clades.
-
-It is closely related to L. albus (white lupin) and L. angustifolius (narrow-leafed lupin), which together comprise the three Old World grain lupin species.
-
-These three species were independently domesticated and each has distinct agronomic characteristics suited to different soil and climatic conditions.
-
-Yellow lupine is distinguished from L. angustifolius by its yellow flowers (vs. blue-purple), broader leaflets, and larger seeds.
-
-Among New World species, L. polyphyllus (bigleaf lupine) and L. perennis (sundial lupine) are the most widely recognized North American representatives.
-
-Interspecific hybridization between Old World and New World lupines is generally unsuccessful due to chromosome number differences and reproductive isolation barriers.
-
-## See Also
-
-- [[lupinus-perennis]]
-- [[lupinus-albus]]
-- [[lupinus-polyphyllus]]
-- [[lupinus-argenteus]]
-- [[glycine-max]]
-- [[medicago-sativa]]
-- [[trifolium-pratense]]
-- [[phaseolus-vulgaris]]

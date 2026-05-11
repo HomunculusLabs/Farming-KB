@@ -88,10 +88,3 @@ When selecting a candidate for cultivation, consider:
 - [[growing-chicories-endive-radicchio]]
 
 - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
-- [[growing-gourmet-mushroom-dehydration-methods-equipment]]
-- [[growing-gourmet-bacterial-blotch-disease-management]]
-- [[growing-gourmet-sacred-psilocybe-permaculture]]
-- [[growing-gourmet-hepa-filtration-laboratory-air-systems]]
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-substrate-materials-wood-types]]
-- [[growing-gourmet-strain-selection]]

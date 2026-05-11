@@ -1,9 +1,9 @@
 ---
-title: JADAM Concentration Cautions and Guidelines
+title: Jadam Concentration Cautions
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [jadam, natural-farming]
+tags: [jadam, [[natural-farming]]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
@@ -11,11 +11,11 @@ sources:
 # JADAM Concentration Cautions and Guidelines
 
 **Updated:** 2026-04-18
-**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.300-302 (Youngsang Cho, 2016)
+**Source:** JADAM [[coleman-deep-organic-farming-philosophy]], pp.300-302 ([[youngsang-cho]], 2016)
 
 ## Overview
 
-Any material, when abused, will cause concentration stress. This is the most important safety consideration when using homemade pesticides. If you apply a weak pesticide, you can increase concentration later. But if you apply a strong one and cause damage, the harm is already done. This guide covers dosage ranges for all JADAM pesticide ingredients.
+Any material, when abused, will cause concentration stress. This is the most important safety consideration when using homemade pesticides. If you apply a weak pesticide, you can increase concentration later. But if you apply a strong one and cause damage, the harm is already done. This guide covers dosage ranges for all [[jadam-pesticide-dosage-guide]] ingredients.
 
 ## General Principle
 
@@ -88,33 +88,3 @@ Any material, when abused, will cause concentration stress. This is the most imp
 ## How Often to Apply
 
 - No fixed rule -- depends on region, climate, plant, disease, pest
-- Generally use [[jadam-natural-pesticide-institute-and-research]] in **2-days shorter cycle** than chemical pesticides
-- Early stage application is critical -- young leaves are tender and prone to damage
-- When infestation is serious: take out JS, use only JHS + JWA
-- You can spray with 2-3 hour gap, or 12 hour gap between applications
-- Evening spray + next morning spray is effective for heavy infestations
-
-## When to Apply
-
-- **Apply when humid** -- pesticide must remain wet on the target
-- **Early morning** and **sunset** are best times
-- If pesticide evaporates quickly, it is ineffective
-- The goal is to coat the pest/pathogen and keep it wet as long as possible
-
-## Application Rules Summary
-
-1. Half-fill barrel with water
-2. Add each ingredient separately, mixing after each
-3. Never mix JWA and JS together directly
-4. Filter before use
-5. Fully wet the target
-6. Do not re-use leftovers (especially with JS)
-7. Test on small area first
-8. Start low, increase gradually
-
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] - JNP system overview
-- [[jadam-sulfur-js]] - JS making guide
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-water-quality-pesticide]]

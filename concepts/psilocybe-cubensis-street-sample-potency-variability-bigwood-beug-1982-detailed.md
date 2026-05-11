@@ -11,7 +11,7 @@ low across all street samples, ranging from 0 to 0.3 mg/g.
 
 This variability has profound implications for user experience, harm
 reduction, and the reproducibility of both recreational and therapeutic
-psilocybin use. The subjective experience will vary not only from set and
+psilocybin use. The [[dosage-unpredictability-psilocybin-subjective-experience]] will vary not only from set and
 setting but also from genuine dosage differences that are impossible to
 predict from the external appearance or dry weight of the mushrooms.
 
@@ -49,9 +49,9 @@ This pattern is consistent with several hypotheses:
 flush mushrooms for sale, before psilocin has accumulated significantly.
 
 2. **Suboptimal conditions**: Informal cultivation may not replicate the
-controlled conditions that maximize alkaloid production.
+[[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] that maximize [[mycelial-broth-alkaloid-production]].
 
-3. **Drying and storage effects**: Freeze-drying (used in controlled studies)
+3. **[[psilocybin-mushroom-drying-and-storage-methods]] effects**: Freeze-drying (used in controlled studies)
 preserves alkaloids better than air-drying commonly used in informal settings.
 
 4. **Strain variation**: Street samples may represent different strains or
@@ -77,7 +77,7 @@ and peaks around the fourth flush. If street samples predominantly come
 from early flushes, the low psilocin levels are expected.
 
 **Substrate composition.** While all Bigwood and Beug street samples were
-reportedly grown on rye grain, the exact substrate preparation, nutrient
+reportedly grown on rye grain, the exact [[bulk-substrate-preparation]], nutrient
 content, and moisture levels can vary significantly between growers.
 
 **Environmental conditions.** Temperature, humidity, light exposure, and
@@ -87,55 +87,4 @@ grow rooms may not maintain optimal conditions for alkaloid production.
 **Harvest timing.** Mushrooms harvested at different developmental stages
 (v immature vs. mature) contain different alkaloid concentrations.
 
-**Drying and storage methods.** Psilocybin is relatively stable when
-freeze-dried and stored at -5°C, but degrades more rapidly with air-drying
-and exposure to heat, light, and moisture during distribution.
-
-**Adulteration and misidentification.** While less common with whole
-mushrooms than with powdered preparations, misidentification of species or
-contamination with other fungal material cannot be ruled out.
-
-## Implications for Dosage Estimation
-
-The tenfold variability in psilocybin content makes dry weight an extremely
-unreliable proxy for actual dosage. A 1-gram dose from a low-potency sample
-(0.7 mg/g) delivers approximately 0.7 mg of psilocybin, while the same
-weight from a high-potency sample (6.2 mg/g) delivers 6.2 mg — nearly a
-tenfold difference in active compound delivery.
-
-For reference, clinical trials of psilocybin-assisted therapy typically use
-precisely measured doses of synthetic psilocybin in the range of 10-30 mg,
-administered in controlled settings with known compound purity. The
-variability of street samples makes such precision impossible.
-
-The consistently low psilocin levels in street samples (0-0.3 mg/g) are
-notable because psilocin is the pharmacologically active dephosphorylated
-metabolite of psilocybin. While psilocybin is itself active (converted to
-psilocin in the body by alkaline phosphatase), the direct psilocin content
-contributes to the overall pharmacological profile, and its near-absence
-in street samples may produce qualitatively different experiences compared
-to later-flush mushrooms with higher psilocin content.
-
-## Analytical Methods
-
-Bigwood and Beug used reversed-phase high-performance liquid chromatography
-(HPLC) quantified with a Hewlett-Packard 8380A reporting integrator-plotter,
-calibrated against standards from the National Institute on Drug Abuse. A
-linear relationship (10% repeatability) was found between concentration and
-peak area from 0.2 to 3 μg total psilocybin or psilocin, with a detection
-limit of approximately 0.01 μg. Results were qualitatively confirmed by
-thin-layer chromatography (TLC) using butanol-acetic acid-water (12:3:5).
-
-## See Also
-
-- [[psilocybin-psilocin-variation-across-flushes]]
-- [[psilocin-accumulation-pattern-across-flushes]]
-- [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982]]
-- [[hplc-analysis-of-psilocybin-and-psilocin]]
-- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
-
-## Sources
-
-- Bigwood, J. and Beug, M.W. (1982). Variation of psilocybin and psilocin
-levels with repeated flushes of Psilocybe cubensis. *J. Ethnopharmacol.*,
-5, 287-291.
+**Drying [[food-preservation-and-storage-methods]].** Psilocybin is relatively stable when

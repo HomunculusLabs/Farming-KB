@@ -87,28 +87,3 @@ The species is also harvested for direct human consumption in parts of Southeast
 ## Cultivation
 
 Commercial cultivation of H. musciformis remains limited but technically feasible. Vegetative propagation using fragment culture on horizontal ropes has been tested in Brazil, India, and the Philippines.
-
-Optimal growth occurs at temperatures of 22–28°C and salinities of 25–35 ppt. The species responds positively to nutrient enrichment, with ammonium-based fertilizers producing the best growth responses.
-
-Daily growth rates of 5–8% have been achieved under controlled conditions. Biomass doubling occurs in approximately 10–14 days during peak [[savory-growing-season-and-non-growing-season-management]].
-
-Integration with shrimp aquaculture has been proposed as a nutrient bioremediation strategy. The species efficiently absorbs dissolved nitrogen and phosphorus from shrimp pond effluent.
-
-## Related Species
-
-The genus Hypnea contains approximately 50 species distributed in tropical and warm-temperate waters. H. cornuta is a closely related species found throughout the Indo-Pacific.
-
-H. spinella is a smaller species common in the Caribbean and Gulf of Mexico. It differs from H. musciformis in its more delicate branching and shorter stature.
-
-H. pannosa is found in the western Indian Ocean and is also harvested for carrageenan production in East Africa. It has a more robust thallus and darker pigmentation than H. musciformis.
-
-Molecular phylogenetic studies have shown that the genus is monophyletic within the Hypneaceae. Several species complexes remain unresolved and require further taxonomic investigation.
-
-## See Also
-
-- [[eucheuma-denticulatum]]
-- [[chondrus-crispus]]
-- [[pyropia-yezoensis]]
-- [[ulva-lactuca]]
-- [[eucheuma-isiforme]]
-- [[caulerpa-lentillifera]]

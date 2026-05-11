@@ -6,14 +6,15 @@ date: 2026-04-27
 updated: 2026-04-27
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
 # Leucaena Alley Cropping Systems
 
-Alley cropping with Leucaena leucocephala is a productive agroforestry
+Alley cropping with [[leucaena-leucocephala]] is a productive agroforestry
 system that integrates fast-growing nitrogen-fixing trees with annual crops
-or pasture. Described extensively in Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+or pasture. Described extensively in [[bill-mollison]]'s [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
 Course, this system demonstrates how tree crops can be intercropped with
 annual plants to create high-intensity food production that eliminates the
 need for artificial fertilizer while producing multiple yields from the same
@@ -24,9 +25,9 @@ annual crops grow between the tree rows.
 
 Leucaena leucocephala is a leguminous tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] that
 has been widely adopted throughout the tropics and subtropics. It is often
-called "ipil-ipil" in Southeast Asia. Key characteristics include:
+called "ipil-ipil" in [[psilocybe-southeast-asia-pacific]]. Key characteristics include:
 
-- Extremely fast growth rate, reaching 15 to 20 feet in the first year
+- Extremely fast [[soil-temperature-plant-growth-rate-doubling-rule]], reaching 15 to 20 feet in the first year
 - Deep taproot system that accesses subsoil nutrients and moisture
 - [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] through rhizobial root nodules, adding 100 to 200 kg
   of nitrogen per hectare per year to the soil
@@ -34,7 +35,7 @@ called "ipil-ipil" in Southeast Asia. Key characteristics include:
   fodder
 - Ability to coppice vigorously, regrowing quickly after cutting
 - Tolerance of a wide range of soil conditions including degraded soils
-- Multiple products: fodder, green manure, fuelwood, and poles
+- Multiple products: fodder, [[coleman-mobile-greenhouse-green-manure-soil-building]], fuelwood, and poles
 
 ## The Cliff Adam Dairy System
 
@@ -70,7 +71,7 @@ works through a cycle of cutting the trees back, growing crops in the
 alleys, and allowing the trees to regrow. When Leucaena is cut to ground
 level, its root system releases nitrogen into the soil, fertilizing the
 alley crop. Common alley crops include maize, beans, sweet potatoes, and
-vegetables in tropical regions.
+vegetables [[fukuoka-natural-farming-in-tropical-regions]].
 
 ### Comfrey Integration
 
@@ -87,51 +88,3 @@ Leucaena's high-protein foliage makes it one of the world's most important
 fodder trees. It can provide up to 50% of the diet for cattle, goats, and
 sheep when supplemented with grass. The protein content significantly
 exceeds that of most tropical grasses, improving animal health and milk
-production. In the Adam dairy system, Leucaena combined with elephant grass
-provided complete nutrition for ten cows per acre.
-
-Management considerations for fodder production:
-- Cut Leucaena at 0.5 to 1.0 meter height for optimal regrowth
-- Allow 6 to 8 weeks between cuttings for full recovery
-- Direct-cut fodder can be fed fresh or dried for hay
-- Introduce Leucaena gradually to ruminant diets to allow rumen
-  adaptation to the mimosine compound
-- Supplement with grass to prevent mimosine toxicity in pure Leucaena
-  diets
-
-## Soil Building and Fertility
-
-The nitrogen-fixing capability of Leucaena is the foundation of the alley
-cropping fertility cycle. Through rhizobial symbiosis, Leucaena converts
-atmospheric nitrogen into plant-available forms. When tree foliage is cut
-and used as mulch or when roots are pruned during coppicing, this nitrogen
-enters the soil. The leaf litter also adds [[hamilton-composting-and-organic-matter-management]], improving soil
-structure, water-holding capacity, and microbial activity.
-
-Over time, alley cropping with Leucaena can transform degraded soils. The
-deep taproot breaks through compacted layers, bringing nutrients from
-subsoil to surface. Leaf mulch builds humus on the soil surface. The
-combination of nitrogen fixation and organic matter addition can replace
-synthetic nitrogen fertilizers entirely within two to three years.
-
-## Application Beyond the Tropics
-
-While Leucaena is tropical, the alley cropping concept applies broadly. In
-temperate regions, similar systems use honey locust, black locust, or
-alder as the nitrogen-fixing tree component. The principles remain the same:
-trees in rows provide nitrogen, mulch, and microclimate modification while
-annual crops grow in the alleys between. Modern nursery techniques can
-accelerate tree establishment, shipping container specimens the year before
-they yield, leading quickly into productive systems.
-
-## Related
-
-- [[leucaena-alley-cropping-tropical-forage]]
-
-- [[leucaena-entity]] Concepts
-
-- agroforestry systems
-- [[comfrey-multifunctional-guild-plant]]
-- [[mollison-designers-coppicing-management-of-legume-trees]]
-- nitrogen fixation
-- silvopasture design

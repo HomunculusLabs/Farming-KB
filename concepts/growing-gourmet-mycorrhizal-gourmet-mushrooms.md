@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -86,20 +87,3 @@ forest could be re-established, supporting greater mycorrhizal
 diversity and more consistent mushroom production.
 
 ## Environmental Requirements
-
-Most mycorrhizal gourmet mushrooms require:
-- Living host trees of compatible species
-- Well-drained, slightly acidic soils
-- Specific moisture regimes (not waterlogged)
-- Shade from canopy cover
-- Undisturbed soil (no heavy tilling or compaction)
-- Often years to decades to establish productive colonies
-
-## Related Topics
-
-- mycorrhizal-mushrooms-forest-partnerships-stamets
-- [[ectomycorrhizal-fungal-ecology]]
-- mycorrhizal-fungi-basics-lowenfels
-- [[ectomycorrhiza]]
-- [[tricholoma-matsutake]]
-- [[mycorrhizal-fungi]]

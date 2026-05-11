@@ -3,7 +3,7 @@ title: "Plant Maze Navigation and Spatial Memory"
 source: "What a Plant Knows - Daniel Chamovitz, Chapter 5: How a Plant Knows Where It Is"
 tags:
   - plant-biology
-  - gravitropism
+  - [[gravitropism]]
   - spatial-orientation
   - statoliths
   - amyloplasts
@@ -32,7 +32,7 @@ patterns, and display an awareness of their own body geometry.
 
 Gravitropism is the growth response of plants to gravity, causing roots to
 grow downward (positive gravitropism) and shoots to grow upward (negative
-gravitropism). A seed buried underground with no visual cues will reliably
+gravitropism). A seed buried underground with no [[cannabis-harvest-timing-visual-cues]] will reliably
 send its roots deeper and push its shoot upward toward the surface. Even if
 a plant is turned upside down, it will begin to reorient its growth within
 hours, curving roots back downward and shoots back upward. This persistent
@@ -74,7 +74,7 @@ The Cholodny-Went model, first proposed in the 1920s, remains the central
 framework for understanding how gravistimulation is translated into
 differential growth. According to this model, the plant hormone auxin is
 redistributed asymmetrically in response to gravity. In a horizontal root,
-auxin accumulates on the lower side, where it inhibits cell elongation,
+auxin accumulates on the lower side, where it inhibits [[brassinosteroid-physiological-mechanisms-cell-elongation-division]],
 causing the root to bend downward. In a horizontal shoot, auxin also
 accumulates on the lower side, but there it promotes cell elongation,
 causing the shoot to bend upward. This model explains how the same hormone
@@ -87,55 +87,3 @@ flow downward. This triggers the asymmetric growth response producing
 visible organ bending. Modern molecular biology has confirmed the
 Cholodny-Went model while adding considerable detail about the specific
 proteins and [[plant-signaling-pathways]] involved.
-
-## Darwin's Root Experiments
-
-Charles Darwin and his son Francis conducted pioneering experiments on root
-gravitropism that remain influential today. In "The [[darwin-power-of-movement-in-plants]] in
-Plants" (1880), the Darwins demonstrated that the root tip, specifically
-the root cap, was the sensory organ responsible for detecting gravity. They
-showed that removing the root cap abolished the gravitropic response, while
-covering it with a lightproof cap did not impair gravitropism, indicating
-gravity sensing was independent of light. These experiments established the
-root cap as the plant's gravity-sensing organ.
-
-The Darwins also documented root waving and coiling, where roots growing
-along inclined surfaces display sinusoidal growth patterns. They observed
-that roots seemed to "feel" their way through soil, responding to texture
-and density — a thigmotropic response working alongside gravitropism to
-guide roots through the complex physical environment underground.
-
-## Navigating Obstacles and Finding Supports
-
-Roots encounter countless obstacles as they grow through soil, including
-rocks, compacted layers, and roots of other plants. Research shows roots can
-detect obstacles before contacting them, likely through sensing changes in
-soil moisture, oxygen, or [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from other roots. When a root
-encounters a barrier, it alters growth direction to navigate around it,
-demonstrating remarkable behavioral flexibility.
-
-Climbing plants present an especially dramatic example of spatial navigation.
-Vines such as ivy [[schultes-ololiuqui-and-morning-glory]] must locate supports to reach sunlight.
-They do this through circumnutation (a circular searching motion),
-thigmotropism (growth toward touch), and skototropism (growth toward
-darkness, indicating a solid support). The vine's searching tip traces
-spiral patterns through space until it contacts a surface, at which point
-it rapidly wraps around and climbs the support. This demonstrates that
-plants integrate multiple sensory inputs to solve spatial problems.
-
-## Plant Proprioception: Awareness of Body Position
-
-Perhaps the most intriguing aspect of plant [[plant-gravitropism-and-spatial-awareness]] is
-proprioception — the sense of knowing where one's own body parts are
-positioned. Chamovitz discusses how plants demonstrate awareness of their
-own geometry: branches do not grow through each other, roots avoid the
-stem, and leaves are arranged to minimize shading. This requires the plant
-to continuously monitor the position of its organs and adjust accordingly.
-
-Modern research has shown that plants detect mechanical stresses within
-their own tissues, sensing when one organ presses against another and
-redirecting growth to prevent damage. While fundamentally different from
-animal proprioception, this internal monitoring achieves a similar result:
-the organism maintains an internal model of its own shape and uses that
-model to guide future growth, challenging the notion that self-awareness
-is limited to animals with nervous systems.

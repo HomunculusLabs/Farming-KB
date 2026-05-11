@@ -1,6 +1,6 @@
 ---
 title: "mckenna-translinguistic-objects-cognitive-dissonance-tryptamine and Hyperdimensional Language in Tryptamine Experiences"
-aliases: ["translinguistic objects DMT", "hyperdimensional language McKenna", "self-transforming elf machines", "tryptamine language entities"]
+aliases: ["[[glossolalia-translinguistic-objects]] DMT", "hyperdimensional language McKenna", "self-transforming elf machines", "[[glossolalia-tryptamine-language]] entities"]
 tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimensional]
 ---
 
@@ -8,7 +8,7 @@ tags: [dmt, tryptamines, phenomenology, language, entities, mckenna, hyperdimens
 
 ## Overview
 
-Terence McKenna's concept of "translinguistic objects" refers to the phenomenon encountered in deep tryptamine experiences where the experiencer perceives objects, structures, or entities that appear to be constructed from language itself or that communicate through modalities beyond ordinary linguistic comprehension. These experiences suggest the existence of a hyperdimensional language — a mode of communication that operates on principles fundamentally different from human verbal language.
+[[terence-mckenna]]'s concept of "translinguistic objects" refers to the phenomenon encountered in deep tryptamine experiences where the experiencer perceives objects, structures, or entities that appear to be constructed from language itself or that communicate through modalities beyond ordinary linguistic comprehension. These experiences suggest the existence of a hyperdimensional language — a mode of communication that operates on principles fundamentally different from human verbal language.
 
 ## The Phenomenon of Translinguistic Objects
 
@@ -56,7 +56,7 @@ The concept draws on the perennial philosophical question of whether language sh
 
 McKenna connected the phenomenon of translinguistic objects to his concept of the Logos.
 
-The Logos, in McKenna's usage, is the creative principle that speaks reality into existence — a notion with roots in Greek philosophy, Christian theology, and Vedic traditions.
+The Logos, in McKenna's usage, is the creative principle that speaks reality into existence — a notion with roots in Greek philosophy, Christian theology, [[allegro-soma-and-vedic-traditions]].
 
 Under the influence of tryptamines, McKenna argued, the Logos becomes directly perceptible as an audible phenomenon — a "voice" or "language" that seems to emanate from the fabric of reality itself.
 
@@ -87,36 +87,3 @@ The two phenomena may represent different aspects of the same underlying reality
 In many accounts, the translinguistic objects serve as the medium through which the entities communicate, blurring the boundary between message and messenger.
 
 Many experiencers report that the entities they encounter are themselves translinguistic — they communicate through the direct transmission of meaning rather than through verbal language.
-
-The entities may be the "speakers" or "authors" of the hyperdimensional language that manifests as translinguistic objects.
-
-In some accounts, the entities appear to use the translinguistic objects as tools or instruments for modifying consciousness or reality.
-
-The relationship between experiencer, entity, and translinguistic object suggests a communicational ecology that operates on principles entirely foreign to ordinary linguistic theory.
-
-## Cross-Cultural Parallels
-
-While McKenna's terminology is distinctive, the phenomenon he described has parallels in other cultural and spiritual traditions.
-
-The "speaking in tongues" (glossolalia) of Pentecostal Christian practice involves the production of language-like sounds that are experienced as meaningful despite lacking semantic content in any known human language.
-
-The "language of the gods" described in various mystical traditions similarly involves direct transmission of meaning that bypasses ordinary linguistic channels.
-
-Buddhist descriptions of the "dharma language" or "ultimate truth" as ineffable suggest that reality possesses a mode of expression that transcends human linguistic categories.
-
-The consistency of these cross-cultural reports lends some credence to McKenna's hypothesis that a hyperdimensional language is a real feature of consciousness accessible through various means.
-
-However, the cross-cultural parallels remain suggestive rather than conclusive, as the phenomenological descriptions are necessarily filtered through the cultural and linguistic frameworks of the reporters.
-
-## See Also
-
-- [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
-- [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]]
-- [[tryptamines-and-the-logos]]
-- [[dmt-phenomenology-and-tryptamine-hypercontinuum]]
-
-## Sources
-
-- McKenna, T. (1993). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness. In *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
-- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
-- Strassman, R. (2001). *DMT: The Spirit Molecule*. Park Street Press.

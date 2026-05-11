@@ -12,8 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dunn, D.B. (1956). "The breeding system of Lupinus, group Nanolupus." Madroño 13(8): 253-256.
-  - Barneby, R.C. (1989). "Silky lupines and their allies in the United States." Memoirs of the New York Botanical Garden 53: 1-120.
-  - Hitchcock, C.L. & Cronquist, A. (1973). Flora of the Pacific Northwest. University of Washington Press.
+  - Barneby, R.C. (1989). "Silky lupines and their allies in the [[dmt-containing-plants-united-states-halpern]]." Memoirs of the New York Botanical Garden 53: 1-120.
+  - Hitchcock, C.L. & Cronquist, A. (1973). Flora of the [[psilocybin-north-america-pacific-northwest]]. University of Washington Press.
   - US Forest Service (2023). "Lupinus argenteus." Fire Effects Information System (FEIS).
   - Isely, D. (1998). Native and Naturalized Leguminosae (Fabaceae) of the United States. Monte L. Bean Life Science Museum.
 ---
@@ -22,7 +22,7 @@ sources:
 
 **Lupinus argenteus** is a perennial herbaceous legume in the family Fabaceae, commonly known as silvery lupine.
 
-It is widespread across western North America, from British Columbia and Alberta south through the Rocky Mountains to New Mexico and Arizona.
+It is widespread across western [[guzman-psilocybin-mushrooms-north-america]], from British Columbia and Alberta south through the Rocky Mountains to New Mexico and Arizona.
 
 The species is recognized by its silvery-pubescent foliage, palmately compound leaves, and showy racemes of blue to purple flowers.
 
@@ -52,7 +52,7 @@ Seeds are mottled brown and gray, approximately 3–4 mm in diameter. They can r
 
 Silvery lupine ranges from southern British Columbia and southwestern Alberta south through the Rocky Mountain states to eastern California, Nevada, Arizona, and New Mexico.
 
-It occurs at elevations from 1,200 to 3,500 meters, making it one of the most widely distributed lupine species in the North American cordillera.
+It occurs at elevations from 1,200 to 3,500 meters, making it one of the most widely distributed lupine species in the [[growing-gourmet-north-american-reishi-species]] cordillera.
 
 The species is common in open coniferous forests, mountain meadows, sagebrush steppe, subalpine parklands, and riparian corridors.
 
@@ -68,7 +68,7 @@ The foliage is browsed by elk, mule deer, bighorn sheep, and mountain goats, par
 
 Silky lupine seeds are an important food source for several ground-foraging birds, including Columbian sharp-tailed grouse and dark-eyed junco.
 
-It is the primary larval host for the mission blue butterfly (Icaricia icarioides missionensis), a federally endangered subspecies in the San Francisco Bay Area.
+It is the primary larval host for the mission blue butterfly (Icaricia icarioides missionensis), a federally endangered subspecies in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area.
 
 The alkaloid-rich foliage is toxic to livestock, particularly sheep, causing crooked calf disease when pregnant cows graze lupine during mid-gestation.
 
@@ -80,41 +80,10 @@ Its rapid colonization of disturbed sites helps stabilize soils and reduce erosi
 
 ## Cultivation and Uses
 
-Silvery lupine is occasionally cultivated for native wildflower gardens and ecological restoration projects in montane regions.
+Silvery lupine is occasionally cultivated for native wildflower gardens and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects in montane regions.
 
 Seed requires scarification, either mechanical abrasion or hot water treatment, to break physical dormancy. Cold stratification for 30–60 days further improves germination rates.
 
 Plants establish readily from seed in well-drained soils and full sun. They are relatively short-lived for a perennial, typically persisting 3–7 years.
 
 In ecological restoration, silvery lupine is included in seed mixes for post-fire rehabilitation, mine reclamation, and roadside revegetation at high elevations.
-
-The species is not widely used in agricultural systems due to its quinolizidine alkaloid content, which makes the foliage unpalatable or toxic to non-adapted herbivores.
-
-Some Indigenous peoples of the Rocky Mountains traditionally used lupine roots and seeds as food after extensive leaching to remove bitter alkaloids.
-
-The showy blue flower spikes make it a popular subject for wildflower photography and a valuable component of pollinator gardens in mountain communities.
-
-## Related Species
-
-**Lupinus argenteus** belongs to a complex of closely related North American lupines that have been variously treated as species or subspecies.
-
-It is most similar to L. sericeus ( silky lupine), from which it differs in its more open inflorescence and wider leaflets.
-
-Other related species include L. perennis (sundial lupine) of eastern North America and L. polyphyllus (bigleaf lupine) of the Pacific Northwest.
-
-The L. argenteus complex as treated by Barneby (1989) encompasses considerable morphological variation across its range.
-
-Some authorities have recognized infraspecific taxa within L. argenteus, including varieties based on flower color and leaflet pubescence patterns.
-
-Molecular phylogenetic studies suggest the North American lupines form a distinct clade separate from European and Mediterranean species.
-
-## See Also
-
-- [[lupinus-perennis]]
-- [[lupinus-albus]]
-- [[lupinus-polyphyllus]]
-- [[trifolium-pratense]]
-- [[medicago-sativa]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
-- [[baptisia-australis]]

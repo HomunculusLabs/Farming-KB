@@ -12,7 +12,7 @@ sources:
   - Bartholomew, D.P. et al. (2003). "The pineapple." In query-how-to-manage-pests-and-diseases-in-mushroom-cultivation of Pineapple, 1–63.
   - Botella, J.R. & Smith, M.K. (2008). "Pineapple." In Encyclopedia of Fruit and Nuts, 329–336.
   - Lobo, M.G. & Paull, R.E. (2017). "Pineapple." In Postharvest Biology and Technology of Tropical and Subtropical Fruits, 149–177.
-  - Xuan, T.D. et al. (2008). "Medicinal properties of pineapple." In comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Wound Healing, 201–216.
+  - Xuan, T.D. et al. (2008). "[[panax-ginseng]] of pineapple." In comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Wound Healing, 201–216.
   - FAO. "FAOSTAT: Pineapple production data." Food and Agriculture Organization.
 ---
 
@@ -24,7 +24,7 @@ The species originated in the Paraná-Paraguay River drainage between southern B
 
 Global production exceeds 28 million tonnes annually, with Costa Rica, the Philippines, Brazil, and Indonesia as the leading producers. The fruit is consumed fresh, canned, juiced, and dried in markets worldwide.
 
-Pineapple is notable for containing bromelain, a proteolytic enzyme complex with diverse industrial and therapeutic applications. The enzyme is concentrated in the stem and fruit core.
+Pineapple is notable for containing bromelain, a proteolytic enzyme complex with diverse industrial and [[psilocybin-therapeutic-applications]]. The enzyme is concentrated in the stem and fruit core.
 
 ## Taxonomy and Morphology
 
@@ -48,7 +48,7 @@ The crop performs best in well-drained sandy or loamy soils at pH 4.5–6.5, in 
 
 Natural flowering is induced by cool temperatures and short daylengths, but commercial growers apply ethephon or calcium carbide to synchronize flowering. This practice, called "forcing," allows year-round production scheduling.
 
-The crop cycle from planting to harvest is 18–24 months for crown planting and 12–16 months for sucker planting. A single planting typically produces two ratoon crops before replanting.
+The crop cycle from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]] is 18–24 months for crown planting and 12–16 months for sucker planting. A single planting typically produces two ratoon crops before replanting.
 
 Yields vary widely by cultivar and management system, ranging from 40 to 80 tonnes per hectare under commercial conditions. The MD-2 cultivar typically achieves higher yields than Smooth Cayenne in [[mollison-designers-market-garden-intensive-production-design]] systems.
 
@@ -66,11 +66,11 @@ Pineapple is the only commercially significant dietary source of bromelain, a mi
 
 ## Bioactive Compounds and Pharmacology
 
-Bromelain is the most studied bioactive compound in pineapple. It demonstrates anti-inflammatory activity by modulating prostaglandin and leukotriene synthesis, and has been investigated for osteoarthritis, post-surgical swelling, and upper respiratory conditions.
+Bromelain is the most studied bioactive compound in pineapple. It demonstrates anti-inflammatory activity by modulating prostaglandin and leukotriene synthesis, and has been investigated for osteoarthritis, post-surgical swelling, and upper [[cannabis-respiratory-conditions]].
 
 In vitro studies show bromelain inhibits platelet aggregation and exhibits fibrinolytic activity. Clinical evidence supports modest benefit for acute sinusitis and as a digestive enzyme supplement. It is approved as a post-surgical anti-inflammatory agent in Germany.
 
-Phenolic compounds in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in pineapple include gallic acid, caffeic acid, ferulic acid, and various flavonoid glycosides. These contribute antioxidant capacity measured by ORAC assays, though in vivo significance remains less established.
 
 Pineapple core and stem extracts show antimicrobial activity against *Escherichia coli*, *Staphylococcus aureus*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* in laboratory studies. Traditional medicine uses pineapple juice for digestive complaints, wound cleansing, and throat inflammation.
 
@@ -80,34 +80,10 @@ Wild *Ananas* species inhabit open savannas and forest edges in tropical South A
 
 The CAM photosynthetic pathway allows pineapple to maintain high water-use efficiency, making it well-adapted to seasonally dry tropical environments. This physiological adaptation enables cultivation in areas where other tropical fruits require irrigation.
 
-Pineapple cultivation provides livelihoods for millions of smallholder farmers in tropical developing countries. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
+Pineapple cultivation provides livelihoods for millions of smallholder farmers in tropical [[low-cost-mushroom-growing-house-construction-developing-countries]]. In many regions, pineapple is intercropped with banana, cassava, or legumes during the long crop establishment period.
 
 Post-harvest processing generates substantial waste — the rind, core, and crown represent 40–60% of total fruit weight. This waste is increasingly valorized for bromelain extraction, dietary fiber production, animal feed, and bioethanol fermentation.
 
 The long fibrous leaves yield a strong, fine [[natural-dye-plants]] historically used in Philippine piña cloth. This traditional craft produces lightweight, sheer fabric used in formal garments such as the Barong Tagalog.
 
 ### Major Cultivar Groups
-
-The Smooth Cayenne cultivar dominated world production for most of the 20th century and remains important for canning. It produces large, cylindrical fruits with pale-yellow flesh, high sugar content, and low acidity.
-
-The MD-2 (also called Golden or Extra Sweet) cultivar, developed by the Pineapple Research Institute of Hawaii and released in the 1990s, has largely displaced Smooth Cayenne in the fresh-fruit export market. MD-2 produces sweeter, more aromatic fruit with higher vitamin C content and a longer shelf life.
-
-The Queen cultivar is favored in South Africa and Australia for fresh market sale. It produces smaller, more fragrant fruits with deep golden flesh. The Red Spanish cultivar remains important in the Caribbean and Latin America for its disease resistance and suitability to local processing.
-
-### Economic Importance
-
-Pineapple is one of the top five tropical fruits traded globally by volume. The international canned pineapple market alone exceeds $2.5 billion annually, with Thailand and the Philippines as the leading exporters.
-
-Costa Rica has become the world's largest fresh pineapple exporter since the mid-2000s, primarily supplying the MD-2 cultivar to [[growing-gourmet-north-american-reishi-species]] and European markets. The industry has faced criticism regarding pesticide use and labor conditions.
-
-Dole, Del Monte, and Fresh Del Monte control approximately 60% of global pineapple trade. Smallholder production remains significant in countries like Kenya, Ghana, and India, where the crop provides important cash income for rural communities.
-
-## See Also
-
-- [[mangifera-indica]]
-- [[theobroma-cacao]]
-- [[passiflora-edulis]]
-- [[solanum-tuberosum]]
-- [[artocarpus-heterophyllus]]
-- [[annona-muricata]]
-- [[ficus-carica]]

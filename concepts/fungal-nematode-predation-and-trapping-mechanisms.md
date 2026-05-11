@@ -1,6 +1,6 @@
 # Fungal–Nematode Predation and Trapping Mechanisms
 
-[[nematophagous-fungi]] gi]] gi]] are a diverse group of fungi that capture, kill, and digest
+nematophagous fungi are a diverse group of fungi that capture, kill, and digest
 nematodes. They occupy a critical position in the soil food web and have attracted
 intense interest as biocontrol agents against plant-parasitic nematode species that
 cause billions of dollars in crop losses annually. Based on the framework outlined
@@ -88,63 +88,3 @@ weapons:
   lures the arthropods with [[chamovitz-plant-scent-communication-volatile-organic-compounds]], then releases toxins that
   paralyze them. The subsequent nitrogen transfer from the digested Collembola to
   the host plant is one of the most direct examples of a mycorrhizal fungus acting
-  as a predator to benefit its plant partner.
-
-These toxin-based strategies are analogous to the adhesive, enzyme-secreting traps of
-the **sundew** (*Drosera* spp.), which uses sticky mucilage and digestive enzymes to
-capture and dissolve insect prey.
-
-## Trap Induction and Regulation
-
-Trap formation is not constitutive—it is induced by environmental cues. The
-presence of nematodes, nematode secretions (particularly amino acids and small
-peptides), and certain soil conditions all trigger the genetic programs that build
-trap structures. Fungi can switch between saprotrophic growth on organic matter
-and predatory mode depending on resource availability, a metabolic flexibility
-that makes them adaptable to fluctuating soil environments.
-
-## Role in the Soil Food Web
-
-Nematophagous fungi are integral components of the soil food web. They regulate
-nematode populations, channel nitrogen and other nutrients from nematode biomass
-back into fungal and plant biomass, and connect multiple trophic levels. Their
-activity is especially important in agricultural soils, where they help suppress
-plant-parasitic nematode species that would otherwise damage crops.
-
-By linking the fungal decomposer community with nematode grazers, predatory fungi
-create feedback loops influencing soil carbon cycling, nutrient availability, and
-plant health.
-
-## Biocontrol Applications
-
-The predatory capabilities of these fungi have been harnessed for the **biological
-control** of plant-parasitic nematodes. Commercial formulations of *Paecilomyces lilacinus* and *Pochonia chlamydosporia* are
-applied to soils to reduce root-knot nematode (*Meloidogyne* spp.) and cyst nematode
-(*Globodera*, *Heterodera* spp.) populations. Compared to chemical nematicides,
-biological control offers reduced environmental toxicity and compatibility with
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
-
-However, biocontrol efficacy depends on soil temperature, moisture, organic matter, and
-competition with the native microbial community. Ongoing research aims to improve
-strain selection, formulation technology, and application timing.
-
-## Summary of Strategies
-
-| Strategy | Mechanism | Speed | Analogy |
-|---|---|---|---|
-| Adhesive trapping | Sticky surfaces on knobs, networks, columns | Seconds–minutes | Sundew (*Drosera*) |
-| Constricting rings | Osmotic swelling of ring cells | ~0.1 s | Venus flytrap |
-| Endoparasitism | Ingested spores germinate inside host | Hours–days | Parasitoid wasps |
-| Toxin immobilization | Chemical paralysis of prey | Minutes | Pitfall traps (toxins) |
-
----
-
-**References**
-
-- Boddy, L. & Jones, T.H. [[fungal-interactions-with-microbes]] invertebrates. In: Gadd, G.M.
-  et al. (eds.), *Fungi in the Environment*, Chapter 6.
-- Tzean, S.-S. & Liou, J.-Y. (1993). Nematophagous fungi: their taxonomy,
-  biology, and potential for biocontrol. *Botanical Bulletin of Academia Sinica*,
-  34, 1–22.
-- Thorn, R.G. & Barron, G.L. (1984). Carnivorous mushrooms. *Science*, 224,
-  76–78.

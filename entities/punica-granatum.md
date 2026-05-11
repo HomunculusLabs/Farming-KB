@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Levin, G.M. (2006). "Pomegranate Roads: A Soviet Botanist's Exile from Eden." Floreant Press.
-  - Jurenka, J. (2008). "Therapeutic Applications of Pomegranate." Alternative Medicine Review 13(2): 128-144.
+  - Jurenka, J. (2008). "[[psilocybin-therapeutic-applications]] of Pomegranate." Alternative Medicine Review 13(2): 128-144.
   - Stover, E. & Mercure, E.W. (2007). "The Pomegranate: A New Look at a Fruit Full of Promise." Pomology Research & Extension, UF-IFAS.
-  - Lansky, E.P. & Newman, R.A. (2007). "Punica granatum (Pomegranate) and Its Potential for Prevention and Treatment of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
+  - Lansky, E.P. & Newman, R.A. (2007). "Punica granatum (Pomegranate) and Its Potential for [[cannabis-root-rot-prevention-and-treatment]] of Inflammation and Cancer." Journal of Ethnopharmacology 109(2): 177-206.
 ---
 
 ## Overview
@@ -66,13 +66,13 @@ Greek, and Roman traders. Spanish missionaries introduced it to the
 Americas in the 16th century, where it naturalized widely in California,
 Arizona, and Latin America.
 
-It thrives in semi-arid Mediterranean and subtropical climates with hot
+It thrives in semi-arid Mediterranean [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with hot
 summers and mild winters. Optimal growth occurs in USDA zones 7-10, with
 a chilling requirement of 100-500 hours below 7 degrees C.
 
 The plant is remarkably drought-tolerant once established, surviving on
 250-500 mm annual rainfall. It tolerates saline and alkaline soils but
-requires good drainage to prevent root rot.
+requires good drainage to prevent [[cervantes-root-rot-pythium-damping-off]].
 
 ## Cultivation
 
@@ -88,57 +88,3 @@ and market preference.
 Propagation is primarily by hardwood cuttings, which maintain true-to-type
 characteristics. Softwood cuttings under mist and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] are used
 for large-scale nursery production.
-
-Key pests include pomegranate butterfly (*Virachola livia*), pomegranate
-fruit moth (*Ectomyelois ceratoniae*), and bacterial blight (*Xanthomonas
-axonopodis*). [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management combines orchard sanitation,
-pheromone traps, and targeted sprays.
-
-## Chemistry and Pharmacology
-
-Pomegranate is exceptionally rich in **ellagitannins**, with punicalagins
-(alpha and beta isomers) comprising roughly 50% of the fruit's total
-polyphenol content. These hydrolyzable tannins are unique to pomegranate.
-
-The aril juice contains anthocyanins (cyanidin, delphinidin, and
-pelargonidin glycosides), flavonoids (quercetin, kaempferol), and
-ascorbic acid. Pomegranate seed oil is a significant source of punicic
-acid (C18:3), a conjugated linolenic acid.
-
-[[mushroom-cancer-clinical-trials-overview]] have demonstrated that pomegranate juice consumption
-reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers, lowers systolic blood pressure, and
-improves lipid profiles. Meta-analyses support modest cardiovascular
-benefits at doses of 200-500 mL juice per day.
-
-In vitro and animal studies show anti-proliferative effects against
-prostate, breast, and [[cannabis-and-colon-cancer-research]] cell lines. Ellagic acid and
-urolithin metabolites (gut-derived) are the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-investigated for chemopreventive potential.
-
-## Culinary and Cultural Significance
-
-Pomegranate arils are consumed fresh, used as garnish, or pressed for
-juice. The juice is reduced to make grenadine syrup and pomegranate
-molasses, a key ingredient in Middle Eastern cuisine.
-
-Dried arils (anardana) are used as a souring agent in Indian and
-Pakistani cooking. Pomegranate seed oil is used in cosmetics and as a
-dietary supplement for its anti-inflammatory properties.
-
-The fruit has deep symbolic meaning in Judaism, Christianity, Islam,
-Hinduism, and Zoroastrianism. It represents fertility, abundance, and
-righteousness across these traditions and features prominently in art,
-mythology, and ritual.
-
-## See Also
-
-- [[citrus-sinensis]]
-- [[citrus-limon]]
-- [[olea-europaea]]
-- [[vitis-vinifera]]
-- [[morus-nigra]]
-- [[quercetin]]
-- [[kaempferol]]
-- [[quercus-robur]]
-- cardiovascular health
-- anti-inflammatory

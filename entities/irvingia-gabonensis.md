@@ -14,23 +14,23 @@ sources:
   - Lowe, J. (1932). "Irvingiaceae." Flora of Tropical West Africa, 1(2), 293-296.
   - Okafor, J.C. (1975). "Varietal delimitation in Irvingia gabonensis." Nigerian Journal of Forestry, 5(1), 34-37.
   - Ngondi, J.L. et al. (2005). "Irvingia gabonensis extract affects body weight and metabolic parameters." Lipids in Health and Disease, 4, 12.
-  - Atawodi, S.E. et al. (2009). "Nutritional composition of Irvingia gabonensis." Pakistan Journal of Nutrition, 8(6), 812-816.
+  - Atawodi, S.E. et al. (2009). "[[dighton-fungal-nutritional-composition-animal-diets]] of Irvingia gabonensis." Pakistan Journal of Nutrition, 8(6), 812-816.
   - Shiembo, P.N. et al. (1996). "Irvingia gabonensis: ethno-botany and importance in agroforestry." Agroforestry Systems, 33(3), 257-267.
 ---
 
 ## Overview
 
-Irvingia gabonensis is a large evergreen tree in the family Irvingiaceae, native to the humid tropical forests of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
+Irvingia gabonensis is a large evergreen tree in the family Irvingiaceae, native to the humid [[fungal-biodiversity-tropical-forests]] of West and Central Africa. It is commonly known as African mango, bush mango, wild mango, or ogbono.
 
 The species produces edible fruits with sweet, fibrous mesocarp and large seeds that are widely used as a thickening agent in West African soups and stews. The kernels, traded commercially as ogbono or dika nuts, are a significant source of dietary fat and protein.
 
-Irvingia gabonensis has attracted international attention for its seed extract, which has been marketed as a weight-loss supplement. Clinical trials have shown modest effects on body weight and metabolic parameters.
+Irvingia gabonensis has attracted international attention for its seed extract, which has been marketed as a weight-loss supplement. [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] have shown modest effects on body weight and metabolic parameters.
 
-The tree plays an important role in traditional agroforestry systems across its range, providing food, timber, and income for rural communities. It is one of the most economically important indigenous fruit trees in tropical Africa.
+The tree plays an important role in traditional agroforestry systems across its range, providing food, timber, and income for rural communities. It is one of the most economically important indigenous [[query-how-do-i-graft-fruit-trees-in-a-home-orchard]] tropical Africa.
 
 ## Taxonomy and Morphology
 
-Irvingia gabonensis was described by Aubry-Lecomte ex O'Rorke in 1857. The genus Irvingia contains approximately seven species distributed across tropical Africa and Southeast Asia.
+Irvingia gabonensis was described by Aubry-Lecomte ex O'Rorke in 1857. The genus Irvingia contains approximately seven species distributed across tropical Africa and [[psilocybe-southeast-asia-pacific]].
 
 The tree is evergreen, reaching 15–40 meters in height with a dense, spreading crown. The trunk is straight and cylindrical, reaching 1–2 meters in diameter at maturity, with buttresses extending up to 3 meters at the base.
 
@@ -48,11 +48,11 @@ The fruit is a large drupe 5–8 cm long and 3–5 cm in diameter, green when im
 
 Irvingia gabonensis ranges from Senegal eastward through the Guinean forest zone to the Democratic Republic of Congo and Angola. It also occurs in the island nation of São Tomé and Príncipe.
 
-The species exhibits considerable morphological variation across its range, leading to taxonomic confusion with the closely related Irvingia wombolu. The latter produces less palatable fruit but similar seed kernels.
+The species exhibits considerable morphological [[psilocybin-psilocin-variation-across-flushes]] its range, leading to [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] with the closely related Irvingia wombolu. The latter produces less palatable fruit but similar seed kernels.
 
 The species is most abundant in lowland humid tropical forests at elevations below 800 meters. It grows in areas with annual rainfall of 1,200–2,500 mm and mean annual temperatures of 24–28 degrees Celsius.
 
-Natural populations are found in primary and secondary forests, forest margins, and riverine gallery forests. The species is relatively light-demanding and is most common in forest gaps and disturbed sites.
+Natural populations are found in primary and secondary forests, forest margins, and riverine [[mollison-designers-gallery-forests-and-valley-bottomland-systems]]. The species is relatively light-demanding and is most common in forest gaps and disturbed sites.
 
 Wild trees are often preserved when forest is cleared for agriculture, creating a characteristic parkland landscape in many parts of West Africa. These retained trees continue to provide fruit and serve as seed sources for natural regeneration.
 
@@ -66,7 +66,7 @@ The fruit mesocarp contains approximately 70% moisture, 10% carbohydrates, 2% pr
 
 The seed kernels are the most nutritionally significant product, containing approximately 50–70% fat, 8–10% protein, and 10–15% carbohydrate. The fat is rich in lauric acid, myristic acid, and oleic acid.
 
-The fatty acid profile is distinctive among tree seeds, with lauric acid comprising 40–55% of total fatty acids. This profile is more similar to palm kernel oil than to typical temperate tree nut oils.
+The fatty acid profile is distinctive among tree seeds, with lauric acid comprising 40–55% of total [[carbon-isotope-labelling-mycorrhizal-fatty-acids]]. This profile is more similar to palm kernel oil than to typical temperate tree nut oils.
 
 Dietary fiber content of the kernels is approximately 14%, consisting primarily of water-soluble polysaccharides. These polysaccharides are responsible for the thickening properties of ogbono in culinary applications.
 
@@ -87,35 +87,3 @@ The soluble fiber fraction delays gastric emptying and increases satiety, which 
 Additional studies have reported improvements in adiponectin levels and insulin sensitivity in overweight subjects taking Irvingia seed extract. However, the evidence base remains limited with few independent replications.
 
 A systematic review concluded that Irvingia gabonensis extract shows promise for weight management, but noted that most available trials were small, short-duration, and industry-sponsored. Larger independent trials are needed to confirm effects.
-
-Antimicrobial activity of seed extracts has been demonstrated against several bacterial pathogens, including Escherichia coli and Staphylococcus aureus. Traditional use for gastrointestinal infections may be partially attributable to this activity.
-
-Antioxidant activity has been documented for both the fruit mesocarp and seed kernel extracts, with radical-scavenging capacity attributed to the polyphenol and flavonoid content.
-
-## Cultivation and Economic Importance
-
-Irvingia gabonensis is typically propagated from seed, though vegetative propagation by marcotting and grafting has been developed for clonal selection of superior genotypes. Seeds remain viable for 3–6 months under ambient storage.
-
-Trees grown from seed begin fruiting after 8–12 years, while grafted trees may bear fruit within 4–5 years. Fruiting is seasonal, with harvests concentrated in the early rainy season from April through July.
-
-Ogbono kernels are a major commodity in West African markets, traded both locally and through regional networks. Annual trade volume is estimated at several thousand tonnes, with significant domestic and international demand.
-
-The kernels command premium prices in urban markets across Nigeria, Cameroon, Ghana, and other West African countries. The growing diaspora trade has expanded demand to Europe and North America.
-
-Timber from Irvingia gabonensis is hard, durable, and resistant to termites. It is used locally for construction, tool handles, and furniture, though commercial timber exploitation is limited by the species' economic value for fruit.
-
-The bark has traditional medicinal applications including treatment of diarrhea and dysentery. Bark extracts have demonstrated antidiarrheal activity in animal models, supporting these ethnobotanical uses.
-
-Domestication programs led by the World Agroforestry Centre have identified superior Irvingia gabonensis genotypes for cultivation. These programs aim to reduce reliance on wild harvest and improve livelihoods for smallholder farmers.
-
-## See Also
-
-- [[blighia-sapida]]
-- [[adansonia-digitata]]
-- [[elaeis-guineensis]]
-- [[moringa-oleifera]]
-- [[tamarindus-indica]]
-- [[persea-americana]]
-- [[artocarpus-heterophyllus]]
-- [[psidium-guajava]]
-- [[carica-papaya]]

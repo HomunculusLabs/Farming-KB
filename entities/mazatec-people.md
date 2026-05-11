@@ -88,24 +88,3 @@ The shared feature is a disciplined ceremonial use of plants and fungi to seek k
 In the 1930s, researchers such as Robert J. Weitlaner and Richard Evans Schultes documented continuing mushroom use in southern Mexico.
 The major public turning point came when R. Gordon Wasson visited Huautla de Jiménez in the 1950s.
 Wasson's reports, and especially his 1957 Life magazine article, introduced a mass English-speaking audience to Mazatec mushroom ceremonies.
-Roger Heim identified and cultivated several mushroom species from these collections.
-Albert Hofmann then isolated and named psilocybin and psilocin from material connected to this research chain.
-This sequence links Mazatec practice directly to the pharmacology, psychiatry, and counterculture of the late [[coleman-louis-savier-twentieth-century-maraicher]].
-## Maria Sabina
-[[psilocybin]], [[three-pillars-mushroom-cultivation-spawn-substrate-environment]].
-They also anchor the difference between a concept page on psilocybin discovery and an entity page about a living people.
-## Key Details
-
-* **Entity type:** Indigenous people / ethnic group.
-* **Primary region:** Sierra Mazateca, Oaxaca, Mexico.
-* **Language family:** Otomanguean, Popolocan branch.
-* **Important town:** Huautla de Jiménez.
-* **Known in this wiki for:** ritual use of psilocybin mushrooms and related entheogens.
-* **Important associated person:** María Sabina.
-* **Important researchers:** R. Gordon Wasson, Roger Heim, Albert Hofmann, Robert J. Weitlaner.
-* **Interpretive caution:** avoid presenting Mazatec practice as merely a precursor to [[shamanic-vs-western-psychedelic-healing]] culture.
-## See Also
-
-* [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-* [[psilocybin]]
-* [[salvia-divinorum]]

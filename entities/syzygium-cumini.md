@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Morton, J. (1987). "Syzygium cumini." Fruits of Warm Climates. Julia Morton.
   - Baliga, M.S. et al. (2013). "Syzygium cumini — A multifaceted ethnobotanical plant." Journal of Food Science and Technology, 50(5), 849–860.
   - Ayyanar, M. & Subbarayan, P. (2012). "Syzygium cumini — A review." Pharmacognosy Reviews, 6(11), 37–43.
@@ -18,7 +19,7 @@ sources:
 
 ## Overview
 
-**Syzygium cumini** (L.) Skeels, commonly known as jambul, jamun, or java plum, is an evergreen tropical tree in the family Myrtaceae. It is native to the Indian subcontinent and Southeast Asia, where it has been cultivated for millennia for its edible purple fruits and traditional medicinal uses.
+**Syzygium cumini** (L.) Skeels, commonly known as jambul, jamun, or java plum, is an evergreen tropical tree in the family Myrtaceae. It is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], where it has been cultivated for millennia for its edible purple fruits and traditional medicinal uses.
 
 The species is most widely recognized for its anti-diabetic properties in Ayurvedic and folk medicine. The fruit, seeds, bark, and leaves all contain [[cordyceps-cancer-bioactive-compounds]] with documented hypoglycemic, anti-inflammatory, and antioxidant activities.
 
@@ -66,7 +67,7 @@ Animal studies demonstrate that seed extracts reduce fasting blood glucose by 20
 
 The bark contains β-sitosterol, friedelin, and tannins with anti-inflammatory activity. Bark decoctions are used traditionally to treat dysentery and gum infections.
 
-Leaves contain essential oil rich in α-pinene, β-pinene, and limonene, alongside flavonoids including quercetin and kaempferol. Leaf extracts show antibacterial activity against *Staphylococcus aureus* and *Escherichia coli*.
+Leaves contain [[permaculture-designers-manual-essential-oil-plants]] rich in α-pinene, β-pinene, and limonene, alongside flavonoids including quercetin and kaempferol. Leaf extracts show antibacterial activity against *[[staphylococcus-aureus]]* and *Escherichia coli*.
 
 Human clinical evidence remains limited. Small trials suggest modest improvements in postprandial glucose, but large-scale randomized controlled trials are lacking.
 
@@ -74,7 +75,7 @@ Human clinical evidence remains limited. Small trials suggest modest improvement
 
 Jamun is propagated from seed, though seedling trees take 8–10 years to bear fruit. Grafted or budded plants fruit in 4–5 years and maintain superior fruit quality.
 
-Trees should be spaced 8–10 meters apart. Minimal pruning is required beyond removing dead wood and shaping the canopy. The species is relatively pest-resistant, though fruit flies and leaf-eating caterpillars can affect yield.
+Trees should be spaced 8–10 meters apart. Minimal pruning is required beyond removing [[fungal-dead-wood-diversity]] and shaping the canopy. The species is relatively pest-resistant, though fruit flies and leaf-eating caterpillars can affect yield.
 
 Yield varies from 40–100 kg per tree annually at maturity. Fruiting typically occurs once per year during the monsoon season, though some cultivars produce a secondary lighter crop.
 
@@ -82,41 +83,8 @@ Yield varies from 40–100 kg per tree annually at maturity. Fruiting typically 
 
 Jamun provides food and habitat for numerous bird and bat species. The flowers attract bees and butterflies, making it a valuable nectar source in tropical agroforestry systems.
 
-The deep root system helps prevent soil erosion on degraded lands. The species is recommended for reforestation programs across South and Southeast Asia due to its hardiness and rapid early growth.
+The deep root system helps prevent soil erosion on degraded lands. The species is recommended for reforestation programs across South and Southeast Asia due to its hardiness and rapid [[cervantes-seedling-care-early-growth]].
 
 The canopy offers shade in agroforestry combinations with coffee, cardamom, and pepper. Fallen leaves contribute to soil [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] and [[biodiversity-of-fungi-decomposition-nutrient-cycling]].
 
 ## Traditional and Ethnobotanical Use
-
-In Ayurveda, jamun fruit is classified as a kashaya (astringent) and grahi (absorbent) remedy. It is traditionally prescribed for polyuria, diarrhea, and enlarged spleen. The seed powder is a well-known folk remedy for diabetes across rural India.
-
-Unani medicine employs the bark and seeds as an astringent, diuretic, and anti-diarrheal. The fruit is considered cooling and is recommended for excessive thirst in febrile conditions.
-
-In Brazilian folk medicine, where the species is naturalized, leaf infusions are used for hypertension and as a general tonic. Similar uses are reported in traditional Filipino and Indonesian healing practices.
-
-The wood is hard, durable, and resistant to water, making it suitable for furniture, tool handles, and railway sleepers. However, timber harvest is limited because fruiting trees are too valuable as food sources.
-
-## Related Species
-
-*Syzygium cumini* is part of a large genus of over 1,200 species distributed across the tropics. Several close relatives are commercially significant.
-
-*S. aromaticum* (clove) is the source of clove buds and clove oil, one of the most traded spices globally. *S. jambos* (rose apple) produces crisp, bell-shaped edible fruits. *S. samarangense* (wax apple) is cultivated for its bell-shaped, mildly sweet fruit in Southeast Asia.
-
-*S. guineense* (waterberry) is an African relative with similar dark fruits used in traditional medicine. The genus has undergone significant taxonomic revision, with many former *Eugenia* species now reassigned to *Syzygium*.
-
-## Notable Cultivars and Varieties
-
-Several named cultivars exist, particularly in India where the fruit has commercial importance. [[cannabis-breeding-traits-selection-criteria-clarke]] include fruit size, pulp-to-seed ratio, sweetness, and reduced astringency.
-
-'Ra Jaman' is a widely grown cultivar in northern India producing large fruits with relatively small seeds. 'CISH J-42' was developed at the Central Institute for Subtropical Horticulture for early bearing and high yield.
-
-'Impal' from the Indian [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Institute produces regular-bearing trees with moderately sweet fruit. Seedless or near-seedless selections have been reported but are not widely available commercially.
-
-Most commercial cultivation relies on seedling trees from selected mother plants rather than grafted cultivars, which limits standardization of fruit quality.
-
-## See Also
-
-- [[terminalia-chebula]]
-- ocimum-sanctum
-- [[azadirachta-indica]]
-- [[eugenol]]

@@ -1,5 +1,5 @@
 ---
-title: "Intramolecular Benzyl Migration to hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin in psilocybin-synthesis"
+title: Intramolecular Benzyl Migration Zwitterionic Phosphate Psilocybin Synthesis
 created: 2026-05-08
 tags: [psilocybin, organic-chemistry, phosphorylation, zwitterion, benzyl-migration, NMR, shirota-synthesis, tryptamine-chemistry]
 date: 2026-05-08
@@ -21,13 +21,13 @@ The phosphorylation of psilocin (1) with tetrabenzylpyrophosphate in THF at −7
 - **Dibenzyl phosphorochloridate:** Low conversion and problematic side reactions.
 - **Tetrabenzylpyrophosphate (selected):** High conversion, stable reagent, and the unexpected zwitterion formation that dramatically simplified purification.
 
-Previous psilocybin syntheses had reported yields of just 20% (Hofmann et al., 1959) and 47% (Nichols & Frescas), both requiring either column chromatography or anion-exchange resin for the final purification step. The pyrophosphate method was selected for its reagent stability and ease of handling at gram scale. The tetrabenzylpyrophosphate reagent itself can be prepared in nearly quantitative yield from dibenzyl phosphate, making the entire phosphorylation sequence operationally simple and cost-effective.
+Previous psilocybin syntheses had reported yields of just 20% (Hofmann et al., 1959) and 47% (Nichols & Frescas), both requiring either column chromatography or anion-exchange resin for the final purification step. The pyrophosphate method was selected for its reagent stability and ease of handling at [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]. The tetrabenzylpyrophosphate reagent itself can be prepared in nearly quantitative yield from dibenzyl phosphate, making the entire phosphorylation sequence operationally simple and cost-effective.
 
 ## Discovery of the Rearrangement
 
 After the standard aqueous workup to remove excess reagents, the ¹H NMR spectrum of the remaining material in CDCl₃ showed complicated signals. TLC revealed an additional spot at the origin, and a whitish material was no longer soluble in CH₂Cl₂. Nichols and Frescas had previously observed a similar phenomenon, concluding that hydrolytic cleavage of one O-benzyl group rapidly occurred, yielding a zwitterionic O-monobenzyl phosphate as part of a mixture.
 
-Purification by preparative reversed-phase HPLC afforded a single compound (8), which upon full NMR analysis revealed an unexpected structure: one benzyl group had migrated from oxygen to the nitrogen of the N,N-dimethylamino moiety, forming a quaternary ammonium ion paired with the phosphate anion. The full IUPAC-style name for this compound is {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammonio}-4-O-benzyl phosphate.
+Purification by preparative reversed-phase HPLC afforded a single compound (8), which upon full [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] revealed an unexpected structure: one benzyl group had migrated from oxygen to the nitrogen of the N,N-dimethylamino moiety, forming a quaternary ammonium ion paired with the phosphate anion. The full IUPAC-style name for this compound is {benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammonio}-4-O-benzyl phosphate.
 
 ## Structural Elucidation by NMR
 
@@ -38,7 +38,7 @@ The ¹H NMR spectrum of 8 showed signals for two distinct benzyl groups with cle
 - **N-benzyl group:** Methylene protons at δ_H 4.56 (2H, s), shifted to high field due to attachment to the positively charged nitrogen center.
 - **O-benzyl group:** Methylene protons as a characteristic AB quartet at δ_H 4.98 (1H, s) and 4.96 (1H, s), consistent with diastereotopic protons on an O-benzyl group.
 - **Aromatic region:** Two sets of benzyl aromatic signals: δ_H 7.56–7.45 (5H, m, NCH₂C₆H₅) and δ_H 7.31–7.20 (5H, m, OCH₂C₆H₅).
-- **Side chain:** The ethylene bridge protons appeared as broad multiplets at δ_H 3.64 (H₂-2′) and 3.47 (H₂-1′), shifted downfield relative to free psilocin due to the quaternary ammonium.
+- **[[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]:** The ethylene bridge protons appeared as broad multiplets at δ_H 3.64 (H₂-2′) and 3.47 (H₂-1′), shifted downfield relative to free psilocin due to the quaternary ammonium.
 - **N-methyl groups:** δ_H 3.08 (6H, s, NMe₂), also shifted downfield from the free amine value of ~2.9 ppm.
 
 The downfield shifts of the methylene, N,N-dimethyl, and ethylene bridge protons relative to free psilocin are diagnostic for quaternary ammonium formation.
@@ -88,35 +88,3 @@ The subsequent [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of 
 ## Experimental Procedure for the Migration and Isolation
 
 The detailed experimental procedure from the original publication is as follows:
-
-1. **Deprotonation:** Psilocin (5.4 g, 26.4 mmol) is dissolved in anhydrous THF (265 mL) and cooled to −78 °C under inert atmosphere. n-BuLi (2.6 M in n-hexane, 11.5 mL, 29.9 mmol) is added and the mixture is stirred for 5 minutes to ensure complete deprotonation of the 4-hydroxyl group.
-2. **Phosphorylation:** Tetrabenzylpyrophosphate (18.0 g, 33.4 mmol), prepared in almost 100% yield from dibenzyl phosphate via a literature procedure, is added all at once to the cold reaction mixture. This reagent is used in slight excess (1.26 equiv) to ensure complete conversion.
-3. **Warm-up:** The reaction is stirred for 1 h while the temperature is allowed to rise from −78 °C to 0 °C. TLC monitoring confirms production of the phosphorylated intermediate (7).
-4. **Workup:** Aminopropyl silica gel (~20 g) is added to the reaction mixture to scavenge excess reagents. The mixture is diluted with ethyl acetate and filtered through a Celite pad by suction.
-5. **Migration and precipitation:** The filtrate is concentrated in vacuo, redissolved in CH₂Cl₂, and stored overnight. During this period, the intramolecular benzyl migration occurs spontaneously, and the zwitterionic product 8 precipitates from solution.
-6. **Isolation:** The precipitated white powder is collected by filtration and washed with CH₂Cl₂ to remove soluble impurities including excess dibenzyl phosphate. Yield: 10.5 g (85.2%) of 8 as a white powder.
-
-The spectroscopic data for compound 8 are as follows: ¹H NMR (CD₃OD, 400 MHz) δ 7.56–7.45 (5H, m, NCH₂C₆H₅), 7.31–7.20 (5H, m, OCH₂C₆H₅), 7.12 (1H, d, J = 7.8 Hz, H-7), 7.10 (1H, br s, H-2), 7.09 (1H, d, J = 7.8 Hz, H-5), 7.01 (1H, t, J = 7.8 Hz, H-6), 4.98, 4.96 (each 1H, s, OCH₂C₆H₅), 4.56 (2H, s, NCH₂C₆H₅), 3.64 (2H, m, H₂-2′), 3.47 (2H, m, H₂-1′), 3.08 (6H, s, NMe₂).
-
-## Subsequent Hydrogenolysis to Psilocybin
-
-Catalytic hydrogenolysis of the [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] 8 (H₂, Pd/C, MeOH, room temperature) simultaneously removes both benzyl protecting groups. The O-benzyl group is cleaved to reveal the free phosphate acid (OPO₃H₂), while the N-benzyl group is cleaved to regenerate the tertiary dimethylamino group. After filtration through Celite and concentration, psilocybin (2) crystallises as white needles: 5.6 g, 87.5% yield from 8. The product matches literature values: mp 190–198 °C (lit. 185–195 °C, 210–212 °C); UV (MeOH) λ_max 221.0, 267.5, 278.5, 290.0 nm.
-
-## Significance for Analytical Chemistry
-
-Beyond its synthetic utility, this discovery has implications for the analytical detection of psilocybin and its derivatives. The identification of "magic mushrooms" using morphologic and microscopic analyses is difficult without experts, so chromatographic methods including TLC, GC, and HPLC are usually employed. The Shirota synthesis provides reliable access to gram quantities of pure [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] for use as analytical standards. Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law in Japan, making [[shirota-forensic-standard-compounds-magic-mushroom-identification]] essential for forensic and regulatory testing. The chromatography-free nature of this synthesis makes it accessible to forensic laboratories without specialised purification equipment.
-
-## Related
-
-- [[shirota-zwitterion-discovery-intramolecular-benzyl-migration-phosphorylation]] Concepts
-
-- [[shirota-psilocin-psilocybin-synthesis]] — Complete six-step synthetic pathway overview
-- [[4-hydroxyindole-tryptamine-synthesis-building-block]] — Starting material chemistry and protection
-- [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] — Broader intermediate discussion
-
-## References
-
-1. Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. *J. Nat. Prod.*, 66(6), 885–887.
-2. Nichols, D.E. & Frescas, S. — Previous phosphorylation attempts and observations on zwitterion formation.
-3. Hofmann, A., Heim, R., Brack, A., Kobel, H., et al. (1959). *Helv. Chim. Acta*, 42, 1557–1572.
-4. Troxler, F., Seemann, F., & Hofmann, A. (1959). Psilocybin und Psilocin. *Helv. Chim. Acta*, 42, 1557–1572.

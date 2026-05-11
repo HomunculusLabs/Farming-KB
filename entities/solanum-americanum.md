@@ -17,11 +17,11 @@ sources:
 
 ## Overview
 
-**Solanum americanum**, commonly known as American black nightshade or glossy nightshade, is an annual or short-lived perennial herbaceous plant in the family Solanaceae. It is one of the most widely distributed members of the Solanum nigrum complex, found across tropical, subtropical, and temperate regions worldwide.
+**Solanum americanum**, commonly known as American black nightshade or glossy nightshade, is an annual or short-lived perennial herbaceous plant in the family Solanaceae. It is one of the most widely distributed members of the [[solanum-nigrum]] complex, found across tropical, subtropical, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-The species produces small black berries that are edible when fully ripe but toxic when green or unripe. This dual edibility profile has generated considerable taxonomic confusion and public health concern over the centuries.
+The species produces small black berries that are edible when fully ripe but toxic when green or unripe. This dual edibility profile has generated considerable [[neurotropic-fungi-taxonomic-confusion-and-identification]] public health concern over the centuries.
 
-Solanum americanum is frequently mistaken for the more toxic deadly nightshade (Atropa belladonna), despite belonging to a different genus. The confusion arises from the shared common name "nightshade" and superficial similarities in berry appearance.
+Solanum americanum is frequently mistaken for the more toxic [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] ([[atropa-belladonna]]), despite belonging to a different genus. The confusion arises from the shared common name "nightshade" and superficial similarities in berry appearance.
 
 The plant has been used as a food source, medicinal plant, and leafy vegetable in many cultures across its pantropical range. It also serves as a host plant for several agricultural pests and pathogens affecting cultivated Solanaceae crops.
 
@@ -47,9 +47,9 @@ Seeds are lens-shaped, approximately 1.5 millimeters long, with a light brown te
 
 ## Distribution and Habitat
 
-Solanum americanum has a pantropical and subtropical distribution, extending into warm temperate regions of North America, South America, Africa, Asia, and Oceania. Its native range is debated, with molecular evidence suggesting origins in the Americas and subsequent naturalization elsewhere through human-mediated dispersal.
+Solanum americanum has a pantropical and subtropical distribution, extending into warm temperate regions [[berry-growing]], [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Oceania. Its native range is debated, with molecular evidence suggesting origins in the Americas and subsequent naturalization elsewhere through human-mediated dispersal.
 
-The species is highly adaptable and occurs in a wide range of disturbed and natural habitats. It is common in agricultural fields, gardens, roadsides, waste places, forest edges, riparian zones, and open woodlands.
+The species is highly adaptable and occurs in a wide range of disturbed and [[mushroom-natural-habitats]]. It is common in agricultural fields, gardens, roadsides, waste places, forest edges, riparian zones, and open woodlands.
 
 Elevation range extends from sea level to approximately 2500 meters in tropical mountains. The plant prefers moist, nitrogen-rich soils and is often associated with human-modified landscapes.
 
@@ -57,11 +57,11 @@ Solanum americanum is classified as a weed in many agricultural systems, though 
 
 The species is a common volunteer in vegetable fields, particularly following tomato, potato, and pepper crops. Its presence in agricultural fields can complicate weed management due to its close relationship with crops in the same family. Selective herbicides that control S. americanum without damaging Solanaceae crops are limited in availability.
 
-The species also serves as an alternate host for several economically important plant pathogens. It can harbor Phytophthora infestans (late blight of potato and tomato) and various nematode species that affect cultivated crops.
+The species also serves as an alternate host for several economically important plant pathogens. It can harbor [[bloomfield-potato-blight-phytophthora-infestans]] (late blight of potato and tomato) and various nematode species that affect cultivated crops.
 
 ## Edibility and Toxicity
 
-The edibility of Solanum americanum berries is one of the most contentious aspects of the species. Ripe black berries are widely consumed as food in many parts of Africa, Asia, and the Pacific Islands.
+The edibility of Solanum americanum berries is one of the most contentious aspects of the species. Ripe black berries are widely consumed as food in many parts of Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The berries have a mild, slightly sweet flavor and can be eaten raw or cooked into pies, preserves, and sauces. In some Pacific Island communities, the berries are a traditional children's snack gathered from field margins and forest clearings.
 
@@ -77,41 +77,14 @@ Confusion with Atropa belladonna has led to accidental poisonings. Key distingui
 
 ## Chemistry and Pharmacology
 
-The primary bioactive compounds in Solanum americanum are steroidal glycoalkaloids, with solanine (solasonine) and chaconine (solamargine) as the major constituents. Total glycoalkaloid content ranges from 0.03 to 0.5 percent in ripe berries and up to 1 percent in green berries and leaves.
+The primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Solanum americanum are steroidal glycoalkaloids, with solanine (solasonine) and chaconine (solamargine) as the major constituents. Total glycoalkaloid content ranges from 0.03 to 0.5 percent in ripe berries and up to 1 percent in green berries and leaves.
 
 These glycoalkaloids are saponin-like compounds with both toxic and pharmacological properties. They disrupt cell membranes by interacting with cholesterol, affecting membrane integrity and selective permeability.
 
 Research has demonstrated antimicrobial, antifungal, and antitumor activities of solanum glycoalkaloids in vitro. Solamargine has shown selective cytotoxicity against several human cancer cell lines, including hepatoma and breast cancer, though clinical applications remain undeveloped.
 
-The leaves contain additional compounds including phenolic acids (chlorogenic acid, caffeic acid), flavonoids, and carotenoids. Antioxidant capacity of leaf extracts is moderate and contributes to the species' traditional use for inflammatory conditions.
+The leaves contain additional compounds including phenolic acids (chlorogenic acid, caffeic acid), flavonoids, and carotenoids. Antioxidant capacity of leaf extracts is moderate and contributes to the species' traditional use [[cannabis-for-inflammatory-conditions]].
 
 Anti-inflammatory activity has been documented in animal models, with leaf extracts reducing carrageenan-induced paw edema. These findings support traditional uses for arthritis, rheumatism, and topical wound healing.
 
 Analgesic effects have also been observed, with aqueous leaf extracts showing dose-dependent pain reduction in rodent models. The combination of anti-inflammatory and analgesic activities explains the species' widespread use for musculoskeletal pain.
-
-## Traditional Uses
-
-Solanum americanum has been used in traditional medicine across Africa, Asia, and the Americas for a wide range of conditions. Leaf preparations are applied externally for skin conditions, wounds, and inflammation, while decoctions are consumed for fever, digestive complaints, and respiratory ailments.
-
-In several African countries, the young leaves and tender shoots are harvested as a nutritious leafy vegetable. The leaves are boiled with changes of water to reduce bitterness before consumption. Nutritional analysis shows high levels of vitamins A and C, iron, calcium, and protein.
-
-In Indian Ayurvedic medicine, preparations from the plant are used for liver disorders, fever, and as a mild diuretic. The plant is classified as having a cooling energetic effect in traditional Ayurvedic classification.
-
-In Chinese traditional medicine, the whole plant is used to clear heat and reduce swelling. It is prescribed for sore throat, toothache, and urinary tract infections in regional materia medica.
-
-Among indigenous communities in the Americas, S. americanum has been used topically for skin rashes, insect bites, and minor burns. Poultices of crushed leaves are applied directly to affected areas.
-
-The ripe berries are used in some Caribbean communities to make preserves and beverages. In Jamaica, the berries are boiled with sugar to produce a dark, sweet syrup used as a traditional cough remedy.
-
-## See Also
-
-- [[solanum-carolinense]]
-
-- [[solanum-nigrum]]
-- [[solanum-lycopersicum]]
-- [[solanum-tuberosum]]
-- [[solanum-melongena]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[nicotiana-tabacum]]
-- [[capsicum-annuum]]

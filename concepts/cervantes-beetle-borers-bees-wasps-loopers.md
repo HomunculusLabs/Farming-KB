@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -88,39 +89,7 @@ cold weather.
 
 ---
 
-## Caterpillars and Loopers
-
-### Identification
-
-From half inch to four inches (1.5-10 cm), caterpillars and
-loopers are cylindrical with feet and often green, but can be
-virtually any color from white to black. Caterpillars have sets
-of feet the entire length of the body, while loopers have only
-two sets of feet at either end.
-
-Loopers move by placing their front feet forward, arching their
-body upward in the middle, and pulling their rear sets of legs
-forward in a characteristic inchworm motion. Some species have
-stripes, spots, and other designs that provide camouflage.
-
-### Damage
-
-These [[jadam-pesticide-for-chewing-insects]] eat pieces of foliage and leave telltale
-bite marks in leaves. Some [[cervantes-pyrethrum-pyrethroid-insecticides]]
-aerosol spray and shake the plant afterward. The spray has a
-quick knockout effect, and most caterpillars will fall from the
-plant, making them visible and easy to collect.
-
-### Control
-
-- Manual: Handpick caterpillars from plants. Check buds
-  carefully during flowering
-- Biological: Trichogramma wasps parasitize caterpillar eggs.
-  Spined soldier bug (Podisus maculiventris, Podibug) is a
-  general predator of caterpillar larvae
-- [[cervantes-caterpillars-budworms]] - budworm-specific
-  information
-- [[cervantes-biological-pest-control-predators]] - predator
-  overview
-- [[cervantes-homemade-pest-disease-sprays]] - DIY spray
-  recipes
+## See Also
+- [[parasitic-wasps-biological-pest-control]]
+- [[query-how-to-attract-native-bees-and-beneficial-insects]]
+- [[cervantes-wind-protection-outdoor-cannabis]]

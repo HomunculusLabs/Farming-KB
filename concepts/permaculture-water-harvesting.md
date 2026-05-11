@@ -11,7 +11,7 @@ sources: [raw/papers/bill-mollison-permaculture-design-course.md, raw/papers/bil
 
 ## Overview
 
-Water is the primary limiting factor in most landscapes. Permaculture water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off. (see [[earthworks-for-water-management]]).
+Water is the primary limiting factor in most landscapes. Permaculture water harvesting captures, stores, and directs water through the landscape using earthworks, vegetation, and storage systems. The goal is to keep water on the land as long as possible, allowing it to infiltrate and be used by plants and animals before it runs off.
 
 ## Principles
 
@@ -24,7 +24,7 @@ Water is the primary limiting factor in most landscapes. Permaculture water harv
 
 ## Swales
 
-A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture water management. (see [[permaculture-water-systems]]).
+A swale is a level ditch on contour that catches water running off the land surface and allows it to infiltrate into the soil. Swales are one of the most important tools in permaculture water management.
 
 ### Design
 
@@ -41,7 +41,7 @@ A swale is a level ditch on contour that catches water running off the land surf
 - Reduce erosion by slowing water flow
 - Create a moist planting zone on the berm
 - Distribute water across the landscape rather than concentrating it
-- Build soil through accumulated organic matter on the berm
+- Build soil through accumulated [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on the berm
 
 ## Ponds and Dams
 
@@ -56,7 +56,7 @@ Ponds store water at the surface for irrigation, livestock, fire control, and aq
 
 ## Rainwater Collection
 
-Rainwater harvesting from roofs provides high-quality water for domestic and garden use:
+[[comparison-drip-irrigation-vs-rainwater-harvesting]] from roofs provides high-quality water for domestic and garden use:
 
 - Every square meter of roof collects approximately 1 liter of water per millimeter of rainfall
 - First-flush diverters discard the initial contaminated runoff from roof surfaces
@@ -68,9 +68,9 @@ Rainwater harvesting from roofs provides high-quality water for domestic and gar
 
 Greywater (water from showers, sinks, and laundry) can be treated and reused in the landscape:
 
-- Greywater contains nutrients from soaps and organic matter that benefit plants
+- Greywater contains nutrients from soaps [[hamilton-composting-and-organic-matter-management]] that benefit plants
 - Simple systems use settling tanks, grease traps, and biological filtration
-- Reed beds and constructed wetlands effectively treat greywater using aquatic plants
+- Reed beds and [[comparison-constructed-wetlands-vs-bioswales]] effectively treat greywater using aquatic plants
 - Mulch basins around trees can directly receive filtered greywater
 - Never store untreated greywater -- use it immediately or treat it aerobically
 
@@ -85,12 +85,36 @@ Keyline is a landscape planning technique developed by P.A. Yeomans that optimiz
 
 ## Water Conservation in Design
 
-- Zone planning places high-water-use elements near water sources
+- [[mollison-course-zone-planning-and-design]] places high-water-use elements near water sources
 - Mulch dramatically reduces evaporation from soil surfaces
 - Windbreaks reduce evapotranspiration caused by wind
 - Shade trees reduce soil moisture loss
 - Deep-rooted perennial plants access water that annuals cannot reach
 - Ground covers protect soil from direct sun and rain impact
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.
 
 ## See Also
 

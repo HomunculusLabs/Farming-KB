@@ -1,5 +1,5 @@
 ---
-title: Phytochrome — The Red/Far-Red Light Switch
+title: Phytochrome Red Far Red Light Switch
 created: 2026-05-09
 tags:
   - plant-biology
@@ -32,12 +32,12 @@ light with remarkable precision.
 
 ## The Discovery of Red and Far-Red Effects
 
-The story of phytochrome begins with experiments on photoperiodism — the phenomenon
+The story of phytochrome begins with experiments on [[photoperiodism]] — the phenomenon
 where plants use [[coleman-persephone-months-winter-day-length]] to control flowering. Around World War II, scientists
 discovered they could manipulate flowering by briefly turning lights on and off in the
 middle of the night. Only red light flashes could disrupt or trigger flowering; blue or
-green flashes had no effect. This was surprising because blue light was already known
-to drive phototropism. Plants, it seemed, were using different colours for different
+green flashes had no effect. This was surprising because [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] was already known
+to drive [[phototropism]]. Plants, it seemed, were using different colours for different
 purposes.
 
 In the early 1950s, Harry Borthwick and his colleagues at the US Department of
@@ -88,54 +88,3 @@ to light — it tracks the quality of light over time.
 One of phytochrome's most important functions is regulating flowering. Which part of
 the plant sees the red and far-red light that controls flowering? Given that Darwin's
 phototropism studies showed the plant's "eye" is in its shoot tip, one might assume
-the same for photoperiodism. Surprisingly, it is not. If you shine red light on
-different parts of a plant in the middle of the night, illuminating any single leaf
-is sufficient to regulate flowering in the entire plant. If all leaves are pruned,
-leaving only the stem and apex, the plant is completely blind to light flashes — even
-if the entire remaining plant is illuminated.
-
-Phytochrome in the leaves receives light cues and initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — a
-chemical message — that propagates throughout the plant and induces flowering at the
-growing tips. The leaf is the sensor, the stem is the transmission pathway, and the
-shoot apex is the effector. This showed that different light-sensing systems in plants
-serve different functions through different anatomical pathways.
-
-## Phytochrome Versus Blue-Light Phototropism
-
-Phytochrome-mediated responses and phototropism are completely separate light-sensing
-systems. They use different photoreceptor proteins, respond to different colours, and
-serve different biological purposes. Phototropism, mediated by phototropin proteins in
-the shoot tip, uses blue light to determine light direction and bend the plant toward
-it. Phytochrome, located primarily in leaves, uses red and far-red light to measure
-light duration and quality, regulating flowering and [[shade-avoidance-syndrome]].
-
-The phototropin system is about [[plant-gravitropism-spatial-orientation]] — where is the light coming from?
-The phytochrome system is about temporal measurement — how long since darkness fell,
-and what was the quality of the last light seen? Together, these systems give plants a
-remarkably sophisticated visual capacity that provides all the information a plant
-needs to survive and reproduce in a changing light environment.
-
-## The Mobile Signal
-
-When phytochrome in a leaf absorbs red light and converts to active Pfr, it triggers
-production of a mobile protein signal — later identified as FT (Flowering Locus T) —
-that travels through the plant's vascular system from leaf to shoot apex. There, it
-initiates the genetic programme that transforms a vegetative growing tip into a
-flower-producing structure. This was revolutionary because it showed that plants,
-despite lacking nervous systems, can transmit information from one body part to
-another with remarkable specificity and speed.
-
-## Significance
-
-Phytochrome represents one of the most important discoveries in plant biology. It
-explained how plants measure time, distinguish between light qualities, and
-communicate between distant organs. The reversible red/far-red switch gave biologists a
-molecular model for understanding photoreceptors, and phytochrome has since been found
-to regulate not only flowering but [[cannabis-seed-germination]], shade avoidance, stem elongation,
-leaf expansion, and [[plant-circadian-rhythms]]. It remains one of the most studied protein
-families in plant science.
-
-## See Also
-- [[darwin-phototropism-discovery-plant-light-perception]]
-- [[phototropism-darwin-plant-light-sensing]]
-- [[photoperiodism-plant-day-length-measurement]]

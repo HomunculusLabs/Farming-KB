@@ -80,7 +80,7 @@ essential for any new psychoactive compound.
 
 ## Pharmacology
 
-DOM acts as a potent agonist at serotonin 5-HT2A receptors, with additional
+DOM acts as a potent agonist at [[serotonin]] 5-HT2A receptors, with additional
 activity at 5-HT2B and 5-HT2C. Binding affinity is in the low nanomolar
 range. The alpha-methyl group provides metabolic resistance against MAO,
 resulting in extraordinarily slow hepatic processing through alternative
@@ -88,38 +88,3 @@ pathways including aromatic hydroxylation and conjugation.
 
 DOM may also have activity at trace amine-associated receptors (TAARs) and
 mild dopaminergic activity, though primary psychoactive effects are
-mediated through serotonergic pathways.
-
-## Safety and Harm Reduction
-
-The extreme duration is the primary concern. Users must prepare for a full
-24 hours of altered consciousness. The long onset makes redosing particularly
-dangerous. Accurate milligram-scale measurement is essential given the high
-potency. The 1967 incident demonstrated consequences of dosage errors.
-
-Cardiovascular stimulation is significant; individuals with heart conditions
-should avoid DOM. Harm reduction includes starting with a low test dose (2 to
-3 mg), waiting 3 hours before considering additional dose, and having an
-experienced sitter for the full duration.
-
-## Comparison to Related Compounds
-
-Compared to DOB, DOM is less potent (3 to 10 mg vs. 1 to 3 mg) and
-shorter-acting, though both are extremely long by psychedelic standards.
-DOB's effects tend to be more visual while DOM is more stimulating. Against
-DOI, DOM is shorter-acting and less potent. Compared to LSD, DOM has similar
-intensity but longer duration and more physical stimulation.
-
-## Historical and Cultural Significance
-
-DOM's history is inseparable from the 1967 STP incident, a defining
-cautionary tale of the psychedelic era. The compound was subsequently
-scheduled. Despite this, DOM has a small dedicated following among
-experienced psychonauts. It is Schedule I in the US and controlled
-internationally under the UN Convention on Psychotropic Substances.
-
-## See Also
-
-- [[pihkal-mescaline]]
-- [[pihkal-mda]]
-- [[pihkal-cautionary-note-and-legal-context]]

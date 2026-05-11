@@ -12,7 +12,7 @@ type: concept
 # Soil Health and the Humus Connection
 
 The health of plants, animals, and humans is fundamentally tied to the
-health of soil, according to research presented in The Secret Life of
+health of soil, according to research presented in The [[plant-communication-volatile-organic-compounds]]
 Plants. The book documents how the shift from natural humus-based
 agriculture to artificial [[cervantes-chemical-fertilizers-guide]] has degraded not only
 soil fertility but the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food, with cascading
@@ -57,7 +57,7 @@ nitrogen creates its own demand.
 ## Sir Albert Howard and Organic Agriculture
 
 Sir Albert Howard, who spent decades working in India, developed the
-Indore process of composting and became the father of the organic
+[[tompkins-soil-health-howard-indore-process]] of composting and became the father of the organic
 agriculture movement. His Agricultural Testament argued that the health
 of soil, plant, animal, and human is one great subject. Howard found
 that the roots of the healthiest vines for wine grapes in France were
@@ -69,7 +69,7 @@ fertilizers.
 Beyond bacteria, soil contains myriads of microscopic organisms:
 actinomycetes (filamentous forms resembling both bacteria and fungi),
 tiny algae, protozoa, and fungi ranging from one-celled yeasts to
-mushrooms. Mycorrhizal fungi associate with the roots of many green
+mushrooms. [[arbuscular-mycorrhizal-fungi]] associate with the roots of many green
 plants in a way beneficial to both. Dr. M. C. Rayner in England
 discovered that the roots of trees consume the threads of these fungi.
 
@@ -88,34 +88,3 @@ purslane, and nettles -- bring up minerals from the subsoil and are
 excellent indicators of soil conditions. As companion crops they help
 domesticated plants reach food that would otherwise be beyond their
 roots' reach.
-
-Cocannouer warned of the "law of togetherness of all things," stating
-that "in America, in our frenzied efforts to take advantage of high
-prices for agricultural products, we are mining our soils instead of
-farming them." By 1973, researchers at West Virginia University were
-rediscovering that trace elements in corn had fallen off severely owing
-to the kinds and amounts of fertilizers used in some soils.
-
-## Voisin: The Soil Makes the Man
-
-Dr. Andre Voisin, director of France's National Veterinary School,
-produced the landmark book Soil, Grass and Cancer (1959). His thesis
-was that man, in producing food for an exploding population, has
-forgotten that his body comes from soil. Visiting the Ukraine, Voisin
-saw that Percheron draft horses, developed on French soils, had
-dwindled to the size of Cossack horses within a few generations despite
-pure bloodlines -- reminding us that all living things are "biochemical
-photographs of their environment."
-
-Voisin told a veterinary treating cattle with grass tetany: "I think
-it is not merely a question of healing the animal or man stricken by
-disease, it is necessary to heal the soil so as not to have to heal the
-animal or man."
-
-## See Also
-
-- [[tompkins-soil-health-howard-indore-process]]
-
-- [[humus-formation-and-soil-organic-matter]] for humus science
-- [[bacterial-vs-fungal-soil-dynamics]] for soil biology
-- [[tompkins-plant-roots-intelligence]] for root-soil interactions

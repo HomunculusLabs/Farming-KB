@@ -21,11 +21,11 @@ sources:
 
 Lonicera maackii, commonly called Amur honeysuckle or bush honeysuckle, is a
 deciduous shrub native to East Asia. It has become one of the most widespread
-and ecologically damaging invasive woody plants in eastern North America.
+and ecologically damaging invasive woody plants in [[polypore-fungi-eastern-north-america]].
 
 The shrub was introduced to North America in the late 1800s as an ornamental
 plant and for wildlife cover. It has since spread to natural areas across much
-of the eastern United States and parts of the Pacific Northwest.
+of the eastern United States and parts of the [[psilocybin-north-america-pacific-northwest]].
 
 Amur honeysuckle forms dense thickets that shade out native understory plants,
 alter soil chemistry, and reduce overall forest biodiversity. It leafs out
@@ -75,71 +75,16 @@ forest interiors via bird-dispersed seeds.
 ## Ecology and Invasiveness
 
 Lonicera maackii is considered one of the most destructive invasive shrubs in
-eastern North American forests. It displaces native understory species by
+eastern [[growing-gourmet-north-american-reishi-species]] forests. It displaces native understory species by
 forming dense, shade-producing thickets that eliminate ground-layer vegetation.
 
 Research has demonstrated that Amur honeysuckle alters soil chemistry, increasing
-pH and nitrogen availability in ways that favor its own growth while inhibiting
+pH and [[nitrogen-availability-in-legumes]] ways that favor its own growth while inhibiting
 native plant regeneration. These legacy effects persist even after removal.
 
 The species leafs out 2 to 3 weeks earlier than native woody plants and retains
-its leaves several weeks longer in autumn. This extended growing season allows
+its leaves several weeks longer in autumn. This extended [[extending-growing-season]] allows
 it to intercept a disproportionate share of light and nutrients.
 
 Birds readily consume the abundant red berries and disperse seeds into
-uninvaded areas. However, the nutritional quality of the fruit is lower than
-that of most native species, and some studies suggest it may be detrimental to
-migratory bird health.
-
-Invasive Lonicera maackii has been linked to declines in native tree seedling
-recruitment, reduced herbaceous plant diversity, and altered arthropod
-communities in invaded forests.
-
-## Cultivation
-
-Lonicera maackii was widely planted as an ornamental and wildlife shrub through
-the mid-20th century. It is no longer recommended for planting due to its
-invasive behavior.
-
-The shrub is easily grown from seed or softwood cuttings. It transplants readily
-and establishes quickly in a wide range of site conditions. Growth rate is
-rapid, with plants reaching mature size in 3 to 5 years.
-
-Several cultivars were formerly available in the nursery trade, including
-'Red Rembrandt' and 'Rem Red', selected for heavier fruit production. These are
-no longer sold in most jurisdictions with invasive plant regulations.
-
-Current management recommendations emphasize removal of existing plantings and
-replacement with native alternatives such as elderberry, viburnum, or
-serviceberry.
-
-## Uses and Management
-
-Control of Lonicera maackii requires persistent effort over multiple years due
-to its abundant seed bank and capacity to resprout from cut stumps.
-
-Mechanical removal by pulling or digging is effective for small infestations.
-For larger plants, cutting followed by immediate herbicide application to the
-stump surface prevents resprouting.
-
-Prescribed fire can top-kill established plants but rarely eliminates root
-crowns. It is most effective as part of an integrated management approach
-combined with mechanical or chemical treatments.
-
-Biological control agents have not been approved for Lonicera maackii in North
-America. Research continues into potential insect herbivores from its native
-range in East Asia.
-
-The berries, while attractive to birds, are mildly toxic to humans if consumed
-in quantity. They contain saponins and cyanogenic glycosides.
-
-## See Also
-
-- [[lonicera-japonica]]
-- [[lonicera-caerulea]]
-- [[viburnum-opulus]]
-- [[viburnum-dentatum]]
-- [[sambucus-nigra]]
-- [[elaeagnus-umbellata]]
-- [[vitis-riparia]]
-- [[acer-saccharum]]
+uninvaded areas. However, the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the fruit is lower than

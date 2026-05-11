@@ -88,34 +88,3 @@ and songs given by maestres around a central table. There is also a
 question-and-answer period. Sometimes testimonials of
 life-transformations are offered by longer-term members, reminiscent of
 recovery confessions. Weekly ceremonies range from 20 to several hundred
-participants in specially-built temples.
-
-### Santo Daime
-
-Founded by a Brazilian of African descent, Santo Daime ceremonies
-involve congregational hymn-singing led by a small group of women
-singers. Some ceremonies also involve dancing in simple rhythmic,
-swaying steps, reminiscent of African-American gospel services.
-
-### Barquinia
-
-Less well known outside Brazil, Barquinia has incorporated elements of
-Umbanda, an Afro-Brazilian movement involving contact with deceased
-ancestors and deities known as orixas. Ceremonies involve both singing
-and dancing.
-
-## Bwiti and Iboga in Africa
-
-The Bwiti cult among the Fang people in Gabon and Zaire uses the
-powerful hallucinogen iboga (eboka), from which
-[[entheogen-cimora-folk-healing-ceremony]]
-- [[metzner-ayahuasca-therapeutic-potential]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[peyote-ceremony-guide]]
-
-## See Also
-
-- [[entheogenic-folk-religions]]
-
-- [[susto-andean-folk-illness-category]]
-- [[mithraism-entheogenic-origins]]

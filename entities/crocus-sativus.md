@@ -87,34 +87,3 @@ Additional pharmacological activities documented in the literature include impro
 ## Economic and Cultural Significance
 
 Saffron has commanded premium prices throughout recorded history, serving simultaneously as a spice, dyestuff, perfume ingredient, and ceremonial offering. In medieval Europe, saffron adulteration was a capital offense in several jurisdictions.
-
-The spice has deep cultural significance in Persian, Indian, and Mediterranean cuisines, where it colors and flavors rice dishes, stews, breads, and confections. Persian saffron rice (*chelow ba saffron*) and Spanish paella are among its most iconic culinary applications.
-
-Saffron plays a central role in the religious and cultural traditions of several civilizations. It was scattered on the floors of Greek halls and Roman courts as a sign of hospitality, and Buddhist monks in India dye their robes with saffron-derived pigments.
-
-In Minoan frescoes from Knossos (c. 1600 BCE), saffron gatherers are depicted harvesting stigmas, providing the earliest visual documentation of the crop. The pigment has been identified in textile dyes from ancient Egypt and the Bronze Age Aegean.
-
-The word "saffron" derives from the Arabic *za'farān*, itself possibly from the Persian *zarparān* meaning "golden stigma." This etymological trail mirrors the spice's westward diffusion from its Persian homeland through Arab trade networks into medieval Europe.
-
-## Conservation and Genetic Challenges
-
-As a sterile triploid, *C. sativus* lacks genetic diversity and cannot evolve through sexual recombination, making the crop vulnerable to pests, diseases, and changing climate conditions. Fusarium corm rot (*Fusarium oxysporum*) is the most significant fungal pathogen.
-
-Genetic improvement efforts have focused on somatic embryogenesis, in vitro corm production, and mutation breeding using gamma irradiation and chemical mutagens. Triploid bridge crosses with wild *Crocus* species remain a long-term research objective.
-
-Recent advances in CRISPR-Cas9 genome editing offer a potential pathway for targeted trait improvement without sexual crossing. However, polyploid genome complexity complicates precise gene editing in triploid tissues.
-
-The narrow genetic base of cultivated saffron raises concerns about long-term crop resilience. Germplasm conservation programs in Iran, Spain, and India maintain collections of wild *Crocus* relatives as potential sources of resistance genes and agronomic traits.
-
-## See Also
-
-- [[colchicine]]
-- [[colchicum-autumnale]]
-- [[convallaria-majalis]]
-- [[digitalis-purpurea]]
-- [[ephedra-sinica]]
-- [[galantamine]]
-- [[narcissus-pseudonarcissus]]
-- [[nerium-oleander]]
-- [[papaver-somniferum]]
-- [[vincamine]]

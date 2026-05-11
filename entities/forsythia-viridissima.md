@@ -88,34 +88,3 @@ Antiviral research has demonstrated that forsythiaside inhibits influenza A viru
 Hepatoprotective effects have been observed in animal models, where fruit extracts reduced liver damage induced by carbon tetrachloride and acetaminophen. These effects are attributed to the antioxidant activity of phenylethanoid glycosides present in the fruit.
 
 The ornamental value of F. viridissima lies in its early and prolific flowering, bright yellow color, and clean green summer foliage. It is effective as a specimen shrub, in mixed borders, and as an informal hedge or screen.
-
-Stems with flower buds have been used in the floristry trade as forced branches for indoor arrangements. When cut in late winter and placed in warm water, the buds open within 1–2 weeks, providing early spring color for indoor displays.
-
-## Ecology
-
-In its native range, F. viridissima flowers early in the season and provides an important nectar and pollen source for emerging bees and other pollinators. The tubular corolla is adapted for pollination by medium-tongued bees and bombyliid flies.
-
-The fruit capsules are consumed by several bird species, including thrushes and mockingbirds, which facilitate seed dispersal. Winged seeds can also be dispersed by wind over short distances from the dehisced capsules.
-
-Mammalian herbivory is generally light due to the bitter-tasting bark and foliage. However, deer may browse young shoots in early spring when other forage is scarce, particularly in areas with high deer populations.
-
-The species serves as a host plant for several lepidopteran larvae, though it is not a primary host for any economically significant pest species. Its dense branching structure provides nesting cover for small songbirds in landscape plantings.
-
-Pollination is primarily entomophilous, with bumblebees (Bombus spp.) being the most effective visitors. Flowers produce nectar with moderate sugar concentration (approximately 30% sucrose equivalents) and are attractive to a range of generalist pollinators.
-
-In naturalized populations, F. viridissima contributes to the shrub layer of successional communities along forest edges. It competes effectively with native vegetation due to its rapid growth rate and clonal spread from root suckers.
-
-Autumn foliage color is generally unremarkable, ranging from green to yellowish-green before leaf drop. This limits its ornamental appeal in autumn landscapes compared to other temperate shrubs with reliable fall color.
-
-## See Also
-
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[syringa-oblata]]
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]
-- [[olea-europaea]]
-- [[jasminum-officinale]]
-- [[fraxinus-ornus]]
-- [[rhododendron-maximum]]
-- [[kalmia-latifolia]]

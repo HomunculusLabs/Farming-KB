@@ -15,9 +15,9 @@ The skin is richly endowed with components of the endocannabinoid system. Both C
 The skin's endocannabinoid system plays crucial roles in:
 - **Cell growth and differentiation**: Regulating skin cell turnover
 - **Immune function**: Modulating inflammatory responses in skin
-- **Sebaceous gland activity**: Controlling oil production
+- **Sebaceous gland activity**: Controlling [[cannabis-honey-oil-production]]
 - **Sensory function**: Mediating pain and itch sensation
-- **Hair follicle cycling**: Influencing hair growth patterns
+- **Hair follicle cycling**: Influencing [[blesching-cannabis-hirsutism-unwanted-hair-growth]] patterns
 
 ## Psoriasis
 
@@ -57,7 +57,7 @@ Acne involves overactive sebaceous glands, bacterial colonization, and inflammat
 
 While cannabis is not presented as a cancer cure, cannabinoids have shown potential in dermatological oncology:
 - Anti-proliferative effects on skin cancer cells in laboratory studies
-- Potential to induce apoptosis (programmed cell death) in abnormal skin cells
+- Potential to induce apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) in abnormal skin cells
 - May help manage symptoms of skin cancer treatments (pain, inflammation)
 
 This remains pre-clinical research and cannabis should not replace conventional skin cancer treatment.
@@ -83,25 +83,8 @@ Emerging research suggests cannabinoids may influence wound healing:
 - **Creams and lotions**: Water-based, easier to spread over large areas
 - **Oils and tinctures**: Can be applied directly to skin or added to baths
 - **Patches**: Transdermal delivery for sustained release
-- **Raw cannabis poultices**: [[kava-traditional-preparation-ceremonial-context]] using fresh plant material
+- **[[blesching-cannabis-decarboxylation-and-raw-cannabis]] poultices**: [[kava-traditional-preparation-ceremonial-context]] using fresh plant material
 
 ### Key Considerations for Topical Use
 - Topicals generally do not produce psychoactive effects because cannabinoids do not enter the bloodstream in significant quantities through the skin
 - The addition of terpenes may enhance penetration and provide additional therapeutic benefits
-- Full-spectrum preparations (containing multiple cannabinoids and terpenes) may provide superior results due to the [[cannabis-terpene-entourage-effect-profiles]]
-- Patch testing is recommended before widespread use to check for skin sensitivity
-
-### Combining with (E)-Beta-caryophyllene
-(E)-Beta-caryophyllene is a dietary cannabinoid found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], clove, cinnamon, and other common spices that selectively activates CB2 receptors. It is already used in dermatological preparations and cosmetics, and combining it with cannabis-derived cannabinoids may enhance anti-inflammatory and skin-healing effects.
-
-## Safety and Considerations
-
-- Topical cannabis products are generally well-tolerated with minimal side effects
-- Allergic reactions to cannabis or carrier ingredients are possible but uncommon
-- Open wounds may absorb cannabinoids more readily, increasing systemic effects
-- Consult dermatologist before using cannabis for undiagnosed skin conditions
-- Cannabis should complement, not replace, conventional dermatological treatments
-
-See also: [[cannabis-autoimmune-conditions]], doi entity, [[cannabis-administration-methods-comparison]]
-- [[medicinal-plant-preparations-tinctures-salves-teas]]
-- [[cannabis-cancer-pain-research]]

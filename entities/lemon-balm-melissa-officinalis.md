@@ -1,5 +1,5 @@
 ---
-title: Lemon Balm (Melissa officinalis)
+title: Lemon Balm Melissa Officinalis
 created: 2026-04-28
 updated: 2026-04-28
 date: 2026-04-28
@@ -35,7 +35,7 @@ Kingdom Plantae → Clade Eudicots → Clade Asterids → Order Lamiales → Fam
 
 ## Habitat and Distribution
 
-Native to southern Europe, Mediterranean Basin, and Western/Central Asia. Now naturalized across North and South America, Africa, Australia, and New Zealand. USDA Zones 4–9. Adaptable to most well-drained soils (loam, pH 6.0–7.5); tolerates poor soils and partial shade. Dies back in winter and regrows from crown. Excellent bee forage; attracts honeybees, bumblebees, and hoverflies.
+Native to southern Europe, Mediterranean Basin, and Western/Central Asia. Now naturalized across North and [[guzman-psilocybin-mushrooms-south-america]], Africa, Australia, and New Zealand. USDA Zones 4–9. Adaptable to most well-drained soils (loam, pH 6.0–7.5); tolerates poor soils and partial shade. Dies back in winter and regrows from crown. Excellent [[bee-forage-hive-management-mollison]]; attracts honeybees, bumblebees, and hoverflies.
 
 ## Bioactive Compounds
 
@@ -49,15 +49,15 @@ Native to southern Europe, Mediterranean Basin, and Western/Central Asia. Now na
 
 ### Polyphenols
 
-- **Rosmarinic acid** (3–5%): Potent antioxidant, anti-inflammatory, antiviral; primary compound against herpes simplex virus
+- **Rosmarinic acid** (3–5%): Potent antioxidant, anti-inflammatory, antiviral; primary compound against [[cannabis-antiviral-herpes-simplex-blesching]] virus
 - **Luteolin-7-O-glucoside**: Anxiolytic, GABAergic modulation
 - **Apigenin**: Anxiolytic, binds benzodiazepine site on GABA-A receptor
 - **Quercetin**: Antioxidant, anti-inflammatory, antihistamine
-- **Ursolic acid**: Anti-inflammatory, hepatoprotective, antimutagenic triterpene
+- **[[ursolic-acid]]**: Anti-inflammatory, hepatoprotective, antimutagenic triterpene
 
 ## Traditional Use
 
-- **Ancient Greece**: Paracelsus called it the "elixir of life"; Dioscorides prescribed for bites, stings, and melancholy
+- **[[psychedelic-use-in-ancient-greece]]**: Paracelsus called it the "elixir of life"; Dioscorides prescribed for bites, stings, and melancholy
 - **Medieval Europe**: "Balm tea" for longevity, heart health, emotional balance; Carmelite Water as nervine tonic
 - **Culinary**: Flavoring for teas, salads, fruit dishes, jams, liqueurs (Bénédictine, Chartreuse); beekeeping herb
 
@@ -88,57 +88,3 @@ Combination products with valerian improve sleep quality and reduce latency. Spa
 - **Cuttings**: Softwood stem cuttings root readily in summer; 10–15 cm stems
 
 ### Parameters
-
-Spacing 30–45 cm. Full sun to partial shade. Moderate water (2.5 cm/week); drought-tolerant once established. Low to moderate fertility; excess nitrogen reduces essential oil content.
-
-### Harvest
-
-Harvest leaves throughout the [[savory-growing-season-and-non-growing-season-management]]; peak essential oil content just before flowering. Cut stems 5–10 cm above ground; regrows rapidly. 2–4 cuttings per season. Dry in warm, dark, well-ventilated area at ≤40 °C to preserve volatile oils.
-
-## Permaculture Applications
-
-- **Pollinator support**: Exceptional bee forage; plant near vegetables and fruit trees to boost pollination
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Repels cabbage moths, squash bugs, and mosquitoes; benefits tomatoes, peppers, brassicas
-- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]**: Dense spreading habit suppresses weeds in perennial borders
-- **Beekeeping**: Historically rubbed inside new hives to attract swarms
-- **Chop-and-drop**: Green mulch with mild allelopathic weed suppression
-
-## Safety Profile
-
-- **Thyroid**: May inhibit thyroid hormone binding; monitor in hypothyroid patients on medication
-- **Pregnancy**: Traditional emmenagogue; moderate consumption likely safe but consult practitioner
-- **Sedation**: May potentiate CNS depressants and sedative medications
-- **Allergy**: Rare; possible cross-reactivity with other Lamiaceae members
-
-## Preparations and Dosage
-
-### Standardized Extracts
-
-- **Cyracos®** (standardized to 7% rosmarinic acid): 300 mg 2× daily for anxiety; [[psilocybin-clinical-trial-landscape-2020-2025]] dose
-- **Blended preparations**: Often combined with valerian (*Valeriana officinalis*) at 2:1 to 3:1 valerian:lemon balm ratio for sleep support
-
-### Traditional Preparations
-
-- **Infusion (tea)**: 1.5–4 g dried herb in 150 mL hot water, covered, steep 10–15 minutes; drink 2–3 cups daily
-- **Tincture** (1:5, 45% ethanol): 2–4 mL 3× daily
-- **Fresh juice**: 10–15 mL pressed from fresh aerial parts, 2× daily
-- **External**: Compress of strong infusion for cold sores; apply 3–4× daily at first symptom
-
-### Harvest Timing for Maximum Potency
-
-Essential oil and rosmarinic acid concentrations peak just before flowering (late spring to early summer). Harvest in late morning after dew dries but before peak heat volatilizes [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. Second harvest in early autumn has lower oil content but higher rosmarinic acid — suitable for tinctures over aromatic preparations.
-
-## Companion Planting Guide
-
-Lemon balm's pest-repellent and pollinator-attracting properties make it a versatile garden companion:
-
-- **Tomatoes**: Repels whiteflies and tomato hornworms; improves fruit set via pollinator support
-- **Brassicas**: Deters cabbage white butterflies and cabbage moths with aromatic oils
-- **Squash and cucumbers**: Repels squash bugs; attracts pollinators for better fruit set
-
-## See Also
-- [[herbal-medicine-making-basics]]
-- [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-- [[melissa-officinalis]]
-- [[companion-planting]]
-- [[valeriana-officinalis]]

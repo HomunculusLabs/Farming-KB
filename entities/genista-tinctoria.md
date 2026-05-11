@@ -13,7 +13,7 @@ sources:
   - Tutin, T.G. et al. (1968). "Flora Europaea, Vol. 2." Cambridge University Press.
   - Schaefer, H. (2012). "Biogeography, Evolution, and Systematics of Genista L." Botanical Journal of the Linnean Society, 169(4), 552-576.
   - Hill, T.A. (1977). "Economic Botany: A Textbook of Useful Plants and Plant Products." McGraw-Hill.
-  - Isely, D. (1998). "Native and Naturalized Leguminosae (Fabaceae) of the United States." Monte L. Bean Life Science Museum.
+  - Isely, D. (1998). "Native and Naturalized Leguminosae (Fabaceae) of the [[dmt-containing-plants-united-states-halpern]]." Monte L. Bean Life Science Museum.
   - Polunin, O. & Walters, M. (1985). "A Guide to the Vegetation of Britain and Europe." Oxford University Press.
 ---
 
@@ -53,7 +53,7 @@ The fruit is a linear, compressed legume pod 15 to 30 millimeters long, containi
 
 Genista tinctoria is widely distributed across temperate Europe and extends into western Asia. Its native range spans from the British Isles and Scandinavia in the north to the Mediterranean region, and eastward through central Europe to the Caucasus and western Siberia.
 
-The species has been naturalized in parts of North America, particularly in the northeastern United States and eastern Canada. It is considered an introduced species in these regions but does not typically exhibit aggressive invasive behavior.
+The species has been naturalized in parts [[berry-growing]], particularly in the northeastern United States and eastern Canada. It is considered an introduced species in these regions but does not typically exhibit aggressive invasive behavior.
 
 Dyer's greenweed prefers open, well-drained habitats with acidic to neutral soils. It is commonly found in dry grasslands, heathlands, sandy pastures, coastal dunes, and open woodland margins.
 
@@ -67,15 +67,15 @@ It occurs at elevations from sea level to approximately 1,500 meters in its sout
 
 The primary historical use of Genista tinctoria is as a source of yellow dye. The flowering stems and leaves contain the flavonoid dye compounds luteolin and apigenin, which produce a vivid, light-fast yellow color on wool, silk, and linen.
 
-Traditional dyeing methods involved harvesting the aerial parts during full bloom and steeping them in water with an alum mordant. The resulting yellow could be combined with woad (Isatis tinctoria) to produce green shades.
+Traditional dyeing methods involved harvesting the aerial parts during full bloom and steeping them in water with an alum mordant. The resulting yellow could be combined with woad ([[isatis-tinctoria]]) to produce green shades.
 
-Dyer's greenweed was one of the most important European dye plants before the introduction of synthetic dyes in the mid-19th century. It was cultivated commercially in parts of England, Germany, and France specifically for the dye trade.
+Dyer's greenweed was one of the most important European dye plants before the introduction [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste]] in the mid-19th century. It was cultivated commercially in parts of England, Germany, and France specifically for the dye trade.
 
 **Ornamental Use:**
 
 The species is valued in horticulture for its bright yellow flowers and compact, bushy habit. Several cultivars have been selected, including 'Flore Pleno' with double flowers and 'Royal Gold' with deeper yellow coloring.
 
-It is suitable for rock gardens, border plantings, and informal hedgerows in temperate climates. The plant is relatively low-maintenance once established and tolerates drought, poor soils, and coastal exposure.
+It is suitable for rock gardens, border plantings, and informal hedgerows [[query-how-to-grow-and-use-oca-in-temperate-climates]]. The plant is relatively low-maintenance once established and tolerates drought, poor soils, and coastal exposure.
 
 **Forage and Agricultural Use:**
 
@@ -88,34 +88,3 @@ However, in mixed pastures where animals can selectively graze, it is generally 
 As a member of the Faboideae subfamily, Genista tinctoria forms root nodules hosting Bradyrhizobium bacteria that fix atmospheric nitrogen. This capability enriches the soil and supports the growth of neighboring plants in nutrient-poor communities.
 
 The flowers are visited by a range of pollinators, particularly long-tongued bees such as bumblebees (Bombus spp.). The papilionaceous flower structure requires bees of sufficient size and tongue length to access the nectar and effect pollination.
-
-The seeds are dispersed by explosive dehiscence of the mature pods during dry weather. This ballistic dispersal mechanism can scatter seeds up to several meters from the parent plant.
-
-Dyer's greenweed serves as a host plant for the larvae of several Lepidoptera species, including the genista broom moth (Uresiphita reversalis) and the clouded yellow butterfly (Colias croceus).
-
-In heathland and grassland ecosystems, it contributes to structural diversity and provides shelter for ground-dwelling invertebrates. Its dense, low growth form helps stabilize sandy soils and prevent erosion.
-
-## Chemistry and Pharmacology
-
-The aerial parts of Genista tinctoria contain several bioactive alkaloids and flavonoids. The primary alkaloids are quinolizidine derivatives, with cytisine being the most abundant and pharmacologically significant compound.
-
-Cytisine is a nicotinic acetylcholine receptor partial agonist with affinity for the α4β2 receptor subtype. It has been investigated as a smoking cessation aid, particularly in Eastern Europe where it has been used commercially under the brand name Tabex.
-
-Additional alkaloids identified in the species include N-methylcytisine, anagyrine, and sparteine. These compounds contribute to the plant's toxicity and bitter taste, which deter herbivory.
-
-The flavonoid profile includes luteolin, apigenin, genistein, and their glycosides. Luteolin-7-O-glucoside and apigenin-7-O-glucoside are the principal dye compounds responsible for the yellow coloration used in textile dyeing.
-
-Genistein, an isoflavone found in the genus, has been studied for its phytoestrogenic activity and potential anti-cancer properties. However, concentrations in G. tinctoria are lower than in soy (Glycine max) and other isoflavone-rich legumes.
-
-## See Also
-
-- [[baptisia-tinctoria]]
-- [[caragana-arborescens]]
-- [[wisteria-sinensis]]
-- [[robinia-pseudoacacia]]
-- [[baptisia-australis]]
-- [[melilotus-officinalis]]
-- [[onobrychis-viciifolia]]
-- dye plants
-- [[permaculture]]
-- [[mycorrhiza]]

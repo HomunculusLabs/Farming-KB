@@ -33,7 +33,7 @@ The minimum recommended scale for a commercial venture is 7,500 square feet, unl
 
 In computing the probable expenses of mushroom growing, the following items should be included:
 - Rent or depreciation
-- Compost (stable manure, delivery)
+- Compost ([[duggar-stable-manure-selection-compost-materials]], delivery)
 - Soil (for casing)
 - Implements
 - Labor
@@ -86,19 +86,5 @@ Mushrooms may be shipped considerable distances during winter months. If properl
 ## The Spawn Industry
 
 The price of [[cuthill-mushroom-spawn-preparation-historical]] varies considerably depending upon quality:
-- Standard American brick spawn (inoculated from pure culture): premium pricing
+- Standard American [[french-flake-spawn-vs-brick-spawn]] (inoculated from [[mushroom-spawn-making-and-pure-culture-methods]]): premium pricing
 - English imported brick spawn: a few cents less per brick, but subjected to longer shipment and storage
-
-The success of spawn of pure culture origin has been so great that from 80 to 90 percent of the mushrooms grown during the season of 1913-1914 were reported to have been from American spawn of this type. Some American spawn was actually exported to Europe.
-
-## Florists as Mushroom Growers
-
-Formerly, florists furnished a considerable and often dominant portion of the mushroom supply. By them the work was conducted as a side line, utilizing the available space under the greenhouse benches during the colder months. This remains a viable approach for those with existing greenhouse infrastructure.
-
-## Related
-
-- [[duggar-mushroom-marketing-economics-1915]]
-
-- [[duggar-mushroom-history-and-overview]] - Development of the mushroom industry
-- [[duggar-mushroom-harvest-and-post-harvest]] - Packaging and shipping for market
-- [[duggar-mushroom-spawn-preparation]] - Spawn as a cost factor

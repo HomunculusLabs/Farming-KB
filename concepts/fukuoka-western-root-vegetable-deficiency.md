@@ -1,5 +1,5 @@
 ---
-title: Fukuoka on fukuoka western root vegetable deficiency Vegetable Deficiency
+title: Fukuoka Western Root Vegetable Deficiency
 created: 2026-04-28
 tags: [fukuoka, diet, food-philosophy, vegetables, nutrition, cultural-comparison]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka on Western Root Vegetable Deficiency
 
-During his travels through Europe and America, Masanobu Fukuoka was
+During his travels through Europe and America, [[masanobu-fukuoka]] was
 struck by the remarkably limited variety of vegetables grown and eaten
 in Western countries. He observed that Westerners eat leafy vegetables
 but almost no [[growing-root-vegetables-guide]], consuming only half of what they should
@@ -19,7 +19,7 @@ for proper nutrition and health.
 ## The Limited Western Vegetable Palette
 
 While in Europe and America, Fukuoka was surprised at the small variety
-of vegetables grown and eaten there. About the only root vegetables that
+of vegetables grown and eaten there. About the only [[hamilton-root-vegetables-growing]] that
 Europeans and Americans seem to eat in any quantity are carrots. There
 is plenty of burdock growing wild, but no one eats it. They do not even
 think of this as a food.
@@ -63,7 +63,7 @@ When Fukuoka was in Europe, he talked to people in Italy and everywhere
 else he went about sweet potatoes. Although they could grow sweet potatoes
 quite easily there, almost no one seemed to know about this vegetable. Once
 he even began a talk to a group of local farmer's wives by telling them
-about his special high-yield method of sweet potato cultivation.
+about his special high-yield method of [[comparison-potato-vs-sweet-potato-cultivation]].
 
 The potential for introducing nutritious root vegetables to Western diets
 was, in his view, enormous and largely untapped. The sweet potato in
@@ -87,45 +87,3 @@ together the best out-of-season foods from the supermarket shelves,
 one cannot create from this a true feast.
 
 ## The Historical Dietary Divide
-
-The dietary differences between East and West have deep historical roots.
-The nomadic peoples of the cold northern countries hunted and enjoyed
-animal flesh. They became meat-eaters to make up for the shortage of
-grains. In Europe and America, the practice arose of using wheat, which
-grows well on cold, dry, elevated ground, as the dietary mainstay, and
-eating also a lot of meat.
-
-Once wheat was ground into flour, processed, and made into bread, it was
-a convenient food. It spread first among nomadic peoples because it could
-be preserved and was convenient to carry. In the warm, humid subtropics
-however, [[fukuoka-natural-upland-rice-minor-grains]] was grown in hilly, elevated locations, and paddy
-rice on flat land.
-
-## The Proper Question
-
-For Fukuoka, the question of what to eat was misplaced. All man had to
-do was to follow the course of nature and feed randomly on the foods that
-arise naturally in the region that he lives. The question to ask is not
-what to grow here, but what grows here. Will it not suffice to take as
-the staple food for winter the rice harvested in the fall, and to take
-as the food for summer the barley gathered in late spring?
-
-The Japanese farmer did not ask what food to grow and eat. He simply
-harvested and ate what grew naturally in his fields in each passing
-season. And he cooked this food in accordance with the principles of
-nature.
-
-## Connection to Natural Diet Philosophy
-
-This observation about root vegetables connects to Fukuoka's broader
-natural diet philosophy: that health comes from eating locally, seasonally,
-and in harmony with what nature provides. The Western diet, dominated by
-meat and processed wheat, represents a fundamental departure from this
-principle, with consequences for both individual health and the health of
-the land.
-
-## See Also
-
-- [[fukuoka-five-grains-food-mandala]]
-- [[fukuoka-diet-blood-thought-civilization]]
-- [[fukuoka-natural-diet-four-types]]

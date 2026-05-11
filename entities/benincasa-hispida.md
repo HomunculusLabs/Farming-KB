@@ -10,18 +10,19 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Jeffrey C (2001). "Cucurbitaceae." In: Hanelt P, Institute of Plant Genetics and Crop Plant Research (eds.), Mansfeld's Encyclopedia of Agricultural and Horticultural Crops.
   - Dhiman AK (2012). "Benincasa hispida: A Potential Healing Plant." Asian Journal of Traditional Medicines, 7(2), 51-61.
   - Morton JF (1971). "The Wax Gourd, Benincasa hispida." Proceedings of the Florida State Horticultural Society, 84, 120-125.
   - Acharya D et al. (2006). "Some wild edible plants of Sikkim." Natural Product Radiance, 5(5), 398-404.
-  - Grover JK, Yadav SP (2004). "Pharmacological actions and potential uses of Momordica charantia." Journal of Ethnopharmacology, 93(1), 123-132.
+  - Grover JK, Yadav SP (2004). "Pharmacological actions and potential uses of [[momordica-charantia]]." Journal of Ethnopharmacology, 93(1), 123-132.
 ---
 
 ## Overview
 
 **Benincasa hispida**, commonly known as winter melon, ash gourd, wax gourd, or white gourd, is a large annual vine in the family Cucurbitaceae cultivated for its edible fruit.
 
-It is one of the most widely grown vegetables in South, Southeast, and East Asia, valued both as a culinary staple and in traditional medicine systems including Ayurveda and Traditional Chinese Medicine.
+It is one of the most widely grown vegetables in South, Southeast, and [[neurotropic-fungi-japan-east-asia-species-cultural-context]], valued both as a culinary staple and in traditional medicine systems including Ayurveda and Traditional Chinese Medicine.
 
 The mature fruit develops a characteristic waxy coating that provides exceptional post-harvest storage life, often lasting several months at ambient temperatures without refrigeration.
 
@@ -55,7 +56,7 @@ Seeds are oval, flat, white, approximately 1 cm long, embedded in white spongy f
 
 Cultivation extends across South Asia (India, Bangladesh, Sri Lanka), [[psilocybe-southeast-asia-pacific]] (China, Vietnam, Thailand, Indonesia, Philippines), and increasingly in Africa and tropical America.
 
-The plant thrives in warm, humid tropical and subtropical climates at elevations up to 1500 meters, requiring mean temperatures of 20–30°C for optimal growth.
+The plant thrives in warm, humid tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] at elevations up to 1500 meters, requiring mean temperatures of 20–30°C for optimal growth.
 
 It performs best in well-drained sandy loam to loam soils with pH 6.0–7.0 and moderate fertility, though it tolerates poorer soils better than many cucurbits.
 
@@ -79,36 +80,10 @@ In Ayurvedic medicine, the fruit is classified as cooling, diuretic, and digesti
 
 Pharmacological studies have demonstrated hypoglycemic activity in diabetic rat models, with the fruit extract reducing blood glucose levels through enhanced insulin secretion and peripheral glucose uptake.
 
-Anti-inflammatory and antioxidant properties have been documented in the fruit pulp and seeds, attributed to triterpenoids, flavonoids, and phenolic compounds.
+Anti-inflammatory and antioxidant properties have been documented in the fruit pulp and seeds, attributed to triterpenoids, flavonoids, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]].
 
 The mucilaginous gel extracted from the fruit rind has been used traditionally as a topical wound dressing and to treat burns and skin eruptions.
 
 ## Permaculture and Agroforestry Applications
 
 Winter melon's vigorous vine growth and large leaf canopy provide effective [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical food forests, suppressing weeds and reducing soil moisture loss through evaporation.
-
-The plant can be intercropped with maize, cassava, and [[comparison-pigeon-pea-vs-cowpea]] in tropical polyculture systems, where its climbing habit utilizes vertical space above shorter companion crops.
-
-Mature fruit left unharvested can be used as animal fodder, providing a low-cost supplemental feed source for livestock during dry seasons when other forage is scarce.
-
-The long storage life of harvested fruit makes it a valuable component in food security strategies for regions with seasonal food scarcity.
-
-## Cultivation
-
-*Benincasa hispida* is propagated by seed, direct-sown or transplanted, with a germination period of 7–14 days under warm, moist conditions.
-
-Spacing is typically 1.5–2.0 meters between plants, with trellising recommended to improve fruit quality, reduce disease pressure, and maximize land-use efficiency.
-
-The crop requires adequate moisture throughout the [[savory-growing-season-and-non-growing-season-management]] but is relatively drought-tolerant once established compared to other cucurbits.
-
-Flowering begins 45–60 days after sowing, with fruit maturing 80–120 days from planting. The mature fruit's waxy coating enables storage at room temperature for 3–6 months.
-
-Common pests include fruit flies (*Bactrocera* spp.), aphids, and red pumpkin beetle (*Aulacophora foveicollis*). [[cervantes-powdery-mildew-prevention-treatment]] (*Podosphaera xanthii*) and [[cervantes-downy-mildew-fungal-blight]] are the most prevalent diseases.
-
-## See Also
-
-- [[lagenaria-siceraria]]
-- [[tropaeolum-majus]]
-- [[psophocarpus-tetragonolobus]]
-- [[ipomoea-batatas]]
-- [[moringa-oleifera]]

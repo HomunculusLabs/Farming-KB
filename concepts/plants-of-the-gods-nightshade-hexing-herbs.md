@@ -49,7 +49,7 @@ when several kinds were recognized and the black variety (H. niger) was
 considered most potent, capable of causing insanity. The ancient
 Egyptians recorded their knowledge in the Ebers Papyrus (1500 BCE).
 Homer described magic drinks with effects indicative of Henbane as a
-major ingredient. In ancient Greece, it served as a poison, to mimic
+major ingredient. [[psychedelic-use-in-ancient-greece]], it served as a poison, to mimic
 insanity, and to enable prophesy. It has been suggested that the
 priestesses at the Oracle of Delphi made their prophetic utterances
 while intoxicated with smoke from Henbane seeds.
@@ -74,12 +74,12 @@ of the berry juice to dilate pupils. The yellow variety (A. belladonna
 var. lutea) is regarded as particularly potent for magic and
 witchcraft. The bell-shaped flowers clearly show its Nightshade family
 membership. In medieval Europe, Belladonna was one of the principal
-ingredients in flying ointments and witches' brews.
+ingredients in [[witches-fungi-and-flying-ointments]] and witches' brews.
 
 ## Mandrake (Mandragora officinarum)
 
-The Mandrake holds a legendary position in European folklore. Hugo
-Rahner wrote: "The Mandrake is the Tree of Knowledge and the burning
+The Mandrake holds a legendary position in [[shroom-european-folklore]]. Hugo
+Rahner wrote: "The Mandrake is the [[stropharia-cubensis-tree-of-knowledge]] and the burning
 love ignited by its pleasure is the origin of the human race." The
 ancient goddess of witches, Hecate, lords over the psychoactive and
 magical herbs, particularly those in the Nightshade family.
@@ -88,45 +88,3 @@ The anthropomorphic root of the Mandrake was believed to scream when
 pulled from the ground, killing whoever heard it. The Greek herbalist
 Dioscorides was depicted receiving the Mandrake from Heuresis,
 goddess of discovery, illustrating the belief that this medicine was a
-plant of the gods. The flowers bloom very briefly and then quickly
-vanish, adding to the plant's mysterious reputation.
-
-## Witchcraft and the Sabbat
-
-The extraordinary reputation of these plants is due primarily to their
-bizarre psychoactivity and similarity in chemical constitution. Their
-use in medieval [[harner-european-witchcraft-hallucinogens]] was widespread, with preparations
-ranging from drinks and salves to fumigations. The "flying ointment"
-applied to mucous membranes produced sensations of levitation and
-transport to the sabbat — in reality, the tropane alkaloid-induced
-delirium creating these powerful hallucinatory experiences.
-
-## Ancient Greece and the Oracle of Delphi
-
-The Delphic Oracle was one of the most important religious institutions
-of the ancient Greek world. The priestess known as the Pythia delivered
-prophecies while seated on a tripod over a chasm emitting intoxicating
-vapors. Scholars have long debated whether these vapors contained
-tropane alkaloids derived from Henbane or other solanaceous plants.
-The prophetic trance state described in ancient accounts — including
-altered speech, convulsive movements, and visionary experiences — is
-consistent with scopolamine intoxication.
-
-## Legacy in Modern Culture
-
-The Nightshade hallucinogens represent a fundamentally different class
-from other psychoactive plants. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] or peyote,
-which typically produce vivid visual experiences within clear
-consciousness, the tropane alkaloids induce a true delirium with
-complete amnesia. This distinction led Albert Hofmann to classify them
-separately from other hallucinogens. Their legacy persists in
-folklore, literature, and the history of pharmacology, where atropine
-remains one of the most important medicinal compounds derived from
-poisonous plants.
-
-## Related Topics
-
-- [[henbane-hyoscyamus-niger-ethnobotany]] - Henbane ethnobotany
-- [[european-witchcraft-hallucinogenic-plants]] - European witchcraft
-- [[solanaceous-hallucinogens-pharmacology]] - pharmacology
-- [[harner-european-witchcraft-hallucinogens]] - Harner's analysis

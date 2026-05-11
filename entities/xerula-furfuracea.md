@@ -12,7 +12,7 @@ sources:
   - Pegler, D.N. (1983). "The genus Xerula." Kew Bulletin, 38(3), 423-440.
   - Redhead, S.A. et al. (1987). "Xerula and related genera." Mycotaxon, 28, 501-519.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
-  - Arnolds, E. (2005). "The conservation of Xerula species in Europe." Czech Mycology, 57, 1-8.
+  - Arnolds, E. (2005). "The conservation of Xerula species in Europe." Czech [[mycology]], 57, 1-8.
 created: 2026-05-07
 ---
 
@@ -62,9 +62,9 @@ The stipe is tough, cartilaginous, pale grey-brown above and darker below, with 
 
 ## Distribution and Habitat
 
-Xerula furfuracea has a wide distribution across temperate regions of [[psilocybin-north-america-pacific-northwest]], Europe, and parts of Asia.
+Xerula furfuracea has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of [[psilocybin-north-america-pacific-northwest]], Europe, and parts of Asia.
 
-In North America, it occurs from eastern Canada to the southeastern [[dmt-containing-plants-united-states-halpern]], with scattered reports from the Pacific Northwest.
+In [[guzman-psilocybin-mushrooms-north-america]], it occurs from eastern Canada to the southeastern [[dmt-containing-plants-united-states-halpern]], with scattered reports from the Pacific Northwest.
 
 The species fruits from late spring through autumn, typically appearing after sustained rainfall.
 
@@ -87,41 +87,3 @@ Caution is advised when collecting any Xerula species, as they can be confused w
 There are no well-documented cases of poisoning from X. furfuracea specifically, but the genus is insufficiently studied for culinary recommendations.
 
 The species is of minor interest to commercial foragers and is primarily of mycological rather than gastronomic importance.
-
-## Ecological Role
-
-As a primary decomposer of buried hardwood roots and [[fungal-succession-woody-debris-ecology]], Xerula furfuracea plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-Its deeply rooting stipe is a morphological adaptation that allows efficient colonization of woody substrates at or below the soil surface.
-
-The species contributes to the breakdown of recalcitrant lignin and cellulose in buried wood, releasing nutrients back into the soil profile.
-
-Xerula species are among the few agarics capable of sustained fruiting from deeply buried wood, occupying a niche with limited competition.
-
-Their fruiting bodies serve as a food source for various invertebrates and small mammals in forest ecosystems.
-
-## Bioactive Compounds
-
-Limited research has been conducted on the bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] of Xerula furfuracea.
-
-Related Xerula species have yielded compounds with reported antimicrobial and cytotoxic activities in preliminary screening studies.
-
-Furfuraceol, a sesquiterpenoid compound, has been isolated from the fruiting bodies and shows moderate antifungal activity in vitro.
-
-The species contains typical fungal polysaccharides, including β-glucans, which are of interest for immunomodulatory research.
-
-No significant medicinal applications have been developed from this species to date.
-
-Further phytochemical investigation of Xerula species may reveal compounds of pharmacological interest given the genus's taxonomic diversity.
-
-## See Also
-
-- [[xerula-meadowii]]
-- [[xerula-megacystis]]
-
-- [[agaricus-xanthodermus]]
-- [[coprinus-comatus]]
-- [[trametes-versicolor-entity]]
-- [[psilocybe-cubensis]]
-
-- [[tubaria-furfuracea]]

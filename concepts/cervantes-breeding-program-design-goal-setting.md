@@ -1,5 +1,5 @@
 ---
-title: cervantes breeding [[jadam-fertilizer-program-design]] goal setting Design and Goal Setting
+title: Cervantes Breeding Program Design Goal Setting
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

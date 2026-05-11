@@ -1,7 +1,7 @@
 ---
-title: Water Cycle Management
+title: Savory Water Cycle Management
 created: 2026-04-26
-aliases: [effective water cycle, water infiltration, [[permplant-willows-salix-erosion-control-fodder]], watershed management]
+aliases: [effective water cycle, water infiltration, [[permplant-willows-salix-erosion-control-fodder]], [[ozier-pdc-hydro-cycle-and-watershed-management]]
 tags: [water-cycle, infiltration, erosion-control, watershed, soil-health]
 related: [savory-holistic-management-overview, savory-desertification-causes, savory-land-monitoring]
 type: concept
@@ -35,7 +35,7 @@ Soil cover protects the surface from raindrop impact and preserves crumb structu
 1. **Erect growing plants**: Intercept rainfall so drops hit the ground with less energy
 2. **Dead, prone plant material (litter)**: Slows the flow of water across the land, allowing more time for infiltration
 
-In nonbrittle environments, soil cover is seldom a problem because plants are closely spaced and dead material stays in place through biological decay. In brittle environments, old plant material falls slowly through oxidation, and wide plant spacings allow wind and water to carry litter away.
+In [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], soil cover is seldom a problem because plants are closely spaced and dead material stays in place through biological decay. In brittle environments, old plant material falls slowly through oxidation, and wide plant spacings allow wind and water to carry litter away.
 
 ## Consequences of Noneffective Water Cycles
 
@@ -69,7 +69,7 @@ Plants must have air as well as water. They grow best when soil particles have a
 3. Impervious layers of clay or rock that inhibit drainage
 4. A sealed or capped soil surface that reduces the soil's ability to breathe
 
-Good aeration favors broad-leaved grasses and other plants with rapid growth potential. Poor aeration favors narrow-leaved, waxy plants with slow growth rates—conditions that also stress plants and make them more vulnerable to insect damage.
+Good aeration favors broad-leaved grasses and other plants with rapid growth potential. Poor aeration favors narrow-leaved, waxy plants with slow [[coleman-sunlight-and-winter-crop-growth-rates]]—conditions that also stress plants and make them more vulnerable to insect damage.
 
 ## Engineering vs. Ecological Solutions
 
@@ -88,15 +88,3 @@ The earliest warnings are visible on the soil surface:
 - **Declining water levels**: Wells and springs producing less water
 
 Savory documented a ranch awarded "Best Managed Ranch of the Year" where transects showed 97 percent of soil surface between plants was bare, exposed, and visibly eroding. Another supposedly perfect ranch showed serious erosion on 95 percent of its area.
-
-## The Leverage Point
-
-The leverage point for doubling effective rainfall lies in covering the soil and maintaining crumb structure. In brittle environments, this requires periodic disturbance through [[savory-animal-impact-and-herd-effect]] to break capped surfaces, incorporate litter, and create conditions for new plant establishment. Combined with planned grazing that maintains adequate plant cover, this can dramatically improve water cycles and reverse desertification.
-
-## Sources
-
-- Savory, Allan. *Holistic Resource Management*, Chapter 10. Island Press, 1988.
-
-- [[keyline-design-water-management]]
-- [[permaculture-earthworks-and-water-harvesting]]
-- [[fukuoka-natural-livestock-integration-philosophy]]

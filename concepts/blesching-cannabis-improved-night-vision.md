@@ -87,30 +87,3 @@ to navigate and spot fish in darkness. Similarly, Jamaican fishermen using
 [[query-how-to-make-cannabis-tinctures-at-home]] reported improved night vision that facilitated their work.
 
 ## Broader Ophthalmological Implications
-
-The finding that cannabinoids affect retinal function has implications beyond
-night vision. The [[blesching-cannabis-glaucoma]])
-- Reducing retinal inflammation (relevant to [[blesching-cannabis-age-related-macular-degeneration]])
-- Potentially slowing retinal degenerative diseases
-
-## Clinical Considerations
-
-While the night vision findings are promising, several factors warrant
-caution:
-
-- The study was small (4 subjects) and preliminary
-- Individual responses to cannabinoids vary significantly
-- The psychoactive effects of THC may impair other visual and cognitive
-  functions even while improving scotopic sensitivity
-- Dose-response relationships have not been fully characterized
-- The long-term effects of cannabinoid use on retinal health are unknown
-
-Patients considering cannabis for ocular conditions should consult with an
-ophthalmologist and consider the full range of available treatments.
-
-## Future Research Directions
-
-Key areas for future investigation include:
-
-- Larger controlled studies confirming night vision improvements
-- Dose-response curves for scotopic sensitivity enhancement

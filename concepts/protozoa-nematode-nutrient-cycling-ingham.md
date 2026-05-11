@@ -88,21 +88,3 @@ available for specific beneficial nematode groups.
 Anaerobic conditions are fatal to these organisms. Anaerobic brews do not
 contain flagellates, amoebae, or nematodes, and therefore cannot cycle
 nutrients. Nutrients become immobilized in bacterial biomass with no predators
-to release them, and nitrogen is lost as ammonia, [[nitrous-oxide]], or hydrogen
-sulfide gas.
-
-## The Slow-Release Fertilizer Mechanism
-
-The combined action of protozoa and nematodes in soil creates what Ingham
-describes as nature's slow-release fertilizer system. Unlike synthetic
-fertilizers that release nutrients rapidly and then are gone (or leached, or
-volatilized), the biological nutrient cycling system provides a steady,
-matched supply of nutrients that responds to plant demand. The plant signals
-its needs through [[mycorrhizal-root-exudates-pathogen-interactions]]; microbes respond; predators cycle nutrients;
-the plant absorbs what it needs. This self-regulating loop is the foundation of
-sustainable soil fertility and the primary reason Ingham advocates building the
-full soil food web rather than relying on external nutrient inputs.
-
-## See Also
-
-- [[ingham-protozoa-nutrient-cycling]]

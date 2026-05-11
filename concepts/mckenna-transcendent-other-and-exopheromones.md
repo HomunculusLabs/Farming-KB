@@ -87,36 +87,3 @@ McKenna proposes that psilocybin's unique pharmacological profile produced adapt
 ### Level 1: Low Doses (Visual Acuity Enhancement)
 
 Citing Roland Fischer's research from the late 1960s, in which small amounts of psilocybin improved subjects' ability to detect when previously parallel lines became skewed, McKenna argues that low doses of psilocybin consumed incidentally while browsing for food would have provided enhanced visual acuity, particularly edge detection. This "chemical binoculars" effect would improve hunting success, giving individuals who regularly consumed the mushroom an adaptive advantage.
-
-Fischer's summary: "You see what is conclusively proven here is that under certain circumstances one is actually better informed concerning the real world if one has taken a drug than if one has not."
-
-Partnership groups containing individuals with improved eyesight would more successfully feed their offspring, leading to higher reproductive rates and the out-breeding or decline of non-psilocybin-using groups.
-
-### Level 2: Moderate Doses (Sexual Arousal and Social Bonding)
-
-At slightly higher doses, psilocybin acts as a CNS stimulant, triggering restlessness and sexual arousal. By increasing instances of copulation, the mushrooms directly favored human reproduction. McKenna proposes that the tendency to regulate and schedule sexual activity by linking it to the lunar cycle of mushroom availability may have been important as a first step toward ritual and religion.
-
-### Level 3: High Doses (Full Shamanic Ecstasy)
-
-The highest level produces the full-blown shamanic ecstasy: "a rapture whose breadth and depth is the despair of prose." The boundary-dissolving qualities predispose groups to community bonding, group sexual activities that promote gene mixing, higher birth rates, and a communal sense of responsibility for group offspring. This level provides access to realms of "supernatural power" and the experience of the Transcendent Other.
-
-McKenna argues that psilocybin is unique among psychoactive substances in its ability to yield this three-level scenario.
-
-## The Ur Plant: Stropharia cubensis
-
-By a process of elimination among candidate psychoactive plants, McKenna identifies Stropharia cubensis as the most likely candidate:
-
-- DMT-containing grasses would require extraction/concentration beyond early hominid technical capacity
-- Ergot (source of LSD-type compounds) has no significant history of use in Africa
-- [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue, source of [[turner-harmala-alkaloids-preparation-and-dosage]]) requires combination with DMT and has no confirmed African hallucinogenic use
-- Stropharia cubensis alone is pandemic in tropical regions wherever zebu-type cattle graze, contains psilocybin in concentrated amounts, and is free of nausea-producing compounds
-
-Archaeological evidence from Non Nak Tha, Thailand (dated to 15,000 B.P.) shows zebu cattle bones coincident with human graves, with Stropharia cubensis common in the area today. McKenna suggests this pattern "supports the notion that mushroom use was a human trait that emerged wherever human populations and cattle evolved together."
-
-## The Non-Lamarckian Argument
-
-McKenna explicitly addresses the charge of Lamarckism (the discredited idea that acquired characteristics can be inherited). His defense: the presence of psilocybin in the hominid diet changed the parameters of natural selection by changing the behavioral patterns upon which selection was operating. Experimentation with many food types caused a general increase in random mutations, while the augmentation of visual acuity, language use, and ritual activity through psilocybin represented new behaviors that natural selection could act upon. The key insight is that new behaviors create new selective pressures, which favor mutations supporting those behaviors.
-
-## Controversy and Reception
-
-The Stoned Ape hypothesis has been criticized on several grounds:

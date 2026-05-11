@@ -1,10 +1,10 @@
 ---
-title: Mushroom query-difference-between-pasteurization-and-sterilization-mushroom-growing Methods
+title: Mushroom Training Pasteurization Sterilization
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags:
-  - mushroom-cultivation
+  - [[mushroom-cultivation]]
   - pasteurization
   - sterilization
   - contamination-control
@@ -14,7 +14,7 @@ sources:
 ---
 
 # mushroom-training-substrate-preparation and equipment.
-The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] describes three pasteurization methods for substrate bags (country
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] describes three [[growing-gourmet-straw-pasteurization-methods]] for [[oil-drum-sterilizer-mushroom-substrate-bags]] (country
 style, commercial, and solar) as well as autoclave sterilization for PDA medium and spawn
 production. Each method is accessible to farmers with disabilities with appropriate
 adaptations.
@@ -22,7 +22,7 @@ adaptations.
 ## Why Pasteurization Matters
 
 Pasteurization kills or weakens harmful microorganisms in the substrate while preserving
-enough heat tolerance for the mushroom mycelium to dominate after
+enough heat tolerance for the [[antimicrobial-compounds-mushroom-mycelium]] to dominate after
 [[mushroom-training-inoculation-techniques]]
 
 ## Commercial Pasteurization
@@ -88,24 +88,3 @@ higher temperature sterilization in an autoclave is required.
 - Check for contamination after settling
 
 ### Sorghum Seed Sterilization
-
-- Transfer all prepared sorghum seed bottles to the sterilization chamber
-- Close the chamber and fire up the burner or stove
-- Release all air from the chamber before starting the timing
-- Keep pressure at 15 lb/sq.inch (121 degrees Celsius) for 30 minutes for small chambers
-  and 45 minutes for medium chambers
-- Let bottles cool down before transfer to a clean area
-
-## Adaptations for People with Disabilities
-
-The pasteurization chamber must be built lower than standard height for easy access by
-people in wheelchairs and those unable to stand. This is one of the key
-mushroom-training-adapted-cultivation recommended in the
-manual. Country-style pasteurization using drums can also be adapted with raised platforms
-or modified to reduce heavy lifting.
-## See Also
-- [[mushroom-pasteurization]]
-- [[sterilization]]
-- [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
-- [[mushroom-substrate-sterilization-and-pasteurization]]
-- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]

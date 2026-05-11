@@ -1,10 +1,11 @@
 ---
-title: duggar-mushroom-growing-room-design Design for gourmet-mushroom-cultivation
+title: [[stamets-growing-room-air-circulation-co2-management]] Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, equipment]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Growing Room Design for Gourmet Mushroom Cultivation #mushroom-cultivation #indoor-cultivation #infrastructure #environmental-control Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Appendix III "The Growing Room" ## Overview The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also stamets-mushroom-growing-room-design, [[agaricus-bisporus-cultivation-biology]].
@@ -87,22 +88,3 @@ Airplane hangers, army barracks, barns, basements, bomb shelters, car washes, ca
 - Preconditioning plenum: intermediate chamber to pre-humidify and pre-temperature-adjust outside air
 - Steam provides both moisture and heat; thermostats activate solenoid valves on live steam lines
 - Cold water mist nozzles supplement when temperature exceeds set point
-- Target: elevate incoming air to 75-80% RH before entry; in-room humidifiers add remaining 25% for primordia
-- Compressed air (100-400 psi) misting systems create fog-like humidity clouds
-- Swamp coolers work when outside air is hot and humidity low
-- Always have manual-control over-rides and backup systems
-
-### 11. Insect Control
-- Flies are the bane of mushroom cultivators
-- A single pregnant fly gives rise to hundreds of voracious offspring in weeks
-- Bug zappers, [[cervantes-sticky-traps-pest-monitoring]], circular black light traps with central fan creating negative-pressure vortex
-- Wash growing rooms twice daily
-- Small tree frogs as [[cho-natural-pest-control-methods]] control (no pesticides advocated)
-- See stamets-contamination-identification-and-control
-
-## Farm Environment
-
-Room/activity scheduling is essential. No caustic chemicals should be used. The laboratory complex design is detailed in Appendix II (see tropical-mushroom-spawn-production-materials
-- [[oyster-mushroom-species-fruiting-parameters]]
-## See Also
-- [[stamets-growing-room-air-circulation-co2-management]]

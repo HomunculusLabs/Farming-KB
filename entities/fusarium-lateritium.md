@@ -24,7 +24,7 @@ sources:
 Fusarium lateritium is an ascomycete fungus within the
 Nectriaceae family, belonging to the order Hypocreales. The
 genus Fusarium is one of the most economically important
-groups of filamentous fungi, encompassing species that range
+groups of [[environmental-sensing-filamentous-fungi-read]], encompassing species that range
 from beneficial saprotrophs and endophytes to destructive
 plant pathogens. Fusarium lateritium is primarily recognized
 as a saprotrophic species, although it has been reported to
@@ -46,7 +46,7 @@ substrates containing this species, passage through the
 earthworm gut completely destroys the viability of its spores.
 This dynamic highlights the multifaceted nature of
 fungus-fauna interactions in soil food webs and has
-significant implications for understanding fungal dispersal
+significant implications for understanding [[fungal-dispersal-limitation-biogeographic-barriers]]
 and survival strategies in terrestrial ecosystems.
 
 ## Earthworm Interactions
@@ -67,8 +67,8 @@ earthworms.
 
 The preference exhibited by earthworms for F. lateritium
 colonized material may relate to the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of
-the fungal mycelium, the degree of substrate modification by
-fungal enzyme activity, or specific chemical cues produced
+the [[fungal-mycelium-hyphae-and-the-feeding-phase]], the degree of substrate modification by
+[[fungal-enzyme-induction-and-regulation]] activity, or specific chemical cues produced
 during the [[chaetomium-globosum]] exhibited even
 more remarkable gut tolerance, with 33 out of 41 spores
 remaining viable after passage through the earthworm
@@ -87,19 +87,3 @@ suggests that specific enzymatic or chemical properties of
 earthworm digestive fluids are selectively lethal to F.
 lateritium spores while permitting the survival of spores
 from other fungal species.
-
-## Role in Decomposition
-
-Fusarium lateritium contributes to soil decomposition processes
-through its enzymatic modification of organic substrates,
-particularly plant litter and straw material. The species
-produces a range of extracellular enzymes that [[query-can-fungi-break-down-plastic-pollution]]
-complex plant polymers, releasing nutrients that become
-available to other soil organisms and plants. Its role as a
-decomposer, combined with its susceptibility to earthworm gut
-passage, positions F. lateritium as a species whose
-population dynamics are closely tied to the activities of soil
-invertebrate communities, illustrating the interconnected
-nature of [[chaetomium-globosum]]
-- [[cladosporium-cladosporioides]]
-- [[schizophyllum-commune]]

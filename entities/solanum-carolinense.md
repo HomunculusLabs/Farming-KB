@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Bassett, I.J. & Munro, D.B. (1986). "The biology of Canadian weeds. 73. Solanum carolinense L." Canadian Journal of Plant Science, 66(4), 977-991.
-  - Cipollini, D.F. et al. (2008). "The potential for seed dispersal by white-tailed deer in Solanum carolinense." Northeastern Naturalist, 15(3), 419-426.
+  - Cipollini, D.F. et al. (2008). "The potential for [[clay-pellet-seed-dispersal]] by white-tailed deer in Solanum carolinense." Northeastern Naturalist, 15(3), 419-426.
   - USDA NRCS (2024). "Solanum carolinense L. — Carolina horsenettle." PLANTS Database.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
   - Harding, C.L. (1974). "Carolina horsenettle (Solanum carolinense) and its control." Southern Weed Science Society Proceedings, 27, 267-270.
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Solanum carolinense, commonly known as Carolina horsenettle, is a perennial herbaceous plant in the family Solanaceae. It is native to the southeastern United States but has spread widely across North America as an aggressive agricultural weed.
+Solanum carolinense, commonly known as Carolina horsenettle, is a perennial herbaceous plant in the family Solanaceae. It is native to the southeastern United States but has spread widely across [[guzman-psilocybin-mushrooms-north-america]] as an aggressive agricultural weed.
 
 The plant is notable for its sharp spines, yellow berries, and high toxicity due to solanine glycoalkaloids. All parts of the plant are poisonous to livestock and humans if ingested.
 
@@ -72,7 +72,7 @@ The glycoalkaloid content varies seasonally, peaking during flowering and fruiti
 
 No specific antidote exists for solanine poisoning. Treatment is supportive, including activated charcoal administration, intravenous fluids, and symptomatic care.
 
-The ripe yellow berries, while less toxic than green ones, remain dangerous. Children are particularly at risk of accidental ingestion due to the berry's resemblance to small tomatoes.
+The ripe yellow berries, while less toxic than green ones, remain dangerous. Children are particularly at risk of [[psilocybin-accidental-ingestion-australia]] due to the berry's resemblance to small tomatoes.
 
 ## Ecological Role
 
@@ -82,31 +82,8 @@ White-tailed deer have been documented as seed dispersers, consuming the ripe be
 
 The deep rhizome system helps stabilize soil in disturbed areas. However, this same trait makes the species extremely difficult to eradicate once established.
 
-The plant's chemical defenses also affect soil microbial communities. Glycoalkaloid leachates from decomposing foliage have documented allelopathic effects on seed germination of neighboring plant species.
+The plant's chemical defenses also affect soil [[cannabis-rhizosphere-microbial-communities]]. Glycoalkaloid leachates from decomposing foliage have documented allelopathic effects on [[cannabis-seed-germination]] of neighboring plant species.
 
-Several native parasitic plants, including dodder (Cuscuta species), have been observed parasitizing Carolina horsenettle stems, though this rarely provides effective biological control.
+Several native parasitic plants, including dodder (Cuscuta species), have been observed parasitizing Carolina horsenettle stems, though this rarely provides effective [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]].
 
 ## Agricultural Impact
-
-Solanum carolinense is a serious weed problem in soybean, corn, peanut, and small grain fields across the eastern and central United States. It competes aggressively with crops for water and nutrients.
-
-Mechanical cultivation is largely ineffective because the rhizome system can extend 1 meter or more below the soil surface. Fragmented rhizomes readily regenerate new shoots.
-
-Herbicide control requires multiple applications of systemic herbicides such as dicamba or glyphosate. Herbicide resistance has not been widely documented, but inconsistent control is common.
-
-Integrated management combining herbicide application, repeated tillage, and competitive crop establishment provides the most reliable long-term suppression.
-
-Economic losses attributable to Carolina horsenettle are difficult to quantify but include reduced crop yields, increased herbicide costs, and livestock poisoning events. Infestations can reduce soybean yields by 10–20 percent in severely affected fields.
-
-Biological control research has explored several insect herbivores, including the tobacco flea beetle (Epitrix hirtipennis), but no effective biological control agent has been released for this species.
-
-## See Also
-
-- [[solanum-nigrum]]
-- [[solanum-lycopersicum]]
-- [[solanum-dulcamara]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[hyoscyamus-niger]]
-- [[physalis-peruviana]]
-- [[capsicum-annuum]]

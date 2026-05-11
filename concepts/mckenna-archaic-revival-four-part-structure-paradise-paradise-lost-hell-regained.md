@@ -2,7 +2,7 @@
 
 ## Overview
 
-Terence McKenna's *Food of the Gods* is organized as a four-part historical narrative—**Paradise, Paradise Lost, Hell,** and **[[mckenna-paradise-regained-dmt-hyperspace]]?**—that traces humanity's evolving relationship with psychoactive plants from the Upper Paleolithic to the present and into an imagined future. This structure is not merely chronological but mythological, recapitulating the universal narrative arc of a Golden Age, a Fall, a period of darkness, and the possibility of redemption. McKenna's overarching argument is that the transition from "partnership" societies (characterized by shamanism, Goddess worship, and symbiotic relationships with psychoactive plants) to "dominator" societies (characterized by hierarchy, patriarchy, and the suppression of ecstasy) represents the central catastrophe of human history—and that a recovery of the Archaic relationship with nature is both possible and necessary for human survival.
+Terence McKenna's *Food of the Gods* is organized as a four-part historical narrative—**Paradise, Paradise Lost, Hell,** and **[[mckenna-paradise-regained-dmt-hyperspace]]?**—that traces humanity's evolving relationship with psychoactive plants from the Upper Paleolithic to the present and into an imagined future. This structure is not merely chronological but mythological, recapitulating the universal narrative arc of a Golden Age, a Fall, a period of darkness, and the possibility of redemption. McKenna's overarching argument is that the transition from "partnership" societies (characterized by shamanism, Goddess worship, and [[fungi-in-the-environment-symbiotic-relationships]] with psychoactive plants) to "dominator" societies (characterized by hierarchy, patriarchy, and the [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]) represents the central catastrophe of human history—and that a recovery of the Archaic relationship with nature is both possible and necessary for human survival.
 
 ## Paradise: The Original Symbiosis
 
@@ -39,8 +39,8 @@ The third section of the book, "Hell," is McKenna's indictment of modern industr
 McKenna's "Hell" section also explores specific cultural moments in the suppression of ecstasy, including:
 
 - The persecution of European witches (who preserved pre-Christian plant knowledge)
-- The destruction of indigenous cultures in the Americas
-- The criminalization of psychoactive substances in the 20th century
+- The destruction of [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] in the Americas
+- The criminalization of [[cultural-evolution-and-psychoactive-substances]] in the 20th century
 - The emergence of designer drugs (MDMA, anabolic steroids) as harbingers of "an era of ever more frequent and effective pharmacological intervention"
 
 ## Paradise Regained?: The Archaic Revival
@@ -79,29 +79,11 @@ McKenna's four-part structure maps onto a broader binary framework derived from 
 | Gender | Complementary, fluid | Oppressive, binary |
 | Economy | Gift, sharing | Accumulation, competition |
 
-McKenna does not present this as a simple good-versus-evil binary but as a spectrum along which all human societies can be placed. His argument is that the trajectory of Western civilization has moved steadily toward the dominator pole, and that the Archaic revival represents a deliberate movement back toward the partnership pole.
+McKenna does not present this as a simple good-versus-evil binary but as a spectrum along which all human societies can be placed. His argument is that the trajectory of [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] has moved steadily toward the dominator pole, and that the Archaic revival represents a deliberate movement back toward the partnership pole.
 
 ## Critiques and Assessment
 
 - **Historical accuracy**: McKenna's reconstruction of prehistoric life is highly speculative and has been criticized for romanticizing hunter-gatherer societies while downplaying their real hardships
-- **Cultural essentialism**: The partnership–dominator binary risks homogenizing diverse cultures and historical periods into a simplistic framework
+- **Cultural essentialism**: The partnership–dominator binary risks homogenizing diverse cultures and [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]] into a simplistic framework
 - **Determinism**: McKenna tends to attribute complex historical changes to a single cause (the presence or absence of psychoactive plants), neglecting economic, geographic, and technological factors
 - **Prescriptive vagueness**: While eloquent in describing the problem, McKenna offers few concrete proposals for how an "Archaic revival" might actually be achieved at scale
-
-Despite these criticisms, the four-part structure remains a powerful narrative device that frames the [[leary-psychedelic-experience-bardo-mapping]] not as recreational indulgence but as a form of cultural memory—access to a way of being human that predates and potentially transcends the dominator culture.
-
-## See Also
-
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]] — Detailed analysis of dominator culture mechanics
-- [[mckenna-profession-of-sacrament-psilocybin-cult-to-alcohol-cult]] — The transition from mushroom to alcohol sacraments
-- [[mckenna-vegetable-mind-and-gaian-holism]] — The philosophical foundation of the Archaic revival
-- [[mckenna-catal-huyuk-natufian-link]] — Archaeological evidence for partnership societies
-- [[mckenna-habit-culture-religion]] — The role of habitual substance use in cultural formation
-
-## References
-
-- McKenna, T. *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books, 1992.
-- Eisler, R. *The Chalice and the Blade*. Harper & Row, 1987.
-- Merlin, M.D. *On the Trail of the Ancient Opium Poppy*. Fairleigh Dickinson University Press, 1984.
-- Devereux, P. *The Long Trip: A Prehistory of Psychedelia*. Penguin, 1997.
-- Letcher, A. *Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom*. Faber and Faber, 2006.

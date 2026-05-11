@@ -88,34 +88,3 @@ is deactivated before reaching the central nervous system.
 
 The psychoactive effects of salvinorin A are distinctive and often
 described as more "physical" or "disruptive" than those of classical
-hallucinogens:
-
-- Profound alterations in perception of reality and the boundaries of 
-  self
-- Complete dissociation from the physical body, sometimes described as
-   "[[psilocybin-ego-dissolution-mechanisms]]"
-- Vivid, immersive visionary experiences with complex imagery
-- Uncontrollable laughter or emotional catharsis
-- Synesthetic experiences blending different sensory modalities
-- Altered sense of time and space, with time appearing to slow or stop
-- Temporary amnesia of the experience after it ends
-- A sense of merging with objects, environments, or other entities
-- Physical sensations of being pulled, twisted, or transported
-
-The effects come on extremely rapidly when inhaled, which can be
-disorienting or frightening to unprepared users. The Mazatec, who
-have long used the plant, provide a structured ceremonial context
-that helps navigate the intensity of the experience.
-
-## Therapeutic Research
-
-The unique pharmacology of salvinorin A has generated significant
-interest in its potential therapeutic applications:
-
-- **Treatment of depression**: KOR antagonists have shown antidepressa
-  nt potential in animal models, though salvinorin A itself is an agon
-  ist
-- **Drug addiction**: Modulation of the kappa-opioid system may have i
-  mplications for addiction treatment
-- **Consciousness research**: Salvinorin A provides a unique tool for 
-  studying the neurobiology of consciousness, particularly the kappa-o

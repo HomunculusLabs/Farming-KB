@@ -88,44 +88,6 @@ reduce the chances for conspicuous biological activity). This
 compound was made, and it does label the brain, and it has shown
 promise as a flow indicator in the brain, and it and several of its
 close relatives are discussed in their own separate recipe, called
-IDNNA.
-
-## Synthesis
-
-To a well stirred solution of 9.7 g dimethylamine
-hydrochloride in 50 mL MeOH there was added 3.56 g of
-3,4-methylenedioxyphenylacetone (see under MDMA for its preparation)
-followed by 0.88 g sodium cyanoborohydride. A 1:1 mixture of
-concentrated HCl and MeOH was added as required to maintain the pH at
-about 6 as determined with external, dampened universal paper. Twenty
-drops were called for over the first four h, and a total of 60 drops
-were added over the course of two days at which time the reduction was
-complete. After the evaporation of most of the MeOH solvent, the
-reaction mixture was added to 250 mL H2O and made strongly acidic with
-an excess of HCl. After washing with 2x100 mL CH2Cl2 the aqueous
-phase was made basic with 25% NaOH, and extracted with 3x100 mL
-CH2Cl2. Removal of the solvent under vacuum yielded a nearly
-colorless oil that was distilled at 85-90 deg C at 0.3 mm/Hg. There was
-
-obtained 1.5 g of a water-white oil that was dissolved in 8 mL IPA,
-neutralized with concentrated HCl and then diluted with 10 mL
-anhydrous Et2O. The slightly turbid solution deposited a light lower
-oily layer which slowly crystallized on scratching. With patience, an
-additional 75 mL of Et2O was added, allowing the formation of a white
-crystalline mass. This was removed by filtration and washed with
-additional Et2O. After air drying there was obtained 1.3 g of
-3,4-methylenedioxy-N,N-dimethylamphetamine hydrochloride (MDDM) with a
-mp of 172-173 deg C. The NMR spectrum (60 mH) of the hydrochloride salt
-(in D2O and with external TMS) was completely compatible with the
-expected structure. The signals were: 1.25, 1.37 (d) CCH3, 3H; ArCH2
-under the N(CH3)2, 2.96, 8H; CH (m) 3.65; CH2O2 (s) 6.03 2H; ArH 6.93
-(3H). Anal: (C12H18ClNO2) N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[mda-entity-pihkal]]
-- [[mdbu-entity-pihkal]]
+- [[gamma-2c-t-4-entity-pihkal]]

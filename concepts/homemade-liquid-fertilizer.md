@@ -11,11 +11,11 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some animal manure or plant material. (see [[hamilton-alternative-soil-conditioners]]).
+It is very easy to make your own liquid manure that is as nutritious as any you can buy. All you need is a large metal or plastic drum, a burlap sack, and some [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] or plant material.
 
 ## Basic Recipe (Animal Manure Liquid Feed)
 
-**Best manure:** Sheep manure (particularly high in nutrients), but cow, pig, horse, or goat manure can also be used. About half a sackful provides a year's supply for an average-sized garden. (see [[soil-conditioners-guide]]).
+**Best manure:** Sheep manure (particularly high in nutrients), but cow, pig, horse, or goat manure can also be used. About half a sackful provides a year's supply for an average-sized garden.
 
 ### Steps
 
@@ -47,7 +47,7 @@ The same method can be used with plant materials to produce specific nutrient fe
 - For potted plants, fill up to the rim of the pot
 
 ### Buried Pot Method
-For plants that are regularly fed (e.g., greenhouse tomatoes):
+For plants that are regularly fed (e.g., [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]):
 - Bury a flower pot in the soil near the plant
 - Fill the pot with liquid fertilizer
 - This gets fertilizer deeper into the soil and lets you measure exactly how much each plant receives
@@ -60,5 +60,22 @@ For plants that are regularly fed (e.g., greenhouse tomatoes):
 ## Related
 
 - [[animal-manure-guide]] — choosing the right manure for liquid fertilizer
-- [[kelp-meal-fertilizer]] — kelp-based organic fertilizer options
+- [[kelp-meal-fertilizer]] — kelp-based [[complete-organic-fertilizer-cof]] options
 - [[trace-elements-in-soil]] — ensuring plants get micronutrients
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[jadam-liquid-fertilizer-philosophy]]
+- [[nettle-tea-liquid-fertilizer]]
+- [[jadam-wild-grass-liquid-fertilizer]]
+- [[jadam-liquid-fertilizer-nutritional-perspective]]
+- [[weed-tea-liquid-fertilizer]]

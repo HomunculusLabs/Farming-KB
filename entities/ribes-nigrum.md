@@ -14,8 +14,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Tabart, J. et al. (2006). "Polyphenols and antioxidants in blackcurrants." J. Agric. Food Chem.
-  - Brennan, R.M. (1996). "Currants and gooseberries." In: Temperate Fruit Crops. CAB International.
+  - Brennan, R.M. (1996). "Currants and gooseberries." In: Temperate [[uncommon-specialty-fruit-crops-for-permaculture]]. CAB International.
   - Mikulic-Petkovsek, M. et al. (2015). "Chemical composition of blackcurrant berries." Food Chemistry.
   - RHS (Royal Horticultural Society). Ribes nigrum cultivation profiles.
 ---
@@ -24,7 +25,7 @@ sources:
 
 ## Overview
 
-*Ribes nigrum*, the **blackcurrant**, is a woody deciduous shrub in the family Grossulariaceae, native to temperate regions of central and northern Europe and northern Asia. It is among the most nutrient-dense fruits available — exceptionally rich in **vitamin C, anthocyanins, and polyphenols**. The species has major economic importance in Europe (UK, Poland, Germany, France) for juices, jams, cordials, and nutraceuticals. In permaculture, it serves as a productive understory shrub yielding abundant fruit with minimal maintenance.
+*Ribes nigrum*, the **blackcurrant**, is a woody deciduous shrub in the family Grossulariaceae, native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of central and northern Europe and northern Asia. It is among the most nutrient-dense fruits available — exceptionally rich in **vitamin C, anthocyanins, and polyphenols**. The species has major economic importance in Europe (UK, Poland, Germany, France) for juices, jams, cordials, and nutraceuticals. In permaculture, it serves as a productive understory shrub yielding abundant fruit with minimal maintenance.
 
 ## Taxonomy
 
@@ -36,7 +37,7 @@ sources:
 - **Form:** Deciduous multistemmed shrub, 1–2 m × 1–1.5 m; lifespan 10–15 years
 - **Stems:** Multiple canes from crown; most productive at 1–3 years old
 - **Leaves:** Alternate, palmately 3–5 lobed (maple-like), 5–10 cm, dark green, pubescent underside, resinous scent when crushed
-- **Flowers:** Pendulous racemes of 5–10 flowers, early spring (March–May), on 1-year-old wood. Greenish-pink, tubular. Self-fertile; bee- and wind-pollinated.
+- **Flowers:** Pendulous racemes of 5–10 flowers, [[coleman-overwintered-onions-and-early-spring-crops]] (March–May), on 1-year-old wood. Greenish-pink, tubular. Self-fertile; bee- and wind-pollinated.
 - **Fruit:** Berries 8–12 mm, deep purple-black, glossy, hanging in clusters. Intensely tart and aromatic.
 - **Root system:** Shallow, fibrous, top 30–45 cm; extensive lateral spread aids [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 
@@ -62,7 +63,7 @@ Blackcurrants fruit primarily on **1-year-old wood**. Annually remove oldest can
 
 ### Key Pests and Diseases
 - **White pine blister rust** (*Cronartium ribicola*): Resistant cultivars available; was basis for US cultivation bans
-- **Big bud mite:** Vectors reversion virus; plant clean stock
+- **[[big-bud]] mite:** Vectors reversion virus; plant clean stock
 - **[[cervantes-powdery-mildew-prevention-treatment]]:** Resistant cultivars available
 - **Birds:** Netting essential — birds highly attracted to ripe berries
 
@@ -83,52 +84,6 @@ Blackcurrants contain **3–4× the vitamin C of oranges** by weight. Predominan
 
 - **Eye health:** Anthocyanins improve dark adaptation, reduce eye fatigue, slow glaucoma progression
 - **Cardiovascular:** Improves endothelial function, reduces arterial stiffness and blood pressure
-- **Exercise recovery:** Reduces muscle damage, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and inflammation
+- **[[cannabis-and-exercise-recovery]]:** Reduces muscle damage, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and inflammation
 - **Immune function:** Vitamin C and anthocyanins reduce duration/severity of respiratory infections
 - **Cognitive:** Improved cerebral blood flow; preliminary benefits in older adults
-
-## Culinary Uses
-
-- **Juice and cordial:** Most common commercial use; crème de cassis is classic French liqueur
-- **Jams and preserves:** High pectin content ideal for jam-making
-- **Dried/frozen:** Preserves nutrient content; baking, trail mix, smoothies
-- **Savory:** Sauces for game meats (duck, lamb, venison)
-- **Tea:** Dried leaves make a pleasant, mildly fruity tea
-
-## Permaculture Applications
-
-### Function Stack
-1. **Food production:** High-yielding, nutritionally dense berry crop
-2. **Wildlife habitat:** Dense branching shelters birds/small mammals; early flowers support pollinators
-3. **Soil improvement:** Prevents erosion on slopes; leaf litter adds [[hamilton-composting-and-organic-matter-management]]
-4. **Understory production:** Thrives in partial shade beneath fruit trees
-5. **[[cervantes-wind-protection-outdoor-cannabis]]:** Dense canopy buffers wind in hedgerows
-
-### Polyculture Integration
-- **Fruit tree understory:** Beneath apple, pear, or plum trees at 2–3 m spacing
-- **Berry guild:** Combine with Ribes rubrum (redcurrant), [[caragana-arborescens]], [[symphytum-officinale]] (comfrey) provides potassium for fruit quality
-
-## Propagation
-
-- **Hardwood cuttings:** 20–25 cm in late autumn; 80–95% success. Most common method.
-- **Softwood cuttings:** Early summer under mist
-- **Layering:** Low branches in autumn; separate next year
-
-## Major Cultivars
-
-| Cultivar | Key Traits |
-|----------|------------|
-| **Ben Lomond** | Late flowering, mildew resistant, high yield |
-| **Ben Sarek** | Compact, very high yield, good for small spaces |
-| **Titania** | Vigorous, blister rust resistant |
-| **Ebony** | Very sweet, bred for fresh eating |
-| **Baldwin** | Traditional English, reliable |
-
-## Related Species
-
-- Ribes rubrum — Redcurrant, sweeter and milder
-- [[sambucus-nigra]] — Elderberry, another dark-berried superfruit
-- [[ribes-rubrum]]
-
-- [[caragana-arborescens]]
-- hippophae-rhamnoides

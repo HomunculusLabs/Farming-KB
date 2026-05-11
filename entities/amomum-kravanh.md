@@ -23,7 +23,7 @@ sources:
 
 The species belongs to the large and taxonomically complex genus *Amomum*, which contains over 150 species distributed across tropical Asia. Cambodia cardamom is one of the most commercially significant species in the genus.
 
-The dried fruits resemble small round capsules approximately 1–1.5 cm in diameter, containing numerous small seeds with a strong, camphoraceous aroma. The spice is distinct from true cardamom (*Elettaria cardamomum*) in both flavor profile and botanical classification.
+The dried fruits resemble small round capsules approximately 1–1.5 cm in diameter, containing numerous small seeds with a strong, camphoraceous aroma. The spice is distinct from true cardamom (*[[elettaria-cardamomum]]*) in both flavor profile and botanical classification.
 
 ## Taxonomy and Morphology
 
@@ -45,7 +45,7 @@ The species grows naturally in lowland and hill forests at elevations up to appr
 
 Natural forest populations are increasingly rare due to overharvesting and habitat destruction. Remaining wild stands are found in protected areas in Cambodia, particularly in the Cardamom Mountains from which the common name is partially derived.
 
-Cultivation extends beyond the native range to Indonesia, southern China, Sri Lanka, and parts of India. The species has been introduced to tropical Africa and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for spice production trials.
+Cultivation extends beyond the native range to Indonesia, southern China, Sri Lanka, and parts of India. The species has been introduced to tropical Africa and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for [[cinnamon-cultivation-and-spice-production]] trials.
 
 ## Cultivation
 
@@ -59,13 +59,13 @@ Yields from managed plantations range from 200–500 kg of dried fruit per hecta
 
 ## Chemistry and Pharmacology
 
-The essential oil of *A. kravanh* fruits is rich in terpenoids, with 1,8-cineole, α-terpinyl acetate, and limonene as the major constituents. The oil content of dried fruits ranges from 2–5% depending on provenance and processing methods.
+The essential oil of *A. kravanh* fruits is rich in terpenoids, with 1,8-cineole, α-terpinyl acetate, and limonene as the major constituents. The oil content of dried fruits ranges from 2–5% depending on provenance [[mushroom-storage-and-processing-methods]].
 
 Diterpenoids of the labdane type, including kravanhin and related compounds, have been isolated from the seeds. These compounds are of particular interest for their anti-inflammatory and cytotoxic activities.
 
 Ethanol extracts of the fruit demonstrate significant antibacterial activity against *Streptococcus mutans* and *Porphyromonas gingivalis*, pathogens associated with dental caries and periodontal disease. This supports the traditional use of the spice as a breath freshener and oral antiseptic.
 
-Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* in disc diffusion assays. The methanolic extract shows broader spectrum activity than the essential oil alone, suggesting synergistic effects between volatile and non-volatile constituents.
+Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[aspergillus-niger]]* in disc diffusion assays. The methanolic extract shows broader spectrum activity than the essential oil alone, suggesting synergistic effects between volatile and non-volatile constituents.
 
 Antioxidant capacity, measured by DPPH and FRAP assays, is moderate and comparable to other *Amomum* species. The antioxidant activity correlates with total phenolic content in the seed extracts.
 
@@ -73,7 +73,7 @@ Antioxidant capacity, measured by DPPH and FRAP assays, is moderate and comparab
 
 In Cambodian and Thai traditional medicine, *A. kravanh* fruits are used to treat digestive disorders including flatulence, indigestion, and nausea. The dried fruits are chewed or steeped in hot water to prepare a carminative tea.
 
-In Vietnamese traditional medicine, the species is classified as a warming spice that dispels cold and promotes circulation. It is included in formulations for respiratory conditions, particularly chronic cough and bronchitis accompanied by cold symptoms.
+In Vietnamese traditional medicine, the species is classified as a warming spice that dispels cold and promotes circulation. It is included in formulations for [[cannabis-respiratory-conditions]], particularly chronic cough and bronchitis accompanied by cold symptoms.
 
 In China, *A. kravanh* is included in several traditional pharmacopoeias as a warming herb for the spleen and stomach. It is used in formulations to treat abdominal distension, vomiting, and loss of appetite, often combined with other aromatic herbs.
 
@@ -81,29 +81,10 @@ The spice is used in Cambodian and Thai cuisines, where it imparts a warm, sligh
 
 Commercially, the dried fruits are traded in regional spice markets under the name "Cambodia cardamom." The spice occupies a niche market distinct from true cardamom and black cardamom, with different flavor profiles and price points.
 
-Three species are commonly traded under the name "cardamom," each with distinct characteristics. *Elettaria cardamomum* is the most internationally traded, known for its intense sweet aroma. *Amomum subulatum* produces larger dark pods with a smoky flavor for savory Indian dishes.
+Three species are commonly traded under the name "cardamom," each with distinct characteristics. *Elettaria cardamomum* is the most internationally traded, known for its intense sweet aroma. *[[amomum-subulatum]]* produces larger dark pods with a smoky flavor for savory Indian dishes.
 
 *A. kravanh* occupies an intermediate position with a camphoraceous sweetness less intense than true cardamom but more refined than black cardamom. Botanically, *Elettaria* produces aerial inflorescences while *Amomum* species produce basal inflorescences from the rhizome.
 
 ## Ecological and Conservation Status
 
 Wild *A. kravanh* populations are declining due to habitat loss from deforestation and overharvesting. The species is classified as data deficient by the IUCN, reflecting the lack of comprehensive population surveys across its range.
-
-The Cardamom Mountains in southwestern Cambodia represent an important refuge for wild populations. This biodiversity hotspot supports a high diversity of Zingiberaceae species, many of which are endemic to the region.
-
-Cultivation programs in Cambodia and Thailand aim to reduce pressure on wild populations by developing improved varieties for smallholder farmers. These programs focus on disease resistance, higher yields, and consistent essential oil quality.
-
-The species serves as a food source for several forest animals, including wild pigs and rodents that consume the fleshy aril surrounding the seeds. Animal-mediated seed dispersal contributes to natural regeneration in forest habitats.
-
-## See Also
-
-- [[amomum-subulatum]]
-- [[alpinia-galanga]]
-- [[boesenbergia-rotunda]]
-- [[hedychium-coronarium]]
-- [[alpinia-officinarum]]
-- [[curcuma-caesia]]
-- [[hedychium-coccineum]]
-- [[zingiber-mioga]]
-- [[curcuma-phaeocaulis]]
-- [[hedychium-flavescens]]

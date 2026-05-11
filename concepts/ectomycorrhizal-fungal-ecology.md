@@ -88,14 +88,3 @@ ECM associations represent a significant carbon sink:
 ## Climate Change Responses
 
 Dighton and Jansen (1991) modeled ECM responses to elevated CO2:
-- Enhanced photosynthesis provides larger carbohydrate pool for ECM development
-- Increased C:N ratios in litter may require greater enzymatic investment
-- Temperature-driven decomposition acceleration could reduce ECM dependence
-- ECM enzymatic capability for organic N access may become more important under N limitation
-
-## See Also
-
-- [[mycorrhizal-networks]] for interplant connections
-- fungal-chromogens-and-color-change
-- [[bolete-mushrooms-ecology-edibility]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

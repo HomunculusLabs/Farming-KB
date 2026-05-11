@@ -9,17 +9,17 @@ sources: []
 
 # Agaricus Species Guide
 
-The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common button mushroom and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish. (see [[agaricus-sylvicola]]).
+The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common [[growing-gourmet-button-mushroom-agaricus-cultivation]] and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish.
 
 ## Overview
 
-Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat. (see [[inocybe-geophylla]]).
+Agaricus is a large genus of mushroom-forming fungi with a [[worldwide-distribution-psilocybin-mushrooms]]. Most species are saprotrophic, decomposing [[maintaining-organic-matter-in-vegetable-gardens]] grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat.
 
 ## Agaricus bisporus (Button, Cremini, Portobello)
 
 ### Overview
 
-The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and North America, it was first cultivated in France in the 1700s and has since become a staple food worldwide.
+The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and [[guzman-psilocybin-mushrooms-north-america]], it was first cultivated in France in the 1700s and has since become a staple food worldwide.
 
 ### The Three Forms
 
@@ -31,12 +31,12 @@ What appears to be three different mushrooms are actually the same species at di
 
 ### Cultivation
 
-A. bisporus cultivation is the most industrialized mushroom production system in the world:
+A. [[agaricus-bisporus-cultivation-biology]] is the most industrialized mushroom production system in the world:
 
-- Substrate: composted straw, horse manure, and/or chicken manure with gypsum
+- Substrate: composted straw, [[coleman-french-maraicher-horse-manure-hotbed-system]], and/or chicken manure with gypsum
 - Two-phase composting: Phase 1 (outdoor, thermophilic composting for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
 - Spawn: grain spawn (rye or millet); commercial spawn is highly selected
-- Casing layer: peat moss and limestone applied over the colonized compost to trigger fruiting
+- [[casing-layer-microbiology]]: peat moss and limestone applied over the colonized compost to trigger fruiting
 - Grow rooms: climate-controlled rooms with precise temperature, humidity, and CO2 management
 - Temperature: 55-62 F for fruiting
 - Yield: approximately 1 lb per square foot of growing surface per flush
@@ -62,7 +62,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 - Stem: short, thick, white, with a thin ring (skirt)
 - Flesh: white, firm, mild and pleasant odor (not chemical)
 - Spore print: dark chocolate brown
-- Habitat: open grasslands, pastures, meadows, lawns; often in fairy rings
+- Habitat: open grasslands, pastures, meadows, lawns; often in [[bloomfield-fairy-rings-armillaria-giant-fungi]]
 - Season: late summer through fall (after rain)
 
 ### Foraging
@@ -76,7 +76,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 ### Look-alikes and Safety
 
 - Amanita species: some have white gills and are deadly; A. campestris has pink-to-brown gills, not white gills
-- Agaricus xanthodermus (Yellow Stainer): turns bright chrome yellow when the base is cut; has a chemical/phenol odor; causes GI distress
+- [[agaricus-xanthodermus]] (Yellow Stainer): turns bright chrome yellow when the base is cut; has a chemical/phenol odor; causes GI distress
 - Key safety check: cut the stem base and watch for yellow staining; if it stains bright yellow and smells like ink or chemicals, discard
 - Always verify chocolate brown spore print
 
@@ -91,7 +91,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 
 ### Overview
 
-A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild edible mushrooms in Europe, prized for its size and almond-like aroma.
+A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild [[palmer-edible-mushrooms-north-america]] in Europe, prized for its size and almond-like aroma.
 
 ### Identification
 

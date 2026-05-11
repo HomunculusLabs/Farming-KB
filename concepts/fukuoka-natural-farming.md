@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - Masanobu Fukuoka, "The Natural Way of Farming: The Theory and Practice of fukuoka-sowing-green-philosophy-one-grain-revolution"
 type: concept
 ---

@@ -3,7 +3,8 @@ title: "Echinacea vs St. John's Wort"
 tags: [comparison, medicinal-herbs, immune-health, mental-health, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Echinacea vs St. John's Wort
@@ -14,7 +15,7 @@ Echinacea and St. John's Wort represent two pillars of Western [[herbal-medicine
 with distinctly different primary applications. Echinacea is renowned as an
 immune system modulator and stimulant, most commonly used at the onset of
 infections, while St. John's Wort is primarily valued for its mood-supporting
-and antidepressant properties. Both herbs have extensive clinical research
+and antidepressant properties. Both herbs have extensive [[hofmann-lsd-clinical-research-early-studies]]
 supporting their traditional uses, but they differ significantly in their
 phytochemistry, cultivation requirements, safety profiles, and therapeutic
 applications.
@@ -29,7 +30,7 @@ woodlands. As an immunomodulatory herb, it works primarily by stimulating
 and modulating various aspects of immune function, particularly during the
 early stages of infection.
 
-Key medicinal properties:
+Key [[panax-ginseng]]:
 - Stimulates macrophage activity and phagocytosis
 - Enhances natural killer cell cytotoxicity
 - Modulates cytokine production during immune response
@@ -40,7 +41,7 @@ Echinacea contains several important active compounds including alkylamides
 (responsible for the characteristic tongue-tingling sensation), caffeic acid
 derivatives (particularly cichoric acid), polysaccharides, and flavonoids.
 The alkylamides are considered primary immunomodulatory agents, while cichoric
-acid serves as an important marker compound for quality assessment.
+acid serves as an important marker compound for [[ingham-compost-quality-assessment-visual-microbial-indicators]].
 
 In cultivation, echinacea prefers full sun and well-drained soils. Different
 species have varying requirements: E. purpurea is the easiest to cultivate and
@@ -52,7 +53,7 @@ more challenging to grow and harvest.
 
 [[st-johns-wort-guide]]
 
-St. John's Wort ([[hypericum-perforatum]] um]]) is a perennial herb native to Europe,
+St. John's Wort (hypericum perforatum um) is a perennial herb native to Europe,
 western Asia, and North Africa, now naturalized throughout North America. It
 has been used medicinally for over 2,400 years and is one of the most
 extensively researched herbal remedies, particularly for mild to moderate
@@ -88,7 +89,7 @@ numerous pharmaceutical medications.
 | **Best Used** | At first signs of illness, short-term (5-10 days) | Long-term for chronic conditions |
 | **Plant Family** | Asteraceae | Hypericaceae |
 | **Native Range** | North America | Europe, western Asia, North Africa |
-| **Major Safety Concern** | Autoimmune conditions (theoretical) | Drug interactions, photosensitivity |
+| **Major Safety Concern** | [[blesching-cannabis-health-index-autoimmune-conditions]] (theoretical) | Drug interactions, photosensitivity |
 | **Harvest Timing** | Roots in fall (3rd-4th year), aerials at bloom | Flowering tops at peak bloom |
 
 ## When to Choose Echinacea
@@ -101,7 +102,7 @@ support its efficacy for:
 
 - Upper respiratory infections (colds, flu)
 - Early-stage bacterial and viral infections
-- Wound healing and topical applications
+- Wound healing and [[cannabis-topical-applications]]
 - As a preventative during cold and flu season (short courses)
 
 Echinacea works best in high, frequent doses for short periods. The traditional
@@ -115,7 +116,7 @@ administration.
 St. John's Wort is appropriate for mood-related conditions, particularly mild
 to moderate depression and anxiety. Unlike echinacea, which is used acutely,
 St. John's Wort typically requires consistent, long-term use (4-6 weeks minimum)
-to achieve therapeutic effects. It is particularly valuable for:
+to achieve [[cbd-therapeutic-effects]]. It is particularly valuable for:
 
 - Mild to moderate depression
 - Seasonal affective disorder (SAD)
@@ -147,4 +148,3 @@ In traditional practice, these herbs typically appear in different formulas:
 echinacea in immune blends, St. John's Wort in nervine preparations.
 
 ## See Also
-- [[st-johns-wort-cultivation-and-medicinal-uses]]

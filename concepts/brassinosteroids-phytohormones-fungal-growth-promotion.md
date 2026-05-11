@@ -1,5 +1,5 @@
 ---
-title: Brassinosteroids as Steroidal Phytohormones for Fungal Growth Promotion
+title: Brassinosteroids Phytohormones Fungal Growth Promotion
 created: 2026-04-28
 tags:
   - brassinosteroids
@@ -21,7 +21,7 @@ type: concept
 
 # Brassinosteroids as Steroidal Phytohormones for Fungal Growth Promotion
 
-Brassinosteroids are a class of naturally occurring steroidal plant growth regulators recognized as a distinct group of phytohormones. First identified in higher plants, they have subsequently demonstrated growth-promoting activity in fungal systems as well, suggesting a broader biological role across kingdoms than originally understood. The research by J. Gartz (Institute of Biotechnology, Leipzig), G. Adam, and H.M. Vorbrodt (Institute of Plant Biochemistry, Halle/Saale), published in Naturwissenschaften in 1990, provided the first published evidence that brassinosteroids can significantly accelerate mycelial growth and fruiting body formation in fungi, opening a new area of investigation at the intersection of plant physiology and mycology.
+Brassinosteroids are a class of naturally occurring steroidal plant growth regulators recognized as a distinct group of phytohormones. First identified in higher plants, they have subsequently demonstrated growth-promoting activity in fungal systems as well, suggesting a broader biological role across kingdoms than originally understood. The research by J. Gartz (Institute of Biotechnology, Leipzig), G. Adam, and H.M. Vorbrodt (Institute of Plant Biochemistry, Halle/Saale), published in Naturwissenschaften in 1990, provided the first published evidence that brassinosteroids can significantly accelerate mycelial growth and [[fungal-fruiting-body-formation-environmental-triggers]] in fungi, opening a new area of investigation at the intersection of plant physiology and mycology.
 
 ## Classification as the Sixth Phytohormone Class
 
@@ -45,7 +45,7 @@ These diverse and overlapping effects distinguish brassinosteroids from simpler 
 
 The specific brassinosteroid used in the Gartz fungal studies was synthetic 22S,23S-homobrassinolide, prepared from stigmasterol by Adam and Marquardt as described in their 1986 Phytochemistry paper (volume 25, page 1787). Homobrassinolide is a C28 brassinosteroid, meaning it contains 28 carbon atoms in its molecular framework. The stereochemistry at positions 22 and 23 (both S configuration) is critical for biological activity; the natural enantiomeric configuration is absolutely required for growth-promoting effects, and the synthetic racemate or opposite enantiomer shows dramatically reduced or absent activity.
 
-Stigmasterol, a common plant sterol abundantly found in soybeans, calabar beans, and various vegetable oils, serves as the readily available and inexpensive starting material for the multi-step synthesis. The structural similarity between brassinosteroids and animal steroid hormones (such as estrogen, testosterone, progesterone, and cortisol) is notable and biologically significant. Both classes of compounds share the cyclopentanoperhydrophenanthrene (sterane) four-ring system, though their specific substituent patterns and biological targets differ substantially across kingdoms.
+Stigmasterol, a common plant sterol abundantly found in soybeans, calabar beans, and various vegetable oils, serves as the readily available and inexpensive [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for the multi-step synthesis. The structural similarity between brassinosteroids and animal steroid hormones (such as estrogen, testosterone, progesterone, and cortisol) is notable and biologically significant. Both classes of compounds share the cyclopentanoperhydrophenanthrene (sterane) four-ring system, though their specific substituent patterns and biological targets differ substantially across kingdoms.
 
 ## Historical Context: The Gap in Fungal Research
 
@@ -73,12 +73,12 @@ The second cultivation system used a horse dung and rice grain mixture in water,
 
 The fact that a plant-derived steroidal hormone can accelerate fungal growth raises important questions about the evolutionary relationship between plant and fungal hormonal signaling systems. Several non-mutually exclusive hypotheses may explain the observed cross-kingdom activity:
 
-1. **Conserved receptor mechanisms**: Fungi may possess membrane-localized receptors structurally similar to plant brassinosteroid receptors (the BRI1/BRI1-associated kinase complex), suggesting ancient conservation of steroidal signaling pathways predating the divergence of the plant and fungal kingdoms over a billion years ago
+1. **Conserved receptor mechanisms**: Fungi may possess membrane-localized receptors structurally similar to plant brassinosteroid receptors (the BRI1/BRI1-associated kinase complex), suggesting ancient conservation of steroidal [[plant-signaling-pathways]] predating the divergence of the plant and fungal kingdoms over a billion years ago
 2. **Membrane fluidity effects**: As sterols, brassinosteroids may directly incorporate into fungal cell membrane lipid bilayers, altering membrane fluidity, permeability, and the function of membrane-bound transport proteins in ways that enhance nutrient uptake, cell division rates, or hyphal extension velocity
 3. **Metabolic mimicry**: Brassinosteroids may be metabolized by fungal enzyme systems into compounds that naturally regulate endogenous fungal growth, essentially providing exogenous precursors to native fungal growth regulatory molecules
 4. **Stress response modulation**: The well-documented anti-stress properties observed in plants may translate to fungal systems, enabling mycelium to allocate more metabolic resources to growth and reproduction rather than stress management and defense
 
-The morphological changes observed in treated fruiting bodies, specifically the consistent loss of the membranous annulus (the ring on the stem), suggest that brassinosteroids influence not just growth rate but also developmental gene expression patterns in fungi, pointing to a fundamental interaction with fungal developmental regulatory networks.
+The [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] observed in treated fruiting bodies, specifically the consistent loss of the [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (the ring on the stem), suggest that brassinosteroids influence not just growth rate but also developmental gene expression patterns in fungi, pointing to a fundamental interaction with fungal developmental regulatory networks.
 
 ## Comparison with Other Cross-Kingdom Hormonal Compounds
 
@@ -88,36 +88,3 @@ The brassinosteroid finding fits into a broader pattern of plant hormones demons
 - **Auxins**: Indole-3-acetic acid (IAA), the principal auxin, is produced by many fungi including mycorrhizal species, where it modulates the plant-fungal symbiotic interface
 - **Cytokinins**: Several fungal species produce cytokinin-like compounds that may influence fungal colony morphology and interaction with host plants
 - **Ethylene**: Multiple fungal genera produce ethylene, which can act as both an autoregulatory signal within fungal colonies and as a communication molecule in plant-fungal interactions
-
-The brassinosteroid findings add to this pattern, reinforcing the concept that hormonal signaling pathways share deep evolutionary roots across the plant and fungal kingdoms.
-
-## Agricultural and Commercial Potential
-
-The potential application of brassinosteroids to commercially important fungal species represents a promising but largely unexplored area of applied mycology. Edible [[accessible-mushroom-cultivation-for-disabilities]] operations growing species of Agaricus (button and portobello mushrooms), Pleurotus (oyster mushrooms), Lentinula (shiitake), and Volvariella (paddy straw mushrooms) could potentially benefit from accelerated mycelial colonization rates, reduced time to first harvest, and increased flush productivity. The extremely low effective concentration of 0.01 ppm means that treatment costs would be negligible relative to total production costs, making economic adoption straightforward if efficacy is confirmed in commercial-scale trials.
-
-The anti-stress properties of brassinosteroids may also improve contamination resistance during the spawn run phase, when introduced competitive microorganisms pose the greatest threat to cultivation success, or tolerance of suboptimal environmental conditions during the fruiting phase such as temperature fluctuations or inadequate humidity.
-
-## The Stigmasterol Connection
-
-The biosynthetic pathway from stigmasterol to 22S,23S-homobrassinolide is of particular interest because stigmasterol itself is a compound with known biological activity in fungal systems. Stigmasterol and other phytosterols are known to modulate fungal membrane properties, and some studies suggest that dietary phytosterols can influence the growth rate and [[arbuscule-isolation-metabolic-activity-assays]] of various fungi. This raises the question of whether the growth-promoting effects of homobrassinolide are mediated through the same pathways as stigmasterol, or whether the additional hydroxyl and ketone functional groups in the brassinosteroid structure confer unique receptor-mediated signaling capabilities beyond simple membrane effects.
-
-## Future Research Directions
-
-The Gartz study raises numerous questions that remain unanswered decades later. Key areas for future investigation include:
-
-- Whether brassinosteroid receptors exist in fungi, and if so, whether they share structural homology with the plant BRI1 receptor kinase
-- The optimal brassinosteroid concentration for different fungal species and [[synthetic-log-cultivation-methods-guide]]
-- Whether naturally occurring brassinosteroids are present in fungal mycelium or fruiting bodies
-- The interaction between brassinosteroid treatment and substrate [[dighton-fungal-nutritional-composition-animal-diets]]
-- Long-term effects of brassinosteroid treatment on strain vitality over multiple generations
-- Whether the observed morphological changes (annulus loss) affect spore production or dispersal capacity
-
-## See Also
-
-- [[brassinosteroids-in-fungal-cultures]]
-
-- [[brassinosteroids-in-fungal-cultivation]]
-- [[22s-23s-homobrassinolide-chemistry-and-synthesis]] - Chemical structure and synthesis pathway
-- [[brassinosteroid]] - Fruiting body acceleration data
-- [[brassinosteroid-effects-on-fungal-morphology]] - Morphological changes in treated fungi
-- [[brassinosteroids-psilocybin-fruiting]] - Brassinosteroid effects on [[gottlieb-psilocybin-production-extraction-methods]]

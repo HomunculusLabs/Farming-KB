@@ -1,5 +1,5 @@
 ---
-title: "Electricity in [[permaculture]]"
+title: Williams Pdc Electricity In Permaculture
 created: 2026-04-28
 tags: [permaculture, renewable-energy, solar, electricity, passive-design]
 date: 2026-04-28
@@ -88,63 +88,3 @@ functions of any solar panels used in your design.
 
 Micro-hydro power is one of the most reliable and cost-effective renewable
 energy sources available to [[permaculture-designers-manual-animal-forage-systems]] with access to flowing
-water. Unlike solar and wind, which are intermittent, a properly designed
-micro-hydro system can produce power continuously, 24 hours a day.
-
-### How Micro-Hydro Works
-
-A micro-hydro system converts the kinetic energy of flowing water into
-electricity using a turbine connected to a generator. The key parameters
-are head (the vertical drop of water) and flow (the volume of water
-moving through the system). Even a small stream with moderate head can
-produce significant power year-round. Systems under 100 kW are classified
-as micro-hydro, but most homestead-scale installations range from 1-10 kW.
-
-### Site Assessment
-
-Evaluating a site for micro-hydro potential requires measuring both the
-available head and the minimum flow rate during the driest months. A
-
-(Section truncated for length.)
-
-## Biogas Energy
-
-Biogas digestion converts organic waste into methane gas for cooking,
-heating, or electricity generation, while producing nutrient-rich
-digestate as a fertilizer byproduct. It aligns closely with
-[[permaculture]] principles by turning waste into a resource and closing
-nutrient loops.
-
-### How Biogas Digesters Work
-
-Anaerobic bacteria break down organic matter in an airtight container
-(digester) in the absence of oxygen. The process produces biogas, a
-mixture of approximately 60% methane and 40% carbon dioxide, along with
-slurry (digestate) that is an excellent fertilizer. Common feedstocks
-include manure, food scraps, crop residues, and human waste.
-
-### Types of Digesters
-
-- **Fixed-dome digesters**: Underground masonry or concrete construction
-  common in China and India. Low cost, durable, no moving parts.
-- **Floating-drum digesters**: A movable gas holder floats on the
-  slurry. Easier to measure gas production but more expensive to build.
-- **Tube digesters**: Simple polyethylene bag systems. Lowest cost,
-  suitable for small households, shorter lifespan.
-
-### Biogas in Permaculture Systems
-
-A biogas digester connects directly to other permaculture elements. The
-digestate fertilizes gardens and orchards. The gas cooks food, reducing
-fuelwood demand and deforestation pressure. Manure from poultry, livestock,
-or humanure systems provides continuous feedstock. The
-[[williams-pdc-additional-permaculture-principles]] of "[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]"
-and "catch and store energy" are directly embodied in biogas systems.
-
-### Scale and Output
-
-Small household digesters (1-4 cubic meters) produce enough gas for 2-4
-hours of daily cooking. Larger farm-scale systems can produce sufficient
-gas to run generators for electricity. Temperature affects digestion
-rate: mesophilic systems (around 35 degrees C) are most common in warm
-climates, while [[fukuoka-natural-farming-temperate-climates]] may require heated digesters that

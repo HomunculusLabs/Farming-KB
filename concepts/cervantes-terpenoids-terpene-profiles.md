@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Cannabis Terpenoids and Terpene Profiles
 
 Terpenoids are the aromatic compounds responsible for the distinctive
-smell and taste of cannabis. They are produced in the same resin glands
+smell and taste of cannabis. They are produced in the same [[greg-green-trichomes-and-resin-glands]]
 (trichomes) that synthesize cannabinoids. Beyond providing fragrance,
 terpenoids play significant roles in the therapeutic and psychoactive
 effects of marijuana through what researchers call the "entourage
@@ -30,7 +31,7 @@ Terpenoids are [[fungal-volatile-organic-compounds-communication]] compounds fou
 many plants. In cannabis, they are synthesized in the trichome heads
 alongside cannabinoids. The specific mix of terpenoids gives each
 cannabis variety its unique aroma, from citrus and pine to earthy and
-skunky notes. Terpenoids are hydrocarbons found in essential oils and
+skunky notes. Terpenoids are hydrocarbons found in [[essential-oils-and-hydrosol-distillation]]
 serve as the building blocks for many plant-derived medicines and
 flavorings.
 
@@ -39,7 +40,7 @@ flavorings.
 ### Limonene
 
 Limonene is a citrus-scented terpenoid found in many cannabis
-varieties. It has significant therapeutic potential: limonene blocks
+varieties. It has significant [[metzner-ayahuasca-therapeutic-potential]]: limonene blocks
 the carcinogenesis induced by "tar" generated from the combustion of
 herb. It is currently undergoing tests for the treatment of several
 types of cancer. Limonene also increases brain acetylcholine activity,
@@ -87,33 +88,3 @@ provoked by THC, and CBD demonstrates antipsychotic effects. Anxiety
 from THC may also be alleviated by terpenoids present in marijuana.
 
 Many terpenoids are volatile and possess sedative properties when
-inhaled. Terpenoids may also mitigate memory loss caused by pure THC.
-The combined action of cannabinoids and terpenoids creates a more
-balanced and nuanced effect than any single compound alone.
-
-## Neurotransmitter Interactions
-
-Terpenoids act on various receptors and neurotransmitters in the body.
-Some terpenoids act as serotonin uptake inhibitors (as does Prozac),
-and augment the neurotransmitter GABA (as does Valium). Terpenoids
-produce anti-inflammatory effects in the respiratory tract. Their
-presence in marijuana smoke may explain why inhaling marijuana smoke
-causes less airway irritation and inflammation than inhaling pure THC.
-
-## Environmental Influences on Terpenoid Production
-
-Terpenoid production is influenced by growing conditions. Warmer
-temperatures bring out more smell, which is associated with higher
-THCV concentrations. The [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] for details on how resin gland development correlates with
-terpenoid and cannabinoid production.
-
-## Related
-
-- [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] Concepts
-
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - glandular trichomes
-  produce both terpenoids and cannabinoids
-- [[cervantes-strain-selection]] - genetic factors in terpenoid
-  profiles
-- [[cervantes-indica-sativa-ruderalis-differences]] - terpenoid
-  differences between subspecies

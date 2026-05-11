@@ -87,13 +87,3 @@ hallucinogenic and psychoactive plants covered in the [[psilocybin-compound-prof
 phenethylamines like [[turkestan-mint-lagochilus-inebrians]] and [[psychedelic-safety-and-contra-indications]], proper
 identification of the botanical variety, dosage awareness, and caution are
 essential.
-
-## See Also
-
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]]
-- [[golden-guide-iboga-and-tabernanthe]]
-- [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]
-
-[[anticholinergic-hallucinogenic-plants]] describes plants with similarly ambiguous boundaries between medicinal and psychoactive use.
-[[tree-daturas-brugmansia-south-american-ethnobotany]] explores [[chiric-caspi-brunfelsia-south-american-hallucinogen]] ethnobotanical traditions parallel to the Northern Hemisphere sweet flag usage.
-[[tryptamine-hallucinogens-and-consciousness]] provides pharmacological context for understanding mild psychoactive plant effects like those of sweet flag.

@@ -10,20 +10,20 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Barros, L., et al. (2014). "Bioactivity and chemical characterization of Bellis perennis." Food Chemistry, 153, 404-410.
-  - Kovačević, N., et al. (2006). "Essential oil composition of Bellis perennis L." Journal of Essential Oil Research, 18(1), 19-21.
+  - Kovačević, N., et al. (2006). "[[permaculture-designers-manual-essential-oil-plants]] composition of Bellis perennis L." Journal of Essential Oil Research, 18(1), 19-21.
   - Tutin, T.G., et al. (1976). Flora Europaea, Volume 4. Cambridge University Press.
   - Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. Medpharm Scientific Publishers.
 ---
 
 ## Overview
 
-Bellis perennis, the common daisy or English daisy, is a small perennial herbaceous plant in the family Asteraceae native to Europe and western Asia. It is one of the most familiar and widely distributed wildflowers in temperate regions, occurring naturally in meadows, pastures, and lawns across its range.
+Bellis perennis, the common daisy or English daisy, is a small perennial herbaceous plant in the family Asteraceae native to Europe and western Asia. It is one of the most familiar and widely distributed wildflowers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], occurring naturally in meadows, pastures, and lawns across its range.
 
-The species has a long history of use in European folk medicine, where the flowers and leaves have been employed to treat wounds, bruises, and inflammatory conditions. Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities in various extracts.
+The species has a long history of use in European folk medicine, where the flowers and leaves have been employed to treat wounds, bruises, and [[cannabis-for-inflammatory-conditions]]. Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities in various extracts.
 
-B. perennis is also valued as an ornamental plant, with numerous cultivars bred for double flowers, compact growth, and varied flower colors. Its ability to tolerate close mowing has made it a persistent component of temperate lawns worldwide.
+B. perennis is also valued as an ornamental plant, with numerous cultivars bred for double flowers, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], and varied flower colors. Its ability to tolerate close mowing has made it a persistent component of temperate lawns worldwide.
 
-The species was traditionally associated with innocence and purity in European folklore, and daisy chains remain a familiar childhood pastime. In Old English, the name "day's eye" refers to the flower's habit of opening at dawn and closing at dusk.
+The species was traditionally associated with innocence and purity [[mandrake-mandragora-officinarum-in-european-folklore]], and daisy chains remain a familiar childhood pastime. In Old English, the name "day's eye" refers to the flower's habit of opening at dawn and closing at dusk.
 
 ## Taxonomy and Morphology
 
@@ -33,13 +33,13 @@ The species belongs to the tribe Astereae within Asteraceae and is the type spec
 
 Plants form low-growing rosettes 5–20 cm tall, with a central crown producing multiple flowering stems. The root system consists of a fibrous network of shallow roots and short rhizomes that facilitate vegetative spread.
 
-Chromosome number is 2n = 18 for diploid populations, with polyploid cytotypes (2n = 36, 54) also reported. Polyploid forms tend to produce larger flowers and more robust vegetative growth.
+Chromosome number is 2n = 18 for diploid populations, with polyploid cytotypes (2n = 36, 54) also reported. Polyploid forms tend to produce larger flowers and more robust [[cannabis-vegetative-growth-stage]].
 
 ### Leaf morphology
 
 Leaves are basal, arranged in a compact rosette, and spathulate to obovate. They measure 1–5 cm long and 0.5–2 cm wide, with rounded tips and finely toothed margins.
 
-The leaf surface is glabrous to sparsely hairy, dark green above and lighter below. Leaf texture is somewhat fleshy, and the foliage remains green throughout winter in mild climates, giving the species its evergreen character.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is glabrous to sparsely hairy, dark green above and lighter below. Leaf texture is somewhat fleshy, and the foliage remains green throughout winter in mild climates, giving the species its evergreen character.
 
 Rosettes can persist for several years, with individual leaves living 3–6 months before being replaced by new growth from the crown. This continuous turnover maintains the evergreen appearance even through adverse conditions.
 
@@ -55,9 +55,9 @@ Seed viability is relatively short, with most seeds germinating within one year.
 
 ## Distribution and Habitat
 
-B. perennis is native to Europe, North Africa, and western Asia, from the British Isles and Scandinavia to the Mediterranean and eastward to Turkey and Iran. It has been introduced to temperate regions worldwide and is naturalized in North America, Australasia, and southern South America.
+B. perennis is native to Europe, North Africa, and western Asia, from the British Isles and Scandinavia to the Mediterranean and eastward to Turkey and Iran. It has been introduced to temperate regions worldwide and is naturalized in [[guzman-psilocybin-mushrooms-north-america]], Australasia, and southern [[guzman-psilocybin-mushrooms-south-america]].
 
-Introduction to North America likely occurred with early European settlement, and the species is now widespread across the northeastern United States and Pacific Northwest. It is less common in the arid interior and southeastern states.
+Introduction to [[berry-growing]] likely occurred with early European settlement, and the species is now widespread across the northeastern United States and [[psilocybin-north-america-pacific-northwest]]. It is less common in the arid interior and southeastern states.
 
 The species occupies a broad ecological range, from sea level to approximately 2,000 meters in alpine meadows. It thrives in managed grasslands, lawns, pastures, roadsides, and disturbed areas with moderately fertile, well-drained soils.
 
@@ -69,7 +69,7 @@ The species is considered an indicator of moderately fertile, well-managed grass
 
 In European folk medicine, B. perennis has been used for centuries as a wound herb and anti-inflammatory agent. The leaves were applied fresh as poultices to bruises, sprains, and minor wounds, while flower preparations were taken internally for respiratory and digestive complaints.
 
-Daisy preparations were also used traditionally to treat gout, rheumatism, and skin conditions including eczema and boils. The dried flowers were steeped in wine or vinegar to create topical liniments for joint pain.
+Daisy preparations were also used traditionally to treat gout, rheumatism, and [[cannabis-for-skin-conditions-detailed]] including eczema and boils. The dried flowers were steeped in wine or vinegar to create topical liniments for joint pain.
 
 The species was included in the medieval Doctrine of Signatures, where the flower's resemblance to an eye led to its use as a treatment for eye complaints. Culpeper's Complete Herbal (1653) recommends daisy preparations for migraines and visual disturbances.
 
@@ -88,30 +88,3 @@ Numerous ornamental cultivars are available, including double-flowered forms (e.
 The 'Habanera' series offers large, semi-double flowers in mixed colors, while 'Tasso' types produce fully double, pom-pom-like blooms on compact plants. These cultivars are widely sold as bedding plants for spring and autumn displays.
 
 The species is hardy to USDA Zone 4 and tolerates both full sun and partial shade. It prefers evenly moist, moderately fertile soils but adapts to a range of conditions. Over-fertilization produces lush foliage at the expense of flowering.
-
-Divide established clumps every 2–3 years to maintain vigor and prevent center dieback. Deadheading spent flowers encourages continued blooming, though allowing some seed set supports natural reseeding.
-
-## Ecology
-
-Common daisies provide early-season nectar and pollen for a variety of pollinators, including bees, hoverflies, and butterflies. The flowers are particularly important in early spring when few other nectar sources are available.
-
-The composite flower structure provides accessible nectar for short-tongued insects, while the abundant pollen supports queen bumblebees establishing spring nests. Pollinator visitation rates peak during warm, sunny mornings.
-
-The low-growing rosette form creates microhabitats for small invertebrates in lawns and meadows. Ground beetles, spiders, and other predators shelter among the leaf bases, contributing to natural pest control in grassland ecosystems.
-
-In urban environments, the presence of B. perennis in lawns has been correlated with higher earthworm abundance and improved soil structure. The shallow root system creates channels that enhance water infiltration and aeration.
-
-B. perennis serves as a larval food plant for several Lepidoptera species, including the garden tiger moth (Arctia caja) and the daisy leaf miner (Chromatomyia syngenesiae). These insect associations support higher trophic levels in meadow food webs.
-
-In temperate grasslands, daisies contribute to plant species diversity by coexisting with grasses and other herbs in mown or grazed swards. Their presence is positively associated with overall plant and invertebrate diversity in lawn ecosystems.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[plantago-major]]
-- [[achillea-millefolium]]
-- [[trifolium-repens]]
-- [[rumex-acetosa]]
-- [[matricaria-chamomilla]]
-- [[calendula-officinalis]]
-- [[prunella-vulgaris]]

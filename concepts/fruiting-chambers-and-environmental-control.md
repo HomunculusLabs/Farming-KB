@@ -88,30 +88,3 @@ greater capacity and environmental control.
 
 Advanced setups use environmental controllers (Inkbird, Arduino-based systems)
 to monitor and regulate temperature, humidity, CO2, and light automatically.
-Sensors trigger relays that control heaters, humidifiers, fans, and lights.
-These systems reduce daily maintenance and improve consistency.
-
-## Misting and Fanning
-
-In manual setups, cultivators mist the chamber walls and substrate surface
-with a fine spray bottle 2-4 times daily to maintain humidity. Misting the
-substrate directly (not the mushrooms) is preferred to avoid water pooling on
-caps. Fanning with the chamber lid or a piece of cardboard expels CO2 after
-misting. This cycle of misting and fanning provides both humidity and FAE.
-
-## Common Problems
-
-- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Causes cracked caps, slow growth, and aborts. Add more
-  moisture sources or reduce FAE frequency.
-- **High CO2**: Long stems, small caps, fuzzy feet. Increase FAE.
-- **[[growing-gourmet-bacterial-blotch-disease-management]]**: Dark brown spots on caps caused by *Pseudomonas*
-  bacteria. Reduce surface moisture and increase FAE.
-- **Cobweb mold**: Gray mold caused by poor FAE and excess humidity.
-- **Overlay**: Dense mat of mycelium on substrate surface that resists
-  pinning. Caused by prolonged colonization at [[fruiting-conditions]].
-
-## See Also
-
-- [[accessible-mushroom-cultivation-for-disabilities]] fundamentals
-- mushroom cultivation fundamentals
-- mushroom cultivation fundamentals

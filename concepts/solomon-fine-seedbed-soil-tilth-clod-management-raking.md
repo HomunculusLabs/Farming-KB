@@ -11,7 +11,7 @@ Understanding soil tilth begins with understanding what a seed experiences under
 
 Large seeds like beans, peas, and corn can push harder against obstacles, and if you sow extra seeds, enough of them will usually emerge to make a row even in rough ground. However, tiny seeds — lettuce, carrots, beets, and similar crops — cannot fight their way past a lump. They need what is termed a "fine seedbed" to come up in.
 
-This distinction between large and small seeds is critical for garden planning. Crops with tiny seeds demand more bed preparation; crops with large seeds are more forgiving of rough soil conditions.
+This distinction between large and small seeds is critical for [[hamilton-garden-planning-and-site-assessment]]. Crops with tiny seeds demand more [[azurescens-outdoor-bed-preparation-woodchips]]; crops with large seeds are more forgiving of rough soil conditions.
 
 ---
 
@@ -80,41 +80,10 @@ Used both for initial digging and for creating raised beds by moving soil from p
 
 ### The Hoe
 
-Essential for weed control but also useful for breaking small clods during bed preparation. A sharp hoe makes all the difference.
+Essential for [[coleman-preemergence-flaming-weed-control]] but also useful for breaking small clods during bed preparation. A sharp hoe makes all the difference.
 
 ---
 
 ## Restoring a Raised Bed After Cropping
 
 After a raised bed or raised wide row has grown a crop, you will need to restore its surface before replanting:
-
-1. **Light crops:** If the bed is going to grow low-demand crops next, a light raking to smooth the surface may be sufficient.
-
-2. **Medium to high-demand crops:** If the bed will grow demanding vegetables, spread about 1/8 inch (3 mm) of compost or well-rotted manure over the surface and work it in lightly with a rake.
-
-3. **COF application:** Apply the Complete Organic Fertilizer (COF) at the standard rate and rake it into the top inch of soil.
-
-4. **Re-rake clods:** Any clods that have formed during the previous crop's growth should be raked into the paths. If the bed has settled, pull a little soil from the paths back onto the surface.
-
----
-
-## Soil Types and Tilth Challenges
-
-### Clay Soils
-Clay is the most challenging for tilth. It forms rock-hard clods instantly when dug at the wrong moisture and gets rock-hard when dry. Clay soils require careful timing — work them only when they are at the correct moisture content. Raised beds help enormously with clay because the elevation improves drainage and prevents the surface from re-cementing after rain.
-
-### Sandy Soils
-Sandy soils naturally have good tilth but may lack structure and moisture retention. They rarely form clods but may crust if they contain fine silt. Adding organic matter improves their water-holding capacity.
-
-### Loam Soils
-The ideal garden soil — a balanced mixture of sand, silt, and clay. Loam is easy to work, rarely forms problematic clods, and maintains good tilth with moderate organic matter additions.
-
----
-
-## Key Principle
-
-Good tilth is not about adding more organic matter — it is about physical soil management. The most effective tilth-improvement technique is also the simplest: raise the beds a few inches, then rake the surface clods into the paths. This costs nothing in amendments, requires only basic tools, and produces a seedbed fine enough for even the tiniest seeds to emerge.
-
-The raised bed geometry does most of the work for you. Gravity moves the clods downhill into the paths; your feet break them down over time; and the elevated, uncompacted surface maintains its crumbly structure throughout the season with minimal effort.
-
-For gardeners in hard times, this is good news: you do not need expensive soil amendments, motorized tillers, or imported topsoil to create excellent growing conditions. A shovel, a bow rake, and the knowledge of how to arrange soil into raised surfaces are sufficient.

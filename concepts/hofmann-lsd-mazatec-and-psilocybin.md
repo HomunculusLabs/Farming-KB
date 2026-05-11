@@ -2,7 +2,7 @@
 title: Hofmann, the Mazatec, and the Discovery of Psilocybin
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Albert Hofmann, LSD - My Problem Child"
+sources: "albert-hofmann, LSD - My Problem Child"
 wikilinks: "hofmann-lsd-discovery-bicycle-day hofmann-lsd-pharmacology-and-effects hofmann-lsd-sandoz-research-program hofmann-lsd-psychiatric-research hofmann-lsd-consciousness-and-philosophy"
 type: concept
 tags: [lsd, mazatec, psilocybin]
@@ -18,13 +18,13 @@ chroniclers first entered Mexico after the conquest by Hernando Cortes. The
 most important witness was the Franciscan friar Bernardino de Sahagun, who
 described the magic mushrooms and their effects in his Historia General de las
 Cosas de Nueva Espana (1529-1590). In Nahuatl, the language of the Aztecs,
-these mushrooms were called teonanacatl, meaning "sacred mushroom."
+these mushrooms were called teonanacatl, meaning "[[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]."
 The Christian missionaries regarded the inebriating, vision-producing effects
 as Devil's work and tried to extirpate their use. They succeeded only partially,
 as the Indians continued secretly to utilize the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] down to
-modern times. So-called mushroom stones found in El Salvador, Guatemala, and
+modern times. So-called [[mckenna-mushroom-stones-of-guatemala]] found in El Salvador, Guatemala, and
 Mexico, stone sculptures in the form of pileate mushrooms dating to before 500
-B.C., suggest the mushroom cult is more than two thousand years old.
+B.C., suggest [[allegro-death-and-resurrection-in-the-mushroom-cult]] is more than two thousand years old.
 
 ## Rediscovery by Western Science
 
@@ -46,7 +46,7 @@ native language and ministerial associations with the inhabitants, giving her
 information about the significance of the magic mushrooms that nobody else
 possessed. During several lengthy sojourns in Huautla and environs, the
 Wassons studied the present use of the mushrooms in detail and confirmed that
-the belief in the "sacred mushrooms" was still prevalent.
+the belief in the "[[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]" was still prevalent.
 
 ## The Mushroom Ceremony
 
@@ -75,7 +75,7 @@ could cause insanity or even death.
 The Wassons undertook their first expedition in 1953, but not until 1955 did
 they succeed in overcoming the shyness and reserve of their Mazatec friends to
 the point of being admitted as active participants in a mushroom ceremony. R.
-Gordon Wasson and the photographer Allan Richardson were given sacred mushrooms
+[[gordon-wasson-comparative-method-ethnomycology]] and the photographer Allan Richardson were given sacred mushrooms
 to eat at the end of June 1955, becoming in all likelihood the first outsiders,
 the first whites, ever permitted to take teonanacatl.
 Wasson described how the mushroom seized possession of him completely. First
@@ -87,57 +87,3 @@ spirit soared timelessly in a realm of fantasy among images of a higher reality
 and deeper meaning than those of the ordinary world. This experience was the
 final proof that the magical powers attributed to the mushrooms actually
 existed.
-
-## Botanical Identification
-
-To introduce the mushrooms to scientific research, Wasson had established an
-association with mycologist Professor Roger Heim of Paris. Accompanying the
-Wassons on further expeditions into the Mazatec country, Heim conducted the
-botanical identification. He showed that they were gilled mushrooms from the
-family Strophariaceae, about a dozen different species not previously described
-scientifically, the greatest part belonging to the genus Psilocybe. Heim also
-succeeded in cultivating some species in the laboratory. [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
-proved especially suitable for [[fukuoka-matsutake-artificial-cultivation-attempt]].
-
-## Chemical Investigation at Sandoz
-
-Chemical investigations were carried out at Heim's instigation in Paris and at
-two American pharmaceutical companies (Merck, and Smith, Kline and French), but
-these turned out to be ineffectual. Professor Heim therefore addressed the
-matter to Sandoz, feeling that their experimental experience with LSD could be
-of use. As Hofmann wrote, "It was LSD that showed teonanacatl the way into our
-laboratory."
-As director of the department of natural products at Sandoz, Hofmann wanted to
-assign the investigation to a coworker, but nobody showed eagerness because
-LSD was scarcely popular with management. Hofmann decided to conduct the
-investigation himself.
-About 100 g of dried Psilocybe mexicana mushrooms, cultivated by Heim, were
-available. Hofmann's laboratory assistant Hans Tscherter aided in the
-extraction and isolation attempts. No extract showed an unequivocal effect in
-the mouse or dog, raising doubt whether the [[fungi-cultivated-mushrooms-pathogens-competitors]] were still
-active. As with LSD, Hofmann made the fundamental human experiment himself.
-
-## Hofmann's Mushroom Self-Experiment
-
-Hofmann ate 32 dried specimens of Psilocybe mexicana weighing 2.4 g, an
-average dose used by the curanderos. The mushrooms displayed strong psychic
-effects. As he reported:
-"Thirty minutes after my taking the mushrooms, the exterior world began to
-undergo a strange transformation. Everything assumed a Mexican character. As I
-was perfectly well aware that my knowledge of the Mexican origin of the
-mushroom would lead me to imagine only Mexican scenery, I tried deliberately to
-look on my environment as I knew it normally. But all voluntary efforts to look
-at things in their customary forms and colors proved ineffective."
-When the supervising doctor bent over him to check blood pressure, he was
-transformed into an Aztec priest. At the peak of the intoxication, about 1.5
-hours after ingestion, the rush of interior pictures reached such an alarming
-degree that Hofmann feared he would be torn into the whirlpool of form and
-color. After about six hours the dream came to an end. He felt his return to
-
-- [[psilocybin-mushroom-species-identification]]
-- gordon-wasson-mushroom-discovery
-
-## See Also
-
-- [[hofmann-ernst-junger-lsd-literary-dialogue]]
-- [[hofmann-lsd-animal-experiments-toxicity]]

@@ -16,7 +16,7 @@ sources:
   - Prance, G.T. (1972). "Virola and the Use of Hallucinogenic Snuffs by Amazonian Indians." Economic Botany, 26(3), 249-258.
   - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Paresi Indians of Brazil." Economic Botany, 23(4), 355-357.
   - Farnsworth, N.R. (1968). "Hallucinogenic Plants." Science, 162(3860), 1400-1405.
-  - Holmstedt, B. & Lindgren, J.E. (1967). "Chemical constituents of Virola species." Lloydia, 30(3), 237-241.
+  - Holmstedt, B. & Lindgren, J.E. (1967). "[[guzman-magic-mushrooms-chemical-constituents]] of Virola species." Lloydia, 30(3), 237-241.
 ---
 
 ## Overview
@@ -31,7 +31,7 @@ The inner bark resin of this species contains significant concentrations of
 making it one of the most potent natural tryptamine sources known.
 
 The species is also valued for its timber and has ecological importance as a
-food source for wildlife in lowland tropical forests.
+food source for wildlife in lowland [[fungal-biodiversity-tropical-forests]].
 
 ## Taxonomy and Morphology
 
@@ -86,52 +86,4 @@ through long blow tubes made from hollow bird bones.
 Effects begin within seconds of insufflation and include intense visual
 hallucinations, synesthesia, altered time perception, and experiences interpreted
 as spirit contact or divination. The experience is typically shorter in duration
-than ayahuasca, lasting 15–30 minutes.
-
-Some groups prepare an oral form by boiling the resin with leaves of *Justicia
-pectoralis* or other admixture plants to inhibit monoamine oxidase, extending
-the experience to several hours.
-
-## Phytochemistry
-
-The primary psychoactive constituents are tryptamine alkaloids concentrated in
-the inner bark resin:
-
-**DMT** (N,N-dimethyltryptamine) — typically 0.1–0.5% of fresh bark by weight.
-The principal visionary compound, a 5-HT2A receptor agonist.
-
-**5-MeO-DMT** (5-methoxy-N,N-dimethyltryptamine) — present at comparable or
-higher concentrations in some populations. More potent than DMT at 5-HT2A, with
-distinctly different subjective effects characterized by ego-dissolution rather
-than visual imagery.
-
-**β-carbolines** — trace amounts of harmine and related compounds have been
-detected, though not in sufficient quantities for [[tihkal-oral-activity-mao-inhibition]] without an
-exogenous MAO inhibitor.
-
-Alkaloid content varies significantly between populations, individual trees,
-and seasons, with the highest concentrations found in young branch bark during
-the early wet season.
-
-## Ecological and Economic Significance
-
-The timber of *V. surinamensis* is commercially marketed as "baboonwood" or
-"virola" and is used in light construction, plywood, and furniture making.
-Selective logging has contributed to population declines in some areas.
-
-As a canopy-emergent tree, the species plays an important role in forest
-structure and provides food for wildlife through its arillate seeds, which are
-an important resource for toucans, guans, and agoutis.
-
-Conservation status is not formally assessed by the IUCN, but habitat loss
-through deforestation and logging pressure are recognized threats across much of
-its range.
-
-## See Also
-
-- [[virola-sebifera]]
-
-- [[mimosa-hostilis]]
-- [[tabernanthe-iboga]]
-- [[anadenanthera-peregrina]]
-- [[erythroxylum-coca]]
+than [[ayahuasca]], lasting 15–30 minutes.

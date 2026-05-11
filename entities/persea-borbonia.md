@@ -18,13 +18,13 @@ sources:
 
 ## Overview
 
-**Persea borbonia** (redbay) is an evergreen tree in the family Lauraceae, native to the southeastern United States. It is a dominant component of coastal plain forests, maritime hammocks, and bay swamps across the Atlantic and Gulf coastal plains.
+**Persea borbonia** (redbay) is an evergreen tree in the family Lauraceae, native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is a dominant component of coastal plain forests, maritime hammocks, and bay swamps across the Atlantic and Gulf coastal plains.
 
 Redbay is ecologically significant as a primary food source for wildlife, particularly birds, and as the most severely affected host of **laurel wilt disease**, a devastating [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] vectored by the invasive redbay ambrosia beetle.
 
 Since the arrival of laurel wilt in the early 2000s, millions of redbay trees have been killed across their range, causing cascading ecological impacts.
 
-The species is closely related to avocado (*Persea americana*) and sassafras (*Sassafras albidum*), both of which are also susceptible to laurel wilt.
+The species is closely related to avocado (*[[persea-americana]]*) and sassafras (*[[sassafras-albidum]]*), both of which are also susceptible to laurel wilt.
 
 ## Taxonomy and Morphology
 
@@ -72,7 +72,7 @@ Elevation range is from sea level to approximately 200 meters in the piedmont.
 
 ## Ecology
 
-Redbay is a keystone species in coastal plain forest ecosystems, providing critical food and habitat for numerous wildlife species.
+Redbay is a keystone species in coastal plain [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], providing critical food and habitat for numerous wildlife species.
 
 The fruits are consumed by a wide variety of birds, including northern bobwhite, wild turkey, thrushes, waxwings, bluebirds, and woodpeckers.
 
@@ -84,50 +84,6 @@ Redbay foliage is browsed sparingly by deer but is an important winter browse in
 
 The species is a larval host for the palamedes swallowtail butterfly (*Papilio palamedes*), which has experienced significant population declines due to laurel wilt.
 
-Fallen leaves contribute significantly to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of forest floor ecosystems.
+Fallen leaves contribute significantly to the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of [[fungal-ecology-forest-floor]] ecosystems.
 
 In bayhead swamp communities, redbay is a dominant canopy species alongside sweetbay magnolia and loblolly bay.
-
-## Laurel Wilt Disease
-
-Laurel wilt, caused by the fungal pathogen *Raffaelea lauricola*, is the most significant threat to *P. borbonia* and other Lauraceae in the southeastern US.
-
-The disease was first detected near Savannah, Georgia in 2003 and has since spread rapidly throughout the species' range.
-
-The pathogen is vectored by the **redbay ambrosia beetle** (*Xyleborus glabratus*), an Asian ambrosia beetle that likely arrived in wood packing material.
-
-Female beetles bore into the sapwood of host trees, introducing *R. lauricola* spores into the vascular system.
-
-Fungal colonization triggers a rapid host defense response that occludes xylem vessels, causing wilting and tree death within weeks to months.
-
-Mortality rates exceed 90% in affected stands, and the disease has killed an estimated hundreds of millions of redbay trees.
-
-The disease has spread to all states within the native range of *P. borbonia* and continues to expand westward.
-
-Research on [[cannabis-disease-pest-resistance-breeding-clarke]] and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] is ongoing, though no effective management strategy has been developed for wild populations.
-
-## Ethnobotanical Use
-
-Indigenous peoples of the southeastern United States used redbay medicinally and practically.
-
-The leaves were used to brew a tea for treating fevers, headaches, and respiratory ailments.
-
-Crushed leaves were applied as a poultice for insect bites and skin irritations.
-
-The wood is hard, strong, and moderately durable, and was used for fence posts, tool handles, and small construction projects.
-
-Redbay wood has been used locally as a substitute for sassafras in woodworking and carving.
-
-The aromatic leaves have been used as a culinary seasoning and insect repellent.
-
-Commercial exploitation of redbay has been limited, and the species has never been widely cultivated as a timber tree.
-
-Current interest in the species focuses primarily on its conservation in the face of laurel wilt.
-
-## See Also
-
-- [[sassafras-albidum]]
-- [[cinnamomum-verum]]
-- [[litsea-cubeba]]
-- [[antrodia-camphorata]]
-- [[houttuynia-cordata]]

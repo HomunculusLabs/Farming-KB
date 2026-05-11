@@ -21,7 +21,7 @@ sources:
 
 Taxodium mucronatum, commonly known as Montezuma cypress or ahuehuete, is a large coniferous tree native to Mexico and Central America.
 
-It is the national tree of Mexico and holds profound cultural significance in Mesoamerican civilizations.
+It is the national tree of Mexico and holds profound [[amanita-muscaria]] in Mesoamerican civilizations.
 
 The species is renowned for producing some of the oldest and most massive trees in the world.
 
@@ -33,7 +33,7 @@ The specimen known as "El Árbol del Tule" in Oaxaca has the stoutest trunk of a
 
 Taxodium mucronatum was described by Michele Tenore in 1820.
 
-The species was long treated as a variety of Taxodium distichum but is now widely accepted as distinct.
+The species was long treated as a variety of [[taxodium-distichum]] but is now widely accepted as distinct.
 
 Key differences from Taxodium distichum include semi-evergreen foliage and a more southern distribution.
 
@@ -69,7 +69,7 @@ It grows from 300 to 2,400 meters elevation in mountain valleys and plateaus.
 
 The largest populations occur along the Rio Grande watershed in Nuevo Leon and Tamaulipas.
 
-It is commonly associated with riparian gallery forests and montane cloud forest edges.
+It is commonly associated with riparian [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] montane [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]] edges.
 
 Companion species include [[salix-alba]], [[platanus-occidentalis]], and [[liquidambar-styraciflua]].
 
@@ -83,65 +83,8 @@ Montezuma cypress provides critical habitat along watercourses in otherwise semi
 
 The broad canopy shades streams, moderating water temperature for aquatic organisms.
 
-Birds nest in the branches and mammals use the hollow trunks of ancient specimens for shelter.
+[[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]] in the branches and mammals use the hollow trunks of ancient specimens for shelter.
 
 The root systems stabilize streambanks and reduce erosion in mountainous watersheds.
 
 In Mesoamerican civilization the tree was sacred to the Aztec god Quetzalcoatl.
-
-The name ahuehuete derives from the Nahuatl "ahuéhuetl" meaning "old man of the water."
-
-Montezuma cypress was planted in the ceremonial centers of Tenochtitlan and other Aztec cities.
-
-"El Árbol del Tule" in Santa María del Tule, Oaxaca, is estimated at 1,400-2,000 years old.
-
-This specimen has a trunk diameter of approximately 14 meters, the greatest of any living tree.
-
-## Cultivation and Uses
-
-The wood of Taxodium mucronatum is durable, moderately heavy, and naturally resistant to decay.
-
-Heartwood is reddish-brown with a fine, straight grain suitable for construction and carpentry.
-
-The timber is used for beams, planking, exterior construction, and water-resistant applications.
-
-The species has been heavily harvested throughout its range for its valuable timber.
-
-In urban landscaping it is planted as a shade tree, street tree, and specimen tree in parks.
-
-The tree is increasingly used in riparian restoration projects throughout Mexico.
-
-Propagation is primarily from seed, which requires cold stratification for germination.
-
-Young trees grow rapidly when provided with adequate moisture and full sun.
-
-The species is less cold-hardy than Taxodium distichum, suffering damage below minus 10 degrees Celsius.
-
-## Conservation
-
-Taxodium mucronatum is listed as Near Threatened on the IUCN Red List.
-
-The primary threats are habitat loss from agricultural expansion and urbanization.
-
-Illegal logging of ancient specimens for their valuable timber remains a persistent problem.
-
-Groundwater depletion from aquifer over-extraction threatens trees in semi-arid regions.
-
-Several Mexican states have enacted legal protections for ancient Montezuma cypress specimens.
-
-Conservation efforts focus on protecting riparian corridors and establishing germplasm collections.
-
-The species is represented in botanical gardens and arboreta worldwide.
-
-## See Also
-
-- [[taxodium-distichum]]
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]
-- [[metasequoia-glyptostroboides]]
-- [[cupressus-sempervirens]]
-- [[thuja-plicata]]
-- [[juniperus-communis]]
-- [[pinus-taeda]]
-- [[liquidambar-styraciflua]]
-- [[platanus-occidentalis]]

@@ -88,12 +88,3 @@ The process of soil formation from bare rock illustrates the scale on which natu
 Each year the topsoil becomes darker and richer in undisturbed natural systems. Compare this with the soil in fields farmed by man, which grows "poorer and more barren each year, in spite of the large amounts of fertilizer constantly poured onto it." The direction of soil evolution under natural versus agricultural management is diametrically opposed.
 
 ## Trace Element Deficiency: The Hidden Cost
-
-One of the most significant consequences of fertilizer dependence that Fukuoka identifies is trace element deficiency. Chemical fertilizers supply only the "big three" — nitrogen, phosphorus, and potassium — in concentrated form. While these promote rapid above-ground growth, they do so at the expense of the dozens of micronutrients that plants require for complete health.
-
-The interactions between fertilizer components create cascading deficiencies. Too much potassium blocks iodine uptake and reduces boron absorption. Higher nitrogen and phosphate levels cause zinc and [[query-how-to-fix-boron-deficiency-in-cannabis]]. When the soil turns acidic from concentrated sulfuric acid in fertilizers, deficiencies of zinc, manganese, boron, and iodine develop because these elements become less [[soil-microorganisms-natural-fertility]] decompose this material, releasing nutrients in forms that living plants can absorb. The cycle is continuous and self-sustaining.
-
-Fukuoka emphasizes that in living soil, "microorganisms do not exist without reason." This principle — that the no-till farming approach preserves rather than destroys — is central to his philosophy. Each microorganism "lives for a purpose, struggling, cooperating, and carrying on the cycles of nature." The soil is not a passive substrate for plant growth but an active biological community whose health determines the health of everything that grows in it.
-
-This is why no-fertilizer [[comparison-natural-farming-vs-permaculture]] requires healthy soil as a precondition. Fields that have been degraded by years of chemical agriculture cannot immediately switch to no-input methods and expect good results. A transition period is needed during which the biological community is restored through [[fukuoka-natural-alfalfa-black-wattle-ground-cover]]-farming-philosophy|Fukuoka's natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] and contrasted with other approaches in [[decomposition]]
-- [[natural-farming]]

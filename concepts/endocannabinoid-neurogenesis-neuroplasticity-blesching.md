@@ -1,5 +1,5 @@
 ---
-title: Endocannabinoid System [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
+title: Endocannabinoid Neurogenesis Neuroplasticity Blesching
 source: [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2015)
 tags: [neurogenesis, neuroplasticity, endocannabinoid-system, cannabis, brain-recovery, learning, cb1-receptor]
 ---
@@ -11,7 +11,7 @@ tags: [neurogenesis, neuroplasticity, endocannabinoid-system, cannabis, brain-re
 The endocannabinoid system (ECS) plays a central role in two critical
 brain functions: neurogenesis (the production of new nerve cells) and
 neuroplasticity (the brain's ability to reorganize itself by forming new
-neural connections). [[uwe-blesching|Uwe Blesching]]'s *The [[cannabis-health-index|Cannabis Health Index]]*
+neural connections). [[uwe-blesching]]'s *The [[cannabis-health-index]]*
 highlights these functions as key mechanisms by which the ECS supports
 recovery from brain damage, enhances memory, protects against
 neurodegenerative disease, and facilitates the emotional and cognitive
@@ -42,7 +42,7 @@ The ECS modulates neurogenesis through CB1 receptor activation:
 
 - CB1 receptors are densely concentrated in the hippocampus and
   subventricular zone — precisely where neurogenesis occurs.
-- Endogenous cannabinoids (particularly anandamide) promote the
+- Endogenous cannabinoids (particularly [[anandamide]]) promote the
   proliferation and survival of newly generated neurons.
 - The ECS helps regulate the balance between neural stem cell
   proliferation and differentiation into mature neurons.
@@ -88,62 +88,3 @@ brain to change and adapt:
   but therapeutic shifts in perception, self-concept, and social
   interaction.
 - **Expanded consciousness**: Cannabis has been observed to enhance
-  both left-brain (logical) and right-brain (intuitive) functioning,
-  inducing a state that embraces thought and feeling simultaneously.
-
-### Frame of Mind and Neuroplasticity
-
-The connection between emotional states and brain structure is mediated
-by neuroplasticity:
-
-- A frame of mind that frequently produces guilt or shame creates
-  negative changes that impair the body's immune defense.
-- Positive emotional states — open-mindedness, creativity, humor,
-  gratitude, acceptance, tolerance, and forgiveness — promote
-  neuroplastic changes that support health.
-- The ECS can be activated by either endogenous or plant-derived
-  cannabinoids to support movement toward healthier cognitive and
-  emotional patterns.
-
-## The ECS as Bridge Between Mind and Body
-
-Blesching positions the ECS as the biological mechanism that explains
-how mental and emotional states affect physical health:
-
-- Every cell communicates with other cells through chemical and
-  non-physical signals.
-- The ECS modulates both the central nervous system (via CB1) and the
-  immune system (via CB2), and balances the autonomic nervous system
-  (sympathetic fight-or-flight and parasympathetic rest-and-digest).
-
-## Implications for Cannabis Therapy
-
-Understanding neurogenesis and neuroplasticity reframes how cannabis
-therapy should be approached:
-
-- **Dose matters**: Low to moderate doses that activate the ECS without
-   overwhelming it support neurogenesis. Excessive doses may be
-   counterproductive.
-2. **[[lsd-set-and-setting-framework]]**: The cognitive environment during cannabis use
-   influences which neural pathways are strengthened through
-   neuroplasticity.
-3. **Intention matters**: Conscious therapeutic intention may direct
-   neuroplastic change toward healing rather than reinforcing negative
-   patterns.
-4. **Not just symptom relief**: Cannabis therapy, combined with mind-
-   body practices, can potentially restructure neural pathways
-   underlying chronic conditions rather than merely suppressing
-   symptoms.
-5. **Individual variation**: Each person's endocannabinoid tone affects
-   how they respond to both endogenous and plant-derived cannabinoids.
-
-## Protective Functions
-
-Beyond neurogenesis and neuroplasticity, the ECS provides direct
-neuroprotection: it suppresses excessive glutamate release (excitotoxicity),
-reduces neuroinflammation via CB2 receptors, provides antioxidant effects,
-and may protect against Alzheimer's by reducing amyloid plaque formation.
-## See Also
-
-- endocannabinoid system
-- [[epigenetics-and-mind-body-medicine-blesching]]

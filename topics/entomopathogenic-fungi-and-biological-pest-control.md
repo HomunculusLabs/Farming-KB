@@ -6,7 +6,8 @@ tags: [entomopathogenic-fungi, biocontrol, mycopesticides, cordyceps,
   beauveria, metarhizium, integrated-pest-management]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/unknown-biodiversity-of-fungi.md
   - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md

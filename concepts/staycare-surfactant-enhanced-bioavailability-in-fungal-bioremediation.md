@@ -88,38 +88,3 @@ accessibility.
 
 Manganese is another potential candidate for addition to soil to improve
 fungal remediation. It can stimulate fungal biotransformation of atrazine
-in liquid culture by increasing membrane permeability and stimulating
-[[fungal-manganese-peroxidase-remediation]] activity. Normal soil solution concentrations of
-manganese vary between 0.1 micromol per liter in aerated alkaline soils
-to 400 micromol per liter in submerged soils. As fungi grow best in
-aerated soils with reduced manganese availability, manganese amendment
-may be beneficial.
-
-## Limitations and Considerations
-
-Some surfactants, especially ionic surfactants, may be toxic to
-microorganisms. The concentration of surfactant must be carefully
-optimized: too little provides insufficient solubilization, while too
-much may inhibit fungal growth or enzyme activity. Surfactants may also
-affect the sorption-desorption equilibrium of pollutants in soil,
-potentially increasing mobility and spreading contamination if not
-properly managed. The stability of surfactant-pollutant micelles under
-varying environmental conditions requires further study.
-
-## Combined Treatment Strategies
-
-Correct formulation and alteration of soil conditions, including
-amendments with surfactants, changes in pH, and water content management,
-can improve fungal growth and pollutant access. A holistic approach
-combining surfactant addition with fungal inoculation, nutrient
-management, and appropriate soil amendments will enable more efficient
-soil colonization and subsequent POP transformation.
-
-## See Also
-
-- [[staycare-lentinula-edodes-in-bioremediation]]
-
-- [[surfactant-enhanced-fungal-bioremediation]]
-
-- [[staycare-fungal-immobilization-and-entrapment-for-bioremediation]]
-- [[staycare-non-ligninolytic-fungi-in-pah-biodegradation]]

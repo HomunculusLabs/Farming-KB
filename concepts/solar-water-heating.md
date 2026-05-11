@@ -9,10 +9,10 @@ sources: []
 
 # Solar Water Heating
 
-Solar water heating [[mollison-designers-solar-water-heating-systems]] uses the sun's energy to heat water for domestic use,
+Solar water heating uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
-properly sized system can provide 50-80% of a household's hot water [[mollison-designers-solar-water-heating-systems]] needs.
-This guide covers system types, design principles, DIY construction, and
+properly sized system can provide 50-80% of a household's hot water needs.
+This guide covers system types, [[aact-brewer-design-principles-aeration-systems-ingham]], [[laminar-flow-hood-diy-construction]], and
 sizing for the homestead.
 
 ## Why Solar Water Heating
@@ -81,12 +81,12 @@ the collector.
 - Storage tank must be mounted above the collector (usually on the roof)
 - Roof structural requirements for the tank weight (400+ lbs full)
 - More complex plumbing than batch heater
-- Freeze protection needed in cold climates (drainback or glycol)
+- Freeze protection needed [[query-how-do-i-grow-figs-in-cold-climates]] (drainback or glycol)
 
 ### Active Closed-Loop System
 
 A pump circulates a heat-transfer fluid (propylene glycol) through the
-collector and a heat exchanger in the storage tank. A differential
+collector and a [[heat-exchanger-effectiveness-ntu]] in the storage tank. A differential
 controller activates the pump when the collector is hotter than the tank.
 
 **How it works:**
@@ -119,7 +119,7 @@ Estimate 15-20 gallons per person per day for a typical household.
 | 5-6 people | 60-80 |
 
 ### Collector Sizing
-Rule of thumb: 1 square foot of collector area per gallon of daily hot
+Rule of thumb: 1 [[comparison-biointensive-vs-square-foot-gardening]] of collector area per gallon of daily hot
 water demand in sunny climates; 1.5-2 square feet in moderate climates.
 
 For a family of 4 (60 gallons/day):

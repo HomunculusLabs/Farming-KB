@@ -88,19 +88,3 @@ across, depending on the crop.
 
 Plants started in hills get a fast start because of the high fertility zone
 immediately below where the seeds are sown. Hill spacing ranges from 24 inches
-for smaller brassicas to 8-10 feet for sprawling squash or corn, depending on
-climate and expected rainfall.
-
-## Survival Gardening with Hills
-
-When starting a garden from scratch in spring with sod, no prepared soil, and
-limited tools, Solomon recommends the [[halpern-sacramental-peyote-and-native-american-church]] approach: mark out hill
-positions on four-foot (120 cm) centers, dig 18-inch (45 cm) diameter holes at
-each spot, and add whatever fertilizer is available -- fish, road kill, cow
-pats, or compost. This requires far less initial effort than preparing entire
-beds and can produce a useful crop in the first season.
-
-## See Also
-
-- [[solomon-irrigation-water-scarce]] for watering strategies by bed type -
-[[solomon-complete-organic-fertilizer-guide]] for hill and bed fertility

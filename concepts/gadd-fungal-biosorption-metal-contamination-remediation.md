@@ -38,7 +38,7 @@ Fungal metal immobilization reduces external free metal activity and may shift d
 
 Three primary immobilization mechanisms operate:
 
-1. **[[biosorption|Biosorption]] to biomass** — metals bind to cell walls, pigments (e.g. melanin, mycosporines), and extracellular polysaccharides. This is largely a passive, metabolism-independent process influenced by cell wall composition and environmental pH.
+1. **[[biosorption-isotherms|Biosorption]] to biomass** — metals bind to cell walls, pigments (e.g. melanin, mycosporines), and extracellular polysaccharides. This is largely a passive, metabolism-independent process influenced by cell wall composition and environmental pH.
 
 2. **Transport and intracellular accumulation** — metals are taken up into cells via membrane transporters and sequestered internally, often in vacuoles or bound to intracellular ligands such as metallothioneins and phytochelatins.
 
@@ -87,33 +87,3 @@ The ability of fungi to immobilize [[fungal-biosorption-of-heavy-metals-by-filam
 - Fungal dissolution of toxic metal minerals can be harnessed for cleaning soils, solid industrial wastes, low-grade ores, and metal-bearing by-products.
 
 Reductive and oxidative precipitation extends beyond chromium. Reduced forms of [[staycare-fungal-biomethylation-of-metals-and-metalloids]] (elemental Ag, Se, Te) can be precipitated within and around fungal cells, often visible as colony coloration (black for Ag or Te, red for Se). Fungi oxidize Mn and Fe in minerals such as siderite (FeCO₃) and rhodochrosite (MnCO₃), precipitating them as oxides, and form dark Fe(II)- and Mn(II)-patinas on rock and glass surfaces. An oxidized metal layer (desert varnish) found on rocks in arid and semi-arid regions is also believed to be of microbial origin with some proposed fungal involvement.
-
-Dissolution of toxic metal minerals and release of mobile bioavailable metal cations may increase local microenvironment toxicity, but conversely could be used in cleaning up soils and solid industrial wastes and by-products, low-grade ores, and metal-bearing minerals (Gadd, 2000, 2002; Brandl, 2001).
-
-## Mycorrhizal Associations and Metal Tolerance
-
-[[mycorrhiza|Mycorrhizal]] fungi play a particularly important role in mediating plant responses to metal contamination. Nearly all land plants depend on symbiotic mycorrhizal fungi (Smith & Read, 1997). Both ectomycorrhizal and endomycorrhizal (ericoid, arbuscular) types participate in proton- and ligand-promoted metal mobilization, metal immobilization via biosorption, and extracellular precipitation of mycogenic metal oxalates (Fomina et al., 2004, 2005b).
-
-Mechanisms of metal protection include:
-
-- **Filtration in the hyphal sheath** — toxic metals are sorbed in the Hartig net or fungal mantle, preventing translocation to host tissues.
-- **Restricted mobility** — hydrophobicity of the fungal sheath limits metal movement toward the plant (Jentschke & Godbold, 2000; Krupa & Kozdroj, 2004).
-- **Complexation with organic acids** — low-molecular-mass carboxylic acids (malic, succinic, gluconic, oxalic) released by hyphae complex metal cations, reducing bioavailability.
-
-Metal-resistant mycobionts are most efficient at ameliorating metal toxicity to the host plant (Colpaert & Van Assche, 1992; Jentschke & Godbold, 2000; Van Tichelen et al., 2001). The ectomycorrhizal association of *[[paxillus-involutus]]* with Scots pine (*Pinus sylvestris*) demonstrates that zinc phosphate dissolution and host protection depend on mycorrhizal status, fungal zinc tolerance, and environmental phosphorus status. Under phosphorus-replete conditions, zinc-tolerant ectomycorrhiza employed a metal avoidance strategy restricting zinc entry into cells. Under phosphorus deficiency, the same association mobilized and accumulated the highest amount of zinc.
-
-Ericoid and ectomycorrhizal fungi dissolve cadmium-, copper-, zinc-, and lead-bearing minerals including metal phosphates while simultaneously protecting the host through immobilization. During growth, mycorrhizal fungi excrete low-molecular-mass carboxylic acids contributing to "heterotrophic leaching." In podzol E horizons under European coniferous forests, weathering of hornblendes, feldspars and granitic bedrock has been attributed to oxalic, citric, succinic, formic and malic acid excretion by ectomycorrhizal hyphae. Ectomycorrhizal hyphal tips produce micro- to millimolar concentrations of these acids and are associated with micropores (3–10 mm) in weatherable soil minerals.
-
-Arbuscular mycorrhizas also reduce toxic metal (e.g. Zn) uptake by plants (Christie et al., 2004). Dissolution of soil weatherable calcium-bearing minerals by ectomycorrhizal fungi has been well documented, and carbon allocation within the mycelium is significantly greater when colonizing mineral-rich patches compared to inert substrates.
-
-## Applications and Caveats
-
-Mycorrhizal associations that ameliorate metal toxicity hold potential for:
-
-- **Re-vegetation and re-forestation** programs on contaminated land.
-- **Phyto- and rhizo-remediation** strategies leveraging fungal-plant partnerships.
-- **Phytoextraction** — when mycorrhizas enhance accumulation of toxic metals in host tissues, this may support harvest-based metal removal.
-
-**Important caveat:** mycorrhizal interactions with metals are variable and context-dependent. Outcomes shift in response to biotic and abiotic factors including phosphorus status, metal concentration, fungal strain tolerance, and soil chemistry (Setälä et al., 1997). In some cases mycorrhizal fungi enhance rather than restrict metal uptake into host plants. Long-term environmental consequences of fungal biogeochemical activity — including potential destabilization of remediation products — should be considered when designing chemical remediation technologies for contaminated sites.
-
-Assessment of long-term environmental consequences of chemical remediation technologies should therefore take into account the biogeochemical activity of soil fungal (and bacterial) communities.

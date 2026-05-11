@@ -24,7 +24,7 @@ The species reaches heights of 25–35 meters in natural forest settings, with a
 
 In open-grown conditions the crown is broad and spreading, providing ample shade. The tree's showy yellow flowers make it attractive for avenue plantings in cities such as Manaus and Belém.
 
-Araribá is distributed across the Amazon Basin and surrounding regions, from eastern Peru and western Brazil through the Guianas. It plays a notable ecological role as a nitrogen-fixing legume in primary and secondary tropical forests.
+Araribá is distributed across the Amazon Basin and surrounding regions, from eastern Peru and western Brazil through the Guianas. It plays a notable ecological role as a nitrogen-fixing legume in primary and secondary [[fungal-biodiversity-tropical-forests]].
 
 Natural populations have declined due to selective logging, as the species is targeted for its premium heartwood. It is listed as near-threatened in several Brazilian state red lists, though not yet on the IUCN global Red List.
 
@@ -57,7 +57,7 @@ C. paraense occurs naturally across the Brazilian Amazon, extending into eastern
 
 Specimens have been recorded from Acre, Amazonas, Pará, and Rondônia states in Brazil, with disjunct populations in the upper Orinoco basin of Venezuela. Populations are generally scattered at low densities rather than forming pure stands.
 
-The species grows in both terra firme (non-flooded) and seasonally flooded lowland tropical rainforest. It is most common in well-drained clay or sandy-loam soils of primary forest, but also colonizes disturbed sites and secondary growth.
+The species grows in both terra firme (non-flooded) and seasonally flooded lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is most common in well-drained clay or sandy-loam soils of primary forest, but also colonizes disturbed sites and secondary growth.
 
 Mean annual rainfall in its native range is 1,500–3,000 mm with a pronounced dry season of 3–5 months. It is intolerant of frost and sustained temperatures below 10°C.
 
@@ -73,7 +73,7 @@ Mechanical properties include a modulus of rupture of approximately 90–110 MPa
 
 Heartwood color ranges from bright yellow-orange when freshly cut to deep reddish-brown after exposure. This distinctive coloration makes it popular for decorative veneers, fine furniture, and luxury flooring.
 
-The timber has excellent natural durability, rated as resistant to decay and insect attack. It is used structurally for bridges, railway sleepers, and heavy construction in tropical regions.
+The timber has excellent natural durability, rated as resistant to decay and insect attack. It is used structurally for bridges, railway sleepers, and heavy construction [[fukuoka-natural-farming-in-tropical-regions]].
 
 The wood is also valued for musical instruments, particularly guitar backs and sides, owing to its tonal resonance. It is sometimes marketed internationally as "Brazilian tulipwood," though this name is more properly applied to unrelated Dalbergia species.
 
@@ -87,34 +87,4 @@ Germination rates of 70–85% are achievable with freshly collected, scarified s
 
 Plantations are established at spacings of 3 × 3 to 5 × 5 meters. Growth in managed plantations is moderate, with mean annual increment of 1.5–3.0 cm in diameter under favorable conditions.
 
-Rotation lengths in plantation forestry range from 25 to 40 years for timber production. Thinning is recommended at 8–10 years to reduce competition and promote straight bole development.
-
-As a legume, C. paraense forms symbiotic associations with rhizobia, fixing atmospheric nitrogen and improving soil fertility. This makes it a candidate for agroforestry and reforestation systems in degraded tropical lands.
-
-The flowers are visited by bees and other pollinators, contributing to tropical forest pollinator networks. Seeds are dispersed primarily by wind, aided by the distinctive samara wing.
-
-Cavity-nesting birds and arboreal mammals use mature araribá trees for shelter, linking the species to wider forest faunal communities. Its role as a nitrogen fixer also benefits understory plant diversity in mixed-species plantations.
-
-## Related Species
-
-Centrolobium is a small genus with limited taxonomic diversity. The most closely related species include:
-
-- **C. tomentosum** — known as araribá-rosa, native to the Atlantic Forest of Brazil
-- **C. microchaete** — found in Bolivia and western Brazil
-- **C. ochroxylum** — occurs in the western Amazon basin of Peru and Brazil
-- **C. robustum** — native to the Guianas and northern Brazil
-
-Timber from C. paraense is sometimes confused with that of **[[tabebuia-impetiginosa]]** due to overlapping color ranges, though araribá is typically lighter when fresh. Both species occupy similar ecological niches in Amazonian forests.
-
-## See Also
-
-- [[swietenia-macrophylla]]
-- [[handroanthus-impetiginosa]]
-- [[jacaranda-mimosifolia]]
-- [[cedrela-odorata]]
-- [[tabebuia-impetiginosa]]
-- [[erythrina-fusca]]
-- [[robinia-pseudoacacia]]
-- [[cordia-alliodora]]
-- [[acacia-mearnsii]]
-- [[ailanthus-altissima]]
+Rotation lengths in plantation forestry range from 25 to 40 years for [[honey-locust-pod-fodder-timber-production]]. Thinning is recommended at 8–10 years to reduce competition and promote straight bole development.

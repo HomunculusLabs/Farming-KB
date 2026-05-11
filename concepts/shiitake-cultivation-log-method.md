@@ -9,7 +9,7 @@ sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultiv
 
 # Shiitake Cultivation - Log Method
 
-Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom. (see [[shiitake-cultivation-guide]]).
+Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
 
 ## Selecting Logs
 
@@ -54,7 +54,7 @@ Shiitake typically fruits naturally in spring and fall when temperature and mois
 
 ## Yield
 
-A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 pound of fresh shiitake per log per year. Total yield over the log's productive life can equal the log's original weight in fresh mushrooms. (see [[log-cultivation-of-mushrooms]]).
+A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 pound of fresh shiitake per log per year. Total yield over the log's productive life can equal the log's original weight in fresh mushrooms.
 
 ## Advantages of the Log Method
 
@@ -70,3 +70,18 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 - [[oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]
+- [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]

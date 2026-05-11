@@ -17,7 +17,7 @@ Cannabis legality in the United States is a complex patchwork of federal prohibi
 
 ### Schedule I Classification
 
-Cannabis remains classified as a Schedule I substance under the federal Controlled Substances Act (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
+Cannabis remains classified as a Schedule I substance under the federal [[controlled-substances-act-and-psychedelic-research]] (CSA), defined as having "no currently accepted medical use" and "a high potential for abuse." This creates ongoing conflicts with state-level legalization and impacts:
 
 - Banking access for cannabis businesses (many banks won't serve the industry)
 - Interstate commerce (cannot transport cannabis across state lines, even between legal states)
@@ -31,7 +31,7 @@ The Department of Health and Human Services recommended rescheduling cannabis to
 
 ## Medical Cannabis States
 
-Medical programs allow access to various [[marijuana-strain-guide-indica|indica]], [[marijuana-strain-guide-sativa|sativa]], and [[marijuana-strain-guide-hybrid|hybrid]] strains through licensed dispensaries.
+Medical programs allow access to various [[marijuana-strain-guide-indica]], [[marijuana-strain-guide-sativa]], and [[marijuana-strain-guide-hybrid]] strains through licensed dispensaries.
 
 ### Common Qualifying Conditions
 
@@ -39,11 +39,11 @@ Most medical programs include:
 - Chronic pain
 - Cancer (and treatment side effects)
 - PTSD (Post-Traumatic Stress Disorder)
-- Multiple sclerosis
-- Epilepsy and seizure disorders
+- [[blesching-cannabis-multiple-sclerosis]]
+- [[cannabis-for-epilepsy-and-seizure-disorders]] disorders
 - Glaucoma
 - HIV/AIDS
-- Crohn's disease and inflammatory bowel disease
+- Crohn's disease and [[blesching-cannabis-inflammatory-bowel-disease]]
 - Amyotrophic lateral sclerosis (ALS)
 - Parkinson's disease
 - Severe nausea
@@ -62,7 +62,7 @@ Some states have broader qualifying condition lists or allow physician recommend
 
 ## Adult-Use (Recreational) Legal States
 
-As of 2026, numerous states have legalized cannabis for adult recreational use. These states operate regulated commercial markets with licensed [[cannabis-business-basics|cannabis businesses]].
+As of 2026, numerous states have legalized cannabis for adult recreational use. These states operate regulated commercial markets with licensed [[cannabis-business-basics]].
 
 ### Fully Legal States (Representative Examples)
 
@@ -123,18 +123,18 @@ Medical cultivation is generally more permissive where it exists.
 
 ### Licensing Types
 
-- **Cultivation license:** Growing cannabis (tiered by canopy size)
+- **Cultivation license:** [[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]] (tiered by canopy size)
 - **Processing/manufacturing license:** Extracts, edibles, topicals production
 - **Dispensary/retail license:** Selling to consumers
 - **Distribution license:** Transporting between licensed businesses
-- **Testing laboratory license:** Analytical testing of products
+- **[[solomon-soil-testing-laboratory-analysis-low-input-gardening]] license:** Analytical testing of products
 - **Microbusiness license:** Limited-scale operations combining multiple license types
 
 ### Compliance Requirements
 
-Licensed [[cannabis-business-basics|cannabis businesses]] must comply with:
+Licensed [[cannabis-business-basics]] must comply with:
 - Seed-to-sale tracking (Metrc or equivalent system)
-- [[cannabis-testing-and-quality|Product testing]] requirements (potency, pesticides, heavy metals, microbes)
+- [[cannabis-testing-and-quality]] requirements (potency, pesticides, heavy metals, microbes)
 - Security requirements (cameras, vaults, access control)
 - Packaging, labeling, and advertising restrictions
 - Employee background checks, financial reporting, and waste management
@@ -147,4 +147,3 @@ Many states have implemented social equity provisions to address disproportionat
 - Community reinvestment requirements and expungement provisions
 
 ## Interstate Issues
-

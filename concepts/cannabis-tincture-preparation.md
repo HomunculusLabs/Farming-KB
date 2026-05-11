@@ -3,6 +3,7 @@ title: Cannabis Tincture Preparation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis, medicine-making]
@@ -12,7 +13,7 @@ tags: [cannabis, medicine-making]
 
 ## Overview
 
-[[query-how-to-make-cannabis-tinctures-at-home]] are liquid extracts made by dissolving cannabis resin glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
+[[query-how-to-make-cannabis-tinctures-at-home]] are liquid extracts made by dissolving [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]] glands in alcohol. According to Cervantes, a well-made tincture retains 60 percent or more of the THC contained in the raw material. Tinctures offer a discreet and precise method of cannabis consumption, with effects similar to edibles but faster onset.
 
 ## Scientific Basis
 
@@ -22,7 +23,7 @@ Alcohol acts as a solvent to dissolve the psychoactive cannabinoids from cannabi
 
 ### Ingredients
 
-- 4 ounces (112 gm) of clean cannabis leaf
+- 4 ounces (112 gm) of clean [[cannabis-leaf-morphology-and-phyllotaxy]]
 - 2 quarts (about 2 liters) of lukewarm water (90F/32C)
 - 1 quart (0.95 L) of 80-proof alcohol of choice
 
@@ -86,29 +87,3 @@ Proper storage is critical for maintaining tincture potency:
 ## Culinary Applications
 
 Tinctures can be used as an ingredient in cooking:
-
-- Added to recipes in lieu of other liquids such as water or wine
-- Dropped onto food items
-- Used to medicate beverages (note: alcohol-based tinctures may not mix well with all drinks)
-- Can be evaporated further to remove virtually all alcohol, leaving a thick concentrate
-
-## Advantages Over Other Methods
-
-Compared to [[neem-oil-cannabis]]:
-
-- Faster onset of effects
-- More precise dosing with dropper bottles
-- No fat or oil required
-- Discreet consumption
-- Longer shelf life than butter-based preparations
-
-## Reference
-
-Cervantes references "The Marijuana Herbal Cookbook" by Tom Flowers (Flowers Publishing, 1995) for more complete information on [[comparison-cannabis-extraction-basics-vs-extraction-methods]] using butter, oil, and alcohol.
-
-## See Also
-
-- [[cannabis-oil-extraction]]
-- [[cannabis-hashish-production]]
-- [[cannabis-seed-selection-and-strain-types]]
-- [[honey-based-herbal-preparations]]

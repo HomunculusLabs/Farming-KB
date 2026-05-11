@@ -1,15 +1,16 @@
 ---
-title: mollison designers compost toilet humanure systems Humanure Systems
+title: Mollison Designers Compost Toilet Humanure Systems
 created: 2026-04-28
 tags:
   - waste-recycling
   - sanitation
   - composting-systems
   - nutrient-cycling
-  - permaculture-design
+  - [[permaculture-design]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -22,8 +23,8 @@ that should be returned to productive landscapes.
 
 ## Thermophilic Composting
 
-The key to safe humanure composting is thermophilic (high-temperature)
-decomposition. When organic materials are combined in proper proportions
+The key to safe [[humanure-composting]] is thermophilic (high-temperature)
+[[decomposition]]. When organic materials are combined in proper proportions
 with adequate moisture and aeration, thermophilic microorganisms raise the
 internal temperature of the compost mass to 50 to 70 degrees Celsius for
 sustained periods. At these temperatures, pathogenic organisms including
@@ -80,53 +81,10 @@ composting toilet operation. Cover material serves several functions:
 - Controls odour by creating a biological filter
 - Prevents fly access to fresh deposits
 
-Suitable cover materials include sawdust (especially hardwood), peat moss,
+Suitable cover materials include sawdust (especially hardwood), [[query-what-is-the-difference-between-coco-coir-and-peat-moss]],
 rice hulls, straw, shredded newspaper, coconut coir, and dry leaves. The
 cover material should be dry, carbon-rich, and applied generously after
 each use. Mollison notes that sawdust is often the most readily available
 and effective cover material in rural and forested areas.
 
 ## Urine Diversion
-
-Urine-diverting toilets separate urine from faeces at the point of deposit.
-Urine contains the majority of the nitrogen and potassium in human excrement
-and is relatively pathogen-free. Diluted urine (typically 1 part urine to
-5 to 10 parts water) is an excellent liquid fertiliser for gardens and
-orchards. Separating urine reduces the volume and moisture content of the
-faecal compost, improving composting efficiency.
-
-## Pathogen Safety
-
-Mollison stresses that humanure composting must be done correctly to ensure
-pathogen destruction. Key safety practices include:
-
-- Maintaining aerobic conditions (not waterlogged or anaerobic)
-- Ensuring adequate carbon-rich cover material
-- Allowing sufficient composting time: minimum 6 months in tropical
-  climates, 12 months or more in temperate climates
-- Achieving thermophilic temperatures where possible
-- Applying finished compost to non-food crops or fruit trees rather than
-  [[growing-root-vegetables-guide]] or [[solomon-leafy-greens-growing]] eaten raw
-- Practising good hygiene when handling compost or emptying containers
-
-## Integration with Permaculture Design
-
-Compost toilets integrate naturally with [[soil-nutrient-cycling]], and [[permaculture-design]], they
-are typically located in [[canopy-layer-design-food-forests]], and
-ornamental plantings, completing the human nutrient cycle within the
-property boundary.
-
-## Regulatory Considerations
-
-Regulations regarding compost toilets and humanure use vary widely between
-jurisdictions. Some areas recognise and regulate compost toilets as
-acceptable sanitation systems, while others prohibit humanure use on food
-crops. Mollison advocates for regulatory reform based on scientific
-evidence of composting safety, rather than prejudice against nutrient
-recycling.
-
-## References
-
-- Mollison, Bill. *Permaculture: A Designers' Manual.* Tagari Publications,
-  1988. Sections on waste and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-- Related concepts: [[soil-nutrient-cycling]], sewage-waste-recycling-permaculture, [[humanure-composting]]

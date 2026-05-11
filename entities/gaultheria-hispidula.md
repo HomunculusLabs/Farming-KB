@@ -88,32 +88,3 @@ The fruits are consumed by a variety of birds and mammals, including ruffed grou
 As an Ericaceae species, G. hispidula associates with [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi that enhance [[plant-nutrient-uptake-mechanisms]] in acidic, low-nutrient soils. This mycorrhizal association is critical for the species' success in the nutrient-poor boreal forest floor.
 
 The species is not considered threatened across most of its range. However, boreal forest logging and habitat fragmentation can impact local populations. Climate-driven northward shifts in boreal forest composition may affect the species' long-term distribution.
-
-In the southern portion of its range, Appalachian populations at high elevations may be particularly vulnerable to warming temperatures. These disjunct populations represent important genetic reservoirs for the species.
-
-## Cultivation
-
-G. hispidula can be grown in gardens as a ground cover for shady, acidic sites. It requires moist, organic-rich, acidic soil with a pH of 4.0–5.5 and partial to full shade.
-
-The species is not widely available in the nursery trade but can be obtained from native plant specialists. Propagation from seed is slow, requiring cold stratification and acidic conditions. Stem cuttings and layering are more reliable methods.
-
-Seeds require a cold, moist stratification period of 60–90 days for reliable germination. Surface sowing on acidic peat-based media under cool conditions yields the best results.
-
-Establishment can be slow, with plants taking 2–3 years to fill in. Once established, the species requires minimal maintenance beyond ensuring consistent soil moisture and acidity. Mulching with pine needles or peat helps maintain appropriate soil conditions.
-
-G. hispidula is best suited to naturalistic plantings, rock gardens, and woodland gardens. It is not a specimen plant but excels as a [[comparison-living-mulch-vs-cover-crops]] in shaded areas where lawn grasses fail to thrive.
-
-Deer browsing is rarely a problem due to the low growth habit and small size of the foliage. The species has no significant pest or disease issues in cultivation.
-
-## See Also
-
-- [[gaultheria-procumbens]]
-- [[gaultheria-shallon]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-vitis-idaea]]
-- [[vaccinium-myrtillus]]
-- [[arctostaphylos-uva-ursi]]
-- [[kalmia-latifolia]]
-- [[oxydendrum-arboreum]]

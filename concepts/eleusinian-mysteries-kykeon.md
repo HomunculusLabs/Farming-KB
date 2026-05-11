@@ -12,10 +12,10 @@ type: concept
 
 ## Overview
 
-The Eleusinian Mysteries were the most sacred and enduring religious
-rites of the ancient Greek and Roman worlds. Celebrated each September
+[[plutarch-and-cicero-on-the-eleusinian-mysteries]] were the most sacred and enduring religious
+rites of the [[ancient-greek-mystery-cults-comparison]] and Roman worlds. Celebrated each September
 on the Eleusinian plain near Athens for nearly two thousand years,
-the Mysteries centered on the myth of Demeter and Persephone and
+the Mysteries centered on the myth of [[demeter-and-persephone-in-eleusinian-mythology]] and
 involved the consumption of a sacred potion called kykeon. The
 identity of the psychoactive ingredient in kykeon has been one of
 the great unsolved puzzles of classical scholarship, with the leading
@@ -45,7 +45,7 @@ structures) are pre-Hellenic; the name Eleusis suggests pre-Hellenic
 Crete; certain cult vessels, the kemoi and libation jugs, are common
 to Eleusinian and Minoan cults; and the purifications of the
 Eleusinian cult come from Crete, where they originally belonged to
-the Minoan religion. The kernel of the mysteries was a cult of
+the [[mckenna-myth-of-glaukos-honey-death-resurrection-minoan-religion]]. The kernel of the mysteries was a cult of
 fertility, which was also the central element of Minoan religion.
 
 In 1900, Sir Arthur Evans excavating near the palace of Knossos
@@ -74,9 +74,9 @@ memory for the rest of their life.
 
 ## The Wasson-Hofmann Ergot Theory
 
-In 1977, R. Gordon Wasson, working with Albert Hofmann and Carl Ruck,
+In 1977, R. Gordon Wasson, working with [[albert-hofmann]] and Carl Ruck,
 proposed that the Eleusinian sacrament was an ergotized beer brewed
-from barley infected with Claviceps purpurea. Claviceps purpurea is a
+from barley infected with [[claviceps-purpurea]]. Claviceps purpurea is a
 small fungus that infects edible grains and produces ergot, a source
 of powerful alkaloids capable of causing hallucination, triggering
 labor, and having strong vasoconstrictive effects.
@@ -88,51 +88,3 @@ his colleagues argued: "Clearly ergot of barley is the likely
 psychotropic ingredient in the [[albert-hofmann-eleusinian-potion-analysis]]. Its seeming
 symbiotic relationship to the barley signified an appropriate
 expropriation and transmutation of the Dionysian spirit."
-
-## The Problem of Ergot Toxicity
-
-A significant objection to the ergot theory is the toxicity of
-ergot. In documented instances where large numbers of people consumed
-ergot-infected grain, the results were catastrophic: an outbreak in
-A.D. 994 killed nearly 40,000 people in France; an outbreak in 1129
-killed about 1,200. Two clinical types of ergotism are known: the
-gangrenous form, causing tingling, vomiting, diarrhea, and dry
-gangrene of limbs; and the convulsive form, causing painful spasms
-culminating in epileptic-like convulsions and delirium.
-
-Wasson and Hofmann proposed two possible solutions. First, Claviceps
-paspali, which preferentially infects barley instead of rye, may
-contain a higher proportion of psychoactive but less toxic "simple"
-ergot alkaloids and a lower proportion of the toxic peptide-containing
-alkaloids. Second, macerating ergotized grain in water would
-effectively separate the water-soluble psychoactive alkaloids from
-the fat-soluble toxic alkaloids.
-
-## Graves's Psilocybin Alternative
-
-Robert Graves had earlier proposed that the Eleusinian sacrament
-involved [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]], specifically psilocybin-containing
-species. Graves believed that recipes in classical sources for the
-ritual beverage contained ingredients whose first letters could be
-arranged to spell "mushroom" -- an ogham cipher. He suggested that
-the priesthood at Eleusis had discovered a hallucinogenic mushroom
-that could be baked in sacrificial cakes without losing its
-psychoactive properties. Should future research rule out ergot,
-Graves's psilocybin theory would need serious reconsideration.
-
-## The End of Eleusis
-
-With the destruction of Eleusis and the triumph of Christianity,
-the great broad river of partnership, Goddess worship, and
-hallucinogenic ecstasy that had flowed for over ten thousand years
-sank into the chthonic realm reserved for forgotten religions. The
-Dionysian and Eleusinian mysteries were, as McKenna writes, "the
-last frail outposts in the west" of the ancient religion of the
-Goddess, cattle, and ecstatic intoxication by indole hallucinogens.
-
-## Related Concepts
-
-- [[claviceps-paspali-alkaloids]]
-- [[allegro-religious-lamentation-and-the-bacchic-cult]]
-- [[psychedelic-secrecy-comparative-eleusis-mesoamerica]]
-- [[mckenna-four-families-of-indole-hallucinogens]]

@@ -1,5 +1,5 @@
 ---
-title: fungal-dark-taxa-environmental-dna-sequencing [[fungal-discovery-methods]]
+title: Environmental Dna Fungal Discovery
 created: 2026-04-28
 tags: [mycology, metagenomics, biodiversity, ecology]
 date: 2026-04-28

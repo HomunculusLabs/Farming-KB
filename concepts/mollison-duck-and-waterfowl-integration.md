@@ -1,5 +1,5 @@
 ---
-title: "mollison duck and waterfowl integration mollison-guinea-pig-integration-in-permaculture-gardens Systems"
+title: Mollison Duck And Waterfowl Integration
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -20,7 +21,7 @@ Ducks have always been kept in the same range area as chickens
 in mixed farm systems, but they need marsh plants, snails, and
 shallow water for dabbling. They supply up to 200 eggs per year
 each, are relatively disease-free, and are good foragers. Given
-predator protection, they thrive on the mixed farm. Mollison
+[[fukuoka-natural-predator-protection]], they thrive on the mixed farm. Mollison
 places special emphasis on the unique role of waterfowl in
 [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
@@ -79,52 +80,11 @@ replacing lawn-mowers and tractors to control grasses and
 groundcovers. In the subtropics, rampant greens such as
 comfrey, Tradescantia, arrowroot (Canna), [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] greens,
 cassava foliage, and leguminous tree leaves all supply green
-crop for poultry and domestic animals. Many also yield surplus
-root crop for cold periods, fed as a boiled mash.
+crop for poultry and [[permaculture-domestic-animals]]. Many also yield surplus
+[[root-crop-harvest-and-storage]] for cold periods, fed as a boiled mash.
 
 ## Food Sources for Waterfowl
 
 Duck potato (Sagittaria) can be planted in pond margins for
 summer-dry forage. Cattails (Typha spp.) provide excellent
 root and shoot foods at any time of year when planted in
-rested mudwallows. Water convolvulus, water hyacinth, Azolla,
-and Pistia all serve as duck forage in aquatic systems. These
-plants simultaneously improve water quality and provide habitat
-for fish and other aquatic organisms.
-
-## Waterfowl in Tropical Gardens
-
-In tropical wet areas, waterfowl contribute significantly to
-garden fertility through manure deposited near water edges.
-Their foraging in shallow water controls mosquito larvae and
-other insect pests. The integration of ducks with rice paddies
-and taro ponds is a traditional practice that Mollison
-recommends for permaculture designs. Ducks in rice paddies
-[[query-how-to-control-pests-without-chemicals]], fertilise the crop, and weed the paddy.
-
-## Predator Protection
-
-Pigeons and ducks are most easily protected from predators by
-elevation on pole structures, or over shallow ponds. This
-design strategy, placing structures over water, denies access
-to ground-based predators such as foxes, wild dogs, and cats.
-The pond below also provides the aquatic habitat that waterfowl
-require, creating a dual-purpose structure.
-
-## Integration with Rice and Taro Systems
-
-The wet tropics staple system of paddy rice, taro, and ducks
-represents one of the most integrated and productive
-polycultures. Ducks control golden apple snails and other
-pests in rice paddies, their manure fertilises the crop, and
-their foraging activity aerates the soil. This traditional
-integration is a model for modern permaculture design.
-
-## See Also
-
-- mollison-animal-range-management
-- permaculture-designers-manual-tropical-climates
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]
-- [[permaculture-design]]
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]
-- [[mollison-designers-geese-and-duck-weed-control]]

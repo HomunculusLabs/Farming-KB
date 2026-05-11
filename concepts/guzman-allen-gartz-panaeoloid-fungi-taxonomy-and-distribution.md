@@ -87,14 +87,3 @@ dung decomposition influences which species colonize it. This ecological
 niche explains the widespread but patchy distribution of many Panaeolus and
 Copelandia species, as their occurrence depends on the local presence of
 suitable mammalian hosts.
-
-## Panaeolus subbalteatus and Related Species
-
-[[neurotropic-fungi-classification]] place
-these fungi within the diverse spectrum of psychoactive Basidiomycotina.
-
-## See Also
-
-- [[sequestrate-fungi-taxonomy-geographic-distribution]]
-
-- [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]

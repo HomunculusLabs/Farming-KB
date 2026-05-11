@@ -1,9 +1,9 @@
 ---
-title: "Psilocybin, the Brain, and Neural Plasticity"
+title: Powell Psilocybin Brain Plasticity
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
-topics: ["neuroscience", "psilocybin", "serotonin", "neurons", "brain", "neuroplasticity"]
+topics: ["neuroscience", "psilocybin", "[[serotonin]]", "neurons", "brain", "neuroplasticity"]
 type: concept
 tags: [psilocybin]
 updated: 2026-04-26
@@ -11,7 +11,7 @@ updated: 2026-04-26
 
 # Psilocybin, the Brain, and Neural Plasticity
 
-Powell dedicates significant portions of *The Psilocybin Solution* to explaining the neurological
+Powell dedicates significant portions of *The [[powell-psilocybin-solution-ecological-cognition-theory]]* to explaining the neurological
 basis of the psilocybin experience, framing it as a window into understanding how the brain
 constructs consciousness. His treatment, while written for a general audience, provides a detailed
 account of neuronal architecture, neurotransmission, and the serotonergic system.
@@ -88,43 +88,3 @@ chemical structure, which depends upon diet. Natural [[forensic-identification-m
 and the new chemicals subsequently operating within the brain alter awareness so that
 consensual serotonergic reality shifts to what Powell calls a "rare psilocybinetic reality."
 He describes this as a "wholly natural" process arising from an "environmentally driven
-alteration in brain chemistry."
-
-## Psilocybin as a Probe of Consciousness
-
-A key argument in the book is that studying entheogenic substances can reveal how normal
-consciousness works. By analysing the subtle chemical changes accompanying the altered state
-of mind, one can attempt to use such data to comprehend normal consciousness. In this sense,
-psychedelics function as probes of the mind/brain interface. Powell notes that once you
-understand the neurochemical events underlying a psychedelic state, you gain knowledge about
-how consciousness is formed in the normal brain.
-
-## Paradigm Shifting Through Chemical Change
-
-Powell describes how paradigms — conceptual belief systems — crumble and are rebuilt in the
-wake of the psilocybin experience. This process can continue long after the original experience,
-almost as if some process of long-term digestive refinement were taking place. Reflecting upon
-the experience in terms of how the mushroom works chemically yields exceptional knowledge about
-the underlying chemistry of the brain and the potential parameters of consciousness.
-
-The very real possibility of perceptual enhancement is at stake, in which case humanity's
-dialogue with Nature might be raised to new levels never dreamed of by conventional science.
-Through these new conceptual tools — "new improved lenses" — old paradigms are perforce
-challenged. If old paradigms cannot deal with the entheogenic experience, they must either be
-adapted or be confined to the past.
-
-## The Mushroom Versus the Pill
-
-Powell makes a pointed observation about form and context. When psilocybin arrived from Sandoz
-as precisely-dosed pills, this "subtly altered the context of the psilocybin experience." He
-contrasts the "perfect symbol of a modern technological fix" with "the very earthly symbol of
-the [[emcdda-wild-mushroom-foraging-misidentification-hazards]]." Just as we selectively pick wheat for physical well-being, so too can we
-selectively consume natural psilocybin mushrooms for spiritual well-being. Both wheat and
-mushroom are legitimate natural expressions of the Gaian system within which we are embedded.
-
-## See Also
-
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[default-mode-network-and-ego-dissolution]]
-- [[consciousness-and-psychedelics]]
-- [[tihkal-receptor-binding-serotonin]]

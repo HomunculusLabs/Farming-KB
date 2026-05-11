@@ -13,11 +13,11 @@ sources:
 
 Myrcene (7-methyl-3-methylene-1,6-octadiene), also known as β-myrcene, is an
 acyclic monoterpene hydrocarbon (C₁₀H₁₆) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of
-numerous plants including cannabis ([[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops (Humulus lupulus),
-lemongrass (Cymbopogon citratus), thyme (Thymus vulgaris), bay laurel
-(Laurus nobilis), and mango (Mangifera indica). It is the most abundant
+numerous plants including cannabis ([[comparison-cannabis-sativa-vs-cannabis-indica]] L.), hops ([[humulus-lupulus]]),
+lemongrass ([[cymbopogon-citratus]]), thyme (Thymus vulgaris), bay laurel
+([[laurus-nobilis]]), and mango (Mangifera indica). It is the most abundant
 terpene in the majority of commercial cannabis cultivars, typically comprising
-30–65% of the total terpene profile in indica-dominant strains and serving as
+30–65% of the total [[cannabis-terpene-profile]] in indica-dominant strains and serving as
 a key contributor to the characteristic earthy, musky, and herbal aroma.
 
 Beyond its aromatic role, myrcene is of significant pharmacological interest
@@ -80,70 +80,11 @@ Myrcene is the dominant terpene in ~60–70% of commercial cannabis cultivars:
   consistently associated with sedative, relaxing "couch-lock" effects;
   myrcene's own analgesic and muscle relaxant activity likely contributes
 - **Aroma:** Earthy, musky, herbal, slightly fruity ("green" or "balsamic")
-- **Strain examples:** OG Kush, Granddaddy Purple, Blue Dream, Hindu Kush,
-  Northern Lights, 9 lb Hammer
+- **Strain examples:** OG Kush, [[granddaddy-purple]], Blue Dream, Hindu Kush,
+  [[cannabis-strain-mango-haze-northern-lights-skunk-haze]], 9 lb Hammer
 - **Breeding:** Selecting for high myrcene is common in sedative cultivar
   breeding; content is partly heritable but influenced by growing conditions
 
 ## Pharmacology and Biological Activity
 
 Myrcene has demonstrated a range of pharmacological activities in preclinical
-studies:
-- **Anti-inflammatory:** Inhibits COX-1/COX-2; reduces prostaglandin E₂;
-  comparable potency to thymol in some assays
-- **Analgesic:** Peripheral analgesic in mouse models; non-opioid mechanism
-  involving TRPV1 and prostaglandin pathways
-- **Sedative/anxiolytic:** Potentiates barbiturate sleep time in mice at
-  10–200 mg/kg; enhances GABA_A receptor activity at high concentrations
-- **Muscle relaxant:** Reduces muscle tension; may involve calcium channel
-  modulation
-- **Antimicrobial:** Active against S. aureus, E. coli, P. aeruginosa, and
-  C. albicans (MIC 0.125–2 mg/mL)
-- **Antioxidant:** Scavenges DPPH and ABTS radicals; modest vs phenolics
-- **Anti-cancer:** Induces apoptosis in prostate, breast, colon cell lines
-  in vitro via ROS generation and mitochondrial pathway
-- **GRAS status:** FDA Generally Recognized As Safe as food flavoring
-
-## Toxicity and Safety
-
-- **Acute toxicity:** Low; oral LD₅₀ in rats >5,000 mg/kg
-- **Dermal:** Mild irritant at full strength; diluted well tolerated
-- **Sensitization:** Low potential in human repeat insult patch tests
-- **Occupational:** Concentrated vapors may cause respiratory irritation
-- **Drug interactions:** No well-documented clinical interactions; theoretical
-  potentiation of CNS depressants based on preclinical GABAergic data
-- **Metabolism:** Rapidly metabolized via CYP450; excreted as glucuronide
-  and sulfate conjugates
-
-## Commercial and Industrial Uses
-
-- **Food and beverage:** Flavoring agent (fruity, herbal, balsamic); FEMA GRAS
-  No. 2762; used in fruit drinks, candy, baked goods
-- **Fragrance:** Fresh, green, balsamic character in men's fragrances,
-  fougère accords, and "green" compositions
-- **Brewing:** Major hop-derived flavor compound in beer (IPAs, pale ales)
-- **Cannabis industry:** Tracked in COAs; used for [[cannabis-chemotype-classification-cannabinoid-breeding]]
-  and marketing ("high-myrcene" labels)
-- **Industrial precursor:** Starting material for nerol, geraniol,
-  citronellol via chemical or enzymatic modification
-
-## Similar Compounds
-
-| Compound | Formula | Key Difference | Primary Role |
-|----------|---------|----------------|--------------|
-| Myrcene | C₁₀H₁₆ | Acyclic monoterpene | Most abundant [[oner-cannabis-terpene-profiles-effects]] |
-| Limonene | C₁₀H₁₆ | Monocyclic (ring) | Citrus aroma, mood elevation |
-| Linalool | C₁₀H₁₈O | Acyclic + alcohol group | Floral, sedative, anxiolytic |
-| β-Caryophyllene | C₁₅H₂₄ | Bicyclic sesquiterpene | CB2 agonist, anti-inflammatory |
-| α-Pinene | C₁₀H₁₆ | Bicyclic monoterpene | Pine aroma, bronchodilator |
-| Ocimene | C₁₀H₁₆ | Isomer, different bond position | Sweet, woody, antifungal |
-| Humulene | C₁₅H₂₄ | Bicyclic sesquiterpene | Earthy, appetite suppressant |
-| Terpinolene | C₁₀H₁₆ | Monocyclic + exocyclic double bond | Piney, floral, sedative |
-## See Also
-
-- [[romulan]]
-
-- [[cannabis-sativa]]
-- [[og-kush-cannabis-entity]]
-
-See also: [[query-what-is-the-cannabis-entourage-effect]]

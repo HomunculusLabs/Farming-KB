@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---
 
@@ -110,5 +111,5 @@ absolute prohibition of all mechanical contact.
 ## See Also
 
  [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
- [[soil-food-web]]
+ [[soil-foodweb]]
  [[soil-compaction-solutions]]

@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Royal Horticultural Society. "Kerria japonica." RHS Plant Finder.
-  - Bean, W.J. (1981). Trees and Shrubs Hardy in the British Isles, 8th ed. John Murray.
+  - Bean, W.J. (1981). [[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles, 8th ed. John Murray.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants, 6th ed. Stipes Publishing.
   - Valder, P. (1999). The Garden Plants of China. Timber Press.
 ---
@@ -25,7 +25,7 @@ Kerria is valued in shade gardens for its tolerance of partial to full shade con
 
 The genus *Kerria* is closely related to *Rhodotypos* and shares morphological traits with other shade-tolerant Rosaceae. Molecular phylogenetic studies place it within the subfamily Amygdaloideae, tribe Kerrieae.
 
-Its cheerful yellow flowers are among the earliest spring bloomers, often opening before many other shrubs. This early flowering makes kerria an important nectar source when few other plants are in bloom.
+Its cheerful yellow flowers are among the earliest spring bloomers, often opening before many other shrubs. This [[equatorial-photoperiod-early-flowering]] makes kerria an important nectar source when few other plants are in bloom.
 
 In Japanese garden tradition, kerria is associated with spring renewal and is often planted near stone pathways and water features. Its cheerful yellow flowers contrast effectively against the subdued greens of ferns and hostas.
 
@@ -49,9 +49,9 @@ In the wild, *Kerria japonica* grows in thickets and on mountain slopes across c
 
 The species naturally colonizes semi-shaded forest margins, stream banks, and rocky slopes. It prefers well-drained, loamy soils with moderate moisture retention.
 
-Kerria has become naturalized in parts of Europe and eastern North America. It spreads slowly through rhizomatous root suckers in favorable conditions.
+Kerria has become naturalized in parts of Europe and [[polypore-fungi-eastern-north-america]]. It spreads slowly through rhizomatous root suckers in favorable conditions.
 
-In cultivation, kerria has escaped gardens in parts of the eastern United States, particularly in the Appalachian region. However, its spread is generally considered non-invasive due to slow colonization rates.
+In cultivation, kerria has escaped gardens in parts of the eastern [[dmt-containing-plants-united-states-halpern]], particularly in the [[bolete-fungi-appalachian-region]]. However, its spread is generally considered non-invasive due to slow colonization rates.
 
 The species is cold-hardy to USDA Zone 4, tolerating winter temperatures to -34°C. In colder zones, the above-ground stems may die back to the ground, but the plant regrows from the root crown each spring.
 
@@ -61,7 +61,7 @@ Japanese kerria thrives in partial shade to full shade, making it one of the few
 
 The plant is adaptable to a wide range of soil types, from sandy loams to clay. It performs best in moist, well-drained soils with a slightly acidic to neutral pH.
 
-Kerria tolerates urban conditions including air pollution and compacted soils. This adaptability has made it a popular choice for municipal plantings in temperate cities worldwide.
+Kerria tolerates urban conditions including [[air-pollution-fungal-community-responses]] and compacted soils. This adaptability has made it a popular choice for municipal plantings in temperate cities worldwide.
 
 Once established, the shrub is moderately drought-tolerant, requiring supplemental irrigation only during prolonged dry periods. Overwatering or poorly drained soils can promote root rot in heavy clay sites.
 
@@ -88,30 +88,3 @@ A secondary flush of flowers may occur in late summer or early autumn, particula
 The double-flowered form 'Pleniflora' received the Royal Horticultural Society's Award of Garden Merit in 1993. It remains one of the most recognizable spring-flowering shrubs in temperate gardens worldwide.
 
 ## Ecological Role
-
-The flowers provide early-season nectar and pollen for bees and other pollinating insects. Blooming in April, kerria fills a temporal niche before most summer perennials begin flowering.
-
-The dense, arching growth habit provides cover and nesting sites for small birds. The twiggy structure is particularly attractive to species that prefer open, thornless shrubs for shelter.
-
-Kerria is generally unpalatable to deer and rabbits, making it a reliable choice for gardens in areas with heavy browsing pressure. Its rhizomatous spread also helps stabilize soil on gentle slopes.
-
-The species has no significant value as a food plant for mammalian herbivores. Its dense root system contributes to erosion control on shaded embankments and riparian buffer zones.
-
-In its native range, kerria grows as an understory component of mixed broadleaf forests. It thrives in the dappled light beneath taller canopy trees, where competition from sun-loving species is reduced.
-
-The species is occasionally affected by leaf spot diseases caused by *Cercospora* fungi, particularly in humid conditions. These infections are cosmetic and rarely threaten plant health.
-
-## See Also
-
-- [[zoysia-japonica]]
-
-- [[spiraea-japonica]]
-- [[physocarpus-opulifolius]]
-- [[potentilla-fruticosa]]
-- [[chaenomeles-speciosa]]
-- [[sorbus-aucuparia]]
-- [[forsythia-suspensa]]
-- [[kalmia-latifolia]]
-- [[prunus-serotina]]
-- [[hamamelis-virginiana]]
-- [[viburnum-opulus]]

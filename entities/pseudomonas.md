@@ -73,7 +73,7 @@ fluorescens* A506 (BlightBan) and CHA0.
 - Suppress competitors in casing soil as biocontrol agents.
 
 ### Pathogenic
-- **P. tolaasii** causes brown blotch disease on [[soil-food-web]]: competing with
+- **P. tolaasii** causes brown blotch disease on [[soil-foodweb]]: competing with
 and inhibiting pathogenic fungi, cooperating with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] as
 helper bacteria, cycling nitrogen alongside azotobacter, and serving
 as prey for protozoa and nematodes. In [[composting]], they are dominant

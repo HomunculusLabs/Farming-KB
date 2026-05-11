@@ -43,7 +43,7 @@ Depending on the underlying cause, treatment may include:
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 1
-- CHI Value: 2
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 2
 
 ## Research Evidence
 
@@ -87,27 +87,3 @@ anti-inflammatory approach that works through the body's own endocannabinoid
 system rather than broad-spectrum pharmaceuticals. CB2 receptors are primarily
 expressed in immune cells, meaning CB2-targeted therapies may reduce
 inflammation without the psychoactive effects associated with CB1 activation.
-
-## Differential Diagnosis Context
-
-Encephalitis is distinct from meningitis (inflammation of the lining of the
-brain and [[blesching-cannabis-spinal-cord-injuries]]), though the two conditions may co-occur. Bacterial
-meningitis requires immediate antibiotic treatment, while viral encephalitis
-treatment options are more limited. The CB2-mediated anti-inflammatory pathway
-discovered in the Manitoba study represents a novel approach distinct from
-conventional antiviral therapy.
-
-## Mind-Body Medicine
-
-Depending on the underlying cause or key symptoms, the Cannabis Health Index
-recommends consulting related sections on bacterial and viral infection,
-inflammation, pain, or vomiting. Encephalitis involves inflammation of the
-seat of consciousness itself, making the mind-body connection particularly
-relevant. Powerful questions to consider: "What are these symptoms keeping you
-from doing? How do you feel about that? Where do these feelings take you?"
-
-## See Also
-
-- [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-cannabis-hepatitis]]
-- [[cannabis-autoimmune-conditions-detailed]]

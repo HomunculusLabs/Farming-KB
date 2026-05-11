@@ -21,7 +21,7 @@ sources:
 
 **Physcia tenella** is a small foliose lichen in the family Physciaceae, commonly known as the **delicate rosette lichen**. It forms pale gray to whitish rosettes 1–3 cm in diameter on the bark of trees, particularly in nutrient-enriched and urban environments.
 
-The species is one of the most widespread and common foliose lichens in temperate regions worldwide. It is notably tolerant of nitrogen enrichment and moderate air pollution, making it one of the few lichens that can thrive in urban and agricultural settings.
+The species is one of the most widespread and common foliose lichens in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is notably tolerant of nitrogen enrichment and moderate air pollution, making it one of the few lichens that can thrive in urban and agricultural settings.
 
 ## Taxonomy and Morphology
 
@@ -37,7 +37,7 @@ Apothecia are produced infrequently, with brown discs 0.5–1.5 mm diameter and 
 
 ## Distribution and Habitat
 
-*Physcia tenella* has a cosmopolitan distribution across temperate regions worldwide. It occurs throughout Europe, North America, South America, southern Africa, eastern Asia, and Australasia, making it one of the most widely distributed lichen species on Earth.
+*Physcia tenella* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate regions worldwide. It occurs throughout Europe, North America, South America, southern Africa, eastern Asia, and Australasia, making it one of the most widely distributed lichen species on Earth.
 
 The species is found primarily as an epiphyte on tree bark, favoring nutrient-enriched and eutrophicated substrates. It is particularly common on trees in agricultural landscapes, along roadsides, and in urban parks and gardens.
 
@@ -63,13 +63,13 @@ Chloroatranorin may be present in trace amounts in the upper cortex. The relativ
 
 ## Similar Species
 
-*Physcia stellaris* is the most commonly confused species. *P. stellaris* is typically larger with broader, more overlapping lobes and often produces more abundant soredia. Chemical spot tests are required for reliable separation in some cases.
+*[[physcia-stellaris]]* is the most commonly confused species. *P. stellaris* is typically larger with broader, more overlapping lobes and often produces more abundant soredia. Chemical spot tests are required for reliable separation in some cases.
 
-*Physcia adscendens* has a more shrubby, subfruticose growth form with narrower, more ascending lobes. It is typically found on more exposed branches and twigs rather than on trunks.
+*[[physcia-adscendens]]* has a more shrubby, subfruticose growth form with narrower, more ascending lobes. It is typically found on more exposed branches and twigs rather than on trunks.
 
-*Physcia aipolia* is distinguished by its characteristic white maculae (spots) on a gray background, larger rosettes, and the presence of zeorin in the medulla (positive K+ yellow medulla reaction). *P. tenella* may also show maculation but lacks medullary zeorin.
+*[[physcia-aipolia]]* is distinguished by its characteristic white maculae (spots) on a gray background, larger rosettes, and the presence of zeorin in the medulla (positive K+ yellow medulla reaction). *P. tenella* may also show maculation but lacks medullary zeorin.
 
-*Xanthoria parietina* occupies similar eutrophicated habitats but is readily distinguished by its bright yellow to orange coloration, which reflects its parietin content. *X. parietina* and *P. tenella* frequently co-occur on the same trees.
+*[[xanthoria-parietina]]* occupies similar eutrophicated habitats but is readily distinguished by its bright yellow to orange coloration, which reflects its parietin content. *X. parietina* and *P. tenella* frequently co-occur on the same trees.
 
 ## Conservation Status
 
@@ -88,24 +88,3 @@ The efficiency of soredial dispersal contributes to the species' rapid colonizat
 Apothecia are produced less frequently but contribute to genetic diversity through sexual recombination. Ascospore establishment requires capture of a compatible algal cell and is less efficient than soredial propagation.
 
 Water splash dispersal of soredia during rainfall events may be particularly important for short-range colonization within tree canopies. This mechanism helps explain the dense clustering of *Physcia* colonies on the trunks and lower branches of heavily colonized trees.
-
-## Growth and Physiology
-
-*Physcia tenella* exhibits moderate growth rates for a foliose lichen, with radial extension of approximately 1–3 mm per year under favorable conditions. Growth is limited primarily by moisture availability and light intensity.
-
-The species is poikilohydric, meaning it lacks mechanisms for active water regulation and relies on ambient humidity for hydration. It can survive extended periods of desiccation and resume photosynthesis rapidly upon rehydration.
-
-Net photosynthesis rates in *P. tenella* are optimized at moderate light levels and temperatures between 15 and 25 degrees Celsius. The species' tolerance of higher bark pH and nitrogen levels gives it a competitive advantage on eutrophicated substrates where other lichens cannot maintain positive carbon balance.
-
-## See Also
-
-- [[physcia-stellaris]]
-- physcia adscendens
-- [[xanthoria-elegans]]
-- [[hypogymnia-tubulosa]]
-- [[flavoparmelia-caperata]]
-- [[pertusaria-amara]]
-- [[cetraria-islandica]]
-- [[ramalina-fastigiata]]
-- [[bryoria-fuscescens]]
-- [[spore]]

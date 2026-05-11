@@ -9,11 +9,11 @@ sources:
 ---
 # Cashinahua [[harner-cashinahua-banisteriopsis-usage|Banisteriopsis]] Use
 
-The Cashinahua are a Panoan-speaking people of approximately 500 persons living in the tropical rain forest of southeastern Peru along the Curanja River. Their use of Banisteriopsis — known locally as nixi pae ("vine drunkenness") and more widely as ayahuasca — was documented by anthropologist Kenneth M. Kensinger across multiple field trips between 1955 and 1968.
+The Cashinahua are a Panoan-speaking people of approximately 500 persons living in the tropical [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] of southeastern Peru along the Curanja River. Their use of Banisteriopsis — known locally as nixi pae ("vine drunkenness") and more widely as [[ayahuasca]] — was documented by anthropologist Kenneth M. Kensinger across multiple field trips between 1955 and 1968.
 
 ## Preparation and Botanical Ingredients
 
-The Cashinahua prepare ayahuasca from the stalks of several lianas of the genus Banisteriopsis combined with leaves of a shrub identified as Psychotria. Preliminary [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] indicates the active hallucinogenic agents of the Banisteriopsis are harmine and harmaline, while the Psychotria contributes dimethyltryptamine (DMT). Banisteriopsis is considered the basic ingredient; Psychotria is viewed as an important additive without which hallucinations are said to be less vivid and of shorter duration.
+The Cashinahua prepare ayahuasca from the stalks of several lianas of the genus Banisteriopsis combined with leaves of a shrub identified as Psychotria. Preliminary [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] indicates the active hallucinogenic agents of the Banisteriopsis are [[harmine]] and [[harmaline]], while the Psychotria contributes [[dimethyltryptamine]] (DMT). Banisteriopsis is considered the basic ingredient; Psychotria is viewed as an important additive without which hallucinations are said to be less vivid and of shorter duration.
 
 The host collects one to two meters of Banisteriopsis vine and three to five branches of Psychotria from the jungle, without ritual or ceremony. The vine is cut into 6-8 inch segments, lightly pounded with a rock, and placed in a clay cooking pot with the stripped Psychotria leaves. The pot is filled with water, heated until nearly boiling, and steeped for about an hour before being ladled into smaller pots to cool.
 

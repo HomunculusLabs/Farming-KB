@@ -1,8 +1,8 @@
 ---
-title: Leucaena as Tropical Nitrogen-Fixing mollison-designers-chestnut-as-multipurpose-tree-crop
+title: Permplant Leucaena Tropical Nitrogen Fixing Tree
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixing
   - fodder-trees
   - tropical-agriculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---
@@ -37,7 +38,7 @@ The most commercially exploited species, it takes three distinct forms:
 
 ## Growth Characteristics
 
-Leucaena is often claimed to be the fastest growing tree in the tropics.
+Leucaena is often claimed to be the fastest [[growing-tree-fruit-organically]] in the tropics.
 Usually evergreen, it can shed leaves in frost, storm, and drought. It
 withstands rainfalls as low as 250 mm but does best between 600-3000 mm
 annually. Best growth occurs at altitudes below 500 metres. It tolerates
@@ -86,31 +87,3 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-
-- [[morishima-acacia-nitrogen-fixing-soil-building-tree]]

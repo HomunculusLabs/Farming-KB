@@ -59,7 +59,7 @@ crop suitable for small-scale fiber production.
 ### Bamboo
 
 Two types of bamboo are included in the Master Charts: paper bamboo and
-regular bamboo. Both are listed as under research, indicating that yield data
+regular bamboo. Both are listed as under research, indicating that [[miniculture-production-yield-data-psilocybe-cubensis-bigwood-beug]]
 and growing instructions are still being developed. Bamboo has enormous
 potential as a renewable [[fungal-building-material-deterioration]], and many varieties are suitable
 for small-scale cultivation.
@@ -88,33 +88,3 @@ cultivation.
 
 **Jojoba** is grown for its oil. The notation "x 50" suggests it may be used
 as a hedgerow plant with 50 plants in the spacing.
-
-**Gourds** are grown for containers, utensils, and crafts.
-
-**Gopher Plant** serves as a pest deterrent in the garden.
-
-**Sprouts** (alfalfa) provide high-nutrition food from minimal [[cotter-growing-space-design-fruiting-rooms]].
-
-## Biomass Considerations
-
-Some compost crops, such as pearl millet, sorghum, and corn, can produce very
-high yields of biomass and should be fully recycled through composting
-whenever possible to minimize the potential for soil depletion. The
-sustainability equation requires that organic matter exported from the garden
-(in the form of food, fiber, or [[natural-building-materials-guide]]) be balanced by organic
-matter returned to the soil through compost.
-
-## Self-Sufficiency and Non-Food Crops
-
-The goal of including energy, fiber, and miscellaneous crops is to move toward
-complete self-sufficiency on the mini-farm. Growing cotton or flax for
-clothing, bamboo for building, and sunflower seeds for cooking oil reduces
-dependence on external supply chains and creates a truly closed-system
-homestead. These crops are introduced after the gardener has mastered basic
-[[dry-gardening-unirrigated-vegetable-production-solomon]] and soil building.
-
-## See Also
-
-[[jeavons-carbon-farming]]
-[[jeavons-master-planning-mini-farms]]
-[[jeavons-sustainable-soil-closing-loop]]

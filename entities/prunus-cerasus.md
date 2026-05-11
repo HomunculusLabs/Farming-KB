@@ -10,8 +10,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Iezzoni, A.F. et al. (1990). "A sour cherry germplasm collection." Fruit Varieties Journal, 44(4), 217-224.
-  - Blando, F. & Oomah, B.D. (2019). "Fruit processing waste as a source of functional compounds." In: Processing and Impact on Active Components in Food, 239-265.
+  - Iezzoni, A.F. et al. (1990). "A sour cherry germplasm collection." holzer-recommended-old-fruit-varieties Journal, 44(4), 217-224.
+  - Blando, F. & Oomah, B.D. (2019). "[[fukuoka-fruit-processing-and-natural-food-marketing]] waste as a source of functional compounds." In: Processing and Impact on Active Components in Food, 239-265.
   - Kühn, B.F. & Pedersen, H.L. (2003). "Sour cherry cultivars for the Nordic countries." Acta Agriculturae Scandinavica, Section B, 53(2), 79-86.
   - Kirakosyan, A. et al. (2009). "Anthocyanin profile of various cherry species." Journal of Agricultural and Food Chemistry, 57(5), 1956-1961.
   - Faust, M. & Surányi, D. (1999). "Origin and dissemination of sour cherry." Horticultural Reviews, 11, 173-201.
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Prunus cerasus**, commonly known as sour cherry, tart cherry, or dwarf cherry, is a deciduous tree species in the family Rosaceae. It is cultivated primarily for its acidic fruits, which are used in pies, preserves, juices, and dietary supplements.
+**Prunus cerasus**, commonly known as sour cherry, tart cherry, or dwarf cherry, is a deciduous tree species in the family Rosaceae. It is cultivated primarily for its acidic fruits, which are used in pies, preserves, juices, and [[medicinal-mushroom-dietary-supplements]].
 
 The species is believed to have originated from a natural hybridization between the sweet cherry (Prunus avium) and the ground cherry (Prunus fruticosa). This hybrid origin accounts for its intermediate morphology and its tetraploid genome (2n = 4x = 32).
 
@@ -49,7 +49,7 @@ The fruit is a drupe, 12–20 mm in diameter, globose to slightly oblate. Skin c
 
 Prunus cerasus is thought to be native to the region between the Caspian and Black Seas, in what is now northern Iran, the Caucasus, and eastern Anatolia. It was introduced to Europe by Roman colonists and spread widely across the continent.
 
-The species is naturalized across much of temperate Europe, from the British Isles to the Ural Mountains. It has also naturalized in parts of North America, particularly the northeastern United States and eastern Canada.
+The species is naturalized across much of temperate Europe, from the British Isles to the Ural Mountains. It has also naturalized in parts [[berry-growing]], particularly the northeastern United States and eastern Canada.
 
 Sour cherry is hardier than sweet cherry, tolerating winter temperatures to -30°C or lower. It requires 800–1200 chill hours (hours below 7°C) for proper bud break and flowering.
 
@@ -63,7 +63,7 @@ Sour cherry orchards are typically planted at densities of 300–1000 trees per 
 
 Pruning aims to maintain an open center or spindle shape that allows light penetration and air circulation. Trees begin bearing fruit 3–5 years after planting and reach full production by year 7–8.
 
-Fertilization rates depend on leaf tissue analysis but typically include 50–100 kg/ha nitrogen, 30–60 kg/ha phosphorus, and 50–80 kg/ha potassium annually.
+Fertilization rates depend on [[leaf-tissue-analysis-crop-nutrient-status]] but typically include 50–100 kg/ha nitrogen, 30–60 kg/ha phosphorus, and 50–80 kg/ha potassium annually.
 
 Major pests include the cherry fruit fly (Rhagoletis cerasi), black cherry aphid (Myzus cerasi), and plum curculio (Conotrachelus nenuphar). Pheromone traps and targeted sprays are the primary management approaches.
 
@@ -77,7 +77,7 @@ Yields range from 8–15 tonnes per hectare for mature orchards. Some high-yield
 
 Sour cherry fruit is exceptionally rich in anthocyanins, particularly cyanidin-3-glucosylrutinoside and cyanidin-3-rutinoside. Total anthocyanin content ranges from 300–800 mg per 100 g fresh weight in dark cultivars.
 
-The fruit also contains significant amounts of melatonin, ranging from 6–20 ng per gram of fruit. Tart cherry juice has been studied as a natural sleep aid and for exercise recovery.
+The fruit also contains significant amounts of melatonin, ranging from 6–20 ng per gram of fruit. Tart cherry juice has been studied as a natural sleep aid and for [[cannabis-and-exercise-recovery]].
 
 Vitamin C content is moderate at 8–12 mg per 100 g. The fruit provides potassium (220 mg/100 g), iron, and dietary fiber, while being relatively low in calories (~50 kcal/100 g).
 
@@ -88,24 +88,3 @@ Sour cherry juice and concentrates are used in beverages, including traditional 
 Cherry pomace (skins, seeds, and pulp after juice extraction) is rich in polyphenols and dietary fiber. It is increasingly used as a functional food ingredient and antioxidant supplement.
 
 ## Ecological Role
-
-Sour cherry blossoms provide an important early-season nectar and pollen source for honeybees and native pollinators. The flowers are highly attractive to a range of bee species.
-
-The fruit is consumed by numerous bird species, including thrushes, blackbirds, and cedar waxwings. This dispersal mechanism contributes to the species' naturalization in new areas.
-
-In agroforestry systems, sour cherry can serve as a mid-canopy component in multi-strata plantings. Its relatively compact size allows combination with taller timber trees or nut-producing species like [[corylus-avellana]].
-
-The species provides erosion control on slopes due to its extensive root system. It is sometimes planted in riparian buffer strips in temperate agricultural landscapes.
-
-Sour cherry orchards support greater biodiversity than most other fruit crop systems when managed with reduced pesticide inputs. Integrated pest management programs have been developed specifically for this crop.
-
-## See Also
-
-- [[prunus-avium]]
-- [[prunus-persica]]
-- [[prunus-domestica]]
-- [[prunus-armeniaca]]
-- [[corylus-avellana]]
-- [[vaccinium-corymbosum-entity]]
-- [[ribes-nigrum]]
-- [[vaccinium-myrtillus]]

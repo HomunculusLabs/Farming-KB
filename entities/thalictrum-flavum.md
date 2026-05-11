@@ -23,7 +23,7 @@ Thalictrum flavum, commonly known as common meadow-rue or yellow meadow-rue, is 
 
 The species produces airy panicles of small, fluffy yellow flowers atop slender dark stems reaching 60–150 cm. The delicate, columbine-like foliage provides textural contrast in garden settings, with bi-pinnate or tri-pinnate leaves in shades of blue-green.
 
-Thalictrum flavum is valued for its see-through habit in garden design, where it creates a misty yellow effect in borders. The species received the RHS Award of Garden Merit for its ornamental reliability.
+Thalictrum flavum is valued for its see-through habit [[mollison-barrier-plants-in-garden-design]], where it creates a misty yellow effect in borders. The species received the RHS Award of Garden Merit for its ornamental reliability.
 
 The genus name Thalictrum derives from the Greek thaliktron, used by Dioscorides for a plant with finely divided leaves. The specific epithet flavum means yellow, referencing the prominent stamens.
 
@@ -31,7 +31,7 @@ Unlike many Ranunculaceae species, meadow-rues rely on wind rather than insects 
 
 ## Taxonomy and Morphology
 
-Thalictrum flavum was described by Carl Linnaeus in 1753. The genus Thalictrum contains approximately 200 species distributed across temperate regions of the northern hemisphere and tropical South America.
+Thalictrum flavum was described by Carl Linnaeus in 1753. The genus Thalictrum contains approximately 200 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the northern hemisphere and tropical [[guzman-psilocybin-mushrooms-south-america]].
 
 The species is placed in section Thalictrum, which includes the European meadow-rues characterized by nodding stamens and inflated achenes. Two subspecies are recognized: subsp. flavum and subsp. glaucum.
 
@@ -51,7 +51,7 @@ In the British Isles, it is widespread in England and Wales but becomes local in
 
 The species inhabits wet meadows, fens, ditches, riverbanks, and marshy grassland. It is strongly associated with seasonally flooded or permanently damp ground on neutral to calcareous soils.
 
-It frequently co-occurs with Filipendula ulmaria, Lythrum salicaria, and various Carex species in species-rich fen communities. These habitats are among the most diverse plant communities in temperate Europe.
+It frequently co-occurs with [[filipendula-ulmaria]], Lythrum salicaria, and various Carex species in species-rich fen communities. These habitats are among the most diverse plant communities in temperate Europe.
 
 The species is classified as a standout indicator of calcareous fen habitat in European conservation legislation. Its presence triggers habitat protection under the EU Habitats Directive in several member states.
 
@@ -67,7 +67,7 @@ The species is particularly effective in herbaceous borders, prairie-style plant
 
 Planting should be in moisture-retentive soil that does not dry out completely in summer. Plants tolerate brief periods of waterlogging but prefer consistently moist, well-drained conditions.
 
-Propagation is by seed or division. Seeds require a period of cold stratification for reliable germination and should be sown fresh in autumn. Division is best done in early spring as new growth emerges.
+Propagation is by seed or division. Seeds require a period of cold stratification for reliable germination and should be sown fresh in autumn. Division is best done in [[coleman-overwintered-onions-and-early-spring-crops]] as new growth emerges.
 
 Self-seeding occurs in favorable garden conditions but is not aggressive. Volunteer seedlings can be transplanted in spring when they produce their first true leaves.
 
@@ -88,34 +88,3 @@ The foliage serves as a food plant for the larvae of several moth species. The a
 Seed-eating birds, particularly goldfinches and siskins, feed on the achenes in autumn. The persistent seed heads provide visual interest in the winter garden and foraging opportunities for wildlife.
 
 In species-rich fen meadows, Thalictrum flavum serves as an indicator of unimproved, traditionally managed grassland. Its presence signals a high botanical conservation value and intact hydrological regime.
-
-The species forms mycorrhizal associations with glomeromycete fungi in its native wetland habitats. These associations improve phosphorus uptake in the nutrient-poor soils typical of calcareous fens.
-
-## Traditional Uses
-
-Thalictrum flavum contains isoquinoline alkaloids including thalictrine and berberine-related compounds. These alkaloids give the root a bitter taste and are responsible for the plant's mild toxicity.
-
-Traditional European herbalism used the root as a bitter tonic and febrifuge. Preparations were administered in small doses to stimulate digestion and reduce fever, though efficacy was variable.
-
-The plant was also used in folk medicine as a diuretic and to treat rheumatic complaints. These uses are not supported by modern clinical evidence and are considered obsolete.
-
-The root was historically collected and dried for winter use in rural European communities. The bitter principle was extracted by steeping in alcohol to create a tincture used as a digestive aid.
-
-In some rural European traditions, the dried flower stems were bundled and used as informal brooms or torches. The lightweight stems burn readily when dry and were used to light field margins.
-
-The yellow flowers yield a pale yellow dye used in traditional textile coloring. This application was primarily local and small-scale, as the dye is not particularly fast or intense.
-
-No modern pharmacological applications have been developed from Thalictrum flavum. Related species, particularly Thalictrum minus, have been more extensively studied for their alkaloid profiles.
-
-## See Also
-
-- [[thalictrum-aquilegiifolium]]
-- [[ranunculus-acris]]
-- [[anemone-nemorosa]]
-- [[aconitum-napellus]]
-- [[clematis-vitalba]]
-- [[helleborus-niger]]
-- [[eranthis-hyemalis]]
-- [[delphinium-consolida]]
-- [[nigella-sativa]]
-- [[pulsatilla-vulgaris]]

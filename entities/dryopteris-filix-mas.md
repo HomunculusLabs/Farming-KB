@@ -87,30 +87,3 @@ Despite being largely abandoned in mainstream medicine by the mid-20th century, 
 In horticulture, Dryopteris filix-mas is valued as a reliable, robust fern for shade gardens and woodland plantings. Numerous cultivars have been selected, including 'Cristata' (crested frond tips), 'Barnesii' (narrow pinnae), and 'Linearis Polydactyla' (finely divided fronds).
 
 The species is also used in ecological restoration and [[permplant-willows-salix-erosion-control-fodder]] on shaded slopes, where its dense root system helps stabilize soil. Its tolerance of a range of conditions makes it a versatile choice for naturalistic landscape plantings.
-
-## Ecological Role
-
-In forest ecosystems, Dryopteris filix-mas contributes to the diversity and structure of the herbaceous understory layer. Its evergreen tendencies in mild climates provide year-round ground cover that moderates soil temperature and moisture.
-
-The species serves as a host plant for several specialist insects, including larvae of the fern moth (Horisme radicaria) and various sawfly species. These herbivores typically cause only minor defoliation and do not significantly impact fern vitality.
-
-The frond litter of male fern decomposes relatively quickly compared to some other fern species, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest floor ecosystems. The resulting humus is rich in organic matter and supports diverse soil microbial communities.
-
-In mixed deciduous woodlands, Dryopteris filix-mas often grows alongside other shade-tolerant ferns and woodland herbs, forming diverse ground cover communities. Its competitive ability is moderate, allowing coexistence with a range of understory species.
-
-The species can form extensive colonies through slow rhizome spread, particularly in areas with deep, moist soils. These colonies create favorable microsites for fern sporeling establishment, facilitating the recruitment of other pteridophyte species.
-
-## See Also
-
-- [[dryopteris-erythrosora]]
-
-- [[dryopteris-carthusiana]]
-
-- [[matteuccia-struthiopteris]]
-- [[polystichum-acrostichoides]]
-- [[equisetum-arvense]]
-- [[urtica-dioica]]
-- [[quercus-robur]]
-- [[salix-alba]]
-- [[vaccinium-angustifolium]]
-- [[lycopodium-clavatum]]

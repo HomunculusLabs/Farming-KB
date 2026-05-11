@@ -35,7 +35,7 @@ for its enzyme and [[fungal-elicitors-enhanced-secondary-metabolite-production]]
 
 **Pinguicula vulgaris** was described by Carl Linnaeus in *Species Plantarum*
 (1753). The genus name derives from Latin *pinguis* (fat), referring to the
-greasy appearance of the leaf surface.
+greasy appearance of the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]].
 
 It is placed in the order Lamiales, family Lentibulariaceae, alongside the
 genera *Utricularia* (bladderworts) and *Genlisea*. The family represents one
@@ -56,7 +56,7 @@ The spur is approximately 4–6 mm long and nectar-producing.
 
 *Pinguicula vulgaris* has a broad circumboreal distribution. In Europe, it
 ranges from Scandinavia and the British Isles south to the Alps and Carpathians.
-It occurs across Siberia, and in North America from Alaska to Labrador.
+It occurs across Siberia, and in [[guzman-psilocybin-mushrooms-north-america]] from Alaska to Labrador.
 
 The species typically grows in wet, nutrient-poor environments. Preferred
 habitats include sphagnum bogs, marsh edges, seepage slopes, and wet cliff
@@ -88,46 +88,3 @@ over several hours and is mediated by auxin redistribution.
 ## Bioactive Compounds and Pharmacology
 
 The mucilage and leaf tissues of *P. vulgaris* contain several bioactive
-constituents. The primary compound is plumbagin, a naphthoquinone with
-documented antimicrobial, anti-inflammatory, and cytotoxic activities.
-
-Other identified compounds include flavonoids (cirsiliol, hispidulin), iridoid
-glycosides, and the enzyme pinguiculin. The protease profile includes at least
-two cysteine proteases and one aspartic protease with pH optima between 3.5
-and 5.0.
-
-European herbal traditions used butterwort leaves topically as a poultice for
-wounds, skin eruptions, and cattle sores. The German Commission E and European
-Medicines Agency have evaluated the species.
-
-In vitro studies demonstrate antibacterial activity of leaf extracts against
-Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
-Anti-inflammatory activity has been shown in carrageenan-induced paw edema models.
-
-## Cultivation
-
-*Pinguicula vulgaris* is cultivated by carnivorous plant enthusiasts but
-requires specific conditions. A dormant winter period is essential — the plant
-forms a compact hibernaculum (resting bud) during cold months.
-
-The standard substrate is a mix of peat moss and perlite or silica sand at a
-1:1 ratio. Pure live sphagnum also works well. Pots should be kept in a tray
-of distilled or rainwater at a depth of 1–2 cm.
-
-Temperate butterworts require a seasonal temperature cycle. Summer growing
-temperatures of 18–25°C are optimal, with winter dormancy at 2–8°C. Cold
-stratification of 8–12 weeks improves [[cannabis-seed-germination-methods]] rates.
-
-Propagation is primarily from seed, which requires cold stratification. Gemmae
-(vegetative buds at leaf axils) can be separated and planted. Leaf cuttings
-are possible but less reliable than in tropical species.
-
-## See Also
-
-- [[pinguicula-grandiflora]]
-
-- [[utricularia-vulgaris]]
-- [[sarracenia-purpurea]]
-- [[sarracenia-flava]]
-- [[decomposition]]
-- [[spore]]

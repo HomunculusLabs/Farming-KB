@@ -1,18 +1,18 @@
 ---
-title: [[psilocybin-chemistry-and-pharmacology]] Stability
+title: Psilocybin Chemistry Stability
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 tags: [chemistry, psilocybin, psilocin, indole-alkaloids, stability, degradation]
 ---
 
 # Psilocybin Chemistry and Stability
 
-The psychoactive compounds in neurotropic fungi are primarily indole alkaloids structurally related to serotonin (5-hydroxytryptamine, 5-HT). Understanding their chemistry, biosynthesis, and degradation is essential for taxonomic identification, ethnobotanical documentation, and the interpretation of historical reports of mushroom use and potency.
+The psychoactive compounds in neurotropic fungi are primarily indole alkaloids structurally related to serotonin (5-hydroxytryptamine, 5-HT). Understanding their chemistry, biosynthesis, and degradation is essential for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], ethnobotanical documentation, and the interpretation of historical reports of mushroom use and potency.
 
 ## Principal Active Compounds
 
 ### Psilocybin (4-PO-DMT)
 
-Psilocybin, or 4-phosphoryloxy-N,N-dimethyltryptamine, is the phosphate ester of psilocin. It is the primary indole alkaloid found in neurotropic fungi and serves as a stable precursor that is enzymatically dephosphorylated in the body to produce the active compound psilocin. Psilocybin is more stable in air and is water-soluble, making it the predominant form in dried fungal tissue.
+Psilocybin, or 4-phosphoryloxy-N,N-dimethyltryptamine, is the phosphate ester of psilocin. It is the primary indole alkaloid found in [[non-psilocybin-neurotropic-fungi-and-ergot-alkaloids]] serves as a stable precursor that is enzymatically dephosphorylated in the body to produce the active compound psilocin. Psilocybin is more stable in air and is water-soluble, making it the predominant form in dried fungal tissue.
 
 ### Psilocin (4-HO-DMT)
 
@@ -35,7 +35,7 @@ Hallucinogens can be grouped by chemical structure:
 - **Cannabinoids** — THC and related compounds.
 - **Isoxazole derivatives** — ibotenic acid, muscimol (unique to Amanita section).
 
-The tryptamine hallucinogens share structural similarity with serotonin, which explains their activity at serotonergic receptor sites. Psilocybin and psilocin belong to the same broad chemical class as LSD, though their effects differ in intensity and duration.
+The [[dmt-tryptamine-hallucinogens]] share structural similarity with serotonin, which explains their activity at serotonergic receptor sites. [[psilocybin-and-psilocin-chemical-synthesis]] belong to the same broad chemical class as LSD, though their effects differ in intensity and duration.
 
 ## Interspecies Variation in Potency
 
@@ -43,12 +43,12 @@ The tryptamine hallucinogens share structural similarity with serotonin, which e
 
 Mushroom potency varies enormously by species:
 
-- **Psilocybe semilanceata** (liberty cap) — averages approximately 1% psilocybin/psilocin content by dry weight; considered one of the most potent naturally occurring species.
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap) — averages approximately 1% psilocybin/psilocin content by dry weight; considered one of the most potent naturally occurring species.
 - **Psilocybe azurescens** — reported to be among the most potent, with concentrations potentially exceeding 1%.
 - **Psilocybe bohemica** — also reported with high potency.
 - **Psilocybe cubensis** — typically 0.3-0.6% psilocybin/psilocin; the most commonly cultivated species but relatively moderate in potency.
 - **[[copelandia-cyanescens]]** — higher potency than P. cubensis.
-- **Panaeolus subbalteatus** — lower potency but widely distributed.
+- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** — lower potency but widely distributed.
 
 ### Intraspecies Variation
 
@@ -87,34 +87,3 @@ This observation has implications for storage, drying, and the interpretation of
 ## Factors Affecting Chemical Analysis
 
 ### Analytical Challenges
-
-Chemical studies on neurotropic fungi face several methodological problems:
-
-**Misidentification:** Many chemical studies lack a taxonomic foundation. Material studied by different researchers may represent different species despite bearing the same name, or may be mixtures of multiple species.
-
-**Age at analysis:** Unless the time between collection and analysis is carefully controlled and reported, results are difficult to compare across studies.
-
-**Detection limits:** Early analytical methods were less sensitive than modern techniques (HPLC, GC-MS), meaning that trace compounds may have been missed in older studies.
-
-**Extraction methods:** Different solvent systems and extraction protocols yield different profiles, making cross-study comparison problematic.
-
-### Disputed Chemical Reports
-
-Several species have been reported both with and without neurotropic compounds by different researchers, creating confusion in the literature:
-
-- **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]** — found to contain psilocybin by Robbers et al. (1969), Ola'h (1969), and Bresinsky & Besl (1990), but NOT found to contain it by Mantle & Waight (1969), Ott & Guzmán (1976), Beug & Bigwood (1982), Stijve (1987), and Stijve & Meijer (1993).
-- **Gymnopilus spectabilis and G. fulgens** — Stijve & Kuyper (1988) found no psilocybin, contradicting earlier positive reports.
-- **Rickenella swartzii, Gerronema fibula, Hygrocybe psittacina** — all failed to show psilocybin when tested by Stijve & Kuyper (1988).
-- **Stropharia cyanea, S. coronilla, Mycena pura, Amanita gemmata** — Bresinsky & Besl (1990) considered earlier reports of hallucinogenic compounds to be doubtful.
-
-These discrepancies likely result from misidentification, specimen age, and varying analytical sensitivity.
-
-## Implications for Cultivation and Use
-
-The chemistry of psilocybin-containing fungi has direct practical implications:
-
-1. **Harvest timing** — maximum potency occurs in young, immature specimens before the veil breaks. Mature specimens that have begun sporulation are significantly weaker.
-2. **Storage conditions** — cool, dark, airtight storage preserves alkaloids best. Desiccant drying at near-freezing temperatures preserves the most alkaloid content.
-3. **Drying method** — heat degrades alkaloids. Desiccant-based drying is superior to oven or hot-air drying.
-4. **Fresh vs. dried** — fresh mushrooms contain approximately 90% water; drying concentrates the alkaloids by roughly 10x. Dosage must be adjusted accordingly (fresh: 10-50g; dried: 1-5g).
-5. **Preparation methods** — brewing into tea may extract alkaloids efficiently while reducing nausea from chitin and other mushroom components.

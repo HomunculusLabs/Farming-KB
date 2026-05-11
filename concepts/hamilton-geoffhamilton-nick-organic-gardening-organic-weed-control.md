@@ -1,5 +1,5 @@
 ---
-title: Organic fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery
+title: [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] [[coleman-preemergence-flaming-weed-control]]
 created: 2026-04-28
 tags: [weed-control, organic-gardening, mulching, hoeing, land-management]
 date: 2026-04-25
@@ -88,16 +88,3 @@ the fence. The first problem is solved by asking your neighbors for
 permission to cut down any weeds before they seed. To cope with weeds
 that creep under the fence, install a barrier of heavy-gauge plastic
 that runs deep into the soil to discourage encroaching roots.
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-
-- [[composting]]
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
-
-- [[mollison-designers-composting-toilets-and-humanure]] for recycling weed material (with caution)
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]] for understanding how soil affects weed
-  growth

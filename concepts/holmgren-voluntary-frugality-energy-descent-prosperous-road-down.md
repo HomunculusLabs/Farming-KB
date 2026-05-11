@@ -1,6 +1,6 @@
 ---
 title: "Voluntary Frugality and the Prosperous Road Down"
-source: "David Holmgren - Permaculture: Principles & Pathways Beyond Sustainability"
+source: "[[david-holmgren]] - Permaculture: Principles & Pathways [[holmgren-beyond-sustainability]]"
 topic: permaculture
 tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainability]
 ---
@@ -10,9 +10,9 @@ tags: [permaculture, energy-descent, voluntary-frugality, holmgren, sustainabili
 ## Overview
 
 David Holmgren's concept of voluntary frugality is a cornerstone of his vision for
-energy descent — the deliberate transition from high-energy industrial society to a
+[[energy-descent-action-planning]] — the deliberate transition from high-energy industrial society to a
 low-energy, sustainable culture. Unlike poverty imposed by circumstance, voluntary
-frugality is a chosen path enabling people to optimise resource allocation while
+frugality is a chosen path enabling people to optimise [[mycelial-foraging-resource-allocation]] while
 maintaining quality of life. Holmgren frames this not as deprivation but as a
 "prosperous road down," drawing on the work of Howard and Elizabeth Odum.
 
@@ -61,7 +61,7 @@ invested in other sectors, further stimulating demand for energy and resources.
 
 Holmgren provides concrete examples: friends who reduced energy consumption
 through efficient technology now drive their energy-efficient cars further; a
-sister's savings on electricity and gas from her passive solar house funded an
+sister's savings on electricity and gas from her [[comparison-passive-solar-vs-earth-sheltered]] house funded an
 airfare to Europe. This phenomenon is well-documented in systems modelling of
 sustainable transition.
 
@@ -81,48 +81,9 @@ catastrophe to opportunity. Solutions Holmgren identifies include:
    stimulates networked, progressively more integrated low-energy alternatives,
    rebound effects can reconfigure the economy while decreasing total resource
    demand.
-2. **Ethical investment**: Redirecting saved resources toward regenerative
+2. **[[ethical-investment-and-earth-banking]]**: Redirecting saved resources toward regenerative
    systems (local organic produce, employing neighbours, ethical investment
    funds) reduces adverse rebound effects.
 3. **Starving large-scale demand**: Large systems of intensive energy demand
    need only lose a small proportion of sales before being forced to reduce
    production. Second-hand goods dilute the feedback of demand for new goods.
-
-## From Consumer to Producer
-
-The early Permaculture vision of reclaiming ornamental suburbia for abundant food
-production serves as a meta-model for a larger transformation: from dependent,
-demanding consumers to interdependent, responsible producers. A global consensus
-about energy transition could emerge quickly in an electronically networked
-world. Permaculture is for those who already sense this reality and want to give
-practical, integrated expression to it.
-
-## EMERGY Yield Ratios: Nature's Wisdom
-
-EMERGY studies reveal a fundamental pattern — the more work left to nature, the
-greater the net yield, but the longer the time required:
-
-| Source | EMERGY Yield Ratio |
-|--------|-------------------|
-| Annual crops (sugar cane, corn, palm oil) | ~1.0 |
-| Wood plantations | 1.5–4.0 |
-| 300-year-old rainforest | 12.0 |
-
-Neolithic grain farmers to forestry economists have repeatedly failed to
-recognise this pattern in their pursuit of higher yields from shorter rotations.
-
-## Practical Applications
-
-Voluntary frugality in practice means: building once to last; home-produced food
-with bulk purchasing to reduce food miles; site and local energies (passive
-solar, wood) over centralised systems; home birth and education; working from
-home with local commitment; slowly accumulated savings for gradual development.
-
-## See Also
-
-- [[holmgren-energy-descent-permaculture-flower]]
-- [[holmgren-biomass-fuels-and-energy-yield-ratios]]
-- [[holmgren-ecological-succession-and-pulsing]]
-- [[permaculture-principle-catch-and-store-energy]]
-- [[permaculture-principle-obtain-a-yield]]
-- [[energy-descent-permaculture-response]]

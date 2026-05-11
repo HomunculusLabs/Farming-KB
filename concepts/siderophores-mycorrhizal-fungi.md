@@ -42,7 +42,7 @@ The CAS assay is the most widely used method for detecting siderophore productio
 
 Individual siderophores are identified and quantified by reversed-phase HPLC:
 
-- **Column**: C18 reversed phase (4.6 x 250 mm, 5 micrometer)
+- **Column**: C18 [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]] (4.6 x 250 mm, 5 micrometer)
 - **Mobile phase**: Gradient of acetonitrile/water (6-40%) with 0.1% trifluoroacetic acid (TFA) or formic acid at pH 2-3
 - **Detection**: UV at 220 nm (general) or 435 nm (hydroxamate-specific)
 - **Reference compounds**: Available commercially (e.g., EMC Microcollections, Tuebingen, Germany) for co-chromatography confirmation
@@ -74,8 +74,8 @@ Mycorrhizal fungal siderophores may directly contribute to plant iron nutrition:
 - Ferric-siderophore complexes may be taken up by plant roots or reduced at the root surface
 ## Iron Acquisition Mechanisms
 
-Mycorrhizal fungi employ a multi-step process for iron mobilization.
-Under iron-limited conditions, fungal hyphae upregulate siderophore
+[[mycorrhizal-fungi]] employ a multi-step process for iron mobilization.
+Under iron-limited conditions, [[fungal-hyphae]] upregulate siderophore
 biosynthesis genes and secrete chelating compounds into the soil
 matrix. The Fe(III)-siderophore complex is recognized by
 specific membrane receptors on the hyphal surface and transported
@@ -88,33 +88,3 @@ far beyond the root surface, effectively mining iron from soil
 volumes that plant roots alone cannot access.
 
 ## Siderophore Types and Affinity Comparison
-
-Different siderophore classes exhibit varying affinities for Fe(III).
-Hydroxamate siderophores (ferrichromes, coprogens, fusarinines)
-have stability constants (log K) of 28-32, making them among
-the strongest biological iron chelators known. Polycarboxylate
-but function effectively in neutral to alkaline soils where hydroxamates
-hydroxamates may be competitively inhibited by calcium and
-magnesium ions. Catecholate-type siderophores, common in bacteria
-but rare in fungi, occupy an intermediate position. This diversity
-of siderophore chemistry allows mycorrhizal communities to access
-iron across a wide range of soil pH and mineralogy conditions,
-reducing functional redundancy in the mycorrhizosphere.
-
-## Bioremediation Applications
-
-Siderophore-producing mycorrhizal fungi show promise for soil
-bioremediation beyond nutrient cycling. Their chelating activity
-can mobilize heavy metals such as uranium, aluminum, and cadmium
-from contaminated sites, either facilitating phytoextraction by
-host plants or immobilizing metals within stable fungal biomass.
-containing Pisolithus tinctorius to establish vegetation
-on iron-rich substrates. Siderophores also
-enhance degradation of organic pollutants by solubilizing iron
-needed for Fenton-type reactions that break down recalcitrant
-compounds including polycyclic aromatic hydrocarbons.
-
-- The mycorrhizal hyphal network extends the effective soil volume for iron exploration
-- In iron-deficient soils, [[ectomycorrhizal-ecology]]|ectomycorrhiza — Siderophore-producing mycorrhizal type
-- [[mycorrhization-helper-bacteria]] — Bacterial siderophores in the mycorrhizosphere
-- mycorrhizal-siderophores-iron-chelation

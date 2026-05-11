@@ -87,31 +87,3 @@ Classical applications include treatment of pain, spasms, rheumatism, skin disea
 In 19th-century Western eclectic medicine, *Gelsemium sempervirens* was used as a nervine, antispasmodic, and febrifuge, particularly for migraine and neuralgia.
 
 Homeopathic preparations of gelsemium remain widely available for anxiety, influenza-like symptoms, and stage fright, though these preparations contain negligible amounts of the alkaloid due to extreme serial dilution.
-
-## Related Compounds
-
-The *Gelsemium* genus produces a family of structurally related oxindole alkaloids with varying pharmacological profiles:
-
-- **Gelsenicine** — more toxic than gelsemine, potent convulsant with a methoxyl substituent
-- **Gelsemicine** — oxidized derivative with similar glycine receptor activity
-- **Koumine** — less toxic analog with notable anxiolytic and immunomodulatory properties
-- **Humantenmine** — minor constituent with documented antitumor activity in vitro
-- **Gelsevirine** — weak analgesic activity, isolated from *G. elegans* roots
-
-Koumine, the most abundant alkaloid in *G. elegans* after gelsemine, has attracted particular research interest due to its significantly lower toxicity while retaining anxiolytic and anti-inflammatory effects. It is being investigated as a potential lead compound for treating anxiety disorders.
-
-## Legal Status
-
-Gelsemine is not internationally scheduled under the UN Convention on Psychotropic Substances. However, *G. elegans* is regulated as a toxic plant in several jurisdictions.
-
-In China, the plant is classified as a restricted traditional medicine requiring special licensing for procurement and processing.
-
-In the [[dmt-containing-plants-united-states-halpern]], *Gelsemium sempervirens* extracts are available as dietary supplements, though the FDA has issued warnings about misidentification with the far more toxic *G. elegans*.
-
-## See Also
-
-- [[muscimol-entity]]
-- ibotenic-acid-entity
-- [[salvinorin-a-entity]]
-- [[voacangine-entity]]
-- [[bufotenin]]

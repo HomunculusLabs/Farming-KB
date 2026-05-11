@@ -1,5 +1,5 @@
 ---
-title: "hamilton garden ponds and aquatic plants and Aquatic Plants"
+title: Hamilton Garden Ponds And Aquatic Plants
 created: 2026-04-28
 tags: [water-garden, pond-construction, aquatic-plants, wildlife, organic-gardening]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Garden Ponds and Aquatic Plants
 
-A garden pond is a valuable asset in any organic garden. It provides
+A garden pond is a valuable asset in any [[comparison-vermicomposting-vs-composting-organic-garden]]. It provides
 drinking water for birds and small mammals, a home for many aquatic
 animals, and enables the gardener to grow a much wider range of plants.
 Frogs and toads, which are voracious predators of [[query-how-to-get-rid-of-slugs-and-snails-organically]], are
@@ -68,7 +68,7 @@ These plants root at the bottom of the pond with leaves floating on the
 surface. Water lilies (Nymphaea) are the most well-known and are both
 decorative and useful for reducing algae growth. Other deep-water plants
 include water hawthorn (Aponogeton distachyum), water violet (Hottonia
-palustris), and water crowfoot (Ranunculus aquatilis).
+palustris), and water crowfoot ([[ranunculus-aquatilis]]).
 
 ### Floating Plants
 
@@ -81,49 +81,10 @@ per square yard/metre of water surface.
 
 While not decorative, these are essential to pond health because they
 aerate the water. Suitable species include spiked water milfoil
-(Myriophyllum spicatum), Canadian pondweed (Elodea canadensis), and curly
-pondweed (Potamogeton crispus). Plant one bunch per 2 square yards/metres
+([[myriophyllum-spicatum]]), Canadian pondweed ([[elodea-canadensis]]), and curly
+pondweed ([[potamogeton-crispus]]). Plant one bunch per 2 square yards/metres
 of water in spring.
 
 ### Marginal Plants
 
 Marginal plants grow in the shallowest parts of the pond and the boggy
-soil around the edges. They range from those needing just an inch or so
-of water, such as sweet-scented rush ([[sweet-flag-acorus-calamus-ethnobotany]]), to those that
-prefer marshy soil like primulas. Other good marginal plants include
-marsh marigold (Caltha palustris), water forget-me-not (Myosotis
-palustris), flowering rush (Butomus umbellatus), and bog arum (Calla
-palustris).
-
-## Planting Aquatic Plants
-
-Use heavy garden soil or rotted turf for planting aquatics in containers.
-Do not use soil rich in [[hamilton-composting-and-organic-matter-management]], as it will putrefy. A thin layer
-of gravel on top prevents soil from floating and stops fish from
-disturbing it. Plant deep-water aquatics in late spring and summer. Cut
-off old leaves before lowering containers to the bottom of the pond.
-
-## Pond Maintenance
-
-Algae growth commonly turns new pond water pea-green. Do not empty and
-replace the water, as this simply refreshes the mineral supply. Leave it
-alone and the minerals will be depleted naturally, while growing water
-plants exclude sunlight. The algae will die and the water will clear.
-
-Thin oxygenating plants occasionally by hand, returning any animal life
-to the pond. Remove blanket weed promptly whenever it appears. Keep
-leaves out of the pond, using netting in fall if necessary. If keeping
-ornamental fish, provide shallow refuge areas for fry and frog spawn.
-
-## Related
-
-- [[hamilton-garden-fencing-and-boundaries]] Concepts
-
-- [[hamilton-garden-pond-maintenance]]
-- [[hamilton-beneficial-insects-and-biological-pest-control]]
-- [[hamilton-rock-garden-design]]
-- [[hamilton-watering-plants-techniques]]
-
-## See Also
-
-- [[primula-secundiflora]]

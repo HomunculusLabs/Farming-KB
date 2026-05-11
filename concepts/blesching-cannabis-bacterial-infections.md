@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] provides a comprehensive overview of bacterial
-infections as a category, with a combined CHI value of 31 from 15 viral
+infections as a category, with a combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of 31 from 15 viral
 and bacterial studies reviewed. Blesching documents both the established
 medical understanding and the emerging evidence for cannabis-based
 approaches to bacterial pathogens.
@@ -56,13 +56,13 @@ Five major cannabinoids (THC, CBD, CBG, CBC, and CBN) have been
 discovered to be potent against bacteria, including multi-drug-resistant
 bacteria. The precise mechanism of their antiseptic effect is still under
 study, but research has shown potent activity against a variety of
-methicillin-resistant Staphylococcus aureus (MRSA) strains of current
+methicillin-resistant [[staphylococcus-aureus]] (MRSA) strains of current
 clinical relevance.
 
 ### Historical Context
 
 Prior to the discovery of penicillin, cannabidiolic acids were commonly
-prescribed for bacterial infections. Arabic and Indian Ayurvedic
+prescribed [[cannabis-for-bacterial-infections-and-mrsa]]. Arabic and Indian Ayurvedic
 physicians long applied the diuretic, sedative, and anti-inflammatory
 properties of cannabis to treat bacterial conditions including cystitis
 and gonorrhea.
@@ -88,37 +88,3 @@ Blesching reviews Koch's postulates, the standard framework for
 establishing causation between a microbe and a disease:
 1. The microorganism must be found in abundance in all organisms
    suffering from the disease, but should not be found in healthy
-   organisms.
-2. The microorganism must be isolated from a diseased organism and grown
-   in pure culture.
-3. The cultured microorganism should cause disease when introduced into
-   a healthy organism.
-4. The microorganism must be re-isolated from the inoculated, diseased
-   experimental host and identified as identical to the original specific
-   causative agent.
-
-## Supporting Antibacterial Foods
-
-- **Coconut**: Medium-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (lauric acid and capric acid)
-  showed strong antibacterial abilities, killing all strains of Neisseria
-  gonorrhea and inactivating chlamydia in laboratory studies.
-- **Garlic**: Allicin, a major antibacterial component of garlic, is
-  effective against MRSA. [[ginger-garlic-extract-bionutrient]] consisting of diallyl sulphide
-  and diallyl disulphide possessed multiple protective functions against
-  MRSA infection.
-- **[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]**: Grapefruit seed extract with geranium oil showed
-  greatest antibacterial effects against MRSA. Tea tree oil, lavender,
-  lemongrass, cinnamon, melissa, peppermint, spearmint, and mountain
-  savory have all demonstrated antibacterial properties.
-
-## Related
-
-- [[blesching-cannabis-mrsa]] - Detailed coverage of cannabis against
-  methicillin-resistant Staphylococcus aureus
-- [[blesching-cannabis-viral-infections]] - Viral infection counterparts
-- [[blesching-cannabis-hiv-aids]] - Bacterial infections in
-  immunocompromised patients
-- [[blesching-cannabinoid-pharmacology]] - Cannabinoid antibacterial
-  mechanisms of action
-- [[endocannabinoid-system-overview]] - ECS role in bacterial
-  immune defense

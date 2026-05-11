@@ -26,7 +26,7 @@ form symbiotic partnerships with plants that enhance [[ph-and-nutrient-availabil
 disease resistance.
 
 ## Detailed Explanation
-[[soil-food-web]], sharing
+[[soil-foodweb]], sharing
 morphological characteristics with fungi while maintaining bacterial cellular
 structure. Their populations in healthy soil can reach 10 million per gram,
 and they are particularly abundant in alkaline soils and mature compost. The

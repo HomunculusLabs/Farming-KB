@@ -25,7 +25,7 @@ sources:
 
 Switchgrass is a C₄ grass capable of producing high yields on marginal agricultural land without significant fertilizer or pesticide inputs. Its native range extends from Canada to Mexico, with natural populations adapted to a wide range of climatic conditions, soil types, and moisture regimes.
 
-The species has gained prominence as a model lignocellulosic bioenergy feedstock, particularly following its selection by the U.S. Department of Energy as a primary candidate for cellulosic ethanol production. It also serves important ecological functions in [[comparison-prairie-restoration-vs-silvopasture]], riparian buffer zones, and wildlife habitat.
+The species has gained prominence as a model lignocellulosic bioenergy feedstock, particularly following its selection by the U.S. Department of Energy as a primary candidate for cellulosic ethanol production. It also serves important [[fungal-melanin-biosynthesis-ecological-functions]] in [[comparison-prairie-restoration-vs-silvopasture]], riparian buffer zones, and [[hemenway-backyard-wildlife-habitat]].
 
 Unlike annual bioenergy crops such as corn and soybeans, switchgrass does not require annual tillage, planting, or intensive nitrogen fertilization. This reduces fossil fuel inputs, soil disturbance, and nitrate leaching. The low-input nature of switchgrass production makes it particularly attractive for marginal lands unsuitable for row crop agriculture.
 
@@ -38,7 +38,7 @@ Unlike annual bioenergy crops such as corn and soybeans, switchgrass does not re
 - **Genus:** Panicum
 - **Species:** P. virgatum L.
 
-Switchgrass is a rhizomatous perennial bunchgrass growing 0.9-2.7 m tall, with stout, erect culms arising from a dense basal crown. The root system is exceptionally deep, reaching 2.5-3.5 m, with a massive fibrous root network that contributes to soil organic carbon accumulation.
+Switchgrass is a rhizomatous perennial bunchgrass growing 0.9-2.7 m tall, with stout, erect culms arising from a dense basal crown. The root system is exceptionally deep, reaching 2.5-3.5 m, with a massive fibrous root network that contributes to [[soil-organic-carbon-fractions-turnover-dynamics]] accumulation.
 
 Leaves are flat, 30-90 cm long and 5-20 mm wide, with a prominent midrib and scabrous margins. The inflorescence is an open, diffuse panicle, 15-50 cm long, bearing numerous small spikelets. Flowering occurs from July through September.
 
@@ -60,9 +60,9 @@ Switchgrass provides critical habitat structure for grassland wildlife species. 
 
 As a C₄ grass, switchgrass has high water-use efficiency, fixing carbon at rates approximately 2-3 times greater than C₃ grasses per unit of water transpired. This efficiency allows it to maintain productivity during hot, dry midsummer conditions when cool-season grasses are dormant.
 
-The deep root system makes switchgrass one of the most effective perennial grasses for soil carbon sequestration. Root biomass can exceed above-ground biomass, with roots contributing 60-70% of total plant carbon.
+The deep root system makes switchgrass one of the most effective perennial grasses for [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Root biomass can exceed above-ground biomass, with roots contributing 60-70% of total plant carbon.
 
-Annual soil organic carbon accumulation under established switchgrass stands ranges from 0.5-1.5 tonnes C/ha/year. Over a 10-year stand life, this represents significant carbon drawdown, particularly when compared to annual row crop systems that typically lose soil carbon. The recalcitrant nature of grass root-derived carbon contributes to long-term soil organic matter stabilization.
+Annual soil organic carbon accumulation under established switchgrass stands ranges from 0.5-1.5 tonnes C/ha/year. Over a 10-year stand life, this represents significant carbon drawdown, particularly when compared to annual row crop systems that typically lose soil carbon. The recalcitrant nature of grass root-derived carbon contributes to long-term [[knf-leaf-mold-humus]] stabilization.
 
 Switchgrass provides excellent [[permplant-willows-salix-erosion-control-fodder]] on marginal lands, critical areas, and riparian zones. The dense root mat binds soil effectively, reducing sheet and rill erosion by 90% or more compared to bare ground.
 
@@ -72,7 +72,7 @@ Establishment of switchgrass from seed is the most common method, though stand f
 
 Seeding rates are typically 4-6 kg PLS (pure live seed) per hectare, planted at 6-10 mm depth in early spring. A firm, weed-free seedbed is essential for successful establishment. Weed competition during the first growing season is the primary cause of stand failure, as switchgrass seedlings grow slowly during their establishment phase.
 
-Switchgrass is managed as a perennial crop with a 10-15 year productive stand life. Fertilization requirements are modest compared to annual crops: nitrogen at 50-100 kg N/ha/year is typically sufficient for maximum biomass production. No pesticide applications are normally required after stand establishment.
+Switchgrass is managed as a perennial crop with a 10-15 year productive stand life. Fertilization requirements are modest compared to annual crops: nitrogen at 50-100 kg N/ha/year is typically sufficient for maximum [[dighton-fungal-biomass-production-aquatic-ecosystems]]. No pesticide applications are normally required after stand establishment.
 
 Harvest is conducted once or twice annually, typically after senescence in late fall or early spring. Single-cut systems (post-senescence harvest) maximize biomass yield and allow [[dighton-fungal-nutrient-translocation-element-redistribution]] to roots. Two-cut systems (summer + fall) produce higher total biomass but may reduce stand longevity.
 
@@ -87,29 +87,3 @@ Important cultivars include 'Alamo' (lowland, high-yielding, widely adapted), 'K
 Switchgrass is the leading cellulosic bioenergy feedstock in North America. It can be processed into cellulosic ethanol via enzymatic hydrolysis of cellulose and hemicellulose, or combusted directly for heat and electricity generation. Net energy returns for switchgrass ethanol range from 3.5-5.3:1, significantly exceeding corn ethanol returns.
 
 Biomass yields vary by cultivar and location, ranging from 5-25 tonnes dry matter/ha/year. Theoretical ethanol yield is approximately 340 L per tonne of dry biomass. Processing challenges include the recalcitrance of lignocellulose to enzymatic breakdown, though pretreatment technologies (dilute acid, ammonia fiber expansion, and steam explosion) have improved conversion efficiency.
-
-### Soil Conservation and Restoration
-
-The species is widely planted in conservation reserve programs (CRP) and for prairie restoration. Its deep roots improve soil structure, increase water infiltration, and sequester atmospheric carbon. Switchgrass filter strips effectively trap sediment and nutrients in agricultural runoff before reaching waterways.
-
-### Ornamental Use
-
-Switchgrass is increasingly used in landscape architecture for its ornamental qualities. Cultivars with red or golden fall color (such as 'Shenandoah' and 'Northwind') are popular in perennial borders and naturalistic plantings. The upright form and airy panicles provide winter interest in gardens, and the species requires minimal maintenance once established.
-
-### Forage
-
-Despite its classification as a bioenergy crop, switchgrass has value as summer pasture and hay for livestock. [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is highest during early growth stages (crude protein 12-15%), declining rapidly after heading. It is best suited as a component of mixed-species pastures rather than a sole forage source.
-
-## See Also
-
-- [[panicum-miliaceum]]
-
-- [[miscanthus-giganteus]]
-- [[vetiveria-zizanoides]]
-- [[morus-alba]]
-- [[hugelkultur]]
-- [[biochar]]
-- [[stropharia-rugosoannulata]]
-- [[sheet-mulching]]
-- [[food-forest]]
-- [[mycoforestry]]

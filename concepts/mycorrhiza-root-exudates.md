@@ -15,7 +15,7 @@ type: concept
 Root exudates are [[fungal-volatile-organic-compounds-communication]] released by plant roots into the
 surrounding soil (rhizosphere). [[arbuscular-mycorrhizal-colonization-patterns]] significantly
 modifies the composition and quantity of root exudates, which in turn
-affects pathogen behavior, rhizosphere microbial communities, and the
+affects pathogen behavior, [[rhizosphere-microbial-communities]], and the
 overall dynamics of plant-soil-microbe interactions. Understanding these
 exudate-mediated effects is critical for optimizing mycorrhizal management
 in agricultural systems.
@@ -32,7 +32,7 @@ roots and from younger roots.
 
 Proline accumulates and is involved in plant protection against water and
 salt stresses. It also accumulated in tomato leaves following infection with
-*Phytophthora nicotianae* and in the cortex of *Theobroma cacao* after
+*Phytophthora nicotianae* and in the cortex of *[[theobroma-cacao]]* after
 infection with *P. megakarya*, suggesting a role in both [[fungal-lichen-stress-tolerance-and-poikilohydry]]
 and pathogen defense.
 
@@ -42,9 +42,9 @@ Several secondary metabolites accumulate in mycorrhizal roots and may be
 released through exudation:
 
 - **Blumenin:** A carotenoid-derived isoprenoid that accumulates in barley
-  and wheat roots colonized with *Glomus intraradices*. Levels are low at
+  and wheat roots colonized with *[[glomus-intraradices]]*. Levels are low at
   2 weeks, peak at 3-4 weeks, and decline after 5 weeks, tracking root
-  and AMF developmental stages.
+  and AMF [[psilocybe-cubensis-developmental-stages]].
 - **Mycorradicin and nicoblumin:** Additional carotenoid-derived compounds
   found in mycorrhizal roots.
 - **Flavonoids:** Acacetin and rhamnetin accumulate in mycorrhizal roots
@@ -72,7 +72,7 @@ repulsive compounds varies with root and AMF developmental stage.
 Root exudates from mycorrhizal plants can affect the formation and
 germination of pathogen propagules:
 
-- Germination and hyphal growth of *Fusarium oxysporum* f. sp.
+- Germination [[bloomfield-fungal-biology-and-hyphal-growth]] of *[[fusarium-oxysporum]]* f. sp.
   *chrysanthemi* were stimulated when conidia were placed directly onto a
   *G. intraradices* mycelium in vitro.
 - Crude extracts of *G. intraradices* mycelium reduced germination of
@@ -88,61 +88,3 @@ These variable effects highlight the complexity of exudate-mediated
 interactions.
 
 ## Rhizosphere Bacterial Community Shifts
-
-Mycorrhizal colonization modifies the bacterial community structure of the
-rhizosphere. Extracts from *G. intraradices* mycelium had differential
-effects on soil microbes, stimulating growth of *Pseudomonas chlororaphis*
-and *Trichoderma harzianum*, reducing germination of *F. oxysporum*, and
-having no effect on *Clavibacter michiganensis*.
-
-The chemotactic response of plant-growth-promoting rhizobacteria
-*Azotobacter chroococcum* and *Pseudomonas fluorescens* was significantly
-stronger towards exudates of *G. fasciculatum*-colonized tomatoes than
-non-mycorrhizal roots. However, rhizosphere bacterial community changes
-after mycorrhizal colonization appear not to be mediated by root exudation
-modification alone, suggesting additional mechanisms.
-
-## Strigolactones as Branching Factors
-
-Strigolactones are plant-derived molecules that serve as signals in the
-[[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]. They are perceived by AM fungi and act as branching
-factors, stimulating hyphal branching near host roots (Akiyama et al. 2005).
-This discovery was a landmark in understanding the molecular communication
-between plant and fungal partners. Strigolactones have since been recognized
-as a novel class of endogenous plant hormones present across a wide range of
-angiosperms.
-
-## Glomalin and Soil Aggregation
-
-Glomalin is the only protein detected from [[bacterial-associates-amf-structures-biocontrol]] that favors soil
-aggregation (Wright and Upadhyaya 1998). While its impact on pathogens has
-not been directly studied, glomalin contributes to soil physical properties
-that influence root health and microbial habitat structure in the
-mycorrhizosphere.
-
-## Role in Autoregulation of Colonization
-
-Root colonization with AMF inhibits further mycorrhizal colonization
-systemically. Modification of root exudation after mycorrhizal colonization
-appears to be the origin of this autoregulation. Flavonoids and
-carotenoid-derived compounds released from mycorrhizal roots may signal the
-plant to limit further colonization, representing a feedback mechanism that
-optimizes the carbon cost of the symbiosis.
-
-## Methodological Approaches
-
-In vitro bi-compartmental Magenta box systems using *Agrobacterium
-rhizogenes*-transformed roots have been developed to study exudate effects
-without interference from other soil microorganisms. PCR-DGGE analysis of
-16S rRNA genes permits characterization of bacterial community structure
-in response to [[singh-mycorrhizal-exudates-root-exudate-interactions]]. These approaches allow dissection of
-the complex interactions between mycorrhizal exudates and soil biology.
-
-## See Also
-
-- [[mycorrhiza-nutrient-exchange]]
-- [[mycorrhizal-networks]]
-- mycorrhizal-symbiosis
-- [[root-exudates]]
-- [[glomus-intraradices]]
-- [[trichoderma-harzianum]]

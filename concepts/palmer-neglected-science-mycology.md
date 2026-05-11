@@ -1,5 +1,5 @@
 ---
-title: Palmer on the palmer neglected science mycology of mycology in America
+title: Palmer Neglected Science Mycology
 created: 2026-04-28
 tags: [mycology-history, american-science, nineteenth-century, palmer, cryptogamic-botany]
 date: 2026-04-28
@@ -9,7 +9,7 @@ type: concept
 ---
 # Palmer on the Neglected Science of Mycology in America
 In his 1877 article "A Neglected Science," published in the Boston Daily
-Globe, Palmer lamented the state of American mycology with particular
+Globe, Palmer lamented the state of [[palmer-early-american-mycology-nineteenth-century]] with particular
 eloquence. While American botanists had classified nearly every green herb on
 the continent, and collectors regularly documented new species of beetles,
 birds, and fish, the fungi -- "a race of beings about which the schools tell
@@ -21,7 +21,7 @@ Palmer wrote that when a child kicked a fungus over, "we call them
 toadstools. When the cook broils them, they are mushrooms. This is the limit
 of popular knowledge." He contrasted this ignorance with the intensive study
 given to other branches of natural history: Amherst vied with Harvard in the
-race for the longest name and clearest type, while the vast kingdom of fungi
+race for the longest name and clearest type, while the vast [[mckenna-the-kingdom-of-fungi]]
 lay untouched beneath everyone's feet.
 
 ## The Few American Authorities
@@ -88,63 +88,6 @@ fungi."
 
 ## Palmer's Assessment After Fifteen Years
 
-Looking back in 1893 from the perspective of sixteen years of study, Palmer
-acknowledged some progress. "Whatever I may have done has been accomplished
-in the moments of forest recreation at intervals in a busy life; its most
-valuable fruit is in the number now interested compared with those who cared
-anything about it fifteen years ago." Yet he still considered the general
-ignorance "nothing less than a disgrace," noting that "not probably twelve
-men in America" could tell the average person much more about mushrooms than
-they already knew.
-
-## The Field's Promise
-
-Despite his frustrations, Palmer saw enormous potential in the neglected
-field. "With this limitation there is no field in nature that offers such
-opportunity for new and important discoveries." The great need was for
-"study, experiment, and analysis of the properties and nature of
-non-microscopic fungi as esculents, poisons, or medicines" -- work that must
-be "systematic, and, above all, original, to be of any value."
-
-## No American Work on Esculent Fungi
-
-Palmer stressed that no American work on edible fungi had ever been issued.
-There had been several patient students who had classified and arranged this
-natural kingdom, but "their labors have been so exclusively technical and
-scientific as to be of little benefit to the mass of the people." The late
-Dr. M. A. Curtis of South Carolina had left in manuscript a work on edible
-fungi illustrated with forty colored species drawn by Rev. Charles J. Curtis,
-but "this book has never found a publisher."
-This absence of accessible American literature was, in Palmer's view, the
-fundamental barrier to wider knowledge and safer use of fungi as food.
-
-## Modern Mycological Discoveries
-
-Palmer's conviction that mycology was a field of enormous untapped potential
-has been vindicated spectacularly by [[fukuoka-road-critique-of-modern-science]]. The twentieth and
-twenty-first centuries have witnessed mycological discoveries that far exceed
-anything Palmer could have imagined, many with profound implications for
-agriculture, medicine, and ecology.
-The discovery of penicillin from Penicillium notatum by Alexander Fleming
-in 1928 launched the antibiotic era and transformed medicine. Fungi have
-since yielded numerous other pharmaceutical compounds, including
-cyclosporine (an immunosuppressant essential to organ transplantation),
-statins (cholesterol-lowering drugs derived from fermentation), and a
-growing pipeline of antiviral and anticancer agents. The [[mycology]]
-discipline now encompasses pharmaceutical mycology as a major research
-frontier, a direct fulfillment of Palmer's prediction that fungi held
-untapped medicinal potential.
-[[isotopic-tracers-mycorrhizal-research]] has revolutionized our understanding of plant ecology
-and agriculture. The recognition that the vast majority of land plants form
-[[fungi-in-the-environment-symbiotic-relationships]] with [[arbuscular-mycorrhizal-fungi]] has reshaped forestry,
-restoration ecology, and [[phosphate-accumulators-sustainable-agriculture]]. These [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-facilitate [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between plants, improve drought resistance, and
-contribute to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Palmer's emphasis on studying
-fungi in their ecological context anticipated this holistic approach by
-more than a century.
-DNA sequencing technologies have revealed that the fungal kingdom is far
-more diverse than classical morphology-based taxonomy suggested. Environmental
-DNA sampling has uncovered vast communities of uncultured fungi in soils,
-ocean waters, and even deep subsurface rock. Estimates of global fungal
-diversity have risen from roughly 70,000 described species to projections
-of 2.2 to 3.8 million species, with the overwhelming majority still
+## See Also
+- [[fukuoka-pit-of-knowledge-fragmented-science]]
+- [[mycology-21st-century-frontiers]]

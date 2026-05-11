@@ -1,7 +1,7 @@
 ---
 title: "bloomfield potato blight phytophthora infestans and Phytophthora infestans"
 created: 2026-04-28
-tags: [mycology, phytophthora, potato-blight, plant-pathogen, oomycete, irish-famine]
+tags: [[mycology]], phytophthora, potato-blight, plant-pathogen, oomycete, irish-famine]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md]
@@ -75,7 +75,7 @@ one that precipitated the Irish famine. However, by extracting DNA from
 [[biodiversity-fungal-genetic-diversity]] are particularly fruitful
 hunting grounds. A Mexican origin for Phytophthora seems logical because
 the greatest variety of strains coexist in the Toluca Valley north of
-Mexico City. Some researchers argue it sprang from South America, the
+Mexico City. Some researchers argue it sprang from [[guzman-psilocybin-mushrooms-south-america]], the
 ancestral home of the potato.
 
 ## Phytophthora Species Beyond Potatoes
@@ -88,27 +88,3 @@ which has killed millions of oak and tanoak trees. Other species attack
 soybeans, cocoa, peppers, and numerous forest trees. The genus
 represents one of the most destructive groups of plant pathogens known
 to science.
-
-## Genome Sequencing Efforts
-
-The genome of Phytophthora infestans accommodates 250 billion coding
-letters (nucleotides), making it sixfold larger than the genome of the
-[[bloomfield-rice-blast-appressorium-mechanics]] fungus Magnaporthe. Despite this massive genome, the actual
-number of functional genes is unknown. Sequencing efforts aim to
-identify distinctive Phytophthora genes whose products orchestrate the
-intimate relationship between the pathogen and its hosts, potentially
-revealing targets for disease [[jadam-weed-control-strategies-natural]].
-
-## Infection Cycle in Detail
-
-The infection process begins when a sporangium lands on a wet potato
-leaf. It can germinate directly or release zoospores that swim through
-the surface water film. Zoospores are biflagellate and highly motile,
-allowing them to locate suitable infection sites. Upon finding one, the
-zoospore encysts, shedding its flagella and forming a resistant cell
-wall. The cyst germinates to produce a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] terminating in an
-[[fungal-pah-degradation-and-soil-bioremediation]]
-strategies for plant [[plant-disease-management-solomon]].
-## See Also
-
-- [[amf-biocontrol-phytophthora-root-exudate-modification]]

@@ -77,3 +77,20 @@ Climate change is expected to alter fungal communities in orchard ecosystems thr
 - [[soil-mycobiome-diversity|fungal biodiversity in soil fungal communities]]
 - [[mycorrhizal-fungi-fruit-trees]]
 - [[fungal-endophytes]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[fungal-ecology]]
+- [[ectomycorrhizal-fungal-ecology]]
+- [[fungal-decomposition-ecology]]
+- [[bloomfield-fungal-antibiotics-and-soil-nitrogen-ecology]]
+- [[fungal-ecology-decomposition-cycles]]

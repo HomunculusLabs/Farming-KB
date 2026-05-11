@@ -28,12 +28,12 @@ and multiple cropping. On rangeland, through brush clearing, range reseeding,
 and similar technologies. Both approaches rely heavily on nonrenewable
 resource inputs.
 
-The discovery of the four missing keys enabled Savory to view the energy
+The discovery of the [[savory-four-missing-keys]] enabled Savory to view the energy
 pyramid as multidimensional, both above and below ground, as two tetrahedrons
 joined at their bases. The crucial bottom level now has three sides: time
 (volume and area of plants, duration of growth, and leaf area). The more any
 of these three sides can be extended, the more energy humans can harvest at
-higher trophic levels. Conversely, shortening any single side cuts energy flow
+higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]. Conversely, shortening any single side cuts energy flow
 throughout the entire system.
 
 ## Key Concepts
@@ -58,12 +58,12 @@ increased by lengthening the [[savory-growing-season-and-non-growing-season-mana
 time within the season more efficiently.
 
 Producing a better mineral cycle, water cycle, and higher successional
-complexity extends growing time in both ways. In grass management, growing
+complexity extends growing time in both ways. In [[jadam-wild-grass-management]], growing
 time is used more efficiently if grazed or cut plants are not taken down too
 far. The less taken from a plant during active growth, the faster it regrows,
 as more leaf area remains to convert sunlight immediately.
 
-In brittle environments, the growing season may be compressed into a short
+In [[savory-brittle-environments]], [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] may be compressed into a short
 period following erratic rainfall. Every day of active growth matters
 enormously because the dormant season may last many months. Management that
 extends the effective growing time, even by days or weeks, can translate into
@@ -82,58 +82,8 @@ that sustain plant growth.
 
 The underground dimension of the energy tetrahedron is particularly important.
 Below-ground energy flow, driven by [[mycorrhizal-root-exudates-pathogen-interactions]] and decomposing organic
-matter, fuels the microbial communities that make minerals available to
+matter, fuels the [[cannabis-rhizosphere-microbial-communities]] that make minerals available to
 plants and create soil structure that holds water. When above-ground
 management damages these underground communities, the effects ripple through
 the entire system. A healthy volume of living roots feeding soil organisms is
 as important as the volume of above-ground leaf and stem material.
-
-## Area of Leaf
-
-The area of [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] determines how much solar energy plants can capture.
-Management practices that increase leaf area per plant, such as preventing the
-accumulation of old growth that blocks sunlight from reaching growing points,
-directly increase energy capture. In brittle environments, the removal of
-old oxidizing material through grazing or [[savory-animal-impact-and-herd-effect]] can dramatically
-increase leaf area and thus energy flow.
-
-Each additional square inch of green leaf area represents more solar energy
-converted to plant tissue, more root exudate feeding soil life, and more
-biomass available to support herbivores. The relationship is multiplicative:
-more leaf area means more root growth, which means better mineral cycling,
-which means more plant growth, which means more leaf area. This positive
-feedback loop is the engine of ecosystem productivity.
-
-## Energy Debt of Modern Technology
-
-Most technological approaches to broadening the energy pyramid base quickly
-reach a point of energy debt, where the energy required to maintain the
-practice exceeds the additional energy captured. Irrigation powered by fossil
-fuels, synthetic fertilizers manufactured from natural gas, and heavy
-machinery for cultivation all represent energy investments that must be
-repaid from the narrow surplus of captured solar energy. In many cases, the
-debt is never fully repaid, leading to declining soil health and productivity
-over time.
-
-[[savory-holistic-management-overview]] seeks to broaden the base of the energy tetrahedron
-through biological tools that operate on energy captured from sunlight rather
-than on purchased inputs. By extending time, increasing volume, and
-maximizing leaf area through properly planned grazing and animal impact, the
-energy flow through the ecosystem increases without the energy debt
-associated with technological solutions.
-
-## Practical Applications
-
-Savory illustrates the practical significance with a drought consultation. A
-rancher, bored by theoretical discussions of energy flow, wanted to discuss
-hay purchases and stock sales. Savory asked him to calculate the hay needed
-to replace one extra ounce of grass per square yard. Multiplied by the area
-of his land, that ounce represented fifteen million pounds of grass. They
-grew that and more by applying tools that increase energy flow, saving
-thousands of dollars in hay purchases and herd reduction.
-
-## Related Concepts
-
-- [[savory-ecosystem-foundation-blocks]]
-- [[savory-mineral-cycle-management]]
-- [[savory-grazing-mechanics-and-root-sacrifice]]

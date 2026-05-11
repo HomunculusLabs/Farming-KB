@@ -1,5 +1,5 @@
 ---
-title: "Steve Solomon's Evidence-Based [[green-manures-organic-gardening]]"
+title: Steve Solomon Evidence Based Organic Gardening
 subtitle: "The Complete Organic Fertilizer, wide-spacing methods, and
   resilient food production from the author of Gardening When It Counts"
 tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,

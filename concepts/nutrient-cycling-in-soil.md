@@ -16,7 +16,7 @@ Nutrient cycling is the continuous process by which nutrients are converted
 between organic and inorganic forms, moved through the soil, taken up by
 plants, and returned to the soil through decomposition. Understanding these
 cycles is essential for the organic gardener, because the
-[[soil-food-web]]. Warmer temperatures (to a point) will speed up
+[[soil-foodweb]]. Warmer temperatures (to a point) will speed up
 the microbial process if there is adequate
 moisture.
 The microbes involved in mineralization include bacteria, fungi, protozoa, and
@@ -88,36 +88,3 @@ directly.
 **Nitrification:** Nitrifying bacteria convert ammonium to nitrite (NO2-) and
 then to nitrate (NO3-). This process is temperature dependent -- the microbes
 involved are active between 41F (5C) and 95F (35C), with peak production
-between 75F and 95F. Nitrifying bacteria don't do well under acidic
-conditions, so in acidic soils, ammonium predominates. Plants in the ground
-for less than a year generally prefer nitrogen in nitrate form, while
-perennials, trees, and shrubs prefer ammonium (which is produced by fungi that
-dominate in acidic
-soils).
-**Denitrification:** When soil or water becomes anaerobic (lacking oxygen),
-certain bacteria use nitrate as their energy source, converting it back to
-atmospheric nitrogen gas (N2). This is a major loss of nitrogen for the
-gardener, but it completes the nitrogen cycle. Avoiding anaerobic conditions
-through proper soil aeration and drainage helps minimize this
-loss.
-**Leaching:** Nitrate is highly mobile in soil because it is an anion and is
-not held by [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites. Excess nitrate can leach below the root
-zone with rain or irrigation, contributing to groundwater pollution. This is
-one reason why slow-release organic nitrogen sources are preferable to soluble
-synthetic sources -- they release nitrogen gradually, reducing leaching
-losses.
-## Phosphorus Cycling
-
-Phosphorus ultimately comes from the weathering of apatite rock. It enters
-soils in organic and inorganic forms. Inorganic phosphorus is adsorbed to the
-surfaces of clay particles and [[hamilton-composting-and-organic-matter-management]] through ionic attraction and
-does not move much in soil -- it is so tied up that 1 acre of soil might have
-only 1 pound of phosphorus dissolved in water and available to
-plants.
-Approximately 95 percent of all plants associate with [[root-exudates]]. This
-biological pathway is the primary means by which plants access phosphorus in
-organic systems. Many believe that we have squeezed the phosphorus cycle to
-the point that mined supplies will be insufficient in only 30 to 40 years,
-with 95 percent of remaining mineable phosphorus found in Morocco, China,
-South Africa, Jordan, and the United
-States.

@@ -88,29 +88,3 @@ Several other Mimosa species contain psychoactive alkaloids. Mimosa
 scabrella bark has been documented as a DMT-containing plant suitable
 for ayahuasca analog preparation. The genus Mimosa thus contributes
 multiple species to the global pharmacopoeia of DMT-containing plants.
-
-The related Acacia genus (also in the Leguminosae) provides additional
-DMT sources, including Acacia maidenii (bark, 0.36% DMT), Acacia
-phlebophylla (leaves, 0.3% DMT), and Acacia simplicifolia (leaves and
-bark, 0.81% DMT).
-
-## Cultural Significance
-
-The Jurema tradition of northeastern Brazil represents one of the
-earliest documented uses of a DMT-containing plant in the Americas. The
-ceremonial preparation of Vinho de Jurema predates the modern discovery
-of DMT's psychoactive properties and demonstrates sophisticated
-indigenous knowledge of plant pharmacology.
-
-The plant's enduring significance is evidenced by its continued use in
-[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches such as [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]] and Uniao do
-Vegetal, and by its widespread adoption in global ethnobotanical and
-psychonaut communities as a reliable source of DMT for ayahuasca analog
-preparations.
-
-## See Also
-
-- [[schultes-ayahuasca-magic-drink-amazon]] — the traditional Amazonian
-  preparation and its cultural context
-- [[schultes-psychotria-chacruna-dmt-admixture]] — the primary Amazonian
-  DMT source for traditional ayahuasca

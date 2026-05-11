@@ -34,7 +34,7 @@ The species is dioecious, with separate male and female plants, which influences
 - **Genus:** *Spinacia*
 - **Species:** *S. oleracea* L.
 
-Two wild relatives are recognized: *Spinacia turkestanica* Iljin and *Spinacia tetrandra* Steven, both native to Central Asia and important sources of genetic diversity.
+Two wild relatives are recognized: *Spinacia turkestanica* Iljin and *Spinacia tetrandra* Steven, both native to Central Asia and important sources of [[biodiversity-fungal-genetic-diversity]].
 
 ### Morphology
 
@@ -58,7 +58,7 @@ The species was unknown to the ancient Greeks and Romans and reached Europe via 
 
 Commercial cultivation now occurs on every inhabited continent, with major production in China, the [[dmt-containing-plants-united-states-halpern]], Japan, and Turkey.
 
-Spinach grows best in cool temperate climates with temperatures between 15–20°C and is notably sensitive to heat-induced bolting.
+Spinach grows best in cool [[fukuoka-natural-farming-temperate-climates]] with temperatures between 15–20°C and is notably sensitive to heat-induced bolting.
 
 ## Cultivation
 
@@ -72,7 +72,7 @@ Baby-leaf spinach, harvested at 5–8 cm height, has become the dominant commerc
 
 Nitrogen fertilization requirements are relatively high at 100–150 kg/ha, as the rapid leaf growth demands substantial nitrogen uptake.
 
-Overwintered spinach varieties, planted in autumn and harvested in early spring, produce high-quality leaves in regions with mild winters.
+[[coleman-overwintered-spinach-cold-house-production]] varieties, planted in autumn and harvested in [[coleman-overwintered-onions-and-early-spring-crops]], produce high-quality leaves in regions with mild winters.
 
 ## Nutritional Value
 
@@ -84,37 +84,6 @@ Oxalic acid content is notably high (0.5–1.2% fresh weight), which can reduce 
 
 Cooking reduces oxalate content by approximately 15–25% through leaching into boiling water.
 
-Spinach contains lutein and zeaxanthin, carotenoids associated with reduced risk of age-related macular degeneration.
+Spinach contains lutein and zeaxanthin, carotenoids associated with reduced risk of age-related [[blesching-cannabis-age-related-macular-degeneration]].
 
 Nitrate content is relatively high among leafy vegetables, comparable to beetroot and arugula.
-
-## Pests and Diseases
-
-Downy mildew, caused by *Peronospora farinosa* f. sp. *spinaciae*, is the most economically important disease of spinach worldwide.
-
-The pathogen has evolved rapidly, with at least 19 recognized races as of 2020, complicating [[cannabis-disease-pest-resistance-breeding-clarke]].
-
-Fusarium wilt, caused by *Fusarium oxysporum* f. sp. *spinaciae*, is a soil-borne disease that can devastate fields with no available chemical control.
-
-Major insect pests include aphids (*Myzus persicae*), leafminers (*Liriomyza* spp.), and cabbage loopers (*Trichoplusia ni*).
-
-## Breeding and Genetics
-
-Spinach is an obligate outcrossing species due to its dioecious mating system, which maintains high levels of heterozygosity.
-
-The nuclear genome was sequenced in 2017, revealing an estimated 900 Mb genome distributed across 12 chromosomes.
-
-Modern breeding has focused on downy mildew resistance, slow-bolting characteristics, and improved shelf life for fresh-cut applications.
-
-Male-sterile lines are maintained for commercial hybrid seed production, with sterility controlled by both nuclear and cytoplasmic genes.
-
-Genetic resistance to multiple downy mildew races is typically pyramided by combining several R-genes through marker-assisted selection.
-
-## See Also
-
-- [[celosia-argentea]]
-
-- [[chenopodium-quinoa]]
-- [[portulaca-oleracea]]
-- [[daucus-carota]]
-- [[plantago-major]]

@@ -88,20 +88,3 @@ long-term preservation. See [[mushroom-spawn-generation-limits|spawn generation 
 Outdoor wood-loving species like shiitake, reishi, and maitake persist through
 the living host. Fully colonized logs can be stored for months or years in
 shaded, moist conditions. Similarly, outdoor beds of wood chip-loving species
-can persist for years, fruiting annually. The mycelial mat acts as a living
-culture bank requiring minimal maintenance.
-
-## Practical Storage Strategy
-
-A comprehensive storage strategy combines multiple methods: active working
-cultures on agar slants transferred every 4-6 months, backup slants under
-refrigeration, spore prints from exceptional specimens archived with desiccant,
-dried samples vacuum-sealed and frozen, and cryopreservation for the most
-valuable genetic lines. This layered approach ensures genetics are preserved even
-if one storage method fails.
-
-## See Also
-
-- [[mushroom-spore-printing-and-storage]]
-- [[mushroom-spawn-making-detailed]]
-- [[agar-culture-and-isolation]]

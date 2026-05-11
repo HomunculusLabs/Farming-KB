@@ -40,7 +40,7 @@ Petals are bright yellow in wild forms, though cultivated varieties show extraor
 
 The fruit is a cylindrical capsule 6 to 10 mm long containing numerous small seeds. The species is diploid with 2n = 62 chromosomes.
 
-Wild populations show considerable morphological variation across their range. Plants from calcareous sites have greener, less farinose foliage than those from siliceous substrates.
+Wild populations show considerable morphological [[psilocybin-psilocin-variation-across-flushes]] their range. Plants from calcareous sites have greener, less farinose foliage than those from siliceous substrates.
 
 The root system consists of a short, thickened rhizome with fibrous lateral roots. This compact rootstock anchors the plant securely in rock crevices and enables survival through repeated freeze-thaw cycles in exposed alpine positions.
 
@@ -58,7 +58,7 @@ Elevation spans from approximately 300 meters in the foothills to 2,500 meters i
 
 The species tolerates full sun at high altitudes but requires protection from midday heat at lower elevations. Companion plants in the wild include Saxifraga oppositifolia, Sedum album, and various Campanula species.
 
-These associations are reflected in traditional rock garden plantings, where auriculas are combined with other compact alpine species in crevice and scree garden displays.
+These associations are reflected in traditional [[hamilton-rock-garden-design]] plantings, where auriculas are combined with other compact alpine species in crevice and scree garden displays.
 
 Rainfall in native habitats averages 800 to 1,500 millimeters annually, distributed fairly evenly across seasons. The combination of reliable moisture and excellent drainage is critical for successful garden cultivation.
 
@@ -74,7 +74,7 @@ Garden cultivation requires well-drained, slightly alkaline soil in partial shad
 
 Auriculas are traditionally grown in terracotta auricula pots with a side drainage hole. This design allows free drainage while the long neck prevents soil contact with the farinose foliage.
 
-Propagation is most commonly by offsets, small rosettes detached and rooted in autumn. Seed propagation produces variable offspring unsuitable for maintaining named show cultivars.
+Propagation is most commonly by offsets, small rosettes detached and rooted in autumn. [[green-cannabis-grow-bible-cloning-and-seed-propagation]] produces variable offspring unsuitable for maintaining named show cultivars.
 
 Modern commercial production is centered in the Netherlands, Belgium, and Japan. Japanese growers have developed distinctive strains with exceptionally large flowers and intense coloration.
 
@@ -87,41 +87,3 @@ The farina on leaves was collected and applied externally as a drying agent for 
 In 17th-century England, auriculas became a status symbol among the middle class. Florists' societies organized competitive shows, and dedicated auricula theaters were built to showcase prized collections.
 
 The plant appears in Dutch Golden Age still-life paintings and was referenced by writers including Jane Austen in her correspondence. The "auricula mania" of the early 19th century established an enthusiast community that continues today.
-
-Several notable historic cultivars survive from the 18th and 19th centuries, maintained by specialist societies in Britain and Europe. The National Auricula and Primula Society, founded in 1873, remains the primary organization for auricula enthusiasts.
-
-## Ecology and Conservation
-
-In the wild, **Primula auricula** is pollinated primarily by long-tongued bumblebees. The tubular corolla is adapted for insect pollination, with nectar produced at the base of the tube.
-
-The species is distylous, exhibiting the classic Primula pin and thrum morph system. Pin flowers have a long style and short stamens; thrum flowers have the reverse arrangement, promoting cross-pollination between morphs.
-
-This heterostylous breeding system has been extensively studied as a model for the evolution of plant reproductive strategies. Charles Darwin discussed distyly in Primula in his 1877 work *The Different Forms of Flowers on Plants of the Same Species*.
-
-Auricula serves as a food source for several alpine invertebrates, including the larvae of micromoth species. The farina may provide some protection against herbivory and UV radiation at high altitudes.
-
-Associated alpine flora includes species of Gentiana, Saxifraga, Soldanella, and Dryas octopetala. The species is a characteristic component of limestone grassland communities in the subalpine and lower alpine zones.
-
-The species is listed as Least Concern on the IUCN Red List. Local populations have declined where limestone quarrying and recreational development have destroyed cliff habitats.
-
-Climate change poses a long-term threat by reducing suitable alpine habitat. Rising temperatures shift the lower elevational limit upward, fragmenting populations between mountain massifs.
-
-Molecular studies have revealed distinct phylogeographic lineages corresponding to major mountain ranges, suggesting limited gene flow between isolated populations.
-
-## See Also
-
-- [[primula-beesiana]]
-- [[primula-capitata]]
-- [[primula-cortusoides]]
-- [[primula-obconica]]
-
-- [[primula-veris]]
-- [[primula-vulgaris]]
-- [[cyclamen-hederifolium]]
-- [[cyclamen-purpurascens]]
-- [[lysimachia-vulgaris]]
-- [[anagallis-arvensis]]
-- [[dodecatheon-meadia]]
-- [[gentiana-lutea]]
-- [[sedum-acre]]
-- [[saponaria-officinalis]]

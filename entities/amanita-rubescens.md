@@ -88,35 +88,3 @@ Reduced growth of Amanita rubescens was observed alongside Suillus
 intermedius in studies of heavy metal effects on ectomycorrhizal fungi.
 Sensitive species like A. rubescens may be replaced by more tolerant
 taxa in contaminated soils, potentially altering mycorrhizal benefits
-available to host trees.
-
-## Ecological Significance
-
-Amanita rubescens contributes to nutrient uptake for host trees through
-phosphatase production and mycelial exploration beyond the root zone.
-Its sensitivity to leaf litter phenolics suggests distribution within
-forests may be influenced by litter chemistry. As a food resource for
-soil nematodes, it channels carbon from the mycorrhizal pool into the
-soil microfaunal food web. Its toxicity to humans but not to many soil
-invertebrates highlights the fundamental difference between human
-mycotoxicology and invertebrate fungal ecology. Different soil fauna
-thus exert different selective pressures on mycorrhizal fungal
-communities.
-
-## Key Studies
-
-| Year | Researchers | Finding |
-|------|------------|---------|
-| 1968 | Sutherland and Fortin | A. rubescens is best nematode food source among 7 ECM fungi |
-| 1988 | Shaw | A. rubescens has low palatability to collembola |
-| 1996 | Ruess and Dighton | A. rubescens supports low nematode populations in pure culture |
-| 1998 | Koide et al. | Pine phenolics inhibit A. rubescens but stimulate S. intermedius |
-
-## See Also
-
-- [[allegro-colour-and-consistency-of-the-amanita-muscaria]]
-- [[amanita-muscaria-cultural-history]] - congeneric species, similarly poor nematode food source
-- [[laccaria-laccata]] - ectomycorrhizal species, best nematode food source
-- suillus intermedius - ectomycorrhizal species stimulated by pine phenolics
-- [[suillus-luteus]] - ectomycorrhizal species with heavy [[fungal-metal-tolerance-mechanisms]]
-- marasmius androsaceus - saprotrophic fungus highly preferred by collembola

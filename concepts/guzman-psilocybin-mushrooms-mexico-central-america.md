@@ -30,7 +30,7 @@ its deep [[shroom-cultural-history-hippie-revolution-and-counterculture]] of cer
 
 ## Mexico
 
-Mexico is the epicenter of neurotropic fungal diversity and the birthplace of
+Mexico is the epicenter of [[mexico-center-neurotropic-fungal-diversity]] and the birthplace of
 modern ethnomyology. The sacred mushroom tradition was first documented by
 Schultes (1939) and later popularized by Wasson & Wasson (1957). Guzman (1997)
 recorded more than 200 common names for hallucinogenic fungi in Mexican indigenous
@@ -53,11 +53,11 @@ singerii, P. subcubensis, P. subtropicalis, P. subyungensis, P. subzapotecorum,
 P. uxpanapensis, P. veraecrucis, P. villarrealii, P. wassoniorum, P. weldenii, P.
 xalapensis, P. yungensis, P. zapotecorum.
 
-**Other genera:** [[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina; Claviceps paspali, C.
-purpurea; Conocybe siligineoides; Copelandia cyanescens, C. mexicana, C.
-tropicalis; Cordyceps capitata, C. ophioglossoides; Dictyophora indusiata;
+**Other genera:** [[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina; [[claviceps-paspali]], C.
+purpurea; [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]; [[copelandia-cyanescens]], C. mexicana, C.
+tropicalis; Cordyceps capitata, C. ophioglossoides; [[dictyophora-indusiata]];
 Gymnopilus aeruginosus (?), G. lateritius, G. liquiritiae, G. sapineus, G.
-spectabilis, G. subpurpuratus; Hypholoma naematoliformis, H. rhombispora;
+spectabilis, G. subpurpuratus; [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]], H. rhombispora;
 Inocybe corydalina; Lycoperdon candidum, L. oblongiosporum; Panaeolina
 foenisecii; Panaeolus fimicola, P. papilionaceus, P. retirugis, P.
 sphinctrinus, P. subbalteatus, P. venezolanus; Pluteus atricapillus;
@@ -88,53 +88,3 @@ fungi, largely overlapping with the Mexican and South American floras.
 
 ### Belize (British Honduras)
 Copelandia cyanescens, Psilocybe cordispora, P. cubensis.
-
-### Costa Rica
-Amanita muscaria, Claviceps paspali, Copelandia cyanescens, Psilocybe cf.
-aztecorum, P. cubensis, P. cf. mexicana.
-
-### El Salvador
-Claviceps paspali, Psilocybe subcubensis.
-
-### Guatemala
-Amanita muscaria, Psilocybe caerulescens, P. cubensis, P. mexicana.
-
-### Honduras
-Psilocybe subcubensis.
-
-### Panama
-Psilocybe caerulescens var. caerulescens, P. dumontii.
-
-## Caribbean (including Bahamas and Bermuda)
-
-The Caribbean islands share many species with the Central American and South
-American mainland.
-
-### Notable records
-- **Cuba:** Psilocybe cubensis (one of the earliest records, Earle 1906), P.
-  plutonia.
-- **Puerto Rico:** The richest Caribbean mycobiota with P. cubensis, P.
-  guilartensis (endemic), P. portoricensis (endemic), P. subcubensis, and
-  Copelandia cyanescens.
-- **Jamaica:** Copelandia cyanescens, Psilocybe fuliginosa, P. mammilata.
-- **Martinique:** P. caerulescens, P. cubensis, P. plutonia, P. yungensis.
-- **Trinidad:** Copelandia cyanescens, P. cubensis.
-- **Guadeloupe:** P. cubensis, P. plutonia, Panaeolus sphinctrinus, P.
-  subbalteatus.
-
-## Distribution patterns
-
-The majority of Mexican and Central American neurotropic fungi occur in
-subtropical humid forests, particularly in the states of Oaxaca, Veracruz,
-Chiapas, Puebla, and Mexico state. Many species are associated with disturbed
-habitats (pastures, roadsides) where they grow on dung or in rich soils. The
-diversity of Psilocybe in Mexico is unmatched globally, reflecting both the
-country's complex topography and its ancient indigenous [[sacred-mushroom-traditions-in-mexico]].
-## See Also
-
-- [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]]
-
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[gartz-global-psilocybin-mushroom-distribution]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- teonanacatl-and-mesoamerican-mushroom-cults

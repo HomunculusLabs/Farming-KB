@@ -12,9 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gupta, M.P. (1995). "270 Plants from South America with Hypoglycemic Activity." Revista de Biología Tropical, 43(1-3), 105-118.
-  - Ross, S.A. et al. (2008). "Chemical constituents of Petiveria alliacea." Journal of Natural Products, 71(7), 1272-1275.
-  - Cáceres, A. et al. (1991). "Plants used in Guatemala for the treatment of respiratory diseases." Journal of Ethnopharmacology, 31(2), 193-208.
+  - Gupta, M.P. (1995). "270 Plants from guzman-psilocybin-mushrooms-south-america with Hypoglycemic Activity." Revista de Biología Tropical, 43(1-3), 105-118.
+  - Ross, S.A. et al. (2008). "[[guzman-magic-mushrooms-chemical-constituents]] of Petiveria alliacea." Journal of Natural Products, 71(7), 1272-1275.
+  - Cáceres, A. et al. (1991). "Plants used in Guatemala for the treatment of [[fungal-respiratory-diseases]]." Journal of Ethnopharmacology, 31(2), 193-208.
   - Ruffa, M.J. et al. (2004). "Cytotoxic effect of Argentine medicinal plant extracts on human hepatocellular carcinoma cell line." Journal of Ethnopharmacology, 94(2-3), 385-389.
   - Schmeda-Hirschmann, G. & Yesilada, E. (2005). "Traditional medicine and gastroprotective crude drugs." Journal of Ethnopharmacology, 100(1-2), 61-66.
 created: 2026-04-28
@@ -50,7 +50,7 @@ The root system is fibrous and shallow, with a distinctive pungent aroma. Roots 
 
 ## Distribution and Habitat
 
-*Petiveria alliacea* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] in the Americas, occurring naturally from Florida and Texas in the north through Mexico, Central America, the Caribbean islands, and throughout South America to northern Argentina.
+*Petiveria alliacea* has a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] in the Americas, occurring naturally from Florida and Texas in the north through Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], the Caribbean islands, and throughout South America to northern Argentina.
 
 It thrives in a wide range of habitats including disturbed areas, forest edges, secondary growth, riverbanks, and cultivated fields. It is considered a pioneer species in tropical successional sequences.
 
@@ -74,9 +74,9 @@ Anti-inflammatory activity has been confirmed through inhibition of cyclooxygena
 
 ## Traditional and Modern Uses
 
-In Caribbean folk medicine, anamú is used as an abortifacient, analgesic, and antirheumatic. In Amazonian traditional practice, it is employed for snakebite, colds, and as a general tonic. Throughout Central America, it is used for respiratory conditions including asthma and bronchitis.
+In Caribbean folk medicine, anamú is used as an abortifacient, analgesic, and antirheumatic. In Amazonian traditional practice, it is employed for snakebite, colds, and as a general tonic. Throughout Central America, it is used for [[cannabis-respiratory-conditions]] including asthma and bronchitis.
 
-Modern herbal practitioners continue to use the plant for immune support, arthritis pain, and as an adjunctive therapy in cancer treatment protocols. The root decoction is the most common preparation method.
+Modern herbal practitioners continue to use the plant for immune support, arthritis pain, and as an adjunctive therapy in cancer [[cho-plant-growth-stage-treatment-protocols]]. The root decoction is the most common preparation method.
 
 ### Preparations and Dosage
 
@@ -87,21 +87,3 @@ Typical dosing in traditional practice ranges from 1–3 g of dried root materia
 ## Safety and Precautions
 
 *Petiveria alliacea* contains compounds with documented uterine-stimulating activity and is **contraindicated during pregnancy**, where it has been traditionally used as an abortifacient. Its use during lactation is also not recommended due to limited safety data.
-
-The benzyl polysulfides are moderately cytotoxic and may potentiate the effects of anticoagulant and antidiabetic medications. Patients on warfarin or insulin therapy should exercise caution.
-
-Rare cases of hepatotoxicity have been reported with excessive or prolonged use. As with many potent [[permaculture-plants-medicinal-herbs-healing]], moderation and professional guidance are recommended for therapeutic applications.
-
-## Ecological Role
-
-The pungent sulfur compounds in *P. alliacea* serve as natural herbivore deterrents, reducing browsing damage from insects and mammals. The plant also exhibits mild allelopathic properties, suppressing germination of competing species in its immediate vicinity.
-
-It serves as a low-growing [[fukuoka-citrus-orchard-ground-cover-cultivation]] in tropical food forests and agroforestry systems, contributing to biodiversity and soil stability in understory layers.
-
-## See Also
-
-- [[leonurus-cardiaca-entity]]
-- [[scutellaria-lateriflora]]
-- [[passiflora-incarnata]]
-- [[mimosa-hostilis]]
-- [[verbascum-thapsus]]

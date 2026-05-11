@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-strain-selection-guide and Receptor Targeting
+title: Blesching Cannabis Strain Selection Receptor Targeting
 created: 2026-04-28
 tags: [cannabis, cb1-receptors, cb2-receptors, strain-selection,
   endocannabinoid-system, thc, cbd, terpenes, entourage-effect,
@@ -14,7 +14,7 @@ type: concept
 
 ## Overview
 
-Selecting the right cannabis strain requires understanding how cannabinoids
+Selecting [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] strain requires understanding how cannabinoids
 interact with CB1 and CB2 receptors. These receptors function like locks,
 with cannabinoids serving as keys. When binding occurs, signals produce
 physiological, mental, and emotional changes. Over 111 cannabis-based
@@ -47,7 +47,7 @@ CB2 receptors are concentrated in peripheral tissues and immune system:
 
 CB2 activation does not produce psychoactive effects. Instead, it
 initiates potent anti-inflammatory actions, modulates immune responses,
-and provides peripheral pain relief. CB2 receptors are increasingly
+and provides peripheral [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]. CB2 receptors are increasingly
 recognized as therapeutic targets for inflammatory and autoimmune
 conditions.
 
@@ -66,7 +66,7 @@ conditions.
 | (E)-beta-caryophyllene | None | High | No |
 
 CBD exerts much of its therapeutic influence by suppressing FAAH, the
-enzyme that breaks down anandamide, keeping "the Bliss Molecule" active
+enzyme that breaks down anandamide, keeping "the [[anandamide-bliss-molecule]]" active
 at higher concentrations and longer duration.
 
 ## Strain Selection Framework
@@ -88,52 +88,3 @@ Indicas have lower THC:CBD ratios, favoring CB2 activation:
 - Pain relief, muscle relaxation
 - Anti-inflammatory and [[cancer-immune-modulation-mechanisms]]
 - Nighttime use suitability
-- Sought for [[cannabis-chronic-pain-management]], insomnia, anxiety, spasms
-
-### Hybrid Strains
-
-Hybrids combine sativa and indica characteristics. The genetic ratio
-influences whether effects lean cerebral or physical.
-
-## The Entourage Effect
-
-Cannabis contains 70+ cannabinoids and hundreds of non-cannabinoid
-constituents including terpenoids and flavonoids. These may work in
-concert to produce therapeutic effects exceeding the sum of individual
-cannabinoid actions. Whole-spectrum cannabis activates both CB1 and CB2
-through combined action of multiple cannabinoids.
-
-Pharmaceutical isolates like Dronabinol contain only THC and lack
-whole-plant balancing effects. Sativex is a plant-derived exception.
-
-## (E)-beta-Caryophyllene: The Dietary Cannabinoid
-
-An international research team (Switzerland, Germany, Italy, U.S.)
-reported that spice plants contain a non-psychoactive CB2 agonist called
-(E)-beta-caryophyllene or (E)-BCP, considered a food-based cannabinoid
-with FDA GRAS approval. Key sources:
-
-- **Black Ashanti pepper** — 58% (E)-BCP content
-- **White Ashanti pepper** — 52%
-- **Indian bay-leaf** — 25%
-- **[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]]** — 7-19%
-- **Cinnamon, rosemary, clove, oregano, basil** — also contain (E)-BCP
-
-[[comparison-cannabis-sativa-vs-cannabis-indica]] ranges from 12-35% (E)-BCP content by comparison.
-
-## Practical Strain Selection Guide
-
-1. Identify the target condition — neurological/CNS (CB1) or
-   immune/inflammatory (CB2)?
-2. Match receptor profile to strain type — sativa for CB1, indica for CB2
-3. Consider the entourage effect — whole-plant products may outperform
-   isolates
-## See Also
-
-- [[slapz]]
-- [[lambsbread]]
-- [[royal-gorilla]]
-- [[thin-mint]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]]
-- [[cannabidiol-cbd]]

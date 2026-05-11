@@ -88,28 +88,3 @@ manage this through increased fresh air exchange or cooling to prevent thermal
 damage to the mycelium.
 
 ### Expected Yield Improvement
-
-Yield increases of one-half to two pounds per square foot are possible with SAC.
-The wide range reflects variations in species, supplement type, substrate
-quality, and environmental conditions throughout the growing cycle.
-
-## Cropping Efficiency Context
-
-Cropping efficiency is calculated by dividing total yield per square foot by the
-dry weight of substrate per square foot. Commercial growers aim for at least
-five pounds of dry substrate per square foot. A yield of four pounds per square
-foot divided by five pounds dry substrate weight equals 80% cropping efficiency.
-Supplements help push yields toward these maximum levels.
-
-## When Supplementation Is Most Effective
-
-Supplements are most effective during the first three flushes when nutrient
-demand is highest. They work best with well-colonized substrates where the
-mycelium has fully established dominance, and in clean operations where
-contamination risk is minimized.
-
-## See Also
-
-- [[stamets-compost-supplements-nitrogen-management]]
-- [[mushroom-growing-room-environmental-control]]
-- [[mushroom-yield-optimization]]

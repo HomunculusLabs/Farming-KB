@@ -77,3 +77,5 @@ Passion fruit is calorie-denser (â‰ˆ97 kcal/100 g) and rich in dietary fiber (â‰
 ## See Also
 
 - [[comparison-guava-vs-passion-fruit-cultivation]]
+
+> Both options offer unique advantages depending on climate, available materials, and intended use.

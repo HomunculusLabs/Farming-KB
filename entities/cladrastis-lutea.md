@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Vol. 3, Part 2." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Part 2." University of north-carolina-mycodiversity Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
   - Rickett, H.W. (1967). "Wild Flowers of the United States, Vol. 2." McGraw-Hill.
@@ -27,7 +27,7 @@ American yellowwood typically reaches 10–18 meters in height with a broad, rou
 
 In its native forest habitat, the tree tends to be taller and more slender, reaching 25 meters in exceptional cases. The trunk is usually single and straight, with a narrow crown when competing for light.
 
-The species is slow-growing, typically adding 30–60 cm of height per year in cultivation. Despite its slow growth, it can live for over 100 years. The wood is relatively brittle, making the tree susceptible to branch breakage in severe weather.
+The species is slow-growing, typically adding 30–60 cm of height per year in cultivation. Despite its [[holmgren-long-rotation-forestry-slow-growth]], it can live for over 100 years. The wood is relatively brittle, making the tree susceptible to branch breakage in severe weather.
 
 The genus name *Cladrastis* derives from Greek *klados* (branch) and *thraustos* (fragile), referring to the brittle nature of the branches. The specific epithet *lutea* means "yellow," referring to the heartwood color.
 
@@ -35,9 +35,9 @@ The genus name *Cladrastis* derives from Greek *klados* (branch) and *thraustos*
 
 **Classification:** Plantae → Tracheophyta → Magnoliopsida → Fabales → Fabaceae → *Cladrastis lutea* (Michx.) K.Koch
 
-The species was originally described as *Virgilia lutea* by André Michaux in 1803 and later transferred to *Cladrastis* by Koch in 1869. Some authorities treat it as synonymous with *Cladrastis kentukea*, a name more commonly used in recent botanical literature.
+The species was originally described as *Virgilia lutea* by André Michaux in 1803 and later transferred to *Cladrastis* by Koch in 1869. Some authorities treat it as synonymous with *[[cladrastis-kentukea]]*, a name more commonly used in recent botanical literature.
 
-The genus contains approximately 8 species, distributed across eastern North America and eastern Asia. This disjunct distribution pattern is typical of many temperate forest genera with Tertiary origins.
+The genus contains approximately 8 species, distributed across [[polypore-fungi-eastern-north-america]] and eastern Asia. This disjunct distribution pattern is typical of many temperate forest genera with Tertiary origins.
 
 The bark is smooth and grey, similar to that of beech, developing fissures only on very old trunks. Young branches are olive-green to brown, becoming grey with age. Branches are notably brittle and may break under heavy snow or ice loads.
 
@@ -63,7 +63,7 @@ The species is hardy to USDA Zone 4, though it performs best in Zones 5–8. It 
 
 ## Cultivation and Uses
 
-American yellowwood is widely regarded as one of the finest native ornamental trees for North American landscapes. Its pendulous white flowers, smooth bark, and reliable yellow autumn color make it a versatile specimen tree.
+American yellowwood is widely regarded as one of the finest native [[hamilton-ornamental-trees]] for [[growing-gourmet-north-american-reishi-species]] landscapes. Its pendulous white flowers, smooth bark, and reliable yellow autumn color make it a versatile specimen tree.
 
 The species flowers profusely in alternate years, with heavy blooming followed by a lighter year. However, some specimens flower irregularly, and young trees may take 8–12 years to produce their first significant display. The fragrance is sweet and reminiscent of orange blossoms.
 
@@ -83,41 +83,8 @@ The flowers of American yellowwood are attractive to a wide range of pollinators
 
 Seeds are consumed by birds and small mammals, though dispersal is limited compared to wind-dispersed or fleshy-fruited species. The pods open explosively in some cases, scattering seeds several meters from the parent tree.
 
-As a member of Fabaceae, American yellowwood is capable of nitrogen fixation through symbiotic associations with rhizobial bacteria in root nodules. This ability contributes to soil fertility and may give it a competitive advantage on nutrient-poor limestone substrates.
+As a member of Fabaceae, American yellowwood is capable of [[biological-nitrogen-fixation-agriculture]] through symbiotic associations with rhizobial bacteria in root nodules. This ability contributes to soil fertility and may give it a competitive advantage on nutrient-poor limestone substrates.
 
 The nitrogen-fixing capacity of yellowwood is less studied than that of agricultural legumes, but preliminary research suggests it contributes measurably to forest nitrogen budgets. This function is particularly important on the thin, calcareous soils where the species naturally occurs.
 
 The tree provides moderate wildlife value. The foliage is occasionally browsed by deer, and the branching structure provides nesting sites for songbirds. However, it is not considered a keystone wildlife species.
-
-Leaf litter decomposes relatively quickly due to the high nitrogen content typical of leguminous foliage. This contributes to the nutrient-rich soil conditions found beneath established trees.
-
-## Cultural Significance and Conservation
-
-American yellowwood has no known significant ethnobotanical uses among Native American tribes, possibly due to its scattered distribution and relative rarity compared to more widespread species. The yellow dye from the heartwood was used by early European settlers.
-
-The species is listed as threatened or endangered in several states within its range, including Indiana, where it is at the northern edge of its distribution. Habitat loss through development and land conversion is the primary threat to natural populations.
-
-Collection from the wild for horticultural purposes has also impacted some populations, though this threat has diminished as nursery propagation has become more widespread. Invasive species, particularly invasive honeysuckles and bush honeysuckle, can shade out yellowwood seedlings on favorable sites.
-
-Despite its conservation status in parts of its range, the species is widely planted as an ornamental tree and is not considered at risk of extinction. Its genetic diversity appears adequate, with multiple distinct populations across its range.
-
-The species was introduced to European cultivation in the early 19th century and remains popular in botanical gardens and arboreta. The Royal Horticultural Society has given it an Award of Garden Merit for its outstanding ornamental qualities.
-
-In the United States, the species has been planted as a street tree and in park landscapes, though its use remains limited compared to more common ornamental trees. Its moderate size and non-invasive root system make it suitable for planting near buildings and infrastructure.
-
-Several notable yellowwood specimens exist in botanical gardens, including a large tree at the Arnold Arboretum in Massachusetts and at the Missouri Botanical Garden. These specimens demonstrate the species' cold hardiness beyond its native range.
-
-## See Also
-
-- [[cladrastis-kentukea]]
-
-- [[gymnocladus-dioicus]]
-- [[gleditsia-triacanthos]]
-- [[cercis-canadensis]]
-- [[maclura-pomifera]]
-- [[robinia-pseudoacacia]]
-- [[acer-saccharum]]
-- [[quercus-alba]]
-- [[fagus-grandifolia]]
-- [[carya-illinoinensis]]
-- [[juglans-nigra]]

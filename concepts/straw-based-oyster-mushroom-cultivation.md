@@ -12,7 +12,7 @@ type: concept
 
 Straw is the most accessible and economical substrate for oyster mushroom
 cultivation, making it the preferred choice for beginners and small-scale
-growers worldwide. Wheat straw, oat straw, and rice straw are all
+growers worldwide. [[non-sterilized-wheat-straw-oyster-cultivation]], oat straw, and rice straw are all
 suitable substrates, though wheat straw is most commonly used due to its
 wide availability, favorable physical structure, and consistent
 performance across multiple flushes. [[pasteurized-straw-cultivation-techniques]] leverages the
@@ -27,13 +27,13 @@ requirements.
 Clean straw from fields without excessive mold or moisture is ideal.
 Straw should be stored dry in a well-ventilated area protected from rain.
 Baled straw exposed to rain often has high microbial loads that increase
-contamination risk even after proper pasteurization. Fresh straw from
+[[fungicide-treated-seed-contamination-risk-mushroom-substrate]] even after proper pasteurization. Fresh straw from
 the current harvest season is preferred over aged material.
 
 ### Chopping and Shredding
 
 Straw should be chopped into 3-8 cm lengths to increase surface area for
-mycelial colonization and improve water absorption. A weed whacker in a
+[[mycelial-colonization]] and improve water absorption. A weed whacker in a
 garbage can, a wood chipper, or a dedicated straw chopper can accomplish
 this. Finer shredding (2-5 cm) improves colonization speed and yield but
 increases labor requirements.
@@ -53,7 +53,7 @@ bacterial contamination during colonization.
 
 The most common home method involves soaking chopped straw in hot water
 (65-80 degrees C) for 60-90 minutes. A 55-gallon drum with a propane
-burner is the standard setup. Adding hydrated lime at 1-2% by dry
+burner is the standard setup. Adding [[cervantes-hydrated-lime-quicklime-ph-adjustment]] at 1-2% by dry
 weight raises the pH to 10-12, creating alkaline conditions that
 suppress most competitors while being well tolerated by Pleurotus
 mycelium. After pasteurization, straw is drained and cooled to below
@@ -74,39 +74,17 @@ pasteurization rooms processing hundreds of kilograms per batch.
 
 A low-energy alternative involves soaking straw in cold water with
 hydrated lime (pH 12+) for 12-24 hours. This method requires no heating
-equipment and is widely used in tropical regions. Results are somewhat
+equipment and is widely used [[fukuoka-natural-farming-in-tropical-regions]]. Results are somewhat
 less consistent than heat pasteurization, but effective for oyster
 mushrooms which tolerate high pH conditions well.
 
 ## Inoculation and Bagging
 
 After cooling to below 30 degrees C, [[oyster-mushroom-pasteurized-straw-cultivation]] is mixed with
-grain spawn at a 10-15% rate by weight. The inoculated straw is packed
+[[comparison-grain-spawn-vs-grain-to-grain-transfer]] at a 10-15% rate by weight. The inoculated straw is packed
 firmly (but not so tightly as to exclude air) into polypropylene bags or
 polyethylene tubing, then sealed. Bags typically hold 2-5 kg of
 substrate. Filter patches or micropore tape provide necessary gas
 exchange for respiration during colonization.
 
 ## Colonization and Fruiting
-
-Bags are incubated at 22-26 degrees C in darkness or low light for
-14-21 days. Once fully colonized, bags are moved to the fruiting area.
-Holes 2-4 cm in diameter are cut in the bags at intervals, and
-mushrooms form at these openings where mycelium is exposed to fresh air
-and indirect light. [[stamets-biological-efficiency-yield]] typically reaches 50-100% over
-2-3 flushes, with the first flush producing 60-70% of total yield.
-
-## Species Selection
-
-Different Pleurotus species have varying preferences. Pleurotus
-ostreatus (common oyster) is the most forgiving. P. pulmonarius
-([[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]) fruits at warmer temperatures and colonizes faster.
-P. eryngii (king oyster) can be grown on straw but performs better on
-[[oyster-mushroom-supplemented-sawdust-blocks]]. See [[oyster-mushroom-pasteurized-straw-cultivation]]
-and [[cotter-oyster-mushroom-cultivation]] for species-specific guidance.
-
-## See Also
-
-- [[oyster-mushroom-pasteurized-straw-cultivation]]
-- [[cotter-oyster-mushroom-cultivation]]
-- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]

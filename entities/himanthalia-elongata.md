@@ -13,7 +13,7 @@ sources:
   - Pérez, M.J. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
   - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
   - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and cervantes-pest-disease-prevention-overview. Academic Press, pp. 149-167.
-  - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and physicochemical properties of edible seaweeds." Food Chemistry, 133(3), 762-768.
+  - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] of edible seaweeds." Food Chemistry, 133(3), 762-768.
 ---
 
 ## Overview
@@ -42,13 +42,13 @@ Sea spaghetti is distributed along the northeastern Atlantic coast, from norther
 
 The species occurs in the mid-to-lower intertidal zone and extends into the shallow subtidal to depths of approximately 10 meters. It prefers exposed to semi-exposed rocky shores with moderate to strong wave action.
 
-Himanthalia is often found growing alongside other brown algae such as **Fucus vesiculosus**, **Fucus serratus**, and **Laminaria digitata**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
+Himanthalia is often found growing alongside other brown algae such as **[[fucus-vesiculosus]]**, **[[fucus-serratus]]**, and **[[laminaria-digitata]]**. It attaches firmly to stable rock substrates and is absent from sandy or muddy bottoms.
 
 ## Nutritional Value
 
 Sea spaghetti is considered one of the most nutritious edible seaweeds in European waters. Its dry matter composition includes approximately 40–55% carbohydrates (mainly dietary fiber), 10–15% protein, and 1–3% lipids.
 
-The mineral content is particularly notable. Per 100 g dry weight, Himanthalia provides significant amounts of iodine (1.5–4 mg), magnesium (600–800 mg), calcium (400–700 mg), potassium (2,000–3,000 mg), and iron (10–30 mg). This makes it an excellent source of trace minerals.
+The mineral content is particularly notable. Per 100 g dry weight, Himanthalia provides significant amounts of iodine (1.5–4 mg), magnesium (600–800 mg), calcium (400–700 mg), potassium (2,000–3,000 mg), and iron (10–30 mg). This makes it an excellent source of [[dynamic-accumulator-plants-trace-minerals]].
 
 The dietary fiber fraction includes alginates, fucoidans, and laminarans — all bioactive polysaccharides with demonstrated prebiotic, antioxidant, and immunomodulatory properties. Vitamin content includes B-group vitamins, vitamin C, vitamin E, and provitamin A (β-carotene).
 
@@ -86,28 +86,4 @@ Several bioactive compounds isolated from Himanthalia elongata have attracted re
 
 Alginates from sea spaghetti have demonstrated cholesterol-lowering effects in animal studies by binding bile acids in the digestive tract. The high soluble fiber content also supports glycemic regulation, making it relevant for metabolic health research.
 
-Phenolic compounds, particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.
-
-Recent research has explored Himanthalia as a functional food ingredient. Incorporation into bread, pasta, and snack formulations has been studied for both nutritional enhancement and textural effects. Challenges include managing the alga's high mineral content and potential bitterness.
-
-## Conservation and Harvesting Regulations
-
-Wild populations of Himanthalia elongata face increasing pressure from commercial harvest. In several European countries, including Spain and Ireland, harvesting permits and seasonal closures have been implemented to prevent overexploitation.
-
-The species is classified as Least Concern on the IUCN Red List due to its wide distribution. However, local population declines have been documented in areas of intensive harvesting, particularly along the northern coast of Spain.
-
-Sustainable harvesting practices recommend cutting fronds at least 10 cm above the holdfast, leaving the basal "button" intact for regeneration. Harvesters are advised to rotate collection sites and avoid taking more than 50% of fronds from any given bed.
-
-[[dighton-fungi-climate-change-feedback]] poses a longer-term threat through ocean warming and acidification. Rising sea temperatures may shift the species' southern range limit northward, while acidification could affect calcification of associated organisms in the same habitat.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[laminaria-digitata]]
-- [[palmaria-palmata]]
-- [[gracilaria-verrucosa]]
-- [[caulerpa-lentillifera]]
-- [[gelidium-amansii]]
-- [[chlorella-vulgaris]]
-- [[monostroma-nitidum]]
-- [[eucheuma-denticulatum]]
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly phlorotannins, contribute significant antioxidant capacity. These polyphenols scavenge free radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in cell culture models. Extracts have shown potential anti-proliferative activity against certain cancer cell lines.

@@ -42,6 +42,28 @@ The synthesis begins with 2,5-dimethoxybenzaldehyde, which is brominated to prod
 
 The original synthesis was carried out in the late 1970s. Shulgin's detailed procedure in PIHKAL provides complete synthetic details including reagent quantities, reaction conditions, isolation procedures, and purification steps.
 
+## Practical Applications
+
+2C-B has been explored in clinical settings as a potential adjunct to
+psychotherapy, particularly for its empathogenic and introspective
+qualities at lower doses (12-16 mg). Its relatively short duration
+(4-6 hours) makes it logistically easier to work with than LSD or DOB
+in therapeutic contexts. Some practitioners report it enhances body
+awareness and emotional openness without the overwhelming cognitive
+distortion of tryptamines.
+
+## Safety Notes
+
+- Nausea and body discomfort are commonly reported at onset, especially
+  at doses above 20 mg.
+- Combining 2C-B with MAO inhibitors is dangerous due to the amine
+  structure and potential for hypertensive crisis.
+- HPPV (hallucinogen persisting perception disorder) risk is low but
+  not zero; standard psychedelic set-and-setting precautions apply.
+- Purity is a serious concern on unregulated markets -- reagent testing
+  (Marquis, Mecke) is essential to distinguish 2C-B from more harmful
+  substances sold under the same name.
+
 ## Historical Significance
 
 2C-B is one of the most well-known and widely used of all the phenethylamines documented in PIHKAL. It was first synthesized by Shulgin in 1974. For a period in the 1980s and early 1990s, it was sold legally as an aphrodisiac under brand names including "Nexus" and "Eros," before being scheduled in the United States in 1995.

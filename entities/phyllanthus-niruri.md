@@ -87,36 +87,3 @@ P. niruri contains a diverse array of [[antifungal-secondary-metabolites-coproph
 The hepatoprotective effects of P. niruri are among the most extensively studied. Multiple animal models have demonstrated protection against carbon tetrachloride, acetaminophen, ethanol, and galactosamine-induced hepatotoxicity.
 
 Mechanisms include stabilization of hepatic cell membranes, enhancement of hepatic glutathione levels, inhibition of lipid peroxidation, and modulation of cytochrome P450 enzymes. [[mushroom-cancer-clinical-trials-overview]] in patients with chronic hepatitis B have shown reductions in serum transaminases and, in some studies, clearance of hepatitis B surface antigen (HBsAg).
-
-Results across clinical trials have been inconsistent, with some studies showing significant antiviral effects and others finding no difference from placebo. Meta-analyses suggest the heterogeneity may relate to differences in extract standardization, dosing, and patient populations.
-
-### Antilithiatic Activity
-
-The name "chanca piedra" (stone breaker) reflects the traditional use for kidney stones. In vitro and animal studies have demonstrated that P. niruri extract inhibits [[fungal-calcium-oxalate-crystals]] crystal aggregation and modifies the crystalline structure of urinary stones.
-
-The extract interferes with the nucleation, growth, and aggregation phases of calcium oxalate crystallization. It also appears to relax ureteral smooth muscle in animal models, potentially facilitating stone passage. Several small clinical trials have reported reduced stone recurrence rates with prophylactic use of P. niruri preparations.
-
-### Other Pharmacological Activities
-
-**Antioxidant:** Strong free radical scavenging activity across multiple in vitro assays (DPPH, ABTS, FRAP), primarily attributed to the tannin and flavonoid content.
-
-**Anti-inflammatory:** Inhibits cyclooxygenase (COX) and lipoxygenase (LOX) pathways, reduces prostaglandin and leukotriene production in inflammatory models.
-
-**Antidiabetic:** Hypoglycemic effects demonstrated in streptozotocin-induced diabetic rats, including reduced blood glucose and improved glucose tolerance.
-
-**Antimicrobial:** Broad-spectrum activity against Gram-positive and Gram-negative bacteria, with notable effects against Staphylococcus aureus and Escherichia coli.
-
-## Cultivation
-
-P. niruri is easily cultivated from seed, which germinates readily within 2-3 weeks under warm, moist conditions. The plant is not commercially cultivated at scale in most regions, as wild harvesting is sufficient to meet demand.
-
-For cultivation, seeds are sown directly in prepared beds after the last frost in tropical climates. Optimal growth occurs at 25-35°C with regular irrigation. The plant reaches maturity and produces seed within 60-90 days of germination. Above-ground biomass is harvested at flowering for maximum phytochemical content.
-
-In permaculture systems, P. niruri serves as a fast-growing ground cover in tropical food forests and can occupy the herbaceous layer beneath fruit trees. Its ability to accumulate minerals and tolerate poor soils makes it useful for site rehabilitation.
-
-## See Also
-
-- [[terminalia-chebula]]
-- [[silybum-marianum]]
-- [[curcuma-longa]]
-- [[berberine]]

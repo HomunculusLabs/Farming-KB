@@ -87,23 +87,3 @@ with his wife Valentina Pavlovna Wasson, introduced the dichotomy
 between mycophilic and mycophobic cultures and documented the
 remarkable differences in [[weil-cultural-attitudes-toward-altered-states]] toward mushrooms across
 Eurasia.
-
-Jonathan Ott's *The Teonanacatl: The Sacred Mushroom of the Aztecs*
-(1978) provided a comprehensive pharmacological and historical review
-of the Mesoamerican mushroom complex, complementing Wasson's
-ethnographic work with botanical and chemical detail.
-
-Terence McKenna's *Food of the Gods* (1992) argued for a central role
-of psychoactive fungi in human cognitive evolution, though its
-speculative claims remain controversial within the scholarly community.
-
-Giorgio Samorini's work on ethnomycological aspects of ancient Greek
-and Egyptian cultures, along with Brian Akers' archaeological studies
-of pre-Columbian mushroom stones, continue to expand the empirical
-foundation of the discipline.
-
-## See Also
-
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-
-- [[mckenna-mushroom-stones-of-guatemala]]

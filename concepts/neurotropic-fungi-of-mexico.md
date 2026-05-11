@@ -88,22 +88,3 @@ understood. Habitat destruction through deforestation, agricultural
 expansion, and urbanisation poses the greatest threat to wild
 populations. Cloud forest ecosystems, which harbour many of the
 montane *Psilocybe* species, are among the most endangered habitats
-in Mexico. The growing commercial interest in psilocybin-containing
-mushrooms, both for recreational use and for emerging therapeutic
-applications, has raised concerns about overharvesting from wild
-populations. Ethical frameworks for bioprospecting are particularly
-important given that indigenous communities have been the stewards of
-knowledge about these fungi for millennia. Any commercial development
-of Mexican [[mexico-center-neurotropic-fungal-biodiversity]] resources should acknowledge and
-compensate the indigenous peoples who preserved this knowledge
-through generations of ceremonial use and careful ecological
-observation.
-
-## See Also
-
-- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
-- [[mexico-neurotropic-fungi-diversity-center]]
-- [[guzman-magic-mushrooms-global-biogeography]]
-- [[psilocybe-cubensis-flush-variation]]
-- [[powell-mayan-civilisation-and-psilocybin-mushroom-use]]
-- ethnobotany

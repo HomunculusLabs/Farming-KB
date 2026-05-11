@@ -1,10 +1,11 @@
 ---
-title: fukuoka textdoc composting critique futility prepared organic matter and the Futility of Prepared hamilton-composting-and-organic-matter-management
+title: Fukuoka Textdoc Composting Critique Futility Prepared Organic Matter
 created: 2026-04-28
 tags: [fukuoka, natural-farming, compost, organic-farming, soil-fertility, decomposition, mulberry, straw, no-fertilizer, critique]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -23,10 +24,10 @@ clothing.
 When raw organic material such as straw, grasses and trees, or seaweed is
 applied directly to a field, it takes a while to decompose and trigger a
 fertilizer response in the crops. This is because soil microbes consume the
-available nitrogen during decomposition, creating a temporary nitrogen
+[[plant-available-nitrogen-ammonium-nitrate]] during decomposition, creating a temporary nitrogen
 deficiency that initially starves crops of needed nitrogen.
 
-In organic farming, these materials are therefore fermented and used as
+In [[coleman-deep-organic-farming]], these materials are therefore fermented and used as
 prepared compost, giving a safer and more effective fertilizer response. But
 all the trouble taken during preparation of the compost to speed up the rate
 of fertilizer response yields remarkably little. Frequent turning of the pile,
@@ -38,7 +39,7 @@ ten to twenty percent.
 ## Organic Farming as Scientific Farming
 
 Fukuoka was blunt in his assessment: even organic farming, which everyone was
-making a big fuss over, is just another type of scientific farming. A lot of
+making a big fuss over, is just another type [[fukuoka-illusions-of-scientific-farming]]. A lot of
 trouble is taken to move organic materials first here then there, to process
 and treat them. But any gains to be had from all this activity are local and
 temporal gains. When examined from a broader perspective, many such efforts to
@@ -55,7 +56,7 @@ vegetation on the same ground where it grew.
 
 Fukuoka's practical experience with organic matter provided direct evidence
 against the need for composting. Right after the war, he used large quantities
-of sawdust and wood chips in his orchard. Soil experts opposed this, saying
+of sawdust and [[query-how-to-use-wood-chips-in-your-garden]] his orchard. Soil experts opposed this, saying
 that the organic acids produced when the wood rots would most likely make the
 soil acidic and that large quantities of lime would be needed to neutralize
 it.
@@ -86,41 +87,3 @@ No compost pile, no turning, no additives. The straw does its work while
 serving as a ground cover. This approach is not only simpler but more
 effective than processed compost because the organic matter breaks down
 slowly in situ, providing a steady rather than sudden release of nutrients.
-
-## Natural Fertility Versus Imported Fertility
-
-The fundamental error of composting, in Fukuoka's view, is the assumption
-that fertility must be manufactured elsewhere and imported to the field. The
-logic that rejects grassed fields, green manure, and the direct application
-of organic wastes changes with time and circumstances. Given the right
-conditions, these may be effective. But no fertilizer method is absolute.
-
-The surest way to solve the fertility problem is to apply a method that adapts
-to the circumstances and follows nature. If plants grow on a piece of land,
-it means the land has some degree of fertility. The farmer's task is to
-understand and support the natural processes that build soil, not to
-manufacture fertility through composting and import it to depleted ground.
-
-## The Deeper Philosophical Point
-
-Fukuoka's critique of composting is rooted in his broader principle of
-non-intervention. The moment one decides to prepare compost, one has already
-decided that nature's own methods are insufficient. This leads to a cascade
-of interventions: collecting materials from elsewhere, processing them,
-transporting them, applying them, and managing their effects. Each step takes
-the farmer further from nature.
-
-The no-fertilizer principle does not say that fertilizers are worthless, but
-that there is no need to apply [[cervantes-chemical-fertilizers-guide]]. The same logic extends
-to compost: there is no need to prepare compost when nature can build soil
-through its own mechanisms of ground cover, root penetration, microbial
-activity, and natural succession.
-
-## See Also
-
-- [[fukuoka-textdoc-fertilizer-soil-destruction-sulfuric-acid]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
-- [[fukuoka-textdoc-food-mandala-yin-yang-seasonal-natural-diet]]
-- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]

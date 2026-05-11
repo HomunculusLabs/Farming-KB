@@ -1,5 +1,5 @@
 ---
-title: Fodder comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Fodder Growing Guide
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Fodder Growing Guide
 
-Growing fodder — crops specifically cultivated for livestock feed — reduces feed costs, improves animal nutrition, and increases homestead self-sufficiency. Fodder systems range from simple field crops to intensive sprouting operations, each suited to different scales and livestock types.
+Growing fodder — crops specifically cultivated for [[livestock-feed-formulation]] — reduces feed costs, improves animal nutrition, and increases homestead self-sufficiency. Fodder systems range from simple field crops to intensive sprouting operations, each suited to different scales and livestock types.
 
 ## Types of Fodder Systems
 
@@ -27,7 +27,7 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Yield:** 1 lb of seed produces 6-8 lbs of fodder
 - **Space:** 100 sq ft of tray space feeds 2-3 adult goats or 1 cow daily
 - **Cycle:** 7-10 days from seed to feed; harvest daily for continuous supply
-- **Infrastructure:** Trays, rack system, automatic watering, grow lights (optional)
+- **Infrastructure:** Trays, rack system, automatic watering, [[cmh-grow-lights]] (optional)
 
 ## Planning Fodder Production
 
@@ -87,14 +87,3 @@ Growing cereal grains in trays for 7-10 days to produce green fodder:
 - **Rabbits** — Excellent; natural part of their diet
 
 ## Integration with Other Systems
-
-- Use [[pasture-management]] rotation with annual fodder crop planting
-- Use [[silvopasture-systems]] as understory plantings
-- Garden surplus and crop residues supplement fodder programs
-
-## Related
-
-- [[pasture-management]]
-- [[animal-manure-guide]]
-- [[rabbit-husbandry-guide]]
-- [[solomon-crop-rotation-and-garden-planning]]

@@ -13,7 +13,7 @@ principle of orbital symmetry conservation.
 
 Pericyclic reactions fall into four main categories based on the topology of bond reorganization:
 
-**Electrocyclic reactions** are [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis|intramolecular]] processes where a sigma bond forms or cleaves at
+**Electrocyclic reactions** are [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]] processes where a sigma bond forms or cleaves at
 the termini of a conjugated pi system, changing ring size by one. The number of pi electrons
 (4n or 4n+2) determines whether ring closure proceeds via conrotatory or disrotatory motion.
 
@@ -56,7 +56,7 @@ is required. Same-phase termini favor disrotation; opposite-phase termini favor 
 ## Thermal and Photochemical Selectivity
 
 UV excitation promotes an electron from HOMO to LUMO, inverting frontier orbital symmetry and
-reversing all selection rules. The same starting material can yield completely different
+reversing all selection rules. The same [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] can yield completely different
 stereoisomeric products depending on whether it is heated or irradiated with UV light. For
 electrocyclic reactions, 4n systems undergo conrotatory closure thermally and disrotatory
 photochemically, while 4n+2 systems undergo disrotatory closure thermally and conrotatory
@@ -77,7 +77,7 @@ These reactions are completely stereospecific.
 
 The Diels-Alder reaction, discovered by Diels and Alder (Nobel Prize 1950), combines a conjugated
 diene (4 pi electrons) with a dienophile (2 pi electrons) to form a six-membered ring in a
-concerted suprafacial-suprafacial [4+2] cycloaddition. Stereospecificity is [[complete-organic-fertilizer-formulation|complete]]: cis-
+concerted suprafacial-suprafacial [4+2] cycloaddition. Stereospecificity is [[complete-organic-fertilizer-formulation]]: cis-
 dienophiles yield cis-substituted cyclohexenes, and trans-dienophiles yield trans-substituted
 products. Endo selectivity arises from secondary orbital interactions between dienophile
 substituent pi orbitals and the diene pi system, making the endo transition state kinetically
@@ -88,54 +88,3 @@ the largest LUMO coefficient on the dienophile under normal electron demand.
 Thermal [2+2] cycloadditions are symmetry-forbidden, but photochemical [2+2] cycloadditions are
 allowed and widely used. UV-induced thymine dimer formation in DNA is a biologically significant
 example. 1,3-Dipolar cycloadditions are thermally allowed [4+2] processes including the Huisgen
-cycloaddition of azides and alkynes to form triazoles, and nitrone cycloadditions producing
-isoxazolidines reducible to amino alcohols.
-
-## Sigmatropic Rearrangements
-
-The Cope rearrangement is a [3,3]-sigmatropic reaction of 1,5-dienes thermally allowed through
-a chair-like cyclic transition state strongly preferred over the boat alternative. The oxy-Cope
-rearrangement, with a hydroxyl group at the 3-position, is accelerated by 10^10 to 10^17 due to
-enolate formation in the transition state. The Claisen rearrangement converts allyl vinyl ethers
-to gamma,delta-unsaturated carbonyl compounds through a chair-like transition state with complete
-transfer of allylic stereochemistry. Major variants include the Ireland-Claisen (ester enolates),
-Johnson-Claisen (triethyl orthoacetate), and Eschenmoser-Claisen (dimethylacetamide dimethyl
-acetal), each providing stereocontrolled C-C bond formation. [1,5]-Hydride shifts are thermally
-allowed suprafacial migrations in pentadienyl systems, while [1,3]-hydride shifts are thermally
-forbidden due to geometrically impossible antarafacial hydrogen migration requirements.
-
-## Applications in Natural Product Synthesis
-
-Pericyclic reactions are indispensable in total synthesis. Nicolaou's biomimetic endiandric
-acids synthesis (1982) featured a cascade of electrocyclic ring openings, [1,7]-hydride shifts,
-and an intramolecular Diels-Alder from a single polyunsaturated precursor. Corey employed
-Diels-Alder reactions to construct the prostaglandin bicyclic core. Woodward's cholesterol and
-cortisone syntheses used Diels-Alder methodology before the theoretical framework existed. Both
-Holton and Nicolaou used Diels-Alder reactions in their taxol syntheses. Claisen rearrangements
-install chiral quaternary centers in alkaloid and terpene synthesis.
-
-## Historical Development
-
-Fukui published frontier orbital theory in 1952, initially underappreciated outside Japan. In
-1965, Woodward and Hoffmann published their seminal JACS paper on electrocyclic stereospecificity,
-motivated by unexplained outcomes in Woodward's vitamin B12 synthesis. The Conservation of
-Orbital Symmetry monograph appeared in 1969. Dewar and Zimmerman developed the aromatic transition
-state formulation in 1969-1971. The 1981 Nobel Prize was awarded jointly to Hoffmann and Fukui;
-Woodward had died in 1979. The Diels-Alder reaction dates to 1928, Cope to 1940, Claisen to 1912.
-
-## Modern Computational Validation
-
-DFT calculations (B3LYP/6-31G(d)) routinely locate transition states predicted by Woodward-
-Hoffmann rules. Activation barriers for allowed reactions are 15-30 kcal/mol, while forbidden
-counterparts exceed 50 kcal/mol. Dynamic studies by Singleton revealed hidden stepwise
-intermediates on ultra-short timescales, though orbital symmetry rules still predict observed
-stereospecificity. Houk identified ambimodal transition states leading to two product distributions
-from a single TS. Machine learning models now predict pericyclic outcomes with high accuracy.
-## See Also
-
-- [[compost-tea-aact]]-organic-brewing
-- [[seed-saving-in-permaculture]]-propagation
-
-- molecular orbital theory — [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] foundation for orbital symmetry analysis
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

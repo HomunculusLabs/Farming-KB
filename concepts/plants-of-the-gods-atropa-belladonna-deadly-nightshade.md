@@ -1,5 +1,5 @@
 ---
-title: "[[belladonna-atropa-belladonna-ethnobotany]]: Deadly Nightshade"
+title: Plants Of The Gods Atropa Belladonna Deadly Nightshade
 created: 2026-04-28
 tags:
   - solanaceae
@@ -88,38 +88,3 @@ European peoples.
 ## Role in Witchcraft and Medieval Magic
 
 Deadly Nightshade figured as an important ingredient in many of the
-witches' brews of the Middle Ages. It was during the early Modern
-period that Belladonna assumed its greatest importance in witchcraft
-and magic. It was one of the primary ingredients of the brews and
-ointments employed by witches and sorcerers. One potent mixture,
-containing Belladonna, Henbane, Mandrake, and the fat of a stillborn
-child, was rubbed over the skin or inserted into the vagina for
-absorption. The familiar witch's broomstick goes far back in European
-magic beliefs. An investigation into witchcraft in 1324 reported that
-"in rifleing the closet of the ladle, they found a Pipe of ointment,
-wherewith she greased a staffe, upon which she ambled and galloped
-through thick and thin."
-
-Porta, a contemporary of Galileo, wrote in 1589 that under the
-effects of a potion of these solanaceous plants a "man would seem
-sometimes to be changed into a fish; and flinging out his arms,
-would swim on the ground; sometimes he would seem to skip up and
-then to dive down again."
-
-## Historical Uses
-
-This plant played a major role in the war of the Scots under Duncan I
-against the Norwegian king Sven Canute about A.D. 1035. The Scots
-destroyed the Scandinavian army by sending them food and beer to
-which "Sleepy Nightshade" had been added. There are numerous records
-of accidental and purposeful poisoning associated with Deadly
-Nightshade. Today, *A. belladonna* is an important source for
-medicinal drugs. The entire plant contains psychoactive constituents
-capable of inducing hallucinations.
-
-## Related Nightshade Hallucinogens
-
-Deadly Nightshade belongs to the broader category of
-[[schultes-datura-holy-flower-north-star]]
-species (Thorn Apple, Toloache), [[schultes-mandrake-mandragora-officinarum]]
-(Mandrake), and [[schultes-witches-ointments-flying-salves]] were primarily composed of these solanaceous plants.

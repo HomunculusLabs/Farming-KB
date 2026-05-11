@@ -88,32 +88,3 @@ Atlas cedar has been widely planted as an ornamental tree in temperate regions w
 The species performs best in full sun with well-drained soil. It tolerates a wide range of soil types including clay, loam, and sandy substrates, provided drainage is adequate. It is moderately drought-tolerant once established.
 
 Cold hardiness varies with provenance, but most selections are hardy to USDA Zone 6 (−23 °C). Young trees are more cold-tender than mature specimens. The species performs well in coastal conditions and tolerates urban pollution.
-
-Propagation is primarily by seed, which requires cold stratification for 30–60 days. Named cultivars are grafted onto seedling rootstock. Growth rate is moderate, with trees reaching 6–9 m in 10 years under favorable conditions.
-
-Atlas cedar is relatively free of serious [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cultivation. The cedar weevil (*Cedrobium libani*) and various aphid species can cause minor damage. Root rot from *Phytophthora* species occurs on poorly drained sites.
-
-## Uses and Ethnobotany
-
-Atlas cedar wood is aromatic, durable, and naturally resistant to decay and insect attack. It has been used historically for construction timber, shipbuilding, and furniture making. The wood has a distinctive spicy fragrance that persists for decades.
-
-Cedarwood essential oil extracted from Atlas cedar is used in aromatherapy, perfumery, and traditional medicine. The oil is valued for its woody, balsamic aroma and purported calming properties. Major constituents include alpha-himachalene and beta-himachalene.
-
-In Morocco, Atlas cedar forests have cultural and economic significance for rural mountain communities. Sustainable harvesting of cedar wood and non-timber forest products provides income for local populations. Ecotourism centered on cedar forests is an emerging economic sector.
-
-The species is an important component of Mediterranean forest restoration projects. It is planted for reforestation of degraded mountain watersheds and as a windbreak. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for climate-adapted forestry in Mediterranean regions.
-
-Conservation efforts focus on protecting remaining native stands through national parks and forest reserves. In Morocco, the Middle Atlas Cedar Forest is a UNESCO Biosphere Reserve. Ex situ conservation through seed banks and arboreta complements in situ protection.
-
-## See Also
-
-- [[cedrus-libani]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[abies-grandis]]
-- [[pseudotsuga-menziesii]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[juniperus-communis]]
-- [[acer-saccharum]]
-- [[ulmus-americana]]

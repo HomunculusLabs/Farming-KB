@@ -88,15 +88,3 @@ The species intercepts atmospheric moisture and nutrients, contributing to canop
 Usnea species serve as nesting material for birds, particularly in temperate and [[fungal-diversity-boreal-forests-taiga]] where suitable materials are scarce. The flexible, durable thalli are incorporated into nest construction by several passerine species.
 
 The lichen supports a community of lichenicolous fungi, including species of *Arthonia*, *Buellia*, and *Marchandiomyces*, that grow parasitically on its thallus. These specialized fungi represent an often-overlooked component of forest [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
-
-## See Also
-
-- [[cornus-florida]]
-
-- [[candelariella-vitellina]]
-
-- [[usnea-hirta]]
-- [[cladonia-pyxidata]]
-- [[evernia-prunastri]]
-- [[ramalina-fastigiata]]
-- [[flavoparmelia-caperata]]

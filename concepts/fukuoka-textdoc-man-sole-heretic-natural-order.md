@@ -1,5 +1,5 @@
 ---
-title: Man as fukuoka textdoc man sole heretic natural order in the fukuoka-textdoc-natural-order-food-chain-unity
+title: Fukuoka Textdoc Man Sole Heretic Natural Order
 created: 2026-04-28
 tags:
   - fukuoka
@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md (lines 7079-7172)
 type: concept
 ---
@@ -71,7 +72,7 @@ The loquats gradually came back, but one question remained unanswered: why had t
 
 The causes were complex and interrelated:
 
-1. Interplanting of citrus trees in loquat groves due to the boom in citrus production.
+1. Interplanting of [[fukuoka-textdoc-search-natural-form-citrus-trees]] in loquat groves due to the boom in citrus production.
 2. The rapid transition to mulching and sod cultivation creating excess humidity ideal for microbial propagation.
 3. The practice of thinning fruit where young fruit dropped to the ground and were colonized by fungi.
 4. Discontinuation of Bordeaux mixture in favor of new pesticides.
@@ -82,52 +83,8 @@ Fukuoka warns that spraying pesticides with high residual toxicity and mutagenic
 
 The result may very well be new pesticide-resistant pathogens and highly parasitic microbes.
 
-He demonstrated this possibility by crossing the resin disease fungus that attacks citrus trees in the United States with the fungus that attacks Satsuma oranges and summer oranges in Japan. Although these bore different scientific names, mycelial conjugation took place and ascospores were formed. By crossing these eight spores in various ways, he was able to produce different strains.
+He demonstrated this possibility by crossing the resin disease fungus that attacks citrus trees in the [[dmt-containing-plants-united-states-halpern]] with the fungus that attacks Satsuma oranges and summer oranges in Japan. Although these bore different scientific names, mycelial conjugation took place and ascospores were formed. By crossing these eight spores in various ways, he was able to produce different strains.
 
 ## The Cascading Pine Ecosystem Collapse
 
-Fukuoka suspects that atmospheric pollution killed off the microbes which attack various botrytis fungi, and that this triggered the rotting of apple, loquat, and plum blossoms and a massive outbreak of gray mold on citrus fruit.
-
-The explosive increase in this mold led to a sudden rise in nematodes that feed on the mold, resulting in an abnormally large increase in dead pine trees. This prolific gray mold was also responsible for the destruction of the matsutake fungus that lives parasitically at the roots of the pine trees.
-
-The true cause may be unclear, but one thing is certain: an inauspicious change has overtaken the strongest form of life on the Japanese islands, the Japanese red pine, and the weakest form of life, the matsutake fungus.
-
-## Radiation and Unknown Microbial Threats
-
-Fukuoka extends his concern to agricultural radiation experiments. When plants in a field are doused with radiation, scientists give no thought to changes in soil and airborne microbes. He felt far greater concern over the microbial mutants and spores that could reasonably be expected to arise in such an irradiated field than admiration over what new plant varieties might result.
-
-Because microbes are invisible to the unaided eye, it is harder to tell whether new and monstrous varieties have been created. "Monsters belong to the world of comics, but don't they already exist in the microbial world?"
-
-## The Principle of Non-Action
-
-The fundamental principle that emerges from this analysis is that of non-action. No "method" is needed for loving nature. The only road to nature is non-action; the only method is no method at all.
-
-All one must do is do nothing. The means will become clear of itself and the goal absurdly easy to attain. This does not mean passive indifference but rather an active restraint from interfering with processes that nature manages perfectly on its own.
-
-## Agriculture as the Source of Disruption
-
-Fukuoka traces humanity's departure from the natural order not to industrialization but to the beginning of agriculture itself. The moment humans began cultivating crops, they set themselves apart from the web of natural relationships in which all other organisms participate.
-
-The farmer clears land, selects plants, controls water, and battles insects. In doing so, he removes himself from the cycle of mutual dependence that characterizes natural ecosystems. He becomes an outsider looking in, managing nature from the outside rather than participating in it from within.
-
-This is not to say that all agriculture is inherently destructive. Fukuok [[comparison-natural-farming-vs-permaculture]] ming represents a way of growing food that minimizes human disruption. But the fundamental impulse of agriculture, to control nature for human benefit, is itself the source of the problem.
-
-## The Illusion of Human Knowledge
-
-Fukuoka repeatedly emphasizes the vast gap between what humans understand about nature and what actually occurs. The decomposition of a single piece of straw involves hundreds of species interacting in ways that no scientist has fully mapped. The soil beneath our feet contains more biological complexity than we can comprehend.
-
-When humans intervene in natural systems, they do so with only the most fragmentary understanding of the consequences. A pesticide designed to kill one pest may trigger a cascade of effects through the food web, ultimately causing more harm than the pest itself.
-
-This is why Fukuoka advocates not for better science but for less intervention. The more we learn about nature's complexity, the more clear it becomes that our attempts to manage it are based on profound ignorance.
-
-## The Contrast with Indigenous Societies
-
-Fukuoka's philosophy echoes aspects of many indigenous worldviews that see humans as one participant among many in the natural order, rather than as masters or stewards. The hunter-gatherer who takes only what he needs and returns what he can does not see himself as separate from nature.
-
-Modern civilization, by contrast, has built its identity on the conquest of nature. Progress is measured by the degree to which humans have freed themselves from natural constraints. This attitude, in Fukuoka's view, is the root cause of ecological crisis.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-pesticide-microbe-mutation-risk]]
-- [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
+Fukuoka suspects that atmospheric pollution killed off the microbes which attack various botrytis fungi, and that this triggered the rotting of apple, loquat, and plum blossoms and a massive outbreak of [[cervantes-gray-mold-botrytis-prevention]] on [[hamilton-citrus-fruit-growing]].

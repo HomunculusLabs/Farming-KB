@@ -1,5 +1,5 @@
 ---
-title: Chemical Fertilizers Are Incomplete — The Potassium-Yield vs [[solomon-potassium-yield-versus-nutrition-tradeoff]]
+title: Solomon Chemical Fertilizer Incomplete Potassium Yield Tradeoff
 author: Steve Solomon
 source: Gardening When It Counts (2005)
 tags:
@@ -87,57 +87,3 @@ In soils with little clay content to hold cations, dissolved nutrients from
 chemical fertilizers may leach away entirely before plants can absorb them. This
 wastes money, pollutes groundwater, and leaves the crop undernourished despite
 heavy fertilization.
-
-### Organic Fertilizers: Slow and Steady
-
-Organic fertilizers — including manures, compost, and [[complete-organic-fertilizer-cof]] (COF) — work fundamentally differently. They release nutrients
-slowly as soil microorganisms decompose the organic matter through a complex
-soil ecology. This gradual, sustained release matches the pace at which plants
-naturally absorb nutrients, avoiding the boom-and-bust cycle of chemical inputs.
-
-The rate of decomposition is primarily determined by soil temperature, following
-a rough biological rule: the rate approximately **doubles for each 10°F
-increase** in soil temperature.
-
-Complete decomposition of COF takes about **two months in warm soil**. This has
-an important practical corollary: **warmer climates get bigger results from
-smaller applications**, because decomposition proceeds faster and more nutrients
-become available during the growing season. Cool-climate gardeners may need to
-apply somewhat more to achieve the same effect over a shorter, cooler season.
-
-## Solomon's Personal Experience
-
-Steve Solomon reports that after switching his own garden to a program of COF
-plus compost exclusively — abandoning chemical fertilizers entirely — the
-results were transformative. In his words, the garden had "never grown so well"
-and "the food never tasted so good." This anecdotal testimony aligns with the
-underlying [[fukuoka-critique-western-dietetics-nutritional-science]]: plants receiving a full mineral spectrum in a
-slow-release form produce more vigorous, better-tasting, and more nutritious
-crops.
-
-## The Documented Nutritional Decline
-
-Solomon's observations are not isolated. USDA data document a measurable decline
-in the nutritional content of vegetables over the past 25–50 years. While
-multiple factors contribute to this trend — including the selection of commercial
-varieties for yield and shipping durability over nutrition — the widespread
-reliance on incomplete NPK fertilizers and the potassium-yield tradeoff are
-significant drivers of this decline.
-
-The implication is clear: the food supply has been quietly losing nutritional
-density for decades, and the standard agricultural practice of maximizing bulk
-yield through high potassium and minimal [[jadam-seawater-mineral-supplementation]] is a key part
-of the problem.
-
-## Key Takeaways
-
-1. "Complete" chemical fertilizers are not complete — they supply only NPK.
-2. High potassium increases bulk yield (starch and fiber) while decreasing
-   nutritional density proportionally.
-3. Commercial growers optimize for weight, not nutrition.
-4. Organic inputs release nutrients slowly via soil biology, matching plant
-   uptake patterns.
-5. Decomposition rate is temperature-dependent; warm soils need less COF.
-6. Chemical fertilizers cause boom-and-bust growth cycles and can leach from
-   light soils.
-7. Vegetable nutritional quality has declined measurably over recent decades.

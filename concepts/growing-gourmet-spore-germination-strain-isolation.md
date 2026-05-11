@@ -1,5 +1,5 @@
 ---
-title: growing gourmet spore germination strain isolation and Strain Isolation Techniques
+title: Growing Gourmet Spore Germination Strain Isolation
 created: 2026-04-26
 tags:
   - mycology
@@ -46,7 +46,7 @@ When a concentrated mass of spores is germinated, the
 likelihood of bacteria and weed fungi infesting the site
 is greatly increased. Bacteria replicate faster than
 mushroom spores can germinate. As a result, the germinating
-spores become infected. However, if spore prints are made
+spores become infected. However, if [[macrofungal-documentation-photography-spore-prints]] are made
 correctly from clean specimens, contamination is usually
 not a problem.
 
@@ -68,7 +68,7 @@ while bacteria are left behind.
 
 ### pH Adjustment Method
 If the culture is mixed with contaminant molds, adjust the
-pH of the media to favor the mushroom mycelium. Many
+pH of the media to favor the [[antimicrobial-compounds-mushroom-mycelium]]. Many
 contaminant fungi are strong acidophiles, whereas Oyster
 mushrooms grow well near neutral pH.
 
@@ -87,13 +87,3 @@ This disperses colonies so they can be dealt with individually.
 Repeated subculturing and dispersal usually results in success.
 
 ## From Isolation to Strain Library
-
-Once pure growing-gourmet-strain-evaluation-28-features,
-yield potential, and other characteristics. The best performers
-are preserved in the [[amf-spore-strain-variability-effectiveness]]
-## See Also
-- [[growing-gourmet-strain-selection]]
-- [[growing-gourmet-strain-senescence-degeneration]]
-- [[growing-gourmet-stamets-p-value-strain-age-system]]
-- [[growing-gourmet-spore-mass-inoculation-techniques]]
-- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]

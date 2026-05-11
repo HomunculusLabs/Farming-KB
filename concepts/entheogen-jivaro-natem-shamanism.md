@@ -88,33 +88,3 @@ his impulse and reswallow this first tsentsak, he will become a
 curing shaman.
 
 Only after five months of sexual abstinence will the new shaman
-have the power to kill a man (if a bewitcher) or cure a victim (if
-a curer). A full year's abstinence is considered necessary to
-become a really effective practitioner. During this period, the
-new shaman collects all kinds of insects, plants, and other objects,
-which he now has the power to convert into tsentsak. Almost any
-small object can become a tsentsak if it is small enough to be
-swallowed by a shaman.
-
-## Supernormal Perception Through Natem
-
-The use of natem among the Jivaro makes it possible to achieve the
-trance state essential for contacting and affecting the behavior of
-particular supernatural beings. Under natem, the shaman perceives
-the "true" aspect of reality -- the supernatural dimension underlying
-ordinary existence. Anthropologists, including those who have personally
-consumed natem in the field, have reported finding themselves "in a
-world literally beyond their wildest dreams," encountering bird-headed
-people and dragon-like creatures who identified themselves as the true
-gods of the world. Such experiences profoundly shaped researchers'
-understanding of the role that hallucinogens play in Jivaro cosmology. The witchcraft and sorcery that play such a
-central role in Jivaro social relations are understood as real,
-perceivable phenomena accessible only through the natem trance.
-
-Women rarely become shamans, but when they do they are thought to
-be particularly powerful because they are believed to possess special
-tsentsak. The shamanic system is intimately tied to the maintenance
-of social order, the resolution of conflicts, and the management of
-relations between the living and the spirit world. The Jivaro case
-demonstrates how entheogenic plants can serve as the technological
-foundation for an entire social and cosmological system.

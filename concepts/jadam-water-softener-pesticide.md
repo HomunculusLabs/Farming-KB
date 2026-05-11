@@ -1,5 +1,5 @@
 ---
-title: JADAM Water Softener Pesticide Integration
+title: Jadam Water Softener Pesticide
 created: 2026-04-28
 tags: [jadam, water-softener, pesticide-effectiveness, water-quality, ion-exchange, soft-water]
 date: 2026-04-25
@@ -28,7 +28,7 @@ water for thirty spray applications per resin cycle.
 
 Hard water containing high levels of calcium, magnesium, and iron
 interferes with the [[jadam-nutrient-management-wetting-agent-and-calcium]] that is essential to all pesticide
-function. When JADAM wetting agent (JWA) is mixed with hard water, the
+function. When [[ultra-low-jadam-wetting-agent-jwa]] (JWA) is mixed with hard water, the
 solution becomes murky like milk and produces little to no foam. Foam
 is described as the key component of pesticide because it indicates
 proper wetting and coating ability. Without adequate foam, pesticide
@@ -87,25 +87,3 @@ which contains higher pollutant concentrations. Rainwater also washes
 clothes well and leaves skin feeling smooth, demonstrating its softness.
 
 ### Testing Water Quality
-
-Regular water testing is essential for maintaining pesticide quality. The
-test is simple: mix a few drops of JWA into the water sample and shake.
-Soft water will remain completely clear and produce abundant foam. Any
-murkiness indicates the water is too hard for effective pesticide use.
-This test should be performed both on the input water and the output of
-the water softener to verify proper device function.
-
-## Applications
-
-### Optimizing All Pesticide Applications
-
-Every JADAM pesticide recipe depends on soft water for maximum
-effectiveness. Using the water softener ensures consistent results from
-batch to batch. The small monthly cost is offset by improved pest control
-and reduced pesticide waste. Even commercial chemical pesticides produce
-less foam and have reduced wetting power in hard water, making the
-softener valuable for [[jadam-water-softener]], [[jadam-water-quality-softening]], [[jadam-water-quality-pesticide]]
-
-## See Also
-
-- [[jadam-pesticide-dosage-guide]]

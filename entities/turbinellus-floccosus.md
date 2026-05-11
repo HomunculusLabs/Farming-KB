@@ -28,8 +28,8 @@ sources:
 
 *Turbinellus floccosus* is a large, vase-shaped ectomycorrhizal fungus in the
 family Gomphaceae. Known commonly as the scaly chanterelle, woolly chanterelle,
-or pine cone mushroom, it is found in coniferous forests across North America,
-[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Europe, and Asia. The species forms mycorrhizal associations
+or pine cone mushroom, it is found in coniferous forests across [[guzman-psilocybin-mushrooms-north-america]],
+[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Europe, and Asia. The species forms [[plants-without-mycorrhizal-associations]]
 primarily with *Pinus* (pine) and occasionally with *Pseudotsuga* (Douglas-fir).
 
 Historically classified in *Gomphus* or *Cantharellus*, molecular phylogenetics
@@ -75,70 +75,15 @@ southern China.
 
 **Geographic range:**
 - Western North America: British Columbia to California and Rocky Mountains
-- Central America: high-elevation pine forests of Mexico and Guatemala;
+- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]: high-elevation pine forests of Mexico and Guatemala;
   commercially harvested in Oaxaca and Puebla
 - Europe and Asia: mountainous central/southern Europe; Himalayan foothills;
   Yunnan and Sichuan (China); Japan
 
-**Habitat and ecology:**
+**[[psilocybin-mushroom-habitat-and-ecology]]:**
 - Ectomycorrhizal, forming obligate associations with conifers
-- Primary hosts: *Pinus ponderosa*, *P. lambertiana*, *P. jeffreyi* (western
-  NA); *Pinus hartwegii* (Mexico); *Pinus sylvestris* (Europe); *P. yunnanensis*
+- Primary hosts: *[[pinus-ponderosa]]*, *P. lambertiana*, *P. jeffreyi* (western
+  NA); *Pinus hartwegii* (Mexico); *[[pinus-sylvestris]]* (Europe); *P. yunnanensis*
 - Fruiting singly or scattered on forest floor, often in [[dighton-pine-needle-litter-decomposition-fungal-succession]]
 - Season: July–October (northern hemisphere); post-monsoon in Himalayas
 - Elevation: 1,500–3,500 m (Asia); 500–2,500 m (North America)
-
-## Edibility and Culinary Use
-
-*T. floccosus* is considered **conditionally edible** — palatable when thoroughly
-cooked but causing gastrointestinal distress in a significant minority of consumers.
-
-**Culinary qualities:**
-- Firm, meaty texture when young; becomes tough and fibrous with age
-- Mild flavor, less aromatic than true chanterelles
-- Takes marinades and sauces well due to absorbent context
-- In Mexico, sold in markets as "escobeta" (little broom) and used in moles
-  and stews; typically parboiled before final cooking
-
-**Preparation requirements:**
-- Must be thoroughly cooked (15+ minutes) to destroy heat-labile GI irritants
-- Young specimens preferred; mature fruiting bodies become unpalatably tough
-- Some authorities recommend discarding the boiling water after initial parboil
-- Freezing after cooking preserves texture for later use
-
-⚠️ **Caution:** Reported GI upset in 10–20% of consumers, even when properly
-prepared. Symptoms include nausea, abdominal cramping, and diarrhea. Not
-recommended for novice foragers. The similar-appearing *Turbinellus*
-species (*T. stereoides*) is inedible and more likely to cause reactions.
-
-## Chemistry and Bioactive Compounds
-
-Limited phytochemical investigation compared to more commercially important
-fungi. Known constituents include:
-
-**Nutritional profile (per 100 g fresh weight, approximate):**
-- Protein: 1.5–2.5 g
-- Fat: 0.3–0.5 g
-- Carbohydrate: 4–7 g
-- Fiber: 2–3 g
-- Minerals: Potassium, phosphorus, and magnesium in notable amounts
-
-**Bioactive metabolites:**
-- Ergosterol and ergosterol peroxide — anti-inflammatory in vitro
-- Phenolic compounds — moderate antioxidant activity
-- β-glucans — immunomodulatory potential
-- Unidentified sesquiterpenes — may contribute to GI irritant properties
-
-The specific compounds responsible for gastrointestinal upset have not been
-definitively characterized. The irritant is heat-labile (destroyed by prolonged
-cooking) and not alcohol-soluble, suggesting a peptide or labile terpenoid.
-
-## Cultivation and Notes
-
-## See Also
-
-- [[comparison-living-soil-cannabis-vs-no-till-cannabis]]
-- [[tangerine-dream]]
-- [[trametes-versicolor-entity]] — Polypore with well-characterized medicinal properties
-- [[polyporus-umbellatus]] — Ectomycorrhizal fungus of Asian coniferous forests
-- [[lentinula-edodes]] — Cultivated [[bloomfield-boletus-satanus-edible-mushroom-hazards]] for culinary comparison

@@ -87,38 +87,3 @@ Cereal rye is particularly effective at suppressing weeds through both competiti
 **Oats** (*Avena sativa*) grow rapidly in autumn and winter-kill in cold climates, eliminating the need for mechanical termination.
 
 **Annual ryegrass** (*Lolium multiflorum*) produces an extensive fibrous root system that improves soil structure.
-
-### Brassicas
-
-**Daikon radish** (*Raphanus sativus*) develops a deep taproot that penetrates compacted soil layers, creating channels for water infiltration.
-
-**Mustard** (*Sinapis alba*) produces glucosinolate compounds with biofumigant properties upon soil incorporation.
-
-### Multi-Species Mixtures
-
-Modern recommendations increasingly favor multi-species cover crop mixtures over monocultures.
-
-Species mixtures combine complementary functions: legumes for nitrogen fixation, grasses for soil structure, and brassicas for biofumigation.
-
-A typical mixture might include cereal rye, crimson clover, and daikon radish.
-
-Mixtures generally produce greater total biomass and more consistent performance across variable conditions.
-
-## Termination Methods
-
-Cover crops are terminated before planting the subsequent cash crop using mechanical, chemical, or natural methods.
-
-Mechanical termination includes rolling/crimping, mowing, or tillage.
-
-Roller-crimping is particularly effective for winter annuals like cereal rye at the anthesis growth stage.
-
-Chemical termination using herbicides is common in conventional systems but prohibited in organic production.
-
-Winter-kill termination relies on species that naturally die back in cold temperatures, such as oats and sorghum-sudangrass.
-
-## See Also
-
-- [[ozier-pdc-composting-and-soil-building]]
-- [[companion-planting]]
-- [[query-how-does-crop-rotation-improve-soil-health]]
-- permaculture

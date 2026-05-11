@@ -40,7 +40,7 @@ impractical to abandon names that are widely recognized, leading to the
 paradoxical situation where a single organism has two scientific names.
 The yeast *[[rust-fungi]]: The Most Complex Cycles
 
-Rust fungi produce the most elaborate life cycles known among fungi.
+[[biodiversity-rust-fungi-urediniomycetes]] produce the most elaborate life cycles known among fungi.
 *Puccinia graminis*, which causes black stem rust of wheat, requires
 two host species and produces four distinct spore types: uredospores,
 teliospores, basidiospores, and aeciospores, plus spermatia that
@@ -51,14 +51,14 @@ In autumn, teliospores develop within the uredial lesions. These
 thick-walled spores survive winter in frozen stubble and germinate in
 spring to produce basidiospores via meiosis. Basidiospores must land on
 a barberry leaf, where they penetrate and establish a mycelium.
-Sexual reproduction occurs on barberry through the transfer of spermatia
+[[basidiomycete-mating-systems-sexual-reproduction]] occurs on barberry through the transfer of spermatia
 by insects, creating a dikaryotic mycelium that produces aeciospores
 capable of infecting wheat, completing the cycle.
 
 ## Ascomycete Life Cycles
 
 Ascomycete fungi produce sexual spores inside microscopic sacs called
-asci. In cup fungi (apothecia), the asci are arranged in an exposed
+asci. In [[bloomfield-truffle-evolution-cup-fungi-hypogeous]] (apothecia), the asci are arranged in an exposed
 layer and discharge their spores using a pressurized mechanism. Each ascus
 functions as a pressurized cannon that launches spores to distances of
 several centimeters. This is one of the most powerful biological
@@ -88,35 +88,3 @@ the asexual phases of diverse fungi. The enormous [[bloomfield-ingoldian-aquatic
 Ingoldians represent asexual manifestations of basidiomycetes and
 different types of ascomycetes. The fabrication of tetraradiate spore
 shapes by unrelated fungi represents evolutionary convergence.
-
-## Environmental Triggers
-
-[[bloomfield-fungal-reproduction-and-chemical-communication]] is closely tied to environmental conditions.
-Humidity is critical for most fungi, as water is required for spore
-germination, [[bloomfields-orchard-hyphal-growth-and-invasive-biology]], and the pressurized [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]].
-Temperature regulates the timing of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production in many
-species. [[ph-and-nutrient-availability-garden-soils]] triggers the switch from vegetative
-growth to reproductive development.
-
-Some fungi modify their reproductive strategies based on environmental
-stability. Water mold populations in seasonal ponds that dry in summer
-and freeze in winter contain ten times more self-fertile hermaphrodites
-than populations in permanent ponds, where heterothallic (mate-requiring)
-strains predominate. Self-fertility is advantageous in unstable
-environments because it allows rapid spore production without waiting
-for a compatible partner.
-
-## See Also
-
-- [[rust-fungi-biodiversity-life-cycles]]
-- [[mycelial-networks]](mycelium-network.md)
-- spore-dispersal-mechanisms(spore-dispersal-mechanisms.md)
-- [[fungal-symbiosis-with-plants]](fungal-symbiosis-with-plants.md)
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapters 4, 6, and 9.
-- Kwon-Chung, K. J. (1975). "A new species of *Filobasidiella*."
-  *Mycologia* 67, 1197-1200.

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - ~/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
 type: concept
 ---
@@ -40,7 +41,7 @@ well.
 Permaculture was modeled on nature's systems to create food production that
 maintains itself indefinitely and becomes stronger over time. Holmgren and
 Mollison expanded this understanding to include architecture, business
-practices, and social norms, creating a system of design principles,
+practices, and social norms, creating a system of [[aact-brewer-design-principles-aeration-systems-ingham]],
 terminology, and methods that could be taught to anyone.
 
 ## The Three Ethics
@@ -55,7 +56,7 @@ Earth itself).
 
 ## The 12 Design Principles
 
-David Holmgren coined 12 permaculture design principles that form the core
+David Holmgren coined 12 [[pdc-urban-permaculture-design-principles]] that form the core
 of PDC instruction. Understanding the underlying logic matters more than
 memorizing exact wording:
 
@@ -70,8 +71,8 @@ memorizing exact wording:
    accomplish a goal. Chickens provide food energy but also pest control,
    fertilizer, and soil cultivation energy.
 
-3. **Creatively use and respond to change**: Change is constant. Rather
-   than resisting it, permaculture designers work with natural processes
+3. **Creatively use and [[permaculture-principle-creatively-use-and-respond-to-change]]**: Change is constant. Rather
+   than resisting it, [[permaculture-principle-apply-self-regulation]] work with natural processes
    and direct them productively.
 
 4. **[[permaculture-principle-design-from-patterns-to-details]] to details**: Begin with broad patterns (water
@@ -84,56 +85,5 @@ memorizing exact wording:
 6. **[[holmgren-observe-and-interact-detailed]]**: Careful observation over time reveals patterns
    and relationships that inform better design decisions.
 
-7. **Obtain a yield**: Every element should produce something useful. A
+7. **[[holmgren-obtain-a-yield-detailed]]**: Every element should produce something useful. A
    system that does not yield is not sustainable.
-
-8. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]**: Waste is simply an unused resource. In nature,
-   one organism's waste is another's food.
-
-9. **Use and value diversity**: Diversity provides resilience, stability,
-   and multiple yields from the same space.
-
-10. **Use and value renewable resources and services**: Prioritize resources
-    that regenerate over those that deplete.
-
-11. **Use edges and value the marginal**: Edges between ecosystems are the
-    most productive and diverse zones.
-
-12. **Use small and slow solutions**: Small-scale, gradual interventions
-    are more manageable, adaptable, and sustainable than large rapid ones.
-
-## Design Process
-
-The PDC teaches a structured approach to design. The first step in any
-[[holzer-lebenshilfe-permaculture-project-for-disabled-people]] is thorough observation and analysis of the site.
-Designers learn to read the landscape for water flow, sun exposure, soil
-types, existing vegetation, microclimates, and human patterns of use.
-
-Students learn that permaculture is not about specific elements but about
-the connections between them. While plants are important, a permaculture
-course teaches how to connect plants ecologically to other system elements
-including water, animals, structures, and energy systems. The course
-covers all these elements as much as it covers plants.
-
-## Practical Application
-
-PDC courses include hands-on projects alongside theoretical instruction.
-Students practice site analysis, base mapping, sector analysis, zone
-planning, and element placement. Design exercises require students to
-integrate multiple principles simultaneously, developing the ability to
-think systemically rather than linearly.
-
-The PDC methodology emphasizes that permaculture means different things to
-different people depending on their goals. It can express spirituality,
-sound financial strategy, environmental protection, or community
-wellbeing. The one thing all permaculture designers agree on is that it is
-about designing architecture, infrastructure, technology, and lifestyle
-habits in harmony with natural cycles of the Earth.
-
-## Related Concepts
-
-- [[zone-and-sector-analysis]]
-- [[urban-guerrilla-gardening]]
-- succession-in-permaculture
-- pattern language permaculture
-- [[bioregional-organization]]

@@ -87,12 +87,3 @@ through and through" and that conscious beings have a privileged role
 to play in its intentional unfolding. This view stands in direct
 opposition to the mechanistic, purposeless universe described by
 conventional scientific materialism.
-
-## Related
-
-- [[aztec-entheogens]] Topics
-
-- [[natural-intelligence]] and Reality
-- Sacred Mushroom Discovery by Wasson
-- Bardo Mapping of the Psychedelic Experience
-- Ayahuasca and Caapi

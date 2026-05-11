@@ -16,9 +16,9 @@ type: comparison
 the spectrum of complexity, cost, and yield.
 
 PF TEK ([[substrate-preparation]], sterilization
-requirements, [[fruiting-chamber]] er]] er]] design, and overall scalability. PF TEK uses a
+requirements, fruiting chamber er er design, and overall scalability. PF TEK uses a
 simple brown rice flour and vermiculite mixture sterilized in half-pint mason
-jars, while [[monotub-cultivation]] on]] uses colonized grain spawn mixed with a bulk
+jars, while monotub cultivation on uses colonized grain spawn mixed with a bulk
 substrate such as CVG (coco coir, vermiculite, gypsum) inside a modified
 plastic storage bin.
 
@@ -42,7 +42,7 @@ the lid and covered with micropore tape or similar breathable material.
 
 Colonization typically takes two to four weeks at room temperature. Once fully
 colonized, the cakes are birthed from the jars, dunked in water for 12 to 24
-hours to rehydrate, then placed in a simple fruiting chamber with damp perlite
+hours to rehydrate, then placed in a simple [[comparison-laminar-flow-hood-vs-fruiting-chamber]] with damp perlite
 on the bottom to maintain high humidity. The cakes fruit directly without any
 additional substrate. Yields per cake are
 modest, typically 5 to 15 grams dry per flush, with two to three flushes
@@ -50,14 +50,14 @@ before the cake is exhausted. A standard 12-jar PF TEK setup produces
 approximately 30 to 60 grams dry total across all flushes.
 
 The simplicity of PF TEK makes it an outstanding learning platform. New growers
-learn sterile technique, substrate preparation, inoculation, colonization
-monitoring, and humidity management without the complexity of grain work.
+learn [[cultivator-sterile-technique-and-agar-culture]], [[bulk-substrate-preparation]], inoculation, colonization
+monitoring, and [[pf-tek-dual-chambered-terrarium-design-humidity-management]] without the complexity of grain work.
 
 ## Monotub Cultivation: The Yield Standard
 
 [[substrate-pasteurization]] RF + vermiculite | Grain spawn + bulk CVG |
 | Sterilization method | Boiling pot | Pressure cooker (15 PSI) |
-| Substrate pasteurization | Not needed | Bucket tek or heat pasteurization |
+| [[straw-substrate-pasteurization-methods-mushroom-cultivation]] | Not needed | Bucket tek or heat pasteurization |
 | Typical container | Half-pint jars | 50-80 quart plastic bin |
 | Dry yield (total) | 30-60g from 12 cakes | 112-280g per tub |
 | Cost to start | Low ($30-50) | Moderate ($80-150) |
@@ -68,7 +68,7 @@ monitoring, and humidity management without the complexity of grain work.
 ## When to Choose PF TEK
 
 PF TEK is ideal for first-time growers who want to learn the fundamentals of
-sterile technique and mushroom biology without investing in specialized
+sterile technique and [[mushroom-biology-life-cycle-classification]] without investing in specialized
 equipment. The low startup cost makes it accessible to almost anyone, and it is
 also the best method for growers with very limited space. PF TEK teaches
 critical skills that transfer directly to monotub cultivation later.

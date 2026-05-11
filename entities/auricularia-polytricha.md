@@ -88,35 +88,3 @@ Modern research has confirmed several of these traditional uses. The mushroom ha
 demonstrated anti-thrombotic properties, helping to prevent blood clots, and has been
 shown to have cholesterol-lowering effects. These properties make it of particular
 interest for cardiovascular health research.
-
-Additional studies have investigated its potential anti-inflammatory and antioxidant
-properties. The polysaccharides found in Auricularia species are believed to contribute
-to immune system support, though research on this specific species continues.
-
-## Flavor and Preparation
-
-auricularia polytricha is extremely popular in Chinese cuisine, where it is a
-staple ingredient in soups, stir-fries, and various traditional dishes. The mushroom
-is prized for its unique crunchy texture rather than a strong flavor, as it has a
-relatively mild, earthy taste.
-
-When reconstituted from its dried form, Wood Ear mushrooms absorb flavors from the
-cooking liquid, making them excellent carriers for sauces and broths. They are a key
-ingredient in hot and sour soup, Buddha's delight, and numerous stir-fried dishes
-across Chinese and other Asian cuisines.
-
-The mushroom should be soaked in warm water for 20-30 minutes before cooking to
-rehydrate fully. Any tough stem bases should be trimmed before use. The reconstituted
-mushroom can be added directly to soups or stir-fried with vegetables and meats.
-
-## References
-
-1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
-2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md
-
-## See Also
-
-- [[log-cultivation-methods]]
-- auricularia polytricha detailed
-
-]

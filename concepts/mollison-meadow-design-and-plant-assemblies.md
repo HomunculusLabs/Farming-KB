@@ -1,10 +1,11 @@
 ---
 title: Mollison on mollison meadow design and plant assemblies and Plant Assemblies
 created: 2026-04-26
-tags: [permaculture], meadow, pasture-design, polyculture, plant-communities]
+tags: [[permaculture]], meadow, pasture-design, polyculture, plant-communities]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -59,7 +60,7 @@ The relationship between plants and animals in meadows is reciprocal:
 burrowing animals create disturbance that allows certain plant species
 to establish, while grazing animals prevent any single species from
 dominating. Predators of grazers (such as owls for rodents) maintain
-the balance at all trophic levels.
+the balance at all [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]].
 
 ## Meadow Establishment
 
@@ -80,16 +81,10 @@ deep-rooted, more nutritious, or drought-resistant grasses or woody
 forages. [[coleman-overwintered-onions-and-early-spring-crops]] and mid-autumn to early winter are the usual
 sowing periods.
 
-With the seed, trace elements, major nutrients, and water-retaining
+With the seed, [[teaming-with-nutrients-micronutrients-and-trace-elements]], major nutrients, and water-retaining
 gels can be trickled into the shallow furrows. Typical seed mixes may
 include clovers chosen for site, pH, and drainage; spikeroots such as
 dandelion, plantain, and chicory; woody browse species and medicinal
 species such as wormwood, [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 
 - mollison-desert-cluster-housing-and-street-design
-## See Also
-- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
-- [[mollison-course-swales-and-earthworks-design]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[mollison-designers-food-forest-succession-design]]
-- [[mollison-designers-high-island-and-tropical-valley-design]]

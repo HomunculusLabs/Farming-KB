@@ -87,12 +87,3 @@ Standard Czapek-Dox modified with 15-20% NaCl for isolating [[halotolerant-halop
 4. Autoclaving at extreme pH can destroy the agar matrix
 5. Glass Petri dishes (not plastic) must be used for oligotrophic media; glassware washed in 5% HCl before use
 6. For oligotrophic isolation, all glassware and silica gel must be heated in a muffle furnace to eliminate organic traces
-
-## See Also
-
-- [[osmophilic-osmotolerant-fungi-low-water-activity]]
-
-- [[fungi-in-stressful-environments]]
-- [[halophilic-fungi]]
-- [[fungi-stressful-environments-thermophilic-xerophilic-halophilic]]
-- fungal-enzyme-activity-nutrient-availability

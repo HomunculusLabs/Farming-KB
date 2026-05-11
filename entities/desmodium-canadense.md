@@ -88,29 +88,3 @@ Optimal sowing occurs in spring (April–May) or early fall (September–October
 Once established, stands persist for 10+ years and tolerate temperatures to -35°C. Fertilization is generally unnecessary due to nitrogen fixation, though phosphorus amendments may improve growth on deficient soils.
 
 ## Related Species
-
-The genus *Desmodium* contains approximately 300 species distributed across tropical and temperate regions worldwide. Several [[growing-gourmet-north-american-reishi-species]] species are ecologically or agriculturally significant:
-
-- ***Desmodium illinoense*** (Illinois tick trefoil) — similar appearance but shorter (0.3–1 m) with smaller flowers; more shade-tolerant.
-- ***Desmodium glutinosum*** (pointed-leaved tick trefoil) — woodland species with wider leaflets and sticky glandular stems.
-- ***Desmodium nudiflorum*** (naked-flowered tick trefoil) — produces flowering stems separate from leafy stems; dry woodland indicator.
-- ***Desmodium ciliare*** (hairy tick trefoil) — southeastern species with densely hairy stems and small pink flowers.
-
-In tropical agriculture, *Desmodium* species are used as cover crops and in push-pull pest management systems. *Desmodium uncinatum* and *Desmodium intortum* are widely planted as tropical forage legumes and for their allelopathic suppression of parasitic *Striga* weeds in African cereal farming systems.
-
-## See Also
-
-- [[desmodium-illinoense]]
-- [[desmodium-rotundifolium]]
-
-- [[robinia-pseudoacacia]]
-- [[chamaecrista-fasciculata]]
-- [[trifolium-pratense]]
-- [[onobrychis-viciifolia]]
-- [[lotus-corniculatus]]
-- [[agroforestry]]
-- [[companion-planting]]
-- [[glycine-max]]
-- [[senna-alexandrina]]
-- [[rheum-palmatum]]
-- [[glycyrrhiza-glabra]]

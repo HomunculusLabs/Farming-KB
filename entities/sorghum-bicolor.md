@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Taylor, J.R.N. & Awika, J.M. (2017). "Sorghum and Millets: Chemistry, Technology, and Nutritional Attributes." 2nd ed. AACC International Press.
-  - Dahlberg, J. et al. (2011). "Assessment of sorghum genetic diversity." In: Plant Genetic Resources: Characterization and Utilization, 9(1), 140–146.
+  - Dahlberg, J. et al. (2011). "Assessment of sorghum [[biodiversity-fungal-genetic-diversity]]." In: Plant Genetic Resources: Characterization and Utilization, 9(1), 140–146.
   - Dicko, M.H. et al. (2006). "Sorghum grain as human food in Africa: relevance of content of starch and amylase activities." African Journal of Biotechnology, 5(5), 384–395.
   - Rooney, L.W. & Awika, J.M. (2004). "Specialty sorghums for food use." In: Novel Food and Industrial Products from Sorghum, ICAR/Icrisat.
 ---
@@ -24,7 +24,7 @@ It is the fifth most important cereal crop globally after wheat, rice, maize, an
 
 The species is exceptionally drought-tolerant and heat-resistant, making it a critical food security crop in regions where other cereals fail.
 
-It is used for human food, animal feed, biofuel production, and traditional alcoholic beverages.
+It is used for human food, [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], biofuel production, and traditional alcoholic beverages.
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ Sorghum originated in northeastern Africa and was domesticated approximately 5,0
 
 Today it is cultivated across Africa, South Asia, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and increasingly in Australia and the southern [[dmt-containing-plants-united-states-halpern]].
 
-Nigeria, India, Ethiopia, the United States, and Mexico are the world's largest producers.
+Nigeria, India, Ethiopia, the [[dmt-maoi-plants-united-states]], and Mexico are the world's largest producers.
 
 The crop thrives in areas receiving 400–800 mm of annual rainfall and tolerates temperatures exceeding 40°C during flowering.
 
@@ -85,41 +85,6 @@ Sorghum is rich in B vitamins, particularly niacin, thiamine, and riboflavin.
 
 It also provides significant iron, zinc, and phosphorus.
 
-Whole-grain sorghum contains phenolic compounds, including 3-deoxyanthocyanidins, which are unique to sorghum among cereal grains.
+Whole-grain sorghum contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], including 3-deoxyanthocyanidins, which are unique to sorghum among cereal grains.
 
 These compounds have demonstrated anti-inflammatory and anti-proliferative properties in laboratory studies.
-
-## Ecological Role
-
-Sorghum is a C4 plant, giving it high photosynthetic efficiency under hot, dry conditions.
-
-Its water use efficiency is approximately double that of C3 cereals like wheat and rice.
-
-The crop requires 30–50% less water than maize to produce equivalent biomass, making it ideal for water-limited environments.
-
-Sorghum residues left after grain harvest provide valuable mulch and livestock fodder.
-
-The deep root system can reach 1.5–2 meters, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling.
-
-Intercropping sorghum with legumes such as cowpea or [[comparison-pigeon-pea-vs-cowpea]] improves overall system productivity and soil nitrogen.
-
-## Industrial and Cultural Uses
-
-In Africa and South Asia, sorghum is a staple food consumed as flatbreads, porridges, and steamed or boiled grain.
-
-It is the primary grain used in traditional fermented beverages across sub-Saharan Africa, including opaque beer and distilled spirits.
-
-Sweet sorghum varieties are cultivated for syrup production, similar to sugarcane, and for bioethanol feedstock.
-
-The stalks of sweet sorghum can yield 5,000–8,000 liters of ethanol per hectare.
-
-Sorghum grain is increasingly used in gluten-free food products, including breads, pasta, and breakfast cereals.
-
-The crop also serves as a high-quality forage and silage crop for livestock in drought-prone regions.
-
-## See Also
-
-- [[pennisetum-glaucum]]
-- [[vigna-unguiculata]]
-- [[saccharum-officinarum]]
-- [[chenopodium-quinoa]]

@@ -28,7 +28,7 @@ throughout temperate and boreal regions of the Northern Hemisphere.
 The species is characterized by its abundant, irregular branching and
 distinctive central chord (anatomical axis) visible in cross-section.
 *U. hirta* has a long history of use in traditional medicine across
-Europe, Asia, and North America for respiratory infections and wound care.
+Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]] for respiratory infections and [[blesching-cannabis-wound-care]].
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ oak (*Quercus* spp.), maple (*Acer* spp.), birch (*Betula* spp.), and
 various conifers including pine and spruce.
 
 It is most abundant in old-growth and mature forests with high humidity and
-moderate light levels. The species is highly sensitive to air pollution,
+moderate light levels. The species is highly sensitive to [[air-pollution-fungal-community-responses]],
 particularly sulphur dioxide, and has declined significantly in
 industrialized regions of Europe since the 19th century.
 
@@ -80,63 +80,10 @@ Additional compounds include **diffractaic acid**, **evernic acid**, and
 **thamnolic acid**, all depsidones with demonstrated biological activities.
 
 Usnic acid exhibits potent antibacterial activity against Gram-positive
-bacteria including *Staphylococcus aureus*, *Streptococcus* spp., and
+bacteria including *[[staphylococcus-aureus]]*, *Streptococcus* spp., and
 *Mycobacterium tuberculosis*. The mechanism involves inhibition of
 bacterial RNA polymerase and disruption of [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity.
 
 Antifungal activity has been demonstrated against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and
 dermatophyte species, though with lower potency than the antibacterial
 effects.
-
-Antioxidant activity of *U. hirta* extracts has been confirmed through
-DPPH and ABTS radical scavenging assays, attributed primarily to usnic acid
-and phenolic depsides.
-
-## Traditional and Medicinal Uses
-
-*Usnea hirta* has been used medicinally across multiple cultures for
-centuries. In European folk medicine it was employed as a poultice for
-wounds and as a treatment for respiratory infections, coughs, and sore
-throats.
-
-In traditional Chinese medicine, *Usnea* species (known as 老松蘿, *lao
-song luo*) are used to clear heat, resolve toxicity, and treat infections
-of the throat and lungs. Preparations include decoctions, tinctures, and
-powdered thallus.
-
-Indigenous peoples of North America used *Usnea* species as wound dressings
-and for wrapping materials. The fibrous thallus was also used as a natural
-absorbent for menstrual hygiene.
-
-Modern herbal medicine employs *U. hirta* primarily as an antimicrobial
-agent in tinctures and throat sprays. The species is listed in several
-pharmacopoeias of complementary medicine.
-
-## Ecology and Conservation
-
-*Usnea hirta* serves as microhabitat for diverse invertebrate communities
-including mites, nematodes, and insects. In forest canopies it contributes
-to epiphyte biomass and intercepts atmospheric moisture and nutrients.
-
-The species is a recognized bioindicator for forest continuity and air
-quality. Its presence indicates long-term ecological stability and low
-levels of atmospheric pollutants.
-
-Conservation concerns include habitat loss from [[mycelium-running-forestry-practices-and-mushrooms]] and
-decline due to air pollution in urban and industrial areas. The species
-is protected under conservation legislation in several European countries.
-
-Commercial overharvesting of *Usnea* for herbal products has raised
-sustainability concerns, leading to recommendations for cultivated
-sources.
-
-## See Also
-
-- [[usnea-longissima]]
-
-- [[usnea-barbata]]
-- [[cetraria-islandica]]
-- [[cladonia-stellaris]]
-- [[xanthoria-parietina]]
-- [[fucus-vesiculosus]]
-- [[chondrus-crispus]]

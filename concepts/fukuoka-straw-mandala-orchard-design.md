@@ -1,8 +1,8 @@
 ---
-title: Fukuoka's fukuoka straw mandala orchard design Design
+title: Fukuoka Straw Mandala Orchard Design
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, The Natural Way of Farming"
+sources: "masanobu-fukuoka, The Natural Way of Farming"
 wikilinks: "fukuoka-straw-four-principles fukuoka-straw-vegetable-growing fukuoka-straw-soil-building fukuoka-straw-pest-control-natural-balance fukuoka-straw-natural-farming-philosophy"
 type: concept
 tags: [design, fukuoka, orchard]
@@ -16,7 +16,7 @@ In Fukuoka's hilltop orchard overlooking the Inland Sea stand several
 mud-walled huts. Here, young people from the cities live a crude, simple life
 growing crops. Chickens run free through the orchard and semi-wild vegetables
 grow in the clover among the trees. The natural farm is a harmonious whole
-arising from a combination of woods and fruit trees and vegetables and grains.
+arising from a combination of woods and [[holzer-wild-fruit-trees-and-hedges]] vegetables and grains.
 
 Nothing stops the farmer from having his orchard double as a vegetable and
 grain patch. On the complete natural farm, fruit trees, vegetables, grains,
@@ -50,7 +50,7 @@ capital or incurring large debts.
 
 ### Natural Seedlings vs. Grafted Stock
 
-From the standpoint of natural farming, one would expect trees grown from
+From the standpoint [[four-principles-of-natural-farming]], one would expect trees grown from
 seed to be preferable to [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] stock. The reasons usually given for
 planting grafted saplings are to make the plant early-bearing, to ensure
 consistent fruit size and quality, and to obtain early-ripening fruit. However,
@@ -68,7 +68,7 @@ exists the possibility that an unusual fruit will arise from the seed.
 
 Fruit saplings should be planted at equal intervals along hill contours. Dig
 a fairly deep hole, fill it with coarse [[hamilton-composting-and-organic-matter-management]], and plant the sapling
-over this. To establish a natural orchard, one should dig large holes here
+over this. To establish a [[fukuoka-natural-orchard-ground-cover]], one should dig large holes here
 and there among the stumps of felled trees and plant unpruned saplings and
 fruit seed over the site, leaving these unattended just as one would leave
 alone a reforested stand of trees.
@@ -87,47 +87,3 @@ complete natural diet will arise of itself without his needing to know
 anything.
 
 ### The Four Seasons of Food
-
-The seven herbs of spring -- Japanese parsley, shepherd's purse, cudweed,
-chickweed, bee nettle, wild turnip, and wild radish -- emerge early in the
-new year from the slumbering brown earth. As he enjoys the flavors of these
-herbs, the farmer meditates joyfully on his having survived a harsh winter.
-
-Spring brings bracken, osmund, young cherry, persimmon, peach, and Chinese yam
-leaves. Bamboo shoots are delicious with rockfish. Red sea bream and grunt are
-excellent at the time of the barley harvest. Summer brings melon, milk, and
-honey under the shade of trees. Many fruits ripen in early autumn, and most
-welcome of all are the ripened grains of rice that have fully absorbed the
-yang of summer.
-
-### Seasonal Vegetable Plantings
-
-The mandala system includes monthly plantings: winter brings shallot, garlic,
-chard, and burdock; early spring adds Japanese parsley, honewort, and
-daikon; mid-spring brings garden peas and broad beans; early summer provides
-eggplant, cucumber, and garlic; mid-summer yields squash, ginger, and
-tomato; early autumn brings corn and sesame; and late autumn offers green
-soybeans, chestnuts, and matsutake mushrooms.
-
-## Orchard Management Without Pruning
-
-Some pinching back is generally necessary on a young transplanted sapling to
-correct the arrangement of the branches. Trees that show normal, steady growth
-right from the start assume a nearly natural form and can thereafter be left
-alone. Orchard management at this stage consists primarily of coming in twice
-a year to cut the weeds and underbrush with a large sickle.
-
-In Fukuoka's [[fukuoka-citrus-orchard-establishment-bare-hillside]], he first attempted cultivation under a cover of
-grass, then switched to green manure cultivation. Now he uses a ground cover
-of clover and vegetables with no weeding, tillage, or fertilizer. When weeds
-are a problem, then it is wiser to remove weeds with weeds than to pull weeds
-by hand. Growing fruit trees and tending an orchard can be made easier and
-more advantageous than normal methods. In fact, from Fukuoka's experience,
-there is no question that weeding in orchards is not only useless, it is
-positively harmful.
-
-## See Also
-
-- [[fukuoka-straw-vegetable-growing]]
-- [[fukuoka-straw-pest-control-natural-balance]]
-- [[fukuoka-straw-natural-farming-philosophy]]

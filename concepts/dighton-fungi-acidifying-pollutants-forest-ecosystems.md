@@ -17,8 +17,8 @@ type: concept
 # Fungi and Acidifying Pollutants in Forest Ecosystems
 
 The interaction between acidifying pollutants and fungi provides a case
-study in the evolution of scientific understanding of pollution effects.
-Following the industrial revolution in Europe, sulfur dioxide released
+study in the evolution of [[fukuoka-fallacies-scientific-understanding]] of pollution effects.
+Following the [[mckenna-caffeine-coffee-and-industrial-revolution]] in Europe, sulfur dioxide released
 during combustion combined with water to form sulfuric acid. The
 resulting acid rain was linked to declining tree health through damage
 to cuticular waxes and reduced photosynthetic capacity. Soil ecologists
@@ -29,7 +29,7 @@ was affecting both root growth and mycorrhizal status of trees.
 
 Dighton and Jansen (1991) proposed a two-directional impact model of
 acidifying pollutants on mycorrhizal development. Two mechanisms lead
-to reduced mycorrhizal associations: (1) pollutant-induced reduction in
+to reduced [[plants-without-mycorrhizal-associations]]: (1) pollutant-induced reduction in
 photosynthetic capacity of the tree canopy reduces allocation of
 photosynthate to roots and their mycorrhizae, reducing overall
 colonization and favoring species surviving on low carbohydrate supplies;
@@ -42,7 +42,7 @@ and reduced root colonization.
 Evidence for reduced mycorrhizal formation and root vigor comes from
 Sobotka (1964), Liss et al. (1984), Meyer (1987), and Blaschke (1988).
 Arnolds (1988) reported that in healthy forest ecosystems, fruit bodies
-of mycorrhizal fungi form 45 to 50% of all fruit bodies found. In
+[[query-what-are-the-different-types-of-mycorrhizal-fungi]] form 45 to 50% of all fruit bodies found. In
 polluted stands, only about 10% were of mycorrhizal origin. Fellner and
 Peskova (1995) identified stages of forest decline according to the
 macrofungal ratio of saprotrophic to mycorrhizal forms.
@@ -60,7 +60,7 @@ of heavy metal ions in the rooting zone. Markkola and Ohtonen (1988)
 found that Piloderma, Dermocybe, Hebeloma, and "type 03"
 ectomycorrhizae were significantly reduced by acidifying pollutants,
 whereas Cenococcum increased. Dighton and Skeffington (1987) showed
-simulated acid rain changed the ectomycorrhizal community structure by
+simulated acid rain changed the ectomycorrhizal [[edaphic-determinants-cannabis-microbiome-community-structure]] by
 reducing multibranched morphotypes with large amounts of extraradical
 hyphae.
 
@@ -77,7 +77,7 @@ into polyphosphate droplets in fungal hyphae.
 In field fumigation experiments (McLeod et al., 1992) releasing SO2 and
 O3 over Scots pine, Sitka spruce, and Norway spruce, multivariate
 analysis revealed SO2 fumigation on Scots pine caused reduction in
-Paxillus involutus mycorrhizae. Paradoxically, fruit body surveys
+[[paxillus-involutus]] mycorrhizae. Paradoxically, fruit body surveys
 showed Paxillus involutus fruited more abundantly in high SO2 loading
 plots. In loblolly pine (Pinus taeda), ozone-tolerant provenances
 maintained more mycorrhizal fungal species than ozone-intolerant ones.
@@ -88,36 +88,3 @@ total phylloplane fungal populations on Sitka spruce, but O3 caused
 increase in fungi on Scots pine. There was no consistent trend in fungal
 response to pollutants; responses depended on biological factors such as
 host tree species and methodology used.
-
-## Lichen Responses to Acidifying Pollutants
-
-Lichens have long been known as sensitive pollution indicators.
-Species vary in tolerance to sulfur dioxide loading: Lecanora
-conizaeoides tolerates up to 150 mg per cubic meter, Parmelia caperata
-up to 40 mg per cubic meter, Usnea spp. up to 30 mg per cubic meter,
-and Ramalina fastigiata only 10 mg per cubic meter. Cyanobacterial
-lichens are especially sensitive to acid rain but are more tolerant of
-heavy metals and can be sole inhabitants of contaminated mire sites.
-
-Recently, recovery of lichen communities has been observed where
-industrialization has declined. Bates et al. (2001) recorded revival of
-Hypogymna physoides and Lepraria incana along a 70-km transect from
-central London. Lecanora conizaeoides appears to need low SO2 levels
-and is now found only at sites with above-ambient pollution.
-
-## Nitrogen Deposition
-
-Nitrogen deposition and forest soil saturation with N emerged as the
-most recent line of investigation. The combination of acidifying
-pollutants influences [[fungal-ecosystem-processes-overview]], and the relative contribution
-of each is not simple to tease apart, especially where they may have
-contrasting effects on [[ph-and-nutrient-availability-garden-soils]] in soil.
-
-## See Also
-
-- [[dighton-fungal-responses-climate-change]]
-- lichen-ecology-and-soil-formation
-- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
-- [[dighton-fungi-tropical-forest-ecosystems]]
-- [[ectomycorrhiza]]
-- [[lecanora-conizaeoides]]

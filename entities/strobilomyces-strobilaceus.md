@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Hall, I.R. et al. (2003). Edible and palmer-poisonous-mushrooms-deadly-species of the World. Timber Press.
+  - Hall, I.R. et al. (2003). Edible and [[palmer-poisonous-mushrooms-deadly-species]] of the World. Timber Press.
   - Kirk, P.M. et al. (2008). Dictionary of the Fungi, 10th Edition. CABI Publishing.
   - Arora, D. (1986). Mushrooms Demystified, 2nd Edition. Ten Speed Press.
   - Zhang, Y. et al. (2015). "Strobilomyces (Boletaceae): A New Species from China." Mycotaxon, 130(2), 497–505.
@@ -88,39 +88,6 @@ west to the Great Plains, fruiting from July through October.
 , it is found across the continent from Scandinavia to the
 Mediterranean, associated with oak, beech, and hornbeam forests.
 
-East Asian populations are documented in China, Japan, and Korea, where
-the species is commercially collected from the wild.
-
-The mushroom is ectomycorrhizal, forming associations primarily with
-oaks (Quercus spp.) and beeches (Fagus spp.), occasionally with other
-hardwoods and rarely with conifers.
-
-It prefers moist, well-drained forest soils rich in [[hamilton-composting-and-organic-matter-management]],
-often fruiting in groups or scattered on forest floors during warm, wet
-periods of late summer and early autumn.
-
-## Edibility and Culinary Use
-
-Strobilomyces strobilaceus is considered edible and choice by many
-foragers, with a mild, pleasant nutty flavor when properly prepared.
-
-The flesh is firm and does not dissolve during cooking, making it
-suitable for soups, stews, sautés, and drying.
-
-In China and Japan, the mushroom is sold in markets and valued for
-its texture and mild taste, often used in stir-fries and clear soups.
-
-Eastern European foragers also collect the species, where it is known
-as "baran grzyb" (mushroom ram) in Polish tradition.
-
-The mushroom must be thoroughly cooked before consumption — raw or
-undercooked specimens may cause mild gastrointestinal upset.
-
-Some fiel  ution that the dark pore surface and blackish
-[[boletus-edulis-entity]]
-- [[mushroom-toxicity-identification-warnings]]
-- mushroom cultivation-for-people-with-disabilities
-- ectomycorrhizal-fungi-and-which-plants-do-they-associate-with
-- mycoforestry-forest-management-with-fungi
 ## See Also
-- [[ectomycorrhiza]]
+- [[mixed-microbial-challenge-organisms-surface-sterilization-testing]]
+- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]

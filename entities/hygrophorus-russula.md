@@ -24,7 +24,7 @@ Hygrophorus russula, commonly known as the rosy waxy cap or Russula-like waxy
 cap, is a medium to large basidiomycete fungus in the family Hygrophoraceae.
 
 It is an obligate ectomycorrhizal associate of broadleaf trees, particularly
-oaks (Quercus spp.) and beech (Fagus sylvatica), forming prolific fruitings in
+oaks (Quercus spp.) and beech ([[fagus-sylvatica]]), forming prolific fruitings in
 warm, humid autumn conditions.
 
 Despite its waxy-cap affiliation, H. russula is one of the most robust and
@@ -43,7 +43,7 @@ European mycophagy traditions.
 - **Synonyms:**
   - Agaricus russula Schaeff. (1774)
   - Hygrophorus russula var. russula (Schaeff.) Quéél.
-  - Hygrophorus chrysodon var. russula (Schaeff.) R. Maire
+  - [[hygrophorus-chrysodon]] var. russula (Schaeff.) R. Maire
 
 ## Morphology
 
@@ -57,7 +57,7 @@ European mycophagy traditions.
   at the base, slightly tapering downward; surface smooth or finely
   fibrillose.
 - **Flesh:** White, firm, thick, unchanging on exposure.
-- **Spore print:** White.
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** White.
 - **Spores:** Ellipsoidal to broadly ellipsoidal, 6.5–9 × 4.5–6 µm,
   smooth, inamyloid.
 - **Taste and odor:** Mild, pleasant fungal odor; taste mild to faintly
@@ -74,11 +74,11 @@ It has also been reported from North Africa and parts of Asia Minor, though
 these records require molecular confirmation.
 
 The species is most common in warm, calcareous or neutral soils associated
-with mature oak (Quercus robur, Q. petraea, Q. ilex) and beech forests.
+with mature oak ([[quercus-robur]], Q. petraea, Q. ilex) and beech forests.
 
 It fruits from late summer through early winter (August–December), often
 forming large trooping groups or scattered clusters on forest floors with
-good leaf litter accumulation.
+good [[dighton-fungal-decomposition-leaf-litter-dynamics]] accumulation.
 
 ## Ecological Role
 
@@ -88,57 +88,3 @@ associations with the fine root systems of broadleaf trees.
 The fungal mantle surrounds root tips, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]: the
 fungus receives photosynthates from the host while delivering mineral
 nutrients (phosphorus, nitrogen, micronutrients) scavenged from soil.
-
-This relationship improves host tree [[dighton-fungal-drought-tolerance-plant-water-relations]] and disease resistance,
-making H. russula ecologically significant in oak-beech forest ecosystems.
-
-It contributes to soil aggregation and [[hamilton-composting-and-organic-matter-management]] cycling through its
-extensive extraradical [[gadd-mycelial-network-dynamics]].
-
-## Edibility and Culinary Use
-
-Hygrophorus russula is considered an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], among the
-most prized in the Hygrophoraceae family for its firm texture and mild flavor.
-
-In Italy, France, and Spain it is collected commercially and features in
-traditional autumn cuisine — often sautéed, preserved in oil, or used in
-risotto and pasta dishes.
-
-The thick, waxy gills hold their structure well during cooking, and the cap
-flesh remains firm and meaty even after prolonged heating.
-
-No cases of toxicity or adverse reactions have been documented, though as
-with all wild mushrooms, positive identification is essential before
-consumption.
-
-## Similar Species
-
-- **Hygrophorus latitabundus:** Grows under pines; cap more uniformly pink,
-  smaller stature, spores slightly narrower.
-- **Hygrophorus persoonii:** Southern European species under Quercus ilex;
-  cap more orange-pink, less robust fruiting body.
-- **Russula species:** Superficially similar cap coloration but Russula
-  spp. have brittle flesh and powdery gills, not waxy.
-- **Tricholoma roseoacerbum:** Oak associate with pinkish tones; has
-  farinaceous odor and different spore print color.
-
-## Permaculture and Agroforestry Applications
-
-Hygrophorus russula has potential value in temperate agroforestry and
-food-forest design where oak or beech are included as canopy or timber
-species.
-
-The mycorrhizal association it forms supports tree health and nutrient
-cycling, contributing to the overall productivity of polyculture systems.
-
-In established food forests with Quercus spp., the presence of H. russula
-indicates healthy soil biology and functional [[dighton-mycorrhizal-networks-carbon-transfer]].
-
-It can be introduced via spore slurries applied to oak seedling root zones
-at planting time, though commercial inoculum is not widely available.
-
-## See Also
-
-- [[cantharellus-cibarius-entity]]
-- [[lactarius-deliciosus]]
-- [[tricholoma-equestre]]

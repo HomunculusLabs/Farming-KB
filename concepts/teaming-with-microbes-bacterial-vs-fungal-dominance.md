@@ -21,11 +21,11 @@ Gardeners can shift soil toward bacterial or fungal dominance by choosing approp
 
 See also: [[teaming-with-microbes-fb-ratio]]
 - [[teaming-with-microbes-fungi]]
-- [[soil-food-web]]
+- [[soil-foodweb]]
 - [[ozier-pdc-composting-and-soil-building]]
 
 ## Merged: Earthworms and Vermicastings - Teaming with Microbes
-Earthworms are among the most visible and important members of the [[soil-food-web]] - [[teaming-with-microbes-protozoa]] - [[vermicomposting]]
+Earthworms are among the most visible and important members of the [[soil-foodweb]] - [[teaming-with-microbes-protozoa]] - [[vermicomposting]]
 ## Merged: Nitrogen Cycling and Plant Preferences - Teaming with Microbes
 Nitrogen is the basic building block of amino acids and therefore of life. The [[teaming-with-microbes-protozoa-and-nematodes]] eat the bacteria and fungi, some nitrogen is retained by the predator, but much is released as waste in plant-available ammonium (NH4+). Contrast this with [[cervantes-chemical-fertilizers-guide]]: a tiny bit hits the root-exudates|rhizosphere where it is absorbed, but most drains through soil until it hits the water table. Related: Earthworms, [[mulching-guide]], [[teaming-with-microbes-no-till-benefits]]
 ## Merged: Weed Ecology and the Soil Food Web - Teaming with Microbes
@@ -87,23 +87,3 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

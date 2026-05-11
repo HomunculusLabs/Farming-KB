@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Jermy, A.C. et al. (1982). Sedges of the British Isles. Botanical Society of the British Isles.
-  - Flora of North America Editorial Committee (2002). Flora of North America North of Mexico, Vol. 23. Oxford University Press.
+  - Flora [[berry-growing]] Editorial Committee (2002). Flora of North America North of Mexico, Vol. 23. Oxford University Press.
   - Wheeler, G.A. (2006). "Rhynchospora." In Flora of North America. Oxford University Press.
   - Vitt, D.H. (1994). "Peatlands of Western Canada." In Wetlands of Canada. Environment Canada.
   - Charman, D.J. (2002). Peatlands and Environmental Change. John Wiley and Sons.
@@ -54,7 +54,7 @@ Rhynchospora alba has a circumboreal distribution, occurring across northern Eur
 
 In Europe, it ranges from Scandinavia and the British Isles south to the Pyrenees and the Balkans.
 
-In North America, it occurs from Alaska across Canada to Newfoundland, and south in the eastern United States to New Jersey and in the mountains to North Carolina.
+In North America, it occurs from Alaska across Canada to Newfoundland, and south in the eastern [[dmt-containing-plants-united-states-halpern]] to New Jersey and in the mountains to [[north-carolina-mycodiversity]].
 
 The species is most abundant in northern peatland regions including the Hudson Bay Lowlands, the Scandinavian peninsula, and the British moorlands.
 
@@ -70,7 +70,7 @@ Water levels are typically at or near the soil surface, though the species toler
 
 Rhynchospora alba is a dominant component of peatland vegetation in many boreal and subarctic regions.
 
-The species contributes to peat accumulation through the deposition of partially decomposed organic matter from its rhizomes and culms.
+The species contributes to peat accumulation through the deposition of partially decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] from its rhizomes and culms.
 
 It provides habitat structure in open peatlands, offering perching sites for insects and nesting material for birds.
 
@@ -82,39 +82,8 @@ The dense tussocks help stabilize peat surfaces and reduce erosion in wetland ma
 
 In peatland succession, R. alba is characteristic of intermediate to late successional stages in open bog communities.
 
-The species plays a role in peatland carbon sequestration, contributing to the long-term storage of atmospheric carbon in peat deposits.
+The species plays a role in peatland [[gadd-fungal-carbon-sequestration]], contributing to the long-term storage of atmospheric carbon in peat deposits.
 
 ## Conservation Status
 
 Rhynchospora alba is considered secure across most of its global range, with no significant population-level threats identified.
-
-However, peatland drainage and conversion to agriculture or forestry have reduced the species' habitat in many regions.
-
-In western and central Europe, extensive peatland loss over the past several centuries has led to regional declines in R. alba populations.
-
-Climate change poses a long-term threat to peatland communities through altered hydrology, warming temperatures, and increased fire frequency.
-
-The species is protected under various national and regional conservation programs that target peatland preservation.
-
-Peatland restoration efforts that re-establish natural hydrology often benefit R. alba, which can recolonize restored sites within several years.
-
-## Related Species
-
-Rhynchospora alba is closely related to Rhynchospora fusca, with which it often co-occurs in peatland communities.
-
-R. fusca can be distinguished by its darker, brownish tubercles and slightly more robust growth form.
-
-Other peatland associates include Rhynchospora capitata and Rhynchospora alba var. kralii, a taxonomic variety described from the southeastern United States.
-
-The genus Rhynchospora is most diverse in tropical wetlands, but R. alba is one of the few species adapted to cold temperate and boreal peatlands.
-
-## See Also
-
-- [[carex-stricta]]
-- [[cyperus-papyrus]]
-- [[schoenoplectus-lacustris]]
-- [[typha-latifolia]]
-- [[phragmites-australis]]
-- [[juncus-effusus]]
-- [[juncus-bufonius]]
-- [[eleocharis-acicularis]]

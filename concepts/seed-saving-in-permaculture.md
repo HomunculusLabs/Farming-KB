@@ -5,14 +5,15 @@ updated: 2026-04-19
 type: concept
 tags: [seeds, gardening]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
-**Source:** Permaculture: A Designer's Manual (Bill Mollison, Ch. 12) | **Updated:** 2026-04-18
+**Source:** Permaculture: A Designer's Manual ([[bill-mollison]], Ch. 12) | **Updated:** 2026-04-18
 
 ## Overview
 
-Seed saving is a critical act of resistance against corporate control of food systems. The 20-30 basic food crop seeds (grains and [[query-best-grain-legumes-for-a-small-homestead]]) are subject to concerted efforts at total control by agro-chemical multinationals. Permaculture advocates for local seed sovereignty through exchanges, libraries, and open-pollinated non-patented seed networks. See also [[seed-saving-vegetables]], and community-economics-in-permaculture
+[[biointensive-seed-saving]] is a critical act of resistance against corporate control of food systems. The 20-30 basic food crop seeds (grains and [[query-best-grain-legumes-for-a-small-homestead]]) are subject to concerted efforts at total control by agro-chemical multinationals. Permaculture advocates for local seed sovereignty through exchanges, libraries, and open-pollinated non-patented seed networks. See also [[seed-saving-vegetables]], and community-economics-in-permaculture
 - Local seed networks form part of village-development-in-permaculture
 - Combined with [[seed-saving-techniques]]
 - community-economics-in-permaculture
@@ -36,7 +37,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,19 +87,4 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[bill-mollison]]
-- [[permaculture-seed-saving-and-selection]]
-- [[permaculture-seed-saving-breeding]]
-- [[permaculture-seed-saving-networks]]
-- [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the

@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Mulberry (Morus spp)
 ## Description
@@ -87,47 +88,3 @@ tree's deep root system allows it to access subsoil moisture and
 nutrients, making it productive during droughts that devastate shallow-
 rooted pasture grasses. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], mulberry serves as a
 classic example of a [[mollison-designers-chestnut-as-multipurpose-tree-crop]] that simultaneously produces
-fruit, fodder, timber, and shade while improving soil through leaf
-[[dighton-pine-needle-litter-decomposition-fungal-succession]] and root penetration.
-
-## Pest and Disease Management
-
-Mulberries are relatively disease-resistant compared to many fruit
-trees, but several pests and pathogens merit attention. The mulberry
-whitefly and [[cervantes-spider-mites-identification-control]] can defoliate young trees during hot, dry
-periods, though established trees generally recover. Root-knot
-nematodes may attack roots in sandy soils, making [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
-with marigolds or rotation with non-host crops a useful strategy. In
-humid climates, fungal leaf spot diseases including Cercospora and
-Pseudomonas bacterial blight can reduce photosynthetic area. Pruning
-to maintain open canopy airflow is the primary cultural control. Birds
-are the most significant pest during fruiting, eagerly consuming ripe
-berries. Netting is effective for small plantings, while in larger
-systems the strategy is to plant enough trees to share the harvest
-with wildlife. Mulberry's vigorous growth means it outpaces most pest
-damage once established, embodying the permaculture principle of
-designing for resilience rather than eradication.
-
-## Culinary and Medicinal Applications
-
-Beyond fresh eating, mulberries have a rich history of culinary use.
-In Central Asia and the Middle East, dried mulberries are a staple
-trade commodity, valued for their concentrated sweetness and long
-shelf life. Mulberry jam, wine, vinegar, and leather are traditional
-preservation methods that extend the harvest well beyond the fresh
-season. The fruit can also be frozen with minimal quality loss. In
-traditional Chinese medicine, mulberry leaves are used to treat fever,
-sore throat, and diabetes, with modern research supporting their
-hypoglycaemic effects. White mulberry leaf extracts contain
-1-deoxynojirimycin (DNJ), a compound that inhibits alpha-glucosidase
-and slows carbohydrate absorption. Mulberry root bark (Sang Bai Pi)
-is used in traditional medicine as an anti-inflammatory and diuretic.
-These multiple medicinal applications reinforce mulberry's status as
-a truly multipurpose species in permaculture and agroforestry systems.
-
-## See Also
-- [[permaculture-guild-design]]
-- [[permaculture-animal-integration]]
-- [[permaculture-multipurpose-trees]]
-- [[permaculture-livestock-forage-systems]]
-- [[permaculture-fruit-tree-guide]]

@@ -1,5 +1,5 @@
 ---
-title: Biochar in Agriculture
+title: Biochar In Agriculture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Biochar in Agriculture
 
-Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
+Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in [[biochar]].
 
 ## Biochar Production
 
@@ -95,7 +95,7 @@ Never use treated wood, painted wood, plastic, or glossy paper as biochar feedst
 
 ## Charging Biochar with Nutrients
 
-Fresh biochar has an extremely high cation exchange capacity (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary nutrient deficiency for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
+Fresh biochar has an extremely high [[cation-exchange-capacity]] (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary [[cannabis-grow-nutrient-deficiency-problem-solving]] for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
 
 ### Compost Charging (Recommended)
 
@@ -144,7 +144,6 @@ Biochar's high surface area and negative charge attract and hold positively char
 
 ### Microbial Habitat
 
-Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. Mycorrhizal fungi colonize biochar surfaces, using it as a substrate for hyphal growth and nutrient exchange. See microbes for more on soil biology.
+Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. Mycorrhizal fungi colonize biochar surfaces, using it as a substrate for hyphal growth [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. See microbes for more on soil biology.
 
 ### pH Buffering
-

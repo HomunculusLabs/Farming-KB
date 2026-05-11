@@ -1,5 +1,5 @@
 ---
-title: Inocybe aeruginascens — Neurotropic Cortinariaceae Species
+title: Inocybe Aeruginascens Neurotropic Cortinariaceae Guzman 1998
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 author: Guzmán, Allen & Gartz (1998)
 type: concept
@@ -32,7 +32,7 @@ According to Guzmán, Allen & Gartz (1998), I. aeruginascens has been documented
 - **Germany:** Reported from forested areas, particularly in association with deciduous trees.
 - **Other European countries:** Possible distribution in central and eastern European forests, though confirmed records are limited.
 
-The species is considered European in distribution, fitting within the temperate zone pattern for many Inocybe species. Its range is likely broader than currently documented, as Inocybe is an under-surveyed genus that requires microscopic examination for reliable species identification.
+The species is considered European in distribution, fitting within the temperate zone pattern for many Inocybe species. Its range is likely broader than currently documented, as Inocybe is an under-surveyed genus that requires [[fungal-microscopic-examination-mounting-media-techniques]] for reliable species identification.
 
 ## Habitat and Ecology
 
@@ -43,7 +43,7 @@ Inocybe aeruginascens is an ectomycorrhizal species, forming symbiotic associati
 - **Substrate:** Always found growing on soil in association with living tree roots, never on wood or dung.
 - **Season:** Autumn fruiting, typically September through November in central Europe, coinciding with the general Inocybe fruiting period.
 
-The ectomycorrhizal habit distinguishes I. aeruginascens from the majority of neurotropic fungi in genera such as Psilocybe and Panaeolus, which are predominantly saprotrophic. This ecological difference has important implications for cultivation — mycorrhizal species are extremely difficult to cultivate artificially because they require a living host tree for nutrition.
+The ectomycorrhizal habit distinguishes I. aeruginascens from the majority [[distribution-of-neurotropic-fungi]] in genera such as Psilocybe and Panaeolus, which are predominantly saprotrophic. This ecological difference has important implications for cultivation — mycorrhizal species are extremely difficult to cultivate artificially because they require a living host tree for nutrition.
 
 ## Morphological Characteristics
 
@@ -58,14 +58,14 @@ Inocybe aeruginascens shares the general morphological features of the genus Ino
 
 ## Chemical Profile
 
-I. aeruginascens is confirmed to contain the following tryptamine alkaloids:
+I. aeruginascens is confirmed to contain the following [[hplc-analysis-of-tryptamine-alkaloids]]:
 
 - **Psilocybin** (4-PO-DMT) — primary psychoactive compound
 - **Psilocin** (4-HO-DMT) — active metabolite, present in smaller quantities
 - **Baeocystin** — minor constituent
 - **Norbaeocystin** — trace amounts
 
-Gartz (1986e) was among the researchers who investigated the chemical constituents of neurotropic Inocybe species, confirming the presence of psilocybin in I. aeruginascens. The species is listed alongside I. coelestium, I. corydalina, I. haemacta, and I. tricolor as the five Inocybe species in the Guzmán, Allen & Gartz (1998) checklist confirmed or suspected to contain psilocybin.
+Gartz (1986e) was among the researchers who investigated the [[guzman-magic-mushrooms-chemical-constituents]] of [[guzman-allen-gartz-neurotropic-inocybe-species]], confirming the presence of psilocybin in I. aeruginascens. The species is listed alongside I. coelestium, I. corydalina, I. haemacta, and I. tricolor as the five Inocybe species in the Guzmán, Allen & Gartz (1998) checklist confirmed or suspected to contain psilocybin.
 
 ## Neurotropic Inocybe Species Comparison
 
@@ -88,35 +88,3 @@ A critical safety concern with I. aeruginascens is the potential for confusion w
 - Lacrimation (tearing)
 - Blurred vision
 - Abdominal cramps, nausea, vomiting, and diarrhea
-- Bradycardia (slow heart rate)
-- In severe cases: respiratory distress and hypotension
-
-The bluing reaction of I. aeruginascens provides a diagnostic feature that can help distinguish it from non-bluing, muscarine-containing Inocybe species. However, reliance on bluing alone is dangerous, as some Inocybe species may show weak or delayed bluing reactions, and field identification of Inocybe species generally requires microscopic examination of spore morphology and cystidia.
-
-## Identification Challenges
-
-Inocybe is widely considered one of the most difficult mushroom genera for field identification. Key challenges include:
-
-1. **Subtle morphological differences:** Many species are similar in appearance and require microscopic examination for reliable determination.
-2. **Variability:** Cap color, size, and other features vary considerably with age, moisture, and growing conditions.
-3. **Lack of common names:** Few Inocybe species have established common names, and none are widely known among amateur mycologists.
-4. **Danger of misidentification:** The consequences of confusing a psilocybin-containing Inocybe with a muscarine-containing one range from unpleasant (gastrointestinal distress) to potentially dangerous (requiring medical intervention with atropine).
-
-For these reasons, Guzmán, Allen & Gartz (1998) and other authorities caution against recreational foraging for Inocybe species, even those known to contain psilocybin.
-
-## Research Significance
-
-I. aeruginascens is significant for several areas of mycological and pharmacological research:
-
-- **Evolutionary convergence:** The independent evolution of psilocybin production in Inocybe (Cortinariaceae) versus Psilocybe (Strophariaceae) represents an example of convergent evolution in secondary metabolite biosynthesis.
-- **Ecological chemistry:** The production of psilocybin by a mycorrhizal species raises questions about the ecological function of these compounds in soil environments and plant-fungal interactions.
-- **Phylogenetics:** Molecular phylogenetic studies of psilocybin biosynthesis genes across distantly related genera may reveal horizontal gene transfer or deep evolutionary conservation of the biosynthetic pathway.
-
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-inocybe-species]]
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
-- [[conocybe-cyanopus-profile]]
-- [[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
-- [[guzman-allen-gartz-four-chemical-groups-neurotropic-fungi]]
-- [[psilocybe-semilanceata-temperate-cosmopolitan-distribution]]

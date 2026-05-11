@@ -1,5 +1,5 @@
 ---
-title: What Is [[biochar]] and How Should I Use It in My Garden?
+title: Query What Is Biochar And How Should I Use It In My Garden
 created: 2026-04-28
 tags: permaculture, soil-health, organic-farming, biochar, carbon-sequestration]
 date: 2026-04-28
@@ -15,9 +15,9 @@ Biochar is a carbon-rich, porous material produced by heating organic biomass (w
 
 Biochar's value comes from its physical and chemical properties:
 
-- **Porosity**: A single gram of biochar can have a surface area of 300 to 1,500 square meters, providing habitat for beneficial soil microorganisms and mycorrhizal fungi
-- **Nutrient retention**: Biochar's negative surface charge (cation exchange capacity) attracts and holds positively charged nutrients like calcium, magnesium, potassium, and ammonium, reducing leaching
-- **Water holding capacity**: Biochar absorbs several times its weight in water, then slowly releases it to plant roots, improving drought resilience
+- **Porosity**: A single gram of biochar can have a surface area of 300 to 1,500 square meters, providing [[query-how-do-i-design-habitat-for-beneficial-insects]] soil microorganisms and mycorrhizal fungi
+- **Nutrient retention**: Biochar's negative surface charge ([[cation-exchange-capacity]]) attracts and holds positively charged nutrients like calcium, magnesium, potassium, and ammonium, reducing leaching
+- **[[pf-tek-vermiculite-type-comparison-water-holding-capacity]]**: Biochar absorbs several times its weight in water, then slowly releases it to plant roots, improving drought resilience
 - **Longevity**: Unlike compost, which decomposes within months to a few years, biochar persists in soil for hundreds to thousands of years
 - **Carbon sequestration**: The carbon in biochar is chemically stable and resists decomposition, making it one of the most effective ways to lock atmospheric carbon into the ground
 
@@ -32,7 +32,7 @@ Raw biochar straight from the kiln is **not** ready for your garden. Fresh bioch
 **Charging** saturates the biochar's pores with nutrients and beneficial biology before it enters your soil:
 
 - **Compost charging**: Mix biochar 50/50 with finished compost for 2 to 4 weeks — the most common and reliable method
-- **Compost tea soaking**: Steep biochar in aerated compost tea for 24 to 48 hours for quick microbial loading
+- **Compost tea soaking**: Steep biochar in [[actively-aerated-compost-tea-aact-brewing]] for 24 to 48 hours for quick microbial loading
 - **Manure charging**: Mix biochar with aged animal manure and compost together
 - **Liquid nutrient charging**: Soak in liquid fish emulsion, kelp extract, or worm casting tea for 24 hours
 - **Urine charging**: Dilute human urine 10:1 with water and soak biochar for several days
@@ -65,7 +65,7 @@ Gardeners and researchers have documented a range of benefits from consistent bi
 
 ## Biochar in Different Growing Systems
 
-**Traditional soil gardens**: Mix into beds during initial setup and add small amounts annually. **Raised beds**: Blend at 5 to 10% by volume during construction. **Containers**: Add 5 to 10% to any potting mix for improved aeration, water retention, and nutrient availability. **Cannabis cultivation**: Biochar pairs exceptionally well with living soil and no-till systems. The enhanced microbial habitat supports the diverse soil food web that living soil depends on. The [[cannabis-living-soil-amendment-schedule]] can be adapted to include biochar as a baseline amendment. **Permaculture food forests**: Incorporate into planting holes for trees and shrubs, or add to hugelkultur mounds. **Composting**: Adding 5 to 10% biochar reduces ammonia odor, retains nitrogen, and produces richer finished compost.
+**Traditional soil gardens**: Mix into beds during initial setup and add small amounts annually. **Raised beds**: Blend at 5 to 10% by volume during construction. **Containers**: Add 5 to 10% to any potting mix for improved aeration, water retention, [[ph-and-nutrient-availability-garden-soils]]. **Cannabis cultivation**: Biochar pairs exceptionally well with living soil and no-till systems. The enhanced microbial habitat supports the diverse soil food web that living soil depends on. The [[cannabis-living-soil-amendment-schedule]] can be adapted to include biochar as a baseline amendment. **[[nut-tree-cultivation-for-permaculture-food-forests]]**: Incorporate into planting holes for trees and shrubs, or add to hugelkultur mounds. **Composting**: Adding 5 to 10% biochar reduces ammonia odor, retains nitrogen, and produces richer finished compost.
 
 ## Biochar and the Soil Food Web
 

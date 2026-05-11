@@ -88,12 +88,3 @@ Organic pest management relies on prevention first, then biological controls, ph
 ### Disease Control
 - **Copper fungicide** (Bordeaux mix): Prevents blight, canker, leaf spot. Some soil accumulation — use sparingly
 - **Sulfur**: Controls [[cervantes-powdery-mildew-prevention-treatment]], rust. Can't use within 2 weeks of oil sprays
-- **Potassium bicarbonate**: Changes leaf surface pH, inhibits spore germination
-- **Baking soda spray** (1 tbsp/gallon + drop of soap): Mildew prevention
-- **Milk spray** (1:10 dilution): Suppresses powdery mildew
-
-## Related
-- [[companion-planting-reference]] — for detailed companion planting tables
-- [[fungal-pathogens-in-agriculture]] — for understanding plant diseases
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
 ---
@@ -87,17 +88,3 @@ bioavailability for fungal uptake and sequestration. They can also
 detoxify the fungal cytoplasm by binding excess metal ions. In
 contaminated soils, siderophore-producing fungi may facilitate
 phytoextraction of metals by plants, representing a synergistic
-bioremediation strategy.
-
-## Siderophores and Plant Nutrition
-
-Mycorrhizal fungi transfer iron acquired through siderophores to their
-host plants, supplementing the plant's own iron acquisition strategies
-(strategy I and strategy II mechanisms). [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi
-can deliver up to 90 percent of a plant's iron requirements under
-deficient conditions. The siderophore-mediated iron transfer occurs
-across the fungal-plant interface, likely involving reduction of Fe3+
-at the peri-arbuscular membrane. This nutritional benefit is one of the
-key components of [[singh-fungal-plant-growth-promoting-mechanisms]]
-- [[singh-wood-rot-fungi-structural-timber-decay]]
-- [[mycoremediation-pahs]]

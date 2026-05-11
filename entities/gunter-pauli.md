@@ -10,7 +10,7 @@ tags: [person, sustainability, blue-economy, circular-economy, zeri, ecological-
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/fungal-roles-in-mass-extinction-recovery.md
+  - /Users/t3rpz/wiki/concepts/[[fungal-roles-in-mass-extinction-recovery]].md
   - /Users/t3rpz/wiki/concepts/fungi-sustainable-packaging-and-materials.md
   - https://en.wikipedia.org/wiki/Gunter_Pauli
 ---
@@ -80,7 +80,7 @@ Spent grain, coffee pulp, straw, sawdust, and forest thinnings can all become fu
 substrates.
 After mushrooms fruit, the remaining substrate may feed animals, worms, compost,
 biogas systems, or soil organisms.
-This makes Pauli's work a useful bridge between applied mycology and regional economic
+This makes Pauli's work a useful bridge between applied [[mycology]] and regional economic
 development.
 
 ## Connection to This Wiki
@@ -88,12 +88,3 @@ The concept page fungi-sustainable-packaging-and-materials uses ZERI as a framew
 turning fungal and plant materials into sustainable products.
 These pages treat Pauli as a connector between mycology, [[permaculture-food-waste-cycling]], and industrial
 design.
-A dedicated entity page helps link those scattered references.
-
-## Brewery Cascade
-One ZERI-style example associated with this wiki is the brewery cascade.
-Spent grain from brewing can become substrate for [[query-how-to-grow-oyster-mushrooms-at-home]] such as
-[[zero-emissions-research-and-initiatives]]
-- blue economy
-- [[fungal-roles-in-mass-extinction-recovery]]
-- [[oyster-mushroom-spent-substrate-recycling]]

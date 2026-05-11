@@ -1,5 +1,5 @@
 ---
-title: "[[mycelium]] and Soil Building"
+title: Mycelium Running Mycelium Soil Building
 created: 2026-04-28
 tags: [mycology, soil-science, fungal-ecology, decomposition]
 date: 2026-04-25
@@ -9,13 +9,13 @@ type: concept
 ---
 # Mycelium and Soil Building
 Mycelium is the primary architect of healthy soils, functioning as a
-cellular net that catches particles, digests organic matter, and creates
+cellular net that catches particles, digests [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], and creates
 microcavities that fill with air or water to provide buoyant, aerobic
 infrastructures with vast surface areas.
 More than a mile of threadlike mycelial cells can infuse a single gram of
 soil. These fine filaments are the foundation upon which complex soil
 ecosystems are constructed, supporting plant growth, microbial diversity,
-and nutrient cycling.
+[[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ## The Mycelial Membrane
 
@@ -28,7 +28,7 @@ Water runoff, rich in organic debris, percolates through the cellular
 mesh and is cleansed. When water is not flowing, the mycelium channels
 moisture from afar through its advancing fingerlike cells.
 The [[gadd-mycelial-network-dynamics]] is composed of a membrane of interweaving,
-continuously branching cell chains, only one cell wall thick. This
+continuously branching cell chains, only one [[chitin-chitosan-fungal-cell-wall]] thick. This
 architecture is amazing as an evolutionary strategy: one cell wall thick,
 in direct contact with myriad hostile organisms, and yet so pervasive
 that a single cubic inch of topsoil contains enough fungal cells to
@@ -65,12 +65,12 @@ be taxed beyond its abilities, losing its grip on its homestead. As the
 mycelium dies back, its cellular architecture breaks apart, and soil
 cohesion also declines.
 A large portion, one-tenth to one-fifth, of the total biomass in the
-topsoil of a healthy Douglas fir forest in the [[psilocybin-north-america-pacific-northwest]] may be
+topsoil of a healthy [[douglas-fir]] forest in the [[psilocybin-north-america-pacific-northwest]] may be
 made up of mycelium, and even more if endomycorrhizae and ectomycorrhizae
 that thrive in the canopy are included. Year-round, fungi decompose and
 recycle plant debris, filter microbes and sediments from runoff, and
 restore soil. In the end, life-sustaining soil is created from debris,
-particularly dead wood.
+particularly [[fungal-dead-wood-diversity]].
 
 ## Nutrient Cycling Through Mycelium
 
@@ -87,63 +87,4 @@ decomposition.
 
 ## No-Till Farming and Mycelium
 
-Organic farming practices that preserve [[fungal-mycelial-networks-nutrient-translocation]] use one-half to
-two-thirds of the energy consumed in [[microwave-sterilization-versus-conventional-methods-comparison]]. They cut
-pesticide use by 97 percent, resulting in healthier soils with better
-diversities and numbers of beneficial organisms such as fungi, earthworms,
-beetles, and wild plants.
-Although initial yields may be 10 to 20 percent less, a subsequent
-increase of 15 percent was seen as soils adapted to the no-till nutrient
-cycles. Less fertilizer is needed, soil is built, water infiltration
-improves, and less runoff and erosion occurs.
-
-## Mycelium in Compost Systems
-
-Mycelium plays a central role in the decomposition phase of
-[[composting]] systems. As organic materials break down, fungal hyphae
-permeate the compost matrix, binding particles together and accelerating
-the conversion of raw organic matter into stable humus.
-
-### The Fungal Decomposition Cascade
-
-In a healthy compost pile, bacteria dominate the initial heating phase,
-followed by fungi as temperatures moderate. Fungal decomposers
-specialize in breaking down tough, lignin-rich materials such as wood
-chips, woody stems, and paper products that bacteria cannot process
-alone. Species such as [[stropharia-rugosoannulata]] (king stropharia)
-are particularly effective at colonizing woody debris in outdoor compost
-systems.
-
-### Inoculating Compost with Mycelium
-
-Gardeners can accelerate compost decomposition by inoculating piles with
-spawn of suitable decomposer fungi. [[oyster-mushroom-spawn-preparation]] (Pleurotus
-species) added to straw or wood chip layers speeds breakdown and produces
-edible mushrooms as a secondary yield. King stropharia spawn introduced
-into woody compost piles converts debris into rich fungal compost within
-6 to 12 months.
-The resulting mycelium-rich compost contains higher populations of
-[[forest-and-bamboo-beneficial-microorganisms]], improved water-holding capacity, and more
-available nutrients compared to purely bacterial compost. This fungal
-compost is particularly valuable as a mulch or soil amendment around
-fruit trees and perennial plants.
-
-### Sheet Mulching with Fungal Inoculants
-
-Sheet mulching (lasagna gardening) can be enhanced by incorporating
-myceliated materials between layers. Wood chips inoculated with decomposer
-fungi placed beneath cardboard or newspaper layers create a living fungal
-mat that gradually breaks down the sheet mulch from below, converting it
-directly into soil without turning or tilling.
-
-## Practical Applications for Gardeners
-
-Home gardeners and small-scale farmers can leverage mycelial soil
-building through several accessible techniques that require no specialized
-equipment.
-
-### Mycomulching
-
-## See Also
-
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
+[[coleman-deep-organic-farming]] practices that preserve [[fungal-mycelial-networks-nutrient-translocation]] use one-half to

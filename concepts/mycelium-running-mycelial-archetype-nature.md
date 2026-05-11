@@ -88,38 +88,3 @@ of tons in mass, and thousands of years old. A single cubic inch of topsoil
 contains enough fungal cells to stretch more than 8 miles if placed end to end.
 
 ## Biomimicry and Applications
-
-The mycelial archetype has inspired numerous fields of human innovation.
-Computer scientists study fungal network topology to improve distributed
-computing resilience. Urban planners reference mycelial growth patterns when
-designing transportation and utility networks.
-
-Materials scientists have developed mycelium-based composites for packaging,
-insulation, and even [[natural-building-materials-guide]] that are biodegradable and require
-minimal energy to produce. In , researchers study how
-mycelial networks self-organize, optimize resource transport, and maintain
-system integrity despite local damage.
-
-The concept of [[mycelium-as-natures-internet]] has become a foundational
-metaphor for understanding distributed biological intelligence. These
-principles translate directly to engineering challenges in network design,
-disaster resilience planning, and adaptive systems architecture, demonstrating
-the practical value of studying biological pattern languages.
-
-## Key Principles
-
-- **Archetypal form**: The branching net pattern recurs across scales from
-  mycelium to galaxies as an energy-efficient organizational strategy
-- **Information sharing**: Mycelial membranes function as biological networks
-  that sense and respond to environmental change at the molecular level
-- **Evolutionary success**: The one-cell-wall-thick mycelial architecture has
-  persisted for over a billion years
-- **Universal connectivity**: A single cubic inch of topsoil contains enough
-  fungal cells to stretch more than 8 miles
-
-## See Also
-
-- [[mycelium-running-stamets-fungal-ecology-networks]]
-- [[mycorrhizal-networks]]
-- [[decomposition]]
-- [[mycelium-network-intelligence]]

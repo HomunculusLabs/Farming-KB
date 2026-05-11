@@ -1,5 +1,5 @@
 ---
-title: Cannabis cervantes seed population types ibl hybrid Types
+title: [[cervantes-seed-germination]] Population Types Ibl Hybrid
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -53,14 +54,14 @@ An F1 hybrid population is obtained by crossing two unrelated, true-
 breeding varieties. F1 hybrids are uniform when grown from seed but are
 genetically unstable. If reproduced sexually by inbreeding within the
 F1 population, the subsequent generation will be neither uniform nor
-similar to the F1 generation. Examples include 'Northern Lights' x
+similar to the F1 generation. Examples include '[[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x
 'Haze' and 'Frostbite'.
 
 ### 3-Way Crosses
 
 Three-way crosses involve three parent populations. 'Skunk #1' is an
 example: (Mexican x Columbian) x Afghani. DJ Short's 'Blueberry' is
-another well-known 3-way cross. These offer more genetic diversity than
+another well-known 3-way cross. These offer more [[biodiversity-fungal-genetic-diversity]] than
 simple F1 crosses but are less uniform.
 
 ### Double Cross Hybrids
@@ -87,42 +88,3 @@ defining characteristics of the "strain." Perhaps "family" or "group"
 are more appropriate terms.
 
 ## Variety and Cultivar
-
-A variety is a subdivision of a kind, group, or family that is distinct
-in some characters. Within the variety, all plants exhibit a set of
-defined morphological, physiological, or other chemical characteristics
-that differentiate the variety from all other varieties. The variety
-must be uniform and remain unchanged to a reasonable degree of
-reliability in its essential characteristics when reproduced.
-
-A cultivar (abbreviated cv) is derived from "cultivated variety" -- a
-population of cultivated plants clearly distinguished by any number of
-morphological, physiological, cytological, or chemical characteristics.
-New selections derived from a cultivar that show sufficient variation
-from the parent to render them worthy of a name are regarded as a
-distinct cultivar. Per the Guidelines for Classifying Cultivated Plants
-(1978), variety and cultivar are considered equivalents.
-
-## Multi-Line Varieties
-
-Multi-line varieties consist of two or more pure breeding lines which
-are very similar but differ in a small part of the overall phenotype
-(e.g., maturation time or disease resistance). The varieties are grown
-and bred separately but subsequently mixed together and sold in the same
-seed package.
-
-Multi-lines are beneficial when the [[cannabis-growing-environment-setup]] is inconsistent
-from year to year, or for growers experimenting in new locations. They
-ensure at least some harvest even in challenging years where only early
-varieties finish or mold is prevalent.
-
-## Synthetic Varieties
-
-A synthetic variety is an interbreeding population derived from inter-
-mating a group of specific genotypes, each selected for good combining
-ability in all possible hybrid combinations. Subsequent maintenance is
-achieved by [[cervantes-hybrid-varieties-types]]
-
-- [[cervantes-backcross-breeding-methods]]
-- [[cervantes-open-pollinated-heirloom-seeds]]
-- [[cervantes-selfing-single-seed-descent]]

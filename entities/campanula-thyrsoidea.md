@@ -57,7 +57,7 @@ Campanula thyrsoidea is native to the **Pyrenees** (France and Spain), the **Can
 
 It grows at elevations of **1,000–2,400 m**, occupying rocky meadows, limestone scree slopes, cliff ledges, and stony alpine pastures. The species shows a preference for calcareous substrates.
 
-Habitat associates include *Gentiana lutea*, *Narcissus poeticus*, *Poa alpina*, and other species of Pyrenean alpine meadow communities. It grows in areas with reliable snow cover and moderate summer rainfall.
+Habitat associates include *[[gentiana-lutea]]*, *[[narcissus-poeticus]]*, *Poa alpina*, and other species of Pyrenean alpine meadow communities. It grows in areas with reliable snow cover and moderate summer rainfall.
 
 The species often grows in association with *Eryngium bourgatii* and *Astrantia major* in the Pyrenean subalpine zone, forming part of a distinctive assemblage of southwestern European montane species.
 
@@ -77,45 +77,14 @@ Campanula thyrsoidea is cultivated as an ornamental perennial, valued for its ar
 
 As a biennial or short-lived perennial, the plant will self-seed freely in suitable conditions. Allow some flower heads to set seed to maintain the garden population.
 
-Seed requires a period of cold stratification and germinates best when sown fresh in autumn. Germination rates are typically 60–80% under controlled conditions.
+Seed requires a period of cold stratification and germinates best when sown fresh in autumn. Germination rates are typically 60–80% under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
-The tall flower spikes are striking in the middle to back of a perennial border or rock garden. They combine well with other Pyrenean species and alpine plants that share similar drainage requirements.
+The tall flower spikes are striking in the middle to back of a perennial border or [[hamilton-rock-garden-design]]. They combine well with other Pyrenean species and alpine plants that share similar drainage requirements.
 
-Slugs and snails can damage young rosettes in spring, requiring protection in wet garden situations.
+[[jadam-pesticide-for-slugs-and-snails]] can damage young rosettes in spring, requiring protection in wet garden situations.
 
 The species has been grown in European botanic gardens since the 18th century and was featured prominently in Victorian alpine collections. It remains a staple of European rock-garden displays.
 
 ## Ecological Role and Conservation
 
-In its native Pyrenean and Cantabrian habitats, Campanula thyrsoidea is a component of species-rich alpine meadow communities. The dense flower spikes attract a range of pollinators including bumblebees and solitary bees.
-
-The sequential opening of flowers from bottom to top ensures a prolonged pollen and nectar availability, supporting pollinator populations throughout the mid-summer period when few other alpine species are still in peak flower.
-
-The species is classified as **Least Concern** at the European level. Localized threats include overgrazing by livestock in alpine pastures and habitat disturbance from ski area development.
-
-In France, the species is protected in several regional national parks including the Pyrénées National Park, where its habitat is actively managed to maintain alpine meadow diversity.
-
-Climate change may affect the species by shifting suitable habitat upward, though its broad elevational range (1,000–2,400 m) provides some buffer against warming compared to narrowly restricted high-alpine endemics.
-
-## Related Species
-
-Campanula thyrsoidea is closely related to other yellowish-flowered European *Campanula* species, including *Campanula ochroleuca* of the Balkans. These species represent independent evolutionary transitions from blue to yellow/cream flower color within the genus.
-
-It can be distinguished from the common *Campanula glomerata* (which also has dense flower heads) by its taller stature, yellowish flower color, and cylindrical rather than capitate inflorescence arrangement.
-
-The species has no widely recognized subspecies or varieties, though some populations in the Cantabrian Mountains show slight morphological variation in flower size and stem pubescence that has been noted by taxonomists.
-
-Molecular phylogenetic studies place *C. thyrsoidea* within the core *Campanula* clade, most closely related to other European rhizomatous species. Its carotenoid-based yellow flower pigmentation appears to be an independently derived trait, not shared with the geographically distant *C. ochroleuca* of the Balkans.
-
-## See Also
-
-- [[campanula-ochroleuca]]
-- [[campanula-glomerata]]
-- [[campanula-lactiflora]]
-- [[campanula-pyramidalis]]
-- [[campanula-persicifolia]]
-- [[campanula-medium]]
-- [[campanula-alliariifolia]]
-- [[campanula-barbata]]
-- [[campanula-carpatica]]
-- [[campanula-punctata]]
+In its native Pyrenean and Cantabrian habitats, Campanula thyrsoidea is a component of species-rich alpine meadow communities. The dense flower spikes attract a range of pollinators including bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]].

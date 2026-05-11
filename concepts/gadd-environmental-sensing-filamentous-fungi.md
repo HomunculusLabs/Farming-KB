@@ -1,5 +1,5 @@
 ---
-title: [[fungal-environmental-sensing-signal-transduction]] in Filamentous Fungi - Gadd
+title: Gadd Environmental Sensing Filamentous Fungi
 source: Fungi in the Environment - Gadd, Watkinson, Dyer (2006)
 source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 topics: mycology, environmental sensing, fungal hyphae, [[fungal-signal-transduction-pathways-gpcr-two-component-mapk]], chemotropism, phototropism, fungal behavior
@@ -88,19 +88,3 @@ mitogen-activated protein kinase (MAPK) cascades, cyclic AMP-protein kinase A
 (cAMP-PKA) signaling, calcium-calmodulin signaling, and the Ras superfamily of
 small GTPases. These pathways are highly interconnected, allowing the fungus
 to integrate multiple signals simultaneously and generate appropriate
-responses. The complexity of these networks reflects the need for fungi to
-make sophisticated decisions about growth direction, resource allocation,
-reproductive timing, and defense in response to constantly changing
-environmental conditions.
-
-## See Also
-
-- [[gadd-non-motile-heterotrophic-lifestyle-filamentous-fungi]]
-
-- gadd-hyphal-tip-growth-and-polarization.md
-- gadd-fungal-secondary-metabolites.md
-- mycelial-network-nutrient-transport-pulsatile-dynamics.md
-- gadd-fungal-cell-wall-structure-and-function.md
-## References
-
-- Fungi in the Environment - Gadd, Watkinson, Dyer (2006).

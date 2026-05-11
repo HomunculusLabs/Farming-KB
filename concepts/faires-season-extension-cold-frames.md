@@ -14,7 +14,7 @@ Season extension allows growers to produce food well beyond the natural growing 
 
 ## Rotating Planting Season
 
-In cold climates, create a continuous rotation: cold-hardy [[hamilton-salad-vegetables-organic]] in early spring, summer vegetables, more cold-hardy salads, then root crops and winter-hardy vegetables. In some areas, a green manure crop can precede spring planting.
+[[query-how-do-i-grow-figs-in-cold-climates]], create a continuous rotation: cold-hardy [[hamilton-salad-vegetables-organic]] in early spring, summer vegetables, more cold-hardy salads, then root crops and winter-hardy vegetables. In some areas, a [[holzer-green-manure-crop-compendium]] can precede spring planting.
 
 ## Frost Protection Devices
 
@@ -59,11 +59,11 @@ Many crops survive frost in the ground with minimal protection:
 
 Trees insulate the earth and trap heat, preventing frost. A ring of trees surrounding a clearing no wider than half the tree height creates a frost-free zone. The clearing allows sun in while the tree ring keeps frost out. This canopy also acts as a rain gutter, directing water to plants below.
 
-Build up over time by planting quick-growing fruit varieties first, which shelter frost-hardy legume species. When the frost-hardy canopy has grown, trim back the other trees. In cold climates, use evergreen varieties for biomass and heat retention; in warm climates, use light-colored and shiny trees to reflect heat.
+Build up over time by planting quick-growing [[holzer-recommended-old-fruit-varieties]] first, which shelter frost-hardy legume species. When the frost-hardy canopy has grown, trim back the other trees. In cold climates, use evergreen varieties for biomass and heat retention; in warm climates, use light-colored and shiny trees to reflect heat.
 
 ## Attached Greenhouses
 
-In permaculture, a greenhouse should be attached to the house, not built as a separate structure. It serves as both a growing space and passive heat source.
+In permaculture, a greenhouse should be attached to the house, not built as a separate structure. It serves as both a [[cotter-growing-space-design-fruiting-rooms]] and passive heat source.
 
 - Build the base at least 3 feet into the ground for insulation
 - Use concrete, brick, or stone for passive heat storage
@@ -71,7 +71,7 @@ In permaculture, a greenhouse should be attached to the house, not built as a se
 - Rabbits or chickens kept inside generate additional heat
 - Dark curtains or wood shutters minimize nighttime heat loss
 - A vent with electric fan is critical to prevent overheating even in winter
-- Compost biomass inside the greenhouse provides supplementary heat
+- Compost biomass inside the greenhouse provides [[coleman-cool-house-minimal-supplementary-heat]]
 
 ## Greenhouse Temperature Management
 
@@ -87,28 +87,4 @@ Windbreaks can block or channel wind. Use fast-growing pioneer species mixed wit
 
 ## Climate Change Adaptation
 
-Climate zones are somewhat useless due to increasingly extreme weather. Greater extremes of rain (flooding or drought), temperature, wind, and storms are expected. Being flexible and smart in creating microclimates is a better strategy than relying on hardiness zone maps. What worked in a garden for many years may not succeed in the future.
-
-## Managing Microclimates
-
-You have a great deal of control over small area climates through windbreaks, irrigation, and terraces. You could grow almost anything anywhere with the right microclimate. Goals:
-
-- A large body of water warms and cools more slowly than surrounding environment, moderating temperature (less frost near oceans)
-- Remove mulch from soil in spring so dirt can warm up; use mulch at almost every other time for moisture retention, [[permplant-willows-salix-erosion-control-fodder]], temperature stability, and weed suppression
-- Plants absorb solar energy; forest canopy absorbs heat during day, shading the floor, with cool air drawn in and warm air flowing out at night
-- Use trellising to create shady, cool microclimates in otherwise hot, sunny areas
-
-## Fire Protection Through Design
-
-The fire sector should be kept clear of litter and dead logs, with grass kept short. Place bare-ground elements (roads, rock walls, ponds) between fire danger and house. Plant fire-resistant trees (willows, fruit trees) at the bottom of hills. Create series of bare ground and deciduous tree barriers to slow or stop fire.
-
-## See Also
-
-- [[faires-seed-starting-transplanting-guide]]
-- faires-city-desert-and-cold-climate-garden-strategies
-- faires-city-desert-and-cold-climate-garden-strategies
-- [[holzer-green-manure-and-soil-building-plants]]
-- faires-no-energy-food-storage
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
-- [[nicole-faires]]
-- [[natural-farming]]
+[[mollison-climate-zones-permaculture-strategies]] are somewhat useless due to increasingly extreme weather. Greater extremes of rain (flooding or drought), temperature, wind, and storms are expected. Being flexible and smart in creating microclimates is a better strategy than relying on hardiness zone maps. What worked in a garden for many years may not succeed in the future.

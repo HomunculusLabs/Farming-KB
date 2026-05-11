@@ -14,7 +14,7 @@ plant growth through a variety of mechanisms. First described by Kloepper and
 Schroth in 1978, PGPR have since become one of the most studied groups of
 beneficial plant-associated microorganisms. They represent a sustainable
 alternative to [[cervantes-chemical-fertilizers-guide]] and pesticides in agriculture and
-horticulture, including cannabis cultivation.
+horticulture, including [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]].
 ## Classification of PGPR
 PGPR are classified by their relationship with the host plant into two broad
 categories. Extracellular PGPR (ePGPR) exist in the rhizosphere or on the root
@@ -23,7 +23,7 @@ enter root cells and form endophytic associations. Common ePGPR genera include
 Pseudomonas, Bacillus, Azotobacter, Serratia, and Azospirillum. Common iPGPR
 include Rhizobium, Bradyrhizobium, Frankia, and Allorhizobium.
 PGPR can also be categorized by their primary mechanism of action.
-Biofertilizer PGPR enhance nutrient availability through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
+Biofertilizer PGPR enhance [[ph-and-nutrient-availability-garden-soils]] through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
 phosphate solubilization, or [[singh-fungal-siderophore-production-iron-acquisition]]. Phytostimulant PGPR
 produce phytohormones that directly stimulate plant growth. Biocontrol PGPR
 suppress plant diseases through antagonism against pathogens. Stress-tolerant
@@ -32,7 +32,7 @@ exhibit multiple mechanisms simultaneously.
 ## Nitrogen Fixation
 [[biological-nitrogen-fixation-agriculture]] fixation is the conversion of atmospheric nitrogen gas
 (N2) into ammonia (NH3) by nitrogenase enzymes. Free-living diazotrophic
-PGPR including Azotobacter, Azospirillum, and Gluconacetobacter fix nitrogen
+PGPR including Azotobacter, Azospirillum, and Gluconacetobacter [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
 in the rhizosphere without forming specialized structures on roots. While the
 quantities of nitrogen fixed by free-living diazotrophs are modest compared
 to the nodulating rhizobia of legume symbioses, they provide a meaningful
@@ -67,7 +67,7 @@ solubilize and bind iron with affinities up to 10^30 times higher than plant
 iron chelators, effectively scavenging iron from the soil environment.
 PGPR siderophores can benefit host plants through competitive exclusion of
 pathogenic microorganisms. By sequestering available iron, PGPR create an
-iron-depleted zone around roots that inhibits the growth of pathogenic fungi
+iron-depleted zone around roots that inhibits the growth of [[cordyceps-insect-pathogenic-fungi]]
 and bacteria that cannot compete for iron. Some plants can directly uptake
 bacterial siderophore-iron complexes through specific transporters,
 effectively accessing iron that would otherwise be unavailable. Common
@@ -80,7 +80,7 @@ PGPR and stimulates root elongation, lateral root formation, and root hair
 development. IAA-producing PGPR increase root surface area, which enhances
 nutrient and water uptake capacity. Approximately eighty percent of
 rhizobacteria isolated from agricultural soils produce IAA.
-Cytokinins produced by PGPR promote cell division, delay leaf senescence, and
+Cytokinins produced by PGPR promote cell division, delay [[leaf-senescence-autumn-colour-change-active-plant-process]], and
 stimulate shoot development. Gibberellins influence stem elongation, seed
 germination, and flowering. Some PGPR produce ACC deaminase, an enzyme that
 cleaves 1-aminocyclopropane-1-carboxylate (the immediate precursor to
@@ -88,44 +88,3 @@ ethylene), reducing ethylene levels in roots. Lower ethylene levels alleviate
 stress-induced growth inhibition, allowing plants to maintain growth under
 adverse conditions.
 ## Induced Systemic Resistance
-PGPR can prime the plant immune system through induced systemic resistance
-(ISR), a state of enhanced defensive capacity triggered by prior exposure to
-beneficial microorganisms. Unlike systemic acquired resistance (SAR), which is
-triggered by pathogens and depends on salicylic acid signaling, ISR is
-triggered by PGPR and depends primarily on jasmonic acid and ethylene
-signaling pathways. ISR does not directly activate defense genes but primes
-them for faster and stronger activation upon pathogen or herbivore attack.
-PGPR strains of Pseudomonas fluorescens, Bacillus subtilis, Bacillus
-amyloliquefaciens, and Serratia marcescens have been shown to elicit ISR in
-various crops. The molecular signals involved include lipopolysaccharides,
-flagellin, siderophores, and volatile organic compounds. ISR induced by PGPR
-provides broad-spectrum protection against bacterial, fungal, and viral
-pathogens, as well as some insect herbivores.
-## Biocontrol Mechanisms
-PGPR suppress plant pathogens through multiple concurrent mechanisms.
-Antibiosis involves antibiotics, bacteriocins, and antifungal metabolites.
-Pseudomonas species produce phenazines, pyrrolnitrin,
-2,4-diacetylphloroglucinol, and hydrogen cyanide. Bacillus species produce
-lipopeptide antibiotics (surfactin, iturin, fengycin) and polyketides.
-Lytic enzymes (chitinases, glucanases, proteases) degrade pathogen cell walls.
-Competition for nutrients and niches limits pathogen establishment. The
-combination of multiple mechanisms makes PGPR-based biocontrol more durable
-than single-mode chemical approaches.
-## Application Methods and Formulations
-PGPR inoculants are delivered through seed coating, soil drenching, root
-dipping, foliar spraying, or incorporation into growing media. Seed treatment
-is the most common and economical method. Carrier materials including peat,
-vermiculite, compost, and polymer formulations protect bacteria during storage.
-Success depends on strain selection, formulation quality, application timing,
-and compatibility with the target crop. Indigenous [[lowenfels-rhizosphere-bacteria-plant-interaction]] often
-outcompete introduced strains, making establishment a key challenge. Repeat
-applications, co-inoculation with compatible strains, and use of strains
-adapted to specific crops improve persistence. In cannabis, PGPR products
-containing Bacillus and Pseudomonas species are increasingly integrated into
-both soil and hydroponic production systems.
-See also: [[rhizosphere-ecology]],
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, [[soil-health-and-management]]
-
-## See Also
-
-- [[gibberellins-plant-growth-hormones]]

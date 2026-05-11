@@ -1,10 +1,11 @@
 ---
-title: Mushroom Genetics and Strain Selection
+title: Mushroom Genetics Strain Selection
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, biology, lab-technique, academia, methods]
-sources: []
+sources:
+  - "raw/papers/unknown-working-with-agar.md"
 ---
 
 # Mushroom Genetics and Strain Selection
@@ -20,7 +21,7 @@ Most basidiomycete fungi (the club fungi that produce mushrooms) are dikaryotic 
 - Each cell contains **two genetically distinct nuclei** (n + n)
 - These nuclei pair up and divide synchronously (conjugate division)
 - The dikaryotic state is maintained by **clamp connections** — small hook-like bridges on septa that ensure each new cell receives one nucleus of each type
-- Fruiting (mushroom formation) only occurs from dikaryotic mycelium
+- Fruiting ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]) only occurs from dikaryotic mycelium
 - At the basidium (spore-producing cell), the two nuclei finally fuse (karyogamy), undergo meiosis, and produce haploid spores
 
 ### Monokaryon vs. Dikaryon
@@ -51,7 +52,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### Homothallism
 
 - Self-fertile: a single spore can produce a fertile dikaryon
-- Agaricus bisporus is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
+- [[agaricus-bisporus]] is predominantly homothallic (secondary homothallism) — most spores contain two compatible nuclei
 - Simpler breeding but less genetic diversity
 
 ## Strain Isolation
@@ -101,7 +102,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 - Environmental conditions can affect gene expression without changing DNA sequence
 - The same genetics can produce different results under different conditions
-- Temperature, substrate, light, and CO2 levels influence morphology and potentially alkaloid production
+- Temperature, substrate, light, and CO2 levels influence morphology and potentially [[mycelial-broth-alkaloid-production]]
 
 ## Popular Strains and Selection Criteria
 
@@ -122,7 +123,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 
 - **Colonization speed**: Faster colonization means less time for contamination
 - **Rhizomorphic growth**: Rope-like, organized mycelium correlates with vigorous fruiting
-- **Yield**: Total biological efficiency (fresh weight of mushrooms / dry weight of substrate)
+- **Yield**: Total [[biological-efficiency]] (fresh weight of mushrooms / dry weight of substrate)
 - **Potency**: For active species, alkaloid content varies significantly between strains
 - **Environmental tolerance**: Some strains handle temperature or humidity fluctuations better
 - **Appearance**: Cap shape, color, stem thickness — aesthetic preference
@@ -142,9 +143,7 @@ See [[fungal-sexual-reproduction]] for deeper coverage of mating type genetics.
 ### Microscopy
 
 - Spore size and shape can indicate species and sometimes strain
-- Basidium morphology, cheilocystidia shape — taxonomic identification
+- Basidium morphology, cheilocystidia shape — [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
 - Requires compound microscope (400-1000x magnification)
 
 ### DNA Barcoding
-
-- ITS (Internal Transcribed Spacer) region is the standard barcode for fungi

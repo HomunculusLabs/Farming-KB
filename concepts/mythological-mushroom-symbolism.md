@@ -23,11 +23,11 @@ sources:
 
 # Mythological Mushroom Symbolism
 
-The symbolic vocabulary through which mushrooms — particularly Amanita muscaria — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
+The symbolic vocabulary through which mushrooms — particularly [[allegro-amanita-muscaria-properties-and-pharmacology]] — were encoded in world mythology, religious art, and cultural traditions. [[james-arthur]] catalogs 40+ names and symbols that he argues all refer to the mushroom across cultures, representing different views of the same organism at various stages of its lifecycle.
 
 ## The Mushroom Lifecycle as Mythological Template
 
-The Amanita muscaria lifecycle provides a natural template for mythological narratives:
+[[allegro-colour-and-consistency-of-the-amanita-muscaria]] lifecycle provides a natural template for mythological narratives:
 
 ### Stage 1: The Egg/Button (Infant State)
 - Small, white, round — resembles a stone or egg
@@ -40,7 +40,7 @@ The Amanita muscaria lifecycle provides a natural template for mythological narr
 - Pushing upward from the bulbous base like a snake hatching
 - Shedding the universal veil = shedding skin
 - The serpent in the Garden of Eden — reveals secret knowledge
-- The Feathered Serpent (Quetzalcoatl/Kukulcan) — cosmopolitan symbol
+- The [[amanita-muscaria-feathered-serpent-phoenix]] (Quetzalcoatl/Kukulcan) — cosmopolitan symbol
 - After full growth and decay, leaves a hole with white spore powder — a "snake's hole" or lair
 
 ### Stage 3: Full Growth (Mushroom Form)
@@ -97,7 +97,7 @@ Arthur catalogs these cross-cultural names/symbols for the mushroom:
 
 ### Title and Role Names
 - Flesh of the God / Divine Flesh
-- Fruit of the Tree of Life / Fruit of the Tree of Knowledge
+- Fruit of the Tree of Life / Fruit of the [[stropharia-cubensis-tree-of-knowledge]]
 - Flesh of Jesus ("Take and eat, this is my body/soma")
 - The God of a Thousand Names (Egyptian reference)
 
@@ -138,7 +138,7 @@ Present in: 12th-century Christian paintings, Buddhist tangkas, Egyptian temple 
 Arthur argues that tracing gods back through time reveals common attributes pointing to mushroom origins:
 - Miraculous virgin birth (seedless mushroom growth)
 - Divine manifestation / incarnation
-- Death and resurrection (3-day cycle)
+- [[allegro-death-and-resurrection-in-the-mushroom-cult]] (3-day cycle)
 - Sacramental food consumption
 - Association with serpents, trees, and lightning
 - The god IS the food IS the sacrifice

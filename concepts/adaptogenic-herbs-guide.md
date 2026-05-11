@@ -12,8 +12,8 @@ sources: []
 ## Overview
 
 Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
-1. Be non-specific (increase resistance to a broad range of stressors). (see [[medicinal-mushroom-guide-oyster]]).
-2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance). (see [[medicinal-mushroom-guide-chaga]]).
+1. Be non-specific (increase resistance to a broad range of stressors).
+2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
 3. Be safe and non-toxic with minimal side effects.
 
 This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
@@ -73,14 +73,14 @@ Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medici
 - Cycling recommended: 3 weeks on, 1 week off.
 
 ### Contraindications
-- Bipolar disorder (may trigger mania). Anxiety disorders in some individuals. Avoid with MAO inhibitors. Caution with stimulant medications.
+- [[blesching-cannabis-bipolar-disorder]] (may trigger mania). [[cannabis-for-anxiety-disorders]] in some individuals. Avoid with MAO inhibitors. Caution with stimulant medications.
 
 ---
 
 ## Holy Basil (Ocimum sanctum / Ocimum tenuiflorum)
 
 ### Overview
-Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have adaptogenic properties, with some variation in potency.
+Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for thousands of years as a rasayana. Called "the incomparable one" and "elixir of life." Three main varieties: Rama (green), Krishna (purple), and Vana (wild forest type). All have [[ashwagandha-cultivation-uses-and-adaptogenic-properties]], with some variation in potency.
 
 ### Key Compounds
 - **Eugenol:** Phenolic compound (also found in cloves). Anti-inflammatory, analgesic, antioxidant.
@@ -113,7 +113,7 @@ Sacred herb in Hinduism known as Tulsi in India. Used in Ayurvedic medicine for 
 ## Eleuthero (Eleutherococcus senticosus)
 
 ### Overview
-Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet research program. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
+Also known as [[comparison-panax-ginseng-vs-siberian-ginseng]] (though not a true Panax ginseng). Woody shrub native to Siberia, northeastern China, Korea, and Japan. The most extensively studied adaptogen in the Soviet [[hofmann-lsd-sandoz-research-program]]. Used by Soviet athletes, cosmonauts, and military personnel for performance enhancement.
 
 ### Key Compounds
 - **Eleutherosides:** Glycosides designated B through E and others. Eleutheroside B (syringin) and eleutheroside E (syringaresinol diglucoside) are the primary markers.
@@ -136,7 +136,7 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - Take consistently for 4-8 weeks for full adaptogenic effects.
 
 ### Contraindications
-- Caution with cardiovascular conditions and hypertension (some reports of palpitations). Autoimmune conditions. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
+- Caution with cardiovascular conditions and hypertension (some reports of palpitations). [[blesching-cannabis-health-index-autoimmune-conditions]]. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
 
 ---
 

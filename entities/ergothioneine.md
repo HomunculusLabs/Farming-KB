@@ -54,8 +54,8 @@ Ergothioneine biosynthesis in fungi proceeds through a five-step enzymatic pathw
 
 Humans and animals **cannot synthesize ergothioneine** and must obtain it entirely from dietary sources. Biosynthesis is confirmed in:
 
-- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *[[staycare-lentinula-edodes-in-bioremediation]]*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]*, *Hericium erinaceus*, *[[maitake-grifola-frondosa-comprehensive-profile]]*, *Flammulina velutipes*
-- **Ascomycota:** Yeasts (*Neurospora crassa*), molds (*Aspergillus* spp.)
+- **Basidiomycota mushrooms:** *Pleurotus* spp., *Agaricus* spp., *[[staycare-lentinula-edodes-in-bioremediation]]*, *[[stamets-reishi-ganoderma-lucidum-cultivation]]*, *[[cancer-medicinal-mushrooms-hericium-erinaceus]]*, *[[maitake-grifola-frondosa-comprehensive-profile]]*, *[[flammulina-velutipes]]*
+- **Ascomycota:** Yeasts (*[[neurospora-crassa]]*), molds (*Aspergillus* spp.)
 - **Actinobacteria:** *Mycobacterium* spp., *Streptomyces* spp.
 - **Cyanobacteria:** Some *Nostoc* and *Anabaena* species
 
@@ -64,11 +64,11 @@ Humans and animals **cannot synthesize ergothioneine** and must obtain it entire
 | Food Source | Ergothioneine (mg/kg, fresh weight) |
 |-------------|------------------------------------|
 | **Porcini** (*Boletus edulis*) | 300–1,200 |
-| **Maitake** (*Grifola frondosa*) | 500–800 |
-| **King oyster** (*Pleurotus eryngii*) | 400–900 |
+| **Maitake** (*[[grifola-frondosa]]*) | 500–800 |
+| **King oyster** (*[[pleurotus-eryngii]]*) | 400–900 |
 | **Lion's mane** (*Hericium erinaceus*) | 300–700 |
 | **Shiitake** (*Lentinula edodes*) | 200–700 |
-| **Oyster** (*Pleurotus ostreatus*) | 100–400 |
+| **Oyster** (*[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]*) | 100–400 |
 | Chicken liver | 0.5–2.0 |
 | Black beans | 1.0–2.5 |
 | Oat bran | 1.0–2.0 |
@@ -88,58 +88,3 @@ The discovery of a **dedicated transporter** for ergothioneine is the strongest 
 ## Physiological Roles
 
 ### 1. Antioxidant Defense
-Ergothioneine scavenges ROS (hydroxyl radicals, peroxynitrite, hypochlorous acid) and RNS, protects mitochondrial DNA, and preserves other antioxidants (glutathione, vitamin C). Unlike many antioxidants, it does not undergo pro-oxidant redox cycling.
-
-### 2. Mitochondrial Protection
-Accumulates preferentially in mitochondria: protects membranes from lipid peroxidation, preserves mtDNA integrity, maintains membrane potential, and reduces mitochondrial ROS production.
-
-### 3. Anti-Inflammatory Effects
-Downregulates TNF-α, IL-6, IL-1β; inhibits NF-κB signaling; reduces neutrophil oxidative burst; modulates inflammasome activation.
-
-### 4. Metal Ion Chelation
-Chelates Cu²⁺, Fe²⁺, and Zn²⁺ — preventing copper-catalyzed oxidation and Fenton reaction-mediated hydroxyl radical generation.
-
-### 5. Cytoprotection
-Protects against UV-induced skin damage, shields endothelial cells, protects neurons from excitotoxicity, and preserves lens protein transparency (anti-cataract potential).
-
-## Health Implications
-
-### Epidemiological Evidence
-
-Studies have found **inverse correlations** between ergothioneine intake and:
-
-- **Cardiovascular disease:** Reduced risk of coronary heart disease and stroke
-- **Cognitive decline:** Higher blood levels associated with lower dementia and Alzheimer's incidence
-- **Neurodegenerative diseases:** Significantly lower blood ergothioneine in Parkinson's and Alzheimer's patients; proposed as a **biomarker** for neurodegenerative risk
-- **All-cause mortality:** Suggestive evidence for reduced mortality risk
-
-### Longevity Vitamin Hypothesis
-
-Ergothioneine has been proposed as a **"longevity vitamin"** (Ames & Beelman) — a compound whose dietary insufficiency contributes to age-related cellular deterioration. Modern diets may provide inadequate amounts compared to evolutionary norms, particularly for populations with low mushroom consumption.
-
-## Pharmacokinetics
-
-- **Absorption:** Actively transported via OCTN1 in the small intestine
-- **Distribution:** Widely distributed; highest concentrations in kidney, liver, lens, and erythrocytes
-- **Half-life:** Approximately 30–32 days in humans — among the longest of any known dietary antioxidant
-- **Excretion:** Renal (reabsorbed by OCTN1 in proximal tubule)
-- **Blood levels:** 1–4 µM in healthy adults; can reach 10+ µM with supplementation
-
-## Supplementation
-
-Ergothioneine is available as a dietary supplement:
-
-- **Typical dose:** 5–20 mg/day
-- **Safety:** Generally recognized as safe (GRAS) in the United States
-- **Bioavailability:** High when taken with food; enhanced by mushroom matrix
-- **No known toxicity:** Even at high doses (up to 900 mg/day in [[mushroom-cancer-clinical-trials-overview]]), no [[blesching-cannabis-safety-adverse-effects-evidence]] have been reported
-
-## See Also
-
-- [[cordycepin]]
-
-- [[lions-mane-hericium-erinaceus]]
-- [[lentinula-edodes]] — Shiitake mushroom, a rich source of ergothioneine
-- [[boletus-edulis-entity]] — Porcini, the richest known source
-- [[medicinal-mushrooms]] — Overview of therapeutic mushroom species
-- Oxidative Stress — The condition ergothioneine helps mitigate

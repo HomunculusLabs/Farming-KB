@@ -1,5 +1,5 @@
 ---
-title: THC thc-acetate-synthesis-and-pharmacology and Properties
+title: [[lemon-cannabis-alchemy-advanced-refinement-techniques]] [[cannabis-thc-acetate-preparation]]
 created: 2026-04-28
 tags: [cannabis, thc-acetate,ben-lemony, synthesis, potency]
 date: 2026-04-28
@@ -88,62 +88,3 @@ anhydride. The following apparatus is assembled:
 7. Ring stand and proper clamps for securing flask and condenser
 8. Cottonseed oil for the oil bath
 9. Acetic anhydride (three times the volume of [[cervantes-hash-cannabis-oil-production]])
-10. Immersible water pump, bucket, and hoses for condenser coolant
-
-### Refluxing
-
-The solution of acetic anhydride and [[cannabis-oil-capsules-preparation]] is boiled in the
-round-bottom flask. The fumes rise into the icewater-cooled condenser,
-where they are condensed back into liquid, thus relieving the pressure
-created by boiling. The drops then fall back into the solution.
-
-An amount of acetic anhydride equal to three times the volume of the
-cannabis oil is poured carefully into the boiling flask. The condenser
-is securely replaced and a solid rubber stopper is loosely fit to the
-top of the condenser.
-
-The oil bath temperature is raised slowly, giving the solution time to
-heat. The temperature is noted at which the solution begins to fume and
-droplets of pure acetic anhydride form in the condenser and fall back.
-The temperature is slightly raised until the solution begins to boil.
-The bath temperature is stabilized at this point. Refluxing continues
-for three hours with ice supplied as needed to the coolant pump.
-
-### Cooling and Dismantling
-
-After three hours, the electricity is turned off and the solution is
-allowed to cool to room temperature with icewater still circulating
-through the condenser. After at least two hours at room temperature, the
-rubber stopper is checked for a perfect seal. The immersion pump is then
-turned off and the apparatus sits for another hour. The clamps are
-loosened, the condenser removed, and the flask wiped clean of oil.
-
-### Distillation of Excess Acetic Anhydride
-
-Removing the acetic anhydride by distillation is the next step. A
-distillation flask and Erlenmeyer flasks are assembled with the
-condenser at a sufficient angle. As the solution in the distillation
-flask is heated, the acetic anhydride vaporizes, travels through the
-side arm into the condenser, and is cooled to liquid collected in a
-receiving flask immersed in an icewater bath.
-
-The volume of cannabis oil acetate in the distillation flask will be up
-to 25% more than the volume of the oil prior to acetylation. The oil
-temperature is maintained for one hour after the last traces of acetic
-anhydride have been removed.
-
-### Purification of the Acetate
-
-The flask containing the cannabis oil acetate is removed from the safety
-box. Slowly, one drop at a time, several volumes of pure alcohol are
-added to dissolve the oil. This solution is poured into five volumes of
-water and extracted with petroleum ether, as was done in the
-[[cannabis-oil-purification-techniques]] following the isomerization.
-
-## Related
-
-- [[thc-o-acetate]]
-
-## See Also
-
-- [[lemon-cannabis-alchemy-reflux-apparatus-and-laboratory-setup]]

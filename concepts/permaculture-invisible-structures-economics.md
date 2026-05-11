@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture [[williams-pdc-invisible-structures]] economics Economics
+title: Permaculture Invisible Structures Economics
 created: 2026-04-28
 tags: [permaculture, invisible-structures, economics, commonwork, investment, community-governance]
 date: 2026-04-25

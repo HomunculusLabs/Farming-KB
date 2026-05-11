@@ -7,7 +7,7 @@ tags: [permaculture, animal-husbandry, livestock-health, permaculture]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Cattle Systems
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
 **Updated:** 2026-04-18
 ## Overview
 Cattle serve as large-scale converters of grasses and forbs to meat, milk, and
@@ -31,7 +31,7 @@ balance and enables rough equivalents to other animals:
 ### Water Placement as a Design Tool
 For species with clear preferences for fixed-site resources (water), range
 management consists of providing these critical resources to enable species to
-utilise the range. Strategic water placement distributes grazing pressure
+utilise the range. Strategic water placement distributes [[gadd-mycelial-network-resilience-grazing-pressure]]
 across the landscape.
 ## Shelter Effects on Cattle
 Trees and shelterbelts provide significant benefits for cattle:
@@ -57,7 +57,7 @@ utilisation while minimising environmental damage. Different livestock species
 graze different plants and at different heights, creating a more uniform
 utilisation of the available forage. Cattle prefer tall grasses, sheep graze
 closer to the ground, and goats browse shrubs and woody plants. By combining
-species in a rotational system, the total carrying capacity of the range can
+species in a rotational system, the total [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] of the range can
 increase by 30-50% compared to single-species grazing. The sequence of species
 rotation also breaks parasite cycles, as internal parasites are typically
 host-specific and die when passed onto pasture before the next host species
@@ -65,12 +65,12 @@ arrives.
 ## Fencing and Paddock Design
 Permaculture cattle systems use electric fencing for flexible paddock
 subdivision, enabling high-intensity short-duration grazing followed by long
-rest periods. This mimics natural grazing patterns where herd animals graze
+rest periods. This mimics [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] patterns where herd animals graze
 an area intensively then move on, allowing plants to recover fully before
 being grazed again. Paddock size should allow stock to be moved in 15-30
 minutes, with rest periods of 60-90 days depending on season and growth
-rates. Permanent fencing uses living fences (hedge rows, tree lines) that
-produce fodder, timber, or wildlife habitat in addition to their boundary
+rates. Permanent fencing uses [[comparison-living-fences-vs-hedgerows]] (hedge rows, tree lines) that
+produce fodder, timber, or [[hemenway-backyard-wildlife-habitat]] in addition to their boundary
 function. Gate placement should enable any combination of paddocks without
 forcing stock through other occupied paddocks.
 ## Health Management in Permaculture Systems
@@ -88,21 +88,3 @@ remedies that can be produced on-farm, reducing dependence on external
 veterinary supplies. However, he acknowledges that conventional veterinary
 care may be needed for acute conditions and emergencies.
 ## Breed Selection
-Permaculture cattle systems favour hardy, dual-purpose breeds adapted to local
-climate and forage conditions rather than specialised high-production breeds
-that require intensive feeding and management. Heritage breeds such as
-Dexter, Highland, and Galloway cattle thrive on rough forage, calve easily,
-and produce adequate milk and meat on minimal inputs. Crossbreeding combines
-the adaptability of heritage breeds with selected production traits while
-maintaining hybrid vigour. Breed selection is fundamentally a local design
-decision based on climate, forage availability, market requirements, and the
-skill and resources of the farm operator.
-## Related Concepts
-- permaculture-designers-manual-arid-climates
-- Trees with livestock
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[permaculture-designers-manual-climatic-zones-tropical]]
-- [[comparison-rotational-grazing-vs-continuous-grazing]]
-- [[query-how-do-i-design-a-multi-species-pasture-mix]]
-- [[comparison-alley-cropping-vs-silvopasture]]
-- [[savory-holistic-resource-management-ecological-succession]]

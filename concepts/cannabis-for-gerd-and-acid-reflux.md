@@ -88,11 +88,3 @@ Cannabis addresses the root cause (TLESRs) rather than just suppressing acid. It
 ## Related
 
 - [[cannabis-for-gastrointestinal-conditions]]
-- Cannabis For Inflammation
-
-## Source
-
-Uwe Blesching, The Cannabis Health Index (2015), GERD section
-- hallucinogenic-mushroom-health-risks-and-harm-reduction
-- [[cannabis-root-bound-symptoms-and-management]]
-- [[cannabis-and-ibs-research]]

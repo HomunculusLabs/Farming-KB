@@ -1,5 +1,5 @@
 ---
-title: am-fungal-survey-methods and Inventory Methodology
+title: Fungal Survey Inventory Methodology
 created: 2026-04-26
 tags:
   - methodology
@@ -21,7 +21,7 @@ the species composition, abundance, and distribution of fungi in
 defined areas. These efforts provide the baseline data necessary
 to measure changes in biodiversity, assess ecosystem health, and
 inform conservation decisions. The methodology of fungal surveys
-requires careful consideration of spatial scale, temporal dynamics,
+requires careful consideration of [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]], temporal dynamics,
 and the diverse life histories of fungal organisms.
 
 ## Survey versus Inventory versus Monitoring
@@ -88,29 +88,3 @@ sampling, where sampling effort is modified in response to
 observations made during sampling. When the number of target
 organisms in a plot exceeds a threshold value, another area is
 sampled in a predetermined way. Adaptive sampling is useful for
-increasing observations of rare organisms with patchy
-distributions.
-
-## Temporal Considerations
-
-Frequency of sampling depends on species turnover between
-sampling dates. For Xylariaceae and small ascomycetes in the
-tropics, 3-month intervals provide optimal balance between
-discovery and effort. Fruiting agarics require weekly or
-biweekly sampling in both temperate and [[fungal-biodiversity-tropical-forests]]. For
-soil fungi, seasonal fluctuations in species composition occur
-but compositions are typically similar from year to year within
-seasons. Multi-year sampling is necessary to capture species
-that fruit sporadically.
-
-## Indicator Species
-
-The use of fungal indicator species to monitor environmental
-change should be considered carefully. Ideal indicator taxa
-should be taxonomically stable, well known, readily surveyed,
-sensitive to disturbances, and widely distributed. Compared with
-vertebrates and plants, macrofungi are poorly known taxonomically
-and their natural histories are poorly known. However,
-[[fungal-beta-diversity-species-turnover]]
-- [[fungal-monitoring-long-term-studies]]
-- fungal-biodiversity-forest-floor

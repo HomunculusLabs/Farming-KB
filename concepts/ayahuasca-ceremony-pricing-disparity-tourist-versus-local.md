@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca ayahuasca ceremony pricing disparity tourist versus local Disparity — Tourist Versus Local"
+title: Ayahuasca Ceremony Pricing Disparity Tourist Versus Local
 tags:
   - ayahuasca
   - pricing
@@ -10,14 +10,14 @@ tags:
   - commercialization
   - indigenous-economics
 source:
-  - "Stuart, R. '[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in South America.' MAPS Bulletin, Vol XII No 2, Summer 2002."
+  - "Stuart, R. '[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in [[guzman-psilocybin-mushrooms-south-america]].' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
 # Ayahuasca Ceremony Pricing: Tourist Versus Local
 
 ## Overview
 
-One of the most striking economic features of ayahuasca tourism in Peru
+One of the most striking economic features of [[ayahuasca-tourism-in-peru]] Peru
 is the dramatic [[ayahuasca-ceremonial-economics-price-disparity-peru]] between foreign tourists and local
 participants for the same ceremony. R. Stuart's 2002 reporting documents
 a consistent markup of approximately fifteen times: tourists pay roughly
@@ -67,7 +67,7 @@ The 15x markup reflects several converging dynamics:
    translation, post-ceremony discussion, dietary guidance, and
    accommodation — real additional costs beyond the local ceremony.
 3. **Risk premium**: Serving foreign tourists carries legal and
-   reputational risk, as the Alan Shoemaker case demonstrates.
+   reputational risk, as the [[alan-shoemaker-ayahuasca-legal-peru]] case demonstrates.
 4. **Reciprocity framing**: Some practitioners frame higher prices as
    wealth redistribution compensating for historical extraction.
 
@@ -88,62 +88,3 @@ tourist's ability to pay while avoiding pure extraction.
 The standard tourist rate of $30 is the community norm charged by most
 practitioners serving foreign visitors — the equilibrium price in a
 competitive market with high tourist demand.
-
-### Extractive Practitioners
-
-Some practitioners go beyond ceremony pricing into direct solicitation.
-"Elderly B" is described as a liar and shoplifter who asks participants
-for additional money — blurring the line between spiritual service and
-scam. The pricing disparity establishes that tourists are wealthy and
-expected to pay, creating conditions for such extraction.
-
-## The Ethics of Differential Pricing
-
-The 15x disparity raises questions resonating beyond ayahuasca to all
-spiritual and wellness tourism:
-
-### Argument For: Economic Justice
-
-Differential pricing redistributes wealth from the global wealthy to
-the global poor. Western tourists earn far more in a week than many
-indigenous practitioners earn in a year. The tourist voluntarily
-participates in a wealth transfer benefiting a disadvantaged community.
-
-### Argument Against: Exploitation
-
-Seekers are often in emotional distress, illness, or existential
-crisis. Charging them 15 times the local rate for the same service is
-extraction from vulnerability. It commodifies a sacred practice into an
-export commodity priced for foreign consumption.
-
-### Assessment
-
-Some differential pricing is economically rational. A 15x markup,
-however, suggests a market detached from cost or value, operating
-purely on willingness-to-pay extraction.
-
-## Broader Pattern
-
-Ayahuasca is not unique — similar patterns appear in meditation
-retreats in India, yoga trainings in Bali, and plant ceremonies in
-Costa Rica. Traditional practices command dramatically higher prices
-when offered to wealthy [[ayahuasca-tourism-western-seekers-and-integration]].
-
-## Economic Distortion Effects
-
-- **Incentive to serve tourists over locals**: Higher-paying clients
-  may reduce ceremony access for community members.
-- **Incentive to become a shaman**: Economic returns attract
-  individuals lacking genuine training or ethical commitment.
-- **Wealth inequality**: A few practitioners capture disproportionate
-  income, creating new class divisions within communities.
-- **Tourism dependency**: Communities become vulnerable to travel
-  disruptions, legal changes, or shifts in tourist preferences.
-## See Also
-
-- [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]
-
-- [[ayahuasca-ceremonial-economics-price-disparity-peru]]
-
-- [[san-francisco-shipibo-ayahuasca-ceremonial-center]]
-- [[ayahuasca-diy-home-brewing-ethnobotanical-supplier-guide]]

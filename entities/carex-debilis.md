@@ -11,15 +11,15 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
-  - Bryson, C.T. & DeBarros, J.S. (2011). "Carex debilis." In: Flora of North America, Vol. 23. Oxford University Press.
-  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
+  - Bryson, C.T. & DeBarros, J.S. (2011). "Carex debilis." In: Flora [[berry-growing]], Vol. 23. Oxford University Press.
+  - Weakley, A.S. (2023). Flora of the Southeastern United States. University of [[north-carolina-mycodiversity]] Herbarium.
   - Yatskievych, G. (1999). Steyermark's Flora of Missouri. Missouri Botanical Garden Press.
   - Hilty, J. (2024). Illinois Wildflowers. illinoiswildflowers.info.
 ---
 
 ## Overview
 
-**Carex debilis**, commonly known as white-tinged sedge or weak sedge, is a perennial sedge native to eastern North America.
+**Carex debilis**, commonly known as white-tinged sedge or weak sedge, is a perennial sedge native to [[polypore-fungi-eastern-north-america]].
 
 It inhabits deciduous woodlands, bluffs, and rocky slopes across the eastern United States and parts of Ontario.
 
@@ -53,7 +53,7 @@ Stigmas are two, consistent with subgenus Vignea.
 
 Carex debilis ranges from Ontario and New England south to Georgia and Alabama, extending west to Minnesota and Iowa.
 
-It occurs throughout the Appalachian region, the Ozarks, and the Interior Highlands.
+It occurs throughout the [[bolete-fungi-appalachian-region]], the Ozarks, and the Interior Highlands.
 
 The species is most abundant in rich, mesic deciduous forests on north-facing slopes.
 
@@ -73,7 +73,7 @@ The seeds are dispersed by ants (myrmecochory), attracted to the elaiosome-rich 
 
 Several Lepidoptera larvae feed on Carex debilis, including the sedge moth (*Oligia vulgaris*).
 
-The species is a component of the herbaceous layer in **Acer saccharum–Tilia americana** and **Quercus alba** forest communities.
+The species is a component of the herbaceous layer in **Acer saccharum–[[tilia-americana]]** and **Quercus alba** forest communities.
 
 Its presence is often associated with high-quality, relatively undisturbed woodland sites.
 
@@ -83,35 +83,8 @@ Carex debilis has no significant recorded ethnobotanical use among Indigenous pe
 
 It is primarily of ecological value as a native ground cover in forest ecosystems.
 
-The species is increasingly used in woodland garden design and ecological restoration projects.
+The species is increasingly used in woodland garden design and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 Its fine texture and shade tolerance make it a suitable alternative to non-native ground covers.
 
 No pharmacological properties have been documented for this species.
-
-## Cultivation
-
-Carex debilis can be propagated from seed or by division of established clumps.
-
-It prefers partial to full shade and moist, well-drained loamy soils with neutral to slightly alkaline pH.
-
-The species adapts well to cultivation when given appropriate shade and moisture.
-
-Seed germination benefits from cold stratification at 4°C for 60–90 days.
-
-In garden settings, it forms attractive clumps that complement ferns and spring ephemerals.
-
-It is available from several native-plant nurseries specializing in woodland species.
-
-Maintenance is minimal once established, requiring only occasional thinning of old foliage.
-
-## See Also
-
-- [[carex-pensylvanica]]
-- [[carex-laxiflora]]
-- [[carex-rosea]]
-- [[carex-hirta]]
-- [[carex-stricta]]
-- [[carex-utriculata]]
-- [[carex-nebrascensis]]
-- [[carex-aquatilis]]

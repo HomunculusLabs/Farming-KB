@@ -13,7 +13,7 @@ In France, the mushroom industry fell heir to the subterranean quarries that con
 
 These caves were responsible for the enormous development of the mushroom industry in that country.
 
-Paris was the undisputed world capital of commercial mushroom production from the 18th century through the early 20th century.
+Paris was the undisputed world capital [[history-of-commercial-mushroom-cultivation]] production from the 18th century through the early 20th century.
 
 Parisian buildings had been constructed, in the main, of a limestone which had been mined under the city itself, or in the adjacent suburbs and countryside.
 
@@ -35,7 +35,7 @@ Ceiling height ranged from 5 to 20 or more feet in height.
 
 The extent of these cave areas was very great.
 
-In many suburbs — Montrouge, Vitry, Châtillon, Issy, Nanterre, Rosny-sous-Bois, Puteaux, and others — mushroom growing was one of the really important local industries.
+In many suburbs — Montrouge, Vitry, Châtillon, Issy, Nanterre, Rosny-sous-Bois, Puteaux, and others — [[duggar-mushroom-growing-room-design]] was one of the really important local industries.
 
 It has been estimated that in the caves of these suburbs, there were upwards of 2,000 kilometers (about 1,200 miles) of mushroom beds.
 
@@ -49,9 +49,9 @@ The cave systems were very well ventilated by means of chimneys or chutes.
 
 The change of air was often facilitated by small charcoal fires beneath these air chutes and occasionally by the use of special ventilating devices.
 
-Ventilation was critical because the caves were enclosed spaces where both the mushrooms and the decomposing compost produced carbon dioxide, water vapor, and heat.
+Ventilation was critical because the caves were [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]] where both the mushrooms and the decomposing compost produced [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], water vapor, and heat.
 
-Without adequate air exchange, these byproducts would accumulate to levels toxic to the crop.
+Without adequate [[growing-gourmet-growing-room-ventilation-air-exchange]], these byproducts would accumulate to levels toxic to the crop.
 
 The charcoal fires served a dual purpose.
 
@@ -78,7 +78,7 @@ Natural caves in the limestone section of Missouri had been used successfully.
 ## Historical Significance
 
 The Parisian champignonnières represent a remarkable chapter in the history of
-urban agriculture and industrial mycology. At their peak around 1900, the
+[[urban-agriculture-and-rooftop-farming]] industrial mycology. At their peak around 1900, the
 Paris mushroom caves produced an estimated 1,000 metric tons of mushrooms
 annually, making the city the world's largest single source of cultivated
 mushrooms.
@@ -87,20 +87,3 @@ The industry demonstrated how an industrial byproduct — abandoned limestone
 quarries — could be repurposed for food production without additional land
 use. This model of adaptive reuse prefigured modern concepts of circular
 economy and sustainable urban food systems.
-
-The word "champignonnière" itself became a French cultural export, adopted
-into multiple languages to describe any mushroom-growing facility. The
-techniques refined in the Paris caves — especially [[cultivator-compost-preparation-phase-methods]] and
-environmental management — became the foundation for the modern commercial
-mushroom industry worldwide.
-
-The decline of the Parisian cave industry in the mid-20th century reflected
-broader urbanization pressures, including quarry collapse risks, rising real
-estate values, and competition from above-ground cultivation. Nevertheless,
-the cultural memory persists: guided tours of remaining cave systems still
-reference their mycological heritage, and several suburban towns retain
-"champignonnière" in their local cultural identities.
-
-Often, however, poor arrangements for removing old beds led to an accumulation of spent bedding material and attending increase in [[mushroom-compost-preparation-historical]] — Compost preparation for cave beds
-- [[mushroom-spawn-making-pure-culture]] — Spawn used in cave cultivation
-- [[nineteenth-century-mushroom-cellars]] — American adaptation of underground growing

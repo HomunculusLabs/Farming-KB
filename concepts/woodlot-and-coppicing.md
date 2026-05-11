@@ -88,26 +88,3 @@ The forest space can also grow trees for food and alcohol production:
 - **Annual yield**: You will be cutting down approximately 1/4 of the trees each year in a mature coppice
 
 ## Initial Supply
-
-When first establishing a coppice woodlot:
-
-- **Fallen branches** provide initial fuel
-- **Thinned trees** from the existing forest provide early wood
-- **Old wood** supplements the supply until new coppice growth matures
-- **Plant new trees frequently** to replace what is cut — without replanting, the supply would exhaust in about 7 years
-
-## Sustainable Management
-
-- **Never clear-cut**: Always maintain standing trees for continuous production
-- **Rotate harvest areas**: Divide the woodlot into sections; harvest a different section each year on a 7-year (or longer) rotation
-- **Protect regrowth**: Ensure animals cannot browse new shoots — fencing may be necessary
-- **Mixed species**: Diverse plantings are more resilient to disease and pests
-- **Soil protection**: Maintain ground cover to prevent erosion
-- **Wildlife corridors**: Leave some areas uncut for wildlife habitat
-
-## Related Topics
-
-- [[zone-5-wilderness]] — preserving wild areas
-- [[firewood-seasoning-and-storage]] — using coppice wood for fuel
-- [[cover-crops-soil-health]]
-- faires-pasture-forage-tree-systems

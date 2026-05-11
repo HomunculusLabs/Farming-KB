@@ -88,26 +88,3 @@ Post-harvest processing involves washing, slicing, and air-drying the roots. Rap
 Before its prominence in pharmacology, L. erythrorhizon was primarily valued as a source of purple-red dye across East Asia. The naphthoquinone pigments in the root produce a deep crimson to purple color that has been used for textile dyeing, ink production, and cosmetic coloring for over 1,500 years.
 
 In Japan, shikonin-derived purple dye was historically used to color paper, fabrics, and cosmetics. The famous purple ink of the Heian period aristocracy was produced from Lithospermum root extracts, and the color remains culturally significant in Japanese aesthetics.
-
-The dyeing process typically involves extracting pigments with ethanol or alkaline solutions. The resulting color ranges from red to purple depending on pH, with alkaline conditions producing deeper violet tones. Modern applications include use as a food colorant and in cosmetic formulations.
-
-## Conservation Status
-
-Wild populations of L. erythrorhizon have declined significantly across much of their native range due to sustained harvest pressure for medicinal use. The species is listed as vulnerable in several Chinese provincial red lists and is subject to collection restrictions.
-
-In Japan, wild harvest is strictly regulated under the national endangered species framework. Cultivation programs have been established in Hokkaido and northern Honshu to supply pharmaceutical demand while reducing pressure on wild populations.
-
-Korean conservation efforts have focused on both in situ protection of wild habitats and ex situ germplasm conservation. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols for mass propagation have been developed to support commercial cultivation and species conservation.
-
-Habitat loss from agricultural expansion and urbanization poses an additional threat to remaining wild populations. Protected area designations in mountainous regions of Gansu, Shaanxi, and Sichuan provinces provide some safeguard for key populations in China.
-
-## See Also
-
-- [[symphytum-officinale]]
-- [[salvia-miltiorrhiza]]
-- [[angelica-sinensis]]
-- [[glycyrrhiza-uralensis]]
-- [[calendula-officinalis]]
-- [[taraxacum-officinale]]
-- [[echinacea-purpurea]]
-- [[sambucus-nigra]]

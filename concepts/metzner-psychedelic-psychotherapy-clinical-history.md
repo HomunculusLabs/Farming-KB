@@ -88,27 +88,3 @@ psychedelic approaches, several [[metzner-five-fundamental-conclusions-psychedel
    experience in the education of psychotherapists. The vast majority of psycholytic
    and psychedelic therapists would not sanction the therapist taking the drug together
    with the client.
-
-5. **Transpersonal access**: Mystical and spiritual experiences can and often do occur.
-   Albert Hofmann testified that his ability to recognize the psycholytic properties of
-   LSD was based on its similarity to his childhood [[psilocybin-mystical-experiences-personality-change]] in nature.
-   Stanislav Grof found that after resolving biographical childhood issues and then the
-   perinatal traumata, individuals would find themselves in realms of consciousness
-   completely transcendent of time, space, and ordinary worldview parameters. He gave
-   the name "transpersonal" to these realms and "holotropic" ("seeking the whole") to
-   their predominant quality.
-
-## Spiritual and Evolutionary Dimensions
-
-Timothy Leary, stimulated by his association with Aldous Huxley, Huston Smith and Alan
-Watts, devoted considerable energy to exploring and describing the spiritual and
-religious dimensions of psychedelic experience. This work resulted in adaptations of
-the Tibetan Buddhist Bardo Thodol and the Chinese Taoist Tao Te Ching as guidebooks
-for psychedelic sessions. Leary also recognized that the fundamental mystical vision
-emerging in these states was an evolutionary remembering -- an experience of
-reconnecting with biological and cosmological evolution. The experience went beyond the
-personal and cultural developmental issues that usually concern psychologists, and the
-language of mystics and shamans was basically going to be the scientific language of
-evolution.
-
-## See Also

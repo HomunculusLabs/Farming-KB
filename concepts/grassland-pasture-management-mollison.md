@@ -3,12 +3,13 @@ title: Grassland and pasture-management (Mollison)
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [permaculture, design, forage, livestock-health]
+tags: [[permaculture]], design, forage, livestock-health]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Grassland and Pasture Management (Mollison)
-Source: Permaculture: A Designers' Manual, Bill Mollison,
+Source: Permaculture: A Designers' Manual, [[bill-mollison]],
 Section 12.12 (pp. 436-439)
 ## The Importance of Grasslands
 Of all of earth's great plant systems, it is grasslands that we most
@@ -49,7 +50,7 @@ and rootset plants such as comfrey are planted by these underground
 gardeners, who leave forgotten storages of tree and meadow seed, root
 cuttings, and bulbs in shallow tunnels. Today, many thoughtful farmers
 are including more and more herbs in their leys (mints, chicory,
-dandelion, cleavers, daisies, plantain, and vetches) to the great
+[[dandelion]], cleavers, daisies, plantain, and vetches) to the great
 health benefit of their herds.
 ## Enhanced Pasture Design
 For [[mollison-designers-cool-humid-climate-design-overview]] areas, perennial pastures usually consist of a sward
@@ -87,27 +88,3 @@ moved. This system needs 8-12 fields.
 Uses electric fences, permanent or movable, to achieve a similar result
 with about an average 2-5 day rotation (grass at 15 cm or better).
 Intensive, used only on improved pastures.
-### Cut and Feed
-Ideal for milk cows, small herds of 2-20 cows, tropics, semiarid
-areas. Shedded cattle are fed from mixed forage (Leucaena, Pennisetum,
-comfrey, browse plants). All manure is returned to the cutover area.
-An excellent system for villages in poor arid areas.
-## The Nitrogen Fertiliser Problem
-The great drive to nitrogen fertiliser was as a result of overproduction
-in explosives factories, or war surplus dumped on farms. Fertiliser
-became 30% of energy use on farm but brought no such increase in
-return. Nitrogen was once supplied free by clover, now discouraged by
-repeated ploughing. Today, scattered leguminous trees on range are known
-to supply sufficient nitrogen, and free-living soil bacteria and algae
-are cultured and inoculated in soils.
-## Slurry Injection
-Livestock manures are more evenly spread as a liquid slurry, or more
-recently are fed below the sward using a soil conditioner. This method
-prevents loss of nitrogen to the atmosphere, deters pollution, and
-enables maximum use of the slurry by pasture swards. Slurry is injected
-at 140 cubic metres/ha, 13 cm down. Autumn is the best time for least
-disturbance to the sward (3-4 weeks rest).
-## See Also
-- [[keyline-design-water-management]]
-- [[pasture-management]]
-- [[bill-mollison]]

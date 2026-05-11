@@ -3,7 +3,9 @@ title: "How Do I Start Black Soldier Fly Farming for Composting and Animal Feed?
 tags: [query, black-soldier-fly, composting, animal-feed, insect-farming]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 # How Do I Start Black Soldier Fly Farming for Composting and Animal Feed?
@@ -146,4 +148,3 @@ For homesteaders weighing their options, the [[comparison-bsf-farming-vs-vermico
 
 - [[comparison-black-soldier-fly-composting-vs-bokashi|Black soldier fly composting vs bokashi: which is right for kitchen waste?]]
 - [[comparison-bsf-composting-vs-earthworm-breeding|BSF composting vs earthworm breeding: pros, cons, and best uses]]
-- [[comparison-worm-farming-vs-bsf-larvae|Worm farming vs BSF larvae: a complete comparison for homesteaders]]

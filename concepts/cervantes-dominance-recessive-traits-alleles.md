@@ -6,10 +6,11 @@ tags:
   - genetics
   - breeding
   - alleles
-  - Mendelian inheritance
+  - [[cannabis-chromosomes-and-mendelian-inheritance]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -82,42 +83,12 @@ P PP| Pp
 p Pp| pp
 
 This produces the classic 1:2:1 genotypic ratio and 3:1 phenotypic
-ratio that defines Mendelian inheritance of a single gene trait.
+ratio that defines [[vic-high-cannabis-genetics-mendelian-inheritance]] of a single gene trait.
 
 ## Naming Conventions for Genotypes
 
 Breeders typically base the symbol for the genotype on the first letter
-of the recessive expression of a trait. The recessive allele is written
-in lowercase and the dominant allele in uppercase. For example, if the
-recessive condition is short stature (s), the homozygous recessive is
-ss, the heterozygous is Ss, and the homozygous dominant is SS.
-
-## Monogenic vs Polygenic Traits
-
-Sometimes a single gene controls one trait (monogenic traits), and
-sometimes sets of genes operate together and contribute to what we see
-as a phenotype (polygenic traits). Most traits of interest to cannabis
-breeders, such as yield, potency, and flavor, are polygenic, meaning
-they are controlled by many genes acting together. This makes predicting
-outcomes for these traits far more complex than simple Mendelian ratios.
-
-## Implications for Breeding
-
-Understanding dominance relationships is critical when planning a
-[[cervantes-breeding-program-design-goal-setting]]. Dominant traits are easier to select for because they
-are visible in the F1 generation. Recessive traits require additional
-generations of inbreeding to become fixed in a population. Breeders must
-know whether a trait they wish to incorporate is dominant or recessive
-to choose the appropriate breeding strategy.
-
-When a breeder wants to incorporate a dominant trait, they can simply
-select for its presence in each generation. Recessive traits require
-more complex approaches such as selfing or test crosses to identify
-homozygous individuals. See
-[[cannabis-genetics-and-breeding]] - Overview of [[vic-high-cannabis-genetics-mendelian-inheritance]]
-- [[cervantes-seed-population-types-ibl-hybrid]] - Population types
-- [[cannabis-phenotype-selection]] - Selecting for desired traits
 
 ## See Also
-
-- [[gadd-soil-biomass-fungal-dominance-elemental-cycles]]
+- [[cannabis-breeding-traits-selection-criteria-clarke]]
+- [[cannabis-resin-production-and-quality-traits-clarke]]

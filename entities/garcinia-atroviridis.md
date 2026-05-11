@@ -24,8 +24,8 @@ Clusiaceae, native to Peninsular Malaysia, Thailand, and Myanmar. It is
 commonly known as asam gelugur (Malay) or asam keping (Indonesian).
 
 The species is valued primarily for its sour fruit slices, which are sun-dried
-and used extensively in Southeast Asian cuisine as a souring agent. The dried
-fruit slices are among the most widely traded forest products in Malaysia.
+and used extensively in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisine as a souring agent. The dried
+fruit slices are among the most widely traded [[mollison-specialist-tropical-crops-forest-products]] in Malaysia.
 
 In traditional medicine, the fruit, leaves, and bark are used to treat digestive
 disorders, reduce body weight, and manage blood sugar levels. Modern research
@@ -61,7 +61,7 @@ species, sold in markets throughout Southeast Asia.
 southern Myanmar. It occurs naturally in lowland and hill dipterocarp forests
 at elevations up to 600 m.
 
-The tree prefers well-drained soils in humid tropical climates with annual
+The tree prefers well-drained soils in humid [[fukuoka-natural-farming-tropical-climates]] with annual
 rainfall exceeding 1,500 mm. It is commonly found in forest margins,
 riverbanks, and secondary growth areas.
 
@@ -88,48 +88,3 @@ assays comparable to standard antioxidants. Xanthones isolated from the bark
 exhibit cytotoxic activity against several [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 Anti-inflammatory effects are mediated through inhibition of COX-2 and iNOS
-expression. The bark extract shows potential as a topical anti-inflammatory
-agent in traditional wound healing applications.
-
-## Culinary Use
-
-Dried fruit slices (asam keping) are the most important culinary product. They
-are soaked in water before use to soften, then added to curries, soups, and
-stews as a souring agent.
-
-In Malay cuisine, asam gelugur is essential in dishes such as asam pedas (spicy
-sour fish stew), rendang, and various laksa preparations. It provides a cleaner,
-fruitier acidity than tamarind.
-
-Fresh fruit is rarely eaten raw due to its extreme sourness but is occasionally
-used in pickles and preserves. Young leaves are eaten as a vegetable in some
-rural communities.
-
-The fruit's sourness is primarily from HCA, which provides a persistent acidity
-distinct from citric or ascorbic acid. This unique flavor profile is difficult
-to substitute with other souring agents.
-
-## Cultivation
-
-Trees are propagated from seed, which germinates in 2–4 weeks. Seedling trees
-begin bearing fruit at 7–10 years. Vegetative propagation by air-layering or
-grafting reduces the juvenile period to 3–5 years.
-
-The species requires partial shade during establishment but tolerates full sun
-as a mature tree. Spacing of 8–10 m is recommended for orchard plantings.
-
-Fruit is harvested when fully ripe (deep orange-yellow). Each tree produces
-200–500 fruits annually. Processing involves halving the fruit, removing seeds,
-and sun-drying the segments for 3–7 days.
-
-The species is relatively pest-free but can be affected by fruit borers and
-leaf-eating caterpillars. No serious diseases have been reported in cultivation.
-
-## See Also
-
-- [[garcinia-mangostana]]
-
-- [[mangifera-indica]]
-- punica-granatum
-- [[moringa-oleifera]]
-- [[passiflora-edulis]]

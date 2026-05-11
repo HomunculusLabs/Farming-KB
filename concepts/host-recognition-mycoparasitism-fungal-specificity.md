@@ -88,14 +88,3 @@ suppress host defenses or facilitate host recognition.
 Antibiotic compounds may inhibit the growth of competing
 microorganisms, creating a favorable niche for the
 parasite. The gliotoxin and other epipolythiodioxopiperazine
-toxins produced by Trichoderma species have both
-antifungal and immunosuppressive activities.
-
-## Host Defense Responses
-
-Host fungi are not passive targets of mycoparasitism.
-Many have evolved defense mechanisms that can limit or
-
-## See Also
-- [[fungal-endemism-host-specificity]]
-- [[mycorrhiza]]

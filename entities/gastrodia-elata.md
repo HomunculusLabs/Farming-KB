@@ -11,8 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Chen, J. et al. (2014). "Gastrodia elata Blume: An Orchid Plant with Medicinal Value." Journal of Medicinal Plants Research, 8(18), 644–653.
-  - Xu, J. et al. (2016). "Mycorrhizal Symbiosis in Gastrodia elata: Interactions with Armillaria mellea." Mycobiology, 44(4), 273–280.
-  - Yuan, C.S. et al. (1998). "Traditional Chinese Medicinal Herbs in the Treatment of Neurological Diseases." American Journal of Chinese Medicine, 26(2), 133–145.
+  - Xu, J. et al. (2016). "[[arbuscular-mycorrhizal-symbiosis]] in Gastrodia elata: Interactions with [[armillaria-mellea-entity]]." Mycobiology, 44(4), 273–280.
+  - Yuan, C.S. et al. (1998). "Traditional Chinese [[medicinal-herbs-for-livestock]] in the Treatment of [[cannabis-neuroprotection-mechanisms-neurological-diseases]]." American Journal of Chinese Medicine, 26(2), 133–145.
   - Liu, Z. et al. (2018). "Gastrodin: A Review of Its Pharmacological Effects and Mechanisms." Evidence-Based Complementary and Alternative Medicine, 2018, 7421409.
   - Huang, L.Q. et al. (2020). "Cultivation and Quality Control of Gastrodia elata in China." Journal of Ethnopharmacology, 254, 112681.
 ---
@@ -23,7 +23,7 @@ Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid
 
 It is one of the most important medicinal plants in traditional Chinese medicine.
 
-The species entirely lacks chlorophyll and depends on symbiotic fungi for nutrition throughout its life cycle.
+The species entirely lacks chlorophyll and depends on [[auxin-production-by-symbiotic-fungi]] for nutrition throughout its life cycle.
 
 The dried tuber of Gastrodia elata has been used medicinally for over 2,000 years in East Asia.
 
@@ -85,59 +85,6 @@ Gastrodin is the major water-soluble component and serves as a chemical marker f
 
 Additional bioactive constituents include parishin, gastrodigenin, vanillyl alcohol, and bis(4-hydroxybenzyl) ether.
 
-The tuber also contains phenolic compounds, organic acids, and polysaccharides.
+The tuber also contains [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], organic acids, and polysaccharides.
 
 Gastrodin has demonstrated neuroprotective effects in numerous preclinical studies.
-
-It modulates GABAergic neurotransmission and exhibits anti-convulsant properties in animal models.
-
-The compound reduces oxidative stress and neuroinflammation in ischemic brain injury models.
-
-Gastrodia elata extracts have shown anxiolytic and sedative effects in rodent studies.
-
-Clinical trials support the use of gastrodin preparations for vertigo and headache.
-
-## Traditional Medicine
-
-Gastrodia elata has been documented in Chinese pharmacopoeias since the Shen Nong Ben Cao Jing.
-
-The dried tuber is known as Tianma and is classified as a wind-calming herb in TCM.
-
-It is traditionally prescribed for headaches, dizziness, vertigo, and limb numbness.
-
-Tianma is also used to treat convulsions, epilepsy, and stroke-related symptoms.
-
-The standard daily dose of dried tuber is 3–10 grams in decoction.
-
-Gastrodia elata preparations are among the most commonly prescribed herbal medicines in China.
-
-## Cultivation
-
-Gastrodia elata cultivation has been practiced in China for over 400 years.
-
-The two-stage cultivation method involves first growing Armillaria mellea on a wood substrate.
-
-Gastrodia seeds or seed tubers are then introduced to the Armillaria-colonized substrate.
-
-Cultivation is typically conducted in shaded, humid mountain environments.
-
-The growing cycle from planting to harvest takes 1–2 years depending on local conditions.
-
-Yields of dried tuber range from 2–5 kg per square meter under optimal management.
-
-Major production areas include Yunnan, Guizhou, Sichuan, and Shaanxi provinces.
-
-Disease management is critical, with bacterial soft rot and fungal contamination being common problems.
-
-## See Also
-
-- [[vanilla-planifolia]]
-- [[orchid-mycorrhiza]]
-- [[mycorrhiza]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- [[medicinal-herb-growing]]
-- [[panax-ginseng]]
-- [[astragalus-membranaceus]]
-- [[scutellaria-baicalensis]]
-- [[rehmannia-glutinosa]]
-- [[glycyrrhiza-uralensis]]

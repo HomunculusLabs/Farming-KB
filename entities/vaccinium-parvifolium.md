@@ -11,17 +11,17 @@ updated: 2026-05-09
 sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - USDA NRCS (2024). "Vaccinium parvifolium Plant Guide." Natural Resources Conservation Service.
-  - Pojar, J. & MacKinnon, A. (1994). "Plants of the Pacific Northwest Coast." Lone Pine Publishing.
+  - Pojar, J. & MacKinnon, A. (1994). "Plants of the [[psilocybin-north-america-pacific-northwest]] Coast." Lone Pine Publishing.
   - Reich, L., Lee, T.D. & Bolufer, M. (2021). "Vaccinium." In: Judd, W.S. et al., Plant Systematics: A Phylogenetic Approach. Sinauer.
 ---
 
 ## Overview
 
 Vaccinium parvifolium, commonly known as the red huckleberry, is a deciduous
-shrub in the family Ericaceae native to western North America.
+shrub in the family Ericaceae native to western [[guzman-psilocybin-mushrooms-north-america]].
 
 It is valued for its tart, bright-red berries which are gathered from the wild
-and used in jams, pies, and traditional Indigenous foods.
+and used in jams, pies, and [[traditional-indigenous-use-sacred-fungi]] foods.
 
 The species is an understory component of coniferous forests ranging from
 southern Alaska to central California.
@@ -64,7 +64,7 @@ cedar stands with moderate to high canopy cover.
 Preferred soils are acidic, well-drained loams derived from decaying wood and
 forest duff, with high [[hamilton-composting-and-organic-matter-management]] content.
 
-It is particularly associated with rotting logs and stumps, where root
+It is particularly associated with rotting [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]], where root
 penetration into [[fungal-succession-woody-debris-ecology]] provides moisture and nutrients.
 
 ## Ecology
@@ -88,56 +88,3 @@ It regenerates readily from seed after disturbance and resprouts from the
 crown following low-intensity fire.
 
 ## Edibility and Culinary Use
-
-Red huckleberries are edible and prized for their tart, tangy flavor.
-
-They are considered among the finest huckleberries and wild berries of north america of the Pacific Northwest
-for fresh eating, though their tartness means many prefer them sweetened.
-
-Indigenous peoples of the region have harvested the berries for millennia,
-eating them fresh, drying them into cakes, and storing them for winter use.
-
-Common culinary applications include jams, jellies, pies, syrups, and fruit
-leathers.
-
-The berries pair well with sweeteners and are often combined with sweeter
-fruits in baked goods.
-
-Nutritional content is comparable to other Vaccinium species, with high
-levels of vitamin C, anthocyanins, and antioxidants.
-
-## Cultivation
-
-Red huckleberry is occasionally cultivated for berry production and as an
-ornamental shade-tolerant shrub.
-
-Propagation is typically from seed, which requires cold stratification for
-60–90 days before germination.
-
-Softwood cuttings taken in summer under mist can also be successful, though
-rooting rates are variable compared to other Vaccinium species.
-
-The shrub requires acidic soils with pH 4.5–5.5 and partial to full shade,
-making it well-suited to woodland gardens.
-
-Unlike many cultivated blueberries, it does not tolerate full sun well and
-prefers the dappled shade of conifer canopies.
-
-Establishment is slow, with plants typically requiring 3–5 years to begin
-significant fruit production.
-
-Yields are lower than cultivated blueberries, limiting commercial potential,
-but the species is valued in native plant landscaping and ecological
-restoration.
-
-## See Also
-
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-ovatum]]
-- [[vaccinium-membranaceum]]
-- [[gaylussacia-baccata]]
-- [[kalmia-latifolia]]
-- [[gaultheria-shallon]]

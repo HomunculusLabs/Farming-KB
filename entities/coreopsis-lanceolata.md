@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Smith, E.B. (2006). "Coreopsis." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 21. Oxford University Press.
   - USDA NRCS (2024). "Coreopsis lanceolata L." PLANTS Database. https://plants.usda.gov
-  - Radford, A.E. et al. (1968). *Manual of the Vascular Flora of the Carolinas*. University of North Carolina Press.
+  - Radford, A.E. et al. (1968). *Manual of the Vascular Flora of the Carolinas*. University of [[north-carolina-mycodiversity]] Press.
   - Cullina, W. (2000). *The New England Wild Flower Society Guide to Growing and Propagating Wildflowers*. Houghton Mifflin.
 ---
 
@@ -44,13 +44,13 @@ The species is diploid, in contrast to several other Coreopsis species that are 
 
 Natural hybrids with C. grandiflora and C. auriculata have been reported where their ranges overlap, though these are uncommon in wild populations.
 
-The basal leaf rosette is semi-evergreen in mild climates, providing winter interest and early spring green cover in garden settings.
+The basal leaf rosette is semi-evergreen in mild climates, providing winter interest [[coleman-overwintered-onions-and-early-spring-crops]] green cover in garden settings.
 
 ## Distribution and Habitat
 
 Coreopsis lanceolata is native to the southeastern and south-central United States, from Virginia and Florida west to Texas and Oklahoma, and north to Missouri and Illinois.
 
-The species has been widely introduced outside its native range and is now naturalized in parts of the northeastern United States, the Pacific Northwest, Japan, Korea, China, and Europe. It is frequently planted along highways and in [[permplant-willows-salix-erosion-control-fodder]] projects.
+The species has been widely introduced outside its native range and is now naturalized in parts of the northeastern United States, the [[psilocybin-north-america-pacific-northwest]], Japan, Korea, China, and Europe. It is frequently planted along highways and in [[permplant-willows-salix-erosion-control-fodder]] projects.
 
 Its native habitat includes dry, open woodlands, glades, prairies, and disturbed sites. It prefers well-drained, sandy or loamy soils in full sun and is highly tolerant of drought, heat, and poor soils.
 
@@ -84,35 +84,6 @@ Butterfly species commonly observed visiting lanceleaf tickseed include pearl cr
 
 The species serves as a marginal host plant for some lepidopteran larvae, though it is not a primary host for any widely documented butterfly species.
 
-In ecological restoration, C. lanceolata is included in native wildflower seed mixes for roadsides, meadows, and disturbed land reclamation. Its drought tolerance and rapid establishment make it valuable for erosion control on slopes and medians.
+In [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], C. lanceolata is included in native wildflower seed mixes for roadsides, meadows, and disturbed [[pioneer-species-for-land-reclamation]]. Its drought tolerance and rapid establishment make it valuable [[mollison-designers-earthworks-for-erosion-control]] on slopes and medians.
 
 The species can be aggressive in cultivated settings, spreading both by seed and rhizomes. It is considered an invasive species in parts of Japan and China where it has escaped cultivation.
-
-Its popularity in roadside wildflower plantings has led to extensive research on optimal seeding rates and companion species for sustainable meadow establishment.
-
-## Ethnobotanical Notes
-
-Limited ethnobotanical records exist for Coreopsis lanceolata compared to more widely used medicinal plants. The Cherokee reportedly used a decoction of the plant for diarrhea and as a general tonic.
-
-Early European settlers in the southeastern United States adopted some of these indigenous uses and also employed the plant as a folk remedy for wounds and [[cannabis-for-skin-conditions-detailed]].
-
-The genus Coreopsis contains various sesquiterpene lactones and flavonoids, though the pharmacological properties of C. lanceolata specifically have not been extensively studied. Related species such as C. tinctoria have documented antioxidant and anti-inflammatory activity.
-
-The bright yellow flowers yield a dye, though the color is not as lightfast as that produced by other dye plants. This use has been documented primarily in the context of general Asteraceae dye traditions rather than as a significant commercial dye source.
-
-Modern phytochemical studies have identified flavonoids, phenolic acids, and diterpenes in the aerial parts of C. lanceolata, though bioactivity assays remain limited.
-
-The species is occasionally included in pollinator-support planting lists published by university extension services and conservation organizations in the eastern United States.
-
-In Japan, where the species has been naturalized since the Meiji era, it is a common sight along roadsides and in vacant lots. The Japanese name *ōhimawari* (大向日葵) reflects its resemblance to a small sunflower.
-
-The flowers are sometimes used in casual wildflower arrangements and are a component of native seed mixes for ecological restoration projects in the eastern United States.
-
-## See Also
-
-- [[echinacea-purpurea]]
-- [[monarda-fistulosa]]
-- [[solidago-canadensis]]
-- [[echinacea-angustifolia]]
-- [[helianthus-tuberosus]]
-- [[monarda-didyma]]

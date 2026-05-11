@@ -87,27 +87,3 @@ Seeds are dispersed by livestock that consume the pods and pass seeds intact thr
 ## Cultivation
 
 F. albida is propagated primarily from seed. Seeds require scarification (hot water or acid treatment) to break physical dormancy. Germination occurs within 5–15 days after treatment. [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is most common, though seedlings can be raised in nursery pots.
-
-Seedlings establish rapidly and begin bearing pods at 5–7 years. Maximum nitrogen contribution and crop yield benefits are achieved at tree densities of 10–50 mature trees per hectare. Pruning to control canopy size is common but can reduce crop benefits for 1–2 seasons.
-
-The species is relatively pest-free, though some insect defoliators and pod borers occur. It is not invasive outside its native range due to specific rhizobial requirements for nitrogen fixation.
-
-Growth rates vary with rainfall and soil conditions. In favorable sites, height growth can reach 1 m per year in early years. Mature trees are long-lived, with specimens estimated at over 200 years old in traditional parklands.
-
-## Related Species
-
-- **Acacia senegal (Gum Arabic Tree)** — Sahelian Acacia species with overlapping range; source of gum arabic and traditional fodder.
-- **Acacia nilotica (Prickly Acacia)** — Related African legume tree used for tannin production and shade; more aggressive than F. albida.
-- **Parkia biglobosa (African Locust Bean)** — West African multipurpose tree that co-occurs with F. albida in parkland systems.
-- **Adansonia digitata (Baobab)** — Iconic African tree commonly found in the same agroforestry parklands as F. albida.
-
-## See Also
-
-- [[leucaena-leucocephala]]
-- [[moringa-oleifera]]
-- [[dalbergia-sissoo]]
-- [[robinia-pseudoacacia]]
-- [[morus-alba]]
-- [[comfrey-symphytum-officinale]]
-- hippophae-rhamnoides
-- [[trifolium-repens]]

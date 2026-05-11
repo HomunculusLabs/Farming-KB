@@ -88,61 +88,6 @@ of all enzymes.
 The specificity constant kcat/Km is the second-order rate constant at low [S]
 (M^-1 s^-1). The diffusion limit is ~10^8 to 10^9 M^-1 s^-1, set by three-
 dimensional diffusion. Enzymes at this ceiling are catalytically perfect:
-acetylcholinesterase (~1.6 x 10^8), triosephosphate isomerase (~4 x 10^8), and
-superoxide dismutase (~2 x 10^9, enhanced by electrostatic steering of charged
-substrate toward positively charged active site residues).
 
-## Mechanisms of Enzyme Catalysis
-
-**Transition state theory:** Enzymes stabilize the transition state, lowering
-activation energy. Rate enhancement = e^(delta-deltaG/RT): a 10 kcal/mol
-reduction at 298 K yields ~10^7-fold enhancement. Enzymes bind the transition
-state ~10^10 to 10^15 times more tightly than substrate. This underlies
-transition state analog inhibitors: statins mimic HMG-CoA reductase;
-mycophenolic acid mimics IMP dehydrogenase.
-
-**Additional strategies:** proximity and orientation (effective molarities of
-10^4 to 10^8 M in the active site), acid-base catalysis (His57 in serine
-proteases activates Ser195), covalent catalysis (acyl-enzyme intermediates in
-chymotrypsi [[singh-metal-ion-resistance-fungi]] ion catalysis (Zn2+ in carbonic anhydrase, Mg2+ in
-kinases), electrostatic preorganization (Warshel's theory), and active site
-desolvation.
-
-## Allosteric Enzymes and Cooperative Binding
-
-Allosteric enzymes bind effectors at sites distinct from the active site,
-modulating activity through conformational changes. Cooperative binding produces
-sigmoidal kinetics enabling switch-like responses at metabolic control points
-such as phosphofructokinase in glycolysis.
-
-The Hill equation: v/Vmax = [S]^n / (K0.5^n + [S]^n), where n is the Hill
-coefficient: n = 1 (non-cooperative, Michaelis-Menten), n > 1 (positive
-cooperativity), n < 1 (negative). Hemoglobin has n ~ 2.8 for O2. Two models: the
-MWC model (1963) proposes concerted T-to-R state transitions; the KNF model
-(1966) proposes sequential induced-fit changes between subunits.
-
-## Assumptions and Limitations
-
-Requires: single substrate or pseudo-first-order conditions; steady-state [ES];
-[S] >> [E]; negligible product accumulation; no cooperativity; no enzyme
-inactivation or substrate inhibition.
-
-Fails for allosteric enzymes with sigmoidal kinetics (aspartate
-transcarbamoylase, phosphofructokinase); cannot describe multi-substrate
-reactions without Cleland notation extensions; cannot handle substrate
-inhibition (dead-end ESS complexes). The Hill equation, MWC/KNF allosteric
-models, or complex rate equations are needed for these cases.
-
-## Historical Development
-
-Michaelis and Menten published in Biochemische Zeitschrift (1913) using
-invertase, assuming rapid equilibrium. Victor Henri outlined similar ideas in
-1903. Briggs and Haldane introduced the steady-state approximation (1925),
-giving the modern Km = (k-1 + k2)/k1 definition. Lineweaver and Burk introduced
-the double-reciprocal plot (1934). The field expanded with the MWC allosteric
-model (1963), KNF sequential model (1966), and transient kinetics techniques in
-the 1970s-1980s.
 ## See Also
-
-- [[fungal-extracellular-enzyme-production]]
-- [[ligninolytic-enzyme-systems-white-rot-fungi]]
+- [[phytochrome-discovery-butler-single-receptor-model]]

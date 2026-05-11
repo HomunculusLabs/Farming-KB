@@ -21,10 +21,10 @@ Aroma is produced primarily by aromatic terpenes produced as components of the r
 - Breeding for aroma is extremely complex, comparable to breeding perfume roses
 
 ### Major Terpene Profiles
-The dominant terpenes in cannabis resin each contribute distinctive aromatic qualities and potential therapeutic effects:
+The dominant terpenes in [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]] each contribute distinctive aromatic qualities and potential [[cbd-therapeutic-effects]]:
 - **Myrcene**: The most abundant terpene in most cannabis varieties; earthy, musky aroma reminiscent of cloves. Contributes to the sedative "couch-lock" effect and may enhance THC blood-brain barrier permeability
 - **Limonene**: Citrus-scented monoterpene found in citrus rinds; mood-elevating and stress-relieving properties. Used as a flavoring agent and studied for anti-anxiety and gastroprotective effects
-- **Caryophyllene**: Spicy, peppery sesquiterpene unique for its ability to directly activate CB2 receptors, functioning as a dietary cannabinoid. Found in black pepper and cinnamon
+- **Caryophyllene**: Spicy, peppery sesquiterpene unique for its ability to directly activate CB2 receptors, functioning as a [[beta-caryophyllene-dietary-cannabinoid]]. Found in black pepper and cinnamon
 - **Linalool**: Floral, lavender-scented monoterpene with documented anxiolytic, sedative, and analgesic properties. May synergize with CBD for anti-anxiety effects
 - **Pinene (alpha and beta)**: Pine-scented, the most common terpene in nature; counteracts THC-induced memory impairment by inhibiting acetylcholinesterase. Anti-inflammatory and bronchodilatory
 - **Terpinolene**: Complex aroma blending pine, floral, herb, and citrus notes; mildly sedative with antioxidant properties. Commonly found in sage and lilac
@@ -43,10 +43,10 @@ Biosynthetic relationships between terpenes and cannabinoids have been firmly es
 [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] are produced through two primary biosynthetic pathways in the plant:
 - **Mevalonate pathway (MVA)**: Operates in the cytosol; produces sesquiterpenes (C15) such as caryophyllene and humulene from three isoprene units. The enzyme farnesyl pyrophosphate synthase catalyzes the key condensation step
 - **MEP/DOXP pathway**: Operates in plastids; produces monoterpenes (C10) such as myrcene, limonene, pinene, and linalool from two isoprene units. Geranyl pyrophosphate (GPP) is the key intermediate
-The olivetolic acid precursor for [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] is produced via a polyketide pathway, which then combines with GPP (from the MEP pathway) through the action of the prenyltransferase enzyme GOT (geranyltransferase) to form CBGA (cannabigerolic acid) -- the universal cannabinoid precursor. This shared terpene precursor means that conditions favoring terpene production (intense light, warm temperatures, low nitrogen) simultaneously promote cannabinoid biosynthesis.
+The olivetolic acid precursor for [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] is produced via a polyketide pathway, which then combines with GPP (from the MEP pathway) through the action of the prenyltransferase enzyme GOT (geranyltransferase) to form CBGA (cannabigerolic acid) -- the universal cannabinoid precursor. This shared terpene precursor means that conditions favoring terpene production (intense light, warm temperatures, low nitrogen) simultaneously promote [[cannabinoid-biosynthesis-pathway]].
 
 ### Terpene-Cannabinoid Synergy (Entourage Effect)
-Terpenes may modulate the pharmacological effects of cannabinoids through several mechanisms: influencing [[cannabis-cannabinoid-receptor-pharmacology]] binding affinity, altering cell membrane permeability to cannabinoids, and engaging independent receptor systems (such as caryophyllene at CB2). The terpene profile of a given cannabis strain may thus contribute significantly to its overall therapeutic and psychoactive character beyond what THC and CBD content alone would predict.
+Terpenes may modulate the pharmacological effects of cannabinoids through several mechanisms: influencing [[cannabis-cannabinoid-receptor-pharmacology]] binding affinity, altering cell membrane permeability to cannabinoids, and engaging independent receptor systems (such as caryophyllene at CB2). The terpene profile of a given [[biscotti-cannabis-strain]] may thus contribute significantly to its overall therapeutic and psychoactive character beyond what THC and CBD content alone would predict.
 
 ## Terpenes as Pest Defense
 
@@ -62,7 +62,7 @@ Taste in Cannabis is divided into three categories according to usage:
 3. **Oral taste**: Generally bitter due to vegetative plant tissues, but the resin is characteristically spicy and hot, somewhat like cinnamon or pepper
 
 ### Terpenes and Flavor Perception
-Flavor perception in cannabis involves the trigeminal nerve system in addition to taste buds. Many cannabis terpenes -- particularly caryophyllene, myrcene, and pinene -- activate trigeminal receptors, producing sensations of warmth, cooling, or pungency that are perceived as flavor components rather than aromas. This is why the "taste" of cannabis when consumed orally or smoked is often more complex than its scent alone would suggest. The Maillard reaction (non-enzymatic browning) during the curing process also generates novel flavor compounds from the interaction of amino acids and reducing sugars, contributing cured cannabis flavors not present in fresh material.
+Flavor perception in cannabis involves the trigeminal nerve system in addition to taste buds. Many [[cannabis-terpene-entourage-effect]] -- particularly caryophyllene, myrcene, and pinene -- activate trigeminal receptors, producing sensations of warmth, cooling, or pungency that are perceived as flavor components rather than aromas. This is why the "taste" of cannabis when consumed orally or smoked is often more complex than its scent alone would suggest. The Maillard reaction (non-enzymatic browning) during the curing process also generates novel flavor compounds from the interaction of amino acids and reducing sugars, contributing cured cannabis flavors not present in fresh material.
 
 ## Aroma Sampling Method
 
@@ -88,32 +88,3 @@ Aroma traits in cannabis exhibit moderate to high heritability, meaning that pro
 
 - Resin color varies from strain to strain
 - Resin heads may darken and become more opaque as they mature
-- Some strains produce fresh resins that are transparent amber instead of clear and colorless; these are often some of the most psychoactive strains
-- Transparent resins (regardless of color) are a sign that the plant is actively carrying out resin biosynthesis
-- When biosynthesis ceases, resins turn opaque as cannabinoid and aromatic levels decline
-- Resin color is an indication of the conditions inside the resin head and may prove to be an important criterion for breeding
-
-### Resin Chemistry and Color Development
-Resin color changes during maturation reflect oxidative processes within the trichome head. Fresh, actively biosynthesizing resin heads contain primarily acidic cannabinoids (THCA, CBDA) suspended in a matrix of monoterpenes and sesquiterpenes, which typically appear clear or pale yellow. As the plant approaches harvest maturity, several changes occur: THC acid undergoes partial decarboxylation to neutral THC (which may darken the resin), terpenes begin polymerizing into less volatile terpene polymers, and oxidation products such as cannabinol (CBN) accumulate, contributing amber and brown tones. Strains with high proportions of anthocyanin pigments may develop purple or reddish tints in the resin heads, while strains rich in carotenoid pigments can produce orange-tinted resins. The optimal harvest window typically corresponds to the period when resin heads have transitioned from clear to cloudy/milky, indicating peak cannabinoid content before significant degradation begins.
-
-## Persistence of Aromatic Principles
-
-Cannabis resins deteriorate as they age, and the aromatic principles and cannabinoids break down slowly until they are hardly noticeable. Since fresh Cannabis is only available once a year in temperate regions, an important breeding goal has been a strain that keeps well when packaged. Packageability and shelf life are important considerations in breeding.
-
-### Factors Affecting Terpene Retention
-The rate of terpene degradation depends on several environmental and storage factors:
-- **Temperature**: Terpenes are [[fungal-volatile-organic-compounds-communication]] compounds; storage above 20°C accelerates evaporation and oxidative degradation. Refrigeration (2-8°C) significantly extends shelf life
-- **Light exposure**: UV radiation catalyzes terpene oxidation and cannabinoid conversion; amber glass or opaque containers are essential for long-term storage
-- **Oxygen**: Oxidation converts monoterpenes to terpene oxides and epoxides with altered aromas; vacuum-sealed or nitrogen-flushed containers minimize this degradation
-- **Humidity**: Excess moisture promotes microbial degradation of both terpenes and cannabinoids, while extremely dry conditions can accelerate terpene volatilization
-- **Container material**: Terpenes interact with many plastics, causing flavor contamination and loss; glass and stainless steel are preferred storage materials
-
-## Related Topics
-
-- [[cannabis-chemotype-classification-cannabinoid-breeding]] - [[cannabis-chemotype-classification-cannabinoid-breeding]]
-- [[cannabis-terpene-profile]] - Terpene profiles
-
-## See Also
-
-- [[cannabis-hashish-guide]] - Traditional hashish production methods that concentrate terpenes
-- [[cannabis-terpene-entourage-effect-profiles]]

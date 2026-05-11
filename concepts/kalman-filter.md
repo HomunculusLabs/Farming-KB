@@ -1,5 +1,5 @@
 ---
-title: "kalman filter"
+title: Kalman Filter
 created: 2026-04-28
 updated: 2026-05-06
 sources: []
@@ -47,7 +47,7 @@ Many implementations use innovation tests to reject sensor faults.
 The correction step is mathematically compact but conceptually powerful.
 It updates the estimate only by the amount justified by uncertainty.
 ## Key assumptions
-The standard kalman filter er]] er]] er]] assumes linear system dynamics.
+The standard kalman filter er er er assumes linear system dynamics.
 It assumes measurement equations are linear as well.
 It assumes process noise and measurement noise are Gaussian.
 It assumes noise statistics are known or reasonably estimated.
@@ -88,46 +88,10 @@ In economics, state-space models use Kalman filtering to estimate hidden trends.
 In weather and ocean modeling, ensemble variants support data assimilation.
 In biomedical engineering, filters can estimate physiological states from noisy signals.
 In computer vision, they track moving objects across video frames.
-In industrial control, they estimate variables that cannot be measured directly.
-In audio and communications, they recover signals corrupted by noise.
-## Practical design issues
-The hardest part is often choosing a good state representation.
-A state vector should include variables needed to predict the future.
-Adding too many variables can make estimation slow or poorly conditioned.
-Adding too few variables can force the filter to explain dynamics as noise.
-Process-noise covariance captures model uncertainty and unmodeled acceleration.
-Measurement-noise covariance captures sensor accuracy and calibration quality.
-Initial covariance should express genuine uncertainty at startup.
-Numerical stability matters because covariance matrices must remain symmetric and positive.
-Engineers often monitor residuals to detect model mismatch.
-Real deployments may require saturation limits, fault detection, and reset logic.
-## Interpretation
-The Kalman filter is sometimes described as a machine for disciplined compromise.
-It never simply averages a model and a measurement.
-Instead it asks how uncertain each source is.
-It makes uncertainty operational rather than rhetorical.
-This is why it remains important despite its age.
-The same pattern appears in broader [[bayesian-inference]] and probabilistic modeling.
-Beliefs are predicted forward, confronted with evidence, and revised quantitatively.
-The filter also illustrates why good models and good measurements complement each other.
-A weak model can be rescued by frequent accurate measurements.
-Sparse or noisy measurements can be rescued by a strong dynamical model.
-## Limitations
-The standard filter can perform poorly with nonlinear dynamics.
-It can underestimate uncertainty when linearization errors accumulate.
-It is sensitive to incorrect noise models.
-It can be misled by biased sensors because bias is not the same as random noise.
-It can diverge if the system is not observable from available measurements.
-It may require careful scaling when state variables have very different units.
-It does not automatically understand constraints unless they are modeled.
-It is not a universal substitute for system identification.
-It estimates states within a model; it does not guarantee that the model is true.
-Recognizing these limits is part of competent use.
-## Related concepts
-
-## Related Topics
-These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
 
 ## See Also
-- [[pf-tek-measurement-calibration-and-substrate-formula-precision]]
 - [[kalman-filter-vs-wavelet-transform]]
+- [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]
+- [[hepa-filter-selection-and-testing]]
+- [[filter-can-spawn-breathing-jarrold]]
+- [[boil-a-bag-filter-can-construction]]

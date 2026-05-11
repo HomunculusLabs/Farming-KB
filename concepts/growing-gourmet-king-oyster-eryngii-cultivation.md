@@ -1,5 +1,5 @@
 ---
-title: King cotter-oyster-mushroom-cultivation (Pleurotus eryngii) Cultivation
+title: Growing Gourmet King Oyster Eryngii Cultivation
 created: 2026-04-26
 tags:
   - mycology
@@ -55,7 +55,7 @@ present. Context monomitic.
 ## Mycelial Characteristics
 
 Whitish, longitudinally radial at first, sometimes rhizomorphic, soon
-thickening and becoming cottony in age. Grain spawn and myceliated
+thickening and becoming cottony in age. [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]] myceliated
 straw smells rich, sweet, and classically Oyster-esque but not
 anise-like.
 
@@ -63,15 +63,15 @@ anise-like.
 
 ### Natural Method
 Outdoors on log sections turned vertically, and on stumps inoculated
-with plug spawn. Easily grown on straw outdoors using the mound method.
+with [[growing-gourmet-plug-spawn-production]]. Easily grown on straw outdoors using the mound method.
 
 ### Spawn Expansion
 Traditional or [[growing-gourmet-liquid-inoculation-fermentation]] of grain spawn which is then
 broadcast into fruiting substrates, preferably sterilized sawdust.
 [[oyster-mushroom-pasteurized-straw-cultivation]] cultivation is comparatively less productive unless
 inoculated with equal quantities of sawdust and grain spawn. Every ton
-of wheat straw (2000 lbs dry weight) should simultaneously receive 100
-lbs of grain spawn (wet weight) and 100 lbs of sawdust spawn (wet
+of [[non-sterilized-wheat-straw-oyster-cultivation]] (2000 lbs dry weight) should simultaneously receive 100
+lbs of grain spawn (wet weight) and 100 lbs of [[growing-gourmet-sawdust-spawn-production-use]] (wet
 weight). This combination spawning method gives rise to large specimens
 on wheat straw.
 
@@ -88,43 +88,3 @@ substrates. See mushroom-primordia-formation-triggers.
 
 ### Primordia Formation
 - Temperature: 50-60 degrees F (10-15 degrees C)
-- Relative Humidity: 95-100%
-- Duration: 4-5 days
-- CO2: 500-1000 ppm
-- Fresh Air Exchanges: 4-8 per hour
-- Light: 500-1000 lux
-
-### Fruitbody Development
-- Temperature: 60-70 degrees F (15-21 degrees C)
-- Relative Humidity: 85-90%
-- Duration: 4-8 days
-- CO2: less than 2000 ppm
-- Fresh Air Exchanges: 4-5 per hour
-- Light: 500-1000 lux
-
-### Cropping Cycle
-45 days, two crops, 14 days apart.
-
-## CO2 Tolerance and pH
-
-Zadrazil (1974) showed [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] peaked when carbon dioxide
-levels approached 220,000 ppm or 22%. The stimulatory effect of CO2 on
-mycelial growth allows this mushroom to grow under conditions that
-would be stifling for most other mushrooms and lifeforms. Optimum pH
-levels at the time of spawning should be between 7.5-8.5. See [[substrate-ph-management]] for managing substrate pH during cultivation. On wheat
-straw, the pH naturally declines to a range of 5.5-6.5, ideal for
-fruiting.
-
-## Yield and Harvest
-
-Approximately 1 lb of mushrooms per 5 lbs of sterilized sawdust/chips/
-bran. Wheat straw fruitings tally approximately 1/2 of that from
-[[gourmet-mushroom-enriched-sawdust-cultivation]]. The stage at which fruitbodies are picked significantly
-affects yield efficiencies. This mushroom can become quite large if the
-substrate has sufficient nutritional base. When cap margins are deeply incurved, the mushrooms are at an adolescent stage and likely to grow much larger.
-## See Also
-- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]
-- [[growing-gourmet-king-stropharia-cultivation]]
-- [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]]
-- [[growing-gourmet-golden-oyster-citrinopileatus-cultivation]]
-- [[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]

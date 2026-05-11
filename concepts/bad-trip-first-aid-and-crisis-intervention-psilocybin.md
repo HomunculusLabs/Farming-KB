@@ -2,7 +2,7 @@
 
 ## Overview
 
-Bad trips are acute psychological crises during psilocybin use, characterized by severe anxiety,
+[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] are acute psychological crises during psilocybin use, characterized by severe anxiety,
 paranoia, disorientation, and in extreme cases, psychotic-like episodes. Unlike many drugs, psilocybin
 has no pharmacological antagonist, making psychological first aid the primary intervention. Understanding
 recognition, management, and aftermath is essential for [[adverse-effects-and-harm-reduction-psilocybin]] and [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]].
@@ -88,53 +88,3 @@ intensity naturally diminishes over 4-6 hours. The goal is keeping the person sa
 - **Polydrug use**: Alcohol significantly increases risk of adverse outcomes. The 2004 Manchester
   case involved fatal outcomes from mushrooms combined with alcohol
 - **Psychiatric history**: Psilocybin can precipitate latent psychotic or personality disorders
-
-## Post-Trip Aftermath
-
-### Short-Term (hours to days)
-- Faintness, exhaustion, emotional vulnerability
-- Sadness, depression, residual anxiety
-- Paranoid interpretations that gradually resolve
-- Insomnia persisting 2-6 hours after effects wear off
-- Physical symptoms: headache, fatigue, muscle tension
-
-### Long-Term (weeks to months)
-- **Flashbacks**: Perceptual alterations similar to the trip experience. Less frequent with
-  psilocybin than LSD but documented. Generally transient and self-resolving.
-- **Persistent anxiety**: Some individuals develop anxiety about recurrence
-- **Precipitated psychiatric disorder**: In vulnerable individuals, a severe bad trip can trigger
-  psychotic illness or exacerbate existing conditions
-
-## Epidemiology
-
-Data from EMCDDA monitoring provides context for mushroom-related emergencies:
-
-- Medical assistance for psilocybin intoxication is very low overall
-- Swedish Poisons Information Centre: ~30-40 calls annually (stable over 5 years)
-- Czech Republic: 4 cases (2003), 10 cases (2004)
-- Poland toxicological centers: 2-3 cases per year
-- UK Mixmag survey (2005): ~25% of recent users experienced panic attacks, ~25% nausea/vomiting
-
-## Prevention and Harm Reduction
-
-1. **Start low, go slow**: Begin with sub-threshold doses to assess sensitivity
-2. **Prepare the set**: Enter with a stable, positive mindset
-3. **Prepare the setting**: Choose safe, comfortable, familiar environment
-4. **Use a trip sitter**: An experienced, sober companion for early intervention
-5. **Avoid polydrug use**: Alcohol is the single most significant risk factor for severe outcomes
-6. **Know your mushroom**: Potency varies enormously — psilocybin content ranges from 0.1% to
-   over 1% dry weight even within the same species
-
-## See Also
-
-- [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-
-## Sources
-
-- EMCDDA (2006). [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: an [[emcdda-epod-project-emerging-trend-detection-methodology]] case study.
-- Hasler, F. et al. (2004). Pharmacokinetics and pharmacodynamics of psilocybin.
-- Jacob, M.S. & Fehr, K.O. (1987). Drugs and hallucinations.
-- Pechnick, R.N. & Ungerleider, J.T. (2005). Hallucinogens.

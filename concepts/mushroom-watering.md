@@ -1,5 +1,5 @@
 ---
-title: [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation|Mushroom]] Watering
+title: Mushroom Watering
 created: 2026-04-28
 tags: [mushrooms, irrigation, liquid-manure, victorian-gardening]
 date: 2026-04-28

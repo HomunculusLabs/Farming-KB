@@ -1,7 +1,7 @@
 ---
 title: Tryptamine Hallucinogens
 created: 2026-05-09
-source: raw/papers/mckenna_t-tryptamines_consciousness.md
+source: mckenna_t-tryptamines_consciousness.md
 tags: [tryptamine, psychedelics, psilocybin, dmt, ayahuasca, mcKenna]
 aliases: [tryptamines, classic psychedelics, serotonin psychedelics, indolethylamines]
 ---
@@ -88,60 +88,3 @@ oral activity:
   countries for ceremonial use; protected as cultural patrimony
 
 ## Quantum Mechanical Correlates
-
-McKenna emphasized a striking feature of tryptamine pharmacology: the
-**extreme molecular specificity** of hallucinogenic activity. Moving a single
-atom on the molecular ring of an inactive compound can render it highly active,
-and vice versa. This sensitivity to sub-atomic positional changes suggests
-quantum mechanical phenomena are directly involved in the generation of
-conscious experience.
-
-Work by John Smythies, [[alexander-shulgin]], and others demonstrated these
-quantum mechanical correlates. McKenna considered this "a perfect proof of
-the dynamic linkage at the formative level between quantum mechanically
-described matter and mind."
-
-## The Logos Hypothesis
-
-McKenna's central claim about tryptamines is that they "invoke the Logos" —
-acting directly on brain regions involved in language generation and
-comprehension. The experience is characterized by:
-
-- **Interior dialogue**: Perceived communication from an alien intelligence
-- **Translinguistic content**: Information that seems meaningful but cannot be
-  expressed in any known language
-- **Active engagement**: The user is invited (or compelled) to enter into
-  dialogue with the perceived intelligence
-- **Urgency**: "One must decide whether or not to enter into this dialogue
-  and to try and make sense of the incoming signal"
-
-This distinguishes tryptamine experiences from the more perceptually-oriented
-phenomenology of LSD or mescaline.
-
-## Cultural Context
-
-McKenna critiqued the scientific dismissal of psychedelic experience:
-
-- The question of [[extraterrestrial-contact-and-dmt-experience]] is a "culture-bound presumption"
-  comparable to "searching the galaxy for a good Italian restaurant"
-- Psychics, shamans, and mystics have been receiving "signals" for far more
-  of human history than they haven't — these have been ruled irrelevant
-- Only consensus-validated instrumental outputs are accepted as legitimate
-- The noise-to-signal ratio is high because "we are so inundated by these
-  signals that there is a great deal of noise in the circuit"
-
-## Comparison of Key Tryptamines
-
-| Compound | Onset | Duration | Route | Intensity | Visual |
-|---|---|---|---|---|---|
-| DMT | 15 sec | 5-15 min | Smoke | Extreme | Very high |
-| 5-MeO-DMT | 15 sec | 5-20 min | Smoke | Extreme | Low |
-| Psilocybin | 30-60 min | 4-6 hr | Oral | High | High |
-| Ayahuasca | 30-60 min | 4-8 hr | Oral | High | High |
-| Ibogaine | 30-90 min | 12-36 hr | Oral | Variable | Moderate |
-
-## See Also
-
-- [[dmt-phenomenology]]
-- [[machine-elf-entities]]
-- [[glossolalia-translinguistic-objects]]

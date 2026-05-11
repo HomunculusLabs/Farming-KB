@@ -21,11 +21,11 @@ created: 2026-05-07
 
 ## Overview
 
-**Sambucus canadensis** L. (syn. *Sambucus nigra* subsp. *canadensis*), the **American elderberry**, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae) native to eastern and central [[psilocybin-north-america-pacific-northwest]].
+**Sambucus canadensis** L. (syn. *[[sambucus-nigra]]* subsp. *canadensis*), the **American elderberry**, is a deciduous shrub in the family Adoxaceae (formerly Caprifoliaceae) native to eastern and central [[psilocybin-north-america-pacific-northwest]].
 
 It produces large clusters of dark purple-black berries valued for culinary use, traditional medicine, and nutraceutical production.
 
-American elderberry has experienced a surge in commercial cultivation since 2015, driven by demand for elderberry-based dietary supplements and functional foods.
+American elderberry has experienced a surge in commercial cultivation since 2015, driven by demand for elderberry-based [[medicinal-mushroom-dietary-supplements]] and [[functional-foods-medicinal-mushrooms]].
 
 ## Taxonomy and Morphology
 
@@ -67,7 +67,7 @@ Commonly found in moist, open habitats including stream banks, forest edges, dis
 
 Tolerates a wide range of soil types but prefers rich, moist, well-drained loams with pH 5.5–6.5.
 
-Hardy to USDA Zone 3, making it one of the most cold-tolerant fruiting shrubs available for northern cultivation.
+Hardy to USDA Zone 3, making it one of the most cold-tolerant [[serviceberry-and-native-fruiting-shrubs]] available for northern cultivation.
 
 ## Bioactive Compounds
 
@@ -85,44 +85,6 @@ Cooking or processing fully degrades sambunigrin, rendering ripe berries safe fo
 
 ## Pharmacology and Traditional Use
 
-Indigenous peoples of eastern North America used elderberry extensively: bark as an emetic, flowers for fever reduction, and berries for food and medicine.
+Indigenous peoples of eastern [[guzman-psilocybin-mushrooms-north-america]] used elderberry extensively: bark as an emetic, flowers for fever reduction, and berries for food and medicine.
 
 Contemporary research supports antiviral activity against influenza strains A and B, with in vitro studies showing inhibition of viral replication and reduced infectivity.
-
-Anti-inflammatory effects are attributed to anthocyanin-mediated inhibition of cyclooxygenase-2 (COX-2) and nuclear factor kappa-B (NF-κB) signaling pathways.
-
-Immunomodulatory effects include enhanced cytokine production and increased oxidative defense capacity in [[mushroom-cancer-clinical-trials-overview]].
-
-## Permaculture Applications
-
-American elderberry is an excellent permaculture species for food forests, riparian buffers, and hedgerow plantings.
-
-It provides multiple yields: flowers for cordials and teas, berries for preserves and supplements, and nectar for pollinators during the midsummer gap period.
-
-The suckering growth habit makes it effective for [[permplant-willows-salix-erosion-control-fodder]] on stream banks and slopes.
-
-It functions as a [[nutrient-dynamic-accumulator-reference]], drawing minerals from deep soil layers into its [[dighton-fungal-decomposition-leaf-litter-dynamics]], benefiting neighboring plants.
-
-Compatible in guild plantings with nitrogen-fixing shrubs such as *Elaeagnus umbellata* and *Caragana arborescens*.
-
-## Cultivation
-
-Propagated readily from hardwood cuttings (20–30 cm, taken during dormancy) or softwood cuttings in summer.
-
-Commercial plantings are typically spaced 0.9–1.5 m apart in rows 3–4 m apart, yielding 4,000–6,000 plants per hectare.
-
-Annual pruning of older canes (2+ years) maintains productivity, as fruit is produced primarily on one-year-old wood.
-
-Established plantings produce 5–12 kg of berries per plant at maturity (3–5 years after planting).
-
-## See Also
-
-- [[cercis-canadensis]]
-
-- [[sambucus-cerulea]]
-
-- [[vaccinium-myrtillus]]
-- [[calendula-officinalis]]
-- [[plantago-major]]
-- [[taraxacum-officinale]]
-- [[passiflora-incarnata]]

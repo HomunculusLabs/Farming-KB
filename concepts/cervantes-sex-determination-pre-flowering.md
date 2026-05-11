@@ -1,5 +1,5 @@
 ---
-title: cannabis-sex-determination-floral-biology and Pre-Flowering
+title: Cervantes Sex Determination Pre Flowering
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -25,7 +26,7 @@ and for successful breeding programs.
 
 ## Pre-Flowers: The First Sign of Sex
 
-Pre-flowers, described by Robert Clarke in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] as
+Pre-flowers, described by [[robert-clarke]] in [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] as
 "primordial," are the first indication of a plant's sex. The pre-flowers
 grow at branch internodes just behind the leaf sour or stipule about the
 fourth week of [[cannabis-vegetative-growth-stage]], when the plant is six to eight weeks
@@ -40,7 +41,7 @@ flowering.
 ## Male Pre-Flowers
 
 Male pre-flowers are normally visible when plants are six to eight weeks
-old, after the fourth week of vegetative growth. The pre-flowers emerge
+old, after the fourth week of [[green-cannabis-vegetative-growth]]. The pre-flowers emerge
 behind the stipule at the fourth to fifth branch internodes and
 generally do not turn into full flowers. However, a male plant will
 develop mature staminate flowers after prolonged periods of vegetative
@@ -87,50 +88,3 @@ expedite flowering. In fact, flowering will occur at about the same
 time as if you had waited for pre-flowers to show.
 
 Do not try to sex a seedling based on the very first pre-flower. Wait
-and make sure. The time between spotting the very first pre-flower and
-the plant dropping pollen is at least 10+ days, so there is time to be
-certain.
-
-## Male Flowering
-
-When given a 12/12 day/night photoperiod, male cannabis reaches
-maturity and flowers one to two weeks before females. However, male
-plants do not necessarily need a 12/12 day/night photoperiod to flower
-and shed pollen. Males can flower under long days and short nights as
-well, but they generally produce fewer flowers.
-
-Once male calyxes show, pollen develops quickly and can disperse within
-a very short time. There is always an early opener that sheds pollen,
-often within 24 hours or less. To avoid pollination problems, remove
-males as soon as they are distinguished.
-
-Males are usually taller than females and have stout stems, sporadic
-branching, and fewer leaves. In nature, wind and gravity carry pollen
-from taller males to fertilize receptive females. Male plants produce
-fewer flowers than females, because one male plant can pollinate many
-females. Males also contain less THC and overall lower cannabinoid
-levels.
-
-## Female Flowering
-
-Female cannabis is prized for heavy, potent [[cannabis-glandular-trichome-types-resin-production-clarke]] and
-weighty flower yield. Ideal female plants grow squat and bushy with
-branches close together on the stem and dense foliage on branches. In
-most strains, the first signs of female flowers appear one to three
-weeks after inducing flowering with the 12-hour photoperiod.
-
-Female flowers initially appear near the top of the terminal bud and
-gradually develop on lower branches starting at the tips and moving
-downward. Flowers have two small one-quarter to one-half inch (6-12 mm)
-fuzzy, white hairs, called pistils that form a "V." The set of pistils
-is attached at the base to an ovule contained in a light green pod,
-called a calyx. Pistil-packed calyxes form dense clusters or buds along
-stems.
-
-## See Also
-
-- [[cervantes-chromosomes-sex-determination-ploidy]]
-
-- [[cervantes-sinsemilla-cultivation]]
-- [[cervantes-flowering-phase]]
-- [[cervantes-cloning]]

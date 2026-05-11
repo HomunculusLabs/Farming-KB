@@ -1,7 +1,7 @@
 ---
-title: Holzer holzer saving ancient trees Trees - Natural Monuments and comparison-apple-tree-care-vs-apple-guild-design
+title: Holzer Saving Ancient Trees
 created: 2026-04-26
-tags: [tree-care, ecological-restoration, old-growth, permaculture, holzer]
+tags: [tree-care, ecological-restoration, old-growth, [[permaculture]], holzer]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/holzer-desert-or-paradise.md]
@@ -49,7 +49,7 @@ around it, not to water or fertilise the tree directly:
 
 - holzer-fruit-tree-planting-method
 - [[holzer-reading-nature-philosophy]]
-- [[holzer-indicator-plants]]
+- [[holzer-assessing-the-land]]
 ## Practical Considerations
 
 When working with Holzer Saving Ancient Trees - Natural Monuments and Tree Care, several practical factors should be
@@ -88,30 +88,3 @@ than assuming perfect predictability or control over outcomes.
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-- [[eclss-environmental-control-life-support]]
-- [[tompkins-ancient-plant-knowledge]]
-- [[mollison-designers-soil-water-storage-and-field-capacity]]
-- [[jadam-local-material-resource-cycling]]
-- [[permaculture-energy-cycling-and-resource-efficiency]]

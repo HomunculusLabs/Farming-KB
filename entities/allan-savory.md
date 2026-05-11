@@ -88,24 +88,3 @@ The Africa Centre for Holistic Management in Zimbabwe has demonstrated
 restoration of severely degraded land through planned grazing.
 
 ### Criticism and Limitations
-
-Critics have challenged Savory's [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] claims, arguing that
-rates achievable through improved grazing are insufficient to offset global
-greenhouse gas emissions from livestock. Confounding factors (rainfall, soil
-type, fire management) make isolation of grazing effects difficult. The
-framework appears most effective in semi-arid grasslands; its applicability
-to humid environments has been questioned. Critics argue that broad claims
-about universal livestock benefits oversimplify complex ecological dynamics.
-
-## Legacy and Influence
-
-Savory's work has influenced regenerative agriculture movements worldwide and
-contributed to growing recognition that livestock, properly managed, can play
-a constructive role in ecosystem restoration. The Savory Institute, founded in
-2009, trains practitioners and certifies hubs on six continents.
-
-## See Also
-
-- [[geoff-lawton]]
-- [[bill-mollison]]
-- [[masanobu-fukuoka]]

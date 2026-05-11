@@ -19,7 +19,7 @@ type: concept
 
 # Edaphic Factors in Cannabis Endorhiza Microbiome Assembly
 
-The assembly of microbial communities in and around Cannabis roots is governed by a hierarchy of factors in which soil physicochemical properties (edaphic factors) are the primary determinant of overall [[core-endorhiza-bacterial-community-composition-cannabis]], while cultivar genotype fine-tunes the endorhiza community structure. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
+The assembly of [[cannabis-rhizosphere-microbial-communities]] in and around Cannabis roots is governed by a hierarchy of factors in which [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] (edaphic factors) are the primary determinant of overall [[core-endorhiza-bacterial-community-composition-cannabis]], while cultivar genotype fine-tunes the [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]. This two-tier model, supported by the landmark Winston et al. (2014) study, has significant implications for understanding plant-microbe interactions in this commercially and medicinally important crop.
 
 ## Dominance of Soil Type Over Community Composition
 
@@ -59,9 +59,9 @@ The consistent pattern of declining alpha diversity from bulk soil to rhizospher
 
 While soil type determined the presence or absence of OTUs (unweighted analysis showed zero significant OTU differences between cultivars), Cannabis strain significantly structured community abundance (weighted analysis: 71 significant OTUs). This means that cultivars select for the same general groups of bacteria from the available soil pool, but modulate their relative abundances differently.
 
-In the second experiment with White Widow and Maui Wowie, strain effects on endorhiza communities were highly significant (weighted ADONIS: R² = 0.59, p = 0.004). The PCoA plots were particularly revealing: in unweighted analysis, PC1 (32.06% variance) was dominated by soil type, while in weighted analysis, PC1 (34.51% variance) was dominated by strain. This demonstrates that composition (who is there) is edaphically determined, while structure (how abundant each member is) is cultivar-dependent.
+In the second experiment with White Widow and Maui Wowie, strain effects on [[cannabis-rhizosphere-endorhiza-communities]] were highly significant (weighted ADONIS: R² = 0.59, p = 0.004). The PCoA plots were particularly revealing: in unweighted analysis, PC1 (32.06% variance) was dominated by soil type, while in weighted analysis, PC1 (34.51% variance) was dominated by strain. This demonstrates that composition (who is there) is edaphically determined, while structure (how abundant each member is) is cultivar-dependent.
 
-Key strain-specific OTU differences included the prevalence of Methylophilus, which comprised 13% of the Bookoo Kush endorhiza community but only 0.13% in Burmese and was entirely absent from Sour Diesel. In the second experiment, Sphingomonas wittichii was prevalent in Maui Wowie but not White Widow; this organism can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments.
+Key strain-specific OTU differences included the prevalence of Methylophilus, which comprised 13% of the Bookoo Kush endorhiza community but only 0.13% in Burmese and was entirely absent from Sour Diesel. In the second experiment, [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] was prevalent in Maui Wowie but not White Widow; this organism can metabolize phenazine-1-carboxylic acid and has been implicated in increased survival in soil environments.
 
 ## OTU Sharing and the Two-Step Selection Model
 
@@ -77,7 +77,7 @@ A comparison between the two experiments revealed an important methodological co
 
 ## Core Endorhiza Community Across Cultivars
 
-Despite significant cultivar-specific differences in OTU abundance, all Cannabis endorhiza samples maintained a core community of consistent members. This core included Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of the aerobic cellulytic bacterium Cellvibrio (now understood to be a decay artifact), all prevalent core members were well-known endophytic bacteria, primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
+Despite significant cultivar-specific differences in OTU abundance, all Cannabis endorhiza samples maintained a core community of consistent members. This core included Pseudomonas, Cellvibrio, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of the aerobic cellulytic bacterium Cellvibrio (now understood to be a decay artifact), all prevalent core members were well-known [[endorhiza-endophytic-bacteria]], primarily within the orders Gammaproteobacteria and Alphaproteobacteria.
 
 This observation is consistent with patterns reported from other plant systems, where a relatively small set of generalist endophytes colonizes diverse host species. The stability of this core community across five Cannabis cultivars and three soil types suggests strong selection for these particular taxa within the root interior environment, possibly driven by their ability to metabolize root exudates, evade plant immune responses, or provide benefits to the host.
 
@@ -88,33 +88,3 @@ The transition from bulk soil through rhizosphere to endorhiza was characterized
 Conversely, Proteobacteria and Actinobacteria increased in relative abundance within the endorhiza. Of the 51 OTUs significantly differentiating between sample types, the 17 that increased in abundance within the Cannabis endorhiza were predominantly Proteobacteria, including several from the Rhizobiales order. Strain-level OTU differences were also composed mostly of Proteobacteria, notably from the orders Pseudomonadales, Burkholderiales, Sphingomonadales, and Rhizobiales, with additional contributions from Bacteroidetes (Sphingobacteriales and Flavobacteriales).
 
 ## OTU Correlation Between Compartments
-
-The mean abundance of the 51 sample-type-differentiating OTUs was highly correlated between bulk soil and rhizosphere samples (Pearson's rho: 0.92), indicating that the rhizosphere largely preserves the relative abundance structure of the bulk soil community. However, the correlation dropped substantially between rhizosphere and Cannabis endorhiza (rho: 0.63), and was lowest between bulk soil and endorhiza (rho: 0.42). This gradient of decreasing correlation quantifies the progressive reshaping of the microbial community as it transitions from soil to root surface to root interior.
-
-## Cultivar Descriptions and Chemotype Context
-
-The five Cannabis cultivars used in the study represented a range of chemotypes and genetic backgrounds:
-
-- **Sour Diesel**: Cannabis sativa, high THC to CBD ratio
-- **Bookoo Kush**: Sativa-dominant hybrid, moderately high THC to CBD ratio
-- **Burmese**: Balanced hybrid of C. sativa and C. indica, moderate THC to CBD ratio
-- **Maui Wowie**: Cannabis sativa, high THC to CBD ratio
-- **White Widow**: Balanced hybrid of C. sativa and C. indica, moderate THC to CBD ratio
-
-The consistent finding of cultivar-specific microbiome structuring across this diverse panel suggests that the phenomenon is generalizable across Cannabis genetic diversity rather than being specific to particular chemotypes or subspecies classifications.
-
-## Future Directions Suggested by the Study
-
-The authors identified several areas requiring further investigation. These include elucidating the role of cultivar on rhizosphere (where the first experiment showed ambiguous results likely due to post-harvest decay artifacts), determining which aspects of host genotype produce the observed microbiome structure across strains, and increased testing of cannabinoids with better experimental designs to decouple cannabinoid effects from edaphic confounds. Time-series sampling of endorhiza communities across the reproductive cycle was also recommended to understand natural variation during plant development.
-
-## Methodological Contributions
-
-The Winston et al. study contributed several methodological advances to the study of Cannabis microbiomes. Their use of 16S rRNA amplicon sequencing with both V3-V5 and V6-V8 primer sets provided a more comprehensive picture of community composition than either primer set alone. Their experimental design, which separated the effects of soil type, cultivar, and sample compartment, established a framework for disentangling the multiple factors that shape the Cannabis root microbiome. The comparison between two independent experiments, while initially intended as replication, became an important methodological lesson about post-harvest sampling artifacts.
-
-## See Also
-
-- [[cannabis-microbiome-cultivar-specificity]]
-- [[cannabis-endorhiza-microbiome]]
-- [[proteobacteria-dominance-cannabis-endorhiza]]
-- [[beta-diversity-root-soil-compartments-cannabis]]
-- [[cellvibrio-and-root-decay-microbiome]]

@@ -88,10 +88,3 @@ Goals are never set in concrete. They are continually under review and subject t
 ## Sources
 
 - Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 8 and 46. Island Press, 1988.
-
-## See Also
-
-- permaculture-designers-manual-grazing-management
-- [[livestock-fencing-guide]]
-- [[glomalin-and-soil-carbon]]
-- [[savory-holistic-resource-management-decision-framework]]

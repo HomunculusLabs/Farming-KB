@@ -3,6 +3,7 @@ title: oner-cannabis-breeding-fundamentals Fundamentals
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,22 +88,3 @@ Pure-breeding (true-breeding) lines are homozygous at most loci. See
 
 4. **Screen, select, and apply selection pressures.** Select only
    plants matching the breeding goal and reject all others. Expose
-   candidates to specific environmental pressures (e.g., mold-prone
-   conditions) to reveal genetic strengths and weaknesses.
-
-5. **Commercialize (optional).** Ethical breeding focuses on improving
-   populations and preserving genetic resources, not just making seeds
-   for sale. Years of persecution and greedy seed-making practices have
-   created a [[cervantes-genetic-bottleneck-and-diversity-loss]].
-
-## Types of Seed Populations
-
-### Inbred Lines (IBLs)
-
-Inbred lines have been bred for generations while selecting for specific
-traits until the population reliably reproduces those traits. They are
-genetically stable, homozygous at most alleles, and breed true. IBLs
-make the best breeding stock. See
-[[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]].
-
-## See Also

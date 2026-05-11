@@ -7,11 +7,11 @@ tags:
   - agaricales
   - poisonous-mushroom
   - inocybaceae
-  - muscarine
+  - [[muscarine]]
   - mushroom-poisoning
   - deadly-fungi
   - european-fungi
-  - mycology
+  - [[mycology]]
   - foraging-danger
   - gilled-mushroom
   - ectomycorrhizal
@@ -58,7 +58,7 @@ Basidiomycota → Agaricomycetes → Agaricales → **Inocybaceae → *Inocybe* 
 
 ## Toxicity and Muscarine Poisoning
 
-*I. erubescens* is considered the most dangerous muscarine-containing mushroom in Europe. Muscarine concentrations are significantly higher than in *Clitocybe dealbata* or *Inocybe fastigiata*, making ingestion of even small quantities hazardous.
+*I. erubescens* is considered the most dangerous muscarine-containing [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]. Muscarine concentrations are significantly higher than in *[[clitocybe-dealbata]]* or *Inocybe fastigiata*, making ingestion of even small quantities hazardous.
 
 **Muscarine content:** Approximately 0.03–0.05% dry weight, among the highest recorded for any mushroom species.
 
@@ -76,7 +76,7 @@ Onset: 15 minutes to 2 hours after ingestion.
 
 ### Treatment
 
-- Atropine is the specific antidote for muscarine poisoning; it competitively blocks muscarinic acetylcholine receptors
+- [[atropine]] is the specific antidote for muscarine poisoning; it competitively blocks muscarinic acetylcholine receptors
 - Intravenous atropine (1–2 mg in adults, repeated as needed) rapidly reverses the life-threatening parasympathomimetic effects
 - Supportive care including intravenous fluids, airway management, and cardiac monitoring
 - Hospitalization is recommended for all confirmed or suspected cases
@@ -88,33 +88,3 @@ Onset: 15 minutes to 2 hours after ingestion.
 Fatalities have been documented, particularly in cases involving children, elderly individuals, or delayed medical treatment. A notable outbreak in France in the 1980s involved multiple poisonings from *I. erubescens* collected in public parks. The species is responsible for a disproportionate number of serious mushroom poisonings in Europe relative to its actual abundance, likely because it fruits in accessible locations (parks, gardens) and can be confused with edible species by inexperienced foragers.
 
 ## Dangerous Lookalikes
-
-- ***Inocybe rimosa* (*I. fastigiata*):** Similar overall appearance but flesh does not stain red; also contains muscarine but at lower concentrations
-- ***Inocybe geophylla*** (white fibercap): Small, pure white, also muscarine-containing but less dangerous due to smaller size
-- ***Tricholoma* species:** Some pale *Tricholoma* species have a similar cap texture but are distinguished by white spore prints and lack of reddish staining
-- ***Cortinarius* species:** Some species have silky caps and brown spore prints, but typically have a cobwebby partial veil (cortina) and different spore morphology
-
-## Key Identification Checklist
-
-1. Cap silky-fibrillose, white to buff, staining reddish on handling
-2. Flesh and stem develop distinct reddish-brown discoloration when cut or bruised
-3. Spore print brown (not white or pink)
-4. Odor faintly spermatic or mealy
-5. Ectomycorrhizal, growing on soil near hardwood trees
-6. No ring or volva present
-7. Gills adnexed to sinuate, brownish at maturity
-8. Cystidia thin-walled, clavate, often incrusted (visible under microscopy)
-
-## Cultural and Historical Notes
-
-- *I. erubescens* was first described by Giacomo Bresadola in 1883 as *I. patouillardii*, honoring Patouillard's contributions to Inocybe systematics
-- The species gained renewed attention in toxicological literature following several high-profile poisoning cases in France and Germany during the late 20th century
-- In European mycological education, *Inocybe* species are emphasized as a genus that should be entirely avoided by recreational foragers due to the difficulty of species-level identification and the prevalence of muscarine across the genus
-- The reddish bruising reaction is unusual within *Inocybe* and serves as a practical field diagnostic, but should never be relied upon as the sole identification character
-- The species has been the subject of chemical ecology studies investigating why some fungi invest heavily in muscarine production as a defensive metabolite
-
-## See Also
-
-- [[amanita-muscaria-entity]] — contains muscimol and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]], often confused with muscarine-containing species
-- [[inocybe-calamistrata]] — related Inocybe species with distinctive morphology
-- [[clitopilus-prunulus]] — edible species with pink spore print, contrasting identification approach

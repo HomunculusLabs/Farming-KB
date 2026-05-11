@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
-  - Reznicek, A.A. (2002). "Carex in North America." in Flora of North America, Vol. 23. Oxford University Press.
+  - Reznicek, A.A. (2002). "Carex in [[guzman-psilocybin-mushrooms-north-america]]." in Flora [[berry-growing]], Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
   - Global Biodiversity Information Facility (GBIF). "Carex flacca Schreb." https://www.gbif.org/species/2723965
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
@@ -23,7 +23,7 @@ Carex flacca is a perennial evergreen sedge in the family Cyperaceae, commonly k
 
 The species is native to Europe, North Africa, and western Asia. It occurs in calcareous grasslands, rocky slopes, and open woodland margins.
 
-Its ornamental qualities, drought tolerance, and low maintenance requirements have made it one of the most widely cultivated Carex species in temperate gardens worldwide.
+Its ornamental qualities, [[dighton-fungal-drought-tolerance-plant-water-relations]], and low maintenance requirements have made it one of the most widely cultivated Carex species in temperate gardens worldwide.
 
 ## Taxonomy and Morphology
 
@@ -69,7 +69,7 @@ Several Lepidoptera species use Carex flacca as a larval food plant. The range-r
 
 The creeping root system contributes to soil stabilization on calcareous slopes and rocky outcrops. Colonies can help prevent shallow soil erosion.
 
-In calcareous grassland ecosystems, C. flacca is one of several sedges that contribute to species diversity. It co-occurs with Sesleria caerulea, Bromus erectus, and diverse forb communities.
+In calcareous [[biodiversity-fungi-grassland-ecosystems]], C. flacca is one of several sedges that contribute to species diversity. It co-occurs with Sesleria caerulea, Bromus erectus, and diverse forb communities.
 
 ## Cultivation
 
@@ -79,35 +79,12 @@ Propagation is straightforward by division in spring or early autumn. Seed germi
 
 The species prefers full sun to partial shade and well-drained soils. It is notably drought-tolerant once established, making it suitable for xeriscaping.
 
-It is hardy to USDA Zone 4 and tolerates a wide range of temperate climates. Foliage color is most pronounced in cooler conditions and full sun exposure.
+It is hardy to USDA Zone 4 and tolerates a wide range of [[fukuoka-natural-farming-temperate-climates]]. Foliage color is most pronounced in cooler conditions and full sun exposure.
 
-Pest and disease problems are minimal. Crown rot can occur in poorly drained soils, particularly in regions with warm, wet summers.
+[[hamilton-pest-and-disease-control-organic]] problems are minimal. Crown rot can occur in poorly drained soils, particularly in regions with warm, wet summers.
 
 Garden uses include ground covers, rock garden plantings, border edging, and green roof installations. Its spreading habit makes it effective as a low-maintenance lawn alternative.
 
 ## Uses and Conservation
 
 Carex flacca has no significant traditional economic uses. It was not used for thatching, weaving, or medicinal purposes in the ethnographic record.
-
-Its primary modern value is ornamental. The species has received the Royal Horticultural Society's Award of Garden Merit for its garden performance.
-
-Conservation status is secure across most of its native range. The species is common in calcareous grasslands and is not considered threatened.
-
-However, calcareous grassland habitats have declined significantly across Europe due to agricultural intensification and abandonment. Local populations may be at risk where these habitats are lost.
-
-The species is included in grassland restoration seed mixes in several European countries. Its ability to establish on thin, calcareous soils aids restoration efforts.
-
-In North America, naturalized populations are generally not considered invasive. However, its spreading habit should be monitored in sensitive native grassland communities.
-
-## See Also
-
-- [[carex-pensylvanica]]
-- [[carex-laxiflora]]
-- [[carex-sylvatica]]
-- [[carex-paniculata]]
-- [[festuca-ovina]]
-- [[deschampsia-caespitosa]]
-- [[bromus-inermis]]
-- [[molinia-caerulea]]
-- [[juncus-effusus]]
-- [[elymus-canadensis]]

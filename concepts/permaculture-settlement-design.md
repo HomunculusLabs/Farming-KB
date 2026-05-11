@@ -77,3 +77,20 @@ The Devonport (Auckland) model demonstrates total solid waste recycling returnin
 - [[permaculture-currency-and-economics]] -- LETS systems, bioregional economics, land trusts
 - [[permaculture-fire-management]] -- community fire planning
 - [[permaculture-pond-construction]] -- community water supply
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-design-methods]]
+- [[permaculture-windbreak-design]]
+- [[mollison-designers-community-garden-design-urban-permaculture]]
+- [[permaculture-twelve-design-principles]]
+- [[permaculture-urban-design]]

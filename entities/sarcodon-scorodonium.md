@@ -78,62 +78,13 @@ bruised or cut. The taste is mild to slightly peppery.
 
 *Sarcodon scorodonium* is found across much of temperate Europe, from
 Scandinavia and the British Isles southward through the Mediterranean
-region. In North America, it occurs primarily in the Pacific Northwest
+region. In [[guzman-psilocybin-mushrooms-north-america]], it occurs primarily in the Pacific Northwest
 and in montane coniferous forests of the Rocky Mountains.
 
 The species is an obligate ectomycorrhizal partner of coniferous trees,
-most commonly associated with Norway spruce (*Picea abies*), Scots pine
-(*Pinus sylvestris*), and Douglas-fir (*Pseudotsuga menziesii*). It
+most commonly associated with Norway spruce (*[[picea-abies]]*), Scots pine
+(*[[pinus-sylvestris]]*), and Douglas-fir (*[[pseudotsuga-menziesii]]*). It
 prefers acidic soils in mature forests with well-developed humus layers.
 
 Fruiting occurs from late summer to late autumn (August to November),
-typically on the forest floor among needle litter and moss. It can
-appear singly or in scattered groups, often recurring in the same
-locations year after year.
-
-## Edibility and Culinary Use
-
-*S. scorodonium* is widely regarded as an excellent edible fungus,
-particularly valued in Central European and Slavic culinary traditions.
-The garlic-like aroma makes it a natural flavoring agent for dishes
-where a mild alliaceous note is desired.
-
-In traditional preparations, young specimens are collected and used as
-a garlic substitute in soups, stews, and egg dishes. The teeth are the
-primary part consumed, as the cap flesh can become tough with age.
-Drying concentrates the flavor and allows long-term storage.
-
-Specimens should be collected when young, as older basidiocarps become
-bitter and tough. The garlic odor must be confirmed at collection, as
-several superficially similar *Sarcodon* species lack this
-characteristic and are unpalatable.
-
-## Bioactive Compounds
-
-*Sarcodon scorodonium* has been investigated for its bioactive
-metabolites, particularly its anti-inflammatory and antimicrobial
-properties. Several [[antifungal-secondary-metabolites-coprophilous-fungi]] have been isolated from the
-basidiocarps.
-
-The species produces scodonin and related cyathane-type diterpenes,
-which have demonstrated anti-inflammatory activity in vitro. These
-compounds are of interest for potential pharmaceutical development due
-to their ability to modulate inflammatory signaling pathways.
-
-Extracts have also shown antimicrobial activity against Gram-positive
-bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*.
-The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] are attributed to a combination of
-terpenoid and phenolic compounds present in the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] tissue.
-
-## Similar Species
-
-Several *Sarcodon* species share similar habitat and morphology,
-requiring careful attention to odor and spore ornamentation for
-identification.
-
-- **[[boletus-edulis-entity]]** — Shares coniferous forest habitat but has
-  poroid hymenium and completely different morphology.
-- **[[hericium-erinaceus]] — Another toothed fungus with culinary and
-  medicinal value from temperate forest ecosystems.
-- [[cantharellus-cibarius-entity]] — Ectomycorrhizal edible fungus of similar
-  coniferous and deciduous forest habitats.
+typically on the [[fungal-ecology-forest-floor]] among [[dighton-pine-needle-litter-decomposition-fungal-succession]] and moss. It can

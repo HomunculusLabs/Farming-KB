@@ -87,32 +87,3 @@ information-rich than previously appreciated, supporting the view that plants
 possess sophisticated internal communication networks.
 
 ## Wound Signaling and Defense
-
-Plant electrical signals play a particularly important role in wound
-signaling. When a leaf is damaged by herbivores, mechanical injury, or other
-forms of trauma, an action potential or variation potential is generated at
-the wound site and propagates to distant tissues. This electrical signal
-triggers the production of defensive compounds including protease inhibitors,
-toxic [[antifungal-secondary-metabolites-coprophilous-fungi]], and [[fungal-volatile-organic-compounds-communication]] compounds that attract
-predators of the attacking herbivores.
-
-The speed of electrical signaling gives plants a significant advantage in
-mounting coordinated defense responses. Chemical signals transported through
-the phloem travel at speeds of centimeters per hour, while electrical signals
-can traverse the entire plant within minutes. This rapid alarm system allows
-undamaged tissues to activate defenses before herbivores reach them.
-
-## Memory and Learning in Plants
-
-Research has demonstrated that plants can exhibit forms of associative
-learning and memory mediated in part by electrical signaling. Habituation,
-the simplest form of learning, has been observed in Mimosa pudica, which
-stops folding its leaves in response to repeated non-harmful stimulation.
-This behavioral change persists and can be reset by different stimuli,
-suggesting a form of memory that outlasts the initial stimulation.
-
-Sensitization, in which plants respond more strongly to a stimulus after a
-prior strong stimulus, has also been documented. These learning-like
-phenomena are mediated by changes in electrical excitability and calcium
-signaling, providing a biophysical basis for behavioral plasticity in
-plants that parallels some aspects of learning in animals.

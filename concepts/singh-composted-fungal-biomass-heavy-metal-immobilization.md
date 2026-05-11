@@ -77,3 +77,20 @@ micronutrients that support plant establishment and [[arbuscular-mycorrhizal-col
 The amendment also supports [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
 - [[singh-mushroom-spawn-production-grain-spawn]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[fungal-heavy-metal-biosorption-and-detoxification]]
+- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
+- [[gadd-fungal-metal-immobilization-biomineralization-oxalate-carbonate-phosphate]]
+- [[dighton-fungal-heavy-metal-accumulation-bioremediation]]
+- [[singh-fungal-biosorption-heavy-metals]]

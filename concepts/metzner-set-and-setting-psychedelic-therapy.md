@@ -1,5 +1,5 @@
 ---
-title: Set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]] in Psychedelic Therapy
+title: Metzner Set And Setting Psychedelic Therapy
 aliases:
   - mindset and environment model
   - psychedelic context theory
@@ -88,46 +88,3 @@ and setting:
 
 - **Set analogues**: Shamanic initiation, dietary restrictions, periods of
   isolation and meditation, prayer and intention-setting ceremonies, the
-  healer's diagnostic assessment of the patient's spiritual condition
-- **Setting analogues**: Sacred spaces (temples, caves, ceremonial circles),
-  ritual objects, chanting and drumming, the presence of the shaman as guide,
-  the community of participants providing social support
-
-This cross-cultural comparison suggests that the psychological principles
-identified by the Harvard group are not merely modern therapeutic innovations
-but reflect universal features of how human beings interact with
-consciousness-altering substances. Shamanic traditions had, through thousands
-of years of empirical practice, developed sophisticated protocols for
-optimizing set and setting long before Western science articulated these
-concepts.
-
-## Implications for Research Methodology
-
-The set and setting hypothesis has profound implications for how psychedelic
-research is conducted. It implies that double-blind controlled studies—which
-by design conceal the nature of the drug from both researchers and
-subjects—are fundamentally problematic for hallucinogens, since the subject's
-expectations (a core component of "set") are deliberately manipulated by the
-blinding procedure.
-
-This methodological challenge may explain why some controlled studies of
-psychedelics in the 1960s and 1970s produced inconsistent or negative results:
-the hospital settings, impersonal research protocols, and lack of
-preparatory guidance may have created conditions unfavorable for therapeutic
-or transformative outcomes, regardless of the drug's inherent potential.
-
-## Modern Revival
-
-The contemporary resurgence of psychedelic research has largely embraced the
-set and setting framework. Modern clinical trials of psilocybin for
-depression, MDMA for PTSD, and ayahuasca for addiction all incorporate
-extensive preparation, supportive environments, trained guides, and
-integration sessions—directly reflecting the principles articulated by
-Metzner, Leary, and Alpert more than six decades ago.
-
-## See Also
-
-- [[metzner-psycholytic-psychedelic-therapy-models]]
-- [[metzner-shamanic-healing-divination-paradigms]]
-- [[metzner-syncretic-entheogenic-churches]]
-- [[mckenna-dmt-hyperspace-translinguistic-matter]]

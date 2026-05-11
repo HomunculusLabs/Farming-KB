@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 type: concept
 ---
@@ -87,20 +88,3 @@ mineralization:
   cytochrome P450 to epoxidize PAHs.
 
 ## Factors Affecting PAH Biodegradation
-
-- Bioavailability: Soil organic matter and clay content limit PAH
-  desorption and fungal access.
-
-- Oxygen availability: Ligninolytic peroxidases require H2O2 and
-  molecular oxygen as co-substrates.
-
-- Nitrogen source: Lignin degradation (and co-metabolic PAH oxidation)
-  is typically triggered under nitrogen-limiting conditions.
-
-- pH and temperature: Optimal ranges are species-specific but generally
-  pH 4.0-6.0 and 25-30 degrees Celsius.
-
-## See Also
-
-- [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
-- [[singh-bioaugmentation-vs-biostimulation-fungal-strategies]]

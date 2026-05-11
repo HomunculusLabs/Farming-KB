@@ -1,5 +1,5 @@
 ---
-title: "tompkins-george-washington-carver-plant-alchemy Carver's Plant Work"
+title: George Washington Carver Plant Work
 created: 2026-04-28
 tags: [plant-chemistry, carver, peanut, sweet-potato, soil-health, intuition]
 date: 2026-04-25
@@ -46,7 +46,7 @@ never allowed a single book to penetrate, communing directly with plants.
   strictly analytical, similar to those of the alchemists
 - He established that peanuts and sweet potatoes could serve as the
   basis for hundreds of industrial and food products
-- Natural soil fertility through [[hamilton-composting-and-organic-matter-management]] was superior to
+- [[fukuoka-natural-soil-fertility]] through [[hamilton-composting-and-organic-matter-management]] was superior to
   commercial fertilizers for maintaining agricultural productivity
 - Plants respond to human attention and care, a principle Carver
   demonstrated throughout his career
@@ -88,34 +88,10 @@ Peanut butter, made from a hundred pounds of peanuts yielding thirty-five
 pounds versus only ten pounds of butter from dairy milk, was just the
 beginning. From peanuts and sweet potatoes he created cosmetics, axle
 grease, printer's ink, coffee substitutes, face powders, shampoos, wood
-stains, creosote, vinegar, and petroleum substitutes. When World War I
-caused a dye shortage, Carver walked through morning dew asking plant
-friends for help. From twenty-eight plants he coaxed 536 separate dyes
-for wool, cotton, linen, silk, and leather, 49 from scuppernong grape
-alone.
 
-## Before the Senate
-
-By 1930, the peanut's worthlessness had been converted through Carver's
-work into a quarter of a billion dollars for Southern farmers. When
-summoned to testify before the Senate Ways and Means Committee, he was
-given ten minutes but the Vice President overruled protocol, saying
-his demonstration was the best ever presented to a Senate committee.
-Despite creating fortunes for thousands, Carver rarely took out a patent.
-When reminded of potential profits, he replied: "God did not charge me
-or you for making peanuts. Why should I profit from their products?"
-
-Like Bose, Carver believed the fruit of his mind should be granted free
-to mankind. His discovery that peanut oil could help atrophied muscles of
-polio victims was so successful he set aside one day monthly to treat
-patients on stretchers and crutches. His work with pine trees for paper
-production spurred the covering of millions of Southern acres with
-productive forests where only scrub had existed.
-
-## Practical Applications
-
-Carver demonstrated the economic viability of [[comparison-crop-rotation-vs-cover-cropping]] with legumes,
-the industrial potential of underutilized plants, and the superiority of
-[[luther-burbank-plant-breeding-methods]]
-- [[biodynamic-agriculture-and-steiner]]
-- [[plant-perception]]
+## See Also
+- [[tompkins-george-washington-carver-plant-alchemy]]
+- [[query-what-is-dry-farming-and-how-does-it-work]]
+- [[query-what-is-mycoremediation-and-how-does-it-work]]
+- [[query-what-is-supercropping-cannabis-and-how-does-it-work]]
+- [[query-how-does-no-till-cannabis-cultivation-work]]

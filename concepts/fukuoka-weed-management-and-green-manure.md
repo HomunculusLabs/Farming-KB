@@ -5,6 +5,7 @@ tags: [natural-farming, weed-management, cover-crops, clover, green-manure, soil
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,40 +87,3 @@ Fukuoka did not advocate allowing all weeds to grow unchecked. He distinguished 
 **Spurges (Euphorbia spp.)**: Shallow-rooted annuals that provide quick ground cover without competing deeply with crop roots. They decompose rapidly, contributing readily available organic matter.
 
 **Chickweed (Stellaria media)**: A winter annual that serves as an indicator of fertile, moist soil. It provides early-season ground cover and harbors predatory insects that help control crop pests.
-
-**Plantain (Plantago spp.)**: Deep-rooted perennials that mine minerals from subsoil layers. Their broad leaves shade the soil surface, retaining moisture and moderating temperature fluctuations.
-
-**Shepherd's purse (Capsella bursa-pastoris)**: A common winter weed in Fukuoka's fields that served as a companion to barley, dying back naturally before the grain matured and contributing its organic matter to the soil.
-
-## Transitioning from Conventional Weeding
-
-Fukuoka acknowledged that farmers accustomed to conventional methods cannot simply stop weeding overnight. The transition requires a period of adaptation during which:
-
-1. The farmer begins by allowing certain beneficial weeds to grow while removing only the most competitive or problematic species.
-2. Green manure crops are introduced gradually, initially as strip crops between conventional rows, then expanding to full ground cover over several seasons.
-3. Straw mulch from harvested grain is returned to the field surface, building organic matter and suppressing weed germination.
-4. As soil health improves through the accumulation of organic matter and microbial activity, weed pressure naturally decreases.
-5. The farmer learns to distinguish between beneficial and harmful weeds, developing an intuitive understanding of plant community dynamics.
-
-## Misconceptions About No-Weeding
-
-Fukuoka's no-weeding principle is frequently misunderstood and bears clarification:
-
-**It does not mean total neglect**: The farmer remains an active participant, managing ground covers, timing flooding to suppress clover, and returning straw mulch. The approach replaces mechanical weeding with ecological management — a different form of attentiveness, not an absence of it.
-
-**It does not mean tolerating all weeds**: Fukuoka selectively managed particularly aggressive species that could threaten crop yields, while allowing the majority of weeds to perform their ecological functions. The distinction between management and elimination is central to his approach.
-
-**Results improve with time**: During the initial years of transition, weed pressure may temporarily increase as the soil microbiome adjusts. Farmers who persist find that weed diversity and density naturally stabilize at lower levels as the balanced plant community matures.
-
-## Integration with the No-Tillage System
-
-Weed management through green manure cover is inseparable from the no-tillage principle. Plowing would destroy the established clover cover and bury the surface mulch, defeating the entire weed management strategy. Conversely, the no-weeding approach makes no-tillage possible, because the ground cover prevents the soil from compacting and becoming too hard for root penetration. These principles form a unified system where each element supports and depends on the others.
-
-Fukuoka expressed this unity with his characteristic aphorism: "One thing is all things. To resolve one matter, one must resolve all matters. Changing one thing changes all things." The decision to stop weeding led inevitably to the adoption of ground covers, which in turn enabled no-tillage cultivation, which required straw mulching, which eliminated the need for fertilizer, which reduced pest pressure, which made pesticides unnecessary. Each principle implied and reinforced all the others.
-
-## See Also
-
-- [[fukuoka-no-tillage-rice-barley-succession]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[fukuoka-weed-ecology]]
-- [[solomon-root-exudates-and-allelopathy]]

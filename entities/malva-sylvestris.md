@@ -10,13 +10,13 @@ tags:
   - anti-inflammatory
   - traditional-medicine
   - temperate-plant
-  - permaculture
+  - [[permaculture]]
   - wild-food
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rivera, D. et al. (2010). "Malva L." In: Medicinal and Aromatic Plants of the World. Springer.
-  - Samuelsen, A.B. (2000). "The traditional uses, chemical constituents and biological activities of Malva sylvestris L." Journal of Ethnopharmacology, 71(1-2), 1-21.
+  - Samuelsen, A.B. (2000). "The traditional uses, [[guzman-magic-mushrooms-chemical-constituents]] and biological activities of Malva sylvestris L." Journal of Ethnopharmacology, 71(1-2), 1-21.
   - Gaspar, A.L.C. et al. (2014). "Malva sylvestris L." In: Handbook of Medicinal Plants. Nova Science Publishers.
   - Barnes, J. et al. (2007). "Herbal Medicines." Pharmaceutical Press, 3rd edition.
 aliases:
@@ -36,7 +36,7 @@ Africa, and Western Asia, it has naturalized widely across temperate and
 subtropical regions worldwide.
 
 The species has a long history of use in traditional European herbal medicine
-dating back to ancient Greece and Rome. Its mucilaginous leaves and flowers
+dating back to [[psychedelic-use-in-ancient-greece]] and Rome. Its mucilaginous leaves and flowers
 are valued for their anti-inflammatory, demulcent, and mild laxative
 properties. The young leaves and fruits are also edible raw or cooked.
 
@@ -86,60 +86,5 @@ range of soil pH conditions.
 ## Traditional Medicine and Pharmacology
 
 *Malva sylvestris* has been used medicinally for over 2000 years.
-Dioscorides described its wound-healing properties in *De Materia Medica*
+Dioscorides described its wound-healing properties in *De [[herbal-materia-medica]]*
 (c. 50–70 CE), and it remained a staple of European herbalism through the
-medieval period.
-
-**Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:**
-- Mucilage polysaccharides (rhamnogalacturonans, arabinans, glucans) —
-  primary contributors to demulcent and emollient activity
-- Flavonoids including hypolaetin-8-glucoside, gossypetin, and quercetin
-  glycosides — anti-inflammatory and antioxidant activity
-- Phenolic acids (caffeic, ferulic, p-coumaric) — antioxidant effects
-- Anthocyanins (malvidin, delphinidin derivatives) — from purple flowers
-- Scopoletin — anti-inflammatory and spasmolytic
-
-**Traditional and clinical applications:**
-- Respiratory tract inflammation — mucilage soothes irritated mucous
-  membranes in bronchitis, pharyngitis, and dry cough
-- Gastrointestinal complaints — mild laxative and protective effect on
-  gastric mucosa
-- Topical inflammation — poultices of bruised leaves for insect bites,
-  burns, and minor wounds
-- Urinary tract discomfort — demulcent action reduces irritation
-
-The German Commission E and European Medicines Agency have recognized mallow
-leaf and flower preparations as a traditional herbal medicine for irritation
-of the mouth and throat and for dry cough associated with colds.
-
-## Edibility and Nutritional Value
-
-All above-ground parts of *M. sylvestris* are edible. Young leaves are mild
-and slightly mucilaginous, suitable for salads, soups, and stews. The flowers
-can be used as a garnish or infused for tea. The disc-shaped fruits can be
-eaten raw, tasting mildly nutty.
-
-Nutritional analysis shows the leaves are rich in vitamin A, vitamin C, iron,
-and calcium. The mucilage content provides soluble dietary fiber.
-
-## Permaculture and Ecological Applications
-
-*Malva sylvestris* serves as a [[nutrient-dynamic-accumulator-reference]], drawing nutrients from
-deep soil layers through its taproot. Its abundant leaf production makes it
-suitable for chop-and-drop mulching in permaculture systems.
-
-The flowers attract pollinators including bees and butterflies, and the seeds
-are consumed by finches and other small birds. The species acts as a ground
-cover in food forests and guild plantings, providing [[permplant-willows-salix-erosion-control-fodder]] on
-disturbed sites.
-
-## See Also
-
-- [[borago-officinalis]] — Borage, another mucilaginous medicinal herb
-- [[plantago-major]] — Plantain, demulcent herb for skin and respiratory use
-- [[glycyrrhiza-glabra]] — Licorice, soothing anti-inflammatory herb
-- [[hypericum-perforatum]] — St. John's wort, widely used European medicinal herb
-- [[taraxacum-officinale]] — Dandelion, edible medicinal Asteraceae
-- [[achillea-millefolium]] — Yarrow, traditional European medicinal herb
-- [[althea-officinalis]] — Marsh-mallow, related Malvaceae with similar demulcent properties
-- [[tilia-cordata]] — Linden, European herbal tea species

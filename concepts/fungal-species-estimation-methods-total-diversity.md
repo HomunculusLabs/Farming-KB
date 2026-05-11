@@ -27,11 +27,11 @@ species estimation.
 - Most are microscopic and inconspicuous
 - Many do not produce visible fruiting structures
 - Fruiting is often ephemeral and seasonal
-- Tropical regions are severely undercollected
+- [[fukuoka-natural-farming-in-tropical-regions]] are severely undercollected
 - Many species are known only from a single collection
 - Cryptic species (morphologically identical but genetically distinct) are
   common
-- Host specificity patterns are poorly understood
+- [[fungal-endemism-host-specificity]] patterns are poorly understood
 
 ## Methods of Estimation
 
@@ -44,7 +44,7 @@ The classic 1.5 million estimate was based on:
 
 **Assumptions:**
 - Fungal:host ratios are consistent across regions and habitats
-- Ratios from temperate regions apply to tropics
+- Ratios from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] apply to tropics
 - All plant-associated niches are filled proportionally
 
 **Limitations:**
@@ -66,7 +66,7 @@ diversity and provided new avenues for species estimation:
 
 - **Environmental [[environmental-dna-metabarcoding-fungi]]**: High-throughput sequencing of fungal
   ITS markers from environmental samples consistently reveals far more
-  fungal taxa than can be detected by traditional fruiting body surveys.
+  [[undescribed-fungal-taxa]] than can be detected by traditional [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] surveys.
   Soil samples alone can contain hundreds of fungal operational taxonomic
   units in a single gram of soil, most of which do not correspond to
   described species.
@@ -82,68 +82,9 @@ diversity and provided new avenues for species estimation:
 - **Intersection of morphological and molecular data**: Integrating
   traditional specimen-based records with molecular survey data provides
   more robust estimates than either approach alone. Studies that combine
-  both data streams consistently yield higher diversity estimates than
+  both data streams consistently yield higher [[fungal-diversity-estimates]] than
   purely morphological approaches.
 
 ## Host-Specificity Based Estimates
 Many fungi are obligately associated with specific host organisms, and
 the number of potential host species provides a framework for estimating
-fungal diversity:
-
-- **Plant-associated fungi**: Each plant species may harbor dozens to
-  hundreds of specialized fungal species including endophytes, pathogens,
-  epiphytes, and mycorrhizal partners. With approximately 350,000
-  described plant species, even conservative estimates of host specificity
-  suggest millions of plant-associated fungal species remain undescribed.
-
-- **Insect-associated fungi**: [[singh-entomopathogenic-fungi-biocontrol-agents]], gut symbionts, and
-  fungal cultivators of insects represent additional reservoirs of
-  undescribed diversity. Each insect species potentially hosts unique
-  fungal associates, and with over a million described insect species,
-  the associated fungal diversity is likely enormous.
-
-- **Lichenicolous fungi**: Fungi that grow on lichens are increasingly
-  recognized as a major component of fungal diversity. With over 20,000
-  described lichen species and evidence that many lichens host multiple
-  specialist [[bloomfield-fungal-parasites-of-insects]], lichenicolous fungi alone may contribute
-  thousands of additional species to global diversity estimates.
-
-## Geographical and Habitat-Based Estimates
-Different geographic regions and habitat types contribute unequally to
-global fungal diversity, and accounting for this variation improves
-estimation accuracy:
-
-- **Tropical forests**: Tropical regions harbor the highest plant
-  diversity and are predicted to contain the greatest fungal diversity,
-  yet they remain the least collected. Estimates suggest that tropical
-  forests alone may contain 2 to 5 million fungal species, the majority
-  undescribed. Canopy fogging and systematic plot inventories in tropical
-  forests consistently yield high proportions of new taxa.
-
-- **Soil fungi**: Global soil surveys using molecular methods suggest
-  that soils contain the largest reservoir of fungal diversity on Earth.
-  A single forest soil sample can contain hundreds of fungal species,
-  and scaling these local richness values across global soil types and
-  biomes produces very high total estimates.
-
-- **Aquatic and marine fungi**: Freshwater and marine habitats are
-  severely underexplored for fungal diversity. Molecular surveys of
-  marine sediments, seawater, and freshwater systems reveal large numbers
-  of sequences that do not match any described species, suggesting that
-  aquatic environments harbor extensive undescribed fungal diversity.
-
-- **Extreme environments**: Thermophilic, psychrophilic, halophilic, and
-  acidophilic fungi from extreme environments represent specialized
-  lineages that are poorly sampled. These extremophilic fungi may
-  constitute a significant fraction of total fungal diversity that is
-  largely unaccounted for in current estimates.
-
-## Statistical and Mathematical Models
-Formal statistical approaches provide frameworks for estimating total
-diversity from incomplete sampling:
-## See Also
-- [[fungal-species-estimates]]
-- [[fungal-biodiversity-species-estimation]]
-- [[fungal-dark-taxa]]
-- [[fungal-taxonomy-challenges]]
-- [[fungal-biodiversity-ecosystem-function]]

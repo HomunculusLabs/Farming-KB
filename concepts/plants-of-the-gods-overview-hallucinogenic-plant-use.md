@@ -88,22 +88,3 @@ hallucinogenic properties. The [[plants-of-the-gods-amanita-muscaria]]):
   Vines of the Serpent, one of the major Aztec hallucinogens
 - **Virola species** ([[plants-of-the-gods-anadenanthera-yopo-cebil]]):
   Beans of the Hekula Spirit, used for 4,500 years
-- **[[comparison-cannabis-sativa-vs-cannabis-indica]]** ([[plants-of-the-gods-nightshade-hexing-herbs]]): Atropa, Datura, Hyoscyamus, Mandragora -- the witches'
-  herbs of medieval Europe
-
-## Scientific Promise
-
-Are these nonaddictive drugs of interest as "mind-expanding agents,"
-media for attaining "the mystic experience," or agents for hedonistic
-adventure? There is another aspect that engages the scientist's
-attention: can a thorough understanding of these drugs lead to the
-discovery of new pharmaceutical tools for psychiatric treatment? The
-central nervous system is a most complex organ, and psychiatry has
-not advanced as rapidly as many other fields of medicine, mainly
-because it has not had adequate tools. Some of these mind-altering
-plants and their active chemical principles may indeed have far-
-reaching positive effects when they are fully understood.
-
-## See Also
-
-- [[anticholinergic-hallucinogenic-plants]]

@@ -45,7 +45,7 @@ Flowers are solitary at stem tips, funnel-shaped, 3–5 cm long, and vivid sky-b
 
 The calyx is 4-lobed with a tube about half the corolla length. The fruit is a small capsule containing numerous tiny, reticulate seeds.
 
-Root system consists of a slender taproot with few lateral branches. The root is much thinner than that of large gentians like Gentiana lutea.
+Root system consists of a slender taproot with few lateral branches. The root is much thinner than that of large gentians like [[gentiana-lutea]].
 
 ## Distribution and Habitat
 
@@ -65,13 +65,13 @@ The species shows high fidelity to calcareous substrates and is considered a cal
 
 ## Ecology
 
-Gentiana ciliata flowers late in the season (August–October), providing nectar for late-flying bumblebees and solitary bees. The vivid blue color attracts pollinators in fading autumn light.
+Gentiana ciliata flowers late in the season (August–October), providing nectar for late-flying bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]]. The vivid blue color attracts pollinators in fading autumn light.
 
 The species is a hemicryptophyte, overwintering as a basal rosette. Seeds require cold stratification for germination, an adaptation to montane conditions.
 
-Seed production is variable between years, with mast seeding events occurring irregularly. Individual capsules may contain 50–200 seeds.
+[[cannabis-controlled-pollination-seed-production]] is variable between years, with mast seeding events occurring irregularly. Individual capsules may contain 50–200 seeds.
 
-Mycorrhizal associations are present but not extensively studied in this species. Like many gentians, it likely forms arbuscular mycorrhizal partnerships.
+[[plants-without-mycorrhizal-associations]] are present but not extensively studied in this species. Like many gentians, it likely forms [[arbuscular-mycorrhizal-colonization-patterns]] partnerships.
 
 Populations are threatened by habitat loss from agricultural intensification and abandonment of traditional grazing. Climate warming is shifting suitable habitat upward in mountain ranges.
 
@@ -85,37 +85,6 @@ Gentiana ciliata requires a well-drained, alkaline soil mixture with limestone c
 
 Sow seeds in late autumn on the surface of a gritty compost mix. Stratification at 0–4°C for 6–8 weeks improves germination, which typically occurs in spring.
 
-Seedlings are tiny and slow-growing, requiring careful watering to avoid damping off. Transplant to troughs or rock garden positions after one year of growth.
+Seedlings are tiny and slow-growing, requiring careful watering to avoid [[cervantes-damping-off-seedling-disease-prevention]]. Transplant to troughs or rock garden positions after one year of growth.
 
 Plants are short-lived perennials, typically persisting 3–5 years in cultivation. Allow self-seeding to maintain populations in garden settings.
-
-The species resents root disturbance and transplanting. Established plants should not be moved once settled.
-
-Gentiana ciliata is not known for significant pharmacological use, unlike larger gentian species. The roots contain only trace amounts of secoiridoid glycosides.
-
-A layer of grit mulch around the crown helps prevent crown rot during wet winters. Top-dress with limestone chips annually to maintain soil pH.
-
-## Ornamental Value
-
-The fringed gentian is one of the most sought-after plants for alpine troughs and rock gardens. Its vivid blue flowers provide late-season color when most alpines have finished blooming.
-
-The Royal Horticultural Society has awarded Gentiana ciliata the Award of Garden Merit (AGM). This recognizes its ornamental merit and reliability in appropriate garden conditions.
-
-Suitable companion plants include other calcicole alpines such as Saxifraga, Androsace, and dwarf Campanula species. The combination of late bloom and compact habit makes it ideal for crevice plantings.
-
-The species is not commonly available in mainstream nurseries. Specialist alpine nurseries and seed exchanges are the primary sources for gardeners.
-
-Photographs of Gentiana ciliata in its alpine habitat have appeared in numerous botanical publications. The species is a frequent subject in European alpine flora field guides.
-
-## See Also
-
-- [[gentiana-verna]]
-- [[gentiana-nivalis]]
-- [[gentiana-lutea]]
-- [[gentiana-purpurea]]
-- [[gentiana-punctata]]
-- [[gentiana-amarella]]
-- [[gentiana-cruciata]]
-- [[centaurium-erythraea]]
-- [[gentiana-pneumonanthe]]
-- [[swertia-chirata]]

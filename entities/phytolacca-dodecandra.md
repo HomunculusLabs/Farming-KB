@@ -87,27 +87,3 @@ All parts of the plant are considered toxic if ingested in quantity, with the be
 The Ethiopian name "endod" means "soap" in Amharic, reflecting the plant's primary traditional use. The soap produced from crushed berries has a characteristic purple color from anthocyanin pigments in the pericarp, and a slightly astringent scent from volatile terpenoids.
 
 In traditional midwifery practices in some Ethiopian communities, endod preparations were used as an abortifacient and emmenagogue. This usage carries significant risk due to the plant's systemic toxicity at therapeutic doses, and modern medical authorities discourage internal use without clinical supervision.
-
-## Ecological Role and Applications
-
-P. dodecandra is the most extensively studied plant molluscicide for schistosomiasis control. Water-soluble berry extracts are lethal to *Biomphalaria* and *Bulinus* snail species at concentrations as low as 5–20 ppm, making them competitive with synthetic molluscicides such as niclosamide.
-
-Field trials in Ethiopia, Kenya, and Zimbabwe have demonstrated that community-level application of endod extracts to transmission sites can reduce snail populations by 90–100% over several weeks. The approach is particularly effective in seasonal transmission pools where targeted application is feasible.
-
-The species has potential as a locally produced, low-cost alternative to synthetic molluscicides in resource-limited endemic areas. Cultivation programs in Ethiopia have developed high-yielding varieties with enhanced saponin content, and processing methods have been standardized for community-level production.
-
-Beyond schistosomiasis control, P. dodecandra extracts have demonstrated activity against mosquito larvae, suggesting broader application in integrated vector management. The saponins also show antifungal properties against plant pathogens, indicating potential use in sustainable agriculture.
-
-Despite decades of research, large-scale implementation of endod-based schistosomiasis control has been limited by inconsistent product quality, variable potency of wild-harvested material, and competition from subsidized synthetic molluscicides. Recent efforts to develop standardized, registered endod products in Ethiopia have shown promise for commercial deployment.
-
-The species has also been investigated for its potential as a biopesticide in organic agriculture. Preliminary studies demonstrate activity against agricultural pest snails and some insect pests, though commercial formulations have not yet been developed for this purpose.
-
-## See Also
-
-- [[phytolacca-esculenta]]
-- [[jatropha-curcas-entity]]
-- [[vernonia-amygdalina]]
-- [[datura-stramonium]]
-- [[artemisia-annua]]
-- [[commiphora-myrrha]]
-- [[capsicum-annuum]]

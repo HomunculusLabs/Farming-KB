@@ -10,17 +10,17 @@ sources:
 
 # Root Crops: Growing Guide
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Root Crop Strategy
 
 Solomon describes root crops as employing a brilliant survival strategy: "sneak a deep taproot through the opposition; then begin drawing moisture and nutrition located deeper than neighbors can reach. A supply of raw materials assured, fill a storage chamber with surplus food. Then rest over winter. In spring, start with a huge advantage to overtop neighbors and shade them out, and begin making seeds."
 
-Most root crops are biennials: they grow and store energy in year one, then flower and set seed in year two.
+Most root crops are biennials: they grow [[holmgren-catch-and-store-energy-four-landscape-storages]] in year one, then flower and set seed in year two.
 
 ## Potatoes (Solanum tuberosum)
 
-The single most important calorie crop for temperate climates. Solomon devotes more space to potatoes than any other vegetable.
+The single most important [[jeavons-carbon-and-calorie-crop-integration]] for [[fukuoka-natural-farming-temperate-climates]]. Solomon devotes more space to potatoes than any other vegetable.
 
 ### Seed Preparation (Chitting)
 
@@ -56,12 +56,12 @@ Soil [[holmgren-mineral-balance-soil-fertility]] affects potato [[coleman-winter
 - Handle carefully; avoid cuts and bruises
 - Cut potatoes do not store well
 - Ideal storage: humid, stable 38-40F (3-4C)
-- Solomon stores in wood boxes in an unheated outbuilding with wool blankets for temperature regulation
+- Solomon stores in wood boxes in an unheated outbuilding with wool blankets for [[blesching-cannabis-fever-temperature-regulation]]
 - Potatoes last for months; rub off sprouts to extend storage
 
 ### Pests and Diseases
 
-- Colorado potato beetle: see pest management page
+- Colorado potato beetle: see [[query-what-is-biofumigation-and-how-does-it-work]] page
 - Scab: some advise against liming potatoes; Solomon found no difference
 - Rotate potatoes at least 3 years away from any solanum crop (tomatoes, peppers, eggplant)
 
@@ -88,60 +88,3 @@ Require light, well-drained soil. Need 3-4 months of warm growing weather (90+ d
 - Monitor closely near expected maturity; size up rapidly in last few weeks
 - Dig promptly when ready; avoid skinning damage
 - Light irrigation before digging helps if soil is dry
-- Cure: 85F (29C), high humidity for 1-2 weeks to heal cuts and convert starch to sugar
-- Storage: 55-60F (13-15C), humid
-- Do not store below 50F; chilling injury causes rotting
-
-## Carrots (Daucus carota)
-
-Carrots need three things for rapid growth (slow growth produces bitter, woody roots):
-1. Adequate fertility (but not too much or excess top growth results)
-2. Loose soil, especially top 12 inches
-3. Steady moisture supply
-
-### Sowing and Thinning
-
-- Blend a heaping 1/2 teaspoon of seed into 1 quart of fine sand or compost
-- Sprinkle into 25 feet of furrow for even spacing ~1/2 inch apart
-- Thin progressively: first thinning right after germination
-- Thin to 1-2 inches apart after tops reach 3-4 inches (when damping-off risk passes)
-- Final spacing depends on variety (some are small as your finger, others 3+ inches across)
-- Steady moisture has more to do with thinning than watering -- crowded carrots compete for water
-
-### Soil Preparation
-
-On sandy soil, minimal preparation needed. On hard soil, dig in up to 2 inches of well-decomposed compost or manure. If the topsoil layer is too fertile, roots become hairy and forked. Carrots discover most nutrients in the subsoil; a loose top foot allows the root to descend freely.
-
-## Beets (Beta vulgaris)
-
-Beets are a medium-demand crop. Sow 3/4 inch deep, thin progressively to 3-5 inches apart depending on variety. Both roots and leaves are edible. Beets tolerate some competition better than carrots.
-
-## Turnips, Rutabagas, and Winter Radishes
-
-**Turnips**: spring and autumn crop in mild-winter climates; spring sowings tend to bolt before sizing up. Best sown at end of summer for autumn/[[coleman-claytonia-winter-harvest-cultivation]].
-
-**Rutabagas (swedes)**: autumn crop, can stand in the garden through winter. Larger than turnips. Possibly the most cellarable root crop. Spacing: ~8 inches apart. Solomon discovered rutabagas after living in British Columbia and considers them essential for gardeners with root cellars.
-
-**Winter radishes** (Black Spanish, daikon): large, thick-skinned roots. Store well. Need spacing of ~6x18 inches. Peel, grate, dress with olive oil and black pepper for salad.
-
-## Kohlrabi
-
-A brassica producing an edible swollen stem above ground. Sow [[cervantes-hybrid-varieties-types]] in clusters at 5x18 inch spacing. Thin to one plant per station. Sow about 30 days before weather cools. Properly grown kohlrabi slowly enlarges in cool weather without getting woody. Cellarable if roots left attached.
-
-## Parsnips
-
-Need deep, loose soil. Sow in spring for autumn/winter harvest. Flavor improves after frost. Slow to germinate; mixing seed with sand helps even distribution. Growing and seed-saving methods similar to carrots.
-
-## Seed Saving for Root Crops
-
-Most root crops are biennials and insect-pollinated outcrossers:
-- Store best roots over winter (cellar, moist sand, or replant in protected beds)
-- Replant in spring with adequate spacing (2-4 sq ft per plant)
-- Maintain minimum population of 25+ plants for genetic vigor
-- Isolate varieties by distance (50+ feet for most; 1/4 mile for some brassicas)
-
-## See Also
-
-- [[home-vegetable-garden-planning]]
-- [[growing-alliums-organically]]
-- [[jeavons-grow-biointensive-method-overview]]

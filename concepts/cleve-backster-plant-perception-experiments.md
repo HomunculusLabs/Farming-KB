@@ -1,5 +1,5 @@
 ---
-title: Cleve [[tompkins-cleve-backster-primary-perception]] plant [[tompkins-plant-perception-experiments]] Experiments
+title: Cleve Backster Plant Perception Experiments
 created: 2026-04-28
 tags: [plant-intelligence, bioelectricity, esp, polygraph, primary-perception]
 date: 2026-04-25

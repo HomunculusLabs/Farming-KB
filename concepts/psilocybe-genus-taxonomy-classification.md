@@ -18,7 +18,7 @@ fungi, comprising 116 of the 216 known neurotropic species catalogued by
 Guzmán, Allen, and Gartz (2000). These fungi contain psilocybin,
 psilocin, baeocystin, and related indole alkaloids. The genus is
 distributed worldwide but shows the highest diversity in subtropical
-humid forests, with Mexico as the global center of biodiversity. The
+humid forests, with Mexico as the [[mexico-global-center-neurotropic-fungal-diversity-guzman-1998]] of biodiversity. The
 taxonomy follows the classification systems of Guzmán (1983, 1995) and
 Singer (1986), with the concept excluding Section Chrysocystidiatae.
 
@@ -53,13 +53,13 @@ suspected indole alkaloids):
 Species associated with high-altitude grasslands of Mexico. Named in
 honor of the Aztec civilization that used these mushrooms. Includes
 *P. aztecorum*, found at elevations up to 4,000 meters in the mountains
-of central Mexico — the highest recorded altitude for any neurotropic
+[[psychoactive-cacti-of-central-mexico]] — the highest recorded altitude for any neurotropic
 fungus.
 
 ### Section Mexicanae
 
 The section containing the type species *P. mexicana*, one of the
-first neurotropic mushrooms identified by modern science. These are
+first neurotropic mushrooms identified by [[fukuoka-road-critique-of-modern-science]]. These are
 primarily Mexican species found in subtropical and temperate forests.
 
 ### Section Cubensies
@@ -78,7 +78,7 @@ often grow in muddy or disturbed habitats.
 
 ### Section Semilanceatae
 
-The "liberty cap" group, including the well-known *P. semilanceata* of
+The "[[liberty-cap-british-discovery-1970s]]" group, including the well-known *P. semilanceata* of
 Europe and [[psilocybin-north-america-pacific-northwest]]. These are temperate species typically found in
 grassy habitats, especially pastures and meadows. *P. semilanceata* is
 the most common neurotropic species in Europe.
@@ -88,62 +88,3 @@ the most common neurotropic species in Europe.
 Species primarily from Australia and New Zealand, adapted to temperate
 [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] forests. *P. subaeruginosa* is the most common
 neurotropic species in southeastern Australia.
-
-### Additional Sections
-
-Other sections containing neurotropic species include:
-Brunneocystidiatae, Cordisporae, and Stuntzae. Species excluded from
-the neurotropic group include *P. atrobrunnea*, *P. coprophila*, and
-*P. pseudobullacea*, which have been erroneously reported as
-hallucinogenic due to misidentification.
-
-## Identification Criteria
-
-### Bluing Reaction
-
-The most reliable field characteristic for identifying neurotropic
-*Psilocybe* species is the **bluing reaction**: bruising or damage to
-the flesh causes a blue or blue-green coloration due to the oxidation
-of psilocin. However, this feature is not universal among all sections
-and can be absent in dried or aged specimens.
-
-### Chemical Confirmation
-
-Definitive identification requires [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] for indole
-alkaloids. Important considerations:
-
-- Psilocybin and psilocin are [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that degrade with age
-- Specimens dried for more than one year may lose all psychoactive
-  properties
-- Herbarium specimens show decreasing psilocybin content: 0.014% in
-  1869 specimens, 0.67% in 1954 specimens, 0.84% in 1976 specimens
-- Mexican Indians wisely discard dried specimens older than one year
-
-## Excluded Species
-
-Several species have been removed from the neurotropic list:
-
-- **P. pseudobullacea** — not a bluing species; no neurotropic
-  properties found (Venezuelan "P. pseudobullacea" with psilocybin was
-  likely a misidentified species)
-- **P. atrobrunnea** — Høiland's report of psilocybin was probably
-  based on confusion with *P. coprinifacies* or *P. mairei*
-- **Psathyrella sepulchralis** — wrongly confused with *P. zapotecorum*
-
-## Global Distribution
-
-The genus *Psilocybe* shows a striking biogeographical pattern: the
-majority of species occur in or near the [[biogeography-austral-hemisphere-fungi]], mainly in
-subtropical humid forests. However, many species have been found as far
-north as Alaska and Siberia, and as far south as Chile and New Zealand.
-Notable gaps in distribution records exist for Korea, Malaysia, Hawaii,
-Costa Rica, and many regions of Africa — likely reflecting
-under-collection rather than true absence.
-## Related Topics
-
-- [[neurotropic-fungi-chemical-groups-classification]] — chemical
-  classification of all neurotropic fungi
-- [[mexico-center-neurotropic-fungal-biodiversity]] — Mexico's
-  dominant role in Psilocybe diversity
-- [[taxonomic-confusion-misidentification-neurotropic-fungi]] — common
-  identification problems

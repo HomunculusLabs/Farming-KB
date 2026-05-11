@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Chenopodium pallidicaule**, known as **cañihua** or **kañiwa**, is an annual seed crop in the family Amaranthaceae. It is closely related to quinoa (*Chenopodium quinoa*) and is native to the high Andes of Peru and Bolivia.
+**Chenopodium pallidicaule**, known as **cañihua** or **kañiwa**, is an annual seed crop in the family Amaranthaceae. It is closely related to quinoa (*[[chenopodium-quinoa]]*) and is native to the high Andes of Peru and Bolivia.
 
 Cañihua is cultivated primarily for its small, nutrient-dense seeds, which are used as a grain similar to quinoa. It grows at higher altitudes (3,800–4,200 m) than quinoa and tolerates greater frost exposure, making it a critical food security crop for highland communities.
 
@@ -66,7 +66,7 @@ The crop remains largely confined to smallholder farming systems in its native r
 
 Cañihua seeds have an exceptional nutritional profile comparable to or exceeding that of quinoa and most conventional cereals.
 
-Protein content ranges from 14–19% dry weight, higher than wheat, rice, or maize. The protein is well-balanced, with a favorable [[cho-fish-amino-acid-preparation]] profile rich in lysine (5.5–6.5% of protein), the limiting amino acid in most cereals.
+Protein content ranges from 14–19% dry weight, higher than wheat, rice, or maize. The protein is well-balanced, with a favorable [[cho-fish-amino-acid-preparation]] profile rich in lysine (5.5–6.5% of protein), the limiting [[fish-amino-acid]] in most cereals.
 
 The seeds contain 6–9% fat, predominantly unsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] including linoleic acid (omega-6) and alpha-linolenic acid (omega-3). The omega-6:omega-3 ratio is favorable for human nutrition.
 
@@ -78,7 +78,7 @@ Total phenolic content and antioxidant capacity exceed those of quinoa and most 
 
 ## Cultivation
 
-Cañihua is adapted to the extreme conditions of the high Andean altiplano: short growing seasons (120–150 days), intense UV radiation, large diurnal temperature fluctuations (-5 to 20°C), and poor, sandy soils.
+Cañihua is adapted to the extreme conditions of the high Andean altiplano: short [[jeavons-climate-adaptation-growing-seasons]] (120–150 days), intense UV radiation, large diurnal temperature fluctuations (-5 to 20°C), and poor, sandy soils.
 
 The crop requires minimal inputs and is typically grown without irrigation or fertilization in traditional systems. It performs best on well-drained sandy-loam soils at pH 5.5–7.5.
 
@@ -87,27 +87,3 @@ Seeding rate is 8–12 kg/ha, broadcast or row-sown. Traditional intercropping w
 Frost tolerance is the key advantage over quinoa. Cañihua can survive repeated light frosts (-3 to -5°C) during [[cannabis-vegetative-growth-stage]], and even moderate frost during grain filling. This allows cultivation at altitudes where few other grains survive.
 
 Yields average 600–1,200 kg/ha under traditional management, reaching 1,500–2,500 kg/ha with improved varieties and agronomic practices. Yield is constrained by the small seed size and tendency toward seed shattering.
-
-Harvesting is typically done by hand, cutting whole plants at maturity and threshing by beating. Mechanized harvesting is challenging due to the short stature and indeterminate maturity.
-
-## Uses and Cultural Significance
-
-Cañihua is consumed primarily as a whole grain, toasted and ground into flour (*harina de cañihua*) for porridge, bread, pancakes, and beverages. The toasted grain has a nutty, slightly sweet flavor.
-
-In Peru, cañihua flour is used to make *cañihuaco*, a traditional beverage consumed during festivals. It is also mixed with quinoa flour to make *piri*, a toasted grain mixture consumed as a snack.
-
-The crop has significant cultural importance for Aymara and Quechua communities. Traditional varieties are maintained through farmer seed-saving networks, preserving genetic diversity for traits like frost tolerance, drought resistance, and seed color.
-
-Cañihua is increasingly marketed in urban Peru and Bolivia as a health food and export commodity. Products include breakfast cereals, energy bars, pasta, and gluten-free baking mixes.
-
-Research into industrial applications includes starch extraction for food additives and use of the residual biomass as animal feed. The high protein content of the bran makes it a valuable byproduct.
-
-## See Also
-
-- [[amaranthus-caudatus]]
-- [[fagopyrum-esculentum]]
-- [[sorghum-bicolor]]
-- [[pennisetum-glaucum]]
-- [[oryza-sativa]]
-- [[lens-culinaris]]
-- [[glycine-max]]

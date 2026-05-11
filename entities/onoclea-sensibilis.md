@@ -87,24 +87,3 @@ A dwarf cultivar 'Crispa' with distorted, crested fronds is occasionally availab
 ## Traditional Uses
 
 [[halpern-sacramental-peyote-and-native-american-church]] peoples used the sterile fronds of O. sensibilis for food wrapping and as a lining for berry baskets. The fronds were also applied as poultices for skin ailments, though documented medicinal uses are limited compared to other fern species.
-
-The Menominee people used the fern to treat bleeding and as a digestive aid. The Iroquois applied frond poultices to burns and rashes. These uses were widespread but not unique to O. sensibilis — many fern species served similar roles in northeastern Native American ethnobotany.
-
-The dried, bead-like fertile frond segments were used decoratively by some tribes, strung together to make rattles and ornaments. This craft use exploited the natural durability and distinctive appearance of the persistent fertile structures.
-
-No significant modern economic uses exist for the species. It is occasionally harvested from the wild for use in the floristry trade as a filler green, primarily in local and regional markets.
-
-The fertile fronds are sometimes collected for dried flower arrangements, where their dark, beaded segments provide textural contrast. However, commercial cultivation for the cut foliage trade has not been developed due to the fern's coarse appearance relative to more refined fern species.
-
-## See Also
-
-- [[matteuccia-struthiopteris]]
-- [[athyrium-filix-femina]]
-- [[osmunda-regalis]]
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]
-- [[blechnum-spicant]]
-- [[adiantum-capillus-veneris]]
-- [[nephrolepis-exaltata]]
-- [[polypodium-vulgare]]
-- [[botrychium-lunaria]]

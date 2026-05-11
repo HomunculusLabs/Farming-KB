@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin psilocybin biosynthetic [[gluconeogenesis-biochemistry-metabolic-pathway]] Pathway"
+title: Psilocybin Biosynthetic Metabolic Pathway
 created: 2026-04-28
 tags: [mycology, biochemistry, biosynthesis, psilocybin, metabolism]
 date: 2026-04-28

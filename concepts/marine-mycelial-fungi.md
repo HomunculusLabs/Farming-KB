@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-05-09
 type: concept
 tags: [mycology, fungi, marine-biology, ecology]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 # Marine Mycelial Fungi
 
@@ -12,7 +13,7 @@ sources: []
 
 The existence of indigenous fungi confined to marine habitats was not
 recognized until about 40 years before the publication of
-"[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" (Johnson and Sparrow 1961). Marine fungi are
+"[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]" (Johnson and Sparrow 1961). [[marine-fungi-diversity-sampling]] are
 not a taxonomic group but are defined ecologically. Marine and
 estuarine environments -- oceans, shores, river mouths, tidal creeks,
 sounds, lagoons, and connected saltwater bodies -- occupy 75% of the
@@ -48,7 +49,7 @@ Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
   lichenoids with cyanobacteria or green algae (e.g., *Halographis
   runica* in submerged snail shells), true submarine lichens
   (*Arthopyrenia halodytes* in barnacle tests), and mycophycobioses
-  (obligate symbioses with seaweed and marine macroalgae in agriculture).
+  (obligate symbioses with [[seaweed-and-marine-macroalgae-in-agriculture]] macroalgae in agriculture).
 - **Parasites**: About 40 species of higher marine fungi are
   parasitic, mostly Ascomycota on algae. *Mycaureola dilseae* is the
   only known filamentous basidiomycete parasitizing algae.
@@ -57,11 +58,11 @@ Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
 
 Marine fungi occur mainly in the intertidal zone where most organic
 substrata are deposited. Tropical and subtropical regions harbor
-greater species diversity than temperate zones. mangrove ecosystems and coastal restoration
-are particularly rich in marine fungal species, with estimates
-suggesting over 200 species associated with mangrove woody debris
+greater species diversity than temperate zones. [[mangrove-ecosystems-and-coastal-restoration]] coastal restoration
+are particularly rich in [[marine-fungal-diversity]] species, with estimates
+suggesting over 200 species associated with mangrove [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 alone. Wood substrata support the highest diversity of all marine
-fungal habitats.
+[[freshwater-fungal-habitats-conservation-urgency]].
 
 ## Adaptations to Marine Environments
 
@@ -87,63 +88,3 @@ unavailable to strictly terrestrial species.
 
 Marine fungal spores must survive immersion and locate appropriate
 substrata in a vast aquatic environment. Many produce appendaged
-spores (ascospores with gelatinous sheaths or filamentous
-attachments) that increase buoyancy and facilitate attachment to
-wood surfaces. Some species release spores in synchrony with tidal
-cycles to maximize the probability of encountering new substrata.
-
-## Biogeochemical Roles
-
-### Carbon Cycling in Coastal Ecosystems
-
-Marine fungi are major decomposers of vascular plant debris in
-coastal waters, processing mangrove litter, seagrass detritus, and
-salt marsh plant material. Their enzymatic activities convert
-complex plant polymers into forms accessible to bacteria and other
-microorganisms, driving [[nutrient-cycling-in-soil]] coastal food webs.
-
-Fungal decomposition rates vary with temperature, salinity, and
-substrate quality. In tropical mangroves, fungi can decompose wood
-within months, while in colder temperate waters, the same process
-may take years. This temperature dependence has implications for
-carbon storage in coastal ecosystems under climate change.
-
-### Nitrogen Fixation Associations
-
-Some marine fungi form associations with nitrogen-fixing bacteria
-within decaying wood and algal substrata. These consortia contribute
-fixed nitrogen to otherwise nitrogen-limited marine environments.
-The fungal mycelium provides physical structure and organic carbon
-for the bacterial partners, while receiving nitrogen in return.
-
-## Taxonomic Diversity
-
-### Dominant Groups
-
-Ascomycota dominate the marine mycota, accounting for approximately
-70-80% of described species. Basidiomycota are less common in marine
-environments but include some notable lignicolous species. The
-Chytridiomycota and other basal fungal lineages are represented
-primarily by zoosporic species that parasitize marine algae and
-invertebrates.
-
-### Known and Estimated Diversity
-
-Fewer than 1,500 species of marine fungi have been formally
-described, but estimates based on molecular surveys suggest the true
-diversity may exceed 10,000 species. Molecular environmental DNA
-sampling has revealed numerous uncultured clades that appear to be
-specialized for marine lifestyles, indicating that conventional
-culture-based methods have captured only a fraction of marine fungal
-diversity.
-
-## Conservation and Threats
-
-Coastal development, mangrove destruction, and marine pollution
-threaten marine fungal habitats worldwide. The loss of mangrove
-forests alone may drive hundreds of marine fungal species toward
-extinction before they are even described. Oil spills and chemical
-## See Also
-- [[dighton-fungi-aquatic-marine-faunal-interactions]]
-- [[marine-fungi-diversity-sampling]]
-- [[marine-estuarine-fungi]]

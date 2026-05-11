@@ -19,7 +19,7 @@ type: concept
 Inflammation is a fundamental [[medicinal-mushrooms-biological-response-modifiers]] with implications for
 virtually every chronic disease. According to [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] and Inflammation
 
-The endocannabinoid system plays a central role in modulating inflammatory
+The [[endocannabinoid-system]] plays a central role in modulating inflammatory
 responses throughout the body. CB2 receptors, concentrated in immune cells,
 are particularly important for regulating inflammation. When activated, CB2
 receptors can suppress excessive inflammatory responses while maintaining

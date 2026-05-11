@@ -88,21 +88,3 @@ The analytical approach was rigorous for its era:
 - **Confirmation**: TLC using butanol-acetic acid-water (12:3:5)
 
 ## Practical Considerations
-
-Users who consume only caps would receive a more concentrated dose of
-psilocybin per unit of dry mass compared to those consuming whole
-mushrooms. However, the stem-localized psilocin in some strains means
-that stem tissue provides a slightly different alkaloid profile.
-
-The total alkaloid variability across flushes (a factor of four or more
-under controlled conditions, and over tenfold between different street
-samples) far exceeds the cap-versus-stem difference. Flush number and
-growing conditions are far more significant determinants of potency than
-## Related
-
-- [[global-distribution-psilocybin-mushrooms]]
-
-- [[emcdda-smartshop-trade-online-distribution-mushrooms]]
-
-- bigwood-beug-psilocybin-psilocin-variation-analysis for the full
-  flush-by-flush variation data

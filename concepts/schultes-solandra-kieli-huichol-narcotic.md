@@ -88,25 +88,3 @@ The distinction between "good Kieli" (Solandra) and "bad Kieli"
 the dose-response relationship and side-effect profiles of related
 psychoactive species. This folk taxonomic knowledge parallels modern
 pharmacological understanding, in which the ratio of scopolamine to
-hyoscyamine and the absolute concentrations of tropane alkaloids
-determine both the quality and safety of the psychoactive experience.
-
-## Relationship to Other Solanaceous Hallucinogens
-
-Solandra occupies a middle position in the spectrum of solanaceous
-psychoactive plants used in Mesoamerica. It is more potent and
-potentially more dangerous than mild species but is regarded as more
-manageable than the stronger Datura species. This gradation of
-effects and risks is reflected in the Huichol terminology, where
-Solandra is "Kieli" (the true god-narcotic) while Datura is merely
-"Kielitsa" (resembling Kieli but lesser or distorted).
-
-The genus is part of a broader pattern of solanaceous plant use in
-indigenous Mexican cultures that extends back to the pre-Columbian
-period. The Aztec, Huichol, Mazatec, and many other Mesoamerican
-peoples developed sophisticated systems for classifying, preparing,
-and employing these plants in healing, divination, and religious
-ceremony. Solandra represents one node in this extensive network of
-ethnopharmacological knowledge, connecting the Huichol to a tradition
-of psychoactive plant use that spans millennia of Mesoamerican
-history.

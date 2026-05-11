@@ -40,7 +40,7 @@ Degeneration happens through several overlapping mechanisms. The most visible is
  pollen between plants. When a seed crop is grown near a different variety of the same
  species, or near a weedy wild relative, the resulting seeds carry mixed genetics. The
  first generation after contamination may show only subtle differences, but each
- subsequent cycle of unmonitored seed saving amplifies the problem until the variety is
+ subsequent cycle of unmonitored [[biointensive-seed-saving]] amplifies the problem until the variety is
  unrecognizable.
 
 A second mechanism is **genetic drift through careless selection**. When seed savers
@@ -69,7 +69,7 @@ Maintaining a variety at full quality requires specific, labor-intensive practic
   cross with which — knowledge most gardeners lack.
 
 - **Hand-selection of seed plants:** Choosing only the finest individuals as parents of
-  the next generation. This is not casual observation but informed judgment applied by
+  the [[next-generation-sequencing-hidden-fungal-diversity]]. This is not casual observation but informed judgment applied by
   someone who deeply understands the variety and its intended purpose.
 
 - **Skilled plant breeding:** The ability to evaluate a population and make selection
@@ -88,59 +88,3 @@ Most commercial seed houses have no economic incentive to maintain varieties pro
  harvesting. Each generation of seed they sell is slightly more degraded than the last.
  After five or ten years of this treatment, a once-excellent variety is functionally
  ruined, even though it still carries the same name on the packet.
-
-The gardener who saves seed from these degraded stocks, expecting to maintain the
- variety, is actually propagating mediocrity. The problem compounds with each home-grown
- generation because home seed savers rarely have the isolation distances or the population
- sizes needed to halt the decline.
-
-## The Heirloom Fraud
-
-The term "heirloom" carries powerful marketing weight, promising heritage, purity, and
- superior quality. In practice, the label is often fraudulent. Unethical primary growers
- purchase commercial hybrid seed — sometimes from the very companies that bred it — grow
- out the F1 generation, harvest the resulting F2 seed, and repackage it as "heirloom"
- variety seed. The F2 generation of a hybrid segregates wildly, producing a chaotic mix
- of traits. None of these plants breed true. Selling this seed as an heirloom variety is
- deception, but it is common in the marketplace because it is profitable and difficult
- for consumers to detect.
-
-Even genuinely old OP varieties that have been maintained with care may suffer from a
- subtler problem: the criteria by which they were selected have shifted dramatically over
- the past 150 years.
-
-## The Nutritional Consequences of Modern Selection
-
-Before roughly 1870, most [[heirloom-vegetable-varieties]] in [[guzman-psilocybin-mushrooms-north-america]] and Europe were maintained
- by farm families and home gardeners. These families selected seed plants based on
- criteria that directly affected their survival: nutritional density, flavor, keeping
- quality, and the ability to nourish children through common childhood diseases. A variety
- that helped a child survive a winter illness was a variety worth keeping. A variety
- that tasted bland or failed to store well was not. This informal but relentless selection
- pressure produced varieties with remarkable [[coleman-winter-greens-nutritional-quality-cold-sweetening]] and flavor.
-
-After 1870, the seed industry consolidated and the locus of variety maintenance shifted
- from family gardens to commercial seed companies. The [[cannabis-breeding-traits-selection-criteria-clarke]] changed to serve
- market demands: shipping tolerance, uniform appearance, high yield, and shelf life.
- Nutritional quality and flavor — once survival traits — became irrelevant to the
- marketplace. Over the following decades and centuries, the nutritional content of many
- OP varieties declined as breeders selected for traits that served distributors and
- retailers rather than eaters.
-
-This means that even a properly maintained "heirloom" variety from 1890 may be less
- nutritious than its own ancestors from 1850. The variety name survived, but the
- selection pressure that shaped it changed, and with it the substance of the plant.
-
-## Implications for the Serious Gardener
-
-Gardeners who care about food quality face a difficult situation. Buying commercial seed,
- even from reputable suppliers, provides no guarantee of variety integrity. Saving seed
- from degraded commercial stocks perpetuates the problem. The only reliable path is to
- source seed from dedicated seed stewards who maintain varieties with the full discipline
- described above — and who select for the qualities that matter to eaters, not
- distributors.
-
-This is not theoretical. It is the practical reality behind every packet of seed, and it
- is the reason that two gardens growing what appears to be the same variety can produce
- dramatically different results. The difference is not magic. It is genetics, maintained
- or neglected, one generation at a time.

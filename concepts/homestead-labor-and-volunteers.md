@@ -7,7 +7,9 @@ tags: [homesteading, business, community, law, regulation, economics]
 sources: []
 ---
 
-# Homestead Labor and Volunteer [[allegro-christianity-as-a-fertility-cult]] s a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance. (see [[permaculture-social-design]]).
+# Homestead Labor and Volunteers
+
+As a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
 
 ## Labor Needs Assessment
 
@@ -15,13 +17,16 @@ sources: []
 - Weekly farm work exceeds 40 hours for available people
 - Seasonal peaks (planting, harvest, preservation) create bottlenecks
 - You're turning down market days or orders due to lack of production capacity
-- You want to scale (see [[homestead-scale-assessment]]) but lack labor bandwi [[fukuoka-four-types-of-diet]] Types of Tasks Suitable for Helpers
+- You want to scale (see [[homestead-scale-assessment]]) but lack labor bandwidth
+
+### Types of Tasks Suitable for Helpers
 - Planting, weeding, harvesting
-[[bee-feeding-and-fungal-pesticides]] eding and chores
-- Market setup and [[food-preservation-canning]] ervation (canning, drying, packing)
-[[solomon-humus-building-and-soil-life]] ding and repair
+- Animal feeding and chores
+- Market setup and sales
+- Food preservation (canning, drying, packing)
+- Fence building and repair
 - Building and infrastructure projects
-- Socia [[small-farm-business-and-marketing]] arketing (skilled volunteers)
+- Social media and marketing (skilled volunteers)
 
 ## WWOOF (World Wide Opportunities on Organic Farms)
 
@@ -60,7 +65,7 @@ sources: []
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on organic farming specifically
+- Less focus on [[coleman-deep-organic-farming]] specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -76,10 +81,10 @@ sources: []
 
 ### Formal Apprenticeship Programs
 - Organizations like:
-  - Rogue Farm Corps (Pacific Northwest)
+  - Rogue Farm Corps ([[psilocybin-north-america-pacific-northwest]])
   - Quivira Coalition (New Market Farmer program)
   - MOFGA (Maine Organic Farmers and Gardeners Association) journeyperson program
-  - ATTRA (National Sustainable Agriculture Information Service) directory
+  - ATTRA (National [[phosphate-accumulators-sustainable-agriculture]] Information Service) directory
 - Often include formal education, mentorship, and networking
 - Some offer stipends ($500-1,500/month)
 - Application process competitive
@@ -127,7 +132,7 @@ sources: []
 - Experienced farm worker: $16-22/hour
 - Farm manager: $40,000-55,000/year
 - Market sales: $15-20/hour
-- Include benefits discussion: flexibility, farm products, housing (if applicable)
+- Include benefits discussion: flexibility, [[selling-farm-products-and-business]], housing (if applicable)
 
 ## Labor Laws
 

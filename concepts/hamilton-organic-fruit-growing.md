@@ -1,7 +1,7 @@
 ---
-title: hamilton organic fruit growing Growing Techniques
+title: Hamilton Organic Fruit Growing
 created: 2026-04-26
-author: Geoff Hamilton
+author: [[geoff-hamilton]]
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md
 updated: 2026-04-24
 type: concept
@@ -11,7 +11,7 @@ tags: [fruit-tree]
 # Organic Fruit Growing Techniques
 
 Fruit growing in the organic garden follows the same principles as all
-other aspects: healthy soil, diverse planting, and natural pest
+other aspects: healthy soil, diverse planting, [[jeavons-natural-pest-control]]
 management. Geoff Hamilton covers a wide range of fruit from tree fruits
 to soft fruits, with specific advice for small gardens where space is
 limited.
@@ -19,7 +19,7 @@ limited.
 ## Tree Fruits in Small Gardens
 
 Dwarfing rootstocks are essential for small gardens. They limit the size
-of the tree while maintaining good fruit production. Wall training is
+of the tree while maintaining good [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. Wall training is
 another space-saving technique:
 - **Fan-trained peaches**: Plant on a sunny wall for warmth and protection
 - **Morello cherries**: One of the few fruits that tolerate a north wall
@@ -29,7 +29,7 @@ another space-saving technique:
 
 Apple and pear trees need a pollination partner nearby, as most are not
 self-fertile. Choose varieties that flower at the same time. Crab apples
-make excellent pollinators and are also attractive ornamental trees.
+make excellent pollinators and are also attractive [[hamilton-ornamental-trees]].
 
 ## Soft Fruits
 
@@ -88,42 +88,3 @@ different variety flowering at the same time.
 Organic fruit growing uses the same pruning principles as conventional:
 - Remove dead, diseased, and crossing branches
 - Maintain an open center for good air circulation (reduces disease)
-- Summer prune restricted forms (cordons, espaliers, fans) to control
-  growth and encourage fruit bud formation
-- Winter prune to shape young trees and remove unwanted growth
-
-## Feeding Fruit
-
-Apply well-rotted manure or compost as a mulch around the base of fruit
-trees and bushes in spring. For heavy-cropping fruits, supplement with
-a high-potash [[complete-organic-fertilizer-cof-recipe-solomon]] like rock potash or liquid kelp to
-improve flower and fruit quality. Avoid excessive nitrogen which promotes
-soft, pest-prone leaf growth.
-
-## Disease Prevention
-
-Healthy trees are more resistant to disease. Maintain good air
-circulation through proper pruning, keep the ground clear of fallen
-leaves and fruit (which harbor disease spores), and choose resistant
-varieties where available. Grease bands on tree traps in autumn help
-catch winter moth.
-
-## General Tips
-
-- Plant fruit trees and bushes during the dormant season (November to
-  March)
-- Prepare planting holes generously, incorporating [[hamilton-composting-and-organic-matter-management]]
-- Water newly planted fruit thoroughly during the first [[savory-growing-season-and-non-growing-season-management]]
-- Mulch around the base to retain moisture and suppress weeds
-- Net soft fruits as they ripen to protect from birds
-
-See also: [[hamilton-organic-pest-control]],
-[[hamilton-organic-seed-saving-propagation]]
-
-## See Also
-
-- [[hamilton-tomato-growing-organic]]
-- [[hamilton-cucumber-growing-organic]]
-- [[hamilton-rhubarb-growing-organic]]
-
-- [[hamilton-citrus-fruit-growing]]

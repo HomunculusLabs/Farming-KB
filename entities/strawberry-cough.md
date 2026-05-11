@@ -35,11 +35,11 @@ Bred by Kyle Kushman from a cross between Strawberry Fields and an undisclosed
 [[sativa-haze-lineage-breeding-history]], the strain gained widespread fame after appearing in the documentary
 *"Super High Me"* (2007). It consistently delivers uplifting, euphoric cerebral
 effects paired with a mild body relaxation, making it a popular choice for daytime
-use, social settings, and creative endeavors. THC content typically ranges from
+use, social settings, and creative endeavors. [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from
 15–20%, with some phenotypes reaching 22%. The strain is considered approachable
 for novice consumers due to its manageable intensity and pleasant flavor profile.
 Its genetics have also served as a parent in numerous crosses, including
-Strawberry Banana and Strawberry Lemonade, extending its influence across the
+[[strawberry-banana]] and Strawberry Lemonade, extending its influence across the
 modern cannabis market.
 
 ## Lineage and Genetics
@@ -47,7 +47,7 @@ modern cannabis market.
 - **Type:** Sativa-dominant hybrid (approximately 80% sativa / 20% indica)
 - **Breeder:** Kyle Kushman
 - **Lineage:** Strawberry Fields × Haze (specific cut undisclosed)
-- **Flowering time:** 9–10 weeks indoors; mid-October outdoors
+- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 9–10 weeks indoors; mid-October outdoors
 - **Yield:** Moderate — approximately 12–14 oz/m² indoors
 - **Difficulty:** Moderate; requires attention to humidity and training
 - **Award:** Best Flower at the 2013 High Times Cannabis Cup (Amsterdam)
@@ -88,32 +88,3 @@ modern cannabis market.
 - **Stress and anxiety:** Widely used for daytime stress relief; the uplifting
   cerebral effects help break rumination cycles without inducing paranoia
 - **Depression:** Mood-elevating properties make it suitable for managing mild to
-  moderate depressive symptoms and low motivation
-- **PTSD:** Some patients report benefits for symptom management due to the
-  combination of mental clarity and gentle physical relaxation
-- **Pain:** Mild analgesic effects suitable for headaches, mild joint pain, and
-  muscle tension without heavy sedation
-- **Fatigue:** Sativa dominance provides functional energy without overstimulation;
-  useful for managing daytime fatigue while maintaining productivity
-- **Social anxiety:** Enhances sociability and reduces inhibitions in social
-  settings, though individual response varies; best at low-to-moderate doses
-
-## Cultivation Notes
-
-- **Climate:** Prefers warm, Mediterranean-like conditions; susceptible to
-  [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments
-- **[[cannabis-sativa-indoor-cultivation-techniques]]:** Responds well to SCROG and LST training; maintain 68–80°F
-  (20–27°C); regular defoliation improves airflow to lower bud sites
-- **Nutrient needs:** Moderate feeder; benefits from calcium and magnesium
-  supplementation during flowering
-- **Harvest indicators:** Trichomes shift from clear to cloudy with occasional
-  amber heads; pistils darken to orange-red; clones widely available in legal
-  markets
-- **Yield:** Moderate — approximately 12–14 oz/m² indoors; 9–10 week flowering
-  time
-
-## See Also
-
-- [[super-lemon-haze|Super Lemon Haze]] — award-winning sativa-dominant with citrus character
-- [[tangie-cannabis|Tangie]] — tangerine-forward sativa-dominant hybrid
-- [[amnesia-haze|Amnesia Haze]] — potent sativa-dominant with euphoric effects

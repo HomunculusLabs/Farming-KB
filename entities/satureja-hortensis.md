@@ -68,17 +68,17 @@ flowers are attractive to bees and other pollinators.
 enclosed within the persistent calyx.
 
 **Roots:** Shallow fibrous root system. As an annual, the plant completes
-its entire life cycle within one [[savory-growing-season-and-non-growing-season-management]].
+its entire [[agaricus-campestris-biology-and-life-cycle]] within one [[savory-growing-season-and-non-growing-season-management]].
 
 ## Distribution and Habitat
 
 Summer savory is native to the eastern Mediterranean, the Balkans, the
 Black Sea region, and western Asia (from Turkey to Iran). It has been
 widely naturalized across Europe and is cultivated commercially in many
-temperate regions worldwide. The plant prefers light, well-drained soils
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The plant prefers light, well-drained soils
 in full sun and is tolerant of poor, sandy soils. It is sensitive to frost
 and does not survive freezing temperatures, which limits its cultivation
-to the frost-free growing season.
+to the frost-free [[extending-growing-season]].
 
 ## Essential Oil Composition
 
@@ -88,59 +88,3 @@ by chemotype and geographic origin. Major constituents typically include:
 - **Carvacrol** (20–55%): The dominant phenolic monoterpene, responsible
   for the herb's characteristic warm, peppery aroma and much of its
   antimicrobial activity.
-- **Thymol** (1–40%): Another phenolic monoterpene with strong antiseptic
-  properties. The carvacrol/thymol ratio varies significantly among
-  populations.
-- **p-Cymene** (5–15%), **γ-terpinene** (2–10%), and **linalool** (1–8%).
-- Minor constituents include borneol, camphene, β-caryophyllene, and
-  various monoterpene hydrocarbons.
-
-The essential oil has demonstrated broad-spectrum antimicrobial activity
-against Gram-positive bacteria, Gram-negative bacteria, and Candida species.
-
-## Culinary Uses
-
-Summer savory is a versatile culinary herb with a warm, peppery, slightly
-sweet flavor that falls between thyme and mint. It is a key ingredient in
-the traditional French herb blend *herbes de Provence* and is used in:
-
-- **Bean dishes and lentil soups** — savory's most traditional pairing,
-  where it is said to reduce gas and improve digestibility.
-- **Stuffings, sausages, and pâtés** — particularly in European cuisines.
-- **Grilled meats and poultry** — used in marinades and dry rubs.
-- **Egg dishes, vegetable preparations, and salads.**
-
-The herb is best used fresh but dries well with minimal flavor loss,
-unlike many other [[holzer-medicinal-and-culinary-herbs-compendium]].
-
-## Medicinal and Traditional Uses
-
-In European traditional medicine, summer savory has been used as a
-carminative, antiseptic, and digestive aid. Nicholas Culpeper (1653)
-recommended it for flatulence, colic, and as a remedy for bee stings.
-Modern pharmacological studies have confirmed:
-
-- **Carminative and antispasmodic activity** — reducing intestinal
-  cramping and gas, supporting its traditional use with beans.
-- **Anti-inflammatory and analgesic effects** in animal models.
-- **Antioxidant activity** — the essential oil shows significant
-  free-radical scavenging capacity.
-- **[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]** — effective against foodborne pathogens
-  including *E. coli*, *Salmonella*, and *Listeria monocytogenes*.
-
-## Cultivation
-
-Summer savory is easily grown from seed sown directly after the last frost.
-Seeds germinate in 1–3 weeks at 20°C. Plants prefer full sun, moderate
-watering, and well-drained soil. Pinching back the stems encourages
-bushier growth. The entire above-ground plant is harvested just before or
-during flowering for maximum essential oil content. In [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]],
-savory is traditionally grown alongside beans and onions. It is sometimes
-intercropped as a pest deterrent, though scientific evidence for this is
-limited.
-## See Also
-
-- [[origanum-vulgare-entity]]
-- [[mentha-piperita]]
-- [[lavandula-angustifolia]]
-- [[foeniculum-vulgare-entity]]

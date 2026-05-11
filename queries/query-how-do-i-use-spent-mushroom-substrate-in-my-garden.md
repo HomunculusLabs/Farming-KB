@@ -11,7 +11,7 @@ type: query
 
 ## Is spent mushroom substrate safe to use in the garden?
 
-Generally yes, with caveats. SMS from edible [[soil-food-web]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
+Generally yes, with caveats. SMS from edible [[soil-foodweb]] as it breaks down. Keep mulch a few inches away from plant stems to prevent rot.
 
 ### As a compost accelerator
 

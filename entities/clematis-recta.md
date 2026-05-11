@@ -13,7 +13,7 @@ sources:
   - Johnson, M. (2001). "Clematis: The Genus." Timber Press.
   - Toomaj, H. et al. (2020). "Ranunculaceae: Medicinal Plants and Phytochemistry." Phytochemistry Reviews, 19(4), 1-28.
   - RHS (2024). "Clematis recta — Plant Finder." Royal Horticultural Society.
-  - GRIN (2024). "Germplasm Resources Information Network — Clematis recta." USDA.
+  - GRIN (2024). "Germplasm Resources [[mycelium-digestive-membrane-information-network]] — Clematis recta." USDA.
 ---
 
 ## Overview
@@ -71,7 +71,7 @@ Hardy in USDA zones 4–9, Clematis recta is one of the easiest Clematis species
 
 Plant in full sun to light shade in fertile, well-drained soil. Space plants 45–60 cm apart. The species benefits from a neutral to alkaline pH (6.5–7.5).
 
-Water regularly during the first growing season to establish roots. Once established, C. recta shows good drought tolerance. Apply a balanced fertilizer in early spring.
+Water regularly during the first [[extending-growing-season]] to establish roots. Once established, C. recta shows good [[dighton-fungal-drought-tolerance-plant-water-relations]]. Apply a balanced fertilizer in early spring.
 
 **Pruning and maintenance:**
 
@@ -79,41 +79,12 @@ Cut all stems to 15–20 cm above ground in late winter or early spring before n
 
 The species may benefit from discrete staking or growing through supporting perennials, as heavy rain or wind can flatten the tall stems. Several compact cultivars (e.g. 'Savannah' at 60 cm) address this issue.
 
-**Pests and diseases:** Generally trouble-free. Occasional powdery mildew in humid conditions. Slugs may damage emerging shoots in spring. Clematis wilt (caused by *Phoma clematidina*) is rare in this species but possible.
+**[[mushroom-pests-and-diseases]]:** Generally trouble-free. Occasional [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions. Slugs may damage emerging shoots in spring. Clematis wilt (caused by *Phoma clematidina*) is rare in this species but possible.
 
 **Propagation:**
 
-Sow seeds in autumn in a cold frame for germination the following spring. Division of established clumps in early spring is reliable. Softwood cuttings taken in late spring root well under mist.
+Sow seeds in autumn in [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] for germination the following spring. Division of established clumps in early spring is reliable. Softwood cuttings taken in late spring root well under mist.
 
 ## Ecology and Applications
 
 **Ecological role:**
-
-The fragrant flowers attract a wide range of pollinators including bees, hoverflies, and butterflies. The feathery seed heads persist into autumn, providing visual interest and occasional nesting material for birds.
-
-As a toxic species, Clematis recta is generally avoided by mammalian herbivores, providing some deer resistance in garden settings.
-
-**Ethnobotanical use:**
-
-Traditional European herbalism employed fresh leaf poultices for skin conditions and joint pain, though such use carries significant risk of contact dermatitis. Internal use is not recommended due to protoanemonin content.
-
-**Ornamental value:**
-
-The species is prized for its airy flower panicles and pleasant fragrance. Cultivar 'Purpurea' features dark purple stems and foliage, contrasting dramatically with white flowers. Awarded the RHS Award of Garden Merit.
-
-Effective in mixed perennial borders, cottage gardens, and naturalistic plantings. Combines well with roses, hardy geraniums, and ornamental grasses.
-
-**Notable cultivars:**
-
-'Savannah' (syn. 'Lime Close') is a compact selection at 50–60 cm with stronger stems. 'Purpurea' reaches 90–120 cm with dark purple-black stems and foliage that matures to green-purple. Both are widely available in the nursery trade.
-
-## See Also
-
-- [[clematis-vitalba]]
-- [[clematis-montana]]
-- [[clematis-terniflora]]
-- [[ranunculus-acris]]
-- [[aconitum-napellus]]
-- [[helleborus-niger]]
-- [[anemone-coronaria]]
-- [[delphinium-elatum]]

@@ -1,5 +1,5 @@
 ---
-title: Suppression of mckenna suppression psychedelic research lsd therapy and LSD Therapy
+title: Mckenna Suppression Psychedelic Research Lsd Therapy
 created: 2026-04-28
 tags: [lsd, psychedelic-research, prohibition, psychiatry, mckenna, history, hoffer, osmond]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Suppression of Psychedelic Research and LSD Therapy
 
 In Food of the Gods, McKenna documents how the promising field of
-psychedelic psychiatric research was systematically destroyed following
+psychedelic [[hofmann-lsd-psychiatric-research]] was systematically destroyed following
 the criminalization of LSD in October 1966, depriving medicine of
 treatments that had shown significant efficacy for conditions previously
 considered untreatable.
@@ -39,7 +39,7 @@ Whereas the power of the atom, convertible into weapons of mass
 destruction, was fascinating to the dominator Establishment, the
 [[leary-psychedelic-experience-bardo-mapping]] loomed ultimately as an abyss. By the end of the
 1960s, psychedelic research had been hounded out of existence, not only
-in the United States but [[fungi-around-the-world-species-distribution]]. All psychedelic drugs, even
+in the [[dmt-containing-plants-united-states-halpern]] but [[fungi-around-the-world-species-distribution]]. All psychedelic drugs, even
 such unknowns as ibogaine and bufotenine, were made illegal.
 
 ## LSD as a Counter-Agenda Commodity
@@ -64,7 +64,7 @@ destabilized the entire social order.
 The use of LSD among young people in the US reached a peak in the late
 1960s, shortly after the CIA initiated a series of covert operations
 designed to disrupt, discredit, and neutralize the New Left. Nearly
-every drug that appeared on the black market during the 1960s,
+every drug that appeared on the [[hofmann-lsd-black-market-and-dangers]] during the 1960s,
 including marijuana, cocaine, heroin, PCP, amyl nitrate, mushrooms,
 DMT, barbiturates, laughing gas, speed, and many others, had previously
 been scrutinized, tested, and in some cases refined by CIA and army
@@ -82,52 +82,8 @@ projects were summarily destroyed on orders from Helms shortly before
 his departure. The files were shredded, according to Dr. Sidney
 Gottlieb, chief of the CIA's Technical Services Staff, because of "a
 burgeoning paper problem." Lost in the process were numerous documents
-concerning the operational employment of hallucinogenic drugs, including
+concerning the operational employment of [[hallucinogenic-drugs]], including
 all existing copies of a classified CIA manual titled "LSD: Some
 Un-Psychedelic Implications."
 
 ## The Aftermath
-
-The 1960s can be seen as a time when two pharmacological mind-sets
-clashed in an atmosphere close to that of war. On the one hand,
-international heroin syndicates sought to narcotize America's black
-ghettos, while hoodwinking the middle class into supporting military
-adventurism. On the other, self-organized criminal syndicates
-manufactured and distributed tens of millions of doses of LSD while
-waging a highly visible underground campaign for psychedelic
-cryptoanarchy. The result was something of a standoff: the war in
-Southeast Asia was a catastrophic defeat for the American Establishment,
-yet barely a shred of psychedelic utopianism survived the encounter.
-
-## Long-Term Consequences
-
-The suppression of psychedelic research had consequences that extended
-far beyond the immediate loss of clinical tools. An entire generation of
-promising researchers was defunded, discredited, or driven from
-academia. The knowledge base built during the 1950s and early 1960s,
-including detailed clinical protocols, dose-response relationships, and
-therapeutic frameworks, was effectively lost and had to be rebuilt from
-scratch decades later when attitudes finally began to shift.
-
-The suppression also created a self-fulfilling prophecy: by making
-psychedelics illegal and ending research, the only available information
-about these substances came from recreational users and anti-drug
-propaganda, neither of which served scientific understanding. The
-prevention of proper clinical study meant that genuine risks could not
-be distinguished from exaggerated claims, and potential benefits could
-not be evaluated.
-
-It fell to the humble science of botany to advance our understanding of
-hallucinogenic plants after psychiatry abandoned the field. The
-ethnobotanical work of [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]] and his students at Harvard
-became the primary source of new knowledge about psychoactive plants
-during the decades when [[hofmann-lsd-clinical-research-early-studies]] was impossible.
-
-## See Also
-
-- [[mckenna-pandora-box-lsd-cia-mkultra-suppression]]
-
-- [[mckenna-discovery-and-impact-of-lsd]] - the discovery of LSD
-- [[mckenna-drugs-governments-and-intelligence-agencies]] - government involvement
-- mckenna-legalization-debate-and-archaic-revival - legalization arguments
-- [[mckenna-food-gods-leary-harvard-psilocybin-project]] - Leary at Harvard

@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Polyculture and Catch Crop Combinations
@@ -86,30 +87,3 @@ Holzer classifies plants by their function in polycultures:
 ### Decoy Plants for Voles
 - Black salsify (Scorzonera hispanica)
 - Jerusalem artichoke (Helianthus tuberosus)
-
-### Windbreak Plants
-- Jerusalem artichoke (Helianthus tuberosus)
-- Good King Henry (Chenopodium bonus-henricus)
-- Maize (Zea mays)
-
-## Principles for Creating New Combinations
-
-Holzer advises gardeners to:
-
-1. Include at least one legume in every planting to fix nitrogen
-2. Ensure ground cover is continuous to suppress weeds and retain moisture
-3. Use scented herbs as border or interplanting to deter pests
-4. Match plant nutrient needs -- place heavy feeders where soil is richest
-5. Consider root depth -- shallow-rooted plants go above deep-rooted ones
-6. Include flowers and herbs to attract pollinators and predatory insects
-7. Leave some plants to go to seed as volunteer crops for the following year
-8. Use permanent plant covers of self-seeding species to reduce work
-
-## Connection to Holzer's Philosophy
-
-These polyculture combinations are a direct application of Holzer's observation that nature never grows plants in monoculture. His [[holzer-regenerating-contaminated-farmland]]
-
-- [[holzer-green-manure-and-soil-building-plants]]
-- [[holzer-raised-beds-systems]]
-- [[holzer-farming-philosophy]]
-- [[gaias-garden-cover-crops-soil-building]]

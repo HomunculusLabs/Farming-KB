@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE." Drug Science.
-  - Champion, E. et al. (2022). "Novel psychoactive substances: arylcyclohexylamines."
+  - Champion, E. et al. (2022). "Novel [[cultural-evolution-and-psychoactive-substances]]: arylcyclohexylamines."
     Frontiers in Psychiatry 13: 841921.
   - EMCDDA (2023). "3-Methoxyeticyclidine (3-MeO-PCE) Drug Profile."
     European Monitoring Centre for Drugs and Drug Addiction.
@@ -33,7 +33,7 @@ to the arylcyclohexylamine class. Structurally, it is the 3-methoxy analog of
 eticyclidine (PCE), itself a close derivative of phencyclidine (PCP). 3-MeO-PCE
 emerged on the research chemical market in the mid-2010s and has gained popularity
 among dissociative enthusiasts for its long duration, potency, and complex
-headspace — often described as a hybrid between ketamine and MXE-like effects.
+headspace — often described as a hybrid between [[ketamine]] and MXE-like effects.
 
 The compound acts primarily as an NMDA receptor antagonist, producing characteristic
 dissociative effects including [[psilocybin-ego-dissolution-mechanisms]], sensory disconnection, and
@@ -49,7 +49,7 @@ analgesia. It is not approved for medical use in any jurisdiction.
 - **Solubility:** Soluble in ethanol, moderately soluble in water
 
 3-MeO-PCE is structurally related to several known dissociatives. It shares
-the arylcyclohexylamine scaffold with PCP, ketamine, MXE (methoxetamine),
+the arylcyclohexylamine scaffold with PCP, ketamine, MXE ([[methoxetamine]]),
 and 3-MeO-PCP. The key structural feature is the 3-methoxy substitution on
 the phenyl ring, which distinguishes it from PCE and significantly alters
 both potency and subjective effects.
@@ -80,7 +80,7 @@ Additional pharmacological activity includes:
 - **Strong:** 25–40 mg
 - **Heavy:** 40+ mg (high risk of [[blesching-cannabis-safety-adverse-effects-evidence]])
 
-Oral bioavailability is significant but onset is slower (45–90 minutes vs.
+[[first-pass-metabolism-and-oral-bioavailability]] is significant but onset is slower (45–90 minutes vs.
 5–15 minutes insufflated). Oral doses are typically 1.5–2× the insufflated dose.
 
 ### Effects Profile
@@ -88,56 +88,3 @@ Oral bioavailability is significant but onset is slower (45–90 minutes vs.
 - **Onset:** 5–15 minutes (insufflated), 45–90 minutes (oral)
 - **Peak:** 1–2 hours
 - **Duration:** 4–8 hours (significantly longer than ketamine)
-- **After-effects:** Residual dissociation or brain fog for 2–6 hours
-
-**Positive effects:** Ego dissolution, sensory disconnection, conceptual thinking,
-music appreciation, floating/manic sensations, euphoria, introspective insights.
-
-**Neutral effects:** Pupil dilation, increased heart rate, suppressed appetite,
-reduced coordination, time distortion, visual snow or geometric patterning.
-
-**Negative effects:** Confusion, memory impairment, nausea, anxiety, paranoia,
-difficulty speaking, manic or compulsive behavior at high doses.
-
-## Harm Reduction
-
-- Tolerance develops rapidly with daily use; minimum 1–2 week breaks recommended
-- The long duration increases risk of accidental redosing — dose once and wait
-- Do not combine with other NMDA antagonists, stimulants, or depressants
-- Bladder toxicity is a theoretical concern shared with ketamine analogs;
-  hydration and moderation are essential
-- Individuals with personal or family history of psychosis or schizophrenia
-  should avoid dissociatives due to precipitating risk
-- Always test with reagent kits; 3-MeO-PCE can be confused with 3-MeO-PCP,
-  which has a different potency and duration profile
-
-## Legal Status
-
-3-MeO-PCE is controlled or scheduled in several jurisdictions:
-- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
-- **Germany:** Controlled under the NpSG (New Psychoactive Substances Act)
-- **China:** Scheduled as a narcotic since 2021
-- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled but may be prosecuted under the
-  Federal Analogue Act as an analogue of PCP
-- **Canada:** Not explicitly scheduled (as of 2024)
-
-## Related Compounds
-
-- **PCE (Eticyclidine):** Parent compound; more potent, shorter-acting
-- **3-MeO-PCP:** 3-methoxy analog of PCP; longer-acting, more manic headspace
-- **MXE (Methoxetamine):** Ketamine analog with antidepressant focus
-- **Deschloroketamine (DCK):** Ketamine analog; smoother, shorter-acting
-- **PCP (Phencyclidine):** Original arylcyclohexylamine; prototype compound
-
-## See Also
-
-- [[5-meo-eipt]]
-- [[5-meo-dpt]]
-
-- [[turner-essential-psychedelics-5-meo-dmt-void-experience]]
-- [[5-meo-pyr-t-entity-tihkal]]
-- [[5-meo-dipt-entity-tihkal]]
-
-[[methoxetamine]] · [[deschloroketamine]] ·
-[[mxe]] · NMDA receptor · Dissociative ·
-[[dipt]] · [[dpt]]

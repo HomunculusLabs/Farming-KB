@@ -14,7 +14,7 @@ sources: []
 in temperate forests of [[psilocybin-north-america-pacific-northwest]] and Europe. It belongs to the section Hispidoderma
 of the genus Pluteus, characterized by hairy or fuzzy cap surfaces. While not one of
 the more prominently psychoactive species in the genus, P. villosus has been reported
-to contain low levels of psilocybin and related tryptamine alkaloids.
+to contain low levels of psilocybin and related [[hplc-analysis-of-tryptamine-alkaloids]].
 
 ## Taxonomy and Naming
 
@@ -56,7 +56,7 @@ present.
 
 ### Spores and Microscopic Features
 Spores are broadly elliptical to rhombic, smooth, and thin-walled, measuring
-approximately 6 to 8 µm by 5 to 6.5 µm. Spore print is salmon-pink to pinkish-brown.
+approximately 6 to 8 µm by 5 to 6.5 µm. [[boil-a-bag-spore-print-technique-jarrold]] is salmon-pink to pinkish-brown.
 Basidia are four-spored and clavate, measuring 20 to 30 by 7 to 10 micrometers.
 Cheilocystidia are abundant, clavate to utriform (flask-shaped), measuring 25 to 50 by
 8 to 16 micrometers, with thick walls and often containing refractive granular contents
@@ -73,7 +73,7 @@ the hairy cap surface. Clamp connections are present.
 
 ## Distribution and Habitat
 
-Pluteus villosus is found across temperate regions of North America and Europe. In
+Pluteus villosus is found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] [[berry-growing]] and Europe. In
 North America, it is most commonly reported from the eastern [[dmt-containing-plants-united-states-halpern]] and
 southeastern Canada, with scattered records from the Pacific Northwest. European records
 span from Scandinavia to the Mediterranean region.
@@ -88,50 +88,3 @@ frequently encountered in mature deciduous forests with abundant fallen timber. 
 species shows a preference for well-decomposed wood in intermediate to advanced stages
 of decomposition and is often found on the upper surfaces of logs that receive some
 ambient light.
-
-## Psychoactive Properties
-
-[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of Pluteus villosus have detected the presence of psilocybin and
-psilocin, though at concentrations considerably lower than those found in the more
-strongly psychoactive members of the genus such as [[archaeology-of-psychedelic-mushroom-use]]. Total tryptamine content is estimated at less than 0.01% per
-dry weight, making it impractical to produce significant psychoactive effects from
-normal consumption amounts. The species is included in listings of psilocybin-containing
-fungi primarily based on limited bioassay reports and thin-layer chromatography screening
-rather than quantitative analytical data. More comprehensive chemical profiling using
-modern analytical methods such as HPLC-MS could provide better quantification of the
-alkaloid content.
-
-The detection of psilocybin in P. villosus is of mycochemical interest because it
-expands the known range of psychoactive species within Pluteus. The genus appears to
-have independently evolved psilocybin biosynthesis, as the Pluteaceae are only
-distantly related to the Hymenogastraceae (which includes psilocybe, gymnopilus,
-and panaeolus). This suggests that the genetic machinery for [[gottlieb-psilocybin-production-extraction-methods]]
-has evolved multiple times across the Agaricales, or was present in a common ancestor
-and subsequently lost in many lineages.
-
-## Identification Notes
-
-Pluteus villosus can be distinguished from other Pluteus species by the following
-features:
-
-- [[pluteus-cervinus]], the deer shield, is much larger with a smooth brown cap and is
-  not known to contain psychoactive compounds
-- [[pluteus-americanus]] is similar but has different spore characteristics and
-  distribution
-
-Identification of Pluteus villosus in the field presents several challenges. The hairy
-cap surface is not unique to this species within section Hispidoderma, and several
-other Pluteus species share similar cap textures. The free gills and salmon-pink spore
-print are reliable genus-level characters but do not distinguish between Pluteus
-species. Because P. villosus has low or negligible psychoactive content, its
-identification is primarily of taxonomic and ecological interest rather than practical
-importance for foragers. [[fungal-microscopic-examination-mounting-media-techniques]] of the cheilocystidia (clavate to
-utriform with refractive contents) and pleurocystidia is essential for definitive
-identification. The species is also easily confused with small Entoloma species growing
-on wood, which have sinuate gills and angular spores visible under magnification. DNA
-barcoding of the ITS region is increasingly used for accurate Pluteus species
-
-psilocybe and amanita, and systematic [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of its many species
-- [[archaeology-of-psychedelic-mushroom-use]] — another psychoactive Pluteus species with darker
-- [[psilocybin]] — the primary psychoactive compound found in this species
-- [[pluteus-glaucotinctus]] — a Pluteus species with distinctive blue-green coloration

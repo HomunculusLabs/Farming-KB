@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis advanced refinement fractional distillation and cannabis-fractional-distillation-cannabinoids
+title: Cannabis Advanced Refinement Fractional Distillation
 created: 2026-04-14
 updated: 2026-04-18
 type: concept
@@ -8,7 +8,7 @@ sources: []
 ---
 # Cannabis Advanced Refinement and Fractional Distillation
 
-Translucent amber oil from charcoal filtering and isomerization typically contains 30-60% THC. Advanced laboratory techniques can further refine this oil through fractional distillation and CBD isolation, potentially producing nearly pure THC.
+Translucent amber oil from charcoal filtering and isomerization typically contains 30-60% THC. Advanced [[mushroom-spawn-production-and-laboratory-techniques]] can further refine this oil through fractional distillation and CBD isolation, potentially producing nearly pure THC.
 
 ## Fractional Distillation
 
@@ -24,7 +24,7 @@ Fractional distillation separates [[cervantes-hash-cannabis-oil-production]] com
 ### Equipment Required
 - Vacuum pump (two-stage rotary vane or scroll pump capable of achieving <100 microns)
 - Fractional distillation column (stainless steel or borosilicate glass, 12-24 inch wiped film or short path)
-- Precision temperature control (PID controller with ±0.1°C accuracy)
+- Precision [[hamilton-greenhouse-heating-and-temperature-control]] (PID controller with ±0.1°C accuracy)
 - Condenser with cooled receiving flasks (chiller maintained at -10°C to 0°C)
 - Claisen flask or equivalent boiling flask (500ml to 5L capacity)
 - Heating mantle or oil bath with temperature uniformity
@@ -33,8 +33,8 @@ Fractional distillation separates [[cervantes-hash-cannabis-oil-production]] com
 
 ### Temperature Profiles
 Cannabinoid distillation relies on precise temperature-pressure relationships. Under deep vacuum (50-100 microns), the boiling points drop dramatically from atmospheric values:
-- CBGA (cannabigerolic acid): ~155°C at 0.05mm Hg
-- THCA (tetrahydrocannabinolic acid): ~120-130°C at 0.05mm Hg (decarboxylates in situ)
+- CBGA ([[cannabigerolic-acid-cbga]]): ~155°C at 0.05mm Hg
+- THCA ([[tetrahydrocannabinolic-acid-thca]]): ~120-130°C at 0.05mm Hg (decarboxylates in situ)
 - Delta-9-THC: ~157°C at 0.05mm Hg (or ~250°C at atmospheric pressure)
 - CBD: ~160-166°C at 0.05mm Hg (or ~320°C at atmospheric pressure)
 - CBC (cannabichromene): ~220°C at 0.05mm Hg
@@ -88,36 +88,3 @@ The isomerization of CBD to THC involves cyclization of the open-ring CBD molecu
 - **Hydrochloric acid method**: CBD in ethanol with concentrated HCl, stirred at room temperature for 24 hours; simpler but lower yield (~40-50%)
 - **Thermal isomerization**: CBD heated above 150°C under inert atmosphere; produces significant delta-8-THC as a thermodynamically favored side product
 The resulting THC mixture is then purified by fractional distillation to isolate delta-9-THC from delta-8-THC and CBN byproducts.
-
-## Key References
-
-- Roger Adams, "Studies on the Chemistry of Marihuana," Journal of the American Chemical Society, Vol. 62, p. 198 (1940)
-- Wollner, Matchett, Levine, Loewe (1942) — further cannabinoid isolation work
-
-See also [[cannabis-oil-purification-techniques]], [[cannabis-honey-oil-production]].
-
-## See Also
-
-[[cannabis-for-mental-health]], [[cannabis-for-atherosclerosis]], [[cannabis-drug-interactions-and-contraindications]], [[cannabis-delivery-methods-comparison]]
-
-## Practical Applications
-
-The principles outlined on this page connect directly to hands-on work in gardens,
-farms, and homesteads. Integrating these concepts with complementary techniques from
-related disciplines can significantly improve outcomes. Start with small-scale
-implementation and scale up as understanding deepens through [[fukuoka-direct-observation-method]].
-
-### Safety Considerations
-Fractional distillation of cannabis oil involves several hazards that require attention:
-- **Vacuum implosion**: Glass apparatus under vacuum can implode violently; always use safety shielding and inspect for star cracks before use
-- **Flammable solvents**: Many extraction and chromatography solvents are highly flammable; work in a ventilated area away from ignition sources
-- **Hot surfaces**: Heating mantles and oil baths reach 200°C+ and can cause severe burns
-- **Vacuum pump maintenance**: Oil-sealed rotary vane pumps require regular oil changes; backstreaming of pump oil into the distillation apparatus contaminates product
-- **Personal protective equipment**: Heat-resistant gloves, safety glasses, and lab coat are minimum requirements
-
-### Modern Laboratory Standards
-Contemporary commercial cannabis distillation facilities operate under GMP (Good Manufacturing Practice) standards with stainless steel wiped film evaporators, automated vacuum and temperature controls, and in-line analytics (HPLC, GC-MS) for real-time fraction monitoring. Production-scale systems can process 10-50 liters of crude oil per day with cannabinoid purities exceeding 99%.
-
-## Related
-
-- [[cannabis-reefers-and-tincture-preparation]]

@@ -10,7 +10,7 @@ created: 2026-05-09
 
 ## Introduction
 
-While cannabis flowers and leaves have dominated both traditional use and modern research, the roots of the cannabis plant have a long — though often overlooked — history of medicinal use. Cannabis roots contain a distinct phytochemical profile from aerial parts, with significantly lower cannabinoid content but notable concentrations of terpenes (particularly β-caryophyllene), friedelin, pentacyclic triterpenes, alkaloids, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Recent pharmacological research has validated several traditional uses and uncovered new therapeutic potential.
+While cannabis flowers and leaves have dominated both traditional use and modern research, the roots of the cannabis plant have a long — though often overlooked — history of medicinal use. Cannabis roots contain a distinct phytochemical profile from aerial parts, with significantly lower cannabinoid content but notable concentrations of terpenes (particularly β-caryophyllene), friedelin, pentacyclic triterpenes, alkaloids, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Recent pharmacological research has validated several traditional uses and uncovered new [[metzner-ayahuasca-therapeutic-potential]].
 
 ## Historical Use
 
@@ -35,7 +35,7 @@ In Ayurveda, cannabis root (*bhang ki jad*) is classified differently from the a
 - **Skin conditions**: Topical application for wounds, burns, and inflammatory skin diseases
 - **Fever**: Root preparations as antipyretic agents
 
-The Ayurvedic distinction between root and aerial preparations reflects the recognition that different plant parts have different medicinal properties — a concept now supported by phytochemical analysis.
+The Ayurvedic distinction between root and aerial preparations reflects the recognition that different plant parts have different [[panax-ginseng]] — a concept now supported by phytochemical analysis.
 
 ### Classical Western Herbalism
 
@@ -51,7 +51,7 @@ Various African traditions employ cannabis root:
 
 - **[[kanna-sceletium-south-african-narcotic]] Sotho**: Root decoctions for stomach ailments and as an emetic
 - **West African traditions**: Root bark preparations for fever and malaria
-- **East African communities**: Root infusions for gastrointestinal disorders
+- **[[comparison-cavendish-vs-east-african-highland-bananas]] communities**: Root infusions for [[blesching-cannabis-gastrointestinal-disorders]]
 
 ## Phytochemistry of Cannabis Roots
 
@@ -59,7 +59,7 @@ Various African traditions employ cannabis root:
 
 β-Caryophyllene (BCP) is the dominant [[fungal-btex-volatile-compound-degradation]] in cannabis roots, typically comprising 10–35% of the essential oil. This is significant because BCP is a selective CB2 receptor agonist — cannabis roots may exert anti-inflammatory and immunomodulatory effects through CB2 activation, even though they contain virtually no cannabinoids.
 
-Other terpenes found in roots include α-humulene, α-pinene, and caryophyllene oxide (the oxidation product of BCP). The terpene profile of roots is distinct from aerial parts: roots lack monoterpenes like myrcene and limonene that dominate the flower aroma.
+Other terpenes found in roots include α-humulene, α-pinene, and caryophyllene oxide (the oxidation product of BCP). The [[cannabis-terpene-profile]] of roots is distinct from aerial parts: roots lack monoterpenes like myrcene and limonene that dominate the flower aroma.
 
 ### Triterpenes
 
@@ -79,7 +79,7 @@ Low levels of alkaloids have been detected in cannabis roots, including:
 
 ### Other Compounds
 
-- **Phenolic compounds**: Caffeic acid derivatives and other phenolics with antioxidant activity
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Caffeic acid derivatives and other phenolics with antioxidant activity
 - **Phytosterols**: β-sitosterol, stigmasterol, and campesterol
 - **Sugars and polysaccharides**: Root extracts contain significant soluble sugars that may contribute to wound-healing properties through humectant and matrix-forming effects
 - **Minerals**: High concentrations of potassium, magnesium, and calcium
@@ -87,64 +87,3 @@ Low levels of alkaloids have been detected in cannabis roots, including:
 ## Validated Pharmacological Activities
 
 ### Anti-Inflammatory Effects
-
-Cannabis root extracts demonstrate significant anti-inflammatory activity in preclinical models:
-
-- **COX inhibition**: Root extracts inhibit cyclooxygenase-1 (COX-1) and cyclooxygenase-2 (COX-2) enzymes in vitro, comparable in potency to some NSAIDs.
-- **Cytokine suppression**: Root preparations reduce pro-inflammatory cytokine release (TNF-α, IL-1β, IL-6) in activated macrophages and monocytes.
-- **BCP-mediated CB2 activation**: The high BCP content of roots contributes to anti-inflammatory effects through CB2 receptor-mediated suppression of immune cell activation.
-
-### Analgesic Properties
-
-Root extracts show analgesic effects in animal pain models. The analgesic mechanism likely involves both CB2-mediated anti-inflammatory effects and direct modulation of pain signaling pathways by triterpenes and phenolic compounds.
-
-### Antioxidant Activity
-
-Cannabis root extracts demonstrate significant free radical scavenging activity in DPPH and ABTS assays. The antioxidant capacity is attributed primarily to phenolic compounds and the friedelin/triterpene fraction.
-
-### Antimicrobial Effects
-
-Root extracts show moderate antimicrobial activity against Gram-positive bacteria (*Staphylococcus aureus*, *Bacillus subtilis*) and some fungal species. Activity against Gram-negative bacteria is generally weaker, consistent with the outer membrane barrier of these organisms.
-
-### Anti-Cancer Potential
-
-Limited in vitro studies suggest that cannabis root constituents may have anti-cancer properties:
-
-- Friedelin derivatives have shown cytotoxic activity against certain cancer cell lines.
-- BCP's CB2-mediated anti-inflammatory effects may create an unfavorable tumor microenvironment.
-- These findings are preliminary and have not been validated in clinical settings.
-
-## Modern Applications and Preparations
-
-### Topical Preparations
-
-The most common modern use of cannabis root is in topical formulations:
-
-- **Poultices**: Fresh or dried root, mashed or powdered, applied directly to inflamed joints, wounds, or burns.
-- **[[query-how-to-make-herbal-salves-and-balms-at-home]]**: Root-infused oils (typically coconut or olive oil, heated gently for 2–4 hours) combined with beeswax to create topical preparations.
-- **Compresses**: Root decoctions used to soak cloths for application to affected areas.
-- **Tinctures**: Alcohol-based root extracts for both topical and limited internal use.
-
-### Internal Preparations
-
-- **Decoctions**: Root bark boiled in water (10–15 minutes) and strained; traditional dose is 3–9 g dried root per day.
-- **Powders**: Dried root ground to a fine powder, traditionally taken with warm water or honey.
-
-### Safety Considerations
-
-- Cannabis roots are generally considered safe for topical use with minimal risk of systemic cannabinoid effects.
-- Internal use should be approached cautiously — while traditional texts describe root preparations as "non-toxic," modern safety data is limited.
-- Roots may accumulate heavy metals and environmental contaminants from soil; sourcing from clean, tested cultivation is essential.
-- Potential drug interactions through CB2-mediated effects on immune function have not been systematically studied.
-
-## Research Gaps and Future Directions
-
-No controlled clinical trials have been conducted. Analytical methods for standardizing root extracts (BCP, friedelin content) are needed. The relative contributions of individual constituents to pharmacological effects require mechanistic dissection. Drug interaction potential through CB2-mediated [[cancer-immune-modulation-mechanisms]] is unstudied. Roots are typically discarded during cultivation — developing root-based medicines could improve agricultural sustainability.
-
-## See Also
-
-- [[coleman-historical-reading-list-winter-harvest-literature]]
-
-- [[beta-caryophyllene-dietary-cannabinoid]]
-- [[beta-caryophyllene-entourage-effects-cannabis]]
-- [[endocannabinoid-system-overview]]

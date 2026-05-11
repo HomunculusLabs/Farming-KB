@@ -26,7 +26,7 @@ pattern tends to be irregular and extensive, with side branches that can rival t
 main cola in size on well-grown specimens.
 
 Indoor growers must account for this vertical growth tendency. Most sativa-dominant
-strains will require height management through techniques such as Low Stress Training
+strains will require height management through techniques such as [[low-stress-training]]
 (LST), Screen of Green (ScrOG), topping, supercropping, or simply earlier switching
 to the flowering light cycle. Many growers maintain a "2:1" rule — allowing the plant [[alpine-plant-cultivation-guide]]
 to double in height after the switch to 12/12 lighting — when calculating how long to
@@ -47,7 +47,7 @@ Sativa flowers tend to be longer, more elongated, and less dense than indica bud
 They often have a "foxtailing" characteristic where the calyxes stack in elongated
 spires rather than forming tight, compact nuggets. This loose structure is actually
 an advantage in humid environments, as it allows better airflow through the buds and
-reduces the risk of bud rot (botrytis cinerea). The resin production in premium sativas
+reduces the risk of bud rot ([[botrytis-cinerea]]). The [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] premium sativas
 can equal or exceed that of indicas, but the resin tends to be distributed more evenly
 across the flower surface and surrounding foliage rather than concentrated in dense
 glandular formations.
@@ -70,12 +70,12 @@ cannabis — the longer flowering allows for more complex cannabinoid and terpen
 development.
 
 Several approaches have been developed to address the flowering time challenge. Breeding
-programs have crossed equatorial sativas with faster-finishing varieties to create
+programs have crossed [[durban-poison-and-equatorial-sativas]] with faster-finishing varieties to create
 sativa-dominant hybrids that finish in 8-10 weeks while retaining sativa characteristics.
 Durban Poison (from South Africa, approximately 30°S latitude) has been a particularly
 valuable breeding parent because its genetics carry a strong tendency toward early
 finishing in the northern hemisphere. Auto-flowering sativa crosses (incorporating
-Cannabis ruderalis genetics) provide another approach, though typically with some
+[[cannabis-ruderalis]] genetics) provide another approach, though typically with some
 compromise in potency and effect quality.
 
 ## Cultivation Requirements
@@ -83,51 +83,8 @@ compromise in potency and effect quality.
 ### Nutrient Needs
 
 Sativas are often described as "light feeders" compared to indicas. They evolved in
-regions with naturally nutrient-poor tropical soils and tend to be sensitive to
+regions with naturally nutrient-poor [[mollison-designers-tropical-soils-and-cation-exchange-management]] tend to be sensitive to
 nutrient overload, particularly nitrogen excess during flowering. Over-fertilization
 often manifests as "nitrogen claw" — downward curling of leaf tips — and can reduce
 both yield and quality. Many experienced sativa growers recommend organic or living
 soil approaches, which provide a slow, steady release of nutrients that matches the
-sativa's natural feeding pattern.
-
-The Rev (contributor to Cannabis Sativa Vol. 3 and author of True Living Organics)
-strongly advocates for all-natural organic cultivation of sativas, arguing that these
-wild-adapted plants do not respond well to force-fed synthetic nutrients. He compares
-sativas to wolves and indicas to domesticated dogs — sativas retain more of their wild
-adaptability and resilience, which is best supported through natural growing methods.
-
-### Environmental Preferences
-
-Sativas generally prefer warm temperatures (70-85°F / 21-29°C during the day),
-moderate to high humidity during vegetative growth (50-70%), and lower humidity during
-flowering (40-50% to prevent mold). They tend to be more resistant to heat stress than
-indicas but less tolerant of cold. Many sativa varieties show exceptional resistance
-to botrytis and other fungal pathogens, a trait that was essential for survival in
-their humid native environments.
-
-### Indoor vs. Outdoor Growing
-
-Many sativa breeders and connoisseurs argue that sativas reach their full potential
-when grown outdoors or in greenhouses. The long flowering period, tall growth habit,
-and complex terpene profile that develops under natural sunlight are difficult to fully
-replicate indoors. However, outdoor growing of long-flowering sativas requires careful
-planning — the plants must be started early enough to finish before autumn rains and
-cold weather arrive. In northern latitudes (above 40°N), pure equatorial sativas with
-16+ week flowering times may not finish at all before killing frosts.
-
-## Psychoactive Profile
-
-Sativa-dominant strains are generally associated with cerebral, uplifting, energetic,
-and creative effects, often described as a "head high." This contrasts with the
-typically sedative, body-focused effects associated with indica strains. The distinction
-is primarily driven by the terpene profile — sativas tend to be higher in limonene,
-pinene, and terpinolene (associated with focus and energy), while indicas tend to be
-higher in myrcene and linalool (associated with relaxation and sedation). THC levels
-in modern sativa-dominant hybrids can equal or exceed those of indicas, typically
-ranging from 15-25% in the strains documented in this guide.
-
-## See Also
-
-- [[landrace-sativa-varieties]]
-- [[durban-poison-and-equatorial-sativas]]
-- [[haze-genetics-lineage]]

@@ -13,7 +13,7 @@ Fibromyalgia is a [[cannabis-chronic-pain-management]] condition characterized b
 ## Evidence-Based Confidence Level
 
 - **Total Studies Reviewed:** 3
-- **CHI Value:** 14
+- **[[blesching-cannabis-prostate-cancer-chi-value-3]]:** 14
 
 ## Understanding Fibromyalgia
 
@@ -46,7 +46,7 @@ Pharmaceutical approaches include:
 
 ### Nabilone for Pain and Quality of Life (Winnipeg, Canada, 2007)
 
-A randomized, double-blind, placebo-controlled trial enrolled 40 fibromyalgia patients to measure the effects of Nabilone (synthetic cannabinoid) on pain and quality of life. Results: "Nabilone appears to be a beneficial, well-tolerated treatment option for fibromyalgia patients, with significant benefits in pain relief and functional improvement."
+A randomized, double-blind, placebo-controlled trial enrolled 40 fibromyalgia patients to measure the effects of Nabilone ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]) on pain and quality of life. Results: "Nabilone appears to be a beneficial, well-tolerated treatment option for fibromyalgia patients, with significant benefits in [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] and functional improvement."
 
 ### Nabilone for Fibromyalgia Insomnia (Montreal, Canada, 2008)
 
@@ -57,8 +57,8 @@ A randomized, double-blind, placebo-controlled, crossover trial compared Nabilon
 A review of recent studies found that "all classes of cannabinoids, including the endogenous cannabinoids such as anandamide, related compounds such as the elmiric acids, and non-cannabinoid components (200-250 constituents) of cannabis, show anti-inflammatory action." The analysis confirmed cannabinoid effectiveness in reducing pain from:
 - Post-surgical conditions
 - Rheumatism
-- Rheumatoid arthritis
-- Chronic neuropathic pain
+- [[blesching-cannabis-rheumatoid-arthritis]]
+- Chronic [[blesching-cannabis-neuropathic-pain]]
 - Fibromyalgia
 
 ## Why Cannabis May Work for Fibromyalgia
@@ -85,19 +85,6 @@ The [[blesching-cannabis-health-index-autoimmune-conditions]] notes that fibromy
 
 | Agent | Study | Key Result | CHI |
 |-------|-------|-----------|-----|
-| All cannabinoid classes | Meta-analysis (2004-2009) | Effective for neuropathic pain, fibromyalgia | 4 |
+| All cannabinoid classes | Meta-analysis (2004-2009) | Effective [[cannabis-for-neuropathic-pain]], fibromyalgia | 4 |
 | Nabilone 0.5-1.0mg | 29 fibromyalgia patients | Superior sleep improvement vs amitriptyline | 5 |
 | Nabilone 2mg oral | 40 fibromyalgia patients | Significant pain reduction, improved quality of life | 5 |
-
-## Strain-Specific Considerations
-
-- **Indica strains** are generally preferred for fibromyalgia due to their relaxing, sedating properties
-- Lower THC:CBD ratios favor CB2 activation for anti-inflammatory pain relief
-- The [[cannabis-chronic-pain-management]]
-- [[cannabis-sleep-disorders-and-insomnia]]
-- [[cannabis-for-mental-health]]
-- [[cannabis-and-fibromyalgia]]
-
-- [[2c-d-pihkal-entry-23]]
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-endocannabinoid-system]]

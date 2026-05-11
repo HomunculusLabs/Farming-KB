@@ -24,7 +24,7 @@ One of the most well-known benefits of companion planting is natural pest contro
 
 ### Companion Planting for Soil Health
 
-Companion planting significantly improves soil health through diverse root systems and nutrient cycling. [[companion-planting-guild]] shows how deep-rooted plants can bring up nutrients from subsoil while shallow-rooted plants capture nutrients near the surface. Legumes like beans and peas fix atmospheric nitrogen into the soil through symbiotic relationships with [[rhizobia-bacteria]]. These nitrogen-rich nodules benefit neighboring plants that cannot fix their own nitrogen. Deep-rooted taproot plants like dandelions and comfrey break up compacted soil and bring up minerals from deep layers. Their decaying roots create channels for water and oxygen to penetrate into the soil profile. This diverse root network creates a more resilient soil structure that resists erosion and compaction while supporting a healthy soil food web. The constant turnover of root matter adds organic matter to the soil, improving its long-term fertility and structure.
+Companion planting significantly improves soil health through diverse root systems and nutrient cycling. [[companion-planting-guild]] shows how deep-rooted plants can bring up nutrients from subsoil while shallow-rooted plants capture nutrients near the surface. Legumes like beans and peas fix atmospheric nitrogen into the soil through symbiotic relationships with [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]]. These nitrogen-rich nodules benefit neighboring plants that cannot fix their own nitrogen. Deep-rooted taproot plants like dandelions and comfrey break up compacted soil and bring up minerals from deep layers. Their decaying roots create channels for water and oxygen to penetrate into the soil profile. This diverse root network creates a more resilient soil structure that resists erosion and compaction while supporting a healthy soil food web. The constant turnover of root matter adds organic matter to the soil, improving its long-term fertility and structure.
 
 ### Creating Plant Guilds
 
@@ -88,7 +88,7 @@ Urban gardening environments offer unique opportunities and challenges for compa
 
 ### Integration with Other Organic Practices
 
-Companion planting works synergistically with other organic gardening practices to create comprehensive sustainable systems. [[companion-planting-guild]] demonstrates how companion planting integrates naturally with [[no-till-gardening]] practices by reducing soil disturbance while improving soil health through diverse root systems. Companion planting supports [[cover-cropping]] strategies by providing diverse plant communities that enhance soil fertility and structure. [[integrated-pest-management]] principles work hand-in-hand with companion planting by combining multiple pest control methods including biological control through beneficial insect habitats. [[organic-farming]] systems benefit greatly from companion planting as it reduces reliance on external inputs while creating more resilient and productive growing conditions. The integration of companion planting with other sustainable practices creates holistic systems that address multiple challenges simultaneously, from pest control to soil improvement to resource conservation.
+Companion planting works synergistically with other organic gardening practices to create comprehensive sustainable systems. [[companion-planting-guild]] demonstrates how companion planting integrates naturally with [[no-till-gardening-method]] practices by reducing soil disturbance while improving soil health through diverse root systems. Companion planting supports [[cover-cropping-systems]] strategies by providing diverse plant communities that enhance soil fertility and structure. [[integrated-pest-management]] principles work hand-in-hand with companion planting by combining multiple pest control methods including biological control through beneficial insect habitats. [[organic-farming-history]] systems benefit greatly from companion planting as it reduces reliance on external inputs while creating more resilient and productive growing conditions. The integration of companion planting with other sustainable practices creates holistic systems that address multiple challenges simultaneously, from pest control to soil improvement to resource conservation.
 
 ## Key Points
 
@@ -114,8 +114,8 @@ Companion planting works synergistically with other organic gardening practices 
 
 ## Related Questions
 
-- [[query-how-to-choose-the-right-cover-crop.md]]
-- [[query-how-to-design-a-pollinator-garden.md]]
-- [[query-how-to-control-pests-without-chemicals.md]]
-- [[query-what-is-companion-planting-and-how-does-it-work.md]]
-- [[query-how-to-improve-heavy-clay-soil-in-my-garden.md]]
+- [[query-how-to-choose-the-right-cover-crop]]
+- [[query-how-to-design-a-pollinator-garden]]
+- [[query-how-to-control-pests-without-chemicals]]
+- [[query-what-is-companion-planting-and-how-does-it-work]]
+- [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]

@@ -20,7 +20,7 @@ Fungi associated with vertebrate animals represent a diverse assemblage
 spanning commensal organisms, specialized pathogens, opportunistic
 infections, and environmental contaminants. Understanding these
 associations is critical for both medical mycology and conservation
-biology, because fungal diseases of vertebrates can regulate animal
+biology, because [[duggar-mushroom-insect-pests-and-fungal-diseases]] of vertebrates can regulate animal
 population densities and influence ecosystem dynamics.
 
 ## Categories of Association
@@ -50,7 +50,7 @@ C. tropicalis, C. glabrata, C. parapsilosis, and C. krusei, are
 strongly associated with mammalian and bird gastrointestinal tracts
 and normal skin, and are seldom isolated from other sources.
 
-Truly commensal, purely filamentous fungi have not been encountered.
+Truly commensal, purely [[environmental-sensing-filamentous-fungi-read]] have not been encountered.
 The filamentous growth habit involves substratum penetration, which
 may activate additional immune responses in vertebrates, and is
 spatially inappropriate for the stabilization of nonpenetrative
@@ -76,9 +76,9 @@ are cleared at different rates, with certain species such as
   Ajellomyces and related anamorphs in blastomyces,
   permaculture-ethics capsulatum is indigenous to the
 Mississippi River valley, associated strongly with bird or bat guano.
-blastomyces dermatitidis is specific to riparian and
+[[blastomyces-dermatitidis]] is specific to riparian and
 rodent-influenced habitats in boreal [[polypore-fungi-eastern-north-america]] America.
-coccidioides immitis entity immitis occurs primarily in desert soils of the
+[[coccidioides-immitis]] entity immitis occurs primarily in desert soils of the
 American southwest and northern Mexico.
 
 ## Opportunistic Pathogens
@@ -88,32 +88,3 @@ organisms ordinarily are harmless but can invade animal tissues or
 extensively colonize body surfaces when a host becomes
 immunocompromised or is exposed to a heavy load of potentially
 immunodepressing [[ingham-fungal-inoculum-sourcing]].
-
-Major groups of opportunistic pathogens include:
-- Thermotolerant [[cryptococcus-neoformans-pathogenesis]], a cosmopolitan colonizer of bird
-  and bat guano
-
-## Conservation Significance
-
-Many mycotic diseases are acquired from nonanimal environmental
-sources. Disease agents participate in regulation of animal
-population densities, influencing factors such as the availability
-of animals to predators. Enumeration of such agents is directly
-salient to ethnomycology.
-
-Often, isolation of fungi from human and animal infections is of
-ecological interest because it reveals the presence of fundamentally
-saprobic organisms that are overlooked or underrepresented by
-conventional sampling techniques for soil and plant material.
-Examples include Scedosporium prolificans, Cladophialophora
-bantiana, and Acremonium falciforme.
-
-## Ecological Context of Vertebrate Mycoses
-
-The proportion of mycotic diseases that are regularly communicable
-or contagious is small. Most mycotic diseases are acquired from
-nonanimal sources in the environment, and most disease agents have
-other, usually saprobic, ecological roles through which they exert
-their main ecological impact.
-
-Saprobes such as Fusarium solani and Pseudallescheria boydii may

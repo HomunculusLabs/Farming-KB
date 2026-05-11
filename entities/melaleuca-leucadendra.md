@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-**Melaleuca leucadendra**, commonly known as the **weeping paperbark**, **cajeput tree**, or **white tea tree**, is a medium to large evergreen tree in the family Myrtaceae. It is native to northern Australia, New Guinea, and parts of Southeast Asia, recognized by its distinctive papery, exfoliating white bark.
+**Melaleuca leucadendra**, commonly known as the **weeping paperbark**, **cajeput tree**, or **white tea tree**, is a medium to large evergreen tree in the family Myrtaceae. It is native to northern Australia, New Guinea, and parts of [[psilocybe-southeast-asia-pacific]], recognized by its distinctive papery, exfoliating white bark.
 
 The species typically reaches 15–25 meters in height, though specimens exceeding 35 meters have been recorded in favorable riparian habitats. Its pendulous branchlets give the crown a weeping appearance.
 
-M. leucadendra is the original source of **cajeput oil**, a medicinal essential oil with a long history in traditional Asian and European medicine. The tree is also planted as an ornamental and windbreak in tropical and subtropical regions worldwide.
+M. leucadendra is the original source of **cajeput oil**, a medicinal [[permaculture-designers-manual-essential-oil-plants]] with a long history in traditional Asian and European medicine. The tree is also planted as an ornamental and windbreak in tropical and subtropical regions worldwide.
 
 In its native range the tree is ecologically important, forming a characteristic component of northern Australian riparian forests. It contributes significant biomass to wetland ecosystems through annual leaf and bark litter inputs.
 
@@ -45,7 +45,7 @@ Bark layers can accumulate to a thickness of 2–5 cm and are highly water-resis
 
 Leaves are alternate, lanceolate to elliptic, 7–20 cm long and 1–3 cm wide, with 5–7 prominent parallel veins. They are aromatic when crushed, releasing a fresh camphoraceous scent.
 
-Young leaves are softer and more pubescent than mature foliage. The oil glands are visible as translucent dots on the leaf surface when held against light.
+Young leaves are softer and more pubescent than mature foliage. The oil glands are visible as translucent dots on the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] when held against light.
 
 Flowers are arranged in dense, creamy-white spikes 4–8 cm long, borne terminally or in upper leaf axils. Each flower has 5–6 prominent white stamens that give the spike a bottlebrush-like appearance.
 
@@ -61,7 +61,7 @@ The species is strongly associated with wetlands, riparian corridors, and season
 
 In the Northern Territory, M. leucadendra dominates Melaleuca forests that cover millions of hectares of floodplain country. These communities are among the most extensive woody vegetation types in tropical northern Australia.
 
-Optimal growth occurs in tropical climates with annual rainfall exceeding 1,000 mm. It tolerates both seasonal drought and prolonged waterlogging, making it highly adaptable to fluctuating hydrological conditions.
+Optimal growth occurs in [[fukuoka-natural-farming-tropical-climates]] with annual rainfall exceeding 1,000 mm. It tolerates both seasonal drought and prolonged waterlogging, making it highly adaptable to fluctuating hydrological conditions.
 
 Soils range from sandy alluvium to heavy clays, with the species showing preference for periodically flooded sites. It is moderately salt-tolerant and occurs in coastal settings adjacent to mangroves.
 
@@ -73,7 +73,7 @@ Distillation is typically carried out on a small scale by rural producers in Ind
 
 The principal constituent is **1,8-cineole** (eucalyptol), typically comprising 40–65% of the oil. Other significant components include α-terpineol (5–15%), limonene (5–10%), and α-pinene (3–8%).
 
-Cajeput oil has documented antimicrobial activity against Gram-positive bacteria and several fungal pathogens. It has been used topically as an antiseptic, counterirritant, and in formulations for joint pain and respiratory congestion.
+Cajeput oil has documented antimicrobial activity against Gram-positive bacteria and several [[bloomfield-fungal-pathogens-and-parasites]]. It has been used topically as an antiseptic, counterirritant, and in formulations for joint pain and respiratory congestion.
 
 The oil is used in aromatherapy, pharmaceutical preparations, and as a fragrance component in soaps and cosmetics. Indonesia remains the largest commercial producer of cajeput oil from Melaleuca plantations.
 
@@ -83,38 +83,8 @@ European pharmacopoeias historically listed cajeput oil as an official medicine 
 
 M. leucadendra is propagated from seed, which germinates readily without pretreatment. Seedlings establish rapidly in open, wet sites and can begin flowering within 3–5 years.
 
-The species is planted as a windbreak and shade tree in tropical agroforestry systems. Its tolerance of waterlogging makes it valuable for stabilizing riverbanks and canal edges in tropical regions.
+The species is planted as a windbreak and shade tree in tropical agroforestry systems. Its tolerance of waterlogging makes it valuable for stabilizing riverbanks and canal edges [[fukuoka-natural-farming-in-tropical-regions]].
 
 Wood from M. leucadendra is soft, pale, and not commercially significant as timber, though it has been used for fencing posts and rough construction. The heartwood is non-durable in ground contact.
 
 In several introduced locations, M. leucadendra has become invasive, particularly in Florida, where it threatens native wetland ecosystems. Dense stands displace native vegetation and alter fire regimes.
-
-Biological control programs have targeted related Melaleuca species in Florida, though M. leucadendra is less aggressively invasive than M. quinquenervia. Monitoring and early eradication are recommended for new introductions.
-
-The papery bark provides nesting material for birds and cavity habitat for arboreal fauna. Flowers attract a wide range of insect pollinators, and the seeds serve as food for finches and other small birds.
-
-## Related Species
-
-The genus Melaleuca contains approximately 260 species, mostly endemic to Australia. Close relatives of M. leucadendra include:
-
-- **M. quinquenervia** — paperbark tea tree, native to eastern Australia, invasive in the Florida Everglades
-- **M. cajuputi** — true cajeput, native to Southeast Asia, the primary commercial cajeput oil source in Indonesia
-- **M. alternifolia** — Australian tea tree, source of commercial tea tree oil
-- **M. viridiflora** — broad-leaved paperbark, native to northern Australia and New Guinea
-
-M. leucadendra is distinguished from M. quinquenervia by its narrower leaves and pendulous branchlets. The two species are sympatric in parts of northern Australia and may hybridize where their ranges overlap.
-
-The genus name Melaleuca derives from Greek *melas* (black) and *leukos* (white), referring to the contrasting white bark and dark wood of some species. Recent taxonomic work has merged Melaleuca into a broadly defined Callistemon by some authorities, though this treatment remains controversial.
-
-## See Also
-
-- [[melaleuca-alternifolia]]
-- [[eucalyptus-globulus]]
-- [[myrtus-communis]]
-- [[syzygium-aromaticum]]
-- [[pimenta-dioica]]
-- [[psidium-guajava]]
-- [[eugenia-uniflora]]
-- [[leptospermum-scoparium]]
-- [[callistemon-citrinus]]
-- [[syzygium-cumini]]

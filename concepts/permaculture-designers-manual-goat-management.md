@@ -8,7 +8,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Goat Management
 
-**Source:** Permaculture: A Designers' Manual, Bill Mollison (1988)
+**Source:** Permaculture: A Designers' Manual, [[bill-mollison]] (1988)
 **Updated:** 2026-04-18
 
 ## Overview
@@ -52,14 +52,14 @@ when:
 
 Herded or penned in 15 or so rotated runs Each run gets 2-8 years to recover and re-seed Some successful Australian graziers allow 7-9 years rest per paddock Small, high-value herds are run on copious range
 
-Goats are particularly suited to arid environments because, like deer,
+Goats are particularly suited to [[fungal-diversity-arid-environments]] because, like deer,
 kangaroo, and some antelope, they can exist without free surface water
 except in extreme drought conditions -- obtaining moisture from forage.
 
 ## Goat-Pig Integration for Weed Control
 
 Mollison describes a practical method for controlling [[mollison-designers-rampant-blackberry-control]]
-(Rubus fruticosus) over areas of 0.1-2.0 hectares:
+([[rubus-fruticosus]]) over areas of 0.1-2.0 hectares:
 
 - Erect permanent electric fencing to reduce the area to 0.4 hectare
   (1 acre) lots
@@ -88,62 +88,3 @@ Dense shade shelters in hot climates Access to clean water Protection from preda
 ## Zone Placement
 
 Goats occupy Zone 2 in the permaculture zonation model:
-
-- Forage ranges for milk goats can be placed in Zone 2
-- Where winter forces animals indoors, joint accommodation with other
-  stock is normal
-- In milder climates, goats browse freely in Zone 2 orchards and
-  woodlots
-
-## Goat Products and Yields
-
-Goats contribute multiple products to the permaculture system:
-
-- **Milk:** High-quality milk for household consumption or cheese
-  production
-**Meat:** Efficient conversion of browse to protein **Fibre:** Angora and cashmere goats produce specialty fibres **Manure:** Valuable fertiliser for gardens and orchards **Clearing service:** Brush and weed control as a primary function
-
-## Key Design Principles
-
-1. **[[comparison-rotational-grazing-vs-continuous-grazing]]:** Never allow continuous grazing; rotate
-   through 15+ paddocks with long rest periods
-2. **Small herds:** Prefer small, high-value herds on abundant range
-   over large herds on stressed land
-3. **Species mix:** Combine goats with cattle, sheep, and poultry for
-   complete browse utilisation
-4. **Shelter provision:** Always provide shade, windbreaks, and night
-   housing
-5. **Living fences:** Use thorny hedge species for barriers that also
-   yield products
-6. **Water access:** Ensure reliable water; goats can survive on forage
-   moisture but produce better with access to water
-
-## Forage Species for Goats
-
-Goats are natural browsers and thrive on a diverse diet of woody
-plants, forbs, and some grasses. Excellent forage species include:
-
-- **Leguminous trees:** Black locust, honey locust, mesquite, and
-  Siberian pea shrub provide protein-rich browse
-- **Broadleaf shrubs:** Multiflora rose, autumn olive, and Russian
-  olive offer persistent browse through lean seasons
-- **Weedy species:** Thistles, brambles, and kudzu are eagerly consumed
-  and can serve dual purposes as [[mollison-soil-erosion-control]] goat feed
-- **Tree fodder:** Willow, poplar, and mulberry leaves provide
-  supplemental nutrition, especially during dry periods
-
-Avoid feeding goats rhododendrons, azaleas, oleander, and yew, which
-are toxic. See goat husbandry and integration into permaculture systems duck keeping and integration into permaculture systems systems
-for a complete forage safety reference.
-
-## Integration with Silvopasture Systems
-
-[[silvopasture]] combines trees, forage, and livestock on the same
-land, and goats are ideal candidates for these systems. Their browsing
-habit complements grazing cattle and sheep, creating a multi-layered
-harvest strategy:
-
-Goats control understorey growth that competes with timber trees Manure from goats fertilises both pasture grasses and tree root zones Tree canopy provides shade that reduces heat stress during summer Fodder trees (tagasaste, carob, honey locust) yield additional feed
-## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]

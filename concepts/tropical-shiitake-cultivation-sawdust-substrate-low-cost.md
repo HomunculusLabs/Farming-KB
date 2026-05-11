@@ -22,7 +22,7 @@ selection. Shiitake strains are classified into four categories based on their
 fruiting temperature requirements:
 
 1. **Low-temperature strains**: Fruit at approximately 5-15°C. These are the
-   traditional Japanese and Chinese strains developed for temperate climates.
+   traditional Japanese and Chinese strains developed for [[fukuoka-natural-farming-temperate-climates]].
    They require cold-shock induction and will not fruit reliably in tropical
    conditions without artificial cooling
 2. **Mid-temperature strains**: Fruit at approximately 10-18°C. These offer
@@ -35,10 +35,10 @@ fruiting temperature requirements:
    and thinner flesh than low-temperature strains
 4. **Wide-range strains**: Fruit across approximately 5-35°C. These are the
    most versatile for tropical regions where temperatures fluctuate
-   seasonally. They may not achieve the quality standards of specialized
+   seasonally. They may not achieve the [[aact-compost-quality-standards-ingham]] of specialized
    strains but offer reliable production across variable conditions
 
-For tropical lowland cultivation (ambient temperature 25-35°C), high-temperature
+For tropical lowland cultivation ([[jadam-ambient-temperature-principle]] 25-35°C), high-temperature
 or wide-range strains are essential. Low-temperature strains will simply not
 fruit without expensive cooling infrastructure.
 
@@ -46,7 +46,7 @@ fruit without expensive cooling infrastructure.
 
 Sawdust-based substrate has largely replaced traditional log cultivation for
 tropical shiitake production, offering faster production cycles, higher
-biological efficiency, and better control over growing conditions:
+[[biological-efficiency]], and better control over growing conditions:
 
 ### Basic Formulation
 
@@ -88,63 +88,3 @@ bacterial contamination.
 2. **Rest period**: Substrate rests 2-4 hours for complete water absorption
 3. **Bag filling**: Packed firmly (not compacted) into polypropylene bags
    (1-3kg capacity) with air spaces for mycelial growth
-4. **Sterilization**: At 121°C for 90-120 min (autoclave) or 100°C for
-   12-16 hours (atmospheric steaming). Longer steaming compensates for lower
-   temperature where autoclaves are unavailable
-5. **Cooling**: Bags cool below 30°C before inoculation
-
-## Browning and Bark Formation
-
-A distinctive feature of shiitake cultivation on sawdust is the browning
-phase — the development of a tough, reddish-brown surface layer on the
-fully colonized substrate block. This layer serves several functions:
-
-- It protects the substrate from desiccation and contamination
-- It concentrates nutrients at the surface where fruiting bodies form
-- Its formation is a prerequisite for high-quality mushroom production
-- It mimics the bark layer of natural log substrates
-
-Browning typically occurs after 60-90 days of colonization when blocks are
-exposed to light and fresh air. The target is uniform reddish-brown coloration
-with internal moisture at approximately 80%. Premature or uneven browning
-indicates suboptimal conditions.
-
-## Fruiting Induction
-
-Shiitake fruiting is triggered by environmental stress — primarily:
-
-- **Temperature shift**: A sudden drop of 5-10°C (for tropical strains, this
-  may mean moving blocks from a warm incubation room to a cooler fruiting
-  area, or timing production for cooler seasons)
-- **Water soaking**: Submerged soaking of mature substrate blocks in cold
-  water (4-15°C) for 12-24 hours is the most reliable fruiting trigger. The
-  thermal shock combined with physical hydration stimulates primordia
-  formation. Blocks can typically be soaked 3-4 times over their productive
-  life, with diminishing returns
-- **High humidity**: Fruiting requires sustained relative humidity of
-  85-95%. In tropical climates, this is often naturally achieved but may
-  require misting during dry periods
-- **Light**: Indirect light is necessary for normal fruiting body development
-  and cap coloration
-
-## Low-Cost Adaptations
-
-Several adaptations make tropical shiitake accessible without expensive
-equipment:
-
-- **Non-pressure sterilization**: Extended atmospheric steaming in drums or
-  pits eliminates the need for autoclaves
-- **Strain sharing**: Good tropical strains can be propagated through
-  grain-to-grain transfer, reducing culture purchase costs
-- **Seasonal timing**: Aligning production with cooler months reduces or
-  eliminates artificial cooling needs
-- **Shade house fruiting**: Simple shade structures with misting provide
-  adequate conditions at minimal cost
-
-## See Also
-
-- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
-- [[oyster-mushroom-spent-substrate-recycling]]
-- [[shiitake-log-cultivation-traditional-methods]]
-- [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-substrate-pasteurization-alkaline]]

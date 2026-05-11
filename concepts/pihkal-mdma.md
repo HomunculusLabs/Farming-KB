@@ -1,5 +1,5 @@
 ---
-title: "MDMA (PIHKAL)"
+title: Pihkal [[mdma]]
 created: 2026-04-28
 tags: [phenethylamine, empathogen, pihkal, entactogen, pharmacology]
 date: 2026-04-28
@@ -15,7 +15,7 @@ type: concept
 MDMA (3,4-methylenedioxymethamphetamine), commonly known as "Ecstasy" or
 "Molly," is the most widely recognized compound from Shulgin's research.
 Documented in PIHKAL as compound #109, MDMA is an empathogen-entactogen
-producing its characteristic effects primarily through serotonin release,
+producing its characteristic effects primarily through [[serotonin]] release,
 with additional effects on dopamine and norepinephrine. Its discovery and
 popularization by Shulgin and his wife Ann represents one of the most
 consequential events in psychoactive substance history.
@@ -23,7 +23,7 @@ consequential events in psychoactive substance history.
 First synthesized by Merck in 1912, MDMA's psychoactive properties remained
 undiscovered until Shulgin resynthesized it in 1976. After finding its
 effects remarkable, he introduced it to psychotherapists who recognized its
-therapeutic potential. For several years before criminalization, MDMA was
+[[metzner-ayahuasca-therapeutic-potential]]. For several years before criminalization, MDMA was
 used by hundreds of therapists for PTSD, anxiety, and relationship issues.
 
 MDMA's effects are distinct from classical psychedelics: rather than
@@ -88,50 +88,3 @@ emotions with unusual clarity rather than escaping into altered reality.
 Shulgin was troubled by recreational abuse and criminalization, believing
 therapeutic potential was being squandered. He advocated for controlled
 [[hofmann-lsd-clinical-research-early-studies]] throughout his life. He also expressed concern about street
-ecstasy adulteration, a recurring theme in his later public statements.
-
-## Pharmacology
-
-MDMA acts primarily as a releasing agent and reuptake inhibitor of
-serotonin, dopamine, and norepinephrine. Its most pronounced effect is on
-serotonin: it reverses SERT, causing massive presynaptic serotonin release,
-the primary mechanism behind empathogenic effects. MDMA also promotes
-dopamine and norepinephrine release through DAT and NET, contributing to
-stimulant qualities.
-
-Unlike MDA, MDMA has relatively weak direct serotonin receptor activity.
-Metabolism occurs via N-demethylation to MDA (CYP2D6, CYP3A4),
-O-demethylenation, and conjugation. Half-life is approximately 7 to 9 hours.
-
-## Safety and Harm Reduction
-
-Primary concerns include serotonin neurotoxicity with frequent or heavy use,
-hyperthermia (potentially life-threatening in hot environments), hyponatremia
-from excessive water intake, and cardiovascular stress. Most guidelines
-recommend limiting use to once every 1 to 3 months, proper hydration (250 to
-500 mL per hour), avoiding hot environments, and not combining with MAOIs
-or SSRIs. Testing substances for adulterants is strongly recommended.
-
-## Comparison to Related Compounds
-
-Compared to MDA, MDMA is less psychedelic, shorter-acting, and generally
-safer. MDA produces more visual effects with greater 5-HT2A agonism. Against
-mescaline, MDMA is shorter-acting, less visual, and more emotionally and
-socially focused. MDMA has been compared to a mild stimulant combined with a
-profound empathogen, though this oversimplifies its unique character.
-
-## Historical and Cultural Significance
-
-MDMA's journey from Shulgin's laboratory to global phenomenon is remarkable.
-After introduction to psychotherapists in the late 1970s, it was used by
-hundreds before DEA emergency scheduling in 1985. It became the defining
-drug of [[acid-house-rave-culture-and-second-mushroom-boom]] in the 1990s and 2000s. Recent MAPS [[mushroom-cancer-clinical-trials-overview]]
-have demonstrated MDMA's efficacy in treating PTSD, leading to FDA review.
-It remains Schedule I but is at the forefront of the psychedelic renaissance
-in psychiatric medicine.
-
-## See Also
-
-- [[pihkal-mescaline]]
-- [[pihkal-introduction-and-methodology]]
-- [[pihkal-cautionary-note-and-legal-context]]

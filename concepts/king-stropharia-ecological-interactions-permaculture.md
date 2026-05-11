@@ -87,30 +87,3 @@ King Stropharia is an aggressive decomposer of wood debris, thriving on sawdust,
 Acclimated to northern latitudes, King Stropharia fruits when air temperatures range between 60-90°F (15-32°C), which typically corresponds to ground temperatures of 55-65°F (13-18°C). This broad temperature tolerance allows for an extended fruiting season in temperate climates and makes the species adaptable to a wide range of geographic locations.
 
 ### Edibility
-
-King Stropharia is an excellent edible mushroom when young, but its edibility declines rapidly as the mushrooms mature. Mature specimens become tough and less palatable, and fly larvae proliferate inside the developing caps. This decline in edibility is what makes the mature mushrooms suitable for fish feeding rather than human consumption, effectively converting a quality decline into a secondary agricultural product.
-
-Young specimens should be harvested when the caps are still firm and the gills are pale, before the characteristic wine-red color fully develops and the flesh begins to soften. The mushroom has a mild, earthy flavor and a texture that holds up well to sauteing and grilling when harvested at the appropriate stage.
-
-## Ecological Significance
-
-King Stropharia's demonstrated ability to interact positively with bees, fish, water quality, and soil health positions it as a uniquely multifunctional species in permaculture design. No other cultivated mushroom species has been documented to provide this breadth of ecosystem services simultaneously. The species functions as a biological connector, linking pollinator health, aquaculture nutrition, water purification, and soil building in a single cultivation system.
-
-### Comparison with Other Fungal Ecosystem Engineers
-
-While many fungi provide individual ecosystem services — mycorrhizal species support plant nutrition, saprotrophs decompose organic matter, and some species produce antibiotics — King Stropharia is unusual in the number and diversity of services it provides across different trophic levels and ecosystem compartments. Its role spans both terrestrial and aquatic environments, connects insect and vertebrate food webs, and simultaneously addresses waste management and food production challenges.
-
-### Research Needs
-
-Despite the compelling anecdotal evidence for King Stropharia's ecological interactions, formal scientific quantification of most of these effects remains limited. Controlled studies are needed to measure the nutritional value of mycelial cytoplasm for bees, the protein conversion efficiency of the mushroom-larva-fish food chain, the bacterial removal rates achieved by mycofiltration beds under different flow conditions, and the soil chemistry changes that result from long-term King Stropharia decomposition of woody substrates. Such studies would provide the empirical foundation needed to recommend King Stropharia integration in agricultural extension programs and regulatory frameworks.
-
-### Practical Implementation Guidelines
-
-For cultivators interested in establishing King Stropharia for its ecological functions, several practical considerations apply. Beds should be located at the top of drainage gradients for maximum mycofiltration benefit. Proximity to apiaries is beneficial for the bee interaction, but beds should not be placed so close that bee excavation destroys the mushroom crop before it matures. For fish feeding applications, mature mushrooms should be collected just before peak larval emergence and introduced to fish tanks or ponds at a rate appropriate to the fish population size.
-
-## See Also
-
-- [[mycofiltration-of-water]]
-- [[mycological-permaculture-integration]]
-- [[mycorestoration]]
-- [[mollison-designers-integrated-vermiculture-composting-systems]]

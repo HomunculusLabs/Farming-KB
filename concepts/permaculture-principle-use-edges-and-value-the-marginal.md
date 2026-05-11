@@ -61,3 +61,20 @@ Holmgren extends this principle beyond physical edges to social and cultural mar
 ## Connections
 
 This principle connects to [[permaculture-principle-design-from-patterns-to-details]] (edge is a fundamental pattern), [[permaculture-principle-use-and-value-diversity]] (edges maximize diversity), [[permaculture-principle-integrate-rather-than-segregate]] (edge is where integration happens), and [[permaculture-principle-obtain-a-yield]] (marginal yields have been undervalued). See also [[permaculture-principles]], [[edge-effect-and-microclimate]], herb spiral design, and [[rain-garden-design]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-principle-use-and-value-renewable-resources]]
+- [[permaculture-principle-use-and-value-diversity]]
+- [[permaculture-principle-use-small-and-slow-solutions]]
+- [[permaculture-principle-creatively-use-and-respond-to-change]]
+- [[query-what-are-permaculture-zones-and-how-do-i-use-them]]

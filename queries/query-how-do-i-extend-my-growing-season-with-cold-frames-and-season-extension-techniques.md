@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 Season extension techniques allow gardeners and growers to start planting earlier in spring and continue harvesting later into fall and winter.

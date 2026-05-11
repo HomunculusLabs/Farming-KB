@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Community Supported Agriculture (CSA) is a direct-to-consumer marketing model where families purchase a seasonal share of a farm's harvest in advance, receiving weekly boxes of fresh produce throughout the [[savory-growing-season-and-non-growing-season-management]]. It is the fastest-growing method of direct farm sales.
 
@@ -19,7 +19,7 @@ Community Supported Agriculture (CSA) is a direct-to-consumer marketing model wh
 ### The Model
 
 1. **Farmers plan** their seasonal production
-2. **Consumers purchase a share** before the growing season (typically $300–500)
+2. **Consumers purchase a share** before [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] (typically $300–500)
 3. **Weekly boxes** of fresh-picked vegetables, fruits, and sometimes value-added products are delivered or made available for pickup
 4. **Risk sharing**: Members share both the bounty and the risk of farming — if crops fail, members receive less; if abundant, they receive more
 
@@ -87,20 +87,3 @@ The most common failure mode for startup CSAs:
 - **Member expectations**: Managing what members expect vs what nature provides
 - **Labor intensity**: Harvesting, packing, and distributing weekly boxes is significant work
 - **Seasonal limitation**: In most climates, CSA runs only during the growing season
-
-## CSA in Permaculture Context
-
-CSA aligns well with permaculture principles:
-
-- **Local food systems**: Reduces transportation and supports the local economy
-- **Seasonal eating**: Encourages eating with the natural cycles
-- **Community connection**: Builds relationships between farmers and eaters
-- **Biodiversity**: CSAs can grow diverse crops rather than monocultures
-- **No waste**: Everything produced has a guaranteed home
-
-## Related Topics
-
-- [[farmers-market-selling-guide]] — alternative direct sales
-- right-livelihood-and-permaculture-business — business principles
-- [[strawberry-growing-guide]] — strawberry production for CSA
-- [[first-time-grower-common-mistakes]]

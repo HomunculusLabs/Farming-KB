@@ -9,7 +9,7 @@ sources: []
 
 # Cheese Making Basics
 
-Homestead cheese [[goat-cheese-making]] making transforms fresh milk into a shelf-stable, value-added product. Soft cheeses require minimal equipment and skill, making them the ideal entry point for beginners. As experience grows, cheesemakers can progress to aged and pressed cheeses. This guide covers soft cheeses: ricotta, chevre, and mozzarella.
+Homestead cheese making transforms fresh milk into a shelf-stable, value-added product. Soft cheeses require minimal equipment and skill, making them the ideal entry point for beginners. As experience grows, cheesemakers can progress to aged and pressed cheeses. This guide covers soft cheeses: ricotta, chevre, and mozzarella.
 
 ## Milk Selection
 
@@ -30,7 +30,7 @@ Always use the freshest milk possible. Milk for cheese should taste clean and sw
 - Slotted spoon or skimmer
 - Colander for draining
 - Cheese molds (for shaping)
-- Cheese mat or drying rack
+- Cheese mat or [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
 - pH strips or meter (helpful but not essential for beginners)
 - Long knife for cutting curd
 - Drainage container (catches whey)
@@ -39,7 +39,7 @@ Always use the freshest milk possible. Milk for cheese should taste clean and sw
 
 ### Cultures
 
-Cheese cultures are specific strains of lactic acid bacteria that acidify milk:
+Cheese cultures are specific strains of [[bionutrients-lab-lactic-acid-bacteria-serum]] that acidify milk:
 
 - Direct-set cultures (mesophilic): Add directly to milk. Convenient, no maintenance. Used for chevre, fromage blanc, and most soft cheeses.
 - Thermophilic cultures: Require higher temperatures (90-110 F). Used for mozzarella, parmesan, and other Italian-style cheeses.
@@ -52,7 +52,7 @@ Rennet contains enzymes (chymosin) that coagulate milk proteins, forming curds:
 - Animal rennet: Traditional, from calf stomach. Strongest coagulation.
 - Vegetable rennet: From cardoon thistle or fig sap. Weaker coagulation.
 - Microbial rennet: Fermentation-derived. Consistent and widely available.
-- Rennet tablets vs liquid: Tablets have longer shelf life. Liquid is more precise for dosing.
+- Rennet tablets vs liquid: Tablets have longer [[ingham-aact-holding-time-shelf-life-decay]]. Liquid is more precise for dosing.
 
 ## Ricotta
 
@@ -78,7 +78,7 @@ Process:
 
 ## Chevre
 
-Chevre is a fresh goat cheese -- spreadable, tangy, and versatile. It is one of the simplest cheeses to make.
+Chevre is a fresh [[goat-cheese-making]] -- spreadable, tangy, and versatile. It is one of the simplest cheeses to make.
 
 Recipe:
 - 1 gallon goat milk
@@ -101,7 +101,7 @@ Chevre stores in the refrigerator for 1-2 weeks.
 
 ## Mozzarella
 
-Mozzarella is a stretched-curd cheese that requires more active temperature management but is still approachable for beginners.
+Mozzarella is a stretched-curd cheese that requires more active [[cervantes-reservoir-temperature-management]] but is still approachable for beginners.
 
 Recipe (30-minute mozzarella):
 - 1 gallon whole milk
@@ -129,7 +129,7 @@ Process:
 Whey is a valuable byproduct of cheese making:
 
 - Feed to [[duck-keeping]] or other livestock (high in protein)
-- Use in bread baking (replace water in [[sourdough-bread-guide]] recipes)
+- Use in [[wild-yeast-bread-baking]] (replace water in [[sourdough-bread-guide]] recipes)
 - Ferment into ricotta (traditional method)
 - Add to compost as a nitrogen source
 - Use as a base for lacto-fermented vegetables (see [[food-fermentation-guide]])

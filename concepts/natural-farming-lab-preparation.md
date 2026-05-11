@@ -14,7 +14,7 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 ## What LAB Does
 
 - Improves soil ventilation and aeration
-- Promotes rapid growth of fruit trees and leaf vegetables
+- Promotes rapid growth of [[holzer-wild-fruit-trees-and-hedges]] leaf vegetables
 - Arrests foul odors from anaerobic decomposition
 - Neutralizes ammonia gas from immature compost
 - Increases solubility of fertilizers
@@ -29,7 +29,7 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 - Rice-washed water (water from washing raw rice)
 - Milk (unprocessed, not boiled -- cow's milk is best)
 - Jaggery/brown sugar (for storage)
-- Clay jar or glass jar
+- Clay jar or [[jarrold-glass-jar-spore-print-collection-drying]]
 - Porous paper (paper towel)
 - Rubber band or thread
 
@@ -38,7 +38,7 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 2. Cover mouth with porous paper, leave in shade
 3. At 23-25C, lactic acid bacteria will propagate in 5-7 days
 4. Solution will start to smell sour
-5. Rice bran will separate and float as a thin film
+5. [[jadam-rice-bran-problems]] will separate and float as a thin film
 
 **Why rice-washed water?** Using rice-washed water collects the strongest bacteria. Only strong ones can survive in poor nutrient conditions like rice-washed water.
 
@@ -52,8 +52,8 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 
 ### Step 3: Extract Serum
 1. In 3-4 days, the jar will have three layers:
-   - **Top**: Floating matter (starch, protein, fat) -- discard or add to compost/animal feed
-   - **Middle**: Clear yellow liquid -- this is the LAB serum
+   - **Top**: Floating matter (starch, protein, fat) -- discard or add to compost/[[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]]
+   - **Middle**: Clear yellow liquid -- this is the [[cannabis-lab-serum-cultivation]]
    - **Bottom**: Debris/waste
 2. Strain and collect the yellow liquid (pure lactic acid bacteria serum)
 
@@ -88,38 +88,3 @@ Lactic acid bacteria are anaerobic microorganisms that break sugar into lactic a
 - Helps overcome saline disorders from phosphate decomposition
 
 ### For Livestock
-- Use LAB (1:500) with FPJ (1:300) as drinking water to recover digestive function
-- In natural piggery: sprayed on litter floors to control waste decomposition
-- For chickens: diluted and added to water and feeds for better nutrient assimilation
-- For aquaculture: regular addition minimizes ammonia from fish excretions
-
-### For Compost
-- LAB prevents [[cho-fermented-mixed-compost-methods]] compost from decaying
-- When used with IMO or mixed compost, fermentation occurs fast with very effective results
-- Reduces damage from gas by neutralizing ammonia
-
-## Key Characteristics
-
-- **Conditionally anaerobic**: Can survive with or without oxygen
-- **Resistant to high temperatures**: Survives conditions that kill many other beneficial microbes
-- **Strong sterilizer**: Produces enzymes and natural antibiotics
-- **Antibacterial properties**: Including control of salmonella and E. coli
-
-## Troubleshooting
-
-- **Weak LAB**: If rice water doesn't sour properly, temperature may be too low (needs 20-25C) or the container may be too sealed (needs some air exchange)
-- **Poor milk separation**: Ensure milk-to-rice-water ratio is correct (3:1) and temperature is adequate
-
-## The Science
-
-Lactic acid bacteria thrive on the ammonia released during decomposition. By converting ammonia and other waste compounds, they arrest foul odors and transform waste products into forms beneficial to soil and plants. In the digestive systems of animals, LAB helps [[query-can-fungi-break-down-plastic-pollution]] food for better nutrient extraction, which is why it improves feed conversion ratios.
-
-## Sources
-
-- Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
-
-## See Also
-- [[natural-farming-knf-overview]]
-- [[natural-farming-fpj-preparation]]
-- [[natural-farming-ohn-preparation]]

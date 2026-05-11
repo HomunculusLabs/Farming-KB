@@ -16,7 +16,7 @@ sources:
   - Hughes CE. (1998). "Monograph of Calliandra (Leguminosae-Mimosoideae)." Royal Botanic Gardens, Kew.
   - Carsan S, Karanja J, Staudt M, et al. (2012). "A review on the quality of Calliandra calothyrsus as a fodder for ruminants." Agroforestry Systems, 86(2), 247-256.
   - Sumberg JE. (1985). "Calliandra calothyrsus: An agroforestry tree for the humid tropics." NFTA, Wau, Papua New Guinea.
-  - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference and selection guide." World Agroforestry Centre.
+  - Orwa C, Mutua A, Kindt R, et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
 created: 2026-04-28
 ---
 
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 Calliandra calothyrsus is a fast-growing, nitrogen-fixing leguminous tree native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and widely adopted across tropical agroforestry systems worldwide.
 
-Commonly known as red calliandra or pajón, it has become one of the most important multipurpose trees in tropical permaculture and smallholder farming systems.
+Commonly known as red calliandra or pajón, it has become one of the most important [[multipurpose-trees-in-permaculture-design]] [[comparison-arid-vs-tropical-permaculture]] and smallholder farming systems.
 
 The species is valued for its rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]], high-quality fodder, soil improvement capacity, and utility as a shade tree for coffee and cocoa plantations.
 
@@ -50,9 +50,9 @@ Pods are linear, 8–15 cm long, 1–1.5 cm wide, flat and dehiscent, containing
 
 ## Distribution and Habitat
 
-Native range extends from southern Mexico through Central America to Colombia and Venezuela, typically in humid and subhumid tropical lowlands at 0–1500 m elevation.
+Native range extends from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to Colombia and Venezuela, typically in humid and subhumid tropical lowlands at 0–1500 m elevation.
 
-The species has been widely introduced throughout the tropics, with major plantings in East Africa (Kenya, Tanzania, Uganda), Southeast Asia (Indonesia, Philippines), and the Pacific Islands.
+The species has been widely introduced throughout the tropics, with major plantings in East Africa (Kenya, Tanzania, Uganda), Southeast Asia (Indonesia, Philippines), and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 It grows best in areas with 1000–4000 mm annual rainfall and mean annual temperatures of 22–28°C, though it tolerates dry seasons of 3–5 months.
 
@@ -82,35 +82,8 @@ The foliage contains condensed tannins (3–5%) that can reduce bloat risk but m
 
 In coffee and cocoa agroforestry systems, C. calothyrsus provides dappled shade that improves crop microclimate without excessive light competition.
 
-Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds organic matter around crop root zones.
+Its pruning cycle of 3–6 months generates mulch that suppresses weeds, retains soil moisture, and adds [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] around crop root zones.
 
 The tree also serves as a windbreak and boundary marker on smallholder farms, providing additional [[biodiversity-of-fungi-ecosystem-services-agriculture]] beyond direct production.
 
 Beekeeping benefits from its abundant nectar production during flowering periods, supporting honey yields in tropical apiaries.
-
-## Cultivation
-
-Propagation is primarily from seed, which requires scarification (hot water or acid treatment) to break physical dormancy.
-
-Seed viability is high (80-95% germination after treatment) and seeds can be stored for 1–2 years under cool, dry conditions.
-
-[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is possible but [[mollison-designers-plant-nursery-seedling-production]] transplants (2–3 months old) have significantly higher establishment rates.
-
-Spacing of 1×1 m to 3×3 m is used depending on purpose — closer spacing for hedge rows and soil conservation, wider for shade trees.
-
-The species coppices vigorously, with 3–5 harvest rotations per year possible once established, maintaining productivity for 15–20 years.
-
-## Related Species
-
-- **Calliandra haematocephala** — Ornamental powder-puff tree, less cold-tolerant, larger flowers.
-- **Gliricidia sepium** — Similar agroforestry role, more drought-tolerant, also nitrogen-fixing.
-- **Leucaena leucocephala** — Comparable multipurpose tree, higher fodder quality but more invasive potential.
-- **Sesbania grandiflora** — Fast-growing nitrogen-fixer, used for fodder and green manure.
-
-## See Also
-
-- [[leucaena-leucocephala]]
-- [[moringa-oleifera]]
-- [[acacia-mearnsii]]
-- [[medicago-sativa]]
-- tithonia-diversifolia

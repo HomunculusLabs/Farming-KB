@@ -2,14 +2,15 @@
 title: "Shade Systems and Canopy Architecture in Design"
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - shade-design
   - canopy-management
   - microclimate
-  - agroforestry
+  - [[agroforestry]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -39,7 +40,7 @@ citrus, and cocoa or coffee, or any crops needing partial shade. In-crop
 trees can eliminate frost effects in marginal frost areas. Trees like
 avocado and crops like papaya can be grown on subtropical frosty sites
 providing there is a high canopy of hardy palms or light-crowned legumes
-such as Butia palm, Jacaranda, or Tipuana tipu.
+such as Butia palm, Jacaranda, or [[tipuana-tipu]].
 
 ### Tropical Shade Strategies
 In the tropics, spacing permeable-crowned trees throughout crops reduces
@@ -53,7 +54,7 @@ Part of the problem in the tropics (both for [[dighton-fungal-biomass-production
 nutrition) is that non-adapted temperate crops are persistently grown
 there. True tropical plants can not only stand much higher levels of
 light before saturation, but can also maintain photosynthesis at low
-carbon dioxide levels.
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] levels.
 
 ### Shade and Livestock
 In the tropics and subtropics, a ridge planting of pines or Casuarinas
@@ -86,53 +87,3 @@ Gullies, ridgetops, natural shade, and the sides of earth banks all
 create shade that invites new species to establish. Every shaded area is
 a more moist site. Designers can plan such shaded niches by placing
 large rocks, earth mounds, and structures to cast useful shadows.
-
-### Shadehouses and Structures
-In zone 0, the house or village, good [[mollison-designers-house-design-climate-zones]] includes an attached
-glasshouse or shadehouse. Shadehouses protect seedlings, nursery plants,
-and delicate species from extreme sun and wind. Shadehouses are
-especially important in tropical and arid climates where direct sun can
-damage young plants.
-
-### Successional Shade
-As forest systems age, shade and competition reduce light availability
-for understory species. Designers can plan this succession by
-establishing shade-tolerant species under a developing canopy, using
-pioneer species to create initial shade that shelters later-succession
-species. This is covered in [[mollison-gangammas-mandala-and-banana-circle-gardens]].
-
-## Shade and Wind Interaction
-
-Many fire-resistant plants are also wind-resistant, sharing adaptations
-like waxy or hairy leaf surfaces that reduce both desiccation from wind
-and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] from sun. Shade and shelter often work together: a
-windbreak that reduces wind chill also casts useful shade. The designer
-should consider both functions when selecting species.
-
-## Integration with Permaculture Systems
-
-- mollison-microclimate-creation for comprehensive microclimate
-  modification.
-- [[mollison-tropical-home-garden-design]] for tropical shade systems.
-- mollison-zone-and-sector-analysis for placing shade elements in
-  optimal positions.
-
-## Key Principles
-
-1. All trees provide shade intrinsically -- select species for the
-  quality of shade they provide.
-2. Light-crowned legumes and palms provide ideal overstory shade for
-  understory crops.
-3. In the tropics, shade often increases crop productivity rather than
-  reducing it.
-4. Shade reduces ground temperatures by up to 15 degrees C, critical
-  for livestock and human comfort.
-5. Shaded soils retain moisture and avoid lethal temperature extremes.
-6. Combine shade with [[cervantes-wind-protection-outdoor-cannabis]] for compound benefits in exposed
-  sites.
-## See Also
-- [[mollison-designers-coffee-shade-growing-systems]]
-- [[mollison-designers-shade-grown-coffee-and-cacao-systems]]
-- [[mollison-designers-legume-shade-tree-pasture-systems]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
-- [[mollison-bamboo-permaculture-systems]]

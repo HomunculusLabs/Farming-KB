@@ -37,7 +37,7 @@ value. A number of reports in the 150 to 200 milligram area suggested
 that something was taking place in the periphery even without any
 clear central effects. The term "body window" was used occasionally
 by experimenters, an outgrowth of the term "window" that was used (at
-that time, the mid-1970's) to describe the mental effects of MDMA. It
+that time, the mid-1970's) to describe the mental effects of [[mdma]]. It
 was as if the body was opened up and made receptive, instead of the
 mind. The second clue came from many anecdotal reports that
 methedrine (a potent central nervous system stimulant) would augment
@@ -88,35 +88,6 @@ minutes, pushed down to a fragile threshold, and I drove about 10
 
 A total of 20 mL concentrated HCl was added beneath the
 surface of 20 mL propylamine, and when the addition was complete, the
-mixture was stripped of volatiles under vacuum. The slightly yellow
-residual oil weighed 20.7 g and set up to crystals on cooling. It was
-dissolved in 75 mL MeOH, and there was added 4.45 g of
-3,4-methylenedioxyphenylacetone (see under MDMA for its preparation)
-followed by 1.1 g sodium cyanoborohydride. Concentrated HCl in MeOH
-was added as required to maintain the pH at about 6 as determined with
-external, dampened universal pH paper. When the generation of base
-had stopped, the MeOH was allowed to evaporate and the residue was
-suspended in 1 L water. This was made strongly acidic with an excess
-of HCl. After washing with CH2Cl2, the aqueous phase was made basic
-with 25% NaOH, and extracted with 3x100 mL CH2Cl2. Removal of the
-solvent from the pooled extracts under vacuum yielded 3.3 g of a pale
-amber oil that was distilled at 85-90 deg C at 0.2 mm/Hg. This fraction
-was water-white and weighed 2.3 g. It was dissolved in 10 mL IPA and
-neutralized with 25 drops concentrated HCl which produced crystals
-spontaneously. These were diluted with anhydrous Et2O, removed by
-filtration, washed with additional Et2O, and air dried. In this way
-there was obtained 2.3 g of 3,4-methylenedioxy-N-propylamphetamine
-hydrochloride (MDPR) with a mp of 190-192 deg C. Recrystallization from
-IPA gave a mp of 194-195 deg C. The NMR spectrum was completely
-consistent with the assigned chemical structure. Anal. (C13H20ClNO2)
-N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[mdpr-entity]]
-- [[mda-entity-pihkal]]
-- [[mdbu-entity-pihkal]]

@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Soil Management and Observations
@@ -87,53 +88,3 @@ Fukuoka provides a detailed timeline for soil improvement through [[building-soi
 - The succession of different herbs is "more natural and more conducive to soil enrichment and development" than a monoculture cover
 
 ### Soil Building Rate
-
-"Five to ten years are needed to build up six inches of topsoil through soil improvement by the cultivation of cover crops." While this may seem slow, Fukuoka argues that farmland should be understood as "a legacy to be preserved for future generations."
-
-### Black Wattle for Soil Building
-
-Fukuoka observed the remarkable soil-building power of black wattle ([[acacia]]):
-
-- Five or six years after planting acacias, an area of more than 100 square yards of "hard, lean soil about each tree had become soft and porous"
-- This was "far easier than blasting with dynamite and burying organic matter, and much more effective"
-- Each cut tree provided a half-ton of high-quality organic material for soil building
-- Planting acacias in a 40-50 year old orchard, then felling all trees and replanting after 5-6 years, is "a far better method of replenishing the soil than running a bulldozer through the orchard"
-
-## Weeds as Soil Indicators and Builders
-
-Fukuoka discovered that weeds provide information about soil conditions:
-
-- "One can understand the nature of the soil more quickly by examining the weeds growing in it than by examining the soil itself"
-- Weeds solve the problems of both the soil and the weeds
-- By sowing vegetable seeds of the same family as the weeds growing in the orchard, vegetable plants can eventually replace the weeds
-- The emergence and succession of different weed types indicates the soil's changing condition and fertility level
-
-## Comparing Natural and Scientific Soil Management
-
-### Scientific Soil Adjustment
-
-[[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] tries to adjust soil through targeted corrections:
-- If soil is acidic, apply lime
-- If excessive manganese uptake, prevent it
-- If phosphate or magnesia deficiency, add them
-- If zinc is insufficient, replenish it
-- If soil becomes alkaline, this leads again to manganese and zinc deficiency
-- "So even adjusting the soil acidity is no easy matter"
-
-### Natural Soil Adaptation
-
-In Fukuoka's [[fukuoka-natural-orchard-development]]:
-- No lime or micronutrient was applied
-- No deficiencies were observed
-- The fruit trees adapted constantly to changing soil conditions
-- The soil itself changed constantly through natural processes
-
-Fukuoka argues there is "far more to the quality of a soil than its acidity. An infinitude of factors and conditions -- physical, chemical, biological -- go into the overall assessment." There are no criteria by which to judge "whether a handful of soil contains the right number of certain microbes, the right amount of organic matter, and the right percentage of water and air."
-
-## The Fertility of Living Soil
-
-Fukuoka's key insight about soil fertility:
-
-- "Land that grows fertile over time without plowing, weeding, or chemical fertilizers represents not only an accumulation of labor and capital, but an increase in intangibles as well"
-- Physical improvement and human effort alone have only temporary effect
-- [[comparison-natural-farming-vs-permaculture]] uses the forces of living organisms to physically and chemically improve the soil

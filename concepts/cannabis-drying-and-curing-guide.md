@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis drying and curing guide Guide
+title: Cannabis Drying And Curing Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 13)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 13)
 
 Drying and curing are the final and arguably most important steps in producing high-quality cannabis. Rushing this process degrades flavor, potency, and smoothness. Done properly, it transforms raw harvested bud into a premium product.
 
@@ -76,7 +76,7 @@ Curing is the slow aging process that develops flavor, smoothness, and quality. 
 
 1. **Jar the buds**: Place dried buds into airtight glass jars (Mason jars are standard). Fill jars 3/4 full — do not pack tightly.
 2. **Seal and store**: Place jars in a cool, dark location (60–70°F).
-3. **Burp daily**: Open each jar for 5–15 minutes every day for the first 2 weeks. This releases moisture and allows fresh air exchange.
+3. **Burp daily**: Open each jar for 5–15 minutes every day for the first 2 weeks. This releases moisture and allows fresh [[growing-gourmet-growing-room-ventilation-air-exchange]].
 4. **Monitor moisture**: Check for condensation inside the jar. If you see condensation:
    - Light condensation: Normal — the curing process is working
    - Heavy condensation or buds feel wet: Remove buds and spread them out to dry for a few more hours, then re-jar
@@ -88,55 +88,3 @@ Curing is the slow aging process that develops flavor, smoothness, and quality. 
 
 During curing:
 - Remaining moisture redistributes evenly throughout the buds
-- Chlorophyll continues to break down, removing the grassy taste
-- Sugars and starches break down, smoothing the smoke
-- Terpenes develop and mature, enhancing flavor and aroma
-- Cannabinoids undergo minor decarboxylation, potentially affecting potency
-
-### Humidity Control
-
-For precision curing, use **2-way humidity packs** (e.g., Boveda packs) inside jars:
-- **58–62%**: Ideal range for curing cannabis
-- Packs maintain consistent humidity, preventing overdrying or mold
-- Particularly useful in variable climates
-
-## Common Problems
-
-### Mold
-
-- **Cause**: Humidity too high during drying or curing
-- **Signs**: White fuzzy growth (mold) or dark spots on buds
-- **Action**: Discard any moldy bud immediately — do not smoke or consume moldy cannabis (health hazard). Increase ventilation and reduce humidity.
-
-### Overdried Bud
-
-- **Cause**: Drying too fast ([[pf-tek-low-humidity-symptoms-and-remediation]], high temperature, strong airflow)
-- **Signs**: Buds crumble to dust, extremely brittle, harsh smoke
-- **Partial fix**: Place in a jar with a humidity pack (62%) for several days. Some moisture may be reabsorbed, but over-dried bud will never be as good as properly dried bud.
-
-### Chlorophyll Taste
-
-- **Cause**: Insufficient curing time
-- **Fix**: Continue curing for a longer period. Most grassy taste disappears after 4–6 weeks of curing.
-
-### Loss of Smell During Cure
-
-- Some odor loss is normal as terpenes settle
-- If buds lose almost all smell, they may have been overdried or cured in too-dry conditions
-- Humidity packs can help rehydrate and restore some terpene expression
-
-## Storage for Long-Term
-
-After curing:
-- Keep buds in airtight glass jars in a cool, dark place
-- Ideal long-term storage: 55–65°F, 55–65% humidity, dark
-- Vacuum sealing works for long-term storage but compresses buds
-- Properly stored cannabis maintains quality for 6 months to 2 years
-
-## Related
-
-- [[cannabis-harvesting-techniques]] — harvest procedures
-- [[cannabis-flushing-before-harvest]] — pre-harvest preparation
-- [[cannabis-hashish-screening-and-pressing]] — processing trim
-- [[cannabis-hashish-making-methods]]
-- [[cannabis-hash-making-from-extracted-oil]]

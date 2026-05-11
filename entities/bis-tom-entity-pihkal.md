@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # BIS-TOM
 
-PIHKAL entry #12. 2,5-Bismethylthio-4-methyl-A.
+[[2c-b-pihkal-entry-20]] #12. 2,5-Bismethylthio-4-methyl-A.
 
 ## Dosage and Duration
 
@@ -85,37 +85,6 @@ thermal rearrangement of the N,N-dimethylthioncarbamate. The impure
 ## Safety Notes
 
 ## See Also
+- [[aleph-entity-pihkal]]
 
 - [[bis-tom-pihkal-entry-12]]
-
-- [[tp-entity-pihkal]]
-
-- [[tmpea-entity-pihkal]]
-
-- [[tma-6-entity-pihkal]]
-
-- [[tma-4-entity-pihkal]]
-
-- [[tma-2-entity-pihkal]]
-
-- [[te-entity-pihkal]]
-
-- [[ta-entity-pihkal]]
-
-- [[propynyl-entity-pihkal]]
-
-- [[p-entity-pihkal]]
-
-- [[mpm-entity-pihkal]]
-
-- [[methyl-ma-entity-pihkal]]
-
-- [[methyl-j-entity-pihkal]]
-
-- [[mepea-entity-pihkal]]
-
-- [[mee-entity-pihkal]]
-
-- [[5-tme-entity-pihkal]]
-
-- [[4-tsb-entity-pihkal]]

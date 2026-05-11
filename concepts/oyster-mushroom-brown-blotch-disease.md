@@ -88,9 +88,3 @@ For organic and conventional operations alike, chemical options for bacterial bl
 
 - **Chlorine-based sanitizers:** Sodium hypochlorite solutions (100-200 ppm available chlorine) can be used for surface disinfection but are not approved for direct application to mushrooms in most jurisdictions.
 - **[[cervantes-hydrogen-peroxide-sterilization]]:** Dilute H₂O₂ solutions (0.5-1%) can reduce bacterial loads on surfaces and equipment.
-- **Copper-based products:** Some copper formulations have demonstrated efficacy against *P. tolaasii* but may leave residues and are generally not approved for mushroom crops.
-- **Biological control:** Certain *Bacillus* species produce antibiotics that inhibit *P. tolaasii*. Research into biocontrol agents for mushroom diseases is ongoing but commercial products are not yet widely available.
-
-The relationship between environmental conditions and brown blotch incidence makes this disease a useful indicator of overall [[mushroom-cultivation-problems]] related to humidity management. Growers who consistently experience brown blotch should review their watering practices, air exchange rates, and ventilation patterns as the first step in developing an effective prevention strategy.
-
-For other common diseases affecting oyster mushrooms, see [[oyster-mushroom-species-variety]] for species-specific disease susceptibility profiles, and [[mushroom-contamination-identification]] for comprehensive identification guidance covering all major oyster mushroom pathogens.

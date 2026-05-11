@@ -88,24 +88,3 @@ China is now the world's largest kiwifruit producer, with production concentrate
 Italy is the second-largest producer and the largest in the Northern Hemisphere. Italian kiwifruit production is concentrated in the Latina province of Lazio and in Piedmont. Chile and Greece round out the top five producing nations.
 
 The kiwifruit industry faces several phytosanitary challenges, most notably Pseudomonas syringae pv. actinidiae (Psa), a bacterial canker disease that caused devastating losses in Italy and New Zealand from 2010 onward. Breeding for Psa resistance is now a major priority.
-
-The Psa-V (virulent) biovar, first identified in Italy in 2008, spread rapidly through major kiwifruit-producing regions. In Italy alone, estimated losses exceeded €500 million. New Zealand's Psa outbreak from 2010 led to removal of approximately 60% of 'Hort16A' plantings.
-
-New Psa-resistant cultivars are now being commercialized. Zespri's proprietary varieties with improved Psa tolerance represent the industry's primary response, alongside enhanced orchard hygiene and copper-based protective spray programs.
-
-## See Also
-
-- [[cercis-chinensis]]
-
-- [[citrus-sinensis]]
-- [[botrytis-cinerea]]
-- [[fusarium-oxysporum]]
-- [[coffea-arabica]]
-- [[musa-acuminata]]
-- [[olea-europaea]]
-- [[corylus-avellana]]
-- punica-granatum
-- [[castanea-sativa]]
-- [[morus-nigra]]
-- [[carica-papaya]]
-- [[solanum-tuberosum]]

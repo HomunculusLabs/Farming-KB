@@ -20,7 +20,7 @@ sources:
 ## Overview
 
 **Amaranthus caudatus** is an annual herbaceous plant in the family
-Amaranthaceae, native to the Andean highlands of South America. It is
+Amaranthaceae, native to the Andean highlands of [[guzman-psilocybin-mushrooms-south-america]]. It is
 commonly known as love-lies-bleeding, pendant amaranth, or kiwicha in
 Quechua.
 
@@ -87,48 +87,3 @@ and can grow in poor, acidic, or alkaline soils.
 It performs best in well-drained, fertile loams but tolerates sandy and
 clay soils. Day-neutral photoperiod response allows cultivation across a
 wide range of latitudes.
-
-## Nutritional Value
-
-Kiwicha seeds are nutritionally superior to most cereal grains. Protein
-content ranges from 13–18%, with a favorable amino acid profile rich in
-lysine (5.0–6.4 g/100 g protein) and methionine.
-
-The seeds contain 60–68% carbohydrates (primarily starch), 6–9% fat
-(predominantly linoleic and oleic acids), and 6–10% dietary fiber. They
-provide significant amounts of iron, calcium, magnesium, phosphorus, and
-vitamin E.
-
-The leaves are also edible and highly nutritious, containing 20–30%
-protein (dry weight), high levels of beta-carotene, vitamin C, and folate.
-Young leaves are consumed as a cooked green vegetable in many cultures.
-
-Amaranth seeds do not contain gluten and are suitable for celiac patients.
-The starch granules are notably small (1–3 µm), which gives amaranth
-flour unique gelatinization properties.
-
-## Cultivation
-
-[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is the standard practice, with seed rates of 2–4 kg/ha.
-Seeds are sown at a depth of 1–2 cm in rows spaced 50–75 cm apart.
-Germination occurs within 3–7 days at soil temperatures above 15°C.
-
-The crop matures in 90–150 days depending on variety and growing
-conditions. [[cannabis-harvest-timing-visual-cues]] is critical as the indeterminate flowering
-habit means seeds ripen progressively over several weeks.
-
-Grain yields average 1,000–3,000 kg/ha under traditional management,
-with improved cultivars and optimal conditions producing up to 5,000
-kg/ha. Peru, Bolivia, and Nepal are the largest producers.
-
-Post-harvest processing involves threshing, winnowing, and cleaning.
-Seeds must be dried to below 10% moisture for safe storage. Popping the
-seeds (like popcorn) is a common preparation method in the Andes.
-
-## See Also
-
-- amaranthus-retroflexus
-- [[ipomoea-batatas]]
-- [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
-- [[tropaeolum-majus]]

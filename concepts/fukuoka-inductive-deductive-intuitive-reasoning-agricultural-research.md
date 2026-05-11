@@ -1,7 +1,7 @@
 # Fukuoka's Inductive vs Deductive Reasoning in Agricultural Research
 
 ## Source
-*Masanobu Fukuoka — The Natural Way of Farming (1985)*
+*[[masanobu-fukuoka]] — The Natural Way of Farming (1985)*
 
 ## Summary
 Fukuoka drew a sharp philosophical distinction between inductive and deductive approaches
@@ -10,7 +10,7 @@ experimentation can only prevent crop losses while true deductive — and ultima
 intuitive — reasoning is required for genuine yield improvements. He likened the two
 methods to two climbers ascending a rock face, where induction checks footing while
 deduction pulls upward, but argued that both remain trapped within a limited framework
-that fukuoka inductive deductive intuitive reasoning agricultural research alone can transcend.
+that fukuoka [[fukuoka-critique-inductive-deductive]] [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]] agricultural research alone can transcend.
 
 ## Inductive Experimentation
 
@@ -70,7 +70,7 @@ to perceive the ultimate goal, he assumes deduction to be merely the inverse of
 induction and can go no further.
 
 Experiments in which deduction is treated as the counterpart of induction have brought
-us the confusion of modern science. Even in agriculture, farmers and scientists are
+us the confusion [[fukuoka-road-critique-of-modern-science]]. Even in agriculture, farmers and scientists are
 confounding measures for preventing crop losses with means for raising yields, and by
 discussing both on equal terms, are only prolonging the current stagnation.
 
@@ -88,42 +88,3 @@ infinitude of yield-improving possibilities lie hidden here. One must look beyon
 immediate.
 
 ## Confusing Loss Prevention with Yield Improvement
-
-Fukuoka identified a fundamental confusion at the heart of agricultural science: the
-conflation of measures that prevent crop losses with measures that increase yields.
-Filling vacant rooms in the hotel (improving individual factors) minimizes losses but
-does not enlarge the building (raise the natural yield ceiling).
-
-Induction is useful only in a negative sense — as a means for preventing a decline in
-crop yields. Although throwing light on existing methods, it cannot break new ground
-in agriculture. Only deductive reasoning can bring forth fresh ideas having the
-potential of leading to positive gains.
-
-## Beyond the Phenomenal World
-
-The critical limitation of both inductive and conventionally deductive agricultural
-science is that both operate within the world of phenomena — the observable, measurable
-surface of nature. True deduction, as Fukuoka conceived it, originates from a
-philosophical understanding of nature's essence, not from observations of its
-manifestations.
-
-This is why Fukuoka insisted that "all begins by relinquishing human knowledge." The
-scientific approach of accumulating data about nature's surface phenomena can never
-lead to the intuitive understanding that reveals nature's true productive capacity.
-The path to dramatically improved yields is not through more data but through a
-a different mode of knowing.
-
-## Practical Implications
-
-For the working farmer, Fukuoka's epistemological argument translates into a practical
-mandate: stop chasing incremental improvements through ever more specialized
-interventions, and instead cultivate a holistic understanding of the farm as a living
-system. The farmer who grasps the essence of his land's ecology can make decisions that
-simultaneously address fertility, [[cannabis-pest-management-guide]], water management, and weed
-suppression — not by optimizing each factor individually, but by working with the
-natural relationships between them.
-
-## See Also
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
-- [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]
-- [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]

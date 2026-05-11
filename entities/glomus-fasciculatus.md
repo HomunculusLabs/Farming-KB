@@ -88,12 +88,3 @@ of commercial mycorrhizal inoculant formulations.
   widely studied AM fungus and dominant component of commercial
   inoculants. Distinguished by a two-layered spore wall with an
   inner mucilaginous layer.
-- **Glomus mosseae** — Common agricultural AM fungus with large spores
-  (100-300 µm) in sporocarps and a distinctive bulbous spore base.
-- **Gigaspora margarita** — Much larger spores (200-500 µm) with
-  layered wall structure. Does not form vesicles within roots.
-
-## See Also
-
-- [[glomus-intraradices]]
-- [[laccaria-bicolor]]

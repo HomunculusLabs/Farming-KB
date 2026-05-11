@@ -26,12 +26,12 @@ created: 2026-04-28
 
 The strain is celebrated for its tropical fruit-forward aroma, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and potent sedative effects that transition from uplifting cerebral stimulation to full-body relaxation.
 
-Its genetic stability and exceptional trichome density have made it a popular parent in modern breeding programs, with notable progeny including **Strawberry Banana Kush** crosses and several resin-focused phenotypes.
+Its [[cannabis-genetic-stability]] and exceptional trichome density have made it a popular parent [[haze-lineage-and-legacy-in-modern-breeding]] programs, with notable progeny including **Strawberry Banana Kush** crosses and several resin-focused phenotypes.
 
 ## Lineage
 
 - **Parent 1:** Banana Kush (Ghost OG × Skunk Haze)
-- **Parent 2:** Strawberry Bubblegum (Bubblegum × Strawberry Cough select)
+- **Parent 2:** Strawberry Bubblegum (Bubblegum × [[strawberry-cough]] select)
 
 The genetic ratio is approximately **70% indica / 30% sativa**, reflecting the heavy influence of Banana Kush's indica backbone. The Strawberry Bubblegum parent contributes the characteristic sweet berry aroma and a more manageable height.
 
@@ -68,7 +68,7 @@ The high myrcene-to-limonene ratio drives the strain's predominantly relaxing pr
 - **CBD:** <0.1% (negligible)
 - **CBG:** 0.1–0.3%
 
-The high THC content places Strawberry Banana firmly in the potent category. Novice consumers are advised to start with low doses due to the strong sedative onset.
+The high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] places Strawberry Banana firmly in the potent category. Novice consumers are advised to start with low doses due to the strong sedative onset.
 
 ## Effects
 
@@ -78,41 +78,12 @@ The high THC content places Strawberry Banana firmly in the potent category. Nov
 
 **Duration:** 2–3 hours, with residual body effects persisting for an additional hour.
 
-Common applications include stress relief, mild [[cannabis-pain-management-protocols]], appetite stimulation, and evening relaxation. The strain is not recommended for daytime use by most consumers.
+Common applications include stress relief, mild [[cannabis-pain-management-protocols]], [[cannabis-for-cachexia-and-appetite-stimulation]], and evening relaxation. The strain is not recommended for daytime use by most consumers.
 
 ## Cultivation
 
-**Flowering time:** 8–9 weeks indoors.
+**[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8–9 weeks indoors.
 
 **Yield:** Moderate to high (400–500 g/m² indoors).
 
 **Difficulty:** Moderate — the strain is relatively forgiving but requires attention to humidity during late flowering due to dense bud structure.
-
-It performs well in both soil and hydroponic setups. [[comparison-sea-of-green-vs-screen-of-green]] (SOG) training maximizes yield in confined spaces. The plants respond well to low-stress training (LST) and defoliation to improve light penetration to lower bud sites.
-
-Outdoor harvest occurs in early to mid-October. The strain is moderately resistant to mold and pests but benefits from dry conditions during the final two weeks of flowering.
-
-## Side Effects
-
-Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth and dry eyes, typical of high-THC varieties. At higher doses, some users report mild anxiety or paranoia, particularly during the initial cerebral phase.
-
-Couch-lock is common at doses above personal tolerance thresholds. The sedative effects can be overwhelming for consumers with low THC tolerance, potentially causing premature drowsiness.
-
-No significant interactions with medications have been documented, though the sedative properties may compound with CNS depressants including alcohol and benzodiazepines.
-
-## Notable Phenotypes
-
-Several breeders have selected for specific traits within Strawberry Banana genetics. **Strawberry Banana #1** by Serious Seeds is the most widely distributed phenotype, known for balanced tropical aroma and consistent potency.
-
-Resin-focused selections have been developed specifically for solventless extraction, with trichome yields exceeding 25% by weight in some phenotypes. These hash-plant variants typically show reduced branching and tighter internodal spacing.
-
-## See Also
-
-- [[strawberry-cough]]
-
-- [[granddaddy-purple]]
-- [[runtz-entity]]
-- [[mac-1]]
-- [[girl-scout-cookies]]
-- [[jack-herer]]
-- [[white-widow-entity]]

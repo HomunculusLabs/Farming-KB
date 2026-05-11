@@ -13,13 +13,13 @@ sources:
   - Ray, J. (1686). "Historia Plantarum." London.
   - Handel-Mazzetti, H. (1928). "Symbolae Sinicae." Botanische Ergebnisse.
   - Hu, C.M. & Kelso, S. (1996). "Primulaceae." Flora of China, Vol. 15. Science Press.
-  - Weakley, A.S. (2022). "Flora of the Southeastern United States." UNC Herbarium.
+  - Weakley, A.S. (2022). "Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]." UNC Herbarium.
   - Preston, C.D. & Pearman, D.A. (2015). "New Atlas of the British and Irish Flora." Oxford University Press.
 ---
 
 ## Overview
 
-**Lysimachia ciliata**, commonly known as fringed loosestrife, is a perennial herb in the family Primulaceae. It is native to North America, where it occurs in moist woodlands, floodplains, and stream banks across much of the eastern and central United States and southern Canada.
+**Lysimachia ciliata**, commonly known as fringed loosestrife, is a perennial herb in the family Primulaceae. It is native to [[guzman-psilocybin-mushrooms-north-america]], where it occurs in moist woodlands, floodplains, and stream banks across much of the eastern and central [[dmt-maoi-plants-united-states]] and southern Canada.
 
 The species is valued as a native ornamental for its nodding yellow flowers and attractive whorled foliage. It spreads by rhizomes to form substantial colonies in suitable wetland habitats.
 
@@ -52,7 +52,7 @@ Flowering typically occurs from late June through August in the northern part of
 
 ## Distribution and Habitat
 
-Lysimachia ciliata is widespread across eastern and central North America. Its range extends from Nova Scotia and Quebec west to Manitoba, Minnesota, and the Dakotas, and south to Georgia, Alabama, and Texas.
+Lysimachia ciliata is widespread across eastern and central [[berry-growing]]. Its range extends from Nova Scotia and Quebec west to Manitoba, Minnesota, and the Dakotas, and south to Georgia, Alabama, and Texas.
 
 The species is absent from the Great Plains and the arid Southwest. It becomes increasingly localized at the southern edge of its range, where it is restricted to cooler, moister sites.
 
@@ -74,7 +74,7 @@ The species is moderately tolerant of shade but flowers more prolifically in bri
 
 The species serves as a larval host plant for several moth species. Its dense growth provides cover for small wildlife in wetland edge habitats.
 
-Seed production is variable, with some populations producing abundant seed while others rely primarily on vegetative reproduction. Seeds require cold stratification for germination.
+[[cannabis-controlled-pollination-seed-production]] is variable, with some populations producing abundant seed while others rely primarily on vegetative reproduction. Seeds require cold stratification for germination.
 
 ## Cultivation
 
@@ -87,34 +87,3 @@ Fringed loosestrife is easily grown in moist, partly shaded garden conditions. I
 - **Spacing:** 30–45 cm between plants
 
 In cultivation, Lysimachia ciliata can be vigorous and may spread beyond its intended area. Planting in contained beds or using root barriers is advisable in small gardens.
-
-The cultivar 'Firecracker' with deep purple foliage is the most commonly available ornamental selection. It provides striking contrast in shaded borders and is less aggressive than the straight species.
-
-The species pairs well with other moisture-loving natives such as cardinal flower, joe-pye weed, and cinnamon fern in rain gardens and naturalized plantings.
-
-## Uses and Conservation
-
-Lysimachia ciliata has limited ethnobotanical use. Some Native American tribes used the plant as a poultice for wounds and swellings, though it is not a major medicinal species.
-
-The plant contains secondary metabolites including saponins and flavonoids. These compounds likely contribute to its moderate resistance to herbivory.
-
-Research on Lysimachia ciliata extracts has identified several phenolic compounds with antioxidant activity. However, the species has not been extensively studied for pharmacological potential compared to its European relatives.
-
-As a native species, it plays an important ecological role in wetland plant communities. It provides nectar and pollen resources for native bees during the mid-summer flowering period.
-
-The dense root system and rhizomatous growth make Lysimachia ciliata useful for stream bank stabilization and erosion control. It is sometimes included in native wetland restoration seed mixes.
-
-Conservation status is secure across most of its range. However, wetland drainage and floodplain development have reduced populations in some heavily agricultural areas.
-
-## See Also
-
-- [[lysimachia-nummularia]]
-- [[lysimachia-vulgaris]]
-- [[lysimachia-punctata]]
-- [[anagallis-arvensis]]
-- [[dodecatheon-meadia]]
-- [[primula-veris]]
-- [[cyclamen-persicum]]
-- [[gentiana-lutea]]
-- [[campanula-persicifolia]]
-- [[primula-vulgaris]]

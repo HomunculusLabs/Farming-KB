@@ -1,8 +1,8 @@
 ---
-title: Fungal biodiversity-of-fungi-biodiversity-patterns-ecosystems
+title: Fungal Biodiversity Patterns
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - biodiversity
   - ecology
   - community-analysis
@@ -21,8 +21,8 @@ type: concept
 Most fungi, excluding yeasts and some zoosporic taxa, consist of
 filaments (hyphae) that increase in length by the deposition of
 cell-wall material from a growing tip. As these tips expand and produce
-new growing points, a network termed the mycelium develops. Once
-established, fungal mycelia are capable of essentially unlimited growth
+new growing points, a network termed the [[mycelium]] develops. Once
+established, [[davidson-mathematical-modeling-fungal-mycelia]] are capable of essentially unlimited growth
 and persistence. This indeterminate body structure differs
 significantly from the determinant body plan of most animals and many
 plant species.
@@ -86,39 +86,5 @@ same area.
 The shape of a plot can influence sampling efficiency. In grasslands,
 shrublands, or forests, circular plots are delineated easily with a
 center pole and a freely swinging radius line. Rectangular plots are
-especially suited for assessing environmental gradients within a
+especially suited for assessing [[fungal-adaptations-environmental-gradients]] within a
 habitat when the long axis is oriented parallel to the underlying
-gradient of interest.
-
-### Sample Size Determination
-
-Determining the number of sampling units required to provide an
-accurate estimate of species richness or density is always challenging.
-The number of plots assessed will depend on the characteristics of the
-fungal assemblage, the objectives of the investigation, and the
-magnitude of differences considered biologically relevant. In reality,
-sample size often represents the upper limit of effort that can be
-expended. The investigator must avoid making decisions concerning
-sample size in a capricious manner.
-
-## Quantitative Indices
-
-Traditional approaches to quantifying biodiversity include
-species richness (the total number of species present), species
-diversity (composite measures that incorporate both richness and
-evenness), and dominance indices. Parameters that define a community
-include species composition along with functional and genetic
-correlates, types and intensities of interspecific interactions, and
-dynamics of those attributes over time and space.
-
-## Differentiation Diversity
-
-Differentiation diversity ([[alpha-beta-diversity-cannabis-root-microbiomes]]) measures the change in
-species composition among sites or along environmental gradients.
-Resemblance functions and distance coefficients are used to quantify
-the similarity or dissimilarity between communities. Classification
-and cluster analysis methods group similar communities together based
-on their species compositions. See [[fungal-biodiversity-in-extreme-environments]]
-- [[biodiversity-fungal-species-abundance-diversity]]
-
-- [[fungal-species-estimates-biodiversity-overview]] for species estimates

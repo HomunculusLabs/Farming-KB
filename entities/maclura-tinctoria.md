@@ -87,29 +87,3 @@ The heartwood contains morin as the primary bioactive compound, along with maclu
 Morin has demonstrated antioxidant, anti-inflammatory, and hepatoprotective activities in pharmacological studies.
 
 Antimicrobial activity of heartwood extracts has been reported against several [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens.
-
-In traditional medicine, bark decoctions are used to treat skin infections, wounds, and dental pain.
-
-The fruit is edible and consumed by rural communities in parts of Central and South America.
-
-Root extracts have been used as a febrifuge and anthelmintic in various ethnobotanical traditions.
-
-## Ecology and Applications
-
-Fustic provides food and habitat for numerous wildlife species.
-
-Birds and mammals consume the fruit, facilitating seed dispersal.
-
-The tree's dense canopy offers shade in agroforestry and silvopastoral systems.
-
-It is planted as a living fence post in tropical Latin America due to its durability and ease of propagation from stakes.
-
-The species has potential for reforestation programs and restoration of degraded tropical lands.
-
-## See Also
-
-- [[broussonetia-papyrifera]]
-- [[anacardium-occidentale]]
-- [[carica-papaya]]
-- [[robinia-pseudoacacia]]
-- [[prosopis-juliflora]]

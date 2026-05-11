@@ -88,9 +88,3 @@ The water landscape has enabled Tamera to significantly increase its food produc
 
 ## Replication Guidelines for Other Sites
 Holzer and the Tamera team have developed guidelines for replicating the water landscape approach in other degraded landscapes. The first step is always a thorough [[holzer-extremadura-water-paradise-project]] in Spain represents the most direct replication of the Tamera approach in a similar Mediterranean climate, demonstrating that the principles are transferable across a range of specific site conditions.
-
-## Related Topics
-
-- [[holzer-pond-construction-and-aquaculture]]
-- [[holzer-urban-gardening-rubbish-hugelkultur]]
-- [[holzer-edible-tubes-bypass-method]]

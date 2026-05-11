@@ -27,11 +27,11 @@ independently evolving lineages. Detection typically requires molecular
 data, with the most common approaches being:
 - Multi-locus sequence typing (MLST) using conserved loci such as
   ITS, LSU, TEF1-alpha, and RPB2
-- Phylogenetic species recognition based on concordance of multiple
+- [[gadd-phylogenetic-species-recognition-fungi]] based on concordance of multiple
   gene genealogies
 - Genome-wide SNP analysis
 - Mating compatibility tests in sexual species
-- Secondary metabolite profiling (chemotaxonomy)
+- [[fungal-elicitors-enhanced-secondary-metabolite-production]] profiling (chemotaxonomy)
 
 ## Molecular Markers and Methods
 
@@ -49,7 +49,7 @@ identical ITS sequences.
 
 Cryptic speciation is widespread and has been documented across nearly
 all major fungal lineages:
-- **Pathogenic fungi**: Cryptic species in the Fusarium oxysporum
+- **Pathogenic fungi**: Cryptic species in the [[fusarium-oxysporum]]
   species complex, Candida auris cryptic species, and Cryptococcus
   gattii molecular types have important clinical implications
 - **Lichenized fungi**: Molecular studies routinely reveal multiple
@@ -62,12 +62,12 @@ all major fungal lineages:
 ## Ecological and Functional Implications
 
 Cryptic species often differ in ecological preferences, host
-specificity, geographic distribution, and functional traits even when
+specificity, [[geographic-distribution-of-psilocybe-species]], and functional traits even when
 morphologically identical. This has practical consequences:
 - Different cryptic species within a complex may have different
   pathogenicity, virulence, or host ranges
 - Cryptic diversity in mycorrhizal fungi can affect plant community
-  composition and ecosystem function
+  composition and [[dighton-mycorrhizal-diversity-ecosystem-function]]
 - Bioactive secondary metabolite production can vary among cryptic
   species, affecting bioprospecting and drug discovery
 - Environmental niche differentiation means cryptic species may
@@ -82,33 +82,9 @@ multidrug-resistant hospital pathogen of global concern. Within the
 Candida parapsilosis complex, C. parapsilosis sensu stricto, C.
 orthopsilosis, and C. metapsilosis differ in antifungal
 susceptibility profiles and virulence. Cryptic species within the
-Aspergillus fumigatus complex show varying azole resistance patterns,
+[[aspergillus-fumigatus]] complex show varying azole resistance patterns,
 affecting treatment decisions.
 
 ## Cryptic Species and Biogeography
 
 Molecular studies have revealed that many widely distributed fungal
-"species" actually consist of regionally endemic cryptic species with
-more restricted geographic ranges. This has profound implications for
-understanding fungal biogeography, endemism, and conservation. Species
-thought to be cosmopolitan often prove to be complexes of multiple
-geographically restricted taxa when examined with molecular tools,
-suggesting that fungal endemism is more common than previously
-believed.
-
-## Challenges for Taxonomy and Conservation
-
-The recognition of cryptic species creates significant taxonomic
-challenges, including the need to formally describe and name species
-that lack distinguishing morphological characters. For conservation,
-cryptic diversity means that rare or threatened fungal species may be
-hidden within what appear to be common and widespread taxa, potentially
-leading to underestimation of conservation risk.
-
-## See Also
-
-- [[fungal-species-concepts-estimates]]
-- [[fungal-species-estimation-methods-total-diversity]]
-- [[fungal-phylogeny-systematics]]
-- [[fungal-molecular-identification]]
-- [[fungal-biodiversity]]

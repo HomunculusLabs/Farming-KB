@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Sour Tsunami is a high-CBD cannabis strain bred by Lawrence Ringo of
+Sour Tsunami is a high-CBD [[biscotti-cannabis-strain]] bred by Lawrence Ringo of
 the Southern Humboldt Seed Collective. Released circa 2011, it was
 one of the first stabilized CBD-dominant cultivars developed
 specifically for medical patients seeking therapeutic benefits without
@@ -55,9 +55,9 @@ cannabidiolic acid (CBDA) synthase activity.
 ### Notable Descendants
 
 - **Harlequin:** Sour Tsunami × Swiss Sativa (though some sources
-  cite Colombian Gold × Swiss; the genetics are debated)
-- **Pennywise:** Harlequin × Jack the Ripper
-- **CBD Critical Mass:** Critical Mass × Sour Tsunami
+  cite [[cannabis-colombian-gold-landrace-sativa]] × Swiss; the genetics are debated)
+- **Pennywise:** Harlequin × [[oner-choke-berry-jack-the-ripper-querkle-tga-subcool]]
+- **CBD [[critical-mass]]:** Critical Mass × Sour Tsunami
 
 ## Appearance
 
@@ -67,7 +67,7 @@ cannabidiolic acid (CBDA) synthase activity.
   conditions; pistils are pale orange to amber
 - **Trichome coverage:** Moderate to heavy; trichomes are predominantly
   clear to milky at harvest maturity
-- **Leaf morphology:** Narrow, sativa-influenced leaflets with serrated
+- **[[cannabis-leaf-morphology-and-phyllotaxy]]:** Narrow, sativa-influenced leaflets with serrated
   margins
 
 ## Aroma and Flavor
@@ -75,7 +75,7 @@ cannabidiolic acid (CBDA) synthase activity.
 - **Primary notes:** Diesel, earthy, musky
 - **Secondary notes:** Citrus, sweet, tropical fruit undertones
 - **Aftertaste:** Peppery, slightly astringent
-- **Terpene expression:** Moderate; the terpene profile is less
+- **Terpene expression:** Moderate; the [[cannabis-terpene-profile]] is less
   intense than typical THC-dominant Sour Diesel phenotypes
 
 ## Terpene Profile
@@ -87,55 +87,3 @@ cannabidiolic acid (CBDA) synthase activity.
 - **Humulene:** Trace amounts
 
 ## Cannabinoid Profile
-
-| Cannabinoid | Range | Notes |
-|---|---|---|
-| CBD | 10–20% | Primary cannabinoid |
-| THC | 0.5–1.5% | Below psychoactive threshold |
-| CBG | 0.5–1.5% | Secondary cannabinoid |
-| CBC | Trace | Present in most phenotypes |
-| CBD:THC ratio | 10:1 to 20:1 | Therapeutic focus |
-
-[[vic-high-cannabis-phenotype-selection-criteria]] is critical for maintaining high CBD ratios.
-Without selection, plants may express THC:CBD ratios closer to 1:1.
-
-## Effects
-
-- **Onset:** Gradual (15–30 minutes when inhaled)
-- **Duration:** 2–4 hours
-- **Character:** Clear-headed, functional, non-intoxicating at
-  therapeutic doses
-- **Physical effects:** Muscle relaxation, mild analgesia, reduced
-  inflammation sensation
-- **Mental effects:** Slight mood elevation, reduced anxiety,
-  maintained cognitive clarity
-
-## Medical Applications
-
-- **[[cannabis-for-epilepsy-and-seizure-disorders]] disorders:** High-CBD profile associated
-  with anticonvulsant properties; foundational genetics for
-  Charlotte's Web lineage
-- **Chronic pain:** Anti-inflammatory and analgesic without
-  cognitive impairment
-- **[[cannabis-anxiety-and-ptsd-treatment]]:** Anxiolytic effects of CBD without THC-induced
-  paranoia
-- **[[cannabis-autoimmune-conditions-detailed]]:** CBD modulates immune response and
-  reduces inflammatory markers
-- **Neuroprotection:** Antioxidant and neuroprotective properties
-  documented in preclinical studies
-
-## Cultivation
-
-- **Flowering time:** 8–10 weeks indoors
-- **Yield:** Moderate (300–400 g/m² indoor)
-- **Height:** Tall (up to 180 cm outdoors); responds well to
-  training and topping
-- **Climate preference:** Warm, Mediterranean; finishes early-mid
-  October outdoors at 40–45°N latitude
-- **Difficulty:** Moderate; requires phenotype selection to maintain
-  CBD-dominant profile
-- **Pest resistance:** Moderate susceptibility to spider mites and
-  [[cervantes-powdery-mildew-prevention-treatment]]
-
-## See Also
-- [[cannabis-sativa-dominant-growing-challenges]]

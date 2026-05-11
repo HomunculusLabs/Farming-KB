@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -75,7 +76,7 @@ pulse of the hormone melatonin. The changing levels of melatonin
 trigger the annual cycles of breeding and nest-building in birds.
 
 Visual perception of light changes and day lengths regulate the
-production of melatonin in the pineal gland. Even small pieces of the
+production of melatonin in the [[pineal-gland-dmt-entheogenic-experience]]. Even small pieces of the
 gland in isolation will respond to light, and can be disrupted by
 flashes of light (as in lightning) at night. Thus, discharge phenomena
 such as lightning disrupt or trigger initiatory reactions in life
@@ -87,56 +88,6 @@ We can see the application of spiral forms to technology in everyday
 life as screws, propellers, impellers, turbines, and some gears. Some
 species of sharks and invertebrates develop spiral gut lining to
 increase absorption, or spiral cilia to convey mucus and food or
-particles in or out of the organism. Plants such as Convolvulus use
-spiral anchors in earth, as do some parasites in animal flesh.
-
-## Where Spirals Occur
-
-Spirals are found where harmonic flow, compact form, efficient array,
-increased exchange, transport, or anchoring is needed. We can make
-use of such forms at appropriate places in our designs.
-
-## Permaculture Design Applications
-
-Spiral patterns have been applied directly [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]:
-
-- **The [[herb-spiral]]**: Evolved by Mollison in 1978 as a compact
-  way to grow [[holzer-medicinal-and-culinary-herbs-compendium]]. A spiral 2 m across and 1 m high
-  provides ample culinary herbs in a form that creates multiple
-  microclimates: moist and shady at the base, dry and exposed at
-  the top, with gradients of sun, shade, moisture, and temperature
-  around the spiral path.
-
-- **Water flow design**: Spiral-shaped channels and flowforms guide
-  water through aeration and purification sequences, using the
-  natural vortex patterns that oxygenate water far more efficiently
-  than straight channels.
-
-- **Wind flow management**: Spiral plantings can channel and slow
-  wind, creating sheltered microclimates while allowing air
-  circulation.
-
-- **Garden access**: The spiral form creates compact access paths
-  that bring the gardener into close contact with every part of
-  the garden, following the principle that convoluted paths
-  enhance [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and servicing efficiency.
-
-- **Compost and processing systems**: Spiral arrangements of compost
-  bays or processing stations create efficient workflows where
-  materials progress through stages along a compact path.
-
-## The Spiral Galaxy and Universal Patterns
-
-A spiral galaxy also describes a spiral in its movement through
-space. The yang, swastika, infinity, and mandala symbols all encode
-spiral principles found throughout nature. Understanding these
-universal patterns connects permaculture design to the deepest
-[[four-principles-of-natural-farming]] form and process.
 
 ## See Also
-
-- [[mollison-designers-pattern-understanding-in-design]]
-- [[mollison-tessellation-and-annidation-in-design]]
-- mollison-zone-one-garden-design
-
-- [[patterns-in-nature]]
+- [[mollison-designers-herb-spiral-design-construction]]

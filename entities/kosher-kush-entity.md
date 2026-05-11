@@ -33,9 +33,9 @@ Angeles, which inspired the name.
 | **Lineage** | Believed OG Kush phenotype; exact parentage not publicly disclosed |
 | **Breeder** | Unknown (emerged from LA underground; DNA Genetics later released seeds) |
 | **Awards** | High Times Cannabis Cup — Best Indica (2010, 2011) |
-| **Flowering time** | 9–10 weeks indoor; late September to mid-October outdoor |
+| **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]** | 9–10 weeks indoor; late September to mid-October outdoor |
 | **Yield** | Moderate: 300–400 g/m² indoor; 350–500 g per plant outdoor |
-| **THC content** | 20–29% (average ~23%) |
+| **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]** | 20–29% (average ~23%) |
 | **CBD content** | <1% (typically 0.05–0.3%) |
 | **Difficulty** | Moderate — requires attention to nutrient needs and training |
 
@@ -52,7 +52,7 @@ Angeles, which inspired the name.
   on the inhale. The exhale reveals deeper hashish-like, spicy, and
   slightly herbal notes. Aftertaste is long-lasting with a lingering
   woody, almost incense quality.
-- **Terpene profile:** Dominated by myrcene (herbal, sedating), limonene
+- **[[cannabis-terpene-profile]]:** Dominated by myrcene (herbal, sedating), limonene
   (citrus, mood-elevating), and caryophyllene (peppery, anti-inflammatory).
   Secondary terpenes include pinene (pine, focus-enhancing), linalool
   (floral, calming), and humulene (woody, earthy).
@@ -68,8 +68,8 @@ Angeles, which inspired the name.
   effects rather than overriding them.
 - **Duration:** 2–4 hours, with sedative effects intensifying in the
   final hour. Evening and nighttime use strongly recommended.
-- **Medical applications:** Highly regarded for insomnia, chronic pain
-  management, muscle spasms, anxiety, PTSD, and appetite stimulation.
+- **[[oner-sativa-medical-applications]]:** Highly regarded for insomnia, [[cannabis-chronic-pain-management]]
+  management, muscle spasms, anxiety, PTSD, [[cannabis-for-cachexia-and-appetite-stimulation]].
   The strong sedative properties make it particularly effective for
   treatment-resistant insomnia and nociceptive pain conditions.
 - **Negative effects:** Dry mouth and dry eyes are common. At higher doses,
@@ -88,57 +88,3 @@ Angeles, which inspired the name.
   7–9) enhance purple coloration and terpene development.
 - **Training:** Responds well to low-stress training (LST), scrogging
   ([[cannabis-screen-of-green-scrog-guide]]), and topping. Its naturally bushy structure benefits
-  from early vegetative training to create an even canopy.
-- **Nutrient requirements:** Moderate-to-heavy feeder during vegetative
-  growth. Calmag supplementation recommended due to its OG Kush genetics,
-  which can be sensitive to calcium and magnesium deficiencies. Reduce
-  nitrogen during weeks 6–8 of flowering to prevent leafy bud formation.
-- **Resistance:** Good resistance to mold and [[cervantes-powdery-mildew-prevention-treatment]]. Moderate
-  pest resistance. Dense bud structure requires good airflow management
-  to prevent bud rot (botrytis) in humid conditions, especially during
-  the final weeks of flowering.
-- **Harvest indicators:** Trichomes shift from cloudy to amber around
-  week 9. For maximum potency, harvest when 30–40% of trichomes are
-  amber. For a more cerebral effect, harvest earlier at 10–20% amber.
-
-## Terpene Breakdown
-
-| Terpene | Estimated % | Primary Effects |
-|---------|-------------|-----------------|
-| Myrcene | 0.5–1.2% | Sedation, muscle relaxation, "couch-lock" |
-| Limonene | 0.3–0.8% | Mood elevation, stress relief, anti-anxiety |
-| Caryophyllene | 0.2–0.6% | Anti-inflammatory, pain relief (CB2 agonist) |
-| Pinene | 0.1–0.4% | Mental clarity, bronchodilation, counteracts THC fog |
-| Linalool | 0.05–0.2% | Calming, anxiolytic, enhances sedative effects |
-| Humulene | 0.05–0.15% | Appetite suppression, anti-inflammatory |
-
-## Cannabinoid Profile
-
-| Cannabinoid | Typical Range |
-|-------------|---------------|
-| THC (Δ9-THC) | 20–29% |
-| THCa | 22–32% (pre-decarboxylation) |
-| CBD | <0.3% |
-| CBG | 0.1–0.5% |
-| CBC | Trace |
-| CBN | 0.02–0.1% (increases with age/curing) |
-
-The virtually absent CBD content means Kosher Kush's effects are driven
-almost entirely by THC and the [[cannabis-terpene-entourage-effect-profiles]] of its terpene profile.
-The high myrcene-to-pinene ratio is a key driver of its sedative character.
-
-## Similar Strains
-
-| Strain | Relationship | Key Differences |
-|--------|-------------|-----------------|
-| OG Kush | Likely parent/ancestor | Kosher is more sedating, denser buds, stronger body effects |
-| Hindu Kush | Landrace ancestor of OG line | Hindu Kush is earthier, less complex terpene profile |
-| LA Confidential | LA underground contemporary | LA Confidential is slightly less potent, more pine-forward |
-| Master Kush | Hindu Kush × Skunk #1 | Master Kush has more cerebral effects, different terpene balance |
-| Skywalker OG | OG Kush × Blueberry | Skywalker adds berry sweetness; Kosher is more pungent/earthy |
-| Tahoe OG | OG Kush phenotype | Tahoe is more cerebral initially; Kosher is heavier body sedation |
-## See Also
-- [[hindu-kush]]
-- [[girl-scout-cookies]]
-- [[northern-lights]]
-- [[limonene]]

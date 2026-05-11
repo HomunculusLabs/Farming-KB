@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press."
-  - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current Drug Metabolism, 11(5), 459-479."
+  - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current [[cytochrome-p450-enzymes-drug-metabolism]], 11(5), 459-479."
   - "Hertzog, R.I. et al. (2021). \"Pharmacology of turner-harmala-alkaloids-preparation-and-dosage.\" Pharmacology & Therapeutics, 225, 107859."
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
@@ -26,7 +26,7 @@ tricyclic nitrogen-containing compounds structurally related to tryptamine,
 formed by the fusion of an indole ring with a pyridine ring.
 They occur naturally in a wide range of plants ([[mckenna-food-gods-peganum-harmala-soma]], Banisteriopsis
 caapi, tobacco) and are endogenously produced in mammalian tissues.
-The most pharmacologically significant members are the harmala alkaloids —
+The most pharmacologically significant members are the [[harmala-alkaloids]] —
 harmine, harmaline, and harmalol — which are potent reversible inhibitors
 of monoamine oxidase A (MAO-A).
 Beta-carbolines play a central role in [[harner-amazonian-ayahuasca-preparation-methods]] brews as the
@@ -69,12 +69,12 @@ and oneiric states.
   - Inhibition increases synaptic levels of these monoamines
 - **Selectivity:** Harmine and harmaline are 10–50× more potent against
   MAO-A than MAO-B
-- **Reversibility:** Unlike irreversible MAO inhibitors (phenelzine),
+- **Reversibility:** Unlike irreversible [[mao-inhibitors-and-psychedelics]] (phenelzine),
   harmala alkaloids dissociate from the enzyme, reducing dietary tyramine risk
 - **Duration of action:** 4–6 hours at typical ayahuasca doses
 - **Pharmacological significance:** MAO-A inhibition prevents first-pass
   hepatic degradation of orally administered DMT, enabling its psychoactive
-  effects — the basis of ayahuasca pharmacology
+  effects — the basis of [[ayahuasca-pharmacology]]
 
 ### Serotonergic Receptor Activity
 
@@ -88,59 +88,3 @@ and oneiric states.
 ### Ion Channel Modulation
 
 - **GABA_A receptors:** β-Carbolines bind at the benzodiazepine site with
-  complex pharmacology — some are inverse agonists (anxiogenic: harmane,
-  norharmane) while others are weak agonists (anxiolytic: harmine at low doses)
-- **Dopamine uptake:** Inhibition of dopamine reuptake at higher concentrations
-
-## Effects
-
-### At Ayahuasca Doses (Harmine/Harmaline 25–75 mg oral)
-
-- **Onset:** 20–60 minutes
-- **Duration:** 4–6 hours
-- **Physical effects:** Nausea, vomiting (purging), vasodilation, hypotension,
-  tremor, ataxia, mydriasis, body warmth
-- **Visual effects:** Enhanced colors, geometric patterns with eyes closed,
-  dreamlike imagery at higher doses
-- **Cognitive effects:** Oneiric (dreamlike) mentation, altered time perception,
-  introspective thought patterns, enhanced recollection
-- **Emotional effects:** Can range from serene contemplation to anxiety,
-  depending on dose, set, and setting
-
-### At High Doses (>200 mg harmine oral)
-
-- Intensified visual and cognitive effects approaching deliriant territory
-- Significant motor impairment, tremor, nausea
-- ⚠️ **Danger:** Risk of serotonin syndrome if combined with SSRIs, SNRIs,
-  or other serotonergic drugs
-- ⚠️ **Danger:** Hypertensive crisis possible with tyramine-rich foods at
-  very high doses, though risk is lower than with irreversible MAOIs
-
-## Natural Sources
-
-- **Peganum harmala ([[golden-guide-syrian-rue-and-maoi-plants]]):** Seeds contain 2–7% total β-carbolines,
-  primarily harmine and harmaline — the most concentrated natural source
-- **Banisteriopsis caapi (ayahuasca vine):** Bark contains 0.1–1% β-carbolines,
-  primarily harmine, harmaline, and tetrahydroharmine
-- **Nicotiana tabacum (tobacco):** Harmane and norharmane as minor alkaloids
-- **Coffee (Coffea spp.):** Harmane and norharmane in roasted beans
-- **Endogenous production:** Tetrahydro-β-carboline-3-carboxylic acid
-  (tryptoline) detected in human brain, cerebrospinal fluid, and platelets;
-  formed by Pictet-Spengler condensation of tryptamine with aldehydes
-- **Other plants:** Passiflora incarnata, Prosopis spp., Zygophyllum spp.
-
-## Legal Status
-
-- **Harmala alkaloids:** Unscheduled in most countries as isolated compounds
-- **Peganum harmala seeds:** Legal in most jurisdictions but may be regulated
-  under analog acts in some areas
-- **Ayahuasca:** Legal status varies; protected as religious sacrament in
-  Brazil, Peru, and several U.S. states (under religious use exemptions);
-  DMT content makes it a controlled substance in many other countries
-- **Import/export:** Varies by jurisdiction; check local regulations
-
-## See Also
-
-- [[harmaline]] — Major MAO-inhibiting β-carboline from P. harmala
-- [[banisteriopsis-caapi]] — Ayahuasca vine, natural source of harmala alkaloids
-- [[peganum-harmala]] — Syrian rue, concentrated natural β-carboline source

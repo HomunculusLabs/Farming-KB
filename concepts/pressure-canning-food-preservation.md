@@ -15,7 +15,7 @@ Pressure canning solves this problem through the relationship between pressure a
 - At 11 psi gauge pressure, water boils at approximately 116°C (242°F)
 - At 15 psi gauge pressure, water boils at approximately 121°C (250°F)
 
-The critical threshold is 116°C (240°F), which is sufficient to kill C. botulinum spores within the processing times specified in tested canning recipes. This temperature is achieved at 10 psi at sea level, but the required gauge pressure increases with altitude because atmospheric pressure decreases.
+The critical threshold is 116°C (240°F), which is sufficient to kill C. botulinum spores within the processing times specified in tested [[homestead-canning-recipes]]. This temperature is achieved at 10 psi at sea level, but the required gauge pressure increases with altitude because atmospheric pressure decreases.
 
 ## Altitude Adjustments
 
@@ -88,54 +88,3 @@ Electric multi-cookers (Instant Pot, etc.) are NOT approved for pressure canning
 - Using a pressure cooker (not canner) for pressure canning
 - Skipping the 10-minute venting step before building pressure
 - Modifying tested recipes (adding ingredients, changing proportions, or omitting acid)
-- Using outdated or damaged canning lids
-- Forcing rapid cooling of the canner
-- Storing jars with the bands still on (can hide seal failures)
-- Using jars with cracks or chips
-- Ignoring altitude adjustments
-- Using a canner with an uncalibrated dial gauge
-
-## Canning Low-Acid vs. High-Acid Foods
-
-Understanding the acid content of food determines which canning method is safe to use:
-
-**Low-acid foods (pH above 4.6) — require pressure canning:**
-- All vegetables (green beans, carrots, corn, peas, beets, potatoes, asparagus)
-- All meats, poultry, and fish
-- Soups, stews, and mixed dishes containing vegetables and/or meat
-- Most legumes and beans (dried beans, chickpeas, lentils)
-- Mushrooms
-
-**High-acid foods (pH 4.6 or below) — safe for water bath canning:**
-- Fruits (apples, peaches, pears, berries, cherries)
-- Pickled vegetables (the added vinegar or lemon juice lowers pH below 4.6)
-- Tomatoes (with added acid — lemon juice, citric acid, or vinegar)
-- Jams, jellies, preserves, marmalades
-- Fruit butters, sauces, and salsas with adequate acidification
-- Fermented products (sauerkraut, pickles) after fermentation
-
-**Borderline foods requiring acidification:**
-- Tomatoes have a pH close to the safety threshold (4.2-4.8). The USDA recommends adding 1 tablespoon of bottled lemon juice or 1/4 teaspoon of citric acid per pint jar (2 tablespoons lemon juice or 1/2 teaspoon citric acid per quart) to ensure safe acidity
-- Figs and some Asian pears may also require acidification depending on variety
-
-## Pressure Canning Specific Foods
-
-**Vegetables:**
-Most vegetables are pressure-canned using a raw pack or hot pack method. Hot packing generally produces better quality (less floating, better color retention) but requires pre-cooking. Processing times range from 20 minutes for asparagus to 100+ minutes for dried beans. Always use the specific processing time and pressure for each vegetable type — do not generalize.
-
-**Meats:**
-Raw pack or hot pack. Raw pack is simpler: cut meat into chunks, pack loosely into jars, add salt if desired, and process without added liquid (the meat will cook and release its own juices). Hot pack involves browning the meat first for better flavor. Processing times for meats range from 75 minutes for pint jars of poultry to 90+ minutes for quart jars of beef or pork.
-
-**Soups and stews:**
-Only use tested recipes. The USDA provides specific recipes for vegetable soup, meat soup, and chicken soup. Do not can soups containing dairy, pasta, rice, noodles, flour, or thickeners — these ingredients interfere with heat penetration and can create safety hazards. Process soup ingredients separately if desired and combine when opening.
-
-**Beans and legumes:**
-Dried beans must be soaked (12-18 hours) or quick-soaked (boil 2 minutes, soak 1 hour) before canning. Pack hot beans into jars with fresh hot water and process. Processing times are long (75-90 minutes) because beans are dense and heat penetration is slow.
-
-## Related Topics
-
-- [[comparison-pressure-canning-vs-water-bath-canning]]
-- [[lacto-fermentation-and-food-preservation-methods]]
-- [[food-fermentation-guide]]
-- [[mollison-designers-cold-caves-root-cellar-storage]]
-- [[homestead-winter-preparations]]

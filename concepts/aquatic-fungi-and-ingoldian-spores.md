@@ -23,11 +23,11 @@ sources:
 
 # Aquatic Fungi and Ingoldian Spores
 
-Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems. (see [[ingold-cecil-t]]).
+Aquatic fungi are a diverse group of decomposer organisms that live and reproduce in freshwater habitats. The most famous are the Ingoldian hyphomycetes, whose spectacularly shaped spores were discovered by C.T. Ingold in 1938 and revolutionized understanding of fungal diversity in water ecosystems.
 
 ## Ingold's Discovery
 
-Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf decomposition. When he presented his findings to the British Mycological Society, a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002). (see [[aquatic-fungi-and-zoospore-biology]]).
+Cecil Terence Ingold, a young professor at Leicester University, found extraordinary spores in foam collecting in "a little, alder-lined, babbling brook" near his home in 1938. After months of research he concluded the spores were formed by a hitherto unknown group of aquatic fungi instrumental in leaf decomposition. When he presented his findings to the British Mycological Society, a colleague from Cambridge dismissed them as hairs from plant leaves. Sixty years later, more than 300 species of Ingoldian fungi have been identified, with over 1,000 scientific publications (Money, 2002).
 
 ## Spore Shapes and Their Function
 
@@ -73,3 +73,11 @@ Water plays multiple critical roles in fungal biology beyond aquatic species:
 - Creates the humidity required for fruiting body development
 
 See also [[fungal-biology-fundamentals]], [[fungal-spore-biology]], [[saprotrophic-fungi]], [[fungi-soil-food-webs]]
+
+## See Also
+
+- [[query-what-is-the-role-of-actinomycetes-in-soil-health-and-decomposition]]
+- [[query-what-is-the-role-of-lignin-in-soil-health-and-decomposition]]
+- [[bloomfields-orchard-hyphal-growth-and-invasive-biology]]
+- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
+- [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]

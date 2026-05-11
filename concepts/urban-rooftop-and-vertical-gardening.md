@@ -1,5 +1,5 @@
 ---
-title: Urban urban rooftop and vertical gardening Gardening
+title: Urban Rooftop And Vertical Gardening
 created: 2026-04-28
 tags: [urban-permaculture, rooftop-garden, vertical-garden, container-growing, urban-farming]
 date: 2026-04-27
@@ -21,23 +21,23 @@ pollinators within densely built environments.
 
 ## Green Roofs: Replacing Ecological Footprint
 
-Green roofs serve multiple functions in urban permaculture design. They
+Green roofs serve multiple functions in [[urban-permaculture-design]]. They
 maximize growing space by utilizing the often-wasted horizontal surface of
-buildings. As noted in permaculture design courses, green roofs can be used
+buildings. As noted [[mollison-lawn-reform-and-alternatives-in-permaculture-design]] courses, green roofs can be used
 to replace the ecological footprint that buildings occupy. A structure's roof
 is a resource: it receives full sun exposure, captures rainfall, and can
 support a wide range of plants from shallow-rooted sedums to intensive
-vegetable gardens.
+[[maintaining-organic-matter-in-vegetable-gardens]].
 
 ### Green Roof Benefits
 
-- Stormwater management: absorbs rainfall that would otherwise contribute
+- [[mollison-designers-cloudburst-and-stormwater-management]]: absorbs rainfall that would otherwise contribute
   to flooding and runoff pollution
 - Urban heat island reduction: evapotranspiration cools rooftop surfaces
   and surrounding air
 - Insulation: reduces heating and cooling energy costs for the building
   below
-- Habitat creation: provides forage and nesting for pollinators and birds
+- [[amphibian-habitat-creation]]: provides forage and nesting for pollinators and birds
 - Food production: intensive green roofs can grow vegetables, herbs, and
   small fruits
 - Aesthetic improvement: transforms barren rooftops into productive,
@@ -87,54 +87,3 @@ activity of permanent structures. They can include herbs, strawberries, and
 even salad greens in specially designed pocket systems.
 
 ### Stacked Container Systems
-
-Container growing on balconies, patios, and stairways multiplies growing
-area through vertical stacking. Tomatoes ripen on rooftops; onions frame
-sidewalks. Window boxes, [[hamilton-hanging-baskets-organic]], and tiered plant stands all
-contribute to the total food production of an urban site. Creative vertical
-space usage is a core principle of urban permaculture design.
-
-## Urban Permaculture Design Integration
-
-Urban permaculture is intensely social. Everything you do is within sight,
-sound, or touch of a neighbor. Rather than privatize and control daily
-activities, urban permaculture seeks to increase and share the diverse
-paths, places, and patterns of urban conviviality. [[urban-permaculture-community-building-social-design]] is
-very much a matter of good design, following patterns that connect rather
-than alienate.
-
-### Multi-Function Structures
-
-In urban design, every element should serve multiple functions. A balcony
-railing can serve as a trellis for climbing vegetables. A rooftop can
-combine food production with rainwater catchment and outdoor living space.
-A wall can support both a vertical garden and a solar panel array. The
-microclimate of a structure itself helps trees and plants last longer while
-the plants in turn moderate the building's temperature.
-
-### Small Space Strategies
-
-Urban food production relies on strategies for making the most of limited
-area:
-- [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]] to harvest multiple crops from the same space
-- Interplanting fast and slow-growing crops together
-- Using dwarf and bush varieties bred for container growing
-- Maximizing edge effects with curved and irregular bed shapes
-- Growing edible ornamentals that serve both aesthetic and food functions
-- Collecting and [[comparison-vermicomposting-vs-composting-organic-garden]] waste from the household
-
-## Transforming the Urban Landscape
-
-The vision of urban permaculture extends beyond individual gardens to
-reimagining entire cities as productive landscapes. Nature shifts from
-background to foreground when gardens replace lawns, fruit trees line
-streets, and rooftops become farms. Community gardens at schools serve as
-bridges between classroom learning and hands-on ecology. Neighborhood
-design follows permaculture patterns: people guilds mirror plant guilds,
-connecting needs to skills and surpluses within walking distance.
-
-## Related Concepts
-
-- [[community-garden-design]]
-- [[permaculture-zone-and-sector-planning]]
-- [[backyard-water-harvesting]]

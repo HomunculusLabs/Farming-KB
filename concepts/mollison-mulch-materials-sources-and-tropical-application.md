@@ -5,6 +5,7 @@ tags: [permaculture], mulching, tropical-agriculture, soil-health, organic-matte
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,11 +88,3 @@ overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
 ## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-- [[bill-mollison]]

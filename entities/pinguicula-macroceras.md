@@ -87,35 +87,3 @@ Ants and larger insects occasionally become trapped but are not effectively dige
 P. macroceras is one of the easier temperate butterworts to cultivate, as it tolerates a wider [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] than many alpine species. A peat-sand-vermiculite mix (1:1:1) kept consistently moist works well.
 
 The species requires a distinct cold dormancy period of 3–4 months. Winter temperatures of 0–10°C trigger hibernaculum formation. Without this chilling period, plants may weaken over successive growing seasons and eventually decline.
-
-The species grows best in bright, indirect light or partial shade. Full sun can scorch the delicate leaves, especially during warm periods. A cool greenhouse, cold frame, or unheated windowsill in temperate climates provides suitable conditions year-round.
-
-Propagation is most successful from leaf pullings taken during active growth. Leaves placed on moist substrate develop plantlets at the base after 4–8 weeks.
-
-Division of mature rosettes in early spring is also effective. [[cannabis-seed-germination-methods]] requires cold stratification (4–8 weeks at 2–5°C) and surface sowing on wet substrate. The tiny seedlings are slow-growing and require careful attention to moisture levels during their first months.
-
-## Related Species
-
-P. macroceras is part of the widespread P. vulgaris complex, a group of closely related butterworts distributed across the Northern Hemisphere. Several relatives warrant comparison:
-
-- **Pinguicula vulgaris** — the Eurasian counterpart, very similar in morphology; distinguished by shorter spur and minor leaf differences
-- **Pinguicula grandiflora** — larger flowers, native to the Pyrenees and Ireland; less cold-hardy
-- **Pinguicula alpina** — alpine species with a distinctive winter hibernaculum and white flowers
-- **Pinguicula Moranensis** — Mexican tropical species; completely different habitat and dormancy pattern
-
-Collection from the wild is discouraged but was historically common among carnivorous plant enthusiasts. Tissue-cultured and seed-grown material is now widely available from specialist nurseries, reducing pressure on wild populations.
-
-The species is included in the Convention on International Trade in Endangered Species (CITES) Appendix II regulations that apply to all Pinguicula species, though enforcement varies by jurisdiction. Commercial trade in wild-collected specimens has declined significantly since the 1990s.
-
-## See Also
-
-- [[pinguicula-grandiflora]]
-- [[pinguicula-moranensis]]
-- [[pinguicula-esseriana]]
-- [[drosera-rotundifolia]]
-- [[utricularia-vulgaris]]
-- [[sarracenia-purpurea]]
-- [[darlingtonia-californica]]
-- [[cephalotus-follicularis]]
-- [[aldrovanda-vesiculosa]]
-- [[drosera-anglica]]

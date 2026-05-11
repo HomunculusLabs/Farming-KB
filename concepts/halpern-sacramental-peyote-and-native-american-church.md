@@ -1,5 +1,5 @@
 ---
-title: halpern sacramental peyote and native american church and the metzner-peyote-ceremonies-native-american-church-and-huichol-traditions Church
+title: Halpern Sacramental Peyote And Native American Church
 created: 2026-04-28
 tags:
   - law
@@ -29,7 +29,7 @@ posed by newer Brazilian-derived ayahuasca-using religions seeking similar prote
 
 ## Peyote: Botany, Pharmacology, and Geography
 
-Peyote (Lophophora williamsii) is a small, spineless cactus containing over sixty alkaloids, of
+Peyote ([[lophophora-williamsii]]) is a small, spineless cactus containing over sixty alkaloids, of
 which mescaline (beta-3,4,5-trimethoxyphenethylamine) is the principal hallucinogenic constituent at
 approximately 1.5% by dry weight. The cactus grows in a narrow strip of desert along the Texas-
 Mexico border, extending deeply into Mexico's Chihuahuan Desert. It has a small crown visible above
@@ -47,7 +47,7 @@ inadvisable.
 
 ## The Native American Church: Structure and Practice
 
-The NAC has approximately 300,000 members in the United States and Canada, making it the largest
+The NAC has approximately 300,000 members in the [[dmt-maoi-plants-united-states]] and Canada, making it the largest
 faith organization among Native Americans. It is pan-tribal, welcoming members from all recognized
 tribal nations. The church traces its formal incorporation to the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]], though
 its ceremonial peyote use extends back centuries earlier among various Plains tribes. Meetings are
@@ -64,7 +64,7 @@ are blessed and consumed, followed by a feast prepared by supporting relatives.
 A distinctive feature of the NAC is its strict prohibition on all other drugs and alcohol. Members
 may practice other traditional beliefs alongside NAC membership, but intoxicating substances outside
 the ceremony are forbidden. The NAC has maintained a long and positive history of cooperation with
-the DEA, and peyote has never been a significant drug of abuse outside the ceremonial context.
+the DEA, and peyote has never been a significant drug of abuse outside the [[kava-traditional-preparation-ceremonial-context]].
 
 ## Federal Legal Framework and Exemptions
 
@@ -85,45 +85,6 @@ basis by the NAC for decades.
 
 The legal landscape shifted with the 1990 Supreme Court decision in *Employment Division v. Smith*,
 which ruled that states could enforce generally applicable drug laws against Native Americans using
-peyote in religious ceremonies. This decision effectively stripped Native Americans of
+peyote in [[entheogenic-folk-religious-ceremonies]]. This decision effectively stripped Native Americans of
 constitutional protection for their central religious practice and generated widespread outrage. In
 response, Congress passed the 1994 Amendments to the American Indian Religious Freedom Act,
-affirming federal protection for Native Americans who "traditionally and ceremonially use peyote."
-
-Following the 1994 amendments, the DEA redrafted its regulations, deleting all specific mention of
-the NAC. Halpern notes that this had the unintended consequence of delegitimizing peyote use by
-those in longstanding gray zones. In some cases, regulatory changes "split apart native families
-across racial lines" by creating sharper distinctions about eligibility. While the DEA's motivation
-was to align regulatory language with the new statutory framework, the practical effect was to
-undermine the NAC's traditionally flexible approach to membership.
-
-## The Santo Daime and UDV: New Challenges
-
-Halpern contrasts the NAC's situation with two Brazilian-derived religions, the Santo Daime and the
-Uniao do Vegetal (UDV), both of which use ayahuasca (containing DMT, also a Schedule I substance) as
-their sacrament. Unlike the NAC, these religions have no racial or ethnic exclusionary rules and are
-open to people of any background. Both have sought legal protection for ayahuasca use in the United
-States.
-
-The UDV achieved a preliminary injunction barring the Department of Justice from enforcing drug laws
-against its members. The Oregon Board of Pharmacy issued the Santo Daime a religious exemption from
-state [[japan-narcotics-control-law-psilocybin-fungi-2002]]. The governments of Peru and Brazil had recognized these faiths as bona fide
-religions for more than twenty years. The NAC has been proactive in monitoring these developments,
-concerned that successful equal protection claims by the UDV or Santo Daime could undermine the
-treaty-based foundation of NAC protections.
-
-## Health and Safety Considerations
-
-Halpern notes that peyote is not lethal and is not known to induce organ damage, though it is
-labeled toxic under federal law because of its psychoactive properties. The primary health risks are
-nausea and vomiting, considered normal and even purificatory. A pilot survey of fifteen male UDV
-members in Brazil found no adverse health consequences from regular ayahuasca use. Members of both
-the UDV and Santo Daime assert that ayahuasca has assisted recovery from addiction to alcohol and
-other drugs, consistent with historical reports of hallucinogen efficacy in treating alcoholism and
-heroin addiction.
-
-## See Also
-
-- [[sacramental-psychedelic-legal-protections]]
-- [[sacramental-ayahuasca-legal-battles-united-states]]
-- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]

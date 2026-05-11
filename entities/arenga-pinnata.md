@@ -14,13 +14,13 @@ sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
   - Mogea, J.P., Gandawidjaja, D., Woltmann, B., & Dransfield, J. (2001). "A Guide to the Utilization of the Sugar Palm (Arenga pinnata)." CIFOR.
   - Sanyal, S.N. (1980). "The Palms of India." Oxford & IBH Publishing.
-  - Elevitch, C.R. & Manner, H.I. (2006). "Arenga pinnata (sugar palm), ver. 2.1." In "Species Profiles for Pacific Island Agroforestry."
+  - Elevitch, C.R. & Manner, H.I. (2006). "Arenga pinnata (sugar palm), ver. 2.1." In "Species Profiles for Pacific Island [[agroforestry]]."
   - Heyne, K. (1927). "De Nuttige Planten van Nederlandsch Indië." 2nd ed. Dept. van Landbouw, Nijverheid en Handel.
 ---
 
 # Arenga pinnata
 
-Arenga pinnata, commonly known as the sugar palm, areng palm, or gomuti palm, is a multi-stemmed palm species native to tropical and subtropical regions of South and Southeast Asia. It is one of the most economically important palms in its native range, valued primarily for the production of palm sugar and palm wine (toddy).
+Arenga pinnata, commonly known as the sugar palm, areng palm, or gomuti palm, is a multi-stemmed palm species native to tropical and subtropical regions of South and [[psilocybe-southeast-asia-pacific]]. It is one of the most economically important palms in its native range, valued primarily for the production of palm sugar and palm wine (toddy).
 
 The species has been cultivated for centuries across island Southeast Asia and is deeply embedded in traditional agrarian economies. Its versatility as a source of food, fiber, and construction material has earned it the designation of a "multi-purpose tree" in agroforestry systems.
 
@@ -36,7 +36,7 @@ Pinnate leaves are 4–7 meters long, arching, with 100–150 leaflets per side.
 
 Inflorescences are pendulous, 1.5–3.0 meters long, and densely packed with flowers. The species is monoecious, with male flowers at the upper portion and female flowers below. Flowering occurs sequentially from the top of the inflorescence downward.
 
-Fruits are globose, 4–7 cm in diameter, green ripening to dark purple or black, and contain 2–3 seeds. The fruit pulp contains calcium oxalate crystals and is strongly irritating to skin and mucous membranes when raw.
+Fruits are globose, 4–7 cm in diameter, green ripening to dark purple or black, and contain 2–3 seeds. The fruit pulp contains [[fungal-calcium-oxalate-crystals]] and is strongly irritating to skin and mucous membranes when raw.
 
 The raw oxalate-containing pulp is traditionally used as a fish poison in parts of Indonesia and the Philippines. Crushed fruit is thrown into slow-moving streams, where the compounds stun fish for easy capture.
 
@@ -44,9 +44,9 @@ Seeds are dispersed primarily by large frugivores including fruit bats and hornb
 
 ## Distribution and Habitat
 
-Arenga pinnata is native from northeastern India and southern China through mainland Southeast Asia to the Indonesian archipelago and the Philippines. It has been introduced and naturalized in many tropical Pacific islands, Sri Lanka, and parts of tropical Africa.
+Arenga pinnata is native from northeastern India and southern China through mainland Southeast Asia to the Indonesian archipelago and the Philippines. It has been introduced and naturalized in many tropical [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], Sri Lanka, and parts of tropical Africa.
 
-The species grows from sea level to approximately 1,400 meters elevation. It is most abundant in lowland tropical forests, along riverbanks, and in secondary growth areas with adequate moisture.
+The species grows from sea level to approximately 1,400 meters elevation. It is most abundant in lowland [[fungal-biodiversity-tropical-forests]], along riverbanks, and in secondary growth areas with adequate moisture.
 
 It thrives in a wide range of soil types from volcanic loams to sandy alluvium. Optimal growth occurs in well-drained soils with pH 5.0–6.5 and annual rainfall of 1,500–3,000 mm.
 
@@ -54,15 +54,15 @@ The palm is shade-tolerant in its seedling stage but requires increasing light a
 
 The species is remarkably tolerant of poorly drained and seasonally waterlogged soils. This adaptability allows it to colonize riparian margins and swampy areas where many other palms cannot survive.
 
-In parts of its range, Arenga pinnata is considered an invasive weed in pastures and abandoned agricultural land. Dense clumps can suppress pasture grass and impede access for livestock and machinery.
+In parts of its range, Arenga pinnata is considered an invasive weed in pastures and abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]]. Dense clumps can suppress [[mollison-designers-tropical-pasture-grass-species-and-establishment]] and impede access for livestock and machinery.
 
 ## Ecology and Interactions
 
-Arenga pinnata provides food and habitat for numerous animal species in its native range. The fruit is consumed by fruit bats (Pteropus spp.), civets, monkeys, and hornbills, which serve as seed dispersal agents.
+Arenga pinnata provides food and habitat for numerous animal species in its native range. The fruit is consumed by fruit bats (Pteropus spp.), civets, monkeys, and hornbills, which serve as [[clay-pellet-seed-dispersal]] agents.
 
 The dense fibrous trunk provides nesting sites for cavity-nesting birds and climbing mammals. In agroforestry systems, the palm's multi-layered canopy creates microhabitat diversity beneficial to insect and bird populations.
 
-As a clump-forming understory species, it plays a role in forest succession. Established clumps can suppress grass growth and facilitate the establishment of other woody species in disturbed sites.
+As a clump-forming understory species, it plays a role in [[mollison-designers-food-forest-succession-design]]. Established clumps can suppress grass growth and facilitate the establishment of other woody species in disturbed sites.
 
 Pollination is primarily by insects, including beetles and bees attracted to the fragrant male flowers. The long flowering period of individual stems ensures sustained resource availability for pollinators over several months.
 
@@ -80,33 +80,10 @@ The palm heart is harvested in some regions, and the hard endocarp of the seed i
 
 In agroforestry systems, Arenga pinnata is intercropped with coffee, cacao, banana, and shade-loving spice crops. The multi-stemmed growth form provides graduated shade levels suitable for different crop canopies.
 
-The species is increasingly recognized as a valuable component of sustainable tropical agriculture. Its perennial harvest cycle, low external input requirements, and multiple product streams make it resilient to market fluctuations.
+The species is increasingly recognized as a valuable component of sustainable tropical agriculture. Its perennial [[cervantes-perpetual-harvest-cycle]], low external input requirements, and multiple product streams make it resilient to market fluctuations.
 
 Propagation is mainly by seed, though sucker separation from established clumps is also practiced. Seedling growth is slow during the first 2–3 years but accelerates once the root system is established.
 
 ## Palm Sugar Production
 
 Palm sugar from Arenga pinnata is produced by evaporating toddy sap over low heat until it crystallizes. The process yields a granular sugar with a characteristic caramel flavor and amber color.
-
-Compared to cane sugar, arenga palm sugar contains significant levels of potassium, iron, zinc, and B vitamins. Its glycemic index of approximately 35 is roughly half that of regular white sugar.
-
-Indonesia is the world's largest producer of arenga palm sugar, with major centers in West Java, Yogyakarta, and South Sulawesi. The industry supports an estimated 6–8 million smallholder tappers and processors across the archipelago.
-
-Organic and fair-trade certification of palm sugar has expanded international market access. The product is increasingly used in specialty food products, health foods, and artisanal confectionery.
-
-Traditional tapping involves making a thin incision at the base of the inflorescence spike and collecting dripping sap into bamboo containers. The sap must be collected daily and processed within hours to prevent fermentation.
-
-Recent research has explored Arenga pinnata as a bioenergy feedstock. The high sugar content of the sap makes it suitable for ethanol production, and the fibrous biomass residue can be pelletized as solid fuel.
-
-## See Also
-
-- [[dahlia-pinnata]]
-
-- [[cocos-nucifera]]
-- [[borassus-flabellifer]]
-- [[bactris-gasipaes]]
-- [[elaeis-guineensis]]
-- [[raphia-taedigera]]
-- [[nypa-fruticans]]
-- [[metroxylon-sagu]]
-- [[calamus-rotang]]

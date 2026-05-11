@@ -51,7 +51,7 @@ Disjunct populations have been reported from the Piedmont of New Jersey and sout
 
 It grows in sandy, acidic soils of pine barrens, coastal heaths, and oak-pine woodlands at elevations below 200 meters.
 
-The species is adapted to low-nutrient, well-drained sands with pH 4.0–5.5, often found alongside *Vaccinium angustifolium* and *Gaylussacia baccata*.
+The species is adapted to low-nutrient, well-drained sands with pH 4.0–5.5, often found alongside *[[vaccinium-angustifolium]]* and *[[gaylussacia-baccata]]*.
 
 It is intolerant of heavy clay soils and prolonged flooding, restricting its natural range to coarse-textured substrates.
 
@@ -71,9 +71,9 @@ Leaf litter acidity from *V. caesariense* contributes to soil podzolization in s
 
 The species serves as a host for several eriophyid mites and leaf-mining Lepidoptera that are specialized on Ericaceae foliage.
 
-It participates in [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations with *[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi*, which enhance nutrient uptake in nutrient-poor sandy soils.
+It participates in [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] associations with *[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] fungi*, which enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] in nutrient-poor sandy soils.
 
-These mycorrhizal partnerships are critical for phosphorus acquisition and are shared across the Ericaceae family.
+These mycorrhizal partnerships are critical for [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] and are shared across the Ericaceae family.
 
 ## Edibility and Culinary Use
 
@@ -81,40 +81,10 @@ The berries are edible raw and have a sweet-tart flavor that is often described 
 
 They can be used in jams, jellies, pies, muffins, and other baked goods, though their small size makes commercial harvesting impractical.
 
-Nutritional analysis indicates high levels of anthocyanins, particularly delphinidin and cyanidin glycosides, which contribute antioxidant capacity.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] indicates high levels of anthocyanins, particularly delphinidin and cyanidin glycosides, which contribute antioxidant capacity.
 
 Vitamin C content is comparable to other wild blueberries at approximately 10–15 mg per 100 g of fresh fruit.
 
-The species has limited commercial use but is of interest for breeding programs seeking to introduce novel flavor compounds and stress tolerance into cultivated lines.
+The species has limited commercial use but is of interest for breeding programs seeking to introduce novel flavor compounds and [[endophyte-mediated-plant-stress-tolerance]] into cultivated lines.
 
 Indigenous peoples of the Mid-Atlantic coast historically harvested the berries as a seasonal food source, though specific ethnobotanical records are sparse.
-
-## Cultivation
-
-*Vaccinium caesariense* is rarely cultivated commercially but has been used as a genetic donor in blueberry breeding programs.
-
-It exhibits good cold hardiness (USDA zones 5–8) and tolerance of sandy, low-fertility soils that challenge other *Vaccinium* species.
-
-Propagation is typically by softwood cuttings taken in mid-summer or by seed, though seedling offspring show considerable genetic variation.
-
-The species requires acidic soil (pH 4.0–5.5) with high organic matter content and consistent moisture during the growing season.
-
-It performs best in full sun to partial shade and benefits from mulching with pine needles or sawdust to maintain soil acidity.
-
-[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] include mummy berry (*Monilinia vaccinii-corymbosi*), blueberry maggot (*Rhagoletis mendax*), and phytophthora root rot in poorly drained sites.
-
-Interest in the species for home garden use has increased due to its compact size and ornamental value during fall foliage color change.
-
-## See Also
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-pallidum]]
-- [[vaccinium-darrowii]]
-- [[vaccinium-elliottii]]
-- [[vaccinium-fuscatum]]
-- [[gaylussacia-baccata]]
-- [[kalmia-latifolia]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-ovatum]]

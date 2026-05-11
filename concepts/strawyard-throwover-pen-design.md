@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
@@ -25,7 +26,7 @@ A strawyard is a deep-mulched, gated enclosure designed to produce emergency foo
 - Production of stored seeds for the spring "hungry gap"
 - Emergency food reserve during feed shortages
 - Manure production through high-density stocking
-- Rapid decomposition of rough residues (bracken, cornstalk, hedge clippings, straw)
+- Rapid [[decomposition]] of rough residues (bracken, cornstalk, hedge clippings, straw)
 
 ### Design Principles
 
@@ -71,7 +72,7 @@ A throwover pen is a protected area for growing more tender greens and highly-se
 
 Chard -- The first choice of all greens, but free poultry access cannot be permitted. Successional sowings in the throwover area ensure year-round leaves for green forage.
 
-Cleavers (Galium aparine) -- Valuable seed plant with iron and iodine content. May need protection from free-range poultry via brush or netted fence enclosures. Poultry are useful controls when access is managed.
+Cleavers ([[galium-aparine]]) -- Valuable seed plant with iron and iodine content. May need protection from free-range poultry via brush or netted fence enclosures. Poultry are useful controls when access is managed.
 
 ## Weed Control Through Stocking Management
 
@@ -87,33 +88,3 @@ Stored food draws from two main sources:
 Storage needs:
 - Racks for drying
 - Dry shelves
-- Bins for grain storage
-- Wires for corn cobs (or cribs)
-- Drying floors or pits for acorns and chestnuts
-- Overhead hooks or racks for sunflower heads
-- Pest-proofing from rats and sparrows is essential
-- A small hammer mill is a great asset
-
-## Integration with the Wider System
-
-The strawyard and throwover pen integrate with:
-
-- The hardy free-range system of Zone II plus normal orchard species
-- Storage bins or sheds for the spring "hungry gap"
-- Aquatic or part-aquatic (edge) systems for duck forage
-- [[mollison-designers-bee-forage-tree-planting]] from flowering forage crop species
-- Stored food for larger stock species (e.g., goats)
-- Manurial waste disposal for annual gardening or composting
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 8.
-
-#permaculture #strawyard #throwover-pen #poultry-infrastructure #broadcast-sowing #forage-storage #weed-control
-
-## See Also
-
-- [[chickshaw-and-poultry-tractors]]
-- [[free-range-poultry-forage-design-mollison]]
-- mollison-orchard-poultry-integration-and-woodlot-design
-- [[plant-micronutrients-and-their-essential-functions]]

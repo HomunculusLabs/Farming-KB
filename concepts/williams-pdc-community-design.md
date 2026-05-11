@@ -1,5 +1,5 @@
 ---
-title: "[[holmgren-community-design-and-intentional-communities]] in [[permaculture]]"
+title: Williams Pdc Community Design
 created: 2026-04-28
 tags: [permaculture, community, intentional-community, stewardship, organizational-structure, communication, governance]
 date: 2026-04-25

@@ -88,25 +88,3 @@ tuber-regium*, and *[[paul-stamets]] developed an outdoor cultivation approach l
 cycles:
 
 1. Disperse *M. angusticeps* mycelium into outdoor burn-sites
-2. Top with peat moss or hardwood sawdust (oak/alder) supplemented with calcium sulfate
-3. Plant between October and December, provide shade
-4. Practice **"benign neglect"**: ignore the site entirely until spring
-
-This strategy accepts that much of the fruiting trigger is environmental and outside the
-cultivator's direct control.
-
-## Mycelial Characteristics
-
-Morel mycelium in culture is fine, divergent, and fast-running with non-aerial growth.
-It is initially gray, thickening to gray-brown with brown, orangish, or golden
-"micro-sclerotia" nodules. Culture media stains dark brown as cultures mature.
-Over-mature mycelium resembles squirrel fur.
-
-## Fragrance
-
-Morel mycelium in culture produces a pleasant aroma reminiscent of crushed fresh Morel
-mushrooms, making cultivation work a sensory reward even before fruiting occurs.
-
-## See Also
-
-- [[morchella-elata]] — Comparison of prized wild [[palmer-edible-mushrooms-north-america]]

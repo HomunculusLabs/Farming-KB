@@ -25,7 +25,7 @@ Grassland soils are enriched by organic accretion throughout the soil profile, e
 
 See also: fungal-biodiversity-in-soil-ecosystems, [[fungal-decomposition-processes]]
 
-2. **Carbon and Nitrogen Storage**: Soil fungi are of interest to ecologists because of their importance in [[soil-food-web]] dynamics.
+2. **Carbon and Nitrogen Storage**: Soil fungi are of interest to ecologists because of their importance in [[soil-foodweb]] dynamics.
 
 3. **Soil Stabilization**: Fungi play a critical role in [[fungal-contributions-soil-structure]]
 

@@ -1,6 +1,6 @@
 ---
 title: "Cannabis Resin Preparations: Kief, Hashish, and Solvent Extracts"
-source: "The Cannabis Health Index - Uwe Blesching, PhD (2015)"
+source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] - Uwe Blesching, PhD (2015)"
 source_path: raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [cannabis, kief, hashish, resin, solvent-extraction, concentrate, butane, isopropyl, decarboxylation, trichome, preparation]
 ---
@@ -13,9 +13,9 @@ Beyond whole-plant cannabis flowers, the concentrated resin of the cannabis plan
 
 ## Trichomes: The Source of Medicinal Resin
 
-The resinous crystals that coat mature cannabis flower buds are produced by tiny glandular structures called **trichomes**. Trichomes are the primary sites of cannabinoid and terpene biosynthesis in the cannabis plant. They appear as tiny, mushroom-shaped structures on the surface of flowers and leaves, visible to the naked eye as a frosty or crystalline coating. The highest concentration of trichomes — and therefore the most potent resin — is found on mature, ripe flower buds.
+The resinous crystals that coat mature cannabis flower buds are produced by tiny glandular structures called **trichomes**. Trichomes are the primary sites of cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]] in the cannabis plant. They appear as tiny, mushroom-shaped structures on the surface of flowers and leaves, visible to the naked eye as a frosty or crystalline coating. The highest concentration of trichomes — and therefore the most potent resin — is found on mature, ripe flower buds.
 
-The medicinal value of cannabis is concentrated in these trichome heads, which contain the full spectrum of cannabinoids (THC, CBD, CBG, CBC, THCV), terpenes, and flavonoids. Different resin preparation methods seek to separate these trichome heads from the plant matter to create more concentrated and refined medicinal products.
+The medicinal value of cannabis is concentrated in these trichome heads, which contain the full spectrum of cannabinoids (THC, CBD, CBG, CBC, THCV), terpenes, and flavonoids. Different resin [[amanita-preparation-methods]] seek to separate these trichome heads from the plant matter to create more concentrated and refined medicinal products.
 
 ## Kief
 
@@ -62,13 +62,13 @@ Historically, hashish production varied by region:
 
 ### Properties and Potency
 
-Hashish typically ranges from 20% to 60% THC, depending on the quality of starting material and the efficiency of the separation process. Premium hashish can approach the potency of modern solvent-based concentrates. The concentration of terpenes in hashish often produces a more complex aromatic and flavor profile than kief alone, as the pressing process can help preserve volatile compounds.
+Hashish typically ranges from 20% to 60% THC, depending on the quality of starting material and the efficiency of the separation process. Premium hashish can approach the potency of modern solvent-based concentrates. The concentration of terpenes in hashish often produces a more complex aromatic and flavor profile than kief alone, as the pressing process can help preserve [[mycovolatiles-fungal-volatile-compounds]].
 
 ## Solvent-Based Cannabis Extracts
 
 ### Overview of Solvent Extraction
 
-Blesching describes a category of cannabis concentrates produced using chemical solvents to dissolve and extract cannabinoids from plant material: "Solvents such as hexane, butane, or isopropyl alcohol may be employed to dissolve the ingredients of cannabis."
+Blesching describes a category of [[cannabis-concentrates-and-extracts]] produced using chemical solvents to dissolve and extract cannabinoids from plant material: "Solvents such as hexane, butane, or isopropyl alcohol may be employed to dissolve the ingredients of cannabis."
 
 ### Common Solvents Used
 
@@ -86,56 +86,5 @@ Blesching acknowledges that "this method produces the highest concentration of c
 
 - Advanced cancer pain
 - Severe treatment-resistant [[blesching-cannabis-neuropathic-pain|neuropathic pain]]
-- Severe [[blesching-cannabis-muscle-spasticity|muscle spasticity]]
+- Severe [[blesching-cannabis-hirsutism-unwanted-hair-growth|muscle spasticity]]
 - Intractable [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol|chemotherapy-induced nausea]]
-
-### Safety Risks and Dangers
-
-Blesching provides an explicit safety warning: "While this method produces the highest concentration of cannabinoids, it is also dangerous due to the flammability of the solvents. Explosions have led to serious injuries and deaths. Also, solvent residue may linger in the concentrate and add a toxic material to the medicine."
-
-Key safety concerns include:
-
-1. **Explosion and fire risk** — Butane extraction in unventilated spaces has caused numerous documented explosions, injuries, and deaths. Butane is heavier than air and can accumulate in low areas, creating an invisible explosive atmosphere.
-
-2. **Solvent residue contamination** — Incomplete purging of residual solvent leaves toxic chemicals in the final product. Patients consuming contaminated extracts may be exposed to butane, isopropyl alcohol, hexane, or other petroleum-derived solvents.
-
-3. **Lack of quality control** — Illicitly produced extracts rarely undergo testing for residual solvents, pesticide residues, or heavy metal contamination. Even in regulated markets, testing standards vary.
-
-4. **Extreme potency** — High-THC concentrates (80%+) can overwhelm new or inexperienced patients, potentially causing anxiety, paranoia, and disorientation far beyond what whole-plant cannabis produces.
-
-## Non-Solvent Concentrates
-
-### Rosin Press
-
-A mechanical method using heat and pressure to extract resin without solvents. Cannabis flower or kief is placed between heated plates (typically 180–220°F) and pressed. The resulting "rosin" is a solventless extract that preserves the full spectrum of cannabinoids and terpenes.
-
-### Ice Water Hash (Bubble Hash)
-
-As described under kief production, ice water extraction can be refined to produce very high-quality solventless hash. Multiple filtration stages with increasingly fine mesh bags (measured in microns) can separate full-melt trichome heads from plant contaminants.
-
-## Contaminant Concerns
-
-Blesching's broader discussion of cannabis safety applies with amplified urgency to resin preparations:
-
-- **Pesticide concentration** — Any pesticides present on cannabis flowers become concentrated in resin extracts, potentially reaching hazardous levels
-- **Mold and fungal contamination** — Improperly dried starting material can harbor mold spores that survive extraction and become concentrated
-- **Heavy metals** — Cannabis plants grown in contaminated soil can accumulate lead, arsenic, cadmium, and other heavy metals in their resin
-- **Adulterants** — In unregulated markets, hashish has historically been cut with various substances to increase weight
-
-## Dosing Considerations for Resin Preparations
-
-Patients transitioning from whole-plant cannabis to resin preparations should exercise extreme caution:
-
-1. **Start with very small amounts** — The therapeutic window shifts dramatically with increased potency
-2. **Use precision scales** — Eyeballing doses is unreliable with concentrated products
-3. **Wait between doses** — Onset time varies by preparation; wait at least 30–60 minutes before redosing
-4. **Document effects** — Keep a log of dose, time, and effects to establish a reliable therapeutic window
-5. **Have a trusted person present** — Especially when trying a new preparation for the first time
-
-## See Also
-
-- [[blesching-cannabis-decarboxylation-and-raw-cannabis|Decarboxylation and Raw Cannabis]]
-- [[blesching-cannabis-modes-administration-pharmacokinetics|Modes of Administration and Pharmacokinetics]]
-- [[blesching-cannabis-forms-preparations-and-resin-products|Forms and Preparations]]
-- [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk|Safety Profile: Adverse Effects and Overdose Risk]]
-- [[blesching-cannabis-therapeutic-window-dosing|Therapeutic Window and Dosing]]

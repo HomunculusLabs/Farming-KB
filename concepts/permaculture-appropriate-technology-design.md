@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Permaculture Appropriate Technology Design
 Updated: 2026-04-18
@@ -15,7 +16,7 @@ complexity, and cultural fit. The concept draws from E.F. Schumacher's "Small
 is Beautiful" and Ivan Illich's critique of industrial mega-technology, applied
 through permaculture's design framework.
 ## The Principle of Appropriate Scale
-Permaculture design emphasises that technology should be appropriate to its
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] emphasises that technology should be appropriate to its
 scale of application. The "Slow is Sane" principle warns against rushing into
 complex, energy-intensive technological solutions when simpler approaches may
 be more resilient, maintainable, and effective. Holmgren argues that the
@@ -60,10 +61,10 @@ increases complexity, cost, and external dependence, so the design imperative
 is to meet needs at the lowest practical level of the hierarchy.
 ## Water and Sanitation Technology
 Water supply and sanitation offer clear examples of appropriate technology
-selection in permaculture. Rainwater harvesting using simple gutters and tanks
-meets domestic water needs with minimal technology. Composting toilets
+selection in permaculture. [[comparison-drip-irrigation-vs-rainwater-harvesting]] using simple gutters and tanks
+meets domestic water needs with minimal technology. [[comparison-composting-toilets-vs-greywater-systems-detailed]]
 transform human waste into safe soil amendment without water, energy, or
-centralised infrastructure. Greywater treatment through constructed wetlands
+centralised infrastructure. [[mollison-designers-greywater-treatment-reedbeds]] through [[comparison-constructed-wetlands-vs-bioswales]]
 or mulch basins purifies wastewater while producing biomass and irrigating
 landscape plants. These systems can be built from local materials, maintained
 by householders, and adapted to any climate or context.
@@ -73,7 +74,7 @@ solutions over mechanical ones. Cover crops replace tillage machinery by
 suppressing weeds, building soil, and managing nutrients. Integrated pest
 management uses biological controls, habitat manipulation, and resistant
 varieties rather than chemical inputs. Keyline ploughing, a single-pass
-cultivation technique, improves soil water infiltration without repeated
+[[boil-a-bag-mushroom-cultivation-technique]], improves soil water infiltration without repeated
 passage. Small-scale seed saving and plant breeding maintain crop diversity
 and adaptation to local conditions without dependence on commercial seed
 suppliers. Animal traction (oxen, horses) provides field power at a scale
@@ -87,12 +88,3 @@ and low-bandwidth communication tools are preferred over cloud-dependent,
 proprietary systems that require continuous internet connectivity and
 subscription payments. The principle remains the same: choose the simplest
 technology that meets the need, maintainable by the user community.
-## Related Concepts
-- permaculture-non-renewable-energy-investment
-- [[appropriate-technology]]
-- [[permaculture-design]]
-- [[irrigation-systems]]
-- small is beautiful economics
-- [[holmgren-wind-power-and-renewable-energy-debate]]
-- [[composting-toilet-systems]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]

@@ -88,36 +88,3 @@ bed, connecting to the broader framework of
 The interface between water and land is among the most biologically
 productive ecotones on Earth. Mollison devoted significant attention to
 designing pond edges with maximum productivity. A well-designed pond
-edge transitions from deep open water through emergent marsh plants,
-reed beds, moisture-loving perennials, and finally to dryland species.
-Each zone supports different plants and animals, and the total yield of
-the pond system is far greater than a simple open-water basin. The
-[[mollison-designers-pond-edge-configuration-and-yield-maximisation]]
-approach specifies gentle rather than steep slopes, irregular shorelines
-rather than circular ponds, and multiple depth zones to maximize the
-variety of habitats available.
-
-## Urban Edge Applications
-
-In urban permaculture, edge takes on additional significance because
-space is limited and every interface matters. Balconies are edges between
-indoor and outdoor environments. Rooftops are edges between building and
-sky. Street verges are edges between public and private space. The
-[[urban-permaculture-trees-water-cycling]] approach exploits all of these
-interfaces, recognizing that even small urban properties have many
-edges that can be designed for productivity. Vertical gardens, window
-boxes, and container plantings on steps and walls all increase the edge
-between growing space and built environment.
-
-## Measuring and Mapping Edge
-
-Mollison encouraged designers to analyze existing edge patterns on a
-site before making changes. The perimeter-to-area ratio is a useful
-metric: a long thin shape has more edge relative to its area than a
-compact square or circle. Zigzag, crenellated, and lobed boundaries
-increase edge length dramatically compared to straight lines. Mapping
-existing edges on a site plan, noting where species diversity and
-productivity are highest, helps the designer understand which edges are
-already functioning well and which could benefit from modification.
-This analytical approach to edge design connects to the broader
-[[permaculture-design]] methodology of observation before intervention.

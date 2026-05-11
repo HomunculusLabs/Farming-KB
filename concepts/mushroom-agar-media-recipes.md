@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom mycelium in the laboratory. They serve essential functions in mushroom cultivation: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
+Agar media are gelatinous, nutrient-rich substrates used for culturing [[antimicrobial-compounds-mushroom-mycelium]] in the laboratory. They serve [[plant-micronutrients-and-their-essential-functions]] [[contamination-prevention-in-mushroom-cultivation]]: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn]] production, and maintaining [[mushroom-genetics-strain-selection]]. Different formulations suit different purposes and species preferences.
 
 ## Basic Principles
 
@@ -30,7 +30,7 @@ All agar media share these components:
 
 ### Potato Dextrose Agar (PDA)
 
-The most widely used general-purpose mushroom culture medium. Suitable for most cultivated species.
+The most widely used general-purpose [[cultivator-contaminants-of-mushroom-culture]] medium. Suitable for most cultivated species.
 
 **Ingredients:**
 - 200-300 g potatoes (peeled, diced)
@@ -49,11 +49,11 @@ The most widely used general-purpose mushroom culture medium. Suitable for most 
 
 ### Malt Extract Agar (MEA)
 
-An excellent all-purpose medium, often preferred over PDA for its consistency and ease of preparation. Particularly good for [[basidiomycete-phylum-guide|basidiomycetes]].
+An excellent all-purpose medium, often preferred over PDA for its consistency and ease of preparation. Particularly good for [[basidiomycete-phylum-guide]].
 
 **Ingredients:**
 - 20 g malt extract powder (light malt extract, not dark)
-- 2 g yeast extract (optional but beneficial)
+- 2 g [[marmite-yeast-extract-straw-substrate]] (optional but beneficial)
 - 15-20 g agar powder
 - 1 liter distilled water
 
@@ -146,5 +146,5 @@ A richer medium for fastidious species:
 ## Pouring Plates
 
 1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
-2. Pour 20-25 mL into each sterile Petri dish inside a laminar flow hood
+2. Pour 20-25 mL into each sterile Petri dish inside a [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 3. Cover immediately and allow to solidify (15-30 minutes)

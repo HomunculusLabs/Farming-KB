@@ -11,7 +11,7 @@ sources: []
 ---
 # Inocybe calamistrata
 
-Inocybe calamistrata is a psychoactive mushroom in the family
+Inocybe calamistrata is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the family
 Inocybaceae, notable as one of the few Inocybe species confirmed
 to contain psilocybin. The genus Inocybe is large and taxonomically
 complex, containing over 300 described species, the vast majority
@@ -37,7 +37,7 @@ distinctive scaly or fibrillose cap surface.
   species with closely related fibrillose-capped Inocybe taxa
 - **Type locality:** Europe
 - **Notes:** The genus Inocybe is defined by a combination of
-  brown spore prints, fibrous or scaly caps, and the presence
+  brown [[macrofungal-documentation-photography-spore-prints]], fibrous or scaly caps, and the presence
   of metuloid cystidia (cystidia with thickened walls, often
   crystalline at the apex)
 ## Description
@@ -72,7 +72,7 @@ distinctive scaly or fibrillose cap surface.
 ### Spores and Microscopy
 | Feature | Description |
 |---|---|
-| Spore print | Dull brown to tobacco-brown |
+| [[spore-print]] | Dull brown to tobacco-brown |
 | Spore shape | Ellipsoid to bean-shaped (phaseoliform) |
 | Spore size | 8–12 x 5–7 µm |
 | Spore wall | Smooth to slightly roughened |
@@ -84,44 +84,7 @@ distinctive scaly or fibrillose cap surface.
 | Pileipellis | Cutis of repent hyphae with erect elements |
 ## Distribution and Habitat
 - **Geographic range:** Widely distributed across temperate
-  Europe; also reported from parts of North America and
+  Europe; also reported from parts [[berry-growing]] and
   Asia
 - **Substrate:** Terrestrial, mycorrhizal with coniferous
   trees (especially Pinus, Picea, and Abies species) and
-  occasionally with broadleaf trees
-- **Habitat:** Coniferous and mixed forests, often in mossy
-  areas or along forest paths; found on forest floors with
-  accumulated needle or [[dighton-fungal-decomposition-leaf-litter-dynamics]]
-- **Seasonality:** Late summer through autumn (August to
-  November in the Northern Hemisphere); fruits during
-  cooler, wetter periods
-- **Frequency:** Relatively uncommon within its range;
-  easily overlooked due to small size and drab coloration
-## Chemistry and Active Compounds
-Inocybe calamistrata is one of the few Inocybe species
-confirmed to contain psilocybin, a fact of considerable
-mycological and pharmacological interest:
-- **Psilocybin:** Detected in low to moderate concentrations;
-  significantly less potent than most Psilocybe species
-- **Psilocin:** Present in trace amounts, likely from
-  degradation of psilocybin in dried material
-- **Baeocystin:** Detected in some analytical studies
-- **WARNING — Muscarine:** Many Inocybe species contain
-  significant quantities of muscarine, a toxic alkaloid
-  that causes sweating, salivation, lacrimation, and
-  gastrointestinal distress. While I. calamistrata is
-  confirmed to contain psilocybin, the potential presence
-  of muscarine or other unidentified toxins means this
-  species should NOT be consumed. Accurate species-level
-  identification within Inocybe requires microscopic
-  examination
-- **Important caveat:** Potency data from herbarium specimens
-  stored for years significantly underestimates fresh
-  material potency
-## Similar Species
-| Species | Distinguishing Features |
-|---|---|
-| [[inocybe-haemacta]] | Reddish-brown cap; different cystidia |
-| [[archaeology-of-psychedelic-mushroom-use]]
-- [[inocybe-coelestium]]
-- [[panaeolus-subbalteatus]]

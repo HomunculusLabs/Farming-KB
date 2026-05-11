@@ -12,13 +12,13 @@ Fungal nitrogen mineralization is the process by which fungi convert organic
 nitrogen compounds in dead organic matter into inorganic forms (ammonium and
 nitrate) available for plant uptake. This process is central to terrestrial
 nitrogen cycling and is strongly influenced by the chemical quality of
-decomposing resources, fungal enzymatic capabilities, and environmental
+decomposing resources, [[fungal-enzymatic-capabilities]], and environmental
 conditions.
 
 ## The Decomposition-Mineralization Process
 
 During decomposition, fungal hyphae colonize plant resources and secrete
-extracellular enzymes that break down complex organic polymers. As enzymes
+[[fungal-extracellular-enzymes]] that break down complex organic polymers. As enzymes
 depolymerize organic matter, nitrogen is released from proteins, nucleic acids,
 chitin, and other nitrogen-containing compounds. Much of the mineralized
 nitrogen is immobilized by the fungal biomass and converted to growth, but the
@@ -28,7 +28,7 @@ biomass and the soil nutrient pool, giving rise to soil fertility as nutrients
 become available for plant growth.
 
 The timing and magnitude of net mineralization versus net immobilization is a
-critical determinant of nutrient availability to plants. During early
+critical determinant of [[ph-and-nutrient-availability-garden-soils]] to plants. During early
 decomposition of high C:N resources, fungi immobilize more nitrogen than they
 release, creating a temporary nitrogen sink. As the carbon supply is depleted
 and fungal biomass begins to turn over, net mineralization increases and
@@ -72,40 +72,19 @@ soils where fungi dominate the decomposer community.
 
 ## Environmental Regulators of Mineralization
 
-Temperature, moisture, and pH are the primary environmental factors regulating
+Temperature, moisture, and pH are the primary [[duggar-mushroom-environmental-factors-temperature-moisture-light]] regulating
 fungal nitrogen mineralization rates. Mineralization increases with temperature
 up to species-specific optima, typically between 20 and 30 degrees Celsius for
 most litter fungi. Moisture availability directly affects fungal metabolic
 activity, with mineralization rates declining sharply under drought conditions.
-Soil pH influences both enzyme activity and community composition, with acidic
+Soil pH influences both enzyme activity and [[core-endorhiza-bacterial-community-composition-cannabis]], with acidic
 soils generally supporting slower mineralization rates than neutral to alkaline
 soils.
 
 ## Mycorrhizal Contributions to Nitrogen Cycling
 
-Mycorrhizal fungi contribute to nitrogen cycling through several pathways.
+Mycorrhizal [[query-how-do-fungi-contribute-to-carbon-sequestration]] nitrogen cycling through several pathways.
 Ectomycorrhizal fungi produce proteases and other enzymes capable of accessing
 organic nitrogen sources directly, a process termed "proteolysis" that bypasses
 the mineralization-immobilization cycle. Some ectomycorrhizal species can use
 amino acids and small peptides as nitrogen sources, effectively competing with
-saprotrophic fungi and soil microbes for organic nitrogen. Arbuscular
-mycorrhizal fungi may enhance nitrogen mineralization indirectly by stimulating
-decomposer activity through increased belowground carbon allocation.
-
-## Nitrification and Fungal Roles
-
-While bacterial nitrification (ammonia oxidation to nitrate) is the dominant
-pathway in most soils, some fungi can also contribute to nitrification. Certain
-Ascomycetes and Basidiomycetes produce enzymes capable of oxidizing ammonia or
-organic nitrogen compounds to nitrate, though fungal nitrification rates are
-generally lower than bacterial rates. Heterotrophic nitrification by fungi may
-be significant in acidic forest soils where autotrophic nitrifying bacteria are
-less active.
-
-## See Also
-
-- [[fungal-decomposition-resource-quality-determinants]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
-- [[fungal-peat-decomposition-and-carbon-storage]]
-- [[fungal-ecosystem-processes-overview]]
-- [[dighton-fungal-decomposition-nutrient-cycling]]

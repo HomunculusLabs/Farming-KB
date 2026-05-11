@@ -25,11 +25,11 @@ created: 2026-04-28
 
 **Elsholtzia ciliata** (Thunb.) Hyl., commonly known as **Vietnamese balm**,
 **Chinese mosla**, or **creeping mint**, is an aromatic annual herb in the
-family Lamiaceae. Native to East and Southeast Asia, it is widely used as a
+family Lamiaceae. Native to East and [[psilocybe-southeast-asia-pacific]], it is widely used as a
 culinary herb, traditional medicine, and insect-repellent companion plant.
 
 The plant has a distinctive lemony-mint aroma when crushed and is naturalized
-in parts of Europe, [[psilocybin-north-america-pacific-northwest]], and South America following intentional
+in parts of Europe, [[psilocybin-north-america-pacific-northwest]], and [[guzman-psilocybin-mushrooms-south-america]] following intentional
 introduction for its medicinal and aromatic properties.
 
 ## Taxonomy and Morphology
@@ -46,7 +46,7 @@ of the mint family. Stems are green to purplish, densely pubescent with
 ciliate hairs, and branched in the upper portions.
 
 Leaves are opposite, ovate to lanceolate, 2–8 cm long and 1–4 cm wide, with
-serrate margins and a ciliate leaf edge. The upper leaf surface is green and
+serrate margins and a ciliate leaf edge. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is green and
 sparsely hairy; the lower surface is grayish-green with denser pubescence.
 
 Inflorescences are terminal, spike-like thyrses, 2–8 cm long, with densely
@@ -69,7 +69,7 @@ range of soil types including sandy loams and clay soils.
 
 Elevation range extends from sea level to approximately 2,500 m in its native
 Himalayan distribution. The plant is frost-sensitive and completes its life
-cycle within a single growing season in temperate climates.
+cycle within a single [[extending-growing-season]] [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## Traditional and Culinary Uses
 
@@ -88,53 +88,3 @@ abdominal pain, and diarrhea. The dried aerial parts are brewed as a tea or
 prepared as a medicinal decoction.
 
 ## Bioactive Compounds
-
-The essential oil of *E. ciliata* is chemically diverse and contributes to
-both its aroma and bioactivity. Major volatile constituents include:
-
-- **Elsholtzia ketone** (2-undecanone): Characteristic ketone responsible for
-  the lemony aroma, also a natural insect repellent.
-- **Thymol** and **carvacrol**: Phenolic monoterpenes with antimicrobial
-  activity against bacteria and fungi.
-- **Limonene**: A monoterpene contributing citrus notes and anti-inflammatory
-  effects.
-- **β-caryophyllene**: A sesquiterpene with anti-inflammatory and analgesic
-  properties.
-- **Linalool**: Contributes floral notes and calming effects.
-
-Non-volatile compounds include flavonoids (luteolin, apigenin, and their
-glycosides), phenolic acids (caffeic acid, rosmarinic acid), and tannins.
-Rosmarinic acid is a major contributor to the antioxidant activity of the
-herb.
-
-Antimicrobial assays have demonstrated activity against *Staphylococcus
-aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. Anti-inflammatory effects
-have been confirmed through inhibition of nitric oxide and pro-inflammatory
-cytokines in macrophage cell lines.
-
-## Permaculture Applications
-
-*E. ciliata* has several applications in permaculture and ecological design.
-Its strong aromatic oils provide natural insect deterrence, making it an
-effective companion plant when intercropped with vegetables susceptible to
-aphid and whitefly infestation.
-
-The plant attracts pollinators, particularly [[query-how-to-attract-native-bees-and-beneficial-insects]] wasps, during
-its late-summer flowering period. It serves as a ground cover in
-polyculture systems, suppressing weeds through rapid early growth and dense
-foliage.
-
-As a [[nutrient-dynamic-accumulator-reference]], the species extracts minerals from subsoil layers.
-Chopping and dropping the biomass returns these nutrients to the soil surface
-as green mulch. The plant also stabilizes soil on disturbed sites and
-contributes to [[permplant-willows-salix-erosion-control-fodder]] on slopes.
-
-## See Also
-
-- [[toona-ciliata]]
-
-- [[agastache-foeniculum]]
-- [[mentha-piperita]]
-- [[origanum-vulgare-entity]]
-- [[glycyrrhiza-glabra]]
-- [[hypericum-perforatum]]

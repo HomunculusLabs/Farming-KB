@@ -88,13 +88,3 @@ G. tsugae is primarily annual, though fruiting bodies can persist on
 wood for several months after spore production ceases.
 ### Similar Species
 - **[[stamets-reishi-ganoderma-lucidum-cultivation]]** — Harder, more woody context, preference for
-  hardwood hosts, deeper lacquered surface.
-- **Ganoderma oregonense** — Large annual of the Pacific Northwest on
-  conifers; distinguished by much larger size (up to 50 cm across).
-- **Ganoderma applanatum** — Perennial with brown upper surface and
-  white pore surface that bruises brown, on hardwood hosts.
-
-## See Also
-- [[tsuga-mertensiana]]
-- [[trametes-versicolor-entity]]
-- [[phellinus-linteus]]

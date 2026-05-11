@@ -5,6 +5,7 @@ tags: [plant-pathology, organic-gardening, disease-management, fungi, bacteria, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/concepts/bacterial-plant-diseases.md
   - ~/wiki/concepts/biodiversity-fungi-plant-pathogens.md
   - ~/wiki/concepts/biodiversity-of-fungi-plant-health-pathogens-biocontrol.md

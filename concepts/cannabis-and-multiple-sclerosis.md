@@ -12,16 +12,16 @@ sources:
 
 updated: 2026-04-18
 
-Multiple sclerosis (MS) is the condition with perhaps the most extensive clinical evidence for cannabis-based medicine. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents over 30 studies examining cannabinoids for spasticity, neuropathic pain, bladder dysfunction, and other MS symptoms. Sativex (THC:CBD oromucosal spray) was developed primarily for MS and is approved in many countries.
+Multiple sclerosis (MS) is the condition with perhaps the most extensive clinical evidence for cannabis-based medicine. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents over 30 studies examining cannabinoids for spasticity, [[blesching-cannabis-neuropathic-pain]], bladder dysfunction, and other MS symptoms. Sativex (THC:CBD oromucosal spray) was developed primarily for MS and is approved in many countries.
 
 ## Key Clinical Studies
 
 ### Spasticity
 **Collin et al. (2007)**: "Randomized controlled trial of cannabis-based medicine in spasticity caused by multiple sclerosis." European Journal of Neurology 14(3):290-96.
 
-**Pryce and Baker (2007)**: "Control of spasticity in a multiple sclerosis model is mediated by CB1, not CB2, cannabinoid receptors." British Journal of Pharmacology.
+**Pryce and Baker (2007)**: "Control of spasticity in a multiple sclerosis model is mediated by CB1, not CB2, [[cannabinoid-receptors-cb1-and-cb2]]." British Journal of Pharmacology.
 
-Spasticity relief is mediated through CB1 receptors, not CB2. This distinguishes MS spasticity from inflammatory conditions where CB2 dominates.
+Spasticity relief is mediated through CB1 receptors, not CB2. This distinguishes MS spasticity from [[cannabis-for-inflammatory-conditions]] where CB2 dominates.
 
 ### Neuropathic Pain
 **Rog et al. (2005)**: "Randomized, controlled trial of cannabis-based medicine in central pain in multiple sclerosis." Neurology 65(6):812-19.
@@ -85,34 +85,6 @@ The Sativex formulation is roughly 1:1 THC:CBD, delivered as an oromucosal spray
 Balanced THC:CBD strains at low doses. Start with 1-2 sprays of tincture sublingually. Harlequin (roughly 1:1) approximates the Sativex ratio.
 
 ### For Severe Spasticity
-Indica-dominant strains with higher THC for nighttime. Granddaddy Purple, Northern Lights.
+Indica-dominant strains with higher THC for nighttime. [[granddaddy-purple]], [[cannabis-strain-mango-haze-northern-lights-skunk-haze]].
 
 ### For Cognitive Clarity
-CBD-dominant strains to avoid THC-induced cognitive effects. ACDC, Cannatonic.
-
-## Practical Considerations
-
-### Starting Dose
-Begin very low and go slow. MS patients are often sensitive to THC. Start with CBD-only preparations, then add small amounts of THC.
-
-### Route of Administration
-- **Sublingual tinctures**: Fast onset, controllable dosing
-- **Oromucosal spray**: Most studied (Sativex model)
-- **Oral capsules**: Longer duration but delayed onset
-- **Vaporization**: Avoid smoking due to lung concerns
-
-### Drug Interactions
-MS patients often take multiple medications. Monitor for interactions with:
-- Disease-modifying drugs (interferons, glatiramer)
-- Muscle relaxants (baclofen, tizanidine)
-- Bladder medications
-
-## Related
-
-- [[cannabis-reefers-and-tincture-preparation]]
-
-- [[cannabis-for-multiple-sclerosis]] Topics
-
-- [[cannabis-for-neuropathic-pain]]
-- [[blesching-cannabis-neuropathic-pain]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

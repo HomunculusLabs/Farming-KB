@@ -1,5 +1,5 @@
 ---
-title: "Non-Causality and Rice Blast Disease"
+title: Fukuoka Textdoc Non Causality Rice Blast Disease
 created: 2026-04-28
 tags:
   - natural-farming
@@ -13,13 +13,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Non-Causality and Rice Blast Disease
 
-Masanobu Fukuoka uses rice blast disease as a central case study to
+[[masanobu-fukuoka]] uses rice blast disease as a central case study to
 illustrate his principle of non-causality, arguing that the scientific
 practice of identifying single causes for crop diseases is fundamentally
 misguided and that the chain of causation in nature is infinite and
@@ -87,54 +88,3 @@ capture the broader ecological reality in which the disease occurs in
 the field.
 
 ## The Futility of Symptomatic Treatment
-
-The scientific approach to rice blast treats symptoms rather than
-addressing the systemic conditions that give rise to disease
-susceptibility. By flooding paddy fields and breaking up soil with
-tillers until it hardens, farmers create conditions that make it
-impossible to raise crops without continued tilling, deluding themselves
-into thinking this is necessary and effective. The pesticide applied to
-control the disease may eliminate the immediate symptom while
-simultaneously weakening the plant's natural defenses, ensuring that the
-next outbreak will be more severe.
-
-Before investigating how well pesticides kill harmful insects and
-prevent crop losses, scientists should have studied how the natural
-ecosystem is destroyed by these very pesticides and why crop plants
-weaken. They should have investigated the causes underlying the
-disruption in natural harmony and the outbreak of pests before deciding
-whether pesticides are truly needed. The scientific community's failure
-to ask these prior questions represents, in Fukuoka's view, a
-fundamental inversion of proper inquiry.
-
-## The Principle of Non-Causality Applied
-
-Fukuoka's principle of non-causality states that when there is no
-front or back, no beginning or end, only what resembles a circle or
-sphere, one could say there is unity of [[fukuoka-textdoc-no-cause-and-effect-in-nature]], but one could
-equally claim that cause and effect do not exist. To the scientific mind
-trained to believe in causality, there most certainly is a way to combat
-rice blast bacteria. Yet when man perceives rice disease as a nuisance
-and takes the scientific approach of controlling it with powerful
-bactericides, he proceeds from his first error that causality exists to
-subsequent errors.
-
-## Implications for Modern Agriculture
-
-This framework challenges the entire edifice of modern plant
-pathology and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management. If causality in crop disease
-is an illusion created by the fragmented perspective of the scientific
-observer, then the entire enterprise of targeted chemical intervention
-rests on a false foundation. The practical implication is that farmers
-should focus their energy on creating conditions where crops grow
-vigorously enough to resist disease naturally, rather than engaging in
-an endless arms race against pathogens.
-
-## See Also
-
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]] for the broader
-philosophical framework
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-for cascading ecological effects of pesticide use
-- [[fukuoka-textdoc-errors-of-human-intellect]] for the
-epistemological critique underlying this argument

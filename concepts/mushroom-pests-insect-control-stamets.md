@@ -1,5 +1,5 @@
 ---
-title: Mushroom Pests and mushroom pests insect control stamets
+title: Mushroom Pests Insect Control Stamets
 created: 2026-04-26
 tags: [mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
 date: 2026-04-25
@@ -53,7 +53,7 @@ eggs at a time, attracted to the smell of newly pasteurized compost.
 ### Damage
 -   Larvae feed on [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] and compost, reducing it to a foul
     smelling, soggy mass.
--   Migration into [[gourmet-medicinal-mushroom-casing-layer-techniques]] coincides with first pin formation.
+-   Migration into [[gourmet-medicinal-mushroom-casing-layer-techniques]] coincides with first [[mushroom-pin-formation]].
 -   Symptoms: dead pinheads, loose mushroom connections, brown/black
     spots, "salt shaker pins" perforated by larval tunnels, browning at
     stem cut.
@@ -87,36 +87,3 @@ will **not lay eggs in total darkness** — a key control method.
 
 **Order:** Diptera | **Family:** Cecidomyiidae
 **Species:** *Heteropeza pygmaea*, *Mycophila speyeri*
-
-Less than 1 mm long — almost invisible to the naked eye. Capable of
-**paedogenesis** (mother larvae giving birth to daughter larvae). One
-mother larva can produce 14-20 daughter larvae in six days, causing rapid
-population explosions. Larvae pierce hyphae and suck out contents.
-
-## Leptocera Fly
-
-**Family:** Sphaeroceridae | **Species:** *Leptocera heteroneura*
-
-Large red compound eyes, yellow and black striped abdomen. Larvae
-resemble house fly maggots. Acts as a vector for disease organisms and
-bacterial infections; known carrier of mites.
-
-## Mushroom Mites
-
-Spider-like arthropods living in decomposing vegetable matter. Optimum
-breeding: moist and warm conditions. Certain mites can transform into a
-dispersal stage called **hypopus** -- flattened body with a sucker plate
-for attaching to moving objects (especially flies). The [[agaricus-brunnescens]]*.
--   **Red Pepper Mites** (*Pygmephorus* sp.) — 250 microns, swarming
-    masses on caps or casing. Associated with *Penicillium* and
-    *Trichoderma* molds, upon which they feed.
-
-### Mite Life Cycle (in days)
-
-| Stage      | At 75°F | At 60°F |
-|-----------|---------|---------|
-| Egg        |    6    |   11    |
-| Larva      |    2    |    8    |
-| Protonymph |    2    |    6    |
-
-See also: [[mushroom-cultivation-fundamentals]]

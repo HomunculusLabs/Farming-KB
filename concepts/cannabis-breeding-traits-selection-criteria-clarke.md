@@ -1,5 +1,5 @@
 ---
-title: "oner-cannabis-breeding-fundamentals Traits Selection Criteria"
+title: [[cannabis-breeding-basics]] Traits [[vic-high-cannabis-phenotype-selection-criteria]] Clarke
 created: 2026-04-28
 tags: [cannabis, breeding, traits, selection, resin, maturation, Clarke]
 date: 2026-04-25
@@ -88,60 +88,3 @@ Resistance to pest attack works in much the same way as disease
 resistance. It is common to find stands of Cannabis where one or a few
 plants are infested with insects while adjacent plants are untouched.
 Cannabinoid and terpenoid resins are most probably responsible for
-repelling insect attack, and levels of these vary from plant to plant.
-
-Cannabis has evolved defenses against insect attack in the form of
-resin-secreting glandular trichomes, which cover the reproductive and
-associated vegetative structures of mature plants. Insects, finding the
-resin disagreeable, rarely attack mature Cannabis flowers. However, they
-may strip the outer leaves because these develop fewer glandular
-trichomes and protective resins.
-
-## Resin Quality Traits
-
-[[cannabis-glandular-trichome-types-resin-production-clarke]] by the glandular trichomes varies. A strain may have
-many glandular trichomes but they may not secrete very much resin. Resin
-color also varies from strain to strain. Some strains produce fresh
-resins that are transparent amber instead of clear and colorless, and
-these are often some of the most psychoactive strains.
-
-Transparent resins, regardless of color, are a sign that the plant is
-actively carrying out resin biosynthesis. When biosynthesis ceases,
-resins turn opaque as cannabinoid and aromatic levels decline. Resin
-color is certainly an indication of the conditions inside the resin
-head, and this may prove to be another important criterion for breeding.
-
-## Resin Tenacity
-
-For years strains have been bred for hashish production. Hashish is
-formed from detached resin heads. It might be feasible to breed a strain
-with high resin production that gives up its covering of resin heads
-with only moderate shaking, rather than the customary flailing that also
-breaks up the plant.
-
-Strains that are bred for use as marijuana would benefit from extremely
-tenacious resin heads that would not fall off during packaging and
-shipment. This distinction between resin-release and resin-retention
-traits represents an important breeding decision.
-
-## Ease of Manicuring
-
-One of the most time-consuming aspects of commercial drug Cannabis
-production is the seemingly endless chore of manicuring, or removing
-the larger leaves from the floral clusters. Strains with fewer leaves
-obviously require less time to manicure. Long petioles on the leaves
-facilitate removal by hand with a small pair of scissors.
-
-## Taste and Aroma
-
-A combination of at least twenty aromatic terpenes (103 are known to
-occur in Cannabis) and other aromatic compounds control the aroma of
-each plant. The production of each aromatic compound may be influenced
-by many genes. Biosynthetic relationships between terpenes and
-cannabinoids have been firmly established. Indeed, cannabinoids are
-synthesized within the plant from terpene precursors.
-## See Also
-
-- [[cannabis-breeding-selection-principles-clarke]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-terpene-and-aroma-chemistry-clarke]]

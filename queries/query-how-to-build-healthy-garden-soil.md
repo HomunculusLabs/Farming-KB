@@ -74,6 +74,6 @@ A garden with abundant earthworm activity is a garden with healthy soil.
 
 ## Permaculture Soil Management
 
-The [[soil-food-web]] cycles nutrients naturally and suppresses disease
+The [[soil-foodweb]] cycles nutrients naturally and suppresses disease
 - [[cover-crop-guide-detailed]] explains how to select cover crops for specific soil-building goals
 - [[cannabis-living-soil-amendment-schedule]]

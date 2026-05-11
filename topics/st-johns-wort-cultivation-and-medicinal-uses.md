@@ -1,5 +1,5 @@
 ---
-title: "St. John's Wort [[calendula-cultivation-and-medicinal-uses]] Uses"
+title: St Johns Wort Cultivation And Medicinal Uses
 tags:
   - st-johns-wort
   - hypericum-perforatum

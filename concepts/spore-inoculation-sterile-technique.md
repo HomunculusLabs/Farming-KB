@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-spore-inoculation-technique]] and [[cultivator-sterile-technique-and-agar-culture]]
+title: Spore Inoculation Sterile Technique
 created: 2026-05-09
 updated: 2026-05-09
 type: concept

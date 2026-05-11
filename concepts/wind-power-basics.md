@@ -1,15 +1,15 @@
 ---
-title: Wind Power Basics
+title: [[holmgren-wind-power-and-renewable-energy-debate]] Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [energy, off-grid, homesteading, sustainability, engineering]
+tags: [energy, off-grid, [[homesteading]], sustainability, engineering]
 sources: []
 ---
 
 # Wind Power Basics
 
-Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements solar power effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
+Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements [[holmgren-trees-solar-power-plants-detailed]] effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
 
 ## Is Wind Right for Your Site?
 
@@ -25,7 +25,7 @@ Small-scale wind turbines convert kinetic energy from wind into electricity for 
 
 Before investing in wind power, assess your wind resource:
 
-1. **Check wind maps**: NREL (National Renewable Energy Laboratory) wind resource maps for the US provide initial estimates
+1. **Check wind [[maps]]**: NREL (National Renewable Energy Laboratory) wind resource maps for the US provide initial estimates
 2. **Install an anemometer**: Monitor wind speed at hub height for 12+ months
 3. **Observe vegetation**: Flagging (trees leaning in one direction) indicates consistent wind
 4. **Consider local topography**: Ridges, gaps, and open areas accelerate wind; valleys and forests reduce it

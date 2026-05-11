@@ -1,5 +1,5 @@
 ---
-title: Shimeji Cultivation Guide
+title: Shimeji Cultivation
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Shimeji Cultivation Guide (Hypsizygus tessulatus)
 
-Shimeji refers to a group of cultivated mushrooms in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
+Shimeji refers to a group of [[fungi-cultivated-mushrooms-pathogens-competitors]] in the genus Hypsizygus, primarily H. tessulatus (also known as H. marmoreus), which includes both brown (Buna-shimeji) and white (Hakata-shimeji or Bunapi) varieties. Shimeji is a premium mushroom in Japanese cuisine and one of the most commercially important cultivated mushrooms in East Asia.
 
 ## Overview
 
-Shimeji mushrooms are highly valued for their firm texture, nutty flavor, and excellent shelf life. They are among the top five cultivated mushrooms in Japan by production volume. The brown variety (Buna-shimeji) was traditionally wild-harvested before commercial cultivation techniques were developed in the 1970s. The white variety is a commercial cultivar selected for its appearance.
+Shimeji mushrooms are highly valued for their firm texture, nutty flavor, and excellent shelf life. They are among the top five cultivated mushrooms in Japan by production volume. The brown variety (Buna-shimeji) was traditionally wild-harvested before commercial [[cannabis-sativa-indoor-cultivation-techniques]] were developed in the 1970s. The white variety is a commercial cultivar selected for its appearance.
 
 ## Species and Varieties
 
@@ -83,7 +83,7 @@ Shimeji requires a cold shock to initiate fruiting, similar to nameko:
 1. Scrape or "brush" the surface of the colonized block to remove aerial mycelium and create an even pinning surface
 2. Apply cold shock: 37-45 F (3-7 C) for 3-5 days
 3. Some growers add a small amount of water (5-10 ml) to the block surface before cold shock
-4. Transfer to fruiting conditions after cold shock
+4. Transfer to [[fruiting-conditions]] after cold shock
 
 ### Fruiting Conditions
 
@@ -106,12 +106,12 @@ Shimeji requires a cold shock to initiate fruiting, similar to nameko:
 
 - Brown shimeji: slightly more robust, more intense flavor, slightly higher yield
 - White shimeji: milder flavor, more visually appealing for garnish, slightly longer shelf life
-- White variety requires stricter temperature control for color maintenance
+- White variety requires stricter [[hamilton-greenhouse-heating-and-temperature-control]] for color maintenance
 - Both have identical cultivation requirements
 
 ## Yield and Economics
 
-- Biological efficiency: 60-100% (fresh weight per dry substrate weight)
+- [[biological-efficiency]]: 60-100% (fresh weight per dry substrate weight)
 - Yield per bottle: 150-200g fresh
 - First flush: 70-80% of total yield
 - 2-3 flushes possible but first flush is primary commercially

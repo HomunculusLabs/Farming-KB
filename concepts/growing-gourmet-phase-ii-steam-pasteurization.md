@@ -9,14 +9,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, Paul Stamets, 1993, Chapter 18
+  - "raw/papers/mycelium-running-stamets.md"
+  - [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, [[paul-stamets]], 1993, Chapter 18
 type: concept
 created: 2026-04-28
 ---
 
 # Phase II Chamber Steam Pasteurization of Bulk Mushroom Substrates
 
-The Phase II chamber is a highly insulated room into which steam is injected for the purpose of pasteurizing bulk substrates such as wheat straw, cereal straws, and other [[fungi-in-composting-and-agricultural-waste-conversion]] products. Pasteurization selectively kills off populations of temperature-sensitive micro-organisms, leaving a resident population that presents little competition to mushroom mycelium for approximately two weeks, providing ample opportunity for full colonization.
+The Phase II chamber is a highly insulated room into which steam is injected for the purpose of pasteurizing [[mushroom-cultivation-bulk-substrates]] such as wheat straw, cereal straws, and other [[fungi-in-composting-and-agricultural-waste-conversion]] products. Pasteurization selectively kills off populations of temperature-sensitive micro-organisms, leaving a resident population that presents little competition to [[antimicrobial-compounds-mushroom-mycelium]] for approximately two weeks, providing ample opportunity for full colonization.
 
 ## Pasteurization vs. Sterilization
 
@@ -29,7 +30,7 @@ Understanding the distinction between these two treatments is fundamental:
 
 ### Basic Structure
 
-The classic Phase II room has a raised false floor, screened several inches above the true floor upon which steam pipes are situated. Key construction features include:
+The classic [[phase-ii-room-design]] has a raised false floor, screened several inches above the true floor upon which steam pipes are situated. Key construction features include:
 
 - **Walls and ceiling:** Well insulated with heat-resistant, waterproof materials
 - **Floor drain:** Fitted with a gate valve to prevent contamination from entering via the drain
@@ -74,7 +75,7 @@ Multiple thermometers are inserted in at least three locations:
 - **Mid probe:** At the center of the mass
 - **High probe:** Within 12 to 24 inches of the top surface
 
-These temperature probes should be monitored every 30 minutes to gather data for generating a pasteurization profile specific to each run. Over time, the temperature data from each successful batch are accumulated for establishing a baseline for future operations.
+These temperature probes should be monitored every 30 minutes to gather data for generating a pasteurization profile specific to each run. Over time, the [[coleman-double-cover-air-inflated-trial-temperature-data]] from each successful batch are accumulated for establishing a baseline for future operations.
 
 ### The Critical Danger: Thermal Momentum
 
@@ -87,55 +88,3 @@ The critical danger occurs when the thermal momentum of the hot outer shell over
 ### Cooling and Positive Pressurization
 
 When the steam output from the boiler is turned off, the Phase II box should be immediately positive-pressurized with contaminant-free air. By forcing air through a HEPA filter and ducting it directly into the chamber, contaminants are prevented from being sucked in as the mass cools.
-
-For a steam box measuring 10 x 10 x 10 ft, a 1/8 HP blower pushing 200 CFM through a 12 x 12 x 6 inch HEPA filter (99.99% efficiency at 0.3 microns) adequately positive-pressurizes the chamber. The substrate mass slowly cools in 12 to 24 hours to temperatures tolerable for inoculation, generally below 105 degrees F (38 degrees C).
-
-## Post-Pasteurization Handling
-
-### Cleaning and Sanitation
-
-Before the pasteurization chamber is opened, the inoculation area is intensively cleaned with a 10% bleach solution (approximately 3200 ppm chlorine). Venturi siphon mixers are ideal for drawing bleach directly into a hose line. Conveyor belts, counter tops, funnels, ceilings, and walls are all cleansed with torrents of chlorinated water.
-
-### Unloading Methods
-
-Several approaches exist for unloading the cooled substrate:
-
-- **Manual:** Straw is removed by hand with clean pitchforks onto stainless-steel tables for inoculation
-- **Conveyor systems:** Favored for substrate handling by many commercial growers
-- **Walking floor systems:** The largest Phase II chambers utilize a netted "walking floor" that pulls the substrate mass into two outwardly rotating, horizontally positioned, teethed cylinders, which separate and eject the straw onto conveyors leading to inoculation stations
-
-### Inoculation
-
-Once cooled, grain spawn is broadcast over the straw by hand (gloves should be worn) or via automated dispensing systems. The spawn and straw must be mixed thoroughly together and placed directly into vented containers — bags, columns, trays, or wire racks — each of which must allow the mycelium to respire during colonization.
-
-## Alternative Pasteurization Methods
-
-### Hot Water Bath (Submerged Pasteurization)
-
-Straw is stuffed into a wire basket and submerged in 160 degrees F (71 degrees C) water for 1 to 2 hours using stainless steel 55-gallon drums heated by propane burners. The basket is forcibly pushed down into the steaming water and held in place. After removal and draining, the straw cools and is inoculated.
-
-**Important note:** After two soakings, the hot water must be discarded. The discolored "straw tea" becomes toxic to mushroom mycelium after the third soaking. Interestingly, this tea is also toxic to most vegetation and can be used as a natural herbicide.
-
-### Hydrated Lime Bath
-
-Two to four pounds of hydrated lime (calcium hydroxide) per 50 gallons of water raises pH to 9.5 or higher, killing pH-sensitive competitor organisms. Chopped straw is immersed overnight, then drained and inoculated. [[cotter-oyster-mushroom-cultivation]] mycelia tolerate this alkaline environment better than most competitors, with pH naturally falling to suitable levels within a week as the mycelium secretes acids.
-
-### Bleach Bath
-
-Five to six cups of household bleach (5.25% sodium hypochlorite) per 50 gallons of water. Straw is submerged for 4 to 12 hours minimum, then drained and immediately inoculated.
-
-### Yeast Fermentation
-
-Beer yeast (Saccharomyces cerevisiae) is propagated in warm water with malt sugar for 2 to 3 days. Chopped straw is submerged in the yeast broth for up to 48 hours. The yeast absorbs readily available nutrients and generates alcohol and antibacterial by-products that kill competitors. These alternative methods generally do not achieve the high consistency of success (greater than 95%) typical with heat pasteurization.
-
-## Related Concepts
-
-- Cold Pasteurization of Bulk Substrates
-- [[stamets-biological-efficiency-yield]] and Yield
-
-## See Also
-
-- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
-- [[oyster-mushroom]]
-- [[mushroom-substrates]]
-- [[substrate-preparation]]

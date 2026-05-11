@@ -1,15 +1,16 @@
 ---
-title: Feminized cervantes-seed-production-storage
+title: Cervantes Feminized Seed Production
 created: 2026-04-26
 tags:
   - cannabis
-  - feminized seeds
-  - sex reversal
+  - [[cannabis-feminized-seeds]]
+  - [[cervantes-ethylene-hormonal-sex-reversal]]
   - breeding
   - ethylene
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -59,7 +60,7 @@ we ensure that some of the progeny will also have intersex tendencies.
 Using pollen from an intersex or hermaphrodite plant is an intentional
 selection for intersexuality -- like begets like.
 
-Some seed companies market "feminized seeds" produced by collecting
+Some [[spanish-cannabis-seed-companies]] market "feminized seeds" produced by collecting
 pollen from carefully selected, latent, stress-induced hermaphrodites,
 and using it to pollinate female plants. This process is time consuming
 and arduous, but yields mostly female plants when grown without stress.
@@ -87,38 +88,3 @@ offspring.
 6. Use this pollen to fertilize true female candidates
 
 The result is a true gynoecious population consisting entirely of
-female plants, without passing intersex tendencies to the offspring.
-
-## Commercial Hormone Products
-
-An American company, Hybritech, was the first to introduce an effective
-ready-to-use hormone treatment called elteXelite. This product is no
-longer available for public purchase. PG-Solutions developed and
-released Stamen-It!, a ready-to-use hormone therapy spray that is
-extremely effective in causing gender reversal of pistillate
-individuals. The formulation causes significant pollen production, even
-in the most reversal-resistant genotypes.
-
-Some hormone sprays are able to induce staminate flower formation but
-fail to produce viable pollen in any significant quantities. Effective
-products must both induce flower formation and produce viable, abundant
-pollen.
-
-## Ethylene and Sex Reversal
-
-The science behind sex reversal involves ethylene, a plant hormone
-involved in [[cannabis-sex-determination-floral-biology]]. Applying high enough concentrations of
-ethylene to staminate individuals in the flowering cycle results in the
-formation of pistils. Conversely, applying ethylene-inhibiting agents to
-pistillate individuals as they enter flowering results in the formation
-of stamens in place of pistils.
-
-Silver thiosulfate (STS) solutions work as ethylene inhibitors, blocking
-the plant's ethylene signaling pathway and triggering male flower
-development on female plants.
-
-## See Also
-
-- [[cervantes-sex-determination-pre-flowering]]
-- [[cervantes-backcross-breeding-methods]]
-- [[cervantes-seed-production-storage]]

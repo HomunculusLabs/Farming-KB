@@ -1,5 +1,5 @@
 ---
-title: green-cannabis-curing-drying-buds Jars
+title: Cannabis Curing Jars
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -35,7 +35,7 @@ Curing is essential for several reasons:
 ### Containers to Avoid
 
 - Ziploc and other plastic bags that are not airtight
-- Containers that allow air exchange
+- Containers that allow [[growing-gourmet-growing-room-ventilation-air-exchange]]
 - Some growers avoid plastic bins (Rubbermaid, Tupperware) saying plastic imparts undesirable flavor
 - However, for large quantities (10+ pounds), plastic bins may be the only practical option
 
@@ -52,7 +52,7 @@ Curing is essential for several reasons:
 Before placing buds in curing jars, they must be partially dried:
 
 1. After harvest, hang branches or place buds on screens for 5-7 days
-2. Ideal drying conditions: 65-75F (18-24C), 45-55% humidity, no light
+2. Ideal [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]: 65-75F (18-24C), 45-55% humidity, no light
 3. Buds should appear dry but still contain internal moisture
 4. Stems should start to snap but may not be fully dry
 
@@ -62,7 +62,7 @@ Before placing buds in curing jars, they must be partially dried:
 2. Gently pack as many buds into jars as possible without forcing or damaging them
 3. Leave containers in a cool, dry, dark place
 4. Check in 2-4 hours to see if buds have "sweated" moisture
-5. Gently squeeze buds to assess moisture (resin glands bruise easily)
+5. Gently squeeze buds to assess moisture ([[greg-green-trichomes-and-resin-glands]] bruise easily)
 
 ### Moisture Management
 
@@ -88,28 +88,3 @@ Once evenly dry, seal buds in airtight containers:
 
 - Vacuum seal jars for best preservation
 - Place in refrigerator for storage (refrigerators have ~65% humidity, so seal must be airtight)
-- Do not place in freezer (freezing draws moisture to surface, harming resin glands)
-- Leave in a cool, dark, dry place for a month or longer for best quality
-
-## Monitoring Moisture Content
-
-To track drying progress, weigh buds at harvest and during curing:
-
-- A bud weighing 10 grams (0.36 oz) wet will weigh about 2.5 grams (0.09 oz) when dry
-- In general, a dry bud weighs 75 percent less than its wet weight at harvest
-- Drying converts 75 percent or more of fresh plant material into water vapor and gases
-
-## Key Principles
-
-- Slow, even drying is critical; fast drying traps chlorophyll and pigments
-- Drying converts THC from non-psychoactive acidic form to psychoactive neutral form
-- The first week of curing most affects potency
-- Proper handling prevents resin gland damage
-- Friction and rough handling bruise and knock off resin glands
-
-## See Also
-
-- [[cannabis-quality-testing]]
-- [[cannabis-hashish-production]]
-- [[cannabis-testing-and-quality]]
-- [[cannabis-hashish-from-extracted-oil-techniques]]

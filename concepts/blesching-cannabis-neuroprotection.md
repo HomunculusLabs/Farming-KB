@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Neuroprotection"
+title: Blesching Cannabis Neuroprotection
 created: 2026-04-26
 tags: [cannabis, neuroprotection, cannabinoids, antioxidants, cbd]
 date: 2026-04-25
@@ -22,7 +22,7 @@ potential.
 
 ## U.S. Government Patent on Cannabinoid Antioxidants
 
-One of the most significant developments in cannabinoid neuroprotection
+One of the most significant developments in [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]]
 research is U.S. Patent #6,630,507, assigned to the U.S. Department of
 Health and Human Services. This patent, titled "Cannabinoids as
 Antioxidants and Neuroprotectants," was filed in 1999 and granted in 2003.
@@ -39,14 +39,14 @@ Key findings documented in the patent include:
   mechanisms independent of CB1/CB2 receptor activation
 
 This patent represents a rare acknowledgment by a government body of the
-therapeutic potential of cannabinoids, particularly notable given the
+[[metzner-ayahuasca-therapeutic-potential]] of cannabinoids, particularly notable given the
 scheduling status of cannabis.
 
 ## Mechanisms of Neuroprotection
 
 ### Antioxidant Activity
 
-- Reactive oxygen species (ROS) and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] are central
+- [[reactive-oxygen-species-and-oxidative-stress]] (ROS) and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] are central
   mechanisms in neuronal damage across numerous conditions
 - Cannabinoids, particularly CBD, directly scavenge free radicals and
   reduce oxidative stress markers
@@ -73,7 +73,7 @@ scheduling status of cannabis.
 - CB1 receptor activation on presynaptic terminals reduces excessive
   glutamate release
 - This prevents the intracellular calcium overload that triggers
-  apoptotic and necrotic cell death pathways
+  apoptotic and necrotic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] pathways
 - CBD also modulates NMDA and TRPV1 receptors involved in excitotoxicity
 
 ### Neurogenesis Promotion
@@ -88,53 +88,3 @@ scheduling status of cannabis.
 ## Evidence Base (4 Studies)
 
 The four studies reviewed by Blesching primarily involve preclinical models
-with preliminary human data:
-
-- Animal models of neurodegenerative disease consistently show reduced
-  neuronal loss with cannabinoid treatment
-- Small human pilot studies suggest potential cognitive benefits in
-  neurodegenerative populations
-- Observational studies of cannabis users show mixed but intriguing
-  results regarding long-term cognitive outcomes
-- The patent literature provides extensive mechanistic data supporting
-  neuroprotective claims
-
-## Applications in Specific Conditions
-
-The neuroprotective properties of cannabinoids have implications across
-multiple conditions reviewed in Blesching's work:
-
-- [[blesching-cannabis-alzheimers-disease]] - protection against
-  amyloid-beta toxicity and tau pathology
-- [[cannabis-for-epilepsy-and-seizure-disorders]] - protection against seizure-induced
-  neuronal damage
-
-## Cannabinoid Selection for Neuroprotection
-
-Different cannabinoids offer distinct neuroprotective profiles:
-
-- **CBD**: Strongest antioxidant profile, anti-inflammatory, non-psychoactive,
-  promotes neurogenesis. Best suited for long-term neuroprotective use
-- **THC**: Potent neuroprotectant at low doses, antioxidant properties,
-  but psychoactive effects limit chronic use at effective doses
-- **THCA**: The acidic precursor of THC shows promise as a neuroprotectant
-  without psychoactivity, though research is early
-- **CBG**: Early evidence suggests unique neuroprotective properties,
-  particularly in models of Huntington's disease
-
-## Future Directions
-
-The field of cannabinoid neuroprotection is rapidly evolving:
-- Large-scale [[mushroom-cancer-clinical-trials-overview]] are needed to validate preclinical findings
-- Optimal dosing, timing, and cannabinoid selection remain to be
-  established
-- Combination approaches pairing cannabinoids with conventional
-  neuroprotective agents may show synergistic benefits
-- Development of non-psychoactive cannabinoid formulations could
-  dramatically expand therapeutic accessibility
-
-## Key References
-
-Blesching, U. (2017). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic Books.
-U.S. Patent #6,630,507: "Cannabinoids as Antioxidants and Neuroprotectants."
-See Chapter on neurodegenerative conditions for full study citations.

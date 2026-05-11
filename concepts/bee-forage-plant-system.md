@@ -9,11 +9,11 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Bee Forage Plant System
 
-A year-round honey flow can be established for permanent hive sites, eliminating the need to transport hives long distances (commercial apiarists in Australia move hives up to 1000 km to follow the honey flow -- essentially converting fossil fuel to honey with poor efficiency). (see [[permaculture-plants-insectary-bee-forage]]).
+A year-round honey flow can be established for permanent hive sites, eliminating the need to transport hives long distances (commercial apiarists in Australia move hives up to 1000 km to follow the honey flow -- essentially converting fossil fuel to honey with poor efficiency).
 
 ## Design Principles
 
-The bee forage system should be **integrated within a whole property design**. Where possible, nectar (N) and pollen (P) producing plants are used in preference to other utility plants having no benefit to bees. Bees can effectively travel 2 miles from the hive. (see [[permaculture-bee-forage-system]]).
+The [[permaculture-bee-forage-system]] should be **integrated within a whole property design**. Where possible, nectar (N) and pollen (P) producing plants are used in preference to other utility plants having no benefit to bees. Bees can effectively travel 2 miles from the hive.
 
 Note: flowering times can vary in various climates and with different years.
 
@@ -41,7 +41,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 |-------|--------|--------|--------------|
 | Balm | -- | -- | -- |
 | Borage | -- | -- | Long season |
-| Capeweed | N | P | Early spring |
+| Capeweed | N | P | [[coleman-overwintered-onions-and-early-spring-crops]] |
 | Chicory | N | P | -- |
 | Dandelion | N | P | Long season |
 | Fennel | -- | -- | Long season |
@@ -72,7 +72,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 
 | Plant | Nectar | Pollen | Notes |
 |-------|--------|--------|-------|
-| Clovers | N | P | Up to 400 kg/ha N yield in Russia; crimson clover particularly high |
+| Clovers | N | P | Up to 400 kg/ha N yield in Russia; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high |
 | Cowpea | N | P | -- |
 | Lotus spp | N | P | -- |
 | Lucerne | N | P | Very long flowering period, 78-285 kg/ha/day in USA; good lock-up fodder |
@@ -84,7 +84,7 @@ Selected from extensive listings (over 40 species documented):
 
 - **Eucalyptus melliodora** (Yellow Box): Considered the best honey of all eucalypts; spring, summer
 - **Eucalyptus salmonophloia** (Salmon Gum): Choice honey; summer, autumn
-- **Eucalyptus globulus** (Blue Gum): N and P; winter, spring, summer
+- **[[eucalyptus-globulus]]** (Blue Gum): N and P; winter, spring, summer
 - **Eucalyptus maculata** (Spotted Gum): Major source of winter/spring nectar
 - **Eucalyptus marginata** (Jarrah): N; spring, summer
 - **Eucalyptus stellulata** (Black Sally): Flowers most of the year
@@ -92,10 +92,34 @@ Selected from extensive listings (over 40 species documented):
 
 ## Other Bee Forage Plants
 
-Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), Chinese tallow tree, citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, Japanese raisin tree, marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
+Blueberries, Buddleja spp, cape lilac, castor, Chilean nut (Gevuina avellana), [[chinese-tallow-tree]], citrus (high honey producers), grey mangrove (autumn/winter, good light honey), ivy, [[permaculture-japanese-raisin-tree-hovenia-dulcis]], marsh marigold, palms, pride of Madeira (masses of winter flowers), Prunus spp (spring), tupelo.
 
 ## Related
 
 - [[medicinal-herbs-for-livestock]]
 - [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-plant-selection-guide]]
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

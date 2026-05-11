@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Green Manure Guide

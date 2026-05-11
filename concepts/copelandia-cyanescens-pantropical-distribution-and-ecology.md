@@ -1,5 +1,5 @@
 ---
-title: Copelandia copelandia cyanescens pantropical distribution and ecology Distribution and Ecology
+title: Copelandia Cyanescens Pantropical Distribution And Ecology
 created: 2026-04-28
 tags:
   - mycology
@@ -12,14 +12,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
+  - Guzmán G, Allen JW, Gartz J (1998) A worldwide [[psilocybe-geographical-distribution-patterns]]
     of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept
 ---
 # Copelandia Cyanescens Pantropical Distribution and Ecology
 Copelandia cyanescens stands as the most cosmopolitan of all neurotropic
-fungal genera, rivaled only by [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] in its global tropical
+[[singh-key-fungal-genera-bioremediation]], rivaled only by [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] in its global tropical
 distribution. As a dung-inhabiting (coprophilous) species, C. cyanescens
 has achieved a pantropical distribution that spans virtually every tropical
 and subtropical region of the world.
@@ -66,7 +67,7 @@ C. cyanescens occurs widely in tropical South America:
 
 ### North America
 
-The species reaches the southern United States, primarily in Florida
+The species reaches the southern [[dmt-containing-plants-united-states-halpern]], primarily in Florida
 and the Gulf Coast states:
 - **Florida**: One of the most reliable locations in the continental
   United States, reported by Singer (1960a), Pollock (1976), Stamets
@@ -81,68 +82,9 @@ and the Gulf Coast states:
 ### Asia
 
 C. cyanescens has a broad Asian distribution:
-- **Southeast Asia**: Widely distributed in Thailand (Heim, 1978; Allen
+- **[[psilocybe-southeast-asia-pacific]]**: Widely distributed in Thailand (Heim, 1978; Allen
   and Merlin, 1992; Stijve, 1992, 1995; Gerhardt, 1996), Indonesia
   including Java, Sumatra, and Bali (Wasson, 1959a; Heim, 1960, 1978;
   Allen and Merlin, 1992a; Allen and Gartz, 1997), Cambodia (Heim, 1978),
   the Philippines (Singer, 1960a; Ola'h, 1969; Heim, 1978; Pollock, 1976;
   Weeks et al., 1979), Vietnam (Heim, 1956a, 1958a), and Sri Lanka
-  (Coomaraswamy, 1979; Singer, 1960a, 1969; Heim et al., 1966b, 1967;
-  Pollock, 1976; Pegler, 1986).
-- **Japan**: Reported by Hongo (1986) and Imazeki and Hongo (1987).
-
-- **India**: Confirmed by Bose (1920), Natarajan and Raman (1983), and
-  Gerhardt (1996).
-
-### Oceania and Pacific Islands
-
-- **Australia**: Confirmed by Pollock (1976), Southcott (1974), Allen
-  et al. (1991), Stijve (1992), Gerhardt (1996), and Gartz (1996).
-- **Tasmania**: Reported by Allen et al. (1991).
-
-- **New Zealand**: Present according to Allen et al. (1991).
-
-- **Fiji**: Reported by Ola'h (1969).
-
-- **Samoa**: Confirmed by Cox (1981) and Gartz (1996).
-
-- **Bonin Islands**: C. tropicalis reported by Hongo (1977a).
-
-- **Solomon Islands**: Not specifically C. cyanescens but related
-  species present.
-
-### Africa
-
-- **Zaire**: Confirmed by Gerhardt (1996).
-
-- **Tanzania**: C. tropicalis reported by Gerhardt (1996).
-
-- **Madagascar**: Heim et al. (1967), Pollock (1976), Heim (1978).
-
-- **Morocco**: C. bispora reported by Stamets (1996) and Weeks et al.
-  (1979).
-
-### Europe (Naturalized and Occasional)
-
-While not native to temperate Europe, C. cyanescens has been reported as
-a naturalized or introduced species:
-- **France**: Heim et al. (1966b), Pollock (1976), Chilton (1978),
-  Samorini (1989), Stamets (1996).
-- **Austria**: Stijve (1992), Gerhardt (1996).
-
-- **Spain**: Festi (1985), Moreno et al. (1986).
-
-- **Italy**: Pollock (1976), Chilton (1978), Festi (1985), Samorini
-  (1989, 1992).
-- **Switzerland**: Gerhardt (1996).
-
-## See Also
-
-- copelandia-genus
-- [[copelandia-genus-species-guide]]
-
-- [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)
-- Copelandia Panaeoloideae Neurotropic Fungi
-- Neurotropic Fungi Biogeographic Patterns
-- [[copelandia-cyanescens]]
-- [[neurotropic-fungi]]

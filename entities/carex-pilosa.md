@@ -12,8 +12,8 @@ sources:
   - Jermy, A.C. & Tutin, T.G. (1978). "Carex L." In: Flora Europaea, Vol. 5. Cambridge University Press.
   - Akeroyd, J.R. (1992). "Carex pilosa." In: Flora of Great Britain and Ireland, Vol. 5. CUP.
   - Ellmauer, T. & Mucina, L. (1993). "Carpinion betuli." In: Mucina, L. et al., Die Pflanzengesellschaften Österreichs, Teil I. Gustav Fischer.
-  - Pykälä, J. (2001). "Changes in the frequency of basidiomycete species in boreal forests." Mycological Research 105(11): 1350–1360.
-  - Ewald, J. (2003). "A contribution to the standardisation of monitoring in forest ecosystems." Environmental Monitoring and Assessment 89(1): 17–33.
+  - Pykälä, J. (2001). "Changes in the frequency of basidiomycete species in [[biodiversity-fungi-temperate-boreal-forests]]." Mycological Research 105(11): 1350–1360.
+  - Ewald, J. (2003). "A contribution to the standardisation of monitoring in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]." Environmental [[bioremediation-monitoring-and-assessment]] 89(1): 17–33.
 ---
 
 ## Overview
@@ -66,7 +66,7 @@ Elevation ranges from lowlands to approximately 1,200 m in the Carpathians and B
 
 ## Ecology
 
-Carex pilosa is a shade-tolerant species of the forest floor, active in early spring before full canopy closure.
+Carex pilosa is a shade-tolerant species of the [[fungal-ecology-forest-floor]], active in [[coleman-overwintered-onions-and-early-spring-crops]] before full canopy closure.
 
 Its tussock growth form creates microsites for seedling establishment of other herbaceous species.
 
@@ -86,33 +86,4 @@ In parts of the Carpathian region, dried sedge tussocks were historically used a
 
 The species has value as an indicator of ancient, undisturbed woodland communities.
 
-It is occasionally used in ecological restoration projects targeting oak-hornbeam forest reestablishment.
-
-No significant pharmacological activity has been documented for this species.
-
-## Cultivation
-
-Carex pilosa is rarely cultivated commercially but can be grown in shaded woodland gardens.
-
-It prefers partial to full shade and humus-rich, well-drained soils.
-
-Propagation is primarily by division of established tussocks in early spring or autumn.
-
-Seed germination is slow and irregular, often requiring cold stratification.
-
-The species is not widely available in the horticultural trade but can be sourced from specialist native-plant nurseries.
-
-Once established, plants are relatively low-maintenance and long-lived.
-
-## See Also
-
-- [[bidens-pilosa]]
-
-- [[carex-pendula]]
-- [[carex-sylvatica]]
-- [[carex-montana]]
-- [[carex-hirta]]
-- [[carex-flacca]]
-- [[carex-stricta]]
-- [[carex-nigra]]
-- [[carex-pensylvanica]]
+It is occasionally used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects targeting oak-hornbeam forest reestablishment.

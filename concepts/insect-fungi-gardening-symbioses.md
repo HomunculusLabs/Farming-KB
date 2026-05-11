@@ -58,11 +58,11 @@ The ant-fungus association alone is responsible for an estimated 20% of the phot
 
 Direct isolation from nests usually fails due to contamination by faster-growing fungi. Successful protocol:
 
-1. Place nest material, brood, and worker ants in a small, moist container (e.g., 250-ml plaster-bottom glass jar)
-2. Keep for approximately 3 days — workers reconstitute quasi-axenic nest conditions, greatly reducing contamination risk
+1. Place nest material, brood, and worker ants in a small, moist container (e.g., 250-ml plaster-bottom [[jarrold-glass-jar-spore-print-collection-drying]])
+2. Keep for approximately 3 days — workers reconstitute quasi-axenic nest conditions, greatly reducing [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
 3. Isolate fungi under clean-air conditions
 
-Alternative method for established laboratories: trap inseminated queens (queens) during nuptial flights using light traps. Queens of several genera carry mycelium pellets for starting new gardens. Maintain trapped queens in plaster-bottom jar with moist sandy soil 15 cm deep until fungus culture matures (4 days to 7 weeks depending on species). Use disposable plastic cups for easy sectioning of soil column to expose gallery with fungus culture. Nuptial flights occur only at certain periods (sometimes a single night), limiting this method. Some queens may not carry mycelia.
+Alternative method for established laboratories: trap inseminated queens (queens) during nuptial flights using light traps. Queens of several genera carry [[mycelium]] pellets for starting new gardens. Maintain trapped queens in plaster-bottom jar with moist sandy soil 15 cm deep until fungus culture matures (4 days to 7 weeks depending on species). Use disposable plastic cups for easy sectioning of soil column to expose gallery with fungus culture. Nuptial flights occur only at certain periods (sometimes a single night), limiting this method. Some queens may not carry mycelia.
 
 ### Cultivation and Storage
 
@@ -83,42 +83,8 @@ Attine nests usually maintained under quasi-axenic conditions (mostly single bas
 ### Culture Collections
 
 - Cornell University
-- National Fungus Collection (Systematic Botany and Mycology Laboratory)
+- National Fungus Collection (Systematic Botany and [[mycology]] Laboratory)
 - Department of Entomology, USNM, Smithsonian Institution (c/o Dr. T.R. Schultz)
 - UC Berkeley Department of Environmental Science, Policy, and Management (c/o Dr. I.H. Chapela)
 
 ## Termite-Fungus Gardens
-
-### Biology
-
-Termite gardening symbioses are restricted to Old World higher termites, primarily tribe Macrotermitinae (family Termitidae). Range: tropical Africa, extending eastward to southeastern Asia. Nests are large structures extending above ground. Within nests, termites construct a "comb" of fecal pellets on which the fungus grows (the fungus garden). Fungal associates are species of Termitomyces (Lepiotaceae), the same basidiomycete family as most attine ant fungi.
-
-### Life Cycle
-
-Most Termitomyces species form basidiocarps annually at the onset of rainy season. Fungal inoculum of some (but not all) species is dispersed in guts of alates (winged workers that establish new nests as reproductives). Some termite workers observed foraging on basidiocarps, but dispersal role is unknown. Termitomyces mushrooms are considered choice edibles; local people may compete with researchers for specimens.
-
-### Collection
-
-- Basidiocarps collected from termite nests at the right time of year
-- Fungus also collected from combs where spherules (masses of conidiophores and conidia) develop
-- Excavation of nest to reveal combs may take several days
-- Insects preserved in 70% alcohol; combs carried to laboratory in plastic bags (study immediately on arrival)
-
-### Cultivation
-
-Cultures established from basidiospores or from combs. Conidia from spherules generally do not germinate, but associated yeastlike cells do. Common media: oatmeal flakes, Sabouraud glucose, malt extract, and [[marmite-yeast-extract-straw-substrate]] agars.
-
-Culture from older combs is difficult because combs become overgrown by saprobic fungi. Termite secretions and nest conditions (high CO2) apparently deter saprobe growth. When combs are removed from nests, Xylaria quickly overgrows Termitomyces (Batra and Batra 1979). Both can grow in same combs in intact nests even without termites, but the Xylaria-Termitomyces relationship remains undetermined.
-
-## Wood Wasps and Fungi (Siricidae)
-
-Several genera of resupinate aphyllophoralean basidiomycetes have specific interactions with wood wasps (Siricidae). Wasps require fungi for nutrition, but fungi do not depend on wasps (they are also air-dispersed). Most invade conifers; one species (associated with Tremex) invades hardwoods. Sirex noctilio and its fungus Amylosterium areolatum have been introduced to New Zealand and Australia as serious pathogens of Pinus radiata.
-
-Fungal symbionts produce yeastlike oidia in mycangia (hypopleural organs at end of first abdominal segment of adult females). Oidia are mixed with oily wasp fluid, solidified into platelets, moved to intersegmental pouches, and deposited with eggs during oviposition. Identification usually based on wasp associate (Amylosterium with Tremex in Fagus; other associates with Sirex and Urocerus in conifers; Xeris has no fungal associate).
-
-## Related Topics
-
-- [[laboulbeniales-collection-mounting-identification]] — parasitic ascomycetes on arthropods
-- [[termite-ant-fungus-gardens]] — [[mollison-designers-termite-and-ant-mound-niche-gardening]] [[dighton-fungus-cultivation-ants-termites-bark-beetles]]
-- [[fungal-biodiversity-tropical-ecosystems]] — tropical fungal diversity
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

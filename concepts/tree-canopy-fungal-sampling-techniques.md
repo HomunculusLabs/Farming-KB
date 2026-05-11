@@ -1,5 +1,5 @@
 ---
-title: Tree tree canopy fungal sampling techniques Sampling — Techniques for Accessing Upper Forest
+title: Tree Canopy Fungal Sampling Techniques
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Tree Canopy Fungal Sampling — Techniques for Accessing Upper Forest
 
-To obtain a full species list of fungi in a forest, sampling must extend many meters above the ground. The upper canopy hosts unique microclimates and [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] distinct from those near the forest floor. This chapter reviews techniques for accessing and sampling tree canopies.
+To obtain a full species list of fungi in a forest, sampling must extend many meters above the ground. The upper canopy hosts unique microclimates and [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] distinct from those near the [[fungal-ecology-forest-floor]]. This chapter reviews techniques for accessing and sampling tree canopies.
 
 ## Why Canopy Sampling Matters
 
@@ -18,7 +18,7 @@ To obtain a full species list of fungi in a forest, sampling must extend many me
 - Upper canopy has more extreme light intensity, temperature, and moisture fluctuations
 - Some foliar fungi occur only in the upper canopy
 - Sooty molds can cover trunks to 9+ meters in some forests
-- [[sooty-molds-black-mildews-tropical-foliar-fungi]] abundant in upper canopy but rare in dense rain forest undergrowth
+- [[sooty-molds-black-mildews-tropical-foliar-fungi]] abundant in upper canopy but rare in dense [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]] undergrowth
 
 ## Canopy Access Techniques
 
@@ -43,7 +43,7 @@ To obtain a full species list of fungi in a forest, sampling must extend many me
 ## Sampling Design for Tree Epiphytes
 
 ### Pike et al. Method (Douglas Fir)
-Divided 450-year-old Pseudotsuga menziesii into six zones:
+Divided 450-year-old [[pseudotsuga-menziesii]] into six zones:
 1. Base
 2. Moist side of trunk
 3. Dry side of trunk
@@ -88,21 +88,3 @@ Found 74 lichen species and 32 bryophyte species. Techniques applicable to fungi
 - Save a small amount dried with ambient air for later culturing attempts
 
 ### Representative Sampling
-- Must sample all parts of each tree (different heights, orientations)
-- Trunk angle affects moisture and epiphyte flora
-- A single fungal colony per patch in black mildews; colonies can become confluent
-
-## Disease Incidence vs. Severity
-
-### Incidence (Percent Diseased)
-- Count diseased vs. healthy sampling units
-- Fewer samples required than severity
-- Useful for early epidemics and systemic infections
-
-### Severity (Percent Tissue Covered)
-- Measures proportion of tissue with symptoms
-- More samples required
-- Used for rusts, [[macrofungal-sampling-design-plots-transects]]
-- [[rust-fungi-biodiversity-life-cycles]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[fungal-biodiversity-in-extreme-environments]]

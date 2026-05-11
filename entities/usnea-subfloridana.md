@@ -88,31 +88,3 @@ The lichen's ability to accumulate atmospheric [[fungal-biosorption-of-heavy-met
 It is slow-growing, with annual elongation rates of 2–8 mm per year under optimal conditions.
 
 Reproduction occurs through both sexual means (ascospore dispersal) and vegetative propagation via soredia, with the latter being the dominant mode in most populations.
-
-Soredia are easily detached and dispersed by wind or animal movement, enabling colonisation of new trees and isolated woodland fragments.
-
-## Traditional Uses
-
-Usnea subfloridana has a long history of use in European traditional medicine, primarily as a wound dressing and antimicrobial agent.
-
-The usnic acid content provides antibacterial properties, and preparations of the lichen were applied externally to cuts, burns, and skin infections.
-
-In some European folk traditions, Usnea species were steeped in alcohol or boiled to extract the active compounds for treating respiratory ailments.
-
-The lichen has been used as a source of dye, producing yellow to gold colours when processed with an alum mordant.
-
-No modern pharmaceutical products derived from U. subfloridana are commercially available, though research into usnic acid derivatives continues.
-
-## See Also
-
-- [[usnea-barbata]]
-- [[usnea-lapponica]]
-- [[cladonia-rangiferina]]
-- [[xanthoria-parietina]]
-- [[flavoparmelia-caperata]]
-- [[anaptychia-ciliaris]]
-- [[cladonia-portentosa]]
-- [[betula-pendula]]
-- [[quercus-robur]]
-- forest ecology
-- biomonitoring

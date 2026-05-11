@@ -88,33 +88,3 @@ The absence of paranoia as a common side effect is particularly relevant for med
 ## Cultivation Recommendations
 
 Growers cultivating Chemdog × Amnesia should prioritize quality-focused techniques:
-
-- Train plants actively to manage stretching and maximize light penetration
-- Maintain close light proximity during vegetative growth to control height
-- Allow full 10-week flowering period for complete cannabinoid development
-- Consider outdoor cultivation in suitable climates for maximum yield potential
-- Focus on organic [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] to maximize flavor and terpene development
-- Provide adequate support during late flowering as resin-heavy buds add weight
-- Monitor nutrient levels carefully; the Chemdog lineage can be sensitive to overfeeding
-
----
-
-## Breeding Philosophy
-
-Ultimate Seeds' approach with Chemdog × Amnesia reflects a specific breeding philosophy that prioritizes combining proven, legendary parent strains rather than developing novel genetic combinations. By selecting two strains that are individually recognized as among the best in their respective categories, the breeder reduces the risk of undesirable trait expression while maximizing the probability of a successful cross.
-
-This approach contrasts with breeding programs that seek to create entirely new genetic profiles from untested combinations. The Chemdog × Amnesia cross demonstrates that combining two already-elite strains can produce offspring that rivals or exceeds either parent in overall quality, provided the parental traits are complementary rather than redundant.
-
----
-
-## Terpene Profile Considerations
-
-The flavor characteristics suggest a terpene profile that combines the high-caryophyllene, pungent Chemdog expression with the limonene and terpinolene-rich Amnesia profile. This combination produces a complex aromatic experience where spicy, peppery notes from caryophyllene interact with citrus and tropical fruit notes from limonene and terpinolene.
-
-The presence of myrcene from both parent lines likely contributes to the extended duration of effects, as myrcene is associated with longer-lasting experiences and enhanced cannabinoid absorption. The overall [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]] between the two parent strains may explain why the cross produces effects that are more than merely additive—the specific combination of terpenes appears to create a unique pharmacological profile.
-
-For growers and consumers seeking a premium, long-lasting experience from a cross of two legendary parent strains, Chemdog × Amnesia represents a carefully considered and successfully executed breeding project.
-
----
-
-*See also: oner-chemdawg-origin-legend, amnesia-haze-genetics-cultivation-potency*

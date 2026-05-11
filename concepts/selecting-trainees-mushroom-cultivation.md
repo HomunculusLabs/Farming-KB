@@ -1,5 +1,5 @@
 ---
-title: Selecting Trainees accessible-mushroom-cultivation-for-disabilities
+title: Selecting Trainees Mushroom Cultivation
 created: 2026-04-28
 tags: [trainee-selection, disability-inclusion, training-program,
   screening-criteria, mushroom-cultivation]
@@ -57,7 +57,7 @@ capable of taking care of themselves during the training period.
 ### 5. Commitment Verification
 
 Trainers must verify the commitment of both family and potential trainees
-regarding their will and readiness to set up a mushroom house following
+regarding their will and readiness to set up a [[fao-accessible-mushroom-house-design-disabilities]] following
 training. This includes assessing whether the candidate has the firm
 intention of establishing an enterprise and attends training voluntarily.
 
@@ -88,48 +88,3 @@ it is possible to become closer to trainees and better understand their
 physical, psychological, and emotional needs during training.
 
 ## Gender Considerations
-
-[[mushroom-cultivation]] can be done without major physical strength, offering
-good opportunities for women seeking supplemental income or a home-based
-business. Care must be taken for women attending training to have separate
-facilities and good security at night. During training, women can train
-alongside men and must be allowed to express their ideas. Past experience
-showed that women learn well and show a higher rate of success in their
-mushroom enterprises following training.
-
-## Common Problems and Selection Solutions
-
-Several recurring problems can be avoided by following recommended
-[[cannabis-breeding-traits-selection-criteria-clarke]]:
-
-- **Homesickness** - Select trainees who have previously left home
-  successfully for rehabilitation, training, or work.
-- **Never left family** - Consider training closer to home rather than
-  centralized in one far-away location.
-- **No prior rehabilitation** - People with multiple disabilities need
-  special attention and care; a family member could accompany them.
-- **Over-protected candidates** - Ensure voluntary attendance and access
-  to land for enterprise setup.
-- **Age extremes** - Ideal age range is 18 to 40, optimally 25 to 35.
-- **Multiple disabilities** - Special supervision may be needed, though
-  these individuals can perform simple repetitive tasks.
-- **Women's security** - Appropriate facilities are necessary to ensure
-  security and privacy.
-
-## Formal Procedures
-
-Application forms should capture background, experience, and capabilities.
-Announcements through media and distribution of forms should be supported
-by local officials. Applicants need a letter of recommendation from
-village or community officials confirming interest and commitment.
-Rehabilitation centers and Public Welfare offices should encourage
-disabled people to apply.
-
-## Related Concepts
-
-- [[motivational-sessions-trainees]]
-- [[buildings-tools-equipment-mushroom-cultivation]]
-
-## See Also
-
-- [[query-what-are-the-stages-of-mushroom-cultivation]]

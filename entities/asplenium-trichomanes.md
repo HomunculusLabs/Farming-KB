@@ -87,34 +87,3 @@ Propagation from spores is straightforward on a sterile peat-sand medium. Gameto
 In traditional European herbalism, the species was used as a diuretic, expectorant, and treatment for spleen disorders — applications derived directly from the Doctrine of Signatures. These uses have no modern pharmacological validation.
 
 The Doctrine of Signatures influenced European herbal medicine from the 16th to the 18th centuries, holding that a plant's physical appearance indicated its medicinal properties. A. trichomanes was prescribed for spleen ailments because the sori were thought to resemble splenic tissue.
-
-Modern phytochemical screening has identified flavonoids (including kaempferol and quercetin derivatives), phenolic acids, and small quantities of tannins in frond tissue. Antimicrobial activity against Gram-positive bacteria has been documented in laboratory studies of ethanolic extracts.
-
-The fern has limited commercial importance but serves as an indicator species for air quality monitoring. Its sensitivity to sulfur dioxide makes its presence on urban stonework a reliable marker of relatively clean air.
-
-During the Industrial Revolution, A. trichomanes disappeared from many urban centers due to severe air pollution. Its recolonization of European cities since the 1970s is cited as evidence of improving air quality following clean-air legislation.
-
-Conservation status is Least Concern globally, though some central European populations have declined due to the demolition of old stone walls and the application of herbicides to masonry.
-
-The restoration of historic stone walls and the growing popularity of wildlife-friendly gardening practices have benefited urban populations in recent decades. A. trichomanes is among the first fern species to recolonize newly constructed drystone walls in rural landscapes.
-
-## Related Species
-
-Several Asplenium species occupy similar lithophytic niches and are frequently confused with A. trichomanes in the field. A. ruta-muraria (wall-rue spleenwort) is smaller with wedge-shaped pinnae and prefers calcareous substrates exclusively.
-
-A. septentrionale (forked spleenwort) has narrow, undivided pinnae and a more northern distribution, occurring on acidic rocks in arctic and montane habitats. A. adiantum-nigrum (black spleenwort) is larger with triangular fronds and a preference for shaded acidic cliffs.
-
-The hybrid A. ×alternifolium (A. septentrionale × A. trichomanes) occurs where the two parent species grow in proximity. It has intermediate morphology with partly divided pinnae and is locally common in mountainous regions of Europe.
-
-## See Also
-
-- [[adiantum-capillus-veneris]]
-- [[adiantum-pedatum]]
-- [[dryopteris-filix-mas]]
-- [[pteridium-aquilinum]]
-- [[polypodium-vulgare]]
-- [[athyrium-filix-femina]]
-- [[pteris-vittata]]
-- [[blechnum-spicant]]
-- [[nephrolepis-exaltata]]
-- [[osmunda-regalis]]

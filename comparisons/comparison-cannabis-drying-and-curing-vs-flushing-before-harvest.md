@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: comparison
 tags: [cannabis, cultivation, mushroom-cultivation, processing]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
@@ -13,6 +14,7 @@ tags: [comparison, harvest, curing, flushing, post-harvest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 ---
 

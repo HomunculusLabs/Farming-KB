@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,13 +88,3 @@ chemical, and biological processes:
    and extended retention time reduce pathogen populations significantly.
 
 ## Effluent Polishing and Reuse
-
-After treatment in a [[comparison-greywater-vs-constructed-wetland]], effluent can be further polished
-through a sand filter or UV treatment and reused for irrigation, toilet
-flushing, or aquifer recharge. Mollison emphasizes that treated effluent
-should be used to irrigate non-food crops or fruit trees (where contact
-between effluent and edible portion is minimal) rather than [[growing-root-vegetables-guide]]
-or [[solomon-leafy-greens-growing]] eaten raw.
-
-The biomass produced by wetland plants (reeds, cattails) can be harvested
-for mulch, compost, or biofuel, closing the nutrient loop and returning

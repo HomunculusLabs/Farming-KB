@@ -1,5 +1,5 @@
 ---
-title: "cotter outdoor mushroom garden mulch beds"
+title: Cotter Outdoor Mushroom Garden Mulch Beds
 created: 2026-04-28
 tags: [mycology, mushroom-cultivation, wood-chip-bed, king-stropharia,
   outdoor, mulch]
@@ -10,10 +10,10 @@ type: concept
 ---
 # Outdoor Mushroom Garden Mulch Beds
 
-Outdoor mushroom cultivation has a long patent history, dating back
+[[outdoor-mushroom-cultivation]] has a long patent history, dating back
 thousands of years. It can be applied just about anywhere in the world
 using local trees and wood debris, making it an excellent starting
-point for beginning cultivators. Compared to indoor cultivation,
+point for beginning cultivators. Compared to [[cannabis-sativa-indoor-cultivation-techniques]],
 outdoor patches produce somewhat varied yields since you are at the
 mercy of fluctuating temperature and rainfall. However, outdoor beds
 can fruit several times a year for many years, require minimal labour
@@ -27,7 +27,7 @@ cultivation, and trenched or raft log cultivation.
 
 Wood chip beds are among the most accessible methods for outdoor
 mushroom cultivation. Many popular edible mushrooms thrive on wood
-chips and incorporate naturally into fruit and vegetable gardens.
+chips and incorporate naturally into fruit and [[maintaining-organic-matter-in-vegetable-gardens]].
 
 [[cotter-king-stropharia-cultivation]] (Stropharia rugoso-annulata) is
 particularly suitable to most climates and loves fresh-cut hardwood
@@ -68,9 +68,9 @@ forces.
 
 ## Log and Stump Cultivation
 
-Growing mushrooms on logs and stumps has been practised for hundreds of
+[[falconer-growing-mushrooms-in-sheds]] on logs and stumps has been practised for hundreds of
 years and is well-suited for shiitakes, maitakes, and oysters. Hardwood
-species in temperate climates are generally suitable, including invasive
+species [[query-how-to-grow-and-use-oca-in-temperate-climates]] are generally suitable, including invasive
 and non-native trees that can be simultaneously managed through
 harvest.
 
@@ -88,63 +88,3 @@ placed in their fruiting position. Stumps can take many years to fruit
 but may produce for a decade or more once established.
 
 ## Trenched and Raft Log Methods
-
-Many wood-preferential mushroom species fruit better on partially
-buried logs rather than stacked aboveground ones. Access to extra
-ground moisture and the microclimate created by leaf or straw covering
-triggers prolific fruiting preferred by reishi, nameko, black poplar,
-brick top, and maitake.
-
-Trenching means excavating a space half the log depth, placing logs in
-tightly, and backfilling soil between seams while leaving the upper
-bark exposed. Log raft cultivation is similar but aboveground: logs are
-laid in a row on a thin layer of wood chips or soil, seams are filled,
-and the bed is built up with substrate.
-
-Both methods typically produce for two to three years, so new beds
-should be built every two years for continuous harvest. Water monthly
-normally, misting daily when fruit appears.
-
-## Community Garden Integration
-
-In community gardens, mushrooms complement vegetable cultivation
-beautifully. Tall, sun-loving vegetable plants create shade that many
-mushroom species need, while mushroom mycelia unlock soil nutrients and
-encourage beneficial microbial activity. See
-[[cotter-mushroom-garden-design]] for detailed garden layout
-strategies.
-
-## Species Selection for Outdoor Beds
-
-Choosing the right species for your climate and substrate is critical
-to success. Here are proven performers for outdoor cultivation:
-
-- **King stropharia (Stropharia rugoso-annulata):** The easiest and
-  most reliable outdoor species. Thrives on hardwood chips, straw,
-  and cardboard. Wine-cap mushrooms are large, meaty, and excellent
-  for beginners. Fruits in spring and autumn.
-- **Oyster mushrooms (Pleurotus spp.):** Very aggressive colonisers
-  that fruit on a wide range of substrates including straw, coffee
-  grounds, paper, and wood chips. See
-  [[cotter-oyster-mushroom-cultivation]] for species-specific
-  parameters.
-- **Wine cap (Psilocybe azurescens group):** Some species in this
-  group naturalise readily in outdoor beds in coastal climates.
-- **Shiitake (Lentinula edodes):** Best on logs rather than chips.
-  See [[cotter-shiitake-cultivation]] for log inoculation methods.
-- **Reishi (Ganoderma spp.):** Medicinal species that thrives on
-  buried logs. See [[cotter-reishi-ganoderma-cultivation]] for
-  detailed cultivation guidance.
-- **Maitake (Grifola frondosa):** Prefers oak logs in shaded
-  locations; can take a year or more to establish but fruits
-  prolifically once mature.
-
-## Troubleshooting Common Problems
-
-Outdoor beds face challenges that indoor cultivation avoids. Knowing
-how to diagnose and address these issues improves success rates:
-
-- **Contamination by moulds:** Green Trichoderma mould indicates the
-  bed is too wet, too compacted, or was inoculated with insufficient
-  spawn. Improve drainage and add more spawn to affected areas.
-- **Failure to fruit:** Usually caused by insufficient moisture,

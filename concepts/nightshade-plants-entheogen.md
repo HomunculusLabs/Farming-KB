@@ -88,10 +88,3 @@ primarily to the bizarre psychoactivity they possess. Their similarity in
 effects is the result of similarity in chemical constitution. Their effects
 -- and those of scopolamine -- differ markedly from those of the usual natural
 hallucinogens found in other plant families.
-
-See also: [[amanita-muscaria-cultural-history]],
-richard [[richard-evans-schultes-updated]] updated, albert hofmann
-
-## See Also
-
-- [[duboisia-hopwoodii-pituri-ethnobotany]]

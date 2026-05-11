@@ -5,6 +5,7 @@ tags: [philosophy, god, nature, preface, road-back-to-nature]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka-human-intellect-barrier-to-nature-road-back|fukuoka.md"
 type: concept
 ---

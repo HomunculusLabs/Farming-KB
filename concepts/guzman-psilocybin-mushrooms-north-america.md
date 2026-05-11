@@ -33,7 +33,7 @@ and subtropical species.
 ## Canada
 
 ### Widely distributed species
-[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, [[bloomfield-ergot-claviceps-purpurea-ergotism]], Conocybe smithii,
+[[allegro-amanita-muscaria-properties-and-pharmacology]], A. pantherina, [[bloomfield-ergot-claviceps-purpurea-ergotism]], [[conocybe-smithii]],
 Gymnopilus aeruginosus, G. sapineus, [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]], Panaeolus
 castaneifolius, P. sphinctrinus, P. subbalteatus, Psilocybe quebecensis, P.
 semilanceata.
@@ -52,7 +52,7 @@ British Columbia is the Canadian hotspot for neurotropic fungi:
   G. spectabilis, Panaeolus sphinctrinus, P. subbalteatus.
 - **Ontario:** A. muscaria, Gymnopilus spectabilis, G. viridans, Panaeolina
   foenisecii, Psilocybe caerulipes, P. silvatica.
-- **Quebec:** A. muscaria, Gymnopilus viridans, Panaeolina foenisecii,
+- **Quebec:** A. muscaria, Gymnopilus viridans, [[panaeolina-foenisecii]],
   Panaeolus castaneifolius, P. subbalteatus, Psilocybe caerulipes, P.
   quebecensis (endemic), P. semilanceata.
 - **Nova Scotia:** A. muscaria, Gymnopilus spectabilis, P. semilanceata.
@@ -64,11 +64,11 @@ British Columbia is the Canadian hotspot for neurotropic fungi:
 ## United States
 
 ### Widely distributed species
-Amanita muscaria, A. pantherina, Boletus nigroviolaceus, Claviceps paspali,
-C. purpurea, C. rolfesii, C. tripsaci, Conocybe cyanopus, C. smithii,
-Copelandia cyanescens, Cordyceps capitata, C. ophioglossoides, Gerronema
+Amanita muscaria, A. pantherina, Boletus nigroviolaceus, [[claviceps-paspali]],
+C. purpurea, C. rolfesii, C. tripsaci, [[conocybe-cyanopus]], C. smithii,
+[[copelandia-cyanescens]], Cordyceps capitata, C. ophioglossoides, Gerronema
 fibula, Gymnopilus aeruginosus, G. liquiritiae, G. luteofolius, G. luteus,
-G. sapineus, G. spectabilis, G. validipes, Hypholoma popperianum, Inocybe
+G. sapineus, G. spectabilis, G. validipes, [[hypholoma-popperianum]], Inocybe
 aeruginascens, I. corydalina, Panaeolina foenisecii, Panaeolus
 castaneifolius, P. fimicola, P. papilionaceus, P. retirugis, P.
 sphinctrinus, P. subbalteatus, Pluteus atricapillus, P. salicinus,
@@ -88,57 +88,3 @@ fungi in North America, comparable to western Europe. Key species include:
 - **Psilocybe cyanescens** -- "Wavy caps," abundant in the PNW on wood chips
   and disturbed ground.
 - **Psilocybe cyanofibrillosa** -- Found in Washington and Oregon.
-- **Psilocybe pelliculosa** -- Common in conifer forests of the PNW.
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** -- "Liberty caps," widespread in PNW grasslands.
-- **Psilocybe stuntzii** -- "Blue bells," found on lawns and in forests.
-- **Psilocybe strictipes** -- Close relative of P. semilanceata.
-- **Conocybe cyanopus** -- Found in the PNW mountains.
-- **Gymnopilus spectabilis** -- "Big laughing gym," widespread.
-- **Mycena cyanorhizza** -- A rare neurotropic Mycena from Washington.
-
-### California
-Amanita muscaria, A. pantherina, Copelandia cyanescens, C. tropicalis,
-Cordyceps capitata, Gymnopilus aeruginosus, G. liquiritiae, G. luteofolius,
-G. sapineus, G. spectabilis, Hypholoma popperianum, Panaeolina foenisecii,
-Panaeolus fimicola, P. papilionaceus, P. retirugis, Psilocybe azurescens, P.
-baeocystis, P. cyanescens, P. cyanofibrillosa, P. maire, P. pelliculosa, P.
-semilanceata, P. stuntzii.
-
-### Florida and the Gulf Coast (tropical/subtropical)
-Florida has the richest subtropical mycobiota in the continental US:
-- **Copelandia chlorocystis, C. cyanescens, C. westii**
-- **Psilocybe caerulescens, P. cubensis, P. mammilata, P. tampanensis** (the
-  type specimen of P. tampanensis was collected near Tampa, Florida).
-- **Gymnopilus liquiritiae, G. luteofolius, G. sapineus**
-
-### Eastern and Central States
-The Appalachian region and eastern states have fewer Psilocybe species but
-richer Gymnopilus diversity:
-- **Psilocybe caerulipes** -- Found from New York to North Carolina in
-  hardwood forests.
-- **Psilocybe weilii** -- Known only from Georgia (described by Stamets).
-- **Gymnopilus spectabilis** -- Widespread in the eastern US.
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]** -- "Weed Panaeolus," widespread across the US.
-
-### Texas
-Amanita muscaria, A. pantherina, Copelandia cambodginiensis, Gymnopilus
-aeruginosus, G. luteofolius, G. luteoviridis, G. sapineus, G. spectabilis,
-Panaeolus sphinctrinus, P. subbalteatus, Pluteus atricapillus, Psilocybe
-cubensis.
-
-## Distribution patterns
-
-North American neurotropic fungi fall into three main distribution patterns:
-1. **Pacific Northwest temperate species** -- Psilocybe azurescens, P.
-   cyanescens, P. semilanceata, P. stuntzii, P. pelliculosa, concentrated in
-   WA, OR, BC.
-2. **Gulf Coast/southeastern tropical species** -- P. cubensis, P.
-   caerulescens, Copelandia spp., found from Texas to Florida.
-## See Also
-
-- [[guzman-psilocybin-mushrooms-south-america]]
-
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[gartz-global-psilocybin-mushroom-distribution]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[psychedelic-mushroom-art-and-iconography]]

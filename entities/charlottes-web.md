@@ -32,15 +32,15 @@ created: 2026-04-28
 
 ## Overview
 
-**Charlotte's Web** is a high-CBD, low-THC cannabis cultivar developed by the Stanley Brothers in Colorado, notable for its role in treating pediatric epilepsy.
+**Charlotte's Web** is a high-CBD, low-THC [[cannabis-cultivar-effects-soil-microbiome]] developed by the Stanley Brothers in Colorado, notable for its role in treating pediatric epilepsy.
 
 The strain gained international attention in 2013 following a CNN documentary featuring Charlotte Figi, a child with Dravet syndrome whose seizure frequency was dramatically reduced by its use.
 
 It is one of the most commercially significant CBD-dominant strains in history, spawning a major hemp-derived CBD product brand.
 
-Unlike most cannabis strains, Charlotte's Web was specifically bred to maximize CBD content while minimizing psychoactive THC.
+Unlike most [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]], Charlotte's Web was specifically bred to maximize CBD content while minimizing psychoactive THC.
 
-Its therapeutic profile has influenced medical cannabis legislation worldwide and contributed to the rescheduling of CBD-derived pharmaceuticals.
+Its [[cannabidiol-cbd-therapeutic-profile-blesching]] has influenced medical cannabis [[mushroom-legislation-worldwide]] and contributed to the rescheduling of CBD-derived pharmaceuticals.
 
 ## Lineage
 
@@ -74,9 +74,9 @@ The primary therapeutic application is in treatment-resistant epilepsy, particul
 
 In the landmark 2017 New England Journal of Medicine study (Devinsky et al.), pharmaceutical CBD derived from similar high-CBD genetics reduced seizure frequency by 39% in Dravet syndrome patients.
 
-Charlotte's Web has also been reported effective for anxiety disorders, [[cannabis-chronic-pain-management]], inflammation, sleep disturbances, and PTSD.
+Charlotte's Web has also been reported effective [[cannabis-for-anxiety-disorders]], [[cannabis-chronic-pain-management]], inflammation, sleep disturbances, and PTSD.
 
-Users consistently report no psychoactive intoxication at standard doses, making it suitable for children, elderly patients, and THC-sensitive individuals.
+Users consistently report no psychoactive intoxication at standard doses, making it suitable for children, [[cannabis-elderly-patients]], and THC-sensitive individuals.
 
 Common subjective effects include mild relaxation, improved mood, reduced anxiety, and enhanced sleep quality without cognitive impairment.
 
@@ -87,32 +87,3 @@ Common subjective effects include mild relaxation, improved mood, reduced anxiet
 Charlotte's Web is cultivated outdoors and in greenhouses across Colorado, Kentucky, and other hemp-producing US states.
 
 It grows as a tall, slender plant with indica-leaf morphology, reaching heights of 1.5–2.5 meters outdoors.
-
-Flowering time is approximately 8–9 weeks indoors, with outdoor harvest occurring in late September to early October at northern latitudes.
-
-The strain is moderately resistant to mold and pests but requires careful monitoring of CBD content to maintain compliance with hemp regulations.
-
-Yields are moderate, typically 300–500 g/m² indoors and 500–800 g per plant outdoors.
-
-Seed production is the primary commercial focus, as the brand sells hemp seeds and CBD extracts rather than dried flower.
-
-## Cultural and Commercial Impact
-
-Charlotte's Web is widely credited with catalyzing the modern CBD industry, which was valued at over $5 billion globally by 2024.
-
-The Stanley Brothers' company, CW Hemp (now Charlotte's Web Inc.), became one of the first publicly traded CBD companies on the NASDAQ in 2021.
-
-The strain's story was instrumental in shifting public perception of cannabis from a recreational drug to a legitimate medicine.
-
-Legislation inspired by the Charlotte Figi case includes Florida's "Charlotte's Web Law" (2014) and similar compassionate-use bills in over a dozen US states.
-
-The documentary "Weed" by Dr. Sanjay Gupta, which first aired on CNN in August 2013, reached an estimated 4.3 million viewers and was pivotal in mainstream acceptance.
-
-## See Also
-
-- cannabidiol
-- [[harlequin]]
-- [[white-widow-entity]]
-- [[piperine]]
-- [[berberine]]
-- ocimum-sanctum

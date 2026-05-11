@@ -1,5 +1,5 @@
 ---
-title: "Compost Substrate Preparation with Manure for Mushroom Cultivation"
+title: Cotter Compost Substrate Preparation Manure Mushroom Cultivation
 created: 2026-04-28
 tags:
   - mushroom-cultivation
@@ -16,8 +16,8 @@ type: concept
 
 # Compost Substrate Preparation with Manure for Mushroom Cultivation
 
-Compost substrates enriched with manure provide an excellent growing medium for
-several mushroom species. [[coprinus-comatus-cultivation]]), and blewit (clitocybe nuda) all thrive on
+[[mushroom-compost-substrates]] enriched with manure provide an excellent [[cervantes-green-algae-growing-medium]] for
+several mushroom species. [[coprinus-comatus-cultivation]]), and blewit ([[clitocybe-nuda]]) all thrive on
 manure-based compost. The key is creating a complex but digestible matrix of
 organic debris that fungi can colonize effectively.
 
@@ -45,7 +45,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,34 +87,3 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## Merged: Mushroom Substrate Supplementation
-
----
-
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapters III, XI
-Updated: 2026-04-18
-## See Also
-- [[coprinus-atrementarius-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]
-- [[mucor-racemosus-entity-the-mushroom-cultivator]]
-- [[mycogone-perniciosa-entity-the-mushroom-cultivator]]
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]

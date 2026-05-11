@@ -91,5 +91,5 @@ biology, making JMS the more strategically important input over time.
 The most effective JADAM practitioners use JNP and JMS together as complementary
 inputs in an [[korean-natural-farming]]
 - [[ultra-low-cost-jadam-natural-pesticide-jnp]]
-- [[soil-food-web]]
+- [[soil-foodweb]]
 - composting and soil biology

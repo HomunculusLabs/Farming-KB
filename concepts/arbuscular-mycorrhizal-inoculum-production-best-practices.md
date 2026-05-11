@@ -1,5 +1,5 @@
 ---
-title: Arbmycorrhizal-inoculum-productionoduction [[knf-imo-diversity-and-best-practices]]
+title: Arbuscular Mycorrhizal Inoculum Production Best Practices
 created: 2026-04-17
 updated: 2026-04-17
 type: concept

@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Fukuoka The One-Straw Revolution Final Chapter
 
@@ -86,15 +87,3 @@ Fukuoka's final message is that natural farming is not merely an agricultural te
 - mollison-soil-improvement-and-rehabilitation -- Mollison's no-till methods building on Fukuoka
 - [[fukuoka-rice-barley-dual-culture]] -- the practical method
 - [[fukuoka-desert-reclamation-projects]] -- the greenbelt movement
-
-Fukuoka's influence on subsequent ecological thought extends well beyond permaculture. His insistence on the sufficiency of natural processes anticipates the "rewilding" movement in [[mycelium-running-conservation-biology-and-fungi]], and his [[fukuoka-critique-of-scientific-agriculture]] reductionism parallels arguments made by environmental philosophers from Arne Naess to Bruno Latour. The one-straw revolution remains, after nearly fifty years, one of the most compelling articulations of an ecological worldview that refuses to separate the practical from the philosophical.
-
-## Fukuoka's Enduring Message
-
-Fukuoka's final chapter ends not with a prescription but with an invitation: to see the world differently, to trust natural processes, and to find sufficiency in simplicity. The one-straw revolution he proposes is ultimately about perception -- learning to see that nature already provides abundantly when we stop interfering. This message has resonated with successive generations of farmers, gardeners, and environmental thinkers, from the permaculture pioneers of the 1970s to today's regenerative agriculture advocates. Fukuoka's insistence that "there is no time for the farmer to read a book or listen to the radio" -- that the farm itself is the only true teacher -- challenges the information-heavy approach of modern sustainable agriculture and returns the focus to direct observation of natural systems.
-
-The challenge of the one-straw revolution, as Fukuoka presents it in his final pages, is not primarily agricultural but existential. It asks each reader to consider: what would it mean to stop managing nature and instead participate in it? What would it mean to produce food through relationship rather than control? These questions have no easy answers, and Fukuoka does not pretend otherwise. What he offers instead is a lifetime of evidence that the attempt itself -- the practice of natural farming -- generates its own understanding, its own rewards, and its own form of wisdom that no book can convey.
-
-His later work -- particularly the global "greenbelt" movement he initiated, planting encircling belts of trees and vegetation to revegetate deserts and degraded lands around the world -- demonstrates that his philosophy was never merely theoretical. Projects in India, Africa, the Philippines, and elsewhere showed that natural [[natural-farming-principles-fukuoka]] could be applied across radically different climates and cultures. Fukuoka's final legacy is the proof that a philosophy rooted in non-intervention can generate extraordinary practical results: forests restored where deserts stood, soils rebuilt without imported amendments, and communities nourished by land that industrial agriculture had declared dead. The one-straw revolution, in the end, was never about straw at all -- it was about learning to trust the intelligence of living systems.
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[fukuoka-road-to-natural-farming]]

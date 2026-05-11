@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Yeomans, P.A. "Water for Every Farm: A Practical Irrigation Plan for Every Australian Property." 1954.
   - Yeomans, Allan. "The Keyline Plan." Keyline Publishing, 2008.
   - Mollison, Bill. "Permaculture: A Designers' Manual." Tagari Publications, 1988.

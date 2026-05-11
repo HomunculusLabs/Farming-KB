@@ -15,7 +15,7 @@ sources:
   - Hay, C.H. (1979). "Some aspects of the biology of Durvillaea antarctica (Chamisso) Hariot." PhD thesis, University of Canterbury.
   - Fraser, C.I. et al. (2012). "Rafting by bull kelp." Journal of the Royal Society of New Zealand, 42, 1-12.
   - Collantes, G. et al. (2002). "Studies in the genus Durvillaea." Gayana Botánica, 59, 53-58.
-  - Bischoff-Bäsmann, B. & Wiencke, C. (1996). "Temperature tolerance of Durvillaea antarctica." Polar Biology, 16, 237-242.
+  - Bischoff-Bäsmann, B. & Wiencke, C. (1996). "[[mycorrhizal-drought-and-temperature-tolerance]] of Durvillaea antarctica." Polar Biology, 16, 237-242.
 ---
 
 ## Overview
@@ -52,7 +52,7 @@ D. antarctica is exceptionally tolerant of desiccation and wave stress. Its flex
 
 D. antarctica contains significant quantities of fucoidan, a sulfated polysaccharide with reported anticoagulant, antiviral, and immunomodulatory activities. The fucoidan from D. antarctica has a distinctive composition with high sulfate content relative to other brown algae.
 
-The species also accumulates iodine, bromine, and various trace minerals concentrated from seawater. Polyphenolic compounds (phlorotannins) serve both as chemical defenses against herbivores and as UV-absorbing sunscreens.
+The species also accumulates iodine, bromine, and various [[dynamic-accumulator-plants-trace-minerals]] concentrated from seawater. Polyphenolic compounds (phlorotannins) serve both as chemical defenses against herbivores and as UV-absorbing sunscreens.
 
 Extracts have demonstrated antibacterial activity against marine pathogenic bacteria and antioxidant capacity in in vitro assays. The alginate content is moderate (20–30% of dry weight), with a high mannuronic acid ratio.
 
@@ -76,7 +76,7 @@ The species is investigated as a source of fucoidan for nutraceutical and pharma
 
 Direct cultivation of D. antarctica has proven challenging due to its fucalean [[bloomfield-fungal-life-cycle-spiral-versus-circle]], which lacks a free-living microscopic phase. Unlike kelps with alternation of generations, fucales produce gametes directly from the thallus, complicating hatchery-based propagation.
 
-Experimental outplanting of wild-collected juveniles onto artificial substrates has shown promise in Chile. Rope-culture methods adapted from Macrocystis cultivation have achieved modest growth rates but face high mortality from wave damage.
+Experimental outplanting of wild-collected juveniles onto artificial substrates has shown promise in Chile. Rope-culture methods adapted from Macrocystis cultivation have achieved modest [[coleman-sunlight-and-winter-crop-growth-rates]] but face high mortality from wave damage.
 
 Indirect cultivation via spore settlement on seeded ropes has been attempted. Sporophyte development is slow compared to laminarialean kelps, and the species' preference for high-energy environments makes farm [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]] critical.
 
@@ -84,33 +84,6 @@ Indirect cultivation via spore settlement on seeded ropes has been attempted. Sp
 
 The buoyant honeycomb structure of D. antarctica enables long-distance oceanic rafting. Detached fronds have been documented floating for periods exceeding 6 months and traveling distances of thousands of kilometers.
 
-Genetic studies using microsatellite markers have confirmed that rafting facilitates gene flow between distant populations, including across the Drake Passage between South America and Antarctica. This has significant implications for biogeographic connectivity in the Southern Ocean.
+Genetic studies using microsatellite markers have confirmed that rafting facilitates gene flow between distant populations, including across the Drake Passage between [[guzman-psilocybin-mushrooms-south-america]] and Antarctica. This has significant implications for biogeographic connectivity in the Southern Ocean.
 
 Rafted fronds carry diverse assemblages of associated organisms, functioning as mobile habitats. Non-native species have been introduced to new regions via D. antarctica rafts, making the species a vector for biological invasions.
-
-## Related Species
-
-The genus Durvillaea contains approximately seven recognized species. D. willana is a New Zealand endemic that lacks the honeycomb structure and is found in the subtidal zone.
-
-D. potatorum from southeastern Australia is smaller and commercially harvested for alginate extraction. D. incurvata occurs along the Chilean coast and can hybridize with D. antarctica in zones of range overlap.
-
-Taxonomic revision of the genus is ongoing, with molecular phylogenetics revealing cryptic species complexes within what was previously considered a single widespread species.
-
-## Conservation Status
-
-D. antarctica faces increasing pressure from [[dighton-fungi-climate-change-feedback]], overharvesting, and habitat degradation along parts of its range. Sea surface warming has been linked to range contraction at the northern edges of its distribution in Chile.
-
-The 2015–2016 El Niño event caused widespread die-offs of bull kelp beds in northern Chile, with recovery proceeding slowly. Marine heatwaves are projected to increase in frequency and intensity under climate change scenarios.
-
-Harvesting regulations in Chile include minimum size limits and seasonal closures, but enforcement is inconsistent. In New Zealand, the species is not commercially harvested at scale, but coastal development threatens key habitat areas.
-
-## See Also
-
-- [[laminaria-digitata]]
-- [[eisenia-bicyclis]]
-- [[ulva-lactuca]]
-- [[sargassum-fusiforme]]
-- [[grateloupia-turuturu]]
-- [[sargassum-muticum]]
-- [[gelidium-amansii]]
-- [[dictyota-dichotoma]]

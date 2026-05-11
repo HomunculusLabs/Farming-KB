@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - mycelium-running-stamets.md
 type: concept
 ---
@@ -87,10 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-
-- [[mycelium-digestive-membrane-information-network]]
-- [[mycelial-networks]]
-- [[natural-intelligence]]
-- [[mycelium-network-architecture]]
-- [[mycelium-as-network-organism]]

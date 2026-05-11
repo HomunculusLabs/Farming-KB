@@ -14,7 +14,7 @@ sources:
   - Li, H.B. & Jiang, Y. (2004). "Evaluation of antioxidant activity of Scutellaria indica." Food Chemistry, 87(3), 447-452.
   - Zhang, J. et al. (2011). "Anti-inflammatory flavonoids from Scutellaria indica." Fitoterapia, 82(6), 813-818.
   - Kim, H. et al. (2009). "Neuroprotective effects of Scutellaria indica on neuronal cell death." Journal of Ethnopharmacology, 126(2), 265-272.
-  - Sun, Y. et al. (2015). "Chemical constituents of Scutellaria indica and their biological activities." Natural Product Research, 29(22), 2093-2097.
+  - Sun, Y. et al. (2015). "[[guzman-magic-mushrooms-chemical-constituents]] of Scutellaria indica and their biological activities." Natural Product Research, 29(22), 2093-2097.
 ---
 
 ## Overview
@@ -76,41 +76,14 @@ Research on Scutellaria indica has demonstrated several pharmacological activiti
 
 **Anti-inflammatory activity** is among the best-documented properties. Ethanolic and aqueous extracts suppress production of pro-inflammatory mediators including NO, TNF-α, IL-6, and PGE2 in LPS-stimulated macrophage cell lines.
 
-The flavonoids apigenin and luteolin are primarily responsible for this activity, acting through inhibition of NF-κB and MAPK signaling pathways. Wogonin contributes additional anti-inflammatory effects through COX-2 suppression.
+The flavonoids apigenin and luteolin are primarily responsible for this activity, acting through inhibition of NF-κB and MAPK [[plant-signaling-pathways]]. Wogonin contributes additional anti-inflammatory effects through COX-2 suppression.
 
 **Antioxidant activity** has been consistently demonstrated across multiple assay systems. S. indica extracts show potent free radical scavenging activity against DPPH, ABTS, and hydroxyl radicals, with activity comparable to standard antioxidants.
 
-**Neuroprotective effects** have been observed in neuronal cell culture models. Extracts protect against glutamate-induced excitotoxicity, reduce oxidative stress markers, and inhibit amyloid-β aggregation in vitro.
+**Neuroprotective effects** have been observed in neuronal cell [[mckenna-partnership-dominator-culture-models]]. Extracts protect against glutamate-induced excitotoxicity, reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers, and inhibit amyloid-β aggregation in vitro.
 
 Hepatoprotective activity has been reported in rodent models of carbon tetrachloride-induced liver injury. Pretreatment with S. indica extract significantly reduced serum transaminase levels and hepatic lipid peroxidation.
 
-Antimicrobial activity against selected Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis) has been documented, though the extract shows limited activity against Gram-negative organisms and fungi.
+Antimicrobial activity against selected Gram-positive bacteria ([[staphylococcus-aureus]], [[bacillus-subtilis]]) has been documented, though the extract shows limited activity against Gram-negative organisms and fungi.
 
 Preliminary antitumor screening has shown moderate cytotoxicity against several human cancer cell lines. However, the anticancer activity is significantly weaker than that of S. barbata, and this application has not been pursued in clinical settings.
-
-## Traditional Medicine
-
-In Chinese traditional medicine, Scutellaria indica is sometimes used as a substitute or regional alternative to S. baicalensis (Huang Qin), though it is considered less potent. It is classified as bitter and cold, entering the Lung and Liver meridians.
-
-Traditional applications include treatment of sore throat, cough, fever, inflammatory skin conditions, and digestive complaints. In some regions it is applied topically for boils, eczema, and minor wounds.
-
-In Japanese Kampo medicine, the species has limited formal recognition compared to S. baicalensis, which is a component of the well-known Sho-saiko-to formula. However, folk use of S. indica persists in rural communities.
-
-In Indian Ayurvedic and Siddha traditions, the plant is used as a febrifuge and anti-inflammatory agent. It is sometimes combined with other Lamiaceae herbs including [[ocimum-sanctum]] (holy basil) in traditional formulations.
-
-No significant toxicity has been reported in traditional use. The herb is generally regarded as safe at standard doses, though comprehensive toxicological studies are lacking.
-
-Modern interest in S. indica has focused primarily on its flavonoid constituents as potential anti-inflammatory drug leads. Standardized extracts are under investigation for cosmetic and nutraceutical applications.
-
-## See Also
-
-- [[scutellaria-baicalensis]] — Chinese skullcap, the primary pharmacological species of the genus
-- [[scutellaria-barbata]] — Ban Zhi Cao, TCM anticancer herb
-- [[scutellaria-lateriflora]] — American skullcap, nervine herb
-- [[scutellaria-galericulata]] — Marsh skullcap, European/North American species
-- [[apigenin]] — Major flavonoid constituent of S. indica
-- [[luteolin]] — Bioactive flavonoid with anti-inflammatory activity
-- [[salvia-miltiorrhiza]] — Danshen, complementary TCM herb
-- [[prunella-vulgaris]] — Self-heal, co-occurring Lamiaceae species
-- [[leonurus-japonicus]] — Chinese motherwort, related medicinal Lamiaceae
-- [[andrographis-paniculata]] — Kalmegh, sharing anti-inflammatory applications

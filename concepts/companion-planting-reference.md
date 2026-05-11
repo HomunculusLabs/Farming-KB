@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, permaculture, companion-planting, plant-systems, gardening, vegetables, pest-control]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Companion Planting Reference
 
-Companion planting leverages synergistic relationships [[jeavons-companion-planting-health-nutrition]] between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
+Companion planting leverages synergistic relationships between plants to improve growth, repel pests, attract [[hamilton-beneficial-insects-and-biological-pest-control]], and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
 
 ## Classic Combinations
 
@@ -75,16 +76,16 @@ Trap crops attract pests away from your main crop:
 | Cabbage | Tomatoes | Growth inhibition |
 | Peppers | Beans | Peppers can stunt bean growth |
 | Carrots | Dill (when young) | Dill can cross-pollinate and stunt carrots |
-| Onions | Beans, peas | Alliums inhibit nitrogen fixation |
+| Onions | Beans, peas | Alliums inhibit [[biological-nitrogen-fixation-agriculture]] |
 | Sunflowers | Potatoes | Sunflowers inhibit potato growth |
 | Cucumbers | Sage | Sage stunts cucumber growth |
 | Lettuce | Celery | Celery can inhibit lettuce growth |
 
 ## Beneficial Insect Attractors
 
-These plants attract pollinators and predatory insects that control pest populations:
+These plants attract pollinators and predatory insects that [[query-how-do-parasitoid-wasps-control-pest-populations]]:
 
-- **Dill, fennel, parsley** (umbellifers): Attract ladybugs, parasitic wasps, lacewings.
+- **Dill, fennel, parsley** (umbellifers): Attract ladybugs, [[parasitic-wasps-biological-pest-control]], lacewings.
 - **Alyssum, clover**: Attract hoverflies (aphid predators).
 - **Yarrow**: Attracts ladybugs, parasitic wasps, lacewings.
 - **Zinnias, cosmos**: Attract pollinators and predatory wasps.
@@ -107,6 +108,20 @@ These plants attract pollinators and predatory insects that control pest populat
 ## Related Concepts
 
 - [[hugelkultur-guide]] for mound-based polyculture planting
-- [[composting-methods-comparison]] for building soil fertility to support companion systems
+- [[composting-methods-comparison]] for [[building-soil-fertility-long-term]] to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
 - [[raised-bed-gardening]] for bed construction suited to companion planting
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[bypass-technique-planting]]
+- [[cervantes-companion-planting-pest-deterrent]]
+- [[cervantes-raised-beds-mound-planting]]
+- [[coleman-fall-bed-preparation-early-outdoor-planting]]
+- [[coleman-leek-deep-planting-technique]]

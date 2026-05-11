@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,32 +87,3 @@ inputs. See [[cervantes-pyrethrum-pyrethroid-insecticides]] must be completely w
   the first whitefly is detected
 - Repeat releases every two to four weeks throughout
   the life of the plants
-
-The fungus Verticillium lecanii, also known as
-Cephalosporium lecanii (trade name Mycotal), is also very
-effective against whiteflies and can be used as a
-supplement to parasitic wasps. Other common [[green-cannabis-pests-prevention]]
-like [[thrips-cannabis]] require
-similar integrated approaches combining biological and chemical
-controls. For predatory insect allies, see [[ultra-low-cost-pest-control]]:
-
-- Homemade sprays applied at five to ten day intervals
-- [[cervantes-pyrethrum-pyrethroid-insecticides]]
-  aerosol formulations applied at five to ten day intervals
-- [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] provides both contact and systemic protection
-
-The key to successful spray control is consistency. Multiple
-applications at regular intervals are necessary because eggs,
-nymphs, and adults are all present simultaneously and no
-single spray kills all life stages. Always rotate between
-different classes of insecticides to prevent resistance
-development.
-
-## Prevention
-
-Preventing whitefly introduction is easier than eradicating
-an established infestation. Inspect all new plants carefully
-before bringing them into the [[cannabis-grow-room-setup]]. Quarantine new
-additions for at least two weeks. Maintain proper
-[[aphids-cannabis|aphids]]
-require similar preventive vigilance.

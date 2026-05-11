@@ -87,34 +87,3 @@ The most distinctive feature of **Thuidium tamariscinum** is its tripinnate bran
 [[hypnum-cupressiforme]] is superficially similar in habitat but lacks the clearly three-ranked branching and paraphyllia. Its branches are irregular and not arranged in distinct tiers.
 
 [[climacium-dendroides]] (tree moss) also has a tree-like branching habit but grows erect from a prostrate base and is generally larger and more rigid than Thuidium.
-
-[[polytrichum-commune]] is much larger and stiffer, with a distinctly different growth form featuring upright shoots with narrow, toothed leaves.
-
-Other *Thuidium* species, such as *Thuidium delicatulum* and *Thuidium recognitum*, can be confused with fern moss. *T. delicatulum* has more finely divided branches and smaller leaf cells.
-
-Microscopic examination of leaf cell shape and costa length is often necessary for definitive identification within the genus.
-
-The presence of abundant paraphyllia is a reliable character for *T. tamariscinum* and distinguishes it from related genera with similar branching patterns.
-
-## Conservation
-
-**Thuidium tamariscinum** is widespread and common throughout its range and is not considered threatened. It is assessed as Least Concern on most regional red lists.
-
-However, local populations can be affected by deforestation, drainage of wet forest habitats, and air pollution. The species has declined in heavily industrialized regions of Europe.
-
-In managed forests, retaining coarse woody debris and maintaining closed canopy conditions helps support healthy Thuidium populations. The species benefits from forestry practices that preserve moist microhabitats.
-
-Selective logging that maintains canopy closure is less damaging to Thuidium populations than clear-cutting. Recovery after disturbance can take 10–20 years depending on moisture conditions.
-
-Climate warming may pose a long-term threat to southern populations by increasing summer drought stress. The moss is already near its southern range limits in parts of Mediterranean Europe.
-
-## See Also
-
-- [[sphagnum-cuspidatum]]
-- [[aulacomnium-palustre]]
-- [[polytrichum-commune]]
-- [[hypnum-cupressiforme]]
-- [[mnium-hornum]]
-- [[pleurozium-schreberi]]
-- [[dicranum-scoparium]]
-- [[climacium-dendroides]]

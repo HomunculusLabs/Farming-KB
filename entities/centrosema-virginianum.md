@@ -28,7 +28,7 @@ The species is recognized by its twining stems, trifoliolate leaves, and distinc
 
 This unique floral architecture requires large-bodied bee pollinators to trip the flower mechanism, making it an excellent indicator species for native bee populations.
 
-Spurred butterfly pea is valued in native plantings for its attractive flowers, wildlife habitat value, and ability to improve soil fertility through nitrogen fixation.
+Spurred butterfly pea is valued in native plantings for its attractive flowers, [[hemenway-backyard-wildlife-habitat]] value, and ability to [[query-how-does-rock-dust-improve-soil-fertility]] through [[biological-nitrogen-fixation-agriculture]].
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ Seeds are reniform, dark brown to black, approximately 4–5 mm long. They posse
 
 Spurred butterfly pea ranges from southeastern Virginia west to Missouri and eastern Oklahoma, and south through the Gulf Coast states to Florida.
 
-It extends into the Caribbean, Central America, and northern South America, making it one of the more widely distributed Centrosema species.
+It extends into the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America, making it one of the more widely distributed Centrosema species.
 
 The species occurs in open woods, thickets, pine flatwoods, disturbed sites, and along fence rows and forest edges.
 
@@ -80,41 +80,10 @@ Its late-season flowering provides a nectar source for pollinators after many ot
 
 ## Cultivation and Uses
 
-Spurred butterfly pea is used in native wildflower plantings, pollinator gardens, and ecological restoration projects throughout the southeastern United States.
+Spurred butterfly pea is used in native wildflower plantings, pollinator gardens, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects throughout the southeastern United States.
 
 Seed germination is improved by scarification and cold stratification for 30 days. Direct seeding in early spring at 2–4 kg/ha is recommended.
 
 Establishment is slower than for many cultivated legumes, but plants are long-lived once rooted. The vine requires support from companion plants or trellising.
 
-In pasture systems, it provides moderate forage value with crude protein content of 14–18% during the growing season. Palatability is moderate for cattle and good for wildlife.
-
-The related species Centrosema pubescens (butterfly pea) is widely cultivated as a tropical forage legume in Latin America, Africa, and Southeast Asia.
-
-C. pubescens differs from C. virginianum in its more robust growth habit, longer pubescence, and broader ecological amplitude in tropical lowlands.
-
-No significant commercial cultivation of C. virginianum exists, though its ornamental value and ecological benefits make it a useful component of native plant palettes.
-
-Indigenous peoples of the southeastern United States reportedly used the roots for medicinal purposes, though documented ethnobotanical uses are limited compared to other native legumes.
-
-## Related Species
-
-**Centrosema virginianum** is one of approximately 35 species in the genus, most of which are tropical and subtropical vines native to the Americas.
-
-The most commercially important relative is C. pubescens (tropical butterfly pea or centro), a widely grown tropical forage legume in pastures across the neotropics.
-
-Other notable species include C. pascuorum (native to Brazil) and C. rotundifolium (widespread in tropical America).
-
-Within its native range, spurred butterfly pea may be confused with Clitoria mariana (Atlantic pigeonwings), which has similar violet flowers but a differently structured keel petal.
-
-The two genera can be distinguished by their fruits: Centrosema pods are linear and flattened, while Clitoria pods are short and inflated.
-
-## See Also
-
-- [[trifolium-pratense]]
-- [[lespedeza-cuneata]]
-- [[desmodium-canadense]]
-- [[amphicarpaea-bracteata]]
-- [[robinia-pseudoacacia]]
-- [[baptisia-australis]]
-- [[vicia-cracca]]
-- [[medicago-sativa]]
+In pasture systems, it provides moderate forage value with crude protein content of 14–18% during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Palatability is moderate for cattle and good for wildlife.

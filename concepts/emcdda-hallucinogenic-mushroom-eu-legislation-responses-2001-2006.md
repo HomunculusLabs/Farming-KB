@@ -37,7 +37,7 @@ The EMCDDA highlighted a critical observation: legal prohibitions of psilocybin-
 - [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[psilocin]]
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]
 ## Practical Considerations
 
 When working with EU Legislative Responses to Hallucinogenic Mushrooms 2001-2006, several practical factors should be
@@ -88,11 +88,3 @@ that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

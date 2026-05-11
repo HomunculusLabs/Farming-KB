@@ -88,20 +88,3 @@ Fungal biodiversity is declining due to habitat destruction, nitrogen
 deposition, [[dighton-fungi-climate-change-feedback]], and agricultural intensification. The loss
 of particular fungal functional groups has cascading ecosystem effects.
 Decline of EM fungi in nitrogen-polluted forests reduces tree
-nutrient uptake and alters carbon allocation patterns.
-
-Experimental removal of fungal species demonstrates nonlinear
-responses. Ecosystem function often declines sharply only after a
-threshold of diversity loss is crossed, consistent with a
-redundancy-based model where many species must be lost before
-critical functions are compromised. This threshold effect means that
-apparently healthy ecosystems may be vulnerable to sudden functional
-collapse.
-
-## See Also
-
-- [[fungal-biodiversity]]
-- [[decomposition]]
-- [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-biomass-estimation-methods]]

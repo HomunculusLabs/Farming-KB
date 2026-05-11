@@ -21,7 +21,7 @@ sources:
 ---
 
 # Amanita regalis
-**Royal [[amanita-muscaria-entity]] var. regalis (Fr.) Neville & Poumarat
+**Royal [[amanita-muscaria]] var. regalis (Fr.) Neville & Poumarat
 
 ## Overview
 Amanita regalis is a large basidiomycete closely related to the [[amanita-muscaria-fly-agaric-history-and-pharmacology]]

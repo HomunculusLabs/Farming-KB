@@ -59,10 +59,10 @@ subject to widespread stereotyping even among those who consciously
 oppose racial inequality.
 
 Racial bias, particularly when suppressed, creates a constant state of
-constricting emotions where blame and perceived injustice are common
+[[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] where blame and perceived injustice are common
 responses, adding to both social dysfunction and physiological stress.
 
-Chronic activation of stress hormones from navigating biased
+Chronic activation of [[blesching-ten-strategies-reduce-fear-anxiety-stress-hormones]] from navigating biased
 environments contributes to well-documented health disparities in
 marginalized populations.
 
@@ -88,34 +88,8 @@ alone can diminish stress and enhance coping mechanisms.
 A four-step process addresses bias: (1) Recognize that bias is human —
 observe triggers and bring patterns to awareness, working with one at a
 time. (2) Own the bias by giving it emotional dimensions — what is it
-doing to you and others?
-
-(3) Refrain from self-condemnation. Simply allow the bias to exist
-without judgment, since fighting it often intensifies its hold.
-
-(4) Change by responding differently when triggers are noticed. This
-active phase forms new neural pathways through conscious choice and
-repeated practice.
-
-## Physiological Mechanisms
-
-Biases that fuel chronic constricting emotions activate the HPA axis,
-elevating cortisol and promoting systemic inflammation. These effects
-are mediated partly by the endocannabinoid system, which regulates
-stress responses and emotional processing.
-
-When biases are reduced through discernment, the shift from
-constricting to expansive emotions produces measurable changes in
-neurochemistry, including modulation of anandamide signaling and
-reduction of pro-inflammatory cytokines.
 
 ## See Also
-
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[endocannabinoid-system-and-cannabis-pharmacology]]
-- [[cannabis-health-index-scoring-system]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[guilt-martyrdom-harbored-anger-as-health-hazards]]
-- [[gratitude-compassion-forgiveness-healing-effects]]
-- [[habit-transformation-trigger-reaction-reward]]
+- [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]]
+- [[neurotropic-fungi-mycologist-distribution-bias]]
+- [[brix-testing-plant-health-indicator-ingham]]

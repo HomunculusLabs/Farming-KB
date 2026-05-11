@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Osmunda regalis, commonly known as the royal fern, is a large, deciduous fern native to temperate and tropical regions worldwide. It is one of the most distinctive and visually striking ferns, with large, bipinnate fronds that can reach 2.5 meters in favorable conditions.
+Osmunda regalis, commonly known as the royal fern, is a large, deciduous fern native to temperate and [[fukuoka-natural-farming-in-tropical-regions]] worldwide. It is one of the most distinctive and visually striking ferns, with large, bipinnate fronds that can reach 2.5 meters in favorable conditions.
 
 The species has a long [[shroom-cultural-history-hippie-revolution-and-counterculture]] in Europe, where it was associated with royalty and considered a plant of protection. Its roots and fronds have been used in traditional medicine, fiber production, and horticulture for centuries, and it remains one of the most widely cultivated ornamental ferns.
 
@@ -28,7 +28,7 @@ The species has a long [[shroom-cultural-history-hippie-revolution-and-countercu
 
 Osmunda regalis is the sole extant species in the genus Osmunda within the family Osmundaceae. It was described by Carl Linnaeus in 1753 and is the type species of both the genus and family.
 
-Several varieties are recognized, with Osmunda regalis var. regalis occurring in Europe and western Asia, var. spectabilis in [[polypore-fungi-eastern-north-america]] America, and var. brasiliensis in tropical Central and South America. The varieties differ primarily in size, frond dissection, and habitat preference.
+Several varieties are recognized, with Osmunda regalis var. regalis occurring in Europe and western Asia, var. spectabilis in [[polypore-fungi-eastern-north-america]] America, and var. brasiliensis in tropical Central and [[guzman-psilocybin-mushrooms-south-america]]. The varieties differ primarily in size, frond dissection, and habitat preference.
 
 The rhizome is massive, erect to ascending, forming a woody trunk-like base in older plants that can reach 30–50 cm in height. This trunk is covered with persistent old stipe bases and fibrous root masses, giving mature plants a small tree-fern appearance.
 
@@ -46,7 +46,7 @@ Osmunda regalis has a diploid chromosome number of 2n = 44, one of the lower cou
 
 Osmunda regalis has one of the widest natural distributions of any fern species, occurring across Europe, western and central Asia, Africa, the Americas, and Australasia. In Europe, it ranges from Scandinavia to the Mediterranean and from the British Isles to western Russia.
 
-In North America, the species occurs from Newfoundland to Florida and west to Texas and Minnesota. Tropical populations are found in Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America, and the Caribbean islands. African populations are scattered across mountainous regions of East and southern Africa.
+In [[guzman-psilocybin-mushrooms-north-america]], the species occurs from Newfoundland to Florida and west to Texas and Minnesota. Tropical populations are found in Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], northern South America, and the Caribbean islands. African populations are scattered across mountainous regions of East and southern Africa.
 
 The royal fern is strongly associated with wet habitats, including bog margins, marshes, swamps, stream banks, damp woodlands, and wet meadows. It requires permanently moist to waterlogged soils with high organic content and a pH range of 4.5–7.0.
 
@@ -62,7 +62,7 @@ In some parts of its range, including parts of southern Europe and the eastern U
 
 Osmunda regalis is highly valued as an ornamental fern for its bold texture, architectural form, and tolerance of wet conditions. It is widely used in water gardens, bog gardens, and naturalistic plantings where its large fronds create a dramatic tropical effect in temperate landscapes.
 
-Cultivation requires consistently moist soil and a position in partial shade to full sun. The species performs best in rich, acidic soils amended with organic matter. Unlike many ferns, it tolerates standing water and seasonal inundation, making it ideal for marginal pond plantings.
+Cultivation requires consistently moist soil and a position in partial shade to full sun. The species performs best in rich, acidic soils amended with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Unlike many ferns, it tolerates standing water and seasonal inundation, making it ideal for marginal pond plantings.
 
 Several cultivars are available in the nursery trade, including 'Purpurascens' (purple new growth), 'Cristata' (crested frond tips), and 'Undulata' (undulating pinnae margins). The purple-stemmed forms are particularly popular for their contrasting color.
 
@@ -70,13 +70,13 @@ The species is relatively slow-growing from spores but establishes readily from 
 
 Pests are generally minimal, though the species can be susceptible to crown rot in poorly drained soils that become compacted. Rust fungi occasionally affect the fronds in humid conditions but rarely cause serious damage.
 
-The species has a moderate growth rate, with new fronds emerging in spring from the crown base. In temperate regions, the fronds begin to yellow and die back in autumn, and the plant overwinters as a dormant crown with the fertile frond structures persisting as attractive dried elements.
+The species has a moderate growth rate, with new fronds emerging in spring from the crown base. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], the fronds begin to yellow and die back in autumn, and the plant overwinters as a dormant crown with the fertile frond structures persisting as attractive dried elements.
 
 Established plants can live for many decades and slowly form impressive clumps over time. Old specimens with well-developed trunk-like rhizomes become garden specimens of considerable presence and value.
 
 ## Ethnobotanical and Historical Uses
 
-The royal fern has a rich ethnobotanical history across its range. In European folklore, the plant was believed to confer protection against thunderstorms and evil spirits, and its roots were carried as amulets for good fortune.
+The royal fern has a rich ethnobotanical history across its range. [[mandrake-mandragora-officinarum-in-european-folklore]], the plant was believed to confer protection against thunderstorms and evil spirits, and its roots were carried as amulets for good fortune.
 
 The fibrous roots (osmunda fiber) were historically used as a growing medium for cultivated orchids and epiphytic plants. This use was particularly important in Victorian-era horticulture, where osmunda fiber was considered superior to other potting materials for its water retention and aeration properties.
 
@@ -87,29 +87,3 @@ Indigenous peoples of eastern North America used the fronds for weaving baskets 
 In Scandinavia, the fertile fronds were historically used as a source of yellow-green dye for wool and linen textiles. The dye produced muted but attractive shades that were valued in traditional textile crafts.
 
 ## Ecological Role
-
-Osmunda regalis plays an important structural role in wetland ecosystems, where its large fronds create shaded microhabitats that moderate [[greg-green-temperature-and-humidity-control]]. These microhabitats benefit amphibians, aquatic invertebrates, and moisture-loving understory plants.
-
-The extensive root and rhizome system contributes to wetland soil stabilization and helps filter water in riparian buffer zones. The fibrous root mass traps sediments and absorbs excess nutrients, contributing to water quality improvement in degraded wetlands.
-
-The species provides nesting habitat and cover for wetland birds, including rails, bitterns, and marsh wrens. In some regions, royal fern colonies are considered indicators of high-quality wetland habitat with intact hydrology and minimal disturbance.
-
-The green, short-lived spores of Osmunda are an evolutionary adaptation to its wetland habitat, where high humidity allows germination before the spores desiccate. This contrasts with the brown, durable spores of most terrestrial ferns, which can survive months of desiccation.
-
-The species also contributes to carbon sequestration in wetland ecosystems through its substantial below-ground biomass. The woody rhizome and extensive root system can accumulate significant organic carbon in waterlogged soils where decomposition rates are slow.
-
-In peatland and mire ecosystems, Osmunda regalis can serve as a nurse plant for establishing other wetland species. The elevated root mound provides a microtopographic feature that creates heterogeneous moisture conditions suitable for a range of wetland plants.
-
-## See Also
-
-- [[blechnum-spicant]]
-
-- [[matteuccia-struthiopteris]]
-- [[athyrium-filix-femina]]
-- osmunda cinnamomea
-- [[equisetum-arvense]]
-- [[salix-alba]]
-- [[vaccinium-macrocarpon]]
-- [[quercus-robur]]
-- [[lycopodium-clavatum]]
-- [[mycorrhiza]]

@@ -14,7 +14,7 @@ sources:
   - Kull, T. & Arditti, J. (2003). "Orchidaceae: A Model for the Evolution of Plant-Pollinator Interactions." Orchid Biology: Reviews and Perspectives VIII, 193–210.
   - Pedersen, H. Æ. & Faurholdt, N. (2007). Ophrys: The Bee Orchids of Europe. Kew Publishing.
   - Schlüter, P.M. et al. (2009). "Pollinator Adaptation and the Evolution of Reproductive Isolation in Sexually Deceptive Orchids." Proceedings of the Royal Society B, 276(1677), 3775–3782.
-  - Stöckl, J. et al. (2021). "The Chemical Basis of Pollinator Attraction in Ophrys Orchids." Journal of Chemical Ecology, 47, 893–905.
+  - Stöckl, J. et al. (2021). "The Chemical Basis of Pollinator Attraction in Ophrys Orchids." Journal of [[plant-volatile-communication-chemical-ecology]], 47, 893–905.
 ---
 
 ## Overview
@@ -76,7 +76,7 @@ Plants often appear in urban and semi-urban settings, including lawns, parks, an
 
 Ophrys apifera is a textbook example of sexual deception in plant-pollinator interactions.
 
-The labellum produces volatile compounds that mimic the sex pheromones of female bees, primarily Andrena nigroaenea.
+The labellum produces [[mycovolatiles-fungal-volatile-compounds]] that mimic the [[bloomfield-fungal-sex-pheromones-mating-communication]] of female bees, primarily Andrena nigroaenea.
 
 Male bees are attracted to the flower and attempt pseudocopulation with the labellum.
 
@@ -87,63 +87,3 @@ However, the primary pollinator Andrena nigroaenea is absent from much of northe
 In these regions, Ophrys apifera relies almost exclusively on autonomous self-pollination.
 
 The pollinia gradually bend forward under their own weight and contact the stigma without any external agent.
-
-This autogamous mechanism ensures reproductive success even in the absence of pollinators.
-
-Autonomous self-pollination is triggered by rising temperatures and occurs approximately 24–48 hours after the flower opens.
-
-The dual strategy of sexual deception and autogamy makes Ophrys apifera one of the most flexible orchid species reproductively.
-
-Studies have shown that the balance between outcrossing and selfing varies clinally with latitude.
-
-## Cultivation
-
-Ophrys apifera is considered challenging to cultivate and is rarely grown in gardens.
-
-The species requires a well-drained, alkaline substrate with excellent drainage.
-
-A mix of loam, sand, and crushed limestone or chalk replicate its native soil conditions.
-
-Full sun to light shade is preferred, with protection from excessive winter moisture.
-
-Plants are winter-dormant and should be kept almost completely dry during the rest period.
-
-Tubers can be planted in autumn at a depth of 5–8 cm.
-Propagation is primarily from seed, which requires symbiotic mycorrhizal fungi for germination.
-
-In vitro asymbiotic germination has been achieved using specialized orchid media.
-
-Flowering typically occurs from May to July in the Northern Hemisphere.
-
-The species is short-lived in cultivation, often persisting for only 2–3 years.
-
-## Conservation Status
-
-Ophrys apifera is listed as Least Concern by the IUCN.
-
-The species has a broad geographic distribution and large, stable populations across most of its range.
-
-However, local declines have been noted in intensively agricultural regions of northern Europe.
-
-Habitat loss through conversion of calcareous grasslands to arable farmland is the primary threat.
-
-Urbanization and eutrophication of semi-natural habitats also reduce suitable growing conditions.
-
-In the United Kingdom, the species is protected under Schedule 8 of the Wildlife and Countryside Act.
-
-Several European countries include Ophrys apifera in national Red Lists at regional threat levels.
-
-Climate change may benefit the species in northern Europe by extending the growing season.
-
-Conversely, increasing aridity in the Mediterranean could stress southern populations.
-
-## See Also
-
-- [[dactylorhiza-maculata]]
-- [[vanilla-planifolia]]
-- [[orchid-mycorrhiza]]
-- [[mycorrhiza]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- [[native-plant-gardening]]
-- [[invasive-species-management]]
-- centaura nigra

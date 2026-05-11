@@ -45,15 +45,15 @@ Myrtus communis is native to the Mediterranean region, extending from southern P
 
 The species occurs from sea level to 800 meters elevation, typically on dry, rocky hillsides, limestone outcrops, and in scrubland communities. It thrives in Mediterranean climates with hot, dry summers and mild, wet winters, tolerating temperatures from -5 to 40 degrees Celsius.
 
-Myrtle is adaptable to various soil types including calcareous, sandy, and volcanic substrates, though it prefers well-drained soils. It demonstrates moderate [[fungal-salt-tolerance-and-ion-homeostasis]], enabling growth in coastal environments. The species resprouts vigorously after fire, a key survival trait in fire-prone Mediterranean ecosystems.
+Myrtle is adaptable to various soil types including calcareous, sandy, and volcanic substrates, though it prefers well-drained soils. It demonstrates moderate [[fungal-salt-tolerance-and-ion-homeostasis]], enabling growth in coastal environments. The species resprouts vigorously after fire, a key survival trait in fire-prone [[fungal-diversity-mediterranean-ecosystems]].
 
 ## Bioactive Compounds and Pharmacology
 
 The leaves of Myrtus communis contain 0.5-1.5% essential oil composed primarily of alpha-pinene, 1,8-cineole, limonene, linalool, myrtenyl acetate, and myrtenol. The oil composition varies significantly with geographic origin, harvest time, and plant part, with myrtenyl acetate being the dominant compound in some chemotypes.
 
-Phenolic compounds in the leaves include myricetin, quercetin, kaempferol, and their glycoside derivatives, along with galloyl derivatives and hydrolyzable tannins. The berries are rich in anthocyanins, primarily delphinidin-3-glucoside and malvidin-3-glucoside, responsible for their dark pigmentation.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in the leaves include myricetin, quercetin, kaempferol, and their glycoside derivatives, along with galloyl derivatives and hydrolyzable tannins. The berries are rich in anthocyanins, primarily delphinidin-3-glucoside and malvidin-3-glucoside, responsible for their dark pigmentation.
 
-Antimicrobial activity of myrtle essential oil has been demonstrated against Gram-positive bacteria including Staphylococcus aureus and Streptococcus pyogenes, as well as [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and Aspergillus niger. This supports the traditional use of myrtle preparations for treating respiratory and skin infections.
+Antimicrobial activity of myrtle essential oil has been demonstrated against Gram-positive bacteria including [[staphylococcus-aureus]] and Streptococcus pyogenes, as well as [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and [[aspergillus-niger]]. This supports the traditional use of myrtle preparations for treating respiratory and skin infections.
 
 Anti-inflammatory and antioxidant properties are attributed to the combined action of essential oil terpenes and phenolic compounds. In vitro studies show inhibition of cyclooxygenase-2 and nitric oxide production in macrophage cell lines, with IC50 values comparable to standard anti-inflammatory drugs.
 
@@ -75,7 +75,7 @@ Myrtle extract has been used topically as an astringent for wound healing and as
 
 ## Cultivation
 
-Myrtus communis is widely cultivated as an ornamental shrub in Mediterranean, subtropical, and temperate climates. The species tolerates pruning well and is commonly shaped into formal hedges, topiary specimens, and bonsai. Cultivars include variegated forms, compact dwarf varieties, and selections with particularly abundant flowering.
+Myrtus communis is widely cultivated as an ornamental shrub in Mediterranean, subtropical, and [[fukuoka-natural-farming-temperate-climates]]. The species tolerates pruning well and is commonly shaped into formal hedges, topiary specimens, and bonsai. Cultivars include variegated forms, compact dwarf varieties, and selections with particularly abundant flowering.
 
 Propagation is achieved through seed, semi-hardwood cuttings, and layering. Seeds require cold stratification for optimal germination. Cuttings taken in late summer root readily under mist propagation with bottom heat. The plant prefers full sun to partial shade and well-drained soil.
 
@@ -85,30 +85,6 @@ Hardiness varies among provenances, with western Mediterranean populations toler
 
 ## Cultural and Historical Significance
 
-Myrtle has been a symbol of love, beauty, and immortality across Mediterranean cultures for over three millennia. In ancient Greece, myrtle wreaths were awarded to victors in athletic games and worn by brides at weddings. The plant was sacred to Aphrodite, who was said to have emerged from a myrtle grove.
+Myrtle has been a symbol of love, beauty, and immortality across Mediterranean cultures for over three millennia. [[psychedelic-use-in-ancient-greece]], myrtle wreaths were awarded to victors in athletic games and worn by brides at weddings. The plant was sacred to Aphrodite, who was said to have emerged from a myrtle grove.
 
 Roman emperors used myrtle branches as symbols of supreme authority, and Roman brides carried myrtle sprigs in their bouquets. The Roman naturalist Pliny the Elder documented numerous medicinal applications of myrtle in his Natural History, reflecting its central role in classical herbalism.
-
-In Jewish tradition, myrtle is one of the Four Species used during the festival of Sukkot, alongside palm, willow, and citron branches. The Hebrew name hadas appears in the Book of Isaiah as a symbol of God's blessing and restoration.
-
-Islamic traditions associate myrtle with paradise, and the Prophet Muhammad is said to have praised its fragrance. In Sufi poetry, myrtle symbolizes the spiritual seeker's longing for divine union. The plant's evergreen nature represents eternal life in both Islamic and Christian symbolism.
-
-## Ecology and Conservation
-
-Myrtus communis is a keystone species in Mediterranean maquis and garrigue ecosystems, providing food and shelter for diverse fauna. The berries are consumed by numerous bird species including blackbirds, thrushes, and warblers, which disperse the seeds. Flowers attract bees, butterflies, and other pollinators throughout the summer.
-
-The species plays a critical role in post-fire succession in Mediterranean ecosystems. Its ability to resprout from root crowns after wildfire allows rapid recolonization of burned areas. Myrtle thus contributes to soil stabilization and ecosystem recovery in fire-adapted landscapes.
-
-While not globally threatened, some local populations face pressure from urbanization, agricultural expansion, and overgrazing. Conservation efforts in several Mediterranean countries focus on preserving representative myrtle communities within protected areas and promoting sustainable use of wild-harvested material.
-
-[[dighton-fungi-climate-change-feedback]] poses an emerging threat through increased drought frequency and wildfire intensity in Mediterranean regions. Research on myrtle's physiological responses to combined heat and drought stress suggests moderate resilience, but repeated severe fire events may exceed the species' regenerative capacity in marginal populations.
-
-## See Also
-
-- [[lavandula-angustifolia]]
-- [[origanum-vulgare-entity]]
-- [[eucalyptus-globulus]]
-- [[cinnamomum-verum]]
-- [[psidium-guajava]]
-- [[cinnamomum-cassia]]
-- [[sambucus-nigra]]

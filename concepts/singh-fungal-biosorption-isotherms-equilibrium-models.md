@@ -40,9 +40,9 @@ solution, and b is a constant related to the affinity of the binding sites.
 
 The Langmuir model has been applied successfully to describe the
 biosorption of various [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] by fungal species, including lead,
-cadmium, copper, and chromium by Aspergillus niger, Rhizopus arrhizus, and
+cadmium, copper, and chromium by [[aspergillus-niger]], [[rhizopus-arrhizus]], and
 Mucor species. The model provides a useful indication of the maximum
-biosorption capacity of a given fungal biomass for a particular metal ion.
+biosorption capacity of a given [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]] for a particular metal ion.
 
 ## Freundlich Isotherm Model
 
@@ -88,55 +88,3 @@ the biosorption process. These include:
   distinguish between physical and chemical adsorption.
 
 - **Radke-Prausnitz model**: Another multi-parameter model that provides
-  flexibility in fitting experimental biosorption data.
-
-## Limitations and Challenges
-
-These biosorption isotherms do not always provide a meaningful
-interpretation of data and are not universally applicable for systems
-operating under variable environmental conditions. Irregular biosorption
-isotherms can be generated due to variations related to multiple binding
-sites, the nature of the sorbent material, pH fluctuations, and the
-complex chemistry of metal ions in solution.
-
-Rapid uptake of metal by a fungal biosorbent is desirable for practical
-applications. Two different sorption systems must be compared at the same
-equilibrium concentrations to obtain accurate and meaningful results. The
-presence of other ions or co-cations also influences the sorption system
-through unnecessary interactions with the metal species.
-
-A great deal of confusion exists regarding the evaluation of experimental
-biosorption data, despite the seemingly simple nature of the process. At
-present, all theories and models are focused on single-metal systems, and
-limited knowledge on multimetal systems makes it difficult to reach
-predictive conclusions for complex contaminated environments.
-
-## Factors Influencing Biosorption Equilibrium
-
-Several external factors influence the extent of biosorption and the shape
-of the resulting isotherms:
-
-- **pH**: Affects the speciation of metal ions and the ionization state of
-  functional groups on the [[gadd-fungal-cell-structure]] wall.
-- **Temperature**: Biosorption tends to be exothermic, meaning uptake
-  capacity may decrease with increasing temperature.
-- **Biomass concentration**: Higher biomass concentrations can lead to
-  interference between binding sites.
-- **Type of biomass preparation**: Live, dead, dried, autoclaved, or
-  chemically pretreated biomass exhibits different sorption capacities.
-- **Initial metal ion concentration**: Determines the driving force for
-  adsorption and influences the isotherm shape.
-- **Interfering ions**: The presence of competing cations can reduce
-  uptake of the target metal through competitive binding.
-
-Biosorption and recovery can be intensified in the presence of stirring
-induced by a magnetic field, which enhances mass transfer and contact
-between the metal ions and fungal binding sites.
-
-## See Also
-
-- [[fungal-biosorption-isotherms]]
-
-- [[singh-fungal-biosorption-heavy-metals]]
-- [[singh-fungal-biosorption-lead-copper]]
-- [[singh-fungal-biosorption-cadmium]]

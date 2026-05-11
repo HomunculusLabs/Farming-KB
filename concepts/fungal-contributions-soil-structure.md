@@ -1,5 +1,5 @@
 ---
-title: Fungal Contributions to Soil Structure
+title: Fungal Contributions Soil Structure
 created: 2026-04-14
 updated: 2026-05-09
 type: concept
@@ -31,14 +31,14 @@ aggregates. As hyphae grow through soil, they:
 - Produce hyphal cords and rhizomorphs that stabilize soil structure
   over longer timescales
 
-The tensile strength of fungal hyphae and their extensive branching
+The tensile strength of [[fungal-hyphae-and-mycelium]] their extensive branching
 patterns make them more effective than bacterial filaments at soil
 stabilization. A single fungal mycelium can extend centimeters to
-meters through soil, connecting distant particles and organic matter.
+meters through soil, connecting distant particles [[mollison-humus-and-organic-matter-in-soils]].
 
 ### Rhizomorph and Cord Systems
 
-Cord-forming basidiomycetes (*Phanerochaete velutina*, *Phallus
+Cord-forming basidiomycetes (*[[phanerochaete-velutina]]*, *Phallus
 impudicus*) produce linear mycelial cords that:
 
 - Anchor soil at the surface to deeper layers
@@ -47,7 +47,7 @@ impudicus*) produce linear mycelial cords that:
 - Maintain structural integrity during wetting-drying cycles
 
 These cord systems persist for months to years, providing long-term
-structural support even after the fungus becomes metabolically
+[[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] even after the fungus becomes metabolically
 inactive. The woody nature of mature cords makes them resistant to
 degradation by other soil organisms.
 
@@ -70,7 +70,7 @@ acts as a biological glue:
 Glomalin-related soil protein (GRSP) contributes significantly to
 soil carbon pools. Estimates suggest glomalin accounts for 27% of
 total soil carbon in some ecosystems, representing a major long-term
-[[holmgren-soil-humus-carbon-storage-rebuilding]] pathway mediated by mycorrhizal fungi.
+[[holmgren-soil-humus-carbon-storage-rebuilding]] pathway mediated by [[arbuscular-mycorrhizal-fungi]].
 
 ### Polysaccharide Exudates
 
@@ -88,33 +88,3 @@ important role in short-term aggregate dynamics.
 
 Fungal hyphae and cords create hydrophobic channels through soil that
 influence water movement. In water-repellent soils, fungal hyphal
-coatings contribute to preferential flow paths that bypass the soil
-matrix. This can reduce infiltration uniformity but also protect soil
-structure from slaking during heavy rainfall.
-
-The fungal contribution to soil macroporosity affects drainage and
-aeration. As hyphae grow and subsequently decompose, they leave channels
-that improve gas exchange and root penetration.
-
-## Land Management Implications
-
-Agricultural practices that reduce fungal biomass — such as intensive
-tillage, fungicide application, and monoculture cropping — degrade
-soil structure over time. No-till and reduced-tillage systems preserve
-fungal networks and improve aggregate stability. Cover cropping and
-[[cervantes-organic-amendments-chart]] promote both saprotrophic and [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-communities, enhancing soil structural resilience.
-
-[[teaming-with-fungi-mycorrhizal-inoculation-techniques]] is increasingly used in restoration ecology to
-improve soil structure on degraded sites. Arbuscular mycorrhizal fungi
-are particularly effective in establishing aggregate stability in
-reclaimed mine soils and eroded landscapes where natural fungal
-communities have been depleted.
-
-## See Also
-
-- [[fungal-role-in-carbon-cycling]]
-- [[fungal-bacterial-interactions]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-biomass-estimation-methods]]
-- [[fungal-biodiversity-ecosystem-function]]

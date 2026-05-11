@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Inonotus_hispidus"
   - "https://www.firstnature.com/fungi/inonotus-hispidus.php"
-  - "Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (wiki raw source)"
+  - "Cancer Treatments and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (wiki raw source)"
 ---
 
 # Inonotus hispidus
@@ -17,9 +17,9 @@ Inonotus hispidus, commonly known as the shaggy bracket or silky rottenwood
 fungus, is a perennial polypore in the family Hymenochaetaceae. It is a
 significant pathogen of hardwood trees, particularly ash, walnut, apple,
 and elm, causing progressive white-rot heartwood decay that ultimately
-weakens host tree structural integrity. Widely distributed across temperate
+weakens [[ectomycorrhizal-host-tree-partnerships]] structural integrity. Widely distributed across temperate
 Northern Hemisphere regions, the species has attracted medicinal interest
-for its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — hispidin, hispolon, and immunomodulatory
+for its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — hispidin, [[hispolon]], and immunomodulatory
 polysaccharides — with demonstrated antioxidant, anti-inflammatory, and
 antitumor activities in preclinical studies.
 
@@ -52,7 +52,7 @@ confirmed its placement in Inonotus within the Hymenochaetaceae.
 | **[[comparison-spore-print-collection-vs-spore-syringe-production]]** | Rusty brown |
 | **Odor/taste** | Faint or absent; mildly acidic to bitter |
 
-Fruiting bodies are annual but persistent. Fresh specimens exude a watery
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are annual but persistent. Fresh specimens exude a watery
 reddish-brown liquid when cut — a diagnostic field character. The stiff
 upper surface hairs can cause skin irritation in some individuals.
 
@@ -76,7 +76,7 @@ from morphologically similar polypore genera.
   temperate Asia, and parts of North Africa. Common throughout the British
   Isles, central Europe, and [[polypore-fungi-eastern-north-america]] America.
 - **Substrate:** Saprotrophic and parasitic on living and dead hardwoods.
-  Primary hosts: Fraxinus excelsior (ash), Juglans regia (walnut), Malus
+  Primary hosts: Fraxinus excelsior (ash), [[juglans-regia]] (walnut), Malus
   domestica (apple), Ulmus spp. (elms), Acer spp. (maples), Quercus spp.
 - **Habitat:** Deciduous woodlands, orchards, parkland, hedgerows.
 - **Season:** Late summer through autumn (July–November), occasionally
@@ -88,57 +88,3 @@ from morphologically similar polypore genera.
 ## Chemistry and Active Compounds
 
 - **Hispidin:** Major polyketide-derived phenolic constituent. Strong
-  antioxidant via DPPH radical scavenging. Also demonstrates tyrosinase
-  inhibition and α-glucosidase inhibition.
-- **Hispolon:** Oxidation product of hispidin. Antiproliferative against
-  hepatocellular carcinoma, breast cancer, and colorectal cancer cell
-  lines (IC50 ~15 µM against HepG2), via apoptosis induction and NF-κB
-  signaling suppression.
-- **Polysaccharides:** Water-soluble β-glucan fractions with
-  immunomodulatory activity — stimulating macrophage proliferation and
-  enhancing phagocytic activity. Increase TNF-α and IL-6 production.
-- **Inonotusane derivatives:** Terpenoid compounds with anti-inflammatory
-  activity through COX-2 inhibition.
-- **Phenolic acids:** Protocatechuic acid, caffeic acid, ferulic acid.
-- **Sterols:** Ergosterol and ergosterol peroxide in methanolic extracts.
-
-## Medicinal and Pharmacological Properties
-
-1. **Antitumor activity:** Hispolon and polysaccharides show selective
-   cytotoxicity against cancer cell lines in vitro. Hispolon-induced
-   apoptosis in HepG2 cells via mitochondrial-dependent pathways.
-2. **Anti-inflammatory:** Ethanolic extracts suppress LPS-induced NO
-   production; hispolon inhibits iNOS and COX-2 at the transcriptional level.
-3. **Antioxidant:** Methanolic extracts show significant DPPH, ABTS, and
-   superoxide radical scavenging. Hispidin has one of the highest peroxyl
-   radical absorbing capacities among fungal phenolics.
-4. **Immunomodulation:** Crude polysaccharides enhance splenocyte
-   proliferation and NK cell activity in murine models.
-5. **Antimicrobial:** Growth inhibition against Gram-positive bacteria
-   (Staphylococcus aureus, Bacillus subtilis) in disc diffusion assays.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| [[chaga-inonotus-obliquus-medicinal-profile]] (chaga) | Sterile conk on birch, black cracked exterior, no pore surface |
-| Inonotus dryadeus | Grows at base of oaks, exudes amber droplets, larger pores |
-| Phellinus igniarius | More stratified pore surface, shorter setae, darker context |
-| Ganoderma applanatum | White pore surface when fresh, double-walled ornamented spores |
-| Fomes fomentarius | Hoof-shaped, grey upper surface, distinct pore layers |
-
-## Field Identification Tips
-
-- Look for large, shaggy-haired brackets on living ash, walnut, or apple
-  trees, often at 2–5 m height.
-- Reddish-brown watery exudate when cut is diagnostic among temperate
-  polypores — no other common bracket fungus produces this reaction.
-- Fresh specimens are soft and cuttable; older specimens become extremely
-  hard and woody.
-- Stiff-hairy upper surface distinguishes it from smoother Ganoderma or
-  Fomes species. Pore surface bruises dark brown, not black.
-
-## See Also
-- [[inonotus-obliquus]]
-- [[fomes-fomentarius]]
-- [[trametes-versicolor-entity]]

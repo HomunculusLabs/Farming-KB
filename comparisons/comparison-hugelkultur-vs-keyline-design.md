@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "Holzer, Sepp. Sepp Holzer's Permaculture. Chelsea Green Publishing, 2011."
   - "Yeomans, P.A. Water for Every Farm: Yeomans Keyline Plan. Second Edition, 2008."
   - "Jacke, Dave, and Eric Toensmeier. Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests. Chelsea Green Publishing, 2005."

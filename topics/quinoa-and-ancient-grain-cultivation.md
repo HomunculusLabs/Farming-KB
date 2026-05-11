@@ -142,9 +142,3 @@ Sow after soil has warmed to 20°C+ (68°F), 2–3 weeks after last frost. Seed 
 | Plant spacing | Thin to 15–25 cm within rows |
 | Sowing depth | 0.5–1 cm (barely cover) |
 | Germination | 3–10 days at 20–25°C |
-
-Amaranth seedlings are vulnerable until they reach 15 cm tall. Mulching helps suppress weeds. Once established, amaranth grows rapidly — up to 5 cm per day in ideal conditions. Side-dress with compost or balanced [[organic-fertilizer-sources-guide]] at 30 days. Avoid excessive nitrogen, which delays flowering.
-
-### Harvesting
-
-Grain amaranth is indeterminate — flowers form over weeks. Harvest when the majority of seeds are mature and the plant is drying down. Individual seed heads can be cut as they ripen.

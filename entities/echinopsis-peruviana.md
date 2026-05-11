@@ -15,18 +15,18 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
   - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
-  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
-  - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient South America." Haworth Press.
+  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]], and Other Ethnogenic Trichocereus Species." Trout's Notes.
+  - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient [[guzman-psilocybin-mushrooms-south-america]]." Haworth Press.
 created: 2026-04-28
 ---
 
 ## Overview
 
-**Echinopsis peruviana** (syn. *Trichocereus peruvianus*), commonly known as the **Peruvian torch cactus**, is a fast-growing columnar cactus native to the Andean slopes of Peru, Ecuador, and Bolivia.
+**Echinopsis peruviana** (syn. *[[trichocereus-peruvianus]]*), commonly known as the **Peruvian torch cactus**, is a fast-growing columnar cactus native to the Andean slopes of Peru, Ecuador, and Bolivia.
 
-It is one of the principal mescaline-containing cacti used traditionally in Andean medicine and ceremony, alongside the closely related *Echinopsis pachanoi* (San Pedro).
+It is one of the principal mescaline-containing cacti used traditionally in Andean medicine and ceremony, alongside the closely related *[[echinopsis-pachanoi]]* ([[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]).
 
-The species has gained significant popularity in global entheogenic and horticultural communities for its purportedly higher mescaline content compared to *E. pachanoi*.
+The species has gained significant popularity in global entheogenic and horticultural communities for its purportedly higher [[gottlieb-peyote-botany-and-mescaline-content]] compared to *E. pachanoi*.
 
 Peruvian torch has been used for over 3,000 years in pre-Columbian Andean cultures, with archaeological evidence of its ritual use dating to the Chavín civilization (circa 900–200 BCE).
 
@@ -87,44 +87,3 @@ The primary psychoactive constituent of *E. peruviana* is mescaline, a phenethyl
 Mescaline content is concentrated in the photosynthetic green outer layer (cortical tissue) of the stem, with the white inner pith containing negligible alkaloids.
 
 Reports of significantly higher mescaline content in *E. peruviana* compared to *E. pachanoi* have been inconsistent, with some analytical studies showing substantial overlap between the two species.
-
-Variation in alkaloid content is influenced by genetics, growing conditions, age of the plant, and the specific tissue sampled.
-
-## Ethnobotanical and Historical Significance
-
-The archaeological record of [[peyote-mescaline-cactus-pharmacology]] use in the Andes is among the oldest documented entheogenic traditions in the world.
-
-Ceramic effigy vessels depicting the San [[san-pedro-cactus-history]] from the Chavín de Huántar site (circa 900 BCE) represent the earliest clear evidence of ritual cactus use.
-
-In contemporary Andean healing traditions (*curanderismo*), *E. peruviana* is prepared as a bitter decoction called *cimora* or *huachuma*, consumed during all-night ceremonial healing sessions.
-
-The *mesada* ceremony, led by a *curandero* (healer), involves consuming the cactus preparation alongside tobacco, perfumes, and rhythmic music to invoke protective spirits and diagnose illness.
-
-Peruvian torch is specifically associated with northern Peruvian curing traditions, while *E. pachanoi* is more commonly used in Ecuadorian and central Peruvian practices.
-
-The cactus is also planted as a living fence (*cercos vivos*) around homes and fields in Andean communities, serving both practical boundary and spiritual protection functions.
-
-## Cultivation
-
-*E. peruviana* is straightforward to cultivate and grows rapidly under appropriate conditions, making it popular among cactus enthusiasts.
-
-It prefers well-draining, mineral-rich soil (gritty cactus mix with pumice, perlite, or coarse sand), full sun to partial shade, and moderate watering during the [[savory-growing-season-and-non-growing-season-management]].
-
-Propagation is typically by seed or by rooting cut segments. Cuttings should be calloused for 2–4 weeks before planting to prevent rot.
-
-Growth rates of 30–60 cm per year are common in warm climates with regular fertilization during spring and summer.
-
-The species is relatively cold-hardy, tolerating brief freezes to -5°C if kept dry, though prolonged cold or wet conditions during winter are lethal.
-
-Pests include mealybugs, scale insects, and [[cervantes-spider-mites-identification-control]]; fungal rot is the primary disease concern, particularly from overwatering or poor drainage.
-
-## See Also
-
-- [[corypha-umbraculifera]]
-
-- [[echinopsis-lageniformis]]
-
-- [[lophophora-williamsii]]
-- [[dmt]]
-- [[coryphantha-compacta]]
-- [[tabernanthe-iboga]]

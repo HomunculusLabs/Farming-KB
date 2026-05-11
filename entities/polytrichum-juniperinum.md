@@ -52,8 +52,8 @@ Leaves are 5–8 mm long, lanceolate to linear-lanceolate, with incurved margins
 and a sharp, serrulate apex. The leaf margins are strongly recurved in the
 lower third, a distinctive feature separating it from *P. commune*.
 
-The adaxial leaf surface bears 30–50 lamellae, vertical plates of photosynthetic
-tissue that increase surface area for gas exchange. Each lamella consists of 4–6
+The adaxial [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] bears 30–50 lamellae, vertical plates of photosynthetic
+tissue that increase surface area for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]. Each lamella consists of 4–6
 cells in height with a terminal cell that is broad, papillose, and notched.
 
 Spore capsules are cylindrical, 3–5 mm long, borne on a reddish seta 1–3 cm
@@ -63,10 +63,10 @@ Peristome teeth are 64 in number, a diagnostic feature of the genus.
 ## Distribution and Habitat
 
 *P. juniperinum* has a circumboreal distribution across Europe, Asia, and
-North America. In Europe, it occurs from the Mediterranean to arctic
+[[guzman-psilocybin-mushrooms-north-america]]. In Europe, it occurs from the Mediterranean to arctic
 Scandinavia, and in North America from the southern Appalachian Mountains to
-Alaska. It is also found in southern South America, Australasia, and
-mountainous tropical regions.
+Alaska. It is also found in southern [[guzman-psilocybin-mushrooms-south-america]], Australasia, and
+mountainous [[fukuoka-natural-farming-in-tropical-regions]].
 
 The species is a generalist pioneer of mineral soils. It colonizes sandy banks,
 gravel bars, roadcuts, burned forest floors, mine tailings, and abandoned
@@ -85,57 +85,6 @@ significantly.
 
 ## Ecology and Reproduction
 
-*P. juniperinum* plays an important role in primary succession by stabilizing
+*P. juniperinum* plays an important role in [[dighton-fungi-volcanic-glacier-primary-succession]] by stabilizing
 disturbed substrates and facilitating soil development. Its rhizoids bind soil
 particles, reducing erosion, while accumulated [[hamilton-composting-and-organic-matter-management]] creates conditions
-for later-successional species.
-
-The central conducting strand in the stem is a unique feature among mosses,
-functioning analogously to xylem in vascular plants. This tissue transports
-water and nutrients upward through capillary action, allowing stems to achieve
-greater heights than most bryophytes.
-
-[[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces spore capsules annually in favorable conditions.
-*P. juniperinum* is dioicous, with male and female reproductive structures on
-separate plants. [[aquatic-fungi-spore-dispersal-ingold]] occurs from spring through summer.
-
-Asexual reproduction occurs through stem fragmentation and the production of
-specialized vegetative propagules. The species also regenerates readily from
-rhizoid fragments in the soil, contributing to its success as a pioneer.
-
-The species provides microhabitat for various invertebrates including
-springtails, mites, and nematodes. Its dense cushions retain moisture and
-moderate surface temperatures, creating favorable conditions for seed
-germination of vascular plants.
-
-## Uses and Conservation
-
-*P. juniperinum* has limited direct economic use compared to Sphagnum species.
-However, it has been used traditionally as bedding material and insulation. Its
-ability to colonize contaminated soils has prompted interest in its potential
-for phytoremediation of heavy metal-polluted sites.
-
-In ecological research, the species serves as a model organism for studying
-bryophyte physiology, particularly water transport through conducting strands
-and desiccation tolerance mechanisms. Its lamellae have been extensively
-studied as analogues of vascular plant mesophyll.
-
-The species is not considered threatened and is one of the most common
-Polytrichaceae worldwide. It benefits from human disturbance, as road
-construction, logging, and fire create new colonizable habitat.
-
-Conservation concerns are minimal, though local populations may be affected by
-habitat stabilization as successional communities mature and shade out pioneer
-moss species. In heavily managed landscapes, it persists on roadcuts, gravel
-paths, and other regularly disturbed ground.
-
-## See Also
-
-- [[polytrichum-commune]]
-- [[polytrichum-formosum]]
-- [[pleurozium-schreberi]]
-- [[dicranum-scoparium]]
-- [[hypnum-cupressiforme]]
-- [[bryum-argenteum]]
-- [[funaria-hygrometrica]]
-- [[mnium-hornum]]

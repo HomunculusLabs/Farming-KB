@@ -1,5 +1,5 @@
 ---
-title: fungi in the environment fungi in beetle guts Guts
+title: Fungi In The Environment Fungi In Beetle Guts
 tags:
   - mycology
   - insect-fungi-symbiosis
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 17: Blackwell, M., Suh, S.O. & Nardi, J.B. "Fungi in the hidden environment: the gut of beetles."
+  - Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (eds.) Fungi in the Environment. Cambridge University Press, 2007. Chapter 17: Blackwell, M., Suh, S.O. & Nardi, J.B. "Fungi in the hidden environment: the fungi-in-the-gut-of-beetles."
 created: 2026-04-28
 type: concept
 ---
@@ -49,7 +49,7 @@ Initial surveys of basidioma-feeding beetles (Ciidae, Erotylidae, Tenebrionidae)
 - Insect gut yeasts were distributed throughout the yeast phylogenetic tree based on SSU and LSU rDNA analysis
 - **Several entirely new, insect-associated yeast clades** were discovered, including the *Candida tanzawaensis* clade, which contained 30% of all collected gut yeasts
 - **One dominant yeast** was typically present per beetle gut, based on cloning methods
-- **Yeast-beetle specificity** was observed between certain yeasts and beetles across broad geographical ranges and multiple developmental stages
+- **Yeast-beetle specificity** was observed between certain yeasts and beetles across broad geographical ranges and multiple [[psilocybe-cubensis-developmental-stages]]
 
 The discovery of nearly 200 undescribed yeasts gains particular significance given that fewer than 700 species of ascomycete yeast had been described from all of Earth's habitats prior to this work. Because almost all dissected beetles in Cucujoidea and Tenebrionoidea bore yeasts, the vast untapped beetle diversity supports high estimates of as-yet-undiscovered yeasts.
 
@@ -68,7 +68,7 @@ Research on mushroom-feeding beetles raised several fundamental questions:
 
 ### Wood-Boring Beetles and Xylose Fermentation
 
-The wood-boring beetle *Odontotaenius disjunctus* (Passalidae) revealed a contrasting pattern: low yeast diversity compared to fungus-feeding beetles, but a distinct and overall more diverse gut community. A single yeast taxon similar to *Pichia stipitis* was isolated from over 400 individuals of *O. disjunctus*.
+The wood-boring beetle *Odontotaenius disjunctus* (Passalidae) revealed a contrasting pattern: low yeast diversity compared to fungus-feeding beetles, but a distinct and overall more diverse gut community. A single yeast taxon similar to *[[pichia-stipitis]]* was isolated from over 400 individuals of *O. disjunctus*.
 
 *P. stipitis* is notable for its ability to ferment and assimilate xylose, rare attributes among Saccharomycetes. Other members of the *P. stipitis* clade have also been isolated from wood-boring beetles. Only about six taxa in this clade and five distantly related taxa outside it are known to ferment and assimilate xylose.
 
@@ -76,7 +76,7 @@ The correlation between xylose-processing yeasts and wood-boring beetles is sign
 
 ### Detection of Non-Culturable Microbes
 
-Gene cloning from beetle guts revealed that culture methods recovered most ascomycete yeasts but missed some organisms. Notably, basidiomycete yeasts (*Malassezia* spp.) were common in sequenced clones but were not isolated in culture, likely because special media were not used. Several protist, insect, and microsporidian sequences were also recovered. No cloned sequences were identical to known sequences, indicating that DNA databases are still deficient in many microbial sequences.
+Gene cloning from beetle guts revealed that [[mushroom-spawn-making-and-pure-culture-methods]] recovered most ascomycete yeasts but missed some organisms. Notably, basidiomycete yeasts (*Malassezia* spp.) were common in sequenced clones but were not isolated in culture, likely because special media were not used. Several protist, insect, and microsporidian sequences were also recovered. No cloned sequences were identical to known sequences, indicating that DNA databases are still deficient in many microbial sequences.
 
 ## Compartmentalization of Microbes in the Hindgut
 
@@ -87,35 +87,4 @@ The insect gut comprises three main divisions: foregut, midgut, and hindgut. Mic
 - Microscopy shows that the hindgut contains an abundant and diverse microbiota including protists, bacteria, and yeasts
 - The yeast *Pichia stipitis* and its relatives are found in all four hindgut chambers
 
-The compartmentalized structure likely allows sequential processing of wood, with different microbial communities in each chamber contributing to the stepwise breakdown of cellulose and hemicellulose.
-
-## The *Candida tanzawaensis* Clade
-
-The *Candida tanzawaensis* clade is the largest single group of insect-associated yeasts, containing 30% of all gut yeasts collected from mushroom-feeding beetles. This previously unknown, entirely insect-associated clade represents a major radiation of yeast species that has evolved in association with beetles. The existence of such a large, specialized clade provides strong evidence for long-term co-evolutionary associations between yeasts and their beetle hosts.
-
-## Implications for Fungal Diversity Estimates
-
-The beetle gut ecosystem has proven to be an extraordinarily rich source of novel fungal diversity. Key implications include:
-
-- The insect gut represents a significantly undersampled fungal habitat
-- Current estimates of global yeast diversity are likely vast underestimates
-- Insect-fungal associations may be far more prevalent and specific than previously recognized
-- The functional roles of gut yeasts in insect nutrition, detoxification, and digestion are only beginning to be understood
-- Molecular methods (gene cloning, microscopy) reveal organisms missed by standard [[agar-culture-techniques-detailed]]
-
-## Comparison With Bacterial Gut Symbionts
-
-The fungal gut communities of beetles can be contrasted with the better-studied bacterial endosymbionts of insects. While bacterial symbionts such as *Wolbachia* are known to influence host reproduction and speciation rates, the effects of gut yeasts on beetle evolution are less clear. The high specificity of certain yeast-beetle associations across broad geographic ranges and multiple developmental stages suggests a long co-evolutionary history, but the functional consequences for beetle fitness remain to be fully quantified.
-
-One notable difference is that bacterial endosymbionts are often vertically transmitted (passed from parent to offspring), while gut yeasts in beetles appear to be environmentally acquired, likely from the fungal substrates on which the beetles feed. This mode of transmission may allow for more dynamic associations and greater flexibility in yeast-beetle pairings over evolutionary time.
-
-## Prospects for Discovery
-
-The beetle gut remains one of the most promising frontiers for [[biodiversity-fungal-biodiversity-estimation-methods]] discovery. With an estimated 350,000 to 400,000 described beetle species (and many more undescribed), and with the majority not yet examined for gut fungi, the potential for new yeast species is enormous. The discovery of the *Candida tanzawaensis* clade as a major insect-associated radiation suggests that many more such specialized clades await discovery. Advances in high-throughput sequencing and single-cell genomics will likely accelerate this discovery process in the coming years.
-
-## See Also
-- [[fungi-in-the-environment-decomposition-wood-decay]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[decomposition]]
-- [[fungal-decomposition]]
-- [[pichia-stipitis]]
+The compartmentalized structure likely allows sequential processing of wood, with different [[cannabis-rhizosphere-microbial-communities]] in each chamber contributing to the stepwise breakdown of cellulose and hemicellulose.

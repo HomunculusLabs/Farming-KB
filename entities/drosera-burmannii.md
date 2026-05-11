@@ -87,27 +87,3 @@ Digestion is completed within 3–7 days depending on prey size and temperature.
 Seeds require no stratification and germinate readily on moist peat-sand mix. Warm temperatures (22–30 °C) and bright light promote rapid growth and vigorous tentacle production.
 
 The species is well-suited to terrarium culture, where consistent humidity can be maintained. It does not require a dormancy period and grows continuously under favorable conditions.
-
-Because the species is annual or short-lived perennial, regular seed collection is necessary to maintain a continuous culture. Seeds are small, black, and produced abundantly.
-
-A single healthy plant can produce several hundred seeds over its lifetime. Seeds are dispersed by wind and water, facilitating natural colonization of suitable habitats.
-
-## Related Species
-
-*D. burmannii* is closely related to *D. sessilifolia* of South America, and the two were long considered conspecific. They are now recognized as distinct species separated by geographic distribution.
-
-*D. indica*, the forked sundew, occupies similar habitats across Africa, Asia, and Australia but is easily distinguished by its erect, linear leaves. The two species frequently co-occur in tropical Australia.
-
-Several natural hybrids with other Australian Drosera species have been documented, though these are uncommon. Hybrid plants typically show intermediate morphology between the parent species.
-
-The rapid tentacle response of *D. burmannii* has made it a model organism for studying plant electrophysiology. Research on this species has contributed to understanding of [[fungal-environmental-sensing-signal-transduction-read]] in carnivorous plants.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[drosera-adelae]]
-- [[drosera-regia]]
-- [[utricularia-vulgaris]]
-- [[nepenthes-rafflesiana]]
-- [[utricularia-australis]]
-- [[nepenthes-maxima]]

@@ -12,20 +12,20 @@ created: 2026-05-09
 
 ## Overview
 
-Ralph Metzner's 1998 review identifies a consistent structural
-pattern across diverse shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] worldwide.
+[[ralph-metzner]]'s 1998 review identifies a consistent structural
+[[psilocin-accumulation-pattern-across-flushes]] diverse shamanic [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] worldwide.
 Despite enormous variation in specific plants, cultural contexts,
 and mythological frameworks, these ceremonies share common elements
 that Metzner argues constitute a practical technology for optimizing
-altered states of consciousness. The identification of these common
+altered [[mckenna-food-gods-designer-states-of-consciousness]]. The identification of these common
 elements provides a cross-cultural framework for understanding how
-indigenous traditions have developed sophisticated protocols for
+[[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] have developed sophisticated protocols for
 the therapeutic and divinatory use of psychoactive plants.
 
 ## Three Distinctive Features
 
 Metzner identifies three features that distinguish traditional
-shamanic entheogenic ceremonies from Western [[metzner-psychedelic-psychotherapy-clinical-history]]:
+[[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] from Western [[metzner-psychedelic-psychotherapy-clinical-history]]:
 
 ### 1. Minimal Verbal Interaction
 
@@ -67,7 +67,7 @@ component of shamanic training.
 
 Traditional ceremonies are "almost always done in darkness or low
 light—which facilitates the emergence of visions." The exception
-is the peyote ceremony, conducted around a fire (though also at
+is the [[native-american-church-peyote-ceremony-structure-roles-roadman]], conducted around a fire (though also at
 night), where "participants may see visions as they stare into
 the fire."
 
@@ -88,62 +88,3 @@ Participants "sitting or lying in a very dark room with only a
 small candle." The healer "sings almost uninterruptedly throughout
 the night, weaving into his or her chants the names of Christian
 saints, spirit allies and the spirits of the Earth, the elements,
-animals and plants."
-
-### Amazonian Ayahuasca Ceremonies
-
-"A small group sitting in a circle, in semidarkness, while the
-initiated healers sing the songs (icaros), through which the
-healing and/or diagnosis takes place." Shamanic "sucking" methods
-of "extracting toxic psychic residues" are sometimes used.
-
-### Native American Church Peyote Ceremonies
-
-Participants sit "on the ground in a circle around a blazing
-central fire in a tipi." The ceremony lasts all night, conducted
-by a "roadman," with "almost constant singing of traditional
-peyote songs throughout the night."
-
-### African Iboga (Bwiti) Ceremonies
-
-"An altar with ancestral and deity images, and people sitting on
-the floor with much chanting and some dancing. Often, there is a
-mirror in the assembly room, in which the initiates may 'see'
-their ancestral spirits."
-
-## Five Universal Experiential Features
-
-Beyond structural elements, Metzner identifies five experiential
-features common across shamanic entheogenic traditions:
-
-1. **Central role of the guide**: A person with extensive
-   personal experience who provides the initiatory experience
-
-2. **Multi-level healing**: Physical, psychic, and spiritual
-   healing through extraction of toxins, soul retrieval, or
-   dismemberment-and-reconstitution experiences
-
-3. **Access to hidden knowledge**: Divination equivalent to
-   Western diagnosis; indigenous healers refer to entheogenic
-   plants as "plant teachers"
-
-4. **Access to metaphysical realms**: The "inner world," "spirit
-   world," "upper or lower world," "otherworld"—realms that
-   become more permeable during ceremony
-
-5. **Perception of spirit beings**: Entities associated with
-   animals, plants, places, ancestors; experienced as "allies,"
-   "power animals," or "guardians" who assist in healing
-
-## Implications for Modern Practice
-
-The consistent presence of these structural and experiential
-elements across cultures suggests they represent a discovered
-technology rather than an arbitrary tradition. The darkness,
-the singing, the minimal talking, the experienced guide—these
-## See Also
-
-- [[ayahuasca-pharmacology-maoi-interactions]]
-
-- [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]
-- [[set-and-setting-psychedelic-therapy-framework]]

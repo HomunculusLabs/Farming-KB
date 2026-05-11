@@ -1,5 +1,5 @@
 ---
-title: Turner Multiple Psychedelic Combinations (turner-essential-psychedelics-cosmic-synergism-combinations)
+title: Turner Multiple Combinations Cosmic Synergism
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-D.M. Turner's "turner multiple combinations cosmic synergism" chapter documents his experiments combining three or more psychedelic substances simultaneously. These experiments explore synergistic effects that emerge from complex polypharmacological combinations. All combinations described were personally tested by Turner, who emphasizes exercising high degrees of caution, especially when MAO inhibitors are involved.
+D.M. Turner's "turner multiple combinations cosmic synergism" chapter documents his experiments combining three or more [[psychedelic-substances-comparison]] simultaneously. These experiments explore synergistic effects that emerge from complex polypharmacological combinations. All combinations described were personally tested by Turner, who emphasizes exercising high degrees of caution, especially when [[mao-inhibitors-and-psychedelics]] are involved.
 
 ## Safety Considerations
 
@@ -88,29 +88,3 @@ This six-substance combination was described as "absolutely beautiful":
 - Feeling of being "hexed" or that some force prevented venturing into expanded awareness
 - Produced the longest lasting and most unpleasant psychedelic trip Turner had in years
 - Ketamine temporarily released the negative state through ego death, but negativity spread into the ketamine domain upon return to self-awareness
-- An omen (large black spider on coffee table) reinforced the warning
-- Conclusion: 2C-B + mushrooms is a combination not to be used, although a powerful shaman might be able to work with it
-
-## 2C-B + Ketamine
-
-- 2C-B and ketamine produce quite different highs; combined they feel like two streams crossing at right angles, creating a uniquely new universe of experience
-- Works well with both small (25 mg) and large (100 mg) ketamine doses
-- With smaller ketamine doses: relaxed immersion in flowing psychedelic mental fireworks
-- The ketamine recovery period is diminished when combined with 2C-B: ease of movement, no nausea, sometimes incredible physical energy
-- Frequently emerged from the ketamine journey and immediately began dancing like a whirling dervish or assuming yogic asanas
-- Significantly increased recollection of the ketamine domain compared to ketamine alone
-- Valuable for creating a "bridge" between normal reality and the ketamine experience
-
-## Related
-
-- [[turner-essential-psychedelics-cosmic-synergism-combinations]] Topics
-
-- [[psychedelic-combination-guide]] - General combination safety and guidance
-- [[turner-ketamine-combinations-and-cydelikspace-navigation]] - Ketamine-specific combinations
-- [[turner-lsd-nitrous-ludiomil-combinations]]
-
-- [[turner-dmt]]
-
-- [[turner-lsd]]
-
-- [[turner-psilocybin]]

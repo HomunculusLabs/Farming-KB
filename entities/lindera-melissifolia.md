@@ -88,18 +88,3 @@ The species' dependence on seasonal flood pulses connects it to broader wetland 
 *Lindera benzoin* (northern spicebush) is the most widespread North American *Lindera*, ranging from New England to the upper Midwest and south to Virginia and Kentucky. It is far more common and adaptable than *L. melissifolia*, tolerating both wet and dry upland sites.
 
 *L. benzoin* differs in its taller stature (1.5–3 m), more elliptical leaves, and yellow flowers that are showier and more conspicuous than those of pondberry. The two species do not co-occur, as *L. benzoin* occupies more northerly and upland habitats.
-
-*Lindera obtusiloba* is an Asian species from China, Korea, and Japan, cultivated ornamentally for its multicolored autumn foliage. It illustrates the disjunct distribution pattern common in Lauraceae between [[polypore-fungi-eastern-north-america]] America and eastern Asia.
-
-Other North American Lauraceae — sassafras (*Sassafras albidum*) and the redbays (*Persea* spp.) — share the family's characteristic aromatic foliage and primitive floral morphology, reflecting the ancient Gondwanan origins of the order Laurales.
-
-## See Also
-
-- [[lindera-benzoin]]
-- [[lindera-obtusiloba]]
-- [[persea-borbonia]]
-- [[sassafras-albidum]]
-- [[litsea-cubeba]]
-- [[cinnamomum-camphora]]
-- [[quercus-alba]]
-- [[fagus-grandifolia]]

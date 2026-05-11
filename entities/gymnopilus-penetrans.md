@@ -14,7 +14,7 @@ sources: []
 
 Gymnopilus penetrans is a wood-inhabiting mushroom in the family
 Cortinariaceae (or Hymenogastraceae under some classifications)
-known to contain psilocybin and related tryptamine compounds. The
+known to contain psilocybin and related [[tryptamine]] compounds. The
 genus Gymnopilus contains over 200 described species, and G.
 penetrans is among those documented as neurotropic in the global
 surveys conducted by Guzmán, Allen, and Gartz. This species is a
@@ -38,7 +38,7 @@ decomposer of woody material.
   recognition of Gymnopilus as a distinct genus
 - **Type locality:** Europe
 - **Notes:** Gymnopilus is distinguished by its rusty
-  spore print, absence of a cortina or well-developed
+  [[boil-a-bag-spore-print-technique-jarrold]], absence of a cortina or well-developed
   veil, and growth on wood. The genus includes both
   psychoactive and non-psychoactive species
 ## Description
@@ -73,11 +73,11 @@ decomposer of woody material.
 - Ring: Absent or represented by a faint fibrillose
   annular zone that quickly disappears
 - Base: Often covered with whitish to yellowish
-  mycelium; may be slightly enlarged
+  [[mycelium]]; may be slightly enlarged
 ### Spores and Microscopy
 | Feature | Description |
 |---|---|
-| Spore print | Rusty brown to ferruginous |
+| [[spore-print]] | Rusty brown to ferruginous |
 | Spore shape | Ellipsoid to amygdaliform |
 | Spore size | 7–10 x 4.5–6 µm |
 | Spore wall | Roughened to warty (echinulate) |
@@ -88,46 +88,3 @@ decomposer of woody material.
 | Pileipellis | Cutis of repent to ascending hyphae |
 | Clamp connections | Present |
 ## Distribution and Habitat
-- **Geographic range:** Widely distributed across temperate
-  Europe and parts of [[psilocybin-north-america-pacific-northwest]]; also reported from
-  Asia in regions with suitable temperate forests
-- **Substrate:** Saprotrophic, growing on decaying wood of
-  coniferous trees (especially Pinus, Picea, Abies) and
-  occasionally on broadleaf wood (Betula, Quercus)
-- **Habitat:** Coniferous and mixed forests, woodlands, and
-  forest margins; found on stumps, fallen logs, branches,
-  and buried wood
-- **Seasonality:** Late summer through autumn (July to
-  November in the Northern Hemisphere); occasionally
-  fruiting in mild winter periods in coastal regions
-- **Frequency:** Moderately common within its range in
-  suitable habitat; often found in the same locations as
-  other Gymnopilus species
-## Chemistry and Active Compounds
-Gymnopilus penetrans is confirmed as one of the
-psilocybin-containing members of the genus Gymnopilus:
-- **Psilocybin:** Detected in low to moderate concentrations;
-  generally less potent than Gymnopilus spectabilis (the
-  best-known psychoactive species in the genus), but
-  sufficient to produce psychoactive effects
-- **Psilocin:** Present in lower amounts; likely arises from
-  dephosphorylation of psilocybin during drying or analysis
-- **Baeocystin:** Minor amounts detected in some collections
-- **Norbaeocystin:** Trace quantities reported
-- **Other compounds:** Like other Gymnopilus species, G.
-  penetrans may contain additional [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]];
-  the genus is chemically diverse beyond its tryptamine
-  alkaloids
-- **Note:** Published potency data should be treated as
-  approximate, as most analyses are from herbarium
-  specimens stored for extended periods
-## Similar Species
-| Species | Distinguishing Features |
-|---|---|
-| [[gymnopilus-junonius]] | Very large, bitter; found on hardwood |
-| [[gymnopilus-fulgens]] | Bright orange cap; more vivid coloring |
-| [[gymnopilus-aeruginosus]] | Greenish tints; distinctive coloration |
-| [[gymnopilus-spectabilis-entity]]
-- [[gymnopilus-fulgens]]
-- [[gymnopilus-sapineus]]
-- [[psilocybe-cyanescens]]

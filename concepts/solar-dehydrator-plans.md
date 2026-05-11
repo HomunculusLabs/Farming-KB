@@ -9,7 +9,7 @@ sources: []
 
 # Solar Dehydrator Plans
 
-A solar food dehydrator uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader. (see [[solar-food-dehydrator-diy]]).
+A [[query-how-to-build-and-use-a-solar-food-dehydrator]] uses the sun's energy to preserve fruits, vegetables, herbs, and meats without electricity. Well-designed models reach 110-140F internally — the ideal range for food dehydration — using nothing but sunlight and natural convection. This is one of the most practical and cost-effective off-grid preservation tools available to a homesteader.
 
 ## Design Principles
 
@@ -19,10 +19,10 @@ Solar dehydrators work on two fundamental principles:
 2. **Convection** — warm air rises, creating a natural draft that pulls cool air in at the bottom, passes it over the heated absorber plate, and exhausts warm moist air out the top
 
 The key design variables are:
-- **Collector area** — determines how much solar energy is captured. Larger area = higher temperatures and faster drying. (see [[food-dehydration-guide]]).
+- **Collector area** — determines how much [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] is captured. Larger area = higher temperatures and faster drying.
 - **Airflow path** — must be smooth and unrestricted. Any bottleneck reduces performance.
-- **Insulation** — reduces heat loss, especially on cloudy days and in cool climates.
-- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow temperature control.
+- **Insulation** — reduces heat loss, especially on cloudy days and in [[greenhouse-cool-climates-mollison]].
+- **Vents** — inlet at the bottom (cool air), outlet at the top (warm moist air). Adjustable vents allow [[hamilton-greenhouse-heating-and-temperature-control]].
 
 ## The Indirect Solar Dehydrator (Recommended Design)
 
@@ -53,7 +53,7 @@ The indirect design separates the solar collector from the drying chamber. Sun h
 
 ### Orientation
 
-- Face the collector toward true south (Northern Hemisphere) or true north (Southern Hemisphere)
+- Face the collector toward true south (Northern Hemisphere) or true north ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]])
 - Tilt angle: approximately your latitude for year-round use. For summer-only use, tilt at latitude minus 10-15 degrees.
 - Avoid shading from trees, buildings, or other structures
 
@@ -107,3 +107,25 @@ Condition dried foods before storage: place in jars, seal, and shake daily for 7
 - Clean the absorber plate annually (wipe with a damp cloth)
 
 For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[emergency-preparedness]].
+
+
+## Practical Considerations
+Implementation requires careful attention to local conditions,
+available resources, and the specific goals of the practitioner.
+Documenting results and adapting approaches based on observed
+outcomes leads to continuous improvement over time.
+
+
+## Integration Strategies
+Combining multiple approaches often yields better results than
+relying on any single technique. Consider how this topic relates
+to broader system design and look for synergies between methods
+that can amplify overall effectiveness.
+
+
+## See Also
+- [[comparison-solar-dehydrator-vs-electric-dehydrator]]
+- [[solar-food-dehydrator-diy]]
+- [[comparison-solar-dehydrator-vs-root-cellar]]
+- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+- [[comparison-solar-cooking-vs-solar-dehydrating]]

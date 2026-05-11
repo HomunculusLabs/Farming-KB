@@ -88,15 +88,3 @@ supports abundant plant life.
 ## Relationship to the Complete System
 
 Surface cultivation is part of the broader [[jeavons-grow-biointensive-method-overview]] system.
-Deep soil preparation develops good structure initially, and surface
-cultivation maintains it. Together with regular
-[[jeavons-fertilization-organic-soil-amendments]], and good
-[[jeavons-crop-rotation-detail]], surface cultivation
-helps maintain the sustainable soil fertility that is the foundation
-of the method.
-
-The GROW BIOINTENSIVE raised bed represents a balance between nature's
-natural stratification and human loosened land-sliding soil. Surface
-cultivation helps maintain this balance over the long term, ensuring
-that the living soil ecosystem continues to thrive and support healthy
-plant growth year after year.

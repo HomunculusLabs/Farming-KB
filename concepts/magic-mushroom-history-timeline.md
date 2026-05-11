@@ -17,11 +17,11 @@ sources:
 
 # Magic Mushroom History Timeline
 
-A chronological overview of key events in the cultural and scientific history of psychoactive mushrooms. (see [[psilocybin-mushroom]]).
+A chronological overview of key events in the cultural and scientific history of psychoactive mushrooms.
 
 ## Pre-Columbian Era
 
-Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs called them *teonanacatl*, meaning "flesh of the gods" or "divine mushroom." Stone carvings from Guatemala dating to approximately 1000 BCE depict mushroom-shaped figures, and mushroom stones have been found throughout highland Mesoamerica. The Mazatec, Mixtec, Nahuatl, Zapotec, and other indigenous peoples of Oaxaca maintained unbroken traditions of mushroom use into the 20th century. (see [[psilocybin-mushrooms-overview]]).
+Psychoactive mushrooms have been used in Mesoamerica for millennia. The Aztecs called them *teonanacatl*, meaning "flesh of the gods" or "divine mushroom." Stone carvings from Guatemala dating to approximately 1000 BCE depict mushroom-shaped figures, and mushroom stones have been found throughout highland Mesoamerica. The Mazatec, Mixtec, Nahuatl, Zapotec, and other indigenous peoples of Oaxaca maintained unbroken traditions of mushroom use into the 20th century.
 
 ## 1915-1938: Early Scholarly Interest
 
@@ -71,3 +71,18 @@ Despite criminalization, psilocybin mushrooms became widely known and used in th
 - **1970s-2000s**: Psilocybin mushrooms became one of the most widely used illicit drugs globally, with indigenous use continuing in Oaxaca alongside a growing global underground.
 - **2000s-present**: A scientific renaissance in psychedelic research has reopened study of psilocybin for depression, anxiety, PTSD, and addiction. See [[psilocybin-therapeutic-applications]] and [[psilocybin-mushroom-legal-history]].
 - **2018-Present**: Cities including Denver, Oakland, Santa Cruz, and Washington DC have decriminalized psilocybin mushrooms. Oregon legalized supervised therapeutic use in 2020.
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
+- [[mckenna-food-gods-leary-harvard-psilocybin-project]]
+- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
+- [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]

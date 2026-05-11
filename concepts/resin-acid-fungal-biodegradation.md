@@ -88,11 +88,3 @@ organisms capable of degrading multiple pollutant classes simultaneously.
 White rot fungi are particularly well-suited for this purpose because their
 non-specific oxidative enzyme systems can attack diverse chemical
 structures. The ability to degrade both resin acids and chlorinated lignin
-derivatives in the same treatment system simplifies process design and may
-reduce treatment costs compared to sequential specialized treatment steps.
-
-## Related Concepts
-
-- biobleaching-of-pulp-by-white-rot-fungi for wood pretreatment
-- [[white-rot-fungi-bioremediation]] for oxidative enzyme systems
-- fungal-lignocellulose-degradation-mechanisms for [[bloomfield-wood-decay-fungi-spalted-timber]] processes

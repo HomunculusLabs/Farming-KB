@@ -87,31 +87,3 @@ The fruit must be cooked before eating, as raw eggplant contains solanine and is
 Frying eggplant in oil produces a rich, creamy texture that is the basis of many traditional dishes. Grilling or roasting over an open flame adds smoky complexity and reduces oil absorption compared to pan-frying.
 
 Nutritionally, eggplant is low in calories (25 kcal per 100 g) and provides dietary fiber, potassium, magnesium, and folate. The purple skin is particularly rich in anthocyanins, notably nasunin.
-
-Nasunin is a delphinidin-based anthocyanin with potent antioxidant and iron-chelating properties. It has demonstrated neuroprotective effects in preclinical studies and may help prevent lipid peroxidation in brain cell membranes.
-
-## Bioactive Compounds
-
-Eggplant fruit contains significant concentrations of phenolic compounds, with chlorogenic acid as the predominant chlorogenic acid derivative. Total phenolic content varies by variety and cultivation conditions.
-
-Anthocyanins, primarily delphinidin-3-rutinoside (nasunin) and delphinidin-3-glucoside, are concentrated in the fruit skin. Purple-skinned varieties contain 50–200 mg anthocyanins per 100 g fresh weight.
-
-Glycoalkaloids, including solasodine and solamargine, are present at low levels in eggplant. These compounds have attracted interest for their antiproliferative and anticancer properties in vitro.
-
-Solasodine serves as a precursor for synthetic steroid pharmaceuticals and has been investigated as a topical treatment for skin cancer. Concentrations are highest in the calyx and green portions of the fruit.
-
-Carotenoids (β-carotene, lutein) and vitamin C contribute to the overall antioxidant capacity. Eggplant also contains small amounts of melatonin, a hormone with antioxidant and sleep-regulating functions.
-
-Dietary fiber in eggplant (approximately 3 g per 100 g) is primarily insoluble and contributes to digestive health. The combination of fiber, potassium, and bioactive phenolics positions eggplant as a functional food in Mediterranean dietary patterns.
-
-Traditional medicinal uses include application of mashed eggplant for skin inflammation and consumption of eggplant preparations as a cholesterol-lowering remedy. These applications align with the plant's documented antioxidant and lipid-modifying properties.
-
-## See Also
-
-- [[solanum-quitoense]]
-
-- [[capsicum-annuum]]
-- [[allium-sativum-entity]]
-- [[curcuma-longa]]
-- [[manihot-esculenta]]
-- [[beta-vulgaris]]

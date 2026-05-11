@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium.
+  - Barkworth, M.E. et al. (2007). "Manual of Grasses for guzman-psilocybin-mushrooms-north-america." Intermountain Herbarium.
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - USDA NRCS. "Danthonia spicata." PLANTS Database.
   - Peeters, A. (2004). "Wild and sown grasses." Blackwell Publishing.
@@ -25,7 +25,7 @@ sources:
 
 The species typically grows 30–70 cm tall and forms loose, open tussocks with fine-textured, often slightly curly leaves. It is distinguished by its compact, one-sided spike-like panicle and characteristic woolly leaf bases.
 
-Poverty oat grass is an important component of oak savanna, pine barrens, and dry upland forest understories. Its shade tolerance and drought resistance make it one of the more versatile native grasses in eastern North American ecosystems.
+Poverty oat grass is an important component of oak savanna, pine barrens, and dry upland forest understories. Its shade tolerance and drought resistance make it one of the more versatile native grasses in [[polypore-fungi-eastern-north-america]] American ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -67,7 +67,7 @@ The species is classified as a facultative upland species (FACU) in wetland deli
 
 ## Cultivation
 
-Danthonia spicata is available from native plant nurseries specializing in regional ecotypes. Seed germination is moderate, typically 40–60% without special treatment, though cold stratification for 30 days may improve rates.
+Danthonia spicata is available from native plant nurseries specializing in regional ecotypes. [[cannabis-seed-germination]] is moderate, typically 40–60% without special treatment, though cold stratification for 30 days may improve rates.
 
 The species establishes slowly from seed, requiring 2–3 years to develop mature flowering tussocks. This slow establishment makes it less competitive with aggressive weeds during the critical early growth phase.
 
@@ -83,35 +83,8 @@ Controlled burning every 3–5 years can reduce accumulated thatch and stimulate
 
 Danthonia spicata plays a significant role in maintaining native plant diversity in dry woodland and barrens ecosystems. Its moderate growth habit and shade tolerance create a persistent but not dominant ground layer that allows herbaceous forbs to coexist.
 
-The dense fibrous root system provides effective erosion control on steep, dry slopes and thin soils. Root biomass contributes to soil organic matter accumulation and nutrient cycling in nutrient-poor sites.
+The dense fibrous root system provides effective [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on steep, dry slopes and thin soils. Root biomass contributes to [[knf-leaf-mold-humus]] accumulation [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in nutrient-poor sites.
 
 Several species of grass-feeding Lepidoptera use Danthonia as a larval host, including the cobweb skipper (Hesperia metea) in pine barren communities. The seeds provide food for sparrows, juncos, and other ground-feeding birds.
 
 As a cool-season species, it provides green forage in early spring and late autumn, complementing warm-season grasses in mixed plantings. This phenological complementarity extends the period of active photosynthesis in restored ecosystems.
-
-In oak savanna and pine barren restoration, Danthonia spicata serves as an indicator species for successfully reestablished native groundcover. Its presence suggests that soil conditions and light levels are within the range suitable for diverse native plant communities.
-
-The species is relatively long-lived for a perennial grass, with individual tussocks persisting 10–20 years in stable plant communities. It reproduces both by seed and through limited tillering from the base of established clumps.
-
-## Cultural and Economic Significance
-
-The common name "poverty grass" reflects the species' association with poor, thin soils where little else grows. This ecological specialization has made it a valuable indicator of nutrient-poor sites in ecological assessments and land use planning.
-
-Danthonia spicata has limited direct economic value as a forage species due to its low productivity. However, it contributes to the carrying capacity of native rangelands and provides palatable early-spring grazing when warm-season grasses are dormant.
-
-In the native plant horticulture industry, the species is increasingly valued for sustainable landscaping applications. Its drought tolerance, shade adaptability, and low maintenance requirements make it suitable for rain gardens, green roofs, and naturalized areas.
-
-The species is used in mine reclamation and roadside revegetation on acidic, low-fertility substrates where more productive agronomic species fail to persist. Its ability to establish on disturbed sites with minimal soil amendment reduces restoration costs.
-
-Ecologists consider Danthonia spicata a key species in barrens and glade conservation. These ecologically significant communities harbor high concentrations of rare and endemic plant species, and maintaining the native grass component is essential for their long-term viability.
-
-## See Also
-
-- [[schizachyrium-scoparium]]
-- [[festuca-ovina]]
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[deschampsia-caespitosa]]
-- [[stipa-tenuissima]]
-- [[briza-media]]
-- [[molinia-caerulea]]

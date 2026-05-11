@@ -38,29 +38,29 @@ true distribution. In Japan, where this species is very common,
 it was not recorded by the standard mycoflora references of
 Imazeki and Hongo (1983, 1987) or Imazeki et al. (1988), and was
 only reported by Hongo (1986). Surprisingly, there are no reports
-from Central America or the Caribbean region, which may reflect
+from [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] or the Caribbean region, which may reflect
 gaps in exploration rather than genuine absence.
 
 ## Type Two: Northern Hemisphere Species
 
 Species restricted to the northern hemisphere include Amanita
-species, Cordyceps species, Psilocybe pelliculosa, and P. silvatica.
-These taxa are associated with temperate and boreal forests and are
+species, Cordyceps species, [[psilocybe-pelliculosa-entity]], and P. silvatica.
+These taxa are associated with temperate and [[biodiversity-fungi-temperate-boreal-forests]] and are
 typically found in association with coniferous trees or in cold-
 climate grasslands. The restriction to the northern hemisphere
 suggests an origin in Laurasian biogeographic regions, with no
 successful dispersal to southern continents despite similar habitat
-availability in parts of South America and Australasia.
+availability in parts of [[guzman-psilocybin-mushrooms-south-america]] and Australasia.
 
 ## Type Three: Eurasian Species
 
 Some northern hemisphere species are further restricted to Eurasia.
-Amanita muscaria is a prime example, occurring across Europe and
+[[allegro-amanita-muscaria-properties-and-pharmacology]] is a prime example, occurring across Europe and
 Asia in mycorrhizal association with Pinus and Betula. Its
 introduction to other continents through pine plantation forestry
 does not represent natural distribution but rather human-mediated
 dispersal. The Eurasian pattern is typical of fungi with strong
-mycorrhizal associations that evolved alongside specific tree
+[[plants-without-mycorrhizal-associations]] that evolved alongside specific tree
 lineages native to the Eurasian landmass.
 
 ## Type Four: North American and Eastern Asiatic Disjunct
@@ -88,62 +88,3 @@ geographically restricted northern taxa.
 ## Type Six: Southeastern Asiatic Species
 
 Species of Southeast Asia include Psilocybe subaeruginascens
-var. subaeruginascens, known from both Japan and Java, while
-the variety septentrionalis is restricted to Japan. This
-distribution reflects the complex biogeographic history of the
-Indo-Malayan region, where land bridge connections and island
-hopping have created distinctive patterns of fungal distribution
-that connect mainland Asia with the Indonesian archipelago.
-
-## Type Seven: Tropical and Subtropical Species
-
-Tropical and subtropical species represent the largest group of
-neurotropic fungi by species count. Psilocybe cubensis, P.
-subcubensis, Copelandia cyanescens with some exceptions, C.
-tropicalis, and other Copelandia species dominate this category.
-Gerronema fibula is an interesting case, reported from Malaysia,
-New Guinea, the Solomon Islands, and South America, but also known
-from Europe, suggesting a [[copelandia-cyanescens-pantropical-distribution-and-ecology]] with temperate
-outliers. The concentration of species diversity in tropical and
-subtropical regions is a dominant theme of the paper, with Mexico,
-Colombia, the Caribbean, Southeast Asia, and South America showing
-the highest species counts.
-
-## Type Eight: Arctic and Alpine Species
-
-Arctic and alpine species are represented among neurotropic fungi
-by Psilocybe aztecorum var. aztecorum, which grows exclusively in
-subalpine and alpine habitats in the high mountains of Mexico at
-elevations up to 4000 meters. This variety shows strong
-relationships with P. baeocystis from the Pacific Northwest of
-North America (Oregon, Washington, and British Columbia) and P.
-quebecensis from Quebec, Canada. All three species belong to
-Section Aztecorum, suggesting an ancient alpine distribution
-that became fragmented as lowland tropical forests expanded
-between mountain ranges.
-
-## Type Nine: Endemic Species
-
-Endemic species, those known from only a single country or small
-geographic area, are numerous among neurotropic fungi. Mexican
-endemics include [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]], Hypholoma
-naematoliformis, Psilocybe muliercula, P. chiapanensis, and P.
-laurae. Colombian endemics include P. columbiana, P. guatapensis,
-and P. pintonii. Other notable endemics are P. brasiliensis and P.
-paulensis from Brazil, P. hispanica from Spain, P. serbica from
-Central Europe, P. portoricensis from Puerto Rico, and the
-Panaeolina species described by Hongo from Japan and by Natarajan
-and Raman from India. The prevalence of endemism in Mexico, which
-leads the world with 44 taxa of neurotropic Psilocybe, reflects
-## See also
-
-[[guzman-allen-gartz-global-psilocybe-biogeography]]
-[[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-
-## See Also
-
-- [[guzman-nine-distribution-types-neurotropic-fungi-detailed]]
-
-- [[hongo-nine-distribution-types-fungi-biogeography]]
-
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]

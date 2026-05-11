@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Skocibusic, M. & Bezić, N. (2004). "permaculture-designers-manual-essential-oil-plants composition of Calamintha grandiflora." Journal of Essential Oil Research, 16(2), 109–112.
+  - Skocibusic, M. & Bezić, N. (2004). "permaculture-designers-manual-essential-oil-plants composition of Calamintha grandiflora." Journal of permaculture-designers-manual-essential-oil-plants Research, 16(2), 109–112.
   - Senatore, F. et al. (2006). "Antibacterial activity of Calamintha grandiflora essential oil." Journal of Essential Oil Research, 18(3), 321–325.
   - Tuttolomondo, T. et al. (2014). "query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms and antioxidant activity of Calamintha grandiflora from Sicily." Natural Product Research, 28(11), 834–841.
   - Karray-Bouraoui, N. et al. (2010). "Essential oil composition of Calamintha grandiflora from Tunisia." Chemistry of Biodiversity, 7(5), 1087–1095.
@@ -23,7 +23,7 @@ It is native to southern and central Europe, where it grows in woodland clearing
 
 Large-flowered calamint is distinguished from related species by its relatively large, showy flowers and preference for shaded or semi-shaded habitats.
 
-The plant has been used in traditional European herbal medicine as a digestive aid and mild sedative. It is increasingly cultivated as an ornamental garden plant for its extended flowering period.
+The plant has been used in traditional European [[childrens-herbal-medicine]] as a digestive aid and mild sedative. It is increasingly cultivated as an ornamental garden plant for its extended flowering period.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ Its range extends from the Iberian Peninsula and southern France through Italy, 
 
 The species typically inhabits deciduous and mixed woodlands, forest edges, clearings, and rocky slopes at elevations from 200 to 1,800 meters.
 
-It prefers partial shade to dappled sunlight and moderately moist, well-drained soils with a neutral to slightly acidic pH. It is less tolerant of drought than *Calamintha nepeta*.
+It prefers partial shade to dappled sunlight and moderately moist, well-drained soils with a neutral to slightly acidic pH. It is less tolerant of drought than *[[calamintha-nepeta]]*.
 
 In mountainous regions, it is a characteristic component of subalpine meadow communities and forest-edge ecotones.
 
@@ -57,7 +57,7 @@ In mountainous regions, it is a characteristic component of subalpine meadow com
 
 Large-flowered calamint is increasingly popular as a garden ornamental, valued for its long bloom period, attractive flowers, and aromatic foliage.
 
-**Cultivation parameters:**
+**[[mushroom-species-cultivation-parameters]]:**
 
 - **Soil:** Well-drained, moderately fertile, pH 5.5–7.0. Tolerates clay and loamy soils.
 - **Light:** Partial shade to full sun. Performs best with morning sun and afternoon shade.
@@ -87,35 +87,4 @@ Tunisian and Sicilian populations show distinct chemical profiles, with piperito
 
 **Reported pharmacological activities:**
 
-Essential oil demonstrates significant antibacterial activity against *Staphylococcus aureus*, *Bacillus cereus*, and *Listeria monocytogenes* in vitro.
-
-Moderate antifungal activity has been observed against *Candida* species and dermatophyte fungi.
-
-Antioxidant assays confirm moderate to strong free-radical scavenging capacity, primarily attributed to pulegone.
-
-The plant's traditional use as a digestive and calming herb is supported by documented antispasmodic activity in isolated tissue preparations.
-
-## Garden and Landscape Use
-
-Large-flowered calamint is valued in ornamental horticulture for its combination of attractive flowers, aromatic foliage, and adaptability.
-
-**Key ornamental characteristics:**
-
-- Extended bloom period of 2–3 months, providing sustained color through midsummer.
-- Pink flowers attract bees, butterflies, and hummingbirds.
-- Aromatic foliage provides sensory interest in herb gardens and sensory gardens.
-- [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit suits border plantings, rock gardens, and woodland gardens.
-
-It pairs well with other shade-tolerant perennials such as hostas, ferns, and astilbes. The airy flower spikes add vertical interest to mixed borders.
-
-In [[hamilton-cottage-garden-design]] designs, it fills the gap between spring bulbs and autumn asters. Its informal growth habit suits naturalistic and prairie-style plantings.
-
-The species is increasingly available from specialty nurseries. Cultivar selection is limited, but the straight species remains the most widely grown form.
-
-## See Also
-
-- [[thymus-vulgaris-entity]]
-- [[salvia-officinalis]]
-- [[clinopodium-vulgare]]
-- [[satureja-montana]]
-- [[micromeria-fruticosa]]
+Essential oil demonstrates significant antibacterial activity against *[[staphylococcus-aureus]]*, *Bacillus cereus*, and *Listeria monocytogenes* in vitro.

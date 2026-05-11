@@ -1,13 +1,13 @@
 ---
-title: Copelandia and copelandia panaeoloideae neurotropic fungi taxonomy distribution Fungi
+title: Copelandia Panaeoloideae Neurotropic Fungi Taxonomy Distribution
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - taxonomy
   - copelandia
   - panaeolus
   - panaeolina
-  - guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions in
+  - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]] in
   - biogeography
   - guzman-allen-gartz
 date: 2026-04-28
@@ -88,33 +88,3 @@ occurring infrequently in Europe).
 
 Stijve and Meijer (1993) failed to find psilocybin and other psilocybian
 compounds in Gymnopilus spp. and . Similarly,
-Gymnopilus spectabilis, long reported as hallucinogenic, yielded
-questionable results upon re-analysis. However, Tanaka et al. (1993)
-identified neurotropic oligoisoprenoides in G. spectabilis, suggesting a
-different class of active compounds may be responsible.
-
-## Distribution Patterns
-
-Several distribution patterns emerge from the Panaeoloideae:
-
-- **Cosmopolitan**: [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] and most Panaeolus species are
-  found worldwide. Surprisingly, P. foenisecii is not recorded from
-  Central America or the Caribbean, and in Japan it is common but
-  absent from major mycological references by Imazeki and Hongo.
-- **Tropical/subtropical**: , C. tropicalis, and
-  other Copelandia species (with exceptions like C. cyanescens in
-  temperate disturbed zones).
-- **Northern/endemic**: Panaeolus moellerianus and P. olivaceus from the
-  Faeroe Islands represent northern adaptations. Species described by
-  Hongo from Japan and by Natarajan and Raman from India are largely
-  endemic to their regions.
-
-## Related Topics
-
-- The [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] with these fungi are part of the broader
-  issues discussed in
-
-## See Also
-- [[guzman-allen-gartz-doubtful-and-disputed-neurotropic-species]]
-- [[guzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species]]
-- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]

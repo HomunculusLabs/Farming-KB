@@ -3,26 +3,26 @@ title: Homestead Workshop and Tools
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, equipment, construction, tools, workflow]
+tags: [[homesteading]], equipment, construction, tools, workflow]
 sources: []
 ---
 
 # Homestead Workshop and Tools
 
-A homestead workshop is where you build, repair, and maintain everything from fence posts to furniture to animal shelters. Unlike a specialist's shop, a homestead workshop must be versatile — covering carpentry, metalwork, plumbing, electrical, and mechanic work with a single set of tools. (see [[barn-construction-reference]]).
+A homestead workshop is where you build, repair, and maintain everything from fence posts to furniture to animal shelters. Unlike a specialist's shop, a homestead workshop must be versatile — covering carpentry, metalwork, plumbing, electrical, and mechanic work with a single set of tools.
 
 ## Workshop Layout
 
 Design the workshop around workflow zones similar to [[homestead-kitchen-design]] principles:
 
-- **Bench area** — heavy workbench (minimum 6 feet long, 30-36 inches deep, 34-36 inches tall) secured to the wall. Hardwood top, minimum 2 inches thick. (see [[rocket-stove]]).
+- **Bench area** — heavy workbench (minimum 6 feet long, 30-36 inches deep, 34-36 inches tall) secured to the wall. Hardwood top, minimum 2 inches thick.
 - **Assembly area** — open floor space for larger projects. Minimum 8x8 feet clear.
 - **Tool storage wall** — pegboard or French cleat system within arm's reach of the bench.
 - **Material storage** — lumber racks, hardware bins, scrap pile. Keep dimensional lumber flat and dry.
 - **Power tool station** — near outlets, ideally on a mobile cart for flexibility.
 - **Cleaning/solvent area** — near a door or ventilation. Parts washer if you do engine work.
 
-Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per square foot. A dedicated 20-amp circuit for heavy tools.
+Natural lighting from windows plus bright overhead LEDs (5000K) at minimum 100 lumens per [[comparison-biointensive-vs-square-foot-gardening]]. A dedicated 20-amp circuit for heavy tools.
 
 ## Essential Hand Tools
 

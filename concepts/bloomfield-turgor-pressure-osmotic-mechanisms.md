@@ -88,9 +88,3 @@ processes underpin every aspect of fungal growth, reproduction, and ecological
 function. From the invisible expansion of individual hyphal tips to the
 spectacular eruption of fruiting bodies and the nanosecond launch of spores,
 water is the common thread that unites all fungal biology.
-
-## See Also
-
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
-- [[fungal-spore-dispersal-mechanisms]]

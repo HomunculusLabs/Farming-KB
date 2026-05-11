@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Thyroid Cancer
+title: Blesching Cannabis Thyroid Cancer
 created: 2026-04-26
 tags:
   - cannabis
@@ -58,7 +58,7 @@ menses.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 3
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 3
 
 ## Research Evidence
 
@@ -69,7 +69,7 @@ cannabinoids and cannabis extracts on thyroid cancer cell lines implanted in
 rodents. Of the five natural compounds tested (cannabidiol, cannabigerol,
 cannabichromene, cannabidiol acid, and THC acid), scientists discovered
 cannabidiol (CBD) and cannabidiol-acid (CBD-A) to be the most potent
-inhibitors of thyroid cancer cells. Test results also revealed that while
+inhibitors of thyroid cancer cells. [[interpreting-soil-test-results]] also revealed that while
 cannabinoids are toxic to cancer cells, they exert less potent effects on
 normal cells.
 
@@ -78,7 +78,7 @@ normal cells.
 A 2010 laboratory study from Naples, Italy, confirmed initial findings when
 researchers exposed cancerous thyroid cells to an analog of anandamide
 (Met-F-AEA). The exposure inhibited cancer cell growth and led to increased
-apoptosis (cancer cell death). Scientists also discovered elevated levels of
+apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]]). Scientists also discovered elevated levels of
 [[cannabis-cannabinoid-receptor-pharmacology]] 1 (CB1) expression, suggesting the toxic effect to mutated
 cells likely occurred through CB1 receptor interaction.
 
@@ -88,43 +88,3 @@ Scientists tested six cannabinoids against thyroid cancer cells. Significant
 among them were anandamide (binds relatively equally to CB1 and CB2), CBD, and
 CBD-acid (greater affinity for CB2 than CB1). Indica or indica-heavy hybrids
 tend to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], increasing the probability of enhanced CB2
-activation. CBD-acid is present at higher concentration in fresh, raw leaf and
-can be consumed in juice form.
-
-## Mind-Body Medicine
-
-Hyperthyroidism can lead to Graves' Disease, an autoimmune disorder.
-Nineteenth- and early twentieth-century observers noticed correlations between
-combat stress and Graves' Disease. Psychosomatic studies described the thyroid
-as "the gland of the emotions" and thyrotoxicosis as "crystallized fright."
-
-Early researchers found that thyrotoxicosis was significantly more likely to
-develop when emotional stability rested on a particular person in the family,
-and a threat to or from that person appeared to induce the condition.
-Participating patients proved unduly vulnerable due to "overdependence upon
-parental love and shelter; or fear of repudiation by parents; or excessively
-high ideals of parenthood, of social and moral duties."
-
-A psychiatric study of 200 patients at Presbyterian Hospital in New York found
-that female hyperthyroid patients "make a desperate and lifelong struggle to
-win their mother's approval, and to achieve likeness to her, at the same time
-that they fear her pain."
-
-## Aggravating Factors
-
-The thyroid is centered in the throat, the seat of expression and
-communication. When individual needs, desires, or feelings are repressed rather
-than appropriately expressed, throat problems may draw attention to self-
-expression issues. Aggravating factors may include fear (acute or chronic),
-fear of loss of parental approval, fear of loss of shelter, overdependence
-upon parental love, fear of repudiation by parents, and excessively high
-ideals of parenthood or social and moral duties. Consider building self-esteem,
-reducing fear, worry, and stress, releasing the need for perfection.
-
-## See Also
-
-- [[cannabis-for-thyroid-cancer]]
-
-- [[blesching-cannabis-immune-system-modulation]]
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabinoid-pharmacology]]

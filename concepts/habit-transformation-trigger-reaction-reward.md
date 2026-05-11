@@ -14,12 +14,12 @@ sources:
   - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
   - Benson, H. et al. "Relaxation Response and gene expression." Benson-Henry Institute.
   - Dusek, J.B. et al. (2008). "Genomic counter-stress effects." PLoS ONE.
-  - University of Regensburg. (2009). "Word choice and physiological mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide."
+  - University of Regensburg. (2009). "Word choice and physiological [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]."
 ---
 
 ## Overview
 
-Addiction treatment research has established that any habit can be
+[[metzner-ibogaine-addiction-treatment]] research has established that any habit can be
 broken down into three basic phases: a trigger event, the reaction, and
 the reward phase. This framework applies equally to minor habits like
 foot-tapping and severe addictions.
@@ -72,8 +72,8 @@ The words chosen change the meaning and emotional intensity of the
 experience.
 
 By consciously choosing less intense language, individuals can
-modulate their own stress response. This is not denial but rather a
-precision tool for emotional regulation.
+modulate their own [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]. This is not denial but rather a
+precision tool for [[anandamide-emotional-regulation-blesching]].
 
 ## Inducing the Relaxation Response
 
@@ -88,57 +88,3 @@ metabolism, optimized oxygen consumption, and improved the ability to
 respond to free radicals.
 
 This finding is significant because it demonstrates that a behavioral
-intervention — a simple, repeatable practice — produces measurable
-changes at the genomic level. The relaxation response is not merely a
-subjective feeling but a biological event with structural consequences.
-
-Regular practice of relaxation techniques effectively counteracts the
-chronic stress response that underlies many disease processes,
-providing a free, accessible, and evidence-based health intervention.
-
-## The Square Breathing Technique
-
-Breathing consists of four phases: inhalation, top pause, exhalation,
-and bottom pause. In anxiety or panic attacks, the breath becomes
-rapid and shallow, creating an unfavorable ratio of excess oxygen to
-insufficient CO2.
-
-The body reacts with a rapidly beating heart, increased blood pressure,
-dry mouth, and tingling or numbness in the extremities. The patient
-often believes in impending doom despite reassurance.
-
-The "square your breath" technique addresses this by making all four
-phases equal in duration. Count the natural inhalation length, then
-match that count for hold, exhale, and pause.
-
-With a 4-second count: Inhalation (1-2-3-4), Pause (1-2-3-4),
-Exhalation (1-2-3-4), Pause (1-2-3-4). Continue until calm and
-centered. This superimposes an antidote for the rapid, uneven
-breathing that drives the panic cycle.
-
-## Practical Habit Transformation Example
-
-A person whose trigger is anxiety and whose reaction is impulsive
-shopping can transform the habit by first creating awareness. Simply
-focusing on automatic breathing creates space to notice other automatic
-behaviors, including the shopping impulse.
-
-Once the trigger and habitual choices are visible, the person gains
-impulse awareness and can replace the expensive shopping habit while
-keeping the reward intact — feeling safe and secure.
-
-Replacement options might include: focusing on breath; allowing
-anxiety to exist without judgment; calling a close friend for a warm
-conversation; or taking a relaxing walk. Each delivers some version
-of the safety and security that shopping temporarily provided.
-
-## See Also
-
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[bias-prejudice-judgment-and-health]]
-- [[guilt-martyrdom-harbored-anger-as-health-hazards]]
-- [[gratitude-compassion-forgiveness-healing-effects]]
-- [[mental-contrasting-technique-for-goal-achievement]]
-- [[cannabis-health-index-scoring-system]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[anandamide-and-the-endocannabinoid-system]]

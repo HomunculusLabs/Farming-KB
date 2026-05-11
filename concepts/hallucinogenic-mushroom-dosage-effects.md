@@ -1,6 +1,6 @@
 ---
-title: emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative Dosage and Effects
-source: raw/papers/carolina-mushrooms_08qxp.md
+title: Hallucinogenic Mushroom Dosage Effects
+source: carolina-mushrooms_08qxp.md
 tags: [dosage, pharmacology, effects, harm-reduction, hallucinogens]
 created: 2026-05-09
 ---
@@ -9,7 +9,7 @@ created: 2026-05-09
 
 The effects of psilocybin-containing mushrooms depend on dose, individual
 sensitivity, previous experience, set (mindset), and setting (environment).
-This page covers dosing ranges, routes of administration, acute effects,
+This page covers dosing ranges, routes of administration, [[psilocybin-mushroom-dosage-and-acute-effects]],
 and [[adverse-effects-and-harm-reduction-psilocybin]] considerations.
 
 ## Psychoactive Dose Ranges
@@ -30,7 +30,7 @@ like P. semilanceata require proportionally less material.
 **Important caveats**:
 - Potency varies enormously by species, growing conditions, age, and
   storage history
-- Multiple active compounds (psilocybin, psilocin, baeocystin) may be
+- Multiple active compounds (psilocybin, [[psilocin]], [[baeocystin]]) may be
   present at different ratios
 - Short-term tolerance develops rapidly; increasing doses within a
   session compounds effects unpredictably
@@ -85,62 +85,5 @@ The experience is commonly described by users as "tripping."
 - Paranoia and total loss of reality contact
 
 Nearly 25% of recent users surveyed (Mixmag 2005) reported experiencing
-a panic attack. Bad trips may be followed by sadness, depression, and
+a panic attack. [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] may be followed by sadness, depression, and
 paranoid interpretations persisting for days to weeks.
-
-## Acute Physiological Effects
-
-Common and generally mild:
-- Dizziness, nausea, and weakness
-- Muscle aching, shivering
-- Abdominal pain
-- Pupil dilation (mydriasis)
-- Mild-to-moderate tachycardia and tachypnea
-- Slight blood pressure elevation
-
-Less common but notable:
-- Over 25% of recent users reported nausea or vomiting (Mixmag 2005)
-- Pronounced GI symptoms: severe stomach pain, persistent vomiting,
-  diarrhoea
-- Blood pressure elevation may be risky for those with cardiovascular
-  conditions, especially untreated hypertension
-
-Body temperature typically remains normal.
-
-## Harm Reduction
-
-- **Start low, go slow**: Begin with a lower dose, especially for
-  inexperienced users
-- **[[lsd-set-and-setting-framework]]**: Choose a comfortable, safe environment with
-  trusted companions
-- **Trip sitter**: Have a sober, experienced person present
-- **Avoid mixing**: Combining with alcohol or other drugs significantly
-  increases risk. The Manchester 2004 fatality involved mushrooms plus
-  alcohol
-- **Medical treatment**: Benzodiazepines are the safest medication for
-  acute anxiety/panic. First aid focuses on reassurance and preventing
-  self-harm
-
-## Dependency and Chronic Risks
-
-- No psychological or physical dependency develops
-- No withdrawal symptoms
-- No evidence of chronic toxicity or irreversible organ damage
-- Insufficient data on mutagenicity and teratogenicity
-- Flashbacks can occur (less frequently than with LSD), manifesting as
-  intermittent perceptual alterations
-- Underlying psychotic or personality disorders may be unmasked by use
-
-- [[emcdda-hallucinogenic-mushroom-route-administration-and-effects]]
-## See Also
-
-- [[psilocybin-psilocin-chemistry]] — pharmacology and metabolism
-- [[amanita-muscaria-vs-psilocybe]] — risk comparison with Amanita
-
-## References
-
-- Hillebrand J, Olszewski D, Sedefov R. [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]: an
-  [[emcdda-epod-project-emerging-trend-detection-methodology]] case study. EMCDDA, 2006.
-- Hasler F et al. Acute psychological and physiological effects of
-  psilocybin. Pharmacopsychiatry, 2004.
-- CAM. Risk assessment of hallucinogenic mushrooms. Netherlands, 2000.

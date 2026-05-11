@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, ground-cover, weed-ecology, green-manure]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,29 +88,3 @@ degradation, that it then tries to solve with chemical inputs.
 
 In nature, bushes and shrubs grow at the foot of large trees, grasses spread
 among the shrubs, and mosses flourish beneath the grasses. Instead of
-cut-throat competition for nutrients, this is a peaceful world of
-coexistence. Rather than seeing the grasses as stunting shrub growth, and the
-shrubs as slowing the growth of trees, one should feel instead a sense of
-wonder and amazement at the ability of these plants to grow together in this
-way.
-
-The  is one
-practical expression of this principle, providing a template for how
-[[ground-cover-plants]] create
-channels for water infiltration and air exchange, improving soil structure
-without any mechanical cultivation.
-
-## Erosion Prevention and Soil Building
-
-Without grasses growing over the surface of the ground, rainwater would wash
-away part of the topsoil each year. Even in gently sloping areas, this would
-result in the loss of from several tons to perhaps well over a hundred tons
-of soil per year. In twenty to thirty years, the topsoil would wash entirely
-away, reducing soil fertility to essentially zero.
-
-It would make more sense then for farmers to stop pulling weeds and begin
-making use of their considerable powers. The deep penetration of grass roots
-into the earth loosens the soil. When the roots die, this adds to the humus,
-allowing soil microbes to proliferate and enrich the soil. Rainwater
-percolates through the soil and air is carried deep down, supporting
-earthworms, which eventually attract moles. Weeds and grasses are absolutely

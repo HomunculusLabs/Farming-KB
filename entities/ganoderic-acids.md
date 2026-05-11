@@ -15,21 +15,21 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kubota, T., et al. (1982). "Isolation and structures of ganoderic acid A and B, new bitter triterpenoids from Ganoderma lucidum." Helvetica Chimica Acta, 65(3), 611-619.
+  - Kubota, T., et al. (1982). "Isolation and structures of ganoderic acid A and B, new bitter triterpenoids from ganoderma-lucidum." Helvetica Chimica Acta, 65(3), 611-619.
   - Zhou, L., et al. (2018). "Ganoderic acids: a comprehensive review of their mechanisms of action and pharmacological properties." Phytochemistry, 155, 1-15.
-  - Boh, B. (2013). "Ganoderma lucidum: a potential medicinal mushroom with anticancer properties." Advances in Pharmacological Sciences, 2013, 1-12.
+  - Boh, B. (2013). "Ganoderma lucidum: a potential [[gourmet-medicinal-mushroom-casing-layer-techniques]] with anticancer properties." Advances in Pharmacological Sciences, 2013, 1-12.
   - Wu, G., et al. (2019). "Anti-tumor effects of ganoderic acids from Lingzhi: a systematic review." Frontiers in Pharmacology, 10, 793.
   - https://pubchem.ncbi.nlm.nih.gov/ (compound data for individual ganoderic acids)
 aliases:
   - Ganoderic acid
   - Ganoderic acids A-Z
   - Lingzhi triterpenoids
-  - Reishi triterpenoids
+  - [[reishi-triterpenoids-pharmacology]]
 ---
 
 # Ganoderic Acids
 
-**Ganoderic acids** are a large family of **lanostane-type triterpenoids** found in *Ganoderma lucidum* (reishi/lingzhi mushroom) and related *Ganoderma* species. First isolated by Kubota and colleagues in 1982, ganoderic acids are among the most extensively studied triterpenoids from medicinal mushrooms and are considered major contributors to the diverse pharmacological activities attributed to reishi, including anti-tumor, hepatoprotective, anti-inflammatory, and immunomodulatory effects. Over 150 ganoderic acid congeners have been identified to date, designated A through Z and beyond, making it one of the largest families of fungal triterpenoids known.
+**Ganoderic acids** are a large family of **lanostane-type triterpenoids** found in *Ganoderma lucidum* (reishi/lingzhi mushroom) and related *Ganoderma* species. First isolated by Kubota and colleagues in 1982, ganoderic acids are among the most extensively studied triterpenoids from [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] are considered major contributors to the diverse pharmacological activities attributed to reishi, including anti-tumor, hepatoprotective, anti-inflammatory, and immunomodulatory effects. Over 150 ganoderic acid congeners have been identified to date, designated A through Z and beyond, making it one of the largest families of fungal triterpenoids known.
 
 ## Chemical Classification
 
@@ -60,7 +60,7 @@ One of the most pharmacologically active ganoderic acids. GA-T has shown potent 
 These congeners carry unique oxygenated side chains. GA-R has attracted attention for its ability to inhibit histamine release and suppress allergic responses. GA-S shows significant antioxidant activity and protects hepatocytes from oxidative damage.
 
 ### Ganoderic Acid DM
-A more recently characterized congener with a highly oxidized side chain. GA-DM demonstrates potent cytotoxicity against multiple cancer cell lines (HeLa, HepG2, MCF-7) while showing minimal toxicity to normal cells, suggesting a favorable therapeutic index.
+A more recently characterized congener with a highly oxidized side chain. GA-DM demonstrates potent cytotoxicity against multiple cancer cell lines (HeLa, HepG2, MCF-7) while showing minimal toxicity to normal cells, suggesting a favorable [[cannabis-therapeutic-index-overview]].
 
 ## Pharmacological Activities
 
@@ -87,38 +87,4 @@ Multiple ganoderic acids inhibit key inflammatory mediators:
 - Suppression of NF-κB nuclear translocation and DNA binding
 - Reduction of TNF-α, IL-1β, IL-6, and PGE₂ production
 - Inhibition of COX-2 and iNOS expression
-- Modulation of MAPK signaling pathways (p38, JNK, ERK)
-
-## Biosynthesis and Production
-
-Ganoderic acid biosynthesis proceeds through the **mevalonate pathway** from acetyl-CoA:
-
-1. **Mevalonate formation:** Two molecules of acetyl-CoA condense to form acetoacetyl-CoA, then HMG-CoA, then mevalonate
-2. **Isoprenoid chain building:** Mevalonate is converted to isopentenyl pyrophosphate (IPP) and dimethylallyl pyrophosphate (DMAPP)
-3. **Squalene synthesis:** Six isoprene units condense to form squalene
-4. **Lanosterol cyclization:** Squalene epoxide cyclizes to form lanosterol, the C₃₀ tetracyclic precursor
-5. **Oxidative tailoring:** Cytochrome P450 enzymes and dehydrogenases introduce hydroxyl, ketone, and carboxyl groups to yield individual ganoderic acids
-
-Cultivation factors affecting ganoderic acid yield include substrate composition (hardwood logs produce higher triterpenoid content than sawdust substrates), fruiting body maturity (older specimens accumulate more triterpenoids), and post-harvest processing (hot water extraction efficiently recovers ganoderic acids).
-
-## Analytical Methods
-
-Ganoderic acids are quantified using HPLC-UV (detection at 252–260 nm), LC-MS/MS for individual congener identification, and NMR for structural elucidation. Ganoderic acid A is typically used as the reference standard for quality control of reishi products, with minimum content specifications of 0.5–4.0% total ganoderic acids in commercial extracts.
-
-## Therapeutic Applications
-
-Ganoderic acid-containing reishi extracts are used in traditional Chinese medicine and increasingly in Western integrative medicine for:
-
-- **Cancer adjunct therapy:** Shown to enhance quality of life, reduce chemotherapy side effects, and potentially improve treatment outcomes in clinical studies
-- **Liver protection:** Used in Asia as a hepatoprotective supplement for hepatitis and fatty liver disease
-- **Allergic conditions:** GA-R and related congeners show anti-allergic activity in preclinical models
-- **Cardiovascular health:** Lipid-lowering and anti-platelet aggregation effects contribute to cardiovascular protection
-
-## See Also
-
-- [[ganoderma-lucidum]] — Reishi mushroom, the source organism of ganoderic acids
-- [[ergothioneine]] — Another bioactive compound found in reishi alongside ganoderic acids
-- [[beta-glucans]] — Immunomodulatory polysaccharides co-extracted with ganoderic acids from reishi
-- [[lentinan]] — Parallel mushroom-derived therapeutic compound from shiitake
-- [[psk-polysaccharide-krestin]] — Another mushroom-derived anti-tumor polysaccharide
-- [[polysaccharide-peptide-psp]] — Turkey tail-derived anti-tumor preparation for comparison
+- Modulation of MAPK [[plant-signaling-pathways]] (p38, JNK, ERK)

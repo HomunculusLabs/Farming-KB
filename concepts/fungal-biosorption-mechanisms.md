@@ -19,7 +19,7 @@ with both living and dead [[bioremediation-fungal-biomass-biosorbent-material]].
 Fungal cell walls are complex matrices of polysaccharides with numerous
 metal-binding functional groups:
 
-- **Chitin and chitosan:** Beta-1,4-linked N-acetylglucosamine
+- **[[chitin-and-chitosan-in-agriculture]]:** Beta-1,4-linked N-acetylglucosamine
   polymers with amino groups that bind metal cations through
   coordination and electrostatic interactions. Deacetylation to
   chitosan increases amino group availability.
@@ -35,7 +35,7 @@ metal-binding functional groups:
 
 **Ion exchange:** Metal cations exchange with counter-ions (H+, Na+, K+)
 on cell wall functional groups. This is often the dominant mechanism for
-heavy metal uptake. The process is rapid, reversible, and follows
+[[dighton-fungal-biosorption-heavy-metal-remediation]] uptake. The process is rapid, reversible, and follows
 ion-exchange isotherms.
 
 **Complexation/chelation:** Metal ions form coordination complexes with
@@ -54,7 +54,7 @@ non-specific binding, particularly at higher metal concentrations.
 **Precipitation:** Metal ions may precipitate on the cell surface as
 hydroxides or other insoluble compounds, especially at alkaline pH.
 This mechanism is distinct from true biosorption but contributes to
-overall metal removal.
+overall [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]].
 
 ## Factors Influencing Biosorption Capacity
 
@@ -66,7 +66,7 @@ falls between 4.0 and 6.0 for most divalent cations.
 **Biomass pretreatment** significantly enhances capacity. Alkali
 treatment with NaOH deacetylates chitin to chitosan and removes
 surface impurities, dramatically increasing [[chelation-and-metal-binding-in-plants]] sites.
-Heat treatment, acid washing, and cross-linking with glutaraldehyde
+[[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]], acid washing, and cross-linking with glutaraldehyde
 are other common pretreatment methods.
 
 **Initial metal concentration** determines the driving force for
@@ -82,29 +82,9 @@ present practical challenges in column applications.
 
 Several fungal genera show exceptional biosorption capacity:
 *Penicillium*, *Aspergillus*, *Rhizopus*, *Mucor*, and *Saccharomyces*
-are widely studied. *Rhizopus arrhizus* demonstrates particularly high
-uptake for uranium and thorium. *Saccharomyces cerevisiae* (brewer's
+are widely studied. *[[rhizopus-arrhizus]]* demonstrates particularly high
+uptake for uranium and thorium. *[[saccharomyces-cerevisiae]]* (brewer's
 yeast) is attractive for industrial applications due to abundant,
 inexpensive biomass availability from fermentation industries.
 
 Dead biomass often outperforms living cells for biosorption because
-cell death eliminates metal efflux mechanisms and metabolic
-interference. Dried, heat-killed fungal biomass can be stored
-indefinitely and applied in batch or continuous flow systems.
-
-## Applications and Future Directions
-
-Fungal biosorption has been applied to [[mollison-designers-wastewater-treatment-wetlands]] for removal
-of heavy metals, radionuclides, and organic dyes. Packed-bed bioreactors
-using [[singh-immobilized-fungal-bioreactors-wastewater-treatment]] biomass achieve high throughput and can be
-regenerated through desorption with dilute acids or chelating agents.
-Economic comparisons favor fungal biosorption over conventional
-ion-exchange resins for low-concentration waste streams.
-
-## See Also
-
-- [[fungal-biology-fundamentals]]
-- [[fungal-metal-biosorption-comparative]]
-- [[mycoremediation-of-heavy-metals]]
-- [[fungal-heavy-metal-biosorption-detailed]]
-- [[fungal-adaptations-environmental-gradients]]

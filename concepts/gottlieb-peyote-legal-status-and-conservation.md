@@ -1,5 +1,5 @@
 ---
-title: "gottlieb peyote legal status and conservation Status and Conservation"
+title: Gottlieb Peyote Legal Status And Conservation
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -22,13 +22,13 @@ Members of the Native American Church are permitted the ritual use of peyote bec
 they established it as a religious sacrament long before these laws came into
 existence. However, this exemption has limits:
 
-- Members are permitted to use peyote in religious ceremonies
+- Members are permitted to use peyote in [[entheogenic-folk-religious-ceremonies]]
 - Members are NOT permitted to use mescaline (the isolated alkaloid)
 - The exemption specifically covers peyote itself, not extracted compounds
 
 ## San Pedro and Other Mescaline Cacti
 
-Several other cacti such as San Pedro also contain mescaline. The legal status of
+Several other cacti such as San Pedro also contain mescaline. The [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]]
 these plants occupies a gray area:
 
 - Technically it would be illegal to possess these for their psychoactive properties
@@ -50,7 +50,7 @@ The distinction between plant possession and alkaloid extraction is important:
 
 ## Conservation Concerns
 
-Gottlieb raises serious conservation concerns about peyote harvesting:
+Gottlieb raises serious conservation concerns about [[peyote-harvesting-sustainability]]:
 
 ### Depleted Populations
 
@@ -88,39 +88,3 @@ Affected rare species include:
 ### Best and Worst Harvesting Times
 
 - **Best time**: After a long dry spell, when plants have built up alkaloids
-- **Worst time**: During or after a rainy period, when alkaloid content may have
-  dropped below 50 percent
-
-### Alkaloid Content and Soil
-
-If you have a soil test kit, you can get a good indication of the potency of cacti
-growing wild. If the soil is rich in nitrogen, the plants are likely to be rich in
-alkaloids. This relationship between soil mineral content and alkaloid production has
-implications for both wild conservation and cultivation.
-
-## Legal Acquisition of Live Plants
-
-Live plants of most psychoactive cactus species -- with the exception perhaps of
-peyote -- can be purchased from legitimate cactus dealers at reasonable prices.
-Gottlieb advises that when ordering:
-
-- Do not inquire about the psychoactive potency
-- Do not hint that you are using the plants for such purposes
-- Request a catalog before ordering (enclose $1.00)
-- Ask for species by their Latin botanical name
-- Do not inquire about the availability of Lophophora williamsii or you will arouse
-  suspicion
-
-## Summary of Legal Status
-
-| Substance/Plant | Legal Status |
-|---|---|
-| Peyote (Lophophora williamsii) | Illegal (NAC exemption for ritual) |
-| Pure mescaline | Illegal (no exemptions) |
-| San Pedro (T. pachanoi) | Legal as ornamental; illegal for drug use |
-| Other Trichocereus species | Legal as ornamental; illegal for drug use |
-| Donana (C. macromeris) alkaloids | Legal to extract (not controlled) |
-| Extracted mescaline | Definitely contraband |
-- [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
-- [[psychedelic-research-legal-history-united-states]]
-- [[gottlieb-peyote-botany-and-mescaline-content]]

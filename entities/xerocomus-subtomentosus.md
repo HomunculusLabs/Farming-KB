@@ -30,9 +30,9 @@ created: 2026-05-07
 
 **Xerocomus subtomentosus**, commonly known as the suede bolete or yellow-cracking bolete, is a basidiomycete fungus in the family Boletaceae.
 
-It is one of the most widespread and frequently encountered boletes across temperate regions of Europe and North America, forming ectomycorrhizal associations with both hardwood and coniferous trees.
+It is one of the most widespread and frequently encountered boletes across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[guzman-psilocybin-mushrooms-north-america]], forming [[ectomycorrhizal-associations]] with both hardwood and coniferous trees.
 
-The species is generally considered edible, though of modest culinary interest compared to premium boletes like *Boletus edulis*.
+The species is generally considered edible, though of modest culinary interest compared to premium boletes like *[[boletus-edulis-entity]]*.
 
 ## Taxonomy
 
@@ -66,7 +66,7 @@ Flesh is pale yellow, firm, and does not change color significantly when cut.
 
 *X. subtomentosus* is widely distributed across temperate Europe, from Scandinavia to the Mediterranean, and extends into parts of North Africa and western Asia.
 
-In North America, it occurs primarily in eastern deciduous forests and is less common in the Pacific Northwest.
+In North America, it occurs primarily in eastern deciduous forests and is less common in the [[psilocybin-north-america-pacific-northwest]].
 
 The fungus forms ectomycorrhizal associations with a broad range of host trees, including oak (*Quercus* spp.), beech (*Fagus*), birch (*Betula*), pine (*Pinus*), and spruce (*Picea*).
 
@@ -87,30 +87,3 @@ It is not commercially cultivated and is exclusively a wild-foraged species, tho
 ## Ecological Role
 
 As an ectomycorrhizal fungus, *X. subtomentosus* plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], facilitating nutrient and water exchange between host trees and the soil environment.
-
-The species contributes to soil aggregation through hyphal networks that bind soil particles, improving soil structure in forest ecosystems.
-
-It serves as a food source for various forest invertebrates and small mammals, and the fruiting bodies are occasionally grazed by deer and slugs.
-
-The broad host range of this species makes it a generalist mycorrhizal partner, providing connectivity between different tree species within mixed forest stands.
-
-## Similar Species
-
-*Xerocomus chrysonemus* is very similar but has a distinct yellowish net-like layer of hyphae at the base of the stipe.
-
-*Boletus pinophilus* has a darker, more distinctly reticulate stipe and a redder cap coloration.
-
-*Suillus luteus* has a prominent ring on the stipe and a more slimy cap surface.
-
-*Paxillus involutus* has gills rather than pores and is dangerously toxic, though the different hymenophore makes confusion unlikely.
-
- immature *Rubroboletus* species have red pores when young and should be avoided.
-
-## See Also
-
-- [[boletus-edulis-entity]]
-- [[leccinum-scabrum]]
-- [[boletus-reticulatus]]
-- [[lactarius-deliciosus]]
-- [[mycorrhiza]]
-- [[pleurotus-ostreatus]]

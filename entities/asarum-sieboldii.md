@@ -87,34 +87,3 @@ Methyleugenol and safrole are classified as **possible carcinogens** (IARC Group
 In **Kampo medicine**, *A. sieboldii* rhizome (saishin) is a standard component in several classical formulations. It is prescribed for respiratory conditions including cough, bronchitis, and allergic rhinitis, often combined with other herbs in multi-herb formulas.
 
 Saishin is considered to have a **warming, acrid** nature in traditional East Asian energetics. It is used to dispel cold, alleviate pain, and open the nasal passages. Typical daily doses in Kampo practice range from 1–3 g of dried rhizome.
-
-In **traditional Chinese medicine (TCM)**, the herb is known as **xì xīn** (细辛), though TCM material is sometimes sourced from *A. heterotropoides* var. *mandshuricum* rather than *A. sieboldii* proper. TCM uses parallel those of Kampo, with additional applications for headache and toothache.
-
-A famous TCM admonition warns against using more than approximately 3 g of xì xīn per day — "if you don't die, your tongue will go numb." This reflects both the potent pharmacology and the historical awareness of toxicity at higher doses.
-
-The **Koreans** use the dried rhizome as *sae-sam** (새삼) in traditional medicine, particularly for treating the common cold and as a diaphoretic. The fresh leaves were historically used as a ginger substitute in rural cooking, though this practice has declined due to toxicity awareness.
-
-Japanese **folk use** includes topical application of crushed leaves for insect bites and minor wounds, exploiting the local anesthetic properties of the essential oil. The leaves were also historically placed in stored grain as an insect repellent.
-
-## Cultivation
-
-*A. sieboldii* is cultivated commercially in Japan, Korea, and northeastern China for the medicinal herb trade. Cultivation is straightforward but slow, with marketable rhizomes typically requiring 3–4 years to develop.
-
-Propagation is primarily by **rhizome division** in early spring, as [[cannabis-seed-germination-methods]] is slow and unreliable without stratification treatment. Division of established clumps every 3–4 years also serves to maintain plant vigor.
-
-Cultivated plants prefer partial to full shade, consistent soil moisture, and a well-draining loam rich in organic matter. A mulch of leaf litter or composted bark mimics the forest floor conditions of wild populations.
-
-Harvest of rhizomes typically occurs in autumn when essential oil content peaks. Rhizomes are washed, dried at low temperature (below 40°C), and stored in airtight containers to preserve volatile oil content. Adulteration with higher-aristolochic-acid *Aristolochia* species has been a documented problem in the herbal supply chain.
-
-## See Also
-
-- [[asarum-canadense]]
-- [[asarum-europaeum]]
-- [[aristolochia-clematitis]]
-- [[saururus-cernuus]]
-- [[houttuynia-cordata]]
-- [[chloranthus-spicatus]]
-- [[lindera-benzoin]]
-- [[saruma-henryi]]
-- [[litsea-cubeba]]
-- [[persea-borbonia]]

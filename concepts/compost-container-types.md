@@ -3,7 +3,7 @@ title: Compost Container Types
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [compost, composting, equipment, construction, organic, gardening, soil-building]
+tags: [compost, [[composting]], equipment, construction, organic, gardening, soil-building]
 sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 ---
 
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Compost containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions. (see [[hamilton-container-raised-bed-gardening]]).
+Compost containers keep compost moist right up to the edges and keep the area tidy. Whether you build or buy, the key requirement is easy access to the compost when it is ready for the garden. Several types are available, from manufactured bins to simple homemade solutions.
 
 ## Manufactured Containers
 
@@ -54,7 +54,7 @@ Compost containers keep compost moist right up to the edges and keep the area ti
 - 2 small pieces of wood + strong nails (~4 per panel)
 
 **Construction steps:**
-1. Lay two uprights parallel, 2ft 6in (75cm) apart. Nail a side plank 3in (7.5cm) from the bottom of each post. Add five more planks, all butting up against each other. Build a second matching wall. (see [[herb-spiral-construction]]).
+1. Lay two uprights parallel, 2ft 6in (75cm) apart. Nail a side plank 3in (7.5cm) from the bottom of each post. Add five more planks, all butting up against each other. Build a second matching wall.
 2. Stand walls parallel at right angles to a wall. Nail a support piece across the top of each upright. Working from the bottom up, nail six pieces across the back.
 3. Remove the support panel, turn the box around, and nail the front board across the uprights 3in from the bottom.
 4. Nail two shims onto each upright's side edge, spaced to slide front panels between them. Nail a small piece across the bottom to prevent panels from sliding out.
@@ -77,6 +77,6 @@ Use rough-sawn lumber (cheaper and looks fine). Old floorboards work well for si
 
 ## Related
 
-- [[wormery-construction]] — vermicomposting in a purpose-built box
-- [[composting-materials-alternative]] — sourcing compost materials beyond the garden
-- [[soil-conditioners-guide]] — alternative soil conditioners for bed preparation
+- [[wormery-construction]] — [[vermicomposting]] in a purpose-built box
+- [[composting-materials-alternative]] — sourcing [[duggar-stable-manure-selection-compost-materials]] beyond the garden
+- [[soil-conditioners-guide]] — [[hamilton-alternative-soil-conditioners]] for [[azurescens-outdoor-bed-preparation-woodchips]]

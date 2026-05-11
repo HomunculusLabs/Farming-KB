@@ -88,10 +88,3 @@ Despite its limitations, Wasson's theory remains one of the most influential fra
 ## Related
 
 - [[mycophobia-in-western-culture]]
-
-- [[wasson-mycophobia-mycophilia-theory-critique]]
-
-- mushroom-foraging-traditions-europe
-- [[soma-controversy-fly-agaric-as-divine-mushroom]]
-- [[fairy-rings-folklore-and-science]]
-- mushroom-symbolism-western-art

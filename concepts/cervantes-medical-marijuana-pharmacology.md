@@ -10,19 +10,20 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - medical cannabis
   - marijuana as medicine
   - therapeutic cannabis
   - physician recommendation
-  - Marinol dronabinol
+  - Marinol [[dronabinol]]
 type: concept
 ---
 
 # Medical Marijuana - Pharmacology and Qualifying Conditions
 
 Dr. John McPartland's contribution to *Marijuana Horticulture* provides a
-comprehensive overview of cannabis as medicine clinical reference, covering its history,
+comprehensive overview of [[cannabis-as-medicine-clinical-reference]] clinical reference, covering its history,
 pharmacology, qualifying conditions, and the regulatory landscape.
 
 ## Historical Context
@@ -82,49 +83,8 @@ nudging the system toward homeostasis.
 
 ## How Marijuana Works as Medicine
 
-THC works by mimicking an endogenous compound called anandamide. THC
+THC works by mimicking an endogenous compound called [[anandamide]]. THC
 binds to cannabinoid (CB) receptors that originally evolved about 600
 million years ago. When THC or anandamide activate CB receptors, they
 activate G-proteins (Gi and Gs subtypes) that migrate around cells and
 modulate ion channels and enzymes.
-
-Different cannabinoids preferentially activate different subtypes of
-G-proteins, which may explain why different strains produce different
-effects. Afghani plants produce cannabidiol (CBD) that preferentially
-activates Gi, causing an inhibitory, stony effect. Thai plants contain
-THCV that may preferentially activate Gs, causing a speedy, buzzy high.
-
-## Quality Standards for Medical Cannabis
-
-Because marijuana remains illegal under Federal law, patients must obtain
-medicine from unregulated producers. Patients depend upon grower ethics
-and expertise for high-quality medicine free from contaminants. The most
-common contaminants of marijuana are molds or pesticides. Optimal
-cultivation eliminates the possibility of these contaminants.
-
-Cervantes and McPartland entreat all growers to supply only the best
-organically grown marijuana. The methods for cultivating
-pharmaceutical-grade herb require careful attention to light, nutrients,
-water, and air balance.
-
-## Patient Safety
-
-Even "natural" chemicals may cause problems. One case documented in
-O'Shaughnessy's journal involved a woman who fell ill while manicuring
-marijuana sprayed with abamectin, a natural compound from a soil
-bacterium approved [[query-what-is-integrated-pest-management-for-organic-gardens]]. The lesson: grow well and avoid
-chemicals.
-
-## Recommended Reading
-
-- *Cannabis and Cannabinoids* (Haworth Press, 2002)
-- *The Medicinal Uses of Cannabis and Cannabinoids*
-  (Pharmaceutical Press, 2004)
-- *Marijuana the Forbidden Medicine* by Lester Grinspoon
-- *Encyclopedia of Psychoactive Plants* by [[christian-ratsch]]
-
-## See Also
-
-- [[cervantes-terpenoids-terpene-profiles]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-contaminant-pesticide-safety]]

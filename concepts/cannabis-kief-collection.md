@@ -12,14 +12,14 @@ tags: [cannabis]
 
 ## Overview
 
-Kief (also called resin powder, pollen, or dry-sift) consists of the detached resin gland heads of [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] that have been separated from plant matter through mechanical means. The term "pollen" is commonly used in Europe because resin powder resembles pollen visually, though it is not actual pollen. In Europe and other parts of the world, sieved resin powder is routinely called pollen. Kief collection is one of the oldest and simplest methods of concentrating cannabis resin.
+Kief (also called resin powder, pollen, or dry-sift) consists of the detached resin gland heads of [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] that have been separated from plant matter through mechanical means. The term "pollen" is commonly used in Europe because resin powder resembles pollen visually, though it is not actual pollen. In Europe and other parts of the world, sieved resin powder is routinely called pollen. Kief collection is one of the oldest and simplest methods of concentrating [[blesching-cannabis-resin-preparations-kief-hashish-concentrates]].
 
 ## Resin Gland Sizes
 
-Resin glands come in several distinct sizes, which determines the screen mesh needed to collect them effectively:
+[[greg-green-trichomes-and-resin-glands]] come in several distinct sizes, which determines the screen mesh needed to collect them effectively:
 
 - 60-70 microns: Moroccan cannabis and some sativas
-- 80-110 microns: Most common size range for quality cannabis strains
+- 80-110 microns: Most common size range for quality [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]
 - 135-150 microns: Necessary for many well-grown, very resinous strains
 
 A micron is one millionth of a meter (1/1,000,000 m) or one-thousandth of a millimeter (1/1000 mm). This length is also referred to as a micrometer. Selecting the appropriate screen size is essential for collecting the most resin powder from specific strains being processed.
@@ -51,7 +51,7 @@ Make sure the micron size is labeled on sieves. Color coding helps, but nothing 
 - Silkscreen of appropriate micron size, stretched across a frame
 - Glass surface or mirror placed below the screen
 - Credit card or similar flat tool for working material
-- Clean, dry, cold cannabis leaf or bud material
+- Clean, dry, cold [[cannabis-leaf-morphology-and-phyllotaxy]] or bud material
 
 Silkscreens can be found at local hobby and art supply stores. Printing supply stores also sell framed screens.
 
@@ -88,21 +88,3 @@ The Pollinator, invented by Mila of Amsterdam, is a motorized cylindrical sieve 
 5. Progressively lower quality resin falls through with longer turning times
 6. More green matter and adulterants appear in later batches
 7. Remove the drum and scrape resin from the bottom of the box
-8. Use a short-range kitchen timer to prevent over-processing
-
-The highest quality resin falls through the screen first. To grade resin, make several batches: first batch at 2-5 minutes, second at 5-6 minutes, third at more than 6 minutes. Inspect each batch with a microscope to see progressively more debris in longer-turned batches.
-
-## Rolling Trays with Screens
-
-Specialized rolling trays equipped with screens (such as the Resin Heaven from Portland, Oregon) passively collect kief during normal grinding and handling of cannabis. The screen allows trichomes to fall through while containing larger plant matter above. These were the first rolling trays designed specifically for resin collection.
-
-## Finger Hash Collection
-
-During [[cannabis-hashish-production]], or used loose as a smoking or vaporizing material.
-
-## See Also
-
-- [[cannabis-ice-water-extraction]]
-- [[cannabis-quality-testing]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[water-pathways-through-plants]]

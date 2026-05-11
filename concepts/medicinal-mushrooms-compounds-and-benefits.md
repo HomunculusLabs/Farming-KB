@@ -88,39 +88,3 @@ Known for energy enhancement and athletic performance. Cordycepin, a
 nucleoside derivative unique to Cordyceps, has demonstrated
 anti-inflammatory, anti-tumor, and anti-aging properties. Cordycepin
 structurally resembles adenosine and can interfere with cellular
-signaling pathways.
-
-### Maitake (Grifola frondosa)
-
-Maitake means "dancing mushroom" in Japanese. Its D-fraction beta-glucan
-has shown significant immunomodulatory and anti-tumor activity. Maitake
-is also studied for its effects on blood sugar regulation and insulin
-sensitivity.
-
-## Extraction Methods
-
-The method of preparation significantly affects the bioactive compound
-profile of medicinal mushrooms. Hot water extraction captures
-beta-glucans, polysaccharides, and other water-soluble compounds.
-Ethanol extraction captures triterpenes, sterols, and other
-alcohol-soluble compounds. A dual extraction process (sequential water
-and ethanol extraction) captures the broadest range of bioactives.
-
-Simple culinary preparation provides some benefits but is less efficient
-than concentrated extracts. The chitin-rich cell walls of mushrooms are
-largely indigestible, so thorough extraction is necessary to release
-trapped bioactive compounds.
-
-### Dosage and Safety
-
-There is no universally agreed-upon dosage. Clinical studies use a wide
-range depending on species, preparation, and condition. Quality products
-should be standardized to marker compounds (beta-glucan or triterpene
-content) and tested for contaminants. Most medicinal mushrooms have
-excellent safety profiles, but their immunomodulatory effects mean they
-may interact with immunosuppressive medications. Reishi can have mild
-anticoagulant effects.
-
-## See Also
-- [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
-- [[medicinal-mushroom-compounds-and-health-benefits]]

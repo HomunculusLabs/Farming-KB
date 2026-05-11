@@ -1,5 +1,5 @@
 ---
-title: cancer-medicinal-mushrooms-reishi-ganoderma-research Triterpenoids and Pharmacology
+title: Reishi Triterpenoids Pharmacology
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -71,7 +71,7 @@ Multiple ganoderic acids show anti-HIV activity:
 
 ### Nervous System Effects
 - Central depressant and peripheral anticholinergic actions
-- Reduces effects of caffeine
+- Reduces effects of [[caffeine]]
 - Muscle relaxation
 - Improved adrenocortical function
 
@@ -88,17 +88,3 @@ Multiple ganoderic acids show anti-HIV activity:
 - Expectorant and antitussive (mice studies)
 - Enhances bone marrow nucleated cell proliferation
 - Antibacterial against Staphylococci, Streptococci, and Bacillus pneumoniae
-
-## Traditional Uses Supported by Science
-
-G. lucidum has been traditionally used for hepatopathy, chronic hepatitis, nephritis, hypertension, arthritis, neurasthenia, insomnia, bronchitis, asthma, and gastric ulcers. Scientific studies have confirmed many of these applications through the compounds listed above.
-
-## Economic Significance
-
-The annual worldwide value of G. lucidum products exceeds US $1.6 billion (Chang and Buswell, 1999).
-
-## See Also
-
-- [[reishi-mushroom-medicinal-research]]
-- [[medicinal-mushroom-guide-reishi]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

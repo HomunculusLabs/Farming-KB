@@ -88,26 +88,3 @@ Success of the fermentation process can be checked by:
 ## Application to Substrates
 
 The liquid spore mass inoculum can be transferred directly
-onto sterilized substrates such as grain, sawdust, straw, or
-cottonseed hulls. If the liquid inoculum is sprayed, even
-colonization occurs. If poured, the liquid inoculum streams
-down through the substrate following the path of least
-resistance. Unless the substrate is agitated to distribute
-the mycelium, colonization will be uneven, resulting in
-failure.
-
-## Genetic Diversity Considerations
-
-Theoretically, the germination of spores in mass creates
-multitudes of strains which will compete with one another
-for nutrients. This was long accepted as one of the
-"Commandments" of [[mazatec-mushroom-culture-and-velada]]. Scientists in China,
-whose knowledge had not been contaminated by such pre-
-conceptions, first demonstrated that spore mass inoculation
-works effectively at commercial scale.
-
-## References
-
-- Stamets, P. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
-  Chapters 14-15.
-- Chang, S.T., J.A. Buswell & P.G. Miles (eds.), 1992.

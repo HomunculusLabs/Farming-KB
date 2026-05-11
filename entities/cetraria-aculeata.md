@@ -88,33 +88,3 @@ Alectoria ochroleuca is a lighter-colored fruticose lichen with a similar terric
 ## Conservation Status
 
 Cetraria aculeata is not globally threatened but faces localized pressures in parts of its range. Arctic lichen communities are increasingly impacted by climate change, which alters temperature regimes, permafrost dynamics, and growing season length.
-
-Overgrazing by semi-domesticated reindeer herds in Fennoscandia and northern Russia has significantly reduced lichen biomass in some areas. Recovery from heavy grazing requires 30–50 years of reduced grazing pressure, depending on local climate conditions.
-
-Industrial development in Arctic regions, including mining, oil extraction, and infrastructure construction, fragments lichen habitat and introduces dust and chemical pollutants. These disturbances can eliminate local populations and inhibit natural recolonization.
-
-Long-term monitoring programs across the Arctic have documented shifts in lichen community composition attributed to warming temperatures. Warming favors vascular plant expansion at the expense of terricolous lichens, potentially reducing C. aculeata cover over coming decades.
-
-## Growth and Physiology
-
-Cetraria aculeata is a slow-growing species with annual biomass increments typically less than 5% per year in natural populations. Growth rates are highly dependent on moisture availability and temperature during the brief Arctic growing season.
-
-The species is poikilohydric, meaning it lacks mechanisms to actively regulate water content. It desiccates during dry periods and rehydrates rapidly when moisture becomes available, resuming photosynthesis within minutes of wetting.
-
-Net photosynthesis in C. aculeata is optimized at moderate thallus water content and temperatures of 10–20°C. At higher water contents, the thallus becomes diffusion-limited and photosynthetic rates decline, a common pattern among fruticose lichens.
-
-The dark pigmentation of the thallus may serve a photoprotective function in the high-light Arctic environment. Melanin-like compounds in the cortex absorb excess radiation and protect the photobiont from photoinhibition during the continuous daylight of Arctic summers.
-
-## See Also
-
-- [[acrocomia-aculeata]]
-
-- [[desmarestia-aculeata]]
-
-- [[cetraria-islandica]]
-- [[cladonia-rangiferina]]
-- [[cladonia-portentosa]]
-- [[bryoria-fremontii]]
-- [[xanthoria-parietina]]
-- symbiosis
-- [[spore]]

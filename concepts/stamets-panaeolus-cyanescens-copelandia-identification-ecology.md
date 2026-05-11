@@ -1,5 +1,5 @@
 ---
-title: stamets panaeolus cyanescens copelandia identification ecology and Copelandia Identification
+title: Stamets Panaeolus Cyanescens Copelandia Identification Ecology
 created: 2026-04-28
 tags: [taxonomy, psilocybin-mushrooms, identification, ecology, copelandia]
 date: 2026-04-25
@@ -28,7 +28,7 @@ further articulated the case for maintaining them under a single genus.
 Georges M. Ola'h, after a lifetime studying these fungi, concluded the
 taxonomy is best served under Panaeolus sensu lato. For clarity, Stamets
 uses Panaeolus in the broadest sense, noting that most species are
-consistent or latent producers of psilocybin and psilocin, produce urea,
+consistent or latent producers of [[hplc-analysis-of-psilocybin-and-psilocin]], produce urea,
 serotonin, and tryptophan, and none have proven poisonous.
 
 ## Macroscopic Features of Panaeolus cyanescens
@@ -42,7 +42,7 @@ age. The flesh readily bruises bluish upon injury, a key diagnostic
 feature. Gills are adnexed, close, thin, with two or three tiers of
 intermediate gills, becoming mottled grayish black at maturity. The stem
 is 65 to 115 mm long by 1.5 to 3 mm thick, equal to bulbous at the
-base, tubular, and readily turns bluish when bruised. A partial veil is
+base, tubular, and readily turns bluish when bruised. A [[partial-veil-tropism-protection-before-spore-release]] is
 absent.
 
 ## Microscopic Features
@@ -59,11 +59,11 @@ other Panaeoli.
 
 - [[panaeolus-antillarum-misidentification-copelandia-confusion]] Species and Distinguishing Features
 
-Panaeolus cambodginiensis is very similar macroscopically but differs in
+[[panaeolus-cambodginiensis]] is very similar macroscopically but differs in
 overall smaller stature, habitat preference for water buffalo dung, and
 coloration of the pleurocystidia apices. Originally described from
 Cambodia, it is thought widespread through the Asian subtropics.
-Panaeolus tropicalis is virtually identical to both P. cyanescens and P.
+[[panaeolus-tropicalis]] is virtually identical to both P. cyanescens and P.
 cambodginiensis, differing only in larger spore size and interior spore
 aspects. Stamets considers these subtle differences potentially regional
 in nature and not sufficient to warrant separate species status.
@@ -88,20 +88,3 @@ Panaeolus cyanescens is moderately to highly potent. One study found
 0.85% psilocybin, 0.15% psilocin, and 0.01% baeocystin. However,
 content is highly variable between collections. Panaeolus
 cambodginiensis from Hawaii was reported to contain 0.55% psilocybin
-and 0.6% psilocin by Merlin and Allen (1993). The strong bluing
-reaction correlates with the presence of psilocin, which oxidizes to
-blue upon exposure. The potency of Copelandian species generally exceeds
-that of temperate Psilocybe species, making them among the most
-powerful naturally occurring [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] known.
-
-## Cultivation Notes
-
-The late Steven H. Pollock successfully cultivated Panaeolus
-cambodginiensis in a garden in Texas in the 1970s. The species has
-reportedly naturalized in the Gulf Coast mycoflora since. Dung
-composition significantly affects fruitbody size, making size-based
-taxonomic distinctions of questionable value. The Copelandian Panaeoli
-are generally more challenging to cultivate than [[copelandia-cyanescens-pantropical-distribution-and-ecology]]
-
-- [[panaeolus-mushroom-intoxication-history]]
-- [[gartz-psilocybin-potency-and-alkaloid-variations]]

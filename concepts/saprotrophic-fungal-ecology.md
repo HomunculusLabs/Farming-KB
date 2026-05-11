@@ -88,38 +88,3 @@ When mycelia of different species meet, the outcome of their interaction depends
 Boddy and Jones note that competitive hierarchies exist among wood-decay fungi, with certain species consistently outcompeting others in pairwise interactions. However, these hierarchies are not absolute — environmental conditions can reverse competitive outcomes.
 
 ### Communication and Coordination
-
-Research has revealed that mycelia can communicate information across their networks. When one part of a mycelium encounters a resource, signals can be transmitted through the network to coordinate growth responses in distant parts. This ability allows the mycelium to function as an integrated organism despite its diffuse physical structure.
-
-Hyphal anastomosis — the fusion of hyphae — allows different parts of a mycelium (or even different mycelia of the same species) to share resources and information. This capability has implications for understanding fungal ecology at landscape scales.
-
-## Environmental Controls on Saprotrophic Activity
-
-### Moisture
-
-Moisture is a primary control [[fungal-decomposition]] tion. Most saprotrophic fungi require water activity above 0.6 for growth, with optimal activity near saturation. However, waterlogged conditions create anaerobic environments that inhibit most fungi, favoring bacteria instead.
-
-### Temperature
-
-Fungal activity follows typical temperature-response curves, with maximum decomposition rates at moderate temperatures (20–30°C for most mesophilic species) and declining activity at both lower and higher extremes. [[thermophilic-fungi]] can decompose material at temperatures up to 50°C, as in [[composting-systems]].
-
-### Nutrient Availability
-
-The ratio of carbon to nitrogen (C:N ratio) in the substrate strongly influences decomposition rates. Substrates with high C:N ratios (wood, straw) decompose slowly because nitrogen limits fungal growth. Substrates with low C:N ratios (fresh leaves, manure) decompose rapidly. Fungi compensate for nitrogen limitation by importing nitrogen from the surrounding environment or by fixing atmospheric nitrogen (in the case of some free-living fungi).
-
-### pH
-
-Most saprotrophic fungi prefer slightly acidic conditions (pH 4–6), though some species are adapted to highly acidic (pH 2–3) or neutral to alkaline conditions. Soil pH is a major determinant of fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-## Implications for Ecosystem Management
-
-Understanding saprotrophic fungal ecology has practical implications for forestry, agriculture, and waste management. Maintaining diverse fungal communities is essential for healthy decomposition processes, nutrient cycling, and soil formation. Practices that simplify fungal communities — such as monoculture forestry or excessive tillage — can impair ecosystem function.
-
-Dead wood retention in forests is particularly important for maintaining wood-decay fungal diversity. Many species are specialized on particular wood types, sizes, and decay stages, so a range of dead wood conditions is needed to support full fungal diversity.
-
-## See Also
-
-- [[fungal-decomposition-and-biogeochemical-cycles]]
-- [[mycorrhizal-fungi-and-carbon-cycling]]
-- [[soil-foodweb-biology]]
-- lynnne boddy

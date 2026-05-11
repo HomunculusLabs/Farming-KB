@@ -1,6 +1,6 @@
 ---
-title: In-Vitro Sclerotia Production Timeline
-aliases: [sclerotia growth timeline, psilocybe mexicana sclerotia, psilocybe tampanensis sclerotia, stone formation mycelium]
+title: In Vitro Sclerotia Production Timeline Psilocybe
+aliases: [sclerotia growth timeline, [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]], [[psilocybe-tampanensis-entity]] sclerotia, stone formation mycelium]
 tags: [mycology, sclerotia, psilocybe, cultivation, truffles, in-vitro, growth-timeline]
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
@@ -16,7 +16,7 @@ Sclerotia (colloquially "magic truffles" or "stones") are dense, hardened masses
 
 The primary sclerotia-producing species in cultivation are:
 
-- ***Psilocybe tampanensis*** — The most prolific sclerotia producer in cultivation. Originally collected from Tampa, Florida by Steven Pollock in 1977, this species reliably forms substantial sclerotial masses on grass seed substrate.
+- ***Psilocybe tampanensis*** — The most prolific sclerotia producer in cultivation. Originally collected from Tampa, Florida by Steven Pollock in 1977, this species reliably forms substantial sclerotial masses on [[disposable-tray-casing-method-grass-seed-substrate]].
 - ***Psilocybe mexicana*** — Also produces sclerotia, though generally in smaller quantities than *P. tampanensis*. Native to Central Mexico, this species has a long history of traditional use.
 
 ## Formation Biology
@@ -52,7 +52,7 @@ While sclerotia may continue to slowly increase in size past 4 months, the rate 
 | Gas exchange | Loose lid | Should not be airtight |
 | Duration | 3-4 months | Up to 12 months with diminishing returns |
 
-Dark incubation is preferred but not strictly required. The key environmental factor is stable temperature within the mycelial growth range. Unlike fruitbody production, no humidity management, fresh air exchange, or light cycles are needed.
+Dark incubation is preferred but not strictly required. The key environmental factor is stable temperature within the mycelial growth range. Unlike fruitbody production, no [[pf-tek-dual-chambered-terrarium-design-humidity-management]], fresh air exchange, or light cycles are needed.
 
 ## Sclerotia in Cased Trays
 
@@ -71,7 +71,7 @@ Yields vary significantly based on genetics, substrate quality, and incubation c
 
 ## Advantages of Sclerotia Cultivation
 
-- **Simplicity** — No fruiting chamber, casing, or environmental control needed
+- **Simplicity** — No fruiting chamber, casing, or [[chen-maitake-growth-parameters-environmental-control]] needed
 - **Stealth** — Jars can be stored in a closet or cabinet undisturbed
 - **Reliability** — Less prone to failure than fruitbody cultivation
 - **Storage** — Harvested sclerotia can be stored fresh in the refrigerator for weeks or dried for long-term preservation
@@ -88,35 +88,3 @@ Yields vary significantly based on genetics, substrate quality, and incubation c
 To harvest sclerotia, the colonized jar is opened and the contents are sifted or picked apart by hand. Sclerotia are separated from uncolonized seed and loose mycelium. They can be rinsed gently with cold water and either consumed fresh or dried at low temperature (30-40°C) for storage.
 
 ## Post-Harvest Substrate Use
-
-After sclerotia are harvested, the remaining colonized substrate still contains viable mycelium. Options for spent substrate include:
-
-1. **Spawning to bulk** — The remaining grain can be mixed with pasteurized bulk substrate (coir, manure, straw) for fruitbody production as a secondary crop.
-2. **Outdoor bed** — Spent substrate can be buried in an outdoor garden bed, where some species may continue to fruit seasonally.
-3. **Composting** — The spent myceliated grain is a good nitrogen source for compost piles.
-
-## Sclerotia vs. Mushroom Alkaloid Profiles
-
-The psychoactive alkaloid content of sclerotia differs from that of fruitbodies of the same species. Generally, sclerotia contain:
-
-- **Psilocybin** — Present at 0.3-0.7% dry weight (varies by species and strain)
-- **Psilocin** — Typically present at lower concentrations than in fresh mushrooms, as psilocin degrades during the long sclerotia formation period
-- **Baeocystin** — A minor alkaloid also present in both sclerotia and fruitbodies
-
-The longer formation period of sclerotia means that some of the more labile compounds may degrade compared to the relatively rapid development of fruitbodies. However, the overall potency remains significant.
-
-## Drying and Storage
-
-Fresh sclerotia contain approximately 70-80% water. For long-term storage:
-
-- **Air drying** — Place on a screen or paper towel in a well-ventilated area at room temperature. Drying takes 3-7 days depending on size.
-- **Desiccant drying** — After initial air drying, place in a sealed container with silica gel desiccant packets for 24-48 hours to achieve maximum dryness.
-- **Storage** — Store fully dried sclerotia in an airtight container with desiccant, in a cool, dark location. Properly dried and stored sclerotia retain potency for 1-2 years.
-
-## Related Concepts
-
-- [[grass-seed-substrate-preparation-rye-grass-mycology]]
-- [[fungal-sclerotia-and-resting-structures]]
-- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
-- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
-- [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]]

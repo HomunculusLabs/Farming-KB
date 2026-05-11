@@ -68,7 +68,7 @@ Intermittent and chronic psychotic states resulting from hallucinogenic mushroom
 - [[psychedelic-integration-practices]] Concepts
 
 - [[psilocybe-cubensis]] - the most commonly consumed species
-- [[amanita-muscaria-entity]] - a distinct species with a different risk profile
+- [[amanita-muscaria]] - a distinct species with a different risk profile
 - [[serotonin]] - the neurotransmitter system through which psilocybin acts
 - Psilocybe - the mushroom genus most commonly associated with bad trips
 ## Practical Considerations

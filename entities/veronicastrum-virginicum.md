@@ -20,13 +20,13 @@ sources:
 
 ## Overview
 
-**Veronicastrum virginicum** is a tall, clump-forming perennial herb in the family Plantaginaceae, native to eastern and central North America. It is commonly known as Culver's root, Bowman's root, or tall Veronica.
+**Veronicastrum virginicum** is a tall, clump-forming perennial herb in the family Plantaginaceae, native to eastern and central [[guzman-psilocybin-mushrooms-north-america]]. It is commonly known as Culver's root, Bowman's root, or tall Veronica.
 
 The species produces striking candelabra-like inflorescences of white to pale blue flowers from July through September. It typically reaches 1.2–2.0 m in height, making it one of the tallest native herbs of eastern prairies and woodland openings.
 
-Culver's root has a long history of medicinal use among Native American peoples and early European settlers. The root was traditionally used as a powerful laxative and emetic, and the species was included in the US Pharmacopeia through the early 20th century.
+Culver's root has a long history of medicinal use among [[halpern-sacramental-peyote-and-native-american-church]] peoples and early European settlers. The root was traditionally used as a powerful laxative and emetic, and the species was included in the US Pharmacopeia through the early 20th century.
 
-The species was commercially harvested from wild populations throughout the 19th century, with dried rootstock sold by druggists across the eastern United States. Wild collection has declined with the availability of synthetic alternatives.
+The species was commercially harvested from wild populations throughout the 19th century, with dried rootstock sold by druggists across the eastern [[dmt-containing-plants-united-states-halpern]]. Wild collection has declined with the availability of synthetic alternatives.
 
 ## Taxonomy and Morphology
 
@@ -87,35 +87,4 @@ Veronicastrum virginicum is widely available from native plant nurseries and is 
 
 The species has gained significant popularity in European gardens, where it is appreciated for its vertical accent and extended bloom period. It received the Royal Horticultural Society's Award of Garden Merit.
 
-The species is easily propagated from seed, which requires 30–60 days of cold stratification. Germination rates are typically 60–80%. Division of established clumps in early spring is the most reliable vegetative propagation method.
-
-In garden settings, Culver's root performs best in rich, moist soils. It takes 2–3 years to reach full size from seed but is long-lived, persisting for 15+ years without division. Plants are largely pest-free and resistant to [[cervantes-powdery-mildew-prevention-treatment]].
-
-The species is tolerant of clay soils and temporary flooding, making it suitable for rain gardens and bioswales. In naturalistic plantings, it pairs well with *Eupatorium maculatum*, *Panicum virgatum*, and *Sporobolus heterolepis*.
-
-## Medicinal Uses
-
-The common name "Culver's root" honors Dr. Coulvier, an 18th-century physician who popularized the root's medicinal use. The dried rootstock was a standard article of commerce in 19th-century American pharmacy.
-
-Native American tribes including the Cherokee, Iroquois, and Menominee used the root as a cathartic, emetic, and treatment for liver disorders. The Menominee specifically used it as a purgative, while the Cherokee employed it for "female complaints" and as a general tonic.
-
-The Meskwaki used a root poultice to treat swellings and sores. The Potawatomi prepared an infusion of the root for treating back pain and stomach ailments. Ethnobotanical records consistently identify the root as the primary plant part used medicinally.
-
-The pharmacological activity is attributed to iridoid glycosides, particularly catalpol and aucubin, which stimulate smooth muscle contraction in the gastrointestinal tract. The root was listed in the US Pharmacopeia from 1820 to 1900.
-
-Catalpol has been studied for additional pharmacological effects including neuroprotective, anti-diabetic, and anti-inflammatory activities in modern research. These findings have renewed scientific interest in the species beyond its traditional cathartic use.
-
-⚠️ The root is a potent cathartic and should not be used without professional supervision. Overdose can cause severe gastrointestinal distress, cramping, and dehydration. Modern herbal practice largely avoids this species in favor of milder alternatives.
-
-## See Also
-
-- [[monarda-fistulosa]] — Wild bergamot, companion prairie pollinator plant
-- [[solidago-nemoralis]] — Old-field goldenrod, late-season pollinator resource
-- [[echinacea-purpurea]] — Purple coneflower, medicinal prairie perennial
-- [[asclepias-tuberosa]] — Butterfly milkweed, dry-soil prairie companion
-- [[liatris-spicata]] — Dense blazing star, co-occurring prairie species
-- [[rudbeckia-laciniata]] — Green-headed coneflower, tall prairie composite
-- [[helianthus-annuus-entity]] — Common sunflower, related prairie composite
-- [[lobelia-inflata]] — Indian tobacco, medicinal native herb
-- [[coreopsis-lanceolata]] — Lanceleaf coreopsis, early-blooming prairie species
-- [[solidago-canadensis]] — Canada goldenrod, late-season pollinator resource
+The species is easily propagated from seed, which requires 30–60 days of cold stratification. Germination rates are typically 60–80%. Division of established clumps in [[coleman-overwintered-onions-and-early-spring-crops]] is the most reliable [[hamilton-vegetative-propagation]] method.

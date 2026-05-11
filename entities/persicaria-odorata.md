@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Persicaria odorata** (Lour.) Soják, commonly known as **Vietnamese coriander**, **rau răm**, **daun kesom**, or **laksa leaf**, is a perennial herb in the family Polygonaceae. It is widely used in Southeast Asian cuisine as a fresh herb and garnish, valued for its distinctive coriander-like aroma with peppery, citrusy undertones.
+**Persicaria odorata** (Lour.) Soják, commonly known as **Vietnamese coriander**, **rau răm**, **daun kesom**, or **laksa leaf**, is a perennial herb in the family Polygonaceae. It is widely used in [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisine as a fresh herb and garnish, valued for its distinctive coriander-like aroma with peppery, citrusy undertones.
 
 The species is native to tropical and subtropical regions of Southeast Asia, where it grows as a marginal plant along streams, ditches, and wetland edges. It has been introduced to other tropical regions including South America, Africa, and Australia, where it sometimes naturalizes in disturbed wet areas.
 
@@ -44,7 +44,7 @@ Inflorescences are slender, terminal or axillary spikes, 3–8 cm long, bearing 
 
 The species is native to Southeast Asia, with a natural distribution spanning Vietnam, Thailand, Laos, Cambodia, Malaysia, Indonesia, and southern China (Guangdong, Guangxi, Yunnan provinces). It has been widely introduced throughout the tropics and subtropics.
 
-Introduced populations are established in tropical South America (Brazil, Colombia), West Africa, tropical Australia, and parts of the Pacific Islands. In the United States, it is grown as a culinary herb in Hawaii, Florida, and Puerto Rico but does not naturalize aggressively in temperate regions due to cold sensitivity.
+Introduced populations are established in tropical South America (Brazil, Colombia), West Africa, tropical Australia, and parts of the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. In the United States, it is grown as a culinary herb in Hawaii, Florida, and Puerto Rico but does not naturalize aggressively in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] due to cold sensitivity.
 
 P. odorata grows as a **marginal or emergent aquatic plant**, typically found along stream banks, irrigation ditches, rice field margins, and pond edges. It prefers full sun to partial shade, consistently moist to waterlogged soils, and temperatures above 15°C. Growth is optimal at 25–35°C with high humidity. The species is intolerant of frost and drought.
 
@@ -63,7 +63,7 @@ The characteristic aroma of P. odorata is primarily attributed to its volatile o
 
 - **Antioxidant activity** — DPPH and ABTS radical scavenging with IC50 values of 25–50 µg/mL for crude methanolic extracts
 - **Anti-inflammatory activity** — inhibition of cyclooxygenase-2 (COX-2) and nitric oxide production in LPS-stimulated macrophages at 25–100 µg/mL
-- **Antimicrobial activity** — methanolic extracts inhibit *Staphylococcus aureus*, *Bacillus subtilis*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* at MIC values of 125–500 µg/mL
+- **Antimicrobial activity** — methanolic extracts inhibit *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* at MIC values of 125–500 µg/mL
 - **Antidiabetic activity** — α-glucosidase inhibition (IC50 40–80 µg/mL) and blood glucose reduction in streptozotocin-induced diabetic rats
 
 ## Culinary and Medicinal Use
@@ -76,7 +76,7 @@ In traditional Vietnamese medicine, rau răm is considered cooling and is used t
 
 ## Cultivation
 
-P. odorata is easily propagated from stem cuttings, which root within 5–10 days in moist soil or water. Commercial cultivation uses vegetative propagation exclusively, as seed viability is low and germination rates are inconsistent. Cuttings of 10–15 cm with 2–3 nodes are planted directly into prepared beds.
+P. odorata is easily propagated from stem cuttings, which root within 5–10 days in moist soil or water. Commercial cultivation uses [[hamilton-vegetative-propagation]] exclusively, as seed viability is low and germination rates are inconsistent. Cuttings of 10–15 cm with 2–3 nodes are planted directly into prepared beds.
 
 The species grows rapidly in tropical conditions, producing harvestable foliage within 4–6 weeks of planting. Continuous harvesting by cutting stems 5–10 cm above ground level stimulates bushier regrowth. Under optimal conditions, a planting can be harvested every 2–3 weeks for 6–12 months before replanting is needed.
 
@@ -87,31 +87,3 @@ Pests are generally minor but include aphids, spider mites, and fungal leaf spot
 Fresh *Persicaria odorata* leaves are approximately 85% water with low caloric content. Per 100 g fresh weight, they provide approximately 25–30 kcal, with modest amounts of protein (2–3 g) and carbohydrates (4–5 g).
 
 Vitamin content includes significant amounts of vitamin A (as beta-carotene), vitamin C, and vitamin K. The beta-carotene concentration is comparable to other dark-green [[holzer-medicinal-and-culinary-herbs-compendium]], contributing to antioxidant intake.
-
-Mineral content includes calcium, iron, magnesium, and potassium. While concentrations are not as high as in seaweeds, regular consumption contributes meaningfully to daily micronutrient requirements.
-
-## Related Species
-
-The genus *Persicaria* contains approximately 100 species distributed worldwide. Several other species in the genus are used as culinary or [[permaculture-plants-medicinal-herbs-healing]] in different cultural traditions.
-
-*Persicaria hydropiper* (water pepper) is a pungent relative used as a condiment in Japanese cuisine and as a traditional remedy in European herbal medicine. Its leaves contain the vesicant compound polygonone.
-
-*Persicaria minor* (lesser smartweed) is used in traditional Malay medicine for postpartum recovery and digestive health. It is commercially cultivated in Malaysia as a culinary herb for *nasi ulam* (herb rice).
-
-*Polygonum multiflorum* (he shou wu) is a well-known traditional Chinese medicine herb used for its purported anti-aging and hair-restoring properties. It is botanically related but occupies a very different ecological and cultural niche.
-
-*Persicaria maculosa* (lady's thumb) is a common European and [[growing-gourmet-north-american-reishi-species]] weed with documented traditional uses as an astringent and diuretic, though it is not consumed as food.
-
-## See Also
-
-- [[porophyllum-ruderale]]
-
-- [[parrotia-persica]]
-
-- [[coriandrum-sativum]]
-- [[zingiber-officinale]]
-- [[curcuma-longa]]
-- [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[mentha-spicata]]
-- [[piper-nigrum-entity]]

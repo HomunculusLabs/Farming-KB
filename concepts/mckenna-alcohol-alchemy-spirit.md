@@ -1,5 +1,5 @@
 ---
-title: Alcohol and the Alchemy of Spirit
+title: Mckenna Alcohol Alchemy Spirit
 created: 2026-04-28
 tags:
   - mckenna
@@ -22,7 +22,7 @@ type: concept
 
 The great plant-drug complex that spans the cultural divide from partnership
 paradise to dominator civilization is alcohol. Alcohol has its roots in the
-deepest stratum of Archaic cultural activities. Ancient civilizations of the
+deepest stratum of Archaic cultural activities. [[shroom-cultural-history-mushroom-in-ancient-civilizations]] of the
 [[ancient-cannabis-use-near-east-and-egypt]] were preoccupied with beer making. Very early in the development of
 human culture, the intoxicating effects of fermented honey and fruit juices must
 have been noticed.
@@ -38,7 +38,7 @@ was a cultural trait they shared with the mushroom-using pastoralists of the
 The belief widely held in the classical world that bees were generated from the
 carcasses of cattle makes more sense if seen as an effort to connect bees as a
 source of honey and mead, the supplanting intoxicant, with cattle and the older
-[[african-mushroom-cult-history]]. Mead cults and mushroom cults that used honey as a preservative
+[[african-mushroom-cult-history]]. Mead cults and [[eleusinian-mysteries-minoan-mushroom-cults]] that used honey as a preservative
 may have developed in close association with each other.
 
 Honey is closely connected to the Great Goddess rites of the Archaic Minoan
@@ -72,7 +72,7 @@ highly concentrated and purified drug, the first synthetic drug. This distinctio
 is very important for McKenna's argument.
 
 Alcoholism as a social and community problem appears to have been rare before the
-discovery of distillation. Just as heroin addiction was the malignant flower
+discovery of distillation. Just as [[heroin]] addiction was the malignant flower
 that sprang from the relatively benign habit of opium use, so distilled alcohol
 changed the sacred art of the brewer and the vintner into a profane economic
 engine for the consumption of human hopes.
@@ -88,39 +88,3 @@ quantities.
 
 Greek wines have always been somewhat puzzling to scholars. Their alcohol content
 could not have exceeded 14 percent since, when a fermentation process reaches
-this concentration, further formation of alcohol is inhibited. Yet Greek wines
-are sometimes described as requiring many dilutions before they could be drunk
-with comfort.
-
-This seems to suggest that Greek wines were more akin to extracts and tinctures
-of other plant essences than they were to wine as we know it today. This would
-have made them more chemically complex and therefore more intoxicating. The
-practice of adding resin to wine in Greece to make retsina may well hark back to
-times when other plants, perhaps belladonna or Datura, also went into wine.
-
-## Alcohol as Social Scourge
-
-Human use of alcohol in the form of fermented grains, juices, and mead is
-extremely ancient. Distilled spirits, in contrast, were not known to the
-ancients. Today it is distilled alcohol that is the chief culprit among the drugs
-labeled "legal" and "recreational."
-
-The pattern is consistent: a naturally occurring psychoactive substance is
-discovered and used within a cultural context that limits its abuse. Then,
-through technological refinement, the active principles are concentrated,
-purified, and made available in forms that promote compulsive use. This
-transformation from sacred plant to profane chemical is the central theme of
-McKenna's history of human drug relationships.
-
-The Age of Enlightenment was firmly founded on a drug-based economy. The
-mercantile economy ran in large part on the tobacco of the [[growing-gourmet-north-american-reishi-species]] colonies
-and the distilled alcohol and raw sugar of the more tropical outposts. The
-pattern established with alcohol would repeat itself with opium, cocaine, and
-every subsequent drug crisis.
-
-## See Also
-
-- [[mckenna-dionysus-dying-god-archetype]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- ethnomycology
-- [[mckenna-symbiosis-and-human-plant-relationships]]

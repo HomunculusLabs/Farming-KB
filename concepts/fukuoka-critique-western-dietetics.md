@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Critique Western Dietetics
@@ -87,11 +88,3 @@ If all this is asking too much of modern man, with his weakened heart and stomac
 ## See Also
 
 - [[fukuoka-critique-western-dietetics-nutritional-science]]
-
-- [[fukuoka-natural-food-philosophy]]
-
-- [[fukuoka-natural-farming-philosophy]]
-
-- [[fukuoka-natural-diet-as-foundation]]
-
-Source: Masanobu Fukuoka, *The Natural Way of Farming*, Chapter 5

@@ -1,7 +1,7 @@
 # Chlorophyllum molybdites Toxic-Edible Paradox and Yoruba Divinatory Use
 
 ## Source
-*Guzmán, Allen & Gartz (2000) — A Worldwide Geographical Distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]*
+*Guzmán, Allen & Gartz (2000) — A Worldwide [[psilocybe-geographical-distribution-patterns]] of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]*
 
 ## Summary
 Chlorophyllum molybdites presents one of the most puzzling cases in mycology: a
@@ -11,7 +11,7 @@ ariwo-orun" — "eat and hear voices from heaven" — suggesting psychoactive us
 Yet most mycological literature classifies it as a poisonous species responsible
 for widespread gastrointestinal illness. This contradiction illuminates the deep
 challenges of cross-cultural mycological classification and the limitations of
-applying Western toxicological frameworks to indigenous knowledge systems.
+applying Western toxicological frameworks to [[psilocybin-chemistry-stability-indigenous-knowledge]] systems.
 
 ## Taxonomic and Morphological Background
 
@@ -21,7 +21,7 @@ areas. It is frequently found in fairy rings in lawns and fields. The mushroom
 features a white to cream-colored cap that can reach 30 cm in diameter, white
 gills that turn greenish at maturity (a key identification feature), and a
 prominent annulus on the stipe. Its size and abundance make it one of the most
-commonly encountered mushrooms in tropical regions worldwide.
+commonly encountered mushrooms [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
 
 The species has a [[guzman-global-distribution-patterns-neurotropic-fungi]] across tropical and warm temperate zones,
 occurring in Africa, the Americas, Asia, and the Pacific. Its preference for
@@ -55,7 +55,7 @@ are poisonous," indicating the possibility of intraspecific variation in toxicit
 This variation could be geographical (different populations producing different
 levels of toxins), ecological (growing conditions affecting toxin production),
 genetic (distinct chemotypes within what is currently classified as a single
-species), or related to preparation methods. Traditional cooking or processing
+species), or related to [[amanita-muscaria-preparation-methods]]. Traditional cooking or processing
 techniques might degrade heat-labile toxins, rendering otherwise dangerous
 specimens safe for consumption. The possibility that some populations of
 C. molybdites are genuinely edible while others are toxic would help explain
@@ -76,7 +76,7 @@ be a consequence of the toxic gastrointestinal reaction — delirium, confusion,
 delirium, confusion, or altered consciousness secondary to gastrointestinal distress
 and dehydration, which can itself produce dissociative or visionary-like states.
 Third, the name could reflect a cultural practice of combining C. molybdites
-with genuinely psychoactive substances, or the mushroom could be confused with
+with genuinely [[cultural-evolution-and-psychoactive-substances]], or the mushroom could be confused with
 a psychoactive look-alike species.
 
 ## Cross-Cultural Confusion and Species Misidentification
@@ -87,40 +87,4 @@ Indigenous peoples may apply a single name to multiple mushroom species that sha
 a habitat, appearance, or cultural function. Conversely, what mycologists classify
 as a single species may encompass multiple locally distinguished "folk taxa."
 
-Schizophyllum commune provides a parallel case: it was reported as hallucinogenic
-in Australia (Southcott, 1974), yet it is a common edible fungus sold in popular
-markets in Guatemala and southeastern Mexico. The confusion originated because the
-Mazatec Indians of Oaxaca refer to this fungus as "nise" (little bird), a name
-also used for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], creating the false impression that S. commune
-itself is psychoactive.
-
-Similarly, the Mixtec Indians of Oaxaca were documented using puffballs as
-narcotic fungi, but chemical analysis revealed that these puffballs contained
-no neurotropic substances. The Indians appeared to be conflating different
-species, using the puffballs as surrogates or complements to genuine psychoactive
-fungi in their ceremonies.
-
-## Implications for Ethnomycological Research
-
-The C. molybdites case demonstrates the importance of combining ethnographic
-fieldwork with rigorous chemical and taxonomic analysis. Indigenous knowledge
-of fungi — including common names, uses, and [[ethnomycology-cultural-significance-sacred-fungi]] — provides
-essential data that should not be dismissed, but it must be interpreted with
-care. Folk taxonomy does not necessarily correspond to Western species concepts,
-and reported effects may reflect the activity of co-administered substances,
-confused species, or idiosyncratic responses to toxic compounds rather than
-genuine neurotropic activity.
-
-For researchers studying neurotropic fungi, C. molybdites serves as a cautionary
-tale: not every mushroom called "sacred" or "divinatory" by indigenous peoples
-contains psilocybin or other classical hallucinogens, but the cultural context
-in which such mushrooms are used may still be relevant to understanding the
-broader phenomenology of indigenous psychoactive practice. Future research should
-include voucher [[fungal-specimen-collection-herbarium-management]], DNA barcoding, and rigorous chemical profiling
-to resolve the many contradictions that still surround this common and culturally
-significant mushroom.
-
-## See Also
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]
-- [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]
+[[schizophyllum-commune]] provides a parallel case: it was reported as hallucinogenic

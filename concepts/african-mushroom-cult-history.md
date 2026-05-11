@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [mycology, mushrooms]
-sources: []
+sources:
+  - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
 # African Mushroom Cult History The oldest known evidence of human psychoactive mushroom use, preserved in 10,000-year-old rock art of the Sahara Desert, along with documented cases of psilocybin mushroom intoxications in Africa. ## The [[terence-mckenna]], working independently, found evidence for the oldest known mushroom cult in Africa.
 

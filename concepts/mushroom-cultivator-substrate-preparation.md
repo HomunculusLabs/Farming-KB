@@ -1,10 +1,11 @@
 ---
-title: cotter-compost-substrate-preparation-manure-mushroom-cultivation in The Mushroom Cultivator
+title: Mushroom Cultivator Substrate Preparation
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Substrate Preparation in The Mushroom Cultivator
@@ -14,7 +15,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-The purpose of composting is to prepare a nutritious medium of such characteristics that the mushroom mycelium thrives better than competing organisms. A properly prepared substrate creates a physically and chemically homogeneous, selective medium. The Mushroom Cultivator covers two main categories: composted substrates (primarily for Agaricus species) and non-composted substrates (sawdust, straw, wood chips for other species).
+The purpose of composting is to prepare a nutritious medium of such characteristics that the [[antimicrobial-compounds-mushroom-mycelium]] thrives better than competing organisms. A properly prepared substrate creates a physically and chemically homogeneous, selective medium. The Mushroom Cultivator covers two main categories: composted substrates (primarily for Agaricus species) and non-composted substrates (sawdust, straw, wood chips for other species).
 
 ## Composted Substrates (Chapter V)
 
@@ -24,7 +25,7 @@ Phase I is outdoor composting involving mixing and primary decomposition. The pr
 
 **Basic Raw Materials:**
 - Cereal straw from wheat, rye, oat, barley (the primary base)
-- Horse manure (traditional, preferred due to beneficial microorganisms)
+- Horse manure (traditional, preferred due to [[forest-and-bamboo-beneficial-microorganisms]])
 - Chicken manure, various animal feed meals as nitrogen supplements
 - Gypsum (calcium sulfate) at 5% of dry weight to improve structure and porosity
 
@@ -32,7 +33,7 @@ Phase I is outdoor composting involving mixing and primary decomposition. The pr
 - The carbon:nitrogen (C:N) ratio must be optimized for microbial decomposition
 - Water is the most important component -- the recommended moisture range for optimum composting depends on the materials
 - Pre-wetting activates dormant microorganisms and begins the decomposition process
-- The pile must be periodically turned to aerate, preventing anaerobic composting
+- The pile must be periodically turned to aerate, preventing [[comparison-aerobic-vs-anaerobic-composting]]
 
 **Long vs. Short Composting:**
 - Long composting carries out the complete process outdoors (excluding pasteurization), requiring 14-28 days
@@ -49,7 +50,7 @@ Phase II is carried out indoors in specially designed rooms. The compost is past
 
 **Alternative Composts:**
 - Sugar cane bagasse compost
-- Five Day Express Composting Method
+- Five Day Express [[comparison-bokashi-vs-hot-composting-method]]
 
 ## Non-Composted Substrates (Chapter VI)
 
@@ -81,35 +82,9 @@ One of the most frequently used [[growing-gourmet-substrate-materials-wood-types
 1. Chop or shred dry straw into 1-3 inch pieces using a chipper, shredder, or mower
 2. Shredding increases moisture absorption by expanding surface area
 
-**Pasteurization Methods:**
+**[[growing-gourmet-straw-pasteurization-methods]]:**
 
 *Hot Water Bath (home cultivator):*
 - Use 55 gallon drum and propane burner
 - Heat water to 160-170°F
 - Submerge chopped straw in wire mesh basket for 30-45 minutes
-- Drain thoroughly -- all loose water must run off
-- Cool to 80°F before spawning
-
-*Steam Pasteurization (commercial):*
-- Pre-soak straw to approximately 75% moisture
-- Steam at 140-150°F for 2-4 hours, then cool to 80°F
-- Alternative: 12-24 hours at 122°F after high-temperature pasteurization to promote beneficial microbial growth
-
-**Species Grown on Straw:**
-- stamets-shiitake-and-stropharia-cultivation
-- [[psilocybe-cubensis]]
-
-**Plastic Bag Method:**
-- Five gallon bags (1-2 mils thick) with two dozen nail-sized holes for aeration
-- Some compression is desirable for increased cropping efficiency
-- Yield increases of 85% possible with cottonseed meal supplementation at 132g per kg dry straw
-
-## Substrate Moisture Content
-
-Moisture content is critical. A dry substrate produces fine wispy [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and poor [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. An over-wet substrate inhibits growth and produces overly stringy mycelia. Controlled experiments with Agaricus brunnescens showed yield depressions when moisture deviated more than 2% from optimum, and deviations greater than 5% generally prevent fruitbody production.
-
-## See Also
-
-- stamets-non-composted-substrates -- wood and straw substrates
-- [[mushroom-cultivator-grain-spawn-production]] -- grain [[azurescens-spawn-preparation-grain-to-wood]]
-- mushroom-substrate-recipes -- general substrate recipes

@@ -18,7 +18,7 @@ created: 2026-05-07
 
 # Drip Irrigation Limitations for the Home Garden
 
-Steve Solomon explicitly does not recommend drip irrigation systems for home vegetable gardens. His position is based on extensive personal experience: he used drip tubes on his trial grounds from 1982 through the late 1990s, not because he considered them ideal but because drip was the only way he could water extensive areas during daylight hours with a well producing less than three gallons (11 liters) per minute. His conclusion after nearly two decades is that sprinklers are superior for the home gardener.
+[[steve-solomon]] explicitly does not recommend [[cervantes-drip-irrigation-systems]] for home [[maintaining-organic-matter-in-vegetable-gardens]]. His position is based on extensive personal experience: he used drip tubes on his trial grounds from 1982 through the late 1990s, not because he considered them ideal but because drip was the only way he could water extensive areas during daylight hours with a well producing less than three gallons (11 liters) per minute. His conclusion after nearly two decades is that sprinklers are superior for the home gardener.
 
 ## Cost and Durability
 
@@ -36,7 +36,7 @@ Emitter holes tend to become plugged even when water filters are installed. This
 
 ## Unsuitability for Germination
 
-Drip systems are completely unsuitable for germinating seeds. Seeds require consistent surface moisture over a broad area to sprout. Drip emitters deliver water to narrow point locations, leaving most of the seedbed surface dry. This limitation alone disqualifies drip as a standalone irrigation method for gardens that are regularly direct-seeded.
+Drip systems are completely unsuitable for germinating seeds. Seeds require consistent surface moisture over a broad area to sprout. Drip emitters deliver water to narrow point locations, leaving most of the seedbed surface dry. This limitation alone disqualifies drip as a standalone [[query-how-do-i-choose-the-right-irrigation-method-for-my-vegetable-garden]] gardens that are regularly direct-seeded.
 
 ## Failure on Sandy Soils
 
@@ -48,7 +48,7 @@ Solomon concedes that high-quality, long-lasting drip lines might be useful for 
 
 ## Microirrigation as an Alternative
 
-Solomon distinguishes between true drip irrigation and microirrigation, which he considers a more viable option for certain applications. Microirrigation systems use:
+Solomon distinguishes between true [[coleman-drip-irrigation-and-water-management]] microirrigation, which he considers a more viable option for certain applications. Microirrigation systems use:
 
 - Inexpensive low-pressure plastic tubing to carry water
 - Cheap quick-disconnect fittings for corners, plugs, connectors, and tees
@@ -88,18 +88,3 @@ Drip systems require clean water at consistent pressure. Even small fluctuations
 Sprinkler systems, by contrast, are far more forgiving of pressure variations. A slight drop in pressure may reduce the radius of throw but will not create dry spots between emitters. This robustness makes sprinklers better suited to the variable water supplies typical of homesteads.
 
 ## The Cost of Complexity
-
-Every component in a drip system is a potential failure point. Connectors, elbows, tees, filters, pressure regulators, and emitters each represent something that can clog, leak, crack, or disconnect. The cumulative maintenance burden of keeping a drip system functional season after season is substantial.
-
-Sprinkler systems have far fewer components. A hose, a sprinkler head, and optionally a timer constitute the entire system. When something fails, the diagnosis and repair are straightforward and inexpensive.
-
-## Solomon's Personal Experience
-
-It is worth noting that Solomon's critique is not theoretical. He used drip irrigation on his trial grounds for approximately 16 years, from 1982 through the late 1990s. His trial grounds were extensive, requiring him to water large areas during daylight hours with a well that produced less than three gallons per minute. Drip was the only practical option for that specific situation, and he became intimately familiar with its limitations.
-
-He states directly that he did not care what drip cost in money or effort because he was growing valuable research data, not food. For the home vegetable gardener whose goal is food production rather than agricultural research, the economics and maintenance burden of drip are far less justifiable.
-
- See [[solomon-irrigation-systems-sprinkler-design]]
-- [[hand-watering-garden]]
-- [[solomon-irrigation-water-scarce]]
-- [[solomon-irrigation-systems-sprinkler-design]]

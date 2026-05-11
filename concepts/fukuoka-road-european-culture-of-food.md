@@ -1,10 +1,11 @@
 ---
-title: The fukuoka road european culture of food of Food
+title: [[fukuoka-road-africa-greening-desert]] European Culture Of Food
 created: 2026-04-28
 tags: [europe, food, culture, diet, east-west]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,20 +88,3 @@ The [[fukuoka-japanese-diet-worse]] shall surely perish the moment the
 chopstick is abandoned for forks and spoons. Fukuoka
 acknowledges the ecological damage caused by excessive use
 of disposable chopsticks, but notes that whereas chopsticks
-will again become trees if returned to the soil, the
-petroleum and mineral resources spent on the fabrication of
-metal products cannot be recovered.
-
-## Man First Versus Nature First
-
-Japan's farmers exist by the grace of nature, so it is only
-proper that they take good care of nature, their creator,
-and treat its soul with reverence. Westerners see man as
-surviving by the conquest of nature, so they think it only
-fitting that nature be rebuilt to suit his convenience. The
-drive in the West to protect the environment is also for
-the benefit of man, not nature. See [[fukuoka-european-civilization-standstill]] and [[fukuoka-road-lawn-culture]]
-
-## See Also
-
-- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]

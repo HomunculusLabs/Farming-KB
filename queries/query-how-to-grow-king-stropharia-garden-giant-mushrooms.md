@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, outdoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources: []
+sources:
+  - "raw/papers/mycelium-running-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: query
 ---
 

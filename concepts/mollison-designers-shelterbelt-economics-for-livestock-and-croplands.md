@@ -1,8 +1,8 @@
 ---
-title: "mollison designers shelterbelt economics for livestock and croplands for Livestock and Croplands"
+title: Mollison Designers Shelterbelt Economics For Livestock And Croplands
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - shelterbelts
   - windbreaks
   - livestock
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -48,7 +49,7 @@ eucalypt) affords [[cervantes-wind-protection-outdoor-cannabis]] for crops such 
 avocado, giving the greatest increases in yield while reducing wind
 damage to fruit and leaf.
 
-Specific yield data cited by Mollison:
+Specific [[miniculture-production-yield-data-psilocybe-cubensis-bigwood-beug]] cited by Mollison:
 - Citrus culled as damaged: 50% in unsheltered areas versus 18.5%
   in shelterbelt systems
 - Cotton yields: 17.4% higher within five times the height of the
@@ -87,16 +88,3 @@ honey, and shelter. In more constricted areas, a matrix of
 single-tree lines is effective if close-spaced.
 
 ## Design Integration
-
-Shelterbelt economics reinforce the mollison-windbreak-design
-principle that every farm should have integrated wind protection.
-The 20-30% fuel savings, 15-20% livestock production increases, and
-10-17% [[fukuoka-hotel-analogy-crop-yield-model]] improvements demonstrate that shelterbelt
-investment pays for itself rapidly while providing multiple
-additional yields.
-## See Also
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
-- [[mollison-designers-lime-and-cement-natural-building]]
-- [[mollison-designers-citrus-growing-and-care]]
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]
-- [[mollison-designers-geese-and-duck-weed-control]]

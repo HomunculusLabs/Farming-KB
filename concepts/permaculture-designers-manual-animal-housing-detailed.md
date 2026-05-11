@@ -1,5 +1,5 @@
 ---
-title: permaculture designers manual animal housing detailed (Detailed)
+title: Permaculture Designers Manual Animal Housing Detailed
 created: 2026-04-15
 updated: 2026-05-09
 type: concept
@@ -31,10 +31,10 @@ Mollison places animal systems according to their management frequency:
 ## Poultry Housing
 ### Chicken Tractors
 Mobile poultry housing (chicken tractors) is one of the most versatile
-permaculture animal systems. The tractor is a lightweight, moveable coop
+[[permaculture-animal-integration]] systems. The tractor is a lightweight, moveable coop
 without a floor that can be relocated across garden beds or pasture:
 - Chickens scratch and manure the soil, preparing beds for planting
-- They eat insect pests, weed seeds, and residual crop material
+- They eat [[duggar-mushroom-insect-pests-and-fungal-diseases]], weed seeds, and residual crop material
 - Daily moves prevent over-concentration of manure and reduce parasite
   buildup
 - Floor area should provide 0.1-0.2 square metres per bird minimum
@@ -68,7 +68,7 @@ Mollison describes pig systems integrated with forage crops and tree crops:
 - Mineral blocks and clean water always available
 - kidding/judging pens separate from main flock area
 ### Cattle
-- In cold climates, conjoin barn housing with dwelling for shared warmth
+- [[query-how-do-i-grow-figs-in-cold-climates]], conjoin barn housing with dwelling for shared warmth
 - Feed storage (hay, silage) adjacent to housing for winter access
 - Stockyards designed for ease of handling and minimal stress
 - laneways connect paddocks to housing and handling facilities
@@ -78,27 +78,13 @@ Mollison describes pig systems integrated with forage crops and tree crops:
 One of Mollison's most cited integrated designs places poultry housing
 directly above or adjacent to a glasshouse:
 - Chicken body heat warms the greenhouse space during cold nights
-- Carbon dioxide from respiration benefits plant growth
+- [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from respiration benefits plant growth
 - Manure falls through slatted floor into compost-active zone below
 - The greenhouse provides winter shelter; chickens provide heat and CO2
 - Water from roof catchment supplies both poultry and irrigation needs
 ### Biogas Integration
-[[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be directed to biogas digesters, producing methane for
+[[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can be directed to [[biogas-digesters-and-anaerobic-digestion-systems]], producing methane for
 cooking and heating. The effluent from digesters is nutrient-rich liquid
 fertiliser. This system is especially effective in tropical and subtropical
 climates where temperatures support [[biogas-digester-basics]] year-round.
 ## Key Design Checklist
-1. Species-appropriate shelter from heat, cold, wind, and rain
-2. Secure fencing appropriate to the animal species
-3. Clean water access within every enclosure
-4. Manure collection and composting system
-5. Feed storage protected from moisture and pests
-6. Integration with food production and energy systems
-7. Predator protection appropriate to local wildlife
-8. Easy access for daily management tasks
-## See Also
-- [[permaculture-designers-manual-animal-forage-systems]] - [[free-range-poultry-forage-design-mollison]]
-- [[permaculture-designers-manual-settlement-types]] - Settlement layout
-- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] - Greenhouse systems
-- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] - Animal
-  systems overview

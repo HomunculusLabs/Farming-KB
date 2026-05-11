@@ -1,5 +1,5 @@
 ---
-title: Island and Atoll [[mollison-designers-cool-humid-climate-design-overview]]
+title: Permaculture Designers Manual Island Climate
 created: 2026-04-21
 updated: 2026-05-09
 type: concept
@@ -88,46 +88,3 @@ species that filter and transpire the water before it reaches the water
 table.
 
 ## Coastal Protection and Windbreaks
-
-Hurricane and storm surge protection is critical on low-lying atolls and
-islands. Mollison recommends establishing dense coastal windbreaks of
-Casuarina, Scaevola, and other salt-tolerant pioneer species along the
-ocean-facing perimeter. These windbreaks reduce wind speed across the
-settlement area, trap windblown sand to build up the beach berm, and
-provide a first line of defense against storm surge.
-
-Behind the coastal windbreak, a secondary belt of food-producing trees
-including breadfruit, coconut, pandanus, and citrus provides both food
-security and additional [[cervantes-wind-protection-outdoor-cannabis]]. The layered structure of these
-plantings, with tall canopy trees, mid-level fruit trees, and ground-level
-crops, creates a resilient system where damage to one layer does not
-destroy the entire food production capacity.
-
-Coral reef preservation is directly linked to coastal protection on atolls.
-Healthy reefs absorb wave energy before it reaches the shore, reducing
-erosion during storms. Mollison emphasises that reef destruction through
-dynamite fishing, coral mining, or pollution removes the island's primary
-natural defense against ocean forces and must be strictly prevented.
-
-## Food Systems on Atolls
-
-The limited range of traditional atoll crops creates nutritional
-vulnerability. Mollison stresses the importance of species diversification
-beyond the traditional coconut, breadfruit, taro, and pandanus staple
-crops. Introduced species such as moringa, chaya, sweet potato, and
-various leguminous trees can fill nutritional gaps, especially for
-vitamins A and C, iron, and protein.
-
-Aquaculture integration around atoll shores provides essential protein.
-Mollison describes systems where giant clams, trochus, and various fish
-species are raised in protected reef flats and lagoon areas. These
-aquaculture systems require minimal external inputs because the tropical
-marine environment naturally supports high biological productivity.
-Seaweed cultivation (Eucheuma species) provides both food and income
-through export markets.
-
-## Related Topics
-
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- [[soil-erosion-control]]
-- [[permaculture-designers-manual-temperate-climate-design]]

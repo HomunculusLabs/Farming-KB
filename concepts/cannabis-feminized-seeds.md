@@ -3,6 +3,7 @@ title: Cannabis Feminized Seeds
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis, plant-growth]
@@ -18,7 +19,7 @@ sex chromosomes, ethylene, and hormone treatments.
 
 ## The Science of Sex Determination
 
-Cannabis sex is determined by chromosomes. The plant has 20
+[[cannabis-sex-determination-floral-biology]] is determined by chromosomes. The plant has 20
 chromosomes total, with the 10th pair being the sex chromosomes.
 Female cannabis plants have two copies of the X chromosome (genotype
 XX), while male plants have one X and one Y chromosome (genotype XY).
@@ -45,7 +46,7 @@ selects for intersexuality -- "like begets like." Under the same
 stresses that caused intersexuality in the pollen parent, the progeny
 will often show similar intersex tendencies.
 
-Some seed companies market "feminized seeds" produced by collecting
+Some [[spanish-cannabis-seed-companies]] market "feminized seeds" produced by collecting
 pollen from carefully selected, latent, stress-induced hermaphrodites.
 This process is time-consuming and arduous, yielding mostly female
 plants when grown without stress, but the intersex risk persists.
@@ -56,7 +57,7 @@ True feminized seeds are produced using hormone treatments that induce
 staminate (male) flower formation on otherwise purely female plants:
 
 1. **Select intersex-resistant females:** Grow potential breeding
-   females under stressful conditions (irregular light cycles, high
+   females under stressful conditions (irregular [[cannabis-photoperiodism-and-light-cycles]], high
    heat) and select only those that resist developing male flowers.
    These "true females" do not carry the intersex trait.
 
@@ -85,55 +86,5 @@ flowers are produced. The relationship is bidirectional:
 - Applying ethylene-inhibiting agents to female plants as they enter
   flowering causes stamen formation in place of pistils.
 
-The second mechanism is used in feminized seed production. Products
+The second mechanism is used in [[cervantes-feminized-seed-production]]. Products
 like Stamen-It! from PG-Solutions contain ethylene-inhibiting agents
-that cause gender reversal of pistillate individuals, producing viable
-pollen in significant quantities.
-
-## Commercial Products
-
-Several commercial products have been developed for feminized seed
-production:
-
-- **eliteXefite (Hybritech):** The first ready-to-use hormone
-  treatment introduced for this purpose, now no longer publicly
-  available.
-- **Stamen-It! (PG-Solutions):** A ready-to-use hormone therapy spray
-  that is extremely effective in causing gender reversal. The
-  formulation causes significant pollen production even in the most
-  reversal-resistant genotypes.
-
-## Environmental Causes of Intersexuality
-
-Environmental stressors that can induce intersex expression include:
-
-- Inconsistent photoperiod or interrupted dark cycles
-- Nutrient toxicities and deficiencies
-- pH issues
-- Drastically fluctuating temperatures during flowering
-- Any severe stress that alters ethylene levels
-
-These environmental triggers are distinct from genetic intersexuality,
-which is inherited regardless of growing conditions. Strict negative
-selection against intersex plants is required by breeders and growers
-alike, as even a single male flower on an otherwise female plant can
-pollinate the majority of a crop.
-
-## Limitations and Considerations
-
-- Feminized seeds from intersex parents carry intersex tendencies;
-  hormone-induced feminized seeds from selected true females minimize
-  this risk.
-- The technology requires access to specific hormone products.
-- Proper technique is essential to avoid introducing unwanted traits.
-- Some hormone sprays induce staminate flowers but fail to produce
-  viable pollen in significant quantities.
-- Feminized seeds are genetically unstable when reproduced sexually,
-  like all hybrids.
-
-## See Also
-
-- [[cannabis-male-plant-management]]
-- [[cannabis-pollen-collection]]
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-photoperiodism-and-light-cycles]]

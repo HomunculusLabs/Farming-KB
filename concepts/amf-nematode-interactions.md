@@ -88,23 +88,3 @@ twofold increase in final nematode populations was recovered, yet
 shoot dry weights were higher in AMF-inoculated plants. This demonstrates
 that mycorrhizal plants can develop increased tolerance to nematodes,
 maintaining productivity despite the presence of the pathogen. Similar
-results were observed in plum rootstocks co-inoculated with G. mosseae
-and P. vulnus, where higher nematode populations were accompanied by
-greater shoot biomass.
-
-## Context-Dependent Outcomes
-
-The outcome of AMF-nematode interactions varies substantially depending
-on several factors. Different AMF species or even strains of the same
-species can produce different effects. In Prunus avium, G. mosseae
-provided protective effects against Phytophthora cinnamomi, while G.
-intraradices showed no such effect. The host cultivar also plays a
-critical role, as demonstrated by differential responses in potato
-cultivars inoculated with AMF and challenged by [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
-
-## See Also
-
-- [[gadd-nematode-trapping-fungi-dna-microarray-interaction]]
-- [[microwave-water-interaction-2-45-ghz]]
-
-- [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

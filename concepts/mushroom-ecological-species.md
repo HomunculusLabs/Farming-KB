@@ -35,7 +35,7 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 | Fresh air exchange | High CO2 tolerance; lower FAE acceptable |
 | Light | Low to moderate; indirect |
 | pH | 5.0-6.5 |
-| Colonization time | 30-45 days on supplemented sawdust |
+| Colonization time | 30-45 days on [[oyster-mushroom-supplemented-sawdust-blocks]] |
 | Time to first fruit | 2-4 weeks; fruiting bodies develop over 2-3 months |
 | Yield | Variable; reishi grows slowly but can reach large size |
 | Difficulty | Moderate |
@@ -129,14 +129,14 @@ Additional cultivation species (Reishi, Turkey Tail, Almond Mushroom), outdoor/e
 
 | Species | Primary Application | Notes |
 |---------|-------------------|-------|
-| Pleurotus ostreatus | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
+| [[cancer-medicinal-mushrooms-pleurotus-ostreatus]] | Petroleum, PAHs, PCBs | Most versatile remediator; aggressive colonizer |
 | Stropharia rugoso-annulata | Bacteria (E. coli), sediment | Premier mycofiltration species |
-| Trametes versicolor | PAHs, dyes, general pollutants | Strong ligninolytic enzyme production |
-| Phanerochaete chrysosporium | PCBs, PAHs, pesticides | Model white-rot research organism |
+| Trametes versicolor | PAHs, dyes, general pollutants | Strong [[ligninolytic-enzyme-production-bioremediation]] |
+| [[phanerochaete-chrysosporium]] | PCBs, PAHs, pesticides | Model white-rot research organism |
 | Ganoderma lucidum | Heavy metals | Biosorption capacity |
 | Lentinula edodes | Xenobiotics, pesticides | Laccase production |
-| Pleurotus eryngii | PAHs, petroleum | Mediterranean oyster; tolerant species |
-| Schizophyllum commune | Various pollutants | Cosmopolitan; grows almost anywhere |
+| [[pleurotus-eryngii]] | PAHs, petroleum | Mediterranean oyster; tolerant species |
+| [[schizophyllum-commune]] | Various pollutants | Cosmopolitan; grows almost anywhere |
 
 ## Substrate Preparation Quick Reference
 

@@ -88,34 +88,3 @@ Metzner traces how each paradigm emerged in historical sequence. The indigenous 
 ## Shamanic Paradigm: Shamanism as a Healing Science
 
 In the indigenous shamanic paradigm, illness is understood not as a localized biological dysfunction but as an imbalance or disharmony in the individual's relationship to the natural and supernatural world. The shaman's role encompasses four main functions: diagnosis (often involving trance or divination), treatment (which may include herbal remedies, ceremonies, and soul retrieval), maintaining communal and ecological balance, and serving as a keeper of cosmological knowledge. Metzner emphasizes that shamanic healing operates through mechanisms that are not purely psychological or purely physiological but involve a complex interplay of suggestion, social cohesion, altered states of consciousness, and direct experiential engagement with the natural world.
-
-The shamanic use of psychoactive plants, which Metzner terms "entheogenic," typically occurs within highly structured ceremonial contexts involving preparation, purification, specific songs or chants, and post-session integration practices. This ritual framework provides the containment and meaning-making structures that distinguish shamanic practice from recreational drug use. Metzner notes that Western researchers who have worked with indigenous healers consistently report the sophistication of these practices and their effectiveness in treating conditions that [[fukuoka-eastern-western-medicine-healing-world-crisis]] finds intractable.
-
-## Psychiatric-Medical Paradigm: Clinical Applications and Limitations
-
-The psychiatric-medical paradigm, which dominated Western research from the 1950s through the early 1970s, approached psychedelic substances primarily as tools for diagnosis and treatment within a conventional medical framework. Research in this period demonstrated significant efficacy for conditions including alcoholism (with abstinence rates of approximately fifty percent at six-month follow-up), anxiety and depression in terminal cancer patients, and various neuroses. However, Metzner identifies several limitations of this paradigm: its tendency to pathologize transpersonal experiences, its over-reliance on quantitative outcome measures that fail to capture subjective meaning, and its neglect of the set and setting variables that indigenous traditions had long recognized as crucial.
-
-The resurgence of clinical psychedelic research in the early twenty-first century, particularly with psilocybin for treatment-resistant depression and MDMA for post-traumatic stress disorder, has largely operated within this medical paradigm. Metzner acknowledges the value of these approaches but warns against reproducing the reductionism of the earlier wave, urging researchers to integrate insights from the psychospiritual and shamanic paradigms.
-
-## Psychospiritual Paradigm: Consciousness Expansion and Integration
-
-The psychospiritual paradigm shifts the frame from pathology to potential, viewing entheogenic experiences as opportunities for expanded awareness, spiritual insight, and personal transformation. Drawing on the humanistic and transpersonal psychology traditions of Maslow, Grof, and others, this paradigm emphasizes the importance of the quality of subjective experience, the role of mystical or transcendental states in psychological well-being, and the need for ongoing integration practices following entheogenic sessions. Metzner notes that many individuals who seek out entheogenic experiences do so not because they are suffering from a diagnosable condition but because they are seeking meaning, creativity, connection, or spiritual understanding that conventional approaches fail to provide.
-
-A key contribution of the psychospiritual paradigm is its emphasis on preparation and integration as equally important phases of the therapeutic process. Practices such as meditation, journaling, bodywork, time in nature, and community sharing are seen as essential for grounding and embodying the insights gained during entheogenic experiences. Without such integration practices, transformative experiences risk remaining as isolated peak experiences with limited lasting impact on daily life.
-
-## Creative Problem-Solving Paradigm
-
-The fourth paradigm focuses on the capacity of entheogenic substances to facilitate creative thinking, pattern recognition, and novel problem-solving. Metzner draws on research by Harman and colleagues at Stanford's International Foundation for Advanced Study, which demonstrated that psilocybin sessions produced significant improvements in professional engineers' and scientists' ability to solve previously intractable technical problems. The proposed mechanisms include reduced cognitive rigidity, enhanced associative thinking, and the capacity to reframe problems from fundamentally different perspectives.
-
-Metzner connects this paradigm to the broader literature on creativity and altered states, including the historical examples of Kary Mullis (Nobel laureate who attributed his PCR invention to LSD use), Francis Crick's reported use of LSD during the period of his DNA discovery work, and the creative output of artists and musicians who have worked with psychoactive substances. He cautions, however, that the relationship between psychoactive states and genuine creativity is complex and not guaranteed; substance use without disciplined creative practice may produce interesting experiences but not necessarily useful innovations.
-
-## Integration: Toward a Comprehensive Framework
-
-Metzner concludes by advocating for an integrative approach that draws on the strengths of all four paradigms. Such an approach would combine the ceremonial sophistication and ecological awareness of shamanic practice with the empirical rigor of medical research, the attention to subjective meaning of psychospiritual work, and the pragmatic orientation toward creative problem-solving. He emphasizes that no single paradigm is sufficient to capture the full range of therapeutic and transformative potential that entheogenic substances offer, and that the premature dismissal of any paradigm impoverishes the field as a whole.
-
-## See Also
-
-- [[metzner-five-fundamental-conclusions-psychedelic-psychotherapy]]
-- [[metzner-shamanic-healing-divination-worldview]]
-- metzner-syncretic-entheogenic-folk-ceremonies-community-ritual
-- [[metzner-hallucinogens-psychotherapy-and-shamanism]]

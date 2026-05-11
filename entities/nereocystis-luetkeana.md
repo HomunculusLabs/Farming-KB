@@ -50,11 +50,11 @@ N. luetkeana is strictly annual — the entire sporophyte dies and disintegrates
 
 ## Chemistry and Bioactivity
 
-The stipe contains approximately 15–25% alginate by dry weight, with a high guluronic acid content that gives it useful gel-forming properties. Commercial alginate extraction from N. luetkeana was historically significant in the Pacific Northwest.
+The stipe contains approximately 15–25% alginate by dry weight, with a high guluronic acid content that gives it useful gel-forming properties. Commercial alginate extraction from N. luetkeana was historically significant in the [[psilocybin-north-america-pacific-northwest]].
 
 Fucoidan sulfated polysaccharides are present in the blade tissue and have demonstrated antioxidant, anticoagulant, and anti-inflammatory activities in laboratory studies. The fucoidan composition differs from that of other kelps in its monosaccharide ratios.
 
-The species accumulates potassium, iodine, and various trace minerals at concentrations exceeding those of surrounding seawater. Phlorotannin polyphenols provide UV protection and chemical defense against herbivores.
+The species accumulates potassium, iodine, and various [[dynamic-accumulator-plants-trace-minerals]] at concentrations exceeding those of surrounding seawater. Phlorotannin polyphenols provide UV protection and chemical defense against herbivores.
 
 ## Ecology
 
@@ -66,7 +66,7 @@ Sea urchins are the primary herbivores of N. luetkeana. When urchin populations 
 
 ## Cultivation
 
-Cultivation research on N. luetkeana has focused primarily on habitat restoration rather than commercial production. Spore collection and gametophyte [[agar-culture-techniques-detailed]] are well-established for hatchery-scale propagation.
+[[benjamin-minge-duggar-mushroom-cultivation-research]] on N. luetkeana has focused primarily on habitat restoration rather than commercial production. Spore collection and gametophyte [[agar-culture-techniques-detailed]] are well-established for hatchery-scale propagation.
 
 Outplanting of cultured juvenile sporophytes onto artificial substrates and natural reef surfaces has been successful in Washington and British Columbia. Survival rates of 30–60% have been reported for seeded rope deployments.
 
@@ -78,7 +78,7 @@ Bull kelp has been traditionally harvested by Indigenous peoples of the Pacific 
 
 Contemporary commercial harvesting focuses on the stipe for food products including pickled bull kelp, kelp salsa, and dried kelp chips. Small-scale artisanal producers market these products in farmers markets and specialty stores along the Pacific coast.
 
-The species is also harvested for agricultural fertilizer and soil amendment. Kelp meal derived from N. luetkeana provides micronutrients, growth hormones (cytokinins), and alginates that improve soil structure and water retention.
+The species is also harvested for agricultural fertilizer and soil amendment. [[comparison-fish-aminos-vs-kelp-meal]] derived from N. luetkeana provides micronutrients, [[gibberellins-plant-growth-hormones]] (cytokinins), and alginates that [[query-how-do-fungi-improve-soil-structure]] and water retention.
 
 ## Threats and Conservation
 
@@ -87,30 +87,3 @@ N. luetkeana populations have experienced significant declines in parts of their
 Sea star wasting disease triggered cascading effects: the loss of sunflower sea stars (Pycnopodia helianthoides) released urchin populations from predation, leading to overgrazing of kelp forests. Recovery has been limited in affected areas.
 
 Ocean acidification poses a direct threat to early life stages, as sporophyte development is sensitive to reduced pH. Conservation efforts include urchin culling programs, sea otter reintroduction, and hatchery-based kelp restoration.
-
-## Related Species
-
-Nereocystis is monotypic, but the species is closely related to other Laminariaceae including Saccharina, Laminaria, and Lessonia. Among Pacific Northwest kelps, it most closely resembles the annual life history of some Costaria species.
-
-Macrocystis pyrifera overlaps in range in central and southern California but is perennial and forms more complex, multi-layered canopy structures. The two species rarely co-occur at high density, with N. luetkeana dominating in colder, more northerly waters.
-
-Lessonia nigrescens from Chile fills a broadly similar ecological niche in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] as a wave-exposed intertidal kelp, though the genera are not closely related.
-
-## Life History
-
-N. luetkeana has a heteromorphic alternation of generations typical of laminarialean kelps. The macroscopic sporophyte produces zoospores in sori located near the blade bases during late summer and fall.
-
-Released zoospores settle on suitable substrates and develop into microscopic haploid gametophytes. Female gametophytes produce eggs that are fertilized by sperm from male gametophytes, giving rise to new sporophytes.
-
-Gametophytes can persist through winter in a dormant state, enabling spring recruitment. This microscopic phase provides resilience against annual winter mortality of the sporophyte generation and allows rapid recolonization of disturbed areas.
-
-## See Also
-
-- [[laminaria-digitata]]
-- [[fucus-vesiculosus]]
-- [[ulva-lactuca]]
-- [[padina-pavonica]]
-- [[sargassum-muticum]]
-- [[sargassum-fusiforme]]
-- [[palmaria-palmata]]
-- [[gelidium-amansii]]

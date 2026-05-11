@@ -88,34 +88,3 @@ The flexible inner bark was used for rope making and basket weaving. Elm wood is
 The leaves are palatable to livestock and have been used as fodder. Young leaves were occasionally eaten by humans in times of scarcity.
 
 In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], wych elm is valued as a fast-growing shade tree. Its deep root system helps stabilize soils on slopes. The [[dighton-fungal-decomposition-leaf-litter-dynamics]] decomposes rapidly, contributing to soil fertility.
-
-## Cultivation
-
-Wych elm is propagated by seed, which requires cold stratification. Seeds lose viability quickly and should be sown within weeks of collection.
-
-The species can also be propagated by softwood cuttings taken in early summer, though rooting success is moderate. Layering is an alternative vegetative method.
-
-Young trees establish quickly in open sites. Growth rates of 60–90 cm per year are common in favorable conditions. The species coppices vigorously, producing straight poles when managed on a short rotation.
-
-In agroforestry systems, wych elm can serve as a windbreak or shade tree. Its broad canopy casts dense shade in summer but allows light through in spring before leaf expansion.
-
-Several cultivars are available, including weeping forms (*U. glabra* 'Camperdownii') and variegated forms. These are mostly propagated by grafting onto seedling rootstocks.
-
-## Notable Cultivars
-
-- **'Camperdownii'** — A weeping form with a dense, dome-shaped crown. Discovered at Camperdown House, Dundee, Scotland, around 1850. Grafted onto tall rootstocks.
-- **'Pendula'** — A broadly weeping form with long, pendulous branches. Less dense than 'Camperdownii'.
-- **'Exoniensis'** — A fastigiate (columnar) form suitable for urban plantings.
-- **'Horizontalis'** — A form with horizontally spreading branches, creating a flat-topped profile.
-- **'Lutescens'** — A golden-leaved form with yellow-green foliage.
-
-## See Also
-
-- [[ulmus-parvifolia]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[tilia-cordata]]
-- [[acer-saccharinum]]
-- [[betula-pendula]]
-- [[alnus-glutinosa]]
-- [[salix-alba]]

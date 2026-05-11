@@ -27,12 +27,12 @@ released.
 
 ## The HEX-1 Protein: Core Structural Determinant
 
-The key structural protein of the Woronin body is HEX-1, which defines a
+The key structural protein of the [[hex1-protein-woronin-body-crystal-structure-euascomycetes]] is HEX-1, which defines a
 family of Euascomycete-specific proteins. HEX-1 was independently identified
-through purification of Woronin bodies from Neurospora crassa by two research
+through purification of Woronin bodies from [[neurospora-crassa]] by two research
 groups (Jedd and Chua, 2000; Tenney et al., 2000). Antibodies to HEX-1
 decorate the Woronin body matrix in multiple species including Neurospora
-crassa, Aspergillus nidulans, and Magnaporthe grisea.
+crassa, Aspergillus nidulans, and [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]].
 
 Several critical properties of HEX-1 have been established:
 
@@ -65,7 +65,7 @@ function.
 The solid core is necessary because Woronin bodies must resist intracellular
 [[bloomfield-turgor-pressure-and-hyphal-invasion]] when plugging a septal pore. Buller's original observation
 of septal deformation (convexo-concave shape bending toward damaged cells)
-indicated substantial turgor pressure that a solid crystalline plug must
+indicated substantial [[bloomfield-turgor-pressure-osmotic-mechanisms]] that a solid crystalline plug must
 withstand, analogous to a drain plug resisting water pressure in a sink.
 
 ## Biogenesis: Apical Programming of Gene Expression
@@ -88,49 +88,3 @@ displayed loss-of-function phenotypes specifically in apical compartments.
 ## Function: Cellular Integrity and Pathogenicity
 
 The primary function of Woronin bodies is the maintenance of cellular
-integrity. Neurospora crassa hex-1 mutants lack visible [[fungal-woronin-bodies-and-septal-pore-organization]]
-their hyphae bleed protoplasm through septal pores following damage. This
-has been confirmed in Magnaporthe grisea, Aspergillus nidulans, and
-Aspergillus oryzae. The Magnaporthe hex-1 mutant is also defective in
-appressorium morphogenesis and [[fungal-hyphae-invasive-growth-mechanisms]] within the plant host, and
-displays hyphal death under nitrogen starvation. Because Woronin bodies are
-present in all Euascomycete pathogens, they may represent attractive targets
-for fungicide development.
-
-## Phylogenetic Distribution
-
-The hex-1 gene has been identified in 17 Euascomycetes, including all seven
-with available genome sequences. The gene is also present in Pezizomycetes,
-the earliest-diverging Euascomycete lineage, including Tuber borchii,
-Ascobolus stercorarius, and [[saccharomyces-cerevisiae]], Schizosaccharomyces
-pombe, Ustilago maydis, Coprinus cinereus, and Rhizopus oryzae. This
-distribution indicates that hex-1 arose in the ancestral Euascomycete.
-
-Alternative splicing of hex-1 between the first and second exon produces
-two protein isoforms differing at the amino-terminus. Most Euascomycetes
-produce both isoforms (yielding small oval Woronin bodies), whereas
-Neurospora crassa produces a single isoform (yielding large hexagonal
-bodies), suggesting that co-assembly of isoforms determines morphology.
-
-## Related Structures in Other Fungal Groups
-
-Basidiomycete Hymenomycetes produce a different septal-pore-associated
-organelle called the septal pore cap (SPC) or parenthosome. The SPC is a
-barrel-shaped structure associated with an electron-dense core and unit
-membrane, with continuity between its membrane and the nuclear envelope,
-suggesting it is a specialized domain of the endoplasmic reticulum. The
-Urediniomycetes produce Woronin-body-like organelles that superficially
-resemble true Woronin bodies but have cores with fine striations, indicating
-a distinct composition and independent evolutionary origin.
-
-## See Also
-
-- [[fungal-environmental-sensing-signal-transduction-read]]
-- [[bloomfield-turgor-pressure-and-hyphal-invasion]]
-
-## Source
-
-- Jedd, G. (2006). Natural history of the fungal hypha: how Woronin
-  bodies support a multicellular lifestyle. In Gadd, G.M., Watkinson, S.C.
-  & Dyer, P.S. (eds.), *Fungi in the Environment*, pp. 22-37. Cambridge
-  University Press.

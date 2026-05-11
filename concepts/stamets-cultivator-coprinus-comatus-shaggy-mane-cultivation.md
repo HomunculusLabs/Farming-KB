@@ -11,6 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -87,16 +88,3 @@ essential for any cultivation effort. See
 stamets-cultivator-agaricus-bisporus-commercial-methods for comparison.
 
 ## Genetic Characteristics
-
-Basidia are tetrapolar (4-spored), forming haploid spores. The species is
-heterothallic. Clamp connections are present. See
-stamets-compost-preparation
-- stamets-casing-layer-design
-- stamets-harvesting-drying-and-storage
-- stamets-mushroom-growing-parameters-by-species
-## See Also
-- [[coprinus-comatus]]
-- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]
-- [[pasteurization-techniques]]
-- [[spawn-preparation]]
-- [[sterilization]]

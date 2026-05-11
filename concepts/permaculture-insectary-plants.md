@@ -15,11 +15,11 @@ sources:
 
 # Permaculture Insectary Plants
 
-Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators [[insectary-plants-for-pest-control]] that provide biological pest control and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
+Insectary plants are those specifically included in a design to attract, shelter, and sustain beneficial insects -- predators and pollinators that provide [[biological-pest-control-balance]] and crop pollination services. Throughout the Designers' Manual, Mollison emphasises that any innovative designer can see ways to add "a vine, a fungus, a beneficial insect" to a seemingly fully-planted area.
 
 ## The Role of Beneficial Insects
 
-Permaculture relies on biological pest management [[insectary-plants-for-pest-control]] rather than chemical intervention. Beneficial insects include:
+Permaculture relies on biological pest management rather than chemical intervention. Beneficial insects include:
 
 - **Predators**: Ladybirds, lacewings, predatory mites, ground beetles, assassin bugs, praying mantises, dragonflies
 - **Parasitoids**: Parasitic wasps (Trichogramma, Braconid, Ichneumonid), tachinid flies
@@ -34,13 +34,13 @@ These insects require specific habitat conditions: nectar and pollen sources (of
 The umbelliferae (Apiaceae) family is among the most important for attracting beneficial insects. Their shallow, open flower umbels provide easy access to nectar and pollen for tiny parasitic wasps. The Manual notes that when saving seed from any umbelliferous plant (fennel, parsley, parsnip, etc.), the strong mature seed from the terminal panicle germinates best, and these plants self-seed readily in garden systems.
 
 Key umbellifers for insectary use:
-- Fennel (Foeniculum vulgare) -- self-seeds readily, perennial
-- Parsley (Petroselinum crispum) -- biennial, flowers in second year
+- Fennel ([[foeniculum-vulgare-entity]]) -- self-seeds readily, perennial
+- Parsley ([[petroselinum-crispum]]) -- biennial, flowers in second year
 - Parsnip (Pastinaca sativa) -- biennial, left to flower provides major insectary value
-- Dill (Anethum graveolens) -- annual, attracts parasitic wasps
-- Coriander (Coriandrum sativum) -- annual, succession planting extends bloom period
+- Dill ([[anethum-graveolens]]) -- annual, attracts parasitic wasps
+- Coriander ([[coriandrum-sativum]]) -- annual, succession planting extends bloom period
 - Queen Anne's lace (Daucus carota) -- wild carrot, excellent insectary
-- Yarrow (Achillea millefolium) -- flat flower heads attract many beneficials
+- Yarrow ([[achillea-millefolium]]) -- flat flower heads attract many beneficials
 
 ### Composite Flowers
 

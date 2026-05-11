@@ -88,58 +88,7 @@ groups, and rename any tab or group. Customizations are stored in a Normal.dotm
 template file or in document-specific templates, making them portable. Users can
 also export and import Ribbon customizations between installations. The
 customization dialog is accessed by right-clicking the Ribbon and selecting
-"Customize the Ribbon." Commands are organized into categories that mirror the
-application's internal command structure, and all commands can be assigned
-keyboard shortcuts through the same interface. For enterprise deployments,
-Group Policy can be used to lock or preconfigure Ribbon layouts across
-organizations.
 
-Keyboard shortcuts in the Ribbon era differ from the traditional menu system.
-Microsoft introduced Key Tips, where pressing Alt displays single-letter
-labels over every Ribbon control, allowing rapid keyboard navigation without
-memorizing shortcuts. Legacy Alt-key shortcuts from the menu era (such as
-Alt+E+S for Paste Special) were preserved as compatibility shortcuts.
-Additionally, the traditional Ctrl-key shortcuts (Ctrl+B for bold, Ctrl+I
-for italic, etc.) remain fully functional. New shortcuts were added for
-Ribbon-specific features; for example, Ctrl+Alt+3 toggles Heading 3 style.
-Power users can create custom keyboard shortcuts for any command through the
-Customize Keyboard dialog, including macros. The ribbon supports full
-keyboard navigation: Tab and arrow keys move between controls, Enter activates
-buttons, and Escape dismisses menus and returns focus to the document.
-
-## Accessibility Features
-
-The Ribbon interface was designed with accessibility in mind from its
-inception. Screen readers can announce the current tab, group, and individual
-controls as users navigate. High Contrast mode reskins the Ribbon with colors
-that meet WCAG contrast requirements. Keyboard-only users can access every
-Ribbon feature without a mouse using Key Tips and standard navigation keys.
-Microsoft has progressively improved Ribbon accessibility: Word 2013 enhanced
-focus indicators, Word 2016 improved screen reader announcements for
-expanded galleries and dropdown menus, and Microsoft 365 versions support
-Windows Narrator with richer descriptions of control states. The Ribbon
-responds to Windows DPI scaling settings, maintaining usability at high
-resolution and on high-DPI displays. Touch mode, introduced in Office 2013,
-increases the spacing between Ribbon controls for finger-based interaction on
-tablets and touch screens, automatically activated when a touch display is
-detected.
-
-## Technical Implementation
-
-The Ribbon is implemented using the Office Fluent UI framework, an XML-based
-declarative system for defining the interface layout. Developers can extend the
-Ribbon through COM add-ins and VSTO (Visual Studio Tools for Office) solutions.
-The XML markup defines tabs, groups, and controls, while callbacks handle the
-logic behind button clicks and other interactions. This architecture makes the
-Ribbon extensible but also adds complexity for add-in developers compared to the
-simpler toolbar model it replaced.
 ## See Also
-
 - [[mycoparasite-host-interface-types-interaction-mechanisms]]
 - [[microsoft-word-document-format-history]]
-- [[word-collaboration-features]]
-
-- [[microsoft-word-history]]
-- user interface design
-- office suites
-- software usability

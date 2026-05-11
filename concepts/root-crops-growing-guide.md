@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Root Crops Growing Guide
@@ -87,29 +88,3 @@ One of the easiest root vegetables, harvested in succession from spring to fall.
 **Varieties:** Early Purple Top Milan (tender white flesh, best for first crops), Tokyo Cross (flavorful, stores well), Golden Ball (yellow flesh, excellent flavor, quite hardy).
 
 **Soil and Site:** Grow earliest varieties in well-manured soil for fast growth. Main crop on the cabbage plot. May need lime to bring pH above 6.5.
-
-**Sowing:** Earliest crop multiple sown in late winter at 65F (18C), planted out under cloches in early spring. Sow outside from mid-spring to midsummer in shallow rows 12in (30cm) apart, thinning to 6in (15cm) apart.
-
-**Maintenance:** Keep rows clean and weed free. Mulch with well-rotted compost or manure.
-
-**Harvesting:** Pull first roots at golf ball size, biggest at tennis ball size. Dig up main crop varieties in mid-fall, twist off tops, store in moist peat.
-
-## Jerusalem Artichokes (Helianthus tuberosus)
-
-An excellent winter alternative to potatoes with all the flavor of globe artichokes but much easier to grow. Plants can become invasive if not controlled, reaching 9ft (3m) — useful as a windbreak.
-
-**Varieties:** Fuseau (best, least bumpy), Stampede (high yielding, smooth), Dwarf Sunray (shorter top growth).
-
-**Soil and Site:** Will grow practically anywhere. For bigger, smoother tubers, reserve a permanent, well-prepared site. Dig a trench about 2ft (60cm) wide and one spade deep. They like acid soil — keep pH below 6.5.
-
-**Planting:** Plant as early in the year as soil allows (usually late winter or early spring). Set tubers 6in (15cm) deep and 12in (30cm) apart. Generally only need one row; if more, space rows at least 5ft (1.5m) apart.
-
-**Maintenance:** Weed and water as required. Mulch annually in early spring with well-rotted compost or manure. In exposed areas, support with nylon string between posts.
-
-**Harvesting:** Cut stems in mid-fall to leave 12in (30cm). Dig up tubers as required. Leave some in the ground to replace the crop for next season.
-## See Also
-
-- [[soil-building-permaculture]]
-- [[salad-crops-growing-guide]]
-- [[holzer-green-manure-and-soil-building-plants]]
-- [[gaias-garden-cover-crops-soil-building]]

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TMPEA
 
-PIHKAL entry #168. 2,4,5-TRIMETHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #168. 2,4,5-TRIMETHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -27,7 +27,7 @@ PIHKAL entry #168. 2,4,5-TRIMETHOXYPHENETHYLAMINE.
 > however, to judge the extent of a 'Rausch'-action from experiments on
 > animals, some injections of beta-2,4,5-trimethoxyphenethylamine were
 > administered to the author, and finally a control test was carried out
-> with an equal quantity of mescaline. The action of both these
+> with an equal quantity of [[mescaline]]. The action of both these
 > substances in these experiments agreed only to a limited extent with
 > the effects described for mescaline by, for example, Beringer. It
 >
@@ -88,57 +88,6 @@ the sympathetic nervous system. And some of the methyl groups of
 TMPEA are known to be stripped off through the normal metabolic
 
 processes that occur in the liver. There are many fascinating
-psychedelics that have a signature of methoxyl groups para to
-one-another. It is known that they, too, can lose a methyl group or
-two. It would be intriguing to see if there was some biochemical
-overlap between the metabolism of some of these centrally active drugs
-and the metabolic fate of 6-hydroxydopamine. But in a test animal, of
-course, rather than in man.
-
-## Synthesis
-
-To a solution of 39.2 g 2,4,5-trimethoxybenzaldehyde in 160
-mL nitromethane there was added 7.0 g anhydrous ammonium acetate, and
-the mixture was heated on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The
-excesssolvent/reagent was removed under vacuum, leaving a deeply
-colored residue that spontaneously crystallized. This was
-mechanically removed and triturated under 60 mL cold MeOH.
-Filtration, washing with cold MeOH and air drying, gave 49.3 g of
-bright orange crystals. Trial recrystallizations from EtOAc gave a mp
-of 132-133 deg C; from CH3CN, 130.5-131.5 deg C. The entire product was
-recrystallized from 1.1 L boiling IPA to provide, after filtration,
-IPA washing, and air drying, 34.5 g of beta-nitro-2,4,5-trimethoxystyrene
-as yum-yum orange crystals with a mp of 132-133 deg C. Literature values
-are usual one-degree ranges, anywhere in the area of 127-130 deg C.
-
-To a suspension of 30 g powdered LAH in 800 mL of well stirred and
-refluxing anhydrous THF there was added a solution of 34.9 g
-beta-nitro-2,4,5-trimethoxystyrene in 200 mL anhydrous THF. The mixture
-was maintained at reflux for an additional 36 h, cooled, and the
-excess hydride activity destroyed by the addition of 30 mL H2O
-followed by 30 mL 15% NaOH, and finally with another 90 mL H2O. The
-solids were removed by filtration, washed with THF, and the pooled
-mother liquor and washings stripped of solvent under vacuum. The
-residue was dissolved in CH2Cl2, washed with both 5% NaOH and then
-H2O, removing much of the color. It was then extracted with 3x75 mL N
-HCl. The pooled red-colored acid extracts were washed with CH2Cl2,
-made basic with 25% NaOH, and extracted with 3x75 mL CH2Cl2. Removal
-of the solvent gave some 25 g of residue which was dissolved in 100 mL
-IPA and neutralized with concentrated HCl. The crystalline mass that
-formed was diluted with an equal volume of Et2O, and the solids
-removed by filtration. Washing with cold IPA, followed by Et2O and
-air drying, gave 17.7 g of 2,4,5-trimethoxyphenethylamine
-hydrochloride (TMPEA) as a white product. The reported melting point
-was 187-188 deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[tma-2-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[mescaline]]
+- [[methyl-j-entity-pihkal]]

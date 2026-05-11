@@ -38,9 +38,9 @@ Synonyms include Curcuma zedoarioides, Amomum zedoaria, and Kua zeodaria. Severa
 
 Plants reach 0.6–1.0 m in height. Leaf blades are lanceolate to oblong, 30–50 cm long and 10–15 cm wide, with a central purple-brown stripe along the midrib. The inflorescence arises from the rhizome before or with the leaves, bearing a dense spike of pinkish-white bracts.
 
-Rhizomes are large, ovoid to oblong, 5–10 cm in length, with a pale yellow to brown exterior. Internal flesh is bright yellow-orange with a characteristic camphoraceous aroma. The rhizome architecture includes a central "mother" rhizome surrounded by tuberous "fingers," similar to ginger and turmeric.
+Rhizomes are large, ovoid to oblong, 5–10 cm in length, with a pale yellow to brown exterior. Internal flesh is bright yellow-orange with a characteristic camphoraceous aroma. The rhizome architecture includes a central "mother" rhizome surrounded by tuberous "fingers," similar to [[query-how-do-i-grow-and-use-ginger-and-turmeric]].
 
-The root system consists of fibrous roots bearing small, ellipsoidal tubers at the tips. These root tubers serve as storage organs and can be used for vegetative propagation, though they are slower to establish than main rhizome divisions.
+The root system consists of fibrous roots bearing small, ellipsoidal tubers at the tips. These root tubers serve as storage organs and can be used for [[hamilton-vegetative-propagation]], though they are slower to establish than main rhizome divisions.
 
 Flowers are yellow, borne in the axils of the bracts, with a labellum that is yellow with a central red-purple band. Flowering typically occurs July through September in native range populations. The fruit is a three-valved capsule, though seed set is uncommon in cultivated populations.
 
@@ -64,7 +64,7 @@ Additional constituents include phenylpropanoids (eugenol, vanillin), diarylhept
 
 ## Traditional Medicine and Pharmacology
 
-Zedoary rhizome has a long history of use in Ayurvedic, Traditional Chinese Medicine (TCM), and Jamu (Indonesian traditional medicine). In Ayurveda it is classified as a *katu* (pungent) and *tikta* (bitter) herb, used to treat digestive disorders, respiratory conditions, and inflammatory diseases.
+Zedoary rhizome has a long history of use in Ayurvedic, Traditional Chinese Medicine (TCM), and Jamu (Indonesian traditional medicine). In Ayurveda it is classified as a *katu* (pungent) and *tikta* (bitter) herb, used to treat digestive disorders, [[cannabis-respiratory-conditions]], and [[blesching-cannabis-inflammatory-diseases]].
 
 In TCM, the dried rhizome (*E Zhu*) is classified as a blood-activating and stasis-resolving herb. It is prescribed for amenorrhea, dysmenorrhea, abdominal masses, and traumatic injuries. Modern research has focused on its potential anti-cancer properties.
 
@@ -76,38 +76,14 @@ In TCM, the dried rhizome (*E Zhu*) is classified as a blood-activating and stas
 - **Hepatoprotective:** Polysaccharide fractions reduce liver enzyme elevation in chemically-induced hepatotoxicity models in rodents.
 - **Antiplatelet:** Curdione inhibits platelet aggregation, supporting the traditional TCM use for blood stasis conditions.
 
-⚠️ Clinical trials in humans are limited. Most pharmacological data derive from in vitro studies or animal models. Safety during pregnancy has not been established, and the herb is traditionally contraindicated in pregnancy in both Ayurvedic and TCM practice.
+⚠️ [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in humans are limited. Most pharmacological data derive from in vitro studies or animal models. Safety during pregnancy has not been established, and the herb is traditionally contraindicated in pregnancy in both Ayurvedic and TCM practice.
 
 ## Culinary and Industrial Uses
 
-Fresh zedoary rhizomes are used as a spice in South and Southeast Asian cuisines. In Indonesian cooking, the grated rhizome imparts a bitter-woody flavor to curries and rendang. In Indian pickles, thin slices of zedoary are preserved in spiced oil.
+Fresh zedoary rhizomes are used as a spice in South and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisines. In Indonesian cooking, the grated rhizome imparts a bitter-woody flavor to curries and rendang. In Indian pickles, thin slices of zedoary are preserved in spiced oil.
 
 The dried, powdered rhizome was historically used as a substitute for arrowroot as a food thickener in Europe. It was also an ingredient in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] spiced wine and condiment preparations before being displaced by cheaper alternatives.
 
 In Japan, the species is used to produce a starch called *konzatsu* from the rhizome, though production has declined since the mid-20th century. The essential oil is used in perfumery for its woody-spicy base notes, particularly in oriental fragrance compositions.
 
 The food industry utilizes zedoary extract as a natural colorant and flavoring agent. The rhizome starch has potential applications in biodegradable film production due to its favorable film-forming properties.
-
-Recent research has explored zedoary rhizome extract as a natural preservative in food systems. The essential oil demonstrates efficacy against post-harvest [[bloomfield-fungal-pathogens-and-parasites]] on stored grains and fruits, suggesting potential as a botanical fungicide.
-
-## Cultivation
-
-Curcuma zedoaria is propagated primarily from rhizome pieces. Planting occurs at the onset of the monsoon season in tropical regions, with rhizome sets placed 5–10 cm deep and spaced 30–45 cm apart in rows.
-
-The crop prefers well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]] with a pH of 5.5–7.0. Partial shade is tolerated and can improve rhizome quality in hot climates. Optimal growth occurs at 25–30°C with annual rainfall of 1500–2500 mm.
-
-Rhizome maturity is reached 7–9 months after planting when the aerial parts begin to senesce. Yields of fresh rhizome range from 15–25 tonnes per hectare under good management. Post-harvest, rhizomes are washed, sliced, and dried in shade to preserve essential oil content.
-
-Major production areas include India (West Bengal, Assam, Odisha), Indonesia, Thailand, China (Guangxi, Yunnan), and Bangladesh. The crop is increasingly cultivated as an intercrop with coconut, areca nut, and fruit trees in agroforestry systems.
-
-Organic [[synthetic-log-cultivation-methods-guide]] are common, as the species is relatively pest-resistant. The primary pests include rhizome-feeding weevils and nematodes, while leaf spot diseases caused by Colletotrichum species can reduce yields in humid conditions.
-
-## See Also
-
-- [[zingiber-officinale]] — Culinary ginger, a related Zingiberaceae rhizome crop
-- [[alpinia-officinarum]] — Lesser galangal, used in TCM and Southeast Asian cuisine
-- [[kaempferia-galanga]] — Sand ginger, aromatic rhizome used in Thai and Indonesian cooking
-- [[eucalyptus-globulus]] — Eucalyptus, a source of cineole-rich essential oil with overlapping chemistry
-- [[tagetes-lucida]] — Mexican marigold, a source of aromatic essential oils in traditional medicine
-- [[cymbopogon-citratus]] — Lemongrass, a tropical aromatic grass with related essential oil chemistry
-- [[salvia-officinalis]] — Common sage, a Mediterranean medicinal herb with anti-inflammatory terpenes

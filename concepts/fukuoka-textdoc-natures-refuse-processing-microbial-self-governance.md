@@ -88,36 +88,3 @@ Common composting practices that Fukuoka would question include:
 ## The Soil Food Web as Processing System
 
 In Fukuoka's orchards, organic matter is simply returned to the soil surface, where natural microbial communities process it at their own pace. Straw mulch, pruned branches, fallen leaves, and crop residues all decompose in place, feeding the soil food web without any human intervention. The soil food web operates as a multi-stage processing system:
-
-- **Primary decomposers**: Bacteria and fungi break down fresh organic matter into simpler compounds
-- **Secondary consumers**: Protozoa and nematodes feed on bacteria and fungi, releasing plant-available nutrients
-- **Tertiary consumers**: Larger organisms like mites and springtails regulate the populations of secondary consumers
-- **Engineering organisms**: Earthworms and beetles physically process organic matter, aerating the soil and creating channels for water and root penetration
-
-Each level of this web is self-regulating. When bacteria multiply rapidly, protozoa increase to feed on them, releasing a pulse of plant-available nitrogen. When organic matter is abundant, fungal networks expand to process it. When conditions dry out, organisms enter dormancy. No management is required; the system governs itself.
-
-## The Implications for Human Systems
-
-The contrast with human waste management has profound implications beyond agriculture. Modern civilization has created a linear materials economy in which resources are extracted, processed, used once, and discarded. This linear model is fundamentally incompatible with the cyclical model that nature has used successfully for billions of years.
-
-The lesson of microbial self-governance extends to every domain of human activity. Whenever humans try to centrally manage a process that nature handles through distributed self-regulation, the results are inferior. This is as true for economic planning as it is for waste processing, as true for education as it is for agriculture.
-
-## The Broader Philosophical Point
-
-This analysis points to a deeper theme in Fukuoka's philosophy: the belief that human knowledge and management are inferior to nature's own systems in almost every domain. The more humans try to manage, control, and optimize natural processes, the more they disrupt the self-governing mechanisms that have sustained life on earth for billions of years.
-
-The self-governing microbial world is a model for how all natural systems work. They are decentralized, self-regulating, and infinitely efficient. The path forward is not better human management but less human intervention — trusting nature to govern itself.
-
-## Ecological Humility
-
-Understanding nature's refuse processing systems cultivates what might be called ecological humility. When one grasps that a single bacterium could theoretically cover the earth in three days yet never does, because of self-governing mechanisms far more sophisticated than anything humans have devised, the arrogance of human engineering begins to look foolish. The natural farmer does not try to improve on nature's waste processing. They align with it, participate in it, and trust it.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-textdoc-trinity-natural-farming-diet-healing]]
-- [[fukuoka-microbes-soil-health-discriminating-knowledge]]
-- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
-- [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]]
-- [[fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable]]

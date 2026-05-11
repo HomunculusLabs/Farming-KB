@@ -88,34 +88,3 @@ Plantation spacing ranges from 1.8 × 1.8 m to 2.4 × 2.4 m, with initial densit
 The species is moderately fast-growing, with annual height increments of 30–60 cm on good sites. Site index at base age 50 ranges from 12 to 24 meters depending on soil quality and moisture availability.
 
 Red pine is widely planted as an ornamental and shade tree in parks and large landscapes. Its symmetrical form, attractive red bark, and tolerance of urban conditions make it a popular street tree in cold-climate cities.
-
-It is also used for windbreaks and shelterbelts in agricultural areas, particularly in the Upper Midwest and Canadian Prairies. The dense foliage provides effective year-round wind protection.
-
-Red pine is increasingly recognized for its carbon sequestration potential. Plantations established on marginal agricultural land can store 150–200 tonnes of carbon per hectare over a 60-year rotation.
-
-Native American communities historically used red pine resin for waterproofing canoes and as a medicinal salve. The straight trunks were used for lodge poles and tipi frames. The inner bark was occasionally consumed as an emergency food source.
-
-## Related Species
-
-Red pine is most easily confused with [[pinus-sylvestris]], which shares the two-needle fascicle habit. Key distinguishing features include the brittle, snap-clean needles of red pine versus the flexible, twisted needles of Scots pine.
-
-It also resembles [[pinus-nigra]], but Austrian pine has darker, more furrowed bark and stouter, less brittle needles. Red pine cones are smaller and more symmetrical than those of Austrian pine.
-
-[[pinus-taeda]], the loblolly pine of the southeastern United States, occupies a similar ecological niche in warmer climates but has needles in fascicles of three.
-
-[[picea-abies]] and [[picea-glauca]] commonly co-occur with red pine in northern forests but are readily distinguished by their single-needle arrangement and pendant cones.
-
-Among North American pines, red pine occupies a middle position between the smaller [[pinus-banksiana]] of boreal regions and the larger [[pinus-ponderosa]] of the western mountains. Its growth form and silvicultural characteristics are most similar to those of [[pinus-taeda]], though the two species rarely overlap geographically.
-
-## See Also
-
-- [[pinus-sylvestris]]
-- [[pinus-strobus]]
-- [[pinus-nigra]]
-- [[pinus-banksiana]]
-- [[picea-abies]]
-- [[picea-glauca]]
-- [[abies-balsamea]]
-- [[larix-laricina]]
-- [[pinus-ponderosa]]
-- [[pinus-contorta]]

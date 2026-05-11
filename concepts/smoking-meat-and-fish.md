@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Smoking is one of the oldest food preservation methods, using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead. (see [[comparison-fermented-vegetables-vs-canning]]).
+Smoking is one of the oldest [[lacto-fermentation-and-food-preservation-methods]], using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits [[antimicrobial-compounds-mushroom-mycelium]] on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead.
 
 ## Cold Smoking vs Hot Smoking
 
@@ -31,7 +31,7 @@ Smoking is one of the oldest food preservation methods, using wood smoke to dry,
 - Curing optional but recommended for flavor and safety
 - Produces moist, cooked products that require refrigeration
 - Examples: smoked chicken, ribs, brisket, fish fillets, trout
-- Fire and food are in the same chamber or adjacent with direct heat transfer
+- Fire and food are in the same chamber or adjacent with direct [[heat-transfer-coefficient]]
 
 ### Warm Smoking (Intermediate)
 
@@ -92,7 +92,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Pine, fir, spruce, cedar — Resinous, produce harsh bitter smoke and can cause illness
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
-- Locust, osage orange — Extremely dense and harsh
+- Locust, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]] — Extremely dense and harsh
 - Moldy wood — Can produce off-flavors and mycotoxins
 
 ### Wood Preparation
@@ -106,11 +106,11 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 ### Smoker Types
 
-**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot and cold smoking. (see [[homestead-dairy-equipment]]).
+**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot and cold smoking.
 
 **Vertical bullet smoker:** Cylindrical, fire at bottom, water pan in middle. Efficient, beginner-friendly, good for hot smoking.
 
-**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise temperature control, easy to use.
+**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise [[hamilton-greenhouse-heating-and-temperature-control]], easy to use.
 
 **DIY options:** 55-gallon drum ($100), cinder block stack (permanent), or small smokehouse with separate fire pit and underground pipe (ideal for cold smoking).
 

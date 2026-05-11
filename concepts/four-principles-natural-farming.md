@@ -12,6 +12,7 @@ type: concept
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
@@ -29,7 +30,7 @@ with no pollution whatsoever.
 
 Fukuoka's "do-nothing" farming emerged from the realization that farmers
 do not produce the food of life. Only nature has the power to produce
-something from nothing. Farmers merely assist nature. Modern agriculture
+something from nothing. Farmers merely assist nature. [[fukuoka-critique-modern-agriculture]]
 is just another processing industry that uses oil energy in the form of
 fertilizers, pesticides, and machinery to manufacture synthetic food
 products that are poor imitations of natural food.
@@ -52,14 +53,14 @@ harder, denser soil.
 fields are typically tilled five to seven times per season. When
 herbicides became available after World War II and farmers reduced
 plowing, their yields actually improved, demonstrating that intertillage
-had been effective only for weed control.
+had been effective only for [[coleman-preemergence-flaming-weed-control]].
 
 **Nature already works the soil.** Soil is worked by moles, earthworms,
 insects, and plant roots producing excellent porosity. Seeds do not
 require plowed fields; plants have always grown by [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]].
 
 Fukuoka's own field had not been plowed in over thirty years, yet
-consistently produced close to 22 bushels of winter grain and 22 bushels
+consistently produced close to 22 bushels of [[direct-seeded-no-tillage-rice-winter-grain-succession]] and 22 bushels
 of rice per quarter-acre. Soil enriches itself year in and year out
 without man having to lift a finger.
 
@@ -87,63 +88,3 @@ minerals creates imbalances.
 **Nature provides complete nutrition.** One gram of soil on Fukuoka's
 farm contains about 100 million nitrogen-fixing bacteria and numerous
 other microorganisms that make nutrients available in balanced
-propo [[decomposition]] provide all
-the fertility that plants need.
-
-**Compost is unnecessary when straw is returned.** Rice straw applied
-to fields half a year before sowing decomposes naturally. By killing the
-soil with plow and chemical fertilizer, farmers create weak plants that
-then require chemical fertilizers and pesticides.
-
-## 3. No Weeding
-
-Nature does not arbitrarily call one plant a weed and try to eradicate
-it. In a natural meadow, plants appear to grow in confusion, but there
-are laws and order. Plants meant to sprout do so. Those that flourish
-do so for a reason. Cycles of coexistence, competition, and mutual
-benefit repeat in ongoing succession.
-
-Fukuoka's approach involves **using weeds to control weeds**. By growing
-grasses or green manure crops that replace undesirable weeds, the farmer
-no longer needs to weed. In his orchard, he progressively replaced
-undesirable weeds with clover. Ladino clover eliminates weeds within two
-to three years and improves soil to 16 to 18 inches depth without
-re-seeding for six to eight years.
-
-In rice and [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]], he seeds barley together with clover over
-standing rice, and scatters rice seed and green manure while the barley
-is up, eliminating weeding entirely. Rice, barley, and vegetables can all
-be grown without weeding while attaining yields comparable to normal
-methods. Weeding in orchards is not only unnecessary but positively
-harmful.
-
-## 4. No Pesticides
-
-Although a thousand diseases attack plants in fields and forests, nature
-strikes a balance without any need for pesticides. The concept of "insect
-pests" is a human construct. From the perspective of the natural order,
-the categories of "pest" and "[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]" are meaningless.
-
-**Pesticides destroy the natural order.** Many insects harmless in a
-direct sense are harmful indirectly. When one beneficial insect feeds on
-a pest that kills another beneficial insect, it is futile to apply
-pesticides selectively.
-
-**No non-polluting pesticides exist.** Even biological pesticides thought
-to act only on specific insects affect plants, animals, and
-microorganisms. Animal, plant, and microbial cells are fundamentally
-similar.
-
-**Healthy crops resist pests naturally.** The farmer need not worry about
-insect damage if he cultivates healthy fields. Simply draining flooded
-fields allows spiders and frogs to emerge and reduce damage to a
-minimum. Nature always shows situations where pests do not cause real
-damage.
-
-Natural farming develops methods where the existence of pests poses no
-problem, creating circumstances where nothing is done, yet insect damage
-is nonexistent.
-## See Also
-
-- [[energy-efficiency-natural-farming]]
-- Mahayana vs [[fukuoka-mahayana-and-hinayana-natural-farming]] Farming

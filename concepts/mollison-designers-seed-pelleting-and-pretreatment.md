@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,10 +88,3 @@ eliminates the need for [[permaculture-designers-manual-pioneer-species]] on deg
 
 - [[stump-inoculation-techniques]] - inoculation of woody
   substrates with fungal partners
-- [[vegetable-seed-and-transplant-guide]] - [[cannabis-seed-selection-and-strain-types]] and
-  transplant timing guidance
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] complements
-the inoculation step described above. mollison-green-manure-soil-fertility for [[comparison-green-manure-guide-vs-mulch-types-and-effects]]
-crops that can be established via pelleted seed.
-[[mollison-plant-nursery-species-selection]] covers species that
-benefit from the pelleting approach described here.

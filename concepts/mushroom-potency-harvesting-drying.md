@@ -1,22 +1,22 @@
 ---
-title: Mushroom Potency [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
+title: [[mushroom-potency-harvesting-and-drying]] Drying
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [potency, harvesting, drying, desiccation, cultivation, dosage]
 ---
 
 # Mushroom Potency, Harvesting, and Drying
 
-The psychoactive potency of cultivated mushrooms is determined by genetics, growing conditions, harvest timing, and post-harvest handling. Understanding these factors allows cultivators to maximize the quality of their harvest and ensure consistent, predictable dosing. The PF TEK documentation provides practical guidance drawn from decades of cultivation experience, including frequently cited dosage guidelines attributed to Paul Stamets.
+The psychoactive potency of [[fungi-cultivated-mushrooms-pathogens-competitors]] is determined by genetics, growing conditions, harvest timing, and post-harvest handling. Understanding these factors allows cultivators to maximize the quality of their harvest and ensure consistent, predictable dosing. The PF TEK documentation provides practical guidance drawn from decades of cultivation experience, including frequently cited dosage guidelines attributed to Paul Stamets.
 
 ## Factors Affecting Potency
 
 ### Species and Strain Genetics
 
 Different species contain markedly different concentrations of [[hplc-analysis-of-psilocybin-and-psilocin]]:
-- **Psilocybe azurescens** — among the most potent known species, with reported psilocybin/psilocin content exceeding 1% by dry weight.
+- **[[psilocybe-azurescens]]** — among the most potent known species, with reported psilocybin/psilocin content exceeding 1% by dry weight.
 - **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.
 - **Psilocybe bohemica / P. serbica** — high potency, comparable to P. semilanceata.
-- **Psilocybe cyanescens** — high potency, known for the distinctive blue bruising reaction.
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** — high potency, known for the distinctive blue bruising reaction.
 - **Psilocybe cubensis** — moderate potency, typically 0.3-0.6% dry weight. The most commonly cultivated species due to ease of growth rather than maximum potency.
 
 Within P. cubensis, different strains show moderate variation in potency, but the differences are generally less significant than those caused by harvest timing or growing conditions. Popular strains (Golden Teacher, B+, Ecuador, Cambodian, etc.) vary primarily in growth characteristics (speed, size, yield, contamination resistance) rather than alkaloid content.
@@ -44,8 +44,8 @@ P. cubensis mushrooms pass through several developmental stages:
 5. **Post-veil** — the cap flattens and begins turning upward at the edges. Spore release begins.
 
 Maximum potency occurs **just before or at the point of veil breaking**. After the veil breaks:
-- The mushroom begins diverting energy from alkaloid production to spore production.
-- Overall alkaloid concentration decreases as the mushroom adds mass (water and structural tissue) faster than it produces new alkaloids.
+- The mushroom begins diverting energy from [[mycelial-broth-alkaloid-production]] to spore production.
+- Overall [[abort-harvesting-alkaloid-concentration-pf-tek]] decreases as the mushroom adds mass (water and structural tissue) faster than it produces new alkaloids.
 - The ratio of active compounds to total weight drops significantly.
 
 Practical implication: harvesting all mushrooms at the same stage of development (just as the veil tears) ensures the most consistent potency across the harvest. It also prevents spores from dropping onto the substrate, which can complicate subsequent flushes.
@@ -88,63 +88,3 @@ The following dosage guidelines, attributed to Paul Stamets, are widely cited in
 ### When to Harvest
 
 Harvest mushrooms when:
-- The veil is just beginning to tear or has torn within the past few hours.
-- The cap has not yet fully flattened.
-- The gills are not yet dark with mature spores (they should be light-colored to slightly purplish).
-
-### How to Harvest
-
-1. **Twist and pull:** Grasp the base of the mushroom at substrate level and gently twist while pulling upward. The mushroom should detach cleanly. Avoid pulling up chunks of substrate or mycelium.
-2. **Cut with scissors:** An alternative method is to cut the stem at substrate level with sterile scissors. This minimizes disturbance to the mycelium and may improve subsequent flush yields.
-3. **Harvest all at once:** If multiple mushrooms on a cake are at different stages, it is generally better to harvest the mature ones immediately rather than waiting for stragglers. Leaving mature, sporulating mushrooms on the cake can promote contamination and reduce subsequent flush vigor.
-
-### Post-Harvest Handling
-
-- Handle mushrooms gently to minimize bruising (which, while harmless, is aesthetically undesirable).
-- Place harvested mushrooms on a clean, dry surface (paper towel, screen, or drying rack).
-- Begin the drying process as soon as possible after harvest. Delayed drying allows [[enzymatic-degradation-in-mycoremediation]] of alkaloids.
-
-## Drying and Preservation
-
-### Why Drying Matters
-
-Fresh mushrooms contain approximately 90% water and begin degrading immediately after harvest. The active compounds (psilocybin and psilocin) are progressively destroyed by:
-- Enzymatic activity within the mushroom tissue
-- Oxidation (psilocin is particularly susceptible)
-- Heat
-- Light exposure
-
-Rapid, thorough drying arrests these degradation processes and preserves potency for long-term storage.
-
-### Drying Methods (Ranked by Quality)
-
-**1. Desiccant drying (best method):**
-- Place mushrooms in a sealed container with a strong desiccant (DampRid, silica gel, or anhydrous calcium chloride).
-- Use a screen or rack to keep mushrooms from touching the desiccant directly.
-- Seal the container and wait 24-72 hours depending on quantity and humidity.
-- Desiccant drying works at room temperature and avoids heat damage entirely.
-- Result: "cracker dry" mushrooms that snap cleanly when bent.
-
-**2. Fan drying (good preliminary method):**
-- Place mushrooms on a screen or rack in front of a fan.
-- Good air circulation is essential — stack mushrooms loosely.
-- Takes 24-48 hours to remove most moisture.
-- Usually insufficient alone for long-term storage — mushrooms should be finished with desiccant.
-
-**3. Food dehydrator (acceptable with caveats):**
-- Set to the lowest temperature setting (typically 95-115°F / 35-46°C).
-- Higher temperatures degrade alkaloids. Never exceed 130°F / 54°C.
-- Effective and faster than fan drying but introduces some heat exposure.
-
-**4. Oven drying (not recommended):**
-- Even the lowest oven setting (typically 150°F+) is too hot and will degrade alkaloids significantly.
-- Only use if no other method is available, and keep the door ajar with the temperature as low as possible.
-
-**5. Air drying (acceptable for small quantities):**
-- Place mushrooms on paper in a warm, dry, well-ventilated area.
-- Slow and unreliable in humid environments.
-- Risk of mold growth during the extended drying period.
-
-### Verifying Dryness
-
-Mushrooms are properly dried ("cracker dry") when:

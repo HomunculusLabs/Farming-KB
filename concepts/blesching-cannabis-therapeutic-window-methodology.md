@@ -11,7 +11,7 @@ type: concept
 # Cannabis Therapeutic Window Methodology
 
 The therapeutic window is the range of cannabis dosage within which a patient
-experiences the desired therapeutic effects without significant adverse
+experiences the desired [[cbd-therapeutic-effects]] without significant adverse
 reactions. Because cannabis exhibits biphasic dose-response characteristics,
 where low and high doses can produce opposite effects, identifying and
 maintaining the correct dose within this window is critical for successful
@@ -26,7 +26,7 @@ dose that is too low may be ineffective, a dose within the therapeutic
 window produces optimal therapeutic effects, and a dose that exceeds the
 window may not only increase [[blesching-cannabis-safety-adverse-effects-evidence]] but actually reverse the desired
 therapeutic benefit. This biphasic phenomenon is one of the most important
-yet least understood aspects of cannabis pharmacology.
+yet least understood aspects of [[endocannabinoid-system-and-cannabis-pharmacology]].
 
 The therapeutic window for cannabis varies significantly between individuals
 based on factors including body weight, metabolism, prior cannabis exposure,
@@ -54,7 +54,7 @@ fixed dosage recommendations.
 - The therapeutic window varies significantly between individuals due to
   differences in metabolism, genetics, tolerance, and condition severity
 - Starting low and going slow is the universally recommended approach to
-  cannabis dosing for new patients
+  [[blesching-cannabis-dosing-strategies]] for new patients
 - Medium doses of THC reduced capsaicin-induced pain in a San Diego study,
   while high doses increased pain perception
 - Finding the right dose is often more important than finding the right strain
@@ -87,50 +87,3 @@ effects may benefit from dose reduction rather than discontinuation. The
 therapeutic window concept encourages patients to think of cannabis dosing as
 a precision exercise rather than a matter of consuming more when symptoms
 persist.
-
-## Dosing Strategies and Titration
-
-The standard approach to cannabis dosing is to start with a very low dose
-and increase gradually while monitoring both therapeutic effects and adverse
-reactions. For inhaled cannabis, a single puff is often recommended as a
-starting point, with patients waiting 15-30 minutes before considering
-additional inhalation. For oral preparations, starting doses as low as
-1-2.5 mg of THC are recommended, with patients waiting a full two to three
-hours before consuming additional doses due to the delayed onset of oral
-cannabinoids.
-
-Microdosing has emerged as a popular strategy for maintaining effects within
-the therapeutic window. A microdose is typically defined as a sub-threshold
-dose, meaning it is below the level that produces noticeable psychoactive
-effects. Proponents of microdosing report sustained therapeutic benefits
-including pain relief, mood stabilization, and improved focus without the
-impairment associated with larger doses. This approach may be particularly
-appropriate for patients who need to maintain cognitive function throughout
-the day.
-
-Tolerance is an important consideration in long-term cannabis dosing. Regular
-cannabis use leads to downregulation of CB1 receptors, meaning that higher
-doses may be needed over time to achieve the same therapeutic effects. This
-tolerance development is reversible with periods of abstinence, a practice
-known as a tolerance break. Patients who find their therapeutic window
-shifting over time may benefit from planned tolerance breaks of several days
-to several weeks.
-
-## Strain-Specific Dosing Considerations
-
-Different cannabis strains produce different effects at the same dose due to
-variations in their cannabinoid and [[cannabis-terpene-profiles-sativa]]. A high-THC sativa strain
-may require a smaller dose to achieve therapeutic effects than a low-THC
-indica strain, but the sativa strain may also have a narrower therapeutic
-window before adverse effects appear. Patients should be prepared to adjust
-their dose when switching between strains and should track their responses
-to different strain-dose combinations in a medication journal.
-
-## Related
-
-- [[subjective-therapeutic-window-cannabis]]
-
-- [[blesching-cannabis-safety-profile]]
-- [[blesching-cannabis-four-prime-cannabinoids]]
-- [[blesching-cannabis-addiction-dependence]]
-- [[blesching-cannabis-chi-score-methodology]]

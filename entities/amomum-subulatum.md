@@ -20,7 +20,7 @@ sources:
 
 **Amomum subulatum** Roxb., known as greater cardamom or black cardamom, is a perennial herbaceous plant in the family Zingiberaceae. Its dried fruits are a major spice in Indian, Nepali, and Pakistani cuisines, prized for their smoky, camphoraceous aroma.
 
-The species is native to the eastern Himalayas and is cultivated extensively in the submontane regions of Nepal, Sikkim, Darjeeling, and Bhutan. Unlike green cardamom (Elettaria cardamomum), black cardamom is used primarily in savory dishes and has a distinctly different flavor profile.
+The species is native to the eastern Himalayas and is cultivated extensively in the submontane regions of Nepal, Sikkim, Darjeeling, and Bhutan. Unlike green cardamom ([[elettaria-cardamomum]]), black cardamom is used primarily in savory dishes and has a distinctly different flavor profile.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ Commercial cultivation is concentrated in the eastern Himalayan region, with Nep
 
 ## Chemistry and Pharmacology
 
-The essential oil of black cardamom contains 1,8-cineole as the dominant constituent (30–70%), along with α-terpinyl acetate, limonene, sabinene, and borneol. The distinctive smoky aroma comes from the traditional drying process over open fires, which deposits phenolic compounds onto the fruit capsule.
+The [[permaculture-designers-manual-essential-oil-plants]] of black cardamom contains 1,8-cineole as the dominant constituent (30–70%), along with α-terpinyl acetate, limonene, sabinene, and borneol. The distinctive smoky aroma comes from the traditional drying process over open fires, which deposits [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] onto the fruit capsule.
 
 Fixed oils from the seeds contain palmitic, oleic, and linoleic acids as major [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]. The seeds also contain sterols, flavonoids, and tannins. Phenolic compounds include gallic acid, ellagic acid, and protocatechuic acid.
 
@@ -66,7 +66,7 @@ The traditional drying method over open wood fires imparts the characteristic sm
 
 Black cardamom is propagated primarily through rhizome division. [[jeavons-seed-propagation-techniques]] is possible but slow and unreliable. Planting is done during the monsoon season (June–July) in prepared beds under partial forest shade.
 
-Optimal shade levels are 40–60% canopy cover, mimicking the plant's natural forest understorey habitat. The crop requires consistent moisture throughout the year and is highly sensitive to drought. Mulching with leaf litter helps maintain soil moisture and organic matter.
+Optimal shade levels are 40–60% canopy cover, mimicking the plant's natural forest understorey habitat. The crop requires consistent moisture throughout the year and is highly sensitive to drought. Mulching with leaf litter helps maintain soil moisture [[mollison-humus-and-organic-matter-in-soils]].
 
 Harvesting begins 3–4 years after planting and continues for 15–20 years. Fruits are collected before full maturity while still green, then dried over open wood fires for 24–48 hours. The smoking process is essential for developing the characteristic flavor and color.
 
@@ -74,7 +74,7 @@ Yields average 100–300 kg of dried capsules per hectare per year. Quality is a
 
 ## Traditional Medicine
 
-In Ayurveda, black cardamom (*Brihat Ela* or *Krishna Ela*) is used to treat respiratory conditions including cough, bronchitis, and asthma. It is classified as a drug for the respiratory system (pranavaha srotas) and is included in formulations like *Talisadi Churna*.
+In Ayurveda, black cardamom (*Brihat Ela* or *Krishna Ela*) is used to treat [[cannabis-respiratory-conditions]] including cough, bronchitis, and asthma. It is classified as a drug for the respiratory system (pranavaha srotas) and is included in formulations like *Talisadi Churna*.
 
 The dried pods are prescribed for digestive disorders including flatulence, bloating, and loss of appetite. A decoction of the pods is used as a mouthwash for dental infections and gum disease. The seeds are chewed as a digestive aid and breath freshener.
 
@@ -84,31 +84,6 @@ In Unani medicine, it is known as *Elai kalan* and is used for stomach complaint
 
 ## Ecological Role
 
-A. subulatum is a significant understorey component of eastern Himalayan subtropical and montane forests. It contributes to forest floor biomass and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through annual leaf litter deposition from its large pseudostems.
+A. subulatum is a significant understorey component of eastern Himalayan subtropical and montane forests. It contributes to [[fungal-ecology-forest-floor]] biomass and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through annual leaf litter deposition from its large pseudostems.
 
 The flowers are pollinated by bees and other insects. The aromatic inflorescences attract pollinators to the forest understorey, benefiting co-occurring plant species. The seeds are dispersed by birds and small mammals that consume the fleshy aril.
-
-Cultivation of black cardamom under forest canopies provides a sustainable income source for Himalayan farming communities without requiring forest clearance. This agroforestry system maintains forest cover while generating economic returns from non-timber forest products.
-
-[[dighton-fungi-climate-change-feedback]] poses a significant threat to black cardamom production. Rising temperatures and altered precipitation patterns are shifting suitable cultivation zones to higher elevations. Drought stress during flowering reduces fruit set significantly.
-
-## Related Species
-
-Amomum tsao-ko (Cao Guo, 草果) is a closely related species from southwestern China used in Chinese cuisine, particularly in Yunnan and Sichuan cooking. It has a similar smoky flavor profile and is used in braised pork dishes and hot pot broths.
-
-A. villosum (Sha Ren, 砂仁) is an important TCM herb used for digestive complaints and pregnancy support. It is chemically distinct, with bornyl acetate and camphor as major essential oil constituents.
-
-A. kravanh (Cambodian cardamom) produces smaller, rounder capsules used as a spice in Southeast Asian cuisines. It has a milder, more eucalyptus-like aroma compared to A. subulatum.
-
-Elettaria cardamomum (green cardamom) is the most commercially significant cardamom species globally but is used primarily in sweet preparations and beverages. Despite belonging to different genera, green and black cardamom are frequently confused in Western markets.
-
-## See Also
-
-- [[amomum-kravanh]]
-
-- [[elettaria-cardamomum]]
-- [[alpinia-galanga]]
-- [[cinnamomum-verum]]
-- [[pimpinella-anisum]]
-- [[kaempferia-galanga]]
-- nigella-sativa

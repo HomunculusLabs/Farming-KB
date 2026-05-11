@@ -4,6 +4,7 @@ tags: [goji, berry, growing-guide, beginner, permaculture, superfruit, container
 created: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - https://extension.oregonstate.edu/gardening/berries
   - https://www.rhs.org.uk/plants/10730/lycium-barbarum
   - https://www.gardeningknowhow.com/edible/fruits/goji/goji-berry-plant-care.htm

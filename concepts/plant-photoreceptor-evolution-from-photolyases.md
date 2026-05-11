@@ -5,7 +5,7 @@ tags: [botany, evolution, photoreceptors, cryptochrome, photolyase, phytochrome,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by daniel-chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 
@@ -17,7 +17,7 @@ The photoreceptors that enable plants to sense their light environment did not
 arise de novo but evolved from pre-existing enzymes with unrelated functions.
 The most striking example is the cryptochrome family of [[chamovitz-julius-von-sachs-blue-light-phototropism]]
 photoreceptors, which evolved from DNA photolyase enzymes that repair
-ultraviolet-damaged DNA. Similarly, phytochrome red/far-red photoreceptors
+ultraviolet-damaged DNA. Similarly, [[phytochrome-red-far-red-light-switch]]/far-red photoreceptors
 share deep evolutionary ancestry with bacterial sensor histidine kinases.
 These origins reveal how metabolic enzymes were co-opted for sensory roles,
 a process that has profoundly shaped photosynthetic organism biology.
@@ -26,7 +26,7 @@ a process that has profoundly shaped photosynthetic organism biology.
 
 Cryptochromes are flavoproteins that evolved from class I cyclobutane
 pyrimidine dimer (CPD) photolyases. CPD photolyases are ancient enzymes that
-use blue light energy to catalyse the repair of DNA damage caused by
+use [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] energy to catalyse the repair of DNA damage caused by
 ultraviolet-B radiation. When UV-B photons strike DNA, they create covalent
 bonds between adjacent pyrimidine bases, forming cyclobutane pyrimidine dimers
 that distort the DNA double helix and block replication and transcription.
@@ -50,7 +50,7 @@ cascades leading to changes in gene expression throughout the plant.
 ## Molecular Fossils of Common Ancestry
 
 The evolutionary pathway is reconstructable because cryptochromes retain
-significant sequence and structural homology with photolyases. Crystal
+significant sequence and [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with photolyases. Crystal
 structures reveal a nearly identical core alpha-beta fold housing the flavin
 chromophore. Conserved residues involved in flavin binding are recognisable in
 both families, providing molecular fossils of common ancestry. The transition
@@ -88,47 +88,3 @@ plant phytochromes shares structural homology with bacteriophytochromes. These
 typically use biliverdin rather than phytochromobilin as chromophore, suggesting
 the plant lineage co-opted a bacterial sensory module and modified it during
 endosymbiotic events. The histidine kinase-related domain reflects bacterial
-ancestry. Cyanobacterial phytochromes regulate chromatic acclimation,
-an ancient spectral sensing function elaborated during land plant evolution.
-
-## Convergent Evolution of Multiple Light Sensors
-
-The independent evolution of multiple photoreceptor systems from different
-ancestral proteins illustrates how nature co-opts existing molecular tools:
-
-- **Phototropins**: Evolved from serine/threonine kinases, incorporating LOV
-  domains from PAS domain proteins originally sensing oxygen and voltage.
-- **UVR8**: A UV-B receptor evolved from RCC1, a protein involved in
-  nucleocytoplasmic transport and chromosome structure.
-- **ZEITLUPE family**: Blue light receptors related to phototropins that
-  regulate circadian timing through targeted protein degradation.
-
-Each family represents a distinct evolutionary solution to light sensing, built
-from different ancestral scaffolds. The convergence of multiple independent
-systems reflects the overwhelming selective pressure to extract maximum
-information from the light environment.
-
-## Shared Principles with Animal Vision
-
-The deep structural and functional similarity between plant and animal
-light-sensing proteins is provocative. While specific photoreceptor families
-differ (opsins in animals versus cryptochromes and phytochromes in plants),
-the fundamental biochemistry is conserved: both kingdoms use proteins binding
-light-absorbing chromophores that undergo conformational changes upon photon
-absorption.
-
-Daniel Chamovitz, in "What a Plant Knows," draws the parallel that both plants
-and animals face the same challenge of converting electromagnetic radiation
-into biochemical information. The shared principles of chromophore-based light
-absorption, protein conformational switching, and signal amplification
-underscore the universality of light as an environmental cue and the power of
-natural selection to shape molecular solutions across vast evolutionary
-timescales.
-
-## See Also
-
-- [[daniel-chamovitz]]
-- phytochrome molecular switch mechanism
-
-- [[plant-vision-and-phototropism]] for behavioural consequences of light sensing
-- [[shade-avoidance-syndrome]] for an ecological application of evolved photoreception

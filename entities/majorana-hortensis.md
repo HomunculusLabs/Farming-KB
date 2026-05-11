@@ -24,7 +24,7 @@ created: 2026-05-07
 
 Majorana hortensis, commonly known as sweet marjoram, is a tender perennial herb in the family Lamiaceae. Native to the Mediterranean region, it has been cultivated for thousands of years as both a culinary herb and a medicinal plant. The species produces small, oval leaves with a delicate, sweet, and slightly spicy aroma that is warmer and more nuanced than its close relative oregano.
 
-In traditional medicine, sweet marjoram has been used for digestive complaints, respiratory conditions, and nervous system support. Modern research has confirmed antioxidant, antimicrobial, and anti-inflammatory activities in its essential oil and extracts.
+In traditional medicine, sweet marjoram has been used for digestive complaints, [[cannabis-respiratory-conditions]], and nervous system support. Modern research has confirmed antioxidant, antimicrobial, and anti-inflammatory activities in its [[permaculture-designers-manual-essential-oil-plants]] and extracts.
 
 ## Taxonomy
 
@@ -64,7 +64,7 @@ The species grows wild on dry, rocky hillsides, in garigue and maquis vegetation
 
 ## Cultivation
 
-Sweet marjoram is typically grown as an annual in temperate climates, as it is not frost-hardy below -5°C. In warmer climates (USDA zones 9–10), it can persist as a short-lived perennial.
+Sweet marjoram is typically grown as an annual [[query-how-to-grow-and-use-oca-in-temperate-climates]], as it is not frost-hardy below -5°C. In warmer climates (USDA zones 9–10), it can persist as a short-lived perennial.
 
 **Propagation:** Primarily from seed, sown indoors 6–8 weeks before the last frost. Germination occurs in 7–14 days at 20–22°C. Softwood cuttings and division of established clumps are also effective [[vegetative-propagation-methods-mollison]].
 
@@ -72,7 +72,7 @@ Sweet marjoram is typically grown as an annual in temperate climates, as it is n
 
 **Harvest:** Leaves can be harvested once plants reach 15 cm in height. For maximum essential oil content, harvest just before flowering. Drying is the standard preservation method — hang bundles in a warm, dark, well-ventilated area.
 
-**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Sweet marjoram is an excellent companion plant in vegetable gardens. It attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
+**[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Sweet marjoram is an excellent companion plant [[maintaining-organic-matter-in-vegetable-gardens]]. It attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory wasps. It is traditionally planted near tomatoes, peppers, and eggplants.
 
 ## Bioactive Compounds
 
@@ -87,30 +87,4 @@ The essential oil of Majorana hortensis has been extensively studied for its bio
 - **α-Terpinene** (3–8%) — Antioxidant.
 - **p-Cymene** (2–5%) — Mild antimicrobial.
 
-**Flavonoids and phenolic compounds:** The aerial parts contain luteolin, apigenin, and their glycosides, along with rosmarinic acid and caffeic acid derivatives. These contribute to the antioxidant and anti-inflammatory activities of aqueous extracts.
-
-## Traditional and Modern Uses
-
-**Culinary:** Sweet marjoram is a staple of Mediterranean cuisine, used in soups, stews, egg dishes, cheese preparations, and meat seasoning. Its flavor is sweeter and milder than oregano, with floral and slightly balsamic notes. It is a key component of herbes de Provence and za'atar blends.
-
-**Traditional medicine:** In European folk medicine, sweet marjoram tea has been used to treat digestive complaints (bloating, flatulence, cramps), respiratory conditions (coughs, bronchitis, sinusitis), and nervous tension. Externally, the oil was applied for rheumatic pain and muscle aches.
-
-**Modern pharmacology:** Antioxidant activity of the essential oil is well-documented (Parejo et al., 2002). Antimicrobial activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus subtilis) and some [[bloomfield-fungal-pathogens-and-parasites]] has been demonstrated in vitro. Anti-inflammatory effects are attributed to linalool and terpinen-4-ol via inhibition of COX-2 and NF-κB pathways.
-
-## Related Species
-
-- **Origanum vulgare** (oregano) — The closest and most commonly confused relative. Oregano has a stronger, more pungent flavor with higher carvacrol content in its essential oil.
-- **Origanum onites** (Cretan oregano) — A Mediterranean species with similar culinary uses but a more camphoraceous aroma profile.
-- **Origanum syriacum** (za'atar) — A key component of the za'atar spice blend, native to the Levant. Has a complex thyme-like flavor.
-
-Sweet marjoram's distinction from oregano lies primarily in its sweeter, more delicate flavor and its lower carvacrol and higher linalool content. The two herbs are not interchangeable in fine cooking despite their botanical closeness.
-
-## See Also
-
-- [[thymus-vulgaris-entity]]
-- [[salvia-officinalis]]
-- [[lavandula-angustifolia]]
-- [[melissa-officinalis]]
-- [[allium-sativum-entity]]
-- [[curcuma-longa]]
-- [[nepeta-cataria]]
+**Flavonoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** The aerial parts contain luteolin, apigenin, and their glycosides, along with rosmarinic acid and caffeic acid derivatives. These contribute to the antioxidant and anti-inflammatory activities of aqueous extracts.

@@ -26,7 +26,7 @@ to mycoparasitic colonization by other soil fungi.
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Subdivision:** Pezizomycotina
 - **Class:** Eurotiomycetes
 - **Order:** Eurotiales
@@ -57,7 +57,7 @@ to mycoparasitic colonization by other soil fungi.
   and oilseeds
 - Functions as both a saprobe and a facultative plant pathogen
 - Sclerotia buried in soil provide a reservoir for inoculum in
-  subsequent growing seasons
+  subsequent [[jeavons-climate-adaptation-growing-seasons]]
 - Capable of colonizing both living plant tissues and dead organic
   matter
 
@@ -88,42 +88,3 @@ to mycoparasitic colonization by other soil fungi.
   and insects
 - Sclerotia form under stress conditions and can persist in soil
   for extended periods
-- Germination of sclerotia produces either conidiophores (direct
-  conidiation) or stroma bearing ascospores (sexual cycle)
-- Insect vectors, particularly beetles, play an important role in
-  dispersal and crop colonization
-
-### Research Methods
-- Selective media with dichloran and rose bengal are used for
-  soil isolation
-- Sclerotia can be used as bait for recovering mycoparasitic fungi
-  from soil
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing and
-  microsatellite analysis differentiates A. flavus from closely
-  related species
-- Aflatoxin production is quantified using HPLC, ELISA, and
-  fluorescence methods
-
-### Economic Significance
-- Major pre- and post-harvest pathogen of staple food crops
-- Aflatoxin contamination limits international trade in affected
-  commodities
-- Biological control using atoxigenic A. flavus strains has been
-  successfully implemented in several countries
-- Also of concern as an opportunistic human pathogen causing
-  cutaneous, pulmonary, and disseminated aspergillosis
-
-## Relevance
-Aspergillus flavus sits at the intersection of plant pathology,
-food safety, and mycotoxicology. Understanding its ecology, including
-the mycoparasitic fungi that degrade its sclerotia, is critical for
-developing integrated management strategies against aflatoxin
-contamination. Its dual role as an agricultural pathogen and human
-opportunistic pathogen makes it a model organism for studying fungal
-virulence and secondary metabolism.
-
-## See Also
-
-- [[penicillium-expansum]]
-- [[colletotrichum-gloeosporioides]]
-- [[botrytis-cinerea]]

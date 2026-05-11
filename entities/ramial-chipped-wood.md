@@ -31,13 +31,13 @@ created: 2026-05-07
 
 Ramial Chipped Wood (RCW), known in French as Bois Raméal Fragmenté (BRF),
 is a soil amendment produced by chipping the small-diameter branches (twigs
-and branches under 7 cm) of deciduous trees and shrubs. Developed primarily
+and branches under 7 cm) of deciduous [[nitrogen-fixing-trees-and-shrubs]]. Developed primarily
 through research at Université Laval in Québec by Gilles Lemieux and
-colleagues, RCW is distinguished from conventional wood chips by its chemical
+colleagues, RCW is distinguished from conventional [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] by its chemical
 composition and its role in stimulating soil fungal activity and humus
 formation.
 
-The practice is rooted in the observation that forest ecosystems naturally
+The practice is rooted in the observation that [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] naturally
 cycle nutrients through the decomposition of small branches on the forest
 floor, building stable humus without external inputs.
 
@@ -70,11 +70,11 @@ poplar (*Populus*), willow (*Salix*), alder (*Alnus*), and hazel (*Corylus*).
 RCW acts as a selective substrate for [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] and
 actinomycetes, which are the primary agents of humus formation in forest
 soils. The application of RCW to agricultural soils inoculates them with
-fungal propagules and provides substrate that favors fungal growth over
+fungal propagules and provides substrate that favors [[brassinosteroid-fungal-growth-promotion]] over
 bacterial decomposition.
 
 The decomposition pathway proceeds through several stages:
-1. Rapid colonization by saprotrophic fungi (2–4 weeks)
+1. Rapid colonization by [[comparison-mycorrhizal-vs-saprotrophic-fungi]] (2–4 weeks)
 2. Selective consumption of soluble sugars and hemicellulose
 3. Gradual [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] by white-rot and brown-rot fungi
 4. Formation of stable humic compounds over 6–24 months
@@ -88,47 +88,3 @@ treated soils.
 ## Application Methods
 
 RCW is applied as a surface mulch or shallowly incorporated into the top
-5–10 cm of soil. Recommended [[ingham-compost-tea-application-rates-and-timing]] vary by context:
-
-- **Garden beds:** 2–5 cm layer, applied annually in spring or autumn
-- **Orchard floors:** 5–10 cm layer around the drip line, renewed every
-  2–3 years
-- **Field crops:** 5–10 tonnes per hectare, incorporated before planting
-- **Degraded soils:** initial heavy application of 10–15 cm, followed by
-  lighter annual maintenance
-
-The material should be fresh or minimally aged. Pre-composting RCW reduces
-its effectiveness because it allows rapid bacterial colonization that
-depletes the soluble compounds before soil application.
-
-## Comparison with Other Mulching Materials
-
-- **Straw:** higher C/N ratio, breaks down faster, less fungal stimulation
-- **Conifer bark:** very high L/N ratio, acidifying, slow decomposition
-- **Compost:** already decomposed, provides nutrients immediately but less
-  long-term [[composting-humus-building-holzer]]
-- **Biochar:** stable carbon but biologically inert, no fungal substrate
-- **Hugelkultur:** similar principle on larger scale using logs and branches
-
-## Limitations and Considerations
-
-RCW production requires specialized chipping equipment capable of handling
-small-diameter material. Standard wood chippers designed for larger limbs
-produce particles too coarse for optimal soil contact.
-
-Temporary nitrogen immobilization can occur during the initial decomposition
-phase, particularly when large quantities are applied at once. This effect
-can be mitigated by combining RCW with nitrogen-rich amendments such as
-legume residues or compost.
-
-Conifer RCW is less effective than deciduous RCW and may acidify soils.
-Contamination of RCW with toxic tree species (e.g., black walnut, *Juglans
-nigra*, which produces juglone) should be avoided.
-
-## See Also
-
-- [[chop-and-drop]]
-- [[biochar]]
-- [[comparison-mulch-vs-living-mulch]]
-- [[food-forest]]
-- [[dynamic-accumulators]]

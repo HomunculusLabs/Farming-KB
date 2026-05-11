@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,29 +88,3 @@ strategies include:
 - Light-coloured exterior surfaces to reflect solar radiation
 - [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] features such as courtyard water features, unglazed
   terracotta water jars, or wind towers (badgirs) that capture and cool
-  breezes
-- Minimal north (equatorward) glazing to prevent summer overheating
-
-The arid house is inward-looking, organised around a protected courtyard,
-in contrast to the outward-facing tropical house. Mollison draws heavily
-on Middle Eastern and North African desert architecture traditions.
-
-## Humid Subtropical and Monsoonal Design
-
-For climates with hot wet summers and mild dry winters, Mollison recommends
-a hybrid approach combining tropical ventilation with some temperate
-mass:
-
-- Raised floors for flood protection and airflow
-- Roof design that handles very heavy rainfall with generous gutters and
-  overflow paths directing water to [[mollison-designers-lime-and-cement-natural-building]],
-[[mollison-designers-wool-insulation-and-natural-textiles]].
-
-## See Also
-
-- mollison-designers-cool-climate-house-design
-
-- [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[mollison-designers-climate-zone-4-forage-gathering]]
-- [[mollison-designers-pattern-understanding-in-design]]
-- [[mollison-climate-zones-permaculture-strategies]]

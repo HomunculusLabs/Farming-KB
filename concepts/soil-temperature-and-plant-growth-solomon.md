@@ -1,7 +1,7 @@
 # Soil Temperature and Oxygen in Plant Growth
 
 ## Overview
-A critical but often overlooked aspect of vegetable gardening is the role of soil
+A critical but often overlooked aspect of [[dryland-vegetable-gardening]] is the role of soil
 temperature and oxygen availability in plant [[plant-sensory-biology-smell-touch-hearing]] growth. Most gardeners focus on
 above-ground conditions — sunlight, air temperature, rainfall — while
 underestimating the importance of what happens below the soil surface. Plants are
@@ -13,14 +13,14 @@ Here is something most gardeners don't know: the business of construction, of
 growth, is mainly done at night. During the daytime, plants store up energy by
 converting sunshine, water, and air (CO₂) into sugar through photosynthesis. They
 burn that sugar as energy to grow during the night. This has important implications
-for soil temperature management — warm nighttime soil temperatures are critical for
+for [[jadam-cover-crop-soil-temperature-management]] — warm nighttime soil temperatures are critical for
 rapid growth.
 
 ## Soil Temperature and Seed Germination
 The speed at which an embryo grows and develops is determined by temperature. If
 the soil is too cold, the seedling — slowed by the chill — will be attacked by
 fungi and other soil-dwelling diseases that thrive in cold conditions, and it will
-die. Each crop species has an optimal soil temperature range for germination:
+die. Each crop species has an optimal soil [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] germination:
 
 ### Temperature Categories
 - **Cool-season crops** (lettuce, spinach, peas, radishes): germinate best at
@@ -41,7 +41,7 @@ watering should be minimal until seedlings emerge.
 A sprouting seedling needs significantly more oxygen than it did in dormancy. The
 embryo will die if there is no oxygen in the soil — which is exactly what happens
 when soil is waterlogged for more than a few hours. The relationship between water,
-air, and soil particles determines whether roots (and sprouting seeds) can breathe.
+air, and soil particles determines whether roots (and [[solomon-sprouting-seeds-and-early-season-nutrition]]) can breathe.
 
 ### The Soil Air-Water Balance
 Healthy soil is approximately 50% mineral particles, 25% water, and 25% air by
@@ -88,41 +88,3 @@ and gas exchange.
 ### Prevention Through Humus
 The solution to both crusting and puddling is to increase the amount of decomposed
 organic matter (humus) in the soil. When enough humus is mixed in, particles of
-sand, silt, and clay become firmly cemented into stable, irregularly shaped crumbs
-sometimes as large as grains of uncooked rice. These crumbs:
-- Don't easily separate, so the soil won't crust or slump after rain
-- Create more air spaces, greatly improving root development
-- Improve water infiltration while retaining moisture
-
-Soil with obvious crumb structure is said to have good **tilth**.
-
-## Practical Implications for Gardeners
-
-### For Seed Sowing
-1. Make only the top inch (2.5 cm) of your growing beds into friable soil with
-   excellent tilth. This requires only a quarter-inch (6 mm) layer of compost.
-2. Do not water after sowing unless the soil is demonstrably dry.
-3. Use a bow rake to create a fine, level seedbed — raking simultaneously levels,
-   blends compost, breaks clods, and combs out lumps.
-4. Cover rows with a thin layer of fine compost after sowing to prevent crusting.
-
-### For Clay Soils
-- Work clay only at the correct moisture (use the ready-to-till test).
-- Never walk on or compact wet clay beds.
-- Apply surface amendments after digging rather than incorporating deeply.
-- Accept that clay gardens will always be more challenging than those on loam.
-
-### For Warm-Season Crops
-- Use black plastic mulch or dark cover materials to warm soil before planting.
-- Start seeds indoors and transplant once soil temperature is adequate.
-- Avoid early planting in cold, wet soil — patience prevents crop failure.
-
-## Source
-- Solomon, S. *Gardening When It Counts*. Chapters 2-3 — Soil Basics and Tools.
-  Lines 1492-2700 of the full text.
-
-## See Also
-- [[clay-soil-management-vegetable-garden-solomon]]
-- [[seedbed-preparation-and-tilth-solomon]]
-- [[complete-organic-fertilizer-cof-solomon]]
-- [[soil-organic-matter-and-humus-formation]]

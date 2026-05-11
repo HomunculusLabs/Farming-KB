@@ -3,7 +3,7 @@ title: Psilocybe as Dominant Neurotropic Fungus Genus
 created: 2026-05-09
 updated: 2026-05-09
 sources:
-  - "A Worldwide Geographical Distribution of the Neurotropic Fungi (Guzman, Allen & Gartz, 1998)"
+  - "A Worldwide psilocybe-geographical-distribution-patterns of the Neurotropic Fungi (Guzman, Allen & Gartz, 1998)"
 type: concept
 tags: [psilocybe, neurotropic-fungi, psilocybin, species-diversity, biogeography, mycology]
 ---
@@ -14,7 +14,7 @@ Psilocybe is by far the largest and most widely distributed genus of
 neurotropic fungi, accounting for 116 of the 216 species documented by
 Guzman, Allen, and Gartz in their 1998 worldwide review. This single genus
 contains more than half of all known [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] species and
-dominates the neurotropic fungi in terms of both species diversity and
+dominates the [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]] terms of both species diversity and
 geographical range. The genus Psilocybe, established by Paul Kummer in 1871,
 derives its name from the Greek words psilos (bare) and kubē (head), a
 reference to the typically smooth, unadorned caps of its fruiting bodies —
@@ -27,7 +27,7 @@ Guzman's 1983 world monograph of the genus Psilocybe, with subsequent
 updates in 1995, established the modern taxonomic framework that was used in
 the 1998 distribution study. The neurotropic species of Psilocybe are
 organized into sections based on morphological characteristics, particularly
-the presence or absence of the characteristic bluing reaction and the
+the presence or absence of the characteristic [[field-guide-psilocybin-bluing-reaction-identification]] and the
 structure of the cystidia (sterile cells on the gill surface). The bluing
 sections include Aztecorum, Brunneocystidiatae, Cordisporae, Cubensies,
 Mexicanae, Semilanceatae, Stuntzae, Subaeruginosae, and Zapotecorum.
@@ -40,7 +40,7 @@ classification, excluding Section Chrysocystidiatae.
 
 ## Global Distribution Pattern
 
-The distribution of Psilocybe species reveals a striking pattern: the
+The [[geographic-distribution-of-psilocybe-species]] species reveals a striking pattern: the
 majority of species are found in or near the [[biogeography-austral-hemisphere-fungi]], mainly in
 subtropical humid forests. Mexico has the highest number of neurotropic
 species of fungi of any country, with 76 species total, of which 44 belong
@@ -65,14 +65,14 @@ natural populations. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmo
 most widely distributed temperate species, found across Europe, North
 America, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. It grows in grasslands,
 particularly in the autumn, and was among the first neurotropic species to
-be chemically characterized. Psilocybe aztecorum grows at high elevations
+be chemically characterized. [[psilocybe-aztecorum-entity-the-mushroom-cultivator]] grows at high elevations
 in the mountains of Mexico, reaching altitudes of 4000 meters.
 
 ## The Austral Hemisphere Bias
 
 The concentration of Psilocybe diversity in or near the Austral hemisphere
 is a biogeographical pattern that has been noted by multiple researchers.
-The subtropical and tropical forests of Central and South America, Southeast
+The subtropical and [[fungal-biodiversity-tropical-forests]] of Central and South America, Southeast
 Asia, and Australasia harbor the greatest number of species. This pattern
 likely reflects the combination of warm temperatures, high humidity, and
 diverse plant communities that provide suitable substrates for fungal growth.
@@ -88,56 +88,3 @@ partly reflect the distribution of mycological expertise rather than actual
 fungal biogeography.
 
 ## Historical Periods of Discovery
-
-Guzman identifies five historical periods in the study of neurotropic fungi.
-The first period covers the ancient use of these fungi by indigenous peoples
-in North America, Mesoamerica, Siberia, and New Guinea. The second period,
-in the early [[coleman-louis-savier-twentieth-century-maraicher]], was characterized by uncertain or erroneous
-identifications — Schultes initially believed that Mexican neurotropic fungi
-belonged only to Panaeolus campanulatus. The third period began with Wasson's
-studies in the 1950s, which initiated rigorous scientific investigation. The
-fourth period, the 1960s, saw the emergence of recreational use and the
-degeneration of traditional practices, particularly in Mexico, leading to
-legal prohibitions in many countries. The current fifth period involves a
-recapitulation of knowledge, with the description of new species and improved
-[[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] confirming the broad distribution and diversity of these
-fungi. The [[neurotropic-fungi-taxonomic-confusion-and-identification]]
-that characterized earlier periods is gradually being resolved through
-modern taxonomic and analytical methods.
-
-## The Taxonomic Concept Problem
-
-A significant source of confusion in Psilocybe taxonomy involves the
-different generic concepts used by various authorities. Kuhner and Romagnesi
-considered Psilocybe, Hypholoma, and Stropharia to belong to a single genus,
-while Noordeloos's 1995 treatment of Psilocybe s. Noordeloos includes species
-(such as P. aeruginosa, P. albonitens, and P. aurantiaca) that Guzman and
-colleagues do not accept as members of the genus. The species P.
-coprinifacies has been particularly contentious: Guzman considered it a
-doubtful species, but European authors recognized it from Czechoslovakia.
-Krieglsteiner considered P. bohemica, P. maire, and P. serbica to be
-synonyms of P. cyanescens, further complicating the taxonomy of European
-species. These taxonomic disagreements directly affect the counting of
-species and the assessment of geographical distributions, making
-comparisons between different studies difficult.
-
-## Mexico as the Epicenter
-
-Mexico's preeminence in Psilocybe diversity reflects both ecological and
-cultural factors. The country's varied topography, ranging from coastal
-plains to high mountains, creates an extraordinary range of microclimates
-that support diverse fungal communities. The indigenous cultures of Mexico
-have maintained ceremonial relationships with these fungi for centuries, and
-this cultural knowledge has guided scientific investigation. Guzman
-reported more than two hundred indigenous names for neurotropic fungi in
-Mexico, reflecting the depth of traditional mycological knowledge. The
-rediscovery of this ceremonial use by Wasson and Heim in the 1950s
-transformed the field of mycology, generating interest in all fungi in the
-country and dividing Mexican mycology into "before" and "after" the
-hallucinogenic fungi studies. The 44 Mexican species of Psilocybe represent
-an irreplaceable resource for understanding the evolution, ecology, and
-chemistry of the world's most important genus of neurotropic fungi.
-
-## See Also
-- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]
-- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]

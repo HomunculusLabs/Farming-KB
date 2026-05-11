@@ -10,25 +10,25 @@ sources:
 
 # Composting Methods
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Truth About Compost
 
 Solomon's chapter on compost challenges the [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] orthodoxy that "all compost is good compost." His core argument: most home-made compost is nutritionally inadequate for growing high-demand vegetables, and excessive [[hamilton-composting-and-organic-matter-management]] can unbalance soil minerals.
 
-The original organic gardening movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
+The original [[geoff-hamilton-the-organic-gardening-companion]] movement (1940s) propagated the belief that any compost would grow great vegetables. This was propaganda to build a movement, not scientific truth. In reality, for compost to serve as the sole fertility source for most vegetable crops, it needs:
 - Nitrogen content exceeding 3 percent
 - Total N+P+K exceeding 6 percent (with fair phosphorus)
 - C/N ratio no higher than 12:1
-- Significant calcium, magnesium, and trace minerals in correct proportions
+- Significant calcium, magnesium, and [[dynamic-accumulator-plants-trace-minerals]] in correct proportions
 
 Most home compost achieves none of these targets.
 
 ## Sheet Composting: Risks and Warnings
 
-Sheet composting (spreading raw organic matter on beds and digging it in) is risky because:
+Sheet composting (spreading raw [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] on beds and digging it in) is risky because:
 
-1. **Microbial bloom**: When organic matter is incorporated, soil microorganisms multiply rapidly, consuming available nitrogen, phosphorus, potassium, calcium, and magnesium. Plants are temporarily starved while the microbial population peaks.
+1. **Microbial bloom**: When organic matter is incorporated, soil microorganisms multiply rapidly, consuming [[plant-available-nitrogen-ammonium-nitrate]], phosphorus, potassium, calcium, and magnesium. Plants are temporarily starved while the microbial population peaks.
 2. **Nutrient lockup**: Until the microbes die and release their nutrients back, the soil is effectively depleted. This period can last weeks to months depending on temperature and C/N ratio.
 3. **Temperature dependence**: In cool spring soil, decomposition is extremely slow. In freezing climates, autumn sheet composting on spring beds may not finish decomposing before planting time -- a "fatal catastrophe" where nothing grows until midsummer.
 
@@ -62,7 +62,7 @@ Casual composting produces erratic results, like a badly made homebrew.
 
 N content around 1.5%, C/N around 20:1, N+P+K under 3%.
 
-Typical of municipal compost (mostly paper, cardboard, chipped tree trimmings with C/N exceeding 50:1). After extensive processing, C/N drops to ~25:1 but nitrogen is lost as greenhouse gases. Barely suitable for low-demand vegetables in warm climates. Better suited as mulch for ornamentals.
+Typical of [[solomon-municipal-compost-inadequacy-vegetable-growing]] (mostly paper, cardboard, chipped tree trimmings with C/N exceeding 50:1). After extensive processing, C/N drops to ~25:1 but nitrogen is lost as greenhouse gases. Barely suitable for low-demand vegetables in warm climates. Better suited as mulch for ornamentals.
 
 ### Medium-Quality Compost: The Once-a-Year Heap
 
@@ -88,24 +88,3 @@ N content exceeding 3%, C/N below 12:1, N+P+K exceeding 6%. Requires careful ing
 **Shredder-grinders**: expensive, noisy, and counterproductive. Finely ground material decomposes too fast and too hot, driving off nitrogen. Let microbes work at their own pace in an ordinary heap.
 
 ## Mulch: Solomon's Critique
-
-Permanent mulching is widely promoted but Solomon identifies problems:
-- In mild/wet climates: provides habitat for slugs and other pests
-- Excessive organic matter on soil surface can unbalance soil minerals (especially excess potassium)
-- Creates conditions favorable for disease organisms
-- May keep soil too cool in spring
-- Can block capillary moisture from reaching the surface
-
-He uses a thin surface layer of finished compost as a mulch, applied after beds are prepared, not as permanent [[fukuoka-citrus-orchard-ground-cover-cultivation]].
-
-## COF: The Practical Alternative
-
-For gardeners who cannot produce high-quality compost (most of us), Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] is the practical answer. COF provides balanced minerals without the risks of sheet composting or the inadequacy of low-grade compost. Use COF as the primary fertility source; compost as a soil conditioner and [[cervantes-secondary-nutrient-deficiency]] source.
-
-## See Also
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[composting-materials-alternative]]
-- [[bokashi-compost-method]]
-- [[soil-food-web-nutrient-cycling]]

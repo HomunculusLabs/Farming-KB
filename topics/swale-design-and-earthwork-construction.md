@@ -5,6 +5,7 @@ tags: [permaculture, earthworks, swales, water-harvesting, keyline-design, dams,
 date: 2026-05-09
 updated: 2026-05-09
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
   - /Users/t3rpz/wiki/raw/papers/holzer-desert-or-paradise.md
@@ -147,4 +148,3 @@ home gardens and orchards where large-scale earthworks are impractical.
 ## Sizing and Spacing Swales
 
 Proper sizing prevents swale failure from overflow or insufficient capture.
-The swale volume must handle the expected runoff from a design storm, which

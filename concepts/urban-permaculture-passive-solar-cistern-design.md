@@ -1,5 +1,5 @@
 ---
-title: "Urban urban permaculture passive solar cistern design Solar and Cistern Design"
+title: Urban Permaculture Passive Solar Cistern Design
 created: 2026-04-28
 tags: [urban-permaculture, passive-solar, rainwater-harvesting, cistern, dryland]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Urban Permaculture Passive Solar and Cistern Design
 
-The urban permaculture homestead demonstrates how passive solar design,
+The urban [[query-how-do-i-keep-goats-on-a-permaculture-homestead]] demonstrates how [[passive-solar-design]],
 [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], and creative use of scavenged materials can
 transform a modest house into a self-sufficient dwelling. The principles
 described here come from a real retrofit in the drylands of the American
@@ -87,44 +87,3 @@ half-inch vinyl tube was run through the window jam, with one end
 suction-cupped to the bottom of the tub and the other end lying under
 the winter-deciduous black mission fig which shades the bedroom in the
 summer. A [[mollison-designers-hand-pump-and-water-lifting-devices]] gets the siphon going.
-
-For the north side of the house, the hose hooks to an old half-inch
-irrigation line which deposits the water on a couple of Asian pears and
-a loquat. The fig tree provides summer shade and drops its leaves to
-allow winter sun through, a classic passive solar strategy using
-deciduous vegetation.
-
-## Scavenged Materials Approach
-
-Fifty-five-gallon drums harvest water from the garage roof. Chain link
-fencing was traded at the salvage yard for used 2x4s to extend the roof
-overhang, further protecting walls from rain and summer sun. A sagging
-carport/ramada from a neighbor became a lumber rack, work bench, and
-bicycle ramada. Plywood election signs were rounded up for the ramada
-roof.
-
-The approach demonstrates that urban permaculture does not require
-expensive materials. Every problem becomes a resource when approached
-with creativity and a willingness to scavenge and adapt.
-
-## Noise and Pollution Buffers
-
-On either side of the fence, an 8-10 foot wide noise, pollution, light,
-and privacy buffer was planted that doubled as wildlife habitat. The
-native plants used had medicinal, food, habitat, [[mollison-designers-bee-forage-tree-planting]], and
-nitrogen-fixing value. Saguaro, barrel, and cholla cacti were salvaged
-from areas slated for clearing.
-
-## Composting and Soil Building
-
-Organic droppings and prunings from around the yard were mixed with
-manure delivered by neighbors. This compost system alone cut all
-watering needs by two-thirds by improving soil water retention. The
-closed-loop approach turns all organic waste into a resource for the
-garden.
-
-## See Also
-- [[urban-permaculture-design]]
-- [[passive-solar-design]]
-- [[solar-water-heating]]
-- [[permaculture-urban-design]]

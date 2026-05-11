@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Hedenäs, L. (1990). "Taxonomic and Nomenclatural Notes on Calliergon." Bryologische Zeitungen.
-  - Flora of North America, Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
+  - Flora [[berry-growing]], Vol. 28. "Bryophyta: Bryophytes." Oxford University Press.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
 ---
 
@@ -77,7 +77,7 @@ achieves maximum growth in open, sunny fen conditions.
 ## Ecology
 
 Calliergon giganteum is a dominant ground-layer species in boreal fen
-ecosystems, where it contributes to peat formation and carbon storage. Its
+ecosystems, where it contributes to peat formation [[fungal-peat-decomposition-and-carbon-storage]]. Its
 annual productivity is among the highest of all boreal mosses, with biomass
 accumulation rates comparable to some Sphagnum species.
 
@@ -88,62 +88,3 @@ fen-dependent plant communities.
 
 [[fontinalis-antipyretica]] and other aquatic mosses frequently colonize the
 submerged portions of C. giganteum mats where water levels fluctuate seasonally.
-This creates multi-species bryophyte communities at the aquatic-terrestrial
-interface.
-
-The moss provides habitat for numerous fen invertebrates, including dragonfly
-larvae, aquatic snails, and ground beetles adapted to wetland conditions. Its
-dense mats offer shelter from predators and desiccation during dry periods.
-
-## Reproduction
-
-Vegetative propagation is the dominant reproductive strategy, occurring through
-stem fragmentation and lateral branch development. Fragments dispersed by water
-readily establish new colonies downstream, facilitating rapid colonization of
-suitable wetland habitats.
-
-Sexual reproduction is autoicous, with antheridia and archegonia borne on
-separate short branches of the same stem. Sporophyte production is relatively
-infrequent in northern populations, limited by short growing seasons.
-
-Capsules mature in mid-summer, typically July and August in boreal regions.
-Spore release is timed to coincide with peak water levels in fen systems,
-maximizing dispersal distance through surface water transport.
-
-Spore germination requires continuously moist, mineral-rich substrates.
-Establishment from spores is relatively rare compared to vegetative
-propagation, contributing to the species' clonal population structure and
-limited genetic diversity in isolated fen populations.
-
-## Uses and Significance
-
-Calliergon giganteum is an important indicator species in wetland
-classification and monitoring programs. Its presence reliably indicates
-minerotrophic conditions and base-rich groundwater influence, distinguishing
-rich fens from poor fens and bogs in ecological surveys.
-
-The species contributes significantly to carbon sequestration in boreal
-peatland ecosystems. Its substantial annual biomass production and slow
-decomposition rates result in net carbon accumulation, making C. giganteum
-fens important carbon sinks in the global carbon budget.
-
-In paleoecological research, subfossil remains of C. giganteum in peat cores
-are used to reconstruct past wetland hydrology and vegetation history. The
-species' strong association with calcium-rich conditions provides information
-about past groundwater chemistry.
-
-The moss is sensitive to drainage and peatland exploitation, and its decline
-is used as an indicator of wetland degradation. Conservation efforts targeting
-C. giganteum habitats benefit numerous co-occurring fen plant and animal species
-of conservation concern.
-
-## See Also
-
-- [[sphagnum-palustre]]
-- [[sphagnum-cuspidatum]]
-- [[sphagnum-magellanicum]]
-- [[fontinalis-antipyretica]]
-- [[pleurozium-schreberi]]
-- [[aulacomnium-palustre]]
-- [[hypnum-lacunosum]]
-- [[sphagnum-rubellum]]

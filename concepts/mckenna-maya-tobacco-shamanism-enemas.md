@@ -88,38 +88,3 @@ access to the rich vascular network of the lower intestine.
 ## European Parallels and Misunderstandings
 
 The enema rituals of the Maya can be contextualized by European medical
-practices. In 1661, the Danish physician Thomas Bartholin recommended
-not only tobacco-juice enemas but also tobacco-smoke enemas to his
-patients. An eighteenth-century French physician named Buc'hoz advocated
-"intra-vaginal insufflation of tobacco smoke to cure hysteria."
-
-While these European applications seem eccentric or bizarre from a modern
-perspective, they demonstrate that the administration of psychoactive
-substances via non-oral routes was not unique to Mesoamerican culture.
-The difference lies in the ceremonial and spiritual context: for the
-Maya, the enema was a sacred technology of ecstasy embedded within a
-cosmological framework, while for Europeans it was a medical curiosity.
-
-## The Secularization of Tobacco
-
-When tobacco was introduced to Europe, a remarkable transformation
-occurred. Because of the emphasis on recreational potential and the
-large-scale planting of N. tabacum, the less toxic of the two major
-species, tobacco lost its connotation as a plant of shamanic and
-hallucinogenic power. This was more than a matter of shifts in dosage
-and method of administration.
-
-The native tobaccos used among Amazonian peoples were extremely
-disorienting and barely subtoxic, definitely capable of producing an
-altered state of consciousness. The tobacco-using habit as it evolved in
-Europe was secular and recreational, hence much milder strains were
-commercially successful. The shamanic dimension was entirely lost in
-translation, replaced by a habit of addiction.
-
-## Cacao and the Mayan Sacramental Complex
-
-The Mayan shamanic complex extended beyond tobacco to include cacao
-(Theobroma cacao), which held a major sacramental role in Maya and Aztec
-religion. The Maya used cacao beans as currency, and the Aztec ruler
-Montezuma was said to be seriously addicted to ground cacao, drinking it
-unsweetened in cold [[entheogen-culture]]

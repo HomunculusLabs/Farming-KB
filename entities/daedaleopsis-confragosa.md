@@ -87,27 +87,3 @@ In forest management, the presence of D. confragosa on standing timber indicates
 Like many polyporaceae, D. confragosa produces a range of secondary metabolites. Research has identified several bioactive compounds including triterpenoids, sterols, and phenolic acids isolated from the fruiting body and mycelium.
 
 Extracts of D. confragosa have demonstrated antioxidant activity in vitro, attributed primarily to phenolic compounds and terpenoid constituents.
-
-Antimicrobial activity against Gram-positive bacteria has also been reported in preliminary screening studies.
-
-The species produces [[singh-fungal-laccase-enzymes-bioremediation]] of interest to biotechnology for applications in bioremediation, textile dye decolorization, and biosensor development. The lignin-modifying enzyme system is similar to that of other white-rot polypores but shows distinct pH and temperature optima that may suit certain industrial applications.
-
-## Similar Species
-
-Several polypores resemble D. confragosa and can be confused in the field:
-
-- **Trametes versicolor (turkey tail):** Smaller, more colorful upper surface with distinct concentric zones of multiple colors. Pore surface is always poroid, never daedaleoid, and does not blush pink when bruised.
-
-- **Lenzites betulina (birch mazegill):** Has a gill-like hymenophore rather than pores or maze-like patterns. The gills are clearly lamellate, not labyrinthine.
-
-- **Daedalea quercina (thick-maze polypore):** Much larger and thicker bracket with a more robust maze-like pore pattern. Found primarily on oak. Does not exhibit the blushing reaction.
-
-The blushing reaction is the most reliable field diagnostic for distinguishing D. confragosa from similar species.
-
-## See Also
-
-- [[bjerkandera-adusta]]
-- [[trametes-hirsuta]]
-- [[polyporus-umbellatus]]
-- [[laricifomes-officinalis]]
-- [[stereum-hirsutum]]

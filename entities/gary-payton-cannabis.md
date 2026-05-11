@@ -30,9 +30,9 @@ created: 2026-04-28
 
 ## Overview
 
-Gary Payton is a balanced hybrid cannabis strain bred by Powerzzz Genetics in collaboration with Berner's Cookies brand, released in 2020. Named after the NBA Hall of Fame point guard, the strain rapidly gained acclaim for its potent effects and distinctive "gassy" terpene profile.
+Gary Payton is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Powerzzz Genetics in collaboration with Berner's Cookies brand, released in 2020. Named after the NBA Hall of Fame point guard, the strain rapidly gained acclaim for its potent effects and distinctive "gassy" [[cannabis-terpene-profile]].
 
-The cross combines *The Y* (a select cut of Snowman, itself an *GSC* × *Girl Scout Cookies* descendant) with *GranDaddy Purple* (GDP) male pollen, producing a cultivar that balances cerebral energy with deep physical relaxation.
+The cross combines *The Y* (a select cut of Snowman, itself an *GSC* × *[[girl-scout-cookies]]* descendant) with *GranDaddy Purple* (GDP) male pollen, producing a cultivar that balances cerebral energy with deep physical relaxation.
 
 Gary Payton won first place in the hybrid category at the 2020 Emerald Cup and has remained one of the most sought-after "exotic" strains in the legal market since its debut.
 
@@ -42,7 +42,7 @@ Gary Payton won first place in the hybrid category at the 2020 Emerald Cup and h
 - **Mother:** The Y (Snowman selection — itself Girl Scout Cookies descendant)
 - **Genetic ratio:** Approximately 50/50 indica-sativa, though phenotypic expression varies; some cuts lean slightly indica-dominant.
 - **Breeder:** Powerzzz Genetics (Bay Area, California), released through Cookies brand.
-- **Notable relatives:** Girl Scout Cookies family; shares lineage threads with Sunset Sherbet, Gelato, and Thin Mint Cookies.
+- **Notable relatives:** Girl Scout Cookies family; shares lineage threads with [[sunset-sherbet]], Gelato, and [[thin-mint-cookies]].
 
 ## Appearance
 
@@ -74,7 +74,7 @@ The terpene profile is dominated by terpinolene and caryophyllene, with supporti
 
 ## Cannabinoid Profile
 
-Gary Payton is a high-potency strain consistently testing above average THC content.
+Gary Payton is a high-potency strain consistently testing above average [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]].
 
 - **THC:** 20–28% (most commercially available cuts test 22–25%); some phenotypic selections have tested above 30% THC in competitive grows.
 - **CBD:** <0.1% (negligible).
@@ -88,46 +88,3 @@ The effects profile is characterized by an immediate cerebral rush followed by a
 - **Onset:** Rapid — effects are felt within minutes of inhalation, beginning with a pressure behind the eyes and a lift in mood.
 - **Cerebral effects:** Euphoric, talkative, and slightly psychedelic at higher doses; enhances focus and creative flow without inducing anxiety in experienced users.
 - **Body effects:** Warm, relaxing body stone that develops over 30–45 minutes; may progress to heavy sedation at higher doses or in the evening.
-- **Duration:** 2–3 hours for moderate doses; lingering body effects may persist for an additional hour.
-- **Common applications:** Stress relief, social enhancement, creative work, mild pain management, and appetite stimulation.
-
-## Cultivation
-
-Gary Payton is considered a moderately difficult strain to cultivate, with some phenotypes being sensitive to nutrient levels and environmental stress.
-
-- **Flowering time:** 8–10 weeks indoors; mid-to-late October outdoor harvest.
-- **Indoor yield:** 350–450 g/m² under optimal conditions.
-- **Outdoor yield:** 400–550 g per plant.
-- **Preferred climate:** Warm, Mediterranean climate; performs well in controlled indoor environments.
-- **Nutrient needs:** Moderate-to-heavy feeder during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]; reduce nitrogen in late flowering to prevent nutrient burn and preserve terpene expression.
-- **Training:** Responds well to LST (low-stress training), SCROG, and topping; the strain's natural stretch is moderate during early flowering.
-- **Pest resistance:** Moderate; watch for spider mites and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
-- **Difficulty:** Intermediate — not recommended for absolute beginners due to sensitivity to overfeeding.
-
-## Medical Applications
-
-Gary Payton's balanced cannabinoid-terpene profile makes it suitable for several therapeutic applications.
-
-- **Stress and anxiety:** The uplifting cerebral onset combined with terpinolene's anxiolytic properties provides rapid mood elevation.
-- **[[cannabis-chronic-pain-management]]:** Caryophyllene and myrcene contribute to anti-inflammatory and analgesic effects useful for mild-to-moderate pain.
-- **Fatigue and depression:** Euphoric and energizing qualities at low-to-moderate doses help combat lethargy and low mood.
-- **Appetite stimulation:** Reliable munchies effect from the GSC lineage.
-
-## Side Effects
-
-Common side effects are typical of high-THC hybrid strains but may be more pronounced at higher doses.
-
-- **Common:** Dry mouth, dry eyes, mild paranoia at high doses.
-- **Less common:** Dizziness, anxiety in sensitive individuals, headache from dehydration.
-- **Contraindications:** Not recommended for users with low THC tolerance or those prone to anxiety; may exacerbate symptoms of schizophrenia at high doses.
-
-## See Also
-
-- gary payton cannabis
-
-- [[cannabis-endocannabinoid-system]]
-
-- [[gelato]] — closely related Cookies-family hybrid with similar terpene complexity
-- [[ice-cream-cake-cannabis]] — indica-heavy Cookies descendant with dessert terpenes
-- [[jealousy-cannabis-strain-entity]] — Cookies-family cross with gassy terpene profile
-- [[tree-of-knowledge-and-forbidden-fruit-theory]] — gassy, fruity hybrid sharing terpinolene dominance

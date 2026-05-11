@@ -1,10 +1,11 @@
 ---
-title: query-how-to-make-cannabis-tinctures-at-home
+title: [[cervantes-cannabis-butter-cooking]] Tinctures
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, tincture, alcohol, extraction, medicine]
 ---
@@ -78,7 +79,7 @@ The resulting tincture will be about two cups of cannabis
 tincture concentrate ready to use. You can boil the mixture
 down further to concentrate it more. The tincture will contain
 60 percent or more of the THC from the entire four ounces of
-raw material, making it a very efficient extraction method.
+raw material, making it a very efficient [[lemon-cannabis-alchemy-high-volume-extraction-method]].
 
 ## Usage and Applications
 
@@ -86,43 +87,3 @@ The tincture can be added to recipes in lieu of other liquids
 such as water, wine, or other spirits. It can also be consumed
 directly by placing drops under the tongue (sublingual
 absorption) or adding to beverages.
-
-Be very careful when drinking the tincture; it is potent. The
-effects are similar to eating cannabis but come on in less time
-because sublingual and gastric absorption bypass some of the
-digestive process. Start with small doses and wait to assess
-effects before consuming more.
-
-## Storage and Degradation
-
-Store concentrated tinctures in a cool, dark place to avoid
-early degradation. Heat and light degrade tinctures quickly.
-Use the tincture within one to three months for best quality
-and potency. Dark glass dropper bottles provide ideal storage,
-protecting the tincture from light while allowing precise
-dosing.
-
-## Advantages of Tinctures
-
-- Precise dosing: dropper bottles allow measured doses.
-- Fast absorption: sublingual use takes effect faster than
-  edibles.
-- Discreet: no telltale smell of smoking.
-- Versatile: can be added to food or beverages.
-- Long extraction time produces high cannabinoid retention.
-- No cooking required; simple to prepare at home.
-
-## Historical Context
-
-Cannabis tinctures were widely available as patent medicines
-in the 19th and early 20th centuries. They were prescribed for
-various ailments before prohibition removed cannabis from
-pharmacopeias. Modern medical cannabis programs have
-revitalized interest in tinctures as a precise, smoke-free
-delivery method.
-
-## See Also
-
-- [[cervantes-volatile-solvent-extraction]]
-- [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cannabis-harvesting-and-curing-techniques]]

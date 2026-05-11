@@ -87,16 +87,3 @@ The species requires well-drained, rocky substrates and cool, humid conditions t
 Hardiness is excellent, with the fern surviving temperatures well below -30°C when properly established. Winter wetness is the primary cause of cultivation failure, as waterlogged conditions promote rhizome rot and crown decay.
 
 Propagation is most reliably achieved through spore sowing on a sterile, lime-enriched medium. Division of established clumps is possible but risky due to the brittle nature of the rhizome and the fern's sensitivity to root disturbance.
-
-## See Also
-
-- [[asplenium-trichomanes]]
-- [[adiantum-capillus-veneris]]
-- [[adiantum-pedatum]]
-- woodsia illensis
-- [[polypodium-vulgare]]
-- [[dryopteris-filix-mas]]
-- [[athyrium-filix-femina]]
-- [[pteridium-aquilinum]]
-- [[botrychium-lunaria]]
-- [[equisetum-arvense]]

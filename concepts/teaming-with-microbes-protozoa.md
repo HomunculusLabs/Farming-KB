@@ -85,12 +85,6 @@ implementation and scale up as understanding deepens through [[fukuoka-direct-ob
 Bacterial slime, or biofilm, is a matrix of sugars, proteins, and DNA. It is one of the most important substances produced by soil bacteria, serving multiple critical functions in the [[teaming-with-microbes-bacteria]]
 - teaming with [[teaming-with-microbes-protozoa-and-nematodes]]
 - [[root-exudates]]
-- [[soil-food-web]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
+- [[soil-foodweb]]. Their consumption of bacteria and fungi -- and subsequent release of wastes -- is the primary mechanism by which nutrients are mineralized and made available to plants.
 
 ## Types of Soil Protozoa
-
-Three types of protozoa are found in soil:
-
-- **Amoebae**: The largest type, they move by extending parts of their bodies (pseudopods) and flowing into them. They can consume both bacteria and smaller protozoa.
-- **Ciliates**: Covered with rows of hairs that beat like oars on a Roman galley, propelling the organism to food. These "oars" also create currents that bring bacteria into the ciliate's mouth region. The familiar paramecium is a ciliate.
-- **Flagellates**: The smallest type, having one or two long, whip-like hairs (flagella) that allow them to move about in search of food.

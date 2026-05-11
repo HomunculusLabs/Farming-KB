@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer frost protection techniques Techniques
+title: Holzer [[cervantes-microclimate-frost-protection]] Techniques
 created: 2026-04-26
 tags:
   - frost-protection
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -51,7 +52,7 @@ strategy saves the labour of manual mulching while providing wind
 protection through the tree's canopy.
 
 At the [[holzer-water-landscapes-retention]] moderate
-temperature extremes through their thermal mass:
+temperature extremes through their [[comparison-windbreak-vs-thermal-mass]]:
 - During the day, water warms up and heat is subsequently released at
   night
 - Overall humidity is increased, benefiting plant growth
@@ -65,7 +66,7 @@ vicinity.
 ## Rocks and Stones as Thermal Mass
 
 Incorporating rocks and stones in the landscape is one of the simplest and
-most effective frost protection strategies:
+most effective [[permaculture-frost-protection-strategies]]:
 - Rocks store heat during the day and release it at night
 - A stone feels warm in the evening and cold in the morning
 - Placing frost-sensitive plants between rocks provides significantly
@@ -87,34 +88,3 @@ would otherwise kill them.
 ## Mulch for Ground Insulation
 
 A thick layer of organic mulch protects the ground underneath from freezing:
-- Materials: straw, leaves, or any [[hamilton-composting-and-organic-matter-management]]
-- The mulch layer acts as insulation, preventing heat loss from the soil
-- Ground remains unfrozen even when air temperatures drop well below zero
-- Plants can regrow from roots even if above-ground parts die back
-
-### Natural Mulch from Companion Planting
-
-Rather than manually applying mulch, plant a fruit tree next to
-frost-sensitive plants. The tree's autumn leaf fall creates natural mulch,
-eliminating the need for human intervention while providing the same
-insulating benefit.
-
-## The Crater Garden as Frost Protection
-
-[[holzer-pond-construction-and-aquaculture]]
-   for thermal mass
-3. **Stone placement:** Distribute rocks strategically throughout growing
-   areas
-4. **[[cervantes-wind-protection-outdoor-cannabis]]:** Use [[holzer-intercropping-by-height-suntraps]] to shelter shorter, sensitive ones
-6. **Mulch:** Maintain organic [[fukuoka-citrus-orchard-ground-cover-cultivation]] through plants or manual
-   application
-7. **Suntrap orientation:** Position frost-sensitive plants away from
-   eastern exposure to avoid rapid morning warming
-
-## Growing Lemons in the Alps
-
-Holzer's achievement of growing lemons at 1,100 to 1,500 metres altitude
-in the Austrian Alps demonstrates the cumulative effect of these
-techniques. By combining water bodies, rock placement, mulch, wind
-protection, and careful [[fukuoka-creating-natural-farm-site-selection-establishment]], plants from Mediterranean and
-even tropical climates can be grown in extremely challenging conditions.

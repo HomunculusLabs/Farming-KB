@@ -9,13 +9,13 @@ created: 2026-05-08
 
 ## Overview
 
-In *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Uwe Blesching catalogs the synthetic cannabinoids developed as research tools and pharmaceutical agents that target the CB1 and CB2 cannabinoid receptors. These compounds have been essential for mapping the endocannabinoid system and developing medical treatments. Unlike plant-derived cannabinoids, synthetic compounds can be designed for receptor specificity, allowing researchers to isolate the effects of CB1 activation from CB2 activation and vice versa.
+In *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Uwe Blesching catalogs the [[blesching-cannabis-synthetic-cannabinoids]] developed as research tools and pharmaceutical agents that target the CB1 and CB2 [[cannabinoid-receptors-cb1-and-cb2]]. These compounds have been essential for mapping the endocannabinoid system and developing medical treatments. Unlike plant-derived cannabinoids, synthetic compounds can be designed for receptor specificity, allowing researchers to isolate the effects of CB1 activation from CB2 activation and vice versa.
 
 ## Receptor Binding Model
 
 The cannabinoid receptor system operates on a lock-and-key model. Cannabinoid receptors (the "locks") are embedded in cell membranes throughout the body, and cannabinoids (the "keys") bind to these receptors to activate or block cellular signaling. The two primary receptor types are:
 
-- **CB1 receptors**: Concentrated in the central nervous system (brain and spinal cord), but also found in peripheral tissues including the adrenal glands, heart, and reproductive organs. CB1 activation is primarily responsible for the psychoactive effects of cannabis.
+- **CB1 receptors**: Concentrated in the central nervous system (brain and spinal cord), but also found in peripheral tissues including the [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]], heart, and reproductive organs. CB1 activation is primarily responsible for the psychoactive effects of cannabis.
 - **CB2 receptors**: Concentrated in the immune system, particularly in the spleen, tonsils, and immune cells. CB2 activation is primarily associated with anti-inflammatory and immunomodulatory effects.
 
 Synthetic cannabinoids can be designed as agonists (activating the receptor) or antagonists (blocking the receptor), and can be targeted preferentially to CB1 or CB2.
@@ -32,7 +32,7 @@ HU-210 is a synthetic cannabinoid that binds **primarily to CB1 receptors**, wit
 
 - Neuroprotection
 - Pain modulation
-- Appetite stimulation
+- [[cannabis-for-cachexia-and-appetite-stimulation]]
 - [[plant-memory-and-learning-mechanisms]] effects
 - Psychoactive effects
 
@@ -47,7 +47,7 @@ WIN 55,212-2 (often abbreviated as WIN-2) is described by Blesching as "a potent
 - Immune function
 - Neuroprotection
 
-WIN 55,212-2 has been a standard research tool in cannabinoid pharmacology for decades and has contributed significantly to the understanding of how cannabinoid receptor activation affects various physiological systems.
+WIN 55,212-2 has been a standard research tool in [[blesching-cannabinoid-pharmacology]] for decades and has contributed significantly to the understanding of how cannabinoid receptor activation affects various physiological systems.
 
 ## CB1 Antagonists
 
@@ -67,7 +67,7 @@ GW-405,833 is described by Blesching as a synthetic cannabinoid that binds **pri
 
 CB2-selective agonists like GW-405,833 are of particular interest for treating:
 
-- Inflammatory conditions
+- [[cannabis-for-inflammatory-conditions]]
 - Autoimmune diseases
 - Pain (especially inflammatory and neuropathic pain)
 - Neurodegenerative conditions involving neuroinflammation
@@ -87,48 +87,3 @@ SR144528 is a synthetic cannabinoid that **blocks both CB1 and CB2 receptors but
 - Confirm that observed effects are mediated through CB2 receptors (by showing that they are blocked by SR144528)
 - Study the physiological role of CB2 receptor activation in various disease models
 - Investigate the immune-system functions of the endocannabinoid system
-
-## FDA-Approved Synthetic Cannabinoid Pharmaceuticals
-
-### Dronabinol (Marinol)
-
-Dronabinol is a synthetic form of THC approved by the FDA for:
-
-- Treatment of AIDS-related anorexia/cachexia (appetite stimulation and weight maintenance)
-- Treatment of nausea and vomiting secondary to chemotherapy
-
-Dronabinol is a pure THC preparation that activates both CB1 and CB2 receptors. However, unlike whole-plant cannabis, it contains none of the other biologically active components (CBD, other cannabinoids, terpenes) that may contribute to therapeutic effects through the [[cannabis-terpene-entourage-effect-profiles]].
-
-### Nabilone (Cesamet)
-
-Nabilone is a synthetic cannabinoid structurally related to THC, approved by the FDA for treatment of chemotherapy-induced nausea and vomiting that has not responded to conventional antiemetics. Like dronabinol, it is a single-molecule preparation that does not include the full spectrum of cannabis constituents.
-
-### Sativex
-
-Sativex is distinct from other synthetic cannabinoid pharmaceuticals in that it is essentially a **plant-derived tincture** containing approximately equal parts THC and CBD, delivered as an oral spray. Developed by GW Pharmaceuticals, Sativex represents a whole-plant approach to pharmaceutical cannabinoid therapy that preserves some of the synergistic effects of multiple cannabis constituents.
-
-Sativex is approved in numerous countries (though not in the [[dmt-containing-plants-united-states-halpern]] as of Blesching's writing) for:
-
-- Spasticity associated with multiple sclerosis
-- Neuropathic pain
-- Cancer pain
-
-## Research Significance
-
-The development of receptor-selective synthetic cannabinoids has been essential for understanding the endocannabinoid system:
-
-- **Mapping receptor function**: By using selective agonists and antagonists, researchers have been able to determine which effects are mediated by CB1 versus CB2 receptors
-- **Validating therapeutic targets**: Synthetic compounds have helped confirm that specific cannabinoid receptors are viable targets for treating particular diseases
-- **Understanding endogenous function**: Antagonists like rimonabant revealed the importance of tonic endocannabinoid signaling for mood regulation
-- **Drug development**: The synthetic cannabinoid research program has directly led to approved pharmaceuticals and continues to inform the development of new therapeutic agents
-
-## Limitations of Single-Molecule Approaches
-
-Blesching notes a significant limitation of pharmaceutical cannabinoid preparations: with the exception of Sativex, FDA-approved cannabinoid drugs do not contain the other biologically active components of cannabis that may play important therapeutic roles. This observation supports the entourage effect hypothesis, which suggests that the therapeutic effects of cannabis are mediated by the synergistic interaction of multiple plant compounds rather than by any single cannabinoid acting alone.
-
-## See Also
-
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[blesching-cannabis-four-prime-cannabinoids]]
-- [[cannabis-health-ptsd]]
-- [[blesching-cannabis-health-index-mental-health-applications]]

@@ -87,26 +87,3 @@ Optimal cultivation requires moist, well-draining substrate, indirect light, and
 In cultivation, mats may expand 3 to 8 cm per year under ideal conditions. The species benefits from regular misting and protection from direct sunlight, which can cause bleaching and desiccation of the delicate branchlets.
 
 ## Uses and Significance
-
-In ecological research, Thuidium delicatulum serves as a model organism for studying pleurocarpous moss branching architecture and its functional consequences for water retention and gas exchange.
-
-The species has been investigated for its ability to accumulate atmospheric [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly lead and cadmium, making it a candidate for passive biomonitoring of [[cervantes-air-quality-ventilation]] in urban and industrial environments.
-
-Traditional uses include employment as bedding material and wound dressing by indigenous peoples of eastern North America. However, these applications were secondary to the more absorbent Sphagnum species.
-
-The genus name Thuidium is derived from the Greek name for a kind of moss, possibly related to Thuja (cedar), referring to the cedar-like appearance of some colonies. The specific epithet delicatulum means delicate, referencing the fine, feathery branching pattern.
-
-## See Also
-
-- [[thuidium-tamariscinum]]
-
-- [[hypnum-cupressiforme]]
-- [[dicranum-scoparium]]
-- [[bryum-argenteum]]
-- [[sphagnum-palustre]]
-- [[pinus-sylvestris]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[pteridium-aquilinum]]
-- [[dryopteris-filix-mas]]
-- [[picea-abies]]

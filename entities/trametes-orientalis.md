@@ -88,27 +88,3 @@ Submerged liquid fermentation for enzyme production uses defined or semi-defined
 Strain improvement through mutagenesis (UV, gamma irradiation) and protoplast fusion has produced high-yielding variants with 2–4 fold increased laccase production compared to wild-type isolates. [[fukuoka-textdoc-genetic-engineering-critique-warning]] approaches using heterologous expression of laccase genes in yeast and bacterial systems have also been explored.
 
 ## Comparison with Related Species
-
-Trametes orientalis is frequently confused with T. versicolor in the field but can be distinguished by several features. T. orientalis typically forms larger, more robust basidiocarps with thicker context (up to 1 cm vs. 1–3 mm in T. versicolor) and has a more restricted tropical and subtropical distribution.
-
-Compared to T. hirsuta, T. orientalis has a distinctly zonate upper surface with more colorful bands, while T. hirsuta tends toward a uniformly gray-brown tomentum. Microscopically, T. orientalis has slightly larger spores (5–7 μm vs. 4–6 μm in T. hirsuta).
-
-Trametes trogii, another close relative, produces considerably larger spores (7–10 μm) and typically grows on coniferous wood in temperate regions, whereas T. orientalis is confined to hardwoods in warmer climates.
-
-## Conservation Status
-
-Trametes orientalis is not currently listed as threatened or endangered, though quantitative population data are limited. The species is widespread across its range and appears tolerant of moderate habitat disturbance, persisting in secondary forests and degraded woodlands.
-
-However, loss of old-growth tropical hardwood forests through logging and land conversion reduces the availability of suitable deadwood substrate. In heavily deforested regions of Southeast Asia, observations of T. orientalis and other saprotrophic polypores have declined correspondingly. The species benefits from deadwood retention practices in managed forests and forest reserves.
-
-Climate change may affect distribution patterns, as the species is adapted to warm, humid conditions. Range shifts toward higher elevations and latitudes have been predicted for tropical polypore communities under warming scenarios.
-
-## See Also
-
-- [[trametes-hirsuta]]
-- [[coriolopsis-gallica]]
-- [[daedaleopsis-confragosa]]
-- [[gloeophyllum-trabeum]]
-- [[schizophyllum-commune]]
-- [[sanghuangporus-vaninii]]
-- [[bjerkandera-adusta]]

@@ -14,7 +14,7 @@ sources:
 
 ### VAM Fungi in Petroleum-Contaminated Soils
 
-Vesicular-arbuscular mycorrhizal (VAM) fungi occur in both petroleum-polluted and nonpolluted soils, but contamination significantly alters colonization patterns:
+Vesicular-arbuscular mycorrhizal (VAM) fungi occur in both petroleum-polluted and nonpolluted soils, but contamination significantly alters [[arbuscular-mycorrhizal-colonization-patterns]]:
 
 - **Lower colonization in polluted soils**: Nonpolluted soils display higher percentages of colonization, higher arbuscule-to-vesicle ratios, and more entry points
 
@@ -24,7 +24,7 @@ Vesicular-arbuscular mycorrhizal (VAM) fungi occur in both petroleum-polluted an
 
 - **Resilient infectivity**: VAM infective propagules from contaminated soils retain high colonization capacity
 
-Species identified from both contaminated and uncontaminated soils include Glomus aggregatum and G. mosseae. These fungi associate with Cynodon dactylon, Solidago sp., Dactylis glomerata, Bromus brevis, and Melilotus sp.
+Species identified from both contaminated and uncontaminated soils include Glomus aggregatum and G. mosseae. These fungi associate with [[cynodon-dactylon]], Solidago sp., [[dactylis-glomerata]], Bromus brevis, and Melilotus sp.
 
 ### ECM Fungi and Crude Oil
 
@@ -32,7 +32,7 @@ Ectomycorrhizal (ECM) fungi show variable responses to oil contamination:
 
 - **Extensive colonization**: Spruce plants sown at time of contamination show 90% mycorrhizal root tips
 
-- **Species-specific responses**: Six morphotypes identified in contaminated soils; oil addition alters community structure, inhibiting some morphotypes while stimulating others. Some morphotypes appear only at highest oil concentrations
+- **Species-specific responses**: Six morphotypes identified in contaminated soils; oil addition alters [[edaphic-determinants-cannabis-microbiome-community-structure]], inhibiting some morphotypes while stimulating others. Some morphotypes appear only at highest oil concentrations
 
 - **Key ECM genera**: Amanita, Cenococcum, Hebeloma, Tricholoma, Pisolithus, Laccaria, and Paxillus
 
@@ -42,7 +42,7 @@ Several ECM associations demonstrate remarkable tolerance:
 
 - **Pinus sylvestris-Suillus bovinus**: Unaffected by 2% (w/v) toluene
 
-- **P. sylvestris-S. bovinus/Paxillus involutus**: No adverse impacts from petroleum hydrocarbons
+- **P. sylvestris-S. bovinus/[[paxillus-involutus]]**: No adverse impacts from petroleum hydrocarbons
 
 - **Populus nigra-Picea abies**: Multiple ECM species maintain colonization despite crude oil contamination
 
@@ -58,7 +58,7 @@ Mycorrhizal fungi establish degradative consortia in the root zone of contaminat
 
 ## Long-Term Environmental Consequences
 
-Long-term environmental consequences of oil spills in agricultural and forest areas are less severe than in coastal ecosystems, likely because:
+Long-term environmental consequences of oil spills in agricultural and forest areas are less severe than in [[dighton-fungi-mangrove-coastal-ecosystems]], likely because:
 - Soil fungi and bacteria catalyze bioremediation processes
 - Certain ECM fungi survive and utilize crude oil as a nutrient
 - Soil [[hamilton-composting-and-organic-matter-management]] provides co-substrates for co-metabolic degradation
@@ -88,9 +88,3 @@ Key areas requiring further investigation:
 
 - mycoremediation-of-petroleum-hydrocarbons
 - fungal-bioremediation
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- fungal-nitrogen-deposition-fungal-community-responses
-- [[mycorrhiza-soil-bioremediation]]
-- [[populus-nigra]]
-- [[ectomycorrhiza]]
-- [[pinus-sylvestris]]

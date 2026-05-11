@@ -87,34 +87,3 @@ The berries of Gaylussacia ursina are edible and have been gathered traditionall
 [[halpern-sacramental-peyote-and-native-american-church]] tribes within the species' range likely used the berries as a food source, though specific ethnobotanical records for G. ursina are sparse. The closely related Gaylussacia baccata (black huckleberry) was widely used by eastern tribes for food and medicine, and it is probable that G. ursina was used similarly where it occurred.
 
 Traditional Appalachian harvesters distinguished huckleberries from blueberries by the presence of stone cells and the darker, shinier seeds. The berries were often combined with other wild fruits in preserves or dried for winter use. Commercial harvesting has never been significant due to the species' restricted range and the difficulty of accessing high-elevation populations.
-
-The species has limited ornamental value but has been grown by native plant enthusiasts for its attractive foliage, pinkish urn-shaped flowers, and showy dark berries. It is not widely available in the nursery trade. The compact size and tolerance of poor, acidic soils make it potentially useful for rock gardens and native plantings in appropriate climates.
-
-Propagation is most successful from seed, which requires cold stratification for 60–90 days before germination. Softwood cuttings taken in early summer can also be rooted under mist, though success rates are generally lower than for Vaccinium species. Cultivation requires acidic soil (pH 4.0–5.5) and good drainage, conditions that can be difficult to maintain outside of its native montane range.
-
-## Conservation Status
-
-Gaylussacia ursina is classified as globally secure (G5) by NatureServe, though it is considered vulnerable or imperiled in several states at the edges of its range. In Virginia, the species is listed as imperiled (S2), reflecting its restricted distribution and small population sizes in the northern portion of its range. Alabama populations are also considered vulnerable.
-
-The species is not listed under the U.S. Endangered Species Act, but several state-level protections apply to populations occurring on public land. The North Carolina Natural Heritage Program tracks occurrences of G. ursina as a significant natural heritage element, particularly for populations outside of protected conservation areas.
-
-The primary threat to G. ursina is habitat loss and degradation from residential and commercial development in the southern Appalachians. [[dighton-fungi-climate-change-feedback]] poses a longer-term threat, as warming temperatures may reduce the extent of suitable high-elevation habitat and fragment remaining populations. Air pollution, particularly acid deposition, may also affect the acidic soil conditions the species requires.
-
-Logging and road construction in national forests can alter the hydrology and light conditions of G. ursina habitats, favoring competing species that are more tolerant of disturbed conditions. The species' restricted elevational range makes it particularly susceptible to upslope shifts in vegetation zones that could squeeze available habitat between expanding lower-elevation forests and the mountaintop.
-
-Invasive plant species, including garlic mustard (Alliaria petiolata) and Japanese stiltgrass (Microstegium vimineum), pose localized threats by competing with G. ursina in forest openings and edge habitats. Several populations occur within protected areas, including national forests and state parks, which provides some degree of conservation protection.
-
-Recreational overuse of popular hiking areas in the southern Appalachians can trample G. ursina plants, particularly along trails and on mountain balds where populations are concentrated. Climate models predict that suitable habitat for montane Ericaceae in the southern Appalachians will contract significantly by 2100, potentially isolating populations on mountaintop refugia. Long-term monitoring programs are needed to track population trends and assess the effectiveness of conservation interventions.
-
-## See Also
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-vitis-idaea]]
-- [[gaultheria-procumbens]]
-- [[kalmia-latifolia]]
-- [[rhododendron-maximum]]
-- [[gaylussacia-baccata]]
-- [[oxydendrum-arboreum]]
-- [[ericoid-mycorrhiza]]

@@ -13,9 +13,9 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
-  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New Psychoactive Substances. Springer.
+  - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New [[cultural-evolution-and-psychoactive-substances]]. Springer.
   - Brandt, S.D., et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis, 8(9), 891–900.
-  - Passie, T., et al. (2008). "The pharmacology of lysergic acid diethylamide." CNS Neuroscience & Therapeutics, 14(4), 295–314.
+  - Passie, T., et al. (2008). "The pharmacology of [[lsd-d-lysergic-acid-diethylamide]]." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.
 ---
 
@@ -25,9 +25,9 @@ sources:
 
 It belongs to the nor-lysergamide family, characterized by substitution at the 6-position of the lysergic acid ring system with an alkyl group.
 
-Eth-LAD was first synthesized in the late 1940s by Albert Hofmann during systematic investigations of lysergamide structure-activity relationships.
+Eth-LAD was first synthesized in the late 1940s by [[albert-hofmann]] during systematic investigations of lysergamide structure-activity relationships.
 
-The compound has gained attention as a novel psychoactive substance (NPS) in the 2010s, appearing in online research chemical markets as a legal alternative to LSD.
+The compound has gained attention as a novel psychoactive substance (NPS) in the 2010s, appearing in online research chemical markets as a [[amanita-muscaria-legal-alternative]] to LSD.
 
 ## Chemical Properties
 
@@ -87,44 +87,3 @@ Total duration is approximately 8–12 hours, with a gradual comedown period of 
 The compound is active at remarkably low doses consistent with the high potency typical of the lysergamide class.
 
 Tolerance develops rapidly and cross-tolerance with LSD and other 5-HT2A agonists is complete, persisting for 5–7 days.
-
-## Synthesis
-
-Eth-LAD is synthesized from lysergic acid or its derivatives through N-alkylation and 6-position functionalization.
-
-The original Hofmann route involves reaction of lysergic acid with diethylamine to form lysergamide, followed by 6-ethylation.
-
-Modern clandestine synthesis typically starts from ergotamine or other naturally occurring ergopeptines, which are hydrolyzed and chemically modified.
-
-Purification requires column chromatography and careful handling to avoid degradation of the sensitive indole ring system.
-
-Analytical characterization by LC-MS, GC-MS, and NMR spectroscopy is necessary to confirm identity and purity.
-
-## Legal Status
-
-Eth-LAD is controlled as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]] under the Federal Analog Act, as it is substantially similar to LSD.
-
-The European Union added Eth-LAD to its list of drug precursors and scheduled substances in 2021.
-
-Several countries including the UK, Germany, Switzerland, and Japan have explicitly scheduled Eth-LAD or its positional isomers.
-
-Despite scheduling, the compound continues to appear on the NPS market, often sold as blotters resembling LSD distribution format.
-
-## See Also
-
-- ergoline
-- [[psychedelic-substances-comparison]]
-- [[pihkal-introduction-and-methodology]]
-
-- [[1p-lsd|1p-lsd]]
-- [[lsd|lsd]]
-- [[dmt|dmt]]
-- [[psilocin-and-psilocybin-chemistry|psilocin-and-psilocybin-chemistry]]
-- [[ergine-entity|ergine]]
-- [[1b-lsd|1b-lsd]]
-- [[ald-52|ald-52]]
-- [[2c-b|2c-b]]
-- doi
-- [[lysergic-acid-diethylamide]]
-- [[lysergic-acid]]
-- [[albert-hofmann]]

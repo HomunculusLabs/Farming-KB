@@ -6,13 +6,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Fusarium and Vascular Wilt Diseases in Cannabis
 
 Vascular wilt diseases are among the most destructive fungal
-infections in [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes describes three
+infections in [[query-how-does-no-till-cannabis-cultivation-work]]. [[jorge-cervantes]] describes three
 major wilt pathogens -- Fusarium, Verticillium, and Pythium -- that
 invade the plant's internal fluid transport system (xylem), blocking
 water and nutrient flow and causing rapid wilting and plant death.
@@ -41,7 +42,7 @@ reddish-brown discoloration in the xylem tissue.
 
 ### Control and Prevention
 
-- Use fresh, clean growing medium with each crop
+- Use fresh, clean [[cervantes-green-algae-growing-medium]] with each crop
 - Avoid nitrogen over-fertilization, which makes plants more
   susceptible
 - Keep nutrient solution below 75 degrees F (24 degrees C)
@@ -77,58 +78,13 @@ fungus has blocked fluid transport.
   which is less favorable to Verticillium
 - Do not over-fertilize
 - Biological controls: Bio-Fungus (Trichoderma species) and
-  Rhizo-Plus (Bacillus subtilis)
+  Rhizo-Plus ([[bacillus-subtilis]])
 - No chemical spray is effective against Verticillium wilt
 
 ## Pythium Wilt (Root Rot)
 
 Pythium is primarily a root rot pathogen but causes wilt symptoms as
 roots lose their ability to absorb water. It is one of the most
-common diseases in hydroponic cannabis gardens. Pythium thrives in
+common diseases in [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] gardens. Pythium thrives in
 stagnant, warm water with low [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]. Seedlings and clones
 are especially vulnerable.
-
-### Symptoms
-
-Roots turn from white to light brown, progressing to dark brown as
-the rot advances. Leaf chlorosis is followed by wilting of older
-leaves across the entire plant, and growth slows. When severe, rot
-progresses up the base of the plant stem, turning it dark. Roots
-standing in un-aerated water are most at risk. Soil pests that cut,
-suck, and chew roots create openings for Pythium to enter.
-
-### Control and Prevention
-
-- Use fresh, sterile growing medium
-- Ensure calcium levels are adequate
-- Do not over-fertilize with nitrogen
-- Keep pH above 6.5 in soil and about 6.0 in hydroponic mediums
-- Control root-feeding insects that create entry wounds
-- Ensure adequate dissolved oxygen in all water and nutrient
-  solutions
-- Biological controls: RootShield, Binab Bio-Fungus, Supresiv,
-  Trichopel (Trichoderma harzianum), and SoilGuard (Trichoderma
-  virens)
-
-## General Wilt Disease Prevention
-
-Cervantes emphasizes cleanliness as the first line of defense
-against all vascular wilt diseases:
-
-- Never reuse growing medium from a previous crop
-- Sterilize all equipment, reservoirs, and plumbing between crops
-- Maintain proper temperature in nutrient solutions (below 75
-  degrees F)
-- Monitor root health regularly with a 10X magnifying glass
-- Ensure adequate dissolved oxygen in all water systems
-- Avoid creating conditions of root stress that invite pathogen
-  entry
-- Remove and destroy any plant showing wilt symptoms immediately
-
-## See Also
-
-- [[cervantes-wilting-plant-water-stress]] - non-disease causes of
-  wilting
-- [[cervantes-hydroponic-systems]] - system design and disease risk
-- [[cervantes-trichoderma-beneficial-fungi]] - biological disease
-  control

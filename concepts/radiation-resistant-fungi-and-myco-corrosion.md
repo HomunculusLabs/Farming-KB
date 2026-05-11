@@ -17,10 +17,10 @@ type: concept
 # Radiation-Resistant Fungi and Myco-Corrosion
 
 Certain fungi demonstrate remarkable tolerance to ionizing radiation and
-radioactive contamination, colonizing environments that would be lethal to
+[[radioactive-contamination-and-fungi]], colonizing environments that would be lethal to
 most organisms. This [[bacillus-pumilus-radiation-resistance-surface-decontamination]] has important implications for
-nuclear waste management, bioremediation of contaminated sites, and
-understanding the limits of fungal survival in extreme environments.
+[[gadd-fungal-concrete-biodegradation-nuclear-waste-concerns]] management, bioremediation of contaminated sites, and
+understanding the limits of fungal survival [[fungal-biodiversity-in-extreme-environments]].
 
 ## Fungal Colonization of Radioactive Environments
 
@@ -60,8 +60,8 @@ in bioweathering of natural rocks:
 An experimental study of the effect of microfungi on barrier concrete showed
 that fungi were able to colonize and corrode the surface of concrete,
 selectively avoiding areas filled with granite aggregate. Species including
-Aspergillus niger have been demonstrated to deteriorate cracked concrete
-surfaces over periods as long as two years under experimental conditions.
+[[aspergillus-niger]] have been demonstrated to deteriorate cracked concrete
+surfaces over periods as long as two years under [[darwin-five-seedling-phototropism-experimental-conditions]].
 
 ## Implications for Nuclear Waste Storage
 
@@ -80,7 +80,7 @@ and deterioration.
 
 ## Metal Transformations in Radioactive Contexts
 
-The ability of fungi to transform toxic metals and metalloids has potential
+The ability of fungi to transform toxic [[staycare-fungal-biomethylation-of-metals-and-metalloids]] has potential
 relevance for treatment of contaminated land and substrates in radioactive
 environments. Fungi with Cr(VI)-reducing activity may be useful for treatment
 of chromium-polluted soils, and similar mechanisms could potentially be
@@ -88,34 +88,3 @@ applied to radioactive isotopes.
 
 Fungi can also oxidize manganese and iron in metal-bearing minerals such as
 siderite (FeCO3) and rhodochrosite (MnCO3), precipitating them as oxides.
-This capability could influence the mobility and bioavailability of
-radionuclides that form complexes with iron and manganese oxides.
-
-## Oxidized Metal Layers and Desert Varnish
-
-An oxidized metal layer (patina) a few millimetres thick found on rocks and
-in soils of arid and semi-arid regions, called desert varnish, is believed
-to be of microbial origin with proposed fungal involvement. Fungi can oxidize
-manganese and iron in metal-bearing minerals and precipitate them as oxides,
-and also form dark Fe(II)- and Mn(II)- patinas on glass surfaces. These
-processes demonstrate the broader capacity of fungi to influence mineral
-transformations even in environments exposed to intense solar radiation.
-
-## Fungal Tolerance Mechanisms
-
-Fungi employ several strategies for surviving radiation and other extreme
-conditions:
-
-- **Melanin pigmentation** absorbs radiation and scavenges free radicals
-- **DNA repair mechanisms** enable recovery from radiation-induced damage
-- **Antioxidant systems** including enzymes and metabolites that neutralize
-  reactive oxygen species
-- **Protective [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] structures** with mycosporines and thickened walls
-- **Mucilaginous extracellular polysaccharides** that may provide physical
-  shielding and microenvironment buffering
-
-## See Also
-
-- [[gadd-fungal-extremophiles]]
-- [[fungal-mineral-transformations-biogeochemistry]]
-- [[mycogenic-mineral-precipitation]]

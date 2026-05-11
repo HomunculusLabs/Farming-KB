@@ -22,7 +22,7 @@ sources:
 
 **Coronaridine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] belonging to the iboga family of monoterpene indole alkaloids, structurally related to ibogaine and voacangine.
 
-It occurs naturally in several Apocynaceae plant species, most notably *Tabernanthe iboga*, *Voacanga africana*, and *Tabernaemontana divaricata*.
+It occurs naturally in several Apocynaceae plant species, most notably *[[plants-of-the-gods-tabernanthe-iboga]]*, *[[voacanga-africana]]*, and *[[tabernaemontana-divaricata]]*.
 
 Coronaridine has attracted pharmacological interest primarily for its relationship to ibogaine, sharing portions of its molecular scaffold while exhibiting a distinct [[tihkal-receptor-binding-serotonin]] profile.
 
@@ -50,7 +50,7 @@ Coronaridine's pharmacological profile has been less thoroughly characterized th
 
 ### Serotonergic Activity
 
-Coronaridine shows affinity for serotonin receptors, particularly the 5-HT₂A and 5-HT₂C subtypes, though with lower potency than ibogaine.
+Coronaridine shows affinity for [[psilocybin-pharmacology-and-serotonin-receptors]], particularly the 5-HT₂A and 5-HT₂C subtypes, though with lower potency than ibogaine.
 
 It also interacts with the serotonin transporter (SERT), acting as a moderate reuptake inhibitor, which may contribute to antidepressant-like effects observed in animal models.
 
@@ -58,7 +58,7 @@ The compound's serotonergic activity is believed to underlie its putative anti-a
 
 ### Opioid Receptor Interactions
 
-Unlike ibogaine, which has well-documented affinity for mu and kappa opioid receptors, coronaridine shows relatively weak binding to opioid receptor subtypes.
+Unlike ibogaine, which has well-documented affinity for mu and [[salvinorin-a-kappa-opioid-receptor-pharmacology]] receptors, coronaridine shows relatively weak binding to opioid receptor subtypes.
 
 This reduced opioid activity may be advantageous in therapeutic contexts, as it potentially avoids the cardiac risk profile associated with ibogaine's interaction with hERG potassium channels.
 
@@ -87,39 +87,3 @@ The pathway proceeds through strictosidine, cathenamine, and tabersonine interme
 From coronaridine, enzymatic transformations lead to voacangine and ultimately to ibogaine, the most pharmacologically prominent member of the family.
 
 The shared biosynthetic origin explains the structural similarities among iboga alkaloids and their overlapping but distinct pharmacological activities.
-
-## Ethnobotanical Context
-
-While coronaridine itself is not the primary psychoactive constituent of *T. iboga* preparations used in Bwiti spiritual ceremonies, it is present in the complex alkaloid mixture consumed.
-
-Iboga root bark preparations used in traditional contexts contain a spectrum of iboga alkaloids including ibogaine, ibogamine, tabernanthine, voacangine, and coronaridine.
-
-The [[cannabis-terpene-entourage-effect-profiles]] of this alkaloid mixture may contribute to the overall pharmacological experience, which differs from isolated ibogaine administration.
-
-In African traditional medicine, *Voacanga africana* bark extracts containing coronaridine have been used as a stimulant, aphrodisiac, and treatment for various ailments including jaundice and epilepsy.
-
-## Legal Status
-
-Coronaridine is not specifically scheduled in most jurisdictions, unlike ibogaine which is controlled in several countries including the [[dmt-containing-plants-united-states-halpern]] (Schedule I) and Belgium.
-
-However, because coronaridine is a natural constituent of *Tabernanthe iboga* root bark, its legal status may be indirectly affected by laws controlling iboga or ibogaine-containing preparations.
-
-In research contexts, coronaridine is typically available as a reference standard from chemical suppliers, with fewer regulatory barriers than ibogaine itself.
-
-## Research Potential
-
-Coronaridine has been proposed as a potentially safer structural analog of ibogaine for anti-addiction therapy development.
-
-Its reduced opioid receptor affinity and expected lower cardiotoxicity risk make it an attractive scaffold for medicinal chemistry optimization efforts.
-
-Several synthetic derivatives of coronaridine have been prepared, including 18-methoxycoronaridine (18-MC), which has shown promising anti-addictive effects in animal models of cocaine, morphine, and nicotine dependence.
-
-18-MC acts primarily as an alpha-3-beta-4 nicotinic receptor antagonist, a mechanism distinct from ibogaine, suggesting that coronaridine derivatives may achieve anti-addictive efficacy through novel pathways.
-
-## See Also
-
-- [[noribogaine-entity]]
-- [[tabernanthe-iboga]]
-- [[harmine]]
-- [[psilocybin]]
-- tabernanthine

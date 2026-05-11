@@ -87,12 +87,3 @@ The cap of *M. elata* is conical to broadly conical, 3–10 cm tall and 2–5 cm
 ## Cultivation
 
 [[cannabis-sativa-indoor-cultivation-techniques]] of morels remains one of the most challenging goals in mycology. While yellow [[cotter-morel-cultivation-research]] has been achieved commercially (particularly in China), black morel cultivation is still experimental. *M. importuna* and related *Elata* clade species are now commercially cultivated in China using substrate bags with specific nutrient and environmental protocols. Key challenges include incomplete understanding of fruiting triggers and the complex life cycle involving [[growing-gourmet-sclerotia-formation-biology-mushrooms]] and a presumed mycorrhizal phase.
-
-## Conservation and Ethical Foraging
-
-Cut morels at the base rather than pulling; leave smaller specimens to ensure [[morchella-angusticeps]]
-- [[morchella-esculenta]]
-
-## See Also
-
-- [[gastrodia-elata]]

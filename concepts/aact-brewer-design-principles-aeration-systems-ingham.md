@@ -2,16 +2,16 @@
 
 ## Overview
 
-The design and engineering of compost tea brewing equipment directly determines the quality and consistency of Actively Aerated Compost Tea (AACT). Dr. Elaine Ingham's field guide contains extensive correspondence about brewer design principles, aeration system requirements, and the mechanical factors that separate successful brewing systems from those that produce poor-quality or anaerobic tea. This page covers the essential design considerations for AACT brewing equipment, including tank geometry, aeration systems, bubble diffuser types, and common design pitfalls.
+The design and engineering of compost [[compost-tea-brewing-equipment-ingham]] directly determines the quality and consistency of [[actively-aerated-compost-tea]] Tea (AACT). Dr. [[elaine-ingham]]'s [[field-guide-psilocybin-bluing-reaction-identification]] contains extensive correspondence about brewer design principles, aeration system requirements, and the mechanical factors that separate successful brewing systems from those that produce poor-quality or [[aact-fermentative-and-anaerobic-tea-types-ingham]]. This page covers the essential [[mycoremediation-bioreactor-design-considerations]] for AACT [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]], including tank geometry, aeration systems, bubble diffuser types, and common design pitfalls.
 
 ## Core Design Philosophy
 
-The fundamental purpose of an AACT brewer is to maintain aerobic conditions while extracting and multiplying beneficial microorganisms from compost. Every design decision should serve this primary goal. Ingham emphasizes that the brewer is essentially a biological incubator, not a mixing machine. The engineering requirements follow directly from the biological needs of the organisms being cultivated.
+The fundamental purpose of an AACT brewer is to maintain aerobic conditions while extracting and multiplying [[forest-and-bamboo-beneficial-microorganisms]] from compost. Every design decision should serve this primary goal. Ingham emphasizes that the brewer is essentially a biological incubator, not a mixing machine. The engineering requirements follow directly from the biological needs of the organisms being cultivated.
 
 A successful AACT brewer must accomplish three things simultaneously:
 
-1. Maintain dissolved oxygen levels above 6.0 mg/L throughout the entire brew cycle
-2. Keep compost particles in suspension without damaging fungal hyphae
+1. Maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels above 6.0 mg/L throughout the entire brew cycle
+2. Keep compost particles in suspension without damaging [[fungal-hyphae]]
 3. Provide uniform oxygen distribution throughout the entire liquid volume
 
 Failure in any one of these areas results in tea of inferior quality, regardless of the compost or food ingredients used.
@@ -22,9 +22,9 @@ Failure in any one of these areas results in tea of inferior quality, regardless
 
 ### Tank Size and Compost Ratio
 
-Ingham recommends a compost-to-water ratio of approximately 1 pound (0.45 kg) of high-quality compost per 5 gallons (19 liters) of water. This ratio provides sufficient microbial inoculum while leaving adequate water volume for organism reproduction. Overloading the tank with compost can deplete dissolved oxygen faster than the aeration system can replace it.
+Ingham recommends a compost-to-water ratio of approximately 1 pound (0.45 kg) of high-quality compost per 5 gallons (19 liters) of water. This ratio provides sufficient microbial inoculum while leaving adequate water volume for organism reproduction. Overloading the tank with compost can deplete [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]] faster than the aeration system can replace it.
 
-Brewer sizes typically range from 5 gallons for home gardeners to 500+ gallons for commercial operations. Regardless of size, the same principles of aeration capacity, compost ratio, and oxygen management apply. Larger brewers require proportionally more powerful air pumps and more carefully designed distribution systems.
+Brewer sizes typically range from 5 gallons for home gardeners to 500+ gallons for commercial operations. Regardless of size, the same principles of aeration capacity, compost ratio, and [[aact-aeration-oxygen-management-ingham]] apply. Larger brewers require proportionally more powerful air pumps and more carefully designed distribution systems.
 
 ### Tank Shape
 
@@ -87,35 +87,3 @@ Ingham's recommendations for foam management include reducing food source quanti
 ## Cleaning and Maintenance
 
 ### Biofilm and Slime Removal
-
-Regular cleaning of the brewing tank, diffusers, and plumbing is essential for consistent tea quality. Biofilm buildup on tank walls and diffusers can harbor anaerobic organisms that contaminate subsequent brews. Ingham recommends wiping down all surfaces between brews using clean water and a stiff brush.
-
-Diffusers should be cleaned regularly to maintain bubble quality. Clogged diffusers produce larger bubbles and reduced air volume, compromising oxygenation. Soaking diffusers in a mild hydrogen peroxide solution or vinegar can dissolve mineral deposits and biofilm without leaving harmful residues.
-
-### Tank Cleaning Protocol
-
-The recommended cleaning protocol between brews includes draining the tank completely, wiping all interior surfaces with a clean brush and water, rinsing diffusers and checking for clogs, inspecting all plumbing connections for leaks or blockages, and allowing the tank to air dry before the next brew. Bleach and other harsh chemical cleaners should be avoided, as residues can persist and harm organisms in subsequent brews.
-
----
-
-## Troubleshooting Brewer Design Problems
-
-### Insufficient Aeration
-
-Symptoms of insufficient aeration include foul or putrid odors, excessive foam that turns brown or gray, and low dissolved oxygen readings below 5.0 mg/L. Solutions include upgrading the air pump, adding additional diffusers, reducing the compost load, or shortening the brew cycle.
-
-### Uneven Distribution
-
-Dead zones in the tank can be identified by testing dissolved oxygen at multiple depths and locations. Areas with consistently lower DO readings indicate poor circulation. Repositioning diffusers, adding circulation pumps, or modifying tank geometry can address distribution problems.
-
-### Temperature Control
-
-Brewer location affects temperature stability. Direct sunlight can cause temperature fluctuations that stress microbial communities. Placing the brewer in a shaded, temperature-stable location improves consistency. Insulating the tank can help maintain stable temperatures in both hot and cold conditions.
-
-## See Also
-
-- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
-- [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
-- [[ingham-biofilm-brewer-hygiene]]
-- [[aact-foam-management-troubleshooting-ingham]]
-- [[aact-brewing-methodology]]

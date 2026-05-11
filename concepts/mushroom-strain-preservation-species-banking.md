@@ -5,6 +5,7 @@ tags: [mycology, mushroom-cultivation, strain-preservation, stamets, storage]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
   - raw/papers/the-mushroom-cultivator-stamets.md
 type: concept
 ---

@@ -6,6 +6,7 @@ updated: 2026-04-25
 tags: [comparison, seeds, propagation, no-till, guerrilla-gardening]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: comparison
 ---
 

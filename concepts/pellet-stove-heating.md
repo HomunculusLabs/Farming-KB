@@ -1,21 +1,21 @@
 ---
-title: Pellet Stove Heating
+title: [[comparison-masonry-heater-vs-pellet-stove]] Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, off-grid, sustainability, energy, equipment, processing]
+tags: [[homesteading]], off-grid, sustainability, energy, equipment, processing]
 sources: []
 ---
 
 ## Overview
 
-Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of fossil fuel heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, and the ability to produce fuel on-site from wood waste. (see [[rocket-mass-heater-design]]).
+Pellet stoves burn compressed wood pellets — small cylinders of dried, ground wood — to provide efficient, controllable home heating. They combine the convenience of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] heating with the renewable benefits of biomass fuel. For off-grid homesteads, pellet stoves offer high efficiency (75-90%), programmable thermostats, and the ability to produce fuel on-site from wood waste.
 
 ## Wood Pellets
 
 ### Composition and Standards
 
-Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural lignin in wood acts as the binding agent when heated under pressure in the pellet mill. (see [[rocket-stove]]).
+Quality wood pellets are made from compressed sawdust and wood shavings with no binders — the natural lignin in wood acts as the binding agent when heated under pressure in the pellet mill.
 
 Premium pellet standards (PFI in the US, ENplus in Europe):
 - Diameter: 6mm (1/4 inch) standard, 8mm available
@@ -29,10 +29,10 @@ Premium pellet standards (PFI in the US, ENplus in Europe):
 
 Small-scale pellet production is possible but requires significant equipment investment:
 
-1. **Raw material preparation** — Dry sawdust or wood chips to below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
+1. **Raw material preparation** — Dry sawdust or [[query-how-do-i-use-wood-chips-to-grow-mushrooms-in-my-garden]] below 10% moisture content. A hammer mill or chipper/shredder reduces material to uniform small particles.
 2. **Conditioning** — Steam or water is added to bring moisture to exactly 12-15%. This activates the lignin for binding.
 3. **Pelletizing** — A flat die or ring die pellet mill compresses the material through holes under high pressure and temperature (150-200F).
-4. **Cooling** — Fresh pellets are hot and soft. A cooling tray or bin brings them to ambient temperature, hardening them.
+4. **Cooling** — Fresh pellets are hot and soft. A cooling tray or bin brings them to [[jadam-ambient-temperature-principle]], hardening them.
 5. **Screening** — Remove fines (broken pellets and dust) for reuse.
 6. **Storage** — Store in sealed bags or bulk bins in a dry location.
 
@@ -76,7 +76,7 @@ Whole-house heating via forced air or hydronic systems:
 - Heat output: 50,000-100,000+ BTU/hr
 - Can be ducted into existing central heating systems
 - Higher cost but heats the entire home from one unit
-- Some models can burn corn or other biomass fuels in addition to pellets
+- Some models can burn corn or other [[holmgren-biomass-fuels-and-energy-yield-ratios]] in addition to pellets
 
 ## Stove Components
 
@@ -107,7 +107,7 @@ Where combustion occurs. Pellets are fed into the pot, ignited, and burn with fo
 
 ### Combustion Fan
 
-Forces air into the burn pot for efficient combustion. Also creates negative pressure in the exhaust system, preventing smoke from entering the room. A second convection fan circulates room air around the hot combustion chamber and out into the room.
+Forces air into the burn pot for efficient combustion. Also creates negative pressure in the exhaust system, preventing smoke from entering the room. A second convection fan circulates [[stamets-growing-room-air-circulation-co2-management]] around the hot combustion chamber and out into the room.
 
 ### Control Board
 

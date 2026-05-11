@@ -46,7 +46,7 @@ varieties are planted. Plant with 9in (23cm) between the rows and 6in
 
 ## Leeks - *Allium porrum*
 
-A superb winter vegetable that is hardy in all but the very coldest
+A superb [[coleman-french-historical-winter-vegetable-production]] that is hardy in all but the very coldest
 climates, leeks are easy to grow, undemanding, and a valuable source of
 fresh greens in the winter.
 
@@ -66,7 +66,7 @@ summer, make holes with a dibber about 6-8in (15-20cm) deep and 6in
 
 Trim the roots by about two-thirds and the tops by about half, and
 drop a plant into each hole. Do not refill the holes, but pour a
-little water into each to wash some soil over the roots. On deep beds,
+little water into each to wash some soil over the roots. On [[organic-vegetable-garden-rotation-deep-beds]],
 plant in a block of staggered rows with 6in (15cm) between plants each
 way.
 
@@ -88,10 +88,3 @@ shallots require similar growing conditions. They are easy to grow from
 Green onions are picked before the mature bulb forms. They have a
 milder flavor than the larger types and are sown and planted out
 exactly as for onions. Multiple-sown onions produce small bulbs that
-can be used as green onions.
-
-## Rotation and Timing
-
-Bulb vegetables fit into Plot A of the [[hamilton-three-year-crop-rotation]]
-- [[hamilton-vegetative-propagation]]
-- [[hamilton-pest-and-disease-control-organic]]

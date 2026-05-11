@@ -87,34 +87,3 @@ Condensation is an unavoidable aspect of high-humidity fruiting chambers, but ex
 ### Common Fruiting Problems and Solutions
 
 Several issues commonly arise during the fruiting phase and can be addressed through chamber design adjustments:
-
-- **Low humidity (below 85%)**: Causes dry, cracked mushroom caps and stalled growth. Increase hydro pellet water level, check plastic sheet seal for gaps, or add an additional water source such as a damp towel draped inside the chamber.
-- **High humidity (above 98%)**: While mushrooms need high humidity, levels approaching 100% with no air movement can cause waterlogging. Increase fresh air exchange frequency or reduce the water surface area in the chamber.
-- **Poor fresh air exchange**: Indicated by elongated stems, small caps, and fuzzy [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] on mushroom stems. Increase manual fanning frequency, enlarge air exchange openings, or add the self-humidifying air stone system for continuous air movement.
-- **Temperature fluctuations**: Large temperature swings stress developing mushrooms and can cause aborts (premature cessation of growth). Insulate the chamber, use a thermostatically controlled heater, and avoid placing the chamber near windows, vents, or external walls.
-
-### Choosing a Chamber Design
-
-The choice of fruiting chamber design depends on several factors:
-
-- **Scale**: The basic fish tank design is adequate for small-scale cultivation with 5-10 substrate bags. Larger operations benefit from the self-humidifying design or the warm air delivery system for more consistent [[eclss-environmental-control-life-support]] across a greater volume.
-- **Climate**: In warm, humid environments, the basic chamber with manual air exchange may be sufficient. In cold or dry climates, the warm humid air delivery system provides the temperature and humidity boost needed for reliable fruiting.
-- **Automation preference**: Cultivators who are available to perform manual maintenance twice daily may prefer the simplicity of the basic design. Those with less frequent availability benefit from the automated features of the self-humidifying and warm air delivery systems.
-- **Budget**: The basic fish tank design is the least expensive option. The self-humidifying system adds the cost of an air pump, air stone, and tubing. The warm air delivery system requires additional investment in fans, heaters, and ducting.
-- **Noise tolerance**: Air pumps and fans produce continuous noise during operation. If the fruiting chamber is located in a living space, choose a quiet pump model or confine noise-producing equipment to a separate room with ducted air delivery.
-- **Power reliability**: Automated systems depend on continuous electrical power. In areas with unreliable power, maintain the basic chamber as a backup and monitor conditions closely after any power interruption.
-
-### Chamber Hygiene
-
-Maintaining a clean fruiting chamber between crops is essential for long-term cultivation success:
-
-- **Cleaning between flushes**: Between fruiting flushes (crops), remove any spent substrate, aborted mushrooms, or debris from the chamber. Wipe all surfaces with a 10% bleach solution or 70% isopropyl alcohol.
-- **Hydro pellet replacement**: Replace or thoroughly boil the hydro pellets between crops to eliminate any residual contamination. Contaminants can persist in the porous clay structure and infect subsequent crops.
-- **Equipment sterilization**: Air stones, tubing, and pumps should be cleaned and sterilized between uses. Soak air stones in a mild bleach solution, rinse thoroughly, and allow to dry before reuse.
-- **Drying periods**: Allow the chamber to dry completely between crops if possible. A dry period of 24-48 hours kills many residual organisms that thrive in high humidity.
-- **Quarantine**: If any substrate bags show signs of contamination during fruiting, remove them from the chamber immediately. Contamination can spread rapidly in the warm, humid environment and infect nearby healthy crops. Place contaminated bags in a sealed bag before disposal to prevent spore release.
-
-## See Also
-- [[mushroom-fruiting-chamber-setup]]
-- [[mushroom-spore-syringe-preparation]]
-- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]

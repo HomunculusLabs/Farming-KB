@@ -18,8 +18,8 @@ type: concept
 
 Wood-decay fungi that colonize buildings represent a significant threat to
 built structures worldwide. Among these, the dry [[comparison-white-rot-fungi-vs-brown-rot-fungi-biodegradation]] Meruliporia
-incrassata and [[meruliporia-incrassata]] causes extensive dry rot in California and the
-southeastern [[dmt-containing-plants-united-states-halpern]], while Serpula lacrymans is responsible for
+incrassata and [[meruliporia-incrassata]] causes extensive [[dry-rot-fungi-serpula-meruliporia]] in California and the
+southeastern [[dmt-containing-plants-united-states-halpern]], while [[serpula-lacrymans]] is responsible for
 similar destruction in Britain, Europe, Australia, and Japan. The name
 Serpula means serpent or worm, evoking the root-like structures that invade
 buildings. The specific name lacrymans (Latin for weeping) refers to the
@@ -33,7 +33,7 @@ or concrete, and progressively destroy the entire structure.
 
 ## Strands and Rhizomorphs
 
-Dry rot fungi form two types of root-like structure for colonization and
+Dry [[bioremediation-fenton-chemistry-brown-rot-fungi]] form two types of root-like structure for colonization and
 water transport:
 
 - **Strands (chords)**: develop as assemblages of hyphae with a thick
@@ -87,21 +87,3 @@ greenish or reddish hollow streaks in walls.
 ## Remediation and Prevention
 
 Historical remedies include:
-
-- **Kyanizing (1832)**: John Howard Kyan's method using corrosive sublimate
-  (mercuric chloride) to preserve wood. Michael Faraday tested this at the
-  Woolwich 'fungus pit' and confirmed its effectiveness over 5 years, though
-  concerns about toxicity limited its adoption.
-
-- **Creosote treatment (1838)**: John Bethell's patent using coal tar-derived
-  creosote as a wood preservative. Effective against all wood-decay fungi,
-  it was used widely for ships, fence posts, railway sleepers, and telephone
-  poles. The basidiomycete Lentinus lepideus (train wrecker) shows high
-  tolerance to creosote. The EU banned creosote in 2003; the US EPA banned
-  chromated copper arsenate but not creosote.
-
-## Health Concerns
-
-Unlike indoor moulds such as [[dry-rot-fungi-serpula-meruliporia]]
-- fungal-cellulose-decomposition-fungal-enzymes
-- [[artillery-fungus-and-built-environment-fungi]]

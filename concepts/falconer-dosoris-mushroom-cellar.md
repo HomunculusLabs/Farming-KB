@@ -1,9 +1,9 @@
 ---
-title: Falconer falconer dosoris mushroom cellar Cellar
+title: Falconer Dosoris Mushroom Cellar
 created: 2026-04-28
 tags:
   [
-    mushroom-cultivation,
+    [[mushroom-cultivation]],
     cellar-growing,
     victorian-gardening,
     underground-cultivation,
@@ -70,7 +70,7 @@ apparatus is placed, but at the other end, although it is
 convenient in handling the falconer-mushroom-growing-house-design.
 The falconer-mushroom-bed-construction provides natural insulation
 - Hot water heating is gentler and more effective than
-  stove heating for [[mazatec-mushroom-culture-and-velada]]
+  [[pellet-stove-heating]] for [[mazatec-mushroom-culture-and-velada]]
 - Proper drainage is essential to prevent wet, unproductive
   areas
 - A single tall ventilating shaft works better than multiple
@@ -88,14 +88,3 @@ improve resilience and productivity over time.
 ## Future Directions
 
 Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[falconer-mushroom-cellar-management]]
-- [[falconer-mushroom-cellar-ventilation-and-moisture]]
-- [[falconer-mushroom-bed-boxing-and-protection]]
-- [[falconer-mushroom-cultivation-history]]
-- [[falconer-dwelling-house-mushroom-growing]]

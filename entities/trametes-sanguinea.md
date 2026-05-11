@@ -88,37 +88,3 @@ of lignin-rich waste substrates.
 ## Ecological Role
 
 As a white-rot fungus, *T. sanguinea* secretes [[singh-ligninolytic-enzymes-fungal-bioremediation]] — primarily lignin peroxidase (LiP), manganese
-peroxidase (MnP), and laccase — that selectively degrade lignin while leaving cellulose largely intact. This process
-recycles carbon locked in woody biomass and improves soil structure in forest ecosystems. The enzyme profile has
-attracted attention from the pulp and paper industry as a potential biological alternative to chemical bleaching
-agents. Additionally, *T. sanguinea* serves as a food source for various xylophagous beetles and their larvae,
-and its fruiting bodies provide microhabitats for invertebrates in tropical forests.
-
-## Nutritional Profile
-
-Dried *T. sanguinea* fruiting bodies contain approximately 15–25% protein (dry weight), with a favorable amino acid
-profile including all essential amino acids. Carbohydrate content ranges from 40–55%, primarily as structural
-polysaccharides and dietary fiber. The fungus is low in fat (<5%) but contains meaningful amounts of ergosterol
-(provitamin D₂), potassium, phosphorus, and zinc. While not commercially consumed as food due to its tough,
-corky texture, it is sometimes powdered and added to soups or teas in traditional Chinese practice.
-
-## Conservation Status
-
-*T. sanguinea* is not currently assessed by the IUCN. However, as a saprotroph dependent on dead and dying hardwood
-in tropical forests, it is indirectly threatened by deforestation and habitat fragmentation across its range. In
-regions where tropical forests are rapidly converted to agriculture (particularly in West Africa and Southeast Asia),
-local populations of *T. sanguinea* and other wood-decay fungi face pressure from reduced substrate availability.
-
-## Related Species
-
-- *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* — Turkey tail; most studied medicinal polypore, similar ecology but distinctly bicolored zones.
-- *Trametes hirsuta* — Hairy bracket; white pore surface, common on hardwood.
-- *Trametes cinnabarina* — Cinnabar polypore; similar pore coloration but smaller and more delicate fruiting body.
-- *Coriolopsis sanguinea* — A separate genus with similar red pore surface; distinguished by dimitic hyphal system.
-- *Pycnoporus sanguineus* — Bright orange-red pore surface throughout; found in similar tropical habitats.
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[fomes-fomentarius]]
-- [[laccase]]

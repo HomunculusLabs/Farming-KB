@@ -88,31 +88,3 @@ Beyond anticonvulsant activity, CBDV demonstrates several other pharmacological 
 CBDV is biosynthesized in [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] through the same pathway as CBD, but diverges at the olivetolic acid precursor level. The key difference is the use of **hexanoyl-CoA** (C6 starter) instead of olivetolic acid's usual pathway, producing cannabidivarinic acid (CBDVA) via CBGVA (cannabigerovarinic acid). CBDVA is then decarboxylated to CBDV upon heating.
 
 CBDV content varies significantly across cannabis chemovars. Landrace varieties from India, Nepal, and parts of Africa tend to have higher CBDV concentrations.
-Selective breeding has produced chemovars with CBDV content exceeding 5% of dry weight.
-In industrial hemp, CBDV is typically present at 0.1–1.0%, but breeding programs targeting high-CBDV chemovars have achieved consistent production levels above 3%.
-
-Extraction of CBDV from plant material follows the same protocols as CBD: supercritical CO2 extraction or ethanol extraction, followed by chromatographic purification. The chemical similarity of CBDV to CBD means they co-extract and require careful chromatographic separation for pharmaceutical-grade isolation.
-
-## Legal Status
-
-CBDV is not scheduled under the United Nations Convention on Psychotropic Substances or the U.S. Controlled Substances Act. As a non-psychoactive cannabinoid, it exists in a regulatory gray area in most jurisdictions. In the United States, hemp-derived CBDV is legal under the 2018 Farm Bill (provided delta-9-THC content is <0.3%).
-
-The pharmaceutical development of CBDV by GW Pharmaceuticals has been subject to clinical trial regulations in each jurisdiction where trials were conducted. No CBDV-based medication has received full regulatory approval as of 2026.
-
-### Pharmacokinetics
-
-In the first human pharmacokinetic study (Anderson et al., 2019), single oral doses of CBDV (200–800 mg) were administered to healthy volunteers. Key findings:
-- **Tmax:** 1.5–3 hours post-dose
-- **Half-life:** 3–5 hours (shorter than CBD's 18–32 hours)
-- **Cmax:** Dose-proportional increases in plasma concentration
-- **Metabolism:** Primarily via hepatic CYP450 enzymes, with [[glucuronidation]] as the major elimination pathway
-- **Tolerability:** Generally well-tolerated; most common adverse events were mild GI symptoms
-
-The relatively short half-life compared to CBD suggests that more frequent dosing may be required for sustained therapeutic effects, which presents formulation challenges for pharmaceutical development.
-
-## See Also
-
-- [[cannabigerol-cbg]] — The precursor cannabinoid from which both CBDV and CBD are derived
-- [[tetrahydrocannabivarin-thcv]] — The propyl homologue of THC, paired with CBDV as a propyl cannabinoid pair
-- [[dronabinol]] — Synthetic THC pharmaceutical, illustrating the cannabinoid drug development pathway
-- [[serotonin]] — 5-HT receptor system that CBDV may modulate for anxiolytic and anti-nausea effects

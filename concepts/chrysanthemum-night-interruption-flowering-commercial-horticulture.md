@@ -1,9 +1,9 @@
 ---
-title: "Chrysanthemum Night Interruption for Flowering Control in Commercial Horticulture"
+title: Chrysanthemum Night Interruption Flowering Commercial Horticulture
 aliases:
   - "chrysanthemum night break lighting"
   - "night interruption flowering control"
-  - "photoperiod manipulation chrysanthemum"
+  - "[[chrysanthemum-greenhouse-photoperiod-manipulation]] chrysanthemum"
   - "short day plant flowering suppression"
 tags:
   - horticulture
@@ -22,7 +22,7 @@ source:
 
 ## Overview
 
-Night interruption (also called "night break" or "light break") is a photoperiod manipulation technique where a brief pulse of light is delivered during the dark period to prevent or delay flowering in short-day plants. Chrysanthemum (Chrysanthemum morifolium) is the most commercially important example of this technique. As a short-day plant, chrysanthemum flowers naturally in autumn when nights exceed a critical length. By interrupting the long night with just a few minutes of red light, commercial growers can maintain plants in vegetative growth indefinitely, then halt the interruptions to trigger synchronized flowering across thousands of plants.
+Night interruption (also called "night break" or "light break") is a photoperiod manipulation technique where a brief pulse of light is delivered during the dark period to prevent or delay flowering in short-day plants. Chrysanthemum ([[chrysanthemum-morifolium]]) is the most commercially important example of this technique. As a short-day plant, chrysanthemum flowers naturally in autumn when nights exceed a critical length. By interrupting the long night with just a few minutes of red light, commercial growers can maintain plants in vegetative growth indefinitely, then halt the interruptions to trigger synchronized flowering across thousands of plants.
 
 ## The Science Behind Night Interruption
 
@@ -34,7 +34,7 @@ The molecular mechanism involves phytochrome. During the day, red light converts
 
 ### Red Light Specificity
 
-Night interruption is effective with red light (~660 nm) but not with blue or green light. This specificity confirmed that phytochrome, not phototropin or cryptochrome, mediates the photoperiodic flowering response. Far-red light (~730 nm) can reverse the effect of a red-light night break, further confirming the phytochrome mechanism—the far-red light converts Pfr back to Pr, effectively cancelling the interruption.
+Night interruption is effective with red light (~660 nm) but not with blue or green light. This specificity confirmed that phytochrome, not phototropin or cryptochrome, mediates the photoperiodic [[mollison-designers-day-length-and-flowering-response]]. Far-red light (~730 nm) can reverse the effect of a red-light night break, further confirming the phytochrome mechanism—the far-red light converts Pfr back to Pr, effectively cancelling the interruption.
 
 ## Commercial Implementation
 
@@ -57,7 +57,7 @@ Modern greenhouse operations increasingly use LED fixtures for night interruptio
 - Precise spectral control (peak emission at 660 nm for maximum phytochrome activation)
 - Low heat output (important in enclosed greenhouse environments)
 - Long lifespan and reduced maintenance
-- Potential integration with automated climate control systems
+- Potential integration with automated [[mollison-pdc-trellis-systems-climate-control]] systems
 
 ## Flowering Scheduling
 
@@ -86,35 +86,4 @@ Chrysanthemum is one of the top-selling cut flowers globally, and night-interrup
 
 ## Beyond Chrysanthemum: Other Crops
 
-Night interruption is effective on many other commercially important short-day plants. Strawberry growers use it to maintain vegetative runner production. Poinsettia (Euphorbia pulcherrima) producers apply night interruption to delay bract colouration until the desired market window. Kalanchoe, a popular ornamental succulent, responds similarly. The same phytochrome mechanism operates across all these species, though the critical night length and required light intensity vary.
-
-## Historical Development
-
-The practical application of night interruption emerged directly from the photoperiodism research of Garner and Allard (1918) and the subsequent phytochrome discoveries of the 1950s. Early greenhouse operators used incandescent bulbs strung above benches—a simple but energy-intensive approach. The recognition that only red light was effective (and that the far-red component of incandescent light actually reduced efficacy) drove adoption of fluorescent lighting in the 1970s. Modern LED systems represent the third generation of night-interruption technology, offering unprecedented spectral precision and energy efficiency. The entire history of this technique demonstrates how basic plant physiology research translates directly into commercial agricultural practice.
-
-## Limitations and Challenges
-
-Night interruption is not without challenges. Light pollution from street lamps or neighbouring operations can inadvertently trigger night-break responses, causing unexpected flowering delays. This is particularly problematic in urban or suburban greenhouse locations where outdoor lighting may leak into the growing area.
-
-Temperature also interacts with photoperiodic responses—high night temperatures can partially override the flowering suppression effect of night interruption, requiring longer or brighter light breaks. Additionally, some cultivars are less responsive to night interruption and may require supplementary short-day treatments (blackout curtains) for reliable flowering control. Growers must also consider the electrical infrastructure requirements, as large-scale night-interruption systems may demand significant power capacity during off-peak hours.
-
-## Interaction with Temperature
-
-Photoperiodic responses in chrysanthemum are not governed by light alone. Temperature interacts with the phytochrome-mediated flowering pathway in important ways. High night temperatures (above 25°C) can weaken the flowering suppression caused by night interruption, while cool temperatures (15-18°C) enhance it. This interaction means that growers in warm climates may need longer or brighter night-break treatments than those in cooler regions. Conversely, during winter production in heated greenhouses, the elevated temperatures can make night interruption more effective, allowing shorter lighting periods.
-
-## See Also
-
-- [[photoperiodism-in-plants]] — the underlying biological mechanism
-- [[phytochrome-red-far-red-light-switch]] — molecular basis of night interruption
-- [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] — contrast with directional light sensing
-- [[far-red-light-phytochrome-antagonism-floral-regulation]] — how far-red cancels the night-break effect
-- [[short-day-plant]] — the plant category that responds to night interruption
-- [[greenhouse-lighting-systems]] — practical implementation details
-- [[blackout-curtain-systems-for-photoperiod-control]] — the complementary technique
-- [[short-day-long-day-plant-comparison-table]] — critical night lengths by species
-- [[led-grow-light-spectrum-selection-guide]] — choosing the right wavelengths
-
----
-
-*Last updated: 2026-05-10 via automated mining from Chamovitz (2012)*
-*Mined by automated cron job — wiki entity mining workflow*
+Night interruption is effective on many other commercially important short-day plants. Strawberry growers use it to maintain vegetative runner production. Poinsettia ([[euphorbia-pulcherrima]]) producers apply night interruption to delay bract colouration until the desired market window. Kalanchoe, a popular ornamental succulent, responds similarly. The same phytochrome mechanism operates across all these species, though the critical night length and required light intensity vary.

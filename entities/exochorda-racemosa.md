@@ -42,7 +42,7 @@ Each flower produces a five-chambered capsule that dehisces at maturity. The fru
 
 Autumn color is generally unremarkable, with foliage turning yellowish-green before dropping. The primary ornamental value is concentrated in the spring flowering display.
 
-Bee pollinators include honeybees, bumblebees, and various native solitary bee species.
+Bee pollinators include honeybees, bumblebees, and various [[comparison-honey-bees-vs-native-solitary-bees]] bee species.
 
 The open flower structure provides easy access to nectar and pollen for short-tongued insect visitors. This accessibility makes pearl bush an inclusive resource within pollinator-supportive garden plantings.
 
@@ -58,7 +58,7 @@ In China, the species has been used in traditional landscaping for centuries, pa
 
 The species is relatively uncommon in modern commercial nurseries, though it remains available through specialty plant suppliers. Its limited availability has contributed to its underuse in contemporary landscape design.
 
-In its native habitat, pearl bush often grows alongside other early-spring flowering shrubs including *Forsythia* and *Syringa* species. These natural plant associations can inform companion planting choices in cultivation.
+In its native habitat, pearl bush often grows alongside other early-spring flowering shrubs including *Forsythia* and *Syringa* species. These natural plant associations can inform [[cervantes-companion-planting-pest-deterrent]] choices in cultivation.
 
 ## Cultivation
 
@@ -72,9 +72,9 @@ Overgrown specimens respond well to renovation pruning in early spring, though t
 
 The shrub regrows quickly from established root systems.
 
-Pearl bush is generally free of serious pest and disease problems. Occasional issues include powdery mildew in humid conditions and leaf spot fungi, though these rarely require treatment.
+Pearl bush is generally free of serious [[hamilton-pest-and-disease-control-organic]] problems. Occasional issues include [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions and leaf spot fungi, though these rarely require treatment.
 
-Once established, the plant is moderately drought-tolerant and requires little supplemental care. A layer of organic mulch around the base helps conserve soil moisture and suppress weeds.
+Once established, the plant is moderately drought-tolerant and requires little supplemental care. A layer of organic mulch around the base helps conserve soil moisture and [[query-how-do-cover-crops-suppress-weeds]].
 
 ## Landscape Uses
 
@@ -84,35 +84,6 @@ The shrub works effectively as an informal hedge or screen when planted in group
 
 Pearl bush combines well with spring-blooming bulbs, early perennials, and other flowering shrubs. The white flowers complement the purple, pink, and blue tones commonly found in spring gardens.
 
-Its moderate size makes it suitable for residential landscapes where larger shrubs would overwhelm the space. The plant's clean, disease-free foliage provides a neat appearance through the growing season.
+Its moderate size makes it suitable for residential landscapes where larger shrubs would overwhelm the space. The plant's clean, disease-free foliage provides a neat appearance through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 *Exochorda racemosa* has been used in hybridization programs to produce *×Spiraeaoxyacarpa* interspecific crosses. These hybrids combine the flower size of pearl bush with the growth habit of spirea.
-
-The white flowers complement the purple, pink, and blue tones commonly found in spring gardens.
-
-The species is particularly effective when planted against dark evergreen backgrounds such as *Rhododendron* or *Taxus*. The contrast emphasizes the purity of the white flower display.
-
-## Ecological Role
-
-The flowers provide early-season nectar and pollen for a variety of pollinating insects. Bees are the primary visitors, though butterflies and other insects also occasionally visit the blooms.
-
-The dense branching structure provides cover and nesting habitat for small songbirds. The shrub's layered branching pattern is particularly attractive to species that prefer open, thornless shelter.
-
-The foliage is generally unpalatable to deer, making it a reliable choice for landscapes with browsing pressure.
-
-However, the plant is not typically used in large-scale erosion control due to its moderate spreading habit.
-
-The dry, papery capsules persist on the plant into early winter, providing subtle visual texture. Birds occasionally forage among the branches for overwintering insect eggs and larvae.
-
-## See Also
-
-- [[physocarpus-opulifolius]]
-- [[spiraea-japonica]]
-- [[chaenomeles-speciosa]]
-- [[prunus-serotina]]
-- [[forsythia-suspensa]]
-- [[hamamelis-virginiana]]
-- [[kalmia-latifolia]]
-- [[viburnum-opulus]]
-- [[rhododendron-ponticum]]
-- [[syringa-vulgaris]]

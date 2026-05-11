@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Prion Diseases (Transmissible Spongiform Encephalopathies)
+title: [[blesching-cannabis-abortion-miscarriage-fertility]] [[cannabis-and-prion-diseases]]
 created: 2026-04-26
 tags:
   - cannabis
@@ -63,7 +63,7 @@ but no orthodox treatment exists.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 1
-- CHI Value: 3
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 3
 
 ## Research Evidence
 
@@ -82,53 +82,9 @@ of cannabis, declaring it "useful in the treatment and prophylaxis of a wide
 variety of oxidation-associated diseases." The patent specifically noted
 cannabinoids' "particular application as neuroprotectants; for example, in
 limiting neurological damage following ischemic insults, such as stroke and
-trauma, or in the treatment of neurodegenerative diseases, such as Alzheimer's
+trauma, or in the treatment of [[blesching-cannabis-neurodegenerative-diseases]], such as Alzheimer's
 disease, Parkinson's disease and HIV dementia."
 
 ### Study Summary
 
 | Drug | Study Type | Key Findings | CHI |
-|------|-----------|-------------|-----|
-| CBD injection | Animal (mice) + laboratory | 2007, International research: CBD inhibited prion accumulation; inhibited neurotoxic effects of protease-resistant prion protein; CBD may be neuroprotective during prion infection | 3 |
-
-## Strain-Specific Considerations
-
-Laboratory and animal trials concluded that CBD is the primary cannabinoid of
-interest for prion accumulation and prion-related neuroprotection. No human
-trials have been conducted. Indicas or indica-dominant hybrids tend to contain
-higher CBD:THC ratios. Raw, fresh leaf or juice contains high concentrations
-of CBD in the form of CBD-acid.
-
-## Clinical Significance
-
-No other treatment exists for prion diseases, and the prognosis is dismal. Any
-promising treatment approach warrants serious consideration. Cannabinoids
-easily cross the blood-brain barrier and can reach affected tissue with
-relatively few side effects. Time-proven uses of CBD-rich cannabis for other
-neurological disorders suggest CBD may offer hope for Creutzfeldt-Jakob
-disease, though optimal dosage requirements and [[hallucinogenic-mushroom-smoking-and-alternative-administration-routes]] must
-still be determined.
-
-## Mind-Body Medicine
-
-Prion diseases primarily affect the mind, the physical brain, and the central
-nervous system. The disease bears similarity to those that revert people to
-infancy, and this may be reflective of one side of the juncture where the
-prospect of returning to the source becomes more prominent in the mind. In
-Creutzfeldt-Jakob disease, once symptoms appear, the disease progresses more
-rapidly than other neurodegenerative diseases like Alzheimer's.
-
-Powerful questions include: "Where am I hopeless or despairing about my place
-in life? Where am I helpless? Where am I refusing to let the world be as it
-is? Is there a constructive way to channel my anger at life the way it is?"
-Suggested affirmations: "I am always at the perfect place at the right time. I
-can find a way to handle everything that comes my way. It is okay to accept
-things as they are."
-
-## See Also
-
-- [[cannabis-and-prion-diseases]]
-
-- [[blesching-cannabis-neurodegenerative-diseases]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabinoid-pharmacology]]

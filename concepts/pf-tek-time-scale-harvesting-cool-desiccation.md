@@ -1,7 +1,7 @@
 # PF TEK Time Scale, Harvesting and Cool Desiccation
 
 ## Source
-McKenna, R. ("Psilocybe Fanaticus") — *PF TEK: Complete Illustrated Instructions.* Seattle, WA. © 1996 Solent Fanaticus.
+McKenna, R. ("[[pf-tek-psilocybe-fanaticus]]") — *PF TEK: Complete Illustrated Instructions.* Seattle, WA. © 1996 Solent Fanaticus.
 
 ---
 
@@ -17,7 +17,7 @@ After inoculation, visible white mycelial growth appears within 3-7 days assumin
 
 Mycelium colonizes the substrate cake over 1-3 weeks total from inoculation:
 
-- White mycelial threads spread through the brown rice flour/vermiculite substrate
+- White mycelial threads spread through the [[brown-rice-flour-substrate]]/[[pf-tek-brown-rice-vermiculite-substrate]]
 - Vermiculite provides air space, allowing threads to stretch across gaps (unlike grain substrates that form dense masses)
 - Fastest colonization at 75-80°F (24-27°C)
 - Jars stored in dark, draft-free location
@@ -64,9 +64,9 @@ Aborts are mushrooms that begin forming but stop growing. PF identifies these as
 
 ### Critical Rule: Never Use Heat
 
-> "Never dry them in an oven or use hot air dryers. The heat leaches the chemical constituents and reduces their quality."
+> "Never dry them in an oven or use hot air dryers. The heat leaches the [[guzman-magic-mushrooms-chemical-constituents]] and reduces their quality."
 
-Heat destroys psilocybin and psilocin. All drying must be at ambient or cool temperatures.
+Heat destroys [[hplc-analysis-of-psilocybin-and-psilocin]]. All drying must be at ambient or cool temperatures.
 
 ### Desiccant Drying (Recommended)
 
@@ -88,40 +88,3 @@ For best alkaloid preservation, place the desiccant box in the refrigerator. Dry
 ### Pre-Drying Option
 
 If room humidity is low, pre-dry on a wire screen in open air for a couple of days, then transfer to desiccant box for complete drying.
-
-### Desiccant Reuse
-
-Desiccant is indefinitely reusable: heat in oven after each use, store in airtight container between uses.
-
-## Storage
-
-- Sealed plastic bags or canning jars with tight lids
-- Freezer for longest preservation
-- Must be tightly sealed against freezer moisture
-- Properly stored dried mushrooms retain potency for months
-
-## Temperature Management
-
-- **Optimal colonization**: 75-80°F (24-27°C)
-- **Fruiting**: 65-85°F (18-29°C); grows well even at 60°F (slower)
-- **Too hot** (>85°F): Spreading mycelium but no fruiting
-- **Never heat the terrarium**: No heating cables, pads, blankets — direct heating works against humidification and causes drying
-
-## Contaminant Source Identification
-
-PF TEK provides guidance for diagnosing contamination issues during the time scale:
-
-- **Bacterial contamination**: Sour smell, slimy texture, wet spots on substrate — often from overly wet substrate formula
-- **Mold contamination**: Colored growth (green, black, pink) on substrate — usually from airborne spores entering during inoculation or from compromised dry vermiculite barrier
-- **Dried substrate**: Halted mycelial growth with no visible contamination — remedy is increasing water content in the substrate formula
-- **Failed sterilization**: Growth of multiple contaminant types — ensure full hour of steaming with tight-fitting pot lid
-
-The dry vermiculite layer at the top of each jar acts as a contaminant barrier — PF's original discovery. It protects the wet substrate from airborne contaminants and absorbs moisture transpiration and condensation.
-
-## See Also
-
-- [[pf-tek-substrate-formula-and-preparation|PF TEK Substrate Formula]]
-- [[pf-tek-inoculation-and-incubation|PF TEK Inoculation and Incubation]]
-- [[pf-tek-desiccant-drying-technique|PF TEK Desiccant Drying]]
-- [[dual-chambered-terrarium-design|Dual Chambered Terrarium Design]]
-- [[pf-tek-aborts-and-potency-harvesting|PF TEK Aborts and Potency]]

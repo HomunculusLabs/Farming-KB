@@ -22,7 +22,7 @@ mushrooms.
 
 ## Description
 
-Maitake forms large, compound fruiting bodies composed of multiple
+Maitake forms large, compound [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] composed of multiple
 overlapping caps 2-10 cm in diameter, arising from branching stems that
 share a common base. The mushroom is dark gray-brown when young, becoming
 lighter gray with age (some varieties fade to light yellow at maturity).
@@ -33,7 +33,7 @@ exceptional wild specimens reported at over 50 pounds.
 ## Natural Habitat
 
 Maitake is found at the base of oak trees and other hardwoods, particularly
-oaks, beeches, and elms, in temperate deciduous forests of eastern North
+oaks, beeches, and elms, in temperate deciduous forests of [[polypore-fungi-eastern-north-america]]
 America, Europe, and Japan. It is a weak parasitic to saprophytic fungus,
 attacking the root systems of living trees and continuing to decompose the
 wood after the tree dies. Wild Maitake is typically collected in autumn,
@@ -44,7 +44,7 @@ knowledge through generations.
 ## Taxonomy and Related Species
 
 Grifola frondosa is synonymous with Polyporus frondosus Dicks.:Fr. It is
-closely allied to [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] Fr. (also known as Grifola umbellata
+closely allied to [[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]] Fr. (also known as [[grifola-umbellata]]
 or Zhu Ling), which produces fruitbodies with multiple caps arising from a
 common stem but has a lighter color, more fragile texture, and
 fundamentally different life cycle. G. umbellata produces underground
@@ -65,15 +65,15 @@ Studies suggest Maitake extracts may:
 - Help regulate blood sugar and insulin levels
 - Support liver function and lower blood pressure
 
-Maitake's growing reputation as a medicinal mushroom has led to the
+Maitake's growing reputation as [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]] has led to the
 establishment of dedicated cultivation operations and a substantial
 market for both fresh and dried products, extracts, and supplements.
 
 ## Cultivation
 
-Maitake cultivation has proven challenging compared to other gourmet
+[[comparison-enoki-vs-maitake-cultivation]] has proven challenging compared to other gourmet
 mushrooms. The species has an inherent, slower growth rate compared to
-Shiitake, Oyster, and Enokitake. Successful indoor cultivation requires:
+Shiitake, Oyster, and Enokitake. Successful [[cannabis-sativa-indoor-cultivation-techniques]] requires:
 
 - Supplemented hardwood sawdust (typically alder or oak with 20-30%
   supplementation of rice bran or wheat bran)
@@ -87,23 +87,3 @@ cultivation is possible by inoculating oak stumps and logs, though
 fruitings may take 1-2 years to appear.
 
 ## Growth Parameters
-
-- **Spawn Run**: 72-78 F (22-26 C), 95-100% humidity, 30-60 days
-- **[[growing-gourmet-primordia-formation-pinning]]**: 55-65 F (13-18 C), 95-100% humidity, 5-10 days
-- **Fruitbody Development**: 60-70 F (16-21 C), 85-95% humidity, 7-14 days
-
-## Mycelial Characteristics
-
-Maitake mycelium on agar and grain is white, longitudinally linear, becoming
-densely cottony with age. On sterilized sawdust, the mycelium forms a thick,
-peelable mat and produces yellowish gelatinous exudate as it ages. The
-species causes a white rot in wood decomposition.
-
-## See Also
-
-- [[reishi-ganoderma-lucidum]]
-- grain-spawn-production
-- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- [[grifola-frondosa]]
-- [[decomposition]]
-- [[maitake-cultivation]]

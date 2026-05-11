@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - The Cannabis Grow Bible (Greg Green)
   - Marijuana Horticulture (Jorge Cervantes)
   - Teaming with Microbes (Lowenfels & Lewis)

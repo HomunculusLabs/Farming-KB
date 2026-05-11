@@ -11,9 +11,9 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Rice, G. & Strangman, E. (1993). "The Gardener's Guide to Growing Hellebores." Timber Press.
-  - McLewin, W. & Mathew, B. (2018). "Hellebores: A Comprehensive Guide." RHS / Kew Publishing.
+  - McLewin, W. & Mathew, B. (2018). "Hellebores: A [[allen-australian-psilocybe-species-comprehensive-guide]]." RHS / Kew Publishing.
   - Herrera, C.M. (2005). "Plant generalization on pollinators: species property or local phenomenon?" American Journal of Botany, 92(1), 13–20.
-  - GRIN (2024). "Germplasm Resources Information Network — Helleborus argutifolius." USDA.
+  - GRIN (2024). "Germplasm Resources [[mycelium-digestive-membrane-information-network]] — Helleborus argutifolius." USDA.
 ---
 
 ## Overview
@@ -57,7 +57,7 @@ Seeds are elaiosome-bearing, indicating ant-mediated dispersal (myrmecochory) in
 
 Endemic to the western Mediterranean islands of Corsica (France), Sardinia (Italy), and Majorca (Spain). Populations are scattered across rocky limestone and granite substrates from sea level to 1500 m elevation.
 
-The species occupies Mediterranean maquis, garigue, and open Quercus ilex woodland margins. It favors well-drained, alkaline to neutral soils in sites with winter moisture and summer drought.
+The species occupies Mediterranean maquis, garigue, and open [[quercus-ilex]] woodland margins. It favors well-drained, alkaline to neutral soils in sites with winter moisture and summer drought.
 
 Flowering in cultivation runs from January to April in the northern hemisphere. The long bloom period (6–10 weeks) and winter flowering habit make it valuable for cold-season garden interest.
 
@@ -69,13 +69,13 @@ Hardy in USDA zones 6–9, though plants benefit from sheltered positions in col
 
 Plant in humus-rich, well-drained soil with a pH of 6.5–7.5. Tolerates clay if drainage is adequate. Drought-tolerant once established. Space plants 60–90 cm apart.
 
-Water newly planted specimens regularly during the first growing season. Mature plants are remarkably drought-resistant, reflecting their Mediterranean origins.
+Water newly planted specimens regularly during the first [[extending-growing-season]]. Mature plants are remarkably drought-resistant, reflecting their Mediterranean origins.
 
 **Maintenance:**
 
 Remove old or damaged leaves in late autumn to early winter before flower stems emerge. Cut spent flower stems to the base after seed set to prevent unwanted self-seeding.
 
-Divide clumps in early spring or autumn if desired, though established plants resent disturbance. Propagate by seed sown fresh in late spring, or by careful division.
+Divide clumps in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn if desired, though established plants resent disturbance. Propagate by seed sown fresh in late spring, or by careful division.
 
 ## Ecology and Applications
 
@@ -88,16 +88,3 @@ In its native range, H. argutifolius contributes to Mediterranean scrubland biod
 **Ornamental value:**
 
 Awarded the RHS Award of Garden Merit. Valued for its architectural, evergreen foliage and reliable winter blooms. The pale green flowers complement spring bulbs and early perennials.
-
-Effective in shaded borders, woodland gardens, and Mediterranean-style plantings. Combines well with snowdrops, cyclamen, and winter-flowering shrubs like Daphne and Viburnum.
-
-## See Also
-
-- [[helleborus-niger]]
-- [[helleborus-foetidus]]
-- [[helleborus-orientalis]]
-- [[aconitum-napellus]]
-- [[ranunculus-acris]]
-- [[clematis-vitalba]]
-- [[anemone-nemorosa]]
-- [[nigella-damascena]]

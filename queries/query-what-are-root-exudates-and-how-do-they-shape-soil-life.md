@@ -31,7 +31,7 @@ The entire cascade is driven by the carbon plants pump into the soil through [[a
 Once inside the root cortex, the fungus trades phosphorus and water for plant-derived carbon.
 
 The [[solomon-root-exudates-and-allelopathy]] research demonstrates how plants use exudation to manipulate their chemical neighborhood.
-Certain [[soil-food-web]] and makes plants more dependent on external inputs.
+Certain [[soil-foodweb]] and makes plants more dependent on external inputs.
 
 No-till practices, cover cropping, and diverse rotations encourage deeper and more diverse exudation.
 Living roots in the soil year-round maintain a continuous carbon supply to microbes.
@@ -44,7 +44,7 @@ Researchers use hydroponic collection systems and micro-suction devices to gathe
 Metabolomic profiling with mass spectrometry reveals the full chemical complexity of exudate mixtures.
 Isotope tracing with carbon-13 allows scientists to track exudate flow through soil food webs.
 
-The [[soil-food-web]] management expands the rhizosphere and enhances exudate-driven processes.
+The [[soil-foodweb]] management expands the rhizosphere and enhances exudate-driven processes.
 
 ### What About Perennial vs Annual Exudation Patterns?
 
@@ -54,7 +54,7 @@ Annual crops have a shorter exudation window concentrated during active [[cannab
 
 Cover crops and green manures fill the exudation gap between annual cash crops.
 Their living roots sustain [[rhizosphere-ecology]] is built entirely around the flow of exudate carbon from roots.
-- [[soil-food-web]].
+- [[soil-foodweb]].
 - [[query-how-does-living-soil-work-for-cannabis]]
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]
 - [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

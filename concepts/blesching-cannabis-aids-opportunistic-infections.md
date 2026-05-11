@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and AIDS-Related Opportunistic Infections"
+title: [[blesching-cannabis-abortion-miscarriage-fertility]] [[stamets-mushroom-antiviral-hiv-aids-opportunistic-infections]]
 created: 2026-04-26
 tags:
   - cannabis
@@ -88,40 +88,7 @@ No AIDS diagnostic test exists. Diagnosis is done by symptoms alone, by
 testing for HIV, or by a combination of these methods. None of the tests
 are 100% accurate. Oral tests produce numerous false positives. Blood
 tests include the ELISA and Western blot tests. The orthodox medical
-establishment has no cure for AIDS. Current treatment consists of
-pharmaceutical antiviral agents: protease inhibitors and reverse
-transcriptase inhibitors.
 
-## Cannabis Role in Symptom Management
-
-In one of the largest studies ever conducted, scientists from Boston
-collected data from 775 patients living with HIV/AIDS who were suffering
-from six common symptoms (anxiety, depression, fatigue, diarrhea, nausea,
-and peripheral neuropathy). Participants came from Kenya, South Africa,
-Puerto Rico, and ten different U.S. locations. Results showed that while
-differences were relatively small, cannabis was more effective than
-standard prescription and over-the-counter medications for treating five
-of the six symptoms: anxiety, depression, diarrhea, fatigue, and
-neuropathy.
-
-## The AIDS Reappraisal Movement
-
-Since the 1980s, an AIDS reappraisal movement has emerged that questions
-many orthodox positions, including unsubstantiated epidemic predictions,
-unreliable AIDS tests, inconsistent diagnostic methods, unsafe AIDS
-pharmaceuticals, the HIV-AIDS hypothesis itself, the fact that AIDS
-behaves unlike a contagious disease, and the lack of focus on other
-possible causative or contributing elements.
-
-## Related
-
-- [[blesching-cannabis-bacterial-infections]] Topics
-
-- [[blesching-cannabis-fungal-infections-candida]] - Fungal
-  opportunistic infections including candidiasis
-- [[blesching-cannabis-hepatitis]] - Hepatitis as an AIDS-related
-  complication
-- [[blesching-cannabis-immune-system-modulation]] - [[blesching-cannabis-immune-system-modulation]]
-  modulation in immunocompromised states
-- [[blesching-cannabis-palliative-care]] - Palliative approaches for
-  advanced AIDS
+## See Also
+- [[blesching-cannabis-viral-infections]]
+- [[blesching-cannabis-aids-related-neuropathy]]

@@ -15,25 +15,25 @@ sources:
   - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States." University of Georgia Press.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
-  - Cook, C.D.K. (1996). "Aquatic and Wetland Plants of India." Oxford University Press.
+  - Cook, C.D.K. (1996). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of India." Oxford University Press.
   - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern psilocybin-north-america-pacific-northwest." University of Wisconsin Press.
 ---
 
 ## Overview
 
-**Saururus cernuus** is a herbaceous perennial in the family Saururaceae, native to wetlands of eastern North America. It is commonly known as lizard's tail, a name referring to the arching, tail-like inflorescence that curves downward at its tip.
+**Saururus cernuus** is a herbaceous perennial in the family Saururaceae, native to wetlands of [[polypore-fungi-eastern-north-america]]. It is commonly known as lizard's tail, a name referring to the arching, tail-like inflorescence that curves downward at its tip.
 
 The species grows in shallow water and saturated soils along stream banks, marshes, swamps, and pond margins. It forms dense colonies through creeping rhizomes and can dominate wetland understories where conditions are favorable.
 
 Lizard's tail produces white, fragrant flowers arranged on a distinctive curved spike from June through September. The flowers attract a variety of insect pollinators and the foliage provides habitat for aquatic invertebrates.
 
-The plant has documented use in traditional medicine among Native American peoples and has shown phytoremediation potential for removing heavy metals from contaminated water. It is increasingly planted in [[comparison-constructed-wetlands-vs-bioswales]] for water treatment.
+The plant has documented use in traditional medicine among [[halpern-sacramental-peyote-and-native-american-church]] peoples and has shown phytoremediation potential for removing heavy metals from contaminated water. It is increasingly planted in [[comparison-constructed-wetlands-vs-bioswales]] for water treatment.
 
 ## Taxonomy and Morphology
 
 **Saururus cernuus** L. was described by Linnaeus in 1753. The genus name derives from the Greek *sauros* (lizard) and *oura* (tail), referencing the distinctive inflorescence shape. The specific epithet *cernuus* means "nodding" or "drooping."
 
-The family Saururaceae is a small family of herbaceous perennials in the order Piperales, closely related to Piperaceae (peppers) and Aristolochiaceae (birthworts). The family contains only four genera, with *Saururus* being the only genus native to North America.
+The family Saururaceae is a small family of [[permaculture-plants-herbaceous-perennials]] in the order Piperales, closely related to Piperaceae (peppers) and Aristolochiaceae (birthworts). The family contains only four genera, with *Saururus* being the only genus native to North America.
 
 *S. cernuus* grows 30–90 cm tall from a creeping, fleshy rhizome. Stems are simple, erect, and unbranched, arising from nodes along the rhizome. Multiple stems form dense stands in favorable conditions.
 
@@ -57,7 +57,7 @@ Optimal conditions include full sun to partial shade and organic-rich, mucky soi
 
 It is an obligate wetland indicator (OBL) in most regions, meaning it almost always occurs in wetland habitats. Its presence is used in wetland delineation surveys.
 
-The related Asian species *Saururus chinensis* (Chinese lizard's tail) is a similar wetland plant used in traditional Chinese medicine. The two species can be distinguished by inflorescence orientation and leaf pubescence.
+The related Asian species *[[saururus-chinensis]]* (Chinese lizard's tail) is a similar wetland plant used in traditional Chinese medicine. The two species can be distinguished by inflorescence orientation and leaf pubescence.
 
 ## Cultivation
 
@@ -65,7 +65,7 @@ Lizard's tail is easily propagated by division of rhizomes in spring or early su
 
 Seed propagation is possible but less reliable. Seeds require no cold stratification and germinate readily on moist soil surfaces. However, seedlings grow slowly compared to vegetative divisions.
 
-In constructed wetlands and stormwater treatment systems, *S. cernuus* is valued for its ability to tolerate fluctuating water levels and its capacity for [[plant-nutrient-uptake-mechanisms]]. It contributes to nitrogen and phosphorus removal.
+In [[constructed-wetland-design]] stormwater treatment systems, *S. cernuus* is valued for its ability to tolerate fluctuating water levels and its capacity for [[plant-nutrient-uptake-mechanisms]]. It contributes to nitrogen and phosphorus removal.
 
 The species is hardy to USDA zone 4 and requires no winter protection. Foliage dies back to the rhizome after frost, and new growth emerges in mid-spring.
 
@@ -88,24 +88,3 @@ It provides cover for fish fry and other small aquatic organisms along pond and 
 The species is moderately palatable to muskrats and nutria, which may limit its establishment in areas with high herbivore populations. Grazing typically stimulates regrowth from rhizomes.
 
 ## Ethnobotanical Uses
-
-The Cherokee used a root infusion of *S. cernuus* as a treatment for back pain and kidney ailments. The Choctaw applied poultices of bruised leaves to wounds and inflammations.
-
-The Seminole used the plant as a mild diuretic and digestive aid. Various tribes used leaf decoctions as washes for skin conditions and as eye treatments.
-
-Modern herbal literature mentions lizard's tail infrequently. Limited pharmacological studies suggest anti-inflammatory and diuretic properties, but research remains preliminary and the species is not commercially available as an herbal product.
-
-The Asian congener *Saururus chinensis* has been more extensively studied, with documented anti-inflammatory, antioxidant, and hepatoprotective activities. These findings have increased research interest in *S. cernuus* as a potential [[growing-gourmet-north-american-reishi-species]] analogue.
-
-## See Also
-
-- [[piper-nigrum-entity]]
-- [[lindera-benzoin]]
-- [[pontederia-cordata]]
-- [[eichhornia-crassipes]]
-- [[juncus-effusus]]
-- [[sagittaria-latifolia]]
-- [[elodea-canadensis]]
-- [[potamogeton-natans]]
-- [[asarum-canadense]]
-- [[piper-longum]]

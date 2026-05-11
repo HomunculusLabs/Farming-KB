@@ -1,5 +1,5 @@
 ---
-title: [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] [[alkaloid-distribution-mushroom-caps-stems]] Between Cap and Stem
+title: Psilocybe Cubensis Alkaloid Distribution
 created: 2026-05-09
 tags: [mycology, alkaloids, psilocybin, psilocin, anatomy, distribution]
 date: 2026-05-09
@@ -88,51 +88,3 @@ variation may reflect differences in:
 
 - Enzyme expression patterns (e.g., [[mycorrhizal-phosphatase-activity-elf97-detection]])
 - Alkaloid transport mechanisms between tissues
-- Metabolic channeling of tryptamine derivatives
-
-## Relationship to Developmental Stages
-
-The cap-stem distribution data was collected from first-flush specimens, when
-psilocin levels are at their lowest. As subsequent flushes progress and
-psilocin accumulates (peaking by flush 4), the distribution pattern may shift.
-This was not investigated in the study but represents an important area for
-further research.
-
-## Practical Considerations
-
-### For Analysis
-
-When performing quantitative analysis of Psilocybe-cubensis:
-- Analyzing whole fruiting bodies (caps + stems combined) provides the most
-  representative measure of total alkaloid content
-- Cap-only or stem-only analysis may give misleading results depending on strain
-- The strain being analyzed must be identified, as [[fungal-biogeography-distribution-patterns]] differ
-  significantly
-
-### For Cultivation
-
-The finding that caps typically contain more psilocybin than stems (in most
-strains) means:
-- Cap-to-stem ratio in harvested mushrooms affects overall potency
-- Cultivation conditions that promote larger caps relative to stems may
-  influence the total alkaloid yield per gram
-- Selecting strains with favorable cap:stem ratios could be a cultivation
-  optimization strategy
-
-### For Consumption
-
-The strain-dependent distribution patterns mean that generalizations about
-"caps being more potent than stems" are not universally applicable. The Amazon
-strain showed equal psilocybin in both tissues, while other strains showed
-approximately 1.6:1 cap-to-stem ratios. Users cannot reliably estimate potency
-based on cap versus stem consumption alone without knowing the specific strain.
-
-## Methodological Notes
-
-The samples were cultivated on rye-grain substrate using the miniculture method
-adapted from San Antonio (1971) and Oss and Oeric (1976). Mushrooms were
-freeze-dried immediately after harvest and stored at −5°C. Analysis was by
-reversed-phase HPLC calibrated against NIDA standards, with TLC confirmation.
-The cap-stem separation was performed on first-flush specimens only, which may
-not represent the distribution pattern in later flushes where psilocin levels
-are higher.

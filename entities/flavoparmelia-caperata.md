@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Hale ME (1979). "How to Know the Lichens." 2nd ed. Wm. C. Brown Company.
-  - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
+  - Nash TH III (2008). *[[fungi-in-the-environment-lichen-biology]]*. 2nd ed. Cambridge University Press.
   - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
   - Gauslaa Y, Solhaug KA (2001). "Fungal melanins as a sun screen." *Mycological Research* 105: 845-852.
 ---
@@ -21,7 +21,7 @@ sources:
 
 **Flavoparmelia caperata**, the common greenshield lichen, is a large foliose lichen in the
 family Parmeliaceae. It is among the most frequently encountered lichens on tree bark in
-temperate regions worldwide.
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is immediately recognizable by its broad, pale green to yellow-green lobes
 with a distinctive pattern of white macules (pseudocyphellae) on the upper surface. It
@@ -57,8 +57,8 @@ The species contains usnic acid in the cortex and protocetraric acid in the medu
 
 ## Distribution and Habitat
 
-*Flavoparmelia caperata* has a cosmopolitan distribution in temperate and subtropical
-regions. It occurs across Europe, North and South America, Africa, Asia, and Oceania,
+*Flavoparmelia caperata* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and subtropical
+regions. It occurs across Europe, North and [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Oceania,
 making it one of the most widely distributed foliose lichens.
 
 The species is primarily corticolous, growing on the bark of a wide range of deciduous
@@ -88,55 +88,3 @@ broad-spectrum antibiotic and antifungal activity. It absorbs UV radiation, func
 an effective photoprotectant for the underlying photobiont.
 
 Protocetraric acid in the medulla contributes to the species' characteristic K+ yellow
-→ C+ pink spot test reactions. This depsidone is common in Parmeliaceae and provides
-additional antimicrobial protection.
-
-Minor constituents may include atranorin and caperatic acid in some populations. Chemical
-variation has been documented across geographic range, with Mediterranean material
-occasionally differing from [[growing-gourmet-north-american-reishi-species]] populations.
-
-## Ecological Role
-
-As one of the most abundant foliose lichens in temperate woodlands, *F. caperata*
-contributes significantly to canopy epiphyte biomass. It provides shelter and foraging
-substrate for diverse invertebrate communities including mites, nematodes, and insects.
-
-The species is an established bioindicator of air quality. Its tolerance threshold for
-sulfur dioxide is well documented, and its [[guzman-global-distribution-patterns-neurotropic-fungi]] are used in national
-lichen monitoring programs across Europe and North America.
-
-*F. caperata* plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by intercepting atmospheric
-deposition and canopy throughfall. Leached minerals and trapped particulates are slowly
-released to the forest floor during rain events.
-
-It supports specialized lichenicolous fungi including *Niesslia* and *Lichenostigma*
-species that grow on its thallus. These parasitic relationships are generally non-lethal
-and contribute to overall lichen community diversity.
-
-## Conservation
-
-*Flavoparmelia caperata* is not considered threatened and is one of the most common
-foliose lichens in its range. However, local declines occur in heavily polluted or
-intensively managed agricultural landscapes.
-
-Loss of mature trees through forestry, urbanization, and agricultural intensification
-reduces available substrate. The species requires stable bark surfaces that develop over
-decades, making it slow to colonize young planted trees.
-
-Air quality improvements in many European countries since the 1980s have facilitated
-population recoveries in previously depauperate areas. This recovery is documented in
-long-term lichen resurvey studies.
-
-## See Also
-
-- [[physconia-distorta]]
-
-- [[flavoparmelia-soredians]]
-
-- [[normandina-pulchella]]
-
-- [[evernia-prunastri]]
-- [[lecanora-muralis]]
-- [[cladonia-portentosa]]
-- [[usnea-hirta]]
-- [[lichen-symbiosis]]

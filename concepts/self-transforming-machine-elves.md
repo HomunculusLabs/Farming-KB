@@ -12,9 +12,9 @@ created: 2026-05-08
 
 Self-transforming machine elves are the most commonly reported [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]]
 phenomenon in the DMT (N,N-dimethyltryptamine) experience. The term was coined by
-Terence McKenna in *The Invisible Landscape* (1975), co-authored with his brother
-Dennis McKenna. These entities are described as hyperdimensional, dynamically
-contorting topological modules that appear during the peak of a DMT experience and
+[[terence-mckenna]] in *The [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975), co-authored with his brother
+[[dennis-mckenna]]. These entities are described as hyperdimensional, dynamically
+contorting topological modules that appear during the peak of a [[mckenna-dmt-experience-and-hyperspace]]
 exhibit behaviors suggesting autonomous intelligence, benevolence, and an apparent
 desire to communicate or teach.
 
@@ -51,10 +51,10 @@ has arrived "somewhere in eternity."
 
 The encounter follows a characteristic sequence:
 1. Onset begins approximately 15 seconds after inhalation.
-2. An audible phenomenon described as "ripping cellophane" or crumpling plastic.
+2. An audible phenomenon described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic.
 3. An ascending tone is heard.
 4. Geometric surfaces of migrating colored forms appear.
-5. All available serotonin receptor sites become occupied (mode shift).
+5. All available [[serotonin-receptor-interference-psychedelic-mechanism]] sites become occupied (mode shift).
 6. Arrival in the "merry go raum" — the hyperspace environment.
 7. Contact with the entities.
 
@@ -87,41 +87,3 @@ of an actual black hole, where no signal can escape to communicate its contents
 to outside observers.
 
 ## Relation to Other Traditions
-
-McKenna noted the striking absence of DMT-like motifs in familiar religious
-and artistic traditions. While LSD experiences showed similarities to Mahayana
-Buddhist iconography, the specific phenomenology of DMT — particularly the
-machine elf encounter — had no clear parallel in any known spiritual or
-artistic tradition. This absence, he suggested, might point to the experience
-representing something genuinely novel rather than a culturally-mediated
-interpretation of known archetypes.
-
-## Contemporary Research
-
-Dr. Rick Strassman's clinical DMT research at the University of New Mexico
-in the 1990s (published in *DMT: The Spirit Molecule*, 2001) documented
-consistent reports of [[dmt-entity-encounters-and-the-logos]] among volunteer subjects, lending
-empirical support to the reproducibility of McKenna's observations. More
-recent surveys by researchers such as Andrew Gallimore and Peter Sjöstedt-Hughes
-have continued to document the machine elf phenomenon as one of the most
-reliable features of the DMT experience.
-
-## Neurobiological Perspectives
-
-Neurobiological explanations for the machine elf phenomenon center on the
-5-HT2A receptor agonism produced by DMT binding. The hyperdimensional quality
-of the entities may reflect the brain's attempt to model activity in visual
-processing areas that are normally suppressed during waking consciousness.
-
-Some researchers propose that the entities represent emergent phenomena arising
-from the interaction between serotonergic system activation and the brain's
-default mode network, while others argue that the consistency and autonomy of
-the encounters resist purely reductionist explanations.
-
-## See Also
-
-- [[dmt]]
-- [[tryptamine-logos]]
-- [[hyperspace-logos-consciousness]]
-- [[stropharia-cubensis-hypothesis]]
-- [[tryptamine-hypercontinuum-and-invisible-landscape]]

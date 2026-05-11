@@ -1,5 +1,5 @@
 ---
-title: "Downy downy mildew biology diversity peronosporales and Diversity (Peronosporales)"
+title: Downy Mildew Biology Diversity Peronosporales
 created: 2026-04-26
 tags:
   - fungal-biodiversity
@@ -12,7 +12,7 @@ type: concept
 
 # Downy Mildew Biology and Diversity (Peronosporales)
 
-Downy mildews are a group of obligate biotrophic snow mold fungi belonging primarily to the Peronosporales within
+Downy mildews are a group of obligate biotrophic [[snow-mold-fungi-cold-temperature-plant-pathogens]] belonging primarily to the Peronosporales within
 the Oomycota. Despite their common name, downy mildews are
 not true fungi but members of the straminipiles, closely
 related to [[straminipiles-oomycetes-fungus-like-chromists]] and part of the broader [[biodiversity-oomycetes-straminipiles]]. They cause
@@ -51,7 +51,7 @@ include both plant-pathogenic and saprotrophic species.
 
 Downy mildews begin infection when zoospores or sporangia
 land on a susceptible host surface. Zoospores swim in free
-water on the leaf surface and encyst near stomata, then
+water on the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] and encyst near stomata, then
 produce germ tubes that penetrate through the stomatal
 opening. Once inside the leaf, the pathogen grows
 intercellularly, producing haustoria that penetrate host
@@ -75,7 +75,7 @@ a germ tube, or they can release zoospores.
 [[fungal-life-cycles-sexual-reproduction-metamorphosis]] produces thick-walled oospores that
 serve as survival structures. Oospores are formed when
 antheridia fertilize oogonia within infected host tissue.
-These and resting structures can persist in soil, plant debris,
+These [[fungal-sclerotia-and-resting-structures]] can persist in soil, plant debris,
 or seed for extended periods and germinate when conditions
 are favorable. Oospore production is an important source
 of genetic recombination and contributes to the generation
@@ -88,57 +88,3 @@ of new pathogenic races.
 Species of Peronospora infect a wide range of dicotyledonous
 plants. Faires plant catalog include P. tabacina (tobacco blue
 mold), P. destructor (onion downy mildew), and P. farinosa
-(complex, infecting various herbs). Peronospora species
-show high host specificity, with most species restricted
-to a single host genus.
-
-### Plasmopara
-
-Plasmopara viticola causes grape downy mildew, one of the
-most economically important downy mildew diseases worldwide.
-P. halstedii causes downy mildew of sunflower. Sporangia
-of Plasmopara are distinctive in their morphology and
-germination patterns.
-
-### Pseudoperonospora
-
-Pseudoperonospora cubensis causes downy mildew of cucurbits,
-including cucumber, melon, and squash. P. humuli attacks
-hops. The genus is characterized by sporangiophores with
-characteristic branching patterns and sporangia with
-distinctive papillae.
-
-### Bremia
-
-Bremia lactucae causes lettuce downy mildew and is
-characterized by its distinctive sporangiophore morphology
-with swollen branch tips. This species is particularly
-problematic in lettuce production because of the rapid
-emergence of new pathogenic races that overcome host
-resistance genes.
-
-## Oospore Germination and Soil Survival
-
-Oospores of downy mildews can survive in soil for years,
-making [[plant-disease-management-solomon]] challenging. Germination of
-oospores requires specific environmental conditions,
-including adequate moisture, suitable temperatures, and
-in some cases, chemical stimuli from host roots. The
-mechanisms of oospore [[mollison-designers-seed-dormancy-and-germination-treatments]] are not
-fully understood for most species, but they represent a
-critical phase in the disease cycle.
-
-## Detection and Survey Methods
-
-Detection of downy mildews in plant populations typically
-relies on visual symptoms and [[fungal-microscopic-examination-mounting-media-techniques]] of
-sporangiophores. Molecular methods situ, including PCR-based
-detection with genus-specific or species-specific primers,
-have greatly improved the sensitivity and speed of
-diagnosis. Quantitative PCR assays allow estimation of
-pathogen biomass in infected tissue, which is useful for
-disease forecasting and resistance screening.
-## See Also
-- [[biodiversity-oomycetes-straminipiles]]
-- [[straminipiles-oomycetes-fungus-like-chromists]]
-- [[cervantes-downy-mildew-fungal-blight]]

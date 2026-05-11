@@ -1,5 +1,5 @@
 ---
-title: dighton fungal nutrient immobilization turnover Immobilization and Turnover in Decomposition
+title: Dighton Fungal Nutrient Immobilization Turnover
 created: 2026-04-26
 tags:
   - mycology
@@ -27,7 +27,7 @@ to bacteria, serve as important longer-term nutrient reservoirs in ecosystems.
 
 Fungal hyphae colonizing decomposing resources incorporate new carbon and
 mineral nutrients into the advancing hyphal front and into more proximal
-biomass by translocation. While the fungal mycelium is alive and active, much
+biomass by translocation. While the [[fungal-mycelium-hyphae-and-the-feeding-phase]] is alive and active, much
 of this material remains bound to structural components or in the cytoplasm.
 Upon death of more proximal parts of the mycelium, materials may be
 retranslocated from dying to living components or released into the environment
@@ -43,13 +43,13 @@ effecting temporal changes in the availability of nutrients in the environment.
 
 Fungal immobilization of nutrients can be considerable. Stark (1972) showed
 that hyphae had 193-272% greater nitrogen content and 104-223% greater
-phosphorus content than the pine needle litter on which they were found. Fogel
-and Hunt (1983) demonstrated the importance of fungal biomass in a temperate
+phosphorus content than the [[dighton-pine-needle-litter-decomposition-fungal-succession]] on which they were found. Fogel
+and Hunt (1983) demonstrated the importance of [[bioremediation-fungal-biomass-biosorbent-material]] in a temperate
 Douglas fir [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]], where fungi represented approximately 2% of the
 total standing stock of organic matter. For all nutrients except calcium,
 roots and mycorrhizae contained greater stocks than the forest floor fungi.
 
-Clinton et al. (1999) measured nutrient content of fungal fruit bodies in a
+Clinton et al. (1999) measured [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies in a
 Nothofagus forest and showed that all elements other than calcium were more
 concentrated in fungal tissue than in forest floor material. Nitrogen in
 forest floor mushrooms reached 35 mg per kg compared to 8.7 mg per kg in the
@@ -61,7 +61,7 @@ kg.
 Where the C:nutrient ratio of a resource is very high, as in wood, the model
 of Swift et al. (1979) proposes initial immobilization and import of free
 nutrient into organic form (fungal thallus) during the initial stages of
-decomposition. Net mineralization occurs only when the fungal resource
+decomposition. Net mineralization occurs only when the [[fungal-resource-partitioning-decomposition-sequences]]
 C:nutrient content is equivalent to that of the fungus (approximately 15:1 for
 P and 6:1 for N). Until this point, the decomposer community competes with
 plants for available nutrients.
@@ -88,28 +88,3 @@ nutrient retention and release.
 Many basidiomycetes form rhizomorphs and are associated with decomposing wood.
 These fungi have the ability to translocate nutrients from decomposed leaf
 litter to freshly fallen leaf litter to improve [[fungal-decomposition-resource-quality-determinants]] and enhance
-decomposition rates. Lodge demonstrated that phosphorus content of recently
-fallen leaf litter could increase by 120-140% during the first 6 weeks of
-decomposition, and nitrogen by 110-160%, through activities of cord-forming
-fungi.
-
-Translocation through fungal tissues has been measured by tracer studies. Wells
-and Boddy (1990) showed that 75% (Phanerochaete velutina) and 13% (Phallus
-impudicus) of phosphorus added to a decomposed wood resource was translocated
-to newly colonized wood through mycelial cord systems.
-
-## Turnover Differences Between Fungi and Bacteria
-
-Marumoto et al. (1982) demonstrated a longer turnover time for fungi than
-bacteria in experimental decomposition studies. Using 14C and 15N labeling
-techniques, they showed that the rate of carbon loss as CO2 was similar
-between microbe sources, but the rate of [[fungal-nitrogen-mineralization-pathways]] as both NH4
-and NO3-N was slower in the decomposition of fungal cells. This slower
-mineralization from fungal biomass has important implications for the temporal
-dynamics of [[ph-and-nutrient-availability-garden-soils]] in ecosystems.
-
-## See Also
-
-- [[dighton-fungal-nutrient-translocation-element-redistribution]]
-- [[dighton-fungal-rhizomorphs-mycelial-cords]]
-- [[dighton-wood-decay-ecosystem-carbon]]

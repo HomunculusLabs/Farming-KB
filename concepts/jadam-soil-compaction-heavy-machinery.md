@@ -18,8 +18,8 @@ type: concept
 
 Soil compaction is the primary cause of farming difficulty worldwide. According
 to JADAM [[coleman-deep-organic-farming-philosophy]], continued use of heavy machinery creates a hardened
-layer (plow pan) at approximately 15 centimeters (6 inches) below the soil
-surface that traps agricultural chemicals, prevents root penetration, and
+layer ([[plow-pan-formation-and-remediation]]) at approximately 15 centimeters (6 inches) below the soil
+surface that traps [[agricultural-chemicals-mycorrhizal-impact]], prevents root penetration, and
 destroys soil biology. This page covers the causes, consequences, and
 solutions for soil compaction.
 
@@ -31,11 +31,11 @@ The plow pan is formed by the frequent use of heavy machinery. Tractor wheels
 press down on the soil with effects measurable as deep as 7 meters (23 feet).
 Repeated use of heavy vehicles turns the soil layer at 15 centimeters depth
 rock-hard. This compacted layer prevents roots from penetrating, blocks water
-infiltration, and traps chemical residues.
+infiltration, and traps [[ingham-manure-antibiotics-chemical-residues-composting]].
 
 ### Why Chemicals Accumulate
 
-If antibiotics, chemical pesticides, herbicides, and fertilizers applied
+If antibiotics, [[comparison-parasitoid-wasps-vs-chemical-pesticides]], herbicides, and fertilizers applied
 annually were diffused and decomposed throughout the soil profile, the problem
 would be less serious. However, the compacted layer prevents these chemicals
 from penetrating deeper. They linger at the 15-centimeter subsurface level
@@ -44,7 +44,7 @@ creating a toxic zone where most root activity is concentrated.
 
 The result is a vicious cycle: contaminated soil has low microbial activity,
 so it does not respond well to fertilizer inputs, prompting farmers to apply
-even more chemical fertilizer, which further degrades the soil.
+even more [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]], which further degrades the soil.
 
 ## Aggravating Factors
 
@@ -86,49 +86,5 @@ accumulated chemical load that cannot cycle through the soil profile.
 
 Farming becomes progressively more difficult. Plants suffer from increased
 soil-borne diseases, reduced [[dighton-fungal-drought-tolerance-plant-water-relations]], and poor [[plant-nutrient-uptake-mechanisms]]. The
-fundamental problem is not pest pressure or variety selection but the
+fundamental problem is not pest pressure or [[coleman-winter-greens-variety-selection]] but the
 inability of roots to function in compacted, contaminated soil.
-
-## JADAM's Solutions for Soil Compaction
-
-### Eliminate Heavy Machinery
-
-The primary solution is to stop using heavy tractors and switch to light
-vehicles. For fields, greenhouses, and orchards, refrain from heavy vehicle
-use entirely. Heavy vehicles may be permitted only in exceptional circumstances
-where tractors have GPS guidance ensuring wheels always travel on the same
-tracks and never enter areas where crop roots are growing.
-
-### Indigenous Microorganism Solution (JMS)
-
-JADAM indigenous microorganism solution (JMS) is probably the best means for
-solving soil compaction. Applied over a prolonged period, as microbial
-population and diversity increase, chemicals trapped in the compacted layer
-begin to dissolve and the layer gradually disappears. This leads to faster
-decomposition of [[hamilton-composting-and-organic-matter-management]] and reduced need for chemical fertilizer.
-
-JADAM recommends applying microorganisms regularly, three to four times per
-month throughout the year, by mixing them into irrigation water. When soil
-contamination is serious, one-time application is insufficient.
-
-### [[cover-crops]] like rye, which sends roots two to three meters deep, physically
-breaks up compacted layers while pulling up minerals from deep subsoil. Rye
-roots penetrate and enrich deep soil with organic matter while easing
-compaction through their powerful root activity.
-
-### Switch from Chemicals to Natural Inputs
-
-Replace [[cervantes-chemical-fertilizers-guide]] with JADAM [[solomon-liquid-fertilizers-and-foliar-feeding]] (JLF). A
-contaminated soil with low microbial activity does not respond to fertilizer,
-creating a cycle of increasing chemical application. Breaking this cycle
-requires transitioning to biological inputs.
-
-## Conventional and Organic Farming Are Incompatible
-
-JADAM states clearly that reconciling soil management with conventional
-farming proved impossible. The two approaches are mutually exclusive: you
-must solve soil compaction for sustained yield. Continuing conventional farming while
-trying to restore [[jadam-root-diagnosis-soil-health-indicators]] for diagnosing compaction
-  through root observation
-- [[fukuoka-orchard-cover-crop-black-wattle-system]] for natural approaches
-  to soil building through cover crops

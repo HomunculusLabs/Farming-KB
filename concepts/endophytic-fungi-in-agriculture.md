@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer drought tolerance, pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
+Endophytic fungi live inside plant tissues without causing disease symptoms. These symbiotic relationships, found in virtually all plant species studied, can confer [[dighton-fungal-drought-tolerance-plant-water-relations]], pest resistance, disease resistance, and enhanced nutrient uptake to host plants. Agricultural research is increasingly focused on harnessing endophytes as alternatives to chemical inputs.
 
 ## Types of Endophytic Fungi
 
@@ -39,13 +39,13 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 
 ### Pest and Herbivore Resistance
 - Production of alkaloid deterrents (clavicipitaceous endophytes)
-- Induction of plant volatile organic compounds (VOCs) that attract natural enemies of pests
+- Induction of plant [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs) that attract natural enemies of pests
 - Priming of jasmonic acid defense pathways
 - Physical reinforcement of cell walls through callose deposition
 - Production of protease inhibitors that reduce insect digestion
 
 ### Disease Resistance
-- Induced Systemic Resistance (ISR): Endophytes prime plant immune responses
+- [[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR): Endophytes prime plant immune responses
 - Production of antimicrobial compounds (antibiotics, siderophores)
 - Competition with pathogens for colonization sites and nutrients
 - Activation of plant pathogenesis-related (PR) proteins
@@ -60,8 +60,8 @@ Endophytic fungi live inside plant tissues without causing disease symptoms. The
 - Dark septate endophytes particularly effective for drought tolerance
 
 ### Nutrient Enhancement
-- Biological nitrogen fixation by some endophytic species
-- Phosphorus solubilization through organic acid production
+- [[biological-nitrogen-fixation-agriculture]] by some endophytic species
+- [[fungal-roles-in-phosphorus-solubilization]] through [[staycare-fungal-organic-acid-production-metal-leaching]]
 - Enhanced iron acquisition through siderophore production
 - Increased root branching and exploration
 - Upregulation of plant nutrient transporter genes

@@ -24,8 +24,8 @@ in agriculture and is also valued for its production of cellulolytic
 enzymes, which have industrial applications. The source text documents
 T. viride across multiple contexts: as a source of cellulase for
 protoplast isolation, as a mycoparasite inducing defense responses in
-Aspergillus niger, as an antagonist of numerous plant pathogens, and
-as a suppressor of mushroom pathogens in commercial cultivation.
+[[aspergillus-niger]], as an antagonist of numerous plant pathogens, and
+as a suppressor of [[dactylium-cobweb-mold-mushroom-pathogens]] in commercial cultivation.
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
@@ -66,15 +66,15 @@ as a suppressor of mushroom pathogens in commercial cultivation.
 
 ### Mycoparasitic Activity
 - Efficient antagonist of numerous plant-pathogenic fungi
-  including Fusarium verticillioides, Cochliobolus carbonum,
+  including [[fusarium-verticillioides]], Cochliobolus carbonum,
   and Colletotrichum graminicola (Vakili 1985)
 - Induces vacuolation in hyphae of Aspergillus niger when
-  grown in dual culture (Park and Robinson 1964)
+  grown in [[fukuoka-rice-barley-dual-culture]] (Park and Robinson 1964)
 - Successfully used as a biocontrol agent against Verticillium
-  malthousei in commercial mushroom production (de Trogoff
+  malthousei in [[history-of-commercial-mushroom-cultivation]] production (de Trogoff
   and Ricard 1976)
 - Demonstrated antagonism toward wood-inhabiting hymenomycetes
-  including shiitake (Lentinus edodes) on log-woods
+  including shiitake ([[lentinus-edodes-entity-the-mushroom-cultivator]]) on log-woods
   (Hashioka and Komatsu 1964; Komatsu and Hashioka 1964)
 - Has been investigated for production of gliotoxin and
   viridin (Webster and Lomas 1964)
@@ -88,51 +88,3 @@ as a suppressor of mushroom pathogens in commercial cultivation.
   Aspergillus niger hemicellulase to prevent cell clumping
   during protoplast formation
 - Plays a key role in [[gadd-fungal-cell-structure]] wall degradation for DNA
-  extraction and transformation studies
-
-### Biocontrol Applications
-- Used as a spray treatment on casing soil in commercial
-  mushroom production
-- Demonstrated lethal effects on wood-inhabiting fungi
-  including Lentinus edodes inside log-woods
-- Trichoderma species are particularly used for seed-coating
-  applications (Chet 1987; Howell 1991)
-- Multiple strains of T. koningii, T. harzianum, and T.
-  pseudokoningii parasitize sclerotia of Sclerotinia
-  sclerotiorum
-
-### Interactions with Other Fungi
-- Sphaeronaemella helvellae co-occurs as an antagonist of
-  similar plant pathogens
-- Coiling around host hyphae, penetration, and lysis are
-  characteristic mycoparasitic mechanisms
-- Hyphal interference through diffusible toxic compounds
-  precedes physical contact in some interactions
-
-### Research Methods
-- Selective media such as Trichoderma-selective medium (TSM)
-  for soil isolation
-- Dual culture assays on PDA for assessing antagonistic
-  activity against target pathogens
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA and translation
-  elongation factor (TEF1) gene sequencing
-- Enzyme activity assays for cellulase, chitinase, and
-  glucanase production
-- Scanning electron microscopy for studying mycoparasitic
-  interactions
-
-## Relevance
-Trichoderma viride is a cornerstone species in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of
-plant diseases and industrial mycology. Its dual significance as both a
-mycoparasite attacking pathogenic fungi and a producer of industrially
-important cellulolytic enzymes makes it one of the most practically
-useful fungi known. The source text documents its versatile roles across
-multiple ecological and biotechnological contexts, from suppressing
-mushroom pathogens to facilitating molecular biology protocols through
-cellulase production.
-
-## See Also
-
-- [[penicillium-expansum]]
-- [[pythium-ultimum]]
-- [[fusarium-verticillioides]]

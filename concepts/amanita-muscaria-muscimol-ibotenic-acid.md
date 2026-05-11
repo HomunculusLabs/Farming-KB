@@ -10,12 +10,12 @@ created: 2026-05-08
 
 ## Overview
 
-Amanita muscaria (fly agaric) and Amanita pantherina (panther
+Amanita muscaria ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]) and [[amanita-pantherina]] (panther
 cap) are mushrooms containing the psychoactive compounds muscimol
 and ibotenic acid. Unlike [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] which act on
-serotonin receptors, Amanita species produce intoxication through
+[[psilocybin-pharmacology-and-serotonin-receptors]], Amanita species produce intoxication through
 GABA receptor agonism and glutamate receptor activity. These
-mushrooms grow throughout much of the United States but carry
+mushrooms grow throughout much of the [[dmt-containing-plants-united-states-halpern]] but carry
 serious misidentification risks due to proximity of deadly
 poisonous Amanita species.
 
@@ -28,7 +28,7 @@ constituent in properly prepared Amanita muscaria. Estimated
 active dose is approximately 6 mg.
 
 ### Ibotenic Acid
-An excitatory amino acid that acts as a glutamate receptor
+An excitatory [[cho-fish-amino-acid-preparation]] that acts as a glutamate receptor
 agonist, inducing agitated toxic delirium. Active dose estimated
 at 30-60 mg. Ibotenic acid is a prodrug that decarboxylates to
 form muscimol when the mushrooms are dried.
@@ -82,51 +82,9 @@ mushroom material.
 
 ## Misidentification Risk
 
-This is the most serious concern with Amanita muscaria use.
+This is the most serious concern with [[amanita-muscaria-use-australia-nz]].
 Several Amanita species grow in close proximity, and some are
 deadly poisonous:
 
 ### Amanita phalloides (Death Cap)
 The most lethal mushroom known. Contains amatoxins that cause
-irreversible liver failure. Even experienced foragers have died
-from misidentification. Symptoms may not appear for 6-12 hours
-after ingestion, by which time significant liver damage has
-occurred.
-
-### Other Toxic Amanita Species
-A. virosa ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]), A. verna, and other white Amanita
-species contain the same deadly amatoxins as A. phalloides.
-
-### Why Misidentification Occurs
-- Amanita species often grow in the same habitats (near birch,
-  pine, and spruce trees)
-- Young specimens of different species can look nearly identical
-- The distinctive red cap with white spots of A. muscaria can
-  fade or be washed away by rain
-- Some poisonous Amanita species have similar cap appearances
-  at certain growth stages
-
-## Geographic Distribution
-
-Amanita muscaria grows throughout much of the United States,
-particularly in temperate and [[fungal-diversity-boreal-forests-taiga]]. It forms
-mycorrhizal associations with birch, pine, spruce, and other
-trees. Despite its wide distribution, poison control centers
-rarely receive reports of suspected Amanita muscaria poisonings,
-suggesting either infrequent use or successful identification
-when used intentionally.
-
-## Drying and Preparation
-
-Drying Amanita muscaria converts much of the ibotenic acid
-to muscimol through decarboxylation. This is important because
-ibotenic acid produces the more unpleasant agitated delirium
-while muscimol produces the desired sedative-dissociative
-effects. Proper drying is therefore considered essential for
-a more desirable experience, though it does not eliminate all
-risk.
-
-## See Also
-- [[salvia-divinorum-salvinorin]]
-- [[mescaline-peyote-san-pedro-cactus]]
-- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]

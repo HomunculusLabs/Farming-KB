@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - European Medicines Agency (2013). "Assessment report on Menyanthes trifoliata L., folium." EMA/HMPC.
-  - Mølgaard P (1992). "Distribution and ecology of Menyanthes trifoliata L. in the Danish freshwater system." Nordic Journal of Botany.
+  - Mølgaard P (1992). "[[copelandia-cyanescens-pantropical-distribution-and-ecology]] of Menyanthes trifoliata L. in the Danish freshwater system." Nordic Journal of Botany.
   - Szakiel A et al. (2011). "Bitter secoiridoids in Menyanthes trifoliata: distribution, chemistry and biological activity." Phytochemistry Reviews.
   - Barnes J et al. (2007). "Herbal Medicines." Pharmaceutical Press.
 ---
@@ -88,38 +88,3 @@ to at least USDA zone 3.
 **Medicinal use:** Bogbean leaf has a long history of use in European folk medicine as a
 bitter tonic. The German Commission E and European Medicines Agency have recognized its use
 for loss of appetite and dyspeptic complaints. Dried leaves are prepared as infusions or
-tinctures, typically at doses of 1–2 g of dried herb daily.
-
-Traditional applications include treatment of rheumatism, gout, and joint pain, reflecting
-the plant's anti-inflammatory properties. It has also been used as a febrifuge and as a
-substitute for hops in herbal beer production.
-
-## Bioactive Compounds and Pharmacology
-
-The principal bioactive constituents are **secoiridoid glycosides**, which are responsible
-for the intensely bitter taste and much of the pharmacological activity.
-
-**Key compounds:** Loganin and loganic acid are the major secoiridoids. The bitterest
-compound is **menyanthin** (a gentiopicroside-related glycoside), which stimulates bitter
-taste receptors on the tongue, triggering reflex secretion of gastric juices, bile, and
-saliva. Additional constituents include flavonoids (luteolin, apigenin glycosides),
-coumarins, and small amounts of alkaloids.
-
-**Pharmacological effects:** Extracts demonstrate anti-inflammatory activity in vitro,
-inhibiting cyclooxygenase and lipoxygenase pathways. Hepatoprotective effects have been
-documented in animal models. The bitter principles increase gastric acid secretion and
-gastrointestinal motility, supporting the traditional use as a digestive tonic.
-
-Antimicrobial activity has been observed against select [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens, though
-clinical relevance remains unestablished. The plant shows moderate antioxidant capacity in
-DPPH and FRAP assays.
-
-## See Also
-
-- [[nymphaea-odorata]]
-- [[butomus-umbellatus]]
-- [[phragmites-australis]]
-- [[pontederia-cordata]]
-- [[salvia-officinalis]]
-- [[glycyrrhiza-glabra]]
-- [[hypericum-perforatum]]

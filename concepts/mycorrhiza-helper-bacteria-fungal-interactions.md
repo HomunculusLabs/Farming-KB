@@ -88,30 +88,3 @@ Fungal suspension cultures, when regularly homogenised, consist entirely of
 actively growing hyphal tips -- the regions that respond most strongly to
 interacting organisms. This approach avoids the masking effect of harvesting
 entire mycelia from solid agar cultures, where only the extending margin is
-[[isolation-metabolically-active-arbuscules-intraradical-hyphae]]. It also facilitates isolation of bioactive metabolites.
-
-## Ecological Roles
-
-MHB contribute to plant health through multiple pathways:
-
-  - Promoting mycorrhiza formation, enhancing plant nutrient uptake
-  - Producing plant growth regulators that increase root branching and
-    permeability
-  - Improving nitrogen and phosphate availability
-  - Assisting plant and hyphal survival in contaminated soils
-  - Providing [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] against soilborne pathogens
-  - Producing antifungal compounds that suppress pathogenic fungi
-
-## Implications for Inoculation
-
-The fine balance between too small, adequate, and excess amounts of bacterial
-inocula means that precise quantification is essential. Too few bacteria
-produce no effect, adequate amounts promote fungal growth, and excess amounts
-may lead to antagonism. These findings have important implications for
-developing effective [[mycorrhizal-helper-bacteria]]
-- [[fungal-bacterial-partnerships-mycorrhizosphere]]
-- [[mycorrhization-helper-bacteria]]
-
-## See Also
-
-- [[symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions]]

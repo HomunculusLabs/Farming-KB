@@ -88,25 +88,3 @@ purchasing molasses for tea brewing.
 Molasses should be stored in a cool, dry place and used within a
 reasonable timeframe. Old molasses that has crystallized or developed
 off-flavors may have reduced biological activity. The sugars can
-degrade over time, and microbial contamination of stored molasses
-can introduce unwanted organisms into your brewing process. Fresh
-molasses provides the most consistent results.
-
-## Molasses in the Spray Tank
-
-Adding large amounts of molasses to your sprayer tank is acceptable
-because high concentration of sugar prevents the bad organisms from
-growing through [[ingham-antibiotics-osmotic-shock-compost-tea]]. At 5% concentration in the spray
-tank, molasses serves dual purposes: it acts as a sticker-spreader
-to help the tea adhere to leaf surfaces, and it provides fungal food
-that continues to feed organisms after application. The osmotic
-effect at this concentration prevents pathogens from establishing
-on the leaf surface.
-
-## Combining Molasses with Other Foods
-
-Molasses works best when combined with other food sources. Fish
-hydrolysate provides nitrogen and complex proteins that complement
-the sugars in molasses. Humic acids provide [[ingham-paper-cardboard-fungal-foods-compost]] that work
-synergistically with the more complex sugars in blackstrap molasses.
-Kelp adds trace minerals and natural [[singh-fungal-plant-growth-regulators-production]]. The

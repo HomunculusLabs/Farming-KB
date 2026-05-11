@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 ---
@@ -87,18 +88,3 @@ biogeographic publications.
 ## The Role of International Collaboration
 
 The acknowledgments section of the paper reveals the collaborative
-network that enabled even the partial picture presented. Information
-was contributed by specialists across multiple continents: Olah
-(Université Laval, Quebec) provided data on [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
-survey work. Africa, particularly the tropical forests of Central
-and West Africa, should yield many new species given the continent's
-overall [[biodiversity-fungal-biodiversity-estimation-methods]]. Southeast Asia remains virtually
-unknown for neurotropic fungi.
-Within well-studied countries, targeted surveys of understudied
-states and habitat types would likely reveal range extensions and
-new species. The authors' observation that new species are found
-wherever collections are made suggests that the 216 species counted
-in this paper could double with systematic exploration.
-## See also
-
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]

@@ -48,7 +48,7 @@ Flowering occurs from July to October, making it one of the latest-flowering Eur
 
 The rhizome system is more extensive than in alpine gentians, producing both flowering and non-flowering shoots. This clonal growth allows persistence under unfavorable conditions.
 
-Roots form associations with arbuscular mycorrhizal fungi that enhance nutrient uptake in the oligotrophic soils where the species grows. These fungal partners are particularly important for phosphorus acquisition in acidic wetland substrates.
+Roots form associations with [[arbuscular-mycorrhizal-fungi]] that enhance nutrient uptake in the oligotrophic soils where the species grows. These fungal partners are particularly important for [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] in acidic wetland substrates.
 
 ## Distribution and Habitat
 
@@ -56,7 +56,7 @@ Gentiana pneumonanthe occurs across temperate Europe from Ireland and Portugal e
 
 The species is restricted to wet, oligotrophic habitats including lowland heaths, valley bogs, transition mires, and damp acid grasslands. It requires seasonally waterlogged, acidic to neutral soils (pH 4.5–6.5).
 
-Key habitat requirements include low nutrient availability, seasonal flooding or high water tables, and minimal competition from tall grasses and shrubs. Traditional management by grazing, mowing, or burning maintains these open conditions.
+Key habitat requirements include low [[ph-and-nutrient-availability-garden-soils]], seasonal flooding or high water tables, and minimal competition from tall grasses and shrubs. Traditional management by grazing, mowing, or burning maintains these open conditions.
 
 The species has undergone severe range contraction in western Europe. The Netherlands, Belgium, and southern England have lost more than 70% of historic populations since 1950.
 
@@ -78,7 +78,7 @@ Plants are hardy to USDA Zone 5 but may suffer in areas with hot, dry summers. M
 
 The species is rarely available from mainstream nurseries but can be sourced from specialist native plant and wildflower suppliers in Europe.
 
-In North American gardens, Gentiana pneumonanthe is occasionally grown in bog gardens and naturalistic wetland plantings. It performs well in the Pacific Northwest and northeastern states with suitable acidic, moist conditions.
+In North American gardens, Gentiana pneumonanthe is occasionally grown in bog gardens and naturalistic wetland plantings. It performs well in the [[psilocybin-north-america-pacific-northwest]] and northeastern states with suitable acidic, moist conditions.
 
 ## Ecological Role
 
@@ -86,35 +86,4 @@ The most significant ecological relationship is the obligate dependency of the A
 
 After the third instar, Alcon blue caterpillars drop to the ground where they are adopted by *Myrmica* ants and carried into the ant nest. The caterpillars complete development by feeding on ant brood, a remarkable example of social parasitism.
 
-This tripartite relationship (plant–butterfly–ant) is one of the most studied ecological interactions in European conservation biology. Loss of any one component causes cascade failures in the system.
-
-Gentiana pneumonanthe also serves as a late-season nectar source for diverse pollinator communities. Long-tongued bumblebees are the primary pollinators, with the deep corolla tube excluding most other insects.
-
-The species is an indicator of high-quality wet heathland habitat. Its presence signals intact hydrological regimes and low nutrient levels characteristic of species-rich mire communities.
-
-## Uses
-
-Traditional European herbalism used marsh gentian as a bitter tonic and anti-inflammatory agent. The aerial parts contain gentiopicroside, swertiamarin, and gentiocrucine, compounds with documented hepatoprotective activity.
-
-Pharmacological studies have confirmed anti-inflammatory and antioxidant properties of Gentiana pneumonanthe extracts. Research has focused on xanthone compounds with potential applications in liver disease treatment.
-
-The species has no significant commercial use in modern herbalism or the beverage industry. *Gentiana lutea* remains the primary source of commercial gentian bitter compounds.
-
-In landscape and ecological restoration, marsh gentian is planted as part of wet heathland and bog restoration projects. Its deep blue flowers provide late-season color in native plant gardens.
-
-The species is valued in ecological monitoring programs as an indicator of wetland health. Population trends are tracked as part of the EU Habitats Directive reporting for Natura 2000 sites.
-
-Population genetics studies have revealed significant inbreeding depression in small, isolated populations. Conservation genetics research recommends maintaining populations above 250 flowering individuals to ensure long-term viability.
-
-## See Also
-
-- [[gentiana-verna]]
-- [[gentiana-lutea]]
-- [[gentiana-acaulis]]
-- [[centaurium-erythraea]]
-- [[swertia-chirata]]
-- [[vaccinium-myrtillus]]
-- [[artemisia-absinthium]]
-- [[gentiana-cruciata]]
-- [[primula-farinosa]]
-- [[taraxacum-officinale]]
+This tripartite relationship (plant–butterfly–ant) is one of the most studied [[king-stropharia-ecological-interactions-permaculture]] in European [[fungal-conservation-biology]]. Loss of any one component causes cascade failures in the system.

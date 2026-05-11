@@ -88,9 +88,3 @@ The open question is whether this residue reflects universal neurobiological str
 - ethnomycology
 
 ## Chapters Referenced
-
-- Ch.9: Harner, "Common Themes in South American Indian Yage Experiences"
-- Ch.10: Naranjo, "Psychological Aspects of the Yage Experience"
-- [[harner-shamanic-journey-and-altered-states]]
-- ethnomycology
-- [[shamanic-trance-cross-cultural-patterns]]

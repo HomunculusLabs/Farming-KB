@@ -65,7 +65,7 @@ This biological parallel was almost certainly not coincidental. The [ergot alkal
 
 The association between grain deities and fungal symbionts is not unique to Greek culture. The [worldwide distribution of hallucinogenic plants includes several grain-fungus associations that parallel the Demeter-ergot relationship:
 
-- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria-entity]] and various ergotized grains. The soma ritual, like the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], involved the preparation of a sacred drink from plant material under strict ritual conditions.
+- **Soma in Vedic India**: The identity of soma remains debated, but several scholars have proposed fungal candidates, including [[amanita-muscaria]] and various ergotized grains. The soma ritual, like the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]], involved the preparation of a sacred drink from plant material under strict ritual conditions.
 
 - **Mesoamerican corn and ergot**: Corn (maize) in Mesoamerica was subject to ergot infection, and the [sacred [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] ([[ololiuqui]]) used in Mesoamerican ritual contain the same ergoline alkaloids found in Claviceps purpurea. The pharmacological convergence between Greek and Mesoamerican grain-fungus traditions is one of the strongest arguments for the [comparative entheogenic hypothesis.
 
@@ -87,17 +87,3 @@ The [ergot hypothesis for the kykeon remains the most chemically specific and ph
 - [Claviceps purpurea chemistry
 
 - [Kykeon [[kykeon-potion-and-ergot-hypothesis-at-eleusis]]
-
-- [Kykeon preparation ritual
-
-- [Rarian plain
-
-- [Darnel and ergot
-
-- [Demeter and Persephone mythology
-
-- [[lesser-and-greater-eleusinian-mysteries]]
-
-- [Wasson-Hofmann-Ruck collaboration
-
-- [Ergot of barley and wheat

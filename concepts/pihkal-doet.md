@@ -39,7 +39,7 @@ distinguishing it from the halogenated DO compounds.
 
 The ethyl group is larger and more lipophilic than the methyl group in DOM,
 contributing to differences in both potency and subjective character. The
-alpha-methyl group on the ethylamine side chain provides resistance to MAO
+alpha-methyl group on the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] provides resistance to MAO
 metabolism and extends duration of action relative to non-methylated
 phenethylamine analogues. DOET has a molecular weight of approximately
 237.34 g/mol.
@@ -64,7 +64,7 @@ still poses a risk of premature redosing.
 
 ## Effects Profile
 
-DOET produces a psychedelic experience that many users describe as warmer
+DOET produces a [[lsd-psychedelic-experience-guide]] that many users describe as warmer
 and more interpersonal than the halogenated DO compounds. Visual effects
 are present but tend to be less dominant than with DOB or DOI, including
 moderate geometric patterning, color enhancement, and perceptual
@@ -75,7 +75,7 @@ iodine analogues.
 Cognitive effects include enhanced introspection, increased verbal fluency,
 and a quality of emotional openness that distinguishes DOET from many other
 DO compounds. Some users report mild empathogenic effects reminiscent of
-the MDA/MDMA family, though less pronounced than with dedicated entactogens.
+the MDA/[[mdma]] family, though less pronounced than with dedicated entactogens.
 The headspace is generally described as clear and controllable.
 
 Physical effects include moderate stimulation, mydriasis, elevated heart
@@ -88,58 +88,3 @@ relaxation during the peak, a quality relatively unusual among DO compounds.
 
 Shulgin found DOET to be a particularly interesting compound due to the
 ethyl group's influence on subjective character. In PIHKAL, he noted that
-DOET produced an experience that was "distinctly different" from the
-halogenated DO compounds, with a quality of warmth and interpersonal
-connectedness that he found both surprising and valuable.
-
-He was intrigued by the way the 4-position substituent seemed to modulate
-not just potency and duration but the actual qualitative character of the
-psychedelic experience. The ethyl group, being a simple alkyl chain rather
-than a halogen, appeared to shift the experience toward the empathogenic
-end of the spectrum.
-
-## Pharmacology
-
-DOET acts primarily as a 5-HT2A receptor agonist, the mechanism common to
-all psychedelic DO compounds. However, its [[tihkal-receptor-binding-serotonin]] profile may
-differ from the halogenated compounds due to the different electronic and
-steric properties of the ethyl group, which is less electron-withdrawing
-than halogens. The alpha-methyl group provides the same metabolic resistance
-seen in other DO compounds, though the overall duration is somewhat shorter
-than the heavier halogenated analogues. Metabolism occurs through hepatic
-pathways including aromatic hydroxylation and N-dealkylation. DOET's
-pharmacological profile has been less extensively studied than DOI or DOB.
-
-## Safety and Harm Reduction
-
-While DOET is somewhat less potent than the halogenated DO compounds, it
-still requires careful measurement and dosing. The 2 to 6 mg range should
-be respected, and users should start at the lower end of the range
-especially if they lack experience with DO compounds. The 8 to 14-hour
-duration requires a significant time commitment, and users should clear
-their schedules accordingly.
-
-The stimulant effects, while milder than those of DOC or DOB, can still
-pose risks for individuals with cardiovascular conditions. As with all DO
-compounds, the delayed onset creates a risk of premature redosing, and
-users should wait at least 3 hours before considering whether the initial
-dose was sufficient. A calm, familiar environment and an experienced,
-sober sitter are recommended.
-
-## Comparison to Related Compounds
-
-DOET is less potent and shorter-acting than DOB, DOC, or DOI, placing it
-closer to DOM in overall intensity and duration. Its warm, empathogenic
-quality distinguishes it from the more purely psychedelic halogenated
-compounds. Compared to DOM, DOET produces a slightly longer and more
-emotionally nuanced experience. Against MDA, DOET is more visual and less
-empathogenic, though the two share some qualitative overlap in their
-emotional warmth. The ethyl substituent clearly shifts DOET's profile
-toward the interpersonal spectrum compared to the purely visual dominance
-of the halogenated DO compounds.
-
-## See Also
-
-- [[pihkal-dob]]
-- [[pihkal-mda]]
-- [[pihkal-cautionary-note-and-legal-context]]

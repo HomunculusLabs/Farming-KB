@@ -11,12 +11,12 @@ type: concept
 
 # ALEPH-6
 
-**PIHKAL Entry #6**
+**[[2c-b-pihkal-entry-20]] #6**
 
 ## Chemical Identity
 
 - **Full name:** 2,5-Dimethoxy-4-phenylthioamphetamine
-- **Class:** Amphetamine (ALEPH family, 2,5-dimethoxy-4-thio
+- **Class:** Amphetamine ([[aleph-family-overview]], 2,5-dimethoxy-4-thio
   substitution with phenyl ring on sulfur)
 - **Molecular formula:** C17H21NO2S (free base)
 - **Hydrochloride salt:** white crystals, mp 194-195 °C
@@ -88,40 +88,3 @@ of 95% EtOH).
 LAH (2.0 g) in THF reduced the nitrostyrene (3.5 g) over 36 h
 reflux plus 24 h at room temperature. The amine was isolated
 via acetone grinding to give 1.8 g HCl salt, mp 194-195 °C.
-
-## Safety and Pharmacology
-
-ALEPH-6 is a threshold compound with modest activity at 30-40 mg.
-The combination with LSD and marijuana produced dramatically
-potentiated effects. The compound's long duration is notable.
-The 40 mg experiment was described as "hopelessly compromised"
-by the subsequent combination with LSD, and no higher doses
-were attempted.
-
-## Significance
-
-The compound was conceived as a vehicle for introducing a
-phenyl ring that could carry additional substituents
-(methoxy, trifluoromethyl, nitro) for SAR exploration.
-The beauty of putting a whole new ring into an active structure
-is that it provides a vehicle for introducing new substituents
-in new arrangements.
-
-However, ALEPH-6 proved to be a "forever threshold thing,"
-with insufficient activity to justify extensive analogue
-development. Had it been a cleanly active and potent compound,
-the phenyl group could have been fine-tuned with varying
-electron-withdrawing or electron-donating substituents.
-
-The two-carbon homologue, 2C-T-6
-(2,5-dimethoxy-4-phenylthiophenethylamine), has never been
-synthesized or assayed.
-
-## See Also
-
-- [[aleph-pihkal-entry-3]]
-- [[aleph-4-pihkal-entry-5]]
-
-- [[aleph-2-pihkal-entry-4]]
-- [[aleph-7-pihkal-entry-7]]
-- [[2c-t-pihkal-entry-39]]

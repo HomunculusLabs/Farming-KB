@@ -11,7 +11,7 @@ tags: [aact, leaf-curl, taphrina, peach, disease-suppression, foliar-spray, soil
 
 ## Overview
 
-Peach leaf curl, caused by the fungus *Taphrina deformans*, is one of the most recognizable fruit tree diseases, producing distorted, reddened, and thickened leaves on peach, nectarine, and almond trees. Dr. Elaine Ingham's field guide provides a detailed protocol for suppressing Taphrina using actively aerated compost tea (AACT), emphasizing that successful control requires a multi-season, multi-application approach rather than a single spray event. The protocol addresses both foliar protection and soil biology restoration.
+Peach leaf curl, caused by the fungus *Taphrina deformans*, is one of the most recognizable [[fungal-fruit-tree-diseases]], producing distorted, reddened, and thickened leaves on peach, nectarine, and almond trees. Dr. Elaine Ingham's field guide provides a detailed protocol for suppressing Taphrina using [[actively-aerated-compost-tea]] compost tea (AACT), emphasizing that successful control requires a multi-season, multi-application approach rather than a single spray event. The protocol addresses both foliar protection and soil biology restoration.
 
 ## Understanding Taphrina Biology
 
@@ -45,7 +45,7 @@ The fall spray serves multiple purposes:
 
 1. **Surface colonization** — beneficial organisms establish on leaf surfaces and bark before winter
 2. **Decomposition of infected debris** — organisms break down infected fallen leaves, destroying overwintering Taphrina spores
-3. **Bark protection** — fungal and bacterial communities colonize bark where Taphrina overwinters in bud scales
+3. **Bark protection** — fungal and [[cannabis-endorhiza-bacterial-communities]] colonize bark where Taphrina overwinters in bud scales
 4. **Soil biology boost** — a soil drench in fall restores soil food web balance for winter
 
 ### Spring Application Program
@@ -70,7 +70,7 @@ Spring applications protect emerging tissue during the critical infection window
 
 Ingham is emphatic about the most common failure mode:
 
-> "Don't spray just once with AACT and expect the organisms to get established. Coming from conventional methods, it just isn't possible."
+> "Don't spray just once with AACT and expect the organisms to get established. Coming from [[microwave-sterilization-versus-conventional-methods-comparison]], it just isn't possible."
 
 ### Why Single Sprays Fail
 
@@ -83,63 +83,8 @@ Ingham is emphatic about the most common failure mode:
 
 Ingham introduces an important concept about how organisms spread on plants:
 
-> "If you don't have good beneficial insects to 'taxi-cab' the CT organisms to the new leaves, then you have to do the taxi-cab job yourself."
+> "If you don't have good [[hamilton-beneficial-insects-and-biological-pest-control]] to 'taxi-cab' the CT organisms to the new leaves, then you have to do the taxi-cab job yourself."
 
 This means:
 
 - In healthy ecosystems, beneficial insects carry microorganisms from old leaves to new growth
-- In degraded or conventionally managed orchards, this natural transport system is absent
-- The grower must manually apply tea to each new flush of growth
-- If a member of the food web is missing, the grower must perform that missing function — which is expensive and may lead to soil compaction from increased equipment traffic
-
-## The Philosophy: AACT Is Not a Pesticide
-
-Ingham draws a clear distinction between biological and chemical approaches:
-
-> "CT is not a pesticide, and should not be discussed as being like a chemical control method."
-
-### Implications for Application
-
-- **No eradication expectation** — AACT suppresses through competition, not killing
-- **Consistent effort required** — think of it as feeding a soil ecosystem, not applying a chemical
-- **System-level thinking** — address the whole food web, not just the pathogen
-- **Long-term investment** — biological disease suppression builds over seasons
-
-## Integration with Overall Orchard Health
-
-### Soil Drench Component
-
-The soil drench aspect of the leaf curl protocol connects foliar disease management to overall soil health:
-
-- Healthy soil biology supports vigorous tree growth, making trees less susceptible to infection
-- Mycorrhizal colonization improves nutrient uptake and stress tolerance
-- Soil food web balance reduces overall disease pressure from multiple pathogens simultaneously
-- Decomposition of infected leaf litter in soil prevents spore buildup
-
-### Compost Quality Requirements
-
-The tea must come from high-quality compost that contains:
-
-- Active beneficial fungi (visible mycelium, confirmed by microscopy)
-- Diverse bacterial communities
-- No detectable pathogens (E. coli, coliforms below detection limits)
-- Adequate moisture content (50-60%)
-- Properly aged (minimum 6 months, ideally 12+ months for fungal compost)
-
-## Expected Results
-
-With consistent application over one to two seasons, growers can expect:
-
-- Progressive reduction in leaf curl symptoms each year
-- Eventually, near-complete suppression of visible Taphrina infection
-- Improved overall tree health and vigor as soil biology recovers
-- Reduced need for fungicide applications
-- Better fruit quality from healthier trees
-
-## See Also
-
-- [[ingham-leaf-curl-taphrina-disease-control|Leaf Curl Disease Control (Ingham)]]
-- [[ingham-foliar-compost-tea-application|Foliar Compost Tea Application]]
-- [[ingham-fungal-dominant-vs-bacterial-dominant-tea|Bacterial vs Fungal Dominant Teas]]
-- [[ingham-compost-quality-assessment-visual-microbial-indicators|Compost Quality Assessment]]
-- [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust|Orchard Disease Suppression]]

@@ -20,15 +20,15 @@ sources:
 
 Cladonia deformis is a fruticose lichen in the family Cladoniaceae, commonly known as the deformed cup lichen or the sand cup lichen. It forms distinctive podetia that arise from a well-developed primary thallus of squamules.
 
-The species is widely distributed across boreal and temperate regions of the Northern Hemisphere. It typically grows on soil, sand, and moss in open habitats including heathlands, dry grasslands, and forest clearings.
+The species is widely distributed across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It typically grows on soil, sand, and moss in open habitats including heathlands, dry grasslands, and forest clearings.
 
-Cladonia deformis is chemically variable, containing either fumarprotocetraric acid or usnic acid as its primary secondary metabolite. This chemical polymorphism has made it a subject of interest in lichen chemotaxonomy.
+Cladonia deformis is chemically variable, containing either fumarprotocetraric acid or usnic acid as its primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. This chemical polymorphism has made it a subject of interest in lichen chemotaxonomy.
 
 ## Taxonomy and Morphology
 
 The species was originally described by Carl Linnaeus in 1753 as Lichen deformis. It was later transferred to the genus Cladonia by Friedrich Weber in 1780.
 
-The full basionym authority is Cladonia deformis (L.) Hoffm. Common synonyms include Cladonia deformis f. foliolosa and Cladonia coccifera var. deformis.
+The full basionym authority is Cladonia deformis (L.) Hoffm. Common synonyms include Cladonia deformis f. foliolosa and [[cladonia-coccifera]] var. deformis.
 
 Molecular phylogenetic studies place Cladonia deformis within Cladonia clade C. This clade is characterized by species with well-developed primary thalli and branching podetia.
 
@@ -66,7 +66,7 @@ Cladonia deformis plays an important role in soil stabilization in sandy and dis
 
 The species is an early colonizer in post-fire succession and disturbed sites. It often forms extensive mats that facilitate the establishment of vascular plants and other lichens.
 
-Reindeer and caribou occasionally browse Cladonia deformis as part of their winter diet. However, it is less preferred than Cladonia rangiferina and Cladonia stellaris.
+Reindeer and caribou occasionally browse Cladonia deformis as part of their winter diet. However, it is less preferred than [[cladonia-rangiferina]] and [[cladonia-stellaris]].
 
 The lichen provides microhabitat for various invertebrates, including mites and springtails. These arthropods contribute to nutrient cycling within lichen-dominated ground communities.
 
@@ -84,37 +84,6 @@ The usnic acid chemotype contains usnic acid in the medulla and cortex. Some pop
 
 Spot tests reveal variability consistent with the chemical races. The podetia medulla is K+ yellow to red in fumarprotocetraric acid-containing specimens, and P+ yellow in usnic acid-containing specimens.
 
-No toxic compounds have been reported from Cladonia deformis. The secondary metabolites serve primarily as anti-herbivore and UV-protective functions.
+No toxic compounds have been reported from Cladonia deformis. The [[antifungal-secondary-metabolites-coprophilous-fungi]] serve primarily as anti-herbivore and UV-protective functions.
 
 Thin-layer chromatography is the standard method for distinguishing the two chemical races. The fumarprotocetraric acid race shows distinct Rf values from the usnic acid race when developed in standard solvent systems.
-
-Some studies have investigated the antimicrobial properties of Cladonia deformis extracts. Fumarprotocetraric acid has demonstrated weak antibacterial activity against Gram-positive bacteria in laboratory assays.
-
-## Similar Species
-
-Cladonia deformis is most easily confused with Cladonia coccifera, which produces bright red apothecia rather than brown ones. Cladonia coccifera also typically contains thamnolic acid rather than fumarprotocetraric acid.
-
-Cladonia uncialis has thicker, more robust podetia that are solid rather than hollow. Its podetia are distinctly gray and lack the fine surface squamules of Cladonia deformis.
-
-Cladonia rangiferina lacks a well-developed primary thallus and forms larger, more densely branched podetia. It also contains usnic acid almost exclusively.
-
-Cladonia pyxidata produces more clearly defined cup-shaped podetia with prominent proliferations from the cup margins. Its chemistry typically includes squamatic acid.
-
-Cladonia chlorophaea is morphologically similar but contains fumarprotocetraric acid alongside atranorin. It tends to grow in more shaded, humid microhabitats.
-
-Cladonia gracilis has more elongated, unbranched podetia and a less conspicuous primary thallus. It typically grows on more nutrient-poor substrates in arctic and alpine tundra.
-
-Cladonia fimbriata can appear similar when young but develops characteristically ragged cup margins. Its podetia are generally shorter and less branched than those of Cladonia deformis.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[cladonia-stellaris]]
-- [[cladonia-arbuscula]]
-- [[cladonia-furcata]]
-- [[cladonia-portentosa]]
-- [[cladonia-coccifera]]
-- [[cladonia-pyxidata]]
-- [[cladonia-uncialis]]
-- [[cladonia-chlorophaea]]
-- [[xanthoria-parietina]]

@@ -1,7 +1,7 @@
 ---
-title: Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition
+title: Comparison Phosphorus Solubilizing Microorganisms Vs Mycorrhizal Phosphorus Acquisition
 tags: [phosphorus, biofertilizers, mycorrhiza, soil-microbiology, plant-nutrition, arbuscular-mycorrhizal-fungi fungi in plant nutrition and growth. Mycologia. 2012;104(1):1-13.
-  - Bhattacharyya PN, Gupta A. Planta growth promoting rhizobacteria (PGPR): emergence in sustainable agriculture. Frontiers in Microbiology. 2012;3:124.
+  - Bhattacharyya PN, Gupta A. Planta [[plant-growth-promoting-rhizobacteria]] (PGPR): emergence in sustainable agriculture. Frontiers in Microbiology. 2012;3:124.
   - Goldstein AH. Recent progress in understanding the molecular genetics and biochemistry of calcium phosphate solubilization by Gram negative bacteria. Biological Agriculture & Horticulture. 1995;12(2):185-193.
   - Jansa J, Wischnewski A, Czechowski T, Bujon W. Lost in translation: developing molecular markers for mycorrhizal functioning. Trends in Plant Science. 2013;18(9):501-507.
   - Hinsinger P, Bengough AG, Vetterlein D, Young IM. Rhizosphere: biophysics, biogeochemistry and ecological relevance. Plant and Soil. 2009;321(1-2):117-152.
@@ -11,18 +11,18 @@ created: 2026-04-28
 
 # Phosphorus-Solubilizing Microorganisms vs Mycorrhizal Phosphorus Acquisition
 
-Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and [[dynamic-accumulator-plants-phosphorus]], iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
+Phosphorus (P) is one of the three primary macronutrients limiting crop production globally, yet an estimated 60–90% of applied phosphorus fertilizer becomes immobilized in soil as insoluble complexes unavailable to plants. Two principal biological strategies address this bottleneck: phosphorus-solubilizing microorganisms (PSMs) that chemically liberate P from mineral and organic pools, and dynamic-accumulator-plants-phosphorus, iron/aluminum phosphates, organic P (phytate, nucleic acids) | Soluble and weakly adsorbed P in soil solution; P desorbed from soil particle surfaces |
 | **Spatial reach** | Localized to rhizosphere (1–5 mm from root surface) | Hyphal network extends well beyond depletion zone, accessing bulk soil P |
-| **Key organisms** | *Pseudomonas fluorescens*, *[[bacillus-subtilis]]bacillus megaterium rium*, *Penicillium* spp., *aspergillus funneliformis mosseae rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
+| **Key organisms** | *Pseudomonas fluorescens*, *[[bacillus-subtilis]][[bacillus-megaterium]] rium*, *Penicillium* spp., *aspergillus [[funneliformis-mosseae]] rmis mosseae*, *Gigaspora margarita*, *Claroideoglomus* spp. |
 | **Host specificity** | None — free-living organisms act independently of plant species | Obligate symbionts with varying compatibility across plant families |
 
 ## How PSMs Solubilize Phosphorus
 
 Phosphorus-solubilizing microorganisms employ three principal biochemical strategies:
 
-**Organic acid production** is the dominant mechanism in most bacteria and fungi. Glucose dehydrogenase (GCD) in Gram-negative bacteria like *Pseudomonas* converts glucose to gluconic acid via the periplasmic oxidation pathway. Each mole of gluconic acid produced solubilizes approximately one mole of calcium from tricalcium phosphate. *Penicillium* and *Aspergillus* fungi secrete citric and oxalic acids through the TCA cycle overflow pathway. The carboxyl and hydroxyl groups of these acids chelate cations (Ca²⁺, Fe³⁺, Al³⁺) that otherwise bind phosphate into insoluble mineral complexes.
+**[[staycare-fungal-organic-acid-production-metal-leaching]]** is the dominant mechanism in most bacteria and fungi. Glucose dehydrogenase (GCD) in Gram-negative bacteria like *Pseudomonas* converts glucose to gluconic acid via the periplasmic oxidation pathway. Each mole of gluconic acid produced solubilizes approximately one mole of calcium from tricalcium phosphate. *Penicillium* and *Aspergillus* fungi secrete citric and oxalic acids through the TCA cycle overflow pathway. The carboxyl and hydroxyl groups of these acids chelate cations (Ca²⁺, Fe³⁺, Al³⁺) that otherwise bind phosphate into insoluble mineral complexes.
 
-**Acid phosphatase and phytase enzymes** hydrolyze organic phosphorus esters. Phytases are particularly important because phytate (myo-inositol hexakisphosphate) constitutes 50–80% of total organic P in many soils but is unavailable to plants lacking phytase production. *Bacillus subtilis* and *Pseudomonas* spp. produce extracellular phytases that release orthophosphate from phytate, making it available for plant uptake. Phosphatase activity is strongly induced under low-P conditions and suppressed by adequate available P.
+**Acid phosphatase and phytase enzymes** hydrolyze organic phosphorus esters. Phytases are particularly important because phytate (myo-inositol hexakisphosphate) constitutes 50–80% of total organic P in many soils but is unavailable to plants lacking phytase production. *Bacillus subtilis* and *Pseudomonas* spp. produce extracellular phytases that release orthophosphate from phytate, making it available for plant uptake. [[mycorrhizal-phosphatase-activity-elf97-detection]] is strongly induced under low-P conditions and suppressed by adequate available P.
 
 **Inorganic acid production** by nitrifying and sulfur-oxidizing bacteria (e.g., *Thiobacillus*, *Nitrosomonas*) generates nitric and sulfuric acids that solubilize phosphate minerals as a byproduct of their primary metabolism. This mechanism is slower but provides sustained P solubilization in amended soils.
 

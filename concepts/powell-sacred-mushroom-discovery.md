@@ -1,5 +1,5 @@
 ---
-title: "Sacred Mushroom Discovery by Wasson"
+title: Powell Sacred Mushroom Discovery
 created: 2026-04-28
 tags: [wasson, ethnomycology, psilocybin, sacred-mushroom, mazatec]
 date: 2026-04-25
@@ -19,7 +19,7 @@ president of a Wall Street banking firm, spent over thirty years in
 part-time study creating the new scientific discipline of ethnomycology,
 the study of the cultural and historical use of fungi. His 1957 Life
 magazine article, "The Discovery of Mushrooms that Cause Strange
-Visions," brought the psilocybin mushroom to Western attention and
+Visions," brought the [[african-psilocybin-mushroom-guide]] to Western attention and
 helped catalyze the cultural wave of psychedelic experimentation that
 followed in the 1960s.
 
@@ -34,7 +34,7 @@ Northern Europe. This cultural difference in attitudes toward mushrooms
 sparked a decades-long investigation into the role of fungi in human
 cultures.
 
-The Wassons' research into Amanita muscaria led them to propose that
+The Wassons' research into [[allegro-colour-and-consistency-of-the-amanita-muscaria]] led them to propose that
 it was the legendary Soma of ancient India. Of the 1,000 hymns in the
 Rig Veda, over 100 are dedicated solely to the divine plant Soma and
 its spectacular [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. Wasson noted that the Vedas
@@ -67,8 +67,8 @@ Divine Mushroom of Immortality."
 In 1952, poet Robert Graves wrote a crucial letter informing the
 Wassons of a supposed secret mushroom cult still in existence in
 Mexico. Graves included a clipping about finds by Harvard ethnobotanist
-Richard Evans Schultes, who in 1938 had identified a species of
-Panaeolus mushroom as the sacred sacrament of Mexican Indians. Although
+[[richard-evans-schultes]], who in 1938 had identified a species of
+[[panaeolus-mushroom-intoxication-history]] as the sacred sacrament of Mexican Indians. Although
 a few outsiders had observed native Mexican [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]], none
 had been permitted to partake of the mushroom itself.
 
@@ -86,25 +86,5 @@ the "bemushroomed" state, and everyone Pike asked agreed they were
 ## First Journey to Mexico: 1953
 
 In August 1953, the Wassons traveled to Huautla and enlisted a
-Mazatec curandero (shaman) for a mushroom ceremony. Under the pretense
+Mazatec curandero (shaman) for a [[maria-sabina-and-mazatec-mushroom-ceremony]]. Under the pretense
 of seeking supernaturally inspired news about their son, they were
-permitted to attend but only the shaman consumed the fungi. The shaman,
-under the effects of psilocybin, made three specific predictions about
-Wasson's son. Though Wasson initially humoured these predictions, they
-later proved remarkably accurate, suggesting the mushroom might indeed
-facilitate genuine clairvoyant experiences.
-
-## The Velada of 1955
-
-It was not until June 29-30, 1955, that Wasson himself participated in
-a velada (night ceremony) and consumed the sacred mushrooms. Guided by
-the Mazatec curandera Maria Sabina, Wasson underwent a profound
-[[leary-psychedelic-experience-bardo-mapping]]. The mushrooms used were subsequently identified
-as [[simon-powell]]
-
-- [[allegro-sacred-prostitute-and-the-mushroom-cult]] Topics
-
-- [[powell-entheogens-as-epistemological-tools]]
-- [[mckenna-tryptamine-psilocybin-consciousness-evolution]] Theory
-- Psychedelic Mushrooms of Mexico
-- LSD Self-Experiment by Hofmann

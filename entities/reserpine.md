@@ -11,10 +11,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Shimizu, M. et al. (1953). "Alkaloids of Rauwolfia serpentina." Journal of the American Chemical Society, 75, 5930-5933.
+  - Shimizu, M. et al. (1953). "Alkaloids of rauwolfia-serpentina." Journal of the American Chemical Society, 75, 5930-5933.
   - Carlsson, A. & Lindqvist, M. (1963). "Effect of chlorpromazine or haloperidol on formation of 3-methoxytyramine and normetanephrine in mouse brain." Acta Pharmacologica, 20, 140-144.
   - Frishman, W.H. & Grewall, P. (2000). "Serpentine (Rauwolfia serpentina): history, phytochemistry, pharmacology, and clinical use." Cardiovascular Drug Reviews, 18(2), 101-113.
-  - Henningfield, J.E. et al. (1999). "Reserpine: historical perspective." Drug and Alcohol Dependence, 56(1), 7-14.
+  - Henningfield, J.E. et al. (1999). "Reserpine: [[lemon-cannabis-alchemy-historical-perspective-and-references]]." Drug and [[cannabis-for-alcohol-dependence]], 56(1), 7-14.
   - Lopez-Munoz, F. et al. (2005). "The historical evolution of reserpine use." Journal of Clinical Psychopharmacology, 25(5), 521-526.
 ---
 
@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-**Reserpine** is an indole alkaloid isolated from the roots of *Rauwolfia serpentina* (Indian snakeroot) and other *Rauwolfia* species. It was the first effective antipsychotic and antihypertensive drug derived from a natural source, revolutionizing the treatment of hypertension and mental illness in the 1950s.
+**Reserpine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] isolated from the roots of *Rauwolfia serpentina* (Indian snakeroot) and other *Rauwolfia* species. It was the first effective antipsychotic and antihypertensive drug derived from a natural source, revolutionizing the treatment of hypertension and mental illness in the 1950s.
 
-Reserpine acts by irreversibly depleting monoamine neurotransmitters from nerve terminals. Despite its historical importance, reserpine is now rarely used clinically due to a high incidence of adverse effects, particularly severe depression.
+Reserpine acts by irreversibly depleting monoamine neurotransmitters from nerve terminals. Despite its historical importance, reserpine is now rarely used clinically due to a high incidence of [[adverse-effects-and-harm-reduction-psilocybin]], particularly severe depression.
 
 ## Chemical Properties
 
@@ -38,7 +38,7 @@ Reserpine acts by irreversibly depleting monoamine neurotransmitters from nerve 
 - **CAS number:** 50-55-5
 - **Optical rotation:** [α]D²⁰ = −118° (in chloroform)
 
-Reserpine belongs to the yohimbane class of indole alkaloids, sharing structural features with other Rauwolfia alkaloids such as ajmaline and serpentine. The molecule contains six methoxy groups and a trimethoxybenzoate ester.
+Reserpine belongs to the yohimbane class of indole alkaloids, sharing [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with other Rauwolfia alkaloids such as ajmaline and serpentine. The molecule contains six methoxy groups and a trimethoxybenzoate ester.
 
 ## Pharmacology
 
@@ -88,32 +88,3 @@ The high incidence of depression led to reserpine being largely replaced by newe
 - **LD50:** ~300 mg/kg (oral, rats); toxicity in humans is primarily pharmacological rather than lethal
 
 ## Natural Source
-
-### Rauwolfia Species
-
-Reserpine is extracted from the roots of *Rauwolfia serpentina*, a shrub native to the Indian subcontinent and Southeast Asia. The root bark contains 0.1–0.2% total alkaloids, of which reserpine constitutes approximately 0.05–0.15%.
-
-*Rauwolfia* has been used in Ayurvedic medicine for over 3,000 years under the name *sarpagandha* for treating snake bites, insomnia, anxiety, and insanity. Modern isolation of reserpine began in the 1950s after Ciba Pharmaceuticals identified the active principle.
-
-Other *Rauwolfia* species containing reserpine include *Rauwolfia vomitoria* (African snakeroot), *Rauwolfia caffra*, and *Rauwolfia hirsuta*. The compound has also been identified in small quantities in unrelated plant genera.
-
-### Historical Significance
-
-Reserpine was the first major tranquilizer introduced to Western psychiatry. It demonstrated that pharmacological manipulation of monoamine neurotransmitters could treat psychosis, providing foundational evidence for the monoamine hypothesis of depression.
-
-The 1957 discovery that reserpine causes depression in some patients directly led to the development of the monoamine hypothesis. This finding catalyzed the search for drugs that increase monoamine levels, ultimately producing tricyclic antidepressants and SSRIs.
-
-## Legal Status
-
-## See Also
-
-- [[rauwolfia-serpentina]]
-- [[serotonin]]
-- [[atropine]]
-- [[caffeine]]
-- [[nicotine]]
-- [[morphine]]
-- [[aconitine]]
-- [[strychnine]]
-- [[scopolamine]]
-- [[hyoscyamine]]

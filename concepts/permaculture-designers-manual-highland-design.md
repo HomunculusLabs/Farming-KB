@@ -1,5 +1,5 @@
 ---
-title: Highland and mollison-valley-and-mountain-climate-effects Design
+title: [[bill-mollison-permaculture-designers-manual]] Highland Design
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -88,27 +88,3 @@ Where frost penetration to 1.2 m in pastures is common (e.g. Iceland):
 - Lowland sheep have about ten times the nematode worm population of highland animals
 
 ### Browse Systems
-Shrub and tree browsing is little developed, although willow and dwarf birch species are available. High-energy browse from oaks or twigs of sugar-storing species like striped maple remains largely unexploited. Lack of shelter can reduce weight gains by 16-30%.
-
-## Slope Stability
-
-### Benching and Roads
-- Natural foothill slopes are down-curved (concave); build this curve into roads
-- Benching at the base of sloping and unstable tilted strata brings down the whole hill
-- Avoid building on unstable ravine edges, canyon floors, or mudslide-prone slopes
-- Local government often delineates areas of instability where building is not permitted
-
-### Safe Slope Angles
-- 100% (vertical): safe only in stone or very dry stable sediments
-- 50%: strictly not for tree clearing, needs permanent forest
-- 40%: maximum a track machine can safely traverse
-- 30%: can be cautiously harvested for firewood or coppice, benched for access
-- 20%: maximum for safe cultivation and [[permplant-willows-salix-erosion-control-fodder]]; wheeled tractors at about 18%
-- 10%: may need contour banking and careful use
-
-## Related Topics
-
-- permaculture-designers-manual-cold-climates - [[permaculture-designers-manual-cold-climate-design]] overview
-- permaculture-designers-manual-settlement-design - [[cool-climate-settlement-design-mollison]]
-- permaculture-designers-manual-frost-protection - [[holzer-frost-protection-techniques]]
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

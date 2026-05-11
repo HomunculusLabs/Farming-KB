@@ -43,7 +43,7 @@ Oil bodies within the thallus cells are a distinctive feature of liverwots, cont
 
 ## Distribution and Habitat
 
-*Marchantia polymorpha* has a truly global distribution, occurring on every continent including Antarctica. It is found from sea level to over 3,000 meters elevation across temperate, boreal, subtropical, and montane tropical regions.
+*Marchantia polymorpha* has a truly global distribution, occurring on every continent including Antarctica. It is found from sea level to over 3,000 meters elevation across temperate, boreal, subtropical, and montane [[fukuoka-natural-farming-in-tropical-regions]].
 
 The species is a classic **pioneer species** of disturbed, moist habitats. It commonly colonizes burnt ground, landslide scars, river gravels, recently exposed soil, and anthropogenic sites such as garden paths, greenhouse floors, and abandoned quarries.
 
@@ -69,7 +69,7 @@ Gemmae production is the primary means of asexual reproduction and local coloniz
 
 ## Ecological Roles
 
-As a pioneering species, *M. polymorpha* plays important roles in primary succession and soil stabilization. Its thalli help retain moisture and organic matter on bare substrates, facilitating colonization by subsequent plant species and contributing to early soil development.
+As a pioneering species, *M. polymorpha* plays important roles in [[dighton-fungi-volcanic-glacier-primary-succession]] and soil stabilization. Its thalli help retain moisture [[hamilton-composting-and-organic-matter-management]] on bare substrates, facilitating colonization by subsequent plant species and contributing to early soil development.
 
 Recent studies have demonstrated that *M. polymorpha* can serve as a **bioindicator of air quality**, particularly for heavy metal and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. The species accumulates atmospheric pollutants in its thallus tissue, and measurable changes in growth and physiology reflect ambient pollution levels.
 
@@ -77,36 +77,14 @@ The species contributes to **[[comparison-biological-nitrogen-fixation-vs-synthe
 
 The liverwort serves as habitat and food source for various invertebrates, including springtails, nematodes, and specialist herbivorous insects. Oil body compounds provide chemical defense against most generalist herbivores, though some specialist insects have evolved tolerance.
 
-The species shows notable **heavy metal tolerance** and has been investigated for phytoremediation of contaminated soils. Populations growing on copper, lead, and zinc mine tailings show adaptive metal accumulation patterns without significant growth reduction.
+The species shows notable **heavy metal tolerance** and has been investigated for phytoremediation of contaminated soils. Populations growing on copper, lead, and zinc mine tailings show adaptive metal [[psilocybin-psilocin-flush-accumulation-patterns]] without significant growth reduction.
 
 The species plays a role in **carbon cycling** within early successional communities. Although individual thalli are small, the rapid growth rate and high photosynthetic efficiency of *M. polymorpha* allow it to contribute disproportionately to carbon fixation on recently disturbed surfaces.
 
-In forest ecosystems, *M. polymorpha* contributes to nutrient cycling through rapid uptake and release of mineral nutrients. The species has a high cation exchange capacity similar to Sphagnum mosses, though less extensively studied.
+In forest ecosystems, *M. polymorpha* contributes to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] through rapid uptake and release of mineral nutrients. The species has a high [[cation-exchange-capacity]] similar to Sphagnum mosses, though less extensively studied.
 
 ## Research Significance
 
 *Marchantia polymorpha* has emerged as a premier **model organism** for evolutionary developmental biology. Its relatively simple body plan, ease of cultivation, efficient transformation protocols, and fully sequenced genome make it ideal for comparative studies with vascular plants.
 
 The species possesses the smallest genome of any land plant at approximately 280 megabases, with low redundancy and a compact genetic architecture. This simplicity has made it invaluable for gene function studies, particularly in understanding the evolution of land plant innovations.
-
-Research on *M. polymorpha* has revealed fundamental insights into the evolution of auxin signaling, cell wall biosynthesis, UV protection mechanisms, and the genetic basis of thalloid vs. leafy body plans. The development of efficient *Agrobacterium*-mediated transformation and recently established tissue culture protocols has accelerated [[magnaporthe-grisea-functional-genomics-rice-blast]] research. Over 1,000 mutant lines are now available through public stock centers, facilitating community-wide research efforts.
-
-CRISPR-Cas9 gene editing is routinely applied in this species.
-
-Comparative genomics studies using *M. polymorpha* have revealed that many genes involved in plant-microbe interactions and immune responses were present in the earliest land plants. This finding has reshaped understanding of the co-evolution of plants and their microbial partners.
-
-In synthetic biology, *M. polymorpha* is being explored as a chassis for producing valuable plant [[antifungal-secondary-metabolites-coprophilous-fungi]]. Its simple metabolism and ease of genetic manipulation make it a promising platform for engineered biosynthesis of pharmaceuticals and industrial compounds.
-
-The liverwort has also contributed to understanding of **secondary metabolism**, particularly the biosynthesis of terpenoids and bibenzyls. Many of these compounds have pharmacological activities including antibacterial, antifungal, and antioxidant properties.
-
-## See Also
-
-- [[cladonia-stellaris]]
-- [[xanthoria-parietina]]
-- [[lobaria-pulmonaria]]
-- [[ramalina-farinacea]]
-- [[cladonia-rangiferina]]
-- [[cladonia-portentosa]]
-- [[lecanora-muralis]]
-- [[cetraria-islandica]]
-- [[nephroma-laevigatum]]

@@ -88,11 +88,3 @@ Fukuoka traced the concept of clay seed pellets to ancient [[fukuoka-textdoc-pos
 The Japanese term "tsuchi dango" literally means "earth dumpling," reflecting the simple, hands-on nature of the technology. Fukuoka valued this simplicity because it made the technique accessible to anyone, regardless of technical training or financial resources.
 
 ## See Also
-
-- [[clay-pellet-seeding]]
-- [[fukuoka-clay-pellet-aerial-seeding-method]]
-
-- [[clay-pellet-desert-revegetation]]
-
-- [[fukuoka-natural-farming-philosophy]] for Fukuoka's global vision
-- fukuoka-natural-farming-philosophy for the philosophical foundation

@@ -1,0 +1,90 @@
+---
+title: Coleman Preemergence Flaming Weed Control
+tags:
+  - eliot-coleman
+  - winter-harvest-handbook
+  - weed-control
+  - flaming
+  - propane
+  - pest-management
+  - greenhouse
+  - preemergence
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - eliot-coleman-winter-harvest-handbook.md
+---
+
+# Preemergence Flaming for Weed Control
+
+## Overview
+
+Preemergence flaming is a weed control technique that uses a propane flame to kill weed seedlings on a seeded area just before the crop emerges. The not-yet-emerged crop seeds are insulated from the heat by the soil. [[eliot-coleman]] learned this technique from European growers and has adapted it for use in both field and greenhouse settings at [[coleman-four-season-farm]]. It is especially valuable for greenhouse crops planted at the intensive 2.5-inch [[wide-row-spacing-intensive-gardening-comparison]] used by the precision seeders, where mechanical cultivation between rows is impractical.
+
+## The Principle
+
+Preemergence flaming exploits the difference in timing between weed [[cannabis-seed-germination]] and crop seed germination. When a bed is prepared and sown, weed seeds already present in the soil germinate in response to the moisture and disturbance. Because many weed species germinate faster than crop seeds, there is a window of time after sowing when weed seedlings are visible above the soil surface but the crop has not yet emerged. During this window, a propane flame is passed over the bed to kill the weed seedlings. The crop seeds, still safely buried below the soil surface, are protected from the heat.
+
+## Timing — The Critical Factor
+
+### Two Methods for Determining When to Flame
+
+**Glass pane method:** In the 1970s, European friends taught Coleman the system of using panes of glass about one [[comparison-biointensive-vs-square-foot-gardening]] in size, held about an inch off the ground in a wooden frame. After sowing, these were placed randomly on the field surface to speed up germination of crop seeds by creating a mini-greenhouse effect. The grower would flame immediately upon seeing the first crop seed germination under the glass. This works well in [[coleman-overwintered-onions-and-early-spring-crops]].
+
+**Day-count method:** For summer sowings, where the glass method becomes too hot, Coleman tracks days to germination for different crops at different seasons. Records are kept and referenced each year, with a one-to-two-day safety margin built in. The flame is applied when the calculated germination window arrives.
+
+### Pre-Sowing Preparation
+
+For best results, the seedbed is prepared up to two weeks before the sowing date if possible. Any length of preparation time helps. The area may be irrigated during the pre-sowing period to ensure weed seed germination. The crop is then sown without further cultivating, the ideal number of days are waited, and the weeds are flamed off.
+
+## The Physics of Flaming
+
+### Wilting, Not Burning
+
+The goal of flaming is wilting, not burning. Exposure to a temperature of 160 degrees Fahrenheit (71 degrees Celsius) for one second is sufficient to melt the protein cells in small weeds, ideally those less than one inch tall. The weeds continue to look normal for an hour or two after being flamed but then wilt and die.
+
+### Fuel Efficiency
+
+Burning the weeds to a crisp uses three times as much propane as wilting them. The difference is significant for cost control. Properly sized nozzles for the area to be covered and a hood over the flame to contain the heat are the most economical flamer design features.
+
+## Challenges by Crop Type
+
+### Quick-Germinating Crops
+
+For crops planted in close succession — especially quick-germinating salads like lettuce and arugula — there is not much time for weeds to germinate ahead of the crop. Preemergence flaming is difficult to rely on with these crops because the weed and crop germination windows overlap too closely.
+
+### Slow-Germinating Crops
+
+Flaming is highly effective for crops that take a while to germinate, such as carrots, onions, and parsley. These crops leave a wider window between sowing and emergence during which weed seedlings can be dispatched.
+
+### Chickweed — The Primary Winter Greenhouse Weed
+
+Chickweed is the most troublesome weed in winter greenhouses at [[coleman-wash-pack-infrastructure-four-season-farm]]. It thrives on fertile soils and can both germinate and set seed at surprisingly low temperatures. Coleman has observed chickweed plants in full bloom in a cold house on January 15. Preemergence flaming is particularly effective against chickweed because of its rapid germination relative to many winter crop seeds.
+
+## Equipment Considerations
+
+### Problems with Commercial Flamers
+
+Coleman finds that all commercially available hand flamers (as opposed to tractor-mounted units) have burners that are way oversized for the job. The consequences of oversized burners include:
+
+- Burning far more propane than necessary
+- Risk of the propane tank freezing up due to rapid evaporation (evaporation is a cooling process)
+- Inhibiting propane flow when the tank freezes
+- Large open flame is tricky to use near [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]], creating a fire hazard
+
+### Coleman's Ideal Design
+
+Coleman has been working on designing an improved flamer with these features:
+
+- Properly sized nozzles matched to the area being covered
+- A hood over the flame to contain heat and improve efficiency
+- A roller behind the hood to maintain optimum height above the soil and take weight off the operator's arms
+- A 15-inch-wide model that can cover a 30-inch bed with one pass down and back
+
+This design remains a work in progress. Coleman encourages other growers to design and make tools when commercial options are inadequate and to share the designs.
+
+## Integration with Other Weed Control Methods
+
+Flaming is one element in a layered weed control strategy:
+
+1. **Prevention first** — Ensure no weed goes to seed; reduce soil weed seed load over three to five years

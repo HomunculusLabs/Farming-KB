@@ -9,11 +9,11 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic [[leary-psychedelic-experience-bardo-mapping]] sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The [[leary-psychedelic-experience-bardo-mapping]]" (1964) by [[timothy-leary]], Ralph Metzner, and [[richard-alpert]] adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic [[leary-psychedelic-experience-bardo-mapping]] experience depends almost entirely on set and setting."
+Leary's foundational principle: "The psychedelic experience depends almost entirely on set and setting."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds
@@ -82,11 +82,11 @@ Those who resist ego-loss may experience:
 
 ### Cross-Reference
 
-Leary's Bardo model parallels [[psychedelic-experience-stages|Turner's phenomenological stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
+Leary's Bardo model parallels [[psychedelic-experience-stages]] — the Chikhai Bardo corresponds to Turner's "peak," the Chonyid Bardo to the extended peak/plateau, and the Sidpa Bardo to the "comedown/return." Both frameworks serve the same purpose: providing conceptual navigation tools for non-ordinary consciousness.
 
 ### Critical Note
 
-Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto Western psychedelic use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against psychedelic research. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern psychedelic therapy and harm reduction.
+Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto [[shamanic-vs-western-psychedelic-healing]] use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against [[controlled-substances-act-and-psychedelic-research]]. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern [[psychedelic-therapy-and-research]] harm reduction.
 
 ## See Also
 

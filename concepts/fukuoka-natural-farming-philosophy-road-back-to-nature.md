@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Natural [[cho-natural-farming-philosophy]] — The Road Back to Nature"
+title: Fukuoka Natural Farming Philosophy Road Back To Nature
 source: masanobu-fukuoka-the-road-back-to-nature.md
 topics: [natural-farming, fukuoka, philosophy, agriculture, spirituality]
 ---
@@ -88,39 +88,3 @@ without fundamental change in the relationship with nature.
 
 ### Africa: Forty Days in the Desert
 Fukuoka spent forty days applying natural farming to desert reclamation in Africa,
-concluding the tragedy was connected to the same human-nature separation driving
-agricultural decline everywhere.
-
-## The Natural Diet and Food Philosophy
-
-Fukuoka argues humanity has become an animal surviving only by processing food.
-Originally there was nature and food, and man lived within this. The moment people
-adopted the view that man produces crops of his choosing, humanity became "an
-arrogant lord who commands nature." He advocates unprocessed natural foods.
-
-## Critique of Organic Farming
-
-Fukuoka is sharply critical of "organic farming and ecology" as self-defeating.
-Even organic farming remains within the paradigm of human knowledge imposing itself
-on nature. True natural farming requires abandoning [[fukuoka-critique-laws-agricultural-science]] entirely.
-
-## The Vision of Desert Greening
-
-Fukuoka developed seed ball methods (seeds encased in clay) for arid regions,
-believing natural vegetation could be restored without irrigation, fertilizers,
-or human management. His African experiments represent practical applications.
-
-## Legacy
-
-*The Road Back to Nature* is the mature philosophical expression of Fukuoka's life
-work. While *One Straw Revolution* focused on practical techniques, this later work
-places natural farming within a comprehensive spiritual and civilizational critique.
-The path back to nature is not a technical problem but a spiritual one requiring
-the abandonment of human arrogance and recovery of innocent perception.
-
-## See Also
-
-- [[fukuoka-road-one-straw-revolution-continuation]]
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
-- [[fukuoka-sowing-agricultural-production-as-net-energy-deduction]]
-- [[fukuoka-textdoc-genetic-engineering-warning]]

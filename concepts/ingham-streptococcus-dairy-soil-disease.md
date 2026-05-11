@@ -4,6 +4,7 @@ tags: [soil-biology, compost-tea, dairy, pathogens, disease-suppression, ingham,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 created: 2026-04-28
@@ -87,37 +88,3 @@ Proper composting of dairy manure before field application is critical. The comp
 - **Passage through earthworm guts**[[vermicomposting]] ting exposes pathogens to digestive enzymes
 - **Competition with aerobic organisms** deprives pathogens of food and space
 - **Consumption by predators** (protozoa, nematodes) directly reduces pathogen populations
-
-When compost is fully finished, it contains no human pathogens and is dominated by beneficial organisms that will continue competitive suppression of disease organisms when applied to soil. Partly composted material is not finished compost — there is a threshold where one can determine whether composting has proceeded enough to call the material compost rather than manure.
-
-The distinction matters enormously. Manure applied to soil adds both pathogens and the undigested organic compounds that feed them. Finished compost adds beneficial organisms that actively suppress pathogens and the humic materials that support long-term soil health. One builds disease pressure; the other builds disease resistance.
-
-## Antibiotics in Dairy Systems
-
-Antibiotics from dairy operations (particularly wormers/strongylid medicine) present additional challenges for composting. However, antibiotics are generally easier for compost organisms to decompose than other pharmaceutical residues, as long as concentrations are not overwhelming.
-
-The biggest composting problems come from strongylid de-wormer, followed by herbicide residues, insecticides, fungicides, then copper and sulfur.
-
-If compost temperature does not respond normally during the startup phase — if temperatures stay low too long — this signals that inhibitory materials are present. The remedy is to add more nitrogen ([[comparison-fish-hydrolysate-vs-fish-emulsion]] for de-wormer problems), then molasses for energy, and potentially inoculants containing bacteria that decompose these materials.
-
-## Lagoon and Barn Floor Remediation
-
-Beyond field soils, Ingham's work with Gary Wegner extends to dairy lagoons and barn floors. These confined environments present extreme versions of the same anaerobic conditions found in field soils.
-
-Lagoons accumulate liquid waste with very high organic loading, creating intense anaerobic conditions that produce hydrogen sulfide, ammonia, and methane — all indicators of a system dominated by anaerobic metabolism. These gases are not just waste products; they are evidence that the nutrient value of the manure is being lost to the atmosphere rather than being retained in stable biological forms.
-
-Barn floors present a contact-surface version of the same problem. Manure residues on floors provide food for pathogenic bacteria that can then splash onto cow udders during milking. Surface cleaning addresses the symptom but not the source. The source is the biological condition of the waste material itself — if the manure were properly composted before any handling, the pathogen load would be dramatically reduced.
-
-## Connection to the Broader Soil Foodweb
-
-The Streptococcus problem illustrates a core principle of Ingham's framework: disease is not a single-organism problem but a systems failure. The whole foodweb needs to be restored — not just bacteria, but also beneficial fungi, all protozoa groups, [[ingham-beneficial-nematodes-soil-food-web]], and microarthropods.
-
-Adding [[ingham-thermal-worm-compost-comparison]] is especially helpful for re-establishing microarthropod populations. Worm castings introduce not only the organisms from the worm gut but also the microarthropod communities that colonize the worm beds. This provides a inoculum package that addresses multiple trophic levels simultaneously.
-
-This case study reinforces the broader lesson that AACT is a preventative approach, not a pesticide. The mechanisms are mechanical — competition for food, space, and infection sites — not toxic. Pathogens are out-competed and eliminated through normal biological processes that have worked since biology first appeared on the planet.
-
-## See Also
-
-- [[ingham-anaerobic-organisms-role-soil]]
-- [[ingham-aact-disease-suppression]]
-- [[animal-manure-guide]]

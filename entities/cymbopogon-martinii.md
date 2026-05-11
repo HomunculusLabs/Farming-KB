@@ -5,7 +5,7 @@ tags:
   - aromatic-plant
   - essential-oil
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - palmarosa
 date: 2026-04-28
 updated: 2026-04-28
@@ -13,7 +13,7 @@ sources:
   - Rao, B.R.R., Kaul, P.N., Syamasundar, K.V. & Ramesh, S. (2005). "Chemical profiles of primary and secondary comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of palmarosa (Cymbopogon martinii (Roxb.) Wats var. motia Burk.)." Industrial Crops and Products, 21, 121-127.
   - Akhila, A. (2010). Essential Oil-Bearing Grasses: The Genus Cymbopogon. Boca Raton: CRC Press.
   - Garg, S.N. & Siddiqui, M.S. (1999). "Variation in essential oil composition of Cymbopogon martinii during plant ontogeny." Journal of Essential Oil Research, 11, 155-157.
-  - Dubey, R.C., Dwivedi, D. & Pandey, A.K. (2014). "Antimicrobial activity of Cymbopogon martinii essential oil." Journal of Applied Natural Science, 6, 46-50.
+  - Dubey, R.C., Dwivedi, D. & Pandey, A.K. (2014). "Antimicrobial activity of Cymbopogon martinii essential oil." Journal of Applied [[fukuoka-illusions-of-natural-science]], 6, 46-50.
   - Pattanaik, S., Hota, D., Prajapati, S.C. & Pandey, S. (2011). "Pharmacological activities of Cymbopogon martinii (Roxb.) Wats: An overview." Pharmacognosy Reviews, 5, 71-75.
 created: 2026-04-28
 ---
@@ -24,7 +24,7 @@ created: 2026-04-28
 
 **Cymbopogon martinii** (Roxb.) Wats., known as **palmarosa** or **Indian geranium**, is a perennial aromatic grass in the family Poaceae.
 
-Native to the Indian subcontinent, it is cultivated commercially for its essential oil, which is rich in **geraniol** — a monoterpene alcohol used extensively in perfumery, cosmetics, and aromatherapy.
+Native to the Indian subcontinent, it is cultivated commercially for its essential oil, which is rich in **[[geraniol]]** — a monoterpene alcohol used extensively in perfumery, cosmetics, and aromatherapy.
 
 Two botanical varieties are recognized: var. **motia** (high geraniol, primary commercial type) and var. **sofia** (high geranyl acetate, minor cultivation).
 
@@ -63,10 +63,10 @@ Palmarosa oil is steam-distilled from the aerial parts (primarily flowering tops
 The principal constituent of var. **motia** oil is **geraniol** (75–90%), with supporting compounds including:
 
 - **Geranyl acetate** (5–15%)
-- **Linalool** (1–5%)
+- **[[linalool]]** (1–5%)
 - **Myrcene** (1–3%)
 - **Citronellol** (1–3%)
-- **Limonene**, **farnesol**, **cis-β-ocimene** (trace amounts)
+- **[[limonene]]**, **farnesol**, **cis-β-ocimene** (trace amounts)
 
 Var. **sofia** oil is dominated by **geranyl acetate** (70–80%) rather than free geraniol.
 
@@ -87,35 +87,3 @@ Palmarosa oil demonstrates broad-spectrum antimicrobial activity in vitro:
 Geraniol accelerates wound contraction and collagen deposition in rat excision wound models.
 
 The oil has been used traditionally for acne, dermatitis, and minor skin infections. It is classified as generally recognized as safe (GRAS) for topical use.
-
-### Other Activities
-
-- **Antioxidant:** Moderate DPPH scavenging activity, attributed to geraniol and linalool
-- **Anti-inflammatory:** Geraniol inhibits COX-2 and TNF-α expression in LPS-stimulated macrophages
-- **Antinociceptive:** Significant analgesic effect in acetic acid writhing and hot-plate tests in rodents
-- **Neuropharmacological:** Anxiolytic-like effects in elevated plus-maze models; mild sedative at high doses
-
-### Traditional Applications
-
-In Indian folk medicine, palmarosa grass is infused for digestive complaints and fever.
-
-The essential oil is applied to joints for rheumatic pain and used as a hair tonic and scalp treatment.
-
-## Permaculture and Agroforestry
-
-Palmarosa is an excellent multi-functional species for tropical permaculture designs:
-
-- Acts as a **[[comparison-living-mulch-vs-cover-crops]]** and [[permplant-willows-salix-erosion-control-fodder]] grass on slopes and bunds
-- Its dense root mat stabilizes soil and reduces runoff
-- Intercropped successfully with food crops including legumes, cereals, and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
-- Essential oil production provides high-value secondary income
-- Drought-tolerant once established; suitable for rain-fed systems
-- Repels certain insect pests through volatile oil emissions
-- Residue after distillation (grass biomass) returns [[hamilton-composting-and-organic-matter-management]] to soil
-
-Suitable for contour planting, [[cymbopogon-citratus]]
-- [[geraniol]]
-- [[permaculture-designers-manual-essential-oil-plants]]
-- aromatherapy compounds
-- [[permaculture-plants-dynamic-accumulators]]
-- poaceae

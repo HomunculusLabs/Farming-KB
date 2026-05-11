@@ -44,7 +44,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 - **Mature canopy**: Large fruit and nut trees form a dense canopy
 - **Dense understory**: Berries, herbs, and vegetables fill every niche
 - **Pond system**: Bog garden with pond plants, fish, and muskrats (later controlled by arriving otters)
-- **Animal integration**: Chickens, ducks, rabbits, and geese for pest control and fertility
+- **Animal integration**: Chickens, ducks, rabbits, and geese for pest [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
 - **Self-maintaining**: After 15 years, minimal external inputs needed
 
 ## Comprehensive Plant Palette by Layer
@@ -58,9 +58,9 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Persimmon | Diospyros spp. | Edible fruit, wildlife |
 | Mulberry | Morus spp. | Excellent poultry forage |
 | Pine | Pinus spp. | Edible nuts (pinyon), timber |
-| Honey locust | Gleditsia triacanthos | Edible pods, N-fixing, light shade |
+| Honey locust | [[gleditsia-triacanthos]] | Edible pods, N-fixing, light shade |
 | Mesquite | Prosopis spp. | Edible pods, N-fixing (SW) |
-| Black locust | Robinia pseudoacacia | N-fixer, bee forage, rot-resistant wood |
+| Black locust | [[robinia-pseudoacacia]] | N-fixer, bee forage, rot-resistant wood |
 
 ### Low Tree Layer
 | Plant | Botanical Name | Notes |
@@ -85,7 +85,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Sea buckthorn | Hippophae rhamnoides | Edible fruit, N-fixer |
 | Goumi | Elaeagnus multiflora | Edible fruit, N-fixer |
 | Aronia | Aronia melanocarpa | Superfood berries |
-| Saskatoon | Amelanchier alnifolia | Edible fruit, native |
+| Saskatoon | [[amelanchier-alnifolia]] | Edible fruit, native |
 | Siberian pea shrub | Caragana arborescens | N-fixer, edible seeds |
 | Ceanothus | Ceanothus spp. | N-fixer, native (West coast) |
 
@@ -128,12 +128,12 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 | Plant | Botanical Name | Notes |
 |---|---|---|
 | Jerusalem artichoke | Helianthus tuberosus | Edible tubers, tall, 6+ ft |
-| Horseradish | Armoracia rusticana | Edible root, aggressive spreader |
+| Horseradish | [[armoracia-rusticana]] | Edible root, aggressive spreader |
 | Groundnut | Apios americana | N-fixing edible tuber, native |
 | Garlic | Allium sativum | Edible, pest repellent |
 | Oca | Oxalis tuberosa | Edible tubers, mild climates |
 | Mashua | Tropaeolum tuberosum | Edible tubers, Andean |
-| Camas | Camassia quamash | Edible bulb, native NW |
+| Camas | [[camassia-quamash]] | Edible bulb, native NW |
 
 ## Practical Tips for a Small Homestead
 

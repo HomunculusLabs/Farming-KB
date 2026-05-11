@@ -88,9 +88,3 @@ Used to seeing [[wasson-rediscovery-of-psilocybin]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
-- mexican-inquisition-against-mushroom-cults
-
-## See Also
-
-- [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
-- [[magic-mushroom-markets-europe]]

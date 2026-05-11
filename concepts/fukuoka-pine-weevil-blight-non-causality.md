@@ -12,6 +12,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-fukuoka.md
 ---
 
@@ -86,35 +87,3 @@ Fukuoka respected scientists but saw their fundamental limitation: they must bre
 The aerial spraying of pesticides against the pine weevil was effective in the short run, which made it seductively difficult to argue against. This is the central trap of technological solutions to ecological problems: they work just well enough, for just long enough, to prevent people from seeking deeper understanding or fundamental change.
 
 Short-term success creates long-term dependency:
-
-- The spraying kills the weevils but also kills their natural predators
-- With predators eliminated, the next generation of weevils is worse
-- The trees, weakened by chemical exposure, become more susceptible
-- The soil ecosystem, damaged by chemical drift, loses its capacity to support tree health
-- Each round of spraying makes the next round more necessary
-
-The foresters using helicopters could point to dead weevils and claim success. But the forest was dying more quickly with each passing year, and the foresters could not see — or would not admit — that their own actions were accelerating the decline.
-
-## Application to Rice Blast Disease
-
-Fukuoka observed the same pattern of non-causality in rice blast disease, a major [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] of rice. When he applied too much chicken manure to one field in an experiment, the rice plants came up too thickly and were attacked by blast disease. The conventional farmer would see blast disease and apply a fungicide. But the real "cause" was not the fungus — it was the excess nitrogen from the manure, which created conditions where the fungus could thrive.
-
-But even saying "excess nitrogen caused the blast disease" is an oversimplification. The nitrogen interacted with soil moisture, temperature, plant density, microbial communities, and dozens of other factors. The causal chain is infinitely complex and ultimately unknowable in its totality.
-
-## What the Farmer Can Do
-
-If causes are unknowable and interventions are dangerous, what can the farmer do? Fukuoka's answer was deceptively simple:
-
-- Stop doing the things that create problems (plowing, fertilizing, spraying)
-- Observe nature's patterns and work within them rather than against them
-- Accept that outcomes will vary from year to year and that this variation is natural
-- Trust that the ecosystem, left to its own devices, will find its own balance
-- Cultivate the state of mind that allows one to see the whole rather than the parts
-
-"The irony is that science has served only to show how small human knowledge is."
-
-## See Also
-
-- [[fukuoka-theory-principle-of-non-causality]]
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]]
-- [[fukuoka-one-straw-revolution-philosophy]]

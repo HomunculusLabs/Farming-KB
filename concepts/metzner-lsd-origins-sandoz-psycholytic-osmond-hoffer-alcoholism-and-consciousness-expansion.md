@@ -18,7 +18,7 @@ of psychiatric researchers as a possible training experience in what madness mig
 Military and espionage agencies of both superpowers devoted considerable resources over
 approximately ten years to developing surreptitious delivery systems for LSD. The goal was to
 induce maximum confusion, disorientation, or embarrassment in enemy soldiers, agents, or
-leaders. This military research program represented one of the earliest and most extensive
+leaders. This military [[hofmann-lsd-sandoz-research-program]] represented one of the earliest and most extensive
 investigations of LSD's psychoactive properties, though its motivation was weaponization rather
 than healing.
 
@@ -30,7 +30,7 @@ an outcome that "the military was not prepared to have."
 
 ## Sandoz and Seelische Auflockerung
 
-The first research papers from Sandoz, where Albert Hofmann had synthesized LSD, described its
+The first research papers from Sandoz, where [[albert-hofmann]] had synthesized LSD, described its
 effects as bringing about "seelische Auflockerung" — literally "psychic loosening or opening."
 This characterization became the foundation for the psycholytic model of LSD-assisted
 psychotherapy that dominated European practice. The term captures both the therapeutic
@@ -68,7 +68,7 @@ vivid hallucinatory imagery, leading to insight and transformation.
 
 ## Cohen, Janiger, and the Hollywood Scene
 
-A second center for psychedelic therapy developed in early 1960s Southern California, where
+A second center for [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] developed in early 1960s Southern California, where
 Sidney Cohen, Oscar Janiger, and others began providing psychedelic experiences to clients in
 the Hollywood film, arts, and media community. This work brought considerable publicity and
 notoriety to psychedelics, as creative professionals reported transformative experiences that
@@ -83,43 +83,8 @@ the treatment of specific psychiatric disorders.
 
 ## Leary, Barron, Alpert, and Consciousness Expansion
 
-The Harvard research project, led by Timothy Leary, Frank Barron, and Richard Alpert, shifted
+The [[hofmann-leary-case-and-harvard-research]] project, led by [[timothy-leary]], Frank Barron, and [[richard-alpert]], shifted
 the focus from clinical treatment to the exploration of psychedelic possibilities for
 "normals" — mostly graduate students, as well as artists, musicians, poets, and writers.
 Sessions were conducted in relatively unstructured but supportive, home-like settings. The
 concept of "consciousness expansion" was introduced to describe these experiences, which
-could be contrasted with the "contracted, fixated awareness characteristic of narcotic
-addictions, as well as obsessions and compulsions in general."
-
-The Harvard group also conducted one of its first studies on the production of behavior change
-in convicts, attempting to use psychedelic experiences to reduce recidivism. Leary founded the
-*Psychedelic Review* to publish research and theoretical papers. He was also responsible for
-introducing and popularizing the "[[lsd-set-and-setting-framework]]" hypothesis, which holds that the primary
-determinants of a psychedelic experience are the internal set (intention, expectation,
-motivation) and the external setting or context, including the presence of a guide or therapist.
-
-## Consciousness Expansion Versus Contraction
-
-The concept of consciousness expansion as developed by the Harvard group posits that normal
-waking consciousness represents a contracted state — a narrowing of awareness that serves
-practical survival functions but limits access to broader dimensions of experience. Addiction,
-obsession, and compulsion represent extreme forms of this contraction. Psychedelics, by
-contrast, produce an expansion of consciousness that reveals the contracted nature of
-ordinary awareness and opens access to [[metzner-transpersonal-dimensions-psychedelic-therapy]].
-
-This framework connects the therapeutic and the spiritual dimensions of psychedelic
-experience. Addiction is not merely a behavioral or biochemical disorder but a
-consciousness disorder — a pathological narrowing of awareness. Psychedelics counteract
-this narrowing not by targeting specific symptoms but by fundamentally altering the
-relationship between the individual and consciousness itself. This understanding
-anticipates the later recognition that psychedelic therapy may be effective for a
-wide range of conditions precisely because it addresses a common underlying factor:
-the constriction of awareness.
-
-## See Also
-
-- [[metzner-lsd-psychotomimetic-military-mystic-catalyst-origins]]
-- [[metzner-lsd-psychotherapy-approaches]]
-- [[metzner-grof-perinatal-matrices-and-transpersonal-realms]]
-- [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
-- [[european-psycholytic-therapy-1960s-1970s]]

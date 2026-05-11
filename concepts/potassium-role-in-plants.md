@@ -12,13 +12,13 @@ sources:
 
 ## Overview
 
-Potassium (K) is unique among essential nutrients: it is not a constituent of any organ, organelle, or structural part of plants. Instead, its role is as a regulating chemical. Potassium is the key solute in the cell's cytosol, where it can exist in high concentrations without causing damage to the cell. (see [[teaming-with-nutrients-nitrogen]]).
+Potassium (K) is unique among essential nutrients: it is not a constituent of any organ, organelle, or structural part of plants. Instead, its role is as a regulating chemical. Potassium is the key solute in the cell's cytosol, where it can exist in high concentrations without causing damage to the cell.
 
 ## Functions of Potassium
 
 ### Stomatal Regulation
 
-Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating carbon dioxide intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata. (see [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]).
+Potassium ions (K+) play the key role in the movement of water into and out of guard cells in leaves. When potassium concentrations change, guard cells open or close, regulating [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] intake and water loss through transpiration. Chloride ions (Cl-) serve as the counterbalance to potassium in operating stomata.
 
 ### Enzyme Activation
 
@@ -38,7 +38,7 @@ Potassium is involved in protein synthesis and the activation of enzymes needed 
 
 ## Potassium in Soil
 
-Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles and organic matter. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
+Potassium is the eighth most abundant element, making up about 2.5 percent of the Earth's crust. In soil, it is held by negative charges on the surfaces of clay particles [[hamilton-composting-and-organic-matter-management]]. It is not adsorbed as tightly as some other cations (like calcium with its 2+ charge), making it relatively available for plant uptake.
 
 Potassium is relatively immobile in soils, so banding near root zones improves uptake efficiency significantly.
 
@@ -50,7 +50,7 @@ Because potassium is mobile in plants, deficiency symptoms appear first in older
 - **Wilting** even when adequate water is present (stomata cannot close properly, allowing water to escape)
 - **Scorching** or browning at leaf margins
 - **Weak stems** and poor disease resistance
-- **Reduced root growth**
+- **Reduced [[soil-moisture-management-and-root-growth]]**
 
 ## Potassium and Soil Compaction
 
@@ -60,10 +60,10 @@ Aside from oxygen, potassium uptake is the nutrient most affected by compacted s
 
 | Source | N-P-K | Notes |
 |--------|-------|-------|
-| Greensand | 0-0-3 | Slow release, contains many trace minerals |
+| Greensand | 0-0-3 | [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]], contains many [[dynamic-accumulator-plants-trace-minerals]] |
 | Wood ashes | 0-1-3 | Fast-acting, raises pH |
 | Sulfate of potash | 0-0-50 | Highly concentrated, quick release |
-| Kelp meal | 1-0.5-2 | Also provides micronutrients and hormones |
+| [[comparison-fish-aminos-vs-kelp-meal]] | 1-0.5-2 | Also provides micronutrients and hormones |
 | Alfalfa meal | 2-1-3 | Good all-purpose, also feeds soil biology |
 
 ## Key Points

@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # MDA
-PIHKAL entry #100. 3,4-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #100. 3,4-METHYLENEDIOXYAMPHETAMINE.
 ## Dosage and Duration
 | Property | Value |
 |----------|-------|
@@ -83,60 +83,11 @@ PIHKAL entry #100. 3,4-METHYLENEDIOXYAMPHETAMINE.
 > quite delightful. I am quite willing to push this a bit higher.
 >
 > (with 120 mg of the "S" isomer) Perhaps to a one +. Very light, and
-> very much like MDMA, but perhaps shorter lived. I am pretty much
+> very much like [[mdma]], but perhaps shorter lived. I am pretty much
 > baseline in three hours.
 >
 > (with 160 mg of the "S" isomer) The development is very rapid, and
 > there is both muscular tremor and some nausea. The physicals are
-> quite bothersome. With eyes closed, there are no effects noticeable,
-> but with eyes open, things are quite bright and sparkling. The
-> muscular spasms persist, and there is considerable teeth clenching. I
-> feel that the mental is not worth the physical.
-## Extensions and Commentary
-There are about twenty different synthetic
-routes in the literature for the preparation of MDA. Many start with
-piperonal, and employ it to make methylenedioxyphenylacetone or a
-methylenedioxydihydro-cinnamic [[lysergic-acid-amide-containing-plants-halpern]] instead of the nitrostyrene.
-The phenylacetone can be reduced in several ways other than the
-cyanoborohydride method mentioned here, and the amide can be
-rearranged directly to MDA. And there are additional methods for the
-reduction of the nitrostyrene that use no lithium aluminum hydride.
-Also there are procedures that have safrole or isosafrole as starting
-points. There is even one in the underground literature that starts
-with sassafras [[iboga-root-bark-preparation]]. In fact, it is because safrole is one of
-the ten [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that MDA can humorously be referred to as one
-of the Ten Essential Amphetamines. See the comments under TMA.
-There is a broad and checkered history concerning the use and abuse of
-MDA, and it is not the case that all the use was medical and all the
-abuse was social. One of the compulsive drives of both the military
-and the intelligence groups, just after World War II, was to discover
-and develop chemical agents which might serve as "truth serums" or as
-incapacitating agents. These government agencies considered the area
-of the psychedelics to be a fertile field for searching. The giving
-of relatively unexplored drugs in a cavalier manner to knowing and
-unknowing subjects was commonplace. There was one case in 1953,
-involving MDA and a psychiatric patient named Howard Blauer that
-proved fatal. The army had contracted with several physicians at the
-New York State Psychiatric Institute to explore new chemicals from the
-Edgewood Arsenal and one of these, with a [[solomon-root-exudates-and-allelopathy]] code number
-of EA-1298, was MDA. The last and lethal injection into Blauer was an
-intravenous dose of 500 milligrams.
-There have been a number of medical explorations. Under the code
-SKF-5 (and trade name of Amphedoxamine) it was explored as an anorexic
-agent. It has been found promising in the treatment of psychoneurotic
-depression. There are several medical reports, and one book (Claudio
-Naranjo's The Healing Journey), that describe its values in
-psychotherapy.
-MDA was also one of the major drugs that was being popularly used in
-the late 1960's when the psychedelic concept exploded on the public
-scene. MDA was called the "hug-drug" and was said to stand for Mellow
-Drug of America. There was no difficulty in obtaining unending
-quantities of it, as it was available as a research chemical from
-several scientific supply houses (as were [[psychedelic-research-legal-history-united-states]]
-- [[qualitative-comments-methodology-pihkal]]
-- [[turner-psychedelic-combination-experience-reports]]
 
 ## See Also
-
-- [[pihkal-mda-family]]
-- [[2-br-4-5-mda-entity]]
+- [[methyl-j-entity-pihkal]]

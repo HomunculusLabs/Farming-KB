@@ -1,17 +1,18 @@
 ---
 title: hemenway greywater design philosophy Philosophy
 created: 2026-04-26
-tags: [greywater, water, ecology, recycling, permaculture]
+tags: [greywater, water, ecology, recycling, [[permaculture]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
 type: concept
 ---
 
 # Greywater Design Philosophy
 
-Toby Hemenway presents greywater not merely as a plumbing
+[[toby-hemenway]] presents greywater not merely as a plumbing
 technique but as a design philosophy rooted in ecological
 principles. Reusing household wastewater closes a critical
 loop in the garden ecosystem, transforming waste into fertility
@@ -58,9 +59,9 @@ and corpses into the raw feedstocks of life, ready to be
 cycled once more. Yet in most human ecosystems, including our
 yards, the detritus cycle is sadly lacking.
 
-Ecological gardening attempts to restore the detritus cycle
+[[ecological-gardening-principles]] attempts to restore the detritus cycle
 to its rightful central role through deep mulches,
-composting, avoiding pesticides, and incorporating greywater.
+[[composting]], avoiding pesticides, and incorporating greywater.
 Greywater is one more method for keeping nutrients and organic
 matter cycling within the home ecosystem rather than flushing
 them away.
@@ -87,34 +88,3 @@ Hemenway offers practical guidance for greywater use:
   lines.
 - Be careful what goes into the system. Chlorine bleach,
   boron-containing detergents, and some solvents are toxic to
-  plants. Use greywater-compatible detergents.
-- In freezing climates, install diverter valves to send
-  greywater to the sewer during winter.
-- Do not store greywater for more than a day or two. The
-  nutrient-rich water will quickly develop unpleasant odors
-  and potential health hazards.
-- Greywater is too "lumpy" for standard [[comparison-drip-irrigation-vs-passive-irrigation]]
-  unless filtered. Use large-diameter hose and pipes.
-- Once greywater has been processed through a constructed
-  wetland or other biological system, contaminants are
-  removed and the water can be used more broadly.
-
-## The Philosophical Frame
-
-If we think of a garden as a living being, then a greywater
-system acts as one of its organs, a sort of liver and kidneys
-that process waste and liquid. These organs are missing from
-most gardens. No one can function without kidneys; the oily
-substitute is elaborate life-support machinery like automated
-sprinklers and [[cervantes-chemical-fertilizers-guide]]. Given a full complement
-of organs, a garden comes to life and resource-gobbling life-
-support systems can be withdrawn.
-
-## See Also
-
-- gaias-garden-backyard-wetland-design
-- gaias-garden-rainwater-roof-harvesting
-- hemenway-soil-food-web-garden
-- [[soil-food-web]]
-- [[toby-hemenway]]
-- [[hemenway-apple-tree-guild-design]]

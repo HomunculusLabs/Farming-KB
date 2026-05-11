@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Lysimachia terrestris** is a species of herbaceous perennial plant in the family Primulaceae, native to northern North America. It is commonly known as the swamp candle, yellow loosestrife, or earth loosestrife.
+**Lysimachia terrestris** is a species of herbaceous perennial plant in the family Primulaceae, native to northern [[guzman-psilocybin-mushrooms-north-america]]. It is commonly known as the swamp candle, yellow loosestrife, or earth loosestrife.
 
 The species is characteristic of wetland habitats including marshes, swamps, bogs, and stream margins across Canada and the northern United States. It is recognized by its tall, erect stems topped with dense spikes of bright yellow flowers.
 
@@ -27,7 +27,7 @@ Swamp candle is a valuable component of native wetland plant communities, provid
 
 Lysimachia terrestris was described by the English botanist Carl Linnaeus in 1753 as a member of the genus *Lysimachia*. The specific epithet *terrestris* means "of the earth," referencing its terrestrial habit in saturated soils.
 
-The species was later reclassified by Nathaniel Lord Britton and Addison Brown within their treatment of North American flora. Modern phylogenetic studies place it within Lysimachia section Lysimachia, the core yellow-flowered clade.
+The species was later reclassified by Nathaniel Lord Britton and Addison Brown within their treatment of [[growing-gourmet-north-american-reishi-species]] flora. Modern phylogenetic studies place it within Lysimachia section Lysimachia, the core yellow-flowered clade.
 
 The plant produces erect, unbranched stems reaching 60–120 cm in height. Stems are smooth, slightly angular, and green to reddish-green in color, with a characteristic slight wing along each angle.
 
@@ -49,17 +49,17 @@ The root system is fibrous and relatively shallow, adapted to saturated soils wh
 
 Lysimachia terrestris ranges across northern North America from Newfoundland and Labrador west to Manitoba and south through the Great Lakes region to New England, New York, and the Appalachian Mountains.
 
-Disjunct populations occur in the Pacific Northwest, though these are less common and may represent introductions. The species is most abundant in the Canadian Maritime Provinces and the northeastern United States.
+Disjunct populations occur in the [[psilocybin-north-america-pacific-northwest]], though these are less common and may represent introductions. The species is most abundant in the Canadian Maritime Provinces and the northeastern United States.
 
 The plant is found in a variety of wetland habitats including freshwater marshes, swamp margins, bog edges, wet meadows, stream banks, and roadside ditches with persistent moisture.
 
 It thrives in full sun to partial shade in saturated or shallowly inundated soils. Optimal conditions include acidic to neutral pH, high organic content, and a water table at or near the soil surface.
 
-Elevation ranges from sea level to approximately 1,200 meters. The species is tolerant of seasonal flooding and can survive brief periods of shallow inundation during the growing season.
+Elevation ranges from sea level to approximately 1,200 meters. The species is tolerant of seasonal flooding and can survive brief periods of shallow inundation during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Lysimachia terrestris is not considered invasive outside its native range, though it can form substantial colonies in favorable wetland conditions. Its growth is naturally limited by competition and water availability.
 
-In the northeastern United States, it is often found growing alongside other wetland perennials including Caltha palustris, Iris versicolor, and various Carex species. It typically occupies the shallowest zones of marsh vegetation gradients.
+In the northeastern United States, it is often found growing alongside other wetland perennials including [[caltha-palustris]], [[iris-versicolor]], and various Carex species. It typically occupies the shallowest zones of marsh vegetation gradients.
 
 ## Ecology and Interactions
 
@@ -69,7 +69,7 @@ The orange ring at the base of the petals serves as a nectar guide, directing po
 
 Butterflies, syrphid flies, and small beetles also visit the flowers as secondary pollinators. The extended bloom period of 4–6 weeks provides a reliable midsummer nectar resource in wetland habitats.
 
-The foliage is palatable to mammalian herbivores including deer and muskrat, though grazing pressure is typically low due to the plant's preference for flooded habitats. The seeds may be consumed by waterfowl.
+The foliage is palatable to mammalian herbivores including deer and muskrat, though [[gadd-mycelial-network-resilience-grazing-pressure]] is typically low due to the plant's preference for flooded habitats. The seeds may be consumed by waterfowl.
 
 Lysimachia terrestris contributes to wetland stabilization through its fibrous root system, which helps bind saturated soils along stream banks and marsh edges.
 
@@ -79,7 +79,7 @@ Dead stems and leaf litter persist through winter in northern climates, providin
 
 ## Cultivation and Uses
 
-Swamp candle is occasionally cultivated in native plant gardens, rain gardens, and constructed wetlands where consistent soil moisture can be maintained. It is valued for its vertical accent and reliable midsummer bloom.
+Swamp candle is occasionally cultivated in native plant gardens, rain gardens, and [[comparison-constructed-wetlands-vs-bioswales]] where consistent soil moisture can be maintained. It is valued for its vertical accent and reliable midsummer bloom.
 
 Propagation is by seed, which germinates readily under moist, cool conditions without stratification. Division of established clumps in early spring is an effective vegetative method.
 
@@ -87,33 +87,4 @@ Seeds can be sown directly into wet soil in autumn or started indoors in trays w
 
 The species requires minimal maintenance once established in appropriate wet conditions. It spreads slowly by rhizomes and self-seeds moderately, but does not typically become aggressive in garden settings.
 
-Companion planting with other native wetland species such as Lobelia cardinalis, Chelone glabra, and Vernonia noveboracensis creates attractive and ecologically functional rain garden compositions.
-
-Traditional uses among indigenous peoples of eastern North America are not well documented for this specific species. Other Lysimachia species have limited recorded uses as astringents or wound dressings.
-
-No significant modern medicinal or culinary applications exist for Lysimachia terrestris. It is grown almost exclusively for ornamental and ecological restoration purposes.
-
-## Conservation Status
-
-Lysimachia terrestris is not considered threatened at the species level. It has a broad distribution across northern North America and occupies a range of common wetland habitat types.
-
-However, local populations may be vulnerable to wetland drainage, development, and habitat fragmentation. The loss of small marshes and roadside wetlands has reduced the species in parts of its southern range.
-
-The species is listed as endangered or threatened in a few states at the edge of its range, including Tennessee and Kentucky, where isolated populations face habitat pressure from agricultural development.
-
-Protected populations exist within numerous state and national wetland reserves across the northeastern United States and eastern Canada.
-
-Climate change poses a potential long-term threat through altered precipitation patterns and increased frequency of summer droughts. Extended dry periods may reduce habitat suitability in the southern portions of the species' range.
-
-## See Also
-
-- [[lysimachia-vulgaris]]
-- [[lysimachia-punctata]]
-- [[lysimachia-nummularia]]
-- [[eichhornia-crassipes]]
-- [[typha-latifolia]]
-- [[pontederia-cordata]]
-- [[sagittaria-latifolia]]
-- [[juncus-effusus]]
-- [[iris-pseudacorus]]
-- [[nymphaea-alba]]
+[[companion-planting-with-fungi]] other native wetland species such as [[lobelia-cardinalis]], [[chelone-glabra]], and [[vernonia-noveboracensis]] creates attractive and ecologically functional rain garden compositions.

@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Permaculture Zone and Sector Analysis
 
@@ -87,60 +88,3 @@ Sectors are external energies and influences that affect the site from outside. 
 ### Sun Sector
 - Track the sun's path through the year (winter low angle, summer high angle)
 - Identify sunny and shady areas at different seasons
-- Place solar panels, greenhouses, and heat-loving plants in sun sectors
-- Place shade structures and cool-loving plants in shade sectors
-
-### Wind Sector
-- Map prevailing wind directions (summer and winter may differ)
-- Identify cold winter winds (from north in northern hemisphere)
-- Identify cooling summer breezes
-- Place windbreaks against cold/damaging winds
-- Direct cooling breezes toward living spaces and gardens
-
-### Fire Sector
-- Identify direction of fire risk (forests, grasslands, neighbors)
-- Design firebreaks and buffer zones in fire sector
-- Use fire-resistant plants in vulnerable areas
-- Locate buildings away from fire-prone sectors
-
-### Water Sector
-- Map water flows: springs, runoff from upslope, flood potential, seasonal streams
-- Place swales, ponds, and cisterns to capture water
-- Locate buildings and gardens above flood level
-- Protect water sources from contamination
-
-### Noise and Pollution Sector
-- Identify sources of noise (roads, industry, neighbors)
-- Screen with dense plantings, earth berms, or fences
-- Place quiet zones (meditation garden, bedrooms) away from noise
-
-### Views Sector
-- Identify desirable views (preserve and frame them)
-- Identify undesirable views (screen them)
-- Use plantings and structures to manage visual experience
-
-### Wildlife Sector
-- Map wildlife corridors, foraging areas, and movement patterns
-- Design wildlife habitat connections
-- Protect vulnerable plantings from wildlife damage
-
-### Access Sector
-- Map roads, paths, and entry points
-- Design clear, efficient access from public road to house
-- Separate service access from pedestrian access
-- Create inviting entry sequences
-
-## Integrating Zones and Sectors
-
-The power of zone/sector analysis comes from integrating them:
-- Place Zone 1 garden in the warm sun sector, protected from cold wind
-- Locate the house to capture winter sun while blocking cold winds
-- Place compost in Zone 1 (convenient) but downwind (odors)
-- Position firewood in Zone 3-4 (infrequent access) but accessible from the fire sector
-- Site the greenhouse in the sun sector near Zone 1 for easy access
-
-## See Also
-
-- [[permaculture-design-process]]
-- [[ecological-garden-design]]
-- [[urban-permaculture-design]]

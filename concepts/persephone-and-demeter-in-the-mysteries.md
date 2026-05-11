@@ -88,27 +88,8 @@ The compromise between Demeter and Zeus thus establishes the cosmic order:
 Persephone descends to Hades each winter and returns each spring, bringing
 with her the renewal of vegetation and the promise that death is not final.
 This is the eschatological promise that the Eleusinian Mysteries held out
-to every initiate.
-
-## The Founding Figures: Triptolemus and Ploutos
-
-Demeter's special response to the problem of death was Triptolemus, the
-trifold warrior, who becomes the apostle of cultivation, traveling the
-world on a serpent chariot spreading the gospel of grain. His sacred barley,
-grown in the [[rarian-plain-sacred-grain-eleusis]], was the principal ingredient in the kykeon. Like
-the grain that was his emblem, he was the son of the trifold queens in the
-house of the lord of death -- another form of Dionysus.
-
-The fourth and most perfect of the transmuted male figures is Ploutos, the
-personification of wealth from the fertility of man and field. Originally
-the vegetative son of Demeter in her more ancient days as Great Mother on
-Crete, where she conceived him with her intoxicating mate Iasion -- "the
-man of the drug." The initiate could expect that this beneficent
-representative of death would thereafter become welcome in his house as his
-constant guest.
 
 ## See Also
-
-- [[demeter-and-persephone-the-homeric-hymn-and-eleusinian-foundation-myth]]
-- [[sacred-marriage-hieros-gamos-in-greek-religion]]
-- [[triptolemus-eumolpus-and-the-founding-families-of-eleusis]]
+- [[demeter-and-persephone-in-eleusinian-mythology]]
+- [[eleusinian-mysteries-minoan-mushroom-cults]]
+- [[eleusinian-mysteries-history-and-structure]]

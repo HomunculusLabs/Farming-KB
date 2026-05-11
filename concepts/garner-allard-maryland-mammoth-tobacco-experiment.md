@@ -1,5 +1,5 @@
 ---
-title: Garner and Allard [[chamovitz-maryland-mammoth-photoperiodism-discovery]] Tobacco Photoperiodism Discovery
+title: Garner Allard Maryland Mammoth Tobacco Experiment
 created: 2026-05-09
 tags: [plant-biology, photoperiodism, tobacco, history, flowering]
 date: 2026-05-09
@@ -88,41 +88,3 @@ kept from flowering during naturally short days by turning on lights for
 only a few minutes in the middle of the night. Conversely, a long-day plant
 like iris could be induced to flower in midwinter by a brief nighttime
 light interruption. This night-break experiment proved that what plants
-measure is the uninterrupted dark period, not the illuminated period.
-
-## Connection to Phytochrome Research
-
-The Maryland Mammoth discovery directly led to subsequent research on the
-color of light that plants use to measure day length. Scientists found that
-only [[far-red-light-phytochrome-switch-mechanism]] could influence flowering when applied as a night-break
-treatment, leading ultimately to the discovery of phytochrome as the
-red/far-red photoreceptor responsible for photoperiodic sensing. The
-Garner and Allard experiments thus represent the foundational work that
-connected plant developmental timing to specific photoreceptor systems,
-a research thread that continues to inform modern plant molecular biology.
-
-## Legacy and Historical Context
-
-The Garner and Allard work at the USDA was conducted in the same laboratory
-where, decades later, Harry Borthwick and colleagues would discover the
-far-red reversal effect and Warren Butler would identify phytochrome as the
-molecular basis of photoperiodic sensing. This institutional lineage at the
-USDA connected the whole arc of photoperiodism research from the initial
-organism-level discovery with Maryland Mammoth through to the molecular
-identification of the photoreceptor protein. The Maryland Mammoth tobacco
-strain itself became a classic example in plant physiology textbooks and
-remains one of the most famous case studies in the history of plant biology.
-
-## Broader Impact on Agricultural Science
-
-The Garner-Allard discovery of photoperiodism had consequences far beyond
-tobacco cultivation. Once it was understood that day length controlled
-flowering, researchers recognized that photoperiod responses governed many
-other developmental processes including tuber formation in potatoes,
-bulbing in onions, dormancy induction in trees, and diapause in insects.
-The concept of photoperiodic control became a unifying principle in
-agricultural science, enabling breeders to develop varieties adapted to
-specific latitudes and [[jeavons-climate-adaptation-growing-seasons]]. The discovery also stimulated the
-search for the photoreceptor responsible, which eventually led to the
-identification of phytochrome and the elucidation of the molecular
-mechanisms by which plants measure seasonal changes in day length.

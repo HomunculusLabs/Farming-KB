@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Grace, J.B. & Harrison, J.S. (1986). "The Biology of Canadian Weeds: Typha latifolia, T. glauca, and T. domingensis." Canadian Journal of Plant Science, 66(2), 361-379.
+  - Grace, J.B. & Harrison, J.S. (1986). "The Biology of Canadian Weeds: typha-latifolia, T. glauca, and T. domingensis." Canadian Journal of Plant Science, 66(2), 361-379.
   - Kuehn, M.M. & White, B.N. (1999). "Morphological Variation in the Typha latifolia–T. domingensis Complex." Aquatic Botany, 64(3-4), 213-232.
   - Mehrabian, A. et al. (2018). "Typha domingensis for comparison-constructed-wetland-vs-backyard-pond Treatment." Ecological Engineering, 117, 56-63.
   - Murkin, H.R. & Ward, D.E. (2003). "Emergent Macrophytes in Prairie Wetlands." Great Plains Research, 13(1), 1-16.
@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-**Typha domingensis**, commonly known as **southern cattail** or **cumbungi**, is a perennial aquatic plant in the family Typhaceae, widely distributed across tropical, subtropical, and warm temperate regions worldwide.
+**Typha domingensis**, commonly known as **southern cattail** or **cumbungi**, is a perennial aquatic plant in the family Typhaceae, widely distributed across tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
-It is one of the most ecologically important emergent macrophytes in freshwater and brackish wetlands, providing habitat, water filtration, and erosion control.
+It is one of the most ecologically important emergent macrophytes in freshwater and brackish wetlands, providing habitat, water filtration, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]].
 
 The species is closely related to and frequently hybridizes with *Typha latifolia* (broadleaf cattail), producing the introgressive hybrid *T. × glauca*.
 
@@ -64,7 +64,7 @@ The species occupies a broad ecological niche within freshwater and oligohaline 
 
 It tolerates water depths from 0 to 100 cm and shows considerable salinity tolerance (up to 20 ppt), allowing colonization of estuarine environments.
 
-*Typha domingensis* frequently colonizes disturbed wetland sites, drainage ditches, and constructed treatment wetlands.
+*Typha domingensis* frequently colonizes disturbed wetland sites, drainage ditches, and constructed [[mollison-designers-wastewater-treatment-wetlands]].
 
 The species is highly competitive in nutrient-enriched waters, often forming dense monospecific stands that exclude other wetland vegetation.
 
@@ -76,53 +76,14 @@ The rhizome matrix stabilizes sediments and reduces shoreline erosion by absorbi
 
 **Water filtration:** The species is exceptionally effective at removing nutrients (nitrogen, phosphorus), heavy metals, and organic pollutants from water.
 
-Root-zone microbial communities associated with the rhizosphere are responsible for much of the nitrogen removal via nitrification-denitrification cycling.
+Root-zone [[cannabis-rhizosphere-microbial-communities]] associated with the rhizosphere are responsible for much of the nitrogen removal via nitrification-denitrification cycling.
 
 **[[lichens-primary-production-soil-formation-dighton]]:** *T. domingensis* is one of the most productive wetland plants, with above-ground biomass yields of 2–6 tonnes per hectare per year.
 
-**Invasive dynamics:** Monospecific *Typha* stands reduce plant diversity by 50–80% compared to mixed-species wetlands, altering invertebrate and avian community structure.
+**Invasive dynamics:** Monospecific *Typha* stands reduce plant diversity by 50–80% compared to mixed-species wetlands, altering invertebrate and avian [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 The species expands rapidly via clonal rhizome growth, with lateral spread rates of 1–3 meters per year under favorable conditions.
 
 ## Ethnobotanical and Practical Uses
 
 **Food:** Multiple plant parts are edible. Young shoots (0–30 cm tall) can be harvested in spring and eaten raw or cooked, with a flavor resembling asparagus or cucumber.
-
-The pollen-rich male spikes are harvested as a protein-rich flour substitute or thickening agent.
-
-Rhizomes are starchy and can be roasted, boiled, or dried and ground into flour; they contain approximately 30% carbohydrate by dry weight.
-
-**Fiber and construction:** Leaves have been used historically for weaving mats, baskets, thatching, and cordage across cultures in Africa, Asia, and the Americas.
-
-**Traditional medicine:** Various cultures use preparations of the rhizome, pollen, or leaves to treat wounds, burns, diarrhea, and dysentery.
-
-The pollen has documented astringent and hemostatic properties in ethnobotanical literature.
-
-## Permaculture Applications
-
-*Typha domingensis* is increasingly used in designed ecological systems for water treatment and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-**[[comparison-constructed-wetlands-vs-bioswales]]:** The species is a primary choice for horizontal and vertical flow constructed wetlands treating domestic wastewater, agricultural runoff, and industrial effluent.
-
-Nitrogen removal rates of 1.5–3.5 g/m²/day and phosphorus removal rates of 0.3–0.8 g/m²/day have been documented in operational systems.
-
-**Phytoremediation:** Demonstrated accumulation of heavy metals (lead, cadmium, zinc, copper) in root tissues, making it suitable for remediation of contaminated water bodies.
-
-**Biomass and bioenergy:** Harvested above-ground biomass can be used as mulch, compost feedstock, or feedstock for biogas production via [[biogas-digester-basics]].
-
-**Edge stabilization:** Planting along pond margins and drainage channels provides erosion control and creates transition zones between aquatic and terrestrial habitats.
-
-The species should be managed aggressively in small-scale systems, as its rhizomatous spread can quickly dominate a planting area if not contained by root barriers.
-
-## See Also
-
-- typha-latifolia-entity
-- [[typha-angustifolia]]
-- [[schoenoplectus-lacustris]]
-- [[juncus-effusus]]
-- [[phragmites-australis]]
-- [[eichhornia-crassipes]]
-- [[pistia-stratiotes]]
-- [[lemna-minor]]
-- [[azolla-filiculoides]]
-- [[myriophyllum-spicatum]]

@@ -16,7 +16,7 @@ basidiomycete fungus in the family Omphalotaceae.
 It is widely recognized for its striking orange coloration and its ability to emit
 a faint greenish bioluminescence in darkness.
 The species is responsible for numerous cases of poisoning each year, largely due
-to its resemblance to the edible chanterelle (Cantharellus cibarius).
+to its resemblance to the edible chanterelle ([[cantharellus-cibarius-entity]]).
 Despite its toxicity, O. olearius is ecologically significant as a wood-decay
 fungus and a subject of ongoing pharmacological research into its toxin, illudin S.
 The jack-o'-lantern name derives from both its pumpkin-orange color and the ghostly glow of its gills at night.
@@ -37,7 +37,7 @@ characteristic of bioluminescence and toxicity.
 [[growing-gourmet-north-american-reishi-species]] populations once attributed to O. olearius have been reclassified
 as O. illudens and O. olivascens.
 The specific epithet "olearius" refers to its association with olive trees
-(Olea europaea), a common host in its Mediterranean range.
+([[olea-europaea]]), a common host in its Mediterranean range.
 ## Morphology
 The cap of O. olearius is 3–12 cm in diameter, convex when young and becoming
 depressed or funnel-shaped with age.
@@ -55,21 +55,21 @@ The spores are white in deposit, elliptical to roughly spherical, approximately 
 O. olearius is native to Europe, particularly the Mediterranean region including
 southern France, Italy, Spain, Greece, and the Balkans.
 It has also been reported in parts of western Asia and North Africa.
-North American records historically attributed to this species are now largely assigned to O. illudens and O. olivascens.
+[[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] records historically attributed to this species are now largely assigned to O. illudens and O. olivascens.
 The fungus is saprobic, growing on decaying wood, stumps, and buried roots of hardwood trees.
 Common hosts include olive trees (Olea europaea), oaks (Quercus spp.), and occasionally conifers.
 Fruiting occurs from late summer through autumn, typically August to November, often in dense overlapping clusters.
 It can also appear on living trees weakened by stress or disease, acting as a weak parasite.
 ## Bioluminescence
-O. olearius is one of approximately 110+ known species of bioluminescent fungi.
+O. olearius is one of approximately 110+ known species of [[bioluminescent-fungi]].
 The greenish glow is produced by the gills and is only visible in complete darkness after the eyes have fully adapted.
 The bioluminescent reaction involves an enzyme (luciferase) acting on a substrate
 (luciferin) in the presence of oxygen and ATP.
 The light emission peaks around 520–530 nm, giving a characteristic green color.
-The biological function of fungal bioluminescence remains debated; hypotheses include spore dispersal by attracting insects and oxidative metabolism byproducts.
+The biological function of fungal bioluminescence remains debated; hypotheses include [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] by attracting insects and oxidative metabolism byproducts.
 The glow is often described as faint and can be difficult to observe under ambient light pollution.
 The luciferase enzyme system has been explored for use in biotechnology and bioimaging applications.
-Unlike some other bioluminescent fungi, the luminescence of O. olearius is restricted to the basidiocarp (fruiting body), not the mycelium.
+Unlike some other bioluminescent fungi, the luminescence of O. olearius is restricted to the basidiocarp ([[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]), not the mycelium.
 ## Toxicity & Chemistry
 The primary toxin in O. olearius is illudin S, a sesquiterpene compound also found in other Omphalotus species.
 Illudin S is a reactive molecule that causes DNA alkylation, leading to cellular damage, particularly in the gastrointestinal epithelium.
@@ -88,39 +88,3 @@ There is no reliable method of detoxification; cooking, drying, and parboiling a
 Individuals who suspect they have ingested O. olearius should seek immediate medical attention.
 ## Ecological Role
 O. olearius functions primarily as a white-rot saprobe, breaking down lignin and cellulose in dead hardwood.
-It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest and olive-grove ecosystems.
-The fungus can act as a weak parasite on stressed or injured trees, accelerating their decline.
-Its fruiting bodies provide habitat and substrate for various invertebrates.
-The bioluminescent glow may play a role in attracting spore-dispersing insects, though this remains experimentally unconfirmed in O. olearius specifically.
-It is one of the more conspicuous decomposer fungi in Mediterranean landscapes.
-## Lookalikes & Confusion Species
-- **Cantharellus cibarius (Golden Chanterelle):** The most dangerous lookalike; chanterelles have false gills (blunt ridges), grow terrestrially, have a fruity apricot-like odor, and lack bioluminescence.
-- **Cantharellus lateritius (Smooth Chanterelle):** Similar orange coloration but with even less developed ridges and a terrestrial habit.
-- **Omphalotus illudens (Western Jack-o'-Lantern):** North American counterpart; very similar morphology, also toxic and bioluminescent, found on hardwoods.
-- **Hygrophoropsis aurantiaca (False Chanterelle):** Has true gills but they are forked and thinner; generally considered edible but easily confused by novices.
-- **Omphalotus olivascens (Western Jack-o'-Lantern, var.):** Found in California, associated with oak and madrone; similarly toxic.
-## Cultural & Historical Notes
-The common name "jack-o'-lantern" was inspired by the mushroom's orange color and its eerie nighttime glow, reminiscent of carved Halloween pumpkins.
-In Mediterranean folklore, the mushroom's sudden appearance after autumn rains was sometimes associated with supernatural events.
-The species has been referenced in mycological literature since the early 19th century, with early mycologists noting its deceptive similarity to edible species.
-Illudin S research from O. olearius has contributed to natural-product drug discovery, with synthetic derivatives advancing to Phase II clinical trials.
-The mushroom is a popular subject in nature photography due to its vivid coloration and rare bioluminescence.
-It appears in numerous field guides as a textbook example of a dangerous edible-mushroom mimic.
-## Key Identifying Features
-- Cap bright orange to pumpkin-orange, 3–12 cm, smooth
-- True gills (not ridges), decurrent, narrow, orange-yellow
-- White spore print
-- Growth on wood (stumps, buried roots), never terrestrially
-- Clustered fruiting habit
-- Strong, unpleasant odor (not fruity)
-- Green bioluminescent glow from gills visible in complete darkness
-- Stem solid, tapered, matching cap coloration
-- Flesh orange, firm
-## See Also
-
-- [[omphalotus-olivascens]]
-
-- [[amanita-muscaria-entity]] — Another [[growing-gourmet-poisonous-mushroom-lookalikes]] with distinctive appearance
-- [[psilocybe-cubensis]] — A gilled mushroom with different bioactive properties
-
-See also: [[jack-o-lantern]]

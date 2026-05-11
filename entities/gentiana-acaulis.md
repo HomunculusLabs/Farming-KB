@@ -21,7 +21,7 @@ sources:
 
 Gentiana acaulis, the trumpet gentian or stemless gentian, is a mat-forming perennial producing large, deep-blue trumpet-shaped flowers in spring. It is one of the most widely cultivated alpine gentians and a classic subject for rock gardens.
 
-The species is native to the mountains of central and southern Europe, where it forms extensive mats on acidic to neutral subalpine meadows. It is closely related to *Gentiana clusii* and was historically confused with that species.
+The species is native to the mountains of central and southern Europe, where it forms extensive mats on acidic to neutral subalpine meadows. It is closely related to *[[gentiana-clusii]]* and was historically confused with that species.
 
 Trumpet gentian holds the Royal Horticultural Society's Award of Garden Merit and remains among the most sought-after alpine plants in cultivation. Its large flowers relative to plant size make it visually striking in garden settings.
 
@@ -52,7 +52,7 @@ Chromosome number is 2n = 20, consistent with most European Gentiana species. Th
 
 The species occurs in the Alps, Jura, Pyrenees, Apennines, and the mountains of the northern Balkans. Its elevational range extends from approximately 800 m to 3,000 m, with the greatest abundance between 1,500 and 2,500 m.
 
-Unlike Gentiana verna, which prefers calcareous substrates, Gentiana acaulis tolerates a wider pH range and is common on both acidic and base-rich soils. It favors damp alpine meadows, grassy slopes, and open subalpine pastures.
+Unlike [[gentiana-verna]], which prefers calcareous substrates, Gentiana acaulis tolerates a wider pH range and is common on both acidic and base-rich soils. It favors damp alpine meadows, grassy slopes, and open subalpine pastures.
 
 Typical habitats include Nardus stricta grasslands, snowbed communities, and the edges of alpine streams. It benefits from reliable snow cover that insulates the evergreen rosettes from freeze-thaw cycles.
 
@@ -60,17 +60,17 @@ Populations in the Pyrenees are morphologically distinct and may represent an un
 
 The species is locally abundant in suitable habitat and not considered globally threatened. However, local declines have been documented where intensive ski-resort development has removed subalpine meadow habitat.
 
-Climate change modeling suggests that suitable habitat for Gentiana acaulis will contract to higher elevations by 2050. Populations at the lower edge of the elevational range in the Jura and northern Alps are most vulnerable to this upward shift.
+[[dighton-fungal-responses-climate-change]] modeling suggests that suitable habitat for Gentiana acaulis will contract to higher elevations by 2050. Populations at the lower edge of the elevational range in the Jura and northern Alps are most vulnerable to this upward shift.
 
 ## Cultivation
 
 Gentiana acaulis is among the easier alpine gentians to grow in cultivation, tolerating a wider range of soil conditions than many congeners. It prefers humus-rich, moist but well-drained soil in full sun or partial shade.
 
-A planting mix of equal parts loam, leaf mold, and coarse grit suits the species well. Unlike Gentiana verna, it does not strictly require limestone in the growing medium.
+A planting mix of equal parts loam, leaf mold, and coarse grit suits the species well. Unlike Gentiana verna, it does not strictly require limestone in the [[cervantes-green-algae-growing-medium]].
 
 Propagation by seed requires cold stratification for 6–8 weeks at 0–4 °C. Germination rates are moderate, typically 40–60%. Seedlings grow slowly and may take 3–4 years to flower.
 
-Vegetative propagation by division of rooted stem sections is more reliable. Establishing cuttings in sandy compost under mist produces good results in 6–8 weeks during late summer.
+[[hamilton-vegetative-propagation]] by division of rooted stem sections is more reliable. Establishing cuttings in sandy compost under mist produces good results in 6–8 weeks during late summer.
 
 Plants are hardy to USDA Zone 3 and are generally long-lived once established. They resent hot, humid summers and may decline in regions with prolonged warm nights above 20 °C.
 
@@ -86,35 +86,4 @@ Gentiana acaulis provides an important nectar resource for long-tongued bumblebe
 
 The mat-forming growth habit stabilizes loose alpine soils and reduces erosion on steep slopes. Dense mats trap organic debris and contribute to soil development in alpine environments.
 
-It co-occurs with *Nardus stricta*, *Vaccinium myrtillus*, *Homogyne alpina*, and *Soldanella alpina* in characteristic subalpine plant communities. These species collectively support diverse invertebrate populations.
-
-Grazing mammals typically avoid Gentiana acaulis due to its bitter foliage. This chemical defense allows the species to persist even under moderate grazing pressure.
-
-Mycorrhizal associations with arbuscular fungi enhance phosphorus uptake in the nutrient-poor alpine soils where the species grows. These fungal partnerships are critical for seedling establishment and long-term plant health.
-
-Seed dispersal is primarily by wind and rain wash, with seeds falling near the parent plant. Limited dispersal contributes to the patchy distribution pattern observed in alpine populations.
-
-## Uses
-
-The roots of Gentiana acaulis contain bitter secoiridoid glycosides, primarily gentiopicroside and amarogentin. Traditional Alpine herbalism used root preparations as digestive bitters and appetite stimulants.
-
-The species is less commonly used in modern herbalism than *Gentiana lutea*, which produces larger roots more suitable for commercial harvesting. However, its phytochemical profile is broadly similar to its larger relative.
-
-In ornamental horticulture, it is the most popular alpine gentian in European and North American rock gardens. The large, showy flowers and manageable growth habit make it a reliable garden subject.
-
-Gentiana acaulis has been featured on Swiss and Austrian postage stamps and is depicted in numerous Alpine wildflower guides. Its image is synonymous with Alpine flora in European cultural consciousness.
-
-The species has hybridized in cultivation with *Gentiana angustifolia* and *Gentiana clusii*, producing intermediate forms valued by rock garden enthusiasts. Several named cultivars exist, including 'Rigi' and 'Grandiflora' with particularly large flowers.
-
-## See Also
-
-- [[gentiana-verna]]
-- [[gentiana-lutea]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-andrewsii]]
-- [[primula-auricula]]
-- [[arnica-montana]]
-- [[centaurium-erythraea]]
-- [[vaccinium-myrtillus]]
-- [[artemisia-absinthium]]
-- [[gentiana-cruciata]]
+It co-occurs with *Nardus stricta*, *[[vaccinium-myrtillus]]*, *Homogyne alpina*, and *Soldanella alpina* in characteristic subalpine plant communities. These species collectively support diverse invertebrate populations.

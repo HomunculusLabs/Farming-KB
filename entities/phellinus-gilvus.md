@@ -24,12 +24,12 @@ created: 2026-05-07
 
 Phellinus gilvus, commonly known as the gilvous tinder conk, is a perennial poroid
 bracket fungus in the family Hymenochaetaceae. It colonizes dead and living hardwood
-timber across temperate and tropical regions, producing tough, woody basidiocarps
+timber across temperate and [[fukuoka-natural-farming-in-tropical-regions]], producing tough, woody basidiocarps
 with a distinctive golden-brown to rusty pore surface.
 
 The species is a white-rot decomposer capable of degrading both lignin and cellulose,
 making it ecologically significant in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. It has drawn interest
-for its production of bioactive phenolic compounds and potential medicinal properties.
+for its production of bioactive [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and potential [[panax-ginseng]].
 
 ## Taxonomy and Morphology
 
@@ -53,8 +53,8 @@ measuring 20–40 × 5–8 µm with a ventricose shape.
 
 ## Distribution and Habitat
 
-P. gilvus has a wide distribution across North America, Europe, and Asia, with
-additional records from tropical Africa and South America. It is among the most
+P. gilvus has a wide distribution across [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia, with
+additional records from tropical Africa and [[guzman-psilocybin-mushrooms-south-america]]. It is among the most
 cosmopolitan species in the genus Phellinus.
 
 The fungus is predominantly found on hardwood substrates, especially species of
@@ -81,38 +81,10 @@ properties in cell-based assays. Further pharmacological investigation is needed
 ## Ecology and Applications
 
 As a white-rot fungus, P. gilvus plays a key role in decomposing woody debris and
-recycling nutrients in forest ecosystems. Its ability to degrade lignin through
+recycling nutrients in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. Its ability to degrade lignin through
 laccase and [[fungal-manganese-peroxidase-remediation]] enzymes has attracted attention for bioremediation
 applications, particularly in the breakdown of xenobiotic compounds.
 
 The tough, woody fruiting bodies have historically been used as tinder for fire-
 starting, a use reflected in the common name "tinder conk." This shared use with
 other Phellinus species makes the genus culturally significant across multiple
-continents.
-
-In forestry management, P. gilvus is generally considered a secondary decay agent.
-Its presence on living trees indicates prior wounding or stress rather than
-aggressive pathogenicity.
-
-## Related Species
-
-Phellinus gilvus is part of the P. igniarius species complex, a group of morphologically
-similar taxa that have been partially resolved through molecular phylogenetics.
-
-- **Phellinus igniarius** — the true tinder conk; larger, darker pores, associated
-  primarily with Salix and Betula.
-- **Phellinus pomaceus** — similar habit on Prunus species; thinner fruiting body
-  and smaller pores.
-- **Phellinus linteus** — East Asian medicinal species; prized in traditional
-  Korean medicine ("sanghwang").
-- **Phellinus tremulae** — Aspen specialist with annual to perennial habit.
-- **Fuscoporia gilva** — recently segregated genus; very similar morphology,
-  distinguished by microchemistry and DNA.
-
-## See Also
-
-- [[phellinus-linteus]]
-- [[trametes-versicolor-entity]]
-- [[fomes-fomentarius]]
-- [[coriolopsis-gallica]]
-- [[mycoremediation]]

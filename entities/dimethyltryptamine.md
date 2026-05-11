@@ -62,11 +62,11 @@ Extraction from plant material (notably [[tryptamine-consciousness-theory]] — 
 - [[psilocybin]]
 - [[5-meo-dmt-compound-profile]] — 5-methoxy-N,N-dimethyltryptamine; more potent and shorter-acting than DMT
 - [[lsd-lysergic-acid-diethylamide-experience-guide]] — ergoline derivative sharing the dimethylamine motif; acts at the same 5-HT₂A receptor
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional DMT-containing brew with MAO-inhibiting β-carbolines
 - [[dmt]]
 
 - [[psilocybin]] — mushroom-derived 5-HT₂A agonist with overlapping pharmacology
-- [[ayahuasca-vision-art-and-Shipibo-tradition]] — traditional Amazonian DMT preparation
+- [[ayahuasca-vision-art-and-shipibo-tradition]] — traditional Amazonian DMT preparation
 - [[entada-rheedii]]
 ## Practical Considerations
 

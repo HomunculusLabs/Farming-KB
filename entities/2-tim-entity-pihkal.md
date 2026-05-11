@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2-TIM
 
-PIHKAL entry #152. 2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-.
+[[2c-b-pihkal-entry-20]] #152. 2-THIOISOMESCALINE; 3,4-DIMETHOXY-2-.
 
 ## Chemical Name
 
@@ -88,25 +88,7 @@ a 6 cm Vigreaux column with collection of several fractions. Those
 that distilled at 84-87 deg C were pure 2,3-dimethoxythioanisole. An
 analytical sample can be obtained by cooling a concentrated MeOH
 solution in dry ice, filtering the generated crystals, and washing
-with cold MeOH. This product melts at 36.5-37 deg C. Anal. (C9H12O2S)
-C,H,S. The picrate can be formed by treatment with a saturated EtOH
-solution of picric acid. It formed orange crystals with a mp of 73-78
-deg C. Anal. (C15H15N3O9S) N.
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[4-tim-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[3-4-dma-entity-pihkal]]
+- [[2c-h-entity-pihkal]]

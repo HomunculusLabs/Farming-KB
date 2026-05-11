@@ -1,10 +1,11 @@
 ---
-title: Gourmet Mushroom Species
+title: Mycelium Running Gourmet Mushroom Species
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Gourmet Mushroom Species
@@ -19,7 +20,7 @@ Stamets profiles numerous gourmet mushroom species throughout Mycelium Running, 
 
 Most gourmet mushrooms are wood decomposers -- the premier recyclers on the planet. Primary and secondary decomposers such as oyster and meadow mushrooms are the easiest to cultivate.
 
-The [gourmet mushroom species span a remarkable range of ecological roles, from primary decomposers that break down fresh wood to mycorrhizal species that form essential partnerships with forest trees. Many of these species also possess significant [medicinal properties, making them doubly valuable to humans. For foragers, understanding [mushroom foraging safety is essential when harvesting wild specimens.
+The [gourmet mushroom species span a remarkable range of ecological roles, from primary decomposers that break down fresh wood to mycorrhizal species that form essential partnerships with forest trees. Many of these species also possess significant [medicinal properties, making them doubly valuable to humans. For foragers, understanding [[mushroom-foraging-safety]] is essential when harvesting wild specimens.
 
 ## Oyster Mushrooms (Pleurotus species)
 
@@ -37,7 +38,7 @@ Shiitake is one of the most cultivated mushrooms worldwide, prized in Asian cuis
 
 It is a primary decomposer and wood decomposer, traditionally grown on oak logs in Asia. Shiitake produces cortinellin (an antibiotic) and antiviral compounds. Suzuki and others (1990) discovered an antiviral water-soluble lignin in extracts of shiitake mycelium grown on rice bran and sugarcane bagasse. Sarkar and others (1993) identified antiviral substances extracted from shiitake mushrooms.
 
-Pioneers in shiitake cultivation long ago discovered that woods other than oaks can serve as substrates. Shiitake cultivation on sawdust blocks is common, and spent blocks can be recycled for mycofiltration purposes. The [shiitake log method remains popular among home growers, while commercial operations increasingly use [[oyster-mushroom-supplemented-sawdust-blocks]] blocks for faster production cycles.
+Pioneers in shiitake cultivation long ago discovered that woods other than oaks can serve as substrates. [[shiitake-cultivation-on-sawdust]] sawdust blocks is common, and spent blocks can be recycled for mycofiltration purposes. The [shiitake log method remains popular among home growers, while commercial operations increasingly use [[oyster-mushroom-supplemented-sawdust-blocks]] blocks for faster production cycles.
 
 ## Maitake (Grifola frondosa)
 
@@ -53,7 +54,7 @@ Reishi is one of the most revered medicinal mushrooms in traditional Chinese med
 
 Although considered a true saprophyte by most mycologists, the Australian Quarantine Inspection Service has classified this medicinal species as a parasite. Reishi produces ganomvein (an antibiotic), triterpenoids, beta-glucans with anticancer and anti-inflammatory properties, and ganomycin.
 
-Derivatives of reishi mushrooms showed antiviral activity that selectively inhibited herpes simplex 1 and 2, and the vesicular stomatitis virus (VSV). Hemlock reishi (Ganoderma tsugae) is a sister species found on conifers. [Reishi cultivation methods have been refined over centuries, and this mushroom remains one of the most commercially important [medicinal mushrooms in the global market.
+Derivatives of reishi mushrooms showed antiviral activity that selectively inhibited herpes simplex 1 and 2, and the vesicular stomatitis virus (VSV). Hemlock reishi (Ganoderma tsugae) is a sister species found on conifers. [[reishi-cultivation-methods]] have been refined over centuries, and this mushroom remains one of the most commercially important [medicinal mushrooms in the global market.
 
 ## King Stropharia / Garden Giant (Stropharia rugoso-annulata)
 
@@ -61,7 +62,7 @@ The garden giant is one of the best culinary Stropharia species and serves as an
 
 This species first digests fresh debris and then continues to thrive as complex communities of microbes join with it to create soil. The mushroom cap is deep burgundy when young and fades as it matures, sometimes achieving a majestic stature. It is both a primary and secondary saprophyte but is dependent upon soil microbes for fruiting.
 
-[King Stropharia cultivation is popular in permaculture and garden settings. The species thrives in wood chip mulch pathways and garden borders, where it helps break down organic matter while producing edible mushrooms. Its ability to bridge the gap between primary and secondary decomposition makes it a valuable tool for [compost and soil food web inoculation.
+[[comparison-enoki-vs-king-stropharia-cultivation]] is popular in permaculture and garden settings. The species thrives in wood chip mulch pathways and garden borders, where it helps break down organic matter while producing edible mushrooms. Its ability to bridge the gap between primary and secondary decomposition makes it a valuable tool for [compost and soil food web inoculation.
 
 ## Turkey Tail (Trametes versicolor)
 
@@ -81,30 +82,8 @@ Chanterelles are notoriously difficult to cultivate because of their mycorrhizal
 
 ## Other Notable Species
 
-**Birch polypore (Piptoporus betulinus):** A potent medicinal mushroom with strong antibacterial activity. Its scent attracts beetles that disperse its spores.
+**Birch polypore ([[piptoporus-betulinus]]):** A potent medicinal mushroom with strong antibacterial activity. Its scent attracts beetles that disperse its spores.
 
 **Agarikon (Fomitopsis officinalis):** An extremely rare old-growth polypore producing agaricin (an antibiotic) with antiviral and antibacterial properties.
 
 **Sulphur tuft (Laetiporus sulphureus):** A choice edible brown rot fungus commonly called "chicken of the woods." As a [brown rot fungus, it plays a distinct role in forest decomposition compared to white-rot species.
-
-**Lion's Mane (Hericium erinaceus):** A distinctive cascade-forming mushroom with both culinary and medicinal value. [Lion's mane cultivation has gained popularity due to research into its neuroprotective compounds.
-
-## Ecological Value of Gourmet Mushrooms
-
-Beyond their culinary and medicinal importance, gourmet mushrooms provide essential [[biodiversity-of-fungi-ecosystem-services-agriculture]].
-
-As decomposers, they recycle nutrients and build soil. As mycorrhizal partners, they support forest health. Many species also produce [fungal [[antifungal-secondary-metabolites-coprophilous-fungi]] that influence the broader [[edaphic-factors-microbial-community-structure]], suppressing pathogens and creating conditions favorable for plant growth.
-
-## See Also
-
-- oyster-mushroom-varieties
-
-- [[reishi-cultivation-methods]]
-
-- [[lions-mane-cultivation]]
-
-- [[medicinal-mushroom-health-benefits]]
-
-- [[mycoforestry-forest-restoration]]
-
-- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]

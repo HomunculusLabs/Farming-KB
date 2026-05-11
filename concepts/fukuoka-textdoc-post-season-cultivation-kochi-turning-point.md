@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, rice-cultivation, kochi, rice-borer, scientific
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -20,17 +21,17 @@ farming.
 
 Kochi Prefecture, with its warm temperatures and high humidity, produced rice growth
 that was "too luxuriant" for optimal production. Under these conditions, rice plants
-produced excessive [[cannabis-vegetative-growth-stage]] at the expense of grain production. Disease and
-pest attack, particularly from the yellow rice borer, was one method taken by nature
+produced excessive [[cannabis-vegetative-growth-stage]] at the expense of [[fukuoka-no-till-grain-production-method]]. Disease and
+pest attack, particularly from the [[fukuoka-textdoc-kochi-yellow-rice-borer-eradication]], was one method taken by nature
 for suppressing excessive growth. Fukuoka recognized this natural regulation, but
-conventional agricultural science interpreted it purely as damage and harm requiring
+conventional [[fukuoka-critique-laws-agricultural-science]] interpreted it purely as damage and harm requiring
 human intervention.
 
 The post-season cultivation strategy was designed to break the rice borer lifecycle
 by denying the first generation of borers food. This required that not a single
 stalk of rice remain standing as food for the season first generation of rice
 borers until the end of June. The approach represented the cutting edge of
-scientific pest management at the time.
+scientific [[query-what-is-biofumigation-and-how-does-it-work]] at the time.
 
 ## Fukuoka Role in the Program
 
@@ -62,7 +63,7 @@ defensive rather than generative, preventing losses rather than creating gains.
 The researchers had "no idea of what the best time was for planting," a factor
 thought to play a key role in determining yields. Post-season planting was chosen
 "simply as a measure against the rice borer." Fukuoka concluded that crop
-cultivation techniques based on late planting are "all mere stopgap measures for
+[[cannabis-sativa-indoor-cultivation-techniques]] based on late planting are "all mere stopgap measures for
 holding crop losses to a minimum." They maintain the status quo without advancing
 it.
 
@@ -87,49 +88,3 @@ rice farming.
 The rice seedlings had germinated and survived the winter without any human
 assistance. No tillage, no transplantation, no flooding, no fertilization. The
 seed had simply fallen to the ground, overwintered in the soil, and emerged when
-conditions were right. This [[fukuoka-direct-observation-method]] contradicted the agricultural
-establishment assumption that rice required intensive human management at every
-stage of its growth cycle.
-
-The Kotogahama discovery was not an isolated curiosity. Fukuoka realized that
-rice plants in nature routinely shed seed that falls to the ground and
-germinates without transplanting. The entire transplanting system that
-dominated Japanese rice cultivation was therefore not a necessity of rice
-biology but a human invention that created dependency on labor-intensive
-practices.
-
-## Disease as Natural Regulation
-
-Fukuoka reinterpretation of disease and pest attack as natural regulatory
-mechanisms was central to his developing philosophy. In Kochi, rice blast and
-borer damage served to suppress the excessive vegetative growth promoted by
-warm, humid conditions. Rather than seeing these as enemies to be defeated,
-he began to see them as functional parts of a self-regulating system.
-
-The rice plant itself, Fukuoka suggested, might see blast disease as a
-"protective mechanism that halts excessive plant growth and restores a balance
-between the surface and underground portions of the plant." The disease might
-even be regarded as "a means by nature for preventing the overly dense growth
-of rice plants, thus aiding photosynthesis and assuring the full production
-of seed." This radical reframing of [[hamilton-pest-and-disease-control-organic]] as natural regulators
-rather than enemies became a cornerstone of his [[fukuoka-textdoc-increased-production-not-increased-yields]] and connects to his
-broader argument about the [[fukuoka-textdoc-production-costs-not-coming-down]].
-
-### Nature as Self-Sufficient
-
-The Kotogahama discovery showed that nature possesses its own methods of
-propagation that require no human intervention. This directly contradicted the
-assumption underlying all conventional rice cultivation that human management
-was essential at every stage. If rice could grow on its own, what did that imply
-about the necessity of all the other agricultural practices that had been
-developed over centuries?
-
-### From Researcher to Natural Farmer
-
-Fukuoka described this period as one where he "inwardly searched for what I
-believed to be the true path of agriculture, [[comparison-natural-farming-vs-permaculture]]." He had "yet no
-clear image of natural farming" and could only "grope blindly for a way of
-farming I had never seen but knew must exist." The post-season cultivation
-failure was a cumulative disillusionment with the scientific approach, each
-element contributing to a growing conviction that human knowledge and effort
-were not the path to agricultural truth.

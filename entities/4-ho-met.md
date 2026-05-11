@@ -87,27 +87,3 @@ The effects of 4-HO-MET are broadly similar to those of [[psilocybin]]
 | [[lsd]] | 8–12 hours | Very High | Very High | Low | Varies |
 
 ## History
-
-- First synthesized by Alexander Shulgin, documented in TiHKAL (1997) as entry #40
-- Shulgin reported threshold dose of 10 mg, full effects at 20–30 mg; described "a +++, with rich imagery"
-- Emerged on the research chemical market in the late 2000s/early 2010s
-- Limited formal [[hofmann-lsd-clinical-research-early-studies]] compared to [[psilocybin]] analog (Schedule I)
-- **United Kingdom:** Class A under Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments
-- **Canada:** Schedule III of the Controlled Drugs and Substances Act
-- **Germany:** Controlled under NpSG (New Psychoactive Substances Act)
-- **Australia:** Scheduled as a prohibited substance
-- [[ayahuasca-tourism-legal-status-by-country]] is evolving rapidly; consult current local regulations
-
-## Harm Reduction
-
-- Always test substances with a reagent test kit when possible; use a calibrated milligram scale
-- Start with lower doses, especially with a new batch; avoid combining with MAOIs, alcohol, or other psychedelics
-- Use with a trusted sober sitter; be aware of [[lsd-set-and-setting-framework]]
-- Those with personal or family history of psychotic disorders should exercise caution
-- Allow adequate time between experiences (minimum 1–2 weeks recommended)
-
-## See Also
-
-- [[psilocybin]]
-- [[dipt]]
-- [[tryptamine]]

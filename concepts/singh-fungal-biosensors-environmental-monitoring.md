@@ -88,16 +88,3 @@ biomass regeneration timing.
   fractions, providing ecologically meaningful data.
 
 ### Limitations
-
-- **Stability**: Living fungal sensors have limited operational lifetimes,
-  requiring periodic recalibration or replacement.
-- **Selectivity**: Whole-cell biosensors may respond to multiple contaminants,
-  reducing specificity compared to chemical analytical methods.
-- **Environmental interference**: Temperature, pH, and ionic strength
-  fluctuations affect biosensor performance.
-- **Calibration**: Correlating biosensor signals to absolute pollutant
-  concentrations requires careful validation against standard methods.
-
-## Future Developments
-
-Emerging trends include [[singh-genetically-engineered-fungi-bioremediation]] fungal strains with

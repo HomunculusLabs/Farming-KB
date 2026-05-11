@@ -1,144 +1,128 @@
 ---
-title: Edaphic [[edaphic-factors-structuring-cannabis-microbiome]] [[soil-edaphic-factors-microbial-communities]] in Cannabis
+title: Edaphic Factors Microbial Communities
+created: 2026-05-11
 source: understanding-cultivar-specificity-cannabis-microbiome.md
-tags: [microbiome, cannabis, rhizosphere, soil-science]
-created: 2026-05-09
+tags: [edaphic-factors, soil-chemistry, microbiome, nitrogen, salinity, pH]
 ---
 
-# Edaphic Factors Structuring Microbial Communities in Cannabis
+# Edaphic Factors and Microbial Community Structure
 
-Edaphic factors — the physicochemical properties of soil — are among the most
-important determinants of microbial [[core-endorhiza-bacterial-community-composition-cannabis]] in terrestrial
-ecosystems. The Winston et al. (2014) study systematically evaluated the
-relative importance of key edaphic variables in structuring bulk soil,
-rhizosphere, and endorhiza microbial communities associated with Cannabis
-plants, using both Mantel tests and BEST (Best Subset of Environmental
-Variables) analysis to quantify their contributions.
+## Overview
 
-## Overview of Edaphic Factors Tested
+Edaphic factors — the physical, chemical, and biological properties of soil —
+are the primary determinants of microbial [[core-endorhiza-bacterial-community-composition-cannabis]] across all
+sample types in the Cannabis root system. The Winston et al. (2014) study
+demonstrated that soil properties exerted a stronger influence on bacterial
+community structure than either plant cultivar or sample compartment type,
+accounting for the largest number of differentially abundant OTUs and the
+greatest proportion of community variance in both weighted and unweighted
+analyses.
 
-Five edaphic factors were measured and analyzed for their effects on microbial
-[[edaphic-determinants-cannabis-microbiome-community-structure]] across both experiments: total nitrogen concentration,
-salinity, total organic carbon, water content, and pH. These factors were
-measured for all bulk soil samples and used in Mantel tests to understand
-their effects on structuring microbial communities across all sample types.
-Soil texture was also characterized, with all soils classified as sandy loam.
+## The Five Key Edaphic Factors
 
-## Nitrogen: The Strongest Predictor
+Five soil physicochemical parameters were measured across the Cannabis
+microbiome experiments: nitrogen content, salinity, total organic carbon,
+water
+content, and pH. All five were significantly correlated with community
+beta-diversity (p = 0.001 for all factors), but their relative importance
+differed between weighted (abundance-sensitive) and unweighted (presence/
+absence-sensitive) analyses.
 
-Nitrogen was consistently the strongest edaphic predictor of microbial
-community beta-diversity across both weighted and unweighted analyses. In the
-weighted UniFrac analysis, nitrogen had the highest Mantel correlation
-(r-stat = 0.465, p = 0.001). In the unweighted analysis, the effect was even
-stronger (r-stat = 0.630, p = 0.001). This primacy of nitrogen is consistent
-with the fundamental role of nitrogen as a limiting nutrient for microbial
-growth in most soil environments. [[nitrogen-availability-in-legumes]] directly influences
-microbial metabolic potential, growth rates, and competitive dynamics, making
-it a master variable that shapes [[edaphic-factors-microbial-community-structure]] across all soil
-compartments.
+### Nitrogen (Strongest Factor)
 
-## Salinity: The Second Strongest Factor
+Nitrogen was the single most important edaphic factor structuring microbial
+communities. In unweighted analysis it had the strongest correlation with
+community dissimilarity (r-stat: 0.630, p = 0.001), and in weighted analysis
+it also led (r-stat: 0.465, p = 0.001). [[nitrogen-availability-in-legumes]] fundamentally
+shapes soil microbial ecology because it is often the limiting nutrient for
+microbial growth. Communities shift dramatically along nitrogen gradients,
+with nitrogen-rich soils favoring copiotrophic taxa (fast-growing
+Proteobacteria)
+and nitrogen-poor soils favoring oligotrophic taxa (Acidobacteria).
 
-Salinity was the second most important edaphic factor, with Mantel
-correlations of r-stat = 0.437 (weighted, p = 0.001) and r-stat = 0.620
-(unweighted, p = 0.001). Soil salinity affects microbial communities through
-osmotic stress, which can inhibit the growth of salt-sensitive organisms while
-selecting for halotolerant species. The two soil types in the second experiment
-showed notable differences in salinity: the MB (Mo-Bio) soil had salinity
-values ranging from 5.12 to 7.44, while the OC (Orange County) soil had a
-salinity of just 1.73. This large difference in salinity between soils
-contributed to the strong soil-type signal observed in the PCoA analyses.
+### Salinity
 
-## Carbon and Water Content
+Salinity was the second most important factor in both analyses (unweighted:
+r-stat: 0.620; weighted: 0.437). Soil salinity affects [[cannabis-rhizosphere-microbial-communities]]
+through osmotic stress, which selects for salt-tolerant genera while
+inhibiting
+sensitive organisms. The Cannabis experiment soils ranged from 1.73 to 7.44 in
+salinity measurements, spanning a range that would be expected to produce
+significant community shifts.
 
-Total organic carbon was the third most important factor, with Mantel
-correlations of r-stat = 0.330 (weighted, p = 0.001) and r-stat = 0.512
-(unweighted, p = 0.001). Organic carbon serves as the primary energy source
-for heterotrophic soil microbes, and its concentration directly influences
-microbial biomass and [[mycorrhizal-effects-on-plant-community-composition]]. The two soil types showed
-dramatic differences in organic carbon: MB soil had total organic C values of
-3.02 to 5.00, while OC soil had a total organic C of 20.0 — roughly four to
-six times higher. This substantial difference likely contributed to the strong
-soil-type differentiation observed in the study.
+### Total Organic Carbon
 
-Water content was the fourth most important factor, with Mantel correlations
-of r-stat = 0.281 (weighted, p = 0.001) and r-stat = 0.466 (unweighted,
-p = 0.001). Soil water content influences microbial activity by affecting
-nutrient diffusion, oxygen availability, and osmotic conditions. The OC soil
-had substantially higher water content (0.371) compared to MB soil (0.101 to
-0.178), consistent with its higher organic matter content.
+Organic carbon ranked third (unweighted: 0.512; weighted: 0.330). Carbon is
+the
+primary energy source for heterotrophic soil bacteria. Higher organic carbon
+supports greater microbial biomass and diversity. The study found total
+organic
+carbon ranging from 3.02% to 20.0% across soil types, with the Orange County
+soil having dramatically higher carbon content. This directly influenced alpha
+diversity, with the higher-carbon MB soil supporting richer communities.
 
-## pH: Important but Weakest of the Five
+### Water Content
 
-pH was the fifth and weakest of the five edaphic factors tested, though it
-remained highly significant (r-stat = 0.221, weighted, p = 0.001; r-stat =
-0.292, unweighted, p = 0.001). This finding is noteworthy because pH has
-often been cited as the single most important edaphic factor structuring soil
-microbial communities in other studies. The relatively lower importance of pH
-in the Cannabis study may reflect the narrow pH range across the sampled
-soils (6.63 to 6.94), which limited the variation available for detecting
-pH effects.
+Water content ranked fourth (unweighted: 0.466; weighted: 0.281). Soil
+moisture
+affects microbial activity through its influence on nutrient diffusion, oxygen
+availability, and osmotic potential. Water content ranged from 0.101 to 0.371
+across experimental soils, reflecting substantial variation in moisture
+retention capacity.
 
-## Mantel Test Results: All Factors Significant
+### pH
 
-For both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances (with all samples pooled
-in the analysis), all five edaphic factors tested were significantly
-correlated with community beta-diversity (p = 0.001 for all factors). This
-comprehensive significance underscores that microbial communities in the
-Cannabis root zone are shaped by a combination of soil physicochemical
-variables rather than any single dominant factor. The relative ranking of
-importance (N > salinity > C > water > pH) was consistent between weighted
-and unweighted analyses, lending confidence to the robustness of these
-findings.
+pH was the weakest but still significant factor (unweighted: 0.292; weighted:
+0.221). Soil pH is a well-established master variable in microbial ecology,
+affecting the availability of nutrients and the solubility of toxic metals.
+All experimental soils were slightly acidic (pH 6.63-6.94), a relatively
+narrow
+range that may explain why pH had the weakest effect despite its known
+importance in broader soil surveys.
 
-## Soil Texture: Sandy Loam Classification
+## BEST Analysis
 
-All soils in the study were classified as sandy loam, with sand content
-ranging from 62.0% to 66.0%, silt from 16.0% to 17.7%, and clay from 17.7%
-to 20.7%. Despite this shared classification, there were significant
-differences in clay content and other edaphic factors between the two soil
-types used in the second experiment. The sandy loam texture across all sites
-suggests that the [[cannabis-cultivar-microbial-community-effects]] differences observed were driven more
-by chemical factors (nitrogen, carbon, salinity) than by physical soil
-structure.
+The Best Subset of Environmental Variables with Maximum Rank Correlation
+(BEST) analysis identified the optimal combination of three edaphic factors
+that together explained community variance with rho = 0.632. The optimal
+subset was nitrogen, carbon, and water content. This three-factor model
+explained nearly two-thirds of community variation, demonstrating that a
+relatively small number of measurable soil parameters can predict microbial
+community structure with considerable accuracy.
 
-## Differences Between MB and OC Soil Types
+## Soil Type as a Composite Variable
 
-The two soil types in the second experiment exhibited significant
-physicochemical differences. MB (Mo-Bio) soil had higher salinity (5.12 to
-7.44 vs 1.73), higher total nitrogen (0.26 to 1.51 vs 0.53), lower organic
-carbon (3.02 to 5.00 vs 20.0), and lower water content (0.101 to 0.178 vs
-0.371) compared to OC (Orange County) soil. pH values were similar between
-soil types (6.63 to 6.94 for MB vs 6.77 for OC). These differences were
-sufficient to produce highly significant clustering of microbial communities
-by soil type in PCoA analyses (unweighted ADONIS: R² = 0.196, p = 0.001;
-weighted ADONIS: R² = 0.323, p = 0.001).
+When analyzed as a composite categorical variable (soil type), the effect was
+even stronger than any individual factor. In the pooled analysis of both
+experiments, soil type explained 19.6% of unweighted and 32.3% of weighted
+community variation (ADONIS: p = 0.001). This reflects the fact that soil type
+integrates multiple correlated edaphic properties simultaneously.
 
-## BEST Analysis: Optimal Combination of Factors
-
-The BEST (Best Subset of Environmental Variables with Maximum Rank Correlation
-with Community Dissimilarities) analysis was used to identify the combination
-of edaphic factors that optimally explained variance in community data. This
-analysis, implemented via the vegan::bioenv function in R, determined that
-three factors — nitrogen, carbon, and water content — optimally explained the
-variance in community composition, achieving a correlation of rho = 0.632.
-This finding suggests that while all five factors are individually
-significant, the combination of [[ph-and-nutrient-availability-garden-soils]] (N, C) and moisture
-conditions captures the primary abiotic drivers of microbial community
-structure in these Cannabis-associated soils.
+The five experimental soil types were all classified as sandy loam but
+differed substantially in their detailed composition. Clay content ranged
+from 17.6% to 20.7%, sand from 62.0% to 66.0%, and silt from 16.0% to 17.7%.
+These textural differences affect water retention, nutrient [[pf-tek-vermiculite-type-comparison-water-holding-capacity]],
+and root penetration resistance, creating distinct microbial habitats.
 
 ## Implications for Cannabis Cultivation
 
-These results have direct implications for Cannabis cultivation practices.
-Soil [[weed-management-strategies]] that optimize nitrogen availability, maintain
-appropriate salinity levels, and ensure adequate organic carbon and water
-content can be expected to favor beneficial microbial communities. The strong
-soil-type effect on all sample types — including the endorhiza — means that
-soil selection and amendment practices will influence not only the soil
-microbiome but also the microbes that colonize root tissues.
+The dominance of edaphic factors means that soil management practices have
+the greatest leverage over the Cannabis microbiome. Practices that improve
+nitrogen availability (composting, cover cropping, legume rotation), increase
+organic carbon (organic amendments, biochar), optimize water retention
+(mulching, irrigation management), and maintain appropriate pH (liming,
+sulfur amendments) will have cascading positive effects on the root-associated
+microbial community.
+
+## See Also
+
+- [[two-tier-selection-model-plant-microbiome]]
+- [[cannabis-endorhiza-microbiome]]
+- [[cultivar-specificity-plant-microbiomes]]
 
 ## References
 
-- Winston ME, et al. (2014) Understanding Cultivar-Specificity and Soil
-  Determinants of the [[cannabis-microbiome-cultivar-specificity]]. PLoS ONE 9(6): e99641.
-- Oksanen J, et al. (2013) vegan: Community Ecology Package. R package.
+- Winston ME et al. (2014) PLoS ONE 9(6): e99641.
+- Marschner P et al. (2001) Soil Biol Biochem 33: 1437-1445.
+- Fierer N, Jackson RB (2006) The diversity and biogeography of soil bacterial
+communities. PNAS 103(3): 626-631.

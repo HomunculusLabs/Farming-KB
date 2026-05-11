@@ -88,25 +88,3 @@ between 200 and 500 millimeters. A daily ration of 1.4 kilograms of mulga
 leaf supplies sheep with sufficient protein at 12 percent.
 
 Its wood is one of the hardest in the world, used for fence posts, mine
-timbers, and craft work.
-
-Acacia ampliceps (salt wattle) tolerates alkaline, saline, and waterlogged
-conditions. Acacia cyclops (coastal wattle) withstands wind and salt spray,
-originally planted for sand dune stabilization in South Africa.
-
-## Rosewood ([[tipuana-tipu]])
-
-Rosewood, also called pride of Bolivia, is a fast growing nitrogen fixing
-tree native to South America, reaching 40 meters. In warm climates it is
-evergreen but deciduous in cold. It serves as a nurse crop for coffee and
-shade-loving crops, with timber prized for furniture.
-
-## Design Considerations
-
-When selecting pioneer species, consider site conditions: rainfall, soil type,
-temperature extremes, and existing vegetation. Match pioneer traits to site
-challenges. Plan for the transition from pioneer to climax community.
-
-Ensure succession species are planted before pioneers need removal. Stack
-functions by selecting pioneers that provide multiple yields: fodder, mulch,
-bee forage, timber, and soil building all contribute to system productivity

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,35 +87,3 @@ Any number of interrelated factors may exist. Different measures may be adopted 
 ## The Infinite Regression of Scientific Causation
 
 As research digs deeper and deeper, what was once accepted as plain and simple fact is no longer clear, and causes cease to be what they appear.
-
-Even if excess nitrogenous fertilizer is identified as a cause of rice blast disease, determining how the excess fertilizer relates to attack by rice blast bacteria is no easy matter. If the plant receives plenty of sunlight, photosynthesis in the leaves speeds up, increasing the rate at which nitrogenous components taken up by the roots are assimilated as protein.
-
-But if cloudy weather persists or the rice is planted too densely, individual plants may receive insufficient light or too little carbon dioxide, slowing photosynthesis. This may in turn cause an excess of nitrogenous components to remain unassimilated in the leaves, making the plant susceptible to the disease.
-
-## Science Never Reaches the Bottom
-
-Thus, an excess of nitrogenous fertilizer may or may not be the cause of rice blast disease. One can just as easily ascribe the cause to insufficient sunlight or carbon dioxide, or to the amount of starch in the leaves, but then it turns out that to understand how these factors relate to rice blast disease, we need to understand the process of photosynthesis, which modern science has not yet fully unlocked.
-
-## Disease as a Natural Balancing Mechanism
-
-The rice plant itself may see blast disease as a protective mechanism that halts excessive plant growth and restores a balance between the surface and underground portions of the plant.
-
-The disease might even be regarded as a means by nature for preventing the overly dense growth of rice plants, thus aiding photosynthesis and assuring the full production of seed. In any case, rice blast disease is not the final effect, but merely one stage in the constant flux of nature. It is both a cause as well as an effect.
-
-## The Illusion of Solving Disease
-
-When man sees a brown spot on a leaf, he calls it abnormal. His confident solution is to kill the pathogen with pesticides. But without a grasp of the true cause, his solution cannot be a real solution. Behind each cause lies another cause, and behind that yet another.
-
-## Philosophical Implications
-
-The sawdust experiment illustrates a core principle of [[comparison-natural-farming-vs-permaculture]]: that nature is self-regulating and that human intervention, however well-intentioned, typically disrupts rather than assists natural processes.
-
-The farmer who applies lime to correct acidity is like a person who tries to help a wound heal by constantly picking at the scab. The body, like the soil, has its own healing mechanisms that work best when left undisturbed.
-
-This principle has implications far beyond agriculture. It suggests that many of humanity's attempts to solve problems through intervention actually create more problems than they solve, because each intervention disrupts self-regulating systems that were functioning adequately before the interference began.
-
-## See Also
-
-- [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
-- [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]]
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]]

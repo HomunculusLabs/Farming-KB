@@ -1,7 +1,7 @@
 ---
 title: Fungal Taxonomic Impediment
 created: 2026-04-28
-tags: [mycology], taxonomy, biodiversity-gap, infrastructure, workforce]
+tags: [[mycology]], taxonomy, biodiversity-gap, infrastructure, workforce]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -36,7 +36,7 @@ sit unidentified in herbaria for years or decades.
 Taxonomic work is chronically underfunded compared to molecular ecology,
 genomics, and applied mycology. Grant agencies tend to favor hypothesis-driven
 research over descriptive taxonomy, which is perceived as low-impact. The
-cost of monographic work, field expeditions, and specimen curation is rarely
+cost of monographic work, field expeditions, and [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] is rarely
 covered by competitive research grants. This creates a perverse incentive
 structure where we can sequence environmental samples by the million but
 cannot afford to formally describe the species those sequences represent.
@@ -87,29 +87,3 @@ taxonomy" approaches that batch-describe dozens of species in single papers
 using consistent, minimal diagnostic criteria.
 
 ### Integrative Taxonomy
-
-The integration of molecular phylogenetics with morphology, ecology, and
-geographic data provides a more robust framework for species delimitation and
-can speed description by providing clear, objective criteria. Multi-locus
-sequencing has resolved many problematic species complexes.
-
-### Citizen Science and Digital Tools
-
-Platforms like iNaturalist have made fungal observation accessible to
-non-specialists, generating vast quantities of distributional data. Machine
-learning tools for image-based identification are improving rapidly and could
-eventually assist in preliminary sorting of collected material for taxonomists.
-
-## The Extinction Paradox
-
-The taxonomic impediment creates a paradox: fungal species are likely going
-extinct due to habitat destruction faster than they can be described, yet we
-cannot assess extinction risk for species we do not know exist. This
-underscores the urgency of accelerating fungal documentation, even if
-complete inventory proves impossible.
-
-## See Also
-
-- [[cryptic-fungal-species]]
-- [[biodiversity-fungi-tropical-fungal-diversity]]
-- [[taxonomic-impediment-fungal-species-description]]

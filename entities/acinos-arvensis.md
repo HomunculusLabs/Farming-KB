@@ -12,7 +12,7 @@ sources:
   - Conforti, F. et al. (2006). "Chemical composition and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
   - Formisano, C. et al. (2007). "Volatile constituents of Acinos arvensis from Italy." Journal of Chromatography A, 1170(1–2), 241–245.
   - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis permaculture-designers-manual-essential-oil-plants." Flavour and Fragrance Journal, 22(5), 398–401.
-  - Tuttolomondo, T. et al. (2013). "Essential oil composition of Acinos arvensis from Sicily." Natural Product Communications, 8(12), 1729–1732.
+  - Tuttolomondo, T. et al. (2013). "[[permaculture-designers-manual-essential-oil-plants]] composition of Acinos arvensis from Sicily." Natural Product Communications, 8(12), 1729–1732.
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ It is native to Europe and western Asia, where it grows in dry, rocky, and sandy
 
 Basil thyme is a diminutive species, rarely exceeding 20 cm in height. Despite its small stature, it produces a characteristically strong minty-aromatic scent when crushed.
 
-The species has a history of traditional use in European herbal medicine. Modern research has investigated its essential oil for antimicrobial and antioxidant properties.
+The species has a history of traditional use in European [[childrens-herbal-medicine]]. Modern research has investigated its essential oil for antimicrobial and antioxidant properties.
 
 ## Taxonomy and Morphology
 
@@ -85,37 +85,6 @@ Populations from different geographic regions show markedly different profiles, 
 
 **Reported pharmacological activities:**
 
-The essential oil demonstrates notable antibacterial activity against *Bacillus subtilis*, *Staphylococcus aureus*, and *Escherichia coli* in vitro.
+The essential oil demonstrates notable antibacterial activity against *[[bacillus-subtilis]]*, *[[staphylococcus-aureus]]*, and *Escherichia coli* in vitro.
 
-Moderate antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
-
-Antioxidant assays indicate free-radical scavenging capacity, primarily attributed to pulegone and menthone content.
-
-The essential oil shows larvicidal activity against mosquito larvae, suggesting potential as a natural insecticide.
-
-## Ethnobotanical Use
-
-Basil thyme has a modest but documented history in European folk medicine and culinary traditions.
-
-**Traditional applications:**
-
-- **Respiratory:** Infusions used for coughs, sore throats, and catarrh.
-- **Digestive:** Mild carminative used for bloating and indigestion.
-- **Topical:** Compresses of bruised leaves applied to wounds and insect stings.
-
-In some Italian and Balkan regions, basil thyme has been used as a flavoring herb for salads, cheeses, and rustic breads. Its strong aroma means it is used sparingly.
-
-In Spanish folk medicine, the plant is known as *ajedrea de campo* and has been used as a general tonic and digestive aid.
-
-The species is not widely used in modern herbalism or commercial products. Its small size and variable chemistry limit its economic potential compared to related Lamiaceae species.
-
-## See Also
-
-- [[anagallis-arvensis]]
-- [[sinapis-arvensis]]
-
-- [[origanum-vulgare-entity]]
-- [[calamintha-nepeta]]
-- [[micromeria-fruticosa]]
-- [[hyssopus-officinalis]]
-- [[prunella-vulgaris]]
+Moderate antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[aspergillus-niger]]*.

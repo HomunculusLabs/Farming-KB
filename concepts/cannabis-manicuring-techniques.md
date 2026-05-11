@@ -41,10 +41,10 @@ After manicuring, buds should be hung on lines or placed on screens to dry. Remo
 - Temperature: 65-75F (18-24C)
 - Humidity: 45-55 percent
 - Light: None (complete darkness)
-- Handling: Minimum (resin glands bruise easily)
+- Handling: Minimum ([[greg-green-trichomes-and-resin-glands]] bruise easily)
 - Duration: 5-7 days for slow, even drying
 
-When dried relatively slowly over five to seven days or longer, moisture evaporates evenly into the air, yielding uniformly dry buds with minimal THC decomposition. Slowly dried buds taste sweet and smoke smooth.
+When dried relatively slowly over five to seven days or longer, moisture evaporates evenly into the air, yielding uniformly dry buds with minimal THC [[decomposition]]. Slowly dried buds taste sweet and smoke smooth.
 
 ## Factors That Degrade Quality During Manicuring
 
@@ -85,12 +85,5 @@ For commercial or large-scale operations, the time investment in hand manicuring
 - Electric trimmers reduce time by two-thirds
 - Vacuum-assisted models collect trim automatically
 - Pre-harvest leaf removal reduces workload
-- Proper tool selection prevents hand fatigue
+- Proper [[garden-tool-selection-sharpening-solomon]] prevents hand fatigue
 - Budget 4-6 hours per pound for hand manicuring
-
-## See Also
-
-- [[cannabis-kief-collection]]
-- [[cannabis-yield-optimization]]
-- [[cannabis-hash-making-from-extracted-oil]]
-- [[cannabis-hashish-making-methods]]

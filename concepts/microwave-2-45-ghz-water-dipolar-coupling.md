@@ -88,15 +88,3 @@ The NASA microwave surface sterilization system delivers energy at a rate of 3.6
 The waveguide system, consisting of rectangular waveguide sections, coaxial adapters, and dipole antennas, is engineered to maximize power transfer efficiency from the magnetron source to the treatment zone while maintaining uniform field distribution across the irregular mating geometries of access port connections. The rectangular waveguide dimensions are chosen to support the dominant TE10 propagation mode at 2.45 GHz, which provides the most efficient power transfer for the given frequency and waveguide cross-section.
 
 ## Energy Conversion Efficiency
-
-The conversion efficiency from electrical input power to absorbed microwave energy in the water film depends on the impedance matching between the microwave source, waveguide transmission system, and the water-loaded treatment surface. Well-designed waveguide and antenna systems, as described in the MSAP configuration using rectangular waveguides, coaxial adapters, and dipole antennas, maximize power transfer to the treatment zone while minimizing reflections back toward the magnetron source.
-
-Impedance mismatches between system components cause reflected power that reduces the energy reaching the contaminated surfaces and can create standing wave patterns that produce uneven treatment. The NASA system design addresses this through careful engineering of the waveguide dimensions, antenna placement, and treatment chamber geometry to achieve acceptable impedance matching across the frequency band centered at 2.45 GHz.
-
-## Relationship to Microwave Steam Flash Sterilization
-
-The dipolar coupling mechanism described here provides the initial energy absorption step that drives the microwave steam flash sterilization process described in [[microwave-water-interaction-2-45-ghz]] Concepts
-
-- [[microwave-steam-flash-sterilization-mechanism]] for the trace water steam flash process
-- [[bacterial-spore-microwave-resistance]] for why spores evade the dipolar coupling mechanism
-- [[surface-sterilization-methods-comparison]] for comparison with alternative approaches

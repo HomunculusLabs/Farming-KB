@@ -6,6 +6,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
   - /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
   - /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md

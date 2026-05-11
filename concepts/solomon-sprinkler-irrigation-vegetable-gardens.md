@@ -1,5 +1,5 @@
 ---
-title: Solomon Sprinkler Irrigation for Vegetable Gardens
+title: Solomon Sprinkler Irrigation Vegetable Gardens
 source: gardening-when-it-counts-steve-solomon.md
 author: Steve Solomon
 topics:
@@ -13,7 +13,7 @@ topics:
 
 ## Overview
 
-Steve Solomon's *Gardening When It Counts* includes a detailed "gardener's textbook of sprinkler irrigation." While dry gardening is ideal, most gardeners in temperate climates need supplemental irrigation, and properly designed sprinkler systems offer the most practical solution for extensive row gardens.
+Steve Solomon's *Gardening When It Counts* includes a detailed "gardener's textbook of sprinkler irrigation." While dry gardening is ideal, most gardeners [[query-how-to-grow-and-use-oca-in-temperate-climates]] need supplemental irrigation, and properly designed sprinkler systems offer the most practical solution for extensive row gardens.
 
 ## The Case Against Intensive Irrigation
 
@@ -30,7 +30,7 @@ Solomon notes yield per gallon of water is actually lower with intensive systems
 
 ### The Widstoe Definition of Drought
 
-Solomon quotes John Widstoe's 1911 *Dry Farming*, redefining drought as human failure rather than meteorology: crops fail due to insufficient water supply not because of Providence, but because of the gardener's choices in spacing, variety selection, soil preparation, and water management.
+Solomon quotes John Widstoe's 1911 *Dry Farming*, redefining drought as human failure rather than meteorology: crops fail due to insufficient water supply not because of Providence, but because of the gardener's choices in spacing, [[coleman-winter-greens-variety-selection]], soil preparation, and water management.
 
 ## Four Spacing Systems and Their Water Needs
 
@@ -82,54 +82,8 @@ Repeat at different times and wind conditions, as both affect coverage uniformit
 
 Dissolving soluble fertilizer in irrigation water delivers moisture and nutrients simultaneously. Solomon considers this essential for Column 4 gardeners:
 
-- **COF extract**: Steeping Complete Organic Fertilizer in water creates a nutrient-rich irrigation solution
-- **Fish emulsion and kelp**: Commercial liquid organics added directly to irrigation water
-- **Compost extract**: Simple steeping serves double duty
+- **COF extract**: Steeping [[complete-organic-fertilizer-cof]] in water creates a nutrient-rich irrigation solution
+- **[[solomon-foliar-feeding-fish-emulsion-and-kelp]] kelp**: Commercial liquid organics added directly to irrigation water
+- **[[aact-compost-extract-leachate-tea-distinctions-ingham]]**: Simple steeping serves double duty
 
 ### Advantages
-
-1. Nutrients delivered directly to the root zone
-2. Small, frequent doses rather than occasional large applications
-3. Less nutrient leaching than surface application
-4. Valuable during transplant establishment
-
-### Timing
-
-Apply in early morning to minimize evaporation. Avoid late-day overhead fertigation to prevent foliar diseases. Reduce nitrogen fertigation as fruiting crops mature.
-
-## Water Conservation Strategies
-
-### Mulching for Moisture
-
-Solomon is skeptical of exaggerated mulch claims: mulching keeps the surface moist but does not significantly reduce total garden moisture loss. Most water loss is from plant transpiration, not soil evaporation. Mulch is more valuable for weed suppression.
-
-### Soil Preparation for Water Efficiency
-
-Deep, loose soil is the most important water conservation factor:
-
-- Organic matter increases water-holding capacity
-- Proper mineral balance (especially calcium) creates stable aggregates
-- Deep preparation maximizes the soil moisture reservoir
-
-### Timing
-
-Early morning is best — lower temperatures and wind reduce evaporation, foliage dries quickly. Evening watering risks foliar diseases in humid regions.
-
-## The Dry Gardening Alternative
-
-Solomon advocates learning dry gardening as insurance:
-
-- Choose drought-adapted varieties
-- Space plants far enough for deep, extensive root systems
-- Prepare soil deeply to maximize moisture reservoir
-- Time plantings so crops mature before peak summer drought
-- Accept that demanding crops (celery, cauliflower) are unsuitable
-
-## See Also
-
-- [[solomon-watering-and-dry-farming]]
-- [[wide-spacing-dry-gardening-low-irrigation-solomon]]
-- [[row-gardening-vs-intensive-methods-solomon]]
-- [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-fertigation-and-transplant-establishment]]
-- [[complete-organic-fertilizer-cof-recipe-solomon]]

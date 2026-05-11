@@ -22,13 +22,13 @@ sources:
 
 **Desmodium illinoense** is a perennial herbaceous legume in the family Fabaceae, commonly known as Illinois tick-trefoil or Illinois beggarlice.
 
-It is native to central and eastern North America, ranging from Wisconsin and Minnesota south to Oklahoma and Arkansas, and east to Ohio and Indiana.
+It is native to central and [[polypore-fungi-eastern-north-america]], ranging from Wisconsin and Minnesota south to Oklahoma and Arkansas, and east to Ohio and Indiana.
 
 The species is recognized by its tall, erect habit, trifoliolate leaves, and terminal racemes of pinkish-purple flowers that produce distinctive loments covered in hooked hairs.
 
 Among Desmodium species, it is one of the tallest and most robust, often towering above associated prairie forbs in late summer.
 
-Illinois tick-trefoil is an important component of tallgrass prairie communities and provides forage and cover for wildlife in native grassland ecosystems.
+Illinois tick-trefoil is an important component of tallgrass prairie communities and provides forage and cover for wildlife in native [[biodiversity-fungi-grassland-ecosystems]].
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ The species is most common in mesic to dry prairies, savannas, open woodlands, a
 
 It prefers well-drained loam to clay-loam soils with a pH of 5.5–7.0. It tolerates moderate drought but is less common on very sandy or very wet sites.
 
-Illinois tick-trefoil is frequently associated with dominant prairie grasses such as big bluestem (Andropogon gerardii) and Indian grass (Sorghastrum nutans).
+Illinois tick-trefoil is frequently associated with dominant prairie grasses such as big bluestem ([[andropogon-gerardii]]) and Indian grass ([[sorghastrum-nutans]]).
 
 It is also found along roadsides, railroad rights-of-way, and in old fields undergoing succession to prairie vegetation.
 
@@ -72,7 +72,7 @@ It is also found along roadsides, railroad rights-of-way, and in old fields unde
 
 The hooked loment segments are an effective dispersal mechanism, attaching to the fur of mammals and feathers of birds for long-distance transport.
 
-The foliage provides moderate forage value for white-tailed deer, rabbits, and ground-nesting birds. Nutritional quality is highest during early growth stages.
+The foliage provides moderate forage value for white-tailed deer, rabbits, and ground-nesting birds. [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is highest during early growth stages.
 
 Several butterfly species use Desmodium as larval hosts, including the silver-spotted skipper (Epargyreus clarus) and the hoary edge (Achalarus lyciades).
 
@@ -82,39 +82,8 @@ Seed production is abundant, with individual plants producing hundreds of loment
 
 ## Cultivation and Uses
 
-Illinois tick-trefoil is included in native seed mixes for prairie restoration throughout the tallgrass prairie region of the central United States.
+Illinois tick-trefoil is included in native seed mixes for [[comparison-prairie-restoration-vs-silvopasture]] throughout the tallgrass prairie region of the central United States.
 
 Seed requires scarification for reliable germination, as the hard seed coat causes strong physical dormancy. Mechanical scarification or acid treatment is effective.
 
 Seeding rate for restoration is 2–4 kg/ha pure live seed, planted in early spring or as a dormant seeding in late fall.
-
-Establishment is moderate, with plants typically flowering in the second or third growing season. Once established, plants are long-lived and reproduce readily from seed.
-
-The species has limited value as a pasture forage due to its coarse stem texture and the nuisance factor of loment segments adhering to livestock.
-
-Native Americans of the prairie region reportedly used preparations of the plant for medicinal purposes, though specific ethnobotanical records for this species are sparse.
-
-The showy pink-purple flowers make it an attractive component of native wildflower gardens and pollinator plantings in appropriate climatic zones.
-
-## Related Species
-
-**Desmodium illinoense** is one of approximately 60 Desmodium species occurring in North America and one of approximately 300 species worldwide.
-
-It is most closely related to D. canadense (showy tick-trefoil) and D. paniculatum (panicled tick-trefoil), which share similar habitat preferences and overlapping ranges.
-
-D. canadense produces larger, more showy flowers in shorter racemes, while D. paniculatum has narrower leaflets and more open panicles.
-
-The genus also includes D. cuneatum (wedge-leaved tick-trefoil) and D. glutinosum (pointed-leaved tick-trefoil), which are more common in woodland habitats.
-
-Several tropical Desmodium species, such as D. heterophyllum and D. intortum, are important forage legumes in tropical agricultural systems.
-
-## See Also
-
-- [[desmodium-canadense]]
-- [[desmodium-paniculatum]]
-- [[lespedeza-cuneata]]
-- [[trifolium-pratense]]
-- [[baptisia-australis]]
-- [[robinia-pseudoacacia]]
-- [[amphicarpaea-bracteata]]
-- [[vicia-cracca]]

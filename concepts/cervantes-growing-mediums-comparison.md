@@ -1,5 +1,5 @@
 ---
-title: "cervantes growing mediums comparison Comparison"
+title: Cervantes Growing Mediums Comparison
 created: 2026-04-28
 tags:
   - cannabis-cultivation
@@ -11,13 +11,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Growing Mediums Comparison
 
 Choosing the right growing medium is fundamental to cannabis
-cultivation success. Jorge Cervantes covers growing mediums in detail
+cultivation success. [[jorge-cervantes]] covers growing mediums in detail
 in Chapters 10 and 12 of *Marijuana Horticulture*, comparing soil,
 soilless mixes, and inert hydroponic substrates.
 
@@ -31,7 +32,7 @@ milli-Equivalents per 100 grams on a scale from 0 to 100.
 |--------|----------------|-------|
 | Compost | 90 | Highest nutrient retention |
 | Sunshine Mix | 90 | Excellent all-around |
-| Peat moss | 80 | High retention, acidic |
+| [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] | 80 | High retention, acidic |
 | Garden soil | 70 | Moderate retention |
 | Expanded clay | 20 | Low; needs constant nutrients |
 | Vermiculite | 20 | Holds water and nutrients |
@@ -74,7 +75,7 @@ Jiffy Mix, Ortho Mix, Sunshine Mix, Terra-Lite, ProMix
 ### Texture Guidelines
 - For rapid-growing cannabis, use coarse, light, spongy texture
 - Fine mixes hold more moisture (better for small containers)
-- Mixes with more perlite/sand drain faster, reducing salt buildup
+- Mixes with more perlite/sand drain faster, reducing [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
 - Mix with more vermiculite/peat hold water longer (better for small
   pots)
 
@@ -87,62 +88,3 @@ and hold plenty of air:
 - Large [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] that expedite drainage and hold air
 - Excellent for ebb-and-flow, drip, and top-feed systems
 - Can be sterilized and reused
-- CEC of 20
-
-### Rockwool
-- Made from spun basalt rock fibers
-- Excellent for starting seeds and clones
-- Provides good air-to-water ratio
-- CEC of 0; requires constant nutrient availability
-- Available as cubes, blocks, and slabs
-
-### Coconut Coir (Coco Peat)
-- Renewable, organic alternative to peat moss
-- Excellent water retention and aeration
-- Popular in Dutch passive hydroponic systems
-- Can be used in trays with [[comparison-drip-irrigation-vs-passive-irrigation]]
-
-### Pea Gravel and Lava Rock
-- Inexpensive and reusable
-- Good drainage and aeration
-- Can be sterilized and reused multiple times
-- Heavy; harder to work with than lighter media
-
-## Rooting and Seedling Mediums
-
-For [[green-cannabis-grow-bible-cloning-and-seed-propagation]] starting:
-- **Rockwool plugs:** Strong root systems in about two weeks
-- **Peat pellets:** Compressed peat that expands when watered
-- **Sand/perlite/vermiculite mix:** 1/3 of each; sand and perlite
-  drain fast, vermiculite holds moisture
-- **Premixed starters:** Sunshine Mix, Terra-Lite are economical
-  choices
-
-## Visible Signs of Medium Stress
-
-- Dry, crispy, brittle leaves
-- Patchy or inconsistent leaf color
-- Yellow leaf edges that worsen
-- Chlorosis (yellowing between green veins)
-- Irregular blotches on leaves
-- Purple stems and leaf stems
-- Leaf edges curling up or down
-- Branch tips stop growing
-
-## Key Selection Principles
-
-- The more easily cannabis absorbs nutrients, the higher the yield
-- A good growing medium readily yields stored water and nutrients
-- Match medium to system: inert media for hydroponics, buffered
-  media for soil-based growing
-- Always add 10-30% coarse perlite to improve drainage in any mix
-
-## See Also
-
-- [[comparison-garlic-vs-onion-growing]]
-- [[cervantes-net-pots-growing-slabs]]
-
-- [[cervantes-hydroponic-systems]]
-- [[cervantes-soil-amendments-perlite-vermiculite-pumice]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-container-gardening-pot-size]]

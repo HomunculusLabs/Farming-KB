@@ -4,7 +4,7 @@ type: species
 tags:
   - rubiaceae
   - food-crop
-  - caffeine
+  - [[caffeine]]
   - tropical-crop
   - beverage
 date: 2026-05-08
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Coffea canephora**, known as Robusta coffee, is a species of flowering plant in the family Rubiaceae native to tropical forests of Central and West Africa.
+**Coffea canephora**, known as Robusta coffee, is a species of flowering plant in the family Rubiaceae native to [[fungal-biodiversity-tropical-forests]] of Central and West Africa.
 
 It is the second most widely cultivated coffee species in the world after [[coffea-arabica]], accounting for approximately 40% of global coffee production.
 
@@ -57,7 +57,7 @@ The species is native to a belt of equatorial African forest stretching from Gui
 
 It occurs naturally in lowland tropical forests from sea level to approximately 1200 meters elevation.
 
-The center of genetic diversity is in the Democratic Republic of the Congo, Uganda, and Cameroon.
+The center of [[biodiversity-fungal-genetic-diversity]] is in the Democratic Republic of the Congo, Uganda, and Cameroon.
 
 It grows as an understory shrub in its native habitat, tolerating partial shade and higher temperatures than C. arabica.
 
@@ -77,7 +77,7 @@ Selected clones (e.g., the Conilon varieties in Brazil) offer improved yield, di
 
 Plants begin bearing fruit at 2–3 years of age and reach full production by 5–7 years.
 
-Yields under good management range from 1.5–3.0 tonnes of green bean per hectare per year, substantially exceeding typical Arabica yields.
+Yields under good [[mollison-game-species-management-range]] from 1.5–3.0 tonnes of green bean per hectare per year, substantially exceeding typical Arabica yields.
 
 The species is significantly more resistant to coffee leaf rust (Hemileia vastatrix) and coffee berry disease than C. arabica.
 
@@ -88,43 +88,3 @@ Harvesting is typically done by stripping all cherries from the branch at once, 
 Post-harvest processing is primarily by the dry method (natural), though wet processing is also used for premium Robusta lots.
 
 ## Chemistry and Pharmacology
-
-Robusta coffee contains approximately 2.0–2.7% caffeine by dry weight, roughly double the caffeine content of C. arabica (1.0–1.5%).
-
-The higher caffeine content contributes to Robusta's more bitter flavor and is believed to function as a chemical defense against herbivory.
-
-Chlorogenic acids (CGAs) are present at 7–10% dry weight, with 5-caffeoylquinic acid (5-CQA) as the predominant isomer.
-
-Trigonelline content averages approximately 1.0%, contributing to the Maillard reactions during roasting that generate flavor compounds.
-
-Sucrose content is lower than in Arabica (3–7% vs. 6–9%), resulting in reduced sweetness and less caramelization during roasting.
-
-The lipid content of Robusta beans is approximately 10–12%, compared to 14–16% in Arabica, affecting mouthfeel and body.
-
-Diterpenes cafestol and kahweol are present at higher concentrations in Robusta, contributing to both flavor and potential health effects.
-
-## Economic and Social Significance
-
-Robusta coffee is critical to the livelihoods of millions of smallholder farmers across tropical Africa and [[psilocybe-southeast-asia-pacific]].
-
-Vietnam is the world's largest producer, accounting for approximately 40% of global Robusta output, followed by Brazil and Indonesia.
-
-The species is the primary component in most commercial espresso blends, valued for the body, crema, and intensity it contributes.
-
-The instant coffee industry relies almost exclusively on Robusta beans due to their higher soluble solids content.
-
-Robusta prices are typically 30–50% lower than Arabica prices on commodity markets, though premium specialty Robusta lots command higher prices.
-
-[[dighton-fungi-climate-change-feedback]] projections suggest Robusta cultivation may expand into areas currently suitable only for Arabica as temperatures rise.
-
-## See Also
-
-- [[coffea-arabica]]
-- [[camellia-sinensis-entity]]
-- [[theobroma-cacao]]
-- [[piper-nigrum-entity]]
-- [[cinchona-officinalis]]
-- [[vanilla-planifolia]]
-- [[uncaria-tomentosa]]
-- [[mitragyna-speciosa]]
-- [[morinda-citrifolia]]

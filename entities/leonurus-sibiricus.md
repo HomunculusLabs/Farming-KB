@@ -43,7 +43,7 @@ cannabis is prohibited.
 The species was first described by Carl Linnaeus in 1753.
 Synonyms include Leonurus sibiricus var. grandiflorus, Leonurus
 artemisia (a misapplied name), and Stachys sibirica. It is
-closely related to Leonurus cardiaca (common motherwort), which
+closely related to [[leonurus-cardiaca-entity]] (common motherwort), which
 is the more widely known medicinal species in Western herbalism.
 The genus name derives from the Greek 'leon' (lion) and 'oura'
 (tail), referring to the appearance of the inflorescence.
@@ -72,7 +72,7 @@ The genus name derives from the Greek 'leon' (lion) and 'oura'
 ## Distribution and Habitat
 
 - **Native range:** Siberia, Mongolia, northern China, Korea, Japan
-- **Introduced range:** Widespread in [[psilocybin-north-america-pacific-northwest]], Central and South America (especially Mexico and Brazil), Europe, Southeast Asia
+- **Introduced range:** Widespread in [[psilocybin-north-america-pacific-northwest]], Central and [[guzman-psilocybin-mushrooms-south-america]] (especially Mexico and Brazil), Europe, Southeast Asia
 - **Habitat:** Disturbed areas, roadsides, waste places, fields, riverbanks
 - **Elevation:** 0-2000 m
 - **Climate:** Temperate to subtropical; cold-hardy to -20°C
@@ -88,49 +88,3 @@ colonizer of disturbed habitats.
 ## Chemistry and Active Compounds
 
 | Compound | Class | Concentration | Activity |
-|----------|-------|---------------|----------|
-| Leonurine | Alkaloid | 0.02-0.1% | Smooth muscle relaxant, mild psychoactive |
-| Stachydrine | Alkaloid | 0.01-0.05% | Cardiovascular, uterotonic |
-| Leonurinine | Alkaloid | Trace | Alkaloid derivative |
-| Diterpenoids | Terpenoid | Variable | Anti-inflammatory |
-| Flavonoids | Flavonoid | 1-3% | Antioxidant |
-| Iridoids | Glycoside | Trace | Bitter principles |
-
-The mild psychoactive effects when smoked are primarily
-attributed to leonurine, an alkaloid with structural similarity
-to certain cannabis constituents. Leonurine acts as a calcium
-channel blocker and has documented uterotonic, hypotensive, and
-anxiolytic properties. The effects of smoking the dried herb are
-generally described as mild relaxation, light sedation, and a
-gentle euphoria, substantially weaker than cannabis.
-
-## Traditional Medicinal Uses
-
-- **Chinese medicine (yi mu cao):** Used for menstrual disorders, postpartum hemorrhage, and as a blood-invigorating herb; one of the 50 fundamental herbs in TCM
-- **Brazilian folk medicine:** Leaves smoked for mild sedation and as a cannabis substitute; also used as a tea for digestive complaints
-- **Japanese Kampo:** Prescribed (called 'imotsuma') for irregular menstruation and fluid retention
-- **Russian folk medicine:** Used as a cardiotonic and sedative
-
-## Cultivation Notes
-
-Leonurus sibiricus is easily grown from seed, which requires no
-special pretreatment. Sow directly in spring after frost danger
-has passed, or start indoors 6-8 weeks before last frost. The
-plant prefers full sun to partial shade and adapts to most soil
-types. It is drought-tolerant once established. Space plants
-30-45 cm apart. Harvest aerial parts during flowering for maximum
-alkaloid content. Self-seeds prolifically and can become weedy in
-gardens.
-
-## Legal Status
-
-- **Generally legal worldwide** — not controlled or scheduled in any major jurisdiction
-- Sold as an ornamental, medicinal, or culinary herb in many countries
-- In some jurisdictions, marketing as a 'legal high' or cannabis substitute has attracted regulatory scrutiny, though the plant itself remains unscheduled
-
-## See Also
-
-- [[cannabis-sativa]]
-- [[salvia-divinorum]]
-
-See also: [[peyote-and-psychoactive-cacti]]

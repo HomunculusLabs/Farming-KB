@@ -134,7 +134,7 @@ nutritional enhancement, and root cellaring for extended, stable storage.
 ## See Also
 
 - [[food-dehydration-guide]] for another preservation alternative
-- [[comparison-canning-vs-fermentation]] for heat-based comparison
+- [[comparison-fermentation-vs-canning]] for heat-based comparison
 - [[root-cellar-design-and-construction]] for building information
 - [[fermented-vegetables-guide]] for detailed fermentation techniques
 - [[comparison-root-cellaring-vs-dehydration]] for cold storage alternatives

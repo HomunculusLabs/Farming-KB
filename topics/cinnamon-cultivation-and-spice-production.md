@@ -10,6 +10,7 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - title: "Cinnamon (Cinnamomum verum) - Purdue University Center for New Crops and Plant Products"
     url: "https://hort.purdue.edu/newcrop/CropFactSheets/cinnamon.html"
   - title: "Cinnamomum Species: Ethnobotany, Phytochemistry, and Pharmacology"

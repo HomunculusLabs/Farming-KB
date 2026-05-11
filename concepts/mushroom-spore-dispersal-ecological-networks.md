@@ -88,15 +88,3 @@ sites yields the highest colonization rates.
 - Stamets, P. [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World.
   Ten Speed Press, 2005. Chapters on spore dispersal and inoculation
   methods.
-- James, T.Y. and Vilgalys, R. (2001). Spore trap methodology for
-  detection of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] in forest soils.
-- Danell, E. and Camacho, F. (1997). First reported growth of
-  chanterelles with Pinus sylvestris seedlings.
-
-## See Also
-
-- psilocybin-mushroom-image-guide-spore-color-chart
-- [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
-- [[spore-dispersal]]
-- [[ectomycorrhiza]]
-- [[pinus-sylvestris]]

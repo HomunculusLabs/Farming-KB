@@ -13,16 +13,16 @@ sources:
   - Peichl, M. et al. (2002). "dighton-fungal-biomass-production-aquatic-ecosystems and nutrient use in short rotation willow." Canadian Journal of Forest Research, 32, 1763–1774.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
   - Karp, A. et al. (2011). "Willow as a bioenergy crop." In: Halford, N. & Karp, A. (eds.), Energy Crops. Royal Society of Chemistry.
-  - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated organic matter in a willow stand." Environmental Science & Technology, 41, 5878–5883.
+  - Wikberg, H. & Öberg, G. (2007). "Distribution of halogenated [[maintaining-organic-matter-in-vegetable-gardens]] a willow stand." Environmental Science & Technology, 41, 5878–5883.
 ---
 
 ## Overview
 
-**Salix purpurea**, commonly known as purple willow or purple osier, is a deciduous shrub in the family Salicaceae native to Europe and parts of western Asia. It is widely cultivated for its colorful stems and valued as a basketry willow second only to *Salix viminalis*.
+**Salix purpurea**, commonly known as purple willow or purple osier, is a deciduous shrub in the family Salicaceae native to Europe and parts of western Asia. It is widely cultivated for its colorful stems and valued as a basketry willow second only to *[[salix-viminalis]]*.
 
 The species typically reaches 1–4 meters in height with slender, flexible rods that turn distinctive purple, red, or violet in winter. This winter stem color makes it a popular ornamental plant alongside its practical uses.
 
-Purple willow is one of the most cold-hardy willows, thriving in climates where other basketry species fail. Its combination of ornamental value, cold tolerance, and practical utility makes it one of the most widely planted willows in temperate regions.
+Purple willow is one of the most cold-hardy willows, thriving in climates where other basketry species fail. Its combination of ornamental value, cold tolerance, and practical utility makes it one of the most widely planted willows in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 The species has a long history of cultivation, with archaeological evidence of willow basketry dating back over 8,000 years in Europe. Purple willow was among the first species managed by early agricultural communities for craft purposes.
 
@@ -68,7 +68,7 @@ Rods are harvested annually in late winter before bud break, sorted by color and
 
 In bioenergy plantings, *S. purpurea* performs well on marginal land with poor drainage. Dry matter yields of 8–12 tonnes per hectare per year are achievable under short-rotation coppice management with 3-year cutting cycles.
 
-The species has demonstrated significant phytoremediation potential, particularly for cadmium and zinc removal from contaminated soils. It has been used successfully in riparian buffer zones to filter agricultural runoff containing nutrients and pesticides.
+The species has demonstrated significant phytoremediation potential, particularly for cadmium and zinc removal from [[fungal-competition-survival-contaminated-soils]]. It has been used successfully in riparian buffer zones to filter agricultural runoff containing nutrients and pesticides.
 
 Ornamental cultivars including 'Nana' (dwarf form) and 'Pendula' (weeping form) are widely planted in gardens. The winter stem color provides landscape interest when most other shrubs are dormant.
 
@@ -82,32 +82,8 @@ The bark of *Salix purpurea* contains salicin and related phenolic glycosides, t
 
 Tannin content is relatively high at 6–12% by weight, making the bark a potential commercial source of vegetable tannins. The tannins are predominantly condensed catechin-type polymers.
 
-Recent research has identified novel phenolic compounds in *S. purpurea* bark with antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. These include specific flavonoid glycosides and phenolic acid derivatives not found in other *Salix* species.
+Recent research has identified novel [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] in *S. purpurea* bark with antioxidant and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. These include specific flavonoid glycosides and phenolic acid derivatives not found in other *Salix* species.
 
 The distinctive purple stem coloration results from anthocyanin pigments, primarily cyanidin-based compounds. Anthocyanin concentration increases with exposure to ultraviolet radiation and cold temperatures.
 
-Willow leaf rust (*Melampsora* spp.) can affect purple willow, though it shows moderate resistance compared with *S. viminalis*. Powdery mildew and bacterial crown gall are occasional problems in cultivation.
-
-## Ecological Role
-
-Purple willow catkins provide early nectar and pollen for bees, particularly bumblebees and solitary bees. The species flowers slightly later than *S. caprea*, extending the early-season pollinator resource period.
-
-The dense, low-growing habit provides cover and nesting sites for ground-nesting birds and small mammals. Coppiced stools [[query-how-do-photonic-crystals-create-structural-color]] diversity that supports invertebrate communities at multiple trophic levels.
-
-Several Lepidoptera species use *S. purpurea* as a larval host plant, including the eyed hawk-moth and various geometrid moths. The foliage is relatively unpalatable to deer compared with other willow species due to higher tannin content.
-
-The fibrous root system stabilizes streambanks and tolerates periodic flooding. Purple willow is frequently planted in riparian restoration projects for its combined [[permplant-willows-salix-erosion-control-fodder]] and wildlife habitat value.
-
-In [[comparison-constructed-wetland-vs-backyard-pond]] systems, purple willow contributes to nitrogen and phosphorus removal from wastewater. Its transpiration rates are among the highest of temperate shrubs, making it effective at reducing water volume in treatment systems.
-
-## See Also
-
-- [[salix-viminalis]]
-- [[salix-caprea]]
-- [[populus-tremuloides]]
-- [[betula-papyrifera]]
-- [[acer-saccharum]]
-- [[ulmus-americana]]
-- [[populus-nigra]]
-- [[fagus-grandifolia]]
-- [[tilia-americana]]
+Willow leaf rust (*Melampsora* spp.) can affect purple willow, though it shows moderate resistance compared with *S. viminalis*. [[cervantes-powdery-mildew-prevention-treatment]] and bacterial crown gall are occasional problems in cultivation.

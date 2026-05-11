@@ -88,28 +88,3 @@ Several distinct phenotypes of CIS Haze have been documented by cultivators. The
 A less common compact phenotype develops denser bud structure while retaining the characteristic terpene profile. This variant is sometimes described as a "CIS Haze indica-phenotype" despite its sativa genetics.
 
 Color expressions range from bright green to golden-amber at maturity, with orange pistils covering the calyxes. Some phenotypes develop subtle purple hues in cooler growing conditions.
-
-Trichome production is heavy across all documented phenotypes, making CIS Haze a candidate for hashish and solventless extract production.
-
-## Side Effects
-
-The most commonly reported side effects of CIS Haze include dry mouth and dry eyes, consistent with high-THC cannabis varieties across all consumption methods.
-
-Due to its potent sativa profile, CIS Haze carries a higher risk of anxiety, paranoia, and overstimulation compared to indica-dominant strains. These effects are dose-dependent and more prevalent in inexperienced users.
-
-Some users report mild headaches at higher doses, particularly when consumed through combustion. Tachycardia is an expected pharmacological effect of THC and is not unique to this strain.
-
-Contraindications include use by individuals with a personal or family history of psychosis or severe anxiety disorders, as high-THC sativa strains may precipitate acute episodes.
-
-## See Also
-
-- [[super-lemon-haze]]
-- [[chemdawg]]
-- [[northern-lights]]
-- [[myrcene]]
-- [[cannabis-minor-cannabinoids]]
-- thc
-- cbd
-- [[white-widow-entity]]
-- [[gelato]]
-- [[mac-1]]

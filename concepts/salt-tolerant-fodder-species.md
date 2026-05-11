@@ -1,7 +1,7 @@
 ---
-title: salt salt-tolerant-fodder-plants species
+title: Salt Tolerant Fodder Species
 created: 2026-04-28
-tags: [saline-land, fodder, land-rehabilitation, [permaculture],
+tags: [saline-land, fodder, land-rehabilitation, [[permaculture]],
   pasture, erosion-control, livestock]
 date: 2026-04-28
 updated: 2026-04-28
@@ -88,18 +88,10 @@ Very salt tolerant, native to north Africa, requires 300+ mm rainfall.
   100-350 mm rainfall, tolerates irrigation with 8000-10000 ppm salt
 - **H. coronarium** (Sulla): Biennial from north Africa and southern
   Italy, yields over 20 tonnes dry matter/ha/year recorded, potential
-  as [[acacia]] spp
-
-Many wattle species tolerate saline conditions including A. ampliceps,
-A. auriculiformis, A. cyclops, A. ligulata, A. pendula, A. saligna,
-and A. salicina. See mycofiltration-silt-erosion-control and
-  furniture timber
-- **Colophospermum mopane** (Mopane): Leguminous tree to 23 m, native
-  to Africa, best firewood on the continent, coppices vigorously
 
 ## See Also
-
-- permaculture-plants-salt-tolerant-fodder-systems
-- [[unknown-mycelium-mycofiltration]]
 - [[permaculture-salt-tolerant-fodder-plants]]
 - [[salt-tolerant-fodder-plants]]
+- [[salt-tolerant-plant-guide]]
+- [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
+- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]

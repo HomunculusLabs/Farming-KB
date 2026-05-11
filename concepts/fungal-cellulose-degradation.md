@@ -88,27 +88,3 @@ White rot fungi degrade cellulose enzymatically while simultaneously or
 sequentially degrading lignin. Their cellulase systems work in concert with
 [[singh-ligninolytic-enzymes-fungal-bioremediation]], providing access to the cellulose embedded within the
 lignin matrix. This dual capability makes white rot fungi more versatile
-decomposers but also more metabolically expensive in terms of enzyme
-production.
-
-## Hemicellulose Degradation
-
-Enzymes for hydrolysis of hemicellulose have been identified in many
-wood-rotting fungi. Hemicelluloses are heterogeneous polysaccharides that
-vary in composition depending on the plant source. Hardwoods contain xylan,
-and fungal species colonizing them produce xylanases. Other hemicelluloses
-are hydrolyzed by mannanases, galactosidases, and glucosidases.
-
-These hemicellulase enzymes have very similar characteristics to the
-cellulase complex, with different enzymes attacking exo- and
-endo-hemicellulose bonds. The coordinated action of cellulases and
-hemicellulases enables fungi to completely break down the carbohydrate
-components of plant cell walls.
-
-## Role in Lignocellulose Bioconversion
-
-Most world mushroom production uses species grown on substrates prepared
-from lignocellulose wastes such as straw and sawdust. Species including
-[[lignin-degradation-by-fungi]]
-- [[mushroom-substrate-preparation]]
-- mushroom-composting

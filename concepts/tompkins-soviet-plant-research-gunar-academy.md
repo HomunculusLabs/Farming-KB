@@ -1,7 +1,7 @@
 ---
 title: "tompkins soviet plant research gunar academy at the Timiryazev Academy"
 created: 2026-04-28
-tags: [soviet-research, timiryazev-academy, [[plant-electrophysiology]], gunar, biopotential, plant-sentience, cold-war-science]
+tags: [soviet-research, timiryazev-academy, [[plant-electrophysiology], gunar, biopotential, plant-sentience, cold-war-science]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [~/wiki/raw/papers/tompkins-secret-life-of-plants.md]
@@ -88,39 +88,6 @@ The film demonstrated effects produced on plants by environmental
 factors such as sunlight, wind, clouds, the dark of night, the
 tactual stimulus from flies and bees, injuries produced by chemicals
 and burning, and even the very proximity of a vine to a structure to
-which it might cling. The film showed that the immersion of a plant
-in chloroform vapor eliminates the characteristic biopotential pulse
-normally apparent when a leaf is given a sharp blow.
 
-The Russians were studying the characteristics of these pulses to
-establish the relative degree of a plant's health. Time-lapse
-photography made the plants seem to dance as they grew. Flowers opened
-and closed with the coming of darkness as if they were creatures
-living in a different time zone.
-
-## International Recognition
-
-In April 1972, *Weltwoche*, a Swiss newspaper published in Zurich,
-came out with an account of both Backster's and Gunar's work which
-stated it had taken place simultaneously and independently. That same
-week the Swiss article was translated into Russian in a weekly review
-of the foreign press, *Za Rubezhom* (Abroad), published in Moscow by
-the USSR's Union of Journalists, under the caption: "The Wonderful
-World of Plants."
-
-The Russian version stated that these scientists were "proposing that
-plants receive signals and transmit them through special channels to a
-given center, where they process the information and prepare answering
-reactions. This nervous center could be located in root tissues which
-expand and contract like heart muscle in man. The experiments showed
-that plants have a definite life rhythm and die when they don't get
-regular periods of rest and quiet."
-
-## Significance
-
-The Soviet research at the Timiryazev Academy represents some of the
-most rigorous institutional investigation into [[plant-fungal-signaling-mycorrhiza]] and
-[[tompkins-cleve-backster-primary-perception]] - Backster's parallel
-  American research
-- [[tompkins-mitogenetic-rays-plant-cell-communication]] - Soviet-era
-  discoveries in cell-to-cell communication
+## See Also
+- [[tompkins-pierre-paul-sauvin-plant-esp-experiments]]

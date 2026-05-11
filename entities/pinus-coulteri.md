@@ -62,7 +62,7 @@ The northern extent of the range is near Mount Diablo in the Diablo Range of cen
 
 Populations extend southward through the Transverse Ranges and into the Peninsular Ranges of southern California.
 
-Disjunct populations occur in the Sierra San Pedro Mártir of northern Baja California, Mexico.
+Disjunct populations occur in the Sierra [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] Mártir of northern Baja California, Mexico.
 
 The species occupies an elevational band from approximately 300 to 2,100 meters.
 
@@ -88,61 +88,6 @@ Post-fire mineral soil seedbeds promote successful seedling establishment.
 
 The Clark's nutcracker is an important seed disperser, caching Coulter pine seeds in the soil for later retrieval.
 
-Unrecovered cached seeds are a significant source of natural regeneration.
-
-Chipmunks, squirrels, and other rodents also harvest and cache seeds, contributing to dispersal.
-
-Coulter pine provides cover and nesting habitat for raptors, woodpeckers, and small mammals.
-
-The species supports ectomycorrhizal fungal communities, including Suillus, Rhizopogon, and Boletus species.
-
-These associations enhance nutrient uptake on the nutrient-poor soils characteristic of Coulter pine habitats.
-
-## Uses and Significance
-
-Coulter pine has limited commercial timber value compared to more abundant pine species.
-
-The wood is moderately dense and resinous, used locally for fuelwood, rough construction, and fence posts.
-
-The massive cones are collected as curiosities and have a notable presence in California botanical lore.
-
-They are sometimes sold as decorative items, and their formidable spines have earned them the colloquial name "widow-maker."
-
-The species has some ornamental value in large California landscapes, though it is rarely cultivated outside its native range.
-
-It is valued in native plant gardening and ecological restoration projects within its range.
-
-Coulter pine contributes to watershed protection in the steep terrain of the Transverse and Peninsular Ranges.
-
-The species has been used in dendrochronological studies to reconstruct fire and climate histories in southern California.
-
-Resin has minor traditional uses among indigenous peoples of the region.
-
-## Conservation Status
-
-Pinus coulteri is listed as Least Concern on the IUCN Red List.
-
-The species has a relatively stable population across its range, though it is not abundant anywhere.
-
-Major threats include increased fire frequency and severity due to climate change and human ignitions.
-
-High-severity stand-replacing fires can kill mature trees and may exceed the natural fire regime to which the species is adapted.
-
-Urban development and agricultural expansion have reduced Coulter pine habitat in the lower elevations of its range.
-
-Insect pests include the California flatheaded borer (Melanophila californica) and various bark beetle species.
-
-Drought stress exacerbated by climate change increases vulnerability to bark beetle attack and mortality.
-
-Conservation priorities include maintaining natural fire regimes where possible and protecting populations in the Sierra San Pedro Mártir.
-
 ## See Also
-
-- [[pinus-ponderosa]]
-- [[pinus-sylvestris]]
-- [[pinus-contorta]]
-- [[pinus-lambertiana]]
-- [[pinus-radiata]]
-- [[pinus-banksiana]]
-- [[abies-concolor]]
-- [[pseudotsuga-menziesii]]
+- [[pinus-mugo]]
+- [[pinus-elliottii]]

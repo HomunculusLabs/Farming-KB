@@ -9,14 +9,14 @@ sources: []
 
 # LSD Reference
 
-LSD (lysergic acid diethylamide) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours. (see [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]).
+LSD ([[lsd-d-lysergic-acid-diethylamide]]) is one of the most potent psychoactive substances known. Discovered by Swiss chemist Albert Hofmann in 1938, it became the defining psychedelic of the 20th century counterculture and remains one of the most extensively studied psychedelics in modern psychiatric research. A single dose measured in micrograms can produce profound alterations in consciousness lasting 8-12 hours.
 
 ## Discovery and History
 
 ### Albert Hofmann and Sandoz
 
 - First synthesized on November 16, 1938, by Albert Hofmann at Sandoz Laboratories in Basel, Switzerland
-- Part of a research program studying ergot alkaloids (derived from the ergot fungus Claviceps purpurea)
+- Part of a research program studying ergot alkaloids (derived from the ergot fungus [[bloomfield-ergot-claviceps-purpurea-ergotism]])
 - Initially investigated as a circulatory and respiratory stimulant
 - Psychoactive properties discovered accidentally on April 19, 1943, when Hofmann absorbed a small amount through his skin
 - April 19 is now celebrated as "Bicycle Day" — Hofmann rode home from the lab experiencing the first intentional LSD trip
@@ -42,7 +42,7 @@ LSD (lysergic acid diethylamide) is one of the most potent psychoactive substanc
 
 ### Modern Renaissance (2000s-present)
 
-- MAPS (Multidisciplinary Association for Psychedelic Studies) and other organizations have pushed for rescheduling
+- MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) and other organizations have pushed for rescheduling
 - Modern clinical trials studying LSD for anxiety, depression, cluster headaches, and end-of-life distress
 - Switzerland approved limited LSD-assisted psychotherapy research
 - Growing interest in microdosing LSD for cognitive enhancement and mood improvement
@@ -63,13 +63,13 @@ LSD is an ergoline alkaloid, structurally related to:
 - Ergotamine and other ergot alkaloids: used medicinally (migraine treatment)
 - Psilocybin and DMT: tryptamine psychedelics (different class, but LSD has tryptamine-like pharmacology)
 
-Stability: degrades rapidly with light, heat, and moisture. Store wrapped in foil in a freezer. Blotter paper is the most common form. (see [[salvinorin-reference]]).
+Stability: degrades rapidly with light, heat, and moisture. Store wrapped in foil in a freezer. Blotter paper is the most common form.
 
 ## Pharmacology
 
 ### Mechanism of Action
 
-- Primary mechanism: potent agonist at 5-HT2A serotonin receptors
+- Primary mechanism: potent agonist at 5-HT2A [[psilocybin-pharmacology-and-serotonin-receptors]]
 - Also binds to 5-HT2B, 5-HT2C, 5-HT1A, 5-HT5A, 5-HT6, and 5-HT7 receptors
 - Binds to dopamine D2 receptors (explaining some stimulant-like effects)
 - Is a partial agonist at most serotonin receptors
@@ -105,7 +105,7 @@ Blotter paper doses are typically laid at:
 - Strong: ~150-200 μg per hit
 - Weak: ~50-75 μg per hit
 
-Note: underground LSD potency is notoriously unreliable. Testing with an Ehrlich reagent (turns purple/pink for indoles — confirms LSD presence but cannot measure dose) is recommended. LSD is one of the most commonly counterfeited drugs — NBOMe compounds and DOB are sometimes sold as LSD.
+Note: underground LSD potency is notoriously unreliable. Testing with an [[ehrlich-reagent-tryptamine-detection-tlc-mycology]] (turns purple/pink for indoles — confirms LSD presence but cannot measure dose) is recommended. LSD is one of the most commonly counterfeited drugs — NBOMe compounds and DOB are sometimes sold as LSD.
 
 ## Effects
 

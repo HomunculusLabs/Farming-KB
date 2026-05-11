@@ -1,5 +1,5 @@
 ---
-title: Ayahuasca ayahuasca diy home brewing as tourism alternative Brewing as Tourism Alternative
+title: Ayahuasca Diy Home Brewing As Tourism Alternative
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -18,7 +18,7 @@ tags:
 
 R. Stuart's 2002 account of [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in Peru
 concluded with a provocative suggestion: rather than
-traveling to South America, interested individuals could
+traveling to [[guzman-psilocybin-mushrooms-south-america]], interested individuals could
 brew ayahuasca at home using ingredients ordered from
 ethnobotanical suppliers. This recommendation raises
 questions about authenticity, safety, accessibility, and
@@ -69,7 +69,7 @@ and the sitter's competence.
 
 By the early 2000s, ethnobotanical suppliers had
 established reliable networks for shipping
-Banisteriopsis caapi bark and Psychotria viridis
+[[ayahuasca-and-banisteriopsis-caapi]] bark and [[chacruna-psychotria-viridis]]
 or Diplopterys cabrerana leaves to Western
 addresses. These ingredients were typically sold
 as "botanical specimens" or "research materials"
@@ -88,54 +88,3 @@ from batch to batch.
 Stuart's recommendation emphasized the importance of
 an experienced sitter, recognizing that the ceremonial
 container provided by traditional shamanism served a
-genuine psychological function. An experienced sitter
-could help manage difficult experiences, provide
-grounding, and ensure physical safety during the
-intense effects of the brew.
-
-This recommendation implicitly acknowledged that
-the value of traditional ceremonies lay partly in
-the social structure and support system, not merely
-in the pharmacological effects of the brew itself.
-A competent sitter could replicate this function
-without the cultural baggage and expense of tourism.
-
-## Safety and Pharmacological Concerns
-
-The DIY approach introduces significant safety
-considerations. Ayahuasca contains monoamine oxidase
-inhibitors (harmine, harmaline, and tetrahydroharmine)
-from B. caapi, combined with N,N-dimethyltryptamine
-(DMT) from the admixture plant. This combination is
-generally safe when prepared correctly, but
-[[ayahuasca-interactions-with-prescription-medications]] medications —
-particularly SSRIs, MAOIs, and some psychiatric drugs
-— can be dangerous or fatal.
-
-Stuart himself noted that an AIDS patient died during
-a ceremony in Bolivia, underscoring the importance
-of medical screening regardless of whether the
-ceremony takes place in Peru or at home. The
-responsibility for safety falls entirely on the
-individual in a DIY context, with no institutional
-safeguards.
-
-## Legal Considerations
-
-The [[ayahuasca-tourism-legal-status-by-country]] of ayahuasca ingredients varies by
-jurisdiction. B. caapi is generally legal in most
-countries as it contains no controlled substances.
-P. viridis and D. cabrerana contain DMT, which is
-scheduled in many nations. However, plant material
-containing DMT occupies a legal gray area in several
-jurisdictions, particularly when sold for ornamental
-
-## See also
-
-- [[ayahuasca-brewing-guide]]
-- [[ayahuasca-pharmacology]]
-- [[harmala-alkaloids-and-ayahuasca-preparation]]
-
-## See Also
-
-- [[amanita-muscaria-legal-alternative]]

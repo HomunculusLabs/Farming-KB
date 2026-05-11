@@ -3,7 +3,7 @@ title: Marketing Philosophy — Fresh, Local, and Beyond Organic
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
+    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - eliot-coleman
     author: [[eliot-coleman]]
 updated: 2026-05-08
 type: concept
@@ -14,7 +14,7 @@ tags: [reference]
 
 ## The Industrialization of Organic
 
-Eliot Coleman has been involved in organic agriculture since 1965.
+[[eliot-coleman-deep-organic-farming-and-winter-harvest]] has been involved in organic agriculture since 1965.
 In those early days, the distinctiveness of [[coleman-deep-organic-farming-philosophy]] gave
 small growers a unique marketing advantage. That advantage
 disappeared when organic became industrialized. As more and more
@@ -88,39 +88,3 @@ cannot replicate.
 ## Working Efficiently at Harvest
 
 Originally the farm's labor force consisted of Coleman and his wife
-Barbara. They liked the work and had no intention of expanding beyond
-what two people could handle. Overwhelming demand eventually led to
-expansion to five employees in summer. To avoid further expansion,
-the farm constantly seeks efficiency improvements.
-
-One example: installing larger-diameter pipes and raising water
-pressure cut by 75 percent the time required to drain and refill
-sinks between washing different leaf types in the [[coleman-baby-leaf-salad-mix-quality-standards]]. For
-maximum efficiency, sinks need to be in continual use, so one person
-begins washing as soon as the first buckets are harvested. Speed of
-work matters -- harvesters need quick hands, a quick mind, and a
-no-nonsense attitude to complete harvest on time.
-
-## The Future of Small Farm Marketing
-
-The fundamental insight of Coleman's marketing philosophy is that
-small farmers cannot compete with industrial agriculture on price or
-volume, but they can compete decisively on quality, freshness, and
-connection to their community. The [[coleman-claytonia-winter-harvest-cultivation]] system itself is
-a marketing advantage: being able to offer fresh, locally grown
-salads in January creates a product that literally no one else in
-the region can match.
-
-Time's winged chariot, as Coleman quotes from Andrew Marvell, is
-always hurrying near. The next harvest follows quickly after the
-last. Since you cannot harvest what you have not planted, the
-[[coleman-winter-harvest-planting-schedule]] must be as much a part of daily life as the
-harvest schedule. The most important skill for a four-season grower
-is keeping careful notes on seed-to-harvest days and preparing a
-day-by-day planting calendar from them.
-
-## See Also
-
-- [[coleman-four-season-farm]]
-- [[coleman-deep-organic-history-and-philosophy]]
-- [[coleman-deep-organic-farming-philosophy]]

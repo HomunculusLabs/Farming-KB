@@ -87,13 +87,3 @@ If S. wittichii helps regulate phenazine-mediated competitive dynamics within th
 The identification of S. wittichii as a strain-differentiating taxon was based on 16S rRNA gene sequencing at the OTU level. Confirmation at the species level through whole-genome sequencing or more targeted approaches would strengthen the assignment. Additionally, the functional role of S. wittichii within the cannabis endorhiza remains inferred rather than experimentally demonstrated.
 
 Future work should include isolation and characterization of S. wittichii strains from cannabis roots, testing of their phenazine degradation capabilities in root-mimicking conditions, and assessment of their effects on plant growth and cannabinoid production in gnotobiotic systems.
-
-## See Also
-
-- [[sphingomonas-wittichii-maui-wowie]]
-
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]
-
-- [[cannabis-endorhiza-microbiome]]
-- microbial terroir in agricultural systems
-- [[core-endorhiza-bacterial-community-composition-cannabis]]

@@ -87,34 +87,3 @@ Silicon uptake in Equisetum is mediated by specific transporters in root tissues
 Historically, indigenous peoples of northern regions used the rough, silica-rich stems of Equisetum species for polishing wooden tools, bone implements, and metal surfaces. The specific use of E. variegatum is less well-documented than E. arvense due to its smaller stature and more remote distribution.
 
 In Scandinavian folk traditions, horsetails were sometimes used as a abrasive for scouring wooden vessels and as a fining agent in [[comparison-beer-brewing-vs-cider-making]]. The high silica content of the stems made them effective for removing residue from cooking implements.
-
-In modern phytochemistry, Equisetum species are investigated for their flavonoid and phenolic acid content. E. variegatum produces flavonoids including isoquercitrin and caffeic acid derivatives, though comprehensive phytochemical profiling of this species remains incomplete relative to its more studied congeners.
-
-Equisetum extracts have demonstrated mild diuretic and antioxidant activity in pharmacological studies, primarily attributed to flavonoid and phenolic constituents. However, clinical evidence for E. variegatum specifically is lacking, and the species is not widely used in commercial herbal preparations.
-
-Thiaminase activity has been detected in Equisetum tissues, meaning that consumption of large quantities can interfere with vitamin B1 metabolism in mammals. This enzyme is destroyed by cooking or drying, reducing the risk of thiamine deficiency from prepared herbal products.
-
-## Conservation Status
-
-Equisetum variegatum is listed as **Least Concern** on the IUCN Red List, reflecting its wide circumpolar distribution and stable populations. However, regional conservation concerns exist in portions of its southern range.
-
-In central Europe, the species has experienced range contraction due to habitat loss from river channelization, wetland drainage, and agricultural intensification. It is classified as threatened or near-threatened in several central European countries including Germany, Austria, and the Czech Republic.
-
-Protected populations exist in nature reserves across Scandinavia, the United Kingdom, and Canada. Monitoring programs track population trends at the southern edge of its range, where climate and land-use changes are expected to have the greatest impact.
-
-Climate warming poses a long-term threat to alpine populations by reducing the extent of suitable cold habitats. As treelines advance upward in mountain ranges, alpine meadow habitats occupied by E. variegatum may shrink significantly.
-
-Ex situ conservation collections maintain living accessions at several botanical gardens specializing in arctic-alpine flora. Seed banking is complicated by the short viability of Equisetum spores, which typically lose germinability within weeks of release.
-
-## See Also
-
-- [[equisetum-arvense]]
-- [[equisetum-hyemale]]
-- [[equisetum-palustre]]
-- [[equisetum-telmateia]]
-- [[pteridium-aquilinum]]
-- [[lycopodium-clavatum]]
-- [[lycopodium-obscurum]]
-- [[sphagnum-palustre]]
-- [[azolla-filiculoides]]
-- [[marsilea-quadrifolia]]

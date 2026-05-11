@@ -59,9 +59,9 @@ Green when immature, it turns yellow then black as it cures. Each capsule contai
 
 ## Distribution and Habitat
 
-Native range extends from eastern Mexico through Central America to the Caribbean coastlines. The species is most closely associated with the Gulf coast of Veracruz and the Papantla region.
+Native range extends from eastern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to the Caribbean coastlines. The species is most closely associated with the Gulf coast of Veracruz and the Papantla region.
 
-It grows in lowland tropical forests from sea level to 600 meters elevation. The plant prefers humid conditions with annual rainfall exceeding 2000 mm.
+It grows in lowland [[fungal-biodiversity-tropical-forests]] from sea level to 600 meters elevation. The plant prefers humid conditions with annual rainfall exceeding 2000 mm.
 
 V. planifolia is a shade-tolerant understory species that climbs into the canopy of supporting trees. It requires well-draining soils rich in [[hamilton-composting-and-organic-matter-management]].
 
@@ -69,9 +69,9 @@ Natural populations have been significantly reduced by habitat destruction and o
 
 ## Cultivation
 
-Vanilla cultivation requires a tropical climate with temperatures between 21–32°C and high humidity (80%+). The plant needs partial shade — direct sun causes leaf burn.
+[[vanilla-cultivation-and-orchid-ecology]] requires [[query-how-to-design-a-food-forest-for-a-tropical-climate]] with temperatures between 21–32°C and high humidity (80%+). The plant needs partial shade — direct sun causes leaf burn.
 
-**Propagation** is primarily vegetative through stem cuttings of 60–120 cm length. Cuttings are planted at the base of support trees, typically *Gliricidia sepium* or *Inga* species.
+**Propagation** is primarily vegetative through stem cuttings of 60–120 cm length. Cuttings are planted at the base of support trees, typically *[[gliricidia-sepium]]* or *Inga* species.
 
 The plant takes 3–4 years to reach flowering maturity. Artificial hand-pollination (the Mélon method, developed in 1841 on Réunion Island) is required outside the native range, as the natural pollinator — the euglossine bee *Euglossa viridissima* — is absent.
 
@@ -88,31 +88,3 @@ Over 250 [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-
 The curing process enzymatically converts glucosides (glucovanillin) into free vanillin. β-glucosidase activity during the sweating stage is critical for flavor development.
 
 Vanillin content varies significantly by origin and curing method. Mexican vanilla typically contains more complex flavor profiles than beans from other regions.
-
-## Pharmacology and Traditional Uses
-
-Traditional Mesoamerican uses include treating fever, digestive complaints, and as a general stimulant. The Totonac used vanilla pods in ritual offerings and as a perfume.
-
-Vanillin exhibits documented antioxidant, anti-inflammatory, and antimicrobial activities. In vitro studies demonstrate neuroprotective effects through inhibition of acetylcholinesterase.
-
-Antioxidant capacity is primarily attributed to vanillin and vanillic acid, which scavenge free radicals and upregulate endogenous antioxidant enzymes.
-
-Modern research has investigated vanillin as an anti-sickling agent for sickle cell disease, showing promising in vitro inhibition of erythrocyte sickling.
-
-## Ecology and Permaculture Applications
-
-In permaculture systems, vanilla serves as a valuable understory crop in agroforestry designs. It provides income diversification while requiring minimal ground space.
-
-The vine functions as a [[comparison-living-mulch-vs-cover-crops]] on support trees, reducing weed competition and moderating microclimate. Its root system helps stabilize soil on support tree trunks.
-
-Vanilla cultivation in multi-strata agroforestry systems has been shown to increase overall system biodiversity compared to monoculture.
-
-Suitable support trees include leguminous species that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] (*Gliricidia sepium*, *Erythrina* spp.) and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (*Theobroma cacao*, *Persea americana*) that provide additional yields.
-
-## See Also
-
-- [[moringa-oleifera]]
-- [[cinnamomum-verum]]
-- [[capsicum-annuum]]
-- [[piper-nigrum-entity]]
-- [[crocus-sativus]]

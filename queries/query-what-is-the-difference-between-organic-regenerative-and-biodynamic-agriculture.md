@@ -50,7 +50,7 @@ using organic standards as a baseline, regenerative outcomes as goals,
 and biodynamic timing and preparations as tools. The
 [[regenerative-agriculture|Regenerative agriculture]] is defined by
   measurable outcomes like improved soil health and carbon sequestration
-- [[soil-food-web|soil food web]] is central to regenerative and
+- [[soil-foodweb|soil food web]] is central to regenerative and
   biodynamic thinking but less emphasized in mainstream organic
 
 ## Related

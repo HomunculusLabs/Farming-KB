@@ -1,5 +1,5 @@
 ---
-title: [[microsoft-word]] binary-document-format-reverse-engineering
+title: Microsoft Word Document Format
 created: 2026-04-28
 tags: [document-format, word-processing, file-format, microsoft-office]
 date: 2026-04-28
@@ -88,27 +88,10 @@ implementations.
 The OpenDocument Format (ODF), standardized as ISO 26300, emerged as an
 alternative open standard for office documents. ODF was developed through
 OASIS and gained support from open-source office suites and several
-governments that mandated its use for public documents. The coexistence of
-OOXML and ODF created ongoing interoperability challenges that persist today.
-
-## Security Considerations
-
-Word document formats have been vectors for security vulnerabilities.
-Macro-enabled documents (.docm) can contain VBA macros that execute arbitrary
-code, making them a common delivery mechanism for malware. Template injection
-attacks exploit the way Word resolves external references in templates.
-Supply-chain attacks have also targeted the document parsing libraries used
-by email systems and document viewers.
-
-Modern versions of Word include protected view, which opens documents from
-untrusted sources in a sandboxed mode that disables macros and active content.
-File block policies allow administrators to prevent users from opening
-specific file types, mitigating the risk of macro-based attacks.
 
 ## See Also
-
+- [[microsoft-word-document-format-history]]
+- [[binary-document-format-reverse-engineering]]
 - [[document-format-conversion-fidelity]]
 - [[microsoft-word-history]]
-- [[office-open-xml]] for the full OOXML specification details
-- rich text format for the RTF interchange format
-- [[document-interoperability-standards]] for cross-application compatibility
+- [[microsoft-word]]

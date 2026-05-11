@@ -1,8 +1,8 @@
 ---
-title: Mollison mollison designers avalanche awareness and snow stability Awareness And Snow Stability
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Avalanche Awareness And Snow Stability
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - avalanche
   - snow-safety
   - settlement-design
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,47 +88,3 @@ pressures of 35 atmospheres, enough to knock down trees and
 buildings.
 
 ## Tree Indicators of Avalanche Activity
-
-Trees are useful avalanche and mudslide movement indicators.
-Designers should learn to read these signs in the landscape:
-
-- Downslope lean of tree trunks
-- Lack of lower limbs and understory in otherwise forested
-  areas
-- Bare "trains" of different age classes or pioneer species
-  such as aspen in downslope strips
-- Blown-down forests radiating from avalanche snouts
-
-Rock avalanches produce many of the same effects, which persist
-for at least 20-30 years in coniferous forests. Like the plant
-crusts of the desert or tundra, the solar radiation crust on snow
-preserves slope stability, but this is a seasonal protection only
-that breaks up if iced or shattered by wind.
-
-## Prevention and Design Strategies
-
-The best defense against avalanches is prevention, achieved by a
-set of strategies:
-
-- Preservation of high-slope forests, which anchor snow and
-  regulate melt rates
-- Placement of essential services in tunnels where avalanche
-  risk is high
-- Erection of V-shaped barriers to split up the avalanche front
-- Prevention of settlement in high-risk areas
-- Snow barriers on plateaus above slopes can effectively hold
-  snow above the slope and thereby lessen the load
-- Cross-slope terraces, walls, and barriers have generally NOT
-  proved effective against major avalanches
-
-A new threat follows on the death of steep slope forests by acid
-rain damage, which removes the natural stabilising effect of tree
-cover. [[mollison-designers-snow-ice-and-winter-design-strategies]],
-mollison-settlement-siting-on-slopes-and-landscape-profile.
-
-## See Also
-
-- mollison-designers-introduction-to-permaculture-philosophy
-- [[mollison-designers-snow-ice-and-winter-design-strategies]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
-- [[mollison-designers-lime-and-cement-natural-building]]

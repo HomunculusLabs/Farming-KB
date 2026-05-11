@@ -60,7 +60,7 @@ sources:
 
 - **Absorption:** Rapid GI absorption; onset 20–40 min
 - **Distribution:** Highly protein-bound; crosses BBB readily; large Vd
-- **Metabolism:** Hepatic via CYP2C9, CYP2C19, CYP3A4; Phase I oxidation + Phase II glucuronidation
+- **Metabolism:** Hepatic via CYP2C9, CYP2C19, CYP3A4; Phase I oxidation + Phase II [[glucuronidation]]
 - **[[cannabis-drug-interactions-and-contraindications]]:** Potential CYP-mediated (warfarin, alprazolam, cimetidine)
 - **Half-life:** 7–11 hours for kavain; total kavalactone elimination ~9 hours
 - **Excretion:** Renal (glucuronide conjugates); minor biliary
@@ -69,7 +69,7 @@ sources:
 
 - **Generalized anxiety disorder (GAD):**
   - Multiple RCTs: efficacy comparable to low-dose benzodiazepines (buspirone, oxazepam)
-  - Cochrane review (2003): significant reduction in Hamilton Anxiety Rating Scale scores
+  - Cochrane review (2003): significant reduction in Hamilton Anxiety [[shulgin-rating-scale]] scores
 - **Insomnia:** Improves sleep onset latency and quality; does not suppress REM sleep
 - **Stress and tension:** Reduces perceived stress; muscle-relaxant effects alleviate somatic symptoms
 - **Menopausal symptoms:** Reduces anxiety, irritability, sleep disturbance in perimenopause
@@ -87,39 +87,3 @@ sources:
 - **Noble vs. Tudei kava:** Traditional use employs only noble varieties; tudei varieties have higher DHM and flavokavain levels linked to cytotoxicity
 - Organic solvent vs. aqueous extraction may affect hepatotoxicity profile
 - **Current consensus:** WHO (2007) — hepatotoxicity rare, possibly idiosyncratic; quality control critical; German ban lifted 2015 for pharmaceutical-grade extracts
-
-## Traditional Use
-
-- **Kava ceremony (yaqona/awa/kava):** Central ritual in Fijian, Samoan, Tongan, Vanuatan cultures
-- Preparation: pounding fresh root, mixing with cold water; consumed from communal bowl
-- Used to welcome guests, resolve disputes, mark communal decisions
-- Produces mild oral numbness (anesthetic effect) and relaxed sociability without aggression
-- Traditional aqueous extraction only — organic solvents never used historically
-
-## Dosage
-
-| Preparation | Kavalactone Content | Standard Dose |
-|---|---|---|
-| Standardized extract (WS 1490) | 70% kavalactones | 60–120 mg kavalactones (1–2 tablets) |
-| Tincture (1:2, 60% ethanol) | Variable | 1–3 mL daily |
-| Traditional aqueous prep | 10–15% in root | 2–4 g dried root per serving |
-| Noble kava powder | ~8–12% kavalactones | 1–3 g powder per serving |
-
-- Divide into 2–3 doses/day for anxiety; single evening dose for insomnia
-- Avoid exceeding 300 mg kavalactones/day without medical supervision
-- Cycling (4 weeks on, 1 week off) recommended by some clinicians
-
-## Legal Status
-
-| Region | Status |
-|---|---|
-| [[dmt-containing-plants-united-states-halpern]] | Legal (FDA advisory 2002; not scheduled) |
-| European Union | Varies by state; Germany permits pharmaceutical extracts |
-| United Kingdom | Banned as food supplement (2002) |
-| Australia | Banned (2007); under re-evaluation as of 2024 |
-| Canada | Legal with restrictions (since 2012) |
-| South Pacific | Unrestricted; culturally protected |
-
-## See Also
-- [[glucuronidation]]
-- [[gaian-psychotherapy-and-entheogenic-plants]]

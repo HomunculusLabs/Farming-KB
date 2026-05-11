@@ -59,16 +59,16 @@ Grows exclusively on limestone substrates at elevations of 1,500–2,300 meters.
 
 The species is restricted to areas with reliable winter snow cover and cool, moist summers. Annual precipitation in its habitat exceeds 2,000 mm, much of it falling as snow.
 
-The growing season is extremely short, typically only 8–10 weeks between snowmelt and first autumn frosts. This compressed phenology drives the compact growth form and rapid flowering cycle.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is extremely short, typically only 8–10 weeks between snowmelt and first autumn frosts. This compressed phenology drives the [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and rapid [[cannabis-photoperiod-flowering-cycle]].
 
-Campanula zoysii is classified as Near Threatened due to its restricted range and small total population. Climate change poses a significant threat through upward habitat shift and reduced snow cover duration.
+Campanula zoysii is classified as Near Threatened due to its restricted range and small total population. [[dighton-fungal-responses-climate-change]] poses a significant threat through upward habitat shift and reduced snow cover duration.
 
 ## Cultivation
 
 This species is among the more challenging campanulas to cultivate and is rarely offered outside specialist alpine nurseries. It is hardy in USDA zones 4–7 where snow cover is reliable.
 
 **Growing requirements:**
-- Soil: Very well-drained, lime-rich gritty scree or crevice; pure limestone chips with minimal organic matter
+- Soil: Very well-drained, lime-rich gritty scree or crevice; pure limestone chips with minimal [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 - Light: Full sun in alpine house; light shade in warmer climates
 - Water: Moderate in growth; must be kept nearly dry in winter to prevent crown rot
 - Propagation: Fresh seed in autumn; cuttings rarely succeed
@@ -85,37 +85,6 @@ Seed requires cold stratification for 6–8 weeks to break dormancy. Germination
 
 ## Ecological Role
 
-The constricted flower morphology limits pollinator access to small insects, primarily small flies (Diptera) and tiny solitary bees that can navigate the narrow corolla opening. This specialization may reduce competition for pollinators in the species-poor alpine zone.
+The constricted flower morphology limits pollinator access to small insects, primarily small flies (Diptera) and tiny [[comparison-honey-bees-vs-native-solitary-bees]] that can navigate the narrow corolla opening. This specialization may reduce competition for pollinators in the species-poor alpine zone.
 
 In its limestone crevice habitat, C. zoysii grows alongside other specialized alpine calcicoles including Saxifraga paniculata, Potentilla nitida, and Physoplexis comosa. These communities are among the most species-rich assemblages on European alpine limestone.
-
-The Julian Alps contain over 1,000 vascular plant species in an area of only 1,500 km², making them one of the most floristically dense mountain ranges in Europe. Campanula zoysii is among the most localized of these endemics.
-
-The species is considered a glacial relict, having persisted in its alpine refugium since the last glaciation. Its inability to colonize lower elevations or different substrates limits its capacity for range expansion under warming conditions.
-
-The dense cushion growth form provides thermal buffering against freeze-thaw cycles, trapping warm air and protecting the crown from extreme temperature fluctuations common at high elevations.
-
-## Conservation Status
-
-Campanula zoysii is listed as Near Threatened on several European national red lists due to its narrow endemic distribution and small total population estimated at fewer than 10,000 mature individuals.
-
-The species is protected under Slovenian law and occurs within Triglav National Park, which encompasses the majority of its global population. Climate modeling suggests that suitable habitat will contract significantly under warming scenarios, pushing the species toward higher elevations where suitable limestone substrate may be limited.
-
-Alpine garden cultivation serves as an ex-situ conservation measure, with several botanic gardens maintaining genetically diverse accessions. However, the species' exacting cultural requirements limit widespread conservation cultivation.
-
-The species has become a symbol of Slovenian alpine flora, featured on postage stamps and in national botanical publications as an emblem of the Julian Alps' unique biodiversity.
-
-It is one of approximately 30 vascular plant species endemic to the southeastern Alps, a region recognized as a micro-hotspot of European plant diversity. The narrow endemism of C. zoysii makes it particularly vulnerable to habitat alteration.
-
-## See Also
-
-- [[campanula-cochlearifolia]]
-- [[campanula-barbata]]
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-carpatica]]
-- [[campanula-alliariifolia]]
-- [[campanula-patula]]
-- [[lobelia-dortmanna]]
-- [[campanula-medium]]
-- [[campanula-pyramidalis]]

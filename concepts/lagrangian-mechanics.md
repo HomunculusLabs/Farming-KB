@@ -6,7 +6,7 @@ created: 2026-05-02
 updated: 2026-05-06
 type: concept
 sources:
-  - "raw/papers/greg-green-odor-control-and-air-filtration.md"
+  - "raw/papers/[[greg-green-odor-control-and-air-filtration]].md"
 ---
 
 ## Overview
@@ -88,53 +88,3 @@ These results are useful diagnostically. If a numerical simulation loses energy 
 Symmetry also guides design. Balanced rotors, vibration absorbers, spacecraft attitude systems, and resonant structures all exploit or manage conserved quantities.
 
 In field theory, symmetry-conservation links become even more central because local conservation laws shape the form of allowable equations.
-
-## Engineering Applications
-
-Robotics uses Lagrangian mechanics to derive manipulator equations in joint coordinates. The resulting mass matrix, Coriolis terms, gravity terms, and actuator torques support control design.
-
-Vehicle dynamics uses generalized coordinates for roll, pitch, yaw, suspension travel, wheel spin, and tire contact. Energy methods help organize coupled inertial effects.
-
-Structural dynamics uses modal coordinates to reduce large systems to a manageable set of vibration modes. This is a practical extension of generalized-coordinate thinking.
-
-Electrical and electromechanical systems can also be modeled with Lagrangian or port-Hamiltonian methods. Magnetic co-energy, capacitance, inductance, and mechanical motion can be placed in a unified energy framework.
-
-Aerospace dynamics uses variational mechanics for orbital mechanics, attitude motion, flexible appendages, and mission design. The action principle is especially valuable when constraints and conserved quantities dominate.
-
-Computational mechanics uses variational integrators to preserve geometric structure in long simulations. These algorithms are designed from discrete action principles rather than from arbitrary finite differences.
-
-## Common Pitfalls
-
-The most common mistake is treating generalized coordinates as if they must be Cartesian. They are chosen for convenience and may be nonlinear functions of position.
-
-Another mistake is forgetting that kinetic energy must be expressed correctly in the chosen coordinates. Velocity terms can couple coordinates even when the potential energy looks simple.
-
-Sign errors often appear in potential energy. A consistent reference level for potential energy is arbitrary, but gradients and coordinate dependencies must be correct.
-
-Constraints can be mishandled by both eliminating too much and eliminating too little. Coordinate choices should preserve all real degrees of freedom and remove only genuine restrictions.
-
-Damping and friction should not be forced into T - V as though they were conservative potentials. They require generalized forces, dissipation functions, or a more general nonconservative formulation.
-
-Finally, the elegance of the method can hide modeling assumptions. Rigid bodies, small angles, ideal joints, no slip, and negligible mass elements must still be justified physically.
-
-## Relationship to Other Formulations
-
-Newtonian mechanics emphasizes forces and accelerations. Lagrangian mechanics emphasizes energy, coordinates, and stationary action. Hamiltonian mechanics emphasizes phase space, canonical coordinates, and evolution of energy-like functions.
-
-For many engineering calculations, the Lagrangian formulation is the most convenient middle ground. It is less geometrically abstract than Hamiltonian mechanics but far more coordinate-flexible than direct Newtonian vector balance.
-
-In [[continuum-mechanics]], variational statements lead to weak forms that are central to numerical simulation. In finite element analysis, the same energy logic becomes a computational method.
-
-In quantum mechanics, path-integral language assigns amplitudes to histories and makes the action central. This is conceptually descended from the same variational structure.
-
-In control engineering, Lagrangian models provide physically interpretable nonlinear equations that can be linearized, controlled, or simulated while preserving energy structure.
-
-## References
-
-Research basis: Wikipedia pages on Lagrangian mechanics, Euler-Lagrange equations, and Hamilton's principle, consulted during this mining wave.
-
-## See Also
-
-- [[finite-element-method]]
-- [[quantum-mechanics-fundamentals]]
-- [[laws-of-thermodynamics]]

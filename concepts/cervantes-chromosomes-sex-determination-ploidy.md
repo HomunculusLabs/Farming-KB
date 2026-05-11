@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-chromosomes-and-mendelian-inheritance]], cannabis-sex-determination-floral-biology, and Ploidy
+title: Cervantes Chromosomes Sex Determination Ploidy
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

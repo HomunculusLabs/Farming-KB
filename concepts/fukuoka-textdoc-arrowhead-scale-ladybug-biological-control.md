@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,37 +87,3 @@ Beyond biological control through predator conservation, Fukuoka advocated inter
 The integration of multiple tree species in the orchard also supports greater biodiversity above and below ground, creating a more resilient system that is less susceptible to any single pest or disease outbreak. This stands in direct contrast to the conventional approach of planting monoculture blocks of a single fruit variety and then relying on chemical pesticides to protect them.
 
 ## Implications for Modern Citrus Production
-
-Fukuoka's observations anticipate modern integrated pest management (IPM) approaches that emphasize biological control, habitat management, and minimal chemical intervention. His work suggests that citrus orchards can be productive without routine pesticide application, provided that:
-
-1. Tree architecture allows adequate light and air penetration
-2. Beneficial insect populations are preserved by avoiding broad-spectrum chemicals
-3. The farmer tolerates minor pest presence rather than seeking total eradication
-4. The orchard ecosystem includes diverse plantings that support predator populations
-
-The arrowhead scale and ladybug dynamic remains one of the clearest demonstrations that natural pest balance is achievable and often superior to chemical-dependent approaches in perennial fruit production systems. The transition requires patience, observation, and a willingness to tolerate temporary imperfection, but the long-term reward is an orchard that is more resilient, less expensive to manage, and capable of producing higher-quality fruit.
-
-## The Red Wax Scale Parallel
-
-Fukuoka also documented the case of red wax scale, another of the three major citrus pests in Japan. This insect had historically been controlled by spraying a pine rosin mixture. During World War II, a shortage of rosin material forced the discontinuation of this treatment. Almost simultaneously, parasitic wasps emerged that preyed on the red wax scale, making chemical extermination unnecessary.
-
-After the war, however, farmers began using a potent fluorine pesticide reputed to be effective against the scale. Severe outbreaks of the pest arose at once. The fluorine pesticide was later banned due to its high toxicity and responsibility for local deaths, and red wax scale infestation declined almost immediately. This case reinforced Fukuoka's conclusion that the most intelligent pest control strategy is often not to spray at all.
-
-## Lessons for Contemporary Orcharding
-
-The accumulated evidence from arrowhead scale, cottony cushion scale, and red wax scale cases points to a consistent pattern:
-
-- Natural predators emerge when given the chance
-- Chemical pesticides destroy these predators and create the very pest problems they are meant to solve
-- Pest resurgence after spraying is often worse than the original infestation
-- The farmer who eliminates pesticides and allows natural balance to reestablish will, after a transition period, face fewer pest problems than the farmer who continues chemical dependency
-
-Fukuoka's citrus orchard experiments demonstrate that biological control is not merely a theoretical ideal but a practical reality that has been proven over decades of continuous observation in a working commercial orchard. The lesson extends well beyond citrus: any perennial crop system can benefit from the same principles of predator conservation, microclimate management, and minimal intervention.
-
-## See Also
-
-- [[fukuoka-textdoc-traditional-pest-control-pyrethrum-derris-fowl]]
-
-- [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
-- [[fukuoka-textdoc-scale-insect-biological-control-case-studies]]

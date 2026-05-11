@@ -88,35 +88,3 @@ or under a laminar flow hood:
 ### Liquid Culture Inoculation
 
 Liquid culture (LC) is an alternative to spore syringes. Rather than using
-spores, a small piece of living mycelium is introduced into a nutrient broth
-(typically light malt extract at 2–4% concentration or honey water) and grown
-into a thick, living culture. LC inoculation is faster and more reliable than
-spore inoculation because it bypasses the germination and mating stages — the
-mycelium is already dikaryotic and ready to colonize. LC also allows for
-greater inoculation volume per jar, further accelerating colonization.
-
-## Aseptic Technique
-
-Contamination is the primary cause of failure in [[accessible-mushroom-cultivation-for-disabilities]]. Every
-step from syringe preparation through inoculation must follow strict aseptic
-protocols:
-
-- Work in a still-air box or laminar flow hood to minimize airborne
-  contaminants. A simple still-air box can be constructed from a large clear
-  plastic tub with two arm holes cut in the sides.
-- Flame-sterilize needles before and after each use. The needle should glow
-  red-hot; allow it to cool before injecting to avoid killing spores or
-  mycelium with heat.
-- Wear gloves (nitrile), a face mask, and clean clothing. Avoid talking or
-  breathing directly over open containers or exposed substrate.
-- Sanitize all surfaces and tools with 70% isopropyl alcohol before beginning
-  work. Higher concentrations evaporate too quickly; lower concentrations
-  are less effective at denaturing proteins.
-- Minimize the time containers are open to the environment. Work efficiently
-  and plan the workflow before opening any sterile containers.
-
-## See Also
-
-- mycelium-network
-- [[mushroom-cultivation-lifecycle]]
-- [[mycelium]]

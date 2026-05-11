@@ -4,6 +4,7 @@ tags: [natural-farming, rice, paddy, agroforestry, polyculture, fukuoka, ecologi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 created: 2026-04-28
@@ -87,18 +88,3 @@ invertebrate communities that serve as food for fish and amphibians.
 Fukuoka contrasted the integrated approach with the conventional method of
 creating paddy fields by clearing plains with bulldozers, removing all
 vegetation, and leveling the ground. While this approach maximizes area for
-mechanized production, Fukuoka identified several significant disadvantages:
-
-**Uneven topsoil depth:** When land is mechanically leveled, the topsoil is
-distributed unevenly, resulting in uneven crop growth. The most fertile layer,
-accumulated over many years, is disturbed and redistributed in ways that may
-bury it too deeply in some areas and expose subsoil in others.
-
-**Soil compaction:** Heavy machinery compacts the soil, particularly along the
-ridges and bunds between fields. Compacted ridges become hard, microorganisms
-
-## See Also
-
-- [[fukuoka-straw-mulch-system]]
-- [[fukuoka-orchard-floor-management]]
-- [[natural-farming]]

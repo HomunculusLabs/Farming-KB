@@ -1,10 +1,11 @@
 ---
-title: cannabis-grow-room-setup Electricity Basics
+title: Cervantes Grow Room Electricity Basics
 created: 2026-04-28
 tags: [cannabis, electricity, safety, wiring, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -86,46 +87,3 @@ GFI outlets are required anywhere water is used in a home or business.
 Install GFI outlets in grow rooms to provide an instant, safe
 electrical shut-off when necessary. This is critical because grow
 rooms combine water and electricity.
-
-### Ground
-Connecting electricity to the ground or earth for safety. If a circuit
-is properly grounded and electricity travels somewhere unintended, it
-will go via the ground wire into the earth and be rendered harmless.
-The ground wire is the third wire with the big round prong. HID systems
-must have a ground that runs a continual path from the socket through
-the ballast to the main fuse box, then to the house ground.
-
-## Conductor
-Something able to carry electricity easily. Copper, steel, water, and
-your body are good electrical conductors. A short circuit is formed
-when conductors cross unintentionally. A short circuit will normally
-blow fuses and turn off breaker switches.
-
-## Practical Example: Overloaded Circuit
-
-A circuit with a 20-amp fuse containing:
-- 1400-watt toaster oven
-- 100-watt incandescent light bulb
-- 20-watt radio
-- 1520 total watts / 120 volts = 12.6 amps in use
-
-Adding 9.2 amps drawn by a 1000-watt HID = 21.8 amps total, an
-overloaded circuit!
-
-### Three Solutions:
-1. Remove high-amp-drawing appliances and plug them into another
-   circuit.
-2. Find another circuit that has few or no amps drawn by other
-   appliances.
-3. Install a new circuit. A 240-volt circuit will make more amps
-   available per circuit.
-
-## Circuit Safety
-A circuit is the circular path that electricity travels. If this path
-is interrupted, the power will go off. If this circuit is given a
-chance, it will travel a circular route through your body! Always
-ensure proper grounding and use GFI outlets in any [[cervantes-electricity-consumption-cost-management]].
-
-## See Also
-
-- [[cervantes-grow-room-design-advanced]]

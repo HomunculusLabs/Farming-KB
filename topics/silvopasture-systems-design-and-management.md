@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Garrett, L.W., "Silvopasture: An Agroforestry Practice," USDA National Agroforestry Center, 2009.
   - Gold, M.A. and Garrett, H.E., "Agroforestry Systems for the Southern United States," Agroforestry Systems, vol. 77, 2009.
   - Jose, S., "Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and Environmental Benefits," Tree Physiology, vol. 29, 2009.

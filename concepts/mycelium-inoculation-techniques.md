@@ -88,29 +88,3 @@ transparent container with arm holes that reduces air currents and creates a
 semi-sterile workspace. While not truly sterile, it dramatically reduces the
 number of airborne contaminants that can settle on exposed substrate. Wiping all
 surfaces with 70% isopropyl alcohol before work further reduces contamination
-risk. The SAB should be allowed to settle for 15-30 minutes after placing items
-inside before beginning work.
-
-### Laminar Flow Hoods
-
-Laminar flow hoods provide the gold standard for sterile work in mushroom
-cultivation. They use HEPA filters (typically 0.3 micron rating) to create a
-continuous stream of particle-free air across the work surface. With proper
-technique, contamination rates approach zero. Flow hoods are essential for
-commercial operations and serious hobbyists working with agar cultures, tissue
-cloning, [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]] preparation.
-
-## Contamination Monitoring
-
-During colonization, cultivators should monitor containers regularly for signs
-of contamination. Green molds (Trichoderma, Aspergillus, Penicillium) appear as
-fuzzy green patches and are the most common contaminants encountered. Bacterial
-contamination produces slimy textures and sour or rotten odors that are
-unmistakable upon opening containers. Early identification allows for removal of
-contaminated containers before they sporulate and spread.
-
-## See Also
-
-- [[mushroom-inoculation-techniques-stamets]]
-- [[growing-gourmet-outdoor-log-inoculation-techniques]]
-- [[mushroom-cultivation-contamination]]

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The grass seed cultivation guide describes a minimalist fruiting chamber design that requires no humidifiers, cool-mist devices, or electronic climate control. The system relies on simple clear plastic storage bins with polyethylene sheeting covers and simple plastic bin fruiting chamber passive humidity mushroom cultivation management through evaporation from cased substrates. This approach is notably different from the more elaborate setups commonly recommended in modern cultivation literature.
+The [[grass-seed-cultivation-of-psilocybe-mushrooms]] guide describes a minimalist fruiting chamber design that requires no humidifiers, cool-mist devices, or electronic [[mollison-pdc-trellis-systems-climate-control]]. The system relies on simple clear plastic storage bins with [[passive-humidity-fruit-chamber-polyethylene-sheeting]] covers and simple plastic bin fruiting [[simple-stackable-fruiting-chamber-passive-humidity-cultivation]] mushroom cultivation management through evaporation from cased substrates. This approach is notably different from the more elaborate setups commonly recommended in modern cultivation literature.
 
 ## The Chamber Design
 
@@ -12,7 +12,7 @@ The fruiting containers consist of simple clear plastic bins — standard storag
 
 Key design features:
 
-- **Clear plastic** allows light penetration for fruiting initiation and monitoring
+- **Clear plastic** allows light penetration for [[fruiting-initiation]] and monitoring
 - **Polyethylene sheeting cover** retains humidity while allowing some gas exchange
 - **Stackable design** makes the system extremely space-efficient for cultivators with limited growing area
 - **Melted holes** in the sides provide passive air exchange
@@ -66,7 +66,7 @@ The stackable bin design allows vertical use of growing space. Multiple bins can
 
 ### Simplicity and Reliability
 
-Complex systems with multiple failure points (pump failures, timer malfunctions, clogged filters) can fail in ways that destroy entire crops. The passive system has minimal failure modes — if the bins are intact and the casings are moist, fruiting will proceed.
+Complex systems with multiple failure points (pump failures, timer malfunctions, clogged filters) can fail in ways that destroy entire crops. The passive system has minimal [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] — if the bins are intact and the casings are moist, fruiting will proceed.
 
 ## Limitations
 
@@ -87,63 +87,3 @@ Without active air exchange, CO₂ levels inside the bin depend entirely on the 
 ## Cold Shocking Integration
 
 The guide describes cold-shocking harder-to-fruit strains by placing them in a refrigerator overnight before transferring to the fruiting bins. This simple technique is easily integrated into the minimalist system — no special equipment is needed beyond access to a refrigerator.
-
-Notably, the guide specifies that easy-fruiting strains like Ecuador cubensis do not benefit from cold shocking, and that [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]], P. tampanensis, and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] do not benefit either. Cold shocking is reserved specifically for strains that are reluctant to initiate pinning.
-
-## Comparison to Modern Shotgun Chamber Designs
-
-The plastic bin design described in this guide is a precursor to the popular "shotgun fruiting chamber" (SGFC) concept that became widely known through online cultivation communities. The SGFC uses a similar clear plastic bin but with many more holes drilled on all six sides, designed to take advantage of ambient humidity in naturally humid environments.
-
-The key difference is that the guide's design uses fewer holes and relies primarily on evaporation from the casings for humidity, while the SGFC uses extensive hole patterns and relies on ambient room humidity augmented by frequent misting.
-
-## Species-Specific Fruiting Behavior in This System
-
-The guide provides specific notes on fruiting behavior that relate to how different species perform in the passive bin system:
-
-### Psilocybe cubensis
-
-[[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]] vary considerably in their fruiting ease. Easy strains like Ecuador require no cold shock and pin readily 6–10 days after being placed in the bins. They can produce 5–6 flushes with proper watering. These are the most forgiving species for beginners using the passive system.
-
-### Psilocybe mexicana
-
-P. mexicana typically produces one large flush followed by a smaller second flush. The yield distribution is less even than cubensis, with the majority of biomass concentrated in the first fruiting event. This species does not benefit from cold shocking and pins without additional temperature manipulation.
-
-### Psilocybe tampanensis
-
-P. tampanensis is noted primarily for its sclerotia-producing ability, but it also fruits in the bin system. Its fruiting behavior is less predictable than cubensis, and cultivators primarily grow this species for the truffle-like sclerotia that form in the grain jars rather than for mushroom production.
-
-### Panaeolus subbalteatus
-
-P. subbalteatus (now reclassified as Panaeolus cinctulus) fruits in the passive bin system but is described as less reliable than cubensis. It does not benefit from cold shocking. This species is naturally adapted to dung-rich substrates and may perform better on amended substrates.
-
-## Troubleshooting the Passive System
-
-### Mushrooms Growing Tall and Spindly
-
-This is the classic sign of elevated CO₂ inside the bin. Solutions include adding more ventilation holes, loosening the polyethylene cover to increase gas exchange, or reducing the number of trays per bin to lower total metabolic CO₂ production.
-
-### Casing Surface Drying Too Quickly
-
-If misting once daily is insufficient to keep the casing moist, the environment may be too dry or there may be too many ventilation holes. Temporarily covering some holes with tape can help, or the cultivator can switch to misting twice daily.
-
-### Condensation Dripping from the Lid
-
-Heavy condensation that drips back onto the casing surface can cause localized waterlogging and promote bacterial blotch. This is addressed by tilting the bin lid slightly or wiping down excess condensation during daily maintenance.
-
-### Mold on Dead Pinheads (Aborts)
-
-The guide specifically warns that dead pinheads left on the casing surface can lead to mold outbreaks. All aborts should be removed promptly with clean tweezers or fingers, and the affected spot can be lightly dusted with clean casing material to cover the wound.
-
-## Casing Soil as the Humidity Buffer
-
-The casing recipe (10 parts peat, 5 parts vermiculite, 2 parts limestone) is specifically formulated to maximize water-holding capacity.
-
-## See Also
-
-- [[simple-mushroom-fruiting-chambers]]
-
-- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
-
-- [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
-- [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]]
-- [[fruiting-conditions-mushroom-cultivation]]

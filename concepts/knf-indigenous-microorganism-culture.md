@@ -1,5 +1,5 @@
 ---
-title: KNF Indigenous Microorganism Culture (IMO)
+title: Knf Indigenous Microorganism Culture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,17 +11,17 @@ sources:
 
 # KNF Indigenous Microorganism Culture (IMO)
 
-Indigenous Microorganisms (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. In Natural Farming, IMOs are the primary tool for building fertile, healthy soil. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+[[beneficial-indigenous-microorganisms-bim]] (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. [[mulching-in-natural-farming]], IMOs are the primary tool for building fertile, healthy soil.
 
 ## Why Indigenous Microorganisms
 
-Microorganisms that have survived in the local area for a long time are most powerful and effective. They can survive extreme climatic conditions of the local environment far better than artificially produced microorganisms. Since they are already available in the field, they are considered the best inputs for conditioning the land. (see [[natural-farming-composting-methods]]).
+Microorganisms that have survived in the local area for a long time are most powerful and effective. They can survive extreme climatic conditions of the local environment far better than artificially produced microorganisms. Since they are already available in the field, they are considered the best inputs for conditioning the land.
 
 Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded, different altitudes, different directions) to maximize microbial diversity.
 
 ## Two Major Functions of IMOs
 
-1. Decompose complex organic compounds (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
+1. Decompose complex [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
 2. Create antibiotic substances, enzymes, and lactic acids that suppress diseases and promote healthy soil conditions
 
 ## IMO Stages 1-4
@@ -37,7 +37,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 6. When rice is covered with microorganisms (white, yellow, red growth), transfer to clay pot or glass jar
 7. Black molds indicate you have exceeded the number of days
 
-**Method 2 -- From bamboo stump:**
+**Method 2 -- From [[cho-imo-collection-bamboo-stump-and-paddy-field]]:**
 1. Cut a healthy bamboo shoot 10 cm from ground, trim edges to prevent juice leaking
 2. Fill cavity with boiled rice (level higher than edge)
 3. Cover with wooden box, dry leaves, and plastic sheet
@@ -48,7 +48,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 1. Fill wooden box 3/4 with steamed rice
 2. After paddy harvest, place box face-down on rice stumps
 3. Cover with wire net and plastic sheet
-4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, Bacillus subtilis)
+4. In about 1 week, mostly anaerobic microorganisms collected (Bacillus licheniformis, [[bacillus-subtilis]])
 
 ### IMO-2: Expansion with Sugar
 

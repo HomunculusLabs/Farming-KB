@@ -1,5 +1,5 @@
 ---
-title: "Soil Phosphorus, Potassium, Calcium, and [[cervantes-copper-micronutrient-management]]"
+title: Soil Phosphorus Potassium Calcium And Micronutrient Management
 subtitle: "Managing the [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]] and trace minerals that
   drive plant energy, structure, and enzyme function"
 tags:

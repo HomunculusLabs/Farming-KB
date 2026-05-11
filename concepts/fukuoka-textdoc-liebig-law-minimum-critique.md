@@ -5,16 +5,17 @@ tags: [natural-farming, philosophy, agricultural-science, critique, soil-science
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Liebig's Law of Minimum Critique
 
-Masanobu Fukuoka mounts a sustained and detailed critique of Justus von
+[[masanobu-fukuoka]] mounts a sustained and detailed critique of Justus von
 Liebig's law of minimum, one of the foundational principles of modern
-agricultural science. First proposed by the German chemist, the law states
-that crop yield is determined by the nutrient present in shortest supply.
+[[fukuoka-critique-laws-agricultural-science]]. First proposed by the German chemist, the law states
+that [[fukuoka-hotel-analogy-crop-yield-model]] is determined by the nutrient present in shortest supply.
 Fukuoka argues that this principle, while appearing self-evident, is
 fundamentally flawed and has led agriculture down a destructive path.
 
@@ -25,7 +26,7 @@ amount of water, or yield, the barrel holds is determined by that nutrient
 in shortest supply. No matter how large the supply of other nutrients, it
 is that nutrient of which there is the greatest scarcity that sets the
 upper limit on the yield. Fukuoka identifies two fundamental reasons why
-this analogy does not apply to the real world of crop cultivation.
+this analogy does not apply to the real world of [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]].
 
 ## First Failure: The Barrel Has No Foundation
 
@@ -78,7 +79,7 @@ Fukuoka extends the barrel metaphor to critique the institutional structure
 of agricultural research. Not understanding the relationships between
 nutrients amounts to the lack of a hoop to hold the barrel staves together.
 This is the situation at an agricultural research center with separate
-sections devoted to the study of cultivation techniques, fertilizers, and
+sections devoted to the study of [[cannabis-sativa-indoor-cultivation-techniques]], fertilizers, and
 [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]; even the existence of a planning section and a farsighted
 director will be unable to pull these sections together into an integral
 whole with a common purpose.
@@ -87,59 +88,3 @@ The point is simple: as long as Liebig's barrel is constructed of staves
 representing various nutrients, the barrel will not hold water. Such
 thinking cannot produce a true increase in yield. Examining and repairing
 the barrel will not raise the level of the water. Indeed, this can be done
-only by changing the very shape and form of the barrel.
-
-## Supplying Does Not Increase Yield
-
-Fukuoka's deepest objection to Liebig's law concerns its implicit promise.
-Granted, if we break down the crop nutrients and analyze them chemically, we
-find that these can be divided into any number of components. But to claim
-that supplying all these factors in sufficient quantity raises yield is
-dubious reasoning at best. Rather than claiming that this increases yield,
-we should say only that it maintains yield.
-
-A nutrient in short supply decreases yield, but providing a sufficient
-amount of this nutrient does not increase yield; it merely prevents a loss
-in yield. This distinction between preventing loss and achieving gain is
-crucial to Fukuoka's entire [[fukuoka-critique-of-scientific-agriculture]] agriculture.
-
-[[cervantes-chemical-fertilizers-guide]] can increase yields when the soil is poor to begin
-with and produces only four to five bushels of rice per quarter-acre. Even
-then, heavy fertilization produces an average rise in yield of not more
-than about two bushels over the long term. Adding chemical fertilizer to
-soil that regularly produces seven to eight bushels has very little effect,
-while addition to fields that yield ten bushels may even hurt productivity.
-
-Chemical fertilizer is thus of benefit only as a means for preventing a
-decline in yields. Green manure, nature's own fertilizer, and [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
-were cheaper and safer methods of increasing yields.
-
-## The Factory Analogy Misapplied
-
-Broad interpretation of Liebig's law leads to propositions such as "yield
-can be raised by improving each of the conditions of production," or
-"defective conditions being the controlling factors of yield, these should
-be the first to be improved." Fukuoka rejects these as equally untenable.
-
-This sounds very much as if we were talking of a factory where production
-is the output of components such as raw materials, manufacturing equipment,
-labor, and capital. When a damaged gearwheel in a piece of machinery slows
-production in a factory, productivity can soon be restored by repairing the
-problem. But crop cultivation under natural conditions differs entirely
-from industrial fabrication in a plant. In farming, the organic whole
-cannot be enhanced by the mere replacement of parts.
-
-## All Agricultural Laws Are One
-
-Fukuoka places his [[fukuoka-critique-of-liebig-law-of-minimum]] within his broader philosophical
-framework. Each of the laws of agricultural science, including the law of
-diminishing returns, equilibrium, adaptation, compensation and cancellation,
-relativity, and the law of minimum, is nothing other than a manifestation
-of the great harmony and balance of nature. Each springs from a single
-source.
-
-## See Also
-
-- [[fukuoka-textdoc-increased-production-not-increased-yields]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-hotel-building-model-harvest-yields]]

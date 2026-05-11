@@ -87,33 +87,3 @@ The aroma profile of C. chinense is notably more complex than C. annuum, with [[
 Super-hot varieties (Carolina Reaper, Ghost pepper crosses) are used in specialty hot sauces, spicy food challenges, and as natural food preservatives due to the [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of capsaicinoids.
 
 Fresh, dried, smoked, and pickled preparations are all common. Smoking C. chinense peppers produces intensely flavored products that combine heat with deep smoky complexity.
-
-In Brazilian cuisine, C. chinense varieties (malagueta, biquinho) are essential condiments. Peruvian ají amarillo and rocoto (C. pubescens) are sometimes confused with C. chinense but belong to distinct species.
-
-## Capsaicinoid Profile
-
-C. chinense produces the highest capsaicinoid concentrations of any domesticated pepper species. Habaneros typically contain 100,000–350,000 Scoville Heat Units (SHU), while super-hot varieties exceed 1,000,000 SHU.
-
-The primary capsaicinoids are capsaicin and dihydrocapsaicin, which together account for 80–90% of total capsaicinoid content. Minor capsaicinoids include nordihydrocapsaicin, homocapsaicin, and homodihydrocapsaicin.
-
-Nordihydrocapsaicin contributes a sharp, quick onset of heat, while capsaicin and dihydrocapsaicin produce the lingering burn characteristic of C. chinense varieties. The specific ratio of these compounds influences the perceived heat quality.
-
-Capsaicinoid biosynthesis occurs in the fruit placenta, with concentration increasing during fruit maturation. Environmental stress, particularly heat and drought, can elevate capsaicinoid production.
-
-Capsaicin activates the TRPV1 receptor in mammalian pain neurons, producing the sensation of burning. This interaction is the basis for the Scoville organoleptic test and modern HPLC quantification methods.
-
-Beyond culinary use, capsaicinoids from C. chinense have pharmaceutical applications. Topical capsaicin creams are used for neuropathic pain relief, and capsaicin patches are FDA-approved for postherpetic neuralgia.
-
-Capsaicin also demonstrates antimicrobial properties against foodborne pathogens including Salmonella and E. coli, supporting its historical role as a food preservative in tropical climates.
-
-## See Also
-
-- [[capsaicin]]
-
-- [[bupleurum-chinense]]
-
-- [[solanum-tuberosum]]
-- [[piper-nigrum-entity]]
-- [[curcuma-longa]]
-- [[phaseolus-vulgaris]]
-- [[beta-vulgaris]]

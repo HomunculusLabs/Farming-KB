@@ -1,5 +1,5 @@
 ---
-title: Zero Emissions Research and Initiatives (ZERI)
+title: Zeri Organization
 created: 2026-05-10
 updated: 2026-05-10
 type: organization
@@ -47,10 +47,10 @@ The ZERI brewery project in Tsumeb, Namibia, illustrates the design principles i
 - Animal feeding produces methane emissions
 
 **ZERI Solution:**
-- Use spent grain as substrate for oyster mushroom (Pleurotus ostreatus) cultivation
+- Use spent grain as substrate for oyster mushroom ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]) cultivation
 - Yield nutritious and marketable mushrooms
 - Provide jobs for local farmers
-- After harvesting, mushroom substrate has increased protein content
+- After harvesting, [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] has increased protein content
 - Feed substrate to livestock for improved growth and meat quality
 - Incorporate spent grain into bread for additional "value added"
 - Use brewery wastewater in integrated system with multiple kingdoms
@@ -60,7 +60,7 @@ The system integrates fungi, animals, and additional processing to create zero-e
 
 ### Mushroom Cultivation for Poverty Alleviation
 
-ZERI projects have demonstrated mushroom cultivation's role in reducing poverty, particularly in developing regions. The Chinchina project in Colombia utilized coffee waste substrate to grow Shiitake mushrooms at a Biological Efficiency of 75%, providing additional income and nutrition for coffee growers.
+ZERI projects have demonstrated mushroom cultivation's role in reducing poverty, particularly in developing regions. The Chinchina project in Colombia utilized coffee waste substrate to [[query-how-to-grow-shiitake-mushrooms-on-logs]] at a [[biological-efficiency]] of 75%, providing additional income and nutrition for coffee growers.
 
 ### Mycoforestry Applications
 
@@ -88,18 +88,3 @@ Every waste stream represents an opportunity for "value added" through appropria
 ### Certification Programs
 
 ZERI offers certification programs in eco-design principles and sustainable systems thinking, training practitioners worldwide to implement zero-emission solutions.
-
-### Knowledge Sharing
-
-The organization maintains extensive documentation of successful projects and methodologies, available through their website and training materials.
-
-## Impact and Recognition
-
-ZERI has achieved global recognition for its innovative approach to sustainability, demonstrating that ecological and economic goals can be complementary rather than conflicting. The organization's projects serve as models of sustainability that can be adapted to various contexts and scales.
-
-## See Also
-
-- [[sustainability-concepts]] - Core sustainability frameworks and principles
-- [[mycoremediation-applications]] - Fungi-based environmental remediation
-- [[sustainable-mushroom-cultivation]] - Mushroom cultivation for sustainable development
-- [[agricultural-waste-recycling]] - Converting agricultural waste to valuable products

@@ -1,5 +1,5 @@
 ---
-title: "[[tompkins-marcel-vogel-plant-human-communication]] and Plant Communication"
+title: Marcel Vogel Plant Communication
 created: 2026-04-28
 tags: [plant-communication, bioelectricity, liquid-crystals, psychic-energy, vogel]
 date: 2026-04-25
@@ -77,3 +77,20 @@ and dawn, suffered from random electromagnetic interference. He developed
 a mucilaginous paste of [[cleve-backster-plant-perception-experiments]]
 - [[plant-perception]]
 - [[sound-and-music-effects-on-plants]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[tompkins-marcel-vogel-plant-human-communication]]
+- [[plant-communication-volatile-organic-compounds]]
+- [[tompkins-mitogenetic-rays-plant-cell-communication]]
+- [[tompkins-plant-chemical-communication]]
+- [[chamovitz-plant-scent-communication-volatile-organic-compounds]]

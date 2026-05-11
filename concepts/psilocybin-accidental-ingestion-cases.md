@@ -87,29 +87,3 @@ The mushrooms that SHOULD be feared (and that cause actual fatalities) include:
 The confusion between these genuinely deadly species and psilocybin-containing species has caused unnecessary fear of the latter.
 
 ## The Public Health Perspective
-
-### Actual Risk Assessment
-
-From a public health perspective, accidental psilocybin ingestion is a very low-risk event:
-
-- No confirmed fatalities from psilocybin mushroom ingestion alone
-- Recovery is typically complete within hours
-- Medical intervention is almost never necessary
-- The primary "harm" is psychological (panic, anxiety) rather than physical
-
-### Harm Reduction Recommendations
-
-For foragers and mushroom consumers:
-
-1. **Never eat a mushroom unless you can identify it with 100% certainty**
-2. **Learn to identify both edible AND psychoactive species in your area**
-3. **Know that psilocybin mushrooms are NOT deadly** (but other mushrooms ARE)
-4. **If accidentally exposed, remain calm** -- the effects will pass within hours
-5. **Seek medical attention only if symptoms are severe or if other mushroom species may have been consumed**
-6. **Do not drive or operate machinery** while under the influence
-
-### The "Only Known Fatality"
-
-Gartz notes that the only known death possibly associated with psilocybin mushrooms occurred in 1960, involving a child. However:
-
-- The species identification was disputed

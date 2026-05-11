@@ -88,23 +88,3 @@ Modern pharmacological research has focused primarily on the arsenic transport m
 P. vittata is widely cultivated as an ornamental fern in tropical and subtropical gardens. Its upright arching habit, dark green fronds, and tolerance of a range of light conditions make it a versatile landscape plant.
 
 Garden cultivation requires well-drained soil in partial shade to full sun. The fern is remarkably drought-tolerant once established and tolerates poor, sandy, or calcareous soils where many other ferns fail to thrive.
-
-Hardiness is limited to USDA zones 8–12, with fronds damaged by temperatures below -3°C. In marginal climates, the fern can be grown as a container plant and overwintered indoors or in a greenhouse.
-
-The species spreads aggressively by both spores and rhizome fragmentation. In favorable conditions, a single plant can colonize large areas within a few years, outcompeting native ground flora.
-
-Invasive behavior has been documented in Florida, Texas, Hawaii, and numerous tropical islands. The fern forms dense stands that suppress native vegetation and alter fire regimes in some ecosystems. Several US states list P. vittata as a noxious weed.
-
-Control of invasive populations is challenging due to the extensive spore bank and resilient rhizome system. Mechanical removal must include all rhizome fragments to prevent regeneration, and herbicide efficacy is limited by the fern's chemical resistance.
-
-## See Also
-
-- [[dryopteris-filix-mas]]
-- [[athyrium-filix-femina]]
-- [[polypodium-vulgare]]
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[potamogeton-natans]]
-- [[hydrilla-verticillata]]
-- [[lycopodium-clavatum]]
-- [[equisetum-arvense]]

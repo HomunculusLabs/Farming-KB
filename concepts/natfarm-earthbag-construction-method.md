@@ -88,25 +88,3 @@ intense desert sun will degrade the bags too much, and no more than three
 months in a [[permaculture-designers-manual-temperate-climate-design]] will produce the same effect. Once the walls
 are built, cover them with a moisture barrier and then plaster. People have
 used |cob, cement stucco, and [[comparison-lime-plaster-vs-earthen-plaster]]. Cob is a
-mixture of clay, sand, water, and straw in varying ratios. To make lime
-plaster, mix Portland cement, lime, and sand in a ratio of 2:1:9. To apply
-any plaster, first wrap the whole house in chicken wire and smear on a 1-inch
-(2.5 cm) thick layer.
-
-## Roof Considerations
-
-The roof is attached with embedded rebar rods that hold a wood header. It is
-not a good idea to build more than one story because you lose stability. A
-traditional peaked roof is recommended over dome or cone roofs because it
-harvests rainwater more effectively. The eaves should extend far enough so
-that the walls are not exposed to moisture.
-
-## Connection to [[urban-permaculture-rainwater-harvesting-graywater]] from the roof and
-for wastewater. The excavated soil from the building
-site fills the bags, creating zero waste. This approach embodies the
-ethic of using local,
-abundant materials to create durable, functional shelter.
-
-## See Also
-
-- [[earthbag-construction]]

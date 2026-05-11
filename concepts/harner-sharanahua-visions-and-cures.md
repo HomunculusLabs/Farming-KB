@@ -1,5 +1,5 @@
 ---
-title: [[harner-ayahuasca-shamanism-amazon|harner]] sharanahua visions and cures and Cures
+title: Harner Sharanahua Visions And Cures
 created: 2026-04-28
 tags:
   - anthropology
@@ -88,15 +88,3 @@ conducted with multiple community members present and participating,
 reaffirms the patient's place within the community and restores the
 social bonds that illness may have frayed. The ayahuasca experience
 becomes a vehicle for this reintegration because it allows all
-participants to share in a transformative communal event.
-
-## Relationship to Neighboring Groups
-
-The Sharanahua, Cashinahua, and Campa all share a pattern of communal
-Banisteriopsis use that contrasts with the individualistic approach of
-groups like the Jivaro. This geographical clustering of communal
-ayahuasca practices among Panoan and Arawakan peoples of the Peruvian
-Amazon suggests deep cultural interconnections and possibly a shared
-historical tradition of group hallucinogen use.
-
-The methods, songs, and [[hallucinogens-and-shamanism-harner-anthology]]

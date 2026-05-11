@@ -87,17 +87,3 @@ McKenna notes with evident frustration that the promising psychopharmacological 
 This interruption had consequences that extended beyond the loss of research momentum. The suppression of psychopharmacological research meant that when LSD was discovered in 1943, there was no established institutional framework for studying it responsibly. The absence of the phenomenological tradition represented by Beringer and Kluver contributed to the chaotic and ultimately disastrous way that psychedelic research was conducted in the 1960s.
 
 ## The Aztec-Mexica Context: Teonanacatl and the Spanish Suppression
-
-The peyote and mushroom research of the early psychopharmacologists was, in a sense, a recovery project — an attempt to reclaim knowledge that had been violently suppressed during the Spanish colonization of the Americas. The Aztec (Mexica) people had used both peyote (*peyotl*) and psychoactive mushrooms (*teonanacatl*, "flesh of the gods") in religious ceremonies for centuries before the Conquest. The Spanish Inquisition, recognizing these substances as threats to Catholic conversion, banned their use and systematically destroyed the indigenous knowledge surrounding them.
-
-William Safford's 1915 claim that teonanacatl was not a mushroom but the *Mammillaria* cactus — a claim that Reko rebutted in 1919 — can be understood as a late echo of this suppression. By denying that the Aztecs used psychoactive mushrooms, Safford was, whether consciously or not, continuing the colonial project of minimizing indigenous botanical knowledge. Reko's correction, and the later confirmation by Wasson and Heim in the 1950s, represented the restoration of a truth that had been obscured for four hundred years.
-
-The German psychopharmacologists of the 1920s were working within this historical context, though they may not have fully appreciated it. Their laboratory investigations of peyote and harmine were, in McKenna's framing, acts of cultural recovery — retrieving fragments of indigenous knowledge from the ruins of colonialism and reinterpreting them through the lens of Western science.
-
-## Legacy
-
-The lineage from Lewis Lewin's peyote buttons to modern psychedelic science is direct and traceable. Every major development in psychopharmacology — the isolation of mescaline, the discovery of harmine/telepathine, the mapping of form constants, the phenomenological method — was present in nascent form in the German psychopharmacological renaissance of the 1920s. McKenna's account of this period serves as both historical recovery and implicit argument: the knowledge that Western science suppressed for political reasons is the same knowledge that indigenous cultures had preserved for millennia, and its recovery is essential to understanding the full scope of human consciousness and the role that psychoactive plants have played in shaping it.
-
-## See Also
-
-- [[mckenna-lewis-lewin-peyote-and-early-mescaline-research]]

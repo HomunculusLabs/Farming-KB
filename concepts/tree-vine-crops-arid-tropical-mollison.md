@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Tree and Vine Crops for Arid and Tropical Permaculture
@@ -20,14 +21,14 @@ Key tree crops for arid inland Australia:
 
 ### Primary Food and Forage Trees
 - Mulberry (Morus spp.) -- Red, black, and white varieties. [[free-range-poultry-forage-design-mollison]], high vitamin C, resists white ant and fire. Fruit can be ground to flour
-- Carob (Ceratonia siliqua) -- Needs careful [[fukuoka-creating-natural-farm-site-selection-establishment]] (termite risk), 5% male trees in stands. High nutrient value for forage and people
+- Carob ([[ceratonia-siliqua]]) -- Needs careful [[fukuoka-creating-natural-farm-site-selection-establishment]] (termite risk), 5% male trees in stands. High nutrient value for forage and people
 - Citrus spp. -- Need Tagetes understorey for eelworm control. High vitamin C
-- Black locust (Robinia pseudoacacia) -- Toxic spiny leaves in large quantities, but useful seed. Non-inflammable bark and foliage
-- [[permaculture-honey-locust-pod-fodder-system]] (Gleditsia triacanthos) -- Non-toxic leaves, edible beans for stock
-- Olive (Olea europaea) -- Useful oil crop, shade tree, easily propagated from cuttings, good poultry forage
+- Black locust ([[robinia-pseudoacacia]]) -- Toxic spiny leaves in large quantities, but useful seed. Non-inflammable bark and foliage
+- [[permaculture-honey-locust-pod-fodder-system]] ([[gleditsia-triacanthos]]) -- Non-toxic leaves, edible beans for stock
+- Olive (Olea europaea) -- Useful oil crop, shade tree, easily propagated from cuttings, good [[integrated-poultry-forage-systems-zone-two]]
 - Fig (Ficus spp.) -- Needs more varieties for trials, possible hybrids with native figs
 - Mango (Mangifera indica) -- Established at Mt. Isa, could be more widely grown
-- Cashew nut (Anacardium occidentale) -- Needs wider trials
+- Cashew nut ([[anacardium-occidentale]]) -- Needs wider trials
 - Indian oil nut (Calophyllum inophyllum) -- Characteristics being investigated
 
 ### Nut and Pine Species
@@ -52,7 +53,7 @@ Key tree crops for arid inland Australia:
 - Bamboo spp. -- Larger black and giant bamboo needed for structural uses
 - Cacti -- Several selected fruiting species, useful hedgerow and non-irrigated crop
 - Wormwood (Artemisia), Jujube for hedgerow
-- White cedar (Melia azedarach) -- Fruits poisonous to pigs and poultry, use with care
+- White cedar ([[melia-azedarach]]) -- Fruits poisonous to pigs and poultry, use with care
 - Jacaranda (J. mimosifolia)
 - Tamarind (Tamarindus indicus) -- Marginal food use
 - Tamarisk (Tamarix articulata) -- Also for mulch
@@ -87,28 +88,3 @@ Natural controls for tropical and arid pests:
 - Wood ash and sour milk (Neil Douglas recommendation)
 - Derris dust as complete control
 - Pyrethrum daisies may help with termites
-- Poultry for fruit fly and termites
-- Moloch horridus (Mountain Devil) for ants
-- Guinea fowl as general pest controllers
-
-## Vegetable Classes for Arid and Tropical Areas
-
-Perennial: Globe artichoke, asparagus, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], Manioc (Manihot), comfrey, beans
-Biennial: Parsley, fennel, umbelliferous spp., celery
-Annual: Sweet corn, tomato, melons, borage, lettuce, chard, spinach, sprouts, cabbage, peas, beans
-Tubers and roots: Potato, sweet potato, turnip, carrot, onion, manioc, [[comparison-jerusalem-artichoke-vs-potato]], oca, native wapiti and yala
-
-## Sources
-
-- Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 5.
-
-#permaculture #tree-crops #arid-zone #tropical-agriculture #species-selection #carob #mulberry #native-species
-
-## See Also
-
-- mollison-arid-lands-design-and-erosion-control
-- mollison-native-seed-forage-systems-and-arid-species-lists
-- [[fukuoka-natural-fruit-tree-pest-control]]
-- [[ceratonia-siliqua]]
-- [[melia-azedarach]]
-- [[mangifera-indica]]

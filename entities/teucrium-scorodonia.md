@@ -13,7 +13,7 @@ sources:
   - Newbey, C.R. & Jury, S.L. (1986). "A revision of Teucrium section Scorodonia." Botanical Journal of the Linnean Society, 92(1–2), 49–73.
   - Stace, C.A. (2019). "New Flora of the British Isles." 4th ed., C&M Floristics.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
-  - Pérez-García, F. et al. (2006). "Phenolic compounds and antioxidant activity of Teucrium scorodonia." Pharmaceutical Biology, 44(2), 117–121.
+  - Pérez-García, F. et al. (2006). "[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and antioxidant activity of Teucrium scorodonia." Pharmaceutical Biology, 44(2), 117–121.
   - Hind, N. (2022). "Teucrium scorodonia." Royal Horticultural Society Plant Profile.
 ---
 
@@ -49,11 +49,11 @@ Flowering occurs from July to September. The calyx is tubular and glandular-hair
 
 The species is characteristic of dry, acidic woodlands, heathland margins, and rocky slopes. It tolerates a wide range of conditions, from full sun in open heathland to partial shade in deciduous woods.
 
-It grows on acidic to neutral soils, often in association with heather (*Calluna vulgaris*), bilberry (*Vaccinium myrtillus*), and bracken (*Pteridium aquilinum*). It is a common component of Atlantic heathland communities.
+It grows on acidic to neutral soils, often in association with heather (*[[calluna-vulgaris]]*), bilberry (*[[vaccinium-myrtillus]]*), and bracken (*[[pteridium-aquilinum]]*). It is a common component of Atlantic heathland communities.
 
 Elevational range extends from sea level to approximately 1,500 metres in mountainous areas of southern Europe. It is absent from the Mediterranean lowlands where summer drought is severe.
 
-The species has naturalised in parts of [[polypore-fungi-eastern-north-america]] America, particularly in the Appalachian region, where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
+The species has naturalised in parts of [[polypore-fungi-eastern-north-america]] America, particularly in the [[bolete-fungi-appalachian-region]], where it occurs in similar woodland habitats to its native European range. Naturalised populations are generally small and non-invasive.
 
 ## Bioactive Compounds and Traditional Uses
 
@@ -65,7 +65,7 @@ Nicholas Culpeper (1653) recommended wood sage for "wounds, ulcers, fistulas, an
 
 The herb was employed as a bittering agent in [[comparison-beer-brewing-vs-cider-making]] in parts of England and Scandinavia before hops became dominant. This use is reflected in several of its local names, including "wood sage" and "alehoof."
 
-Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities for leaf extracts. However, clinical data supporting specific therapeutic applications remain limited.
+Modern pharmacological studies have confirmed anti-inflammatory, antioxidant, and antimicrobial activities for leaf extracts. However, clinical data supporting specific [[psilocybin-therapeutic-applications]] remain limited.
 
 A 2006 study identified significant free radical scavenging activity in leaf methanol extracts, attributed primarily to the flavonoid content. The iridoid glycosides may contribute to anti-inflammatory activity via inhibition of cyclooxygenase pathways.
 
@@ -88,23 +88,3 @@ Deer and rabbit resistance is good due to the slightly bitter, aromatic foliage.
 ## Ecological Role
 
 The pale flowers of *T. scorodonia* are attractive to bees, particularly bumblebees and solitary bees. The long flowering period from mid-summer to early autumn provides a late-season nectar resource.
-
-Several Lepidoptera species use *Teucrium* as a larval food plant, though specific associations with *T. scorodonia* are less documented than with Mediterranean *Teucrium* species.
-
-The creeping rootstock helps stabilise soil on slopes and in woodland margins. The species contributes to [[fukuoka-citrus-orchard-ground-cover-cultivation]] in semi-natural habitats and can serve as a nurse plant for woodland restoration.
-
-Wood sage is an indicator species of relatively undisturbed, acidic woodland soils. Its presence in a plant community often suggests low [[ph-and-nutrient-availability-garden-soils]] and limited agricultural disturbance.
-
-## See Also
-
-- [[teucrium-polium]]
-- [[lavandula-angustifolia]]
-- [[salvia-officinalis]]
-- [[origanum-vulgare-entity]]
-- [[stachys-byzantina]]
-- [[hyssopus-officinalis]]
-- [[prunella-vulgaris]]
-- [[leonurus-cardiaca-entity]]
-- [[nepeta-cataria]]
-- [[lamium-album]]
-- [[glechoma-hederacea]]

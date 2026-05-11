@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] flashbacks and persistent psychosis risk and Persistent Psychosis Risk
+title: Emcdda Psilocybin Flashbacks And Persistent Psychosis Risk
 created: 2026-05-08
 updated: 2026-05-08
 sources:
@@ -88,9 +88,3 @@ calm, supportive intervention rather than antipsychotic medication.
 The report implicitly supports the impo [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] ting — the
 user's mindset and physical environment — as determinants of adverse
 outcomes. The documented fatal cases all involved environmental hazards
-(heights, alcohol) combined with the [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of the
-mushrooms. The Dutch finding that users do not find the experience
-particularly pleasant due to the lack of positive mood-altering
-(entactogenic) effects that ecstasy provides suggests that the inherent
-qualities of the mushroom experience may act as a natural barrier to
-repeated use, indirectly limiting cumulative psychological risk.

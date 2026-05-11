@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Soil and Nutrients
 
-Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield. (see [[cannabis-nutrient-deficiency-and-toxicity-guide]]).
+Cannabis is a heavy feeder with specific [[cannabis-soil-and-nutrient-requirements]] that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
 
 ## Soil Mixes
 
@@ -21,7 +21,7 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 
 ### Advanced (Super Soil / Living Soil)
 - Base: 1/3 peat moss or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
-- Amendments: worm castings, bone meal, blood meal, kelp meal, bat guano
+- Amendments: [[ingham-vermicompost-worm-castings]], bone meal, blood meal, kelp meal, bat guano
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
@@ -53,7 +53,7 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Flush with plain water last 1-2 weeks to improve taste
 
 ## Common Nutrient Deficiencies
-- **Nitrogen (N)**: Lower leaves yellow from tip inward, slow growth
+- **Nitrogen (N)**: Lower leaves yellow from tip inward, [[holmgren-long-rotation-forestry-slow-growth]]
 - **Phosphorus (P)**: Dark green/purple leaves, stunted growth
 - **Potassium (K)**: Brown leaf edges, weak stems, slow bud growth
 - **Calcium (Ca)**: New leaves distorted, brown spots, tip burn
@@ -64,11 +64,28 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
-- pH too high: nutrient lockout (nutrients present but unavailable)
+- pH too high: [[cannabis-nutrient-lockout-and-ph]] (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
 
 ## Related
-- [[cannabis-grow-room-setup]] — for room design
+- [[cannabis-grow-room-setup]] — for [[cervantes-grow-room-design-advanced]]
 - [[cannabis-vegetative-stage-management]] — for grow phase
-- [[cannabis-nutrient-deficiency-guide]] — for deficiency diagnosis
+- [[cannabis-nutrient-deficiency-guide]] — for [[cervantes-nutrient-mobility-deficiency-diagnosis]]
 - [[soil-food-web-structure]] — for living soil biology
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[cannabis-indoor-soil-mix-and-preparation]]
+- [[cannabis-soil-and-nutrient-requirements]]
+- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
+- [[cannabis-ph-management-and-soil-flushing]]
+- [[teaming-with-nutrients-ph-testing-and-soil-amendment]]

@@ -6,18 +6,19 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Nutrient Burn and Over-fertilization in Cannabis
 
 Nutrient burn, also called fertilizer burn, is one of the most common
-problems in [[query-how-does-no-till-cannabis-cultivation-work]]. Jorge Cervantes identifies it as a
+problems in [[query-how-does-no-till-cannabis-cultivation-work]]. [[jorge-cervantes]] identifies it as a
 frequent mistake that can impair growth, reduce yield, and compromise
 bud quality. Over-fertilization occurs when the concentration of
-dissolved mineral salts in the growing medium or [[cannabis-nutrient-solution-preparation]]
+dissolved mineral salts in the [[cervantes-green-algae-growing-medium]] or [[cannabis-nutrient-solution-preparation]]
 exceeds what the plant can absorb, leading to toxic accumulation in
-leaf tissue.
+[[leaf-tissue-analysis-crop-nutrient-status]].
 
 ## Symptoms of Nutrient Burn
 
@@ -41,7 +42,7 @@ signs include:
 
 Over-fertilization can result from several grower errors:
 
-- Mixing nutrient solution at excessive concentration (high EC/ppm)
+- Mixing [[cervantes-ec-tds-nutrient-solution-strength]] at excessive concentration (high EC/ppm)
 - Fertilizing too frequently without allowing adequate uptake time
 - Using concentrated fertilizers without proper dilution
 - Accumulation of salts in the growing medium over multiple feedings
@@ -53,7 +54,7 @@ Over-fertilization can result from several grower errors:
 Cervantes specifically warns that hydroponic systems are designed for
 high performance, which means mistakes escalate quickly. A rapid
 fluctuation in pH, a clogged drain, or a malfunctioning pump can
-cause sudden nutrient toxicity that stunts or kills plants before
+cause sudden [[cannabis-nutrient-toxicity]] that stunts or kills plants before
 they have time to recover.
 
 ## Soluble Salts and EC Thresholds
@@ -86,32 +87,3 @@ nutrient solution. Key steps include:
 ## Prevention Strategies
 
 Cervantes offers several preventive measures:
-
-- Start seedlings with quarter-strength fertilizer solution
-- Always measure EC and pH before each feeding
-- Follow manufacturer-recommended dilution rates
-- Keep a reservoir log tracking EC, pH, and top-off amounts
-- Change recirculating hydroponic reservoirs at least every two
-  weeks, and never let a reservoir go more than four weeks
-- Leach the entire system with weak nutrient solution for an hour
-  or more between reservoir changes
-- Use a filter on drip emitters to prevent clogging and uneven
-  distribution
-
-## Organic vs Chemical Fertilizer Burn
-
-Both organic and [[cervantes-chemical-fertilizers-guide]] can cause burn symptoms. Organic
-nutrients build to toxic levels just as easily as chemical fertilizers.
-Look for the same symptoms: burned leaf tips, discolored misshapen
-leaves, and brittle foliage. However, organic nutrients require
-heavier flushing -- approximately three gallons of water for every
-gallon of growing medium. Some growers flush with plain water for the
-last two weeks of flowering to eliminate fertilizer taste from buds.
-
-## See Also
-
-- [[cervantes-macronutrient-deficiency-toxicity]] - macronutrient
-  excess symptoms
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - pre-harvest flushing
-  techniques
-- [[cervantes-ph-management-testing]] - pH monitoring and control

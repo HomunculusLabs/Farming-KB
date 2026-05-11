@@ -31,7 +31,7 @@ structure.
 
 Organic matter bridges the soil surface and underground zones:
 
-1. **Surface to soil**: Dead plant material must break down before
+1. **Surface to soil**: Dead plant material must [[query-can-fungi-break-down-plastic-pollution]] before
    nutrients move underground. Biological activity should lead this.
 2. **Nutrient retention**: Organic matter is the primary factor
    impeding leaching. Without it, water carries nutrients below the
@@ -45,7 +45,7 @@ Organic matter bridges the soil surface and underground zones:
 
 Plant material decomposes quickly through biological activity. High,
 consistent humidity supports abundant decomposer organisms year-round.
-Old material rarely accumulates. The mineral cycle functions efficiently
+Old material rarely accumulates. The [[savory-holistic-resource-management-mineral-cycle]] functions efficiently
 without large animals. Succession advances readily because the
 biological community constantly processes dead material.
 
@@ -80,26 +80,11 @@ Loss of soil organic matter triggers a cascading chain reaction:
 3. As aeration decreases, biological activity declines.
 4. As life decreases, organic material production drops further.
 5. Fewer plants produce less cover and more bare, capped soil.
-6. Bare ground increases erosion and further organic matter loss.
+6. [[savory-bare-ground-and-soil-exposure]] increases erosion and further organic matter loss.
 
-This chain reaction, operating through the interconnected ecosystem  foundation blocks, is the engine of desertification in brittle
+This chain reaction, operating through the interconnected ecosystem  [[savory-ecosystem-foundation-blocks]], is the engine of desertification in brittle
 environments.
 
 ## The Role of Plant Roots
 
 Plant roots are the main agents for lifting mineral nutrients to the
-surface. A good mineral cycle requires deep, healthy root systems and
-wide species variety with varied rooting patterns. Some plants have
-abundant surface roots; others probe deep into rock crevices. Even
-when the primary goal involves shallow-rooted grasses, deep-rooted
-species may be essential to community health. Trace minerals critical
-to plants and animals may lie beyond shallow roots' reach.
-
-## The Role of Soil Organisms
-
-Small animals play important [[dighton-fungal-roles-in-nutrient-cycling]] uplift and organic
-incorporation: earthworms in moist environments create channels for
-aeration; termites in dry areas build structures and process material;
-bacteria and fungi are primary decomposers; [[savory-soil-carbon-sequestration]] - Organic matter as [[holmgren-soil-humus-carbon-storage-rebuilding]]
-- brittle environments - Where decomposition dynamics are critical
-- [[savory-water-cycle-management]] - How organic matter affects infiltration

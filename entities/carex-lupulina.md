@@ -10,8 +10,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in North America north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
-  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex in guzman-psilocybin-mushrooms-north-america north of Mexico." Contributions from the University of Michigan Herbarium 20: 1-258.
+  - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada. New York Botanical Garden.
   - Flora of North America Editorial Committee (2002). Flora of North America Vol. 23: Cyperaceae. Oxford University Press.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team.
   - Bryson, C.T. et al. (1997). "Carex section Lupulinae (Cyperaceae) in the New World." Systematic Botany 22(3): 530-543.
@@ -22,7 +22,7 @@ sources:
 Carex lupulina, commonly known as hop sedge, is a perennial sedge native to
 eastern and central North America. It belongs to Carex section Lupulinae, a
 group noted for thick, hop-like inflorescences that resemble the fruiting cones
-of Humulus lupulus.
+of [[humulus-lupulus]].
 
 The species is common in bottomland hardwood forests, floodplain swamps, and
 riparian corridors throughout its range. It is a facultative wetland plant
@@ -83,67 +83,8 @@ from approximately 4.5 to 7.5.
 ## Ecology
 
 Carex lupulina is a common component of bottomland hardwood forest herb layers
-and floodplain wetland communities. It is associated with Quercus palustris,
-Acer saccharinum, and Platanus occidentalis canopy trees in many floodplain
+and floodplain wetland communities. It is associated with [[quercus-palustris]],
+[[acer-saccharinum]], and [[platanus-occidentalis]] canopy trees in many floodplain
 systems.
 
 The stout rhizomes and dense root mats contribute significantly to streambank
-and floodplain soil stability. The species tolerates prolonged inundation during
-spring flooding events without apparent damage to aboveground biomass.
-
-Seeds provide a food source for waterfowl and granivorous songbirds during late
-summer and fall. The dense tussocks offer cover for small mammals, amphibians,
-and aquatic invertebrates.
-
-Carex lupulina is a larval host for the Appalachian brown (Satyrus appalachia)
-and several other satyrine butterflies. It is moderately browsed by
-white-tailed deer but generally persists in areas with moderate browsing pressure.
-
-Invasive species competition, particularly from Phragmites australis and
-Typha species, can reduce C. lupulina abundance in degraded wetlands. Active
-management is often needed to maintain native sedge dominance.
-
-## Cultivation and Uses
-
-Carex lupulina is occasionally cultivated for wetland restoration and native
-landscaping projects. It is available from native plant nurseries specializing
-in regional ecotypes.
-
-Division of established clumps in early spring is the most reliable propagation
-method. Seed germination requires cold stratification of 60 to 90 days and
-saturated germination media.
-
-The species performs best in consistently moist to wet soils with partial to
-full sun exposure. It tolerates deeper water than many Carex species and can
-withstand periodic inundation up to 10 centimeters.
-
-Restoration plantings typically space plugs at 30 to 60 centimeters. Plants
-establish within one growing season and spread slowly via rhizomatous growth.
-
-Hop sedge has been used successfully in stormwater treatment wetlands and
-riparian buffer restoration projects across the eastern United States. Its
-tolerance of fluctuating water levels makes it well suited to these
-applications.
-
-## Ethnobotanical Notes
-
-Specific ethnobotanical uses of Carex lupulina are not well documented in the
-literature. However, other species within section Lupulinae were used by
-Indigenous peoples of North America for various purposes.
-
-Related Carex species were woven into mats and baskets by several Native
-American groups. The tough leaves and fibrous roots of section Lupulinae
-members were valued for their durability.
-
-No modern commercial, pharmaceutical, or food applications exist for this
-species. Its primary significance is ecological, as a component of native
-## See Also
-
-- [[carex-crinita]]
-- [[carex-stricta]]
-- [[schoenoplectus-lacustris]]
-- [[juncus-effusus]]
-- [[typha-latifolia]]
-- [[phragmites-australis]]
-- [[acer-saccharum]]
-- [[salix-nigra]]

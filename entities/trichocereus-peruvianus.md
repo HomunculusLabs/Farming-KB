@@ -16,13 +16,13 @@ sources:
 
 # Trichocereus peruvianus
 
-**Trichocereus peruvianus** (syn. *Echinopsis peruviana*) is a fast-growing columnar cactus native to the western slopes of the Andes Mountains in Peru, Ecuador, Bolivia, and northern Chile. It is one of the principal mescaline-containing cacti of South America and is closely related to *Trichocereus pachanoi* (San Pedro). The plant is commonly referred to as the Peruvian torch cactus and has been used in Andean traditional medicine and ceremonial practice for millennia.
+**Trichocereus peruvianus** (syn. *[[echinopsis-peruviana]]*) is a fast-growing columnar cactus native to the western slopes of the Andes Mountains in Peru, Ecuador, Bolivia, and northern Chile. It is one of the principal mescaline-containing cacti of South America and is closely related to *[[trichocereus-pachanoi]]* (San Pedro). The plant is commonly referred to as the [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]] cactus and has been used in Andean traditional medicine and ceremonial practice for millennia.
 
 ## Taxonomy and Description
 
 *Trichocereus peruvianus* was first described by the American botanists Nathaniel Lord Britton and Joseph Nelson Rose in 1920 in their monumental work "The Cactaceae." It belongs to the family Cactaceae, subfamily Cactoideae, tribe Trichocereeae. The genus *Trichocereus* has been subject to significant taxonomic revision over the past several decades, with many modern authorities, following the work of Heimo Friedrich and Werner Rauh in the 1970s, merging *Trichocereus* into the large and diverse genus *Echinopsis*. Under this classification, the correct name becomes *Echinopsis peruviana* (Britton & Rose) Friedrich & G.D. Rowley. However, the name *Trichocereus peruvianus* remains widely used in the ethnobotanical, horticultural, and psychoactive plant communities and is retained here for clarity.
 
-The relationship between *Trichocereus peruvianus*, *Trichocereus pachanoi*, and *Trichocereus bridgesii* has been the subject of considerable taxonomic debate. These three species form a morphologically similar group that has been difficult to delimit cleanly, particularly in cultivation where hybridization may occur. Some authorities have suggested that *T. peruvianus* and *T. pachanoi* represent a single variable species complex, while others maintain them as distinct species based on differences in spine characteristics, rib count, flower morphology, and alkaloid profile.
+The relationship between *Trichocereus peruvianus*, *Trichocereus pachanoi*, and *[[trichocereus-bridgesii]]* has been the subject of considerable taxonomic debate. These three species form a morphologically similar group that has been difficult to delimit cleanly, particularly in cultivation where hybridization may occur. Some authorities have suggested that *T. peruvianus* and *T. pachanoi* represent a single variable species complex, while others maintain them as distinct species based on differences in spine characteristics, rib count, flower morphology, and alkaloid profile.
 
 The cactus is a large, tree-like columnar plant that can grow up to 3 to 6 meters tall in the wild, though cultivated specimens rarely exceed 2 to 3 meters. Individual stems are bluish-green to glaucous, typically 8 to 12 cm in diameter, with 6 to 8 rounded ribs. The areoles are large and woolly, spaced approximately 2 cm apart, and bear 1 to 4 brownish-yellow central spines up to 4 cm long, plus numerous shorter radial spines. Young stems are more heavily spined than mature specimens, and the spines may become less pronounced with age.
 
@@ -36,7 +36,7 @@ Its range extends from southern Ecuador through central Peru into Bolivia and no
 
 ## Chemistry
 
-The principal psychoactive alkaloid in *Trichocereus peruvianus* is mescaline (3,4,5-trimethoxyphenethylamine). Mescaline content varies considerably between populations and individual specimens, with reported concentrations ranging from approximately 0.1% to as high as 2.0% or more of the dried plant material. This variability is influenced by genetics, growing conditions, age of the plant, season of collection, and the part of the plant analyzed. The green outer tissue (cortex) of the stem generally has the highest alkaloid concentration.
+The principal psychoactive alkaloid in *Trichocereus peruvianus* is mescaline (3,4,5-trimethoxyphenethylamine). [[gottlieb-peyote-botany-and-mescaline-content]] varies considerably between populations and individual specimens, with reported concentrations ranging from approximately 0.1% to as high as 2.0% or more of the dried plant material. This variability is influenced by genetics, growing conditions, age of the plant, season of collection, and the part of the plant analyzed. The green outer tissue (cortex) of the stem generally has the highest alkaloid concentration.
 
 Other phenethylamine alkaloids that have been detected in *Trichocereus peruvianus* include 3-methoxytyramine, 4-hydroxy-3-methoxyphenethylamine (hordenine), and trace amounts of 3,4-dimethoxyphenethylamine. Tyramine, a biogenic amine with sympathomimetic properties, is also present. Some analyses have reported the presence of anhalonidine and anhalamine, alkaloids more typically associated with *Lophophora* species, though these identifications require confirmation.
 
@@ -48,7 +48,7 @@ Mescaline is a classical psychedelic compound that acts primarily as a serotonin
 
 Ceramic effigy vessels and textiles from the Moche (100 to 700 CE), Chimú (900 to 1470 CE), and other pre-Columbian cultures depict cactus forms and ceremonial scenes that strongly suggest ritual use of mescaline-containing Trichocereus species. The persistence of cactus imagery in Andean art across thousands of years and dozens of distinct cultural traditions testifies to the deep cultural importance of these plants.
 
-In contemporary Peruvian traditional medicine, *Trichocereus peruvianus* is used by curanderos (healers) in healing ceremonies known as mesadas or mesadas curativas. The cactus is prepared by slicing the stems into thin sections, which are then dried in the sun to produce chips known locally as "Huachuma" or "San Pedro." These chips are boiled in water, often for several hours, with the addition of other plants such as *Brugmansia* species, *Datura* species, *Lobelia* species, *Nicotiana rustica*, and various aromatic herbs. The resulting brew is consumed by the patient and participants under the guidance of the curandero.
+In contemporary Peruvian traditional medicine, *Trichocereus peruvianus* is used by curanderos (healers) in healing ceremonies known as mesadas or mesadas curativas. The cactus is prepared by slicing the stems into thin sections, which are then dried in the sun to produce chips known locally as "Huachuma" or "San Pedro." These chips are boiled in water, often for several hours, with the addition of other plants such as *Brugmansia* species, *Datura* species, *Lobelia* species, *[[mckenna-shamanic-tobaccos-and-nicotiana-rustica]]*, and various aromatic herbs. The resulting brew is consumed by the patient and participants under the guidance of the curandero.
 
 The ceremonial use of *Trichocereus peruvianus* is deeply integrated into the cosmovision of Andean peoples, where the cactus is regarded as a teacher plant (planta maestra) that facilitates communication with the spirit world and provides insight into the nature of health, illness, and the cosmos. The ceremony typically involves chanting (icaros), the blowing of tobacco smoke, ritual purification, and the invocation of spiritual allies before the ingestion of the preparation.
 
@@ -87,37 +87,3 @@ More recently, the field work of Karel Kníže, a Czech cactus collector and exp
 In cultivation, extensive hybridization has occurred between *Trichocereus peruvianus*, *T. pachanoi*, and other species, making definitive identification of cultivated specimens extremely difficult. Many of the plants sold commercially as "Peruvian torch" are likely hybrids or may actually be *T. pachanoi* or intermediate forms. The horticultural trade has done little to maintain genetic purity of these species.
 
 Named cultivars and clones of *Trichocereus peruvianus* exist in the collector community, including selections prized for their growth rate, spine characteristics, flower color, or reputed alkaloid content. Some clones, such as the "Matucana" clone and the "Torch" clone, are widely circulated among collectors and have been the subject of informal chemical assays.
-
-## Conservation Status
-
-The conservation status of *Trichocereus peruvianus* in the wild has not been formally assessed by the IUCN.
-
-However, wild populations in Peru and Ecuador are threatened by habitat destruction from agriculture, mining, and urban expansion.
-
-Collection of wild plants for the horticultural and entheogenic trades also poses a threat to some populations.
-
-The species remains abundant in many areas but is declining in regions where its habitat is under heavy pressure.
-
-[[dighton-fungi-climate-change-feedback]] may also threaten the species in the long term, as altered precipitation patterns and increasing temperatures could affect the delicate [[fukuoka-ecological-balance-principles]] of Andean inter-Andean valley ecosystems.
-
-## History of Human Interaction
-
-The relationship between humans and *Trichocereus peruvianus* is one of the oldest known plant-people relationships in the Americas.
-
-Archaeological evidence from the Chavín, Moche, Nasca, and Chimú cultures demonstrates that cactus-based ceremonial practices were central to the religious and social life of pre-Columbian Andean civilizations for over three thousand years.
-
-The persistence of these practices into the present day, despite centuries of colonial suppression and the pressures of modernization, testifies to the deep cultural roots of Huachuma use.
-
-Today, San Pedro ceremonies attract participants from [[fungi-around-the-world-species-distribution]], and the plant has become an important element of the global entheogenic renaissance and the growing interest in indigenous plant medicines.
-
-## Legal Status
-
-Mescaline is classified as a Schedule I controlled substance under the United Nations Convention on Psychotropic Substances of 1971. *Trichocereus peruvianus* itself is not specifically scheduled in most jurisdictions, but its cultivation, sale, and possession may be restricted under laws governing the preparation or extraction of controlled substances. In the United States, the plant is legal to grow as an ornamental but extraction of mescaline is prohibited. In Peru, traditional ceremonial use of the cactus is protected under constitutional provisions recognizing indigenous cultural rights. In Australia, the plant has been subject to regulatory attention in some states.
-
-## See Also
-
-- [[trichocereus-bridgesii]]
-- [[trichocereus-pachanoi]]
-- [[lophophora-williamsii]]
-- [[mescaline]]
-- Brugmansia

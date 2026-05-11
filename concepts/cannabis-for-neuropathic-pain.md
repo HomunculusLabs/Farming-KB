@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Neuropathic Pain
+title: Cannabis For Neuropathic Pain
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -16,7 +16,7 @@ Neuropathic pain arises from damage to or dysfunction of the nervous system itse
 ### Neuropathic Pain (Usually Chronic)
 - Results from nerve damage or nervous system dysfunction
 - Often described as burning, shooting, electric, or stabbing
-- Conditions: diabetic neuropathy, multiple sclerosis, HIV neuropathy, post-herpetic neuralgia, chemotherapy-induced neuropathy
+- Conditions: diabetic neuropathy, [[blesching-cannabis-multiple-sclerosis]], HIV neuropathy, post-herpetic neuralgia, chemotherapy-induced neuropathy
 - Often resistant to NSAIDs and sometimes to opioids
 - May involve central sensitization
 
@@ -58,7 +58,7 @@ Pre-clinical studies indicate that "Delta(9)-THC and morphine can be useful in [
 
 ### General Neuropathic Pain
 
-**University of Massachusetts (2009):** Meta-analysis of studies from 2004-2009 determined that cannabinoids effectively relieve pain from inflammation including "chronic neuropathic pain" along with post-surgical pain, rheumatism, rheumatoid arthritis, and fibromyalgia.
+**University of Massachusetts (2009):** Meta-analysis of studies from 2004-2009 determined that cannabinoids effectively relieve pain from inflammation including "chronic neuropathic pain" along with post-surgical pain, rheumatism, [[blesching-cannabis-rheumatoid-arthritis]], and fibromyalgia.
 
 ### Post-Herpes Neuralgia
 
@@ -66,7 +66,7 @@ Topical cannabinoids significantly reduce nerve pain after a herpes flare-up, de
 
 ### Diabetic and Other Neuropathies
 
-The U.S. government's cannabinoid neuroprotection patent cites utility in "limiting neurological damage" broadly, applicable to various forms of neuropathy.
+The U.S. government's [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]] patent cites utility in "limiting neurological damage" broadly, applicable to various forms of neuropathy.
 
 ## Cannabis vs. Conventional Analgesics
 
@@ -76,7 +76,7 @@ The U.S. government's cannabinoid neuroprotection patent cites utility in "limit
 
 ### NSAIDs (Aspirin, Ibuprofen, etc.)
 - Reduce pain, fever, and inflammation
-- Major adverse effects: GI ulcers (41,000 older adults hospitalized, 3,300 die annually), heart attacks, strokes, renal failure
+- Major [[adverse-effects-and-harm-reduction-psilocybin]]: GI ulcers (41,000 older adults hospitalized, 3,300 die annually), heart attacks, strokes, renal failure
 
 ### Opioids
 - Effective but carry addiction risk and respiratory depression danger
@@ -87,22 +87,4 @@ The U.S. government's cannabinoid neuroprotection patent cites utility in "limit
 - Effective for neuropathic pain with minimal addiction risk
 - No fatal respiratory depression possible
 - Anti-inflammatory properties address underlying causes
-- Full-spectrum preparations provide multi-modal pain relief
-
-## Strain-Specific Considerations
-
-- **Indica strains** with lower THC:CBD ratios favor CB2 activation for anti-inflammatory peripheral pain
-- **Sativa strains** with higher THC content may be more effective for central neuropathic pain via CB1
-- **Hybrid strains** provide balanced CB1/CB2 engagement
-- Whole-plant preparations (like Sativex) that combine THC and CBD may provide the best balance for neuropathic pain
-- The [[cannabis-chronic-pain-management]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-and-neuroprotection]]
-- [[blesching-cannabis-neuropathic-pain]]
-
-- [[2c-d-pihkal-entry-23]]
-- [[cannabis-for-chronic-pain]]
-- [[cannabis-anti-inflammatory-applications]]
-
-## Merged: Cannabis For Spinal Cord Injuries
-updated: 2026-04-18 Spinal cord injuries (SCI) are among the most devastating traumatic events, resulting from external trauma (car crash, gunshot) or internal trauma (stroke, aneurysm) or diseases such as cancer. The spine houses and protects the spinal cord, the thick bundle of nerves descending from the medulla oblongata through the center of the spine. See also cannabis for neuropathic pain. - Neuropathic pain - [[cannabis-for-multiple-sclerosis]], AIDS, and shingles (Herpes zoster). Sativex contains THC and CBD in similar proportions as the strain [[cannabis-endocannabinoid-system]]. Related: [[cannabis-for-multiple-sclerosis]], Spinal cord injury spasms
+- Full-spectrum preparations provide multi-modal [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]

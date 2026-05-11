@@ -88,38 +88,3 @@ mescal beans (Sophora secundiflora) rather than from genuine psychoactive
 properties of Erythrina seeds.
 
 If Erythrina seeds do produce psychoactive effects, those effects may
-result from the isoquinoline alkaloids present at doses that produce central
-nervous system effects in addition to their curare-like peripheral effects.
-Alternatively, unrecognized alkaloids or non-alkaloidal compounds in the
-seeds might be responsible for any psychoactive activity. The current state
-of knowledge is insufficient to resolve these questions definitively.
-
-## Herb Market Trade
-
-The sale of Erythrina colorines mixed with Sophora secundiflora mescal
-beans in Mexican herb markets is a significant ethnobotanical phenomenon.
-Herb markets in Mexico have long served as centers of traditional
-pharmacological knowledge, where indigenous and mestizo herbalists obtain
-plant materials for medicinal and ceremonial use. The mixing of
-pharmacologically distinct seeds in these markets reflects the practical
-realities of folk taxonomy, where visual similarity may outweigh botanical
-accuracy in the identification and naming of commercially traded plant
-materials.
-
-## Archaeological and Historical Context
-
-The visual similarity between Erythrina seeds and Sophora secundiflora
-mescal beans raises questions about the archaeological record of mescal bean
-use. Mescal beans have been found at archaeological sites dating back to
-1500 B.C., and the red bean drink was central to the prehistoric Red Bean
-Dance. If Erythrina seeds were sometimes substituted for or mixed with true
-mescal beans in these ancient practices, the archaeological record may not
-distinguish between the two, potentially complicating our understanding of
-prehistoric psychoactive plant use in the American Southwest and northern
-Mexico.
-
-## See Also
-
-- [[piule-rhynchosia-seeds-mexican-hallucinogen]]
-- [[golden-guide-peyote-and-mescaline-cacti]]
-- [[erythrina-fusca]]

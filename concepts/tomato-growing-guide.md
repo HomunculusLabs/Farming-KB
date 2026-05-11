@@ -9,7 +9,7 @@ sources: []
 
 # Tomato Growing Guide
 
-Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guide covers the key distinctions between varieties, pruning techniques, support systems, disease management, and harvesting for maximum productivity. (see [[cucumber-growing-guide]]).
+Tomatoes ([[solanum-lycopersicum]]) are the most popular home garden crop. This guide covers the key distinctions between varieties, [[pruning-techniques-organic]], support systems, [[clubroot-disease-management]], and harvesting for maximum productivity.
 
 ## Determinate vs. Indeterminate
 
@@ -26,7 +26,7 @@ Tomatoes (Solanum lycopersicum) are the most popular home garden crop. This guid
 ## Starting Tomatoes
 
 ### Seed Starting
-- Start indoors 6-8 weeks before last frost. (see [[strawberry-growing-guide]]).
+- Start indoors 6-8 weeks before last frost.
 - Germination: 70-80°F soil temp, 5-10 days.
 - Transplant to larger pots when seedlings have 2-3 sets of true leaves.
 - Harden off for 7-10 days before planting outside.
@@ -88,7 +88,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 - **Phosphorus**: Critical for flowering and fruit set — add bone meal at planting.
 - **Potassium**: Essential for fruit quality and disease resistance — kelp meal or wood ash.
 - **Calcium**: Prevents blossom end rot — gypsum or crushed eggshells.
-- Side-dress with compost or balanced organic fertilizer when first fruits set.
+- Side-dress with compost or balanced [[complete-organic-fertilizer-cof]] when first fruits set.
 - Avoid high-nitrogen liquid feeds after flowering begins.
 
 ## Watering
@@ -121,7 +121,7 @@ Suckers are the small shoots that grow in the "V" between the main stem and a br
 
 ### Blossom End Rot
 - Black sunken spot on blossom end of fruit.
-- Caused by calcium deficiency or inconsistent watering (calcium cannot move through the plant).
+- Caused by [[knf-calcium-deficiency-symptoms]] or inconsistent watering (calcium cannot move through the plant).
 - Prevention: consistent watering, adequate calcium (gypsum, eggshells), mulch.
 
 ## Harvesting

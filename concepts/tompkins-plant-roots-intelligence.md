@@ -3,8 +3,8 @@ title: Plant Root Intelligence
 created: 2026-04-26
 aliases: [root systems, root communication, [[dighton-mycorrhizal-networks-carbon-transfer]], radicle brain]
 tags: [botany, ecology, soil-science, plant-intelligence]
-related: [tompkins-plant-chemical-communication, tompkins-plant-animal-relationships, tompkins-plant-growth-regulators]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-chemical-communication]], [[tompkins-plant-animal-relationships]], [[tompkins-plant-growth-regulators]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -87,51 +87,4 @@ stimulation just as vigorously as above-ground plant parts. The root tip
 demonstrated the same reflex-arc behavior as leaves, with electrical
 excitation producing mechanical responses.
 
-In Desmodium gyrans (the telegraph plant), Bose found that if the cut
-end of a detached leaflet was dipped in water, it recovered from the
-shock of amputation and began to pulsate anew -- "like an excised
-animal heart which can be kept beating in Ringer's solution." Just as
-the heart stops beating when blood pressure is lowered and starts again
-when pressure is raised, Bose found the same was true for plant
-pulsation when sap pressure was increased or decreased.
-
-## Mycorrhizal Networks
-
-Dr. M.C. Rayner in England discovered that [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] -- whose
-vegetative threads associate with the roots of many green plants in a
-mutually beneficial relationship -- are consumed by tree roots. Sir
-Albert Howard found that the healthiest wine grape vines in France had
-roots rich in mycorrhizae. No artificial fertilizers had ever been used
-on these vines, yet they were noted for the high quality of their wines.
-
-This underground [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] represents a communication and
-nutrient-sharing system linking multiple plants -- a concept that
-anticipated modern understanding of the "wood [[wood-wide-web-theory]]."
-
-## Roots and Orientation
-
-Francé observed that plants are "sentient to orientation and to the
-future." The compass plant (Silphium laciniatum) has leaves that
-accurately indicate north and south, a property used by frontier
-explorers. Roots maintain their own orientation system through
-statoliths -- gravity-sensing starch bodies that function like an
-internal gyroscope.
-
-## Key Quotes
-
-- "It is hardly an exaggeration to say that the tip of the radicle
-  acts like the brain of one of the lower animals." -- Charles Darwin
-- "Man merely thinks plants motionless and feelingless because he will
-  not take the time to watch them." -- Raoul Francé
-- "Plants are capable of intent: they can stretch toward, or seek out,
-  what they want in ways as mysterious as the most fantastic creations
-  of romance." -- Raoul Francé
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-fungal-signaling-mycorrhiza]]
-- mycorrhizal-plant-signaling
-- [[wood-wide-web]]
-- [[silphium-laciniatum]]
-- [[desmodium-gyrans]]
+In [[desmodium-gyrans]] (the telegraph plant), Bose found that if the cut

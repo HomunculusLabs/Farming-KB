@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [water, conservation]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 
@@ -87,59 +88,3 @@ Keyline design fits naturally into [[urban-permaculture-rainwater-harvesting-gra
 ## Related
 
 - edge-effect-in-permaculture
-- [[zone-and-sector-analysis]]
-
-## Merged: Keyline Water Management Mollison
-
-# Keyline Water Management (Mollison)
-
-## The Keyline Approach in Humid Landscapes
-
-Open water storages are peculiarly appropriate to the mesothermal landscape. Soils generally possess sufficient clay fractions (over 40%) to ensure secure dam walls, evaporation does not exceed precipitation in normal years, and there is a wide range of plant and animal species dependent on water for their production.
-
-It is in the classic "S" profile of the humid landscape that Yeomans developed his Keyline approach to farm water management, which integrates open water storage with soil reconditioning, soil water storage, fencing, and farm forestry in a whole system design.
-
-The classic Keyline system of gravity-flow irrigation refers only to gentle foothill country in the headwater regions of first and second order streams, but skilled designers over a very wide range of soils and landscapes can achieve the essentials of drought-proofing by gravity-flow irrigation, soil conditioning prior to forest or pasture establishment, fire control by downslope flooding, and integrated forest-farm systems.
-
-## Design Principles for Humid Area Water Planning
-
-It is in humid landscapes that the techniques of water storage, diversion, and the various uses of stream or overland water flow can be most developed.
-
-The overriding design input into humid-area landscape is therefore planned on the basis of water management, followed by access planning (roads and tracks), then plant and animal system planning. In water planning, we start from the highest accessible slopes, and work out methods to lead water flow via the longest routes downhill (working on or near contour), creating small dams, swales, rip-lines, and (where appropriate) energy systems to take advantage of the abundant rainfall.
-
-This hierarchy of design decisions — water first, access second, systems third — reflects the fundamental role that water plays in humid landscapes. Without adequate water planning, subsequent decisions about roads, buildings, and plantings will inevitably conflict with natural water flows and reduce overall system productivity.
-
-## Functions of Water in the Landscape
-
-Water has all of the following tasks or duties in the landscape:
-
-- As soil and pond storage, to irrigate crops and forests.
-
-- In homes, for cooking, drinking, cleaning, and toilet uses.
-
-- As a source of energy via turbines or as hydraulic pressure.
-
-- In growing fish and aquatic plants; as a growing medium in itself.
-
-- As a carrier for nutrients. Nutrients added to upstream or uphill areas are distributed downstream to crops.
-
-- Recreational and aesthetic uses.
-
-Understanding these multiple functions is essential for permaculture design. Water should be used as many times as possible as it moves through a landscape — first for domestic use, then for irrigation, then for aquaculture, and finally for wildlife habitat before leaving the site.
-
-## Keyline Irrigation for Livestock
-
-Ideally, long-rotation grazing systems use 15-18 fields with 18-20 month rotation, allowing 20-30 days per field, combined with Keyline irrigation for beef and sheep production. This integration of water management with planned grazing creates drought-proof systems that maintain productive perennial pastures.
-
-The combination of strategic water placement with [[comparison-rotational-grazing-vs-continuous-grazing]] allows livestock to harvest their own forage efficiently while the water system maintains pasture productivity through dry periods. This approach eliminates the need for supplementary feeding and reduces the overall energy inputs required for livestock production.
-
-## Gravity Flow Systems
-
-Gravity flow from high dams through the landscape is the most energy-efficient irrigation method. Water stored at elevation needs no pumping, and can be distributed through channels, pipes, or flood-flow techniques down slopes. In the humid landscape, the abundance of rainfall makes storage and controlled release more important than pumping.
-
-The Keyline pattern follows the natural S-curve of valleys in foothill country, where water is guided from the keypoint (the point where the steep valley walls flatten out) along contour lines to spread water across the full width of the valley. This prevents concentration of runoff in valley floors and distributes infiltration evenly across the landscape.
-
-## Soil Conditioning Integration
-- [[water-management]]
-- [[keyline-design]]
-- [[permaculture-design]]

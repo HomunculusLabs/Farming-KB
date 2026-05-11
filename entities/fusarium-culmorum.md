@@ -13,7 +13,7 @@ sources:
 
 ## Overview
 
-fusarium culmorum is an important soil-borne fungal plant pathogen belonging to the phylum [[soil-food-web]] dynamics as a food resource for soil fauna.
+fusarium culmorum is an important soil-borne fungal plant pathogen belonging to the phylum [[soil-foodweb]] dynamics as a food resource for soil fauna.
 
 ## Taxonomy
 

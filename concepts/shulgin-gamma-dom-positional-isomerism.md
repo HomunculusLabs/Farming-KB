@@ -39,8 +39,8 @@ This comparison is immediately revealing. The 2,5-dimethoxy arrangement (DOM) is
 
 ## The Importance of the 2,5-Dimethoxy Pattern
 
-The 2,5-dimethoxy arrangement is the most common and potent pattern found across psychedelic phenethylamines and amphetamines. This pattern appears in:
-- Mescaline (3,4,5-trimethoxyphenethylamine) — contains the 3,4,5 pattern
+The 2,5-dimethoxy arrangement is the most common and potent pattern found across [[psychedelic-phenethylamines-and-pihkal]] amphetamines. This pattern appears in:
+- [[mescaline]] (3,4,5-trimethoxyphenethylamine) — contains the 3,4,5 pattern
 - 2C-B, 2C-I, 2C-E, 2C-D — all 2,5-dimethoxy-4-substituted
 - DOB, DOI, DOC, DOM — all 2,5-dimethoxy-4-substituted amphetamines
 
@@ -87,39 +87,3 @@ Closed-eye fantasy and shaped imagery were described as "quite remarkable." Howe
 | Character | Classic psychedelic | "Interpretive," dissociative quality |
 | Onset speed | Slow (1-2 h) | Not explicitly noted |
 | Sleep interference | Severe (sleep impossible until 20h) | Minimal (good sleep reported) |
-
-## The Motor Oil Additive Naming Convention
-
-Gamma-DOM's Z-7 designation continues the peculiar tradition of naming DOM-related compounds after motor oil additives:
-- **STP**: Scientifically Treated Petroleum — the original
-- **F-310**: A Chevron Oil product — applied to 2,4-dimethoxy-5-methyl isomer
-- **F-320**: Invented at UCSF Pharmaceutical Chemistry — applied to 4,5-dimethoxy-2-methyl isomer
-- **Z-7**: Another oil additive — applied to the 2,6-dimethoxy-4-methyl isomer
-
-Shulgin noted that this naming convention is unrelated to another series of compounds designated with "F" prefixes (F-2, F-22), which were furans rather than motor oil additives.
-
-## Pharmacological Implications
-
-### Reduced Potency from Ring Pattern Shift
-
-The five-fold reduction in potency when moving from the 2,5- to the 2,6-dimethoxy arrangement strongly supports the hypothesis that the spatial arrangement of methoxyl groups is critical for 5-HT2A receptor binding. The 2,5 arrangement positions the methoxyl groups in a configuration that matches the receptor's binding pocket geometry, while the 2,6 arrangement does not.
-
-### Shorter Duration
-
-The dramatically shorter duration (6-8 hours versus 14-20 hours for DOM) may relate to differences in metabolic stability or receptor binding kinetics. The 2,5 arrangement may allow tighter binding or slower dissociation from the receptor, or may produce metabolites that are themselves active.
-
-### Different Character
-
-The "interpretive" quality of gamma-DOM, as opposed to the classic psychedelic profile of DOM, suggests that while both compounds likely act primarily through 5-HT2A receptors, the different substitution patterns may engage additional receptor subtypes or produce different patterns of downstream signaling.
-
-## Historical Context
-
-Gamma-DOM was synthesized and tested as part of the broader research program at UCSF in the 1960s, during which a number of shulgin gamma dom positional isomerism isomers were explored. This work was part of the systematic investigation of structure-activity relationships that Shulgin and colleagues pursued. The compound was never widely distributed and remained a laboratory curiosity, unlike DOM which achieved notoriety as STP.
-
-## See Also
-
-- [[shulgin-dom-stp-phenethylamine-amphetamine-relationship]]
-- [[pihkal-dob]]
-- [[pihkal-2c-b]]
-- 5-HT2A Receptor
-- Shulgin's Synthetic Methods

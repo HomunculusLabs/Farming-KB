@@ -12,7 +12,7 @@ sources: []
 ---
 # Pluteus glaucus
 
-Pluteus glaucus is a psychoactive mushroom in the family
+Pluteus glaucus is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the family
 Pluteaceae, recognized as one of the psilocybin-containing
 members of the genus Pluteus. The genus Pluteus is
 distinguished by its free gill attachment and pink
@@ -23,7 +23,7 @@ stumps, and [[fungal-succession-woody-debris-ecology]] in temperate forests. The
 name "glaucus" refers to the bluish-grey or glaucous
 coloration that is characteristic of fresh specimens, a
 feature that hints at its psychoactive chemistry. While
-less well-known than the Psilocybe genus, Pluteus species
+less well-known than the [[psilocybe-genus-biogeography-tropical-temperate]], Pluteus species
 with psilocybin represent an important and often overlooked
 component of the global [[global-distribution-of-neurotropic-fungi]] fungi.
 The documentation of psilocybin in Pluteus species expanded
@@ -38,9 +38,9 @@ distributed across the Agaricales.
 - **Synonyms:** Some historical treatments may have placed
   this species under different names within the large
   and taxonomically complex genus Pluteus
-- **Type locality:** Temperate regions (likely Europe)
+- **Type locality:** [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] (likely Europe)
 - **Notes:** The genus Pluteus is defined by free gills
-  (not attached to the stem) and a pink spore print,
+  (not attached to the stem) and a pink [[boil-a-bag-spore-print-technique-jarrold]],
   features that distinguish it from genera like Psilocybe
   (adnate to sinuate gills, dark purplish-brown print)
   and Gymnopilus (adnate to decurrent, rusty print)
@@ -81,65 +81,10 @@ distributed across the Agaricales.
 ### Spores and Microscopy
 | Feature | Description |
 |---|---|
-| Spore print | Pink to salmon-pink |
+| [[spore-print]] | Pink to salmon-pink |
 | Spore shape | Broadly ellipsoid to subglobose |
 | Spore size | 6–8 x 5–7 µm |
 | Spore wall | Smooth, thin-walled |
 | Germ pore | Absent |
 | Basidia | Four-spored, clavate |
 | Cheilocystidia | Present, diverse morphology |
-| Pleurocystidia | Present, conspicuous, thin-walled or |
-|                 | thick-walled, often with apical |
-|                 | appendages (diverticulate) |
-| Pileipellis | Cutis of cylindrical hyphae |
-| Clamp connections | Present |
-## Distribution and Habitat
-- **Geographic range:** Temperate regions of Europe and
-  [[psilocybin-north-america-pacific-northwest]]; reported from forested areas of Asia
-  where suitable habitat exists
-- **Substrate:** Saprotrophic, growing exclusively on dead
-  wood of broadleaf trees (especially Fagus, Quercus,
-  Betula, Alnus, and Fraxinus); rarely on coniferous wood
-- **Habitat:** Deciduous and mixed forests, woodlands,
-  parks, and forest margins; found on fallen logs, stumps,
-  branches, and woody debris in various stages of decay
-- **Seasonality:** Summer through autumn (June to November
-  in the Northern Hemisphere); occasional fruiting in
-  mild winter periods
-- **Frequency:** Moderately common in suitable habitat but
-  easily overlooked due to small size and tendency to blend
-  with the wood surface
-## Chemistry and Active Compounds
-Pluteus glaucus is confirmed as a psilocybin-containing
-species, contributing to the recognition that psychoactive
-tryptamines are more broadly distributed across agaric
-genera than was historically appreciated:
-- **Psilocybin:** Detected in low to moderate
-  concentrations; less potent on average than most
-  Psilocybe species, but sufficient to produce
-  detectable psychoactive effects
-- **Psilocin:** Present in minor amounts, likely resulting
-  from partial dephosphorylation of psilocybin during
-  sample preparation and storage
-- **Baeocystin:** Detected in trace quantities in some
-  analytical studies
-- **Note on potency:** As with most psilocybin-containing
-  fungi, published potency figures are derived from dried
-  herbarium specimens and may significantly underestimate
-  the concentrations present in fresh material. Specimen
-  age, [[vegetable-storage-conditions-by-temperature-and-humidity]], and geographic origin all
-  influence reported alkaloid levels
-## Similar Species
-| Species | Distinguishing Features |
-|---|---|
-| [[archaeology-of-psychedelic-mushroom-use]] | Darker cap; less glaucous tinge |
-| Pluteus cervinus | Larger, brown; very common, inactive |
-| Pluteus leoninus | Bright yellow cap; distinctive color |
-| Pluteus romellii | Yellow cap; found on conifer wood |
-| Pluteus umbrosus | Darker brown; larger stature |
-## See Also
-
-- [[pluteus-salvinus]]
-- [[psilocybe-cubensis]]
-- [[psilocybe-cyanescens]]
-- [[panaeolus-subbalteatus]]

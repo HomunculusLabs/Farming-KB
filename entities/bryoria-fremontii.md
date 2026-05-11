@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T. (1999). "Lichens of British Columbia." Royal BC Museum.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." Oregon State University Press.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[psilocybin-north-america-pacific-northwest]]." Oregon State University Press.
   - Turner, N.J. (1997). "The Food and Technology of the Thompson Indians." UBC Press.
 ---
 
@@ -40,7 +40,7 @@ The surface is typically shiny when dry and darker when wet. Branching pattern i
 
 Bryoria fremontii occurs across western North America from southern Alaska through the Pacific Northwest, inland to the Rocky Mountains, and south into California and northern Mexico.
 
-It is most abundant in montane and subalpine coniferous forests, particularly those dominated by **Douglas-fir** (*Pseudotsuga menziesii*), **western hemlock** (*Tsuga heterophylla*), and **subalpine fir** (*Abies lasiocarpa*).
+It is most abundant in montane and subalpine coniferous forests, particularly those dominated by **Douglas-fir** (*[[pseudotsuga-menziesii]]*), **western hemlock** (*[[tsuga-heterophylla]]*), and **subalpine fir** (*Abies lasiocarpa*).
 
 The species is strongly associated with old-growth and late-successional forests. It requires clean air and moderate humidity, making it an indicator of forest continuity and air quality.
 
@@ -76,43 +76,14 @@ Vitamin content is not well characterized. Traditional pit-cooking likely improv
 
 The primary secondary metabolites of *Bryoria fremontii* are **divaricatic acid** and trace amounts of **usnic acid**. These compounds contribute to the lichen's bitter taste and have documented [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
 
-Divaricatic acid is a depside with demonstrated activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*. Usnic acid, found in larger quantities in related *Bryoria* species, is a potent antibacterial agent.
+Divaricatic acid is a depside with demonstrated activity against Gram-positive bacteria, including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*. Usnic acid, found in larger quantities in related *Bryoria* species, is a potent antibacterial agent.
 
 The concentration of secondary compounds varies with elevation, light exposure, and season. Higher elevation populations tend to produce more usnic acid, which may serve as a UV-protective screening pigment.
 
 Traditional pit-cooking effectively reduces these bitter compounds to palatable levels. Modern nutritional studies have confirmed that prolonged heating degrades both divaricatic and usnic acid by 70–90%.
 
-**Toxic confusion risk:** *Bryoria tortuosa* contains significantly higher concentrations of vulpinic acid, a hepatotoxic yellow pigment. Harvesters must distinguish the two species, as vulpinic acid is not fully removed by traditional cooking methods.
+**Toxic confusion risk:** *Bryoria tortuosa* contains significantly higher concentrations of vulpinic acid, a hepatotoxic yellow pigment. Harvesters must distinguish the two species, as vulpinic acid is not fully removed by traditional [[solar-cooking-methods]].
 
 ## Ecology and Symbiosis
 
 Bryoria fremontii is a dual organism composed of a fungal partner (mycobiont, genus *Bryoria*) and a photosynthetic partner (photobiont, the green alga *Trebouxia*).
-
-The lichen plays an important ecological role in forest canopies. It intercepts atmospheric nutrients, particularly nitrogen from fog and precipitation, and contributes to canopy [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] when fragments fall to the forest floor.
-
-It provides microhabitat and foraging substrate for various invertebrates, including mites, springtails, and certain moth larvae. Several arthropod species are specialized lichen feeders.
-
-*Bryoria fremontii* is moderately sensitive to air pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Its presence or absence serves as a bioindicator of forest air quality.
-
-## Related Species
-
-*Bryoria fremontii* belongs to a genus of approximately 70 species worldwide. The genus is divided into two main chemistry-based groups: the **fremontii-type** (containing divaricatic acid) and the **tortuosa-type** (containing vulpinic acid and usnic acid).
-
-*Bryoria fuscescens* is the most widespread species in the genus, occurring across boreal and temperate regions of the Northern Hemisphere. It is darker and more finely branched than *B. fremontii*.
-
-*Bryoria tortuosa* (the "toxic horsehair lichen") is distinguished by its yellowish-brown coloration from vulpinic acid deposits. It is common in subalpine habitats and can be fatal to livestock if ingested in quantity.
-
-*Bryoria capillaris* is a smaller, more delicate species found at high elevations in the Rocky Mountains. It lacks significant secondary chemistry and is rarely collected for food.
-
-## See Also
-
-- [[populus-fremontii]]
-- [[bryoria-caperata]]
-- [[bryoria-implexa]]
-
-- [[cladonia-rangiferina]]
-- [[evernia-prunastri]]
-- [[usnea-barbata]]
-- [[xanthoria-parietina]]
-- [[ramalina-fastigiata]]
-- [[lecanora-muralis]]

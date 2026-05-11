@@ -1,8 +1,8 @@
 ---
-title: "Escovopsis and escovopsis parasitic fungi attine ant gardens of Attine Ant Gardens"
+title: Escovopsis Parasitic Fungi Attine Ant Gardens
 created: 2026-04-26
 tags:
-  - mycology
+  - [[mycology]]
   - symbiosis
   - insect-fungal-interactions
   - coevolution
@@ -18,7 +18,7 @@ type: concept
 ant-fungus partnership. The most significant of these is
 Escovopsis, a genus of ascomycete fungi that parasitizes
 the cultivated fungal gardens and represents a major
-threat to ant colonies. The evolutionary arms race between
+threat to ant colonies. The evolutionary [[bloomfield-plant-hypersensitive-response-rust-arms-race]] between
 attine ants and Escovopsis, mediated by mutualistic
 actinobacteria, provides one of the clearest examples of
 coevolutionary dynamics in [[ant-termite-fungal-symbiosis]].
@@ -88,24 +88,3 @@ represents a tripartite coevolutionary interaction.
 Some attine ants produce antimicrobial glandular
 secretions that contribute to garden hygiene. The
 metapleural gland, present in many ants, produces
-antifungal compounds that help protect the colony.
-
-## Biogeographic Patterns
-
-The biogeographic breadth of the attine symbiosis extends
-from the southern [[dmt-containing-plants-united-states-halpern]] through Central and South
-America, with the highest diversity in the Neotropics.
-The absence of fungus-growing termites in the Neotropics
-distinguishes this region from Africa and [[psilocybe-southeast-asia-pacific]],
-where termite-fungus agriculture has evolved independently.
-The diversity of Escovopsis and other garden parasites
-likely mirrors the phylogenetic diversity of the attine
-ants and their cultivars.
-
-## Merged: What Is the Difference Between Saprotrophic and Parasitic Fungi?
-
-# What Is the Difference Between Saprotrophic and Parasitic Fungi?
-
-## See Also
-
-- [[dematiaceous-fungi-melanin-fungal-ecology]]

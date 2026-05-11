@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Lakušić D. et al. (2006). "Phylogeny and biogeography of Edraianthus (Campanulaceae)." Molecular Phylogenetics and Evolution 39(2): 361–374.
-  - Steele B.E. (2003). "Edraianthus: Jewels of the Balkans." Rock Garden Quarterly 61(1): 28–35.
+  - Steele B.E. (2003). "Edraianthus: Jewels of the Balkans." [[hamilton-rock-garden-design]] Quarterly 61(1): 28–35.
 ---
 
 ## Overview
@@ -54,11 +54,11 @@ The species is locally abundant in suitable habitat across the Dinaric Alps and 
 
 ## Ecology
 
-Flowering extends from June to August, peaking in July at higher elevations. Flowers are visited by bumblebees and solitary bees, though the species is also capable of self-pollination.
+Flowering extends from June to August, peaking in July at higher elevations. Flowers are visited by bumblebees and [[comparison-honey-bees-vs-native-solitary-bees]], though the species is also capable of self-pollination.
 
 The grass-like leaves are an adaptation to reduce water loss in the exposed, windy habitats the species occupies. This convergent leaf form has evolved independently in many Mediterranean alpine lineages.
 
-Seed dispersal is limited, with most seeds falling within 20 cm of the parent plant. Colonization of new cliff faces depends on occasional long-distance dispersal events, likely mediated by birds or wind.
+[[clay-pellet-seed-dispersal]] is limited, with most seeds falling within 20 cm of the parent plant. Colonization of new cliff faces depends on occasional long-distance dispersal events, likely mediated by birds or wind.
 
 Edraianthus graminifolius co-occurs with other Balkan limestone endemics including Amphoricarpos neumayerianus, Daphne blagayana, and Saxifraga paniculata. It shares cliff habitats with [[campanula-pyramidalis]] in the southern part of its range.
 
@@ -72,7 +72,7 @@ Propagation is by seed sown in late winter or by careful division of established
 
 Plants are long-lived in cultivation, forming impressive cushions 15–20 cm across over 8–10 years. They are particularly effective when planted in vertical crevices of a rock wall or tufa garden.
 
-Slugs and snails occasionally damage new growth in spring but rarely threaten established plants. No significant diseases affect the species in cultivation.
+[[jadam-pesticide-for-slugs-and-snails]] occasionally damage new growth in spring but rarely threaten established plants. No significant diseases affect the species in cultivation.
 
 ## Conservation
 
@@ -80,19 +80,11 @@ Edraianthus graminifolius is classified as Least Concern across its range due to
 
 The species occurs within several national parks including Durmitor National Park (Montenegro) and Vikos-Aoos National Park (Greece). These protected areas cover significant portions of the species' range.
 
-Climate change poses a potential long-term threat through upward shift of competing vegetation and altered precipitation patterns. However, the species' occurrence on near-vertical substrates provides some buffer against vegetation encroachment.
+[[dighton-fungal-responses-climate-change]] poses a potential long-term threat through upward shift of competing vegetation and altered precipitation patterns. However, the species' occurrence on near-vertical substrates provides some buffer against vegetation encroachment.
 
-Collection from wild populations for horticultural trade has been reported in Montenegro but is not considered a major threat at present. Most nursery stock derives from garden-collected seed.
+Collection from wild populations for horticultural trade has been reported in Montenegro but is not considered a major threat at present. Most [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]] derives from garden-collected seed.
 
 ## See Also
 
 - [[campanula-pyramidalis]]
 - [[campanula-garganica]]
-- [[campanula-portenschlagiana]]
-- [[campanula-punctata]]
-- [[lobelia-cardinalis]]
-- [[lobelia-erinus]]
-- [[campanula-raineri]]
-- [[campanula-zoysii]]
-- [[phyteuma-spicatum]]
-- [[jasione-montana]]

@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Landolt E (1986). "The Family of Lemnaceae — A Monographic Study." Veröffentlichungen des Geobotanischen Institutes ETH, Stiftung Rübel, Zürich.
-  - Cross JW (2002). "Lemnaceae." In: Flora of North America North of Mexico, Vol. 22.
+  - Cross JW (2002). "Lemnaceae." In: Flora [[berry-growing]] North of Mexico, Vol. 22.
   - Cesario SA, Irfan M, Naeem M (2018). "Phytoremediation Potential of Duckweed (Lemna gibba) for Nutrient Removal." Environmental Technology 39(16): 2053–2064.
   - Ziegler P, Adelmann K, Zimmer S (2015). "Relative in vitro Growth Rates of Duckweeds (Lemnaceae)." Frontiers in Plant Science 6: 380.
   - Appenroth KJ, Sree KS, Böhm K (2013). "Facts About Duckweeds." In: "Duckweed Aquaculture." Springer.
@@ -24,7 +24,7 @@ The species is distinguished by its swollen, gibbous underside, which gives the 
 
 Lemna gibba is recognized for its extremely rapid vegetative growth rate. Under optimal conditions, biomass can double in as little as 1.5–3 days through clonal reproduction.
 
-The species has attracted considerable interest for phytoremediation applications. Its capacity for nutrient absorption, particularly nitrogen and phosphorus, makes it effective for wastewater treatment.
+The species has attracted considerable interest for phytoremediation applications. Its capacity for nutrient absorption, particularly nitrogen and phosphorus, makes it effective for [[constructed-wetland-design]].
 
 ## Taxonomy and Morphology
 
@@ -54,9 +54,9 @@ The turions are smaller and denser than normal fronds, with reduced aerenchyma a
 
 ## Distribution and Habitat
 
-Lemna gibba has a nearly cosmopolitan distribution. It occurs across temperate, subtropical, and tropical regions of all continents except Antarctica.
+Lemna gibba has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. It occurs across temperate, subtropical, and [[fukuoka-natural-farming-in-tropical-regions]] of all continents except Antarctica.
 
-In North America, the species ranges from southern Canada through the United States to Central America. In Europe, it is widespread from the Mediterranean to Scandinavia.
+In North America, the species ranges from southern Canada through the United States to [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. In Europe, it is widespread from the Mediterranean to Scandinavia.
 
 The plant colonizes a broad spectrum of freshwater habitats. These include ponds, lakes, slow-moving streams, ditches, marshes, and rice paddies.
 
@@ -86,35 +86,4 @@ Waterfowl feed on Lemna gibba, particularly during migration. Ducks, geese, and 
 
 The rapid growth rate of Lemna gibba makes it a primary producer of significant biomass in nutrient-enriched waters. Annual net primary productivity can exceed 20 tonnes per hectare in favorable conditions.
 
-Nutrient uptake by Lemna gibba mats can substantially reduce nitrogen and phosphorus concentrations in the water column. This capacity is the basis for its use in constructed treatment wetlands.
-
-Competition with other duckweed species, particularly Lemna minor, influences distribution patterns. Lemna gibba tends to dominate in warmer, more nutrient-rich waters, while Lemna minor is more common in cooler conditions.
-
-The species supports a diverse epiphytic microbial community on its frond surfaces. Bacteria, fungi, and algae associated with duckweed fronds contribute to nutrient cycling and organic matter decomposition.
-
-## Uses and Applications
-
-Lemna gibba is widely used in phytoremediation systems for wastewater treatment. Pilot and operational systems have demonstrated effective removal of nitrogen, phosphorus, and heavy metals from municipal and agricultural wastewater.
-
-The harvested biomass can be processed into animal feed, compost, or biogas through anaerobic digestion. Protein content of dried Lemna gibba ranges from 20–35% of dry weight, making it comparable to conventional animal feed sources.
-
-In aquaculture, Lemna gibba is cultivated as feed for herbivorous fish and tilapia. Its rapid growth and high nutritional value make it a cost-effective supplemental feed.
-
-The species has been investigated for biofuel production. The high starch content of turions and the rapid biomass accumulation rates make Lemna gibba a candidate feedstock for ethanol production.
-
-Traditional medicinal uses of Lemna gibba include applications in folk medicine for treating skin conditions and reducing inflammation. Modern pharmacological studies have identified bioactive compounds with antioxidant and antimicrobial properties.
-
-Duckweed-based wastewater treatment systems are simple to construct and operate. They require minimal energy input and can be implemented in rural areas lacking conventional treatment infrastructure.
-
-Research into genetic modification of Lemna gibba has explored enhanced phytoremediation capacity and increased starch accumulation for biofuel applications. The small genome and rapid life cycle make it a practical model system for molecular biology studies.
-
-## See Also
-
-- [[lemna-minor]]
-- [[lemna-trisulca]]
-- [[eichhornia-crassipes]]
-- [[pistia-stratiotes]]
-- [[azolla-filiculoides]]
-- [[salvinia-molesta]]
-- [[ceratophyllum-demersum]]
-- [[elodea-canadensis]]
+Nutrient uptake by Lemna gibba mats can substantially reduce nitrogen and phosphorus concentrations in the water column. This capacity is the basis for its use in constructed [[mollison-designers-wastewater-treatment-wetlands]].

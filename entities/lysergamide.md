@@ -88,29 +88,3 @@ Semi-synthetic derivatives are produced by modifying the amide substituent of ly
 The Hofmann and Stoll synthesis developed at Sandoz Laboratories in the 1930s established the chemical methodology for converting lysergic acid into diverse amide derivatives, culminating in the serendipitous discovery of LSD by Albert Hofmann in 1943. Modern synthetic routes employ peptide coupling reagents such as EDC/HOBt or DCC to achieve high-yield amide bond formation with various amine nucleophiles.
 
 Major lysergamide derivatives include LSD (diethylamide), LSA (ergine/lysergic acid amide), AL-LAD (6-allyl-6-nor-LSD), ETH-LAD (6-ethyl-6-nor-LSD), 1P-LSD (1-propionyl-LSD), and numerous designer analogs. The N-6 substituted lysergamides (AL-LAD, ETH-LAD, 1P-LSD) are typically active at doses comparable to or slightly higher than LSD.
-
-More recent additions to the lysergamide family include LSZ (lysergic acid 2,4-dimethylazetidide) and ETH-LAD derivatives with varied N-6 substituents. The emergence of N-1 substituted prodrug lysergamides (1P-LSD, 1V-LSD, 1B-LSD) since 2015 has created a legally distinct but pharmacologically equivalent class of compounds that convert to LSD in vivo through hepatic deacylation.
-
-## Legal Status
-
-Lysergamides are regulated internationally under the United Nations Convention on Psychotropic Substances (1971).
-
-LSD is listed in Schedule I, while many newer lysergamide analogs occupy legal gray areas in various jurisdictions depending on specific structural provisions of national controlled substance legislation. The 1971 Convention's coverage of lysergamide derivatives was primarily drafted with LSD in mind, leaving many structural analogs in a regulatory ambiguity that has only been addressed incrementally by individual nations.
-
-In the United States, the Federal Analogue Act potentially extends Schedule I status to lysergamides "substantially similar" to LSD, though enforcement has primarily targeted specific compounds through emergency scheduling actions by the DEA. 1P-LSD and other prodrug lysergamides have been subject to emergency scheduling in multiple countries since 2016.
-
-Despite legal restrictions, lysergamide research has experienced a significant resurgence since 2020. Modern clinical trials have investigated LSD-assisted psychotherapy for major depressive disorder, anxiety associated with life-threatening illness, and cluster headache prophylaxis, with promising preliminary results from Phase II studies conducted in Switzerland, the United Kingdom, and the United States.
-
-Research use of lysergamides has historically been severely restricted, though regulatory changes in Switzerland, Canada, Australia, and several US states since 2022 have facilitated renewed clinical investigation of LSD and related compounds for treatment-resistant depression, cluster headaches, and end-of-life anxiety.
-
-Non-psychedelic lysergamide derivatives continue to serve important medical functions. Pergolide and cabergoline are dopamine D2 agonists used in the treatment of hyperprolactinemia and Parkinson's disease, while nicergoline is prescribed for cerebrovascular and cognitive disorders. These therapeutic applications demonstrate the versatility of the lysergamide scaffold beyond its psychoactive derivatives.
-
-## See Also
-
-- [[1v-lsd]]
-- [[chanoclavine]]
-- [[ergine-entity]]
-- [[ergocornine]]
-- [[ergotamine]]
-- [[lysergic-acid]]
-- [[lysergol]]

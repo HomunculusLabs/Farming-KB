@@ -22,7 +22,7 @@ sources:
   - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
   - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytomedicine 19(2): 97–107.
-  - Do, T.K.D. et al. (2015). "Chemical composition of essential oils." In: Essential Oils in Food Preservation. Springer.
+  - Do, T.K.D. et al. (2015). "Chemical composition of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." In: Essential Oils in Food Preservation. Springer.
 ---
 
 # Terpinolene
@@ -39,7 +39,7 @@ in the flavor and fragrance industry.
 Despite being classified as one of the major [[query-what-are-cannabis-terpenes-and-why-do-they-matter]], terpinolene is
 typically present at low concentrations (under 1%) in most cannabis cultivars,
 with exceptions in selectively bred "terpinolene-dominant" chemovars such as
-Golden Pineapple and Sensi Star.
+Golden Pineapple and [[sensi-star]].
 
 ## Chemical Properties
 
@@ -78,7 +78,7 @@ Terpinolene contributes a multifaceted sensory profile:
 - **Secondary notes:** Floral (lilac-like), slightly fruity (apple, citrus),
   with a faintly sweet quality.
 - **Role in cannabis:** Adds complexity and "lift" to the overall aroma.
-  Often described as the most complex-smelling of the common cannabis terpenes
+  Often described as the most complex-smelling of the common [[cannabis-terpene-entourage-effect]]
   because of its multi-layered character.
 - **Industrial use:** Employed in soaps, lotions, perfumes, and as a flavoring
   agent in food products at low concentrations.
@@ -87,54 +87,3 @@ Terpinolene contributes a multifaceted sensory profile:
 
 Preclinical studies have identified several potentially bioactive properties
 of terpinolene, though clinical evidence remains limited:
-
-- **Sedative effects:** Inhalation of terpinolene vapor produced sedative
-  and anxiolytic-like effects in mouse models, suggesting potential CNS
-  depressant activity. This contrasts with the stimulating profile of limonene.
-- **Antioxidant activity:** Demonstrated free radical scavenging capacity
-  in DPPH and ABTS assays, though potency is moderate compared to other
-  monoterpenes such as α-pinene.
-- **Anticancer potential:** In vitro studies showed terpinolene inhibited
-  proliferation of certain cancer cell lines (including neuroblastoma and
-  liver cancer cells) through modulation of reactive oxygen species and
-  induction of apoptosis.
-- **Antimicrobial:** Moderate antibacterial and antifungal activity against
-  Gram-positive bacteria and Candida species.
-
-## Presence in Cannabis
-
-Terpinolene is classified as one of the "major" cannabis terpenes despite
-its typically low abundance:
-
-- **Typical concentration range:** 0.1–1.0% of total terpene profile in most
-  cannabis chemovars.
-- **Dominant cultivars:** Select strains bred for terpinolene expression
-  can reach 1–3%, including Golden Pineapple, Dutch Treat, and Sensi Star.
-- **[[beta-caryophyllene-entourage-effects-cannabis]]:** Terpinolene's sedative properties may synergize
-  with THC to modulate the overall psychoactive experience, potentially
-  contributing to the "couch-lock" effect in indica-dominant strains where
-  it is present.
-- **Analytical significance:** Used as a marker compound in cannabis
-  chemovar classification and authentication.
-
-## Safety and Regulatory Status
-
-- Generally recognized as safe (GRAS) by the US FDA as a food flavoring agent.
-- Low acute toxicity (LD₅₀ > 5 g/kg oral, rat).
-- Skin sensitization potential is low but has been reported in isolated cases
-  at high concentrations in essential oil preparations.
-- No known [[cannabis-drug-interactions-and-contraindications]] at typical dietary exposure levels.
-
-## Related Compounds
-
-- **α-Terpinene** — Structural isomer; more common in cardamom and marjoram.
-- **γ-Terpinene** — Isomer; major component of cumin and grapefruit oil.
-- **Limonene** — Isomer; the most abundant monoterpene in cannabis and citrus.
-- **Myrcene** — Acyclic monoterpene; the most common cannabis terpene overall.
-
-## See Also
-
-- [[limonene]]
-- [[beta-caryophyllene]]
-- [[pinene]]
-- cannabis terpenes

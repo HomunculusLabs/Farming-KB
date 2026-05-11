@@ -87,30 +87,3 @@ The species frequently co-occurs with other wood-inhabiting fungi including [[gr
 Laboratory studies have demonstrated that T. hispida can degrade [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs) and synthetic dyes. This highlights its potential for mycoremediation of contaminated soils and [[mollison-designers-wastewater-treatment-wetlands]].
 
 Its enzyme systems also contribute to the delignification of woody debris, facilitating subsequent colonization by cellulolytic and humus-forming microorganisms. This positions T. hispida as an important facilitator of broader decomposer community succession.
-
-In North American hardwood forests, T. hispida is one of the first poroid fungi to colonize recently fallen oak and maple branches. Its ability to persist through dry periods gives it an advantage over moisture-requiring species like Ganoderma applanatum on exposed substrates.
-
-Studies using molecular barcoding have revealed that T. hispida harbors a diverse community of bacterial endosymbionts within its fruiting bodies. These bacterial associates may contribute to enzyme production and substrate processing, though their functional roles remain under investigation.
-
-## Cultivation
-
-T. hispida is not commercially cultivated for food or medicine. However, it has been grown in laboratory settings for enzyme production using [[cancer-medicinal-mushrooms-submerged-fermentation-production]] on various lignocellulosic substrates.
-
-Optimal laccase production occurs at pH 4.5–5.5 and temperatures of 25–28 °C. Supplementation with aromatic inducers such as guaiacol or veratryl alcohol significantly boosts enzyme yields. Wheat straw and oak sawdust serve as effective basal substrates.
-
-Solid-state fermentation on agricultural residues has also been explored as a cost-effective approach for laccase production. Corn stover, rice bran, and wheat bran support substantial enzyme titers when supplemented with nitrogen sources such as ammonium nitrate or peptone.
-
-The species has not been domesticated for fruiting-body production, and its tough, corky texture offers no culinary incentive. Its primary cultivation interest remains in industrial enzyme biotechnology and potential scale-up for bioremediation applications.
-
-## See Also
-
-- [[robinia-hispida]]
-
-- [[trametes-hirsuta]]
-- [[coriolopsis-gallica]]
-- [[bjerkandera-adusta]]
-- [[polyporus-umbellatus]]
-- [[trametes-ochracea]]
-- [[pleurotus-ostreatus]]
-- [[wolfiporia-cocos]]
-- [[xylaria-polymorpha-entity]]

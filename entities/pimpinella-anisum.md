@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural
     Ingredients." Wiley.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
-  - Parejo, I. et al. (2002). "LC-MS Analysis of Phenolic Compounds
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
+  - Parejo, I. et al. (2002). "LC-MS Analysis of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
     in Pimpinella anisum." J. Agric. Food Chem. 50: 3761–3767.
   - WHO Monographs (2007). "Pimpinella anisum." Vol. 3.
 ---
@@ -31,7 +31,7 @@ most widely used spices in human history, dating back over 4,000 years.
 
 The seeds contain 2–6% [[permaculture-designers-manual-essential-oil-plants]] dominated by trans-anethole (80–95%),
 which gives anise its characteristic sweet, licorice-like flavor. Anise has
-been used as a culinary spice, medicinal herb, and fragrance ingredient
+been used as a culinary spice, [[medicinal-herb-growing]], and fragrance ingredient
 across Greek, Roman, Egyptian, Indian, and Chinese traditions.
 
 ## Taxonomy and Morphology
@@ -55,7 +55,7 @@ five prominent ridges. These are the commercial "aniseed."
 ## Distribution and Cultivation
 
 Native to the eastern Mediterranean (Egypt, Turkey, Levant) and Southwest
-Asia. Naturalized in southern Europe, North Africa, and South America.
+Asia. Naturalized in southern Europe, North Africa, and [[guzman-psilocybin-mushrooms-south-america]].
 Major producers: Egypt, Turkey, Spain, China, India.
 
 Anise prefers well-drained loam soils (pH 6.0–7.5), full sun, and
@@ -72,8 +72,8 @@ Essential oil dominated by **trans-anethole** (80–95%), with minor
 constituents: estragole (0.5–5%), anisaldehyde (0.1–1%), limonene
 (trace–1%), γ-himachalene (trace–0.5%).
 
-Non-volatile constituents include flavonoids (quercetin, apigenin, luteolin
-glycosides), coumarins, phenylpropanoids, sterols (stigmasterol,
+Non-volatile constituents include flavonoids ([[quercetin]], apigenin, luteolin
+glycosides), coumarins, phenylpropanoids, sterols ([[stigmasterol]],
 β-sitosterol), and fixed oil (16–23% of seed weight, rich in petroselinic
 acid).
 
@@ -88,38 +88,3 @@ medicine as carminative, expectorant, galactagogue, and antispasmodic.
 - **Expectorant:** Increases respiratory mucus secretion. EMA-approved for
   upper respiratory catarrh.
 - **Galactagogue:** Anethole has estrogenic activity; clinical evidence
-  supports modest increase in breast milk production.
-- **Antimicrobial:** Essential oil active against Gram-positive bacteria
-  and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]].
-- **Antioxidant:** Flavonoid fraction shows significant free radical
-  scavenging activity.
-
-## Culinary Applications
-
-- **Baked goods:** Italian pizzelle, German Springerle, Indian mukhwas.
-- **Beverages:** Greek ouzo, Turkish raki, French pastis, Latin atole.
-- **Confectionery:** Anise-flavored licorice, anisette liqueur.
-- **Spice blends:** Chinese five-spice, Indian garam masala.
-
-Leaves are edible as garnish or salad component, though seeds are far more
-commercially significant.
-
-## Ecological Notes
-
-Anise serves as a nectar source for [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and hoverflies,
-making it a useful companion plant in organic vegetable gardens. Its
-aromatic compounds may deter aphids and cabbage moth when intercropped
-with brassicas.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], anise functions as a short-lived annual filler
-between perennials. Its shallow root system minimizes competition. The
-plant is not aggressive and does not self-seed prolifically in temperate
-climates.
-
-## See Also
-
-- fennel
-- [[glycyrrhiza-glabra]]
-- [[piper-nigrum-entity]]
-- [[zingiber-officinale]]
-- cuminum cyminum

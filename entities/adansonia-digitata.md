@@ -37,7 +37,7 @@ Its distinctive silhouette, with a massive trunk and sparse crown of branches re
 
 The species was described by Linnaeus in 1768, with the genus named after the French naturalist Michel Adanson who documented it in Senegal.
 
-It is the only baobab species native to mainland Africa, though it has been introduced to other tropical regions.
+It is the only baobab species native to mainland Africa, though it has been introduced to other [[fukuoka-natural-farming-in-tropical-regions]].
 
 **Trunk:** The trunk is massive, smooth, and often bottle-shaped. It stores enormous volumes of water — estimates range from 10,000 to over 100,000 liters in mature specimens.
 
@@ -77,7 +77,7 @@ It also contains significant amounts of B vitamins, calcium, potassium, iron, an
 
 The pulp has a tangy, sherbet-like flavor and is used to make drinks, sauces, and confections across Africa.
 
-In international markets, baobab fruit pulp is sold as a "superfood" ingredient in smoothies, energy bars, and dietary supplements.
+In international markets, baobab fruit pulp is sold as a "superfood" ingredient in smoothies, energy bars, and [[medicinal-mushroom-dietary-supplements]].
 
 **Leaves** are eaten as a fresh or dried vegetable, providing protein, calcium, and iron.
 
@@ -88,46 +88,3 @@ Dried leaf powder is a traditional ingredient in soups and stews across West Afr
 **Seeds** are edible after roasting and contain roughly 30–40% oil, rich in linoleic and oleic [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
 
 The seed oil is used in cooking and increasingly in cosmetics for its moisturizing properties.
-
-## Traditional Medicine and Pharmacology
-
-Bark decoctions are used to treat fever, malaria, and gastrointestinal disorders across much of West and East Africa.
-
-The bark contains compounds with demonstrated anti-inflammatory and analgesic properties.
-
-Leaf extracts show antioxidant, anti-diabetic, and hepatoprotective activity in laboratory studies.
-
-Fruit pulp is consumed as a treatment for diarrhea, dysentery, and fever.
-
-Its high pectin content likely contributes to its antidiarrheal effectiveness by soothing the gastrointestinal mucosa.
-
-Seed oil has demonstrated wound-healing properties and is applied topically to [[cannabis-for-skin-conditions-detailed]].
-
-Phytochemical analysis has identified flavonoids, phenolic acids, saponins, and triterpenoids as major bioactive constituents.
-
-However, rigorous [[mushroom-cancer-clinical-trials-overview]] are still limited, and most medicinal uses remain supported primarily by traditional knowledge and in vitro data.
-
-## Ecology and Cultural Significance
-
-Baobabs are keystone species in African savanna ecosystems, providing food and habitat for numerous animals.
-
-Elephants, baboons, and antelope consume the fruit pulp and disperse the seeds.
-
-Fruit bats, bushbabies, and several bird species feed on the nectar and flowers.
-
-The tree's hollow trunk provides shelter for bats, snakes, bees, and occasionally humans.
-
-Culturally, baobabs are deeply embedded in African folklore, community life, and spiritual practice.
-
-Many communities hold meetings and ceremonies in the shade of large baobab trees.
-
-Some individual trees are estimated to be over 2,000 years old, though accurate dating is difficult because the wood does not produce annual growth rings.
-
-The oldest radiocarbon-dated specimens are approximately 1,200–1,800 years old.
-
-## See Also
-
-- [[hibiscus-sabdariffa]]
-- [[moringa-oleifera]]
-- [[vigna-unguiculata]]
-- [[tylosema-esculentum]]

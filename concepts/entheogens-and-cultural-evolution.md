@@ -88,22 +88,3 @@ difficult to reconstruct from material remains alone.
 
 The academic study of entheogens and cultural evolution has matured
 considerably since Wasson's initial publications. Current approaches
-emphasize:
-
-The importance of indigenous epistemologies and frameworks for
-understanding entheogenic experience, avoiding the reductionism of purely
-biomedical models. The recognition that entheogenic practices are embedded
-in complex social, ecological, and cosmological systems that cannot be
-reduced to the pharmacological effects of specific compounds. The role of
-entheogens in the development of art, music, mythology, and philosophical
-thought, studied through interdisciplinary methods combining
-anthropology, neuroscience, and the humanities.
-
-## See Also
-
-- [[stoned-ape-hypothesis]]
-
-- gaias-garden-lawn-ecology-and-cultural-critique
-- [[terence-mckenna]]
-- [[psychedelic-therapy-mechanisms]]
-- [[munn-mazatec-mushroom-oracular-cure]]

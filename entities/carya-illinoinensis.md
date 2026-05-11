@@ -9,9 +9,9 @@ tags:
   - plants
   - juglandaceae
   - nut-tree
-  - permaculture
-  - agroforestry
-  - food-forest
+  - [[permaculture]]
+  - [[agroforestry]]
+  - [[food-forest]]
   - native-american
   - north-american
   - timber
@@ -88,59 +88,3 @@ Chihuahua). The native range roughly follows the Mississippi River
 drainage basin and its tributaries.
 
 Natural habitat is bottomland hardwood forests, river floodplains, and
-moist coves in mixed hardwood forests. It thrives in deep, well-drained
-alluvial soils with a pH of 6.0–7.0. Optimal growth occurs with 1000–
-1500 mm annual rainfall and a [[savory-growing-season-and-non-growing-season-management]] of 180–220 days.
-
-## Cultivation
-
-Pecan is commercially cultivated across USDA hardiness zones 6–9, with
-the greatest production in zones 7–8. Trees begin bearing nuts at 5–8
-years for grafted cultivars, 10–15 years for seedlings.
-
-Key commercial cultivars include 'Desirable', 'Stuart', 'Wichita',
-'Pawnee', 'Western', and 'Kiowa'. Cultivar selection depends on
-chill hours, disease pressure (scab is the major disease), and local
-pollination compatibility — pecan is predominantly dichogamous,
-requiring cross-pollination for reliable production.
-
-Yields range from 1000–3000 kg/ha for mature orchards. Nut quality is
-graded by kernel percentage (target > 55%), kernel color, and oil
-content. Harvest occurs in autumn (September–November) using mechanical
-shakers.
-
-## Permaculture and Agroforestry Applications
-
-Pecan is a high-value component in temperate food forests and
-agroforestry systems. Its deep taproot system (extending 2–3 m) mines
-nutrients from subsoil layers and improves soil structure.
-
-- **Silvopasture**: Pecan-cattle or pecan-sheep combinations are
-  common in the southern US, providing income from nuts, timber,
-  and livestock on the same land.
-
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Understory species include comfrey, nitrogen
-  fixers ([[comparison-black-locust-vs-honey-locust]], autumn olive), and berry shrubs (elderberry,
-  currants). The partial shade cast by pecan canopies benefits
-  shade-tolerant understory crops.
-
-- **Windbreaks**: Pecan rows serve as effective windbreaks in
-  agricultural landscapes, protecting adjacent crops and reducing
-  erosion.
-
-- **Wildlife value**: Nuts feed deer, squirrels, turkeys, and numerous
-  bird species. The tree provides nesting habitat and corridor
-  connectivity in riparian buffer strips.
-
-- **Timber**: Pecan wood is hard, dense, and valued for tool handles,
-  furniture, and smoking meats. Trees removed during orchard
-  renovation provide high-value timber.
-
-## See Also
-
-- [[carya-glabra]]
-
-- [[corylus-avellana]]
-- [[robinia-pseudoacacia]]
-- [[morus-nigra]]
-- [[hugelkultur]]

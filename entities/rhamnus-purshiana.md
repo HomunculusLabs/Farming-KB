@@ -15,7 +15,7 @@ sources:
   - USDA NRCS (2024). "Rhamnus purshiana DC. Plant Profile." plants.usda.gov.
   - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs." 3rd ed., Haworth Press.
   - McGuffin, M. et al. (1997). "American Herbal Product Association's Botanical Safety Handbook." CRC Press.
-  - Bradley, P.R. (1992). "British Herbal Compendium, Vol. 1." British Herbal Medicine Association.
+  - Bradley, P.R. (1992). "British Herbal Compendium, Vol. 1." British [[childrens-herbal-medicine]] Association.
 ---
 
 # Rhamnus purshiana
@@ -64,11 +64,11 @@ Modern taxonomic treatments often place this species in *Frangula*, though the n
 
 ## Distribution and Habitat
 
-Native to western North America, from British Columbia south through Washington, Oregon, and California, with populations extending into Idaho and western Montana.
+Native to western [[guzman-psilocybin-mushrooms-north-america]], from British Columbia south through Washington, Oregon, and California, with populations extending into Idaho and western Montana.
 
 It grows in moist to dry forests, riparian zones, and mixed conifer-hardwood stands, typically at elevations from sea level to 1500 m.
 
-The species is shade-tolerant in its youth but requires increasing light as it matures. It is commonly found as an understory component of Douglas-fir, western redcedar, and western hemlock forests.
+The species is shade-tolerant in its youth but requires increasing light as it matures. It is commonly found as an understory component of [[douglas-fir]], western redcedar, and western hemlock forests.
 
 ## Chemistry and Pharmacology
 
@@ -87,31 +87,3 @@ Cascara sagrada bark is approved by the German Commission E and ESCOP as a treat
 It was listed in the U.S. Pharmacopeia from 1890 until removed in 2002 due to insufficient safety data submission, though it remains widely available as a dietary supplement.
 
 Standardized preparations deliver 20–30 mg of hydroxyanthracene derivatives per dose, taken as tablets, liquid extracts, or bark tea.
-
-Contraindications include intestinal obstruction, appendicitis, [[blesching-cannabis-inflammatory-bowel-disease]] disease, and pregnancy. Long-term use beyond 1–2 weeks is not recommended.
-
-## Harvesting and Processing
-
-Bark is typically harvested in spring or early summer when the sap is flowing, which facilitates easier removal from the trunk and branches.
-
-Only bark from branches at least 2–3 cm in diameter is collected; trunk bark is preferred for its higher glycoside concentration. The bark is stripped in longitudinal strips and dried in the shade or at temperatures below 40°C to preserve anthraquinone integrity.
-
-**Critical aging requirement:** Fresh bark contains free anthrones that cause severe cramping, nausea, and vomiting. Commercial cascara must be aged for a minimum of one year, though many processors age for 2–3 years.
-
-The aged bark turns from reddish-brown to a darker brown or nearly black color, indicating the necessary oxidative conversion of emodin anthrones to the less irritating glycosidic forms.
-
-## Conservation Status
-
-*Rhamnus purshiana* is not currently listed as threatened or endangered, but wild populations have declined in parts of its range due to historical overharvesting for the pharmaceutical trade.
-
-Commercial supplies are now largely sourced from cultivated stands and managed forests in the Pacific Northwest. Sustainable harvesting protocols require leaving at least 50% of the bark on each tree to prevent mortality.
-
-The species plays an ecological role as a food source for birds and small mammals, which disperse its seeds. Its riparian habitat associations make it important for stream bank stabilization.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[centella-asiatica]]
-- [[valeriana-officinalis]]
-- [[melissa-officinalis]]
-- [[scutellaria-baicalensis]]

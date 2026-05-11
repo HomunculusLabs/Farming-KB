@@ -1,7 +1,7 @@
 ---
-title: "Endocannabinoid System and the Biology of Emotions"
+title: Blesching Endocannabinoid Emotion Molecules Neurochemistry
 subtitle: "Expansive vs. Constricting Emotion Molecules"
-author: "Uwe Blesching"
+author: "[[uwe-blesching]]"
 source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI)"
 tags:
   - endocannabinoid-system
@@ -21,7 +21,7 @@ All mammals possess an endocannabinoid system (ECS), a biological regulatory
 mechanism identified in 1990 that operates like a lock-and-key system. The ECS
 balances and strengthens the nervous and immune systems, initiates pain control,
 calms inflammation, and supports [[blesching-cannabis-neurogenesis-and-neuroplasticity]].
-A central insight from Uwe Blesching's *The Cannabis Health Index* is that
+A central insight from Uwe Blesching's *The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]* is that
 emotions and molecules exist in a **two-way street**: generating specific
 emotional content changes our body's chemistry, partly modulated via the ECS.
 This creates a powerful opportunity for conscious self-healing.
@@ -29,8 +29,8 @@ This creates a powerful opportunity for conscious self-healing.
 Every emotion corresponds to endogenous molecules. The relationship is
 bidirectional: biochemistry influences emotional state, and emotional state
 influences biochemistry. Blesching categorizes these into **expansive emotions**
-(openness, relaxation, connection) and **constricting emotions** (alertness,
-motivation, stress responses). Neither is inherently harmful—appropriate
+(openness, relaxation, connection) and **[[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]** (alertness,
+motivation, [[fungal-stress-responses]]). Neither is inherently harmful—appropriate
 expression of all emotions is healthy. The key is balance.
 ## Expansive Emotion Molecules
 These molecules are associated with openness, relaxation, social bonding,
@@ -52,7 +52,7 @@ high"). Anandamide also inhibits norepinephrine, linking the two systems.
 Five groups: beta-endorphins, enkephalins, dynorphins, endomorphins, and
 nociceptin. Produced by the CNS and pituitary (contain CB1). THC induces
 release of dynorphin A and B. Endorphins produce euphoria and elation beyond
-pain modulation and are involved in emotional formation and interpersonal bonds.
+[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]] and are involved in emotional formation and interpersonal bonds.
 ### GABA — "I Am Melting"
 The brain's primary inhibitory neurotransmitter—the body's "downer." Made in
 brain cells from glutamate (contain CB1). Regulates nerve excitability, muscle
@@ -88,47 +88,3 @@ neurons via CB1. Loss of dopamine-producing cells links to schizophrenia, ADHD,
 and Parkinson's. Abnormal striatal dopamine transmission is pivotal in ADHD.
 ### Norepinephrine — "I Am Attentive!"
 Similar fight-or-flight physiology to epinephrine. Associated with sustained
-concentration, excitement, alertness, and motivation. GABA, THC, and anandamide
-all inhibit norepinephrine, showing the ECS's capacity to modulate constricting
-states. Excess increases anxiety; deficiency is common in Alzheimer's.
-### Cortisol — "I Am Stressed"
-A steroidal hormone released during stress. Sustained elevation weakens the
-immune system, bones, skin, muscles, and connective tissue. People with shame
-and low self-esteem showed increased cortisol. Corticosteroids also stimulate
-anandamide production—a compensatory link between stress and the [[anandamide-bliss-molecule]].
-### Glutamate — "I Am Excited"
-The most abundant excitatory neurotransmitter—the body's "upper." Produced by
-mitochondria and released by astroglia (contain CB1/CB2). Excess causes
-excitotoxicity: nerve cell overstimulation leading to damage or death. The ECS
-simultaneously balances glutamate (upper) and GABA (downer), potentially
-offering a new ADHD treatment approach.
-### Vasopressin — "I Am Aggressive"
-Primarily regulates water retention and blood pressure. Psychologically linked
-to aggression, defensive, and territorial behavior—especially in males. Both
-vasopressin and oxytocin modulate the brain region for social and emotional
-interaction, relevant to empathy and altruism. The ECS is involved in
-vasopressin production and release.
-## The ECS as Bridge Between Mind and Body
-The ECS initiates neurogenesis essential for brain recovery and memory
-enhancement. It increases capacity for new perspectives, literally rewiring the
-brain through neuroplasticity. Evidence suggests the ECS generates therapeutic
-shifts in perception, self-relating, thinking, and social interaction.
-A frame of mind producing guilt or shame negatively impacts immune defense.
-Conversely, open-mindedness, creativity, humor, gratitude, and forgiveness
-support healing. These shifts can be induced by endocannabinoids, plant-derived
-cannabinoids, or synthetics.
-## Implications for Mind-Body Medicine
-1. **Conscious emotional regulation**: Cultivating expansive states (gratitude,
-   connection, calm) directly supports molecular balance and healing.
-2. **Neither category is "bad"**: Constricting emotions serve vital functions.
-   Three exceptions carry only negative impact: guilt, [[guilt-martyrdom-harbored-anger-as-health-hazards]], martyrdom.
-3. **Therapeutic window matters**: Too little is sub-optimal; too much worsens
-   symptoms. Individual calibration is essential with any intervention.
-4. **Lifestyle as molecular medicine**: Exercise, meditation, social bonding,
-   yoga, music, and sunlight directly influence emotion-associated molecules.
-5. **ECS as modulatory hub**: The endocannabinoid system intersects virtually
-   all these neurotransmitter systems, making it unique for supporting balance.
-## Source
-Blesching, U. *The Cannabis Health Index.* Chapter II: "The Art and Science of
-Mind-Body Medicine." Lines 113–133 (Biology of Emotions chart), 440–500 (ECS
-overview), 1810–2705 (detailed molecule profiles).

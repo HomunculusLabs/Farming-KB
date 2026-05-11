@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,15 +87,3 @@ making, and herb processing are all traditional value-adding activities
 suited to small farms. Mollison emphasizes that processing should be designed
 into the farm system from the outset, with appropriate facilities, energy
 sources, and labor allocation.
-
-On-farm processing also reduces waste. Surplus or imperfect produce that
-cannot be sold fresh can be preserved, pickled, or dried. Composting
-processing byproducts returns nutrients to the production system. This closed-
-loop approach is fundamental to [[mollison-designers-humus-building-and-soil-organic-matter]]
-and overall system sustainability.
-
-## Summary
-
-> **Definition:** Intensifying small farm production is the permaculture
-> strategy of maximizing total useful yield per unit area through intercropping,
-> succession planting, edge maximization, vertical stacking, season extension,

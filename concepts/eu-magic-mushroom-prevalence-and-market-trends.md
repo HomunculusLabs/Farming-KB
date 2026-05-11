@@ -10,7 +10,7 @@ tags: [epidemiology, prevalence, market, europe, psilocybin, smartshop]
 ## Overview
 
 The EMCDDA 2006 thematic paper provides the most comprehensive snapshot of
-[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use patterns across the European Union during the early
+[[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] use patterns across [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] during the early
 2000s — a period that saw a significant emergence of [[guzman-magic-mushrooms-african-species]] as a
 recreational drug trend. The data reveals a substance that, while considerably
 less prevalent than cannabis, achieved lifetime use rates comparable to ecstasy
@@ -23,7 +23,7 @@ alternatives.
 
 ## General Population Prevalence
 
-Among young people aged 15-24, lifetime prevalence of hallucinogenic mushroom use
+Among young people aged 15-24, lifetime prevalence of [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]]
 in 12 EU Member States ranged from less than 1% to 8%. The highest prevalence
 estimates were reported in the Netherlands, Czech Republic, UK, Germany, and
 Ireland. The lowest rates appeared in Lithuania, Hungary, and France.
@@ -42,13 +42,13 @@ experiences.
 
 ## School Survey Data (ESPAD 2003)
 
-The ESPAD school survey across 22 EU Member States, Norway, and four candidate
+The [[emcdda-hallucinogenic-mushroom-perceived-availability-espad-school-survey]] across 22 EU Member States, Norway, and four candidate
 countries revealed that among 15-16 year old students, lifetime prevalence ranged
 from 0% to 8%. The Czech Republic, Netherlands, France, and Belgium had the
 highest estimates. Three countries reported zero lifetime prevalence: Cyprus,
 Finland, and Romania.
 
-Notably, lifetime use of hallucinogenic mushrooms equaled or exceeded lifetime
+Notably, lifetime use [[health-risks-of-hallucinogenic-mushrooms]] equaled or exceeded lifetime
 use of ecstasy in nine of the surveyed countries. This finding was significant
 because it positioned mushrooms as a competitor to ecstasy in the youth drug
 market, despite their different pharmacological profiles and effects.
@@ -84,18 +84,7 @@ mushroom use.
 The only longitudinal trend data available came from six consecutive annual
 Mixmag readership surveys (2000-2005). Lifetime prevalence increased notably
 between 2003 and 2004. Last-month prevalence increased significantly from 2.4%
-in 2002 to 18% in 2004. However, changes in survey methodology and sample
+in 2002 to 18% in 2004. However, changes in [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]] and sample
 characteristics complicate interpretation of these figures.
 
 The average age for first use was between 18 and 19 according to the 2004 Mixmag
-sample. Among users, over half planned to take mushrooms again, and the most
-commonly used variety was "Mexican" (a *[[amanita-muscaria-entity]]* ([[amanita-pantherina]]*. Products like Purple
-Ohms capsules (containing Hawaiian Baby Woodrose with LSA) were also
-increasingly marketed as alternatives. The EMCDDA noted that this substitution
-was concerning because Amanita species carry substantial toxicity risks, and
-some closely related species can cause fatal poisoning.
-
-## Contributing Factors to the Trend
-## See Also
-
-- comparison-matsutake-vs-truffle-ecology-and-market

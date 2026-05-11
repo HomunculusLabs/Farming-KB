@@ -20,13 +20,13 @@ type: concept
 
 # Amazonian Ayahuasca Ceremonies: Icaros and Shamanic Healing Methods
 
-Ralph Metzner's 1998 survey of hallucinogen use across healing traditions
+[[ralph-metzner]]'s 1998 survey of hallucinogen use across healing traditions
 includes a detailed account of traditional Amazonian Indian and mestizo
 ayahuasca ceremonies. These ceremonies represent one of the most
 well-documented examples of [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] practice and illustrate
 the core principles of the second paradigm in Metzner's four-paradigm
-framework: shamanic rituals of healing and divination. The ceremony
-centers on the icaros, the healing songs of the initiated shaman, and
+framework: shamanic rituals of [[metzner-shamanic-healing-and-divination-paradigm]]. The ceremony
+centers on the icaros, the [[shipibo-icaros-healing-songs]] of the initiated shaman, and
 employs specific therapeutic methods including psychic extraction
 techniques.
 
@@ -69,7 +69,7 @@ notes that the rhythmic chanting, like the drum pulse in other traditions,
 minimizes the likelihood of participants becoming stuck in frightening
 or seductive experiences during the ceremony. This functional
 understanding of ceremonial music as a navigational aid aligns with the
-broader shamanic worldview in which sound and vibration serve as bridges
+broader [[multiple-realities-spirit-beings-shamanic-worldview-metzner]] in which [[plant-response-to-sound-and-vibration]] serve as bridges
 between ordinary and nonordinary reality.
 
 ## Shamanic Extraction and Somatic Healing Methods
@@ -84,50 +84,7 @@ field. This practice reflects the shamanic understanding that illness can
 have supernatural causes, including sorcery or the implantation of harmful
 objects by malevolent practitioners.
 
-These extraction methods illustrate one of the three main variations of
+These [[arbuscular-mycorrhizal-spore-extraction-methods]] illustrate one of the three main variations of
 shamanic healing that Metzner identifies: the extraction of a toxin that
 may have been implanted by means of sorcery. The other two variations are
 the retrieval of a split-off psychic fragment or "soul," and the
-experience of dismemberment followed by reconstitution with a healthier,
-stronger "body." All three types are understood as real events occurring
-in nonordinary reality rather than as metaphors or psychological
-projections.
-
-## Plant Teachers and the Intelligence of Entheogenic Medicines
-
-A distinctive feature of the Amazonian ayahuasca tradition, as presented
-by Metzner, is the concept that there is an intelligence associated with
-the plant medicine that communicates in an interior way to the person who
-ingests it. Indigenous healers consistently refer to entheogenic plants
-as "plant teachers," a designation that implies the plants possess
-agency, wisdom, and communicative capacity. This understanding stands in
-stark contrast to the Western pharmacological model, which treats the
-active compounds as inert chemical tools acting on receptor sites.
-
-The plant teacher concept is integral to the shamanic healing paradigm.
-It means that the healer is not the sole agent of diagnosis and treatment;
-rather, the plant itself participates actively in the therapeutic process,
-providing information and guidance to both healer and patient. This
-tripartite relationship among healer, patient, and plant teacher
-fundamentally distinguishes shamanic entheogenic practice from
-Western psychotherapy, where the drug is understood as a passive
-catalyst and the therapist holds sole interpretive authority.
-
-## Relationship to Metzner's Comparative Framework
-
-Amazonian ayahuasca ceremonies occupy the second paradigm in Metzner's
-framework, exemplifying shamanic rituals of healing and divination. The
-primary focus is on individual healing under the guidance of an
-experienced practitioner, with the healer often ingesting the medicine
-themselves in order to "see" the causes of illness and determine the
-appropriate remedy. This contrasts with the [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] churches
-that Metzner places in the third paradigm of [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] religious
-ceremonies, where community worship takes precedence over individual
-healing work.
-
-## See Also
-
-- [[curandero-healing-ayahuasca]]
-- [[brazilian-ayahuasca-churches]]
-- Shamanic Healing and Divination
-- [[metzner-ayahuasca-therapeutic-potential]]

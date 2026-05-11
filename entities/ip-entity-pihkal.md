@@ -1,5 +1,5 @@
 ---
-title: "IP ([[isoproscaline]]; 3,5-DIMETHOXY-4-(i)-PROPOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #92"
+title: Ip Entity Pihkal
 created: 2026-04-23
 updated: 2026-04-23
 type: entity

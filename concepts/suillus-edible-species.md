@@ -87,13 +87,3 @@ Suillus mycelium also contributes to soil formation and [[comparison-nutrient-cy
 While all confirmed Suillus species are non-toxic, foragers should be aware of several identification challenges. Suillus species can be confused with other boletes, including some that are less desirable or potentially problematic.
 
 The most important distinction is from toxic boletes in the genus Rubroboletus (formerly Boletus sensu stricto), some of which have red pore surfaces. Suillus species always have yellow to olive or whitish pores, never bright red. Any bolete with red or orange pores should be approached with caution.
-
-Some Suillus species cause allergic reactions or gastrointestinal upset in certain individuals, particularly when consumed raw or undercooked. All Suillus mushrooms should be thoroughly cooked before consumption. See [[suillus-cavipes]]
-
-- [[porcini-boletus-guide]]
-
-## Related
-
-- [[mycorrhizal-fungi]]
-
-- edible-wild-mushroom-guide

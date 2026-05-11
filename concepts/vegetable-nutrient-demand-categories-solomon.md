@@ -1,5 +1,5 @@
 ---
-title: Vegetable Nutrient Demand Categories Low-Medium-High Fertility Requirements
+title: Vegetable Nutrient Demand Categories Solomon
 source: gardening-when-it-counts-steve-solomon
 tags: [vegetable, nutrient, demand, fertility, soil, gardening, solomon, spacing, NPK, crop-planning]
 ---
@@ -8,11 +8,11 @@ tags: [vegetable, nutrient, demand, fertility, soil, gardening, solomon, spacing
 
 ## Overview
 
-Steve Solomon's "Gardening When It Counts" introduces a practical classification system for vegetables based on their soil fertility requirements. Rather than treating all vegetables as equally demanding, Solomon categorizes crops into three tiers — low-demand, medium-demand, and high-demand — based on their ability to grow productively in soils of varying quality. This framework is essential for gardeners working with limited resources, suboptimal soil, or minimal irrigation, as it allows strategic crop selection matched to actual soil conditions.
+[[steve-solomon]]'s "Gardening When It Counts" introduces a practical classification system for vegetables based on their soil fertility requirements. Rather than treating all vegetables as equally demanding, Solomon categorizes crops into three tiers — low-demand, medium-demand, and high-demand — based on their ability to grow productively in soils of varying quality. This framework is essential for gardeners working with limited resources, suboptimal soil, or minimal irrigation, as it allows strategic crop selection matched to actual soil conditions.
 
 ## The Foundation: Soil Fertility and Nutritional Quality
 
-Solomon's approach is grounded in the principle that soil mineral balance directly determines the nutritional quality of food grown in it. Drawing on research by Russian scientist Krasil'nikov, he emphasizes that plants absorb a complex array of organic chemicals, vitamins, amino acids, and minerals produced by the soil ecology — not just NPK (nitrogen, phosphorus, potassium). Plants grown in mineral-depleted soil may look healthy but contain significantly lower concentrations of essential micronutrients.
+Solomon's approach is grounded in the principle that soil [[garden-soil-fertility-mineral-balance-solomon]] directly determines the nutritional quality of food grown in it. Drawing on research by Russian scientist Krasil'nikov, he emphasizes that plants absorb a complex array of organic chemicals, vitamins, amino acids, and minerals produced by the soil ecology — not just NPK (nitrogen, phosphorus, potassium). Plants grown in mineral-depleted soil may look healthy but contain significantly lower concentrations of essential micronutrients.
 
 The historical evidence is compelling: Solomon cites Missouri health statistics showing that counties with mineral-rich prairie soils had markedly lower death rates (approximately 200 per 1,000 from all causes) compared to counties with mineral-poor soils (approximately 300 per 1,000). This geographic health disparity corresponded precisely to soil mineral maps, strongly suggesting that food nutritional quality — determined by soil fertility — directly impacts human health outcomes.
 
@@ -20,10 +20,10 @@ The historical evidence is compelling: Solomon cites Missouri health statistics 
 
 Before classifying vegetables, Solomon introduces his Complete Organic Fertilizer (COF) recipe, designed to provide balanced nutrition in correct proportions:
 
-- **Seed meal** (cottonseed, soybean, or canola meal): 4 parts — provides nitrogen and organic matter
+- **Seed meal** (cottonseed, soybean, or canola meal): 4 parts — provides nitrogen [[hamilton-composting-and-organic-matter-management]]
 - **Agricultural lime**: 1 part — supplies calcium and raises pH
 - **Gypsum (calcium sulfate)**: 1/2 part — provides additional calcium and sulfur
-- **Dolomite lime**: 1/2 part — supplies calcium and magnesium
+- **[[cervantes-dolomite-lime-ph-buffering]]**: 1/2 part — supplies [[dynamic-accumulator-plants-calcium-and-magnesium]]
 - **Bone meal** or **rock phosphate**: 1 part — provides phosphorus and calcium
 - **Kelp meal** (or other trace mineral source): 1/2 part — provides micronutrients
 
@@ -54,18 +54,18 @@ Low-demand vegetables are the most forgiving crops — capable of productive gro
 - **Mustard greens**: Fast-growing; productive even in marginal soils
 - **Sorghum and amaranth**: Grain crops adapted to low-fertility conditions
 
-Low-demand vegetables form the backbone of any sustainable garden plan. They should occupy the largest proportion of garden area when soil quality is limited, and they serve as excellent pioneer crops for building soil organic matter through root exudates and crop residues.
+Low-demand vegetables form the backbone of any sustainable garden plan. They should occupy the largest proportion of garden area when soil quality is limited, and they serve as excellent pioneer crops for building [[humus-formation-and-soil-organic-matter]] through [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]] crop residues.
 
 ## Medium-Demand Vegetables
 
-Medium-demand vegetables require improved soil but do not need intensive fertilization. A garden bed that has received basic compost incorporation and modest mineral amendment will typically support these crops well.
+Medium-demand vegetables require improved soil but do not need intensive fertilization. A garden bed that has received basic compost incorporation and modest [[azomite-mineral-amendment]] will typically support these crops well.
 
 ### Characteristics of Medium-Demand Crops
 
-- Benefit from soil organic matter content of 2–4%
+- Benefit from [[mollison-designers-humus-building-and-soil-organic-matter]] content of 2–4%
 - Respond to moderate fertilization (half to full COF rate)
 - Often include leafy crops with higher nitrogen requirements than root vegetables
-- May show deficiency symptoms in very poor soils but are not highly sensitive
+- May show [[knf-calcium-deficiency-symptoms]] in very poor soils but are not highly sensitive
 - Produce best results with regular but not excessive watering
 
 ### Examples of Medium-Demand Vegetables
@@ -81,54 +81,10 @@ Medium-demand vegetables require improved soil but do not need intensive fertili
 - **Cucumbers**: Respond to balanced nutrition; need consistent moisture
 - **Tomatoes**: Can produce in moderate soil but reach full potential with good fertility
 
-Medium-demand vegetables represent the middle ground in garden planning. They reward soil improvement efforts with noticeably better yields and quality, but they will not fail completely in average garden soil. Most home gardeners naturally end up growing primarily medium-demand crops.
+Medium-demand vegetables represent the middle ground in [[hamilton-garden-planning-and-site-assessment]]. They reward soil improvement efforts with noticeably better yields and quality, but they will not fail completely in average garden soil. Most home gardeners naturally end up growing primarily medium-demand crops.
 
 ## High-Demand Vegetables
 
 High-demand vegetables require the best soil conditions the gardener can provide. These crops demand high organic matter content, balanced mineral nutrition, consistent moisture, and often specific micronutrient availability. They are the crops that separate a good garden from a great one — and the crops that will disappoint in poor soil.
 
 ### Characteristics of High-Demand Crops
-
-- Require soil organic matter content of 4% or higher
-- Need full COF application rates with potential supplemental feeding
-- Often have shallow root systems or high metabolic rates
-- Include heavy feeders that deplete soil nutrients rapidly
-- May show specific micronutrient deficiency symptoms
-- Require consistent, adequate irrigation for optimal production
-- Benefit from raised beds with imported soil mixes
-
-### Examples of High-Demand Vegetables
-
-- **Sweet corn**: Extremely heavy nitrogen feeder; depletes soil rapidly
-- **Celery**: Demands constant moisture, high fertility, and specific micronutrients
-- **Asparagus**: Perennial that requires excellent soil preparation before planting
-- **Melons**: Heavy feeders that need warm, rich soil and consistent moisture
-- **Winter squash and pumpkins**: Large plants with high nutrient demands
-- **Eggplant**: Requires warm, fertile soil; sensitive to cold and nutrient stress
-- **Potatoes**: Heavy potassium feeder; quality declines in mineral-deficient soil
-- **Spinach**: Needs rich, cool soil with adequate nitrogen and iron
-- **Leeks**: Require deep, fertile soil for long blanched stems
-
-High-demand vegetables should only be attempted in garden areas where the gardener has invested significant effort in soil building. In a new garden or one with limited resources, these crops are best deferred until soil quality has been established through seasons of composting, cover cropping, and mineral amendment.
-
-## Strategic Application of the Demand System
-
-### Matching Crops to Soil Reality
-
-Solomon emphasizes that most gardening advice assumes ideal conditions — deep, rich, perfectly balanced soil — that most gardeners do not actually have. The demand classification system allows gardeners to honestly assess their soil and select crops accordingly. A gardener with unimproved clay soil should not attempt celery or sweet corn; instead, garlic, beans, and kale will produce reliable results while the soil is gradually improved.
-
-### Resource Allocation
-
-In lean times or on limited budgets, fertilizer, compost, and water resources should be allocated preferentially to medium-demand crops, which provide the best return on investment. Low-demand crops will produce adequately without inputs, while high-demand crops will consume disproportionate resources for marginal returns unless soil conditions are already excellent.
-
-### Crop Rotation and Succession Planning
-
-The demand system informs crop rotation planning. Low-demand legumes should precede medium-demand leafy crops, which in turn prepare the bed for high-demand fruiting crops. After a high-demand crop depletes the soil, a low-demand root crop or a legume cover crop can begin the restoration cycle. This rotation strategy maintains soil health while maximizing production across seasons.
-
-## See Also
-
-- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
-- [[soil-fertility-building-gradient-solomon]]
-- [[solomon-compost-organic-matter]]
-- [[solomon-seed-saving-fundamentals]]
-- [[wide-spacing-dry-gardening-low-irrigation-solomon]]

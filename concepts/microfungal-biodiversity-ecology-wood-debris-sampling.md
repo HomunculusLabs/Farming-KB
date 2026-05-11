@@ -9,11 +9,11 @@ sources: []
 
 # Microfungal Biodiversity — Ecology, Limitations, and Sampling on Wood and Debris
 
-Microfungi — the often-overlooked microscopic fungi — constitute the vast majority of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. They colonize wood, [[dighton-fungal-decomposition-leaf-litter-dynamics]], soil, living plant surfaces, and virtually every other substratum. Their study presents unique challenges due to their small size, complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and the paucity of ecological data.
+Microfungi — the often-overlooked microscopic fungi — constitute the vast majority of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. They colonize wood, [[dighton-fungal-decomposition-leaf-litter-dynamics]], soil, [[fungal-interactions-living-plant-surfaces]], and virtually every other substratum. Their study presents unique challenges due to their small size, complex [[bloomfield-rust-fungi-life-cycles-barberry-wheat]], and the paucity of ecological data.
 
 ## Scale of Microfungal Diversity
 
-- Microfungi likely represent the majority of undescribed fungal species
+- Microfungi likely represent the majority of [[undescribed-fungal-taxa]] species
 - Individual tropical leaves can harbor up to **30 different species** of hyphomycetes
 - Temperate substrata (Fagus/Quercus cupules, Castanea spines) regularly support 5-10 species
 - Most species known only from isolated collections; ecological information almost entirely lacking
@@ -21,7 +21,7 @@ Microfungi — the often-overlooked microscopic fungi — constitute the vast ma
 ## Major Challenges
 
 ### Size
-- Fruiting bodies as small as 50 um diameter
+- [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] as small as 50 um diameter
 - Conidiophores of some hyphomycetes only ~10 um long
 - Spores may be 2-3 um long, often <1 um wide
 - Few species exceed 100 um spore length
@@ -64,7 +64,7 @@ Challenges:
 - Upper vs. lower internodes of grass stems (Hudson and Webster 1958)
 - Standing vs. uprooted culms (Webster and Dix 1960)
 - Upper vs. lower surfaces of individual fallen leaves (A. Rambelli, Sardinia)
-- Characteristic sequences on dung pats, decaying wood, leaf litter
+- Characteristic sequences on dung pats, decaying wood, [[fungal-diversity-leaf-litter-coarse-woody-debris]]
 
 ### Extreme Environments
 Distinctive guilds in:
@@ -82,18 +82,9 @@ Distinctive guilds in:
 - Only way to assess mixed populations without culturing
 
 ### Culture-Based Methods
-- Particle washing or particle filtration (borrowed from soil mycology)
+- Particle washing or [[particle-filtration-dilution-plating-microfungal-isolation]] (borrowed from soil mycology)
 - Allows identification through sporulation in culture
 - Overcomes nonsporulating field collections
 - May select for fast-growing species; miss slow-growers
 
 ### Moist Chamber Technique
-- Place substratum in humid chamber
-- Induces fruiting of fungi present but not sporulating
-- Particularly useful for litter-inhabiting ascomycetes and small agarics
-- See microfungal-life-strategies-wood-plant-debris
-
-- [[moist-chamber-technique-fungal-fruiting]]
-- fungal-culture-media-formulas-applications
-- [[tropical-vs-temperate-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

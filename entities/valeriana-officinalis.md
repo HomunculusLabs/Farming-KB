@@ -88,19 +88,3 @@ elevation. Tolerates clay soils and seasonal waterlogging.
 - **Yield:** 2–4 kg dried root per m².
 
 ## [[cancer-turkey-tail-psk-clinical-trials]] show reduced sleep onset
-  latency and improved sleep quality; meta-analyses indicate modest effect
-  sizes versus pharmaceutical hypnotics.
-- **Anxiolytic:** Reduced anxiety-like behavior in elevated plus maze and
-  open field tests at moderate doses in animal models.
-- **Spasmolytic:** Reduces smooth muscle contraction in the GI tract,
-  supporting traditional use for cramps and menstrual discomfort.
-- **[[vincetoxicum-hirundinaria]] Species
-
-- **Valeriana jatamansi:** Himalayan species, higher valepotriate content;
-  used in Ayurveda.
-- **Valeriana edulis:** [[growing-gourmet-north-american-reishi-species]] species with edible roots.
-- **Centranthus ruber (red valerian):** Ornamental relative, not
-
-## See Also
-
-- [[ligusticum-porteri]]

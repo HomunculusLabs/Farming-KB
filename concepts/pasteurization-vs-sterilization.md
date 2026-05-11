@@ -3,7 +3,7 @@
 [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] are two distinct processes used to
 reduce or eliminate microorganisms from materials. While often
 confused, they differ fundamentally in their intensity, mechanisms,
-and outcomes. Understanding the difference is essential in mycology,
+and outcomes. Understanding the difference is essential in [[mycology]],
 food science, medicine, and biotechnology, where the choice between
 the two methods has significant practical implications.
 
@@ -49,7 +49,7 @@ where any microbial presence would be problematic.
 
 ## Pasteurization
 
-Pasteurization is a milder heat treatment that reduces the number
+Pasteurization is a milder [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]] that reduces the number
 of viable microorganisms but does not achieve complete sterility.
 It is designed to destroy pathogenic organisms and significantly
 reduce spoilage organisms while preserving the quality of the
@@ -78,7 +78,7 @@ survive pasteurization.
 
 | Parameter | Sterilization | Pasteurization |
 |-----------|--------------|----------------|
-| Microbial kill | All organisms + spores | Pathogens + most vegetatives |
+| [[microbial-kill-curve-microwave-exposure-dose-response]] | All organisms + spores | Pathogens + most vegetatives |
 | Spore survival | None | Many survive |
 | Temperature | 121°C+ (autoclave) | 63-80°C typical |
 | Time | 15-60+ minutes | Seconds to 30 minutes |
@@ -87,34 +87,3 @@ survive pasteurization.
 | Validation required | Biological indicators | Routine monitoring |
 
 ## Application in Mycology
-
-In [[accessible-mushroom-cultivation-for-disabilities]], the choice between sterilization and
-pasteurization depends on the substrate and application:
-
-**Sterilization is required for grain spawn**: Grain substrates
-are nutrient-rich and highly susceptible to contamination. Only
-full sterilization (autoclaving at 121°C for 60-120 minutes)
-provides adequate microbial kill for grain-based substrates.
-A pressure cooker is the minimum equipment needed; boiling water
-alone is insufficient.
-
-**Pasteurization can be used for bulk substrates**: Bulk substrates
-such as straw, compost, and coco coir are less nutrient-dense and
-can often be successfully pasteurized rather than sterilized.
-Pasteurization at 65-80°C for 1-2 hours kills most competitors
-while preserving beneficial thermophilic organisms that can help
-defend against subsequent contamination.
-
-**Casing soil debate**: Some cultivators pasteurize casing soil to
-preserve beneficial microorganisms, while others sterilize it for
-maximum contamination control. Empirical results with grass seed
-substrates favor sterilization, as pasteurized casing has been
-associated with higher contamination rates in [[cannabis-sativa-indoor-cultivation-techniques]]
-environments.
-
-## See Also
-
-- [[mushroom-grain-sterilization]]
-- [[mushroom-casing-preparation]]
-- autoclave sterilization
-- [[contamination-prevention-mycology]]

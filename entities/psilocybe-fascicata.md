@@ -6,6 +6,7 @@ tags: [psilocybin-mushroom, agaricales, hymenogastraceae, central-america, taxon
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md
 ---
 
@@ -86,24 +87,3 @@ However, its wood-inhabiting nature suggests it could potentially be grown on st
 
 Successful cultivation would likely require a supplemented hardwood sawdust substrate, high humidity, moderate temperatures (20 to 25 degrees Celsius), and adequate fresh air exchange.
 Initiation of fruiting may require a temperature drop or increase in humidity, mimicking natural conditions in its montane habitat.
-
-The cespitose growth habit suggests that inoculated substrates may produce dense clusters of fruiting bodies rather than scattered individuals, which could make it a productive species if [[synthetic-log-cultivation-methods-guide]] are successfully developed.
-A cold shock (reduction of 5 to 10 degrees Celsius) may be beneficial for triggering [[growing-gourmet-primordia-formation-pinning]], analogous to fruiting protocols used for psilocybe-mexicana-cultivation and other psychoactive species were traditionally employed by Mazatec, Nahua, and other indigenous peoples.
-Its psychoactive properties may have contributed to the general knowledge of psychoactive fungi among these communities.
-However, it was likely not a primary ceremonial species given its relative rarity and wood-inhabiting habit.
-
-## Similar Species
-
-*Psilocybe fascicata* can be confused with several other small, brown, wood-inhabiting Psilocybe species:
-
-- [[psilocybe-coprophila-profile]] — coprophilous habitat on dung, smaller overall stature
-- Non-bluing Psilocybe species in Section Deconica — lack blue staining reaction entirely and are non-psychoactive
-- [[stamets-psi-psilocybe-azurescens-species-guide]] — much larger with wavy cap margin, restricted to Pacific Northwest coastal dune grasses
-
-Key differentiating features of *P. fascicata* include its clustered growth on decaying wood, Central American montane distribution, and the combination of small cap size (5–20 mm) with relatively long stems (30–70 mm) arising from a shared base.
-
-## See Also
-
-- [[psilocin]]
-- psilocybe-mexicana-cultivation
-- beug

@@ -88,22 +88,3 @@ sites. The trichome density can be extraordinary in well-grown
 specimens, with a frosty appearance developing during mid-to-late
 flowering. Sativa resin often has a more fluid, less viscous
 consistency than indica resin, which some hashish makers find produces
-a different character in solventless extracts.
-
-## Environmental Adaptations
-
-The morphological features of Cannabis sativa reflect millions of years
-of adaptation to tropical and subtropical environments. The tall
-stature, narrow leaflets, open branching, loose flower structure, and
-deep root system all serve survival functions in warm, humid, often
-windy climates with well-drained soils and distinct wet and dry
-seasons.
-
-Understanding these adaptations helps cultivators provide appropriate
-growing conditions. Attempting to grow a pure sativa in an
-indica-optimized environment (short vegetative cycles, compact spacing,
-high-density training) often leads to suboptimal results. Respect for
-## See Also
-
-- [[cannabis-sativa-vs-indica-guide]]
-- [[cannabis-photoperiodism-and-light-cycles]]

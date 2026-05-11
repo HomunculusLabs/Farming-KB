@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
@@ -87,21 +88,3 @@ superior texture and flavor, and the ability to become quite large.
 A notable patent controversy exists: a Japanese group was awarded a patent for
 a strain producing a "convex cap." [[hypsizygus-tessulatus]], which
 has demonstrated remarkable anti-cancer activity, suggests potential
-pharmacological merit worthy of further investigation.
-
-## Flavor and Preparation
-
-hypsizygus ulmarius is considered one of the finest [[palmer-edible-mushrooms-north-america]], with
-a firm meaty texture and rich, nutty flavor that surpasses most other oyster-like
-species. The large cap size makes it versatile in the kitchen, suitable for
-grilling, sauteing, roasting, and soups. It pairs well with butter, garlic,
-herbs, cream sauces, and hearty meat dishes.
-
-## References
-
-- Bulliard, J.B.F. Original description.
-- Petersen, R.H. (1993). Studies on Hypsizygus species.
-- Redhead, S.A. Transfer to Hypsizygus.
-- Stamets, P. (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]].
-## See Also
-- [[medicinal-mushrooms]]

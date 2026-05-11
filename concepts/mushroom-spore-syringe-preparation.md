@@ -16,7 +16,7 @@ A spore syringe is a suspension of mushroom spores in sterile water, loaded into
 Mushroom spores are the microscopic reproductive cells produced by the gills (or pores) of mature fruiting bodies. A single mushroom cap can release millions of spores. When deposited on a growth medium under the right conditions, spores germinate to form haploid mycelium, which eventually mates with compatible hyphae to form dikaryotic mycelium — the actively growing organism that colonizes substrates and produces mushrooms.
 
 Key facts:
-- Psilocybe cubensis spores are approximately 11-17 x 7-12 micrometers.
+- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]] spores are approximately 11-17 x 7-12 micrometers.
 - Spores are extremely durable and can survive for years in cool, dry, dark storage.
 - Spores do NOT contain psilocybin or psilocin — the psychoactive compounds are produced by the mycelium and fruiting body.
 - Each spore contains a unique genetic complement — germinating spores produces a wide range of genetic variation.
@@ -34,7 +34,7 @@ Before you can make a spore syringe, you need a spore print.
 
 ### Process
 
-1. **Harvest timing**: The best time to take a print is when the veil has just torn and the gills are fully exposed but the cap has not flattened completely. Earlier = too few spores. Later = spores may be contaminated from the growing environment.
+1. **Harvest timing**: The best time to take a print is when the veil has just torn and the gills are fully exposed but the cap has not flattened completely. Earlier = too few spores. Later = spores may be contaminated from the [[cannabis-growing-environment-setup]].
 2. **Preparation**: Work in a clean environment. Wipe all surfaces with 70% alcohol. Wash hands thoroughly.
 3. **Cut the stem**: Using a flame-sterilized scalpel or clean scissors, cut the stem as close to the cap as possible. Avoid touching the gills with anything.
 4. **Place the cap**: Set the cap gills-down on the foil or paper. Cover with the glass or bowl to prevent air currents from disturbing the spores.
@@ -53,7 +53,7 @@ Before you can make a spore syringe, you need a spore print.
 - Small sterile jar or shot glass
 - Butane torch or alcohol lamp
 - Isopropyl alcohol (70%)
-- Still air box (SAB) or laminar flow hood
+- Still air box (SAB) or [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 
 ### Process
 
@@ -107,11 +107,11 @@ A poor spore syringe:
 - **Frozen**: Not recommended — ice crystal formation damages spores.
 - **Light exposure**: Store in the dark. UV light degrades spores over time.
 
-For long-term genetic preservation, agar slants or cultures stored in mineral oil are superior to spore syringes. Spores represent sexual reproduction and introduce genetic variability with each germination — they are not clones of the parent mushroom.
+For long-term genetic preservation, agar slants or cultures stored in mineral oil are superior to spore syringes. Spores represent [[basidiomycete-mating-systems-sexual-reproduction]] and introduce genetic variability with each germination — they are not clones of the parent mushroom.
 
 ## Legal Status
 
-Spore syringes and spore prints are legal to possess and sell in many jurisdictions because the spores themselves do not contain controlled substances. However, the act of germinating spores with the intent to cultivate psilocybin-containing mushrooms is illegal in many places. Laws vary widely by country, state, and municipality. Always research local regulations before acquiring or using spore materials.
+Spore syringes and spore prints are legal to possess and sell in many jurisdictions because the spores themselves do not contain [[controlled-substances-act-and-psychedelic-research]]. However, the act of germinating spores with the intent to cultivate psilocybin-containing mushrooms is illegal in many places. Laws vary widely by country, state, and municipality. Always research local regulations before acquiring or using spore materials.
 
 ## Related Topics
 

@@ -16,7 +16,7 @@ containing lignin and its derivatives from pulping, bleaching, and
 chemical recovery operations. Fungi, particularly white-rot species,
 have demonstrated exceptional ability to degrade lignin-related phenolic
 compounds and decolorize these recalcitrant effluents through their
-ligninolytic enzyme systems.
+[[ligninolytic-enzyme-systems-white-rot-fungi]].
 
 ## Effluent Characteristics
 
@@ -43,24 +43,24 @@ extraction-stage effluent within 24 to 48 hours. Key species include:
 
 ### White-Rot Fungi
 - **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Most extensively studied; decolorizes
-  efficiently in presence of sugar refinery or brewery wastes as carbon
+  efficiently in presence of sugar refinery or [[fungal-treatment-of-distillery-and-brewery-wastes]] as carbon
   cosubstrate; combined ozone-fungal treatment removes more color than
   either method alone
 - **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Pellets remove more than 60% E1-stage
   effluent color within 24 hours through rapid adsorption
 - **[[stamets-reishi-ganoderma-lucidum-cultivation]]**: Demonstrated decolorization capacity for kraft
   mill effluents
-- **Lentinus edodes**: Removes 73% color without additional carbon
+- **[[lentinus-edodes-entity-the-mushroom-cultivator]]**: Removes 73% color without additional carbon
   source; LiP and MnP levels enhanced fourfold with preirradiation
 
 ### Non-Ligninolytic Fungi
 - **Paecilomyces sp. (F3)**: 67% decolorization on first day of kraft
-  bleach pulp effluent treatment; reduces lignin 86%, color 95%, AOX
+  bleach pulp [[pulp-paper-effluent-treatment]]; reduces lignin 86%, color 95%, AOX
   67%, phenol 63%, and COD 88% after 3 days in sequential reactor
-- **Aspergillus niger and A. foetidus**: Effective in specific effluent
+- **[[aspergillus-niger]] and A. foetidus**: Effective in specific effluent
   conditions
 - **Rhizopus oryzae**: Responds well to glucose cosubstrate
-- **Schizophyllum commune**: Achieves nearly 80% color reduction in 5
+- **[[schizophyllum-commune]]**: Achieves nearly 80% color reduction in 5
   days with bagasse pith addition
 
 ## Bioreactor Configurations
@@ -87,49 +87,3 @@ periods.
   fungal treatment provides more effective color removal
 
 ## Factors Affecting Decolorization
-
-- **Carbon cosubstrate**: Glucose, sugar refinery waste, and brewery
-  waste enhance decolorization efficiency for multiple fungal species
-- **Nitrogen limitation**: Promotes ligninolytic [[ligninolytic-enzyme-production-bioremediation]] in
-  white-rot fungi
-- **pH and temperature**: Species-specific optima must be maintained
-- **Effluent dilution**: Reduces toxicity and improves fungal activity
-- **Static versus agitated conditions**: Affect enzyme production and
-  mass transfer differently
-
-## Thermotolerant Fungal Applications
-
-Rhizomucor pusillus, a thermotolerant fungus, removes 43% and 48% of
-bleach plant effluent after 2 and 8 hours respectively. This species can
-grow at temperatures up to 55 degrees Celsius and exhibits 85% greater
-decolorizing ability at 55 degrees than at 35 degrees. The ability to
-treat effluents at elevated temperatures eliminates the need for cooling
-steps, reducing overall treatment costs and energy requirements for
-industrial applications.
-
-## Marine Fungi in Effluent Treatment
-
-Marine fungi including Sordaria fimicola, Halosarpheia ratnagiriensis,
-and unidentified basidiomycete species have demonstrated decolorization
-capacity for pulp and paper mill effluents. The use of marine-derived
-fungi offers advantages for coastal pulp mills where seawater is readily
-available and salinity-tolerant organisms may be beneficial.
-
-## Chlorophenol and Chloroaldehyde Removal
-
-Fungal treatment removes chlorinated phenols and chloroaldehydes from
-bleach plant effluents. Coriolus versicolor completely removes
-monoaromatic chlorophenolics and toxicity, while ozone removes them only
-partially. Both treatments degrade all molecular sizes equally based on
-molecular-weight distribution analysis.
-
-## See Also
-
-- [[paper-plane]]
-
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- singh-fungal-metabolism-phenols-chlorophenols
-- biobleaching-of-pulp-by-white-rot-fungi
-- [[phanerochaete-chrysosporium]]
-- [[aspergillus-niger]]
-- [[coriolus-versicolor]]

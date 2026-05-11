@@ -1,5 +1,5 @@
 ---
-title: Mushroom [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]
+title: Mushroom Negative Geotropism
 created: 2026-05-09
 tags: [mycology, tropism, geotropism, gravity-response, mushroom-development]
 date: 2026-05-09
@@ -88,59 +88,3 @@ The negative geotropic response causes the pileus to turn upward regardless of:
   direction)
 
 ### Rotation Experiments
-
-- **Horizontal rotation** (3 rpm) to equalize gravity: under constant
-  illumination, both growth and pileus expansion become horizontal, confirming
-  gravity as the primary stimulus
-- **Parallel rotation** (into and along airflow): [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] continues
-  and the pileus opens into the wind, with the geotropic response directing
-  overall upward orientation
-
-### Interaction with Anemotropism
-
-At Stage 2, the emerging negative geotropism progressively masks the earlier
-anemotropic response. The mechanism appears to involve a substance produced in
-the gills during spore formation that modifies the primary (evaporative demand)
-tropism, causing the mushroom to respond primarily to gravity instead.
-
-## Proposed Mechanism
-
-Badham suggested that a substance produced in the gills during spore formation
-modifies the first tropism (anemotropism) and causes the mushroom to respond
-primarily to gravity. This is consistent with earlier findings:
-
-- Plunkett (1961) described changes in tropisms during [[mushroom-stipe-development-stages]] in
-  Polyporus brumalis
-- The partial veil may protect the upper stipe from wind and light prior to
-  the geotropic readjustment, allowing the gill-produced substance to take
-  effect only at the appropriate developmental stage
-
-## Adaptive Significance
-
-### Spore Dispersal Optimization
-
-A horizontal pileus orientation is critical for effective spore release:
-- Lamellae (gills) hang vertically beneath the cap, allowing spores to drop
-  free and be carried by air currents
-- Negative geotropism ensures this optimal orientation regardless of the
-  direction the stipe was growing during early development
-
-### Habitat-Specific Importance
-
-Plunkett (1961) noted that negative geotropic response is especially useful for
-lignicolous (wood-dwelling) and coprophagous (dung-dwelling) species. These
-habitats are inherently unstable — wood decays, dung dries and breaks apart —
-and a horizontal pileus maximizes the chance of successful spore dispersal
-before the substrate fails.
-
-### Veil as Protective Structure
-
-The partial veil (connecting the pileus margin to the stipe) may serve a dual
-function during development:
-1. Protecting the developing gills from desiccation and contamination
-2. Shielding the upper stipe from wind and light, preventing premature
-  geotropic response before spore production begins
-
-## See Also
-
-- [[geotropism-in-basidiomycetes]]

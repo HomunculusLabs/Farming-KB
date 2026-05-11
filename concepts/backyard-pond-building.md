@@ -9,13 +9,13 @@ sources: []
 
 # Backyard Pond Building
 
-A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around site selection, design, liner installation, and ongoing maintenance. (see [[water-garden-and-ponds]]).
+A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around site selection, design, liner installation, and ongoing maintenance.
 
 ## Site Selection
 
 Choose the pond location based on these factors:
 
--  **Sunlight** — 6+ hours of direct sun supports submerged plants and discourages algae when balanced with shade. Partial afternoon shade is ideal. (see [[natural-pool-building]]).
+-  **Sunlight** — 6+ hours of direct sun supports submerged plants and discourages algae when balanced with shade. Partial afternoon shade is ideal.
 -  **View from home** — Place the pond where you can see and enjoy it daily, which also aids monitoring.
 -  **Existing trees** — Avoid locating directly under deciduous trees. Falling leaves decompose and create nutrient overload, causing algae blooms. Root systems can damage liners.
 -  **Slope** — A gentle slope is easiest to work with. Avoid low spots that receive concentrated runoff (nutrient and sediment loading).
@@ -93,20 +93,20 @@ Natural biological filtration is preferred for backyard ponds:
 
 ### Submerged Oxygenators
 
-- Hornwort (Ceratophyllum demersum) — very effective, no roots needed
+- Hornwort ([[ceratophyllum-demersum]]) — very effective, no roots needed
 - Elodea (Egeria densa) — excellent oxygenator, can be invasive
 - Anacharis (Egeria najas) — easy to grow, good for beginners
 
 ### Floating Plants
 
-- Water hyacinth (Eichhornia crassipes) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
+- Water hyacinth ([[eichhornia-crassipes]]) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
 - Water lettuce (Pistia stratiotes) — good shade plant, also invasive in warm climates
 - Duckweed (Lemna spp.) — tiny floating plant, excellent nutrient scrubber, provides fish food
 
 ### Marginal/Bog Plants
 
 - Blue flag iris (Iris versicolor)
-- Pickerelweed (Pontederia cordata)
+- Pickerelweed ([[pontederia-cordata]])
 - Cattails (Typha spp.) — vigorous spreader, contain with root barriers
 - Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
@@ -128,7 +128,7 @@ Do not overstock. Rule of thumb: 2.5 cm of fish length per 100 liters of water.
 
 ## Wildlife Attraction
 
-A well-designed pond attracts frogs, dragonflies, birds, and beneficial insects:
+A well-designed pond attracts frogs, dragonflies, birds, [[hemenway-insectary-plants-and-beneficial-insects]]:
 
 - Include a shallow beach area (gradual slope to 2-3 cm depth) for amphibians and birds to access water safely
 - Add rocks and logs for basking and hiding spots
@@ -143,8 +143,7 @@ In cold climates, ponds need winter preparation:
 -  **Keep a hole open** in ice for gas exchange. Use a floating de-icer or air pump bubbler. Never break ice by hitting it — the shock can harm fish.
 -  **Stop feeding fish** when water temperature drops below 10 C (50 F). Their metabolism slows and they cannot digest food.
 -  **Trim dead vegetation** in fall to prevent decomposition in the pond over winter.
--  **Deep ponds** (90+ cm) in most temperate climates allow fish to overwinter without additional heating. The bottom stays at 4 C even when surface freezes.
+-  **Deep ponds** (90+ cm) in most [[fukuoka-natural-farming-temperate-climates]] allow fish to overwinter without additional heating. The bottom stays at 4 C even when surface freezes.
 -  **Tropical plants** must be brought indoors or treated as annuals.
 
 ## Integration with Homestead Systems
-

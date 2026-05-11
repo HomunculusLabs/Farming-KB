@@ -7,8 +7,8 @@ concepts: [plant-olfaction, ethylene, volatile-organic-compounds, plant-communic
 # Plant Olfaction
 
 Plants lack noses, olfactory bulbs, and brains, yet they possess a sophisticated ability
-to detect and respond to airborne chemical signals. In *What a Plant Knows* (2012),
-Daniel Chamovitz argues that plant olfaction — the detection of volatile organic
+to detect and respond to airborne [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]. In *What a Plant Knows* (2012),
+Daniel Chamovitz argues that plant olfaction — the detection of [[chamovitz-plant-scent-communication-volatile-organic-compounds]]
 compounds (VOCs) — represents one of the most remarkable sensory systems in the
 botanical world. Plants continuously sample the chemical composition of the air around
 them and alter their growth, development, and defense strategies in response.
@@ -16,7 +16,7 @@ them and alter their growth, development, and defense strategies in response.
 The very notion that plants can "smell" challenges deeply held assumptions about what
 constitutes a sensory system. Chamovitz draws on decades of research in plant molecular
 biology to demonstrate that the functional hallmarks of olfaction — stimulus detection,
-signal transduction, and an organized adaptive response — are all present in plants,
+[[fungal-environmental-sensing-signal-transduction]], and an organized adaptive response — are all present in plants,
 even though the molecular machinery looks nothing like an animal nose.
 
 ## Ethylene: The Discovery of a Gaseous Hormone
@@ -25,7 +25,7 @@ The cornerstone discovery in plant olfaction is ethylene — a simple gaseous hy
 (C₂H₄) that functions as a plant hormone. Unlike animal hormones circulating through
 blood, ethylene is airborne, traveling between plants and between distant tissues on
 the same plant. Ethylene was first identified as the agent responsible for fruit
-ripening when it was observed that ripening fruit in enclosed spaces caused nearby
+ripening when it was observed that ripening fruit in [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces]] caused nearby
 unripe fruit to ripen prematurely. This "ripening room effect" was known to fruit
 growers for centuries before its chemical basis was understood.
 
@@ -37,7 +37,7 @@ market delivery.
 
 ## The Ethylene Signaling Cascade
 
-The ethylene cascade illustrates how plants convert a volatile chemical cue into a
+The ethylene cascade illustrates how plants convert a [[plant-olfaction-volatile-chemical-detection]] cue into a
 developmental response. Ethylene molecules bind to receptor proteins embedded in plant
 cell membranes, most notably the ETR (ethylene response) family identified in
 *[[arabidopsis-thaliana]]*. These receptors function as negative regulators: in the absence
@@ -78,7 +78,7 @@ on volatile alarm signals in natural ecosystems.
 
 Plants detect VOCs through membrane-bound receptor proteins rather than olfactory
 neurons. The ethylene receptors are the best-studied example, but plants also possess
-other receptor-like kinases and ion channels responsive to specific volatile compounds.
+other receptor-like kinases and ion channels responsive to specific [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
 These proteins undergo conformational changes upon ligand binding, initiating
 [[gadd-intracellular-signal-transduction-filamentous-fungi]] cascades that alter gene expression. The specificity
 of these receptors allows plants to distinguish between different chemical messages — a
@@ -88,60 +88,3 @@ Some plant receptors are evolutionarily related to animal sensory proteins, thou
 have diverged enormously. Plants lack the G-protein-coupled receptor (GPCR) cascades
 that dominate animal olfaction, relying instead on two-component histidine kinase-based
 systems and ion-channel-based mechanisms. Despite different molecular architecture, the
-functional outcome is analogous: an external chemical cue is detected, transduced, and
-converted into an adaptive behavioral or developmental response.
-
-## Pathogen Detection and Chemical Signatures
-
-Plants also use volatile detection to identify pathogens. Certain soil bacteria and
-fungi release characteristic VOCs that plant roots can sense. *Arabidopsis* roots
-exposed to volatiles from the beneficial bacterium *[[bacillus-subtilis]]* showed altered
-growth patterns and enhanced disease resistance, suggesting volatile communication plays
-a role in recruiting protective microbiomes. Above ground, plants detect fungal spores
-and bacterial volatiles, mounting preemptive immune responses through salicylic acid
-and jasmonic acid [[plant-signaling-pathways]].
-
-This extends to below-ground interactions: root systems release exudates and VOCs into
-the rhizosphere that attract [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] nitrogen-fixing bacteria, effectively
-"smelling" potential symbiotic partners through shared chemical signatures.
-
-## Agricultural Applications
-
-Understanding plant olfaction has yielded practical applications in agriculture and
-food storage. Ethylene inhibitors such as 1-methylcyclopropene (1-MCP, marketed as
-SmartFresh) block ethylene receptors, dramatically extending the shelf life of apples,
-bananas, kiwifruit, and cut flowers during storage and transport. Controlled-atmosphere
-storage systems regulate ethylene, oxygen, and carbon dioxide concentrations to slow
-ripening during long-distance shipping.
-
-Companion planting strategies benefit from volatile communication research. Intercropping
-with aromatic herbs that release insect-repellent VOCs — such as basil alongside
-tomatoes — can reduce pest pressure. The push-pull strategy in African maize farming uses
-plants emitting attractive volatiles to lure stem borers away (pull) while border
-plants emit repellent volatiles (push), demonstrating applied plant-insect chemical
-communication at significant scale.
-
-Future applications include engineering crops to produce enhanced defensive volatiles,
-using synthetic VOCs as precision agricultural signals, and developing volatile-based
-monitoring systems that detect pathogen outbreaks by sampling airborne chemical
-signatures in greenhouses and fields.
-
-## Key Takeaways
-
-- Plants detect airborne VOCs through membrane-bound receptor proteins, not noses.
-- Ethylene is the best-characterized volatile signal, driving fruit ripening via a
-  conserved kinase cascade from receptor to transcription factor.
-- Plants eavesdrop on neighbor distress signals (HIPVs) to preemptively activate
-  chemical defenses against approaching herbivores.
-- Volatile communication extends to pathogen detection, beneficial microbe recruitment,
-  and below-ground rhizosphere signaling.
-- Agricultural applications include ethylene inhibitors for storage, companion planting
-  for pest management, and push-pull cropping systems.
-- Plant olfaction, while mechanistically distinct from animal smell, is functionally
-  analogous — an external chemical stimulus is perceived and an adaptive response
-  is mounted.
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]

@@ -28,7 +28,7 @@ Potassium plays critical roles in plant health:
 
 ## The Bracken Fern: A Historical Potassium Source
 
-The bracken fern (*Pteridium aquilinum*) is a remarkable potassium accumulator with a long history of practical use. In early 1900s England, bracken fern was commercially harvested as a source of potash for washing:
+The bracken fern (*[[pteridium-aquilinum]]*) is a remarkable potassium accumulator with a long history of practical use. In early 1900s England, bracken fern was commercially harvested as a source of potash for washing:
 
 - During summer, leaves were collected green, dried, then burned
 - The resulting ash was moistened and molded into balls for use as a potassium-based cleaning agent
@@ -42,7 +42,7 @@ Alan Chadwick, father of biodynamic French [[solomon-wide-spacing-versus-intensi
 ### Top Accumulators (Highest Concentrations)
 
 - **Bracken fern** (*Pteridium aquilinum*) — 25-55% potash in green foliage; the most exceptional potassium accumulator documented
-- **Comfrey** (*Symphytum officinale*) — widely regarded as one of the best all-around accumulators; very high potassium content in leaves; can be cut 4-5 times per season
+- **Comfrey** (*[[comfrey-symphytum-officinale]]*) — widely regarded as one of the best all-around accumulators; very high potassium content in leaves; can be cut 4-5 times per season
 - **[[comparison-stinging-nettle-vs-horsetail]]** (*Urtica urens*) — exceptional potassium accumulator; ideal for compost teas and liquid feeds; also very high in nitrogen
 - **Dandelion** (*Taraxacum vulgare*) — deep taproot mines subsoil potassium; ubiquitous in gardens
 - **Lamb's quarters** (*Chenopodium album*) — fast-growing summer annual with high K; pioneer species
@@ -63,14 +63,14 @@ The following plants have been documented as accumulating potassium in their fol
 - Chives (*Allium* sp.)
 - Fennel (*Foeniculum vulgare*)
 - Garlic (*Allium sativum*)
-- Parsley (*Petroselinum crispum*)
+- Parsley (*[[petroselinum-crispum]]*)
 - Peppermint (*Mentha piperita*)
-- Purslane (*Portulaca oleracea*)
+- Purslane (*[[portulaca-oleracea]]*)
 
 **Common Weeds and Wild Plants**
 - Burdock (*Arctium minus*)
 - Chickweed (*Stellaria media*)
-- Chicory (*Cichorium intybus*)
+- Chicory (*[[cichorium-intybus]]*)
 - Docks (*Rumex* spp.) — including broad-leaved dock
 - Fat hen (*Atriplex hastata*)
 - Groundsel (*Senecio vulgaris*)
@@ -87,54 +87,4 @@ The following plants have been documented as accumulating potassium in their fol
 - Bracken fern (*Pteridium aquilinum*)
 - Carrot leaves (*Daucus carota*)
 - Cattail (*Typha latifolia*)
-- Coltsfoot (*Tussilago farfara*)
-- Horsetails (*Equisetum* spp.) — field, marsh, and general
-- Oat straw — particularly high K; popular mulch material
-- Sorrel (*Rumex* spp.) — garden and sheep sorrel
-
-**Trees and Shrubs**
-- Oak bark (*Quercus* spp.)
-- Willow (*Salix* spp.) — including black willow
-
-**Aquatic and Marine Plants**
-- Kelp (seaweed) — naturally high in potassium from ocean sources
-- Bladderwrack (seaweed)
-- Watercress (*Nasturtium officinale*)
-
-**[[hamilton-perennial-flowers-organic]]**
-- Meadowsweet (*Filipendula ulmaria*)
-- Spurges (*Euphorbia* spp.)
-- Strawberry leaves (*Fragaria* spp.)
-- Yarrow (*Achillea millefolium*)
-
-**Specialty**
-- Tobacco stems/stalks (*Nicotiana* sp.) — high potassium residue; not recommended for food gardens due to potential disease transmission
-
-## Recycling Potassium
-
-Once an accumulator plant has freed potassium from its mineral form and used it to grow, the element can be recycled through several methods:
-
-- **Composting**: The primary method — potassium-rich plant material breaks down into nutrient-dense compost; potassium is relatively stable through the composting process
-- **Mulching**: Fresh or dried accumulator foliage used as surface mulch slowly releases potassium as it decomposes
-- **Chop-and-drop**: Cutting plants and leaving them in place as green manure; the simplest method with the least nutrient loss
-- **Cover cropping/green manuring**: Growing accumulators in place, then incorporating into soil; faster decomposition than surface mulch
-- **Compost tea**: Steeping potassium-rich plants (nettle, comfrey) in water for 1-4 weeks creates a potassium-boosted liquid fertilizer; dilute before applying
-- **Ash**: Burning potassium-rich plants (historically done with bracken fern) creates concentrated potassium ash; use sparingly as it also raises pH
-
-## Potassium for Specific Crops
-
-Potassium-hungry crops that benefit most from accumulator mulch or compost include:
-
-- **Root crops**: Potatoes, carrots, beets, onions — potassium essential for tuber/bulb development
-- **Fruiting crops**: Tomatoes, peppers, eggplant — potassium improves fruit quality and disease resistance
-- **Fruit trees and berries**: Potassium for fruit sweetness, winter hardiness, and disease resistance
-- **Brassicas**: Cabbage, broccoli, cauliflower — potassium for head formation and cold tolerance
-
-## Related
-
-- [[dynamic-accumulator-plants-nitrogen]]
-- [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[dynamic-accumulator-chop-and-drop-mulching]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
-- [[dynamic-accumulator-plants-calcium-and-magnesium]]
+- Coltsfoot (*[[tussilago-farfara]]*)

@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [water, conservation]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -12,9 +13,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The [[field-guide-psilocybin-bluing-reaction-identification]] I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea, Dr. [[elaine-ingham]], Soil Foodweb Inc.
 
-Ingham provides a nuanced view of pH in compost tea and soil, arguing that the soil foodweb itself manages pH and that excessive focus on pH numbers is part of the "chemical paradigm."
+Ingham provides a nuanced view of pH in [[compost-tea-and-biological-extracts]] soil, arguing that the soil foodweb itself manages pH and that excessive focus on pH numbers is part of the "chemical paradigm."
 
 ## pH Is a Symptom, Not a Cause
 
@@ -33,7 +34,7 @@ The analogy: "You can be sick and not have a temperature. But a temperature is a
 - Aerobic soil and compost fungi buffer their medium between pH 5.5 and 7.0
 - They produce organic acids that maintain this range
 - This is the range beneficial for perennial plant growth
-- Low pH does NOT select for fungal growth in general (contrary to common assumption)
+- Low pH does NOT select for [[brassinosteroid-fungal-growth-promotion]] in general (contrary to common assumption)
 - Anaerobic fungi (yeasts) can produce organic acids with pH as low as 2
 
 ### Bacteria
@@ -67,13 +68,13 @@ Answer: If you have active bacteria and fungi in the tea, don't worry about pH. 
 
 ### Lowering pH (for alkaline water)
 - 3 teaspoons of citric acid drops 100 gallons of water by approximately 1 pH unit
-- Ferric citrate works similarly (Tang contains ferric citrate but also sugar — be careful with sugar in warm weather)
+- Ferric citrate works similarly (Tang contains ferric citrate but also sugar — be careful with sugar in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]])
 - Citric acid can be found in health food stores or chemistry supply catalogs (Sigma, Fisher)
 - Vinegar can be used but requires testing to determine the right amount per volume
 - For spray tank: add citric acid before adding tea
 
 ### Practical Consideration
-If your irrigation water is high pH, add [[hamilton-composting-and-organic-matter-management]] or humic/fulvic acids to the soil surface. These will react with the excess OH ions before the water moves into the soil. Testing is needed to determine how much is required.
+If your irrigation water is high pH, add [[hamilton-composting-and-organic-matter-management]] or humic/[[teaming-with-microbes-humic-and-fulvic-acids]] to the soil surface. These will react with the excess OH ions before the water moves into the soil. Testing is needed to determine how much is required.
 
 ## The Chemical Paradigm vs. Biological Paradigm
 
@@ -87,43 +88,3 @@ Ingham challenges the conventional approach to pH:
 
 ### Biological Paradigm
 - Establish the right foodweb for the plant
-- The foodweb buffers pH to the correct range
-- Roses (acid-loving) can grow in alkaline soil IF the right [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are established around their roots
-- "CT and a healthy soil foodweb make this concern with pH a part of the chemical paradigm, and are not as important with sustainable practices"
-
-### The Limits
-- Below 4.5: calcium, iron, phosphorus and other nutrients become unavailable
-- Above 10: same [[ph-and-nutrient-availability-garden-soils]] problems
-- Between 4.5 and 10: the foodweb can manage, given good biology
-- The foodweb maintains the form of N, P, S, K, Ca, Fe, etc. that the plant needs
-
-## pH Changes During Brewing
-
-Organisms alter pH through their metabolic waste:
-- While you set the initial pH, within seconds the microbes start changing it
-- Aerobic conditions push pH toward 5.5-7.0 regardless of starting point
-- Anaerobic conditions push pH below 4.5
-- This is another reason to monitor oxygen, not just pH
-
-## Water Quality Beyond pH
-
-### Chlorine/Chloramine
-- Must be removed before brewing (aerate 24+ hours or filter)
-- Citric acid can neutralize chlorine but requires precise dosing — not reliable for variable water
-
-### Salt/EC
-- High sodium levels harm organisms
-- Options: reverse osmosis, add humic acids with good bacteria and fungi to complex the salts
-- High salts must be addressed — there is no workaround
-
-### Organic Matter Content
-- Water with [[dighton-fungal-dissolved-organic-carbon-production]] matter may contain organisms that compete with your compost biology
-- Generally not a problem, but worth testing if results are inconsistent
-
-See also: [[aact-troubleshooting-ingham]], [[compost-tea-aact]]
-- [[teaming-with-microbes-humic-and-fulvic-acids]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
-
-## See Also
-
-- [[lemna-minor]]

@@ -3,7 +3,9 @@ title: "How Do I Improve Heavy Clay Soil in My Garden?"
 tags: [query, soil, clay, soil-amendment, gardening]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # How Do I Improve Heavy Clay Soil in My Garden?
@@ -146,5 +148,3 @@ A soil test is essential before applying gypsum — it tells you whether calcium
 - [[query-how-do-i-adjust-soil-ph-naturally]]
 - [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]]
 - [[query-how-do-i-start-a-no-till-garden-bed]]
-- [[query-what-are-the-benefits-of-no-till-gardening]]
-- [[query-how-do-fungi-improve-soil-structure]]

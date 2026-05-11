@@ -88,17 +88,3 @@ Clarified butter, or ghee, lasts much longer than regular butter. Once made into
 Clarified butter is used in cream sauces and for frying. The removal of milk solids means it has a much higher smoke point than regular butter and will not burn as easily.
 
 ## Organ Meats: Liver and Beyond
-
-In a permaculture system that values producing no waste, organ meats (offal) represent some of the most nutrient-dense food available. Liver, kidney, heart, and other organs are often discarded in conventional butchering but are extremely valuable from a nutritional perspective.
-
-### Liver
-
-Liver is nature's most concentrated source of vitamin A, iron, B vitamins, and many other nutrients. It should be sourced from healthy, organically-raised animals. Cooking methods include:
-- Pan-frying with onions and herbs (the classic preparation)
-- Making liver pate by blending cooked liver with butter, herbs, and spices
-- Adding to stews and casseroles in small quantities
-- Grilling thinly sliced liver with seasoning
-
-### Kidney
-
-Kidney has a stronger flavour than liver faires-low-energy-refrigeration used for vegetables

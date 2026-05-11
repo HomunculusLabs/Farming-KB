@@ -1,5 +1,5 @@
 ---
-title: Winter Salad and [[coleman-salad-and-braising-mix-production]] Composition - Coleman
+title: Coleman Winter Salad Braising Mix Composition
 source: eliot-coleman-winter-harvest-handbook.md
 source_author: [[eliot-coleman]]
 source_chapter: "Chapter 8 - [[coleman-semi-hibernating-winter-crops-harvest-extension]]"
@@ -87,55 +87,3 @@ Despite occasional inconsistency, the farm prefers selling a consistent
 product and continues the search for hardier cultivars.
 
 ## The Braising Mix
-
-The braising mix is made up of hardy Asian greens, cut slightly larger
-than the baby-leaf salad but never more than 4 inches long unless
-absolutely necessary. It excludes any leaves not normally cooked — ruling
-out mâche, lettuce, claytonia, and endive.
-
-The braising mix includes spinach, chard, and all the Asian greens:
-mizuna, mibuna, tatsoi, pak choi, tokyo bekana, and others. Red-leaved
-mustards were tried but none have sufficient color in winter, so 'Bull's
-Blood' beet leaves provide the red accent.
-
-Spinach is not necessary if tatsoi supply is good, but chard leaves are
-kept for their tenderness. Many customers use this mix as a raw salad
-as a change of pace, so it is sold as an "Asian salad/braising mix."
-
-## Experimental Approaches
-
-The possibilities for experimenting with winter mixes are nearly endless.
-Key variables to figure out: how much of each ingredient to plant to
-meet demand, how often to plant for correct [[cannabis-harvest-timing-visual-cues]], and how
-plants will react to cold conditions — whether quality remains high and
-how soon they bolt to seed.
-
-A notable experiment planted a broad selection of oriental greens on
-October 25 in unheated houses. On February 15 (the coldest time of
-winter), a successful salad mix was harvested from 4-inch-tall plants
-including 'Joi Choi', 'Yu Choi', 'Mei Qing Choi', tatsoi, and mizuna.
-All needed prompt harvesting because within a week, all but 'Joi Choi'
-started going to seed. 'Joi Choi' continued growing and was sold bunched
-as "baby pak choi" through the end of March.
-
-## The Stir-Fry Pak Innovation
-
-One winter, the farm created a "Stir-Fry Pak" — a 10-by-15-inch
-cellophane bag containing whole ingredients: a head of 'Mei Qing Choi'
-pak choi, a head of young tatsoi, one 'Shunkyo' semi-long pink radish,
-one 'Hakurei' turnip with greens, one 'Tadorna' extra-hardy leek, and
-a large carrot. The contrasting colors and shapes made it a market
-success. The trial sold out by mid-December before the mature greens
-got a true cold-weather testing, though tatsoi, leek, and carrot are
-known to withstand the coldest conditions.
-
-## Lessons for Winter Mix Growers
-
-- Start with known cold-hardy varieties; experiment cautiously
-- Maintain strict quality standards even when supply is limited
-- Use succession planting to ensure continuous young leaf production
-- Monitor bed position within the greenhouse — edges are colder
-- Some crops (lettuce, endive, arugula) may need a cool house backup
-- Customer preferences for mild flavors should guide mix composition
-- The Stir-Fry Pak concept demonstrates value in whole-ingredient
-  packaging that simplifies cooking for customers

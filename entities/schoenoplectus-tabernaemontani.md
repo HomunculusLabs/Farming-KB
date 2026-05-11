@@ -11,28 +11,28 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Smith, S.G. (2002). "Schoenoplectus." Flora of North America North of Mexico 23: 9–62.
+  - Smith, S.G. (2002). "Schoenoplectus." Flora huckleberries-and-wild-berries-of-north-america North of Mexico 23: 9–62.
   - Froend, R.H. & McComb, A.J. (1994). "Response of Schoenoplectus tabernaemontani to Water Depth." Aquatic Botany 47(3): 273–284.
   - Wilson, K.L. (1981). "A Synopsis of the Genus Scirpus sensu lato in Australia." Telopea 2(2): 141–163.
-  - Coast, O. et al. (2018). "Schoenoplectus tabernaemontani in Constructed Wetlands for Wastewater Treatment." Ecological Engineering 120: 1–9.
+  - Coast, O. et al. (2018). "Schoenoplectus tabernaemontani in [[comparison-constructed-wetlands-vs-bioswales]] for [[constructed-wetland-design]]." Ecological Engineering 120: 1–9.
   - Soons, M.B. et al. (2017). "Seed Dispersal by Water in Schoenoplectus." Journal of Ecology 105(2): 389–401.
 ---
 
 ## Overview
 
-**Schoenoplectus tabernaemontani**, commonly known as soft-stem bulrush, soft bulrush, or great bulrush, is a perennial emergent aquatic plant in the family Cyperaceae. It has a nearly cosmopolitan distribution, occurring in wetlands across North America, South America, Europe, Africa, Asia, and Australasia.
+**Schoenoplectus tabernaemontani**, commonly known as soft-stem bulrush, soft bulrush, or great bulrush, is a perennial emergent aquatic plant in the family Cyperaceae. It has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring in wetlands across North America, South America, Europe, Africa, Asia, and Australasia.
 
 The species is one of the most ecologically important emergent macrophytes in freshwater and brackish wetland systems worldwide. Its dense stands provide critical habitat for waterfowl, fish, and invertebrates, while its extensive rhizome network stabilizes shorelines and filters water.
 
-Schoenoplectus tabernaemontani is one of the most frequently recommended species for wetland restoration and creation projects across temperate regions. Its broad ecological tolerance and rapid establishment make it a reliable choice for both freshwater and oligohaline sites.
+Schoenoplectus tabernaemontani is one of the most frequently recommended species for wetland restoration and creation projects across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Its broad ecological tolerance and rapid establishment make it a reliable choice for both freshwater and oligohaline sites.
 
-Schoenoplectus tabernaemontani is widely used in constructed wetland systems for wastewater treatment and stormwater management due to its high transpiration rates, vigorous growth, and tolerance of a wide range of water quality conditions.
+Schoenoplectus tabernaemontani is widely used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for wastewater treatment [[mollison-designers-cloudburst-and-stormwater-management]] due to its high transpiration rates, vigorous growth, and tolerance of a wide range of water quality conditions.
 
 ## Taxonomy and Morphology
 
-**Schoenoplectus tabernaemontani** was originally described as Scirpus tabernaemontani by the German botanist Johann Christian Daniel von Schreber in 1791, honoring the earlier botanist Jacobus Theodorus Tabernaemontanus. It was transferred to the genus Schoenoplectus by Eduard Palla in 1888.
+**Schoenoplectus tabernaemontani** was originally described as [[scirpus-tabernaemontani]] by the German botanist Johann Christian Daniel von Schreber in 1791, honoring the earlier botanist Jacobus Theodorus Tabernaemontanus. It was transferred to the genus Schoenoplectus by Eduard Palla in 1888.
 
-The species is frequently confused with the closely related Schoenoplectus lacustris (common bulrush), and some authorities have treated the two as conspecific. Modern treatments generally separate them based on perianth bristle characteristics and stem anatomy.
+The species is frequently confused with the closely related [[schoenoplectus-lacustris]] (common bulrush), and some authorities have treated the two as conspecific. Modern treatments generally separate them based on perianth bristle characteristics and stem anatomy.
 
 Plants grow 100–250 cm tall from a thick, extensively creeping rhizome system. Culms are cylindrical, smooth, bright green, and filled with pithy aerenchyma tissue that provides buoyancy and facilitates internal gas transport.
 
@@ -56,13 +56,13 @@ The species occupies a broad ecological amplitude, occurring in freshwater marsh
 
 It tolerates water depths from a few centimeters to over 2 meters, though optimal growth occurs at depths of 20–80 cm. Plants in deeper water produce taller culms with proportionally longer submerged stems.
 
-Culm diameter ranges from 4–10 mm, with robust forms in deep, nutrient-rich water producing the thickest stems. Annual biomass production can exceed 1,500 g dry weight per square meter in favorable conditions.
+Culm diameter ranges from 4–10 mm, with robust forms in deep, nutrient-rich water producing the thickest stems. Annual [[dighton-fungal-biomass-production-aquatic-ecosystems]] can exceed 1,500 g dry weight per square meter in favorable conditions.
 
 Elevation ranges from sea level to over 2,500 meters in mountainous regions. The species is particularly abundant in the prairie pothole region of central North America, where it dominates thousands of semi-permanent and permanent wetlands.
 
 Soil substrates range from mineral clays and silts to organic mucks and peats. The species tolerates moderately alkaline conditions and is one of the few emergent macrophytes that persists in saline and brackish wetland systems.
 
-In coastal areas, Schoenoplectus tabernaemontani occupies the upper portions of salt marshes and estuarine fringes where salinity is reduced by freshwater input. It is gradually replaced by halophytic species such as Spartina alterniflora at lower elevations.
+In coastal areas, Schoenoplectus tabernaemontani occupies the upper portions of salt marshes and estuarine fringes where salinity is reduced by freshwater input. It is gradually replaced by halophytic species such as [[spartina-alterniflora]] at lower elevations.
 
 ## Ecology
 
@@ -74,7 +74,7 @@ Waterfowl consume the achenes during fall migration, and muskrats use both the r
 
 Dabbling ducks such as mallards and teal feed extensively on the achenes in autumn. The persistent culm litter provides important brood-rearing cover for ducklings and shorebird chicks during the breeding season.
 
-The internal aerenchyma tissue enables oxygen transport from aerial portions to submerged roots, allowing the plant to persist in anoxic substrates. This radial oxygen loss also creates oxidized rhizosphere microsites that influence nutrient cycling and microbial activity.
+The internal aerenchyma tissue enables oxygen transport from aerial portions to submerged roots, allowing the plant to persist in anoxic substrates. This radial oxygen loss also creates oxidized rhizosphere microsites that influence [[soil-protozoa-nutrient-cycling-and-mineralization]] microbial activity.
 
 Seasonal senescence and decomposition of culms contribute significant organic matter to wetland soils. Decomposition rates are relatively slow, resulting in peat accumulation in persistent stands over decades to centuries.
 
@@ -87,36 +87,3 @@ Schoenoplectus tabernaemontani is most closely related to Schoenoplectus lacustr
 Schoenoplectus acutus (hard-stem bulrush) occurs in similar habitats across western North America but has a more rigid, non-pithy culm and occurs at slightly higher elevations. The two species occasionally hybridize where their ranges overlap.
 
 The genus Schoenoplectus contains approximately 100 species distributed worldwide. North American species include S. pungens (threesquare bulrush), S. americanus (chairmaker's bulrush), and S. purshianus (weak-stem bulrush).
-
-## Cultivation and Uses
-
-Schoenoplectus tabernaemontani is widely planted in constructed wetlands for tertiary wastewater treatment and stormwater polishing. Its high evapotranspiration rates and nutrient uptake capacity make it effective at removing nitrogen, phosphorus, and suspended solids from treated effluent.
-
-The species is also used in natural shoreline stabilization and restoration projects. Dense rhizome networks bind soil and resist erosion from wave action and water level fluctuations.
-
-Propagation is achieved by rhizome division in early spring or by direct seeding. Seed requires cold stratification for 60–90 days and germinates best on saturated substrates with exposed mineral soil.
-
-Rhizome divisions of 15–20 cm with 2–3 viable buds establish most rapidly when planted at a depth of 5–10 cm in saturated soil. Transplanting success rates exceed 85% when adequate moisture is maintained during the establishment period.
-
-Traditional uses include weaving of mats, baskets, and thatch from the culms by indigenous peoples in North America, Africa, and Asia. The soft pithy stems are less durable than those of Schoenoplectus lacustris but easier to process.
-
-Among the Klamath people of the Pacific Northwest, the rhizomes were traditionally harvested as a starchy food source. The young shoots were also eaten raw or cooked as a spring vegetable.
-
-In some regions, the species has become weedy in irrigation ditches and drainage canals, where its vigorous growth impedes water flow and requires periodic mechanical removal.
-
-Management of nuisance populations typically involves cutting culms below the waterline in late summer to prevent seed set, combined with targeted herbicide application to rhizomes in autumn when carbohydrate reserves are at their lowest.
-
-## See Also
-
-- [[bolboschoenus-maritimus]]
-
-- [[schoenoplectus-lacustris]]
-- [[typha-latifolia]]
-- [[typha-angustifolia]]
-- [[juncus-effusus]]
-- [[carex-stricta]]
-- [[carex-rostrata]]
-- [[eleocharis-palustris]]
-- [[sagittaria-latifolia]]
-- [[pontederia-cordata]]
-- [[phragmites-australis]]

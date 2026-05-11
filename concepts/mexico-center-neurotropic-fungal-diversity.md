@@ -87,11 +87,3 @@ the few instances of formalized religious veneration of fungi, blending
 indigenous [[sacred-mushroom-traditions-in-mexico]] with Catholic iconography.
 
 ## Contributions to Modern Mycology
-
-Mexico's role in the modern [[roger-heim-scientific-study-psilocybin]] of neurotropic fungi cannot be
-overstated. The Wasson expeditions of the 1950s, the work of Roger Heim at
-the Museum National d'Histoire Naturelle in Paris, and the extensive
-taxonomic contributions of mexico-global-center-neurotropic-fungal-diversity
-
-- [[ethnomycology-cultural-significance-sacred-fungi]]
-- [[worldwide-distribution-psilocybin-mushrooms]]

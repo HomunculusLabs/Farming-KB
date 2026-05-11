@@ -16,16 +16,16 @@ The concept of memory in plants challenges deeply held assumptions about
 the uniqueness of animal cognition. While plants lack brains, neurons, and
 nervous systems, they nevertheless demonstrate the ability to retain
 information about past experiences and use that information to guide future
-behavior. Plant memory operates through fundamentally different mechanisms
+behavior. [[plant-memory]] operates through fundamentally different mechanisms
 than animal memory -- relying on changes in gene expression, hormonal
 signaling, and epigenetic modification [[what-a-plant-knows-plant-vision-and-light-perception]],
-the phytochrome photoreceptor exists
+the [[phytochrome-photoreceptor]] exists
 in two interconvertible forms: a red-light-absorbing form (Pr) and a far-
 red-light-absorbing form (Pfr). When a plant receives a flash of red
 light, phytochrome converts to the Pfr form and remains in that state
 until far-red light or thermal reversion converts it back. The plant
 effectively "remembers" the last color of light it perceived, using this
-information to regulate flowering, germination, and shade avoidance.
+information to regulate flowering, germination, and [[shade-avoidance-syndrome]].
 
 ## Vernalization: Winter Memory
 
@@ -74,7 +74,7 @@ at defense-related gene loci, keeping these genes in a transcriptionally
 poised state ready for rapid reactivation.
 
 Herbivore priming operates through similar principles but involves
-jasmonic acid rather than salicylic acid signaling. Plants that have
+[[jasmonic-acid-plant-defense-signaling]] rather than salicylic acid signaling. Plants that have
 experienced insect feeding produce higher baseline levels of defensive
 attacks. This defense memory interacts with [[mimosa-pudica]],
 famous for its rapid leaf-folding response to touch, gradually stops
@@ -88,21 +88,3 @@ example, may lead to desensitization of mechanosensitive ion channels
 or depletion of intracellular calcium stores. The specificity and
 persistence of plant habituation demonstrate that even this seemingly
 simple learning behavior requires sophisticated molecular information
-processing.
-
-## Cross-Generational Memory
-
-Emerging evidence suggests that some forms of plant memory can be
-transmitted across generations. Offspring of plants subjected to drought,
-pathogen attack, herbivory, or excessive light may exhibit enhanced
-tolerance to the same stresses, even when they themselves have never
-experienced them. This transgenerational memory is mediated by epigenetic
-mechanisms including DNA methylation, small RNA populations, and histone
-modifications that are transmitted through seeds.
-
-The implications are profound: plant populations carry a molecular record
-of ancestral environmental experiences, enabling more rapid adaptation to
-## See Also
-
-- [[plant-olfaction-and-chemical-sensing]]
-- [[plant-mechanosensing-and-thigmomorphogenesis]]

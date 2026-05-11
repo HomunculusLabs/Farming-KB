@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/concepts/faires-yogurt-and-sourdough-making.md
   - ~/wiki/concepts/goat-cheese-making.md
   - ~/wiki/concepts/raw-milk-guide.md

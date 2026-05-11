@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin phosphorylation via zwitterionic intermediate psilocybin-synthesis-zwitterionic-intermediate-filtration-method
+title: [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] Via [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -19,7 +19,7 @@ Its zwitterionic nature (carrying both positive and negative charges) makes it i
 
 ## The Phosphorylation Challenge
 
-Converting psilocin to psilocybin requires adding a phosphate group to the 4-hydroxy position of the indole ring.
+Converting psilocin to psilocybin requires adding a phosphate group to the 4-hydroxy position of the [[indole]] ring.
 
 This phosphorylation proved to be one of the more challenging steps in [[psilocin-psilocybin-synthesis-shirota]], with earlier reports yielding only 20%, 47%, or requiring ion-exchange resin purification.
 
@@ -87,62 +87,3 @@ The overall structure is thus: **{Benzyl[2-(4-oxyindol-3-yl)ethyl]dimethylammoni
 ## Practical Advantages of the Zwitterion
 
 The zwitterionic nature of compound 8 is the key to the practical success of this synthesis.
-
-### Insolubility
-
-The compound is insoluble in dichloromethane, while excess dibenzyl phosphate (the byproduct) is soluble.
-
-This allows isolation by simple filtration — no chromatography required.
-
-### Conversion
-
-The conversion from the intended dibenzyl phosphate (compound 7) to the zwitterion (compound 8) is easily achieved by suspending the worked-up reaction mixture in CH₂Cl₂ overnight.
-
-### Yield
-
-The zwitterion is obtained in over 85% yield by filtration.
-
-Excess dibenzyl phosphate is removed by washing with CH₂Cl₂.
-
-### Scale
-
-This isolation method works reliably on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]], making it practical for producing analytical standards.
-
-## Hydrogenolysis to Psilocybin
-
-The final step is [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterion to remove both benzyl groups.
-
-Compound 8 is hydrogenated over palladium on carbon in methanol at room temperature.
-
-The reaction proceeds with disappearance of the zwitterion and its mono-debenzyl derivative, and appearance of psilocybin (monitored by TLC).
-
-After filtration through Celite and concentration, crystalline psilocybin is collected by filtration.
-
-The isolated yield from psilocin is greater than 72%, even for gram-scale production.
-
-This yield is described as "quite gratifying when compared to previously reported yields of 20% and 47%."
-
-## Spectroscopic Data for Psilocybin
-
-The paper provides complete characterization data for the final product:
-
-- **Melting point**: 190-198°C (literature: 185-195°C and 210-212°C)
-- **UV (MeOH)**: λmax at 221.0, 267.5, 278.5, 290.0 nm
-- **IR (KBr)**: Bands at 3266, 3034, 2731, 1620, 1580, 1505, 1439 cm⁻¹
-- **¹H NMR (D₂O)**: Aromatic protons at δ 6.98-7.22, methylene protons at δ 3.28-3.44, N-methyls at δ 2.86
-- **³¹P NMR (CD₃OD)**: δ -4.48 (OPO₃H₂)
-- **ESI-MS**: [M+H]⁺ at m/z 285.1
-- **HRMS**: m/z 285.0991 (calcd 285.1004 for C₁₂H₁₈N₂O₄P)
-
-## Significance
-
-The discovery of this zwitterionic intermediate solved a long-standing practical problem in psilocybin chemistry.
-
-By exploiting the compound's zwitterionic properties — specifically its insolubility in organic solvents — the synthesis avoids the need for chromatographic purification at every stage.
-
-## See Also
-
-- [[zwitterionic-intermediates-tryptamine-phosphorylation]]
-
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole|Psilocin Synthesis from 4-Hydroxyindole]] — the upstream synthesis of psilocin
-- [[australian-magic-mushroom-common-names|Magic Mushroom Constituents]] — naturally occurring tryptamines in Psilocybe species - [[psilocybin-compound-profile|Psilocybin Compound Profile]] — pharmacological and clinical information

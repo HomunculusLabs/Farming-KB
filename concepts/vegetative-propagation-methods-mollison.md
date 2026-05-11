@@ -1,10 +1,11 @@
 ---
-title: Vegetative [[hamilton-vegetative-propagation]] methods mollison (Mollison)
+title: Vegetative Propagation Methods Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, design, gardening, plants]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Vegetative Propagation Methods (Mollison)
@@ -87,25 +88,3 @@ and timing requirements.
 ## Tissue Culture
 Almost all coconuts must be seed-grown, but meristem and single-cell
 mutations are very high. Tissue culture is used for mass propagation of
-selected cultivars in species like banana, date palm, and strawberry to
-ensure disease-free planting stock, though natural variation means
-culling and selection will always be necessary.
-## Transplanting and Hardening Off
-[[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] can be reduced when soil is properly prepared and
-seedlings are hardened off before planting. [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are
-used to great effect in nursery plants, row crops, and new tree
-plantings. For cool areas, a small glasshouse for seedling trays and
-cloches for early transplants are invaluable.
-## Natural Propagation by Animals
-Many plants rely on vegetative propagation in rodent-rich meadows. Gophers
-carry bulbs and root cuttings into tunnels, sometimes forgotten and
-sprouting later. Foxes eat fruits and defecate on gopher mounds — the
-dug-over areas for new trees. Even owl regurgita sprout meadow seed
-caught in the fur of prey, and neglected underground stores sprout.
-## See Also
-- seed-saving-seed-resources-mollison
-- [[pruning-fruit-trees]]
-- [[farm-forestry-design-mollison]]
-- permaculture-designers-manual-seed-saving-varieties
-- permaculture-designers-manual-plant-propagation
-- [[bill-mollison]]

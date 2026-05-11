@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-mushroom-harvesting-marketing-guide]], Potency, and Desiccation
+title: Mushroom Harvesting Potency Desiccation
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags:
   - mycology
@@ -88,63 +88,3 @@ Multiple flushes are possible, though each subsequent flush typically yields few
 ### Drying Procedure
 1. Place approximately **1 inch of desiccant** at the bottom of a sealed container.
 2. Lay a **wire screen** or mesh over the desiccant to create a platform.
-3. Arrange mushrooms on the wire screen with space for air circulation.
-4. **Seal the container** airtight to prevent ambient humidity from entering.
-5. Drying takes **4–5 days** until mushrooms are **rock hard**.
-6. Test doneness: the stem should **snap cleanly** when bent, not feel leathery.
-7. Replace or recharge desiccant if saturated before drying completes.
-
-## Pre-Drying Considerations
-
-Before placing mushrooms in the desiccant chamber:
-
-- Lay fresh mushrooms on a **wire screen** in a **low-humidity room** for 12–24 hours.
-- This allows surface moisture to evaporate, reducing workload on the desiccant.
-- A fan blowing gently can accelerate pre-drying.
-- Do not pre-dry in direct sunlight, which degrades alkaloids. Pre-drying is optional but
-  extends desiccant life.
-
-## Cool Desiccation for Alkaloid Preservation
-
-Heat is the enemy of psilocybin and psilocin:
-
-- **Refrigerator desiccation** (37–40°F) is recommended for best alkaloid preservation.
-- Place the sealed desiccant container in the refrigerator during drying.
-- Cool temperatures slow oxidative degradation of active alkaloids.
-- **Never oven-dry** or use **hot air** (hair dryers, dehydrators on high heat) — heat
-  rapidly destroys psilocybin and psilocin.
-- If a dehydrator is used, keep temperature below 95°F (35°C); cool desiccant drying is
-  preferable.
-
-## Long-Term Storage
-
-Properly dried mushrooms must be stored correctly to maintain potency:
-
-- **Sealed plastic bags** — squeeze out all air before sealing to minimize oxidation.
-- **Canning jars** with tight lids — excellent, especially with a desiccant packet.
-- **Freezer** — for months to years. Freezing halts degradation. Avoid freeze-thaw cycles.
-- Store in a **dark location** — light exposure degrades alkaloids over time.
-- Label containers with strain, harvest date, and flush number.
-
-## Spore Prints
-
-Spore prints serve identification and cultivation purposes, not consumption:
-
-- Select a **mature specimen with fully open cap and dark gills**.
-- Place cap gills-down on clean paper or aluminum foil.
-- Cover with a glass or bowl; leave for 6–12 hours.
-- Spore prints are used for species identification and creating syringes for future
-  [[spore-inoculation-sterile-technique]] cycles.
-
-## Paul Stamets Dosage Guidelines
-
-Paul Stamets provides reference dosages (significant individual variation applies):
-
-For **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (Liberty Caps), dried weight:
-
-- **1–2g** — first-timer, threshold to mild experience
-- **2g** — visual patterns begin, enhanced colors and textures
-- **3g+** — waves of intensity, significant visual distortion
-Dosage varies by species, body weight, metabolism, set and setting, and potency. For example,
-**5g+** produces a full experience lasting ~6 hours. Always start with a lower dose. For
-educational reference only.

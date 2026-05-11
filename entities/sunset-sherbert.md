@@ -2,7 +2,7 @@
 title: "Sunset Sherbert"
 type: strain
 aliases:
-  - "Sunset Sherbet"
+  - "[[sunset-sherbet]]"
   - "Gelato 47"
 tags:
   - cannabis
@@ -21,21 +21,21 @@ sources:
   - Leafly Staff (2024). "Sunset Sherbert blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2024). "Sunset Sherbert Strain Review." AllBud.com.
   - Cannabis Cup Results (2016). High Times Cannabis Cup, shipibo-san-francisco-ceremonial-center-ucayali.
-  - Wikipedia contributors (2024). "List of cannabis strains." Wikipedia.
+  - Wikipedia contributors (2024). "List of [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." Wikipedia.
 created: 2026-05-07
 ---
 
 ## Overview
 
 **Sunset Sherbert** (often spelled "Sunset Sherbet") is an indica-dominant
-hybrid cannabis strain bred by **Animal Farm Botanicals** in the San Francisco
-Bay Area. It is a cross of **Girl Scout Cookies** and an unnamed **Pink
+[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by **Animal Farm Botanicals** in the San Francisco
+Bay Area. It is a cross of **[[girl-scout-cookies]]** and an unnamed **Pink
 Panties** phenotype, selected for its vibrant purple coloration and complex
 dessert-like aroma.
 
 The strain gained widespread popularity after winning the 2016 High Times
 Cannabis Cup in San Francisco. Its offspring, **Gelato** (crossed with Thin
-Mint Cookies), became one of the most commercially significant strains of
+[[thin-mint-cookies]]), became one of the most commercially significant strains of
 the 2018–2023 era.
 
 ## Lineage
@@ -84,38 +84,6 @@ herbal notes.
 
 - **THC**: 18–24% (phenotype-dependent; some cuts test higher)
 - **CBD**: < 0.1% (negligible)
-- **Minor cannabinoids**: Low levels of CBG and CBC typically present.
+- **[[cannabis-minor-cannabinoids]]**: Low levels of CBG and CBC typically present.
 
 ## Effects
-
-Onset is relatively quick (5–10 minutes when smoked). The high begins with
-a gentle cerebral lift — mild euphoria and enhanced sensory perception —
-before settling into a full-body relaxation.
-
-Most users report feeling relaxed, happy, and physically at ease without
-heavy sedation at moderate doses. The strain is suitable for afternoon or
-evening use. Higher doses may progress toward couch-lock and sleepiness.
-
-Common therapeutic applications include stress relief, mild anxiety
-management, appetite stimulation, and insomnia. The balanced nature of the
-effects makes it accessible to a wide range of consumers.
-
-## Cultivation
-
-Flowering time: 8–9 weeks indoors. Outdoor harvest: early to mid-October.
-
-Yields are moderate to high (400–500 g/m² indoors). The strain responds
-well to SCROG and LST training. It is considered intermediate in
-difficulty — plants can be sensitive to overfeeding, particularly nitrogen
-during late flowering.
-
-The purple coloration is temperature-dependent and most pronounced with
-cooler night temperatures (15–18°C) during weeks 6–8 of flower. Plants
-are medium height with good lateral branching.
-
-## See Also
-
-- [[gelato]]
-- [[og-kush-cannabis-entity]]
-- [[thin-mint-cookies]]
-- [[runtz-entity]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Lapin I. (2001). "Phenibut (beta-phenyl-GABA): a transporter of phenyl group in the brain and pharmacological aspects of its use." Bulletin of Experimental Biology and Medicine.
   - Malykh A.G., Sadaie M.R. (2010). "No drugs, no diet, no exercise — what else can protect the aging brain?" Journal of Alzheimer's Disease, 20(1), 25-28.
-  - Samokhvalov A.V. et al. (2013). "Phenibut abuse in the dmt-containing-plants-united-states-halpern." American Journal on Addictions, 22(5), 470-471.
+  - Samokhvalov A.V. et al. (2013). "Phenibut abuse in the [[dmt-containing-plants-united-states-halpern]]." American Journal on Addictions, 22(5), 470-471.
   - Wikipedia contributors. "Phenibut." Wikipedia, The Free Encyclopedia.
 ---
 
@@ -54,7 +54,7 @@ pharmacologically active form used in pharmaceutical preparations.
 
 Phenibut acts primarily as a GABA-B receptor agonist, similar to baclofen.
 It also displays weak GABA-A receptor modulation and may influence dopamine
-and serotonin systems indirectly through downstream GABAergic signaling.
+and [[serotonin]] systems indirectly through downstream GABAergic signaling.
 
 The GABA-B agonism produces anxiolytic and muscle-relaxant effects without
 the sedation, amnesia, or respiratory depression typical of GABA-A-targeting
@@ -64,7 +64,7 @@ impairment.
 
 ### Pharmacokinetics
 
-- Oral bioavailability: High, estimated 60-80%
+- [[first-pass-metabolism-and-oral-bioavailability]]: High, estimated 60-80%
 - Onset: 2-4 hours (oral)
 - Peak plasma: 3-4 hours post-dose
 - Duration: 5-8 hours (some reports up to 10 hours)
@@ -88,62 +88,3 @@ accidental overdose.
 
 - **Anxiolysis:** Pronounced anxiety reduction without sedation at low doses
 - **Sociability:** Increased verbal fluency and social comfort
-- **Mood elevation:** Mild euphoria at moderate doses, comparable to low-dose
-  GHB or alcohol without intoxication
-- **Cognitive effects:** Improved focus and mental clarity in some users;
-  inconsistent across reports
-- **Physical:** Muscle relaxation, tension relief, reduced physiological
-  stress markers
-
-## Safety and Tolerance
-
-### Tolerance and Dependence
-
-Phenibut carries significant tolerance and dependence risks that are
-frequently underestimated by recreational users. Tolerance develops rapidly,
-often within days to weeks of daily use. Withdrawal syndrome resembles
-benzodiazepine discontinuation: anxiety, insomnia, tremor, sweating,
-tachycardia, and in severe cases, hallucinations and seizures.
-
-Medical guidelines in Russia recommend limiting continuous use to 2-3 weeks
-with gradual tapering on discontinuation. Recreational users frequently
-exceed these limits, leading to severe withdrawal episodes requiring
-medical intervention.
-
-### Adverse Effects
-
-- Drowsiness and fatigue (especially at higher doses)
-- Nausea and gastrointestinal discomfort
-- Headache and dizziness
-- Cognitive clouding at doses exceeding 1 gram
-- Dangerous respiratory depression when combined with CNS depressants
-  (alcohol, benzodiazepines, opioids)
-
-### Contraindications
-
-Use is contraindicated in pregnancy, lactation, peptic ulcer disease, and
-severe hepatic or renal impairment. Combination with other GABAergic
-substances significantly increases overdose risk.
-
-## Legal Status
-
-| Region | Status | Notes |
-|--------|--------|-------|
-| Russia | Prescription | Medical use since 1960s |
-| United States | Unregulated | Not FDA-approved; sold as supplement |
-| European Union | Varies | Controlled in some member states |
-| Australia | Schedule 4 | Prescription required |
-| United Kingdom | Uncontrolled | Banned from supplement sales (2024) |
-| Canada | Prescription | Health Canada regulated |
-## See Also
-
-- [[withania-somnifera]]
-- [[rhodiola-rosea]]
-- [[l-theanine]]
-- [[huperzine-a]]
-- [[galantamine]]
-- [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
-- [[piper-methysticum]]
-- [[mitragyna-speciosa]]
-- [[nootropic-herbs-guide]]

@@ -88,26 +88,3 @@ T. ammi is cultivated primarily in India (Rajasthan, Gujarat, Madhya Pradesh, Ut
 **Growing requirements:** The crop performs best in sandy loam to loamy soils with good drainage. Optimal soil pH is 6.5–8.0. It is drought-tolerant once established but requires moderate moisture during germination and early growth.
 
 Seeds are sown directly in October–November (rabi season in India) at a rate of 3–4 kg/ha. [[wide-row-spacing-intensive-gardening-comparison]] is 30–45 cm with 15–20 cm within rows. The crop matures in 120–140 days.
-
-Flowering occurs 70–80 days after sowing, with fruit maturation at 110–130 days. Harvest is timed when the lower umbels turn brown. Plants are cut at ground level, dried in the sun, and threshed.
-
-Average seed yield is 600–800 kg/ha under rainfed conditions and 1000–1500 kg/ha under irrigated conditions. Essential oil yield from dried seeds is approximately 3–4%.
-
-## Traditional Medicine
-
-In **Ayurveda**, ajwain is considered ushna (hot) and laghu (light) in qualities. It pacifies vata and kapha doshas but aggravates pitta. Key Ayurvedic indications include agnimandya (weak digestion), ajeerna (indigestion), and krimi (intestinal worms).
-
-The seeds are prescribed internally as a decoction or powder, typically 1–3 g per dose. Externally, a paste of crushed seeds is applied for joint pain and headache.
-
-In **Unani medicine**, ajwain (takhmil) is classified as hot and dry in the second degree. It is used for gastrointestinal disorders, respiratory conditions, and as an aphrodisiac. The seeds are often combined with jaggery or honey.
-
-In **folk medicine** across South Asia, ajwain is given for colic in infants (diluted water), menstrual cramps, toothache (chewing raw seeds), and arthritic pain (seed poultice).
-
-## See Also
-
-- [[crocus-sativus]]
-- [[pimpinella-anisum]]
-- nigella-sativa
-- ferula-assafoetida
-- [[cinnamomum-verum]]
-- [[borago-officinalis]]

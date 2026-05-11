@@ -16,16 +16,16 @@ type: concept
 
 # Fungal Sporulation and Aerobiology
 
-Spore production and dispersal are fundamental to fungal ecology,
+[[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] and dispersal are fundamental to fungal ecology,
 enabling colonisation of new habitats, survival during adverse
 conditions, and population persistence. The mechanisms of sporulation
-and spore dispersal through the atmosphere represent a critical
-interface between fungal biology and the physical environment.
+[[ingoldian-aquatic-fungi-and-spore-dispersal]] through the atmosphere represent a critical
+interface between [[bloomfield-fungal-biology-and-hyphal-growth]] the physical environment.
 
 ## Spore types and production
 
-Filamentous fungi produce diverse spore types serving different
-ecological functions. Asexual conidia are the most common dispersal
+[[environmental-sensing-filamentous-fungi-read]] produce diverse spore types serving different
+[[fungal-melanin-biosynthesis-ecological-functions]]. Asexual conidia are the most common dispersal
 propagules, produced in vast quantities from conidiophores. Sexual
 spores (ascospores, basidiospores) are produced within fruiting bodies
 and often serve as persistent or long-distance dispersal agents.
@@ -49,7 +49,7 @@ Fungi employ diverse mechanisms for active spore discharge.
 Ballistospores of basidiomycetes are actively discharged by the
 Buller drop mechanism, where a water droplet forms on the sterigma and
 rapidly coalesces with the spore surface, propelling the spore
-forcibly into the air. Ascomycetes use osmotic pressure to eject
+forcibly into the air. Ascomycetes use [[fungal-fruiting-body-mechanics-osmotic-pressure]] to eject
 ascospores through the ostiole of ascomata. Sphaerobolus (the
 [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]) uses a cup-shaped structure to launch spore masses
 over distances of several metres.
@@ -87,61 +87,3 @@ hydrophobicity, temperature, and humidity. Not all spores germinate
 immediately; many exhibit dormancy requiring specific triggers.
 
 ## Environmental triggers for sporulation
-
-Sporulation is regulated by environmental signals including light
-(wavelength, intensity, periodicity), temperature, nutrient status,
-and humidity. Many fungi produce conidia in response to light,
-particularly near-UV and blue wavelengths. Nutrient depletion or
-exhaustion often triggers asexual sporulation. The transition between
-[[cannabis-vegetative-growth-stage]] and sporulation involves complex [[fungal-environmental-sensing-signal-transduction-read]]
-cascades including cAMP signalling and MAP kinase pathways.
-
-## Atmospheric spore concentrations
-
-Airborne fungal spores are among the most abundant biological particles
-in the atmosphere, with concentrations ranging from hundreds to tens of
-thousands per cubic metre. Seasonal patterns reflect the phenology of
-spore-producing fungi. Cladosporium and Alternaria spores dominate in
-temperate regions during warm months. Atmospheric spore loads have
-implications for human health (allergies, asthma), agriculture (disease
-spread), and ecosystem function.
-
-## Dispersal and population genetics
-
-Spore dispersal patterns shape fungal population structure. M. grisea
-populations in most regions show clonal structure consistent with
-predominant asexual reproduction and local dispersal. However,
-populations near the Himalayan centre of diversity show higher genetic
-diversity, suggesting occasional long-distance dispersal of sexually
-produced ascospores facilitates genetic recombination. The balance
-between local and long-distance dispersal influences the spatial scale
-of genetic differentiation.
-
-## Spore survival and persistence
-
-Fungal spores vary enormously in longevity. Some conidia survive only
-days, while sclerotia and chlamydospores persist for years. Melanin
-in spore walls provides protection from UV radiation. Trehalose and
-other compatible solutes protect against desiccation. Heat-resistant
-spores of [[thermophilic-thermotolerant-fungi-ecology-isolation]] survive pasteurisation temperatures.
-Understanding spore persistence is critical for disease forecasting,
-food safety, and building preservation.
-
-## Aerobiology and environmental health
-
-Fungal aerobiology intersects with human health through allergen
-exposure and opportunistic infections. [[gadd-aspergillus-fumigatus-glucan-virulence]] conidia
-are ubiquitous in the atmosphere and pose risks to immunocompromised
-individuals. The relationship between atmospheric spore loads and
-clinical infection rates informs public health monitoring. Climate
-change may alter fungal aerobiology by shifting geographic
-distributions and seasonal patterns of sporulation.
-
-## Related concepts
-
-- [[gadd-rice-blast-magnaporthe-grisea]]
-- fungal-environmental-sensing
-- [[gadd-colony-morphogenesis-hyphal-growth]]
-- [[aspergillus-fumigatus]]
-- [[magnaporthe-grisea]]
-- [[spore-dispersal]]

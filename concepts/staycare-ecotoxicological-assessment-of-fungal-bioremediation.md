@@ -88,20 +88,3 @@ evidence of toxicity reduction rather than simply demonstrating removal
 of target compounds. The integration of ecotoxicological monitoring into
 fungal bioremediation protocols adds cost and complexity but is essential
 for ensuring that treatment processes do not create new environmental
-hazards through the accumulation of toxic transformation intermediates.
-
-## Toxicity Reduction as a Treatment Endpoint
-
-True success in fungal bioremediation should be measured not only by
-chemical analysis showing reduction in target pollutant concentrations
-but also by ecotoxicological evidence demonstrating genuine toxicity
-reduction. Regulatory frameworks increasingly require demonstration of
-detoxification rather than mere chemical transformation. The
-development of standardized ecotoxicological assessment protocols
-specific to fungal bioremediation will be important for the continued
-development and regulatory acceptance of these technologies.
-
-See also: Fungal Bioremediation Field Studies,
-Bioavailability of Pollutants in Fungal Bioremediation,
-and [[monitoring-and-assessment-of-fungal-bioremediation]]
-- [[staycare-bioaugmentation-versus-biostimulation-fungal-bioremediation]]

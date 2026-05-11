@@ -9,14 +9,14 @@ sources: []
 
 # Cob Oven Construction
 
-A cob oven (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from natural materials: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
+[[query-how-to-build-a-cob-oven-for-outdoor-cooking]] (also called an earth oven, clay oven, or wood-fired bread oven) is an outdoor baking structure built from [[building-with-natural-materials]]: clay, sand, and straw. Cob ovens reach 700-900F and bake excellent bread, pizza, roasts, casseroles, and more. They cost very little to build, require no special skills, and can last for decades with basic maintenance. A cob oven pairs naturally with a [[rocket-stove-design]] for complementary cooking infrastructure.
 
 ## Cob Basics
 
-Cob is an ancient building material made from:
+Cob is an ancient [[bamboo-as-building-material]] made from:
 
-- **Clay** — the binder. Acts like glue. Source from your subsoil (dig 12-24 inches below topsoil) or purchase powdered clay. (see [[earthbag-building]]).
-- **Sand** — the aggregate. Provides structure and prevents cracking. Sharp sand (builder's sand) works best. (see [[building-with-natural-materials]]).
+- **Clay** — the binder. Acts like glue. Source from your subsoil (dig 12-24 inches below topsoil) or purchase powdered clay.
+- **Sand** — the aggregate. Provides structure and prevents cracking. Sharp sand (builder's sand) works best.
 - **Straw** — the fiber reinforcement. Prevents cracking and adds tensile strength. Use clean, dry straw (not hay — hay contains seeds and decomposes).
 
 The ratio is typically 1 part clay to 2-3 parts sand by volume, with straw mixed in by handful. Test your soil: fill a jar 1/3 full of soil from your dig site, add water, shake vigorously, and let settle for 24 hours. Sand settles first, then silt, then clay. You want at least 20% clay content for good cob.
@@ -36,7 +36,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 ### Simple Foundation (Temporary Installations)
 1. Dig a shallow pad 4-6 inches deep, slightly wider than the oven base
 2. Fill with compacted gravel or crushed rock
-3. Top with a layer of landscape fabric and 2-3 inches of sand, leveled
+3. Top with a layer of [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] and 2-3 inches of sand, leveled
 
 ### Permanent Foundation
 1. Pour a concrete pad or lay concrete blocks (CMUs)
@@ -53,7 +53,7 @@ The oven is heavy (500-1000+ pounds). A proper foundation prevents settling and 
 - Recycled brick or stone for the oven base walls (optional but attractive)
 - Newspaper (for insulation layer)
 - Optional: ceramic fiber blanket for additional insulation
-- Optional: lime wash or earthen plaster for the finished exterior
+- Optional: lime wash or [[comparison-lime-plaster-vs-earthen-plaster]] for the finished exterior
 
 ## Construction Steps
 

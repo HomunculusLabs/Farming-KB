@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Koumine** is an oxindole alkaloid found in *Gelsemium elegans* (Loganiaceae), the same species that produces the highly toxic alkaloid gelsemine.
+**Koumine** is an oxindole alkaloid found in *Gelsemium elegans* (Loganiaceae), the same species that produces the highly toxic alkaloid [[gelsemine]].
 
 It is the most abundant alkaloid in *G. elegans*, typically comprising 40–60% of the total alkaloid fraction, and is significantly less toxic than its convulsant relatives gelsemine and gelsenicine.
 
@@ -48,7 +48,7 @@ Koumine exhibits a distinct pharmacological profile from the more toxic *Gelsemi
 
 **Anxiolytic activity** is the most extensively documented effect. In rodent models including the elevated plus maze, light-dark box, and open field tests, koumine produces significant anxiolytic-like effects at doses of 0.56–2.8 mg/kg (i.p.) without the sedation or motor impairment typical of benzodiazepines.
 
-The anxiolytic mechanism involves modulation of the serotonergic system, particularly through 5-HT1A receptor partial agonism. Koumine increases serotonin turnover in the hippocampus and prefrontal cortex.
+The anxiolytic mechanism involves modulation of the serotonergic system, particularly through 5-HT1A receptor partial agonism. Koumine increases [[serotonin]] turnover in the hippocampus and prefrontal cortex.
 
 Additionally, koumine normalizes HPA axis activity under chronic stress conditions, reducing corticosterone levels and preventing stress-induced dendritic atrophy in the hippocampus.
 
@@ -72,7 +72,7 @@ No serious [[blesching-cannabis-safety-adverse-effects-evidence]] have been repo
 
 No convulsant activity has been observed at any tested dose, distinguishing koumine sharply from other *Gelsemium* alkaloids and eliminating the primary safety concern of this alkaloid family.
 
-The pharmacokinetic profile shows rapid absorption after intraperitoneal administration in rodents, with peak plasma concentrations reached within 30–60 minutes. Oral bioavailability is moderate (approximately 25–35%), with hepatic first-pass metabolism being the primary limitation.
+The pharmacokinetic profile shows rapid absorption after intraperitoneal administration in rodents, with peak plasma concentrations reached within 30–60 minutes. [[first-pass-metabolism-and-oral-bioavailability]] is moderate (approximately 25–35%), with hepatic first-pass metabolism being the primary limitation.
 
 Metabolism occurs primarily through hepatic cytochrome P450 enzymes, with CYP3A4 and CYP2D6 identified as the major isoforms involved. The elimination half-life is approximately 2–4 hours in rodents.
 
@@ -82,36 +82,8 @@ Koumine is not specifically scheduled under international drug conventions. Howe
 
 In China, koumine-containing preparations are classified as investigational drugs requiring [[psilocybin-clinical-trial-landscape-2020-2025]] approval.
 
-No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development for anxiety disorders and [[cannabis-chronic-pain-management]].
+No koumine-based pharmaceuticals have yet reached market approval, though several candidates are in Phase I/II clinical development [[cannabis-for-anxiety-disorders]] and [[cannabis-chronic-pain-management]].
 
 ## Related Compounds
 
 Koumine is one of five major *Gelsemium* alkaloids, each with distinct pharmacological profiles:
-
-- **Gelsemine** — potent glycine receptor antagonist, highly toxic convulsant
-- **Gelsenicine** — most toxic member, potent convulsant with methoxyl group
-- **Gelsemicine** — oxidized derivative with mixed agonist-antagonist activity
-- **Humantenmine** — antitumor activity in vitro, moderate toxicity
-- **Koumine** — least toxic, prominent anxiolytic and anti-inflammatory effects
-
-Structure-activity relationship studies indicate that the absence of the C-3 hydroxyl group (present in gelsemine but absent in koumine) is a major determinant of the reduced glycine receptor affinity and consequently the dramatically lower toxicity of koumine.
-
-## Traditional and Research Context
-
-Koumine's prominence in *G. elegans* chemistry has made it central to the pharmacological re-evaluation of this traditionally toxic plant.
-
-In Chinese medicine, processed *G. elegans* preparations that retain koumine while reducing gelsemine content have been investigated as safer therapeutic formulations for pain and inflammatory conditions.
-
-Modern research has focused on developing koumine derivatives with improved potency and pharmacokinetic profiles. Several semi-synthetic analogs have shown enhanced anxiolytic activity in preclinical studies.
-
-Patent applications covering koumine-derived compounds for anxiety, depression, and neurodegenerative diseases have been filed by Chinese and Japanese research groups, indicating significant commercial interest in this alkaloid class.
-
-Current research directions include nanoparticle delivery systems to improve oral bioavailability, structural modification to enhance 5-HT1A receptor selectivity, and combination therapies pairing koumine with conventional antidepressants for synergistic effects.
-
-## See Also
-
-- [[gelsemium-sempervirens]]
-- [[harmine]]
-- [[ibogaine]]
-- [[myristicin-entity]]
-- [[bufotenin]]

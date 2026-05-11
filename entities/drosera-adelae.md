@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - Lowrie, A. (1987). "Carnivorous Plants of Australia." Volume 1. University of Western Australia Press.
   - Schlauer, J. (2001). "A dichotomous key to the genus Drosera L. (Droseraceae)." Carnivorous Plant Newsletter, 30(3), 68-76.
   - McPherson, S.R. (2010). "Drosera: Growing Sundews." Redfern Natural History Productions.
@@ -87,28 +88,3 @@ Temperatures between 18–30 °C are suitable, with higher humidity preferred. T
 Propagation is primarily vegetative through stolons and plantlets that form at the leaf tips and from broken roots. A single plant can rapidly colonize a large area within a [[savory-growing-season-and-non-growing-season-management]].
 
 [[jeavons-seed-propagation-techniques]] is possible but less commonly practiced. Seeds require light for germination and benefit from a period of warm, moist stratification.
-
-In terrarium culture, the species can form dense mats covering the entire growing surface. Regular division helps maintain plant vigor and prevents overcrowding.
-
-The species is susceptible to crown rot if the growing medium becomes waterlogged for extended periods. Ensuring adequate drainage while maintaining moisture is key to long-term success.
-
-## Related Species
-
-*D. adelae* forms a natural group with *D. schizandra* and *D. prolifera*, collectively known as the Queensland Sisters. All three are endemic to a small region of tropical northeastern Queensland.
-
-*D. schizandra* is the largest of the three, with broad, kidney-shaped leaves. It is considered more challenging to cultivate and requires consistently cool, humid conditions.
-
-*D. prolifera* is intermediate in morphology, producing rounder leaves than *D. adelae* and bearing plantlets on its flower scapes. Its name reflects this proliferous habit.
-
-Natural hybrids between the three species have been reported but are rare. The three species are largely reproductively isolated by differences in flowering time and pollinator specificity.
-
-The Queensland Sisters are thought to have diverged from a common ancestor relatively recently in geological time. Their restricted distribution suggests they may be relicts of a once-wider range.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[drosera-spatulata]]
-- [[nepenthes-maxima]]
-- [[utricularia-vulgaris]]
-- [[drosera-intermedia]]
-- [[nepenthes-rafflesiana]]

@@ -62,7 +62,7 @@ The absence of the 7-methoxy group (present in harmine) shifts the UV absorption
 
 Norharmane is a reversible inhibitor of MAO-A with moderate potency (IC₅₀ ≈ 5–20 µM), significantly weaker than harmine (IC₅₀ ≈ 0.05 µM). This makes norharmane a relatively mild MAO inhibitor compared to pharmaceutical MAOIs or the full harmala alkaloid profile.
 
-The compound shows mixed activity at serotonin receptors. It acts as a weak partial agonist at 5-HT₂A receptors and has measurable affinity for 5-HT₂C receptors. Atypical concentrations achievable through ingestion of harmala preparations, these serotonergic effects are pharmacologically subtle.
+The compound shows mixed activity at [[psilocybin-pharmacology-and-serotonin-receptors]]. It acts as a weak partial agonist at 5-HT₂A receptors and has measurable affinity for 5-HT₂C receptors. Atypical concentrations achievable through ingestion of harmala preparations, these serotonergic effects are pharmacologically subtle.
 
 Norharmane also binds to benzodiazepine receptors with low affinity, producing anxiogenic effects at higher doses. This is in contrast to the anxiolytic profile of harmine and suggests complex interactions with the GABAergic system.
 
@@ -80,40 +80,10 @@ Onset of MAO inhibition occurs within 30–60 minutes of oral ingestion, with pe
 
 ## Natural Occurrence
 
-Norharmane is found in several plant families. It occurs in Peganum harmala (Syrian rue) seeds at concentrations of approximately 0.01–0.1% of dry weight, alongside the more abundant harmine, harmaline, and harmalol.
+Norharmane is found in several plant families. It occurs in [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]) seeds at concentrations of approximately 0.01–0.1% of dry weight, alongside the more abundant harmine, harmaline, and harmalol.
 
-The compound is also present in Banisteriopsis caapi leaves and in tobacco leaves and smoke, where it forms during pyrolysis of tryptophan. Tobacco smoke contains approximately 10–100 ng of norharmane per cigarette.
+The compound is also present in [[ayahuasca-and-banisteriopsis-caapi]] leaves and in tobacco leaves and smoke, where it forms during pyrolysis of tryptophan. Tobacco smoke contains approximately 10–100 ng of norharmane per cigarette.
 
 Cooked protein-rich foods, particularly grilled meats, contain norharmane formed through Maillard reactions between tryptophan and carbohydrates. This dietary exposure route contributes to detectable endogenous levels in the general population.
 
 Endogenous norharmane has been detected in human urine, platelets, and brain tissue at nanomolar concentrations. The biosynthetic origin may involve both dietary intake and in situ formation from tryptamine and formaldehyde.
-
-## Legal Status
-
-Norharmane is not specifically scheduled in most jurisdictions as an individual compound. However, plant materials containing it (notably Peganum harmala) may be controlled in some countries.
-
-In the United States, norharmane is not a controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]]. In France, Peganum harmala is listed as a controlled poisonous plant. [[turner-harmala-alkaloids-preparation-and-dosage]] are regulated under pharmaceutical precursor laws in some nations.
-
-The compound's presence in common foods and tobacco means that complete prohibition is impractical. Legal focus has instead been on the plants from which it is extracted and the preparations in which it is used as an MAOI component.
-
-## History
-
-The β-carboline alkaloid class was first investigated in the late 19th and early 20th centuries as part of the chemical characterization of Peganum harmala. Norharmane was isolated alongside harmine and harmane during these early studies of the harmala alkaloid complex.
-
-The endogenous presence of norharmane in human tissues was discovered in the 1980s and 1990s, raising questions about its physiological function. Research by Rommelspacher and colleagues demonstrated that norharmane and harmane are present in human platelets, brain tissue, and cerebrospinal fluid at concentrations sufficient to produce measurable MAO inhibition.
-
-The discovery that norharmane forms during cooking and tobacco pyrolysis expanded interest beyond its botanical occurrence to public health contexts, particularly regarding its potential role in tobacco addiction and carcinogenesis.
-
-## Related Compounds
-
-Norharmane occupies a central position in the β-carboline alkaloid family. Its methylated derivative, harmane, has similar pharmacological properties with slightly higher MAO-A potency. The 7-methoxy derivatives — harmine, harmaline, and harmalol — are substantially more potent MAO-A inhibitors.
-
-The fully aromatic β-carboline skeleton of norharmane distinguishes it from the tetrahydro-β-carbolines (e.g., harmalol), which have reduced pharmacological activity at serotonergic receptors. Norharmane also serves as a precursor in the synthesis of various synthetic β-carboline derivatives explored as pharmaceutical agents.
-
-## See Also
-
-- [[harmaline]]
-- [[tetrahydroharmine]]
-- [[peganum-harmala]]
-- [[golden-guide-syrian-rue-and-maoi-plants]]
-- [[ayahuasca-botany-and-preparation]]

@@ -19,7 +19,7 @@ and sandy soils:
   If dug when even slightly too wet, it instantly forms rock-hard clods. When too
   dry, it forms dust that slumps into airless goo when watered.
 - **Hardness when dry**: Dried clay becomes extremely hard, making weeding
-  difficult and root crop harvest nearly impossible.
+  difficult and [[root-crop-harvest-and-storage]] nearly impossible.
 - **Airlessness**: Clay tends to contain little air, so most vegetables don't grow
   well in unamended clay.
 
@@ -69,7 +69,7 @@ intensive for several reasons:
 - The first year might take three to four inches (7.5 to 10 cm) of compost to
   significantly improve structure.
 - Subsequent years require 1.5 inches (4 cm) layers for maintenance.
-- Even after all this effort, remediated clay will never grow vegetables as well
+- Even after all this effort, remediated clay will never [[query-how-do-i-grow-vegetables-and-herbs-in-shaded-areas]] as well
   as a naturally light soil.
 
 ### Option 3: Import Topsoil (Best Long-Term Investment)
@@ -88,36 +88,6 @@ compost per year to maintain the genuine loam topsoil, compared to 20-25 cubic
 yards annually for the organic-matter-incorporation approach.
 
 ### Option 4: Raised Beds
-Building raised beds filled with imported or自制 soil mixtures is another effective
-strategy. The raised beds keep plant roots above the clay layer while allowing
-drainage. Over time, worms and leaching will improve the clay beneath.
-
-## Dry Climate Considerations
-In dry climates receiving under 30 inches (75 cm) of rainfall per year, soils may
-already contain significant calcium and sometimes excessive magnesium. In these
-regions, consult with a local soil-testing service before adding lime. Gypsum
-(calcium sulfate) may be recommended instead of agricultural lime, as it improves
-clay structure without raising pH excessively.
-
-## What NOT to Grow in Clay
-Even well-managed clay will struggle with certain crops:
-- Carrots and parsnips (root crops need loose, deep soil)
-- Sweet potatoes (need well-drained, light soil)
-- Celery (requires light loam at least three feet/one meter deep)
-
-## Long-Term Perspective
-Remediated clay will never match naturally light soil for vegetable production.
-However, with consistent management, it can become surprisingly productive. The
-key is patience: clay improvement is measured in years, not weeks. Each season of
-proper amendment, careful timing of cultivation, and avoidance of compaction
-gradually improves the soil's structure, nutrient availability, and workability.
-
-## Source
-- Solomon, S. *Gardening When It Counts*. Chapter 2 — Soil Improvement. Lines
-  1349-1467 of the full text.
 
 ## See Also
-- [[complete-organic-fertilizer-cof-solomon]]
-- [[soil-temperature-and-plant-growth-solomon]]
-- [[seedbed-preparation-and-tilth-solomon]]
-- [[raised-bed-preparation-techniques]]
+- [[solomon-starting-new-garden-sod-clay-soil]]

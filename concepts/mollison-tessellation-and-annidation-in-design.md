@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,39 +88,3 @@ co-definitions in our core model, and its inter-dependent properties.
 ## Design Applications
 
 In practical permaculture design, tessellation and annidation inform:
-
-- **[[mollison-course-zone-planning-and-design]]**: Nested zones of decreasing intensity of use,
-  each tessellated within the larger system boundary.
-
-- **Garden layouts**: [[gaias-garden-keyhole-beds-and-mandala-gardens]] and mandala gardens that nest
-  access paths within productive growing areas, minimising wasted
-  space while maximising edge and access.
-
-- **Poly cultural strips**: Alternate crop strips that create nothing
-  but edge, tessellating compatible species across a field.
-
-- **Water systems**: Networks of swales, dams, and channels that
-  tessellate to capture, store, and distribute water across a
-  landscape, each element nested within the larger catchment.
-
-- **Community layout**: Clusters of dwellings, workshops, and gardens
-  that nest compactly within the broader bioregional framework,
-  each annidated zone serving specific functions.
-
-## Relevance to Permaculture
-
-The strategies of tessellation, annidation, and superimposition are
-the geometric foundation upon which many permaculture design
-principles rest. They explain why edge is productive, why diverse
-layered systems outperform monocultures, and why small-scale intensive
-design can yield more per unit area than broad-scale simplified
-systems. Understanding these pattern processes allows designers to
-create landscapes that are both compact in form and rich in function,
-mirroring the efficiency of natural systems.
-
-## See Also
-
-- mollison-edge-effect-design
-- [[mollison-fractals-branching-and-conduit-design]]
-- mollison-zone-and-sector-analysis
-- [[zone-and-sector-analysis]]

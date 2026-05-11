@@ -6,6 +6,7 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, manicuring, harvest, kief]
 ---
 
@@ -88,35 +89,6 @@ because it picks up less skin oil and debris. Hash scraped
 from tools is often the cleanest since it has minimal contact
 with contaminants.
 
-## Yield Expectations
-
-A full day of trimming resinous plants can yield several grams
-of finger hash. While this seems modest compared to water or
-[[cervantes-dry-sieve-hash-pollinator]] extraction methods, finger hash represents pure
-resin that would otherwise be lost during the manicuring
-process. It is essentially a bonus product with zero
-additional cost.
-
-## Integration with Other Hash Methods
-
-Finger hash can be combined with other collected resin for
-pressing. Adding finger hash to dry-sieved or water-extracted
-resin powder increases total yield and adds unique qualities.
-Some growers save finger hash throughout an entire harvest
-season, pressing it all together into a single piece that
-represents the cumulative resin profile of their entire
-garden.
-
-## Manicuring Efficiency
-
-Properly manicuring one pound (454 grams) takes from four to
-six hours by hand with scissors and one to two hours when
-using an automatic trimmer. The longer the hand-trimming
-session, the more finger hash accumulates. Budgeting enough
-time for harvest and manicuring ensures both quality buds and
-maximum finger hash recovery.
-
 ## See Also
-- [[cervantes-hand-rubbed-hash-charas]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-washing-machine-hash]]
+- [[cervantes-hash-cannabis-oil-production]]
+- [[cervantes-manicuring-trimming-buds]]

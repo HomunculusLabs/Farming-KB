@@ -8,7 +8,7 @@ tags: [psilocybin, pharmacology, 5-ht2a, serotonin, neuropharmacology, hallucino
 
 ## Overview
 
-Psilocybin and its active metabolite psilocin produce their characteristic psychoactive effects primarily through agonist activity at the serotonin 5-HT2A receptor. The EMCDDA (2006) thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] documented the pharmacological basis of psilocybin action as part of its comprehensive analysis of the emerging European trend in magic mushroom use. Understanding this mechanism is essential for explaining both the desired effects and the potential risks associated with psilocybin-containing fungi.
+Psilocybin and its active metabolite psilocin produce their characteristic psychoactive effects primarily through agonist activity at the serotonin 5-HT2A receptor. The EMCDDA (2006) thematic paper on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] documented the pharmacological basis of psilocybin action as part of its comprehensive analysis of the emerging European trend in [[european-prevalence-and-patterns-of-magic-mushroom-use]]. Understanding this mechanism is essential for explaining both the desired effects and the potential risks associated with psilocybin-containing fungi.
 
 ## Chemical Structure and Classification
 
@@ -23,7 +23,7 @@ Psilocybin is more stable in air and is water soluble, making it the primary for
 
 ### Additional Tryptamine Alkaloids
 
-Beyond psilocybin and psilocin, psychoactive mushrooms may contain two additional tryptamine alkaloids:
+Beyond psilocybin and psilocin, [[ceremonial-shamanic-use-psychoactive-mushrooms]] may contain two additional tryptamine alkaloids:
 
 - **Baeocystin:** 4-phosphoryloxy-N-methyltryptamine — a mono-methylated analog, considered less active
 - **Norbaeocystin:** 4-phosphoryloxytryptamine — the desmethyl analog, also considered less active
@@ -56,7 +56,7 @@ The agonist action at 5-HT2A receptors triggers a cascade of intracellular signa
 
 ### Effects on Cortical Activity
 
-Activation of 5-HT2A receptors on cortical pyramidal neurons increases cortical excitability, enhances sensory perception, disrupts normal thalamocortical filtering, and reduces activity in the default mode network (brain regions associated with self-referential thinking), contributing to altered perceptions and ego dissolution.
+Activation of 5-HT2A receptors on cortical pyramidal neurons increases cortical excitability, enhances [[plant-sensory-perception]], disrupts normal thalamocortical filtering, and reduces activity in the [[default-mode-network-and-ego-dissolution]] (brain regions associated with self-referential thinking), contributing to altered perceptions and [[psilocybin-ego-dissolution-mechanisms]].
 
 ### Relationship to Endogenous Serotonin
 
@@ -66,7 +66,7 @@ The structural similarity between psilocin and serotonin allows [[tihkal-recepto
 
 ### Chemical Classification
 
-The EMCDDA (2006) documented that hallucinogens can be grouped by chemical structure into three major classes:
+The EMCDDA (2006) documented that hallucinogens can be grouped by chemical structure into three [[ascomycota-phylogeny-major-classes-lineages]]:
 1. **Indolealkylamines (tryptamines):** LSD, psilocin, psilocybin, DMT
 2. **Phenylethylamines:** Mescaline, 2C-B, DOI
 3. **Cannabinoids:** THC and related compounds
@@ -88,46 +88,3 @@ Psilocybin is classified as a true hallucinogen, with its effects primarily medi
 After oral ingestion, psilocybin is absorbed in the GI tract, converted to psilocin by alkaline phosphatase enzymes, crosses the blood-brain barrier, and produces effects beginning within 20-60 minutes, peaking at 1-2 hours, and gradually subsiding over 4-6 hours.
 
 ### Elimination
-
-Psilocin is metabolized primarily through hepatic oxidative deamination by monoamine oxidase (MAO), with an elimination half-life of approximately 2-3 hours.
-
-## Dose-Response Relationship
-
-### Typical Active Doses
-
-The dose-response relationship for psilocybin is highly variable between individuals and depends on:
-- Species and variety of mushroom
-- Age and [[vegetable-storage-conditions-by-temperature-and-humidity]] of the specimen
-- Individual body weight and metabolism
-- [[lsd-set-and-setting-framework]] (psychological and [[duggar-mushroom-environmental-factors-temperature-moisture-light]])
-- Prior experience with psychoactive substances
-
-Fresh mushrooms typically contain approximately 10× the psilocybin content of dried specimens by weight, due to their high water content.
-
-### Factors Influencing Potency
-
-As documented in the EMCDDA report and elsewhere, [[pf-tek-mushroom-potency-and-age-relationship]] is influenced by:
-- **Species:** P. semilanceata and P. azurescens are among the most potent; P. cubensis is moderate
-- **Part of mushroom:** Caps generally contain higher concentrations than stems
-- **Maturity:** Immature specimens are often more potent per unit weight than mature ones
-- **Storage:** Potency degrades with age, heat, light, and moisture exposure
-- **Growing conditions:** Substrate, temperature, and light affect alkaloid production
-
-## Current Research Directions
-
-Modern research has renewed interest in psilocybin's therapeutic potential for treatment-resistant depression, end-of-life anxiety, substance use disorders, and PTSD. Brain imaging studies reveal that psilocybin decreases activity in the default mode network and increases connectivity between brain regions that don't normally communicate, with changes correlating with subjective experiences.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-dose-effects|EMCDDA Dose and Effects]]
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry|Species Classification and Chemistry]]
-- [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks|Health Risks and Consequences]]
-- [[psilocybin-degradation-volatility-and-specimen-age|Psilocybin Degradation]]
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis|Baeocystin and Norbaeocystin]]
-
-## References
-
-- EMCDDA (2006). Hallucinogenic mushrooms: an emerging trend case study. Lisbon
-- Jacob, M.S. & Fehr, K.O. (1987). Drugs and Drug Abuse: A Reference Text
-- Gossop, M. (1993). Living with Drugs
-- Pechnick, R.N. & Ungerleider, J.T. (2004). Hallucinogens

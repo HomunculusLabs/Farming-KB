@@ -1,5 +1,5 @@
 ---
-title: "jeavons grain growing mini farms in Mini-Farms"
+title: Jeavons Grain Growing Mini Farms
 created: 2026-04-28
 tags: [biointensive, grains, calorie-crops, wheat, mini-farming,
   self-sufficiency, protein-crops]
@@ -80,7 +80,7 @@ It is essential to develop and work within natural sustainable
 cycles. The [[jeavons-seed-saving-and-propagation]] is essential for
 true self-sufficiency and reduces dependence on external seed sources.
 For information on growing open-pollinated seeds in the smallest area
-while preserving genetic diversity, see Ecology Action's Self-Teaching
+while preserving [[biodiversity-fungal-genetic-diversity]], see Ecology Action's Self-Teaching
 Mini-Series Booklet "Growing to Seed."
 
 ## Integration with the Mini-Farm System
@@ -88,19 +88,3 @@ Mini-Series Booklet "Growing to Seed."
 ### Compost Crop Role
 
 Grain crops contribute significantly to the [[mushroom-cultivator-compost-pile-management]]. The straw
-and stalks provide the carbonaceous material that, when combined with
-nitrogen-rich kitchen scraps and garden waste, creates balanced
-compost. This is the foundation of the [[jeavons-tree-cane-crops]] to increase soil
-friability and nitrogen content. Medium red clover, with its
-beautiful red flowers, is specifically recommended for this purpose.
-
-## The Self-Sufficiency Vision
-
-The ability to grow one's own bread in the backyard represents a
-fundamental aspect of food self-sufficiency. Combined with area-efficient
-calorie crops like potatoes and weight-efficient grains like wheat, the
-GROW BIOINTENSIVE system provides a practical pathway to growing most
-
-## See Also
-
-- [[jeavons-master-planning-mini-farms]]

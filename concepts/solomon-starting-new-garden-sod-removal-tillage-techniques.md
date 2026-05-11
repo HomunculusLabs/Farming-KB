@@ -1,6 +1,6 @@
 ---
-title: Starting a New Garden — Sod Removal, Tillage, and Bed Preparation (Solomon)
-source: Gardening When It Counts (Steve Solomon, 2005)
+title: Solomon Starting New Garden Sod Removal Tillage Techniques
+source: Gardening When It Counts ([[steve-solomon]], 2005)
 source_path: /Users/t3rpz/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
 tags: [gardening, new-garden, sod-removal, rototilling, bed-preparation, soil-preparation, solomon, raised-beds, self-sufficiency]
 ---
@@ -10,8 +10,8 @@ tags: [gardening, new-garden, sod-removal, rototilling, bed-preparation, soil-pr
 ## Overview
 
 In "Gardening When It Counts," Steve Solomon provides practical, no-nonsense
-guidance for converting grass-covered land into productive vegetable gardens.
-Written from decades of hands-on experience in both the Pacific Northwest
+guidance for converting grass-covered land into productive [[maintaining-organic-matter-in-vegetable-gardens]].
+Written from decades of hands-on experience in both the [[psilocybin-north-america-pacific-northwest]]
 and Tasmania, the approach emphasizes minimal investment, manual labor
 techniques, and understanding soil mechanics over following conventional
 gardening advice. Solomon is notably skeptical of "Everybody Else" — the
@@ -30,7 +30,7 @@ help break down grass roots before spring planting.
 
 ### The Ready-to-Till Test
 
-Before any digging or tilling, Solomon's essential soil moisture test:
+Before any digging or tilling, Solomon's essential [[solomon-ready-to-till-soil-moisture-test]]:
 
 1. Take a handful of soil and squeeze it into a ball about the size of a
    golf ball
@@ -49,7 +49,7 @@ Before any digging or tilling, Solomon's essential soil moisture test:
    a weed whacker or sickle, rake it up for compost — the shovel won't
    cut through it easily
 3. **Spread basic amendments** before any digging: lime(s), complete
-   organic fertilizer (COF), manure, and/or compost per Chapter 2
+   [[complete-organic-fertilizer-cof]] (COF), manure, and/or compost per Chapter 2
    recommendations
 4. Amendments go on top of the grass, to be incorporated during digging
 
@@ -88,58 +88,3 @@ the gardener is not strictly organic.
 
 Despite the speed advantage of tillers, Solomon prefers hand digging with
 a sharpened combination shovel or spade:
-
-- Requires no gasoline, makes no noise, and takes little more effort
-  when spread across days
-- Produces better soil structure than rotary cultivation (which can
-  create a hardpan layer at tine depth)
-- The work is less exhausting than most people assume if the shovel is
-  properly sharpened
-
-## Tool Sharpening
-
-Most gardeners never sharpen their tools after purchase, making digging
-exhausting. Solomon's sharpening protocol:
-
-- Hold the file at approximately 15° angle to the blade edge
-- Start strokes from the center of a curved blade and work outward to
-  each side alternately
-- After creating the bevel, remove the wire edge by flipping the shovel
-  over and making light strokes at approximately 5° on the back
-- The entire cutting effort is done within four inches of the center —
-  the bevel need not extend to the sides
-- A quality shovel, once sharp, will dig all summer without dulling
-  unless it strikes many rocks
-- The file cuts slowly in quality steel — if it cuts rapidly with little
-  pressure, the metal is too soft and will dull quickly
-
-## Clay Soil: Special Considerations
-
-Clay is the most challenging garden soil. Key properties:
-
-- Weighs roughly twice as much as loam, shovelful for shovelful
-- Forms rock-hard clods when dug even slightly too wet
-- Becomes airless goo when dry dust is first watered
-- Contains little air, so most vegetables grow poorly
-- Has a very narrow moisture window for productive tillage
-
-**Remediation approach**: Spread a one-inch layer of compost or
-well-rotted manure plus 100 lb lime per 1,000 sq ft for the first year
-only. This won't make clay light and fluffy but will produce a "decent
-garden." Avoid over-applying organic matter — it decomposes rapidly in
-clay, requires annual replacement, and excess amounts can unbalance soil
-mineral content, reducing nutritional quality of vegetables.
-
-**Investment approach**: Import a thick layer of loam topsoil and spread
-it over the clay. Solomon did this himself, covering beds nearly one foot
-deep with purchased topsoil over limed, manured, and rototilled clay
-subsoil. This produces near-loam performance at the cost of
-approximately $1,200 for 120 cubic yards of sandy loam.
-
-## See Also
-
-- [[complete-organic-fertilizer-cof-solomon]]
-- [[clay-soil-management-solomon]]
-- [[soil-temperature-plant-growth-rate-doubling-rule]]
-- [[solomon-raised-beds]]
-- [[solomon-irrigation-water-management]]

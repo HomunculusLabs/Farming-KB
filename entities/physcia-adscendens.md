@@ -12,14 +12,14 @@ sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Smith, C.W. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
   - Nash III, T.H. et al. (2002). "Lichen Flora of the Greater Sonoran Desert Region." Vol. 1. ASU.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[berry-growing]]." Yale University Press.
 ---
 
 ## Overview
 
 Physcia adscendens is a foliose lichen in the family Physciaceae, commonly known as the rosette lichen or ascending shield lichen. It forms characteristic rosette-shaped thalli with prominent black cilia at the lobe tips, making it one of the most recognizable urban lichens worldwide.
 
-The species is extremely tolerant of air pollution and is frequently among the first lichens to colonize tree bark in urban and suburban environments. Physcia adscendens has a nearly cosmopolitan distribution and is considered an indicator of moderate to high nitrogen enrichment.
+The species is extremely tolerant of air pollution and is frequently among the first lichens to colonize tree bark in urban and suburban environments. Physcia adscendens has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] and is considered an indicator of moderate to high nitrogen enrichment.
 
 Its capacity to withstand desiccation and rapid rehydration cycles contributes to its success in exposed, sun-baked habitats. The species is absent only from the most polluted urban cores and from extreme Arctic and Antarctic environments.
 
@@ -39,13 +39,13 @@ The upper surface is gray to pale blue-gray, sometimes with a greenish tinge in 
 
 A distinctive feature is the dense covering of black cilia along the lobe margins, especially concentrated at the lobe tips. These cilia are stiff, unbranched, and 0.3 to 1.0 mm long.
 
-The cilia develop from the cortical hyphae at lobe margins and are composed of densely packed dark-pigmented fungal cells. Their density and length can vary with light exposure and nutrient availability.
+The cilia develop from the cortical hyphae at lobe margins and are composed of densely packed dark-pigmented fungal cells. Their density and length can vary with light exposure [[ph-and-nutrient-availability-garden-soils]].
 
 Soralia are frequently present, developing along lobe margins or on the upper surface near lobe tips. The soredia are granular and gray, facilitating vegetative reproduction.
 
 Apothecia are uncommon but when present, they are lecanorine with a brown disc and a pale thalline margin measuring 0.5 to 2.0 mm in diameter.
 
-Sexual reproduction via ascospores appears to be rare compared to vegetative dispersal through soredia. This may explain the relatively low genetic diversity observed in widespread populations.
+Sexual reproduction via ascospores appears to be rare compared to vegetative dispersal through soredia. This may explain the relatively low [[biodiversity-fungal-genetic-diversity]] observed in widespread populations.
 
 ## Distribution and Habitat
 
@@ -57,7 +57,7 @@ In North America, Physcia adscendens is most abundant in the eastern deciduous f
 
 Physcia adscendens shows a strong preference for well-lit conditions and is most abundant on exposed bark surfaces. It is less common in deeply shaded forest interiors.
 
-The lichen is notably nitrophilic, thriving where atmospheric nitrogen deposition is elevated. This trait makes it a useful bioindicator of eutrophication.
+The lichen is notably nitrophilic, thriving where atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] is elevated. This trait makes it a useful bioindicator of eutrophication.
 
 It is found from sea level to approximately 1000 meters elevation, primarily in temperate and subtropical zones.
 
@@ -87,35 +87,4 @@ The species plays a role in bark microhabitat formation, creating substratum con
 
 Invertebrates including mites and springtails are commonly associated with Physcia thalli, using the lichen mat for shelter and foraging.
 
-These microarthropod communities contribute to nutrient cycling within the lichen thallus and may assist in soredial dispersal through passive transport on their bodies.
-
-The nitrophilic nature of Physcia adscendens means it often dominates lichen communities on trees near roadsides, farms, and industrial areas where other species are excluded by pollution or nutrient loading.
-
-This competitive advantage in high-nitrogen environments has led to increased abundance of Physcia adscendens across central Europe over the past century, paralleling rising atmospheric ammonia from agriculture.
-
-## Similar Species
-
-Physcia stellaris is the most commonly confused species, but it lacks the prominent black cilia and has a more tightly adnate thallus. Physcia aipolia has white maculae (pseudocyphellae) on the upper surface that Physcia adscendens lacks.
-
-Field identification of Physcia adscendens is most reliably based on the combination of ascendant lobes with dense marginal cilia and the K+ yellow medullary reaction.
-
-Physcia tenella is smaller and more tightly attached to the substrate, with shorter cilia and a more restricted distribution. Physcia tribacioides overlaps in morphology but differs in medullary chemistry and geographic range.
-
-Careful examination of cilia density and thallus attachment is necessary to separate Physcia adscendens from these allies in the field, particularly on nutrient-rich bark where multiple Physcia species co-occur.
-
-The cilia of Physcia adscendens are longer and more numerous than those of Physcia dubia, which has shorter, sparser marginal hairs.
-
-Heterodermia species occupy similar bark habitats but have a white lower surface lacking rhizines and produce different secondary chemistry. Anaptychia ciliaris is much larger and has long, spreading cilia unlike the short appressed cilia of Physcia adscendens.
-
-## See Also
-
-- [[physcia-stellaris]]
-- [[physcia-aipolia]]
-- [[xanthoria-parietina]]
-- [[xanthoria-polycarpa]]
-- [[hypogymnia-physodes]]
-- [[evernia-prunastri]]
-- [[flavoparmelia-caperata]]
-- [[lecanora-conizaeoides]]
-- [[xanthoria-elegans]]
-- [[ramalina-fraxinea]]
+These microarthropod communities contribute to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] within the lichen thallus and may assist in soredial dispersal through passive transport on their bodies.

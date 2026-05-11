@@ -24,9 +24,9 @@ sources:
 
 **Acacia nilotica**, commonly known as babul, prickly acacia, gum arabic tree, or Indian gum arabic, is a perennial tree in the family Fabaceae. It is native to Africa and the Indian subcontinent, ranging from Egypt to South Africa and eastward to India.
 
-The tree is highly valued across its range for gum production, tannin-rich bark, fodder, fuelwood, and traditional medicine. It is one of the most economically important multipurpose trees in arid and semi-arid tropics.
+The tree is highly valued across its range for gum production, tannin-rich bark, fodder, fuelwood, and traditional medicine. It is one of the most economically important [[multipurpose-trees-in-permaculture-design]] arid and semi-arid tropics.
 
-Growing 5–20 m tall with a dense, spreading crown, babul is a hardy species adapted to harsh conditions. It plays significant ecological roles in desertification control and sand dune stabilization.
+Growing 5–20 m tall with a dense, spreading crown, babul is a hardy species adapted to harsh conditions. It plays significant [[ecological-roles-fungi-ecosystems]] in desertification control and sand dune stabilization.
 
 ## Taxonomy and Morphology
 
@@ -67,7 +67,7 @@ Growth is moderately fast, reaching 3–5 m in 5 years under favorable condition
 
 Its coppicing ability allows for sustainable harvest of fodder, fuelwood, and gum. Regrowth from cut stumps is vigorous, making it suitable for managed agroforestry systems.
 
-In agroforestry systems, babul is planted as a windbreak, [[mollison-designers-legume-shade-tree-pasture-systems]], and living fence. Spacing of 5–8 m between trees is recommended for silvopastoral systems.
+In agroforestry systems, babul is planted as a windbreak, [[mollison-designers-legume-shade-tree-pasture-systems]], and [[query-how-do-i-design-and-plant-a-living-fence]]. Spacing of 5–8 m between trees is recommended for silvopastoral systems.
 
 ## Bioactive Compounds and Uses
 
@@ -85,30 +85,6 @@ In Ayurvedic medicine, babul bark is used as an astringent for diarrhea, dysente
 
 African traditional medicine uses different plant parts for treating malaria, colds, and respiratory infections. The gum is applied topically to wounds and burns for its soothing and antimicrobial effects.
 
-Modern pharmacological studies have confirmed antibacterial activity against pathogens including Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Bark extracts show significant anti-inflammatory activity.
+Modern pharmacological studies have confirmed antibacterial activity against pathogens including [[staphylococcus-aureus]], Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Bark extracts show significant anti-inflammatory activity.
 
 Antioxidant assays demonstrate strong free-radical scavenging capacity, attributed primarily to the high tannin content. Hypoglycemic and hepatoprotective effects have been documented in animal studies.
-
-## Ecology and Applications
-
-Acacia nilotica forms nitrogen-fixing symbioses with rhizobia (Bradyrhizobium and Sinorhizobium spp.), contributing significant nitrogen to nutrient-poor soils. This makes it valuable in agroforestry and land restoration.
-
-The tree provides excellent fodder, with pods containing 12–15% crude protein and low fiber content. Leaves and twigs are also browsed by livestock, particularly goats and camels.
-
-In desertification control, babul is planted for sand dune stabilization and windbreak establishment. Its deep taproot system helps prevent soil erosion on degraded lands.
-
-The dense wood (density 0.8–1.0 g/cm³) is hard, durable, and termite-resistant. It is used for tool handles, agricultural implements, fence posts, and fuelwood.
-
-Babul can become invasive outside its native range, particularly in Australia where it has spread over millions of hectares. Management includes [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using seed-feeding insects.
-
-The species provides habitat and food for diverse wildlife, including birds, insects, and small mammals. Its flowers are an important nectar source for bees during dry periods when few other plants are in bloom.
-
-## See Also
-
-- [[prosopis-juliflora]]
-- [[azadirachta-indica]]
-- [[robinia-pseudoacacia]]
-- [[moringa-oleifera]]
-- [[pongamia-pinnata]]
-- [[nitrogen-fixing-trees]]
-- allelopathy

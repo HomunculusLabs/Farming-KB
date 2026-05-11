@@ -1,9 +1,10 @@
 ---
-title: "Gourmet and gourmet-medicinal-mushroom-casing-layer-techniques Shiitake Cultivation on Logs"
+title: Gourmet Medicinal Mushroom Shiitake Cultivation Logs
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
+  - "raw/papers/mycelium-running-stamets.md"
+  - "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
   - "Oyster accessible-mushroom-cultivation-for-disabilities (MushWorld, 2004)"
 type: concept
 tags: [cultivation, medicine, mushroom-cultivation, shiitake]
@@ -11,7 +12,7 @@ tags: [cultivation, medicine, mushroom-cultivation, shiitake]
 
 # Gourmet and Medicinal Mushroom Shiitake Cultivation on Logs
 
-Shiitake (Lentinula edodes) has been cultivated for over a thousand years, with records dating to the Sung Dynasty in China (960-1127 AD) when Wu Sang Kwuang first described growing methods. Dr. Shozaburo Mimura pioneered modern Shiitake cultivation techniques in 1904. Today, Shiitake is cultivated both outdoors on hardwood logs and indoors on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks.
+Shiitake (Lentinula edodes) has been cultivated for over a thousand years, with records dating to the Sung Dynasty in China (960-1127 AD) when Wu Sang Kwuang first described [[mushroom-growing-methods-comparison]]. Dr. Shozaburo Mimura pioneered modern Shiitake [[cannabis-sativa-indoor-cultivation-techniques]] in 1904. Today, Shiitake is cultivated both outdoors on hardwood logs and indoors on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks.
 
 ## Natural Method: Log Cultivation
 
@@ -37,7 +38,7 @@ Modern indoor cultivation uses supplemented sawdust substrates for faster, more 
 
 ### Substrate Formula
 
-The Stamets fruiting formula for Shiitake sawdust blocks:
+The [[stamets-fruiting-substrate-materials]] formula for Shiitake sawdust blocks:
 
 | Component | Amount |
 |-----------|--------|
@@ -80,61 +81,10 @@ The progression of Shiitake colonization on supplemented sawdust blocks:
 | Spawn Run | Humidity | 95-100% |
 | Spawn Run | CO2 | Above 10,000 ppm |
 | Spawn Run | Duration | 35-70 days (strain dependent) |
-| Primordia Formation | Temperature | 50-70 degrees F (10-21 degrees C) |
+| [[mushroom-pinning-primordia-formation-strategies]] | Temperature | 50-70 degrees F (10-21 degrees C) |
 | Primordia Formation | Humidity | 95-100% |
 | Primordia Formation | CO2 | Below 1,000 ppm |
 | Primordia Formation | Fresh Air Exchanges | 4-7 per hour |
 | Primordia Formation | Light | 500-2,000 lux at 370-420 nm |
 | Fruitbody Development | Temperature | 50-80 degrees F (10-27 degrees C, strain dependent) |
 | Fruitbody Development | Humidity | 60-80% |
-| Fruitbody Development | CO2 | Below 1,000 ppm |
-| Fruitbody Development | Light | 500-2,000 lux at 370-420 nm |
-| Cropping Cycle | Every 2-3 weeks for 8-12 weeks |
-
-Cold-weather strains fruit at 50-60 degrees F, while warm-weather strains fruit at 60-80 degrees F. Fluctuations within these ranges benefit mushroom development. Light levels below 500 lux cause noticeable stem elongation.
-
-### Initiation of Flushes
-
-The first flush is initiated by simply elevating humidity and watering. Subsequent flushes are initiated by submerging the blocks in cold water for 24-36 hours. After submerging, blocks are spaced apart on open-wire shelves. Blocks on solid shelves tend to contaminate with green molds from the moisture pooling underneath. The fruiting cycle usually spans no more than 3 months from the first flush, and the process can be repeated 4-5 times before blocks cease production.
-
-### Harvest and Quality
-
-- [[stamets-biological-efficiency-yield]]: 100-200% (1.5-3 lbs fresh mushrooms from 6 lbs sawdust/chip/bran block)
-- Humidity should be fluctuated during fruitbody development, then lowered to 60% relative humidity for 6-12 hours before harvest to toughen the cap's leathery outer skin, substantially extending shelf life
-- Best picked when cap margins are still inrolled, at mid-adolescent stage
-- Greater yields if fruitbodies are allowed to enlarge, but quality vs. yield must be carefully balanced
-
-## Liquid Culture Techniques
-
-Shiitake adapts well to liquid culture. The recommended approach:
-
-1. Grow cultures on malt agar supplemented with 3-5 grams of alder sawdust
-2. Blend grown cultures in a stainer
-3. Sub-proportion into Erlenmeyer flasks with malt sugar, yeast, and alder (2% : 1% : 0.5%)
-4. Ferment for two days
-5. Inject into sterilized rye grain
-6. Use liquid-inoculated grain masters to inoculate sawdust spawn
-7. Sawdust spawn inoculates the final fruiting substrate
-
-## Suggested Agar Media
-
-PDYA (Potato Dextrose Yeast Agar), MYA (Malt Yeast Agar), and OMYA (Oat Malt Yeast Agar), each supplemented with 0.2% of the hardwood sawdust used in the production block.
-
-## Economics of Log Cultivation
-
-Research on the economics of Shiitake log cultivation has generally shown marginal profitability:
-
-- Rathke and Baughman (1993): At 4,000 logs/year by an experienced grower, net profit after costs was only 5.76% return after-tax. Increasing to 8,000 logs showed no appreciable profit increase.
-- Gormanson and Baughman (1987): Profitability was marginal at best.
-- Roberts (1988): Concluded log cultivation was not profitable.
-
-A standalone Shiitake log operation can only be profitable with substantial subsidies for materials and labor. However, Shiitake log cultivation remains attractive for those seeking minor supplemental income, enjoyment of home cultivation, or providing food for friends and family.
-- stamets-mushroom-growing-parameters-by-species
-- [[gourmet-medicinal-mushroom-substrate-preparation]]
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-## See Also
-- [[mushroom-cultivation]]
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[pinus-radiata]]
-- [[oyster-mushroom]]
-- [[lentinula-edodes]]

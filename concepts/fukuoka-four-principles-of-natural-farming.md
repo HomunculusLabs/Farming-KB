@@ -87,38 +87,3 @@ no-input approach. Soil that has been degraded by years of chemical use
 may take several years to recover its natural fertility and biological
 balance. However, once the natural balance is reestablished, the system
 becomes largely self-maintaining.
-
-For rice and grain fields, Fukuoka recommended that inexperienced farmers
-or those with hard or poor soil sow more seed in the beginning. As the
-soil gradually improves from decomposing straw and green manure, and as
-the farmer becomes more familiar with the method, the amount of seed can
-be reduced.
-
-Fukuoka was firm that the principles must be adopted as a complete
-system. "Natural farming is gentle and easy and indicates a return to
-the source of farming. A single step away from the source can only lead
-one astray."
-
-## Evidence and Yield Comparisons
-
-Over twenty to thirty years, Fukuoka's method was tested across a wide range of climates in almost every prefecture in Japan. Tests comparing yields of "direct seeding non-cultivation" with conventional paddy rice growing produced no evidence contradicting the universal applicability of natural farming.
-
-Fukuoka reported rice yields of approximately 22 bushels (1,300 pounds) per quarter acre. In some areas, using an old variety of glutinous rice, harvests reached 27.5 bushels (1,650 pounds) per quarter acre. While conventional tall plants yielding 2,000 pounds of straw might produce only 1,000–1,200 pounds of rice, his compact plants yielded 2,000 pounds of rice for the same straw weight — 20 percent heavier than the straw itself. The yields continued to increase and the soil became richer every year.
-
-## Barriers to Adoption
-
-Despite decades of positive results, the principles did not spread widely. Fukuoka attributed this to the extreme specialization of agricultural science, institutional inertia, and farmers' reluctance to abandon familiar practices. Specialists visiting his farm each viewed it through the lens of his own specialty, found it satisfactory, yet no one advocated systemic change. The suggestion to try the method widely was invariably met with the response that more years of research were needed first.
-
-## Interdependence and Philosophical Foundation
-
-Fukuoka emphasized that the four principles function as an integrated system and cannot be partially adopted without losing their effectiveness. The farmer who attempts to mix natural and scientific farming "can no longer criticize science at the fundamental level."
-
-The four principles express a deeper philosophical stance rooted in non-interference with natural processes. Fukuoka distinguished between "broad, transcendent natural farming" and "narrow natural farming." The four principles belong to the transcendent approach — they describe what emerges when human will is set aside and nature guides the process.
-
-Fukuoka summarized his conviction: "The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of human beings."
-
-## See Also
-
-- [[fukuoka-clay-seed-ball-technique]] — Seed encasement method for direct seeding
-- fukuoka no till rice barley rotation — Practical application of these principles
-- fukuoka [[cho-natural-farming-philosophy]] — Kor [[natural-farming-philosophy]] ophy (related tradition)

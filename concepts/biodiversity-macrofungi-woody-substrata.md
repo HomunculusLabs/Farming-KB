@@ -9,7 +9,7 @@ type: concept
 ---
 # Macrofungi on Woody Substrata
 
-Macrofungi fruiting on woody substrata are usually either saprobes or plant
+[[macrofungi-fruiting-phenology-interannual-variation]] on woody substrata are usually either saprobes or plant
 pathogens, encompassing diverse ascomycetes and basidiomycetes. Their study
 presents unique challenges related to seasonality, successional patterns on
 decaying wood, and the difficulty of accessing canopy habitats. Long-term
@@ -19,21 +19,21 @@ the full diversity of wood-inhabiting macrofungi in any landscape.
 ## Factors Influencing Species Richness
 
 The diversity of macrofungi on woody substrata is shaped by several interacting
-factors. Annual variation in sporocarp production can be enormous: only 5% to
+factors. [[macrofungi-seasonality-annual-variation]] in sporocarp production can be enormous: only 5% to
 20% of ectomycorrhizal species at eight sites in Olympic National Park fruited
 in two successive years. Some species fruit only one year out of four or more,
 underscoring the need for long-term studies of at least 5 years and preferably
 10 years or more.
 
 Seasonality interacts with elevation, latitude, temperature, and precipitation.
-In temperate regions with summer drought, spring and fall are the main fruiting
+In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with summer drought, spring and fall are the main fruiting
 seasons. The fall season is progressively later at lower latitudes. In regions
 with summer rain and at high elevations, summer may be the most important
 season. Unusual weather events can trigger atypical fruiting patterns.
 
 Vegetation type directly influences species composition because plants
 constitute the habitat and energy source for most fungi. Precipitation may be a
-better predictor of species richness and community structure of ectomycorrhizal
+better predictor of species richness and [[edaphic-determinants-cannabis-microbiome-community-structure]] of ectomycorrhizal
 fungi at local scales than vegetation type alone.
 
 ## Chronosequence Approaches
@@ -47,7 +47,7 @@ aerial photographs of a Danish forest to determine when each tree exceeding
 clear successional patterns.
 
 By substituting space for time through careful selection of logs of known ages,
-investigators can reconstruct community assembly patterns on decaying wood.
+investigators can reconstruct [[biodiversity-fungal-community-assembly]] patterns on decaying wood.
 This approach connects to broader themes in
 [[biodiversity-fungi-temperate-boreal-forests]].
 
@@ -75,7 +75,7 @@ on wood overlap with those discussed in
 
 ## Culturing Wood-Inhabiting Macrofungi
 
-Many wood-inhabiting fungi grow well on malt extract agar, though potato
+Many wood-inhabiting fungi grow well on [[malt-extract-agar]], though potato
 dextrose agar and oatmeal agar are also used. Special agar containing organic
 matter from a particular substratum can be used for hard-to-culture species.
 Some wood-inhabiting basidiomycetes will fruit on wood-containing media with
@@ -87,19 +87,3 @@ the lid of a Petri plate. Cultures of [[query-what-are-ectomycorrhizal-fungi-and
 Laccaria, Tricholoma, Hebeloma, and Amanita can be obtained with proper
 procedure; genera such as Lactarius, Russula, Entoloma, Cortinarius, and
 Hygrophorus remain difficult or impossible to grow.
-
-## Monitoring Programs
-
-Monitoring macrofungal populations has been attempted rarely, and little
-information is available. The productive seasons for sampling are dictated by
-local climate. Ideally, fleshy macrofungi are sampled every one to two weeks
-throughout the fruiting season. When that schedule is impossible, pilot studies
-using complementarity tests help determine when and how often to sample for
-maximum species coverage. See [[macrofungi-woody-substrata-survey-design]] for
-detailed [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]].
-
-## See Also
-
-- [[macrofungi-woody-substrata-survey-design]]
-- [[biodiversity-fungi-temperate-boreal-forests]]
-- [[biodiversity-microfungi-litter-wood-debris]]

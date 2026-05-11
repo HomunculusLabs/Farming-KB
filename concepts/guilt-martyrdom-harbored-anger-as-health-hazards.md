@@ -1,5 +1,5 @@
 ---
-title: "Guilt, Martyrdom, and guilt martyrdom harbored anger as health hazards as Health Hazards"
+title: Guilt Martyrdom Harbored Anger As Health Hazards
 type: concept
 tags:
   - psychology
@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
+  - Blesching, U. (2015). "The [[blesching-cannabis-health-index-autoimmune-conditions]]." North Atlantic Books.
   - University of California. "Negative self-talk and pro-inflammatory cytokines."
   - Merriam-Webster Dictionary. Definitions of bias, discernment, guilt.
 ---
@@ -21,7 +21,7 @@ Three emotional patterns — guilt, martyrdom, and harbored anger — are
 identified in mind-body medicine as particularly destructive habits
 that have only negative health consequences.
 
-While constricting emotions in general are not harmful when expressed
+While [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] in general are not harmful when expressed
 and released appropriately, these three patterns tend to become self-
 reinforcing loops that create persistent physiological stress.
 
@@ -89,55 +89,6 @@ Preventing harbored anger requires changing the underlying belief that
 sustains it. Common sustaining beliefs include "without this anger I
 am weak" or "without this anger I lose my friends and family."
 
-These beliefs need to be released and replaced if the person is to
-move beyond the cycle. The technique involves identifying the belief,
-examining whether it serves a current purpose, and consciously
-choosing a replacement belief.
-
-## Releasing Techniques and Forgiveness
-
-All three destructive habits can be addressed through forgiveness. As
-we forgive guilt, martyrdom, and harbored anger, we significantly
-strengthen our capacity for healing.
-
-One technique involves asking the body for help: focus on where the
-trouble concentrates, ask what is being judged, and release it by
-forgiving oneself. For example, change "I am bad because I am angry"
-to "It is okay to be angry" or "I forgive myself for judging my
-anger."
-
-For releasing harbored anger specifically, a three-cycle writing
-technique is recommended. Write out anger in detail, fold and tuck the
-paper away for three days, then read and rewrite. After the third
-cycle, destroy the paper — signaling to the subconscious a commitment
-to a new way of safely expressing and releasing anger.
-
-## Breathing and Emotional Regulation
-
-Anger has a specific breath pattern of long, forced inhalations
-exceeding the exhalation phase. By changing how we breathe, we change
-how we feel, reducing heart rate and blood pressure.
-
-The "square your breath" technique addresses this by making all four
-breathing phases equal. Count the natural inhalation duration, then
-hold, exhale, and pause for the same count.
-
-For example, with a 4-second count: Inhalation (1-2-3-4), Pause (1-2-
-3-4), Exhalation (1-2-3-4), Pause (1-2-3-4). Continue until a feeling
-of calm and centeredness is achieved.
-
-This technique is particularly effective during panic attacks, where
-rapid shallow breathing creates an unfavorable oxygen-to-CO2 ratio,
-triggering further anxiety through increased heart rate, blood
-pressure, and tingling sensations.
-
 ## See Also
-
-- [[mind-body-medicine-and-endocannabinoid-system]]
-- [[bias-prejudice-judgment-and-health]]
-- [[gratitude-compassion-forgiveness-healing-effects]]
-- [[habit-transformation-trigger-reaction-reward]]
-- [[cannabis-health-index-scoring-system]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[endocannabinoid-system-and-cannabis-pharmacology]]
+- [[blesching-cannabis-health-index-mental-health-applications]]
+- [[blesching-cortisol-shame-guilt-self-worth-stress-hormone-connection]]

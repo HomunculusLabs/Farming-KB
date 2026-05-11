@@ -40,7 +40,7 @@ actions, acting as post-synaptic agonists or partial agonists at 5-HT2A
 receptors.
 
 Psilocybin is the phosphate ester of psilocin; it is more stable in air and
-water-soluble. In the body, psilocybin is dephosphorylated to [[amanita-muscaria-entity]],
+water-soluble. In the body, psilocybin is dephosphorylated to [[amanita-muscaria]],
 raising public health concerns due to the different chemistry and toxicity
 profile of ibotenic acid-containing species compared to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 

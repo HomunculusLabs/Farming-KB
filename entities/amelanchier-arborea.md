@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-Amelanchier arborea, commonly known as downy serviceberry or common serviceberry, is a small deciduous tree in the family Rosaceae native to eastern North America.
+Amelanchier arborea, commonly known as downy serviceberry or common serviceberry, is a small deciduous tree in the family Rosaceae native to [[polypore-fungi-eastern-north-america]].
 
-It is noted for its showy white flowers in early spring, edible purple-black berries in early summer, and vibrant orange-red fall color.
+It is noted for its showy white flowers in [[coleman-overwintered-onions-and-early-spring-crops]], edible purple-black berries in early summer, and vibrant orange-red fall color.
 
 The species typically reaches 5 to 10 meters in height with an irregular, spreading crown.
 
@@ -33,7 +33,7 @@ Amelanchier arborea was described by Friedrich von Marschall Bieberstein in 1808
 
 The species epithet arborea means "tree-like," distinguishing it from shrubbier Amelanchier species.
 
-Serviceberry taxonomy is complicated by frequent hybridization between species, making field identification challenging.
+Serviceberry taxonomy is complicated by frequent hybridization between species, making [[palmer-mushroom-hunting-field-identification]] challenging.
 
 **Bark** is smooth and gray on young stems, developing longitudinal fissures and becoming dark gray-brown with age.
 
@@ -45,7 +45,7 @@ Serviceberry taxonomy is complicated by frequent hybridization between species, 
 
 The berries are sweet and flavorful, similar in taste to blueberries, and are edible fresh or used in jams and pies.
 
-Native American peoples traditionally used serviceberry berries for food and the wood for making arrow shafts and tool handles.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples traditionally used serviceberry berries for food and the wood for making arrow shafts and tool handles.
 
 ## Distribution and Habitat
 
@@ -67,7 +67,7 @@ The berries of Amelanchier arborea are consumed by at least 40 species of birds,
 
 Mammals including black bears, raccoons, foxes, and squirrels also eat the fruit.
 
-The early spring flowers are an important nectar source for native bees, honeybees, and early-emerging butterflies.
+The early spring flowers are an important nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]], honeybees, and early-emerging butterflies.
 
 Serviceberry is a host plant for the caterpillars of several butterfly and moth species, including the striped hairstreak.
 
@@ -79,7 +79,7 @@ It eventually gives way to more shade-tolerant hardwoods but can persist for dec
 
 ## Cultivation and Uses
 
-Downy serviceberry is increasingly popular in native plant landscaping and ecological restoration projects.
+Downy serviceberry is increasingly popular in native plant landscaping and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 It is planted for its multi-season ornamental value: spring flowers, summer fruit, orange-red fall color, and attractive gray bark.
 
@@ -88,33 +88,3 @@ The species transplants readily and establishes quickly, making it suitable for 
 Several cultivars are available, including 'Autumn Brilliance' (hybrid, exceptional fall color), 'Princess Diana' (upright form, large flowers), and 'Forest Prince' (compact habit).
 
 The berries can be harvested for culinary use in pies, preserves, and wine, though birds often consume them before they are fully ripe.
-
-Serviceberry is recommended for pollinator gardens, wildlife habitat plantings, and as an alternative to invasive ornamental species.
-
-It is also used in riparian buffer plantings and mine reclamation projects due to its adaptability to disturbed soils.
-
-The species is relatively pest-free, though fire blight, powdery mildew, and cedar-serviceberry rust can occasionally affect plant health.
-
-## Conservation
-
-Amelanchier arborea is not threatened and remains common throughout most of its range.
-
-However, habitat loss from urbanization and agricultural conversion has reduced serviceberry populations in portions of the Midwest and southeastern coastal plain.
-
-The species is susceptible to browsing pressure from overabundant white-tailed deer, which can limit regeneration in some forested areas.
-
-Serviceberry responds well to prescribed fire in fire-adapted ecosystems, often resprouting vigorously from the root crown.
-
-Conservation plantings frequently include serviceberry as a component of diverse native hedgerows and wildlife corridors.
-
-## See Also
-
-- [[prunus-serotina]]
-- [[acer-saccharum]]
-- [[quercus-alba]]
-- [[quercus-rubra]]
-- [[betula-pendula]]
-- [[fagus-sylvatica]]
-- [[tilia-cordata]]
-- [[liquidambar-styraciflua]]
-- [[nyssa-sylvatica]]

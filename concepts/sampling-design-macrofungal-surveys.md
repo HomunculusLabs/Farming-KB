@@ -1,6 +1,6 @@
 ---
 title: "Sampling Design Considerations for Macrofungal Surveys"
-source: "Biodiversity of Fungi: Inventory and [[fungal-detection-and-monitoring-methods-bioremediation]]"
+source: "[[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]: Inventory and [[fungal-detection-and-monitoring-methods-bioremediation]]"
 source_file: "raw/papers/unknown-biodiversity-of-fungi.md"
 topics:
   - mycology
@@ -17,7 +17,7 @@ topics:
 
 ## Overview
 
-Designing an effective sampling program for macrofungal biodiversity requires careful consideration of factors that are unique to fungi or that affect fungi more severely than they affect plants and animals. The episodic visibility of fungi (they are only observable during fruiting), the fundamental challenge of defining fungal individuals, the sensitivity of fruiting to weather and season, and the enormous interannual variation in species presence all create methodological challenges that demand explicit attention during the planning phase. This page synthesizes key design considerations drawn from established protocols in fungal [[fungal-biodiversity-assessment-methods]].
+Designing an effective sampling program for macrofungal biodiversity requires careful consideration of factors that are unique to fungi or that affect fungi more severely than they affect plants and animals. The episodic visibility of fungi (they are only observable during fruiting), the fundamental challenge of defining fungal individuals, the sensitivity of fruiting to weather and season, and the enormous [[macrofungal-fruiting-phenology-interannual-variation]] in species presence all create methodological challenges that demand explicit attention during the planning phase. This page synthesizes key design considerations drawn from established protocols in fungal [[fungal-biodiversity-assessment-methods]].
 
 ## Defining the Sampling Unit
 
@@ -37,7 +37,7 @@ Frequency of occurrence is calculated as the percentage of sample units in which
 
 The most effective size for a sampling plot is determined by the total time required to erect and characterize individual plots as well as the variability of the resultant data. The investigator should have some a priori knowledge of appropriate plot size so that the range of sizes to be evaluated is not excessive. Practicality is also important — plots must be large enough to capture meaningful diversity but small enough to be searched thoroughly within the available time.
 
-A growing body of evidence suggests that ecological patterns and processes are scale-dependent, so considerable caution must be exercised when comparing the results of studies based on plots of different size. The spatial scale at which data are collected should be related to the spatial scales at which causative mechanisms are thought to operate.
+A growing body of evidence suggests that ecological patterns and processes are scale-dependent, so considerable caution must be exercised when comparing the results of studies based on plots of different size. The [[fungal-spatial-scale-biodiversity-hierarchical-zak-willig]] at which data are collected should be related to the spatial scales at which causative mechanisms are thought to operate.
 
 ### Plot Shape and Environmental Gradients
 
@@ -59,7 +59,7 @@ The number of plots or samples will depend on the characteristics of the fungal 
 
 ### Complementarity Tests
 
-When a full multi-year study is not feasible, complementarity tests conducted during a pilot study can help determine optimal sampling timing and frequency. These tests examine how rapidly new species accumulate across sampling dates and can identify the most productive phenological windows for a given site and climate. Complementarity between sites can also be assessed to determine how many spatially distinct sites must be sampled to capture the full species complement of a landscape.
+When a full multi-year study is not feasible, complementarity tests conducted during a pilot study can help determine optimal [[cannabis-endorhiza-sampling-timing-post-harvest-effects]] and frequency. These tests examine how rapidly new species accumulate across sampling dates and can identify the most productive phenological windows for a given site and climate. Complementarity between sites can also be assessed to determine how many spatially distinct sites must be sampled to capture the full species complement of a landscape.
 
 ## Vegetation Characterization
 
@@ -71,7 +71,7 @@ Learning to recognize the woody plant species and major plant associations likel
 
 ### Precipitation as a Predictor
 
-For ectomycorrhizal fungi, precipitation has been found to be a better predictor of species richness and community structure at local scales than vegetation type alone. This finding underscores the importance of recording weather data alongside fungal observations and suggests that moisture availability may be the proximate factor controlling fungal community assembly even when host plant identity determines the pool of potential species.
+For ectomycorrhizal fungi, precipitation has been found to be a better predictor of species richness and [[edaphic-determinants-cannabis-microbiome-community-structure]] at local scales than vegetation type alone. This finding underscores the importance of recording weather data alongside fungal observations and suggests that moisture availability may be the proximate factor controlling [[biodiversity-fungal-community-assembly]] even when host plant identity determines the pool of potential species.
 
 ## Species Richness Metrics
 
@@ -88,36 +88,3 @@ Because human and financial resources are often too limited to enable complete d
 ### Sampling Frequency
 
 Ideally, fleshy macrofungi should be sampled in an area every one to two weeks throughout the fruiting season to maximize the number of species observed. When such a schedule is not possible, a pilot study should be conducted to determine the optimal sampling frequency for the specific site and climate. Studies of annual variation and seasonality have been limited largely to Europe, so data from other regions should be interpreted with appropriate caution.
-
-### Phenological Windows
-
-Maximum richness of fruiting species occurs only during brief periods that differ among years. During years when many species fruit simultaneously, specimens may decay before they can be adequately documented, resulting in significant data loss. This creates a paradox: the richest years are precisely the ones most likely to generate incomplete data. Having a larger, efficient workforce available during predicted peak fruiting periods can mitigate this problem.
-
-### Long-Term Commitment
-
-Given that 8 to 12 years may be needed for species accumulation curves to approach an asymptote, macrofungal surveys designed to estimate total species richness require a long-term commitment. Shorter studies (one to three years) can provide valuable data on [[core-endorhiza-bacterial-community-composition-cannabis]] and relative species abundance but should not be interpreted as comprehensive inventories. Funding agencies and research planners should be made aware of this temporal requirement during the proposal stage.
-
-### Herbarium Records as Historical Baselines
-
-When long-term field sampling is not feasible, herbarium specimen records can provide historical baselines for species occurrence at a given locality. Date and locality information on herbarium labels allows reconstruction of past fruiting phenology and species distributions. However, herbarium records are subject to collection bias, as collectors tend to visit sites during expected [[azurescens-fruiting-seasons-and-conditions]] and may underrepresent species that fruit outside of typical windows.
-
-## Documentation and Voucher Specimens
-
-### Field Label Requirements
-
-Minimum data for each field label include: collection number, collector's name, date, and location. Additional data that should be recorded include tentative identification, plot number, associated vegetation, substratum, microhabitat, and ephemeral characters of the sporocarp (color changes, odor, bruising reactions). Preprinting labels ensures that important data are not omitted and facilitates efficient recording of ecological and host data.
-
-### Voucher Specimens
-
-Maintaining voucher specimens is a critical aspect of measuring or monitoring diversity. Specimens should be dried promptly after collection, with fleshy species requiring a heat source (38-55°C) and tougher species amenable to air-drying. DNA subsamples should be preserved in CTAB buffer or supersaturated DMSO solution for future molecular analysis. Every published species record should be supported by a voucher specimen deposited in a recognized herbarium.
-
-## See Also
-
-- fungal-biodiversity-genet-ramet-individual-problem
-- [[fungal-diversity-indices-community-analysis]]
-- macrofungi-sampling
-- [[mycorrhizal-fungal-diversity]]
-- [[ectomycorrhiza]]
-- [[fungal-community-assembly]]
-
-- [[macrofungal-sampling-protocol-design-plot-selection]]

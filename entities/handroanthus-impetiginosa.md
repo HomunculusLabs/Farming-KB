@@ -12,7 +12,7 @@ sources:
   - Grose, S.O. & Olmstead, R.G. (2007). "Taxonomic revisions in the polyphyletic genus Tabebuia s.l." Systematic Botany, 32(3), 660–670.
   - Odonne, G. et al. (2017). "Medicinal plants from the Guiana high plateau: ethnobotanical survey." Journal of Ethnopharmacology, 195, 60–71.
   - Udenigwe, C.C. et al. (2004). "Antimicrobial activity of lapachol." Phytotherapy Research, 18(7), 565–568.
-  - Lock, O. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants from Plants of the Tabebuia Genus." Studies in Natural Products Chemistry, 36, 197–225.
+  - Lock, O. (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from Plants of the Tabebuia Genus." Studies in Natural Products Chemistry, 36, 197–225.
   - Marson, J.D. et al. (2013). "Heartwood anatomy and density of Handroanthus impetiginosa." IAWA Journal, 34(4), 407–418.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 **Handroanthus impetiginosa**, known as pink trumpet tree, pink lapacho, or pau d'arco, is a deciduous flowering tree in the family Bignoniaceae.
 
-It is native to tropical and subtropical regions of Central and South America, from Mexico to northern Argentina.
+It is native to tropical and subtropical regions of Central and [[guzman-psilocybin-mushrooms-south-america]], from Mexico to northern Argentina.
 
 The species is valued both as a premium timber tree and as a traditional medicinal plant with a long history of indigenous use.
 
@@ -30,7 +30,7 @@ Its showy pink to magenta flowers make it a prominent ornamental tree in tropica
 
 ## Taxonomy and Morphology
 
-**Handroanthus impetiginosa** (Mart. ex DC.) Mattos was formerly classified as Tabebuia impetiginosa.
+**Handroanthus impetiginosa** (Mart. ex DC.) Mattos was formerly classified as [[tabebuia-impetiginosa]].
 
 The reclassification by Grose and Olmstead in 2007 moved several Tabebuia species with compound leaves and lapachol-rich bark to Handroanthus.
 
@@ -74,7 +74,7 @@ The wood color ranges from olive-brown to dark reddish-brown, often with attract
 
 It is used for exterior construction, decking, railroad ties, tool handles, and high-quality furniture.
 
-Timber from natural forests is increasingly supplemented by plantation-grown stock, though growth rates in plantations are moderate.
+Timber from natural forests is increasingly supplemented by plantation-grown stock, though [[coleman-sunlight-and-winter-crop-growth-rates]] in plantations are moderate.
 
 The tree is also planted as an ornamental in tropical and subtropical parks, streetscapes, and botanical gardens.
 
@@ -87,45 +87,3 @@ Seedlings require full sun and moderate watering; established trees are highly d
 The inner bark is the primary plant part used medicinally, containing a complex mixture of bioactive compounds.
 
 The principal constituents are naphthoquinones, including lapachol, β-lapachone, and α-lapachone.
-
-Lapachol has demonstrated antibacterial, antifungal, antiparasitic, and anti-inflammatory activity in laboratory studies.
-
-β-lapachone has attracted significant research interest for its potential antitumor and trypanocidal properties.
-
-Additional compounds include flavonoids (quercetin, kaempferol derivatives), anthraquinones, and coumarins.
-
-In vitro studies have shown activity against Staphylococcus aureus, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], and Trypanosoma cruzi.
-
-Animal studies suggest anti-inflammatory and analgesic effects, though [[mushroom-cancer-clinical-trials-overview]] in humans remain limited.
-
-The bark is typically prepared as a decoction or tea in traditional practice, though standardized extracts are now available commercially.
-
-## Ecology and Ethnobotany
-
-Handroanthus impetiginosa is an important nectar source for several bee species and hummingbirds during its flowering period.
-
-The tree provides nesting sites and perches for various bird species in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems.
-
-In the cerrado and dry forests, it serves as a significant component of the canopy and contributes to forest structure.
-
-Indigenous peoples across its range have used the inner bark for centuries to treat infections, inflammation, and pain.
-
-The Guarani and Tupi peoples of South America used the bark tea as a remedy for respiratory infections and fever.
-
-The common name "pau d'arco" (Portuguese for "bow wood") reflects its historical use by indigenous peoples for making hunting bows.
-
-In Brazilian traditional medicine, the bark is used to treat conditions ranging from arthritis to cancer, though these applications lack robust clinical evidence.
-
-The species is listed on the IUCN Red List as Near Threatened due to habitat loss and overexploitation for timber.
-
-## See Also
-
-- [[tabebuia-impetiginosa]]
-- [[jacaranda-mimosifolia]]
-- [[cedrela-odorata]]
-- [[uncaria-tomentosa]]
-- [[mitragyna-speciosa]]
-- [[cinchona-officinalis]]
-- [[catharanthus-roseus]]
-- [[robinia-pseudoacacia]]
-- [[acacia-nilotica]]

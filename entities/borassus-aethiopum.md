@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Dransfield, J., Uhl, N.W., Asmussen, C.B., Baker, W.J., Harley, M.M., & Lewis, C.E. (2008). Genera Palmarum: The Evolution and Classification of Palms. Royal Botanic Gardens, Kew.
   - Barot, S., et al. (2002). "Life history of the African palm Borassus aethiopum." Annals of Botany 89(4): 411-417.
-  - Sambou, B., et al. (2002). "Structure, growth and productivity of Borassus aethiopum palm forests in West Africa." Forest Ecology and Management 166: 171-178.
+  - Sambou, B., et al. (2002). "Structure, growth and productivity of Borassus aethiopum palm forests in West Africa." Forest [[nematode-management]] 166: 171-178.
   - Tuley, P. (1995). The Palms of Africa. Trendrine Press.
 ---
 
@@ -24,9 +24,9 @@ The palm can reach heights of 25 to 30 meters, making it one of the tallest Afri
 
 Borassus aethiopum provides a wide range of products including food, fiber, construction materials, and medicine. The palm is deeply embedded in the traditional economies and cultural practices of communities across its range.
 
-The species is closely related to Borassus flabellifer, the Asian palmyra palm, which is one of the most economically important palms in South and Southeast Asia. Both species share similar growth forms and uses.
+The species is closely related to [[borassus-flabellifer]], the Asian palmyra palm, which is one of the most economically important palms in South and [[psilocybe-southeast-asia-pacific]]. Both species share similar growth forms and uses.
 
-The genus Borassus contains approximately seven species distributed across tropical Africa, South Asia, Southeast Asia, and New Guinea. The African species B. aethiopum is the most widespread member of the genus.
+The genus Borassus contains approximately seven species distributed across tropical Africa, South Asia, [[guzman-thailand-southeast-asia-psychoactive-fungi-distribution]], and New Guinea. The African species B. aethiopum is the most widespread member of the genus.
 
 ## Taxonomy and Morphology
 
@@ -86,30 +86,4 @@ The species plays an important role in traditional African spiritual practices a
 
 ## Ecology
 
-Borassus aethiopum is a keystone species in many African savanna ecosystems. Its large size, long lifespan, and abundant fruit production support a diverse community of animals.
-
-The fruits are an important food source for elephants, baboons, chimpanzees, and various antelope species. Elephants are particularly significant dispersers, consuming large quantities of fruit and transporting seeds over considerable distances.
-
-Fruit bats of the family Pteropodidae feed on ripe fruits and play a critical role in seed dispersal during nocturnal foraging. The bright coloration and strong aroma of ripe fruits attract these volant frugivores from considerable distances.
-
-The palm provides nesting sites for birds of prey, including martial eagles and African fish eagles. Cavities in dead or dying trunks are used by hornbills, parrots, and small mammals for shelter and breeding.
-
-The dense canopy creates shade and modifies the microclimate beneath the palm. Herbaceous vegetation beneath Borassus canopies is typically more diverse and productive than in the surrounding open grassland.
-
-Growth rate is extremely slow, with seedlings taking 15 to 20 years to develop a visible trunk above ground. During this establishment phase, the palm invests heavily in below-ground root development and is highly vulnerable to fire and herbivory.
-
-Once established, individual palms can live for over 100 years. Female palms begin producing fruit at approximately 20 to 25 years of age and can continue fruiting for several decades. A single mature female palm can produce 200 to 500 fruits per season.
-
-The palm's deep root system helps stabilize soils and prevent erosion in savanna landscapes. Fallen leaves contribute to nutrient cycling by returning organic matter to the soil surface.
-
-## See Also
-
-- [[borassus-flabellifer]]
-- [[phoenix-dactylifera]]
-- [[raphia-farinifera]]
-- [[cocos-nucifera]]
-- [[elaeis-guineensis]]
-- [[phoenix-reclinata]]
-- [[phoenix-canariensis]]
-- [[sabal-palmetto]]
-- [[serenoa-repens]]
+Borassus aethiopum is a keystone species in many African savanna ecosystems. Its large size, long lifespan, and abundant [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] support a diverse community of animals.

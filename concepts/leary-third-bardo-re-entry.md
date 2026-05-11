@@ -88,14 +88,5 @@ The manual notes that due to "the increased suggestibility and openness of the m
 
 ## Choosing the Post-Session Personality
 
-The final art of the Third Bardo is choosing wisely how to return. One should not return "fleeing from hallucinated tormentors." The manual advises following light and pleasant visions, shunning dark and dreary ones, and choosing "impartially, without being attracted or repelled."
-
-The key to the return voyage: "take it easy, slowly, naturally. Enjoy every second. Don't rush. Don't be attached to your old games. Recognize that you are in the re-entry period." Each moment of return "can be a delightful discovery" if approached with the right attitude — "Everything you see and touch can glow with radiance."
-
 ## See Also
-
-- [[leary-peaceful-and-wrathful-visions]]
-- [[default-mode-network-and-ego-dissolution]]
-- [[psychedelic-integration-guide]]
-- [[psychedelic-consciousness-models]]
-- [[psilocybin-and-death-anxiety]]
+- [[leary-psychedelic-bardo-model]]

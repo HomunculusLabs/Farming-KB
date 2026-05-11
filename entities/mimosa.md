@@ -17,7 +17,7 @@ sources:
   - AllBud (2023). "Mimosa blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Snoop Dogg's Leaf List (2022). "Mimosa Strain Review." LeafsbySnoop.com.
   - Wikileaf (2023). "Mimosa Strain: Effects, Flavor, and Grow Info." Wikileaf.com.
-  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus Cannabis Strains." CTU.edu.
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." CTU.edu.
 created: 2026-04-28
 ---
 
@@ -25,8 +25,8 @@ created: 2026-04-28
 
 ## Overview
 
-Mimosa is a sativa-dominant hybrid cannabis strain created by crossing
-Purple Punch with Clementine. Bred by Symbiotic Genetics, it has become
+Mimosa is a sativa-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
+[[purple-punch]] with Clementine. Bred by Symbiotic Genetics, it has become
 one of the most popular daytime strains of the early 2020s, recognized
 for its vibrant citrus aroma and uplifting cerebral effects.
 
@@ -37,7 +37,7 @@ its bright citrus flavor profile and its brunch-appropriate social
 effects.
 
 Mimosa is widely available in legal cannabis markets across [[psilocybin-north-america-pacific-northwest]]
-and Europe. THC content typically ranges from 17–24%, with CBD levels
+and Europe. [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranges from 17–24%, with CBD levels
 below 1%.
 
 ## Lineage
@@ -45,11 +45,11 @@ below 1%.
 Mimosa is a cross between two well-established cultivars:
 
 **Purple Punch** (female parent) — an indica-dominant cross of Granddaddy
-Purple and Larry OG. Purple Punch contributes dense bud structure, deep
+Purple and Larry OG. Purple Punch contributes dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], deep
 purple coloration potential, and a sweet grape-forward terpene background.
 
 **Clementine** (male parent) — a sativa-dominant cross of Tangie and
-Lemon Skunk. Clementine contributes the dominant citrus terpene profile,
+Lemon Skunk. Clementine contributes the dominant citrus [[cannabis-terpene-profile]],
 energetic sativa effects, and bright orange pistil coloration.
 
 The resulting hybrid expresses approximately 70% sativa / 30% indica
@@ -88,60 +88,3 @@ aftertaste.
   enhancing the sedative undertone from the Purple Punch parent.
 - **Caryophyllene** — provides a peppery spice note and contributes
   anti-inflammatory properties through CB2 receptor interaction.
-- **Linalool** — present in smaller amounts, adding floral sweetness
-  and anxiolytic qualities.
-
-Secondary terpenes include pinene and humulene in trace amounts.
-
-THC levels typically test between 17% and 24%, depending on cultivation
-practices and phenotype. CBD content is negligible, usually below 0.3%.
-Minor cannabinoids including CBG and CBC may be present in small
-quantities.
-
-## Effects
-
-The onset is relatively quick, typically felt within 5–10 minutes of
-inhalation. Initial effects are cerebral and energizing, characterized
-by mental clarity, enhanced focus, and an uplifted mood.
-
-Users commonly report increased sociability and talkativeness, making
-Mimosa a popular choice for social gatherings and creative activities.
-The cerebral stimulation is often described as clear-headed rather than
-racing or anxious.
-
-As the high progresses, a mild physical relaxation develops from the
-indica side, but it rarely becomes sedating at moderate doses. The
-overall experience is balanced toward stimulation, making it suitable
-for daytime use.
-
-Common medical applications include management of depression, fatigue,
-stress, and ADHD symptoms. Some users find it helpful for mild pain and
-headache relief.
-
-Higher doses may produce mild anxiety in sensitive individuals, though
-this is less common than with many high-THC sativa strains.
-
-## Cultivation
-
-Mimosa is considered moderately difficult to cultivate, best suited for
-growers with some experience. It can be grown indoors or outdoors, with
-a flowering time of approximately 8–9 weeks indoors.
-
-Indoor yields average 12–16 ounces per square meter under optimal
-conditions. Outdoor plants finish by early to mid-October in the
-Northern Hemisphere, yielding 14–18 ounces per plant.
-
-The plants respond well to low-stress training and screen-of-green
-methods, which help manage the tendency for lateral stretching during
-early flowering. Dense bud structure requires attention to airflow and
-[[stamets-cultivator-humidity-management-fogging-systems]] to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in the later flowering stages.
-
-Purple coloration is enhanced by cooler nighttime temperatures (below
-18°C) during the final two weeks of flowering.
-## See Also
-
-- [[wedding-cake]]
-- terpene profile
-- [[myrcene]]
-- caryophyllene
-- [[cannabis-sativa]]

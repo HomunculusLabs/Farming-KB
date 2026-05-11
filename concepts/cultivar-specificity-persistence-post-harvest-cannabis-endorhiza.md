@@ -15,7 +15,7 @@ tags:
 
 ## Overview
 
-One of the most surprising findings from the Winston et al. (2014) Cannabis microbiome study was that cultivar-specificity in the endorhiza bacterial community remained detectable even eight weeks after harvest, when root tissue was undergoing active senescence and decay. This persistence of genotype-driven microbiome structure despite the absence of active plant metabolism suggests that plant genotype imprints a durable signature on root-associated microbial communities that outlasts the plant's own physiological activity. The finding has significant implications for understanding plant-soil feedbacks, crop rotation practices, and the mechanisms by which host plants shape their microbiomes.
+One of the most surprising findings from the Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] was that cultivar-specificity in the [[core-endorhiza-bacterial-community-composition-cannabis]] remained detectable even eight weeks after harvest, when root tissue was undergoing active senescence and decay. This persistence of genotype-driven microbiome structure despite the absence of active plant metabolism suggests that plant genotype imprints a durable signature on root-associated microbial communities that outlasts the plant's own physiological activity. The finding has significant implications for understanding plant-soil feedbacks, crop rotation practices, and the mechanisms by which host plants shape their microbiomes.
 
 ## The Two Experiments: A Natural Comparison
 
@@ -27,13 +27,13 @@ In the first experiment, with post-harvest samples, [[weighted-vs-unweighted-uni
 
 The clearest evidence that root decay was occurring in the first experiment came from the dramatic enrichment of *Cellvibrio*, a known aerobic cellulolytic bacterium. In the first experiment, *Cellvibrio* comprised 16.9% (s = 13.0%) of taxonomy-assigned reads in the endorhiza, compared to only 0.095% (s = 2.7%) in the actively growing plants of the second experiment. This 178-fold difference strongly indicated that post-harvest root tissue was being actively decomposed by cellulolytic bacteria.
 
-Despite this massive community perturbation driven by decay, the underlying cultivar-specific signal was still detectable. The Cellvibrio bloom was superimposed on, rather than replacing, the genotype-driven community structure. This suggests that cultivar-specificity operates at a level of community organization that is somewhat independent of the dominant successional dynamics occurring during tissue decomposition.
+Despite this massive community perturbation driven by decay, the underlying cultivar-specific signal was still detectable. The Cellvibrio bloom was superimposed on, rather than replacing, the genotype-driven community structure. This suggests that cultivar-specificity operates at a level of [[ozier-pdc-stewardship-mandala-community-organization]] that is somewhat independent of the dominant successional dynamics occurring during tissue decomposition.
 
 ## Mechanisms of Persistence
 
 ### Biofilm and Physical Habitat Modification
 
-Once endophytic bacteria colonize root tissue, they can alter the physical and chemical microenvironment in ways that maintain community structure even after the host plant ceases active regulation. Established bacteria may deposit biofilms on root cell walls, modify local pH through [[arbuscule-isolation-metabolic-activity-assays]], consume specific substrates, or produce antimicrobial compounds that inhibit colonization by competing taxa. These physical modifications create persistent niches that favour the continued dominance of the original community members.
+Once [[endorhiza-endophytic-bacteria]] colonize root tissue, they can alter the physical and chemical microenvironment in ways that maintain community structure even after the host plant ceases active regulation. Established bacteria may deposit biofilms on root cell walls, modify local pH through [[arbuscule-isolation-metabolic-activity-assays]], consume specific substrates, or produce [[antimicrobial-compounds-mushroom-mycelium]] that inhibit colonization by competing taxa. These physical modifications create persistent niches that favour the continued dominance of the original community members.
 
 ### Resource Partitioning Legacy
 
@@ -57,7 +57,7 @@ Despite this diversity collapse, the cultivar-specific signal remained statistic
 
 ## Broader Implications for Crop Rotation
 
-The persistence of cultivar-specific microbiome signatures in decaying root tissue has practical implications for crop rotation and succession planting. If the microbial legacy of a previous crop persists in root debris for weeks or months after harvest, it could influence the microbiome of subsequently planted cultivars through shared soil. This "soil memory" effect could be beneficial (if the legacy community includes plant-growth-promoting or disease-suppressive organisms) or detrimental (if it includes pathogens or competitors that inhibit the new crop).
+The persistence of cultivar-specific microbiome signatures in decaying root tissue has practical implications for crop [[crop-rotation-and-succession-planting]] planting. If the microbial legacy of a previous crop persists in root debris for weeks or months after harvest, it could influence the microbiome of subsequently planted cultivars through shared soil. This "soil memory" effect could be beneficial (if the legacy community includes plant-growth-promoting or disease-suppressive organisms) or detrimental (if it includes pathogens or competitors that inhibit the new crop).
 
 For Cannabis cultivation specifically, the finding suggests that the microbial consequences of cultivar choice may extend beyond a single growing season. Farmers rotating between different Cannabis cultivars in the same soil may find that the microbiome carries an imprint of previous cultivars, potentially affecting establishment success and yield of subsequent crops.
 
@@ -88,35 +88,3 @@ The persistence of cultivar-specificity despite decay also complicates the ident
 The differential sensitivity of weighted and unweighted UniFrac metrics to strain effects provides a methodological lesson for post-harvest microbiome studies. Weighted UniFrac, which accounts for taxon abundance, was more sensitive to cultivar-specificity in both experiments, suggesting that abundance-based metrics may be more robust for detecting genotype effects in samples where community composition has been perturbed by decay. Researchers working with post-harvest samples may benefit from relying more heavily on weighted metrics and confirming findings with complementary abundance-based analyses.
 
 ## Limitations and Caveats
-
-Several limitations qualify the interpretation of cultivar-specificity persistence. First, the two experiments used different cultivars (Burmese/Bookoo Kush/Sour Diesel vs. White Widow/Maui Wowie), different soils, and different sample sizes, making direct quantitative comparison of effect sizes between experiments problematic. The qualitative observation of persistent cultivar-specificity is robust, but the magnitude of persistence cannot be precisely estimated.
-
-Second, the study did not include a true time-series, so the trajectory of decay and its interaction with cultivar-specificity over time can only be inferred. Third, the Cannabinoid concentration data from the second experiment showed significant correlation with soil type rather than directly with microbiome structure, limiting conclusions about the role of secondary metabolites in maintaining cultivar-specific communities. Fourth, the pseudoreplication design of the second experiment (triplicate samples from different roots on the same plant) means that some of the observed community variation reflects within-plant heterogeneity rather than true biological replication.
-
-Finally, the use of 16S rRNA gene amplicon sequencing provides compositional rather than functional data, leaving the metabolic mechanisms of persistence to be explored through alternative approaches such as metagenomics or metatranscriptomics. Understanding which metabolic pathways remain active in the post-harvest endorhiza community, and whether these pathways are cultivar-specific, would substantially advance our understanding of the persistence phenomenon.
-
-## Directions for Future Research
-
-Several research directions emerge from the finding of cultivar-specificity persistence. Longitudinal studies that sample the same root systems at multiple time points before and after harvest would map the temporal trajectory of both the decay signal and the cultivar-specificity signal, revealing whether the two processes are independent or interacting. Metatranscriptomic profiling of post-harvest root communities could identify which bacterial functions remain active and whether these functions differ between cultivars, providing mechanistic insight into the persistence of community structure.
-
-Manipulative experiments where decaying root tissue from one cultivar is introduced into soil before planting a different cultivar could directly test the "soil memory" hypothesis and its practical significance for crop rotation. Similarly, sterilization experiments comparing the establishment of endorhiza communities in soil with and without root debris from previous crops would isolate the legacy effect from other soil factors. Cultivation of grafted plants combining rootstock and scion from different Cannabis cultivars could separate the effects of root genotype from shoot genotype on endorhiza community establishment and persistence, providing insight into whether the persistence signal is driven primarily by root-level or whole-plant genotype effects.
-
-## See Also
-
-- [[post-harvest-vs-pre-harvest-sampling-cannabis-endorhiza]]
-
-- [[cellvibrio-root-decay-indicator-cannabis-endorhiza]] — Cellvibrio as a biomarker of post-harvest root decay
-- [[cannabis-microbiome-two-tier-selection]] — The two-tier selection model for root microbiome assembly
-- [[two-tier-selection-model-plant-microbiome]] — General model for root microbiome assembly
-- [[cannabis-endorhiza-microbiome]] — Overview of Cannabis endorhiza community structure
-- [[core-endorhiza-bacterial-community-composition-cannabis]] — Core community members in Cannabis roots
-- [[methylophilus-cannabis-endorhiza-strain-specificity]] — Strain-specific Methylophilus enrichment
-- [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] — Strain-specific Sphingomonas enrichment
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] — Diversity reduction from soil to endorhiza
-- [[edaphic-factors-structuring-cannabis-microbiome]] — Soil physicochemical determinants of community structure
-- [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] — Abundance vs. presence in strain differentiation
-- [[cannabis-microbiome-experimental-design]] — Experimental methodology for both Cannabis microbiome experiments
-- bulk soil [[acidobacteria-decline-rhizosphere-endorhiza-transition]] community [[rhizosphere-endorhiza-beta-distance-comparison-cannabis]] — Inter-sample-type beta diversity distances
-- [[proteobacteria-dominance-cannabis-endorhiza-community]] — Proteobacterial enrichment patterns in Cannabis roots
-- [[cannabis-microbiome-cultivar-specificity]] — Overview of cultivar-specificity in Cannabis microbiome
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]] — Acidobacteria reduction in the endorhiza niche

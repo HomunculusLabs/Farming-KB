@@ -1,5 +1,5 @@
 ---
-title: "Magic magic mushroom prohibition and uk drug policy and UK mckenna-modest-proposal-drug-policy-reform"
+title: Magic Mushroom Prohibition And Uk Drug Policy
 created: 2026-04-26
 tags:
   - drug-policy
@@ -16,7 +16,7 @@ type: concept
 
 # Magic Mushroom Prohibition and UK Drug Policy
 
-The story of magic mushroom prohibition in Britain illustrates the
+The story [[european-prevalence-and-patterns-of-magic-mushroom-use]] prohibition in Britain illustrates the
 tension between scientific evidence, commercial reality, and political
 expediency in drug policy. From a period of legal ambiguity that
 enabled a flourishing trade, through hasty legislation driven by
@@ -26,7 +26,7 @@ is made.
 
 ## Early Prohibition in America
 
-Psilocybin and psilocin had been classified as controlled substances
+[[hplc-analysis-of-psilocybin-and-psilocin]] had been classified as [[controlled-substances-act-and-psychedelic-research]]
 under US Federal Law in 1970. The Comprehensive Drug Abuse Prevention
 and Control Act made the knowing possession, sale or use of a
 [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] a criminal offence punishable by fine or
@@ -36,7 +36,7 @@ often for trespassing than for possession of a prohibited substance.
 
 In Australia, Psilocybe mushrooms were made illegal in Queensland in
 1971. Similar legislation followed in other countries as the
-"ripples and waves" of mushroom consciousness spread around the Pacific
+"ripples and waves" of [[psilocybin-mushroom-consciousness]] spread around the Pacific
 Rim and eventually to Europe. In each case, legislation and alarming
 newspaper headlines did little to halt the spread of mushroom use.
 
@@ -88,47 +88,3 @@ Suitably admonished, the Home Office moved quickly to add a clause
 covering fresh mushrooms to their Drugs Bill (now Act) 2005. This was
 achieved after some lively debate in the House of Commons. The Labour
 MP for Newport West, Paul Flynn, attacked the bill as illogical and
-poorly thought through. "You cannot make nature illegal," he told the
-House. "Magic mushrooms are part of the natural world." The Act made
-the sale of any product containing psilocybin a criminal offence,
-firmly closing the loophole.
-
-The speed with which the bill achieved royal assent left many
-disgruntled, not least the police, unhappy at having to enforce a law
-regarded as an unnecessary burden on overstretched resources. The
-matter had never been properly debated in either the upper or lower
-chambers. The imminence of a general election meant the bill was
-hurried through Parliament. Labour appeared to be weak on crime, and
-being seen to tolerate brazen mushroom-dealing on the high street would
-have been an electoral liability too far.
-
-## The Dutch Contrast
-
-The British response appears heavy-handed compared to the Dutch
-approach. In Holland, far more negotiation has taken place between the
-authorities and the smart-shop trade. Dutch policy concludes that it
-is better for mushrooms to be sold openly and apparently, so that sales
-can be monitored and levels of use assessed. Statistics from Amsterdam
-suggest that however visible magic mushrooms are in the marketplace,
-the numbers of people actually using them remain relatively small.
-Only 7.6 per cent of the city's population had ever tried mushrooms
-in 2001, and of those, only 8.4 per cent had taken them more than
-twenty-five times.
-
-## The Harm Reduction Argument
-
-Prohibition may prove to be a retrograde step from the perspective of
-harm reduction. The likelihood of novices picking the wrong mushrooms,
-or of spurious mushrooms finding their way onto the market, will
-undoubtedly be increased. A whole section of society will face legal
-consequences that far outstrip any health risk. Given that prohibition
-has been an abject failure at preventing the escalation of drug use
-worldwide, the time would seem ripe for a more sober and rational
-debate modelled on the pragmatic practices of the Dutch.
-
-## Related Topics
-
-- [[psychedelic-prohibition-and-the-war-on-consciousness]] - the war
-  - on consciousness
-- [[psilocybin-mushroom-dissemination-1950s-1970s]] - early spread
-- [[shroom-prohibition]] - prohibition in the Shroom narrative

@@ -9,7 +9,7 @@ sources:
 ---
 # Fiber and Craft Plants for Permaculture
 
-Permaculture systems can produce a remarkable range of fibre, craft, and construction materials alongside food. Many multipurpose trees and plants provide timber, basketry materials, paper pulp, textiles, and craft woods -- reducing dependence on external inputs and creating value-added products from the land.
+Permaculture systems can produce a remarkable range of fibre, craft, and construction materials alongside food. Many [[multipurpose-trees-in-permaculture-design]] and plants provide timber, basketry materials, paper pulp, textiles, and craft woods -- reducing dependence on external inputs and creating value-added products from the land.
 
 ## Basketry and Weaving Plants
 
@@ -27,9 +27,9 @@ Multiple species valued for cane in furniture making, basketry, and cordage:
 - **C. erinaceous**, **C. trachycoleus**: Additional craft species
 
 ### Other Basketry Species
-- **Phragmites australis** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
-- **Quercus michauxii** (swamp chestnut oak, basket oak): Named for its traditional use in basket making
-- **Broussonetia papyrifera** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]
+- **[[phragmites-australis]]** (common reed): Used for bags, baskets, matting, sandals, thatching, arrows, spears, and paper
+- **[[quercus-michauxii]]** (swamp chestnut oak, basket oak): Named for its traditional use in basket making
+- **[[broussonetia-papyrifera]]** (paper mulberry): Australian Aborigines made string from bark fibres; bark yields fibre suitable for the [[staycare-fungal-treatment-of-textile-industry-wastewater]]
 - **Yucca spp**: Various desert species yield fibre from leaves, used for cordage and textiles
 
 ## Paper and Pulp Plants
@@ -87,16 +87,3 @@ Wood similar to Cuban mahogany, resists decay and insects, tougher than teak. Ex
 
 ### Agave spp
 Leaves are a source of sisal fibre, one of the main fibre crops of the world. Also yields juice used for tequila production. One of the main food sources of California desert Indians.
-
-### Derris indica (Indian Beech)
-Bark fibre used to make very strong rope. The wood, although somewhat difficult to work, is used in cabinet making because of its beautiful grain. Also used for cartwheels and posts.
-
-### Cotton and Other Fibres
-Traditional fibre crops can be integrated into permaculture systems as part of diverse polycultures. See [[zone-sector-analysis-guide]] for regular access and harvesting
-- Combine with nitrogen-fixing [[chop-and-drop-mulching]] with prunings from craft species to cycle nutrients
-- Establish osier willow beds along waterways for both [[multi-purpose-trees]] plantings
-- Use Typha and Phragmites at pond edges for both [[multi-purpose-trees]]
-- bamboo species guide
-- [[nitrogen-fixing-trees-and-shrubs]]
-- [[organic-vegetable-growing-calendar]]
-- [[permaculture-earthworks]]

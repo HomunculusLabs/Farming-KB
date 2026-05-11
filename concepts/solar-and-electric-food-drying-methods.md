@@ -1,5 +1,5 @@
 ---
-title: Solar and solar and electric food drying methods Methods
+title: Solar And Electric Food Drying Methods
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -11,11 +11,11 @@ sources: []
 
 Updated: 2026-04-19
 
-Food dehydration removes moisture from foods to prevent microbial growth and enzymatic spoilage. Sun drying uses no fuel or equipment cost, while electric dehydrators use minimal energy. Both methods can produce food that stores for six months or more at room temperature when properly dried and stored. Drying is one of the oldest food preservation methods and remains one of the most accessible techniques for homesteaders and off-grid living, complementing methods covered in [[lacto-fermentation-and-food-preservation-methods]].
+Food dehydration removes moisture from foods to prevent microbial growth and enzymatic spoilage. Sun drying uses no fuel or equipment cost, while electric dehydrators use minimal energy. Both methods can produce food that stores for six months or more at room temperature when properly dried and stored. Drying is one of the oldest [[natural-farm-food-preservation-methods]] and remains one of the most accessible techniques for homesteaders and off-grid living, complementing methods covered in [[lacto-fermentation-and-food-preservation-methods]].
 
 ## Sun Drying
 
-Sun drying works well in hot, dry climates. In temperate regions, a large reflector can focus the sun's rays like a solar cooker, but drying may still take several days if it succeeds at all. Foods must be protected from dew, rain, insects, and birds. If drying must continue overnight, bring everything inside before dusk and return it to the sun in the morning.
+Sun drying works well in hot, dry climates. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], a large reflector can focus the sun's rays like a solar cooker, but drying may still take several days if it succeeds at all. Foods must be protected from dew, rain, insects, and birds. If drying must continue overnight, bring everything inside before dusk and return it to the sun in the morning.
 
 For meat jerky in the sun, the tray should be 4 feet above a slow fire. Use non-resinous hardwood for firewood with very low flames to keep birds and flies away. Green wood that makes smoke works well for this purpose.
 
@@ -25,7 +25,7 @@ Several solar dryer designs improve upon open sun drying by capturing heat and i
 
 - **Direct solar dryers** -- enclosed boxes with a transparent cover (glass or clear plastic) that trap solar radiation. Simple to build from scrap materials
 
-- **Indirect solar dryers** -- a separate solar collector heats air that is then ducted through a drying chamber. Better temperature control and protection from direct sun exposure
+- **Indirect solar dryers** -- a separate solar collector heats air that is then ducted through a drying chamber. Better [[hamilton-greenhouse-heating-and-temperature-control]] and protection from direct sun exposure
 
 - **Mixed-mode dryers** -- combine direct and indirect heating for faster, more consistent drying
 
@@ -49,7 +49,7 @@ For meat jerky: choose lean cuts of beef, buffalo, goat, or deer (not pork -- to
 
 ### 2. Anti-Oxidation Treatment
 
-Soak fruits and vegetables in a solution of vitamin C (citric acid) or sugar for five minutes to prevent oxidation and discoloration. For sun drying, skip this step as extra moisture makes sun drying difficult. For electric dehydrating, prepare a bowl of ice water with sugar or citric acid, and place sliced pieces in it until ready to load trays.
+Soak fruits and vegetables in a solution of vitamin C ([[citric-acid-cycle-tca-krebs-cycle]]) or sugar for five minutes to prevent oxidation and discoloration. For sun drying, skip this step as extra moisture makes sun drying difficult. For electric dehydrating, prepare a bowl of ice water with sugar or citric acid, and place sliced pieces in it until ready to load trays.
 
 ### 3. Tray Loading
 
@@ -88,10 +88,3 @@ Put food in oven at 175 degrees F (79 degrees C) for 30 minutes. Properly dried 
 Drying preserves most nutrients effectively. Vitamin C is the most heat-sensitive nutrient and some loss occurs during drying, particularly with sun drying at high temperatures. Vitamin A, fiber, minerals, and most B vitamins are well-preserved in dried foods. The concentration of nutrients per unit weight actually increases as water is removed, making dried foods nutrient-dense additions to meals during seasons when fresh produce is scarce.
 
 ## See Also
-
-- [[canning-and-preserving]]
-
-- [[homesteading-food-preservation]]
-
-- faires-food-drying-and-no-energy-storage
-- faires-preserving-whole-foods

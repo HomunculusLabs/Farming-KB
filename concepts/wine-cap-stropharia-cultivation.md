@@ -9,7 +9,7 @@ sources: []
 
 # Wine Cap Stropharia Cultivation
 
-This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.
+This page provides detailed practical instructions for cultivating [[query-how-to-grow-wine-cap-mushrooms]] ([[stropharia-rugosoannulata]]) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] biology.
 
 ## Wood Chip Selection and Preparation
 
@@ -50,7 +50,7 @@ The best source of fresh chips is local tree services:
 3. Optionally soak chips in water for 24-48 hours before bed building
 4. Chips should be moist but not dripping wet before installation
 
-Fresh chips from recently felled trees are ideal. Chips that have been sitting in piles for months may already be colonized by competitor fungi. If using older chips, pasteurize by soaking in 160 F water for 1 hour. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
+Fresh chips from recently felled trees are ideal. Chips that have been sitting in piles for months may already be colonized by competitor fungi. If using older chips, pasteurize by soaking in 160 F water for 1 hour.
 
 ## Spawn Selection
 
@@ -62,7 +62,7 @@ Fresh chips from recently felled trees are ideal. Chips that have been sitting i
 
 ### Sourcing Spawn
 
-Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with permaculture growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results). (see [[shiitake-cultivation-guide]]).
+Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with permaculture growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results).
 
 ## Bed Installation
 
@@ -147,4 +147,4 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 ### How to Harvest
 
 - Cut at the base with a knife or twist gently
-- Do not pull — this damages the mycelial network
+- Do not pull — this damages the [[beber-mycelial-network-graph-theory-cord-routing]]

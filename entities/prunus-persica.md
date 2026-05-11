@@ -87,22 +87,3 @@ The scientific name Prunus persica reflects the historical misconception that pe
 In the United States, Georgia is known as the "Peach State," though California, South Carolina, and New Jersey are all major producers. The peach blossom is the state flower of Delaware and the state fruit of South Carolina and Georgia.
 
 Peaches feature in the cuisines of many cultures, appearing in desserts (peach cobbler, tarte aux pêches), preserves (peach jam, chutney), beverages (peach bellini, iced tea), and savory dishes in East Asian cooking.
-
-Donut peaches (Saturn peaches), a flat-shaped variety, have gained popularity in specialty markets for their unique appearance and sweet flavor. White-fleshed peaches dominate East Asian production, where their low acidity and delicate sweetness are preferred for fresh consumption.
-
-## See Also
-
-- [[prunus-dulcis]]
-- [[carya-illinoinensis]]
-- [[cydonia-oblonga]]
-- [[quercetin]]
-- [[linalool]]
-- [[pinene]]
-- [[ficus-carica]]
-- [[citrus-limon]]
-- [[persea-americana]]
-- [[zingiber-officinale]]
-- [[camellia-sinensis-entity]]
-- [[curcuma-longa]]
-- [[vaccinium-corymbosum-entity]]
-- [[actinidia-deliciosa]]

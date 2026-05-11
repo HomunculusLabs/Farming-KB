@@ -16,7 +16,7 @@ sources:
 
 # Brugmansia sanguinea
 
-**Brugmansia sanguinea** (Ruiz et Pavon) D. Don, commonly known as the **Blood-Red Angel's Trumpet**, is a striking arborescent plant in the family **Solanaceae** native to the Andes of South America. It is one of the most visually distinctive and culturally significant psychoactive plants of the region, valued for its powerful tropane alkaloids and deep roots in Andean shamanism and traditional medicine.
+**Brugmansia sanguinea** (Ruiz et Pavon) D. Don, commonly known as the **Blood-Red Angel's Trumpet**, is a striking arborescent plant in the family **Solanaceae** native to the Andes of [[guzman-psilocybin-mushrooms-south-america]]. It is one of the most visually distinctive and culturally significant psychoactive plants of the region, valued for its powerful tropane alkaloids and deep roots in Andean [[shamanism]] and traditional medicine.
 
 The species epithet "sanguinea" refers to the blood-red color of the flowers, which distinguishes it from other Brugmansia species that typically have white, yellow, or pink flowers.
 
@@ -74,11 +74,11 @@ As they describe: "How pleasant is the perfume of the long, bell-like flowers of
 
 This remarkable account vividly illustrates the dual nature of Brugmansia in indigenous belief — beautiful and fragrant yet dangerous and spirit-haunted.
 
-The Guambiano description reveals a sophisticated understanding of the plant's psychoactive properties and their potential dangers. Such detailed indigenous knowledge underscores the importance of traditional ethnobotanical wisdom in understanding these powerful plants.
+The Guambiano description reveals a sophisticated understanding of the plant's psychoactive properties and their potential dangers. Such detailed [[psilocybin-chemistry-stability-indigenous-knowledge]] underscores the importance of traditional ethnobotanical wisdom in understanding these powerful plants.
 
 ### San Pedro Additive
 
-Brugmansia sanguinea is frequently added to San Pedro (Trichocereus pachanoi) cactus preparations as a vegetal additive, enhancing the visionary qualities of the cactus brew known as **cimora**.
+Brugmansia sanguinea is frequently added to San Pedro ([[trichocereus-pachanoi]]) cactus preparations as a vegetal additive, enhancing the visionary qualities of the cactus brew known as **cimora**.
 
 The combination of mescaline-containing cactus with tropane-containing Brugmansia represents one of the most powerful and potentially dangerous psychoactive plant combinations in the ethnopharmacological literature. The addition of Brugmansia to San Pedro brews is an ancient practice that significantly alters the nature of the visionary experience.
 
@@ -86,30 +86,4 @@ The combination of mescaline-containing cactus with tropane-containing Brugmansi
 
 B. sanguinea contains the same tropane alkaloids as other Brugmansia species:
 
-- **Scopolamine** (hyoscine) — the major alkaloid; a potent deliriant and anti-cholinergic agent
-
-- **Hyoscyamine** — another major tropane alkaloid
-
-- **Atropine** — the racemic form of hyoscyamine
-
-These alkaloids are competitive antagonists at muscarinic acetylcholine receptors, producing the characteristic anticholinergic toxidrome.
-
-The effects include true hallucinations (the user typically cannot distinguish them from reality, unlike the pseudohallucinations of classical psychedelics), complete amnesia of the experience, tachycardia, hyperthermia, dry mouth and mucous membranes, dilated pupils (mydriasis), urinary retention, and potentially life-threatening complications.
-
-## Safety Considerations
-
-The tropane alkaloids in B. sanguinea are extremely dangerous. The line between psychoactive and lethal doses is narrow, and deaths from Brugmansia ingestion are well-documented in both the ethnographic and medical literature.
-
-The deliriant effects mean that users may engage in dangerous behavior while completely unaware of their actions. Accidental poisonings have occurred when the plant was confused with non-toxic species. The plant should never be consumed without expert knowledge of preparation and dosage.
-
-## See Also
-
-- [[brugmansia-aurea]] — the most widespread Andean Brugmansia species
-
-- [[datura-stramonium]] — Jimsonweed, widely used solanaceous deliriant
-
-- [[trichocereus-pachanoi]] — San [[san-pedro-cactus-history]], commonly prepared with Brugmansia
-
-- [[latua-pubiflora]] — Latue, a Chilean solanaceous hallucinogen
-
-- [[atropa-belladonna]] — Deadly Nightshade, another tropane-containing plant
+- **[[scopolamine]]** (hyoscine) — the major alkaloid; a potent deliriant and anti-cholinergic agent

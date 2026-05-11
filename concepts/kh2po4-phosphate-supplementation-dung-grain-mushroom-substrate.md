@@ -1,5 +1,5 @@
 ---
-title: KH2PO4 [[kh2po4-phosphate-supplementation-brassinosteroid-synergy-psilocybe-cubensis]] in Dung Grain Mushroom Substrate
+title: Kh2Po4 Phosphate Supplementation Dung Grain Mushroom Substrate
 tags: [mycology, mushroom-cultivation, substrate, dung-grain, phosphate, KH2PO4, nutrition, psilocybe-cubensis]
 created: 2026-05-09
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
@@ -88,39 +88,3 @@ but not excessive.
 The KH₂PO₄ supplementation may have influenced the brassinosteroid
 response observed in the study. Brassinosteroids promote cell elongation
 and division, processes that require ATP and membrane synthesis — both
-phosphate-dependent. By ensuring phosphorus was not limiting, the
-researchers isolated the brassinosteroid effect from potential
-nutrient-mediated growth limitation.
-
-This is an important methodological consideration: in phosphorus-limited
-substrates, brassinosteroid-enhanced growth could be constrained by the
-nutrient deficiency, potentially underestimating the hormone's effect.
-The supplementation ensures a fair test of the brassinosteroid's
-activity.
-
-## Potassium's Role in Osmoregulation
-
-The potassium provided by KH₂PO₄ also contributes to fungal
-osmoregulation. Potassium is the primary intracellular cation in fungal
-cells and plays a key role in maintaining turgor pressure at hyphal
-tips. Adequate potassium levels support:
-
-- Hyphal tip extension and branching
-- Water uptake and distribution through the mycelial network
-- Enzyme activation in metabolic pathways
-
-## Practical Application
-
-For cultivators preparing dung/grain substrates, KH₂PO₄ supplementation
-is straightforward. Dissolve 5 g of KH₂PO₄ in the water used to hydrate
-the substrate before mixing with dung and grain. Ensure complete
-dissolution before combining with solid ingredients.
-
-KH₂PO₄ is readily available from agricultural supply stores, hydroponic
-retailers, and online suppliers. It is inexpensive and stable with a long
-shelf life when kept dry.
-
-## See Also
-- [[mushroom-cultivation-basics]]
-- [[contamination-identification-prevention]]
-- [[mushroom-fruiting-body-morphogenesis]]

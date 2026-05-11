@@ -1,5 +1,5 @@
 ---
-title: Plant Nursery and Seedling Production
+title: Mollison Designers Plant Nursery Seedling Production
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,8 +18,8 @@ type: concept
 # Plant Nursery and Seedling Production
 
 Plant nurseries are foundational infrastructure in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
-Bill Mollison discusses nursery systems in Permaculture: A Designers'
-Manual (Chapter 6: Trees and Their Energy Transactions, and Chapter 7:
+[[bill-mollison]] discusses nursery systems in Permaculture: A Designers'
+Manual (Chapter 6: Trees and Their [[tree-energy-transactions]], and Chapter 7:
 Soil) as essential for establishing tree crops, food forests, and
 revegetation projects. A well-managed on-site nursery reduces
 establishment costs, enables species selection adapted to local
@@ -41,7 +42,7 @@ house for frequent attention. The nursery should have:
 ## Seedling Trays and Containers
 
 Container selection affects root development, transplant success, and
-resource efficiency. Common options include:
+[[permaculture-energy-cycling-and-resource-efficiency]]. Common options include:
 
   - Modular seedling trays: Standard 128-cell or 200-cell plastic
     trays for germinating large numbers of seedlings efficiently
@@ -59,7 +60,7 @@ resource efficiency. Common options include:
 ## Potting Mix Formulation
 
 Mollison emphasizes that potting mixes should be lightweight,
-well-draining, and nutrient-rich. A standard permaculture nursery mix
+well-draining, and nutrient-rich. A standard [[query-how-do-i-start-a-small-permaculture-nursery]] mix
 includes:
   - Compost or well-rotted leaf mold: 30-50% of volume, providing
     nutrients, microbial life, and water-holding capacity
@@ -69,7 +70,7 @@ includes:
   - Screened topsoil: 10-20% for mineral content and microbial
     inoculation from the local soil food web
   - Optional amendments: Vermiculite, rock phosphate, bone meal,
-    seaweed meal, or worm castings for additional nutrition
+    seaweed meal, or [[ingham-vermicompost-worm-castings]] for additional nutrition
 
 The mix should be moist but not waterlogged when filled into
 containers. Over-fertilizing seedling mixes can burn young roots;
@@ -87,48 +88,3 @@ Many permaculture species require pre-treatment to break dormancy:
   - Hot water treatment: Pouring boiling water over seeds and soaking
     for 12-24 hours for leguminous species with impermeable coats
   - Smoke treatment: Exposure to smoke water for species from
-    fire-adapted ecosystems (some Australian and [[kanna-sceletium-south-african-narcotic]] taxa)
-
-Sowing depth is generally 2-3 times the seed diameter. Fine seeds are
-surface-sown and pressed into the medium without covering.
-
-## Hardening Off
-
-Seedlings grown in protected nursery conditions must be gradually
-acclimated to outdoor conditions before field planting. Hardening off
-involves progressively increasing exposure to direct sun, wind, and
-temperature fluctuations over 7-14 days. This process thickens leaf
-cuticles, strengthens stems, and reduces [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]].
-
-## Timing and Seasonal Planning
-
-Nursery production must be synchronized with planting seasons. In
-temperate climates, deciduous trees are propagated in autumn and
-overwintered in cold frames for spring planting. Evergreen and
-subtropical species may be planted after the last frost. Tropical
-species can be propagated year-round where conditions permit.
-Successional sowing of vegetable seedlings every 2-4 weeks ensures
-continuous garden production.
-
-## Species-Specific Requirements
-
-  - Citrus: Grafted onto rootstock; seedling rootstock raised for
-    12-18 months before grafting
-  - Avocado: Large seed, germinated in moist medium; sensitive to
-    root disturbance; plant in deep tubes
-  - Nitrogen fixers (Acacia, Albizia, Leucaena): Hard seed coats
-    require hot water or acid scarification; rapid early growth
-  - Deciduous fruit: Stratification required; whip-and-tongue
-    grafting in late winter
-
-## See Also
-
-- mollison designers tree propagation grafting
-- mollison [[mollison-designers-food-forest-succession-design]] establishment
-- mollison designers [[mollison-course-zone-planning-and-design]]
-- mollison-designers-plant-nursery-propagation-bed-design
-- [[permaculture-designers-manual-plant-nursery]]
-- [[mollison-designers-chicken-tractors-egg-production]]
-- [[mollison-designers-plant-nursery-establishment]]
-- [[soil-food-web]]
-- [[permaculture-design]]

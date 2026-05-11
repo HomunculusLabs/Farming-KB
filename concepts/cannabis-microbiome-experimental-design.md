@@ -88,16 +88,3 @@ Delta-9-Technologies, LLC (Santa Ana, CA).
 The rarefaction depth difference means [[microbial-alpha-diversity-soil-plant-gradient]] cannot be directly
 compared between experiments. Different sampling timings confound
 experiment with plant [[cho-plant-growth-stage-treatment-protocols]].
-
-## DNA Extraction
-
-DNA was isolated from 0.25 g of soil or root using the PowerSoil DNA
-Isolation Kit (MO BIO, USA) with a key modification: heating at 65
-degrees C for 10 minutes prior to the initial vortex step, improving
-lysis of tough Gram-positive endophytes. Root samples were surface-
-sterilized with alcohol and sterile water to isolate true endorhiza
-bacteria. See [[cannabinoid-microbiome-correlation-cannabis]]
-
-- [[cannabis-cultivar-microbiome-specificity]] for results overview
-- [[soil-edaphic-factors-microbial-communities]] for soil differences
-- [[cannabis-microbiome-research]] for the complete study overview

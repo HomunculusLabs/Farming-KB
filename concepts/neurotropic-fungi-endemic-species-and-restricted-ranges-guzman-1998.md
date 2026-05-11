@@ -1,13 +1,13 @@
 # Neurotropic Fungi Endemic Species and Restricted Ranges
 
 ## Source
-Guzmán, Allen & Gartz (1998) — *A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion.* Ann. Mus. civ. Rovereto, Sez.: Arch., St., Sc. nat. Vol. 14, pp. 189-280.
+Guzmán, Allen & Gartz (1998) — *A worldwide [[psilocybe-geographical-distribution-patterns]] of the neurotropic fungi, an analysis and discussion.* Ann. Mus. civ. Rovereto, Sez.: Arch., St., Sc. nat. Vol. 14, pp. 189-280.
 
 ---
 
 ## Overview
 
-Among the 216 known species of neurotropic fungi catalogued by Guzmán, Allen and Gartz (1998), a significant number exhibit endemic or highly restricted geographic distributions. These species are known from single countries, specific regions, or individual localities, contrasting with cosmopolitan species such as *Psilocybe cubensis* and *P. semilanceata*. Understanding endemic neurotropic fungi is critical for biogeographic analysis.
+Among the 216 known species [[distribution-of-neurotropic-fungi]] catalogued by Guzmán, Allen and Gartz (1998), a significant number exhibit endemic or highly restricted geographic distributions. These species are known from single countries, specific regions, or individual localities, contrasting with cosmopolitan species such as *Psilocybe cubensis* and *P. semilanceata*. Understanding endemic neurotropic fungi is critical for biogeographic analysis.
 
 ## Defining Endemic Neurotropic Species
 
@@ -23,7 +23,7 @@ Mexico possesses the highest number of neurotropic fungal species of any country
 - **Psilocybe chiapanensis**: Named for Chiapas in southern Mexico
 - **Psilocybe laurae**: A Mexican endemic found in specific forest habitats
 - **Psilocybe galindoi**: Documented from central and southern Mexican montane habitats
-- **Psilocybe zapotecorum**: Strongly associated with Zapotec cultural regions of Oaxaca
+- **[[psilocybe-zapotecorum]]**: Strongly associated with Zapotec cultural regions of Oaxaca
 
 ### Endemic Non-Psilocybe Species in Mexico
 
@@ -46,7 +46,7 @@ Pre-Columbian use is suggested by ancient gold pectorals discovered by Schultes 
 
 ### Brazil
 
-- **Psilocybe brasiliensis**: Known only from Brazil
+- **[[psilocybe-brasiliensis]]**: Known only from Brazil
 - **Psilocybe paulensis**: Named for São Paulo state
 
 ## European Restricted Species
@@ -58,9 +58,9 @@ Pre-Columbian use is suggested by ancient gold pectorals discovered by Schultes 
 
 ## North American Restricted Species
 
-- **Psilocybe stuntzii**: Only known from the Pacific Northwest (Washington, Oregon, British Columbia)
+- **Psilocybe stuntzii**: Only known from the [[psilocybin-north-america-pacific-northwest]] (Washington, Oregon, British Columbia)
 - **Psilocybe azurescens**: Restricted to the coastal Pacific Northwest, particularly Oregon
-- **Psilocybe quebecensis**: Quebec, Canada — extremely disjunct from its [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]] relatives
+- **[[psilocybe-quebecensis]]**: Quebec, Canada — extremely disjunct from its [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]] relatives
 
 ### Section Aztecorum Disjunct Distribution
 
@@ -88,41 +88,3 @@ Africa remains the most underexplored continent for neurotropic fungi, with only
 This paucity contrasts with Africa's high biodiversity and reflects insufficient exploration.
 
 ## Asian Endemic Elements
-
-- **Panaeolina** species from Japan (described by Hongo)
-- **Panaeolina** species from India (described by Natarajan and Raman)
-
-Southeast Asian tropics likely harbor undocumented neurotropic species.
-
-## Cosmopolitan vs. Endemic Patterns
-
-**Cosmopolitan** (multiple continents):
-- *P. cubensis*: Pantropical, cattle dung
-- *P. semilanceata*: Temperate grasslands, North America and Europe
-- *P. cyanescens*, *P. fimetaria*, *P. pelliculosa*, *P. silvatica*: Amphi-Atlantic
-
-**Endemic** (single countries/regions):
-- Majority of Mexican *Psilocybe* species
-- South American regional endemics (Colombia, Brazil)
-- European restricted species (*P. hispanica*, *P. serbica*)
-- Pacific Northwest endemics (*P. stuntzii*, *P. azurescens*)
-
-## Biogeographic Implications
-
-The endemism pattern supports the hypothesis that neurotropic fungi originated in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], primarily South America, dispersing northward. The concentration of endemics [[fukuoka-natural-farming-in-tropical-regions]] near the Southern Hemisphere is consistent with this origin. Cosmopolitan amphi-Atlantic species may represent more recent dispersal via human activity or natural long-distance events.
-
-## Conservation Considerations
-
-The high proportion of endemic neurotropic fungi in tropical regions raises conservation concerns:
-
-- **Habitat destruction**: Tropical deforestation threatens endemic species before full documentation
-- **Limited distribution**: Species known from single localities are vulnerable to habitat change
-- **Cultural significance**: Several endemic species (particularly in Mexico) have traditional importance as entheogens
-- The 1998 paper serves as an important baseline, but updated field surveys in underexplored regions — particularly Africa, Southeast Asia, and the Amazon — would likely reveal additional endemic species
-
-## See Also
-
-- [[guzman-allen-gartz-global-psilocybe-biogeography|Global Psilocybe Biogeography]]
-- [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis|P. cubensis Columbian Exchange Hypothesis]]
-- [[distribution-of-neurotropic-fungi|Distribution of Neurotropic Fungi]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998|Four Groups of Neurotropic Fungi]]

@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,55 +88,3 @@ further scrub the air.
 
 When shopping for an ozone generator, look for one that has been on
 the market for a few years and has an established track record.
-Important features include:
-- Self-cleaning or easy-to-clean design
-- Easy, safe bulb replacement
-- Deadman's switch that prevents UV exposure during maintenance
-- Proper safety features that keep corrosive ozone away from interior
-  wiring
-
-The Air Tiger, manufactured by Rambridge, is a popular model designed
-to fit inside ductwork. It features a deadman's switch making direct
-eye contact with the UV light tube impossible.
-
-## Negative Ion Generators
-
-Negative ion generators are small and somewhat efficient devices used
-to control odors, smoke, airborne pollen, mold, dust, and static
-electricity. They pump negative ions into the atmosphere. The negative
-ions are attracted to positive ions containing odors and other airborne
-pollutants.
-
-When negative ions attach to positive ions, the odor becomes
-neutralized. The particles fall to the floor and create a fine covering
-of dust on the ground, walls, and objects in the room.
-
-### Advantages
-- Work fairly well for small grow rooms with minimal odor problems
-- Use very little electricity
-- Plug into a regular 115-volt current
-- Relatively inexpensive
-
-### Limitations
-- Create dust that requires regular cleaning
-- Best suited for small gardens
-- Less effective than ozone or carbon filters for large operations
-
-### Maintenance
-Visually check the filter every few days and keep it clean. The
-generator uses very little electricity and requires minimal upkeep.
-
-## Deodorizers
-
-Products such as Odor Killer, Ona, VaporTek, and Ozium are made from
-[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] that kill odors by creating a neutral atmosphere at the
-atomic level. Available in gel, liquid, and spray forms. Many growers
-prefer gel for long-term use and spray for emergency situations.
-
-Deodorizers can be set out in the room, around the house, and near
-doorways. Some products stick to walls and others are designed for
-ventilation ductwork attachment. They are often used to alter both the
-odor of marijuana and the telltale odor produced by ozone generators.
-
-## See Also
-- [[cervantes-odor-deodorizers-comparison]]

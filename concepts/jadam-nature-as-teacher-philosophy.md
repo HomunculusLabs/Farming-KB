@@ -5,6 +5,7 @@ updated: 2026-04-16
 type: concept
 tags: [jadam, natural-farming]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 # JADAM Nature as Teacher Philosophy
@@ -87,11 +88,3 @@ The "ask nature" principle has broader implications for agriculture and environm
 
 ## See Also
 - [[jadam-liquid-fertilizer-philosophy]]
-- [[jadam-making-organic-farming-inputs]]
-- [[jadam-natural-farming-philosophy]]
-- [[jadam-monoculture-critique]]
-- [[jadam-soil-management-principles]]
-- [[jadam-patent-free-revolution]]
-- [[fukuoka-nature-god-limits-of-knowledge]]
-- [[jadam-liquid-fertilizer-philosophy]]
-- [[jadam-natural-nitrogen-fertilizer]]

@@ -65,7 +65,7 @@ Caffeine has a Ki of ~44 μM at A₁ and ~40 μM at A₂A receptors, making it a
 - **Volume of distribution:** 0.6 L/kg
 - **Plasma protein binding:** 17–36%
 - **Half-life:** 3–7 hours in healthy adults (longer in pregnancy, liver disease, or with oral contraceptives)
-- **Metabolism:** Primarily hepatic via CYP1A2 to paraxanthine (~84%), theobromine (~12%), and theophylline (~4%)
+- **Metabolism:** Primarily hepatic via CYP1A2 to paraxanthine (~84%), [[theobromine]] (~12%), and theophylline (~4%)
 - **Excretion:** Renal (<5% unchanged)
 
 ## Effects
@@ -89,62 +89,6 @@ Caffeine has a Ki of ~44 μM at A₁ and ~40 μM at A₂A receptors, making it a
 
 ### Cognitive Enhancement
 
-Moderate caffeine doses (50–200 mg) reliably improve vigilance, reaction time, and sustained attention. Effects on higher-order cognitive functions (working memory, creative thinking) are inconsistent and may depend on baseline arousal state.
-
-The cognitive enhancement is most pronounced in sleep-deprived or fatigued individuals, with diminishing returns as arousal approaches optimal levels.
-
-### Duration
-
-Onset: 15–45 minutes. Peak effects: 30–60 minutes. Duration: 3–6 hours depending on dose and individual metabolism.
-
-## Dose Ranges
-
-- **50–100 mg** — mild stimulation, equivalent to one cup of brewed coffee; improves alertness without significant side effects
-- **100–200 mg** — moderate stimulation; typical therapeutic range for cognitive enhancement
-- **200–400 mg** — strong stimulation; may produce anxiety, jitteriness, and insomnia in sensitive individuals
-- **400–600 mg** — high dose; significant CNS stimulation, risk of anxiety, palpitations, tremor
-- **>600 mg** — may produce caffeine intoxication per DSM-5 criteria: restlessness, nervousness, excitement, insomnia, flushed face, diuresis, GI disturbance, muscle twitching, rambling thought, tachycardia
-- **>5 g** — potentially lethal (estimated LD50 in humans ~150–200 mg/kg)
-
-## Biosynthesis in Plants
-
-Caffeine is synthesized via the xanthine pathway in plants:
-
-Xanthosine → 7-methylxanthosine → 7-methylxanthine → theobromine → caffeine
-
-Enzymes involved include xanthosine methyltransferase, 7-methylxanthine methyltransferase, and theobromine synthase (N-methyltransferase).
-
-The pathway appears to have evolved independently at least five times across the plant kingdom (Coffea, Camellia, Theobroma, Paullinia, Citrus), suggesting strong selective pressure for caffeine production.
-
-## Plant Sources
-
-- **Coffea arabica** (coffee) — 1.0–1.5% caffeine in beans
-- **Coffea canephora** (robusta coffee) — 2.0–2.7% caffeine, roughly double arabica
-- **[[camellia-sinensis-entity]]** (tea) — 2.5–4.5% in dried leaves
-- **Theobroma cacao** (cacao) — 0.1–0.4% in beans; also contains theobromine
-- **Paullinia cupana** (guaraná) — 3–6% in seeds; highest caffeine content of any plant
-- **Ilex guayusa** — 1.5–3.0% in dried leaves
-- **Ilex paraguariensis** ([[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]]) — 0.7–1.7% in dried leaves
-- **Cola acuminata** (kola nut) — 1.5–2.5%
-
-## Tolerance and Dependence
-
-Regular consumption produces pharmacodynamic tolerance via upregulation of adenosine receptors, typically developing over 7–14 days.
-
-Caffeine withdrawal is recognized in DSM-5 as a psychiatric condition. Symptoms include headache (most common), fatigue, drowsiness, dysphoria, irritability, difficulty concentrating, and flu-like symptoms. Onset within 12–24 hours of cessation, peak at 20–51 hours, duration 2–9 days.
-
-## Legal Status
-
-## Related
-
-- theobromine
-- [[ethylone]]
-
 ## See Also
-
-- [[reserpine]]
-
-- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
-- [[ilex-paraguariensis]]
-- [[coffea-arabica]]
-- [[coffea-canephora]]
+- [[mckenna-caffeine-coffee-and-industrial-revolution]]
+- [[caffeine-plants-and-stimulant-herb-cultivation]]

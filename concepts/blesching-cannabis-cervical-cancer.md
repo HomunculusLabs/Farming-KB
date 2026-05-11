@@ -36,7 +36,7 @@ cervical cancer development among higher-risk females, including:
 - Family history of cervical cancer
 - Poverty and substance abuse
 - Human papillomavirus (HPV)
-- HIV/AIDS and Herpes simplex
+- HIV/AIDS and [[cannabis-antiviral-herpes-simplex-blesching]]
 - Pharmaceutical birth control use
 - Multiple prior pregnancies
 - Dietary factors
@@ -56,7 +56,7 @@ pink guava, rosehips, and pink grapefruit.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 2
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 2
 
 ## Research Evidence
 
@@ -65,7 +65,7 @@ pink guava, rosehips, and pink grapefruit.
 A 2004 Geneva study demonstrated that anandamide, the body's own cannabinoid,
 possesses the ability to protect healthy cervical cells from developing cancer
 via both CB1 and CB2 receptor sites. Beyond protective abilities, anandamide
-was found to induce apoptosis (programmed cell death) in cervical cells that
+was found to induce apoptosis (programmed [[blesching-cannabis-apoptosis-and-cancer-cell-death]]) in cervical cells that
 had mutated into cancerous forms.
 
 ### THC and Tumor Invasiveness
@@ -88,53 +88,3 @@ cancer cells.
 Pre-clinical experiments suggest a potential mechanism involving both CB1 and
 CB2 in the destruction of human cervical cancer cells, at least in laboratory
 tests. Both the body's own anandamide and the plant cannabinoid THC bind with
-CB1 and CB2. Both sativas and indicas contain THC.
-
-## Mind-Body Medicine
-
-The uterus is where the fertilized egg nests and develops from embryo to fetus.
-It is a cradle of physical life. The neck of the uterus is narrow but flexible
-enough to contain and eventually release the fully-grown fetus. The mucosal
-lining of the uterus sheds monthly in an ancient embodied rhythm of life,
-death, and rebirth.
-
-## Complementary Approaches
-
-### Saffron
-Crocus sativus L. or saffron may possess anticancer activity including
-activity against ovarian cancer, which shares tissue-of-origin similarities
-with cervical cancer. Saffron's carotenoid compounds (crocin and crocetin)
-have demonstrated anti-tumor properties in laboratory studies.
-
-## HPV Connection
-
-Human papillomavirus (HPV) is the primary risk factor for cervical cancer. The
-endocannabinoid system's role in [[cancer-immune-modulation-mechanisms]] suggests that cannabinoids
-may support the body's natural defense against viral infections. The ECS
-influences both innate and adaptive immune responses, and CB2 receptor
-activation has been shown to modulate immune function without producing
-psychoactive effects.
-
-## Clinical Significance
-
-While the [[blesching-cannabis-chi-score-methodology]] for cervical cancer is relatively low (2), the finding
-that anandamide can both protect healthy cervical cells and induce apoptosis
-in cancerous cells via CB1 and CB2 receptors is significant. This dual action
--- protective and therapeutic -- through the body's own endocannabinoid
-system suggests that supporting endocannabinoid tone may play a role in
-cervical cancer prevention and treatment.
-
-## Mind-Body Medicine
-
-The uterus is where the fertilized egg nests and develops from embryo to fetus.
-It is a cradle of physical life. The neck of the uterus is narrow but flexible
-enough to contain and eventually release the fully-grown fetus. The mucosal
-lining of the uterus sheds monthly in an ancient embodied rhythm of life,
-death, and rebirth. Consider creating love and approval for all aspects of
-yourself, and appreciating the source of your creativity.
-
-## See Also
-
-- [[cannabis-and-endometriosis]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-cancer-symptoms]]

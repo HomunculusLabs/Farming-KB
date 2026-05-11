@@ -49,15 +49,15 @@ The genus *Gloeophyllum* was historically placed within the Polyporales but has 
 *Gloeophyllum trabeum* is a model organism for studying the brown rot decay mechanism:
 
 ### Fenton Chemistry
-The primary mechanism of wood decay in *G. trabeum* involves the generation of hydroxyl radicals through Fenton reaction:
+The primary mechanism of wood decay in *G. trabeum* involves the generation of hydroxyl radicals through [[fenton-reaction-chemistry-and-biochemistry]]:
 
 1. **Iron Reduction:** The fungus secretes extracellular low-molecular-weight compounds that reduce Fe3+ to Fe2+. Key compounds include catecholate and hydroxyquinolate siderophores
-2. **[[cervantes-hydrogen-peroxide-sterilization]] Generation:** The fungus produces hydrogen peroxide through the action of extracellular oxidases and through intracellular metabolic pathways
+2. **[[cervantes-hydrogen-peroxide-sterilization]] Generation:** The fungus produces [[hydrogen-peroxide-tissue-culture-wild-polypores]] through the action of extracellular oxidases and through intracellular metabolic pathways
 3. **Hydroxyl Radical Production:** Fe2+ reacts with H2O2 in the Fenton reaction to produce hydroxyl radicals, the most powerful oxidizing agents in biological systems
 4. **Non-Enzymatic Depolymerization:** Hydroxyl radicals attack cellulose and hemicellulose in the wood cell wall, causing depolymerization long before hyphae physically reach the affected areas
 
 ### Enzymatic Components
-- **Endoglucanases and Exoglucanases:** Contribute to cellulose degradation after the initial oxidative attack has opened up the cell wall structure
+- **Endoglucanases and Exoglucanases:** Contribute to [[fungal-cellulose-degradation]] after the initial oxidative attack has opened up the cell wall structure
 - **Xylanases:** Degrade hemicelluloses, particularly xylan in hardwoods and glucomannan in softwoods
 - **Laccases and Peroxidases:** While brown rot fungi do not extensively degrade lignin, *G. trabeum* does produce low levels of oxidative enzymes that may modify lignin chemistry
 
@@ -68,8 +68,8 @@ Research has identified specific iron-reducing compounds produced by *G. trabeum
 
 - **Natural Habitat:** Commonly found on dead wood of coniferous trees (especially pine, spruce, and fir) in forest ecosystems. Also occurs on hardwoods, particularly oak. Prefers relatively dry conditions compared to many other wood-decay fungi
 - **Built Environment:** A major cause of decay in structural timber, utility poles, railroad ties (sleepers), fence posts, and exterior woodwork. Capable of decaying wood at relatively low moisture contents (15 to 20 percent)
-- **Geographic Distribution:** Cosmopolitan in temperate regions worldwide, found across North America, Europe, Asia, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
-- **Ecological Role:** An important decomposer of woody debris in forest ecosystems, contributing to carbon cycling and nutrient release from dead wood
+- **[[geographic-distribution-of-psilocybe-species]]:** Cosmopolitan in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, found across North America, Europe, Asia, and parts of the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]
+- **Ecological Role:** An important decomposer of woody debris in forest ecosystems, contributing to carbon cycling and [[solomon-cool-climate-compost-soil-temperature-nutrient-release]] from dead wood
 
 ## Importance in Wood Preservation
 
@@ -88,49 +88,3 @@ Research on *G. trabeum* has implications for several biotechnology fields:
 
 - **Biopulping and Biorefining:** Understanding its efficient cellulose depolymerization mechanism could enable development of low-energy biological pretreatments for lignocellulosic biomass conversion
 - **Biofuel Production:** Brown rot fungi like *G. trabeum* offer a potential approach to accessing fermentable sugars from wood without the harsh chemical pretreatments currently required
-- **Bioremediation:** Investigated for its ability to degrade wood preservatives and other xenobiotic compounds, particularly copper-based preservatives
-- **Novel Biomaterials:** The fungus produces extracellular polymeric substances and melanin-like pigments that may have industrial applications
-
-## Genomics
-
-The genome of *G. trabeum* has been sequenced, providing insights into brown rot evolution:
-
-- **Genome Reduction:** Compared to white rot ancestors, the *G. trabeum* genome shows a contraction in the repertoire of lignin-degrading enzymes (lignin peroxidases, manganese peroxidases, and certain laccases), consistent with the evolution of the brown rot strategy
-- **Iron Metabolism Genes:** An expanded set of genes involved in iron acquisition and reduction, supporting the importance of Fenton chemistry in its decay mechanism
-- **Secondary Metabolism:** Contains gene clusters for the production of various [[antifungal-secondary-metabolites-coprophilous-fungi]], some of which may function in competitive interactions with other microorganisms
-
-## Ecological Interactions
-
-*Gloeophyllum trabeum* interacts with other organisms in its environment:
-
-- **Competition:** Competes with other wood-decay fungi and bacteria for wood substrates. Its ability to rapidly colonize and chemically modify wood ahead of hyphal growth provides a competitive advantage
-- **Invertebrate Associations:** Wood-decaying fungi, including *G. trabeum*, serve as food sources and habitat for various invertebrates, including wood-boring beetles and their gut fungi
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Through [[decomposition]] tion activities, *G. trabeum* releases carbon, nitrogen, and other nutrients bound in woody biomass, making them available for uptake by plants and other organisms
-
-## Comparative Analysis with Other Brown Rot Fungi
-
-*Gloeophyllum trabeum* can be compared with other major brown rot fungi to highlight the diversity of decay strategies:
-
-- **Decay Rate:** *G. trabeum* is generally considered the most aggressive brown rot fungus in standardized soil block tests (AWPA E10, EN 113), typically causing greater mass loss in pine sa coniophora puteana hora puteana* or *[[fungal-serpula-lacrymans-dry-rot-buildings]]* under comparable conditions
-- **Moisture Tolerance:** Unlike *C. puteana* and *S. lacrymans*, *G. trabeum* can initiate and sustain decay at relatively low wood moisture contents (15 to 20%), making it particularly problematic in above-ground exterior wood applications such as utility poles and fence posts
-- **Iron Chelation:** *G. trabeum* produces 2,5-dimethoxyhydroquinone (2,5-DMHQ) as a key iron-reducing compound, while *Serpula* and *Coniophora* species utilize different low-molecular-weight iron chelators, reflecting convergent evolution of Fenton chemistry
-- **Genomic Reduction:** The *G. trabeum* genome shows a more complete loss of lignin-degrading peroxidases compared to *C. puteana*, suggesting a more specialized brown rot strategy
-- **Ecological Niche:** *G. trabeum* favors drier, more exposed wood in outdoor service, whereas *S. lacrymans* and *C. puteana* are more commonly associated with enclosed, humid building environments
-
-## Biochemical Compounds
-
-Specific metabolites of *G. trabeum* of research interest include:
-
-- **2,5-Dimethoxyhydroquinone (2,5-DMHQ):** A key extracellular quinone that reduces Fe3+ to Fe2+, driving Fenton chemistry. Identified and characterized through biochemical fractionation of *G. trabeum* culture filtrates
-- **4,5-Dimethoxycatechol:** Another iron-reducing metabolite found in *G. trabeum* extracts, contributing to the hydroxyl radical generation cycle
-- **Melanin and Melanin-Like Pigments:** Dark pigments produced by *G. trabeum* that may protect hyphae from UV radiation and oxidative stress, and may also chelate metal ions
-- **Extracellular Polymeric Substances (EPS):** Gel-like matrices secreted at the wood-fungus interface that may help maintain hydration, concentrate enzymes and iron-chelating compounds, and mediate adhesion to wood surfaces
-
-## See Also
-
-- [[serpula-lacrymans]]
-- brown-rot-fungi
-- wood-decay-fungi
-- fenton-chemistry
-- [[lepista-nuda-entity-the-mushroom-cultivator]]
-- [[pseudomonas-putida-entity-the-mushroom-cultivator]]

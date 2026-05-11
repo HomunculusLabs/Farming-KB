@@ -13,14 +13,14 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Annotated Catalogue." EUT Edizioni Università di Trieste.
   - Spribille, T. et al. (2014). "Bryoria section Implexae (Parmeliaceae, Lecanoromycetes) in western North America." "The Bryologist" 117(4): 311–325.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[psilocybin-north-america-pacific-northwest]]." 2nd ed. Oregon State University Press.
 ---
 
 ## Overview
 
 **Bryoria caperata** is a fruticose lichen in the family Parmeliaceae, commonly known as the **shaded horsehair lichen**. It forms dark brown to nearly black, intricately branched tufts that drape from the bark and branches of coniferous trees in boreal and montane forests.
 
-The species was historically treated within the broad *Bryoria implexa* complex before being recognized as distinct based on morphological and chemical characters. It is widespread across northern hemisphere conifer forests but has declined significantly in regions affected by air pollution.
+The species was historically treated within the broad *[[bryoria-implexa]]* complex before being recognized as distinct based on morphological and chemical characters. It is widespread across northern hemisphere conifer forests but has declined significantly in regions affected by air pollution.
 
 ## Taxonomy and Morphology
 
@@ -82,29 +82,8 @@ Some *Bryoria* species contain vulpinic acid and are toxic to mammals, but *B. c
 
 *Bryoria implexa* is the most frequently confused species, but it produces a different chemical profile and often bears pseudocyphellae. *B. fuscescens* tends to be shorter and more densely branched with a more erect growth form.
 
-*Bryoria trichodes* has finer branching and a more yellowish-brown coloration. *Alectoria sarmentosa* is more silvery-gray, lacks the dark pigmentation of *Bryoria*, and contains usnic acid rather than fumarprotocetraric acid as its primary substance.
+*[[bryoria-trichodes]]* has finer branching and a more yellowish-brown coloration. *[[alectoria-sarmentosa]]* is more silvery-gray, lacks the dark pigmentation of *Bryoria*, and contains usnic acid rather than fumarprotocetraric acid as its primary substance.
 
-*Bryoria fremontii*, the edible "wila" lichen, is morphologically similar but contains different depsidones and is distinguished by its culinary importance in Indigenous traditions of the Pacific Northwest.
+*[[bryoria-fremontii]]*, the edible "wila" lichen, is morphologically similar but contains different depsidones and is distinguished by its culinary importance in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] of the Pacific Northwest.
 
 ## Conservation Status
-
-*Bryoria caperata* is not globally threatened, but has experienced significant regional declines due to air pollution, particularly in central and western Europe. It is classified as near-threatened or vulnerable in several European Red Lists.
-
-The species is dependent on old-growth forest structure and is negatively affected by clear-cut logging and forest fragmentation. Stand age, bark pH, and canopy continuity are key factors influencing its abundance.
-
-Conservation recommendations include retention of old-growth conifer buffers, reduction of atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], and maintenance of continuous forest canopy in managed landscapes.
-
-## See Also
-
-- [[bryoria-fuscescens]]
-- [[bryoria-trichodes]]
-- [[alectoria-nigricans]]
-- [[hypogymnia-tubulosa]]
-- [[cetraria-islandica]]
-- [[cladonia-rangiferina]]
-- [[xanthoria-parietina]]
-- [[pertusaria-amara]]
-- [[ramalina-fastigiata]]
-- [[anaptychia-ciliaris]]
-- [[mycelium]]
-- [[spore]]

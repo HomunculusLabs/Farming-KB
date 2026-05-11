@@ -88,16 +88,3 @@ include:
 - **Moisture content**: Grain should be moist but not wet; excess water
   promotes bacterial growth and reduces mycelial vigor
 ## Storage and Viability
-Proper spawn storage extends its usable lifespan:
-- Refrigerate at 34-38°F (1-3°C) to slow metabolism and extend viability
-- Grain spawn typically remains viable for 2-4 months under refrigeration
-- Sawdust and plug spawn can last 6-12 months when properly stored
-- Liquid spawn has the shortest shelf life and should be used within weeks
-- Allow refrigerated spawn to come to room temperature before inoculating
-  warm substrates to avoid thermal shock to the mycelium
-## See Also
-- [[spawn-production]]
-- [[spawn-preparation]]
-- [[spawn-grain-to-grain-transfer]]
-- [[contamination-identification-prevention]]
-- [[incubation-and-colonization]]

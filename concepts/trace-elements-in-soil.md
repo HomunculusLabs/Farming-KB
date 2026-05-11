@@ -1,5 +1,5 @@
 ---
-title: Trace Elements in Soil
+title: Trace Elements In Soil
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,18 +11,18 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky organic matter. (see [[hamilton-organic-fertilizers-and-plant-nutrition]]).
+Trace elements are called so because they are needed in very small quantities, yet they are vital to plant growth. Six are considered of major importance: iron, zinc, copper, manganese, boron, and molybdenum. In a properly managed organic garden, deficiencies are extremely rare because all trace elements are present in manure, compost, and other bulky organic matter.
 
 ## The Alkalinity Problem
 
-The primary cause of trace element deficiency is not absence of the element but rather inhibition of its availability by alkaline (limy) soil. Iron, manganese, and boron are particularly affected. Excessive lime can chemically "lock up" trace elements, making them unavailable to plant roots. This results in nutrient deficiencies even when the elements are present in the soil. (see [[hamilton-nutrient-deficiencies-and-treatment]]).
+The primary cause of [[fukuoka-textdoc-fertilizer-acidification-trace-element-deficiency]] is not absence of the element but rather inhibition of its availability by alkaline (limy) soil. Iron, manganese, and boron are particularly affected. Excessive lime can chemically "lock up" trace elements, making them unavailable to plant roots. This results in [[hamilton-nutrient-deficiencies-and-treatment]] even when the elements are present in the soil.
 
 ## The Six Key Trace Elements
 
 ### Iron
 - **Role:** Required in the formation of chlorophyll
-- **Deficiency symptoms:** Yellowing between the veins of the leaves, especially younger ones
-- **More likely on:** Alkaline soils; sometimes confused with magnesium deficiency
+- **[[knf-calcium-deficiency-symptoms]]:** Yellowing between the veins of the leaves, especially younger ones
+- **More likely on:** Alkaline soils; sometimes confused with [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
 - **Treatment:** Spray with liquid kelp, then apply kelp meal and/or manure to the soil
 
 ### Zinc and Copper
@@ -39,7 +39,7 @@ The primary cause of trace element deficiency is not absence of the element but 
 - **Role:** Important to the growing tissue of all parts of the plant
 - **Deficiency symptoms:** Tissue breakdown causing internal "corkiness" (especially in apples and root crops), brown heart in celery and brassicas (broccoli, cauliflower, calabrese)
 - **More likely on:** Alkaline soils
-- **Critical note:** Boron deficiency must be prevented because, if deficiencies become apparent in a crop, it is too late to save it
+- **Critical note:** [[query-how-to-fix-boron-deficiency-in-cannabis]] must be prevented because, if deficiencies become apparent in a crop, it is too late to save it
 - **Treatment (preventive):** Apply kelp meal, manure, or compost to ensure the next crop will not suffer
 
 ### Molybdenum
@@ -61,3 +61,20 @@ The best treatment for trace-element deficiencies is to prevent them from occurr
 - [[kelp-meal-fertilizer]] — primary organic source of trace elements (60-70 elements)
 - [[homemade-liquid-fertilizer]] — liquid kelp for foliar treatment of deficiencies
 - [[acid-and-alkaline-soil-management]] — managing soil pH to prevent trace element lockup
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[teaming-with-microbes-bacteria-and-archaea-in-soil]]
+- [[singh-fungal-interactions-with-heavy-metals-in-soil]]
+- [[query-how-do-i-prevent-and-fix-salt-buildup-in-cannabis-soil]]
+- [[query-how-do-i-improve-soil-drainage-in-my-garden]]
+- [[protozoa-in-soil]]

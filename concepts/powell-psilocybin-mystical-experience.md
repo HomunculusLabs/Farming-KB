@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin and the Mystical Experience"
+title: Powell Psilocybin Mystical Experience
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"
@@ -12,14 +12,14 @@ updated: 2026-04-26
 # Psilocybin and the Mystical Experience
 
 The mystical experience induced by psilocybin is the central phenomenon in Powell's *The
-Psilocybin Solution*. He treats it not as a curiosity or aberration but as the primary evidence
+[[powell-psilocybin-solution-ecological-cognition-theory]]*. He treats it not as a curiosity or aberration but as the primary evidence
 for his thesis that consciousness is mutable, that transcendental knowledge is accessible, and
-that entheogenic fungi are key to understanding both mind and reality.
+that [[entheogenic-fungi-history]] are key to understanding both mind and reality.
 
 ## The Good Friday Experiment
 
-The legendary Good Friday experiment of 1962 (the "miracle at Marsh Chapel") is Powell's
-flagship case study. Walter Pahnke, working for his PhD with Leary and the [[leary-harvard-psilocybin-project]]
+The legendary Good Friday experiment of 1962 (the "miracle at [[good-friday-experiment-marsh-chapel]]") is Powell's
+flagship case study. [[walter-pahnke]], working for his PhD with Leary and the [[leary-harvard-psilocybin-project]]
 Project, arranged for twenty theology students to receive either psilocybin or a placebo in a
 double-blind study within Boston University chapel.
 
@@ -87,51 +87,3 @@ psychological information can be captured and expressed.
 ## Key Features of the Mystical Experience
 
 Powell documents several consistent features across psilocybin-induced [[psilocybin-mystical-experiences-personality-change]]:
-
-- **Timelessness**: A sense in which temporal boundaries dissolve entirely.
-- **Cosmic connection**: An "unquestioned certainty that there is an environment bigger than
-  I am conscious of."
-- **Ego transcendence**: Visionary information issues from "somewhere apart from my sense of
-  self," creating a felt sense of union with something greater.
-- **Ultimate reality**: The experience shifts theoretical propositions about existence to
-  experiential certainty.
-- **Lasting impact**: The effects strengthen over decades rather than fading.
-
-## Historical Roots of the Mystical Connection
-
-Powell traces the connection between psilocybin and mysticism through multiple cultures:
-
-- The Aztec teonanacatl ("flesh of the gods") was used in religious rituals to contact the
-  divine. The Indians claimed the mushrooms "carry you there where God is."
-- Siberian shamans used [[amanita-muscaria-fly-agaric-history-and-pharmacology]] to access the spiritual dimension, their predominant
-  function being to attain supra-mundane knowledge for the good health of their tribe.
-- The Rig Veda contains over 100 hymns dedicated to the divine plant Soma and its spectacular
-  [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]], which Wasson identified as fly agaric mushroom.
-- Wasson proposed that the visionary effects of mushrooms might be connected to the very
-  origins of the religious impulse — that the idea of a deity arose after primitive ancestors
-  consumed psychoactive mushrooms.
-
-The word "entheogen," coined partly through Wasson's influence, means "generating the divine
-within," capturing the core phenomenon Powell describes.
-
-## The Epistemological Value of Mystical Experience
-
-Powell argues that the mystical experience carries genuine epistemological value — it provides
-"a special kind of knowledge not ordinarily available but which is of immeasurable value to us
-in terms of spirit and soul." His boldest claim is that "an organised source of intelligence
-and wisdom is indeed accessed through the mushroom" — whether this source issues from deep
-unconscious information fields or from a communicating sentient presence remains open to
-question, though both possibilities may be linked.
-
-The Good Friday experiment "took science as close as it is likely to get to mysticism apart
-from analysing the actual brain during the mystical state." Yet even brain mapping would "dodge
-the main issue which is the experience itself and what it tells us about consciousness and
-reality." Powell argues that one should simply plunge into direct confrontational experience
-rather than endlessly mapping the brain.
-
-## See Also
-
-- [[psilocybin-and-mystical-experience]]
-- [[good-friday-experiment-marsh-chapel]]
-- [[mckenna-transcendent-other-and-exopheromones]]
-- [[psilocybin-ego-dissolution-mechanisms]]

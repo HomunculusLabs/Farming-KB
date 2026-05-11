@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and [[spore]] [[seed-germination-techniques-solomon]]"
+title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] Tissue Culture [[growing-gourmet-spore-germination-strain-isolation]]
 created: 2026-04-28
 tags: mycology, tissue-culture, spore-germination, cloning, sterile-technique, mushroom-cultivator]
 date: 2026-04-25
@@ -20,12 +20,12 @@ See also: [[strain-isolation-from-wild-specimens]]
 
 The choice of agar medium significantly influences culture
 growth rate, morphology, and contamination resistance:
-- **Malt Extract Agar (MEA)** — the standard all-purpose
+- **[[malt-extract-agar]] (MEA)** — the standard all-purpose
   medium. Two percent malt extract provides balanced
   nutrition for most mushroom species. Simple to prepare,
   reliable, and well-suited to both tissue culture and
   spore germination across a wide range of gourmet and
-  medicinal mushroom species commonly cultivated.
+  [[gourmet-medicinal-mushroom-casing-layer-techniques]] species commonly cultivated.
 - **Potato Dextrose Agar (PDA)** — slightly richer than MEA
   due to added potato starch. Produces denser mycelial
   growth but can encourage bacterial contaminants in
@@ -42,7 +42,7 @@ growth rate, morphology, and contamination resistance:
   difficult specimens. However, antibiotics may also
   inhibit some fungal growth and should be used only when
   bacterial contamination is a recurring problem that
-  cannot be solved through improved sterile technique.
+  cannot be solved through improved [[cultivator-sterile-technique-and-agar-culture]].
 
 ## Spore Germination Techniques
 
@@ -82,7 +82,7 @@ evaluated for desirable cultivation characteristics:
   many plates increases the genetic pool available for
   selection. Stamets recommends starting with at least
   ten plates per spore print to ensure adequate genetic
-  diversity for strain selection.
+  diversity for [[blesching-cannabis-strain-selection-receptor-targeting]].
 - **Genetic stabilization** — isolated strains may need
   several transfer generations to stabilize growth
   characteristics before performance testing. Each

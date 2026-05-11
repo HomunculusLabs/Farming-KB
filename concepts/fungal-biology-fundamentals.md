@@ -65,3 +65,20 @@ The abundance of fungi in humid forests reflects this dependency. [[fungal-spore
 - [[mycelium-composites-materials]]
 - [[extremophilic-fungi]]
 - [[endophytic-fungi-plant-interactions]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[fungal-spore-biology-and-dispersal-mechanisms]]
+- [[ergosterol-fungal-membrane-biology]]
+- [[fungal-ecology-and-environmental-biology]]
+- [[fungal-spore-biology-dispersal]]
+- [[fungal-spore-biology]]

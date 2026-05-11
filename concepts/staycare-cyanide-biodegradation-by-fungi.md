@@ -1,5 +1,5 @@
 ---
-title: "fungal-cyanide-biodegradation-detailed by Fungi"
+title: Staycare Cyanide Biodegradation By Fungi
 created: 2026-04-28
 tags: [cyanide, biodegradation, cyanide-hydratase, fusarium,
       metal-cyanide-complexes, fungal-detoxification, nitrilase,
@@ -87,43 +87,3 @@ but is adequate for environmental concentrations. Phylogenetic
 analysis groups cyanide hydratase with nitrilase enzymes rather than
 nitrile hydratases, and nucleic acid sequences show 65-82% homology
 among fungal sources.
-
-## Cyanide Utilization Pathway
-
-Some fungi go beyond simple detoxification to utilize cyanide as a
-nitrogen source for growth. The complete pathway involves three steps:
-
-1. **Cyanide hydratase**: HCN + H2O -> HCONH2 (formamide)
-2. **Formamidase**: HCONH2 -> HCOO- (formate) + NH4+ (ammonia)
-3. **Formate dehydrogenase**: HCOO- -> CO2 (utilized for growth)
-
-Fusarium solani IHEM 8026, isolated from contaminated alkaline wastes,
-grows on cyanide at pH 9.2-10.7 with associated biomass increase.
-Radiolabelling confirmed the complete pathway from cyanide through
-formamide and formic acid to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], with ammonia utilized as
-a nitrogen source (Dumestre et al., 1997a; Barclay et al., 1998a).
-
-## Metal-Cyanide Complex Degradation
-
-Fusarium solani strains can degrade both free and metal-complexed
-cyanides as sole nitrogen sources. Degradation efficiency depends on
-complex stability:
-
-- **Nickel cyanide** (K2Ni(CN)4): Complete cyanide removal and growth
-  in 3-5 days at neutral pH.
-- **Iron cyanide** (K4Fe(CN)6): Complete removal requires up to 28
-  days at pH 4; no degradation occurs at pH 7 due to complex
-  stability.
-
-The mechanism likely involves dissociation of free cyanide from the
-metal complex rather than direct enzymatic attack on the intact
-complex. Evidence includes: the same cyanide hydratase gene is
-induced by both KCN and metal-cyanide complexes (confirmed by
-RT-PCR), and [[coleman-sunlight-and-winter-crop-growth-rates]] correlate with complex stability and free
-cyanide availability rather than total cyanide concentration.
-
-## Related Concepts
-
-- [[staycare-fungal-biosorption-of-heavy-metals]] — General fungal-metal
-  interactions including biosorption and precipitation
-- fungal-bioremediation

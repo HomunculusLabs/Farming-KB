@@ -13,7 +13,7 @@ sources:
   - Crum, H. (2004). "Mosses of the Great Lakes Forest." University of Michigan Herbarium.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University, Vol. 1.
   - Shaw, A.J. & Goffinet, B. (2000). "Bryophyte Biology." Cambridge University Press.
-  - Magill, R.E. (1990). "Flora of psilocybin-north-america-pacific-northwest, Vol. 1: Bryophytes." Oxford University Press.
+  - Magill, R.E. (1990). "Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 1: Bryophytes." Oxford University Press.
 ---
 
 ## Overview
@@ -48,7 +48,7 @@ A well-developed calyptra covers the young capsule, splitting irregularly as the
 
 ## Distribution and Habitat
 
-*Funaria hygrometrica* has a cosmopolitan distribution, occurring on every continent including Antarctica.
+*Funaria hygrometrica* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], occurring on every continent including Antarctica.
 
 It is one of the most widely distributed moss species in the world, found from sea level to alpine elevations.
 
@@ -56,7 +56,7 @@ The species colonizes disturbed substrates including burned soil, old campfire r
 
 It frequently appears on neglected garden pots, greenhouse surfaces, and along paths in urban parks.
 
-Preferred substrates include bare mineral soil, ash, loam, and compacted earth with high nutrient content.
+Preferred substrates include bare mineral soil, ash, loam, and compacted earth with high [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]].
 
 This moss is particularly abundant after wildfires, where it can form extensive bright green carpets within weeks of a burn event.
 
@@ -86,32 +86,4 @@ In traditional European folk medicine, *F. hygrometrica* was occasionally used a
 
 Some [[halpern-sacramental-peyote-and-native-american-church]] groups used the moss as a poultice for minor wounds, though documentation is limited.
 
-The species has been investigated for its ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly lead and copper, from contaminated soils.
-
-Bioaccumulation studies suggest potential utility as a passive biomonitor for atmospheric heavy metal deposition.
-
-Its rapid [[bloomfield-fungal-life-cycle-spiral-versus-circle]] (germination to sporophyte maturation in 8–12 weeks) makes it a model organism for bryological research.
-
-The species has been used in laboratory studies of gravitropism, phototropism, and spore dormancy in bryophytes.
-
-## Cultivation and Conservation
-
-*Funaria hygrometrica* is easy to cultivate and is sometimes grown as a laboratory specimen for teaching and research.
-
-Cultivation requires minimal [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] — spores germinate readily on damp soil, peat, or even filter paper.
-
-Optimal conditions include moderate light, high humidity, and temperatures between 15–25 °C.
-
-The species is not considered threatened; its cosmopolitan distribution and pioneer ecology ensure stable populations.
-
-No specific conservation measures are needed, though its presence is often cited as an indicator of soil disturbance.
-
-In greenhouse and horticultural settings, it is sometimes regarded as a minor nuisance when it colonizes pot surfaces.
-
-## See Also
-
-- [[bryum-argenteum]]
-- [[sphagnum-palustre]]
-- [[dicranum-scoparium]]
-- [[climacium-dendroides]]
-- [[pteridium-aquilinum]]
+The species has been investigated for its ability to accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], particularly lead and copper, from [[fungal-competition-survival-contaminated-soils]].

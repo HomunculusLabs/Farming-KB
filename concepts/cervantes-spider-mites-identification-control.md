@@ -1,5 +1,5 @@
 ---
-title: "cervantes spider mites identification control - Identification and Control (Cervantes)"
+title: Cervantes Spider Mites Identification Control
 created: 2026-04-28
 tags:
   - cannabis
@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -19,7 +20,7 @@ type: concept
 ## Overview
 
 The spider mite is the most common pest found on [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]]
-plants and causes the most problems according to Jorge Cervantes.
+plants and causes the most problems according to [[jorge-cervantes]].
 Spider mites have eight legs and are classified as arachnids
 (spider relatives) rather than insects, which have six legs.
 They are found on leaf undersides sucking away life-giving plant
@@ -47,7 +48,7 @@ makes early detection and rapid response critical.
 Spider mites suck life-giving sap from plants, causing overall
 vigor loss and stunting. Leaves are pocked with suck-hole marks
 and yellow from failure to produce chlorophyll. They lose partial
-to full function, and leaves turn yellow and drop. Once a plant
+to full function, and leaves [[query-what-causes-cannabis-leaves-to-turn-yellow]] and drop. Once a plant
 is overrun with spider mites, the infestation progresses rapidly.
 Severe cases cause plant death.
 
@@ -87,26 +88,3 @@ Several predatory mite species are commercially available and
 effective:
 
 - [[cervantes-neem-oil-organic-pest-control]], [[cervantes-mother-plants]] often harbor spider
-mites. Spray mothers regularly with miticides, including once
-three days before taking cuttings. Do not introduce new pests
-into the garden on clothing, and prevent animal visits.
-
-## Progressive Control Summary
-
-The recommended progression of control measures:
-1. Cleanliness: [[oyster-mushroom-clean-room-design]] daily, disinfect tools, prevent
-   new pest introductions
-2. Create hostile environment: adjust humidity, temperature,
-   water spray
-3. Create barriers: Tanglefoot around pot lips, stems, and
-   drying lines
-4. Dip cuttings and vegetative plants in pyrethrum or neem
-5. Remove foliage more than 50 percent damaged
-6. Introduce [[comparison-predatory-mites-vs-ladybugs-biocontrol]] before infestations grow out of
-   hand
-7. Spray with [[cervantes-neem-oil-organic-pest-control]]; use
-   strong miticides only if necessary, rotating sprays
-## Related Topics
-
-- [[cervantes-biological-pest-control-predators]] - predators
-- [[cervantes-thrips-pest-control]] - another common [[ingham-foliar-pest-deterrence-aact]]

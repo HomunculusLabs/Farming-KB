@@ -87,20 +87,3 @@ The evidence gathered from millennia of shamanic experience argues that the worl
 Shamanic ecstasy is an act of surrender that authenticates both the individual self and that which is surrendered to, the mystery of being. A shaman is one who has attained a vision of the beginnings and the endings of all things and who can communicate that vision. Preeminent among the shaman's techniques is the use of the plant hallucinogens, repositories of living vegetable gnosis that lie, now nearly forgotten, in our ancient past.
 
 ## Banisteriopsis and Ayahuasca Preparation
-
-McKenna first encountered visionary brews made from *Banisteriopsis* vines — the yage or ayahuasca of 1960s underground legend — at Florencia, Colombia, not far from San Augustine in the Alto Magdalena where he first encountered psilocybin mushrooms. The ayahuasca brew is prepared by boiling *Banisteriopsis caapi* vines together with leaves of *Psychotria viridis* (chacruna), which contains dimethyltryptamine (DMT). The harmala alkaloids in the *Banisteriopsis* vine act as monoamine oxidase inhibitors (MAOIs), allowing the DMT to become orally active.
-
-The combination of these two plants — a vine and a leaf — represents one of the most sophisticated examples of pharmacological knowledge among indigenous peoples. The MAOI action of the beta-carboline alkaloids in *Banisteriopsis* prevents the normally rapid enzymatic breakdown of DMT in the gut, allowing it to reach the bloodstream and cross the blood-brain barrier.
-
-## Amazonian Shamanic Cosmology
-
-Amazonian shamanism operates within a cosmological framework where the visible world is only one layer of reality. The shaman navigates between worlds — the ordinary world of daily life, the invisible world of spirits and ancestors, and the visionary world accessed through plant intoxicants. In this framework, illness is understood as resulting from spiritual imbalance or intrusion, and healing requires journeying to the source of the imbalance in the spirit world.
-
-The Amazonian shaman's relationship with plant intelligence is central to their practice. Plants are understood as teachers — each psychoactive plant is believed to possess its own spirit or consciousness that communicates directly with the practitioner during visionary states. The knowledge gained from these encounters includes not only healing techniques but also information about the natural world, social organization, and the nature of reality itself.
-
-## See Also
-- [[mckenna-food-gods-tassili-cave-paintings]]
-- Mckenna Tryptamines Consciousness
-- [[banisteriopsis-caapi]]
-- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
-- [[urban-ayahuasca-iquitos-healing]]

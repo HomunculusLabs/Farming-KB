@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Edible wild mushroom species vary significantly by region in North America. This guide covers the most sought-after edible species for major regions, organized by season. Always verify identification with multiple sources and an experienced forager before consuming any wild mushroom. (see [[mushroom-picking-seasons]]).
+Edible wild mushroom species vary significantly by region in North America. This guide covers the most sought-after edible species for major regions, organized by season. Always verify identification with multiple sources and an experienced forager before consuming any wild mushroom.
 
 ## Northeast (New England, Mid-Atlantic)
 
@@ -21,7 +21,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 
 ### Summer (June-August)
 - **Chanterelles (Cantharellus cibarius)**: Late June through August; oak and beech forests
-- **Chicken of the woods (Laetiporus sulphureus)**: June onward; on oak and other hardwoods
+- **Chicken of the woods ([[laetiporus-sulphureus]])**: June onward; on oak and other hardwoods
 - **Black trumpet (Craterellus fallax)**: Late summer in mixed hardwood forests
 - **Boletes (Boletus edulis, B. bicolor, B. pallidus)**: Mid-summer; under oaks and conifers
 
@@ -35,7 +35,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 
 ### Winter (December-March)
 - **Oyster mushrooms**: Winter flushes on hardwoods during warm spells
-- **Enoki (Flammulina velutipes)**: Winter on elm; cultivated enoki is a different strain
+- **Enoki ([[flammulina-velutipes]])**: Winter on elm; cultivated enoki is a different strain
 - **Witch's butter (Tremella mesenterica)**: On dead hardwood after rain; edible but bland
 
 ## Southeast (Appalachians, Piedmont, Coastal Plain)
@@ -55,7 +55,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 - **Hen of the woods**: September-November; oak forests
 - **Lion's mane**: Fall in Appalachian hardwood forests
 - **Matsutake (Tricholoma murrillianum)**: October-November in piedmont; pine forests; highly prized
-- **Wood blewit (Clitopilus prunulus)**: Late fall; leaf litter; pink spore print
+- **Wood blewit ([[clitopilus-prunulus]])**: Late fall; leaf litter; pink spore print
 - **Sweet tooth/Hedgehog (Hydnum repandum)**: Fall under oaks and conifers
 - **Parasol mushroom (Macrolepiota procera)**: Open fields and roadsides; tall, distinctive
 
@@ -74,7 +74,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 - **Chanterelles**: July-August; oak-hickory forests
 - **Chicken of the woods**: Summer on oak
 - **King bolete**: Mid-summer under oaks and conifers in northern areas
-- **Old man of the woods (Strobilomyces strobilaceus)**: Late summer in oak forests
+- **Old man of the woods ([[strobilomyces-strobilaceus]])**: Late summer in oak forests
 
 ### Fall -- Peak Season
 - **Hen of the woods**: September-October; oak is the primary host
@@ -116,7 +116,7 @@ Edible wild mushroom species vary significantly by region in North America. This
 ### Spring
 - **Morels**: April-May; burn sites are legendary (see "burn morels"); also river corridors with cottonwood
 - **Oyster mushrooms**: Spring on alder and bigleaf maple
-- **Angel wings (Pleurocybella porrigens)**: Fall on conifer logs; exercise caution (some reports of toxicity in vulnerable individuals)
+- **Angel wings ([[pleurocybella-porrigens]])**: Fall on conifer logs; exercise caution (some reports of toxicity in vulnerable individuals)
 
 ### Summer
 - **Chanterelles**: July-August; begin earlier than most regions
@@ -145,6 +145,6 @@ Edible wild mushroom species vary significantly by region in North America. This
 ## Dangerous Look-alikes by Region
 
 ### Amanita Species (Nationwide)
-- **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible paddy straw mushroom
+- **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible [[comparison-king-stropharia-vs-paddy-straw-mushroom]]
 - **Destroying angel (A. virosa, A. bisporigera)**: White mushroom in the button stage resembles meadow mushroom and puffballs
 - Always check for: white gills, volva (cup at base), ring on stem, growing from volva in soil

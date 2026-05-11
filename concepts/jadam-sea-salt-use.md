@@ -10,15 +10,15 @@ sources:
 
 # JADAM Sea Salt Use
 
-Sea water and sea salt are fundamental mineral supplements in the JADAM system. Sea water contains 83 different minerals including S, Mg, Ca, K, B, P, I, Mn, Mo, Co, Se, and Ge -- nearly all essential elements for crop growth. (see [[jadam-methods]]).
+Sea water and sea salt are fundamental mineral supplements in the JADAM system. Sea water contains 83 different minerals including S, Mg, Ca, K, B, P, I, Mn, Mo, Co, Se, and Ge -- nearly all essential elements for crop growth.
 
 ## Why Sea Water
 
-Sea water contains approximately 100 million marine microorganisms per mL. When combined with JADAM microorganism solution (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. Foliar application of JMS mixed with sea water eliminates powdery mildew. (see [[jadam-microorganism-solution-jms]]).
+Sea water contains approximately 100 million marine microorganisms per mL. When combined with [[jadam-microorganism-solution-culturing]] (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. [[ultra-low-cost-foliar-application-methods]] of JMS mixed with sea water eliminates [[cervantes-powdery-mildew-prevention-treatment]].
 
 ## Mineral Replenishment
 
-Modern farming causes continuous mineral leaching from soil. JADAM's approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
+Modern farming causes continuous [[jadam-natural-mineral-leaching-and-replenishment]] from soil. JADAM's approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
 
 ## Dilution Rate
 
@@ -30,7 +30,7 @@ Sea water is about 3% salt, while plant body fluid is about 1%. You must dilute 
 
 ## How to Apply
 
-Mix sea water with JMS and continue applying 3-4 times per month. Apply every time you water. Use together with phyllite solution for maximum effect.
+Mix sea water with JMS and continue applying 3-4 times per month. Apply every time you water. Use together with [[jadam-phyllite-solution]] for maximum effect.
 
 ## Benefits
 
@@ -49,7 +49,7 @@ Using sea water:
 
 ## Historical Evidence
 
-Fields, rice paddies, and orchards near the sea have been showered with sea water elements for hundreds and thousands of years. They consistently produce better quality food than inland farms. Even the Korean National Institute of Agricultural Sciences has confirmed the benefits of sea water and sea salt.
+Fields, rice paddies, and orchards near the sea have been showered with sea water elements for hundreds and thousands of years. They consistently produce better quality food than inland farms. Even the Korean National Institute of Agricultural Sciences has confirmed the [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]] water and sea salt.
 
 ## Combination with Phyllite
 
@@ -61,3 +61,24 @@ JADAM uses sea water together with phyllite solution (fine-powdered phyllite roc
 - [[jadam-fermented-plant-juice]]
 - [[knf-indigenous-microorganism-culture]]
 - [[knf-water-soluble-calcium]]
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.
+
+## Future Research Directions
+- Emerging technologies and methodologies open new avenues for investigation.
+- Interdisciplinary approaches are increasingly important for advancing understanding.
+- Climate change and environmental pressures create urgency for practical solutions.
+- Collaborative research networks accelerate knowledge development and dissemination.
+
+## Tools and Technologies
+- Modern tools enable more precise measurement and analysis than previously possible.
+- Digital platforms facilitate knowledge sharing and collaborative learning.
+- Appropriate technology selection depends on scale, context, and available resources.

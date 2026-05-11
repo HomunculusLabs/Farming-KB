@@ -1,5 +1,5 @@
 ---
-title: Propagation Techniques
+title: Hamilton Geoffhamilton Nick Organic Gardening Propagation Techniques
 created: 2026-04-28
 tags: [propagation, seed-sowing, cuttings, organic-gardening, plant-reproduction]
 date: 2026-04-25
@@ -13,7 +13,7 @@ type: concept
 The modern trend is toward "convenience gardening," and a whole industry
 has developed to service this market. Instead of raising plants from seed
 and cuttings, we are generally encouraged to buy young plants from the
-garden center or nursery. For the organic gardener, however, there are
+[[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] or nursery. For the organic gardener, however, there are
 some very good reasons why this convenience method is not good enough.
 First, if you are interested enough to adopt an organic approach to
 gardening, you will want to do the whole thing from start to finish.
@@ -38,7 +38,7 @@ containers.
 
 The cheapest method of raising plants is by sowing seeds directly into
 prepared soil. This is the method you should adopt for most vegetables,
-hardy annuals, and many herbaceous perennials. Normal, organic methods
+hardy annuals, and many [[permaculture-plants-herbaceous-perennials]]. Normal, organic methods
 of soil preparation will produce a good, workable structure. Rake the
 soil down to make it level and then sprinkle fertilizer over the top at
 the recommended rate.
@@ -88,28 +88,3 @@ such as those of [[permaculture-plants-root-crops-and-tubers]], will "fork" if t
 ### Sowing Techniques
 
 Always aim to sow seed thinly. With the vast majority of seed varieties,
-between 60 and 90 percent of your seeds will germinate and, if they come
-up too thickly, they tend to compete for the available light, becoming
-thin and straggly in the process.
-
-For dry soil, water the rows before sowing. Use a watering can, more or
-less fill up the row, allow the water to drain, then sow as directed.
-Never sow and then water afterward, since this leads to "capping," where
-the soil forms a crust on top that can prevent the entry of further
-water or even prevent young seedlings breaking through to the light.
-
-## Sowing Inside
-
-By sowing seeds in trays or pots inside you can start much earlier in
-the year. Vegetables can be sown in midwinter and planted out under
-cloches in [[coleman-overwintered-onions-and-early-spring-crops]]. A [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]
-- [[plant-propagation-methods]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management]]
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]] for controlled environment growing
-- [[mollison-designers-composting-toilets-and-humanure]] for making your own [[hamilton-potting-compost-recipes-and-growing-media]]
-
-## See Also
-
-- [[organic-propagation-hamilton]]
-- [[organic-mulching-techniques]]

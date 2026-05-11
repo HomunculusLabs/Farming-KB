@@ -88,29 +88,3 @@ Traditional use of *Drosera* extracts as a cough remedy (documented in European 
 Modern pharmacological studies have investigated plumbagin for anti-inflammatory, anti-cancer, and neuroprotective properties. However, the compound is cytotoxic at high concentrations, limiting direct therapeutic use of crude plant extracts.
 
 ## Related Species
-
-Within the **Drosera** genus, *D. binata* is placed in the section *Erythrorhiza*, which includes Australian species with perennial rhizomatous habits and erect or climbing growth forms.
-
-Its closest relatives include *Drosera gigantea* and *Drosera huegelii*, both of which share the arborescent, multi-branching leaf architecture. *D. binata* is distinguished by its narrower leaf divisions and more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit.
-
-The bifurcated leaf morphology is unique among New Zealand *Drosera* species. Other New Zealand sundews (*D. spatulata*, *D. peltata*) produce simple, undivided leaves and have different ecological strategies.
-
-Among cultivated sundews, *D. binata* hybridizes readily with *D. dichotoma* and related forms, producing fertile offspring with intermediate characteristics. These hybrids complicate taxonomic boundaries within the species complex.
-
-The natural range of *D. binata* overlaps with several other carnivorous plant genera, including *Utricularia* (bladderworts) and *Cephalotus* (Albany pitcher plant) in southwestern Australia. These shared habitats reflect convergent adaptation to nutrient-poor, waterlogged environments.
-
-## See Also
-
-- [[drosera-capensis]]
-- [[utricularia-vulgaris]]
-- [[nepenthes-rajah]]
-- [[wetland-ecology]]
-- [[decomposition]]
-- evolution
-- adaptation
-- classification
-- species
-- family
-- photosynthesis
-
-- [[drosera-peltata]]

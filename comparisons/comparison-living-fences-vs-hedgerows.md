@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Siebert, S.F. "Living Fences in the Tropics." University of Florida IFAS Extension, 2016.
   - Barr, C. & Gillespie, M. "Hedgerows of the World." IALE, 2000.
   - Mollison, B. "Permaculture: A Designers' Manual." Tagari Publications, 1988.

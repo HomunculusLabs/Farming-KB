@@ -1,5 +1,5 @@
 ---
-title: "Golden Guide: golden guide morning glory and ololiuqui and Ololiuqui (LSA-Containing Plants)"
+title: Golden Guide Morning Glory And Ololiuqui
 created: 2026-04-28
 tags: [hallucinogenic-plants, lsa, morning-glory, ololiuqui, ethnobotany,
   convolvulaceae, aztec, mescaline]
@@ -12,8 +12,8 @@ type: concept
 
 # Sacred Mexican Morning Glories and Ololiuqui
 
-The sacred Mexican morning glories of two species, *Rivea corymbosa* and
-*Ipomoea violacea*, provide Mexican Indians with hallucinogenic seeds. Although
+The sacred Mexican morning glories of two species, *[[rivea-corymbosa]]* and
+*[[ipomoea-violacea]]*, provide Mexican Indians with hallucinogenic seeds. Although
 the morning glory family (Convolvulaceae) includes some 1,700 temperate and
 tropical species and has been important as a source of medicines and many
 ornamentals, only in recent years has it been discovered that some of these
@@ -24,7 +24,7 @@ glories, yet they seem never to have been used as hallucinogens.
 ## Aztec Origins and Historical Use
 
 Shortly after the conquest of Mexico, Spanish chroniclers reported that
-ololiuqui and tlitliltzin were important divinatory hallucinogens of Aztec
+[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] were important divinatory hallucinogens of Aztec
 religion, magic, and medicine. Ololiuqui is a small, round, brownish seed
 from a vine called coatl-xoxouhqui ("snake plant"), with heart-shaped leaves
 and white flowers. Tlitliltzin is a black, angular seed. These were
@@ -88,40 +88,3 @@ his troubles.
 Experimental studies of the narcotic morning glories began in 1955 when a
 psychiatrist published notes on self-experimentation with *Rivea* seeds,
 showing that they brought on an intoxication accompanied by hallucinations.
-This announcement prompted chemists to examine the plant, but no active
-principle could be found until the 1960s. At that time the chemist who
-discovered LSD analyzed the plant and found several alkaloids closely related
-to that potently hallucinogenic synthetic compound.
-
-His astonishing discovery met with widespread disbelief, partly because these
-lysergic-acid derivatives had hitherto been known in nature only in the
-primitive fungus ergot (*[[bloomfield-ergot-claviceps-purpurea-ergotism]]*), a parasite on the grains of rye
-in Europe. Half a dozen of these ergoline alkaloids have been found in seeds
-of *Rivea corymbosa* and *Ipomoea violacea*. The main hallucinogenic
-constituents of both seeds are ergine (d-lysergic [[lysergic-acid-amide-containing-plants-halpern]]) and isoergine,
-but other related bases occur in minor amounts, chiefly chanoclavine,
-elymoclavine, and lysergol. The total alkaloid content of *Ipomoea violacea*
-is five times that of *Rivea corymbosa*, which explains why the natives use
-fewer of the *Ipomoea* seeds in preparing for their rituals.
-
-## Horticultural Varieties and Related Species
-
-Many horticultural varieties of *Ipomoea violacea*, including the popular
-ornaments Heavenly Blue, Pearly Gates, Flying Saucers, Blue Stars, and
-Wedding Bells, as well as other varieties of *Ipomoea*, contain hallucinogenic
-constituents. Other genera, notably *Argyreia* and *Stictocardia*, also
-contain these substances. The Hawaiian wood rose (*A. nervosa*), for example,
-has been found to be highly intoxicating. Seeds of *I. carnea*, which are
-known to possess biodynamic constituents, are said to be used as hallucinogens
-in Ecuadorian folk medicine. In fact, hallucinogenic compounds are so
-prevalent in this family, both geographically and botanically, that it is
-difficult to explain why the morning glories have not been more widely employed
-as narcotics by primitive societies.
-
-## See Also
-
-- [[schultes-ololiuqui-and-morning-glory]]
-
-- [[golden-guide-ayahuasca-and-caapi]]
-- [[golden-guide-psilocybin-mushrooms-overview]]
-- [[golden-guide-syrian-rue-and-maoi-plants]]

@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Wildlife Corridors
 
-Wildlife conservation is integral to permaculture [[permaculture-designers-manual-wildlife-corridors]] design. Mollison's Manual treats wildlife habitat not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
+Wildlife conservation is integral to permaculture design. Mollison's Manual treats [[hemenway-backyard-wildlife-habitat]] not as a separate reserve but as an essential component of productive landscapes, integrated through corridors, refuges, and deliberate design for biodiversity.
 
 ## Wildlife in the Permaculture Landscape
 
 ### Water Bodies as Wildlife Reserves
 
-Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife [[permaculture-designers-manual-wildlife-corridors]] reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar water conservation systems that simultaneously create wildlife habitat.
+Wherever precipitation exceeds the demands of transpiration and evaporation, small dams, wetlands, and swamps can proliferate. All of these act as long-term water and wildlife reserves in the total landscape. Many Australian farms have become "drought-proof" due to sensible investment in Keyline or similar water conservation systems that simultaneously create wildlife habitat.
 
 ### Boulders as Wildlife Refuges
 
@@ -42,9 +42,9 @@ Wildlife corridors connect isolated habitat patches across the landscape, allowi
 Corridors are not set aside from productive use but integrated with:
 
 - Riparian zones along waterways (providing both filtration and movement corridors)
-- Windbreak and shelterbelt plantings (serving farm animals, crops, and wildlife simultaneously)
+- [[windbreak-and-shelterbelt-design]] plantings (serving farm animals, crops, and wildlife simultaneously)
 - Hedgerow systems between fields (habitat, windbreak, and fodder production)
-- Steep slope forests (erosion control, timber, and wildlife movement)
+- Steep slope forests ([[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], timber, and wildlife movement)
 - Road and track verges (planted with wildlife-friendly species)
 
 ### Land Trusts and Conservation
@@ -72,7 +72,7 @@ Reasons people gift land include:
 - **Zone 4-5**: Large forest reserves, wetlands, and primary wildlife areas
 - **Zone 3**: Integrated orchard and pasture systems with hedgerow corridors
 - **Zone 2**: Garden ponds, bird boxes, insect habitat plantings, small rock piles
-- **Zone 1**: Companion planting for beneficial insects, small water features
+- **Zone 1**: [[cervantes-companion-planting-pest-deterrent]] [[query-how-do-i-design-habitat-for-beneficial-insects]], small water features
 
 ## Related Concepts
 

@@ -10,7 +10,7 @@ tags: [ayahuasca]
 
 # Ayahuasca Tourism Peru Retreat Landscape
 
-The primary hubs for ayahuasca tourism in Peru center around the Amazonian cities of Iquitos and Pucallpa, with activity concentrated in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the Peruvian Amazon.
+The primary hubs for [[ayahuasca-tourism-in-peru]] Peru center around the Amazonian cities of Iquitos and Pucallpa, with activity concentrated in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of the [[ayahuasca-tourism-economics-peruvian-amazon]].
 
 The retreat landscape spans a broad spectrum from informal indigenous family ceremonies in Shipibo communities to upscale American-led operations marketed internationally.
 
@@ -46,7 +46,7 @@ San Francisco is a Shipibo town reachable by a taxi ride from Yarina.
 
 The enormous sign at its entrance proclaims it the "Centro Ceremonial del Ayahuasca," explicitly branding the community as a ceremonial destination for both domestic and international visitors.
 
-Ayahuasca use is deeply embedded in Shipibo family life here -- the article notes that "there are at least a couple of ayahuasqueros in almost every Shipibo family."
+Ayahuasca use is deeply embedded in Shipibo family life here -- the article notes that "there are at least a couple of [[ayahuasqueros]] in almost every Shipibo family."
 
 This density of practitioners means that San Francisco functions as a distributed ceremonial campus rather than a single retreat center, with multiple options available within walking distance of each other.
 
@@ -62,7 +62,7 @@ The most accessible and affordable tier of the retreat landscape consists of cer
 
 These sessions blend community practice with tourist accommodation, often occurring in the same evening with local participants.
 
-The ceremonies feature icaros (sacred chants), tobacco purging, and dietary protocols that are central to the indigenous tradition.
+The ceremonies feature [[icaros]] (sacred chants), tobacco purging, and dietary protocols that are central to the indigenous tradition.
 
 Prices for Peruvians run around two dollars, while tourists typically pay ten to thirty dollars depending on the practitioner, location, and duration of the experience.
 
@@ -87,60 +87,3 @@ However, the intermediary layer of American facilitators also adds cost and dist
 Guided experiences led by established figures like Peter Gorman occupy a distinctive niche between informal village ceremonies and luxury resorts.
 
 The article notes that "any tour led by Peter Gorman is almost certainly going to be interesting," suggesting that knowledgeable guides can provide rich, contextualized experiences that bridge the gap between the two extremes.
-
-These tours typically involve deeper Amazonian travel, encounters with multiple practitioners, and educational components about the cultural and botanical context of ayahuasca.
-
-They appeal to tourists who want adventure and depth without the contrivance of resort-style retreats.
-
-### Brazilian Ayahuasca Churches
-
-Some tourists travel to Brazil to participate in organized ayahuasca churches such as the Santo Daime, representing a distinct model from the Peruvian retreat landscape.
-
-These churches provide structured, ritualized ceremonies within an established religious framework, offering a different experience from the more individualized shaman-led ceremonies in Peru.
-
-The Brazilian church model offers more legal protection and organizational structure but requires engagement with a specific religious tradition.
-
-## Training Programs and Extended Stays
-
-Beyond single ceremonies, the retreat landscape includes multi-week training programs that cater to more committed seekers.
-
-The article describes two visiting ayahuasqueros who spent two weeks in Yarina conducting training sessions, indicating that some tourists seek extended immersive experiences rather than one-off ceremonies.
-
-These programs likely involve dietas (traditional plant [[amazonian-ayahuasca-purge-and-diet-practices]]), icaros instruction, and deeper engagement with Shipibo cosmology.
-
-The two-week format suggests a structured curriculum designed to give participants a more substantive understanding of the practice than a single ceremony can provide.
-
-## Government and Cultural Context
-
-Ayahuasca is openly integrated into Peruvian spiritual and economic life in ways that directly support the tourism infrastructure.
-
-Government tourist agencies sponsor ayahuasca festivals, treating the practice as cultural heritage worthy of promotion.
-
-The brew and its raw materials are sold openly in markets, providing accessible supply to both practitioners and curious tourists.
-
-Peru's president (Alejandro Toledo, as of 2002) participated in an [[ayahuasca-ceremony-pharmacology-safety]], signaling official acceptance at the highest level of government.
-
-This permissive environment contrasts with the broader drug war context in Peru.
-
-Yet ayahuasca exists entirely outside this enforcement framework, classified as an herbal tonic rather than a drug of concern.
-
-Despite this official acceptance, the religious landscape in indigenous communities is complex.
-
-Pentecostal, Adventist, and Catholic missionaries have converted many community members.
-
-Some converts publicly disavow shamanism while privately continuing ayahuasca practices, creating a dual religious identity that speaks to the deep cultural embeddedness of the practice.
-
-## Infrastructure Challenges
-
-Peru's infrastructure is described as "unpolished," presenting practical challenges for retreat tourism beyond the ceremonial experience itself.
-
-The drug war affects transportation -- cocaine traffickers regularly close the only road connecting Lima to outlying provinces.
-
-Remote retreat centers require river travel, basic accommodations, and tolerance for developing-world conditions.
-
-These infrastructure limitations both protect the authenticity of the experience and constrain the scale of tourism operations.
-## See Also
-
-- [[ayahuasca-tourism-ethics]] — ethical considerations in ayahuasca tourism and commodification
-- [[ayahuasca-tourism-western-seekers-and-integration]] — how Western seekers approach ayahuasca and integrate experiences
-- [[psychedelic-spirituality-and-religion]] — broader context of ayahuasca within psychedelic spiritual traditions

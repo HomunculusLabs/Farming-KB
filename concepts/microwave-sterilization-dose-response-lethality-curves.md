@@ -1,5 +1,5 @@
 ---
-title: [[challenge-microorganisms-microwave-surface-sterilization]] Dose-Response Relationship and Lethality Curves
+title: Microwave Sterilization Dose Response Lethality Curves
 tags: [mycology, sterilization, microwave, dose-response, lethality, microbial-kill, NASA, surface-sterilization]
 created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
@@ -87,53 +87,3 @@ The efficiency of microbial kill depends on four interacting variables:
 1. **Exposure duration**: Longer exposure allows more energy to
    accumulate and more organisms to be killed. The relationship is
    non-linear due to the lag and tail phases.
-
-2. **Exposure intensity**: Higher power density (W/cm²) delivers energy
-   faster, reducing the time required for a given total dose. However,
-   excessively high intensity may cause uneven heating or substrate
-   damage.
-
-3. **Water present**: The trace water film is essential. Without water,
-   microwave energy couples poorly with dry biological material, and
-   kill efficiency drops dramatically. The optimal concentration of
-   approximately 9 μL/cm² provides sufficient water for steam
-   generation without flooding the surface.
-
-4. **Organism type and number**: Spore-forming bacteria require
-   significantly more energy than vegetative cells. Higher initial
-   populations require more total energy to achieve complete kill,
-   following the probabilistic nature of microbial inactivation.
-
-## Engineering Implications
-
-For system designers, the dose-response data defines the minimum
-specifications:
-
-- A microwave sterilization system must deliver at least 13.1 W-hr at
-  3.6 W/cm² to guarantee sterility against a 10⁷ mixed contamination.
-- For lower contamination scenarios (e.g., routine sanitization between
-  uses rather than initial decontamination), the required exposure may
-  be reduced proportionally.
-- The system must ensure uniform coverage of all target surfaces, as
-  any area receiving less than the minimum dose may harbor survivors.
-
-## Comparison with Conventional Sterilization Lethality
-
-Conventional sterilization methods also follow log-linear kill kinetics,
-but with different time-temperature parameters:
-
-- **Autoclaving**: 121°C for 15 minutes achieves a 12-log reduction for
-  most organisms, including spores. The D-value at 121°C is
-  approximately 0.2 minutes for *Geobacillus stearothermophilus* spores.
-- **Dry heat**: 160°C for 2 hours. Slower kill kinetics due to lower
-  heat transfer efficiency in dry environments.
-- **Gamma irradiation**: 25 kGy for sterility assurance. D10-values
-  for bacteria range from 0.1 to several kGy.
-
-Microwave surface sterilization occupies a unique niche: it achieves
-surface sterility faster than autoclaving and with less thermal impact
-on adjacent materials, but it is limited to surface treatment and cannot
-penetrate bulk materials.
-
-## See Also
-- [[mixed-microbial-challenge-organisms-surface-sterilization-testing]]

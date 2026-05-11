@@ -1,5 +1,5 @@
 ---
-title: Turnera diffusa
+title: Turnera Diffusa
 created: 2026-04-28
 type: species
 tags:
@@ -29,7 +29,7 @@ sources:
 
 ## Overview
 
-Turnera diffusa, commonly known as **Damiana**, is a small aromatic shrub native to the subtropical regions of the Americas, from southern Texas through Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and the Caribbean. It has a long history of use in indigenous and folk medicine as an aphrodisiac, nervine tonic, digestive aid, and mild antidepressant. The leaves contain a complex mixture of flavonoids, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], and alkaloids, and are consumed as tea, tincture, extract, or smoked. Damiana remains popular in herbal medicine traditions and the modern botanical supplement industry.
+Turnera diffusa, commonly known as **Damiana**, is a small aromatic shrub native to the subtropical regions of the Americas, from southern Texas through Mexico, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and the Caribbean. It has a long history of use in indigenous and folk medicine as an aphrodisiac, nervine tonic, digestive aid, and mild antidepressant. The leaves contain a complex mixture of flavonoids, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], and alkaloids, and are consumed as tea, tincture, extract, or smoked. Damiana remains popular in [[childrens-herbal-medicine]] traditions and the modern botanical supplement industry.
 
 ## Taxonomy
 
@@ -54,9 +54,9 @@ Damiana is a small, upright to spreading shrub reaching 60–180 cm in height. I
 ## Geographic Distribution
 
 - **[[psilocybin-north-america-pacific-northwest]]:** Southern Texas (Rio Grande Valley) south through Mexico
-- **Central America:** Guatemala, Belize, Honduras, Nicaragua, Costa Rica
+- **[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]:** Guatemala, Belize, Honduras, Nicaragua, Costa Rica
 - **Caribbean:** Cuba, Jamaica, the Bahamas
-- **South America:** Northern Colombia and Venezuela
+- **[[guzman-psilocybin-mushrooms-south-america]]:** Northern Colombia and Venezuela
 
 Cultivated in subtropical regions worldwide (Africa, India, Australia), but commercial production remains centered in Mexico.
 
@@ -72,7 +72,7 @@ Throughout Central America, Damiana leaf tea is a general tonic and relaxant. In
 
 ### Western Herbalism
 
-Damiana entered Western materia medica in the late 19th century. Listed in the US National Formulary (1880–1947) and the British Herbal Pharmacopoeia, it was marketed for "nervous exhaustion" and sexual weakness. Eclectic physicians prescribed it as a nerve tonic and antidepressant.
+Damiana entered Western [[herbal-materia-medica]] in the late 19th century. Listed in the US National Formulary (1880–1947) and the British Herbal Pharmacopoeia, it was marketed for "nervous exhaustion" and sexual weakness. Eclectic physicians prescribed it as a nerve tonic and antidepressant.
 
 ## Active Compounds
 
@@ -88,51 +88,3 @@ Damiana entered Western materia medica in the late 19th century. Listed in the U
 The steam-distilled oil (0.2–0.9% yield) contains 1,8-cineole (~15–20%), α-pinene (~10–15%), β-caryophyllene (~5–10%, CB2 agonist), and minor constituents (p-cymene, β-pinene, borneol).
 
 ### Other Constituents
-
-- **Arbutin:** Hydroquinone glycoside with mild urinary antiseptic properties
-- **Cyanogenic glycosides:** Trace amounts of tetraphyllin B (detoxified at typical doses)
-- **Alkaloids:** Trace caffeine-like compounds
-- **Resins and tannins:** Contribute to the slightly astringent taste
-
-## Pharmacological Research
-
-### Aphrodisiac Effects
-
-A 2009 study in the *Journal of Ethnopharmacology* found Damiana extract significantly increased sexual behavior parameters in male rats. Effects are attributed to combined flavonoid action on the CNS and mild vasodilatory essential oil components. Human [[mushroom-cancer-clinical-trials-overview]] remain limited.
-
-### Anxiolytic and Antidepressant Activity
-
-Apigenin's affinity for GABA-A receptors produces anxiolytic effects comparable to low-dose benzodiazepines in animal models, without sedation, tolerance, or dependency. A 2018 study showed antidepressant-like effects in forced-swim tests, mediated by serotonergic and noradrenergic pathways.
-
-### Gastroprotective and Anti-Diabetic Effects
-
-Damiana extracts demonstrate gastroprotective activity in induced gastric ulcer models (increased mucus, reduced acid secretion, antioxidant mucosal protection). Preliminary *in vitro* studies suggest α-amylase and α-glucosidase inhibition, moderating postprandial glucose spikes.
-
-## Preparation and Dosage
-
-- **Tea (infusion):** 1–2 g dried leaf steeped in 150–250 mL hot water for 10–15 minutes; 2–3 cups daily
-- **Tincture (1:5, 40% alcohol):** 2–4 mL taken 2–3 times daily
-- **Capsules:** 300–500 mg standardized extract, 1–2 capsules twice daily
-- **Smoking:** Traditional Central American method but delivers less predictable dosing
-
-## Safety and Contraindications
-
-- Avoid during pregnancy (traditional use as abortifacient; uterine stimulant)
-- Use cautiously with pharmaceutical antidepressants (potential serotonergic interaction)
-- May potentiate sedatives and blood pressure medications
-- Trace cyanogenic glycosides below toxic thresholds but concerning at very high doses
-- Tannins may reduce iron absorption; separate from iron supplements by 2+ hours
-
-## Permaculture and Cultivation
-
-Damiana is well-suited to warm-climate food forests and permaculture gardens. Drought-tolerant, deer-resistant, and minimal-input once established. Attracts pollinators; serves as a low hedge or understory plant. Propagation by seed (scarification improves germination) or semi-hardwood cuttings. Prefers full sun to partial shade, well-drained soils pH 6.5–7.5. In cooler climates, grow as annual or in containers brought indoors during frost.
-
-## See Also
-
-- [[boerhavia-diffusa]]
-
-- turnera diffusa
-- [[withania-somnifera]] — adaptogenic herb with overlapping nervine and aphrodisiac indications
-- [[bacopa-monnieri]] — nootropic nervine herb from the Ayurvedic tradition
-- comfrey — traditional medicinal plant with permaculture applications
-- [[pausinystalia-yohimbe]]

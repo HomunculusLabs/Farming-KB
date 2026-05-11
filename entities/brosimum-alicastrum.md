@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Brosimum alicastrum, commonly known as the breadnut or ramón tree, is a large evergreen tree in the family Moraceae. It is native to the neotropics, ranging from southern Mexico through Central America to northern South America and the Caribbean.
+Brosimum alicastrum, commonly known as the breadnut or ramón tree, is a large evergreen tree in the family Moraceae. It is native to the neotropics, ranging from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 The species is valued for its edible seeds, which have served as a staple food for indigenous peoples for thousands of years. The seeds are nutritious, high in protein and complex carbohydrates, and can be prepared in various ways.
 
@@ -28,7 +28,7 @@ Breadnut is also an important timber species and a key component of agroforestry
 
 The genus name Brosimum derives from a Greek word meaning "edible," referring to the food value of the seeds. The specific epithet alicastrum combines Latin words for flour and chestnut, alluding to the seed's culinary properties.
 
-The species is experiencing renewed interest as a climate-resilient food crop for tropical regions. Its drought tolerance, nutritional value, and compatibility with agroforestry systems make it a promising candidate for sustainable food security initiatives in Central America.
+The species is experiencing renewed interest as a climate-resilient food crop for [[fukuoka-natural-farming-in-tropical-regions]]. Its [[dighton-fungal-drought-tolerance-plant-water-relations]], nutritional value, and compatibility with agroforestry systems make it a promising candidate for sustainable food security initiatives [[neurotropic-fungi-in-central-america]].
 
 ## Taxonomy and Morphology
 
@@ -80,41 +80,10 @@ The seeds of Brosimum alicastrum have been a staple food for Maya and other Meso
 
 Seeds are prepared by boiling or roasting, after which they can be eaten directly or ground into flour for tortillas, breads, and beverages. The flavor has been described as similar to chestnut or potato, with a mild, nutty taste.
 
-The nutritional composition of the seeds is impressive. They contain approximately 12 to 18 percent protein, 55 to 65 percent complex carbohydrates, 5 to 10 percent fat, and significant amounts of fiber, calcium, potassium, iron, and B vitamins.
+The [[dighton-fungal-nutritional-composition-animal-diets]] of the seeds is impressive. They contain approximately 12 to 18 percent protein, 55 to 65 percent complex carbohydrates, 5 to 10 percent fat, and significant amounts of fiber, calcium, potassium, iron, and B vitamins.
 
 The sweet, orange mesocarp surrounding the seed is also edible and has a mild, melon-like flavor. The latex exudate from the bark has been used historically as a chewing gum base.
 
 **Agroforestry and Restoration:**
 
 Breadnut is widely used in agroforestry systems throughout Central America. Its shade tolerance, rapid growth, and multiple products make it an ideal component of multi-strata agroforests and homegardens.
-
-The species is increasingly planted for ecological restoration of degraded tropical lands. Its deep root system, drought tolerance, and ability to grow on poor soils make it effective for reforestation of degraded pastures and abandoned agricultural land.
-
-**Timber:**
-
-The wood of Brosimum alicastrum is moderately heavy and durable, with a specific gravity of 0.55 to 0.65. It is used for construction, furniture, tool handles, and veneer. The heartwood is reddish-brown and takes a good polish.
-
-## Ecological Role
-
-Brosimum alicastrum is a keystone species in neotropical forests due to its year-round production of fruits that are consumed by a wide variety of wildlife. Over 100 species of birds and mammals are known to feed on breadnut fruits and seeds.
-
-Important mammalian consumers include tapirs, peccaries, agoutis, pacas, howler monkeys, spider monkeys, and kinkajous. These animals serve as seed dispersers, carrying seeds away from the parent tree and facilitating forest regeneration.
-
-The tree provides critical habitat structure as a large canopy tree. Its dense crown offers shade, nesting sites, and refuge for arboreal wildlife. Epiphytes, lianas, and bromeliads frequently colonize its branches.
-
-Breadnut plays an important role in maintaining soil stability and nutrient cycling in tropical forests. Its deep and extensive root system helps prevent erosion on steep slopes, and its leaf litter contributes to nutrient cycling.
-
-The species is a dominant or co-dominant canopy tree in several forest types, particularly in the seasonally dry forests of the Yucatán Peninsula and the Petén region of Guatemala. Its abundance and ecological importance make it a priority species for forest conservation.
-
-## See Also
-
-- [[artocarpus-heterophyllus]]
-- [[ficus-carica]]
-- [[morus-alba]]
-- [[morus-rubra]]
-- [[broussonetia-papyrifera]]
-- [[maclura-pomifera]]
-- [[agroforestry]]
-- [[permaculture]]
-- [[mycorrhiza]]
-- [[ficus-lyrata]]

@@ -87,34 +87,3 @@ Breeding programs for blister rust resistance have been ongoing since the 1950s.
 Planting of resistant stock has restored western white pine to some areas where it was previously extirpated. However, recovery remains slow due to the long generation time and continued pressure from blister rust.
 
 The species is classified as Near Threatened by some conservation assessments, primarily due to the ongoing impacts of blister rust. Climate change compounds the threat by increasing drought stress at lower elevations.
-
-Silvicultural management emphasizes mixed-species plantings and retention of resistant western white pine within predominantly Douglas-fir or grand fir stands. This approach maintains genetic diversity while allowing commercial timber production.
-
-Western white pine is occasionally planted as an ornamental in large landscapes and arboreta. Its graceful form and soft foliage make it an attractive specimen tree, though its large mature size limits urban use.
-
-The species is increasingly valued for ecological restoration in areas where blister rust-resistant stock is available. Reintroduction programs in Idaho's Panhandle National Forest have established over 2,000 hectares of resistant western white pine since 2000.
-
-## Related Species
-
-Western white pine is most closely related to [[pinus-strobus]], eastern white pine, which it closely resembles in needle arrangement and cone morphology. The two species are separated by the Great Plains and are not known to hybridize.
-
-It can be distinguished from [[pinus-lambertiana]], sugar pine, by its smaller cones and shorter needles. Sugar pine produces the longest cones of any pine species, reaching 25–65 cm in length.
-
-Pinus flexilis, limber pine, occupies similar high-elevation habitats but has shorter needles (3–9 cm) and smaller cones (8–15 cm). Limber pine is also more drought-tolerant.
-
-[[abies-grandis]], grand fir, is a common associate that can be confused with western white pine at a distance. Grand fir is readily identified by its flattened needles and erect cones.
-
-## See Also
-
-- [[pinus-strobus]]
-- [[pinus-lambertiana]]
-- [[pseudotsuga-menziesii]]
-- [[tsuga-heterophylla]]
-- [[abies-grandis]]
-- Picea engelmannii
-- [[cedrus-libani]]
-- [[abies-concolor]]
-- [[pinus-ponderosa]]
-- [[pinus-contorta]]
-
-Pinus monticola is one of five Strobus (white pine) species native to western North America, along with [[pinus-lambertiana]], limber pine, lacebark pine, and bristlecone pine.

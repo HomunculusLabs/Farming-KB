@@ -88,36 +88,3 @@ nutrient additions that could create new imbalances or toxicities.
 
 Beyond NPK, cannabis requires secondary nutrients including calcium
 (Ca), magnesium (Mg), and sulfur (S). If leaves are curling up,
-twisting, and going yellow, and light burn and air circulation issues
-have been ruled out, the plant likely needs more magnesium. Epsom salts
-are recommended for this. Adding 1/4 to 1/3 tablespoon of Epsom salts
-to 3 gallons of water is the suggested treatment.
-
-Micronutrient deficiencies can also occur. If veins are green but leaves
-are yellow, this indicates an iron (Fe) problem. If leaves are yellow
-at the base with fine tips, this is a manganese (Mn) problem. Green
-advises keeping Epsom salts and a small canister of micronutrients
-including iron, boron, chlorine, manganese, copper, zinc, and
-molybdenum on hand.
-
-[[knf-calcium-deficiency-symptoms]] can manifest as distorted new growth with brown spots
-on developing leaves. This is particularly common in hydroponic systems
-using RO or distilled water, where calcium is not naturally present. Cal
-mag supplements are the standard solution for addressing calcium and
-magnesium shortfalls simultaneously.
-
-## [[green-cannabis-ph-management-cannabis-growing]]
-is the best prevention against lockout issues.
-
-## Summary
-
-NPK forms the foundation of cannabis nutrition, with nitrogen being most
-critical during vegetative growth and phosphorus plus potassium becoming
-more important during flowering. A systematic approach to diagnosing
-deficiencies by observing leaf symptoms, starting from the location and
-pattern of discoloration, allows growers to identify and correct problems
-before they severely impact plant health and yield.
-
-## See Also
-
-- [[cannabis-nutrient-deficiency-and-toxicity-guide]]

@@ -4,6 +4,7 @@ tags: [fukuoka, desertification, dams, irrigation, salinization, water-policy, e
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 created: 2026-04-28

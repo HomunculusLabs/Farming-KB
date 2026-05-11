@@ -57,7 +57,7 @@ series, 30 cm), 'Purity' (pure white), 'Dazzler' (vivid pink), and the
 
 ### Growth Habit
 
-Cosmos bipinnatus is an erect, branching annual herb growing 60–150 cm tall.
+Cosmos bipinnatus is an erect, branching annual [[herb-growing-guide]] 60–150 cm tall.
 The stems are slender, green to purplish, and sparsely covered with fine hairs.
 Branching is primarily in the upper portion, producing an open, airy habit.
 
@@ -89,62 +89,6 @@ southern states including Morelos, Guerrero, and Oaxaca. It occurs naturally in
 open meadows, pine-oak woodlands, disturbed sites, and along roadsides at
 elevations of 800–2,400 meters.
 
-The species has naturalized in many temperate and subtropical regions
-worldwide, including parts of the United States (particularly the Southeast and
-Southwest), South America, southern Africa, Australia, and southern Europe.
-Naturalized populations are most common along roadsides and in abandoned fields.
-
-It prefers full sun and well-drained soils but tolerates a wide range of soil
-types, including sandy, rocky, and low-nutrient substrates. Excessive soil
-fertility, particularly nitrogen, promotes foliage at the expense of flowers.
-
-## Ecology
-
-Cosmos bipinnatus is an important nectar and pollen source for a diverse
-assemblage of pollinators. The open disc florets are accessible to short-tongued
-bees, hoverflies, and butterflies, while longer-tongued bees such as bumblebees
-work both disc and ray florets.
-
-Primary pollinators include honeybees (Apis mellifera), various Halictid bees,
-smaller native bees (Lasioglossum spp.), and butterflies including monarchs
-(Danaus plexippus), painted ladies (Vanessa cardui), and sulphurs (Colias
-spp.). The flowers also attract syrphid flies, which provide additional
-pollination services and whose larvae prey on aphids.
-
-The foliage is palatable to mammalian herbivores including deer and rabbits,
-though the plants recover quickly from browsing due to their rapid growth rate.
-Aphids (particularly Aphis fabae and Myzus persicae) are the most common insect
-pests. Whiteflies and thrips may occur in greenhouse cultivation.
-
-## Cultivation and History
-
-Cosmos bipinnatus is one of the easiest annuals to grow from seed. Direct
-sowing after the last frost is preferred, as transplanting can disturb the
-taproot and delay flowering. Seeds germinate in 7–10 days at 20–25°C and
-typically flower within 60–75 days from sowing.
-
-Optimal conditions include full sun (6+ hours daily) and well-drained soil of
-low to moderate fertility. Space plants 30–45 cm apart. Deadheading extends
-the bloom period and prevents excessive self-seeding. The species is widely
-used in cottage gardens, cutting gardens, pollinator meadows, and as a
-background plant in mixed borders. Dwarf cultivars are suitable for containers,
-and flowers have a vase life of 5–7 days as cut flowers.
-
-The species was introduced to European horticulture in the late 18th century
-by Spanish collectors. It gained widespread popularity in Victorian gardens and
-has received the Royal Horticultural Society's Award of Garden Merit. The genus
-Cosmos contains approximately 36 species, all native to the Americas. Close
-relatives include Cosmos sulphureus (yellow cosmos) and Cosmos atrosanguineus
-(chocolate cosmos). The genus name derives from the Greek kosmos, meaning
-"order" or "ornament."
-
 ## See Also
-
-- [[coreopsis-tinctoria]] — Coreopsis in the same tribe, sharing similar flower structure
-- [[rudbeckia-hirta]] — Black-eyed Susan, another widely cultivated Asteraceae annual
-- [[tagetes-lucida]] — Mexican marigold, co-native ornamental from similar habitats
-- [[bidens-pilosa]] — Bidens, a close Coreopsideae relative with similar seed morphology
-- [[echinacea-purpurea]] — Purple coneflower, companion pollinator plant in gardens
-- [[chrysanthemum-morifolium]] — Chrysanthemum, larger cultivated Asteraceae with similar form
-- [[calendula-officinalis]] — Pot marigold, another easy annual with medicinal uses
-- [[gaillardia-aristata]] — Blanket flower, drought-tolerant Asteraceae ornamental
+- [[garden-myths-native-plants-and-invasive-species]]
+- [[salt-tolerant-fodder-species]]

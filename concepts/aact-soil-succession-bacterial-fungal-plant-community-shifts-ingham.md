@@ -1,0 +1,90 @@
+---
+title: "Soil Succession and Bacterial-to-Fungal Community Shifts"
+source: "The Field Guide I for [[actively-aerated-compost-tea]] Tea (AACT) - Dr. Elaine Ingham"
+tags: [aact, succession, soil-foodweb, bacteria, fungi, ecology, plant-community, ingham]
+type: concept
+created: 2026-05-10
+---
+
+# Soil Succession and Bacterial-to-Fungal Community Shifts
+
+Soil succession describes the predictable progression of soil [[cannabis-rhizosphere-microbial-communities]] from
+bacterial-dominated early stages to fungal-dominated late stages, and how these shifts
+directly determine which plant species can thrive. This concept is central to [[soil-foodweb]]
+management and foundational to aact practice.
+
+## Ecological Succession in Soil Microbiology
+
+Ecological succession operates just as powerfully below ground as above, driven by the
+microbial community's composition and the soil conditions those organisms create over time.
+
+- **Early succession soils** are dominated by bacteria, with higher pH, high nitrate
+  availability, and rapid nutrient cycling. Typical of disturbed sites and tilled fields.
+- **Late succession soils** are dominated by fungi, more acidic, with slower nutrient
+  release dominated by ammonium and organic nitrogen. Characteristic of mature forests
+  and undisturbed perennial systems.
+
+A single gram of good soil contains **25,000+ species of bacteria**. This enormous
+diversity is structured along successional gradients — different assemblages emerge at
+different stages. Diversity drives succession because each group modifies soil conditions
+to favor the next community.
+
+## How Soil Organisms Drive Successional Transitions
+
+Soil organisms actively create the conditions for the next successional stage:
+
+1. **Bacteria** colonize disturbed soils rapidly, consuming simple carbon and producing
+   bacterial slime that builds micro-aggregates.
+2. **Protozoa and bacterial-feeding nematodes** consume bacteria, releasing ammonium
+   through the nutrient cycling loop, creating nitrate-rich environments favoring
+   fast-growing annuals.
+3. **Fungi** establish as complex carbon becomes available, binding micro-aggregates
+   into macro-aggregates and improving soil structure.
+4. **Fungal-feeding nematodes and microarthropods** cycle fungal biomass, releasing
+   nitrogen more slowly in patterns favoring perennials and woody plants.
+5. **Mycorrhizal fungi** form associations with late-successional plants, extending
+   their reach for phosphorus, water, and micronutrients.
+
+## Plant Community-Microbiome Coupling
+
+Soil organisms strongly influence which plants can establish. Plants provide carbon
+substrates, but the microbial community largely determines competitive outcomes.
+
+### Early Successional Plants (Bacterial Soils)
+- Weeds, annuals, and ruderal species with fast growth and short life cycles
+- Prefer nitrate-dominant, bacterial-dominated soils
+- Examples: pigweed, lambsquarters, foxtail, crabgrass
+- Rapid nitrate availability matches their high growth-rate metabolism
+
+### Late Successional Plants (Fungal Soils)
+- Perennials, shrubs, trees, and climax community species
+- Slower growth, longer life cycles, deeper root systems
+- Require fungal-dominated soils with ammonium and organic N forms
+- Depend on [[mycorrhizal-networks-and-forest-communication]] slower nutrient release patterns
+
+## Shifting Plant Communities Through Soil Biology
+
+The most powerful implication of succession theory: **plant species composition can be
+shifted by altering [[ph-and-nutrient-availability-garden-soils]] through soil biology** — not by directly
+killing unwanted plants.
+
+### Anne Kennedy's Work and the Alternative Mechanism
+
+Anne Kennedy's research explored weed seed decay — the idea that soil organisms
+directly break down weed seeds in the seed bank. While this mechanism has merit, Ingham
+proposes a complementary and potentially more powerful alternative: **weed species
+composition shifts because soil nutrient availability changes**.
+
+When soil biology shifts from bacterial to fungal dominance, nitrate levels drop,
+ammonium and organic nitrogen become more available, and fast-growing annual weeds lose
+their competitive advantage. Perennial species previously suppressed by nitrate-favoring
+conditions can now establish and outcompete them.
+
+### Ingham's Observational Evidence
+
+Dr. Ingham's conclusions come from extensive field observations across pastures, row
+crops, orchards, and restored landscapes. Practitioners consistently report that after
+applying compost teas and improving soil biology:
+
+- Weed species composition changes within one to three growing seasons
+- Problematic annual weeds decrease as perennial species increase

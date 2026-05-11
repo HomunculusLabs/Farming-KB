@@ -22,7 +22,7 @@ sources:
 
 It is native to temperate and subarctic regions of the Northern Hemisphere, where it grows in ponds, lakes, slow-moving rivers, and marshes.
 
-The species is notable for its dimorphic leaf morphology — producing both floating leaves at the water surface and submerged leaves below.
+The species is notable for its dimorphic [[cannabis-leaf-morphology-and-phyllotaxy]] — producing both floating leaves at the water surface and submerged leaves below.
 
 It plays an important ecological role as habitat and food for aquatic invertebrates, fish, and waterfowl.
 
@@ -54,11 +54,11 @@ The fruit is a small drupe-like achene, approximately 3 mm long, with a prominen
 
 ## Distribution and Habitat
 
-**Potamogeton natans** has a circumboreal distribution across Europe, northern Asia, and North America.
+**Potamogeton natans** has a circumboreal distribution across Europe, northern Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 In Europe it occurs from Scandinavia and the British Isles south to the Mediterranean region, though it becomes less common in southern areas.
 
-Across North America it ranges from Alaska and northern Canada to the northern United States, extending south in mountainous regions.
+Across North America it ranges from Alaska and northern Canada to the northern [[dmt-containing-plants-united-states-halpern]], extending south in mountainous regions.
 
 It is also reported from isolated populations in Greenland and Iceland.
 
@@ -84,49 +84,6 @@ This shading effect can suppress competing submerged macrophyte species in dense
 
 Detritus from senescing leaves contributes [[hamilton-composting-and-organic-matter-management]] to the benthic food web during autumn leaf-fall.
 
-The species serves as a substrate for periphyton growth, supporting diverse algal and microbial communities.
+The species serves as a substrate for periphyton growth, supporting diverse algal and [[cannabis-rhizosphere-microbial-communities]].
 
 Aphids and other herbivorous insects occasionally feed on submerged leaf tissues, though significant herbivory pressure is uncommon.
-
-## Human Uses
-
-**Potamogeton natans** is used in [[comparison-constructed-wetlands-vs-bioswales]] and natural pond restoration projects for water quality improvement.
-
-Its dense growth absorbs dissolved nutrients including nitrogen and phosphorus, reducing eutrophication in small water bodies.
-
-The species is planted in garden ponds and ornamental water features for its attractive floating foliage.
-
-In traditional European herbalism, the plant had minor medicinal applications as a poultice for wounds and skin irritation.
-
-Aquaculture operations use *P. natans* beds as shelter and foraging habitat for commercially reared fish fry.
-
-The plant is harvested in some regions as green manure or compost material for agricultural application.
-
-Ecologists use *P. natans* as a bioindicator species for assessing freshwater ecosystem health and trophic status.
-
-## Cultivation
-
-Propagation is achieved through rhizome division, turion planting, or seed sowing in saturated substrates.
-
-Rhizome segments of 5–10 cm with at least one node root readily when placed in 5–15 cm of water.
-
-Turions — compact overwintering buds — can be collected in autumn and stored refrigerated in damp moss until spring planting.
-
-Seeds require cold stratification at 4°C for 4–8 weeks to break dormancy before germination.
-
-Optimal growth temperature ranges from 18–25°C during the active growing season from May to September.
-
-The species is generally free of serious [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] in cultivation, though snail grazing can damage young shoots.
-
-Regular thinning of dense stands prevents oxygen depletion and maintains healthy water circulation in contained ponds.
-
-## See Also
-
-- [[potamogeton-perfoliatus]]
-
-- [[nuphar-lutea]]
-- [[lemna-minor]]
-- [[pistia-stratiotes]]
-- [[pontederia-cordata]]
-- typha-latifolia-entity
-- wetland

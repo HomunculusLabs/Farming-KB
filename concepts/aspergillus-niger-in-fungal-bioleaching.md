@@ -88,14 +88,3 @@ A. niger has also been used for recycling metals from waste materials including 
 - Scalable in batch and two-step processes
 
 - Potential for metal recovery from electronic waste and industrial residues
-
-- Operation close to natural biogeochemical cycles
-
-## See Also
-
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
-
-- [[mycoremediation-of-heavy-metals]]
-
-- [[staycare-fungal-heterotrophic-leaching-biosorption]]
-- [[fungal-metal-redox-transformations]]

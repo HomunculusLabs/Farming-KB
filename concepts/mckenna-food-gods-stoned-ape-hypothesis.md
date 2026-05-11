@@ -88,23 +88,3 @@ Still higher doses of psilocybin consumed less frequently would activate the vis
 ## Roland Fischer's Research
 
 In research done in the late 1960s, Roland Fischer gave small amounts of psilocybin to graduate students and then measured their ability to detect the moment when previously parallel lines became skewed. He found that performance ability on this particular task was actually improved after small doses of psilocybin. Fischer summed up: "You see what is conclusively proven here is that under certain circumstances one is actually better informed concerning the real world if one has taken a drug than if one has not."
-
-This finding suggests that low doses of psilocybin could confer a genuine adaptive advantage, supporting the hypothesis that psilocybin consumption was a significant factor in hominid evolution.
-
-## See Also
-- [[mckenna-food-gods-tassili-cave-paintings]]
-- Mckenna Tryptamines Consciousness
-
-## Criticisms and Counterarguments
-
-The Stoned Ape hypothesis faces several serious scientific criticisms:
-
-- **No archaeological evidence**: There is no fossil or archaeological record of psilocybin mushroom consumption by early hominids. Fungi rarely fossilize, making direct evidence impossible to obtain.
-- **Dosage uncertainties**: The behavioral effects described by McKenna (visual acuity, sexual arousal, ego dissolution) require different dosage levels, yet early hominids would have had no way to control dosage when foraging wild mushrooms.
-- **Alternative explanations**: The "social brain hypothesis" provides a well-supported explanation for human brain expansion based on the cognitive demands of navigating complex social groups. Tool use, fire, cooking, and language also have strong archaeological support as drivers of cognitive evolution.
-- **Speculative chain of reasoning**: The hypothesis connects many speculative steps — from mushroom consumption to visual acuity enhancement to selective advantage to brain expansion — without empirical evidence for each link.
-
-Despite these criticisms, McKenna's hypothesis remains valuable as a thought experiment that challenges the assumption that psychoactive plant use is purely a cultural phenomenon with no biological basis in human evolution. The interdisciplinary dialogue between ethnobotany, neuroscience, and evolutionary biology that the hypothesis has inspired may ultimately yield more nuanced insights into the co-evolutionary relationship between humans and psychoactive plants.
-- [[mckenna-diet-symbiosis-human-evolution]]
-- [[psychedelic-mushroom-art-and-iconography]]
-- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]

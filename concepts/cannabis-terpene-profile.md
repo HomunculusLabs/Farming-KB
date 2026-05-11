@@ -7,10 +7,10 @@ tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, m
 sources: []
 ---
 # Cannabis Terpene Profile
-Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
+Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. [[cannabis-terpene-entourage-effect]] — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 
-Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various ecological functions:
+Terpenes (or terpenoids when modified) are a large class of volatile [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] produced by plants. They serve various ecological functions:
 
 - Attracting pollinators with scent
 - Repelling herbivores and pests
@@ -68,18 +68,18 @@ A floral terpene with well-documented calming and sedative properties.
 
 ### Beta-Caryophyllene
 
-Unique among terpenes because it also acts as a dietary cannabinoid — it directly activates CB2 receptors.
+Unique among terpenes because it also acts as a [[beta-caryophyllene-dietary-cannabinoid]] — it directly activates CB2 receptors.
 
 - Aroma: peppery, spicy, woody, clove-like
 - Effects: anti-inflammatory, analgesic, stress relief. CB2 activation provides anti-inflammatory benefits without psychoactive effects
 - Strain associations: found across all strain types, especially "Diesel" and "OG" varieties
 - Also found in: black pepper, cloves, cinnamon, copaiba balsam
 - Boiling point: 320°F (160°C)
-- Notes: Beta-caryophyllene is the only terpene known to directly bind to cannabinoid receptors. This makes it relevant to discussions of the [[cannabis-flavonoids]] and cannabinoid synergy
+- Notes: Beta-caryophyllene is the only terpene known to directly bind to [[cannabinoid-receptors-cb1-and-cb2]]. This makes it relevant to discussions of the [[cannabis-flavonoids]] and cannabinoid synergy
 
 ### Humulene
 
-An earthy, woody terpene also prominent in hops (Humulus lupulus).
+An earthy, woody terpene also prominent in hops ([[humulus-lupulus]]).
 
 - Aroma: earthy, woody, spicy, slightly herbal (hops, coriander)
 - Effects: appetite suppressant, anti-inflammatory, pain relief
@@ -128,7 +128,7 @@ The genetic foundation determines which terpenes a plant can produce and in what
 
 ### Light Spectrum
 
-UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex terpene profiles than narrow-band LED. See [[cannabis-lighting-guide]] for details.
+UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex [[cannabis-terpene-profiles]] than narrow-band LED. See [[cannabis-lighting-guide]] for details.
 
 ### Temperature
 
@@ -147,4 +147,3 @@ Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity 
 Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
 
 ## The Entourage Effect
-

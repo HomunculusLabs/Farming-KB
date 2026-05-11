@@ -1,5 +1,5 @@
 ---
-title: "[[carnot-cycle-vs-rankine-cycle]]"
+title: Rankine Cycle
 aliases: [steam power cycle, vapor power cycle, Clausius-Rankine cycle]
 tags: [thermodynamics, power-engineering, heat-engines, energy, engineering]
 created: 2026-05-02
@@ -88,43 +88,6 @@ They are used with geothermal brines, industrial waste heat, biomass systems, so
 
 Some organic fluids produce dry or isentropic expansion behavior, reducing the risk of turbine blade erosion from liquid droplets.
 
-## Supercritical and Advanced Cycles
-
-Supercritical steam cycles operate above the critical pressure of water, eliminating a distinct boiling plateau in the boiler.
-
-They can achieve higher efficiencies by increasing the mean temperature of heat addition.
-
-Combined-cycle plants use a gas turbine topping cycle and a Rankine bottoming cycle to recover exhaust heat.
-
-## Equipment Interpretation
-
-The pump is small in power demand but critical for pressure control and feedwater delivery.
-
-The boiler or steam generator is a coupled heat-transfer, combustion, nuclear, or solar receiver system rather than a single ideal component.
-
-The turbine converts enthalpy drop into rotating shaft power through staged nozzles and blades.
-
-The condenser is a heat sink interface and often a major determinant of plant location and water use.
-
-## Practical Metrics
-
-Heat rate expresses how much fuel energy is required per unit electrical output.
-
-Back work ratio is small for steam Rankine cycles but much larger for gas cycles such as Brayton systems.
-
-Specific steam consumption relates mass flow rate to power output and is useful for turbine sizing.
-
-Moisture fraction at turbine exit affects erosion, efficiency, and maintenance intervals.
-
-## Common Pitfalls
-
-Confusing Carnot efficiency with achievable Rankine efficiency hides the effects of finite heat transfer and equipment limits.
-
-Ignoring condenser pressure can miss one of the strongest influences on turbine work and plant heat rate.
-
-Using ideal isentropic expansion without moisture checks can produce turbine outlet states that are mechanically unacceptable.
-
 ## See Also
-- [[phase-change-materials-thermal-energy-storage]]
-- [[heat-transfer-mechanisms]]
-- [[corrosion-electrochemistry]]
+- [[carnot-cycle-vs-rankine-cycle]]
+- [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]

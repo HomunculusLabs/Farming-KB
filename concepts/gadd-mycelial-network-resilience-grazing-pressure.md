@@ -1,5 +1,5 @@
 ---
-title: Mycelial [[gadd-mycelial-network-resilience-graph-theory]] to Grazing Pressure - Gadd
+title: Gadd Mycelial Network Resilience Grazing Pressure
 source: Fungi in the Environment - Gadd, Watkinson, Dyer (2006)
 source_path: ~/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 topics: mycology, [[gadd-mycelial-network-dynamics]], grazing, defense, fungal resilience, collembola, nematodes, soil ecology
@@ -88,32 +88,3 @@ species with high metabolic rates may prioritize rapid regrowth over chemical
 defense, accepting grazing losses as a cost of their exploitative growth
 strategy. Slow-growing, resource-conservative species with extensive mycelial
 networks may rely more on physical defenses and resource redistribution. The
-grazing resistance strategies of a particular fungal species reflect its
-overall life history [[natural-farming-guide-forest-garden-strategy-and-ecological-succession]] niche. Understanding these
-species-specific differences is important for predicting how fungal
-communities will respond to changes in grazer populations, such as those
-caused by agricultural management practices or environmental contamination.
-## Implications for Soil Food Web Management
-
-The resilience of [[fungal-mycelial-networks-nutrient-translocation]] to grazing has important implications for
-soil food web management in agriculture and horticulture. A healthy soil food
-web includes both fungi and their grazers, and the dynamic interaction between
-them drives [[soil-protozoa-nutrient-cycling-and-mineralization]] organic matter decomposition. Practices that
-eliminate fungal grazers, such as excessive tillage or broad-spectrum
-pesticide application, may reduce the overall productivity of the soil food
-web by disrupting the grazing-fungus feedback loop. Conversely, practices that
-support diverse grazer populations, such as maintaining surface organic matter
-and reducing soil disturbance, can enhance the overall function of the soil
-ecosystem by promoting healthy fungal-grazer dynamics.
-
-## See Also
-
-- [[gadd-soil-invertebrate-grazing-mycelial-responses]]
-
-- gadd-fungal-secondary-metabolites.md
-- gadd-hyphal-tip-growth-and-polarization.md
-- gadd-vacuolar-system-long-distance-transport-fungi.md
-- ingham-protozoa-nutrient-cycling.md
-## References
-
-- Fungi in the Environment - Gadd, Watkinson, Dyer (2006).

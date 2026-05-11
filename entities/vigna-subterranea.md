@@ -61,7 +61,7 @@ Bambara groundnut is believed to have been domesticated in West Africa, likely i
 
 Today it is cultivated across sub-Saharan Africa, from Senegal to Ethiopia and south to Mozambique and Madagascar.
 
-It is also grown in parts of Southeast Asia, South America, and northern Australia, though primarily as a subsistence crop.
+It is also grown in parts of [[psilocybe-southeast-asia-pacific]], [[guzman-psilocybin-mushrooms-south-america]], and northern Australia, though primarily as a subsistence crop.
 
 The crop is well-adapted to sandy, infertile soils with low [[hamilton-composting-and-organic-matter-management]] and pH as low as 4.5.
 
@@ -77,45 +77,14 @@ Planting is typically done at the onset of rains, with harvest 120–150 days la
 
 Bambara groundnut seeds are nutritionally dense, containing 18–25% protein, 55–65% carbohydrate, and 6–8% fat.
 
-The protein is rich in the essential amino acids lysine, methionine, and tryptophan, making it a valuable complement to cereal-based diets.
+The protein is rich in the essential amino acids lysine, methionine, and [[tryptophan]], making it a valuable complement to cereal-based diets.
 
 It is considered to have a more balanced amino acid profile than most other [[query-best-grain-legumes-for-a-small-homestead]].
 
 The seeds are a good source of iron, zinc, calcium, magnesium, and B vitamins, particularly folate and thiamine.
 
-The fat content is predominantly unsaturated fatty acids, including linoleic and oleic acid.
+The fat content is predominantly unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], including linoleic and oleic acid.
 
 [[kava-traditional-preparation-ceremonial-context]] methods include boiling, roasting, and milling into flour for making porridge and flatbreads.
 
 A fermented product called "okpa" is popular in southeastern Nigeria, made from bambara groundnut flour wrapped in banana leaves.
-
-## Ecological Role
-
-As a legume, bambara groundnut fixes atmospheric nitrogen through symbiosis with Bradyrhizobium bacteria in root nodules.
-
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] rates are estimated at 30–80 kg per hectare per [[savory-growing-season-and-non-growing-season-management]].
-
-This makes it valuable in crop rotations for improving soil fertility without external nitrogen inputs.
-
-The crop's [[dighton-fungal-drought-tolerance-plant-water-relations]] and low soil requirements make it ideal for intercropping with cereals such as millet and sorghum.
-
-Its creeping growth habit provides ground cover that reduces soil erosion and conserves soil moisture.
-
-The crop contributes to dietary diversity and food security in regions vulnerable to climate variability and drought.
-
-## Related Species
-
-**Vigna unguiculata** (cowpea) is the closest cultivated relative and the most widely grown Vigna species in Africa.
-
-**Arachis hypogaea** (peanut) is not closely related taxonomically but shares the geocarpic fruiting habit of producing pods underground.
-
-**Vigna angularis** (adzuki bean) and **Vigna radiata** (mung bean) are Asian Vigna species with similar nutritional profiles.
-
-Several wild Vigna species in Africa serve as genetic resources for breeding programs targeting drought and disease resistance.
-
-## See Also
-
-- [[cajanus-cajan]]
-- [[cicer-arietinum]]
-- [[phaseolus-vulgaris]]
-- [[pennisetum-glaucum]]

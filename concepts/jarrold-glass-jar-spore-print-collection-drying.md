@@ -1,6 +1,6 @@
 ---
-title: "Jarrold Glass Jar Spore Print Collection, Sterilization, and Drying Technique"
-source: "Jarrold - Indoor Mushroom Growing Technique for the Boil-A-Bag"
+title: Jarrold Glass Jar Spore Print Collection Drying
+source: "Jarrold - Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag"
 tags: [mushroom, spore-print, sterilization, glass-jar, collection, drying, storage, jarrold]
 created: 2026-05-10
 ---
@@ -9,8 +9,8 @@ created: 2026-05-10
 
 ## Overview
 
-The Jarrold method uses small glass jars for spore [[sterile-spore-print-collection-glass-jar-technique]] print collection, offering a
-practical and reusable approach to harvesting and storing mushroom spores for future
+The [[spore-syringe-preparation-jarrold-method]] uses small glass jars for spore [[sterile-spore-print-collection-glass-jar-technique]] print collection, offering a
+practical and reusable approach to harvesting and storing [[query-how-to-store-mushroom-spores-long-term]] for future
 cultivation. Unlike the traditional paper or foil spore print methods, the glass jar
 technique produces spore prints that are immediately stored in sterile, sealable
 containers — reducing contamination risk and simplifying long-term storage. This
@@ -48,7 +48,7 @@ The following equipment is needed at the growing tank for spore print collection
 - Sterilized glass jars with lids
 - Metal tweezers
 - Metal scissors
-- Methylated spirit burner (for flame sterilization)
+- Methylated spirit burner (for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]])
 - Breathing mask or clean handkerchief (to prevent the grower's breath from
   contaminating the spore solution)
 
@@ -87,62 +87,3 @@ Not all mushroom caps are equally suitable for spore printing. Ideal candidates 
 - The breathing mask must be worn throughout the entire procedure.
 
 ## Drying Phase
-
-### Initial Drying (In-Jar)
-After the cap is placed gills-down in the jar with a loose lid, it is left for at
-least 24 hours for spores to settle on the bottom of the jar. During this time,
-spores drop from the gills onto the glass surface below, forming a visible spore
-print pattern. Any moisture on the cap or spores gradually evaporates through the
-loose lid.
-
-### Secondary Drying (Post-Cap Removal)
-After the initial 24-hour period:
-1. Remove the mushroom caps from the jars using flame-sterilized tweezers.
-2. Stand the open jars (without caps) in a clean, draft-free area for a further
-   24 hours.
-3. This second drying period ensures that residual moisture is completely removed
-   from the spore deposit.
-4. Properly dried spores are less likely to support bacterial or fungal
-   contamination during long-term storage.
-
-### Final Sealing
-Once the spores are thoroughly dry (after the second 24-hour period), the jar lids
-are firmly tightened for long-term storage. The sealed jars can be stored in a cool,
-dark location until needed for future cultivation. Properly dried and sealed spore
-prints stored in glass jars can remain viable for months to years, depending on
-species and storage conditions.
-
-## Advantages of the Glass Jar Method
-
-### Immediate Containment
-Unlike paper or foil spore prints that require transfer to a storage container, the
-glass jar method collects and stores spores in the same vessel, eliminating a
-contamination risk point.
-
-### Visibility
-Glass jars allow visual inspection of the spore print without opening the container.
-The grower can assess spore colour, density, and any signs of contamination without
-exposing the print to air.
-
-### Reusability
-Glass jars can be re-sterilized and reused indefinitely, making this method
-economical for growers who regularly harvest spore prints.
-
-### Moisture Control
-The two-stage drying process (loose lid then open jar) provides thorough moisture
-removal, which is critical for long-term spore viability. Moisture is the primary
-enemy of stored spores, promoting both degradation and contamination.
-
-### Integration with the Syringe Method
-The glass jar spore prints integrate directly with the Jarrold spore syringe
-preparation method. Sterile water is added to the jar, spores are loosened with a
-flame-sterilized scraper, and the resulting spore solution is drawn into a syringe
-for inoculation of new bags. This creates a complete, self-contained cultivation
-cycle.
-
-## See Also
-
-- [[boil-a-bag-spore-print-technique-jarrold]]
-- [[spore-syringe-preparation-jarrold-method]]
-- [[spore-syringe-water-sterilization-preparation-jarrold]]
-- [[mushroom-spore-printing-and-storage]]

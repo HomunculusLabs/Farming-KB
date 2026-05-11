@@ -6,6 +6,7 @@ type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Forest Garden Seven Layers
 
@@ -86,16 +87,3 @@ Patrick Whitefield further popularized temperate forest gardening in his book *H
 ## Benefits of the Seven-Layer Model
 
 A fully developed forest garden exploiting all seven layers offers several profound advantages:
-
-- **Maximum habitat**: Three-dimensional vegetation provides the greatest possible range of niches for birds, insects, fungi, and other organisms
-- **Largest crop yields per space**: Multiple harvests from each vertical zone multiply total production per unit area
-- **Greatest edge and diversity**: The interfaces between layers create extensive edge zones, following the [[teaming-with-microbes-no-till-gardening-soil-health]] by design
-- **Low maintenance**: Once established, a mature forest garden requires far less labor than a conventional [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], as the ecosystem largely maintains itself
-
-## Related Concepts
-
-- [[fruit-tree-guild-roles]] -- guilds are the building blocks within each tree's zone of influence
-- [[chop-and-drop-mulching]] -- the self-mulching cycle that sustains forest garden soil
-- edge-effect-in-permaculture -- why layer interfaces boost diversity and productivity
-
-- [[forest-garden-design-principles]]

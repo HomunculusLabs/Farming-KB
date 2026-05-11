@@ -5,6 +5,7 @@ updated: 2026-04-23
 type: concept
 tags: [cannabis, genetics, strain-guide, sativa, conservation]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 ---
 
@@ -16,7 +17,7 @@ sources:
 
 A landrace strain is distinguished by several key characteristics. It has developed in a specific geographic region through natural selection, often cultivated by indigenous peoples using traditional methods. Landraces tend to be genetically stable and homozygous, producing consistent offspring when grown from seed. They typically exhibit the wild, adaptive traits that have been bred out of many commercial hybrids: vigorous growth, environmental resilience, extended flowering periods, and complex cannabinoid and [[cannabis-terpene-profiles-sativa]].
 
-Landrace sativas are generally tall, lanky plants with thin leaves, long internodal spacing, and a tendency to stretch dramatically during flowering. They often require 12-16 weeks or more to mature. Their buds tend to be looser and less dense than modern hybrids, but frequently contain exceptional resin and unique aromatic profiles.
+Landrace sativas are generally tall, lanky plants with thin leaves, long internodal spacing, and a tendency to stretch dramatically during flowering. They often require 12-16 weeks or more to mature. Their buds tend to be looser and less dense than modern hybrids, but frequently contain exceptional resin and unique [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]].
 
 ## African Landrace Sativas
 
@@ -24,7 +25,7 @@ Africa has contributed some of the most important and distinctive sativa landrac
 
 ### Durban Poison (South Africa)
 
-Durban Poison, originating from the port city of Durban on South Africa's east coast at approximately 30 degrees south latitude, holds a special place in [[oner-cannabis-breeding-fundamentals]] history. Its most remarkable trait is early flowering: in the northern hemisphere, Durban Poison begins flowering outdoors in late June and finishes by the second half of September. This early finishing characteristic is extremely dominant in hybrids, making Durban Poison genetics invaluable for outdoor cultivators in temperate climates who need to harvest before autumn rain and frost.
+Durban Poison, originating from the port city of Durban on South Africa's east coast at approximately 30 degrees south latitude, holds a special place in [[oner-cannabis-breeding-fundamentals]] history. Its most remarkable trait is early flowering: in the northern hemisphere, Durban Poison begins flowering outdoors in late June and finishes by the second half of September. This early finishing characteristic is extremely dominant in hybrids, making Durban Poison genetics invaluable for outdoor cultivators [[query-how-to-grow-and-use-oca-in-temperate-climates]] who need to harvest before autumn rain and frost.
 
 The strain was introduced to Northern California in the late 1970s and early 1980s by surfers who brought seeds back from South Africa. It quickly became prized for creating Durban Poison hybrids that could finish before the coastal fog and rain season, a trait highly valued by outdoor growers along the Pacific coast.
 
@@ -46,7 +47,7 @@ The cannabis varieties of Mexico, Colombia, Panama, and Brazil formed the backbo
 
 ### Mexican Landraces
 
-Acapulco Gold, one of the most famous named cannabis strains in history, originated as a landrace from the Acapulco region of Mexico. The heirloom Mexican sativa genetics produce plants that are wild and challenging to cultivate but reward the patient grower with effects described as hallucinogenic. Mexican landraces from Oaxaca were particularly prized — The Rev recalls acquiring Oaxacan for ten dollars as a young man in the 1970s, describing the "massive red haired sativa" that produced extraordinary effects.
+Acapulco Gold, one of the most famous named [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] in history, originated as a landrace from the Acapulco region of Mexico. The [[acapulco-gold-heirloom-mexican-sativa]] genetics produce plants that are wild and challenging to cultivate but reward the patient grower with effects described as hallucinogenic. Mexican landraces from Oaxaca were particularly prized — The Rev recalls acquiring Oaxacan for ten dollars as a young man in the 1970s, describing the "massive red haired sativa" that produced extraordinary effects.
 
 These Mexican landraces, along with those from Colombia and other Central and South American countries, were the foundation of the cannabis culture that defined an era. As The Rev notes, "This is the pot that made the 60s and 70s so special."
 
@@ -70,7 +71,7 @@ Southeast Asia has contributed perhaps the most revered family of sativa genetic
 
 Thai sativas are among the most potent and distinctive cannabis varieties in the world. Wild Thailand, sourced from the Ko Chang archipelago in Thailand, produces a "very tall plant with almost uncontrollable growth" that requires staking and training. Despite Thailand's archaic anti-cannabis laws and severe penalties, Thai landraces remain highly prized and are smuggled in and out of Bangkok regularly, testimony to how valued these genetics are both inside and outside the country.
 
-Thai varieties produce intensely psychoactive effects and complex flavors. The Rev lists Thai among his favorite Southeast Asian sativa varieties alongside Haze, Vietnam Black, and Cambodian. First encountered by Western growers in the mid-1980s, Thai genetics formed the foundation of the Haze breeding projects that would revolutionize cannabis.
+Thai varieties produce intensely psychoactive effects and complex flavors. The Rev lists Thai among his favorite [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] varieties alongside Haze, Vietnam Black, and Cambodian. First encountered by Western growers in the mid-1980s, Thai genetics formed the foundation of the Haze breeding projects that would revolutionize cannabis.
 
 ### Vietnamese Landraces
 
@@ -84,19 +85,6 @@ South Indian landrace varieties have been stabilized over generations and retain
 
 ### Nepalese Genetics
 
-Nepalese landrace sativas contribute to the high-altitude cannabis tradition of the Himalayan region. The Sherpa strain from Tight Genes, bred from Nepalese Haze genetics, exemplifies the heavy resin production and cold-climate adaptation of Himalayan cannabis varieties.
+Nepalese landrace sativas contribute to the high-altitude cannabis tradition of the Himalayan region. The Sherpa strain from Tight Genes, bred from Nepalese Haze genetics, exemplifies the heavy [[cannabis-resin-production-and-quality-traits-clarke]] cold-climate adaptation of Himalayan cannabis varieties.
 
 ## The Importance of Landrace Preservation
-
-Landrace cannabis varieties represent an irreplaceable genetic resource. As commercial breeding focuses increasingly on [[cervantes-hybrid-varieties-types]] optimized for indoor production, the pure landrace gene pool shrinks. The Rev notes that genuine Panama Red, real deal Acapulco Gold, and authentic Vietnamese Black have become vanishingly rare, with "only watered down versions" available in seed form.
-
-Preservation efforts by breeders like SnowHigh Seeds, who select heirloom genetics from their native regions, are critical. These landraces contain genetic diversity that may be essential for future breeding programs, particularly as disease pressure, climate change, and evolving consumer preferences create new demands on the cannabis gene pool. Several breeders featured in modern strain guides specifically mention their dedication to seeking out, stabilizing, and preserving landrace sativas from across the globe.
-
-## See Also
-
-- [[cannabis-landrace-and-heirloom-varieties]]
-- [[cannabis-colombian-strain-description-clarke]]
-- [[cannabis-mexican-strain-description-clarke]]
-- [[cannabis-sativa-dominant-growing-challenges]]
-- [[cannabis-genetics-and-breeding]]
-- [[marijuana-strain-guide-sativa]]

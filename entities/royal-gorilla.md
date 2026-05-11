@@ -12,17 +12,17 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Snoop Dogg's Leafs by Snoop (2016). \"Royal Gorilla\" cultivar release."
-  - "Mudge, E. et al. (2019). \"Cannabinoid and terpene profiling of commercial Cannabis strains.\" ACS Omega, 4(6), 10052-10060."
-  - "European Cannabis Flower Cup (2016-2017). Official results."
+  - "Mudge, E. et al. (2019). \"Cannabinoid and terpene profiling of commercial [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].\" ACS Omega, 4(6), 10052-10060."
+  - "European [[cervantes-cannabis-flower-anatomy]] Cup (2016-2017). Official results."
   - "PubMed. (2018). \"Cannabidiol and THC interactions: a review.\" Pharmacology & Therapeutics, 186, 62-77."
-  - "Black, D. et al. (2021). \"cannabis-terpene-profiles-sativa in Cannabis sativa L.\" Molecules, 26(9), 2670."
+  - "Black, D. et al. (2021). \"cannabis-terpene-profiles-sativa in [[blesching-cannabis-sativa-indica-classification]] L.\" Molecules, 26(9), 2670."
 ---
 
 # Royal Gorilla
 
 ## Overview
 
-Royal Gorilla is a balanced hybrid cannabis strain created by crossing
+Royal Gorilla is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing
 Chem's Sister (a phenotype of Chemdawg) with Sour Dubb and Chocolate Diesel.
 Originally bred by the Spanish seed bank Symbiotic Genetics, it gained
 international fame after Snoop Dogg selected it for his Leafs by Snoop product
@@ -38,7 +38,7 @@ report potent, long-lasting euphoria with substantial physical relaxation.
 - **Chem's Sister** (Chemdawg phenotype) — provides fuel-like aroma and
   heavy [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - **Sour Dubb** (Sour Diesel lineage) — contributes energetic cerebral
-  onset and sour terpene profile
+  onset and sour [[cannabis-terpene-profile]]
 - **Chocolate Diesel** — adds chocolate-coffee undertones and hybrid vigor
 - **Genetic ratio:** Approximately 50% indica / 50% sativa (phenotype-dependent)
 
@@ -48,7 +48,7 @@ Buds are medium to large, dense, and conical with a tapered structure.
 Calyxes are tightly packed with swollen trichome heads giving a frosted,
 almost white appearance under magnification. Colors range from bright lime
 green to deeper forest green, often with vivid orange pistils weaving through
-the bud structure. Resin production is heavy; flowers are notably sticky to
+the bud structure. [[cannabis-resin-production-and-quality-traits-clarke]] is heavy; flowers are notably sticky to
 the touch. Some phenotypes express purple hues in cooler growing conditions.
 
 ## Aroma and Flavor
@@ -88,50 +88,3 @@ psychoactive effects while potentially enhancing therapeutic benefits.
 ## Effects
 
 - **Onset:** Rapid (1–3 minutes when smoked or vaporized)
-- **Duration:** 2–4 hours depending on dosage and tolerance
-- **Cerebral:** Intense euphoria, uplifted mood, creative stimulation. Some
-  users report mild psychedelic effects at higher doses (enhanced colors,
-  altered time perception).
-- **Physical:** Deep relaxation progressing to couch-lock. Muscle tension
-  relief, mild sedation in the comedown phase.
-- **Common applications:** Stress relief, pain management, anxiety reduction,
-  appetite stimulation, insomnia management.
-
-## Side Effects
-
-- **Common:** Dry mouth, dry eyes, increased appetite (munchies)
-- **Moderate dose:** Mild anxiety or paranoia in sensitive individuals
-- **High dose:** Significant couch-lock, impaired short-term memory, dizziness
-- **⚠️ Caution:** High THC content means low tolerance users should start
-  with small doses (1–2 puffs). The CBD modulates but does not eliminate
-  psychoactive intensity.
-
-## Cultivation
-
-- **Flowering time:** 8–9 weeks indoors
-- **Indoor yield:** 400–500 g/m²
-- **Outdoor yield:** 500–600 g/plant, harvest early to mid-October (Northern
-  Hemisphere)
-- **Height:** Medium-tall (100–150 cm indoors); responds well to LST and
-  ScrOG training methods
-- **Difficulty:** Moderate. Requires [[green-cannabis-grow-bible-nutrient-management-ppm]] during mid-flowering
-  when calyx production peaks. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid
-  conditions. Terpene profile benefits from a 2-week flush before harvest.
-- **Climate:** Prefers temperate to warm, Mediterranean-like conditions.
-  Thrives between 20–28°C during the day.
-
-## Medical Applications
-
-The balanced THC:CBD profile makes Royal Gorilla notable for medical use.
-Anecdotal reports and limited clinical evidence suggest efficacy for:
-- Chronic pain (neuropathic and inflammatory)
-- Treatment-resistant [[cannabis-anxiety-and-ptsd-treatment]] symptoms
-- Insomnia, particularly when sedation is desired
-- Appetite stimulation in chemotherapy patients
-- Muscle spasticity
-
-## See Also
-
-- [[sour-diesel]] — Related lineage through Sour Dubb parent
-- [[girl-scout-cookies]] — Contemporary high-resin award-winning hybrid
-- [[jack-herer]] — Benchmark for balanced hybrid comparison

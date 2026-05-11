@@ -18,7 +18,7 @@ plausible candidate.
 
 ## Wasson's Published Contradictions
 
-Wasson remained convinced that fly agaric was Soma. In his last book,
+Wasson remained convinced that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] was Soma. In his last book,
 Persephone's Quest, published posthumously, he characterized fly agaric
 as "the supreme entheogen of all time," apparently on faith, since he
 admitted it was disappointing and only reported attaining shamanic
@@ -35,7 +35,7 @@ exploitation, an affair of a priestly elite. The possible role of
 [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] growing in the dung of cattle in the lives of the
 lower orders remains to this day wholly unexplored.
 
-Wasson even asked himself whether Stropharia cubensis could have been a
+Wasson even asked himself whether [[stropharia-cubensis]] could have been a
 contributing reason for abandoning Soma, then ignored his own question.
 Something unusual is going on in these passages. A great scholar,
 himself quite a Brahman, seems to be behaving in a most unscholarly
@@ -49,7 +49,7 @@ Stropharia cubensis.
 
 Those who knew Wasson knew that he had a tremendous aversion to
 "hippies" and that he was deeply troubled by the events that unfolded in
-Oaxaca after he published his findings on the surviving mushroom cults.
+Oaxaca after he published his findings on the surviving [[eleusinian-mysteries-minoan-mushroom-cults]].
 The predictable migration of adventurers, spiritual seekers, young
 people, and sensationalists made him bitter and defensive on the subject
 of psychedelic culture.
@@ -58,7 +58,7 @@ Wasson maintained a position of stern disapproval of hedonistic use of
 his beloved "entheogens," a clumsy word freighted with theological
 baggage that he preferred to the common term "psychedelic." Perhaps it
 was this attitude that caused Wasson to decide that his magnum opus,
-written in collaboration with the French mycologist Roger Heim, Les
+written in collaboration with the French mycologist [[roger-heim]], Les
 Champignons Hallucinogenes du Mexique, should not be made available in
 the 1960s in an English translation. The fact remains that Wasson's
 most important work is his only work not available in English.
@@ -88,40 +88,3 @@ a satisfactory experience with it.
 ## The Stropharia cubensis Hypothesis
 
 McKenna's contention is that Stropharia cubensis, or a conspecific
-coprophilic species, was well established in Africa, Anatolia, and
-perhaps the Iranian Plateau millennia before the coming of the
-Indo-Europeans. This assumption changes the picture in important ways:
-it means that invading Indo-European tribes encountered old
-mushroom-using cultures already in place on the Anatolian and Iranian
-plateaus. Use of psilocybin was a folk practice as old as these
-cultures themselves.
-
-The increasing dryness of the region could possibly have prompted a
-search for mushroom substitutes long before the Indo-European invasions.
-When mushroom supplies grew low, [[mckenna-food-gods-peganum-harmala-soma]] ([[golden-guide-syrian-rue-and-maoi-plants]]), which
-contains the beta-carboline harmaline, might have been used in
-combination with psilocybin to synergize and enhance its effects.
-Harmaline is more psychoactive and less toxic than its near relative
-harmine, found in the ayahuasca vine Banisteriopsis caapi. Gradually,
-Peganum harmala might have come to supplant the ever-rarer mushrooms
-altogether.
-
-## Wasson and the Brahminical Prohibition
-
-Wasson noted the prohibition against eating mushrooms established for
-Brahmins in the late Vedic phase. This prohibition is itself evidence
-that psilocybin mushrooms were known and used in India but were
-suppressed by the priestly class. Wasson wrote that the hierarchs among
-the Brahmans may have learned of the entheogenic virtues of Stropharia
-cubensis as known to the lower orders living in India. This creates a
-paradox: Wasson acknowledged that psilocybin was known to Indian
-subpopulations but refused to entertain the possibility that it was the
-original Soma, preferring instead the unsatisfying Amanita muscaria.
-
-## See Also
-
-- [[mckenna-wasson-soma-doubts-and-stropharia-case]]
-
-- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]] - the Amanita case
-- [[mckenna-food-gods-peganum-harmala-soma]] - harmaline as Soma replacement
-- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]] - Wasson's Mexico work

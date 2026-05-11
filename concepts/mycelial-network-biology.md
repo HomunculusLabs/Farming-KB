@@ -6,13 +6,13 @@ type: concept
 tags: [mycology, biology, mycelium, fungal-ecology]
 sources:
   - Stamets, P. (2005). Mycelium Running. Ten Speed Press.
-  - Gadd, G.M. (2001). Fungi in Bioremediation. Cambridge Univ. Press.
+  - Gadd, G.M. (2001). [[staycare-brown-rot-fungi-in-bioremediation]]. Cambridge Univ. Press.
 ---
 # Mycelial Network Biology
 Mycelium is the vegetative body of a fungus, a vast network of
 branching, thread-like hyphae that colonize substrates, decompose
 organic matter, absorb nutrients, and serve as the biological
-foundation for mushroom cultivation. A single mycelial network can
+foundation [[grass-seed-substrate-for-mushroom-cultivation]]. A single mycelial network can
 cover enormous areas and persist for centuries. Networks of Armillaria
 species have been documented exceeding 900 hectares and estimated at
 thousands of years old, making them among the largest and oldest
@@ -40,7 +40,7 @@ absorption of nutrients from the surrounding environment.
   patterns, and directional responses to environmental stimuli.
 ## Rhizomorphic vs. Cottony Mycelium
 Mycelial morphology varies between species and strains, with practical
-implications for cultivation and ecological function. The distinction
+implications for cultivation and [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]. The distinction
 between rhizomorphic and cottony growth forms is particularly important.
 - **Rhizomorphic (linear) mycelium** forms organized, rope-like
   strands that grow rapidly and colonize aggressively, indicating
@@ -57,7 +57,7 @@ between rhizomorphic and cottony growth forms is particularly important.
   display different patterns under different conditions.
 ## Mycelial Network Architecture
 Mycelial networks exhibit complex architectural patterns optimizing
-resource distribution, environmental sensing, and reproductive
+resource distribution, [[environmental-sensing-filamentous-fungi-read]], and reproductive
 potential. These patterns emerge from simple hyphal branching and
 fusion rules without central coordination, representing biological
 self-organization at a fundamental level.
@@ -73,7 +73,7 @@ self-organization at a fundamental level.
   branching near nutrient hotspots and more exploratory growth
   in nutrient-poor areas.
 - Computational models show fungal networks approximate optimal
-  transport networks balancing exploration efficiency against
+  [[biological-transport-networks]] balancing exploration efficiency against
   maintenance costs, suggesting natural selection has optimized
   these systems over hundreds of millions of years.
 ## Nutrient Transport and Cytoplasmic Streaming
@@ -85,46 +85,6 @@ driven by motor proteins along the cytoskeletal framework.
   when local supplies are depleted at the colony margin.
 - Rapid distribution of enzymes and metabolites enables
   coordinated responses to environmental changes such as
-  upregulation of extracellular enzyme production when new
+  upregulation of [[fungal-extracellular-enzyme-production]] when new
   substrates are encountered.
 - Translocation allows nutrients from decomposing material
-  in one location to support growth and fruiting elsewhere,
-  enabling fungi to bridge spatial gaps between resource patches.
-- Streaming speed and direction change in response to stimuli,
-  allowing the network to redirect resources toward areas of
-  greatest need or opportunity within minutes.
-## Extracellular Enzyme Production
-Mycelial networks secrete diverse extracellular enzymes breaking down
-complex organic polymers into smaller molecules absorbed across the
-hyphal cell membrane. This external digestion strategy is fundamental
-to the ecological role of fungi as primary decomposers.
-- White-rot fungi produce [[ligninolytic-enzyme-systems-white-rot-fungi]]
-  including lignin peroxidase, manganese peroxidase, and laccase
-  that degrade lignin, one of the most recalcitrant natural polymers.
-- Cellulases and hemicellulases break down carbohydrate components
-  of plant cell walls, while amylases, proteases, and lipases
-  target starch, protein, and lipid substrates respectively.
-  allowing networks to sense their chemical environment and deploy
-  the appropriate enzymatic toolkit for available resources.
-- This extracellular capability underpins
-  [[fungal-bioremediation-mechanisms]], as many xenobiotic
-  pollutants have structural similarities to natural lignin or
-  other polymeric substrates that fungal enzymes can attack.
-## Mycorrhizal Networks and Environmental Sensing
-Many forest fungi form mycorrhizal associations with tree roots,
-creating symbiotic relationships that are ecologically foundational.
-These networks interconnect multiple trees, facilitating resource
-sharing and chemical signaling across the forest community.
-- The fungal partner provides mineral nutrients and water to
-  the host tree in exchange for photosynthetic carbohydrates,
-  with networks potentially transferring carbon, nitrogen,
-  phosphorus, and defense signals between connected trees.
-- See [[mycorrhizal-inoculation-guide]] for practical applications
-  of mycorrhizal fungi in agriculture, forestry, and restoration.
-- Mycelial networks sense light, gravity, chemical gradients,
-  mechanical obstacles, and other organisms, directing growth
-  toward favorable conditions and away from competitors.
-- [[mycelial-growth-and-colonization]] patterns change with
-  resource quality, with networks allocating more biomass to
-  richer patches, demonstrating a primitive form of
-  decision-making relevant to [[mycoremediation-basics]].

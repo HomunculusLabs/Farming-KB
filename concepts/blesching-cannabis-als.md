@@ -43,7 +43,7 @@ descend into total paralysis, their minds largely remain unaffected.
 ## Cannabis Health Index Assessment
 
 - Total Number of Studies Reviewed: 7
-- CHI Value: 19
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 19
 
 ## Mechanisms of Action
 
@@ -73,7 +73,7 @@ agents. Remarkably, cannabis appears to have activity in all of those areas.
   cannabis moderately effective at reducing appetite loss, depression, pain,
   spasticity, and drooling (CHI 3)
 - A 2001 preclinical review suggested ALS patients may benefit from analgesia,
-  muscle relaxation, bronchodilation, saliva reduction, appetite stimulation,
+  muscle relaxation, bronchodilation, saliva reduction, [[cannabis-for-cachexia-and-appetite-stimulation]],
   sleep induction, and neuroprotective effects (CHI 4)
 
 ## Strain-Specific Considerations
@@ -88,19 +88,3 @@ profiles. Others prioritize symptoms and select strains accordingly.
 
 A study of 56 ALS patients and caregivers concluded that clinical depression
 is not an inevitable outcome of life-threatening illness, even with major
-disability. Lou Gehrig himself expressed only gratitude in his 1939 farewell
-speech. Stephen Hawking, the renowned physicist who lived with ALS for decades,
-stated: "I have lived with the prospect of an early death for the last 49
-years. I'm not afraid of death, but I'm in no hurry to die."
-
-The widening rift between diminishing body and functioning mind in ALS may
-offer insight into the condition's deeper message. Some neurologists refer to
-this as "locked-in syndrome." Aggravating factors may include military service
-exposure and environmental toxins.
-
-## Related Topics
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-multiple-sclerosis]]
-- [[cannabis-chronic-pain-management]]
-- [[blesching-cannabis-neuropathic-pain]]

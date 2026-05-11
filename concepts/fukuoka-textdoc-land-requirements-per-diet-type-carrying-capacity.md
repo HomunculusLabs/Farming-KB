@@ -1,10 +1,11 @@
 ---
-title: "[[fukuoka-textdoc-absence-no-fertilizer-tests]] land requirements per diet type carrying capacity Per Diet Type and Carrying Capacity"
+title: Fukuoka Textdoc Land Requirements Per Diet Type Carrying Capacity
 created: 2026-04-28
 tags: [fukuoka, natural-farming, land-use, caloric-efficiency, diet, carrying-capacity, livestock, sustainability]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,15 +87,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

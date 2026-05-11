@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [permaculture, ethics, sustainability]
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 # Gender Balance and Sustainability
@@ -86,64 +87,3 @@ domination, where both men and women are subjected to the same industrial
 logic of efficiency, competition, and consumption.
 
 ## Fermentation Cultures and Gender
-
-In discussing food fermentation cultures (such as those used in making cheese,
-yoghurt, sauerkraut, and other preserved foods), Holmgren noted that these
-practices have historically been women's domain. The knowledge and skill
-involved in maintaining live cultures -- understanding the conditions under
-which [[forest-and-bamboo-beneficial-microorganisms]] thrive, recognising the signs of successful
-fermentation, knowing when a culture has gone bad -- represent a form of
-practical wisdom that is undervalued in industrial society.
-The loss of these skills is not just a cultural loss; it is a practical loss
-of resilience. When every household maintained its own fermentation cultures,
-the food system was distributed, diversified, and locally adapted. When food
-processing is centralised in factories, the system becomes vulnerable to
-disruption, contamination, and the loss of [[biodiversity-fungal-genetic-diversity]] in the cultures
-themselves.
-
-## Spiritual Dimensions
-
-The principle of gender balance also has a spiritual dimension. Many
-traditional cultures recognised a creative tension between masculine and
-feminine energies that was not reducible to biological sex.
-In Hindu cosmology, the creative principle (Shakti) is feminine, while the
-principle of consciousness (Shiva) is masculine. Their union is the source of
-all creation. Holmgren suggested that the environmental crisis is, at its
-root, a spiritual crisis -- a failure to recognise the sacred in nature, and
-a failure to balance the masculine drive for control with the feminine
-capacity for nurture.
-Permaculture, in this view, is not just a technical design system but a
-spiritual practice that seeks to restore this balance at every scale, from the
-garden to the planet.
-
-## Gender in Permaculture Design Practice
-
-In practical design work, gender balance can be cultivated by:
-
-- Ensuring both men and women are involved in the design process
-- Balancing analytical and intuitive approaches to site analysis
-- Including spaces for both active and contemplative modes of engagement
-- Designing for the full life cycle of the household
-- Recognising the "invisible work" of maintenance, care, and nurture that
-  sustains any system
-- Creating designs that support diverse forms of knowledge and experience
-
-## Critique of Industrial Gender Norms
-
-Holmgren's analysis connects the domination of nature in industrial agriculture
-to broader patterns of gender domination in modern society. The industrial
-mindset -- measure, control, maximize, eliminate -- is characteristically
-yang-dominant, creating systems that are productive but brittle, efficient but
-unjust.
-The externalization of care work -- unpaid labor of raising children,
-maintaining households, preparing food, caring for the elderly -- onto women
-is not incidental to industrial economics but essential to it. This unpaid
-labor subsidizes the formal economy and makes the industrial system appear
-more efficient than it actually is.
-
-## Energy Descent and Gender Balance
-
-In the context of [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]],
-## See Also
-
-- [[fukuoka-straw-pest-control-natural-balance]]

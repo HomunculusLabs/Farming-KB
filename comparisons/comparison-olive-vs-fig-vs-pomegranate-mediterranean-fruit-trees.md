@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "UC Davis Olive Center — https://olivecenter.ucdavis.edu"
   - "FAO Olive Cultivation Technical Guidelines — fao.org"
   - "University of Arizona Cooperative Extension — Pomegranate Production"

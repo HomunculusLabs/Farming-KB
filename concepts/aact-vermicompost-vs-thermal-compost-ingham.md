@@ -1,5 +1,5 @@
 ---
-title: Vermicompost vs Thermal Compost for AACT Brewing
+title: Aact Vermicompost Vs Thermal Compost Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_author: Elaine R. Ingham, Ph.D.
 type: concept
@@ -11,7 +11,7 @@ created: 2026-05-09
 
 ## Overview
 
-Both vermicompost (worm compost) and thermal compost can serve as the biological inoculant base for Actively Aerated Compost Tea (AACT). According to Dr. Elaine Ingham's field guide, neither process is inherently superior — both can produce excellent compost with the full range of beneficial organisms needed for effective tea. The choice between them depends on availability, local sourcing, and the specific biological profile required for your application.
+Both vermicompost (worm compost) and thermal compost can serve as the biological inoculant base for [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT). According to Dr. Elaine Ingham's field guide, neither process is inherently superior — both can produce excellent compost with the full range of beneficial organisms needed for effective tea. The choice between them depends on availability, local sourcing, and the specific biological profile required for your application.
 
 ## Definitions
 
@@ -19,7 +19,7 @@ Both vermicompost (worm compost) and thermal compost can serve as the biological
 
 Thermal compost is produced through microbial decomposition of organic materials, during which internal temperatures reach 55°C (131°F) or higher for at least 3 consecutive days. This heating process kills weed seeds and human pathogens. The compost must be turned each time it approaches 68–70°C to prevent overheating and maintain adequate oxygen throughout the pile. Key habitat requirements include:
 
-- Minimum 5.5 ppm dissolved oxygen during the composting cycle
+- Minimum 5.5 ppm [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] during the composting cycle
 - Pleasant smell (indicating aerobic conditions)
 - Moisture content between 45–75%
 - Temperature not exceeding 70°C at any point
@@ -35,7 +35,7 @@ Vermicompost is produced through the action of earthworms processing organic mat
 
 ### Worm Castings vs Worm Compost
 
-Ingham draws an important technical distinction: worm castings are specifically the fecal pellets produced by worms. If any non-pellet material is mixed in, the product is properly called worm compost, not worm castings. Both can be used in AACT, but the distinction matters for labeling and quality assessment.
+Ingham draws an important technical distinction: worm castings are specifically the fecal pellets produced by worms. If any non-pellet material is mixed in, the product is properly called worm compost, not worm castings. Both can be used in AACT, but the distinction matters for labeling and [[ingham-compost-quality-assessment-visual-microbial-indicators]].
 
 ## Comparative Biology
 
@@ -48,9 +48,9 @@ Both thermal and worm composts should contain the following organism groups when
 | Active bacteria | 15–30+ µg/g |
 | Total bacteria | 150–300+ µg/g |
 | Active fungi | 2–10+ µg/g |
-| Total fungal biomass | 150–500+ µg/g |
+| Total [[bioremediation-fungal-biomass-biosorbent-material]] | 150–500+ µg/g |
 | Protozoa | 50,000+/g |
-| Beneficial nematodes | 20–100/g |
+| [[ingham-beneficial-nematodes-soil-food-web]] | 20–100/g |
 | Root-feeding nematodes | None |
 
 ### Fungal vs Bacterial Dominance
@@ -88,61 +88,3 @@ The key principle: don't add molasses if bacterial populations are already adequ
 ## Factors Affecting Quality
 
 ### Starting Materials
-
-The quality of both compost types depends heavily on starting materials. Ingham emphasizes that each batch of starting materials is different, requiring the composter to learn to adjust processes accordingly. Materials to consider include:
-
-- For thermal compost: diverse mix of green and brown materials, avoiding cedar products
-- For vermicompost: paper, cardboard, kitchen scraps, pre-composed green waste
-- Both benefit from mineral additions during the composting process
-
-### Paper and Cardboard as Worm Feed
-
-Paper is primarily cellulose — a recalcitrant, hard-to-break-down carbon source. Most modern inks are soy-based and safe, but older papers may contain heavy-metal-based inks that should be avoided. Cardboard, being less refined and longer-fiber, typically promotes beneficial fungal growth. Whether layered as sheets or shredded for faster decomposition, paper-based materials tend to select for fungal-dominated communities.
-
-### Compost Maturity
-
-Less than 10% microbial activity in the finished compost indicates a mature, stable product. Immature compost with high microbial activity can tie up nitrogen in the soil and should not be used. Both thermal and worm composts must be properly cured before use in AACT.
-
-## Testing Requirements
-
-### For Thermal Compost
-
-Each batch should have documented:
-- Turning schedule and daily temperature readings
-- Final moisture content
-- Daily CO₂ or O₂ monitoring data
-- Chemistry and pathogen testing meeting local, state, and federal standards
-
-### For Vermicompost
-
-Each batch should have documented:
-- Worm population per unit volume
-- Temperature and oxygen monitoring data
-- Chemistry and pathogen testing meeting applicable standards
-- Assessment of what percentage of material actually passed through worms
-
-## Practical Considerations
-
-### Machine Compatibility
-
-The amount of compost needed per brew varies with the type of brewing machine. Machines that hold compost in single-layer nylon bags typically need less compost than those with woven fabric bags or baskets with tiny holes. Consult the machine manufacturer for recommended compost volumes.
-
-### Compost Removal During Brewing
-
-Removing compost partway through the brew cycle can help maintain aerobic conditions. The organisms growing in the compost can create pockets that are difficult to aerate effectively, so removing the compost bag partway through reduces the risk of the tea going anaerobic. This also reduces fungal loss.
-
-### Local Sourcing
-
-Ingham's practical advice: the more important consideration is which source of high-quality compost is available locally. Finding a great compost producer nearby and verifying their biological data is more important than the specific composting method. Always ask composters for data showing their compost has the biology you need.
-
-### Mushroom Compost Caution
-
-Mushroom compost deserves special mention as it is sometimes considered for AACT but has significant limitations. It is typically high in peat, sawdust, salts, antibiotics, and Agaricus hyphae. Its wide carbon-to-nitrogen ratio makes it good food for a limited number of fungi, but not necessarily the beneficial species needed for AACT. Mushroom compost can tie up nitrogen away from plants and cause stunting or death from N, S, or P deficiency. If used, it requires inoculation with compost tea containing beneficial fungi plus additional fungal foods.
-
-## See Also
-
-- [[aact-compost-quality-standards-ingham]] — Minimum organism thresholds for compost
-- [[aact-brewing-ingredients-ingham]] — Ingredient selection for AACT recipes
-- [[aact-fungal-dominant-tea]] — Achieving fungal dominance in compost tea
-- [[aact-bacterial-dominant-tea]] — Achieving bacterial dominance in compost tea
-- [[soil-conditioners-guide]] — Compost as a soil amendment

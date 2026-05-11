@@ -12,7 +12,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Orange, A., James, P.W. & White, F.J. (2010). Microchemical Methods for the Identification of Lichens. British Lichen Society.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
-  - Lendemer, J.C. (2013). "A review of Pertusaria (Pertusariaceae) in North America." Opuscula Philolichenum, 12, 45-62.
+  - Lendemer, J.C. (2013). "A review of Pertusaria (Pertusariaceae) in [[guzman-psilocybin-mushrooms-north-america]]." Opuscula Philolichenum, 12, 45-62.
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ sources:
 
 It is recognized by its conspicuous red to pinkish-red apothecial discs that contrast sharply with the pale thallus, earning it the epithet "coccodes" (resembling cochineal insects). The species is widespread across Europe and North America, occurring on a variety of bark substrates.
 
-Pertusaria coccodes produces stictic acid and related depsidones, which are useful for chemical identification. It serves as an indicator of forest continuity and air quality in temperate forest ecosystems.
+Pertusaria coccodes produces stictic acid and related depsidones, which are useful for chemical identification. It serves as an indicator of forest continuity and air quality in temperate [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 The species belongs to a genus of predominantly bark-dwelling lichens that are important components of epiphytic lichen communities in old-growth forests. Its presence is often associated with forests that have been undisturbed for several decades or more.
 
@@ -47,13 +47,13 @@ The red pigment in the apothecial discs is chemically distinct from the depsidon
 
 Spot tests for the thallus cortex typically show K+ yellow turning red, C-, KC+ yellow to orange, and P+ yellow. The medulla reactions are K+ yellow, C-, KC+ pale yellow, and PD+ yellow, consistent with stictic acid chemistry.
 
-These chemical reactions are consistent across the species' range and do not show significant geographic variation. The reliability of spot tests makes field identification practical when combined with morphological examination of apothecial characters.
+These chemical reactions are consistent across the species' range and do not show significant geographic variation. The reliability of spot tests makes [[palmer-mushroom-hunting-field-identification]] practical when combined with morphological examination of apothecial characters.
 
 ## Distribution and Habitat
 
-Pertusaria coccodes has a wide distribution across temperate regions of the Northern Hemisphere. In Europe, it occurs from the Mediterranean to Scandinavia and extends eastward into parts of Russia.
+Pertusaria coccodes has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. In Europe, it occurs from the Mediterranean to Scandinavia and extends eastward into parts of Russia.
 
-In North America, it is found across eastern Canada and the northeastern United States, with scattered populations in the Pacific Northwest. The species is primarily corticolous, growing on the bark of deciduous and coniferous trees.
+In North America, it is found across eastern Canada and the northeastern United States, with scattered populations in the [[psilocybin-north-america-pacific-northwest]]. The species is primarily corticolous, growing on the bark of deciduous and coniferous trees.
 
 Isolated populations have also been reported from the Appalachian Mountains at higher elevations, where cooler temperatures and persistent cloud cover create favorable microclimatic conditions for crustose lichen growth.
 
@@ -87,35 +87,4 @@ P. coccodes is not formally assessed on the IUCN Red List, but regional evaluati
 
 ## Traditional Uses and Historical Significance
 
-Pertusaria coccodes has limited recorded ethnobotanical use compared to more prominent lichens such as *Cetraria islandica* or *Usnea* species. However, some historical records from northern European folk traditions mention the use of red-pigmented lichens as sources of natural dye for wool and textiles.
-
-The red pigment in the apothecial discs was investigated by 19th-century chemists as a potential source of natural colorants. Although the pigment yield was too low for commercial application, these early studies contributed to the broader understanding of lichen [[antifungal-secondary-metabolites-coprophilous-fungi]] and their chemical diversity.
-
-The species was among those studied during the development of lichen chemical taxonomy in the mid-20th century. Its stictic acid chemistry was characterized using early chromatographic methods, helping establish the importance of secondary metabolites in lichen identification and classification systems.
-
-Historical herbarium specimens preserved in European collections provide baseline data for tracking changes in lichen populations over two centuries. These specimens document the species' decline and partial recovery in relation to air pollution trends across central and western Europe.
-
-In traditional Scandinavian and Scottish textile practices, lichens with red pigments were occasionally used alongside more common dye lichens such as *Ochrolechia tartarea* (cudbear). The small size of P. coccodes thalli limited its practical value compared to more abundant species.
-
-## Similar Species
-
-Several *Pertusaria* species resemble P. coccodes in general morphology but can be distinguished by apothecial color, chemistry, and spore size. *Pertusaria amara* is the most commonly confused species but contains bitter picrolichenic acid and has cream-colored rather than red apothecial discs.
-
-*Pertusaria hemisphaerica* has larger, more prominent apothecia with thamnolic acid chemistry and a smoother thallus surface. *Pertusaria albescens* produces lecanoric acid and has a more extensively cracked thallus with white to pale pink discs.
-
-The red apothecial discs can superficially resemble those of certain *Ochrolechia* species, but *Ochrolechia* typically has a different thallus morphology with soralia rather than immersed apothecia. Chemical spot tests and TLC provide definitive separation.
-
-*Pertusaria multipuncta* is another lookalike with pinkish apothecial discs, but it contains fumarprotocetraric acid rather than stictic acid and has a distinctly different spore morphology. Careful examination of both chemistry and reproductive structures is necessary for accurate identification.
-
-## See Also
-
-- [[pertusaria-amara]]
-- [[xanthoria-parietina]]
-- [[xanthoria-elegans]]
-- [[flavoparmelia-caperata]]
-- [[lecanora-muralis]]
-- [[hypogymnia-physodes]]
-- [[lobaria-pulmonaria]]
-- [[cetraria-islandica]]
-- [[physcia-aipolia]]
-- [[evernia-prunastri]]
+Pertusaria coccodes has limited recorded ethnobotanical use compared to more prominent lichens such as *[[cetraria-islandica]]* or *Usnea* species. However, some historical records from northern European folk traditions mention the use of red-pigmented lichens as sources of natural dye for wool and textiles.

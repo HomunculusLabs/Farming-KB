@@ -13,12 +13,12 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Wei, J.C. (1991). "An Enumeration of Lichens in China." International Academic Publishers.
   - Yoshimura, I. (1971). "The Genus Umbilicaria in Japan and Adjacent Areas." Journal of the Hattori Botanical Laboratory.
-  - Nash III, T.H. et al. (2004). "Lichen Biology." Cambridge University Press.
+  - Nash III, T.H. et al. (2004). "[[fungi-in-the-environment-lichen-biology]]." Cambridge University Press.
 ---
 
 ## Overview
 
-**Umbilicaria esculenta** is a large, foliose lichen in the family Umbilicariaceae, commonly known as **rock tripe** or **iwatake** (岩茸, "rock mushroom") in Japanese. It is one of the most commercially important edible lichens in East Asia.
+**Umbilicaria esculenta** is a large, foliose lichen in the family Umbilicariaceae, commonly known as **rock tripe** or **iwatake** (岩茸, "rock mushroom") in Japanese. It is one of the most commercially important edible lichens in [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 The species forms broad, leathery, umbilicate thalli attached to rocks at a single central holdfast point. Its common name "rock tripe" refers to the resemblance of its thallus to tripe (animal stomach lining).
 
@@ -42,7 +42,7 @@ Asexual reproduction occurs through fragmentation of the thallus margins. Broken
 
 ## Distribution and Habitat
 
-Umbilicaria esculenta has a wide but disjunct distribution across the Northern Hemisphere. It occurs in mountainous regions of Japan, Korea, eastern China, and the Russian Far East, with additional populations in the mountains of Europe and North America.
+Umbilicaria esculenta has a wide but disjunct distribution across the Northern Hemisphere. It occurs in mountainous regions of Japan, Korea, eastern China, and the Russian Far East, with additional populations in the mountains of Europe and [[guzman-psilocybin-mushrooms-north-america]].
 
 The species is saxicolous (rock-dwelling), growing on exposed igneous and metamorphic rock faces at elevations of 500–3000 m. It favors vertical or overhanging rock surfaces that receive moderate moisture from rain, fog, and snowmelt.
 
@@ -82,35 +82,8 @@ Indigenous peoples of North America also used related *Umbilicaria* species as e
 
 ## Conservation Status
 
-Wild populations of *Umbilicaria esculenta* are declining across much of its range due to overharvesting and habitat degradation. The species' slow growth rate makes recovery from harvesting extremely slow.
+Wild populations of *Umbilicaria esculenta* are declining across much of its range due to overharvesting and habitat degradation. The species' [[holmgren-long-rotation-forestry-slow-growth]] rate makes recovery from harvesting extremely slow.
 
 Commercial demand in Japan and Korea has driven intensive collection in mountainous regions of China, where regulatory enforcement is limited. Some harvesters strip entire rock faces, destroying decades of growth.
 
-Air pollution from industrial development in parts of eastern China poses an additional threat. *Umbilicaria* species are among the most pollution-sensitive lichens, and even moderate sulfur dioxide levels can kill colonies.
-
-**Cultivation efforts:** Limited attempts at [[fukuoka-matsutake-artificial-cultivation-attempt]] have been made in Japan and Korea. While mycelial growth can be induced in laboratory conditions, producing marketable thalli with the correct morphology and chemistry remains challenging.
-
-## Ecology
-
-Umbilicaria esculenta is an oligotrophic species, adapted to nutrient-poor rock surfaces where few other organisms can survive. Its slow growth rate (typically 1–3 mm per year in diameter) makes populations vulnerable to overharvesting.
-
-The lichen is poikilohydric, meaning it can survive extended periods of desiccation and rapidly resume [[arbuscule-isolation-metabolic-activity-assays]] when rehydrated by rain or fog. This adaptation allows it to persist on exposed rock faces.
-
-*Bryophytes* (mosses) and other crustose lichens are the primary competitors for substrate space. *U. esculenta* typically dominates on smoother rock surfaces where its broad thallus can form a complete seal.
-
-The species is sensitive to air pollution, particularly sulfur dioxide and acid deposition. It is considered an indicator species for clean mountain air quality.
-
-Invertebrate communities associated with *U. esculenta* include tardigrades, nematodes, and various mite species. These microfauna contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the lichen microhabitat.
-
-Reproductive dispersal relies primarily on wind-borne ascospores from apothecia. Successful colonization of new rock surfaces requires extended periods of moisture and minimal competition from faster-growing crustose lichens.
-
-## See Also
-
-- [[umbilicaria-mammulata]]
-
-- [[lobaria-pulmonaria]]
-- [[cladonia-rangiferina]]
-- [[hypogymnia-physodes]]
-- [[usnea-barbata]]
-- [[physcia-aipolia]]
-- [[ramalina-fastigiata]]
+[[air-pollution-fungal-community-responses]] from industrial development in parts of eastern China poses an additional threat. *Umbilicaria* species are among the most pollution-sensitive lichens, and even moderate sulfur dioxide levels can kill colonies.

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe aztecorum
+title: Psilocybe Aztecorum Entity The Mushroom Cultivator
 created: 2026-04-28
 type: species
 tags: [psilocybe, psychoactive, aztec, compost-cultivation, mexican-species]
@@ -12,11 +12,11 @@ sources: []
 
 ## Taxonomy
 
-Psilocybe aztecorum is a species of psychoactive mushroom in the family
+Psilocybe aztecorum is a species of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] in the family
 Hymenogastraceae, within the order Agaricales. The genus name Psilocybe derives from
 the Greek "psilos," meaning bald head, a reference to the smooth cap surface
 characteristic of the genus. The species epithet "aztecorum" honors the Aztec
-civilization of central Mexico, reflecting the deep historical connection between this
+civilization [[psychoactive-cacti-of-central-mexico]], reflecting the deep historical connection between this
 mushroom species and indigenous Mesoamerican cultures. The species is one of several
 psychoactive Psilocybe species native to Mexico and has been associated with
 traditional ceremonial use by indigenous peoples in the highland regions of central
@@ -26,7 +26,7 @@ species successfully grown on bagasse-based compost.
 
 ## Morphology
 
-While The Mushroom Cultivator does not provide a detailed morphological description
+While [[coprinus-atrementarius-entity-the-mushroom-cultivator]] does not provide a detailed morphological description
 specifically for Psilocybe aztecorum, the species is generally characterized by the
 typical features of the Psilocybe genus. Members of this genus typically have smooth,
 hygrophanous caps that are convex when young and expand to plane with age. The gills
@@ -57,7 +57,7 @@ Psilocybe aztecorum is mentioned in The Mushroom Cultivator in the context of co
 substrate research. In 1960, Dr. Kneebone of Pennsylvania State University reported
 successfully growing P. aztecorum on a bagasse-based compost. Bagasse is the
 cellulosic by-product remaining after sugar extraction from sugar cane, and it
-possesses high moisture holding capacity with a total nitrogen content of 0.18%. This
+possesses high moisture [[pf-tek-vermiculite-type-comparison-water-holding-capacity]] with a total nitrogen content of 0.18%. This
 reference is significant because it demonstrates that P. aztecorum can be cultivated
 on prepared compost substrates, similar to the approach used for Agaricus species,
 rather than exclusively on grain-based substrates. The successful cultivation on
@@ -87,47 +87,4 @@ knowledge of the species, the following can be inferred:
 ## Compost Research Context
 
 The mention of Psilocybe aztecorum in The Mushroom Cultivator occurs within a broader
-discussion of alternative compost substrates for mushroom cultivation. Dr. Kneebone's
-1960 work with bagasse compost was pioneering in demonstrating that sugar cane
-by-products could serve as effective [[duggar-mushroom-growing-history-and-methods]] media. The composts were
-prepared using standard techniques with a turn schedule on days 0, 2, 5, 7, and 9.
-Bagasse supplemented with a commercial activator ("Acto 88") yielded poorly,
-indicating that additives designed for one compost system may not transfer
-successfully to another. Bagasse used as stable bedding (mixed with [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]])
-produced yields comparable to the horse manure-based control compost, suggesting
-that natural enrichment through stable use is preferable to artificial supplementation
-for this substrate.
-
-## Interactions
-
-Psilocybe aztecorum, like other members of its genus, interacts with its environment
-primarily as a decomposer of plant material. In cultivation, it would be susceptible
-to the same range of contaminants that affect other mushroom species grown on compost
-substrates, including Trichoderma (green mold), various bacterial contaminants, and
-[[dactylium-cobweb-mold-mushroom-pathogens]] (Dactylium dendroides). The species does not have known mycorrhizal
-associations. Its successful cultivation on bagasse compost by Dr. Kneebone suggests
-that it can compete effectively with other microorganisms in a properly prepared and
-pasteurized compost environment. The species shares its highland Mexican habitat with
-other psychoactive mushroom species, and there may be competitive or complementary
-interactions with these species in natural settings.
-
-## Notes
-
-Psilocybe aztecorum represents an interesting case study in substrate adaptability
-for mushroom cultivation. The successful growth on bagasse compost by Dr. Kneebone
-demonstrates that not all psychoactive Psilocybe species require the grain-based or
-straw-based substrates commonly used in [[mushroom-home-cultivation-history]]. The species connection to
-Aztec culture adds significant ethnobotanical interest, as it is one of the mushroom
-species believed to have been used in pre-Columbian Mesoamerican religious ceremonies.
-Further research into optimized cultivation parameters for this species would be
-valuable, as its full potential under controlled growing conditions has not been
-extensively documented.
-
-## See Also
-
-- [[psilocybe-angustispora]]
-- [[psilocybe-fimetaria]]
-- [[psilocybe-magnivelaris]]
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
-- [[psilocybe-tampanensis-entity]]
-- [[psilocybe-strictipes-entity]]
+discussion of alternative compost substrates [[grass-seed-substrate-for-mushroom-cultivation]]. Dr. Kneebone's

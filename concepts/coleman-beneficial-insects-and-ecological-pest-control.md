@@ -88,35 +88,3 @@ needs of some plants over others." The same principle applies to crops
 and their pests.
 
 ## Weed-Insect Interactions
-
-Coleman has found that certain crops which suffer from insect damage
-outdoors, such as arugula and pak choi damaged by flea beetles, are not
-bothered in the greenhouse. This suggests that the protected environment
-alters insect dynamics in ways that benefit the grower. Lightweight
-spun-bonded row covers can further protect vulnerable crops like melons,
-squash, and cucumbers during the transplant recovery period, after which
-they become more resistant to cucumber beetles.
-
-## The Ecological Tradition
-
-Coleman places his pest management philosophy within what he calls the
-"ecological tradition" of agriculture. This tradition, traceable through
-writers like Albert Howard, Lady Eve Balfour, and Aldo Leopold, holds
-that the farmer's role is not to wage war against nature but to
-establish conditions under which natural biological processes favor the
-desired outcomes. Leopold's distinction is apt: many modern agricultural
-techniques are "improvements to the pump, not to the well." Coleman
-argues that the organic pioneer's practices, which focused on soil
-health, biodiversity, and biological balance, "will one day be
-recognized as far more scientific" than the symptomatic treatments of
-conventional agriculture.
-
-## Related
-
-- falconer-slug-and-wood-lice-pest-control
-
-- [[coleman-pest-management]] — broader pest management strategies
-- [[coleman-drip-irrigation-and-water-management]] — irrigation as a
-  pest management tool
-- [[coleman-compost-and-organic-fertility-management]] — soil health as
-  the foundation of pest resistance

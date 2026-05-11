@@ -1,5 +1,5 @@
 ---
-title: Variety Degradation in the [[home-garden-seed-saving]] Trade - Solomon
+title: Solomon Variety Degradation Home Seed Trade
 source: Gardening When It Counts - [[steve-solomon]] (2005)
 source_path: ~/wiki/raw/papers/gardening-when-it-counts-steve-solomon.md
 topics: seed saving, variety degradation, open-pollinated, seed trade, genetic erosion, [[solomon-seed-saving-vegetable-breeding]]
@@ -87,11 +87,3 @@ multiple outstanding plants, never from a single specimen, to maintain genetic
 diversity while selecting for desirable traits.
 
 ## See Also
-
-- hybrid-to-op-variety-conversion-breeding-solomon.md
-- solomon-hybrid-vs-open-pollinated.md
-- solomon-choosing-seeds-and-catalogs.md
-- solomon-vegetable-nutritional-decline-trace-minerals.md
-## References
-
-- Gardening When It Counts - Steve Solomon (2005).

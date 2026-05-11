@@ -87,34 +87,3 @@ The closed system of a wicking bed means that pH can drift over time more than i
 ## Water Savings and Efficiency Metrics
 
 Wicking beds typically use 50–80% less water than equivalent in-ground gardens with overhead irrigation, and 30–50% less than drip-irrigated raised beds. The water savings come from three mechanisms: elimination of surface runoff and deep percolation losses, reduction of soil surface evaporation through the dry mulch layer, and delivery of water directly to the root zone where it is most efficiently absorbed. A standard wicking bed measuring 2 m × 1 m with a 20 cm reservoir holds approximately 200–250 liters of water, which can sustain a full planting of leafy greens for 2–3 weeks in summer without any supplemental watering.
-
-### Comparing Irrigation Systems by Water Use
-
-To put wicking bed efficiency in context, consider the following approximate water consumption for a 2 m × 1 m garden bed producing mixed leafy greens over a 90-day summer season: overhead sprinklers use approximately 3,000–4,500 liters; drip irrigation uses 1,500–2,500 liters; wicking beds use 500–1,200 liters. The difference is dramatic in water-restricted areas and makes wicking beds an excellent choice for urban gardens, community plots, and regions experiencing drought or seasonal water restrictions.
-
-### Scalability Considerations
-
-Wicking beds scale well from small balcony planters (50 cm × 50 cm) to large institutional gardens (10 m × 1 m continuous beds). For beds longer than 3 m, install multiple inlet pipes spaced every 2–3 m to ensure even reservoir filling. Very large beds may develop uneven moisture distribution due to variations in growing medium composition or slight slope — use multiple overflow outlets to prevent pooling at one end. School gardens, community food forests, and therapeutic horticulture programs often favor wicking beds for their low maintenance requirements and predictable water delivery, which reduces the risk of crop failure during volunteer absences.
-
-### Accessibility Advantages
-
-Raised wicking beds at 70–90 cm height eliminate the need to bend or kneel, making them accessible for elderly gardeners, wheelchair users, and people with mobility limitations. The reduced watering frequency also benefits gardeners with limited physical strength or unpredictable schedules. Community gardens that incorporate accessible wicking beds report higher participation rates and longer growing seasons compared to standard ground-level plots. When designing for accessibility, ensure the bed width does not exceed 1.2 m (60 cm reach from either side) and that the inlet pipe and overflow are easy to access from a seated position.
-
-### Common Mistakes to Avoid
-
-Beginners often overfill the reservoir, submerging the geotextile and growing medium in standing water rather than allowing capillary action to draw moisture upward. The water level should always remain below the geotextile layer — the reservoir stores water, but the growing medium should never be saturated from below. Another common error is using garden soil straight from the ground, which compacts and loses wicking capacity. Always use a purpose-blended growing medium with adequate porosity. Finally, neglecting the overflow drain can lead to waterlogging during heavy rain events; ensure the overflow is clear, properly positioned, and connected to a drainage destination. Planting too densely is another pitfall — while wicking beds support close spacing, overcrowding reduces air circulation and promotes fungal diseases. Follow the same spacing guidelines as for raised beds, and thin seedlings promptly to the recommended distance.
-
-## See Also
-
-- Wicking bed water movement physics
-- [[wicking-bed-construction]]
-- Sub-irrigated planter (SIP) guide
-- [[passive-irrigation-systems]]
-- Season extension with cloches and row covers
-- [[companion-planting-deterrents]]
-- Raised bed drainage principles
-- Drought-tolerant vegetable varieties
-- Container gardening for small spaces
-- Urban [[water-harvesting-techniques-comparison]]
-- Therapeutic horticulture garden design
-- Soil pH [[knf-soil-and-mineral-management]] guide

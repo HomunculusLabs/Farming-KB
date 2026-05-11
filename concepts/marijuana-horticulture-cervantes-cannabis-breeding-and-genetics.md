@@ -1,0 +1,136 @@
+---
+title: Marijuana Horticulture Cervantes Cannabis Breeding And Genetics
+source: marijuana-horticulture-cervantes.md
+source_author: Jorge Cervantes (breeding chapter by Chimera)
+category: cannabis
+tags: [cannabis, breeding, genetics, hybrid, inbreeding, backcrossing, selection, seeds]
+mined: 2026-05-10
+---
+
+# Cannabis Breeding and Genetics
+
+## Overview
+
+Cannabis breeding is the deliberate manipulation of [[basidiomycete-mating-systems-sexual-reproduction]] to create new populations with desired combinations of traits. The breeding chapter of Cervantes' [[marijuana-horticulture-cervantes-cannabis-life-cycle-and-photoperiod]], contributed by the breeder Chimera, explains the biological processes underlying seed formation and provides practical frameworks for designing breeding programs. While asexual propagation (cloning) maintains genetic consistency, sexual reproduction creates the genetic variation that breeders exploit to develop new and improved varieties.
+
+## Reproduction in Cannabis
+
+### Dioecy
+
+Cannabis is predominantly a dioecious species — male and female flowers develop on separate individual plants. This is a hallmark of cross-pollinating (outcrossing) species, which has significant implications for breeding strategy:
+
+- **Male plants (staminate)**: Produce pollen sacs (anthers) that appear as clusters resembling grapes or miniature lobster claws at branch nodes. Males typically begin flowering 1-4 weeks before females of the same variety.
+- **Female plants (pistillate)**: Produce white pistils (stigmas) at branch nodes. These are the receptive surfaces for pollen.
+- **Monoecious/intersex plants**: Some varieties produce both male and female flowers on the same individual. These are called "hermaphrodites" by cultivators, though "intersex" is more botanically correct. Intersex expression is undesirable for sinsemilla production but can be exploited in selfing programs.
+
+### Wind Pollination
+
+Cannabis is anemophilous (wind-pollinated). Pollen is dispersed in vast quantities into the air and travels on air currents. The plant has evolved recognition systems that ensure only cannabis pollen can germinate on a female stigma — there is both physical and biochemical species-specific recognition.
+
+### Seed Formation
+
+When compatible pollen lands on a receptive stigma, the pollen grain is hydrated and germinates, sending a pollen tube through the style to the ovary. Genetic material from the male (carried in the pollen) unites with genetic material from the female (in the ovule), creating a genetically unique embryo that develops within a seed coat. Each seed therefore contains genes from both parents and is genetically distinct from both.
+
+## Genetic Fundamentals
+
+### Dominant and Recessive Traits
+
+Cannabis traits are governed by alleles — alternative forms of the same gene. In simple [[cannabis-chromosomes-and-mendelian-inheritance]]:
+
+- **Dominant alleles** mask the expression of recessive alleles when both are present (heterozygous condition)
+- **Recessive alleles** are only expressed when present in pairs (homozygous recessive condition)
+- **Homozygous dominant** (AA): Two copies of the dominant allele — trait always expressed
+- **Heterozygous** (Aa): One dominant, one recessive — dominant trait expressed, recessive carried hidden
+- **Homozygous recessive** (aa): Two copies of recessive allele — recessive trait expressed
+
+### Polygenic Traits
+
+Most commercially important cannabis traits are polygenic — controlled by many genes acting together:
+
+- **Yield**: Influenced by dozens of genes affecting branching, flower density, flowering time, and plant vigor
+- **Potency**: THC, CBD, and [[cannabis-terpene-profiles]] are each controlled by multiple genetic loci
+- **Flavor and aroma**: Complex interactions between terpene synthase genes produce the enormous variety of cannabis aromas
+- **Disease resistance**: Multiple genes contribute to resistance against molds, pests, and pathogens
+
+## Breeding Strategies
+
+### Hybridization (Cross-Pollination)
+
+Crossing two unrelated, inbred parental lines (P1 × P2) produces F1 hybrid offspring. The F1 generation exhibits:
+
+- **Hybrid vigor (heterosis)**: F1 plants are often more vigorous, uniform, and productive than either parent
+- **Genetic uniformity**: All F1 plants are genetically identical (assuming homozygous parents)
+- **Intermediate traits**: F1 plants often show traits intermediate between the two parents
+
+F1 hybrids are the standard product of commercial seed companies. They provide uniform, predictable results but cannot be reliably bred from — the F2 generation will segregate, producing a wide range of variation.
+
+### Inbreeding
+
+Repeated self-pollination or crossing of closely related individuals over multiple generations to fix desired traits:
+
+- **Goal**: Create homozygous lines where desired traits breed true
+- **Method**: Self-pollinate or cross siblings for 6-8+ generations
+- **Consequences**: [[cervantes-hybrid-vigor-inbreeding-depression]] — loss of vigor, yield, and disease resistance over time
+- **Practical use**: Developing stable parental lines for hybrid seed production
+
+### Backcrossing
+
+Backcrossing is used to introduce a specific trait from a donor parent into an otherwise desirable genetic background:
+
+**Backcrossing a dominant trait (Example 1)**:
+1. Cross donor (AA, has desired dominant trait) with recurrent parent (aa, lacks it)
+2. F1 offspring are all Aa (express the trait)
+3. Backcross F1 to the recurrent parent (aa)
+4. Select offspring that express the trait (Aa), backcross again
+5. Repeat 4-6 times to recover ~99% of the recurrent parent's genetics while retaining the desired trait
+
+**Backcrossing a recessive trait (Example 2)**:
+1. Cross donor (aa) with recurrent parent (AA)
+2. F1 offspring are all Aa (do not express the recessive trait)
+3. Self the F1 or intercross siblings
+4. Select offspring that express the recessive trait (aa)
+5. Backcross selected (aa) individuals to the recurrent parent
+6. Repeat the selfing and selection step in each backcross generation
+
+### Selfing
+
+Self-pollination (selfing) forces a normally dioecious plant to breed with itself, creating a population that rapidly approaches homozygosity:
+
+- **Chemical induction**: Silver thiosulfate (STS) or colloidal silver solutions are sprayed on female plants to induce male flower development on otherwise female plants
+- **Purpose**: Create inbred lines for breeding, preserve unique genetics, or produce [[cannabis-feminized-seeds]]
+- **Rate**: Each generation of selfing reduces heterozygosity by approximately 50%
+- **Feminized seeds**: Selfed seeds from a female plant are all female (XX chromosomes), as no Y chromosome is involved
+
+## Selection Methods
+
+### Phenotypic Selection
+
+The simplest and most common approach — selecting plants based on observable characteristics:
+
+- **Visual inspection**: Bud structure, [[cannabis-glandular-trichome-types-resin-production-clarke]], color, aroma
+- **Growth characteristics**: Plant size, branching pattern, flowering time, yield
+- **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]**: THC/CBD/terpene profiling via laboratory testing
+- **Testing**: Consuming small samples to evaluate subjective effects
+
+### Progeny Testing
+
+A more advanced technique where the breeding value of a plant is assessed by evaluating its offspring rather than the plant itself. This is essential for traits with low heritability or when the breeding value of a parent is unclear from phenotype alone.
+
+## Practical Breeding Program Design
+
+A basic breeding program follows these steps:
+
+1. **Define objectives**: What traits are you selecting for? (potency, yield, flavor, disease resistance, flowering time)
+2. **Select parent stock**: Choose the best available individuals expressing desired traits
+3. **Make crosses**: Controlled pollination using isolation, timing, or hand-pollination
+4. **Grow and evaluate F1**: Assess hybrid performance
+5. **Advance generations**: F2, F3, etc., selecting the best individuals at each generation
+6. **Fix traits**: Through inbreeding or backcrossing
+7. **Test stability**: Grow multiple generations to confirm traits breed true
+8. **Release or clone**: Distribute seeds or maintain elite clones as mother plants
+
+## See Also
+
+- cannabis life cycle and photoperiod
+- cannabis [[cannabis-grow-hydroponic-growing-systems]]
+- [[cannabis-nutrient-management]] in [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]

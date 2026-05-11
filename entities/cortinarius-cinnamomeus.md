@@ -79,4 +79,4 @@ pressure, soil biology, yields, and long-term resilience.
 
 - [[suillus-luteus]]
 - [[pisolithus-tinctorius]]
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]

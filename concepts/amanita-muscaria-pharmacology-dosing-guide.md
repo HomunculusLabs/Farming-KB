@@ -88,62 +88,6 @@ The author compiled a comparison of healing claims across three religious tradit
 | Effect | Soma (Rig Veda) | Haoma (Yasna) | Christ/Eucharist (NT) |
 |---|---|---|---|
 | General healing | X | X | X |
-| Deafness | X | V | X |
-| Blindness | X | X | X |
-| Lameness | X | V | X |
-| Leprosy | V | V | X |
-| Physical rejuvenation | X | X | X |
-| Mental illness | I | X | X |
-| Prophecy | X | X | X |
-| Intoxication | X | X | X |
-| Visions | X | X | X |
-| Voices | X | I | X |
-| Immortality | X | X | X |
-| Psychoactive urine | X | X | X |
-
-X = Clearly stated; V = Covered by general statement; I = Implied
-
-The nearly perfect correspondence across three independent religious traditions is presented as evidence that the same drug plant underlies all three.
-
-## Modern Testimonials
-
-### Donald E. Teeter (Patient Zero)
-
-The most detailed account spans 10+ years of personal use:
-
-- **Cold sores and warts (herpes viruses):** Complete remission after initial doses. No cold sores or warts in 10 years (physicians confirmed this is very unusual). The mushroom "appears to me to be an antiviral agent."
-- **Arthritis:** Acute onset of burning pain in hips, back, and legs. Diagnosed as bursitis and tendonitis. After consuming ambrosia and dried caps, burning pain was completely gone within days. Walked upright without cane.
-- **Colds and flu:** At first sign of symptoms, consuming 1-2 grams causes all symptoms to disappear, usually within hours. No longer gets colds or flu.
-- **Tooth infections:** A small piece of cap placed on an infected tooth kills the infection quickly; pain usually stops in less than an hour.
-- **Kennel cough in dogs:** A small bowl of ambrosia given to three dogs produced complete remission from a single dose.
-
-### K. Lee (Age 35)
-
-- Chronic back, hip, and leg pain for four years; diagnosed with bursitis and tendonitis
-- After consuming caps and tea for two weeks, regained hip mobility and normal stride
-- Dental infections successfully treated by placing cap pieces over affected area like a bandage
-
-### L.L. Garner
-
-- Uses small quantities (1-2 grams) for sadness, anxiety, and insomnia
-- Reports sleeping better than in years; no longer feels controlled by emotions
-- Colds and flu now so mild that medication is not needed
-- Reports feeling "both sober and in control of my body and mind" -- unlike prescription medications
-
-### David Schanzle (Gardens of the Ancients, Manor TX)
-
-Summary of observations from numerous individuals:
 
 ## See Also
-
-- [[amanita-species-southeastern-us]]
-- amanita-poisoning-amanitine-toxicology
-- [[amanita-herb-maga-magic-great-gift]]
-- [[amanita-porphyria]]
-- [[amanita-muscaria-use-australia-nz]]
-- [[amanita-virosa]]
-- [[amanita-herb-norse-odin-berserkers]]
-- [[amanita-mappa]]
-- [[amanita-flavoconia]]
-- [[amanita-pantherina-regalis-neurotropic-ibotenic-acid]]
-- [[amanita-ceceliae]]
+- [[allegro-amanita-muscaria-properties-and-pharmacology]]

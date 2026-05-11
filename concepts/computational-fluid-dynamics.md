@@ -1,6 +1,6 @@
 ---
-title: "Computational Fluid Dynamics"
-aliases: [CFD, numerical fluid dynamics, fluid-flow simulation]
+title: Computational [[navier-stokes-equations-fluid-dynamics]]
+aliases: [CFD, numerical [[turbulence-modeling-fluid-dynamics]], fluid-flow simulation]
 tags: [engineering, fluid-dynamics, computational-physics, simulation, numerical-methods]
 created: 2026-05-02
 updated: 2026-05-06
@@ -24,7 +24,7 @@ Most CFD begins with conservation of mass, momentum, and energy written for a co
 
 The Navier-Stokes equations relate velocity, pressure, density, viscosity, body forces, and acceleration for viscous flow.
 
-The energy equation is needed when compressibility, heat transfer, combustion, [[phase-change-materials-thermal-energy-storage]], or temperature-dependent material properties matter.
+The energy equation is needed when compressibility, [[heat-transfer-mechanisms]], combustion, [[phase-change-materials-thermal-energy-storage]], or temperature-dependent material properties matter.
 
 Species-transport equations track mixtures, pollutants, vapor, combustion products, dissolved substances, or chemical reactants.
 
@@ -88,62 +88,3 @@ Hybrid RANS-LES methods, such as detached eddy simulation, combine wall- modeled
 Boundary conditions translate the physical problem into mathematical constraints on the computational domain.
 
 Common boundaries specify no-slip walls, slip walls, inlet velocity, mass flow, stagnation conditions, turbulence quantities, outlet pressure, symmetry, periodicity, or far-field flow.
-
-Thermal problems may require wall temperature, heat flux, convective heat transfer, radiation, conjugate heat transfer, or contact resistance.
-
-Multiphase and reacting simulations require additional conditions for volume fraction, species, droplet injection, evaporation, [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]], kinetics, or phase change.
-
-Initial conditions matter for transient flows, vortex shedding, combustion ignition, multiphase startup, turbulence development, and simulations with multiple stable states.
-
-Many CFD failures arise less from the solver than from boundary conditions that are convenient but physically inconsistent.
-
-## Verification and Validation
-Verification asks whether the equations were solved correctly by the code and by the chosen mesh, time step, and convergence criteria.
-
-Code verification may use exact solutions, manufactured solutions, benchmark cases, regression tests, and comparison with trusted algorithms.
-
-Solution verification estimates numerical uncertainty through grid convergence, time-step convergence, residual monitoring, conservation checks, and sensitivity studies.
-
-Validation asks whether the equations and models represent the real physical system for the intended application.
-
-Validation compares predictions with wind-tunnel data, full-scale tests, pressure taps, particle-image velocimetry, heat-transfer measurements, force balances, or field observations.
-
-A credible CFD study reports assumptions, boundary conditions, mesh independence, model choices, uncertainty, and the range in which conclusions are valid.
-
-## Applications
-Aerospace engineers use CFD for airfoils, wings, inlets, nozzles, reentry vehicles, rotorcraft, aeroacoustics, icing, and propulsion.
-
-Automotive engineers use it for drag, underbody flow, engine combustion, cabin ventilation, battery cooling, brake cooling, and soiling.
-
-Energy applications include wind turbines, gas turbines, nuclear thermal hydraulics, hydropower, oil-and-gas pipelines, boilers, heat exchangers, and carbon-capture equipment.
-
-Civil and environmental applications include wind loading on buildings, urban pollutant dispersion, rivers, floods, coastal flows, sediment transport, and ventilation.
-
-Biomedical simulations examine blood flow, aneurysms, heart valves, respiratory airflow, drug delivery, and medical-device performance.
-
-Entertainment and graphics also use fluid simulation, though production visual effects often prioritize plausible motion over engineering validation.
-
-## Limitations and Pitfalls
-CFD accuracy depends on the governing equations, mesh, numerics, boundary conditions, material properties, turbulence model, and user judgment.
-
-Strong separation, transition, shocks, cavitation, combustion, sprays, free surfaces, wall roughness, fluid-structure interaction, and multiphase flow remain difficult.
-
-RANS models can give plausible but misleading answers when calibrated outside their domain of validity.
-
-LES and DNS reduce some modeling errors but shift the burden to resolution, wall treatment, sampling time, and computational expense.
-
-Poor meshes may create artificial diffusion, unstable iterations, nonphysical pressure fields, or hidden local errors.
-
-## See Also
-- [[turbulence-modeling-fluid-dynamics]]
-- [[heat-transfer-mechanisms]]
-- [[navier-stokes-equations-fluid-dynamics]]
-
-## References
-- Wikipedia, "Computational fluid dynamics," accessed 2026-05-02.
-- NASA Glenn Research Center, "Navier-Stokes Equations," accessed 2026-05-02.
-- Versteeg and Malalasekera, An Introduction to Computational Fluid Dynamics: The Finite Volume Method.
-
-## See Also
-
-- [[navier-stokes-equations-fluid-dynamics]]

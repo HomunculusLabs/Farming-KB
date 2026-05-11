@@ -88,34 +88,3 @@ Other bird species documented using R. menziesii include the Allen's hummingbird
 The species serves as microhabitat for diverse invertebrate communities, including mites, springtails, nematodes, and various lichen-feeding insects. These microarthropod communities contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and energy flow within the forest canopy ecosystem.
 
 Ramalina menziesii is sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Declining populations near urban areas and agricultural operations have been documented, making the species a useful bioindicator for monitoring air quality changes along the Pacific coast.
-
-The species plays a role in nutrient cycling by intercepting atmospheric particles and dissolved nutrients from fog drip. In redwood forests, R. menziesii contributes significantly to canopy nutrient retention, capturing nitrogen and mineral particles that are subsequently washed to the forest floor during rain events. This canopy interception function is particularly important in the nutrient-poor soils characteristic of many coastal ecosystems.
-
-## Similar Species
-
-**Ramalina farinacea** is a more erect, bushy species with narrower branches that are typically covered with powdery soredia. It lacks the net-like anastomosing habit of R. menziesii and is more common in inland and montane habitats. The soredia of R. farinacea are borne on specialized soralia, providing a clear vegetative reproductive mode absent in R. menziesii.
-
-**Ramalina fastigiata** forms erect, shrubby cushions with cylindrical branches and produces abundant apothecia. It is primarily an epiphyte on nutrient-enriched bark and does not display the pendulous, curtain-like growth form of R. menziesii.
-
-**Usnea** species, particularly *Usnea barbata*, can appear superficially similar when hanging from branches. However, *Usnea* species possess a distinct central cord visible upon tearing the branch, while R. menziesii has no central axis. The net-like morphology of R. menziesii is also diagnostic.
-
-**Evernia prunastri** (oakmoss) has a similar grey-green coloration and flattened, strap-like branches but typically forms shorter, more compact tufts without the extensive anastomosing mesh. It is also strongly aromatic when dry, while R. menziesii has little to no scent.
-
-**Alectoria sarmentosa** (witch's hair) is another pendulous lichen of Pacific coastal forests, but it forms dark brown to black, hair-like strands rather than a net-like mesh. It typically occurs in wetter, higher-elevation forests and is less common in the oak woodlands favored by R. menziesii.
-
-**Hypogymnia physodes** may co-occur with R. menziesii on the same tree but is a foliose species with hollow, inflated lobes. It has a distinctly different growth form and chemistry, producing physodic acid rather than usnic acid as its primary medullary compound.
-
-**Peltigera membranacea** is a large foliose lichen found in similar coastal forest habitats but grows on soil and mossy substrates rather than as an epiphyte. It associates with cyanobacteria as its photobiont and has a very different ecological niche despite overlapping geographic distribution.
-
-## See Also
-
-- [[ramalina-fraxinea]]
-- [[ramalina-fastigiata]]
-- [[ramalina-farinacea]]
-- [[usnea-barbata]]
-- [[usnea-florida]]
-- [[evernia-prunastri]]
-- [[lobaria-pulmonaria]]
-- [[lobaria-oregana]]
-- [[cladonia-rangiferina]]
-- [[peltigera-membranacea]]

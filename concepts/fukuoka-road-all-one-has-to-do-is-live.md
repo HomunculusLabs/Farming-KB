@@ -1,10 +1,11 @@
 ---
 title: All One Has to Do Is to Live
 created: 2026-04-28
-tags: [philosophy, life, nature, civilization, [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem|food]]-origin]
+tags: [philosophy, life, nature, civilization, [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem|food]-origin]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka-human-intellect-barrier-to-nature-road-back|fukuoka.md"
 type: concept
 ---
@@ -87,34 +88,8 @@ Human knowledge has passed beyond the bounds of naturally
 derived knowledge. Fukuoka rejects human knowledge that
 deviates from the wisdom of God. He fears that mankind may
 refuse to live in an inhabitable nature and may cut himself
-off from the future with his arrogant intellect.
-
-Creation is like a magnificent orchestra playing the
-symphony of nature. Humanity should have been content as
-one member of that orchestra. Bored with just watching the
-natural drama, mankind has been drawn toward a stage where
-he can play a one-man show.
-
-## The Great Grain Civilizations
-
-Wild wheat arose on the Mesopotamian plains. Wild rice
-originated in southern China, Burma, and remote parts of
-Assam. Rice also existed since antiquity in the Saharan
-region of Africa. Ancient man who settled in these three
-great birthplaces of grain began cultivating the wild rice
-and wheat, coming by an abundance of food. The Mesopotamian,
-Chinese, and Egyptian civilizations were built up. But today,
-each of these regions has been totally transformed to desert.
-All that remains are vast, desolate ruins.
-
-Fukuoka strongly doubts this was the result of climate
-change. What actually happened was that trees were cut down
-in the name of civilization. Advances were made in farming
-methods and slash-and-burn agriculture adopted, depleting
-the soil and setting [[fukuoka-dharmic-law-all-things-return-to-one]]
-- [[fukuoka-road-one-straw-revolution-continuation]]
-- [[fukuoka-god-nature-and-man-as-one]]
 
 ## See Also
-
 - [[fukuoka-road-man-does-not-live-by-bread-alone]]
+- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
+- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]

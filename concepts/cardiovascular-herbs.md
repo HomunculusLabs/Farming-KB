@@ -36,7 +36,7 @@ Artichoke leaf (Cynara scolymus) contains cynarin, which stimulates bile product
 
 Guggul (Commiphora mukul) is an Ayurvedic herb whose guggulsterone content has demonstrated lipid-lowering activity. It increases the liver's metabolism of LDL cholesterol and promotes thyroid function, which supports healthy lipid metabolism. Guggul should be used cautiously with thyroid medications and beta-blockers.
 
-Green tea ([[camellia-sinensis-entity]]) contains catechins, particularly epigallocatechin gallate (EGCG), with antioxidant and lipid-modulating properties. Regular green tea consumption is associated with reduced cardiovascular risk in epidemiological studies. Green tea's effects on cholesterol are modest but consistent with regular consumption.
+Green tea ([[camellia-sinensis]]) contains catechins, particularly epigallocatechin gallate (EGCG), with antioxidant and lipid-modulating properties. Regular green tea consumption is associated with reduced cardiovascular risk in epidemiological studies. Green tea's effects on cholesterol are modest but consistent with regular consumption.
 
 ## Herbs for Circulation and Blood Vessel Health
 

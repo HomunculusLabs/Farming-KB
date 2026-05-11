@@ -47,7 +47,7 @@ in acetic acid (3.0 mL) at 100 °C on a [[scythian-cannabis-steam-bath-ritual]],
 concentrated HCl (1.0 mL) and additional acetic acid to maintain
 smooth stirring for 0.5 h, yielded the beta-hydroxy product instead
 of the expected beta-methoxy compound. The yield was modest (0.2 g
-from 0.4 g starting material). After basification and extraction,
+from 0.4 g [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]). After basification and extraction,
 the product was distilled at 130-140 °C at 0.25 mm/Hg.
 
 The usual method for preparing beta-ethanolamines, via cyanohydrin
@@ -88,42 +88,3 @@ strictly required for the cardiovascular effect.
 
 Shulgin's BOX coding system is a systematic way to name beta-
 oxygenated phenethylamines:
-
-- **RBO-S prefix**: indicates oxygen on the benzyl carbon
-  (benzyl alcohol) of a phenethylamine. "B" stands for Benzyl,
-  "O" for Oxygen.
-
-- **Third letter** (if present): identifies the substituent on
-  that benzyl oxygen:
-  - (none/implicit) = methyl group (methoxy)
-  - **H** = hydroxyl group
-  - **A** = acetyl group
-  - **E** = ethyl group
-
-- **Fourth letter**: identifies the parent 2C-X compound from
-  which it was derived:
-  - **BS** = from 2C-B
-  - **DS** = from 2C-D
-  - **HS** = from homopiperonylamine (MDPEA)
-  - **MS** = from mescaline
-
-Thus:
-- BOHD = Beta-OH-D(2C-D): beta-hydroxy derivative of 2C-D
-- BOM = Beta-O-M(escaline): beta-methoxy derivative of mescaline
-- BOAD = Beta-O-Acetyl-D(2C-D): beta-acetoxy derivative of 2C-D
-
-Shulgin compares this to the Du Pont Freon naming convention,
-where the numbers encode carbon, hydrogen, and fluorine counts.
-
-## Significance
-
-BOHD demonstrates that beta-ethanolamine phenethylamines are
-generally uninteresting as psychedelics but may have cardiovascular
-pharmacology relevant to beta-blocker drugs. The compound serves
-as a negative data point in the BOX series exploration.
-
-## See Also
-
-- [[bob-pihkal-entry-13]]
-- [[dom]]
-- [[psilocybin-tryptamine-chemistry-fungi]]

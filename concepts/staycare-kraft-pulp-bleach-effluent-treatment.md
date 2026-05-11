@@ -1,5 +1,5 @@
 ---
-title: Kraft Pulp Bleach Effluent Treatment by White Rot Fungi
+title: Staycare Kraft Pulp Bleach Effluent Treatment
 created: 2026-04-28
 tags: [bioremediation, pulp-paper, effluent-treatment, white-rot-fungi, industrial-wastewater]
 date: 2026-04-25
@@ -20,12 +20,12 @@ supplement to conventional physical and chemical treatment methods.
 ## Composition of Bleach Plant Effluents
 
 Bleach plant effluents from kraft pulping contain multiple classes of
-pollutants. Chlorinated compounds include chlorophenols and chlorolignols
+pollutants. [[singh-fungal-degradation-of-chlorinated-compounds]] include chlorophenols and chlorolignols
 that are toxic and persistent. Non-chlorinated resin acids, which are
 diterpenoid carboxylic acids from wood, account for 0.2-0.8% of total
 wood weight and contribute to effluent toxicity. Guaiacols, by-products
 of the bleaching process, are persistent pollutants of both terrestrial
-and aquatic ecosystems.
+and [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 The high temperature and alkaline pH of these effluents during
 production can kill most contaminating microorganisms, providing a
@@ -65,7 +65,7 @@ reactions occur through hydroxylation reactions.
 Mortierella isabellina can hydroxylate dehydroabietic acid, abietic
 acid, and isopimaric acids. Chaetomium cochliodes transforms
 dehydroabietic acid. However, transformations by several fungi may be
-incomplete. Pretreatment of wood chips with fungi before pulping may
+incomplete. Pretreatment of [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] with fungi before pulping may
 prove useful for removing toxic resins prior to the pulping process,
 representing a preventive rather than remedial approach.
 
@@ -88,36 +88,3 @@ degradation of BPEs. Such systems could combine the advantages of
 biological specificity with the reliability and controllability of
 chemical processes, potentially offering industrial-scale treatment
 solutions.
-
-## Bioreactor Applications for BPE Treatment
-
-Multiple bioreactor configurations have been applied to BPE treatment.
-Packed bed bioreactors using Pycnoporus cinnabarinus achieved effective
-decolorization of pigment plant effluents. Fluidized bed reactors with
-[[singh-immobilized-fungal-bioreactors-wastewater-treatment]] pellets have shown good performance for continuous
-treatment. The ability to maintain active [[bioremediation-fungal-biomass-biosorbent-material]] over prolonged
-periods is important for commercial viability.
-
-Eaton et al. considered that the combination of temperature, pH, and
-nutrient limitation in kraft effluent treatment systems would be enough
-to inhibit growth of most competing organisms, potentially allowing
-non-aseptic operation. If competing microbes are present, they may use
-added carbon sources and deny them to the slower-growing white rot
-fungi.
-
-## Advantages of Fungal Treatment
-
-[[staycare-fungal-treatment-of-molasses-wastewater]] BPEs offers several advantages: simultaneous
-decolorization and detoxification through multiple enzyme systems;
-ability to degrade both chlorinated and non-chlorinated components;
-potential for enzyme reuse and biomass regeneration; and compatibility
-with existing treatment infrastructure through various bioreactor
-designs. White rot fungi can also reduce chemical oxygen demand (COD)
-along with color removal, addressing multiple effluent quality
-parameters simultaneously.
-
-## See Also
-
-- [[mycoremediation]]
-- [[staycare-fungal-treatment-of-textile-industry-wastewater]]
-- [[staycare-trametes-versicolor-bioremediation-applications]]

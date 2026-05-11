@@ -87,17 +87,3 @@ cultivation and compost application. The permanent nature of tree plantings
 makes it important to place them in soil that has been well prepared.
 
 ## Companion Planting with Tree Crops
-
-Companion planting principles apply to tree crops as well. Certain plants can
-be grown under fruit trees as beneficial companions. Planting sour berry bushes
-near fruit trees provides food and protection for birds that serve as insect
-predators. The companion [[mollison-designers-companion-planting-charts-and-principles]] include specific recommendations for
-fruit tree companions.
-
-## See Also
-
-- [[jeavons-energy-fiber-crops]]
-
-[[jeavons-master-planning-mini-farms]]
-[[jeavons-companion-planting]]
-[[jeavons-garden-planning-four-year-rotation]]

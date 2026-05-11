@@ -28,7 +28,7 @@ branches across temperate and [[fungal-diversity-boreal-forests-taiga]] worldwid
 The species has been used in traditional medicine for millennia, valued for its
 potent [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Its primary bioactive constituent, **usnic
 acid**, exhibits broad-spectrum antibiotic activity and has been investigated
-for pharmaceutical applications including wound care and anti-tumor research.
+for pharmaceutical applications including [[blesching-cannabis-wound-care]] and anti-tumor research.
 
 ## Taxonomy and Morphology
 
@@ -67,9 +67,9 @@ measuring 7–12 × 3–5 µm.
 ## Distribution and Habitat
 
 *U. barbata* has a **circumpolar [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]**, found across Europe,
-North America, Asia, and parts of Africa and South America. It is most abundant
+[[guzman-psilocybin-mushrooms-north-america]], Asia, and parts of Africa and [[guzman-psilocybin-mushrooms-south-america]]. It is most abundant
 in regions with clean air, as the genus is highly sensitive to atmospheric
-pollution — *Usnea* species are widely used as **bioindicators of air quality**.
+pollution — *Usnea* species are widely used as **bioindicators of [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]**.
 
 Preferred habitats include:
 - Bark of deciduous and coniferous trees in mature forests
@@ -88,16 +88,3 @@ dioxide sensitivity.
   constituting 2–8% dry weight. Occurs in both (+)- and (-)-enantiomeric
   forms; the (+)-form is more biologically active.
 - **Barbatic acid** — a depside found in the cortical layer
-- **Thamnolic acid** — present in some chemotypes
-- **Evernic acid** — minor constituent in some populations
-
-### Pharmacological Activities
-
-**Antibacterial activity:** Usnic acid demonstrates potent activity against
-Gram-positive bacteria including *Staphylococcus aureus* (MIC 1–8 µg/mL),
-*Streptococcus* spp., and *Enterococcus* spp. Activity against Gram-negative
-bacteria is significantly weaker.
-
-**Antifungal activity:** Moderate inhibition of *[[cladonia-rangiferina]] — Fellow fruticose lichen of circumpolar regions
-- [[hericium-erinaceus]] — Medicinal fungus with documented bioactivity
-- [[psilocybe-cubensis]] — Another fungus with notable [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

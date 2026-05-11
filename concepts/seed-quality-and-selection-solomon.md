@@ -1,5 +1,5 @@
 ---
-title: Seed seed quality and selection solomon (Solomon)
+title: Seed Quality And Selection Solomon
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapters 4-6
+Source: Gardening When It Counts, [[steve-solomon]], Chapters 4-6
 
 Solomon founded Territorial Seed Company and brings decades of experience to the subject of seed quality. His central argument: most home gardeners don't realize how much seed quality matters, and the seed rack at the garden center is often the worst possible source.
 
@@ -70,7 +70,7 @@ No single variety performs well everywhere. A seed company serving the entire En
 
 Solomon's [[mollison-climate-zones-permaculture-strategies]]:
 - **Short-season**: Northern tier of US states, southern Canada within a few hundred miles of the US border
-- **Moderate**: Middle American states, roughly from northern Pennsylvania to southern North Carolina, [[fukuoka-east-coast-forest-livestock-soil-damage]] of Australia south of Sydney
+- **Moderate**: Middle American states, roughly from northern Pennsylvania to southern [[north-carolina-mycodiversity]], [[fukuoka-east-coast-forest-livestock-soil-damage]] of Australia south of Sydney
 - **Warm**: Southern US states, Australia from Sydney north to Bundaberg
 
 The likelihood of success is far higher when the seed supplier's trial grounds are in roughly the same climatic zone as your garden.
@@ -78,7 +78,7 @@ The likelihood of success is far higher when the seed supplier's trial grounds a
 ## Evaluating Seed Companies
 
 A responsible seed company:
-1. Conducts variety trials in conditions relevant to their customers
+1. Conducts [[coleman-seed-selection-and-variety-trials]] in conditions relevant to their customers
 2. Maintains germination levels well above minimum standards
 3. Tests seed inventory twice yearly
 4. Offers varieties adapted to the regions they serve
@@ -86,37 +86,5 @@ A responsible seed company:
 
 Warning signs of a poor seed company:
 - Varieties that "work everywhere" (impossible)
-- Heirloom varieties at suspiciously low prices
+- [[cannabis-landrace-and-heirloom-varieties]] at suspiciously low prices
 - No information about germination percentages
-- No indication of where trials were conducted
-- Heavy marketing of novelty varieties over proven performers
-
-## Mail-Order vs. Garden Center
-
-Solomon strongly recommends mail-order seed companies over garden center seed racks:
-
-- Better germination standards
-- Regional adaptation
-- Wider variety selection
-- Access to variety trial data
-- Seeds stored properly and tested regularly
-
-The garden center seed rack is supplied by jobbers seeking the lowest possible price, resulting in seed of uncertain quality, poorly adapted varieties, and germination levels at or near the legal minimum.
-
-## Seed Storage
-
-Seed viability declines with time and [[vegetable-storage-conditions-by-temperature-and-humidity]]. Key principles:
-
-- Cool, dry, dark storage extends viability
-- Seeds in sealed containers at refrigerator temperatures store longest
-- Some species (alliums, parsnips) lose viability quickly — buy fresh annually
-- Other species (tomatoes, brassicas) can store 3-5 years under good conditions
-- Never use seed that has been stored in hot, humid conditions
-
-See also: [[seed-saving-vegetables]], [[seed-starting-reference]]
-
-## Related
-
-- [[solomon-choosing-seeds-and-catalogs]]
-- [[solomon-gardening-when-it-counts-index]]
-- [[solomon-garden-tools-selection-and-maintenance]]

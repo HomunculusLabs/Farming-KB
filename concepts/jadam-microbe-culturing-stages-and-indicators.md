@@ -19,7 +19,7 @@ both premature use and the loss of viable microorganisms.
 ## The Foam-Based Indicator System
 
 JMS culturing follows a predictable progression of foam development that
-serves as a reliable visual indicator of microbial population dynamics. The
+serves as a reliable visual indicator of microbial [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]]. The
 key principle is that foam quantity and quality directly reflect the number
 and activity of microorganisms in the solution.
 
@@ -88,25 +88,3 @@ temperature produces fewer but more appropriate microbes.
 ### Winter Culturing
 
 When water temperature drops below 18 degrees C (64.4 degrees F), heating
-and insulation become necessary. Select a sheltered location, ideally
-inside a greenhouse. Wrap the container tightly with insulation on all sides,
-including bottom and top. A 3kW heater is used for 500-liter containers;
-1.5kW for 100-300 liter containers.
-
-If temperature is maintained at 25 degrees C, foam will be vigorous. For
-culturing microbes adapted to sub-zero temperatures, set temperature to
-20 degrees C. At this temperature, cold-adapted microbes will also
-propagate. Winter culturing takes approximately 72 hours.
-
-### Summer Culturing
-
-In summer, culturing is faster with more vigorous foam. The entire process
-can complete in as little as 24-48 hours. The foam will be larger and more
-active than in cooler conditions. The same indicators [[jadam-leaf-mold-source-collection-and-artificial-production]]
-- freshwater-fungi-collection-and-culturing
-
-## See Also
-
-- [[jadam-root-diagnosis-soil-health-indicators]]
-- [[decomposition]]
-- [[jadam-microorganism-solution-culturing]]

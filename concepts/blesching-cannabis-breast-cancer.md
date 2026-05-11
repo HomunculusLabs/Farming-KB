@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Breast Cancer"
+title: Blesching Cannabis Breast Cancer
 created: 2026-04-26
 tags:
   - cannabis
@@ -49,7 +49,7 @@ cannabinoids to whole cannabis extract. Cannabidiol emerged as the most potent
 anti-breast cancer substance, on par with the cannabidiol-rich whole plant
 extract. The authors wrote: "our experiments indicate that the cannabidiol
 effect is due to its capability of inducing apoptosis via elevation of
-intracellular Ca2+ and reactive oxygen species."
+intracellular Ca2+ and [[reactive-oxygen-species-and-oxidative-stress]]."
 
 ### THC and Cell Cycle Blockade
 
@@ -87,33 +87,4 @@ inhibiting breast cancer progression.
 | Anandamide         | Laboratory   | Inhibits prolactin-responsive cancer cells     | 1   |
 | Anandamide         | Laboratory   | Blocks human breast cancer cell growth         | 1   |
 
-Total CHI Value: 11 (6 studies reviewed)
-
-## Strain-Specific Considerations
-
-Pre-clinical trials demonstrated that anandamide and numerous plant cannabinoids
-such as THC, but especially CBD, limit breast cancer cell proliferation and
-produce apoptosis (cancer cell death). Therapeutic mechanisms begin at CB2
-receptor sites. Indica strains or indica-heavy hybrids tend to have a higher CBD
-profile. A CBD profile of more than 3-4% is considered potent.
-
-## Mind-Body Medicine Perspective
-
-Researchers examining links between emotional expressions and breast cancer
-found that IgA levels were significantly higher in patients who habitually
-suppressed anger versus those able to express anger. The University of Arizona
-confirmed that acceptance of emotions and emotional processing decreased overall
-mortality from breast cancer. Close relationships with confiding and dependable
-support were protective against cancer progression.
-
-Aggravating factors may include suppressed anger, depressive reactions, decreased
-immunity, unresolved conflicts with one's mother, sexual inhibition, self-
-sacrifice, and inability to appropriately discharge anger. Healing factors
-include acceptance of emotions, willingness to process emotions, and close
-relationships including confiding and dependable support.
-
-## See Also
-
-- [[blesching-cannabis-cancer-symptoms]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-chemotherapy-nausea]]
+Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 11 (6 studies reviewed)

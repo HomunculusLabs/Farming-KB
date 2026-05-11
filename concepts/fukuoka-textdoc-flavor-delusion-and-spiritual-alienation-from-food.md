@@ -1,10 +1,11 @@
 ---
-title: "fukuoka textdoc flavor delusion and spiritual alienation from food and fukuoka-flavor-philosophy-spiritual-alienation-food from Food"
+title: [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]] Delusion And [[fukuoka-flavor-philosophy-spiritual-alienation-food]] From Food
 created: 2026-04-28
-tags: [fukuoka, natural-farming, food-philosophy, natural-diet, flavor, spiritual-alienation]
+tags: [fukuoka, [[natural-farming]], food-philosophy, [[natural-diet]], flavor, spiritual-alienation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka argues that modern humanity has become
+[[masanobu-fukuoka]] argues that modern humanity has become
 spiritually alienated from food, chasing after flavor while
 losing the ability to perceive true taste. The pursuit of
 delicious food has paradoxically made delicious food
@@ -86,60 +87,3 @@ tastes good to a sick person and nothing is nutritious to one
 who is not healthy. Unconcerned over whether taste is
 associated with the food proper or the person eating it,
 humanity has elected to produce food with its own hand.
-
-The food that animals eat by instinct constitutes a complete
-diet, but humanity, with its reliance on discriminating
-knowledge, has lost sight of what a complete diet is. As the
-harm caused by an unbalanced diet becomes clear, humans grow
-concerned and attempt to resolve this through science. But
-the desires from which spring their cravings proceed one step
-ahead of these efforts, aggravating the problem.
-
-## The Escalating Spiral of Craving
-
-Once a person eats something sweet, food that they had felt
-until then to be sweet loses its appeal. Once they sample
-epicurean food, plainer fare becomes unacceptable and they
-go off in search of even greater culinary extravagance.
-
-Although the development of new foods that satisfy human
-cravings continues, such cravings are merely illusions spun
-by humanity over things in the phenomenological world. These
-illusions invite other illusions, widening the circle of
-human delusion. The day that these cravings are fully
-satisfied will never come.
-
-## The Food Industry as Amplifier
-
-A look at the food industry should give a clear idea of the
-likely outcome. The shelves are overflowing with an endless
-variety of canned foods, bottled foods, frozen and dried
-foods, instant dinners. Is this vast array really essential?
-This instant food has already deviated far from its original
-goal. Food today is thought of less as something that
-supports life than as something to please the human palate.
-
-Some people believe that with further advances in food
-technology it will eventually be possible to produce complete
-instant foods in factories, liberating humanity from tiresome
-dietary habits. What utter nonsense. Creating such a complete
-food would require incredibly huge expenditures. The end
-product would be horrendously expensive.
-
-## Processing and Deception
-
-People nowadays seem to live by feeding on a mist of notions.
-Humanity originally ate because it was alive, because
-something was delicious, but modern humans eat to live and
-think that if they do not prepare and dine on choice cuisine,
-they will not be able to eat delicious food.
-
-In efforts to make bread tastier, bread has ceased to taste
-## See Also
-
-- [[fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis]]
-  for the specific analysis of the [[fukuoka-tasty-rice-illusion-food-processing]] movement
-- [[fukuoka-textdoc-nature-of-food]] for the unity of
-  matter and spirit in food
-- [[fukuoka-textdoc-matter-spirit-unity-food]] for the
-  Buddhist philosophical framework

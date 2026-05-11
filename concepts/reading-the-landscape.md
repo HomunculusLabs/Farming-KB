@@ -1,15 +1,16 @@
 ---
-title: Reading the Landscape
+title: Reading The Landscape
 created: 2026-04-26
 tags:
   - observation
-  - permaculture
+  - [[permaculture]]
   - holzer-permaculture
   - landscape-design
   - ecological-assessment
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 # Reading the Landscape
 
 Reading the landscape is the foundational skill in [[comparison-sepp-holzer-vs-biodynamic]]'s approach to
-permaculture. Before any earthworks, planting, or water management can begin,
+permaculture. Before any earthworks, planting, or [[water-management]] can begin,
 the practitioner must learn to observe and interpret what the land itself is
 communicating. This observational methodology underpins all of [[desertification-causes-reversal]], and loss of
 biodiversity appear as logical consequences of human interference.
@@ -38,7 +39,7 @@ At ground level, the practitioner examines:
 - The condition of existing vegetation (healthy or stressed)
 - Natural monuments such as old trees, wells, and rock formations
 
-The vegetation indicates what nutrients are available in the soil. Soil life
+The vegetation indicates what nutrients are available in the soil. [[soil-life]]
 should be assessed: worms, woodlice, snails, and humus presence indicate a
 healthy system. Overpopulation of so-called pests signals imbalance.
 
@@ -87,25 +88,3 @@ consciousness he cannot access when awake.
 When assessing a new piece of land, Holzer recommends asking:
 - How large is the area and how is it orientated?
 - Is the land level, hilly, or sloping?
-- Are there diverse microclimates?
-- Is the ground sandy, clay, or humus-rich?
-- What animals and plants thrive here and in the surrounding area?
-- Is the soil life intact?
-- What is the predominant wind direction and strength?
-- How high is the annual rainfall and when does it rain?
-- Are there wells, and how deep is the groundwater level?
-- Is it possible to collect rainwater?
-- Was the land cultivated before, and how?
-
-## Water as the Primary Indicator
-
-Water is the most valuable ecological capital of the landscape. The best soil
-is where water stays the longest. Reading the landscape means understanding
-where water wants to go, where it collects naturally, where it seeps into the
-ground, and where it runs off. A map with contour lines reveals the natural
-zones where water retention spaces should be placed.
-
-## See Also
-
-- [[holzer-water-landscapes-retention]] for creating water-based landscapes
-- [[permaculture-zones-in-practice]] for [[mollison-course-zone-planning-and-design]] methodology

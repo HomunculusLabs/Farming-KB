@@ -1,5 +1,5 @@
 ---
-title: Ant and Termite gadd-beetle-gut-fungal-symbiosis-and-coevolution
+title: Ant Termite Fungal Symbiosis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -23,7 +23,7 @@ Fungus-growing ants (Attini) and fungus-growing termites (Macrotermitinae) repre
 
 ### The Symbiosis
 
-- Ants provide plant material as substrate for fungal growth
+- Ants provide plant material as substrate for [[brassinosteroid-fungal-growth-promotion]]
 - Fungus degrades plant material and serves as primary food source for ant colonies
 - Some specific associations rank among the most important causes of crop loss in Latin America
 - Worker ants actively tend and weed the fungus garden
@@ -47,7 +47,7 @@ Fungus-growing ants (Attini) and fungus-growing termites (Macrotermitinae) repre
 - Excavation of nests can take days
 - Direct isolation from field nests usually fails (contamination by faster-growing fungi)
 - Keep ant workers with nest material in moist container for ~3 days; workers reconstitute quasi-axenic conditions
-- Alternative method: Trap inseminated queens after nuptial flights; queens carry mycelium pellets
+- Alternative method: Trap inseminated queens after nuptial flights; queens carry [[mycelium]] pellets
 - Queens maintained in plaster-bottom jars with 15cm deep moist sandy soil
 - Time for fungus culture to mature: 4 days to 7 weeks depending on species
 - Nuptial flights occur only at certain periods; sometimes only a single night
@@ -64,7 +64,7 @@ Some Cyphomyrmex species cultivate yeasts:
 Attine nests maintained under axenic or quasi-axenic conditions -- mostly a single basidiomycete strain. Other fungi are uncommon and of two types:
 
 1. **[[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]** (e.g., xylariaceous species): Probably introduced with leaf substrata
-2. **Specialized parasites**: Escovopsis -- a recently described genus, restricted to attine fungus gardens, rarely isolated
+2. **Specialized parasites**: Escovopsis -- a recently described genus, restricted to attine [[termite-ant-fungus-gardens]], rarely isolated
 
 ### Collection Preservation
 
@@ -77,7 +77,7 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 
 ### Distribution
 
-- Restricted to Old World higher termites (tribe Macrotermitinae, family Termitidae)
+- Restricted to [[datura-metel-old-world-ethnobotany]] higher termites (tribe Macrotermitinae, family Termitidae)
 - Range: Tropical Africa eastward to southeastern Asia
 - Nests can be large structures extending above ground to dominate landscapes
 - Termites often interfere with agriculture by attacking crops
@@ -88,49 +88,3 @@ Attine nests maintained under axenic or quasi-axenic conditions -- mostly a sing
 - Fungal associates are species of Termitomyces (Basidiomycota, Lepiotaceae) -- same family as most attine ant fungi
 - Most species form basidiocarps annually at onset of rainy season
 - [[ingham-fungal-inoculum-sourcing]] dispersed in guts of alates (winged reproductives) in some species
-- Workers of some species observed foraging on basidiocarps
-
-### Cultivation and Collection
-
-- Collect basidiocarps at the right time (may compete with local people who consider them choice edibles)
-- Fungus also collected from combs (spherules of conidiophores and conidia)
-- Excavation of nest to reveal combs may take several days
-- Insects preserved in 70% alcohol
-- Combs carried to laboratory in plastic bags; studied immediately
-- Cultures established from basidiospores or combs; common media (oatmeal flakes, Sabouraud glucose, malt extract, [[marmite-yeast-extract-straw-substrate]] agars)
-
-### Comb Microbiota
-
-- Older combs become overgrown by saprobic fungi when removed from nest
-- Termite secretions and nest conditions (high CO2) apparently deter saprobic growth
-- Xylaria regularly associated with combs but overgrows Termitomyces when comb removed from nest
-- Both can grow in same combs without termites if nest remains intact
-
-## Wood Wasps and Fungi
-
-- Siricid wood wasps cultivate Amylostereum species (Stereaceae) and Cerrena unicolor (Polyporaceae)
-- Fungi isolated by allowing basidiospores to eject onto agar from suspended hymenium
-- Also isolated from intersegmental pouches of female wasps
-- Center for Forest Mycology maintains many cultures
-
-## Significance
-
-These symbioses are important for:
-
-- Understanding coevolution between insects and fungi
-- Ecosystem-level carbon and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- Tropical forest ecology (20% of Neotropical photosynthate turnover)
-- Agricultural pest management
-- Discovery of novel antibiotics from nest microbiomes
-- Insights into the evolution of agriculture
-
-## See Also
-
-- [[mckenna-leafcutter-ant-fungal-agriculture]]
-
-- [[termite-ant-fungus-gardens]]
-
-- [[cordyceps-and-entomopathogenic-fungi]]
-- [[fungal-symbiosis-types]]
-- [[fungal-insect-interactions-diversity]]
-- insect-associated-fungi-sampling-diversity

@@ -10,9 +10,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Green, J. (2017). "The green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible." Green Candy Press.
-  - Rosenthal, E. (2018). "Beyond Buds: Next Generation." Quick American Archives.
+  - Rosenthal, E. (2018). "Beyond Buds: [[next-generation-sequencing-hidden-fungal-diversity]]." Quick American Archives.
   - Leafly Staff (2024). "God Bud Strain Information." Leafly.com.
-  - Cannabis Wikipedia contributors (2025). "List of cannabis strains." Wikipedia.
+  - Cannabis Wikipedia contributors (2025). "List of [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]." Wikipedia.
 ---
 
 ## Overview
@@ -23,11 +23,11 @@ The strain consistently produces high THC levels ranging from 18–25%, with som
 
 ## Lineage
 
-God Bud's exact genetic heritage varies between sources, but the most commonly cited parentage is a cross between **Purple Skunk** and **Hawaii**. Some accounts include additional genetic contributions from **Blueberry** or an unnamed Afghan indica.
+God Bud's exact genetic heritage varies between sources, but the most commonly cited parentage is a cross between **Purple Skunk** and **Hawaii**. Some accounts include additional [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] from **Blueberry** or an unnamed Afghan indica.
 
 The Purple Skunk parent contributes dense bud structure, purple coloration potential, and a skunky aroma base. The Hawaiian parent adds tropical fruit notes, elevated [[cannabis-glandular-trichome-types-resin-production-clarke]], and a cerebral uplift that balances the heavy body effects.
 
-BC Bud Depot selectively bred God Bud over multiple generations to stabilize its distinctive traits, including its massive resin production and deeply sedating finish.
+BC Bud Depot selectively bred God Bud over multiple generations to stabilize its distinctive traits, including its massive [[cannabis-resin-production-and-quality-traits-clarke]] and deeply sedating finish.
 
 ## Appearance
 
@@ -60,7 +60,7 @@ On the palate, God Bud delivers a smooth, sweet smoke with flavors of tropical f
 - **CBG**: 0.1–0.3%
 - **THCV**: trace
 
-God Bud is a high-THC, low-CBD strain with virtually no detectable CBD in most tested samples. Its potency comes primarily from THC content.
+God Bud is a high-THC, low-CBD strain with virtually no detectable CBD in most tested samples. Its potency comes primarily from [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]].
 
 ## Effects
 
@@ -83,31 +83,8 @@ God Bud is considered a moderately difficult strain to grow, requiring some expe
 
 The strain responds well to techniques like low-stress training and scrogging. It develops significant purple coloration when exposed to cooler nighttime temperatures during late flowering.
 
-Nutrient requirements are moderate, with slightly elevated phosphorus and potassium demands during flowering. God Bud is not particularly sensitive to [[cannabis-nutrient-burn-and-toxicity]] but benefits from careful pH management in hydroponic setups.
+[[cannabis-soil-and-nutrient-requirements]] are moderate, with slightly elevated phosphorus and potassium demands during flowering. God Bud is not particularly sensitive to [[cannabis-nutrient-burn-and-toxicity]] but benefits from careful pH management in hydroponic setups.
 
 ## Notable Phenotypes
 
 Several named phenotypes and crosses have emerged from the God Bud lineage. **BC God Bud** is the original BC Bud Depot release and remains the most widely available cut. **God's Green Crack** crosses God Bud with Green Crack, producing a more energetic variant with reduced sedation.
-
-**God Bud x Space Queen** combines God Bud's resin production with Space Queen's tropical fruit profile, yielding exceptionally flavored flowers. **Jesus OG** (also called "Holy Grail OG") incorporates God Bud genetics into an OG Kush backbone, adding potency and complexity.
-
-The strain has also been used as a parent in numerous breeding projects aimed at combining its resin production and sedative effects with other desirable traits. God Bud crosses consistently show high trichome density and strong indica-dominant effects.
-
-## History and Awards
-
-God Bud emerged from British Columbia's thriving underground cannabis scene in the late 1990s, a period often called the "BC Bud Golden Age." BC Bud Depot developed the strain through selective breeding, drawing on the diverse genetics flowing through the Pacific Northwest at the time.
-
-The strain gained wider recognition in the early 2000s through online cannabis forums and seed bank distribution. It won the **High Times Cannabis Cup** in 2004, solidifying its reputation on the international stage.
-
-God Bud became one of the flagship strains representing Canadian [[vic-high-cannabis-genetics-mendelian-inheritance]] globally, alongside other BC classics. Its legacy persists in the modern legal market, where it remains available from licensed producers in Canada.
-
-## See Also
-
-- [[granddaddy-purple]]
-- [[northern-lights]]
-- [[white-widow-entity]]
-- [[jack-herer]]
-- [[girl-scout-cookies]]
-- [[master-kush]]
-- [[cannabis-indoor-growing-basics]]
-- [[green-crack]]

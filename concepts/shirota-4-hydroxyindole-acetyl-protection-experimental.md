@@ -1,5 +1,5 @@
 ---
-title: "shirota 4 hydroxyindole acetyl protection experimental of 4-Hydroxyindole in 4-hydroxyindole-tryptamine-synthesis-building-block"
+title: Shirota 4 Hydroxyindole Acetyl Protection Experimental
 aliases: ["4-hydroxyindole acetylation", "acetyl protection indole synthesis", "4-acetylindole preparation"]
 tags: [synthesis, psilocin, psilocybin, organic-chemistry, tryptamine, shirota]
 ---
@@ -8,11 +8,11 @@ tags: [synthesis, psilocin, psilocybin, organic-chemistry, tryptamine, shirota]
 
 ## Overview
 
-The Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] begins with the commercially available starting material 4-hydroxyindole. The first step is protection of the hydroxyl group at the 4-position through acetylation, producing 4-acetylindole. This protection step is critical for the success of subsequent reactions and was selected over alternative protection strategies for practical reasons related to scale and efficiency.
+The Shirota, Hakamata, and Goda (2003) concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] begins with the commercially available starting material 4-hydroxyindole. The first step is protection of the hydroxyl group at the 4-position through acetylation, producing 4-acetylindole. This protection step is critical for the success of subsequent reactions and was selected over alternative [[permaculture-frost-protection-strategies]] for practical reasons related to scale and efficiency.
 
 ## The Starting Material: 4-Hydroxyindole
 
-4-Hydroxyindole is a commercially available indole derivative that serves as the core structural scaffold for the synthesis of psilocin and psilocybin.
+4-Hydroxyindole is a commercially available indole derivative that serves as the core structural scaffold for the synthesis of [[psilocin-and-psilocybin-chemistry]].
 
 The indole ring system is the fundamental structural feature shared by serotonin, psilocin, psilocybin, DMT, and other biologically important tryptamine compounds.
 
@@ -24,7 +24,7 @@ Shirota and colleagues obtained their starting material from Tokyo Kasei Kogyo C
 
 ## Protection Strategy Selection
 
-The hydroxyl group at the 4-position of the indole ring must be protected before subsequent reactions, particularly the acylation step that introduces the glyoxalylamide side chain.
+The hydroxyl group at the 4-position of the indole ring must be protected before subsequent reactions, particularly the acylation step that introduces the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
 
 Two protection strategies were considered: acetylation and benzyl ether formation.
 
@@ -87,35 +87,3 @@ The reaction conditions are mild (ice bath to room temperature) and do not requi
 The product crystallizes directly from the reaction mixture, eliminating the need for chromatographic purification.
 
 The acetyl group is stable under the conditions of the subsequent acylation and amidation steps but is readily removed during the lithium aluminum hydride reduction that produces psilocin.
-
-This last point is particularly important: the deprotection occurs as an integral part of the reduction step, effectively combining two transformations in one operation and reducing the total number of steps in the synthesis.
-
-## Comparison with Benzyl Protection
-
-Previous syntheses of psilocin and psilocybin had used benzyl ether protection of the 4-hydroxy group.
-
-The benzyl approach has the advantage of producing a more robust protecting group that is stable under a wider range of conditions.
-
-However, Shirota and colleagues found that the 4-O-benzyl derivative of 4-hydroxyindole was "somewhat unstable" without careful control of reaction conditions and was not isolated in crystal form.
-
-The acetyl derivative, by contrast, crystallized readily and was obtained in high purity without the need for chromatographic separation.
-
-For a large-scale synthesis prioritizing simplicity and avoiding chromatographic steps, the crystallizability of the intermediate is a decisive advantage.
-
-## Role in the Overall Synthesis
-
-4-Acetylindole serves as the direct precursor for the next step in the synthesis: the formation of the [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]].
-
-In this step, 4-acetylindole is treated with [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]] to form the glyoxalyl chloride intermediate, which is then reacted with dimethylamine to produce the glyoxalylamide.
-
-The acetyl protecting group remains in place throughout these transformations and is finally removed during the lithium aluminum hydride reduction that converts the glyoxalylamide to psilocin.
-
-## See Also
-
-- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-
-## Sources
-
-- Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. *J. Nat. Prod.*, 66, 885-887.

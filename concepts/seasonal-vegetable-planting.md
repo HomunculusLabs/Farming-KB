@@ -31,8 +31,8 @@ three years.
   seedbed for later transplanting
 
 ### Mid to Late Spring
-- Sow sweet corn in the greenhouse or under polyethylene
-- Plant out globe artichokes, green beans, and early
+- Sow [[growing-sweet-corn-organically]] in the greenhouse or under polyethylene
+- Plant out [[growing-globe-artichokes]], green beans, and early
   spinach
 - Set up canes for runner beans
 - Transplant celery, sweet corn, fruiting vegetables,
@@ -57,16 +57,16 @@ three years.
 - Draw soil away from onions to encourage ripening
 - Continue hoeing regularly as many weeds now seed
 - Thin gooseberries for larger dessert fruit
-- Water fruit bushes and trees during dry spells
+- Water [[holzer-soft-fruit-bushes-and-berries]] trees during dry spells
 
 ### Late Summer
 - Sow spring cabbages in a stale seedbed
 - Sow quick-maturing lettuce varieties for late crops
-- Save seeds of broad beans for next year
+- [[query-how-do-i-save-seeds-from-biennial-vegetables]] of broad beans for next year
 - Harvest zucchini, leaving some to form squashes
-- Cover bare ground with compost as it becomes available
+- Cover [[savory-bare-ground-and-soil-exposure]] with compost as it becomes available
 - Sow vacant ground with mustard or phacelia green-manure
-  cover crop
+  [[coleman-cover-crop-rotation-and-soil-health]]
 - Take softwood cuttings of perennial herbs like sage
   and rosemary
 
@@ -88,45 +88,3 @@ gives your vegetables a head start over competition.
 Sheets of polyethylene, cloches, and garden fabric extend
 the [[savory-growing-season-and-non-growing-season-management]] by protecting from frost and warming
 the soil for earlier sowing. Remove covers during the day
-to allow pollination and ventilation.
-
-## Fall and Winter
-
-- Lift and store main crop potatoes
-- Plant garlic, shallots, and onion sets for next year
-- Sow broad [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] for early spring harvest
-- Dig in green-manure crops before the ground freezes
-- Apply manure and compost to empty beds
-- Plan next year's rotation
-
-## Keeping a Garden Diary
-
-Record when you sow, plant, and harvest each crop. Note
-weather conditions and any delays. After two or three years,
-a reliable pattern emerges that accounts for your local
-microclimate. This is far more useful than generic sowing
-calendars. Record which varieties performed well and any
-pest or disease problems encountered.
-
-## Extending the Season
-
-Many modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] are bred to remain in the
-ground without deteriorating for some time after maturing.
-This provides flexibility in harvesting. Main crop onions,
-for example, can be stored throughout winter. Use cold
-frames and greenhouses to start crops earlier and extend
-the harvest later into autumn. Row covers of horticultural
-fleece provide several degrees of [[holzer-frost-protection-techniques]].
-
-## Planning for Continuous Supply
-
-Ensuring a continuous supply of vegetables requires
-strategy. Some crops like chard and kale provide harvests
-through winter. Quick-maturing radishes and salad leaves
-fill gaps between main crops. [[crop-rotation-vegetable-garden]]
-- [[seed-saving-storage]]
-- [[soil-health-management]]
-
-## See Also
-
-- [[hamilton-seasonal-planting-calendars]]

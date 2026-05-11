@@ -15,7 +15,7 @@ sources:
   - Weimann, J. (2003). "Gas density and airway resistance." British Journal of Anaesthesia 90(2): 166-172.
   - Jevtović-Todorović, V. et al. (1998). "Prolonged exposure to inhalational anesthetic causes neurodegeneration in the developing brain." Annals of Neurology 43(3): 358-364.
   - EMCDDA (2023). "Nitrous Oxide — Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
-  - Committee on the Ethics of hofmann-lsd-animal-experiments-toxicity (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
+  - Committee on the Ethics of [[hofmann-lsd-animal-experiments-toxicity]] (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
 created: 2026-05-07
 ---
 
@@ -29,7 +29,7 @@ medicine and dentistry. It is one of the oldest and most widely used inhalationa
 anesthetics, first administered to humans in 1844 by American dentist Horace
 Wells.
 
-Beyond medical applications, nitrous oxide is used recreationally for its brief
+Beyond [[oner-sativa-medical-applications]], nitrous oxide is used recreationally for its brief
 dissociative and euphoric effects, typically inhaled from balloons filled with
 whipped-cream chargers. It is the second most-used recreational inhalant after
 nitrites in many countries.
@@ -55,7 +55,7 @@ rapid uptake and elimination through the lungs.
 Nitrous oxide acts primarily as a non-competitive NMDA receptor antagonist,
 blocking glutamate-mediated excitatory neurotransmission. This mechanism
 underlies both its anesthetic and dissociative effects, shared with other
-dissociatives like ketamine and dextromethorphan.
+dissociatives like [[ketamine]] and [[dextromethorphan]].
 
 The gas also activates two-pore-domain potassium channels (TREK-1), which
 contributes to its analgesic properties. Additionally, nitrous oxide interacts
@@ -88,40 +88,3 @@ The effects profile is notably brief compared to other dissociatives, which
 contributes to a pattern of repeated dosing in recreational contexts.
 
 ## History and Cultural Significance
-
-Nitrous oxide was first synthesized by English chemist Joseph Priestley in 1772.
-Humphry Davy's self-experiments from 1799 to 1800 documented the gas's
-psychoactive properties and coined the term "laughing gas."
-
-Horace Wells first demonstrated its anesthetic use in dentistry in 1844, and it
-was adopted into surgical practice by the 1860s. By the early 20th century,
-nitrous oxide had become the most commonly used general anesthetic worldwide.
-
-In recreational contexts, nitrous oxide gained popularity in the British
-"laughing gas parties" of the 19th century. Modern recreational use emerged in
-the 1970s punk and rave scenes, and by the 2010s had become widespread at music
-festivals globally, with commercial whipped-cream chargers sold in bulk.
-
-## Legal Status
-
-Nitrous oxide is legally available for medical, culinary, and industrial
-purposes in most countries. It is classified as a food-grade propellant (E942)
-for whipped cream dispensers and as a medical gas for anesthesia.
-
-Recreational use has prompted regulatory responses in several jurisdictions.
-The UK classified nitrous oxide as a Class C controlled substance in November
-2023 under the Psychoactive [[controlled-substances-act-and-psychedelic-research]]. Japan and several Australian states
-have restricted sale to minors.
-
-In the [[dmt-containing-plants-united-states-halpern]], nitrous oxide is unscheduled at the federal level,
-though several states and municipalities have enacted local restrictions on
-sales intended for recreational inhalation. The DEA has considered but not
-acted on scheduling recommendations.
-
-## See Also
-
-- [[dextromethorphan]]
-- mdma
-- pcp
-- [[salvinorin-a-entity]]
-- [[psilocybin]]

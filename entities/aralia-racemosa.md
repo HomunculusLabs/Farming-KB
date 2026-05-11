@@ -24,9 +24,9 @@ Aralia racemosa, commonly known as American spikenard, is a perennial herbaceous
 
 It is native to [[polypore-fungi-eastern-north-america]] America, ranging from Canada to the Appalachian Mountains and westward to the Ozarks.
 
-The species has a long history of use in Native American traditional medicine and was adopted into 19th-century Thomsonian and Eclectic medical practice.
+The species has a long history of use in [[halpern-sacramental-peyote-and-native-american-church]] traditional medicine and was adopted into 19th-century Thomsonian and Eclectic medical practice.
 
-American spikenard is closely related to Asian ginseng (Panax ginseng) and shares several pharmacological properties within the Araliaceae family.
+American spikenard is closely related to Asian ginseng ([[comparison-ginkgo-biloba-vs-panax-ginseng]]) and shares several pharmacological properties within the Araliaceae family.
 
 The root is the primary medicinal part, containing triterpenoid saponins and volatile oils responsible for its bioactivity.
 
@@ -52,13 +52,13 @@ Roots are cream-colored internally with a pungent, balsamic odor and a warm, bit
 
 ## Distribution and Habitat
 
-Aralia racemosa is distributed across eastern North America from Quebec and Ontario south to Georgia and Alabama.
+Aralia racemosa is distributed across eastern [[guzman-psilocybin-mushrooms-north-america]] from Quebec and Ontario south to Georgia and Alabama.
 
 Its western range extends through the Ohio Valley to Minnesota, Iowa, and Missouri, with disjunct populations in the Ozarks.
 
 The species grows in rich, moist deciduous forests, often on north-facing slopes, stream banks, and in ravines.
 
-It prefers loamy, well-drained soils with high organic matter content and partial to full shade.
+It prefers loamy, well-drained soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content and partial to full shade.
 
 Optimal growth occurs in canopy gaps and forest edges where light levels are 20–50% of full sun.
 
@@ -74,7 +74,7 @@ Oleanolic acid derivatives represent the aglycone backbone of the major saponin 
 
 Volatile oil components include α-pinene, β-pinene, myrcene, limonene, and various sesquiterpenes.
 
-The essential oil content of dried root ranges from 0.5–1.5%, contributing to the characteristic aromatic properties.
+The [[permaculture-designers-manual-essential-oil-plants]] content of dried root ranges from 0.5–1.5%, contributing to the characteristic aromatic properties.
 
 Additional constituents include tannins, resins, and polysaccharides with reported immunomodulatory activity.
 
@@ -86,42 +86,4 @@ Extracts of Aralia racemosa root have demonstrated anti-inflammatory activity in
 
 Immunomodulatory effects include stimulation of phagocytosis and enhanced macrophage activity in animal models.
 
-The saponin fraction shows adaptogenic properties comparable to other Araliaceae species, including improved [[fungal-lichen-stress-tolerance-and-poikilohydry]].
-
-Expectorant activity has been documented, supporting the traditional use for respiratory conditions.
-
-Antioxidant capacity is significant, with the root extract showing radical-scavenging activity in DPPH and ABTS assays.
-
-Antimicrobial activity against Staphylococcus aureus and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] has been observed in vitro.
-
-No [[mushroom-cancer-clinical-trials-overview]] have been conducted on Aralia racemosa specifically, and all pharmacological data derive from preclinical studies.
-
-## Ethnobotanical Use
-
-Native American tribes including the Cherokee, Iroquois, Ojibwa, and Menominee used the root for diverse medicinal purposes.
-
-Primary applications included treatment of respiratory ailments such as coughs, asthma, bronchitis, and tuberculosis.
-
-The root was also used as a poultice for wounds, burns, and skin infections, and as a systemic remedy for rheumatism and back pain.
-
-The Cherokee used a root decoction as a blood purifier and to treat menstrual disorders.
-
-Nineteenth-century Eclectic physicians employed American spikenard as an expectorant, diaphoretic, and mild stimulant.
-
-The root was an official drug in the United States Pharmacopoeia from 1820 to 1916.
-
-Current herbal use focuses on respiratory support and as a component of adaptogenic formulations, often combined with other Araliaceae species.
-
-## See Also
-
-- [[exochorda-racemosa]]
-
-- [[acalypha-racemosa]]
-
-- [[aralia-nudicaulis]]
-
-- [[withania-somnifera]]
-- [[leonurus-cardiaca-entity]]
-- [[hugelkultur]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
+The saponin fraction shows [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] comparable to other Araliaceae species, including improved [[fungal-lichen-stress-tolerance-and-poikilohydry]].

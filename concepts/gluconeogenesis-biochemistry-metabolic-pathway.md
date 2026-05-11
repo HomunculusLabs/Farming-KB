@@ -2,7 +2,7 @@
 title: "Gluconeogenesis"
 created: 2026-04-28
 updated: 2026-05-06
-description: "Gluconeogenesis is the metabolic pathway by which glucose is synthesized from non-carbohydrate precursors such as lactate, glycerol, and glucogenic amino acids. It occurs primarily in the liver and renal cortex and is essential for maintaining blood glucose levels during fasting, starvation, and intense exercise."
+description: "Gluconeogenesis is the [[psilocybin-biosynthetic-metabolic-pathway]] by which glucose is synthesized from non-carbohydrate precursors such as lactate, glycerol, and glucogenic amino acids. It occurs primarily in the liver and renal cortex and is essential for maintaining blood glucose levels during fasting, starvation, and intense exercise."
 tags:
   - biochemistry
   - metabolism
@@ -44,7 +44,7 @@ Pyruvate carboxylase (PC), a mitochondrial enzyme, carboxylates pyruvate to oxal
 
 - **Glucagon** (fasting hormone): Stimulates GNG via cAMP-dependent protein kinase A (PKA) signaling. PKA phosphorylates and inactivates the bifunctional enzyme PFK-2/FBPase-2, reducing F2,6BP levels (de-repressing FBPase-1). Glucagon also induces transcription of PEPCK and G6Pase genes via CREB.
 - **Insulin** (fed hormone): Suppresses GNG by promoting dephosphorylation of PFK-2/FBPase-2 (increasing F2,6BP), repressing PEPCK and G6Pase gene transcription via FOXO1 inhibition, and stimulating phosphofructokinase activity. Insulin's action is rapid (allosteric) and sustained (transcriptional).
-- **Cortisol** (stress hormone): Enhances GNG during prolonged fasting and stress by inducing PEPCK and G6Pase gene expression. Cortisol also promotes muscle proteolysis, increasing amino acid supply for GNG. Its effects are permissive and synergistic with glucagon.
+- **Cortisol** ([[abscisic-acid-plant-stress-hormone]]): Enhances GNG during prolonged fasting and stress by inducing PEPCK and G6Pase gene expression. Cortisol also promotes muscle proteolysis, increasing amino acid supply for GNG. Its effects are permissive and synergistic with glucagon.
 - **Epinephrine**: Activates GNG via beta-adrenergic/cAMP mechanisms similar to glucagon, particularly important during acute stress and exercise.
 
 ## Substrate Cycling and Futile Cycles with Glycolysis
@@ -87,12 +87,3 @@ In type 2 diabetes, hepatic gluconeogenesis is inappropriately elevated despite 
 ### Fasting and Starvation
 
 During the transition from the fed to the fasted state, a well-orchestrated hormonal shift (declining insulin, rising glucagon and cortisol) activates GNG. After glycogen depletion (~18 hours), GNG provides all endogenous glucose. By 3-5 days of starvation, GNG shifts toward glycerol and glutamine as the primary substrates, as muscle proteolysis decreases to conserve protein.
-
-### Hypoglycemia
-
-Impaired gluconeogenesis contributes to hypoglycemia in multiple clinical settings: hepatic failure (loss of GNG capacity), adrenal insufficiency (cortisol deficiency), sepsis, and inborn errors of metabolism (e.g., PEPCK deficiency, FBPase deficiency). Neonatal hypoglycemia can result from immature GNG enzyme systems, particularly in premature infants. Understanding GNG physiology guides treatment — glucagon is ineffective when GNG substrates are depleted (e.g., ethanol intoxication), necessitating IV glucose.
-
-## Evolutionary Conservation
-
-Gluconeogenesis is an ancient, evolutionarily conserved pathway present in virtually all life forms — bacteria, plants, fungi, [[diffusion-osmosis-and-active-transport-in-plants]], GNG is critical for [[glycolysis-embden-meyerhof-parnas-pathway]]
-- [[psilocybin-biosynthetic-metabolic-pathway]]

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The information concerning hallucinogenic mushroom markets and availability in
+The information concerning [[emcdda-hallucinogenic-mushroom-markets]] and availability in
 Europe during the early 2000s was dominated by two countries: the Netherlands
 and the United Kingdom. In both countries, markets for legal smart drugs
 emerged and expanded rapidly in the late 1990s and early 2000s, creating
@@ -36,21 +36,21 @@ market. Key features of the Dutch smartshop system included:
 
 - Estimated 120 to 150 smartshops across the country, though the exact
   number was unknown (estimate from the Vereniging Landelijk Overleg
-  Smartshops, VLOS, the Dutch Association of Smart Shop Owners).
+  Smartshops, VLOS, the Dutch Association of [[dutch-smart-shop-paddos-history]] Owners).
 - Shops were concentrated in Amsterdam, reflecting the city's role as a
   centre for drug tourism.
 - Mushrooms were also sold in a small number of coffee shops.
 - In some areas, "paddo" cabs operated home delivery services for
-  hallucinogenic mushrooms.
+  [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]].
 
 ### Product Range and Turnover
 
 - Smartshops sold legal and predominately natural products, including
   hallucinogenic mushrooms as a major product category.
-- According to the Dutch Risk Assessment Report, magic mushrooms made up
+- According to the Dutch Risk Assessment Report, [[1960s-counterculture-and-magic-mushrooms]] made up
   approximately 50% of smartshop turnover (CAM, 2000).
 - The most commonly sold species were [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] varieties, most
-  notably Psilocybe mexicana. None of these species are reported to grow
+  notably [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]. None of these species are reported to grow
   wild in Europe; they were cultivated specifically for the market.
 - Mushrooms were also available through "headshops" (selling drug
   paraphernalia such as pipes) and "grow shops" (selling supplies for home
@@ -73,7 +73,7 @@ mushrooms prior to the 2005 ban:
 ### Scale of the Market
 
 - An estimated 300 shops and market stalls across the UK sold hallucinogenic
-  mushrooms until the change in legal status in July 2005 (The Economist,
+  mushrooms until the change in [[ayahuasca-tourism-legal-status-by-country]] in July 2005 (The Economist,
   2004).
 - The UK Treasury collected sales tax on hallucinogenic mushrooms estimated
   at up to £175,000 (€255,421) per year, on a turnover estimated at around
@@ -88,57 +88,3 @@ According to the Mixmag 2004 annual readership survey:
   club, shop, or stall.
 - 16% obtained them from a friend.
 - 4.2% purchased them via the internet.
-
-## Cultivation for the Retail Market
-
-Most recreationally sold mushrooms were cultivated rather than picked wild.
-The Psilocybe cubensis varieties were cultivated specifically, mostly in the
-Netherlands, for the commercial market. Key reasons for favouring cultivated
-varieties:
-
-- They are easy to grow in terrariums.
-- They possess a low water content that allows them to stay fresh for 7 to
-  10 days (Levitt et al, 2006).
-- They do not grow wild in Europe, ensuring a controlled supply chain.
-
-## Loophole Exploitation in Other Countries
-
-Beyond the Netherlands and UK, there were examples of retailers using legal
-loopholes to sell hallucinogenic mushrooms in other EU Member States:
-
-- **Czech Republic**: A newspaper reported that a shop in Prague was
-  attempting to sell hallucinogenic mushrooms under the label of "aromatic
-  and decorative goods." They were sold with a leaflet warning customers not
-  to ingest them, thus attempting to evade national legislation (Garkisch,
-  2005).
-
-## Smart Drugs and Natural Products Context
-
-The term "smart drugs" (or nootropics) usually refers to chemicals claimed
-to have mild to moderate positive mental or physical effects, such as
-improvements to memory, cognition, and clarity of thought. In the context
-of the hallucinogenic mushroom market, smart drugs also included legal and
-predominately natural products marketed by smartshops. Hallucinogenic
-mushrooms were sold under this "natural products" umbrella, benefiting from
-the association with organic and herbal product trends of the late 1990s.
-
-## Market Adaptation Following Prohibitions
-
-Following legal restrictions, the retail market adapted rapidly:
-
-- The prohibition of psilocybin-containing fungi in the UK provoked an
-  emerging interest of retailers in legal types of hallucinogenic mushroom
-  such as [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) (Black Poppy, 2006).
-- Online retailers shifted to marketing legal alternatives including
-  Purple Ohms capsules and Amanita pantherina.
-
-## See Also
-
-- [[emcdda-smartshop-and-retail-economics-europe]]
-
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
-- [[smartshops-and-hallucinogenic-mushroom-retail]]
-
-- [[emcdda-herbal-highs-branding-smartshop-marketing-hallucinogenic-mushrooms]]

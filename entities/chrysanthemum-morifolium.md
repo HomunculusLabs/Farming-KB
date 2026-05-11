@@ -87,28 +87,3 @@ Chrysanthemum extract is used as a natural food coloring agent, providing yellow
 Chinese medicinal chrysanthemums are classified into several major cultivar groups based on geographic origin and processing. *Hang Ju* (杭菊) from Zhejiang is the most prestigious, featuring large white flower heads with a sweet flavor.
 
 *Bo Ju* (亳菊) from Anhui produces smaller, bright yellow flowers with a more bitter profile. It is preferred in formulas targeting wind-heat conditions due to its stronger cold nature.
-
-*Gong Ju* (贡菊) from Anhui's Huangshan region features compact white flowers with a delicate aroma. It was historically reserved as a tribute offering to the imperial court. *Chu Ju* (滁菊) from Anhui has elongated petals and is considered best for eye conditions.
-
-*Huai Ju* (怀菊) from Henan produces large yellow flowers and is used both medicinally and as a premium tea. Modern research has identified distinct flavonoid glycoside profiles for each regional variety, supporting their differentiated clinical applications.
-
-## Ecological and Economic Significance
-
-C. morifolium is a major economic crop in China, with total annual production exceeding 100,000 tonnes of dried flowers. The industry supports millions of farmers in major production regions and generates substantial export revenue.
-
-The flowers provide late-season nectar for pollinators when few other plants are in bloom. This makes chrysanthemum cultivation beneficial for supporting bee populations in agricultural landscapes.
-
-Ornamental chrysanthemum breeding has produced thousands of cultivars in diverse forms: pompon, spider, quill, incurved, and decorative types. The global cut flower market for chrysanthemums exceeds $3 billion annually.
-
-The species has become invasive in some regions outside its native range, particularly in parts of Europe and [[psilocybin-north-america-pacific-northwest]]. Its allelopathic compounds can suppress growth of neighboring plant species in wild settings.
-
-## See Also
-
-- [[chrysanthemum-coronarium]]
-
-- [[taraxacum-officinale]]
-- achillea-millefolium
-- [[tanacetum-parthenium]]
-- [[glycyrrhiza-glabra]]
-- [[panax-ginseng]]
-- [[lycium-barbarum]]

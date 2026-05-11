@@ -87,13 +87,3 @@ P. cervinus. P. salicinus, P. cyanopus, P. glaucus, P. nigriviridis, and
 P. villosus complete the neurotropic species list for this genus.
 
 ## Research Priorities for Minor Genera
-
-The minor neurotropic genera require substantially more research attention.
-Chemical verification of reported species, proper taxonomic identification,
-and expanded field surveys should be priorities. The discovery of additional
-## See Also
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
-- [[guzman-allen-gartz-conocybe-gerronema-neurotropic-species]]
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
-- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]

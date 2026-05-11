@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-TSB
 
-PIHKAL entry #177. 4-THIOSYMBESCALINE;.
+[[2c-b-pihkal-entry-20]] #177. 4-THIOSYMBESCALINE;.
 
 ## Chemical Name
 
@@ -88,18 +88,5 @@ stirred mixture was cooled with an external ice bath. There was then
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[3-tsb-entity-pihkal]]
-
-- [[pe-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-j-entity-pihkal]]

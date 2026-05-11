@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - DeBolt A.M., Kartesz J.T. (2007). "Gaillardia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora of North America North of Mexico, Vol. 21. Oxford University Press.
+  - DeBolt A.M., Kartesz J.T. (2007). "Gaillardia." In Flora of psilocybin-north-america-pacific-northwest Editorial Committee (ed.), Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 21. Oxford University Press.
   - Wold J.L., Shafii B., Price W.J. (2004). "Selection for seedling vigor in Gaillardia aristata." HortScience 39(6): 1288–1291.
   - USDA NRCS. "Gaillardia aristata." PLANTS Database.
   - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
@@ -49,7 +49,7 @@ The root system consists of a deep, stout taproot that can extend 60–120 cm be
 
 ## Distribution and Habitat
 
-*G. aristata* is native to western North America, from British Columbia and Alberta south through the Pacific Northwest, Rocky Mountains, and Great Plains to northern Arizona, New Mexico, and western Nebraska. Disjunct populations occur in the Yukon Territory.
+*G. aristata* is native to western North America, from British Columbia and Alberta south through the [[psilocybin-north-america-pacific-northwest]], Rocky Mountains, and Great Plains to northern Arizona, New Mexico, and western Nebraska. Disjunct populations occur in the Yukon Territory.
 
 The species occupies open, dry habitats including prairies, grasslands, sagebrush steppe, open ponderosa pine forests, rocky ridges, and sandy river terraces. It is most abundant in the 30–60 cm annual precipitation zone of the western Great Plains and intermountain West.
 
@@ -57,7 +57,7 @@ It is hardy to USDA Zone 3 (−40 °C) and is one of the most cold-hardy and dro
 
 The species has been widely planted for ornamental and [[permplant-willows-salix-erosion-control-fodder]] purposes across North America and has naturalized in scattered locations east of its native range, particularly in the upper Midwest and New England. It is not considered invasive due to its non-aggressive, tap-rooted growth habit.
 
-In the western United States, *G. aristata* is a common component of highway roadside seed mixtures, where its drought tolerance, rapid establishment, and showy flowers make it ideal for erosion control on steep, dry slopes. It is also planted extensively in mine reclamation projects in the Rocky Mountain region.
+In the western United States, *G. aristata* is a common component of highway roadside seed mixtures, where its drought tolerance, rapid establishment, and showy flowers make it ideal [[mollison-designers-earthworks-for-erosion-control]] on steep, dry slopes. It is also planted extensively in mine [[fukuoka-desert-reclamation-projects]] in the Rocky Mountain region.
 
 ## Ecology and Pollinator Value
 
@@ -65,7 +65,7 @@ In the western United States, *G. aristata* is a common component of highway roa
 
 Native bee visitors include bumblebees (*Bombus* spp.), leafcutter bees (*Megachile* spp.), sweat bees (*Lasioglossum* spp.), and sunflower bees (*Svastra* spp.). The plant is particularly valuable in arid western ecosystems where few other forbs bloom during the hot midsummer period.
 
-Butterfly visitors include painted ladies, buckeyes, fritillaries, and various skippers. The flowers also attract beneficial predatory insects such as soldier beetles and syrphid flies that contribute to biological pest control in adjacent agricultural areas.
+Butterfly visitors include painted ladies, buckeyes, fritillaries, and various skippers. The flowers also attract beneficial predatory insects such as soldier beetles and syrphid flies that contribute to [[hamilton-beneficial-insects-and-biological-pest-control]] in adjacent agricultural areas.
 
 Night-flying moths, including hawk moths (*Hyles* spp.), visit the flowers during evening hours when the disk florets release additional nectar. This nocturnal pollination pathway supplements daytime pollinator visits and increases overall seed set.
 
@@ -77,7 +77,7 @@ Individual plants typically live 3–5 years in cultivation, with flowering perf
 
 Blanketflower is one of the easiest native perennials to grow from seed. No cold stratification is required; seeds germinate in 14–21 days at 18–22 °C. The species flowers prolifically in the first year from early spring sowing, a trait that contributes to its popularity in wildflower seed mixes.
 
-Established plants are extremely drought-tolerant and require no supplemental irrigation in most temperate climates. Overwatering or planting in poorly drained soils is the most common cause of plant failure in cultivation. The species is intolerant of prolonged root saturation and readily succumbs to crown rot in heavy, wet soils.
+Established plants are extremely drought-tolerant and require no supplemental irrigation in most [[fukuoka-natural-farming-temperate-climates]]. Overwatering or planting in poorly drained soils is the most common cause of plant failure in cultivation. The species is intolerant of prolonged root saturation and readily succumbs to crown rot in heavy, wet soils.
 
 Deadheading spent flower heads extends the bloom period significantly and reduces unwanted self-seeding. However, allowing seed heads to mature supports natural recruitment and provides winter bird food. In naturalistic plantings, a balance of deadheading and seed dispersal is recommended.
 
@@ -88,23 +88,3 @@ The species has contributed heavily to the development of *Gaillardia × grandif
 ## Ethnobotanical and Traditional Use
 
 Indigenous peoples of the western United States used *G. aristata* for a variety of medicinal and practical purposes. The Blackfoot applied a poultice of crushed flower heads to skin wounds and burns. The Navajo used an infusion of the roots to treat gastrointestinal ailments.
-
-The Lakota and other Plains tribes used blanketflower roots as a remedy for fever and headache. A decoction of the entire plant was used as a wash for eye infections. The bright flower heads were also used in ceremonial garlands and decorative arrangements.
-
-Among the Shoshone and Paiute peoples, the roots were roasted and eaten as a food source during times of scarcity. The plant was also used as a dye, with the flower heads producing yellow to orange colors in wool and basketry materials.
-
-In modern herbalism, *G. aristata* has limited use. The dried flower heads are occasionally included in decorative potpourri blends. No significant pharmacological research has been conducted on this species, unlike its better-studied relative *G. pulchella*, which has been investigated for anti-inflammatory and cytotoxic compounds.
-
-## See Also
-
-- [[rudbeckia-hirta]]
-- [[echinacea-purpurea]]
-- [[coreopsis-lanceolata]]
-- [[solidago-odora]]
-- [[helianthus-maximiliani]]
-- [[rudbeckia-laciniata]]
-- [[solidago-canadensis]]
-- [[monarda-fistulosa]]
-- [[asclepias-syriaca]]
-- [[allium-sativum-entity]]
-- [[ginkgo-biloba]]

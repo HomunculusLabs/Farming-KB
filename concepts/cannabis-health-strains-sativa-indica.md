@@ -1,5 +1,5 @@
 ---
-title: "Cannabis Strains (cannabis-sativa-vs-indica-guide)"
+title: Cannabis Health Strains Sativa Indica
 created: 2026-04-28
 tags: [cannabis, strains, sativa, indica, thc-cbd-ratio, strain-selection]
 date: 2026-04-25
@@ -18,7 +18,7 @@ growing on every continent except Antarctica.
 
 ## Sativa Characteristics
 
-Sativa strains generally present with a higher THC-to-CBD/CBN ratio.
+[[african-landrace-sativa-strains]] generally present with a higher THC-to-CBD/CBN ratio.
 Key characteristics include:
 
 - Generally stimulating, energizing, and uplifting
@@ -27,7 +27,7 @@ Key characteristics include:
 - Best suited for daytime use
 - Increases alertness
 - Consider for depression
-- Provides pain relief and muscle relaxation
+- Provides [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] and muscle relaxation
 - THC binds both CB1 and CB2 receptors
 
 ## Indica Characteristics
@@ -55,7 +55,7 @@ composition differences that are therapeutically significant.
 
 The ratio of THC to CBD determines the degree to which the balancing
 properties of the whole plant's constituents are additive or cancel
-each other out. Sativa strains, with higher THC content, tend to
+each other out. Sativa strains, with higher [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], tend to
 activate more CB1 receptors (central nervous system). Indica strains,
 with higher CBD content, tend to activate more CB2 receptors (immune
 system and peripheral tissues).
@@ -63,7 +63,7 @@ system and peripheral tissues).
 Raw, fresh leaf plant matter such as cannabis juice has a significantly
 higher CBD content in the form of CBD-acid, with a greater affinity to
 activate CB2. This makes raw preparations particularly suitable for
-immune and inflammatory conditions.
+immune and [[cannabis-for-inflammatory-conditions]].
 
 ## Selecting Strains for Specific Conditions
 
@@ -88,55 +88,3 @@ state and the nature of the condition being treated:
 ## Hemp vs. Medicinal Cannabis
 
 The name "hemp" is used to indicate extremely low or non-psychoactive
-cannabis species. While hemp plants are a good source of nutrition
-(e.g., essential fatty acids), the medicinal quality of hempseed oil is
-limited to some mild anti-inflammatory properties. Hemp is a legal crop
-in numerous countries, utilized for food, drink, fiber, oil, paper,
-[[natural-building-materials-guide]], [[permplant-willows-salix-erosion-control-fodder]], fuel, biodegradable plastics, and
-many other uses. In contrast, both sativa and indica medicinal strains
-are psychoactive and contain the cannabinoids needed to engage the
-endocannabinoid system for specific therapeutic purposes.
-
-## Hybrid Strains
-
-Many modern cannabis varieties are hybrids combining sativa and indica
-genetics. The balance of effects depends on the specific cross. Sativa-
-heavy hybrids will lean toward stimulating effects, while indica-heavy
-hybrids will lean toward sedating effects. Patients should consult with
-their dispensary or healthcare provider about the cannabinoid profiles
-of available strains, as THC content varies by strain, age, storage
-conditions, and growing method (indoor vs. outdoor).
-
-## Practical Guidance
-
-When selecting a [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] therapeutic purposes, consider:
-1. Whether the condition primarily involves the nervous system (CB1) or
-   the immune system (CB2)
-2. The time of day the medicine will be used
-3. Whether alertness or sedation is desired
-4. Your individual [[cannabis-subjective-therapeutic-window-dosing]] window with each strain
-5. The specific cannabinoid profile available from your dispensary
-
-## Beyond Medicine: The Spiritual Dimension
-
-Many cannabis-using patients employ the plant not only as medicine but
-as a means to seek deeper and longer-lasting healing. The sativa
-experience tends to be more cerebral and expansive, while the indica
-experience tends to be more bodily and grounding. Both can facilitate
-mindfulness, self-exploration, and access to deeper layers of
-consciousness relevant to the healing process.
-
-A carefully balanced and finely tuned body and mind can more easily
-surpass ordinary states of consciousness and open doors to dimensions
-of awareness that support healing. The choice between sativa and indica
-thus becomes not only a pharmacological decision but an intentional one,
-aligned with the patient's therapeutic goals and personal disposition.
-
-## See Also
-
-- [[calocybe-indica]]
-- [[derris-indica]]
-
-- [[cannabis-health-cbd-cannabidiol]] — CBD pharmacology and its role in strain selection for therapeutic use
-- [[cannabis-health-pain-management]] — strain selection considerations for pain relief
-- [[cannabis-health-methods-of-administration]] — how [[cannabis-delivery-methods-comparison]] interact with strain characteristics

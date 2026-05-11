@@ -31,7 +31,7 @@ The species was named by Linnaeus, with the specific epithet "auricomus" meaning
 
 ## Taxonomy and Morphology
 
-Ranunculus auricomus was described by Carl Linnaeus in 1753. It belongs to the Ranunculus auricomus aggregate (or complex), one of the most challenging taxonomic groups in European botany.
+Ranunculus auricomus was described by Carl Linnaeus in 1753. It belongs to the Ranunculus auricomus aggregate (or complex), one of the most challenging [[coprophilous-fungi-taxonomic-groups-distribution]] in European botany.
 
 The complex comprises approximately 400–800 described microspecies across Europe. These microspecies arose through hybridization, polyploidy, and facultative apomixis over millennia.
 
@@ -43,9 +43,9 @@ Flowers have 5 sepals that are reflexed at anthesis and 5 petals that are often 
 
 The fruiting head is an ovoid cluster of achenes, each with a short, straight or slightly curved beak. Achenes are 2–3 mm long with a smooth or slightly wrinkled surface.
 
-The root system consists of a short, vertical caudex with fibrous roots. Unlike Ranunculus asiaticus, it lacks tuberous storage organs and relies on its caudex for perennation.
+The root system consists of a short, vertical caudex with fibrous roots. Unlike [[ranunculus-asiaticus]], it lacks tuberous storage organs and relies on its caudex for perennation.
 
-Plants are typically pentaploid (2n = 5x = 40) in central European populations, though ploidy levels range from tetraploid to octoploid across the species complex.
+Plants are typically pentaploid (2n = 5x = 40) in [[psilocybe-bohemica-central-european]] populations, though ploidy levels range from tetraploid to octoploid across the species complex.
 
 ## Distribution and Habitat
 
@@ -65,17 +65,17 @@ Some microspecies are extremely narrow endemics, known from only one or two loca
 
 ## Ecology
 
-Flowering occurs from April to June, peaking in May. The species is a spring-flowering geophyte, completing most of its annual growth cycle before the forest canopy closes.
+Flowering occurs from April to June, peaking in May. The species is a spring-flowering geophyte, completing most of its annual [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] before the forest canopy closes.
 
-Despite producing predominantly apomictic seeds, the flowers still produce nectar and pollen. They are visited by small flies (Diptera), solitary bees, and beetles, though pollination is not required for seed set.
+Despite producing predominantly apomictic seeds, the flowers still produce nectar and pollen. They are visited by small flies (Diptera), [[comparison-honey-bees-vs-native-solitary-bees]], and beetles, though pollination is not required for seed set.
 
 The malformed petals in many microspecies may be an evolutionary consequence of relaxed selection on pollinator attraction. Since apomixis eliminates the need for pollination, there is no selective pressure to maintain petal morphology.
 
-Asexual seed production (agamospermy) ensures reproductive assurance in the shaded forest understory where pollinator activity may be limited. However, rare sexual events introduce genetic variation that drives the evolution of new microspecies.
+Asexual [[cannabis-controlled-pollination-seed-production]] (agamospermy) ensures reproductive assurance in the shaded forest understory where pollinator activity may be limited. However, rare sexual events introduce genetic variation that drives the evolution of new microspecies.
 
-The plant serves as a food source for the larvae of several moth species, including the silver-ground carpet moth (Xanthorhoe montanata). Grazing by slugs and snails can be significant in wet years.
+The plant serves as a food source for the larvae of several moth species, including the silver-ground carpet moth (Xanthorhoe montanata). Grazing by [[jadam-pesticide-for-slugs-and-snails]] can be significant in wet years.
 
-Decomposition of the leaf litter under established colonies contributes to nutrient cycling in woodland soils. The species plays a minor role in early-season pollen availability for ground-nesting bees.
+[[decomposition]] of the [[dighton-fungal-decomposition-leaf-litter-dynamics]] under established colonies contributes to [[nutrient-cycling-in-soil]] woodland soils. The species plays a minor role in early-season pollen availability for ground-nesting bees.
 
 ## Evolutionary Significance
 
@@ -88,34 +88,3 @@ Hybridization events between sexual diploid ancestors generated the initial poly
 This evolutionary pattern is known as the "geographic parthenogenesis" model, where apomictic lineages occupy wider ranges and higher latitudes than their sexual diploid progenitors.
 
 Molecular studies using AFLP markers and microsatellites have revealed that the majority of microspecies are genetically distinct despite their morphological similarity. This supports the recognition of microspecies as meaningful evolutionary units.
-
-The genus Ranunculus as a whole provides one of the best examples of how apomixis contributes to plant biodiversity in temperate floras.
-
-## Cultivation
-
-Ranunculus auricomus is occasionally grown in woodland gardens and native plant gardens for its cheerful spring flowers and attractive basal foliage. It is not widely available in commercial horticulture.
-
-Cultivation requires partially shaded positions in moist, humus-rich soil. The plant tolerates deeper shade than most Ranunculus species, making it suitable for planting under deciduous trees.
-
-Once established, it requires minimal maintenance. A mulch of leaf mold in autumn mimics the natural forest floor conditions and supports healthy growth.
-
-Propagation is straightforward by division of established clumps in autumn or early spring. Seed propagation is unreliable due to apomixis and variable germination rates.
-
-Seeds should be sown fresh in late spring. Cold stratification over winter improves germination, but rates rarely exceed 30% even under optimal conditions.
-
-No serious pests or diseases are commonly reported. The plant naturalizes readily in suitable garden conditions, forming loose colonies through self-seeding and vegetative spread.
-
-The species is available from specialist native plant nurseries in the UK and Scandinavia. It is not commonly found in mainstream garden centers due to its modest ornamental appeal compared to showier Ranunculus species.
-
-## See Also
-
-- [[ranunculus-acris]]
-- [[ranunculus-bulbosus]]
-- [[ranunculus-repens]]
-- [[ranunculus-asiaticus]]
-- [[ranunculus-ficaria]]
-- [[caltha-palustris]]
-- [[helleborus-foetidus]]
-- [[anemone-nemorosa]]
-- [[eranthis-hiemalis]]
-- [[aconitum-napellus]]

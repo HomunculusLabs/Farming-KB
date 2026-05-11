@@ -1,5 +1,5 @@
 ---
-title: Mycoremediation of Polycyclic Aromatic Hydrocarbons
+title: Mycoremediation Pahs
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -43,7 +43,7 @@ Fungi degrade PAHs through two main metabolic routes:
 White-rot fungi secrete nonspecific oxidative enzymes that attack PAHs:
 
 - **Lignin peroxidase (LiP)** — one-electron oxidation of aromatic rings, producing aryl cation radicals that react with water to form hydroxylated products
-- **Manganese peroxidase (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
+- **[[fungal-manganese-peroxidase-remediation]] (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
 - **Laccase** — oxidizes phenolic PAH metabolites; can be enhanced with mediators (ABTS, HBT) to attack non-phenolic PAHs
 - **Key advantage**: These enzymes are extracellular and nonspecific — they do not require the PAH to enter the cell
 
@@ -55,7 +55,7 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Epoxide hydrolase converts epoxides to trans-dihydrodiols
 - Further oxidation to phenols, quinones, and conjugated metabolites
 - Similar to mammalian liver metabolism (which is why PAHs are carcinogenic)
-- Key species: Cunninghamella elegans, Penicillium spp., Fusarium spp., Aspergillus spp.
+- Key species: [[staycare-cunninghamella-elegans-in-bioremediation]], Penicillium spp., Fusarium spp., Aspergillus spp.
 
 ## Key Species and Their PAH Capabilities
 
@@ -74,8 +74,8 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Among 41 micromycete isolates tested, Penicillium strains from the subgenus Furcatum were most common in highly contaminated soils
 
 ### White-Rot Basidiomycetes
-- **Phanerochaete chrysosporium**: Model organism; mineralizes PAHs under nitrogen-limited conditions
-- **Trametes versicolor**: Degrades phenanthrene, anthracene, pyrene; high laccase production
+- **[[phanerochaete-chrysosporium]]**: Model organism; mineralizes PAHs under nitrogen-limited conditions
+- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Degrades phenanthrene, anthracene, pyrene; high laccase production
 - **Pleurotus ostreatus**: Oyster mushroom; used in oil spill remediation; degrades 3-4 ring PAHs
 - **Bjerkandera adusta**: Produces manganese peroxidase; effective against fluoranthene
 - **Irpex lacteus**: Removed nearly 40% pyrene after 2 weeks; produces lignin and manganese peroxidases
@@ -136,7 +136,7 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 
 Synergistic degradation occurs when fungi and bacteria work together:
 
-- Fungi break down high-molecular-weight PAHs via extracellular enzymes, producing more soluble metabolites
+- Fungi break down high-molecular-weight PAHs via [[fungal-extracellular-enzymes]], producing more soluble metabolites
 - Bacteria then mineralize these fungal metabolites to CO2
 - Co-cultures of P. chrysosporium with Pseudomonas showed enhanced mineralization rates
 - Fungal mycelium also provides surface area for bacterial biofilm formation

@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-agar-media-formulas-preparation]] tarragon oyster euosmus cultivation Mushroom ([[pleurotus-euosmus]]) Cultivation
+title: Growing Gourmet Tarragon Oyster Euosmus Cultivation
 created: 2026-04-26
 tags:
   - mycology

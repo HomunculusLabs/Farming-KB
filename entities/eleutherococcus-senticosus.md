@@ -11,12 +11,12 @@ sources:
 
 # Eleutherococcus senticosus
 
-Eleutherococcus senticosus, commonly known as Siberian ginseng, is a woody
+Eleutherococcus senticosus, commonly known as [[comparison-panax-ginseng-vs-siberian-ginseng]], is a woody
 shrub in the family Araliaceae native to northeastern Asia. Unlike true
 ginseng (Panax species), it does not contain ginsenosides but instead
 produces a distinct class of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] called eleutherosides.
-It is one of the most extensively studied adaptogenic herbs, with a
-research history spanning over 60 years since Soviet-era investigations
+It is one of the most extensively studied [[adaptogenic-herbs-guide]], with a
+[[psilocybin-clinical-research-history]] spanning over 60 years since Soviet-era investigations
 into its performance-enhancing properties.
 
 The plant gained prominence in the 1960s when Soviet scientist Israel
@@ -38,7 +38,7 @@ Chinese medicine (where it is known as ci wu jia) and Russian herbalism.
 - **Common names:** Siberian ginseng, eleuthero, touch-me-not,
   devil's shrub, shigoka (Japanese), ci wu jia (Chinese)
 - **Note:** Despite the common name "ginseng," E. senticosus is not
-  closely related to Panax ginseng. The shared common name reflects
+  closely related to [[comparison-ginkgo-biloba-vs-panax-ginseng]]. The shared common name reflects
   similar traditional uses rather than botanical kinship.
 
 ## Botanical Description
@@ -88,60 +88,3 @@ old, with older roots considered more potent.
   moderate fertility and slightly acidic to neutral pH
 - **Shade tolerance:** Tolerates partial shade but fruits more
   abundantly in full sun
-
-## Active Compounds
-
-The pharmacological activity of E. senticosus is attributed to a complex
-mixture of glycosides, lignans, polysaccharides, and other constituents:
-
-| Compound Class | Key Compounds | Concentration | Activity |
-|---|---|---|---|
-| Eleutherosides (glycosides) | Eleutheroside B (syringin), E, E1 | 0.3–1.0% dry root | Adaptogenic, immunomodulatory |
-| Lignans | Sesamin, syringaresinol diglucoside | 0.1–0.3% | Antioxidant, neuroprotective |
-| Polysaccharides | Heteroglycans, glucans | 2–6% | Immunostimulatory |
-| Coumarins | Isofraxidin | Trace | Anti-inflammatory |
-| Triterpenoid saponins | Ciwujiatone A–D | Trace | Various |
-| Flavonoids | Quercetin, kaempferol derivatives | Trace | Antioxidant |
-
-Eleutheroside B and E are the primary marker compounds used for
-standardization of commercial extracts (typically 0.8% eleutherosides).
-
-## Pharmacology and Adaptogenic Activity
-
-The adaptogenic classification requires that a substance demonstrate
-non-specific resistance enhancement, normalizing effect on physiology,
-and non-toxicity at normal doses. E. senticosus has been studied for:
-
-- **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]:** Modulates the hypothalamic-pituitary-adrenal
-  (HPA) axis, reducing cortisol elevations during chronic stress
-  without suppressing normal HPA function
-- **Immune function:** Enhances natural killer (NK) cell activity,
-  T-cell proliferation, and phagocytosis; polysaccharide fractions
-  are primarily responsible
-- **Endurance and performance:** Improves oxygen utilization,
-  reduces lactate accumulation, and extends time to exhaustion in
-  animal and some human studies
-- **Cognitive function:** Improves mental performance under fatigue
-  conditions; investigated for potential benefits in age-related
-  cognitive decline
-- **Metabolic effects:** Demonstrates mild hypoglycemic activity and
-  may improve insulin sensitivity
-
-## Cultivation Notes
-
-E. senticosus is cultivated commercially in China, Korea, and to a
-lesser extent in Europe and [[psilocybin-north-america-pacific-northwest]]. Propagation is primarily
-by seed, though root division and stem cuttings are also viable.
-Seeds require cold stratification (3–5 months at 2–5°C) for reliable
-germination. Optimal spacing is 0.5–1 m between plants. Root harvest
-typically begins 3–4 years after planting, with maximum yield at 6
-years. The plant is relatively pest-resistant and requires minimal
-inputs once established, making it suitable for low-maintenance
-herb gardens and permaculture systems.
-
-## Permaculture and Agroforestry Applications
-## See Also
-
-- [[panax-quinquefolius]]
-- [[rhodiola-rosea]]
-- [[schisandra-chinensis]]

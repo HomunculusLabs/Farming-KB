@@ -25,11 +25,11 @@ sources:
 
 # Siberian Shamanism and Amanita Muscaria
 
-The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification. (see [[koryaks]]).
+The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification.
 
 ## Historical Sources
 
-The earliest accounts come from European travelers to Siberia beginning in the 16th century. Richard Johnson, an English explorer, provided a vivid description in the mid-1500s of a shaman drumming, wearing a mail mask decorated with fish teeth and wild beast parts, entering convulsions, and lying as if dead while the spirit revealed instructions. (see [[hallucinogenic-plants-history-ethnobotany]]).
+The earliest accounts come from European travelers to Siberia beginning in the 16th century. Richard Johnson, an English explorer, provided a vivid description in the mid-1500s of a shaman drumming, wearing a mail mask decorated with fish teeth and wild beast parts, entering convulsions, and lying as if dead while the spirit revealed instructions.
 
 The most comprehensive ethnographic accounts were compiled in the late 19th and early 20th centuries by Waldemar Jochelson (1900-1901 among the Koryak) and others. These documented Amanita use among the Koryak, Chukchi, Yukagir, Yakut, Ostyak, Samoyed, and Kamchadal tribes.
 
@@ -71,3 +71,18 @@ Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emp
 - [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
 - [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[amanita-muscaria]]
+- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
+- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]

@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] staff of life [[fukuoka-critique-western-dietetics]] dietetics and Critique of fukuoka-critique-western-dietetics-nutritional-science
+title: Fukuoka Textdoc Staff Of Life Critique Western Dietetics
 created: 2026-04-28
 tags:
   - fukuoka
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,47 +88,3 @@ cucumbers, eggplant, and tomatoes in winter. The day is not far off when
 farmers will be told to milk cows in winter and ship mandarin oranges in
 early summer, persimmons in spring, and peaches in fall. Can we really
 have a balanced diet by gathering many different foods at all times of
-the year, as if there were no seasons?
-
-## Out-of-Season Food as Incomplete Nourishment
-
-The plants of the mountains and streams always grow and mature while
-maintaining the best possible nutrient balance. Out-of-season vegetables
-and fruit are unnatural and incomplete. The eggplants, tomatoes, and
-cucumbers grown under the open sun twenty or thirty years ago are no
-longer to be found. Without a distinct fall or winter it is hardly
-surprising that greenhouse vegetables have lost their original flavor
-and fragrance. One should not expect them to be packed with vitamins
-and minerals. Scientists work to ensure people get all nourishment
-anywhere and anytime, but this has the opposite effect of making it
-increasingly difficult to obtain anything but incomplete nourishment.
-
-## The Yin-Yang Perspective on Japanese Food
-
-According to the principle of yin and yang, the basic foods listed in
-the four-group method such as meat, milk, chicken, and bluefish are
-highly yang and acidic, while potato is a very yin vegetable. Fukuoka
-declares none of these agree with the Japanese people. He proposes an
-alternative: grow rice suited to the Japanese climate, stop importing
-wheat, grow early-maturing naked barley harvestable in May before the
-summer rains, and revive the practices of eating [[brown-rice-flour-substrate]] and
-rice-and-barley. If all this is too much for modern man, he recommends
-at least making brown rice bread or bread from naked barley.
-
-## The Simple Barley-Rice Diet
-
-Fukuoka recalls that not so long ago, farmers in his area enjoyed simple
-meals of barley and rice with unrefined soy sauce and pickled
-vegetables. This gave them strength and long life. Rather than thinking
-in terms of drawing nutrition, it makes more sense to say that working
-hard in the fields made one hungry, which is why coarse fare tasted
-delicious. A strong body can draw sustenance from a simple diet. The
-contrast between this traditional way of eating and the modern pursuit
-of nutritional completeness through scientific calculation could not be
-starker.
-
-## See also
-
-[[fukuoka-textdoc-nature-of-food]]
-[[fukuoka-natural-farming-philosophy]]
-[[fukuoka-textdoc-seasonal-eating-japanese-food-calendar]]

@@ -11,9 +11,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Kaul, R.B. (1986). \"Floral and leaf morphology and phenology of Silphium laciniatum.\" American Midland Naturalist, 115(1), 81-90."
+  - "Kaul, R.B. (1986). \"Floral and cannabis-leaf-morphology-and-phyllotaxy phenology of Silphium laciniatum.\" American Midland Naturalist, 115(1), 81-90."
   - "Morrow, P.A. & Powles, S.B. (1988). \"Comparative biology of the prairie Silphium species.\" Prairie Naturalist, 20, 75-92."
-  - "Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin."
+  - "Foster, S. & Duke, J.A. (1990). A [[field-guide-psilocybin-bluing-reaction-identification]] to Medicinal Plants. Houghton Mifflin."
   - "Kindscher, K. (1987). Edible Wild Plants of the Prairie. University Press of Kansas."
 ---
 
@@ -26,8 +26,8 @@ Asteraceae native to the tallgrass prairies of central [[psilocybin-north-americ
 Named for its distinctive north-south oriented basal leaves that track
 the sun, it is a deep-rooted, long-lived species reaching heights of
 2–3.5 meters. The compass plant is valued in [[comparison-prairie-restoration-vs-silvopasture]],
-permaculture design, and ethnobotanical traditions for its resinous
-medicinal gum, wildlife habitat, and exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
+[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and ethnobotanical traditions for its resinous
+medicinal gum, [[hemenway-backyard-wildlife-habitat]], and exceptional [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ## Taxonomy
 
@@ -40,7 +40,7 @@ medicinal gum, wildlife habitat, and exceptional [[dighton-fungal-drought-tolera
 - **Species:** *S. lacinatum* L. (1753)
 
 **Synonyms:** *Silphium laciniatum* (alternative orthography, less common),
-*Silphium perfoliatum* var. *laciniatum*
+*[[silphium-perfoliatum]]* var. *laciniatum*
 
 **Etymology:** "Silphium" references the ancient Libyan resin-bearing plant
 *S. cyrenaicum* (now extinct). "Lacinatum" is Latin for "slashed" or
@@ -67,7 +67,7 @@ properties.
 
 ## Distribution and Habitat
 
-Native to the central United States, from Ohio and Ontario west to
+Native to the central [[dmt-containing-plants-united-states-halpern]], from Ohio and Ontario west to
 the Great Plains (North Dakota to Texas), and south to Alabama.
 
 Occurs in tallgrass prairies, savannas, glades, and open woodland
@@ -88,43 +88,3 @@ and as a general tonic.
 
 **Bioactive constituents:** Resin containing sesquiterpene lactones,
 diterpenes, and flavonoids. Specific pharmacological studies on
-*S. lacinatum* are limited; related *Silphium* species show
-anti-inflammatory and hepatoprotective activity.
-
-## Permaculture Applications
-
-**Deep-rooted [[nutrient-dynamic-accumulator-reference]]:** The extensive taproot mines
-minerals from deep soil horizons, bringing nutrients to the surface
-through leaf fall.
-
-**[[permplant-willows-salix-erosion-control-fodder]]:** Root system stabilizes steep slopes and prairie
-margins. Useful in conservation plantings and riparian buffers.
-
-**Pollinator support:** Prolonged bloom period provides nectar and
-pollen for native bees, butterflies, and hoverflies.
-
-**Prairie restoration keystone:** One of the dominant forbs of the
-original tallgrass prairie ecosystem; essential for authentic
-restoration seed mixes.
-
-**Companion plant:** Tall stature provides wind protection for
-shorter prairie species. Deep roots do not compete significantly
-with shallow-rooted neighbors for surface moisture.
-
-## Similar Species
-
-- **Silphium perfoliatum** (cup plant) — Opposite leaves fuse around
-  the stem forming a cup; more rhizomatous spread
-- **Silphium terebinthinaceum** (prairie dock) — Large, oval basal
-  leaves with smooth margins; less deeply lobed
-- **Silphium integrifolium** (rosinweed) — Smaller stature, entire
-  or shallowly toothed leaves
-
-## See Also
-
-- [[hericium-laciniatum]]
-
-- [[symphytum-officinale]] — Comfrey, another deep-rooted dynamic accumulator
-- [[echinacea-angustifolia]] — Narrow-leaved coneflower, prairie medicinal
-- solidago-virgaurea — Goldenrod, prairie pollinator species
-- [[permaculture-design]]

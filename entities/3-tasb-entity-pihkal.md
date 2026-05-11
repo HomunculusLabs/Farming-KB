@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-TASB
 
-PIHKAL entry #146. 3-THIOASYMBESCALINE;.
+[[2c-b-pihkal-entry-20]] #146. 3-THIOASYMBESCALINE;.
 
 ## Chemical Name
 
@@ -88,35 +88,7 @@ residue was distilled. The fraction coming over at 118-135 deg C at 0.4
 mm/Hg weighed 8.7 g, spontaneously crystallized, and proved to be
 3-bromo-4-ethoxy-5-methoxybenzaldehyde, melting at 59-60 deg C after
 recrystallization from MeOH. Anal. (C10H11BrO3) C,H. The fraction
-that came over at 135-155 deg C at 0.2 mm/Hg weighed 10.5 g and also
-solidified in the receiver. This product was
-3-bromo-N-cyclohexyl-4-ethoxy-5-methoxybenzylidenimine which, upon
-recrystallization from two volumes MeOH, was a white crystalline
-material with a mp of 60-61 deg C. Anal. (C16H22BrNO2) C,H. The two
-materials have identical mps, but can be easily distinguished by their
-infra-red spectra. The aldehyde has a carbonyl stretch at 1692 cm-1,
-and the Schiff base a C=N stretch at 1641 cm-1.
-
-A solution of 20.5 g
-3-bromo-N-cyclohexyl-4-ethoxy-5-methoxybenzylidenimine in about 300 mL
-anhydrous Et2O was placed in a He atmosphere, well stirred, and cooled
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[5-tasb-entity-pihkal]]
-
 - [[4-tasb-entity-pihkal]]
-
-- [[asb-entity]]
-
-- [[eme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[5-tasb-entity-pihkal]]

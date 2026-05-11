@@ -1,9 +1,9 @@
 ---
-title: Falconer falconer dwelling house mushroom growing duggar-mushroom-growing-history-and-methods
+title: Falconer Dwelling House Mushroom Growing
 created: 2026-04-28
 tags:
   [
-    mushroom-cultivation,
+    [[mushroom-cultivation]],
     home-cultivation,
     victorian-gardening,
     cellar-growing,
@@ -88,45 +88,10 @@ say one-half inch thick boards.
 
 In this way, by opening the lid, the mushrooms are under
 observation and can be gathered without any trouble. When
-the lid is shut they are secure from cold and vermin. Thus
-protected the cellars can be ventilated without interfering
-with the welfare of the mushrooms.
-
-A light wooden frame covered with calico or oiled paper
-would also make a good top for the boxing, only it would
-not be proof against much cold, or rats or mice.
-
-## Temperature Management
-
-If such a high temperature as 50 to 60 degrees cannot
-be maintained without impairing the usefulness of the
-cellar for other purposes, box up the beds tightly, and from
-the heat of the bed itself, when thus confined, there usually
-will be warmth enough for the mushrooms. If not, spread
-a piece of old carpet or matting over the boxing.
-
-## Advantages for Families
-
-The dwelling-house cellar offers several advantages for
-small-scale [[mushroom-cultivation]]:
-
-- Minimal additional infrastructure required
-- Proximity to the kitchen for convenient harvesting
-- Natural protection from extreme weather
-- The manure, after use, makes excellent garden fertilizer
-- No interference with other cellar storage when properly
-  partitioned
-
-The key to success is proper preparation of the manure
-before it enters the house, ensuring it is fully cooled and
-sweetened. When this is done correctly, mushroom-growing
-in the dwelling house becomes a clean, pleasant, and
-practically odorless occupation that provides fresh
-mushrooms throughout the winter months.
 
 ## See Also
-
-- [[mushroom-growing-house-construction-low-cost]]
-- oyster-mushroom-growing-house-site-selection
 - [[low-cost-mushroom-growing-house-construction-developing-countries]]
+- [[mushroom-growing-house-construction-low-cost]]
 - [[oyster-mushroom-growing-house-types]]
+- [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
+- [[falconer-dosoris-mushroom-cellar]]

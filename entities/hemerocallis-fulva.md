@@ -18,11 +18,11 @@ sources:
 
 # Hemerocallis fulva
 
-**Hemerocallis fulva** (tawny daylily, orange daylily, ditch lily) is a clump-forming perennial herb in the family Asphodelaceae. It is native to East Asia and has become widely naturalized across temperate regions worldwide.
+**Hemerocallis fulva** (tawny daylily, orange daylily, ditch lily) is a clump-forming perennial herb in the family Asphodelaceae. It is native to East Asia and has become widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species is among the most recognizable ornamental perennials due to its abundant trumpet-shaped orange flowers. Each flower lasts only a single day, reflected in the genus name from Greek "hemera" (day) and "kallos" (beauty).
 
-H. fulva is unusual among ornamental plants in being both widely cultivated and frequently naturalized as an escape. In parts of eastern North America, it forms extensive roadside monocultures.
+H. fulva is unusual among ornamental plants in being both widely cultivated and frequently naturalized as an escape. In parts of [[polypore-fungi-eastern-north-america]], it forms extensive roadside monocultures.
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ The species tolerates a wide range of soil conditions from acidic to alkaline. I
 
 Established clumps are remarkably drought-tolerant due to their tuberous root system. This adaptation allows H. fulva to persist in roadside ditches and railway embankments with minimal rainfall.
 
-The species is largely free of serious pests and diseases. Daylily rust (Puccinia hemerocallidis), first reported in the United States in 2000, can affect H. fulva but causes less damage than on hybrid cultivars.
+The species is largely free of serious [[mushroom-pests-and-diseases]]. Daylily rust (Puccinia hemerocallidis), first reported in the United States in 2000, can affect H. fulva but causes less damage than on hybrid cultivars.
 
 ## Cultivation and Uses
 
@@ -72,9 +72,9 @@ Modern research has investigated the neuroprotective properties of H. fulva extr
 
 The sterile triploid form produces no viable seeds, so propagation is entirely vegetative. Division of clumps every 3–5 years maintains vigor and increases stock.
 
-A diploid fertile form (H. fulva var. disticha) exists in parts of China and produces viable seed. This form is less common in cultivation but is significant in daylily breeding programs for its genetic diversity.
+A diploid fertile form (H. fulva var. disticha) exists in parts of China and produces viable seed. This form is less common in cultivation but is significant in daylily breeding programs for its [[biodiversity-fungal-genetic-diversity]].
 
-Tissue culture propagation has been developed for commercial production. However, vegetative division remains the standard method for home gardeners due to its simplicity and reliability.
+Tissue [[stamets-cultivator-liquid-culture-propagation-methods]] has been developed for commercial production. However, vegetative division remains the standard method for home gardeners due to its simplicity and reliability.
 
 ## Bioactive Compounds
 
@@ -84,33 +84,6 @@ Naphthalene glycosides such as hemerocallin are characteristic of the genus. The
 
 The flowers contain carotenoid pigments responsible for the orange coloration, primarily crocetin derivatives similar to those found in saffron. This has led to investigation of H. fulva as a saffron substitute.
 
-Polysaccharides extracted from the roots show immunomodulatory effects in animal studies. However, clinical trials in humans are lacking and the therapeutic relevance remains uncertain.
+Polysaccharides extracted from the roots show immunomodulatory effects in animal studies. However, [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in humans are lacking and the therapeutic relevance remains uncertain.
 
 The plant also contains small quantities of colchicine-related alkaloids. While concentrations are far below toxic thresholds, this chemistry connects H. fulva to the broader Liliales alkaloid profile.
-
-## Ecological Role
-
-The abundant nectar and pollen of H. fulva attract diverse pollinators, including bees, butterflies, hoverflies, and hummingbirds in North America. Despite individual flowers being short-lived, the extended bloom period provides sustained forage.
-
-The dense foliage clumps provide habitat for small invertebrates and ground-nesting insects. The fibrous root system helps stabilize soil on slopes and ditch banks.
-
-In its naturalized range, H. fulva can form near-monocultures that reduce plant diversity. The sterile triploid does not set seed, so its spread is limited to rhizomatous growth from existing populations.
-
-Deer generally avoid browsing H. fulva, which contributes to its competitive advantage in suburban and rural landscapes where deer pressure is high.
-
-The flowers are visited by sphinx moths at dusk, making the species a minor component of nocturnal pollinator networks. This crepuscular pollination complements the diurnal insect visitors.
-
-Thrips and spider mites may occasionally infest flower buds, reducing bloom quality. These pests are generally managed by removing and destroying affected foliage in autumn.
-
-In permaculture design, H. fulva is valued as a multi-functional plant providing food, medicine, erosion control, and ornamental value from a single species.
-
-## See Also
-
-- [[convallaria-majalis]]
-- [[narcissus-pseudonarcissus]]
-- [[crocus-sativus]]
-- [[colchicum-autumnale]]
-- [[iris-pseudacorus]]
-- [[galanthus-nivalis]]
-- [[tulipa-gesneriana]]
-- [[calendula-officinalis]]

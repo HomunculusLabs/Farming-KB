@@ -1,5 +1,5 @@
 ---
-title: [[allegro-amanita-muscaria-properties-and-pharmacology]] as a Legal Alternative to [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
+title: Amanita Muscaria Legal Alternative
 source: carolina-mushrooms_08qxp.md
 created: 2026-05-09
 tags: [amanita-muscaria, fly-agaric, legal-alternative, ibotenic-acid, muscimol, toxicity, europe]
@@ -88,59 +88,3 @@ more dangerous — ones.
 ## Health Risks
 
 ### Toxicity Concerns
-
-1. **Confusion with deadly Amanita species** — *A. phalloides* (death cap),
-   *A. virosa* (destroying angel), and *A. verna* contain **amatoxins** that
-   cause fatal liver and kidney failure. These are among the world's most
-   deadly mushrooms, and the consequences of misidentification are catastrophic.
-
-2. **Variable potency** — ibotenic acid and muscimol content varies enormously
-   between specimens, populations, and preparation methods, making dosing
-   unpredictable.
-
-3. **Ibotenic acid neurotoxicity** — at high doses, ibotenic acid is
-   genuinely neurotoxic, acting as an excitotoxin at glutamate receptors.
-   Symptoms include nausea, dizziness, confusion, agitation, and in severe
-   cases, seizures.
-
-4. **Gastrointestinal distress** — nausea, vomiting, and diarrhea are common,
-   even at moderate doses.
-
-5. **Dissociative delirium** — the altered state is more akin to delirium
-   than to the lucid perceptual changes of psilocybin. Users may become
-   agitated, confused, and potentially dangerous to themselves.
-
-### Comparison of Risk Profiles
-
-| Risk Factor | Psilocybin Mushrooms | Amanita muscaria |
-|-------------|---------------------|------------------|
-| Lethal dose | >1000× active dose | ~5–10× active dose |
-| Fatal misidentification | *Galerina* (rare) | *A. phalloides* (common) |
-| Primary mechanism | 5-HT2A agonism (safe) | Glutamate/GABA (excitotoxic) |
-| Physical side effects | Nausea (common) | Nausea, vomiting, sweating, dizziness |
-| Mental state | Lucid, introspective | Delirious, disoriented |
-
-## The EMCDDA Warning
-
-The EMCDDA concluded that the emergence of *A. muscaria* as a legal alternative
-to psilocybin mushrooms **"may pose health risks which call for further legal
-and prevention responses."** The concern is that:
-
-1. Users expecting psilocybin-like experiences are unprepared for deliriant
-   effects
-2. The lower margin of safety makes accidental overdose more likely
-3. The risk of fatal misidentification with deadly *Amanita* species is real
-4. Marketing as a "legal" or "natural" alternative creates a false sense of
-   safety
-
-## References
-
-- Hillebrand, J., Olszewski, D. & Sedefov, R. (2006). EMCDDA Thematic Papers.
-- Wasson, R.G. & Wasson, V.P. (1957). Mushrooms, Russia and History.
-- Ott, J. (1976). *Psychoactive Plants of the World*.
-- Benjamin, D.R. (1995). *Mushrooms: Poisons and Panaceas*.
-## See Also
-
-- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-- [[emcdda-herbal-highs-branding-smartshop-marketing-hallucinogenic-mushrooms]]
-- [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]

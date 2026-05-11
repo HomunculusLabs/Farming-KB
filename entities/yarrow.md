@@ -5,7 +5,7 @@ type: species
 tags:
   - asteraceae
   - medicinal-herb
-  - permaculture
+  - [[permaculture]]
   - companion-planting
   - dynamic-accumulator
   - pollinator-plant
@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-Achillea millefolium, commonly known as yarrow, is a
+[[achillea-millefolium]], commonly known as yarrow, is a
 hardy herbaceous perennial in the family Asteraceae.
-Native to temperate regions of the Northern Hemisphere,
+Native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere,
 it is one of the most important [[luteolin]]  | Flavonoid      | Anti-inflammatory, antiox. |
 | Rutin               | Flavonoid      | Vascular tonic             |
 | Tannins             | Polyphenol     | Astringent, wound healing  |
@@ -88,23 +88,3 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

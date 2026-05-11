@@ -18,7 +18,7 @@ updated: 2026-04-28
 sources:
   - "Lee, S.S. et al. (2012). \"Lignosus rhizophorae: A new species from Malaysia.\" Mycotaxon 121(1): 57-63."
   - "Tan, N.H. et al. (2015). \"Anti-inflammatory and immunomodulatory activities of Lignosus rhizophorae.\" BMC Complementary and Alternative Medicine 15: 332."
-  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in Southeast Asia.\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 85(1): 145-165."
+  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in [[psilocybe-southeast-asia-pacific]].\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 85(1): 145-165."
   - "Huang, H. et al. (2020). \"Cultivation and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
   - "https://www.mycobank.org/Lignosus-rhizophorae"
 aliases:
@@ -37,7 +37,7 @@ It is one of several species within the genus Lignosus that produce a distinctiv
 
 The species was originally collected from mangrove-associated substrates in Peninsular Malaysia and described taxonomically in 2012.
 
-It is closely related to the better-known Lignosus tigris and Lignosus rhinocerotis, all of which are valued in traditional Southeast Asian medicine.
+It is closely related to the better-known Lignosus tigris and Lignosus rhinocerotis, all of which are valued in traditional [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] medicine.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ Sclerotia are dark brown to black externally and white-cream internally, with a 
 
 L. rhizophorae is native to Peninsular Malaysia, Thailand, and parts of Sumatra, where it occurs in lowland dipterocarp forests and mangrove-adjacent habitats.
 
-It has been collected from decaying wood of Rhizophora (mangrove) species, as well as from buried roots and woody debris in mixed tropical forest.
+It has been collected from decaying wood of Rhizophora (mangrove) species, as well as from buried roots and [[fungal-diversity-leaf-litter-coarse-woody-debris]] in mixed [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]].
 
 The species is saprotrophic, decomposing lignocellulosic substrates in warm, humid tropical environments with high annual rainfall (2000–3000 mm).
 
@@ -79,7 +79,7 @@ Protein-bound polysaccharides isolated from the sclerotium have demonstrated mac
 
 Ethanolic extracts exhibit dose-dependent anti-inflammatory activity, significantly reducing nitric oxide production and TNF-α expression in LPS-stimulated macrophage cell lines.
 
-Triterpenoids, including lanostane-type compounds, have been isolated from the fruiting body and show moderate cytotoxic activity against human cancer cell lines (HeLa, MCF-7).
+Triterpenoids, including lanostane-type compounds, have been isolated from the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and show moderate cytotoxic activity against human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines (HeLa, MCF-7).
 
 Antioxidant assays (DPPH, ABTS) reveal strong free-radical scavenging activity, with IC50 values comparable to ascorbic acid for certain fractions.
 
@@ -88,34 +88,3 @@ The species also contains ergosterol, ergothioneine, and phenolic acids (gallic,
 ## Cultivation
 
 [[fukuoka-matsutake-artificial-cultivation-attempt]] of L. rhizophorae remains experimental and has not yet achieved commercial scale.
-
-Sclerotium induction has been attempted on sterilized substrates including rice bran, sawdust, and combinations of hardwood chips supplemented with wheat bran.
-
-Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs at 28–30°C on potato dextrose agar, with full plate colonization in 10–14 days.
-
-Sclerotium formation requires extended incubation (3–6 months) in darkness and is sensitive to substrate composition and moisture content.
-
-Indoor fruiting has been induced under high humidity (90–95%) with temperatures of 25–28°C and diffuse light.
-
-Yields remain low compared to other medicinal polypores, limiting commercial viability at present.
-
-## Ecological Role
-
-L. rhizophorae contributes to wood decomposition in tropical lowland forest ecosystems, particularly in mangrove-adjacent zones.
-
-As a white-rot fungus, it degrades lignin preferentially over cellulose, playing a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] of woody debris.
-
-The underground sclerotium may serve as a carbon and [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]], allowing the fungus to survive unfavorable conditions and rapidly colonize new substrates.
-
-Interactions with soil microorganisms, including potential mycorrhizal associations, are poorly studied and represent an area of active research interest.
-
-The species has not been assessed for the IUCN Red List, but habitat loss from mangrove deforestation and agricultural expansion may threaten wild populations.
-
-## See Also
-
-- [[inonotus-obliquus]]
-- [[hericium-erinaceus]]
-- [[piptoporus-betulinus]]
-- [[coriolopsis-gallica]]
-- [[beta-glucans]]
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

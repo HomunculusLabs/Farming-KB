@@ -34,11 +34,11 @@ exchange occurs. In this location, macrophages that hunt the glistening lung
 linings for foreign objects engulf the spores and attempt to digest their prey.
 
 However, because each spore is equipped with a protective jacket in the form
-of its chitinous cell wall, the macrophages suffer indigestion and crawl
+of its chitinous [[chitin-chitosan-fungal-cell-wall]], the macrophages suffer indigestion and crawl
 around with a conspicuous bulge. Studies in which cultured macrophages are
 allowed to browse on spores show that the spores remain intact within the
 macrophages for weeks. The chitinous wall of the spore is resistant to the
-enzymes that macrophages normally use to break down engulfed particles.
+enzymes that macrophages normally use to [[query-can-fungi-break-down-plastic-pollution]] engulfed particles.
 
 ## Natural Clearance Mechanism
 
@@ -58,7 +58,7 @@ frightening and dangerous.
 
 The universal teenage pursuit of self-evasion is not responsible for all cases
 of lycoperdonosis. Intentional limited inhalation of puffball spores has been
-used as a folk remedy to stop nosebleeds. The dried spore mass acts as a
+used as a folk remedy to stop nosebleeds. The dried [[growing-gourmet-spore-mass-inoculation-techniques]] acts as a
 desiccant and clotting agent when applied to bleeding tissue.
 
 Spores were also once applied by midwives to the stump of the cut umbilical
@@ -73,7 +73,7 @@ response.
 
 Puffballs are gasteromycetes — fungi that produce and release their spores
 internally rather than on exposed gills. A mature puffball can contain
-billions of spores within its fruiting body. When the puffball is mature and
+billions of spores within its [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. When the puffball is mature and
 dry, any disturbance — raindrops, animal contact, or a curious teenager
 squeezing the fruiting body — releases a cloud of spores.
 
@@ -88,40 +88,3 @@ event.
 
 Lycoperdonosis must be distinguished from other causes of acute respiratory
 illness following organic dust exposure, including:
-- **Hypersensitivity pneumonitis** (farmer's lung, mushroom worker's lung)
-- **Organic dust toxic syndrome**
-- **Allergic asthma triggered by fungal spores**
-- **Fungal pneumonia** caused by pathogenic species
-
-The key distinguishing feature of lycoperdonosis is the massive concentration
-of inhaled spores from a discrete exposure event, combined with the
-identification of basidiospores in lung biopsy specimens. The condition is
-primarily an inflammatory response to particulate matter rather than a true
-fungal infection — the spores do not germinate or grow in lung tissue.
-
-## Broader Context: Fungal Spores and Human Health
-
-The lycoperdonosis incident highlights a broader issue: humans are constantly
-exposed to fungal spores. During summer months, 500 or more spores may drift
-around in a cubic meter of indoor air. Current standards suggest that more
-than 50 spores per cubic meter presents a significant risk for eye, nose, and
-lung irritation. In mold-damaged homes, spores can number in the thousands per
-cubic meter.
-
-Dead fragments of broken hyphae can be just as allergenic as complete spores.
-Because culture-based [[singh-detection-methods-degrading-fungi-environment]] only count intact, viable spores, they
-can underrate the total number of irritating fungal particles by a factor of
-100. Given their ubiquity, there is no doubt that we inhale and exhale fungi
-and their cellular debris from our first breath to our last.
-
-## See Also
-
-- Bloomfield's Gasteromycetes and [[bloomfields-orchard-spore-discharge-mechanisms]]
-- [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]] Mold and Trichothecenes
-- [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]] and Sexual Signaling
-
-## Source
-
-- Money, Nicholas P. *Mr. Bloomfield's Orchard: The Mysterious World of
-  Mushrooms, Molds, and Mycologists*. Chapter 8: "Angels of Death,"
-  pp. 151–167.

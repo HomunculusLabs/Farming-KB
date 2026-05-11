@@ -87,23 +87,3 @@ McKenna linked cognitive liberty to the broader tradition of bodily autonomy and
 The emerging legal framework for psychedelic access — including Oregon's Measure 109 (psilocybin services), Colorado's Proposition 122 (natural medicine access), and the decriminalization measures passed by dozens of municipalities across the United States — represents a practical, incremental realization of McKenna's cognitive liberty framework. While these measures fall short of the full cultural integration McKenna envisioned, they represent a decisive break from the prohibition paradigm and an acknowledgment that the state's interest in controlling consciousness is neither absolute nor unlimited.
 
 Internationally, the reclassification of psilocybin in Australia (approved for therapeutic use in 2023), the opening of psychedelic therapy clinics in the Netherlands and Canada, and Brazil's long-standing legal tolerance of ayahuasca use in religious contexts all point toward a global shift away from prohibition and toward regulated access. McKenna, who died in 2000, did not live to see these developments, but they represent a vindication of his core argument: that the drug war was unsustainable, that psychedelics have genuine therapeutic and spiritual value, and that the suppression of consciousness-expanding substances was a historical anomaly rather than a permanent feature of civilization.
-
-See also:
-- [[mckenna-discovery-and-impact-of-lsd]]
-- [[mckenna-cannabis-culture-history]]
-- [[mckenna-archaic-revival]]
-
-## Key Points
-
-- McKenna's analysis connects psychoactive plant use to fundamental patterns in human cultural evolution
-- The stoned ape hypothesis, while controversial, raises important questions about the role of psychoactive substances in human cognitive development
-- McKenna's critique of dominator culture draws on both anthropological evidence and contemporary political analysis
-- The [[psychedelic-therapy-current-research]].
-
-## Related McKenna Topics
-
-McKenna's analysis fits within his broader framework of the [[mckenna-dissolution-of-the-dominator-culture]] and the [[mckenna-war-as-vector-of-addiction]]
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-mushroom-history]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushroom-set-and-setting]]

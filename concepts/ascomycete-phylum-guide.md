@@ -17,7 +17,7 @@ Ascomycota is the largest phylum of fungi, containing over 64,000 described spec
 - Many form a fruiting body called an ascocarp (apothecium, perithecium, or cleistothecium)
 - Hyphae are typically septate with simple pores
 - Life cycle often involves both asexual (anamorph) and sexual (teleomorph) stages
-- Many are decomposers; some are plant pathogens, others form [[lichen-biology-guide|lichens]]
+- Many are decomposers; some are plant pathogens, others form [[lichen-biology-guide]]
 
 ## Major Orders
 
@@ -25,7 +25,7 @@ Ascomycota is the largest phylum of fungi, containing over 64,000 described spec
 Contains the economically critical genera Penicillium and Aspergillus. These are primarily asexual fungi found in soil, decaying matter, and indoor environments. Penicillium species produce the antibiotic penicillin and are used in cheese production. Aspergillus species are used in soy sauce fermentation (A. oryzae) but some produce aflatoxins (A. flavus). See also [[mold-identification-guide]].
 
 ### Saccharomycetales (Saccharomyces)
-The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
+The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide]] is the workhorse of baking, brewing, and winemaking. Other members include [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] (a human pathogen) and Pichia species used in bioethanol production.
 
 ### Pezizales
 The cup fungi and morels. This order contains Morchella (morels), Tuber (truffles), and Helvella (elfin saddles). These are mostly ectomycorrhizal or saprotrophic and produce apothecia as fruiting bodies. See morels and truffles.
@@ -37,7 +37,7 @@ An ecologically diverse order including many plant pathogens (Sclerotinia), sapr
 Contains important entomopathogenic fungi (see [[cordyceps-and-entomopathogenic-fungi]]), including Cordyceps, Ophiocordyceps, Beauveria, and Metarhizium. Also includes Trichoderma species used in biocontrol and Gibberella (Fusarium) plant pathogens.
 
 ### Erysiphales
-The powdery mildews. Obligate biotrophic plant parasites that produce white powdery growth on leaf surfaces. Economically significant in agriculture, affecting grapes, cereals, cucurbits, and roses.
+The [[biodiversity-powdery-mildews]]. Obligate biotrophic plant parasites that produce white powdery growth on leaf surfaces. Economically significant in agriculture, affecting grapes, cereals, cucurbits, and roses.
 
 ### Ophiostomatales
 Includes Ophiostoma novo-ulmi, the causative agent of Dutch elm disease. Spread by bark beetles, these fungi have devastated elm populations worldwide.
@@ -55,18 +55,18 @@ Includes Ophiostoma novo-ulmi, the causative agent of Dutch elm disease. Spread 
 | Fusarium | Plant pathogen, soil fungus | Crop diseases, mycotoxins |
 | Claviceps | Plant pathogen | Ergot alkaloids, LSD precursor |
 | Taphrina | Plant pathogen | Peach leaf curl, plum pockets |
-| Xylaria | Wood decomposer | Dead man's fingers, bioactive compounds |
+| Xylaria | Wood decomposer | Dead man's fingers, [[cordyceps-cancer-bioactive-compounds]] |
 
 ## Ecological Roles
 
 ### Decomposition
-Ascomycetes are primary decomposers of plant material, especially cellulose and lignin. Xylaria, Daldinia, and Hypoxylon species are among the first colonizers of dead wood. Their ability to break down complex polysaccharides makes them essential to nutrient cycling in forest ecosystems.
+Ascomycetes are primary decomposers of plant material, especially cellulose and lignin. Xylaria, Daldinia, and Hypoxylon species are among the first colonizers of dead wood. Their ability to break down complex polysaccharides makes them essential to [[nutrient-cycling-in-soil]] forest ecosystems.
 
 ### Plant Pathogens
 Many serious plant diseases are caused by ascomycetes: powdery mildews, apple scab (Venturia), ergot of cereals (Claviceps), and Fusarium wilts. The phylum contains more plant pathogens than any other fungal group.
 
 ### Symbiosis
-Ascomycetes form the fungal partner in most lichen symbioses (roughly 98% of lichenized fungi are ascomycetes). Some form ectomycorrhizal associations with forest trees, particularly Tuber (truffles). See [[lichen-biology-guide]].
+Ascomycetes form the fungal partner in most lichen symbioses (roughly 98% of lichenized fungi are ascomycetes). Some form [[ectomycorrhizal-associations]] with forest trees, particularly Tuber (truffles). See [[lichen-biology-guide]].
 
 ### Human Uses
 - Antibiotics (Penicillium)
@@ -82,7 +82,7 @@ Ascomycetes reproduce both sexually and asexually. Sexual reproduction involves 
 ## Identification Tips
 
 - Look for cup-shaped (apothecium) or flask-shaped (perithecium) fruiting bodies
-- Microscopic examination of asci and ascospores is often necessary
+- [[fungal-microscopic-examination-mounting-media-techniques]] of asci and ascospores is often necessary
 - Spore print colors vary but are often white, cream, pink, or dark
 - Many have distinctive asexual stages that are easier to identify than sexual structures
 

@@ -16,7 +16,7 @@ sources:
   - Jaffe, J.H. & Martin, W.R. (1985). "Opioid analgesics and antagonists." In: Goodman & Gilman's The Pharmacological Basis of Therapeutics, 7th ed. McGraw-Hill.
   - Ritter, A. et al. (2021). "Heroin-assisted treatment: the state of the evidence." International Journal of Drug Policy, 93, 103187.
   - White, J.M. & Irvine, R.J. (1999). "Mechanisms of fatal opioid overdose." Addiction, 94(7), 961–972.
-  - Fischer, B. et al. (2015). "The 'opioid flood' and its socio-economic correlates." Drug and Alcohol Dependence, 151, 276–281.
+  - Fischer, B. et al. (2015). "The 'opioid flood' and its socio-economic correlates." Drug and [[cannabis-for-alcohol-dependence]], 151, 276–281.
   - Dutta, A.K. & Sengupta, K. (1992). "A short history of opiate addiction and its treatment." Indian Journal of Psychiatry, 34(1), 27–30.
   - Strang, J. et al. (2015). "Heroin on trial: systematic review and meta-analysis of randomised trials of diamorphine-prescribing as treatment for refractory heroin addiction." The Lancet Psychiatry, 2(6), 513–521.
 created: 2026-05-09
@@ -42,11 +42,11 @@ The substance is classified as a Schedule I controlled substance under the Unite
 
 **CAS number:** 561-27-3
 
-Heroin base is a white crystalline powder at room temperature, though street samples range from white to brown depending on purity and processing methods. It is soluble in water (as the hydrochloride salt), ethanol, chloroform, and slightly soluble in ether. The freebase form is volatile enough to be vaporized for inhalation, which distinguishes it pharmacokinetically from [[morphine]].
+Heroin base is a white crystalline powder at room temperature, though street samples range from white to brown depending on purity [[mushroom-storage-and-processing-methods]]. It is soluble in water (as the hydrochloride salt), ethanol, chloroform, and slightly soluble in ether. The freebase form is volatile enough to be vaporized for inhalation, which distinguishes it pharmacokinetically from [[morphine]].
 
 The diacetylation of morphine dramatically increases lipophilicity, which is the key structural feature responsible for heroin's rapid onset of action. This modification increases the compound's ability to cross the blood-brain barrier by approximately 100-fold compared to morphine, resulting in brain concentrations 10–100 times higher at equivalent doses. Once in the CNS, heroin undergoes rapid deacetylation by brain esterases.
 
-Heroin hydrochloride decomposes upon exposure to heat, light, and moisture, with the acetate groups hydrolyzing to yield 6-MAM and ultimately morphine. This degradation pathway complicates forensic analysis of seized samples, as the relative proportions of heroin, 6-MAM, and morphine serve as indicators of sample age and storage conditions.
+Heroin hydrochloride decomposes upon exposure to heat, light, and moisture, with the acetate groups hydrolyzing to yield 6-MAM and ultimately morphine. This degradation pathway complicates [[shirota-japan-2002-magic-mushroom-regulation-forensic-analysis]] of seized samples, as the relative proportions of heroin, 6-MAM, and morphine serve as indicators of sample age and [[spawn-storage-conditions]].
 
 Street heroin is rarely pure, typically containing a mixture of active opioid, cutting agents (caffeine, paracetamol, lactose, mannitol), and occasionally adulterants with pharmacological activity (fentanyl, [[cocaine]], clenbuterol). The choice of cutting agents can alter the drug's appearance, melting point, and bioavailability, further complicating harm reduction efforts and forensic characterization.
 
@@ -62,7 +62,7 @@ Heroin and 6-MAM bind to mu-opioid receptors with higher affinity and faster kin
 
 Heroin also activates delta-opioid receptors (DOR) and kappa-opioid receptors (KOR) at higher concentrations, contributing to dysphoric side effects at excessive doses. The elimination half-life of heroin itself is only 2–6 minutes, while 6-MAM has a half-life of 6–25 minutes and morphine persists for 2–4 hours, determining the total duration of effects.
 
-Tolerance to heroin develops rapidly, with users requiring dose escalation of 2–3 times the initial dose within weeks of daily use. Cross-tolerance extends to all mu-opioid agonists, complicating opioid rotation strategies in pain management and addiction treatment. The neurobiological basis of tolerance involves MOR desensitization, beta-arrestin recruitment, and compensatory upregulation of adenylyl cyclase activity.
+Tolerance to heroin develops rapidly, with users requiring dose escalation of 2–3 times the initial dose within weeks of daily use. Cross-tolerance extends to all mu-opioid agonists, complicating opioid rotation strategies in pain management [[psilocybin-and-addiction-treatment]]. The neurobiological basis of tolerance involves MOR desensitization, beta-arrestin recruitment, and compensatory upregulation of adenylyl cyclase activity.
 
 ## Effects
 
@@ -84,38 +84,6 @@ The severity of heroin withdrawal, while intensely unpleasant, is generally not 
 
 ## Toxicology
 
-The primary mechanism of fatal heroin overdose is **respiratory depression** through MOR-mediated suppression of the brainstem respiratory centers (pre-Bötzinger complex). At lethal doses, heroin-induced respiratory depression progresses to apnea, hypoxia, and cardiac arrest. The narrow therapeutic index, combined with unpredictable street purity (typically 10–60%), makes accidental overdose a constant risk.
+The primary mechanism of fatal heroin overdose is **respiratory depression** through MOR-mediated suppression of the brainstem respiratory centers (pre-Bötzinger complex). At lethal doses, heroin-induced respiratory depression progresses to apnea, hypoxia, and cardiac arrest. The narrow [[cannabis-therapeutic-index-overview]], combined with unpredictable street purity (typically 10–60%), makes accidental overdose a constant risk.
 
 **Naloxone reversal:** The opioid antagonist naloxone is the standard treatment for heroin overdose, competitively displacing heroin and its metabolites from MOR. Due to heroin's short half-life, repeated naloxone administration may be required as 6-MAM and morphine continue to be formed from tissue stores. The increasing prevalence of [[fentanyl]]-adulterated heroin has complicated overdose reversal, as fentanyl requires higher and more prolonged naloxone dosing.
-
-**Infectious complications:** Intravenous heroin use is associated with high rates of bloodborne pathogen transmission (HIV, hepatitis B and C), bacterial endocarditis, abscess formation, and septic emboli. The non-sterile preparation and injection practices common in illicit heroin use contribute significantly to these complications, which represent a major burden on healthcare systems globally.
-
-Harm reduction strategies including needle and syringe programs, supervised injection facilities, and take-home naloxone have been shown to reduce overdose mortality and infectious disease transmission without increasing drug use prevalence. These interventions are endorsed by the WHO, UNODC, and UNAIDS, though their implementation remains politically contentious in several countries.
-
-**Chronic organ toxicity:** Long-term heroin use is associated with pulmonary complications (talcosis, pneumonia, pulmonary edema), renal dysfunction (heroin-associated nephropathy), hepatic dysfunction (from co-injected adulterants and hepatitis), and endocrine disruption (hypogonadism, amenorrhea). These systemic effects compound the direct neurotoxicity of chronic opioid exposure.
-
-**Legal status:** Heroin is controlled under Schedule I of the United States Controlled Substances Act and Schedule I of the UN Single Convention on Narcotic Drugs (1961). Switzerland, the Netherlands, Germany, Denmark, and Canada have established supervised medical heroin prescription programs (heroin-assisted treatment) for chronic opioid dependence unresponsive to methadone or buprenorphine. In the UK, diamorphine remains available as a prescription analgesic for severe pain in hospital settings.
-
-## History and Related Compounds
-
-Heroin was first synthesized by Charles Romley Alder Wright in 1874 by boiling morphine with acetic anhydride, though he did not characterize its pharmacological properties. Bayer Pharmaceuticals began commercial production in 1898, marketing it as a non-addictive cough suppressant and tuberculosis treatment superior to [[codeine]]. By 1910, the addictive potential of heroin was unequivocally recognized, and Bayer ceased production in 1913.
-
-The irony of heroin's introduction as a "non-addictive" alternative to morphine established a pattern that has recurred throughout pharmaceutical history with subsequent opioid analgesics. The aggressive marketing tactics employed by Bayer, including distribution of free samples to physicians, foreshadowed the promotional strategies that contributed to the modern opioid epidemic in the United States.
-
-The Harrison Narcotics Tax Act of 1914 effectively criminalized heroin in the United States, though the drug remained available by prescription until 1924. Heroin trafficking expanded dramatically in the mid-20th century, with the "French Connection" routing Turkish opium through Marseille to the United States dominating supply from the 1930s to the 1970s. Southeast Asian heroin (from the Golden Triangle) and Southwest Asian heroin (from Afghanistan and Pakistan) subsequently became the predominant global supply sources.
-
-The 2010s marked a devastating shift in North American opioid markets, as heroin increasingly served as a transition substance for users who began with prescription opioids. This was followed by the displacement of heroin by synthetic opioids, particularly [[fentanyl]] and its analogues, which now account for the majority of opioid overdose deaths in the United States and Canada.
-
-This transition from prescription opioids to heroin to fentanyl represents a progression of increasing potency and decreasing cost, driven by market forces and drug prohibition economics. Each transition has been accompanied by increases in overdose mortality, with fentanyl-related deaths exceeding 70,000 annually in the United States by the mid-2020s.
-
-**Key related compounds:**
-
-- **Morphine:** The parent opiate from which heroin is derived. Less potent, slower onset, longer duration.
-- **6-MAM (6-monoacetylmorphine):** The primary active metabolite of heroin, responsible for the initial rush. Also a controlled substance and forensic marker of heroin use.
-- **Codeine:** A milder opioid used as an antitussive and mild analgesic, and a precursor in illicit heroin synthesis. Codeine is naturally present in opium at concentrations of 0.2–0.7%.
-- **Fentanyl:** A synthetic opioid 50–100 times more potent than heroin, increasingly prevalent as an adulterant and replacement.
-
-## See Also
-
-[[morphine]] [[codeine]] [[fentanyl]] [[cocaine]] [[ketamine]]
-[[mdma]] [[lsd]] [[psilocybin]] [[dmt]] [[nitrous-oxide]]

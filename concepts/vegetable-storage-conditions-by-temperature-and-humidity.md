@@ -1,5 +1,5 @@
 ---
-title: vegetable [[root-vegetable-storage-guide]] conditions by [[greg-green-temperature-and-humidity-control]] by greg-green-temperature-and-humidity-control
+title: Vegetable Storage Conditions By Temperature And Humidity
 created: 2026-04-28
 tags: [vegetable-storage, harvest, food-preservation, vegetable-gardening,
   post-harvest]
@@ -88,10 +88,3 @@ Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

@@ -88,36 +88,3 @@ Legumes are especially valuable in mycorrhizal-friendly rotations because:
 ***
 
 ## Cover Crops and Mycorrhizae
-
-### Recommended Mycorrhizal Cover Crops
-
-Many common cover crops form strong mycorrhizal associations:
-- Clover (white, red, crimson)
-- Vetch
-- Rye
-- Oats
-- Field peas
-- Cowpeas
-- Buckwheat (NOTE: does NOT form mycorrhizae — avoid as sole [[query-how-do-i-choose-the-right-cover-crop-for-my-garden]] mycorrhizal maintenance)
-
-### Green Manures
-
-When [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] terminated and incorporated:
-- Mycorrhizal root fragments remain in the soil
-- Spores from colonized roots are released
-- These serve as natural inoculum for the next crop
-- Avoid incorporating non-host cover crops (brassicas) without inoculating afterward
-
-***
-
-## Planning Your Rotation
-
-### A Mycorrhizal-Friendly Rotation Example
-
-Year 1: Corn (highly mycorrhizal dependent) — inoculate at planting
-Year 2: Soybeans (legume, mycorrhizal) — benefits from existing network
-Year 3: Wheat (somewhat dependent) — maintains network
-Year 4: Oats with clover cover crop — maintains network
-## See Also
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

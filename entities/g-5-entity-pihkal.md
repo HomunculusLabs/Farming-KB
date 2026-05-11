@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # G-5
 
-PIHKAL entry #84. 3,6-DIMETHOXY-4-(2-AMINOPROPYL)BENZONORBORNANE.
+[[2c-b-pihkal-entry-20]] #84. 3,6-DIMETHOXY-4-(2-AMINOPROPYL)BENZONORBORNANE.
 
 ## Chemical Name
 
@@ -88,39 +88,3 @@ temperature overnight. The excess solvent and reagent was removed
 under vacuum to yield a residual yellow oil. This was allowed to
 stand at [[jadam-ambient-temperature-principle]] for a period of time (about 3 years) by
 which time there was a spontaneous crystallization. The dull yellow
-crystals were removed by filtration and, after air drying, weighed
-4.28 g. A small sample was recrystallized repeatedly from MeOH to
-provide a pale yellow analytical sample of
-3,6-dimethoxy-4-(2-nitropropenyl)benzonorbornane with a mp of 90-91
-deg C. Anal. (C16H19NO4) C,H.
-
-A solution of LAH (50 mL of 1 M solution in THF) was cooled, under He,
-to 0 deg C with an external ice bath. With good stirring there was added
-1.32 mL 100% H2SO4 dropwise, to minimize charring. This was followed
-by the addition of 4.1 g
-3,6-dimethoxy-4-(2-nitropropenyl)benzonorbornane in 20 mL anhydrous
-THF over the course of 10 min. The reaction mixture was stirred and
-brought to room temperature over the course of 1 h. This was then
-brought to a gentle reflux on the steam bath for 0.5 h, and then all
-was cooled again to 0 deg C. The excess hydride was destroyed by the
-cautious addition of 10 mL IPA followed by 5 mL 5% NaOH and sufficient
-H2O to give a white granular character to the oxides. The reaction
-mixture was filtered, and the filter cake washed with THF. The
-filtrate was stripped of solvent under vacuum providing a pale amber
-oil that was distilled at 125-140 deg C at 0.2 mm/Hg to give 2.5 g of an
-almost white oil. This was dissolved in 10 mL IPA, neutralized with
-25 drops of concentrated HCl, and then diluted with 140 mL anhydrous
-Et2O. There appeared, after about two minutes, white crystals of
-3,6-dimethoxy-4-(2-aminopropyl)benzonorbornane hydrochloride (G-5)
-which, after filtration and air drying, weighed 2.47 g.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
-- [[2c-g-5-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
-- [[tma-5-entity-pihkal]]

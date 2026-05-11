@@ -1,15 +1,16 @@
 ---
-title: fukuoka dharma wheel theory evolution Theory of Flux - Alternative to Darwinian Evolution
+title: Fukuoka [[fukuoka-textdoc-dharma-wheel-civilization-collapse]] Theory Evolution
 tags:
   - philosophy
   - evolution
   - biology
-  - natural-farming
+  - [[natural-farming]]
   - genetics
   - fukuoka
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
@@ -17,11 +18,11 @@ sources:
 
 ## Overview
 
-The **Dharma Wheel Theory of Flux in All Things** is Masanobu Fukuoka's alternative to Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
+The **Dharma Wheel Theory of Flux in All Things** is [[masanobu-fukuoka]]'s alternative to Darwin's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] selection. Rather than seeing evolution as a linear, flat progression from simple to complex organisms over billions of years, Fukuoka proposed a three-dimensional, cyclical model where all living things were created simultaneously and exist as a unified whole, with species appearing and disappearing like islands surfacing and sinking in a sea of genetic potential.
 
 ## Critique of Darwin's Theory
 
-Fukuoka raised several fundamental objections to Darwinian evolution:
+Fukuoka raised several fundamental objections to [[fukuoka-critique-darwinian-evolution]]:
 
 ### The Problem of Superiority and Inferiority
 
@@ -65,7 +66,7 @@ Fukuoka's background as a microbiologist informed his genetic theory:
 - Whether something becomes a plant or a human being is a question of whether genetic factors "surface" or "sink"
 - Only a small portion of possible genetic combinations have successfully come into being; most are lost or dormant
 
-The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An acacia tree produces millions of seeds, each with distinctive genetic makeup, but after ten years perhaps only one or two trees survive as descendants — yet all the others were also possible.
+The reason there are so few intermediary forms between species is not that they never existed. Rather, even if they were born, they died in infancy and did not come to human attention. An [[acacia]] tree produces millions of seeds, each with distinctive genetic makeup, but after ten years perhaps only one or two trees survive as descendants — yet all the others were also possible.
 
 ## The Alternative Creation Story
 
@@ -87,20 +88,3 @@ The dharma wheel represents natural law as:
 - **Spinning**: like the universe, heading in an unknown direction
 - **Converging and diverging**: the center hub is forever motionless and forever one
 - **Unified at the base**: instead of seeing distinctions among things, the purpose of all things is the same
-
-At creation, Earth and all living things were born as a single, unified body with a common fate. Everything regarding the roles, aims, and work of each originated and was concluded in the same instant. All things were designed so that one is many, the individual is the whole, the whole is perfect, there is no waste, nothing is useless, and all things perform their best service.
-
-## Implications for Natural Farming
-
-This theory has direct agricultural implications:
-
-- Since all living things are fundamentally one, harming plants, microorganisms, and insects through conventional agriculture means harming humanity
-- The classification of plants into species, genus, family, and order is an imposition and of no use
-- People do not need to create new varieties by artificial crossbreeding — [[fukuoka-insects-create-new-rice-varieties]] new varieties naturally in chemical-free fields
-- [[fukuoka-textdoc-genetic-engineering-critique-warning]] is "the mad course" — unnecessary and dangerous
-
-## Relationship to Mu Philosophy
-
-The Dharma Wheel Theory connects to Fukuoka's concept of [[fukuoka-critique-of-scientific-agriculture]]
-- [[fukuoka-textdoc-dharma-wheel-civilization-collapse]]
-- [[fukuoka-textdoc-field-ecosystem-natural-farm-insects-frogs-dragonflies]]

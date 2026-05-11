@@ -1,7 +1,7 @@
 # Cannabis Decarboxylation Chemistry
 
 Decarboxylation is the chemical process by which the carboxylic acid group (-COOH)
-is removed from a molecule, releasing carbon dioxide. In cannabis chemistry,
+is removed from a molecule, releasing [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]. In cannabis chemistry,
 decarboxylation converts the acidic, non-psychoactive cannabinoid precursors
 present in raw plant [[chamovitz-plant-senses-overview]] material — primarily tetrahydrocannabinolic acid (THCA) and
 cannabidiolic acid (CBDA) — into their active, decarboxylated forms:
@@ -15,7 +15,7 @@ In living cannabis plants, cannabinoids are biosynthesized as carboxylic acids. 
 Cannabigerolic acid (CBGA) serves as the central precursor from which all other
 cannabinoid acids are produced through enzymatic pathways. THCA synthase converts
 CBGA to THCA, while CBDA synthase converts CBGA to CBDA. These acidic forms are
-the dominant cannabinoids in fresh and dried cannabis flower, typically
+the dominant cannabinoids in fresh and dried [[cervantes-cannabis-flower-anatomy]], typically
 comprising 80-95% of the total cannabinoid content.
 
 The carboxylic acid group dramatically changes the pharmacological properties of
@@ -23,8 +23,8 @@ these molecules. THCA is non-psychoactive because it cannot bind effectively to
 the CB1 receptor in the endocannabinoid system. The three-dimensional
 conformation of THCA, influenced by the bulky carboxyl group, prevents the
 molecular fit required for receptor activation. CBGA and CBDA similarly lack
-significant affinity for cannabinoid receptors in their acidic forms, though
-CBDA has shown activity at serotonin receptors (5-HT1A) that is independent of
+significant affinity for [[cannabinoid-receptors-cb1-and-cb2]] in their acidic forms, though
+CBDA has shown activity at [[psilocybin-pharmacology-and-serotonin-receptors]] (5-HT1A) that is independent of
 decarboxylation.
 
 ## Reaction Mechanism
@@ -87,64 +87,3 @@ fresh cannabis material often achieve higher decarboxylation rates during baking
 than would be predicted from dry-heating models. However, excess moisture can
 also promote hydrolysis of cannabinoids and terpenes, so overly moist starting
 material may produce lower-quality extracts.
-
-Professional extraction facilities typically dry cannabis to below 10% moisture
-before extraction to provide consistent, predictable decarboxylation kinetics.
-For home edibles production, the "oven decarb" method — spreading ground flower on
-a baking sheet at 110-115°C for 40-60 minutes — achieves reliable conversion
-regardless of small variations in starting moisture content.
-
-## Cannabinoid-Specific Kinetics
-
-Different cannabinoid acids decarboxylate at different rates due to variations in
-molecular structure and electronic effects. CBDA decarboxylates slightly faster
-than THCA at equivalent temperatures, requiring approximately 10-15% less time for
-complete conversion. This difference is attributed to the electronic effects of
-the double bond configuration on the transition state stability.
-
-Cannabichromenic acid (CBCA) decarboxylates at a rate intermediate between THCA
-and CBDA. Cannabigerolic acid (CBGA), being the precursor molecule, is somewhat
-more reactive and decarboxylates readily at moderate temperatures.
-Tetrahydrocannabivarinic acid (THCVA), the propyl homolog of THCA found in some
-African and Asian landrace varieties, follows similar kinetics to THCA with
-minor differences attributable to the propyl side chain's effect on transition
-state geometry.
-
-The minor cannabinoids — cannabidivarinic acid (CBDVA), cannabielsoinic acid
-(CBEA), and others — have not been individually characterized for decarboxylation
-kinetics, but are assumed to follow similar patterns based on their structural
-similarity to the major cannabinoid acids.
-
-## Terpene Preservation During Decarboxylation
-
-Terpenes, the aromatic compounds responsible for cannabis's distinctive fragrance
-and flavor, are highly volatile. Most mono-terpenes (limonene, myrcene, pinene)
-have boiling points between 150-170°C, while sesquiterpenes (caryophyllene,
-humulene) boil at 240-280°C. Decarboxylation temperatures of 110-130°C are below
-the boiling points of most terpenes, but significant terpene loss still occurs
-through sublimation and diffusion at these temperatures.
-
-Closed-system decarboxylation — heating cannabis in sealed containers or sous-vide
-bags — preserves significantly more terpene content than open-oven methods.
-Vacuum-sealed bags in water baths at 95-100°C for 2-3 hours achieve substantial
-decarboxylation while retaining 70-80% of mono-terpenes compared to 30-40%
-retention in open-oven methods at 115°C. The trade-off is that lower-temperature
-methods may not achieve complete decarboxylation, leaving 10-20% residual acidic
-cannabinoids.
-
-## Analytical Methods for Measuring Decarboxylation
-
-High-performance liquid chromatography (HPLC) is the standard analytical method
-for quantifying both acidic and decarboxylated cannabinoids, making it ideal for
-monitoring decarboxylation progress. Gas chromatography (GC) requires high
-inlet temperatures that cause in-situ decarboxylation, making it unsuitable for
-distinguishing between acidic and neutral forms unless derivatization techniques
-are employed. HPLC with UV or mass spectrometry detection provides accurate,
-quantitative measurement of individual cannabinoid species throughout the
-decarboxylation process.
-
-Near-infrared spectroscopy (NIR) has emerged as a rapid, non-destructive method
-for estimating decarboxylation completeness in commercial settings. While less
-precise than HPLC, NIR can provide real-time monitoring of batch decarboxylation
-processes, enabling operators to identify endpoint timing without sampling and
-laboratory analysis.

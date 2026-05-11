@@ -88,9 +88,3 @@ psilocybin-containing fungi under their Opium Act regardless of species
 identity. No country specifically lists C. tenera by name in scheduling.
 
 ## Notes
-
-The genus Conocybe contains approximately 100 described species worldwide, many of which are extremely small, fragile, and exceedingly difficult to identify in the field without microscopy. The combination of their diminutive size, habitat in disturbed grassy areas, and highly variable chemistry (ranging from inactive to psychoactive to muscarine-containing to amatoxin-containing) makes them one of the most problematic groups from a [[mushroom-foraging-safety-guide]] perspective. Even experienced mycologists typically require microscopic examination of spore morphology, basidial characters, and cystidial features to identify Conocybe species with confidence.
-
-## See Also
-
-- [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]

@@ -1,5 +1,5 @@
 ---
-title: "tompkins-luther-burbank-intuitive-breeding's Plant Breeding Methods"
+title: [[tompkins-luther-burbank-intuitive-breeding]] Plant [[cervantes-backcross-breeding-methods]]
 created: 2026-04-28
 tags: [plant-breeding, horticulture, burbank, selection, intuition, plant-communication]
 date: 2026-04-25
@@ -88,45 +88,3 @@ One farm adviser described watching Burbank walk down rows of thousands
 of plants: "He'd go along a row of gladioli, yanking out the ones he
 didn't want as fast as he could pull them up. He seemed to have an
 instinct that told him if a tiny plant would grow up to bear the kind
-of fruit or flowers he wanted. I couldn't see any difference between
-them, even if I stooped and looked closely, but Burbank did no more
-than glance at them." His catalogs described "six new gladioli, the
-best of a million seedlings" and "discarding 18,000 calla lilies to get
-one plant."
-
-Liberty Hyde Bailey, dean of American botany, who had earlier said man
-could not do much to produce plant variations, visited Santa Rosa and
-wrote: "Luther Burbank is not a wizard. He is an honest, straightforward,
-careful, inquisitive and persistent man." Professor H.J. Webber of the
-U.S. Department of Agriculture maintained that Burbank had single-
-handedly saved the world nearly a quarter century in plant-breeding time.
-
-## Relationship with Nature
-
-Burbank's personal relationship with his plants bordered on the mystical.
-When the 1906 earthquake devastated Santa Rosa, not a pane of glass in
-his greenhouse was cracked. He surmised his communing with the forces
-of nature might have protected it. He wrote that "the most stubborn
-living thing in this world, the most difficult to sway" is a plant, yet
-they respond to patient effort. His catalogs suggested that plants have
-some form of sensitivity that enables them to respond to human intention
-and care, a theme that resonates with the broader research documented
-in The Secret Life of Plants.
-
-## Practical Applications
-
-Burbank's methods demonstrate that intuitive selection combined with mass
-screening can achieve rapid plant improvement. His approach of treating
-plants as responsive beings rather than inanimate objects prefigures modern
-understandings of plant perception. The principle of cross-breeding plants
-from different regions to unlock hidden variations remains fundamental to
-plant genetics and agricultural improvement worldwide.
-
-## Related Concepts
-
-- [[plant-perception]]
-- [[biodynamic-agriculture-and-steiner]]
-
-## See Also
-
-- [[tompkins-luther-burbank-intuitive-breeding]]

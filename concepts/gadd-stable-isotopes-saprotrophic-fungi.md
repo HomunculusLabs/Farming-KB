@@ -1,5 +1,5 @@
 ---
-title: "gadd stable isotopes [[comparison-mycorrhizal-vs-saprotrophic-fungi]] in saprotrophic-fungi"
+title: Gadd Stable Isotopes Saprotrophic Fungi
 created: 2026-04-28
 tags: [mycology, stable-isotopes, nitrogen, carbon, ecological-tracers]
 date: 2026-04-25

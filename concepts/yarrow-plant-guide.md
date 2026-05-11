@@ -11,12 +11,12 @@ sources: []
 
 ## Overview
 
-Yarrow is a hardy perennial herb native to temperate regions of the Northern
+Yarrow is a hardy perennial herb native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern
 Hemisphere. Named for Achilles, who supposedly used it to treat soldiers'
 wounds during the Trojan War, yarrow has been a staple medicinal plant across
-European, Asian, and Native American herbal traditions for millennia. It is
+European, Asian, [[halpern-sacramental-peyote-and-native-american-church]] herbal traditions for millennia. It is
 also an excellent companion plant, pollinator attractor, and drought-tolerant
-garden resident. (see [[medicinal-herb-growing]]).
+garden resident.
 
 ## Botanical Profile
 
@@ -30,11 +30,11 @@ garden resident. (see [[medicinal-herb-growing]]).
 The species epithet "millefolium" (thousand-leaved) refers to the finely
 divided, feathery foliage. Flower heads are flat-topped clusters of small
 daisy-like flowers, typically white but available in cultivated pink, red,
-and yellow varieties. (see [[herb-growing-guide]]).
+and yellow varieties.
 
 ## Medicinal Uses
 
-Yarrow is one of the most versatile medicinal herbs in the temperate garden. (see [[hawthorn-berry-guide]]).
+Yarrow is one of the most versatile medicinal herbs in the temperate garden.
 Its primary active compounds include achilleine (a hemostatic alkaloid),
 flavonoids, tannins, and essential oils (chamazulene, camphor, eucalyptol).
 
@@ -50,7 +50,7 @@ Key medicinal applications:
   gas, and eases menstrual cramps.
 - Circulatory support: Traditionally used to lower blood pressure and
   improve peripheral circulation.
-- Anti-inflammatory: Topical preparations soothe rashes, hemorrhoids, and
+- Anti-inflammatory: [[blesching-cannabis-tinctures-infused-oils-topical-preparations]] soothe rashes, hemorrhoids, and
   skin inflammation.
 
 Yarrow is generally considered safe for most adults when used appropriately.
@@ -64,7 +64,7 @@ Yarrow is one of the best all-around companion plants for a homestead garden:
 
 - Attracts predatory insects: Ladybugs, lacewings, hoverflies, and parasitic
   wasps are drawn to yarrow's nectar-rich flowers. These insects are
-  biological control agents for aphids, caterpillars, and other pests.
+  [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents for aphids, caterpillars, and other pests.
 - Improves soil: Yarrow accumulates copper, potassium, and phosphorus. Its
   deep root system opens compacted soil and draws nutrients to the surface.
 - Boosts essential oil production: When planted near aromatic herbs, yarrow
@@ -130,8 +130,8 @@ protected from light. Properly dried yarrow retains potency for 1-2 years.
 
 ## Common Issues
 
-Yarrow is largely pest and disease free. Overly rich soil or excessive
-moisture can cause powdery mildew or root rot. Aphids occasionally appear
+Yarrow is largely [[hamilton-pest-and-disease-control-organic]] free. Overly rich soil or excessive
+moisture can cause [[cervantes-powdery-mildew-prevention-treatment]] or root rot. Aphids occasionally appear
 but rarely cause significant damage. The aromatic foliage naturally deters
 deer and rabbits.
 

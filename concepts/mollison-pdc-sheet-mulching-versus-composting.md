@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -87,53 +88,3 @@ potash, and phosphate. Worm castings also tend to test alkaline, which can
 be useful for modifying soil chemistry.
 
 The key insight is that instead of materials "burning down" in a compost
-bin, worms eat the material across the entire surface area of the garden,
-producing uniformly distributed, high-quality castings. This process
-takes only about three days for worm cast to completely cover a layer of
-sawdust in an active mulching system.
-
-## The Role of Small-Scale Composting
-
-Mollison does not entirely eliminate compost. He recommends maintaining a
-very small system, perhaps a single cubic yard, sufficient for an average
-household. A little goes on seed beds, a little in seed trays, a little
-in the greenhouse. The vast majority of soil fertility comes from the
-sheet mulch system. Some materials are better composted than mulched,
-particularly wet materials like algae that can create anaerobic conditions.
-
-## Converting Lawn to Garden with Mulch
-
-One of Mollison's most practical techniques is converting existing lawn
-into productive garden without any digging. The method is simple: lay
-down a thick layer of mulch directly on the grass, cut small holes in the
-mulch, and plant directly through it. He describes using old tick
-mattresses laid on the lawn, cutting holes for potatoes, and covering with
-hay. Within one season, the grass is killed and the soil is ready for
-production.
-
-For clay soils, Mollison considers this approach ideal. Clay retains
-enormous quantities of water, and because mulching keeps roots in the
-surface layers, plants never have to encounter the heavy clay below.
-Sturdy clay gardens make the best mulch gardens.
-
-## Handling Kitchen Wastes and Weeds
-
-Kitchen wastes can go directly onto the garden mulch without composting.
-Mollison recommends simply lifting a handful of mulch, scattering the
-garbage, and replacing the mulch. In winter, kitchen wastes can be frozen
-into blocks and placed on the mulch surface. Banana peels, tea leaves,
-and fat scraps all disappear quickly in an active mulch system.
-
-Weeds are handled the same way: they lift out easily from the mulch,
-are reversed so their roots face upward, and the mulch is dropped back
-on top. Mollison actually encourages letting certain weeds grow large
-in the mulch system, as they contribute to soil biology.
-
-## Relationship to mollison-zone-one-garden-design
-- [[sheet-mulching-guide]]
-## See Also
-- [[sheet-mulching]]
-- [[decomposition]]
-- [[permaculture-design]]
-- [[bill-mollison]]
-- [[gaias-garden-sheet-mulching-composting-in-place]]

@@ -88,39 +88,3 @@ See [[cover-crops-green-manures]] for organic matter sources.
 
 Green manures are legumes or small grain crops plowed under while still
 green. Winter green manure crops include rye, wheat, barley, and winter
-vetch. Summer crops include Sudangrass, soybeans, and cowpeas. A practical
-rotation is to plant half the garden to a winter green manure in September
-or early October, put manure on the other half, and rotate these areas
-yearly. Wait about three weeks after turning under a green manure before
-planting. See [[crop-rotation-benefits]].
-
-## Seed and Plant Selection
-
-Order seed of recommended cultivars early, especially for indoor starting.
-Buy from reputable companies. Do not depend on old seed or seed saved from
-hybrid plants, as hybrids may not come true the second season.
-
-Some vegetables, including tomatoes, broccoli, cabbage, cauliflower,
-eggplant, and peppers, are difficult to start from seed in the garden and
-are better purchased as transplants or started indoors. See [[seed-starting-indoors]] for guidance on seed selection and indoor propagation.
-
-## Planting the Garden
-
-### Preparing the Soil
-
-Allow time in spring for sunshine and warm breezes to dry out the soil
-before working it. If a soil ball crumbles in your fingers, it is ready.
-If it clings together, it is still too wet. Working wet soil causes hard,
-cloddy conditions that persist for weeks.
-
-Prepare soil about six inches deep, making sure all sod is turned under.
-Finish by leveling and smoothing with a rake. See [[intensive-gardening-critique-solomon]] for detailed techniques.
-
-### Planting Seed
-
-Make a furrow for seed using the hoe handle for fine seeds or the blade
-for larger seeds. Barely cover small seed and place about one inch of soil
-over large seed. One of the most common errors in gardening is planting
-too deep. Seeds planted too deep often fail to emerge.
-
-To prevent soil crusting over seed rows, apply a light mulch of chopped

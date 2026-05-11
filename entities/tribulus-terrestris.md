@@ -13,7 +13,7 @@ sources:
 
 # Tribulus terrestris
 
-**Tribulus terrestris**, commonly known as puncture vine, caltrop, goat's-head, bindii, or *Gokshura* (गोक्षुर) in Ayurvedic medicine, is an annual herbaceous plant in the family Zygophyllaceae. Native to warm temperate and tropical regions of the Old World, it has spread globally as an invasive weed. Despite its reputation as an agricultural pest, T. terrestris has a long history of use in traditional medicine systems — particularly Ayurveda, Traditional Chinese Medicine (TCM), and folk medicine of the Mediterranean and Middle East — primarily as a tonic, aphrodisiac, and vitality-enhancing herb.
+**Tribulus terrestris**, commonly known as puncture vine, caltrop, goat's-head, bindii, or *Gokshura* (गोक्षुर) in Ayurvedic medicine, is an annual herbaceous plant in the family Zygophyllaceae. Native to warm temperate and [[fukuoka-natural-farming-in-tropical-regions]] of the [[datura-metel-old-world-ethnobotany]], it has spread globally as an invasive weed. Despite its reputation as an agricultural pest, T. terrestris has a long history of use in traditional medicine systems — particularly Ayurveda, Traditional Chinese Medicine (TCM), and folk medicine of the Mediterranean and Middle East — primarily as a tonic, aphrodisiac, and vitality-enhancing herb.
 
 ## Taxonomy
 
@@ -29,7 +29,7 @@ sources:
 | Genus | *Tribulus* |
 | Species | *T. terrestris* |
 
-The genus *Tribulus* comprises approximately 20 species distributed across warm regions worldwide. The species name *terrestris* (Latin for "of the earth") refers to its prostrate, ground-hugging growth habit. Several botanical varieties have been described, with *T. terrestris* var. *terrestris* being the most widespread. [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] exists between *T. terrestris* and related species, which has implications for the consistency and efficacy of commercial herbal preparations.
+The genus *Tribulus* comprises approximately 20 species distributed across warm regions worldwide. The species name *terrestris* (Latin for "of the earth") refers to its prostrate, ground-hugging growth habit. Several botanical varieties have been described, with *T. terrestris* var. *terrestris* being the most widespread. [[growing-gourmet-pleurotus-sajor-caju-taxonomic-confusion]] exists between *T. terrestris* and related species, which has implications for the consistency and efficacy of commercial [[honey-based-herbal-preparations]].
 
 ## Botanical Description
 
@@ -68,7 +68,7 @@ The primary bioactive constituents of *T. terrestris* are steroidal saponins, wi
 - **Amino acids:** Including gamma-aminobutyric acid (GABA)
 - **Minerals:** Rich in calcium, magnesium, zinc, and iron
 
-The saponin content varies enormously depending on plant part (highest in fruits/leaves), harvest time, geographic origin, and processing method. Commercial standardization is typically based on total saponin content (40–90% in extracts).
+The saponin content varies enormously depending on plant part (highest in fruits/leaves), [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], geographic origin, and processing method. Commercial standardization is typically based on total saponin content (40–90% in extracts).
 
 ## Traditional Uses
 
@@ -88,58 +88,3 @@ Known as *Ci Ji Li* (蒺藜):
 - Employed for eye disorders and blurred vision
 - Used to promote lactation and treat irregular menstruation
 - Considered beneficial for male sexual health
-
-### Mediterranean and Middle Eastern Folk Medicine
-- Used as a diuretic and for kidney and bladder complaints
-- Employed as a general tonic and aphrodisiac
-- Applied topically for skin conditions and wounds
-- Used in Bulgarian folk medicine as a libido enhancer for both men and women
-
-## Modern Research
-
-### Sexual Function and Testosterone
-The most extensively studied area is the effect on testosterone [[cannabis-for-libido-and-sexual-function]], with mixed results:
-- **Animal studies:** Consistently show increased serum testosterone, LH, and androgen receptor density in rodents. Improved sperm count, motility, and sexual behavior parameters.
-- **Human studies:** Results are conflicting. Some trials show modest increases in free and total testosterone in men with low baseline levels, while others show no significant effect in healthy men. A 2017 meta-analysis concluded that *T. terrestris* supplementation may improve some aspects of male sexual function (libido, erectile function) but does not significantly increase testosterone in healthy subjects.
-- **Women:** Limited evidence suggests potential benefits for female sexual dysfunction, including improved libido and lubrication.
-
-### Athletic Performance
-Marketed widely as a sports supplement for testosterone enhancement:
-- Most well-controlled studies show no significant improvement in testosterone, lean body mass, or athletic performance in trained athletes
-- Some studies report subjective improvements in energy and [[cannabis-and-exercise-recovery]]
-- The World Anti-Doping Agency (WADA) does not currently ban *T. terrestris*, but its use as a testosterone booster remains controversial
-
-### Urinary Tract Health
-- Evidence supports traditional use as a mild diuretic
-- Some clinical studies demonstrate utility in reducing urinary symptoms in benign prostatic hyperplasia (BPH)
-- May have protective effects against [[fungal-calcium-oxalate-crystals]] kidney stones in animal models
-
-### Cardiovascular Effects
-- Animal studies show hypotensive (blood pressure-lowering) and cardioprotective effects
-- Antioxidant saponins may reduce LDL oxidation and improve lipid profiles
-- Human clinical data is limited
-
-### Safety and Side Effects
-- Generally well-tolerated at standard doses (250–750 mg/day of standardized extract)
-- Common side effects: mild gastrointestinal discomfort, headache
-- Rare reports of sleep disturbance, restlessness, and acne
-- **Contraindicated** in pregnancy (may stimulate uterine contractions), breastfeeding, and in children
-- May interact with blood pressure medications and hormone-sensitive conditions
-- Products have been found contaminated with anabolic steroids in some commercial supplement analyses
-
-## Cultivation and Harvest
-
-*T. terrestris* is primarily wild-harvested rather than cultivated, though commercial cultivation exists in India, China, and Bulgaria:
-
-- Propagation by seed; seeds require warm soil temperatures (20–30°C) for germination
-- Prefers well-drained sandy or loamy soils; extremely drought-tolerant
-- Fruits (burs) are harvested when fully mature and dry, typically in late summer to autumn
-- Plant parts are dried at low temperatures (40–50°C) to preserve saponin content
-- Bulgarian-sourced material is considered premium due to high protodioscin content
-
-## See Also
-
-- [[mucuna-pruriens]]
-- [[withania-somnifera]] — Ashwagandha, another Ayurvedic adaptogen with androgenic properties
-- fiber-plants-permaculture — Potential use of Tribulus as a ground cover in permaculture systems
-- [[thelephora-terrestris]]

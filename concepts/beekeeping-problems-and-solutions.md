@@ -11,13 +11,13 @@ sources: []
 
 Beekeeping involves constant problem-solving. This guide covers the most
 common and serious issues beekeepers face, from parasitic mites to queen
-failure, with practical solutions for each. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+failure, with practical solutions for each.
 
 ## Varroa Destructor Mites
 
 Varroa is the single greatest threat to managed honey bees worldwide. These
 parasitic mites feed on fat bodies of adult bees and developing brood,
-transmitting deformed wing virus and other pathogens. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
+transmitting deformed wing virus and other pathogens.
 
 ### Monitoring Methods
 - **Alcohol wash** — most accurate; shake 300 bees (half cup) in alcohol,
@@ -31,7 +31,7 @@ transmitting deformed wing virus and other pathogens. (see [[query-what-are-pred
 - **Oxalic acid vapor** — effective during broodless periods (late winter,
   after a flow)
 - **Formic acid (MAQS)** — can be used with honey supers on; effective but
-  requires temperature management (50-85F)
+  requires [[cervantes-reservoir-temperature-management]] (50-85F)
 - **Amitraz (Apivar)** — chemical strip treatment; 42-day treatment window;
   check for resistance in your area
 - **Apiguard (thymol)** — natural miticide; temperature-sensitive (above
@@ -53,14 +53,14 @@ slimy larvae that ruin honey.
 - Maintain strong colonies — beetles prefer weak hives
 - Keep apiary in full sun; beetles prefer shaded locations
 - Reduce entrance size to limit beetle access
-- Use beetle blaster traps with oil or diatomaceous earth in corners of
+- Use beetle blaster traps with oil or [[query-how-to-use-diatomaceous-earth-in-the-garden]] corners of
   super boxes
 
 ### Treatment
 - **Beetle traps** — insert between frames; fill with vegetable oil
 - **Ground drench** — permethrin around the hive stand (beetles pupate in
   soil beneath hives)
-- **Hive management** — keep colonies populous and honey supers harvested
+- **[[bee-forage-hive-management-mollison]]** — keep colonies populous and honey supers harvested
   promptly
 - **In-Hive Beetle Ejector** — screen inserts that force beetles into oil
   traps
@@ -76,7 +76,7 @@ decline. More common in winter and spring.
 - Reduced brood area and sluggish colony growth
 
 ### Treatment
-- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or early spring
+- **Fumidil-B (fumagillin)** — fed in sugar syrup in fall or [[coleman-overwintered-onions-and-early-spring-crops]]
 - **Nutrition** — ensure adequate pollen availability; feed pollen patties
   if needed
 - **Hive management** — replace old dark comb (nosema spores persist in wax);
@@ -98,7 +98,7 @@ decline. More common in winter and spring.
   colony will decline rapidly
 
 ### Laying Workers
-- **Signs** — multiple eggs per cell, eggs on cell walls (not centered),
+- **Signs** — multiple eggs per cell, eggs on [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (not centered),
   all drone brood, no queen present for 3+ weeks
 - **Solution** — difficult to fix; best approach is to shake all bees onto
   a new stand several feet away and introduce a queen in a cage, or combine
@@ -106,7 +106,7 @@ decline. More common in winter and spring.
 
 ## Swarming
 
-Swarming is natural colony reproduction but represents lost honey production
+Swarming is natural colony reproduction but represents lost [[faires-beekeeping-and-honey-production]]
 for the beekeeper.
 
 ### Prevention

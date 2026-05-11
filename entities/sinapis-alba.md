@@ -25,6 +25,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Mathiassen, S.K. et al. (2006). "The effect of lupin, mustard, and oat as cover crops on weeds and yield in spring barley." Weed Research, 46(3), 189–198.
   - Kirkegaard, J.A. et al. (1993). "Biofumigation using Brassica species to control query-how-to-manage-pests-and-diseases-in-mushroom-cultivation in horticulture and agriculture." Proceedings of the 9th Australian Research Assembly on Brassicas.
   - U.S. Department of Agriculture. (2024). "Sinapis alba L." Natural Resources Conservation Service PLANTS Database.
@@ -87,24 +88,3 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

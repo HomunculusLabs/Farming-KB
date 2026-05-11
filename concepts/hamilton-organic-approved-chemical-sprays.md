@@ -1,5 +1,5 @@
 ---
-title: "hamilton organic approved chemical sprays Chemical Sprays"
+title: Hamilton Organic Approved Chemical Sprays
 created: 2026-04-28
 tags: [organic-sprays, pesticides, fungicides, pest-control, disease-control]
 date: 2026-04-25
@@ -10,7 +10,7 @@ type: concept
 
 # Organic Approved Chemical Sprays
 
-There may be situations when physical pest control does not work or is not
+There may be situations when [[hamilton-netting-and-physical-pest-barriers]] control does not work or is not
 suitable, and the gardener must resort to chemical intervention. Several
 organic pesticides and fungicides are available that will not harm the
 gardener or beneficial wildlife when used with care. The defining principle
@@ -37,11 +37,11 @@ breaks down within a day.
 
 ### Pyrethrum
 
-Derived from the pyrethrum daisy (Chrysanthemum coccineum), pyrethrum is
+Derived from the [[permaculture-pyrethrum-daisy]] (Chrysanthemum coccineum), pyrethrum is
 effective against most insects, especially aphids. It is a non-persistent
 pesticide that acts quickly, so it is possible to spray only the pests
 while minimising harm to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] if applied carefully. Spray
-only on calm evenings when beneficial insects have settled for the night.
+only on calm evenings when [[beneficial-insects-cannabis]] have settled for the night.
 
 ### Ferric Phosphate Slug Pellets
 
@@ -76,7 +76,7 @@ applications are needed.
 
 Allowed as a fungicide, sulfur is an effective control for rust, against
 which copper fungicides rarely work satisfactorily, and for most other
-fungal diseases. In a well-run organic garden, it is rarely necessary.
+[[duggar-mushroom-insect-pests-and-fungal-diseases]]. In a well-run [[comparison-vermicomposting-vs-composting-organic-garden]], it is rarely necessary.
 It can be used on both ornamental and edible crops.
 
 ### Potassium Bicarbonate
@@ -88,47 +88,3 @@ on a range of plants including roses, zucchinis, cucumbers, and fruit.
 ### Skim Milk Spray
 
 A simple but effective spray for preventing black spot on roses. A 50:50
-mixture of skim milk and water covers the leaves. As the milk spoils, the
-lactic acid produced lowers the pH on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], creating an
-environment unsuitable for black spot to thrive. Apply every week or two
-depending on the season. This treatment is surprisingly effective and
-completely harmless to beneficial insects and soil organisms.
-
-### Bordeaux and Burgundy Mixtures
-
-Bordeaux mixture, a combination of copper sulfate and slaked lime, has
-been used for centuries and remains one of the most trusted organic
-fungicides. Burgundy mixture substitutes washing soda for the lime.
-Both provide a protective coating on leaves that persists for several
-weeks. They are effective against potato blight, peach leaf curl, and
-a range of other fungal diseases. Apply before infection occurs for best
-results, as they are primarily protective rather than curative.
-
-## When to Use Organic Sprays
-
-Organic sprays should always be considered a last resort, used only when
-physical and cultural methods have failed. Before reaching for a spray,
-consider whether improved growing conditions, better ventilation, proper
-spacing, or removal of affected material might solve the problem. When
-sprays are necessary, choose the least harmful option and apply with
-precision to minimise impacts on non-target organisms. The organic
-gardener accepts that minor blemishes on fruit and foliage are a natural
-part of gardening without chemicals.
-
-## Safe Application Practices
-
-Even these "safe" pesticides and fungicides should be handled with care.
-Always store concentrates out of reach of children and pets. Dilute
-exactly as specified on the bottle. Never keep leftover solution; pour it
-down the drain. Use a good sprayer and wash it thoroughly between uses.
-
-Spray only on a windless day, always in the cool of the late evening when
-beneficial insects have settled for the night. Never spray open flowers,
-especially of fruit, for fear of harming bees. Avoid spraying where
-chemicals could come into contact with each other on the plant.
-
-## Related Concepts
-
-- [[hamilton-pest-and-disease-control-organic]]
-- [[hamilton-slug-and-snail-control]]
-- [[hamilton-kelp-and-seaweed-in-organic-gardening]]

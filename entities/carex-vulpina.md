@@ -16,7 +16,7 @@ sources:
   - Akeroyd, J.R. & Prest, R. (2011). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
   - Netmann, C. (2000). "The Genus Carex in the Nordic Countries." Nordic Journal of Botany, 20(4), 435–456.
   - Global Biodiversity Information Facility (GBIF). "Carex vulpina L." GBIF.org.
-  - Blackburn, G.A. & Seal, C.E. (2015). "Clonality in Wetland Plant Communities." Wetlands Ecology and Management, 23(1), 1–18.
+  - Blackburn, G.A. & Seal, C.E. (2015). "Clonality in Wetland Plant Communities." Wetlands [[nematode-management]], 23(1), 1–18.
 ---
 
 ## Overview
@@ -67,15 +67,15 @@ The species shows moderate salt tolerance, allowing occasional occurrence in coa
 
 Fox sedge provides important habitat structure in wetland plant communities. The dense tussocks offer nesting cover for wetland birds including reed buntings and sedge warblers.
 
-The species is highly clonal, forming extensive stands through rhizomatous spread. Individual genets may persist for decades, though sexual reproduction is less frequent than vegetative propagation.
+The species is highly clonal, forming extensive stands through rhizomatous spread. Individual genets may persist for decades, though sexual reproduction is less frequent than [[hamilton-vegetative-propagation]].
 
 Seed production is moderate, with viability declining rapidly under waterlogged conditions. Germination occurs on exposed mud substrates during drawdown periods in late spring and early summer.
 
 Carex vulpina is a significant forage species for water voles, which use the leaves for both food and construction of runways and nesting chambers. Livestock will graze young shoots but generally avoid mature flowering culms.
 
-The species is an effective nutrient cycling agent in riparian systems. Its dense root mat traps sediment and absorbs dissolved nutrients from flowing water, contributing to water quality improvement.
+The species is an effective [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] agent in riparian systems. Its dense root mat traps sediment and absorbs dissolved nutrients from flowing water, contributing to water quality improvement.
 
-Invasive potential is moderate. Fox sedge has been introduced to parts of North America, where it can form dense monocultures in disturbed wetland habitats, though it remains less aggressive than some other introduced Carex species.
+Invasive potential is moderate. Fox sedge has been introduced to parts [[berry-growing]], where it can form dense monocultures in disturbed wetland habitats, though it remains less aggressive than some other introduced Carex species.
 
 The species supports a diverse epiphytic and saprophytic fungal community. Microscopic ascomycetes colonise senescing leaf sheaths, contributing to decomposition and nutrient release back into the wetland substrate.
 
@@ -83,37 +83,8 @@ Pollination is primarily by wind, as is typical for Carex species. The pendulous
 
 ## Cultivation and Uses
 
-Carex vulpina is occasionally used in constructed wetlands and riparian buffer zone plantings for water quality management. Its robust growth and tolerance of periodic flooding make it suitable for stormwater treatment systems.
+Carex vulpina is occasionally used in [[constructed-wetland-design]] riparian buffer zone plantings for water quality management. Its robust growth and tolerance of periodic flooding make it suitable for stormwater treatment systems.
 
 Propagation from seed requires cold stratification for six to eight weeks. Division of established clumps in early spring is the most reliable vegetative propagation method.
 
-The species is not widely available in commercial horticulture but may be obtained from specialist native plant nurseries in Europe. It is valued for naturalistic planting schemes and wildlife garden wetland areas.
-
-Traditional uses include thatching of small outbuildings and animal shelters in some rural European communities. The leaves were also historically used for binding and rough basketry.
-
-No significant pharmacological properties have been documented. The species has no known uses in modern or traditional herbal medicine.
-
-Conservation status is generally secure across its native range, though local declines have been noted where floodplain meadows have been drained for agriculture. It is listed as a species of conservation concern in several central European countries.
-
-## Related Species
-
-Carex vulpina is closely related to Carex otrubae and Carex nigra, with which it may occasionally hybridise. It can be distinguished from Carex nigra by its larger stature, broader leaves, and longer female spikes.
-
-Carex rostrata is a species of deeper water and floating mats, with distinctly beaked utricles that give it the common name bottle sedge. Carex rostrata tolerates more permanently waterlogged conditions than fox sedge.
-
-Carex acutiformis occupies similar riparian habitats but has narrower leaves and more loosely arranged flower spikes. Carex vulpina can be recognised in the field by its robust habit and reddish-brown spikes.
-
-Carex paniculata forms very large tussocks in fens and ditches, reaching heights of 1.5 metres. Its inflorescence is more openly paniculate with more widely spaced female spikes.
-
-## See Also
-
-- [[carex-hirta]]
-- [[carex-nigra]]
-- [[carex-rostrata]]
-- [[carex-paniculata]]
-- [[carex-stricta]]
-- [[carex-vesicaria]]
-- [[carex-arenaria]]
-- [[carex-flacca]]
-- [[scirpus-cyperinus]]
-- [[eleocharis-palustris]]
+The species is not widely available in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] but may be obtained from specialist native plant nurseries in Europe. It is valued for naturalistic planting schemes and wildlife garden wetland areas.

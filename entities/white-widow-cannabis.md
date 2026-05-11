@@ -20,14 +20,14 @@ sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "ElSohly, M.A., et al. (2016). Changes in green-cannabis-potency-maximizing over the last two decades. Biological Psychiatry, 79(7), 613-619."
   - "Mudge, E.M., et al. (2018). Cannabis sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
-  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug Testing and Analysis, 4(7-8), 660-667."
+  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug [[soil-testing-and-analysis]], 4(7-8), 660-667."
   - "Casano, S., et al. (2011). Phytochemical diversity of Cannabis. Natural Product Communications, 6(12), 1921-1926."
   - "https://www.leafly.com/strains/white-widow"
 ---
 
 # White Widow Cannabis Strain
 
-**White Widow** is one of the most iconic and influential **cannabis strains** in modern [[cuthill-mushroom-cultivation-history-19th-century]]. A balanced indica-dominant hybrid (approximately 60% indica / 40% sativa), White Widow was bred in Amsterdam in the early 1990s and became globally renowned for its extraordinary resin production — the dense coating of white trichomes that gives the strain its name. It has served as a genetic building block for countless modern hybrids and remains one of the most widely available strains in coffee shops, dispensaries, and seed banks worldwide.
+**White Widow** is one of the most iconic and influential **[[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]]** in modern [[cuthill-mushroom-cultivation-history-19th-century]]. A balanced indica-dominant hybrid (approximately 60% indica / 40% sativa), White Widow was bred in Amsterdam in the early 1990s and became globally renowned for its extraordinary resin production — the dense coating of white trichomes that gives the strain its name. It has served as a genetic building block for countless [[african-landrace-sativa-modern-hybrids]] and remains one of the most widely available strains in coffee shops, dispensaries, and seed banks worldwide.
 
 ## Lineage and Breeding History
 
@@ -36,9 +36,9 @@ sources:
 | **Brazilian Sativa** | Landrace from southern Brazil | Tall stature, cerebral effects, energetic sativa influence, elongated bud structure |
 | **South Indian Indica** | Landrace from Kerala/Mysore region, India | [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], resin density, sedative body effects, broad leaves, short flowering |
 
-White Widow was created by **Shantibaba** (formerly of Greenhouse Seeds) in Amsterdam circa **1994**. The breeding goal was to combine the cerebral, uplifting qualities of a Brazilian [[cannabis-sativa-landrace-strains]] with the heavy resin production and body effects of a South Indian indica. The result was a remarkably balanced hybrid that exceeded expectations in trichome production, creating buds that appear frosted white with crystalline resin glands.
+White Widow was created by **Shantibaba** (formerly of Greenhouse Seeds) in Amsterdam circa **1994**. The breeding goal was to combine the cerebral, uplifting qualities of a Brazilian [[cannabis-sativa-landrace-strains]] with the heavy [[cannabis-resin-production-and-quality-traits-clarke]] body effects of a South Indian indica. The result was a remarkably balanced hybrid that exceeded expectations in trichome production, creating buds that appear frosted white with crystalline resin glands.
 
-The strain won the **High Times Cannabis Cup** in **1995**, launching it to international fame. Greenhouse Seeds continued breeding White Widow, and multiple seed bank versions now exist, though the original genetics remain the reference standard. White Widow's genetics have been used in crosses creating dozens of popular derivatives including White Russian, White Rhino, Blue Widow, and many others.
+The strain won the **High Times Cannabis Cup** in **1995**, launching it to international fame. Greenhouse Seeds continued breeding White Widow, and multiple seed bank versions now exist, though the original genetics remain the reference standard. White Widow's genetics have been used in crosses creating dozens of popular derivatives including [[oner-ninja-turtle-white-russian-martian-mean-green]], White Rhino, Blue Widow, and many others.
 
 ## Morphology and Growing Characteristics
 
@@ -54,7 +54,7 @@ The strain won the **High Times Cannabis Cup** in **1995**, launching it to inte
 | Resin production | Exceptional — buds become thickly coated with trichomes by week 6 of flowering |
 | Difficulty | Easy to moderate; forgiving for beginners; resistant to common pests and molds |
 
-White Widow is considered an excellent **beginner-friendly strain** due to its vigor, disease resistance, and consistent performance. It responds well to both SOG (Sea of Green) and ScrOG (Screen of Green) training methods. The plants exhibit moderate stretch during the first two weeks of flowering before settling into bud production. Trichome density increases dramatically in the final two weeks, giving the mature buds their signature white appearance.
+White Widow is considered an excellent **beginner-friendly strain** due to its vigor, disease resistance, and consistent performance. It responds well to both SOG (Sea of Green) and ScrOG (Screen of Green) [[mckenna-shamanic-identification-signs-and-training-methods]]. The plants exhibit moderate stretch during the first two weeks of flowering before settling into bud production. Trichome density increases dramatically in the final two weeks, giving the mature buds their signature white appearance.
 
 ## Cannabinoid Profile
 
@@ -88,37 +88,3 @@ The overall aroma is **earthy and pungent** with pine undertones and a subtle wo
 ## Effects Profile
 
 The effects reflect White Widow's balanced indica-sativa heritage:
-
-- **Onset**: Rapid (5–10 minutes); initial cerebral rush from sativa genetics
-- **Head effects**: Euphoric, uplifting, creative energy; enhanced sociability and conversation; mild visual sharpening; cerebral stimulation without racing thoughts
-- **Body effects**: Gradual physical relaxation that deepens over 30–60 minutes; mild body warmth; muscle tension relief without heavy sedation at moderate doses
-- **Duration**: 2–3 hours depending on dose and individual tolerance
-- **Medical applications**: Stress relief, mild anxiety reduction, depression management, fatigue, mild pain relief, appetite stimulation
-
-At higher doses, the indica influence becomes more pronounced, potentially leading to couch-lock and drowsiness. The balanced nature makes White Widow suitable for both daytime and evening use at moderate doses. Novice consumers should approach with caution due to high THC content.
-
-## Cultural Impact and Legacy
-
-White Widow's [[ethnomycology-cultural-significance-sacred-fungi]] extends far beyond its properties as a cannabis strain:
-
-- **Coffee shop staple**: White Widow has been available in Amsterdam coffee shops continuously since the mid-1990s, making it one of the longest-serving strains on Dutch menus
-- **Genetic cornerstone**: White Widow has been used as a parent or grandparent in the creation of dozens of commercially successful hybrids, including White Russian (WW × AK-47), Blue Widow, Snow White, and White Rhino
-- **Pop culture**: Referenced in music, film, and television; name recognition among cannabis consumers worldwide rivals that of OG Kush or Sour Diesel
-- **1995 High Times Cannabis Cup winner**: The competition victory that established its global reputation
-- **Standard of quality**: The name "White Widow" has become shorthand for high-quality, resinous cannabis in many markets
-
-## Cultivation Notes
-
-- **Indoor**: Performs well in soil, coco coir, and hydroponic systems; pH 6.0–6.8 (soil), 5.5–6.1 (hydro); EC 1.2–1.8 during flowering
-- **Outdoor**: Prefers warm, Mediterranean to temperate climates; relatively mold-resistant for a resin-heavy strain
-- **Nutrients**: Moderate feeder; benefits from increased phosphorus and potassium during weeks 4–7 of flowering to support trichome production
-- **Training**: LST (low stress training) and topping recommended to control height and promote even canopy; responds well to defoliation in weeks 3–4 of flowering
-- **Pest resistance**: Good general resistance; monitor for spider mites in indoor environments
-- **Harvest indicator**: 70–80% cloudy trichomes with 10–20% amber for balanced effects; earlier harvest (more clear/cloudy) preserves cerebral energy
-
-## See Also
-
-- [[blue-dream]] — Balanced hybrid with different terpene profile
-- [[northern-lights-cannabis]] — Indica-dominant classic often compared alongside White Widow
-- [[amnesia-haze]] — Sativa-dominant coffee shop classic from the same era
-- [[white-rhino]]

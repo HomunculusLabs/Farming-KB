@@ -62,3 +62,20 @@ Transfer cooled bags to the inoculation area. Bags should be inoculated within 2
 - [[mushroom-substrates]] — Substrate science and alternatives
 - [[mushroom-cultivation-basics]] — Facility adaptations for disabilities
 - [[mushroom-cultivation-basics]] — Overview of the full cultivation process
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[pasteurization-in-mushroom-cultivation]]
+- [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]]
+- [[mushroom-substrate-sterilization-and-pasteurization]]
+- [[mushroom-cultivation-disabilities-pasteurization-methods]]
+- [[fao-solar-heating-pasteurization-mushroom-cultivation]]

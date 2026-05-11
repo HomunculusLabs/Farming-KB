@@ -87,35 +87,3 @@ Conversely, chronic psychological stress depletes endocannabinoid signaling. Chr
 Sleep deprivation also disrupts endocannabinoid signaling, altering the normal diurnal rhythm of endocannabinoid levels and contributing to the mood disturbances, cognitive impairment, and increased appetite that characterize sleep deficiency. Adequate sleep, by contrast, supports healthy endocannabinoid function.
 
 ## Implications for Cannabis Therapy
-
-The mind-body medicine framework has direct implications for how cannabis therapy is approached. The Cannabis Health Index argues that the therapeutic effectiveness of cannabis is enhanced when patients combine cannabinoid treatment with conscious attention to their emotional state, intentional healing practices, and supportive mind-body techniques.
-
-The setting in which cannabis is consumed, the intention behind its use, and the emotional preparation of the patient all influence the therapeutic outcome through mechanisms mediated by the endocannabinoid system. This understanding transforms cannabis therapy from a purely pharmacological intervention into a holistic practice that engages the patient as an active participant in their own healing process.
-
-## Practical Applications: Transforming Emotional Habits
-
-The Cannabis Health Index provides specific guidance for using the understanding of emotional molecules to transform unhealthy emotional patterns into ones that support healing. The framework identifies several key transformational practices.
-
-The first practice is awareness — simply noticing one's current emotional state and identifying the constriction or expansion it produces in the body. This awareness creates a space between stimulus and response where conscious choice becomes possible.
-
-The second practice is acceptance — acknowledging one's current emotional state without judgment. Fighting against or suppressing emotions tends to amplify their neurochemical impact, while acceptance allows the emotional wave to pass naturally through the endocannabinoid-mediated regulatory system.
-
-The third practice is conscious redirection — choosing activities and practices that shift the neurochemical balance toward expansive molecules. This might include meditation, exercise, social connection, creative expression, or simply spending time in nature, all of which have demonstrated effects on endocannabinoid signaling.
-
-The fourth practice is gratitude and compassion — cultivating emotional states that actively promote the production of oxytocin, serotonin, and anandamide. Research shows that practices like gratitude journaling, loving-kindness meditation, and acts of generosity produce measurable changes in these neurochemicals.
-
-The fifth practice is somatic integration — paying attention to the body's signals and allowing physical sensations to inform emotional processing. The endocannabinoid system mediates the body's communication with the brain, making somatic awareness a direct pathway to influencing neurochemical balance.
-
-## See Also
-- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
-- [[deep-relaxation-and-mind-body-healing]]
-- [[mind-body-medicine-and-endocannabinoid-system]]
-
-## References
-
-- Blesching, U. *The Cannabis Health Index: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases*. North Atlantic Books, Berkeley, California, 2015.
-- Di Marzo, V. et al. "Endocannabinoids: Endogenous Cannabinoid Receptor Ligands with Neuromodulatory Action." *Trends in Neurosciences*, 21(12): 521–528, 1998.
-
-## See Also
-
-- [[mind-body-medicine-and-endocannabinoid-system]]

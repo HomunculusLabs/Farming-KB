@@ -87,26 +87,3 @@ to offset the upwardly spiraling trend of internal
 temperatures.
 
 ## Matching Spawn to Substrate
-
-For the rapid, high-yield methods of growing Shiitake,
-Enokitake, Maitake, Kuritake, and others indoors on
-sterilized substrates, the recommended path is:
-grain spawn to sterilized sawdust to [[gourmet-mushroom-enriched-sawdust-cultivation]]. Each
-transfer step results in an expansion of mycelial mass,
-usually by a factor of 5-10, and takes one to two weeks to
-fully colonize.
-
-More direct methods can be used but not without risks. Using
-grain spawn to directly inoculate enriched sawdust, skipping
-the intermediate sawdust spawn step, results in fewer points
-of inoculation, slower recovery, and a marked increase in
-temperature from thermogenesis.
-
-## Spawn Storage Considerations
-
-cultivation on cereal straws, grain spawn is preferred. Grain
-spawn boosts the nutritional base of straw, radically improving
-yields compared to using an equal mass of sawdust spawn. Two
-exceptions are Hypsizygus ulmarius and H. tessulatus, both of
-which benefit when sawdust spawn is used to inoculate wheat
-straw.

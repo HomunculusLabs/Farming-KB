@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Diabetes Mellitus — Endocannabinoid System Connections"
+title: Blesching Cannabis Diabetes Mellitus Endocannabinoid System
 source: uwe-blesching-the-cannabis-health-index.md
 author: Blesching
 tags: [cannabis, diabetes, endocannabinoid, CBD, THC, insulin, neuropathy, metabolic-disease]
@@ -30,7 +30,7 @@ The global incidence of diabetes varies enormously — less than one per 100,000
 people in Shanghai, China, compared to rates 26 times higher among white
 populations in Allegheny County, Pennsylvania, and over 50 times greater in
 Finland. This dramatic variation points to complex interactions between genetic
-predisposition and environmental triggers.
+predisposition [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]].
 
 ### Modern Understanding of Causes
 
@@ -40,7 +40,7 @@ causes likely include:
 
 - **Industrial food production**: Declining nutrient densities, widespread
   pesticides, hormones, and endocrine-disrupting food processing methods
-- **Pharmaceutical drugs**: Certain medications as contributing factors
+- **Pharmaceutical drugs**: Certain medications as [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
 - **Lifestyle factors**: Poor diet, lack of exercise, chronic stress
 - **Autoimmune factors**: An overzealous immune system [[blesching-cannabis-vasopressin-aggression]] attacking itself
 - **Reproductive factors**: Higher maternal age at birth or insufficient
@@ -61,7 +61,7 @@ while leptin-resistant individuals eat longer and store more energy as fat.
 
 Recent discoveries suggest another mechanism: fatty livers. Excessive sugar
 consumption induces the liver to convert sugar into unhealthy fats deposited
-in the liver and elsewhere, producing insulin resistance (metabolic syndrome)
+in the liver and elsewhere, producing insulin resistance ([[cannabis-metabolic-syndrome-research]])
 in both obese and lean individuals.
 
 ### Types of Diabetes
@@ -88,49 +88,3 @@ thirst and hunger. Progressive symptoms may include:
 - Peripheral vascular diseases and kidney problems
 - Acute metabolic problems: diabetic ketoacidosis, hypoglycemia, diabetic coma
 - Loss of vision, heart disease, stroke
-- Infections, sepsis, and periodontal disease
-
-### Cannabis and Diabetes Research
-
-While many patients report that cannabis lowers high blood sugar and stabilizes
-mood changes and mental irritability, no comprehensive human studies have yet
-examined general cannabinoid effects on diabetic patients. However, several
-lines of research are promising:
-
-**Endocannabinoid Receptor Links (Jerusalem, 2006/2008)**: Israeli scientists
-demonstrated a potential link between endocannabinoid receptor sites and
-diabetes, suggesting CBD might be a novel therapeutic agent for Type I.
-
-**Nerve Regeneration (Edinburgh, 2009)**: An Edinburgh laboratory discovered
-a synthetic cannabinoid's ability to grow nerve extensions in a glucose-rich
-environment, providing a basis for neuroprotective drugs for diabetic
-neuropathy.
-
-**Diabetic Neuropathy Reduction (Augusta, GA, 2006)**: Researchers demonstrated
-that THC and CBD could reduce diabetic neuropathies in rodents, and observed
-a reduction in retinal oxidative stress with attenuation of autoimmune diabetes.
-
-**Mechanism of Pain Relief (Poland, 2008)**: A Polish team found that certain
-COX-1 inhibitors (such as indomethacin) work synergistically with cannabinoids
-to further reduce neuropathic pain.
-
-**Additional Evidence (East Lansing, MI, 2001)**: A separate U.S. study on
-rodents confirmed that cannabinoids reduce diabetic neuropathies.
-
-### Therapeutic Implications
-
-The known anti-inflammatory and immunomodulating properties of cannabis
-combine with emerging evidence of direct metabolic effects through the
-endocannabinoid system. The ECS's involvement in insulin sensitivity, leptin
-signaling, and inflammatory responses positions it as a potentially important
-therapeutic target. However, human clinical trials are needed to confirm these
-promising preclinical findings.
-
-## See Also
-
-- Endocannabinoid System overview
-- Cannabidiol (CBD) pharmacology
-- Metabolic syndrome and endocannabinoid signaling
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
-- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
-- [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]]

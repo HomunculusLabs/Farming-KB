@@ -4,18 +4,19 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [gardening, homesteading, methods, plant-growth, design]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Fruit Tree Pruning
 
-Pruning is the selective removal of branches, shoots, and roots to shape fruit trees, improve fruit quality, maintain tree health, and manage size. Proper pruning [[zone-1-intensive-garden]] is one of the most important skills for homestead orchardists and backyard fruit growers. A well-pruned tree produces higher-quality fruit, is easier to manage and harvest, and has a longer productive lifespan.
+Pruning is the selective removal of branches, shoots, and roots to shape fruit trees, improve fruit quality, maintain tree health, and manage size. Proper pruning is one of the most important skills for homestead orchardists and backyard fruit growers. A well-pruned tree produces higher-quality fruit, is easier to manage and harvest, and has a longer productive lifespan.
 
 ## Why Prune Fruit Trees
 
 - **Improve fruit quality**: More light and air reach the fruiting wood, producing larger, sweeter, better-colored fruit.
 - **Increase yield**: Proper pruning balances vegetative growth with fruit production.
-- **Disease prevention**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, powdery mildew).
+- **[[cervantes-damping-off-seedling-disease-prevention]]**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, [[cervantes-powdery-mildew-prevention-treatment]]).
 - **Manage tree size**: Keep trees accessible for pruning, spraying, thinning, and harvesting.
 - **Remove dead/diseased wood**: Prevent the spread of pathogens and structural weakness.
 - **Renew bearing wood**: Fruit trees produce best on young wood. Pruning stimulates new growth.
@@ -86,7 +87,7 @@ A single stem trained at a 45° or horizontal angle. The simplest espalier form.
 
 ### Dormant Pruning (Late Winter / Early Spring)
 
-Performed when the tree is leafless and dormant — typically February-March in most temperate climates (before bud break).
+Performed when the tree is leafless and dormant — typically February-March in most [[fukuoka-natural-farming-temperate-climates]] (before bud break).
 
 **Best for**:
 - Major structural work (removing large branches, reshaping the tree)
@@ -145,6 +146,4 @@ Performed during the active growing season when trees are in full leaf.
 ### Fig Trees
 - Produce fruit on current season's growth and on 1-year-old wood.
 - Tolerate heavy pruning well. Often grown as open center or multi-stemmed bushes.
-- In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
-
-## Disease Prevention Through Pruning
+- [[query-how-do-i-grow-figs-in-cold-climates]], may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.

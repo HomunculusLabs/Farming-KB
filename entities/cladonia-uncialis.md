@@ -55,7 +55,7 @@ The specific epithet "uncialis" derives from the Latin "uncia," meaning a twelft
 
 ## Distribution and Habitat
 
-Cladonia uncialis has a circumpolar boreal and subarctic distribution, occurring across northern Europe, Asia, and North America.
+Cladonia uncialis has a circumpolar boreal and subarctic distribution, occurring across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 In Europe, it ranges from the Arctic tundra south through the boreal zone into montane regions of central and southern Europe.
 
@@ -71,7 +71,7 @@ It is sensitive to prolonged drought and requires consistent atmospheric moistur
 
 ## Ecology
 
-Cladonia uncialis contributes significantly to ground cover diversity in boreal forest floor communities, often co-occurring with other Cladonia species.
+Cladonia uncialis contributes significantly to [[fukuoka-ground-cover-strategy]] diversity in boreal [[fungal-ecology-forest-floor]] communities, often co-occurring with other Cladonia species.
 
 The dense mat-forming habit provides thermal insulation to underlying soil, moderating temperature fluctuations that affect root zones of vascular plants.
 
@@ -88,23 +88,3 @@ Post-fire succession patterns show C. uncialis establishing within 10–15 years
 The species serves as a microhabitat for various tardigrades, nematodes, and microarthropods that inhabit the spaces between podetia and the soil surface.
 
 ## Traditional Uses
-
-Cladonia uncialis has been used as a minor component of traditional reindeer fodder in northern Scandinavian cultures.
-
-The species has no significant history of medicinal use, though related Cladonia species with similar chemistry have been investigated for [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]].
-
-No modern commercial or pharmaceutical applications have been developed specifically for C. uncialis.
-
-Extracts of C. uncialis have shown antioxidant activity in laboratory studies, consistent with the presence of depsidones and depsides in its chemical profile.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[cladonia-arbuscula]]
-- [[cladonia-pyxidata]]
-- [[cetraria-islandica]]
-- [[usnea-barbata]]
-- [[evernia-prunastri]]
-- [[xanthoria-parietina]]
-- [[flavoparmelia-caperata]]
-- [[pertusaria-corallina]]

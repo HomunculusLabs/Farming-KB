@@ -32,12 +32,12 @@ control and the spore accelerates straight down between the gills.
 A. H. Reginald Buller, professor of botany at the University of
 Manitoba, produced much of the early research on [[bloomfield-fungal-spore-discharge-and-dispersal]].
 His seven-volume Researches on Fungi (1909-1950) remains one of the
-most comprehensive bodies of experimental mycology ever produced.
+most comprehensive bodies of [[bloomfield-buller-experimental-mycology]] ever produced.
 Mycologists call the fluid drop on the spore's hilar appendix
 Buller's drop in recognition of his work (Victor Fayod did little
 more than note the drop's appearance in 1889).
 
-Buller estimated spore release by collecting deposits beneath caps.
+Buller estimated [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] by collecting deposits beneath caps.
 In 1910, he observed the drop forming at the spore's base seconds
 before discharge, and discovered it was carried with the spore. His
 insight that surface tension was involved proved prescient.
@@ -88,44 +88,3 @@ This [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] is the same pr
 swimming. Cooling promotes water buildup on spore surfaces by
 slowing molecular movement, encouraging condensation. If the
 mushroom warms, drops never expand and spores remain trapped.
-
-Modern thermocouple experiments confirmed mushrooms cool during
-spore release. Mushrooms often feel cold to the touch. Xerula
-radicata, the rooting shank, can feel positively frigid on a warm
-summer day.
-
-## Gill Spacing and Aerodynamics
-
-The catapult must launch spores with precisely controlled force.
-Too much momentum and spores slam into the opposing gill, separated
-by less than 0.2 millimeters. The mechanism imparts just enough
-momentum to clear the opposite gill but no more. The cap and gills
-orient themselves to provide unimpeded pathways for falling spores.
-Wind tunnel experiments showed the airstream divides at the cap's
-leading edge, creating reduced pressure beneath that draws spores
-downward. The umbrella form maintains humid atmosphere around the
-hymenium while shielding spores from rain.
-
-## High-Speed Photography
-
-John Webster tried to film discharge using high-speed cameras at a
-German film institute. Even at highest speeds, sequences showed
-hundreds of frames with a spore and droplet, then hundreds with a
-naked basidial spike. The spore is shot so fast that a camera
-running at 20,000 frames per second would be needed.
-
-## Fossil Evidence
-
-Fossilized mushrooms in Cretaceous amber from New Jersey, preserved
-more than 90 million years ago, are instantly recognizable. Spore
-impressions reveal the hilar appendix at the base of each footprint:
-the decisive signature of the catapult mechanism. While dinosaurs
-trotted past and pterosaurs wheeled overhead, the "dew of heaven"
-was beading on a mushroom before tree resin preserved the instant.
-
-## See Also
-- [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-buller-experimental-mycology]]
-- [[bullers-drop-spore-discharge]]
-- [[bloomfields-orchard-spore-discharge-mechanisms]]

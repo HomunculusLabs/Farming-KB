@@ -1,7 +1,7 @@
 ---
 title: "LSD from Psychotomimetic to metzner lsd psychotomimetic military mystic catalyst origins: Military and Therapeutic Origins"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-author: Ralph Metzner
+author: [[ralph-metzner]]
 tags: [lsd, military, psychotomimetic, psycholytic, cia, mk-ultra, hofmann, sandoz]
 created: 2026-05-08
 ---
@@ -10,15 +10,15 @@ created: 2026-05-08
 
 ## Overview
 
-Ralph Metzner's 1998 review of hallucinogens in psychotherapy and shamanism
+Ralph Metzner's 1998 review of hallucinogens in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]]
 opened with an account of LSD's dual origins as both a military weapon and a
-mystical catalyst. When Albert Hofmann first discovered the mind-altering
+mystical catalyst. When [[albert-hofmann]] first discovered the mind-altering
 properties of LSD at the height of World War II in a Swiss pharmaceutical lab,
 the compound was initially characterized as "psychotomimetic" (mimicking
 psychosis) and "psycholytic" (dissolving psychic defenses). These two
 characterizations defined the first decade of LSD research and established a
 tension between control and liberation that has persisted throughout the history
-of psychedelic studies.
+of [[maps-multidisciplinary-association-for-psychedelic-studies]].
 
 ## The Sandoz Discovery and "Seelische Auflockerung"
 
@@ -68,7 +68,7 @@ Practitioners working within this model administered LSD in a series of sessions
 at gradually increasing doses, typically ranging from 25 to 400 micrograms, over
 a period of weeks or months.
 
-The Czech psychiatrist Stanislav Grof, working within the psycholytic model,
+The Czech psychiatrist [[stanislav-grof]], working within the psycholytic model,
 made the startling discovery that in a series involving increasing doses there
 could be an even deeper psychic opening—to birth and pre-birth memories. After
 resolving conflicts stemming from Freudian dynamics of early childhood, patients
@@ -77,7 +77,7 @@ experience—patterns Grof named "[[metzner-grof-perinatal-matrices-and-transper
 
 This discovery extended the psycholytic model beyond Freudian psychoanalysis
 into the territory of what would later be called transpersonal psychology. The
-perinatal matrices suggested that consciousness extends beyond individual
+[[metzner-grof-perinatal-matrices-psychedelic-therapy]] suggested that consciousness extends beyond individual
 biography to include the birth experience itself, and potentially the entire
 history of human evolution.
 
@@ -88,62 +88,3 @@ psychedelic model became the preferred approach in Anglo-American psychological
 circles. The English psychiatrist Humphrey Osmond, working in Canada with Abram
 Hoffer on the treatment of alcoholism with LSD, introduced the term
 "psychedelic" in an exchange of letters with Aldous Huxley.
-
-[[metzner-psycholytic-psychedelic-therapy-models]] usually involved one or a small number of high-dose sessions
-(200+ micrograms), during which the contents of the unconscious mind would be
-manifested in vivid hallucinatory imagery, leading to insight and
-transformation. The approach was first used in treating alcoholics, where it
-was thought to simulate the often life-changing "bottoming out" experience.
-
-A second center for psychedelic therapy developed in early sixties Southern
-California, where Sidney Cohen, Oscar Janiger, and others began providing
-psychedelic experiences to clients in the Hollywood film, arts, and media
-community—work that brought considerable publicity and notoriety to psychedelics.
-
-## From Leary to Consciousness Expansion
-
-The term "psychedelic" was adopted by Timothy Leary, Frank Barron, Richard
-Alpert, and the Harvard research project. Leary's work focused not on treatment
-but on exploring the possibilities of the psychedelic experience for "normals,"
-introducing the concept of "consciousness expansion." This could be contrasted
-with the "contracted, fixated awareness characteristic of narcotic addictions."
-
-Leary was responsible for introducing the "[[lsd-set-and-setting-framework]]" hypothesis, according
-to which the primary determinants of a psychedelic experience are the internal
-set (intention, expectation, motivation) and the external setting or context,
-including the presence of a guide or therapist. This model could be extended to
-understand other modalities of [[weil-the-natural-mind-altered-states-normalcy]], including hypnosis, meditation,
-rhythmic drumming, sensory isolation, and fasting.
-
-## The Empathogen Discovery
-
-A significant extension of psychoactive-assisted psychotherapy occurred with
-Alexander Shulgin's discovery of phenethylamines such as MDA, MDMA, and 2-CB,
-which produce expansion and centering of awareness primarily on the emotional
-level, with minimal perceptual changes. Some suggested the name "empathogens"
-("generating a state of empathy") for this class.
-
-MDMA was used with impressive success in psychotherapy, often facilitating
-significant opening of relationship communication and helping in the healing of
-disabling trauma. The empathogens represented a departure from the classical
-hallucinogens in that they did not necessarily produce visionary experiences
-but instead amplified emotional openness and interpersonal connection.
-
-## The Five Fundamental Conclusions
-
-Despite differences between the psycholytic and psychedelic approaches, Metzner
-identified five shared conclusions: (1) psychedelics produce profoundly expanded
-states of consciousness; (2) set and setting are the primary determinants; (3)
-the amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] apply; (4) the therapist's personal
-
-## See Also
-- [[metzner-lsd-military-weapon-to-mystic-catalyst]]
-- [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
-- [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
-- [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
-
-## References
-
-## See Also
-
-- [[metzner-set-and-setting-hypothesis-origins-and-extensions]]

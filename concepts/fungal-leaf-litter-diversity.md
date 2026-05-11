@@ -88,38 +88,3 @@ from morphological studies alone.
 
 The chemical composition of leaf litter strongly influences which fungal species
 colonize it. Leaves high in tannins, phenolics, and lignin (oak, beech)
-decompose more slowly and support distinct communities compared to
-nutrient-rich,
-low-lignin leaves (alder, willow). The carbon-to-nitrogen ratio of litter is a
-key predictor of decomposition rate and fungal community composition. Fungal
-host specificity exists on a continuum, with generalists colonizing many litter
-types and specialists restricted to particular plant genera. Specificity tends
-to increase with litter recalcitrance.
-
-## Methods for Studying Litter Fungal Diversity
-
-Multiple complementary methods capture the full diversity of litter fungal
-communities:
-
-- **Direct microscopic examination**: Reveals sporulating structures but misses
-sterile mycelia and non-sporulating species. Inherently incomplete.
-- **Culturing on selective media**: Introduces bias toward fast-growing,
-- **Molecular metabarcoding**: Sequencing of fungal ITS regions from DNA
-extracted directly from litter. Captures both culturable and unculturable taxa,
-revealing substantially higher diversity. Cannot provide activity or biomass
-data from sequence alone.
-- **Baiting techniques**: Placement of sterile substrates in the litter layer to
-capture actively growing fungi. Useful for functional diversity studies.
-
-## Related Topics
-
-- [[fungal-succession-leaf-litter]]
-- [[fungal-decomposition]]
-- fungal-succession-patterns
-
-## References
-
-- Biodiversity of Fungi (2004), Chapters 11, 13
-- Cannon, P.F. and Sutton, B.C. In Biodiversity of Fungi
-- Bills, G.F. and Polishook, J.D. 1994. Abundance and diversity of microfungi in
-[[mollison-designers-tropical-soils-and-cation-exchange-management]]

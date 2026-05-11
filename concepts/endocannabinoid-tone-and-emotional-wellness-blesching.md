@@ -11,7 +11,7 @@ system (ECS) — the body's master regulatory network. Tone is a composite of
 ligand concentrations (primarily anandamide and 2-AG), receptor density (CB1
 and CB2), and the efficiency of metabolic enzymes (FAAH, MAGL) that break down
 endogenous cannabinoids. When balanced, the body maintains homeostasis across
-immune function, pain signaling, mood regulation, and stress response.
+immune function, pain signaling, mood regulation, and [[epinephrine-stress-response-endocannabinoid-modulation-blesching]].
 
 ## Low Endocannabinoid Tone
 
@@ -24,7 +24,7 @@ underlying factor in several chronic conditions. Low tone manifests as:
   and motivational drive.
 - **PTSD** — impaired fear extinction and hyperactive stress circuits are
   linked to low CB1 receptor expression.
-- **Chronic pain** — weakened descending pain inhibition leaves nociceptive
+- **[[cannabis-chronic-pain-management]]** — weakened descending pain inhibition leaves nociceptive
   pathways unmodulated.
 - **Inflammation** — inadequate CB2-mediated [[blesching-cannabis-homeostasis-and-immune-regulation]] permits
   persistent inflammatory signaling.
@@ -38,7 +38,7 @@ Elevated tone (within a healthy range) supports:
 
 - **Resilience** — robust stress-buffering capacity and faster cortisol
   recovery after acute stressors.
-- **Emotional regulation** — stable mood and adaptive emotional processing.
+- **[[anandamide-emotional-regulation-blesching]]** — stable mood and adaptive [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]].
 - **Social bonding** — oxytocin and endocannabinoid systems interact
   synergistically to reinforce attachment and trust.
 - **Pain tolerance** — enhanced endogenous analgesia without pharmaceutical
@@ -87,62 +87,3 @@ Aerobic exercise — particularly running and cycling — robustly increases
 anandamide levels ("runner's high" is an endocannabinoid phenomenon).
 Resistance training elevates 2-AG. Consistent movement is the single most
 potent non-pharmacological tone enhancer.
-
-### Social Connection
-Positive social interaction, touch, and bonding stimulate oxytocin release,
-which upregulates CB1 signaling. Isolation correlates with measurable
-reductions in endocannabinoid function. Community is medicine.
-
-### Meditation and Mindfulness
-Contemplative practices reduce cortisol, decrease inflammation, and increase
-circulating anandamide. The pathway is direct: less chronic stress means less
-enzyme-driven anandamide breakdown.
-
-### Sleep
-The ECS regulates sleep-wake cycles, and sleep deprivation impairs
-[[2-ag-endocannabinoid-signaling-blesching]] in return. Quality sleep (7–9 hours with adequate
-deep and REM phases) is essential. Sleep restriction studies show measurable
-drops in CB1 binding availability within days.
-
-### Diet
-Omega-3 fatty acids (EPA/DHA) are structural precursors for endocannabinoid
-synthesis. [[fermented-foods-and-beverages]] polyphenol-rich plants further modulate ECS
-activity through the gut-brain axis.
-
-## The Emotional Molecules Framework
-
-Blesching proposes that emotions have correlating neurochemical signatures
-mediated through the ECS. Emotions are **physiological events** with
-identifiable biochemical correlates:
-
-- **Joy and contentment** — elevated anandamide, balanced serotonin.
-- **Fear and anxiety** — excess cortisol, depleted anandamide, amygdala
-  hyperactivation.
-- **Trust and bonding** — oxytocin–endocannabinoid synergy, vagal tone.
-- **Sadness and withdrawal** — low dopamine, reduced CB1 signaling in reward
-  circuits.
-- **Anger and frustration** — inflammatory cytokines, disrupted 2-AG
-  metabolism.
-
-This framework reframes emotional work as **somatic regulation** — biochemical
-rebalancing, not just cognitive reframing.
-
-## Key Takeaways
-
-- Endocannabinoid tone is the baseline activity of the body's master
-  regulatory system.
-- Low tone underlies anxiety, depression, PTSD, chronic pain, and
-  inflammation — often simultaneously.
-- Five primary ligands (AEA, 2-AG, NADA, virodhamine, OEA) carry distinct
-  signaling roles.
-- Cannabis temporarily elevates tone but chronic use may suppress baseline
-  levels.
-- Exercise, social connection, meditation, sleep, and diet sustain healthy
-  tone long-term.
-- Emotions have measurable neurochemical signatures within the ECS.
-- The therapeutic goal is resilience through biological self-regulation.
-
----
-
-*See also: Clinical Endocannabinoid Deficiency, Anandamide, CB1/CB2
-Receptors, [[cannabis-as-medicine-clinical-reference]], Neuroinflammation, Gut-Brain Axis*

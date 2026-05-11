@@ -1,5 +1,5 @@
 ---
-title: "Legume legume nitrogen myth beans feed corn: Do Beans Feed Corn?"
+title: Legume Nitrogen Myth Beans Feed Corn
 created: 2026-04-28
 tags:
   - legumes
@@ -29,13 +29,13 @@ Many gardening books recommend intercropping corn and beans so
 that the nitrogen-loving corn will prosper from the association.
 The thinking follows that legume roots take large amounts of
 nitrogen from the air and make it available to nearby plants, as
-stated in the Encyclopedia of Organic Gardening (Rodale Press,
+stated in the Encyclopedia of [[geoff-hamilton-the-organic-gardening-companion]] (Rodale Press,
 1978). This interpretation oversimplifies how legumes actually
 handle nitrogen.
 
 ## How Legumes Actually Use Nitrogen
 
-During the growing season, nitrogen gathered by a legume's root
+During [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], nitrogen gathered by a legume's root
 nodules is banked in a temporary savings account in the stems and
 leaves. The nitrogen moves through the plant in a specific
 pattern:
@@ -55,9 +55,9 @@ growing season.
 ## Why the Myth Persists Despite Evidence
 
 There are almost no studies showing improved yield in corn grown
-with beans in temperate climates. The studies that do show
+with beans [[query-how-to-grow-and-use-oca-in-temperate-climates]]. The studies that do show
 benefits from legume-grass intercropping come from tropical
-regions and are not applicable to the United States. However,
+regions and are not applicable to the [[dmt-containing-plants-united-states-halpern]]. However,
 numerous studies do substantiate the well-known and traditional
 practice of planting legumes in rotation with grains and corn,
 which is a fundamentally different approach than intercropping.
@@ -87,33 +87,3 @@ companion crop without also harming the legume or the companion
 itself.
 
 ## The Real Value of Legumes for Nitrogen
-
-The nitrogen value of legumes is realized through incorporation,
-not co-planting. Legume [[jeavons-green-manures-cover-crops]] tilled into soil before
-flowering capture the peak leaf nitrogen content. Legume cover
-crops left to decompose between seasons provide nitrogen for the
-following crop. The range of nitrogen gathered per acre varies
-from 40 pounds (field beans, peanuts) to 250 pounds (alfalfa),
-making species selection critical.
-
-## Practical Recommendations
-
-Instead of interplanting beans with corn, gardeners should:
-
-- Use legume cover crops in rotation with heavy-feeding crops.
-- Till or cut legume green manures before flowering for maximum
-  nitrogen return.
-- Choose high-yielding nitrogen fixers like alfalfa (250 lb/ac)
-  or sweet white clover (160 lb/ac) for [[fukuoka-clover-cover-cropping-soil-ecology]].
-- Understand that the nitrogen benefit is for the next crop, not
-  the current one.
-- Plan rotations spanning multiple seasons for meaningful soil
-  nitrogen improvement.
-
-## Related Concepts
-
-- [[legume-nitrogen-yields-by-species]] — nitrogen output
-  comparison across legume species
-- [[dynamic-accumulators-overview]] — broader context on how
-  plants cycle nutrients in the garden
-- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]

@@ -88,25 +88,3 @@ Nurseries propagate the species primarily from seed, with subspecies and selecte
 Subsp. *salzmannii* and subsp. *laricio* are the subspecies most commonly planted in forestry. These subspecies exhibit faster growth and straighter stems than the typical subsp. *nigra* in many trial plantings.
 
 ## Timber and Economic Importance
-
-European black pine produces moderately dense, straight-grained timber with a heartwood color ranging from pale yellow to reddish-brown. Wood density ranges from 500–600 kg/m³ at 12% moisture content.
-
-The timber is used for construction lumber, railway sleepers, pit props, and pulpwood. In its native range, it has historically been valued for mine timbers and ship masts due to its strength and natural durability.
-
-Resin tapping has been practiced in some parts of the Mediterranean, yielding oleoresin for turpentine and rosin production. This practice has declined with the availability of synthetic alternatives.
-
-The species also provides [[biodiversity-of-fungi-ecosystem-services-agriculture]] including watershed protection, soil stabilization on erosion-prone slopes, and windbreak shelter for agriculture. Its drought tolerance makes it valuable for reforestation in degraded Mediterranean landscapes.
-
-Black pine plantations have been established across southern Africa, Australia, and New Zealand. In some of these regions, the species has naturalized and is considered a mild invasive threat to native vegetation.
-
-## See Also
-
-- [[pinus-contorta]]
-- [[abies-alba]]
-- [[larix-decidua]]
-- [[juniperus-communis]]
-- [[abies-grandis]]
-- [[sequoia-sempervirens]]
-- [[larix-laricina]]
-- [[juniperus-virginiana]]
-- [[tsuga-heterophylla]]

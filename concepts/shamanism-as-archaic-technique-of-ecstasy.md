@@ -7,12 +7,12 @@ tags:
   - Mircea Eliade
   - ecstasy
   - plant hallucinogens
-  - indigenous knowledge
+  - [[psilocybin-chemistry-stability-indigenous-knowledge]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, T. (1992). Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books.
-  - Eliade, M. (1964). Shamanism: Archaic Techniques of Ecstasy. Princeton University Press.
+  - McKenna, T. (1992). Food of the Gods: The Search for the Original stropharia-cubensis-tree-of-knowledge. Bantam Books.
+  - Eliade, M. (1964). Shamanism: Archaic [[mckenna-shamanism-and-techniques-of-ecstasy]]. Princeton University Press.
 type: concept
 ---
 
@@ -30,7 +30,7 @@ Shamanism maintains a surprising internal coherency of practice and belief acros
 
 Whether the shaman is an Arctic-dwelling Inuit or a Witoto of the Upper Amazon, certain techniques and expectations remain constant. Most important of these invariants is ecstasy.
 
-The shamanic initiation involves a period of profound psychological crisis. The neophyte may be moody, frail, predisposed to solitude, and may experience epileptic or catatonic episodes.
+The [[shamanic-initiation-death-resurrection-pattern-ecstatic-traditions]] involves a period of profound psychological crisis. The neophyte may be moody, frail, predisposed to solitude, and may experience epileptic or catatonic episodes.
 
 During prolonged trance, the novice is approached by helping spirits and may receive instruction from them.
 
@@ -46,11 +46,11 @@ Eliade used the word "profane" deliberately to create a clear split between the 
 
 ## Techniques for Achieving Ecstasy
 
-Not all shamans use intoxication with plants to obtain ecstasy, but all shamanic practice aims to give rise to ecstatic states.
+Not all shamans use intoxication with plants to obtain ecstasy, but all [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]] aims to give rise to ecstatic states.
 
 Time-honored methods include drumming, manipulation of breath, ordeals, fasting, theatrical illusions, and sexual abstinence.
 
-However, none of these methods is as effective, as ancient, or as overwhelming as the use of plants containing chemical compounds that produce visions.
+However, none of these methods is as effective, as ancient, or as overwhelming as the use of plants containing [[neurotropic-fungi-chemical-compounds]] that produce visions.
 
 The practice of using visionary plant intoxicants may seem alien to Westerners who regard psychoactive drugs as either frivolous or dangerous.
 
@@ -87,54 +87,3 @@ This perspective implies that human imagination can seize the tiller of being in
 The shaman is the remote ancestor of the poet and artist. Our need to feel part of the world demands expression through creative activity whose ultimate wellsprings are hidden in the mystery of language.
 
 Perhaps language is more properly understood when thought of as magic, for it is the implicit position of magic that the world is made of language.
-
-## Higher Dimensional Perspective
-
-By entering the domain of plant intelligence, the shaman becomes privileged to a higher dimensional perspective on experience.
-
-Common sense assumes that the raw stuff of what language expresses is relatively constant and common to all humans. Yet the Hopi language has no past or future tenses or concepts. The Inuit have no first-person pronoun.
-
-If language is accepted as the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]] of knowing, then the Western rational tradition has been sadly misled.
-
-Only shamanic approaches can address the most fundamental questions: who are we, where did we come from, and toward what fate do we move?
-
-## Icaros and the Magic of Song
-
-McKenna described witnessing the use of icaros, magical curing songs, in [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies.
-
-These are no ordinary songs but visible manifestations of power that enfold participants and provide security.
-
-The icaro appears as an animated silk scarf of many colors, a vocal performance that transcends ordinary sound to become a visible, tangible force in the visionary landscape.
-
-This phenomenon illustrates the shamanic understanding that language and sound possess objective power in nonordinary reality, that words are not merely symbols but forces that shape experience directly.
-
-## The Paranormal and Modern Science
-
-Anthropologists routinely report shamans using plants to converse with invisible worlds inhabited by nonhuman intelligences, yet no one raises an eyebrow.
-
-The assumption is that the shaman merely interprets intoxication as communication with spirits, and that a Westerner would interpret the experience differently.
-
-McKenna challenged this xenophobic assumption, arguing that the world of shamanism is far more real than the constructs of science can encompass, because these spirit ancestors and their other world can be seen and felt in nonordinary reality.
-
-Something profound, unexpected, nearly unimaginable awaits if investigative attentions are turned toward shamanic plant hallucinogens.
-
-## Shamanism and the Biosphere
-
-McKenna argued that shamanism's legacy can act as a steadying force redirecting awareness toward the collective fate of the biosphere.
-
-The shamanic faith is that humanity is not without allies. Forces friendly to the struggle to birth an intelligent species exist but are quiet and shy.
-
-They are to be sought not in alien star fleets but nearby, in wilderness solitude, in the ambience of waterfalls, and in the grasslands now too rarely beneath our feet.
-
-The suppression of shamanic gnosis has robbed humanity of life's meaning and made us enemies of the planet, of ourselves, and of our grandchildren.
-
-Only a recovery of the relationship that humanity evolved with nature through use of psychoactive plants can offer hope of a humane and open-ended future.
-
-## See Also
-
-- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
-- [[ayahuasca-preparation]]
-- Transcendent Other
-- [[psilocybin]]
-- [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]
-- [[indole-hallucinogens-and-human-evolution]]

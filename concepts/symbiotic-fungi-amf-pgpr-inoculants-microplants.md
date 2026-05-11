@@ -77,3 +77,20 @@ For biological inoculants to be commercially attractive, they should offer at le
 - Easy-to-use formulations compatible with existing nursery practices
 - Clear economic benefits (reduced losses, improved growth, higher quality plants)
 - Adequate shelf life and storage stability
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[symbiotic-fungi-arbuscular-mycorrhizal-proteomics-techniques]]
+- [[symbiotic-fungi-carbon-isotope-mycorrhizal-allocation-tracking]]
+- [[fungi-in-the-environment-symbiotic-relationships]]
+- [[symbiotic-fungi-endophytic-fungi-plant-protection]]
+- [[symbiotic-fungi-mycorrhizal-types-and-classification]]

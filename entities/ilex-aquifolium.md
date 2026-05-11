@@ -87,27 +87,3 @@ Modern pharmacological studies have confirmed anti-inflammatory and antioxidant 
 ## Cultural Significance
 
 European holly holds deep symbolic significance across multiple cultures. In pre-Christian Celtic traditions, holly was sacred to the fertility god Cernunnos and represented the evergreen half of the year's seasonal cycle, paired with ivy (the deciduous half).
-
-The Roman festival of Saturnalia (December 17–23) featured holly as a decorative element symbolizing goodwill. This tradition was absorbed into Christian Christmas celebrations, where holly became associated with the crown of thorns and the blood of Christ.
-
-Holly was widely planted near dwellings in Britain and Ireland as a protective charm against lightning, witchcraft, and evil spirits. The belief that cutting down a holly tree [[fukuoka-spaniards-brought-bad-grasses]] luck persisted into the 20th century in rural areas.
-
-The Druids regarded holly as a sacred tree, symbolizing eternal life and protection. Sprigs of holly were worn as crowns during winter ceremonies, a practice that continued in modified form through medieval Christmas celebrations.
-
-In heraldry, holly branches appear in the coats of arms of numerous European families and municipalities, symbolizing truth and steadfastness. The species remains the national tree of several regions within its native range.
-
-The wood of holly is dense, fine-grained, and nearly white, making it valued for turnery, inlay work, and engraving blocks. It was historically used for walking sticks, whip handles, and birdcage construction.
-
-Holly wood takes an exceptional polish and is one of the whitest of all European timbers. It was traditionally used for the white keys of harpsichords and pianos before the adoption of plastic alternatives.
-
-## See Also
-
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[taxus-baccata]]
-- [[syringa-vulgaris]]
-- [[prunus-spinosa]]
-- [[sambucus-nigra]]
-- [[juglans-nigra]]
-- [[populus-tremuloides]]
-- [[tilia-cordata]]

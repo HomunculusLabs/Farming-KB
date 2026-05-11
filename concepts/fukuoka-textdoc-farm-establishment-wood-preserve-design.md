@@ -5,6 +5,7 @@ tags: [natural-farming, fukuoka, farm-design, orchard-establishment, shelterbelt
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,59 +88,3 @@ Fast-growing species commonly used:
 
 Slower-growing but durable species:
 - Camellia, umbrella tree, wax myrtle, and Chinese anise
-
-In some regions:
-- Evergreen oaks and holly
-
-## Orchard Establishment on Hillsides
-
-Fukuoka's method for establishing an orchard on a hillside differs fundamentally from modern bulldozer-based land clearing:
-
-### Natural Method
-
-Vegetation on the hillside is cut in lateral strips. The large trunks, branches, and leaves of the felled trees are arranged or buried in trenches running along hill contours, covered with earth, and allowed to decompose naturally. No vegetation is removed from the site.
-
-### Problems with Modern Methods
-
-Modern orchard establishment uses bulldozers to clear and level land, build wide farm roads, and prepare the surface for mechanization. Fukuoka identifies several drawbacks:
-
-1. Irregular surface features on slopes are flattened, destroying natural drainage patterns.
-2. Wide roads facilitate mechanization but the primary operation in natural farming is simply picking ripened fruit, making roads unnecessary.
-3. Heavy machinery compacts and damages soil structure.
-4. Clearing eliminates the organic material that could have been used to build soil fertility.
-5. Mechanization primarily facilitates fertilizer and pesticide application, operations that natural farming eliminates entirely.
-
-A natural orchard can be established without heavy initial capital outlay or large debts, because it requires no bulldozers, no chemical inputs, and minimal infrastructure.
-
-## Garden Establishment
-
-Fukuoka advocates using the open space in an orchard for intercropping vegetables and grains, describing this as "the very picture of nature." The orchard can double as a vegetable and grain patch.
-
-### Initial Ground Preparation
-
-When starting an orchard on new land, the main goals should be preventing weed emergence and maturing the soil. Fukuoka recommends a specific succession:
-
-- **First summer**: Plant buckwheat for rapid soil coverage and weed suppression.
-- **First winter**: Sow rapeseed and Indian mustard for winter ground cover.
-- **Second summer**: Plant adzuki bean and mung bean for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
-- **Second winter**: Sow hairy vetch and other hardy leguminous plants.
-
-### Terrace Construction
-
-Dry-farmed hillside gardens are prone to erosion and soil depletion. The primary task is building lateral embankments or stone walls running across the slope. Knowledge of soil properties and the ability to build stable earthen embankments or lay stones from the field are determining factors in success.
-
-Whether terraces are level or slightly graded makes a large difference in crop returns and farming efficiency. Fukuoka recommends two primary soil improvement methods:
-
-1. **Deep trench burial**: Bury coarse organic matter in contour trenches.
-2. **High ridges**: Pile soil up using earth from contour trenches, arranging it around coarse organic material. The piled soil matures faster than buried soil due to better aeration.
-
-These methods activate the latent fertility of even depleted, granular soil, rapidly preparing it for fertilizer-free cultivation.
-
-## See Also
-
-- [[fukuoka-textdoc-mountain-wood-preserve-revegetation-method]]
-
-- [[fukuoka-textdoc-natural-soil-management]]
-- [[fukuoka-orchard-without-pruning]]
-- [[fukuoka-textdoc-natural-crop-rotation-vegetable-methods]]
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]

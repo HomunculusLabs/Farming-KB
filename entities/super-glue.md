@@ -19,15 +19,15 @@ created: 2026-04-28
 
 ## Overview
 
-Super Glue is an indica-dominant hybrid cannabis strain created by crossing GG4 (formerly Girl Scout Cookies) with an Afghani landrace.
+Super Glue is an indica-dominant hybrid cannabis strain created by crossing GG4 (formerly [[girl-scout-cookies]]) with an Afghani landrace.
 
-Bred by GG Strains, the same team behind the original GG4, Super Glue was developed to amplify the resin production and sedative effects of its famous parent.
+Bred by GG Strains, the same team behind the original GG4, Super Glue was developed to amplify the [[cannabis-resin-production-and-quality-traits-clarke]] sedative effects of its famous parent.
 
 The strain is named for its extraordinary trichome density, which gives buds a sticky, glue-like texture that clings to fingers and scissors. This naming convention follows GG Strains' tradition of adhesive-themed nomenclature, which also includes GG4 and related glue-themed crosses.
 
 Since its release in the mid-2010s, Super Glue has won multiple awards including first place in the 2016 Seattle Hempfest. It is widely regarded as one of the most potent indica-dominant strains in the commercial market, with THC content consistently testing between 25 and 31 percent.
 
-Super Glue has gained particular popularity in the Pacific Northwest of the United States, where it is frequently featured in licensed dispensaries and has become a staple among patients managing chronic pain conditions. The strain's reputation for consistent potency and reliable effects has made it a benchmark for evaluating other high-THC indica-dominant hybrids.
+Super Glue has gained particular popularity in the [[psilocybin-north-america-pacific-northwest]] of the United States, where it is frequently featured in licensed dispensaries and has become a staple among patients managing chronic pain conditions. The strain's reputation for consistent potency and reliable effects has made it a benchmark for evaluating other high-THC indica-dominant hybrids.
 
 ## Lineage
 
@@ -39,7 +39,7 @@ GG4 contributes the complex aroma profile of diesel, chocolate, and earthy notes
 
 Several notable derivatives have emerged from Super Glue crosses, including Super Glue #4 (a backcross to GG4) and various Super Glue x Gelato hybrids that combine resin density with sweet dessert flavors.
 
-The Afghani parent is believed to originate from the Hindu Kush mountain region, where landrace indicas have been cultivated for hashish production for centuries. This genetic heritage is evident in Super Glue's exceptionally high resin output and the deep, earthy undertones that dominate its flavor profile.
+The Afghani parent is believed to originate from the Hindu Kush mountain region, where landrace indicas have been cultivated for [[cannabis-hashish-production]] for centuries. This genetic heritage is evident in Super Glue's exceptionally high resin output and the deep, earthy undertones that dominate its flavor profile.
 
 ## Appearance
 
@@ -75,11 +75,11 @@ The terpene-to-cannabinoid ratio in Super Glue is notably higher than the modern
 
 The high myrcene-to-caryophyllene ratio is responsible for the strain's pronounced sedative and analgesic properties. Caryophyllene also contributes anti-inflammatory activity through CB2 receptor agonism, complementing the central effects of THC. Total terpene content typically ranges from 1.5 to 2.8 percent, which is considered high for modern commercial strains.
 
-The myrcene-dominant profile classifies Super Glue within the "type II" chemotype in the [[oner-cannabis-terpene-profiles-effects]] classification system. This terpene profile is associated with enhanced THC bioavailability at the blood-brain barrier, partially explaining the strain's disproportionately potent subjective effects relative to its measured THC percentage.
+The myrcene-dominant profile classifies Super Glue within the "type II" chemotype in the [[oner-cannabis-terpene-profiles-effects]] classification system. This [[cannabis-terpene-profile]] is associated with enhanced THC bioavailability at the blood-brain barrier, partially explaining the strain's disproportionately potent subjective effects relative to its measured THC percentage.
 
 ## Effects
 
-Onset is rapid, typically felt within 2 to 5 minutes of inhalation. The initial effects are cerebral, with a euphoric and slightly psychedelic head high that includes enhanced sensory perception and mild creative stimulation.
+Onset is rapid, typically felt within 2 to 5 minutes of inhalation. The initial effects are cerebral, with a euphoric and slightly psychedelic head high that includes enhanced [[plant-sensory-perception]] and mild creative stimulation.
 
 This phase lasts 15 to 30 minutes before the heavy indica body effects take over.
 
@@ -88,30 +88,3 @@ The transition from cerebral to physical effects is smooth and progressive, unli
 Users commonly report relief from chronic pain, muscle spasms, insomnia, and anxiety.
 
 The strain is best suited for evening or nighttime use due to its strongly sedative comedown. Medical patients frequently select Super Glue for conditions involving neuropathic pain and sleep disruption. In patient surveys, Super Glue consistently ranks in the top 20 strains for pain management and insomnia relief.
-
-Common side effects include dry mouth, dry eyes, and dizziness at higher doses. Inexperienced users may experience anxiety or paranoia, particularly if consumption exceeds personal tolerance thresholds. The strain is not recommended for daytime use or tasks requiring sustained attention.
-
-Duration of effects is notably long, with the sedative body high persisting for 3 to 4 hours and residual relaxation detectable for up to 6 hours. This extended duration, combined with the strain's potency, means that even experienced consumers typically require only a small amount to achieve desired therapeutic effects.
-
-## Cultivation
-
-Super Glue is considered moderately difficult to cultivate, requiring attention to environmental parameters and [[green-cannabis-grow-bible-nutrient-management-ppm]]. The strain performs well in both indoor and outdoor settings, though indoor cultivation allows better control over the dense bud development that defines this variety.
-
-The strain is particularly well-suited to growers seeking high-potency resin production for hash or rosin extraction. The large, readily-ablated trichome heads produce excellent yields when processed through ice water extraction or mechanical pressing, making Super Glue a favorite among concentrate artists.
-
-Indoor flowering time is 8 to 9 weeks, with yields of 14 to 18 ounces per square meter under optimal conditions. The plants respond well to SCROG (Screen of Green) and low-stress [[cannabis-training-techniques-comparison]]. Outdoor harvest occurs in early to mid-October, with yields of 18 to 22 ounces per plant in Mediterranean climates.
-
-The strain is moderately resistant to mold and pests but requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during late flowering due to the extremely dense bud structure. Ideal relative humidity during flowering is 40 to 50 percent. Nutrient requirements are moderate to heavy, particularly for phosphorus and potassium during the bloom phase. CalMag supplementation is recommended due to the strain's heavy feeding tendencies, which can cause calcium and magnesium deficiencies in coco coir or hydroponic media.
-
-The plants exhibit moderate stretch during the first two weeks of flowering, typically increasing height by 30 to 50 percent. Final plant height indoors is 80 to 120 cm.
-
-The strain produces strong lateral branching when trained, making it suitable for manifold or mainlining techniques that maximize yield from individual plants. Sea of Green (SOG) configurations are less effective due to the plant's natural tendency toward a single dominant cola, though well-executed SOG can still achieve competitive yields per watt.
-
-## See Also
-
-- [[animal-cookies]]
-- [[gmo-garlic-cookies]]
-- [[gelato]]
-- [[kush-mints]]
-- [[og-kush-cannabis-entity]]
-- [[purple-punch]]

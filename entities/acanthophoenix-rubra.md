@@ -44,11 +44,11 @@ Acanthophoenix rubra is native to the islands of Mauritius and Réunion. On Maur
 
 On Réunion, the species occurs in humid forest on the windward slopes of the island, from lowland to montane elevations. The Réunion populations are generally larger and more vigorous than those on Mauritius.
 
-The species grows as an emergent or canopy tree in humid tropical forest. It is most abundant along ridge tops, stream margins, and in steep ravines where competition from faster-growing trees is reduced.
+The species grows as an emergent or canopy tree in humid [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]. It is most abundant along ridge tops, stream margins, and in steep ravines where competition from faster-growing trees is reduced.
 
 Native habitat is characterized by high humidity, annual rainfall of 1,500–4,000 mm, and mean annual temperatures of 18–24 °C. The palm tolerates occasional exposure to strong tropical cyclones, which are a recurrent feature of the Mascarene climate.
 
-Soils are typically well-drained volcanic loams derived from basaltic parent material. The species shows moderate tolerance of degraded soils in secondary forest, but growth rates are significantly reduced compared to primary forest conditions.
+Soils are typically well-drained volcanic loams derived from basaltic parent material. The species shows moderate tolerance of degraded soils in secondary forest, but [[coleman-sunlight-and-winter-crop-growth-rates]] are significantly reduced compared to primary forest conditions.
 
 On Mauritius, the palm is most common on the wetter western and southwestern mountain slopes that receive the full impact of southeast trade winds. The leeward (northern and eastern) slopes are too dry for the species at most elevations.
 
@@ -56,19 +56,19 @@ The species has been extirpated from several lowland sites where it historically
 
 ## Ecology and Interactions
 
-Acanthophoenix rubra is a keystone species in Mascarene forest ecosystems. As an emergent palm, it provides structural habitat above the main canopy for epiphytes, climbing plants, and canopy-dwelling birds and reptiles.
+Acanthophoenix rubra is a keystone species in Mascarene [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. As an emergent palm, it provides structural habitat above the main canopy for epiphytes, climbing plants, and canopy-dwelling birds and reptiles.
 
-The fruit is consumed by native fruit bats (Pteropus niger on Mauritius and Pteropus giganteus on Réunion). These bats are the primary seed dispersal agents, carrying fruits to feeding roosts and facilitating seed deposition away from parent plants.
+The fruit is consumed by native fruit bats (Pteropus niger on Mauritius and Pteropus giganteus on Réunion). These bats are the primary [[clay-pellet-seed-dispersal]] agents, carrying fruits to feeding roosts and facilitating seed deposition away from parent plants.
 
 Several endemic reptile species, including the Mauritius ornate day gecko (Phelsuma ornata), use the palm crown for foraging and shelter. The spiny trunk provides nesting sites for endemic birds such as the Mauritius grey white-eye.
 
 The species is a host plant for several endemic insect species. The palm flower weevil (Diocalandra frumenti) feeds on the inflorescence and developing fruit, though it rarely causes significant damage to healthy palms.
 
-Leaf litter from Acanthophoenix contributes to nutrient cycling in forest ecosystems. The large fronds decompose slowly, creating persistent litter layers that support diverse decomposer communities.
+[[dighton-fungal-decomposition-leaf-litter-dynamics]] from Acanthophoenix contributes to [[nutrient-cycling-in-soil]] [[dighton-fungi-tropical-forest-ecosystems]]. The large fronds decompose slowly, creating persistent litter layers that support diverse decomposer communities.
 
 The palm's deep root system helps stabilize steep mountain slopes prone to landslides during intense cyclone events. This soil-stabilization function is particularly important in the fragmented forest reserves of Mauritius.
 
-The species supports a specialized canopy microclimate that differs markedly from the surrounding forest. Temperature and humidity within the crown are more stable, providing refuge for sensitive epiphytic orchids and ferns.
+The species supports a specialized canopy microclimate that differs markedly from the surrounding forest. [[greg-green-temperature-and-humidity-control]] within the crown are more stable, providing refuge for sensitive epiphytic orchids and ferns.
 
 ## Conservation Status
 
@@ -78,7 +78,7 @@ Historical deforestation for sugarcane cultivation reduced the species' habitat 
 
 Invasive species pose the most significant ongoing threat. Introduced rats (Rattus spp.) and macaques (Macaca fascicularis) consume large quantities of palm fruit and seed, dramatically reducing natural regeneration rates.
 
-Competition from invasive plant species, particularly Psidium cattleianum (strawberry guava) and Ligustrum robustum, suppresses seedling establishment. These invasive trees form dense thickets that shade out palm seedlings in the forest understory.
+Competition from invasive plant species, particularly [[psidium-cattleianum]] (strawberry guava) and Ligustrum robustum, suppresses seedling establishment. These invasive trees form dense thickets that shade out palm seedlings in the forest understory.
 
 Conservation efforts include invasive species control, seed collection and banking, and supplementary planting in protected areas. The Mauritian Wildlife Foundation has established several in situ conservation sites where Acanthophoenix seedlings are planted and monitored.
 
@@ -87,24 +87,3 @@ Captive populations exist at several botanical gardens including the Royal Botan
 ## Cultivation and Uses
 
 Acanthophoenix rubra is cultivated as an ornamental palm in tropical and subtropical gardens, valued for its attractive red new growth, elegant form, and dramatic spiny trunk. It is commercially available from specialty palm nurseries but remains relatively uncommon in cultivation.
-
-The species requires a warm, humid climate with protection from strong winds when young. It is moderately cold-sensitive and cannot tolerate temperatures below approximately 2 °C. Full sun to partial shade suits established specimens.
-
-Growth rate is moderate, approximately 30–60 cm of trunk height per year under optimal conditions. The spiny trunk and petioles require careful placement in landscape settings away from foot traffic.
-
-Historically, the palm heart of Acanthophoenix was harvested as a delicacy on both Mauritius and Réunion. This practice killed the tree and contributed to population declines. Harvesting of wild palm hearts is now prohibited by law.
-
-The wood of felled trunks was traditionally used for light construction and tool handles. The tough outer trunk layer, rich in fiber, was used to make cordage and binding material.
-
-The species has potential as an eco-tourism attraction, with its dramatic appearance and conservation story drawing interest from botanical tourists visiting Mauritius. Several ecotourism operators feature Acanthophoenix in their forest hiking itineraries.
-
-## See Also
-
-- [[cocos-nucifera]]
-- [[phoenix-dactylifera]]
-- [[roystonea-regia]]
-- [[bactris-gasipaes]]
-- [[chamaedorea-elegans]]
-- [[dypsis-lutescens]]
-- [[trachycarpus-fortunei]]
-- [[washingtonia-filifera]]

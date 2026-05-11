@@ -1,7 +1,7 @@
 ---
 title: "Kirchhoff's Circuit Laws"
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
-tags: [electrical-engineering, circuits, electromagnetism, [[microwave-water-coupling-2-45-ghz-surface-sterilization-physics|physics]], engineering]
+tags: [electrical-engineering, circuits, electromagnetism, [[microwave-water-coupling-2-45-ghz-surface-sterilization-physics|physics], engineering]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
@@ -88,36 +88,5 @@ A negative computed power means the element is delivering energy to the rest of 
 
 Clear polarity marks and current arrows prevent most algebraic mistakes in Kirchhoff problems.
 
-Checking power balance after a solution is a useful diagnostic because total delivered and absorbed power should match.
-
-## Limitations and Extensions
-KCL can fail in naive form if displacement current, parasitic capacitance, or charge storage at a node is ignored.
-
-Including capacitance or displacement current restores charge conservation in the expanded model.
-
-KVL can fail in naive form around loops threaded by time-varying magnetic flux, because Faraday induction creates nonconservative electric fields.
-
-Transformers, inductive coupling, motors, and antennas therefore require terms beyond simple resistor-like voltage drops.
-
-High-speed printed circuit boards need transmission-line thinking because signal travel time is comparable to edge time.
-
-Ground bounce, return-path inductance, and electromagnetic interference are practical examples of Kirchhoff assumptions becoming strained.
-
-Power electronics add switching discontinuities, parasitics, and device nonlinearities, but still use Kirchhoff equations in piecewise models.
-
-The laws are therefore best understood as modeling principles with defined domains, not as excuses to ignore fields.
-
-## Applications
-Kirchhoff's laws are used to calculate resistor networks, bias transistor circuits, size protection resistors, and analyze sensor bridges.
-
-They support filter design, amplifier feedback calculations, op-amp circuits, power-supply regulation, and motor-drive models.
-
-In [[electromagnetic-induction-faraday-law]] when KVL must include induced electromotive force.
-
-They also connect to transmission-line behavior when conductors can no longer be treated as zero-delay ideal wires.
-
-Graph formulations link them to network analysis, sparse matrices, and numerical methods used in engineering software.
-
-## References
-Wikipedia pages on Kirchhoff's circuit laws and electrical networks were consulted f [[ingham-field-guide-compost-tea-microscope-analysis]]
-- [[mushrooms-fungi-from-around-the-world-guide]]
+## See Also
+- [[laws-of-thermodynamics]]

@@ -1,5 +1,5 @@
 ---
-title: bloomfield-rice-blast-appressorium-mechanics Disease and Magnaporthe grisea
+title: Gadd Rice Blast Magnaporthe Grisea
 created: 2026-04-28
 tags:
   - rice-blast
@@ -38,7 +38,7 @@ of rice with up to 100% losses for some farmers.
 The infection cycle begins when three-celled asexual conidia, dispersed
 by wind, dew, or rain splash, attach to the hydrophobic rice leaf
 surface. The conidial apex releases adhesive material for tight
-attachment. Within one hour a germ tube 15-30 micrometres develops.
+attachment. Within one hour a [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] 15-30 micrometres develops.
 Within four hours the tube hooks, changes direction, and begins
 differentiating into an appressorium. An inner melanin layer and outer
 chitin layer are deposited in the appressorium wall, generating up to
@@ -49,11 +49,11 @@ melanin-free region and pierces the plant epidermis.
 
 M. grisea was one of the first fungal plant pathogen genomes sequenced.
 The genome sequence coverage exceeds seven-fold, with 11,109 predicted
-genes, comparable to Neurospora crassa (10,082) and nearly double
+genes, comparable to [[neurospora-crassa]] (10,082) and nearly double
 S. cerevisiae (6,591). The Broad Institute included M. grisea in the
 Fungal Genomes Initiative. The MGOS database (www.mgosdb.org) provides
 relational database access to over 50,000 insertional mutants with
-phenotypic data on growth rate, conidiation, pigmentation, and
+phenotypic data on [[soil-temperature-plant-growth-rate-doubling-rule]], conidiation, pigmentation, and
 pathogenicity.
 
 ## Comparative genomics: what makes a pathogen?
@@ -73,8 +73,8 @@ loss, as seen in Mycobacterium leprae.
 The COGEME EST database contains sequences from 18 fungal and oomycete
 phytopathogens. For M. grisea, 70% of unisequences have unknown
 function. Ebbole et al. (2004) generated 28,682 ESTs from nine cDNA
-libraries spanning developmental stages (conidial, mycelial,
-appressorial, perithecial) and growth conditions (complete medium,
+libraries spanning [[psilocybe-cubensis-developmental-stages]] (conidial, mycelial,
+appressorial, perithecial) and [[psilocybin-potency-variation-species-strain-growth-conditions]] (complete medium,
 minimal medium, nitrogen starvation, rice cell wall). Approximately
 31-50% of ESTs were library-specific, indicating real differences in
 gene expression. The most abundant gene was a UV-inducible homologue
@@ -88,41 +88,3 @@ were generated from 24-hour and 96-hour post-infection time points.
 This technique overcomes limitations of EST analysis by determining
 abundance of every transcript in a cell population and does not require
 prior sequence knowledge for tag identification.
-
-## Root infection and hemibiotrophic lifestyle
-
-M. grisea can infect roots under laboratory conditions without
-appressoria, using hyphopodia-like structures similar to root-infecting
-fungi such as Gaeumannomyces graminis. Up to 10% of root-inoculated
-plants showed systemic leaf lesions. Classification of M. grisea as
-necrotroph versus hemibiotroph remains debated. It does not induce
-overt symptoms until 3 days post-infection and host cells are not
-damaged during initial infection, consistent with hemibiotrophy.
-
-## Population genetics and reproduction
-
-Asexual reproduction predominates in the field. Population studies in
-Europe, the [[dmt-containing-plants-united-states-halpern]], Cambodia, and the Philippines show typically
-clonal populations with low genotypic diversity. However, studies near
-the Himalayas reveal higher diversity suggesting sexual reproduction
-occurs in the centre of diversity. Sexual reproduction requires
-opposite mating types (MAT1-1 and MAT1-2), producing perithecia with
-ascospores that can initiate infection cycles.
-
-## Virulence genes and MAP kinase signalling
-
-The PMK1 gene encoding a MAP kinase is essential for appressorium
-formation and [[fungal-hyphae-invasive-growth-mechanisms]]. MPG1 encodes a hydrophobin important for
-surface recognition. MAS1/GAS2 and MAS3/GAS1 are abundant in
-appressorium libraries but absent from pmk1 mutant libraries, indicating
-PMK1-dependent expression. M. grisea accumulates arabitol rather than
-glycerol as its osmotic solute, unlike S. cerevisiae, suggesting
-different regulation of compatible solute production.
-
-## Related
-
-- [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] concepts
-
-- [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-fungal-genomics-comparative-approaches]]
-- [[gadd-fungal-species-recognition]]

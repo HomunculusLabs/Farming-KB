@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Scale Assessment
 
-Determining the right scale for a homestead [[small-scale-dairy-guide]] operation depends on goals, available resources, land, labor, and risk tolerance. This guide defines four common scales -- hobby, side hustle, part-time farm, and full-time farm -- with revenue benchmarks, resource requirements, and decision criteria for each level.
+Determining the right scale for a homestead operation depends on goals, available resources, land, labor, and risk tolerance. This guide defines four common scales -- hobby, side hustle, part-time farm, and full-time farm -- with revenue benchmarks, resource requirements, and decision criteria for each level.
 
 ## The Four Scales
 
@@ -70,13 +70,13 @@ Determining the right scale for a homestead [[small-scale-dairy-guide]] operatio
 | Eggs (50 hens) | 1,000 dozen | $6 | $6,000 |
 | Broilers (200 birds, 2 batches) | 200 | $25 | $5,000 |
 | Grass-fed beef (5 head) | 5 | $2,500 | $12,500 |
-| Pastured pork (10 pigs) | 10 | $900 | $9,000 |
+| [[pastured-pork-production]] (10 pigs) | 10 | $900 | $9,000 |
 | Vegetable CSA (30 members) | 30 shares | $600 | $18,000 |
-| Farmers market vegetables | 30 weeks | $300/week | $9,000 |
+| [[farmers-market-selling-guide]] vegetables | 30 weeks | $300/week | $9,000 |
 | Mushrooms (indoor, small) | 200 lbs/month | $12/lb | $28,800 |
 | Dried herbs and products | various | -- | $5,000-15,000 |
 | Bread (weekly baking) | 30 loaves/week | $8 | $12,480 |
-| Hot sauce (small batch) | 50 bottles/week | $10 | $26,000 |
+| [[fermented-hot-sauce-guide]] (small batch) | 50 bottles/week | $10 | $26,000 |
 
 Note: these are gross revenue estimates. Net profit is typically 30-60% of gross after expenses.
 
@@ -84,7 +84,7 @@ Note: these are gross revenue estimates. Net profit is typically 30-60% of gross
 
 ### Key Questions
 1. What are your goals? (food security, income, lifestyle, community)
-2. How much time can you commit? (be realistic about other [[small-scale-dairy-guide]] obligations)
+2. How much time can you commit? (be realistic about other obligations)
 3. How much capital do you have available? (savings, loans, family support)
 4. How much land do you have or can you access? (own, lease, borrow)
 5. What are your skills and experience? (farming, business, marketing)

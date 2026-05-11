@@ -2,17 +2,17 @@
 
 ## Overview
 
-Water quality is a critical but often overlooked factor in successfully brewing Actively Aerated Compost Tea (AACT). The water used as the base for compost tea directly affects microbial survival, reproduction, and diversity during the brewing process.
+Water quality is a critical but often overlooked factor in successfully brewing [[actively-aerated-compost-tea]] Tea (AACT). The water used as the base for compost tea directly affects microbial survival, reproduction, and diversity during the brewing process.
 
-Dr. Elaine Ingham's field guide emphasizes that municipal tap water containing chlorine or chloramines can devastate the beneficial microbial communities that AACT is designed to cultivate. Understanding water chemistry, contamination sources, and treatment methods is essential for consistent, high-quality tea production.
+Dr. Elaine Ingham's field guide emphasizes that municipal tap water containing chlorine or chloramines can devastate the beneficial [[cannabis-rhizosphere-microbial-communities]] that AACT is designed to cultivate. Understanding water chemistry, [[stamets-contamination-sources-laboratory-hygiene]], and treatment methods is essential for consistent, high-quality tea production.
 
-Water serves as the primary medium in which all microbial activity occurs during AACT brewing. Every organism in the tea — bacteria, fungi, protozoa, and nematodes — exists in an aqueous environment. The chemical and physical properties of that water determine whether these organisms thrive or perish. This page covers water quality standards, chlorine removal methods, temperature management, pH considerations, and testing protocols for AACT brewing.
+Water serves as the primary medium in which all microbial activity occurs during AACT brewing. Every organism in the tea — bacteria, fungi, protozoa, and nematodes — exists in an aqueous environment. The chemical and physical properties of that water determine whether these organisms thrive or perish. This page covers water [[aact-compost-quality-standards-ingham]], chlorine removal methods, [[cervantes-reservoir-temperature-management]], pH considerations, and testing protocols for AACT brewing.
 
 ---
 
 ## Municipal Water Chlorine and Chloramine Problems
 
-Most municipal water supplies in North America are treated with either free chlorine or chloramines as primary disinfectants. Both compounds are lethal to the bacteria, fungi, protozoa, and nematodes that form the beneficial soil food web organisms targeted by AACT brewing.
+Most municipal water supplies in [[guzman-psilocybin-mushrooms-north-america]] are treated with either free chlorine or chloramines as primary disinfectants. Both compounds are lethal to the bacteria, fungi, protozoa, and nematodes that form the beneficial soil food web organisms targeted by AACT brewing.
 
 ### Free Chlorine
 
@@ -30,8 +30,8 @@ The impact of residual chlorine on a compost tea brew is severe:
 
 - Even 0.5-1.0 ppm free chlorine can reduce bacterial populations by 90% or more within the first hour of brewing
 - Fungal hyphae show inhibited growth at chlorine levels above 0.2 ppm
-- Protozoa and beneficial nematodes are the most sensitive organisms, with mortality occurring at very low chlorine concentrations
-- Mycorrhizal fungi are particularly vulnerable, as their delicate hyphal networks are destroyed by oxidizing agents
+- Protozoa and [[ingham-beneficial-nematodes-soil-food-web]] are the most sensitive organisms, with mortality occurring at very low chlorine concentrations
+- [[arbuscular-mycorrhizal-fungi]] are particularly vulnerable, as their delicate hyphal networks are destroyed by oxidizing agents
 
 Ingham's correspondence repeatedly stresses that brewers who experience poor results despite following all other brewing protocols correctly often discover that chlorine in their water source is the culprit. She recommends that every new AACT brewer begin by testing their water supply before investing in compost, foods, or equipment.
 
@@ -59,7 +59,7 @@ High-quality activated carbon filters can remove both chlorine and chloramines, 
 
 ### Reverse Osmosis Water
 
-Reverse osmosis (RO) water provides the cleanest baseline for AACT brewing. RO systems remove virtually all contaminants including chlorine, chloramines, heavy metals, dissolved minerals, and organic compounds. However, Ingham notes that RO water may be too pure for optimal brewing, as beneficial organisms require some mineral content. The recommendation is to use RO water as a base and remineralize it with small amounts of kelp extract, rock dust, or humic acids.
+Reverse osmosis (RO) water provides the cleanest baseline for AACT brewing. RO systems remove virtually all contaminants including chlorine, chloramines, heavy metals, dissolved minerals, and [[chamovitz-plant-scent-communication-volatile-organic-compounds]]. However, Ingham notes that RO water may be too pure for optimal brewing, as beneficial organisms require some mineral content. The recommendation is to use RO water as a base and remineralize it with small amounts of kelp extract, rock dust, or humic acids.
 
 ---
 
@@ -69,11 +69,11 @@ Brewing water temperature significantly affects microbial activity and reproduct
 
 ### Optimal Temperature Range
 
-The optimal brewing temperature range is 65-75°F (18-24°C). Within this range, bacterial reproduction proceeds at maximum rates and fungal hyphae extend actively. Temperature directly influences dissolved oxygen capacity — as temperature rises, the water's ability to hold oxygen decreases.
+The optimal brewing temperature range is 65-75°F (18-24°C). Within this range, bacterial reproduction proceeds at maximum rates and fungal hyphae extend actively. Temperature directly influences [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] capacity — as temperature rises, the water's ability to hold oxygen decreases.
 
 ### Cold Water Problems
 
-Below 55°F (13°C), bacterial reproduction slows dramatically, extending the time needed to reach adequate microbial biomass. Winter brewing in cold climates requires pre-warming before adding compost. Using warm (not hot) water from indoor sources or allowing water to reach ambient greenhouse temperatures helps maintain adequate microbial activity.
+Below 55°F (13°C), bacterial reproduction slows dramatically, extending the time needed to reach adequate [[soil-microbial-biomass-measurement-ecological-significance]]. Winter brewing [[query-how-do-i-grow-figs-in-cold-climates]] requires pre-warming before adding compost. Using warm (not hot) water from indoor sources or allowing water to reach ambient greenhouse temperatures helps maintain adequate microbial activity.
 
 ### Hot Water Problems
 
@@ -88,36 +88,3 @@ Source water pH should ideally be between 6.0 and 7.5 for AACT brewing. Most mun
 Extremely alkaline water can inhibit fungal growth, while very acidic water may favor acid-tolerant bacteria at the expense of beneficial fungal species. Ingham recommends testing source water pH before each brew and adjusting if necessary. Small amounts of citric acid can lower pH, while agricultural limestone or potassium bicarbonate can raise it. However, pH adjustments should be made before adding compost, as the compost itself acts as a buffer.
 
 ---
-
-## Dissolved Oxygen and Water Quality Interactions
-
-Water quality directly affects dissolved oxygen (DO) levels, which are critical for aerobic AACT brewing. Clean water at 68°F can hold approximately 9.0 mg/L of dissolved oxygen at saturation. Several water quality factors reduce oxygen-holding capacity:
-
-- **Temperature**: DO capacity decreases as water temperature increases. At 85°F, maximum DO drops to approximately 7.5 mg/L
-- **Organic load**: High levels of dissolved organic matter consume oxygen through microbial decomposition
-- **Mineral content**: High total dissolved solids (TDS) can reduce oxygen solubility
-- **Altitude**: Higher elevations have lower atmospheric pressure, reducing DO saturation
-
-Maintaining DO levels above 6.0 mg/L throughout the brewing cycle is essential for aerobic microbial dominance.
-
----
-
-## Testing Protocol
-
-A comprehensive water quality testing protocol for AACT brewing should include:
-
-1. **Chlorine/chloramine test** before every brew using DPD colorimetric test kits
-2. **pH test** using a calibrated digital meter or indicator strips
-3. **Temperature measurement** of source water and brew temperature monitoring
-4. **Dissolved oxygen test** using a calibrated DO meter during brewing
-5. **TDS (total dissolved solids)** test quarterly to establish baseline water quality
-
-Regular testing establishes a baseline for the water source and allows brewers to detect changes that could affect tea quality.
-
-## See Also
-
-- [[ingham-dissolved-oxygen-anaerobic-aact-brewing-management]]
-- [[aact-ph-water-quality-ingham]]
-- [[ingham-compost-tea-ingredients-kelp-fish-humic-acids-fungal-foods]]
-- [[aact-brewing-ingredients-ingham]]
-- [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]

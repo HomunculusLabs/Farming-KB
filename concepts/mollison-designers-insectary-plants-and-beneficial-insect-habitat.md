@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,48 +87,3 @@ for insecticide applications by maintaining predator populations within
 cropping areas.
 
 ## Hedgerow Insectaries
-
-Perennial hedgerows planted with a diverse mixture of flowering shrubs and
-trees provide year-round [[query-how-do-i-design-habitat-for-beneficial-insects]] insects. In temperate
-climates, hedgerow species might include: hawthorn, blackthorn, dogwood,
-elderberry, hazel, willow, and guelder rose, underplanted with dog daisies,
-hogweed, and nettle patches. Nettles in particular support large populations
-of ladybirds that migrate into crops when aphid populations increase.
-
-In tropical climates, hedgerows of moringa, cassia, and hibiscus provide
-continuous nectar and pollen sources. Multi-strata hedgerows with canopy,
-shrub, and ground layers support the widest range of insect species.
-
-## Maintaining Year-Round Populations
-
-The greatest challenge in biological pest control is maintaining beneficial
-insect populations during periods when crops are absent or when pest
-populations are low. This requires ensuring continuous food and shelter
-throughout the year. A diverse insectary planting includes species that
-bloom in every month of the growing season, with evergreen perennials and
-grasses providing winter shelter. Undisturbed areas with leaf litter, hollow
-stems, and soil cracks provide overwintering sites.
-
-Avoiding broad-spectrum insecticides is essential. Even organic-approved
-insecticides such as pyrethrum and spinosad affect beneficial insects.
-Selective approaches, targeted spraying, and tolerance of low pest
-populations allow predator-prey dynamics to function naturally.
-
-## Integrating Insectary Strips into Systems
-
-Insectary strips are bands of flowering plants planted between crop rows,
-along field margins, or within orchards. In vegetable systems, alternate rows
-of cash crops and insectary plants break up pest habitat continuity while
-providing refuges for predators. In orchard systems, flowering ground covers
-beneath trees support pollinators during blossom period and predators
-throughout the season.
-
-In [[mollison-designers-market-garden-intensive-production-design]], insectary borders surround production
-beds. The principle is universal: every production system benefits from
-adjacent habitat for beneficial organisms.
-
-## See Also
-
-- [[mollison-designers-internet-of-plants-information-sharing]]
-
-- [[hemenway-insectary-plants-and-beneficial-insects]]

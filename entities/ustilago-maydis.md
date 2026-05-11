@@ -12,7 +12,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dy
 
 Ustilago maydis is a basidiomycete fungus that causes corn smut
 disease in maize (Zea mays). It is one of the most thoroughly studied
-plant pathogenic fungi and serves as a model organism for
+plant [[cordyceps-insect-pathogenic-fungi]] and serves as a [[canary-grass-phototropism-model-organism]] for
 understanding fungal plant pathogenicity, dimorphism, and biotrophic
 interactions.
 
@@ -33,9 +33,9 @@ centuries.
 
 U. maydis is classified within the Ustilaginomycetes, a group distinct
 from both the Hymenomycetes (including [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]) and
-the Urediniomycetes (rust fungi). It is one of the few
+the Urediniomycetes ([[biodiversity-rust-fungi-urediniomycetes]]). It is one of the few
 Ustilaginomycete species with a fully sequenced genome, providing a
-genomic resource for understanding smut fungal evolution.
+genomic resource for understanding smut [[bloomfield-chytrid-fungi-early-fungal-evolution]].
 
 ## Dimorphism and Life Cycle
 
@@ -71,7 +71,7 @@ physiology during biotrophic growth. Studies of the mating-type locus
 have revealed an unusual bipolar mating system and the evolution of
 sex chromosomes in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
-Comparative genomics with Magnaporthe grisea and Fusarium graminearum
+Comparative genomics with [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] and [[fusarium-graminearum]]
 has revealed both shared and unique features of plant pathogenicity
 across the Ascomycota-Basidiomycota divide, providing insights into
 the evolution of fungal plant parasites from saprotrophic ancestors.
@@ -88,40 +88,3 @@ The disease cycle involves sporidia landing on maize surfaces,
 compatible mating type fusion to form a dikaryotic filament, plant
 penetration through appressorium-like structures using both physical
 force and enzymatic activity, and tumor formation at infection sites
-as the fungus manipulates plant cell division and expansion.
-
-Teliospores develop within tumors, completing the life cycle and
-producing the characteristic dark, sooty spore masses. The biotrophic
-lifestyle distinguishes U. maydis from necrotrophic pathogens like
-many Fusarium species and hemibiotrophic pathogens like Magnaporthe
-grisea.
-
-## Plant-Fungus Interactions
-
-U. maydis has been used to study fundamental aspects of plant
-immunity, including effector proteins that suppress plant defense
-responses, secreted proteins that manipulate host cell physiology
-including vesicle trafficking, and the roles of plant hormones
-including auxin and cytokinin in tumor formation.
-
-RNA interference pathways in fungal pathogenicity have also been
-studied using U. maydis as a model, with the species serving as a
-system for understanding RNAi-dependent regulation of virulence genes
-during plant infection.
-
-## Research Significance
-
-U. maydis has contributed to understanding fungal dimorphism and its
-regulation, mating-type systems and [[cannabis-sex-determination-floral-biology]] in
-basidiomycetes, biotrophic plant pathogenicity mechanisms and effector
-biology, and comparative genomics of [[bloomfield-fungal-pathogens-and-parasites]] across major
-fungal lineages.
-
-## See Also
-Related: [[plant-life-rhythms-pulsatory-growth]], [[soil-food-web-nutrient-cycling]]
-
-- [[fungal-plant-diseases]]
-
-- [[fusarium-oxysporum]]
-- [[blumeria-graminis]]
-- [[rhizoctonia-solani]]

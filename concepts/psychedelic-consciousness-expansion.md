@@ -23,7 +23,7 @@ Consciousness expansion means accessing informational patterns that are normally
 
 ### Chemical Dismantling of Constraints
 
-Chemically dismantling the raphe system's screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. Fungal degradation and psychedelic consciousness expansion both display pseudo-first-order kinetics, where rates depend on initial conditions rather than specific enzymatic matches.
+Chemically dismantling the raphe system's screening effect admits the entry of latent information into consciousness. In bacterial systems, metabolism is governed by Michaelis-Menten kinetics. [[chlorobenzene-chlorophenoxy-fungal-degradation]] and psychedelic consciousness expansion both display pseudo-first-order kinetics, where rates depend on initial conditions rather than specific enzymatic matches.
 
 ### Increased Neuronal Activity
 
@@ -49,7 +49,7 @@ Unlike ordinary dreams, which fade quickly, psilocybin visions "remain fairly em
 
 ## From Expansion to Understanding
 
-Powell argues that consciousness expansion is not merely an interesting subjective experience but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
+Powell argues that consciousness expansion is not merely an interesting [[dosage-unpredictability-psilocybin-subjective-experience]] but a form of empirical investigation. Since consciousness mediates all our models of reality, changing consciousness changes our access to information about reality. "New forms of conscious experience might well offer us a glimpse into the biggest questions that face our mortal existence."
 
 The expanded state reveals that:
 - Reality is more interconnected than normal perception suggests
@@ -60,7 +60,7 @@ The expanded state reveals that:
 
 ## The Universal Computation
 
-Powell frames reality itself as a computation-like process. The Universe is "a rushing river of integrating information" destined to reach "some final organised form." Consciousness expansion through psilocybin provides a preview of this eventual state of informational unity. The Omega Point concept (from Pierre Teilhard de Chardin) and the attractor concept (from Terence McKenna) both suggest that reality is being drawn toward a state of complete information integration.
+Powell frames reality itself as a computation-like process. The Universe is "a rushing river of integrating information" destined to reach "some final organised form." Consciousness expansion through psilocybin provides a preview of this eventual state of informational unity. The [[omega-point-and-psychedelic-eschatology]] concept (from Pierre Teilhard de Chardin) and the attractor concept (from [[terence-mckenna]]) both suggest that reality is being drawn toward a state of complete information integration.
 
 When human consciousness succeeds in realising its true role within reality, and when "the Other has fully transformed or reflected itself within the totality of Gaia," this will represent the attractor or final stage of the reality process. Consciousness expansion provides glimpses of this ultimate state.
 
@@ -87,27 +87,3 @@ Powell's concept of "increased degrees of cognitive freedom" suggests that consc
 - [[psilocybin-and-mystical-experience]]
 
 ## Related
-
-- [[psilocybin-and-mystical-experience]]
-
-## Merged: Gaia Hypothesis And Psychedelic Shamanism
-
-# Gaia Hypothesis and Psychedelic Shamanism
-
-Simon G. Powell develops a sophisticated argument in "The [[powell-psilocybin-solution-ecological-cognition-theory]]" that connects the Gaia hypothesis — the idea that Earth's biosphere functions as a single living system — with the [[leary-psychedelic-experience-bardo-mapping]] accessed through entheogen-culture|entheogenic plants and fungi. Powell's synthesis proposes that sacred mushrooms are not merely chemical curiosities but organic components of a planetary intelligence system, what [[ceremonial-shamanic-use-psychoactive-mushrooms]] as a form of communication with the Gaian intelligence. Traditional shamans who employ psychoactive flora to gain transcendental knowledge are, in his view, accessing information that is distributed throughout the biospheric system.
-
-The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] itself is presented as a legitimate natural product of Nature — an unusual piece of Gaian fabric, but no more artificial than the oxygen we breathe. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] grow throughout Europe and North America, not just in Mexico. The Earth, Gaia, is described as "a far more efficient and ubiquitous supplier of entheogens than the lab-men at Sandoz," secretly churning out millions of psilocybin mushrooms across its skin.
-
-## The Biosphere as Context for Brain Function
-
-Powell argues that a brain cannot be understood properly unless the context in which it exists is taken into account. This context is the environment with its vast network of language-like relations. Nothing remains isolated within the environment. All organisms derive their meaning and their function according to the role they play in the entire Gaian system.
-
-The serotonin neurotransmitter system, through which psilocybin exerts its effects, is itself a product of environmental chemistry — derived from raw materials available in food. This means that consciousness itself is environmentally embedded. The psilocybin experience, arising from an environmentally driven alteration in brain chemistry, is therefore wholly natural.
-
-## Latent Information and Latent Purpose
-
-Powell develops the idea that the environment is just as much a part of the evolutionary process as the organisms which are elicited. Gaia is a self-stimulational informational system able to achieve highly integrated forms of information because all the information needed was written into previous states of the Gaian system.
-
-Every creature and every organ or behavioural capacity was latent within the Earth's organic chemistry. Just as a complete human being is latent within the language of the human genome, so too was the process of evolution written as an immanent faculty into the entire field of conditions on Earth in the distant past. This implies that Nature is replete with a priori sensibility and meaningfulness.
-
-## The Role of Human Consciousness in Gaia

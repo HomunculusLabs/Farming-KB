@@ -87,26 +87,3 @@ Digestibility is high (65–72% organic matter digestibility), making it compara
 Vicia sativa seeds contain β-cyano-L-alanine and γ-glutamyl-β-cyano-L-alanine, which are neurotoxic amino acids that can cause locomotor disturbances in livestock.
 
 Consumption of large quantities of seeds has been associated with a condition called vetch toxicosis or vetch lathyrism in poultry and livestock.
-
-The toxicity is dose-dependent, and levels vary between cultivars and subspecies; low-toxin cultivars have been developed for forage use.
-
-## Permaculture Applications
-
-Common vetch is widely used in permaculture and regenerative agriculture as a winter cover crop to protect soil from erosion and suppress weeds.
-
-Its rapid growth and climbing habit make it effective at outcompeting winter annual weeds, and the biomass it produces adds significant organic matter to the soil.
-
-The species is an excellent companion plant for cereals and brassicas, providing nitrogen to companion crops while its tendrils can serve as a living mulch.
-
-In polyculture systems, vetch is often intercropped with oats, rye, or barley for dual-purpose grain and nitrogen benefits.
-
-The species also supports [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] populations, providing nectar and pollen for pollinators during its flowering period.
-
-As a chop-and-drop mulch crop, common vetch can be cut at peak biomass and left on the soil surface to decompose, suppressing weeds and gradually releasing nitrogen.
-
-## See Also
-
-- [[trifolium-pratense]]
-- [[lotus-corniculatus]]
-- [[alfalfa-medicago-sativa]]
-- [[companion-planting-guild]]

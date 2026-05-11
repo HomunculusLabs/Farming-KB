@@ -5,18 +5,19 @@ tags:
   - cannabis
   - ethylene
   - sex reversal
-  - feminized seeds
+  - [[cannabis-feminized-seeds]]
   - plant hormones
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Ethylene and Hormonal Sex Reversal in Cannabis
 
-Ethylene is a plant hormone that plays a central role in cannabis sex
+Ethylene is a plant hormone that plays a central role in [[cannabis-sex-determination-floral-biology]]
 determination. Understanding how ethylene regulates floral development
 has enabled breeders to develop techniques for producing feminized
 (all-female) seed through hormonal sex reversal.
@@ -34,7 +35,7 @@ system determines whether it develops male or female flowers. High
 ethylene levels promote female flower development, while suppression of
 ethylene activity leads to male flower formation. Other plant hormones
 including gibberellins, cytokinins, and auxins also interact with
-ethylene to influence overall plant development and stress responses.
+ethylene to influence overall plant development [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]].
 
 ## Ethylene and Sex Manipulation
 
@@ -71,7 +72,7 @@ pollen production even in the most reversal-resistant genotypes.
 
 To select against the intersex condition, breeders grow their chosen
 female candidates under stressful conditions that may lead to male
-flower formation, including irregular light cycles and high heat. Only
+flower formation, including irregular [[cannabis-photoperiodism-and-light-cycles]] and high heat. Only
 plants that resist intersexuality under these conditions should be
 considered as potential breeding parents for creating all-female seed
 lines. These are called intersex-resistant true females.
@@ -85,25 +86,5 @@ collecting pollen from stress-induced hermaphrodites.
 ## The Sex Reversal Process
 
 Clone copies of selected female breeding candidates are sprayed with the
-hormone treatment and placed into the flowering cycle. It typically
+hormone treatment and placed into the [[cannabis-photoperiod-flowering-cycle]]. It typically
 takes three to five weeks for the plants to enter dehiscence and shed
-pollen. True female candidates that resist intersexuality under typical
-stresses are then pollinated by this gender-reversed pollen.
-
-The result is a true gynoecious population consisting entirely of female
-plants, without the intersex tendencies that come from using pollen
-from stress-induced hermaphrodites.
-
-## Sex Chromosomes
-
-Cannabis sex is determined by the 10th pair of chromosomes, the smallest
-pair. Female plants have two copies of the X chromosome (XX genotype).
-Male plants have one X and one Y chromosome (XY genotype). A female-
-to-female cross (XX x XX) produces only female (XX) offspring, which is
-the genetic basis of feminized [[cervantes-seed-production-storage]].
-
-## See Also
-
-- [[cervantes-hermaphrodism-intersexuality]] - Intersex plants
-- [[cannabis-genetics-and-breeding]] - Breeding fundamentals
-- [[cervantes-dominance-recessive-traits-alleles]] - Genetic inheritance

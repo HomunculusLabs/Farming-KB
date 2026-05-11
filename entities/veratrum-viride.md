@@ -19,8 +19,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mead, J.E. (1904). "Veratrum Viride (American Hellebore): A Study of Its History, Uses, and Active Principles." American Journal of Pharmacy.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." New York Botanical Garden.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." Timber Press.
   - USDA, NRCS. "Veratrum viride." PLANTS Database. https://plants.usda.gov/
 ---
@@ -88,53 +88,3 @@ soils, typically in partial shade to full sun. Elevation: 0–1,800 m.
 ## Toxicity and Chemistry
 
 All parts of V. viride are extremely toxic. The primary toxic
-principles are steroidal alkaloids that act as sodium channel
-agonists, forcing persistent sodium influx and causing prolonged
-depolarization.
-
-**Major alkaloids:**
-- **Jervine** — teratogenic; causes cyclopia and holoprosencephaly in
-  developing embryos (demonstrated in sheep and laboratory animals).
-- **Cevadine** — potent sodium channel activator; causes hypotension
-  and cardiac arrhythmias.
-- **Veratridine** — widely used as a neuropharmacological research
-  tool for studying sodium channel physiology.
-- **Protoveratrine A and B** — antihypertensive alkaloids that were
-  briefly used clinically before synthetic alternatives.
-
-**Symptoms of poisoning:** burning mouth, nausea, vomiting, abdominal
-cramping, bradycardia progressing to ventricular fibrillation,
-hypotension, and potentially death. Fatal poisoning has been documented
-in both humans and livestock, particularly sheep grazing early spring
-shoots. The LD₅₀ in animals is approximately 2–5 mg/kg (IV) for
-protoveratrine.
-
-## Historical and Medicinal Use
-
-Despite its toxicity, V. viride was used medicinally by both
-indigenous peoples and Euro-American physicians. The Iroquois applied
-poultices of the root for swelling and snakebite, and used it as an
-emetic in ceremonial contexts.
-
-The Eclectic physicians (1850–1920) prescribed *Veratrum viride*
-tincture in minute doses (1–5 drops) as a "cardiac depressant" and
-arterial sedative for hypertension, preeclampsia, and mania.
-Commercial preparations were available as "Veratrum Virid." The
-[[blesching-cannabis-therapeutic-window-dosing]] was extremely narrow, and poisoning was not
-uncommon. The drug fell out of use as safer antihypertensives
-emerged in the mid-20th century.
-
-## Permaculture and Ecology Considerations
-
-V. viride is not cultivated in permaculture systems due to its extreme
-toxicity. It is, however, an indicator species for wet, nutrient-rich
-meadow habitats and contributes to montane plant community diversity.
-Pollinators include various bees and flies attracted to the nectar.
-
-## See Also
-
-- [[herbal-baths-and-hydrotherapy]]
-- [[digitalis-purpurea]]
-- nicotiana tabacum
-- [[atropa-belladonna]]
-- podophyllum peltatum

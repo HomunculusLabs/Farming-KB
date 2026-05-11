@@ -1,14 +1,15 @@
 ---
-title: fukuoka-flavor-philosophy-spiritual-alienation-food and fukuoka-textdoc-flavor-delusion-and-spiritual-alienation-from-food from Food
+title: Fukuoka Textdoc Flavor Philosophy Spiritual Alienation Food
 tags:
   - fukuoka
   - food-philosophy
   - flavor
-  - natural-diet
+  - [[natural-diet]]
   - spiritual-health
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
 
@@ -17,7 +18,7 @@ created: 2026-05-07
 
 ## Overview
 
-Masanobu Fukuoka presents a radical philosophy of flavor that challenges the
+[[masanobu-fukuoka]] presents a radical philosophy of flavor that challenges the
 entire foundation of modern food culture. He argues that man has become
 spiritually alienated from food, that the human sense of taste has gone
 haywire, and that the pursuit of deliciousness has paradoxically made truly
@@ -71,13 +72,13 @@ delude themselves into thinking of white rice, "which has been stripped of
 the aroma and taste peculiar to rice, as high-grade rice." Refinements in
 flavoring with petroleum-derived protein have created people unaware that
 their entire diet has been converted into an artificial diet. Meat is no
-longer meat and fish no longer fish. The locus of flavor has shifted from
+longer [[smoking-meat-and-fish]] no longer fish. The locus of flavor has shifted from
 nature to the food product itself.
 
 ## The Fox Folk Tale About Eating Horse Manure
 
 Fukuoka recounts a Japanese folk tale that perfectly illustrates his point
-about spiritual alienation. "One Japanese folk tale tells of how, deceived
+about [[fukuoka-flavor-philosophy-spiritual-alienation-food]]. "One Japanese folk tale tells of how, deceived
 by a fox, people are made to eat horse manure." But he warns that we should
 not laugh at this story, for "people today eat with their minds and not
 with their body."
@@ -87,40 +88,3 @@ the flavor of the seasonings added to the bread." People nowadays seem to
 live by feeding on a mist of notions. Man originally ate because he was
 alive, because something was delicious, but modern man eats to live and
 thinks that if he does not prepare and dine on choice cuisine, he will not
-be able to eat delicious food.
-
-## The Illusion That Delicious Food Requires Preparation
-
-The core of Fukuoka's flavor philosophy is that trying to create delicious
-food is precisely what destroys it. "In our efforts to make bread tastier,
-bread has ceased to taste good." We have grown energy-extravagant crops,
-livestock, and fowl to create a world of plenty, "and instead triggered
-famine and starvation."
-
-"Why is it that the more he strives to produce delicious rice, fruit, and
-vegetables, the more inaccessible these become?" People work so hard to
-make something delicious that they end up deceiving themselves into thinking
-it so. No one attempts to look directly at the truth of flavor. The only
-ones that win out are the manufacturers which exploit these deceptions.
-
-"What does it take to come by truly delicious food? All we have to do is
-stop trying to create delicious food and we will be surrounded by it."
-True cooking and the pursuit of true flavor are to be found in a
-comprehension of the subtle and exquisite flavors of nature. People who
-cannot eat wild herbs without removing their natural astringency are unable
-to enjoy the flavors of nature. The practical wisdom of early man who sun-
-dried [[growing-root-vegetables-guide]] and pickled them in salt, [[jadam-rice-bran-problems]], or miso,
-enjoying their special taste and aroma, demonstrates a deep understanding
-of the essence of natural flavor that modern gourmands have entirely lost.
-
-Fukuoka concludes that "true culture arises from within nature, and is
-pure, modest, and simple." A culture born of human recreation and vanity
-that is divorced from nature cannot become a true culture. When mankind
-forsakes a [[fukuoka-natural-diet-as-foundation]] for a civilized diet, he turns away from a true
-culture and sets off on the road to decline. "Zen and food are one."
-
-## Related Concepts
-
-- [[fukuoka-textdoc-nature-of-food]]
-- [[fukuoka-textdoc-four-types-of-diet-classification]]
-- [[fukuoka-textdoc-staff-of-life-critique-western-dietetics]]

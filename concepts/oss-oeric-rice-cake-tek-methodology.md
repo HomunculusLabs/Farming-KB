@@ -88,21 +88,3 @@ The authors emphasize that the method can be adapted to any scale from
 a few jars to thousands. No special training in mycology or microbiology
 is necessary, only careful attention to sterile procedure. The method
 is described as only slightly more complicated than canning or making
-jelly.
-
-## Relationship to Modern Cultivation Techniques
-
-The four-step process described by Oss and Oeric became the conceptual
-foundation for virtually all subsequent indoor [[synthetic-log-cultivation-methods-guide]]. The
-PF Tek ([[pf-tek-psilocybe-fanaticus-cultivation-method]] Technique), developed in the 1990s,
-simplified the process by eliminating the agar stage and using brown
-rice flour and vermiculite as a substrate. However, the basic
-principles of [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], inoculation, colonization, casing,
-and controlled fruiting environment remain unchanged. See
-[[pf-tek-cultivation-method]] for the modern simplified approach.
-
-## Related Topics
-
-- [[oss-oeric-terrarium-design-and-humidity]] for fruiting chambers
-- [[spore-syringe-preparation]] for spore handling
-- [[oss-oeric-equipment-and-materials-list]] for supplies

@@ -17,12 +17,12 @@ sources:
   - Tylš, F. et al. (2014). "Psilocybin: pharmacology and subjective effects." *Journal of Psychopharmacology*, 28(2), 141-150.
   - Carhart-Harris, R.L. et al. (2016). "Psilocybin with psychological support for treatment-resistant depression." *The Lancet Psychiatry*, 3(7), 619-627.
   - Johns Hopkins University Center for Psychedelic and Consciousness Research.
-  - Erowid Psilocybin Mushroom Vault (erowid.org).
+  - Erowid [[african-psilocybin-mushroom-guide]] Vault (erowid.org).
 ---
 
 # Golden Teacher ([[psilocybe-cubensis]])
 
-Golden Teacher is one of the most widely recognized and cultivated strains of *Psilocybe cubensis*, a [[archaeology-of-psychedelic-mushroom-use]] species containing the psychoactive compounds psilocybin and psilocin. Known for its distinctive golden-brown caps and its reputation as a forgiving strain for novice cultivators, Golden Teacher has become a foundational variety in both recreational and research contexts within the psychedelic mycology community.
+Golden Teacher is one of the most widely recognized and cultivated strains of *Psilocybe cubensis*, a [[archaeology-of-psychedelic-mushroom-use]] species containing the psychoactive compounds [[hplc-analysis-of-psilocybin-and-psilocin]]. Known for its distinctive golden-brown caps and its reputation as a forgiving strain for novice cultivators, Golden Teacher has become a foundational variety in both recreational and research contexts within the psychedelic mycology community.
 
 ## Taxonomy
 
@@ -30,7 +30,7 @@ Golden Teacher is one of the most widely recognized and cultivated strains of *P
 - **Order:** Agaricales · **Family:** Hymenogastraceae · **Genus:** *Psilocybe*
 - **Species:** *P. cubensis* (Ehrenb.) Singer · **Strain:** Golden Teacher
 
-*Psilocybe cubensis* is a coprophilous (dung-inhabiting) fungus originally described from Cuba and distributed throughout tropical and subtropical regions worldwide. Golden Teacher is a domesticated strain selection rather than a distinct taxonomic variety. Like all *P. cubensis*, it falls under the section *Cubensis* within the genus, characterized by the presence of psilocybin and psilocin as primary active alkaloids, along with trace amounts of baeocystin and norbaeocystin.
+*Psilocybe cubensis* is a coprophilous (dung-inhabiting) fungus originally described from Cuba and distributed throughout tropical and subtropical regions worldwide. Golden Teacher is a domesticated strain selection rather than a distinct taxonomic variety. Like all *P. cubensis*, it falls under the section *Cubensis* within the genus, characterized by the presence of psilocybin and psilocin as primary active alkaloids, along with trace amounts of [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]].
 
 ## History and Origin
 
@@ -47,7 +47,7 @@ Golden Teacher exhibits the classic *P. cubensis* morphology with some distingui
 - **Spore Print:** Dark purple-brown to nearly black. **Odor:** Farinaceous, not distinctive.
 - **Microscopic:** Spores elliptical to subovoid, 11–17 × 7–12 µm, thick-walled, with distinct germ pore.
 
-**Caution:** Golden Teacher should not be confused with toxic lookalikes such galerina marginata nata* (deadly) or other non-psychoactive species. Accurate identification requires careful examination of spore print color, bruising reaction, gill attachment, and microscopic features.
+**Caution:** Golden Teacher should not be confused with toxic lookalikes such [[galerina-marginata]] nata* (deadly) or other non-psychoactive species. Accurate identification requires careful examination of spore print color, bruising reaction, gill attachment, and microscopic features.
 
 ## Potency Profile
 
@@ -61,7 +61,7 @@ These values place Golden Teacher in the mid-range for *P. cubensis* strains —
 
 ## Cultivation Methods
 
-Golden Teacher is prized for its resilience and adaptability, making it suitable for a wide range of cultivation techniques:
+Golden Teacher is prized for its resilience and adaptability, making it suitable for a wide range of [[cannabis-sativa-indoor-cultivation-techniques]]:
 
 ### PF Tek (Psilocybe Fanaticus Technique)
 
@@ -75,7 +75,7 @@ Rye grain, wheat berries, or millet are hydrated, loaded into quart jars, steril
 
 For higher yields, fully colonized grain spawn is mixed with pasteurized bulk substrates such as coconut coir and vermiculite (CVG), aged horse or cow manure, or straw-based mixes. Common ratios range from 1:2 to 1:4 (spawn:substrate by volume). Spawned tubs are colonized in the dark and then in fruiting conditions g conditions (fresh air exchange, high humidity, indirect light). Golden Teacher is known to produce large, robust flushes on bulk substrates with minimal contamination risk.
 
-Optimal environmental parameters include temperatures of 23–27°C for colonization and 20–24°C for fruiting, relative humidity above 90%, and 12 hours of indirect light per day.
+Optimal [[mushroom-cultivation-environmental-parameters]] include temperatures of 23–27°C for colonization and 20–24°C for fruiting, relative humidity above 90%, and 12 hours of indirect light per day.
 
 ## Effects and Duration
 
@@ -88,60 +88,3 @@ The effects of Golden Teacher are characteristic of psilocybin-containing mushro
 - **Total duration:** 4–7 hours
 
 ### Common Effects
-
-- **Visual:** Enhanced color saturation, geometric patterning (especially with eyes closed), wavering or breathing of surfaces, tracers
-- **Cognitive:** Altered thought patterns, philosophical introspection, enhanced creativity, ego dissolution at higher doses, synesthesia
-- **Emotional:** Euphoria, awe, connectedness; challenging emotions (fear, grief) may also surface
-- **Physical:** Dilated pupils, increased heart rate, mild nausea (often during onset), yawning, changes in body temperature perception
-
-### Dosage Ranges (dried mushroom weight)
-
-| Level | Approx. Dose | Description |
-|-------|-------------|-------------|
-| Threshold | 0.25–0.5 g | Subtle mood lift, enhanced colors |
-| Light | 0.5–1.5 g | Mild visuals, introspection |
-| Moderate | 1.5–3.0 g | Clear visuals, altered cognition |
-| Strong | 3.0–5.0 g | Intense experience, ego dissolution possible |
-| Heroic | 5.0 g+ | Full immersion, mystical-type experience |
-
-## Therapeutic Potential
-
-Psilocybin, the primary psychoactive compound in Golden Teacher, has been the subject of a significant resurgence in [[hofmann-lsd-clinical-research-early-studies]] since the 2000s. Key findings include:
-- **Treatment-resistant depression:** Rapid and sustained antidepressant effects demonstrated by Carhart-Harris et al. (2016, 2021), persisting months after limited sessions.
-- **End-of-life anxiety:** Johns Hopkins and NYU studies show significant reduction in anxiety/depression in cancer patients.
-- **Addiction:** Promising abstinence rates for smoking cessation and alcohol dependence.
-- **Neuroplasticity:** Promotes structural/functional plasticity in the prefrontal cortex, likely underpinning therapeutic effects.
-
-Therapeutic use occurs in controlled clinical settings with professional support — not through self-administration.
-
-## Legal Status
-
-Legal status varies significantly by jurisdiction:
-- **United States:** Schedule I federally. Oregon and Colorado have regulated therapeutic access; numerous cities have deprioritized enforcement. Spore syringes legal in most states (except CA, GA, ID).
-- **Canada:** Schedule III; medical exemptions via special access programs.
-- **Netherlands:** Fresh truffles sold legally; dried mushrooms banned since 2008.
-- **Brazil & Jamaica:** Not explicitly scheduled; retreat centers operate openly in Jamaica.
-- **International:** Scheduled under the 1971 UN Convention; Portugal and others have decriminalized personal possession.
-
-## Harm Reduction
-Responsible use of Golden Te psilocybin mushrooms ocybin mushrooms involves several key harm-reduct [[set-and-setting]]
-- **Set and setting:** Mindset and environment are the strongest predictors of experience quality. Choose a calm, familiar space with trusted individuals.
-- **Dosing:** Start low and go slow. Weigh accurately. Avoid mixing with alcohol, other psychedelics, or MAOIs.
-- **Screening:** Individuals with personal/family history of psychotic disorders should avoid psychedelics due to elevated risk.
-- **Trip sitting:** A sober, experienced sitter is recommended for higher doses or first-time users.
-- **Substance testing:** Use reagent kits to verify identity and detect adulterants from untrusted sources.
-- **Integration:** Post-experience journaling, discussion, or therapy helps consolidate insights.
-- **Interactions:** Psilocybin may interact with SSRIs, TCAs, lithium, and other medications; consult a healthcare professional.
-
-## Popular Culture Significance
-Golden Teacher occupies a prominent place in contemporary psychedelic culture:
-- **Cultivation community:** The default recommended beginner strain on mycology forums, spawning countless grow logs and tutorials.
-- **Visual media:** Frequently featured in psychedelic documentaries including *Fantastic Fungi* (2019).
-- **Music and art:** Its name has become shorthand for the archetypal "magic mushroom" experience in creative communities.
-- **Psychedelic renaissance:** Serves as the most accessible entry point for cultivation, microdosing, and community-based practice.
-- **Microdosing:** One of the most commonly cited strains; clinical evidence remains mixed, with some studies showing placebo-dominant effects.
-## See Also
-
-- [[golden-teacher-cannabis]]
-- [[psychedelic-mushroom-set-and-setting]]
-- [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]

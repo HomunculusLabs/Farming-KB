@@ -1,5 +1,5 @@
 ---
-title: Sweet Potato Growing Guide
+title: Sweet Potato Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Sweet Potato Growing Guide
 
-Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes (Solanum tuberosum), sweet potatoes are in the morning glory family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage. (see [[strawberry-growing-guide]]).
+Sweet potatoes ([[ipomoea-batatas]]) are a warm-climate perennial grown as an annual in most of the US. They produce large, calorie-dense tubers that store for months. Unlike regular potatoes ([[solanum-tuberosum]]), sweet potatoes are in the [[golden-guide-morning-glory-and-ololiuqui]] family and have very different growing requirements. This guide covers slips, soil, planting, hilling, curing, and storage.
 
 ## Understanding Sweet Potatoes
 
-- **Not yams** — true yams (Dioscorea species) are a completely different plant from Africa/Asia. American "yams" are just orange-fleshed sweet potatoes. (see [[tropical-gardening]]).
+- **Not yams** — true yams (Dioscorea species) are a completely different plant from Africa/Asia. American "yams" are just orange-fleshed sweet potatoes.
 - **Not related to regular potatoes** — different family, different growing needs, different nutrient profile.
 - **Vining plant** — produces long trailing vines that can root at nodes.
 - **Tropical/subtropical origin** — needs warmth above all else.
@@ -24,7 +24,7 @@ Sweet potatoes (Ipomoea batatas) are a warm-climate perennial grown as an annual
 |-------------|---------------|-----------|
 | Orange | Sweet, moist, classic "yam" flavor | Beauregard, Covington, Jewel, Georgia Jet |
 | White | Drier, milder, chestnut-like | O'Henry, Nancy Hall, Hayman |
-| Purple | Dense, mildly sweet, antioxidant-rich | Stokes Purple, Okinawan, Purple Passion |
+| Purple | Dense, mildly sweet, antioxidant-rich | Stokes Purple, Okinawan, [[haze-plum-purple-passion-medical-sativa-strain]] |
 | Red | Sweet, rich, moist | Centennial, Red Jewel |
 
 ### Most Recommended for Home Gardens
@@ -99,7 +99,7 @@ Sweet potatoes are more forgiving about soil than many crops, but certain condit
 ## Hilling
 
 - Unlike regular potatoes, sweet potatoes do NOT require hilling for tuber production.
-- However, light hilling or adding a thin layer of soil/sand once during the growing season can:
+- However, light hilling or adding a thin layer of soil/sand once during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] can:
   - Protect shallow tubers from sun exposure (green spots are bitter).
   - Improve drainage around the root zone.
   - Reduce weeding in the row.

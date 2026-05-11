@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,37 +88,3 @@ While Cervantes does not use the term "vapor pressure deficit"
 explicitly, the principles are thoroughly covered:
 
 - Avoid large temperature swings between day and night cycles
-- Use air circulation fans to maintain even temperature and humidity
-  throughout the canopy
-- Monitor humidity with a hygrometer positioned at canopy level
-- Use dehumidifiers during flowering to keep humidity below 50
-  percent
-- Increase airflow when humidity is high to accelerate moisture
-  removal
-- Misting foliage can temporarily raise local humidity around
-  stressed plants but should be done early in the light cycle so
-  foliage dries before lights off
-
-Growers should pay close attention to the interplay between
-temperature and humidity. Warm air holds more moisture than cool
-air, so the same relative humidity represents a much higher vapor
-pressure deficit at higher temperatures. This means plants
-transpire much more rapidly on warm days even when relative
-humidity readings appear adequate.
-
-## Signs of Transpiration Stress
-
-Plants that are transpiring too rapidly (low humidity, high
-temperature) show upward-curling leaf margins, limp or flaccid
-foliage, and accelerated water consumption. Plants in stagnant,
-humid air may show drooping even when adequately watered because
-stomata cannot effectively exchange gases. The key is maintaining
-the balance where transpiration drives nutrient flow from roots to
-leaves without causing excessive moisture loss.
-
-## See Also
-
-- [[cervantes-co2-enrichment]] - CO2 effects on stomata and growth
-- [[cervantes-air-quality-ventilation]] - airflow and environment
-  control
-- [[cervantes-vegetative-phase]] - environmental needs during growth

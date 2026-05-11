@@ -1,10 +1,11 @@
 ---
-title: Pine Disease and pine disease and [[matsutake-mushroom]] decline Decline
+title: Pine Disease And Matsutake Mushroom Decline
 created: 2026-04-28
 tags: [forest-ecology, mycology, pine-disease, matsutake, soil-microbiology, ecosystem-cascade, masanobu-fukuoka]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - title: "The Natural Way of Farming"
     author: "masanobu-fukuoka-natural-farming-philosophy"
     pages: "407-410, 3544-3597"
@@ -87,11 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

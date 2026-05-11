@@ -88,30 +88,3 @@ among mycorrhizal genera Amanita, Russula, and Cortinarius, where cryptic
 diversity is revealed by molecular methods.
 
 ## Conservation Concerns
-
-Habitat loss represents the primary threat. Conversion of bottomland hardwood
-forests to agriculture, urbanization of the Piedmont, and loss of longleaf pine
-savanna have all reduced substrate availability. The decline of American
-chestnut eliminated a major mycorrhizal host, likely driving extirpations of
-associated species before documentation. Hemlock woolly adelgid infestations now
-threaten eastern hemlock, another keystone ectomycorrhizal host in Appalachian
-cove forests. Climate change poses additional long-term threats through warming
-temperatures and altered precipitation patterns disrupting seasonal fruiting
-cues.
-
-## Research History and Institutions
-
-Fungal documentation dates to early mycological surveys of the 19th century.
-Notable collectors including William A. Murrill, R.W. Davidson, and H.D.
-Thurston contributed specimens from the Great Smoky Mountains. Modern efforts
-through citizen science platforms continue expanding the known fungal inventory.
-The North Carolina Museum of Natural Sciences maintains a significant fungal
-herbarium, and citizen science contributions through iNaturalist and Mushroom
-Observer have substantially increased distribution records.
-
-## See Also
-
-- [[palmer-russula-lactarius-families]]
-- [[chanterelle-species-eastern-us]]
-- morels
-- [[polypore-fungi-eastern-north-america]]

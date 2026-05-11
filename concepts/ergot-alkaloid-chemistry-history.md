@@ -1,5 +1,5 @@
 ---
-title: Ergot ergot alkaloid chemistry history and History
+title: Ergot Alkaloid Chemistry History
 created: 2026-04-28
 tags: [ergot, alkaloids, history, ethnomycology]
 date: 2026-04-25
@@ -44,19 +44,19 @@ Ergot produces two broad classes of alkaloids:
 
 1. **Peptide alkaloids:** These include ergotamine and ergometrine
    (ergonovine). They are more toxic and responsible for the
-   vasoconstrictive and gangrenous effects of ergot poisoning.
+   vasoconstrictive and gangrenous effects of [[bloomfield-salem-witch-trials-ergot-poisoning-caporael-hypothesis]].
    Ergotamine is used medicinally for migraine treatment, while
    ergometrine is used to control postpartum hemorrhage by inducing
    uterine contractions.
 
-2. **Simple (clavine) alkaloids:** These include lysergic acid amide
+2. **Simple (clavine) alkaloids:** These include [[lysergic-acid-amide]]
    (LSA) and related compounds. They are less toxic and more
    psychoactive, similar in structure to the alkaloids found in morning
    glory seeds (Ipomoea and Rivea species).
 
-The core structural element of all ergot alkaloids is lysergic acid,
-from which LSD (lysergic acid diethylamide) was first synthesized by
-Albert Hofmann in 1938 at Sandoz Laboratories in Basel, Switzerland.
+The core structural element of all [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] is lysergic acid,
+from which LSD ([[lsd-lysergic-acid-diethylamide-experience-guide]]) was first synthesized by
+[[albert-hofmann]] in 1938 at Sandoz Laboratories in Basel, Switzerland.
 LSD represents the most potent known psychedelic compound, active at
 doses measured in micrograms.
 
@@ -88,38 +88,3 @@ Roman Empire and in the Salem witch trials of 1692.
 
 The discovery of LSD's extraordinary psychoactive properties in 1943,
 when Albert Hofmann accidentally absorbed a tiny amount through his
-fingertips, launched the modern psychedelic era. LSD-type compounds are
-found in several related genera of [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] and in ergot. Though
-rare in nature, they became the best-known hallucinogens because
-millions of doses were manufactured and distributed during the 1960s.
-
-LSD is a psychedelic requiring relatively large doses to elicit the
-"hallucinogenic paradis artificiel" of vivid hallucinations produced by
-DMT and psilocybin at more conventional doses. However, researchers
-stressed the importance of LSD's nonhallucinogenic effects: mind
-expansion, increased speed of thought, and enhanced ability to
-understand complex behavioral patterns and decision-making networks.
-
-LSD continues to be manufactured in larger amounts than any other
-hallucinogen and has shown promise in psychotherapy and alcoholism
-treatment, though media hysteria has limited research into its
-potential therapeutic applications.
-
-## Claviceps paspali: A Less Toxic Alternative
-
-Claviceps paspali, which preferentially infects barley rather than rye,
-may offer a more favorable alkaloid profile. It potentially contains a
-higher proportion of the psychoactive but less toxic "simple" ergot
-alkaloids (similar to those in morning glories) and a lower proportion
-of toxic peptide-containing alkaloids. Wasson and Hofmann reported in
-The [[the-road-to-eleusis-wasson-hofmann-ruck]] that macerating ergotized grain in water would
-effectively separate water-soluble psychoactive alkaloids from the
-fat-soluble toxic alkaloids -- a potential key to safe preparation of
-ergot-based preparations.
-
-## Related Concepts
-
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]
-- [[history-of-mushroom-cultivation]]
-- [[hofmann-self-experiment-with-ergonovine]]
-- [[mckenna-ergot-and-witches-sabbath-theory]]

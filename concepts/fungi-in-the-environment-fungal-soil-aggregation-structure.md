@@ -87,39 +87,3 @@ physical protection of organic carbon within stable aggregates is a key
 mechanism of long-term soil carbon storage.
 
 ### Ectomycorrhizas and Litter Decomposition
-
-Ectomycorrhizal (EM) fungi contribute to soil structure indirectly through
-their effects on decomposition processes. EM mycelia provide intensive,
-spatially precise nutrient foraging through decaying litter rich in
-polyphenolics and tannins. By selective nutrient removal and limited
-abilities to degrade lignocellulose, EM fungi increase the C:N and C:P
-ratios of remaining residues, further enhancing their recalcitrance and
-contributing to humus accumulation and soil structure development.
-
-### Ericoid Mycorrhizas and Peat Formation
-
-[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] (ERM) associations produce litter that is among the
-most extremely recalcitrant, being highly enriched in polyphenolic compounds
-and low-molecular-mass phenolics. This litter decomposes very slowly with
-high C:N ratios, contributing to the accumulation of raw humus and peat.
-The very incomplete decomposition characteristic of ERM systems results in
-the accumulation of recalcitrant humic compounds that are fundamental to
-the soil structure of heathland and tundra ecosystems.
-
-## Ecosystem Implications
-
-The extent of soil carbon sequestration is strongly correlated with the
-dominant mycorrhizal type in different biomes. Mycorrhizas are doubly
-implicated in soil carbon storage through both direct inputs of fungal
-carbon and indirect effects on decomposition processes (ERM and EM) and
-soil aggregation (AM). Understanding these fungal contributions to soil
-structure is essential for predicting ecosystem responses to land use
-change, [[dighton-fungi-climate-change-feedback]], and soil management practices.
-
-## See Also
-
-- fungi-in-the-environment-soil-fungal-community-structure
-- fungi-in-the-environment-fungal-mineral-weathering
-- [[decomposition]]
-- [[ectomycorrhiza]]
-- [[fungal-hyphae]]

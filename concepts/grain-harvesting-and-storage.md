@@ -6,11 +6,12 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
 Harvesting grain the traditional way involves a series of steps from cutting to threshing to winnowing to storage. Understanding these processes is essential for any homestead growing its own grain.
 
@@ -54,7 +55,7 @@ Threshing separates grain kernels from the stalks.
 - **Process**: Swing the flail quickly, hitting grain spread on the barn floor. Flip grain with pitchforks and flail again.
 - **Timing**: Best done in winter
 - **Swingle selection**: Heavy swingle for oats, light swingle for beans
-- **Straw**: Pile separately for livestock feed or field mulch
+- **Straw**: Pile separately for [[livestock-feed-formulation]] or field mulch
 
 ## Winnowing
 
@@ -65,7 +66,7 @@ Winnowing separates the chaff (husks) from the grain:
 - **Winnowing tray**: Frame with a screen for more controlled winnowing
 - **Bean winnowing**: Pour beans back and forth between two tubs on a windy day
 - **Chaff**: Save for livestock feed
-- **Straw**: Save for animal feed or pile in the field
+- **Straw**: Save for [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] or pile in the field
 
 ## Storage
 
@@ -87,51 +88,3 @@ Winnowing separates the chaff (husks) from the grain:
 - **Location**: In the house (not the shed), with cats to deter mice
 - **Temperature**: Cool, dry place
 - **Preservation aids**: Bay leaves in the container can help
-- **Purity**: Grain must be very dry and free of other material
-- **[[psilocybin-shelf-life-stability]]**: One year or more until ground
-- **Inspection**: Check periodically for mold, bugs, or rodent signs
-- **Grinding**: Once grain is ground into flour, it must be used immediately
-
-## Bug Prevention
-
-### Dry Ice Method
-- Ratio: 1 tablespoon of dry ice per 5 gallons (19 liters) of grain
-- Process: Place dry ice in the bottom of an airtight container, pour grain on top, wait 1 hour, then seal
-- Mechanism: The dry ice produces carbon dioxide which kills the bugs
-
-### Heat Method
-- **For eating grain only** — NOT for seed grain (kills viability)
-- Process: Spread a quarter inch (0.6 cm) on a pan, heat in oven at 140°F (60°C) for 30 minutes
-
-## Ergot Fungus
-
-- **Cause**: Grain gets damp
-- **Appearance**: Grain becomes hard, black, and purple on the inside
-- **Danger**: Do NOT eat moldy grain or feed it to animals — it can be fatal
-- **Seed grain treatment**: If desperate, soak grain in very salty water — the sclerotia (ergot masses) will float to the top where they can be skimmed off. Better to throw it out.
-
-## Grain Processing Methods
-
-| Method | Description | Common Use |
-|--------|-------------|------------|
-| Cracking | Breaking kernel into 2+ pieces | Corn |
-| Crimping | Flattening kernel slightly | Oats |
-| Flaking | Heat/moisture treatment, then flattening | Rolled oats |
-| Grinding | Forcing through rollers and screens | Flour |
-| Rolling | Smashing between rollers at different speeds | Various |
-
-### Grinding at Home
-
-- **Mortar and pestle**: Simplest, most labor-intensive
-- **Hand grinder**: Must be cranked for a long time; each pass produces coarser flour — sift and re-run multiple times
-- **Electric mill**: Quickest — one pass for desired texture
-- **Output ratio**: Generally, 1 cup of grain makes 1.5 cups of flour
-- **Coarse setting**: Grits for cereal and animal feed
-- **Fine setting**: Cake flour — very fine texture
-
-## Related Topics
-
-- [[duck-rice-paddy]] — rice-specific production
-- [[fukuoka-natural-farming]] — natural [[natural-farming-principles-fukuoka]]
-- [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-natural-rice-farming-steps]]

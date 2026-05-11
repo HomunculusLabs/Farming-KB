@@ -51,7 +51,7 @@ In five to fifteen years, the weedy field becomes clothed with
 perennial shrubs. With enough rain, in two or more decades the shrubs
 give way to a young forest. This progression is called succession.
 
-Conventional gardens mimic immature ecosystems, dominated by early-
+Conventional gardens mimic [[gaias-garden-mature-vs-immature-ecosystems]], dominated by early-
 succession pioneer plants. This means gardeners are attempting to keep
 their yards at an early stage of ecological development, which
 guarantees constant work. Ecological gardeners instead hop aboard the
@@ -64,7 +64,7 @@ Biodiversity is the variety of organisms present, considered from many
 levels: cultivar, species, genus, family, and on up to include all
 five kingdoms, as well as the diversity of habitats and ecosystems.
 
-Diverse habitat shrinks pest problems. A garden bed planted all to
+Diverse habitat shrinks pest problems. A [[garden-bed-designs]] planted all to
 broccoli or roses is a magnet for pests. But by providing habitat for
 pests' natural predators, gardeners can let nature do the bug control.
 The key is providing biodiversity in the landscape.
@@ -81,31 +81,9 @@ Understanding the differences between immature and mature ecosystems
 helps guide ecological [[comparison-mandala-garden-design-vs-keyhole-garden-design]]:
 
 - **[[hamilton-composting-and-organic-matter-management]]**: Low in immature systems, high in mature ones
-- **Nutrient cycles**: Open (many imports) vs. closed (recycling)
+- **[[ozier-pdc-composting-and-nutrient-cycles]]**: Open (many imports) vs. closed (recycling)
 - **Plant diversity**: Usually low vs. high
 - **Food chains**: Short and linear vs. complex and weblike
 - **Stability**: Low vs. high resistance to disturbance
 - **Decomposers**: Unimportant vs. critically important
 - **Microclimates**: Few and harsh vs. many and mild
-
-A well-designed forest shows the ideal: covered soil, shaded by many
-layers of plants, with abundant soil life capturing and recycling
-nutrients. Nearly all of life's products are recyclable. In nature,
-there is no such thing as waste. Everything is food for something
-else, connected in life and death to many other species.
-
-## Applying the Principles
-
-By filling a garden with nurse-plants and [[sheet-mulching]] establishes mature soil
-conditions quickly. These techniques mimic what nature does on its
-own timescale, but compress decades of natural succession into months
-or a few years.
-
-One more: consider growing a mix of root depths and canopy heights to
-stack functions vertically as well as horizontally.
-
-## See Also
-
-- [[soil-life]]
-- [[biodiversity-fungicolous-mycoparasitic-fungi]]
-- [[permaculture-food-forests-design-course]]

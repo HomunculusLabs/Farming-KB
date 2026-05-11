@@ -15,7 +15,7 @@ type: concept
 MDA (3,4-methylenedioxyamphetamine) is a substituted amphetamine that
 occupies a unique position as both a powerful empathogen-entactogen and a
 classical psychedelic. Documented in PIHKAL as compound #105, MDA is the
-direct precursor and inspiration for MDMA. Its effects blend emotional warmth
+direct precursor and inspiration for [[mdma]]. Its effects blend emotional warmth
 and social connectedness with genuine psychedelic visual and cognitive effects,
 making it a truly hybrid substance.
 
@@ -35,14 +35,14 @@ combination makes MDA simultaneously rewarding and demanding.
 MDA's IUPAC name is 1-(1,3-benzodioxol-5-yl)propan-2-amine. It consists of
 an amphetamine backbone with a methylenedioxy bridge connecting positions 3
 and 4 on the phenyl ring. This bridge is the defining feature of the MDxx
-family (MDA, MDMA, MDEA, MDBD).
+family (MDA, MDMA, [[mdea]], MDBD).
 
 MDA is the N-desmethyl analogue of MDMA; removing the N-methyl group yields
 MDA. This small structural difference has significant pharmacological
-consequences, as MDA has greater serotonergic neurotoxicity potential and
+consequences, as MDA has greater [[mdma-serotonergic-neurotoxicity]] potential and
 more pronounced psychedelic effects. MDA can also be understood as the
 alpha-methylated version of the phenethylamine backbone, though the
-substitution pattern differs from mescaline.
+substitution pattern differs from [[mescaline]].
 
 ## Dosage and Administration
 
@@ -88,51 +88,3 @@ He also acknowledged emerging neurotoxicity concerns while maintaining that
 responsible use at reasonable doses posed minimal risk.
 
 ## Pharmacology
-
-MDA acts as a potent releasing agent and reuptake inhibitor of serotonin,
-dopamine, and norepinephrine. Its serotonergic activity is particularly
-pronounced, with significant serotonin release via SERT reversal. This
-mechanism is shared with MDMA but is more pronounced with MDA, contributing
-to greater neurotoxicity potential.
-
-Crucially, MDA also acts as a direct agonist at 5-HT2A receptors,
-responsible for its psychedelic effects. This direct agonism distinguishes
-MDA from MDMA, which produces effects primarily through monoamine release
-with weak direct receptor activity. Metabolism occurs via hepatic
-N-demethylation (to MDMA) and O-demethylenation (via CYP2D6).
-
-## Safety and Harm Reduction
-
-The primary concern is serotonergic neurotoxicity. Animal studies show MDA
-causes greater serotonin neurotoxicity than MDMA at equivalent doses, likely
-due to direct 5-HT2A agonism and more pronounced serotonin release. Other
-risks include cardiovascular stress, hyperthermia, and hyponatremia with
-excessive water intake.
-
-Harm reduction includes limiting frequency of use, proper hydration without
-overhydration, avoiding hot environments, and not combining with other
-serotonergic substances or MAOIs. The long duration requires planning for a
-full day without responsibilities.
-
-## Comparison to Related Compounds
-
-Compared to MDMA, MDA is longer-acting, more psychedelic, and carries
-greater neurotoxicity risk. MDMA is more purely empathogenic with a clearer
-headspace and shorter duration. Against mescaline, MDA produces more
-empathogenic effects but less purely visual richness. MDA is sometimes
-described as a combination of MDMA and a mild psychedelic.
-
-## Historical and Cultural Significance
-
-MDA gained prominence in the 1960s as both a recreational substance and a
-tool in early psychedelic therapy, used by therapists including Leo Zeff.
-Its popularity declined in the 1980s as MDMA became dominant, partly due to
-MDMA's more favorable [[cannabis-safety-profile-and-overdose-risk]]. MDA is Schedule I in the US and
-controlled internationally, occasionally appearing in tablets sold as or
-adulterated with MDMA.
-
-## See Also
-
-- [[pihkal-mescaline]]
-- [[pihkal-dom]]
-- [[pihkal-cautionary-note-and-legal-context]]

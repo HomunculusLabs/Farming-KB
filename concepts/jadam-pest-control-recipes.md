@@ -1,5 +1,5 @@
 ---
-title: JADAM Pest Control Recipes
+title: Jadam Pest Control Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Pest Control Recipes
 
-JADAM pest control [[jadam-natural-pesticide-recipes]] relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
+JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the [[jadam-wetting-agent-jwa]] (JWA), combined with plant extracts and biological agents.
 
 ## JADAM Wetting Agent (JWA) — The Foundation
 
@@ -19,7 +19,7 @@ JADAM pest control [[jadam-natural-pesticide-recipes]] relies on simple, on-farm
 - Water: 20 parts
 
 ### Method
-1. Dissolve KOH in water [[jadam-natural-pesticide-recipes]] (use non-metal container)
+1. Dissolve KOH in water (use non-metal container)
 2. Add oil slowly while stirring
 3. Stir until the mixture becomes translucent (saponification)
 4. Dilute 1:500 to 1:1000 with water for use as spray
@@ -66,9 +66,9 @@ JADAM pest control [[jadam-natural-pesticide-recipes]] relies on simple, on-farm
 4. Spray on affected plants
 
 ### Effective Against
-- Powdery mildew
+- [[cervantes-powdery-mildew-prevention-treatment]]
 - Rust
-- Downy mildew
+- [[cervantes-downy-mildew-fungal-blight]]
 - Mites
 
 ## JADAM Sea Water (JSW) — Micronutrient Supplement
@@ -86,6 +86,6 @@ JADAM pest control [[jadam-natural-pesticide-recipes]] relies on simple, on-farm
 - Always test on a few leaves first before full application
 
 ## Related
-- [[jadam-natural-farming-philosophy]] — for JADAM philosophy
-- [[natural-farming-pest-management]] — for broader natural pest management
+- [[jadam-natural-farming-philosophy]] — for [[jadam-philosophy-and-youngsang-chos-farming-revolution]]
+- [[natural-farming-pest-management]] — for broader natural [[query-what-is-biofumigation-and-how-does-it-work]]
 - [[companion-planting-deterrents]] — for prevention-based pest control

@@ -27,7 +27,7 @@ Carex panicea is a member of Carex section Glaucae. The section is characterized
 
 The species serves as an indicator of moderately acidic to neutral mire conditions. It occurs across a broad elevational range from lowland peatlands to montane flushes.
 
-Its tolerance of both acidic and weakly calcareous conditions is unusual among mire sedges, giving it a broad ecological amplitude. This adaptability contributes to its wide geographic distribution.
+Its tolerance of both acidic and weakly calcareous conditions is unusual among mire sedges, giving it a broad ecological amplitude. This adaptability contributes to its wide [[geographic-distribution-of-psilocybe-species]].
 
 ## Taxonomy and Morphology
 
@@ -35,7 +35,7 @@ Its tolerance of both acidic and weakly calcareous conditions is unusual among m
 
 It is a rhizomatous perennial forming loose tussocks, typically 20 to 60 cm tall. Culms are slender, trigonous, and smooth or slightly roughened toward the apex.
 
-Leaf blades are 2 to 4 mm wide, flat to slightly keeled, and conspicuously glaucous. The glaucous blue-green coloration is a key field identification character.
+Leaf blades are 2 to 4 mm wide, flat to slightly keeled, and conspicuously glaucous. The glaucous blue-green coloration is a key [[palmer-mushroom-hunting-field-identification]] character.
 
 The inflorescence consists of 2 to 4 lateral female spikes and a single terminal male spike. Female spikes are ovoid to short-cylindrical, 8 to 15 mm long, and loosely flowered.
 
@@ -69,7 +69,7 @@ Eastern European populations are more fragmented, occurring in isolated mire com
 
 Carex panicea is a characteristic component of mire and wet heath plant communities across Europe. It is frequently a dominant or codominant sedge in these habitats.
 
-Common associates include Eriophorum vaginatum, Molinia caerulea, Calluna vulgaris, Sphagnum species, and other sedges such as Carex nigra and Carex echinata.
+Common associates include Eriophorum vaginatum, [[molinia-caerulea]], [[calluna-vulgaris]], Sphagnum species, and other sedges such as Carex nigra and [[carex-echinata]].
 
 The species contributes to peat formation in mire systems through its persistent root and rhizome biomass. Dead leaf bases accumulate as partly decomposed organic matter.
 
@@ -77,7 +77,7 @@ Several invertebrate species are associated with Carex panicea, including sedge-
 
 Its seeds are consumed by birds including red grouse and meadow pipits in upland habitats. The species provides modest but reliable cover in open mire landscapes.
 
-In wet heath systems, Carex panicea competes with grasses such as Molinia caerulea and Deschampsia flexuosa. It tends to increase where grazing reduces grass competition.
+In wet heath systems, Carex panicea competes with grasses such as Molinia caerulea and [[deschampsia-flexuosa]]. It tends to increase where grazing reduces grass competition.
 
 The species responds positively to light grazing by cattle or ponies in mire systems. Heavy grazing, however, can reduce flowering and seed set.
 
@@ -88,34 +88,3 @@ Its phenology is adapted to the mire environment, with early spring growth takin
 Carex panicea is widespread and assessed as Least Concern at the European level. Local declines have been recorded in intensively drained lowland mires.
 
 Peatland drainage for agriculture and forestry has reduced the extent of suitable habitat across much of its range. Afforestation of open mires is a particular threat in parts of Scandinavia and the British Isles.
-
-Nutrient deposition from atmospheric pollution favors competitive grasses and may reduce Carex panicea abundance in sensitive mire communities.
-
-Climate change poses a longer-term threat through altered precipitation patterns and increased summer drought stress. Peatland desiccation could significantly reduce available habitat for this moisture-dependent species.
-
-Conservation management focuses on maintaining hydrological integrity of mire systems. Grazing regimes that prevent dominance by tall grasses help sustain sedge diversity.
-
-Peatland restoration projects across Europe have targeted hydrological recovery, with documented benefits for Carex panicea and associated mire species. Block ditching and drain blocking are common restoration techniques.
-
-## Related Species
-
-Carex panicea is most closely related to other species in section Glaucae, including Carex canescens and Carex curta. It is distinguished from Carex canescens by its larger utricles and more robust habit.
-
-Hybridization with Carex demissa has been documented, producing intermediate forms that can complicate field identification. The hybrids are partially fertile.
-
-Carex panicea is also reported to hybridize with Carex flava in zones of habitat overlap, producing plants with intermediate utricle morphology and spike arrangement.
-
-Within the broader Carex genus, the species is part of the Vignea clade (two-stigmate species), distinct from the three-stigmate Carex clade.
-
-## See Also
-
-- [[carex-nigra]]
-- [[carex-canescens]]
-- [[carex-flacca]]
-- [[carex-echinata]]
-- [[carex-rostrata]]
-- [[molinia-caerulea]]
-- [[sphagnum-palustre]]
-- [[juncus-effusus]]
-- [[eleocharis-palustris]]
-- [[schoenoplectus-lacustris]]

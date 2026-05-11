@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,18 +87,3 @@ cover crops. Windbreak protection is essential -- see [[farm-forestry-design-mol
 Zone 3 is the primary location for large-scale water storage. Dams are sited
 in valleys using [[permaculture-slope-analysis-and-reading]] and mollison-windbreak-design for regional
 recommendations.
-
-## Fencing, Infrastructure and Nutrient Cycling
-
-Zone 3 fencing must be stock-proof, durable, with permanent boundary fencing
-and electric internal subdivision for rotational grazing. Laneways connect
-paddocks to handling facilities, water points, and the Zone 2/3 boundary.
-Zone 3 aims for closed nutrient cycles: livestock manure returned to pasture,
-crop residues composted, legumes fixing nitrogen, deep-rooted plants mining
-subsoil, and water carrying nutrients from upper to lower zones. External
-## See Also
-- [[mollison-designers-climate-zone-4-forage-gathering]]
-- [[mollison-designers-climate-zone-5-wilderness-conservation]]
-- [[mollison-designers-climate-zone-1-intensive-garden]]
-- [[mollison-designers-climate-zone-2-orchard-food-forest]]
-- [[alley-cropping]]

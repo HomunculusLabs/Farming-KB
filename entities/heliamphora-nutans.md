@@ -88,31 +88,3 @@ The species requires pure, mineral-free water. A top-watering approach works wel
 Substrate should mimic the sandy, well-drained conditions of tepui summits. A mix of pumice, lava rock, perlite, and a small proportion of sphagnum peat works well.
 
 Bright, diffused light produces the best pitcher development and coloration. High-intensity LED or fluorescent lighting is suitable for [[cannabis-sativa-indoor-cultivation-techniques]].
-
-Propagation from seed is possible but slow, requiring cold stratification and consistent moisture. Division of established rhizome clumps is the most reliable vegetative method.
-
-Growth is slow compared to other carnivorous genera. New pitchers may take 4–8 weeks to fully develop from initiation to maturity.
-
-## Related Species
-
-*H. nutans* is part of the *H. nutans* species complex, which includes several taxa with overlapping distributions on the Guiana Highland tepuis.
-
-*H. minor* from the Auyán-tepui produces smaller, more brightly colored pitchers. *H. heterodoxa* from Auyán-tepui has a more pronounced flared pitcher opening.
-
-*H. tatei* from Mount Duida reaches the largest sizes in the genus, with pitchers exceeding 50 cm. *H. ionasi* from Mount Ilú is distinguished by its very large nectar spoon.
-
-Hybridization between sympatric *Heliamphora* species is common in the wild. Natural hybrids often exhibit intermediate morphology, complicating taxonomic identification.
-
-## See Also
-
-- [[sorghastrum-nutans]]
-
-- [[sarracenia-purpurea]]
-- [[dionaea-muscipula]]
-- [[drosera-rotundifolia]]
-- [[cephalotus-follicularis]]
-- [[utricularia-vulgaris]]
-- [[drosophyllum-lusitanicum]]
-- [[sarracenia-leucophylla]]
-- nitrogen
-- enzyme

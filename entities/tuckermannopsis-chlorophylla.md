@@ -9,18 +9,18 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
-  - Nash, T.H. III (2008). Lichen Biology (2nd ed.). Cambridge University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens huckleberries-and-wild-berries-of-north-america. Yale University Press.
+  - Nash, T.H. III (2008). [[fungi-in-the-environment-lichen-biology]] (2nd ed.). Cambridge University Press.
   - Huneck, S., Yoshimura, I. (1996). Identification of Lichen Substances. Springer.
   - Goward, T., McCune, B., Meidinger, D. (1994). The Lichens of British Columbia. Ministry of Forests.
-  - Esslinger, T.L. (2018). "A Cumulative Checklist for the Lichen-forming, Lichenicolous and Allied Fungi of the Continental United States and Canada." North Dakota State University.
+  - Esslinger, T.L. (2018). "A Cumulative Checklist for the Lichen-forming, Lichenicolous and Allied Fungi of the Continental [[dmt-containing-plants-united-states-halpern]] and Canada." North Dakota State University.
 ---
 
 ## Overview
 
-Tuckermannopsis chlorophylla, commonly known as the green shield lichen or cypress necklace lichen, is a foliose lichen in the family Parmeliaceae. It is widespread across boreal and temperate regions of North America and Eurasia.
+Tuckermannopsis chlorophylla, commonly known as the green shield lichen or cypress necklace lichen, is a foliose lichen in the family Parmeliaceae. It is widespread across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of [[guzman-psilocybin-mushrooms-north-america]] and Eurasia.
 
-The species forms large, yellow-green rosettes on the bark and branches of coniferous trees. It is particularly abundant in old-growth conifer forests of the Pacific Northwest, where it contributes significantly to epiphyte biomass.
+The species forms large, yellow-green rosettes on the bark and branches of coniferous trees. It is particularly abundant in old-growth conifer forests of the [[psilocybin-north-america-pacific-northwest]], where it contributes significantly to epiphyte biomass.
 
 Tuckermannopsis chlorophylla is notable for its tolerance of sun-exposed habitats, unlike many shade-preferring forest macrolichens. It frequently colonizes open-grown trees and exposed branches where light levels are high.
 
@@ -62,7 +62,7 @@ The species also colonizes wood and occasionally rock surfaces in humid forest h
 
 Elevation ranges from sea level to approximately 1,800 meters in mountainous regions. Montane populations are common in the Cascade Range and Rocky Mountains.
 
-In boreal forests of interior Alaska and Canada, Tuckermannopsis chlorophylla occurs on black spruce and tamarack. These inland populations tend to produce smaller thalli than those in coastal rainforests.
+In [[biodiversity-fungi-temperate-boreal-forests]] of interior Alaska and Canada, Tuckermannopsis chlorophylla occurs on black spruce and tamarack. These inland populations tend to produce smaller thalli than those in coastal rainforests.
 
 ## Chemistry and Bioactive Compounds
 
@@ -70,7 +70,7 @@ The chemistry of Tuckermannopsis chlorophylla includes atranorin in the cortex a
 
 Spot test reactions show a yellow cortex reaction with potassium hydroxide from atranorin. The medulla gives a white to pale yellow reaction and turns red with the addition of sodium hypochlorite due to chloroatranorin.
 
-The presence of both atranorin and chloroatranorin is diagnostic for the species within its range. These compounds can be confirmed by thin-layer chromatography when field identification is uncertain.
+The presence of both atranorin and chloroatranorin is diagnostic for the species within its range. These compounds can be confirmed by thin-layer chromatography when [[palmer-mushroom-hunting-field-identification]] is uncertain.
 
 Antimicrobial activity has been documented for chloroatranorin extracts against several bacterial species. The compound shows moderate activity against both Gram-positive and Gram-negative organisms.
 
@@ -86,35 +86,4 @@ The lichen serves as a food source for arboreal lichen-feeding mammals, includin
 
 Epiphyte biomass dominated by Tuckermannopsis chlorophylla and other macrolichens can exceed 2,000 kilograms per hectare in old-growth coastal rainforests. This biomass represents a significant carbon and nutrient store.
 
-The species plays a role in forest moisture interception, with dense epiphyte mats capturing fog drip and condensation. This captured water slowly drips to the forest floor, supplementing precipitation inputs.
-
-Grazing by lichen-feeding snails and larvae of lichen moths can reduce local thallus biomass. However, the large size and rapid growth of the species allow it to tolerate moderate herbivory pressure.
-
-No significant traditional uses have been recorded for Tuckermannopsis chlorophylla. The species is occasionally collected for educational and herbarium purposes but has no commercial applications.
-
-The species has been investigated as a potential biomonitor of atmospheric heavy metal deposition in forest ecosystems. Its large thallus size facilitates sufficient sample collection for analytical testing.
-
-## Conservation
-
-Tuckermannopsis chlorophylla is not globally threatened, but old-growth forest populations are vulnerable to logging and habitat fragmentation. The species requires several decades of forest continuity to reach maximum abundance.
-
-In the Pacific Northwest, conservation of remaining old-growth forests is considered essential for maintaining viable populations of this and other canopy lichens. Second-growth plantations support smaller, less diverse lichen communities.
-
-Air pollution sensitivity is moderate, with the species declining in areas of high sulfur dioxide concentration. Recovery has been documented in regions where industrial emissions have been reduced.
-
-Climate change may affect the species through altered precipitation patterns and increased drought frequency. Coastal populations in oceanic climates are likely more resilient than inland boreal populations.
-
-Monitoring of Tuckermannopsis chlorophylla is included in several forest health assessment protocols in the Pacific Northwest. Changes in its abundance can indicate shifts in forest age structure and canopy microclimate.
-
-## See Also
-
-- [[hypogymnia-physodes]]
-- [[hypogymnia-tubulosa]]
-- [[evernia-prunastri]]
-- [[pseudevernia-furfuracea]]
-- [[parmelia-sulcata]]
-- [[melanelia-fuliginosa]]
-- [[flavoparmelia-caperata]]
-- [[cetraria-islandica]]
-- [[usnea-barbata]]
-- [[cladonia-rangiferina]]
+The species plays a role in forest moisture interception, with dense epiphyte mats capturing fog drip and condensation. This captured water slowly drips to the [[fungal-ecology-forest-floor]], supplementing precipitation inputs.

@@ -88,9 +88,3 @@ This means:
 ### Principle
 Microorganisms that naturally associate with a crop in your specific climate
 and soil are the best adapted to help that crop grow. JADAM captures these
-through the [[jadam-microorganism-diversity-over-disinfection]]
-
-- [[jadam-microorganism-grain-medium]] -- grain medium method
-- [[fermented-plant-extract-fpe]] -- KNF approach to similar concept
-- [[jadam-wild-grass-liquid-fertilizer]]
-- [[jadam-ambient-temperature-principle]]

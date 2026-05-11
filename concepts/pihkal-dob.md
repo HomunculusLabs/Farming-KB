@@ -13,11 +13,11 @@ type: concept
 ## Overview
 
 DOB (4-bromo-2,5-dimethoxyamphetamine) is one of the most potent and
-longest-acting psychedelic compounds in Shulgin's PIHKAL. Listed as compound
+longest-acting [[psychedelic-compounds-reference]] in Shulgin's PIHKAL. Listed as compound
 #11, DOB is the alpha-methylated analogue of 2C-B and a member of the DO
 (dimethoxyamphetamine) family. With active doses in the low single
 milligrams and effects lasting up to 30 hours, DOB represents one of the
-most extreme examples of potency and duration among psychedelic substances.
+most extreme examples of potency and duration among [[psychedelic-substances-comparison]].
 
 Its extraordinary profile has made DOB both a valuable pharmacological
 research tool and a significant [[adverse-effects-and-harm-reduction-psilocybin]] concern. Small measurement
@@ -87,50 +87,3 @@ binding. He also noted its value as a pharmacological research tool for
 studying 5-HT2A receptor mechanisms.
 
 ## Pharmacology
-
-DOB acts as a potent and selective agonist at serotonin 5-HT2A receptors,
-with Ki values in the low nanomolar range. It also shows affinity for
-5-HT2B and 5-HT2C. Metabolic resistance from the alpha-methyl group results
-in extremely slow hepatic processing through minor pathways including
-aromatic hydroxylation and N-dealkylation.
-
-DOB has been used extensively as a radioligand in serotonin receptor
-research, particularly for 5-HT2A receptor distribution and function studies.
-Its high affinity and selectivity make it valuable for neuropharmacological
-investigation.
-
-## Safety and Harm Reduction
-
-The combination of extreme potency and extreme duration is the primary
-concern. Accurate measurement at the sub-milligram level requires an
-analytical balance (0.1 mg precision), which most users lack. The extended
-duration means 24 to 36 hours of altered consciousness including inability
-to sleep.
-
-Cardiovascular effects are significant and may pose risks for those with
-pre-existing conditions. Harm reduction includes volumetric liquid dosing,
-starting with a very low test dose (0.5 mg), never redosing regardless of
-perceived effects, and having a knowledgeable sitter for the full duration.
-
-## Comparison to Related Compounds
-
-Compared to DOI, DOB is slightly less potent and shorter-acting, though both
-are extremely long. DOI is described as having a "cleaner" headspace while
-DOB produces more intense visuals. Against DOM, DOB is more potent (1 to 3 mg
-vs. 3 to 10 mg) and longer-lasting. Compared to 2C-B, DOB is dramatically
-more potent and longer-lasting, illustrating the profound effect of alpha-
-methylation on phenethylamine pharmacology.
-
-## Historical and Cultural Significance
-
-DOB was first synthesized by Shulgin in the 1970s. It has periodically
-appeared in underground markets, sometimes misrepresented as LSD, which is
-particularly dangerous given vastly different dose ranges. Documented
-hospitalizations have resulted from DOB sold as LSD. It is Schedule I in the
-US and controlled internationally.
-
-## See Also
-
-- [[pihkal-2c-b]]
-- [[pihkal-mda]]
-- [[pihkal-cautionary-note-and-legal-context]]

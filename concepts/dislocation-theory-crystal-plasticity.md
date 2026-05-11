@@ -89,39 +89,6 @@ Small coherent precipitates are sheared by dislocations through chemical (new in
 
 ## Observation Techniques
 
-**TEM** (two-beam diffraction contrast, invisibility criterion g·b = 0 for Burgers vector determination) is the primary tool. Weak-beam dark field achieves ~1–2 nm resolution for partial dislocations. In situ TEM observes real-time dislocation motion. Limitations: 2D projection, thin-foil effects. **Etch pits**: simple, large-area surveys, but surface-only, no Burgers vector info, ~1 μm resolution limit. **X-ray topography** (Berg-Barrett, synchrotron): non-destructive bulk imaging, ~1 μm resolution, used for semiconductor wafer quality. **Atom probe tomography**: 3D atomic-scale composition (~0.1–0.3 nm depth resolution) revealing Cottrell atmospheres, solute-decorated dislocations, and precipitate-dislocation interactions. **EBSD**: electron channeling contrast imaging for bulk dislocation observation (~10 nm); orientation gradients for GND density estimation. **HRXRD**: high-resolution X-ray diffraction peak broadening analysis (Williamson-Hall method) for bulk dislocation density measurement.
-
-## Applications
-
-**Metallurgy**: HSLA steels (Nb, V, Ti microalloy precipitation), AHSS (DP, TRIP, TWIP, martensitic, 500–2000 MPa), age-hardenable Al alloys (2xxx, 6xxx, 7xxx), Ti-6Al-4V (HCP α + BCC β slip differences), Cu alloys (work + precipitation hardening).
-
-**Semiconductors**: dislocation-free CZ/FZ Si growth (<100 cm⁻²), epitaxial misfit dislocations at critical thickness h_c ≈ (b/ε)[ln(h_c/b) + 1] (Matthews-Blakeslee), threading dislocations degrading GaN-on-Sapphire and SiGe-on-Si device performance, gettering via controlled oxygen precipitation.
-
-**Creep**: power-law (dislocation climb, ε̇ = A(σ/G)ⁿexp(−Q/RT), n ≈ 3–5, Q ≈ Q_self-diffusion), Nabarro-Herring (volume diffusion, ε̇ ∝ σD_v/Gd²), Coble (grain boundary diffusion, ε̇ ∝ σD_gbδ/Gd³).
-
-**Fatigue**: cyclic loading evolves dislocation structures (initial hardening then saturation); persistent slip bands (PSBs) in FCC with low-moderate SFE nucleate cracks via surface intrusions/extrusions from irreversible dislocation motion. Paris law: da/dN = CΔK^m governs [[fatigue-crack-growth]]. Coffin-Manson: Δε_p/2 × N_f^β = C for low-cycle fatigue life prediction.
-
-**Fracture**: pile-up stress concentrations cause brittle cleavage (Stroh mechanism, σ_max = (nτ)²/[Gb(1-ν)]); ductile fracture involves void nucleation at inclusions (decohesion or particle fracture), Rice-Tracey growth, and coalescence. DBTT in BCC: σ_y rises with Peierls barrier at low T while σ_f is T-independent; when σ_y > σ_f, fracture becomes brittle.
-
-## Key [[maxwell-equations-electromagnetism]] Summary
-
-| Equation | Expression | Application |
-|---|---|---|
-| Orowan equation | dγ/dt = ρ_m b v | Strain rate from dislocation motion |
-| Schmid's law | τ = σ cos(φ)cos(λ) | Slip initiation criterion |
-| Taylor hardening | τ = αGb√ρ | Stress vs. dislocation density |
-| Hall-Petch | σ_y = σ₀ + k_y d^(−1/2) | Grain size effect |
-| Frank's rule | b₁² + b₂² > b₃² | Dislocation reaction favorability |
-| Kocks-Mecking | dρ/dγ = k₁√ρ − k₂ρ | Density evolution |
-| Power-law creep | ε̇ = A(σ/G)ⁿ exp(−Q/RT) | High-temperature deformation |
-| Nye tensor | αᵢⱼ = ∂βⱼ/∂xᵢ | Continuum dislocation density |
-
-## Key References
-
-Hull, D. & Bacon, D.J. (2011). *Introduction to Dislocations* (5th ed.). Butterworth-Heinemann.
-Hirth, J.P. & Lothe, J. (1992). *Theory of Dislocations* (2nd ed.). Krieger.
-Kocks, U.F., Tomé, C.N. & Wenk, H.-R. (1998). *Texture and Anisotropy*. Cambridge.
-Argon, A.S. (2008). *Strengthening Mechanisms in Crystal Plasticity*. Oxford University Press.
-
-See [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
-See [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]] for more on Query What Is The Difference Between Grain Spawn And Liquid Culture For Mushrooms.
+## See Also
+- [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]
+- [[fukuoka-high-yield-theory-photosynthesis-critique]]

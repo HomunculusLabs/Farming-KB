@@ -30,7 +30,7 @@ sources:
 - **Genus:** Wolfiporia
 - **Species:** *W. extensa*
 - **Author citation:** (Peck) Ginns, 1984
-- **Synonyms:** *Poria cocos* F.A. Wolf, *Sclerotium cocos* C.S. Wei, *Pachyma cocos* F.A. Wolf
+- **Synonyms:** *[[poria-cocos]]* F.A. Wolf, *Sclerotium cocos* C.S. Wei, *Pachyma cocos* F.A. Wolf
 - **Etymology:** *Wolfiporia* honors American mycologist Frederick A. Wolf; *extensa* Latin for "extended"
 - **Chinese name:** Fu Ling (茯苓); Japanese: Bukuryō; Korean: Bokryong
 
@@ -49,7 +49,7 @@ sources:
 - **Spores:** Cylindrical to ellipsoidal, smooth, hyaline, 6–10 × 3–4 µm; amyloid
 - **Basal layer:** Forms as a thin crust on the surface of mature sclerotia during warm, humid conditions
 ### Mycelium
-- **Culture characteristics:** White, cottony on PDA; moderate growth rate (3–5 mm/day at 25°C); optimum pH 5.0–6.0
+- **Culture characteristics:** White, cottony on PDA; moderate [[soil-temperature-plant-growth-rate-doubling-rule]] (3–5 mm/day at 25°C); optimum pH 5.0–6.0
 - **Hyphal system:** Monomitic; generative hyphae with clamp connections; hyaline
 
 ## Phytochemistry
@@ -74,7 +74,7 @@ sources:
 | Polysaccharides | 70–84% | Pachyman, pachymaran, heteroglycans |
 | Triterpenoids | 0.5–1.5% | Pachymic acid, poricoic acids |
 | Proteins | 2–3% | Lectins, amino acids |
-| Lipids | 0.3–1% | Ergosterol, fatty acids |
+| Lipids | 0.3–1% | Ergosterol, [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] |
 | Minerals | 2–5% | K, Ca, Mg, Fe |
 
 ## Pharmacology and Medicinal Uses
@@ -82,59 +82,9 @@ sources:
 - Pachymaran and PPS enhance macrophage phagocytosis, NK cell activity, and T-lymphocyte proliferation
 - Increases serum IL-2, TNF-α, and IFN-γ in animal models
 - Used clinically in China as adjuvant cancer therapy alongside chemotherapy
-- **Evidence level:** Multiple in vivo studies; clinical trials in China (Phase II)
+- **Evidence level:** Multiple in vivo studies; [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] in China (Phase II)
 ### Anti-Tumor Activity
 - Polysaccharide fractions inhibit growth of sarcoma 180, Lewis lung carcinoma, and Ehrlich ascites in mice
-- Mechanism: immune-mediated [[blesching-cannabis-angiogenesis-and-tumor-suppression]] (not direct cytotoxicity); enhances host immune surveillance
-- Pachymic acid shows direct cytotoxicity against hepatoma and breast cancer cell lines (in vitro)
+- Mechanism: immune-mediated [[blesching-cannabis-angiogenesis-and-tumor-suppression]] (not direct cytotoxicity); enhances [[fungal-virulence-factors-host-immune-evasion]] surveillance
+- Pachymic acid shows direct cytotoxicity against hepatoma and [[blesching-cannabis-breast-cancer]] cell lines (in vitro)
 - Synergistic with 5-FU and cyclophosphamide in animal tumor models
-### Diuretic and Renal Effects
-- Traditional primary indication: promotes urination and reduces edema
-- Increases urine output 30–50% in animal models at 10 g/kg oral dose
-- Mechanism: potassium-sparing diuretic effect; increases sodium and water excretion without potassium loss
-- Clinical use: ascites, nephrotic edema, and fluid retention
-- **Sedative and Anxiolytic Effects**
-- Water extract reduces locomotor activity and prolongs pentobarbital sleep in mice
-- Traditional use for insomnia, palpitations, anxiety (TCM digestive-anxiety pattern)
-### Hepatoprotection
-- Pachymic acid and poricoic acids reduce liver fibrosis in CCl₄ and bile duct ligation models
-- Inhibits hepatic stellate cell activation and TGF-β signaling
-- Used in TCM liver formulations for chronic hepatitis
-### Traditional Use (TCM)
-- **Primary action:** Promotes urination, drains dampness, strengthens spleen, calms spirit
-- **Key indications:** Edema, urinary difficulty, diarrhea, spleen deficiency, insomnia, palpitations
-- **Compatibility:** Often combined with *Atractylodes macrocephala* in the classic Si Jun Zi Tang formula
-- **Preparation:** Sliced and dried; decocted, powdered, or extracted
-- **Dosage:** 9–15 g dried sclerotium in decoction
-
-## Cultivation
-### Natural Growth
-- **Host trees:** Primarily *Pinus massoniana* (Masson's pine); also *P. densiflora*, *P. thunbergii*, *P. yunnanensis*
-- **Habitat:** Subtropical pine forests; 300–1500 m elevation; well-drained soils
-- **Distribution:** China (Yunnan, Anhui, Hubei, Fujian — major provinces), Japan, Korea, eastern USA
-- **Ecological role:** White rot fungus; degrades cellulose and lignin of pine roots
-### Artificial Cultivation
-- **Method:** Two primary approaches — "pit cultivation" (土窖栽培, traditional) and "log cultivation" (段木栽培, modernized)
-- **Substrate:** Pine logs (15–30 cm diameter, 60–100 cm length); buried in soil pits at 30–50 cm depth
-- **Inoculation:** Spawn from sclerotium tissue culture; inoculated into pine logs or root zones
-- **Growth period:** 8–14 months from inoculation to harvest
-- **Optimal conditions:** Soil temp 20–28°C; moisture 50–60%; pH 5.0–6.0; well-drained sandy loam
-- **Yield:** 2–4 kg fresh per pine log; 10–20 tonnes/hectare in established plantations
-- **Harvest:** Dig mature sclerotia; remove outer rind (retained separately as "Fu Ling Pi" for diuretic use)
-- **Processing:** Slice, air-dry to <12% moisture; store dry
-### Commercial Significance
-- China produces 10,000+ tonnes annually; Yunnan province accounts for ~60% of national production
-- One of the top 10 most-used Chinese herbal medicines by volume
-- Price: $5–30/kg dried depending on quality grade and source
-
-## Similar Species
-| Species | Distribution | Key Difference |
-|---------|-------------|----------------|
-| *Wolfiporia cocos* (syn.) | Same as *W. extensa* | Taxonomic synonym; name still common in commerce |
-| *[[laetiporus-sulphureus]]* | Cosmopolitan | Grows above-ground on wood; bright orange; different genus |
-| *Pleurotus tuber-regium* | Tropical Africa | Edible sclerotium-forming pleurotoid; different family |
-
-## See Also
-- [[trametes-versicolor-entity]]
-- [[polyporus-umbellatus]]
-- [[poria-cocos]]

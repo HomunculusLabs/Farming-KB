@@ -87,30 +87,3 @@ W. cocos functions as a primary brown-rot decomposer in coniferous forest ecosys
 The fungus plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by mobilizing carbon and minerals from dead and dying pine roots. Its extensive underground [[gadd-mycelial-network-dynamics]] connects multiple host trees and can influence soil [[edaphic-factors-microbial-community-structure]] structure.
 
 In its native range, W. cocos is parasitic on living pines, contributing to root disease complexes. However, its economic and ecological impact as a pathogen is considered minor compared to other root rot fungi such as Armillaria mellea and Heterobasidion annosum.
-
-## History and Cultural Significance
-
-Fuling is one of the oldest and most frequently prescribed substances in TCM, first recorded in the *Shennong Ben Cao Jing* (circa 200 CE) as a superior herb. It appears in the classic formula *Gui Ling Gao* (Turtle Shell and Poria Jelly), a traditional dessert with medicinal properties still consumed widely in East Asia.
-
-Historically, wild-harvested Fuling from Yunnan province commanded premium prices due to its superior quality. Wild collection has declined sharply since the 1980s as cultivation techniques improved and demand outstripped natural supply.
-
-The sclerotium holds cultural significance beyond medicine. In Chinese folklore, Fuling symbolizes longevity and spiritual purity. It is one of the "Eight Treasures" in traditional Chinese wedding customs and is featured in various art forms including jade carvings shaped to resemble the sclerotium.
-
-## Related Species
-
-**Wolfiporia extensa** (Peck) Ginns is a closely related species sometimes treated as conspecific. W. extensa sclerotia are used similarly in East Asian medicine but differ in spore morphology and geographic distribution.
-
-**Pachyma hoelen** Rumph. is a historical name referring to the sclerotium itself rather than the fungal species. This nomenclature persists in older pharmacopoeias and ethnobotanical literature.
-
-**Laetiporus sulphureus** and **[[maitake-grifola-frondosa-comprehensive-profile]]** are ecologically distant polypores also used medicinally, sharing some immunomodulatory triterpenoid constituents but differing significantly in chemistry and clinical applications.
-
-## See Also
-
-- [[cocos-nucifera]]
-
-- [[wolfiporia-extensa]]
-- [[trametes-versicolor-entity]]
-- [[inonotus-obliquus]]
-- [[laccase]]
-- [[polypore-fungi-eastern-north-america]]
-- [[sclerotia-cultivation]]

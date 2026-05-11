@@ -1,5 +1,5 @@
 ---
-title: "Amanita velosa"
+title: Amanita Velosa
 created: 2026-05-06
 type: species
 tags:
@@ -9,7 +9,7 @@ tags:
   - amanita
   - edible-mushroom
   - mycorrhizal
-  - mycology
+  - [[mycology]]
   - california
 date: 2026-04-28
 updated: 2026-04-28
@@ -87,60 +87,4 @@ change). Spores: inamyloid.
 additional records from Oregon and Baja California, Mexico.
 
 It is an ectomycorrhizal species, forming associations with
-oak trees, particularly *Quercus agrifolia* (coast live oak)
-and *Q. douglasii* (blue oak). It also associates with
-*Q. lobata* (valley oak) and occasionally with *Q. kelloggii*
-(California black oak).
-
-Fruiting occurs in spring (March–May), typically 1–3 weeks
-after the last significant rains, when soil temperatures
-begin to warm. It is one of the few amanitas that fruits
-predominantly in spring rather than autumn.
-
-The species prefers grassy areas, oak woodlands, and open
-oak savannas on well-drained soils. It is most abundant
-in years with adequate winter and spring rainfall.
-
-## Edibility
-
-*Amanita velosa* is widely regarded as an excellent edible
-mushroom with a firm texture and mild, nutty flavor. It is
-considered by many California foragers to be among the best
-[[edible-wild-mushrooms-by-region]] of the Pacific Coast.
-
-It can be sautéed, grilled, used in risottos, or dried for
-long-term storage. The texture holds up well to cooking,
-and the flavor is mild enough to pair with a wide range
-of dishes.
-
-**Critical safety note:** All *Amanita* species must be
-identified with absolute certainty before consumption.
-*A. velosa* could potentially be confused with the deadly
-*A. phalloides* (death cap) by inexperienced foragers,
-though the two species have distinctly different fruiting
-seasons, volva structure, and cap coloration.
-
-## Identification Dangers
-
-The primary identification risk involves confusion with other
-*Amanita* species:
-
-- **vs. *Amanita phalloides* (death cap):** *A. phalloides*
-  fruits in autumn, has a greenish-yellow to olive cap, and
-  has a cup-like volva (not a saccate volva buried in soil).
-  The two species rarely overlap in season or habitat.
-- **vs. *Amanita ocreata* ([[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]):** *A. ocreata*
-  also fruits in spring in California but has a pure white
-  cap, white volva, and lacks the characteristic apricot
-  coloration of *A. velosa*. This is the most dangerous
-  potential confusion.
-
-The key diagnostic features of *A. velosa* are: spring
-fruiting, apricot-buff cap color, saccate volva buried in
-soil, and association with California oaks.
-## See Also
-
-- [[amanita-phalloides]]
-- [[amanita-caesarea]]
-- [[amanita-regalis-entity]]
-- [[boletus-edulis-entity]]
+oak trees, particularly *[[quercus-agrifolia]]* (coast live oak)

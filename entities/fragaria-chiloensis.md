@@ -21,7 +21,7 @@ sources:
 
 **Fragaria chiloensis**, commonly known as the beach strawberry, coastal strawberry, or Chilean strawberry, is a perennial herbaceous plant in the family Rosaceae. It is one of the two wild progenitor species of the cultivated garden strawberry (*Fragaria × ananassa*), contributing its large fruit size and firm texture to the hybrid.
 
-The species is octoploid (2n = 8x = 56) and exhibits a coastal distribution spanning the Pacific coasts of North and South America. It is notable for producing the largest fruit of any wild strawberry species, with berries reaching 2–4 cm in diameter in some accessions.
+The species is octoploid (2n = 8x = 56) and exhibits a coastal distribution spanning the Pacific coasts of North and [[guzman-psilocybin-mushrooms-south-america]]. It is notable for producing the largest fruit of any wild strawberry species, with berries reaching 2–4 cm in diameter in some accessions.
 
 Beach strawberry has been cultivated by the Mapuche people of Chile for centuries and was documented by European explorers in the 16th century. The species gained global horticultural significance when Amédée-François Frézier introduced it to France in 1712, setting in motion the hybridization that produced the modern cultivated strawberry.
 
@@ -29,7 +29,7 @@ The introduction of *F. chiloensis* to Europe had an unintended consequence: the
 
 ## Taxonomy and Morphology
 
-**Fragaria chiloensis** (L.) Mill. was originally described as *Fragaria virginiana* var. *chiloensis* by Linnaeus in 1753 and later elevated to species rank by Philip Miller. The epithet *chiloensis* refers to the Chiloé Archipelago of southern Chile, where early botanical collections were made.
+**Fragaria chiloensis** (L.) Mill. was originally described as *[[fragaria-virginiana]]* var. *chiloensis* by Linnaeus in 1753 and later elevated to species rank by Philip Miller. The epithet *chiloensis* refers to the Chiloé Archipelago of southern Chile, where early botanical collections were made.
 
 The species belongs to the octoploid *Fragaria* clade within Rosaceae subfamily Rosoideae, tribe Potentilleae. Molecular phylogenetic studies place *F. chiloensis* as sister to *F. virginiana* within the octoploid group, consistent with their ability to hybridize and produce fertile offspring. The octoploid genome is approximately 700 Mb in size.
 
@@ -37,7 +37,7 @@ Plants grow 10–25 cm tall from a thickened, woody crown with a robust fibrous 
 
 The foliage is notably thicker and more leathery than that of *F. virginiana*, an adaptation to the windy, salt-sprayed coastal environments the species inhabits. A dense indumentum of silvery hairs covers the leaf undersides and petioles, providing protection against salt spray and reducing water loss through transpiration.
 
-Stolons are thick and robust, enabling rapid colonization of sandy substrates. Each node can produce roots and establish new plants, allowing a single individual to spread across several square meters over a few growing seasons. The crown is woody and persistent, capable of surviving for many years in favorable conditions.
+Stolons are thick and robust, enabling rapid colonization of sandy substrates. Each node can produce roots and establish new plants, allowing a single individual to spread across several square meters over a few [[jeavons-climate-adaptation-growing-seasons]]. The crown is woody and persistent, capable of surviving for many years in favorable conditions.
 
 The root system extends deeper than that of *F. virginiana*, reaching 25–30 cm in loose sandy soils. This deeper rooting provides greater [[dighton-fungal-drought-tolerance-plant-water-relations]] and anchorage in the unstable substrates of coastal dunes and bluffs.
 
@@ -55,9 +55,9 @@ The disjunct distribution across two continents is a biogeographical puzzle. The
 
 The species is strictly coastal, typically growing within 5 km of the ocean on sandy or gravelly soils. It colonizes dunes, coastal bluffs, scrub communities, and beach margins. It tolerates salt spray, strong winds, and nutrient-poor sandy soils. Elevation ranges from sea level to approximately 200 m in North America and up to 500 m in the Chilean Andean foothills.
 
-Coastal populations are adapted to the cool, foggy maritime climate characteristic of the California Current and Humboldt Current systems. Mean annual precipitation in the species' range varies from 300 mm in central Chile to over 2,000 mm in southeastern Alaska. The species is intolerant of prolonged freezing and is limited to mild-winter coastal zones.
+Coastal populations are adapted to the cool, foggy maritime climate characteristic of the California Current and Humboldt Current systems. Mean annual precipitation in the species' range varies from 300 mm in central Chile to over 2,000 mm in southeastern Alaska. The species is intolerant of prolonged freezing and is limited to mild-winter [[mollison-designers-sea-level-change-coastal-zones]].
 
-Temperature tolerance ranges from approximately -5°C to 30°C, with optimal growth between 15–20°C. The maritime influence moderates temperature extremes, allowing the species to persist at latitudes where continental climates would be lethal. Fog drip provides a significant supplemental water source in the drier parts of the species' range, particularly coastal California and central Chile.
+[[mycorrhizal-drought-and-temperature-tolerance]] ranges from approximately -5°C to 30°C, with optimal growth between 15–20°C. The maritime influence moderates temperature extremes, allowing the species to persist at latitudes where continental climates would be lethal. Fog drip provides a significant supplemental water source in the drier parts of the species' range, particularly coastal California and central Chile.
 
 The species is sensitive to habitat disturbance from coastal development, beach nourishment projects, and off-road vehicle traffic. Several coastal populations in California and Chile have been extirpated by urbanization. Conservation efforts include habitat protection in state parks, coastal reserves, and the establishment of ex situ germplasm collections.
 
@@ -67,7 +67,7 @@ Two subspecies are recognized: subsp. *chiloensis* (South America) and subsp. *p
 
 The Mapuche people of southern Chile have cultivated beach strawberry for hundreds of years, selecting for larger fruit size and sweeter flavor. The cultivated form, known locally as *frutilla* or *frutilla chilena*, produces white to pale pink fruit with a distinctive pineapple-like aroma that is sweeter and milder than the cultivated strawberry.
 
-Archaeological evidence from Mapuche settlements in the Valdivia region documents strawberry cultivation dating back at least 1,000 years. The fruit was eaten fresh, dried for winter storage, and used in fermented beverages. Traditional Mapuche agriculture incorporated beach strawberry as an understory crop beneath Nothofagus (southern beech) forests.
+Archaeological evidence from Mapuche settlements in the Valdivia region documents strawberry cultivation dating back at least 1,000 years. The fruit was eaten fresh, dried for winter storage, and used in [[comparison-mead-vs-kvass-fermented-beverages]]. Traditional Mapuche agriculture incorporated beach strawberry as an understory crop beneath Nothofagus (southern beech) forests.
 
 European explorers first documented the species in Chile in the 16th century. Spanish chronicler Pedro de Valdivia noted the abundance of wild strawberries in the coastal forests of southern Chile. Frézier's 1712 introduction of five living plants to France marked the beginning of European cultivation.
 
@@ -88,32 +88,3 @@ Goulão et al. (2012) documented high total phenolic content (200–350 mg GAE p
 Sanguiin H-6 is the most abundant ellagitannin in *F. chiloensis* fruit, reaching concentrations of 50–80 mg per 100 g fresh weight. This compound has demonstrated anti-inflammatory, anti-proliferative, and neuroprotective activities in vitro. The white-fruited Chilean form accumulates higher ellagitannin concentrations than the red-fruited North American form, as the absence of anthocyanin biosynthesis redirects metabolic flux toward ellagitannin production.
 
 The volatile aroma profile of Chilean beach strawberry is distinct from that of other *Fragaria* species. Characteristic compounds include methyl anthranilate (grape-like note), ethyl butyrate (fruity note), and mesifurane (sweet, caramel-like note). The combination produces a unique pineapple-tinged aroma that distinguishes *F. chiloensis* fruit from both wild and cultivated strawberries.
-
-Total soluble solids content (Brix) ranges from 8–12°, comparable to commercial cultivars. The sugar profile is dominated by fructose and glucose, with sucrose present at lower concentrations. The distinctive aroma and flavor profile has attracted interest from the flavor and fragrance industry as a potential source of natural aroma compounds.
-
-## Ecological Role
-
-Beach strawberry plays an important ecological role in Pacific coastal ecosystems. The dense, mat-forming habit stabilizes sand dunes and coastal bluffs, reducing erosion from wind and wave action. Plants trap wind-blown sand and organic debris, facilitating dune succession and the establishment of other coastal plant species.
-
-In ecological restoration projects along the Pacific coast, *F. chiloensis* subsp. *pacifica* is planted to stabilize eroding dunes and bluffs. The species is preferred over non-native ground covers because it provides food for wildlife while performing the same erosion-control function. Successful restoration requires protection from foot traffic and grazing during the establishment phase.
-
-The fruit provides food for coastal wildlife including birds, small mammals, and insects. In North America, the fruit is consumed by varied thrushes, robins, fox sparrows, and the endangered California clapper rail. Flowers provide nectar and pollen for native bees, butterflies, and syrphid flies during the early spring bloom period.
-
-In South America, the fruit is eaten by chucao tapaculos, thorn-tailed rayaditos, and introduced European rabbits. The species forms important habitat structure in coastal scrub communities, providing shelter for ground-dwelling invertebrates and amphibians. The dense leaf canopy retains moisture in the sandy substrate, creating microhabitat conditions favorable for mycorrhizal fungi and soil microorganisms.
-
-The species is a host for several fungal pathogens that affect cultivated strawberry, including *Phytophthora cactorum* (leather rot and crown rot) and *Colletotrichum acutatum* (anthracnose fruit rot). Wild coastal populations maintain genetic diversity that serves as a reservoir for disease resistance genes, some of which have been introgressed into commercial cultivars.
-
-The species also hosts [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi that enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in the nutrient-poor sandy soils of coastal dunes. These mycorrhizal associations are shared with other dune-stabilizing plants, forming an interconnected underground network that benefits the entire plant community.
-
-## See Also
-
-- [[fragaria-virginiana]]
-- [[fragaria-vesca]]
-- rubus idaeus
-- [[vaccinium-macrocarpon]]
-- [[physocarpus-opulifolius]]
-- [[achillea-millefolium]]
-- [[solidago-odora]]
-- [[corylus-cornuta]]
-- [[castanea-sativa]]
-- [[vaccinium-angustifolium]]

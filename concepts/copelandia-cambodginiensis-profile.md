@@ -5,6 +5,7 @@ tags: [copelandia, panaeolus, mycology, mushroom-profile, tropical]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -12,7 +13,7 @@ type: concept
 
 ## Taxonomy and Synonyms
 
-Panaeolus cambodginiensis Ola'h and Heim is a potently active
+[[panaeolus-cambodginiensis]] Ola'h and Heim is a potently active
 mushroom also known by its synonym Copelandia cambodginiensis
 (Ola'h and Heim) Singer and Weeks. The species was originally
 described from Cambodia. It belongs to the section Copelandia
@@ -20,7 +21,7 @@ within the genus [[stamets-panaeolus-cyanescens-copelandia-identification-ecolog
 [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]. Gill attachment is
 ascending and uncinate, with several tiers of intermediate gills
 inserted. The mottled appearance at maturity is a key feature for
-field identification that this species shares with all Panaeoli.
+[[palmer-mushroom-hunting-field-identification]] that this species shares with all Panaeoli.
 
 ### Stem
 
@@ -39,7 +40,7 @@ distinguishing feature from close relatives.
 ## Comparison with Related Species
 
 According to Ola'h (1969), P. cambodginiensis is larger in stature
-than its close relative Panaeolus tropicalis and generally smaller
+than its close relative [[panaeolus-tropicalis]] and generally smaller
 than tropisms-psilocybe-cubensis-gravitropism and [[copelandia-cambodginiensis]]
 ## Practical Considerations
 
@@ -86,18 +87,4 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[panaeolus-tropicalis]]
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation

@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,29 +88,3 @@ Mollison emphasizes selecting rootstock adapted to local conditions:
   for dwarf); seedling pear for large trees and poor soils
 - **Stone fruits:** Seedling rootstocks are common; specific clonal
   rootstocks exist for peach, plum, and cherry
-- **Citrus:** Trifoliate orange for cold hardiness; rough lemon for
-  vigor; sour orange for drought tolerance
-- **Mango:** Polyembryonic seedling rootstocks for uniformity and disease resistance
-
-## Compatibility and Timing
-
-Graft compatibility is essential -- closely related species graft most
-successfully. Mollison warns that inter-species grafts (e.g., apple on
-pear) often fail or are short-lived. Key timing considerations:
-
-- **Winter grafting (whip, cleft):** Dormant season, before sap flow
-- **Spring grafting:** As buds begin to swell, active cambium growth
-  promotes rapid union
-- **Summer budding (T-bud, chip bud):** During active growth when bark
-  slips
-
-Scion wood should be collected during dormancy, kept moist and cool,
-and grafted before bud break. Mollison recommends storing scion wood
-in sealed plastic bags with damp sphagnum moss in a refrigerator.
-
-## See Also
-
-- mollison-designers-grafting-fruit-tree-propagation
-- [[comparison-grafting-vs-budding-fruit-trees]]
-- [[permaculture-design]]
-- [[mollison-designers-coppicing-management-of-legume-trees]]

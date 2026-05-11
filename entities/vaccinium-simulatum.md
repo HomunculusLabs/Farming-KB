@@ -14,7 +14,7 @@ sources:
   - Vander Kloet, S.P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Research Branch, Agriculture Canada.
   - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species blueberries with notes on other groups of Vacciniaceae." Brittonia 5(3): 203–275.
   - Galletta, G.J. & Ballington, J.R. (1996). "Blueberries, cranberries, and lingonberries." In: Janick & Moore (eds.), Fruit Breeding, Vol. II. Wiley.
-  - Weakley, A.S. et al. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
+  - Weakley, A.S. et al. (2023). Flora of the Southeastern United States. University of [[north-carolina-mycodiversity]] Herbarium.
   - Prior, R.L. et al. (1998). "Antioxidant capacity as influenced by total phenolic and anthocyanin content." J. Agric. Food Chem. 46(7): 2686–2693.
 ---
 
@@ -52,15 +52,15 @@ Elevation ranges from approximately 300 to 1500 m, with peak abundance between 6
 
 Canopy cover in occupied sites ranges from 30–70%, with the species reaching maximum abundance in partially open woodland conditions created by periodic canopy disturbance. Light gaps formed by treefall, ice damage, or selective logging promote vigorous [[cannabis-vegetative-growth-stage]] and increased fruit production. The species responds positively to moderate levels of canopy disturbance but declines under both full canopy closure and complete exposure.
 
-Mean annual temperature across the species' range is approximately 8–14°C, with cold winters and warm, humid summers. Frost-free growing seasons range from 140 to 200 days depending on elevation. The species is winter-hardy to approximately -25°C, tolerating the cold temperatures typical of Appalachian ridge and gap environments.
+Mean annual temperature across the species' range is approximately 8–14°C, with cold winters and warm, humid summers. Frost-free [[jeavons-climate-adaptation-growing-seasons]] range from 140 to 200 days depending on elevation. The species is winter-hardy to approximately -25°C, tolerating the cold temperatures typical of Appalachian ridge and gap environments.
 
 ## Cultivation and Uses
 
-The upland blueberry has not been developed as a commercial crop, but its berries are widely harvested from wild populations in the southern Appalachian region. The fruit is used fresh, in baked goods, and for processing into jams, jellies, and pies. Wild harvesting represents a modest but culturally significant nontimber forest product in rural Appalachian communities.
+The upland blueberry has not been developed as a commercial crop, but its berries are widely harvested from wild populations in the southern [[bolete-fungi-appalachian-region]]. The fruit is used fresh, in baked goods, and for processing into jams, jellies, and pies. Wild harvesting represents a modest but culturally significant nontimber forest product in rural Appalachian communities.
 
 In blueberry breeding programs, *V. simulatum* has been evaluated as a source of genes for late-season ripening, [[dighton-fungal-drought-tolerance-plant-water-relations]], and adaptation to upland mineral soils. Researchers at North Carolina State University have examined the species for potential introgression into highbush blueberry backgrounds, particularly for developing cultivars suited to the increasingly warm and variable conditions of southern production regions.
 
-The species has moderate ornamental value for native plant landscaping in Appalachian and Piedmont regions. Its compact size, attractive foliage, and edible fruit make it suitable for woodland gardens, native hedgerows, and ecological restoration projects. Propagation from seed requires 60–90 days of cold stratification, and softwood cuttings root readily under mist with IBA treatment. Germination rates for stratified seed typically range from 40–60%. Plants grown from seed exhibit considerable phenotypic variation in growth habit, leaf morphology, and fruit characteristics, reflecting the species' outcrossing breeding system.
+The species has moderate ornamental value for native plant landscaping in Appalachian and Piedmont regions. Its compact size, attractive foliage, and edible fruit make it suitable for woodland gardens, native hedgerows, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects. Propagation from seed requires 60–90 days of cold stratification, and softwood cuttings root readily under mist with IBA treatment. Germination rates for stratified seed typically range from 40–60%. Plants grown from seed exhibit considerable phenotypic variation in growth habit, leaf morphology, and fruit characteristics, reflecting the species' outcrossing breeding system.
 
 Flowering coincides with peak native bee activity in montane forest openings and woodland edges, supporting high pollination rates in undisturbed populations. Studies of Vaccinium pollination in the southern Appalachians have found that forest-edge populations receive significantly more pollinator visits than interior forest populations, suggesting that maintaining forest-edge habitat is important for reproductive success.
 
@@ -84,23 +84,6 @@ The mid-summer to early autumn fruiting period of vaccinium simulatum provides a
 
 Pollination is primarily by native bees, including bumble bees (*Bombus* spp.), mason bees (*Osmia* spp.), and various small solitary bees. The urceolate flowers require buzz pollination for efficient pollen release. Flowering coincides with peak native bee activity in montane forest openings and woodland edges, supporting high pollination rates in undisturbed populations.
 
-The species forms [[ericoid-mycorrhiza|ericoid mycorrhizal]] associations essential for nutrient uptake in the acidic, nutrient-poor soils of Appalachian upland forests. These fungal partnerships enable access to organic forms of nitrogen and phosphorus unavailable to non-mycorrhizal plants. [[arbuscular-mycorrhizal-colonization-patterns]] rates in wild populations typically exceed 80% of root tips examined. Dominant mycorrhizal fungal associates include *Rhizoscyphus ericae* and *Oidiodendron maius*, both common Ericaceae symbionts in acidic forest soils. These fungi form extensive intracellular hyphal coils within root epidermal cells, dramatically expanding the effective absorptive surface area.
+The species forms [[ericoid-mycorrhiza]] associations essential for nutrient uptake in the acidic, nutrient-poor soils of Appalachian upland forests. These fungal partnerships enable access to organic forms of nitrogen and phosphorus unavailable to non-mycorrhizal plants. [[arbuscular-mycorrhizal-colonization-patterns]] rates in wild populations typically exceed 80% of root tips examined. Dominant [[arbuscular-mycorrhizal-fungal-diversity]] associates include *Rhizoscyphus ericae* and *[[oidiodendron-maius]]*, both common Ericaceae symbionts in acidic forest soils. These fungi form extensive intracellular hyphal coils within root epidermal cells, dramatically expanding the effective absorptive surface area.
 
 The mycorrhizal dependency of *V. simulatum* has implications for restoration plantings on disturbed Appalachian sites. Inoculation with native mycorrhizal fungi significantly improves seedling establishment and early growth compared to non-inoculated controls. This finding supports the use of soil transplants from healthy reference sites when establishing *V. simulatum* in ecological restoration projects.
-
-The upland blueberry provides structural habitat within the understory shrub layer of Appalachian forests. Dense multi-stemmed individuals offer nesting sites and protective cover for ground-nesting birds, small mammals, and amphibians. The species contributes to overall understory biodiversity and is an indicator of intact, fire- or disturbance-maintained upland forest communities.
-
-In the Great Smoky Mountains National Park, *V. simulatum* is one of the more commonly encountered understory Vaccinium species on dry ridge-top trails and exposed heath balds. Long-term vegetation monitoring plots in the park have documented stable populations over the past three decades, suggesting resilience to ambient levels of environmental change. However, the species' sensitivity to acid deposition and atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] remains poorly understood and represents a potential concern for high-elevation populations.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-pallidum]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-vitis-idaea]]
-- [[ericoid-mycorrhiza]]
-- [[kalmia-latifolia]]
-- [[rhododendron-ferrugineum]]
-- gaultheria-procumbens
-- [[solidago-odora]]

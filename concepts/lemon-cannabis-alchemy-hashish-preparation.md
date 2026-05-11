@@ -1,5 +1,5 @@
 ---
-title: Preparation of Hashish from cervantes-hash-cannabis-oil-production
+title: Lemon Cannabis Alchemy Hashish Preparation
 created: 2026-04-28
 tags: [cannabis, hashish, preparation, oil, traditional]
 date: 2026-04-28
@@ -11,9 +11,9 @@ type: concept
 
 # Preparation of Hashish from Cannabis Oil
 
-Chapter 4 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by Ben Lemon describes how to prepare
+Chapter 4 of *[[lemon-cannabis-alchemy-advanced-refinement-techniques]]* by [[ben-lemon]] describes how to prepare
 [[cannabis-hashish-from-extracted-oil-techniques]] cannabis oil by mixing it with finely powdered
-marijuana. This chapter bridges the extraction chemistry of the earlier
+marijuana. This chapter bridges the [[mushroom-polysaccharide-extraction-chemistry]] of the earlier
 chapters with traditional hashish-making techniques from various cannabis
 cultures [[fungi-around-the-world-species-distribution]].
 
@@ -88,48 +88,3 @@ The chapter places this modern extraction-based technique within the
 context of traditional hashish-producing regions. The consistency of the
 final product is deliberately matched to traditional forms: powdery
 Moroccan and Lebanese hash at lower oil concentrations, and the sticky,
-pliable charas of Nepal and India at higher concentrations.
-
-This approach allows the practitioner to produce hashish of any desired
-potency while maintaining the physical characteristics associated with
-traditional products from specific regions.
-
-## Key Points
-
-- Hashish is made by mixing extracted cannabis oil with powdered
-  marijuana.
-- Minimum 15% oil content is needed for proper hashish consistency.
-- Maximum 50-60% oil content produces Nepalese charas-like consistency.
-- Taste and smell compounds can be removed from the plant dust by
-  alcohol and water extraction before mixing.
-- Various traditional forms can be molded: patties, temple balls, or
-  pressed blocks.
-- Heating both components facilitates thorough mixing and kneading.
-- The powder must be completely dry before mixing to prevent
-  inconsistent texture.
-
-## Potency Considerations
-
-The potency of the final hashish product depends on two factors: the
-quality and refinement of the oil used, and the oil-to-powder ratio. Oil
-that has undergone isomerization and acetylation will produce hashish
-far stronger than oil from a simple [[pf-tek-alcohol-extraction-method]].
-
-Even at the minimum 15% oil content, hashish made with isomerized and
-acetylated oil can be significantly more potent than traditional
-hashish. At the maximum 50-60% oil content with fully refined oil, the
-product represents some of the most potent cannabis preparations
-described in the book.
-
-The choice between lower and higher oil concentrations involves a
-tradeoff between potency and the physical handling characteristics of
-the hashish. Lower oil content produces a drier, more crumbly product
-that is easier to store and divide. Higher oil content produces a
-stickier, more pliable product that is harder to handle but delivers
-more psychoactive material per unit of weight.
-
-## Related
-
-- [[lemon-cannabis-alchemy-thc-extraction-purification]]
-- [[lemon-cannabis-alchemy-isomerization]]
-- [[lemon-cannabis-alchemy-tinctures-and-edibles]]

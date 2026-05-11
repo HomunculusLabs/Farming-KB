@@ -31,7 +31,7 @@ obvious -- it is transparent -- but it somehow separated me from everything
 around me. I do not think the overall experiment was worth it."
 
 (with 100 mg) "Material all right, but a little bit along the lines of a
-'generic' psychedelic effect. Sharper edges than 2c-b-compound-profile|2C-B.
+'generic' psychedelic effect. Sharper edges than [[2c-b-compound-profile]]|2C-B.
 The one true negative, which has been pretty consistent with this drug, is
 that there is a certain emotional removal. One teeny step removed. One is
 connected with feelings, certainly, but there is a tendency for the intellect
@@ -88,15 +88,3 @@ Both mono-ethoxy Tweetios of 2C-T have been synthesized and evaluated:
   2C-T, originally code-named DOT
 
 ## Character Assessment
-
-2C-T occupies a unique position as a short-acting, low-potency psychedelic
-with a character described as intellectually-focused rather than emotionally
-or visually rich. Its primary reported value is as a brief, controllable
-experience with minimal visual disturbance and a tendency toward intellectual
-clarity. The emotional distance reported by multiple experimenters is its
-most consistently noted limitation.
-
-## Source
-
-[[pihkal-introduction-and-methodology]] by Alexander and [[ann-shulgin]],
-Entry #39

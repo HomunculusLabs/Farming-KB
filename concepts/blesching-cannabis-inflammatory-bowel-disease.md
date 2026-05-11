@@ -1,8 +1,8 @@
 ---
-title: Cannabis for blesching cannabis inflammatory bowel disease Disease
+title: Blesching Cannabis Inflammatory Bowel Disease
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-autoimmune-conditions-detailed cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -23,7 +23,7 @@ IBS is classified according to the primary symptoms displayed by each patient:
 - **IBS-A**: Alternating diarrhea with constipation
 - **IBS-PI**: Post-infectious IBS
 
-Ulcerative colitis is a form of IBD that can affect other body parts as well. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the gastrointestinal tract.
+[[cannabis-and-ulcerative-colitis]] is a form of IBD that can affect other body parts as well. Crohn's disease, another form of IBD, is an autoimmune disorder affecting the gastrointestinal tract.
 
 ### Symptoms
 
@@ -58,7 +58,7 @@ Tested numerous novel molecules that exert their biological effects through the 
 
 **Alberta, Canada (2008):**
 
-Researchers showed that cannabinoids reduced colitis in test animals. The scientists concluded that "drugs targeting EC degradation offer therapeutic potential in the treatment of inflammatory bowel diseases."
+Researchers showed that cannabinoids reduced colitis in test animals. The scientists concluded that "drugs targeting EC degradation offer [[metzner-ayahuasca-therapeutic-potential]] in the treatment of inflammatory bowel diseases."
 
 **Naples, Italy (2008):**
 
@@ -87,13 +87,3 @@ Consider: "Diarrhea occurred when an individual wanted to be done with a situati
 Consider: "Nausea and vomiting occurred when an individual was thinking of something which he wished had never happened. He was preoccupied with the mistake he had made, rather than with what he should have done instead." The authors concluded that "vomiting is a way of undoing something which has been done."
 
 ### Summary of Aggravating and Healing Factors
-
-Aggravating factors: major depression, anxiety, somatoform disorders, tendency for negative affect. IBS-C: holding on without change. IBS-D: wanting to get rid of something or somebody, hyper-focus on regret or remorse.
-
-Consider engaging: antidepressive measures, anti-anxiety measures; working to decipher any message(s) of the physical symptoms; improving tendency for positive affect. IBS-C: work on releasing with ease. IBS-D: work on reducing fear, worry, and stress; focus instead on forgiveness, learning from the situation, and initiating positive action.
-
-## Adjunctive Therapies
-
-**Turmeric**: In a meta-study, scientists gave an overview of decades of scientific studies on turmeric. Turmeric showed promise as a treatment for adenomatous polyposis (multiple polyps in the large intestine -- precursor to [[cannabis-and-colon-cancer-research]]), inflammatory bowel disease, and ulcerative colitis.
-
-**Acacia**: Research suggests that acacia improves stool consistency and reduces the occurrence of fecal incontinence in adults. Alternative practitioners have begun to use the highly soluble fiber to ease symptoms of irritable bowel syndrome. See [[blesching-cannabis-gi-disorders-ibs-crohns]] for broader GI coverage, and [[blesching-cannabis-dosing-strategies]] for dosing guidance.

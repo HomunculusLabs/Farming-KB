@@ -88,14 +88,3 @@ targeted signaling profiles could theoretically produce therapeutic benefits
 with reduced psychoactive effects.
 
 ## Tryptamines and Neuroplasticity
-
-Classical tryptamine psychedelics promote structural and functional
-neuroplasticity through multiple converging mechanisms. 5-HT2A activation
-triggers intracellular signaling cascades including the mTOR pathway and
-BDNF upregulation, leading to increased dendritic spine density and
-synaptogenesis in cortical neurons. These structural changes have been
-observed in animal models following both acute and repeated administration
-of psychedelic tryptamines.
-
-The neuroplastic effects of tryptamines are hypothesized to underlie their
-therapeutic potential in depression, anxiety, and substance use disorders.

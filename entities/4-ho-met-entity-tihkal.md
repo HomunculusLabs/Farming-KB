@@ -88,35 +88,3 @@ subtle qualitative differences in color emphasis, emotional tone, and body
 feel are consistently reported by experienced users.
 
 ## Harm Reduction and Safety Considerations
-
-- Standard tryptamine harm reduction applies: start low, go slow, pay attention to [[lsd-set-and-setting-framework]]
-
-- The wave-like nature of the experience means effects may intensify after initial mild onset
-
-- Nausea is possible during the first 30-60 minutes
-
-- Avoid combining with MAO inhibitors, SSRIs, lithium, or other serotonergic medications
-
-- Individuals with cardiovascular conditions should exercise caution; tryptamines can produce transient blood pressure elevation
-
-- As with all psychedelics, individuals with personal or family history of psychosis should exercise particular caution
-
-- Adequate hydration and nutrition before and after the experience are recommended
-
-## Legal Status
-
-4-HO-MET is not specifically scheduled in most jurisdictions. As a 4-hydroxy-N-alkyltryptamine, it could potentially fall under analogue legislation related to psilocin or [[psilocybin]] in countries with broad controlled substance analogue provisions. In the US, the Federal Analogue Act could apply. Some countries have enacted specific bans on 4-HO-MET and related compounds. The UK's Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016) covers it as a psychoactive substance.
-
-## Cultural and Historical Significance
-
-4-HO-MET does not have traditional or ceremonial use. It emerged from the
-systematic laboratory exploration documented in TIHKAL and gained some
-prominence on the online research chemical market during the mid-to-late
-2000s, where it was valued for its similarity to psilocin with slightly
-different qualitative characteristics.
-
-Its informal names "metocin" and "colour" reflect the user community's
-perception of its effects as being particularly color-rich and visual. The
-compound's history illustrates the ongoing relationship between academic
-psychedelic chemistry and the broader community of psychedelic users and
-researchers.

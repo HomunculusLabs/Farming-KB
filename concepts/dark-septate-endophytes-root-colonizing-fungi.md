@@ -1,5 +1,5 @@
 ---
-title: Dark [[dark-septate-endophytes]] root colonizing fungi and Root-Colonizing Fungi
+title: Dark Septate Endophytes Root Colonizing Fungi
 created: 2026-04-26
 tags:
   - endophytes

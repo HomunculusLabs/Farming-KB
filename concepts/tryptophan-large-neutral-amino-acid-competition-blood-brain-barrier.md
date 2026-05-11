@@ -66,7 +66,7 @@ potentially affecting both intensity and character of psychedelic experiences.
 Second, the LNAA competition principle underlies proposed mechanisms for the
 serotonergic effects of exercise and fasting — practices sometimes recommended in
 [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] preparation. Third, understanding this system provides context
-for the dietary recommendations often included in psychedelic therapy preparation
+for the dietary recommendations often included in [[metzner-grof-perinatal-matrices-psychedelic-therapy]] preparation
 protocols, where some clinicians recommend reducing dietary protein intake in the
 days preceding a session to potentially increase the tryptophan-to-LNAA ratio.
 
@@ -88,34 +88,3 @@ mood and cognition.
 
 Animal-based proteins generally have higher Fischer ratios (more competition for
 tryptophan transport) than plant-based proteins, which tend to be relatively richer
-in tryptophan. This difference has been cited as one potential factor underlying
-observations about mood differences associated with different dietary patterns,
-though the relationship is complex and influenced by numerous confounding variables.
-
-## Acute Tryptophan Depletion
-
-Acute tryptophan depletion (ATD), achieved by administering a tryptophan-free amino
-acid mixture that exploits the competitive transport mechanism to dramatically reduce
-brain tryptophan, has been used extensively as a research tool to probe serotonergic
-contributions to mood regulation. ATD temporarily lowers brain serotonin and can
-induce depressive symptoms in recovered depressed patients, supporting the serotonin
-hypothesis of depression.
-
-ATD has also been used to study the serotonergic contributions to psychedelic
-effects. By depleting brain serotonin prior to a psychedelic experience, researchers
-have been able to parse the contributions of serotonergic versus non-serotonergic
-mechanisms. The results generally support the primacy of direct 5-HT2A agonism for
-hallucinogenic effects, but suggest that the pre-existing serotonergic tone modulates
-emotional and cognitive aspects of the experience.
-
-## Key References
-
-Pardridge, W.M. (1977). Journal of Neurochemistry, 28(1), 103-108. Fernstrom, J.D. &
-Wurtman, R.J. (1972). Science, 178(4059), 414-416. Smith, Q.R. (2000). Advanced Drug
-Delivery Reviews, 36(2-3), 295-306. van Praag, H.M. (1981). "Carbohydrate craving and
-obesity: the serotonin connection." Journal of Clinical Psychiatry, 42(12), 44-47.
-
-## See Also
-- [[tryptophan]]
-- [[fish-amino-acid]]
-- [[fish-amino-acid-faa]]

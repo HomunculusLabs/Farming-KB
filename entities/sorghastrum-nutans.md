@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Miscellaneous Publication No. 200.
-  - Peeters, A. (2004). "Wild Grasses: Their Use in Landscape Design and Ecological Restoration." B.T. Batsford.
+  - Peeters, A. (2004). "Wild Grasses: Their Use in Landscape Design and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]." B.T. Batsford.
   - Packard, S. & Mutel, C.F. (1997). "The Tallgrass Restoration Handbook." Island Press.
   - Moser, L.E. & Vogel, K.P. (1995). "Grasslands: Ecology, Management, and Quality." CSSA Special Publication.
   - USDA NRCS. "Plant Guide — Indiangrass (Sorghastrum nutans)." USDA Natural Resources Conservation Service.
@@ -23,7 +23,7 @@ Sorghastrum nutans, commonly known as indiangrass, is a warm-season perennial bu
 
 It is one of the four dominant species of the historic tallgrass prairie ecosystem, alongside big bluestem, little bluestem, and switchgrass.
 
-The species is valued for forage production, ornamental landscaping, and prairie restoration projects across much of the United States.
+The species is valued for forage production, ornamental landscaping, and [[comparison-prairie-restoration-vs-silvopasture]] projects across much of the United States.
 
 Its distinctive golden flower plumes and blue-green foliage make it readily identifiable in late summer and early autumn.
 
@@ -55,7 +55,7 @@ Root systems are deep and extensive, with individual roots penetrating 1.5 to 3 
 
 ## Distribution and Habitat
 
-Sorghastrum nutans is native to central and eastern North America, ranging from Quebec and Ontario south to Florida and west to Montana and Arizona.
+Sorghastrum nutans is native to central and [[polypore-fungi-eastern-north-america]], ranging from Quebec and Ontario south to Florida and west to Montana and Arizona.
 
 It is most abundant in the tallgrass prairie region of the Midwest, including Iowa, Illinois, Kansas, Nebraska, and Oklahoma.
 
@@ -75,7 +75,7 @@ The species has been widely introduced outside its native range for forage and r
 
 Sorghastrum nutans is a dominant or codominant component of tallgrass prairie plant communities across the central United States.
 
-It provides excellent wildlife habitat, offering cover, nesting sites, and seeds for numerous bird and small mammal species.
+It provides excellent [[hemenway-backyard-wildlife-habitat]], offering cover, nesting sites, and seeds for numerous bird and small mammal species.
 
 The seeds are consumed by granivorous birds including field sparrows, slate-colored juncos, and various finch species.
 
@@ -87,39 +87,4 @@ It is well-adapted to frequent fire regimes, resprouting vigorously from basal b
 
 Fire suppression in the eastern tallgrass prairie region has contributed to the decline of indiangrass and its replacement by woody vegetation.
 
-The species supports mycorrhizal associations, particularly with arbuscular mycorrhizal fungi that enhance nutrient uptake.
-
-Indiangrass litter contributes significantly to soil organic matter accumulation in prairie ecosystems.
-
-## Cultivation and Uses
-
-Seed of Sorghastrum nutans requires stratification or a period of cold-moist treatment for optimal germination.
-
-Recommended seeding rates for prairie restoration range from 6 to 10 kg of pure live seed per hectare.
-
-Seed dormancy can be significant, with germination rates of 30 to 60 percent without pretreatment.
-
-Stand establishment is slower than many cool-season grasses, typically requiring two to three growing seasons to reach full productivity.
-
-As a forage grass, indiangrass produces high-quality summer forage with crude protein content of 8 to 14 percent during the growing season.
-
-It provides excellent summer pasture when cool-season grasses are semi-dormant due to heat and drought stress.
-
-Hay yield ranges from 4 to 8 tonnes per hectare under favorable conditions with adequate nitrogen fertilization.
-
-In ornamental horticulture, Sorghastrum nutans is planted for its vertical accent, golden plumes, and fall color.
-
-Cultivars selected for ornamental use include 'Sioux Blue' (intense blue foliage) and 'Indian Steel' (steel-blue leaves with yellow flowers).
-
-The species is widely used in roadside revegetation, mine reclamation, and conservation reserve plantings across the central United States.
-
-## See Also
-
-- [[andropogon-gerardii]]
-- [[panicum-virgatum]]
-- [[schizachyrium-scoparium]]
-- [[bouteloua-curtipendula]]
-- [[elymus-canadensis]]
-- [[bromus-inermis]]
-- [[festuca-arundinacea]]
-- [[miscanthus-sinensis]]
+The species supports [[plants-without-mycorrhizal-associations]], particularly with [[arbuscular-mycorrhizal-fungi]] that enhance nutrient uptake.

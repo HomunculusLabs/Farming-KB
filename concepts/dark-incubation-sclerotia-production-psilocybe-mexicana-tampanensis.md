@@ -88,32 +88,3 @@ Compared to standard mushroom cultivation, sclerotia production offers several p
 7. **Predictable yield:** Sclerotia production is generally more consistent than mushroom fruiting, which can be sensitive to environmental fluctuations.
 
 The primary disadvantages are the long incubation time (4 months versus 4–6 weeks for mushrooms) and the generally lower total alkaloid yield per unit of substrate compared to a well-managed multi-flush mushroom grow. Sclerotia also cannot be cloned or subcultured as readily as mushroom tissue, since the sclerotial mass must be opened and exposed to potential contamination for harvesting.
-
-## Troubleshooting Common Problems
-
-Several issues can arise during sclerotia cultivation:
-
-- **No sclerotia formation:** This may indicate the wrong species (not all *Psilocybe* species form sclerotia), insufficient incubation time, or suboptimal substrate moisture. Ensure the seed is properly hydrated but not waterlogged.
-- **Contamination during incubation:** Usually caused by improper sterilisation or poor [[pf-tek-inoculation-technique-and-syringe-management]]. If contamination appears before full colonisation, the jar should be discarded. Contamination appearing after full colonisation can sometimes be managed by removing the affected area, but the jar should be monitored carefully.
-- **Mushroom formation in the jar:** If light reaches the jar or the lid is too loose, the mycelium may initiate fruiting inside the jar rather than forming sclerotia. This wastes metabolic resources on mushroom production in an unsuitable environment. Ensure jars are kept in complete darkness.
-- **Small sclerotia:** May indicate insufficient incubation time (harvest too early), low substrate nutrient content, or suboptimal temperature. Extending the incubation period and maintaining consistent temperature (20–25 °C) typically improves sclerotial size.
-- **Soft or mushy sclerotia:** This indicates bacterial contamination or excessive moisture. Properly formed sclerotia should be firm and hard, similar to nuts or small potatoes.
-
-## Biological Function of Sclerotia
-
-In nature, sclerotia serve as long-term survival structures that allow the fungus to persist through adverse conditions. They are composed of densely packed hyphae with thick cell walls, significant reserves of glycogen and lipids, and reduced [[arbuscule-isolation-metabolic-activity-assays]] compared to actively growing mycelium. The outer rind (cortex) of the sclerotium is typically heavily melanised, providing protection against UV radiation, desiccation, and microbial degradation. The inner medulla contains the nutrient reserves and viable hyphae. When environmental conditions become favourable (adequate moisture, suitable temperature, nutrient availability), sclerotia can germinate to produce either mycelium (vegetative growth) or fruiting bodies directly (reproductive growth), depending on the species and conditions. This dual germination capacity makes sclerotia highly effective at propagating the fungus across both temporal (seasonal) and spatial gaps in favourable conditions. In *Psilocybe* species, sclerotia are primarily a means of surviving dry seasons in subtropical and tropical grasslands, where the fungus fruits after seasonal rains.
-
-## Commercial and Legal Context
-
-In the Netherlands, psilocybin-containing mushrooms were banned in 2008, but sclerotia (truffles) remained legal until they were also banned in 2019. During this eleven-year window, a significant commercial industry developed around the cultivation and sale of "magic truffles," primarily *P. tampanensis* and *P. mexicana* sclerotia. Dutch smart shops sold truffles under various brand names with standardised packaging and dosing guidelines (typically 15 g fresh as a standard dose). This commercial scale was made possible largely by the simplicity of the jar cultivation method described here, which allows predictable, scalable production without the complexity of mushroom fruiting infrastructure. The Dutch truffle industry developed sophisticated packaging, branding, and dosing standards for sclerotia, establishing conventions that persist in the grey market today. The legal distinction between mushrooms and sclerotia that existed during this period was biologically arbitrary — both contain the same active alkaloids — but reflected the specific wording of the Dutch ban, which prohibited "mushrooms" (paddo's) but did not initially address sclerotia (truffels).
-
-## Historical Note: Steven Pollock and P. tampanensis
-
-*Psilocybe tampanensis* has a unique place in the history of psychedelic mycology. It was discovered in 1977 near Tampa, Florida, by Steven Pollock, a physician and mycologist who was one of the pioneers of  mushroom cultivation. Pollock developed many of the techniques that would later become standard in the cultivation community, including improved methods for growing *P. cubensis*. His 1977 discovery of *P. tampanensis* was significant because it was only the second *Psilocybe* species known to produce sclerotia (after *P. mexicana*). Tragically, Pollock was murdered in 1981, and the original Tampa collection of *P. tampanensis* remains the only confirmed wild specimen ever found. All cultivated *P. tampanensis* material worldwide is descended from spores collected by Pollock from that single fruiting body. This [[cervantes-genetic-bottleneck-and-diversity-loss]] makes the species particularly vulnerable to loss, and underscores the importance of maintaining cultivated cultures of this historically and biologically significant fungus.
-
-## Related
-
-- [[substrate-preparation]] rate preparation methods
-- emcdda-hallucinogenic-mushroom-sclerotia-truffle-products — Regulatory and market context for truffle products
-- [[casing-soil-preparation-mushroom-cultivation]] — Alternative: cased mushroom production from same substrate
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] — Minor alkaloids also found in sclerotia

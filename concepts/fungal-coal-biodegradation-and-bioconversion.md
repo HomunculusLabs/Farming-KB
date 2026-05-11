@@ -88,21 +88,3 @@ amendments, and potentially liquid fuels.
   dioxide emissions when combustion remains the intended use.
 - The bioconversion process operates under mild conditions
   compared to conventional coal processing, requiring only
-  moderate temperatures and near-neutral pH.
-## Limitations and Future Directions
-Several barriers prevent widespread adoption of fungal coal
-bioconversion at industrial scale. These challenges are shared with
-other applications of [[mycoremediation-basics]] in field environments.
-- Coal bioconversion rates are slow compared to conventional
-  processing, often requiring weeks to months for meaningful
-  conversion of coal substrates.
-- Scale-up introduces challenges with aeration, mixing,
-  temperature control, and maintaining active fungal biomass
-  over extended treatment periods.
-- Metagenomic screening of coal-associated [[cannabis-rhizosphere-microbial-communities]]
-  may reveal novel species with superior coal-transforming
-  capabilities not yet identified through traditional culture
-  methods.
-- Enzyme engineering could improve the activity and stability
-  of [[ligninolytic-enzyme-systems-white-rot-fungi]] for coal
-  depolymerization under industrial operating conditions.

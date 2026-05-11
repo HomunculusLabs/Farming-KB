@@ -13,7 +13,7 @@ sources:
   - E.F. Anderson (2001). "The Cactus Family." Timber Press.
   - D.R. Hunt (2006). "The New Cactus Lexicon." DH Books.
   - L. scattered weeds (2020). "Global Invasive Species Database: Opuntia stricta." IUCN.
-  - M.C. Griffith (2004). "The biological control of Opuntia stricta in South Africa." BioControl 49(5).
+  - M.C. Griffith (2004). "The [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of Opuntia stricta in South Africa." BioControl 49(5).
   - M. Nefzaoui and H. Ben Salem (2002). "Cactus as a livestock feed." FAO Plant Production and Protection Paper.
 ---
 
@@ -43,7 +43,7 @@ Flowers are yellow, 5 to 8 centimeters in diameter, borne on the margins of term
 
 Fruits are obovate to subglobose berries, 4 to 7 centimeters long, ripening from green to purplish-red. The pulp is juicy and sweet, containing numerous seeds embedded in a mucilaginous matrix. Each fruit contains 50 to 150 small, hard seeds approximately 3 to 4 millimeters in diameter.
 
-The fruit skin is thin but covered with small areoles bearing glochids, requiring careful handling during harvest and processing. Commercial fruit production from Opuntia stricta is limited compared to [[opuntia-ficus-indica]], though the fruits are gathered from wild or naturalized populations in many regions.
+The fruit skin is thin but covered with small areoles bearing glochids, requiring careful handling during [[animal-harvest-and-processing]]. Commercial fruit production from Opuntia stricta is limited compared to [[opuntia-ficus-indica]], though the fruits are gathered from wild or naturalized populations in many regions.
 
 ## Distribution and Habitat
 
@@ -65,7 +65,7 @@ This biological control program is widely regarded as one of the most successful
 
 In South Africa, Opuntia stricta invades savanna, grassland, and thicket biomes, displacing native plant species and reducing grazing capacity. Dense stands create a microclimate that inhibits the germination and growth of native grasses and forbs beneath the canopy.
 
-Control methods include mechanical removal, chemical herbicides, and biological control using insect agents. Integrated management combining biological and mechanical approaches has proven most effective, particularly in large-scale infestations where chemical control alone is impractical.
+[[cho-natural-pest-control-methods]] include mechanical removal, chemical herbicides, [[odonata-dragonflies-damselflies-ecology-and-biological-control]] using insect agents. [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] combining biological and mechanical approaches has proven most effective, particularly in large-scale infestations where chemical control alone is impractical.
 
 The species reproduces both sexually through seed production and vegetatively through cladode detachment. Dislodged cladodes readily root where they contact soil, enabling rapid vegetative spread. Seeds are dispersed by birds, mammals, and water, and can persist in the soil for up to 10 years.
 
@@ -83,37 +83,8 @@ The ripe fruits of Opuntia stricta are edible and have been consumed by indigeno
 
 The young cladodes (nopales) are consumed as a vegetable in Mexican and Central American cuisine. The spines and glochids are removed by singeing or scraping, and the pads are cooked or eaten raw in salads. Nopales are valued for their mucilaginous texture and nutritional content.
 
-Nutritional analysis of Opuntia cladodes reveals high levels of dietary fiber, vitamin C, calcium, and magnesium, along with low caloric content. The high fiber content contributes to satiety and has been associated with improved glycemic control in clinical studies of patients with type 2 diabetes.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of Opuntia cladodes reveals high levels of dietary fiber, vitamin C, calcium, and magnesium, along with low caloric content. The high fiber content contributes to satiety and has been associated with improved glycemic control in clinical studies of patients with type 2 diabetes.
 
 In arid regions of Africa and India, Opuntia stricta has been planted as a drought-resistant fodder crop for livestock. The cladodes are high in water content and provide supplemental forage during dry periods when other feed sources are scarce. Spineless varieties have been selected for fodder use.
 
 Research conducted in South Africa and Ethiopia has demonstrated that Opuntia cladodes can serve as a significant dry-season supplement for cattle, sheep, and goats. When spines are removed by burning or mechanical means, the cladodes provide both hydration and nutrients, substantially improving animal survival during prolonged droughts.
-
-Traditional medicinal uses include the application of cladode sap as a topical treatment for wounds, burns, and inflammation. In Mexican folk medicine, the cladodes are used to treat diabetes and hypercholesterolemia, practices supported by some modern pharmacological studies demonstrating hypoglycemic and lipid-lowering effects in animal models.
-
-The mucilaginous gel extracted from cladodes has been investigated for wound-healing properties. Topical application of Opuntia cladode extracts has been shown to accelerate wound closure and reduce inflammation in experimental animal models, likely through modulation of cytokine activity and collagen deposition.
-
-## Bioactive Compounds
-
-Opuntia stricta contains a range of bioactive compounds typical of the Cactaceae family. The cladodes are rich in mucilage, pectin, and dietary fiber, which contribute to their traditional use in treating gastrointestinal disorders and their modern interest as functional food ingredients.
-
-Flavonoids detected in the cladodes and fruits include quercetin, kaempferol, and luteolin glycosides. These compounds contribute to the documented antioxidant and anti-inflammatory activities of Opuntia extracts in vitro and in animal models.
-
-Betalains, the nitrogen-containing pigments characteristic of the Cactaceae, are present in the fruit pulp. These include betanin and indicaxanthin, which exhibit strong antioxidant activity and have been investigated for their potential health benefits including hepatoprotective and neuroprotective effects.
-
-The cladodes contain moderate levels of vitamin C, calcium, and magnesium. Phenolic acids including ferulic acid and caffeic acid have also been identified and contribute to the overall antioxidant capacity of cladode extracts.
-
-Alkaloid content in Opuntia stricta is low compared to psychoactive cactus species. Trace amounts of mescaline-related compounds have been detected in some analyses, but concentrations are far below pharmacological thresholds. The primary bioactivity is attributed to polysaccharides, flavonoids, and betalains rather than alkaloids.
-
-## See Also
-
-- [[opuntia-ficus-indica]]
-- [[echinopsis-pachanoi]]
-- cereus peruvianus
-- [[lophophora-williamsii]]
-- [[pihkal-mescaline]]
-- [[peyote-ceremony]]
-- [[quercetin]]
-- [[kaempferol]]
-- [[luteolin]]
-- [[invasive-species-management]]

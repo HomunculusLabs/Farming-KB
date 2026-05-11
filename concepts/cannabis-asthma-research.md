@@ -1,5 +1,5 @@
 ---
-title: Cannabis and Asthma Research
+title: Cannabis Asthma Research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -67,16 +67,16 @@ For asthma, non-smoked delivery methods are essential:
 - **Vaporization:** Heats cannabis to release cannabinoids without combustion; significantly reduces smoke and irritants
 - **Tinctures/sublingual:** Fast absorption without lung involvement
 - **Edibles:** Slow onset but long duration; no lung irritation
-- **Topical:** Not relevant for respiratory conditions
+- **Topical:** Not relevant for [[cannabis-respiratory-conditions]]
 
 ### Evidence Summary
 | Substance | Study Type | Key Finding | CHI |
 |-----------|-----------|-------------|-----|
 | THC (various delivery methods) | Clinical and laboratory studies | Bronchodilatory effects; opens airways | 3 |
 | CBD | Laboratory studies | Anti-inflammatory effects on airway tissues | 2 |
-| **Total CHI Value** | | | **5** |
+| **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **5** |
 
-Note: Direct [[mushroom-cancer-clinical-trials-overview]] specifically on cannabis for asthma are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
+Note: Direct [[mushroom-cancer-clinical-trials-overview]] specifically on [[cannabis-for-asthma]] are limited. Most evidence comes from studies of cannabinoid mechanisms in the respiratory system and patient reports.
 
 ## Strain-Specific Considerations
 
@@ -88,33 +88,3 @@ High-CBD strains or CBD-dominant preparations may be particularly relevant for a
 
 Asthma has well-documented psychological components:
 - Stress and anxiety can trigger or worsen asthma attacks
-- Emotional factors (fear, anger, excitement) can induce bronchospasm
-- Breathing pattern disorders are common in asthma patients
-- The anticipation of an attack can itself trigger one
-
-Mind-body approaches with evidence for asthma management:
-- **Breathing exercises:** Buteyko method, diaphragmatic breathing, pursed-lip breathing
-- **Relaxation techniques:** Progressive muscle relaxation, meditation
-- **Biofeedback:** Learning to control physiological responses
-- **Yoga:** Combines breathing, movement, and relaxation
-- **Cognitive behavioral therapy:** Addressing anxiety and fear related to breathing
-
-## Safety Considerations
-
-1. **Never smoke** cannabis if you have asthma
-2. **Vaporization** may be acceptable for some patients but should be approached cautiously
-3. **Consult a pulmonologist** before using cannabis for asthma management
-4. **Do not replace** prescribed asthma medications with cannabis without medical supervision
-5. **Start with low doses** and monitor airway response
-6. **Have rescue medication** (inhaler) available at all times
-
-## See Also
-
-- [[cannabis-anti-inflammatory-applications]]
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-health-index]]
-
-## Source
-
-Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, Asthma section
-- [[cannabis-topical-applications]]

@@ -88,18 +88,3 @@ Grifolan has been investigated in veterinary medicine for canine immune support 
 Ongoing research on grifolan includes large-scale randomized controlled trials for cancer adjunctive therapy, mechanistic studies on trained immunity induction, development of nanoformulations for improved oral bioavailability, investigation of synergistic combinations with checkpoint inhibitor immunotherapy, and standardization of analytical methods for quality control of commercial preparations.
 
 ## Comparison with Other Mushroom Beta-Glucans
-
-| Property | Grifolan | [[schizophyllan]] | PSK |
-|---|---|---|---|---|
-| Source | [[lentinula-edodes]] | [[trametes-versicolor-entity]] |
-| Main linkage | beta-1,3 | beta-1,3 | beta-1,3 | beta-1,4/1,3 |
-| Branching | beta-1,6 | beta-1,6 | beta-1,6 | beta-1,6 |
-| Clinical use | Supplement | Cancer adjuvant | Cancer adjuvant | Cancer adjuvant |
-| Administration | Oral/IP | IV/IP | IV/SC | Oral |
-
-## See Also
-
-- [[beta-glucans]]
-- [[psk-polysaccharide-krestin]]
-- [[lentinan]]
-- [[grifola-umbellata]]

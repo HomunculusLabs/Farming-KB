@@ -88,22 +88,3 @@ filamentous fungi can precipitate heavy metals as insoluble [[fungal-calcium-oxa
 Rocks exposed to high solar radiation, high temperatures, low nutrients, and
 low humidity are colonized by unique stress-tolerant fungi. Black yeasts and
 dematiaceous mycelial fungi dominate rock surfaces. They share high melanin
-production, which appears to be an adaptation to reduce UV irradiation
-exposure. These fungi participate in the formation of "desert varnish" -- dark
-coatings rich in manganese and iron oxides.
-Phoenicoid (pyrophilous) fungi are specialized primarily Ascomycota and
-Basidiomycota that fruit on burned soil and plant material following fire.
-Forest fires typically increase pH by 3-5 units due to ash deposition.
-Fruiting times vary from as early as 7 weeks to 50+ weeks after fire.
-Representative taxa include Pyronema, Peziza, and Neotiella species.
-## Research and Industrial Significance
-Stress-tolerant fungi hold promise for novel industrial applications including
-enzymes from thermophiles for biomass processing, osmotolerant yeasts for
-bioethanol production, and metal-tolerant fungi for bioremediation. Extremophilic
-fungi are increasingly explored as sources of thermostable enzymes and novel
-[[antifungal-secondary-metabolites-coprophilous-fungi]] with pharmaceutical potential.
-## See Also
-- [[extremophilic-fungi]]
-- [[fungal-stress-responses]]
-- fungal-roles-in-metal-biogeochemistry
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

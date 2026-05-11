@@ -1,5 +1,5 @@
 ---
-title: Cannabis Hybrid Vigor and Phenotypes (Clarke)
+title: Cannabis Hybrid Vigor And Phenotypes Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -24,11 +24,11 @@ Hybrid crosses between imported pure varieties were the beginning of nearly ever
 - Offspring tend to look more like one or the other original imported parental varieties
 - [[cervantes-dominance-recessive-traits-alleles]] not apparent in either parent can appear
 - If F1 offspring are desirable, it is difficult to continue the hybrid traits in subsequent generations
-- Enough original F1 hybrid seeds are produced so they may be used year after year to produce uniform crops of desirable plants
+- Enough original F1 [[comparison-heirloom-vs-hybrid-seeds]] are produced so they may be used year after year to produce uniform crops of desirable plants
 
 ### Polyhybrid Crosses
 - A polyhybrid (rather than monohybrid) cross occurs when parents are themselves hybrids
-- Most domestic Cannabis strains are random hybrids, the result of limited selection of pollen parents, impure staminate parents, and random pollination
+- Most domestic [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] are random hybrids, the result of limited selection of pollen parents, impure staminate parents, and random pollination
 - True-breeding pure strains are maintained by infrequent cloning
 
 ## Gross Phenotype Determinants
@@ -37,7 +37,7 @@ The gross phenotype (general growth form) is determined by:
 - Size
 - Root production
 - Branching pattern
-- Sex expression
+- [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
 - Maturation timing
 - Floral characteristics
 
@@ -50,7 +50,7 @@ Fiber strains are characterized by:
 - Limbless growth habit (selected for long fiber production)
 - Often monoecious (more even maturation than dioecious strains)
 - Not grown long enough to set seed
-- Originating in northern temperate climates of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
+- Originating in northern [[fukuoka-natural-farming-temperate-climates]] of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
 - Most fiber strains contain CBD as the primary cannabinoid with little if any THC
 - Escaped fiber strains (e.g., midwestern U.S.) are tall, skinny, weakly branched, weakly flowered, and low in cannabinoid production
 
@@ -73,7 +73,7 @@ Fiber strains are characterized by:
 - May also be an acclimatized [[growing-gourmet-north-american-reishi-species]] phenotype
 - Long, straight central stalk from 2 to 4 meters (6.5 to 13 feet) tall
 - Long, slender primary limbs grow upright until nearly as tall or occasionally taller than the central stalk
-- Resembles Hindu Kush strains in general shape, except the entire plant is much larger
+- Resembles [[cannabis-hindu-kush-strain-description-clarke]] strains in general shape, except the entire plant is much larger
 - Longer, more highly branched primary limbs than Hindu Kush
 - Much narrower leaflets and a higher calyx-to-leaf ratio
 - These strains are hybrids of many different imported strains; no specific origin can be determined
@@ -88,20 +88,3 @@ The best approach to creating desirable hybrids involves:
 4. Maintaining desirable F1 individuals through cloning
 
 ### Polyploid Breeding
-- Triploid and tetraploid strains of Cannabis with up to twice the potency of diploid strains have been produced
-- Chromosome doubling can be induced with [[cannabis-polyploidy-colchicine-treatment-clarke]]
-- Polyploid plants are generally more vigorous but may have reduced fertility
-
-## Genetic Preservation Concerns
-
-- Each Cannabis strain is genetically unique and contains at least a few genes not found in other strains
-- If a strain becomes extinct, unique genes are lost forever
-- Hybridization between native and introduced strains threatens genetic integrity
-- Patent laws encouraging uniform patented strains could further threaten genetic diversity
-- Cannabis preserves are needed where each strain can be freely cultivated in areas resembling native habitats
-
-## Related Topics
-- [[cannabis-breeding-basics]] - Breeding fundamentals
-- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
-- [[cannabis-thai-strain-description-clarke]] - Thai strain profile
-- [[cannabis-seed-selection-and-strain-types]]

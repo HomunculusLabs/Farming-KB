@@ -88,13 +88,3 @@ ITS sequencing enables identification without sporulation. PCR amplification fro
 - **Geography**: The [[tropical-vs-temperate-fungal-diversity]] gradient is pronounced — tropical forests harbor 2-3 times more endophyte species per host than temperate forests
 
 ## Secondary Metabolites and Bioprospecting
-
-Endophytic fungi are prolific producers of bioactive secondary metabolites that complement or mimic plant chemistry. The classic example is Taxomyces andreanae, an endophyte of Pacific yew that produces the anticancer drug taxol. Grass endophytes produce insecticidal alkaloids. Some endophytes produce plant growth regulators like indole-3-acetic acid and gibberellins. The [[biodiversity-fungal-secondary-metabolites]] catalog continues to expand as researchers explore new hosts and habitats.
-
-## Endophytes and Global Species Diversity
-
-Endophytes likely represent a massive proportion of undescribed fungal diversity. Single tropical leaf species can harbor dozens of endophyte species, many sterile and identifiable only by molecular methods. Conservative estimates suggest millions of undescribed endophyte species. The [[fungal-roles-in-old-growth-forests]] include vast hidden endophyte diversity in living tree tissues — associations that may have co-evolved with hosts for centuries.
-
-## Agricultural Applications
-
-[[endophytic-fungi-in-agriculture]] applications include biocontrol agents that suppress plant pathogens, endophytes that confer stress tolerance (drought, heat, salinity), growth promotion through phytohormone production, and phytoremediation. The [[endophytic-mycorrhizal-induced-systemic-resistance]] connection is emerging: endophytes and mycorrhizal fungi may interact synergistically to prime plant defense responses, providing broad-spectrum protection without chemical inputs.

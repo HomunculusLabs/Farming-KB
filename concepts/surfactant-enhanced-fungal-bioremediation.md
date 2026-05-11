@@ -88,38 +88,3 @@ enhanced intracellular uptake of partially oxidized metabolites.
 ## Applications
 
 ### PAH-Contaminated Soil Remediation
-
-The primary application is treatment of soils contaminated with PAHs from former
-industrial sites, gasworks, and creosote-preserved wood facilities. Combining
-white-rot fungi with surfactant amendments has shown promise for achieving
-regulatory cleanup standards more rapidly. Sequential application of surfactants
-with fungal inocula on solid substrates such as straw or wood chips represents
-a practical biofarming approach to large-scale remediation.
-
-### Integrated Fungal-Bacterial Systems
-
-Surfactant addition benefits integrated fungal-bacterial remediation. Kotterman,
-Vis & Field (1998b) demonstrated Bjerkandera sp. BOS55 combined with indigenous
-bacteria showed enhanced benzo[a]pyrene breakdown and significant decreases in
-mutagenicity when surfactants were present, improving pollutant accessibility
-for both fungal and bacterial degradative pathways simultaneously.
-
-### Effluent Treatment
-
-In reactor-based systems treating industrial effluents, surfactant addition
-improves treatment efficiency by maintaining pollutants in solution where they
-contact fungal biomass and enzymes, relevant to
-[[staycare-fungal-pellet-bioreactors-for-effluent-treatment]] applications.
-
-## References
-
-- Kotterman, M. J., Rietberg, H. J. & Field, J. A. (1998). PAH oxidation by
-  Bjerkandera sp. BOS55 with nonionic surfactants. *Biotechnol. Bioeng.*, 61.
-- Bogan, B. W. & Lamar, R. T. (1999). Surfactant enhancement of white-rot
-  fungal PAH soil remediation. *Fifth Int. Bioremediation Symp.*, 81-86.
-- Bohmer, S., Messner, K. & Srebotnik, E. (1998). Laccase oxidation of
-  phenanthrene with HBT and lipids. *BBRC*, 244, 233-238.
-- Barkay, T. et al. (1999). Enhancement of PAH biodegradation by Alasan.
-  *Appl. Environ. Microbiol.*, 65, 2697-2702.
-- Jager, A., Croan, S. & Kirk, T. K. (1985). Ligninases in agitated cultures.
-  *Appl. Environ. Microbiol.*, 50, 1274-1278.

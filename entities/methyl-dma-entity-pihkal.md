@@ -27,7 +27,7 @@ DMMA; 2,5-DIMETHOXY-N-METHYLAMPHETAMINE
 > about 45 minutes, an awareness on the surface of the skin as if I had
 > been touched by a cold draft of air. But nothing more. At three
 > hours, I am completely out, if I was ever in. In the evening I
-> assayed 120 milligrams of MDMA, and it barely produced a threshold
+> assayed 120 milligrams of [[mdma]], and it barely produced a threshold
 > effect, so the two materials might be seeing one another.
 
 ## Extensions and Commentary
@@ -88,43 +88,5 @@ consistent thing seen is that, with N-methylation, the potency of the
 psychedelics is decreased, but the potency of the stimulants appears
 to be pretty much maintained.
 
-## Synthesis
-
-To a stirred solution of 28.6 g methylamine hydrochloride
-in 120 mL MeOH there was added 7.8 g 2,5-dimethoxyphenylacetone
-followed by 2.6 g sodium cyanoborohydride. HCL was added as needed to
-maintain the pH at about 6. The reaction was complete in 24 h, but
-was allowed to stir for another 3 days. The reaction mixture was
-poured into 600 mL H2O, acidified with HCl (HCN evolution, caution)
-and washed with 3x100 mL CH2Cl2. Aqueous NaOH was added, making the
-solution strongly alkaline, and this was then extracted with 3x100 mL
-CH2Cl2. Removal of the solvent from the pooled extracts under vacuum
-gave 8.3 g of a clear, off-white oil that distilled at 95-105 deg C. at
-0.25 mm/Hg. The 6.5 g of colorless distillate was dissolved in 25 mL
-IPA, neutralized with concentrated HCl, and then diluted with
-anhydrous Et2O to the point of cloudiness. As crystals formed,
-additional Et2O was added in small increments, allowing clearing
-crystallization between each addition. In all, 200 mL Et2O was used.
-After filtering,Et2O washing, and air drying, there was obtained 6.2 g
-of 2,5-dimethoxy-N-methylamphetamine hydrochloride (METHYL-DMA) as
-fine white crystals with a mp of 117-118 deg C. The mixed mp with
-2,5-DMA (114-116 deg C) was depressed to 96-105 deg C. An alternate
-synthesis gave the same overall yield of an identical product, but
-started with 2,5-DMA. It required two synthetic steps. The free base
-amine was converted to the crystalline formamide with formic acid in
-benzene using a Dean Stark trap, and this intermediate was reduced to
-METHYL-MDA with LAH.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[eme-entity-pihkal]]
-
-- [[tma-6-entity]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-dob-entity-pihkal]]

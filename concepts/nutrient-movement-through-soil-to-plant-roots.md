@@ -87,25 +87,3 @@ Between 90-96% of all plants enter into mycorrhizal associations. The fungi exte
 Mycorrhizal fungi are best known for obtaining phosphorus, which is so tightly bound to soil particles that little is readily available. They also bring nitrogen, copper, and zinc to the plant. The number of nitrogen-fixing nodules in legumes increases in the presence of mycorrhizal fungi.
 
 ### The Cost of Biological Partnerships
-
-The plant must expend energy and limited resources to produce exudates. The dedication of DNA and RNA to producing specific exudates for specific microbial partners must be metabolically expensive -- which may explain why specificity evolved.
-
-## The Soil Food Web Connection
-
-All creatures of the soil food web contribute to bringing nutrients to plants. Arthropods and other invertebrates aid in the decay of organic material, releasing some nutrients and assimilating others. Eventually, nutrients from soil food web organisms and decayed plant matter enter the bodies of bacteria, Archaea, and fungi. When these are consumed, the resultant wastes become available as inorganic ions.
-
-## Summary Table
-
-| Mechanism | Primary Nutrients | Speed | % of Uptake |
-|-----------|-------------------|-------|-------------|
-| Interception | Ca, Mg, Zn, Mn | Slow (root growth rate) | ~1% |
-| Mass Flow | N (nitrate), S, B, Cl, Mn, Ca, Mg, Cu, Mo, Ni | Fast (transpiration-driven) | ~80% |
-| Diffusion | P, K, Zn, Fe, B | Slow (concentration gradient) | ~19% |
-
-## Related Topics
-
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- the physics of nutrient entry
-- [[mycorrhizal-networks]] -- the fungal partnerships described here
-
-- [[the-apoplastic-symplastic-and-transcellular-transport-pathways]]
-- [[water-pathways-through-plants]]

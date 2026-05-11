@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The pharmacology [[fly-agaric-literary-history]] of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology [[archaeology-of-psychedelic-mushrooms]] is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the [[metzner-ayahuasca-therapeutic-potential]] and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -19,7 +19,7 @@ The principal mechanism of action of psilocin is agonism (activation) of the ser
 
 ### Receptor Binding Profile
 
-Psilocin interacts with multiple serotonin receptor subtypes:
+Psilocin interacts with multiple [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes:
 
 - **5-HT2A**: Primary target; full agonist — responsible for psychedelic effects, hallucinations, perceptual changes
 - **5-HT2C**: Partial agonist — may contribute to anxiety, changes in appetite, and some cognitive effects
@@ -27,22 +27,22 @@ Psilocin interacts with multiple serotonin receptor subtypes:
 - **5-HT1B**: Moderate affinity — role not fully characterized
 - **5-HT5A, 5-HT6, 5-HT7**: Lower affinity — potential contributory roles
 
-The psychedelic [[fly-agaric-literary-history]] effects are overwhelmingly mediated through 5-HT2A activation. This has been confirmed by pharmacological blockade studies: pretreatment with ketanserin (a selective 5-HT2A antagonist) completely abolishes the subjective and behavioral effects of psilocybin.
+The psychedelic effects are overwhelmingly mediated through 5-HT2A activation. This has been confirmed by pharmacological blockade studies: pretreatment with ketanserin (a selective 5-HT2A antagonist) completely abolishes the subjective and behavioral effects of psilocybin.
 
 ### Intracellular Signaling Cascades
 
-5-HT2A receptor activation triggers several downstream signaling pathways:
+5-HT2A receptor activation triggers several downstream [[plant-signaling-pathways]]:
 
 - **Gq/11-PLC-IP3 pathway**: Activates phospholipase C, generating inositol triphosphate (IP3) and diacylglycerol (DAG), leading to calcium release from intracellular stores
 - **MAPK/ERK pathway**: Activation of mitogen-activated protein kinase cascades, involved in gene expression changes and neuroplasticity
 - **mTOR pathway**: Activation of the mechanistic target of rapamycin pathway, which is critical for synaptic plasticity and the growth of new neural connections
-- **β-arrestin signaling**: Biased signaling through β-arrestin-2 may contribute to specific aspects of the psychedelic experience
+- **β-arrestin signaling**: Biased signaling through β-arrestin-2 may contribute to specific aspects of the [[leary-psychedelic-experience-bardo-mapping]]
 
 ## Pharmacokinetics
 
 ### Absorption
 
-After oral ingestion, psilocybin [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] is rapidly absorbed from the gastrointestinal tract. The phosphate group is cleaved by alkaline phosphatases in the intestinal mucosa and liver, converting psilocybin to psilocin. Peak plasma concentrations of psilocin are reached in approximately 40-90 minutes.
+After oral ingestion, psilocybin is rapidly absorbed from the gastrointestinal tract. The phosphate group is cleaved by alkaline phosphatases in the intestinal mucosa and liver, converting psilocybin to psilocin. Peak plasma concentrations of psilocin are reached in approximately 40-90 minutes.
 
 ### Distribution
 
@@ -76,7 +76,7 @@ The default mode network — comprising the medial prefrontal cortex (mPFC), pos
 
 ### Prefrontal Cortex
 
-The prefrontal cortex shows altered connectivity patterns, including increased cross-talk with sensory and emotional processing regions. This may underlie the blending of cognitive and perceptual experiences characteristic of the psychedelic state.
+The prefrontal cortex shows altered connectivity patterns, including increased cross-talk with sensory and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] regions. This may underlie the blending of cognitive and perceptual experiences characteristic of the psychedelic state.
 
 ### Visual Cortex
 

@@ -87,23 +87,3 @@ annual cycle ensures continuous soil fertility improvement while
 providing seasonal heating exactly when it is needed most.
 
 ## Biogas Considerations
-
-While biomass compost heating is practical at the homestead scale,
-biogas production (methane from manure) is generally not recommended
-for small properties. It takes about 240 pounds of fresh manure per
-day to produce enough gas to fuel a stove. Since animals would
-normally be foraging and fertilizing edible forests and pastures,
-confining them for biogas collection breaks the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]].
-Methane is also hazardous, as methane and oxygen mixtures can
-explode. Biomass compost heating achieves similar energy goals more
-safely and in alignment with faires-biomass-compost-water-heating
-- [[mollison-designers-solar-water-heating-systems]]
-## See Also
-
-- [[coleman-greenhouse-heating-options-winter-production]]
-- [[coleman-rolling-greenhouse-wheel-rail-design]]
-- [[decomposition]]
-- [[hamilton-greenhouse-heating-and-temperature-control]]
-- [[mushroom-compost-bed-systems-duggar]]
-- [[mollison-designers-compost-toilet-humanure-systems]]
-- [[mollison-designers-solar-water-heating-systems]]

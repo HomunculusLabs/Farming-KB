@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Serenoa repens, commonly known as saw palmetto, is a small, slow-growing palm native to the southeastern United States. It is one of the most commercially important medicinal palms in the world, valued primarily for its fruit extracts used in treating benign prostatic hyperplasia.
+Serenoa repens, commonly known as saw palmetto, is a small, slow-growing palm native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is one of the most commercially important medicinal palms in the world, valued primarily for its fruit extracts used in treating benign prostatic hyperplasia.
 
 The species forms dense clonal thickets across flatwoods, sandhills, and coastal dune ecosystems. Its fan-shaped fronds and sprawling, subterranean stems make it a dominant understory component of fire-prone pine ecosystems throughout the Atlantic and Gulf coastal plains.
 
@@ -55,7 +55,7 @@ The species occupies well-drained sandy soils in a variety of habitats. These in
 
 Elevation ranges from sea level to approximately 150 meters. It tolerates both acidic and calcareous substrates, though it is most vigorous on deep, well-drained sands.
 
-Saw palmetto is exceptionally fire-adapted. Above-ground foliage is killed by fire, but the extensive underground stem system survives and resprouts rapidly. Post-fire recovery of fronds occurs within weeks during the growing season.
+Saw palmetto is exceptionally fire-adapted. Above-ground foliage is killed by fire, but the extensive underground stem system survives and resprouts rapidly. Post-fire recovery of fronds occurs within weeks during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The species is also moderately salt-tolerant, allowing it to colonize coastal dune systems and barrier islands along the Atlantic and Gulf coasts.
 
@@ -63,15 +63,15 @@ The species is also moderately salt-tolerant, allowing it to colonize coastal du
 
 ### Ornamental Use
 
-Serenoa repens is widely cultivated as an ornamental palm in warm climates. The silver-leaved form is particularly valued in landscaping for its distinctive blue-gray foliage and drought tolerance.
+Serenoa repens is widely cultivated as an ornamental palm in warm climates. The silver-leaved form is particularly valued in landscaping for its distinctive blue-gray foliage and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 It is hardy to approximately -12°C, making it one of the most cold-tolerant palms suitable for outdoor cultivation in the southeastern United States. It requires full sun and excellent drainage.
 
 ### Medicinal Use
 
-The dried ripe fruits of Serenoa repens are the source of one of the world's most widely used herbal medicines. Lipidosterolic extracts standardized to 85-95% fatty acids and sterols are marketed for the management of lower urinary tract symptoms associated with benign prostatic hyperplasia.
+The dried ripe fruits of Serenoa repens are the source of one of the world's most widely used herbal medicines. Lipidosterolic extracts standardized to 85-95% [[carbon-isotope-labelling-mycorrhizal-fatty-acids]] and sterols are marketed for the management of lower urinary tract symptoms associated with benign prostatic hyperplasia.
 
-Clinical evidence supports modest improvement in urinary flow and symptom scores. Meta-analyses consistently show benefits comparable to finasteride, though with a lower incidence of adverse effects such as decreased libido.
+Clinical evidence supports modest improvement in urinary flow and symptom scores. Meta-analyses consistently show benefits comparable to finasteride, though with a lower incidence of [[adverse-effects-and-harm-reduction-psilocybin]] such as decreased libido.
 
 Proposed mechanisms include anti-androgenic activity through inhibition of 5-alpha-reductase and binding of dihydrotestosterone to cytosol receptors. Anti-inflammatory and anti-edematous effects may also contribute.
 
@@ -88,34 +88,3 @@ The endangered Florida scrub-jay depends on saw palmetto thickets for nesting, f
 The primary bioactive constituents of saw palmetto fruit are free fatty acids, including lauric, myristic, oleic, palmitic, and linoleic acids. These comprise approximately 85-95% of the lipidosterolic extract.
 
 Phytosterols present include beta-sitosterol, campesterol, and stigmasterol. These sterols contribute to the 5-alpha-reductase inhibitory activity demonstrated in in vitro and in vivo studies.
-
-Flavonoids, including isorhamnetin, kaempferol, and quercetin derivatives, have been identified in the fruit. Polysaccharides and volatile oils are also present in smaller quantities.
-
-The extract has demonstrated anti-inflammatory activity through inhibition of cyclooxygenase and lipoxygenase pathways. Antispasmodic effects on smooth muscle have been documented in animal models.
-
-Immune-modulatory properties have also been reported, including inhibition of pro-inflammatory cytokines such as interleukin-6 and tumor necrosis factor-alpha in stimulated cell culture systems.
-
-## Conservation Status
-
-Serenoa repens is evaluated as Least Concern by the IUCN Red List. The species is abundant across its native range and populations are considered stable.
-
-However, commercial harvesting of wild fruit has raised concerns about sustainability. Millions of kilograms of berries are harvested annually from Florida wildlands, primarily from public lands under regulated collection permits.
-
-Long-term monitoring studies suggest that current harvest levels are within sustainable limits for established populations. However, repeated intensive harvesting at individual sites may reduce fruit availability for wildlife.
-
-Habitat loss from urban development and agricultural conversion in coastal Florida poses a more significant long-term threat to the species and the ecosystems it supports. Fire suppression in fire-adapted communities also alters the structure and species composition of palmetto-dominated habitats.
-
-Climate change projections suggest that rising sea levels and increased storm frequency may reduce suitable coastal habitat. However, the species' broad ecological amplitude and clonal growth form provide substantial resilience to gradual environmental change.
-
-## See Also
-
-- [[areca-catechu]]
-- [[cocos-nucifera]]
-- [[euterpe-oleracea]]
-- [[phoenix-dactylifera]]
-- [[permaculture-plants-medicinal-herbs-healing]]
-- [[herbal-medicine]]
-- fatty acids
-- [[cannabis-flavonoids]]
-- [[ingham-tannins-terpenes-phenolic-compounds]]
-- [[cannabis-anti-inflammatory-applications]]

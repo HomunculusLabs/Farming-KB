@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOPR
 
-PIHKAL entry #71. 2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #71. 2,5-DIMETHOXY-4-(n)-PROPYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,23 +88,3 @@ step.
 A mixture of 124 g N-methylformanilide and 140 g POCl3 was allowed to stand until there was the development of a strong red color. There was then added 60 g of the above 2,5-dimethoxypropylbenzene and the mixture was held on the [[scythian-cannabis-steam-bath-ritual]] for 2 h. The mixture was added to 2 L H2O and stirred until the excess acid chloride had completely decomposed. The mixture was extracted with 3x100 mL CH2Cl2 and, after the removal of the solvent from the combined extracts, the residue was extracted with 3x100 mL boiling hexane. Removal of the solvent gave the product 2,5-dimethoxy-4-propylbenzaldehyde as an oil, 23 g, which was characterized as its malononitrile derivative. Equal weights of the product and malononitrile in EtOH with a catalytic amount of triethylamine gave yellow crystals which, on recrystallization from toluene, had a mp of 113-114 deg C.
 
 A solution of 21.5 g of the above crude 2,5-dimethoxy-4-propylbenzaldehyde in 75 g acetic acid, was treated with 10.4 g nitroethane and 6.6 g anhydrous ammonium acetate. This was heated on the steam bath for 1.75 h, then cooled and diluted with H2O to the point of turbidity. With long standing and scratching, there finally was the deposition of crystals which were removed by filtration and sucked as dry as possible. This 23 g of crude product cake was triturated under MeOH, filtered again, and air dried to give 11 g of dull orange crystals. Recrystallization from boiling MeOH gave 1-(2,5-dimethoxy-4-(n)-propylphenyl)-2-nitropropene as fine orange crystals which weighed, after filtering, washing, and drying, 7.4 g, and which had a mp of 94-96 deg C.
-
-To a suspension of 6.0 g LAH in 500 mL anhydrous Et2O, which was being stirred and also held as a gentle reflux, there was added a saturated solution of (2,5-dimethoxy-4-(...
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-DOPR is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[dopr-entity]]
-
-- [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamine compounds in PIHKAL

@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Bougainvillea spectabilis is a vigorous, woody, scrambling vine or shrub in the family Nyctaginaceae, native to South America.
+Bougainvillea spectabilis is a vigorous, woody, scrambling vine or shrub in the family Nyctaginaceae, native to [[guzman-psilocybin-mushrooms-south-america]].
 
 It is one of the most widely planted ornamental plants in tropical and subtropical regions worldwide.
 
@@ -75,7 +75,7 @@ Propagation is by semi-hardwood cuttings, which root readily under mist and bott
 
 The plant flowers most prolifically when subjected to slight drought stress.
 
-Regular pruning after flowering cycles maintains [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and encourages repeat blooming.
+Regular pruning after [[cannabis-flowering-cycles]] maintains [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and encourages repeat blooming.
 
 In cooler climates, bougainvillea is widely grown as a container plant and brought indoors in winter.
 
@@ -85,45 +85,6 @@ The species and its hybrids are used extensively in street planting, highway lan
 
 ## Chemistry and Uses
 
-Bougainvillea bracts contain betacyanins (bougainvillein), flavonoids, and phenolic compounds.
+Bougainvillea bracts contain betacyanins (bougainvillein), flavonoids, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]].
 
 Leaf extracts have demonstrated anti-inflammatory, antibacterial, and antidiabetic activities in vitro.
-
-In traditional Brazilian medicine, leaf infusions are used to treat respiratory infections and diabetes.
-
-Bougainvillein is the red-violet pigment responsible for the characteristic bract coloration.
-
-The thorns have been used in traditional medicine as a styptic agent to stop bleeding.
-
-No significant pharmacological studies have validated these traditional uses in humans.
-
-## Ecological Role
-
-In its native range, the flowers attract hummingbirds and long-tongued butterflies as pollinators.
-
-The thorny, dense growth provides nesting habitat for small birds.
-
-In naturalized areas, bougainvillea can form impenetrable thickets that exclude native species.
-
-Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and vigorous growth give it competitive advantages in arid environments.
-
-[[cervantes-seed-production-storage]] is rare in most cultivated settings, limiting its spread primarily to vegetative propagation.
-
-## Cultural Significance
-
-The genus is named after Louis Antoine de Bougainville, the French navigator who led the expedition that discovered the plant in Brazil in 1768.
-
-Philibert Commerçon, the expedition's botanist, is believed to have been the first European to collect it.
-
-Bougainvillea is the floral emblem of several cities including Guangzhou, China, and Campinas, Brazil.
-
-The plant has become an iconic symbol of tropical and Mediterranean landscaping worldwide.
-
-In India, bougainvillea is commonly planted along roadsides and railway embankments for [[permplant-willows-salix-erosion-control-fodder]].
-
-## See Also
-
-- [[passiflora-edulis]] — purple passionfruit, a tropical vine with edible fruit
-- [[hedera-helix]] — English ivy, an evergreen climbing plant for walls and structures
-- [[parthenocissus-tricuspidata]] — Boston ivy, a self-clinging climber for architectural use
-- rosa-canina — dog rose, a thorny shrub with showy flowers in European landscapes

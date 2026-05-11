@@ -1,15 +1,16 @@
 ---
-title: "mollison designers fog and dew harvesting Harvesting in Permaculture Systems"
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Fog And Dew Harvesting
 created: 2026-04-26
 tags:
   - water-harvesting
   - microclimate
-  - permaculture-design
+  - [[permaculture-design]]
   - condensation
   - arid-strategies
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,47 +88,3 @@ types of fog relevant to design:
 1. RADIATION GROUND FOG: where, on clear nights,
    hollows and plateaus cool rapidly and fog forms,
    often in much the same pattern as winter frosts
-
-2. ADVECTION FOG: where cold offshore currents condense
-   the moisture in warm sea airstreams. These are the
-   coastal and offshore fogs that plague many coasts
-   such as Newfoundland and parts of northwest Europe
-
-3. UPSLOPE OR OROGRAPHIC FOG: where warm, humid
-   airstreams are carried up hill slopes and condense
-   as the air cools
-
-## Fog Drip as a Water Source
-
-Unlike dew, fogs can provide a great quantity of
-moisture. Chang gives figures of 329 cm (128 inches)
-for Table Mountain, South Africa, and 127 cm (50 inches)
-for Lanai (Hawaii) from fog drip alone. In such areas,
-even field crops may thrive without irrigation.
-
-In New Zealand, upslope fog precipitation is widespread,
-and unless burnt or cleared to tussock grasslands, dense
-forests develop. The irregular canopy of such forests are
-excellent fog condensers. Even with no visible fog, trees
-will condense considerable moisture on sea-facing slopes
-with night winds moving in off warm seas over the land,
-and encountering the cool leaf laminae of forests.
-
-## Metallic Mesh Fences for Fog Collection
-
-It is possible to erect metallic mesh fences 1 m (3 feet)
-or so high, and to use these as initial condensers in
-deserts. Shrubs are then grown along the fence drip-line,
-and the fence moved on after these plants are established.
-In Morocco such fences are proposed for deforested
-coastal areas.
-
-This technique is analogous to using [[mollison-wet-tropical-forest-structure-and-polyculture]] is therefore a critical design element. When
-planning mollison-settlement-siting-on-slopes-and-landscape-profile on slopes, recognition of fog zones can determine
-where water-abundant sites exist.
-## See Also
-- [[mollison-designers-swale-design-and-water-harvesting-earthworks]]
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
-- [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]
-- [[mollison-designers-road-water-harvesting-and-integration]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

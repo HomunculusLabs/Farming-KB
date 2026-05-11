@@ -23,7 +23,7 @@ mayflies (Ephemeroptera), stoneflies (Plecoptera), blackflies
 (Simuliidae), mosquitoes (Culicidae), and nonbiting midges
 (Chironomidae). Together with the Asellariales and Amoebidiales,
 the Harpellales represents a fascinating group of arthropod-
-associated fungi that have been the subject of intensive study
+[[insect-arthropod-associated-fungi]] that have been the subject of intensive study
 regarding their biodiversity, ecology, and evolutionary
 relationships.
 
@@ -88,48 +88,7 @@ Harpellales are identified primarily by thallus type (whether
 branched or not, amount and form of branching), basal (holdfast)
 structures, number of trichospore appendages, the presence or
 absence of a trichospore collar, and zygospore type. Thalli
-often are immature or devoid of zygospores, so finding mature
-reproductive structures may require examination of multiple
-host individuals.
-
-Trichospores are the characteristic asexual spores of the
-Harpellales. They are produced at the tips of generative
-branchlets and possess one or more appendages that aid in
-attachment to new hosts. The appendages appear only after
-trichospore release from generative cells.
-
-## Cultivation
-
-Only some Harpellales (more than 190 isolates) and Amoebidium
-parasiticum currently exist in axenic culture. The genera of
-Harpellales in culture include Capniomyces, Furculomyces,
-Genistelloides, Simuliomyces, Smittium, and Trichozygospora.
-Only Smittium, the largest genus, is represented by more than
-one species in culture (13 named species plus many undescribed).
-
-The preferred isolation medium is a dilute brain-heart infusion
-(1/10 BHIv) amended with thiamine and biotin. Some species
-culture rather easily; others require considerable persistence.
-Most trichomycete species grow well at room temperature, but
-some, such as those from winter stoneflies (Capniidae), may
-have an optimum closer to 18 degrees Celsius.
-
-## Collection and Study Methods
-
-Collecting Harpellales requires specialized techniques because
-the fungi reside within living arthropods. An aquatic D-shaped
-net with small mesh is the most useful collecting instrument.
-After collection, host insects are kept alive in refrigerated
-containers and dissected under a microscope to remove the
-hindgut, where Harpellales are typically attached to the
-chitinous lining. Water mounts on slides are preferred for
-[[fungal-microscopic-examination-mounting-media-techniques]] to preserve fine details of trichospore
-appendages.
 
 ## See Also
-
-- trichomycetes-gut-fungi
-- fungal-nematode-feeding-interactions
-- [[anaerobic-gut-fungi]] [[anaerobic-rumen-fungi-biology-herbivore-digestion]] digestion
 - [[gadd-rock-dwelling-fungi-epilithic-endolithic]]
-- [[heavy-metal-remediation-fungi]]
+- [[gadd-rock-dwelling-fungi-epilithic-endolithic-classification]]

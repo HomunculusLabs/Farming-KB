@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 # AACT Disease Suppression Recipes
@@ -87,43 +88,3 @@ When pesticides (including sulfur-based fungicides) must be used:
 
 - Apply compost tea 3-5 days after pesticide application
 - Sulfur always kills some beneficial organisms; increasing sulfur applications leads to more disease unless biology is restored
-- By maintaining the food web with compost and wormcastings, no pesticides should be necessary after 4-5 years
-- For herbicides: apply compost tea 3-5 days later; fewer herbicides will be needed over time as crops outcompete weeds
-
-## Monitoring and Adjustment
-
-All compost teas should meet SFI minimum standards for bacterial and fungal biomass. Testing before and after application, and leaf surface assays, confirm that the tea is achieving its purpose. Adjust recipes based on test results and plant response.
-
-## See Also
-
-- [[mckenna-dionysian-cults-and-suppression-of-ecstasy]]
-- [[aact-bacterial-dominant-tea]]
-- [[ingham-soil-food-web-assessment-methods]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[humic-acids-soil-biology-ingham]]
-
-## Practical Context
-Aact Disease Suppression Recipes is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
-- [[elaine-ingham]]
-- [[decomposition]]
-- [[humic-acids-soil-biology-ingham]]

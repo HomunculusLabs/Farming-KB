@@ -1,8 +1,8 @@
 ---
-title: "mollison sediment management and check dam systems and mollison-designers-check-dam-types-and-landscape-placement Systems"
+title: Mollison Sediment Management And [[mollison-designers-check-dam-types-and-landscape-placement]] Systems
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - erosion-control
   - sediment
   - earthworks
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -17,10 +18,10 @@ type: concept
 # Sediment Management and Check Dam Systems
 
 Mollison treats sediment not as a waste product but as a resource to be
-captured and redistributed across the landscape. Check dams, gabions,
+captured and redistributed across the landscape. [[comparison-gabions-vs-check-dams]], gabions,
 and silt retention structures are key tools for converting destructive
 erosion into beneficial soil deposition, particularly in dryland and
-arid environments.
+[[fungal-diversity-arid-environments]].
 
 ## The Sediment Problem
 
@@ -87,61 +88,3 @@ stabilized, sediment-filled benches. The process works as follows:
 
 1. The first gabion captures the coarsest sediment during flow events.
 2. A small silt field forms behind it.
-3. As the field fills, vegetation establishes.
-4. The next gabion upstream captures more sediment.
-5. Over years, the entire gully is converted to a series of productive
-   terraces.
-
-## The Landscape as a Layered System
-
-The landscape can be seen (as though sliced into layers through contours)
-as a set of catchment, storage, usage, and revitalisation zones. Check
-dams operate in the catchment zone, intercepting water and sediment
-before they concentrate in valleys. When combined with swales,
-[[mollison-designers-diversion-drains-and-interceptor-banks]], and contour dams, they create a comprehensive system
-that treats every drop of water and every particle of soil as a resource.
-
-## Soil Catena and Erosion Sequences
-
-Soil erosion cells, and the degree and extent of erosion processes, can
-be analysed from aerial photographs. The predictable soil sequences that
-erosion and deposition create along slopes (the soil catena) help
-designers place check dams at the most effective points in the landscape.
-
-Erosion processes are then exchanged for physical and biological
-rehabilitation as the designer works from the top of the catchment
-downward, stabilizing each level before addressing the next.
-
-## Sediment as Fertilizer
-
-Captured sediment is often the most fertile material on the landscape,
-containing fine clay particles, [[hamilton-composting-and-organic-matter-management]], and minerals washed from
-upper slopes. When check dams create deposition areas above croplands,
-this enriched sediment gradually moves into the root zones of productive
-species. In effect, the check dam system mines the upper slopes for
-fertility and deposits it where crops can use it.
-
-## Integration with Permaculture Systems
-
-- [[mollison-soil-erosion-control]] for upstream erosion prevention.
-- mollison-arid-lands-design-and-erosion-control for dryland
-  sediment management.
-- [[mollison-flood-retardation-by-trees-and-earthworks]] for the
-  relationship between sediment and flood management.
-
-## Key Principles
-
-1. Sediment is a resource, not a waste -- capture it where it benefits
-  the system.
-2. Check dams slow water flow enough for deposition without stopping
-  flow entirely.
-3. Gabions are the most versatile and cost-effective sediment capture
-  structures.
-4. Place structures in series working from the top of the catchment
-  downward.
-5. Design for the filled state: plan what will grow on the sediment
-  benches once they form.
-6. Combine sediment capture with water spreading to maximize
-  infiltration and revegetation.
-## See Also
-- [[mollison-designers-check-dam-types-and-landscape-placement]]

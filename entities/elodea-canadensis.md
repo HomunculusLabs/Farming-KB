@@ -88,27 +88,3 @@ Herbicide treatments using fluridone, diquat, or endothall have been employed wi
 Most European populations are clonal, consisting entirely of female plants. This reproductive bottleneck has not prevented the species from becoming widely established, demonstrating the effectiveness of vegetative propagation in aquatic environments.
 
 Vegetative spread occurs through stem fragmentation and the production of lateral shoots from root crowns. Overwintering structures include dormant apical buds and short lateral shoots that remain viable in cold water and resume growth in spring.
-
-## Comparative Notes
-
-*E. canadensis* is frequently confused with the closely related *Elodea nuttallii* (Nuttall's waterweed), which has smaller leaves (4–12 mm) and narrower leaf spacing. *E. nuttallii* has largely replaced *E. canadensis* in many European waterways since its introduction in the mid-20th century.
-
-The two species can be distinguished by leaf morphology: *E. canadensis* leaves are visible in whorls of three with tips that curve slightly backward, while *E. nuttallii* leaves are more recurved and often appear in whorls of four. Hybrids between the two species have been reported but are uncommon.
-
-*E. canadensis* is also similar to *Lagarosiphon major* (curly waterweed), which has strongly recurved leaves arranged spirally rather than in whorls. Accurate identification is important for management, as the three species differ in invasiveness and herbicide susceptibility.
-
-## Nutrient Cycling Role
-
-*E. canadensis* plays a significant role in freshwater nutrient cycling through rapid uptake and storage of nitrogen and phosphorus during the growing season. Biomass accumulation can remove substantial quantities of nutrients from the water column, temporarily improving water quality.
-
-Decomposition of senescent plant material in autumn releases stored nutrients back into the water column and sediment. This seasonal pulse of nutrient recycling can drive autumnal algal blooms and affect the timing of nutrient availability for spring growth of other primary producers.
-
-## See Also
-
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[sagittaria-latifolia]]
-- [[nymphaea-alba]]
-- [[alisma-plantago-aquatica]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]

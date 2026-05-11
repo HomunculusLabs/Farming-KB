@@ -1,5 +1,5 @@
 ---
-title: PF TEK Inoculation and Sterilization
+title: Pf Tek Inoculation Sterilization
 source: pf-tek-psilocybe-fanaticus
 tags: [cultivation, pf-tek, inoculation, sterile-technique, spore-syringe, contamination]
 created: 2026-05-09
@@ -26,14 +26,14 @@ Before beginning inoculation, ensure:
   Introducing spores into hot jars will kill them.
 2. The work area is as clean as possible. A still-air environment
   (closed room, no fans or drafts) significantly reduces contamination.
-3. The spore syringe has been recently shaken to redistribute spores
+3. The [[comparison-mushroom-liquid-culture-vs-spore-syringe]] has been recently shaken to redistribute spores
   evenly in the water.
 4. Hands and surfaces have been cleaned with alcohol.
 5. The syringe needle is sterile and the guard has been removed.
 
 ## Inoculation Procedure with Canning Jars
 
-1. Verify the jar lid is tight and the jar is cool.
+1. Verify the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] is tight and the jar is cool.
 2. Shake the spore syringe well to redistribute spores.
 3. Remove the tape covering the needle holes on the jar lid.
 4. Remove the needle guard from the syringe.
@@ -64,7 +64,7 @@ over a butane cigarette lighter because it produces a clean blue flame
 without the soot residue left by butane:
 
 1. Place a tequila shot glass upside down.
-2. Using an eyedropper, put a few drops of denatured alcohol fuel
+2. Using an eyedropper, put a few drops of denatured [[permaculture-on-farm-alcohol-fuel-production]]
    (available at hardware stores) on the hollow bottom of the glass.
 3. Touch the alcohol with a match or lighter to produce a short,
    clean-burning blue flame.
@@ -88,60 +88,3 @@ punched-lid technique:
 4. The critical precaution is to disturb the dry top vermiculite
    contamination barrier as little as possible.
 5. Replace the tin foil cover immediately after inoculation.
-
-## Contamination Sources and Identification
-
-Psilocybe Fanaticus identified the most common contamination sources:
-
-- **Airborne contaminants**: [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] spores present in
-  ambient air. The dry vermiculite barrier layer at the top of the jar
-  provides primary defense.
-- **Unsterile syringe needles**: Always flame the needle before first
-  use and any time it touches a non-sterile surface.
-- **Non-sterile water**: Use distilled water when preparing spore
-  syringes. Tap water may contain bacterial or fungal contaminants.
-- **Contaminated spore prints**: Source spore prints from reliable
-  vendors or prepare them in a clean environment.
-
-Common contaminants include green mold (*Trichoderma*), black mold,
-bacterial slime (wet spot), and pink/bacterial growth. Any jar showing
-contamination should be removed immediately to prevent spore dispersal
-to other jars.
-
-## Non-Germination of Spores
-
-When spores fail to germinate, possible causes include:
-
-- **Substrate too dry**: The most common cause. If spores germinate but
-  growth halts at a certain point with no visible contamination, the
-  substrate is likely too dry from overheating during steam
-  sterilization.
-- **Dead spores**: Spores lose viability with age, heat exposure, or
-  improper storage. Syringes should be stored in a dark, cool place.
-- **Water content too high**: Excessively wet substrate can inhibit
-  [[growing-gourmet-spore-germination-strain-isolation]] and promote bacterial contamination.
-- **Old spore syringes**: Viability decreases over time. Most commercial
-  syringes remain viable for several months when properly stored.
-
-## Spore Syringe Storage
-
-Unused spore solution should be stored by replacing the needle guard and
-placing the syringe in a dark, cool location. Resterilize the needle
-immediately before each reuse. Syringes can remain viable for extended
-periods if kept refrigerated, though freezing will kill the spores.
-
-## Pressure Canner vs. Steam Sterilization
-
-The PF TEK was specifically designed to work with standard steam
-sterilization using a vegetable steamer, eliminating the need for a
-pressure canner. This is possible because the PF substrate contains no
-whole grain to cook and is airy, allowing steam to penetrate effectively
-at atmospheric pressure. A pressure canner can be used but provides
-marginal benefit over the simpler steam method for this particular
-[[pf-substrate-formula]].
-
-## See Also
-
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-- [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
-- [[pf-tek-spore-syringe-boiling-sterilization-storage-lifecycle]]

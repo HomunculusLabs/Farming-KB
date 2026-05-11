@@ -87,21 +87,3 @@ A bed may lose more moisture on a cloudy, windy, dry day than on a hot, clear, h
 After watering a newly planted bed in hot weather, consider covering the area with 30-percent shade netting from approximately 10 AM to 5 PM. Use shade netting 3 feet wider and 3 feet longer than the growing bed, so it drapes down around the edges to provide shade on the sides as well as the top. Support the netting on 3-foot-long pieces of 1-inch by 1-inch wood inserted at a 45-degree angle at the corners and every 5 feet along the sides.
 
 Shade netting is also useful for protecting newly transplanted grains from birds in fall and winter. In this case, leave the netting on for 10 days.
-
-## Daily Watering Benefits
-
-Daily watering washes dust, grime, and insects from plant leaves and creates a deliciously moist atmosphere conducive to good plant growth and thriving microbial life. This is especially important for the microbiotic life in the upper soil layers that depends on consistent moisture.
-
-## Water and Sustainable Fertility
-
-Water management connects directly to sustainable soil fertility. Compost holds 6 times its weight in water, so maintaining adequate organic matter levels is itself a water management strategy. The GROW BIOINTENSIVE method's emphasis on [[comparison-raised-beds-vs-hugelkultur]], close spacing, and consistent compost application creates a soil system that maximizes water retention and minimizes waste.
-
-With water scarcity affecting much of the world — by 2025, an estimated 3 billion people in 52 countries will live in water-scarce regions — learning to grow more food with less water is not just a gardening skill; it is a survival skill.
-
-## See Also
-
-- [[solomon-irrigation-water-management]]
-
-- [[jeavons-double-digging-bed-preparation]] — Soil preparation for water retention
-- [[jeavons-flat-preparation-seedling-raising]] — Watering seedlings in flats
-- [[jeavons-natural-pest-control]] — Plant health through proper watering

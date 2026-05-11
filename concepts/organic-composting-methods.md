@@ -88,19 +88,3 @@ An alternative to the traditional heap is sheet composting, where organic materi
 ## Common Problems and Solutions
 
 - **Slimy, smelly compost** — Too much green material, too little air, or too wet. Add dry carbon material (straw, shredded paper), turn the heap, and ensure drainage
-- **Heap not decomposing** — Too dry, too little nitrogen, or too cold. Add water, nitrogen activator, and insulate with carpet
-- **Pests (rats, flies)** — Avoid cooked food scraps; always cover fresh additions with a layer of soil or finished compost
-- **White mold on surface** — Normal; this is beneficial fungi breaking down organic matter
-- **Finished compost too woody** — Sieve before use; woody bits can go back into the next heap
-
-## Related
-
-- [[composting-systems]] for system-level composting design
-- [[soil-food-web-structure]] for soil biology
-- [[gaias-garden-cover-crops-soil-building]]
-
-## See Also
-
-- [[comparison-foliar-feeding-vs-compost-tea-nutrients]]
-
-- [[comparison-biochar-vs-composting-soil-amendment]]

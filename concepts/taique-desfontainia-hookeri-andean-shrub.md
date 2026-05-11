@@ -38,7 +38,7 @@ Columelliaceae or treated Desfontainiaceae as a separate but closely
 related lineage. Regardless of precise familial classification, the
 relationship to Loganiaceae noted by Schultes is significant from a
 pharmacological perspective. Loganiaceae includes genera such as Strychnos,
-the source of strychnine and several [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] arrow poisons
+the source of [[strychnine]] and several [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] arrow poisons
 (curares), suggesting that Desfontainia may share toxic or psychoactive
 chemical pathways with these well-known poisonous plants.
 
@@ -48,11 +48,11 @@ In southern Chile, the leaves of Desfontainia hookeri are employed in local
 folk medicine and as a narcotic. The most probable method of preparation is
 as a tea, made by steeping or boiling the leaves in water. This method of
 preparation is consistent with the general pattern of leaf-based narcotics
-in South American indigenous medicine, where aqueous infusions of leaves are
+in [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]] indigenous medicine, where aqueous infusions of leaves are
 the most common form of administration.
 
 The dual use of taique as both a medicine and a narcotic is typical of many
-South American psychoactive plants. In indigenous pharmacopeia, the
+[[psilocybe-subyungensis-south-american-mesophytic-distribution]] psychoactive plants. In indigenous pharmacopeia, the
 distinction between medicinal and psychoactive properties is often blurred,
 with the same plant serving both purposes depending on dosage, preparation,
 and context of use. The folk medicinal applications of taique likely include
@@ -88,43 +88,3 @@ data means that the active constituents, mechanism of action, toxicity
 profile, and psychoactive potential of taique are all unknown.
 
 The lack of chemical investigation may reflect the plant's relatively
-limited [[sequestrate-fungi-taxonomy-geographic-distribution]] in southern Chile and its use by relatively
-small indigenous populations. Plants used by large, well-documented groups
-(such as the ayahuasca vines of the western Amazon) have attracted far more
-scientific attention than geographically restricted species like taique.
-
-## Hallucinogenic Status: Unconfirmed
-
-Schultes explicitly states that whether the effects of Desfontainia hookeri
-are truly hallucinogenic is not known. The plant is classified among the
-"other hallucinogenic plants" in the Golden Guide, but this categorization
-may reflect its reported narcotic or psychoactive properties rather than
-confirmed hallucinogenic activity. It is possible that taique produces
-sedation, mild euphoria, or other psychoactive effects without inducing true
-hallucinations in the strict pharmacological sense.
-
-The distinction between narcotic, sedative, and hallucinogenic effects is
-often blurred in ethnobotanical reports, as indigenous users may not
-categorize psychoactive experiences using Western pharmacological
-terminology. What a Mapuche healer describes as a narcotic effect might
-include visual or auditory distortions that a Western researcher would
-classify as hallucinations, or it might describe a purely sedative
-experience. Without firsthand ethnographic investigation, the precise nature
-of taique's psychoactivity remains uncertain.
-
-## Ecological and Cultural Context
-
-Taique grows in the Andean valleys of southern Chile, a region characterized
-by temperate rainforests, volcanic soils, and a rich indigenous cultural
-heritage dominated by the Mapuche people. This region is home to several
-other psychoactive plant species documented in the Golden Guide, including
-[[latua-pubiflora]] (arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]) and [[tree-daturas-brugmansia-south-american-ethnobotany]] used by the Mapuche.
-The concentration of psychoactive plants in southern Chile reflects both the
-region's botanical diversity and the sophisticated ethnopharmacological
-knowledge of its indigenous inhabitants.
-
-## See Also
-
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
-- [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
-- [[chiric-caspi-brunfelsia-south-american-hallucinogen]]

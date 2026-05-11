@@ -3,14 +3,14 @@ title: Endomycorrhizal (Arbuscular) Fungi — Collection and Identification
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Endomycorrhizal (Arbuscular) Fungi — Collection and Identification ## Overview Arbuscular mycorrhizal (AM) fungi form the most widespread and ecologically important symbiosis on Earth, associating with the roots of approximately 80% of terrestrial plant species. More than **80% of described fungal species** in this group are now recognized as **nonsporocarpic** — they do not produce visible fruiting bodies, making traditional collection methods ineffective. This page details the specialized techniques required for their study and is closely related to [[glomeromycota-arbuscular-mycorrhizae]].
 
 ## The Detection Challenge
 
-Spores smaller than **60 μm** may go undetected in standard processing despite potentially being **dominant** in the community. The main obstacle to AM fungal research is that these organisms **cannot be cultured independently of a host plant** — they are obligate biotrophs. This dependency has historically limited taxonomic study and necessitates indirect approaches to recovery and identification.
+Spores smaller than **60 μm** may go undetected in standard processing despite potentially being **dominant** in the community. The main obstacle to AM [[fungal-research-compound-reference]] is that these organisms **cannot be cultured independently of a host plant** — they are obligate biotrophs. This dependency has historically limited taxonomic study and necessitates indirect approaches to recovery and identification.
 
 ## Collection Methods
 
@@ -34,7 +34,7 @@ Two primary approaches:
 **Pot cultures** serve as "trap cultures" to recover species that are not sporulating in field soil:
 
 1. Mix field soil with sterile sand and a suitable host plant (e.g., maize, sorghum, or *Allium* spp.)
-2. Grow for 3–6 months under controlled conditions
+2. Grow for 3–6 months under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]
 3. Harvest and extract spores — many species that were dormant in field samples will sporulate in the trap culture
 
 ### Spore Viability
@@ -88,18 +88,3 @@ A systematic **7-step identification protocol** guides the practitioner from ini
 4. Attachment point characterization (spore-borne vs. sporocarpic)
 5. Germination shield or hyphal attachment examination
 6. Comparison with published descriptions
-7. Confirmation using reference collections
-
-### Reference Resources
-
-- **INVAM** (International Culture Collection of Vesicular Arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]) — comprehensive reference photos and species descriptions
-- **BEG** (Banco Español de Glomales) — European collection with online reference materials
-
-## Ecological Context
-
-AM fungi are foundational to [[fungal-sampling-methods]] to capture the full spectrum of soil [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]].
-
-## Related
-
-- [[arbuscular-mycorrhizal-spore-extraction-methods]]
-- [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]

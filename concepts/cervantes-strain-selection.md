@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Strain Selection and Genetics
@@ -86,19 +87,3 @@ Each has distinct growth patterns, appearance, smell, taste, and effects.
 Most popular strains are combinations of two or more: C. sativa, C. indica, C. ruderalis, and C. afghanica. Many are bred specifically for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], greenhouse cultivation, or specific outdoor climates.
 
 ## Seed Genetics
-
-A seed contains all genetic characteristics from both parents. Genes dictate:
-- Plant size
-- Disease and [[cannabis-disease-pest-resistance-breeding-clarke]]
-- Root, stem, leaf, and flower production
-- Cannabinoid levels (THC, CBD, etc.)
-- Growth rate
-- Environmental preferences
-
-Strong, healthy parents and proper care yield strong seeds. The genetic makeup of a seed is the single most important factor in how well a plant will grow and the cannabinoid levels it will produce.
-
-## Related
-
-- [[cervantes-recurrent-selection-pedigree-breeding]] Topics
-- [[cervantes-cloning]] — Cloning for preserving genetics
-- [[cervantes-flowering-phase]] — Flowering differences by strain

@@ -11,7 +11,7 @@ tags: [thinning, overseeding, seed-spacing, vegetable-garden, stand-establishmen
 
 Establishing a uniform, properly spaced stand of vegetable [[clay-soil-management-vegetable-garden-solomon]] seedlings is one
 of the most challenging aspects of food gardening. Seeds vary in viability,
-soil conditions are inconsistent, insects and diseases take their toll, and
+soil conditions are inconsistent, [[solomon-insects-and-diseases-integrated-approach]] take their toll, and
 weather introduces unpredictable variables. The twin techniques of overseeding
 (sowing more seeds than needed) and thinning (removing excess seedlings) work
 together to ensure a productive final stand despite these uncertainties. (see [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
@@ -32,7 +32,7 @@ matched in the field. Real-world factors that reduce germination include:
   surface crust that physically traps emerging seedlings
 - **Insect predation**: Soil-dwelling insects (wireworms, cutworms,
   flea beetles) consume seeds and emerging seedlings
-- **Fungal diseases**: Damping-off organisms kill seedlings at or near
+- **[[duggar-mushroom-insect-pests-and-fungal-diseases]]**: Damping-off [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] seedlings at or near
   the soil surface under cool, wet conditions
 - **Bird damage**: Birds may dig up and eat freshly sown seeds
 
@@ -88,51 +88,3 @@ The multi-stage approach offers several advantages over single-pass thinning:
 
 - **Reduced shock**: Removing plants gradually allows remaining
   seedlings to adjust to increasing space and light availability without
-  sudden stress
-- **Better selection**: Multiple opportunities to evaluate plant vigor,
-  health, and desired characteristics mean better final stand composition
-- **Insurance against further losses**: Keeping a slight surplus through
-  the early stages protects against later losses from pests, disease, or
-  weather
-- **Edible thinnings**: Early-stage thinnings of many species (lettuce,
-  beets, Asian greens, radishes) are delicious as microgreens or baby
-  vegetables, converting thinning from waste into harvest
-- **Improved root systems**: Gradually increasing space allows root
-  systems to expand incrementally, producing stronger, more extensive
-  root networks than plants thinned abruptly to wide spacing
-
-### Crops Particularly Suited to Progressive Thinning
-
-Some vegetables especially benefit from the progressive approach:
-
-- **Root vegetables** (carrots, beets, radishes, turnips): Early
-  thinnings provide baby roots; final spacing determines mature root
-  size
-- **Leafy greens** (lettuce, spinach, Asian greens): Cut-and-come-again
-  harvesting of thinnings extends the harvest period
-- **Brassicas** (cabbage, broccoli, cauliflower): Progressive thinning
-  allows selection of the most vigorous heads
-- **Alliums** (onions, leeks): Thin to scallion size first, then to
-  final bulb-producing spacing
-
-### Common Mistakes
-
-- **Thinning too late**: Overcrowded seedlings compete for light, water,
-  and nutrients, producing stunted, weak plants regardless of later
-  thinning
-- **Thinning too early**: Before seedlings are established, thinning
-  removes your insurance against further losses
-- **Pulling instead of cutting**: Uprooting disturbs neighboring roots
-  and can uproot adjacent seedlings; snipping at soil level is preferred
-- **Over-thinning in one pass**: Removing too many plants at once shocks
-  the stand and wastes selection opportunities
-
-## See Also
-
-- Seed drilling and spacing methods
-- Seed chitting and pre-sprouting techniques
-- Cucurbit family growing
-- Compost cover for seed germination
-- [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
-- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
-- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]

@@ -44,8 +44,8 @@ Goats detest rain and wind. Dry shelter is non-negotiable.
 
 - Minimum 15-20 sq ft per goat indoors, plus 30+ sq ft outdoor per animal.
 - Bed with deep straw or wood shavings; clean weekly, add carbon to compost.
-- Ventilation is critical — ammonia buildup causes respiratory illness. Avoid
-  drafts at animal level but allow air exchange at the roofline.
+- Ventilation is critical — ammonia buildup causes [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]]. Avoid
+  drafts at animal level but allow [[growing-gourmet-growing-room-ventilation-air-exchange]] at the roofline.
 - Provide sturdy, level sleeping platforms. Goats prefer to be off the ground.
 - Bucks need separate housing during off-season to prevent unwanted breedings
   and buck odor from tainting milk.

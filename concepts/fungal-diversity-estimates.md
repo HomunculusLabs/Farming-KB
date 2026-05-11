@@ -77,3 +77,8 @@ of undescribed diversity has exploded.
 - [[soil-mycobiome]]
 - [[cryptic-fungal-species]]
 - [[biodiversity-fungi-tropical-fungal-diversity]]
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

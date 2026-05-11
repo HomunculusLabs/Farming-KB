@@ -88,15 +88,3 @@ Gerronema (2 species): G. fibula reported from Malaysia, New Guinea, Solomon Isl
 Agrocybe (1 species), Galerina (1 species), Mycena (1 species).
 
 ## Taxonomic Implications
-
-The presence of psilocybin in so many unrelated genera challenges simplistic taxonomic explanations.
-
-Psilocybin has been found in families as diverse as Bolbitiaceae, Cortinariaceae, Pluteaceae, Coprinaceae, and Strophariaceae.
-
-Some researchers state psilocybin is a "waste product" of no biological significance.
-
-Others hypothesize it is a survival compound actively spreading throughout the Agaricales.
-
-The truth likely lies somewhere between these extremes, and further research is needed.
-
-See also: [[psilocybe-genus-classification]], [[conocybe-cyanopus-profile]]

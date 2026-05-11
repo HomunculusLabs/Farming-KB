@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH
 
-PIHKAL entry #3. 4-Methylthio-2,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #3. 4-Methylthio-2,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -66,7 +66,7 @@ mania. As is always the case with peak experiences that happen to be
 catalyzed by drugs, this extraordinary event could not be duplicated.
 At 7 milligrams there was an uneventful +1, and some 10 milligrams was
 needed to generate a full +3 experience. The first clue of the
-erratic nature of the Aleph family came from an independent assay by a
+erratic nature of the [[aleph-family-overview]] came from an independent assay by a
 colleague of mine, one who was very familiar with such states of
 
 (Additional commentary available in source.)
@@ -88,19 +88,3 @@ was in hand 1.8 g of bright orange crystals with a mp of 137-138 deg C.
 Anal. (C12H15NO4S) C,H,N,S.
 
 A suspension of 1.4 g LAH in 10 mL anhydrous Et2O and 40 mL anhydrous
-THF was put under an inert atmosphere and, with good stirring, brought
-up to a gentle reflux. A solution of 1.8 g
-1-(2,5-dimethoxy-4-methylthiophenyl)-2-nitropropene in 30 mL anhydrous
-THF was added dropwise at a rate that maintained the reflux. Heating
-and stirring were maintained for an additional 7 h, then the reaction
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-- [[aleph-2-entity-pihkal]]
-- [[aleph-6-entity-pihkal]]
-- [[aleph-4-entity-pihkal]]

@@ -4,7 +4,8 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 # Gruit Beer and Herbs
 

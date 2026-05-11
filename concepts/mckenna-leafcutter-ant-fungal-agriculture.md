@@ -1,7 +1,7 @@
 ---
 title: "mckenna leafcutter ant fungal agriculture Fungal Agriculture and Human-Plant Symbiosis"
 created: 2026-04-28
-tags: [symbiosis, mycology, ecology, evolution, agriculture, leafcutter-ants, mckenna]
+tags: [symbiosis, [[mycology]], ecology, evolution, agriculture, leafcutter-ants, mckenna]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -88,15 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[mckenna-agriculture-and-the-fall-from-paradise]]
-- [[mckenna-fungal-fossil-gap-spore-electron-density-and-metal-hardness]]

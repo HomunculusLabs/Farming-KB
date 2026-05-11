@@ -24,12 +24,12 @@ sources:
 
 **Ramie** (*Boehmeria nivea*) is a perennial herbaceous plant in the family
 Urticaceae, cultivated for over 6,000 years as one of the oldest [[natural-dye-plants]]
-crops in human history. Native to East Asia, ramie produces one of the strongest
+crops in human history. Native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], ramie produces one of the strongest
 natural fibers known, exceeding cotton in tensile strength and rivaling silk in
 luster when properly processed.
 
 Beyond its importance as a fiber crop, ramie has significant applications in
-permaculture systems, traditional medicine, and ecological restoration. The plant
+permaculture systems, traditional medicine, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. The plant
 is highly productive, capable of 4–6 harvests per year in tropical and subtropical
 regions, and tolerates a wide range of soil conditions.
 
@@ -66,12 +66,12 @@ China remains the world's largest producer, accounting for over 90% of global
 ramie fiber output.
 
 The species is naturalized and cultivated throughout tropical and subtropical
-regions of South and Southeast Asia, Brazil, the Philippines, and parts of
+regions of South and [[psilocybe-southeast-asia-pacific]], Brazil, the Philippines, and parts of
 Africa. It thrives in warm, humid climates with annual rainfall exceeding 1,000
 mm.
 
 Optimal growth occurs in well-drained, fertile loams with pH 5.0–7.0. The plant
-is moderately drought-tolerant once established but produces highest yields with
+is moderately drought-tolerant once established but produces [[query-which-cannabis-training-techniques-produce-highest-yields]] with
 consistent moisture.
 
 ## Cultivation and Fiber Production
@@ -87,51 +87,3 @@ First harvest occurs 70–90 days after planting, with subsequent harvests every
 on management intensity and climate.
 
 ### Fiber Processing
-
-Fiber extraction involves decortication (removal of outer bark), degumming
-(removal of pectin and gums by chemical or enzymatic treatment), washing,
-drying, and spinning. The degumming step is the most technically demanding,
-requiring alkali treatment to separate the 20–30% bast fiber from the woody core.
-
-The resulting fiber is white, lustrous, and exceptionally strong (wet tensile
-strength up to 9.6 g/denier). Ramie fabric is breathable, resistant to mildew
-and bacterial growth, and absorbs moisture readily.
-
-## Permaculture Applications
-
-Ramie offers multiple functions in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] systems:
-
-- **Soil stabilization:** The dense rhizome network makes ramie excellent for
-  [[permplant-willows-salix-erosion-control-fodder]] on slopes, riverbanks, and degraded lands.
-- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Rapid growth produces large quantities of organic
-  matter for mulch and compost.
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Deep roots mine subsoil minerals and bring them to the
-  surface through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
-- **Polyculture integration:** Can serve as a windbreak or living fence in
-  food forest systems, with the fiber crop providing economic yield alongside
-  food-producing understory plants.
-
-## Medicinal Uses
-
-Traditional Chinese Medicine employs ramie root (*Zhu Gen*) as a hemostatic and
-anti-inflammatory agent. Key applications include treatment of hemorrhage,
-dysentery, and threatened abortion.
-
-Modern pharmacological studies have identified:
-
-- **Flavonoids:** Including rutin, quercetin, and isoquercitrin, with documented
-  antioxidant and anti-inflammatory activities.
-- **Phenolic acids:** Chlorogenic acid and caffeic acid derivatives.
-- **Terpenoids:** Ursolic acid and oleanolic acid with hepatoprotective effects.
-- **Antimicrobial activity:** Leaf extracts show activity against *Staphylococcus
-  aureus* and *Escherichia coli*.
-
-Leaves are also used as animal fodder with good protein content (15–20% crude
-protein on a dry weight basis).
-
-## See Also
-
-- [[glycyrrhiza-uralensis]]
-- [[broussonetia-papyrifera]]
-- [[vicia-villosa]]
-- [[glycine-max]]

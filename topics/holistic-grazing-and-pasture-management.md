@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - Allan Savory, savory-holistic-resource-management-animal-impact Management
   - Allan Savory, Holistic Management: A New Framework for Decision Making
   - Allan Savory, The Grazing Revolution

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # META-DOB
 
-PIHKAL entry #124. 5-BROMO-2,4-DIMETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #124. 5-BROMO-2,4-DIMETHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -80,18 +80,10 @@ yield. A mp of 180-181 deg C has also been published.
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
 
 - [[meta-dob-entity]]
 
 - [[meta-dot-entity-pihkal]]
-
-- [[p-entity]]
-
-- [[eme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

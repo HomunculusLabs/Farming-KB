@@ -11,7 +11,7 @@ type: concept
 
 # Tilling and Soil Aeration
 
-Steve Solomon approaches tilling with a practical, experience-based
+[[steve-solomon]] approaches tilling with a practical, experience-based
 perspective. He has used rototillers extensively but ultimately prefers
 hand digging with a sharp shovel, which he finds requires little more
 total effort than tilling while producing superior results. His guidance
@@ -88,47 +88,6 @@ There is only a short period during the drying down of a clay soil that
 it will form something resembling a seedbed when tilled. This fact
 means a clay garden can be mighty late to start in a wet spring.
 
-## Soil Compaction and Aeration
-
-Compaction is the enemy of root growth and soil health. When soil
-particles are pressed together tightly, air spaces are eliminated,
-water cannot penetrate, and roots cannot grow through the dense layer.
-Compaction can be caused by foot traffic, heavy machinery, or even
-rain on bare soil.
-
-Maintaining good soil structure through regular additions of organic
-matter is the best defense against compaction. Humus creates stable
-soil crumbs that resist both compaction and erosion. Surface
-cultivation with a hoe also helps maintain surface openness and
-prevent crust formation that blocks air and water infiltration.
-
-## Creating and Maintaining Tilth
-
-Tilth is the physical condition of soil as it relates to its
-suitability for growing crops. Good tilth means the soil is loose,
-well-aerated, crumbly, and easy for roots to penetrate. It retains
-moisture without waterlogging and drains excess water without erosion.
-
-Solomon achieves excellent tilth by combining deep initial digging with
-regular [[jeavons-surface-cultivation-technique]] and annual top-dressing of [[hamilton-composting-and-organic-matter-management]].
-Over several years, this approach transforms even difficult clay into
-productive garden soil. Earthworms and other soil organisms gradually
-improve the subsoil, but the initial deep preparation accelerates the
-process dramatically.
-
-## The No-Dig Option
-
-Solomon acknowledges that no-dig gardening is a valid approach. Unless
-you are practicing no-dig gardening, there is no need to be hauling
-dozens of pickup-truck loads of organic matter around the vegetable
-garden. However, for most gardeners starting with undeveloped ground,
-some initial soil disruption is necessary to create the conditions for
-future no-dig management.
-
-## Related
-
-- [[coleman-tiller-broadfork-and-soil-aeration-tools]]
-
-- [[solomon-double-digging]]
-- [[solomon-raised-beds-and-bed-preparation]]
-- [[solomon-weed-management-without-chemicals]]
+## See Also
+- [[solomon-soil-freezing-requirements-sustainable-gardening]]
+- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]

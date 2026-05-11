@@ -1,5 +1,5 @@
 ---
-title: "[[permaculture-principle-apply-self-regulation]]: Design from Patterns to Details"
+title: Permaculture Design From Patterns To Details
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, design, patterns, zones, sectors, holmgren]
 ---
@@ -8,9 +8,9 @@ topics: [permaculture, design, patterns, zones, sectors, holmgren]
 
 ## Permaculture Design Principle #7 — "Can't See the Wood for the Trees"
 
-David Holmgren's seventh principle addresses the hierarchy of scale in design.
+[[david-holmgren]]'s seventh principle addresses the hierarchy of scale in design.
 The proverb warns that attention to detail can obscure the larger patterns that
-give those details meaning. In permaculture design, we must first understand the
+give those details meaning. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], we must first understand the
 broad patterns — of landscape, climate, culture, and energy flow — before filling
 in specific details of plantings, structures, and management.
 
@@ -32,7 +32,7 @@ analysis. Zones describe concentric areas of decreasing intensity of management
 around a central point (usually the home):
 
 - **Zone 0**: The home itself — intensive management, highest frequency of visits
-- **Zone 1**: Kitchen garden, herbs, salad greens — visited daily
+- **Zone 1**: [[culinary-herbs-cultivation-and-kitchen-garden-guide]], herbs, salad greens — visited daily
 - **Zone 2**: Orchard, chickens, main crops — visited several times weekly
 - **Zone 3**: Broadacre crops, pastures, large animals — visited weekly
 - **Zone 4**: Managed forestry, foraging, grazing — visited monthly
@@ -69,13 +69,13 @@ is high, forest systems naturally emerge and should be encouraged.
 
 ## Scale in Human Settlements
 
-Holmgren extends the patterns principle to human settlement design. The optimal
+Holmgren extends the patterns principle to human [[cool-climate-settlement-design-mollison]]. The optimal
 scale for various functions differs: individual gardens for vegetables, neighborhood
 scale for orchards and small livestock, community scale for forestry and water
 management, bioregional scale for trade and cultural identity.
 
 He identifies a pattern of "development hills" that must be climbed to reach the
-next optimum scale. Small-scale [[dry-gardening-unirrigated-vegetable-production-solomon]] reaches a productivity peak
+next [[holmgren-optimum-scale-speed-balance-industrial-post-industrial]]. Small-scale [[dry-gardening-unirrigated-vegetable-production-solomon]] reaches a productivity peak
 that cannot be exceeded without mechanization. But mechanization brings its own
 costs and a new development hill must be climbed to reach the next optimum.
 
@@ -88,41 +88,3 @@ moderate climate and cycle nutrients. The house itself is designed as a passive
 solar system, working with the pattern of seasonal sun angles.
 
 ## Pattern Language in Nature
-
-Holmgren draws on Christopher Alexander's concept of pattern language — the idea
-that good design emerges from combining timeless patterns in locally appropriate
-ways. Nature provides a vast library of patterns that have been tested over
-evolutionary time: branching patterns for distribution, [[mollison-spiral-patterns-in-nature-and-design]] for
-growth, hexagonal patterns for efficient packing, wave patterns for energy
-dissipation.
-
-[[permaculture-designers-manual-animal-forage-systems]] learn to read these patterns in landscape and replicate
-them in designed systems. A herb spiral, for example, uses the pattern of a
-rising spiral to create multiple microclimates in a small space, allowing
-[[query-best-mediterranean-herbs-for-beginner-herb-garden]] at the top and moisture-loving herbs at the bottom.
-
-## The Danger of Detail-First Design
-
-Modern industrial design typically works from details to patterns — specifying
-individual components and then assembling them into systems. This approach produces
-systems that are efficient at the component level but often dysfunctional at the
-system level. The result is infrastructure that requires constant energy input
-to maintain, buildings that fight against natural climate patterns, and
-agricultural systems that degrade the very resources they depend on.
-
-Permaculture reverses this: observe the big patterns first, design within those
-patterns, and then specify details that reinforce the whole.
-
-## Applying the Principle
-
-In practice, designing from patterns means: first map the watershed, climate,
-and bioregional context; then identify the site's sectors and zones; then design
-the broad layout of elements; and finally specify individual species, varieties,
-and management techniques. The details should emerge from and reinforce the
-patterns, not contradict them.
-
-## See Also
-
-- [[permaculture-ethical-principles-holmgren]]
-- [[permaculture-catch-and-store-energy]]
-- [[permaculture-integrate-rather-than-segregate]]

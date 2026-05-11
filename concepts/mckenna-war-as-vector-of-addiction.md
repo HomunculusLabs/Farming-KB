@@ -1,6 +1,6 @@
 ---
 source: mckenna_t-food_of_the_gods.md
-source_author: Terence McKenna
+source_author: [[terence-mckenna]]
 title: mckenna war as vector of addiction of Addiction
 topic: psychedelics
 created: 2026-05-08
@@ -10,7 +10,7 @@ created: 2026-05-08
 
 McKenna identified a disturbing recurring pattern throughout history: war serves
 as a primary mechanism for introducing addictive drugs into populations. From
-the American Civil War to the Opium Wars, from the Franco-Prussian War to
+the American Civil War to the [[mckenna-food-gods-opium-wars-psychopharmacology-de-quincey]], from the Franco-Prussian War to
 modern intelligence operations, armed conflict has repeatedly functioned as a
 pipeline for drug dependence, creating markets and habits that outlast the
 conflicts themselves. This pattern is not accidental but structural — war
@@ -65,11 +65,11 @@ for twentieth-century government collusion in international drug trafficking.
 McKenna extended the analysis to the [[coleman-louis-savier-twentieth-century-maraicher]], noting that the pattern
 of government involvement in drug trafficking established during the Opium Wars
 had been repeated, "albeit with some new wrinkles, in Central Intelligence
-Agency collusion in the international heroin and cocaine trade of our own time."
+Agency collusion in the international [[heroin]] and [[cocaine]] trade of our own time."
 
 The connection between war and drugs operates on multiple levels:
 
-1. **Military use**: Drugs are given to soldiers for pain relief (morphine),
+1. **Military use**: Drugs are given to soldiers for [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] (morphine),
    alertness (amphetamines), or psychological endurance.
 2. **Funding**: Drug profits finance military operations and insurgencies.
 3. **Social control**: Drug addiction pacifies populations and provides
@@ -88,33 +88,3 @@ filled by a more potent, more dangerous substitute.
 This pattern applies not only to opiates but to all drug classes. The
 suppression of psychedelics in the 1960s was followed by an explosion in
 cocaine and heroin use. The "[[cervantes-war-on-drugs-statistics]]" has consistently produced more
-drugs, more potent drugs, and more destructive drugs — the opposite of its
-stated intent.
-
-## The De Quincey Precedent
-
-The cultural dimension of this pattern was anticipated by Thomas De Quincey,
-whose "Confessions of an English Opium-Eater" (1821) invented the genre of
-drug literature. De Quincey showed that opium intoxication could be studied
-"deliberately, from within personal experience" — that the drug experience
-itself could become a subject of literary and philosophical inquiry.
-
-But De Quincey also demonstrated the darker side: the drug experience, once
-integrated into culture, becomes self-replicating. His descriptions of opium
-dreams — the endlessly spiraling staircases, the vast Gothic halls — inspired
-a generation of Romantic writers to seek similar experiences. The literature of
-intoxication became an advertisement for intoxication.
-
-## Implications
-
-The war-drug vector suggests that drug addiction is not merely a personal or
-medical problem but a structural feature of modern civilization. As long as
-war and covert operations are instruments of state policy, drugs will continue
-to flow through the channels they create. The "[[mckenna-drug-war-and-human-freedom]]" is not a war against
-drugs but a continuation of the same pattern by other means.
-
-## See Also
-
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[mckenna-drugs-governments-and-intelligence-agencies]]
-- [[mckenna-drug-war-and-human-freedom]]

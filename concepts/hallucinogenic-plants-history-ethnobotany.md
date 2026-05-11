@@ -88,38 +88,3 @@ can be licked, snuffed, eaten in pellets, or smoked.
 ## Old World vs. New World Traditions
 
 Evidence indicates that humans in the Old World (Europe, Asia, Africa,
-Australia) made less documented use of hallucinogenic plants than those in
-the New World. Compared to only 15-20 species used in the Eastern
-Hemisphere, the Western Hemisphere has more than 100 species used
-hallucinogenically. Yet some Old World hallucinogens hold global primacy,
-including cannabis, the most widespread of all hallucinogens.
-
-The solanaceous ingredients of medieval witches' brews (henbane, nightshade,
-belladonna, and mandrake) greatly influenced European philosophy, medicine,
-and history for many years. Some played extraordinarily vital religious roles
-in early Aryan cultures of northern India. The role of hallucinogens in the
-cultural and social development of Old World regions is only now being
-investigated, with their extent and depth becoming more evident at every
-turn.
-
-## Cultural Significance
-
-The Mixtecs of Mexico ate puffballs to hear voices from heaven. The Waikas
-of Brazil and Venezuela snuffed powdered Virola resin to ritualize death and
-diagnose disease. The Witotos of Colombia ate the same resin to "talk with
-the little people." Peruvian medicine men drank cimora to assume another's
-identity. Indians of eastern Brazil drank jurema for glorious visions before
-battle.
-
-The widespread and expanding use of hallucinogens in modern Western society
-represents a newly imported cultural trait without natural roots in Western
-tradition. Contemporary users seeking "mystic" or "religious" experience are
-often unknowingly reverting to age-old practices of primitive societies.
-
-## Related
-
-- [[amanita-muscaria-cultural-history]]
-- [[aztec-entheogens]]
-- [[soma-haoma-hypothesis]]
-- [[wasson-rediscovery-of-psilocybin]]
-- [[syrian-rue-peganum-harmala-ethnobotany]]

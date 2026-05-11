@@ -12,7 +12,7 @@ topics: [beet-greens, bulls-blood, cold-house, winter-harvest,
 
 Beet greens, particularly the 'Bull's Blood' variety, are a
 sta [[coleman-sunlight-and-winter-crop-growth-rates]] crop in Eliot Coleman's cold-house system [[coleman-four-season-farm]] Farm. They serve a dual role: providing deep maroon leaves
-for both the baby-lea [[coleman-salad-mix-quality-standards]] i [[psilocybin-and-the-logos]] h [[coleman-salad-braising-mix-composition]] ix throughout
+for both the baby-lea [[coleman-salad-mix-quality-standards]] i [[psilocybin-logos-consciousness]] h [[coleman-salad-braising-mix-composition]] ix throughout
 the winter months, and producing exceptional quality baby beets
 i [[coleman-overwintered-onions-and-early-spring-crops]] ng that reach market six to eight weeks ahead of
 outdoor spring crops. The cool conditions of winter greenhouses
@@ -87,55 +87,3 @@ beets from the cold house reach market six to eight weeks ahead
 of the outdoor spring crop, providing a significant early-season
 advantage. The tender, small roots are prized by chefs and
 farmers market customers alike.
-
-## Transplanting Method for Spring Beets
-
-Spring beets are started in the plant-starting greenhouse three
-weeks ahead of when they will be transplanted into the cold house
-soil. They are sown as multi-plant blocks at three seeds per
-block, following the system described in Coleman's New Organic
-Grower (page 149). This multi-plant block approach allows
-efficient use of greenhouse seedling space.
-
-The blocks are transplanted out at three rows to the bed with
-a spacing of 10 inches by 10 inches. This relatively wide
-spacing allows the beets to develop full-sized roots even in
-the constrained environment of the cold house. The multi-plant
-block system means that each 10-inch position contains a small
-cluster of beet plants rather than a single plant, increasing
-the leaf harvest potential from each position.
-
-## Nutritional Advantages of Winter Beet Greens
-
-The baby-leaf salad mix containing 'Bull's Blood' beet leaves
-is nutritionally superior to conventional head lettuce salads.
-Based on USDA nutritional data cited by Coleman, this winter
-salad blend contains at least 5 times more calcium, 4 times
-more iron, 12 times more vitamin A, and 6 times more vitamin C
-than a salad of head lettuce. The beet greens contribute
-meaningfully to this nutritional profile, particularly in iron
-and vitamin A content.
-
-## Quality Standards
-
-Coleman maintains strict quality standards for beet leaves in
-the salad mix. Leaves that are too large, bitter, tough,
-stringy, or frost-damaged are excluded. The evaluations have
-led to management decisions such as moving 'Bull's Blood' from
-colder edge beds to warmer inner beds for midwinter harvest,
-ensuring the best possible leaf quality during the coldest
-period. If any component does not meet quality standards, it is
-left out of the mix until conditions improve.
-
-## Cultural Summary
-
-| Aspect | Details |
-|--------|---------|
-| Primary variety | 'Bull's Blood' |
-| Harvest window | October–April (cold house) |
-| Role in salad mix | Primary red color component |
-| Role in braising mix | Red component replacing mustard |
-| Spring transplant | 3 weeks ahead, 3 seeds per block |
-| Spacing | 3 rows per bed, 10" × 10" |
-| Fall premium variety | Golden beets |
-| Spring market advantage | 6–8 weeks ahead of outdoor crop |

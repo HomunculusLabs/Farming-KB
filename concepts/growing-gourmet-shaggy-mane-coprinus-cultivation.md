@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -86,20 +87,3 @@ picked before the slightest hint of gills turning black. Young
 shaggy manes can be thinly sliced and quickly dried. Freeze drying
 is also an option. Submerging in cold water under refrigeration or
 packing in nitrogen-filled containers extends shelf life.
-
-## Medicinal Properties
-
-A novel antibiotic has been isolated from this species and is
-currently being characterized. Ying (1987) reports inhibition rates
-against sarcoma 180 and Ehrlich carcinoma of 100% and 90%
-respectively. No other anti-tumor research is known.
-
-## Nutritional Content
-
-## Related
-
-- [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
-
-## See Also
-
-- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]

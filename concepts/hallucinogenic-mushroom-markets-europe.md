@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] Markets in Europe
+title: Hallucinogenic Mushroom Markets Europe
 source: carolina-mushrooms_08qxp.md
 tags: [drug-policy, europe, smartshops, markets, regulation, harm-reduction]
 ---
@@ -87,52 +87,3 @@ The regulation of psilocybin mushrooms illustrates a broader pattern in European
 Population survey data suggest that lifetime prevalence of hallucinogenic mushroom use in the EU is relatively low but has increased since the 1990s. The EMCDDA estimated that approximately 1-4% of European adults had used hallucinogenic mushrooms at least once, with higher rates among young adults (15-34) and in countries with smart shop access (Netherlands, UK).
 
 ### User Profiles
-
-Mushroom users tend to differ from users of other illicit drugs:
-- Higher educational attainment on average
-- Interest in spirituality, self-exploration, and nature
-- Less frequent use patterns (typically occasional rather than regular)
-- Lower association with criminal behavior or problematic drug use
-- More likely to use in natural settings or at home rather than in nightlife contexts
-
-### Motivations for Use
-
-Reported motivations include:
-- Curiosity and experimentation
-- Spiritual or religious experiences
-- Enhanced creativity and problem-solving
-- Recreational enjoyment
-- Self-exploration and personal growth
-- Social bonding in group settings
-
-## Harm Reduction Approaches
-
-### Smart Shop Harm Reduction
-
-Dutch smart shops, despite their commercial nature, functioned as de facto harm reduction providers by:
-- Providing accurate dosage information and species-specific potency data
-- Refusing sale to visibly intoxicated individuals
-- Offering printed guidelines on safe use (set, setting, trip sitter, etc.)
-- Training staff to provide basic safety advice
-- Maintaining product quality control and freshness standards
-
-### Post-Ban Landscape
-
-Following the Dutch ban on fresh mushrooms (December 2008), the market fragmented:
-- Magic truffles remained legally available and gained market share
-- Online sales continued, increasingly from non-Dutch sources
-- Underground markets and personal cultivation increased
-- Some smart shops closed; others pivoted to truffles and other products
-- The EMCDDA noted that the ban likely displaced rather than eliminated the market
-
-## Monitoring and Data Limitations
-
-Accurate monitoring of the hallucinogenic mushroom market faces significant challenges:
-- Rapid changes in legal status across jurisdictions
-- Fragmented online retail landscape
-- Underreporting in general population surveys
-- Difficulty distinguishing mushroom use from other hallucinogen use
-- Lack of systematic price and purity monitoring
-- The informal nature of much of the trade
-
-The EMCDDA recommended enhanced monitoring through targeted surveys, wastewater analysis, and online market surveillance to better track this evolving market.

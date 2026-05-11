@@ -5,6 +5,7 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # Permaculture Goat and Cattle Integration

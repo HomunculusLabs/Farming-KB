@@ -1,10 +1,11 @@
 ---
-title: Holmgren's [[holmgren-third-wave-environmentalism]] wave environmentalism model Environmentalism Model
+title: Holmgren Third Wave Environmentalism Model
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [permaculture, holmgren, environmentalism, social-movements, energy-descent, history, cultural-dynamics]
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Holmgren's Third Wave Environmentalism Model
@@ -87,14 +88,3 @@ attention flow toward environmental alternatives, creating opportunities for
 education, demonstration, and institution-building. During contraction phases
 (wave troughs), practitioners should focus on consolidating gains, deepening
 their practice, and building resilient local systems that will weather the
-next crisis. The wave model also cautions against over-reliance on political
-or institutional solutions that may be reversed during contraction phases,
-emphasising instead the importance of distributed, community-scale resilience.
-## Related Concepts
-- [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]]
-- [[holmgren-permaculture-flower-conceptual-framework]]
-- holmgren-ethical-philosophical-framework
-- [[energy-descent-action-planning]]
-- transition towns movement
-- limits to growth
-- [[permaculture-history-timeline]]

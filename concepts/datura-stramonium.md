@@ -88,17 +88,3 @@ classical times, the dangers of Datura were recognized.
 
 Datura played highly significant roles in native cultures in both hemispheres.
 In medieval Europe, it was one of the principal ingredients of the witches'
-brews, along with [[belladonna-plant]], and henbane. The
-tropane alkaloid intoxication -- with its sensations of flying, encounters with
-supernatural beings, and complete dissociation -- provided the experiential
-basis for many of the legends surrounding [[harner-european-witchcraft-hallucinogens]].
-
-The plant's dual role as both medicine and poison reflects the broader pattern
-of psychoactive plant use across cultures, where the same compounds that
-produce [[weil-the-natural-mind-altered-states-normalcy]] of consciousness also carry significant risks. The
-history of Datura illustrates the thin line between healing and harm that
-characterizes the use of powerful psychoactive substances.
-
-## Related Topics
-
-- [[mandrake-plant]] - European nightshade with magical associations and

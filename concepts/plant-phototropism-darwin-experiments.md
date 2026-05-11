@@ -1,123 +1,138 @@
 ---
 title: Plant Phototropism and Darwin's Experiments
-aliases: [Phototropism, Darwin Plant Vision, Phototropism Experiments, Plant Light Sensing, Blue Light Phototropism]
-tags: [botany, phototropism, darwin, plant-senses, photobiology, auxin, blue-light-receptors]
-created: 2026-05-09
+created: 2026-05-11
+updated: 2026-05-11
+type: concept
+tags: [cannabis, lighting, vegetative, indoor]
+sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 ---
 
 # Plant Phototropism and Darwin's Experiments
 
 ## Overview
 
-Phototropism is the directional growth of a plant organ (typically a stem) toward or away from a light source. The phenomenon is one of the most visible and easily observed plant behaviors — houseplants on windowsills lean toward the window, seedlings grown under a single light bend toward it. The mechanistic basis of phototropism was first rigorously investigated by Charles Darwin and his son Francis in a series of elegant experiments published in 1880 in *The [[darwin-power-of-movement-in-plants]] in Plants*. Their work established that plants perceive light direction through specific tissues and transmit that information to other parts of the plant to coordinate a growth response.
+Phototropism is the growth response of a plant toward (positive phototropism) or away from (negative phototropism) a light source. The phenomenon was systematically investigated by Charles Darwin and his son Francis in their 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*, which established that plants possess a distributed form of light perception. Their elegant experiments demonstrated that the "eyes" of a plant are located at the shoot tip, not in the bending region — a finding that laid the groundwork for the discovery of auxin and modern plant hormone biology.
 
-## Darwin's Phototropism Experiments
+## Darwin's Observation
 
-### Background
+Darwin wrote: "There are extremely few [plants], of which some part … does not bend towards lateral light." This universal tendency of plants to grow toward light is one of the most visible examples of [[plant-sensory-biology]]. Houseplants curving toward windows, seedlings arching toward gaps in a canopy, and sunflower heads tracking the sun across the sky are all expressions of phototropism.
 
-Charles Darwin, best known for his work on evolution by natural selection, spent the last twenty years of his life studying plant movement. His final book, *The Power of Movement in Plants* (1880), co-authored with his son Francis, documented years of meticulous experiments on how plants respond to environmental stimuli including light, gravity, and touch.
+Darwin recognized that this bending could not be explained by photosynthesis — the process by which plants convert light into chemical energy — because the bending occurred even in light too dim to support significant photosynthesis. Something else was detecting the light and directing the plant's growth response.
 
-Darwin observed that "there are extremely few [plants], of which some part does not bend towards lateral light" — essentially all plants exhibit phototropism.
+## The Classic Experiment
 
-### The Five-Seedling Experiment
+Darwin and his son designed a simple but definitive experiment using canary grass (*Phalaris canariensis*) seedlings. They grew plants in complete darkness for several days, then exposed them to a gas lamp so dim that "they could not see the seedlings themselves, nor see a pencil line on paper." Despite this extremely low light level, the seedlings bent toward the light within three hours.
 
-The Darwins' classic experiment used canary grass (*Phalaris canariensis*) seedlings grown in total darkness for several days, then exposed to a very dim gas lamp placed 12 feet (3.5 meters) away — so dim that "they could not see the seedlings themselves, nor see a pencil line on paper." After only three hours in this near-darkness, the seedlings had visibly curved toward the light.
+The bending consistently occurred about 2 centimetres below the shoot tip. This observation led to the critical question: **which part of the plant perceives the light?**
 
-They then performed a systematic experiment with five seedlings to determine which part of the plant "sees" the light:
+They tested five conditions:
 
-1. **Seedling A (untreated control):** Bent toward the light. Confirmed the experimental conditions were conducive to phototropism.
-2. **Seedling B (tip removed):** Did not bend. The plant was "blind" without its tip.
-3. **Seedling C (tip covered with opaque cap):** Did not bend. Blocking light from reaching the tip prevented the response.
-4. **Seedling D (tip covered with transparent glass cap):** Bent toward the light normally. The glass cap allowed light to reach the tip while still physically covering it.
-5. **Seedling E (middle section covered with opaque tube):** Bent toward the light normally. Blocking light from the middle of the seedling had no effect.
+1. **Untreated control**: The seedling bent normally toward the light — confirming experimental conditions were conducive to phototropism
+2. **Tip removed**: The seedling did not bend at all — it was "blind"
+3. **Tip covered with an opaque (lightproof) cap**: The seedling did not bend — the cap blocked light perception
+4. **Tip covered with a clear glass cap**: The seedling bent normally — the glass cap allowed light to reach the tip
+5. **Middle section covered with an opaque tube**: The seedling bent normally — blocking light from the bending region had no effect
 
-### Conclusions
+This experiment proved that the **shoot tip perceives the light** and sends a signal to the lower stem, which responds by differential cell elongation on the shaded side, causing the plant to bend toward the light.
 
-This experiment established three fundamental principles:
+## The Signal: Auxin Discovery
 
-1. **The "eye" is at the tip:** The shoot tip (coleoptile tip in grasses) is the light-sensing organ.
-2. **[[plant-vision-and-light-perception-mechanisms]] is separate from the bending response:** The tip perceives light but does not bend; the bending occurs in the mid-section below.
-3. **A signal travels from tip to stem:** Some influence must be transmitted from the light-sensing tip to the responding stem tissue to coordinate directional growth.
+Darwin did not identify the molecular nature of the signal traveling from tip to bending region. This mystery was solved in the 1920s by Frits Went, who demonstrated that the signal was a chemical compound — later identified as **auxin** (indole-3-acetic acid, IAA).
 
-The Darwins had demonstrated what they called rudimentary sight in plants — a directional light-sensing system with spatial separation between perception and response.
+Went's key findings:
 
-## The Hormonal Basis: Auxin Discovery
+- Auxin is produced in the shoot tip (apical meristem)
+- Light causes auxin to redistribute to the shaded side of the stem
+- Higher auxin concentration on the shaded side promotes cell elongation
+- The asymmetric elongation causes the stem to bend toward the light
 
-The Darwins' observation that a signal travels from tip to stem was later explained by the discovery of **auxin** (indole-3-acetic acid, IAA), the first plant hormone identified. In the 1920s, Frits Went demonstrated that a chemical substance produced in the coleoptile tip could be collected on an agar block and applied asymmetrically to a decapitated coleoptile, inducing bending without any light stimulus.
+This mechanism explains why covering the tip with an opaque cap prevents bending (no light perception, no auxin redistribution) while covering the middle with an opaque tube has no effect (the signal has already been initiated and travels through the covered region).
 
-The phototropism mechanism works as follows:
+## Blue Light: The Phototropic Trigger
 
-1. **Light perception:** Blue-light photoreceptors (phototropins) in the coleoptile tip detect directional blue light.
-2. **Asymmetric auxin distribution:** Auxin produced in the tip is redistributed laterally — more auxin accumulates on the shaded side of the stem.
-3. **Differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]:** Auxin promotes cell wall loosening and cell elongation. The cells on the shaded side, receiving more auxin, elongate more than cells on the lit side.
-4. **Directional bending:** The unequal elongation causes the stem to curve toward the light source.
+While photoperiodism is mediated by red/far-red light through phytochrome, phototropism is primarily triggered by **blue light** through a different class of photoreceptors. This was first demonstrated by Julius von Sachs in 1864, who showed that blue light induces phototropic bending while other colors have minimal effect.
 
-This mechanism allows a plant to maximize light interception by growing toward the light source — a critical adaptation for photosynthetic organisms competing for light in dense vegetation.
+The blue light photoreceptors responsible for phototropism are **phototropins** (phot1 and phot2), which were identified through molecular genetics in the 1990s:
 
-## Blue Light as the Phototropic Signal
+- **phot1**: Mediates phototropism under low to moderate light intensities
+- **phot2**: Activates at higher light intensities and also mediates chloroplast relocation (moving chloroplasts to maximize or minimize light absorption depending on intensity)
+- Both phototropins contain flavin mononucleotide (FMN) as their chromophore (light-absorbing molecule)
 
-Julius von Sachs, a contemporary of Darwin, discovered in 1864 that **blue light** is the primary color inducing phototropism. Plants are relatively insensitive to other colors for directional bending responses:
+Additional blue light receptors called **cryptochromes** (cry1, cry2) also contribute to light sensing and interact with phototropins in the overall phototropic response.
 
-- **Blue light (~450 nm):** Strongly induces phototropism. This is the primary phototropic wavelength.
-- **Red light (~660 nm):** Has little effect on phototropism (though it controls photoperiodism via phytochrome).
-- **Green light (~530 nm):** Generally ineffective for phototropism.
-- **UV-A light (~320–400 nm):** Can also induce phototropism, overlapping with blue-light sensitivity.
+## Mechanism of Differential Growth
 
-The photoreceptors responsible are called **phototropins** (PHOT1 and PHOT2), protein kinases that bind a flavin chromophore (FMN) and undergo autophosphorylation upon blue-light absorption. Phototropins are distinct from phytochromes (which sense red/far-red) and cryptochromes (which sense blue/UV-A for different purposes).
+The cellular mechanism of phototropic bending involves several steps:
 
-## Modern Understanding
+1. **Light perception**: Phototropins in the shoot tip absorb blue photons
+2. **Signal initiation**: A phosphorylation cascade is triggered within seconds of light absorption
+3. **Auxin redistribution**: Auxin [[plant-cell-membrane-transport-proteins]] (PIN proteins) are reoriented, channeling auxin from the light side to the dark side of the stem
+4. **Cell wall loosening**: On the dark side, auxin activates proton pumps that acidify the cell wall, activating expansin proteins that loosen cellulose microfibrils
+5. **Water uptake**: The loosened cell walls allow turgor-driven cell expansion primarily on the dark side
+6. **Bending**: The differential elongation curves the stem toward the light
 
-Contemporary research has expanded Darwin's foundational work considerably:
+This entire process can begin within minutes of light perception and produces visible bending within hours.
 
-- **Multiple photoreceptor families:** Plants use at least four families of photoreceptors — phototropins (directional blue light), cryptochromes (blue/UV-A for circadian and developmental regulation), phytochromes (red/far-red for photoperiodism and [[phytochrome-red-far-red-ratio-shade-detection-plants]]), and UVR8 (UV-B sensing).
-- **Auxin [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]:** PIN-FORMED (PIN) efflux carriers actively redistribute auxin laterally in response to light direction. PHOT1 activation triggers relocalization of PIN3 to the shaded side of the cell.
-- **Phototropin localization:** PHOT1 is concentrated at the coleoptile tip, consistent with Darwin's observation that the tip is the primary light-sensing site.
-- **Signal integration:** Phototropism responses are modulated by other environmental signals including gravity ([[gravitropism]]), touch (thigmotropism), and hormone signaling (ethyle brassinosteroids oids).
+## Phototropism vs. Gravitropism
 
-## Comparison: Phototropism vs. Photoperiodism
+Plants must integrate phototropic (light-directed) and gravitropic (gravity-directed) growth signals:
 
-| Feature | Phototropism | Photoperiodism |
-|---|---|---|
-| Light color sensed | Blue light | Red / far-red light |
-| Photoreceptor | Phototropin (PHOT1/2) | Phytochrome (Pr/Pfr) |
-| Information extracted | Light direction | Night length |
-| Sensing location | Shoot tip (coleoptile) | Leaves |
-| Response | Directional stem bending | Flowering induction/suppression |
-| Signal | Auxin redistribution | Florigen (FT protein) |
+- In darkness, gravitropism dominates — seedlings grow upward regardless of light
+- In light, phototropism can override gravitropism — stems bend toward light even if this means growing at an angle
+- The two systems share some molecular components, including auxin transport
+- Root gravitropism is negative to shoot gravitropism — roots grow down while shoots grow up
 
-## Agricultural Relevance
+## Practical Applications
 
-Understanding phototropism has practical applications in [[mushroom-crop-management-flush-harvesting]]:
+### Indoor Cultivation
 
-- **Seedling orientation:** In dense plantings, phototropic competition causes stems to elongate excessively (etiolation-like response), reducing stem strength and increasing lodging risk. Proper spacing reduces this competition.
-- **Supplemental lighting:** Greenhouse growers use directional lighting to control plant architecture and prevent excessive leaning.
-- **Canopy management:** In vineyards and orchards, light distribution through the canopy affects branching patterns via phototropism and shade-avoidance responses.
+Understanding phototropism is essential for indoor growers:
 
-## Time Scale of Phototropic Response
+- **Light positioning**: Plants will grow toward the strongest light source; regular rotation of pots ensures even growth
+- **Canopy management**: Lower branches that receive less light will stretch (elongate) trying to reach light — this is both a phototropic and shade avoidance response
+- **Light intensity gradient**: Even light distribution across the canopy prevents excessive stretching on one side
 
-The phototropic response follows a characteristic time course that varies with light intensity and the plant's physiological state:
+### Seedling Management
 
-1. **Lag phase (15–30 minutes):** After blue-light exposure begins, there is a detectable delay before any bending occurs. During this phase, phototropin activation triggers intracellular signaling cascades including calcium ion fluxes, changes in cytoplasmic pH, and reorganization of the actin cytoskeleton.
-2. **Auxin redistribution (30–60 minutes):** PIN efflux carriers relocalize to the plasma membrane on the shaded side of the responding cells, establishing an auxin gradient across the stem.
-3. **Differential growth (1–3 hours):** Cells on the shaded side begin elongating faster than cells on the illuminated side. This differential elongation is the mechanical cause of bending.
-4. **Visible curvature (3–24 hours):** The cumulative effect of differential elongation produces visible bending. Under strong directional light, curvature can reach 90° or more within a few hours.
+- Seedlings grown under a single light source will lean; overhead lighting promotes straighter growth
+- Too-distant light sources cause excessive stem elongation as seedlings stretch toward the light
+- Providing adequate light intensity early reduces the need for corrective bending
 
-The response is dosage-dependent: very low light intensities produce slow, gentle curvature while high intensities produce rapid, tight bending. However, extremely high blue-light intensities can actually reduce the phototropic response through phototropin desensitization.
+### Pruning and Training
 
-## Roots: Negative Phototropism
+- When the apical tip is removed (topping), the plant loses its primary light sensor and auxin source, redirecting growth to lateral branches
+- This is why topping causes bushier growth — auxin is no longer suppressing lateral bud development
+- The secondary branches then develop their own apical tips, each with their own phototropic capacity
 
-While shoots exhibit **positive phototropism** (growing toward light), roots typically exhibit **negative phototropism** (growing away from light). This makes ecological sense: roots grow into the soil where light is absent, while shoots grow toward light for photosynthesis. Root phototropism is mediated by the same phototropin photoreceptors but triggers opposite auxin redistribution — auxin accumulates on the lit side of the root, inhibiting cell elongation there and causing the root to bend away from light.
+## Historical Significance
 
-Root phototropism is generally weaker than shoot phototropism and is often overridden by gravitropism (the root's strong tendency to grow downward in response to gravity). In nature, these two tropic responses are integrated to guide root growth into the optimal soil zone.
+Darwin's phototropism experiments deserve recognition as among the most elegant in the history of plant biology:
+
+- They established the concept of signal transduction in plants — a perception region distinct from a response region
+- They demonstrated that plants have a form of [[plant-sensory-perception]], challenging the notion that only animals possess senses
+- The experiments were conducted during the twenty years following *On the Origin of Species*, showing Darwin's breadth of scientific inquiry beyond evolutionary biology
+- The findings influenced generations of plant physiologists and laid the groundwork for the entire field of plant hormone biology
+
+Darwin's observation that "the tip of the seedling...sees the light and transfers this information to the plant's midsection to tell it to bend in that direction" remains one of the clearest and most prescient descriptions of a signal transduction pathway ever written, decades before the molecular mechanisms were understood.
+
+## Modern Research Directions
+
+Contemporary research on phototropism continues to reveal new complexity:
+
+- The discovery that phototropins also regulate stomatal opening, leaf expansion, and chloroplast movement shows these receptors serve multiple sensory functions
+- Research on how phototropism integrates with [[plant-circadian-rhythms]] reveals that the time of day influences the direction and magnitude of phototropic bending
+- Studies on root phototropism (roots can also grow toward light in certain conditions) challenge the traditional shoot-centric view
+- [[davidson-mathematical-modeling-fungal-mycelia]] of auxin transport during phototropic bending is providing quantitative predictions about growth rates and curvature angles
+
+## Related Concepts
+
+- [[photoperiodism-phytochrome-red-far-red]]
+- [[photoreceptors-in-plants-phytochrome-cryptochrome]]
+- [[plant-sensory-biology-overview]]
+- auxin plant hormone growth regulation
 
 ## See Also
 
-- [[phototropism-darwin-experiments]]
-- [[darwin-phototropism-discovery-plant-light-perception]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-
-- [[phytochrome-photoperiodism-plants]]
-
-## Refere  hamovitz, *What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond*, 2012
-- Darwin C, Darwin F. *The Power of Movement in Plants*, 1880
-- Source: `grahamholmes-what-a-plant-knowsindd.md`
+- Darwin C, Darwin F. (1880) "The Power of Movement in Plants." John Murray.
+- Chamovitz D. (2012) "What a Plant Knows." Oneworld Publications. Chapter 1: What a Plant Sees.
+- Sachs J. (1864) "Über die Aufeinanderfolge der Entwicklungsvorgänge an den Knospen höherer Pflanzen." Sitzungsberichte der Mathematisch-Physikalischen Classe der Königlich Bayerischen Akademie der Wissenschaften zu München.

@@ -54,7 +54,7 @@ Climate is characterized by cool summers, cold snowy winters, and high annual pr
 
 Soils are typically deep, well-drained brown forest soils developed from volcanic or limestone parent material.
 
-It forms pure stands at higher elevations and mixed forests with oriental beech (*Fagus orientalis*), Caucasian spruce (*Picea orientalis*), and oriental hornbeam (*Carpinus betulus*) at lower elevations.
+It forms pure stands at higher elevations and mixed forests with oriental beech (*[[fagus-orientalis]]*), Caucasian spruce (*[[picea-orientalis]]*), and oriental hornbeam (*[[carpinus-betulus]]*) at lower elevations.
 
 Disjunct populations have been reported in the mountains of northern Iran, though their taxonomic status remains debated among botanists.
 
@@ -70,7 +70,7 @@ Cultivation requires well-drained, slightly acidic soils and protection from hot
 
 Timber cultivation is practiced on a smaller scale, primarily in its native range and in experimental plantations in western Europe.
 
-Growth rates in plantations are moderate, averaging 40–60 cm per year in height under optimal conditions.
+[[coleman-sunlight-and-winter-crop-growth-rates]] in plantations are moderate, averaging 40–60 cm per year in height under optimal conditions.
 
 Seed sources for Christmas tree production are largely wild-collected from the Caucasus, which has raised conservation concerns.
 
@@ -87,28 +87,3 @@ The primary economic value of A. nordmanniana is as a Christmas tree rather than
 Minor uses include [[permaculture-designers-manual-essential-oil-plants]] extraction from needles and branches, used in aromatherapy and as a fragrance component.
 
 The resin has been used traditionally in the Caucasus region as an adhesive and waterproofing agent in woodworking and boat building.
-
-## Ecological Role
-
-Nordmann fir is a keystone climax species in Caucasian montane forests, forming the dominant canopy in mesic high-elevation sites.
-
-It provides habitat and food for numerous species, including the Caucasian red deer (*Cervus elaphus maral*), Caucasian grouse (*Lyrurus mlokosiewiczi*), and several endemic rodent species.
-
-The species forms ectomycorrhizal associations with a wide range of fungal partners, including species of *Amanita*, *Lactarius*, *Russula*, and *Boletus*.
-
-These [[dighton-mycorrhizal-networks-carbon-transfer]] facilitate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and support the diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] characteristic of Caucasian fir forests.
-
-Old-growth Nordmann fir forests are considered among the most biodiverse temperate forest ecosystems in Europe, with high levels of endemic plant and animal species.
-
-Conservation status is listed as Near Threatened by the IUCN, primarily due to logging pressure, habitat fragmentation, and [[dighton-fungi-climate-change-feedback]] in its restricted native range.
-
-Climate warming poses a particular threat by reducing suitable high-elevation habitat and increasing the frequency of drought stress at lower elevations.
-
-## See Also
-
-- [[abies-grandis]]
-- [[pinus-sylvestris]]
-- [[sequoia-sempervirens]]
-- [[juniperus-communis]]
-- [[ectomycorrhiza]]
-- [[araucaria-araucana]]

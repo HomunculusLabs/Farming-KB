@@ -39,7 +39,7 @@ Blesching provides specific (E)-β-caryophyllene content percentages for tested 
 | Black Ashanti Pepper | *Piper guineense* | 58% | Antibacterial (E. coli, S. aureus) |
 | White Ashanti Pepper | *Piper guineense* | 52% | Antibacterial properties |
 | Indian Bay-Leaf | *Cinnamomum tamala* | 25% | Antioxidant, antidiabetic, Ayurvedic use |
-| Grains of Paradise | *Aframomum melegueta* | 22% | Wound healing, antioxidant, anti-inflammatory, analgesic, molluscicidal, anti-diarrheal, antimicrobial, aphrodisiac |
+| Grains of Paradise | *[[aframomum-melegueta]]* | 22% | Wound healing, antioxidant, anti-inflammatory, analgesic, molluscicidal, anti-diarrheal, antimicrobial, aphrodisiac |
 | Cannabis sativa | *Cannabis sativa* | 12-35% | Broad cannabinoid profile |
 
 ### Moderate Content Spices (7-19%)
@@ -51,7 +51,7 @@ Blesching provides specific (E)-β-caryophyllene content percentages for tested 
 | Caraway (black) | *Carum nigrum* | 8% | Antioxidant, antibacterial, antifungal |
 | Mexican Oregano | *Lippia berlandieri* | ~7-15% (est.) | Antimicrobial, antioxidant |
 | Sri Lanka Cinnamon | *Cinnamomum zeylanicum* | 7-11% | Fat/sugar metabolism, blood pressure, antioxidant, antibiotic, antiparasitic (mites) |
-| Rosemary | *Rosmarinus officinalis* | 1-8% | Antimicrobial, digestive, circulatory, radioprotective, anti-tumor, anti-inflammatory, neuroprotective |
+| Rosemary | *[[rosmarinus-officinalis-entity]]* | 1-8% | Antimicrobial, digestive, circulatory, radioprotective, anti-tumor, anti-inflammatory, neuroprotective |
 
 ### Comparison with Cannabis
 
@@ -64,7 +64,7 @@ Notably, the Ashanti peppers (52-58%) exceed the (E)-β-caryophyllene content fo
 The CB2 receptor is primarily found in the immune system, peripheral tissues, and the gastrointestinal tract. Activation of CB2 receptors by (E)-BCP produces:
 
 - **Anti-inflammatory effects:** Modulates immune cell activity, reducing inflammatory cytokine production
-- **Oxidative stress reduction:** Protects cells from damage by reactive oxygen species
+- **Oxidative stress reduction:** Protects cells from damage by [[reactive-oxygen-species-and-oxidative-stress]]
 - **Pain modulation:** CB2 activation reduces inflammatory and neuropathic pain signaling
 - **Antimicrobial support:** Some evidence suggests CB2 activation supports immune defense mechanisms
 
@@ -72,8 +72,8 @@ The CB2 receptor is primarily found in the immune system, peripheral tissues, an
 
 Blesching suggests (E)-BCP dietary supplementation may be therapeutic for:
 
-- **Inflammatory diseases:** Arthritis, inflammatory bowel disease, atherosclerosis, periodontitis
-- **Oxidative stress-related conditions:** Neurodegenerative diseases, cardiovascular disease
+- **[[blesching-cannabis-inflammatory-diseases]]:** Arthritis, [[blesching-cannabis-inflammatory-bowel-disease]], atherosclerosis, periodontitis
+- **Oxidative stress-related conditions:** [[blesching-cannabis-neurodegenerative-diseases]], cardiovascular disease
 - **Pain conditions:** Chronic inflammatory pain, neuropathic pain
 - **Cancer:** Selective oxidative stress induction in cancer cells
 - **Microbial infections:** Complementary antimicrobial support
@@ -88,47 +88,3 @@ For therapeutic benefit, Blesching's data suggests incorporating (E)-BCP-rich sp
 - **Cinnamon:** 7-11% (E)-BCP. Widely used in both sweet and savory dishes
 - **Rosemary:** 1-8% (E)-BCP. Pairs well with roasted vegetables and meats
 - **Basil:** 14% (E)-BCP. Common in Mediterranean and Southeast Asian cuisines
-- **Clove:** High (E)-BCP content. Potent — use sparingly due to strong eugenol content
-
-### Bioavailability Considerations
-
-- **Fat solubility:** (E)-BCP is lipophilic, meaning it is better absorbed when consumed with dietary fats
-- **Heat stability:** Moderate cooking temperatures preserve sesquiterpene content; excessive heat may degrade some fraction
-- **Synergistic combinations:** Multiple (E)-BCP sources in a single meal provide additive CB2 activation
-- **Consistent intake:** Regular dietary incorporation is likely more effective than sporadic high doses
-
-### Ashanti Pepper Considerations
-
-The highest (E)-BCP content (52-58%) was measured in West African Ashanti peppers (*Piper guineense*), which may be less accessible to Western consumers than black pepper (*Piper nigrum*). For those with access to African markets or online spice suppliers, Ashanti pepper represents the most concentrated dietary source of (E)-BCP documented.
-
-## Research Context and Limitations
-
-### Primary Studies
-
-The (E)-BCP/CB2 discovery was reported by Gertsch et al. (2008) in the *Proceedings of the National Academy of Sciences*, with follow-up work published in 2012. This represents relatively recent pharmacological understanding.
-
-### Knowledge Gaps
-
-Blesching acknowledges several limitations:
-
-- **Not all spice species fully explored:** Many varieties of basil and other herbs have not been systematically tested
-- **Dose-response relationships unclear:** Optimal dietary intake levels for therapeutic CB2 activation are not established
-- **Bioavailability not fully characterized:** Oral absorption, metabolism, and tissue distribution of dietary (E)-BCP need further study
-- **Individual variability:** Genetic differences in CB2 receptor density and function may affect individual responses
-
-### Integration with Cannabis Therapy
-
-For medical cannabis patients, dietary (E)-BCP represents a complementary approach:
-
-- **Non-psychoactive CB2 support:** Can supplement cannabis therapy without additional psychoactive effects
-- **Cost-effective:** Spices are inexpensive compared to cannabis products
-- **Legal everywhere:** No regulatory barriers to (E)-BCP-rich spice consumption
-- **Entourage potential:** May enhance the therapeutic effects of cannabis through additional CB2 activation
-
-## See Also
-
-- [[blesching-cannabis-beta-caryophyllene-cb2-spices-complementary-therapy]]
-- [[beta-caryophyllene-dietary-cannabinoid]]
-- [[blesching-cannabis-caryophyllene-dietary-cannabinoids]]
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[cannabis-endocannabinoid-system-overview]]

@@ -88,13 +88,3 @@ semilanceata, P. strictipes.
 Amanita muscaria, A. regalis, Claviceps purpurea, Gymnopilus liquiritiae, G.
 spectabilis, Inocybe corydalina, Panaeolus ater, P. papilionaceus, P.
 sphinctrinus, P. subbalteatus, Pluteus salicinus, Psilocybe semilanceata, P.
-strictipes.
-
-### Other countries with records
-- **Spain:** A. muscaria, A. pantherina, C. purpurea, C. cyanescens, G.
-  spectabilis, P. semilanceata, P. cyanescens, P. hispanica (endemic).
-- **Switzerland:** A. muscaria, A. pantherina, A. regalis, Galerina
-  steglichii, C. cyanescens, G. spectabilis, I. aeruginascens, I. haemacta,
-  P. semilanceata, P. cyanescens.
-- **Scandinavia (Norway, Sweden, Finland):** A. muscaria, A. pantherina, A.
-  regalis, [[guzman-psilocybin-mushrooms-africa]]

@@ -88,28 +88,3 @@ layer is thoroughly ruffled down to the [[gottlieb-psilocybin-cultivation-bulk-s
 (a 1x2x24 inch board with parallel rows of nails). The agitated mycelium
 rapidly reestablishes itself within three to four days, producing early, even,
 and prolific pinhead formation. Important: the grower must be certain that the
-substrate and casing are free of competitor molds and nematodes before
-scratching.
-
-## Prevention Strategies
-
-Prevention is far more effective than correction. Key measures include:
-maintaining optimum casing moisture at 70-75%, keeping room humidity at 95%
-during colonization, beginning initiation promptly when mycelium appears in
-casing valleys, lowering CO2 below 2000 ppm, applying temperature shock, using
-proper casing depth (minimum 1 inch), and maintaining a rough open surface
-structure.
-
-## Impact on Yield
-
-Few flushes will be as great from a casing with overlay as from a properly
-managed casing. The dense mat redirects energy from fruitbody production to
-continued vegetative expansion, permanently reducing yield potential. Early
-detection and correction are critical for minimizing losses.
-
-## See Also
-
-- [[mushroom-casing-scratching]]
-- [[mushroom-casing-preparation]]
-- [[mushroom-cultivation-problems]]
-- [[fruiting-conditions]]

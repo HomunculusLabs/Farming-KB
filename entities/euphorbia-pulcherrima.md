@@ -71,7 +71,7 @@ The Aztec name for the plant was cuetlaxochitl, meaning "flower that grows in
 residue" or "leather flower." It was cultivated in pre-Columbian gardens and
 used for decorative and medicinal purposes.
 
-Since its introduction to the United States in the 1820s by Joel Roberts
+Since its introduction to the [[dmt-containing-plants-united-states-halpern]] in the 1820s by Joel Roberts
 Poinsett (the first US minister to Mexico), the species has become
 naturalised in tropical and subtropical regions worldwide.
 
@@ -82,57 +82,9 @@ greenhouses in South Carolina in 1825. The plant quickly gained popularity
 among American and European horticulturists.
 
 The poinsettia industry is now valued at over USD 250 million annually in the
-United States alone. The Paul Ecke Ranch in California dominated commercial
+[[dmt-maoi-plants-united-states]] alone. The Paul Ecke Ranch in California dominated commercial
 production for decades, developing the compact, branched cultivars now standard.
 
 Modern commercial cultivars are propagated vegetatively through stem cuttings.
-Growth is controlled through photoperiod manipulation: short days (less than
+Growth is controlled through [[chrysanthemum-greenhouse-photoperiod-manipulation]]: short days (less than
 12 hours of light) trigger bract colouration after approximately 8-10 weeks.
-
-Temperature management is critical during production. Night temperatures below
-15 degrees Celsius delay bract development, while temperatures above 27
-degrees Celsius can cause leaf drop and reduced bract size.
-
-In Mexico and Guatemala, wild-type poinsettias grow as large, leggy shrubs
-with sparse branching. Commercial breeding has transformed the species into
-compact, heavily branched plants suited for indoor cultivation.
-
-December 12th is celebrated as Poinsettia Day in the United States, marking
-both the anniversary of Poinsett's death and the plant's cultural significance.
-
-## Chemistry and Toxicity
-
-The latex of Euphorbia pulcherrima contains diterpene esters, primarily
-based on the ingenol and phorbol skeletons. These compounds are potent
-skin and eye irritants.
-
-Common diterpene constituents include ingenol esters (ingenol-3-angelate,
-ingenol-3,20-dibenzoate) and phorbol esters. The phorbol esters are
-co-carcinogenic tumor promoters in experimental models.
-
-Despite widespread belief, poinsettia is only mildly toxic to humans and
-pets. The LD50 of leaf extracts in rats exceeds 25 g per kilogram of body
-weight, indicating very low acute toxicity.
-
-Ingestion of leaves or bracts may cause mild gastrointestinal upset,
-including nausea, vomiting, or diarrhoea. The latex can cause contact
-dermatitis and eye irritation in sensitive individuals.
-
-A 1996 study by the American Association of Poison Control Centers analysed
-over 22,000 poinsettia exposure cases with no fatalities and minimal
-symptoms, confirming the plant's low toxicity.
-
-The red bract colouration is produced by anthocyanins, primarily
-cyanidin 3-glucoside and cyanidin 3-rutinoside. White-bracted cultivars
-lack these pigments entirely.
-
-## See Also
-
-- [[ricinus-communis]]
-- [[manihot-esculenta]]
-- [[jatropha-curcas-entity]]
-- [[croton-lechleri]]
-- [[nicotiana-tabacum]]
-- [[nerium-oleander]]
-- [[gossypium-hirsutum]]
-- [[capsicum-annuum]]

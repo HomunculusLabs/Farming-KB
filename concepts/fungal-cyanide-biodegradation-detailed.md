@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal cyanide biodegradation detailed Detailed
+title: Fungal Cyanide Biodegradation Detailed
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -61,16 +61,16 @@ particularly relevant for organocyanide compounds used in industrial synthesis.
 
 ## Key Fungal Genera in Cyanide Biodegradation
 Several fungal genera have demonstrated significant cyanide-degrading
-capabilities, each employing distinct enzymatic strategies adapted to their
+capabilities, each employing distinct [[fungal-saprotrophic-enzymatic-strategies]] adapted to their
 ecological niches and metabolic capacities:
 
-- **Fusarium species**: Fusarium oxysporum and Fusarium solani have been
+- **Fusarium species**: [[fusarium-oxysporum]] and [[fusarium-solani]] have been
   extensively studied for cyanide degradation. These species produce cyanide
   hydratase, which converts HCN to formamide. Fusarium oxysporum strains
   isolated from cyanide-contaminated mining effluents show enhanced degradation
   rates compared to laboratory strains, suggesting adaptive enzyme regulation.
 
-- **Trichoderma species**: Trichoderma harzianum and Trichoderma viride
+- **Trichoderma species**: [[trichoderma-harzianum]] and Trichoderma viride
   exhibit robust cyanide tolerance and degradation activity. These fungi are
   commonly found in soils near metal-processing facilities and can tolerate
   cyanide concentrations that inhibit most other microorganisms. Their cell
@@ -84,66 +84,7 @@ ecological niches and metabolic capacities:
 
 - **Penicillium species**: Penicillium citrinum and related species have
   been identified in cassava processing environments where cyanogenic
-  glycosides release HCN during root fermentation. These fungi contribute to
+  glycosides release HCN during root fermentation. These [[query-how-do-fungi-contribute-to-carbon-sequestration]]
   natural detoxification in traditional food processing systems.
 
 ## Mechanisms of Cyanide Tolerance
-Fungi that degrade cyanide must also protect their own respiratory machinery
-from inhibition. Several tolerance mechanisms have been identified:
-
-- **[[fungal-enzyme-induction-and-regulation]]**: Fungal cells upregulate cyanide-degrading enzymes
-  upon exposure, with induction occurring within hours of initial contact.
-  The regulatory pathways involve transcriptional activation of cyanidase
-  and related genes in response to cyanide as an inducing substrate.
-
-- **Alternative oxidase pathway**: Some fungi possess an alternative
-  respiratory pathway that is resistant to cyanide inhibition. This
-  alternative terminal oxidase bypasses cytochrome c oxidase, allowing
-  continued ATP production even in the presence of cyanide. This pathway is
-  particularly well-developed in Fusarium species.
-
-- **Metallothionein production**: Fungi exposed to metal-cyanide complexes
-  often produce metallothioneins and other metal-binding proteins that
-  sequester toxic metals released during cyanide degradation, preventing
-  [[fungal-intracellular-metal-binding-molecules]] accumulation.
-
-- **Extracellular polysaccharide barriers**: The production of thick
-  extracellular polysaccharide matrices creates a diffusion barrier that
-  slows cyanide uptake, providing additional time for enzymatic degradation
-  in the periplasmic space.
-
-## Environmental Factors Affecting Degradation
-The efficiency of fungal cyanide biodegradation is influenced by several
-environmental parameters that must be carefully managed in bioremediation
-applications:
-
-- **pH**: Most fungal cyanide degradation occurs optimally between pH 7.0
-  and 9.0. At lower pH, cyanide exists primarily as volatile HCN gas, which
-  can be lost from solution. At higher pH, free cyanide ion predominates but
-  may inhibit fungal metabolism through non-specific membrane effects.
-
-- **Temperature**: Mesophilic fungi typically show optimal cyanide degradation
-  between 25 and 35 degrees Celsius. Thermotolerant strains can maintain
-  activity at higher temperatures, which is advantageous for treating warm
-  industrial effluents from mining or metal processing operations.
-
-- **[[ph-and-nutrient-availability-garden-soils]]**: Supplemental carbon and nitrogen sources
-  generally enhance fungal growth and [[ligninolytic-enzyme-production-bioremediation]]. However, excess
-  ammonium can inhibit cyanidase activity through product inhibition, since
-  ammonia is a direct product of cyanide hydrolysis.
-
-- **Metal-cyanide complex stability**: The speciation of cyanide strongly
-  affects biodegradability. Weak-acid dissociable (WAD) cyanide complexes
-  are more readily degraded than strong-acid dissociable (SAD) complexes
-  such as ferricyanide and ferrocyanide. Sequential biological and chemical
-  treatment may be needed for complete detoxification.
-
-- **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]**: Aerobic conditions are required for the oxidative
-  degradation pathway and for supporting robust fungal biomass growth.
-  Oxygen limitation can shift fungal metabolism toward fermentative pathways
-## See Also
-- [[fungal-biosorption-mechanisms]]
-- [[fungal-metal-redox-transformations]]
-- [[fungal-enzymes-in-environmental-bioremediation]]
-- [[gadd-fungal-biodegradation-bioremediation]]
-- [[mycorestoration]]

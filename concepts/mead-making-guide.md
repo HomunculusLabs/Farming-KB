@@ -9,12 +9,12 @@ sources: []
 
 # Mead Making Guide
 
-Mead is the world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one of the simplest alcoholic beverages to make at home and is an excellent use for homestead honey. With patience and minimal equipment, you can produce meads ranging from dry and complex to sweet and fruity. (see [[comparison-fermented-vegetables-vs-canning]]).
+Mead is the world's oldest fermented beverage -- honey wine made from honey, water, and yeast. It is one of the simplest alcoholic beverages to make at home and is an excellent use for homestead honey. With patience and minimal equipment, you can produce meads ranging from dry and complex to sweet and fruity.
 
 ## Mead Varieties
 
 ### Traditional Mead (Show Mead)
-Honey, water, and yeast only. The purest expression of mead. Quality depends entirely on the honey used. The best traditional meads showcase the floral and aromatic qualities of the honey. Ferments to dry or semi-sweet depending on honey quantity and yeast choice. (see [[goat-cheese-making]]).
+Honey, water, and yeast only. The purest expression of mead. Quality depends entirely on the honey used. The best traditional meads showcase the floral and aromatic qualities of the honey. Ferments to dry or semi-sweet depending on honey quantity and yeast choice.
 
 ### Melomel (Fruit Mead)
 Mead with fruit added. The most popular mead category. Fruit can be added as fresh, frozen, pureed, or juice.
@@ -22,11 +22,11 @@ Mead with fruit added. The most popular mead category. Fruit can be added as fre
 - Cyser: apple mead (honey + apple juice/cider)
 - Pyment: grape mead (honey + grape juice)
 - Berry meads: blackberry, raspberry, strawberry, blueberry, cherry
-- Stone fruit meads: peach, plum, cherry, apricot
-- Tropical meads: mango, pineapple, passion fruit
+- [[holzer-stone-fruit-varieties-and-growing]] meads: peach, plum, cherry, apricot
+- Tropical meads: mango, pineapple, [[comparison-dragon-fruit-vs-passion-fruit-cultivation]]
 
 ### Metheglin (Spiced Mead)
-Mead with spices and herbs added. Historical meads often contained medicinal herbs.
+Mead with spices and herbs added. Historical meads often contained [[medicinal-herbs-for-livestock]].
 
 - Common additions: cinnamon, cloves, ginger, nutmeg, allspice, cardamom, vanilla
 - Herbal additions: rosemary, thyme, lavender, chamomile, hops (braggot if also includes malt)
@@ -91,7 +91,7 @@ Basic mead-making requires the same equipment as [[beer-brewing-basics]]:
 - Long-handled spoon
 - Pot for heating water/honey
 
-Optional but helpful: pH meter or strips, temperature control, degassing tool.
+Optional but helpful: pH meter or strips, [[hamilton-greenhouse-heating-and-temperature-control]], degassing tool.
 
 ## The Mead Making Process
 
@@ -130,12 +130,12 @@ Mead is one of the most age-worthy beverages. Unlike beer, which peaks in weeks 
 
 - Stalled fermentation: usually caused by insufficient nutrients, low temperature, or exceeding yeast alcohol tolerance. Add more nutrient, warm the mead, or pitch a more tolerant yeast.
 - Medicinal/band-aid off-flavors: caused by chlorine in water or wild yeast contamination
-- Sulphur/rotten egg smell: stressed yeast from nutrient deficiency. Add nutrient and aerate.
+- Sulphur/rotten egg smell: stressed yeast from [[cannabis-grow-nutrient-deficiency-problem-solving]]. Add nutrient and aerate.
 - Too sweet: fermentation stopped early. Check gravity. May need to repitch with a more tolerant yeast.
 - Too dry: can backsweeten after stabilizing with potassium sorbate and sulfite.
 
 ## Related Concepts
 
-- [[beer-brewing-basics]] -- shared equipment and fermentation principles
+- [[beer-brewing-basics]] -- shared equipment and [[jadam-anaerobic-fermentation-principles]]
 - [[cider-making-guide]] -- another accessible homestead fermentation
 - [[homesteading-income-streams]] -- mead can be a premium value-added product

@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,17 +88,3 @@ to "protect" ecology through organic methods were actually destructive.
 Fukuoka developed a rice variety he called "Happy Hill" by crossing cultivated
 rice with wild relatives, incorporating "the blood of wild variants." He
 described it as both one of the hardiest and one of the highest-yielding
-strains in the world. He proposed that a single head of Happy Hill, sown over
-a ten-square-yard area, could yield 5,000 grains in one year — enough to sow
-a half-acre the following year, fifty acres two years hence, and 7,000 acres
-in the fourth year. He envisioned this as a means of achieving food
-independence for nations facing scarcity.
-
-## Desert Revegetation Proposal
-
-Fukuoka proposed [[fukuoka-textdoc-greening-deserts-plant-irrigation]] using fukuoka-five-principles-natural-farming
-- [[fukuoka-do-nothing-farming-and-spiritual-life]]
-
-## See Also
-
-- [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]

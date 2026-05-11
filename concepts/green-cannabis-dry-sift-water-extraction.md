@@ -1,5 +1,5 @@
 ---
-title: [[green-cannabis-cola-development-bud-architecture]] dry sift water extraction and Water Extraction Methods for Cannabis
+title: Green Cannabis Dry Sift Water Extraction
 created: 2026-04-26
 tags:
   - cannabis

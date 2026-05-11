@@ -87,24 +87,3 @@ M. faya is classified as one of the 100 worst invasive alien species globally by
 The species was intentionally introduced to Hawai'i in the 1880s as a potential forestry species. It escaped cultivation and began spreading rapidly through native Metrosideros polymorpha (ōhi'a) forests on the windward slopes of Mauna Loa and Mauna Kea. By the 1930s, M. faya had become the dominant canopy species in several thousand hectares of formerly native forest.
 
 Its spread has been facilitated by the abundance of frugivorous birds in Hawai'i, combined with the absence of specialist herbivores or pathogens that limit its growth in its native range. The resulting enemy release effect allows M. faya to allocate more resources to growth and reproduction than would be possible in Macaronesia.
-
-Control efforts in Hawai'i include mechanical removal, herbicide application (triclopyr and glyphosate), and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research. Complete eradication is considered infeasible due to the species' extensive seed bank and the difficulty of accessing remote invasion frontiers on volcanic slopes.
-
-A biological control program targeting M. faya was investigated in the 1990s, focusing on specialist herbivores from its native Macaronesian range. However, concerns about potential impacts on native Hawaiian Myricaceae and other beneficial plants halted the program before any agents were released. Current management relies on containment and localized suppression rather than eradication.
-
-In New Zealand, M. faya is listed as an unwanted organism under the Biosecurity Act 1996. Established populations are small and localized, and active eradication programs have prevented widespread establishment. Early detection and rapid response remain the primary management strategies in non-invaded regions.
-
-Climate change may expand the potential range of M. faya in both invaded and currently uninvaded regions. Warmer temperatures and increased atmospheric CO₂ could enhance growth rates and nitrogen fixation, while altered precipitation patterns may affect establishment success in drier areas.
-
-## See Also
-
-- [[myrica-pensylvanica]]
-- [[myrica-gale]]
-- [[comptonia-peregrina]]
-- [[morella-cerifera]]
-- [[psidium-guajava]]
-- [[eucalyptus-globulus]]
-- [[acacia-mearnsii]]
-- [[robinia-pseudoacacia]]
-- [[ailanthus-altissima]]
-- [[ceratonia-siliqua]]

@@ -23,7 +23,7 @@ wide range of host plants, including avocado, citrus, mango, papaya,
 the subject of extensive taxonomic revision, with molecular phylogenetic
 studies revealing it to comprise multiple cryptic species. The source
 text identifies it as a significant tropical pathogen and notes its
-susceptibility to mycoparasitic fungi such as Trichoderma viride.
+susceptibility to [[biodiversity-fungicolous-mycoparasitic-fungi]] such as [[trichoderma-viride]].
 
 ## Taxonomy and Classification
 - **Kingdom:** Fungi
@@ -38,7 +38,7 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 ## Key Details
 
 ### Morphology
-- Produces acervuli (subcuticular or subepidermal fruiting bodies)
+- Produces acervuli (subcuticular or subepidermal [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]])
   containing setae and conidiogenous cells
 - Conidia are hyaline, cylindrical, with rounded ends, typically
   8 to 16 by 3 to 5 micrometers
@@ -63,7 +63,7 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 
 ### Host Range and Disease Spectrum
 - One of the broadest host ranges among Colletotrichum species
-- Particularly damaging on tropical and subtropical uncommon specialty fruit crops for permaculture
+- Particularly damaging on tropical and subtropical [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture
 - Post-harvest anthracnose causes significant losses during
   storage and transport
 - Also causes stem-end rot, [[jadam-canker-leaf-spot-pesticide]], and blossom blight
@@ -88,36 +88,3 @@ susceptibility to mycoparasitic fungi such as Trichoderma viride.
 - Initial biotrophic phase (brief) transitions to necrotrophic
   destruction of host tissue
 - Acervuli develop within necrotic lesions and produce conidia
-  for secondary infection cycles
-
-### Research Methods
-- Descriptions and keys provided by von Arx (1957), Baxter and
-  van der Westhuizen (1984), and Sutton (1980)
-- Holliday (1980) and Sutton (1992) provide detailed species
-  descriptions
-- Appressoria induction on glass slides in moist chambers
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA, GAPDH, and beta-tubulin
-  gene sequencing
-
-### Economic Significance
-- Major cause of pre- and post-harvest losses in tropical fruit
-  production
-- Anthracnose on mango alone causes losses estimated at 10 to
-  80 percent depending on cultivar and management
-- Fungicide resistance is an emerging concern in many production
-  regions
-
-## Relevance
-Colletotrichum gloeosporioides is a keystone pathogen in tropical
-agriculture. Its hemibiotrophic infection strategy, involving
-morphologically distinct biotrophic and necrotrophic phases, makes
-it a model for studying fungal plant pathogenicity. The susceptibility
-of this species to mycoparasitic fungi like Trichoderma viride
-highlights the potential for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] in integrated disease
-management programs.
-
-## See Also
-
-- [[botrytis-cinerea]]
-- [[penicillium-expansum]]
-- [[aspergillus-flavus]]

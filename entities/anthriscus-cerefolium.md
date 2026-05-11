@@ -88,23 +88,3 @@ During the Renaissance, chervil's reputation was elevated through its associatio
 Fresh chervil provides notable concentrations of vitamin C (140 mg/100 g), vitamin A (460 µg RAE/100 g), and several B vitamins. Its mineral content includes iron (1.7 mg/100 g), calcium (134 mg/100 g), and magnesium (20 mg/100 g). These values exceed those of parsley per unit weight for several nutrients, though chervil is typically consumed in smaller quantities.
 
 Recent interest in chervil has focused on its potential as a functional food ingredient. The combination of volatile terpenoids and flavonoid antioxidants makes it a candidate for natural food preservation. Studies on chervil extract incorporated into lipid-rich food systems show delayed oxidation comparable to synthetic antioxidants like BHT.
-
-Preliminary in vitro research on chervil essential oil has demonstrated antimicrobial activity against *Staphylococcus aureus*, *Bacillus subtilis*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*. The estragole component, while contributing to this activity, is also a subject of toxicological concern due to genotoxic metabolites identified in rodent studies. The overall risk from culinary use of fresh chervil is considered negligible.
-
-Chervil root has been investigated as a source of natural gums and mucilage with potential pharmaceutical applications as a thickening and binding agent. The polysaccharide fraction shows interesting rheological properties for formulation science, though commercial extraction has not been developed at scale.
-
-In ecological terms, chervil flowers provide nectar and pollen for a range of small pollinating insects, including hoverflies and tiny parasitic wasps. Its role in the Apiaceae as a relatively low-biomass annual means it is less significant as a wildlife resource than larger relatives like cow parsley, but its extended flowering period can support pollinators in herb garden settings.
-
-## See Also
-
-- [[petroselinum-crispum]]
-- [[foeniculum-vulgare-entity]]
-- [[levisticum-officinale]]
-- [[quercetin]]
-- [[limonene]]
-- [[allium-schoenoprasum]]
-- [[beta-caryophyllene]]
-- [[psoralen]]
-- flavonoids
-- [[thymus-vulgaris-entity]]
-- [[daucus-carota]]

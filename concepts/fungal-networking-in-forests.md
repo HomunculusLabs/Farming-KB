@@ -3,6 +3,7 @@ title: Fungal Networking in Forests
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [forest-garden, fungi]
@@ -87,26 +88,3 @@ Animals are critical for maintaining and extending fungal networks across landsc
 These intersecting cycles sustain biodiversity and continuously extend fungal networks, creating new nodes and connections in the biological internet.
 
 ## Giant Networks at Scale
-
-Some individual fungal networks achieve staggering dimensions:
-
-- A honey mushroom (Armillaria ostoyae) mat in Oregon covers more than 2,400 acres
-- Estimated at more than 2,200 years old
-- Each blight sweep creates nurse logs, increases soil depth
-- Centimeters of soil accumulate where once only barren rock stood
-- Fungal networking is literal -- individual organisms spanning landscapes for millennia
-
-## Network Disruption and Restoration
-
-Deforestation causes a rise in saprophytes and a decline in mycorrhizal mushrooms, altering network composition:
-
-- Clear-cutting followed by slash-and-burn destroys centuries-old mycelial infrastructure
-- Without networks, forest soils lose cohesion and moisture retention declines
-- Nutrient cycling breaks down, leading to progressively poorer yields
-- Seedlings from nursery soils typically lack mycorrhizae
-
-[[mycoforestry-spored-oil-techniques]] in chain saws for immediate inoculation
-- mushroom-highways -- nutrient transport along mycelial pathways
-- [[mycorrhizal-networks]] -- the science of underground fungal connections
-- [[decomposer-fungi-succession]] -- how network composition changes over time
-- old-growth-forest-fungi-conservation -- protecting ancient fungal networks

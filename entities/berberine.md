@@ -27,7 +27,7 @@ Berberine is a quaternary ammonium isoquinoline alkaloid found in roots, rhizome
 stems, and bark of numerous plant species. Used in Ayurveda and Traditional
 Chinese Medicine for millennia, it is one of the most extensively researched
 plant-derived [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], with over 4,000 studies documenting effects on
-[[cannabis-metabolic-syndrome-research]], cardiovascular disease, gastrointestinal disorders, and
+[[cannabis-metabolic-syndrome-research]], cardiovascular disease, [[blesching-cannabis-gastrointestinal-disorders]], and
 microbial infections.
 
 ## Chemical Identity
@@ -63,18 +63,18 @@ Produced via the plant isoquinoline alkaloid pathway:
 
 | Plant Species | Family | Plant Part | Berberine Content |
 |--------------|--------|-----------|-------------------|
-| *Berberis vulgaris* | Berberidaceae | Root bark | 2–4% |
+| *[[berberis-vulgaris]]* | Berberidaceae | Root bark | 2–4% |
 | *Berberis aristata* | Berberidaceae | Root, stem | 4–8% |
 | *Coptis chinensis* | Ranunculaceae | Rhizome | 5–10% |
-| *Hydrastis canadensis* | Ranunculaceae | Root | 1.5–4% |
-| *Mahonia aquifolium* | Berberidaceae | Root bark | 2–3% |
-| *Phellodendron amurense* | Rutaceae | Bark | 1–3% |
+| *[[hydrastis-canadensis]]* | Ranunculaceae | Root | 1.5–4% |
+| *[[mahonia-aquifolium]]* | Berberidaceae | Root bark | 2–3% |
+| *[[phellodendron-amurense]]* | Rutaceae | Bark | 1–3% |
 
 ## Pharmacology
 
 ### Mechanisms of Action
 
-- **AMPK activation:** Primary metabolic mechanism; activates AMP-activated
+- **AMPK activation:** [[primary-metabolic-precursors-to-the-shikimate-pathway]] mechanism; activates AMP-activated
   protein kinase, enhancing glucose uptake and fatty acid oxidation
   (comparable to metformin in potency)
 - **Gut microbiota modulation:** Increases *Akkermansia muciniphila* and
@@ -88,61 +88,3 @@ Produced via the plant isoquinoline alkaloid pathway:
 - **Oral bioavailability:** Very low (<1%) due to P-glycoprotein efflux
   and extensive first-pass metabolism (CYP3A4)
 - **Peak plasma:** 1–2 hours post-administration; half-life: 3–5 hours
-- **Distribution:** Widely distributed to liver, kidney, muscle, brain
-- **Excretion:** Primarily fecal; minor urinary excretion
-- **[[cannabis-drug-interactions-and-contraindications]]:** ⚠️ Inhibits CYP3A4, CYP2D6, P-glycoprotein;
-  significant interactions with statins, cyclosporine, macrolides
-
-## Therapeutic Applications
-
-### Type 2 Diabetes
-
-- Reduces fasting blood glucose by 15–25% (meta-analysis, 14 RCTs, n=1068)
-- Lowers HbA1c by 0.5–1.0% over 3–6 months
-- Improves insulin sensitivity via AMPK activation in muscle and liver
-- ⚠️ Should not replace metformin without medical supervision
-
-### Cardiovascular Health
-
-- Reduces total cholesterol by 20–30 mg/dL, LDL by 15–25 mg/dL
-- Lowers triglycerides by 20–40 mg/dL
-- Mild antihypertensive effect (5–10 mmHg systolic reduction)
-
-### Antimicrobial Activity
-
-- Active against *S. aureus* (including MRSA), *E. coli*, *Shigella*,
-  *Salmonella*, *V. cholerae*, *H. pylori*
-- Antifungal against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Trichophyton*, *Malassezia*
-- Antiprotozoal against *Giardia* and *Leishmania* spp.
-- Synergistic with conventional antibiotics, partially reversing resistance
-
-### Gastrointestinal
-
-- Reduces intestinal inflammation in ulcerative colitis models
-- Effective against *H. pylori* in combination therapy
-- Antidiarrheal properties through reduced motility and secretion
-
-## Toxicity and Safety
-
-- **LD₅₀ (oral, rat):** ~3,290 mg/kg (low acute toxicity)
-- **Common side effects:** GI discomfort, constipation/diarrhea, nausea
-  (usually transient, resolving within 1–2 weeks)
-- **Contraindications:** ⚠️ Pregnancy (uterine stimulant); neonatal
-  jaundice (competes with bilirubin for albumin binding)
-- **Interactions:** Risk of hypoglycemia with antidiabetic medications;
-  discontinue 2 weeks before surgery
-
-## Cultivation and Production
-
-- Source plants cultivated in China, India, Nepal, Iran
-- *Coptis chinensis* yields highest concentrations (5–10%); harvested at 3–5 years
-- Commercial berberine chloride/sulfate extracts standardized to 97%+
-- Annual global production: several hundred metric tons
-
-## See Also
-
-- [[stephania-tetrandra]]
-
-- [[piperine]]
-- [[glycyrrhiza-glabra]]
-- [[coptis-chinensis]]

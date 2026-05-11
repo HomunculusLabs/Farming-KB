@@ -23,15 +23,15 @@ mushrooms poses genuine health risks.
 
 Psilocybin is the phosphorylated prodrug form; it is metabolized in the gut
 into psilocin, which is the actual psychoactive compound. Psilocin is a
-serotonin receptor agonist, primarily acting at the 5-HT2A receptor subtype.
+[[serotonin-receptor-interference-psychedelic-mechanism]] agonist, primarily acting at the 5-HT2A receptor subtype.
 Cross-tolerance occurs between LSD and psilocybin/psilocin, but not as
 readily as between LSD and mescaline.
 
 Total psilocybin content varies with mushroom species, subspecies, and
-preparation. The most common species, Psilocybe cubensis, typically contains
+preparation. The most common species, [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]], typically contains
 10–12 mg psilocybin per gram of dried mushroom. Approximately 40 μg
 psilocybin per kg body weight produces threshold intoxication; typical
-recreational doses of 1–2 g dried mushroom yield 4–20 mg total psilocybin.
+recreational doses of 1–2 g dried [[brassinosteroid-mushroom-yield-dry-mass]] 4–20 mg total psilocybin.
 
 ## Geographic Distribution in the United States
 
@@ -41,8 +41,8 @@ cow and horse manure. In the United States, their distribution includes:
 - **Gulf States through Texas**: Pastures from Florida westward through
   the southern coastal states, growing on cattle manure in warm, humid
   conditions. This is one of the most productive regions for wild
-  Psilocybe mushrooms.
-- **Pacific Northwest coastline**: From California northward into Canada,
+  [[grass-seed-cultivation-of-psilocybe-mushrooms]].
+- **[[psilocybin-north-america-pacific-northwest]] coastline**: From California northward into Canada,
   found in pastures, grain fields, and along coastal grasslands.
 - **Pasture and grain fields**: Various inland locations where livestock
   graze, particularly during warm, wet seasons.
@@ -74,7 +74,7 @@ formation.
 The primary health risk from wild Psilocybe mushrooms is not from the
 mushrooms themselves but from misidentification. Confusion with toxic
 species — particularly Galerina species, which can contain amatoxins
-identical to those in Amanita phalloides (death cap) — can result in
+identical to those in [[amanita-phalloides]] (death cap) — can result in
 fatal liver failure. This misidentification risk is the most common
 source of mushroom-related poisoning emergencies.
 
@@ -88,43 +88,3 @@ predisposed individuals.
 Psilocybin, psilocin, and Psilocybe species mushrooms are Schedule I
 drugs in the United States. Possession, cultivation, and distribution are
 federal crimes. However, spore prints (which do not contain controlled
-substances) are legal in most states. Recent years have seen growing
-interest in the therapeutic potential of psilocybin for depression,
-anxiety, and end-of-life distress, with clinical trials ongoing at several
-research institutions.
-
-## Religious and Ceremonial Use
-
-The Mazatec people of Oaxaca, Mexico, have a well-documented tradition of
-ceremonial mushroom use that predates the Spanish conquest. While not
-formally recognized under US law in the same way as [[halpern-sacramental-peyote-and-native-american-church]] Church
-peyote use, the indigenous ceremonial context represents the longest
-continuous tradition of psilocybin mushroom use.
-
-## Safety Guidelines for Wild Identification
-
-Several features help distinguish Psilocybe species from dangerous lookalikes:
-
-- **Spore print color**: Psilocybe species produce dark purple-brown to
-  black spore prints. Galerina marginata (the deadliest lookalike) produces
-  rusty-brown spore prints.
-- **[[field-guide-psilocybin-bluing-reaction-identification]]**: Many Psilocybe species bruise blue when handled due
-  to oxidation of psilocin and related compounds. However, some non-
-  psychoactive species also bruise blue, and not all Psilocybe species show
-  this reaction strongly.
-- **Habitat**: Psilocybe species that grow on dung are less likely to be
-  confused with wood-decomposing toxic species, though this is not
-  foolproof.
-- **Gill structure**: Psilocybe species typically have adnate to adnexed
-  gills that darken with spore maturity.
-
-No single feature is sufficient for safe identification. Proper
-identification requires consideration of multiple characteristics
-simultaneously, and even experienced foragers can make mistakes.
-
-## See Also
-
-- [[dmt-maoi-plants-united-states]] — DMT and ayahuasca [[dmt-botanical-sources-pharmacology]]
-- [[mescaline-containing-cacti]] — Peyote and San Pedro cacti
-- [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]] — Fly agaric and its chemistry
-- [[salvia-divinorum]] — Salvinorin-A and its unique mechanism

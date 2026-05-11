@@ -8,7 +8,7 @@ sources: []
 ---
 Fungi play a central role in the formation and stabilization of
 soil microaggregates, the fundamental building blocks of soil
-structure. Through their hyphal networks, extracellular polymers,
+structure. Through their hyphal networks, [[fungal-exopolysaccharides-and-extracellular-polymers]],
 and interactions with bacteria and mineral particles, fungi create
 and maintain the physical architecture of soils that underpins
 water retention, gas exchange, and root growth.
@@ -43,8 +43,8 @@ microaggregates to macroaggregates. Hyphae physically enmesh soil
 particles, and fungal exudates chemically bind them together.
 Divalent cations (calcium, magnesium) form electrostatic links
 between negatively charged sites on both fungal cell wall
-polysaccharides and clay mineral surfaces, creating stable bridges.
-Arbuscular mycorrhizal fungi contribute even more significantly to
+polysaccharides and clay [[fungal-community-profiling-rock-mineral-surfaces-gadd]], creating stable bridges.
+[[arbuscular-mycorrhizal-fungi]] contribute even more significantly to
 soil aggregation than saprotrophs, due to their greater abundance
 in the rhizosphere.
 ## Arbuscular Mycorrhizal Fungi and Glomalin
@@ -62,7 +62,7 @@ stability (r = 0.86 across 17 sites). Glomalin acts as biological
 glue, coating hyphae and soil particles with a recalcitrant,
 hydrophobic compound that resists microbial degradation.
 ## Synergistic Effects in Aggregate Formation
-Stable soil aggregate formation involves synergistic interactions
+Stable [[singh-fungal-roles-in-soil-aggregate-formation]] involves synergistic interactions
 among multiple components. Arbuscular mycorrhizal hyphal growth is
 stimulated by organic matter, particularly sloughed root material.
 This increased fungal growth promotes bacterial populations. The
@@ -75,7 +75,7 @@ Well-aggregated soils resist erosion, maintain porosity for water
 infiltration and root penetration, and support diverse microbial
 communities. Tillage disrupts fungal hyphae and breaks down
 aggregates, while conservation practices enhance soil structure.
-Management supporting fungal biodiversity — reduced tillage, cover
+Management supporting fungal biodiversity — [[comparison-no-till-vs-reduced-tillage]], cover
 cropping, and continuous plant cover — improves soil physical
 properties. The long-term stability of glomalin means benefits
 persist for years after producing hyphae have decomposed.
@@ -84,19 +84,7 @@ Dead fungal hyphae (necromass) contribute to soil organic matter
 pools within aggregates. The recalcitrant nature of melanized
 hyphal cell walls provides long-term carbon storage within
 microaggregates. This necromass serves as a substrate for
-successional microbial communities while maintaining aggregate
+successional [[cannabis-rhizosphere-microbial-communities]] while maintaining aggregate
 integrity through its physical contribution to the soil matrix.
 ## Seasonal Dynamics
 Aggregate stability fluctuates seasonally with root growth cycles
-and fungal activity. Peak aggregation typically coincides with
-maximum root and hyphal biomass during the growing season. Winter
-dieback reduces living fungal contributions, but glomalin and
-necromass maintain baseline aggregate stability through dormant
-periods.
-## See Also
-- [[fungal-exopolysaccharides-and-extracellular-polymers]]
-- fungal-soil-aggregate-formation-glomalin
-- [[arbuscular-mycorrhizal-fungi]]
-- [[fungal-bacterial-interactions]]
-- [[fungal-ecosystem-processes-overview]]
-- [[fungal-peat-decomposition-and-carbon-storage]]

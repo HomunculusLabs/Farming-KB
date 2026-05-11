@@ -22,11 +22,11 @@ sources:
 
 ## Overview
 
-**Codonopsis lanceolata**, commonly known as deodeok (더덕) in Korean, is a perennial climbing herb in the Campanulaceae family. It is native to East Asia and cultivated primarily for its edible, fleshy roots that are a traditional food in Korean cuisine.
+**Codonopsis lanceolata**, commonly known as deodeok (더덕) in Korean, is a perennial climbing herb in the Campanulaceae family. It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]] and cultivated primarily for its edible, fleshy roots that are a traditional food in Korean cuisine.
 
 The roots have a sweet, slightly bitter flavor and are prepared in numerous dishes including salads, stir-fries, and grilled preparations. The species also has a long history of use in Korean traditional medicine as an anti-inflammatory and expectorant.
 
-It is sometimes called "poor man's ginseng" due to its medicinal properties and superficial resemblance to ginseng roots, though the two plants are unrelated. The species is commercially cultivated in South Korea, China, and Japan.
+It is sometimes called "poor man's ginseng" due to its [[panax-ginseng]] and superficial resemblance to ginseng roots, though the two plants are unrelated. The species is commercially cultivated in South Korea, China, and Japan.
 
 The name "deodeok" derives from the Korean words for "mountain" and "virtue," reflecting its traditional reputation as a strengthening food. Annual production in South Korea exceeds 15,000 tonnes of fresh roots, with a market value of approximately 50 billion won.
 
@@ -85,37 +85,6 @@ Commercial cultivation uses seed or root segment propagation. Seeds require 60�
 
 Plants are grown on trellises or support structures in rows spaced 30–40 cm apart. The crop requires 2–3 years of growth before roots reach marketable size and quality.
 
-Optimal soil pH is 5.5–6.5 with organic matter content above 3%. Mulching with rice straw helps maintain soil moisture and suppress weeds during the long growing season.
+Optimal soil pH is 5.5–6.5 with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content above 3%. Mulching with [[fukuoka-rice-straw-mulch-central-technique]] helps maintain soil moisture and [[query-how-do-cover-crops-suppress-weeds]] during the long [[extending-growing-season]].
 
 Harvesting occurs in autumn after the aerial parts die back. Yields average 8–12 tonnes per hectare of fresh roots under standard cultivation practices.
-
-Fresh roots are graded by diameter and length at market. Premium-grade roots exceeding 2 cm diameter command prices 3–4 times higher than standard grades. Smaller roots are processed into powdered supplements and extracts.
-
-The crop is relatively pest-free but susceptible to root-knot nematodes (Meloidogyne spp.) and fungal root rots in poorly drained soils. Crop rotation with non-host species is recommended.
-
-In Korea, deodeok cultivation is supported by government agricultural extension programs that provide cultivar selection advice and integrated pest management guidelines. Major cultivated varieties include 'Jangseong' and 'Jeongsun' selections adapted to different regional climates.
-
-## Ecological Role
-
-As a forest-edge twining vine, Codonopsis lanceolata contributes to the vertical structure of woodland margin communities. Its flowers attract diverse pollinators including bumblebees and syrphid flies.
-
-The species forms associations with arbuscular mycorrhizal fungi that enhance nutrient uptake in its native forest soils. This mycorrhizal dependency influences its establishment in cultivated fields.
-
-Deodeok serves as a host plant for several specialist herbivorous insects in its native range. The plant's bitter latex deters generalist herbivores while coevolved specialists feed freely on the foliage.
-
-In traditional Korean agroforestry, deodeok is interplanted with pine and oak trees on mountain slopes. This system mimics the plant's natural habitat while providing economic return from marginal land.
-
-Wild harvesting of deodeok remains culturally important in rural Korean communities. Annual foraging festivals in Gangwon-do celebrate the plant's heritage and promote conservation-aware harvesting practices.
-
-## See Also
-
-- [[codonopsis-pilosula]]
-- [[platycodon-grandiflorus]]
-- [[campanula-lactiflora]]
-- [[lobelia-inflata]]
-- [[phyteuma-spicatum]]
-- [[campanula-rapunculus]]
-- [[lobelia-cardinalis]]
-- [[lobelia-siphilitica]]
-- [[campanula-trachelium]]
-- [[jasione-montana]]

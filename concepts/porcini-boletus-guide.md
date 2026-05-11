@@ -9,11 +9,11 @@ sources: []
 
 # Porcini (Boletus) Guide
 
-Porcini (Boletus edulis and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
+Porcini ([[boletus-edulis-entity]] and related species) are among the most sought-after wild mushrooms in the world. Known as "cepes" in France, "steinpilz" in Germany, "porcini" in Italy, and "king bolete" in North America, these mushrooms have a rich, nutty, meaty flavor that makes them a cornerstone of European cuisine. Like [[chanterelle-guide]] species, porcini are mycorrhizal and cannot be cultivated.
 
 ## Overview
 
-Boletus edulis is the type species of a complex group of closely related species found across the Northern Hemisphere. All share the characteristic bolete morphology: a cap with a spongy pore surface (instead of gills) underneath, and a thick, firm stem. The group includes some of the most commercially valuable wild mushrooms in the world. (see [[bolete-fungi-appalachian-region]]).
+Boletus edulis is the type species of a complex group of closely related species found across the Northern Hemisphere. All share the characteristic bolete morphology: a cap with a spongy pore surface (instead of gills) underneath, and a thick, firm stem. The group includes some of the most commercially valuable wild mushrooms in the world.
 
 ## The Boletus edulis Species Complex
 
@@ -21,13 +21,13 @@ Molecular research has revealed that what was traditionally considered a single 
 
 - Boletus edulis sensu stricto: Europe (the original porcino)
 - Boletus edulis var. grandedulis: western North America (the "King Bolete")
-- Boletus reticulatus (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
-- Boletus pinophilus: Europe, pine-associated, "Pine Bolete"
+- [[boletus-reticulatus]] (syn. B. aereus): Europe, "Dark Bolete" or "Bronze Bolete"
+- [[boletus-pinophilus]]: Europe, pine-associated, "Pine Bolete"
 - Boletus rex-veris: western North America, spring fruiting
-- Boletus variipes: eastern North America, associated with oak
+- Boletus variipes: [[polypore-fungi-eastern-north-america]], associated with oak
 - Boletus fibrillosus: Pacific Northwest, spruce/hemlock
 
-All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological. (see [[boletus-pinophilus]]).
+All are edible and excellent, with similar culinary qualities. The distinctions are primarily geographic and ecological.
 
 ## Species Profile
 
@@ -45,13 +45,13 @@ All are edible and excellent, with similar culinary qualities. The distinctions 
 
 ## Mycorrhizal Ecology
 
-Porcini form ectomycorrhizal associations with several tree genera:
+Porcini form [[ectomycorrhizal-associations]] with several tree genera:
 
 - Spruce (Picea): most common association in Europe and North America
 - Pine (Pinus): especially B. pinophilus and B. reticulatus
 - Birch (Betula): common in northern Europe and North America
 - Oak (Quercus): B. variipes, B. edulis var. grandedulis
-- Beech (Fagus): common in central European forests
+- Beech (Fagus): common in [[psilocybe-bohemica-central-european]] forests
 - Chestnut (Castanea): important association in Italy and France
 - Fir (Abies): high-elevation forests
 

@@ -1,5 +1,5 @@
 ---
-title: [[gourmet-medicinal-mushroom-casing-layer-techniques]] Compound [[arbuscular-mycorrhizal-spore-extraction-methods]]
+title: [[gourmet-medicinal-mushroom-casing-layer-techniques]] Compound Extraction
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,14 +12,14 @@ sources: []
 ## Triterpenoid Extraction
 
 Triterpenoids are a second major class of bioactive compounds found
-primarily in polypore mushrooms, especially species of Ganoderma
+primarily in [[growing-gourmet-polypore-mushrooms-cultivation-overview]], especially species of Ganoderma
 (reishi), Inonotus (chaga), and Trametes (turkey tail):
 - Triterpenoids are typically extracted using organic solvents
   because they are lipid-soluble and poorly water-soluble
-- Common extraction solvents include ethanol, methanol, ethyl
+- Common [[cannabis-extraction-solvents]] include ethanol, methanol, ethyl
   acetate, and chloroform at varying concentrations
 - Supercritical CO2 extraction offers a solvent-free alternative
-  for triterpenoid recovery, particularly for ganoderic acids
+  for triterpenoid recovery, particularly for [[ganoderic-acids]]
 - The choice of solvent affects both yield and the specific
   triterpenoid profile obtained from a given mushroom species
 - Reflux extraction at 60-80°C for 2-4 hours improves solvent
@@ -41,11 +41,11 @@ immune cell receptors including Dectin-1, CR3, and TLR2/4:
   molecular weight fractions generally showing greater potency
 
 ### Ganoderic Acids (Triterpenoids)
-Ganoderic acids from Ganoderma lucidum (reishi) represent the
+Ganoderic acids from [[ganoderma-lucidum]] (reishi) represent the
 most studied fungal triterpenoid group with over 150 identified
 compounds exhibiting diverse pharmacological activities:
 - Anti-inflammatory activity through inhibition of NF-kB
-  signaling pathways and prostaglandin E2 production
+  [[plant-signaling-pathways]] and prostaglandin E2 production
 - Hepatoprotective effects demonstrated in animal models of
   chemically induced liver injury
 - Cytotoxic activity against multiple cancer cell lines via

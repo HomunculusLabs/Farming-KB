@@ -8,7 +8,7 @@ tags:
   - medicinal-plant
   - traditional-chinese-medicine
   - women's-health
-  - permaculture
+  - [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -60,7 +60,7 @@ Liver, Heart, and Spleen meridians.
 **Primary TCM functions:**
 - Tonifies the blood (补血) — treats pale complexion, dizziness,
   palpitations, and brittle nails associated with blood deficiency
-- Invigorates blood circulation (活血) — addresses menstrual pain,
+- Invigorates blood circulation (活血) — addresses [[blesching-cannabis-menstrual-pain]],
   abdominal masses, and traumatic injuries
 - Regulates menstruation (调经) — treats irregular, scanty, or painful
   menstruation
@@ -76,7 +76,7 @@ Sichuan lovage.
 - Hematopoietic stimulation (increases red blood cell and hemoglobin)
 - Antiplatelet and anticoagulant effects (ferulic acid pathway)
 - Estrogenic modulation (phytoestrogenic activity)
-- Pain relief through prostaglandin inhibition
+- [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] through prostaglandin inhibition
 
 ## Cultivation
 
@@ -88,9 +88,3 @@ roots harvested in the second year after autumn senescence.
 - [[mollison-designers-apple-guild-and-cool-climate-fruit-guilds]] with 15–20°C average [[mushroom-growing-temperature-and-moisture]]
 - High atmospheric humidity (70–80%)
 - Partial shade to full sun at high elevation
-- Deep, fertile, well-drained loam, pH 6.0–7.0
-- Consistent moisture; waterlogging [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] rot
-
-## See Also
-- [[growing-vegetables-with-less-fertilizer]]
-- [[teaming-with-microbes-overview]]

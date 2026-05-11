@@ -28,15 +28,15 @@ sources:
 
 ## Overview
 
-Jealousy is a modern indica-dominant hybrid cannabis strain bred by Seed Junky Genetics, a highly regarded breeding operation based in Southern California. Released in the early 2020s, Jealousy rapidly became one of the most sought-after "exotic" or "zaza" strains on the US West Coast, commanding premium prices at licensed dispensaries and earning a devoted following among both recreational and medical consumers. The strain is a cross of Gelato #41 and a select cut of Sunset Sherbet, placing it firmly within the legendary "Cookies family" genetic lineage. Its name is a tongue-in-cheek reference to the envy it inspires in those who don't have access to it.
+Jealousy is a modern indica-dominant hybrid cannabis strain bred by Seed Junky Genetics, a highly regarded breeding operation based in Southern California. Released in the early 2020s, Jealousy rapidly became one of the most sought-after "exotic" or "zaza" strains on the US West Coast, commanding premium prices at licensed dispensaries and earning a devoted following among both recreational and medical consumers. The strain is a cross of Gelato #41 and a select cut of [[sunset-sherbet]], placing it firmly within the legendary "Cookies family" genetic lineage. Its name is a tongue-in-cheek reference to the envy it inspires in those who don't have access to it.
 
 ## Genetic Lineage
 
 ### Parent Strains
 
 **Female Parent: Gelato #41**
-- Gelato #41 is itself a cross of Sunset Sherbert × Thin Mint Cookies (Girl Scout Cookies phenotype)
-- Known for its creamy, dessert-like terpene profile and potent, balanced effects
+- Gelato #41 is itself a cross of [[sunset-sherbert]] × [[thin-mint-cookies]] ([[girl-scout-cookies]] phenotype)
+- Known for its creamy, dessert-like [[cannabis-terpene-profile]] and potent, balanced effects
 - One of the most influential modern cannabis cultivars, foundational to dozens of subsequent crosses
 - Contributes dense bud structure, high [[cannabis-glandular-trichome-types-resin-production-clarke]], and the sweet lavender-citrus terpene expression
 
@@ -67,7 +67,7 @@ Jealousy is visually striking and lives up to the "exotic" aesthetic expected of
 
 - **Bud structure:** Dense, chunky, medium-to-large calyxes with a tight, indica-typical formation. Buds are remarkably heavy for their size due to dense trichome coverage.
 - **Coloration:** A dramatic interplay of deep [[trichoderma-forest-green-mold-guide]] and vibrant purple. The purple expression is environmentally influenced — cooler night temperatures during late flowering (below 15°C/59°F) trigger anthocyanin production, deepening the violet hues. Bright orange pistils contrast sharply against the dark foliage.
-- **Trichomes:** Exceptionally heavy resin production. Buds appear frosty or "dipped in sugar" with a thick layer of opaque, milky-white trichomes. Under magnification, a mix of bulbous and capitate-stalked glandular trichomes are visible, with amber-colored heads indicating peak maturity.
+- **Trichomes:** Exceptionally heavy [[cannabis-resin-production-and-quality-traits-clarke]]. Buds appear frosty or "dipped in sugar" with a thick layer of opaque, milky-white trichomes. Under magnification, a mix of bulbous and capitate-stalked glandular trichomes are visible, with amber-colored heads indicating peak maturity.
 - **Leaf:** Broad indica-dominant leaves with serrated edges, often displaying purple stems and petioles.
 
 ## Aroma and Flavor
@@ -88,56 +88,3 @@ The overall impression is of walking into a high-end bakery that shares a wall w
 - **Aftertaste:** A sweet, creamy residue that lingers on the tongue for several minutes, with a subtle tropical fruit quality.
 
 ## Terpene Profile
-
-Based on analytical testing from licensed laboratories:
-
-| Terpene | Typical Range | Notes |
-|---------|--------------|-------|
-| **Caryophyllene** | 0.8–1.5% | Dominant; contributes peppery spice and potential anti-inflammatory effects |
-| **Limonene** | 0.5–1.2% | Citrus notes; mood elevation, stress relief |
-| **Linalool** | 0.3–0.8% | Lavender/floral; anxiolytic, sedative qualities |
-| **Myrcene** | 0.4–0.9% | Earthy/musky; potentiates sedative effects, "couch-lock" |
-| **Humulene** | 0.1–0.3% | Woody/hoppy; appetite suppressant, anti-inflammatory |
-| **Terpinolene** | Trace–0.2% | Piney/floral; adds complexity to aroma |
-| **Ocimene** | Trace–0.1% | Sweet/herbal; minor contributor |
-
-The terpene profile is notably caryophyllene-dominant, which is characteristic of the Cookies family line and distinguishes Jealousy from limonene-dominant strains like Super Lemon Haze or Sour Diesel.
-
-## Cannabinoid Profile
-
-Typical analytical results from commercial samples:
-
-| Cannabinoid | Typical Range |
-|-------------|--------------|
-| **THC** | 22–30% (some phenotypes test above 30%) |
-| **THCa** | 25–33% |
-| **CBD** | <0.1% (negligible) |
-| **CBG** | 0.1–0.5% |
-| **CBC** | 0.1–0.3% |
-| **THCV** | Trace |
-
-Jealousy is a high-THC, low-CBD strain. Total cannabinoid content typically exceeds 28%, placing it firmly in the "ultra-premium" potency tier.
-
-## Effects
-
-### Onset
-Effects begin within 2–5 minutes when smoked or vaporized. The onset is notable for a rapid "rush" to the head that precedes the body effects.
-
-### Experience Timeline
-- **0–15 minutes:** Initial cerebral stimulation — elevated mood, enhanced sensory perception, creative and associative thinking. Colors appear more vivid, music sounds richer. A giggly, euphoric quality is common in social settings.
-- **15–45 minutes:** The indica-dominant body effects begin to emerge. A warm, heavy sensation spreads from the chest to the limbs. Muscular tension decreases, and a general sense of physical relaxation sets in.
-- **45–90 minutes:** Peak effects. The cerebral component mellow into a content, hazy headspace. The body effects deepen into full-body relaxation without necessarily being sedating — users describe it as "melting" rather than "sleeping."
-- **90–180 minutes:** Gradual tapering. Residual relaxation and mild euphoria persist for 1–2 additional hours.
-
-### Reported Effects (Positive)
-## See Also
-
-- jealousy cannabis strain entity
-
-- [[starfighter]]
-
-- [[girl-scout-cookies]] — foundational lineage
-- sunset sherbert — parent strain
-- [[runtz-entity]] — related Cookies-family hybrid
-- [[cannabis-sativa]] — sativa species reference
-- [[cannabis-indica]] — indica species reference

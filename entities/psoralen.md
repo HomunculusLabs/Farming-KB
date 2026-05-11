@@ -71,7 +71,7 @@ umbelliferone (7-hydroxycoumarin):
 **Major plant sources:**
 - *[[permplant-fig-ficus-carica-fruit-tree]]* (fig) — latex and leaf sap contain high concentrations
 - *Ammi majus* (bishop's weed) — commercial source for medicinal psoralen
-- *Pastinaca sativa* (parsnip) — furanocoumarins in roots and foliage
+- *[[pastinaca-sativa]]* (parsnip) — furanocoumarins in roots and foliage
 - *Citrus* spp. — peel oils contain bergamottin and related furanocoumarins
 - *Heracleum* spp. (giant hogweed) — phototoxic sap causes phytophotodermatitis
 
@@ -88,34 +88,6 @@ umbelliferone (7-hydroxycoumarin):
 
 **Phototoxicity:**
 - Phytophotodermatitis from handling plants containing psoralen: erythema,
-  edema, and bullous lesions appearing 24–48 hours after UVA exposure
-- Giant hogweed (*Heracleum mantegazzianum*) injuries are severe enough to
-  cause permanent scarring and photosensitivity lasting months to years
-- **[[cannabis-drug-interactions-and-contraindications]]:** Furanocoumarins in grapefruit juice inhibit intestinal
-  CYP3A4, increasing bioavailability of numerous medications (statins,
-  immunosuppressants, benzodiazepines)
-
-⚠️ **Long-term PUVA risks:** Squamous cell carcinoma risk increases
-significantly with cumulative UVA exposure; cataract risk requires eye
-protection during treatment.
-
-## Legal Status
-
-- Psoralen and methoxsalen are unscheduled in most jurisdictions
-- Methoxsalen (8-MOP) is FDA-approved as a prescription drug for PUVA therapy
-- Sold as pharmaceutical under [[emcdda-brand-names-user-terms-smartshop-marketing]] Uvadex, Oxsoralen, and Meladinine
-
-## Related Compounds
-
-| Compound | Key Difference | Notable Property |
-|----------|---------------|-----------------|
-| 8-Methoxypsoralen | Methoxy at C-8 | Most widely used PUVA agent |
-| 5-Methoxypsoralen (bergapten) | Methoxy at C-5 | Main citrus furanocoumarin |
-| Angelicin (isopsoralen) | Furan at 7,8 (not 6,7) | Monoadduct only; no crosslink |
-| Trioxsalen | Methyl at C-4',5' | Used in combination PUVA |
-| Bergamottin | Prenylated dimer | CYP3A4 inhibitor in grapefruit |
 
 ## See Also
-- [[cinnamomum-verum]]
-- [[ficus-carica]]
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+- [[permplant-persimmon-diospyros-kaki-fruit-tree]]

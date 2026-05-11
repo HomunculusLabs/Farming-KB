@@ -38,7 +38,7 @@ sulfur atom bonded to an ethyl group at the 4-position (ethylthio group).
 The sulfur linkage is pharmacologically significant: sulfur atoms have
 different electronic properties, polarizability, and bonding characteristics
 compared to carbon or halogen atoms. These influence interaction with
-serotonin receptors, particularly 5-HT2A, and may contribute to the
+[[psilocybin-pharmacology-and-serotonin-receptors]], particularly 5-HT2A, and may contribute to the
 distinctive body load associated with 2C-T compounds.
 
 The 2C-T series includes 2C-T (methylthio), 2C-T-2 (ethylthio), 2C-T-4
@@ -82,49 +82,9 @@ grounded, earthy quality.
 He commented on systematic trends within the 2C-T series, noting how
 increasing alkyl chain length influenced potency and duration. This careful
 documentation of structure-activity relationships exemplifies Shulgin's
-contribution to psychedelic pharmacology.
+contribution to [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]].
 
 ## Pharmacology
 
 2C-T-2 acts primarily as a serotonin 5-HT2A receptor agonist with
 additional activity at 5-HT2C. The ethylthio substituent's unique electronic
-and steric properties contribute to a binding profile differing from
-halogenated and alkyl-substituted 2C compounds.
-
-The sulfur atom's high polarizability may enhance interactions with
-hydrophobic receptor binding pockets. The ethyl chain provides additional
-lipophilicity, influencing absorption, distribution, and brain penetration.
-Metabolism occurs through oxidative deamination and O-demethylation, with
-possible S-oxidation of the ethylthio group as an additional pathway.
-
-## Safety and Harm Reduction
-
-Primary concerns are consistent with other 2C compounds: accurate dosing,
-[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]], and challenging psychological experiences at higher
-doses. Moderate body load can be uncomfortable during onset. Individuals
-with cardiovascular conditions should exercise caution. The compound should
-not be combined with other serotonergic substances or MAOIs. Harm reduction
-includes starting with lower doses, having a trusted sitter, and planning
-for the full 6 to 8 hour duration.
-
-## Comparison to Related Compounds
-
-Compared to 2C-B, 2C-T-2 produces somewhat more intense and longer-lasting
-visuals with heavier body load. Against 2C-I, it has a different visual
-character attributed to the thio substituent, with a more grounded quality.
-Within the 2C-T series, 2C-T-2 is less potent and shorter-acting than 2C-T-7,
-with more manageable body load, making it one of the more accessible members.
-
-## Historical and Cultural Significance
-
-2C-T-2 appeared in the research chemical market in the early to mid-2000s.
-It gained a modest following but was never as popular as 2C-B or 2C-I. The
-compound was emergency-scheduled by the DEA in 2012 as part of blanket 2C
-scheduling and is now Schedule I in the US, controlled in most
-jurisdictions worldwide.
-
-## See Also
-
-- [[pihkal-2c-i]]
-- [[pihkal-2c-t-7]]
-- [[pihkal-introduction-and-methodology]]

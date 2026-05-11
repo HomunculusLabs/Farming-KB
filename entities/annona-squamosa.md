@@ -87,27 +87,3 @@ Seed oil and acetogenin extracts are investigated as natural biopesticides and a
 ### Related Annona Species
 
 The atemoya (*Annona × atemoya*) is a natural hybrid between sugar apple (*A. squamosa*) and cherimoya (*A. cherimola*), combining the heat tolerance of sugar apple with the superior fruit quality of cherimoya. It is commercially important in Australia, Israel, and Florida.
-
-Soursop (*Annona muricata*) produces the largest fruit in the genus, weighing 1–4 kg, with a fibrous, tart pulp used primarily for juice and nectar production. It has received significant research attention for its annonaceous acetogenin content.
-
-Cherimoya (*Annona cherimola*) is native to Andean highlands and produces a large, smooth-skinned fruit regarded as the finest-flavored member of the genus. It requires cool, frost-free subtropical conditions and does not succeed in humid lowland tropics.
-
-The custard apple (*Annona reticulata*) is less commercially significant than sugar apple or soursop. It produces a heart-shaped fruit with granular, less sweet pulp. It is the most cold-tolerant of the commercially cultivated Annona species.
-
-### Economic and Cultural Significance
-
-Sugar apple is primarily a smallholder crop, with most production consumed domestically in producing countries. India is the world's largest producer, with significant plantings in Uttar Pradesh, Bihar, and Andhra Pradesh states.
-
-The fruit commands premium prices in local markets due to its short [[psilocybin-shelf-life-stability]] and delicate texture. Post-harvest losses are high (25–40%) because ripe fruit softens rapidly and is susceptible to bruising and fungal decay.
-
-In traditional medicine systems across South and Southeast Asia, different plant parts serve distinct therapeutic roles. The root is used as a purgative, the crushed leaves are applied to boils and wounds, and seed paste treats head lice and intestinal parasites.
-
-## See Also
-
-- [[theobroma-cacao]]
-- [[mangifera-indica]]
-- [[passiflora-edulis]]
-- [[artocarpus-heterophyllus]]
-- durio-zibethinus
-- [[ficus-carica]]
-- [[solanum-tuberosum]]

@@ -87,11 +87,3 @@ With 4-TASB we may be seeing the shift from sensory effects over to out-and-out 
 [[2c-t-17-entity]] - another compound with a bulky thioalkyl group
 
 [[phenethylamine-pharmacology]] - general pharmacological context
-
-## Status
-
-Active compound with significant physical side effects.
-
-The "DO NOT REPEAT" assessment from an experienced subject, combined with reports of heartbeat and respiration irregularities, neurological hyperreflexia, water retention, and extreme negative imagery, places 4-TASB among the more physically threatening compounds in the PiHKAL collection.
-
-While psychedelic activity is confirmed, the [[cannabis-therapeutic-index-overview]] appears unfavorable and the compound serves primarily as a cautionary data point in structure-activity relationship studies.

@@ -1,5 +1,5 @@
 ---
-title: Fruiting Conditions and Harvesting
+title: Fruiting Conditions And Harvesting
 created: 2026-04-28
 tags: [fruiting, harvesting, humidity, temperature, mushroom]
 date: 2026-04-28
@@ -35,7 +35,7 @@ terrarium for the fruiting cycle.
 
 High humidity is the single most important factor for fruiting. The fungus
 needs to bathe in a shroud of floating water molecules. Near 100% humidity is
-the target. The dual chambered terrarium achieves this through the spray shield
+the target. The [[dual-chambered-terrarium]] achieves this through the [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
 system, which molecularizes water spray into a fine mist that envelops the
 cakes without directly wetting them.
 
@@ -87,16 +87,3 @@ Mature specimens, which are past their prime for consumption, show:
 - Purple spore deposits visible on the stem
 
 ### When to Harvest
-
-Just before or right after the veil breaks is a good time to harvest. The cap
-will begin to spread after the veil breaks. The mushroom will be smaller and
-its head will be roundish. The immature specimens are the best in quality,
-digestibility, and potency.
-
-### The Potency Summary
-
-From research by [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
-
-## See Also
-
-- [[azurescens-fruiting-seasons-and-conditions]]

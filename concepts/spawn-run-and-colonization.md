@@ -12,9 +12,9 @@ type: concept
 
 The spawn run (also called incubation or colonization phase) is the period
 between inoculation of a prepared substrate and the moment the substrate
-is fully colonized by mushroom mycelium. During this phase, the fungal
+is fully colonized by [[antimicrobial-compounds-mushroom-mycelium]]. During this phase, the fungal
 organism establishes itself throughout the substrate, digesting nutrients
-and building the network that will later produce fruiting bodies.
+and building the network that will later produce [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 This phase is purely vegetative; no mushrooms are formed.
 
@@ -26,9 +26,9 @@ include:
 
 - Grain spawn: sterilized cereal grains (rye, millet, wheat, sorghum)
   colonized by mycelium. Most common for [[cannabis-sativa-indoor-cultivation-techniques]]. Each grain
-  kernel becomes an independent inoculation point, enabling fast, even
+  kernel becomes an independent [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]], enabling fast, even
   colonization.
-- Sawdust spawn: colonized hardwood sawdust, used primarily in log and
+- [[comparison-grain-spawn-vs-sawdust-spawn]]: colonized hardwood sawdust, used primarily in log and
   outdoor cultivation. Slower to colonize but cheaper to produce.
 - Plug spawn: wooden dowels colonized with mycelium, used for inoculating
   logs and stumps.
@@ -51,7 +51,7 @@ a good balance of speed and economy.
 ### Temperature
 
 Optimal temperature for the spawn run varies by species but generally
-falls in the 22-28C range. Oyster mushrooms colonize fastest at 24-28C.
+falls in the 22-28C range. [[cultivation-of-oyster-mushrooms]] colonize fastest at 24-28C.
 Temperatures below 18C slow growth considerably, while temperatures
 above 30C risk killing the mycelium or activating thermophilic
 contaminants.
@@ -70,7 +70,7 @@ anaerobic pockets promote bacterial contamination.
 
 ### Gas Exchange
 
-Colonizing mycelium produces carbon dioxide as a metabolic byproduct.
+Colonizing mycelium produces [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] as a metabolic byproduct.
 High CO2 levels (above 5000 ppm) can slow growth and create conditions
 favorable for contaminants. Filter patch bags or jars with breathable
 covers allow gas exchange while preventing contamination.
@@ -87,63 +87,3 @@ should be kept dark or in very dim indirect light.
 Visual inspection is the primary monitoring method. Healthy mycelium
 appears as white, thread-like growth spreading from inoculation points
 through the substrate. Key indicators of healthy colonization include:
-
-- Uniform white coloration without yellowing or discoloration
-- Rhyzmorphic strands (thick, rope-like mycelial cords) indicating
-  vigorous growth
-- A clean, earthy smell rather than sour or fermented odors
-- Gradual substrate consolidation and firming as the mycelium network
-  densifies
-
-Colonization time varies by species, substrate, inoculation rate, and
-temperature. Oyster mushrooms on [[oyster-mushroom-pasteurized-straw-cultivation]] typically colonize
-in 14-21 days at optimal conditions.
-
-## Signs of Contamination During Spawn Run
-
-Early detection of contamination prevents waste of resources and
-protects healthy cultures. See [[substrate-contamination]] for detailed
-identification and prevention strategies.
-
-Common contamination indicators include:
-
-- Green, blue, or black patches indicating mold growth (Trichoderma,
-  Aspergillus, Penicillium)
-- Slimy or wet spots suggesting bacterial contamination
-- Sweet, sour, or rotten odors rather than clean earthy smell
-- Metabolite buildup (yellowish liquid) indicating stress from competing
-  organisms
-- Stalled colonization where mycelium stops spreading
-
-## Consolidation Period
-
-After the substrate appears fully colonized, a consolidation period of
-5-10 days is often recommended. During this time, the mycelium continues
-to digest substrate, strengthening the network and improving its ability
-to produce a large, even flush of mushrooms.
-
-The substrate typically becomes noticeably firmer and whiter during
-consolidation. This waiting period significantly improves first-flush
-yields and reduces the likelihood of abortive pins.
-
-## Common Mistakes in Spawn Run
-
-Several common errors can compromise the spawn run phase:
-
-- Opening containers too frequently to check progress, which introduces
-  contamination risk each time
-- Incubating at too high a temperature, which favors contaminants over
-  mushroom mycelium
-- Using old or weakened spawn that has lost vigor during storage
-- Overpacking substrate, which reduces air space and creates anaerobic
-  zones
-- Stacking containers too closely, which restricts airflow and causes
-## See Also
-
-- [[oyster-mushroom-substrates]] for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] methods
-- [[oyster-mushroom-clean-room-design]] for preventing contamination
-  during inoculation
-- [[substrate-contamination]] for identification and prevention
-- [[mushroom-growing-environmental-parameters]] for detailed
-  [[eclss-environmental-control-life-support]]
-- [[mycelial-network-biology]] for understanding how mycelium colonizes

@@ -3,6 +3,7 @@ title: "Fungal Ecology Networks — woodlovers-mycelium-running-pathway-techniqu
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/unknown-mycelium-running.md"
 type: concept
 tags: [ecology, fungi, mycelium]
@@ -87,19 +88,3 @@ Rhizomorphs are thick, cordlike strands of mycelium that can consist of a single
 ## Networks and Ecosystem Resilience
 
 Stamets argues that all habitats depend directly on fungal allies, without which the Earth's life-support system would soon collapse. Mycelial networks hold soils together, aerate them, and restore devastated habitats after catastrophes. Evolutionary trends generally lead to increased biodiversity, but human activities are causing devolution -- losing species before we can identify them.
-
-Protecting environmental health is directly related to understanding complex fungal populations. Human bodies and environments are both habitats with immune systems; fungi serve as a common bridge between the two. We can create mycologically sustainable environments by introducing plant-partnering fungi (mycorrhizal and endophytic) in combination with mulching using saprophytic mushroom mycelia. The results include healthy soil, biodynamic communities, and endless cycles of renewal. With every cycle, soil depth increases and the capacity for biodiversity is enhanced.
-
-## See Also
-
-- [[mycelium-running-presporulating-mycopesticides]]
-
-- mycelium-natures-internet
-- [[mycelium-running-partnerships-with-plants]]
-- [[common-mycorrhizal-networks]]
-- [[biodiversity-of-fungi-decomposition-nutrient-cycling]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]
-- [[ectomycorrhizal-fungal-ecology]]
-- [[mycelium-running-rot-fungi-wood-decomposition]]
-
-- [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]

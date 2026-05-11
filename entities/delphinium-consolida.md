@@ -24,7 +24,7 @@ sources:
 
 It was historically placed in the genus Consolida but has been reclassified within Delphinium by most modern taxonomic treatments.
 
-The species is widely cultivated as an ornamental cut flower and has naturalized in parts of North America and Australia.
+The species is widely cultivated as an ornamental cut flower and has naturalized in parts [[berry-growing]] and Australia.
 
 All plant parts are highly toxic, containing diterpenoid alkaloids similar to those found in [[aconitum-napellus]] and other Aconitum species.
 
@@ -52,7 +52,7 @@ Fruit is a single follicle, 10 to 16 mm long, containing numerous small dark see
 
 **Delphinium consolida** is native to Europe, the Mediterranean basin, and western Asia, extending from Portugal and the British Isles east to Iran and the Caucasus.
 
-It has been widely introduced and naturalized in temperate regions worldwide, including eastern North America, parts of South America, southern Australia, and New Zealand.
+It has been widely introduced and naturalized in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[polypore-fungi-eastern-north-america]], parts of [[guzman-psilocybin-mushrooms-south-america]], southern Australia, and New Zealand.
 
 The species grows in cultivated fields, roadsides, disturbed ground, and dry grasslands.
 
@@ -74,7 +74,7 @@ Symptoms of poisoning include digestive distress, muscle weakness, respiratory p
 
 Livestock poisoning is well documented, particularly in cattle grazing on contaminated hay or in pastures where larkspur is abundant.
 
-The alkaloid concentration varies with plant age and growing conditions, with the highest levels occurring during early growth and in seeds.
+The alkaloid concentration varies with plant age and growing conditions, with the highest levels occurring during [[cervantes-seedling-care-early-growth]] and in seeds.
 
 ## Traditional and Historical Use
 
@@ -82,39 +82,8 @@ Despite its toxicity, **Delphinium consolida** has a long history of use in Euro
 
 The Latin name "consolida" reflects its traditional use in wound healing and tissue consolidation (from the Latin *consolidare*, to make firm).
 
-Poultices of crushed seeds were applied to wounds, bruises, and insect bites in medieval European herbal practice.
+Poultices of crushed seeds were applied to wounds, bruises, and insect bites in [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] herbal practice.
 
 The seeds were sometimes used as a parasiticide, particularly against head lice, though the efficacy is questionable and the risk of systemic absorption is significant.
 
 In traditional Turkish medicine, aerial parts were used externally for hemorrhoids and skin inflammation.
-
-The blue pigment from flowers was occasionally used as a dye for textiles.
-
-Internal use was generally discouraged even in historical texts, which consistently warned of the plant's dangerous nature.
-
-## Ecology and Cultivation
-
-**Delphinium consolida** flowers from May to August, attracting a range of pollinators including bees, butterflies, and hoverflies.
-
-The long nectar spur restricts nectar access to long-tongued insects, favoring certain bumblebee species.
-
-Seeds are dispersed by wind and animal movement, contributing to the species' ability to colonize disturbed sites.
-
-As an agricultural weed, it can reduce crop yields in grain fields, though modern herbicides have reduced its prevalence in intensive farming.
-
-In horticulture, the species is valued for its tall, airy flower spikes and is widely grown as a cut flower.
-
-Numerous cultivars have been developed in a range of colors including the 'Rocket' and 'Imperial' series.
-
-Plants are easily grown from seed sown directly in the garden in early spring.
-
-## See Also
-
-- [[aconitum-napellus]]
-- [[pulsatilla-vulgaris]]
-- [[nigella-sativa]]
-- [[clematis-vitalba]]
-- [[digitalis-purpurea]]
-- [[borago-officinalis]]
-- [[echium-vulgare]]
-- [[colchicum-autumnale]]

@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - soil-erosion-control.md
   - mollison-soil-formation-rates-and-erosion-costs.md
   - mollison-designers-earthworks-for-erosion-control.md

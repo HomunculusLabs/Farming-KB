@@ -25,7 +25,7 @@ unknown compounds by enzymes within the mushroom cells.
 
 ## Chemistry of the Bluing Reaction
 
-When a Psilocybe or Panaeolus mushroom bruises bluish, the color
+When a Psilocybe or [[panaeolus-mushroom-intoxication-history]] bruises bluish, the color
 reaction is a co-indicator that psilocin is or was present. The
 phenomenon parallels a decomposition sequence: the more the mushrooms
 are bruised, the less potent they become, because the bluing
@@ -42,7 +42,7 @@ In contrast, species like [[psilocybe-azurescens]] exhibits one of the
   strongest bluing reactions known, with flesh becoming indigo-black.
   psilocybe-cyanescens, psilocybe-baeocystis, and psilocybe--bohemica also show strong, rapid bluing.
 - **Moderate bluing:** [[psilocybe-stuntzii]] is named for its blue-stained
-  partial veil. psilocybe-caerulipes (blue foot) shows variable
+  [[partial-veil-tropism-protection-before-spore-release]]. psilocybe-caerulipes (blue foot) shows variable
   bluing that may take hours to appear.
 - **Weak or absent bluing:** psilocybe-semilanceata is high in
   psilocybin but low in psilocin, so it rarely bruises bluish. In
@@ -83,43 +83,8 @@ of view for several critical reasons:
 
 Since the bluing reaction represents the degradation of psilocin,
 species that blue heavily tend to lose potency more rapidly during
-handling and storage. This has practical implications:
+[[coleman-post-harvest-handling-and-storage]]. This has practical implications:
 
 - Fresh specimens are more potent than bruised ones
 - Careful [[water-harvesting-techniques-comparison]] preserve alkaloid content
-- Drying can arrest the enzymatic degradation process
-- Species like psilocybe-semilanceata that are low in psilocin
-  and high in psilocybin have longer storage lives because they do
-  not degrade through the bluing pathway as readily
-
-Gartz (1986a) reported that the psilocybin content of P. semilanceata
-was not adversely affected by the drying process, which is consistent
-with its low psilocin content and minimal bluing.
-
-## Bluing in Cultivation and Research
-
-In cultivation, the bluing reaction serves as a visual indicator of
-psilocin production but should not be relied upon as the sole measure
-of potency. Gartz (1989) demonstrated that raising tryptamine
-concentrations in cultivation substrates directly affected the
-psilocin content of psilocybe-cubensis mycelia, from 0.09% to 3.3%
-of dried mass. Higher psilocin content correlates with more intense
-bluing, but the relationship is not perfectly linear due to the
-complexity of enzymatic [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]].
-
-## Recommendations
-
-Foragers and researchers should use the bluing reaction as one of
-several identification features, never as the sole criterion. The most
-reliable identification methods combine:
-- [[comparison-spore-print-collection-vs-spore-syringe-production]] color (purplish brown for Psilocybe)
-- Macroscopic features (cap shape, gill attachment, veil remnants)
-- [[fungal-microscopic-examination-mounting-media-techniques]] (spore morphology, cystidia)
-- Habitat and distribution knowledge
-- Bluing reaction (supportive but not definitive)
-
-## See Also
-
-- [[psilocybin-bluing-reaction]]
-- mushroom-identification - comprehensive identification methods
-- Galerina - deadly species that may appear to blue
+- Drying can arrest the [[enzymatic-degradation-in-mycoremediation]] process

@@ -14,7 +14,7 @@ sources:
   - Gleason, M., Rouse, R.E. & Krueger, R. (2009). "The origin of citrus." In: Proc. Fla. State Hort. Soc., 122, 1–7.
   - Ladaniya, M.S. (2008). Citrus Fruit: Biology, Technology and Evaluation. Academic Press.
   - O'Brien, R.D. (2009). Fats and Oils: Formulating and Processing for Applications. CRC Press.
-  - USDA ARS (2024). "Citrus limon (L.) Burm. f." Germplasm Resources Information Network.
+  - USDA ARS (2024). "Citrus limon (L.) Burm. f." Germplasm Resources [[mycelium-digestive-membrane-information-network]].
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ sources:
 
 The lemon likely originated as a hybrid between bitter orange (*C. aurantium*) and citron (*C. medica*) in northeastern India or the foothills of the Himalayas. It spread to the Mediterranean basin by the early first millennium CE.
 
-Global lemon production exceeds 8 million metric tons annually, with India, Mexico, China, Argentina, and Brazil as leading producers. The fruit is consumed fresh, juiced, dried, and as a source of essential oil.
+Global lemon production exceeds 8 million metric tons annually, with India, Mexico, China, Argentina, and Brazil as leading producers. The fruit is consumed fresh, juiced, dried, and as a source of [[permaculture-designers-manual-essential-oil-plants]].
 
 The tree typically reaches 3–6 m in height, with glossy green elliptic leaves and fragrant white flowers. Fruit are ellipsoidal to ovoid, 5–12 cm long, with a prominent apical nipple.
 
@@ -55,7 +55,7 @@ Citrus trees are moderately salt-tolerant compared to other fruit species, makin
 
 The juice contains 5–6% citric acid, giving the fruit its characteristic sour flavor. Ascorbic acid (vitamin C) content ranges from 40–60 mg per 100 mL of juice.
 
-The peel is rich in essential oils, primarily limonene (60–70%), β-pinene (10–14%), and γ-terpinene (6–12%). These monoterpene hydrocarbons contribute to the distinctive lemon aroma.
+The peel is rich in [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], primarily limonene (60–70%), β-pinene (10–14%), and γ-terpinene (6–12%). These monoterpene hydrocarbons contribute to the distinctive lemon aroma.
 
 Flavonoid compounds in lemon include hesperidin, eriocitrin, and diosmin. These compounds exhibit documented antioxidant and anti-inflammatory properties in clinical studies.
 
@@ -69,7 +69,7 @@ Commercial lemon orchards are typically planted at densities of 300–500 trees 
 
 Propagation is predominantly through budding onto rootstock. Common rootstocks include sour orange (*C. aurantium*), rough lemon, and Carrizo citrange, selected for disease resistance and soil adaptation.
 
-Irrigation is essential during flowering and fruit development. Drip irrigation with fertigation is standard practice in commercial groves to optimize water and nutrient delivery.
+Irrigation is essential during flowering and fruit development. Drip irrigation with fertigation is standard practice in commercial groves to optimize water and [[solomon-fertigation-bucket-drip-water-nutrient-delivery]].
 
 Major pests include citrus red mite, cottony cushion scale, and [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly. Citrus canker (*Xanthomonas citri*) and huanglongbing (greening disease) are the most serious pathological threats.
 
@@ -83,32 +83,8 @@ Lemon marmalade is produced from the whole fruit, including peel, pulp, and juic
 
 Lemon essential oil is extracted by cold-pressing the peel and used in food flavoring, perfumery, and household cleaning products. Global production exceeds 50,000 metric tons annually.
 
-Citric acid derived from lemon juice was historically important as a food preservative and industrial chemical. Today most commercial citric acid is produced by *Aspergillus niger* fermentation rather than citrus extraction.
+Citric acid derived from lemon juice was historically important as a food preservative and industrial chemical. Today most commercial citric acid is produced by *[[aspergillus-niger]]* fermentation rather than citrus extraction.
 
 ## History and Ethnobotany
 
-Lemon cultivation spread from South Asia to Persia, Iraq, and Egypt by the 10th century CE. Islamic agricultural treatises document sophisticated lemon cultivation and preservation techniques.
-
-The Spanish introduced lemons to the Americas during the [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]. St. Augustine, Florida, hosted the first continuous New World lemon planting by the 1560s.
-
-British naval surgeon James Lind demonstrated in 1747 that citrus fruit prevented scurvy. This finding led to the mandatory inclusion of lemon or lime juice in Royal Navy rations, earning British sailors the nickname "limeys."
-
-Traditional medicine systems across Asia, the Middle East, and Europe have long employed lemon for digestive complaints, respiratory infections, and [[cannabis-for-skin-conditions-detailed]]. These uses are partly supported by modern pharmacological research.
-
-## Varieties
-
-Major commercial varieties include 'Eureka', 'Lisbon', and 'Femminello'. Eureka is the predominant cultivar in California, producing fruit nearly year-round with few thorns.
-
-Lisbon is more cold-tolerant and vigorous, widely grown in Arizona and the Mediterranean. It produces a higher-quality juice but has a shorter harvest window than Eureka.
-
-Meyer lemon (*C. × meyeri*) is a separate hybrid species, likely a cross between lemon and [[fukuoka-mandarin-orange-citrus]]. It is popular among home gardeners for its thin skin, sweeter flavor, and reduced acidity.
-
-## See Also
-
-- [[elettaria-cardamomum]]
-- [[eugenia-caryophyllata]]
-- [[curcuma-longa]]
-- [[pimenta-dioica]]
-- [[myristica-fragrans]]
-- punica-granatum
-- [[cymbopogon-flexuosus]]
+Lemon cultivation spread from South Asia to Persia, Iraq, and Egypt by the 10th century CE. Islamic agricultural treatises document sophisticated lemon cultivation and [[biodiversity-of-fungi-fungal-culture-preservation-techniques]].

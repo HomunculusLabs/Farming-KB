@@ -43,7 +43,7 @@ considered rare or threatened throughout much of its historical range.
 (Pers.) Quél., *Tra vettes clavatus* (Pers.) Corner
 
 **Etymology:** "Gomphus" derives from Greek *gomphos* meaning peg or nail,
-referring to the shape of the fruiting body. "Clavatus" is Latin for
+referring to the shape of the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. "Clavatus" is Latin for
 club-shaped.
 
 ## Morphology
@@ -70,8 +70,8 @@ non-dextrinoid.
 
 ## Distribution and Habitat
 
-Found across temperate regions of North America (primarily the
-Pacific Northwest, Rocky Mountains, and Appalachian corridor) and
+Found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] [[berry-growing]] (primarily the
+[[psilocybin-north-america-pacific-northwest]], Rocky Mountains, and Appalachian corridor) and
 Europe (Scandinavia, the Alps, Carpathians).
 
 Fruiting singly or in scattered groups on the ground in coniferous
@@ -88,43 +88,3 @@ in montane and subalpine forests.
 
 *Gomphus clavatus* is an obligate ectomycorrhizal associate of
 coniferous trees, forming mutualistic root associations with
-*Picea*, *Abies*, and *Tsuga* species.
-
-The fungus facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]], particularly phosphorus
-uptake for host trees in exchange for photosynthetic carbon.
-Its decline has been correlated with habitat loss from logging of
-old-growth coniferous forests.
-
-**Conservation status:**
-- IUCN Red List: Not formally assessed (data deficient)
-- Several European countries list it as threatened or endangered
-- Rare in the Pacific Northwest of North America
-- Considered a bioindicator species for old-growth forest health
-
-## Edibility and Culinary Use
-
-Considered edible and choice by some foragers when young and fresh,
-with a mild flavor and pleasant texture when properly prepared.
-
-**Preparation:** Must be thoroughly cooked. Older specimens can
-become tough and fibrous. Best when sliced thin and sautéed,
-or added to soups and stews.
-
-**Caution:** Collection is discouraged in many areas due to rarity.
-Several *Gomphus* species are less well-known and proper
-identification is essential.
-
-## Similar Species
-
-- **Cantharellus cibarius** — Golden chanterelle; more golden-yellow,
-  with blunt, forked ridges rather than deep wrinkles
-- **Craterellus tubaeformis** — Yellowfoot; smaller, darker brown,
-  with a hollow stipe and smoother hymenium
-- **Turbinellus flocculosus** — Woolly chanterelle; scaly cap surface,
-  more robust, typically found under pine rather than spruce
-
-## See Also
-
-- [[craterellus-tubaeformis]] — Yellowfoot chanterelle, related Gomphales species
-- [[hydnum-repandum]] — Hedgehog mushroom, toothed hymenium alternative
-- [[trametes-versicolor-entity]] — [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], a contrasting polypore from similar habitats

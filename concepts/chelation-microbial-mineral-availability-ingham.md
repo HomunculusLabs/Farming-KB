@@ -23,7 +23,7 @@ surfaces (stomata) and root surfaces far more rapidly.
 
 Any biological cell has a net negative charge on its membrane surface. A
 positively charged cation therefore has difficulty getting through the leaf
-surface, either through stomata or through individual cell walls. In order to
+surface, either through stomata or through individual [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. In order to
 speed uptake, cations need to be neutralized, and the typical biological way to
 do this is to attach the cation to a protein molecule. This process requires
 active, living biology to perform the chelation step.
@@ -34,7 +34,7 @@ Microbes do much of the work of chelating mineral elements in soil. Bacteria and
 fungi need chelated minerals in order to move them into their own cells, so they
 perform a significant amount of chelation of charged materials. The microbes
 chelate minerals before the passage through a membrane can happen. Often the
-microbes provide the proteins or amino acid molecules to do the process of
+microbes provide the proteins or [[cho-fish-amino-acid-preparation]] molecules to do the process of
 chelation, as well as doing the physical work to chelate.
 
 As Ingham explains, without the chelating agent produced by microbes, mineral
@@ -88,36 +88,3 @@ The enzymes, hormones, and humics that are solubilized during the [[ingham-aact-
 process contribute additional chelating capacity. This is why AACT applied as a
 foliar spray can improve uptake of mineral nutrients through leaf surfaces — the
 chelating agents in the tea help neutralize mineral charges, allowing entry
-through stomata.
-
-## The NPK Game and Mineral Lockup
-
-Ingham's concept of "the NPK Game" describes the destructive cycle of
-conventional agriculture's reliance on synthetic nitrogen, phosphorus, and
-potassium fertilizers. When NPK fertilizers are applied to soil without
-adequate biological activity, several problems occur:
-
-1. Minerals are applied in inorganic, unchelated forms that plants cannot
-   efficiently uptake.
-2. Without microbial chelation, many applied minerals become locked up through
-  become locked up through precipitation and fixation reactions in the soil.
-3. The grower sees deficiency symptoms and applies more fertilizer, escalating
-4. [[jadam-salt-accumulation-in-soil]] from repeated fertilizer applications damages soil
-   biology further, reducing chelation capacity even more.
-
-The NPK approach treats soil as an inert substrate rather than a living system.
-By contrast, the biological approach that AACT supports recognizes that soil
-microorganisms are the primary mechanism for mineral availability. When the
-[[protozoa-nematode-nutrient-cycling-ingham]]
-- [[protozoa-nematode-nutrient-cycling-ingham]]
-
-## Source
-
-- Ingham, Elaine R. *The [[ghouled-field-guide-historical-context]] for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea (AACT)*.
-  Sustainable Studies Institute, 2004.
-
-## See Also
-
-- [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]]
-
-- [[ingham-chelation-microbial-nutrient-processing]]

@@ -2,11 +2,11 @@
 
 ## Overview
 
-Chapter 7 of Nicholas Money's *Mr. Bloomfield's Orchard*, titled "Siren Songs," explores the molecular dialogues through which fungi find mates, coordinate development, and orchestrate the formation of fruiting bodies. Drawing the title from Homer's *Odyssey*—where sailors were lured to their deaths by the irresistible songs of avian seductresses—Money uses the siren metaphor to illuminate how fungi "sing" to one another in chemical pulses and answer with "a symphony of developmental changes." The chapter moves through three major fungal groups (oomycetes, chytrids, and zygomycetes) before culminating in the complex mating systems of mushroom-forming basidiomycetes, revealing that [[fungal-life-cycles-sexual-reproduction-metamorphosis]] in fungi involves some of the most sophisticated [[plant-hormones-and-chemical-signaling-systems]] in any kingdom of life.
+Chapter 7 of [[nicholas-money]]'s *Mr. Bloomfield's Orchard*, titled "Siren Songs," explores the molecular dialogues through which fungi find mates, coordinate development, and orchestrate the formation [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. Drawing the title from Homer's *Odyssey*—where sailors were lured to their deaths by the irresistible songs of avian seductresses—Money uses the siren metaphor to illuminate how fungi "sing" to one another in chemical pulses and answer with "a symphony of developmental changes." The chapter moves through three major fungal groups (oomycetes, chytrids, and zygomycetes) before culminating in the complex mating systems of mushroom-forming basidiomycetes, revealing that [[fungal-life-cycles-sexual-reproduction-metamorphosis]] in fungi involves some of the most sophisticated [[plant-hormones-and-chemical-signaling-systems]] in any kingdom of life.
 
 ## The Siren Metaphor
 
-Money opens with a striking comparison between the mythological sirens and fungal pheromones:
+Money opens with a striking comparison between the mythological sirens and [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]:
 
 > "Bewitched by the sirens' song of Greek mythology, mariners were enticed to their deaths on the jagged rocks of the Straits of Messina... Songs are sung within the human body by molecules rather than tuneful pressure waves, but they have an equally inescapable allure. Consider the behavior of spermatozoa... built to swim up the scented gradient wafting from a ten-thousandfold larger egg. Likewise the fungi. They sing to one another in chemical pulses, and answer with a symphony of developmental changes."
 
@@ -57,7 +57,7 @@ Money draws an explicit parallel: "The parallel between the behavior of the chyt
 
 ### The Pin Mold Life Cycle
 
-Zygomycetes (approximately 900 species) are the fungi that grow on bread and other kitchen scraps—first described by **Robert Hooke** in his *Micrographia* of 1665, who found them growing from a sheepskin book cover. Their life cycle is an endless progression of spores → mycelium → spores → mycelium, with sexual reproduction triggered when two compatible strains meet on a common substrate.
+Zygomycetes (approximately 900 species) are the fungi that grow on bread and other kitchen scraps—first described by **Robert Hooke** in his *Micrographia* of 1665, who found them growing from a sheepskin book cover. Their life cycle is an endless progression of spores → mycelium → spores → mycelium, with [[basidiomycete-mating-systems-sexual-reproduction]] triggered when two compatible strains meet on a common substrate.
 
 ### Cooperative Biosynthesis
 
@@ -72,7 +72,7 @@ In response to trisporic acid, both strains cease asexual sporangium production 
 
 ## Basidiomycete Mating: From Hundreds to Thousands of Sexes
 
-The chapter culminates with the most complex fungal mating systems. As Money explains, basidiomycete mycelia "appear as masses of androgynous tubes," but genetic diversity lurks in their nuclei. A single species of ink-cap mushroom can encompass hundreds of different strains, and "in the sense that 'male' and 'female' refer to compatible mating types, there are legions of different sexes of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]."
+The chapter culminates with the most complex fungal mating systems. As Money explains, basidiomycete mycelia "appear as masses of androgynous tubes," but [[biodiversity-fungal-genetic-diversity]] lurks in their nuclei. A single species of ink-cap mushroom can encompass hundreds of different strains, and "in the sense that 'male' and 'female' refer to compatible mating types, there are legions of different sexes of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]."
 
 ### Somatic Incompatibility and the Balkan Map
 
@@ -80,7 +80,7 @@ When incompatible basidiomycete strains meet and their hyphae fuse, the results 
 
 > "Love is lost in the cytoplasm and the region of mingled juice darkens and decays."
 
-Money describes how this creates visible territorial boundaries in decaying wood—"a map of this tormented region etched in black ink on tree stumps and on the ends of logs." Beech trees serve as battlegrounds where swarms of wood decay fungi compete. The destruction of a large tree can occupy a century, supporting a rich community of warring mycelia whose boundaries are inscribed in melanin and pigment.
+Money describes how this creates visible territorial boundaries in decaying wood—"a map of this tormented region etched in black ink on tree stumps and on the ends of logs." Beech trees serve as battlegrounds where swarms of [[bloomfield-wood-decay-fungi-spalted-timber]] compete. The destruction of a large tree can occupy a century, supporting a rich community of warring mycelia whose boundaries are inscribed in melanin and pigment.
 
 ## Key Themes
 
@@ -88,34 +88,3 @@ Money describes how this creates visible territorial boundaries in decaying wood
 2. **Economy of signaling**: Different fungal groups have evolved distinct solutions to the problem of mate recognition—some broadcast freely, others use cooperative biosynthesis to prevent wasteful pheromone production
 3. **Environmental adaptation**: Self-fertility versus outcrossing strategies are tuned to habitat stability, with unstable environments favoring hermaphroditism
 4. **The universality of chemical communication**: From chytrid sirenin to basidiomycete pheromones, the basic logic—release a signal, detect a gradient, move toward the source—is conserved across all fungal lineages and indeed across all kingdoms of life
-
-## Cell Wall Strength and Endoglucanase Activity
-
-Money includes a personal research vignette describing experiments on hyphal cell wall mechanics in *Achlya*. The technique involved inserting a micropipette into individual hyphae and injecting silicon oil under pressure until the cell wall ruptured. By measuring the critical pressure at which the wall burst, Money and his colleague Terry Hill determined the **tensile strength** of the hyphal wall. They discovered a strong correlation between the activity of secreted **endoglucanase enzymes** and wall plasticity: hyphae with higher enzyme activity had more flexible walls.
-
-This finding supported an earlier hypothesis by Thomas and Mullins that endoglucanase secretion is associated with **wall loosening**—a mechanism that may govern the emergence of male and female branches during sexual development. When a hypha needs to grow a specialized reproductive structure (an antheridium or oogonium), it must locally soften its cell wall to allow the new branch to protrude. The endoglucanases may act as molecular sculptors, selectively weakening the wall at precise locations to permit morphogenetic change.
-
-## Achlya ambisexualis: A Remarkable Species
-
-*Achlya ambisexualis* is unusual among water molds because it incorporates a family of strains in which distinct males and females coexist with hermaphrodites and even "she-males" that can offer either oogonia or antheridia depending on the gender of available partners. This sexual plasticity provides a natural laboratory for studying how environmental conditions influence mating strategy:
-
-- In seasonal ponds (stressful, unpredictable): Self-fertile hermaphrodites dominate (10:1 ratio over heterothallic strains)
-- In permanent ponds (stable, predictable): Mate-requiring heterothallic strains are more common
-- The thick-walled oospores serve as "survival capsules" that allow *Achlya* to persist in drying mud "like a lungfish"
-
-Money recounts visiting these ponds with Don Thomas before a seminar, arriving in a suit and poorly dressed for fieldwork: "What would anyone but a scientist have concluded after seeing two men in the woods, one in rubber boots, the other prancing between the bushes to protect a very handsome Italian jacket, both talking heatedly about hermaphrodites?"
-
-## See Also
-
-- [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]] — Detailed chemistry of oomycete steroid pheromones
-- [[bloomfield-fungal-sex-pheromones-mating-communication]] — Broader overview of fungal chemical communication
-- [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]] — [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]] and dikaryon formation
-- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]] — Water mold [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]] and flagellar mechanics
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]] — Chemotaxis in oomycete zoospores
-
-## References
-
-- Money, N.P. *Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists*. Oxford University Press, 2002. Chapter 7: Siren Songs, pp. 129–152.
-- Trow, A.H. "On Fertilization in the Saprolegnieae." *Annals of Botany* 8 (1894): 19–34.
-- Thomas, D. des S., and R.W. Mullins. "Endoglucanase Activity and Cell Wall Strength in Achlya ambisexualis." *Journal of General Microbiology* 138 (1992): 1497–1503.
-- Pommerville, J.C. "Sirenin and Parisin: Sexual Hormones of the Chytrid *Allomyces*." In *Mycological Society of America Symposium*, 1978.

@@ -1,5 +1,5 @@
 ---
-title: "Vegetable Nutrient solomon vegetable demand classification low medium high — Low, Medium, and High Demand Crops"
+title: Solomon Vegetable Demand Classification Low Medium High
 source: "Gardening When It Counts (Steve Solomon)"
 topics: [vegetable-gardening, soil-fertility, crop-nutrition, organic-fertilizer, plant-nutrients, COF]
 ---
@@ -14,7 +14,7 @@ This system is central to Solomon's philosophy that most vegetables will produce
 
 ## Low-Demand Vegetables
 
-Low-demand vegetables are the most forgiving crops. They can grow reasonably well in minimally improved soil with basic organic matter additions. These crops are ideal for:
+Low-demand vegetables are the most forgiving crops. They can grow reasonably well in minimally improved soil with basic [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] additions. These crops are ideal for:
 - Beginning gardeners with limited resources
 - Expanding into new garden areas not yet fully built up
 - Parts of the garden receiving less intensive management
@@ -34,7 +34,7 @@ These crops will grow to their maximum potential with even this minimal input.
 
 ## Medium-Demand Vegetables
 
-Medium-demand vegetables require more fertile soil than low-demand crops but can still produce adequately with moderate inputs. They represent the majority of common garden vegetables.
+Medium-demand vegetables require more fertile soil than low-demand crops but can still produce adequately with moderate inputs. They represent the majority of common [[companion-cultivation-of-mushrooms-with-garden-vegetables]].
 
 ### Examples of Medium-Demand Vegetables
 - **Cole crops**: Cabbage, broccoli, cauliflower (smaller types)
@@ -73,7 +73,7 @@ For maximum production of high-demand vegetables, in addition to basic soil-fert
 - Cover the area the root system will occupy over the next few weeks
 - Place each dusting just beyond the leaf drip line
 - Increase the area covered as plants grow
-- Continue every few weeks throughout the growing season
+- Continue every few weeks throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 
 ## Side-Dressing for Medium and High Demand Crops
 
@@ -87,39 +87,3 @@ Side-dressing is the practice of applying additional fertilizer alongside growin
 If a seedbed doesn't respond within a few weeks after side-dressing, that lack of response signals a deeper soil problem that additional fertilizer cannot fix — the issue may be soil structure, drainage, pH imbalance, or [[cervantes-micronutrient-deficiency-chelation]].
 
 ## Understanding Why Demand Varies
-
-Vegetable nutrient demand varies based on:
-1. **Growth rate**: Faster-growing crops need more nutrients per unit time
-2. **Harvested portion**: Crops harvested for their fruits or large roots remove more nutrients from the soil than leaf crops
-3. **Rooting depth**: Shallow-rooted crops have access to less soil volume and thus fewer nutrients
-4. **Growing season length**: Long-season crops accumulate more total [[plant-nutrient-uptake-mechanisms]]
-5. **Yield potential**: Crops bred for high yields inherently demand more nutrition to achieve those yields
-
-## The Potassium-Nutrition Tradeoff
-
-Solomon raises a critical point about the relationship between potassium and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. While higher potassium levels in soil produce larger bulk yields (higher starch and fiber content), they do not proportionally increase protein, vitamins, enzymes, and minerals. This means:
-- Commercial agriculture pushes potassium to maximize yield and profit
-- The resulting produce is larger but nutritionally dilute
-- Home gardeners can choose to prioritize nutritional density over bulk yield
-
-This tradeoff is particularly relevant when choosing how much fertilizer to apply. Exceeding recommendations may produce bigger vegetables, but not necessarily more nutritious ones.
-
-## Integrating Demand Classification with COF
-
-The Complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) is formulated to provide balanced nutrition when used at the recommended rates. The key integration points:
-- **Low-demand crops**: Basic COF application is sufficient
-- **Medium-demand crops**: Standard COF application plus optional side-dressing
-- **High-demand crops**: Full COF application plus regular side-dressing throughout the season
-
-COF is potent — using more than recommended risks unbalancing the soil's mineral content. If vegetables aren't growing well enough despite adequate COF application, the solution is not more fertilizer but addressing underlying soil issues (structure, drainage, organic matter).
-
-## Key Reference
-
-- Solomon, S. (2005). Gardening When It Counts: Growing Food in Hard Times. New Society Publishers. Chapter 1: Basics.
-
-## See Also
-
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
-- [[solomon-crop-rotation-and-garden-planning]]
-- [[savory-soil-organic-matter-and-decomposition-dynamics]]
-- [[solomon-manure-nutrient-variability-and-quality]]

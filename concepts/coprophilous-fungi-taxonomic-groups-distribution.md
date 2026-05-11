@@ -1,11 +1,11 @@
 ---
-title: "Coprophilous Fungi - coprophilous fungi taxonomic groups distribution and Distribution"
+title: Coprophilous [[neurotropic-fungi-taxonomic-groups-classification]] Distribution
 created: 2026-04-26
 tags:
-  - mycology
-  - fungal-ecology
+  - [[mycology]]
+  - [[fungal-ecology]]
   - taxonomy
-  - decomposition
+  - [[decomposition]]
   - biodiversity
 date: 2026-04-25
 updated: 2026-04-25
@@ -88,42 +88,3 @@ each group, the distribution of taxa is fairly cosmopolitan.
 ### Seasonal Variation
 
 Richardson (2001) found greater diversity of coprophilous fungi in
-winter than in summer at northern latitudes. Certain species of
-Thelebolus and Preussia are dominant on leporid dung under colder
-temperatures of [[coleman-overwintered-onions-and-early-spring-crops]], whereas other species dominate during
-the warmer summer months.
-
-## Endemism and Rarity
-
-Certain taxa appear to be restricted to specific areas:
-- **Wawelia regia**: Known only from a site near Krakow in southern
-  Poland
-- **Dictyocoprotus mexicanus**: Known only from Mexico
-- **Protomycocladus faisalabadensis**: Known only from Pakistan
-- **Phaeotrichum hystricinum**: Restricted to porcupine dung
-
-Some genera such as Pleophragmia and Radiomyces are generally rare,
-although rarity may be apparent rather than real, reflecting
-insufficient collecting effort.
-
-## Host Specificity
-
-The mycobiota found on dung differ significantly between tropical and
-temperate latitudes. The mycobiota on dung also differ between dung
-from forested versus open areas. Different mycobiota occur on dung from
-different animal species; ruminant dung, for example, appears to have
-a different mycobiota from that of lagomorph dung. Lundqvist (1972)
-suggested that the habitat of the host is likely more important than
-the substratum itself in determining fungal composition.
-
-Dung from porcupines and certain wood rats in [[psilocybin-north-america-pacific-northwest]] and by
-hyrax neurotropic-fungi-in-africa represents an exception to the general difficulty of
-estimating species richness, as dung at those sites has been deposited
-in layers at cave entrances for several generations, providing a
-chronological record of fungal colonization.
-## See Also
-- [[coprophilous-fungi]]
-- [[decomposition]]
-- [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]]
-- [[distribution-of-neurotropic-fungi]]
-- [[guzman-global-distribution-patterns-neurotropic-fungi]]

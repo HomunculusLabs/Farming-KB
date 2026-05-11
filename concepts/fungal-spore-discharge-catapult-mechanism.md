@@ -1,6 +1,6 @@
 ---
 title: Fungal Spore Discharge — The Ballistospore Catapult Mechanism
-source: raw/papers/mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+source: mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
 tags: [mycology, fungi, spore-dispersal, biophysics, basidiomycota]
 created: 2026-05-09
 ---
@@ -87,37 +87,3 @@ Decades later, experimental measurements using thermocouples inserted into mushr
 Mushroom stems serve a critical aerodynamic function beyond structural support. The ground surface is surrounded by a boundary layer of still air, typically a few centimeters deep at low wind speeds. If mushroom caps developed at ground level, their spores would be trapped in this still air and might never disperse.
 
 The stem elevates the cap above this boundary layer, exposing the discharged spores to the wind stream above. The height advantage is significant: even a short stem of a few centimeters can make the difference between spores being swept away by wind and spores settling uselessly within millimeters of the parent fruiting body.
-
-This explains why many puffballs and other gasteromycetes—species that do not rely on ballistospore discharge—grow on elevated surfaces: logs, tree stumps, or raised mounds. Their spore dispersal mechanisms (raindrop impact, wind disturbance, animal vectors) do not require the same elevation, but the boundary layer advantage still applies.
-
-## Quantitative Scale of Spore Production
-
-A single large mushroom can produce billions of spores over its lifetime. The common meadow mushroom (*Agaricus campestris*) has been estimated to produce approximately 16 billion spores from a single fruiting body over several days of active discharge. Given that each spore must be individually launched by its own microscopic catapult, this represents an astronomical number of discrete mechanical events.
-
-The efficiency of the mechanism is remarkable. Each individual launch consumes no metabolic energy—the power source is the ambient humidity and the physical properties of water. The fungus invests metabolic resources in constructing the basidia, sterigmata, and spores, but the actual discharge is powered by the environment.
-
-## Comparison with Other Fungal Dispersal Mechanisms
-
-The ballistospore catapult is one of several spore dispersal strategies employed by fungi:
-
-| Mechanism | Example | Energy Source | Scale |
-|-----------|---------|---------------|-------|
-| Ballistospore discharge | Gilled mushrooms, boletes | Surface tension of condensed water | Microscopic, 20,000g+ |
-| Puffball impact | *Lycoperdon* spp. | Raindrop kinetic energy | Macroscopic, passive |
-| Insect attraction | Stinkhorns, cage fungi | Volatile chemical synthesis | Macroscopic, active |
-| Rodent dispersal | False truffles | Nutritional reward | Macroscopic, mutualistic |
-| Wind passive | molds, rusts | Air currents | Microscopic, passive |
-
-The ballistospore mechanism is unique in its use of a phase change (gas to liquid) as an energy source and in the extraordinary acceleration it produces relative to the organism's size.
-
-This mechanism has likely remained essentially unchanged for hundreds of millions of years, representing one of the oldest and most reliable biological machines on Earth.
-
-## See Also
-
-- [[stinkhorn-cage-fungi-reproductive-biology]] — Alternative spore dispersal via insect attraction
-- [[underground-fungal-networks]] — The [[fungal-mycelial-networks-nutrient-translocation]] that produce fruiting bodies
-- [[psilocybin-psilocin-chemistry]] — Psychoactive compounds in ballistospore-producing fungi
-- [[hallucinogenic-mushroom-dosage-effects]] — Pharmacological effects of psilocybin-containing species
-- [[fukuoka-natural-farming-five-principles]] — Agricultural context for fungal ecology
-
-- [[fungal-spore-discharge-mechanics]]

@@ -88,10 +88,3 @@ Penicillin, cyclosporine, and statins all derive from fungal metabolites. Novel
 enzymes from extremophilic fungi have applications in industrial processes,
 biofuel production, and bioremediation. Each undescribed species potentially
 harbors unique [[antifungal-secondary-metabolites-coprophilous-fungi]] with pharmaceutical or industrial
-applications.
-
-## See Also
-
-- [[mycorrhizal-fungi-diversity]]
-- [[fungal-taxonomy-challenges]]
-- [[cryptic-fungal-species]]

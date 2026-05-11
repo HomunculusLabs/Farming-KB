@@ -1,5 +1,5 @@
 ---
-title: dighton litter quality fungal decomposition rates Controls on Fungal Decomposition Rates
+title: Dighton Litter Quality Fungal Decomposition Rates
 created: 2026-04-26
 tags:
   - mycology
@@ -17,11 +17,11 @@ type: concept
 # Litter Quality Controls on Fungal Decomposition Rates
 
 The chemical composition of plant litter is a primary determinant of
-decomposition rates and the pattern of fungal community development during
-decay. Litter quality parameters including carbon:nitrogen ratio, lignin
+decomposition rates and the pattern of [[air-pollution-fungal-community-responses]] development during
+decay. Litter quality parameters including carbon:[[oyster-substrate-carbon-nitrogen-ratio]], lignin
 content, polyphenol concentrations, and the ratio of lignin plus polyphenol to
 nitrogen together predict how rapidly nutrients will be mineralized from
-organic matter and which fungal species will dominate the decomposer community.
+[[savory-soil-organic-matter-and-decomposition-dynamics]] which fungal species will dominate the decomposer community.
 
 ## Key Litter Quality Parameters
 
@@ -32,7 +32,7 @@ organisms (Cooke and Rayner, 1984). The input of different types of plant
 litters varies with ecosystem type (Dickinson and Pugh, 1974; Cadish and
 Giller, 1997).
 
-The general consensus is that the carbon:nitrogen and lignin:nitrogen ratios
+The general consensus is that the carbon:nitrogen and lignin:[[ingham-carbon-nitrogen-ratios-compost-tea]]
 can be used as determinants of the resistance of resources to decomposition
 and ultimate mineralization of nutrients (Melillo et al., 1982). Where the
 C:N or lignin:N ratios are high, decomposition rates are reduced compared to
@@ -88,44 +88,3 @@ use when the cellulose:lignin ratio declines below 0.5. This threshold
 represents the point at which lignin physically shields cellulose fibers from
 enzyme attack, fundamentally altering the decomposer community and slowing
 decomposition rates.
-
-## Enzyme Regulation by Nutrient Availability
-
-Sinsabaugh et al. (1993) developed a model containing both fungal (microbial)
-and soil nutrient controls over enzyme expression. The production of enzymes is
-regulated by the availability of nitrogen or phosphorus. Where nutrient
-elements are less available, fungi expend greater amounts of energy to produce
-enzymes to sequester nutrients from organic sources. This creates a large
-degree of edaphic control over decomposition rates.
-
-In their studies of wood decomposition, lignocellulase [[ligninolytic-enzyme-production-bioremediation]] did
-not differ between locations in a temperate forest ecosystem. However, the
-rate of immobilization of nitrogen and phosphorus into decomposing wood varied
-significantly, ranging from 2.2 to 4.4 mg per g wood for P at 80% mass loss.
-The spatial variability of [[dighton-fungal-nutrient-immobilization-turnover]] was much greater than that
-for lignocellulase activity.
-
-## Decomposition Constants in Aquatic Systems
-
-Decomposition rates vary markedly among leaf litter types. Griffith et al.
-(1995) demonstrated different decomposition constants among yellow poplar, red
-maple, and white oak in streams of differing pH and temperature. White oak had
-the lowest decomposition rates (k = 0.0020 to 0.0059 per day) while red
-maple decomposed fastest (k = 0.0037 to 0.0106 per day). Temperature was a
-primary driving variable, with litter decomposing more readily in streams of
-higher pH and higher temperature.
-
-## Litter Quality During Forest Development
-
-During seral succession, initial stages produce high-quality resources
-consisting mainly of cellulose with a high C:N ratio and low lignin content.
-Following forest canopy closure, woody resources and more recalcitrant leaf
-litters dominate (Attwill and Adams, 1993). These later-stage litters have
-high lignin content and low C:N ratios, requiring fungal communities with
-greater [[fungal-enzymatic-diversity-decomposition]] and competence for effective decomposition.
-
-## See Also
-
-- [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
-- [[dighton-pine-needle-litter-decomposition-fungal-succession]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

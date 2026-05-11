@@ -68,61 +68,22 @@ Wild populations have declined due to overharvesting, and the species is classif
 
 The primary bioactive constituents are flavonoids, phenylethanoid glycosides, and terpenoids.
 
-Major flavonoids include **hypolaetin-8-O-glucoside**, **isoscutellarein-7-O-glucoside**, **isoscutellarein-8-O-glucoside**, and **apigenin** derivatives.
+Major flavonoids include **hypolaetin-8-O-glucoside**, **isoscutellarein-7-O-glucoside**, **isoscutellarein-8-O-glucoside**, and **[[apigenin]]** derivatives.
 
 Phenylethanoid glycosides include **verbascoside** (acteoside) and **forsythoside B**, both with significant anti-inflammatory activity.
 
-Essential oil composition is dominated by **monoterpene hydrocarbons** including α-pinene, β-pinene, and limonene.
+[[permaculture-designers-manual-essential-oil-plants]] composition is dominated by **monoterpene hydrocarbons** including α-pinene, β-pinene, and [[limonene]].
 
 Diterpenes of the **ent-kaurane** type are characteristic of the genus, including siderol and sideridiol.
 
-Total phenolic content ranges from 40–80 mg GAE/g dry weight depending on origin and harvest time.
+Total phenolic content ranges from 40–80 mg GAE/g dry weight depending on origin and [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]].
 
 Antioxidant capacity (DPPH IC50) is comparable to green tea, primarily attributable to the phenylethanoid glycoside fraction.
 
 ## Pharmacology and Health Effects
 
-Anti-inflammatory activity has been demonstrated in vitro via inhibition of COX-2, iNOS, and NF-κB signaling pathways.
+Anti-inflammatory activity has been demonstrated in vitro via inhibition of COX-2, iNOS, and NF-κB [[plant-signaling-pathways]].
 
 The methanolic extract shows neuroprotective effects in cellular models of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], reducing ROS accumulation by 40–60%.
 
 Animal studies indicate memory-enhancing effects, potentially mediated by acetylcholinesterase inhibition and increased BDNF expression.
-
-A double-blind crossover study found significant improvements in cognitive performance in elderly subjects consuming *S. scardica* tea daily for 4 weeks.
-
-The herb shows mild anxiolytic effects in rodent models, comparable to low-dose diazepam, without sedative side effects.
-
-Antimicrobial activity has been documented against Gram-positive bacteria including *Staphylococcus aureus* and *Streptococcus pyogenes*.
-
-## Traditional and Modern Use
-
-Greek mountain tea (*τσάι του βουνού*) is one of the most popular traditional beverages in Greece, consumed daily by millions.
-
-[[kava-traditional-preparation-ceremonial-context]] involves steeping the dried flowering aerial parts in boiling water for 5–10 minutes, often with honey and lemon.
-
-It is traditionally used for colds, respiratory infections, digestive complaints, and as a general tonic for fatigue and low mood.
-
-Modern use focuses on its adaptogenic and nootropic potential, with commercial products including dried herb, tinctures, and standardized extracts.
-
-The European Medicines Agency has not yet issued a monograph, but the herb is sold as a traditional herbal tea across the EU.
-
-## Cultivation
-
-Cultivation of *S. scardica* has expanded significantly to reduce pressure on wild populations.
-
-Seeds require cold stratification (4°C for 30–60 days) and light for germination; germination rates are 60–80% under optimal conditions.
-
-Plants prefer full sun to partial shade, well-drained calcareous soils, and moderate watering.
-
-Harvest occurs during full flowering (July–August); aerial parts are dried at 35–40°C to preserve [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]].
-
-Yields of dried herb range from 200–400 kg/ha under cultivation, with essential oil content of 0.3–0.8% v/w.
-
-The species is suitable for organic cultivation and shows good [[cannabis-disease-pest-resistance-breeding-clarke]] due to its high terpenoid content.
-
-## See Also
-
-- [[verbena-officinalis]]
-- [[rosmarinus-officinalis-entity]]
-- [[origanum-vulgare-entity]]
-- ocimum-sanctum

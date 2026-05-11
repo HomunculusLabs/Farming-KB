@@ -14,30 +14,30 @@ sources: []
 Turmeric is a tropical herbaceous perennial in the ginger family, native to
 the Indian subcontinent and Southeast Asia. Widely known as the golden spice
 that gives curry its color, turmeric has been used for over 4,000 years in
-Ayurvedic medicine, traditional Chinese medicine, and culinary traditions. (see [[valerian-growing-guide]]).
+Ayurvedic medicine, traditional Chinese medicine, and culinary traditions.
 Its primary active compound, curcumin, is one of the most studied
 phytochemicals in modern biomedical research for its potent anti-inflammatory,
-antioxidant, and anticancer properties. (see [[hawthorn-berry-guide]]).
+antioxidant, and anticancer properties.
 
 ## Botanical Profile
 
 - Scientific name: Curcuma longa
 - Family: Zingiberaceae
 - Hardiness: USDA zones 8-11 (grown as an annual in cooler zones)
-- Lifecycle: Perennial in tropics; annual in temperate climates
+- Lifecycle: Perennial in tropics; annual [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - Height: 2-3 feet
 - Growing season: 7-10 months for rhizome maturity
 
 The plant produces large, lance-shaped leaves arising from underground
 rhizomes. Flowers are yellow-white spikes, though flowering is uncommon
 outside tropical conditions. The rhizomes are knobby, orange-fleshed, and
-covered in a brownish skin. (see [[echinacea-growing-guide]]).
+covered in a brownish skin.
 
 ## Medicinal Uses
 
 The primary active compound, curcumin (diferuloylmethane), along with
 curcuminoids and essential oils (turmerone, ar-turmerone), provide a wide
-range of therapeutic effects.
+range of [[cbd-therapeutic-effects]].
 
 Key medicinal applications:
 
@@ -47,8 +47,8 @@ Key medicinal applications:
   gastrointestinal side effects.
 - Antioxidant: Potent free radical scavenger; also boosts the body's own
   antioxidant enzymes.
-- Joint health: Effective for osteoarthritis and rheumatoid arthritis
-  symptom management.
+- Joint health: Effective for osteoarthritis and [[blesching-cannabis-rheumatoid-arthritis]]
+  [[cannabis-cancer-symptom-management]].
 - Digestive support: Stimulates bile production, supports liver function,
   and soothes digestive inflammation.
 - Cardiovascular health: Improves endothelial function and reduces
@@ -67,7 +67,7 @@ Absorption can be significantly enhanced by:
 ## Tropical Cultivation
 
 ### Climate Requirements
-Turmeric requires a long, warm growing season with consistent temperatures
+Turmeric requires a long, warm [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] consistent temperatures
 of 65-90 degrees F. It is highly sensitive to frost and cold temperatures.
 Ideal conditions include:
 - Minimum 7-9 month frost-free growing season
@@ -106,7 +106,7 @@ From seed: Rarely done; turmeric is typically propagated vegetatively.
 ### Care and Maintenance
 - Maintain consistent moisture throughout the growing season
 - Mulch heavily (4-6 inches) to retain moisture and suppress weeds
-- Side-dress with compost or balanced organic fertilizer every 4-6 weeks
+- Side-dress with compost or balanced [[complete-organic-fertilizer-cof]] every 4-6 weeks
 - Foliar feed with liquid kelp or fish emulsion monthly during active growth
 - Turmeric is relatively pest-free but watch for rhizome rot in waterlogged
   conditions

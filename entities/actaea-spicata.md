@@ -24,13 +24,13 @@ Actaea spicata, commonly known as herb bennet or baneberry, is a rhizomatous per
 
 The species is easily recognized by its compound leaves, terminal racemes of small white flowers, and distinctive black berries. The berries are highly poisonous, containing cardiotoxic compounds that can cause serious illness if ingested.
 
-Actaea spicata has a long history in European folk medicine, though its use has declined due to toxicity concerns. The plant was traditionally used to treat rheumatism, snake bites, and various inflammatory conditions.
+Actaea spicata has a long history in European folk medicine, though its use has declined due to toxicity concerns. The plant was traditionally used to treat rheumatism, snake bites, and various [[cannabis-for-inflammatory-conditions]].
 
 In horticulture, A. spicata is valued as a shade-tolerant perennial for woodland gardens and naturalistic plantings. Its architectural form and persistent black berries provide interest through autumn.
 
 The genus was formerly included in Cimicifuga but has been restored to Actaea based on molecular phylogenetic evidence.
 
-Actaea spicata is one of the most shade-tolerant herbaceous perennials in the European flora, capable of photosynthesizing efficiently at very low light levels beneath closed forest canopies.
+Actaea spicata is one of the most shade-tolerant [[permaculture-plants-herbaceous-perennials]] in the European flora, capable of photosynthesizing efficiently at very [[darkness-low-light-facilitation-entheogenic-ceremonies]] levels beneath closed forest canopies.
 
 ## Taxonomy
 
@@ -45,9 +45,9 @@ Actaea spicata is one of the most shade-tolerant herbaceous perennials in the Eu
 
 Actaea spicata was described by Linnaeus in 1753. The genus name Actaea derives from the Greek "aktaia" (elderberry), referencing the similar appearance of the berries.
 
-Two subspecies are recognized: subsp. spicata (common throughout the range) and subsp. nigra (with darker, more elongated berries, restricted to central European mountains).
+Two subspecies are recognized: subsp. spicata (common throughout the range) and subsp. nigra (with darker, more elongated berries, restricted to [[psilocybe-bohemica-central-european]] mountains).
 
-The species is closely related to [[actaea-racemosa]] (black cohosh), a well-known medicinal plant native to North America. Both species contain similar triterpene glycosides but differ in their pharmacological profiles.
+The species is closely related to [[actaea-racemosa]] (black cohosh), a well-known medicinal plant native to [[guzman-psilocybin-mushrooms-north-america]]. Both species contain similar triterpene glycosides but differ in their pharmacological profiles.
 
 ## Morphology
 
@@ -73,7 +73,7 @@ It grows in deep to partial shade on calcareous to neutral soils rich in humus. 
 
 Elevational range extends from near sea level in Scandinavia to 2,000 m in the Alps and Pyrenees. The species requires consistent soil moisture and does not tolerate drought.
 
-Associated species include Fagus sylvatica, Fraxinus excelsior, Mercurialis perennis, and Sanicula europaea in characteristic woodland ground flora communities.
+Associated species include [[fagus-sylvatica]], Fraxinus excelsior, Mercurialis perennis, and Sanicula europaea in characteristic woodland ground flora communities.
 
 The species shows limited ability to colonize isolated forest fragments, making it an indicator of ancient woodland in some parts of its range. In Britain, its presence often suggests a long continuity of woodland cover.
 
@@ -88,33 +88,3 @@ The toxins affect the cardiovascular system by altering ion channel function in 
 Historical poisonings involved children attracted to the glossy black berries. No modern fatalities have been documented, though hospitalization is typically required after ingestion.
 
 Skin contact with crushed plant material can cause contact dermatitis in sensitive individuals due to the presence of ranunculin-derived compounds.
-
-Birds appear to be unaffected by the berries and serve as the primary seed dispersers. This differential toxicity is common in plants that rely on avian seed dispersal while deterring mammalian consumption.
-
-## Cultivation
-
-Actaea spicata is cultivated as a shade perennial in woodland gardens and naturalistic plantings. It requires humus-rich, moist, well-drained soil in deep or partial shade.
-
-Propagation is by seed or division. Seeds require double stratification (warm followed by cold) and may take 12–18 months to germinate.
-
-Division of rhizomes in early spring is the most reliable propagation method. Established plants are long-lived and require minimal maintenance.
-
-The species is hardy to USDA zones 4–8. It performs poorly in hot, dry conditions and benefits from a mulch of leaf mold to maintain soil moisture.
-
-The black berries persist on the plant into autumn, providing visual interest after flowering. The architectural foliage remains attractive throughout the growing season.
-
-Actaea spicata is relatively pest-free in cultivation. Slugs may feed on emerging shoots in spring, and occasional powdery mildew affects foliage in warm, humid summers.
-
-## See Also
-
-- [[actaea-racemosa]] — black cohosh, close North American relative
-- [[aconitum-napellus]] — monkshood, toxic Ranunculaceae
-- [[helleborus-niger]] — Christmas rose, shade-loving Ranunculaceae
-- [[ranunculus-acris]] — meadow buttercup, toxic when fresh
-- [[clematis-recta]] — ground clematis, Ranunculaceae species
-- [[anemone-nemorosa]] — wood anemone, woodland Ranunculaceae
-- [[trollius-europaeus]] — globeflower, related Ranunculaceae
-- [[pulsatilla-vulgaris]] — pasque flower, medicinal Ranunculaceae
-- [[delphinium-staphisagria]] — larkspur, toxic Ranunculaceae
-- [[nigella-sativa]] — black seed, Ranunculaceae with dark seeds
-- [[ranunculus-bulbosus]] — bulbous buttercup, toxic fresh Ranunculaceae

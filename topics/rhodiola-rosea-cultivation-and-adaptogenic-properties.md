@@ -1,5 +1,5 @@
 ---
-title: [[rhodiola-rosea]] Cultivation and [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]
+title: [[rhodiola-rosea]] Cultivation [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]
 tags:
   - rhodiola
   - adaptogens
@@ -24,7 +24,7 @@ sources:
 
 Rhodiola rosea, commonly known as golden root, roseroot, or arctic root, is a perennial succulent in the family Crassulaceae. Native to the arctic and alpine regions of Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]], it has been used for centuries in traditional medicine systems across Scandinavia, Russia, Mongolia, and Tibet. The species name *rosea* refers to the rose-like aroma of the freshly cut root, which contains [[mycovolatiles-fungal-volatile-compounds]] including geraniol and rose oxide.
 
-As one of the most extensively researched adaptogenic herbs, Rhodiola rosea has accumulated a substantial body of clinical evidence supporting its use for reducing fatigue, improving cognitive function under stress, and enhancing physical endurance. Its adaptogenic classification — first formalized by Soviet scientist Nikolai Lazarev in the 1940s and expanded by Israel Brekhman — refers to its ability to help the organism maintain homeostasis in the face of physical, chemical, and biological stressors.
+As one of the most extensively researched [[adaptogenic-herbs-guide]], Rhodiola rosea has accumulated a substantial body of clinical evidence supporting its use for reducing fatigue, improving cognitive function under stress, and enhancing physical endurance. Its adaptogenic classification — first formalized by Soviet scientist Nikolai Lazarev in the 1940s and expanded by Israel Brekhman — refers to its ability to help the organism maintain homeostasis in the face of physical, chemical, and biological stressors.
 
 ## Botany and Taxonomy
 
@@ -56,7 +56,7 @@ Salidroside (also called rhodioloside or tyrosol glucoside) is a tyrosol glycosi
 ### Other Bioactive Compounds
 - **Tyrosol**: The aglycone of salidroside, with antioxidant and neuroprotective properties
 - **Cinnamyl alcohol derivatives**: Present in the volatile oil fraction
-- **Flavonoids**: Including [[kaempferol|kaempferol]], [[quercetin|quercetin]], and their glycosides
+- **Flavonoids**: Including [[kaempferol]], [[quercetin]], and their glycosides
 - **Proanthocyanidins**: Condensed tannins with antioxidant activity
 - **Gallic acid and chlorogenic acid**: Phenolic acids contributing to antioxidant capacity
 - **Organic acids**: Including caffeic, ferulic, and p-coumaric acids
@@ -67,11 +67,11 @@ Salidroside (also called rhodioloside or tyrosol glucoside) is a tyrosol glycosi
 Rhodiola's adaptogenic effects are mediated through multiple interconnected pathways:
 
 ### HPA Axis Modulation
-Rhodiola rosea modulates the hypothalamic-pituitary-adrenal (HPA) axis, the body's central stress response system. Under chronic stress, the HPA axis becomes dysregulated, leading to elevated cortisol. Rhodiola helps normalize cortisol levels — reducing excessive cortisol during chronic stress while supporting adequate cortisol production during adrenal fatigue. This biphasic modulation is characteristic of true adaptogens.
+Rhodiola rosea modulates the hypothalamic-pituitary-adrenal (HPA) axis, the body's central [[epinephrine-stress-response-endocannabinoid-modulation-blesching]] system. Under chronic stress, the HPA axis becomes dysregulated, leading to elevated cortisol. Rhodiola helps normalize cortisol levels — reducing excessive cortisol during chronic stress while supporting adequate cortisol production during adrenal fatigue. This biphasic modulation is characteristic of true adaptogens.
 
 ### Monoamine Neurotransmitter Regulation
 Salidroside and rosavins influence the metabolism and activity of key neurotransmitters:
-- **Serotonin**: Inhibits monoamine oxidase A and B (MAO-A, MAO-B), increasing synaptic [[serotonin|serotonin]] availability
+- **Serotonin**: Inhibits monoamine oxidase A and B (MAO-A, MAO-B), increasing synaptic [[serotonin]] availability
 - **Dopamine**: Modulates dopamine reuptake and degradation, supporting motivation and reward pathways
 - **Norepinephrine**: Supports catecholamine synthesis during stress, improving alertness without the jittery effects of stimulants
 
@@ -84,7 +84,7 @@ Rhodiola activates AMP-activated protein kinase (AMPK), a master regulator of ce
 ### Anti-inflammatory and Antioxidant Pathways
 - Inhibits NF-κB signaling, reducing pro-inflammatory cytokine production (TNF-α, IL-6, IL-1β)
 - Activates Nrf2/ARE pathway, upregulating endogenous antioxidant enzymes (SOD, catalase, glutathione peroxidase)
-- Reduces lipid peroxidation and protein carbonylation under oxidative stress
+- Reduces lipid peroxidation and protein carbonylation under [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
 
 ### Anti-fatigue Mechanisms
 - Increases levels of ATP and creatine phosphate in muscle tissue
@@ -105,7 +105,7 @@ It struggles in hot, humid climates where temperatures consistently exceed 25°C
 ### Soil Requirements
 - **pH**: Slightly acidic to neutral (pH 5.5–7.0)
 - **Texture**: Sandy loam, gravelly loam, or rocky soils with excellent drainage; tolerates poor, thin soils
-- **Organic matter**: Low to moderate; overly rich soils promote excessive foliage at the expense of root development
+- **[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]**: Low to moderate; overly rich soils promote excessive foliage at the expense of root development
 - **Moisture**: Low to moderate; drought-tolerant once established but performs best with consistent, light moisture
 - **Drainage**: Critical — waterlogged conditions cause rapid root rot
 

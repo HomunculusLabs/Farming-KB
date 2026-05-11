@@ -87,18 +87,3 @@ indicate a biologically active preparation with significant mineral content,
 primarily from the calcium-rich shell material. The near-neutral pH makes it
 gentle on plants and compatible with most other inputs in both KNF and
 JADAM systems.
-
-## Integration with Natural Farming Programs
-
-Chitosan fits naturally into comprehensive input programs. In KNF systems,
-it can be tank-mixed with [[query-how-do-i-use-beneficial-indigenous-microorganisms]] solutions for enhanced disease protection.
-In JADAM programs, chitosan liquid fertilizer is applied from mid to late
-growth stages to control excessive growth and improve crop quality. When
-combined with seawater, humus soil liquid fertilizer, and phyllite solution,
-chitosan contributes to an integrated approach that addresses mineral
-nutrition, microbial activity, and plant defense simultaneously. See also
-[[knf-nutritive-cycle-theory]].
-
-## See Also
-
-- [[kava-traditional-preparation-ceremonial-context]]

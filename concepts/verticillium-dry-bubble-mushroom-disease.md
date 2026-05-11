@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - the-mushroom-cultivator-stamets
 type: concept
 ---
@@ -87,54 +88,3 @@ Verticillium is primarily transmitted by:
   layer components
 
 ## Differentiation from Similar Diseases
-
-Verticillium must be distinguished from other parasitic molds:
-
-- **Trichoderma:** Produces forest green colonies on malt agar and green
-  mold on casing. Spores are 4 x 5 microns, single-celled.
-- **Dactylium:** A grey aerial mold that is fast-growing and obvious on the
-  casing surface. Spores are two-celled and large (20 microns long).
-  Dactylium primarily affects the casing, while Verticillium primarily
-  affects the fruitbody.
-- **Mycogone:** Causes wet bubble disease, with different symptomatology.
-
-An easy diagnostic method is to plate suspect mold on malt agar. Green
-colonies indicate Trichoderma; absence of green colonies with fruitbody
-symptoms suggests Verticillium or Dactylium.
-
-## Control Measures
-
-Stamets recommends the following integrated approach:
-
-- **General hygiene maintenance** throughout the growing cycle
-- **Proper picking and cleaning practices** to minimize spore spread
-- **Isolation and removal** of infected mushrooms, sealed in plastic bags,
-  with minimal contact with unaffected areas
-- **Increased air circulation** to reduce humidity at the casing surface
-- **Lowered humidity** during cropping when conditions permit
-- **Elimination of flies and mites** through screening, air locks, and
-  insect monitoring systems
-- **Salting infected zones** with alkaline buffer (baking soda or sodium
-  hypochlorite) after removing diseased mushrooms
-- **Never watering infected beds** until diseased mushrooms are removed and
-  zones treated
-
-## Cascade Effect
-
-One serious consequence of a Verticillium outbreak is the increased
-probability of secondary diseases. Split stems open the mushroom to attack by
-numerous insects and other pathogens. If conditions favor Verticillium, they
-typically favor other molds as well, potentially leading to multiple
-concurrent contaminant problems.
-
-## Species Resistance Differences
-
-Steane (1979) reported that mycoremediation-dye-textile-wastewater applications and biological
-[[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] in agricultural settings.
-## See Also
-
-- [[bulk-substrate-preparation]] for hygiene during substrate handling
-- [[garden-disease-identification]] for broader plant disease context
-- [[mycoremediation]]
-- [[psilocybe-cubensis]]
-- [[stamets-mushroom-disease-pathogens-contaminants]]

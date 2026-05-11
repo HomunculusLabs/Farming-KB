@@ -20,11 +20,11 @@ sources:
 
 Cotinus coggygria, commonly known as smoke tree or smoke bush, is a deciduous shrub or small tree in the family Anacardiaceae native to southern Europe, the Mediterranean Basin, and central China. It is widely cultivated as an ornamental plant for its distinctive inflorescences, which produce a cloud-like haze of persistent, colorful bracts resembling smoke.
 
-The species is highly valued in landscape architecture for its drought tolerance, adaptability to poor soils, and dramatic autumn foliage color. Cultivars with purple, burgundy, and chartreuse foliage have become among the most popular ornamental shrubs in temperate gardens worldwide.
+The species is highly valued in landscape architecture for its [[dighton-fungal-drought-tolerance-plant-water-relations]], adaptability to poor soils, and dramatic autumn foliage color. Cultivars with purple, burgundy, and chartreuse foliage have become among the most popular ornamental shrubs in temperate gardens worldwide.
 
 Smoke tree has a long history of cultivation in Europe, where it has been grown since the 16th century for ornamental and dye-producing purposes. The wood and leaves yield a yellow-orange dye that was historically important in textile production.
 
-The genus Cotinus contains only two species: the Old World C. coggygria and the New World C. obovatus (American smoke tree), which is native to the southeastern United States. The two species are readily distinguished by leaf shape and native range.
+The genus Cotinus contains only two species: the [[datura-metel-old-world-ethnobotany]] C. coggygria and the New World C. obovatus (American smoke tree), which is native to the southeastern [[dmt-containing-plants-united-states-halpern]]. The two species are readily distinguished by leaf shape and native range.
 
 Molecular phylogenetic studies have confirmed the placement of Cotinus within Anacardiaceae, closely related to Rhus and Toxicodendron. The genus is distinguished by its unique inflorescence morphology and seed anatomy.
 
@@ -44,7 +44,7 @@ Fruit is a small, kidney-shaped drupe approximately 3 mm in diameter, greenish w
 
 Bark on mature stems is thin, smooth, and grayish-brown, with prominent lenticels. The wood is moderately dense and has been used for small turning projects and tool handles.
 
-The root system is deep and well-branched, contributing to the species' exceptional drought tolerance once established. Young plants require regular irrigation during their first growing season.
+The root system is deep and well-branched, contributing to the species' exceptional drought tolerance once established. Young plants require regular irrigation during their first [[extending-growing-season]].
 
 ## Distribution and Habitat
 
@@ -52,11 +52,11 @@ The native range of Cotinus coggygria spans from southern Europe (Italy, the Bal
 
 The species occupies dry, rocky hillsides, open scrublands, limestone outcrops, and woodland margins. It is characteristic of garrigue and maquis vegetation in the Mediterranean region, where it grows alongside rosemary, thyme, and other drought-adapted species.
 
-Elevation range in its native habitat extends from approximately 200 to 2,400 meters. High-altitude populations in the Chinese provinces of Sichuan and Gansu exhibit greater cold hardiness than lowland Mediterranean accessions.
+Elevation range in its native habitat extends from approximately 200 to 2,400 meters. High-altitude populations in the Chinese provinces of Sichuan and Gansu exhibit greater [[coleman-cold-hardiness-testing-ratings]] than lowland Mediterranean accessions.
 
-The species is tolerant of a wide range of soil types, including alkaline limestone soils, acidic sands, and nutrient-poor substrates. Excellent drainage is the primary soil requirement, as the species is highly susceptible to root rot in saturated conditions.
+The species is tolerant of a wide range of soil types, including alkaline limestone soils, acidic sands, and nutrient-poor substrates. Excellent drainage is the primary soil requirement, as the species is highly susceptible to [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] saturated conditions.
 
-Naturalized populations have established in parts of North America, particularly in the eastern United States, where the species occasionally escapes cultivation. These naturalized populations are generally not considered invasive.
+Naturalized populations have established in parts [[berry-growing]], particularly in the eastern United States, where the species occasionally escapes cultivation. These naturalized populations are generally not considered invasive.
 
 The species is increasingly planted in xeriscaping and water-wise garden designs, where its drought tolerance and minimal irrigation requirements make it an environmentally responsible choice for arid and semi-arid regions.
 
@@ -64,7 +64,7 @@ The species is increasingly planted in xeriscaping and water-wise garden designs
 
 Smoke tree is widely cultivated in USDA hardiness zones 4-9, with performance optimized in zones 5-8. The species requires full sun for best flowering and foliage color development, though it tolerates partial shade.
 
-Propagation is most commonly by softwood cuttings taken in early summer, or by semi-hardwood cuttings in late summer. Seed propagation is possible but slow, with stratification requirements of 2-3 months at 1-5 degrees Celsius.
+Propagation is most commonly by softwood cuttings taken in early summer, or by semi-hardwood cuttings in late summer. [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but slow, with stratification requirements of 2-3 months at 1-5 degrees Celsius.
 
 Numerous cultivars have been selected for foliage color and growth habit. The most widely grown purple-leaved cultivar is 'Royal Purple', valued for its deep burgundy foliage that intensifies in full sun. 'Golden Spirit' offers bright chartreuse-yellow foliage.
 
@@ -72,7 +72,7 @@ Numerous cultivars have been selected for foliage color and growth habit. The mo
 
 The species responds well to coppicing, producing vigorous new shoots with larger leaves and more intense coloration. Annual or biennial coppicing is a standard maintenance practice in many botanical gardens and public landscapes.
 
-Pests and diseases are relatively uncommon. The most significant problems include Verticillium wilt, which can be lethal, and various sap-sucking insects including aphids and scale. Well-drained soil and adequate air circulation minimize disease risk.
+[[mushroom-pests-and-diseases]] are relatively uncommon. The most significant problems include Verticillium wilt, which can be lethal, and various sap-sucking insects including aphids and scale. Well-drained soil and adequate [[stamets-growing-room-air-circulation-co2-management]] minimize disease risk.
 
 Deer browsing is generally light due to the foliage's relatively low palatability compared to other landscape shrubs. This characteristic makes smoke tree a good choice for gardens in areas with heavy deer pressure.
 
@@ -84,33 +84,6 @@ A yellow-orange dye known as "young fustic" is produced from the wood and leaves
 
 In traditional Chinese medicine, the leaves of Cotinus coggygria have been used as an astringent and anti-inflammatory agent. Preparations have been applied externally to wounds and burns and administered internally for digestive complaints.
 
-Methanolic extracts of the leaves have demonstrated antioxidant activity and antibacterial properties in vitro. Research interest in the species' bioactive compounds has increased in recent years, particularly regarding potential applications in cosmetic formulations.
+Methanolic extracts of the leaves have demonstrated antioxidant activity and antibacterial properties in vitro. Research interest in the species' [[cordyceps-cancer-bioactive-compounds]] has increased in recent years, particularly regarding potential applications in cosmetic formulations.
 
-The essential oil of Cotinus coggygria has been characterized, with major volatile components including hexanal, nonanal, and various sesquiterpenes. These compounds contribute to the mild, pleasant fragrance of the foliage when crushed.
-
-Korean traditional medicine employs smoke tree leaves in poultices for inflammatory skin conditions. The practice is documented in classical Korean pharmacopeia texts dating to the Joseon dynasty.
-
-## Ecological Role
-
-In its native Mediterranean habitat, Cotinus coggygria contributes to the structural diversity of garrigue and maquis plant communities. Its open growth form allows a rich understory of herbaceous species to develop beneath its canopy.
-
-The persistent inflorescences provide late-season visual interest and may offer limited food value for pollinators. The flowers attract bees, flies, and small butterflies during the summer flowering period.
-
-Bird species in the Mediterranean region utilize smoke tree thickets for nesting and cover. The dense, multi-stemmed growth form provides protection from predators and shelter from wind and sun.
-
-In cultivation, smoke tree provides habitat value in mixed ornamental plantings. Its nectar resources support pollinator populations in urban and suburban landscapes where native floral resources may be limited.
-
-The species has low invasive potential due to its modest seed production and slow naturalization rate. It poses minimal ecological risk in most cultivated landscapes, unlike some other ornamental Anacardiaceae species.
-
-## See Also
-
-- [[rhus-typhina]]
-- [[ailanthus-altissima]]
-- [[buddleja-davidii]]
-- [[cercis-canadensis]]
-- [[acer-saccharum]]
-- [[quercus-rubra]]
-- [[betula-pendula]]
-- [[liquidambar-styraciflua]]
-- [[magnolia-grandiflora]]
-- [[rhus-glabra]]
+The [[permaculture-designers-manual-essential-oil-plants]] of Cotinus coggygria has been characterized, with major volatile components including hexanal, nonanal, and various sesquiterpenes. These compounds contribute to the mild, pleasant fragrance of the foliage when crushed.

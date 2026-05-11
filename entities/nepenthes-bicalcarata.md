@@ -43,7 +43,7 @@ The domatium interior is chambered and smooth, typically housing 10-30 worker an
 
 *N. bicalcarata* is restricted to Borneo, occurring in Brunei, Kalimantan, Sabah, and Sarawak. It is most abundant in peat swamp forests at elevations below 300 meters.
 
-The species specializes in acidic, nutrient-poor substrates including peat swamps and kerangas heath forest. It grows as a climber on trees and shrubs, often in light-rich microsites within the forest canopy.
+The species specializes in acidic, nutrient-poor substrates including peat swamps and kerangas heath forest. It grows as a climber on [[nitrogen-fixing-trees-and-shrubs]], often in light-rich microsites within the forest canopy.
 
 Populations can be locally abundant with densities exceeding 50 individuals per hectare in undisturbed peat swamp. However, extensive drainage for palm oil plantations has significantly reduced available habitat across the island.
 
@@ -61,7 +61,7 @@ Research shows that plants with ant colonies capture significantly more prey and
 
 The twin fangs serve as ant-access structures, providing grip points that allow ants to traverse the slippery peristome without falling into the pitcher fluid. This morphological adaptation is unique to this species.
 
-Ant workers also patrol the exterior surface of developing pitchers, removing fungal hyphae and algae that could impair trap function. This external cleaning behavior further distinguishes the mutualism from simple inquiline relationships found in other carnivorous plants.
+Ant workers also patrol the exterior surface of developing pitchers, removing [[fungal-hyphae-and-mycelium]] algae that could impair trap function. This external cleaning behavior further distinguishes the mutualism from simple inquiline relationships found in other carnivorous plants.
 
 ## Ecology and Digestion
 
@@ -81,33 +81,10 @@ Secondary hypotheses suggest the fangs may deter large mammals from drinking pit
 
 ## Conservation and Cultivation
 
-*N. bicalcarata* is threatened by extensive peat swamp drainage for oil palm and acacia plantations across Borneo. Several populations occur within protected areas in Brunei and Sabah, though most exist outside formal reserves.
+*N. bicalcarata* is threatened by extensive peat swamp drainage for oil palm and [[acacia]] plantations across Borneo. Several populations occur within protected areas in Brunei and Sabah, though most exist outside formal reserves.
 
 In cultivation, the species is challenging and rarely available commercially. It requires warm, humid conditions with temperatures of 28-32°C and relative humidity above 80 percent. Propagation is primarily from seed, and plants grow slowly over 5-8 years to maturity.
 
 Ex situ conservation through botanical garden collections provides a safeguard, but cultivated populations remain genetically limited. The species is seldom available from specialist nurseries.
 
 ### Inquiline Communities
-
-The pitcher fluid of *N. bicalcarata* hosts a diverse inquiline community. Mosquito larvae of the genus *Tripteroides* develop within the fluid, along with sarcophagid fly larvae and various protozoans.
-
-These inquilines benefit from the nutrient-rich environment but compete with the plant for prey-derived nutrients. The resident ant colony moderates inquiline populations by removing excess [[hamilton-composting-and-organic-matter-management]] and debris from the fluid.
-
-### Prey Spectrum Dynamics
-
-The ant mutualist shifts the plant's prey spectrum away from ground-dwelling ants toward flying insects such as flies and small moths. Plants without ant colonies capture proportionally more ants, which compete with the mutualist for resources.
-
-Compared to non-myrmecophytic *Nepenthes* species, *N. bicalcarata* produces fewer but significantly larger pitchers. This allocation strategy maximizes the per-trap return on investment in domatium and nectar production.
-
-## See Also
-
-- [[nepenthes-ampullaria]]
-- [[nepenthes-mirabilis]]
-- darlingtonia californica
-- [[cephalotus-follicularis]]
-- [[utricularia-vulgaris]]
-- [[drosera-capensis]]
-- symbiosis
-- [[myrica-gale]]
-- [[decomposition]]
-- nitrogen

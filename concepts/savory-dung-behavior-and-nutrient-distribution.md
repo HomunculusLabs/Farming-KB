@@ -88,28 +88,3 @@ and parasite loads increase.
 ## Connection to the Mineral Cycle
 
 Dung distribution is a critical component of mineral cycle  management, representing the return of minerals from above ground back
-to the soil surface. Animals consume plants, concentrating minerals in
-their bodies. Dung and urine return those minerals to the soil surface.
-Even distribution ensures minerals are recycled across the entire area.
-
-When dung distribution is uneven, the mineral cycle becomes patchy.
-Some areas receive excessive nutrients (which may leach) while others
-receive too little. This creates a positive feedback loop: areas with
-good nutrient cycling produce better forage, attracting more animal use
-and more dung deposition, while neglected areas continue to
-deteriorate. The soil [[hamilton-composting-and-organic-matter-management]] and decomposition dynamics
-also suffer, as dung is a primary source of organic material inputs
-to the soil surface in grazing systems.
-
-## Practical Implications for Planning
-
-- Plan adequate stock density for uniform dung distribution per paddock.
-- Move animals frequently enough to avoid grazing fouled ground.
-- Use herd effect techniques to concentrate animals where nutrient
-  deposition is most needed.
-- Monitor dung distribution as an indicator of adequate density.
-
-## See Also
-
-- [[savory-predator-prey-and-herding-behavior]] - How predators shape movement
-- [[savory-livestock-behavior-and-grazing-styles]] - Species-specific behaviors

@@ -87,33 +87,3 @@ The Rodale Institute partnered with the USDA to develop a system using bahiagras
 ### Greenhouse Pot Culture
 
 Using sterilized pots and media, host plants (corn, sorghum, onion, strawberry, bahiagrass) are inoculated with commercial or field-collected propagules at a 1:20 ratio. After approximately 16 weeks, roots and surrounding media containing spores, hyphae, and vesicle-laden root fragments are harvested and stored.
-
-### Field Culture
-
-Soil containing mycorrhizal fungi can be collected from productive fields, fence rows, or woodlots. Soils from several areas are mixed, sieved to remove debris, and used directly or mixed with sterilized commercial soil at a 1:3 ratio. Strawberry runners from inoculated fields can also be transplanted to sterile pots to produce clean inoculum.
-
-### Ectomycorrhizal Production
-
-Ectomycorrhizal fungi are produced by collecting fruiting bodies (mushrooms, truffles), cutting them into small pieces, and mixing them into potting soil. Spore suspensions can also be sprayed onto seeds. Soil transfers from forests containing the appropriate fungi have been successfully used to inoculate host trees, including in the landmark 1955 Puerto Rico study where North Carolina forest soil enabled pines to thrive where native island soils had failed.
-
-## Key Rules for Mycorrhizal Success
-
-1. **Match fungi to the plant**: Use appropriate endo- or ectomycorrhizal species; mixtures of species often yield the greatest benefits
-2. **Use viable propagules**: Check dates, store properly, test viability if uncertain
-3. **Watch the phosphorus**: Keep soil phosphorus below 70 ppm; avoid high-phosphorus fertilizers and manures
-4. **Add propagules to soil mixes**: Even previously colonized plants benefit from replenishment at transplanting
-5. **Inoculate as early as possible**: Roll seeds in propagules; add to soil at every transplant
-6. **Beware of -icides**: Consult labels for mycorrhizal impacts
-7. **Be gentle**: Minimize soil disturbance, avoid tilling, prevent compaction, do not burn fields
-8. **Store properly**: Keep cool, dry, and sealed at 65-75F
-
-## See Also
-
-- [[rapd-molecular-marker-techniques-fungi]]
-
-- [[arbuscular-mycorrhizal-fungi]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-networks]]
-- [[ectomycorrhizal-ecology]]
-- [[compost-biology-soil-food-web-inoculation]]
-- [[fungal-roles-soil-food-webs]]

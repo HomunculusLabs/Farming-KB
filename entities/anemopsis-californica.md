@@ -33,7 +33,7 @@ sources:
 
 The species is a rhizomatous perennial that forms dense colonies in marshy areas, stream banks, and alkaline wetlands. It produces distinctive white cone-shaped flower spikes surrounded by white bracts in spring, resembling a single flower from a distance.
 
-Yerba mansa is one of the most important medicinal plants in the ethnobotany of the American Southwest. It occupies a similar cultural niche to goldenseal (*Hydrastis canadensis*) in [[polypore-fungi-eastern-north-america]] American herbalism, and is sometimes used as a substitute.
+Yerba mansa is one of the most important medicinal plants in the ethnobotany of the American Southwest. It occupies a similar cultural niche to goldenseal (*[[hydrastis-canadensis]]*) in [[polypore-fungi-eastern-north-america]] American herbalism, and is sometimes used as a substitute.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ Yerba mansa is one of the most important medicinal plants in the ethnobotany of 
 
 ## Distribution and Habitat
 
-*Anemopsis californica* ranges from southern California and Nevada through Arizona, New Mexico, and Texas, extending into northern and central Mexico. It is particularly abundant in the Rio Grande Valley, the Gila River watershed, and California's Central Valley.
+*Anemopsis californica* ranges from southern California and Nevada through Arizona, New Mexico, and Texas, extending into northern and [[psychoactive-cacti-of-central-mexico]]. It is particularly abundant in the Rio Grande Valley, the Gila River watershed, and California's Central Valley.
 
 The species is an obligate wetland plant requiring consistently moist to saturated soil. It colonizes marsh edges, spring-fed seeps, slow-moving streams, roadside ditches, and alkaline flats. It tolerates high soil salinity and alkaline conditions that exclude many competing species.
 
@@ -71,15 +71,15 @@ In contemporary Southwestern herbalism, yerba mansa is used as a mucosal anti-in
 
 The rhizome contains methyleugenol, a phenylpropene compound that contributes both antimicrobial activity and the characteristic spicy aroma. Essential oil analysis has also identified thymol, piperitone, and various sesquiterpenes.
 
-Flavonoids and phenolic compounds from the rhizome demonstrate significant free radical scavenging activity. Methanol and aqueous extracts show antioxidant capacity comparable to standard references in DPPH and lipid peroxidation assays.
+Flavonoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] from the rhizome demonstrate significant free radical scavenging activity. Methanol and aqueous extracts show antioxidant capacity comparable to standard references in DPPH and lipid peroxidation assays.
 
-Antimicrobial activity has been confirmed against both Gram-positive and Gram-negative bacteria, including *Staphylococcus aureus*, *Streptococcus pyogenes*, and *Escherichia coli*. Antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* has also been documented.
+Antimicrobial activity has been confirmed against both Gram-positive and Gram-negative bacteria, including *[[staphylococcus-aureus]]*, *Streptococcus pyogenes*, and *Escherichia coli*. Antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[aspergillus-niger]]* has also been documented.
 
 Anti-inflammatory effects include inhibition of cyclooxygenase (COX) enzymes and reduction of pro-inflammatory cytokines (TNF-α, IL-6) in vitro. These mechanisms support the traditional use for inflammatory skin and mucosal conditions.
 
 ## Cultivation and Propagation
 
-Yerba mansa is propagated most reliably by division of established rhizome clumps in early spring. Sections of rhizome 5–10 cm long with visible buds are planted 2–5 cm deep in saturated soil. Division produces flowering plants within one growing season.
+Yerba mansa is propagated most reliably by division of established rhizome clumps in early spring. Sections of rhizome 5–10 cm long with visible buds are planted 2–5 cm deep in saturated soil. Division produces flowering plants within one [[extending-growing-season]].
 
 Seed propagation is possible but requires cold stratification (4–12 weeks at 2–4°C) for optimal germination. Seeds are sown on the soil surface of moist medium and kept under high humidity. Germination is often irregular, taking 2–8 weeks.
 
@@ -88,24 +88,3 @@ The species performs best in full sun to partial shade with consistently wet soi
 Rhizome harvest for medicinal use typically begins in the second or third year after planting. The roots are most potent when collected in autumn after foliage die-back. Sustainable harvesting removes only portions of the rhizome mat, leaving enough for regrowth.
 
 ## Permaculture and Ecological Applications
-
-*Anemopsis californica* has significant potential in [[comparison-constructed-wetlands-vs-bioswales]] and water-treatment systems. Its tolerance for saline and alkaline conditions makes it useful for phytoremediation of contaminated water in arid regions.
-
-The dense root mat stabilizes stream banks and marsh edges against erosion. In permaculture designs, yerba mansa can serve as a living mulch around seasonal water features, providing both medicinal harvest and ecological services.
-
-It is a valuable component of native pollinator gardens in the Southwest, attracting native bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] during its spring flowering period. The spreading rhizome habit creates habitat for amphibians and aquatic invertebrates.
-
-## See Also
-
-- [[danthonia-californica]]
-
-- [[eucalyptus-globulus]]
-- [[verbascum-thapsus]]
-- [[baccharis-trimera]]
-- [[sambucus-nigra]]
-- [[hypericum-perforatum]]
-- [[taraxacum-officinale]]
-- [[glycyrrhiza-glabra]]
-- [[plantago-major]]
-- [[mentha-spicata]]
-- [[verbena-officinalis]]

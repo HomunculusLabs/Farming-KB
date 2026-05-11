@@ -10,13 +10,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
 Zone 5 is the wildest, most natural area of a [[query-how-do-i-start-designing-a-permaculture-property-from-scratch]] — left intentionally untended as a sanctuary for wildlife, a source of clean water, and the best solution for [[permplant-willows-salix-erosion-control-fodder]] on sloped land.
 
 ## What Is Zone 5
 
-In permaculture zone design, Zone 5 is the area of least human intervention:
+In [[permaculture-zone-design-comparison]], Zone 5 is the area of least human intervention:
 
 - **Purposefully left alone**: No planting, no pruning, no harvesting, no management
 - **Natural state**: Allowed to develop its own ecology and succession
@@ -28,7 +28,7 @@ In permaculture zone design, Zone 5 is the area of least human intervention:
 ### Erosion Control
 
 - If the property is on a slope, Zone 5 should be positioned where soil is at greatest risk of erosion
-- Undisturbed wild forest provides the most effective erosion prevention of any land use
+- Undisturbed wild forest provides the most effective [[dighton-fungal-roles-soil-erosion-prevention]] of any land use
 - Root networks hold soil in place; canopy breaks the impact of rain
 - No tilling, grazing, or foot traffic to disturb the soil structure
 
@@ -37,14 +37,14 @@ In permaculture zone design, Zone 5 is the area of least human intervention:
 - Wild forest is the source of clean water through natural filtration
 - Forested watersheds produce the cleanest water
 - Groundwater recharge occurs most effectively in undisturbed forest
-- Intact forest ecosystems purify water through root systems and soil biology
+- Intact [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] purify water through root systems and soil biology
 
 ### Biodiversity
 
 - Provides habitat for wild creatures that cannot live in managed zones
 - Supports pollinators, predatory insects, birds, amphibians, and mammals
-- Serves as a reservoir of genetic diversity
-- Wildlife from Zone 5 can spread into managed zones, providing natural pest control
+- Serves as a reservoir of [[biodiversity-fungal-genetic-diversity]]
+- Wildlife from Zone 5 can spread into managed zones, providing [[jeavons-natural-pest-control]]
 
 ### Air Quality
 
@@ -88,30 +88,3 @@ The biggest challenge with Zone 5 is resisting the urge to manage it:
 - **Do not harvest**: Leave dead wood, fallen trees, and all natural processes intact
 - **Do not plant**: Allow natural succession to occur
 - **Do not clear trails**: Unless absolutely necessary for fire access
-- **Observe only**: Use Zone 5 as a place for observation, learning, and reflection
-
-Wild nature operates on its own timeline and according to its own logic. What appears "messy" or "disorderly" to human eyes is actually a complex, self-regulating system.
-
-## Minimum Size
-
-Even on small properties, dedicating some area to Zone 5 is valuable:
-
-- **Small properties**: Even a few hundred square feet of unmanaged area provides some wildlife habitat and erosion control
-- **Larger properties**: The more area dedicated to Zone 5, the greater the ecological benefits
-- **Every bit helps**: No property is too small for a Zone 5 area
-
-## Learning from the Wild
-
-Zone 5 provides invaluable information for the permaculture designer:
-
-- **Observe natural patterns**: Which plants grow well together? What does the soil look like under healthy forest?
-- **Identify native species**: Zone 5 shows you what wants to grow in your climate and soil
-- **Study succession**: Watch how the ecosystem develops over time
-- **[[vegetable-insect-and-disease-control]] balance**: Healthy wild ecosystems maintain their own [[hamilton-pest-and-disease-control-organic]] balance — understanding this informs your management of other zones
-
-## Related Topics
-
-- [[permaculture-zones-and-sectors]] — managed grazing zones
-- [[zone-1-intensive-garden]] — intensive human management
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[gaias-garden-cover-crops-soil-building]]

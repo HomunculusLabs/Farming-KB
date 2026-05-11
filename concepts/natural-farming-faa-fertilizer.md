@@ -87,14 +87,3 @@ In the Philippines, fish emulsion is popular in organic agriculture. The natural
 1. Using crude sugar/molasses for better fermentation
 2. Adding lactic acid bacteria to control odors
 3. Emphasizing specific fish types (blue-black colored) for higher amino acid content
-
-## Sources
-
-- Cho, H.K. (2011). Dr. Cho's Global Natural Farming. SARRA.
-- Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
-
-## See Also
-
-- [[natural-farming-lab-preparation]]
-- [[jadam-liquid-fertilizer-philosophy]]
-- [[calcium-phosphate-bionutrient]]

@@ -88,27 +88,3 @@ CO2 production between treatments estimates fungal [[arbuscule-isolation-metabol
 This method measures active fungal biomass rather than total biomass,
 as dormant or inactive hyphae do not respire significantly. Results
 are influenced by temperature, moisture, and substrate availability at
-the time of measurement, making it sensitive to experimental conditions.
-
-## Methodological Considerations
-
-Comparing results across methods is challenging because each technique
-measures a different aspect of fungal biomass. Ergosterol measures
-living membrane content, PLFA measures total membrane lipids, hyphal
-length measures physical filament presence, and qPCR measures DNA
-content. These metrics can diverge substantially depending on fungal
-physiological state, community composition, and environmental
-conditions.
-
-Researchers recommend using multiple complementary methods and reporting
-results in comparable units. Standardization of extraction protocols,
-conversion factors, and analytical procedures remains an ongoing
-challenge in soil mycology.
-
-## See Also
-
-- [[fungal-enzymatic-diversity-decomposition]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-contributions-soil-structure]]
-- [[fungal-role-in-carbon-cycling]]

@@ -87,28 +87,3 @@ Post-harvest, the dried rhizomes are typically stored in a cool, dry location. Q
 ## Distinction from Greater Galangal
 
 Lesser galangal (*A. officinarum*) and greater galangal (*A. galanga*) are frequently confused in commercial and herbal contexts, but they are botanically and chemically distinct species.
-
-Greater galangal has larger, thicker rhizomes (3–5 cm diameter) with a smoother, paler appearance. Its flavor is milder, more gingery, and less pungent than lesser galangal. The aroma is distinctly piney and peppery rather than the camphoraceous character of lesser galangal.
-
-Chemically, greater galangal contains higher concentrations of 1'-acetoxychavicol acetate and 1,8-cineole, while lesser galangal is richer in galangin and diarylheptanoids. These differences result in distinct pharmacological profiles.
-
-In TCM, greater galangal is classified as a different herb (红豆蔻, *hong dou kou*) with separate indications. The two are not interchangeable in traditional formulations despite overlapping culinary uses.
-
-## Research and Modern Applications
-
-Recent research on *A. officinarum* has expanded beyond its traditional uses. Galangin has shown neuroprotective effects in animal models of Alzheimer's disease, reducing amyloid-beta accumulation and improving cognitive function.
-
-Antimicrobial studies have demonstrated activity against oral pathogens, including *Streptococcus mutans* and *Porphyromonas gingivalis*, suggesting potential applications in oral health products. The essential oil also shows antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
-
-In dermatological research, topical formulations containing galangin have shown promise for UV-induced skin damage protection and wound healing acceleration. These findings have prompted interest in cosmetic and pharmaceutical applications.
-
-## See Also
-
-- [[kaempferia-galanga]]
-- [[curcuma-longa]]
-- [[scutellaria-baicalensis]]
-- [[salvia-officinalis]]
-- [[astragalus-membranaceus]]
-- [[panax-ginseng]]
-- tinospora-cordifolia
-- [[rhodiola-rosea]]

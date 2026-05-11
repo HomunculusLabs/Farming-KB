@@ -1,5 +1,5 @@
 ---
-title: "dighton fungal mycophagy vertebrate invertebrate diets by Vertebrate and Invertebrate Animals"
+title: Dighton Fungal Mycophagy Vertebrate Invertebrate Diets
 created: 2026-04-28
 tags:
   - mycophagy
@@ -26,7 +26,7 @@ primary productivity and secondary production in food webs.
 
 Fungal fruit bodies and mycelia are rich in nitrogen, phosphorus, potassium,
 minerals, and vitamins compared to many plant materials. Clinton et al. (1999)
-measured the nutrient content of fungal fruit bodies from both mycorrhizal and
+measured the [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of fungal fruit bodies from both mycorrhizal and
 saprotrophic basidiomycetes in a Nothofagus forest and found that all elements
 except calcium were more concentrated in fungal tissue than in the surrounding
 forest floor material. This nutritional richness makes fungi preferred food
@@ -66,15 +66,15 @@ Reindeer on Svalbard consume up to 2.6 kg of lichens per day during intensive
 digging periods when snow covers the ground. Each reindeer requires
 approximately 1000 kg ha-1 dry weight of lichens to sustain it through winter.
 The slow growth rate of arctic lichens (2.5 to 10.6 mg g-1 wk-1) means that
-reindeer grazing pressure can outpace lichen recovery, threatening the
+reindeer [[gadd-mycelial-network-resilience-grazing-pressure]] can outpace lichen recovery, threatening the
 sustainability of this food resource. Trampling by reindeer herds compounds
 the damage, reducing both species diversity and biomass of lichens.
 
 ### Seasonal Reliance on Fungi
 
 Many small mammals rely on fungi most heavily when other food sources are
-depleted or when fungal fruiting bodies are abundant. In the Pacific Northwest,
-fungal contributions to the annual diet of small mammals can range from
+depleted or when [[brassinosteroid-effects-on-fungal-fruiting-morphology]] bodies are abundant. In the [[psilocybin-north-america-pacific-northwest]],
+[[fungal-contributions-soil-structure]] to the annual diet of small mammals can range from
 negligible to dominant, depending on species and season. Fogel and Trappe
 (1978) documented that fungi can form a significant proportion of the diet for
 nine small mammal species in this region.
@@ -88,37 +88,3 @@ of fly larvae consuming mushrooms show little correlation between fungi
 considered poisonous to humans and those consumed by invertebrates. Jaenike
 et al. (1983) found that many Drosophila species were tolerant of
 alpha-amanitin, the toxic component of Amanita species.
-
-### Collembola and Other Microarthropods
-
-High densities of collembola graze the surfaces and spores of less fleshy
-fungal species such as Laccaria spp. The spatial distribution of fungal
-fruiting bodies can influence the feeding activities of aboveground
-fungivorous insects, creating localized hotspots of faunal activity.
-
-## Human Mycophagy and Mushroom Production
-
-[[emcdda-wild-mushroom-foraging-misidentification-hazards]] collection is a tradition in many European countries, with both
-food, medicinal, and cultural value. Commercial [[accessible-mushroom-cultivation-for-disabilities]] in the
-[[dmt-containing-plants-united-states-halpern]] alone produces approximately 426,625 Mg of Agaricus and
-specialty mushrooms with a sales value of $863 million (2000-2001 data from
-the USDA National Agricultural Statistics Service). This commercial scale
-reflects the fundamental nutritional value of fungi recognized across many
-cultures.
-
-## Ecosystem Implications
-
-Mycophagy creates important feedback loops between animals and fungi. Animals
-that consume fungi affect fungal fecundity, dispersal, and community
-composition. The degree of dependency of many animals on fungi as a food
-source is still not entirely clear, raising the question of what impact the
-removal of fungi from ecosystems would have on faunal populations and
-communities. The [[fungal-trophic-modes-and-nutritional-guilds]] are fundamentally shaped by these grazing interactions.
-
-## See Also
-
-- [[dighton-fungal-nutritional-composition-animal-diets]]
-
-- fungal-interactions-soil-fauna
-- [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-- fungal-secondary-productivity

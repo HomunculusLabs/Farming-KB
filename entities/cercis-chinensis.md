@@ -21,11 +21,11 @@ sources:
 
 Cercis chinensis, commonly known as the Chinese redbud, is a small deciduous tree in the family Fabaceae. It is native to central and southern China and is widely cultivated as an ornamental tree for its profuse display of pink to magenta flowers.
 
-The species is closely related to the eastern redbud (Cercis canadensis) of North America and shares many ornamental characteristics. Chinese redbud typically grows to a height of 6 to 10 meters with a spreading, multi-stemmed habit.
+The species is closely related to the eastern redbud (Cercis canadensis) [[berry-growing]] and shares many ornamental characteristics. Chinese redbud typically grows to a height of 6 to 10 meters with a spreading, multi-stemmed habit.
 
 Chinese redbud is notable for flowering before leaf emergence in early spring. The flowers are produced in dense clusters directly on the older branches and trunk, a pattern known as cauliflory that creates a striking visual display.
 
-The species has a long history of cultivation in Chinese gardens and holds cultural significance in traditional Chinese horticulture and medicine. The bark, flowers, and leaves have been used in traditional Chinese medicine for various ailments.
+The species has a long history of cultivation in Chinese gardens and holds [[amanita-muscaria]] in traditional Chinese horticulture and medicine. The bark, flowers, and leaves have been used in traditional Chinese medicine for various ailments.
 
 ## Taxonomy and Morphology
 
@@ -62,7 +62,7 @@ Chinese redbud prefers well-drained, loamy to sandy soils and tolerates both aci
 
 The natural climate in its range is temperate to subtropical, with cold winters and warm, moist summers. It is hardy to approximately USDA zone 6, tolerating winter temperatures to -23°C.
 
-The species has been widely planted beyond its native range as an ornamental tree throughout temperate regions of the world. It is commonly cultivated in Japan, Korea, Europe, and North America.
+The species has been widely planted beyond its native range as an ornamental tree throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world. It is commonly cultivated in Japan, Korea, Europe, and North America.
 
 ## Cultivation and Uses
 
@@ -70,7 +70,7 @@ The species has been widely planted beyond its native range as an ornamental tre
 
 Chinese redbud is primarily cultivated for its ornamental value. The spectacular spring flower display, attractive heart-shaped leaves, and manageable size make it a popular choice for gardens, parks, and urban landscapes.
 
-Propagation is typically by seed, which requires stratification for 60 to 90 days at 1 to 5°C to break dormancy. Softwood cuttings taken in early summer and grafting onto Cercis canadensis rootstock are also common propagation methods.
+Propagation is typically by seed, which requires stratification for 60 to 90 days at 1 to 5°C to break dormancy. Softwood cuttings taken in early summer and grafting onto Cercis canadensis rootstock are also common [[organic-propagation-methods]].
 
 The tree is relatively low-maintenance and adaptable to a range of soil conditions. It performs best with regular watering during establishment but is drought-tolerant once mature. Pruning should be done after flowering to avoid removing next year's flower buds.
 
@@ -80,43 +80,10 @@ Several cultivars have been developed for ornamental use. 'Avondale' is a compac
 
 In traditional Chinese medicine, the bark of Cercis chinensis (known as zi jing pi) is used to promote blood circulation, relieve pain, and reduce swelling. It is prescribed for conditions including traumatic injuries, rheumatism, and menstrual disorders.
 
-The flowers are also used medicinally, primarily as a remedy for coughs and respiratory conditions. Decoctions of the flowers have been applied topically for skin infections and wounds.
+The flowers are also used medicinally, primarily as a remedy for coughs and [[cannabis-respiratory-conditions]]. Decoctions of the flowers have been applied topically for skin infections and wounds.
 
 Modern pharmacological studies have identified antioxidant, anti-inflammatory, and antimicrobial activities in extracts of the bark and flowers. These activities support some of the traditional medicinal uses.
 
 ## Ecological Role
 
-Cercis chinensis forms nitrogen-fixing root nodules in association with rhizobia bacteria, contributing to soil fertility in its native forest and thicket habitats. This capability makes it a useful component of agroforestry and ecological restoration plantings.
-
-The flowers provide an important early-season nectar source for bees and other pollinators. The cauliflorous flowering pattern, with flowers produced on the trunk and major branches, makes nectar accessible to a wide range of foraging insects.
-
-The seeds are dispersed by gravity and possibly by birds and small mammals that consume the pods. The flat seeds may also be dispersed by water along stream banks and valley floors.
-
-In its native forest ecosystems, Chinese redbud occupies an understory to mid-canopy niche. It is shade-tolerant when young but requires increasing light levels as it matures and begins to flower and fruit.
-
-The species serves as a host plant for several lepidopteran species. The leaves are browsed by caterpillars of various moths, contributing to the food web in its native habitat.
-
-## Chemistry and Pharmacology
-
-The bark of Cercis chinensis contains a diverse array of secondary metabolites including flavonoids, anthocyanins, and phenolic acids. The principal compounds include quercetin, kaempferol, and their glycoside derivatives.
-
-Anthocyanins responsible for the pink to magenta flower coloration include cyanidin-3-glucoside, peonidin-3-glucoside, and delphinidin derivatives. These water-soluble pigments accumulate in the petal vacuoles during flower development.
-
-The bark contains proanthocyanidins (condensed tannins) with antioxidant activity. Studies have demonstrated that methanol extracts of the bark exhibit significant free radical scavenging activity in DPPH and ABTS assays.
-
-Anti-inflammatory activity has been documented in both bark and flower extracts. In animal models, ethanolic extracts reduced carrageenan-induced paw edema and inhibited the production of pro-inflammatory mediators including TNF-α and IL-6.
-
-Antimicrobial screening has shown activity against several Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis. The antimicrobial effects are attributed to the combined action of flavonoids and phenolic compounds.
-
-## See Also
-
-- [[cercis-canadensis]]
-- [[gymnocladus-dioicus]]
-- [[gleditsia-triacanthos]]
-- [[caragana-arborescens]]
-- [[wisteria-sinensis]]
-- [[desmodium-canadense]]
-- [[lespedeza-capitata]]
-- [[permaculture]]
-- [[mycorrhiza]]
-- [[melilotus-officinalis]]
+Cercis chinensis forms nitrogen-fixing root nodules in association with rhizobia bacteria, contributing to soil fertility in its native forest and thicket habitats. This capability makes it a useful component of agroforestry and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] plantings.

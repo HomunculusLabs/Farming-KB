@@ -13,10 +13,10 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." Mushroom cultivation guide.
+  - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." exotic-mushroom-cultivation-guide.
   - Stamets P (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press, Berkeley, CA.
   - Wood DA, Smith JF (1987). "The companion-cultivation-of-mushrooms-with-garden-vegetables on enriched straw substrates." Mushroom Journal 164: 366-371.
-  - Rinker DL (1991). "Use of supplements in mushroom cultivation." In: van Griensven LJLD (ed.), Genetics and Breeding of Agaricus. Pudoc, Wageningen.
+  - Rinker DL (1991). "Use of supplements [[contamination-prevention-in-mushroom-cultivation]]." In: van Griensven LJLD (ed.), [[cannabis-genetics-and-breeding]] of Agaricus. Pudoc, Wageningen.
 ---
 
 ## Overview
@@ -33,7 +33,7 @@ The nitrogen content of yeast extract typically ranges from 7-11% by dry weight,
 
 Marmite specifically contains approximately 1.6g of protein per 10g serving, along with thiamine (B1), riboflavin (B2), niacin (B3), folate (B9), and B12. It also contains significant amounts of sodium, potassium, magnesium, and zinc, all of which serve as micronutrients for fungal growth.
 
-The B vitamin complex in yeast extract is particularly valuable for mushroom cultivation. B vitamins serve as cofactors in numerous enzymatic reactions involved in fungal metabolism, including energy production and amino acid synthesis. Mycelium can synthesize most B vitamins de novo, but supplementation reduces the metabolic cost of vitamin production and allows more resources to be directed toward growth and fruiting.
+The B vitamin complex in yeast extract is particularly valuable [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]. B vitamins serve as cofactors in numerous enzymatic reactions involved in fungal metabolism, including energy production and amino acid synthesis. Mycelium can synthesize most B vitamins de novo, but supplementation reduces the metabolic cost of vitamin production and allows more resources to be directed toward growth and fruiting.
 
 ## Role in Straw Substrate Preparation
 
@@ -49,7 +49,7 @@ The mechanism of yield improvement involves both faster colonization, which redu
 
 Yeast extract offers several advantages over other common substrate supplements. Compared to grain-based supplements such as rye or wheat bran, yeast extract is less likely to support contaminant growth because it contains fewer complex carbohydrates that serve as food for competing organisms.
 
-Compared to synthetic fertilizers such as ammonium nitrate or urea, yeast extract provides a more balanced nutritional profile that includes vitamins and trace minerals in addition to nitrogen. Synthetic nitrogen sources may produce rapid mycelial growth but can result in lower quality fruit bodies if the balance of other nutrients is inadequate.
+Compared to synthetic fertilizers such as [[plant-available-nitrogen-ammonium-nitrate]] or urea, yeast extract provides a more balanced nutritional profile that includes vitamins and trace minerals in addition to nitrogen. Synthetic nitrogen sources may produce rapid mycelial growth but can result in lower quality fruit bodies if the balance of other nutrients is inadequate.
 
 The liquid or paste form of Marmite and similar products also makes them easy to dissolve and distribute evenly through the substrate. Dry supplements such as bran may settle to the bottom of the bag or form clumps that create localized nutrient hotspots, whereas dissolved yeast extract distributes more uniformly.
 
@@ -59,7 +59,7 @@ Different mushroom species respond differently to yeast extract supplementation.
 
 Shiitake (Lentinula edodes) is more selective about substrate composition and may not benefit as much from yeast extract as from wood-based supplements or bran. The species has evolved to decompose hardwood and may not efficiently utilize the soluble nutrients in yeast extract.
 
-Species like Lion's Mane (Hericium erinaceus) and Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) show intermediate responses. These species benefit from some supplementation but may perform best with a combination of yeast extract and other supplements such as grain bran or gypsum.
+Species like Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]]) and Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]) show intermediate responses. These species benefit from some supplementation but may perform best with a combination of yeast extract and other supplements such as grain bran or gypsum.
 
 ## Boiling Integration and Sterilization
 
@@ -88,29 +88,3 @@ When comparing costs across supplement options, yeast extract typically falls be
 ## Interaction with Other Substrate Components
 
 Yeast extract is often used in combination with other substrate amendments. Gypsum (calcium sulfate) is commonly added alongside yeast extract to buffer pH and provide calcium, which supports cell wall integrity in fungal hyphae. The combination of yeast extract and gypsum can produce better results than either supplement alone.
-
-Lime (calcium carbonate) may be added to straw substrates to raise the initial pH, creating conditions less favorable for bacterial contaminants while still acceptable for mushroom mycelium. When yeast extract is used with lime, the buffering effect of the lime helps prevent the pH drop that can occur as mycelium metabolizes the substrate.
-
-Some cultivators add small amounts of molasses alongside yeast extract to provide additional carbohydrates and trace minerals. The sugar in molasses serves as an immediately available carbon source that can jump-start mycelial growth immediately after inoculation, before the mycelium has had time to produce the cellulases needed to decompose the straw.
-
-## Shelf Life and Storage Considerations
-
-Marmite and similar yeast extract pastes have excellent shelf stability due to their high salt and low moisture content. Unopened containers can be stored at room temperature for years without significant degradation of [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
-
-Once opened, yeast extract products should be kept sealed to prevent moisture absorption and contamination. The hygroscopic nature of yeast extract means that it can absorb water from humid air, potentially promoting microbial growth on the product itself. Refrigeration after opening extends the usable life considerably.
-
-Prepared yeast extract solutions for substrate hydration should be used immediately rather than stored, as the nutrient-rich liquid is an excellent growth medium for bacteria and wild fungi. Solutions prepared more than a few hours in advance should be refrigerated or re-pasteurized before use.
-
-## See Also
-
-- [[straw-substrate-yeast-extract-enrichment-jarrold]]
-
-- straw substrate preparation
-- [[boil-a-bag-mushroom-cultivation-technique]]
-- [[substrate-pasteurization]]
-- mycelial nutrition
-- oyster mushroom straw cultivation
-- [[contamination-identification-prevention]]
-- [[commercially-important-pleurotus-species-cultivation-guide]]
-- substrate moisture content
-- [[fungal-decomposition-nutrient-cycling]]

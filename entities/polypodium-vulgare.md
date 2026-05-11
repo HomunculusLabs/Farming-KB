@@ -13,7 +13,7 @@ sources:
   - Jermy, A.C. & Camus, J.M. (1991). "The Genus Polypodium." Kew Publishing.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora of North America, Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polypodiaceae." Flora [[berry-growing]], Vol. 2.
   - Hindmarch, C. (1886). "The Uses of British Plants." T. Fisher Unwin.
 ---
 
@@ -39,7 +39,7 @@ The lamina is once-pinnatifid to once-pinnate with 12–20 pairs of pinnae. Pinn
 
 Sori are round, orange-yellow when immature and brown at maturity, 1–2 mm in diameter, and arranged in a single row on each side of the midrib. They lack an indusium, a feature characteristic of the genus Polypodium.
 
-Spores are reniform, 30–40 µm long, with a verrucate perispore surface. Spore release occurs from July through October, with peak dispersal during late summer and early autumn.
+Spores are reniform, 30–40 µm long, with a verrucate perispore surface. [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] occurs from July through October, with peak dispersal during late summer and early autumn.
 
 The chromosome number is 2n = 74 (tetraploid). Polyploid constitution is common within Polypodium and contributes to the complex reticulate evolution patterns observed across the genus.
 
@@ -47,7 +47,7 @@ The chromosome number is 2n = 74 (tetraploid). Polyploid constitution is common 
 
 P. vulgare is widely distributed across Europe from the British Isles and Scandinavia to the Mediterranean basin, and eastward through Russia to western Siberia. It also occurs in North Africa (Atlas Mountains) and western Asia (Turkey, the Caucasus).
 
-In North America, populations previously attributed to P. vulgare are now recognized as P. virginianum, P. appalachianum, or other segregate species. True P. vulgare is considered absent from the North American flora.
+In North America, populations previously attributed to P. vulgare are now recognized as P. virginianum, P. appalachianum, or other segregate species. True P. vulgare is considered absent from the [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] flora.
 
 The species is predominantly lithophytic, growing on stone walls, rock faces, boulders, and cliff ledges. It also colonizes tree trunks and branches, particularly on mature oaks, beeches, and conifers with rough, fissured bark.
 
@@ -67,15 +67,15 @@ Scandinavian traditions included chewing dried rhizomes as a snack or breath fre
 
 The fronds are not generally consumed but have been used as a wrapping material for cooking and food storage. In some regions, fresh fronds were layered between apples or other stored fruit to help regulate moisture and prevent spoilage.
 
-Nutritional analysis of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true [[growing-root-vegetables-guide]] but significant for a non-cultivated forest plant.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] of the rhizome reveals approximately 40% starch, 10% sugars, and trace amounts of saponins, flavonoids, and tannins. Caloric value is modest compared to true [[growing-root-vegetables-guide]] but significant for a non-cultivated forest plant.
 
 ## Traditional Medicine and Pharmacology
 
-P. vulgare has been employed in European herbal medicine since antiquity. Dioscorides described the rhizome as a remedy for respiratory complaints, and the species remained a standard pharmacopeial drug through the 19th century.
+P. vulgare has been employed in European [[childrens-herbal-medicine]] since antiquity. Dioscorides described the rhizome as a remedy for respiratory complaints, and the species remained a standard pharmacopeial drug through the 19th century.
 
 The primary medicinal application was as an expectorant and pectoral remedy for coughs, bronchitis, and consumption. Preparations included decoctions of the dried rhizome, syrups, and lozenges combining polypody extract with honey and other herbs.
 
-The genus name "polypody" entered English folk medicine as a component of cough mixtures and lung tonics. The herb was often combined with licorice (Glycyrrhiza glabra) due to their complementary sweet flavors and overlapping expectorant properties.
+The genus name "polypody" entered English folk medicine as a component of cough mixtures and lung tonics. The herb was often combined with licorice ([[glycyrrhiza-glabra]]) due to their complementary sweet flavors and overlapping expectorant properties.
 
 Osladin, the principal sweet compound, is a steroidal saponin with approximately 500 times the sweetness of sucrose. It was first isolated in 1952 and has been investigated for potential use as a non-caloric sweetener, though commercial development has not proceeded.
 
@@ -88,23 +88,3 @@ No significant toxicity has been reported at traditional consumption levels. How
 Common polypody is readily cultivated and adapts well to garden conditions. It is valued as an evergreen ground cover for shady rock gardens, stone walls, and woodland margins where many other ferns are deciduous.
 
 Planting requires a well-drained substrate that mimics the species' natural lithophytic habit. A mixture of equal parts loam, leaf mold, and coarse sand or crushed stone provides adequate drainage while retaining sufficient moisture.
-
-The fern thrives in partial to deep shade but tolerates considerable sun if moisture is consistent. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established, though frond quality declines rapidly under prolonged dry conditions.
-
-Hardiness extends to USDA zone 4, making it suitable for cultivation across most temperate regions. Winter foliage remains green and functional unless temperatures drop below approximately -15°C for extended periods.
-
-Propagation by division is straightforward and can be performed at any time during the [[savory-growing-season-and-non-growing-season-management]]. Sections of rhizome with attached fronds and roots establish readily when pinned to a suitable substrate.
-
-Spore propagation is also possible but less commonly practiced due to the slow growth rate of gametophytes and the ease of vegetative division. Spores should be sown on a sterilized, lime-free medium and kept under high humidity.
-
-In landscaping, polypody is effective for softening stone retaining walls, adding evergreen texture to shaded rockeries, and naturalizing in woodland gardens. The fern's tolerance of root competition makes it suitable for planting among the roots of mature trees.
-
-## See Also
-
-- [[dryopteris-filix-mas]]
-- [[athyrium-filix-femina]]
-- [[botrychium-lunaria]]
-- [[equisetum-arvense]]
-- [[azolla-filiculoides]]
-- [[elodea-canadensis]]
-- [[potamogeton-natans]]

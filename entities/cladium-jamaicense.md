@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stewart, K.M., et al. (2006). "Effects of phosphorus enrichment on the Everglades wetland ecosystem." Wetlands Ecology and Management, 14(5), 409-423.
+  - Stewart, K.M., et al. (2006). "Effects of phosphorus enrichment on the Everglades wetland ecosystem." Wetlands soil-nematodes-ecology-and-management, 14(5), 409-423.
   - Gunderson, L.H. (1994). "Vegetation of the Everglades: The history and distribution of plant communities." In Everglades: The Ecosystem and Its Restoration. St. Lucie Press.
   - Sauda, J.D., et al. (2010). "Cladium jamaicense (Cyperaceae): a review of its ecology, physiology, and role in the Florida Everglades." Aquatic Botany, 92(3), 150-160.
   - Craft, C.B. & Richardson, C.J. (1998). "Recent and long-term soil accretion and nutrient accumulation in the Everglades." Wetlands, 18(3), 394-401.
@@ -49,13 +49,13 @@ Rhizomes are thick and woody, typically 5 to 15 millimeters in diameter, and can
 
 ## Distribution and Habitat
 
-Cladium jamaicense ranges from the southeastern United States through the Caribbean, Central America, and into northern South America.
+Cladium jamaicense ranges from the southeastern United States through the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and into northern [[guzman-psilocybin-mushrooms-south-america]].
 
 In the United States, it is most abundant in Florida, where it dominates approximately 60 percent of the Everglades landscape.
 
 The species also occurs in coastal marshes of Louisiana, Texas, Georgia, and South Carolina, though at lower densities.
 
-Outside North America, sawgrass is found throughout the Greater Antilles, the Bahamas, Belize, Honduras, and northern Brazil.
+Outside [[guzman-psilocybin-mushrooms-north-america]], sawgrass is found throughout the Greater Antilles, the Bahamas, Belize, Honduras, and northern Brazil.
 
 Sawgrass occupies shallow freshwater marshes, wet prairies, and the seasonally flooded peatlands of the Everglades ridge-and-slough landscape.
 
@@ -63,7 +63,7 @@ Optimal growth occurs in water depths of 10 to 60 centimeters, though plants can
 
 The species tolerates a wide range of hydroperiods, from short-duration flooding of a few weeks to nearly continuous inundation.
 
-Soils are typically organic peats or marl substrates with low to moderate nutrient availability.
+Soils are typically organic peats or marl substrates with low to moderate [[ph-and-nutrient-availability-garden-soils]].
 
 Cladium is adapted to oligotrophic conditions and shows reduced competitive ability under elevated phosphorus regimes.
 
@@ -85,58 +85,6 @@ Fire is a natural and essential component of sawgrass ecology in the Everglades 
 
 Sawgrass is fire-adapted, with rhizomes surviving belowground while aboveground biomass burns during the dry season.
 
-Post-fire regrowth is rapid, and burned areas typically recover full biomass within a single growing season.
+Post-fire regrowth is rapid, and burned areas typically recover full biomass within a single [[extending-growing-season]].
 
 However, fires that burn into the peat substrate can be destructive, converting sawgrass marsh to open water sloughs.
-
-## Physiology and Nutrient Ecology
-
-Cladium jamaicense is well adapted to low-nutrient conditions and maintains growth under extreme phosphorus limitation.
-
-The species exhibits low leaf tissue phosphorus concentrations, typically below 400 milligrams per kilogram of dry biomass.
-
-Under elevated phosphorus availability, sawgrass growth increases modestly but is rapidly outcompeted by Typha species.
-
-This differential response to nutrient enrichment is a central concern in Everglades restoration efforts.
-
-Phosphorus loading from agricultural runoff has caused widespread community shifts from sawgrass to cattail dominated marshes.
-
-Sawgrass has a high root-to-shoot ratio compared to many wetland species, allocating significant resources to belowground biomass.
-
-This allocation strategy supports nutrient uptake in oligotrophic conditions and contributes to peat soil formation.
-
-The species also shows moderate salt tolerance, allowing it to persist in brackish transition zones near coastal mangrove forests.
-
-Stomatal conductance and photosynthetic rates in sawgrass are comparable to other C3 wetland sedges under favorable conditions.
-
-## Conservation and Significance
-
-Phosphorus enrichment from agricultural runoff has caused widespread community shifts from sawgrass to cattail dominated marshes.
-
-The conversion of sawgrass marshes to Typha-dominated communities is the most significant conservation threat facing this species.
-
-Everglades restoration initiatives aim to reduce phosphorus inputs and restore sawgrass dominance across the ecosystem.
-
-Sea level rise poses a long-term threat to coastal sawgrass marshes through saltwater intrusion and peat collapse.
-
-The Everglades sawgrass ecosystem supports a multi-billion-dollar tourism industry centered on wildlife viewing and sport fishing.
-
-Sawgrass marshes filter nutrients and sediment from water, improving quality for downstream estuaries and urban water supplies.
-
-Historically, indigenous peoples of the Caribbean and Florida used sawgrass leaves for thatching and basket weaving.
-
-The Seminole and Miccosukee peoples constructed chickee structures using sawgrass thatch over cypress pole frames.
-
-In modern ecological restoration, sawgrass is the primary species used for wetland creation and mitigation planting in Florida.
-
-## See Also
-
-- [[typha-latifolia]]
-- [[typha-angustifolia]]
-- [[juncus-effusus]]
-- [[carex-stricta]]
-- [[phragmites-australis]]
-- [[eleocharis-palustris]]
-- [[sagittaria-latifolia]]
-- [[pontederia-cordata]]
-- [[spartina-alterniflora]]

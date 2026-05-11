@@ -16,7 +16,7 @@ sources:
   - Pennings, S.C. & Bertness, M.D. (2001). "Salt marsh communities." In Marine Community Ecology, 289-316. Sinauer Associates.
   - Silliman, B.R. & Bertness, M.D. (2004). "Shore crab facilitation of mussel recruitment." Ecology, 85(8), 2245-2256.
   - Mitsch, W.J. & Gosselink, J.G. (2015). Wetlands, 5th Edition. John Wiley & Sons.
-  - Vasey, M.C. et al. (2004). "Integration of morphology, molecular data, and reproductive biology in the delineation of Atlantic Coast Spartina species." MADROÑO, 51(4), 317-329.
+  - Vasey, M.C. et al. (2004). "Integration of morphology, molecular data, and [[clarke-marijuana-botany-sex-determination-reproductive-biology]] in the delineation of Atlantic Coast Spartina species." MADROÑO, 51(4), 317-329.
 ---
 
 ## Overview
@@ -28,7 +28,7 @@ dominant plant species in salt marshes along the Atlantic and Gulf coasts of
 
 This species is a foundational ecosystem engineer that stabilizes coastal
 sediments, buffers wave energy, and provides critical habitat for commercially
-important fisheries. It has also become a model organism for studying coastal
+important fisheries. It has also become a [[canary-grass-phototropism-model-organism]] for studying coastal
 ecology, biogeochemistry, and wetland restoration.
 
 Outside its native range, *S. alterniflora* is considered one of the world's
@@ -74,8 +74,8 @@ and freshwater flooding, which limits its inland distribution.
 
 The species has been widely introduced outside its native range, including
 coastal China (where it was deliberately planted starting in 1979 for sediment
-accretion and land reclamation), Europe, New Zealand, Australia, and the Pacific
-Northwest of North America. In China, it has colonized over 100,000 hectares of
+accretion and [[pioneer-species-for-land-reclamation]]), Europe, New Zealand, Australia, and the Pacific
+Northwest [[berry-growing]]. In China, it has colonized over 100,000 hectares of
 intertidal mudflat.
 
 ## Ecosystem Services and Coastal Protection
@@ -88,55 +88,3 @@ Above-ground biomass attenuates wave energy, reducing wave height by 40–80%
 over short distances and protecting inland areas from storm surge. This function
 has made the species a primary tool in living shoreline designs and nature-
 based coastal defense strategies.
-
-Salt marshes dominated by *S. alterniflora* are among the most productive
-ecosystems on Earth, with net primary productivity reaching 1000–2500 g C/m²/yr.
-Decomposition of this biomass drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] that supports estuarine
-food webs.
-
-The species also contributes to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], with coastal wetlands
-storing carbon at rates 2–4 times greater than terrestrial forests per unit
-area. Blue carbon stored in *Spartina* marsh sediments represents a significant
-climate mitigation asset.
-
-## Phytoremediation and Water Quality
-
-*S. alterniflora* has demonstrated capacity for phytoremediation of coastal
-contaminants. The species accumulates heavy metals including copper, zinc, lead,
-and cadmium in root tissues while limiting translocation to above-ground biomass.
-
-Constructed *Spartina* marshes have been used for treatment of aquaculture
-effluent, municipal wastewater, and stormwater runoff in coastal settings. The
-species removes nitrogen and phosphorus through direct uptake and by enhancing
-microbial denitrification in the rhizosphere.
-
-Research has explored its use in [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] remediation in salt
-marsh environments, where it facilitates microbial degradation of oil compounds
-through [[amf-biocontrol-phytophthora-root-exudate-modification]] stimulation.
-
-## Invasive Biology and Management
-
-Outside its native range, *S. alterniflora* poses significant ecological
-threats. In China, its rapid colonization of intertidal zones has displaced
-native mangroves and *Phragmites* communities, altered benthic invertebrate
-assemblages, and reduced habitat for migratory shorebirds.
-
-Management approaches include physical removal (mowing, digging, smothering),
-chemical control (glyphosate applied to emergent foliage at low tide), and
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]. In China, the tide-turning method — introducing seawater
-to flood previously reclaimed land — has been used to suppress *Spartina*
-invasion.
-
-Paradoxically, the species' invasive tendencies and rapid biomass accumulation
-have also motivated research into its use as a bioenergy feedstock. Its high
-cellulose content and productivity on marginal saline lands make it a candidate
-for cellulosic ethanol production.
-
-## See Also
-
-- [[spartina-pectinata]]
-
-- typha-latifolia-entity
-- [[arundo-donax]]
-- [[portulaca-oleracea]]
-- [[trifolium-repens]]

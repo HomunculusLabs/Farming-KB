@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ware, G.H. (1989). "Quercus virginiana." In: Flora of North America North of Mexico, Vol. 3. Oxford University Press.
+  - Ware, G.H. (1989). "Quercus virginiana." In: Flora huckleberries-and-wild-berries-of-north-america North of Mexico, Vol. 3. Oxford University Press.
   - Stein, J.D. et al. (2003). "Genecology of the southern live oak (Quercus virginiana Mill.)." Silvae Genetica, 52(3-4), 159–167.
-  - USDA Forest Service (2023). Silvics of North America: Quercus virginiana. https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/quercus/virginiana.htm
-  - Duncan, W.H. & Duncan, M.B. (1988). Trees of the Southeastern United States. University of Georgia Press.
+  - USDA Forest Service (2023). Silvics of [[guzman-psilocybin-mushrooms-north-america]]: Quercus virginiana. https://www.srs.fs.usda.gov/pubs/misc/ag_654/volume_2/quercus/virginiana.htm
+  - Duncan, W.H. & Duncan, M.B. (1988). Trees of the Southeastern [[dmt-containing-plants-united-states-halpern]]. University of Georgia Press.
   - Miller, J.H. & Miller, S.T. (2005). Forest Plants of the Southeast and Their Wildlife Uses. University of Georgia Press.
 ---
 
@@ -53,13 +53,13 @@ Southern live oak is most abundant on well-drained sandy loams and sandy clays o
 
 The species is hardy in USDA zones 7b–10b. It tolerates salt spray, periodic flooding, and coastal winds, making it a dominant species on barrier islands and in maritime forests.
 
-Live oaks often form open-canopy woodlands with understories of saw palmetto (*Serenoa repens*), wax myrtle (*Morella cerifera*), and yaupon holly (*Ilex vomitoria*). They are also found as scattered canopy trees in longleaf pine savannas.
+Live oaks often form open-canopy woodlands with understories of saw palmetto (*[[serenoa-repens]]*), wax myrtle (*[[morella-cerifera]]*), and yaupon holly (*[[ilex-vomitoria]]*). They are also found as scattered canopy trees in longleaf pine savannas.
 
 Elevation typically ranges from sea level to approximately 150 meters. The species is uncommon above 200 meters except in the Edward's Plateau of Texas.
 
 Hybridization with other white oaks occurs naturally where ranges overlap. Known hybrids include *Q. × townsendii* (with overcup oak, *Q. lyrata*) and *Q. × filiformis* (with swamp chestnut oak, *Q. michauxii*).
 
-The species has been widely planted outside its native range, notably in California, the Pacific Northwest, and parts of the Mediterranean. Naturalized populations exist in parts of Hawaii and central California.
+The species has been widely planted outside its native range, notably in California, the [[psilocybin-north-america-pacific-northwest]], and parts of the Mediterranean. Naturalized populations exist in parts of Hawaii and central California.
 
 ## Ecology and Uses
 
@@ -71,7 +71,7 @@ The tree supports a rich epiphyte community, most notably Spanish moss (*Tilland
 
 The wood is difficult to season and work but turns well on a lathe. It is used for tool handles, wagon wheels, fence posts, and heavy construction where durability is paramount.
 
-Live oak woodlands provide significant ecosystem services including carbon sequestration, storm surge mitigation, and soil stabilization on coastal sites. Mature specimens can sequester several tons of carbon annually.
+Live oak woodlands provide significant [[biodiversity-of-fungi-ecosystem-services-agriculture]] including [[gadd-fungal-carbon-sequestration]], storm surge mitigation, and soil stabilization on coastal sites. Mature specimens can sequester several tons of carbon annually.
 
 The root system is extensive and aggressive, with lateral roots commonly extending well beyond the canopy drip line. This makes live oak unsuitable for planting near foundations, sidewalks, or underground utilities.
 
@@ -79,44 +79,12 @@ In fire-prone coastal plain ecosystems, live oak has moderate fire resistance du
 
 ## Cultivation
 
-Southern live oak is widely planted as a shade and specimen tree throughout the southern United States and in Mediterranean climates worldwide. It is valued for its broad canopy, evergreen foliage, and drought tolerance once established.
+Southern live oak is widely planted as a shade and specimen tree throughout the southern United States and in Mediterranean climates worldwide. It is valued for its broad canopy, evergreen foliage, and [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 Transplanting large field-grown specimens is feasible but expensive, with mature trees costing thousands of dollars. Container-grown and balled-and-burlapped trees are more commonly available in the nursery trade.
 
-The species prefers full sun and well-drained acidic soils but adapts to clay, loam, and sandy substrates. It is moderately tolerant of urban conditions including compacted soils and air pollution.
+The species prefers full sun and well-drained acidic soils but adapts to clay, loam, and sandy substrates. It is moderately tolerant of urban conditions including compacted soils and [[air-pollution-fungal-community-responses]].
 
-Growth rate is moderate, averaging 30–60 cm per year in height under favorable conditions. Canopy spread often exceeds height growth, producing the characteristic broad crown within 20–30 years.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, averaging 30–60 cm per year in height under favorable conditions. Canopy spread often exceeds height growth, producing the characteristic broad crown within 20–30 years.
 
 **Propagation** is primarily from acorns, which should be planted immediately after collection as they lose viability quickly. Stratification is not required for white oak acorns.
-
-Pests and diseases are relatively few. Live oak wilt (caused by *Bretziella fagacearum*) is a concern in parts of Texas. Oak leaf blister (*Taphrina caerulescens*) and various leaf miners cause minor cosmetic damage.
-
-Galls induced by cynipid wasps are common on leaves and twigs but rarely affect tree health. Scale insects and aphids may colonize foliage, particularly on stressed trees in urban settings.
-
-Fertilization requirements are low once established. A balanced slow-release application in early spring is sufficient for landscape specimens. Over-fertilization can promote excessive vegetative growth at the expense of structural wood.
-
-## Cultural Significance
-
-Southern live oak is the state tree of Georgia and is deeply embedded in the cultural identity of the American South. Historic specimens such as the Angel Oak on Johns Island, South Carolina (estimated 400–500 years old), are major tourist attractions.
-
-The tree is a defining feature of many antebellum plantations, university campuses, and municipal landscapes. Streets lined with live oaks draped in Spanish moss are among the most recognizable landscapes in North America.
-
-Live oak was designated the official tree of the city of Savannah, Georgia, and features prominently in the city's urban forest planning. The "Avenue of the Oaks" at Wormsloe Plantation is a frequently photographed landmark.
-
-In naval history, the USS *Constitution* earned the nickname "Old Ironsides" partly because live oak hull plating was so dense that British cannonballs reportedly bounced off. The Live Oak Society, founded in 1934, maintains a registry of notable specimens across the Gulf South.
-
-Timber harvesting of live oak declined sharply after the transition from wooden to iron and steel shipbuilding in the late 19th century. Today, most commercial live oak wood comes from salvaged trees removed for development or storm damage.
-
-## See Also
-
-- [[ostrya-virginiana]]
-
-- [[quercus-robur]]
-- [[quercus-alba]]
-- [[quercus-rubra]]
-- [[quercus-palustris]]
-- [[fagus-grandifolia]]
-- [[liquidambar-styraciflua]]
-- [[nyssa-sylvatica]]
-- [[pinus-palustris]]
-- [[magnolia-grandiflora]]

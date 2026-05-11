@@ -5,6 +5,7 @@ tags: [forestry, coppicing, woodlot, agroforestry, permaculture, mycoforestry, t
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - /Users/t3rpz/wiki/concepts/faires-coppicing-and-woodlot-management.md
   - /Users/t3rpz/wiki/concepts/mollison-course-coppice-forest-management.md
   - /Users/t3rpz/wiki/concepts/mollison-designers-fuelwood-forestry-coppice-pollard.md

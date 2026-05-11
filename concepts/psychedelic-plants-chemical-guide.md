@@ -13,11 +13,11 @@ sources: []
 
 Psychedelic (classical hallucinogen) compounds are substances that primarily act as serotonin 5-HT2A receptor agonists, producing profound alterations in perception, cognition, and consciousness. Found across plant and fungal kingdoms, these compounds have been used in spiritual, healing, and divinatory contexts for millennia.
 
-This guide compares six major psychedelic [[lsd-psychedelic-experience-guide]] compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
+This guide compares six major psychedelic compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
 
 ## Structural Classification
 
-Psychedelic compounds fall into distinct chemical [[lsd-psychedelic-experience-guide]] classes:
+Psychedelic compounds fall into distinct chemical classes:
 
 - **Tryptamines:** DMT, 5-MeO-DMT, psilocybin (indole ring structure, related to serotonin)
 - **Phenethylamines:** Mescaline (phenyl ring with ethylamine chain)
@@ -53,7 +53,7 @@ Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritu
 - Formula: C13H18N2O | MW: 218.30 | 5-methoxy derivative of DMT | Vaporization: ~140°C
 
 #### Natural Sources
-- **Bufo alvarius** (Colorado River toad — ethical concerns), **Anadenanthera** species, **Virola** species
+- **[[5-meo-dmt-and-bufo-alvarius]]** (Colorado River toad — ethical concerns), **Anadenanthera** species, **Virola** species
 
 #### Pharmacology
 - **Receptors:** Potent 5-HT1A agonist (primary), 5-HT2A (secondary), sigma-1
@@ -71,7 +71,7 @@ More "formless" than DMT, intense ego dissolution, "white light"/void experience
 - Formula: C11H17NO3 | MW: 211.26 | 3,4,5-trimethoxyphenethylamine | Water-soluble HCl salt
 
 #### Natural Sources
-- **Lophophora williamsii** (peyote, 1-6% mescaline), **Echinopsis pachanoi** (San Pedro), **E. peruviana** (Peruvian torch), **E. lageniformis** (Bolivian torch)
+- **[[lophophora-williamsii]]** (peyote, 1-6% mescaline), **[[echinopsis-pachanoi]]** (San Pedro), **E. peruviana** ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]), **E. lageniformis** (Bolivian torch)
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT2C, alpha-1 adrenergic
@@ -89,7 +89,7 @@ Vivid color enhancement, emotional openness, moderate empathogenic qualities, lo
 - Formula: C12H17N2O4P | MW: 284.25 | Prodrug — dephosphorylated to psilocin (4-HO-DMT) in vivo
 
 #### Natural Sources
-- **Psilocybe cubensis**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
+- **[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, 5-HT2B, 5-HT7
@@ -108,7 +108,7 @@ Flowing visual patterns, altered thought patterns, emotional expansion, mystical
 - Insoluble in water; soluble in acetone, ethanol, DMSO
 
 #### Natural Source
-- **Salvia divinorum** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
+- **[[golden-guide-salvia-divinorum-and-diviner-sage]]** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
 
 #### Pharmacology
 - **Receptors:** Kappa-opioid receptor (KOR) agonist — UNIQUE among psychedelics. NOT active at 5-HT2A.
@@ -117,17 +117,17 @@ Flowing visual patterns, altered thought patterns, emotional expansion, mystical
 - Oral generally inactive. Half-life: ~1-3h.
 
 #### Effects
-Intense dissociative states, loss of physical awareness, immersive visions, short duration for such intensity, high rate of dysphoric/frightening experiences, KOR agonism produces non-euphoric effects.
+Intense dissociative states, loss of physical awareness, immersive visions, [[savory-short-duration-grazing-and-cell-systems]] for such intensity, high rate of dysphoric/frightening experiences, KOR agonism produces non-euphoric effects.
 
 ---
 
 ### 6. Ibogaine
 
 #### Chemistry
-- Formula: C20H26N2O | MW: 310.43 | Complex indole alkaloid (iboga class)
+- Formula: C20H26N2O | MW: 310.43 | Complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] (iboga class)
 
 #### Natural Source
-- **Tabernanthe iboga** — Gabon, Congo, Cameroon. Root bark: 0.5-6% total alkaloids (up to 2% ibogaine). Used in Bwiti spiritual tradition.
+- **[[plants-of-the-gods-tabernanthe-iboga]]** — Gabon, Congo, Cameroon. Root bark: 0.5-6% total alkaloids (up to 2% ibogaine). Used in Bwiti spiritual tradition.
 
 #### Pharmacology
 - **Receptors:** NMDA antagonist, 5-HT2A agonist, KOR agonist, mu/delta opioid modulator, sodium channel blocker (cardiac risk), sigma-2 agonist
@@ -147,4 +147,4 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 | Duration (smoked) | 15-30min | 10-30min | N/A | N/A | 15-60min | N/A |
 | Potency (mg) | 20-60 | 5-20 | 200-500 | 10-30 | 0.2-1mg | 1000-2000+ |
 | MAO substrate | Yes | Yes | No | No (psilocin is) | No | No |
-| Traditional use | Ayahuasca | Bufo/Anadenanthera | Peyote/San Pedro | Mazatec mushrooms | Mazatec Salvia | Bwiti (Gabon) |
+| Traditional use | Ayahuasca | Bufo/Anadenanthera | Peyote/San Pedro | [[mazatec-mushrooms-of-language]] | Mazatec Salvia | Bwiti (Gabon) |

@@ -1,5 +1,5 @@
 ---
-title: Mollison PDC Small Pond and mollison pdc small pond frog habitat design Design
+title: Mollison Pdc Small Pond Frog Habitat Design
 created: 2026-04-28
 tags:
   - permaculture
@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 
@@ -18,21 +19,21 @@ type: concept
 
 ## Overview
 
-In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, Bill Mollison describes
+In Pamphlet IX of the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, [[bill-mollison]] describes
 small pond systems as essential components of zone one and zone two
 designs. Beyond their obvious role in water storage and irrigation, small
 ponds serve as critical habitat for frogs and other aquatic organisms
 that provide [[cervantes-biological-pest-control-predators]] control for the surrounding garden. Mollison
 argues that every home garden should include at least one small pond,
-positioned to maximize both its ecological function and its convenience
+positioned to maximize both its [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] and its convenience
 for the gardener.
 
 ## The Pond as Pest Control Infrastructure
 
-Mollison's primary argument for including ponds in garden design is pest
+Mollison's primary argument for including ponds [[mollison-barrier-plants-in-garden-design]] is pest
 control. Frogs are among the most effective insect predators in a garden
 ecosystem. A single frog consumes enormous quantities of slugs, beetles,
-mosquitoes, flies, and other insect pests. Mollison states that a
+mosquitoes, flies, and other [[duggar-mushroom-insect-pests-and-fungal-diseases]]. Mollison states that a
 well-placed pond can attract enough frogs to provide complete biological
 pest control for the surrounding garden, eliminating or drastically
 reducing the need for any chemical [[cannabis-pest-management-guide]].
@@ -87,62 +88,3 @@ For a basic frog habitat, Mollison suggests a pond as small as four feet
 in diameter and eighteen inches deep. This is sufficient to support a
 breeding population of frogs. The pond should be filled with rainwater
 rather than tap water, which may contain chlorine harmful to amphibians.
-
-## Aquatic Plant Integration
-
-The plants surrounding and growing in the pond are critical to its
-function. Mollison describes several categories of aquatic plants and
-their roles. Emergent plants like cattails and iris provide vertical
-structure for frog perching and egg-laying. Floating plants like duckweed
-shade the water surface, reducing temperature and algae growth. Submerged
-plants like hornwort oxygenate the water and provide habitat for aquatic
-invertebrates that frogs feed on.
-
-The edges of the pond should be planted with moisture-loving herbs and
-flowers that create a transition zone between the aquatic and terrestrial
-environments. Mint, watercress, and pennywort are useful edible plants
-that thrive in this wet margin. These marginal plants also provide cover
-for frogs moving between the pond and the garden.
-
-## Water Source and Management
-
-In permaculture design, the pond should be fed primarily by runoff from
-roofs, paths, and other hard surfaces. Mollison describes swales and
-[[mollison-designers-diversion-drains-and-interceptor-banks]] that channel rainwater into the pond, creating a
-self-filling system that requires no external water input once
-established. The pond level will fluctuate seasonally, which is natural
-and beneficial, as it prevents stagnation and creates seasonally
-variable habitat.
-
-Overflow from the pond should be directed to garden beds or to a second
-pond lower on the slope. Mollison emphasizes that water in a permaculture
-system should always flow from higher to lower uses, with each stage
-extracting maximum benefit before the water moves on.
-
-## The Pond as an Educational and Aesthetic Element
-
-Beyond its practical functions, Mollison notes that a small pond adds
-significant aesthetic and educational value to a home landscape. Watching
-frog life cycles, observing dragonflies and birds attracted to the water,
-and seeing the seasonal changes in aquatic vegetation connect gardeners
-to natural rhythms that are absent from conventional landscapes. For
-families with children, a pond is an unparalleled outdoor classroom.
-
-## Integration with Other Zone One Elements
-
-The pond should be designed as part of an integrated zone one system. It
-can be combined with a greenhouse (providing thermal mass and humidity),
-with chicken runs (chickens drink from the pond and eat aquatic plants),
-and with composting systems (pond water can be used to moisten compost).
-This integration ensures that the pond contributes to multiple functions
-within the overall permaculture design.
-## See Also
-
-- [[mollison-pdc-community-legal-structure]]
-
-- mollison-pdc-dam-construction-water-systems
-- permaculture-zone-one-design
-- [[mollison-salicornia-flats-and-estuarine-aquaculture]]
-- [[composting-systems]]
-- [[permaculture-design]]
-- [[bill-mollison]]

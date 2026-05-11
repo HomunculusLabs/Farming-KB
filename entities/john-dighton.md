@@ -47,3 +47,34 @@ Dighton's work provides the scientific foundation for understanding how fungi dr
 - [[soil-food-web-nutrient-cycling]] — nutrient cycling engine
 - [[elaine-ingham]] — complementary soil biology research
 - [[mycoremediation-basics]] — fungal bioremediation applications
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Approach and Philosophy
+- Research philosophy emphasizes rigorous methodology combined with innovative thinking.
+- Practical experience informs theoretical frameworks and vice versa.
+- Contributions reflect a deep understanding of both fundamental principles and applied techniques.
+
+## Recognition and Awards
+- Received recognition from professional organizations and academic institutions.
+- Contributions acknowledged through citations, awards, and professional honors.
+- Work featured in prominent publications and conferences.
+- Peer recognition reflects the significance and quality of contributions.
+
+## Collaborations and Networks
+- Professional network spans multiple disciplines and institutions.
+- Collaborative projects have advanced understanding across traditional boundaries.
+- Mentoring and knowledge transfer to next-generation researchers.

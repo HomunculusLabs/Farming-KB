@@ -88,29 +88,3 @@ Cross-tolerance between psilocybin and other serotonergic psychedelics
 meaning that recent use of one compound will reduce sensitivity to
 another. This phenomenon is attributable to downregulation of 5-HT2A
 serotonin receptors. See [[psilocybin-tolerance-cross-tolerance]] for
-a detailed pharmacological analysis.
-
-## Toxicity Comparison
-
-The guide emphasizes the favorable [[cannabis-safety-profile-and-overdose-risk]] of psilocybin relative
-to other psychoactive compounds. The LD50 in mice is 280 mg/kg of body
-weight, meaning the effective dose is approximately 28 times lower than
-the lethal dose in that species. By comparison, mescaline has a minimum
-effective dose of 200mg and a toxicity 2.5 times that of psilocybin
-(citing Aboul-Enein, 1974). The active alkaloid content of 0.2-0.4% in
-dried mushrooms is variable depending on strain, growing conditions,
-and [[cannabis-harvest-timing-visual-cues]]. See [[psilocybin-toxicity-and-safety-profile]] for
-current safety data.
-
-## Synergistic Substances
-
-The guide briefly mentions that smoking hashish can synergize the
-behind-the-eyelids hallucinations and prolong them, a practice
-consistent with indigenous Mazatec ceremonial traditions where cannabis
-is sometimes used in combination with [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
-
-## Related Topics
-
-- [[oss-oeric-harvesting-and-crop-management]] for harvest timing
-- [[psilocybin-biosynthetic-metabolic-pathway]]
-- [[oss-oeric-growing-parameters-cubensis]]

@@ -18,11 +18,11 @@ sources:
 
 The PF TEK was designed to use common household items and readily available
 supplies from supermarkets, hardware stores, drugstores, and pet shops. This
-accessibility was a core design principle that distinguished the PF TEK from
+accessibility was a core [[design-principle-integration]] that distinguished the PF TEK from
 professional mycological methods requiring specialized laboratory equipment.
 
-The complete materials list is organized into three stages corresponding to
-the major phases of cultivation: jar preparation and culturing, mushroom
+The complete [[oss-oeric-equipment-and-materials-list]] is organized into three stages corresponding to
+the major phases of cultivation: [[jar-preparation-and-sterilization]] culturing, mushroom
 growing and fruiting, and [[mushroom-spore-printing-and-storage]] with syringe making.
 
 ## Stage One: Measuring and Sterilization Equipment
@@ -59,7 +59,7 @@ described as unreliable for the PF TEK and fail easily.
 
 ## Substrate Ingredients
 
-Organic brown rice flour is sourced from health food stores and co-ops. The
+Organic [[brown-rice-flour-substrate]] is sourced from health food stores and co-ops. The
 PF TEK recommends grinding whole brown rice at home using a canister-type
 coffee bean grinder for maximum freshness. Freshly ground brown rice is
 recommended over prepackaged type.
@@ -88,61 +88,3 @@ window insulation. A tight fit is desirable.
 Strips of wood with connectors and screws form the terrarium lid frame. The
 frame can be made of flat unwarped 1/4 inch thick board or 4 wood strips
 connected by screws. Clear polyethylene plastic film and thumb tacks secure
-the lid.
-
-## Humidity and Climate Control
-
-A small wall-type thermometer monitors the terrarium temperature. An
-all-purpose water spray bottle with an adjustable nozzle is described as a
-critical piece of equipment. The PF TEK specifically warns against recycled
-kitchen product sprayers and recommends a quality sprayer from a hardware
-store.
-
-Only a good quality sprayer can immediately supercharge the dual chambered
-terrarium with high humidity. A small low wattage fluorescent plant light will
-make the phototropic mushrooms grow upwards. Leave it on all the time if
-desired. Keep any plant grow light a safe distance from the terrarium.
-
-## Drying Equipment
-
-For drying mushrooms, wire screen, plastic containers or tubs, plastic bags
-with tie-offs, and desiccant are needed. Desiccant sources include Drierite
-from chemical and science supply retailers, silica gel granules, or Damp Gone
-from well-stocked hardware stores.
-
-Desiccant must be preheated before use because newly purchased desiccant is
-usually somewhat damp which will thwart its function for drying air. A 1 inch
-layer of desiccant on the bottom of the container under the mushrooms is
-recommended.
-
-## Stage Three: Spore Printing Materials
-
-Micro curved cuticle scissors from cosmetics or drug stores are used to snip
-mushroom caps for spore printing. Denatured alcohol from hardware stores
-serves as fuel for the alcohol [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] technique.
-
-A tequila shot glass and eye dropper facilitate the flame sterilization
-process. A small Pyrex glass stirring rod from scientific and lab supply
-stores is used to scrape spores into water when making syringes.
-
-Plastic syringes of 10cc or larger capacity with 18 gauge 1.5-inch needles
-are needed. Large-sized syringes up to 65cc and extra long needles are noted
-as useful if available. These items come from retail medical supply,
-pharmacies, drug stores, or scientific and lab supply sources.
-
-## Jar Lid Preparation
-
-The lid is placed with the rubber sealing edge upwards on a supporting
-surface. Using a sharpened 3-penny nail held with vise grip pliers, 4 holes
-## Related Concepts
-
-- pf-tek-substrate-jar-preparation-and-steam-sterilization for jar preparation
-- pf-tek-dual-chamber-terrarium-fruiting-conditions for terrarium assembly
-- [[pf-tek-syringe-sterilization-and-storage]] for [[mushroom-spore-syringe-preparation-and-storage]] and storage
-
-## See Also
-
-- pf-tek-ethyl-alcohol-procurement-guide
-- [[fruiting-chamber]]
-- [[dual-chambered-terrarium-fruiting]]
-- [[sterilization]]

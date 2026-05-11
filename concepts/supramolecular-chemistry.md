@@ -88,33 +88,3 @@ Drug delivery systems use capsules, micelles, hydrogels, or host-guest complexes
 Environmental applications include selective capture of heavy metals, radionuclides, persistent organic pollutants, and greenhouse-relevant gases in porous or macrocyclic materials.
 Self-healing polymers use reversible bonds or host-guest crosslinks so that damaged regions can reconnect after stress is removed.
 Molecular electronics and organic materials exploit ordered assemblies of pi systems to control charge transport, exciton migration, and mechanical anisotropy.
-In analytical chemistry, supramolecular extraction and separation methods can discriminate between closely related ions or isomers.
-
-## Design Principles
-
-Preorganization improves binding when the free host already resembles the bound host, but excessive rigidity can prevent adaptation to real guests.
-Complementarity must include both attractive contacts and the absence of steric or electrostatic conflicts.
-Multivalency can convert weak monovalent interactions into strong and selective binding when several contacts form simultaneously.
-Cooperativity appears when one binding event makes later binding events easier or harder, producing nonlinear response behavior.
-Solvent is never passive: moving a polar guest from water into a hydrophobic cavity can be favorable or unfavorable depending on desolvation and released water molecules.
-Kinetic stability matters when a complex must survive dilution, biological media, or mechanical stress despite a modest equilibrium constant.
-Good supramolecular design therefore requires both structural imagination and quantitative thermodynamics.
-
-## Limitations and Pitfalls
-
-Association constants measured in one solvent or buffer may not translate to another because solvent competition and ionic strength change binding dramatically.
-Apparent strong binding can be an artifact of aggregation, precipitation, nonspecific hydrophobic association, or a poorly chosen fitting model.
-High affinity is not always desirable: sensors and delivery systems often need reversible exchange, not irreversible sequestration.
-Self-assembled systems may be polymorphic, giving different structures from small changes in concentration, temperature, mixing order, impurities, or history.
-Biological applications face additional barriers such as protein adsorption, metabolism, immunogenicity, toxicity, and clearance.
-These limitations make careful controls and orthogonal characterization essential.
-
-## Related Concepts
-
-- Host-guest chemistry
-- Molecular self-assembly
-- Coordination chemistry
-- [[plant-cellulose-and-carbohydrate-chemistry]]
-- [[psychedelic-mushroom-chemistry]]
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

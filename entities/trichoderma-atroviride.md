@@ -22,11 +22,11 @@ created: 2026-04-28
 
 ## Overview
 
-**Trichoderma atroviride** P. Karst. is a filamentous ascomycete fungus renowned for its biocontrol activity against plant pathogenic fungi.
+**Trichoderma atroviride** P. Karst. is a filamentous ascomycete fungus renowned for its biocontrol activity against plant [[cordyceps-insect-pathogenic-fungi]].
 
-It is one of the most extensively studied *Trichoderma* species, functioning as an aggressive mycoparasite, plant growth promoter, and inducer of systemic resistance in crops.
+It is one of the most extensively studied *Trichoderma* species, functioning as an aggressive mycoparasite, plant growth promoter, and inducer of [[endophytic-mycorrhizal-induced-systemic-resistance]] in crops.
 
-The species is widely used in commercial biocontrol formulations and is a model organism for understanding fungal-fungal interactions and [[singh-trichoderma-biocontrol-mechanisms-applications]].
+The species is widely used in commercial biocontrol formulations and is a [[canary-grass-phototropism-model-organism]] for understanding fungal-fungal interactions and [[singh-trichoderma-biocontrol-mechanisms-applications]].
 
 ## Taxonomy and Morphology
 
@@ -49,9 +49,9 @@ Distinguished from *T. harzianum* by conidial ornamentation (smooth vs. finely w
 
 ## Distribution and Habitat
 
-Cosmopolitan distribution found in soils, decaying wood, leaf litter, and rhizosphere zones worldwide.
+[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] found in soils, decaying wood, leaf litter, and rhizosphere zones worldwide.
 
-Particularly abundant in temperate forest soils and agricultural soils with high organic matter content.
+Particularly abundant in temperate forest soils and agricultural soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content.
 
 Isolated from diverse ecological niches including [[staycare-spent-mushroom-compost-bioremediation]], rhizosphere of cereals and vegetables, forest floor litter, and woody debris.
 
@@ -79,7 +79,7 @@ Produces a suite of [[antifungal-secondary-metabolites-coprophilous-fungi]] with
 
 ### Induced Systemic Resistance
 
-Colonization of plant roots triggers jasmonic acid and ethylene signaling pathways, priming the plant's defense responses against subsequent pathogen attack.
+Colonization of plant roots triggers jasmonic acid and ethylene [[plant-signaling-pathways]], priming the plant's defense responses against subsequent pathogen attack.
 
 Treated plants show faster and stronger activation of PR (pathogenesis-related) genes upon challenge by pathogens.
 
@@ -88,31 +88,3 @@ Treated plants show faster and stronger activation of PR (pathogenesis-related) 
 Enhances plant growth through multiple mechanisms:
 
 - Solubilization of phosphate and micronutrients in the rhizosphere
-- Production of indole-3-acetic acid (IAA)-like compounds stimulating root development
-- Increased root hair density and lateral root formation
-- Enhanced nitrogen uptake efficiency
-
-## Applications in Agriculture and Permaculture
-
-Commercial biocontrol products containing *T. atroviride* are registered in the EU, USA, and Asia for management of soilborne diseases including *Rhizoctonia solani*, *Fusarium* spp., *Pythium* spp., *Sclerotinia* spp., and *Botrytis cinerea*.
-
-In permaculture and [[coleman-deep-organic-farming-philosophy]] systems, *T. atroviride* is applied as a soil drench, seed treatment, or compost tea additive.
-
-It integrates well with other [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents and does not persist excessively in the environment.
-
-The species is compatible with mycorrhizal fungi and beneficial rhizobacteria, making it suitable for integrated biological management strategies.
-
-## Related Species
-
-- **Trichoderma harzianum** — most widely used commercial biocontrol agent; similar mechanisms
-- **Trichoderma reesei** — industrial cellulase producer; limited biocontrol activity
-- **Trichoderma viride** — early biocontrol model; produces gliotoxin (toxicity concerns)
-- **Trichoderma koningii** — common soil isolate with moderate biocontrol activity
-
-## See Also
-
-- [[trichoderma-reesei]]
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[soil-food-web]]
-- [[endophytic-mycorrhizal-induced-systemic-resistance]]
-- hypocreales

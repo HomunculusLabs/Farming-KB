@@ -99,6 +99,27 @@ Organise a practice run and formal presentation of the design to the client.
 
 Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Electricity, Food Systems, Forests, Hydro Cycle, Invisible Structures, Passive Design, Plants, Rain Water, Right Livelihood, Soils, Structures, Trees, Water Courses, Water Treatment.
 
+
+## Design Applications
+Permaculture design principles emphasize multi-functional elements,
+efficient energy cycling, and working with natural patterns rather
+than against them. Integration with existing landscape features
+maximizes productivity while minimizing external inputs.
+
+
+## Implementation Notes
+Practical implementation requires site-specific adaptation considering
+local climate, soil conditions, available resources, and the grower's
+experience level. Observation and iterative refinement over multiple
+seasons produce the most resilient and productive systems.
+
+
+## See Also
+- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]
+- [[permaculture-design-process-overview]]
+- [[permaculture-pattern-understanding-design-process]]
+- [[permaculture-garden-design-process]]
+- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
 ## Related
 
 - [[permaculture-zone-and-sector-analysis]]
@@ -107,3 +128,4 @@ Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Elect
 - [[fukuoka-natural-farming-method]]
 - [[permaculture-wildlife-corridors]]
 - [[permaculture-small-and-slow-solutions]]
+

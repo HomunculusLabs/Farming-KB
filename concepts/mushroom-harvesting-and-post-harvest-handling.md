@@ -88,21 +88,3 @@ Expected shelf life at optimal storage (0-4 C): oysters 5-9 days (yellow
 shortest, king oysters up to 14); shiitake 14-21 days (dense flesh and
 natural antimicrobials); buttons 7-14 days; lion mane 7-10 days
 (degrades rapidly with fishy odor when past prime); maitake 5-7 days
-(extremely fragile, prone to browning).
-
-## Drying and Preservation
-
-Drying is the primary long-term preservation method, especially for
-medicinal mushrooms. Air drying below 40 C preserves heat-sensitive
-bioactive compounds like beta-glucans and triterpenes. Dehydrators at
-35-38 C with good airflow produce consistent quality. Shiitake
-traditionally dried at 30-40 C, which enhances umami by converting
-lentinic acid to lentinione. Vacuum sealing in oxygen-barrier bags with
-desiccant packets extends shelf life to 2+ years. See
-[[cancer-medicinal-mushrooms-hericium-erinaceus|medicinal mushroom preservation]] for compound-specific considerations.
-
-## Related Concepts
-
-- [[mushroom-fruiting-conditions]]
-- [[mushroom-harvesting-techniques]]
-- [[mushroom-harvesting-potency]]

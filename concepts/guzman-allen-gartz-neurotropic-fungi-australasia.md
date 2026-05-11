@@ -19,7 +19,7 @@ type: concept
 
 # [[psilocybe-subaeruginosa]]** — perhaps the most iconic Australian neurotropic fungus; first reported by Picker and Richards (1970), subsequently documented by Hall (1973), Southcott (1974), Cleland (1976), Chilton (1978), Margot and Watling (1981), Guzmán (1983), Chang and Mills (1992), and Johnston and Buchanan (1995). This species is closely related to the European P. cyanescens but is a distinct taxon. It grows on wood chips, mulch, and in gardens, and is particularly abundant in the Melbourne area during autumn.
 - **[[psilocybe-semilanceata]]** — the "[[peter-mantle-liberty-cap-chromatographic-discovery-1969]]," also found in Australia; documented by Margot and Watling (1981), Dickinson and Lucas (1983), Redhead (1989), Allen et al. (1991), Guzmán (1995), and Stamets (1996). Its presence in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], far from its European center of distribution, is biogeographically significant.
-- **[[amanita-muscaria-entity]]
+- **[[amanita-muscaria]]
 - [[claviceps-purpurea]]
 ## Practical Applications
 
@@ -88,13 +88,3 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

@@ -9,16 +9,16 @@ sources: []
 
 # Earthbag Building
 
-Earthbag construction uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible natural building methods for homesteaders. (see [[building-with-natural-materials]]).
+[[comparison-earthbag-construction-vs-cob-construction]] uses polypropylene sandbags filled with subsoil to build walls, domes, and vaults. Developed by architect Nader Khalili in the 1990s, this technique is extremely affordable, requires minimal tools, and produces structures that are resistant to earthquakes, floods, hurricanes, and fire. Earthbag building is one of the most accessible [[query-what-are-the-best-natural-building-methods]] for homesteaders.
 
 ## Core Advantages
 
-- Extremely low cost: Bags cost $0.10-0.50 each; fill material is often free
+- Extremely [[coleman-quick-hoops-low-cost-season-extension-structures-design]]: Bags cost $0.10-0.50 each; fill material is often free
 - Simple tools: Only shovels, tampers, buckets, and a level needed
-- Disaster resistant: Flexible walls survive earthquakes; flood-resistant; fireproof
+- [[holzer-disaster-resistant-farming]]: Flexible walls survive earthquakes; flood-resistant; fireproof
 - Fast learning curve: Basic technique can be learned in a weekend workshop
 - Uses local materials: Subsoil from your site, bags, barbed wire
-- Thermal mass: Thick earth walls provide excellent temperature moderation
+- [[comparison-windbreak-vs-thermal-mass]]: Thick earth walls provide excellent temperature moderation
 - No cement required: Pure earth construction with optional lime stabilization
 
 ## Materials
@@ -91,7 +91,7 @@ In areas with moisture problems or poor soil:
 
 ## Dome Building
 
-Earthbag domes are the most dramatic application of this technique. They require no wooden roof structure and create incredibly strong, weatherproof shelter. (see [[straw-bale-construction]]).
+Earthbag domes are the most dramatic application of this technique. They require no wooden roof structure and create incredibly strong, weatherproof shelter.
 
 ### Key Principles
 
@@ -147,4 +147,3 @@ Earthbag walls must be plastered to protect the bags from UV degradation.
 - Interior space: Thick walls reduce interior floor area
 - Moisture sensitivity: Earth walls must be protected from prolonged moisture exposure
 - Bag degradation: Polypropylene eventually degrades — plaster is essential for longevity
-

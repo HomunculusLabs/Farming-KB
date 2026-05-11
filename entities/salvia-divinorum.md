@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Salvia divinorum** Epling & Játiva, commonly known as diviner's sage, ska María Pastora, or simply salvia, is a perennial herbaceous plant in the family Lamiaceae. It is endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divination and healing rituals.
+**Salvia divinorum** Epling & Játiva, commonly known as diviner's sage, ska María Pastora, or simply salvia, is a perennial herbaceous plant in the family Lamiaceae. It is endemic to a small region of the Sierra Mazateca in Oaxaca, Mexico, where it has been used for centuries by Mazatec shamans in divination and [[shamanic-entheogenic-healing-rituals]].
 
 S. divinorum is unique among psychedelic plants in that its primary active compound, salvinorin A, is a non-nitrogenous diterpenoid that acts as a potent and selective κ-opioid receptor (KOR) agonist. It is the most potent naturally occurring psychedelic known, with active doses in the 200–500 µg range when vaporized.
 
@@ -44,7 +44,7 @@ The species was first described scientifically by Carl Epling and Carlos Játiva
 
 **Flowers:** White to blue-violet, arranged in whorls along terminal spikes 20–30 cm long. Corollas are two-lipped (bilabiate), approximately 2–3 cm long. Flowers are rarely produced in cultivation.
 
-**Seeds:** The plant almost never sets viable seed in cultivation, reproducing almost exclusively through vegetative propagation. This has led to a very narrow genetic base among cultivated clones worldwide.
+**Seeds:** The plant almost never sets viable seed in cultivation, reproducing almost exclusively through [[hamilton-vegetative-propagation]]. This has led to a very narrow genetic base among cultivated clones worldwide.
 
 ## Distribution and Habitat
 
@@ -54,7 +54,7 @@ The species grows in shaded, moist ravines and along streambanks in secondary cl
 
 Wild populations are threatened by deforestation and habitat conversion to coffee plantations and cattle pasture. The species is classified as potentially endangered in its native habitat.
 
-Genetic studies of cultivated specimens worldwide have revealed extremely low genetic diversity, consistent with propagation from a very small number of original clones. This narrow genetic base raises concerns about the species' vulnerability to pathogens and environmental stress.
+Genetic studies of cultivated specimens worldwide have revealed extremely low [[biodiversity-fungal-genetic-diversity]], consistent with propagation from a very small number of original clones. This narrow genetic base raises concerns about the species' vulnerability to pathogens and environmental stress.
 
 ## Bioactive Compounds
 
@@ -72,13 +72,13 @@ The psychoactivity of S. divinorum is attributed primarily to neoclerodane diter
 
 Salvinorin A produces an intense but short-acting [[leary-psychedelic-experience-bardo-mapping]] mediated exclusively through κ-opioid receptor activation. This mechanism is fundamentally different from the 5-HT2A-mediated effects of classical psychedelics like psilocybin and LSD.
 
-**Route of administration:** Oral/sublingual absorption of salvinorin A is poor due to rapid enzymatic degradation in the gastrointestinal tract. The traditional Mazatec method of chewing fresh leaves maximizes sublingual absorption. Modern users typically vaporize dried leaf or concentrated salvinorin A extract for rapid pulmonary absorption.
+**[[mushroom-taste-route-of-administration-and-consumption-barriers]]:** Oral/sublingual absorption of salvinorin A is poor due to rapid [[enzymatic-degradation-in-mycoremediation]] the gastrointestinal tract. The traditional Mazatec method of chewing fresh leaves maximizes sublingual absorption. Modern users typically vaporize dried leaf or concentrated salvinorin A extract for rapid pulmonary absorption.
 
 **Effects profile:** The experience is characterized by profound alterations in consciousness, including dissociation, visual hallucinations, altered sense of self, perceived contact with entities, and complete reality dissolution at higher doses. Onset is rapid (30–60 seconds when vaporized), with peak effects at 2–5 minutes and total duration of 15–45 minutes.
 
 **Pharmacokinetics:** Salvinorin A has an extremely short half-life in vivo (approximately 60–90 minutes), consistent with the brief duration of effects. It is rapidly metabolized by hepatic esterases and does not accumulate with repeated dosing.
 
-**Therapeutic potential:** KOR agonism is being investigated as a potential treatment for depression, substance use disorders (particularly cocaine and opioid dependence), and neuropathic pain. Unlike many KOR agonists, salvinorin A does not produce significant sedation or respiratory depression at psychoactive doses.
+**[[metzner-ayahuasca-therapeutic-potential]]:** KOR agonism is being investigated as a potential treatment for depression, substance use disorders (particularly cocaine and opioid dependence), and neuropathic pain. Unlike many KOR agonists, salvinorin A does not produce significant sedation or respiratory depression at psychoactive doses.
 
 ## Cultivation
 
@@ -87,29 +87,3 @@ S. divinorum is propagated almost exclusively through vegetative cuttings due to
 The plant requires high humidity (60–80%), indirect light, and consistently moist but well-drained soil. It is sensitive to both drought and waterlogging. Optimal growth temperature is 18–25°C. It does not tolerate frost and must be protected below 10°C.
 
 Cultivated plants can grow rapidly under favorable conditions, producing multiple harvests per year.
-
-Leaves are harvested and dried at room temperature in darkness to preserve salvinorin A content, which degrades with prolonged UV exposure. Fresh leaves contain the highest concentration of active compounds. Dried leaf potency declines slowly over 1–2 years when stored in cool, dark conditions.
-
-A single healthy plant can produce 50–100 g of dried leaf material per year under optimal [[cannabis-sativa-indoor-cultivation-techniques]] conditions.
-
-## Ethnobotanical Use
-
-The Mazatec people of Oaxaca have used S. divinorum for centuries in ritual contexts. Traditional use involves chewing fresh leaves (the *quid* method) or preparing an aqueous infusion. The plant is used in healing ceremonies (veladas) for divination, diagnosing illness, and spiritual journeying.
-
-Anthropologist R. Gordon Wasson brought S. divinorum to Western attention in the 1950s–1960s. Since then, it has become widely available globally, first as a legal research chemical and later as a controlled substance in many jurisdictions.
-
-## Legal Status
-
-Salvia divinorum and salvinorin A are controlled in a growing number of countries, though regulatory status varies significantly by jurisdiction. As of 2024, the plant is controlled in Australia, Belgium, Denmark, Finland, Germany, Italy, Japan, Latvia, Poland, Romania, South Korea, Sweden, and numerous US states.
-
-In the United States, salvinorin A is not federally scheduled, but the DEA has listed it as a "chemical of concern." Over 30 US states have enacted their own restrictions, ranging from age limits to full prohibition.
-
-The rapid scheduling response has been criticized by researchers who argue that salvinorin A's unique KOR mechanism makes it a valuable tool for studying consciousness and developing novel therapeutics for addiction and depression.
-
-## See Also
-
-- [[psilocybe-semilanceata]]
-- [[mimosa-hostilis]]
-- [[valeriana-officinalis]]
-- [[ocimum-basilicum]]
-- [[salvia-officinalis]]

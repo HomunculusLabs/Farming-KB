@@ -21,7 +21,7 @@ sources:
 
 Lysimachia ephemerum is a herbaceous perennial in the family Primulaceae, commonly known as willowleaf loosestrife or loosestrife of the Pyrenees. It is native to mountainous regions of southwestern Europe.
 
-The plant combines the architectural qualities of ornamental grasses with attractive summer blooms. This dual ornamental value has made it increasingly sought after by garden designers.
+The plant combines the architectural qualities of [[ornamental-grasses-guide]] with attractive summer blooms. This dual ornamental value has made it increasingly sought after by garden designers.
 
 The species' tolerance of heavy, moisture-retentive soils sets it apart from many other ornamental perennials that require sharper drainage. This adaptability expands its usefulness in difficult garden situations.
 
@@ -39,7 +39,7 @@ Mature clumps can produce 20 to 40 flowering stems simultaneously, creating an i
 
 Leaves are lanceolate to linear-lanceolate, measuring 5–15 cm long and 0.5–1.5 cm wide. They are arranged in whorls of three to six at regular intervals along the stem.
 
-The leaf surface is dark green and hairless above, with a paler green underside. Leaf margins are entire or very finely toothed toward the tip.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and hairless above, with a paler green underside. Leaf margins are entire or very finely toothed toward the tip.
 
 The inflorescence is a terminal spike, 10–30 cm long, bearing numerous star-shaped flowers. Each flower is 10–15 mm in diameter with five white petals and a yellow-green center.
 
@@ -53,13 +53,13 @@ Seeds are brown, oval, and approximately 1 mm in length. They require light for 
 
 Lysimachia ephemerum is native to the Pyrenees, the Cantabrian Mountains of northern Spain, and adjacent mountain ranges in southwestern France. It occurs at elevations of 800–2,200 meters.
 
-The species grows in damp mountain meadows, along stream banks, and in moist rocky areas. It prefers open, sunny situations with consistently moist soil throughout the growing season.
+The species grows in damp mountain meadows, along stream banks, and in moist rocky areas. It prefers open, sunny situations with consistently moist soil throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Its native range is relatively restricted compared to other European Lysimachia species. The species is locally abundant within its range but is not found outside the Pyrenean-Cantabrian region.
 
 The plant is adapted to mountain climates with cool summers and reliable precipitation. It tolerates winter cold well but may struggle in areas with hot, dry summers.
 
-Populations in the wild are considered stable, though some local populations have declined due to changes in traditional mountain pastoralism and meadow management.
+Populations in the wild are considered stable, though some local populations have declined due to changes in [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] pastoralism and meadow management.
 
 The species is protected in parts of its native range under regional conservation legislation. Collection from wild populations is discouraged in favor of cultivated sources.
 
@@ -67,13 +67,13 @@ The species is protected in parts of its native range under regional conservatio
 
 Lysimachia ephemerum is hardy to USDA zone 5 and is cultivated as an ornamental perennial for mixed borders and naturalistic plantings. It requires full sun to partial shade and moist soil.
 
-The species performs best in fertile, moisture-retentive soils that do not dry out in summer. Incorporating organic matter at planting time helps maintain adequate moisture levels.
+The species performs best in fertile, moisture-retentive soils that do not dry out in summer. Incorporating [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] at planting time helps maintain adequate moisture levels.
 
 Propagation is most commonly by seed, sown in containers in autumn. Division of established clumps in spring is also effective and produces flowering-sized plants more quickly.
 
 The grass-like foliage remains attractive throughout the growing season, providing vertical structure even before flowering begins. This ornamental quality is valued in mixed perennial plantings.
 
-The species is relatively free of pests and diseases in cultivation. Rust fungi may occasionally affect the foliage in humid conditions, though this rarely impacts plant vigor.
+The species is relatively free of [[mushroom-pests-and-diseases]] in cultivation. Rust fungi may occasionally affect the foliage in humid conditions, though this rarely impacts plant vigor.
 
 Cutting back spent flower stems in autumn tidies the plant and prevents unwanted self-seeding. The basal foliage persists into winter in mild climates.
 
@@ -88,34 +88,3 @@ Lysimachia ephemerum is pollinated by bees, butterflies, and hoverflies attracte
 The sequential opening of flowers along the spike extends the nectar availability over several weeks. This prolonged flowering benefits both the plant and its pollinator visitors.
 
 In mountain meadow ecosystems, the species contributes to the late-season floral diversity. Its upright growth form provides structural habitat for small invertebrates.
-
-The seeds are dispersed by wind and by attachment to animal fur. The small, light seeds can travel considerable distances from the parent plant in open, windy mountain habitats.
-
-Lysimachia ephemerum is not known to be invasive, though its adaptability to moist garden conditions has allowed it to persist in semi-natural habitats near cultivated sites. This is not considered a conservation concern.
-
-## Cultural Significance
-
-Lysimachia ephemerum was introduced to British horticulture in the early twentieth century and has steadily gained popularity among perennial plant enthusiasts. Its elegant appearance suits contemporary garden design aesthetics.
-
-The Award of Garden Merit from the Royal Horticultural Society recognizes its outstanding garden qualities. It is widely available from specialist nurseries and is increasingly stocked by general garden centers.
-
-The species is featured prominently in the naturalistic planting designs associated with the New Perennial Movement. Designers value its vertical accent, late bloom time, and compatibility with ornamental grasses.
-
-In its native Pyrenean region, Lysimachia ephemerum is a characteristic component of subalpine meadow communities. It contributes to the distinctive flora of the Pyrenees, one of Europe's most botanically rich mountain ranges.
-
-The species has been studied for its phytoremediation potential in constructed wetlands. Its ability to thrive in waterlogged soils while producing substantial above-ground biomass makes it a candidate for nutrient removal systems.
-
-Research has shown that Lysimachia ephemerum can accumulate moderate levels of nitrogen and phosphorus from contaminated water. These findings support its potential use in ecological wastewater treatment systems.
-
-## See Also
-
-- [[lysimachia-vulgaris]]
-- [[lysimachia-punctata]]
-- [[lysimachia-nummularia]]
-- [[lysimachia-terrestris]]
-- [[lysimachia-clethroides]]
-- [[primula-vulgaris]]
-- [[anagallis-arvensis]]
-- [[dodecatheon-meadia]]
-- [[lysimachia-nemorum]]
-- [[cyclamen-hederifolium]]

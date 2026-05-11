@@ -1,5 +1,5 @@
 ---
-title: "Darwin's Phototropism Experiments"
+title: Darwins Phototropism Experiments
 created: 2026-05-02
 updated: 2026-05-08
 type: concept
@@ -17,7 +17,7 @@ The book was widely read and influenced a generation of plant biologists, even a
 
 ## The 1880  Experiment
 
-The centerpiece of Darwin's phototropism research was a deceptively simple experiment using canary grass (*Phalaris canariensis*) seedlings.
+The centerpiece of Darwin's phototropism research was a deceptively simple experiment using [[canary-grass-phototropism-model-organism]] (*Phalaris canariensis*) seedlings.
 
 The procedure was meticulously controlled. Seedlings were grown in complete darkness to eliminate any prior light exposure. They were then illuminated by a dim gas lamp placed twelve feet away for a period of three hours.
 
@@ -43,7 +43,7 @@ The pattern was clear: if the tip could "see" the light, the plant bent. If the 
 
 These five conditions led Darwin to a crucial distinction: the site of [[plant-vision-and-light-perception-mechanisms]] and the site of the bending response are physically separated.
 
-The tip of the seedling acts as the sensory organ — [[julius-von-sachs-blue-light-phototropism-discovery]] and Blue Light
+The tip of the seedling acts as the sensory organ — [[julius-von-sachs-blue-light-phototropism-discovery]] [[cryptochrome-and-blue-light-photoreception]]
 
 Darwin's experiments built upon earlier work by the German botanist [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs.
 
@@ -51,9 +51,9 @@ In 1864, Sachs made an important discovery that complemented Darwin's findings: 
 
 Sachs demonstrated that when plants were exposed to different colors of light, only blue light triggered the bending response. Other colors — including red and green — had little or no effect.
 
-This specificity implied that plants possess a specialized photoreceptor tuned to blue wavelengths, much like specific visual pigments in animal eyes respond to particular ranges of light.
+This specificity implied that plants possess a specialized photoreceptor tuned to blue wavelengths, much like specific [[human-photoreception-rods-cones-and-visual-pigments]] in animal eyes respond to particular ranges of light.
 
-Sachs' discovery of blue light as the phototropic stimulus added a layer of precision to the understanding of plant light perception.
+Sachs' discovery of blue light as the phototropic stimulus added a layer of precision to the understanding of [[darwin-phototropism-discovery-plant-light-perception]].
 
 Combined with Darwin's work showing that the tip was the perceptive organ, it became clear that plants were not simply responding to heat or general illumination — they were detecting specific qualities of light in a specific location on their bodies.
 
@@ -63,7 +63,7 @@ The concept that plants can "see" is central to 's *What a Plant Knows*. Chamovi
 
 While plants do not have eyes, brains, or nervous systems, they nonetheless possess photoreceptors — proteins that absorb light and initiate biochemical signaling cascades.
 
-Darwin's five-condition experiment demonstrates several hallmarks of sensory perception: the detection of a stimulus (light), the localization of that detection (the tip), and the transmission of a signal to produce a coordinated response (bending).
+Darwin's five-condition experiment demonstrates several hallmarks of [[plant-sensory-perception]]: the detection of a stimulus (light), the localization of that detection (the tip), and the transmission of a signal to produce a coordinated response (bending).
 
 In Chamovitz's framing, this constitutes a form of vision — not in the anthropomorphic sense, but in the functional sense of using light to gather information about the environment.
 
@@ -88,35 +88,3 @@ Finally, these experiments continue to resonate in contemporary plant science. M
 Darwin's observation of a transmitted "influence" from tip to bending
 region anticipated the discovery of auxin by six decades. Modern
 molecular biology has identified the specific photoreceptors involved —
-phototropins (phot1 and phot2) — which are blue-light-activated
-serine/threonine kinases localized in the coleoptile tip.
-
-The [[fungal-environmental-sensing-signal-transduction-read]] pathway from phototropin activation to
-differential [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] is now mapped in considerable detail.
-Blue light triggers phototropin autophosphorylation, which activates
-NPH3 and PKS proteins, leading to asymmetric redistribution of the
-auxin efflux carrier PIN3 and differential auxin accumulation on the
-shaded side of the stem.
-
-Recent work on the auxin signaling network shows that Darwin's
-"influence" is actually a gradient of indole-3-acetic acid that
-modulates gene expression through the TIR1/AFB receptor system and
-ARF transcription factors, controlling cell wall loosening enzymes
-that drive asymmetric growth.
-
-Comparative genomics has revealed that phototropin-based phototropism
-is conserved across land plants, from mosses and ferns to angiosperms,
-indicating that the basic sensory logic Darwin uncovered is an ancient
-and fundamental feature of plant biology.
-
-## Sources
-
-- Chamovitz, Daniel. *What a Plant Knows: A [[ghouled-field-guide-historical-context]] to the Senses*. Scientific American / Farrar, Straus and Giroux, 2012.
-
-- Darwin, Charles, and Francis Darwin. *The [[darwin-power-of-movement-in-plants]] in Plants*. John Murray, 1880.
-
-- Sachs, Julius von. *Handbuch der Experimental-Physiologie der Pflanzen*. Wilhelm Engelmann, 1865.
-
-## See Also
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-photoreceptors-and-mechanism-of-light-perception]]

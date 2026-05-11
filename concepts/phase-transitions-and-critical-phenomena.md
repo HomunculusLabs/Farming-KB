@@ -4,7 +4,7 @@ created: 2026-04-28
 updated: 2026-05-06
 aliases: [phase transitions, critical phenomena, critical exponents, universality, renormalization group]
 tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materials-science]
-related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equations]
+related: [[laws-of-thermodynamics]], [[heat-transfer-mechanisms]], [[navier-stokes-equations]]
 type: concept
 sources: []
 ---
@@ -88,46 +88,3 @@ RG quantitative in 1971 (Nobel Prize 1982) by integrating out short-wavelength f
 
 Under successive RG transformations, coupling constants flow through parameter space. Fixed points of this flow correspond to scale-invariant critical
 points. Relevant perturbations (growing under RG) drive the system away from criticality and determine critical exponents; irrelevant perturbations
-(shrinking) do not affect critical behavior; marginal perturbations produce logarithmic corrections. The ε-expansion computes exponents as power
-series in ε = 4 − d: γ = 1 + (n+2)/(n+8) · ε/6 + O(ε²), giving good approximations at ε = 1 (d = 3). The upper critical dimension is d_c = 4; above
-it, mean-field exponents are exact.
-
-## Experimental Realizations
-
-The liquid-gas critical point (e.g., water: T_c = 647 K, P_c = 22.1 MPa) belongs to the 3D Ising universality class. Near the critical point, critical
-opalescence (turbidity from density fluctuations at all scales), diverging compressibility, and diverging correlation length are observed.
-Ferromagnetic transitions at the Curie temperature (Fe: T_C = 1043 K; Ni: 627 K) belong to the 3D Heisenberg class for isotropic magnets or 3D Ising
-for uniaxial magnets. Superconductivity, described by BCS theory (1957), involves Cooper pair formation breaking U(1) gauge symmetry; conventional
-superconductors exhibit mean-field critical behavior because the coherence length greatly exceeds the lattice spacing.
-
-The superfluid transition in ⁴He at T_λ ≈ 2.17 K belongs to the 3D XY universality class, with a two-fluid model (normal component ρ_n and superfluid
-component ρ_s). Bose-Einstein condensation (first achieved in dilute atomic gases in 1995, Nobel Prize 2001) below T_c has a macroscopic occupation of
-the ground state, described by the Gross-Pitaevskii equation with weak interactions.
-
-## Modern Topics
-
-The Kosterlitz-Thouless (KT) transition (1973, Nobel Prize 2016) is a topological phase transition in the 2D XY model. The Mermin-Wagner theorem
-forbids conventional long-range order at T > 0 in 2D with continuous symmetry, but the KT transition separates a low-T quasi-ordered phase (power-law
-correlations) from a high-T disordered phase (exponential correlations), driven by vortex-antivortex pair unbinding. The transition exhibits essential
-singularities rather than power laws: ξ ~ exp(a/√(T − T_KT)).
-
-Topological phase transitions involve changes in topological invariants (Chern number, Z₂ invariant) rather than local order parameters, and cannot be
-described by Landau theory. The quantum Hall transition between plateaus has ν ≈ 2.33 with multifractal critical wavefunctions. Quantum critical
-points (QCPs) are zero-temperature transitions driven by non-thermal parameters, where the effective dimensionality is d_eff = d + z (z = dynamic
-critical exponent). The quantum critical region at finite T exhibits non-Fermi liquid behavior, observed in heavy fermion compounds and high-T_c
-cuprates.
-
-## Applications in Materials Science and Engineering
-
-Phase diagrams are essential for alloy design — the CALPHAD method uses thermodynamic databases to predict multi-component phase equilibria. Critical
-phenomena near eutectic points govern microstructure (lamellar spacing, grain refinement). Superconducting materials engineering (Nb-Ti, Nb₃Sn for MRI
-magnets; YBCO for power transmission) relies on understanding the phase diagram including the pseudogap and strange metal phases. Martensitic
-transformations in shape-memory alloys (NiTi) are first-order diffusionless transitions exploited in medical stents and actuators. Ferroelectric
-transitions in perovskites (BaTiO₃, PZT) are used in capacitors, sensors, and piezoelectric devices. Understanding the glass transition controls
-processing of metallic glasses, oxide glasses, and polymers for exceptional strength and elasticity.
-
-## See Also
-
-- [[agaricus-phase-i-composting]]
-
-- [[navier-stokes-equations]]

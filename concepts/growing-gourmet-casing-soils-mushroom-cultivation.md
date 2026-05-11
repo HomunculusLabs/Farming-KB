@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -87,63 +88,3 @@ content is ideal and can be tested by measuring the moisture lost from
 a sample dried in a hot oven.
 
 ## Application
-
-Once wetted, the casing is applied to the top of a substrate, but only
-after it has been thoroughly colonized with mycelium. Typically, a
-one-inch layer of casing soil is placed onto 4-10 inches of myceliated
-substrate. Casing soils are best used with tray, bag, or outdoor mound
-culture.
-
-## pH Management
-
-The standard formula gives pH readings from 7.5-8.5 after make-up. As
-the mushroom mycelium colonizes the casing layer, pH gradually falls.
-For some acid-loving species mentioned in the growing-gourmet source,
-calcium carbonate should be excluded. Typically, the chalk-free mixture
-gives pH readings from 5.5-6.5.
-
-## Alternative Casing Materials
-
-"Water crystals," a water-capturing plastic, have been tried as a
-casing component with varying results. These crystals can absorb up to
-400 times their weight in water and do not support contaminants, two
-desirable characteristics. Unfortunately, the fact that water crystals
-are not fully biodegradable and cannot be easily recovered from the
-spent substrate greatly limits their acceptance by environmentally
-astute growers.
-
-Starch-based water absorbents tend to clump and must be added with an
-aggregate. Cultivators must weigh these factors when designing the
-casing mixture. A synthetic casing material composed of water crystals
-and vermiculite with a bacterially enriched water solution has also been
-explored.
-
-## Gypsum: Calcium Sulfate
-
-Gypsum may affect pH by 1/2 of a point. Its pH-altering ability is
-minor until the sulphur evolves into sulfuric acid. Calcium and sulphur
-are essential elements in mushroom metabolic processes. If the substrate
-is lacking in these essential elements, yields are adversely affected.
-Shiitake, in particular, benefits from the addition of calcium sulfate
-to sawdust substrates.
-
-## The Primordia Formation Connection
-
-Mushroom formation is primarily a surface phenomenon. The atmosphere of
-the growing room has to be altered to affect a temperature change in the
-substrate. As a substrate is colonized with mycelium, heat is released
-as a by-product. After colonization is complete, heat generation abates,
-and internal temperatures naturally decline to nearly equal with air
-temperature. This is the ideal time to apply casing and synchronize the
-other factors favorable to mushroom formation. The casing layer provides
-the microclimate necessary for this critical transition.
-## Related
-
-- [[cotter-casing-soils-microbial-triggers]]
-
-- [[gourmet-mushroom-polypore-cultivation]]
-- [[growing-gourmet-thermogenesis-mushroom-cultivation]]
-- [[growing-gourmet-iconic-types-mushroom-mycelium]] Topics
-
-- [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-shaggy-mane-coprinus-cultivation]]

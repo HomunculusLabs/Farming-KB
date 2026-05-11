@@ -1,6 +1,6 @@
 ---
 title: Plant Mechanosensation — How Plants Feel Touch, Wind, and Vibration
-source: What a Plant Knows (Daniel Chamovitz, 2012)
+source: What a Plant Knows ([[daniel-chamovitz]], 2012)
 concepts: [mechanosensation, thigmomorphogenesis, thigmotropism, venus-flytrap, mimosa-pudica]
 ---
 
@@ -15,7 +15,7 @@ a tree trunk in constant wind, plants demonstrate that feeling is not exclusive 
 
 ## The Venus Flytrap: Fastest Plant on Earth
 
-The Venus flytrap (*[[dionaea-muscipula]]*) demonstrates the most dramatic touch response
+The Venus flytrap (*[[dionaea-muscipula]]*) demonstrates the most dramatic [[plant-mechanosensation-thigmomorphogenesis-touch-response]]
 in botany. Its trap consists of two lobes, each lined with three trigger hairs. When
 an insect brushes a single hair, the plant records a first **action potential** — an
 electrical signal propagating through the trap tissue at roughly 10 cm/s. A second
@@ -28,7 +28,7 @@ touch and remember the first stimulus long enough to compare it with a second �
 process involving calcium ion (Ca²⁺) accumulation in trap cells. Once the calcium
 concentration exceeds a critical threshold, the trap fires.
 
-The snap relies on **turgor pressure** changes at extraordinary speed. Cells on the
+The snap relies on **[[bloomfield-turgor-pressure-and-hyphal-invasion]]** changes at extraordinary speed. Cells on the
 outer lobe surface rapidly expand while inner cells contract, flipping the trap from
 convex to concave geometry in under 100 milliseconds — among the fastest movements in
 the plant kingdom. After capture, the trap tightens, secretes digestive enzymes, and
@@ -36,7 +36,7 @@ absorbs nutrients over several days before reopening.
 
 ## Mimosa Pudica: The Sensitive Plant
 
-The sensitive plant (*Mimosa pudica*) folds its leaflets and droops its petioles within
+The sensitive plant (*[[mimosa-pudica]]*) folds its leaflets and droops its petioles within
 seconds of being touched. This response, known as *seismonasty*, operates through
 specialized motor organs called **pulvini** at the base of each leaflet and petiole.
 Pulvini function as hydraulic joints: upon stimulation, cells on one side rapidly lose
@@ -76,7 +76,7 @@ monitor their mechanical environment and adjust growth programs proactively.
 
 Climbing plants such as peas, cucumbers, and passionflowers use tendrils — specialized
 thread-like organs — to locate and grasp supports. Tendrils undergo **circumnutation**,
-a rhythmic sweeping motion driven by differential growth rates that increases contact
+a rhythmic sweeping motion driven by differential [[coleman-sunlight-and-winter-crop-growth-rates]] that increases contact
 probability. This exploratory behavior is endogenous: tendrils sweep even without
 external stimuli.
 
@@ -87,64 +87,3 @@ contact, a "free coiling" phase occurs between support and stem, forming a sprin
 absorbs wind sway and prevents connection failure.
 
 ## Root Thigmotropism
-
-Roots exhibit their own touch sensitivity. When a growing root tip encounters an
-obstacle, it senses mechanical resistance and **redirects growth around the barrier**.
-Root cap cells serve as primary mechanosensors. When compressed, they release signals
-altering auxin distribution across the root tip, redirecting cell elongation. Roots
-also exhibit touch memory: after encountering a barrier, the tip may continue at a
-modified angle even after the obstacle is removed.
-
-## Do Plants Hear? The Sound and Vibration Question
-
-Chamovitz addresses whether plants perceive sound. While plants lack auditory organs,
-certain vibration frequencies trigger defensive responses. Studies on *Arabidopsis*
-found that recorded caterpillar chewing sounds prompted [[fukuoka-textdoc-increased-production-not-increased-yields]] of
-glucosinolates and volatile oils.
-
-However, it remains debated whether plants respond to airborne sound waves or to
-substrate-borne mechanical vibrations. If only substrate vibration, this falls within
-mechanosensation rather than audition. Chamovitz is cautious: while vibration sensitivity
-is established, calling it "hearing" may be anthropomorphic. What is clear is that
-plants detect herbivore attack vibrational signatures and mount defenses — functionally
-analogous to hearing even if the mechanism is purely mechanical.
-
-## Frank Salisbury and Leaf Movement Rhythms
-
-Frank B. Salisbury conducted pioneering work on plant biological rhythms, including
-daily leaf opening and closing (nyctinasty). While primarily driven by circadian clocks
-and light, Salisbury showed that mechanical perturbation could entrain or disrupt these
-rhythms. Leaf movements could be phase-shifted by stimulation at specific cycle points,
-revealing interplay between mechanosensory inputs and endogenous timing mechanisms.
-His work laid groundwork for understanding how multiple sensory modalities converge
-in plant behavior.
-
-## Practical Implications
-
-Understanding plant mechanosensation has direct [[chamovitz-photoperiodism-agricultural-applications]]. In
-greenhouses, excessive fan-driven wind triggers thigmomorphogenic responses that reduce
-yields by redirecting resources from fruit production to structural reinforcement.
-
-Conversely, controlled mechanical stimulation — "brushing" — is used in nurseries to
-produce stockier seedlings. Passing a wand over seedlings daily triggers enough
-thigmomorphogenesis to strengthen stems without significantly reducing yield. Indoor
-cultivators should note that plants in still environments produce elongated, fragile
-stems; an oscillating fan can dramatically improve stem strength by simulating wind.
-
-## Molecular Basis: Mechanosensitive Ion Channels
-
-At the cellular level, mechanosensation is mediated by **mechanosensitive (MS) ion
-channels** in the plasma membrane. These channels operate through the **force-from-
-lipids** model: physical membrane tension directly gates the channel open, allowing
-Ca²⁺ to flood the cytoplasm. This calcium spike activates calcium-dependent protein
-kinases (CDPKs) and transcription factors that reprogram gene expression within minutes.
-
-MS channels are conserved across all domains of life, from bacteria to humans,
-underscoring that mechanosensation is a fundamental cellular capability — not an
-invention of animal nervous systems. Plants deploy these ancient [[molecular-tools-bioremediation]] from
-the sub-second snap of a carnivorous trap to the gradual thickening of a tree trunk.
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]] — How plants detect and respond to light across the spectrum
-- [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] — How plants measure day length to time flowering and seasonal responses

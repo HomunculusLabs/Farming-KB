@@ -33,9 +33,9 @@ The best native nitrogen-fixing plants for North American permaculture food fore
 Nitrogen is the most commonly limiting nutrient in temperate food forests. While many permaculture designs rely on nitrogen-fixing legumes, not all species are equally valuable. Native nitrogen fixers offer several advantages over introduced species:
 
 1. **Effective local rhizobial partnerships** — native plants co-evolved with local rhizobia, often nodulating more reliably and fixing more nitrogen than non-natives with mismatched symbionts
-2. **Wildlife food and habitat** — native species support native pollinators, birds, and [[beneficial-insects-guide]] in ways that exotics often cannot
+2. **Wildlife food and habitat** — native species [[query-how-to-attract-and-support-native-bee-pollinators]] pollinators, birds, and [[beneficial-insects-guide]] in ways that exotics often cannot
 3. **Invasiveness risk** — non-native nitrogen fixers (Scotch broom, Russian olive, autumn olive, kudzu) are among the most damaging invasive plants in North America; using natives eliminates this risk
-4. **Climate adaptation** — natives are matched to local rainfall, temperature, and soil conditions
+4. **[[jeavons-climate-adaptation-growing-seasons]]** — natives are matched to local rainfall, temperature, and soil conditions
 5. **Regulatory compliance** — some jurisdictions restrict planting of known invasive nitrogen fixers
 
 ## Top Native Nitrogen Fixers by Food Forest Layer
@@ -56,7 +56,7 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **Range:** Eastern and central North America (native to Appalachia and Ozarks; widely naturalized)
 - **Size:** 15–25 m; extremely fast-growing; coppices vigorously
 - **N-fixation:** Rhizobial; 60–150 kg N/ha/year
-- **Food forest role:** Coppice-firewood, durable fence posts, nitrogen-pumping nurse tree, bee forage (one of the best honey plants in eastern North America)
+- **Food forest role:** Coppice-firewood, durable fence posts, nitrogen-pumping nurse tree, bee forage (one of the best honey plants in [[polypore-fungi-eastern-north-america]])
 - **Additional benefits:** Extremely rot-resistant wood; valuable for hugelkultur; flower nectar
 - **Caveats:** Thorny; spreads aggressively by root suckers; considered invasive outside its native range in some areas
 
@@ -67,14 +67,14 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **N-fixation:** Rhizobial; moderate (20–50 kg N/ha/year)
 - **Food forest role:** Dappled shade tree for understory crops; pod drop provides livestock fodder (thornless cultivars available); excellent in silvopasture
 - **Additional benefits:** Thornless cultivars ('Morris', 'Calhoun') make excellent food forest trees; pods are sweet and edible; deep taproot breaks compaction
-- **Caveats:** Variable nitrogen fixation (some strains fix poorly); thorny wild types are dangerous
+- **Caveats:** Variable [[biological-nitrogen-fixation-agriculture]] (some strains fix poorly); thorny wild types are dangerous
 
 #### Buffaloberry / Silver Buffaloberry (*Shepherdia argentea*)
 
 - **Range:** Great Plains and interior West, from Canada to New Mexico
 - **Size:** 2–6 m shrub or small tree; very drought-tolerant
 - **N-fixation:** Actinorhizal (*Frankia*); moderate rates
-- **Food forest role:** Windbreak, erosion control, wildlife food (silvery berries eaten by birds), edible tart berries for jams
+- **Food forest role:** Windbreak, [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]], wildlife food (silvery berries eaten by birds), edible tart berries for jams
 - **Additional benefits:** Extremely cold-hardy (Zone 2); nitrogen-fixing in alkaline soils (rare); dioecious — plant both sexes for fruit
 - **Caveats:** Thorny; tart fruit requires sweetening
 
@@ -132,7 +132,7 @@ Nitrogen is the most commonly limiting nutrient in temperate food forests. While
 - **Range:** Eastern and central North America
 - **Size:** 0.3–1.5 m; annual or short-lived perennial
 - **N-fixation:** Rhizobial; significant
-- **Food forest role:** Annual nitrogen-fixing [[cover-crop]] for food forest establishment; self-seeds readily; excellent for filling gaps during early succession
+- **Food forest role:** Annual nitrogen-fixing [[cover-crop]] for [[food-forest-establishment]]; self-seeds readily; excellent for filling gaps during early succession
 - **Additional benefits:** Larval host for cloudless sulfur and sleepy orange butterflies; excellent pollinator plant; deer-resistant
 - **Caveats:** Annual (dies back each year); can be aggressive in open areas
 

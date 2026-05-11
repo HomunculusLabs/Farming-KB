@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-lichenized-fungi-symbiosis]] Diversity
+title: Lichenized Fungi Diversity
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -39,10 +39,10 @@ Lichens colonize an extraordinary range of habitats:
   worldwide.
 - **Soil** (terricolous): Arctic tundra to tropical savannas.
 - **Leaves** (foliicolous): Especially diverse in humid tropics.
-- **Wood** (lignicolous): Decaying logs and stumps.
+- **Wood** (lignicolous): Decaying [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]].
 ### Sensitivity to Air Quality
 Many lichens are highly sensitive to air pollution, particularly
-sulfur dioxide and nitrogen compounds. Lichen community composition is
+sulfur dioxide and nitrogen compounds. Lichen [[core-endorhiza-bacterial-community-composition-cannabis]] is
 widely used as a bioindicator. Pollution-sensitive species decline in
 contaminated areas, while tolerant species may persist.
 ## Growth Forms
@@ -61,12 +61,12 @@ lichens cannot.
 Cyanolichens (8-10% of species) are ecologically significant nitrogen
 sources. Cyanobacterial partners fix atmospheric nitrogen through the
 nitrogenase enzyme, converting N2 to ammonium available to the
-surrounding ecosystem. In Pacific Northwest old-growth forests,
-cyanolichens such as Lobaria oregana contribute an estimated 2-5 kg
+surrounding ecosystem. In [[psilocybin-north-america-pacific-northwest]] old-growth forests,
+cyanolichens such as [[lobaria-oregana]] contribute an estimated 2-5 kg
 N/ha/year, a significant input in nitrogen-limited ecosystems.
 ## Reproductive Biology
 Lichen reproduction involves complex coordination between partners:
-- **Sexual reproduction:** Many ascomycetes produce apothecia or
+- **[[basidiomycete-mating-systems-sexual-reproduction]]:** Many ascomycetes produce apothecia or
   perithecia with ascospores. After dispersal, the spore must
   encounter a compatible photobiont. This dual-dispersal requirement
   makes successful sexual reproduction relatively rare.
@@ -75,7 +75,7 @@ Lichen reproduction involves complex coordination between partners:
   allow simultaneous dispersal. Species producing abundant soredia
   tend to be better colonizers and more widely distributed.
 ## Secondary Chemistry
-Lichens produce over 1,000 secondary metabolites ("lichen acids"),
+Lichens produce over 1,000 [[antifungal-secondary-metabolites-coprophilous-fungi]] ("lichen acids"),
 almost exclusively from the fungal partner:
 - **Anti-herbivory:** Bitter or toxic compounds deter grazers.
   Reindeer avoid lichens with high usnic acid in summer.
@@ -88,21 +88,3 @@ almost exclusively from the fungal partner:
 ## Biomonitoring
 Lichens are among the most widely used biological indicators:
 - **Air quality indices:** The IAP (Index of Atmospheric Purity)
-  correlates lichen diversity with SO2, NOx, and particulate levels.
-- **Heavy metal accumulation:** Transplanted lichens accumulate metals
-  proportionally to atmospheric deposition rates.
-- **Radiocesium monitoring:** Following Chernobyl and Fukushima,
-  lichens mapped radiocesium deposition efficiently.
-- **Climate change:** Monitoring reveals upslope migration, range
-  expansion of warm-adapted species, and decline of cold-adapted
-  Arctic-alpine species.
-## Conservation Concerns
-Lichens face threats from habitat destruction, air pollution, climate
-change, and collecting pressure. Old-growth forests support distinctive
-lichens lost when forests are logged. Some species are extremely rare,
-known from only a few localities worldwide.
-## Related
-- [[mitosporic-fungi-diversity-species-estimates]]
-- [[fungal-conservation-endangered-species]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[lichenized-fungi-biology-ecology-diversity]]

@@ -35,7 +35,7 @@ aliases:
 
 ## Overview
 
-**Guadua angustifolia** is the largest and most economically important bamboo species in the Americas, native to tropical and subtropical regions of Central and South America. It is a clumping bamboo that forms dense stands of massive, timber-grade culms reaching 20–30 m in height and 10–20 cm in diameter. The species is the principal construction bamboo of Latin America, used for centuries in housing, bridges, scaffolding, and furniture.
+**Guadua angustifolia** is the largest and most economically important bamboo species in the Americas, native to tropical and subtropical regions of Central and [[guzman-psilocybin-mushrooms-south-america]]. It is a clumping bamboo that forms dense stands of massive, timber-grade culms reaching 20–30 m in height and 10–20 cm in diameter. The species is the principal construction bamboo of Latin America, used for centuries in housing, bridges, scaffolding, and furniture.
 
 *Guadua angustifolia* is often called "vegetable steel" due to the exceptional tensile strength of its culm fibers, which rivals that of mild steel on a weight-for-weight basis. It is the national bamboo of Colombia and plays a central role in the architectural traditions of the Coffee Axis (Eje Cafetero) region.
 
@@ -61,7 +61,7 @@ Internodes are 30–50 cm long, cylindrical to slightly flattened, with a conspi
 
 **Rhizomes:** Pachymorph (clumping type), forming a dense, compact root mass. Unlike running bamboos, *Guadua* does not spread invasively, making it more manageable in agricultural and urban settings.
 
-**Flowering:** Gregarious flowering cycles of approximately 60–80 years have been reported. Flowering leads to stand dieback, though vegetative recovery from rhizome buds is possible over subsequent years.
+**Flowering:** Gregarious [[cannabis-flowering-cycles]] of approximately 60–80 years have been reported. Flowering leads to stand dieback, though vegetative recovery from rhizome buds is possible over subsequent years.
 
 ## Distribution and Habitat
 
@@ -88,25 +88,3 @@ The Guadua bamboo cathedral in Pereira, Colombia, and numerous modern bamboo str
 **Pulp and bioenergy:** Culm chips are suitable for pulp and paper production. The high silica content requires specialized processing. Bamboo charcoal and bioenergy are secondary products.
 
 ## Ecological Role and Agroforestry
-
-**Soil stabilization:** The dense clumping root system is exceptionally effective at stabilizing steep slopes, riverbanks, and landslide-prone terrain. *Guadua* plantings are widely used in watershed protection programs in Colombia and Ecuador.
-
-**[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]:** Rapid biomass accumulation (up to 30–40 tonnes dry matter per hectare per year in optimal conditions) makes *Guadua* one of the fastest carbon-sequestering plants in the tropics.
-
-**Water regulation:** Bamboo stands reduce surface runoff, increase groundwater recharge, and filter sediment from waterways. Riparian *Guadua* buffers are used in watershed management.
-
-**Agroforestry integration:** *Guadua* is integrated into silvopastoral systems as shade for cattle, into coffee agroforestry as windbreaks and shade, and into riparian buffer strips alongside crops like [[swietenia-macrophylla]] and [[cedrela-odorata]].
-
-**Biodiversity:** Mature *Guadua* stands provide habitat for birds, mammals, and epiphytes. In Colombia, stands are known to harbor significant avian diversity.
-
-## See Also
-
-- [[phyllostachys-edulis]] — Moso bamboo, the Asian timber bamboo counterpart
-- [[arundinaria-gigantea]] — [[growing-gourmet-north-american-reishi-species]] native giant cane bamboo
-- [[swietenia-macrophylla]] — Big-leaf mahogany, tropical timber tree companion
-- [[cedrela-odorata]] — Spanish cedar, tropical timber companion species
-- [[jacaranda-mimosifolia]] — Jacaranda, ornamental Neotropical tree
-- [[handroanthus-impetiginosa]] — Pink trumpet tree, tropical flowering timber
-- [[erythrina-crista-galli]] — Cockspur coral tree, nitrogen-fixing companion
-- [[leucaena-leucocephala]] — Leucaena, fast-growing nitrogen-fixing tree
-- [[tabebuia-impetiginosa]] — Lapacho, medicinal tropical timber tree

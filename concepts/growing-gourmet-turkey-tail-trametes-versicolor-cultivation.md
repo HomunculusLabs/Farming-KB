@@ -12,7 +12,7 @@ type: concept
 
 Turkey tail (Trametes versicolor) is one of the most extensively researched
 [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] in the world. Named for its colorful concentrically-zoned
-fruiting bodies that resemble wild turkey tail feathers, this polypore produces
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that resemble wild turkey tail feathers, this polypore produces
 potent polysaccharides, particularly polysaccharide-K (PSK) and
 polysaccharide-peptide (PSP), which have demonstrated immunomodulatory and
 anti-tumor properties in hundreds of clinical studies. Cultivating turkey tail
@@ -23,7 +23,7 @@ tinctures, and extracts.
 
 Turkey tail belongs to Basidiomycota, Polyporales, Polyporaceae. It is known
 as Yun Zhi in Chinese and Kawaratake in Japanese. The species is found
-worldwide on dead hardwood logs and stumps, making it one of the most common
+worldwide on dead hardwood [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]], making it one of the most common
 bracket fungi in temperate forests. Fruiting bodies are thin semicircular to
 fan-shaped brackets, typically 2 to 8 cm across, with a velvety upper surface
 displaying concentric zones of brown, tan, white, blue, green, and orange. The
@@ -35,7 +35,7 @@ triterpenoids, and sterols.
 Hardwood sawdust from oak, maple, beech, or alder forms the base substrate.
 Wheat bran at 10 to 15% of dry weight serves as supplementation, with rice bran
 as an alternative. Gypsum at 2% improves substrate structure. Moisture content
-should reach 60 to 65% field capacity. Supplemented substrates require full
+should reach 60 to 65% [[bulk-substrate-field-capacity]]. Supplemented substrates require full
 [[boil-a-bag-pressure-sterilization-technique]] at 15 PSI for 90 to 120 minutes. Softwoods including
 pine, cedar, and fir should be avoided due to inhibitory resins that suppress
 [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] and reduce medicinal compound production.
@@ -56,7 +56,7 @@ extended colonization.
 Turkey tail is relatively undemanding for fruiting compared to many gourmet
 species. Temperature for fruiting ranges from 60 to 80 degrees Fahrenheit with
 optimal yields at 65 to 75 degrees. Humidity requirements of 85 to 95%
-relative humidity are less stringent than oyster mushrooms but consistent
+relative humidity are less stringent than [[cultivation-of-oyster-mushrooms]] but consistent
 moisture improves yields. Moderate to high fresh air exchange prevents fuzzy
 abnormal growth and preserves potency. Indirect ambient light is sufficient
 for fruiting and improves coloration of the concentric zones.
@@ -67,12 +67,12 @@ fruit across multiple flushes from the same substrate block.
 
 ## Outdoor Cultivation Methods
 
-Turkey tail is well-suited to outdoor cultivation mirroring its natural growth
+Turkey tail is well-suited to outdoor cultivation mirroring its [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 pattern. For log cultivation, select hardwood logs 4 to 8 inches in diameter
 freshly cut within 4 weeks of felling. Inoculate using drill-and-fill with
 sawdust or plug spawn and seal inoculation sites with wax. Stack logs in a
 shaded humid location. Colonization takes 6 to 12 months with fruiting
-typically beginning the following growing season. Logs can produce for 3 to
+typically beginning the following [[extending-growing-season]]. Logs can produce for 3 to
 5 years before exhaustion.
 
 The totem method involves cutting logs into 12 to 18 inch sections and stacking
@@ -88,19 +88,3 @@ a clean knife. Dehydrate at 95 to 115 degrees Fahrenheit until completely
 brittle. Store in airtight containers away from light with potency retained
 for 1 to 2 years. Processing options include water decoction by simmering
 dried material for 30 to 60 minutes, dual extraction combining water and
-alcohol for both polysaccharides and triterpenoids, grinding for capsules,
-and alcohol-based tincture preparation.
-
-## Common Problems
-
-Slow fruiting can be addressed by increasing ventilation and misting frequency.
-Mold contamination indicates a need for improved [[cultivator-sterile-technique-and-agar-culture]] and better
-ventilation. Thin fruiting bodies result from insufficient substrate
-supplementation. Lack of color zones suggests moving the culture to an area
-with some indirect light exposure.
-
-## See Also
-
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
-- [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]]
-- [[growing-gourmet-mushroom-dehydration-methods-equipment]]

@@ -5,6 +5,7 @@ tags: [fukuoka, permaculture, conference, bill-mollison, wes-jackson]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-sowing-seeds-in-the-desert.md
 type: concept
 ---

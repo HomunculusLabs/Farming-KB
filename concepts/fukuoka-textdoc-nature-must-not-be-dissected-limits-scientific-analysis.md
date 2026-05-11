@@ -5,6 +5,7 @@ tags: [natural-farming, philosophy, scientific-method, reductionism, holism, epi
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     lines: "1212-1400"
 type: concept
@@ -14,11 +15,11 @@ type: concept
 
 ## Overview
 
-This is one of Fukuoka's most fundamental philosophical arguments against [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]. He contends that nature is a living, organic whole that cannot be meaningfully understood through dissection and analysis. When science breaks nature into its component parts, it destroys the very unity that makes it function. The knowledge gained through this process is not knowledge of nature itself, but merely knowledge of the fragments that remain after destruction. This argument forms the epistemological foundation for all of his subsequent critiques of specific agricultural practices.
+This is one of Fukuoka's most fundamental philosophical arguments against [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]. He contends that nature is a living, organic whole that cannot be meaningfully understood through dissection and analysis. When science breaks nature into its component parts, it destroys the very unity that makes it function. The knowledge gained through this process is not knowledge of nature itself, but merely knowledge of the fragments that remain after destruction. This argument forms the epistemological foundation for all of his subsequent critiques of specific [[mycorrhizal-agricultural-practices]].
 
 ## The Process of Scientific Dissection
 
-Scientific farming first arose when man, observing plants as they grew, came to know these and later grew convinced that he could raise them himself. Yet the question remains: has man really known nature? Has he really grown crops and lived by the fruit of his own labor?
+[[fukuoka-illusions-of-scientific-farming]] first arose when man, observing plants as they grew, came to know these and later grew convinced that he could raise them himself. Yet the question remains: has man really known nature? Has he really grown crops and lived by the fruit of his own labor?
 
 ### How Man Thinks He Can Know
 
@@ -28,7 +29,7 @@ This assumption that dissection leads to understanding is so deeply embedded in 
 
 ### The Infinite Array of Specialized Research
 
-Even a single leaf presents infinite opportunities for study. The collection of cells that together form the leaf; the nucleus of one of these cells, which harbors the mystery of life; the chromosomes that hold the key to heredity; the question of how chlorophyll synthesizes starch from sunlight and carbon dioxide; the unseen activity of roots at work; the uptake of various nutrients by the plant; how water rises to the tops of tall trees; the relationships between various components and microorganisms in the soil: these are but a few of the inexhaustible array of topics scientific research has pursued.
+Even a single leaf presents infinite opportunities for study. The collection of cells that together form the leaf; the nucleus of one of these cells, which harbors the mystery of life; the chromosomes that hold the key to heredity; the question of how chlorophyll synthesizes starch from sunlight and [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]; the unseen activity of roots at work; the uptake of various nutrients by the plant; how water rises to the tops of tall trees; the relationships between various components and microorganisms in the soil: these are but a few of the inexhaustible array of topics [[psilocybin-isolation-and-early-scientific-research]] has pursued.
 
 Man's curiosity has led him to ask why and how the winds blow and the [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. He has carefully studied the tides of the sea, the nature of lightning, and the plants and animals that inhabit the fields and mountains. He has extended his inquiring gaze into the tiny world of microorganisms, into the realm of minerals and inorganic matter. Even the sub-microscopic universe of molecules, atoms, and subatomic particles has come under his scrutiny. Detailed research has pressed forth on the morphology, physiology, ecology, and every other conceivable aspect of a single flower, a single stalk of wheat.
 
@@ -48,7 +49,7 @@ The diagram in Figure 2.1 of the original text illustrates this principle. Origi
 
 ## The Illusion of Synthetic Mastery
 
-Modern science has created the impression of mastery over nature through various achievements:
+[[fukuoka-road-critique-of-modern-science]] has created the impression of mastery over nature through various achievements:
 
 - Plants can be made to bloom in all seasons through chemical controls that regulate the time of bud formation and differentiation
 - Scientists have begun synthesizing proteins and nucleic acids, challenging the mystery of life itself
@@ -86,34 +87,3 @@ This argument connects directly to Fukuoka's broader epistemological framework. 
 The adult mentally picks things apart and classifies them; he sees everything as imperfect and fraught with inconsistency. This is what is meant by grasping things dialectically. Armed with his doubts about "imperfect" nature and his discontent, man has set forth to improve upon nature and vainly calls the changes he has brought about "progress" and "development."
 
 ## The Irreversibility of Dissection
-
-A crucial aspect of Fukuoka's argument is that the damage done by scientific dissection is irreversible through the same methods. Once nature has been broken into parts, reassembling those parts does not restore the original whole. This is why science, despite its apparent mastery of individual components, consistently fails to match the productivity and resilience of natural systems when it attempts to reconstruct them.
-
-The moment he begins to ponder over the factors of crop cultivation and growth and concerns himself with the means of production, man loses sight of the crop as a whole entity. To produce a crop, he must comprehend the true meaning of a plant growing on the earth's surface, and the goal of production must derive from a clear vision of unity with the crop.
-
-This irreversibility has profound implications for agriculture. Once a soil ecosystem has been destroyed by [[cervantes-chemical-fertilizers-guide]] and pesticides, it cannot be restored simply by stopping their use. The natural balance, once disrupted, takes years or decades to reestablish. The scientist who created the problem through analysis cannot solve it through further analysis. Only nature, left to itself, can restore what science has destroyed.
-
-## Key Principles
-
-- Nature is an organic whole; dissection destroys the unity that makes it functional
-- Scientific knowledge of parts does not constitute knowledge of the whole
-- The more science analyzes, the further it gets from understanding nature
-- Man's perception is inherently limited by his subjectivity
-- Agricultural interventions based on fragmented knowledge create cascading disruptions
-- True understanding comes from unity with nature, not from analysis of its parts
-- The progress of science in agriculture has been progress in destroying nature's harmony
-- Modern civilization's insanity reflects the insanity of the intellect that created it
-- A flea born in the sack can never guess the sack's true purpose, just as man within nature can never fully comprehend nature
-- Apparent agricultural success from scientific methods masks deeper systemic damage
-- The damage from dissection is irreversible; reassembled parts do not restore the whole
-- Once nature is broken down, only nature itself can restore the lost unity
-
-## Related
-
-- [[fukuoka-textdoc-seeing-nature-wholistically-fuji-hokusai-analysis]]
-
-- [[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] Topics
-
-- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]] for intuitive knowledge
-- [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]] for the scientific method critique
-- [[fukuoka-textdoc-errors-of-human-intellect]] for the broader critique of human knowledge

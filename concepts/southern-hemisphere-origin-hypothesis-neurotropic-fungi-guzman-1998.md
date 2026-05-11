@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
+  - Guzmán G, Allen JW, Gartz J. A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
 type: concept
 ---
 
@@ -22,7 +22,7 @@ type: concept
 In their comprehensive 1998 worldwide checklist, Guzmán, Allen and Gartz
 proposed a biogeographic argument that the genus Psilocybe and related
 neurotropic fungi likely originated in the Southern Hemisphere, specifically in
-South America. This hypothesis is supported by several lines of distributional
+[[guzman-psilocybin-mushrooms-south-america]]. This hypothesis is supported by several lines of distributional
 evidence that emerge from the global patterns documented in their work.
 
 ## The Argument from Diversity
@@ -67,15 +67,15 @@ The 1998 paper documents several species with distributions that span both
 South America and other continents, supporting dispersal from a South American
 origin:
 
-- Psilocybe zapotecorum occurs in Mexico, Central America, and throughout
+- [[psilocybe-zapotecorum]] occurs in Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and throughout
   South America (Argentina, Brazil, Chile, Colombia, Ecuador, Peru, Venezuela).
   This suggests northward dispersal from a South American center.
 
-- Psilocybe yungensis has a disjunct distribution across South America
+- [[psilocybe-yungensis]] has a disjunct distribution across South America
   (Bolivia, Colombia, Ecuador, Peru, Venezuela) and extends into Mexico and
   the Caribbean (Martinique).
 
-- Copelandia cyanescens, while pantropical, shows particularly high diversity
+- [[copelandia-cyanescens]], while pantropical, shows particularly high diversity
   in South America and may have originated there.
 
 ## The Horak Distribution Theory
@@ -88,48 +88,3 @@ distribution, where fungal lineages spread across connected southern
 continents before their separation led to speciation.
 
 ## Vegetation Type Evidence
-
-South America supports the widest range of vegetation types where neurotropic
-fungi occur, from tropical rainforests and cloud forests to temperate
-grasslands. This environmental diversity may have provided the evolutionary
-canvas for the genus to diversify. The Amazon rainforest, in particular, remains
-largely unexplored mycologically and likely harbors many undiscovered species.
-
-## Biogeographic Implications
-
-If the Southern Hemisphere origin hypothesis is correct, it has several
-implications:
-
-1. The earliest Psilocybe species likely evolved in tropical or subtropical
-   South American forests
-
-2. Northward dispersal into Central America and Mexico occurred through
-   mesophytic forest corridors
-
-3. Dispersal to other continents occurred through a combination of Gondwanan
-   vicariance (for old lineages) and more recent long-distance dispersal
-
-4. The current [[copelandia-cyanescens-pantropical-distribution-and-ecology]] of species like P. cubensis and
-   Copelandia cyanescens represents relatively recent range expansions
-
-5. Temperate species like P. semilanceata represent secondary adaptations to
-   cooler climates from tropical ancestors
-
-## Limitations
-
-The authors acknowledge several caveats to this hypothesis:
-
-- The mycoflora of many tropical regions remains poorly documented
-- Africa is particularly understudied and could rival South America in
-  diversity with further exploration
-- Molecular phylogenetic studies were not available at the time of writing
-- Fossil records for fungi are extremely scarce
-
-## See Also
-
-- [[guzman-transcontinental-species-pairs-southern-hemisphere-origins]]
-
-- [[psilocybe-southern-hemisphere-origin-hypothesis]]
-- [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]
-- [[psilocybe-zapotecorum]]
-- Neurotropic [[freshwater-fungi-diversity-and-sampling]] and Vegetation Types

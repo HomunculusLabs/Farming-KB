@@ -38,8 +38,8 @@ In practical terms, spagyric processing involves:
 
 Spagyric alchemy assigns symbolic meanings to each stage:
 
-- **Sulfur** (Soul): The essential oils, cannabinoids, and terpenes
-  representing the plant's unique identity and medicinal properties
+- **Sulfur** (Soul): The [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]], cannabinoids, and terpenes
+  representing the plant's unique identity [[panax-ginseng]]
 - **Mercury** (Spirit): The alcohol or solvent used for extraction,
   representing the medium of transformation
 - **Salt** (Body): The mineral salts obtained through calcination,
@@ -86,26 +86,5 @@ potentiated according to spagyric tradition.
 Proponents of spagyric cannabis preparation argue that the mineral salts
 contribute to the extract's therapeutic efficacy in several ways:
 
-- **Mineral supplementation**: Cannabis plants accumulate minerals from soil,
+- **[[jadam-seawater-mineral-supplementation]]**: Cannabis plants accumulate minerals from soil,
   and these may have independent therapeutic value
-- **[[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]**: Mineral salts may improve the body's absorption
-  and utilization of cannabinoids
-- **[[cannabis-terpene-entourage-effect-profiles]] expansion**: Minerals may participate in the synergistic
-  interactions between cannabis compounds
-- **Energetic completeness**: In alchemical philosophy, the recombined product
-  possesses a more complete "signature" of the original plant
-
-## Scientific Perspective
-
-From a modern scientific standpoint, spagyric preparation of cannabis remains
-largely unstudied. The mineral salts recovered through calcination are
-primarily potassium, calcium, and magnesium salts, along with trace minerals
-absorbed from the growing medium. Whether these minerals meaningfully enhance
-the therapeutic properties of cannabis extracts is an open question.
-
-## See Also
-
-- [[marijuana-magick-cannabis-incense-and-preparation]]
-- [[cannabis-alchemy-overview]]
-- [[hashish-production-methods]]
-- [[cannabis-chromatography-cannabinoid-purification]]

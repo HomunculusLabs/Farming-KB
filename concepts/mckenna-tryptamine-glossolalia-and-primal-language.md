@@ -88,17 +88,3 @@ linguistic filtering, shows decreased activity under psychedelics.
 This DMN suppression may release lower-level speech motor patterns
 from executive control, allowing the production of novel syllable
 sequences that characterize glossolalic speech.
-
-Broca's area and Wernicke's area, the primary language centers, show
-complex modulation under tryptamines — increased connectivity
-between regions that normally do not communicate directly. This
-"hyperconnectivity" may explain the sense of accessing a deeper or
-more fundamental language that glossolalia speakers frequently report.
-## See Also
-
-- [[mckenna-glossolalia-and-primal-language-tryptamine-states]]
-
-- [[mckenna-women-gatherers-and-evolution-of-language]]
-- [[tryptamine-hallucinogens]]
-- [[dmt-finnegans-wake-and-the-merry-go-raum]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]

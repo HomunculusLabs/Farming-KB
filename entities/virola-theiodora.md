@@ -26,7 +26,7 @@ sources:
 - **Authority:** (Spr.) Warb.
 - **Common names:** Cumala Tree, Epena (snuff), Parica (snuff), Yakawana
 
-The genus Virola comprises approximately 60 species of tropical trees distributed throughout Central and South America. Several Virola species are used as psychoactive snuffs, but V. theiodora is generally considered the most important. The genus belongs to the Myristicaceae, the same family that includes nutmeg (Myristica fragrans), which also contains psychoactive compounds. The species epithet "theiodora" is derived from Greek roots meaning "gift of the gods," reflecting its significance to indigenous Amazonian peoples.
+The genus Virola comprises approximately 60 species of [[mollison-designers-moringa-and-multipurpose-tropical-trees]] distributed throughout Central and [[guzman-psilocybin-mushrooms-south-america]]. Several Virola species are used as psychoactive snuffs, but V. theiodora is generally considered the most important. The genus belongs to the Myristicaceae, the same family that includes nutmeg ([[myristica-fragrans]]), which also contains psychoactive compounds. The species epithet "theiodora" is derived from Greek roots meaning "gift of the gods," reflecting its significance to indigenous Amazonian peoples.
 
 ## Morphology
 
@@ -38,7 +38,7 @@ The male inflorescences are many-flowered, usually brown- or gold-hairy, shorter
 
 ## Distribution
 
-V. theiodora occurs in the tropical zones of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and South America, with its primary use documented among indigenous peoples of the western Amazon basin. The species is found in Brazil, Colombia, Ecuador, and Peru, growing in lowland tropical rainforest. It is particularly abundant in the interfluvial regions between the Rio Negro and the Rio Solimoes.
+V. theiodora occurs in the tropical zones of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and South America, with its primary use documented among indigenous peoples of the western Amazon basin. The species is found in Brazil, Colombia, Ecuador, and Peru, growing in lowland [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is particularly abundant in the interfluvial regions between the Rio Negro and the Rio Solimoes.
 
 ## Ethnobotanical Uses
 
@@ -73,11 +73,11 @@ The addition of alkaline plant ashes serves to free the alkaloids from their sal
 
 ### Oral Use
 
-Some Amazonian groups also consume Virola resin orally, usually in the form of pellets or as an ingredient in other preparations. Oral consumption requires the co-administration of MAO inhibitors (typically from Banisteriopsis caapi or other beta-carboline-containing plants) to make the DMT orally active, similar to the principle underlying Ayahuasca.
+Some Amazonian groups also consume Virola resin orally, usually in the form of pellets or as an ingredient in other preparations. Oral consumption requires the co-administration of MAO inhibitors (typically from [[ayahuasca-and-banisteriopsis-caapi]] or other beta-carboline-containing plants) to make the DMT orally active, similar to the principle underlying Ayahuasca.
 
 ## Chemistry
 
-The resin of Virola theiodora contains two major psychoactive tryptamines:
+The resin of Virola theiodora contains two major [[tryptamine]]:
 
 - **N,N-Dimethyltryptamine (DMT)** — the primary visionary compound
 - **5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT)** — a more potent but less visual tryptamine
@@ -88,38 +88,3 @@ Other minor constituents may include:
 
 - **N-Methyltryptamine (NMT)** — a tryptamine precursor
 - **Bufotenine (5-HO-DMT)** — present in some Virola species
-- **Beta-carboline alkaloids** — trace amounts that may contribute to MAO inhibition
-
-## Pharmacology
-
-DMT is a potent agonist at serotonin 5-HT2A receptors, the primary receptor responsible for classical psychedelic effects. 5-MeO-DMT acts as a non-selective serotonin receptor agonist with particular affinity for 5-HT1A and 5-HT2A receptors, producing a more intense but less visually oriented experience compared to DMT alone. The combination of DMT and 5-MeO-DMT in Virola snuffs creates a complex [[leary-psychedelic-experience-bardo-mapping]] with both visual and somatic components.
-
-## Safety Considerations
-
-Virola snuff use carries several potential risks:
-
-- **Nasal irritation and damage** from repeated insufflation of alkaline powder
-- **Hypertensive crisis** — 5-MeO-DMT can cause dangerous spikes in blood pressure
-- **Psychological distress** — intense psychedelic experiences can be overwhelming
-- **Serotonin syndrome risk** — if combined with serotonergic medications
-
-The extremely rapid onset of effects from nasal insufflation (within seconds to minutes) means that users have little time to adjust to the intensity of the experience.
-
-## Cultural Significance
-
-Virola theiodora represents one of the most important psychoactive plants of the Amazon basin. Its use as a snuff is deeply embedded in the shamanic traditions of numerous Amazonian tribes, serving roles in healing, divination, and contact with the spirit world. The sophisticated preparation techniques, including the use of alkaline ashes to enhance absorption, demonstrate the depth of indigenous pharmacological knowledge.
-
-## Comparison with Other DMT Sources
-
-Virola theiodora can be compared with other DMT-containing plants used in indigenous practices:
-
-- [[psychotria-viridis]] — Chacruna, the most common Ayahuasca DMT admixture
-- [[acacia]] — African Acacia species with reported DMT content
-
-The key distinction of V. theiodora is its use as a snuff rather than as an oral preparation. This route of administration produces rapid onset of effects but shorter duration compared to Ayahuasca.
-
-## See Also
-
-- [[anadenanthera-peregrina]] — Yopo, another Amazonian psychoactive snuff
-- [[psychotria-viridis]] — Chacruna, DMT source for Ayahuasca
-- myristica-fragrans — Nutmeg, another Myristicaceae plant with psychoactive properties

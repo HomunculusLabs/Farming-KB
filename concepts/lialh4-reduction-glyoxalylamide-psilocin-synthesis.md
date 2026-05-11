@@ -1,7 +1,7 @@
 ---
-title: Lithium Aluminum Hydride Reduction of Glyoxalylamide to Psilocin
+title: Lialh4 Reduction Glyoxalylamide Psilocin Synthesis
 created: 2026-04-28
-tags: [reduction, lialh4, psilocin, organic-synthesis, tryptamine, indole, shirota, magic-mushrooms]
+tags: [reduction, lialh4, psilocin, organic-synthesis, [[tryptamine]], [[indole]], shirota, magic-mushrooms]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-The reduction of 3-dimethylaminooxalyl-4-acetylindole (the [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]) with lithium aluminum hydride (LiAlH4) represents the pivotal transformation that converts a protected oxo-glyoxalylamide precursor into psilocin (4-hydroxy-N,N-dimethyltryptamine). This step, reported by Shirota, Hakamata, and Goda in 2003, achieves over 85% yield and is central to the concise large-scale synthesis of psilocin from commercially available 4-hydroxyindole.
+The reduction of 3-dimethylaminooxalyl-4-acetylindole (the [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]) with lithium aluminum hydride (LiAlH4) represents the pivotal transformation that converts a protected oxo-glyoxalylamide precursor into psilocin (4-hydroxy-N,N-dimethyltryptamine). This step, reported by Shirota, Hakamata, and Goda in 2003, achieves over 85% yield and is central to the concise large-scale synthesis of psilocin from commercially available [[4-hydroxyindole]].
 
 ## Reaction Mechanism
 
-LiAlH4 is a powerful hydride donor capable of reducing multiple functional groups in a single operation. When applied to the glyoxalylamide intermediate, it simultaneously performs:
+LiAlH4 is a powerful hydride donor capable of reducing multiple functional groups in a single operation. When applied to the [[glyoxalylamide-intermediate-in-tryptamine-synthesis]], it simultaneously performs:
 
 1. **Reduction of the oxalyl amide carbonyl** to a methylene group, converting the CONMe2 moiety into CH2NMe2 (the characteristic dimethylaminoethyl side chain of psilocin)
 2. **Reduction of the 4-acetyl group** to a hydroxyl, deprotecting the indole 4-position and regenerating the phenolic OH of psilocin

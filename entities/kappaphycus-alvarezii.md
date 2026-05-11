@@ -87,21 +87,3 @@ Large-scale K. alvarezii cultivation has generated ecological concerns, particul
 Monoculture farming reduces benthic biodiversity beneath cultivation rafts by shading underlying substrates. However, the structures themselves can serve as artificial reef habitat, attracting fish and invertebrate species.
 
 [[plant-nutrient-uptake-mechanisms]] by farmed Kappaphycus may improve local water quality by absorbing dissolved nitrogen and phosphorus from agricultural runoff. This phytoremediation potential is being studied in eutrophic coastal zones.
-
-The crop's [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] capacity is modest compared to terrestrial systems but contributes to blue carbon budgets in tropical coastal ecosystems. Harvested biomass removes fixed carbon from the marine environment.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[undaria-pinnatifida]]
-- [[moringa-oleifera]]
-- [[carica-papaya]]
-- [[persea-americana]]
-- [[prosopis-juliflora]]
-- [[colocasia-esculenta]]
-- [[dioscorea-alata]]
-- [[phaseolus-vulgaris]]
-- [[cicer-arietinum]]
-- [[pachyrhizus-erosus]]
-- [[chenopodium-quinoa]]
-- [[eryngium-foetidum]]

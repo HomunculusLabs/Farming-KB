@@ -1,5 +1,5 @@
 ---
-title: "Onygenales - Keratinophilic and onygenales keratinophilic systemic [[cordyceps-insect-pathogenic-fungi]] Fungi"
+title: Onygenales Keratinophilic Systemic Pathogenic Fungi
 created: 2026-04-26
 tags:
   - ascomycota
@@ -88,38 +88,3 @@ form within host tissues at body temperature:
 - **[[paracoccidioides-brasiliensis]]**: Associated with moist soils
   in humid, forested areas from southern Mexico through South
   America. Seldom isolated except from infected humans.
-- **Coccidioides immitis**: Occurs primarily in desert soils of
-  the Lower-Sonoran life zone of the American southwest and
-  northern Mexico. Also found in arid parts of Central and
-  South America.
-
-These fungi are considered biohazard class 3 organisms because
-of their virulence and easily aerosolized, respirable conidia.
-They persist in infected vertebrates until the animals die and
-then colonize conducive soils or plant debris, producing conidia
-or ascospores that may infect additional vertebrates.
-
-## Keratinophilic Saprobes
-
-Beyond the pathogens, the Onygenales includes numerous
-keratinophilic (keratin-degrading) saprobes that play important
-roles in the decomposition of hair, feathers, nails, and other
-keratinous materials in soil. These [[query-how-do-fungi-contribute-to-carbon-sequestration]] to nutrient
-cycling, particularly in pastures and other environments where
-animal materials accumulate. Genera such as Amauroascus,
-Auxarthron, and Renispora are common keratinophilic Onygenales
-isolated from soil.
-
-## Coprophilous Representatives
-
-Several genera of Onygenales are found on dung, including
-Arthroderma, Ctenomyces, Gymnoascoideus, and Amauroascus.
-These fungi utilize the keratin and other proteins in animal
-dung as nutrient sources and contribute to the decomposition of
-fecal material in pasture ecosystems.
-
-## See Also
-
-- [[keratinophilic-fungi]]
-- [[fungal-infections-human]]
-- [[powdery-mildews-erysiphaceae-diversity-host-range]]

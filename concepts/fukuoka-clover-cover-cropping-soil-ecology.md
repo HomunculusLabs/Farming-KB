@@ -4,7 +4,7 @@
 
 White clover (*[[natural-farming]] system. It is the single most important biological component of
 his direct-seeded, no-tillage rice-barley succession method, performing multiple
-ecological functions simultaneously that replace the need for fertilizers, herbicides,
+[[fungal-melanin-biosynthesis-ecological-functions]] simultaneously that replace the need for fertilizers, herbicides,
 and intensive soil management. Fukuoka's use of clover exemplifies his broader principle
 of working with natural biological systems rather than substituting human labor and
 chemical inputs for ecological services.
@@ -22,17 +22,17 @@ When the winter grain is harvested in late May and its straw is scattered as mul
 clover enters its most vigorous growth phase, producing a dense mat of vegetation.
 
 At this point, the clover cover becomes thick enough to potentially suppress the young
-rice seedlings that have germinated from the clay pellets sown the previous winter.
+rice seedlings that have germinated from the [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] sown the previous winter.
 Fukuoka's solution characteristically avoids confrontation: rather than killing the
 clover with herbicide or mechanical removal, he floods the field for four to five days.
 This temporary inundation weakens the clover enough to give rice seedlings a competitive
 advantage, but does not kill the clover outright. The clover recovers partially during
-the summer, continuing to fix nitrogen and suppress weeds around the rice plants, and
+the summer, continuing [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] and [[query-how-do-cover-crops-suppress-weeds]] around the rice plants, and
 enters its next vigorous growth phase as the rice approaches harvest in autumn.
 
 ## Nitrogen Fixation
 
-White clover is a legume that forms symbiotic relationships with rhizobia bacteria
+White clover is a legume that forms [[fungi-in-the-environment-symbiotic-relationships]] with rhizobia bacteria
 (*Rhizobium trifolii*) in its root nodules. These bacteria convert atmospheric nitrogen
 (N₂) into ammonium (NH₄⁺), a form directly available to plants. Fukuoka reported that
 his soil contained approximately 100 million nitrogen-fixing bacteria per gram, a
@@ -45,7 +45,7 @@ cycle. Fukuoka's clover cover provides a continuous, distributed nitrogen supply
 more closely matches the uptake patterns of the crop than the pulse applications of
 conventional fertilization. The nitrogen is released gradually through root exudation,
 nodule turnover, and decomposition of clover biomass, reducing both leaching losses and
-the pollution associated with synthetic fertilizer runoff.
+the pollution associated with [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] runoff.
 
 ## Weed Suppression
 
@@ -88,38 +88,3 @@ Clover contributes to [[savory-soil-organic-matter-and-decomposition-dynamics]] 
 clover adds material to the soil surface, where it joins the rice and barley straw mulch
 in creating a decomposing organic layer. Root turnover adds organic matter directly to
 the soil profile. The nitrogen-rich clover biomass decomposes relatively quickly,
-releasing nutrients for crop uptake while contributing to stable [[lowenfels-humus-formation-benefits]].
-
-Fukuoka's practice of scattering all straw uncut over the field after each harvest creates
-a continuous cycle of organic matter addition. Combined with the clover's biological
-contributions, this system maintains or increases soil organic matter without the need for
-[[cultivator-compost-preparation-phase-methods]] and application — a labor-intensive process that Fukuoka considered
-unnatural because it depletes the source area to enrich the destination.
-
-## Microbial Habitat
-
-The clover cover and associated straw mulch create an ideal habitat for the diverse soil
-[[edaphic-factors-microbial-community-structure]] that Fukuoka considered the true foundation of soil fertility. The
-moist, shaded, organic-matter-rich environment beneath the clover supports bacteria,
-fungi, actinomycetes, protozoa, and other microorganisms that cycle nutrients, suppress
-plant pathogens, and maintain soil structure through the production of glomalin and other
-soil-binding compounds.
-
-[[mycorrhizal-networks]],
-requiring them to re-establish each season; the no-till clover system allows these
-networks to persist and grow continuously, providing increasingly efficient nutrient
-exchange as the system matures.
-
-## Integration with [[cover-crops]] are typically grown as temporary crops that are
-terminated (killed) before the main crop is planted, often using herbicides or mechanical
-methods. Fukuoka's clover is a permanent cover that coexists with the grain crops
-throughout the year. Conventional [[cover-crop]] management requires additional operations
-(planting, termination, incorporation), while Fukuoka's clover is self-sustaining and
-requires no separate management beyond the flooding that serves multiple purposes
-simultaneously.
-
-The permanent nature of the clover cover means that its benefits — nitrogen fixation, weed
-suppression, erosion prevention, and microbial habitat — are continuous rather than
-seasonal. This continuous provision of [[biodiversity-of-fungi-ecosystem-services-agriculture]] is what allows Fukuoka's system
-to eliminate external inputs entirely, while conventional cover cropping typically reduces
-but does not eliminate the need for fertilizers and herbicides.

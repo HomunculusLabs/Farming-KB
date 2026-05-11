@@ -88,11 +88,3 @@ monitoring programs across different land management contexts:
 
 Despite their value, fungal indicators face several practical
 challenges that constrain widespread adoption:
-- Seasonal variability in fruiting makes standardization
-  difficult across different climates and survey windows.
-- Expertise requirements for identification limit the pool of
-  qualified surveyors available for large-scale monitoring.
-- DNA-based methods are expensive and require specialized
-  laboratory infrastructure not accessible to many practitioners.
-- Lack of standardized protocols across regions makes
-  comparison and meta-analysis of survey data challenging.

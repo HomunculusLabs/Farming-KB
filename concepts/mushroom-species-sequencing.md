@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -87,56 +88,3 @@ nutrients from the surrounding habitat can produce excellent results.
 Research has shown that the net available nitrogen in waste substrate
 actually increases proportionally through species sequencing. Using
 cotton waste as a starting material, the total nitrogen of fresh
-compost waste was 0.63%. After the Paddy Straw mushroom (Volvariella
-volvacea) produced on it, the residual nitrogen became 1.54%. After
-inoculating this same waste substrate with Oyster mycelium (Pleurotus
-ostreatus var. florida), the nitrogen increased to 1.99%. This
-progressive nitrogen enrichment is a remarkable feature of the
-sequencing process and contributes to the value of the final material
-as a soil amendment.
-
-## Mass Conversion and End Products
-
-In total, more than 20% of the substrate (dry weight to dry weight)
-is converted into [[palmer-edible-mushrooms-north-america]]. At least an equal amount is
-liberated as gases through metabolic processes. The remaining
-material can be added to garden composts as a nitrogen-rich
-supplement. The process of reduction and conversion is substantially
-prolonged if the cultivator utilizes large-particle wood chips in the
-original substrate formulas, as these decompose more slowly. If the
-waste wood substrate is further supplemented between species, the
-cycling can be extended even further.
-
-## Four or More Species in Sequence
-
-With careful management, four species can be grown in sequence. After
-several generations of mushroom species, the mass of final substrate
-is a mere fraction of the original formula. The end material is
-reduced to a soft loam and is best used for compost or soil
-enhancement. The cultivator can implement a circuit of recycling by
-sequencing species on the same substrate, resulting in the maximum
-yield of mushrooms imaginable from a given quantity of raw materials.
-
-## Outdoor Continuation: The Zen of Mushroom Growing
-
-When production blocks of recycled Oyster, Maitake, Reishi, or other
-species have stopped producing indoors, they can be implanted outdoors
-into beds of sawdust or wood chips. Additional fruitings arise from
-the buried blocks in 3-6 months, depending on the weather. These
-outdoor fruitings are often better than those achieved indoors, as
-mushrooms seem to always benefit when nature is used as an ally. The
-implications are profound: these courses of decomposition occur daily
-in forest ecosystems, and understanding them enables the creation of
-complex biospheres wherein fungi play determinant roles in supporting
-other life cycles.
-
-## See Also
-
-- [[mushroom-species-sequencing-cultivation]]
-
-- [[agricultural-waste-substrates]] for alternative starting substrates
-- [[mushroom-casing-layers]] for King Stropharia fruiting requirements
-- mushroom-harvesting-storage-methods for post-harvest handling
-- [[decomposition]]
-- [[oyster-mushroom]]
-- [[paddy-straw-mushroom]]

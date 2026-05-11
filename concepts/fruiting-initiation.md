@@ -88,34 +88,3 @@ After triggers are applied, primordia (pins) typically appear within 3-7 days:
 ## Fruiting Chamber Design
 
 The fruiting environment must maintain precise control of humidity, FAE,
-temperature, and light simultaneously. Common approaches:
-
-- **[[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] chamber (SGFC)** — a plastic tote with holes drilled on
-  all sides, filled with damp perlite. Passive FAE and evaporative humidity.
-  Best for beginners; limited scalability.
-- **Martha greenhouse** — a modified greenhouse enclosure with a cool mist
-  humidifier and exhaust fan. Good for medium-scale indoor cultivation.
-- **Automated grow rooms** — climate-controlled rooms with ducted
-  humidification, exhaust, and lighting on timers. Standard for commercial
-  production. Allows year-round, multi-species cultivation.
-
-## Flushing
-
-Oyster mushrooms fruit in **flushes** — discrete waves of production from the
-same substrate block:
-
-- **First flush**: 60-70% of total yield. Largest and most uniform fruits.
-  Typically ready for harvest 5-10 days after pinning.
-- **Second flush**: 20-30% of yield. Smaller, fewer mushrooms. Appears 7-14
-  days after first harvest.
-- **Third flush**: 5-10% of yield. Often not commercially viable. Many
-  growers discard blocks after the second flush.
-
-Between flushes, blocks are allowed to rest for 3-5 days with high humidity
-but reduced FAE, allowing the mycelium to recover before re-triggering.
-
-## See Also
-
-- [[oyster-mushroom-species]] — species-specific fruiting requirements
-- fruiting-chamber-design — detailed chamber engineering
-- [[substrate-contamination]] — fruiting-phase contamination risks

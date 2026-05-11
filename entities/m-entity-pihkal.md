@@ -88,11 +88,3 @@ in their human studies of a number of substituted phenethylamines,
 used mescaline as the reference material for both quantitative and
 qualitative comparisons. The Edgewood Arsenal code number for it was
 EA-1306. All psychedelics are given properties that are something
-like "twice the potency of mescaline" or "twice as long-lived as
-mescaline." This simple drug is truly the central prototype against
-which everything else is measured. The earliest studies with the
-"psychotomimetic amphetamines" had quantitative psychological numbers
-attached that read as "mescaline units." Mescaline was cast in
-concrete as being active at the 3.75 mg/kg level. That means for a 80
-kilogram person (a 170 pound person) a dose of 300 milligrams. If a
-- [[mescaline-peyote-san-pedro-cactus]]

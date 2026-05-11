@@ -37,13 +37,13 @@ Wingstem is named for the distinctive wing-like appendages along its stems. It i
 - **Species:** V. alternifolia
 - **Authority:** (L.) Britton ex Small (1898)
 
-The species was originally described by Linnaeus as *Actinomeris alternifolia* in 1753. The genus *Verbesina* contains approximately 30 species, primarily distributed in the Americas, with the center of diversity in Mexico and the southwestern United States.
+The species was originally described by Linnaeus as *Actinomeris alternifolia* in 1753. The genus *Verbesina* contains approximately 30 species, primarily distributed in the Americas, with the center of diversity in Mexico and the southwestern [[dmt-containing-plants-united-states-halpern]].
 
 *V. alternifolia* is most closely related to *V. occidentalis* (western crownbeard), with which it shares the winged stem character. The two species hybridize where their ranges overlap in the central United States, producing intermediate forms.
 
 ### Morphology
 
-**Stems:** Erect, stout, 150–300 cm tall, with distinctive green, wing-like extensions of leaf tissue running along the length of each stem. These wings are 2–5 mm wide and are a key identification feature.
+**Stems:** Erect, stout, 150–300 cm tall, with distinctive green, wing-like extensions of [[leaf-tissue-analysis-crop-nutrient-status]] running along the length of each stem. These wings are 2–5 mm wide and are a key identification feature.
 
 **Leaves:** Alternate (giving the specific epithet), lanceolate to ovate, 10–25 cm long and 3–8 cm wide, with serrate margins and winged petioles that merge with the stem wings. Leaf surfaces are rough to the touch from dense pubescence.
 
@@ -87,31 +87,4 @@ In large-scale restorations and naturalized plantings, wingstem is valuable for 
 
 The species tolerates seasonal flooding and clay soils, making it suitable for bioswales, detention basins, and riparian buffer plantings. Cutting back stems in early June can reduce final height by 30–50%, improving manageability.
 
-In prairie and meadow restorations, wingstem is included at low seeding rates (0.5–1.0 kg/ha) to provide structural diversity and pollinator support without overwhelming the desired plant community. It pairs well with *Eupatorium perfoliatum*, *Solidago* species, and native grasses.
-
-Several cultivar selections exist, including compact forms developed for rain gardens and smaller residential landscapes. However, these selections remain uncommon in the commercial nursery trade compared to more widely marketed prairie species.
-
-## Uses and Significance
-
-Wingstem has limited direct economic value but plays important ecological roles in riparian and floodplain ecosystems. Its deep root system helps stabilize stream banks and reduce erosion.
-
-The Cherokee used a poultice of crushed leaves for treating snake bites. The Iroquois used an infusion of the roots for treating fever. These ethnobotanical uses are poorly documented compared to more widely known medicinal species.
-
-The Potawatomi reportedly used the plant ceremonially. Across documented traditions, medicinal applications primarily involved external preparations rather than internal consumption, possibly reflecting the plant's unpalatable or mildly toxic foliage.
-
-The species can become weedy in disturbed habitats, forming dense monocultures that suppress herbaceous diversity. This aggressive colonization behavior is both valued (for [[permplant-willows-salix-erosion-control-fodder]]) and managed against (in high-diversity restorations).
-
-Phytochemical analysis has identified sesquiterpene lactones and flavonoids in the aerial tissues. These compounds may contribute to the species' resistance to herbivory, though detailed pharmacological investigation has been limited.
-
-## See Also
-
-- [[solidago-nemoralis]] — Old-field goldenrod, co-occurring dry-site species
-- [[echinacea-purpurea]] — Purple coneflower, companion prairie composite
-- [[veronicastrum-virginicum]] — Culver's root, tall wet-meadow perennial
-- [[lobelia-siphilitica]] — Great blue lobelia, riparian companion species
-- [[monarda-fistulosa]] — Wild bergamot, mid-season pollinator plant
-- [[rudbeckia-hirta]] — Black-eyed Susan, co-occurring Asteraceae species
-- [[helianthus-annuus-entity]] — Common sunflower, related tall composite
-- [[asclepias-tuberosa]] — Butterfly milkweed, pollinator companion species
-- [[liatris-spicata]] — Dense blazing star, another tallgrass prairie species
-- [[coreopsis-lanceolata]] — Lanceleaf coreopsis, early-blooming prairie species
+In prairie and meadow restorations, wingstem is included at low seeding rates (0.5–1.0 kg/ha) to provide structural diversity and pollinator support without overwhelming the desired plant community. It pairs well with *[[eupatorium-perfoliatum]]*, *Solidago* species, and native grasses.

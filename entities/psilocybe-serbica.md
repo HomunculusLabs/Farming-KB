@@ -1,5 +1,5 @@
 ---
-title: "Psilocybe serbica"
+title: Psilocybe Serbica
 created: 2026-04-28
 type: species
 tags:
@@ -24,13 +24,13 @@ sources:
 **Psilocybe serbica** is a potent psilocybin-containing mushroom
 native to Central and Southeastern Europe.
 
-Described by Jochen Gartz in 1995 from Serbian specimens, it
+Described by [[jochen-gartz]] in 1995 from Serbian specimens, it
 occupies a distinctive niche among European *Psilocybe*, favoring
 montane and subalpine forest environments. It is one of the most
 psychoactive European mushrooms, with alkaloid content comparable
 to stronger tropical species.
 
-Previously conflated with *Psilocybe bohemica*, modern molecular
+Previously conflated with *[[psilocybe-bohemica]]*, modern molecular
 work confirmed *P. serbica* as a distinct lineage within the
 *P. cyanescens* complex.
 
@@ -53,7 +53,7 @@ work confirmed *P. serbica* as a distinct lineage within the
 - **Gills:** Adnexed to adnate, crowded, narrow; grayish becoming
   purplish-brown; edges whitish and fimbriate
 - **Stipe:** 40–100 × 3–6 mm, equal to slightly clavate;
-  pruinose above annular zone; partial veil forming a membranous
+  pruinose above annular zone; [[partial-veil-tropism-protection-before-spore-release]] forming a membranous
   annulus that often disappears with age
 - **Flesh:** Thin, whitish; bruises distinctly blue to blue-green,
   especially at stipe base — strong and rapid blueing is a reliable
@@ -88,54 +88,3 @@ work confirmed *P. serbica* as a distinct lineage within the
 - **Norbaeocystin:** Detected at low concentrations
 
 The high baeocystin:psilocybin ratio distinguishes *P. serbica*
-from many tropical species. Potency increases with altitude.
-
-## Pharmacology
-
-Psilocybin acts as a prodrug, dephosphorylated in vivo to psilocin,
-the primary psychoactive metabolite. Psilocin is a partial agonist
-at serotonin 5-HT2A receptors, with additional activity at 5-HT1A,
-5-HT2C, and 5-HT2B subtypes.
-
-Users describe particularly vivid visual hallucinations and a
-pronounced body load compared to *P. cubensis* at equivalent
-doses. The high baeocystin content may modulate the experience,
-though baeocystin pharmacology remains poorly characterized.
-
-## Cultivation
-
-- **Substrates:** Hardwood sawdust (beech, oak) supplemented
-  with wheat bran (10–20%); alder chips and straw-wood blends
-- **Fruiting temperature:** 10–18°C — cool requirement reflects
-  montane origin; does not fruit well above 20°C
-- **Colonization:** 22–26°C, comparable to other *Psilocybe*
-- **Humidity:** 85–95% for primordia and fruiting
-- **Difficulty:** Moderate — cool fruiting requires temperature-
-  controlled chambers
-- **Yield:** [[stamets-biological-efficiency-yield]] 30–50% on [[oyster-mushroom-supplemented-sawdust-blocks]]
-
-## Ecological Role
-
-*P. serbica* is a primary decomposer of hardwood lignocellulose
-in temperate montane forests. Its preference for beech positions
-it as a significant agent of [[fungal-succession-woody-debris-ecology]] decomposition in Central
-European mountain ecosystems, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-by breaking down recalcitrant wood components.
-
-## Similar Species
-
-- **P. bohemica:** Nearly identical; smaller spores (9–12 × 6–7
-  µm), restricted to Czech Republic
-- **P. cyanescens:** More robust with undulating cap margins;
-  prefers urban wood chip habitats
-- **P. arcana:** ITS sequence and subtle morphology differences;
-  similar montane habitat
-- **Stropharia aeruginosa:** Greenish slimy cap; bruises blue
-  but typically lacks psilocybin
-
-## See Also
-
-- [[psilocybin]]
-- [[psilocybe-aztecorum-entity-the-mushroom-cultivator]]
-- [[golden-teacher-cubensis]]
-- [[psilocybe-washingtonensis]]

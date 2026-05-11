@@ -88,27 +88,3 @@ Cultural importance extends to pre-Hispanic origins; the Nahua fermented agave j
 Agave fiber (ixtle) from leaf margins has traditional uses in rope, matting, and embroidery. Industrial applications include biocomposite materials and erosion-control geotextiles.
 
 ## Ethnobotanical Uses
-
-Traditional communities in Jalisco use roasted piña as a sweet food source. The cooked heart is chewed directly or processed into a sweet pulp called miel de agave.
-
-Medicinal applications include topical wound treatment with leaf sap, which exhibits antibacterial activity against Staphylococcus aureus. The sap is also applied as a remedy for skin infections and insect bites.
-
-Agave nectar, produced by industrial hydrolysis of inulin, is marketed globally as a low-glycemic sweetener. Its high fructose content (70–90%) gives it 1.4–1.5 times the sweetening power of sucrose.
-
-## Conservation Status
-
-Wild populations of A. tequilana are critically depleted. The species is listed on the IUCN Red List as "Near Threatened" due to extensive habitat conversion for commercial cultivation.
-
-Genetic diversity in commercial plantations is extremely narrow, with most fields planted to a single clonal selection. This vulnerability to disease epidemics prompted germplasm conservation efforts at the Universidad de Guadalajara.
-
-The Tequila Regulatory Council (CRT) maintains a registered variety catalog to preserve baseline genetic material. Ex situ conservation collections exist at CIMMYT and several Mexican botanical gardens.
-
-## See Also
-
-- [[yucca-filamentosa]]
-- [[corylus-avellana]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[moringa-oleifera]]
-- [[ulmus-rubra]]
-- [[glycyrrhiza-glabra]]

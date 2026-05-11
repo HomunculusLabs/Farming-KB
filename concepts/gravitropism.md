@@ -88,33 +88,3 @@ by wind or rain, is a major cause of crop loss that results directly from
 gravitropic failure. Understanding gravitropic mechanisms has informed
 breeding programs aimed at developing varieties with stronger gravitropic
 responses and more resistant stem architecture.
-
-## Interaction with Other Tropisms
-
-Gravitropism does not operate in isolation but interacts with other tropic
-responses to produce integrated growth behaviors. Phototropism, the growth
-response toward light, often opposes gravitropism when a plant is displaced
-both from vertical and from optimal light orientation. The balance between
-gravitropic and phototropic responses determines the final growth direction
-and is modulated by the relative strength of each stimulus.
-
-Thigmotropism, the response to mechanical contact, also interacts with
-gravitropism in climbing plants, which use both gravity sensing and touch
-sensing to locate and wrap around supports. The integration of multiple
-tropic signals allows plants to navigate complex three-dimensional
-environments and optimize their position for resource acquisition.
-
-## Gravitropism in Space Biology
-
-The study of gravitropism has gained particular importance in space biology,
-as understanding how plants respond to altered gravity is essential for
-growing crops in space habitats. Experiments on the International Space
-Station have shown that plants grown in microgravity exhibit disoriented
-growth patterns, confirming the central role of gravity sensing in normal
-plant development.
-
-These space experiments have also revealed that plants can partially adapt
-to microgravity over time, suggesting that other sensory inputs, including
-light and mechanical stimulation, can partially compensate for the absence
-of gravitropic cues. This adaptability is encouraging for the prospect of
-sustained plant cultivation in extraterrestrial environments.

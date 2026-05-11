@@ -88,27 +88,3 @@ Harvesting of seed capsules occurs 8–12 months after planting when capsules tu
 In its native forest habitat, A. daniellii plays a role in the understory plant community. The flowers are pollinated by insects, particularly bees and sunbirds attracted to the nectar.
 
 The seeds are dispersed by forest mammals including primates and duikers, which consume the fleshy fruit capsules. This animal-mediated dispersal is critical for natural regeneration.
-
-Deforestation across West and Central Africa poses a significant threat to wild populations. The species is listed as potentially vulnerable due to habitat loss, though formal conservation assessments remain incomplete.
-
-Sustainable harvesting practices are being developed in collaboration with local communities. These include rotational harvesting of rhizomes and cultivation of buffer zone plantings around remaining forest fragments.
-
-## Related Species
-
-The genus Aframomum includes several other economically important species. A. melegueta (grains of paradise) is the most widely known, used both as a spice and for its bioactive properties.
-
-A. angustifolium and A. sulcatum are used locally as spices and medicinal plants across Central Africa. A. polyanthum, known as "mock cardamom," has a flavor profile similar to A. daniellii.
-
-## See Also
-
-- [[aframomum-melegueta]]
-
-- [[elettaria-cardamomum]]
-- [[amomum-tsao-ko]]
-- [[boesenbergia-rotunda]]
-- [[myristica-fragrans]]
-- [[illicium-verum]]
-- [[pimpinella-anisum]]
-- [[eugenia-caryophyllata]]
-- ferula-assafoetida
-- [[syzygium-aromaticum]]

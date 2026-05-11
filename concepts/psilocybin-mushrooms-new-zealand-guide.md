@@ -24,7 +24,7 @@ among those interested in psychedelic drugs was that "[[guzman-magic-mushrooms-a
 Australian phenomenon, and that the only mushrooms of this nature found in NZ
 had arrived via the post. All analyses performed by the Department of
 Scientific and Industrial Research (DSIR) for the police at that time were
-upon [[panaeolus-cyanescens-bali-omelette]] and Psilocybe tasmaniana growing in the New Plymouth
+upon [[panaeolus-cyanescens-bali-omelette]] and [[psilocybe-tasmaniana]] growing in the New Plymouth
 sand dunes, particularly at Khomenii Beach, which is popular with surfers. At
 about the same time, a botanist from the United Kingdom recognized
 [[panaeolus-cyanescens-bali-omelette]] ("blue meanies") -- predominates in the New
@@ -32,18 +32,18 @@ about the same time, a botanist from the United Kingdom recognized
   Wellington (Otaki and Foxton); appears in autumn under lupine bushes in
   coastal paddocks
 
-- Psilocybe aucklandii -- found 25 km north of Auckland at Wood Hill State
+- [[psilocybe-aucklandii]] -- found 25 km north of Auckland at Wood Hill State
   Park; gregarious on brown clay soil partially covered with pine needles of
-  Pinus radiata in mixed pine and native forest
+  [[pinus-radiata]] in mixed pine and native forest
 
 - Psilocybe australiana -- found 20 km west of Auckland near Oratia;
   gregarious on soil with wood or leafy debris; fruits in April
 
-- Psilocybe eucalypta -- found northwest of New Plymouth; solitary on soil
+- [[psilocybe-eucalypta]] -- found northwest of New Plymouth; solitary on soil
   or in small groups among grassy [[fungal-succession-woody-debris-ecology]] or mosses in eucalyptus
   forests
 
-- Psilocybe subaeruginosa -- common on small pieces of buried wood on rough
+- [[psilocybe-subaeruginosa]] -- common on small pieces of buried wood on rough
   coastal farmlands, especially on sandy soil and in gardens with Pinus
   radiata bark mulch
 
@@ -61,7 +61,7 @@ psychoactive.
 Dr. Karl L. R. Jansen reports that there are at least 5 unidentified species
 from New Zealand which are considered psychoactive. In 1981, there was a
 report of an unidentified bluing Psilocybe species with affinities to the
-[[growing-gourmet-north-american-reishi-species]] Psilocybe caerulipes.
+[[growing-gourmet-north-american-reishi-species]] [[psilocybe-caerulipes]].
 
 ## The Maori Question
 
@@ -87,15 +87,3 @@ requiring emergency room treatment was a musician who, due to impaired
 coordination, had fallen and cut his head. Three out of 150 cases (approximately
 2%) suffered prolonged psychological difficulties. No deaths from psilocybian
 mushroom ingestion have been reported in NZ.
-
-The major physical danger arises from the use of fungicidal and agricultural
-sprays by farmers and enforcement authorities. Dr. Jansen has treated a person
-suffering from marked weakness of the respiratory muscles following ingestion
-of sprayed mushrooms. In several cases, strong men collapsed while crossing
-the road due to severe muscle weakness -- a potentially life-threatening
-situation.
-
-## See Also
-
-- [[cattle-dispersal-psychoactive-fungi-australia]] -- introduction mechanisms
-- [[psilocybin-dosage-guidelines-australian-species]] -- dosage information

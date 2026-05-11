@@ -6,11 +6,12 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # The Living Soil
 
-Masanobu Fukuoka's understanding of soil is foundational to his [[soil-food-web|soil organisms]], fungi, earthworms, and [[hamilton-composting-and-organic-matter-management]] that maintains its own fertility.
+Masanobu Fukuoka's understanding of soil is foundational to his [[soil-foodweb|soil organisms]], fungi, earthworms, and [[hamilton-composting-and-organic-matter-management]] that maintains its own fertility.
 
 ## The Soil Teems with Life
 

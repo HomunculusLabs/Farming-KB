@@ -1,7 +1,7 @@
 ---
-title: The Taxonomic Impediment in Fungal Species Description
+title: Taxonomic Impediment Fungal Species Description
 created: 2026-04-28
-tags: [mycology, taxonomy, biodiversity, species-description, systematics]
+tags: [[mycology]], taxonomy, biodiversity, species-description, systematics]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -28,7 +28,7 @@ The rate of new fungal species descriptions has increased over the
 past two decades, from approximately 1,000 to 2,000 per year, but at
 this pace it would take centuries to describe the estimated remaining
 diversity. Even optimistic projections that account for accelerating
-molecular methods suggest several hundred years of sustained effort
+[[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] suggest several hundred years of sustained effort
 at current capacity.
 
 ## Components of the Impediment
@@ -88,24 +88,3 @@ Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[fungal-taxonomic-impediment]]

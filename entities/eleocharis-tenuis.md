@@ -10,7 +10,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - González-Elizondo, M.S. & Peterson, P.M. (2009). "A revision of Eleocharis subg. Limnochloa in the Americas." Sida, Botanical Miscellany 33.
-  - Smith, S.G. (2002). "Eleocharis in Flora of North America, Vol. 23." Oxford University Press.
+  - Smith, S.G. (2002). "Eleocharis in Flora [[berry-growing]], Vol. 23." Oxford University Press.
   - USDA NRCS (2024). "Eleocharis tenuis Plant Guide." USDA Natural Resources Conservation Service.
 ---
 
@@ -54,7 +54,7 @@ The tubercle is pyramidal, about 0.5 millimeters wide, and is a key diagnostic f
 
 Eleocharis tenuis is native to eastern and central North America, ranging from Nova Scotia to Ontario, south to Florida and Texas.
 
-It also occurs disjunctly in the Pacific Northwest and has been reported from parts of Central America.
+It also occurs disjunctly in the [[psilocybin-north-america-pacific-northwest]] and has been reported from parts of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]].
 
 The species inhabits shallow wetlands including pond margins, marsh edges, vernal pools, wet ditches, and seasonally flooded fields.
 
@@ -66,11 +66,11 @@ It is common in disturbed wetland habitats and can appear as a pioneer species o
 
 The species is found in a range of water chemistries from acidic to mildly alkaline.
 
-Elevation ranges from sea level to approximately 1000 meters in the Appalachian region.
+Elevation ranges from sea level to approximately 1000 meters in the [[bolete-fungi-appalachian-region]].
 
 ## Ecology
 
-Eleocharis tenuis forms dense, mat-like stands through rhizomatous spread, creating significant ground cover in shallow water.
+Eleocharis tenuis forms dense, mat-like stands through rhizomatous spread, creating significant [[fukuoka-citrus-orchard-ground-cover-cultivation]] in shallow water.
 
 The dense root network contributes to substrate stabilization and reduces resuspension of sediments in shallow water bodies.
 
@@ -86,53 +86,4 @@ The species responds positively to seasonal drawdowns that expose bare substrate
 
 Flowering occurs from May through September, with fruiting following shortly after.
 
-Seed dispersal is primarily by water and waterfowl, with achenes floating briefly before sinking.
-
-Vegetative spread through rhizomes is the primary means of local population expansion and persistence.
-
-## Cultivation
-
-Eleocharis tenuis is occasionally used in constructed wetlands and ecological restoration projects targeting shallow emergent marsh habitats.
-
-Propagation is most successful from rhizome divisions planted in saturated substrate.
-
-Seed germination requires light exposure and moist conditions but no cold stratification.
-
-Transplants establish readily when planted at the appropriate water depth in muddy substrates.
-
-The species is not commonly available in the commercial nursery trade but may be included in specialized wetland seed mixes.
-
-It is hardy to USDA zone 4 and tolerates a range of soil types from mineral to organic.
-
-Slender spikerush requires full sun and consistent moisture for optimal growth and vigor.
-
-The species is generally pest-free and requires no fertilizer or special care once established.
-
-Growth is relatively slow in the first season, with more vigorous spread in subsequent years.
-
-## Uses and Conservation
-
-Eleocharis tenuis has no significant economic uses but is valued for its ecological role in wetland ecosystems.
-
-It is widely used in wetland restoration and constructed wetland design for nutrient removal and habitat creation.
-
-The species serves as an indicator of seasonal wetland hydrology in botanical surveys and wetland delineations.
-
-Populations are globally secure and the species is not considered at risk.
-
-Local populations may be affected by wetland drainage, fill, and habitat degradation.
-
-Climate-driven changes in precipitation patterns and wetland hydroperiods may shift the distribution of this species in coming decades.
-
-Slender spikerush contributes to overall wetland biodiversity by providing habitat structure for invertebrates and small vertebrates.
-
-## See Also
-
-- [[eleocharis-palustris]]
-- [[eleocharis-obtusa]]
-- [[eleocharis-acicularis]]
-- [[juncus-effusus]]
-- [[carex-stricta]]
-- [[schoenoplectus-lacustris]]
-- [[scirpus-tabernaemontani]]
-- [[typha-latifolia]]
+[[clay-pellet-seed-dispersal]] is primarily by water and waterfowl, with achenes floating briefly before sinking.

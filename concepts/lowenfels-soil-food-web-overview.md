@@ -2,7 +2,7 @@
 title: "Soil Food Web Overview"
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
+sources: "jeff-lowenfels & wayne-lewis, teaming-with-microbes-actinomycetes"
 wikilinks: "lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-protozoa-nematodes lowenfels-soil-macro-arthropods lowenfels-mycorrhizal-networks"
 type: concept
 tags: [soil]
@@ -23,7 +23,7 @@ Microbes."
 ## The Web's Members
 
 A mere teaspoon of good garden soil contains staggering numbers of organisms: a
-billion invisible bacteria, several yards of fungal hyphae, several thousand
+billion invisible bacteria, several yards of [[fungal-hyphae]], several thousand
 protozoa, and a few dozen nematodes. Visible organisms include earthworms (up to
 50 per [[comparison-biointensive-vs-square-foot-gardening]]), centipedes, springtails, ants, slugs, beetle larvae, and
 more. An acre of good garden soil contains 2,000 pounds of bacteria, 2,400 pounds
@@ -49,7 +49,7 @@ At the bottom of the soil food web are bacteria and fungi, which consume plant
 digest what they need and excrete excess nutrients as waste -- primarily ammonium
 -- directly in the rhizosphere, right where plant roots can absorb them. Soil
 bacteria and fungi act as "small bags of fertilizer," retaining nutrients in their
-bodies that would otherwise leach away. Protozoa and nematodes act as "fertilizer
+bodies that would otherwise leach away. [[teaming-with-microbes-protozoa-and-nematodes]] act as "fertilizer
 spreaders" by releasing these locked-up nutrients. Without this biological system,
 most important nutrients would drain from soil.
 
@@ -82,31 +82,9 @@ the least disturbed soils ([[fungal-roles-in-old-growth-forests]] timber) had fa
 while disturbed soils (rototilled) had far more bacteria. Agricultural soils have
 an F:B ratio of 1:1 or less; forest soils have 10:1 or more. This ratio follows
 plant succession: early succession (weeds, annuals) is bacterially dominated, while
-late succession (shrubs, trees, old growth forest) is fungally dominated.
+late succession (shrubs, trees, [[teaming-with-microbes-old-growth-forest]] forest) is fungally dominated.
 
 ## The Gardening Rules
 
 Lowenfels and Lewis distilled soil food web science into 19 rules. The most
 fundamental: Rule #1 states that some plants prefer fungally dominated soils
-while others prefer bacterially dominated soils. Rule #2: most vegetables,
-annuals, and grasses prefer nitrates and do best in bacterially dominated soils.
-Rule #3: most trees, shrubs, and perennials prefer ammonium and do best in
-fungally dominated soils. The pH of the rhizosphere, influenced by bacterial slime
-(alkaline) versus fungal acids (acidic), determines which nitrifying bacteria can
-convert ammonium to nitrate.
-
-## Human Impact
-
-Rototilling, spraying with herbicides and pesticides, compacting soil, and
-removing organic material all damage soil food webs. [[cervantes-chemical-fertilizers-guide]] kill off
-most or all soil food web microbes. Once a niche is destroyed, the web works
-imperfectly, and the gardener must step in to fill the gap. The alternative is to
-cooperate with nature by using the three soil food web tools: compost, mulch, and
-actively [[actively-aerated-compost-tea-aact-brewing]] tea. As Lowenfels and Lewis emphasize: "No one ever
-fertilized an old growth forest."
-
-## See Also
-- [[ingham-soil-food-web-assessment-methods]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-
-- [[lowenfels-compost-tea-brewing]]

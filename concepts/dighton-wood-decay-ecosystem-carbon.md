@@ -31,8 +31,8 @@ Much deadwood remains in the canopy prior to recruitment to the forest floor.
 This standing dead material supports a different fungal community than
 ground-level wood. Boddy and Rayner (1983) identified 12 basidiomycete
 species dominating oak wood canopies, with distinct pioneer (Phellinus
-ferreus, Stereum gausapatum), secondary (Phlebia adiata, Coriolus versicolor),
-and fauna-associated (Hyphoderma setigerum, Stereum hirsutum) species.
+ferreus, Stereum gausapatum), secondary (Phlebia adiata, [[coriolus-versicolor]]),
+and fauna-associated (Hyphoderma setigerum, [[stereum-hirsutum]]) species.
 
 ## White Rot and Brown Rot Strategies
 
@@ -47,19 +47,19 @@ lignin-rich residue.
 **Aquatic analogues**: In stream ecosystems, where true white and brown rot
 fungi are absent, lignolytic [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] (Tricladium, Anguillospora,
 Dendrospora) fulfill analogous roles. Approximately one-third (86 species) of
-aquatic hyphomycetes have been isolated from wood (Shearer, 1992).
+[[aquatic-hyphomycetes-and-ingoldian-spores]] have been isolated from wood (Shearer, 1992).
 
 ## Enzyme Systems in Wood Decomposition
 
-Sinsabaugh et al. (1993) studied extracellular enzymes in wood decomposition,
+Sinsabaugh et al. (1993) studied [[fungal-extracellular-enzymes]] in wood decomposition,
 finding that most are derived from fungal activity:
 
 - **Lignocellulases**: Production did not differ significantly across locations
   in temperate forest ecosystems, suggesting consistent functional capacity.
-- **Nutrient acquisition enzymes**: Acid phosphatase and N-acetylglucosaminase
+- **[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] enzymes**: Acid phosphatase and N-acetylglucosaminase
   showed high spatial variability, reflecting edaphic (soil condition)
   controls.
-- **Enzyme regulation**: Production is governed by nutrient availability. Where
+- **Enzyme regulation**: Production is governed by [[ph-and-nutrient-availability-garden-soils]]. Where
   N and P are less available, fungi expend more energy on enzyme production to
   sequester nutrients from organic sources.
 
@@ -88,50 +88,3 @@ particularly in the long-lived Basidiomycotina.
 
 Cord-forming basidiomycetes play a critical role in connecting and
 translocating resources across the forest floor:
-
-- Phanerochaete velutina translocated 75% of added P from decomposed wood
-  to newly colonized wood through mycelial cords (Wells and Boddy, 1990).
-- Maximum P translocation rates reach 7225 nmol P/cm2/day through cords.
-- Translocation occurs over distances up to 75 cm between decomposing
-  resources and living plants (wild strawberry and moss).
-- Cord formation is triggered by other organisms: cords form only in
-  unsterile soil, suggesting the trigger derives from microbial interactions.
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] translocated 13% of added P.
-- P translocation is temperature-dependent and reduced by soil drying.
-  Wetting had no effect on cord structure or P movement (Wells et al., 2001).
-
-## Fungal Interactions in Wood
-
-In wood, interactions among competing fungi produce clear demarcation zones
-between genetically incompatible strains or species, mappable in three
-dimensions (Rayner, 1978; Rayner and Boddy, 1988). In contrast, the
-colonization of mixed litter on the forest floor is more difficult to map due
-to patchy resource distribution. Robinson et al. (1993a) correlated
-colonization of individual straw units to relative growth rates on agar,
-ranking species in combative order.
-
-## Litter Binding and Erosion Prevention
-
-Cord-forming basidiomycetes (Collybia, Marasmiellus, Marasmius, Mycena)
-bind leaf litter together on the forest floor. Lodge and Asbury (1988)
-demonstrated that this binding reduces downslope litter loss by 35% from
-shallow slopes and 45% at steeper slopes, reducing soil erosion during high
-rainfall periods. This physical ecosystem engineering function is particularly
-important in tropical forests with high rainfall.
-
-## Carbon Storage Implications
-
-The formation of persistent mycelial mats represents significant long-term
-carbon storage. Hysterangium setchellii mats may account for 45-55% of total
-soil organic biomass (Cromack et al., 1979; Fogel and Hunt, 1983). The
-below-ground allocation to [[white-rot-fungi-in-pesticide-and-btex-bioremediation]] lignin modifying enzymes bioremediation remediation lignin modifying enzymes bioremediation fungi lignin modifying enzymes fungi lignin degradation enzymes brown rot fungi contribute to [[fungal-ecosystem-processes-overview]] beyond carbon and nutrient
-cycling:
-
-- **Pollutant degradation**: [[staycare-phanerochaete-chrysosporium-in-bioremediation]] degrades toxic
-  organic compounds including chlorine-bound organics and aromatic
-## See Also
-
-- biodiversity-fungi-wood-decay-succession
-- [[decomposition]]
-- [[lignin-degradation]]
-- [[phallus-impudicus]]

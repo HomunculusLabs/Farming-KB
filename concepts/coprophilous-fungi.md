@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Coprophilous Fungi
 
-Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
+Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in [[soil-protozoa-nutrient-cycling-and-mineralization]] decomposition of herbivore waste.
 
 ## Overview
 
@@ -64,7 +64,7 @@ The Zygomycetes include 10 orders with coprophilous representatives. Key genera:
 - Helicocephalum, Rhopalomyces (Zoopagales) - predators of other fungi
 - Piptocephalis, Syncephalis (Piptocephalidaceae) - mycoparasites
 
-**Reproductive biology**: Most coprophilous Zygomycetes are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. Sexual reproduction (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
+**[[clarke-marijuana-botany-sex-determination-reproductive-biology]]**: Most [[biodiversity-coprophilous-zygomycetes-dung]] are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. [[basidiomycete-mating-systems-sexual-reproduction]] (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
 
 ### Ascomycetes
 
@@ -83,7 +83,7 @@ The most species-rich group of coprophilous fungi, spanning 15+ orders:
 
 *Xylariales*:
 - Xylaria, Poronia, Hypocopra, Podosordaria, Wawelia
-- Poronia punctata - the distinctive "nail fungus" with stalked stromata on horse dung
+- [[poronia-punctata]] - the distinctive "nail fungus" with stalked stromata on horse dung
 
 *Leotiales*:
 - Thelebolus, Ascozonus, Caccobius (Thelebolaceae)
@@ -147,4 +147,4 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 
 ## Biogeography
 
-Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:
+Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]. The composition of dung fungal communities varies with:

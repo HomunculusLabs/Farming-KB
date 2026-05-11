@@ -87,12 +87,3 @@ ecosystems -- as opposed to laboratory or greenhouse experiments at
 unrealistic faunal densities -- remains open.
 
 ## Asymmetric Selection Pressure
-
-Selection of one fungus over another creates asymmetric selection pressure on
-the preferred fungal species. Under intense grazing pressure, growth of the
-preferred fungus declines relative to less preferred species. Grazing
-selection and intensity can thus alter the outcome of competition within the
-fungal community. This process operates alongside abiotic factors in shaping
-[[dighton-fungal-grazing-feedbacks-decomposition]]
-- fungal-collembola-interactions
-- [[dighton-aboveground-herbivory-mycorrhizal-effects]]

@@ -5,6 +5,7 @@ tags: [environmental-destruction, livestock, fishing, energy-efficiency, land-de
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,31 +88,3 @@ between man, animal, and nature.
 ## The Destruction of the Seas
 
 Modern fishing practices are just as destructive. The seas that were once
-fertile fishing grounds have been polluted and killed. Today's fishing industry
-raises expensive fish by feeding them several times their weight in smaller
-fish while rejoicing at how abundant fish have become. Research on breeding
-technology for shrimp, sea bream, and eels will not increase fish numbers.
-Such misguided efforts undermine modern fishing industries and will someday
-spell doom for the oceans.
-
-## The Campaign to Destroy Vegetation
-
-Few are aware of how Japan's livestock industry, which raises cattle in indoor
-stalls with feed grain shipped from the United States, has helped deplete
-American soil. Such practices are not merely uneconomical; they amount
-essentially to a campaign to destroy vegetation on a global scale. The true
-cost of a steak includes the topsoil of another continent.
-
-## The Fundamental Misunderstanding
-
-Everyone unquestioningly assumed that by raising poultry and livestock and by
-[[knf-fish-farming-integration]] our diet would improve, but no one had the slightest suspicion
-that the production of meat would ruin the land and the raising of fish would
-pollute the seas. This collective blindness to the true costs of animal
-agriculture is perhaps the most dangerous delusion of the modern food system.
-
-## Connection to Broader Critique
-
-This analysis connects directly to [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-textdoc-production-costs-not-coming-down]]
-- [[fukuoka-food-civilization-critique]]

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
   - Lellinger, D.B. (1985). "A Field Manual of the Ferns and Fern-Allies of the United States and Canada." Smithsonian Institution Press.
-  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora [[berry-growing]], Vol. 2.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Rothmaler, W. (2005). "Exkursionsflora von Deutschland." Spektrum Akademischer Verlag.
 ---
@@ -25,11 +25,11 @@ The species is widely regarded as one of the most elegant ferns in temperate flo
 
 A. pedatum is native to temperate forests of [[polypore-fungi-eastern-north-america]] America and eastern Asia. The disjunct distribution between the two continents is a classic example of the Arcto-Tertiary geoflora pattern shared by many temperate forest plants.
 
-The species is distinct from the commonly cultivated A. raddianum (Delta maidenhair), which is a tropical species intolerant of freezing temperatures. A. pedatum is fully cold-hardy and one of the few Adiantum species suited to outdoor cultivation in cold climates.
+The species is distinct from the commonly cultivated A. raddianum (Delta maidenhair), which is a tropical species intolerant of freezing temperatures. A. pedatum is fully cold-hardy and one of the few Adiantum species suited to outdoor cultivation [[query-how-do-i-grow-figs-in-cold-climates]].
 
 ## Taxonomy and Morphology
 
-Adiantum pedatum is the type species of the genus Adiantum, which contains approximately 200 species distributed across tropical and temperate regions worldwide. The genus is placed in the subfamily Vittarioideae within Pteridaceae.
+Adiantum pedatum is the type species of the genus Adiantum, which contains approximately 200 species distributed across tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The genus is placed in the subfamily Vittarioideae within Pteridaceae.
 
 Fronds arise from a short-creeping rhizome covered with dark scales. Each frond reaches 30–60 cm in height, with the stipe (petiole) constituting roughly half the total length and colored dark brown to purplish-black.
 
@@ -37,7 +37,7 @@ The lamina is unique among temperate ferns, consisting of a central rachis that 
 
 Pinnae are 5–15 per branch, each 1–3 cm long and fan-shaped with incised or lobed margins. The upper surface is medium green and glabrous, while the underside bears indusiate sori beneath the reflexed pinna margins.
 
-Spores are tetrahedral-globose, 30–40 µm in diameter, with a prominent perispore ornamented with low tubercles or reticulations. Spore production occurs from June through September in northern populations.
+Spores are tetrahedral-globose, 30–40 µm in diameter, with a prominent perispore ornamented with low tubercles or reticulations. [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] occurs from June through September in northern populations.
 
 The chromosome number is 2n = 58, consistent with a diploid constitution. The closely related Asian taxon A. pedatum ssp. japonicum has been variously treated as a subspecies or a distinct species by different authorities.
 
@@ -67,7 +67,7 @@ The species is not considered toxic, though ingestion of large quantities may ca
 
 ## Horticulture and Cultivation
 
-A. pedatum is one of the most sought-after temperate ferns for shade gardens, valued for its graceful architecture and reliable cold hardiness. It has received the Royal Horticultural Society's Award of Garden Merit.
+A. pedatum is one of the most sought-after temperate ferns for shade gardens, valued for its graceful architecture and reliable [[coleman-cold-hardiness-testing-ratings]]. It has received the Royal Horticultural Society's Award of Garden Merit.
 
 Optimal garden conditions include partial to full shade in rich, organic, consistently moist but well-drained soil. A pH range of 5.5–7.0 is tolerated, with best growth near neutral on amended soils containing leaf mold or compost.
 
@@ -79,7 +79,7 @@ Winter hardiness extends to USDA zone 3, making it one of the most cold-tolerant
 
 Propagation is primarily by spore culture or division of established clumps. Spore sowing requires a sterile medium and consistent humidity, with gametophyte development occurring within 4–8 weeks under optimal conditions.
 
-Transplanting established maidenhair ferns requires care to minimize root disturbance. Plants may take one to two growing seasons to fully recover from division or transplanting, during which consistent moisture is critical for survival.
+Transplanting established maidenhair ferns requires care to minimize root disturbance. Plants may take one to two [[jeavons-climate-adaptation-growing-seasons]] to fully recover from division or transplanting, during which consistent moisture is critical for survival.
 
 ## Ecology and Propagation
 
@@ -88,22 +88,3 @@ In natural communities, A. pedatum serves as a ground-layer indicator of high-qu
 The creeping rhizome contributes to soil stabilization on steep slopes and stream banks. The frond canopy intercepts rainfall, reducing splash erosion and moderating soil surface temperatures during summer months.
 
 Wildlife interactions are limited. The fronds are generally unpalatable to mammalian herbivores, though white-tailed deer may browse fronds during periods of severe food shortage. Few insect herbivores are recorded as specialists on Adiantum.
-
-Natural propagation in the wild depends entirely on [[aquatic-fungi-spore-dispersal-ingold]]. Wind carries spores short distances from parent plants, and successful establishment requires a suitable mycorrhizal association to develop during the subterranean gametophyte stage.
-
-Competition from aggressive ground covers such as English ivy or Japanese pachysandra can suppress natural maidenhair fern populations in disturbed woodlands. Forest fragmentation has reduced suitable habitat connectivity in many parts of the species' range.
-
-Garden division is the most practical propagation method for most growers. Established clumps can be carefully lifted and separated in early spring before new frond growth begins, with each division containing a viable growing point and attached rhizome.
-
-## See Also
-
-- [[botrypus-virginianus]]
-
-- [[matteuccia-struthiopteris]]
-- [[osmunda-regalis]]
-- [[botrychium-lunaria]]
-- [[equisetum-arvense]]
-- [[azolla-filiculoides]]
-- [[elodea-canadensis]]
-- [[myriophyllum-spicatum]]
-- [[vallisneria-americana]]

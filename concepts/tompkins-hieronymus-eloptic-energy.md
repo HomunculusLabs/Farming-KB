@@ -50,7 +50,7 @@ This led Hieronymus to the revolutionary conclusion that whatever
 caused the development of chlorophyll in plants was not sunlight itself
 but something associated with it, which, unlike light, was
 transmittable over wires. He had no idea at what frequency this energy
-might be located on the electromagnetic spectrum, or even if it was
+might be located on the [[electromagnetic-spectrum-plant-light-perception]], or even if it was
 related to it.
 
 ## Definition of Eloptic Energy
@@ -88,52 +88,6 @@ Hieronymus found that the frequency of emanation is in exact
 proportion to the number of particles in the nucleus of an element.
 The range of frequencies from complex substances can disclose what
 they contain. He concluded that disease was destroyed by the Abrams
-device and its descendants "through a radiative attack on the binding
-energy which holds molecular structures together."
-
-The idea that the angle of refraction of eloptic energy corresponds
-to nuclear structure suggests a deep connection between the physics
-of atomic nuclei and the biological effects of these emanations. This
-relationship, if confirmed, would bridge the gap between quantum
-physics and biology in a way that conventional science has yet to
-achieve.
-
-## Patent and Official Recognition
-
-In 1949, Hieronymus was awarded [[dmt-containing-plants-united-states-halpern]] patent 2,482,773 for
-"Detection of Emanations from Materials and Measurement of the Volumes
-Thereof." The patent application included an important qualification:
-the "apparatus preferably relies upon the element of touch and,
-therefore, the skill of the operator." The detector was described as
-"preferably an electrical conductor coated with a material having such
-characteristics that under influence of energy flowing through the
-conducting portion, the coating will change its [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] or
-viscosity."
-
-What actually happened at the detector to increase and decrease its
-drag was not understood, but the patent acknowledged that "the
-apparatus functions and, therefore, a positively acting analyzer for
-atomic radiations is produced even though the principle upon which it
-is based is not fully known."
-
-## Apollo Tracking Claims
-
-In 1968, Hieronymus and his wife Louise claimed they could track the
-physiological functions of Apollo astronauts from Earth to the Moon
-using photographs of the three astronauts inserted into their
-instrument. They claimed the transmitting energy could neither be
-shielded by the capsule's metal shell nor affected by the great
-distance from Earth.
-
-Their most startling claim was the discovery of a lethal radiation
-belt around the moon extending from approximately sixty-five miles
-down to about fifteen feet above its surface. While the astronauts
-traveled through this belt, Hieronymus noted a drop in vitality, but
-when they stepped onto the lunar surface, the trends showed a
-"spectacular turnaround."
 
 ## See Also
-
-- [[tompkins-photosynthesis-biophotons]] for biophoton emission
-- [[plant-bioelectricity]]
-- [[tompkins-kirlian-photography-plant-auras]] for aura photography
+- [[tompkins-plants-response-to-human-intent]]

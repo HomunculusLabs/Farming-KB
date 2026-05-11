@@ -80,7 +80,7 @@ One of the 50 fundamental herbs; superior herb in the *Shennong Bencao Jing* (~2
 - **Lung tonic** — calms wheezing, stops chronic cough, retains fluids
 - **Calms the shen** — insomnia, irritability, dream-disturbed sleep
 - **Adaptogen** — qi tonic restoring depleted vitality
-- Indications: chronic cough, night sweats, diarrhea, frequent urination, seminal emission, palpitations
+- Indications: chronic cough, [[blesching-cannabis-cancer-night-sweats]], diarrhea, frequent urination, seminal emission, palpitations
 
 ## Phytochemistry
 
@@ -88,28 +88,7 @@ Over 40 bioactive lignans; the dibenzocyclooctadiene (DBCOD) skeleton is unique 
 
 | Compound | Abundance | Key Activity |
 |----------|-----------|-------------|
-| Schisandrin A | ~1.2% | Hepatoprotective, antioxidant |
-| Schisandrol B | ~0.5% | Hepatoprotective, anti-inflammatory |
-| Gomisin A | ~0.3% | Hepatoprotective, antitumor |
-| Gomisin N | trace | Neuroprotective |
-| Schisantherin A | ~0.2% | Anti-inflammatory |
-| Deoxyschisandrin | ~0.3% | Antioxidant |
-| Schisandrin C | ~0.4% | Cytotoxic (anticancer) |
-
-Additional: organic acids (citric, malic, tartaric), vitamins C/E, trace volatile oils.
-
-## Pharmacology
-**Hepatoprotective:** Schisandrol B and schisandrin enhance hepatic glutathione and activate Nrf2/ARE signaling. Protect against CCl₄, acetaminophen, and ethanol-induced injury by reducing lipid peroxidation and stabilizing hepatocyte membranes.
-
-**Antioxidant:** DBCOD lignans scavenge ROS (superoxide, hydroxyl radicals). Schisandrin increases mitochondrial [[one-carbon-metabolism-vs-glutathione-redox-biology]] status and enhances SOD, catalase, GPx activity.
-
-**Anti-inflammatory:** Schisandrin and schisantherin A suppress NF-κB and MAPK pathways, reducing TNF-α, IL-6, IL-1β via IκB kinase inhibition.
-
-**Neuroprotective:** Schisandrin B protects against glutamate excitotoxicity and amyloid-beta toxicity. Modulates BDNF/TrkB signaling and reduces neuroinflammation, supporting use as a [[adaptogenic-herbs-guide]] — comprehensive guide to adaptogenic herbs
-- [[herbal-materia-medica]]
-- schisandra sphenanthera — Southern Schisandra, related medicinal species
-- [[rhodiola-rosea]] — Arctic root, comparative adaptogenic profile
 
 ## See Also
-
-- [[schisandra-sphenanthera]]
+- [[actinidia-chinensis]]
+- [[dianthus-chinensis]]

@@ -88,11 +88,3 @@ may be grown together with no particular advantage or disadvantage.
 
 Salad vegetables are an ideal entry point for multi-crop planting because they
 are generally compatible with each other. Bibb lettuce and spinach are noted as
-good companions. Green beans and strawberries also grow well together. These
-simple combinations build confidence and experience before attempting more
-complex multi-crop arrangements.
-
-## See Also
-
-[[jeavons-crop-rotation-detail]]
-[[jeavons-grow-biointensive-method-overview]]

@@ -1,9 +1,9 @@
 ---
-title: bloomfield-fungal-parasites-of-insects and Predators of Nematodes
+title: Fungal Parasites Predators Nematodes
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
-tags: [mycology, fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Fungal Parasites and Predators of Nematodes
@@ -67,11 +67,11 @@ Spores or conidia are then released to infect new hosts.
 
 ## Life Cycle Strategies
 
-Nematophagous fungi can be broadly categorized by their life cycle strategies.
+[[nematophagous-fungi]] can be broadly categorized by their life cycle strategies.
 Obligate nematophagous fungi depend entirely on nematodes for nutrition and
 reproduction, maintaining trapping structures or infective spores at all times.
 Facultative nematophagous fungi are primarily saprotrophs that switch to
-nematode predation or parasitism when nitrogen or other nutrients are limiting.
+[[fungal-nematode-predation-and-trapping-mechanisms]] or parasitism when nitrogen or other nutrients are limiting.
 This facultative strategy is more common and ecologically flexible, allowing
 fungi to survive in environments where nematode prey are intermittently
 available.
@@ -87,32 +87,3 @@ influenced by soil environmental conditions including temperature, moisture, pH,
 [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content, and the presence of competing microorganisms.
 
 ## Biological Control Applications
-
-The use of nematophagous fungi for biological control of plant-parasitic
-nematodes has been extensively investigated. Species of Arthrobotrys,
-Paecilomyces lilacinus, and Pochonia chlamydosporia have shown the greatest
-promise as [[singh-entomopathogenic-fungi-biocontrol-agents]]. These fungi can be applied as formulated products
-to soil, nursery media, or planting material. Integration with other management
-practices, including [[coleman-cover-crop-rotation-and-soil-health]], [[cervantes-organic-amendments-chart]], and resistant varieties,
-generally provides the most effective and sustainable [[nematode-management]].
-
-## Commercial Products and Host Specificity
-
-Several fungal-based nematicides have been developed and commercialized.
-Paecilomyces lilacinus strain 251 is marketed as a biocontrol agent against
-root-knot nematodes (Meloidogyne spp.). Pochonia chlamydosporia has been
-developed for control of cyst nematodes (Globodera and Heterodera spp.).
-Challenges in commercialization include maintaining product viability during
-storage, achieving consistent field performance across diverse soil
-environments, and competing with conventional chemical nematicides on cost and
-ease of use. Nematophagous fungi vary widely in host specificity, with
-endoparasites tending toward narrower host ranges and predatory fungi generally
-capturing a wider variety of nematode sizes and types.
-
-## See Also
-
-- [[saprobic-soil-fungi-ecology-survey]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[fungal-ecosystem-roles]]
-- fungal biological control agricultural pests

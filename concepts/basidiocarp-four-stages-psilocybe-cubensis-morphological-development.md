@@ -1,6 +1,6 @@
 ---
-title: Basidiocarp Developmental Stages in Psilocybe cubensis
-aliases: [psilocybe cubensis growth stages, mushroom development stages, basidiocarp maturation phases, pileus development stages, stipe elongation phases]
+title: Basidiocarp Four Stages Psilocybe Cubensis Morphological Development
+aliases: [[brassinosteroid-psilocybe-cubensis-growth]] stages, mushroom development stages, basidiocarp maturation phases, pileus development stages, [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] phases]
 tags: [mycology, mushroom-development, psilocybe-cubensis, basidiocarp, developmental-biology, fruitbody-stages]
 sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
@@ -23,7 +23,7 @@ Badham (1982) divided the development of *Psilocybe cubensis* basidiocarps into 
 
 ### Duration
 
-Approximately 0-24 hours after placement in the wind tunnel (under controlled conditions). In natural settings, this stage duration varies with temperature, humidity, and genetic factors.
+Approximately 0-24 hours after placement in the wind tunnel (under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]). In natural settings, this stage duration varies with temperature, humidity, and genetic factors.
 
 ### Tropic Behavior
 
@@ -51,7 +51,7 @@ Approximately 24 hours after Stage 1 onset (roughly 24-48 hours total under wind
 
 ### Tropic Behavior
 
-- **Anemotropism continues** but may begin to be influenced by the emerging geotropic response in some individuals
+- **Anemotropism continues** but may begin to be influenced by the emerging [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] in some individuals
 - When cultures are rotated perpendicular to the wind at this stage, growth is upward rather than into the wind
 - This suggests that by Stage 2, the balance between evaporative-demand-driven growth and gravity sensing is shifting
 
@@ -79,7 +79,7 @@ Approximately 48-72 hours after Stage 1 onset under controlled conditions.
 
 ### Tropic Behavior
 
-- **Negative geotropism dominates** — The pileus turns upward, reorienting to a horizontal position
+- **[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]] dominates** — The pileus turns upward, reorienting to a horizontal position
 - The stipe curves so that the cap faces upward with gills pointing downward
 - This reorientation occurs when light is incident from above or below
 - **Critically, this recurvature does NOT occur in sporeless mutants**
@@ -88,62 +88,3 @@ Approximately 48-72 hours after Stage 1 onset under controlled conditions.
 ### The Sporulation-Geotropism Link
 
 Stage 3 is when the connection between spore production and geotropism becomes apparent. The gills, now actively producing spores, also appear to produce a tropic hormone that modifies the stipe's response to environmental stimuli. The mushroom switches from responding primarily to evaporative demand (wind, humidity) to responding primarily to gravity.
-
-### Spore Dispersal Readiness
-
-At Stage 3, the mushroom is fully configured for spore dispersal:
-
-- Horizontal pileus maximizes fall distance for released spores
-- Downward-facing lamellae allow spores to drop freely
-- Spores are mature and viable
-- Basidial spore production is at its peak rate
-
-## Stage 4: Late Maturity
-
-### Morphological Characteristics
-
-- The pileus becomes **more or less plane** (flat) — fully expanded
-- The cap margin may begin to uplift or undulate
-- Spore production continues but may begin to decline
-- The stipe may show signs of water stress or senescence
-- The mushroom is at maximum size
-
-### Duration
-
-Approximately 72+ hours after Stage 1 onset. The mushroom can be harvested at this point.
-
-### Tropic Behavior
-
-- Growth has largely ceased; tropic responses are minimal
-- The cap orientation established during Stage 3 is maintained
-- If the mushroom was correctly oriented at Stage 3, it remains horizontal for spore release
-
-### Senescence
-
-After Stage 4, the mushroom begins to deteriorate: cap tissue softens, spore production declines, and the fruitbody becomes susceptible to decomposition.
-
-## Summary of Tropic Transitions Across Stages
-
-| Stage | Pileus Shape | Dominant Tropism | Spore Production | Light Requirement |
-|-------|-------------|-----------------|-----------------|-------------------|
-| 1 | Slight swelling | Anemotropism | No | For initiation only |
-| 2 | Nearly spherical | Anemotropism (waning) | Beginning | Increasingly important |
-| 3 | Open hemispherical | Negative geotropism | Active | Required for both |
-| 4 | Plane/flat | Growth ceased | Declining | Minimal |
-## Cell Division vs. Cell Expansion
-
-A fundamental aspect of basidiocarp development is the relative timing of cell division and cell expansion:
-
-1. **Early primordium** — Most cell divisions occur while primordia are still small
-2. **Stages 1-2** — Growth is primarily through **acropetal cell expansion** of already-divided cells
-3. **Upper stipe** — Some limited cell division may continue
-4. **Pileus expansion** — Cap enlargement at Stages 2-3 is achieved through cell expansion, not new divisions
-
-This developmental pattern means the mushroom's final size and shape are largely determined early, with later stages involving elaboration and repositioning of pre-existing cell populations.
-## Related Concepts
-
-- [[sporulation-linked-geotropism-psilocybe-cubensis-gill-hormone]]
-- [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]]
-- [[psilocybe-cubensis-development-stages]]
-- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
-- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]

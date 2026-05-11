@@ -37,7 +37,7 @@ True fungi and straminipiles characterized by motile zoospores. Dispersed throug
 - Degrade chitin (exuviae of aquatic insects), cellulose, and keratin
 - Parasitize aquatic insects and invertebrates
 
-**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, Batrachochytrium dendrobatidis (amphibian pathogen) shows evidence of recent intercontinental spread.
+**Distribution**: Chytrids are generally considered cosmopolitan. Sparrow found the same species in Hawaiian bogs and northern Michigan bogs. However, [[batrachochytrium-dendrobatidis]] (amphibian pathogen) shows evidence of recent intercontinental spread.
 
 ### Peronosporomycetes (Formerly Oomycetes)
 
@@ -57,12 +57,12 @@ Now classified in Kingdom Straminipila, not true Fungi, but traditionally studie
 **Ecological roles**:
 - Major saprotrophs on submerged plant debris, fruits, and dead animals in freshwater
 - Parasites of fish (saprolegniosis), aquatic insects, algae, and nematodes
-- Key plant pathogens: Phytophthora infestans (potato late blight), Pythium (damping-off)
+- Key plant pathogens: [[bloomfield-potato-blight-phytophthora-infestans]] (potato late blight), Pythium (damping-off)
 
 **Collection methods**:
 - Baiting with hemp seed halves, snake skin, and fruit in water samples
 - In situ baiting with mesh bags or dialysis tubing
-- Dilution plating for Pythium isolation
+- [[particle-filtration-dilution-plating-microfungal-isolation]] for Pythium isolation
 - CFD (charcoal-filtered distilled) water promotes zoospore formation
 
 ### Freshwater Ascomycetes
@@ -84,8 +84,8 @@ A diverse group, with approximately 600+ species reported from freshwater habita
 **Temporal patterns**: Many freshwater ascomycetes are seasonal. Fruiting often peaks in autumn when submerged leaf litter is most abundant. Tropical species may fruit year-round.
 
 **Geographic distribution**:
-- Temperate regions best studied (Europe, North America)
-- Tropical regions poorly documented but likely more diverse
+- [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] best studied (Europe, North America)
+- [[fukuoka-natural-farming-in-tropical-regions]] poorly documented but likely more diverse
 - Many species appear to have broad distributions
 
 ### Mitosporic Fungi (Hyphomycetes)
@@ -124,7 +124,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 
 ### Temporary Ponds
 - Cyclical drying and flooding
-- Select for fungi with resistant resting structures
+- Select for fungi with resistant [[fungal-sclerotia-and-resting-structures]]
 - Rapid colonizers after refilling
 
 ## Collection and Study Methods

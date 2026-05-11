@@ -53,9 +53,9 @@ Needles are notably pungent when crushed, emitting a sharp resinous odor.
 
 **Cones** are cylindrical, 4–8 cm long and 2–3 cm wide, with thin, flexible, slightly notched scales. They are green when immature, ripening to light brown.
 
-Cones dehisce and release seeds in autumn, unlike the semi-serotinous cones of [[picea-mariana|black spruce]].
+Cones dehisce and release seeds in autumn, unlike the semi-serotinous cones of [[picea-mariana]].
 
-**Root system** is moderately deep with well-developed lateral roots. The species forms ectomycorrhizal associations with a range of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], including *Suillus*, *Lactarius*, and *Cortinarius* species.
+**Root system** is moderately deep with well-developed lateral roots. The species forms [[ectomycorrhizal-associations]] with a range of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]], including *Suillus*, *Lactarius*, and *Cortinarius* species.
 
 ## Distribution and Habitat
 
@@ -71,9 +71,9 @@ It grows best on deep, well-drained brown forest soils (cambisols) derived from 
 
 Jezo spruce is shade-tolerant and can persist in the understory for extended periods, eventually emerging after canopy disturbance from windthrow, logging, or landslide.
 
-It is less tolerant of waterlogged conditions than [[picea-mariana|black spruce]] and is generally absent from peatland habitats.
+It is less tolerant of waterlogged conditions than [[picea-mariana]] and is generally absent from peatland habitats.
 
-The species is sensitive to air pollution and has declined in some areas near industrial centers in Japan and the Russian Far East.
+The species is sensitive to [[air-pollution-fungal-community-responses]] and has declined in some areas near industrial centers in Japan and the Russian Far East.
 
 ## Ecology
 
@@ -85,55 +85,6 @@ The species provides habitat for the Blakiston's fish owl, one of the world's ra
 
 Sika deer, brown bears, red foxes, and Japanese macaques are among the mammals that utilize Jezo spruce forests for cover, forage, and denning.
 
-The spruce beetle (*Dendroctonus armandi*) and other bark beetle species can cause significant mortality during outbreak periods, particularly in drought-stressed stands.
+The spruce beetle (*Dendroctonus armandi*) and other [[bark-beetle-fungi-ophiostomatales-collection-isolation]] species can cause significant mortality during outbreak periods, particularly in drought-stressed stands.
 
 Needle cast fungi, particularly *Lophodermium piceae*, cause premature needle drop and reduced growth, especially in dense, unthinned plantations.
-
-Root and butt rot caused by *Armillaria* species and *Heterobasidion annosum* are important decay agents in managed forests, reducing timber quality and increasing windthrow susceptibility.
-
-Jezo spruce forests are effective carbon sinks, storing significant biomass in both live wood and forest floor [[hamilton-composting-and-organic-matter-management]].
-
-## Cultivation and Uses
-
-Jezo spruce is a primary timber species in Hokkaido and the Russian Far East, harvested for construction lumber, plywood, pulpwood, and utility poles.
-
-The wood is pale yellow-white, moderately lightweight, straight-grained, and relatively easy to work, with good strength properties for structural applications.
-
-It is widely used in Japanese traditional architecture, particularly for exposed structural beams and interior paneling where its light color and fine grain are valued.
-
-The species is also harvested for musical instrument soundboards, particularly for piano soundboards, where its consistent grain and resonance properties are advantageous.
-
-Jezo spruce is planted as an ornamental in large gardens and parks in cool-climate regions, valued for its dense, conical form and dark green foliage.
-
-Several horticultural cultivars exist, including compact and dwarf forms selected for rock gardens and residential landscapes.
-
-The species has been introduced to Europe and [[psilocybin-north-america-pacific-northwest]] as an ornamental but remains uncommon outside of botanical collections and specialized nurseries.
-
-Artificial regeneration from container-grown seedlings is standard practice in Japanese forestry, with planting densities of 2,000–3,000 seedlings per hectare.
-
-Rotation lengths for timber production range from 60–100 years depending on site quality and management objectives.
-
-## Related Species
-
-Yezo spruce is closely related to [[picea-glauca|white spruce]] of North America, and the two are sometimes considered conspecific by some authorities.
-
-Sakhalin spruce (*P. glehnii*) is endemic to Hokkaido and Sakhalin, differing in its longer cones with more prominently toothed scale margins.
-
-[[picea-sitchensis|Sitka spruce]] of the Pacific Northwest is a larger coastal species with thicker bark and larger cones.
-
-Koyama's spruce (*P. koyamae*) is a rare, endangered Japanese endemic with a very restricted range in central Honshu.
-
-Jezo spruce commonly associates with Sakhalin fir, Erman's birch, and Japanese oak in Hokkaido forests, and with [[picea-mariana|black spruce]] and Dahurian larch (*Larix gmelinii*) at the northern limits of its range in Siberia.
-
-## See Also
-
-- [[picea-glauca]] — White spruce, the closely related [[growing-gourmet-north-american-reishi-species]] species
-- [[picea-sitchensis]] — Sitka spruce, the large coastal Pacific spruce
-- [[picea-abies]] — Norway spruce, widely planted European conifer
-- [[abies-sibirica]] — Siberian fir, boreal associate across northern Asia
-- [[picea-mariana]] — Black spruce, boreal associate at range limits
-- [[pseudotsuga-menziesii]] — Douglas-fir, dominant Pacific Northwest conifer
-- [[abies-nordmanniana]] — Nordmann fir, ornamental [[arthur-christmas-tree-amanita-muscaria]] species
-- [[larix-laricina]] — Tamarack, deciduous boreal conifer
-- [[pinus-sylvestris]] — Scots pine, widespread Eurasian conifer
-- [[cedrus-libani]] — Cedar of Lebanon, ornamental Mediterranean conifer

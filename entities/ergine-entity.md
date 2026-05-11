@@ -22,8 +22,8 @@ sources:
   - Shulgin, A., Shulgin, A. (1997). "TIHKAL: The Continuation."
   Transform Press.
   - Hofmann, A. (1959). "The Active Principles of the Seeds of
-    Rivea corymbosa and Ipomoea violacea." Public Health Service.
-  - Taber, W.A., Heacock, R.A. (1962). "Lysergic Acid Amide."
+    [[rivea-corymbosa]] and [[ipomoea-violacea]]." Public Health Service.
+  - Taber, W.A., Heacock, R.A. (1962). "[[lysergic-acid-amide]]."
   Phytochemistry 1(3): 111-116.
   - Passie, T. et al. (2008). "The Pharmacology of Lysergic Acid
   Diethylamide." CNS Neuroscience & Therapeutics 14(4): 295-310.
@@ -37,8 +37,8 @@ sources:
 Ergine, commonly known as **LSA** (D-lysergic acid amide), is a naturally
 occurring psychedelic alkaloid of the lysergamide class. It is the primary
 psychoactive constituent in seeds of several *Convolvulaceae* species,
-including *Ipomoea tricolor*, *I. violacea*, *[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*, and *Rivea
-corymbosa*. Albert Hofmann first isolated ergine from *Rivea corymbosa*
+including *[[ipomoea-tricolor]]*, *I. violacea*, *[[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]*, and *Rivea
+corymbosa*. [[albert-hofmann]] first isolated ergine from *Rivea corymbosa*
 seeds in 1960, confirming these plants as the botanical source of the
 Aztec entheogen *ololiuqui*.
 
@@ -88,59 +88,3 @@ physical sedation and vasoconstriction effects.
   4–12 seeds (*A. nervosa*)
 - **Visual effects:** Enhanced color, pattern recognition, geometric
   visuals at moderate doses; less intense than LSD
-- **Cognitive effects:** Mild introspection, dream-like thought patterns
-- **Physical effects:** Nausea (common with crude seed preparations),
-  vasoconstriction, lethargy, uterine contraction, pupil dilation
-- **Emotional effects:** Calm, meditative, occasionally dysphoric;
-  comparable to a waking dream state
-
-## Natural Occurrence
-
-- *Argyreia nervosa* (Hawaiian baby woodrose) — highest concentration,
-  ~0.5–0.6% ergine by seed weight; 4–8 seeds active
-- *Ipomoea tricolor* ([[golden-guide-morning-glory-and-ololiuqui]], "Heavenly Blue") — ~0.05–0.1%;
-  150–300 seeds active
-- *Ipomoea violacea* — similar profile to *I. tricolor*
-- *Rivea corymbosa* (Ololiuqui) — ~0.02–0.05%; traditional Aztec
-  entheogen, lower potency per seed
-- *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (Ergot fungus) — trace amounts as biosynthetic
-  intermediate
-
-## History and Ethnobotany
-
-Ergine-containing seeds served as entheogens for centuries. The Aztec and
-Mazatec peoples consumed *ololiuqui* (*Rivea corymbosa*) and *tlitliltzin*
-(*I. tricolor*) in ritual contexts. Spanish chroniclers documented the
-practice in the 16th century, but the active compound remained unknown
-until Hofmann's investigation in 1960 — more sedative and dream-like
-than LSD. In the 1960s–70s, morning glory seeds became popular in the
-counterculture, leading to commercial pesticide coatings.
-
-## Preparation and Harm Reduction
-
-Crude seed preparations produce significant nausea from non-psychoactive
-constituents (glycosides, tannins). Reduction methods: cold water
-extraction (soak and filter), ethanol extraction, petroleum ether
-defatting. Vasoconstriction is a significant risk at higher doses;
-ergotism-like symptoms warrant discontinuation. Ergine is uterotonic —
-contraindicated in pregnancy.
-
-## Legal Status
-
-- **US:** Not explicitly scheduled; considered Schedule I analog of LSD
-  under Federal Analog Act
-- **UK:** Controlled under Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
-- **Australia:** Schedule IX; **Canada:** Schedule III CDSA
-## Related Compounds
-
-- **LSD:** Diethylamide analog; ~10–30× more potent, longer duration
-- **Ergometrine:** Pharmaceutical [[kykeon-composition-and-ergot-alkaloid-hypothesis]]; oxytocic, minimal
-  psychedelic activity
-- **Isoergine:** Stereoisomer; co-occurs in seeds, less active
-
-## See Also
-
-- [[lsd]]
-- [[ipomoea-tricolor]]
-- [[psilocybin]]
-- ergine entity

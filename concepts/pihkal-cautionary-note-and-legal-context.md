@@ -39,7 +39,7 @@ The cautionary note reflects the environment following decades of increasingly r
 
 Shulgin was one of the last researchers legally authorized to synthesize and test novel psychoactive compounds in humans. The cautionary note implicitly recognizes that this era of legitimate research was ending.
 
-The broader context of [[psychedelic-harm-reduction]] practice. Its core principles — know the compound, start low, never give to another without informed consent — have been incorporated into contemporary [[philosophical-implications-of-psychedelics]] and [[hofmann-lsd-clinical-research-early-studies]] institutions at [[psychedelic-harm-reduction-philosophy]], which prioritizes accurate information and personal responsibility over prohibition.
+The broader context of [[harm-reduction-guide]] practice. Its core principles — know the compound, start low, never give to another without informed consent — have been incorporated into contemporary [[philosophical-implications-of-psychedelics]] and [[hofmann-lsd-clinical-research-early-studies]] institutions at [[psychedelic-harm-reduction-philosophy]], which prioritizes accurate information and personal responsibility over prohibition.
 
 ## Legacy
 

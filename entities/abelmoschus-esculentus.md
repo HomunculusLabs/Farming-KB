@@ -88,29 +88,3 @@ The plant's deep taproot (up to 2 meters) improves soil structure and accesses n
 Okra serves as a living mulch in tropical garden systems, with the dense foliage suppressing weed growth between rows. The high [[dighton-fungal-biomass-production-aquatic-ecosystems]] returns significant organic matter to the soil when crop residues are incorporated at the end of the growing season.
 
 As a trap crop, okra can attract certain pests away from more vulnerable vegetable species. The flowers provide nectar and pollen for pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], supporting biological pest control in diversified farming systems.
-
-## History and Dispersal
-
-The wild progenitor of cultivated okra is believed to be *Abelmoschus tuberculatus*, native to the Ethiopian-Sudanian region. Archaeological evidence suggests cultivation in Egypt by the 2nd millennium BCE, with subsequent spread across the Sahel and into South Asia via Arabian traders.
-
-The species name "esculentus" (Latin for "edible") reflects its primary value as a food plant. The common name "okra" derives from the West African Igbo word "ọ́kụ̀rụ̀," carried to the Americas through the Atlantic slave trade.
-
-Introduction to the Americas likely occurred in the 17th century through multiple pathways: Portuguese traders to Brazil, French colonists to Louisiana, and enslaved Africans throughout the Caribbean. The crop became deeply embedded in African-American culinary traditions, where it remains culturally significant today.
-
-## See Also
-
-- [[luffa-cylindrica]]
-
-- [[strobilurus-esculentus]]
-- [[cyperus-esculentus]]
-
-- [[hibiscus-sabdariffa]]
-- [[vigna-unguiculata]]
-- [[ipomoea-batatas]]
-- [[solanum-tuberosum]]
-- [[coriandrum-sativum]]
-- [[curcuma-longa]]
-- [[ocimum-basilicum]]
-- [[pimpinella-anisum]]
-- [[colocasia-esculenta]]
-- [[dioscorea-alata]]

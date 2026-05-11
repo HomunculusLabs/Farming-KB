@@ -89,39 +89,5 @@ There is something of the Fournier Transform in any and all drug
 experiments. A [[psychedelic-drug-testing-and-adulterant-screening]] experience is a complex combination
 of many signals going all at the same time. Something like the sound
 
-of an oboe playing the notes of the A-major scale. There are events
-that occur in sequence, such as the initial A, followed by B, followed
-by C-sharp and on and on. That is the chronology of the experience,
-and it can be written down as a series of perceived phenomena. The
-notes of the scale. Black quarter notes, with flags at the tops of
-their staffs, going up the page of music.
-
-But within each of these single events, during the sounding of the
-note "A," for example, there is a complex combination of harmonics
-being produced at the same time, including all components from the
-fundamental oscillation on up through all harmonics into the
-inaudible. This mixture defines the played instrument as being an
-oboe. Each component may be shared by many instruments, but the
-particular combination is the unique signature of the oboe.
-
-This analogy applies precisely to the study of psychedelic drugs and
-their actions. Each drug has a chronology of effect, like the notes
-of the A-major scale. But there are many components of a drug's
-action, like the harmonics from the fundamental to the inaudible
-which, taken in concert, defines the drug. With musical instruments,
-these components can be shown as sine waves on an oscilloscope. One
-component, 22%, was a sine wave at a frequency of 1205 cycles, and a
-phase angle of +55!. But in psychopharmacology? There is no psychic
-
-(Additional commentary available in source.)
-
-## Synthesis
-
-A solution of 2.6 g
-
-2,5-dimethoxy-4-((n)-propylthio)benzaldehyde (see under [[aleph-2-entity-pihkal]]
-- [[aleph-entity-pihkal]]
-
 ## See Also
-
 - [[aleph-6-entity-pihkal]]

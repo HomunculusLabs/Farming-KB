@@ -14,18 +14,18 @@ sources:
   - R.W. H. et al. (2004). "Amaryllidaceae alkaloids from Zephyranthes candida." Phytochemistry 65(22).
   - H. T. Flagg and G.L. Kirchoff (2014). "Systematics of Zephyranthes." American Journal of Botany 101(4).
   - USDA NRCS (2024). "Zephyranthes candida." PLANTS Database.
-  - A. Meerow (2019). "Amaryllidaceae." In "Flora of North America." Oxford University Press.
+  - A. Meerow (2019). "Amaryllidaceae." In "Flora [[berry-growing]]." Oxford University Press.
 ---
 
 # Zephyranthes candida
 
 ## Overview
 
-Zephyranthes candida, commonly known as the white rain lily, autumn zephyrlily, or Peruvian swamp lily, is a species of bulbous perennial in the family Amaryllidaceae. It is native to South America and has become widely naturalized in warm-temperate and subtropical regions worldwide.
+Zephyranthes candida, commonly known as the white rain lily, autumn zephyrlily, or Peruvian swamp lily, is a species of bulbous perennial in the family Amaryllidaceae. It is native to [[guzman-psilocybin-mushrooms-south-america]] and has become widely naturalized in warm-temperate and subtropical regions worldwide.
 
-The species is valued for its profuse, star-shaped white flowers that appear suddenly after rainfall, typically from late summer through autumn. This rain-triggered blooming habit gives the genus its common name "rain lily" and makes the plant a reliable and predictable element of seasonal garden displays.
+The species is valued for its profuse, star-shaped white flowers that appear suddenly after rainfall, typically from late summer through autumn. This rain-triggered blooming habit gives the genus its common name "rain lily" and makes the plant a reliable and predictable element of [[seasonal-garden-tasks-calendar]] displays.
 
-Zephyranthes candida is one of the most commonly cultivated species in the genus and has become naturalized in many parts of the world, including the southeastern United States, southern Africa, India, China, and Australia. It is occasionally regarded as a minor weed in disturbed habitats but poses no significant invasive threat.
+Zephyranthes candida is one of the most commonly cultivated species in the genus and has become naturalized in many parts of the world, including the southeastern [[dmt-containing-plants-united-states-halpern]], southern Africa, India, China, and Australia. It is occasionally regarded as a minor weed in disturbed habitats but poses no significant invasive threat.
 
 ## Taxonomy and Morphology
 
@@ -37,7 +37,7 @@ Flowering stems (scapes) are 15 to 25 centimeters tall, bearing a single termina
 
 The stamens are equal to or slightly shorter than the perianth segments, with yellow anthers. The style is filiform and exceeds the stamens, terminating in a three-lobed stigma. Flowers are typically self-compatible and produce viable seed without cross-pollination.
 
-Fruits are globose capsules approximately 1 centimeter in diameter, containing several black, flattened seeds. The capsules dehisce irregularly at maturity, releasing seeds that may be dispersed by water or animals. Seed production is moderate, but vegetative reproduction through bulb division is the primary mode of spread in cultivation.
+Fruits are globose capsules approximately 1 centimeter in diameter, containing several black, flattened seeds. The capsules dehisce irregularly at maturity, releasing seeds that may be dispersed by water or animals. [[cannabis-controlled-pollination-seed-production]] is moderate, but vegetative reproduction through bulb division is the primary mode of spread in cultivation.
 
 The bulbs produce numerous offsets annually, forming dense clumps that can extend 30 centimeters or more in diameter within 2 to 3 years. This prolific vegetative reproduction contributes to the species' ability to naturalize rapidly in suitable habitats outside its native range.
 
@@ -57,9 +57,9 @@ In areas with mild winters, Zephyranthes candida retains its foliage year-round 
 
 Zephyranthes candida plays a modest ecological role in its native and introduced ranges. The flowers are visited by a variety of pollinators, including bees, butterflies, and hoverflies, which are attracted to the white flowers and the small quantities of nectar produced at the base of the perianth tube.
 
-The species is adapted to seasonal wetland conditions. During the growing season, the bulbs can tolerate periods of complete submersion for several weeks without damage, a trait that distinguishes it from many other Zephyranthes species that prefer drier conditions.
+The species is adapted to seasonal wetland conditions. During [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], the bulbs can tolerate periods of complete submersion for several weeks without damage, a trait that distinguishes it from many other Zephyranthes species that prefer drier conditions.
 
-In its native South American habitats, Zephyranthes candida grows in communities with other wetland and riparian plant species. It is typically found at the margins of wetlands and water bodies, occupying the ecotone between aquatic and terrestrial plant communities.
+In its native [[chiric-caspi-brunfelsia-south-american-hallucinogen]] habitats, Zephyranthes candida grows in communities with other wetland and riparian plant species. It is typically found at the margins of wetlands and water bodies, occupying the ecotone between aquatic and terrestrial plant communities.
 
 Associated native species include various sedges, rushes, and other moisture-loving plants. The species' tolerance of both periodic flooding and moderate drought gives it a competitive advantage in habitats with fluctuating water tables, allowing it to persist where less adaptable species cannot survive.
 
@@ -67,11 +67,11 @@ Naturalized populations in the southeastern United States are typically found in
 
 ## Cultivation and Horticulture
 
-Zephyranthes candida is one of the most widely cultivated rain lilies, valued for its reliability, ease of culture, and cheerful flowers. It is commonly used in border plantings, rock gardens, container displays, and as a ground cover for moist areas of the garden.
+Zephyranthes candida is one of the most widely cultivated rain lilies, valued for its reliability, ease of culture, and cheerful flowers. It is commonly used in border plantings, rock gardens, container displays, and as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] for moist areas of the garden.
 
 Bulbs should be planted 5 to 8 centimeters deep in groups of 5 to 25 for the most dramatic display. The species tolerates a wide range of soil conditions but performs best in moist, well-fertilized soils. Planting in full sun produces the most prolific flowering, though partial shade is well tolerated.
 
-The species requires minimal maintenance once established. Regular watering during the growing season promotes continuous flowering from late summer through autumn. A balanced, slow-release fertilizer applied in spring supports vigorous growth and abundant blooms. Bulbs can be left undisturbed for several years and will form dense, floriferous clumps.
+The species requires minimal maintenance once established. Regular watering during the [[extending-growing-season]] promotes continuous flowering from late summer through autumn. A balanced, slow-release fertilizer applied in spring supports vigorous growth and abundant blooms. Bulbs can be left undisturbed for several years and will form dense, floriferous clumps.
 
 The rain-triggered blooming response is a distinctive and desirable garden characteristic. Heavy rainfall events stimulate simultaneous flowering across an entire planting, producing a dramatic mass display. This response is mediated by ethylene and other hormonal signals produced when dry bulbs absorb water rapidly.
 
@@ -85,17 +85,6 @@ Like other Amaryllidaceae species, Zephyranthes candida produces a range of biol
 
 Lycorine, the principal alkaloid detected in Zephyranthes candida, exhibits antiviral and cytotoxic activities in preclinical studies. It has been investigated for its potential antitumor properties, with studies demonstrating growth inhibition of several cancer cell lines through apoptosis induction.
 
-Extracts of Zephyranthes candida have demonstrated antimicrobial activity against Gram-positive bacteria, including Staphylococcus aureus, in vitro. The bulbs also contain flavonoids and phenolic compounds that contribute to antioxidant activity. Traditional use of the bulbs in South American folk medicine for wound treatment may be partially attributable to these antimicrobial properties.
+Extracts of Zephyranthes candida have demonstrated antimicrobial activity against Gram-positive bacteria, including [[staphylococcus-aureus]], in vitro. The bulbs also contain flavonoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] that contribute to antioxidant activity. Traditional use of the bulbs in South American folk medicine for wound treatment may be partially attributable to these [[medicinal-mushroom-antimicrobial-properties]].
 
 ## See Also
-
-- [[lycoris-radiata]]
-- [[galanthus-nivalis]]
-- [[narcissus-pseudonarcissus]]
-- [[galantamine]]
-- [[colchicine]]
-- [[camassia-quamash]]
-- [[tulbaghia-violacea]]
-- [[allium-sativum-entity]]
-- [[apigenin]]
-- [[quercetin]]

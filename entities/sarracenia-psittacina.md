@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Sarracenia psittacina, commonly known as the parrot pitcher plant, is a species of [[growing-gourmet-north-american-reishi-species]] pitcher plant native to the southeastern United States. It is distinguished by its reclining, hooded pitchers with a distinctive balloon-like shape.
+Sarracenia psittacina, commonly known as the parrot pitcher plant, is a species of [[growing-gourmet-north-american-reishi-species]] pitcher plant native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is distinguished by its reclining, hooded pitchers with a distinctive balloon-like shape.
 
 The species name "psittacina" derives from the Latin for parrot (*Psittacus*), referring to the resemblance of its hooded pitchers to a parrot's beak. This unique morphology sets it apart from all other Sarracenia species.
 
@@ -58,17 +58,17 @@ The pitcher fluid contains digestive enzymes and is typically maintained at a lo
 
 ## Cultivation
 
-S. psittacina is relatively easy to cultivate compared to other Sarracenia species. Its compact size and tolerance of warm conditions make it suitable for outdoor bog gardens in temperate climates.
+S. psittacina is relatively easy to cultivate compared to other Sarracenia species. Its compact size and tolerance of warm conditions make it suitable for outdoor bog gardens [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 The tray system with peat and sand mixtures works well. Plants should be kept in full sun for best coloration and pitcher production. The species tolerates warmer summer conditions than most Sarracenia.
 
-Winter dormancy is essential. Plants produce flat, non-carnivorous leaves (phyllodia) during winter. In cold climates, a layer of mulch protects the dormant rhizome from hard freezes.
+Winter dormancy is essential. Plants produce flat, non-carnivorous leaves (phyllodia) during winter. [[query-how-do-i-grow-figs-in-cold-climates]], a layer of mulch protects the dormant rhizome from hard freezes.
 
 The species readily produces offsets and can form dense clumps over time. Division of the rhizome every 2–3 years maintains plant vigor and provides material for propagation.
 
 ## Flowers and Reproduction
 
-S. psittacina produces flowers in early spring, typically March to April, before new pitcher growth begins. The flowers are borne on tall scapes 20–40 cm above the rosette.
+S. psittacina produces flowers in [[coleman-overwintered-onions-and-early-spring-crops]], typically March to April, before new pitcher growth begins. The flowers are borne on tall scapes 20–40 cm above the rosette.
 
 Flowers are similar in structure to other Sarracenia species, with five sepals, five petals, and a central umbrella-shaped style. Petal color is typically deep red to maroon.
 
@@ -82,36 +82,8 @@ S. psittacina occupies a distinct ecological niche among Sarracenia species due 
 
 The species frequently grows in mixed Sarracenia communities where different species capture different segments of the available prey spectrum. This niche partitioning reduces direct competition between species.
 
-Pitcher infauna includes mosquito larvae, fly larvae, and various protozoa. These organisms live within the pitcher fluid and may assist in breaking down captured prey.
+Pitcher infauna includes mosquito larvae, [[black-soldier-fly-larvae-as-feed]], and various protozoa. These organisms live within the pitcher fluid and may assist in breaking down captured prey.
 
 The dense clumps formed by S. psittacina provide microhabitat structure in bog ecosystems. Small amphibians and invertebrates use the spaces between pitchers for shelter.
 
 ## Hybridization
-
-S. psittacina readily hybridizes with other Sarracenia species where ranges overlap. The most common natural hybrid is S. × courtii (S. psittacina × S. purpurea), which combines the reclining habit with more upright tendencies.
-
-Hybrids with S. leucophylla and S. flava have also been documented in the wild. These inter-specific crosses typically show intermediate pitcher morphology and coloration.
-
-In cultivation, S. psittacina is frequently used in hybridization programs. Its compact size and unusual pitcher form make it a valuable parent for producing novel horticultural forms.
-
-The species contributes genes for warm tolerance, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], and reclining pitcher form to its hybrids. Several named cultivars feature S. psittacina in their parentage.
-
-## Conservation
-
-S. psittacina faces significant conservation challenges across its range. Wetland habitat loss through drainage, development, and conversion to agriculture is the primary threat.
-
-Fire suppression has degraded many natural habitats by allowing woody vegetation to encroach on open bog communities. Prescribed burning is used to maintain suitable open conditions in protected areas.
-
-The species is listed as vulnerable or imperiled in several states within its range. The Okefenokee Swamp population represents one of the largest remaining concentrations.
-
-Illegal collection from wild populations has been documented. However, the species is widely available through [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] and [[jeavons-seed-propagation-techniques]], which helps reduce demand for wild-collected plants.
-
-## See Also
-
-- [[sarracenia-flava]]
-- [[sarracenia-oreophila]]
-- darlingtonia californica
-- [[heliamphora-minor]]
-- [[drosera-rotundifolia]]
-- [[pinguicula-vulgaris]]
-- [[utricularia-vulgaris]]

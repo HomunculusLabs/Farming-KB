@@ -87,34 +87,3 @@ Regular monitoring of moisture levels at different depths in the growing medium 
 At the start of each growing season, check the geotextile for clogging or degradation, inspect the inlet and overflow pipes for blockages, and top up the growing medium if it has settled. At the end of the season, consider removing and replacing the top 5–10 cm of growing medium, which accumulates salts, weed seeds, and decomposed organic matter. Every 3–5 years, a more thorough renovation may be needed, including replacement of the geotextile and partial renewal of the reservoir aggregate if it has become clogged with fine particles or roots.
 
 ### Water Quality Considerations
-
-Wicking beds are relatively forgiving of water quality compared to hydroponic systems, but heavily mineralized water (high in sodium, boron, or chloride) will concentrate salts in the growing medium over time. [[comparison-drip-irrigation-vs-rainwater-harvesting]] is the ideal water source for wicking beds, as it has very low dissolved mineral content. If using municipal water, allow it to stand for 24 hours before adding to dissipate chlorine, which can harm beneficial soil microorganisms. Greywater from laundry or showers can be used in wicking beds with appropriate precautions: use low-phosphate detergents, alternate greywater and fresh water to prevent buildup, and avoid using greywater on root vegetable crops.
-
-## Comparison with Other Sub-Irrigation Methods
-
-Wicking beds share principles with other sub-irrigated planters (SIPs) but differ in scale and construction. Commercial SIPs for [[cervantes-container-gardening-pot-size]] use similar physics in a smaller format. Earth boxes and self-watering pots are essentially miniature wicking beds. The key advantage of full-scale wicking beds over simple olla irrigation or drip systems is the large reservoir volume, which provides a buffer of several days to weeks between refillings. The primary disadvantage compared to drip irrigation is less precise control over moisture delivery, particularly for plants with deep taproots that may grow beyond the wicking front. Drip systems can deliver water at specific points and rates, while wicking beds distribute water broadly across the entire bed area, which is ideal for densely planted polyculture beds but less suited to widely spaced individual plants with divergent water requirements.
-
-## Research and Evidence Base
-
-While wicking beds have been widely adopted in permaculture and community gardening contexts, peer-reviewed research on their performance is relatively limited compared to conventional irrigation systems. Studies from the University of Queensland and Charles Sturt University in Australia have demonstrated water savings of 50–80% compared to overhead irrigation for leafy [[dry-gardening-unirrigated-vegetable-production-solomon]], with comparable or superior yields. Further research is needed on long-term [[mycelial-network-nutrient-dynamics]], [[cannabis-cultivar-microbial-community-effects]] development, and optimal media formulations for different crop types and climates.
-
-## Design Guidelines Summary
-
-- Reservoir depth: 20–30 cm for standard beds, 15 cm sufficient for shallow-rooted crops
-- Growing medium depth: 25–35 cm above the reservoir (total bed depth 45–65 cm)
-- Growing medium composition: 50–70% compost or coir, 30–50% coarse perlite, pumice, or rice hulls
-- Geotextile: Non-woven polypropylene, 100–200 g/m², or replace with 5 cm coarse sand transition
-- Inlet pipe: 100 mm PVC with cap, extending 5 cm above soil surface
-- Overflow outlet: 25–40 mm pipe set at top of reservoir, connected to drainage
-- Surface mulch: 5–10 cm straw, lucerne, or living mulch to reduce evaporation
-- Reservoir refill frequency: Typically every 1–3 weeks depending on crop, climate, and bed size
-
-## See Also
-
-- [[wicking-bed-construction]]
-- Sub-irrigated planter (SIP) guide
-- [[passive-irrigation-systems]]
-- Capillary mat irrigation
-- Soil moisture potential and plant water uptake
-- Raised bed drainage principles
-- Soil water retention curve and field capacity

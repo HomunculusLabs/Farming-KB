@@ -88,9 +88,3 @@ Properly speaking, nature is neither living nor dead. It is those who
 believe only in science who call an insect a pest or a predator and cry
 out that nature is a violent world. Notions of right and wrong, good and
 bad, are alien to nature — they are distinctions invented by man. Nature
-maintained a great harmony without such notions.
-
-## See Also
-- [[fukuoka-relative-merits-natural-scientific-agriculture]]
-- [[partnership-vs-dominator-culture-mckenna]]
-- [[fukuoka-critique-scientific-agriculture-civilization]]

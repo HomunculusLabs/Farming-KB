@@ -16,7 +16,7 @@ type: concept
 
 # Neurotropic Fungi of Europe
 
-Europe presents a distinctive profile in the global distribution of
+Europe presents a distinctive profile in the [[global-distribution-of-neurotropic-fungi]]
 neurotropic fungi. Despite being one of the most mycologically
 explored continents, only 14 species of neurotropic Psilocybe are
 known from Europe, compared to 44 in Mexico and 21 in the United
@@ -28,7 +28,7 @@ studies produced by European mycologists.
 
 The European neurotropic Psilocybe species include several that are
 shared with North America, reflecting a circumboreal or holarctic
-distribution pattern. Psilocybe semilanceata is the most widespread
+distribution pattern. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] is the most widespread
 and extensively studied species, documented from nearly every
 European country. P. cyanescens, P. fimetaria, P. pelliculosa,
 P. silvatica and P. strictipes are also common to both North
@@ -48,10 +48,10 @@ misidentifications and synonyms.
 
 France has one of the most diverse recorded neurotropic fungal floras
 in Europe, with records of Psilocybe cyanescens, P. semilanceata,
-Copelandia cyanescens, [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]], I. corydalina,
-I. haemacta, and Amanita muscaria among others. Germany similarly
+[[copelandia-cyanescens]], [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]], I. corydalina,
+I. haemacta, [[muscimol-and-amanita-muscaria]] among others. Germany similarly
 shows a rich assemblage, with documented populations of P. bohemica,
-P. cyanescens, P. semilanceata, P. serbica, Gymnopilus spectabilis
+P. cyanescens, P. semilanceata, P. serbica, [[gymnopilus-spectabilis-entity]]
 and numerous Panaeolus species.
 
 The Czech Republic has been particularly important for the taxonomy
@@ -68,7 +68,7 @@ influences. Spain harbors the endemic Psilocybe hispanica and
 records of P. mairei. Italy has documented P. semilanceata and
 multiple Inocybe species. The Canary Islands, though politically
 European, show Macaronesian tropical affinities with records of
-Panaeolus sphinctrinus and Gymnopilus spectabilis.
+[[panaeolus-sphinctrinus]] and Gymnopilus spectabilis.
 
 ## The Copelandia Anomaly in Europe
 
@@ -88,52 +88,3 @@ Europe has a rich representation of non-Psilocybe neurotropic
 genera. The genus Inocybe contributes six species to the European
 neurotropic flora: I. aeruginascens, I. coelestium, I. corydalina
 var. corydalina, I. corydalina var. erinaceomorpha, I. haemacta and
-I. tricolor. The Inocybe species are particularly well-documented
-from Austria, Denmark, France, the Netherlands and the former
-Czechoslovakia, where Kuyper and Stijve conducted extensive chemical
-and taxonomic studies.
-
-The genus Gymnopilus is represented in Europe by G. spectabilis,
-G. purpuratus, G. sapineus, G. liquiritiae and G. aeruginosus.
-Gymnopilus spectabilis is the most widely distributed of these,
-recorded from numerous European countries. Pluteus species including
-P. salicinus, P. atricapillus, P. cyanopus, P. glaucus, P.
-nigriviridis and P. villosus contribute additional neurotropic
-diversity to the European mycoflora.
-
-## The Claviceps and Amanita Components
-
-[[bloomfield-ergot-claviceps-purpurea-ergotism]], the ergot fungus, is widely distributed across
-Europe and has been documented from most European countries. C.
-nigricans and C. paspali are also present. Amanita muscaria, A.
-pantherina and A. regalis are found throughout Europe, with A.
-muscaria being particularly common in boreal and temperate forests.
-The Amanita species, containing ibotenic acid rather than
-psilocybin, represent a chemically distinct group of neurotropic
-fungi with deep [[ethnomycology-cultural-significance-sacred-fungi]] in Siberian traditions.
-
-## Exploration Gaps and Biases
-
-Despite intensive [[guzman-allen-gartz-mycological-exploration-bias-and-underexplored-regions]], Guzmán, Allen and Gartz
-noted that the European Psilocybe diversity may still be
-underestimated. The authors pointed out that whatever region
-mycologists study, new species are found, suggesting that even
-well-explored areas like Europe may harbor undocumented taxa. The
-observation that there are more recorded localities in the northern
-hemisphere than the southern, despite higher species diversity in
-the south, applies to Europe where recording intensity is very high
-but species richness remains moderate.
-
-## See also
-
-guzman-allen-gartz-psilocybe-transcontinental-species-pairs
-[[guzman-allen-gartz-neurotropic-fungi-classification-system]]
-
-## See Also
-
-- neurotropic-fungi-in-europe
-
-- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
-- [[neurotropic-fungi]]
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
-- [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]

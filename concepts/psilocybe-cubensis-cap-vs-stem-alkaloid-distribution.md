@@ -11,16 +11,16 @@ sources:
 # Psilocybe Cubensis Alkaloid Distribution: Caps vs Stems
 
 The distribution of psychoactive alkaloids between the cap (pileus)
-and stem (stipe) of *Psilocybe cubensis* is not uniform. Bigwood and
+and stem (stipe) of *[[psilocybe-cubensis]]* is not uniform. Bigwood and
 Beug's 1982 study demonstrated that caps generally contain higher
-concentrations of psilocybin than stems, while psilocin distribution
+concentrations of psilocybin than stems, while [[psilocybin-vs-psilocin-distribution-cap-stem]]
 varies unpredictably between anatomical parts depending on the
 strain. These findings have practical implications for consumption
 practices and potency estimation.
 
 ## Study Design
 
-Bigwood and Beug analyzed the cap and stem portions separately in
+Bigwood and Beug analyzed the [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] portions separately in
 three different strains of *Psilocybe cubensis* grown on rye-grain
 substrate. All samples were from the first flush. The three strains
 examined were an M.R. strain, an Equadorian strain, and an Amazon
@@ -45,7 +45,7 @@ psilocybin as stems. The specific findings were:
 - Stems: 4.7 mg/g psilocybin
 - Ratio: caps ~1.6× stems
 
-**Amazon strain (first flush):**
+**[[bigwood-beug-amazon-strain-origin-pucalpa-peru]] (first flush):**
 - Caps: 5.7 mg/g psilocybin
 - Stems: 5.7 mg/g psilocybin
 - Ratio: caps equal to stems (anomalous)
@@ -54,7 +54,7 @@ The Amazon strain was anomalous in showing equal psilocybin
 distribution between caps and stems, while the other two strains
 showed the more typical pattern of cap enrichment. This strain-
 dependent variation suggests that the genetic background influences
-how alkaloids are distributed within the fruiting body.
+how alkaloids are distributed within the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 ## Psilocin: Unpredictable Distribution
 
@@ -81,68 +81,9 @@ reflect underlying biological differences between these structures:
   basidia, the highest [[arbuscule-isolation-metabolic-activity-assays]] zone of the fruiting body,
   and the greatest concentration of cellular machinery for secondary
   metabolite biosynthesis. The higher psilocybin levels may reflect
-  the cap's role as the primary site of alkaloid production.
+  the cap's role as the primary site of [[mycelial-broth-alkaloid-production]].
 
 - **Stem (stipe)**: Primarily structural, providing support for the
   cap. Lower metabolic activity may explain lower alkaloid
   concentrations. However, some transport of alkaloids between
   structures likely occurs.
-
-The strain-dependent variation (particularly the Amazon strain's
-equal distribution) suggests that the genetic regulation of
-alkaloid transport between cap and stem is not strictly conserved
-across *P. cubensis* populations.
-
-## Implications for Consumption
-
-The finding that caps contain roughly twice the psilocybin
-concentration of stems has practical implications for users who
-separate these parts. Consuming caps alone would provide a more
-potent dose per gram than consuming whole mushrooms or stems alone.
-However, several caveats apply:
-
-1. **Strain variation**: The Amazon strain showed no difference,
-   meaning the cap-stem ratio cannot be assumed for all strains
-2. **Flush dependence**: These measurements were from first-flush
-   mushrooms only; the distribution pattern may differ in later
-   flushes where psilocin levels increase significantly
-3. **Overall contribution**: Since the stem typically represents a
-   substantial fraction of total mushroom weight, discarding stems
-   means discarding a significant portion of total alkaloid content
-   even if the concentration per gram is lower
-
-## Relationship to Wild Species
-
-Bigwood and Beug also noted that when undertaking quantitative
-[[hplc-analysis-of-psilocybin-and-psilocin]] and psilocin levels in Pacific Northwest
-species, they "generally found large variations from one collection
-to another even within one species." This suggests that cap-stem
-[[guzman-global-distribution-patterns-neurotropic-fungi]] may also vary widely in wild mushroom
-populations, where genetic and environmental variables are far less
-controlled than in laboratory cultivation.
-
-## Analytical Methods
-
-The cap-stem separation study used the same rigorous HPLC
-methodology as the main flush-variation study. Mushrooms were
-freeze-dried immediately after harvest, caps and stems were
-separated manually, and each portion was analyzed independently. The
-HPLC was calibrated against NIDA standards with a linear relationship
-between concentration and peak area from 0.2 to 3 μg total
-psilocybin or psilocin, with 10% repeatability. The detection limit
-was approximately 0.01 μg. Results were qualitatively confirmed by
-thin-layer chromatography (TLC) using butanol-acetic acid-water
-(12:3:5) as the mobile phase.
-
-## See Also
-
-- [[psilocybin]] · [[psilocin]]
-- [[psilocybe-cubensis]] · [[mushroom-anatomy]]
-- [[psilocybin-psilocin-variation-across-flushes]]
-
-## Sources
-
-- Bigwood, J. & Beug, M.W. (1982). "Variation of Psilocybin and
-  Psilocin Levels with Repeated Flushes of Mature Sporocarps of
-  Psilocybe cubensis (Earle) Singer." *J. Ethnopharmacol.*, 5,
-  287–291.

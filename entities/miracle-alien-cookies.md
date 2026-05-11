@@ -20,11 +20,11 @@ created: 2026-05-07
 
 ## Overview
 
-**Miracle Alien Cookies**, commonly abbreviated **MAC**, is a balanced hybrid cannabis strain created by breeder Capulator.
+**Miracle Alien Cookies**, commonly abbreviated **MAC**, is a balanced [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by breeder Capulator.
 
-It is a cross between **Alien Cookies** (Alien Technology × Girl Scout Cookies) and a **Colombian** landrace, combining the complex cookie terpene profile with exotic sativa-influenced vigor.
+It is a cross between **Alien Cookies** (Alien Technology × [[girl-scout-cookies]]) and a **Colombian** landrace, combining the complex cookie [[cannabis-terpene-profile]] with exotic sativa-influenced vigor.
 
-MAC won First Place Hybrid at the 2016 LA Cannabis Cup and has since become one of the most influential breeding stock strains of the modern era.
+MAC won First Place Hybrid at the 2016 LA Cannabis Cup and has since become one of the most influential breeding stock strains of the [[mycology-modern-era]].
 
 ## Lineage
 
@@ -33,7 +33,7 @@ MAC won First Place Hybrid at the 2016 LA Cannabis Cup and has since become one 
 - **Genetic ratio:** Approximately 50/50 indica-sativa, though phenotype-dependent
 - **Breeder:** Capulator (California)
 
-The Colombian landrace male contributes increased stretch, flowering time, and a unique tropical aroma layer not found in other Cookies-family crosses.
+The Colombian landrace male contributes increased stretch, [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and a unique tropical aroma layer not found in other Cookies-family crosses.
 
 ## Appearance
 
@@ -87,39 +87,4 @@ The balanced cannabinoid-terpene profile provides analgesic potential for headac
 
 The limonene-dominant terpene profile may contribute to anxiolytic and antidepressant effects based on preclinical research on citrus-derived monoterpenes.
 
-Some patients use MAC for appetite stimulation and nausea management, particularly during chemotherapy recovery.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of high-THC cannabis varieties.
-
-Some users report mild anxiety or paranoia at higher doses, particularly in inexperienced consumers.
-
-Dizziness and lethargy may occur with excessive consumption, though the strain is generally considered functional at moderate doses.
-
-## Notable Phenotypes
-
-**MAC 1** is the most famous selected phenotype, stabilized by Capulator from a single exceptional mother plant.
-
-MAC 1 exhibits more refined aromatics, tighter bud structure, and increased [[cannabis-glandular-trichome-types-resin-production-clarke]] compared to the original MAC population.
-
-The strain has spawned numerous crosses including Miracle Mints (MAC × SinMint Cookies), MAC V2, and various Alien Cookies backcrosses.
-
-## Cultivation
-
-- **Flowering time:** 9–10 weeks indoors
-- **Yield:** Moderate, 350–450 g/m² indoors
-- **Difficulty:** Moderate — sensitive to overfeeding and temperature fluctuations
-- **Stretch:** Moderate to high during early flowering (Colombian influence)
-- **Recommended nutrients:** Moderate nitrogen during veg, reduced during flower
-- **Climate preference:** Warm, dry environments; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high humidity
-
-MAC is considered a strong breeding parent and has been used extensively to create crosses including MAC 1 (selected phenotype), Miracle Mints, and Alien OG.
-
-## See Also
-
-- [[gelato]]
-- [[biscotti-cannabis-strain]]
-- [[kush-mints]]
-- [[thin-mint-cookies]]
-- [[cereal-milk]]
+Some patients use MAC for [[cannabis-for-cachexia-and-appetite-stimulation]] and nausea management, particularly during chemotherapy recovery.

@@ -88,34 +88,3 @@ The Mexican states with the highest documented concentrations of neurotropic spe
 3. **Puebla**: The transition zone between tropical and temperate forests produces diverse assemblages.
 4. **Hidalgo**: The Zacualtipan region hosts northern-ranging species that reach their southern distribution limits.
 5. **Chiapas**: The southernmost extension of the convergence zone, where Neotropical elements predominate.
-
-States with arid or semi-arid climates (Sonora, Chihuahua, Baja California) have correspondingly few documented neurotropic species, further supporting the habitat-specificity hypothesis.
-
-## Methodological Notes from the Global Survey
-
-The species counts reported by Guzmán, Allen & Gartz (2000) reflect compilation from published taxonomic literature and herbarium specimens rather than systematic field surveys. This introduces several biases:
-
-- **Exploration bias**: States near major universities (Mexico City, Xalapa, Oaxaca City) are better sampled
-- **Taxonomic revision bias**: Species described by earlier mycologists (Singer, Heim, Guzmán) from Mexican collections cluster near their fieldwork areas
-- **Publication bias**: New species descriptions from well-known genera (Psilocybe, Panaeolus) are more likely to be published than those from under-studied groups
-
-Despite these biases, the convergence zone pattern is robust across all analytical approaches and has been confirmed by independent biogeographic studies of fungal distributions.
-
-## Implications for Future Discovery
-
-The convergence zone model predicts that underexplored areas of Mexico — particularly the Sierra Madre del Sur, the Chiapas highlands, and the eastern slopes of the Trans-Mexican Volcanic Belt — likely harbor undescribed neurotropic species. Guzmán's own fieldwork repeatedly demonstrated this pattern: new species descriptions from Mexico appeared in publications spanning from the 1950s through the 1990s, with no sign of the discovery curve flattening.
-
-The model also suggests that similar convergence zones may exist where other major biogeographic boundaries intersect — the eastern Himalayas, the East African rift zone, and the Brazilian-Argentine transition zone all warrant targeted mycological exploration for neurotropic fungi.
-
-Additionally, the convergence zone framework has practical implications for conservation: the mesophytic forests that host this extraordinary diversity are among the most threatened ecosystems in Mexico, with deforestation rates that significantly exceed those of tropical lowland forests. The loss of these forests would represent an irreversible loss of neurotropic fungal biodiversity, much of which remains scientifically undocumented.
-
-## See Also
-
-- [[guzman-allen-gartz-neurotropic-fungi-europe]]
-- [[guzman-allen-gartz-neurotropic-fungi-asia]]
-- [[guzman-allen-gartz-neurotropic-fungi-australasia]]
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]
-- [[ethnobotanical-use-of-neurotropic-fungi-in-mexico]]
-- [[psilocybe-as-dominant-neurotropic-fungus-genus]]
-
-The convergence zone concept remains one of the most productive frameworks for understanding why certain regions produce extraordinary fungal biodiversity, and continues to guide field exploration priorities for mycologists studying neurotropic fungi.

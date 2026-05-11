@@ -88,27 +88,3 @@ world. This generous distribution policy meant that by the early 1960s,
 Indocybin was available at dozens of research centres worldwide. In the United
 States alone, psilocybin was administered to an estimated several thousand
 research subjects and psychiatric patients between 1960 and 1965, making it one
-of the most widely studied psychedelics of the period after LSD itself.
-
-Sandoz's package insert for Indocybin provided [[cannabis-dosing-guidelines-by-condition]] that reflected
-the clinical experience accumulated by the early researchers. The recommended
-dose for psychiatric research was set at 4–8 mg (approximately 60–120 micrograms
-per kilogram of body weight), with lower doses of 1–3 mg suggested for
-preliminary or "pilot" sessions. The insert noted that onset typically occurred
-within 20–60 minutes, peak effects lasted 2–4 hours, and the total experience
-duration was approximately 4–6 hours. These pharmacokinetic parameters — shorter
-duration and quicker onset compared to LSD — made psilocybin attractive to
-clinicians who found LSD's 8–12 hour duration impractical for therapeutic
-settings. Sandoz also warned against administering psilocybin to patients with
-unstable personality structures, schizophrenia, or a history of psychotic
-episodes — precautions that anticipated the screening protocols later developed
-for psychedelic-assisted therapy.
-
-The commercial distribution of Indocybin created an infrastructure of expertise
-and institutional knowledge about [[mckenna-suppression-psychedelic-research-lsd-therapy]] that would prove
-invaluable in the modern revival of psychedelic science. Researchers who had
-worked with Sandoz-supplied psilocybin in the 1960s — including some who
-continued underground research through the decades of prohibition — provided
-crucial mentorship and methodological guidance to the new generation of
-researchers when clinical trials resumed in the 2000s. The dosing protocols,
-therapeutic frameworks, and safety procedures originally developed during the

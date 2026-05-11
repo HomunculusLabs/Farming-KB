@@ -1,5 +1,5 @@
 ---
-title: Casing casing surface roughness technique mushroom fruiting Technique for Mushroom Fruiting
+title: Casing Surface Roughness Technique Mushroom Fruiting
 aliases: [casing roughness valleys hills, casing surface texture fruiting, microclimate casing technique]
 tags: [mycology, mushroom-cultivation, casing, fruiting, pinning, surface-technique]
 created: 2026-05-08
@@ -10,7 +10,7 @@ source: guid-mhtml-file-exotic-cultivation-grass-seed.md
 
 ## Overview
 
-The casing surface roughness technique is a cultivation method in which the casing soil applied to colonized substrate is intentionally left with an uneven, textured surface featuring small valleys and hills rather than being smoothed flat. This technique is described in the *Guid* cultivation guide for *Psilocybe* species on grass seed substrate and represents a deliberate attempt to create microclimate variation across the casing surface to optimize pinning conditions. The approach is notable for its simplicity — it requires no special equipment beyond a standard spoon and fork — yet addresses several fundamental challenges in mushroom fruiting.
+The casing surface roughness technique is a cultivation method in which the casing soil applied to colonized substrate is intentionally left with an uneven, textured surface featuring small valleys and hills rather than being smoothed flat. This technique is described in the *Guid* cultivation guide for *Psilocybe* species on [[grass-seed-substrate]] and represents a deliberate attempt to create microclimate variation across the casing surface to optimize pinning conditions. The approach is notable for its simplicity — it requires no special equipment beyond a standard spoon and fork — yet addresses several fundamental challenges [[negative-geotropism-in-mushroom-fruiting]].
 
 ## The Technique in Detail
 
@@ -34,7 +34,7 @@ The textured surface serves multiple interrelated functions in the fruiting proc
 
 ### Microclimate Variation
 
-Valleys in the casing surface trap moisture and maintain higher relative humidity at the substrate-air interface, while hills provide slightly drier zones with more direct air exchange. This gradient allows the mycelium to encounter optimal pinning conditions across the surface rather than being constrained to a single humidity level. Different parts of the same tray can support different stages of the pinning process simultaneously.
+Valleys in the casing surface trap moisture and maintain higher relative humidity at the substrate-air interface, while hills provide slightly drier zones with more direct air exchange. This gradient allows the mycelium to encounter optimal pinning conditions across the surface rather than being constrained to a single humidity level. Different parts of the same tray can support different stages of the [[pf-tek-primordia-formation-and-pinning-process]] simultaneously.
 
 ### Condensation Management
 
@@ -72,8 +72,8 @@ The rough casing technique is described in the context of cultivating several ps
 
 - **Psilocybe cubensis** — Highly adaptable species that responds well to both smooth and rough casing. The Ecuador strain mentioned in the guide is noted as an "easy fruiting strain" that may not require the rough casing technique to produce reliably.
 - **Psilocybe mexicana** — Benefits significantly from the moisture retention provided by valleys in rough casing. This species typically produces one large flush followed by a smaller second flush; rough casing may help sustain the conditions needed for the second flush.
-- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — Often grown primarily for sclerotia (truffle-like resting structures) that form in the colonized grain rather than in the casing layer. When mushroom production is desired, rough casing can help but is less critical than for mexicana.
-- **Panaeolus subbalteatus** — Prefers slightly drier conditions than the Psilocybe species. Rough casing should be moderate (gentle undulations rather than pronounced texture) to avoid over-saturation in valleys.
+- **[[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]]** — Often grown primarily for sclerotia (truffle-like [[fungal-sclerotia-and-resting-structures]]) that form in the colonized grain rather than in the casing layer. When mushroom production is desired, rough casing can help but is less critical than for mexicana.
+- **[[panaeolus-subbalteatus]]** — Prefers slightly drier conditions than the Psilocybe species. Rough casing should be moderate (gentle undulations rather than pronounced texture) to avoid over-saturation in valleys.
 
 ## Moisture Management Considerations
 
@@ -87,39 +87,3 @@ The rough surface interacts differently with misting and watering regimes compar
 ## Integration with the Broader Cultivation Workflow
 
 The rough casing technique fits within a specific cultivation workflow using the Guid method:
-
-1. Grass seed [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]] (110g seed + 180ml water per 720ml jar)
-2. Pressure cooker sterilization (1 hour for standard jars, 2 hours for 1.5L jars or spawn bags)
-3. Inoculation (spore syringe, mycelium syringe, or agar squares)
-4. Colonization at 20°C (5-20 days depending on species and conditions)
-5. Casing with rough surface technique (1.5-2.0 cm casing layer)
-6. Incubation under foil at 20-25°C until mycelium shows through casing
-7. Transfer to fruiting bins (clear plastic bins with polyethylene sheeting)
-8. Daily misting and flush management (3-6 flushes possible)
-
-## Common Mistakes and Troubleshooting
-
-Several common errors can undermine the effectiveness of the rough casing technique:
-
-- **Over-texturing** — Creating dramatic peaks and deep valleys that lead to waterlogging, anaerobic conditions, and bacterial contamination in the lowest points. The texture should be gentle and subtle, not mountainous.
-- **Under-texturing** — Barely roughening the surface, which negates the microclimate benefits entirely. If the surface looks smooth from 30 cm away, it is too flat.
-- **Ignoring the "even" instruction** — Making the casing depth itself uneven (e.g., 1 cm in some areas and 3 cm in others) rather than keeping depth uniform while texturing the surface. Uneven depth leads to inconsistent colonization timing through the casing layer.
-- **Compacting the surface** — Accidentally pressing the casing smooth while creating the texture, defeating the purpose. Use a light touch with the fork and avoid any downward pressure.
-- **Texturing too early** — If the casing soil is too wet when textured, it may settle into a flatter profile. Allow the casing soil to reach proper moisture consistency before application and texturing.
-- **Failing to maintain texture during incubation** — If the foil covering the cased tray rests directly on the casing surface, it may flatten the texture through condensation weight. Prop the foil slightly above the surface or use toothpicks as spacers.
-
-## Historical Context
-
-The rough casing technique described in the Guid guide emerged from the Dutch psilocybin [[accessible-mushroom-cultivation-for-disabilities]] community of the 1990s. This community developed practical [[synthetic-log-cultivation-methods-guide]] through empirical experimentation, often departing from the academic and commercial mushroom cultivation literature. The rough casing technique is one of several innovations from this period that prioritized practical results over theoretical elegance, reflecting the DIY ethos of amateur mycology.
-
-## See Also
-
-- [[casing-soil-mushroom-cultivation]] — Overview of casing soil composition and function
-- [[casing-soil-recipe-peat-vermiculite-limestone]] — The 10:5:2 peat/vermiculite/limestone recipe
-- [[grass-seed-cultivation-of-psilocybe-mushrooms]] — The broader grass seed cultivation method
-- [[polyethylene-bin-fruiting-chamber-mushroom-cultivation]] — The fruiting setup used after casing
-
-## References
-
-- Guid (1996). Cultivation of fruitbodies and sclerotia on sterilised grass seed. Unpublished cultivation guide.
-- Stamets P, Chilton JS (1983). *The Mushroom Cultivator*. Agarikon Press.

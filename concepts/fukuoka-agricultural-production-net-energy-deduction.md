@@ -1,5 +1,5 @@
 ---
-title: fukuoka agricultural production net energy deduction as Net Energy Deduction
+title: Fukuoka Agricultural Production Net Energy Deduction
 tags:
   - energy
   - agriculture
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-sowing-seeds-in-the-desert.md
 ---
 
@@ -19,11 +20,11 @@ sources:
 
 ## Overview
 
-Masanobu Fukuoka argued that modern industrial agriculture does not actually "produce" food — it **deducts** energy from the earth. By measuring the caloric energy invested in growing food against the caloric energy harvested, he demonstrated that modern farming consumes more energy than it yields, making it a net loss rather than a net gain. This energy accounting reframes the entire conversation about food security and agricultural sustainability.
+[[masanobu-fukuoka]] argued that modern industrial agriculture does not actually "produce" food — it **deducts** energy from the earth. By measuring the caloric energy invested in growing food against the caloric energy harvested, he demonstrated that modern farming consumes more energy than it yields, making it a net loss rather than a net gain. This energy accounting reframes the entire conversation about food security and agricultural sustainability.
 
 ## The Energy Return Decline
 
-Fukuoka traced the historical decline in energy return on energy invested for rice cultivation:
+Fukuoka traced the historical decline in energy return on energy invested for [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]:
 
 ### United States
 - **Fifty years ago**: Each calorie of energy invested yielded about two calories of grain
@@ -52,7 +53,7 @@ The apparent increase in food production is subsidized by rapid depletion of the
 Fukuoka identified a critical vulnerability: whoever controls petroleum can control the world's food supply. Modern farming is entirely dependent on fossil fuels for:
 
 - Running tractors and harvesters
-- Manufacturing synthetic fertilizers (natural gas)
+- Manufacturing [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] (natural gas)
 - Producing pesticides and herbicides (petrochemicals)
 - Pumping irrigation water
 - Transporting food across vast distances
@@ -68,7 +69,7 @@ Fukuoka extended his [[fukuoka-energy-analysis-rice-production-natural-vs-mechan
 - Japanese cattle are fed on corn grown in the United States and shipped across the Pacific
 - Cattle are raised in small stalls, never grazing on [[mollison-designers-tropical-pasture-grass-species-and-establishment]]
 - The massive production of corn for feedlot operations is itself a massive energy drain
-- Useful animal manure that could improve pasture soil is wasted
+- Useful [[animal-manure-guide]] that could improve pasture soil is wasted
 
 The contemporary methods for raising cattle are so wasteful of energy that the industrialized meat industry should not be called a production activity at all.
 
@@ -86,36 +87,4 @@ The modern fishing industry faces parallel problems:
 
 Fukuoka contrasted industrial operations with his vision of integrated, [[holzer-natural-animal-husbandry]] raising:
 
-- **Orchards** of fruit and nut trees with clover and vegetables blooming beneath
-- **Bees** flying among barley and wild mustard
-- **Chickens and rabbits** foraging on whatever they find
-- **Ducks and geese** paddling in ponds with fish swimming below
-- **Pigs and wild boars** fattening on worms and crayfish at the foot of hills
-- **Goats** peeking from among trees in the woods
-
-Such scenes can still be found in poor villages not yet swallowed by modern civilization. Fukuoka asked whether we see this as "uneconomical and primitive, or as a superb organic community in which people, animals, and nature are one." A pleasant living environment for animals is also a utopia for human beings.
-
-## The Octopus Eating Its Own Legs
-
-Fukuoka connected energy-deductive agriculture to his [[fukuoka-clay-seed-pellets]] are made by hand with local materials
-- Ground covers of clover and vetch fix nitrogen naturally
-- Mulch from previous crops builds soil organic matter
-- The soil itself becomes increasingly fertile over time rather than being depleted
-- Food is grown and consumed locally, eliminating transportation energy
-
-He stated that even if the world's population doubled, everyone could be fed through [[comparison-natural-farming-vs-permaculture]] "without using a drop of oil."
-
-## The Fundamental Question
-
-Fukuoka challenged the entire framing of "food production" as a goal:
-
-- How can we congratulate ourselves on advances in modern agriculture if starvation, scarcity, depletion, and disease increase even more rapidly?
-- There is no technology for increased food production that uses more energy than high technology
-- Modern petroleum-based farming is not producing anything at all — it is "producing" a loss
-- The more that is produced, the more of the earth's resources are being eaten up
-
-## See Also
-
-- [[fukuoka-petroleum-agriculture-food-quality-decline]]
-- [[fukuoka-textdoc-energy-wasteful-modern-agriculture]]
-- [[fukuoka-natural-farming-global-influence]]
+- **Orchards** of fruit [[holzer-sweet-chestnut-and-nut-trees]] with clover and vegetables blooming beneath

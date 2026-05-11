@@ -23,8 +23,8 @@ fruit when temperatures are above freezing and moisture is available.
 Different species exhibit different fruiting phenologies, varying from
 year to year and at different elevations and latitudes.
 
-In temperate regions with summer drought, spring and fall are the main
-fruiting seasons. The fall season is progressively later at lower
+In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with summer drought, spring and fall are the main
+[[azurescens-fruiting-seasons-and-conditions]]. The fall season is progressively later at lower
 latitudes, in some regions occurring after the winter solstice. In
 temperate regions with summer rain and at high elevations and latitudes,
 summer may be the most important season for fruiting.
@@ -58,7 +58,7 @@ Annual variation in sporocarp presence can be enormous:
 This extreme annual variation means that single-year inventories
 severely underestimate total species richness. Multi-year studies
 consistently reveal species not detected in previous years,
-underscoring the need for long-term commitment in fungal biodiversity
+underscoring the need for long-term commitment in [[biodiversity-fungal-biodiversity-estimation-methods]]
 assessment.
 
 ## Temperature and Fruiting
@@ -68,7 +68,7 @@ or retarding fruiting. Warm summers increased mycorrhizal sporocarp
 production in spruce forests but had no effect in pine forests.
 Year-round temperatures affect fall fruiting.
 
-Climate warming is shifting fruiting phenology in many temperate
+Climate warming is shifting [[macrofungal-fruiting-phenology-interannual-variation]] in many temperate
 regions. Autumn fruiting seasons have extended later into the year in
 several European studies, and some spring-fruiting species are appearing
 earlier. These phenological shifts have implications for the timing of
@@ -84,67 +84,6 @@ summers, fruiting of rarely observed species may follow a summer shower.
 
 Soil moisture dynamics are particularly important for ectomycorrhizal
 fungi, which depend on adequate root-zone moisture to support both the
-fungal partner and the host tree. Drought conditions can suppress
+fungal partner and the [[ectomycorrhizal-host-tree-partnerships]]. Drought conditions can suppress
 fruiting for months or years, even when temperatures are otherwise
 favorable.
-
-## Fruiting Triggers and Cues
-
-Fruiting is initiated by complex interactions of environmental cues.
-For many species, a combination of temperature change (particularly the
-onset of cooler temperatures in autumn) and moisture availability
-triggers the developmental switch from vegetative mycelium to
-reproductive structures. Some species require specific photoperiod cues,
-while others respond to changes in [[ph-and-nutrient-availability-garden-soils]] within the
-substratum.
-
-The biochemical pathways controlling fruiting body development involve
-signaling molecules including cyclic AMP, MAP kinase cascades, and
-transcription factors that regulate the expression of genes involved in
-hyphal aggregation and differentiation. Understanding these mechanisms
-at the molecular level may eventually help predict fruiting events more
-accurately.
-
-Research on model species such as *Coprinopsis cinerea* and
-*[[schizophyllum-commune]]* has identified key regulatory genes involved
-in the transition from vegetative growth to sexual reproduction.
-These findings have broader relevance for understanding fruiting in
-wild macrofungi, though direct extrapolation requires caution due to
-the diversity of fruiting strategies across the kingdom.
-
-## Ecological Guild Differences
-
-Different ecological guilds show distinct fruiting patterns.
-Saprotrophic species tend to fruit more predictably than
-ectomycorrhizal species, as their fruiting is less coupled to host
-tree physiology. Pathogenic species may show episodic fruiting linked
-to host stress events.
-
-Understanding these guild-level differences helps surveyors
-anticipate which species are most likely to be found during a given
-sampling period. Wood-inhabiting fungi show particularly complex
-patterns, with different species fruiting at different stages of wood
-decay. Early colonizers of freshly fallen wood may fruit within months,
-while species specialized on well-decayed substrata may require years of
-substrate conditioning before fruiting.
-
-## Spatial Variation in Fruiting
-
-In addition to temporal variation, fruiting patterns show significant
-spatial heterogeneity even within relatively small areas. Microclimatic
-differences related to slope aspect, canopy cover, and proximity to
-water bodies can create local fruiting hotspots.
-
-Knowledge of these patterns, combined with standardized sampling
-protocols, is essential for generating comparable data across sites
-and years. Combining plot-based sampling with targeted searches in
-known fruiting microhabitats provides the most comprehensive assessment
-of local fungal diversity.
-
-## Climate Change Implications for Survey Design
-
-Long-term phenological records from Europe show that autumn fruiting
-seasons have expanded by an average of 1-2 weeks over the past several
-decades, with some species now fruiting significantly later than
-historical norms. Spring-fruiting species have advanced their timing
-by a similar margin. These shifts mean that historical survey windows

@@ -5,6 +5,7 @@ tags: [microclimate, permaculture, landscape-design, frost-protection, thermal-m
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/concepts/mollison-designers-sun-trap-and-frost-pocket-design.md
   - ~/wiki/concepts/holzer-microclimate-creation.md
   - ~/wiki/concepts/gaias-garden-microclimates.md

@@ -7,7 +7,7 @@ tags:
   - lamiaceae
   - herbal-plant
   - pollinator-plant
-  - permaculture
+  - [[permaculture]]
   - native-american-ethnobotany
   - culinary-herb
 sources:
@@ -59,7 +59,7 @@ roots, occasionally producing short rhizomes.
 
 ## Distribution and Habitat
 
-Anise hyssop is native to a broad region of central and northern North America,
+Anise hyssop is native to a broad region of central and northern [[guzman-psilocybin-mushrooms-north-america]],
 ranging from Ontario and Quebec west to British Columbia, and south through
 the Great Plains to Colorado and northern Georgia. Its native habitat includes
 tallgrass and mixed-grass prairies, open savannas, woodland edges, stream banks,
@@ -73,7 +73,7 @@ is reduced in heavy shade.
 
 Hardiness zones 4–8 (USDA), with established plants surviving winter temperatures
 to -34 °C. The species has naturalized beyond its native range in parts of the
-northeastern United States and Europe.
+northeastern [[dmt-containing-plants-united-states-halpern]] and Europe.
 
 ## Cultivation
 
@@ -82,66 +82,9 @@ Anise hyssop is easily propagated by seed, division, or stem cuttings:
 - **Seed**: Cold stratification for 30 days improves germination; seeds
   germinate in 14–21 days at 20 °C. Direct sow in spring or start indoors
   6–8 weeks before last frost
-- **Division**: Divide established clumps in early spring or fall; each
+- **Division**: Divide established clumps in [[coleman-overwintered-onions-and-early-spring-crops]] or fall; each
   division should contain 3–5 growing points
 - **Cuttings**: Softwood cuttings root readily in 2–3 weeks under mist
 
 Space plants 30–45 cm apart. Plants typically flower in their first year from
 seed. Deadheading extends the bloom period and prevents self-seeding in
-managed gardens. Individual plants are relatively short-lived (3–5 years)
-but volunteer seedlings maintain colony persistence.
-
-The species is largely pest-free and resistant to deer and rabbit browsing due
-to its aromatic foliage. [[cervantes-powdery-mildew-prevention-treatment]] and root rot in poorly drained soils
-are the primary disease concerns.
-
-## Traditional and Modern Uses
-
-**Culinary applications:**
-
-Anise hyssop leaves and flowers are used as a flavoring agent in teas, salads,
-and desserts. The anise-like flavor pairs well with fruit dishes, honey, and
-light vinaigrettes. Dried leaves retain flavor well and are used in herbal tea
-blends. The flowers are edible and used as a garnish.
-
-**Medicinal properties:**
-
-Traditional Indigenous uses include poultices for burns, decoctions for coughs
-and colds, and infusions for digestive complaints. Pharmacological studies have
-identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
-
-- **Methylchavicol (estragole)**: Primary aromatic compound; contributes
-  antimicrobial and carminative properties
-- **Rosmarinic acid**: Anti-inflammatory and antioxidant activity
-- **Flavonoids (acacetin, tilianin)**: Documented anti-inflammatory effects
-  in vitro
-- **Essential oil**: Exhibits broad-spectrum antimicrobial activity against
-  Gram-positive bacteria and Candida species
-
-## Ecology and Permaculture Applications
-
-Anise hyssop is among the most effective native perennial plants for supporting
-pollinator diversity. Studies consistently rank Agastache species in the top
-five genera for bee visitation frequency in [[growing-gourmet-north-american-reishi-species]] pollinator gardens.
-
-Key ecological functions:
-
-- **Nectar source**: Exceptionally long bloom period (8–10 weeks) provides
-  critical late-season forage for honeybees, bumblebees, and native bees
-- **Butterfly host plant**: Larval host for several sphinx moth species
-- **Hummingbird attraction**: Tubular flowers are ideally suited for
-  hummingbird pollination
-- **Seed source**: Goldfinches and other seed-eating birds consume dried
-  seed heads through winter
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], anise hyssop serves multiple functions: as a dynamic
-accumulator in herb spirals, as a border plant in food forests, and as a
-companion plant in vegetable gardens where its aromatic properties may help
-repel certain pest insects. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low maintenance
-requirements make it suitable for xeriscaping and ecological restoration
-projects.
-## See Also
-
-- [[asclepias-syriaca]]
-- [[salvia-officinalis]]
-- [[ocimum-basilicum]]

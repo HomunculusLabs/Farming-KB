@@ -88,26 +88,3 @@ In Hawai'i, the species forms extensive monocultures in mesic and wet forest und
 The flowers are highly attractive to nectar-feeding birds and insects, potentially altering pollination networks. In invaded habitats, the abundant nectar source may draw pollinators away from native plant species with specialized pollination relationships.
 
 Control methods include manual removal of rhizomes, herbicide application to cut stems, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research. Complete eradication is difficult due to the deep and extensive rhizome network, which resprouts from small fragments.
-
-New Zealand classifies *H. flavescens* as an unwanted organism under the Biosecurity Act. The species is included in regional pest management plans that mandate control on public and private land where it occurs.
-
-## Cultural and Ethnobotanical Significance
-
-In Nepal and northern India, *H. flavescens* rhizomes are used in traditional medicine to treat fever, headache, and joint pain. Preparations typically involve pounding fresh rhizome into a paste for topical application or decocting dried rhizome for internal use.
-
-The Khasi people of Meghalaya, India, use the species as a component of traditional remedies for digestive complaints and respiratory ailments. The flowers are occasionally used in religious offerings and as a source of natural fragrance.
-
-In Bhutanese traditional medicine (gSo-ba Rig-pa), *Hedychium* species are classified among aromatic [[permaculture-plants-medicinal-herbs-healing]]. The rhizomes are included in formulations intended to balance the "rlung" (wind) humor.
-
-Young shoots are occasionally consumed as a vegetable in some Himalayan communities, though culinary use is limited compared to true gingers. The flowers are sometimes steeped as an herbal tea in Nepal and northeastern India.
-
-## See Also
-
-- [[hedychium-coccineum]]
-- [[zingiber-officinale]]
-- [[kaempferia-galanga]]
-- [[boesenbergia-rotunda]]
-- [[curcuma-amada]]
-- [[zingiber-zerumbet]]
-- [[amomum-subulatum]]
-- [[alpinia-zerumbet]]

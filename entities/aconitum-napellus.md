@@ -7,7 +7,7 @@ tags:
   - ranunculaceae
   - toxic-plant
   - medicinal-plant
-  - aconitine
+  - [[aconitine]]
   - ethnobotany
   - traditional-medicine
   - toxicology
@@ -16,7 +16,7 @@ sources:
   - "Bisset, N.G. (1981). \"Arrow poisons in China. Part II. Aconitum species.\" Journal of Ethnopharmacology, 4(3), 247–336."
   - "Mori, A. et al. (2023). \"Aconitine poisoning: a comprehensive review of mechanisms, clinical features, and treatment.\" Toxicon, 228, 32–41."
   - "Ameri, A. (1998). \"The effects of Aconitum alkaloids on the central nervous system.\" Progress in Neurobiology, 56(2), 211–235."
-  - "Culbreth, D.M.R. (1927). A Manual of Materia Medica and Pharmacology. 7th ed. Lea & Febiger."
+  - "Culbreth, D.M.R. (1927). A Manual of [[herbal-materia-medica]] and Pharmacology. 7th ed. Lea & Febiger."
 ---
 
 # Monkshood (*Aconitum napellus*)
@@ -88,30 +88,3 @@ aconitine from handling fresh plant material has caused fatalities. The
 toxin is heat-stable — cooking does not destroy it.
 
 ## Pharmacology and Traditional Medicine
-
-**Traditional European medicine (historical):**
-- Used externally as a counter-irritant for neuralgia, rheumatism, and joint
-  pain; applied as liniment or poultice in highly diluted preparations
-- Internal use was largely abandoned in [[fukuoka-eastern-western-medicine-healing-world-crisis]] by the 20th century
-  due to the narrow [[cannabis-therapeutic-index-overview]]
-
-**Traditional Chinese medicine:**
-- Processed *Aconitum* root (Zhi Fuzi) is used after extended hydrolytic
-  treatment that converts aconitine to less toxic benzoylaconine
-- Indications: heart failure, joint pain, and yang-deficiency patterns
-- Processing is critical: inadequate hydrolysis causes poisoning incidents
-
-**Modern pharmacological interest:**
-- Nav1.7 targeting by aconitine analogues informs design of novel analgesics
-- Aconitine is used as a research tool in electrophysiology for sodium
-  channel characterization
-- Songorine shows anxiolytic activity in preclinical models
-
-**Symptoms of poisoning:** Paresthesia and numbness of lips and tongue within
-20 minutes, progressing to nausea, vomiting, skeletal muscle paralysis,
-hypotension, ventricular arrhythmias, and death within 2–6 hours.
-
-## See Also
-- [[taxus-baccata]]
-- [[atropa-belladonna]]
-- [[amazonian-medicinal-plants-in-amaringos-visions]]

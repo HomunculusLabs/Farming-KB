@@ -1,16 +1,16 @@
 ---
-title: Plant plant sensory biology chamovitz (Chamovitz)
+title: Plant Sensory Biology Chamovitz
 aliases:
   - What a Plant Knows
   - Plant senses
-  - Plant perception
+  - [[plant-perception]]
 tags:
   - plant-biology
   - sensory-biology
   - botany
   - book-summary
 created: 2026-05-09
-source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
 [[daniel-chamovitz]]'s "What a Plant Knows" (2012) explores plant sensory
@@ -34,7 +34,7 @@ receptor families. Phytochromes toggle between red and far-red
 detection,
 letting plants perceive shading by neighbors. Phototropins mediate
 directional
-growth toward blue light, while cryptochromes entrain [[plant-circadian-rhythms]].
+growth toward [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]], while cryptochromes entrain [[plant-circadian-rhythms]].
 Plants use visual information to time flowering, optimize leaf
 positioning,
 and trigger shade-avoidance. See [[plant-vision-light-perception]].
@@ -59,12 +59,12 @@ profiles, actively growing toward the preferred species.
 Plant roots sample soil chemistry continuously, analogous to taste.
 Roots
 detect nutrients, toxins, and signals from neighboring organisms. They
-distinguish beneficial mycorrhizal fungi from pathogens through chemical
+distinguish beneficial [[arbuscular-mycorrhizal-fungi]] from pathogens through chemical
 recognition. Root architecture adjusts based on nutrient gradients --
 proliferating in nitrogen-rich zones while avoiding contaminants.
 
 Legume roots detect Nod factors from rhizobial bacteria, triggering root
-nodule formation that houses nitrogen-fixing bacteria. This chemical
+[[rhizobia-legume-nodule-formation]] that houses nitrogen-fixing bacteria. This chemical
 dialogue
 between plant and microbe is a refined form of taste perception.
 
@@ -73,7 +73,7 @@ between plant and microbe is a refined form of taste perception.
 Plants exhibit clear responses to mechanical stimulation. The Venus
 flytrap
 snaps shut when trigger hairs are touched twice within twenty seconds --
-demonstrating touch sensitivity plus short-term memory. Mimosa pudica
+demonstrating touch sensitivity plus short-term memory. [[mimosa-pudica]]
 folds
 its leaves when touched, and climbing plants exhibit thigmotropism,
 growing
@@ -88,56 +88,3 @@ to
 chronic mechanical stress.
 
 ## Proprioception
-
-Plants sense their own body position through gravitropism. Statocytes
-are
-gravity-sensing cells containing dense starch granules (amyloplasts)
-that
-settle under gravity. This mechanical signal transduces into biochemical
-information telling the plant which way is "down." Gravitropism ensures
-roots
-grow downward and shoots upward, even when the plant is reoriented.
-
-## Plant Memory
-
-Plants demonstrate multiple memory forms. The Venus flytrap's two-touch
-requirement is short-term memory. Vernalization -- prolonged cold
-exposure
-needed before flowering -- represents seasonal memory stored through
-epigenetic
-mechanisms including histone modifications and DNA methylation.
-
-Priming is another memory phenomenon: plants surviving pathogen attacks
-mount
-faster defenses against subsequent attacks. This immunological memory
-persists
-for weeks and may transmit to offspring through transgenerational
-epigenetic
-inheritance.
-
-## The Plant-Neuron Analogy
-
-Chamovitz navigates the analogy between plant signaling and animal
-nervous
-systems carefully. Plants use similar [[molecular-tools-bioremediation]] -- calcium
-signaling,
-action potentials, glutamate-like receptors, hormone gradients -- but
-without
-synaptic connections or centralized processing. Biologists debate
-whether
-these similarities reflect convergent evolution or shared ancestral
-mechanisms
-predating the plant-animal split over a billion years ago.
-
-## See Also
-
-- [[plant-vision-light-perception]]
-- [[phototropism-darwin-plants]]
-- [[photoperiodism-plant-flowering]]
-- [[phytochrome-photoreceptor]]
-
-## References
-
-- Chamovitz D (2012) What a Plant Knows. Oneworld Publications.
-- Runyon JB, Mescher MC, De Moraes CM (2006) [[plant-olfaction-volatile-chemical-sensing-chamovitz]] cues guide
-host location by parasitic plants. Science, 313(5794).

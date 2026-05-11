@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,30 +87,3 @@ much energy input, light mechanization requires ten to twenty times, and heavy
 mechanization can require up to fifty times as much. The efficiency of rice production
 is inversely proportional to the energy input, making no-tillage natural farming the
 most energy-productive method by a wide margin.
-
-## Soil Improvement Without Tillage
-
-Fukuoka's long-term experiments demonstrated that no-tillage cultivation not only
-does not degrade the land, it actively improves and enriches it. After more than ten
-years of continuous no-tillage, direct-seeded rice and winter grain succession
-cropping, the soil on Fukuoka's farm had become darker, richer in organic matter, and
-more porous than when he began.
-
-The soil improves through natural processes. Grass roots penetrate deep into the earth,
-loosening it. When roots die and decompose, they add humus and support microbial
-proliferation. Earthworms appear where humus accumulates, and moles follow the
-earthworms. The entire soil food web develops without any mechanical intervention.
-
-## Significance for Sustainable Agriculture
-
-This method represents one of the most thoroughly documented examples of productive
-no-tillage [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]. It demonstrates that high yields can be achieved without
-any external inputs when natural biological processes are harnessed rather than
-replaced. The system is particularly significant because it applies to rice, the world's
-most important food crop, and shows that the labor-intensive practices of
-transplanting, continuous flooding, and heavy fertilization are not inherently
-necessary for productive rice cultivation.
-
-The principles underlying this method have influenced no-till agriculture, cover
-cropping, and conservation farming movements worldwide, even where the specific
-techniques have been adapted to local conditions and crop varieties.

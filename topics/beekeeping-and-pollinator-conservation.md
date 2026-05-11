@@ -7,6 +7,7 @@ tags: [beekeeping, pollinators, apiculture, conservation, permaculture,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - beekeeping-basics
   - natural-beekeeping-practices
   - holzer-bee-collapse-natural-beekeeping

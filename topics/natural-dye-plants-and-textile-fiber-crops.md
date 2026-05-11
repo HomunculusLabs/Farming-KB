@@ -5,6 +5,7 @@ tags: [natural-dyeing, fiber-crops, textiles, permaculture, sustainable-craft]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-natural-dyes.md
   - /Users/t3rpz/wiki/concepts/mollison-designers-wool-processing-natural-dyeing.md
   - /Users/t3rpz/wiki/concepts/permaculture-designers-manual-tanbark-and-tannins.md

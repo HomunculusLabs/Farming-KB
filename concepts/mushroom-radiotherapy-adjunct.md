@@ -1,9 +1,9 @@
 ---
-title: [[mushroom-immune-cell-activation-mechanisms|Mushroom]] Radiotherapy Adjunct Use
+title: Mushroom Radiotherapy Adjunct
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms, cultivation]
+tags: [[mycology]], mushrooms, cultivation]
 sources: [papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 # Mushroom Radiotherapy Adjunct Use
@@ -46,7 +46,7 @@ involve the induction of DNA damage by apoptosis in the target cancer
 cells. This synergistic effect is significant because it suggests that
 PSP may sensitize cancer cells to the effects of radiation, making the
 radiotherapy more effective at killing tumour cells while
-simultaneously protecting healthy tissue through immune modulation.
+simultaneously protecting healthy tissue through [[cancer-immune-modulation-mechanisms]].
 
 ### PSK and Radiotherapy
 
@@ -59,7 +59,7 @@ gastric and colorectal carcinomas.
 ### Lentinan and Radiotherapy
 
 Lentinan has demonstrated anti-tumour effects that complement
-radiotherapy. Its primary mechanism -- activation of the host immune
+radiotherapy. Its primary mechanism -- activation of the [[fungal-virulence-factors-host-immune-evasion]]
 system -- addresses one of radiotherapy's major weaknesses: the
 suppression of immune function that accompanies radiation treatment.
 
@@ -81,70 +81,10 @@ strong amelioration of these toxic effects:
 ## The Double-Blind Shanghai Trial
 
 A double-blind Phase II trial in Shanghai hospitals enrolled almost 300
-patients suffering from gastric, oesophageal, or lung cancer treated
+patients suffering from gastric, oesophageal, or [[blesching-cannabis-lung-cancer]] treated
 with conventional radiotherapy and/or chemotherapy together with PSP or
 shark liver oil (batyl alcohol). PSP improved overall clinical
 symptoms, together with most symptoms associated with cancer therapy,
 and was found to be effective for 82% of patients compared with 48%
 for the control substance. This trial demonstrated that the benefits
 of mushroom adjuncts during radiotherapy extend beyond direct tumour
-effects to include improved quality of life, better clinical symptom
-management, and enhanced haematological parameters.
-
-## Mechanisms of Action
-
-The mechanisms by which mushroom polysaccharides enhance radiotherapy
-include:
-
-1. **Apoptosis sensitization**: Mushroom compounds may make cancer
-   cells more susceptible to radiation-induced apoptosis
-2. **Immune restoration**: By boosting immune function, mushroom
-   compounds help compensate for radiation-induced immunosuppression
-3. **Haematopoietic protection**: Preservation of bone marrow
-   function during radiation treatment
-4. **Anti-inflammatory effects**: Reduction of radiation-induced
-   inflammation and tissue damage
-5. **Antioxidant activity**: Some mushroom compounds may help protect
-   healthy cells from radiation-induced oxidative damage
-
-## Clinical Implications
-
-The combination of mushroom polysaccharides with radiotherapy
-represents a promising strategy for improving cancer treatment
-outcomes. The approach is particularly relevant because:
-
-- Radiotherapy remains a cornerstone of cancer treatment for many
-  tumour types
-- The side effects of radiotherapy are a major limiting factor in
-  treatment
-- Mushroom compounds are well-tolerated and can be administered orally
-- The cost of mushroom-derived adjuncts is relatively low compared to
-  many pharmaceutical options
-
-## Key Mushroom Species as Radiotherapy Adjuncts
-
-Several mushroom species have been studied specifically in the context
-of radiation therapy support:
-
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** ([[turkey-tail-mushroom-cancer-research|turkey]] tail): Source of both PSP and PSK,
-  the most extensively studied mushroom compounds for radiotherapy
-  adjunct use. See [[turkey-tail-research-psk]] for detailed clinical
-  findings.
-- **[[lentinula-edodes]]** (shiitake): Lentinan from shiitake has
-  immunomodulatory effects that complement radiotherapy by restoring
-  NK cell activity and T-cell function suppressed by radiation.
-- **[[ganoderma-lucidum]]** (reishi): Ganoderma polysaccharides and
-  triterpenes demonstrate both radioprotective and tumour-inhibiting
-  properties, acting through immune modulation and antioxidant
-  pathways.
-- **[[grifola-frondosa]]** (maitake): D-fraction from maitake has shown
-  immune-activating effects that may help counteract radiation-induced
-  lymphopenia.
-- **[[cancer-medicinal-mushrooms-hericium-erinaceus]]** (lion's mane): Hericenones and erinacines
-  may help protect neural tissue from radiation damage in head and
-  neck cancer treatments.
-
-## Quality of Life Improvements
-
-Beyond direct anti-tumour effects, mushroom adjuncts during
-radiotherapy have demonstrated measurable quality of life benefits:

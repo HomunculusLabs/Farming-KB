@@ -88,21 +88,3 @@ cultivate, requiring patience and careful environmental management:
   hu [[biological-efficiency]] l efficiency than fast-growing strains,
   but elevated potency compensates for reduced mass per flush.
 - **Substrates:** Standard P. cubensis substrates — [[cho-brown-rice-vinegar-preparation]] flour,
-  rye grain, supplemented hardwood sawdust or coco coir in monotubs.
-- **Contamination resistance:** Extended colonization increases
-  vulnerability; strict [[cultivator-sterile-technique-and-agar-culture]] is critical.
-
-## Legal Status
-
-As a strain of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Penis Envy shares the legal status
-of its parent species. P. cubensis and its psilocybin-containing
-fruiting bodies are illegal to cultivate, possess, or distribute in
-most jurisdictions. Spores, which do not contain psychoactive compounds,
-occupy a legal gray area and are sold for microscopy purposes in
-numerous countries and several US states.
-## See Also
-
-- [[psilocybe-cubensis-cultivation]]
-
-- Psilocybe cubensis
-- Golden Teacher

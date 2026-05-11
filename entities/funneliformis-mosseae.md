@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Walker C, Schüßler A (2010). "The Glomeromycota: a species list with descriptions." Mycorrhiza, 20(4), 241-253.
-  - Smith SE, Read DJ (2008). "Mycorrhizal Symbiosis." 3rd ed. Academic Press.
+  - Smith SE, Read DJ (2008). "[[arbuscular-mycorrhizal-symbiosis]]." 3rd ed. Academic Press.
   - Schüßler A, Walker C (2010). "The Glomeromycota: a species list with descriptions." Royal Botanic Garden Edinburgh.
   - Tisdall JM, Oades JM (1979). "Stabilization of soil aggregates by the root systems of ryegrass." Australian Journal of Soil Research, 17(3), 429-441.
   - Jeffries P et al. (2003). "The contribution of comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungi to the maintenance of plant structure and function." Botanical Journal of Scotland, 55(2), 145-155.
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Funneliformis mosseae** (formerly *Glomus mosseae*) is one of the most widely distributed and intensively studied arbuscular mycorrhizal fungi (AMF) in the Glomeromycota phylum.
+**Funneliformis mosseae** (formerly *Glomus mosseae*) is one of the most widely distributed and intensively studied [[arbuscular-mycorrhizal-fungi]] (AMF) in the Glomeromycota phylum.
 
 It forms symbiotic associations with the roots of approximately 80% of terrestrial plant families, enhancing nutrient uptake and stress tolerance in agricultural and natural ecosystems.
 
@@ -39,17 +39,17 @@ Spores are yellow to yellow-brown, 150–350 μm in diameter, with a single spor
 
 The hyphal attachment (sporiferous siphon) is cylindrical and narrows at the spore base. Vesicles are thin-walled and intercalary or terminal within cortical root cells.
 
-Arbuscules are the primary nutrient exchange interface, branching repeatedly within cortical cells to maximize surface area contact.
+Arbuscules are the primary [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] interface, branching repeatedly within cortical cells to maximize surface area contact.
 
 ## Symbiosis and Host Range
 
-*F. mosseae* is a generalist symbiont with a remarkably broad host range spanning dicots, monocots, and some gymnosperms across temperate and tropical regions.
+*F. mosseae* is a generalist symbiont with a remarkably broad host range spanning dicots, monocots, and some gymnosperms across temperate and [[fukuoka-natural-farming-in-tropical-regions]].
 
 The fungus penetrates root cortical cells and forms intracellular arbuscules, through which it exchanges soil-derived minerals — particularly phosphorus and nitrogen — for plant-derived carbon compounds (primarily hexose sugars).
 
 Colonized roots exhibit enhanced expression of phosphate transporter genes (PT genes), enabling plants to access orthophosphate from soil pools that would otherwise be biologically unavailable.
 
-The symbiosis also upregulates plant defense pathways, conferring systemic resistance against certain root pathogens without significant growth penalties.
+The symbiosis also upregulates plant defense pathways, conferring [[endophytic-mycorrhizal-induced-systemic-resistance]] against certain root pathogens without significant growth penalties.
 
 ## Ecology and Distribution
 
@@ -65,7 +65,7 @@ Soil disturbance from tillage reduces *F. mosseae* propagule density by fragment
 
 ## Agricultural Applications
 
-Inoculation with *F. mosseae* has demonstrated consistent yield improvements in legumes (10–30% increase in *Phaseolus vulgaris* and *Glycine max*), cereals, and horticultural crops under low-to-moderate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
+Inoculation with *F. mosseae* has demonstrated consistent yield improvements in legumes (10–30% increase in *[[phaseolus-vulgaris]]* and *Glycine max*), cereals, and horticultural crops under low-to-moderate [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]].
 
 The fungus is commercially available as a soil drench, seed coating, or granular inoculant, though field establishment can be variable depending on existing native AMF communities and soil chemical properties.
 
@@ -88,27 +88,3 @@ Studies in industrial wasteland revegetation have shown that *F. mosseae*-inocul
 ## Interactions with Soil Microbiome
 
 *F. mosseae* modifies the rhizosphere [[core-endorhiza-bacterial-community-composition-cannabis]] composition, generally increasing the abundance of phosphate-solubilizing bacteria and nitrogen-fixing taxa.
-
-Extraradical hyphae serve as physical conduits along which bacteria migrate, creating a "hyphosphere" with distinct microbial communities compared to bulk soil.
-
-The fungus also interacts synergistically with plant growth-promoting rhizobacteria (PGPR) such as *Pseudomonas fluorescens*, with co-inoculation producing greater growth benefits than either organism alone.
-
-Antagonistic interactions with soil-borne pathogens including *Fusarium oxysporum* and *Rhizoctonia solani* have been documented, mediated through improved host nutrition and [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance.
-
-## Research Significance
-
-*F. mosseae* was among the first AMF species to have its genome partially sequenced (Tisserant et al., 2013), revealing a reduced genome (~150 Mb) with extensive transposable element content and loss of genes for plant cell wall degradation.
-
-It serves as a model organism for studying AMF [[magnaporthe-grisea-functional-genomics-rice-blast]], nutrient transporter evolution, and the molecular dialogue between symbiotic partners through strigolactone and lipochitooligosaccharide signaling.
-
-Research on *F. mosseae* has contributed significantly to understanding the "mycorrhizal responsiveness" spectrum — the degree to which different plant species benefit from AMF colonization varies from highly responsive (most C3 grasses, legumes) to weakly responsive (Brassicaceae, Chenopodiaceae).
-
-## See Also
-
-- [[glomus-mosseae]]
-- [[mycorrhiza]]
-- [[laccaria-bicolor]]
-- [[stropharia-rugosoannulata]]
-- rhizosphere
-- [[glomus-fasciculatus]]
-- [[pisum-sativum]]

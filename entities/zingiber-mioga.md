@@ -13,7 +13,7 @@ sources:
   - "Ravindran, P.N. & Babu, K.N. (2005). Ginger: The Genus Zingiber. CRC Press."
   - "Kumar, A. et al. (2013). \"Zingiber mioga: A review of its botany, ethnobotany, pharmacology and phytochemistry.\" Journal of Pharmacy Research, 7(1), 44-49."
   - "Itokawa, H. et al. (1987). \"Antitumor principles from Zingiber mioga.\" Chemical & Pharmaceutical Bulletin, 35(8), 3304-3308."
-  - "Matsumoto, K. et al. (2016). \"Genetic diversity and breeding of myoga ginger (Zingiber mioga Roscoe) in Japan.\" Breeding Science, 66(4), 589-599."
+  - "Matsumoto, K. et al. (2016). \"[[biodiversity-fungal-genetic-diversity]] and breeding of myoga ginger (Zingiber mioga Roscoe) in Japan.\" Breeding Science, 66(4), 589-599."
 ---
 
 # Zingiber mioga (Myoga Ginger)
@@ -34,7 +34,7 @@ Unlike common ginger (Z. officinale), myoga is harvested for its above-ground fl
 
 The specific epithet *mioga* is derived from the Japanese name *myōga* (茗荷), which has been used for this plant since at least the Heian period (794–1185 CE). The species was first described scientifically by William Roscoe in 1807.
 
-Z. mioga is one of the most cold-tolerant members of the Zingiberaceae, capable of surviving winter temperatures down to −15°C in dormant rhizomes. This [[coleman-cold-hardiness-testing-ratings]] distinguishes it from most tropical Zingiber species and allows cultivation in temperate regions.
+Z. mioga is one of the most cold-tolerant members of the Zingiberaceae, capable of surviving winter temperatures down to −15°C in dormant rhizomes. This [[coleman-cold-hardiness-testing-ratings]] distinguishes it from most tropical Zingiber species and allows cultivation in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Plants grow 0.3–1.0 m tall from an extensive network of underground rhizomes. Leaf blades are lanceolate to elliptic, 25–35 cm long and 5–8 cm wide, with a smooth, glossy surface. The pseudostem is slender and often arching under the weight of leaves.
 
@@ -50,7 +50,7 @@ The species grows in moist, shaded environments including forest understories, s
 
 Wild populations in Japan have declined due to habitat loss and over-collection of flower buds from natural stands. The species is not currently listed as threatened, but local extirpations have been documented in heavily developed lowland areas.
 
-The species is increasingly naturalized outside its native range in temperate regions. In the United States, established populations occur in the Pacific Northwest and mid-Atlantic states, where the climate approximates its native habitat. In Europe, it is grown as a novelty crop in the United Kingdom and parts of France.
+The species is increasingly naturalized outside its native range in temperate regions. In the [[dmt-containing-plants-united-states-halpern]], established populations occur in the [[psilocybin-north-america-pacific-northwest]] and mid-Atlantic states, where the climate approximates its native habitat. In Europe, it is grown as a novelty crop in the United Kingdom and parts of France.
 
 ### Cultivated Varieties
 
@@ -61,11 +61,11 @@ Several named cultivars of Z. mioga have been developed in Japan, selected for y
 - **'Yamabuki'** — Selected for enhanced cold hardiness. Suitable for cultivation at higher elevations and northern latitudes.
 - **'Tosa-no-Hana'** — A Kochi prefecture local variety with particularly aromatic buds, considered a premium gourmet product.
 
-Vegetative propagation maintains cultivar characteristics, as the species rarely sets viable seed in cultivation. Germplasm collections are maintained at several [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] research stations.
+[[hamilton-vegetative-propagation]] maintains cultivar characteristics, as the species rarely sets viable seed in cultivation. Germplasm collections are maintained at several [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] research stations.
 
 ## Phytochemistry
 
-The essential oil of myoga flower buds (0.1–0.5% fresh weight) contains a profile distinct from common ginger. Major constituents include α-pinene, β-pinene, limonene, and 1,8-cineole, with smaller amounts of gingerol-related compounds.
+The [[permaculture-designers-manual-essential-oil-plants]] of myoga flower buds (0.1–0.5% fresh weight) contains a profile distinct from common ginger. Major constituents include α-pinene, β-pinene, limonene, and 1,8-cineole, with smaller amounts of gingerol-related compounds.
 
 Myoga contains several unique diarylheptanoids not found in other Zingiber species. These compounds, including miogaols A, B, and C, have been the focus of pharmacological investigation. The flower buds also contain kaempferol glycosides and other flavonoid antioxidants.
 
@@ -88,27 +88,3 @@ In traditional Japanese Kampo medicine, myoga rhizomes and flower buds have been
 Modern pharmacological studies have identified several bioactive properties:
 
 - **Antimutagenic:** Diarylheptanoids from myoga demonstrate antimutagenic activity against known carcinogens in the Ames test. Miogaol B shows particularly strong suppressive effects.
-- **Anti-inflammatory:** Ethanol extracts inhibit COX-2 and iNOS expression in LPS-stimulated macrophages. The activity is attributed primarily to diarylheptanoid constituents.
-- **Antioxidant:** Methanol extracts show significant DPPH radical scavenging activity, comparable to standard antioxidants at equivalent concentrations.
-- **Antiplatelet:** Crude extracts inhibit platelet aggregation in vitro, though the active constituents and mechanism require further characterization.
-
-⚠️ Therapeutic use of myoga is not supported by [[psilocybin-clinical-trial-landscape-2020-2025]] data. The species is primarily a culinary plant, and medicinal claims are based on traditional use and preclinical studies only.
-
-## Cultivation
-
-Myoga is propagated by rhizome division in early spring before new growth emerges. Rhizome pieces with 2–3 viable buds are planted 5–10 cm deep and spaced 30–50 cm apart. The crop is uniquely shade-tolerant among Zingiber species and is often grown under deciduous trees or shade structures.
-
-Optimal soil conditions include well-drained, loamy soils rich in [[hamilton-composting-and-organic-matter-management]] with pH 5.5–6.5. Consistent soil moisture is critical during the growing season, though established plants tolerate brief drought periods. Mulching with leaf litter or straw is standard practice to retain moisture and suppress weeds.
-
-Flower bud harvest begins in the second year after planting and continues annually. Yields range from 0.5–2.0 kg per m² depending on plant density and management. The crop is remarkably low-maintenance once established, with few serious pest or disease problems.
-
-Major production areas in Japan include Wakayama, Kochi, and Gifu prefectures. The crop is also grown commercially in Korea, China, and on a smaller scale in Australia, New Zealand, and the Pacific Northwest of the United States.
-
-## See Also
-
-- [[zingiber-zerumbet]] — Shampoo ginger, a related Zingiber with ornamental and medicinal uses
-- [[alpinia-zerumbet]] — Shell ginger, an ornamental Zingiberaceae with cold tolerance
-- [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species used in Thai cuisine
-- [[tagetes-minuta]] — Marigold, a companion plant with allelopathic properties useful in myoga cultivation
-- [[salvia-officinalis]] — Common sage, a shade-tolerant Mediterranean herb sharing forest-garden niches
-- [[ocimum-basilicum]] — Sweet basil, a culinary herb contrasting myoga's temperate adaptation

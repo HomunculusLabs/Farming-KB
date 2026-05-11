@@ -88,15 +88,3 @@ Embedded within the physical structure of mycelial networks is an equally comple
 The mechanisms underlying nutrient translocation include mass flow, diffusion, generalized cytoplasmic streaming, and specific vesicular transport. The vacuolar system within fungal hyphae plays a particularly important role in long-distance translocation over millimetres or centimetres, with the vacuolar network shifting between different organizational states to regulate transport capacity according to local nutrient conditions.
 
 ## Ecological Significance and Global Impact
-
-At local and global scales, mycorrhizal involvement in biogeochemical cycling has profound implications for ecosystem function, plant productivity, and human agriculture. The ability of mycorrhizal fungi to transform minerals, mobilize nutrients, and sequester carbon means that they are central to the functioning of virtually all terrestrial ecosystems.
-
-In agricultural systems, mycorrhizal associations can reduce the need for phosphorus fertilizers by enhancing the plant's ability to access soil phosphorus from insoluble mineral sources. In forestry, [[symbiotic-fungi-ectomycorrhizal-networks-overview]] are essential for tree nutrition, particularly on nutrient-poor soils. In restoration ecology,  etabarcoding is allowing researchers to map mycorrhizal community composition across landscapes and to track how these communities respond to environmental change, including climate change, nitrogen deposition, and land-use change. Stable isotope probing and nanoscale secondary ion mass spectrometry (NanoSIMS) are providing direct evidence of nutrient flow between mycorrhizal partners at the single-cell level.
-
-These emerging tools promise to transform mycorrhizal research from descriptive ecology to predictive science, enabling better management of mycorrhizal associations in agriculture, forestry, and ecosystem restoration. Understanding the functional diversity of mycorrhizal fungi and how to select for beneficial associations represents a frontier in sustainable land management.
-
-## See Also
-
-- [[biodiversity-of-fungi-ecosystem-services-agriculture]]
-- mycorrhizal fungi in biogeochemical cycling
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

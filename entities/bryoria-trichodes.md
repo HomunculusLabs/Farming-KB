@@ -56,11 +56,11 @@ Pycnidia are common, immersed to slightly protruding, producing bacilliform coni
 
 ## Distribution and Habitat
 
-*Bryoria trichodes* has a circumpolar boreal and montane distribution. In North America, it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], extending southward along the Rocky and Appalachian mountain chains.
+*Bryoria trichodes* has a circumpolar boreal and montane distribution. In [[guzman-psilocybin-mushrooms-north-america]], it ranges from Alaska across Canada to the northeastern [[dmt-containing-plants-united-states-halpern]], extending southward along the Rocky and Appalachian mountain chains.
 
 In Europe, the species occurs in Fennoscandia, the Alps, the Carpathians, and scattered mountain ranges through Central and Eastern Europe. It is more frequent in continental boreal regions than in oceanic areas.
 
-The species is strongly associated with coniferous forests. Preferred phorophytes include *Picea abies*, *Picea sitchensis*, *Abies lasiocarpa*, *Abies balsamea*, *Tsuga* spp., and occasionally *Pinus* spp.
+The species is strongly associated with coniferous forests. Preferred phorophytes include *Picea abies*, *[[picea-sitchensis]]*, *[[abies-lasiocarpa]]*, *[[abies-balsamea]]*, *Tsuga* spp., and occasionally *Pinus* spp.
 
 It colonizes the trunks and main branches of mature and old-growth trees, typically in the mid-crown zone. It is less common on young trees or in heavily managed plantation forests.
 
@@ -70,13 +70,13 @@ Elevation ranges from near sea level in boreal regions to approximately 2,500 m 
 
 *Bryoria trichodes* associates with a trebouxioid green algal photobiont, a pattern typical of the Parmeliaceae. The photobiont provides photosynthetic carbon while the mycobiont contributes mineral nutrients and water retention.
 
-The species is moderately sensitive to atmospheric pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It has declined in Central European forests with poor [[cervantes-air-quality-ventilation]] but persists in more remote boreal and alpine regions.
+The species is moderately sensitive to atmospheric pollution, particularly sulfur dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. It has declined in [[psilocybe-bohemica-central-european]] forests with poor [[cervantes-air-quality-ventilation]] but persists in more remote boreal and alpine regions.
 
 *B. trichodes* contributes to canopy epiphyte biomass and intercepts moisture from fog and precipitation. This intercepted water drips to the forest floor, contributing to local hydrological cycling.
 
 In parts of North America, *Bryoria* species including *B. trichodes* are consumed as winter forage by caribou (*Rangifer tarandus*) and other cervids. The lichens provide digestible carbohydrates during periods of snow cover.
 
-The tangled thallus structure provides microhabitat for tardigrades, mites, and other microarthropods. Several lichenicolous fungi have been recorded on *Bryoria* species, though specific associates of *B. trichodes* are poorly documented.
+The tangled thallus structure provides microhabitat for tardigrades, mites, and other microarthropods. Several [[lichenicolous-fungi]] have been recorded on *Bryoria* species, though specific associates of *B. trichodes* are poorly documented.
 
 ## Chemistry and Secondary Metabolites
 
@@ -87,31 +87,3 @@ Some populations additionally contain connorstictic acid, stictic acid, or trace
 Spot test reactions: K+ yellow turning red (norstictic acid), C−, KC+ yellow, Pd+ yellow. The PD test is positive, distinguishing *B. trichodes* from some *Bryoria* species that lack norstictic acid.
 
 No significant toxic compounds have been reported from *B. trichodes*. However, some *Bryoria* species contain vulpinic acid, which is toxic to mammals. *B. trichodes* does not produce this compound.
-
-## Traditional and Medicinal Uses
-
-*Bryoria trichodes* has limited documented ethnobotanical use compared to more prominent lichens like *Cetraria islandica* or *Usnea* species. Its primary significance has been as an incidental food source for boreal wildlife rather than human use.
-
-Indigenous peoples of the Pacific Northwest reportedly used certain *Bryoria* species as emergency food after prolonged leaching to remove bitter compounds. It is unclear whether *B. trichodes* specifically was used for this purpose.
-
-In Scandinavian folk tradition, *Bryoria* species were occasionally collected as fodder supplement for livestock during winter shortages. The practice was more common with *B. fremontii*, which is more palatable.
-
-No modern pharmaceutical applications of *B. trichodes* compounds have been developed. The norstictic acid shows modest antimicrobial activity in vitro but has not been investigated clinically.
-
-## Similar Species
-
-- ***Bryoria fuscescens*** — Darker brown thallus, contains physodic acid (K+ yellow, not turning deep red). More abundant in oceanic regions. Pseudocyphellae present but inconspicuous.
-
-- ***Bryoria caperata*** — Thinner branches with prominent white pseudocyphellae along branch angles. Contains caperatic acid. More strictly oceanic distribution in Europe.
-
-- ***Bryoria fremontii*** — Edible horsehair lichen, generally darker and more robust. Used as food by Indigenous peoples. Contains physodic and physodalic acids.
-
-- ***Alectoria sarmentosa*** — Witch's hair lichen, similar growth form but brighter greenish-grey. Contains usnic acid (K+ yellow). Wider, more robust branches with distinct white longitudinal fissures.
-
-## See Also
-
-- [[bryoria-fremontii]] — Edible horsehair lichen of western North America
-- [[alectoria-nigricans]] — Black witch's hair, Arctic fruticose lichen
-- [[cetraria-nivalis]] — Snow lichen, Arctic fruticose species
-- [[cladonia-rangiferina]] — Reindeer lichen, shared caribou forage species
-- [[evernia-prunastri]] — Oakmoss, fruticose lichen of temperate bark

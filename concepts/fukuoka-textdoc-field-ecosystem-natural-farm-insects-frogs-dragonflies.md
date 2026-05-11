@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,38 +87,3 @@ spraying.
 He argues that while people need doctors because they are careless about their
 health, crops do not indulge in self-deception. Provided the farmer is sincere in
 his efforts to grow healthy crops, there will never be any need for pesticides.
-
-## The Rice Paddy as Wildlife Habitat
-
-A naturally farmed rice paddy becomes habitat for a remarkable diversity of
-wildlife. Fukuoka describes hovering clouds of dragonflies and flocks of ground
-sparrows and swallows flying over his field. The ducks he releases into the paddy
-fertilize the soil with their droppings and eat insects, creating a polyculture
-system of rice, ducks, and fish.
-
-The paddy levees, constructed of earth and plastered with mud, grow grasses that
-are cut several times a year. The grass clippings, if left on the levee, attract
-earthworms which draw moles — so the farmer must manage the levee carefully to
-prevent tunneling that causes water leakage. Even this mole problem is part of
-the natural ecosystem that the farmer must work with, not against.
-
-## Ecological Measures Over Chemical Controls
-
-Fukuoka concludes that most damage caused by plant diseases and pests can be
-resolved by ecological measures. Before debating the need to spray pesticides,
-people should understand the dangers posed by tampering with the world of living
-things. The simplest ecological measure is to stop tampering and allow the
-natural balance to reassert itself.
-
-The natural farmer takes care to allow natural plants that protect the natural
-soil to carry out their mission. Green manure thriving at the foot of the rice
-plants and algae growing on the flooded field absorb energy from the sun, which
-they pass through decomposition cycles to the rice plants. The total energy
-absorbed by the rice, green manure, algae, and earth is greater than the energy
-stored by rice plants alone.
-
-## See Also
-
-- [[fukuoka-textdoc-natural-order-food-chain-unity]]
-- [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]

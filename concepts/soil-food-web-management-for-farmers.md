@@ -6,6 +6,7 @@ type: concept
 tags: [soil, agriculture]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Soil Food Web Management for Farmers
 
@@ -87,28 +88,3 @@ Quality compost is the most direct way to add diverse biology:
 - Foliar applications for disease suppression
 - Soil drenches for root zone biology
 - Fungal teas for perennial systems
-- Bacterial teas for annual crops and pastures
-
-## Building a Management Plan
-
-1. **Assess current soil biology** using microscope analysis
-2. **Identify desired crop and target biology** (bacterial:fungal ratio, organism groups)
-3. **Select management practices** to shift biology toward targets
-4. **Monitor progress** through regular biological assessments
-5. **Adjust** practices based on monitoring results
-
-## Expected Benefits
-
-- Reduced fertilizer inputs as [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] improves
-- Decreased disease pressure through biological suppression
-- Improved water retention and infiltration
-- Better soil structure and reduced compaction
-- Higher crop quality and nutrient density
-- Reduced input costs over time
-
-## Related Concepts
-
-- [[soil-food-web-structure]] -- the soil food web concept
-- [[fukuoka-crop-rotation-and-natural-weeds]] -- natural farming practices for crop management
-- fungal-chromogens-and-color-change
-- [[ozier-pdc-composting-and-soil-building]]

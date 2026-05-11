@@ -87,10 +87,3 @@ pathway. Individuals with citrus allergy should exercise caution, though
 true limonene allergy is rare. When combined with cannabis cannabinoids,
 limonene's permeability-enhancing properties may increase transdermal
 absorption of other topical compounds.
-
-Related: [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]],
-[[cannabis-anti-inflammatory-applications]]
-
-## See Also
-
-- [[isopulegol]]

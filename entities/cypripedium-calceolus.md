@@ -27,7 +27,7 @@ The species is easily recognized by its large, slipper-shaped yellow labellum an
 
 Cypripedium calceolus is the national flower of Sweden and holds protected status throughout most of its range.
 
-It is the most widely distributed Cypripedium species in the Old World.
+It is the most widely distributed Cypripedium species in the [[datura-metel-old-world-ethnobotany]].
 
 ## Taxonomy and Morphology
 
@@ -83,51 +83,11 @@ The labellum functions as a trap, luring insects inside with scent and bright co
 
 Pollinia adhere to the insect's body and are transferred to the next flower visited.
 
-The species is mycoheterotrophic during seedling establishment, relying on basidiomycete fungi.
+The species is mycoheterotrophic during seedling establishment, relying on [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 Flowering is not annual; mature plants may remain vegetative for years between flowering events.
 
 ## Conservation
 
-Cypripedium calceolus is classified as Near Threatened on the IUCN Red List.
-
-The species is listed in Appendix II of CITES, regulating international trade.
-
-It is protected by national legislation in virtually every European country where it occurs.
-
-In the United Kingdom, a single wild population survives in Yorkshire, guarded and monitored since the 1970s.
-
-Habitat loss through forestry, agricultural intensification, and urbanization remains the primary threat.
-
-Reintroduction projects in the UK, Germany, and the Netherlands have achieved limited success.
-
-A European Action Plan for the species was developed under the Bern Convention.
-
-## Cultivation
-
-Cypripedium calceolus is one of the most sought-after terrestrial orchids in horticulture.
-
-Cultivation is considered difficult and is recommended only for experienced growers.
-
-Plants require a humus-rich, well-drained, slightly acidic to neutral substrate.
-
-A mix of loam, leaf mold, perlite, and fine bark has proven successful in cultivation.
-
-Dappled shade or morning sun with afternoon shade is ideal.
-
-Consistent moisture during the growing season is essential, but winter drainage must be excellent.
-
-Propagation from seed requires mycorrhizal symbionts or sterile laboratory conditions.
-
-Division of established clumps is possible but slow, with recovery taking several years.
-
 ## See Also
-
-- [[dactylorhiza-maculata]]
-- [[vanilla-planifolia]]
-- [[orchid-mycorrhiza]]
-- [[mycorrhiza]]
-- [[fagus-sylvatica]]
-- [[quercus-robur]]
-- [[native-plant-gardening]]
-- [[invasive-species-management]]
+- [[tryptamine-family-overview]]

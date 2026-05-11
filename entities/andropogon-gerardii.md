@@ -34,7 +34,7 @@ Leaf blades are 5–12 mm wide, 15–60 cm long, with a prominent midrib and rou
 
 Root systems are exceptionally deep, extending to depths of 2–3 meters. The deep fibrous root mass contributes to the exceptionally high soil organic matter levels characteristic of tallgrass prairie soils, which are among the most productive agricultural soils in the world.
 
-Big bluestem is a tetraploid species with 2n = 4x = 60 chromosomes, though hexaploid populations (2n = 6x = 90) have been documented in portions of the Great Plains. Cytotype variation correlates with environmental gradients in moisture and temperature.
+Big bluestem is a tetraploid species with 2n = 4x = 60 chromosomes, though hexaploid populations (2n = 6x = 90) have been documented in portions of the Great Plains. Cytotype variation correlates with [[fungal-adaptations-environmental-gradients]] in moisture and temperature.
 
 The inflorescence branches (racemes) are paired or clustered, with each bearing spikelets that disarticulate at maturity as individual units. Each spikelet contains a single fertile floret and a sterile pedicellate spikelet beneath it, a characteristic of the Andropogoneae tribe.
 
@@ -46,7 +46,7 @@ The native range of big bluestem extends from central Alberta and Saskatchewan i
 
 Optimal habitat is the mesic tallgrass prairie, where annual precipitation ranges from 500–1,000 mm. The species tolerates a broad range of soil types including deep loams, glacial till, and alluvial soils, but achieves maximum stature on deep, fertile, moist soils.
 
-Big bluestem declines in abundance along gradients of decreasing precipitation and increasing elevation, giving way to little bluestem (*Schizachyrium scoparium*) in drier mixed-grass prairies and to shortgrass species in the semi-arid western Great Plains.
+Big bluestem declines in abundance along gradients of decreasing precipitation and increasing elevation, giving way to little bluestem (*[[schizachyrium-scoparium]]*) in drier mixed-grass prairies and to shortgrass species in the semi-arid western Great Plains.
 
 Historical fire and bison grazing were the primary disturbance regimes maintaining tallgrass prairie structure. Bison preferentially grazed recently burned patches, creating a mosaic of grazed and ungrazed areas that maintained plant diversity and heterogeneity.
 
@@ -60,15 +60,15 @@ Big bluestem is a keystone species of the tallgrass prairie, contributing 60–8
 
 The species is highly adapted to fire, resprouting vigorously from basal buds within days of burning. Historically, fire-return intervals of 1–5 years maintained prairie dominance by suppressing woody encroachment and stimulating big bluestem productivity.
 
-Fire exclusion leads to woody species invasion, particularly by eastern redcedar (*Juniperus virginiana*) and various oak species, converting open prairie to shrubland or woodland over decadal timescales. Prescribed fire is now a primary tool for prairie management and restoration.
+Fire exclusion leads to woody species invasion, particularly by eastern redcedar (*[[juniperus-virginiana]]*) and various oak species, converting open prairie to shrubland or woodland over decadal timescales. Prescribed fire is now a primary tool for prairie management and restoration.
 
-Big bluestem provides cover and nesting habitat for grassland birds including greater prairie chickens, Henslow's sparrows, and dickcissels. Its stature and persistence through winter make it an important structural element of year-round wildlife habitat.
+Big bluestem provides cover and nesting habitat for grassland birds including greater prairie chickens, Henslow's sparrows, and dickcissels. Its stature and persistence through winter make it an important structural element of year-round [[hemenway-backyard-wildlife-habitat]].
 
 The species supports a diverse arthropod community, including grasshoppers, leafhoppers, and their associated parasitoid wasps. Several specialist insect herbivores feed exclusively on *Andropogon* species, contributing to the unique food web structure of prairie ecosystems.
 
 Pollination is primarily by wind, as is typical for grasses, though the species does attract some insect visitors to its flowering panicles. Seed set is generally abundant in favorable years, with seed production ranging from 200–800 kg/ha.
 
-Mycorrhizal associations with arbuscular mycorrhizal fungi are essential for phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]. These symbiotic relationships are particularly important on the nutrient-poor soils of remnant prairies, where mycorrhizal networks connect multiple plant individuals.
+Mycorrhizal associations with [[arbuscular-mycorrhizal-fungi]] are essential for phosphorus uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]. These [[fungi-in-the-environment-symbiotic-relationships]] are particularly important on the nutrient-poor soils of remnant prairies, where mycorrhizal networks connect multiple plant individuals.
 
 ## Cultivation and Restoration
 
@@ -87,34 +87,3 @@ Competition from introduced cool-season grasses such as tall fescue and smooth b
 ## Forage Value and Agricultural Use
 
 As a warm-season forage grass, big bluestem complements cool-season species by providing mid-summer forage when cool-season grasses are semi-dormant. Its peak production coincides with the period of highest livestock nutrient demand.
-
-The C4 photosynthetic pathway gives big bluestem superior water-use efficiency compared to C3 cool-season grasses. This efficiency translates to reliable summer productivity even during periods of moderate drought stress.
-
-[[coleman-winter-greens-nutritional-quality-cold-sweetening]] is moderate compared to introduced warm-season species such as bermudagrass, with lower crude protein but higher fiber content. Management through [[comparison-rotational-grazing-vs-continuous-grazing]] at moderate stocking rates maintains adequate forage quality and stand persistence.
-
-In native hay production, big bluestem is typically harvested once per year in late summer, producing hay with moderate protein and energy content suitable for beef cattle maintenance rations. The species is not suitable for lactating dairy cattle without protein supplementation.
-
-Big bluestem hay contains higher levels of silica than many introduced forage grasses, which can reduce digestibility and palatability if harvested at advanced maturity stages. Early heading harvest produces the most nutritious hay.
-
-The species is increasingly incorporated into diverse native grass mixtures for rotational grazing systems, where it provides summer forage while cool-season species provide spring and autumn production. This dual-season approach can extend the grazing season and reduce [[savory-supplemental-feeding-and-winter-management]] costs.
-
-## See Also
-
-- [[panicum-virgatum]]
-- [[sorghum-bicolor]]
-- [[spartina-alterniflora]]
-- [[zea-mays]]
-- [[triticum-aestivum]]
-- [[avena-sativa]]
-- [[pennisetum-glaucum]]
-- [[coix-lacryma-jobi]]
-- [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
-- [[phyllostachys-edulis]]
-- [[festuca-arundinacea]]
-- [[arundo-donax]]
-- [[quercus-robur]]
-- [[salix-alba]]
-- [[juncus-effusus]]
-- [[pennisetum-setaceum]]
-- [[miscanthus-sinensis]]

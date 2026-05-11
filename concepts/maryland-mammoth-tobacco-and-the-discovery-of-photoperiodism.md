@@ -88,25 +88,3 @@ Follow-up experiments around World War II revealed a crucial refinement:
 plants actually measure the length of the continuous period of darkness,
 not the length of daylight. Scientists discovered they could prevent a
 short-day plant like soybean from flowering by turning on lights for only
-a few minutes in the middle of the night. Conversely, a long-day plant
-like iris could be induced to flower in midwinter by a brief mid-night
-illumination.
-
-This demonstrated that it is the uninterrupted dark period that plants
-monitor, and even a momentary break in darkness resets the plant's
-internal clock. A few seconds of light in the middle of the night is
-sufficient to cancel the flowering signal.
-
-## Connection to Phytochrome
-
-The Maryland Mammoth experiments laid the groundwork for the discovery
-of maryland mammoth tobacco and the [[phytochrome-red-far-red-switch-and-photoperiodism]][[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] nd specifically to red and far-red light in regulating their
-photoperiodic responses.
-
-The phytochrome system acts as a biological switch: red light activates one molecular
-form, far-red light reverts it to another. In nature, the last light at
-dusk contains more far-red wavelengths, effectively turning off the
-
-## See Also
-
-- [[chamovitz-maryland-mammoth-photoperiodism-discovery]]

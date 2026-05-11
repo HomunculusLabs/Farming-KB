@@ -1,5 +1,5 @@
 ---
-title: Pruning Fruit Trees
+title: [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,18 +9,18 @@ sources: []
 
 # Pruning Fruit Trees
 
-Pruning is the selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one of the most important skills for fruit tree care and directly affects yield, fruit size, and tree longevity.
+Pruning is the selective removal of branches to shape the tree, improve fruit quality, increase light penetration, remove diseased or dead wood, and maintain tree health. Proper pruning is one of the most important skills for [[fruit-tree-care-and-orchard-management]] and directly affects yield, fruit size, and tree longevity.
 
 ## Why Prune
 
 ### Benefits of Proper Pruning
 
 - **Improved light penetration**: Sun-exposed fruit ripens better, develops more sugar, and has fewer disease problems
-- **Better air circulation**: Reduces humidity within the canopy, decreasing fungal disease pressure
+- **Better [[stamets-growing-room-air-circulation-co2-management]]**: Reduces humidity within the canopy, decreasing [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure
 - **Easier harvest**: Well-shaped trees are more accessible for picking
-- **Disease management**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
-- **Tree vigor control**: Pruning balances vegetative growth with fruit production
-- **Structural strength**: Removing weak crotches and crowded branches prevents breakage under fruit load
+- **[[clubroot-disease-management]]**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
+- **Tree vigor control**: Pruning balances [[cannabis-vegetative-growth-stage]] with [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]
+- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: Removing weak crotches and crowded branches prevents breakage under fruit load
 - **Renewal**: Removing old wood stimulates new productive growth
 
 ### When Not to Prune
@@ -57,7 +57,7 @@ The central leader system is used for apples, pears, sweet cherries, and some pl
 
 **Years 5+ (Maintenance Pruning)**
 - Remove dead, diseased, or broken wood
-- Thin crowded branches to maintain good light distribution
+- Thin crowded branches to maintain good [[cervantes-reflective-hoods-light-distribution]]
 - Remove water sprouts (vigorous vertical shoots) from the trunk and scaffold bases
 - Remove suckers from the rootstock below the graft union (see [[grafting-fruit-trees]])
 - Thin fruiting spurs if they become too dense (especially on apples)
@@ -147,4 +147,3 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
 - **Winter pruning (February-March)**: Primary structural pruning. Tree is dormant; branch structure is visible.
 - **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
 - Best pruned during dormancy; summer pruning is supplemental.
-

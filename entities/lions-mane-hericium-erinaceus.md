@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
+title: Lions Mane Hericium Erinaceus
 type: species
 tags:
   - fungi
@@ -87,61 +87,3 @@ The most well-documented therapeutic application of Lion's Mane is in neurologic
 - **Axonal regeneration** following nerve injury
 
 Animal studies have demonstrated improved cognitive function in aged rats, with increased recognition memory and reduced age-related cognitive decline. Human clinical trials have shown promising results for mild cognitive impairment (MCI), with significant improvements in cognitive function after 16 weeks of supplementation.
-
-### Nervous System Repair
-
-Lion's Mane extract has demonstrated nerve-regenerating properties in peripheral nerve injury models. Studies on crushed sciatic nerves in rats showed accelerated functional recovery and improved axonal density when treated with *H. erinaceus* extracts, likely mediated through NGF and Brain-Derived Neurotrophic Factor (BDNF) upregulation.
-
-### Anti-Inflammatory and Immune Modulation
-
-The β-glucans and hericenones in Lion's Mane exhibit significant anti-inflammatory activity through:
-
-- Inhibition of NF-κB signaling pathway
-- Reduction of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β)
-- Modulation of macrophage polarization toward the M2 (anti-inflammatory) phenotype
-
-### Gastrointestinal Health
-
-Traditional use for stomach ailments is supported by research showing that Lion's Mane extract protects gastric mucosa, reduces *Helicobacter pylori* colonization, and may help prevent gastric ulcers through anti-inflammatory and antioxidant mechanisms.
-
-## Cultivation
-
-### Substrate Cultivation (Indoor)
-
-Lion's Mane is commercially cultivated on supplemented hardwood sawdust substrates. A typical formulation includes:
-
-- Hardwood sawdust (oak or beech): 70–80%
-- Wheat bran or rice bran: 15–20%
-- Gypsum: 1–2%
-- Water: 60–65% moisture content
-
-Optimal colonization temperature is 20–25°C, with fruiting triggered by fresh air exchange, high humidity (85–95%), and indirect light. The time from inoculation to harvest is typically 4–6 weeks.
-
-Hardwood logs (10–20 cm diameter) are inoculated with spawn in spring. Oak, maple, and beech logs are preferred. Fruiting typically occurs in autumn after a 6–12 month colonization period, often triggered by cool temperatures and rain.
-
-## Culinary Use
-
-Lion's Mane has a firm, meaty texture and a mild, slightly sweet flavor often compared to lobster or crab meat. It is prized in fine dining for its ability to absorb flavors and maintain structure during cooking.
-
-### Preparation Methods
-
-- **Pan-searing:** Sliced thick and cooked in butter until golden
-- **Tempura:** Whole pieces battered and deep-fried
-- **Soups and stews:** Added in large chunks for texture
-- **Dried and powdered:** Used as a flavoring and supplement
-
-## Safety and Precautions
-
-Lion's Mane is generally recognized as safe (GRAS) for culinary consumption. However, individuals with known mushroom allergies should exercise caution. Rare cases of contact dermatitis from handling the fruiting body have been reported. No significant drug interactions have been documented, but consultation with a healthcare provider is recommended for individuals on immunosuppressive therapy.
-
-## Conservation Status
-
-While not currently listed as threatened, wild Lion's Mane populations face pressure from habitat loss and overharvesting. Sustainable foraging practices and cultivation are encouraged. The species is widely available commercially, reducing pressure on wild populations.
-
-## See Also
-
-- reishi (ganoderma lucidum)
-- cordyceps (ophiocordyceps sinensis)
-- turkey tail (trametes versicolor)
-- nerve growth factor
-- medicinal fungi

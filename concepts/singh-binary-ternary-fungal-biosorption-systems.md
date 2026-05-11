@@ -20,7 +20,7 @@ significantly affect biosorption performance and reactor design.
 ## Principles of Multimetal Biosorption
 
 Biosorption of multiple metals involves several interacting factors:
-- Competition of metals for available binding sites on fungal biomass
+- Competition of metals for available binding sites on [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]]
 - Metal combination effects and relative concentration ratios
 - Order of metal addition to the biosorption system
 - Contact time and kinetic constraints
@@ -35,7 +35,7 @@ influence the biochemical processes of fungi during treatment.
 ## Binary Biosorption Systems
 
 ### Rhizopus arrhizus Studies
-Rhizopus arrhizus is the most extensively studied fungus for binary
+[[rhizopus-arrhizus]] is the most extensively studied fungus for binary
 metal biosorption. Key findings include:
 
 - **Pb(II) and Ni(II)**: Pb(II) ions dominate competitive binding.
@@ -75,11 +75,11 @@ combined effects. Key observations include:
   adsorption is significantly low at pH 2.0 due to poor affinity
 - Equilibrium uptake in ternary systems of Pb(II), Ni(II), and Cu(II)
   reaches 48.79 mg Pb(II)/g, 25.78 Cu(II)/g, and 41.44 mg Ni(II)/g,
-  implying synergistic action due to metal interactions
+  implying synergistic action due to [[gadd-fungal-metal-interactions]]
 - Preferential adsorption order in ternary systems: Pb(II) > Ni(II)
   > Cu(II) at pH 5.0
 
-Aspergillus niger in ternary systems displays adsorption in the order
+[[aspergillus-niger-in-fungal-bioleaching]] ternary systems displays adsorption in the order
 lead > copper > cadmium. Lead adsorption is more sensitive to the
 presence of copper than cadmium.
 
@@ -87,43 +87,4 @@ presence of copper than cadmium.
 
 The presence of co-cations in binary and ternary systems reduces
 biosorption efficiency. In ternary systems, uptake capacity of
-Saccharomyces cerevisiae and Penicillium chrysogenum is halved compared
-to single-metal ion sorption. Specific observations:
-
-- Streptoverticillium cinnamoneum shows higher adsorptive capacity than
-  P. chrysogenum for all metals tested
-- Lead is preferred in multimetal solutions by both biomass types
-- Binary systems containing zinc show mutual inhibition
-- Sorption order for S. cinnamoneum: Pb(II) > Zn(II) = Cu(II) > Cd(II)
-  > Ni(II) > Co(II)
-
-Candida utilis shows synergistic effects for Cr(VI) sorption when combined
-with Pb(II) or Cu(II) ions, demonstrating that metal interactions are
-not uniformly antagonistic and that beneficial combinations can be
-identified for specific treatment objectives.
-
-## Mathematical Modeling
-
-Several mathematical models have been applied to describe multimetal
-biosorption systems:
-- Competitive Langmuir model fits Cr(VI) and Fe(III) equilibrium data
-- Empirical Freundlich isotherms describe column equilibrium for binary
-  metal mixtures
-- Mass-balance models for liquid and solid phases predict performance
-  in semibatch and continuous-flow reactors
-- Forward and backward rate constants from single-metal biosorption are
-  used to model binary adsorption behavior
-
-## Reactor Design Considerations
-
-Continuous-flow stirred-tank reactors (CFSTs) can handle large
-concentrations of multimetal solutions with greater biosorption yields
-and are applicable for continuous treatment of large wastewater volumes.
-Immobilized Mucor rouxii in polysulfone matrix achieves nearly 50%
-removal of cadmium, nickel, and zinc using 0.05 N HNO3 for elution.
-
-## See Also
-
-- [[singh-fungal-biosorption-isotherms-equilibrium-models]]
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[fungal-binary-ternary-biosorption]]
+[[saccharomyces-cerevisiae]] and [[penicillium-chrysogenum]] is halved compared

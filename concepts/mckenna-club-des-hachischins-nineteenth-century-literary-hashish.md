@@ -1,5 +1,5 @@
 ---
-title: Club des Hachischins and Nineteenth-Century Literary Hashish
+title: Mckenna Club Des Hachischins Nineteenth Century Literary Hashish
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
@@ -88,54 +88,3 @@ The legal atmosphere was strikingly permissive: "Opium and hashish were not
 [[controlled-substances-act-and-psychedelic-research]], and no opprobrium was attached to their use." Tobacco
 and coffee had become indispensable to [[fukuoka-european-civilization-standstill]], so the
 "extravagant tales of travelers concerning narcotic raptures" naturally
-promoted cannabis experimentation. This openness contrasted sharply with the
-prohibitionist regime that would later suppress the same explorations.
-
-## Marco Polo and the Hashishin Legend
-
-The European fascination with hashish had deep historical roots. McKenna traced
-it to Marco Polo, whose account of the "Old Man of the Mountain" -- Ibn el
-Sabah, leader of the cult of the hashishin -- "did so much to enrich and
-catalyze the European imagination." According to legend, initiates were given
-large doses of hashish and introduced into an "artificial paradise" of exotic
-gardens, fountains, and women. Return was promised only after carrying out
-political assassinations. "Hashishin" and "assassin" are thought to be
-etymologically related, and while "the truth of this old story is widely
-disputed," its circulation "gave cannabis its blackened reputation and its
-fascination" -- qualities that made it irresistibly attractive to the
-Romantic imagination.
-
-## Napoleon's Egyptian Expedition
-
-The immediate catalyst for French hashish enthusiasm was Napoleon's 1798
-expedition to Egypt. Though militarily a failure, it was "a resounding success"
-as cultural cross-fertilization. Napoleon brought 175 scholars who "observed,
-sketched, and collected linguistic and cultural information," producing the
-twenty-four volumes of the *Description d'Égypte* (1809-1813), "a tremendous
-stimulus to the European imagination."
-
-French administrators "failed utterly" to control cannabis production in
-Egypt; when sales were banned, Greek smugglers established a lucrative
-[[neurotropic-fungi-underground-trade-legislation-guzman-1998]]. This collision of scholarly interest with actual hashish
-culture created conditions for the club's emergence. The
-[[mckenna-orientomania-and-european-discovery-of-hashish|Orientomania]]
-stimulated by Napoleon's scholars made hashish an intellectual fascination,
-while prohibition's practical failure demonstrated its cultural resilience.
-
-## Legacy: Partnership Values in the Dominator Era
-
-Despite its influence, "interest in hashish never traveled much beyond the
-Parisian circles in which Moreau himself moved." Hashish eating "never became a
-European craze in the nineteenth century." Yet the club's legacy endured
-through its literary productions and its example of serious, exploratory
-engagement with psychoactive experience.
-
-For McKenna, the club represented an early manifestation of the
-[[archaic-revival-partnership-vs-dominator-cultures|partnership values]] that
-cannabis promotes. The emphasis on beauty, visionary experience, and
-questioning of conventional reality ran counter to [[dominator-culture-and-partnership-society]]'s
-"nuts-and-bolts mentality." Their meetings were "private explorations by
-successful and respected literary figures" -- not social outcasts but cultural
-leaders expanding the boundaries of consciousness. In this, they prefigured
-the [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition|American hashish literary tradition]] of Fitz Hugh Ludlow and the broader
-[[mckenna-archaic-revival|Archaic Revival]] that continues to unfold.

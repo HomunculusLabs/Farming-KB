@@ -1,5 +1,5 @@
 ---
-title: Forest Litter Fungi and Mycorrhizal Considerations in Compost Tea
+title: Aact Forest Litter Fungi Mycorrhizal Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_author: Elaine R. Ingham, Ph.D.
 type: concept
@@ -48,12 +48,12 @@ The tea serves as a carrier for even distribution, but the spores should not be 
 
 ### Why Mycorrhizal Fungi Are Different
 
-Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form symbiotic relationships with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation compost tea brewing environment.
+Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[compost-tea-brewing-equipment-ingham]] environment.
 
 ### Research Resources
 
 Ingham references several key researchers in mycorrhizal science:
-- **Dr. Robert Lindeman** — pioneer in mycorrhizal research
+- **Dr. Robert Lindeman** — pioneer in [[isotopic-tracers-mycorrhizal-research]]
 - **Mike Allen and Edie Allen** at UC Riverside — authors of major works on vesicular-arbuscular mycorrhizal (VAM) fungi
 - These researchers have published extensively on VAM benefits to crops, vegetables, and annual plants
 
@@ -61,13 +61,13 @@ Ingham references several key researchers in mycorrhizal science:
 
 For mycorrhizal fungi to colonize effectively, soil conditions must support fungal growth:
 - Adequate oxygen (avoid anaerobic conditions)
-- Minimal disturbance (tillage damages mycorrhizal networks)
+- Minimal disturbance (tillage damages [[arbuscular-mycorrhizal-networks]])
 - Appropriate fungal-to-bacterial ratio in the soil food web
 - Plant roots producing suitable exudates to signal fungal colonization
 
 ### Ectomycorrhizal Considerations
 
-Ectomycorrhizal fungi are particularly important for conifer and hardwood forest trees. Ingham references research on ectomycorrhizal fungi for conifers, noting that different plant families associate with different mycorrhizal types. Understanding the target plant's mycorrhizal associations is essential for effective inoculation.
+Ectomycorrhizal fungi are particularly important for conifer and hardwood forest trees. Ingham references research on ectomycorrhizal fungi for conifers, noting that different plant families associate with different mycorrhizal types. Understanding the target plant's [[plants-without-mycorrhizal-associations]] is essential for effective inoculation.
 
 ## Actinobacteria (Actinomycetes) — A Double-Edged Sword
 
@@ -88,53 +88,3 @@ Ingham strongly cautions against adding actinobacteria to compost tea or compost
 2. **Petri plate vs. field reality** — Much of the research showing actinobacterial benefits was done on petri plates, which has limited transferability to field conditions. Many microbial interactions observed in laboratory settings never occur in real soil environments.
 
 3. **Soil food web disruption** — Adding actinobacteria can shift the soil microbial community away from the true bacteria and beneficial fungi that support healthy plant growth. This shift can prevent the soil from progressing toward a more complex, stable food web structure.
-
-### When to Consider Actinobacteria
-
-The limited scenario where actinobacteria addition might be appropriate:
-- Growing plants that do not require mycorrhizal fungi
-- Trying to maintain soil in a specific food web state that hasn't yet progressed to mycorrhizal dominance
-- Dealing with specific disease pressure where actinobacterial suppression has been field-validated
-
-### Streptomyces Specific Guidance
-
-Ingham explicitly states: "Don't add any actinomycetes, or more properly, actinobacteria to your tea, or compost. They are really bad news on mycorrhizal fungi. You need to get the beneficial fungi in the compost and tea. Streptomyces do not build soil." This strong guidance reflects the priority placed on mycorrhizal health over potential actinobacterial disease suppression.
-
-## Practical Inoculation Strategies
-
-### Forest Floor Collection Protocol
-
-1. Identify healthy forest areas with diverse tree species
-2. Collect material from the O horizon (top organic layer)
-3. Look for visible fungal mycelium — white strands in the litter
-4. Transport in breathable containers (paper bags, not sealed plastic)
-5. Incorporate into compost or apply directly to soil surface
-6. Maintain moisture to support fungal establishment
-
-### Combining Inoculum Sources
-
-The recommended approach maximizes diversity:
-- **Local forest litter** — provides locally-adapted fungal species
-- **Alaska humus** — provides high fungal biomass and diverse species
-- **Quality compost** — provides bacterial diversity and protozoa
-- **Worm castings** — adds additional microbial diversity
-
-### Time vs. Money Tradeoff
-
-Ingham frames the choice between purchasing commercial inoculants and collecting local material as a time-versus-money decision. Local collection is slower but costs nothing. Commercial products like Alaska humus provide faster results at a financial cost. Using both approaches simultaneously achieves the fastest path to a diverse, functional soil food web.
-
-## Key Takeaways
-
-1. Leave plant debris on soil surfaces to promote fungal growth; mixing it in favors bacteria
-2. Never add mycorrhizal spores to compost tea during brewing — they are too delicate
-3. Avoid actinobacteria in compost tea; they suppress mycorrhizal fungi
-4. Maximize fungal diversity by combining local forest material with commercial fungal inoculants
-5. Match your inoculation strategy to your target plants' mycorrhizal requirements
-
-## See Also
-
-- [[aact-trichoderma-biocontrol-ingham]] — Saprophytic biocontrol fungi for AACT
-- [[aact-fungal-dominant-tea]] — Brewing fungal-dominated compost tea
-- [[aact-compost-quality-standards-ingham]] — Organism requirements for compost
-- [[arbuscular-mycorrhizal-fungi]] — AMF biology and plant symbiosis
-- [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]] — Mycorrhizae in cannabis systems

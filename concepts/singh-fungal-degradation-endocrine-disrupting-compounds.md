@@ -1,5 +1,5 @@
 ---
-title: singh fungal degradation endocrine disrupting compounds of Endocrine Disrupting Compounds
+title: Singh Fungal Degradation Endocrine Disrupting Compounds
 created: 2026-04-26
 tags:
   - endocrine-disruptors
@@ -21,14 +21,14 @@ interfere with the hormonal systems of organisms. Polychlorinated
 biphenyls (PCBs) are among the most widespread and recalcitrant EDCs,
 known to disrupt the endocrine system and persist in the environment for
 several decades. Their toxicity, bioaccumulation potential, and role in
-endocrine disruption are well documented. Fungal enzymes, particularly
+endocrine disruption are well documented. [[fungal-enzymes-in-decomposition]], particularly
 laccases and peroxidases, offer promising pathways for the degradation
 and detoxification of these compounds.
 
 ## Bisphenol A Degradation by Fungal Peroxidases
 
 Bisphenol A (BPA) is a widely used industrial chemical with known
-estrogenic activity. [[fungal-manganese-peroxidase-remediation]] (MnP) of Pleurotus ostreatus
+estrogenic activity. [[fungal-manganese-peroxidase-remediation]] (MnP) of [[cancer-medicinal-mushrooms-pleurotus-ostreatus]]
 generates four metabolites from BPA through one-electron oxidation
 reactions. A pathway of BPA metabolism by MnP of P. ostreatus has been
 proposed that is quite different from bacterial pathways.
@@ -47,7 +47,7 @@ been demonstrated using oxidative enzymes from lignin-degrading
 basidiomycetes. Purified laccase from Trametes villosa effectively
 degrades BPA, and the treatment eliminates the estrogenic activity
 associated with the parent compound. The fungal oxidative enzymes
-responsible include laccase, manganese peroxidase, and [[fungal-lignin-peroxidase-veratryl-alcohol]].
+responsible include laccase, [[manganese-peroxidase-mechanism]], and [[fungal-lignin-peroxidase-veratryl-alcohol]].
 
 The extent of estrogenic activity removal depends on the degree of
 polymerization and the molecular characteristics of the resulting
@@ -61,7 +61,7 @@ estrogenic activity elimination.
 
 PCBs are among the most widespread persistent organic pollutants. These
 compounds are difficult to degrade, are not easily metabolized, and tend
-to bioaccumulate in fatty tissue occupying higher trophic levels. Several
+to bioaccumulate in fatty tissue occupying higher [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]. Several
 factors are responsible for PCB bioaccumulation, including environmental
 concentration, duration of exposure, contaminant solubility, species age
 and weight, feeding habits and lipid level, and variations in trophic
@@ -81,55 +81,10 @@ constituents in the presence of microorganisms and plants in soils,
 sediments, and water. Based on the persistence of PCBs in nature, seven
 hypothesized mechanisms influence bioremediation through bioavailability:
 
-1. **Sorption**: Binding to soil organic matter reduces availability
+1. **Sorption**: Binding to [[knf-leaf-mold-humus]] reduces availability
 2. **Non-aqueous-phase liquid (NAPL) partitioning**: Compounds
    partition into separate liquid phases
 3. **Micropores and nanopores**: Physical entrapment in small pores
 4. **Organic complexation**: Formation of complexes with organic matter
 5. **Insolubility**: Limited aqueous solubility restricts bioaccessibility
 6. **Absorption into native organic matter**: Integration into soil
-   organic matrices
-7. **Diffusion limitations**: Slow diffusion through soil aggregates
-
-Soil or sediment chemistry has a significant impact on sorption and PCB
-bioavailability. Knowledge of physicochemical parameters including
-diffusion coefficients, hydrodynamics, sorption coefficients, and matrix
-structure can be gained to predict bioavailability. The use of pollutant
-carriers such as surfactants or organic cosolvents can enhance the
-solubility and bioavailability of PCBs for fungal degradation.
-
-## Alternative Remediation Technologies
-
-Various technologies are available for PCB remediation in different media:
-
-- **Incineration**: Applicable to soil and liquid media
-- **In situ vitrification**: Applied to soil contamination
-- **Chemical dehalogenation**: Including alkali metal polyethylene glycolate
-  and base-catalyzed dechlorination for soil and liquid media
-- **Fenton's reagent**: Chemical oxidation using iron ions and hydrogen
-  peroxide for aqueous solutions
-- **Solvent extraction**: For soil contamination
-- **Photochemical treatment**: For liquid-phase PCBs
-- **Bioremediation**: Both [[query-what-is-the-difference-between-aerobic-and-anaerobic-composting]], applicable to soil,
-  sediments, and aqueous media
-- **Phytoremediation**: For soil contamination
-- **Enzyme treatment**: Including horseradish peroxidase with hydrogen
-  peroxide for aqueous solutions
-
-## Future Perspectives
-
-The fungal enzymatic approach to EDC degradation shows considerable
-promise. Laccase-mediator systems and peroxidase-catalyzed oxidation
-offer efficient routes for converting estrogenic compounds into
-nonestrogenic products. The development of robust fungal bioreactor
-systems and the optimization of [[ligninolytic-enzyme-production-bioremediation]] will be important for
-practical application of these technologies at contaminated sites.
-
-## See Also
-
-- [[singh-laccase-mediated-biodegradation-pahs-dyes]]
-- [[singh-peroxidase-pah-degradation]]
-- singh-fungal-metabolism-phenols-chlorophenols
-- [[singh-fungal-degradation-of-chlorinated-compounds]]
-- [[pleurotus-ostreatus]]
-- [[phanerochaete-chrysosporium]]

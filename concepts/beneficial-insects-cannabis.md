@@ -2,7 +2,8 @@
 title: comparison-beneficial-insects-guide-vs-integrated-pest-management - query-how-to-use-neem-oil-for-cannabis-pest-control Control
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

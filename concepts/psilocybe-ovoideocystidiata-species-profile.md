@@ -1,5 +1,5 @@
 ---
-title: Psilocybe ovoideocystidiata Species Profile
+title: Psilocybe Ovoideocystidiata Species Profile
 created: 2026-04-28
 tags: [psilocybe, ovoideocystidiata, species-profile, woodlovers]
 date: 2026-04-25
@@ -48,13 +48,13 @@ prominently blue to blue-green where injured.
 **Gills (Lamellae):** Adnate to adnexed, subdistant to close, with
 one to two tiers of intermediate gills (lamellulae). Grayish when
 young, developing purplish brown tones, eventually becoming dark
-chocolate brown with spore maturity. Gill edges remain whitish to
+chocolate brown with [[spore]] maturity. Gill edges remain whitish to
 pallid even at maturity.
 
 **Stem (Stipe):** 30-90 mm long by 2-5 mm thick. Equal to slightly
 enlarged at the base. Surface is whitish, developing brownish tones
 with age, often covered with fine silky fibrils. The stem bruises
-bluish, sometimes intensely so, when handled. Partial veil is
+bluish, sometimes intensely so, when handled. [[partial-veil-tropism-protection-before-spore-release]] is
 cortinate, leaving a fragile annular zone that may persist as
 fibrillose patches or disappear entirely. Flesh is firm, stuffed with
 pith when young, becoming hollow with age. Base may develop white
@@ -87,56 +87,3 @@ less abundant. Ventricose-rostrate with swollen apices, dimensions
 12-35 by 9-15 micrometers.
 
 ## Habitat and Distribution
-
-Psilocybe ovoideocystidiata is a wood-inhabiting species found
-primarily on decaying hardwood debris. It colonizes wood chips, mulch,
-sawdust, and fallen branches of deciduous trees. Preferred substrates
-include the debris of alder, birch, beech, maple, oak, and other
-hardwoods. It shows a strong preference for riparian habitats --
-stream banks, floodplains, and ravine bottoms where [[fungal-succession-woody-debris-ecology]]
-accumulates in moist conditions.
-
-Geographic distribution centers on the eastern United States, with
-confirmed collections from Ohio, Pennsylvania, Maryland, West Virginia,
-Virginia, and surrounding states. It likely occurs more widely
-throughout the Mid-Atlantic and northeastern regions wherever suitable
-hardwood debris is present in moist environments.
-
-## Seasonality
-
-Fruiting occurs primarily in spring (April through June) and again
-in autumn (October through November), though in favorable years it may
-fruit nearly continuously during cool, wet periods. Spring fruiting
-often follows heavy rainfall that saturates wood chip beds and
-riparian debris. The species is relatively cold-tolerant, sometimes
-fruiting when temperatures range from 45-65 degrees F.
-
-## Potency
-
-Psilocybe ovoideocystidiata is considered moderately to highly
-active based on its strong [[field-guide-psilocybin-bluing-reaction-identification]] and reported effects.
-While comprehensive published analyses are limited, the intensity of
-the bluing reaction and user reports suggest psilocybin and psilocin
-levels comparable to P. cyanescens. The flesh is notably more bitter
-than many Psilocybe species, which some observers correlate with
-higher alkaloid content.
-
-## Cultivation Notes
-
-As a woodlover, P. ovoideocystidiata can be cultivated on sterilized
-hardwood sawdust or wood chip substrates supplemented with grain.
-Outdoor beds using fresh hardwood chips in shaded, moist locations
-have proven successful for many cultivators. Initiation requires
-sustained cool temperatures and high humidity, similar to other
-wood-inhabiting Psilocybe species.
-
-## Related
-
-- [[psychedelic-mushroom-set-and-setting]]
-- woodlovers cultivation
-- riparian bigwood-beug-psilocybin-psilocin-variation-analysis
-- lignicolous-psilocybe-species
-- hardwood [[bloomfield-wood-decay-fungi-spalted-timber]]
-- [[psilocybe-ovoideocystidiata]]
-- [[psilocybin-mushrooms]]
-- [[wood-decay-fungi]]

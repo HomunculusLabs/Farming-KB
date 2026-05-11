@@ -1,5 +1,5 @@
 ---
-title: turner essential psychedelics ketamine anaesthetic realm Realm - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
+title: [[turner-essential-psychedelics-5-meo-dmt-void-experience]] [[ketamine]] Anaesthetic Realm
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -18,7 +18,7 @@ of his experienced acquaintances.
 ## Nature and Clinical Background
 
 Ketamine (marketed as Ketalar by Parke Davis) is a general anesthetic
-considered "gentle" enough for children and elderly patients. Its psychedelic
+considered "gentle" enough for children and [[cannabis-elderly-patients]]. Its psychedelic
 properties were discovered after recipients reported "reemergence" experiences
 while coming out of anesthesia. A dose much smaller than the anesthetic dose
 produces an experience of incredible intensity. Turner notes that psychedelic
@@ -27,7 +27,7 @@ consecutive months without significant difficulties.
 
 ## Dosage and Administration
 
-The standard psychedelic dose is approximately 100 mg intramuscularly. Turner
+The standard [[psychedelic-dose-response]] is approximately 100 mg intramuscularly. Turner
 describes a spectrum:
 - 10-20 mg: non-psychedelic dissociative altered state
 - 50 mg: semi-conscious halfway zone
@@ -87,37 +87,3 @@ brilliant white light filled with love, bliss, and energy -- the Clear Light
 experience.
 
 ## Psychological Addiction Risk
-
-Turner identifies ketamine's very high potential for psychological addiction as
-a major concern. A fairly large percentage of those who try it will consume it
-non-stop until their supply is exhausted. After about two years of once-per-week
-use, Turner himself developed an addiction requiring considerable effort to
-break. He notes seeing very few among his acquaintances who can use ketamine in
-a balanced manner if they have access to it.
-
-The tryptamine drugs psilocybin and N,N-DMT proved to be the intervention that
-broke his ketamine addiction, providing insights into its negative effects:
-reduction in ambition, reduction in healthy mortal fears, and reluctance to
-confront fears or difficult tasks directly.
-
-## Energy Considerations
-
-Turner notes that much of the life energy (Chi or Kundalini) departs the body
-during the ketamine journey, normally returning with awareness. With
-indiscriminate use he returned to find his body drained of this force. It is not
-uncommon to feel slightly drained or lackadaisical after a ketamine trip.
-
-## Related Concepts
-
-- dissociative anaesthetic
-- [[psilocybin-ego-dissolution-mechanisms]]
-- clear light
-- hyperspace
-- k-hole
-- psychological addiction
-- ketamine consciousness
-- chi energy
-- [[psychedelic-research-legal-history-united-states]]
-- [[harner-shamanic-journey-and-altered-states]]
-- [[controlled-substances-act-and-psychedelic-research]]
-- [[psychedelic-experience-preparation]]

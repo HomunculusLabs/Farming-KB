@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-Passiflora foetida is a species of flowering vine in the family Passifloraceae, commonly known as the wild maracuja, stinking passionflower, or love-in-a-mist. It is native to tropical and subtropical regions of the Americas and has become naturalized across Africa, Asia, and the Pacific islands.
+Passiflora foetida is a species of flowering vine in the family Passifloraceae, commonly known as the wild maracuja, stinking passionflower, or love-in-a-mist. It is native to tropical and subtropical regions of the Americas and has become naturalized across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species is notable for its deeply dissected bracts that form a lace-like cage around the fruit, its edible but small passionfruit, and its status as an invasive weed in many tropical agricultural systems. The epithet "foetida" refers to the strong, often unpleasant odor emitted by crushed foliage.
 
-Passiflora foetida is closely related to the commercially cultivated passionfruit species and shares many of the same pharmacologically active compounds, particularly flavonoids and harmala alkaloids. It has attracted increasing research interest for its bioactive secondary metabolites and potential pharmaceutical applications.
+Passiflora foetida is closely related to the commercially cultivated passionfruit species and shares many of the same pharmacologically active compounds, particularly flavonoids and [[harmala-alkaloids]]. It has attracted increasing research interest for its bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]] and potential pharmaceutical applications.
 
 ## Taxonomy and Morphology
 
@@ -47,7 +47,7 @@ The seeds are flattened and surrounded by an arillate pulp that attracts frugivo
 
 ## Distribution and Habitat
 
-Passiflora foetida is native to the Caribbean, Central America, and northern South America. Its native range extends from southern Florida and Mexico through the West Indies to Brazil, Bolivia, and Paraguay.
+Passiflora foetida is native to the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and northern South America. Its native range extends from southern Florida and Mexico through the West Indies to Brazil, Bolivia, and Paraguay.
 
 The species has been widely introduced and naturalized throughout the tropics. It is now established in tropical Africa, South and Southeast Asia (including India, Sri Lanka, Thailand, Vietnam, and the Philippines), northern Australia, and many Pacific islands including Hawaii and Fiji.
 
@@ -69,7 +69,7 @@ The leaves are occasionally used as a vegetable in parts of Southeast Asia, thou
 
 In Brazilian folk medicine, the roots are used as a purgative and vermifuge. In Mexico, a tea made from the aerial parts is traditionally consumed as a calming beverage, similar to the use of [[passiflora-incarnata]] in North American herbalism.
 
-The plant has also been used externally as a poultice for skin inflammations and wounds in several South American indigenous communities. The glandular trichomes on the leaf surface may contribute to its topical antimicrobial properties.
+The plant has also been used externally as a poultice for skin inflammations and wounds in several South American indigenous communities. The glandular trichomes on the leaf surface may contribute to its topical [[medicinal-mushroom-antimicrobial-properties]].
 
 Despite its limited commercial value, the species has been investigated as a potential source of pharmaceutical compounds. Its ability to grow rapidly on nutrient-poor soils and its pest resistance make it an interesting candidate for agrochemical research.
 
@@ -85,35 +85,6 @@ Phenolic compounds including gallic acid, caffeic acid, and chlorogenic acid hav
 
 Pharmacological studies have demonstrated anxiolytic, sedative, and anti-inflammatory activities in animal models using extracts of the aerial parts. A 2004 study in the Indian Journal of Pharmacology confirmed significant anti-anxiety activity comparable to diazepam in rodent models using a methanolic leaf extract.
 
-Additional studies have reported antibacterial activity against Gram-positive bacteria, including Staphylococcus aureus and Bacillus subtilis. The anti-inflammatory effects have been attributed primarily to the flavonoid fraction, with luteolin and apigenin identified as the most active constituents.
+Additional studies have reported antibacterial activity against Gram-positive bacteria, including Staphylococcus aureus and [[bacillus-subtilis]]. The anti-inflammatory effects have been attributed primarily to the flavonoid fraction, with luteolin and apigenin identified as the most active constituents.
 
 ## Ecology
-
-Passiflora foetida is a fast-growing, scrambling vine that can form dense mats over shrubs, small trees, and ground vegetation. In disturbed habitats, it can act as a pioneer species, rapidly colonizing open areas and contributing to early-successional plant communities.
-
-The species is pollinated primarily by bees, particularly small native bees and honeybees, which are attracted to the nectar produced by the floral nectaries. The unusual bract cage surrounding the fruit is believed to provide some protection against fruit predation by birds and insects.
-
-Several lepidopteran species use Passiflora foetida as a larval host plant, most notably Heliconius butterflies in the neotropics. The relationship between Passiflora species and Heliconiinae is one of the best-studied plant-insect coevolutionary systems.
-
-The distinctive bract cage has been shown to reduce predation of developing fruits by generalist herbivores in experimental studies. This morphological adaptation is particularly effective against orthopteran and coleopteran insects that feed on immature fruits.
-
-In many parts of its introduced range, Passiflora foetida is considered an invasive or weedy species. It can smother crop plants and reduce yields in agricultural settings. In Australia, it is classified as a weed of national significance due to its impacts on pastures and natural ecosystems.
-
-Seed dispersal is facilitated by birds and mammals that consume the fruit, as well as by water transport along waterways. The seeds have a hard seed coat and can remain viable in the soil seed bank for extended periods, contributing to persistent weed populations.
-
-Passiflora foetida can reproduce both sexually through seed production and vegetatively through stem fragmentation. A single plant can produce hundreds of fruits per growing season, each containing 20 to 50 seeds. This high reproductive output contributes significantly to its invasive potential.
-
-The glandular trichomes on leaves and stems serve as a physical and chemical defense against herbivores. The sticky exudate can trap small insects, leading some researchers to suggest a proto-carnivorous function analogous to that seen in certain plant species with glandular leaf surfaces.
-
-## See Also
-
-- [[passiflora-edulis]]
-- [[passiflora-incarnata]]
-- [[passiflora-caerulea]]
-- [[passiflora-quadrangularis]]
-- [[apigenin]]
-- [[luteolin]]
-- [[quercetin]]
-- [[kaempferol]]
-- [[harmine]]
-- [[tryptamine]]

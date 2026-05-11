@@ -88,23 +88,3 @@ The herb is commonly combined with *Lonicera japonica* (Jin Yin Hua) in Chinese 
 ## Horticultural Uses
 
 Forsythia suspensa is primarily valued in ornamental horticulture for its early spring floral display. The weeping form is particularly effective on banks, walls, and slopes where the arching stems can cascade naturally.
-
-The species is widely used in public landscapes, highway plantings, and residential gardens across USDA hardiness zones 4–8. Its tolerance of urban conditions, including air pollution and compacted soils, makes it a reliable landscape subject.
-
-Important cultivars include 'Atrocaulis' (with darker stems), 'Fortunei' (compact form), and the hybrid F. × intermedia cultivars that dominate the nursery trade. F. × intermedia combines the weeping habit of F. suspensa with the upright habit of F. viridissima.
-
-Cut branches of F. suspensa are forced indoors for early spring color. Stems harvested in late winter and placed in warm water will flower within 2–3 weeks, providing a popular ornamental feature for late winter interiors.
-
-## See Also
-
-- [[jasminum-officinale]]
-- [[wisteria-sinensis]]
-- [[campsis-radicans]]
-- [[botrytis-cinerea]]
-- [[coffea-arabica]]
-- [[citrus-sinensis]]
-- [[ceratocystis-fimbriata]]
-- [[corylus-avellana]]
-- [[persea-americana]]
-- [[morus-nigra]]
-- [[prunus-dulcis]]

@@ -1,5 +1,5 @@
 ---
-title: Sequestrate copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution and Geographic Distribution
+title: Sequestrate Fungi Taxonomy Geographic Distribution
 created: 2026-04-26
 tags:
   - sequestrate-fungi
@@ -16,7 +16,7 @@ type: concept
 
 # Sequestrate Fungi Taxonomy and Geographic Distribution
 
-The taxonomy and distribution of sequestrate fungi (truffles and
+The [[guzman-allen-gartz-panaeoloid-fungi-taxonomy-and-distribution]] of sequestrate fungi (truffles and
 their relatives) remain among the most poorly resolved areas of
 fungal systematics. About 150 genera and 1200 valid species have
 been described across 38 families in the Ascomycetes,
@@ -27,7 +27,7 @@ animal dispersal relationships.
 
 ## Taxonomic Synopsis
 
-Sequestrate fungi occur in three major groups:
+[[sequestrate-fungi]] occur in three major groups:
 
 **Zygomycota**: Endogonales (Endogone), Glomales (Glomus,
 Sclerocystis), and Mucorales (Modicella)
@@ -52,13 +52,13 @@ from field collections.
 Species richness is generally greatest at subtropical to middle
 latitudes in ectomycorrhizal forests. In the Northern Hemisphere,
 richness declines northward into the boreal forest. Southern
-Hemisphere forests in South America and New Zealand are not well
+Hemisphere forests in [[guzman-psilocybin-mushrooms-south-america]] and New Zealand are not well
 enough explored for similar conclusions.
 
 Sequestrate species richness appears greater in [[psilocybin-north-america-pacific-northwest]]
 and Australia than in Europe, paralleling patterns for
 ectomycorrhizal hosts. The predominance of north-south oriented
-mountain ranges in North America and Australia permitted fungal
+mountain ranges in [[guzman-psilocybin-mushrooms-north-america]] and Australia permitted fungal
 and host-species migrations during Ice Ages. In Europe, the
 predominantly east-west orientation of mountain ranges impeded
 such migrations, a factor of particular importance to fungi
@@ -88,55 +88,3 @@ botanists. Carlo Vittadini (1831, 1842) laid the foundations for
 modern generic concepts. His type specimens are housed at the
 Botanical Institute of the University of Torino. Major collections
 also exist at the Cryptogamic Museum of Paris, Royal Botanic
-Gardens Kew, the Farlow Herbarium at Harvard, and the U.S.
-National Fungus Collections in Beltsville, Maryland.
-
-Unfortunately, African and west Asian types and collections of
-desert truffles have been lost. Many mycological herbaria hold
-only a few sequestrate specimens despite their ecological
-importance.
-
-## Culturing Challenges
-
-Some sequestrate fungi (e.g., Rhizopogon species) grow reasonably
-well in culture, but most grow poorly or not at all on standard
-media. This is particularly true of Ascomycetes, Zygomycetes, and
-Basidiomycetes in the Russulaceae and Cortinariaceae. Only two
-culture collections include several to many taxa: the U.S. Forest
-Service Pacific Northwest Research Station and CSIRO Division of
-Forestry in Australia.
-
-Identity of cultures not represented by voucher specimens in
-herbaria should be regarded as questionable, because
-misidentification is common due to lack of good keys for most taxa.
-
-## Functional Roles
-
-Mycorrhizal or saprobic habits of epigeous relatives generally
-carry over into sequestrate forms. Hysterangium and Gautieria
-species form dense [[singh-mycelial-mats-and-biological-soil-crusts]] with specific biogeochemical
-properties. Rhizopogon species induce prolific branching of host
-rootlets through auxin production. Tuber melanosporum produces
-herbicidal compounds that reduce weed competition.
-
-No sequestrate fungi are known to be toxic, reflecting their
-dependence on mycophagy for spore dispersal. The genus
-Cortinarius contains both edible and toxic species; its
-sequestrate relatives Thaxterogaster and Protoglossum are
-hypothesized to be related to the edible Cortinarius species.
-
-## Fruiting and Detection
-
-Fruiting varies by season and area but generally mirrors that
-of epigeous relatives. At low elevations in the Pacific Northwest,
-sequestrate Ascomycetes are more abundant in spring and
-Basidiomycetes in autumn. Holes left by foraging animals can
-indicate colony locations, as these fungi commonly produce
-multiple sporocarps maturing at different times. Raking near
-animal digs often reveals additional specimens.
-
-## See Also
-
-- [[sequestrate-fungi-evolution-mushroom-to-truffle]]
-- [[pezizales-discomycete-ascomycete-diversity]]
-- [[fungal-biogeography-distribution-patterns]]

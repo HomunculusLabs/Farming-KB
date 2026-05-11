@@ -1,5 +1,5 @@
 ---
-title: Phytochromes and Plant [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
+title: Phytochromes And Plant Light Perception
 source: What a Plant Knows ([[daniel-chamovitz]], 2012)
 type: concept
 tags: [botany, plant-physiology, phytochrome, photoreceptor, red-light, far-red-light]
@@ -88,47 +88,3 @@ Phytochrome controls an extraordinarily diverse array of plant processes:
   as described in the [[photoperiodism]] concept page.
 - **Circadian clock entrainment**: Phytochrome signals help synchronize the
   plant's internal circadian clock with the external light-dark cycle.
-
-## The Phytochrome Family
-
-In [[arabidopsis-thaliana]], the phytochrome family comprises five members
-(phyA through phyE), each with distinct but overlapping functions:
-
-- **phyA**: The primary photoreceptor for continuous far-red light and
-  mediating responses to very low light fluences. It is particularly
-  important during de-etiolation and is rapidly degraded in light.
-- **phyB**: The dominant phytochrome in light-grown plants. It mediates
-  shade avoidance, photoperiodic flowering, and red-light responses.
-  phyB is the most abundant phytochrome in mature tissues.
-- **phyC, phyD, phyE**: Play modulatory roles, often interacting with phyB
-  to fine-tune responses. phyE is particularly important in mediating
-  shade avoidance under dense canopy conditions.
-
-## Signaling Mechanisms
-
-Upon light absorption and conversion to the active Pfr form, phytochrome
-translocates from the cytoplasm to the nucleus, where it interacts with
-transcription factors called PIFs (Phytochrome-Interacting Factors). In
-darkness, PIFs accumulate and promote skotomorphogenic (dark-growth)
-development. Upon light exposure, activated phytochrome binds to PIFs and
-targets them for degradation, releasing the repression of light-responsive
-genes.
-
-This nuclear signaling pathway allows phytochrome to rapidly alter the
-expression of hundreds of genes, coordinating the massive physiological
-and developmental reprogramming associated with light exposure.
-
-## Evolutionary Significance
-
-Phytochrome-like proteins are found in bacteria, algae, and all land plants,
-indicating an ancient origin predating the colonization of land. The
-diversification of the phytochrome family in land plants is thought to have
-been driven by the increasing complexity of terrestrial light environments,
-where the filtering effects of vegetation canopy created new selective
-pressures favoring sophisticated light-quality sensing.
-
-## See Also
-
-- [[phototropism]]
-- [[photoperiodism]]
-- [[plant-memory]]

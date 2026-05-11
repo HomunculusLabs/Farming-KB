@@ -57,7 +57,7 @@ Doum palm is strongly associated with riparian habitats in arid and semi-arid re
 
 Beyond riverbanks, the species colonizes sandy plains, wadi beds, and seasonally flooded depressions. It is a common component of Acacia-Commiphora savanna and Sahelian woodland communities.
 
-Elevation ranges from near sea level along the Red Sea coast to approximately 1,500 meters in the Ethiopian highlands. It tolerates extreme heat, withstanding temperatures above 45 °C during the hottest months.
+Elevation ranges from near sea level along the Red Sea coast to approximately 1,500 meters in the Ethiopian highlands. It tolerates [[extreme-heat-preparedness]], withstanding temperatures above 45 °C during the hottest months.
 
 The palm is remarkably salt-tolerant and occurs in coastal areas where groundwater is brackish. This adaptability has allowed it to colonize coastal dune systems and mangrove margins.
 
@@ -65,7 +65,7 @@ The palm is remarkably salt-tolerant and occurs in coastal areas where groundwat
 
 The fruit of the doum palm is the most widely utilized product across its range. The sweet, gingerbread-flavored mesocarp is eaten fresh, dried, or ground into flour for bread and porridge.
 
-The hard-shelled fruit is a significant commercial product in Egypt and Sudan, where it is sold in markets throughout the year. Dried doum fruits are often infused as a hot beverage, valued for their perceived medicinal properties.
+The hard-shelled fruit is a significant commercial product in Egypt and Sudan, where it is sold in markets throughout the year. Dried doum fruits are often infused as a hot beverage, valued for their perceived [[panax-ginseng]].
 
 The kernel within the hard endocarp is rich in oil and protein. It is extracted by cracking the shell and is consumed raw, roasted, or pressed for cooking oil and soap production.
 
@@ -77,41 +77,14 @@ Trunk wood is hard, dense, and resistant to decay, making it valuable for constr
 
 ## Cultivation
 
-Doum palm cultivation has been practiced for millennia along the Nile Valley and across the Sahel. Traditional cultivation relies primarily on seed propagation, though vegetative methods have been developed more recently.
+Doum palm cultivation has been practiced for millennia along the Nile Valley and across the Sahel. Traditional cultivation relies primarily on [[green-cannabis-grow-bible-cloning-and-seed-propagation]], though vegetative methods have been developed more recently.
 
 Seeds germinate slowly and irregularly, often requiring 3 to 6 months under warm, moist conditions. Pretreatment by scarification or soaking in water for 48 hours can improve germination rates significantly.
 
-Established doum palms require minimal irrigation and are well suited to subsistence agricultural systems in arid regions. They begin producing fruit at approximately 7 to 10 years of age.
+Established doum palms require minimal irrigation and are well suited to subsistence agricultural systems [[fukuoka-natural-farming-in-arid-regions]]. They begin producing fruit at approximately 7 to 10 years of age.
 
-Commercial plantations are relatively rare, with most production coming from semi-wild managed groves. Interest in domestication has increased due to the palm's drought tolerance and nutritional products.
+Commercial plantations are relatively rare, with most production coming from semi-wild managed groves. Interest in domestication has increased due to the palm's [[dighton-fungal-drought-tolerance-plant-water-relations]] and nutritional products.
 
 In traditional medicine, various parts of the doum palm are used to treat respiratory ailments, digestive disorders, and fever. The root is used in some communities for treating snakebites and scorpion stings.
 
 ## Ecology and Conservation
-
-Hyphaene thebaica is a keystone species in many arid-zone ecosystems across Africa. The fruit provides critical food resources for a wide range of wildlife during dry seasons when other food is scarce.
-
-Elephants, baboons, and various antelope species are important dispersal agents for doum palm seeds. Elephants in particular consume large quantities of fruit and transport seeds over considerable distances.
-
-The palm provides nesting sites and shelter for birds, including weavers, hornbills, and raptors. The dense crown offers shade and microhabitat for numerous insect species and small reptiles.
-
-Doum palm groves along waterways help stabilize riverbanks and reduce erosion. The extensive root system binds alluvial soils and moderates the impact of seasonal flooding on riparian zones.
-
-Despite its wide distribution, local overexploitation for timber and fruit has reduced population densities in some areas. Urban expansion and conversion of riparian zones to agriculture have also impacted specific populations.
-
-The species is currently assessed as Least Concern by the IUCN due to its extensive range and stable overall population. However, regional declines, particularly in North Africa, have prompted conservation concerns in specific countries.
-
-Climate change poses a long-term threat to some populations through increased drought frequency and rising temperatures. The palm's deep root system provides some resilience, but prolonged droughts may exceed its tolerance in marginal habitats.
-
-## See Also
-
-- [[borassus-flabellifer]]
-- [[bismarckia-nobilis]]
-- [[phoenix-dactylifera]]
-- [[cocos-nucifera]]
-- [[nypa-fruticans]]
-- [[bactris-gasipaes]]
-- [[lodoicea-maldivica]]
-- [[phoenix-theophrasti]]
-- [[phoenix-sylvestris]]
-- [[copernicia-prunifera]]

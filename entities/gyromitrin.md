@@ -87,30 +87,3 @@ poisoning in several important respects:
    pain, diarrhea, and headache. These symptoms may be relatively mild compared to amatoxin
    poisoning and may even be absent entirely if the toxin exposure is primarily through
    inhalation.
-
-2. **Neurological phase (12 to 48 hours):** If significant systemic toxin absorption has
-   occurred, neurological symptoms develop, including dizziness, ataxia, nystagmus, muscle
-   weakness, tremor, hyperreflexia, and in severe cases, generalized seizures, status
-   epilepticus, coma, and death. The seizures are characteristically refractory to standard
-   anticonvulsant therapy.
-
-3. **Hepatic and hematological phase (2 to 6 days):** Hepatocellular necrosis may develop,
-   with elevated transaminases, jaundice, and in severe cases, acute liver failure. Hemolytic
-   anemia, methemoglobinemia (with chocolate-brown colored blood), and thrombocytopenia may
-   also occur due to oxidative damage to blood cells.
-
-Fatalities are rare with modern medical treatment but have been reported, particularly in
-cases involving large ingestions or inadequate cooking of the mushrooms.
-
-## Fatal Inhalation Poisoning
-
-A particularly insidious feature of gyromitrin toxicity is the risk of inhalation poisoning
-during cooking. The volatile gyromitrin released during heating of gyromitra esculenta
-can reach toxic concentrations in poorly ventilated kitchens, basements, or enclosed spaces.
-
-## See Also
-
-- [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]]
-
-- [[amanita-species-ecology-identification-mycohhizal]]
-- [[agaritine]]

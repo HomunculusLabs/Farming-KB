@@ -22,7 +22,7 @@ created: 2026-05-07
 
 4-PrO-DMT (4-propyloxy-N,N-dimethyltryptamine) is a synthetic psychedelic tryptamine and a member of the 4-substituted dimethyltryptamine family. It is an analogue of psilocin (4-HO-DMT) and 4-AcO-DMT, with the hydroxyl or acetyl group replaced by a propyloxy substituent at the 4-position of the indole ring.
 
-The compound was first synthesized and characterized by Alexander Shulgin, with preliminary pharmacological data reported in TiHKAL (Tryptamines I Have Known and Loved).
+The compound was first synthesized and characterized by [[alexander-shulgin]], with preliminary pharmacological data reported in TiHKAL (Tryptamines I Have Known and Loved).
 
 Like other 4-substituted DMTs, 4-PrO-DMT acts primarily as a serotonin 5-HT2A receptor agonist, producing subjective effects qualitatively similar to [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
 
@@ -52,11 +52,11 @@ Solubility is moderate in polar organic solvents (ethanol, DMSO) and limited in 
 
 Binding affinity at 5-HT2A is expected to fall within the range of other 4-alkoxy tryptamines (Ki in the low nanomolar to sub-micromolar range), based on structural analogy to 4-HO-DMT (Ki ≈ 6 nM) and 4-AcO-DMT.
 
-Activity at other serotonin receptor subtypes (5-HT1A, 5-HT2C, 5-HT5A, 5-HT7) is anticipated but not fully characterized in the published literature.
+Activity at other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes (5-HT1A, 5-HT2C, 5-HT5A, 5-HT7) is anticipated but not fully characterized in the published literature.
 
 The compound is hypothesized to function as a prodrug, with metabolic O-dealkylation cleaving the propyloxy group to yield 4-HO-DMT (psilocin) as the active metabolite.
 
-This metabolic pathway parallels the established conversion of 4-AcO-DMT to psilocin via deacetylation and of 4-PO-DMT to psilocin via O-dealkylation.
+This [[gluconeogenesis-biochemistry-metabolic-pathway]] parallels the established conversion of 4-AcO-DMT to psilocin via deacetylation and of 4-PO-DMT to psilocin via O-dealkylation.
 
 The propyl chain is longer than the methyl (4-MeO-DMT) and ethyl (4-EtO-DMT) homologues, which may affect metabolic stability and duration of action.
 
@@ -64,7 +64,7 @@ The propyl chain is longer than the methyl (4-MeO-DMT) and ethyl (4-EtO-DMT) hom
 
 Subjective effects reported anecdotally are consistent with the classical psychedelic profile shared across the 4-substituted tryptamine family.
 
-Effects include visual alterations (geometric patterns, color intensification, enhanced visual acuity), altered cognition (novel thought patterns, philosophical introspection), and emotional shifts.
+Effects include visual alterations (geometric patterns, color intensification, enhanced [[mckenna-roland-fischer-psilocybin-visual-acuity]]), altered cognition (novel thought patterns, philosophical introspection), and emotional shifts.
 
 The overall character is described as smoother and slightly less intense than psilocin at equivalent doses, with the propyl chain potentially moderating onset speed.
 
@@ -87,35 +87,3 @@ Strong doses of 35–50 mg are reported to produce intense experiences with sign
 **Peak** effects are reached at 1.5–2.5 hours.
 
 **Duration** of primary effects is 4–7 hours, with residual after-effects persisting an additional 1–3 hours.
-
-These figures are based on anecdotal self-report data from the research-chemical community and have not been confirmed in controlled clinical settings.
-
-## Legal Status
-
-4-PrO-DMT is unscheduled in most jurisdictions but is typically controlled under analogue drug provisions or unapproved-substance regulations.
-
-In the [[dmt-containing-plants-united-states-halpern]], the compound may fall under the Federal Analogue Act as a structural analogue of a Schedule I substance (DMT).
-
-In the United Kingdom, the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016 criminalizes the production, supply, and importation of psychoactive substances not specifically exempted.
-
-In many European countries, the compound is not individually scheduled but may be prosecuted under generic tryptamine control provisions.
-
-The compound has no recognized medical use and is not available through any legitimate pharmaceutical supply chain.
-
-## Related Compounds
-
-4-PrO-DMT belongs to the 4-alkoxy-DMT series, which includes 4-MeO-DMT, 4-EtO-DMT, 4-PO-DMT, 4-AcO-DMT, and 4-HO-DMT (psilocin).
-
-The series follows a consistent structure-activity relationship where the 4-position substituent modulates potency, duration, and metabolic conversion rate.
-
-Longer alkoxy chains generally increase metabolic stability and duration while potentially reducing raw 5-HT2A binding affinity.
-
-The compound is also structurally related to DMT itself and to endogenous trace amines including N,N-dimethyltryptamine and 5-methoxy-N,N-dimethyltryptamine.
-
-## See Also
-
-- [[dmt]]
-- [[4-acetoxy-dmt]]
-- [[muscimol-entity]]
-- [[5-meo-dmt-entity]]
-- ergoline

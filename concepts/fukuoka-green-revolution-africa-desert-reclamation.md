@@ -87,38 +87,3 @@ would hold the soil, shade the ground, capture rainfall, and create the
 microclimates that allowed other plants to grow. Once the natural vegetation was
 restored, food production would follow naturally as part of the restored ecosystem,
 without any need for external inputs or technological management.
-
-## Practical Challenges and Lessons
-
-Fukuoka Africa project faced significant practical challenges. The scale of
-degradation was enormous, far beyond what any single initiative could address.
-Political instability in several of the countries he visited made sustained
-agricultural work difficult. And the cultural shift required, from viewing land as a
-resource to be exploited to viewing it as a living system to be supported, was
-profound and could not be achieved overnight.
-
-Despite these challenges, Fukuoka identified several promising signs. In some areas
-where seed balls had been distributed, natural vegetation was beginning to re-
-establish. Local communities that participated in seed ball production gained a new
-understanding of their relationship with the land. And the simplicity of the seed
-ball technique meant that it could be implemented by anyone, anywhere, without
-expensive equipment or specialized training. The barriers to implementation were not
-technical but political, economic, and cultural.
-
-The lesson Fukuoka drew from his African experience was that the most effective
-revegetation strategy was also the simplest: protect the land from further
-degradation, introduce diverse seeds through seed balls, and allow nature to do the
-rest. Every human intervention beyond this, no matter how well-intentioned, risked
-disrupting the natural recovery processes that were already at work. The hardest
-part was not figuring out what to do but having the patience and humility to let
-nature do it.
-
-## See Also
-
-- [[fukuoka-natural-diet-movement-america-europe]]
-- [[fukuoka-lundberg-natural-rice-california]]
-- [[fukuoka-revelation-god-nature-nothingness-philosophy]]
-
-## Sources
-
-- Fukuoka, M. The Road Back to Nature. Chapters "Seeding a [[fukuoka-seeding-real-green-revolution]]" and "Reclaiming the Desert."

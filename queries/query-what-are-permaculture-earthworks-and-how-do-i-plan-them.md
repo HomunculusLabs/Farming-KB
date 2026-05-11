@@ -5,6 +5,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # What Are Permaculture Earthworks and How Do I Plan Them?

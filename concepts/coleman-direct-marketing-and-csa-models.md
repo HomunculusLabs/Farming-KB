@@ -16,9 +16,9 @@ type: concept
 
 # Direct Marketing and CSA Models
 
-Eliot Coleman's marketing philosophy centers on selling high-quality,
+[[eliot-coleman]]'s marketing philosophy centers on selling high-quality,
 locally grown produce through direct channels that allow the customer to
-recognize and value the difference. As organic certification became
+recognize and value the difference. As [[fukuoka-critique-organic-certification]] became
 industrialized and the word "organic" lost its distinctive meaning,
 Coleman shifted emphasis to the words "fresh" and "local" as the key
 marketing advantages for small [[fukuoka-lundberg-family-farms-natural-rice-transition]].
@@ -32,7 +32,7 @@ hours of harvest. Astute eaters who shop at roadside stands and farmers
 markets know the superiority of truly fresh vegetables and seek out local
 growers. The small-scale local grower produces a more finely crafted
 product through meticulous attention to soil care, superior compost, and
-variety selection than can the large-scale shipper.
+[[coleman-winter-greens-variety-selection]] than can the large-scale shipper.
 
 The [[coleman-claytonia-winter-harvest-cultivation]] offers an additional marketing advantage: highly
 colored foods grown under cool conditions have been shown to be much
@@ -41,7 +41,7 @@ superiority provides a compelling marketing story alongside freshness.
 
 ## Sales Channels
 
-Four Season Farm sells through multiple local channels: a farm stand,
+[[coleman-four-season-farm]] sells through multiple local channels: a farm stand,
 stores, and restaurants. Coleman notes that the farm stand attracts
 customers through its aesthetic appeal, with perennial flowerbeds
 enhancing the shopping experience. Restaurant customers love early baby
@@ -63,7 +63,7 @@ winter-harvest crops in October 1995, he calculated the wholesale price
 needed for a "fair" return. His price was $2 per pound higher than
 California organic salad mixes, but confidence in superior quality was
 justified when the local co-op's customers bought out his supply while
-the West Coast competition sat unsold.
+the [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] competition sat unsold.
 
 Coleman distinguishes two meanings of "fair" in food pricing:
 "affordable" and "equitable." The challenge is charging an equitable
@@ -88,36 +88,3 @@ and the community's food security.
 Distinctive packaging reinforces the fresh-and-local brand. Coleman's
 wooden delivery boxes with the "Seasonal Salads" brand catch the
 customer's eye in produce coolers and establish brand loyalty. The
-reusable box system also communicates environmental values. In one local
-store that had never carried this type of product before, quality alone
-created a market that expanded to eight times the initial quantities.
-
-## Customer Education
-
-Few customers, even those who prefer farm stands and farmers markets,
-understand seasonal realities. Part of Coleman's marketing effort involves
-educating customers about why local seasonal produce tastes better and is
-worth more. He has often suggested that spending an additional $10 per
-day on high-quality local fruits and vegetables would be wiser health
-insurance, and that it would increase the market enormously for local
-growers.
-
-## The Value of Consistent Supply
-
-Coleman emphasizes that being able to consistently supply customers every
-month of the year is a powerful marketing advantage. Customer interest,
-weekly income, and the farm's reputation all benefit from year-round
-availability. The winter harvest months, when most competitors have
-nothing to sell, are particularly valuable for building customer loyalty.
-Once customers experience the quality of winter-harvested vegetables,
-they become devoted advocates who "pester us on those occasions when our
-supply is unable to meet their demand" -- a problem most farmers would
-welcome.
-
-## Related Concepts
-
-- [[coleman-post-harvest-handling-and-storage]] — packaging and
-  presentation for market
-- [[coleman-four-season-farm]] — the farm as a business model
-- [[coleman-winter-harvest-philosophy]] — the vision behind winter
-  marketing

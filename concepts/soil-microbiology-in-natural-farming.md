@@ -1,22 +1,23 @@
 ---
-title: Soil soil microbiology in natural farming Farming
+title: Soil Microbiology In Natural Farming
 created: 2026-05-09
 tags: [farming, soil, microbiology, ecology, nitrogen-fixation]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - The Natural Way of Farming by Masanobu Fukuoka
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
+  - The Natural Way of Farming by [[masanobu-fukuoka-natural-farming-philosophy]]
 type: concept
 ---
 
 # Soil Microbiology in Natural Farming
 
-The health of the soil microbiological community is the foundation of [[masanobu-fukuoka]]'s [[fukuoka-natural-farming-philosophy|natural farming system]]. Rather than
+The health of the soil microbiological community is the foundation of [[masanobu-fukuoka]]'s [[fukuoka-natural-farming-philosophy]]. Rather than
 treating soil as an inert substrate to be amended with chemical inputs, Fukuoka
 understood soil as a living ecosystem whose biological activity, when left undisturbed,
 provides all the fertility that plants require. The role of soil microorganisms in his
 system encompasses [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], organic matter decomposition, soil structure
-maintenance, disease suppression, and nutrient cycling.
+maintenance, [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]], [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 ## Soil Bacteria and Nitrogen Fixation
 
@@ -24,7 +25,7 @@ Fukuoka reported finding approximately 100 million nitrogen-fixing bacteria per 
 of soil in his fields. This extraordinary population density—far exceeding what is
 typically found in conventionally managed agricultural soils—was made possible by the
 continuous presence of living plant roots (particularly from the white clover cover
-in his [[no-till-rice-barley-clover-succession|rice-barley-clover succession]]) and
+in his [[no-till-rice-barley-clover-succession]]) and
 the absence of tillage and chemical inputs that would destroy bacterial habitat.
 
 Nitrogen-fixing bacteria of the genera *Rhizobium* (associated with legume roots) and
@@ -33,7 +34,7 @@ free-living species such as *Azotobacter* and *Clostridium* convert atmospheric 
 permanent white clover cover provided a continuous host for rhizobial bacteria, while
 the undisturbed soil structure maintained the oxygen and moisture conditions that
 free-living nitrogen fixers require. The result was a self-sustaining nitrogen supply
-that eliminated any need for synthetic nitrogen fertilizer.
+that eliminated any need for synthetic [[jadam-natural-nitrogen-fertilizer]].
 
 ## Microorganisms and Small Animals as Nature's Tillers
 
@@ -49,7 +50,7 @@ reach.
 Fukuoka described watching the soil on his farm become progressively more porous and
 well-structured over time without any mechanical intervention. The continuous input of
 plant residues (rice and barley straw left on the surface) provided food for
-decomposer organisms, whose activity built soil organic matter and improved soil
+decomposer organisms, whose activity built [[knf-leaf-mold-humus]] and improved soil
 structure. Plant roots, penetrating and then dying back each season, created channels
 that persisted as macropores. The combined effect was a soil that was better aerated,
 better drained, and more moisture-retentive than any that could be produced by
@@ -87,57 +88,3 @@ physically tears apart fungal networks, buries surface organisms deep enough to 
 them, exposes others to lethal ultraviolet radiation and desiccation, and accelerates
 the oxidation of soil organic matter. A single pass with a moldboard plow can destroy
 years of accumulated soil biological development.
-
-Chemical fertilizers, while less immediately violent than plowing, are equally
-damaging in the long term. Soluble nitrogen fertilizers saturate the soil with
-ammonium and nitrate ions, creating conditions that favor rapid bacterial growth at
-the expense of fungi. This shift in the [[edaphic-factors-microbial-community-structure]] has cascading effects:
-[[dighton-mycorrhizal-networks-carbon-transfer]] decline, soil aggregates destabilize, organic matter
-decomposition accelerates, and the soil's capacity to retain nutrients diminishes.
-The farmer becomes dependent on ever-greater fertilizer inputs to compensate for the
-declining natural fertility.
-
-Pesticides compound the damage by killing not only target pests but also the
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]], earthworms, and microorganisms that maintain soil health and
-suppress pest populations naturally. The result is a degraded soil ecosystem that
-requires continuous and escalating human intervention to produce crops at all.
-
-## Natural Soil Fertility vs. Compost and Fertilizer Inputs
-
-Fukuoka distinguished sharply between natural soil fertility and the artificial
-fertility created by compost or fertilizer inputs. Natural fertility arises from a
-self-sustaining soil ecosystem in which biological processes—nitrogen fixation,
-[[mycorrhizal-mineral-weathering-nutrient-acquisition]], organic matter decomposition, mycorrhizal nutrient transport—
-provide plants with a balanced and continuous supply of nutrients. This fertility is
-stable, self-renewing, and increasingly productive over time as the soil ecosystem
-matures.
-
-Compost and fertilizer inputs, by contrast, create a dependency cycle. They provide
-nutrients in a form that plants can absorb immediately, but they do so by bypassing
-the soil's biological nutrient-cycling mechanisms. Over time, the soil's biological
-capacity atrophies from disuse, and the farmer must supply ever-larger quantities of
-external inputs to maintain yields. Fukuoka saw this as analogous to feeding a person
-vitamin pills while destroying their digestive system—the inputs replace natural
-function rather than supporting it.
-
-Fukuoka acknowledged that compost could be useful in degraded soils as a transitional
-measure, but he insisted that the goal should be to restore the soil's biological
-fertility so that compost becomes unnecessary. In his own fields, he applied no
-compost and no fertilizer of any kind, relying entirely on the soil's biological
-community—fed by returned crop residues and living plant roots—to maintain fertility.
-
-## Natural Balance Between Insects and Their Predators
-
-A healthy soil microbiological community supports a diverse above-ground ecosystem in
-which insects and their natural predators exist in balance. Fukuoka observed that
-pest outbreaks in his fields were rare and self-correcting: when aphid populations
-increased, ladybird beetle populations followed within days and suppressed them.
-When rice stem borer appeared, parasitic wasps and spiders increased in response.
-
-This natural pest regulation depends on the ecological diversity that a healthy soil
-supports. Conventional farming's chemical inputs—particularly broad-spectrum
-pesticides—destroy this diversity by killing both pests and their predators. The
-predator populations typically recover more slowly than the pests, creating windows
-of vulnerability that lead to further pesticide applications and further ecological
-degradation. Fukuoka's system, by maintaining soil health and the ecological diversity
-it supports, achieves pest control without any chemical intervention.

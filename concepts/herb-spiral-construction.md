@@ -9,7 +9,7 @@ sources: []
 
 # Herb Spiral Construction
 
-An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle. (see [[herb-spiral]]).
+An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle.
 
 ## The Concept
 
@@ -51,7 +51,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### Alternative Materials
 
-- **Concrete blocks:** Quick to build, durable. Fill cores with soil for planting. (see [[cold-frame-gardening]]).
+- **Concrete blocks:** Quick to build, durable. Fill cores with soil for planting.
 - **Bricks:** Good thermal mass, neat appearance. Can be dry-stacked or mortared.
 - **Timber:** Treated or naturally rot-resistant timber (cedar, redwood). Less thermal mass than stone.
 - **Earth bags:** Polypropylene bags filled with earth and stacked. Very low cost, excellent for earth-building enthusiasts.
@@ -97,7 +97,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### 5. Install a Water Feature (Optional)
 
-- Place a small pond or bowl at the base of the spiral for aesthetics and to attract beneficial insects and frogs
+- Place a small pond or bowl at the base of the spiral for aesthetics and to attract [[hamilton-beneficial-insects-and-biological-pest-control]] frogs
 - The moisture from the pond helps create the humid microclimate for moisture-loving herbs at the bottom
 
 ## Planting by Zone
@@ -119,10 +119,10 @@ Mediterranean herbs that thrive in hot, dry conditions with sharp drainage:
 
 Herbs that like warmth but slightly more moisture:
 
-- Tarragon (Artemisia dracunculus)
-- Chamomile (Matricaria chamomilla)
+- Tarragon ([[artemisia-dracunculus]])
+- Chamomile ([[matricaria-chamomilla]])
 - Calendula (Calendula officinalis)
-- Yarrow (Achillea millefolium)
+- Yarrow ([[achillea-millefolium]])
 - Catnip (Nepeta cataria)
 
 ### Lower Middle (Zone 3) — Moderate Moisture, Some Shade
@@ -130,9 +130,9 @@ Herbs that like warmth but slightly more moisture:
 Herbs that prefer average moisture and some protection:
 
 - Basil (Ocimum basilicum)
-- Cilantro (Coriandrum sativum)
+- Cilantro ([[coriandrum-sativum]])
 - Dill (Anethum graveolens)
-- Parsley (Petroselinum crispum)
+- Parsley ([[petroselinum-crispum]])
 - Chives (Allium schoenoprasum)
 - Mint (Mentha spp.) — plant in the lower zones as mint spreads aggressively
 
@@ -147,4 +147,3 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 - Sweet woodruff (Galium odoratum)
 
 ### North Side vs. South Side
-

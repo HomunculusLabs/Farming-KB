@@ -27,9 +27,9 @@ rates and ecosystem responses to disturbance.
 ## Fungal Biomass in Forest Ecosystems
 
 Fogel and Hunt (1983) quantified the standing crop [[hamilton-composting-and-organic-matter-management]] allocation
-in a second-growth Douglas fir forest ecosystem. Fungal biomass represented
+in a second-growth [[douglas-fir]] forest ecosystem. Fungal biomass represented
 approximately 2% of the total standing stock, compared to 78-79% in tree
-biomass, 17% in soil organic matter, and 4% in forest floor litter. Within
+biomass, 17% in [[knf-leaf-mold-humus]], and 4% in [[fungal-ecology-forest-floor]] litter. Within
 the tree component, mycorrhizae accounted for 6% of the total tree standing
 stock, while nonmycorrhizal roots comprised 17-18%.
 
@@ -37,11 +37,11 @@ For all nutrients except calcium, roots and mycorrhizae contained greater
 stocks than the forest floor fungi. However, the amounts of calcium in fungi
 and the forest floor were twice those for mycorrhizae and roots. Return of
 nitrogen, phosphorus, and potassium by mycorrhizae to soil was about 83-87%
-of the total tree return, and 25-51% of calcium and magnesium return.
+of the total tree return, and 25-51% of [[dynamic-accumulator-plants-calcium-and-magnesium]] return.
 
 ## Nutrient Concentration in Fungal Tissue
 
-Clinton et al. (1999) measured nutrient concentrations in fungal fruit bodies
+Clinton et al. (1999) measured nutrient concentrations in [[fungal-fruit-tree-diseases]] bodies
 (mushrooms of both mycorrhizal and saprotrophic basidiomycetes) and their
 underlying substrates in a Nothofagus forest. All elements other than calcium
 were more concentrated in fungal tissue:
@@ -61,7 +61,7 @@ nature of fungal biomass.
 
 Lodge (1993) showed that fungal biomass in [[mollison-wet-tropical-forest-structure-and-polyculture]] forest soils contains
 a large reservoir of nutrients. The proportion of nutrient elements contained
-in fungal biomass relative to leaf litter and soil extractable pools was
+in fungal biomass relative to [[dighton-fungal-decomposition-leaf-litter-dynamics]] and soil extractable pools was
 particularly striking for phosphorus: fungal biomass contained 22.2% of leaf
 litter phosphorus and 10.5% of soil extractable phosphorus. For other
 elements, fungal biomass contained 1.6% of leaf litter nitrogen, 3.7% of leaf
@@ -87,44 +87,3 @@ organic nitrogen from the soil pool and immobilizing it into high C:N ratio
 fungal tissue as forest growth progresses. Although the forest soil becomes
 enriched with organic nitrogen as the forest matures, this nitrogen becomes
 increasingly less available to plant growth.
-
-## Fungal Biomass and Seasonal Dynamics
-
-Behera et al. (1991) found 36 species of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] forest soils and
-showed that composition and biomass changed between seasons. Greatest biomass
-and species number occurred in January following the rainy season, showing
-positive correlation with both soil moisture and soil organic matter content.
-Lodge (1993) also demonstrated that fungal biomass in wet tropical forest
-soils is significantly and positively correlated with soil moisture and
-rainfall in the preceding week.
-
-## Fungi as Nutrient Retention Mechanisms
-
-Fungi serve as important controls on nutrient retention and release. In
-tropical forest ecosystems, where high rainfall can leach nutrients from the
-rooting zone, fungal biomass provides a mechanism for retaining nutrients in
-the biotic component of the ecosystem. Lodge (1993) attributed the effects of
-fungi to immobilization of nutrient elements at times when there could be
-maximal loss due to leaching.
-
-The slower decomposition rate of fungal biomass compared to bacterial biomass
-(Marumoto et al., 1982) means that nutrients incorporated into fungal tissue
-are retained longer in the ecosystem, providing a more stable nutrient
-reservoir than bacterial biomass would offer.
-
-## Fruiting Bodies as Nutrient Pulses
-
-Decomposition of fungal fruit body material is faster than surrounding forest
-floor material, providing localized spots of high rates of mineral nutrient
-release. In temperate zones, the spring and fall abundance of fruit body
-production may coincide with periods of high root growth and high nutrient
-demand by trees, creating a synchrony between nutrient supply and demand. The
-duration of [[dighton-fungal-nutrient-immobilization-turnover]] into fungal hyphae before translocation to
-the fruit body represents an important aspect of the temporal control fungi
-exert on rates and timing of nutrient pulses within forest ecosystems.
-
-## See Also
-
-- [[dighton-fungal-roles-in-nutrient-cycling]]
-- [[soil-food-web-nutrient-cycling]]
-- [[dighton-fungal-nutrient-translocation-element-redistribution]]

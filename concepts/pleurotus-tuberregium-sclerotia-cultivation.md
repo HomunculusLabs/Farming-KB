@@ -1,5 +1,5 @@
 ---
-title: Pleurotus pleurotus tuberregium sclerotia cultivation Cultivation
+title: Pleurotus Tuberregium Sclerotia Cultivation
 created: 2026-04-28
 tags:
   - pleurotus-tuberregium
@@ -21,18 +21,18 @@ tuberous basidiomycete indigenous to tropical Africa and the Australasian-Pacifi
 regions. It is unique among [[fungi-cultivated-mushrooms-pathogens-competitors]] for producing sclerotia valued as
 both food and medicine independent of its ability to fruit. Sclerotia are dark
 brown, compact masses of mycelial tissue that store food during unfavorable
-conditions and can survive extreme heat and drought. Sclerotia weighing up to 6kg
+conditions and can survive [[extreme-heat-preparedness]] and drought. Sclerotia weighing up to 6kg
 are commonly harvested in Nigeria between June and September.
 
 ## Life Cycle and Distribution
 
 P. tuberregium is a white rot fungus that colonizes dead hardwood. During the
-rainy season, decaying logs produce fruiting bodies. At the end of the rainy
+rainy season, decaying logs produce [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. At the end of the rainy
 season, as the substrate reaches advanced decay, sclerotia form. They survive the
 hot dry season (October to April) until rain returns, at which point they either
-enlarge or produce sporophores. The sclerotia stage is rare among white rot fungi
+enlarge or produce sporophores. The sclerotia stage is rare among [[brown-rot-white-rot-fungi-remediation]]
 and provides a unique cultivation advantage: sclerotia eliminate the need for
-costly fruiting conditions and can be stored for years.
+costly [[fruiting-conditions-and-harvesting]] can be stored for years.
 
 The species is distributed across sub-Saharan Africa, Madagascar, Malaysia,
 Papua New Guinea, northern Australia, New Caledonia, Indonesia, Myanmar, and
@@ -52,7 +52,7 @@ Medicinally, the Igbo people use sclerotia to treat heart problems; people of
 Edo State use it for asthma, cough, and obesity. Other documented uses include
 treatment of headache, stomach ailments, colds, fever, smallpox, and high blood
 pressure. Recent research shows high beta-glucan and lectin content with
-promising medicinal properties.
+promising [[panax-ginseng]].
 
 ## Spawn Production Methods
 
@@ -88,47 +88,3 @@ rehydrated before use.
 ### Bag Method
 Substrate is inoculated at 5% (w/w) spawn rate in bags up to 8kg each. Light is
 not required for [[growing-gourmet-sclerotia-formation-biology-mushrooms]]. Temperature maintained around 30C with
-moisture retained in the bags. Sclerotia are ready for harvest within 12 weeks
-with fast-growing strains. Yields of 10% fresh sclerotia from wet substrate (5%
-dry mass from dry substrate) can be expected. [[stamets-biological-efficiency-yield]] up to 73.5%
-has been achieved with improved strains on [[oyster-mushroom-supplemented-sawdust-blocks]].
-
-### Cased Bed Method
-Substrate is laid into 1m2 beds at 20cm depth in bamboo houses with cement
-floors and palm leaf roofs. Inoculation at 5-15% (w/w). Water at 5L/m2 every
-other day for 3 weeks. After complete colonization (6-8 weeks), casing with
-topsoil, sand, or peat to 4-5cm depth. Sclerotia emerge through casing within
-2-4 weeks. Yields of 2-4kg sclerotia per m2 are achievable.
-
-### Log Method
-Hardwood logs 10-20cm diameter, 1m long are drilled with holes in diamond
-pattern (15cm spacing), spawn injected, and holes waxed. Logs are stacked in
-shade for one year. Less dense hardwoods produce sclerotia fastest. Logs can
-produce for years until completely rotted. Sclerotia from logs are denser and
-store longer than those from straw or sawdust.
-
-## Fruiting from Sclerotia
-To induce sporophores, soak sclerotia 6-12 hours, bury in peat, sand, or soil in
-trays. Maintain humidity above 85%, water daily (~40mL per sclerotia). Fruiting
-occurs within 5-15 days at 25-30C. Harvest before cap expands, 3-5 days after
-emergence. Two or more flushes possible. Mushroom yield is approximately 25% of
-sclerotia weight.
-
-## Harvest and Storage
-At maturity, sclerotia are washed and air-dried or sun-dried for one week (fresh
-sclerotia are approximately 50% water). Dried sclerotia maintain viability at
-5-10C for at least 2 years, or at 28C for 1 year. One sclerotium collected in
-Cameroon was successfully fruited after 7 years in Edinburgh.
-
-## Feasibility for Developing Countries
-The methods are specifically designed for limited technological resources.
-Agricultural wastes are readily available at little cost. OPF and OPF/sawdust are
-recommended for greatest yield and lowest contamination. Where sterile labs are
-unavailable, un-supplemented OPF or sawdust with sclerotia piece inoculation at
-10% works. A cooperative spawn production facility can serve multiple farms.
-
-## Related Concepts
-
-- [[oyster-mushroom-substrate-preparation]]
-- [[mushroom-poverty-alleviation-developing-countries]]
-- [[oyster-mushroom-spawn-production]]

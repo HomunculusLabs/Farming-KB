@@ -1,5 +1,5 @@
 ---
-title: Integrated Pest Management from Natural Farming
+title: Natural Farming Guide Integrated Pest Management
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,13 +10,13 @@ tags: [natural-farming]
 
 # Integrated Pest Management
 
-In permaculture and [[natural-farming]] ng]] ng]], [[fungal-pest-control]] s, [[companion-planting]], strategic animal integration, and forest garden diversity keeps pests in balance.
+In permaculture and [[natural-farming]], [[fungal-pest-control]] s, [[companion-planting]], strategic animal integration, and forest garden diversity keeps pests in balance.
 
 ## Plant-Based Pest Control Strategies
 
 ### Attracting Predators
 
-Plants provide food or shelter to friendly insects that eat pests. Dill, fennel, tansy, carrot, Queen Anne's lace, catnip, and daisy all attract parasitic wasps, bees, and friendly birds. In the Zone 1 garden, dill, fennel, and carrots are specifically left to go to seed to attract parasitic wasps. Yarrow provides ground cover that gives a home to beneficial insects and has many herbal medicinal uses.
+Plants provide food or shelter to friendly insects that eat pests. Dill, fennel, tansy, carrot, Queen Anne's lace, catnip, and daisy all attract [[parasitic-wasps-biological-pest-control]], bees, and friendly birds. In the Zone 1 garden, dill, fennel, and carrots are specifically left to go to seed to attract parasitic wasps. Yarrow provides ground cover that gives a home to [[hamilton-beneficial-insects-and-biological-pest-control]] has many herbal medicinal uses.
 
 ### Sacrificial Plants (Trap Crops)
 
@@ -24,7 +24,7 @@ These plants attract pests so they leave other crops alone. Care must be taken t
 
 ### Pest-Repelling and Pest-Killing Plants
 
-Pyretheum Daisy (Chrysanthemum cinerariifolium) is one of the most important natural pest control plants. The flowers prefer dry and somewhat sandy soils. To harvest for use as a natural pesticide, wait for a warm, sunny day when the flowers have been open for a few days. Dry them by hanging upside down or removing the heads and drying in the sun. Store whole in a dark, airtight container. When ready to use, grind into a fine powder and dust or spray (mixed with water) on affected plants. Insects should die almost immediately, without harm to humans.
+Pyretheum Daisy (Chrysanthemum cinerariifolium) is one of the most important [[jeavons-natural-pest-control]] plants. The flowers prefer dry and somewhat sandy soils. To harvest for use as a [[jadam-natural-pesticide-institute-and-research]], wait for a warm, sunny day when the flowers have been open for a few days. Dry them by hanging upside down or removing the heads and drying in the sun. Store whole in a dark, airtight container. When ready to use, grind into a fine powder and dust or spray (mixed with water) on affected plants. Insects should die almost immediately, without harm to humans.
 
 Neem is a sub-tropical evergreen tree that grows quickly, is tolerant to drought, and prefers well-drained soil. The entire tree has antifungal, antibacterial, sedative, and antiviral properties and is commonly used as a natural pesticide. Extracts have been used to make toothpaste, skin creams, sprays, and many other products.
 
@@ -88,30 +88,3 @@ Observation is key. Track what plants grow well together over time and what plan
 Diversity provides inherent pest resistance. When many species grow together in a forest-like pattern, pest outbreaks are naturally limited. If you have a bad year for vegetables, tree fruits, nuts, or other crops may still succeed. This approach yields more total food per area than monoculture, even though individual plants may not produce as much. The key advantage is that forest gardens require very little labor compared to conventional farms, which typically demand 80+ hours per week.
 
 ## Weed Management Without Chemicals
-
-In the no-till philosophy, weeds are questioned rather than automatically pulled. If the desired plant is not being harmed by the weed, there may be no reason to remove it. What are the weeds doing for the soil? Sheet mulching (layering cardboard, newspaper, straw, and compost) effectively suppresses all weed types without chemicals. Living mulch (small plants growing under shrubs and trees) must be cared for over time, while dead mulch (cardboard, leaves, straw) must be collected and carried in. Each has its drawbacks.
-
-## Natural Pest Control as a Cash Crop
-
-Prepared powders or sprays (like pyretheum), and nursery plants like marigold or yarrow, are identified as viable natural pest control business opportunities. Rare plants that serve as beneficial insect forage can also be sold.
-
-## Forest Garden Diversity as Passive Pest Control
-
-Diversity provides inherent pest resistance. When many species grow together in a forest-like pattern, pest outbreaks are naturally limited. If you have a bad year for vegetables, tree fruits, nuts, or other crops may still succeed. This approach yields more total food per area than monoculture, even though individual plants may not produce as much. The key advantage is that forest gardens require very little labor compared to conventional farms, which typically demand 80+ hours per week.
-
-The polyculture principle means mixing plant and animal species together for mutual benefit. A climbing plant can be grown with a tall plant (like corn and beans in the Three Sisters). Orchard trees can be clumped closely together with herbs and ducks underneath, rather than spread in neat rows. Each additional species creates new beneficial connections that make the system more resilient to pest pressure and weather extremes.
-
-## Aquaculture and Biological Pest Control
-
-Water systems have the potential to produce much more protein per square foot than equivalent land area. A successful aquaculture system is patterned after productive land-water edges such as swamps and coral reefs. The pond contains fish and has a curvy edge with plants and animals thriving together. Biological controls in aquaculture operate at three levels to maintain balance.
-
-## Deer and Wildlife Management
-
-Deer can devastate gardens and young orchards. Solutions include dogs, fencing (wire mesh, possibly barbed wire, electric wire, and thorny shrubs), and strategic planting of unpalatable species as barriers. Rabbits are similarly controlled with dogs and fencing. The permaculture approach values wildlife corridors and Zone 5 wilderness, so the goal is management rather than elimination.
-
-## See Also
-
-- [[natural-farming-guide-biological-pest-control-predators]]
-
-- [[integrated-pest-management]]
-- [[natural-farming-guide-permaculture-design-for-small-holdings]]

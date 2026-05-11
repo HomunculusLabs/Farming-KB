@@ -52,7 +52,7 @@ Chipped or shredded woody material from [[comparison-fruit-tree-pruning-vs-fruit
 ### Strengths
 
 - **Highest [[ph-and-nutrient-availability-garden-soils]] of the three:** Provides significant plant-available NPK plus micronutrients. The fastest way to boost soil fertility.
-- **Feeds bacterial [[soil-food-web]], ideal for annual vegetables and brassicas.
+- **Feeds bacterial [[soil-foodweb]], ideal for annual vegetables and brassicas.
 - **Improves soil CEC:** [[teaming-with-microbes-humic-and-fulvic-acids]] acids increase the soil's ability to hold and exchange nutrients.
 - **Rapid results:** Nutrients are available immediately. Visible improvement in plant growth within weeks.
 - **Complete amendment:** Full spectrum of macro- and micronutrients plus beneficial microorganisms and humus.

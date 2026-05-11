@@ -88,32 +88,3 @@ given habitat consists of dark taxa, our understanding of [[comparison-nutrient-
 plant-fungal interactions, and food web dynamics is fundamentally incomplete.
 Dark taxa may include important plant pathogens, mycorrhizal partners, or
 decomposers whose roles remain unrecognized.
-
-## Research Priorities
-
-Resolving dark taxa requires coordinated effort across several fronts:
-
-- **Targeted isolation and cultivation** of lineages represented only by
-  sequences remains the gold standard but is labor-intensive
-- **Single-cell genomics and metagenome-assembled genomes** offer promising
-  alternatives, providing genomic context without requiring cultivation
-- **Improved reference databases** with vouchered specimens and linked
-  phenotypic data are essential
-- **Taxonomic training programs**, particularly in tropical countries where
-  fungal diversity is highest, are critical
-
-## Connection to the Biodiversity Crisis
-
-The [[fungal-biodiversity-crisis]] is compounded by the existence of dark taxa.
-Many species may go extinct before they are ever described, particularly in
-threatened tropical habitats undergoing deforestation. The intersection of dark
-taxa with habitat loss means that fungal extinction rates are almost certainly
-underestimated. Conservation strategies that account only for described species
-miss a substantial portion of fungal diversity.
-
-## See Also
-
-- [[fungal-species-estimates]]
-- [[fungal-biodiversity-crisis]]
-- [[soil-mycobiome-structure]]
-- [[environmental-dna-fungal-discovery]]

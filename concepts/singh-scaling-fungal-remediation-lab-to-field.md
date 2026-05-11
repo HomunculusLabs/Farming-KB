@@ -87,37 +87,3 @@ venting) or active (air injection, bioventing) aeration strategies.
 ## Strategies for Successful Scale-Up
 
 ### Adaptive Management
-
-Define clear performance metrics, establish intervention trigger points
-based on monitoring data, maintain flexibility to modify approaches, and
-document all decisions for continuous improvement.
-
-### Phased Implementation
-
-Sequential phases allow learning from early phases, reducing risk, and
-adjusting [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] for long-term management, physical
-treatment for favorable conditions, and chemical pre-treatment to reduce
-concentrations.
-
-## Economic Considerations
-
-Cost components include [[arbuscular-mycorrhizal-inoculum-production-best-practices]], site preparation, nutrient
-amendments, monitoring, and project management. Fungal remediation is
-most competitive for moderate contamination where sustainable approaches
-are valued.
-
-## Regulatory and Social Considerations
-
-Field deployment raises questions about non-native species introduction,
-ecological effects, long-term monitoring responsibility, and public
-perception. Transparent communication is essential.
-
-## Future Directions
-
-- **Computational modeling**: Predicting field performance
-- **Remote sensing**: Drone-based monitoring of treatment progression
-## See Also
-
-- [[singh-electrokinetic-fungal-remediation]]
-
-- singh-soil-fungal-bioremediation-strategies

@@ -88,4 +88,4 @@ without criminalising landowners on whose property they grow.
 
 - [[psilocybin]]
 - Hallucinogenic mushrooms
-- [[amanita-muscaria-entity]]
+- [[amanita-muscaria]]

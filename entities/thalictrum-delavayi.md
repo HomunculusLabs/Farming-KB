@@ -25,13 +25,13 @@ Native to southwestern China, it is prized for its airy sprays of pendulous lave
 
 It was named in honor of Père Jean Marie Delavay (1834-1895), a French Catholic missionary and plant collector who made extensive botanical collections in Yunnan province during the late 19th century.
 
-Delavay sent over 200,000 herbarium specimens to the Muséum national d'Histoire naturelle in Paris, including the type collection of this species. Many important Chinese garden plants were first introduced to Western horticulture through his collecting efforts.
+Delavay sent over 200,000 [[herbarium-specimens-fungal-collections]] to the Muséum national d'Histoire naturelle in Paris, including the type collection of this species. Many important Chinese garden plants were first introduced to Western horticulture through his collecting efforts.
 
 ## Taxonomy and Morphology
 
 **Kingdom:** Plantae | **Family:** Ranunculaceae | **Genus:** Thalictrum | **Species:** T. delavayi Franch.
 
-The genus Thalictrum comprises approximately 200 species of herbaceous perennials distributed across temperate regions of the Northern Hemisphere and South America. Thalictrum delavayi belongs to Section Leptostigma, characterized by pendulous flowers and filiform styles.
+The genus Thalictrum comprises approximately 200 species of [[permaculture-plants-herbaceous-perennials]] distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere and [[guzman-psilocybin-mushrooms-south-america]]. Thalictrum delavayi belongs to Section Leptostigma, characterized by pendulous flowers and filiform styles.
 
 Leaves are 2-3 times ternately compound, with small, rounded leaflets 5-15 mm wide, reminiscent of maidenhair fern (Adiantum). The foliage is glaucous blue-green, providing textural contrast in the garden even when the plant is not in bloom.
 
@@ -41,7 +41,7 @@ The stamens are the primary ornamental feature, creating a fluffy, cloud-like ef
 
 Individual flowers last 3-5 days, but the continuous production of new buds over a 6-8 week period ensures sustained garden display. Deadheading is unnecessary as the plant maintains a tidy appearance throughout bloom.
 
-The root system consists of a short, vertical rhizome with fibrous roots that penetrate deeply into moist, humus-rich substrates. This deep rooting habit contributes to the plant's drought tolerance once established.
+The root system consists of a short, vertical rhizome with fibrous roots that penetrate deeply into moist, humus-rich substrates. This deep rooting habit contributes to the plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] once established.
 
 ## Distribution and Habitat
 
@@ -55,11 +55,11 @@ In its native habitat, it experiences cool summers with frequent mist and well-d
 
 The species is not considered threatened in the wild, though habitat degradation from tourism development and agricultural expansion in Yunnan poses localized concerns. Several populations occur within protected areas including Jade Dragon Snow Mountain National Park.
 
-Climate change projections suggest that montane habitats in Yunnan may experience significant warming by mid-century, potentially reducing suitable habitat for high-elevation species like Thalictrum delavayi. Ex-situ conservation in botanical gardens provides an important backup for wild populations.
+[[dighton-fungal-responses-climate-change]] projections suggest that montane habitats in Yunnan may experience significant warming by mid-century, potentially reducing suitable habitat for high-elevation species like Thalictrum delavayi. Ex-situ conservation in botanical gardens provides an important backup for wild populations.
 
 ## Cultivation
 
-Chinese meadow rue is a rewarding plant for shaded borders, woodland gardens, and waterside plantings in temperate climates.
+Chinese meadow rue is a rewarding plant for shaded borders, woodland gardens, and waterside plantings [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 It prefers moist, humus-rich, well-drained soil in partial to full shade. Unlike many Thalictrum species, it tolerates deeper shade while still flowering freely, though morning sun with afternoon shade produces the best flower display.
 
@@ -67,9 +67,9 @@ Hardy in USDA zones 5-8, the plant benefits from a winter mulch in colder region
 
 Staking is generally unnecessary due to the strong, wiry stems, though exposed sites with strong winds may benefit from discrete support. The species is notably resistant to deer and rabbit browsing due to alkaloid content in the foliage.
 
-Propagation is by seed sown fresh in autumn, or by careful division of established clumps in early spring. Seeds require 4-6 weeks of cold stratification and may germinate irregularly over several months.
+Propagation is by seed sown fresh in autumn, or by careful division of established clumps in [[coleman-overwintered-onions-and-early-spring-crops]]. Seeds require 4-6 weeks of cold stratification and may germinate irregularly over several months.
 
-Fresh seed germination rates approach 70% under optimal conditions, while stored seed viability declines significantly after one year. This short seed life necessitates prompt sowing after collection.
+Fresh [[cannabis-seed-germination]] rates approach 70% under optimal conditions, while stored seed viability declines significantly after one year. This short seed life necessitates prompt sowing after collection.
 
 The cultivar 'Hewitt's Double' produces fully double, pom-pom-like lavender flowers and is the most commonly encountered form in the nursery trade. 'Album' is a white-flowered selection valued for its purity and luminosity in shade.
 
@@ -83,39 +83,8 @@ The pendulous flower orientation and exposed anthers facilitate buzz pollination
 
 The finely divided foliage provides textural habitat structure for small invertebrates in meadow and woodland understory communities. Several aphid species in the genus Macrosiphum specialize on Ranunculaceae foliage.
 
-Thalictrum species are known to form associations with arbuscular mycorrhizal fungi, which enhance phosphorus uptake in nutrient-poor montane soils.
+Thalictrum species are known to form associations with [[arbuscular-mycorrhizal-fungi]], which enhance phosphorus uptake in nutrient-poor montane soils.
 
 Seed heads retain ornamental interest into autumn, with small achenes displaying persistent styles that catch dew and frost in garden settings.
 
-The species has no significant pest or disease problems in cultivation. Powdery mildew may occasionally affect foliage in humid, poorly ventilated conditions but rarely causes serious damage.
-
-## Uses
-
-Thalictrum delavayi has documented use in traditional Chinese medicine within Yunnan province, where it is known as 偏翅唐松草 (pian chi tang song cao).
-
-Phytochemical studies have identified bisbenzylisoquinoline alkaloids including thalidezine, thalictine, and berberine in the roots and aerial parts. Several of these alkaloids exhibit antimicrobial and anti-inflammatory properties in laboratory assays.
-
-Research published in 2017 identified two previously unknown aporphine alkaloids unique to Thalictrum delavayi, named delavayines A and B. These compounds showed moderate cytotoxic activity against human hepatocellular carcinoma cell lines.
-
-In the cut-flower industry, the species is valued for its long vase life (7-10 days) and ethereal, filler-quality blooms. The airy flower sprays complement roses, dahlias, and other substantial cut flowers in arrangements.
-
-The plant has received the Royal Horticultural Society's Award of Garden Merit, reflecting its exceptional garden performance and reliability in UK growing conditions.
-
-Commercial propagation has expanded significantly since 2010, with specialty nurseries in the UK, Netherlands, and United States offering both the species and its cultivars. Demand continues to grow as naturalistic planting styles gain popularity.
-
-All parts contain toxic alkaloids and should not be ingested. Root extracts have been investigated for potential antitumor activity but remain in preliminary research stages.
-
-The plant has gained particular popularity in contemporary naturalistic planting schemes, where its see-through quality creates depth and layers in mixed perennial borders. Landscape architects value it as a "dot" plant for its vertical accent and visual transparency.
-
-## See Also
-
-- [[thalictrum-aquilegiifolium]]
-- [[thalictrum-dioicum]]
-- [[thalictrum-flavum]]
-- [[anemone-nemorosa]]
-- [[ranunculus-acris]]
-- [[aconitum-napellus]]
-- [[clematis-vitalba]]
-- [[delphinium-elatum]]
-- [[helleborus-orientalis]]
-- [[nigella-sativa]]
+The species has no significant pest or disease problems in cultivation. [[cervantes-powdery-mildew-prevention-treatment]] may occasionally affect foliage in humid, poorly ventilated conditions but rarely causes serious damage.

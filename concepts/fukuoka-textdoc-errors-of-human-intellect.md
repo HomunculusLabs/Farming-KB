@@ -5,6 +5,7 @@ tags: [philosophy, epistemology, science-critique, discriminating-knowledge, mu]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,33 +88,3 @@ generalizations, but this only breaks nature down into smaller and smaller
 fragments and reduces it to ever greater imperfection.
 
 The judgment by man that science understands nature and can use it to create
-a more perfect world has had the very opposite effect of making nature
-incomprehensible and has drawn man away from nature and its blessings, so
-that he now gladly harvests imitation crops far inferior to those of nature.
-To illustrate, the scientist who brings a soil sample to the laboratory for
-analysis finds it consists of organic and inorganic matter. He divides the
-inorganic matter into components and studies how plants grow. But the wheat
-that grows of its own accord from fallen seed on the open ground and the
-wheat planted and grown in laboratory pots are both identical, yet man
-expends great time, effort, and resources to raise wheat, all because of the
-blind faith he has in his own ability to grow more and better wheat than
-nature.
-
-## The Maze of Relative Subjectivity
-
-Fukuoka illustrates the problem of human knowledge with the metaphor of
-Okuninushi no Mikoto, the Shinto deity of agriculture. When people want to
-know what Okuninushi carries in his huge sack, they immediately open the sack
-and thrust their hands in. They think that to understand the interior, they
-must know its contents. Yet the truth may be something far simpler and more
-profound than the accumulated knowledge of all the objects within.
-
-Similarly, man is not in a position to know nature. When he says that he is
-capable of knowing nature, to "know" does not mean to grasp and understand
-the true essence of nature. It means only that man knows that nature which
-he is able to know. This is the fundamental limitation that
-[[fukuoka-textdoc-maze-relative-subjectivity]]
-
-- [[fukuoka-fallacies-scientific-understanding]]
-- [[fukuoka-critique-genetic-engineering]]
-- [[fukuoka-living-soil]]

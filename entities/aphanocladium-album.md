@@ -19,7 +19,7 @@ Aphanocladium album is a complex of closely related ascomycete
 fungi with remarkably diverse mycoparasitic lifestyles. Modern
 taxonomic revision has revealed that what was historically called
 A. album actually comprises multiple distinct species with
-different ecological roles, including myxomyceticolous parasites
+different [[ecological-roles-fungi-ecosystems]], including myxomyceticolous parasites
 (attacking [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]), rust hyperparasites, and mushroom
 pathogens. This taxonomic complexity means that much of the older
 literature requires careful reevaluation.
@@ -61,7 +61,7 @@ morphological similarity under light microscopy.
 
 ### Myxomyceticolous Parasitism
 The true A. album attacks only noncalcareous myxomycetes, growing
-on their fruiting bodies and deriving nutrients from the spore-
+on their [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and deriving nutrients from the spore-
 bearing structures. Byssostilbe stilbigera has been observed as
 the anamorph Blistum tomentosum on myxomycete hosts, representing
 another fungus exploiting the same niche. The specialization for
@@ -85,28 +85,6 @@ recurring problem in mushroom farms (van Zaayen and Gams 1982),
 where it causes spotting, deformation, and reduced quality of
 [[fungi-cultivated-mushrooms-pathogens-competitors]] such as [[biodiversity-powdery-mildews]] (Hijwegen and Buchenauer 1984), growing on the
 superficial mycelium and within the host structures. However, it
-is much less common on powdery mildews than the specialized
-Ampelomyces quisqualis, which dominates this particular niche as
+is much less common on [[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]] than the specialized
+[[ampelomyces-quisqualis]], which dominates this particular niche as
 the primary powdery mildew hyperparasite worldwide.
-
-### Biocontrol Research
-
-{w("As a hyperparasite of Puccinia graminis, L. dimorphum has been studied for potential biocontrol of stem rust in cereals. Stem rust is one of the most devastating diseases of wheat and barley. The ability to disrupt the rust lifecycle at multiple stages, including aecidiospore destruction and urediniospore inhibition, makes it a particularly interesting candidate. Practical applications remain limited by the difficulty of mass-producing the hyperparasite and delivering it effectively.")}
-
-## Relevance
-The A. album complex illustrates the taxonomic and ecological
-complexity hidden within seemingly simple fungal species names.
-Its ability to function as a rust hyperparasite makes L.
-dimorphum a candidate for stem rust biocontrol in cereals, while
-L. aphanocladii represents a [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] in mushroom
-cultivation. The diverse ecological roles within this species
-complex make it a valuable model for studying mycoparasitic
-evolution and host specialization.
-
-## See Also
-
-- [[linum-album-piriformospora-indica-co-culture-system]], [[rust-fungi-biodiversity-life-cycles]]
-
-- [[eudarluca-caricis]]
-- [[ampelomyces-quisqualis]]
-- byssostilbe stilbigera

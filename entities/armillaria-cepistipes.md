@@ -88,30 +88,3 @@ Armillaria species also serve as food sources for various invertebrates and fung
 Management of A. cepistipes in forestry and horticulture focuses on prevention and reducing host stress. Maintaining tree vigor through proper irrigation, nutrition, and soil management is the most effective defense.
 
 Infected stumps and roots should be removed or mechanically destroyed to prevent rhizomorph spread. In high-value orchard settings, soil fumigation and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Trichoderma species have shown some efficacy.
-
-Chemical control options are limited. Barrier trenches around infection centers can slow rhizomorph spread but are labor-intensive. Research into resistant rootstock varieties is ongoing for fruit crop applications.
-
-## Related Species
-
-A. cepistipes is one of approximately 10 described Armillaria species in Europe. It is most commonly confused with A. gallica, from which it can be distinguished by its larger spores and more aggressive pathogenicity.
-
-Compared to A. mellea, A. cepistipes has a more limited virulence range and prefers weaker hosts. A. mellea is generally more destructive in orchards and vineyards. A. ostoyae is the primary Armillaria pathogen of conifers.
-
-A. cepistipes belongs to the same species complex as A. gallica and A. borealis. [[biodiversity-fungal-molecular-identification-dna-barcoding]] using ITS rDNA sequencing is often necessary for reliable species discrimination in field populations.
-
-## Cultivation
-
-Unlike several other Armillaria species, A. cepistipes is not commercially cultivated. The related A. mellea is cultivated at small scale in some Asian countries, but A. cepistipes has not been domesticated.
-
-Laboratory cultures grow readily on standard fungal media including malt extract agar and potato dextrose agar. Optimal growth temperature is 20–25°C. The species forms rhizomorphs in culture, which can be used for species identification.
-
-The edibility of A. cepistipes is generally considered good when thoroughly cooked, though some sources recommend caution due to potential confusion with toxic look-alikes. The flavor is mild and pleasant, similar to other honey fungi.
-
-## See Also
-
-- armillaria-gallica
-- [[laetiporus-sulphureus]]
-- [[trametes-versicolor-entity]]
-- [[ganoderma-lucidum]]
-- [[cantharellus-cibarius-entity]]
-- [[suillus-luteus]]

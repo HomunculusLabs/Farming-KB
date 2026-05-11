@@ -17,7 +17,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Shirota O, Hakamata W, Goda Y (2003) "Concise Large-Scale Synthesis of Psilocin and Psilocybin, Principal Hallucinogenic Constituents of 'Magic Mushroom.'" Journal of Natural Products 66(6): 885-887.
+  - Shirota O, Hakamata W, Goda Y (2003) "Concise Large-Scale Synthesis of psilocin-and-psilocybin-chemistry, Principal Hallucinogenic Constituents of 'Magic Mushroom.'" Journal of Natural Products 66(6): 885-887.
 type: concept
 ---
 
@@ -27,7 +27,7 @@ The Shirota, Hakamata, and Goda (2003) synthesis of psilocin and psilocybin empl
 
 ## Background and Motivation
 
-Psilocin and psilocybin are the principal psychoactive constituents of Psilocybe mushrooms, commonly called "magic mushrooms." These compounds closely resemble the neurotransmitter serotonin (psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, serotonin is 5-hydroxytryptamine), and their hallucinogenic effects are probably caused by interference with normal brain serotonin actions. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law on June 6, 2002, reliable analytical methods became essential for law enforcement. Identification by morphological and microscopic analysis is difficult without experts, making chromatographic methods (TLC, GC, HPLC) the standard approach, all of which require pure reference compounds.
+Psilocin and psilocybin are the principal psychoactive constituents [[grass-seed-cultivation-of-psilocybe-mushrooms]], commonly called "magic mushrooms." These compounds closely resemble the neurotransmitter serotonin (psilocybin is 4-phosphoryloxy-N,N-dimethyltryptamine, serotonin is 5-hydroxytryptamine), and their hallucinogenic effects are probably caused by interference with normal brain serotonin actions. Following the regulation of psilocybin-containing fungi under Japan's Narcotics and Psychotropic Control Law on June 6, 2002, reliable analytical methods became essential for law enforcement. Identification by morphological and microscopic analysis is difficult without experts, making chromatographic methods (TLC, GC, HPLC) the standard approach, all of which require pure reference compounds.
 
 Isolation from fungal material on gram scale is impractical because psilocin is unstable and psilocybin has high polarity. Several syntheses of psilocin had been published, but reports on psilocybin synthesis were few, with previously reported yields of only 20% and 47%. The Shirota route achieves dramatically higher yields without any chromatographic purification.
 
@@ -57,7 +57,7 @@ The 1H NMR shows two N-methyl singlets at 3.02 and 2.92 ppm (the non-equivalence
 
 Compound 6 (22.0 g, 80 mmol) is reduced by dropwise addition to a suspension of LiAlH4 (ca. 12 g) in anhydrous THF (300 mL) under argon over 2 hours, followed by reflux for 2 hours. This single step accomplishes two simultaneous transformations: reduction of the glyoxalylamide C=O bonds to the ethylamine side chain and reductive cleavage of the acetyl protecting group, yielding psilocin directly.
 
-Workup is carefully controlled: anhydrous Na2SO4 powder (ca. 10 g) is added first, followed by dropwise addition of saturated Na2SO4 solution (ca. 12 mL) to quench excess hydride. The mixture is filtered through an aminopropyl silica gel Celite pad, concentrated, and the product crystallizes upon addition of methanol. Yield: 14.3 g (87.5%) as white crystals. Melting point: 169-174 degrees C (decomposition), matching the literature value of 173-176 degrees C.
+Workup is carefully controlled: anhydrous Na2SO4 powder (ca. 10 g) is added first, followed by dropwise addition of saturated Na2SO4 solution (ca. 12 mL) to quench excess hydride. The mixture is filtered through an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] Celite pad, concentrated, and the product crystallizes upon addition of methanol. Yield: 14.3 g (87.5%) as white crystals. Melting point: 169-174 degrees C (decomposition), matching the literature value of 173-176 degrees C.
 
 ## Extension to Psilocybin via Zwitterionic Intermediate
 
@@ -65,7 +65,7 @@ Psilocin from the above route is phosphorylated using tetrabenzylpyrophosphate (
 
 This zwitterionic compound was fully characterized by 2D NMR. HMBC experiments confirmed the benzyl-to-nitrogen migration, while NOESY supported the proposed structure. The zwitterionic nature makes compound 8 insoluble in CH2Cl2, enabling isolation by simple filtration (yield: 10.5 g, 85.2%) with excess dibenzyl phosphate removed by CH2Cl2 washing.
 
-Catalytic hydrogenolysis (10% Pd/C, H2, MeOH, rt) of compound 8 yields psilocybin (2) as white needle crystals (5.6 g, 87.5%) without any chromatographic purification. The overall yield from psilocin exceeds 72% on gram scale, dramatically exceeding the 20% and 47% yields of previous routes.
+[[catalytic-hydrogenolysis-palladium-carbon-debenzylation]] (10% Pd/C, H2, MeOH, rt) of compound 8 yields psilocybin (2) as white needle crystals (5.6 g, 87.5%) without any chromatographic purification. The overall yield from psilocin exceeds 72% on gram scale, dramatically exceeding the 20% and 47% yields of previous routes.
 
 ## Reaction Monitoring and Intermediary Identification
 
@@ -75,11 +75,11 @@ The study employed thin-layer chromatography (TLC) using a chloroform-methanol s
 
 Following the completion of the phosphorylation step, the crude product mixture was poured into ice-cold water and extracted with ethyl acetate. The organic layer was washed with water and brine, then dried over anhydrous sodium sulfate and concentrated under reduced pressure. The resulting crude 4-acetylpsilocybin was obtained as a pale yellow solid and was carried forward to the deprotection step without further purification, simplifying the workflow and reducing material losses associated with intermediate purification.
 
-Spectroscopic characterization of the final psilocybin product confirmed its identity through melting point determination, ultraviolet-visible spectroscopy (UV-Vis), and nuclear magnetic resonance (NMR). The UV-Vis spectrum showed characteristic absorption maxima consistent with literature values for authentic psilocybin. The proton NMR spectrum displayed the expected pattern of aromatic and aliphatic signals, confirming both the indole ring structure and the successful installation of the phosphate ester at the four-position.
+[[shirota-psilocin-psilocybin-spectroscopic-characterization-forensic-standards]] of the final psilocybin product confirmed its identity through melting point determination, ultraviolet-visible spectroscopy (UV-Vis), and nuclear magnetic resonance (NMR). The UV-Vis spectrum showed characteristic absorption maxima consistent with literature values for authentic psilocybin. The proton NMR spectrum displayed the expected pattern of aromatic and aliphatic signals, confirming both the indole ring structure and the successful installation of the phosphate ester at the four-position.
 
 ## Comparison with Classical Phosphorylation Methods
 
-Classical approaches to indole phosphorylation typically employ phosphoryl chloride (POCl3) in anhydrous organic solvents, often requiring strict anhydrous conditions and low temperatures to control exothermicity. The reaction mixture is usually quenched with aqueous base, and the product is isolated as a phosphate salt. These methods present several disadvantages for psilocybin synthesis: POCl3 is highly corrosive and moisture-sensitive, the reaction requires careful temperature control, and workup generates corrosive phosphate-containing waste streams.
+Classical approaches to indole phosphorylation typically employ [[phosphoryl-chloride]] (POCl3) in anhydrous organic solvents, often requiring strict anhydrous conditions and low temperatures to control exothermicity. The reaction mixture is usually quenched with aqueous base, and the product is isolated as a phosphate salt. These methods present several disadvantages for psilocybin synthesis: POCl3 is highly corrosive and moisture-sensitive, the reaction requires careful temperature control, and workup generates corrosive phosphate-containing waste streams.
 
 The acetyl protection route circumvents these difficulties by using acetic anhydride and phosphorus oxychloride in sequence, with the acetyl group providing built-in protection against unwanted side reactions at the indole nitrogen. The comparative mildness of the reagents and the simplicity of the workup procedure (aqueous quench followed by standard extraction) make this route more accessible to laboratories without specialized equipment for handling highly corrosive phosphorylating agents.
 
@@ -88,41 +88,3 @@ The acetyl protection route circumvents these difficulties by using acetic anhyd
 The authors addressed the question of scalability, noting that the two-step acetyl protection route had been performed on multi-gram scale without significant loss of yield or purity. The reaction exotherms were manageable at scale, and the purification procedures (simple recrystallization of both psilocin and the final psilocybin) were readily adapted to larger quantities. The avoidance of chromatographic purification at any step was cited as a particular advantage for scale-up, as column chromatography becomes impractical at industrial scale.
 
 The overall material efficiency of the route was estimated at approximately thirty percent from starting tryptamine, when accounting for the three sequential transformations (formylation, reduction, and phosphorylation). While this represents a significant improvement over earlier reported routes, the authors acknowledged that further optimization of individual step yields would be necessary for commercial production.
-
-## Regulatory and Supply Chain Implications
-
-The development of a concise and scalable psilocybin synthesis route has significant implications for both research and clinical supply. As psilocybin moves through clinical trials for depression, anxiety, and substance use disorders, the demand for pharmaceutical-grade material has increased substantially. Current Good Manufacturing Practice (GMP) synthesis requires routes that are not only efficient but also well-characterized, reproducible, and amenable to rigorous quality control at each step.
-
-The acetyl protection route's simplicity, avoidance of exotic reagents, and reliance on standard organic chemistry operations make it a strong candidate for GMP adaptation. The crystalline intermediates (4-acetoxyindole-3-acetaldehyde and 4-acetoxy-DMT) provide natural quality control checkpoints, and the final recrystallization from methanol yields material of consistently high purity suitable for pharmaceutical formulation.
-
-## Historical Context of Psilocybin Synthesis
-
-The synthesis of psilocybin has a history spanning several decades since Albert Hofmann's original isolation and characterization of the compound from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in 1958. Hofmann also accomplished the first total synthesis of psilocybin, establishing the foundational route that subsequent researchers sought to improve. The Shirota et al. route described in this concept represents one of the most significant advances in this history, achieving yields and scalability that previous approaches could not match. The development of efficient synthetic routes has become increasingly important as psilocybin enters mainstream [[hofmann-lsd-clinical-research-early-studies]], with regulatory bodies requiring pharmaceutical-grade material produced under controlled conditions.
-
-Key milestones in psilocybin synthesis include Hofmann's original route via phosphorylation of psilocin, the Speeter and Anthony approach using 4-hydroxyindole as a starting material, and the various modifications introduced by subsequent researchers to improve yields, reduce the number of steps, or avoid hazardous reagents. The Shirota route is distinguished by its combination of high overall yield, avoidance of chromatographic purification, and scalability to multi-gram quantities.
-
-## Analytical Characterization Summary
-
-Both the psilocin intermediate and the final psilocybin product were fully characterized by multiple spectroscopic methods. Psilocybin shows UV maxima at 221.0, 267.5, 278.5, and 290.0 nm (in MeOH); proton NMR (D2O) with characteristic aromatic protons at 7.22 (H-7), 7.18 (H-2), 7.13 (H-6), and 6.98 (H-5) ppm, methylene protons of the ethylamine side chain at 3.44 and 3.28 ppm, and the N,N-dimethyl singlet at 2.86 ppm. The phosphorus-31 NMR confirms the phosphate moiety at -4.48 ppm. High-resolution electrospray ionization mass spectrometry gives m/z 285.0991 for the protonated molecular ion, consistent with the calculated value of 285.1004 for C12H18N2O4P. Psilocin similarly shows characteristic UV and NMR spectra consistent with the 4-hydroxy-N,N-dimethyltryptamine structure, confirming successful deprotection and identity of the intermediate.
-
-## Environmental and Safety Considerations
-
-The Shirota et al. route offers several advantages from a laboratory safety and environmental perspective. Acetic anhydride, while requiring careful handling, is a standard organic reagent available in most synthetic chemistry laboratories. Phosphorus oxychloride, though corrosive, is handled routinely in phosphorylation chemistry and does not require the specialized equipment needed for more aggressive phosphorylating agents. The workup procedures generate aqueous waste streams that are readily neutralized, avoiding the hazardous waste disposal challenges associated with some alternative routes that employ heavy metal catalysts or highly toxic phosphorylation reagents.
-
-The catalytic hydrogenolysis step using palladium on carbon is also well-established in pharmaceutical synthesis, with the catalyst being recoverable and reusable. The methanol solvent used in this step is relatively benign compared to alternative solvents, and the reaction conditions (room temperature, atmospheric hydrogen pressure) minimize energy requirements and safety concerns associated with high-pressure hydrogenation.
-
-## See Also
-
-- [[pf-tek-stamets-dosage-reference-psilocybin-potency-guidelines]]
-- [[psilocybin-mushroom-prevalence-europe]]
-- [[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]]
-- [[psilocybin-psilocin-ratio-dynamics-flushes-bigwood-beug]]
-
-- [[psilocybin-synthesis]]
-
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
-- [[synthetic-tryptamine-methods]]
-
-- [[shirota-acetyl-versus-benzyl-protection-psilocin-synthesis-stability-forensic-standards]]

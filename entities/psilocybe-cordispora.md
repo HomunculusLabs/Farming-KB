@@ -1,9 +1,9 @@
 ---
-title: [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison|Psilocybe]] cordispora
+title: Psilocybe Cordispora
 created: 2026-04-28
 type: species
 tags:
-  - psilocybin-mushroom
+  - [[psilocybin-mushroom]]
   - agaricales
   - hymenogastraceae
   - asian-species
@@ -42,15 +42,15 @@ sources:
 ### Stipe (Stem)
 - Cylindrical, slender, sometimes slightly enlarged at base
 - Surface pallid to light brown, fibrillose
-- Partial veil membranous when young, leaving a fibrillose ring zone
+- [[partial-veil-tropism-protection-before-spore-release]] membranous when young, leaving a fibrillose ring zone
 - Context bruises bluish, particularly at the base
 
 ### Spores
-- [[psilocin]], as evidenced by blue bruising reactions and the d [[spore-print]] rint. Alkaloid concentrations have not been quantitatively analyzed in published studies, but the bluing reaction suggests moderate to significant psychoactive compound levels.
+- [[psilocin]], as evidenced by blue bruising reactions and the d [[spore-print]] rint. Alkaloid concentrations have not been quantitatively analyzed in published studies, but the [[field-guide-psilocybin-bluing-reaction-identification]] suggests moderate to significant psychoactive compound levels.
 
 ## Similar Species
 
-The cordiform spore morphology is diagnostic and separates P. cordispora from virtually all other Psilocybe species, which typically have ellipsoid, subellipsoid, or amygdaliform spores. In the field, it may resemble P. cubensis or P. subcubensis in general appearance, but microscopic examination quickly resolves the identification.
+The cordiform spore morphology is diagnostic and separates P. cordispora from virtually all other Psilocybe species, which typically have ellipsoid, subellipsoid, or amygdaliform spores. In the field, it may resemble P. cubensis or P. subcubensis in general appearance, but [[fungal-microscopic-examination-mounting-media-techniques]] quickly resolves the identification.
 
 ## Notes
 

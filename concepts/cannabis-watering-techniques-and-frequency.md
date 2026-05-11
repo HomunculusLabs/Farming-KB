@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis watering techniques and frequency and Frequency
+title: Cannabis Watering Techniques And Frequency
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 5, 6, 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]], [[greg-green]] (Ch. 5, 6, 9)
 
 Proper watering is one of the most important and commonly misunderstood aspects of [[query-how-does-no-till-cannabis-cultivation-work]]. Both overwatering and underwatering cause significant problems.
 
@@ -51,9 +51,9 @@ Overwatering is the most common mistake among new growers. It does not mean "too
 - Soil remains constantly wet and may develop algae on the surface
 - Plant growth slows dramatically
 - Stems may feel soft and mushy near the base
-- Fungus gnats appear around the soil surface
-- Root rot may develop in severe cases
-- Leaves turn yellow, starting with lower foliage
+- [[cervantes-fungus-gnats]] appear around the soil surface
+- [[cannabis-root-rot-prevention-and-treatment]] may develop in severe cases
+- Leaves [[query-what-causes-cannabis-leaves-to-turn-yellow]], starting with lower foliage
 
 ### Treatment
 
@@ -88,38 +88,3 @@ Overwatering is the most common mistake among new growers. It does not mean "too
 - **pH**: Maintain water pH between 6.0–7.0 for soil grows, 5.5–6.5 for hydroponic grows
 - **Temperature**: Room temperature water (65–75°F / 18–24°C). Cold water shocks roots; hot water damages them.
 - **Chlorine**: Let tap water sit for 24 hours in an open container to allow chlorine to dissipate. Or use filtered water.
-- **Source**: Rainwater, reverse osmosis, or dechlorinated tap water are preferred
-
-### How to Water Properly
-
-1. **Water slowly and evenly** around the base of the plant, not just one spot
-2. **Water until 10–20% runoff** comes from drainage holes — this prevents nutrient [[cervantes-salt-buildup-leaching-management]]
-3. **Do not water on a fixed schedule** — let the plant tell you when it needs water using the finger test
-4. **Avoid getting water on the foliage**, especially under intense lights — wet leaves promote mold and mildew
-5. **Adjust for growth stage**: Larger plants need more water; seedlings need very little
-6. **Adjust for environment**: Hot, dry conditions increase water needs; cool, humid conditions decrease them
-
-### Watering Frequency Guidelines
-
-These are approximate and will vary based on container size, environment, and plant size:
-- **Seedlings in small pots**: Every 2–4 days
-- **Vegetative plants in medium pots**: Every 2–5 days
-- **Large vegetative plants in large pots**: Every 3–7 days
-- **Flowering plants**: Every 2–5 days (generally need more than vegetative due to increased metabolism)
-
-Always use the finger test rather than counting days.
-
-## Hydroponic Watering
-
-Hydroponic systems handle watering differently:
-- **DWC/Bubbler**: Roots are always submerged in aerated [[cannabis-nutrient-solution-preparation]]
-- **Ebb and flow**: Flooding cycles (typically 2–4 times per day during lights-on)
-- **Drip systems**: Continuous or periodic dripping to each plant
-- **NFT**: Thin film of nutrient solution constantly flowing over roots
-- See [[cannabis-deep-water-culture-guide]] for system-specific details
-
-## Related Topics
-
-- [[cannabis-root-rot-prevention-and-treatment]] — root diseases from overwatering
-- [[cannabis-indoor-soil-mix-and-preparation]] — soil mixes that drain properly
-- [[cannabis-flowering-stage]] — [[cannabis-flowering-stage-management]] watering adjustments

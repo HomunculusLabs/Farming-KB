@@ -87,13 +87,3 @@ Turner had some powerfully enlightening experiences smoking N,N-DMT while on aci
 A blast of nitrous usually produces a one to two minute "dissociative" state, during which one feels somewhat out of body. Nitrous works well with every psychedelic Turner tried it with. It can put an additional peak in the peak, or be used to "break up" a state of mind so one can switch focus to something else.
 
 ### Ecstasy (Candyflip)
-
-Ecstasy is frequently taken with LSD, a combination commonly known as "candyflip." The feelings produced can be much deeper and more visual than on ecstasy alone. Since the ecstasy has a much heavier signature than the acid, the experience tends to be more of an intensified ecstasy high. If taken around the same time, the ecstasy wears off first, while the residual acid high provides for a smoother recovery.
-
-## See Also
-
-- [[stanislav-grof]]
-- [[psychedelic-combination-guide]]
-- [[psychedelic-spirituality-and-religion]]
-- [[turner-dmt]]
-- [[mao-inhibitors-and-psychedelics]]

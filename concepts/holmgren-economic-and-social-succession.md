@@ -6,18 +6,19 @@ type: concept
 tags: [permaculture, economics, community-finance]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Economic and Social Succession
 
 Updated: 2026-04-18
-Source: David Holmgren, Permaculture: Principles and Pathways Beyond
+Source: [[david-holmgren]], Permaculture: Principles and Pathways Beyond
 Sustainability (Principle 12: Creatively Use and [[permaculture-principle-creatively-use-and-respond-to-change]])
 
 ## Decline of Rural Communities
 
 The decline of rural communities and the "clever" people leaving the land for
-the city, followed by the consolidation of agricultural land, is a pattern
-repeated around the world. In Australia the short-lived boom in wheat farming
+the city, followed by the consolidation of [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]], is a pattern
+repeated [[fungi-around-the-world-species-distribution]]. In Australia the short-lived boom in wheat farming
 on semi-arid lands of the Mallee country in the 1920s is a graphic example.
 After clearing the original mallee woodland, the agricultural cycle began to
 consume the soil itself as humus was lost, soil structure declined, and soluble
@@ -64,7 +65,7 @@ pioneers who had created the conditions for later settlers.
 During the post-war boom years, the top-down, command-and-control model seemed
 unstoppable. Centralised planning, large-scale engineering projects, and the
 power of large corporations and governments to shape society appeared to be the
-natural order of things. The environmental movement, the anti-nuclear movement,
+[[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]] of things. The environmental movement, the anti-nuclear movement,
 and the women's movement all challenged this model but largely failed to
 displace it.
 
@@ -86,65 +87,3 @@ example of economic innovation at the margins that challenges the dominant
 monetary paradigm.
 
 ## The Global Economy and Local Resilience
-
-The global economy, as currently constituted, is extremely vulnerable to energy
-descent because:
-
-- It depends on cheap transport to move goods and people across vast distances
-- It depends on complex financial systems that require continuous growth to
-  service debt
-- It has eliminated most local productive capacity in favour of centralised
-  production
-- It has created social systems dependent on continuous employment in
-  non-essential occupations
-
-The response to this vulnerability is to rebuild local productive capacity,
-especially in food, energy, and essential goods and services. Permaculture
-provides a framework for doing this in a systematic way that integrates the
-ecological, economic, and social dimensions of the problem.
-
-## Permaculture as Economic Strategy
-
-Permaculture is not just a system of agricultural design; it is a strategy for
-rebuilding the economic foundations of society from the bottom up. The key
-elements of this strategy include:
-
-Reducing dependence on fossil energy through design for passive function Building biological capital in soil, trees, and perennial systems Creating local food systems that are resilient to disruption Developing skills in practical crafts and trades that are energy-efficient Strengthening community networks of mutual support and exchange Using [[permaculture-principle-use-and-value-renewable-resources]] and services where possible Designing for adaptation and flexibility rather than efficiency and
-  optimisation
-
-## Post-Industrial Feudalism
-
-Holmgren warned that the decline of cheap energy could lead to a new form of
-feudalism, where those who control land and resources exercise power over those
-who do not. This scenario is avoided only if there is widespread adoption of
-[[permaculture-principles]] and the creation of resilient local economies that are
-not dependent on centralised systems of control.
-
-## Succession in Ecological and Social Systems
-
-Holmgren draws a direct parallel between ecological succession — the process
-by which ecosystems develop from pioneer communities to mature, stable states
-— and social succession. In ecology, bare ground is first colonised by
-fast-growing, short-lived pioneer species that improve soil conditions and
-create microclimates. These pioneers are gradually replaced by longer-lived
-species that are more competitive but require the conditions the pioneers
-created. See
-[[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] for the broader
-energy-descent context.
-
-Social communities follow similar patterns. [[holmgren-community-design-and-intentional-communities]] often begin
-with young, idealistic pioneers who tolerate hardship and invest enormous
-energy. If the community survives, the pioneers' efforts create infrastructure
-and social capital that attract a second wave of settlers — often families and
-older people who bring stability but different expectations. The challenge is
-managing this transition without losing the energy of the pioneers or
-excluding the newcomers.
-
-## Community Land Trusts and Economic Localization
-
-One concrete tool for economic succession is the community land trust (CLT).
-CLTs separate land ownership from building ownership, placing land in a
-perpetual trust that removes it from speculative markets. Residents own their
-buildings but lease the land, keeping housing affordable across generations.
-
-This model aligns closely with permaculture's emphasis on

@@ -87,23 +87,3 @@ The NASA team's key innovation was recognizing that the spore's defense — low 
 The thin water film absorbs microwave energy extremely rapidly due to its large surface-area-to-volume ratio. The water flashes almost instantly to steam at 100°C, but because the total water volume is small (9 µL/cm²), the thermal load on the underlying surface remains minimal. The steam generated contacts all exposed surfaces and penetrates surface irregularities where spores may be lodged.
 
 ### Combined Microwave and Steam Kill
-
-The steam provides a dual kill mechanism. First, the steam itself transfers thermal energy to the spores, heating them to temperatures that overcome their thermal resistance. Second, the steam condenses on cooler surfaces, re-depositing water that can again absorb microwave energy, creating a self-sustaining cycle of heating. This combination of direct microwave coupling (for any residual free water in the spores) and indirect steam heating (for the desiccated spore core) proved effective against even the most resistant *Bacillus pumilus* spores.
-
-### Localized Energy Deposition
-
-A critical advantage of the trace water approach is that the energy deposition is highly localized to the contaminated surface. The small water volume means that the total energy added to the system is minimal, preserving the temperature integrity of adjacent thermally labile materials. This is fundamentally different from autoclaving, where the entire chamber and its contents are heated to 121°C or higher.
-
-## Kill Curve Analysis
-
-The experimental kill curves from the NASA study (Figure 2 of MSC-22484) for the mixed population of *B. pumilus*, *E. coli*, and *P. cepacia* at 3.6 W/cm² exposure rate demonstrated:
-
-- **Rapid initial kill**: The first few W-hr of exposure produced the steepest decline in viable counts, reflecting the vulnerability of vegetative cells.
-- **Tailing phase**: As exposure continued, the kill rate slowed as the population shifted toward the more resistant spore forms.
-- **Complete sterilization**: At 13.1 W-hr total exposure, the population reached zero CFU from an initial challenge of 2 × 10⁵ organisms.
-
-The shape of this curve is characteristic of mixed-population sterilization studies and reflects the two-phase kill process: rapid vegetative cell destruction followed by more gradual spore inactivation through the steam enhancement mechanism.
-
-## Implications for Mycological Contamination
-
-For [[accessible-mushroom-cultivation-for-disabilities]] and mycological laboratory work, these findings have practical implications. Fungal spores share some resistance mechanisms with bacterial endospores, particularly low water content and protective wall structures. Contaminant molds such as *Aspergillus* and *Penicillium* species produce conidia with moderate resistance to environmental stress. While the NASA study focused on bacterial systems, the trace water steam enhancement principle would likely apply to fungal spore decontamination as well, suggesting potential applications in sterilizing cultivation surfaces and equipment between crops.

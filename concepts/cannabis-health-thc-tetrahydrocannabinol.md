@@ -88,12 +88,3 @@ variety of cancer manifestations. As early as 1974, research showed
 that the active chemical agent in marijuana curbed the growth of three
 kinds of cancer (lung, breast, and viral-induced leukemia) in mice.
 Major scientific journals continue to report detailed trial results
-from an international community of researchers examining cannabinoids'
-complex effects in preventing and treating specific cancer formations.
-
-## Key Takeaway
-
-THC is a remarkably versatile therapeutic compound whose full potential
-continues to be revealed through ongoing research. Its safety profile,
-broad receptor affinity, and range of documented therapeutic effects
-make it one of the most important cannabinoids in medical cannabis.

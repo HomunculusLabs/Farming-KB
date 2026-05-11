@@ -57,7 +57,7 @@ It is classified as a pioneer species, colonizing bare ground following disturba
 
 The species is absent from permanently wet or shaded habitats. It shows a strong positive association with south-facing slopes and areas of thin, stony soil where competition from taller perennials is reduced.
 
-Associated species include Calluna vulgaris, Erica cinerea, Deschampsia flexuosa, and Festuca ovina on acidic heathlands. On more neutral sandy grasslands, it co-occurs with [[knautia-arvensis]], [[succisa-pratensis]], and [[centaurea-cyanus]].
+Associated species include [[calluna-vulgaris]], Erica cinerea, [[deschampsia-flexuosa]], and [[festuca-ovina]] on acidic heathlands. On more neutral sandy grasslands, it co-occurs with [[knautia-arvensis]], [[succisa-pratensis]], and [[centaurea-cyanus]].
 
 Climate warming may be affecting the distribution of Jasione montana, with some evidence of northward range contraction in southern Europe. However, the species remains abundant across most of its historical range.
 
@@ -67,11 +67,11 @@ Jasione montana is rarely cultivated commercially but is occasionally included i
 
 The species is intolerant of rich, fertile soils and will be outcompeted by more vigorous perennials in nutrient-enriched conditions. This makes it suitable only for lean, sandy, or gravelly garden sites that mimic its native heathland habitats.
 
-Excessive nitrogen application promotes lush grass growth that shades out Jasione montana seedlings within one growing season. Even moderate fertilization regimes in adjacent garden areas can eliminate populations through nutrient drift.
+Excessive nitrogen application promotes lush grass growth that shades out Jasione montana seedlings within one [[extending-growing-season]]. Even moderate fertilization regimes in adjacent garden areas can eliminate populations through nutrient drift.
 
 Propagation is exclusively by seed, sown in autumn or early spring on the soil surface. Seeds require light for germination and should not be covered. Germination rates are moderate, and seedlings transplant poorly due to the taproot.
 
-Seed viability is relatively short (1–2 years under ambient storage conditions), so fresh seed should be sown promptly. Commercial seed is available from specialist wildflower suppliers but is not widely stocked by mainstream garden centers.
+Seed viability is relatively short (1–2 years under ambient [[spawn-storage-conditions]]), so fresh seed should be sown promptly. Commercial seed is available from specialist wildflower suppliers but is not widely stocked by mainstream [[solomon-garden-centers-seedling-traps]].
 
 In garden settings, Jasione montana is best used in wildflower meadows on acidic soils, rock gardens with ericaceous conditions, or wildlife borders designed to support pollinators. It self-seeds freely in suitable open sites.
 
@@ -88,34 +88,3 @@ Research has shown that Jasione montana flower heads support higher pollinator d
 A study in Dutch heathland reserves found that Jasione montana patches attracted 40% more hoverfly species than surrounding vegetation. This makes it a keystone nectar resource for syrphid fly populations, which are important aphid predators in agricultural landscapes.
 
 The species is a food plant for the larvae of several moth species, including the small elephant hawk-moth (Deilephila porcellus) and the lime-speck pug (Eupithecia centaureata). These moth larvae feed on the flower heads and developing seeds.
-
-In conservation terms, Jasione montana is not threatened at a European scale but has declined in parts of lowland England due to heathland loss and agricultural improvement. It benefits from conservation grazing that maintains open swards.
-
-The species is listed on the UK Biodiversity Action Plan priority species list for certain lowland heathland counties, where its decline serves as an indicator of heathland degradation and loss of open, disturbed microsites.
-
-The plant has no significant ethnobotanical or medicinal uses. It was historically used as a yellow dye source in some rural European communities, though it yields only a pale, fugitive color.
-
-## Garden Uses and Companion Planting
-
-Jasione montana is best suited to naturalistic and wildlife-friendly garden styles rather than formal border plantings. Its pale blue flower heads provide a soft, airy quality that complements other heathland and meadow wildflowers.
-
-Effective companions in acidic wildflower meadows include [[digitalis-purpurea]], [[solidago-virgaurea]], and [[knautia-arvensis]]. The rounded blue flower heads contrast well with the spires of foxgloves and the flat yellow plates of goldenrod.
-
-The species works well in gravel gardens and scree beds where lean, well-drained conditions naturally suppress competitive perennials. In such settings, it may self-seed and form persistent, if fluctuating, populations.
-
-It is not recommended for fertile, irrigated borders where it will be quickly overwhelmed by more vigorous neighbors. The species requires gardener restraint — minimal feeding, no mulching, and acceptance of its transient, self-seeding life cycle.
-
-Despite these limitations, Jasione montana rewards patient gardeners with months of ethereal blue flower heads that sway in the slightest breeze and hum with pollinator activity through the heat of summer.
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[knautia-arvensis]]
-- [[succisa-pratensis]]
-- [[centaurea-cyanus]]
-- [[lobelia-cardinalis]]
-- [[inula-helenium]]
-- [[solidago-virgaurea]]
-- [[symphytum-officinale]]
-- [[digitalis-purpurea]]

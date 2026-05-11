@@ -88,21 +88,3 @@ Originally developed as a research tool for mapping serotonin receptor pharmacol
 ## History
 
 - **Discovery:** Synthesized by Ralf Heim at the Free University of Berlin in 2003 as part of a research program investigating 5-HT₂A receptor pharmacology. The NBOMe series was designed to improve the metabolic stability and receptor selectivity of the parent 2C compounds.
-- **Research use:** Published in the pharmacological literature as a tool compound for studying 5-HT₂A receptor function and its role in consciousness, perception, and psychiatric disorders. [[neurochemical-probes-brain-imaging-pihkal]] studies using 25I-NBOMe radiolabeled derivatives helped map 5-HT₂A distribution in the human brain.
-- **Recreational emergence:** First detected on the recreational market around 2010–2011, initially sold online as "research chemicals" and later on blotter paper. By 2012–2013, it was widely available internationally.
-- **Deaths and toxicity:** First fatalities reported in 2012. Between 2012 and 2015, multiple deaths were attributed to 25I-NBOMe (and related NBOMe compounds), typically involving doses exceeding 1 mg, non-sublingual routes, or polysubstance use.
-- **Media attention:** High-profile cases (including the 2012 death of a teenager in North Dakota) brought NBOMe compounds to public attention and accelerated scheduling actions worldwide.
-
-## Related Compounds
-
-- **2C-I** — the parent phenethylamine (without the N-benzyl group); ~100× less potent at 5-HT₂A; active at 10–25 mg oral. Shares the 4-iodo-2,5-dimethoxy substitution pattern.
-- **25C-NBOMe** — 4-chloro analog; similar potency, slightly shorter duration (5–8 hours), often reported as more visual and less stimulating than 25I-NBOMe.
-- **25B-NBOMe** — 4-bromo analog; comparable potency, associated with significant toxicity. Multiple fatalities reported. Slightly longer duration than 25I.
-- **25D-NBOMe** — 2,5-dimethoxy unsubstituted analog; lower potency (~10× less than 25I), less studied, rarely encountered.
-- **25H-NBOMe** — unsubstituted phenyl analog; very low potency, essentially inactive at typical NBOMe doses, rarely encountered.
-- **25E-NBOMe** — 4-ethyl analog; moderate potency, less common.
-- **25N-NBOMe** — 4-ethylthio analog; active at slightly higher doses than 25I.
-- **LSD** — the most common misrepresentation target; chemically unrelated ([[25c-nbome]]
-
-- [[serotonin]]
-- [[set-and-setting]]

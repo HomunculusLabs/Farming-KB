@@ -3,6 +3,7 @@ title: "Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [gardening, mycelium]
@@ -87,9 +88,3 @@ the mycelial mat's ability to sequester and channel nutrients to its
 advancing tips.
 
 ## See Also
-
-- [[mycelium-running-stamets-mushrooms-as-medicine]]
-
-- [[mycelium-running-pest-control-with-fungi]] -- using fungi against insects
-- [[mycoremediation-basics]] -- decontaminating toxic waste
-- [[mycelium-running-symbiotic-fungi-relationships]] -- [[gadd-fungal-ecology-endophytes]]

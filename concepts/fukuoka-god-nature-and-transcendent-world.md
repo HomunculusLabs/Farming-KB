@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka God Nature and the Transcendent World
@@ -87,9 +88,3 @@ updated: 2026-04-18
 ## See Also
 
 - [[fukuoka-nature-god-transcendent-world]]
-
-- [[fukuoka-nature-god-limits-of-knowledge]]
-- [[fukuoka-do-nothing-farming-philosophy]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[fukuoka-natural-farming-method]]

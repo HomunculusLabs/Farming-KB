@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Mash DC, Kovera CA, Pablo J, et al. (2000). "Ibogaine: complex pharmacokinetics, concerns for safety, and preliminary efficacy measures." Annals of the New York Academy of Sciences, 914, 394-401.
   - Alper KR, Lotsof HS, Kaplan CD. (2001). "The ibogaine medical subculture." Journal of Ethnopharmacology, 76(2), 111-120.
-  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and Alcohol Dependence, 151, 189-194.
+  - Glue P, Winter J, Garbe K, et al. (2015). "Ascending single-dose, double-blind, placebo-controlled safety study of noribogaine in healthy volunteers." Drug and [[cannabis-for-alcohol-dependence]], 151, 189-194.
   - Baumann MH, Pablo JP, Ali SF, et al. (2001). "The neuropharmacology of ibogaine and its metabolite, noribogaine." Annals of the New York Academy of Sciences, 914, 374-387.
 ---
 
@@ -50,7 +50,7 @@ differ meaningfully from ibogaine:
 **Serotonergic system:**
 - 5-HT2A agonist (Ki ~500 nM) — contributes to psychedelic effects
 - 5-HT2C agonist (Ki ~300 nM)
-- Serotonin transporter (SERT) inhibitor (Ki ~300 nM) — reuptake
+- [[serotonin]] transporter (SERT) inhibitor (Ki ~300 nM) — reuptake
   inhibition comparable to ibogaine
 - 5-HT3 antagonist — may contribute to anti-nausea profile
 
@@ -79,7 +79,7 @@ half-life means noribogaine remains at pharmacologically active concentrations
 for days after a single ibogaine dose, which may underlie the sustained
 anti-addictive effects reported clinically.
 
-Noribogaine undergoes further hepatic metabolism via glucuronidation. The
+Noribogaine undergoes further hepatic metabolism via [[glucuronidation]]. The
 CYP2D6 poor metabolizer phenotype results in reduced conversion of ibogaine
 to noribogaine, which may affect therapeutic outcomes and toxicity profiles.
 
@@ -88,42 +88,3 @@ to noribogaine, which may affect therapeutic outcomes and toxicity profiles.
 Noribogaine alone produces subtle psychoactive effects at therapeutic
 doses, considerably less intense than ibogaine. Subjects describe mild
 euphoria, emotional openness, and dream-like mentation rather than the
-profound visionary state associated with ibogaine. At higher doses, effects
-include perceptual changes, introspective reflection, and reduced craving
-for addictive substances.
-
-The therapeutic profile centers on opioid dependence, where noribogaine's
-combination of mu-opioid agonism, serotonin reuptake inhibition, and NMDA
-antagonism is thought to interrupt addiction circuitry. Open-label studies
-and retrospective reports indicate significant reduction in drug craving
-and withdrawal symptoms lasting weeks to months after a single treatment
-session.
-
-## Legal Status
-
-Noribogaine is not individually scheduled in most jurisdictions but is
-generally treated as a controlled substance analogue of ibogaine. Ibogaine
-is classified as a Schedule I substance in the [[dmt-containing-plants-united-states-halpern]]. In countries
-where ibogaine is uncontrolled or available for medical use (Brazil, South
-Africa, New Zealand, Mexico), noribogaine status follows that of the parent
-compound. Research-grade noribogaine has been investigated in Phase I
-[[mushroom-cancer-clinical-trials-overview]] under regulatory approval in New Zealand.
-
-## History and Research
-
-Noribogaine was first characterized as a metabolite in the 1990s during
-early pharmacokinetic studies of ibogaine. Its identification as the
-primary long-acting metabolite reframed understanding of ibogaine's
-mechanism of action. Interest in noribogaine as a standalone therapeutic
-agent has grown since the 2000s, with clinical development programs
-exploring it as a potentially safer alternative to ibogaine, as it lacks
-ibogaine's cardiac arrhythmia risk (QT prolongation) while retaining
-anti-addictive pharmacology. DemeRx (now atai Life Sciences) has conducted
-clinical trials evaluating noribogaine for opioid use disorder.
-
-## See Also
-
-- [[ibogaine]] — Comprehensive ibogaine entity page
-- [[voacangine-entity]] — Related iboga alkaloid from Voacanga species
-- [[dimethyltryptamine]] — Tryptamine psychedelic with distinct pharmacology
-- noribogaine entity

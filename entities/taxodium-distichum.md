@@ -88,22 +88,3 @@ Cultivars include 'Monarch of Illinois' (selected for cold hardiness), 'Peve Min
 In China, bald cypress has been cultivated for over 1,000 years and is considered one of the most important introduced ornamental trees. It is commonly planted along waterways, in parks, and as a street tree in cities throughout central and southern China.
 
 Propagation is primarily from seed, requiring 30–90 days of cold stratification for germination. Cuttings from juvenile material root readily under mist. Container-grown seedlings establish more successfully than bare-root stock on wetland restoration sites.
-
-## See Also
-
-- [[taxodium-mucronatum]]
-
-- [[juniperus-communis]]
-- [[sequoia-sempervirens]]
-- [[thuja-occidentalis]]
-- [[larix-decidua]]
-- [[ganoderma-tsugae]]
-- [[trametes-versicolor-entity]]
-- [[juncus-effusus]]
-- [[eichhornia-crassipes]]
-- [[nymphaea-caerulea]]
-- [[sagittaria-latifolia]]
-- [[tsuga-heterophylla]]
-- [[betula-pendula]]
-- arctostaphylos-uva-ursi
-- [[vaccinium-macrocarpon]]

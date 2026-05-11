@@ -24,7 +24,7 @@ humid forests.
 
 The species is closely related to N. arcticum and N. expansible but
 differs in its smooth, glossy upper surface and preference for more
-oceanic climates. It is widely distributed across temperate regions of
+oceanic climates. It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of
 both hemispheres.
 
 Like other Nephroma species, N. laevigatum associates with Nostoc
@@ -65,8 +65,8 @@ particularly on moss-covered trunks in old-growth forests. It also occurs
 on mossy rocks and soil in ravines and stream valleys. Elevational range
 extends from sea level to approximately 1500 m.
 
-N. laevigatum is sensitive to acid rain and air pollution. It has
-declined significantly in central Europe and eastern North America but
+N. laevigatum is sensitive to acid rain and [[air-pollution-fungal-community-responses]]. It has
+declined significantly in central Europe and eastern [[guzman-psilocybin-mushrooms-north-america]] but
 remains relatively common in areas with clean air.
 
 ## Ecology and Symbiosis
@@ -75,57 +75,16 @@ Nephroma laevigatum is a bipartite lichen with Nostoc cyanobacteria as
 its sole photobiont. The cyanobacteria are housed in a well-defined
 photobiont layer within the medulla.
 
-Nitrogen fixation rates in Nephroma species are substantial, estimated at
+[[biological-nitrogen-fixation-agriculture]] rates in Nephroma species are substantial, estimated at
 2–10 kg N per hectare per year in forest stands with high Nephroma
 cover. This nitrogen contribution is ecologically important in otherwise
-nitrogen-limited forest ecosystems.
+nitrogen-limited [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
 The species provides habitat and moisture retention for diverse
 microarthropod communities. Its thallus shelters springtails, oribatid
-mites, and various lichenicolous fungi.
+mites, and various [[lichenicolous-fungi]].
 
 In [[mollison-designers-food-forest-succession-design]], N. laevigatum is typically a late-successional
 species requiring stable, humid conditions. It rarely colonizes disturbed
 or young secondary forests, making it a reliable indicator of forest
 continuity.
-
-## Chemistry and Secondary Metabolites
-
-Nephroma laevigatum contains nephromaric acid as its major secondary
-metabolite, along with smaller amounts of gyrophoric acid and
-tenuiorin. This chemistry is typical of the genus Nephroma.
-
-Spot tests yield: medulla K+ yellow to red (gyrophoric acid group), C+,
-PD+ orange to red. The upper cortex is K+ yellow. These reactions help
-separate N. laevigatum from morphologically similar species.
-
-N. arcticum contains primarily gyrophoric acid with traces of tenuiorin
-but lacks nephromaric acid. N. expansible has a similar chemistry but
-differs in its papery, more fragile thallus structure.
-
-The secondary metabolites of N. laevigatum have not been extensively
-studied for pharmacological activity. Their primary significance is in
-lichen taxonomy and chemotaxonomy.
-
-## Similar Species
-
-Nephroma laevigatum is most easily confused with N. arcticum, which has
-a similar size and growth form. N. arcticum has a duller, more matte
-upper surface and a more tomentose lower surface with more abundant
-rhizines.
-
-N. expansible is smaller, thinner, and more fragile, with a distinctly
-papery thallus texture. Its upper surface is often more grayish. N.
-laevigatum is larger, more leathery, and has a characteristically glossy
-upper surface.
-
-Peltigera species are generally larger and have a more prominent vein
-network on the lower surface. They also produce apothecia on the upper
-surface rather than the lower surface.
-
-## See Also
-
-- [[nephroma-expansible]]
-- [[peltigera-horizontalis]]
-- [[sticta-sylvatica]]
-- [[evernia-prunastri]]

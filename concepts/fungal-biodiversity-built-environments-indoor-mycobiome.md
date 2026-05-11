@@ -46,7 +46,7 @@ Xerophilic species of Wallemia and Eurotium thrive in dry environments such as
 stored food products and mattress dust.
 
 Bathrooms and kitchens, with elevated humidity, harbor more hydrophilic species
-including Aureobasidium pullulans, Exophiala species, and various black yeasts.
+including [[aureobasidium-pullulans]], Exophiala species, and various black yeasts.
 Bedrooms and living rooms tend to be dominated by xerophilic Penicillium and
 Wallemia species that tolerate lower water activity. Basements develop unique
 assemblages influenced by soil contact and limited air exchange.
@@ -54,14 +54,14 @@ assemblages influenced by soil contact and limited air exchange.
 ## Health Implications
 
 Indoor exposure to fungal spores and fragments is a major trigger of allergic
-rhinitis, asthma, and hypersensitivity pneumonitis. Alternaria alternata,
-Cladosporium herbarum, and [[gadd-aspergillus-fumigatus-glucan-virulence]] are among the most clinically
+rhinitis, asthma, and hypersensitivity pneumonitis. [[alternaria-alternata]],
+[[cladosporium-herbarum]], and [[gadd-aspergillus-fumigatus-glucan-virulence]] are among the most clinically
 significant indoor allergens. Exposure risk depends on spore concentrations,
 particle size, and individual sensitivity.
 
 Immunocompromised individuals are susceptible to invasive infections by
-Aspergillus fumigatus, Aspergillus flavus, and agents of mucormycosis that may
-proliferate in hospital environments. Stachybotrys chartarum and certain
+[[aspergillus-fumigatus]], Aspergillus flavus, and agents of mucormycosis that may
+proliferate in hospital environments. [[stachybotrys-chartarum]] and certain
 Penicillium species produce mycotoxins on damp [[natural-building-materials-guide]]. Dampness and
 mold exposure are consistently associated with respiratory symptoms.
 
@@ -85,24 +85,5 @@ fungal contamination of filters and ductwork.
 Indoor fungal communities fluctuate seasonally, tracking outdoor spore
 production cycles. Cladosporium peaks in summer and fall, while Penicillium and
 Aspergillus are more abundant in winter when heating systems circulate indoor
-air. In temperate climates, the outdoor-to-indoor fungal ratio can vary by an
+air. [[query-how-to-grow-and-use-oca-in-temperate-climates]], the outdoor-to-indoor fungal ratio can vary by an
 order of magnitude between summer and winter months.
-
-Different rooms within the same building support distinct fungal communities.
-These spatial patterns reflect differences in moisture availability, temperature,
-occupant use, and connectivity to outdoor air. Understanding room-level variation
-is important for targeted indoor air quality interventions.
-
-## The Unknown Indoor Mycobiome
-
-Metabarcoding surveys of indoor environments consistently reveal a substantial
-proportion of sequences that cannot be assigned to described species. Many of
-these dark taxa are Basidiomycota yeasts and filamentous Ascomycota that do not
-grow on standard culture media. The indoor environment represents an
-underappreciated reservoir of fungal biodiversity.
-
-## See Also
-
-- [[biodiversity-xerophilic-fungi-dry-environments]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[legume-nitrogen-fixation-and-green-manure]]

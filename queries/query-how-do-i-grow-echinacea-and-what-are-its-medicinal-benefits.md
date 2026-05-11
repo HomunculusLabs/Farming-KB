@@ -3,7 +3,8 @@ title: "How Do I Grow Echinacea and What Are Its Medicinal Benefits?"
 tags: [query, echinacea, medicinal-herbs, immune-health, perennials]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # How Do I Grow Echinacea and What Are Its Medicinal Benefits?
@@ -147,4 +148,3 @@ For a broader look at herbs that help the body manage stress and support immunit
 - [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]] Questions
 
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[query-how-to-grow-medicinal-herbs-at-home]]

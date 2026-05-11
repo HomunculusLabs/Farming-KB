@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [organic-gardening, plants]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 # Organic Greenhouse Management
@@ -87,22 +88,3 @@ Spring is the busiest time in the greenhouse. The main tasks are:
 - Basil with tomatoes (repels aphids, improves flavor)
 - Marigolds (Tagetes) to deter whitefly
 - Garlic near tomatoes to deter red spider mite
-
-## Growing in Containers
-
-Use soil-based compost rather than peat-based for containers that remain outside. Peat-based compost dries out very quickly and is difficult to rewet. You cannot rely on rainwater to water containers.
-
-### Soil-Based Compost Recipe
-
-Mix 7 parts loam, 3 parts coir, and 2 parts coarse gravel. To each 2 gallon (9 liter) bucketful, add 1 oz (30g) of garden lime and 5 oz (150g) of blood, fish, and bone meal. You can replace the coir with well-rotted compost, manure, worm-worked material, or leaf mold.
-
-### Acid Compost for Acid-Loving Plants
-
-Use a mixture of equal parts coir, pine bark, and sharp sand with fertilizer at the same rate. Alternatively, use a commercial ericaceous compost. Water acid-loving plants with rainwater, since most tap water contains lime.
-
-## Related Concepts
-
-- [[hamilton-perennial-flowers-organic]]
-- [[hamilton-pest-and-disease-control-organic]]
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[organic-greenhouse-growing]]

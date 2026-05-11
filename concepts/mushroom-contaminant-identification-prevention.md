@@ -1,5 +1,5 @@
 ---
-title: Mushroom Contaminant [[contaminant-identification-and-prevention]]
+title: Mushroom Contaminant Identification Prevention
 created: 2026-05-09
 tags: [mycology, cultivation, pf-tek, contamination, sterile-technique]
 date: 2026-05-09
@@ -88,62 +88,3 @@ substrate below, and disturbing the layer as little as possible is critical.
 ## Bacteria Dangers
 
 Bacterial contamination deserves special attention because of the health
-risks it poses to the cultivator. Unlike fungal contaminants, which are
-primarily a threat to the culture, bacteria in substrate jars can include
-pathogenic species that are harmful to humans. PF specifically warned that
-bacteria can be dangerous and instructed cultivators to maintain a safe
-distance from contaminated substrate, avoid inhaling it, and wash hands
-thoroughly after any contact. When cleaning out a bacteria-contaminated jar,
-extra precautions should be taken. The sour foul odor that emanates from
-bacteria-contaminated jars is usually detectable through the dry vermiculite
-layer within two days of inoculation, often accompanied by a complete failure
-of spores to germinate. The absence of germination combined with a bad smell
-is a reliable indicator of bacterial contamination.
-
-## Non-Germination of Spores
-
-Not every failure to see growth is caused by contamination. There are several
-reasons why spores might fail to germinate in an otherwise clean jar. The
-most common cause is that the spore solution was not inoculated deep enough
-into the jar. Instead of running down the side of the jar and reaching the
-nutritive substrate, the solution was absorbed by the non-nutritive top
-vermiculite layer. To prevent this, the syringe needle should be inserted
-so that its tip is below the dry vermiculite layer and the solution flows
-down along the side of the substrate cake. Another cause is inoculating jars
-that have not cooled sufficiently after sterilization, which kills the spores
-on contact. Jars must be cool to the touch before inoculation. Extremely
-rare causes include exposure of the syringe to killing heat during transit,
-such as overheated cargo holds or sun-baked mailboxes.
-
-## Inoculation Hygiene
-
-Proper sterile technique during inoculation is essential for preventing
-contamination. The syringe needle should be flamed with an alcohol flame
-before each use. An alcohol flame is preferred over a butane lighter because
-it burns clean without leaving soot residue. To produce an alcohol flame, a
-few drops of denatured alcohol are placed on the hollow bottom of an
-inverted tequila shot glass and ignited. The needle is heated in the blue
-flame for a few seconds to resterilize it. Some boiling water may spurt from
-the needle during flaming, but the spores within the syringe body remain
-safe. Between each hole inoculation, the syringe should be shaken to keep
-spores evenly distributed. After use, the needle guard is replaced and the
-syringe is stored in a dark cool place. The needle must be resterilized
-immediately before any subsequent use.
-
-## Diagnosis and Problem Solving
-
-When problems arise during cultivation, a systematic approach to diagnosis
-can identify the cause and guide corrections. Halted mycelial growth with no
-visible contamination typically indicates dried substrate, which can be
-remedied by increasing the water content of the substrate formula. Growth
-that proceeds normally then stops may indicate the same issue. The presence
-of colored growths at any stage indicates contamination from airborne mold
-spores, pointing to either insufficient sterilization or a barrier breach.
-A sour odor without visible growth indicates bacterial contamination. No
-growth at all with a clean jar suggests either dead spores from heat exposure
-or inoculation into the non-nutritive vermiculite layer. By keeping careful
-notes on formulas, sterilization times, and results, cultivators can
-systematically improve their technique and achieve consistently clean results
-with the [[dual-chambered-terrarium-fruiting]] setup.
-## See Also
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]

@@ -3,7 +3,7 @@ title: Village Design
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, site-design, community-finance]
+tags: [[permaculture]], site-design, community-finance]
 sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 ---
 # Village Design
@@ -88,62 +88,6 @@ Ability to catch, store, reticulate, and clean up own water supply Wood, wind, s
 
 ## Size of Villages
 
-- At 100 income-producing people, a significant financial institution can
-  be village-based
-- At 500, all people can know each other if social affairs are organised
-- At 2,000, theft and competitiveness become common; sects set up in
-  opposition
-- Start small at 30 adults, build to 200-300, proceed slowly to 500, then
-  "calve" into new villages
-
-The neighbourhood factor -- knowledge of each other's names -- is primary
-for survival in disaster.
-
-## Allotment Infrastructure
-
-Areas to reserve for future development:
-
-- School, seminar, workshop rooms, library
-- Food processing centre, cafe, [[emcdda-hallucinogenic-mushroom-online-retail-shops]] (including plant nursery
-  retail)
-Noisy/oily work: woodwork, metal-work, machine shop, vehicle service Dairy and [[faires-dairy-processing-cheese-and-butter]] centre Domestic livestock housing: chickens, goats, pigs, sheep, rabbits Methane generator, sewage, biomass conversion systems Glasshouses, commercial crop areas Camp area for casual visitors
-
-## Community Tools
-
-Essential shared equipment for the village:
-
-Tractor/slasher (fire control) Posthole borer (fencing) Trailer [[chisel-plough-soil-conditioning-mollison]]/soil conditioner Chipper (biomass and mulch provider) Tow truck (mulch and goods) Van (goods) Back-pack slasher (blackberry and brush)
-
-[[homestead-workshop-tools]]: drill press, lathe, radial-arm saw, welder, planer,
-router -- available on lease or time share.
-
-## Dwellings
-
-Village housing should include varying types:
-
-Family homes (2-5 bedrooms) Singles quarters (1-2 bedrooms) Elderly and hospital quarters Terrace housing where appropriate
-
-A mix provides much more for needs and age differences than traditional
-family homes. Every village could maintain one empty strata title for
-emergencies.
-
-## Trust Structures
-
-See [[permaculture-designers-manual-legal-structures]] for trust and legal
-frameworks appropriate to village development. Trust structures protect
-common assets, manage shared infrastructure, and ensure equitable
-decision-making processes among village members.
-
-## Food Self-Reliance Strategies
-
-A well-designed village integrates food production throughout its layout.
-Kitchen gardens, orchards, and small livestock areas are placed within
-easy walking distance of residences. Larger agricultural zones radiate
-outward, following [[permaculture-designers-manual-temperate-climate-design]]
-principles adapted to the local biome.
-
-Key strategies include:
-
 ## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
+- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]

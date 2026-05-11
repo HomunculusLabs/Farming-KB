@@ -88,24 +88,3 @@ repair enzymes. They detect far-red light (700-750nm) through phytochromes,
 which humans cannot perceive at all. This far-red sensitivity allows plants
 to detect shade from neighbouring vegetation, since canopy shade is
 enriched in far-red light relative to direct sunlight. Plants also
-integrate light signals over time in ways that humans cannot, measuring
-[[coleman-winter-day-length-and-persephone-months]] through phytochrome ratios to determine seasonal timing for
-flowering. A single leaf can perceive a flash of red light lasting only
-seconds during the night and use that information to regulate flowering
-across the entire organism through mobile signalling molecules.
-
-## The Philosophical Implications of Plant Vision
-
-The discovery that plants possess sophisticated, multi-wavelength light
-detection systems challenges philosophical assumptions about the uniqueness
-of animal perception. If vision is broadly defined as the ability to
-detect, discriminate, and respond to electromagnetic radiation in ways that
-provide adaptive information about the environment, then plants clearly
-possess a form of vision. [[what-a-plant-knows-plant-vision-and-light-perception]]
-- chamovitz rhodopsin to phytochrome human plant photoreception parallels
-- [[phytochrome-photoreception]]
-- [[plant-light-discrimination-beyond-human-vision]]
-
-## See Also
-
-- [[phycomyces-comparative-model-mushroom-tropism-sensory-biology]]

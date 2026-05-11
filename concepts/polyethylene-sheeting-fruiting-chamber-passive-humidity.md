@@ -1,6 +1,6 @@
 ---
-title: Polyethylene Sheeting Fruiting Chamber
-aliases: [polyethylene bin fruiting, simple mushroom fruiting chamber, stackable fruiting bin, passive humidity fruiting]
+title: Polyethylene Sheeting Fruiting Chamber Passive Humidity
+aliases: [[polyethylene-bin-fruiting-chamber-mushroom-cultivation]], simple [[mushroom-fruiting-chamber-design]], stackable fruiting bin, [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
 tags: [mycology, fruiting-chamber, cultivation, humidity, polyethylene, passive-humidity, psilocybe]
 sources:
   - guid-mhtml_file___e___textos__mycology__exotic_.md
@@ -72,10 +72,10 @@ Cold shocking is applied selectively based on species difficulty:
 | *P. cubensis* (Ecuador, etc.) | No | Easy-fruiting strains fruit without cold shock |
 | *P. mexicana* | Not beneficial | Does not respond to cold shock treatment |
 | *P. tampanensis* | Not beneficial | Does not respond to cold shock treatment |
-| *Panaeolus subbalteatus* | Not beneficial | Does not respond to cold shock treatment |
+| *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* | Not beneficial | Does not respond to cold shock treatment |
 | Harder-to-fruit strains | Yes (1 night in fridge) | Improves initiation rate |
 
-Cold shock is performed by placing cased trays in a refrigerator (approximately 4°C) for one night before transferring to the fruiting bin. This temperature drop can trigger fruiting initiation in recalcitrant strains.
+Cold shock is performed by placing cased trays in a refrigerator (approximately 4°C) for one night before transferring to the fruiting bin. This temperature drop can trigger [[fruiting-initiation]] in recalcitrant strains.
 
 ## Flush Expectations
 
@@ -88,40 +88,3 @@ Cold shock is performed by placing cased trays in a refrigerator (approximately 
 | *P. mexicana* flush pattern | One large flush + one small flush |
 
 *P. mexicana* tends to produce a single dominant flush followed by a much smaller second flush, while other species produce more consistent flush-to-flush yields.
-
-## Advantages Over Automated Systems
-
-1. **Simplicity** — No electrical components, no controllers, no sensors
-2. **Reliability** — Fewer points of failure; passive systems rarely malfunction
-3. **Cost** — Plastic bins and polyethylene sheeting cost very little
-4. **Space efficiency** — Stackable bins allow vertical use of growing space
-5. **Scalability** — Adding capacity is as simple as adding more bins
-6. **Low maintenance** — Daily misting is the only required task
-
-## Limitations
-
-1. **Manual monitoring** — No automated alerts for humidity or temperature deviations
-2. **Limited precision** — Environmental conditions are approximate, not controlled
-3. **Misting dependency** — Forgetting to mist for even a day can significantly impact yields
-4. **No CO₂ monitoring** — Gas exchange relies on passive ventilation holes only
-5. **Scale ceiling** — Very large operations (>20 bins) become labor-intensive to maintain manually
-
-## Comparison With Other Fruiting Approaches
-
-| System | Humidity Control | Automation | Cost | Skill Level |
-|--------|-----------------|------------|------|-------------|
-| Polyethylene bin | Passive (evaporative) | None | Very low | Beginner |
-| Shotgun fruiting chamber | Passive (perlite) | None | Low | Beginner |
-| Monotub | Passive (self-contained) | None | Low | Intermediate |
-| Martha tent | Active (humidifier) | Semi-auto | Moderate | Intermediate |
-| Greenhouse | Active (full climate) | Full auto | High | Advanced |
-
-The polyethylene bin system occupies the simplest end of the spectrum, making it ideal for small-scale cultivation and beginners who want reliable results without investment in equipment.
-
-## Related Concepts
-
-- [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]]
-- [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]
-- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
-- [[grass-seed-substrate-preparation-rye-grass-mycology]]
-- [[exotic-cultivation-flush-management-and-casing-hygiene]]

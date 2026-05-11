@@ -18,11 +18,11 @@ sources:
 
 ## Overview
 
-Rhus copallinum, commonly known as winged sumac, shining sumac, or flameleaf sumac, is a deciduous shrub in the family Anacardiaceae. It is native to eastern North America, occurring from Ontario south to Florida and west to Texas.
+Rhus copallinum, commonly known as winged sumac, shining sumac, or flameleaf sumac, is a deciduous shrub in the family Anacardiaceae. It is native to [[polypore-fungi-eastern-north-america]], occurring from Ontario south to Florida and west to Texas.
 
-The species is named for the winged rachis between its leaflets, a distinctive morphological feature that separates it from other North American sumacs. It is valued for its brilliant scarlet autumn foliage and persistent ornamental fruit clusters.
+The species is named for the winged rachis between its leaflets, a distinctive morphological feature that separates it from other [[growing-gourmet-north-american-reishi-species]] sumacs. It is valued for its brilliant scarlet autumn foliage and persistent ornamental fruit clusters.
 
-Winged sumac forms extensive thickets through clonal spreading, making it effective for erosion control on slopes and disturbed sites. It is an important species in early-successional plant communities across the southeastern United States.
+Winged sumac forms extensive thickets through clonal spreading, making it effective [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on slopes and disturbed sites. It is an important species in early-successional plant communities across the southeastern United States.
 
 The species spreads primarily through rhizomatous root systems that can extend several meters from the parent plant. A single individual may produce a thicket covering dozens of square meters over time.
 
@@ -48,7 +48,7 @@ The fruit is a small, spherical drupe 3 to 5 millimeters in diameter, covered wi
 
 ## Distribution and Habitat
 
-Rhus copallinum is widely distributed across eastern North America. Its range extends from southern Ontario and New York south through the Appalachian region to Florida, and west to eastern Texas and Oklahoma.
+Rhus copallinum is widely distributed across eastern North America. Its range extends from southern Ontario and New York south through the [[bolete-fungi-appalachian-region]] to Florida, and west to eastern Texas and Oklahoma.
 
 The species is most abundant in the southeastern United States, where it occurs in old fields, roadside thickets, woodland edges, and dry upland forests. It is less common in the northeastern portion of its range.
 
@@ -62,13 +62,13 @@ The species is fire-adapted and resprouts vigorously from the root crown after t
 
 ## Cultivation and Uses
 
-Rhus copallinum is cultivated as an ornamental shrub for its fall color and architectural form. It is planted in naturalistic landscapes, highway plantings, and native gardens.
+Rhus copallinum is cultivated as an [[hamilton-ornamental-shrub-care]] for its fall color and architectural form. It is planted in naturalistic landscapes, highway plantings, and native gardens.
 
 The species requires minimal maintenance once established. It tolerates drought, poor soils, and urban conditions, making it a low-input landscape choice.
 
 Sumac-ade, a tart beverage, is made by steeping the ripe fruit clusters in cold water. The drink has a flavor similar to lemonade and is rich in vitamin C and antioxidants.
 
-Native American peoples used the fruit for food, medicine, and dye production. The Cherokee used root bark tea as a remedy for dysentery and other digestive complaints.
+[[halpern-sacramental-peyote-and-native-american-church]] peoples used the fruit for food, medicine, and dye production. The Cherokee used root bark tea as a remedy for dysentery and other digestive complaints.
 
 The dried fruit clusters are sometimes used in decorative arrangements. Their persistent red color and structural form make them attractive through the winter months.
 
@@ -87,34 +87,3 @@ The flowers attract a diversity of pollinators, including native bees, butterfli
 Winged sumac thickets provide excellent cover for small mammals and ground-nesting birds. The dense, low canopy structure creates sheltered microhabitats within early-successional landscapes.
 
 The species serves as a nurse plant for establishing tree seedlings in open fields. The partial shade and wind protection provided by sumac thickets improves survival rates of oak, hickory, and pine seedlings.
-
-Cottontail rabbits and other small mammals use sumac thickets for year-round cover. The dense growth provides protection from predators and thermal insulation during winter.
-
-## Related Species
-
-Rhus copallinum is one of approximately 35 species in the genus Rhus, most of which are native to temperate and subtropical regions.
-
-Rhus typhina, staghorn sumac, is the most closely related North American species. It differs in having densely pubescent branches resembling deer antlers and larger, more open fruit panicles.
-
-Staghorn sumac has a more northern distribution and is taller, reaching 6 to 10 meters. Winged sumac is generally shorter and better suited to hot, dry conditions of the southeastern United States.
-
-Rhus glabra, smooth sumac, has a similar range but lacks the winged rachis. It occupies similar habitats and often hybridizes with winged sumac where ranges overlap.
-
-Toxicodendron species including poison ivy and poison oak were formerly classified in Rhus. They differ in producing urushiol, the resin responsible for contact dermatitis, which true sumacs do not produce.
-
-Cotinus coggygria, smoke tree, is a related ornamental species in Anacardiaceae. It is valued for its smoky inflorescences and is native to southern Europe and Asia.
-
-Pistacia vera, the pistachio, is an economically important member of the Anacardiaceae family. It demonstrates the agricultural significance of the family beyond ornamental and ecological uses.
-
-## See Also
-
-- [[rhus-typhina]]
-- [[rhus-glabra]]
-- [[toxicodendron-radicans]]
-- [[cotinus-coggygria]]
-- [[maclura-pomifera]]
-- [[gleditsia-triacanthos]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[populus-tremuloides]]
-- [[gymnocladus-dioicus]]

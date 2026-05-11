@@ -9,6 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Arya, P.S. et al. (2020). "Trichosanthes cucumerina: A review on phytochemistry and pharmacology." Journal of Ethnopharmacology, 260, 112872.
   - Rachkeeree, S. et al. (2018). "Nutritional and medicinal properties of snake gourd (Trichosanthes cucumerina)." Food Science and Nutrition, 6(1), 142-149.
   - Pandey, S. et al. (2019). "Cucurbitaceae: traditional uses, phytochemistry, and pharmacology." In: Medicinal Plants of South Asia, Elsevier.
@@ -86,31 +87,3 @@ Leaf extracts show antimicrobial activity against Gram-positive bacteria. Phytoc
 Trichosanthin, a ribosome-inactivating protein, has been investigated for antitumor and anti-HIV properties. Clinical interest in this protein has focused primarily on its mechanism of N-glycosidase activity against eukaryotic ribosomes.
 
 Immature fruits are highly perishable, with a shelf life of 3–5 days at ambient tropical temperatures. Pre-cooling and storage at 10–12°C with 85–90% relative humidity can extend shelf life to 10–14 days.
-
-For home preservation, sliced snake gourd can be sun-dried or pickled. Sun-dried slices retain much of their beta-carotene content and are reconstituted in curries during off-season months.
-
-The fruits are sensitive to chilling injury below 7°C, which manifests as surface pitting and discoloration. Wax coating and modified-atmosphere packaging have shown promise in reducing moisture loss and maintaining firmness during transport.
-
-## Ecological Role
-
-As a climbing vine, *Trichosanthes cucumerina* provides structural habitat complexity in agricultural landscapes. Its dense foliage offers shade and refuge for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including pollinators and predatory beetles.
-
-The nocturnal flowers are pollinated by hawkmoths (Sphingidae) and long-tongued bees, which are attracted to the sweet fragrance and white, fimbriate corolla.
-
-Flower anthesis typically occurs between 18:00 and 20:00, with peak nectar production coinciding with moth activity periods. Each flower remains open for a single night before wilting by morning.
-
-This pollination ecology supports nocturnal insect diversity in tropical agroecosystems.
-
-The species serves as a host plant for several Lepidoptera larvae, including cucumber moth (*Diaphania indica*). In intercropping systems, snake gourd is frequently grown with legumes or cereals, where the trellised growth habit minimizes competition for ground-level resources.
-
-## See Also
-
-- [[trichosanthes-kirilowii]]
-
-- [[coccinia-grandis]]
-- [[sechium-edule]]
-- [[cucumis-melo]]
-- [[abelmoschus-esculentus]]
-- [[ipomoea-aquatica]]
-- [[cucurbita-moschata]]
-- [[capsicum-annuum]]

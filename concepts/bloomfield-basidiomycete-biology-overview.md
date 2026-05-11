@@ -10,13 +10,13 @@ type: concept
 ---
 # Basidiomycete Biology Overview
 
-The Basidiomycota is one of the two major phyla of the kingdom Fungi,
+The Basidiomycota is one of the two major phyla of the [[fungal-taxonomy-and-kingdom-fungi]],
 comprising approximately 30,000 described species. Named for their
 characteristic spore-producing structure (the basidium), basidiomycetes
 include the familiar mushrooms, brackets, puffballs, stinkhorns, and the
 devastating rust and smut plant pathogens.
 
-In "Mr. Bloomfield's Orchard," Nicholas Money describes basidiomycetes as
+In "Mr. Bloomfield's Orchard," [[nicholas-money]] describes basidiomycetes as
 organisms whose "apparently ornamental figure is really a very conservative
 structure" — every feature of their form reflects millions of years of
 adaptive refinement.
@@ -31,7 +31,7 @@ Basidiomycetes are distinguished from other fungi by several features:
 - **Basidiospore**: The sexual spore of basidiomycetes, produced on the
   surface of the basidium (unlike ascomycete ascospores, which form inside a
   sac-like ascus). Each basidiospore is forcibly discharged by a surface
-  tension catapult mechanism.
+  tension [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]].
 - **Dolipore septum**: A specialized cell wall structure with a central pore
   surrounded by a barrel-shaped swelling, unique to basidiomycetes. This pore
   allows cytoplasmic streaming between cells while maintaining some
@@ -45,8 +45,8 @@ Basidiomycetes are distinguished from other fungi by several features:
 ### Agaricales (Gilled Mushrooms)
 
 The largest and most familiar order, including edible species (Agaricus
-bisporus, the button mushroom), hallucinogenic species (Psilocybe spp.), and
-deadly poisonous species (Amanita phalloides, the death cap). Gilled mushrooms
+bisporus, the [[growing-gourmet-button-mushroom-agaricus-cultivation]]), hallucinogenic species (Psilocybe spp.), and
+deadly poisonous species ([[amanita-phalloides]], the death cap). Gilled mushrooms
 produce spores on blade-like structures (gills or lamellae) on the underside
 of the cap. The gills maximize spore-producing surface area in a compact
 arrangement.
@@ -69,7 +69,7 @@ surface for better wind dispersal.
 ### Phallales (Stinkhorns)
 
 Phallic mushrooms that emerge from egg-like structures and produce
-foul-smelling spore masses attractive to flies and slugs. Phallus impudicus
+foul-smelling spore masses attractive to flies and slugs. [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 (the shameless penis) is the most notorious example. Their reproductive
 strategy depends on insect dispersal rather than wind.
 
@@ -87,64 +87,3 @@ production and Buller's drop formation in teliospore germination.
 Plant pathogens that produce dark, sooty spore masses, primarily attacking
 grasses including economically important cereal crops. Unlike rusts, smuts
 typically have simpler life cycles and do not require alternating hosts.
-
-## The Mycelial Phase
-
-The visible mushroom is only the reproductive structure. The bulk of the
-organism exists as mycelium — a network of threadlike hyphae that grows
-through soil, wood, and other substrates. Mycelium is the feeding phase of
-the life cycle, secreting extracellular enzymes to decompose organic matter
-and absorbing the resulting simple molecules.
-
-In many basidiomycetes, the mycelial network can grow to enormous size.
-Individuals of [[armillaria-ostoyae]] (honey mushroom) have been documented
-spanning over 2,384 acres, making them among the largest organisms on Earth
-by area.
-
-## Ecological Roles
-
-Basidiomycetes are central to terrestrial ecosystems as primary decomposers
-of lignin and cellulose, the two most abundant organic polymers on Earth.
-Their ecological roles include:
-
-- **Wood decomposition**: White-rot basidiomycetes are the primary organisms
-  capable of degrading lignin, a complex phenolic polymer that gives wood its
-  rigidity. Brown-rot fungi selectively remove cellulose and hemicellulose.
-- **Ectomycorrhizal symbiosis**: Many basidiomycetes form mutualistic
-  associations with tree roots, exchanging soil minerals for plant carbon.
-- **Pathogenesis**: Rusts, smuts, and other pathogenic basidiomycetes cause
-  devastating crop losses worldwide.
-- **Nutrient cycling**: Through their decomposer activities, basidiomycetes
-  release nitrogen, phosphorus, and other nutrients locked in dead organic
-  matter.
-
-## Economic Significance
-
-Basidiomycetes have profound economic importance, both positive and negative:
-
-### Edible and Cultivated Species
-
-The global mushroom cultivation industry is dominated by basidiomycetes.
-Agaricus bisporus alone accounts for billions of dollars in annual sales.
-Other commercially important species include Lentinula edodes (shiitake),
-Pleurotus ostreatus ([[oyster-mushroom]]), and Volvariella volvacea (paddy
-straw mushroom). See [[mushroom-cultivation]] for techniques.
-
-### Medicinal Compounds
-
-Many basidiomycetes produce bioactive compounds with therapeutic potential.
-Polysaccharides from Ganoderma lucidum (reishi) and Trametes versicolor
-(turkey tail) are studied for immunomodulatory properties. See also
-[[fungal-enzymatic-capabilities]] for industrial applications.
-
-### Plant Pathogens
-
-Rusts and smuts cause billions of dollars in annual crop losses. Stem rust
-of wheat, stripe rust, and smut of corn are among the most economically
-significant fungal diseases. Understanding basidiomycete pathology is
-critical for [[integrated-pest-management]] strategies.
-
-## Spore Discharge Mechanisms
-
-Basidiomycetes have evolved remarkable mechanisms for spore dispersal. The
-ballistospore discharge mechanism, studied extensively by A.H.R. Buller,

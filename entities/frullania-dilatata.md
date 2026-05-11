@@ -12,14 +12,14 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
-  - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae of North America." Columbia University Press.
+  - Schuster, R.M. (1966). "The Hepaticae and Anthocerotae [[berry-growing]]." Columbia University Press.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
   - Söderström, L. et al. (2016). "World checklist of hornworts and liverworts." PhytoKeys 59: 1-8.
 ---
 
 ## Overview
 
-**Frullania dilatata** is a leafy liverwort in the family Frullaniaceae, order Porellales. It is one of the most widespread and commonly encountered epiphytic liverworts in temperate regions worldwide.
+**Frullania dilatata** is a leafy liverwort in the family Frullaniaceae, order Porellales. It is one of the most widespread and commonly encountered epiphytic liverworts in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The species forms extensive reddish-brown to dark green mats on the bark of trees, rocks, and occasionally brickwork. Its distinctive lobule shape makes it readily identifiable in the field.
 
@@ -53,7 +53,7 @@ Frullania dilatata has a widespread distribution across Europe, Asia, North Afri
 
 In Europe, it is particularly abundant in western and southern regions with oceanic climates. It is less frequent in continental interiors and rare in the far north.
 
-In North America, the species occurs primarily in the Pacific Northwest, the Appalachian region, and along the Great Lakes. It is largely absent from the central plains and southeastern coastal plain.
+In North America, the species occurs primarily in the [[psilocybin-north-america-pacific-northwest]], the [[bolete-fungi-appalachian-region]], and along the Great Lakes. It is largely absent from the central plains and southeastern coastal plain.
 
 The species is a obligate or facultative epiphyte, growing primarily on the bark of deciduous and coniferous trees. Preferred host trees include oak, ash, elm, maple, and various conifers.
 
@@ -79,43 +79,12 @@ Vegetative reproduction occurs through stem fragmentation and the production of 
 
 The species also reproduces through the formation of adventitious branches at stem tips and nodes. These branches can break off and establish new colonies.
 
-Gemmae are not produced, unlike some other leafy liverwort genera. Vegetative propagation relies entirely on fragmentation and regeneration of existing tissues.
+Gemmae are not produced, unlike some other leafy liverwort genera. [[hamilton-vegetative-propagation]] relies entirely on fragmentation and regeneration of existing tissues.
 
 ## Ecological Role
 
 Frullania dilatata contributes to the epiphytic bryophyte communities of temperate forests. Its mats increase surface moisture retention on tree bark and create microhabitats for invertebrates.
 
-The species provides substrate and shelter for diverse microarthropods including oribatid mites, springtails, and nematodes. These organisms are important in nutrient cycling within the forest canopy.
+The species provides substrate and shelter for diverse microarthropods including oribatid mites, springtails, and nematodes. These organisms are important [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within the forest canopy.
 
 As an epiphyte, Frullania does not parasitize its host trees but obtains nutrients from atmospheric deposition, rainwater, and canopy throughfall. It plays a role in intercepting and retaining nutrients within the forest ecosystem.
-
-The species is sensitive to air pollution, particularly sulfur dioxide and nitrogen oxides. Its distribution has contracted in heavily industrialized regions of Europe over the past century.
-
-It serves as an indicator of forest continuity and air quality in ecological surveys. The presence of extensive Frullania mats is associated with older, less disturbed forest stands.
-
-## Uses and Significance
-
-Frullania species are known to cause contact dermatitis in sensitive individuals. Frullania dilatata contains sesquiterpene lactones that can trigger allergic skin reactions upon contact.
-
-Cases of occupational dermatitis have been reported among forestry workers, horticulturalists, and others who handle bark colonized by Frullania. The allergen is lipid-soluble and can persist on surfaces.
-
-The sesquiterpene lactones produced by Frullania have been investigated for their antimicrobial and anti-inflammatory properties. These compounds are of interest to pharmaceutical researchers.
-
-In biodiversity surveys, Frullania dilatata is used as an indicator species for evaluating epiphyte community health and forest habitat quality. Its sensitivity to air quality makes it a useful bioindicator.
-
-The genus Frullania has been the subject of extensive taxonomic revision using molecular phylogenetic methods. These studies have revealed significant cryptic diversity within morphologically similar species complexes.
-
-Recent phylogenetic analyses have shown that Frullania dilatata as currently circumscribed may represent a species complex containing several genetically distinct but morphologically similar lineages.
-
-## See Also
-
-- [[jungermannia-subulata]]
-- [[barbilophozia-barbata]]
-- [[hypnum-cupressiforme]]
-- [[sphagnum-palustre]]
-- [[bryum-argenteum]]
-- [[fontinalis-antipyretica]]
-- [[mnium-hornum]]
-- [[funaria-hygrometrica]]
-- [[dicranum-scoparium]]
-- [[syntrichia-ruralis]]

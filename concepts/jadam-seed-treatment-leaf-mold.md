@@ -88,14 +88,3 @@ If rice seedlings show disease in the seedbed:
 ## Root Settlement and High Yield
 
 High yield is determined at the early stage of plant growth. How well the root settles right after transplanting decides the yield. The [[ultra-low-cost-jadam-microorganism-solution-and-soil-foundation]] [[ultra-low-cost-foliar-application-methods]] -- it is a battle of numbers, and diversity + population wins.
-
-## See Also
-
-- [[jadam-microorganism-solution-jms]] -- culturing and applying leaf mold microbes
-- [[jadam-sulfur-application]] -- JS seed disinfection for rice
-
-## Related
-
-- [[hot-composting-method]]
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-fruit-tree-winter-pest-control]]

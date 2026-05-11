@@ -19,7 +19,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Features guided forays, cooking demonstrations, lectures, and workshops
 - Draws 1,000+ attendees from around the world
 - Known for eclectic programming including mycological art, music, and philosophy
-- Strong emphasis on psychedelic mushroom education and policy reform
+- Strong emphasis on [[archaeology-of-psychedelic-mushroom-use]] education and policy reform
 
 ### NAMA Annual Foray
 - North American Mycological Association (NAMA) hosts annual forays since 1960
@@ -72,10 +72,10 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 
 ### Identification Workshops
 - Hands-on practice with fresh specimens
-- Microscopic identification techniques
+- [[psilocybin-mushroom-microscopic-identification]] techniques
 - Spore print analysis
 - Key-based identification practice
-- Often paired with forays for fresh specimen collection
+- Often paired with forays for fresh [[fungal-specimen-collection-herbarium-management]]
 
 ### Scientific Conferences
 - Mycological Society of America (MSA) annual meeting
@@ -112,7 +112,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 - Local clubs host regular forays, meetings, and workshops
 - Membership benefits: newsletters, foray access, identification help
 - Many clubs maintain regional species databases and checklists
-- Volunteer citizen science programs for fungal biodiversity monitoring
+- Volunteer [[citizen-science-fungal-biodiversity-discovery]] programs for fungal biodiversity monitoring
 
 ### Joining a Club
 - Most clubs welcome beginners
@@ -133,7 +133,7 @@ Mushroom festivals, forays, and mycological events bring together amateur and pr
 ### Conservation and Stewardship
 - Foray data contributes to conservation assessments
 - Rare species records inform habitat protection decisions
-- Events promote sustainable foraging practices (see [[mushroom-foraging-safety-guide]])
+- Events promote sustainable [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]] (see [[mushroom-foraging-safety-guide]])
 - Public education about fungal ecology and forest health
 - Advocacy for forest conservation and mycological research funding
 

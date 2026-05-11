@@ -13,7 +13,7 @@ sources:
   - Fedorov A (1969). "Campanula L." In: Flora URSS, Vol. 24.
   - Tutin TG, et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Kirschner J (2004). "Campanula rapunculus." In: Euro+Med PlantBase.
-  - Couplan F (1998). The Encyclopedia of Edible Plants of North America. McGraw-Hill.
+  - Couplan F (1998). The Encyclopedia of Edible Plants [[berry-growing]]. McGraw-Hill.
   - Royal Botanic Gardens Kew (2024). "Campanula rapunculus." Plants of the World Online.
 ---
 
@@ -21,9 +21,9 @@ sources:
 
 Campanula rapunculus, commonly known as rampion bellflower or simply rampion, is a biennial herb in the family Campanulaceae. It is native to Europe and western Asia, where it grows in meadows, woodland edges, and calcareous grasslands.
 
-The species is notable as both an ornamental and a historically important root vegetable. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
+The species is notable as both an ornamental and a historically important [[fukuoka-western-root-vegetable-deficiency]]. Its white, fleshy taproot was widely cultivated in Europe from the Middle Ages through the 19th century for culinary use.
 
-The Brothers Grimm fairy tale "Rapunzel" takes its name from this plant, reflecting its cultural significance in Central European folklore and cuisine. The name "rapunculus" derives from the Latin diminutive of rapa (turnip), referencing the turnip-like root.
+The Brothers Grimm fairy tale "Rapunzel" takes its name from this plant, reflecting its [[amanita-muscaria]] in Central [[mandrake-mandragora-officinarum-in-european-folklore]] and cuisine. The name "rapunculus" derives from the Latin diminutive of rapa (turnip), referencing the turnip-like root.
 
 Campanula rapunculus is one of the few bellflower species specifically domesticated as a food crop. While most Campanula are valued purely as ornamentals, rampion occupies a dual role in horticultural and culinary traditions.
 
@@ -41,7 +41,7 @@ The calyx lobes are linear-lanceolate, approximately one-third the length of the
 
 Capsules are pendulous, ovoid, and dehisce by three basal pores. Seeds are small (0.5–0.8 mm), numerous, and light brown.
 
-Chromosome number is 2n = 20, consistent with many European Campanula species. The species is closely allied to Campanula persicifolia within the section Rapunculus.
+Chromosome number is 2n = 20, consistent with many European Campanula species. The species is closely allied to [[campanula-persicifolia]] within the section Rapunculus.
 
 ## Distribution and Habitat
 
@@ -71,7 +71,7 @@ Spacing of 10–15 cm between plants allows adequate root expansion. Regular wat
 
 ## Ecological Role
 
-The campanulate flowers are pollinated primarily by bees, especially bumblebees (Bombus spp.) and solitary bees. The exerted style and pendant flower orientation facilitate buzz pollination.
+The campanulate flowers are pollinated primarily by bees, especially bumblebees (Bombus spp.) and [[comparison-honey-bees-vs-native-solitary-bees]]. The exerted style and pendant flower orientation facilitate buzz pollination.
 
 Rampion serves as a larval host plant for several moth species in the family Noctuidae. The seed capsules provide food for granivorous birds and small mammals in late summer.
 
@@ -88,20 +88,3 @@ The fleshy taproot has a sweet, nutty flavor reminiscent of radish or turnip. It
 Young basal leaves are tender and mildly flavored, suitable for use in salads or as a pot herb. They are richest in vitamins when harvested in spring before flowering.
 
 Medicinally, the root was used in traditional European folk medicine as a demulcent and mild anti-inflammatory. It was also believed to have diuretic properties, though clinical evidence is lacking.
-
-The flowers are attractive in cottage garden settings and informal borders. The species has received the Royal Horticultural Society's Award of Garden Merit for ornamental value.
-
-In Italy, rampion roots are still occasionally found in specialty markets under the name "raponzo." The roots are traditionally boiled and dressed with olive oil and lemon.
-
-## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-trachelium]]
-- [[campanula-carpatica]]
-- [[campanula-glomerata]]
-- [[campanula-medium]]
-- [[campanula-poscharskyana]]
-- [[campanula-punctata]]
-- [[lobelia-cardinalis]]
-- [[codonopsis-pilosula]]

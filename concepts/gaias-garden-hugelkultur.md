@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 

@@ -18,16 +18,16 @@ type: concept
 
 # Inocybe and Allied Neurotropic Fungi: Taxonomy, Distribution, and Chemistry
 
-The genus Inocybe is one of the most surprising members of the neurotropic fungi. While [[ectomycorrhizal-fungi|ectomycorrhizal]] agarics in the family Cortinariaceae, and its neurotropic species represent an independent evolutionary origin of psilocybin biosynthesis outside the traditional Hymenogastraceae/Strophariaceae clade.
+The genus Inocybe is one of the most surprising members of the neurotropic fungi. While [[ectomycorrhizal-fungi]] agarics in the family Cortinariaceae, and its neurotropic species represent an independent evolutionary origin of psilocybin biosynthesis outside the traditional Hymenogastraceae/Strophariaceae clade.
 
 ## Overview of Neurotropic Inocybe Species
 
 The Guzmán, Allen, and Gartz (1998) [[oyster-mushroom-substrate-materials-worldwide-survey-comparison]] documented the following Inocybe species as containing psilocybin, baeocystin, or related indole compounds:
 
 - **[[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]** — the most extensively studied neurotropic Inocybe; first reported by Babos (1968) from Hungary, later documented extensively from Germany by Drewitz (1983), Hohmeyer (1984), and Gartz (1985a through 1996). This species contains psilocybin, psilocin, and baeocystin.
-- **Inocybe coelestium** — described by Kuyper (1986), documented from Austria, Germany, and the Netherlands. Contains psilocybin and related compounds.
-- **Inocybe corydalina** — widespread in Europe; occurs in two varieties: var. corydalina and var. erinaceomorpha. Both contain psilocybin.
-- **Inocybe haemacta** — documented from many European countries including Austria, Bulgaria, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Italy, Netherlands, Spain, Switzerland, and Yugoslavia. Also reported from Israel and Morocco.
+- **[[inocybe-coelestium]]** — described by Kuyper (1986), documented from Austria, Germany, and the Netherlands. Contains psilocybin and related compounds.
+- **[[inocybe-corydalina]]** — widespread in Europe; occurs in two varieties: var. corydalina and var. erinaceomorpha. Both contain psilocybin.
+- **[[inocybe-haemacta]]** — documented from many European countries including Austria, Bulgaria, Czechoslovakia, Denmark, France, Germany, Great Britain, Hungary, Italy, Netherlands, Spain, Switzerland, and Yugoslavia. Also reported from Israel and Morocco.
 - **Inocybe tricolor** — documented from Germany, Italy, and Israel.
 
 ## Geographic Distribution
@@ -36,7 +36,7 @@ The Guzmán, Allen, and Gartz (1998) [[oyster-mushroom-substrate-materials-world
 
 Europe is the center of documented neurotropic Inocybe diversity. The genus is well-represented across the continent, with particularly rich records from central Europe:
 
-**Germany** has the most comprehensive records, with all five confirmed neurotropic species documented. Inocybe aeruginascens is especially well-studied there, with Gartz contributing at least a dozen papers between 1985 and 1996 on its chemistry, distribution, and taxonomy. Kuyper's (1986) monographic treatment of European Inocybe species provided the taxonomic foundation for understanding psilocybin-containing taxa within the genus.
+**Germany** has the most comprehensive records, with all five confirmed neurotropic species documented. [[inocybe-aeruginascens]] is especially well-studied there, with Gartz contributing at least a dozen papers between 1985 and 1996 on its chemistry, distribution, and taxonomy. Kuyper's (1986) monographic treatment of European Inocybe species provided the taxonomic foundation for understanding psilocybin-containing taxa within the genus.
 
 **Czechoslovakia** records include I. corydalina var. corydalina and var. erinaceomorpha, I. haemacta, and I. tricolor. The Czech mycologist Sebek (1983, 1985) contributed important early documentation.
 
@@ -58,7 +58,7 @@ Europe is the center of documented neurotropic Inocybe diversity. The genus is w
 
 Neurotropic Inocybe species in Africa are documented primarily from North Africa:
 
-- **Morocco** — Inocybe calamistrata and I. corydalina are documented by Malençon and Bertault (1970)
+- **Morocco** — [[inocybe-calamistrata]] and I. corydalina are documented by Malençon and Bertault (1970)
 - **Algeria** — I. corydalina reported from Malençon and Bertault (1970)
 
 ### Asia
@@ -70,7 +70,7 @@ Neurotropic Inocybe species in Africa are documented primarily from North Africa
 
 - **Canada** — Inocybe aeruginascens and I. corydalina reported by Ammirati et al. (1985)
 - **Mexico** — Inocybe corydalina documented by Bandala et al. (1988)
-- **United States** — Inocybe aeruginascens and I. corydalina reported, primarily from the Pacific Northwest
+- **United States** — Inocybe aeruginascens and I. corydalina reported, primarily from the [[psilocybin-north-america-pacific-northwest]]
 
 ## Chemistry and Pharmacology
 
@@ -88,22 +88,3 @@ Inocybe aeruginascens deserves special attention as the most thoroughly document
 
 - First reported as neurotropic by Babos (1968) from Hungary
 - Extensively studied in Berlin, Germany by Drewitz (1983) and Hohmeyer (1984), who found it growing in parks and gardens on sandy soils
-- Gartz contributed at least ten publications on this species between 1985 and 1996, establishing its chemical profile, geographic range, and taxonomic relationships
-- It grows in association with various trees including Betula, Pinus, and Quercus
-- The species is relatively easy to recognize in the field by its greenish-blue tints on the stipe and gills when handled, though microscopic confirmation is still recommended
-- Its urban ecology (growing in city parks) is unusual among neurotropic fungi, which more typically occur in rural or forested settings
-
-## Knowledge Gaps and Future Research
-
-Several significant gaps exist in our understanding of neurotropic Inocybe species:
-
-1. **Tropical diversity**: Almost all documented neurotropic Inocybe species are from temperate regions, but the genus is diverse in tropical forests. Systematic chemical screening of tropical Inocybe species would likely reveal additional neurotropic taxa.
-2. **[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]**: No neurotropic Inocybe species have been documented from South America, Africa south of the Sahara, or Australasia, despite the genus being present in these regions.
-3. **Phylogenetic studies**: Modern molecular phylogenetics has not been applied to understanding the evolution of psilocybin biosynthesis in Inocybe. Whether the neurotropic species form a monophyletic clade or represent multiple independent origins within the genus remains unknown.
-4. **Toxicity**: The co-occurrence of psilocybin with other potentially toxic compounds in some Inocybe species needs further investigation to assess the [[cannabis-safety-profile-and-overdose-risk]] of consuming neurotropic Inocybe species.
-
-## See Also
-
-- [[neurotropic-fungi-classification]] -- classification of all neurotropic fungi
-- psilocybin-and-indole-alkaloid-chemistry-in-fungi -- indole [[ergot-alkaloid-chemistry-history]] in fungi
-- [[inocybe-aeruginascens-profile]] -- detailed I. aeruginascens species profile

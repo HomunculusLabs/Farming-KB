@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Morris, H. & Wallach, J. (2014). \"From PCP to MXE.\" Drug Science, Policy and Law, 1, 1–17."
   - "Wallach, J. et al. (2019). \"The pharmacology of dissociative anesthetics.\" In Pharmacology of LSD. Springer."
-  - "EMCDDA. (2024). EU Early Warning System: New psychoactive substances. emcdda.europa.eu."
+  - "EMCDDA. (2024). EU Early Warning System: New [[cultural-evolution-and-psychoactive-substances]]. emcdda.europa.eu."
   - "Cunningham, C.W. & Roth, B.L. (2016). \"Ketamine's mechanism of action.\" Current Opinion in Anaesthesiology, 29(4), 455–460."
   - "UNODC. (2023). World Drug Report. United Nations Office on Drugs and Crime."
 ---
@@ -55,7 +55,7 @@ This modification significantly alters binding affinity, duration, and metabolic
 |--------|----------|-----------------|
 | NMDA receptor (PCP site) | Antagonist | ~0.3× ketamine |
 | Sigma-1 receptor | Agonist | Low |
-| Dopamine/serotonin transporters | Inhibition | Weak |
+| Dopamine/[[serotonin]] transporters | Inhibition | Weak |
 
 ### Mechanism of Action
 
@@ -83,65 +83,8 @@ The absence of the chloro group reduces lipophilicity compared to ketamine, affe
 ### Subjective Effects Profile
 
 - **Dissociation:** 8/10 — Strong sense of separation from body and environment
-- **Analgesia:** 7/10 — Significant physical pain relief; body feels heavy and numb
+- **Analgesia:** 7/10 — Significant physical [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]; body feels heavy and numb
 - **Visual distortion:** 6/10 — Geometric patterns, color shifts, double vision; less colorful than ketamine
 - **Cognitive effects:** 5/10 — Confusion, difficulty with working memory, dreamlike thought patterns
 - **Mania/euphoria:** 4/10 — Less stimulating than ketamine; more sedating overall
 - **Music enhancement:** 7/10 — Appreciably altered auditory perception
-
-### Comparison to Ketamine
-
-DCK is generally less stimulating, more sedating, and longer-lasting than ketamine.
-Users report a "smoother" experience with less manic energy.
-Visual effects are less pronounced while dissociative depth is comparable at equivalent doses.
-
-## Dose Ranges
-
-| Route | Threshold | Light | Common | Strong | Heavy |
-|-------|-----------|-------|--------|--------|-------|
-| Oral | 50 mg | 75–100 mg | 100–175 mg | 175–250 mg | 250+ mg |
-| Insufflated | 15 mg | 20–40 mg | 40–75 mg | 75–125 mg | 125+ mg |
-
-⚠️ These ranges are from user reports and are not clinically validated. Individual sensitivity varies significantly. Tolerance develops rapidly.
-
-## Side Effects
-
-- **Common:** Nausea, dizziness, impaired coordination, slurred speech, blurred vision, confusion
-- **Frequent:** Urinary frequency with chronic use — consistent with arylcyclohexylamine class bladder toxicity
-- **Uncommon:** Severe anxiety, panic attacks, existential distress at peak
-- **⚠️ Bladder toxicity:** Repeated use associated with ulcerative cystitis; metabolites damage bladder epithelium
-- **⚠️ Tolerance/dependence:** Psychological dependence moderate; tolerance develops within days of daily use
-- **⚠️ Cognitive impairment:** Repeated heavy use associated with persistent memory and attention deficits
-
-## Legal Status
-
-- **International:** Not scheduled under the UN Convention on Psychotropic Substances
-- **[[dmt-containing-plants-united-states-halpern]]:** Not federally scheduled (2024); may fall under Federal Analog Act
-- **United Kingdom:** Class B under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016)
-- **Germany:** Controlled under NpSG (New Psychoactive Substances Act)
-- **Schedule varies** across EU member states; many have emergency scheduling
-
-## History
-
-- **First synthesis:** Described in 1960s during the Parke-Davis arylcyclohexylamine research program
-- **Recreational emergence:** Appeared on the online research chemical market ~2015
-- **Contemporary status:** Available through online vendors where unscheduled; purity varies significantly
-
-## Synthesis
-
-DCK is synthesized from cyclopentanone derivatives via Grignard reaction with phenylmagnesium bromide followed by reductive amination with methylamine.
-The absence of the chlorination step simplifies manufacturing, contributing to gray-market availability.
-## Related Compounds
-
-| Compound | Key Difference |
-|----------|---------------|
-| Ketamine | Contains 2-chloro phenyl group; shorter duration, more stimulating |
-| 2-Fluorodeschloroketamine (2F-DCK) | Fluorine at the 2-position; higher potency, longer duration |
-| 3-Methoxy-PCE ([[3-meo-pcp]]) | Piperidine ring; much longer duration, higher potency |
-| Methoxetamine (MXE) | N-Ethyl group + 3-methoxy; higher affinity, once popular, now controlled |
-| Eticyclidine (PCE) | Piperidine ring parent compound; highly potent, long-acting |
-
-## See Also
-
-- [[methoxetamine]] — Previously popular arylcyclohexylamine research chemical
-- [[dextromethorphan]] — Over-the-counter dissociative with NMDA antagonist properties

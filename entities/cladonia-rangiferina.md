@@ -88,12 +88,3 @@ Reindeer lichen produces usnic acid, a [[fungal-elicitors-enhanced-secondary-met
 Indigenous peoples across the circumpolar North have used reindeer lichen for various purposes. It has been used as emergency food (after boiling to remove bitter acids), as a wound dressing (due to usnic acid's [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]), and as a dye material. In Scandinavia, it was historically used in bread-making after extended leaching to remove bitterness.
 
 ## Cultivation and Sustainability
-
-Reindeer lichen grows extremely slowly, typically 3–5 mm per year. Recovery from disturbance (such as wildfire or overgrazing) can take decades. Sustainable harvesting requires careful management, as commercial collection for the floral and craft industries has depleted populations in some areas.
-
-## See Also
-- [[diploschistes-scruposus]]
-- [[solorina-crocea]]
-- [[lichen-symbiosis]]
-- [[cladonia-arbuscula]]
-- [[cladonia-stellaris]]

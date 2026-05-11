@@ -88,25 +88,3 @@ The International Lilac Society recognizes over 2,000 registered S. vulgaris cul
 'Charles Joly' (1896) produces deep magenta-pink, double flowers in large, upright panicles. It remains one of the most popular dark-flowered cultivars and is valued for its reliable bloom and strong fragrance.
 
 'President Lincoln' (1916) is a classic mid-blue cultivar widely regarded as the closest to true blue in the lilac color range. Its flowers are single, fragrant, and produced in large, pyramidal panicles.
-
-'Sensation' (1965) is distinctive for its bicolor flowers with deep purple edges and white centers. It is one of the few consistently bicolor cultivars and is among the most recognized lilac selections.
-
-'Katherine Havemeyer' (1922) produces large panicles of lavender-pink, double flowers with exceptional fragrance. It is considered one of the finest double-flowered lilacs and performs reliably across a wide climatic range.
-
-'Mme. Lemoine' (1890) is a pure white, double-flowered cultivar with a [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. It is the most widely planted white lilac and serves as a parent of numerous later hybrids.
-
-## See Also
-
-- [[syringa-oblata]]
-
-- [[jasminum-officinale]]
-- [[forsythia-suspensa]]
-- [[wisteria-floribunda]]
-- [[lonicera-japonica]]
-- [[uncinula-necator]]
-- [[coffea-arabica]]
-- [[ceratocystis-fimbriata]]
-- [[glycine-max]]
-- [[juglans-regia]]
-- [[prunus-dulcis]]
-- [[ficus-carica]]

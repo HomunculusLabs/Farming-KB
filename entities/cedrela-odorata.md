@@ -14,7 +14,7 @@ sources:
   - Pennington, T.D. & Sarukhán, J. (1968). "Arboles Tropicales de México." FAO/INIF.
   - Styles, B.T. & Khosla, P.K. (1976). "Cedrela: a revision." Kew Bulletin, 31(3), 339-405.
   - Marín, E.A. & Barajas, M.G. (1996). "Cedrela odorata: Useful Trees of Tropical America." CATIE Technical Series.
-  - Newton, A.C. et al. (1993). "Genetic variation in Cedrela odorata." Forest Ecology and Management, 62(1-4), 73-84.
+  - Newton, A.C. et al. (1993). "Genetic variation in Cedrela odorata." Forest [[nematode-management]], 62(1-4), 73-84.
 created: 2026-05-07
 ---
 
@@ -24,7 +24,7 @@ created: 2026-05-07
 
 It is one of the most economically important timber species in the Neotropics, valued for its aromatic, rot-resistant wood.
 
-The species ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America and the Caribbean.
+The species ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 Cedrela odorata wood is the traditional material for cigar boxes, humidors, and classical guitar construction.
 
@@ -47,7 +47,7 @@ The species is listed as Vulnerable on the IUCN Red List due to overexploitation
 
 **Growth habit:** Large deciduous tree, 20–40 m tall, with a straight, cylindrical trunk 60–100 cm diameter at breast height.
 
-The trunk is often buttressed at the base, particularly in mature trees growing in lowland tropical forests.
+The trunk is often buttressed at the base, particularly in mature trees growing in lowland [[fungal-biodiversity-tropical-forests]].
 
 **Bark:** Dark grey-brown, deeply fissured in mature trees, exfoliating in irregular plates, with a characteristic spicy aroma when cut.
 
@@ -65,7 +65,7 @@ Seeds are light brown with a papery wing, 1.5–2 cm long, and are wind-disperse
 
 ## Distribution and Habitat
 
-Cedrela odorata has a natural range extending from southern Mexico (Veracruz, Oaxaca) through Central America to northern Argentina and southern Brazil.
+Cedrela odorata has a natural range extending from southern Mexico (Veracruz, Oaxaca) through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] to northern Argentina and southern Brazil.
 
 It also occurs naturally on Caribbean islands including Cuba, Jamaica, Hispaniola, and Puerto Rico.
 
@@ -88,50 +88,3 @@ Heartwood is pinkish-brown to reddish-brown, often with a distinctive cedar-like
 The wood is straight-grained with a medium to coarse texture, easy to work with hand and machine tools.
 
 Its natural resistance to decay, termites, and wood-boring insects makes it exceptionally durable for outdoor and marine applications.
-
-Major uses include cigar boxes and humidors, interior paneling, furniture, boat building, and musical instrument construction.
-
-The species has been commercially plantation-grown in several tropical countries, though plantation-grown wood tends to be less durable than old-growth timber.
-
-Overexploitation of natural populations has led to significant supply constraints and increased plantation establishment since the 1990s.
-
-## Ecological Role and Permaculture Applications
-
-In natural forests, Cedrela odorata provides canopy cover, shade, and habitat for a variety of birds, epiphytes, and climbing plants.
-
-The seeds are an important food source for parrots, toucans, and other frugivorous birds during the dry season.
-
-In agroforestry systems, Cedrela is planted as a shade tree for coffee, cacao, and cardamom, providing filtered shade that improves understory crop quality.
-
-Its fast growth rate (1.5–3 m/year in plantations) makes it effective for rapid canopy establishment in succession-based reforestation.
-
-The species is compatible with nitrogen-fixing companion trees such as Inga spp. and Gliricidia sepium in diversified tropical agroforests.
-
-Fallen leaves contribute to mulch and soil [[hamilton-composting-and-organic-matter-management]], improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling in mixed plantings.
-
-The aromatic wood's [[cannabis-disease-pest-resistance-breeding-clarke]] reduces the need for chemical treatments in constructed applications.
-
-## Cultivation
-
-Propagation is primarily from seed, with viability maintained for 6–12 months when stored cool and dry.
-
-Seedlings are typically raised in nursery beds for 3–4 months before field planting at 2–4 m spacing in timber plantations.
-
-Initial growth is rapid, with trees reaching 10–15 m in height within 5–8 years under favorable conditions.
-
-Pruning is essential in the first 3–5 years to encourage straight form and clear bole development.
-
-Rotation lengths for timber production are typically 20–30 years, depending on site quality and management intensity.
-
-The species is susceptible to the shoot borer (Hypsipyla grandella), which attacks terminal shoots and can severely deform young trees.
-
-Mixed-species plantations with diverse canopies show reduced Hypsipyla damage compared to monocultures.
-
-## See Also
-
-- [[tabebuia-avellanedae]]
-- [[leucaena-leucocephala]]
-- [[moringa-oleifera]]
-- [[ganoderma-lucidum]]
-- permaculture
-- [[agroforestry]]

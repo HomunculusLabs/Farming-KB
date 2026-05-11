@@ -88,32 +88,3 @@ nutritional value is evidenced by animals that eat little else.
 In old-growth Pinaceae forests of the Pacific Northwestern
 [[dmt-containing-plants-united-states-halpern]], a remarkable food web links trees, sequestrate
 fungi, northern flying squirrels, and northern spotted owls.
-
-The trees require [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] for mineral nutrition.
-The fungi need trees for energy and squirrels for spore
-dispersal. Squirrels need trees for habitat and fungi for
-nutrition. Owls need squirrels for food and trees for nesting
-and hunting. Owls also serve as long-distance vectors of spores.
-
-## Limitations to Study
-
-Sequestrate fungi are difficult to study because most fruit
-hypogeously. In compacted soil with little humus, they may
-emerge or raise a hump, providing visual clues. Forest soil,
-however, generally provides no visual indication of presence.
-Holes left by animals that have excavated sequestrate fungi
-can indicate colony location. Raking in the vicinity of an
-animal dig often reveals additional specimens.
-
-Fruiting varies by season and geographic area. In areas with
-pronounced spring and autumn [[azurescens-fruiting-seasons-and-conditions]], the species
-generally differ between seasons. At low elevations in the
-Pacific Northwest, sequestrate Ascomycetes are more abundant
-in spring, and Basidiomycetes more abundant in autumn. At
-higher elevations, the season is confined to a few summer
-months.
-## Related Topics
-
-- [[biodiversity-fungi-temperate-boreal-forests]]
-- biodiversity-fungi-soil-ecosystems
-- biodiversity-fungi-tropical-rainforests

@@ -88,29 +88,3 @@ The dry vermiculite top layer is a key innovation of the PF TEK:
   glovebox or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] in many cases
 - The barrier should be loose, not packed, and level with or
   slightly below the jar rim
-
-## Common Problems and Solutions
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| Substrate too wet | Too much water | Add more vermiculite |
-| Substrate too dry | Too little water | Add water sparingly |
-| Slow colonization | Coarse BRF or vermiculite | Use finer ingredients |
-| Contamination | Barrier too thin | Increase dry layer depth |
-| Compacted substrate | Packed too firmly | Load loosely, tap to settle |
-
-## Scaling the Formula
-
-For larger jars or bulk preparation:
-
-- Maintain the 1:2:1 BRF:vermiculite:water ratio by volume
-- A standard 1-pound bag of BRF makes approximately 10 half-pint
-  jars
-- Large bags of vermiculite are far more economical per jar
-- Pre-mix dry ingredients in bulk, then add water per batch to
-  avoid moisture loss
-
-## See Also
-
-- [[mushroom-potency-harvest-age]] - [[cannabis-harvest-timing-visual-cues]]
-- [[pf-tek-psilocybin-dosage-reference]] - Dosage from PF grows

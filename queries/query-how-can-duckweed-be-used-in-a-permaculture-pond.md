@@ -6,6 +6,7 @@ date: 2026-05-02
 updated: 2026-05-02
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 

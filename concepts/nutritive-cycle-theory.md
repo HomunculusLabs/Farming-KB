@@ -147,4 +147,3 @@ Apply 15 days and 2 days before harvest.
 | BRV | — | 1:200-500 | — |
 | Seawater | — | — | 1:30 |
 | IMO | Soil drench | Soil drench | Soil drench |
-

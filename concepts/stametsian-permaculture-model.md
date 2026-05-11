@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993), Chapter 1
 type: concept
 created: 2026-04-28
@@ -21,13 +22,13 @@ created: 2026-04-28
 
 ## Overview
 
-The Stametsian permaculture model is a philosophy and methodology for growing mushrooms that integrates cultivation with the natural environment. Rather than isolating mushroom production from the surrounding ecosystem, this approach embeds it within a framework of ecological stewardship, species diversity, and sustainable resource use. Developed by Paul Stamets over decades of experimentation, the model draws heavily from the principles of permaculture design as articulated by Bill Mollison and others, adapted specifically for the unique biology and ecology of fungi.
+The Stametsian permaculture model is a philosophy and methodology for growing mushrooms that integrates cultivation with the natural environment. Rather than isolating mushroom production from the surrounding ecosystem, this approach embeds it within a framework of ecological stewardship, species diversity, and sustainable resource use. Developed by Paul Stamets over decades of experimentation, the model draws heavily from the principles of permaculture design as articulated by Bill Mollison and others, adapted specifically for the unique [[epiphyte-biology-and-ecology]] of fungi.
 
 ## Core Philosophy
 
-The central tenet of the Stametsian model is that mushroom cultivation and environmental conservation are not merely compatible but mutually reinforcing. Mushrooms play critical ecological roles as decomposers, soil builders, disease regulators, and networkers that connect plants and other organisms. By cultivating mushrooms in ways that honor and enhance these ecological functions, the cultivator simultaneously produces food and medicine while improving the health of the surrounding ecosystem.
+The central tenet of the Stametsian model is that [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] environmental conservation are not merely compatible but mutually reinforcing. Mushrooms play critical ecological roles as decomposers, soil builders, disease regulators, and networkers that connect plants and other organisms. By cultivating mushrooms in ways that honor and enhance these [[fungal-melanin-biosynthesis-ecological-functions]], the cultivator simultaneously produces food and medicine while improving the health of the surrounding ecosystem.
 
-This philosophy stands in contrast to conventional industrial mushroom cultivation, which typically involves growing a single species in a highly controlled, sterilized indoor environment using processed, energy-intensive substrates. While indoor cultivation has its place, the Stametsian model argues that the greatest potential for sustainable mushroom production lies in working with nature rather than against it.
+This philosophy stands in contrast to conventional industrial mushroom cultivation, which typically involves growing a single species in a highly controlled, sterilized indoor environment using processed, energy-intensive substrates. While indoor cultivation has its place, the Stametsian model argues that the greatest potential for [[sustainable-mushroom-cultivation]] production lies in working with nature rather than against it.
 
 ## The Multi-Species Approach
 
@@ -42,7 +43,7 @@ The practical benefits of multi-species cultivation include:
 
 ## Integration with Forest Ecosystems
 
-The Stametsian model treats the forest not as a source of raw materials to be extracted but as a living partner in the cultivation enterprise. Healthy forests provide the substrate (dead wood, leaf litter, agricultural residues), the microclimate (shade, humidity, temperature regulation), and the biological community (beneficial bacteria, insects, other fungi) that support mushroom growth.
+The Stametsian model treats the forest not as a source of raw materials to be extracted but as a living partner in the cultivation enterprise. Healthy forests provide the substrate (dead wood, leaf litter, agricultural residues), the microclimate (shade, humidity, [[blesching-cannabis-fever-temperature-regulation]]), and the biological community (beneficial bacteria, insects, other fungi) that support mushroom growth.
 
 In return, mushroom cultivation contributes to forest health by:
 
@@ -63,7 +64,7 @@ A mushroom garden designed according to the Stametsian model incorporates severa
 
 ### Canopy Layer
 
-The overstory trees provide shade, wind protection, and leaf litter. Selecting a diverse mix of tree species creates a varied substrate environment that supports a wider range of mushroom species. Fast-growing trees like alder and poplar provide a renewable supply of fresh wood for inoculation, while mature hardwoods like oak and maple create the long-term substrate reservoir that supports perennial mushroom colonies.
+The overstory trees provide shade, wind protection, and leaf litter. Selecting a diverse mix of tree species creates a varied [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] that supports a wider range of mushroom species. Fast-growing trees like alder and poplar provide a renewable supply of fresh wood for inoculation, while mature hardwoods like oak and maple create the long-term substrate reservoir that supports perennial mushroom colonies.
 
 ### Ground Layer
 
@@ -86,10 +87,3 @@ This long-term perspective is both a strength and a challenge. It is a strength 
 The ultimate vision is a landscape where mushroom cultivation is seamlessly woven into the fabric of the natural environment, producing food, medicine, and ecological services in a sustainable and mutually beneficial partnership with the forest.
 
 ## See Also
-
-- growing-gourmet-natural-culture-myco-landscaping
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-bioremediation-mycofiltration]]
-- [[decomposition]]
-- [[building-soil]]
-- [[soil-food-web]]

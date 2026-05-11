@@ -1,5 +1,5 @@
 ---
-title: "dmt-phenomenology-and-tryptamine-hypercontinuum and the Invisible Landscape"
+title: Tryptamine Hypercontinuum And Invisible Landscape
 source: "mckenna_t-tryptamines_consciousness.md"
 tags: [mckenna, tryptamine, hypercontinuum, dimensions, consciousness, dmt]
 created: 2026-05-08
@@ -13,7 +13,7 @@ created: 2026-05-08
 
 This invisible landscape, as he described it, is not metaphorical but phenomenologically real: it presents itself to the experiencer as an actual place with its own geography, inhabitants, and physical laws.
 
-The concept draws on McKenna's extensive personal experience with DMT, psilocybin, and other tryptamines, as well as on the reports of indigenous shamans and independent Western researchers.
+The concept draws on McKenna's extensive personal experience with DMT, [[psilocybin]], and other tryptamines, as well as on the reports of indigenous shamans and independent Western researchers.
 
 The hypercontinuum is perhaps McKenna's most radical ontological claim: that there exist dimensions of reality accessible through chemistry that are as real and as informationally rich as the physical world.
 
@@ -33,7 +33,7 @@ At high doses, particularly with DMT, the experiencer is fully immersed in the h
 
 The continuum is not linear but multidimensional: different tryptamines and different combinations of [[set-and-setting]] can produce qualitatively different spaces within the same general range.
 
-The [[psilocybin-mushroom]] experience, the ayahuasca experience, and the smoked DMT experience are described as accessing different regions of the same underlying continuum.
+The [[psilocybin-mushroom]] experience, the [[ayahuasca]] experience, and the smoked [[extraterrestrial-contact-and-dmt-experience]] are described as accessing different regions of the same underlying continuum.
 
 ## The Physics of the Other
 
@@ -57,7 +57,7 @@ McKenna describes these entities as "self-transforming [[dmt-machine-elves]]"—
 
 The entities exhibit purposeful behavior: they appear to communicate, to teach, and to manipulate the phenomenological environment in ways that suggest intelligence and agency.
 
-The entity encounters are not fleeting glimpses but sustained interactions lasting minutes in subjective time, during which information is exchanged.
+The [[dmt-entity-encounters-and-the-logos]] are not fleeting glimpses but sustained interactions lasting minutes in subjective time, during which information is exchanged.
 
 The entities are described as "trailing veils of proto-Gothic cathedrals" and as emitting "sounds like these little machines" that McKenna interprets as a form of language.
 
@@ -88,38 +88,3 @@ The landscape is invisible not because it is distant or hidden but because the h
 DMT and other tryptamines function as a kind of perceptual technology—a means of extending the range of human perception into domains that are normally inaccessible.
 
 The metaphor of the invisible landscape also suggests that the hypercontinuum has a geography—it is not a uniform space but a varied terrain with distinct regions, landmarks, and features.
-
-Experienced psychonauts report developing a kind of cartography of the hypercontinuum, learning to navigate its spaces and recognize its landmarks through repeated exposure.
-
-## Relationship to Shamanic Cosmology
-
-The concept of the tryptamine hypercontinuum maps remarkably well onto indigenous shamanic cosmologies from around the world.
-
-Shamans in the Amazon, Siberia, Mesoamerica, and elsewhere describe spirit worlds that share many of the features McKenna attributes to the hypercontinuum: they are real places accessed through specific techniques, they contain intelligent entities, and they convey information.
-
-The consistency between McKenna's descriptions and indigenous accounts is particularly striking given that McKenna's experiences occurred independently of any shamanic tradition.
-
-The mapping suggests that the hypercontinuum is not a modern invention but a perennial feature of human experience that has been recognized and explored by cultures worldwide.
-
-The difference between McKenna's account and indigenous shamanic accounts is primarily methodological: shamans typically access the space through ritual, diet, and plant preparations, while McKenna emphasizes direct chemical access.
-
-Both approaches, however, appear to converge on the same underlying reality, suggesting that the hypercontinuum is a genuine feature of the cosmos rather than a cultural artifact.
-
-## Implications for Science and Philosophy
-
-The tryptamine hypercontinuum, if taken seriously as a phenomenological and possibly ontological reality, has profound implications for both science and philosophy.
-
-For science, it suggests that the empirical method may need to be expanded to include systematic first-person investigation of non-ordinary [[mckenna-food-gods-designer-states-of-consciousness]].
-
-For philosophy, it challenges the materialist assumption that consciousness is entirely generated by brain activity and that all reality is physical in the narrow sense.
-
-McKenna argues that the hypercontinuum is as real and as worthy of investigation as any phenomenon studied by conventional science, and that the failure to investigate it represents a failure of intellectual courage.
-
-The concept invites a new kind of science—one that combines the rigor of empirical investigation with the openness to anomalous experience that characterized the early modern period.
-
-Whether or not one accepts McKenna's ontological claims, the phenomenology of the tryptamine hypercontinuum demands explanation, and no existing framework adequately accounts for it.
-
-## See Also
-- [[mckenna-tryptamines-logos-consciousness]]
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-- [[tryptamine-hypercontinuum]]

@@ -77,3 +77,20 @@ Drugs that inhibit CYP2D6 increase psilocin exposure:
 
 - **SSRIs**: Chronic SSRI treatment downregulates 5-HT2A receptors and may attenuate psilocybin's subjective effects. Some clinicians recommend discontinuing SSRIs 2–4 weeks before [[lentinan-clinical-research]] and forensic settings
 - **Hair**: Psilocin incorporation into hair is minimal due to the drug's high water solubility and short half-life. Hair testing is not a reliable detection method for psilocybin use
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[blesching-cannabis-pharmacokinetics-and-bioavailability]]
+- [[psilocybin-mushroom-evolution]]
+- [[oral-polysaccharide-bioavailability]]
+- [[analytical-methods-psilocybin-psilocin-quantification]]
+- [[psilocybin-psilocin-chemistry]]

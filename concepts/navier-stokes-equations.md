@@ -2,7 +2,7 @@
 title: "Navier-Stokes Equations"
 created: 2026-04-28
 updated: 2026-05-06
-aliases: [Navier Stokes, fluid dynamics equations, NS equations]
+aliases: [[navier-stokes-equations-fluid-dynamics]], [[computational-fluid-dynamics]] equations, NS equations]
 tags: [physics, fluid-dynamics, engineering, partial-differential-equations]
 related: [reynolds-number-and-flow-regimes, [[heat-transfer-mechanisms]], [[laws-of-thermodynamics]]
 type: concept
@@ -58,7 +58,7 @@ Each term in the momentum equation has a distinct physical role. The unsteady ac
 convective acceleration ρ(u·∇)u represents nonlinear momentum transport by the flow itself — the sole source of nonlinearity, responsible for boundary
 layer separation, vortex shedding, and turbulence. The pressure gradient −∇p drives fluid from high to low pressure. The viscous diffusion μ∇²u
 represents molecular friction diffusing momentum, smoothing velocity gradients; it dominates at low Reynolds numbers and is mathematically analogous
-to heat conduction. Body forces ρf include gravity, Lorentz forces in magnetohydrodynamics, Coriolis forces in rotating frames, and buoyancy via the
+to [[fouriers-law-heat-conduction]]. Body forces ρf include gravity, Lorentz forces in magnetohydrodynamics, Coriolis forces in rotating frames, and buoyancy via the
 Boussinesq approximation.
 
 ## Boundary Conditions
@@ -76,7 +76,7 @@ Non-dimensionalizing the Navier-Stokes equations reveals key similarity paramete
 the single most important parameter in fluid mechanics: low Re → laminar, high Re → turbulent, with critical Re ~2300 for pipe flow (Reynolds, 1883).
 The Mach number Ma = U/c governs compressibility: incompressible for Ma < 0.3, supersonic for Ma > 1, hypersonic for Ma > 5. The Froude number Fr =
 U/√(gL) governs free-surface flows (ships, open channels). The Strouhal number St = fL/U characterizes oscillatory phenomena — vortex shedding occurs
-at St ≈ 0.2 for cylinders. The Weber number We = ρU²L/σ controls surface tension effects (droplet breakup, inkjet printing). The Prandtl number Pr =
+at St ≈ 0.2 for cylinders. The Weber number We = ρU²L/σ controls [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]] effects (droplet breakup, inkjet printing). The Prandtl number Pr =
 μcₚ/k governs relative thickness of velocity and thermal boundary layers.
 
 ## Exact Analytical Solutions
@@ -88,24 +88,3 @@ Q = πR⁴Δp/(8μL) — the fourth-power law, fundamental to piping design and 
 
 Stokes flow (Re << 1) neglects inertia entirely, yielding the linear system μ∇²u = ∇p − ρf with Stokes' drag law F_D = 6πμRU for a sphere —
 fundamental to microfluidics, particle settling, and biological flows (flagella, cilia). Hiemenz stagnation point flow (1911) reduces Navier-Stokes to
-the ODE f''' + ff'' − f'² + 1 = 0. Taylor-Green and Burgers vortices provide additional exact solutions for testing turbulence models.
-
-## Turbulence and the Closure Problem
-
-Reynolds averaging (u = ū + u') introduces the Reynolds stress tensor τ^R_ij = −ρ<u'_iu'_j>, creating six additional unknowns with no equations — the
-fundamental closure problem (Reynolds, 1895). Computational approaches form a hierarchy: RANS models all turbulence using models like mixing length
-(Prandtl, 1925), k-ε (Launder-Spalding, 1974), and k-ω SST (Menter, 1994) — cheapest but cannot capture unsteady structures. LES resolves large eddies
-while modeling sub-grid scales (Smagorinsky 1963, dynamic model of Germano et al. 1991). DNS resolves all scales to the Kolmogorov microscale η =
-(ν³/ε)^(1/4), requiring ~Re^(9/4) grid points in 3D — prohibitive for engineering Re. Hybrid RANS-LES methods like DES (Spalart, 1997) combine
-approaches. Kolmogorov's 1941 theory predicts E(k) ~ k^(−5/3) in the inertial subrange.
-
-## Computational Methods
-
-The finite volume method (FVM) dominates industrial CFD, enforcing conservation on unstructured grids (ANSYS Fluent, STAR-CCM+, OpenFOAM) with
-SIMPLE/PISO pressure-velocity coupling. The finite difference method (FDM) uses Taylor series on structured grids for high-order accuracy (WENO,
-compact schemes). Spectral methods expand solutions in global basis functions (Fourier, Chebyshev) with exponential convergence — the gold standard
-for DNS. The [[navier-stokes-equations-fluid-dynamics]]
-
-- [[fungal-growth-dynamics]]
-
-- [[phase-transitions-and-critical-phenomena]]

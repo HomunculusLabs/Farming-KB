@@ -6,15 +6,15 @@ tags:
   - myrtaceae
   - superfruit
   - vitamin-c
-  - permaculture
+  - [[permaculture]]
   - amazonian
   - medicinal-plant
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McVaugh, R. (1963). "Tropical American Myrtaceae: Myrciaria and Allied
+  - McVaugh, R. (1963). "[[psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998]] Myrtaceae: Myrciaria and Allied
     Genera." Fieldiana: Botany 29(5): 145-172.
-  - Justi, K.C. et al. (2000). "dighton-fungal-nutritional-composition-animal-diets and Vitamin C
+  - Justi, K.C. et al. (2000). "[[dighton-fungal-nutritional-composition-animal-diets]] and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
   - Langguth, H.F. et al. (2015). "Camu-Camu (Myrciaria dubia)." Fruits 70(4).
   - Akter, M.S. et al. (2011). "Camu-Camu: Composition and Health Benefits."
@@ -88,59 +88,3 @@ Camu camu is most notable for its extraordinary vitamin C content:
 - **Vitamin C:** 1,800–2,800 mg/100g fresh weight (highest of any
   known fruit)
 - **Anthocyanins:** 50–200 mg/100g, primarily cyanidin-3-glucoside
-- **Flavonoids:** Quercetin, kaempferol, and myricetin derivatives
-- **Ellagic acid:** Significant concentrations with antioxidant and
-  anti-inflammatory properties
-- **Carotenoids:** β-carotene and lutein in moderate amounts
-- **Other nutrients:** Potassium, iron, calcium, phosphorus, and
-  B-complex vitamins in smaller quantities
-
-Vitamin C content varies with harvest timing, ripeness, and growing
-conditions. Fruits at peak ripeness from sunny locations have the
-highest concentrations.
-
-## Bioactive Compounds and Health Effects
-
-The health-promoting properties of camu camu extend beyond vitamin C:
-
-- **Anti-inflammatory activity:** Ellagic acid and flavonoids
-  inhibit NF-κB and COX-2 inflammatory pathways.
-- **Antioxidant capacity:** ORAC values among the highest measured
-  for any fruit, from the synergistic combination of vitamin C,
-  anthocyanins, and ellagitannins.
-- **Antidiabetic potential:** In animal studies, camu camu extract
-  improved glucose tolerance and reduced [[cannabis-metabolic-syndrome-research]] markers,
-  with effects exceeding equivalent vitamin C alone.
-- **[[cancer-immune-modulation-mechanisms]]:** Vitamin C at these concentrations supports
-  neutrophil function, collagen synthesis, and adaptive immunity.
-
-Clinical trials show improvements in [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and inflammatory
-biomarkers with regular consumption.
-
-## Cultivation and Permaculture
-
-Propagation is typically by seed; cuttings and air layering are used for
-clonal reproduction of superior selections.
-
-- **Spacing:** 3–5 m between plants in orchard settings
-- **Time to fruiting:** 3–4 years from seed; 2 years from cuttings
-- **Annual yield:** 8–12 kg per mature tree
-- **Harvest season:** November–March (wet season fruiting)
-- **Climate:** Cold-sensitive; limited to USDA zones 10–12
-
-In permaculture systems, camu camu serves multiple functions:
-
-- **Food forest understory:** Tolerates partial shade when young,
-  producing under a canopy of larger fruit trees.
-- **Riparian stabilizer:** Useful for stream bank restoration and
-  [[permplant-willows-salix-erosion-control-fodder]] in tropical waterlogged soils.
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:** Leaf litter contributes organic matter to
-  floodplain soil systems.
-- **Economic output:** High-value fruit provides income for Amazonian
-  communities without requiring deforestation.
-## See Also
-
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
-- [[morus-alba]]
-[[psidium-guajava]]
-permaculture entity

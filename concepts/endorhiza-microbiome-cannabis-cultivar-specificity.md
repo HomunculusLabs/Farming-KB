@@ -1,5 +1,5 @@
 ---
-title: Endorhiza Microbiome Cannabis [[cannabis-microbiome-cultivar-specificity]]
+title: Endorhiza Microbiome Cannabis Cultivar Specificity
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiome, cannabis, endorhiza, endophytes, cultivar, plant-biology]
 created: 2026-05-09
@@ -88,33 +88,3 @@ The cultivar-specificity of the cannabis endorhiza has several practical implica
 3. **Living soil approaches**: The finding that endorhiza communities are soil-derived (supporting the two-tier model) validates the principle that healthy, biodiverse soils provide the raw material from which plants select beneficial endophytes. Building soil biology through composting, mulching, and minimal disturbance should support more robust endorhiza communities.
 
 4. **Chemotype-microbiome interactions**: The question of whether endorhiza communities influence cannabinoid and terpene production remains open. If specific endophytes modulate plant secondary metabolism, then microbiome management could become a tool for optimizing chemical profiles.
-
-5. **Clone consistency**: Since cannabis is predominantly propagated clonally, the endorhiza community is effectively transmitted from mother to clone. This vertical transmission means that once a desirable microbiome is established, it can be maintained across generations through careful clone management. Conversely, a suboptimal microbiome established in a stressed mother plant may be perpetuated through subsequent cloning cycles, potentially contributing to the gradual decline in vigor that some growers observe over many generations of cloning from the same genetic line.
-
-## Cannabinoid Data Considerations
-
-Cannabinoid profiles were measured for buds from a subset of plants (three White Widow, one Maui Wowie) by Delta-9 Technologies. While the sample size was too small for robust correlation analysis between cannabinoid content and endorhiza community structure, this preliminary data opens an important avenue for future research. The interaction between endophytes and plant secondary metabolism is well-documented in other systems — endophytes of medicinal plants can modulate alkaloid production, and root-associated bacteria have been shown to influence terpene synthesis in aromatic herbs.
-
-A particularly interesting hypothesis is that the endorhiza community might influence the relative proportions of THC, CBD, and their precursor cannabinoids. The biosynthetic pathway for cannabinoids involves olivetolic acid and geranyl pyrophosphate as precursors, and the availability of these compounds could theoretically be modulated by microbial activity. Furthermore, some soil bacteria produce enzymes that can degrade or transform plant secondary metabolites, potentially altering the final cannabinoid profile of harvested material.
-
-## Comparison with Other Plant Systems
-
-The degree of cultivar-specificity observed in cannabis is consistent with findings from other crop species. In barley, different cultivars support distinct root endophyte communities when grown in the same soil, and similar patterns have been reported in maize, wheat, and tomato. However, cannabis presents a unique case because of its extraordinarily diverse secondary metabolite profile — the plant produces over 500 known compounds including more than 100 cannabinoids and approximately 200 terpenes.
-
-This chemical richness may drive particularly strong Tier 2 selection by creating a highly specialized root interior environment. Just as the human gut microbiome is shaped by our diet, the cannabis endorhiza may be shaped by the plant's own chemical output, with different cultivars — producing different ratios and profiles of secondary metabolites — selecting for different microbial assemblages. This creates a positive feedback loop: the plant's genetics determine its chemical profile, which shapes its microbiome, which in turn may influence the plant's growth, health, and chemical production. Breaking this feedback loop — for example, by growing a cultivar in sterile media — could reveal the relative contributions of host genetics versus microbial community to plant phenotype, though such experiments are technically challenging and may not reflect real-world growing conditions.
-
-## Sampling Timing Effects
-
-The two experiments sampled at different developmental stages relative to harvest. Experiment 1 collected samples eight weeks after bud harvest, while Experiment 2 sampled two weeks before harvest. Despite this difference, both experiments detected significant cultivar effects in the endorhiza, suggesting that cultivar-specificity is a robust feature that persists across growth stages. However, the absolute composition of endorhiza communities likely shifts with phenology, as root exudate profiles change during vegetative growth, flowering, and senescence.
-
-Future studies employing longitudinal sampling across the full cannabis life cycle — from seedling through vegetative growth, flowering, and harvest — would provide valuable insight into how endorhiza communities develop and whether critical windows exist for microbial establishment that could be targeted by inoculation strategies. The practical benefit of such knowledge would be clear: if specific developmental windows exist when the endorhiza is most receptive to colonization, growers could time their probiotic applications to maximize establishment of beneficial organisms, much like pediatricians recommend specific windows for administering vaccines to maximize immune response.
-
-## See Also
-
-- [[two-tier-selection-model-plant-microbiome]]
-- [[bacterial-vs-fungal-soil-dynamics]]
-- cultivar specific endophytes plant genotype
-- methylotrophic bacteria plant root associations
-- [[cannabis-cultivar-effects-soil-microbiome]]
-- [[human-vs-plant-photoreceptor-systems-comparison]]
-- glossolalia psychedelic states

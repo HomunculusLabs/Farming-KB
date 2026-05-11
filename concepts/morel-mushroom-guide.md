@@ -7,11 +7,11 @@ tags: [mushrooms, fungi, mycology, foraging, species-profiles, ecology, species,
 sources: []
 ---
 
-# More [[medicinal-mushroom-guide]] de
+# Morel Mushroom Guide
 
 ## Overview
 
-Morel mushrooms (genus Morchella) are among the most prized w [[palmer-edible-mushrooms-north-america]] ooms [[hallucinogenic-plants-of-the-world]] orld. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] [[duggar-mushroom-culinary-preparation-and-cooking]] king instructions, and [[fungal-spore-print-guide]] for identification aids.
+Morel mushrooms (genus Morchella) are among the most prized wild edible mushrooms in the world. Their distinctive honeycomb-like caps, meaty texture, and rich, earthy flavor make them the target of dedicated foraging expeditions each spring. Morels are also among the most commercially valuable wild mushrooms, with prices ranging from $30 to $80+ per pound fresh. See [[mushroom-cooking-techniques]] for [[duggar-mushroom-culinary-preparation-and-cooking]] instructions, and [[fungal-spore-print-guide]] for identification aids.
 
 ## Species
 
@@ -19,8 +19,8 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 ### Yellow Morels (Morchella esculenta clade)
 
-- **Morchella esculenta**: Classic yellow [[polypore-fungi-eastern-north-america]] h America and Europe
-- **Morchella americana**: Common yell [[huckleberries-and-wild-berries-of-north-america]] h America
+- **Morchella esculenta**: Classic yellow morel of [[polypore-fungi-eastern-north-america]] and Europe
+- **Morchella americana**: Common yellow morel of North America
 - Cap color: Yellow to tan to brownish
 - Pits and ridges irregularly arranged
 - Habitat: Hardwood forests, especially ash, tulip poplar, dying elms, old apple orchards
@@ -30,7 +30,7 @@ The Morchella genus was significantly revised in 2012 using molecular phylogenet
 
 - **Morchella elata**: Black morel of Europe and western North America
 - **Morchella sextelata**: Western North America
-- **Morchella importuna**: Urban/western landscapes
+- **[[morchella-importuna]]**: Urban/western landscapes
 - Cap color: Dark gray to black when young, becoming tan with age
 - Pits and ridges more vertically arranged than yellow morels
 - Habitat: Conifer forests (especially fire-affected areas), disturbed ground
@@ -95,7 +95,7 @@ True morels have these key features:
 
 ### False Morels (Gyromitra and Verpa)
 
-**Gyromitra esculenta** (false morel, beefsteak mushroom):
+**[[gyromitra-esculenta]]** (false morel, beefsteak mushroom):
 - Cap is wrinkled and brain-like, not pitted
 - Cap hangs free from the stem like a skirt (not attached at base)
 - When cut lengthwise, the interior has chambered, cottony filling (not hollow)
@@ -145,6 +145,6 @@ Morel cultivation has been pursued for over 100 years with limited commercial su
 - Indoor cultivation remains inconsistent and expensive
 - The morel life cycle is not fully understood — it may involve a sexually incompatible mating system
 - sclerotia (hardened mycelial masses) appear to be important in the life cycle
-- Soil conditions, microbial associates, and environmental triggers are all poorly characterized
+- Soil conditions, microbial associates, [[mushroom-fruiting-biology-light-tropisms-and-environmental-triggers]] are all poorly characterized
 - Several companies sell "morel grow kits" but results are highly variable
 - Outdoor cultivation in prepared beds is the most promising approach

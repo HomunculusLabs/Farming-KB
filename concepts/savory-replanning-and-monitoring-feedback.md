@@ -88,39 +88,3 @@ If the bottom line does not work after financial planning, the manager must
 replan immediately from the beginning and continue until the profit picture
 meets expectations. This may require multiple replanning sessions. Modern
 computers have made this far more efficient, but Savory cautions that the first
-plan should always be initiated on paper so the manager understands exactly
-what part the computer is playing, since it only crunches numbers and does not
-think.
-
-## The Role of Biological Planning
-
-The biological planning procedure, adapted from military planning techniques
-at the Royal Military Academy at Sandhurst, provides the structured method for
-both initial planning and replanning. It uses an aide memoire, a memory aid
-that gives a sequence for making decisions while accounting for the effect of
-one decision on another.
-
-A main benefit of planning according to such a tested procedure is peace of
-mind. One can concentrate fully on one step at a time without worrying about
-something that might come first or get left out. This ability to concentrate
-bears fruit particularly in emergencies when panic and loss of focus can
-destroy a manager. Savory notes that the vast majority of research projects
-conducted to study his methods ignored the heart of the matter, this planning
-and replanning process, and instead set up short-duration grazing rotations
-involving no biological planning at all.
-
-## Replanning as a Discipline
-
-Savory draws a direct parallel between agriculture and military operations.
-Just as a general would consider a brigade commander irresponsible for failing
-to plan because the enemy's actions are unpredictable, a land manager who
-fails to plan because weather and markets are unpredictable is equally
-negligent. Economic reality, like war, culls farmers and ranchers who do not
-plan. The worse and more unpredictable events become, the more thorough the
-planning must be.
-
-## See Also
-
-- [[savory-flexibility-in-management]]
-- [[savory-livestock-grazing-planning]]
-- [[savory-land-monitoring]]

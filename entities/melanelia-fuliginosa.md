@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Melanelia fuliginosa** is a common foliose lichen in the family Parmeliaceae, widely distributed across temperate regions of the Northern Hemisphere. It forms dark brown to nearly black rosettes on rock and bark surfaces in a variety of habitats.
+**Melanelia fuliginosa** is a common foliose lichen in the family Parmeliaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It forms dark brown to nearly black rosettes on rock and bark surfaces in a variety of habitats.
 
 The species was long known as *Parmelia fuliginosa* before being transferred to the segregate genus Melanelia by Theodore Esslinger in 1978. It is one of the most frequently encountered melanized foliose lichens in Europe and North America.
 
@@ -55,15 +55,15 @@ The species shows a preference for bark with moderate to high pH and reasonable 
 
 It occurs from lowland to montane elevations, reaching approximately 1,500 meters in the Alps and other European mountain ranges. In Scandinavia, it extends north to the Arctic Circle in coastal oceanic areas.
 
-The species tolerates moderate levels of atmospheric pollution and can persist in suburban and semi-urban environments. It is considered an intermediate bioindicator species, more sensitive than Xanthoria parietina but more tolerant than many Usnea species.
+The species tolerates moderate levels of atmospheric pollution and can persist in suburban and semi-urban environments. It is considered an intermediate bioindicator species, more sensitive than [[xanthoria-parietina]] but more tolerant than many Usnea species.
 
-In North America, M. fuliginosa ranges from Newfoundland to the Great Lakes region and south through the Appalachian Mountains. It is less common in the Pacific Northwest but occurs on coastal outcrops from northern California to British Columbia.
+In North America, M. fuliginosa ranges from Newfoundland to the Great Lakes region and south through the Appalachian Mountains. It is less common in the [[psilocybin-north-america-pacific-northwest]] but occurs on coastal outcrops from northern California to British Columbia.
 
 Asian populations are documented from Japan, Korea, and mountainous regions of China. The species is less thoroughly collected in Asia, and its full range may be underestimated.
 
 ## Chemistry and Bioactive Compounds
 
-The cortex of Melanelia fuliginosa contains atranorin as the primary secondary metabolite. The medulla typically contains stictic acid, constictic acid, or norstictic acid depending on the chemotype.
+The cortex of Melanelia fuliginosa contains atranorin as the primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. The medulla typically contains stictic acid, constictic acid, or norstictic acid depending on the chemotype.
 
 Several chemotypes have been recognized within M. fuliginosa based on medullary chemistry. The stictic acid chemotype is the most widespread, while the norstictic acid chemotype is more common in oceanic populations.
 
@@ -83,32 +83,8 @@ Melanelia fuliginosa contributes to the biodiversity of epiphytic and saxicolous
 
 The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through the fixation of atmospheric nitrogen and the accumulation of mineral nutrients. Its thallus retains moisture that benefits surrounding cryptogamic communities including mosses and liverworts.
 
-Lichen-associated microfauna found on M. fuliginosa include tardigrades, nematodes, and various protozoan species. These communities contribute to decomposition processes and nutrient mineralization within the lichen microhabitat.
+Lichen-associated microfauna found on M. fuliginosa include tardigrades, nematodes, and various protozoan species. These communities contribute to [[fungal-decomposition-processes]] and nutrient mineralization within the lichen microhabitat.
 
 As an intermediate bioindicator species, M. fuliginosa provides valuable information about air quality and forest health. Its presence, abundance, and morphological condition are used in standardized lichen biomonitoring protocols throughout Europe.
 
-The species plays a role in primary succession on rock surfaces, facilitating the establishment of mosses and vascular plants. It is among the earlier colonizers of fresh stone and concrete surfaces in urban and rural settings.
-
-Melanelia fuliginosa often forms mixed thalli with other foliose species on well-developed bark communities. Its presence indicates relatively stable environmental conditions with moderate [[ph-and-nutrient-availability-garden-soils]] and light levels.
-
-## Uses and Significance
-
-Melanelia fuliginosa has no significant economic or traditional uses. It is not used in dyeing, medicine, or food preparation in any well-documented cultural tradition.
-
-Historically, the dark brown melanin pigments could theoretically serve as a dye source. However, the species has never been documented as a regular dye lichen in any European folk tradition.
-
-The species is of taxonomic importance as a representative of the brown Parmeliae group within Parmeliaceae. Esslinger's revision of this group, including M. fuliginosa as a key species, was a landmark study in lichen systematics.
-
-In ecological research, M. fuliginosa serves as a standard reference species for comparative studies of lichen communities. Its wide distribution and consistent morphology make it a reliable species for monitoring long-term environmental change.
-
-Molecular studies have used M. fuliginosa to investigate population genetics and phylogeography of widespread lichen fungi. These studies have revealed significant genetic structure between European and [[growing-gourmet-north-american-reishi-species]] populations.
-
-## See Also
-
-- [[parmelia-sulcata]]
-- [[physcia-aipolia]]
-- [[evernia-prunastri]]
-- [[usnea-barbata]]
-- [[anaptychia-ciliaris]]
-- [[usnea-florida]]
-- [[xanthoria-elegans]]
+The species plays a role in [[dighton-fungi-volcanic-glacier-primary-succession]] on rock surfaces, facilitating the establishment of mosses and vascular plants. It is among the earlier colonizers of fresh stone and concrete surfaces in urban and rural settings.

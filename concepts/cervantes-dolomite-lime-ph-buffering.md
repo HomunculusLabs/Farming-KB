@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Dolomite Lime and pH Buffering for Cannabis
 
 **Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- Jorge Cervantes
+-- [[jorge-cervantes]]
 
 ## Overview
 
@@ -32,7 +33,7 @@ growers in rainy climates with acidic soil.
 
 When planting, add one cup of fine dolomite lime to each cubic foot (one
 ounce per gallon) of planting medium to stabilize the pH and provide
-calcium and magnesium. The general rule of thumb is to add 1 to 2 pounds
+[[dynamic-accumulator-plants-calcium-and-magnesium]]. The general rule of thumb is to add 1 to 2 pounds
 (0.5 to 0.9 kg) of dolomite lime to each cubic foot of soil.
 
 Commercial potting soil almost never has a pH above 7.5. A lower pH is
@@ -55,7 +56,7 @@ fertilizer regimen and regular leaching helps flush away toxic salts.
 When purchasing, look for dolomite flour, the finest fast-acting dust-like
 grade available. Coarse dolomite could take a year or more before it
 becomes available for uptake by roots. Mix dolomite flour thoroughly with
-the growing medium before planting. Improperly mixed, dolomite will
+the [[cervantes-green-algae-growing-medium]] before planting. Improperly mixed, dolomite will
 stratify, forming a cake or layer that burns roots and repels water.
 
 ## Dolomite vs. Other Lime Products
@@ -87,36 +88,3 @@ If growing in a soil or soilless mix with a pH below 7, incorporating
 one cup of fine dolomite lime per gallon of medium ensures adequate
 supplies of calcium and magnesium. This is particularly important for
 preventing [[query-how-to-fix-magnesium-deficiency-in-cannabis]], which is common indoors, especially in
-acidic soils.
-
-## Raising pH
-
-To raise the pH of a growing medium or irrigation water, add some form
-of alkali such as calcium carbonate, potassium hydroxide, or sodium
-hydroxide. Both hydroxides are caustic and require special care when
-handling. These compounds are normally used to raise the pH of
-hydroponic nutrient solutions but can be used for soil applications as
-well.
-
-Raising alkaline levels is somewhat easier than raising the acid level.
-If soil is too acidic, 1.2 oz of finely ground rock sulfur per square
-yard of sandy soil will reduce soil pH by one point. Other soil types
-need 3.6 oz per square yard. Well-decomposed sawdust, composted leaves,
-and peat moss also help to acidify soil and lower pH.
-
-## Water pH Considerations
-
-In dry climates such as the desert Southwest [[dmt-containing-plants-united-states-halpern]], Spain, and
-Australia, irrigation water is often alkaline with a pH above 6.0. The
-water in rainy climates such as the Pacific Northwest, the UK, and the
-Netherlands is often acidic with a pH below 6.0. After repeated watering,
-water with a pH that is too high or low will change the pH of the growing
-medium, especially in organically amended soils.
-
-## See Also
-
-- [[cervantes-hydrated-lime-quicklime-ph-adjustment]]
-
-- [[cannabis-ph-management-and-soil-flushing]]
-- [[cervantes-macronutrient-deficiency-toxicity]]
-- [[cervantes-secondary-nutrient-deficiency]]

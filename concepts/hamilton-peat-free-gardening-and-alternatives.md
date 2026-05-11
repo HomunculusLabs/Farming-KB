@@ -10,7 +10,7 @@ type: concept
 
 # Peat-Free Gardening and Alternatives
 
-There is increasing concern about the use of peat as a growing medium.
+There is increasing concern about the use of peat as a [[cervantes-green-algae-growing-medium]].
 Peat is a dwindling natural resource, and excavating peat bogs on an
 industrial scale to supply gardens not only destroys unique habitats but
 is damaging to the wider environment. The move toward peat-free gardening
@@ -49,8 +49,8 @@ added when using it as a growing medium.
 ### Bark-Based Composts
 
 Composted bark is a well-established alternative, especially for
-ornamental beds and container growing. It provides good structure and
-drainage while also acting as a mulch to suppress weeds. Bark composts
+ornamental beds and [[container-growing-vegetables-herbs]]. It provides good structure and
+drainage while also acting as a mulch to [[query-how-do-cover-crops-suppress-weeds]]. Bark composts
 [[query-can-fungi-break-down-plastic-pollution]] more slowly than peat, providing a longer-lasting growing
 medium. The lignin in bark takes time to decompose, so additional nitrogen
 may be needed to compensate for nitrogen locked up during the breakdown
@@ -58,7 +58,7 @@ process.
 
 ### Wood Chip and Green Compost
 
-Wood chips and material from green recycling centres offer another avenue
+[[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] and material from green recycling centres offer another avenue
 for peat-free growing. These materials are increasingly available as
 municipal recycling programmes expand. Green compost made from collected
 garden waste provides a good general-purpose growing medium, though
@@ -71,7 +71,7 @@ your own peat-free potting composts at home. A combination of pelleted
 chicken manure mixed into the compost, supplemented with liquid kelp feed
 applied when required, does an admirable job of providing nutrients.
 
-A successful peat-free seed compost can be made by mixing leaf mold with
+A successful peat-free seed compost can be made by mixing [[comparison-leaf-mold-composting-vs-hot-composting-method]] with
 vermiculite in roughly equal parts. The leaf mold provides body and some
 nutrients while the vermiculite ensures good drainage and aeration. For a
 peat-reduced compost, mix peat 50:50 with green compost and add Dolomite
@@ -79,7 +79,7 @@ lime at a rate of 1oz (30g) per 2 gallons (9 litres) to balance out the
 acidity of the peat.
 
 Both peat-free and peat-reduced composts contain little or no nutrients, so
-you must add both trace elements and major nutrients. Moisten the compost
+you must add both [[teaming-with-nutrients-micronutrients-and-trace-elements]] and major nutrients. Moisten the compost
 prior to sowing with a half-strength liquid feed solution, and use it at
 full strength after the seedlings are established.
 
@@ -88,42 +88,3 @@ full strength after the seedlings are established.
 Peat-free composts behave differently from peat-based ones. They tend to
 dry out more quickly, so attention to watering is especially important.
 They may also have different nutrient profiles and drainage characteristics.
-Trial and error is often the best approach when transitioning to new
-growing media. Once you find a peat-free compost that suits you and your
-plants, it is worth sticking with it.
-
-For plants grown in containers outside, where they may not be watered as
-regularly as they need, soil-based composts may be preferable because they
-retain moisture longer and are easier to rewet. Clay pots are porous and
-suitable for soil-based composts, while [[query-fabric-pots-vs-plastic-pots-vs-air-pots-for-cannabis]] work better with peat
-and peat-free media since they dry out more quickly.
-
-## Nutrient Management in Peat-Free Media
-
-Because peat-free composts contain little or no inherent nutrients,
-careful attention to feeding is essential. Incorporate slow-release
-[[hamilton-organic-fertilizers-and-plant-nutrition]] such as pelleted chicken manure or blood, fish, and
-bone meal at the time of planting. Supplement with liquid feeds during
-the [[savory-growing-season-and-non-growing-season-management]]. Kelp-based liquid feeds are particularly valuable
-because they supply a full spectrum of trace elements that may be lacking
-in peat-free growing media. The importance of regular feeding cannot be
-overstated, as container-grown plants in peat-free media will exhaust
-available nutrients more quickly than those in soil-based composts.
-
-## Transitioning Your Garden
-
-The transition to peat-free gardening can be gradual. Start with
-ornamental containers and general garden use before moving to more
-demanding applications such as [[hamilton-seed-sowing-techniques]] and propagation. Many
-gardeners find that a peat-reduced approach, mixing peat with alternative
-materials, provides a comfortable middle ground while they adjust to the
-different characteristics of peat-free media. Keep notes on which
-products and recipes work best for specific plants, as individual results
-may vary considerably depending on local conditions and watering habits.
-
-## Related Concepts
-
-- [[hamilton-leaf-mold-making-using]]
-- [[hamilton-potting-compost-recipes-and-growing-media]]
-- [[hamilton-organic-seed-saving-propagation]]
-- [[hamilton-alternative-soil-conditioners]]

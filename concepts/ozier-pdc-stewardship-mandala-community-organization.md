@@ -1,5 +1,5 @@
 ---
-title: [[ozier-pdc-biomes-ecotones-edge-effect]] stewardship mandala community organization - savory-community-organization-and-shared-grazing Model
+title: Ozier Pdc Stewardship Mandala Community Organization
 source: william-ozier-williams-pdc_-a-permaculture-design-cours.md
 author: William WR Ozier
 topics: community, organization, governance, permaculture, intentional-community

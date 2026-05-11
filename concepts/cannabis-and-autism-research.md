@@ -87,21 +87,3 @@ Based on these observations, it is hypothesized that dose-specific cannabinoids 
 ## Anecdotal and Observational Evidence
 
 Many parents have turned to cannabis after finding modern medicine unable to understand the disease or its origin. Based on anecdotal reports by physicians, pediatricians, caretakers, and patients themselves, positive effects have been reported from appropriate doses of cannabis or pharmaceutical cannabinoids.
-
-Reported results include reductions in tantrums, rage, self-injury, and property destruction, along with improved happiness, increased ability to learn, and flexibility in altering norms. Positive results have been reported even in some extremely difficult cases where pharmaceutical treatment had proven ineffective or destructive.
-
-## Endocannabinoid System and Autism
-
-The body's own endocannabinoid system is known to be involved in mood regulation, social behavior, and sensory processing, all of which are affected in autism. CB1 receptors are densely concentrated in brain regions involved in social cognition and sensory processing, suggesting a potential mechanism for cannabinoid effects on autism symptoms.
-
-The anti-inflammatory properties of cannabinoids may also be relevant, given emerging evidence that neuroinflammation plays a role in some forms of autism.
-
-## Safety Considerations for Pediatric Use
-
-Autism primarily affects children, making safety considerations paramount. No clinical study results exist to confirm or deny the anecdotal positive experiences. Parents considering cannabis for autistic children should consult with knowledgeable physicians and start with extremely low doses of CBD-rich preparations.
-
-THC should generally be avoided in pediatric populations due to potential effects on brain development, though some practitioners report benefits from carefully titrated whole-plant preparations in certain cases.
-
-## Conventional Treatment Context
-
-Applied behavioral analysis (ABA) has shown efficacy but requires approximately 40 hours per week of one-on-one teaching, making it cost-prohibitive for many parents. Pharmaceutical medications such as Ritalin are given to millions of children annually to control symptoms, with reported deaths in the hundreds and significant adverse effects.

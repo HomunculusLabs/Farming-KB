@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,18 +87,3 @@ Chemical fertilizer is thus a remedy for a condition that [[fukuoka-illusions-sc
 Fukuoka conducted extensive experiments with citrus and other fruit trees in his orchard to test whether they could grow without fertilizer. Pomologists typically analyze the trunk, leaves, and fruit of a tree, determine nitrogen, phosphorus, and potassium contents, calculate annual consumption per unit of growth, and prescribe fertilization schedules accordingly.
 
 Fukuoka's unfertilized trees grew vigorously and produced abundant fruit. He concluded that the standard approach mistakes the composition of the tree for the requirements of the tree. A tree's composition reflects what the soil provides naturally, not what must be added artificially. By supplying what the soil already provides, the farmer disrupts the natural relationship between tree and soil.
-
-## Implications for Sustainable Agriculture
-
-Fukuoka's no fertilizer principle has profound implications for discussions of sustainable agriculture:
-
-- **True sustainability**: A system that requires external inputs, even organic ones, is not truly sustainable. Only a system that maintains its own fertility through closed internal cycles meets this standard.
-- **Soil as organism**: Treating soil as an inert growing medium requiring chemical supplementation misses its essential nature as a living ecosystem. Healthy soil needs no fertilizer.
-- **Labor reduction**: The elimination of fertilizer production, transport, and application represents a massive reduction in agricultural labor and energy expenditure.
-- **Pollution elimination**: Fertilizer runoff is one of agriculture's most serious environmental impacts. A no fertilizer system eliminates this problem at its source.
-
-## Related Concepts
-
-- [[fukuoka-orchard-soil-building-without-fertilizers]]
-- [[fukuoka-textdoc-natural-soil-management]]
-- [[natural-farming-philosophy-of-mu]]

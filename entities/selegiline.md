@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Magyar K. et al. (2010). "Deprenyl: from chemical synthesis to neuroprotection." Journal of Neural Transmission, 117(10), 1085-1100.
+  - Magyar K. et al. (2010). "Deprenyl: from [[psilocin-chemical-synthesis]] to neuroprotection." Journal of Neural Transmission, 117(10), 1085-1100.
   - Weinreb O. et al. (2011). "Applying the proteasome inhibitor MG-132..." Neurochemical Research, 36(11), 2041-2047.
   - Riederer P. et al. (2007). "The role of MAO-B inhibitors in the treatment of Parkinson's disease." Journal of Neural Transmission, 114(2), 229-235.
   - Wikipedia contributors. "Selegiline." Wikipedia, The Free Encyclopedia.
@@ -34,7 +34,7 @@ Selegiline is FDA-approved for Parkinson's disease as an adjunct to
 levodopa therapy and for major depressive disorder via the transdermal
 patch formulation (Emsam). At low doses, it selectively inhibits MAO-B,
 preserving MAO-A function and avoiding the dietary tyramine restrictions
-associated with non-selective MAO inhibitors. At higher oral doses, MAO-A
+associated with non-selective [[mao-inhibitors-and-psychedelics]]. At higher oral doses, MAO-A
 selectivity is lost and dietary restrictions become necessary.
 
 ## Chemical Identity
@@ -69,7 +69,7 @@ and cognitive-enhancement compound.
 
 ### Pharmacokinetics
 
-- Oral bioavailability: 10% (extensive first-pass metabolism)
+- [[first-pass-metabolism-and-oral-bioavailability]]: 10% (extensive first-pass metabolism)
 - Transdermal bioavailability: ~60-70% (bypasses first-pass)
 - Onset: 1-3 hours (oral), within hours (transdermal)
 - Half-life: 1.5-2 hours (parent); 18-20 hours (MAO-B inhibition)
@@ -87,60 +87,3 @@ disease. Studies suggest a modest reduction in disease progression when
 started early, though this remains debated.
 
 ### Major Depressive Disorder
-
-The transdermal patch (Emsam) delivers selegiline directly to systemic
-circulation, bypassing hepatic first-pass metabolism. At the lowest dose
-(6 mg/24 hr), dietary tyramine restrictions are not required. At higher
-patch doses (9 mg and 12 mg), MAO-A inhibition increases and dietary
-restrictions become necessary.
-
-### Off-Label and Investigational Uses
-
-- Alzheimer's disease (mixed results in [[mushroom-cancer-clinical-trials-overview]])
-- Attention deficit hyperactivity disorder (limited evidence)
-- Cognitive enhancement and anti-aging (anecdotal, limited data)
-
-## Dosage and Forms
-
-### Available Formulations
-
-- **Oral tablets:** 5 mg (Eldepryl, generic) — for Parkinson's disease
-- **Orally disintegrating tablets:** 1.25 mg (Zelapar) — sublingual
-  absorption bypasses first-pass metabolism
-- **Transdermal patch:** 6, 9, or 12 mg/24 hr (Emsam) — for depression
-
-### Dosage Guidelines
-
-- **Parkinson's disease:** 5 mg twice daily with breakfast and lunch
-- **Depression (transdermal):** Start at 6 mg/24 hr; may increase to
-  9 or 12 mg/24 hr
-- **Nootropic/experimental:** 1-5 mg daily (oral, low-dose hypothesis)
-
-## Safety Profile
-
-### Adverse Effects
-
-- Nausea, dizziness, and dry mouth (most common)
-- Insomnia and headache
-- Orthostatic hypotension
-- At higher doses: hypertensive crisis with tyramine-rich foods
-- Transdermal: application site reactions (common)
-
-### Contraindications and Interactions
-
-Selegiline is contraindicated with meperidine, tramadol, methadone, and
-other MAO inhibitors. Serotonin syndrome risk with SSRIs, SNRIs, TCAs,
-and tramadol. Concomitant use of sympathomimetic drugs requires caution.
-
-## See Also
-
-- [[harmine]]
-- [[harmaline]]
-- [[beta-carboline]]
-- [[mao-inhibitors-and-psychedelics]]
-- [[psilocybin]]
-- [[dmt]]
-- [[5-meo-dmt-entity]]
-- [[phenethylamine-pharmacology]]
-- [[l-theanine]]
-- [[huperzine-a]]

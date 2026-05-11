@@ -88,23 +88,3 @@ Not assessed. Gymnopilus ventricosus appears to be common and widespread
 across its range. No specific conservation concerns have been identified.
 
 ## Historical Context
-
-The confusion between G. ventricosus and G. spectabilis dates to the early
-mycological literature. Charles Peck originally described the species from
-New York. The issue was highlighted by Beug and Bigwood (1982b) and Smith
-(1980), who noted many collections reported as psychoactive G. spectabilis
-were actually the inactive G. ventricosus. This has implications for
-understanding true chemical diversity within Gymnopilus.
-
-## Field Identification Tips
-
-- Very large orange mushrooms growing in clusters on hardwood logs and stumps
-- Distinguish from G. spectabilis primarily by spore analysis or TLC/GC-MS
-  — macroscopic separation is unreliable
-- Less intensely bitter than G. spectabilis (though still somewhat bitter)
-- Does not bruise bluish
-- Rusty orange spore print distinguishes it from Armillaria (white spores)
-  and other hardwood decomposers
-## See Also
-
-- [[gymnopilus-validipes]]

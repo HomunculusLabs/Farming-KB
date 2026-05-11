@@ -88,38 +88,3 @@ restores its mate to life. Polyidos takes the same herb and raises Glaukos from
 the dead. This pattern of serpents bearing herbal knowledge recurs throughout
 classical mythology and shamanic tradition worldwide. The demonization of the
 serpent in the biblical tradition reflects, in McKenna's framework, the
-dominator culture's rejection of the plant-based gnosis that characterized
-partnership societies.
-
-The serpent's association with the underworld, transformation, and access to
-hidden dimensions of reality is a near-universal motif in shamanic traditions.
-Its appearance in Genesis as the tempter who offers knowledge represents the
-inversion of a much older tradition in which the serpent was a helper and guide
-to the realms of plant wisdom.
-
-## Drought and the Historical Expulsion
-
-McKenna grounds the allegorical expulsion from Eden in the climatic history of
-the Sahara. The retreat of glaciers from the Eurasian landmass and the
-simultaneous acceleration of aridity in the African grasslands eventually
-brought about the physical displacement of the "mushroom peoples of Tassili-n-
-Ajjer," who began to move "east of Eden." This migration is, he argues,
-traceable in the archaeological record through the appearance of the Natufian
-culture in Palestine and the eventual flowering of Catal Huyuk in central
-Anatolia.
-
-The "angel with flashing sword who guards the return to Eden" becomes, in this
-reading, an obvious symbol of the unforgiving harshness of the desert sun and
-the severe drought conditions that accompanied the climatic shift. The story of
-Genesis thus encodes a collective memory of ecological catastrophe and cultural
-displacement, recast in subsequent retelling as a moral tale about disobedience
-and divine punishment. What was once a story about climate and migration became
-
-## See Also
-
-- [[p-glycoprotein-drug-transport]]
-
-- [[mckenna-tassili-plateau-round-head-civilization]]
-- [[mckenna-food-gods-tassili-cave-paintings]]
-- [[mckenna-dominator-vs-partnership-society-model]]
-- [[mckenna-four-stages-abandoning-mystery]]

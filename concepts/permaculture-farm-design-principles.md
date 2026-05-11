@@ -88,9 +88,3 @@ Start small and intensively manage, then expand as understanding grows. A small,
 ### Accelerate Succession and Evolution
 
 Use pioneer species and strategic planting to speed up the natural transition from bare ground to productive polyculture. Plant fast-growing nitrogen fixers to prepare sites for fruit trees. Use cover crops to build soil for market gardens. The goal is to push the landscape toward its most productive and stable state as quickly as possible.
-
-## Integration with Site Assessment
-
-Effective farm design integrates all of these principles through a systematic site assessment process. The [[zone-sector-analysis-guide]] provides a methodology for mapping energy flows across the site and positioning elements for maximum efficiency. When combined with [[permaculture-climate-adaptation]] strategies, the resulting design produces food reliably across variable weather conditions while continuously improving the underlying ecological health of the land.
-
-Sources: [[william-ozier-williams]], *PDC: A [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course*

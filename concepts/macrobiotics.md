@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Macrobiotics
 
@@ -87,24 +88,3 @@ Macrobiotics shares several principles with [[permaculture-food-forest-design-pr
 ## Macrobiotics and Cancer
 
 Macrobiotics gained significant public attention in the 1970s and 1980s when Anthony Sattilaro, MD, president of Methodist Hospital in Philadelphia, publicly attributed his recovery from prostate cancer to macrobiotic dietary practices. While individual anecdotes cannot substitute for controlled [[mushroom-cancer-clinical-trials-overview]], the macrobiotic diet's emphasis on whole grains, vegetables, and legumes aligns with evidence-based dietary recommendations for cancer prevention.
-
-## Criticism and Considerations
-
-- Can be overly restrictive, potentially leading to [[hamilton-nutrient-deficiencies-and-treatment]] (particularly B12, vitamin D, iron, and calcium)
-- The yin/yang classification system lacks scientific basis and is inconsistent across different macrobiotic teachers
-- May not be appropriate for all climates, body types, or conditions
-- The emphasis on brown rice as universal staple is culturally specific
-- Modern macrobiotic practice varies widely from strict to flexible interpretations
-- Historical associations with anti-medicine positions have undermined its credibility
-
-## Modern Evolution
-
-Contemporary macrobiotic practice has evolved significantly from its origins. Many modern practitioners adopt a flexible approach, incorporating macrobiotic principles while acknowledging the need for individual adaptation. The movement has influenced broader food culture, contributing to the popularization of brown rice, sea vegetables, miso soup, and whole-grain awareness in Western diets.
-
-## Related
-
-- [[fukuoka-natural-food-philosophy]]
-- [[one-straw-revolution-philosophy]]
-- [[nutrient-dense-gardening]]
-- [[mac-1]]
-- [[mac-cannabis]]

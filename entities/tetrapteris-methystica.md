@@ -64,7 +64,7 @@ The epithet 'methystica' derives from Greek 'methystikos'
 | Species | Growth form | DMT source | Key use |
 |---------|------------|------------|---------|
 | Tetrapteris methystica | Woody vine | Leaves, bark | Ayahuasca admixture |
-| [[diplopterys-cabrerana]] | Woody vine | Leaves | Admixture (chaliponga) |
+| [[diplopterys-cabreraeana]] | Woody vine | Leaves | Admixture (chaliponga) |
 | [[ayahuasca-and-banisteriopsis-caapi]] | Woody vine | Bark | Ayahuasca base (MAOI) |
 | Banisteriopsis rubra | Woody vine | Bark | Ayahuasca variant |
 
@@ -88,59 +88,3 @@ commercial markets.
 | Compound | Class | Plant Part | Notes |
 |----------|-------|------------|-------|
 | N,N-DMT | Tryptamine | Leaves, bark | Primary; 0.1-0.5% in leaves |
-| 5-MeO-DMT | Tryptamine | Leaves | Minor constituent |
-| Bufotenine | Tryptamine | Bark | Trace amounts |
-| β-carbolines | Alkaloid | Leaves, bark | Trace; not primary MAOI |
-| Flavonoids | Flavonoid | Leaves | Antioxidant constituents |
-
-The tryptamine profile of T. methystica is qualitatively similar
-to Diplopterys cabrerana, though quantitative concentrations may
-differ. N,N-DMT is the primary active compound, producing
-visionary effects when combined with Banisteriopsis caapi (which
-provides oral [[tihkal-oral-activity-mao-inhibition]]). The β-carboline content is
-insufficient for oral MAO inhibition alone.
-
-## Ethnobotanical and Cultural Significance
-
-T. methystica is used by indigenous peoples of the Peruvian and
-Brazilian Amazon as an additive to ayahuasca. It substitutes for
-[[chacruna-psychotria-viridis]] (chacruna) or Diplopterys cabrerana
-(chaliponga) as the DMT-containing component. The selection of
-admixture plants varies by cultural tradition and regional
-availability.
-
-Among some groups, T. methystica is considered a particularly
-strong admixture, producing more intense visual experiences than
-chacruna. Its use is less widespread than P. viridis or D.
-cabrerana, possibly due to restricted distribution and field
-identification difficulty. Harvested by climbing the supporting
-tree and collecting leaves and small branches.
-
-## Cultivation Notes
-
-T. methystica is rarely cultivated outside its native range.
-Propagation from semi-hardwood cuttings is most practical; seeds
-are difficult to obtain with limited viability. Cuttings root in
-6-10 weeks under mist with bottom heat. Requires support
-structure and warm humid conditions. Not frost-tolerant. Very few
-ethnobotanical nurseries carry this species.
-
-## Conservation Status
-
-- **IUCN:** Not formally assessed; data deficient
-- **Population trend:** Stable in remote areas; declining near urban centers
-- **Primary threat:** Habitat loss from Amazon deforestation
-- **Trade:** Minimal international trade compared to other ayahuasca plants
-
-## Legal Status
-
-- **DMT is controlled** under UN Convention on Psychotropic Substances (Schedule I) and in most national jurisdictions
-- **The plant itself is not specifically scheduled** in most countries
-- **Brazil:** Ayahuasca use legally protected for religious purposes
-- **Peru:** Traditional use culturally protected; plant available in local markets
-
-## See Also
-
-- [[banisteriopsis-caapi]]
-- [[mimosa-tenuiflora]]
-- [[virola-theiodora]]

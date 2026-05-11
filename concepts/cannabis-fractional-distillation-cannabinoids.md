@@ -77,3 +77,8 @@ Leak detection is important, as air leaking into the system can introduce oxygen
 ## See Also
 
 [[cannabis-advanced-refinement-fractional-distillation]]
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

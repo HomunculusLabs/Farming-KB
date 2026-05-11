@@ -1,10 +1,11 @@
 ---
-title: cervantes cannabis flower anatomy Anatomy
+title: [[cervantes-cannabis-butter-cooking]] Flower Anatomy
 created: 2026-04-26
 tags: [cannabis, flower-anatomy, calyx, pistil, botany]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 Understanding cannabis flower anatomy is fundamental to identifying
 plant sex, assessing harvest readiness, and maximizing yield and
-potency. Jorge Cervantes provides detailed descriptions of every
+potency. [[jorge-cervantes]] provides detailed descriptions of every
 component of the cannabis flower, from the calyx and pistil to the
 resin-producing trichomes that contain the plant's active compounds.
 
@@ -32,7 +33,7 @@ When a grain of male pollen slides down the pistil and unites with
 the ovule deep within the calyx, fertilization takes place. Once
 fertilized, pistils turn brown and a seed forms within the seed bract.
 Unfertilized calyxes continue to swell and produce resin, which is
-the basis of sinsemilla cultivation.
+the basis of [[cervantes-sinsemilla-cultivation]].
 
 ## Pistils
 
@@ -58,7 +59,7 @@ which pistils later emerge. The bract partially encloses and protects
 the developing calyx. In some references, the terms bract and stipule
 are used somewhat interchangeably, though botanically they are
 distinct structures. The bract tissue itself contains a high
-concentration of resin glands.
+concentration of [[greg-green-trichomes-and-resin-glands]].
 
 ## Sugar Leaves
 
@@ -87,32 +88,3 @@ is the large, dominant flower cluster at the top of the plant.
 Terminal buds on main branches form additional large colas. Pistil-
 packed calyxes form these dense clusters along stems. A cluster of
 buds is often called a "top." Plants with strong apical dominance
-naturally form one large main cola, while [[cannabis-training-techniques-comparison]] like
-topping and SCROG encourage multiple colas of similar size.
-
-## Male Flower Anatomy
-
-Male plants produce staminate flowers consisting of pollen sacs that
-hang like little balls at branch internodes. Each pollen sac contains
-enough pollen to fertilize many female flowers. Male flowers open
-over the course of a week or longer, dispersing pollen into the air
-in search of receptive female pistils. Males are typically removed
-from gardens to prevent pollination unless specifically kept for
-breeding purposes.
-
-## Sinsemilla
-
-Sinsemilla -- from the Spanish "sin" (without) and "semilla" (seed)
--- describes unfertilized female flower tops. Without pollination,
-female plants continue to produce calyxes and resin for six to ten
-weeks, yielding more high-quality, potent buds than seeded flowers.
-The absence of seeds means all of the plant's energy goes into resin
-and calyx production rather than seed development.
-
-## See Also
-
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]] - [[greg-green-trichomes-and-resin-glands]]
-  glands
-- [[cervantes-sex-determination-pre-flowering]] - identifying sex
-  from pre-flowers
-- [[cervantes-sinsemilla-cultivation]] - growing seedless flowers

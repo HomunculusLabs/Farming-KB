@@ -21,7 +21,7 @@ sources:
 *Hypnum lacunosum* (Brid.) Wils., commonly known as the pitted hypnum or
 hoary hypnum, is a pleurocarpous moss in the family Hypnaceae. It forms
 extensive mats on acidic soils, rocks, and decaying wood in heathland, moorland,
-and montane habitats across temperate regions.
+and montane habitats across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 The species is distinguished from the closely related [[hypnum-cupressiforme]]
 by its strongly concave, boat-shaped leaves and conspicuous pits (lacunae) on
@@ -66,7 +66,7 @@ produced moderately frequently compared to many Hypnaceae.
 *H. lacunosum* is distributed across western and central Europe, the
 Mediterranean basin, and [[polypore-fungi-eastern-north-america]] America. In Europe, it is most abundant
 in oceanic regions including the British Isles, western France, and
-Scandinavian coastal areas. In North America, it occurs in the Appalachian
+Scandinavian coastal areas. In [[guzman-psilocybin-mushrooms-north-america]], it occurs in the Appalachian
 Mountains and northeastern forests.
 
 The species is characteristic of acidic, nutrient-poor habitats. It grows on
@@ -80,7 +80,7 @@ moderately shaded woodland. It avoids calcareous substrates and enriched
 conditions.
 
 The species shows a strong association with ericaceous shrub communities,
-particularly heather (*Calluna vulgaris*) and bilberry (*Vaccinium myrtillus*).
+particularly heather (*[[calluna-vulgaris]]*) and bilberry (*[[vaccinium-myrtillus]]*).
 It forms an important component of the bryophyte layer in dry heath and
 wet heath vegetation types.
 
@@ -88,53 +88,3 @@ wet heath vegetation types.
 
 *H. lacunosum* contributes significantly to the bryophyte carpet of heathland
 and moorland ecosystems. Its mats help retain soil moisture, moderate
-temperature fluctuations, and provide microhabitat for invertebrates.
-
-As a calcifuge, the species is sensitive to base cation enrichment from
-atmospheric deposition. Increased nitrogen availability from agricultural
-ammonia and vehicle emissions can alter competitive dynamics, favoring fast-
-growing nitrophilous mosses over *H. lacunosum* in heathland communities.
-
-The species plays a role in peat formation in blanket bog margins. Its
-decomposing stems contribute [[hamilton-composting-and-organic-matter-management]] to developing peat layers, though
-it is less significant than Sphagnum species in peat accumulation.
-
-Water retention by *H. lacunosum* mats supports seedling establishment of
-ericaceous shrubs and other heathland plants. The mats also create refugia
-for soil microfauna during dry periods, maintaining soil biological activity.
-
-Reproductive biology follows the typical Hypnaceae pattern. Autoicous sexual
-reproduction produces spore capsules, while asexual propagation occurs through
-stem fragmentation and branching. Colonization of new substrates is primarily
-by [[aquatic-fungi-spore-dispersal-ingold]].
-
-## Uses and Conservation
-
-*H. lacunosum* has no significant direct economic uses. Its primary importance
-lies in its ecological role as a component of heathland and moorland bryophyte
-communities and its value as an indicator of acidic, nutrient-poor conditions.
-
-The species is used in ecological monitoring as an indicator of habitat quality
-in heathland ecosystems. Decline of *H. lacunosum* in heathland vegetation
-can signal [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] exceeding critical loads.
-
-Conservation status is secure globally but of concern in regions with
-intensive agriculture or urban expansion. Heathland loss through conversion to
-agriculture, afforestation, and development threatens populations in western
-Europe.
-
-Habitat management for heathland conservation, including controlled burning,
-grazing, and scrub clearance, generally benefits *H. lacunosum* by maintaining
-the open, acidic conditions it requires. Peatland restoration projects also
-create new habitat opportunities.
-
-## See Also
-
-- [[hypnum-cupressiforme]]
-- [[pleurozium-schreberi]]
-- [[rhytidiadelphus-triquetrus]]
-- [[dicranum-scoparium]]
-- [[aulacomnium-palustre]]
-- [[sphagnum-palustre]]
-- [[climacium-dendroides]]
-- [[polytrichum-commune]]

@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Carakostas, M. et al. (2008). 'Overview: The history, technical function and safety of rebaudioside A, a naturally occurring steviol glycoside, for use in food and beverages.' Food and Chemical Toxicology, 46(S1), S1–S10."
   - "Li, D. et al. (2014). 'Luo Han Guo (Siraitia grosvenorii): A review of its botany, traditional uses, phytochemistry, pharmacology, and potential toxicity.' Journal of Pharmacy and Pharmacology, 66(8), 1067–1080."
   - "Singh, S. & Rao, G. (2018). 'Stevia: The genus Stevia.' CRC Press."

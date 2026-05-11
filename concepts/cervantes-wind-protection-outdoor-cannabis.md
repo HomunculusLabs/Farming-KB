@@ -1,10 +1,11 @@
 ---
-title: cervantes [[coleman-cold-house-wind-protection-microclimate]] [[indoor-vs-outdoor-cannabis]] for Outdoor Cannabis
+title: Cervantes [[coleman-cold-house-wind-protection-microclimate]] [[indoor-vs-outdoor-cannabis]]
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, wind, environment, cervantes]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -47,7 +48,7 @@ to strong desert winds that transport abrasive
 sand and other particles. These winds can destroy
 crops by physically damaging foliage and rapidly
 desiccating plants. In coastal areas, sea breezes
-carry salt spray that can burn leaf tissue.
+carry salt spray that can burn [[leaf-tissue-analysis-crop-nutrient-status]].
 
 Coastal breezes generally carry air from land out
 to sea at night. Valleys and exposed hillsides
@@ -87,14 +88,3 @@ Plant in protected areas so the garden suffers
 little effect from strong wind. Natural features
 like hills, tree lines, buildings, and hedgerows
 all provide wind protection. Scout potential sites
-during windy conditions to observe how air moves
-through the landscape.
-
-## Managing Wind-Damaged Plants
-
-Rain and wind coupled with heavy buds can break
-branches. Support plants with stakes, cages, or
-trellis systems before wind events occur. See
-[[outdoor-cannabis-growing]]
-- [[cervantes-temperature-management]]
-- [[cervantes-overwatering-underwatering]]

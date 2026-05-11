@@ -20,7 +20,7 @@ sources:
 
 Fagopyrum tataricum, commonly known as tartary buckwheat or bitter buckwheat,
 is an annual plant in the family Polygonaceae. It is closely related to common
-buckwheat (Fagopyrum esculentum) but is distinguished by its higher rutin
+buckwheat ([[fagopyrum-esculentum]]) but is distinguished by its higher rutin
 content, bitter flavour, and superior nutritional profile.
 
 The species originated in the Himalayan region and western China. It has been
@@ -48,7 +48,7 @@ The leaves are cordate-triangular, 2-8 cm long, with entire or slightly
 wavy margins.
 
 A distinctive feature is the presence of reddish spots or papillae on the
-lower leaf surface, which help distinguish Fagopyrum tataricum from
+lower [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]], which help distinguish Fagopyrum tataricum from
 Fagopyrum esculentum.
 
 Flowers are small, greenish-white to pink, borne in axillary and terminal
@@ -71,13 +71,13 @@ Poland, Russia, and the Baltic states).
 
 Tartary buckwheat is adapted to high-altitude environments and harsh growing
 conditions. It grows at elevations of 1,000-4,500 metres, tolerating poor
-soils, cool temperatures, and short growing seasons.
+soils, cool temperatures, and short [[jeavons-climate-adaptation-growing-seasons]].
 
 The plant prefers well-drained, sandy or loamy soils with moderate fertility.
-It performs poorly in waterlogged conditions and heavy clay soils.
+It performs poorly in waterlogged conditions and [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils.
 
 Wild populations still exist in the eastern Tibetan Plateau and western
-Sichuan province. These wild accessions show greater genetic diversity than
+Sichuan province. These wild accessions show greater [[biodiversity-fungal-genetic-diversity]] than
 cultivated varieties and are important breeding resources.
 
 ## Cultivation and Nutrition
@@ -88,57 +88,3 @@ for higher altitudes and shorter growing seasons.
 
 Yields are generally lower than common buckwheat, typically 800-1,500 kg per
 hectare. However, its nutritional value per unit weight significantly
-exceeds that of common buckwheat.
-
-The seeds contain approximately 11-15% protein with a balanced amino acid
-composition, particularly rich in lysine. The protein digestibility-corrected
-amino acid score (PDCAAS) is comparable to that of casein.
-
-Tartary buckwheat is an exceptional source of rutin (also called rutoside),
-a flavonoid glycoside. Rutin content ranges from 1.0-3.5% of dry seed weight,
-roughly 40-100 times higher than in common buckwheat.
-
-Other flavonoids include quercetin, kaempferol, and various phenolic acids.
-These compounds contribute strong antioxidant activity, measured as
-significantly higher total antioxidant capacity than common buckwheat.
-
-The grain is used to make noodles, pancakes, tea, and flour products. In
-China, tartary buckwheat tea (kuqiao cha) is a popular health beverage.
-Buckwheat noodles (soba) made from tartary buckwheat are a traditional food
-in parts of Japan and Korea.
-
-## Chemistry and Pharmacology
-
-Rutin (quercetin-3-O-rutinoside) is the signature compound of Fagopyrum
-tataricum. It is concentrated primarily in the seed coat and flowers.
-
-Rutin strengthens capillary walls, reduces vascular permeability, and
-exhibits anti-inflammatory, antioxidant, and neuroprotective activities. It
-is used clinically in preparations for venous insufficiency and
-haemorrhoidal disease.
-
-D-chiro-inositol, another important constituent, improves insulin
-sensitivity. Tartary buckwheat extracts have shown promise in managing
-type 2 diabetes and metabolic syndrome in clinical trials.
-
-Fagopyritols, D-chiro-inositol derivatives unique to buckwheat, may
-contribute to the plant's insulin-sensitising and anti-diabetic effects.
-
-Tartary buckwheat contains no gluten, making it suitable for coeliac patients
-and those with gluten intolerance. Its high dietary fibre content (primarily
-resistant starch and arabinoxylan) supports gut health.
-
-Animal studies have demonstrated hepatoprotective, cardioprotective, and
-anti-tumour activities for tartary buckwheat extracts. Human clinical data
-remain limited but are accumulating.
-
-## See Also
-
-- [[fagopyrum-esculentum]]
-- [[rheum-palmatum]]
-- [[rumex-acetosa]]
-- [[polygonum-multiflorum]]
-- [[chenopodium-quinoa]]
-- [[amaranthus-tricolor]]
-- [[spinacia-oleracea]]
-- [[persicaria-odorata]]

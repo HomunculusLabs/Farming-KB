@@ -88,26 +88,3 @@ Gametophytes produce either antheridia (male) or oogonia (female) depending on e
 Zoospore release is often triggered by mechanical disturbance of the thallus or by changes in light quality associated with increased turbidity. This response ensures that zoospores are dispersed during periods of water movement, maximizing the probability of settlement on suitable substrates away from the parent plant.
 
 The annual sporophyte phase is synchronized with seasonal conditions in most populations. Zoospore release occurs primarily in autumn, with sporophyte development through winter and rapid spring growth fueled by increasing day length and nutrient availability.
-
-## Ecological Interactions
-
-*Desmarestia aculeata* plays a limited role as habitat for other organisms due to its annual life cycle and chemical defenses. Unlike perennial kelp species, it does not provide persistent physical structure. However, during peak growth in spring, the dense fronds create temporary shelter for small mobile invertebrates.
-
-In some boreal kelp forests, *D. aculeata* serves as an early-season indicator of nutrient availability. Its growth rate and biomass are strongly correlated with ambient nitrate concentrations, making seasonal population surveys a useful proxy for water column nutrient status.
-
-In some boreal kelp forests, *D. aculeata* serves of kelp forest understories in boreal waters. Its presence contributes to the structural complexity of these communities during the spring growth period, when it can form extensive carpets on the substratum beneath the kelp canopy.
-
-Nutrient release from senescing *D. aculeata* fronds in late summer provides a significant pulse of [[dighton-fungal-dissolved-organic-carbon-production]] nitrogen and phosphorus to the surrounding water column. This nutrient pulse may fuel late-season phytoplankton blooms and contribute to the seasonal nutrient dynamics of temperate coastal ecosystems.
-
-Competition with perennial algae is minimal due to the different temporal niches occupied. *D. aculeata* achieves maximum biomass during the spring, before many perennial species reach their peak growth, and senesces by late summer, releasing nutrients back into the water column.
-
-## See Also
-
-- [[fucus-serratus]]
-- [[dictyota-dichotoma]]
-- [[scytosiphon-lomentaria]]
-- [[saccharina-latissima]]
-- [[caulerpa-racemosa]]
-- [[caulerpa-taxifolia]]
-- [[grateloupia-turuturu]]
-- [[gigartina-pistillata]]

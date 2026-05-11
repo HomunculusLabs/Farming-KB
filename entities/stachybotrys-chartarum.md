@@ -88,39 +88,3 @@ unpleasant musty odors from microbial [[fungal-volatile-organic-compounds-commun
 
 The fungus typically requires weeks to months of sustained moisture to
 establish visible growth, making it an indicator of chronic water
-problems rather than minor condensation events in building envelope
-systems.
-
-## Health Concerns
-
-Reported health effects associated with S. chartarum exposure include
-respiratory symptoms (coughing, wheezing), allergic reactions in
-sensitized individuals, potential mycotoxin exposure through spore
-inhalation, and concerns about possible neurological effects. The
-World Health Organization acknowledges risks while noting difficulty
-attributing effects to individual species.
-
-## Detection and Remediation
-
-S. chartarum infestations are addressed through identification and
-correction of moisture sources, removal of contaminated porous
-materials, professional remediation following established guidelines,
-and post-remediation verification through inspection and air sampling.
-
-The genus Stachybotrys contains multiple species, but S. chartarum is by far the most commonly encountered in indoor environments. Other species in the genus include S. chlorohalonata, which was formerly considered a chemotype of S. chartarum but has since been recognized as a distinct species with different mycotoxin profiles.
-
-Building construction practices that trap moisture within wall cavities, such as vinyl wallpaper on exterior walls and inadequate ventilation in bathrooms and kitchens, create conditions particularly favorable for S. chartarum colonization. Modern energy-efficient building designs may inadvertently promote moisture accumulation if proper ventilation is not maintained.
-
-Legal and insurance issues related to S. chartarum contamination have become significant concerns in the building industry, with numerous lawsuits and insurance claims involving alleged health effects from mould exposure in residential and commercial buildings. This has led to increased attention to building moisture management and mould prevention in construction standards.
-
-Research into the health effects of S. chartarum continues to evolve, with ongoing studies examining the relationships between mould exposure, mycotoxin production, and respiratory symptoms. Standardized methods for assessing exposure and establishing causation remain areas of active investigation in environmental health science.
-
-S. chartarum produces dark-colored spores that are relatively large and sticky compared to other indoor moulds. These characteristics affect [[aquatic-fungi-spore-dispersal-ingold]] patterns and may influence exposure risks, as the spores tend to settle quickly from the air but can become aerosolized through disturbance of contaminated materials.
-
-## See Also
-Related: [[sepp-holzer-terrace-systems-and-raised-beds]], [[fungal-biodiversity-forest-ecosystems]]
-
-- [[fungal-infections-human]]
-
-- meruliporia incrassata
-- [[aspergillus-fumigatus]]

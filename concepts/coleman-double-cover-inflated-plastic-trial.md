@@ -8,7 +8,7 @@ topics: greenhouse-design, winter-production, season-extension, protected-cultiv
 
 ## The Experimental Setup
 
-At Four Season Farm in Harborside, Maine (USDA Zone 5), Eliot
+At [[coleman-four-season-farm]] in Harborside, Maine (USDA Zone 5), Eliot
 Coleman conducted a comparative trial between a single-layer plastic
 greenhouse and a small air-inflated double-layer greenhouse to
 quantify the temperature benefits of the inflation system. The trial
@@ -33,7 +33,7 @@ ambient light but provides better thermal protection.
 
 The temperature records showed that nighttime low temperatures
 averaged **4°F (2.2°C) warmer** in the air-inflated house than in
-the cold house with a single-layer outer covering. This is a
+the [[cold-house-winter-harvest-system]] with a single-layer outer covering. This is a
 significant difference during the coldest months when every degree
 matters for crop survival and growth.
 
@@ -45,7 +45,7 @@ On a night when the [[oyster-mushroom-outdoor-low-tech-cultivation]] temperature
 |---|---|
 | Outdoors | -8°F (-22°C) |
 | Single-layer house (air) | 2°F (-17°C) |
-| Single-layer house (under row cover) | 20°F (-7°C) |
+| Single-layer house (under [[coleman-double-layer-protection-greenhouse-row-cover]]) | 20°F (-7°C) |
 | Air-inflated house (air) | 7°F (-14°C) |
 | Air-inflated house (under row cover) | 24°F (-4°C) |
 
@@ -65,10 +65,10 @@ comparable leaves, roots, and flavor.
 
 ### Seedling Growth in Winter
 
-The most noticeable difference appeared in the growth rate of new
+The most noticeable difference appeared in the [[soil-temperature-plant-growth-rate-doubling-rule]] of new
 seedlings sown during winter. Seedlings in the air-inflated house
 grew noticeably faster than those in the single-layer house. This
-makes sense given that young seedlings are more vulnerable to cold
+[[coleman-first-rule-nature-makes-sense]] given that young seedlings are more vulnerable to cold
 stress and benefit more from the additional thermal protection.
 
 ### Frost Melt-off Rate
@@ -88,57 +88,3 @@ Based on this trial, Coleman developed a differentiated approach:
 Use the air-inflated double-layer system on houses where new crops
 will be sown between **December 15 and February 15**. During this
 period, the additional warmth significantly benefits germination
-and early seedling growth, and the 10 percent light reduction is
-less consequential because [[coleman-winter-day-length-and-persephone-months]] is already very short.
-
-### When to Prefer Single-Layer
-
-For cold houses protecting established crops for midwinter harvest
-(such as leeks), continue with the simpler single-layer approach.
-The preference for simplicity and better light input outweighs the
-modest temperature benefit for crops that are already at or near
-harvestable size.
-
-## Light vs. Heat Trade-off
-
-The fundamental tension in [[passive-solar-design]] for winter production
-is between maximizing light transmission and maximizing thermal
-protection. Every additional layer of protection reduces light
-but increases warmth.
-
-- **Single-layer plastic**: ~90% light transmission, minimal
-  insulation value.
-- **Double-layer inflated**: ~80% light transmission, R-value
-  approximately doubled.
-- **Row cover (inner layer)**: ~70-85% light transmission
-  depending on weight, additional thermal protection.
-
-During winter at northern latitudes, light is often the more
-limiting factor than temperature for [[coleman-sunlight-and-winter-crop-growth-rates]]. The single-layer
-approach recognizes this by prioritizing light capture. However,
-for germination and early seedling growth, the temperature advantage
-of the double-layer system can make a meaningful difference.
-
-## Relevance for Small-Scale Growers
-
-For growers in cold climates considering their greenhouse design,
-these results suggest a nuanced approach rather than a one-size-fits-
-all solution. The additional cost of a double-layer inflation system
-(inflation blower, slightly more expensive plastic, higher energy
-use) is justified only when the house will be used for winter
-sowing of new crops. For simple overwintering of established cold-
-hardy crops, the simpler single-layer approach is adequate.
-
-The key insight is that the protected microclimate under the inner
-row cover is already Zone 8 equivalent, even in a single-layer
-house. The additional few degrees from double inflation push this
-to roughly Zone 8.5 — helpful but not transformative for
-established crops.
-
-### See Also
-
-- [[coleman-double-cover-air-inflated-trial-temperature-data]]
-
-- [[coleman-unheated-greenhouse-design]]
-- [[coleman-double-layer-protection-greenhouse-row-cover]]
-- [[coleman-persephone-months-winter-day-length]]

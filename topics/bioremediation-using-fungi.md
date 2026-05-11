@@ -5,6 +5,7 @@ tags: [bioremediation, mycoremediation, fungi, pollution, enzymes, heavy-metals,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - singh
   - staycare
   - dighton

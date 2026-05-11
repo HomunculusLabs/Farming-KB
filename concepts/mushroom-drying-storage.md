@@ -1,5 +1,5 @@
 ---
-title: Mushroom Drying and Storage
+title: [[mushroom-drying-canning-pickling-methods]] Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -9,12 +9,12 @@ sources: []
 
 # Mushroom Drying and Storage
 
-Proper drying and storage are essential for preserving mushroom potency, flavor, and medicinal compounds. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage. (see [[psilocybe-cubensis-potency-variation-by-flush]]).
+Proper drying and storage are essential for preserving [[mushroom-potency-and-harvesting]], flavor, and [[cotter-mushroom-nutrition-medicinal-compounds]]. Fresh mushrooms degrade rapidly — enzymes continue to metabolize active compounds within hours of harvest. Dehydration halts this process and enables long-term storage.
 
 ## Why Dry Mushrooms
 
 - **Preservation**: Fresh mushrooms spoil within 3-7 days refrigerated. Dried mushrooms last years
-- **Potency retention**: Halts enzymatic degradation of psilocybin/psilocin and medicinal compounds
+- **Potency retention**: Halts [[enzymatic-degradation-in-mycoremediation]] of psilocybin/psilocin and [[shiitake-medicinal-compounds]]
 - **Weight reduction**: Mushrooms are 90% water. Drying reduces weight by approximately 90%
 - **Convenience**: Easy to store, transport, dose, and incorporate into preparations
 - **Concentration**: Dried material is ~10x more potent by weight than fresh
@@ -29,7 +29,7 @@ The gold standard for home mushroom drying:
 - **Time**: 6-24 hours depending on slice thickness and species
 - **Preparation**: Slice large caps and stems to 1/4 inch thickness for even drying. Small mushrooms can be dried whole
 - **Airflow**: Stack trays with the most open spacing possible. Rotate trays periodically
-- **Models**: Nesco, Excalibur, Presto. Look for adjustable temperature control and horizontal airflow
+- **Models**: Nesco, Excalibur, Presto. Look for adjustable [[hamilton-greenhouse-heating-and-temperature-control]] and horizontal airflow
 
 ### Fan Drying (Preliminary Step)
 
@@ -46,7 +46,7 @@ Traditional method; works in dry climates:
 
 - String mushrooms on thread and hang in a warm, dry, well-ventilated area
 - Or lay on screens in a single layer
-- Requires low humidity (<40% RH) and warm temperatures
+- Requires [[pf-tek-low-humidity-symptoms-and-remediation]] (<40% RH) and warm temperatures
 - Takes 3-7 days
 - Risk of mold if humidity is high
 
@@ -85,7 +85,7 @@ Properly dried mushrooms should be:
 - Hollow-sounding when tapped
 - Easy to crumble into a fine powder between fingers
 
-If mushrooms bend, feel leathery, or are flexible in the center, they are not dry enough. Continue drying. Incomplete drying leads to mold and potency degradation. (see [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]).
+If mushrooms bend, feel leathery, or are flexible in the center, they are not dry enough. Continue drying. Incomplete drying leads to mold and [[neurotropic-fungi-specimen-age-potency-degradation]].
 
 ## Desiccant Use
 
@@ -107,7 +107,7 @@ Desiccants absorb residual moisture after initial drying. Essential for long-ter
 
 ### Desiccant Chamber Method
 
-1. Place a layer of silica gel in the bottom of an airtight container (Tupperware, Mason jar)
+1. Place a layer of silica gel in the bottom of an airtight container (Tupperware, [[mason-jar-preserving-guide]])
 2. Create a barrier: paper towel, coffee filter, or wire screen over the gel
 3. Place fan-dried mushrooms on the barrier — do not let them touch the gel
 4. Seal the container

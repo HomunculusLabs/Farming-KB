@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, and climate change expanding the geographic range of pathogenic fungi. (see [[cryptococcus-neoformans-pathogenesis]]).
+Fungal infections (mycoses) range from superficial skin conditions to life-threatening systemic diseases. An estimated 1.5 million people die from fungal infections annually worldwide, a figure that exceeds deaths from malaria or tuberculosis. The incidence of invasive fungal infections has risen dramatically over the past three decades, driven by increasing populations of immunocompromised patients, advances in medical interventions, [[mycelium-running-stamets-fungi-and-climate-change]] expanding the geographic range of pathogenic fungi.
 
 ## Classification of Fungal Infections
 
@@ -27,7 +27,7 @@ Affect only the outermost layers of skin, hair, and nails:
 
 Infect keratinized tissues (skin, hair, nails):
 
-- **Dermatophytosis (Ringworm/Tinea)**: Caused by dermatophyte fungi in three genera:
+- **Dermatophytosis (Ringworm/Tinea)**: Caused by [[dermatophyte-fungi-human-disease]] in three genera:
   - **Trichophyton**: T. rubrum (most common cause of skin and nail infections), T. mentagrophytes, T. tonsurans (common cause of tinea capitis in children)
   - **Microsporum**: M. canis (from cats and dogs), M. audouinii
   - **Epidermophyton**: E. floccosum (groin and skin infections)
@@ -40,28 +40,28 @@ Infect keratinized tissues (skin, hair, nails):
 
 ### Mucocutaneous Mycoses
 
-- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by Candida albicans and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
+- **Oral candidiasis (thrush)**: White pseudomembranous plaques on oral mucosa caused by [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and other Candida species. Common in infants, immunocompromised patients, and those using inhaled corticosteroids
 - **Vulvovaginal candidiasis**: Vaginal itching, discharge, and irritation; affects ~75% of women at least once. C. albicans causes 80-90% of cases; C. glabrata and C. tropicalis are less common but more resistant to azole treatment
 - **Intertrigo**: Candida infection in skin folds; erythematous, macerated lesions with satellite pustules
 
 ### Subcutaneous Mycoses
 
-- **Sporotrichosis**: Caused by Sporothrix schenckii, a dimorphic fungus found in soil and plant material. Usually introduced through skin puncture (thorns, splinters). Presents as nodular lesions along lymphatic channels ("sporotrichoid spread"). Treated with itraconazole
+- **Sporotrichosis**: Caused by Sporothrix schenckii, a [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]] found in soil and plant material. Usually introduced through skin puncture (thorns, splinters). Presents as nodular lesions along lymphatic channels ("sporotrichoid spread"). Treated with itraconazole
 - **Chromoblastomycosis**: Caused by multiple dematiaceous (dark) fungi (Fonsecaea, Phialophora, Cladophialophora). Presents as verrucous nodules and plaques on extremities. Chronic, difficult-to-treat infection
-- **Mycetoma**: Chronic subcutaneous infection caused by fungi (eumycetoma) or bacteria (actinomycetoma). Characterized by sinus tract formation with grain (granule) discharge. Common in tropical regions
+- **Mycetoma**: Chronic subcutaneous infection caused by fungi (eumycetoma) or bacteria (actinomycetoma). Characterized by sinus tract formation with grain (granule) discharge. Common [[fukuoka-natural-farming-in-tropical-regions]]
 - **Phaeohyphomycosis**: Infections caused by dematiaceous fungi, ranging from superficial to systemic
 
 ## Systemic (Invasive) Mycoses
 
 ### Candidiasis
 
-Candida species are commensal organisms in the human microbiome (gastrointestinal tract, oral cavity, vagina) but can cause disease when mucosal barriers are disrupted or immune defenses are impaired. (see [[exophiala-dermatitidis]]).
+Candida species are commensal organisms in the human microbiome (gastrointestinal tract, oral cavity, vagina) but can cause disease when mucosal barriers are disrupted or immune defenses are impaired.
 
 **Risk factors**:
 - Broad-spectrum antibiotic use (disrupts competing bacterial flora)
 - Central venous catheters
 - Immunosuppression (neutropenia, HIV/AIDS)
-- Diabetes mellitus
+- [[blesching-cannabis-diabetes-mellitus-endocannabinoid-system]]
 - Total parenteral nutrition
 - Abdominal surgery
 - ICU stay
@@ -87,7 +87,7 @@ Candida species are commensal organisms in the human microbiome (gastrointestina
 
 ### Aspergillosis
 
-Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
+Caused primarily by [[aspergillus-fumigatus]] (~90% of cases), with A. flavus, A. niger, and A. terreus also pathogenic.
 
 **Clinical presentations**:
 - **Invasive pulmonary aspergillosis (IPA)**: Most common form. Affects immunocompromised patients (neutropenia, transplant recipients, chronic corticosteroid use). Presents with fever, cough, pleuritic chest pain, hemoptysis. CT shows characteristic halo sign or air-crescent sign. Mortality 40-80%
@@ -99,12 +99,12 @@ Caused primarily by Aspergillus fumigatus (~90% of cases), with A. flavus, A. ni
 - **Voriconazole**: First-line for invasive aspergillosis
 - **Isavuconazole**: Non-inferior to voriconazole with better safety profile
 - **Amphotericin B**: Lipid formulations for salvage therapy
-- **Echinocandins**: Used in combination therapy or as salvage
+- **Echinocandins**: Used in [[lentinan-gastric-cancer-combination-therapy]] or as salvage
 - **Azole-resistant A. fumigatus**: Increasing globally due to environmental azole use in agriculture; represents a major emerging threat
 
 ### Cryptococcosis
 
-Caused by encapsulated yeast Cryptococcus neoformans and C. gattii.
+Caused by encapsulated yeast [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] and C. gattii.
 
 **Risk factors**: HIV/AIDS (CD4 < 100 cells/μL), organ transplantation, corticosteroid use, sarcoidosis. C. gattii can infect immunocompetent individuals.
 

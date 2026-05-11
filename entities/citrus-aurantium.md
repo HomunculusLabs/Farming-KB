@@ -88,39 +88,3 @@ alkaloid with adrenergic activity. Synephrine content ranges from
 
 Neroli oil, steam-distilled from the flowers, contains linalool
 (30–40%), linalyl acetate (10–20%), limonene, and nerolidol as major
-constituents. Petitgrain oil from the leaves and twigs has a different
-composition dominated by linalyl acetate and linalool.
-
-Flavonoid glycosides are abundant in the fruit, including hesperidin,
-naringin, and neohesperidin. Naringin is the primary bitter principle
-of the juice.
-
-The peel is rich in polymethoxyflavones, including nobiletin and
-tangeretin, which have demonstrated anti-inflammatory activity in
-vitro studies.
-
-## Culinary and Industrial Use
-
-Bitter orange juice is too sour and bitter for fresh consumption but is
-essential in British-style marmalade production. The Seville orange
-harvest in Spain supplies the majority of the global marmalade market.
-
-The peel is candied or used as a flavoring in liqueurs such as Curaçao,
-Cointreau, and Grand Marnier. Dried peel is used in Chinese cuisine and
-traditional formulations.
-
-Neroli essential oil is used in perfumery as a top note, valued for its
-fresh, floral character. Petitgrain oil finds application in soaps,
-detergents, and cosmetic products.
-
-Bitter orange extract is marketed as a dietary supplement for weight
-management, though clinical evidence supporting efficacy is limited.
-Safety concerns have been raised regarding cardiovascular effects at
-high doses.
-
-## See Also
-
-- [[citrus-limon]]
-- [[prunus-dulcis]]
-- [[morus-alba]]
-- [[ficus-carica]]

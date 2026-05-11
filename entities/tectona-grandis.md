@@ -9,7 +9,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Kjaer, E.D. & Kajornsrichon, S. (2014). "Teak (Tectona grandis L.f.): genetic resources, breeding and conservation." Forest Ecology and Management, 330, 1-7.
+  - Kjaer, E.D. & Kajornsrichon, S. (2014). "Teak (Tectona grandis L.f.): genetic resources, breeding and conservation." Forest soil-nematodes-ecology-and-management, 330, 1-7.
   - Tewari, D.N. (1992). A Monograph on Teak. International Book Distributors.
   - FAO (2021). "Tectona grandis (teak)." FAO Ecocrop Database.
   - Kadambi, K. (1972). "On some aspects of natural regeneration of teak." Indian Forester, 98(8), 453-463.
@@ -19,7 +19,7 @@ sources:
 
 **Tectona grandis**, commonly known as teak, is a large deciduous tree in the family Lamiaceae. It is one of the most valuable tropical hardwood species in the world, prized for its exceptional timber durability and resistance to decay.
 
-Teak has been cultivated for over 2,000 years and remains the dominant plantation hardwood across tropical Asia, Africa, and Central America. Its natural range spans the Indian subcontinent and Southeast Asia.
+Teak has been cultivated for over 2,000 years and remains the dominant plantation hardwood across tropical Asia, Africa, and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. Its natural range spans the Indian subcontinent and Southeast Asia.
 
 ## Taxonomy and Morphology
 
@@ -71,51 +71,20 @@ Heartwood color darkens with exposure to sunlight, developing an attractive pati
 
 ## Cultivation and Silviculture
 
-Teak is primarily propagated from seed, though tissue culture and vegetative propagation from superior genotypes are increasingly used in clonal plantations. Seed viability declines rapidly; fresh seeds germinate at 60–80%.
+Teak is primarily propagated from seed, though tissue culture and [[hamilton-vegetative-propagation]] from superior genotypes are increasingly used in clonal plantations. Seed viability declines rapidly; fresh seeds germinate at 60–80%.
 
 Nursery seedlings are raised in polybags for 6–8 months before outplanting at the onset of the rainy season. Initial spacing of 2 × 2 to 4 × 4 meters is common.
 
-Rotation lengths range from 20 to 80 years depending on site quality and management objectives. Short-rotation plantations (20–30 years) in Central America produce smaller logs for pulp and general construction.
+Rotation lengths range from 20 to 80 years depending on site quality and management objectives. Short-rotation plantations (20–30 years) [[neurotropic-fungi-in-central-america]] produce smaller logs for pulp and general construction.
 
 Thinning is critical for producing high-quality timber. Early thinning at 5–8 years removes suppressed trees, with subsequent thinnings every 5–10 years.
 
-Fertilizer application significantly improves growth rates on nutrient-poor sites. Recommended doses include 50–100 g N, 50 g P₂O₅, and 100 g K₂O per tree per year.
+[[cervantes-fertilizer-application-strain-feeding]] significantly improves growth rates on nutrient-poor sites. Recommended doses include 50–100 g N, 50 g P₂O₅, and 100 g K₂O per tree per year.
 
 Growth rates of 10–25 m³/ha/year are achievable on good sites with intensive management. Plantation yields of 150–300 m³/ha over a 30-year rotation are typical.
 
 Weed competition is a major constraint during the first two years after planting. Manual or chemical weed control significantly improves early survival and growth rates.
 
-Pruning is practiced in high-value plantations to produce clear, knot-free boles. Formative pruning at 2–3 years corrects early branching defects.
+Pruning is practiced in high-value plantations to produce clear, knot-free boles. [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]] at 2–3 years corrects early branching defects.
 
 Mixed-species plantations with nitrogen-fixing trees have shown promise for improving soil fertility. However, teak is highly light-demanding and shade from companions can reduce growth.
-
-## Ecology and Conservation
-
-In natural forests, teak is a canopy or emergent species that plays a significant role in structuring the forest community. It provides habitat and food for numerous bird and mammal species.
-
-Teak leaf litter decomposes slowly and contributes to soil nutrient cycling. The species is moderately fire-tolerant, resprouting after low-intensity ground fires.
-
-Natural teak forests have declined dramatically due to over-exploitation. Remaining natural stands in Myanmar, India, and Laos are fragmented and under continued pressure.
-
-The species is listed as Endangered on the IUCN Red List in parts of its native range, though it is widely planted and not at risk of global extinction. Genetic diversity in natural populations is a conservation priority.
-
-Teak plantations can have mixed ecological impacts. Monoculture plantations support lower biodiversity than natural forests but provide greater habitat value than agricultural land uses.
-
-Pests include the teak defoliator (*Hyblaea puera*), which causes periodic outbreaks, and stem-boring beetles. The teak mistletoe (*Dendrophthoe falcata*) is a common hemiparasite.
-
-Root rot caused by *Polyporous sanguineus* can affect stressed trees in plantations. Management relies on maintaining tree vigor through proper spacing and nutrition.
-
-Teak serves as a host for several commercially important edible fungi in Southeast Asian forests. The relationship between teak forest management and mushroom yields is an area of active research.
-
-## See Also
-
-- [[swietenia-macrophylla]]
-- [[cedrela-odorata]]
-- [[cordia-alliodora]]
-- [[tabebuia-rosea]]
-- [[handroanthus-impetiginosa]]
-- [[eucalyptus-globulus]]
-- [[azadirachta-indica]]
-- [[dalbergia-sissoo]]
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]

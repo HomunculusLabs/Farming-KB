@@ -87,18 +87,3 @@ B. bassiana is widely used as a biological insecticide in both
 available for controlling whiteflies, thrips, termites, and beetles.
 The fungus can be applied as a foliar spray, soil drench, or bait
 depending on the target pest and cropping system.
-
-Advantages of B. bassiana as a biocontrol agent include its broad
-host range, low mammalian toxicity, and compatibility with
-[[lecanicillium-muscarium]]
-
-- [[beauveria]]
-
-- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]], [[cotter-natural-pest-control-disease-management]]
-
-- [[fungal-pest-control]]
-- [[aspergillus-niger-in-fungal-bioleaching]]
-
-## See Also
-
-- [[beauveria-brongniartii]]

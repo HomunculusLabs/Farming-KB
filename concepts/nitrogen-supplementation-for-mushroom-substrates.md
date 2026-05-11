@@ -87,12 +87,3 @@ In outdoor environments, the cultivator cannot control temperature, humidity,
 or exposure to wild organisms. The safest approach outdoors is to use
 unsupplemented or minimally supplemented substrates and rely on the natural
 selectivity of the base material.
-
-## See Also
-
-- growing-gourmet-biological-efficiency-yield
-- [[hot-water-and-hydrated-lime-substrate-treatment]]
-- growing gourmet [[oyster-mushroom-supplemented-sawdust-blocks]] fruiting formula
-- [[mushroom-substrates]]
-- [[sterilization]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]]

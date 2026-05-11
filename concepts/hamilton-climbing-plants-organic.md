@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [organic-gardening, plants]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 # Growing Climbing Plants Organically
@@ -22,8 +23,8 @@ True climbers are plants that have some means of clinging to a support -- either
 ### Self-Clinging Climbers
 
 The easiest climbers to train. They attach themselves to surfaces without additional support:
-- **Ivy** (Hedera sp.): Evergreen, very vigorous, useful [[fukuoka-citrus-orchard-ground-cover-cultivation]] for weed suppression
-- **Virginia creeper** (Parthenocissus quinquefolia): Dense, colorful foliage (red in fall), not for flowering interest
+- **Ivy** (Hedera sp.): Evergreen, very vigorous, useful [[fukuoka-citrus-orchard-ground-cover-cultivation]] for [[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]
+- **Virginia creeper** ([[parthenocissus-quinquefolia]]): Dense, colorful foliage (red in fall), not for flowering interest
 - **Climbing hydrangea** (Hydrangea petiolaris): Clings to walls, white flower clusters in summer
 
 Simply plant them at the bottom of the wall and point them in the right direction. They will not grow very quickly until they attach but, once they do, they will soon make up for the delay.
@@ -46,10 +47,10 @@ Some shrubs can be trained upward to give the same effect as climbing plants. Th
 
 The site and function of the climber will determine the type you can grow:
 - Clematis and roses can be trained through trees and other shrubs to give contrast in flower color or extend the season
-- Avoid vigorous types like Clematis montana and Russian vine (Polygonum baldschuanicum) for growing through trees -- they will swamp them
-- Ivy makes useful ground cover for weed suppression
+- Avoid vigorous types like [[clematis-montana]] and Russian vine (Polygonum baldschuanicum) for growing through trees -- they will swamp them
+- Ivy makes useful [[fukuoka-ground-cover-strategy]] for weed suppression
 - Ornamental vines (Vitis sp.) and Virginia creeper are grown for their dense, colorful foliage rather than flowers
-- Tienturier grape (Vitis vinifera "Purpurea") has claret-red young leaves that deepen to dark purple
+- Tienturier grape ([[vitis-vinifera]] "Purpurea") has claret-red young leaves that deepen to dark purple
 
 ## Buying Climbers
 
@@ -86,36 +87,3 @@ If the soil has been well prepared, climbers will only need watering in very dry
 ### Feeding
 
 If the soil has been well prepared, general border feeding should be sufficient.
-
-### Pruning
-
-Climbers should be pruned annually to improve flowering. They are divided into two pruning groups:
-
-**Early-flowering climbers** (prune and deadhead immediately after flowering):
-- Clematis montana, Clematis macropetala, Clematis "The President"
-- Wisteria, summer jasmine, honeysuckle (woodbine)
-- Chinese gooseberry, Akebia quinata
-
-**Late-flowering climbers** (cut back the following spring):
-- Clematis jackmanii, Clematis "Ville de Lyon", Clematis "Hagley Hybrid"
-- Trumpet vine, Russian vine, winter jasmine
-- Chilean glory flower, Lapageria rosea
-
-### Preventing Straying
-
-Never let a climbing plant get a firm hold on a roof. The tendrils will get beneath the tiles and could dislodge them. Cut back stems with shears. Self-clinging climbers should be cut away from windows or they will block out daylight quickly. Spring is the best time for this maintenance.
-
-## Making a Rose-Covered Pillar
-
-Carefully wind the rose stem around the pillar and tie it in with soft string. As you are doing so, try to pull the branches down to form a flat spiral, which will increase the number of flowers produced.
-
-## Related
-- [[hamilton-watering-plants-techniques]] Concepts
-
-- [[hamilton-rose-growing-organic]]
-- [[geoff-hamilton-organic-techniques]]
-
-Source: Geoff Hamilton, The Organic Garden Book
-- [[organic-garden-soil-preparation]]
-- [[hamilton-pruning-and-training-fruit-trees]]
-- akebia-trifoliata

@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Fungi and Plant Symbiosis
+title: Mycorrhizal Fungi Symbiosis With Plants
 created: 2026-04-28
 tags:
   - mycology
@@ -29,9 +29,9 @@ on Earth.
 Several distinct types of mycorrhizal associations exist. Ectomycorrhizae
 form a sheath around root tips and penetrate between root cells without
 entering them. These are characteristic of many forest trees including oaks,
-pines, and beeches. Endomycorrhizae (arbuscular mycorrhizae) actually enter
+pines, and beeches. Endomycorrhizae ([[glomeromycota-arbuscular-mycorrhizae]]) actually enter
 root cells, forming branching structures called arbuscules inside the plant
-tissue. This type is associated with most agricultural crops and grasses.
+tissue. This type is associated with most [[fungal-endophytes-agricultural-crops]] and grasses.
 
 The boletes and other [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] commonly seen fruiting in forests
 are the reproductive structures of ectomycorrhizal mycelia connected to tree
@@ -51,7 +51,7 @@ area available to the plant by orders of magnitude.
 
 In highly acidic, nutrient-poor soils, mycorrhizal fungi are particularly
 critical. They extract scarce inorganic nutrients that plant roots alone could
-not access, sustaining forest ecosystems that would otherwise be unable to
+not access, sustaining [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] that would otherwise be unable to
 persist.
 
 ## Rock Penetration and Soil Formation
@@ -77,7 +77,7 @@ poor conditions for plant growth. By mining nutrients from underlying rocks
 and transferring them to plants, mycorrhizal fungi may have played a crucial
 role in facilitating the colonization of land by plants.
 
-Fossilized hyphae of mycorrhizal fungi have been found inside the root cells
+Fossilized hyphae [[query-what-are-the-different-types-of-mycorrhizal-fungi]] have been found inside the root cells
 of primitive land plants preserved 400 million years ago. Even older rocks
 from Wisconsin contain fossils of the large spores characteristic of
 mycorrhizal fungi, strengthening the case for intimate relationships between
@@ -85,39 +85,6 @@ plants and fungi spanning more than 600 million years.
 
 ## Truffle Connections
 
-Modern truffles maintain mycorrhizal relationships with oak, poplar, and other
+Modern truffles maintain [[teaming-with-microbes-fungi-and-mycorrhizal-relationships]] with oak, poplar, and other
 trees, obtaining sugars from the plant in exchange for inorganic nutrients
 scavenged from the soil. In France and northern Italy, truffle development is
-encouraged by planting tree seedlings and inoculating them with truffle spores
-or mycelium. Seven to fifteen years pass before any truffles appear, reflecting
-the patience required to establish these deep symbiotic connections.
-
-The evolutionary history of truffles illustrates how mycorrhizal partnerships
-have persisted through hundreds of millions of years of environmental change.
-Truffle ancestors maintained connections with plant roots throughout their
-evolution from exposed cup fungi to buried, animal-dispersed fruiting bodies.
-
-## Ecological Networks
-
-[[dighton-mycorrhizal-networks-carbon-transfer]] create underground connections between individual plants,
-potentially allowing [[mycelial-network-resource-sharing-plants]] and [[plant-hormones-and-chemical-signaling-systems]] between trees.
-These "wood wide webs" mean that a single mycelium can connect multiple trees
-of different ages and species, facilitating the transfer of carbon, nitrogen,
-and defensive compounds through the ecosystem.
-
-## Threats to Mycorrhizal Systems
-
-Modern agricultural practices, including tillage, fungicide application, and
-fertilizer use, can disrupt mycorrhizal associations. The reliance of
-conventional agriculture on phosphorus fertilizers reduces plant dependence on
-mycorrhizal partners. Understanding and preserving mycorrhizal relationships
-is increasingly recognized as essential for sustainable agriculture and
-ecosystem management.
-
-## See Also
-
-- symbiosis-in-fungi
-
-- [[fungal-hyphae-invasive-growth-mechanisms]]
-- [[lichen-symbiosis-fungi-algae-partnership]]
-- [[endophytic-fungi-living-inside-plants]]

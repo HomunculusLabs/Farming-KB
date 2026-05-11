@@ -88,24 +88,3 @@ vegetative propagation:
   without replanting.
 - **Chard** (*Beta vulgaris* var. cicla*): biennial that often persists for
   two or more years in mild climates.
-
-## Perennial Fruits, Berries, and Nuts
-
-The most productive perennial food plants are trees and shrubs. Apples, pears,
-plums, cherries, peaches, figs, persimmons, pawpaws, and citrus (in suitable
-climates) produce abundant food from a single planting. Berry bushes —
-blueberries, raspberries, blackberries, currants, gooseberries, and elderberries
-— bear heavily in small spaces. Nut trees such as walnuts, chestnuts, pecans,
-hazelnuts, and almonds provide protein-rich harvests.
-
-In the food forest model, these trees and
-shrubs are integrated with understory herbs, [[permaculture-plants-food-forest-ground-covers-bamboos]], vines, and root
-crops into a multi-layered, self-sustaining ecosystem.
-
-## The Practical Approach
-
-Few gardeners will eliminate annual vegetables entirely. A practical approach
-is to supplement perennial guilds with small annual beds for bulk harvesting.
-Over time, as perennials mature, annual beds can shrink.
-
-The broader vision is a garden that approaches the ecological ideal: minimal

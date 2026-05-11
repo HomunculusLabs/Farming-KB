@@ -13,12 +13,12 @@ sources: []
 
 Passionflower (also called maypop, wild passion vine, or passion vine) is a
 fast-growing perennial vine native to the southeastern United States and
-Central America. Named by Spanish missionaries in the 16th century who saw
+[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
 pain reliever. Passiflora incarnata is the primary species used medicinally
-in North American and European herbal practice. (see [[permaculture-passionfruit]]).
+in [[growing-gourmet-north-american-reishi-species]] and European herbal practice.
 
 ## Botanical Profile
 
@@ -33,12 +33,12 @@ in North American and European herbal practice. (see [[permaculture-passionfruit
 The spectacular flowers are 2-3 inches across with a fringe of filaments,
 five stamens, and three styles -- one of the most distinctive flowers in
 the plant kingdom. The vine dies back to the ground each winter in most of
-its range and regrows vigorously from the root system in spring. (see [[hawthorn-berry-guide]]).
+its range and regrows vigorously from the root system in spring.
 
 ## Medicinal Uses
 
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
+[[harmala-alkaloids]] (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:
@@ -59,7 +59,7 @@ Key medicinal applications:
 - ADHD: Limited evidence suggests potential benefits for attention and
   hyperactivity in children.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tea: Steep 1-2 teaspoons dried herb (leaves and flowers) in 8 oz hot
   water, covered, for 10-15 minutes. Drink 30-60 minutes before bed.
 - Tincture: Fresh vine tincture (1:2 in 50-60% alcohol), 20-60 drops
@@ -120,12 +120,12 @@ From layering:
 - Plant at the same depth as in the container
 - Provide a sturdy trellis, fence, or arbor at planting time
 - Water well after planting; keep consistently moist until established
-- Mulch 3-4 inches deep to retain moisture and suppress weeds
+- Mulch 3-4 inches deep to retain moisture and [[query-how-do-cover-crops-suppress-weeds]]
 
 ### Care and Maintenance
 - Water regularly during the first growing season
 - Once established, water during dry periods (1 inch per week)
-- Fertilize lightly in spring with compost or balanced organic fertilizer;
+- Fertilize lightly in spring with compost or balanced [[complete-organic-fertilizer-cof]];
   excess nitrogen produces lush foliage with fewer flowers
 - Train vines onto support structure; redirect as needed
 - Prune aggressively in late winter or early spring to control size and

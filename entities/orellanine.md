@@ -20,7 +20,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Orellanine** is a highly nephrotoxic bipyridyl compound produced by several species of mushrooms in the genus *Cortinarius* (Section Orellani). It is the principal toxin responsible for **Cortinarius poisoning syndrome**, a delayed-onset renal failure that has caused numerous fatalities across Europe. Orellanine was first isolated and characterized in the 1960s following a series of fatal poisonings in Poland linked to *Cortinarius orellanus*.
+**Orellanine** is a highly nephrotoxic bipyridyl compound produced by several species of mushrooms in the genus *Cortinarius* (Section Orellani). It is the principal toxin responsible for **Cortinarius poisoning syndrome**, a delayed-onset renal failure that has caused numerous fatalities across Europe. Orellanine was first isolated and characterized in the 1960s following a series of fatal poisonings in Poland linked to *[[cortinarius-orellanus]]*.
 
 The compound is unusual among natural fungal toxins for its exceptionally long latency period between ingestion and symptom onset, typically 2–14 days. This delayed presentation frequently leads to misdiagnosis and delayed treatment, contributing to its high mortality rate.
 
@@ -30,7 +30,7 @@ Orellanine is 3,3',4,4'-tetrahydroxy-2,2'-bipyridine-1,1',6,6'-tetraone, with mo
 
 The bipyridine core is unique among naturally occurring compounds. Orellanine is the di-N-oxide of orelline, its reduced and comparatively non-toxic metabolite. The N-oxide moieties are essential for nephrotoxic activity; reduction to orelline inactivates the compound.
 
-It is soluble in water, methanol, and ethanol, but poorly soluble in non-polar organic solvents. The compound is relatively heat-stable, surviving cooking temperatures, which explains why culinary preparation does not neutralize the toxin. It is sensitive to strong light and alkaline conditions, which promote degradation to orelline and other products.
+It is soluble in water, methanol, and ethanol, but poorly soluble in non-polar organic solvents. The compound is relatively heat-stable, surviving cooking temperatures, which explains why [[duggar-mushroom-culinary-preparation-and-cooking]] does not neutralize the toxin. It is sensitive to strong light and alkaline conditions, which promote degradation to orelline and other products.
 
 Structural analogues include **orelline** (3,3',4,4'-tetrahydroxy-2,2'-bipyridine), the non-oxidized form, and minor metabolites orellinine and cortinarin. Orelline shows minimal nephrotoxicity and is considered the primary detoxification product.
 
@@ -40,7 +40,7 @@ Orellanine exerts its toxicity primarily through selective damage to the proxima
 
 The compound acts as a potent inhibitor of protein synthesis in renal tubular cells. It interferes with both DNA and RNA synthesis, leading to disruption of ribosomal function and translational arrest. This inhibition is relatively selective for renal tubular cells, possibly due to active uptake and concentration mechanisms in the proximal tubule.
 
-Orellanine generates reactive oxygen species (ROS) through redox cycling of its bipyridyl N-oxide moieties. The resulting [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
+Orellanine generates [[reactive-oxygen-species-and-oxidative-stress]] (ROS) through redox cycling of its bipyridyl N-oxide moieties. The resulting [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] causes lipid peroxidation of tubular cell membranes, mitochondrial dysfunction, and activation of apoptotic pathways. Glutathione depletion has been observed in affected renal tissue.
 
 Additional proposed mechanisms include disruption of cellular energy metabolism through interference with the electron [[electron-transport-chain-mitochondrial-respiration]], and direct tubulointerstitial inflammation mediated by cytokine release from damaged epithelial cells. The combination of metabolic inhibition, oxidative damage, and inflammatory response produces irreversible acute tubular necrosis.
 
@@ -60,11 +60,11 @@ The oliguric or anuric renal failure phase manifests with rising serum creatinin
 
 ## Sources and Species
 
-Orellanine is produced by several *Cortinarius* species in Section Orellani. The primary species are *Cortinarius orellanus* (the type species, known as the Fool's Webcap) and *Cortinarius rubellus* (syn. *C. speciosissimus*), both native to Europe.
+Orellanine is produced by several *Cortinarius* species in Section Orellani. The primary species are *Cortinarius orellanus* (the type species, known as the Fool's Webcap) and *[[cortinarius-rubellus]]* (syn. *C. speciosissimus*), both native to Europe.
 
 Additional orellanine-producing species include *C. henryi* ([[psilocybin-north-america-pacific-northwest]]), *C. rainierensis* (Pacific Northwest), and *C. orellanus* f. *sterilis*. The concentration of orellanine varies significantly among species, with *C. rubellus* generally containing higher levels than *C. orellanus*.
 
-The toxin is concentrated primarily in the cap and gill tissue, with lower levels in the stipe. Mycelial cultures produce only trace amounts, suggesting that orellanine biosynthesis is tied to fruiting body development. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including substrate composition and temperature influence toxin production.
+The toxin is concentrated primarily in the cap and gill tissue, with lower levels in the stipe. Mycelial cultures produce only trace amounts, suggesting that orellanine biosynthesis is tied to [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including substrate composition and temperature influence toxin production.
 
 ## Treatment and Prognosis
 
@@ -82,36 +82,8 @@ Stanislaw Grzymala and colleagues isolated the toxic principle from Polish *C. o
 
 Subsequent investigations in the 1980s, particularly following Scandinavian outbreaks, established *C. rubellus* as a more potent source of the toxin. The species was responsible for several high-profile cases in Finland and Sweden, prompting public health campaigns about the dangers of foraging Cortinarius species.
 
-Modern analytical methods have since identified additional orellanine-producing species and refined understanding of the toxin's pharmacokinetics. Despite this, Cortinarius poisoning continues to occur, particularly among immigrants from regions where *Cortinarius* species are not traditionally consumed.
+Modern [[analytical-methods-psilocybin-psilocin-quantification]] have since identified additional orellanine-producing species and refined understanding of the toxin's pharmacokinetics. Despite this, Cortinarius poisoning continues to occur, particularly among immigrants from regions where *Cortinarius* species are not traditionally consumed.
 
 ## Chemical Synthesis and Detection
 
 Total synthesis of orellanine has been achieved but is not performed commercially due to the compound's toxic nature and limited research demand. Semi-synthetic routes from simpler bipyridine precursors have been described in the literature.
-
-Analytical detection of orellanine in biological matrices employs liquid chromatography coupled with tandem mass spectrometry (LC-MS/MS) as the gold standard. The method offers detection limits below 10 ng/mL in urine and serum, with a linear range spanning three orders of magnitude.
-
-HPLC with UV detection at 254 nm provides a simpler but less sensitive alternative. Capillary electrophoresis has also been adapted for orellanine analysis in mushroom tissue and biological fluids. These methods are critical for forensic confirmation of suspected Cortinarius poisoning cases.
-
-## Legal Status and Forensic Relevance
-
-Orellanine is not a scheduled substance under international drug control conventions, as it has no recreational or medical use. It is classified as a hazardous chemical in several jurisdictions and appears on lists of biological toxins subject to export controls.
-
-In forensic contexts, orellanine can be detected in urine, blood, and gastric contents using HPLC-UV, LC-MS/MS, and capillary electrophoresis methods. Detection windows of 7–14 days post-ingestion have been documented, depending on the analytical sensitivity and renal function of the patient.
-
-## Related Compounds
-
-- **Orelline** — non-toxic reduction product of orellanine
-- **Muscimol** — nephrotoxic isoxazole from *[[allegro-amanita-muscaria-properties-and-pharmacology]]*
-- **Amatoxin** — hepatotoxic bicyclic peptide from *Amanita* species
-- **Gyromitrin** — volatile hepatotoxic hydrazine from *Gyromitra* species
-- **Orellinine** — minor metabolite from orellanine-producing *Cortinarius*
-
-## See Also
-
-- [[amanita-phalloides]]
-- [[gyromitrin]]
-- [[aflatoxin]]
-- [[muscimol-entity]]
-- nephrotoxin
-- bipyridine
-- [[muscarine]]

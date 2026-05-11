@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Formisano, C. et al. (2010). "Chemical composition and antimicrobial activity of Clinopodium vulgare permaculture-designers-manual-essential-oil-plants." Chemistry of Biodiversity, 7(8), 1824–1832.
-  - Tuttolomondo, T. et al. (2013). "Essential oil composition of Clinopodium vulgare L. from Sicily." Natural Product Research, 27(4–5), 458–466.
+  - Tuttolomondo, T. et al. (2013). "[[permaculture-designers-manual-essential-oil-plants]] composition of Clinopodium vulgare L. from Sicily." Natural Product Research, 27(4–5), 458–466.
   - Karioti, A. et al. (2007). "Composition and antimicrobial activity of the essential oil of Clinopodium vulgare." Planta Medica, 73(9), 371.
   - Todorova, M. et al. (2009). "Essential oil of Clinopodium vulgare from Bulgaria." Journal of Biosciences, 64(2), 103–107.
 ---
@@ -19,7 +19,7 @@ sources:
 
 **Clinopodium vulgare** L., commonly known as wild basil, is a perennial herbaceous plant in the family Lamiaceae.
 
-Despite its common name, wild basil is not closely related to cultivated basil (*Ocimum basilicum*). The similarity in aroma is superficial.
+Despite its common name, wild basil is not closely related to cultivated basil (*[[ocimum-basilicum]]*). The similarity in aroma is superficial.
 
 The species is widespread across temperate Europe and Asia. It has a long history of use in European folk medicine as an astringent, carminative, and wound-healing herb.
 
@@ -55,7 +55,7 @@ It serves as a nectar source for bees, butterflies, and other pollinating insect
 
 ## Cultivation
 
-Wild basil is rarely cultivated commercially but is occasionally grown in herb gardens, wildflower meadows, and ecological restoration projects.
+Wild basil is rarely cultivated commercially but is occasionally grown in herb gardens, wildflower meadows, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects.
 
 **Cultivation notes:**
 
@@ -85,31 +85,6 @@ Some populations are rich in pulegone while others are dominated by piperitone o
 
 **Reported pharmacological activities:**
 
-Essential oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria, including methicillin-resistant *Staphylococcus aureus*.
+Essential oil exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria, including methicillin-resistant *[[staphylococcus-aureus]]*.
 
 Antioxidant capacity has been demonstrated in DPPH and ABTS radical scavenging assays, comparable to standard antioxidants at equivalent concentrations.
-
-Anti-inflammatory effects have been observed in vitro, with extracts inhibiting cyclooxygenase-2 (COX-2) and nitric oxide production in activated macrophages.
-
-## Ethnobotanical Use
-
-Wild basil has been used in European folk medicine for centuries, though it is far less commercially significant than its cultivated relatives.
-
-**Traditional applications:**
-
-- **Respiratory:** Infusions used for coughs, bronchitis, and cold symptoms.
-- **Digestive:** Tea preparations consumed for indigestion, bloating, and mild intestinal cramps.
-- **Wound healing:** Crushed leaves applied topically to minor cuts, abrasions, and insect bites.
-- **Women's health:** Used in some traditions for menstrual discomfort and as a mild emmenagogue.
-
-In Italian folk medicine, the plant is known as *mentuccia* and used to flavor mushrooms and wild greens. In Romanian and Bulgarian traditions, it is brewed as a calming tea.
-
-The species is included in the European Medicines Agency monograph evaluations for traditional herbal medicines, though it lacks formal regulatory approval as a medicinal product.
-
-## See Also
-
-- [[origanum-vulgare-entity]]
-- [[calamintha-nepeta]]
-- [[micromeria-fruticosa]]
-- [[stachys-officinalis]]
-- [[melissa-officinalis]]

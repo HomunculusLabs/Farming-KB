@@ -2,7 +2,7 @@
 title: bloomfield sudden oak death phytophthora species diversity Death and Phytophthora Species Diversity
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - plant-pathology
   - phytophthora
   - sudden-oak-death
@@ -35,7 +35,7 @@ live oaks, and black oaks have been reported along a two-hundred-
 mile stretch from Monterey to Mendocino County, encompassing
 some of the most scenic countryside in the [[dmt-containing-plants-united-states-halpern]].
 
-The disease progression is both rapid and lethal. The mycelium
+The disease progression is both rapid and lethal. The [[mycelium]]
 spreads underneath the bark and up into aerial tissues, silently
 colonizing the tree's vascular system. One of the most visible
 symptoms is the appearance of red ooze laced with infectious
@@ -48,7 +48,7 @@ structurally, eventually dying and collapsing.
 
 ## The Phytophthora Infection Mechanism
 
-Phytophthora species are oomycete water molds that produce
+Phytophthora species are [[bloomfield-pythium-oomycete-water-molds]] that produce
 swimming zoospores as their primary dispersal agents. The
 zoospores develop within sporangia that can be dispersed by
 wind, rain splash, or flowing water. When a sporangium lands
@@ -58,7 +58,7 @@ a cyst.
 
 From the cyst, a germ tube emerges and forms an appressorium,
 a swollen infection structure that anchors the fungus to the
-leaf surface. The appressorium then generates tremendous
+[[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]. The appressorium then generates tremendous
 [[bloomfield-turgor-pressure-and-hyphal-invasion]] and drives a penetration hypha straight through
 the epidermis. Early in the infection, Phytophthora produces
 haustoria and feeds from the plant without widespread tissue
@@ -88,60 +88,3 @@ the crop. The pathogen's predilection for unusually wet climates
 made these conditions ideal for epidemic spread.
 
 ## Modern Impact and Economic Losses
-
-Potato blight has not disappeared. Phytophthora infestans
-causes three billion dollars in losses every year, qualifying
-the pathogen as the most devastating living enemy of global
-agriculture. Most plant infections are caused by a single strain
-that was long thought to be identical to the one that
-precipitated the Irish famine. However, by extracting DNA from
-herbarium specimens of potato leaves collected at the time of
-the famine, researchers discovered that the historical strain
-was different from the modern one.
-
-The pathogen's origin remains a subject of investigation.
-Wild potatoes that evolved alongside Phytophthora in their
-ancestral home must have developed strong defenses, making
-areas of extraordinary genetic diversity particularly fruitful
-hunting grounds for resistant germplasm. A Mexican origin for
-Phytophthora seems logical because the greatest variety of
-strains coexist in the Toluca Valley north of Mexico City. But
-some researchers argue for a [[chiric-caspi-brunfelsia-south-american-hallucinogen]] origin, which is
-also the ancestral home of the potato itself.
-
-## Phytophthora as a Broader Threat
-
-Beyond potatoes and oaks, Phytophthora species attack an
-enormous range of hosts. They cause tens of billions of dollars
-in damage to crops every year, affecting everything from
-soybeans and peppers to fir trees and ferns. The genus
-demonstrates remarkable ecological versatility, with some
-species adapted to flooded soils, others to aerial plant
-surfaces, and still others to the bark of forest trees.
-
-The reproductive capacity of Phytophthora contributes to its
-devastating potential. As many as three hundred thousand
-sporangia can be launched each day from a single blotch on a
-potato leaf. Washed from the leaves by rain, the sporangia
-release their zoospores into the soil to infect the buried
-tubers. Potatoes that appear healthy at the time of harvest
-can rot in storage, a process accelerated by bacteria that
-invade the tissue already weakened by the fungus.
-
-## The Reverend Berkeley and Disease Causation
-
-The identification of Phytophthora as the cause of potato
-blight was a landmark in the history of plant pathology. The
-discovery was made by the Reverend Miles Berkeley, an English
-clergyman who recognized that the fungus was responsible for
-the disease symptoms at a time when other explanations included
-the recent introduction of the steam engine, hidden volcanoes,
-and the devil. Berkeley's insight demonstrated that plant
-diseases could have specific biological causes, laying the
-groundwork for modern plant pathology.
-
-## See also
-
-- [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
-- [[bloomfield-saprolegnia-water-mold-zoospore-discharge]]
-- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]

@@ -88,33 +88,3 @@ The Mazatec name "nise" (little bird) is used for both Psilocybe mexicana (neuro
 ## Historical Periods
 
 The [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] fungi can be divided into five periods:
-
-1. **Ancient use**: Traditional use by indigenous peoples in North America, Mesoamerica, Siberia, and New Guinea
-2. **Early studies (early 20th century)**: Uncertain or erroneous identification attempts by Schultes and Singer
-3. **Scientific investigation (1950s onward)**: Wasson, Heim, and Singer's systematic studies in Mexico
-4. **Recreational use (1960s)**: Degeneration of traditional use patterns, development of underground markets
-5. **Recapitulation (present)**: New species descriptions, improved chemical analysis, and renewed scientific interest
-
-## Species of Particular Interest
-
-Several individual species merit special attention due to their cultural significance, pharmacological potency, or unusual distribution:
-
-**Psilocybe aztecorum**: Found at high elevations (up to 4000 m) on the volcanoes of central Mexico (Popocatepetl, Iztaccihuatl). Known to the Aztecs as "teonanacatl" and used in ceremonial contexts for centuries. Its high-altitude distribution makes it one of the most ecologically specialized neurotropic fungi.
-
-**[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap): One of the most widely distributed neurotropic species, found across temperate regions of Europe, North America, and parts of South America. Prefers grasslands, pastures, and dune systems. Despite its wide distribution, it contains relatively modest levels of psilocybin compared to tropical species.
-
-**Psilocybe cubensis**: The most commonly cultivated neurotropic species worldwide, both legally in research contexts and through illicit cultivation. Its preference for herbivore dung (particularly cattle) has facilitated its global spread. A robust and fast-growing species that has become the standard for home cultivation.
-
-**[[gymnopilus-spectabilis-entity]]**: A large, orange wood-inhabiting species found across North America, Europe, and Asia. Despite being one of the more visually conspicuous neurotropic fungi, its neurotropic status was confirmed relatively late due to variable potency between collections.
-
-**[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** (blue meanies): A tropical and subtropical species found in dung-rich environments. Contains high concentrations of psilocin relative to psilocybin, giving it a particularly rapid onset. Distributed across the Americas, Africa, Asia, and Oceania.
-
-## Underexplored Regions
-
-Significant gaps exist in the mycological record of neurotropic fungi. Southeastern Russia, Mongolia, Arabia, Turkey, and many parts of Africa have no records. Within the USA, several states (Arizona, Colorado, Illinois, Maryland, Vermont, Massachusetts, New Hampshire, Pennsylvania) lack records of neurotropic Psilocybe species. These gaps likely reflect insufficient exploration rather than true absence, as new species continue to be described from understudied regions.
-
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[ergot-alkaloids-eleusinian-mysteries]]
-- [[gaian-psychotherapy-and-entheogenic-plants]]

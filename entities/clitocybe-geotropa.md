@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Bon, M. (1990). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia, Lucerne.
-  - Phillips, R. (2006). "Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide." Pan Macmillan.
+  - Phillips, R. (2006). "Mushrooms: A [[allen-australian-psilocybe-species-comprehensive-guide]] to psilocybin-mushroom-identification-guide." Pan Macmillan.
   - Consiglio, G. et al. (2004). "Clitocybe geotropa and allies: a morphological and molecular study." Mycological Research 108(9): 1012-1020.
   - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild falconer-growing-mushrooms-in-sheds." Nutrition Reviews 67(12): 694-705.
 created: 2026-04-28
@@ -25,11 +25,11 @@ created: 2026-04-28
 
 **Clitocybe geotropa** (Bull.) Quél. is a large agaric fungus in the family Tricholomataceae, commonly known as the **trooping funnel** or **monk's head**.
 
-It is one of the largest members of its genus, forming conspicuous fruiting bodies that can reach 25 cm in cap diameter.
+It is one of the largest members of its genus, forming conspicuous [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] that can reach 25 cm in cap diameter.
 
 The species is widely distributed across temperate Europe and is generally considered an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] of good quality.
 
-Trooping funnels are named for their habit of growing in dense troops or fairy rings, often with dozens of individuals in a single cluster.
+Trooping funnels are named for their habit of growing in dense troops or [[bloomfield-fairy-rings-armillaria-giant-fungi]], often with dozens of individuals in a single cluster.
 
 ## Taxonomy and Morphology
 
@@ -77,57 +77,14 @@ Trooping funnels grow in troops or fairy rings on the ground in mixed and conife
 
 The fungus shows a preference for calcareous or neutral soils and is commonly associated with oak, beech, and pine.
 
-It is an ectomycorrhizal associate of forest trees, forming symbiotic relationships with root systems.
+It is an ectomycorrhizal associate of forest trees, forming [[fungi-in-the-environment-symbiotic-relationships]] with root systems.
 
 ## Nutritional and Chemical Profile
 
-The trooping funnel is a nutritious edible mushroom with a favorable macronutrient composition.
+The trooping funnel is a nutritious [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]] with a favorable macronutrient composition.
 
 Fresh fruiting bodies are approximately 90% water, with the remaining dry matter containing 20–25% protein.
 
 The species contains significant amounts of potassium, phosphorus, and various B vitamins including thiamine and riboflavin.
 
 Several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] have been isolated, including lectins with immunomodulatory properties.
-
-Polysaccharide fractions from the fruiting body have shown antioxidant activity in vitro.
-
-The mushroom contains trehalose and mannitol as major soluble carbohydrates, contributing to its mild sweet flavor.
-
-## Culinary Use and Edibility
-
-Clitocybe geotropa is widely regarded as an excellent edible mushroom across its European range.
-
-Young specimens are preferred for the table, as older mushrooms can develop a slightly bitter taste and tougher texture.
-
-The thick, meaty caps are well-suited to roasting, grilling, and use in soups and stews.
-
-The species is commercially collected in several European countries and is sold in markets alongside chanterelles and porcini.
-
-Care must be taken to distinguish the trooping funnel from potentially toxic lookalikes, particularly when foraging.
-
-### Similar Species
-
-*Clitocybe gibba* is smaller and thinner-fleshed with a pinkish-brown cap and a more hollow stipe.
-
-*Infundibulicybe gibba* has been separated taxonomically and has a more fragile overall appearance.
-
-Several other clitocyboid species in the same habitats are smaller and less robust, reducing confusion with careful observation.
-
-## Cultivation
-
-Cultivation of Clitocybe geotropa has been attempted on [[oyster-mushroom-supplemented-sawdust-blocks]] and straw substrates with limited success.
-
-The species is primarily wild-harvested due to the difficulty of establishing reliable fruiting conditions in cultivation.
-
-Mycorrhizal dependency complicates cultivation, as the fungus requires a living host tree partner for optimal growth.
-
-Some progress has been made with outdoor bed cultivation near compatible tree roots in forest garden settings.
-
-## See Also
-
-- [[clitocybe-dealbata]]
-
-- [[tricholoma-equestre]]
-- [[morchella-esculenta]]
-- [[agaricus-campestris]]
-- [[mycorrhiza]]

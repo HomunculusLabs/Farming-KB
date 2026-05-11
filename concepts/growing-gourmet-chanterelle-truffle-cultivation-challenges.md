@@ -88,36 +88,3 @@ Chanterelles have all but disappeared from regions in the Netherlands
 where they were abundant only 20 years ago. Many biologists view these
 mushrooms as indicator species -- the first domino to fall in a series
 leading to the failure of the forest's life-support systems.
-
-## Low-Tech Cultivation Approaches
-
-Given the difficulty of laboratory cultivation, Stamets favors a
-"low-tech" approach:
-
-1. **Satellite tree planting:** Plant young seedlings near the root
-   zones of proven mushroom-producing trees. New seedlings become
-   "infected" with the mycorrhizae of a neighboring parent tree.
-
-2. **Spore mass broadcasting:** Gather mushrooms from the wild, soak
-   them in water to create spore-mass slurries, and broadcast into
-   appropriate forest habitats. This method has low success rates
-   but requires minimal effort.
-
-3. **Tree transplantation:** After several years, uproot trees
-   confirmed to be mycorrhized with a gourmet mushroom and replant
-   in new environments to establish satellite colonies.
-
-## The Time Factor
-
-The fundamental challenge with all mycorrhizal cultivation is time.
-Experiments trying to mimic how Chanterelles or Matsutake grow may
-take 20-40 years each -- the age trees must reach to support healthy,
-fruiting colonies of these prized fungi. This long feedback cycle
-confounds the iterative refinement that cultivators need to improve
-their techniques.
-
-## See Also
-
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]

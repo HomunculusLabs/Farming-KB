@@ -3,7 +3,7 @@
 ## Overview
 Phytochrome is the primary photoreceptor mediating plant responses to red and
 far-red light, playing a central role in processes ranging from seed
-germination and shade avoidance to flowering time regulation. Discovered in
+germination and [[shade-avoidance-syndrome]] to [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] regulation. Discovered in
 the 1950s through studies of photoperiodism in plants like [[chamovitz-maryland-mammoth-photoperiodism-discovery]]
 tobacco, phytochrome operates as a molecular switch that toggles between two
 forms depending on the wavelength of light it absorbs. This elegant system
@@ -40,7 +40,7 @@ developmental decisions.
 
 ## The Phytochrome Family in Arabidopsis
 
-In *Arabidopsis thaliana*, the phytochrome family comprises five members (phyA
+In *[[arabidopsis-thaliana]]*, the phytochrome family comprises five members (phyA
 through phyE), each with distinct physiological roles and photobiological
 properties. The diversification of phytochrome family members allows plants to
 maintain sensitivity to light quality across a wide range of environmental
@@ -51,10 +51,10 @@ conditions:
 - **phyC, phyD, phyE**: These have overlapping but distinct roles in modulating plant architecture, leaf angle, petiole elongation, and seasonal responses, contributing to fine-tuning of shade avoidance and photoperiodic responses.
 
 The functional diversification allows a single plant to maintain appropriate
-light responses across dramatically different conditions — from seedling
+[[phototropism-and-plant-light-responses]] across dramatically different conditions — from seedling
 emergence (phyA) to mature shade detection (phyB-phyE). This division of labor
 among phytochrome family members is analogous in principle to the
-diversification of opsins in the animal visual system, where different
+diversification of opsins in the [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]] system, where different
 rhodopsin variants detect different wavelengths of light.
 
 ## Shade Avoidance Syndrome
@@ -83,46 +83,8 @@ other light responses.
 ## Seed Germination and Light Quality Detection
 
 Phytochrome controls seed germination in many species through the "light
-requirement" phenomenon. Small-seeded species like lettuce (*Lactuca sativa*)
+requirement" phenomenon. Small-seeded species like lettuce (*[[lactuca-sativa]]*)
 and certain weeds will not germinate in complete darkness — they require a
 pulse of red light to break dormancy. This adaptation ensures germination
 occurs only when the seed is close enough to the soil surface for adequate
 seedling light. Far-red light reverses the germination-promoting effect,
-providing a mechanism for detecting whether the seed is under vegetation (far-
-red-rich) or in the open (red-rich).
-
-The ecological logic of this system is compelling: a small seed with limited
-energy reserves cannot afford to germinate deep in the soil where its seedling
-will exhaust its reserves before reaching light. By requiring a red-light
-signal (indicating proximity to the surface and absence of canopy cover), the
-phytochrome system ensures that germination is timed to maximize the
-probability of successful seedling establishment. The same mechanism also
-detects changes in the light environment caused by canopy disturbance — when a
-tree falls and opens a gap in the forest, the sudden increase in red light
-reaching the soil triggers germination of the buried [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]], a phenomenon
-well-documented in temperate and tropical forests.
-
-## Downstream Signaling: PIFs and Light-Regulated Gene Expression
-
-The active Pfr form translocates from the cytoplasm to the nucleus upon
-photoconversion, where it interacts directly with transcription factors called
-PIFs (Phytochrome Interacting Factors). PIFs are basic helix-loop-helix
-proteins that promote skotomorphogenic (dark-adapted) development — the
-elongated, etiolated growth form of seedlings grown in darkness. Upon binding
-Pfr, PIFs are phosphorylated, polyubiquitinated, and targeted for degradation
-by the 26S proteasome. This degradation derepresses hundreds of light-
-responsive genes and promotes photomorphogenic (light-adapted) development.
-
-Pfr also interacts with other signaling partners including COP1 (CONSTITUTIVE
-PHOTOMORPHOGENIC 1), SPA proteins, and various chromatin-modifying enzymes.
-COP1 is an E3 ubiquitin ligase that targets positive regulators of
-photomorphogenesis for degradation in darkness; light-activated phytochrome
-inhibits COP1 activity, stabilizing these regulators. Together, these
-interactions create a complex regulatory network that fine-tunes plant
-responses to changing light environments throughout the [[bloomfield-fungal-life-cycle-spiral-versus-circle]], from
-germination through senescence.
-
-## See Also
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[hamilton-shade-garden-plants]]
-- [[darwin-phototropism-discovery-plant-light-perception]]

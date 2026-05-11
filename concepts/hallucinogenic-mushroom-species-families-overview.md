@@ -1,5 +1,5 @@
 ---
-title: Hallucinogenic hallucinogenic mushroom species families overview Overview
+title: Hallucinogenic Mushroom Species Families Overview
 created: 2026-05-06
 tags: [taxonomy, psilocybe, strophariaceae, bolbitiaceae, coprinaceae, cortinariaceae, neurotropic-fungi, species-distribution]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 
 # Hallucinogenic Mushroom Species Families Overview
 
-More than 100 species of hallucinogenic mushrooms have been identified
+More than 100 species [[health-risks-of-hallucinogenic-mushrooms]] have been identified
 worldwide. Their taxonomic distribution spans several fungal families, with the
 overwhelming majority of recreational use centred on a handful of genera within
 the Strophariaceae. The complexity of mycological classification, combined with
@@ -35,7 +35,7 @@ potency make it the standard species for both commercial growkits and home
 cultivation. It is primarily a tropical and subtropical species, often found
 growing on bovine dung in pastures.
 
-**Psilocybe semilanceata** (liberty caps) is the most common wild
+**[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty caps) is the most common wild
 hallucinogenic mushroom in Europe, found throughout central and northern Europe
 in wet grassy fields and uncultivated pastures. Distribution includes the UK,
 Norway, Germany, and many other European countries. It is typically foraged
@@ -57,7 +57,7 @@ serve as a defence mechanism against adverse environmental conditions including
 dryness, cold, heat, and excessive moisture.
 
 **Psilocybe bohemica** and **Psilocybe moravica** are species particularly
-reported from the Czech Republic, representing the central European extent of
+reported from the Czech Republic, representing the [[psilocybe-bohemica-central-european]] extent of
 the genus distribution in Europe. Their identification and taxonomic status
 have been the subject of ongoing mycological revision.
 
@@ -76,7 +76,7 @@ habitats.
 
 The Coprinaceae family contains two genera of psychoactive significance:
 
-**Copelandia** species, such as Copelandia cyanescens and Copelandia
+**Copelandia** species, such as [[copelandia-cyanescens]] and Copelandia
 cambodginiensis, are pantropical in distribution and noted for their potency.
 They are found in tropical and subtropical regions including Southeast Asia,
 Australia, Hawaii, and parts of the Americas. The genus is characterised by
@@ -84,62 +84,7 @@ bluing reactions and relatively high concentrations of [[tryptamine-chemistry-ps
 per unit dry weight.
 
 **Panaeolus** species, including [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] and Panaeolus
-cyanescens, contain psychoactive tryptamines and have a broad cosmopolitan
+cyanescens, contain [[tryptamine]] and have a broad cosmopolitan
 distribution. While generally less potent than Psilocybe species, Panaeolus
 mushrooms are widespread and can be found in temperate grasslands, pastures,
 and dung-enriched soils worldwide.
-
-### Cortinariaceae Family (Inocybe genus)
-
-The Cortinariaceae family contains the genus Inocybe, which includes some
-psychoactive species such as [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]. However, the Inocybe genus
-also contains species that produce dangerous toxins including muscarine. This
-toxic overlap makes identification particularly hazardous for amateur foragers.
-The neurotropic Inocybe species are among the least commonly sought for
-recreational use precisely because of this risk.
-
-## Identification Challenges
-
-The primary distinguishable feature of most psilocybin-containing mushrooms is
-that they bruise blue when handled. This blue bruising results from the
-oxidation of psilocin upon exposure to air. However, this characteristic is
-not universal across all psychoactive species, and some non-psychoactive
-mushrooms can also exhibit blueing reactions.
-
-Nearly all psilocybin-containing mushrooms are small and brown or tan in
-colour, making them visually similar to numerous non-psychoactive, inedible,
-or poisonous species found in the same habitats. The difficulty of field
-identification without expert mycological knowledge is a significant safety
-concern.
-
-Chromatographic methods including thin-layer chromatography (TLC), gas
-chromatography (GC), and high-performance liquid chromatography (HPLC) are
-typically employed for definitive identification and quantification of active
-constituents. These analytical methods require purified psilocin and psilocybin
-reference standards.
-
-## Geographic Distribution in Europe
-
-A variety of psilocybin-containing mushroom species grow wild in Europe,
-particularly throughout central and northern Europe. Typical habitats include
-wet grassy fields, uncultivated pastures, and enriched grassland or dung:
-
-- **Atlantic and western Europe**: Psilocybe semilanceata is abundant in the
-  UK, Ireland, and coastal regions of mainland Europe.
-- **Central Europe**: Psilocybe semilanceata, Psilocybe bohemica, and
-  Psilocybe moravica are found in the Czech Republic and surrounding areas.
-- **Northern Europe**: Psilocybe semilanceata and Psilocybe cyanescens are
-  reported from Scandinavia.
-- **Mediterranean Europe**: Fewer species are commonly found, with distribution
-  generally restricted to higher altitude or moister microclimates.
-
-The list of species and their geographical distribution is constantly revised
-by mycologists as new populations are documented and taxonomic revisions are
-published. The field remains active, with ongoing debate about species
-boundaries within the Psilocybe genus in particular.
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-- [[mycorrhizal-edible-mushroom-species-overview]]
-- [[psilocybin-mushroom-species-overview]]

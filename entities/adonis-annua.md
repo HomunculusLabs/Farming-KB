@@ -12,9 +12,9 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Horn, W. (2018). "The Genus Adonis: A Taxonomic Revision." Willdenowia 48(2).
-  - Kintzios, S.E. & Barberaki, M.G. (2004). "Bioactive Compounds in Adonis Species." Journal of Ethnopharmacology 94(2-3).
+  - Kintzios, S.E. & Barberaki, M.G. (2004). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] Adonis Species." Journal of Ethnopharmacology 94(2-3).
   - Tutin, T.G. (1993). "Adonis L." in Flora Europaea Vol. 1. Cambridge University Press.
-  - Ma, S.G. et al. (2020). "Cardenolides of Adonis: Chemistry and Pharmacology." Natural Product Reports 37(6).
+  - Ma, S.G. et al. (2020). "Cardenolides of Adonis: [[amanita-muscaria-chemistry-and-pharmacology]]." Natural Product Reports 37(6).
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The species produces solitary, bright scarlet flowers with a distinctive dark ce
 
 Adonis annua contains potent cardiac glycosides of the cardenolide type, including adonitoxin and cymarin. These compounds have been investigated for potential cardiotonic applications similar to digitalis.
 
-The plant was once a common cornfield weed across southern England and continental Europe. Modern agricultural practices and herbicide use have caused significant population declines throughout its range.
+The plant was once a common cornfield weed across southern England and continental Europe. Modern [[mycorrhizal-agricultural-practices]] and herbicide use have caused significant population declines throughout its range.
 
 The genus is named after Adonis of Greek mythology, the beautiful youth killed by a wild boar. Legend states that red anemones (or adonis flowers) sprang from his blood.
 
@@ -37,7 +37,7 @@ The distinctive red coloration is produced by anthocyanin pigments in the sepals
 
 Adonis annua was described by Carl Linnaeus in 1753. The genus Adonis comprises approximately 30 species of annual and perennial herbs distributed across Eurasia and North Africa.
 
-The specific epithet "annua" means "annual," distinguishing this species from the perennial Adonis vernalis. The plant belongs to the tribe Adonideae within the subfamily Ranunculoideae.
+The specific epithet "annua" means "annual," distinguishing this species from the perennial [[adonis-vernalis]]. The plant belongs to the tribe Adonideae within the subfamily Ranunculoideae.
 
 Chromosome number is 2n = 16. Molecular phylogenetic studies confirm placement of Adonis as sister to the genus Callianthemum within Ranunculaceae.
 
@@ -65,7 +65,7 @@ The life cycle from germination to seed production is approximately four to five
 
 ## Distribution and Habitat
 
-Adonis annua is native to the Mediterranean basin, from Portugal and Morocco eastward to Turkey, Syria, and Iran. It has been introduced to central and northern Europe, southern Scandinavia, and parts of North America.
+Adonis annua is native to the Mediterranean basin, from Portugal and Morocco eastward to Turkey, Syria, and Iran. It has been introduced to central and northern Europe, southern Scandinavia, and parts [[berry-growing]].
 
 Historically, it was a characteristic component of arable weed communities in cereal fields across southern England. The species was well-known to Victorian botanists as a cornfield specialty.
 
@@ -85,37 +85,6 @@ Adonis annua contains a complex mixture of cardenolide glycosides, primarily ado
 
 The cardenolides inhibit Na+/K+-ATPase in cardiac muscle cells, producing positive inotropic effects similar to digitalis. Research has explored their potential as alternatives to digoxin in heart failure management.
 
-Traditional Chinese medicine uses related species (Adonis amurensis and Adonis vernalis) for cardiac conditions. Preparations called "adonis herb" were included in several European pharmacopoeias historically.
+Traditional Chinese medicine uses related species ([[adonis-amurensis]] and Adonis vernalis) for cardiac conditions. Preparations called "adonis herb" were included in several European pharmacopoeias historically.
 
 The plant also contains flavonoids, saponins, and small amounts of alkaloids. The flavonoid profile includes orientin and vitexin, compounds with documented antioxidant activity.
-
-Modern clinical use is limited by the narrow therapeutic index of the cardenolides. Toxicity includes nausea, cardiac arrhythmias, and visual disturbances at doses only slightly above therapeutic levels.
-
-Research continues into semi-synthetic derivatives with improved safety profiles. Some modified adonitoxin analogs show promise in preclinical cardiology studies.
-
-## Cultivation and Conservation
-
-Adonis annua is occasionally grown as an ornamental annual for its distinctive red flowers. It is suitable for wildflower meadows, cottage gardens, and cornfield annual seed mixes.
-
-Seed should be sown in autumn for germination the following spring. The species requires open, disturbed soil for successful establishment and does not compete well with perennial vegetation.
-
-It pairs well with other cornfield annuals such as corncockle (Agrostemma githago) and cornflower (Centaurea cyanus). These combinations recreate the disappearing arable weed communities of pre-industrial agriculture.
-
-The species has become a flagship for arable weed conservation in Europe. Its dramatic decline symbolizes the broader biodiversity crisis in agricultural landscapes.
-
-Conservation efforts include seed banking, managed field margins, and traditional farming practices that reduce herbicide use. Several European countries maintain Adonis annua in their national red lists.
-
-The plant has become a symbol of the European arable weed conservation movement. Its striking appearance and cultural associations make it an effective ambassador for agricultural biodiversity.
-
-## See Also
-
-- [[aconitum-napellus]]
-- [[digitalis-purpurea]]
-- [[digitalis-lanata]]
-- [[colchicum-autumnale]]
-- [[convallaria-majalis]]
-- [[veratrum-album]]
-- [[helleborus-niger]]
-- [[atropa-belladonna]]
-- [[taxus-baccata]]
-- [[veratrum-viride]]

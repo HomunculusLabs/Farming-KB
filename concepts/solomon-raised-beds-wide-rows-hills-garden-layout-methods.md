@@ -9,7 +9,7 @@
 
 When gardening "when it counts" — during hard times, [[solomon-drought-gardening-and-water-conservation|drought]], or with limited resources — the layout method you choose determines water efficiency, labor requirements, and ultimately how much food you can produce. Solomon identifies three primary layout systems, each suited to different conditions and crop types: raised beds, raised wide rows, and hills.
 
-The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over the growing season.
+The fundamental principle underlying all three systems is the same: elevate the growing area a few inches above the surrounding paths. This simple act provides multiple advantages that compound over [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ---
 
@@ -17,9 +17,9 @@ The fundamental principle underlying all three systems is the same: elevate the 
 
 Raising beds and rows provides several critical advantages:
 
-**Soil looseness:** Raised beds tend to stay looser because no one walks on them. Walking on the root zone of growing vegetables compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding organic matter.
+**Soil looseness:** Raised beds tend to stay looser because no one walks on them. Walking on the root zone of [[container-growing-vegetables-herbs]] compacts the soil, making it difficult for plants to develop roots. Compaction is physical (and should be avoided) — it is not corrected by adding [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
-**Fine seedbed creation:** Small seeds like lettuce, carrots, and beets need a "fine seedbed" to emerge. A seed sitting under a large clod experiences temperature and humidity frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
+**Fine seedbed creation:** Small seeds like lettuce, carrots, and beets need a "fine seedbed" to emerge. A seed sitting under a large clod experiences [[greg-green-temperature-and-humidity-control]] frustration and dies. By raising the bed 3-6 inches, you can rapidly rake clods and lumps off the surface and down into the paths, where feet will break them down over coming months.
 
 **Path drainage:** Raised beds create natural drainage channels in the paths between them, preventing waterlogging during heavy rains.
 
@@ -71,7 +71,7 @@ Same as raised beds — use a combination shovel to move soil from paths onto th
 
 ### Best Uses
 - **Non-irrigated or minimally irrigated gardens**
-- **Dry climate gardening** where summer rainfall is unreliable
+- **Dry [[cold-climate-gardening]]** where summer rainfall is unreliable
 - **Crops that can tolerate wider spacing:** Large brassicas, peppers, eggplant
 - **[[water-conservation]] priority** scenarios
 
@@ -88,37 +88,3 @@ A hill is a small mound of highly fertile soil, typically 12-18 inches (30-45 cm
 - **Concentrated fertility:** All amendments go into a small area rather than being spread across the whole garden
 - **Fast start:** Seeds get off to a fast start because of high fertility immediately below them
 - **Frugality:** In a large winter garden, it would not be practical to turn the whole area into high-fertility soil — hills concentrate resources
-- **Large-seed friendly:** Squash, melons, corn, beans, and peas all do well in hills
-
-### Spacing
-- Standard hill spacing: 4 feet (120 cm) center to center
-- Very large sprawlers (pumpkins, watermelons): 5-6 feet (150-180 cm)
-- In low-rainfall areas, hills can be 8 feet (240 cm) apart because the plants grow so aggressively
-
-### Creation
-1. Prepare the whole area (spread lime, compost, or COF and dig it in)
-2. Where each hill will be, place a shovelful or two of manure or compost
-3. Dig about 12-18 inches deep with a shovel blade, working up a circular spot
-4. Blend amendments thoroughly — you should end up with a little mound of highly fertile soil
-5. If the mound is too flat, take soil from the surrounding area and toss it on top
-
----
-
-## Survival Gardening: Native American Method
-
-If it is spring planting time and nothing has been dug — there is only sod, a shovel, some seed, and no other resources — garden like the Native Americans. Use the hill method directly into untilled ground: cut into the sod, create mounds with whatever amendments are available, and plant. This requires no bed preparation, no fine seedbed, and minimal tools. It is the ultimate low-resource approach.
-
----
-
-## Choosing the Right Method
-
-| Condition | Best Method |
-|-----------|-------------|
-| Reliable irrigation | Raised beds (maximum density) |
-| Unreliable/no irrigation | Raised wide rows (moisture conservation) |
-| Large garden, limited fertility | Hills (concentrated resources) |
-| Survival situation, no prep | Hills directly into sod |
-| Small seeds, fine tilth needed | Raised beds (best seedbed control) |
-| Large-seeded crops | Hills or wide rows |
-
-The key principle: match your layout method to your most limiting resource. In hard times, water and fertility are usually the constraints — and wide rows or hills conserve both better than intensive raised beds.

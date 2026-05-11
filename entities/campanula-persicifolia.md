@@ -23,7 +23,7 @@ Campanula persicifolia, the peach-leaved bellflower, is a clump-forming perennia
 
 The species is widely cultivated for its large, outward-facing blue or white bell-shaped flowers. It is considered a classic cottage garden plant and has been in cultivation since the 1500s.
 
-Plants reach 60–90 cm in height with erect, slender stems arising from a basal rosette. The specific epithet "persicifolia" refers to the narrow, lance-shaped basal leaves that resemble those of a peach tree (Prunus persica).
+Plants reach 60–90 cm in height with erect, slender stems arising from a basal rosette. The specific epithet "persicifolia" refers to the narrow, lance-shaped basal leaves that resemble those of a peach tree ([[prunus-persica]]).
 
 ## Taxonomy and Morphology
 
@@ -47,13 +47,13 @@ The species is distributed across most of Europe from southern Scandinavia to th
 
 It is absent from the Atlantic fringe of western Europe and the extreme north. Isolated populations occur in the Altai Mountains of Central Asia.
 
-Natural habitats include semi-dry grasslands, open deciduous woodlands, and forest clearings. It also colonizes rocky limestone outcrops at elevations from sea level to 2000 m.
+[[mushroom-natural-habitats]] include semi-dry grasslands, open deciduous woodlands, and forest clearings. It also colonizes rocky limestone outcrops at elevations from sea level to 2000 m.
 
 The species prefers neutral to slightly alkaline soils with good drainage. It tolerates light shade but flowers most prolifically in full sun.
 
 It is classified as Least Concern on most European national red lists. Local declines have occurred where grassland management has been abandoned, allowing succession to scrub.
 
-In the United Kingdom, it is a well-established garden escape in parts of southern England. Populations in North America are occasional garden escapes, primarily in the northeastern states and Pacific Northwest.
+In the United Kingdom, it is a well-established garden escape in parts of southern England. Populations in North America are occasional garden escapes, primarily in the northeastern states and [[psilocybin-north-america-pacific-northwest]].
 
 In its native range, it frequently co-occurs with other calcicole species such as salad burnet (Sanguisorba minor) and dropwort (Filipendula vulgaris).
 
@@ -75,7 +75,7 @@ Notable cultivars include 'Telham Beauty' with large lavender-blue flowers reach
 
 The plant is relatively pest-free but may be affected by slugs on new spring growth. Powdery mildew can occur in humid conditions with poor air circulation.
 
-Deadheading spent flowers encourages reblooming and prevents excessive self-seeding. The basal foliage remains attractive throughout the growing season.
+Deadheading spent flowers encourages reblooming and prevents excessive self-seeding. The basal foliage remains attractive throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 ## Ecological Role
 
@@ -87,35 +87,4 @@ In European meadow communities, C. persicifolia contributes to structural divers
 
 The species is a host plant for the mirid bug Kalokoroscos convexus in parts of its native range. Seed dispersal is primarily by gravity and wind, with seeds shaken from the basal pores as the stem sways.
 
-The plant forms mycorrhizal associations with arbuscular fungi in natural grassland soils. These symbiotic relationships improve phosphorus uptake, particularly in nutrient-poor limestone habitats.
-
-## Uses
-
-Peach-leaved bellflower has been cultivated in European gardens since at least the 16th century. It is valued for its elegant flowers and long bloom period from early to midsummer.
-
-The species remains a staple of cottage gardens, perennial borders, and cut flower arrangements. Flowers last 7–10 days in water, making them useful for small arrangements.
-
-The young leaves and roots are reported as edible in some ethnobotanical sources. The species is not commonly used as a food plant, however.
-
-In folk tradition, preparations of the aerial parts were used as a mild astringent and gargle. No significant pharmacological studies support these traditional uses.
-
-Flower colors range from deep violet-blue to pale lavender and pure white. The blue pigment is delphinidin-based, a common anthocyanin in the Campanulaceae family.
-
-The plant is widely available from commercial nurseries throughout the temperate world. It naturalizes readily in suitable conditions without becoming invasive.
-
-The species is deer-resistant, making it suitable for rural and suburban plantings. Its long flowering period from June through August bridges the gap between early and late summer perennials.
-
-In the language of flowers, popular in Victorian England, the bellflower symbolized gratitude and constancy. This cultural association contributed to its widespread adoption in cottage gardens across Britain and continental Europe.
-
-## See Also
-
-- [[lobelia-cardinalis]]
-- [[platycodon-grandiflorus]]
-- [[digitalis-purpurea]]
-- [[aquilegia-vulgaris]]
-- [[primula-vulgaris]]
-- [[achillea-millefolium]]
-- [[silene-vulgaris]]
-- [[gentiana-lutea]]
-- [[dianthus-barbatus]]
-- [[codonopsis-pilosula]]
+The plant forms [[plants-without-mycorrhizal-associations]] with arbuscular fungi in natural grassland soils. These [[fungi-in-the-environment-symbiotic-relationships]] improve phosphorus uptake, particularly in nutrient-poor limestone habitats.

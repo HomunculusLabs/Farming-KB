@@ -1,5 +1,5 @@
 ---
-title: comparison-rabbit-husbandry-vs-chicken-keeping Guide
+title: Rabbit Husbandry Guide
 created: 2026-04-15
 updated: 2026-04-15
 type: concept
@@ -17,7 +17,7 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Quiet** — No noise complaints; suitable for suburban settings
 - **Fast reproduction** — 30-day gestation, does can breed back within days of kindling
 - **Lean meat** — Higher protein, lower fat and cholesterol than chicken, beef, or pork
-- **Manure value** — Rabbit manure is a "cold" manure, safe to apply directly to plants without composting
+- **Manure value** — Rabbit manure is a "cold" manure, safe to apply directly to plants without [[composting]]
 - **Low startup cost** — Basic setup for a breeding trio: $200-400
 
 ## Breed Selection
@@ -41,7 +41,7 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Weather protection** — Shade in summer, wind block in winter
 - **Predator proof** — Hardware cloth on all openings; secure latches
 - See [[fodder-growing-guide]] systems can supplement pellet diets
-- Garden greens: dandelion, plantain, comfrey (in moderation), clover
+- Garden greens: [[dandelion]], plantain, comfrey (in moderation), clover
 - Vegetable scraps: carrot tops, cabbage, lettuce (avoid iceberg — too watery)
 - Fruit as treats only: apples, bananas, berries (seeds removed from apples)
 - Introduce new foods gradually to prevent digestive upset
@@ -81,38 +81,10 @@ Rabbits are among the most space-efficient and productive homestead livestock. T
 - **Ear mites** — Scabby ears, head shaking. Treat with mineral oil or ivermectin.
 - **Snuffles (pasteurellosis)** — Respiratory infection, contagious and incurable. Cull affected animals.
 - **Mastitis** — Inflamed mammary glands in lactating does. Check udders regularly.
-- **GI stasis** — Intestinal slowdown, often fatal if not caught early. Prevention through proper diet and stress reduction.
+- **GI stasis** — Intestinal slowdown, often fatal if not caught early. Prevention through proper diet [[vipassana-mindfulness-and-stress-reduction-healing]].
 - **[[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]** — Rabbits tolerate cold well but are very heat-sensitive. Above 85°F (29°C), provide cooling.
 
 ### Biosecurity
 - Quarantine new rabbits for 2 weeks
 - Clean hutches between litters
 - Sanitize waterers weekly
-- Control flies (major disease vector)
-- Remove sick animals promptly
-
-## Processing
-
-- **Fryer age:** 8-12 weeks, 4-5 lbs live weight
-- **Roaster age:** 12-20 weeks, 5-8 lbs live weight
-- Dress-out percentage: 55-60%
-- Processing is quick — an experienced person can process a rabbit in 5-10 minutes
-- Meat can be frozen, canned, or made into sausage
-
-## Manure Management
-
-Rabbit manure is one of the best [[hamilton-organic-fertilizers-and-plant-nutrition]]:
-
-- **N-P-K approximately 2.4-1.4-0.6** — rich in nitrogen and phosphorus
-- Does not need composting before use (unlike chicken, cow, or [[falconer-horse-manure-varieties]])
-- Can be applied directly to garden beds as a top-dressing or side-dress
-- Excellent addition to [[animal-manure-guide]] for comparison with other manure types
-
-## Related
-
-- [[rabbit-husbandry-basics]]
-
-- [[fodder-growing-guide]]
-- [[animal-manure-guide]]
-- [[organic-vegetable-garden-rotation-deep-beds]]
-- [[sheep-health-and-production]]

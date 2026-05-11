@@ -1,6 +1,6 @@
 ---
 title: Cannabis for Chemotherapy-Induced Nausea and Vomiting
-source: The Cannabis Health Index - Uwe Blesching, PhD (2015)
+source: The [[blesching-cannabis-health-index-autoimmune-conditions]] - Uwe Blesching, PhD (2015)
 tags: [cannabis, thc, anti-emetic, chemotherapy, nausea, dronabinol, nabilone, sativex]
 related: [blesching-cannabis-anorexia-cachexia, blesching-cannabis-appetite-regulation-ghrelin-leptin, blesching-endocannabinoid-emotion-molecules-neurochemistry]
 ---
@@ -33,7 +33,7 @@ The mechanism involves:
 - **[[cannabis-for-cachexia-and-appetite-stimulation]] via hypothalamic CB1**: Beyond stopping nausea, THC
   activates CB1 receptors in the hypothalamus, stimulating appetite through
   release of hunger-promoting hormones including ghrelin. This dual action makes
-  THC uniquely valuable for cancer patients who experience both nausea and
+  THC uniquely valuable [[cannabis-for-cancer-patients]] who experience both nausea and
   appetite loss.
 
 ## FDA-Approved Cannabinoid Pharmaceuticals
@@ -50,7 +50,7 @@ and related conditions:
 - Typical dosing: 2.5 mg to 10 mg taken 1-3 hours before chemotherapy
 
 ### Nabilone (Cesamet)
-- Synthetic cannabinoid with structural similarity to THC
+- [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] with structural similarity to THC
 - Approved for nausea and vomiting associated with chemotherapy
 - May be more effective than Dronabinol for some patients due to differences in
   metabolism and [[beta-glucan-receptor-binding]] profile
@@ -62,13 +62,13 @@ and related conditions:
 - Administered as an oral mucosal spray
 - Not yet FDA-approved in the United States but approved in numerous other
   countries for spasticity in [[blesching-cannabis-multiple-sclerosis]] and cancer pain
-- Retains [[cannabis-terpenes-and-the-entourage-effect]] of additional cannabinoids and terpenes
+- Retains [[cannabis-terpene-entourage-effect]] the [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] of additional cannabinoids and terpenes
 - CBD component may reduce the psychoactive effects of THC while providing
   additional anti-nausea benefits
 
 ## Clinical Trial Evidence
 
-The Cannabis Health Index compiles multiple human clinical trials demonstrating
+The Cannabis Health Index compiles multiple human [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] demonstrating
 cannabinoid efficacy for CINV:
 
 ### Dronabinol in HIV/AIDS (CHI: 5)
@@ -88,39 +88,3 @@ sweats. Side effects were mostly mild (drowsiness, tiredness).
 A 1994 study at the Cleveland Clinic evaluated 2.5 mg of THC orally three
 times daily for four weeks in 18 cancer patients with anorexia. Thirteen of 18
 patients reported increased appetite. The study concluded: "THC is an effective
-appetite stimulant in patients with advanced cancer. It is well tolerated at
-low doses."
-
-## Strain and Form Considerations
-
-For CINV, patients and practitioners may consider:
-
-- **Sativa-dominant strains**: Higher THC content relative to CBD provides
-  stronger anti-emetic and appetite-stimulating effects. Sativas are often
-  preferred during daytime use when patients need both nausea relief and energy.
-- **Indica-dominant strains**: May be preferred when nausea is accompanied by
-  pain, insomnia, or anxiety, as indicas provide more pronounced body effects.
-- **Vaporization**: Provides rapid onset (2-5 minutes) crucial for breakthrough
-  nausea, with reduced respiratory burden compared to smoking.
-- **Oral tinctures**: Longer duration (4-8 hours) suitable for sustained
-  nausea prophylaxis during chemotherapy cycles.
-- **Raw cannabis juice**: Contains non-psychoactive THC-acid and CBD-acid; some
-  patients find this form provides anti-nausea benefits without cognitive
-  impairment.
-
-## Important Considerations
-
-- Start with low doses and titrate slowly to find the [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]
-  window
-- THC content decreases over time with exposure to UV light, heat, and moisture
-- Indoor cultivation tends to produce higher THC content than outdoor crops
-- Always coordinate cannabinoid therapy with the oncology treatment team
-- Pharmaceutical THC preparations do not contain the full spectrum of cannabis
-  constituents that may provide synergistic therapeutic effects
-
-## See Also
-
-- [[blesching-cannabis-anorexia-cachexia]]
-- [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
-- [[cannabis-decarboxylation-chemistry]]
-- [[blesching-endocannabinoid-emotion-molecules-neurochemistry]]

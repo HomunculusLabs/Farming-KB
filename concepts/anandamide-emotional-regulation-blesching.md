@@ -12,7 +12,7 @@ Anandamide (N-arachidonoylethanolamine, abbreviated AEA) is an endogenous cannab
 
 ## Biochemical Profile
 
-Anandamide is a lipid-based signaling molecule [[endocannabinoid-dopamine-regulation-ADHD-parkinsons-blesching]] that functions as a partial agonist at both CB1 and CB2 cannabinoid receptors. Key characteristics include:
+Anandamide is a lipid-based signaling molecule [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] that functions as a partial agonist at both CB1 and CB2 [[cannabinoid-receptors-cb1-and-cb2]]. Key characteristics include:
 
 - **Synthesis**: Produced on-demand from membrane phospholipid precursors (N-arachidonoyl phosphatidylethanolamine) by the enzyme N-acylphosphatidylethanolamine phospholipase D (NAPE-PLD)
 - **Degradation**: Rapidly broken down by fatty acid amide hydrolase (FAAH), which limits its duration of action and contributes to its role as a transient signaling molecule
@@ -21,11 +21,11 @@ Anandamide is a lipid-based signaling molecule [[endocannabinoid-dopamine-regula
 
 ## Anandamide as the "I Am at Ease" Molecule
 
-Blesching categorizes anandamide among the molecules primarily associated [[endocannabinoid-dopamine-regulation-ADHD-parkinsons-blesching]] with expansive emotional states, characterizing it as the "I am at ease" molecule. This classification reflects anandamide's demonstrated roles in:
+Blesching categorizes anandamide among the molecules primarily associated [[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] with expansive emotional states, characterizing it as the "I am at ease" molecule. This classification reflects anandamide's demonstrated roles in:
 
 - **Pleasure and reward**: Enhances the experience of pleasure and positive reinforcement through CB1 receptor activation in reward circuitry
 - **Fear modulation**: Reduces fear responses and anxiety-like behaviors by modulating amygdala activity
-- **Stress resilience**: Helps buffer the physiological effects of acute stress, promoting return to emotional baseline
+- **Stress resilience**: Helps buffer the [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of acute stress, promoting return to emotional baseline
 - **Social bonding**: May facilitate prosocial behavior and trust through interactions with oxytocin systems
 
 ## Molecules and Emotions: A Two-Way Street
@@ -39,7 +39,7 @@ This bidirectionality provides a biological mechanism for mind-body medicine: co
 
 ## Anandamide and the Biology of Emotions
 
-Blesching presents a framework linking specific neurotransmitters to emotional categories. Anandamide falls within the "expansive" category alongside acetylcholine, endogenous opioids, GABA, oxytocin, and serotonin. These molecules share characteristics of promoting openness, relaxation, and social connection. In contrast, "constricting" molecules — including cortisol, epinephrine, and glutamate — are associated with stress, fear, and defensive states.
+Blesching presents a framework linking specific neurotransmitters to emotional categories. Anandamide falls within the "expansive" category alongside acetylcholine, [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]], GABA, oxytocin, and serotonin. These molecules share characteristics of promoting openness, relaxation, and social connection. In contrast, "constricting" molecules — including cortisol, epinephrine, and glutamate — are associated with stress, fear, and defensive states.
 
 The balance between expansive and constricting molecular states is regulated in part by the endocannabinoid system, which can modulate the release and activity of neurotransmitters across both categories. This regulatory capacity positions anandamide and the ECS as a homeostatic interface between psychological experience and physiological function.
 
@@ -73,7 +73,7 @@ Several modifiable factors can affect the body's anandamide production and signa
 - **Diet**: Omega-3 fatty acid intake supports the membrane phospholipid precursors from which anandamide is synthesized
 - **Stress management**: Chronic stress depletes anandamide through sustained HPA axis activation and FAAH upregulation
 - **Social connection**: Positive social interactions may enhance anandamide signaling through oxytocin-cannabinoid cross-talk
-- **Cannabis use**: Exogenous cannabinoids can temporarily supplement anandamide signaling but may downregulate endogenous production with chronic use; however, CBD may actually enhance anandamide levels by inhibiting FAAH
+- **Cannabis use**: Exogenous cannabinoids can temporarily supplement anandamide signaling but may downregulate [[dmt-endogenous-production]] with chronic use; however, CBD may actually enhance anandamide levels by inhibiting FAAH
 
 ## Anandamide Compared to Other Endocannabinoids
 
@@ -87,26 +87,3 @@ Five distinct endocannabinoids produced by the human body have been identified. 
 The functional diversity of these endocannabinoids allows the ECS to fine-tune its regulatory output across different tissues and physiological contexts. Anandamide's specific role appears to be oriented toward rapid, context-dependent modulation of emotional and stress-related circuitry.
 
 ## Clinical Relevance of FAAH Inhibition
-
-The enzyme fatty acid amide hydrolase (FAAH) is responsible for breaking down anandamide in the body. Genetic variants that reduce FAAH activity are associated with:
-
-- Reduced anxiety and fear extinction deficits
-- Lower rates of substance use disorders
-- Enhanced pain tolerance
-- Differences in stress reactivity and emotional processing
-
-Pharmacological FAAH inhibitors have been investigated as potential therapeutics for anxiety, depression, and pain disorders, offering a way to enhance anandamide signaling without directly activating cannabinoid receptors. This approach represents an alternative to exogenous cannabinoid administration that works with the body's existing regulatory systems.
-
-## Relationship to Mind-Body Healing
-
-Blesching argues that understanding anandamide's role provides a scientific foundation for mind-body healing practices. Emotional states that characterize the "expansive" spectrum — gratitude, compassion, forgiveness, acceptance — may enhance endocannabinoid signaling and thereby improve immune function, reduce inflammation, and support overall health. Conversely, sustained emotional states associated with the "constricting" spectrum — guilt, shame, chronic anger — may suppress anandamide production and contribute to disease progression.
-
-This framework suggests that emotional self-regulation is not merely psychological but represents a form of biochemical self-management with measurable physiological consequences. Practices that cultivate expansive emotional states — meditation, gratitude journaling, compassionate communication, forgiveness work — may be understood through this lens as interventions that directly support endocannabinoid system function and thereby enhance the body's capacity for self-repair and homeostatic regulation.
-
-Blesching emphasizes that this does not mean emotional practices alone can cure disease, but rather that the emotional dimension of healing is biologically real and should be integrated with physical treatments for optimal outcomes. The [[endocannabinoid-system-overview|endocannabinoid system]] provides the molecular mechanism by which this integration occurs.
-
-## See Also
-
-- [[endocannabinoid-system-overview|Endocannabinoid System Overview]]
-- [[cannabis-health-index-scoring-methodology|Cannabis Health Index Scoring Methodology]]
-- [[cannabis-neurogenesis-neuroplasticity|Cannabis, Neurogenesis, and Neuroplasticity]]

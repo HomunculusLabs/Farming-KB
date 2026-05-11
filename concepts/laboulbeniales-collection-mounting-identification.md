@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Laboulbeniales is a distinctive group of obligately biotrophic parasitic ascomycetes that lack a mycelium. They live on a diverse group of arthropods, primarily true insects (Hexapoda) from orders including Coleoptera, Dermaptera, Diptera, Heteroptera, Hymenoptera, Isoptera, Mallophaga, Orthoptera, and Thysanoptera. Relatively few (54) species infest mites (Acarina) and millipedes (Diplopoda). The order comprises 137 genera across four families: Ceratomycetaceae (12 genera), Herpomycetaceae (1 genus), Euceratomycetaceae (5 genera), and Laboulbeniaceae (114 genera). Eight additional genera have been described since Tavares's 1985 treatise.
+Laboulbeniales is a distinctive group of obligately biotrophic parasitic ascomycetes that lack a [[mycelium]]. They live on a diverse group of arthropods, primarily true insects (Hexapoda) from orders including Coleoptera, Dermaptera, Diptera, Heteroptera, Hymenoptera, Isoptera, Mallophaga, Orthoptera, and Thysanoptera. Relatively few (54) species infest mites (Acarina) and millipedes (Diplopoda). The order comprises 137 genera across four families: Ceratomycetaceae (12 genera), Herpomycetaceae (1 genus), Euceratomycetaceae (5 genera), and Laboulbeniaceae (114 genera). Eight additional genera have been described since Tavares's 1985 treatise.
 
 ## Key Morphological Features
 
@@ -39,7 +39,7 @@ The receptacle bears simple or branched appendages that may be sterile or fertil
 - **Beetles (Coleoptera):** Staphylinidae harbor many genera (Corethromyces, Monoicomyces, Rhachomyces, Teratomyces); Carabidae host many Laboulbenia species
 - **Flies (Diptera):** Hosts of 100+ species of Stigmatomyces, including Ephydridae and Sphaeroceridae from mud flats at stream/lake margins
 - **Aquatic beetles:** Hydrophilidae, Dytiscidae, Haliplidae, Gyrinidae captured with small fish nets or tea strainers
-- **Ground beetles:** Carabidae and Staphylinidae under stones, logs, wood fragments, and flood debris collected with sifter and aspirator
+- **[[ground-beetles-carabidae-and-biological-pest-control]]:** Carabidae and Staphylinidae under stones, logs, wood fragments, and flood debris collected with sifter and aspirator
 
 ### Seasonal Considerations
 
@@ -87,23 +87,3 @@ No member of the Laboulbeniales has been cultivated from spore to spore despite 
 Only very few specialists identify members to species; it is difficult to determine when a new species has been collected. Many keys follow Tavares's (1985) system. Host identification is an important aid. Tavares recognized 132 genera in 1985; eight additional genera have since been described (including Majewskia, Sugiyamaemyces, Cupulomyces).
 
 ### Key References
-
-- Tavares, I.I. 1985. *Laboulbeniales (Fungi, Ascomycetes)* — the most comprehensive general source
-- Thaxter, R. 1896, 1908, 1924, 1926, 1931. *Contribution Towards a Monograph of the Laboulbeniaceae* — classic illustrated monograph
-- Benjamin, R.K. 1971. Supplement to Thaxter's work
-- Regional studies: Hulden (1983), Majewski (1994), Santamaria (1989)
-
-## Voucher Deposition
-
-Parasitized insects stored in 70% alcohol with glycerol added to retard evaporation. Well-sealed slide mounts deposited in permanent herbarium collections with extensive Laboulbeniales holdings:
-
-- Farlow Herbarium, Harvard University (R. Thaxter collection)
-- Rancho Santa Ana Botanic Garden (R.K. Benjamin collection)
-- University of California, Berkeley (I.I. Tavares collection)
-
-## Related Topics
-
-- [[bark-beetle-fungi-ophiostomatales-collection-isolation]] — fungi associated with beetle hosts
-- [[fungal-molecular-identification]] — [[staycare-molecular-approaches-fungal-bioremediation]] to identification
-- [[myxomycetes-slime-molds]] — fungal-like organisms sometimes dispersed by arthropods
-- [[microscope-identification-soil-organisms]]

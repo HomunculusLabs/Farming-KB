@@ -88,36 +88,3 @@ medical establishment. Hundreds of medical and scientific organizations support 
 [[cervantes-medical-marijuana-pharmacology]], including Kaiser Permanente, the California Medical Association, and the
 American Nurses Association. Even the historically conservative American Medical Association
 now supports research on cannabis for medicinal use. This support reflects the level of
-frustration among physicians and healthcare providers who lack adequate and safe treatment
-options for many chronic degenerative diseases.
-
-## Dosing Considerations
-
-Pharmaceutical cannabinoids offer the advantage of standardized dosing. Each capsule of
-dronabinol, for example, contains a precisely measured amount of THC. However, this
-standardization may actually be a limitation: the subjective therapeutic window varies
-significantly between individuals, and a fixed-dose pharmaceutical may not accommodate
-this variability as well as titratable whole-plant preparations.
-
-## Bioavailability Differences
-
-The [[mushroom-taste-route-of-administration-and-consumption-barriers]] significantly affects cannabinoid bioavailability. Oral
-capsules (dronabinol, nabilone) undergo first-pass metabolism in the liver, converting
-THC to 11-hydroxy-THC, which is more potent and longer-lasting. Oral mucosal delivery
-(Sativex spray) partially bypasses first-pass metabolism, providing more predictable onset.
-Inhalation of whole-plant cannabis provides the most rapid onset and easiest titration.
-
-## Future Directions
-
-Research into cannabinoid pharmacology continues to expand, with over 15,000 studies
-indexed in the U.S. National Library of Medicine under the single keyword "cannabinoids."
-Future pharmaceutical development may move toward multi-cannabinoid formulations that
-better replicate the entourage effect of whole-plant cannabis, potentially bridging the
-gap between pharmaceutical standardization and botanical complexity.
-
-## See Also
-
-- [[cannabis-health-index-chi-scoring-methodology-blesching]]
-- [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]
-- cannabis modes of administration therapeutic window blesching
-- [[cannabis-thc-therapeutic-profile]]

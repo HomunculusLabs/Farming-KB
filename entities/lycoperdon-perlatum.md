@@ -38,7 +38,7 @@ worldwide. It is edible when young and immature, prized in European and
 
 Beyond culinary value, L. perlatum produces bioactive polysaccharides with
 immunomodulatory and antitumor properties in vitro. The species also
-accumulates heavy metals, serving as a bioindicator of environmental
+accumulates [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]], serving as a bioindicator of environmental
 contamination and a potential mycoremediation agent. Its role as a primary
 decomposer of [[fungal-succession-woody-debris-ecology]] supports forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and permaculture
 systems.
@@ -63,7 +63,7 @@ it within a clade closely related to Calvatia and Handkea.
 ### Fruiting Body
 
 - **Form:** Ovoid to pear-shaped (obpyriform), 2.5–7 cm tall × 2–4 cm
-  wide; attached by a short basal mycelial cord
+  wide; attached by a short basal [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
 - **Exoperidium:** White when young, cream to tan with age; covered with
   small conical spines (3–6 mm) that rub off leaving a reticulate scar
   pattern — the "gem-studded" appearance
@@ -75,69 +75,16 @@ it within a clade closely related to Calvatia and Handkea.
   olive-brown powdery spore mass at maturity
 - **Subgleba:** Small sterile basal portion, chambered, extending as a
   short stem-like base
-- **Spore print:** Olive-brown to dark brown
+- **[[boil-a-bag-spore-print-technique-jarrold]]:** Olive-brown to dark brown
 - **Spores:** Spherical, 3.5–4.5 μm diameter, finely echinulate, with
   a short pedicel
 - **Capillitium:** Branched brownish threads mixed with spores, aiding
-  gradual spore release
+  gradual [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]
 
 ## Distribution and Habitat
 
 - **Range:** Cosmopolitan in temperate and boreal Northern Hemisphere;
-  also reported from temperate South America and Australasia
-- **Habitat:** Decaying wood of hardwoods and conifers; forest litter
+  also reported from temperate [[guzman-psilocybin-mushrooms-south-america]] and Australasia
+- **Habitat:** Decaying wood of hardwoods and conifers; [[aact-forest-litter-fungi-mycorrhizal-ingham]]
 - **Season:** Late summer to autumn (July–November Northern Hemisphere)
 - **Frequency:** Very common to abundant
-
-## Nutritional Profile
-
-Young L. perlatum has a favorable [[dighton-fungal-nutritional-composition-animal-diets]]:
-
-- **Protein:** 15–25% dry weight (high for a mushroom)
-- **Carbohydrates:** 45–55% dry weight, including chitin and β-glucans
-- **Fat:** 2–5% dry weight
-- **Minerals:** Rich in potassium, phosphorus, iron, zinc, copper, selenium
-- **Vitamins:** B vitamins (B1, B2, B3, B5) and vitamin D2 with UV
-  exposure
-- **Bioactive:** Protein-bound β-glucans with immunomodulatory activity
-
-## Bioactive Compounds and Pharmacology
-
-- **Lycoperdon polysaccharides:** Protein-bound β-(1→3)-D-glucans
-  stimulating macrophage activation, NK cell activity, and cytokine
-  production in vitro
-- **Antitumor activity:** Crude polysaccharide extracts show dose-
-  dependent inhibition in sarcoma 180 and Ehrlich ascites models
-- **Antimicrobial:** Extracts active against Gram-positive bacteria
-  (S. aureus, B. subtilis) and some fungi
-- **Anti-inflammatory:** Methanol extracts show COX-2 inhibition and
-  reduced pro-inflammatory cytokines in cell culture
-
-## Edibility and Culinary Use
-
-L. perlatum is excellent when young with white, firm gleba:
-
-- **Selection:** Only collect specimens with entirely white, firm interior;
-  any yellowing indicates spore development — discard
-- **Preparation:** Peel outer skin, slice and sauté, bread and fry, or add
-  to soups
-- **Flavor:** Mild, nutty, earthy; absorbs flavors well
-- **Texture:** Firm and meaty when young
-- **Safety:** Always cut open to confirm uniform white flesh with no gill
-  structure. Young Amanita "egg" stages look similar externally but
-  contain gills inside — these are deadly poisonous
-## Related Species
-
-- **Lycoperdon pyriforme:** Found on buried decaying wood; smoother
-  surface, fewer spines
-- **Lycoperdon umbrinum:** Darker brown, fewer spines; similar habitat
-- **Calvatia gigantea:** Giant puffball; much larger (up to 70 cm),
-  smooth surface, edible when young
-- **Bovista plumbea:** Small puffball of grasslands; smooth surface
-  cracking to reveal lead-colored inner skin
-
-## See Also
-- [[parmotrema-perlatum]]
-- [[lycoperdon-pyriforme]]
-- [[decomposition]]
-- [[permaculture-plants-edible-perennials-understory]]

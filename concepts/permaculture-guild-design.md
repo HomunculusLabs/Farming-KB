@@ -103,6 +103,20 @@ Poultry in guilds provide pest control (eating codling moth larvae, plum curculi
 - Ignoring mature size — plants that work well together at year one may shade each other at year five
 - Planting invasive species — some guild plants (mint, comfrey, Jerusalem artichoke) spread aggressively
 - Neglecting management — guilds need periodic cutting, harvesting, and thinning to stay productive
+## Design Integration
+
+This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
+
+## Economic Considerations
+
+Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
+
+## See Also
+- [[aboriginal-ecology-permaculture-two]]
+- [[bamboo-permaculture-and-construction]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 
 ## See Also
 

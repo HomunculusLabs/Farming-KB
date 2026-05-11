@@ -66,7 +66,7 @@ winter experience even as temperatures warm.
 
 Remarkably, vernalization can persist through many cell divisions and in
 some cases across generations, representing a form of transgenerational
-epigenetic memory. However, the vernalized state is reset during seed
+[[plant-epigenetic-memory-gene-based-remembering]]. However, the vernalized state is reset during seed
 development, so each generation must experience winter anew.
 
 ## Light Memory and Shade Avoidance
@@ -88,63 +88,3 @@ a state of heightened preparedness for future water scarcity.
 The molecular basis of plant memory primarily involves **epigenetic
 modifications** — heritable changes in gene expression that do not involve
 changes to the DNA sequence itself. Key mechanisms include:
-
-- **DNA methylation**: The addition of methyl groups to cytosine bases,
-  typically associated with gene silencing. Plants exhibit particularly
-  extensive DNA methylation compared to animals.
-- **Histone modifications**: [[hofmann-lsd-chemical-modifications-derivatives]] to histone proteins
-  around which DNA is wrapped, affecting chromatin structure and gene
-  accessibility. Specific marks like H3K4me3 (active) and H3K27me3
-  (repressive) play central roles in maintaining memory states.
-- **Chromatin remodeling**: Changes in the three-dimensional structure of
-  chromatin that alter which genes are accessible for transcription.
-- **Small RNAs**: Short RNA molecules (21-24 nucleotides) that can guide
-  epigenetic modifications to specific genomic loci, reinforcing memory
-  states through RNA-directed DNA methylation (RdDM).
-
-These epigenetic marks are maintained through cell division by dedicated
-maintenance machinery, allowing the memory state to persist as the plant
-grows and develops.
-
-## Transgenerational Memory
-
-Perhaps the most controversial and fascinating aspect of plant memory is
-the evidence for **transgenerational epigenetic inheritance** — the
-transmission of acquired memory states from parent to offspring through
-seeds. Multiple studies have demonstrated that stress-induced epigenetic
-changes in parent plants can affect the [[endophyte-mediated-plant-stress-tolerance]], flowering time,
-and other traits of their progeny.
-
-For example, plants exposed to drought or pathogen stress can produce seeds
-that germinate more vigorously and show enhanced stress resistance compared
-to seeds from unstressed parents. This "parental effect" can persist for
-one or sometimes two generations before being reset.
-
-The mechanisms of transgenerational memory in plants are better understood
-than in animals, partly because plant germlines are established late in
-development (from somatic tissue), making them more susceptible to
-epigenetic carryover from the parent.
-
-## Implications and Controversies
-
-The study of plant memory has philosophical and scientific implications.
-It challenges the notion that memory and cognition require nervous systems,
-suggesting instead that information storage and retrieval are fundamental
-capabilities of living systems that can be achieved through diverse molecular
-mechanisms.
-
-Critics argue that terms like "memory" and "learning" anthropomorphize
-plant responses, which may be better described as simple physiological
-adjustments. Proponents counter that the functional equivalence — information
-encoding, persistence, and future behavioral modification — justifies the
-use of cognitive terminology.
-
-Regardless of semantic debates, the practical implications are clear:
-understanding plant memory can improve agriculture by enabling the
-development of crops with enhanced stress priming capabilities and more
-resilient epigenetic responses.
-## See Also
-
-- [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]
-- [[brassinosteroid-physiological-mechanisms-cell-elongation-division]]
-- [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]

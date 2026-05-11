@@ -2,7 +2,7 @@
 
 ## Source
 - **Book:** The [[blesching-cannabis-health-index-autoimmune-conditions]]: Combining the Science of [[cervantes-medical-marijuana-pharmacology]] with Mindfulness Techniques to Heal 100 Chronic Symptoms and Diseases
-- **Author:** Uwe Blesching, PhD (2015)
+- **Author:** [[uwe-blesching]], PhD (2015)
 - **Chapter:** Chapter I — Is Cannabis Safe?
 
 ## Overview
@@ -88,52 +88,3 @@ The line between an effective dose and an adverse effect is described as "very t
 1. Use an exact, measured amount
 2. Preferably take on an empty stomach
 3. Wait at least one hour (two hours if taken after a meal)
-4. If no effect, increase by the same measured amount
-5. Repeat until desired effect is achieved
-
-For future sessions, start at the previously effective amount minus ~20% to account for variations in digestion and metabolism.
-
-### Common Edible Mistake
-Many patients make the error of thinking "I'm not feeling anything" after 30-45 minutes and continuing to eat more, only to experience intense and prolonged adverse effects when the full dose metabolizes. Overingestion effects can last many hours and be very unpleasant.
-
-## Addiction and Dependency
-
-Blesching addresses the addiction debate with nuance:
-
-- **Type of dependency:** If dependency occurs, it is psychological rather than physical, unlike tobacco, alcohol, or heroin
-- **Treatment enrollment statistics:** High numbers in drug treatment centers are often cited as evidence of addiction, but many of these enrollments are court-mandated alternatives to incarceration
-- **Comparative risk:** Cannabis carries a considerably reduced risk of adverse side effects (including death) compared to pharmaceuticals with similar therapeutic targets
-- **Risk reduction:** Dependency potential can be reduced by infusing mindfulness into the healing process and by using raw cannabis preparations (which have little or no psychoactive effect)
-
-## Special Populations
-
-### Adolescents
-A Duke University longitudinal study (~38 years, New Zealand) found that cannabis dependency in adolescents (defined as continued use despite health, social, or legal problems) may contribute to reduced IQ scores later in life. Limitations include subjective data, small sample size (17% meeting dependency criteria), and uncontrolled confounders. Blesching advises assuming a possible correlation and exercising caution with adolescent use.
-
-### Pregnant Women and Fertility
-No long-term studies have examined exclusive cannabis use on fertility, fetal development, or pregnancy outcomes. Existing studies typically involve poly-substance use, complicating conclusions. Blesching recommends caution with any mind-body-altering substance during pregnancy.
-
-## Contaminant Risks
-
-Blesching identifies two primary contaminant concerns:
-
-- **Pesticides:** May increase the body's toxic load; mitigated by purchasing or [[hamilton-asparagus-growing-organic]] cannabis
-- **Aspergillus fungus:** A common mold on agricultural products; immunocompromised patients are particularly vulnerable. Proper drying practices (water activity below 0.81, temperature 25±2°C) can prevent growth, though this has not been verified specifically for cannabis
-
-## Key Takeaways
-
-- Zero deaths have been attributed to exclusive cannabis use in U.S. government data (1997-2005)
-- The lethal dose is physically impossible to achieve through normal consumption
-- Adverse effects are generally mild and dose-dependent
-- The subjective therapeutic window is the key concept for safe, effective cannabis use
-- Inhaled effects are rapid (minutes); ingested effects are delayed (1-2 hours) — this difference causes most overconsumption incidents
-- Addiction, when it occurs, is psychological rather than physical
-- Adolescent use may carry neurodevelopmental risks; caution is warranted
-- Cannabis is "neither dangerous nor harmless" — individual risk-benefit analysis is essential
-
-## See Also
-- [[blesching-cannabis-therapeutic-window-dosing]]
-- [[blesching-cannabis-therapeutic-window-methodology]]
-- [[blesching-cannabis-administration-methods]]
-- [[blesching-cannabis-safety-adverse-effects-evidence]] profile and overdose risk
-- [[adverse-effects-and-harm-reduction-psilocybin]]

@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Laurencia dendroidea** (J.Agardh) G.Furnari is a species of red marine macroalgae in the family Rhodomelaceae (order Ceramiales).
+**Laurencia dendroidea** (J.Agardh) G.Furnari is a species of red [[seaweed-and-marine-macroalgae-in-agriculture]] in the family Rhodomelaceae (order Ceramiales).
 
-It is widely distributed along the tropical and subtropical Atlantic coasts of South America, particularly abundant on the Brazilian shoreline.
+It is widely distributed along the tropical and subtropical Atlantic coasts of [[guzman-psilocybin-mushrooms-south-america]], particularly abundant on the Brazilian shoreline.
 
 The species is notable as a prolific producer of halogenated [[antifungal-secondary-metabolites-coprophilous-fungi]], including sesquiterpenes and diterpenes with demonstrated antibacterial, antifungal, and cytotoxic activities.
 
@@ -70,11 +70,11 @@ Its metabolite profile is dominated by halogenated sesquiterpenes and diterpenes
 
 Major compound classes include elatol, obtusol, and various laurencin derivatives.
 
-Elatol exhibits potent antibacterial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Enterococcus faecalis*.
+Elatol exhibits potent antibacterial activity against Gram-positive bacteria including *[[staphylococcus-aureus]]* and *Enterococcus faecalis*.
 
 Obtusol and related chamigrane-type sesquiterpenes show antifungal properties against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and dermatophyte species.
 
-Several isolated diterpenes demonstrate cytotoxic activity against human cancer cell lines in vitro (HL-60, MCF-7, NCI-H460).
+Several isolated diterpenes demonstrate cytotoxic activity against human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro (HL-60, MCF-7, NCI-H460).
 
 The halogenation pattern (bromination and chlorination) is catalyzed by specific haloperoxidase enzymes unique to red algae.
 
@@ -87,30 +87,3 @@ These defensive metabolites deter herbivory by marine gastropods and reduce foul
 As a primary producer on rocky intertidal substrates, *L. dendroidea* contributes to coastal primary productivity.
 
 It provides structural habitat and shelter for small invertebrates, including amphipods, polychaetes, and juvenile crustaceans.
-
-The species plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing dissolved nitrogen and phosphorus from the water column.
-
-Chemical defenses produced by *L. dendroidea* influence grazing patterns and community structure on tropical reefs.
-
-Epiphytic relationships are complex — the alga both hosts and deters epiphytes depending on metabolite concentrations.
-
-Seasonal variation in metabolite production has been documented, with higher concentrations during warmer months.
-
-## Cultivation
-
-No commercial cultivation of *L. dendroidea* exists as of 2026, though laboratory culture is feasible.
-
-Specimens can be maintained in seawater aquaria at 22–25°C with moderate aeration and 12:12 light cycles.
-
-Growth rates in culture are slow, limiting potential for large-scale [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-Interest in cultivation has focused on sustainable production of halogenated metabolites for pharmaceutical screening.
-
-Vegetative propagation via fragmentation is the primary method for maintaining laboratory stock cultures.
-
-## See Also
-
-- [[ceramium-virgatum]]
-- [[gelidium-amansii]]
-- [[sargassum-fusiforme]]
-- [[ulva-lactuca]]

@@ -1,5 +1,5 @@
 ---
-title: Settlement Types and [[permaculture-designers-manual-village-design]]
+title: [[bill-mollison-permaculture-designers-manual]] Settlement Types
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,7 +15,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 We need well-designed villages today more than any other enterprise: villages to re-locate those soon-to-be-refugees from sea-level rise, villages to house people from urban slums, and villages where people of like mind can find someone else to talk to and to work with.
 
-An intentional village should have a group ethic acceptable to all who come there. Ethics, if shared, discussed, and acknowledged, give unity to groups, villages, and nations, indicate a way to go, and control our use of earth resources.
+An intentional village should have a group ethic acceptable to all who come there. Ethics, if shared, discussed, and acknowledged, give unity to groups, villages, and nations, indicate a way to go, and control our use of [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]].
 
 ## Village Aims
 
@@ -88,33 +88,3 @@ Essential criteria:
 - 10% allotted as labour equity to surveyors, earthmovers, landscapers
 
 **Village Trust Stage:**
-- 20% sold to fund village projects (at 50% or less value to low-income families)
-- 10% reserved for crucial new recruits (medical, computer, energy)
-- 10% issued on easy terms to low-income families
-- 20% sold to finance village services
-
-### Village Trust Systems
-The extended family model replaces nuclear families, with:
-- Common enterprise fund (held in 2-3 currencies)
-- Annual membership fund
-- Children's permanent fund ($50/adult, non-returnable)
-- Special venture funds
-- Groups of about 30 people in core regions
-
-## Ethical Investment Trusts
-
-Property trusts purchase real estate for improvement, lease, or rental on behalf of many small investors. Key principles:
-- Low unit price ($100) enables even poorer people to invest
-- Investors given opportunity for on-site involvement
-- 4-8% of funds for management costs; remainder for property purchase and development
-- Focus on threatened habitats, eroded land rehabilitation, sustainable village development, bioregional clean energy
-
-## Related Topics
-
-- permaculture-designers-manual-bioregional-planning - Bioregional planning
-- permaculture-designers-manual-energy-systems - Energy systems
-- mollison-property-trusts-ethical-investment
-- permaculture-designers-manual-food-forest-guilds
-- [[permaculture-design]]
-- [[bill-mollison]]
-- [[permaculture-designers-manual-pattern-application]]

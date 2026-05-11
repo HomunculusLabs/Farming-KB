@@ -26,7 +26,7 @@ sources:
 ## Overview
 
 Cap Junky is a potent indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] created by crossing
-**Capulator's MAC (Miracle Alien Cookies)** with **Alien Cookies BX1**. Bred by
+**Capulator's MAC ([[miracle-alien-cookies]])** with **Alien Cookies BX1**. Bred by
 Seed Junky Genetics in collaboration with Compound Genetics, it was released in
 the early 2020s and rapidly became one of the most sought-after exotic strains
 in the [[growing-gourmet-north-american-reishi-species]] market.
@@ -38,7 +38,7 @@ that has become the benchmark for the "gas" category in modern [[oner-cannabis-b
 ## Lineage
 
 - **Female parent:** MAC (Miracle Alien Cookies) — *Alien Cookies × (Colombian × Starfighter)*
-  Bred by Capulator, MAC contributed the strain's dense bud structure, frosty
+  Bred by Capulator, MAC contributed the strain's dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], frosty
   trichome coverage, and complex cookie-gas terpene base.
 - **Male parent:** Alien Cookies BX1 — a backcross of Alien Cookies reinforcing
   the sharp, chemical, and doughy aroma characteristics of the Alien lineage.
@@ -60,7 +60,7 @@ a frosted, nearly white appearance at maturity.
 
 ### Aroma and Flavor
 
-- **Primary notes:** Jet fuel, rubber, burnt rubber, chemical cleaner
+- **Primary notes:** [[jet-fuel]], rubber, burnt rubber, chemical cleaner
 - **Secondary notes:** Doughy cookie, earthy musk, sour citrus peel
 - **Aftertaste:** Lingering acrid gas with a faintly sweet cookie undertone
 
@@ -81,42 +81,10 @@ diesel-dominant inhale with a smoother cookie-dough exhale.
 
 - **THC:** 30–36% (exceptionally high; some phenotypes test above 37%)
 - **CBD:** <0.1% (negligible)
-- **Minor cannabinoids:** Trace THCV, CBC, CBG detected in most lab analyses
+- **[[cannabis-minor-cannabinoids]]:** Trace THCV, CBC, CBG detected in most lab analyses
 
 ## Effects
 
 Cap Junky delivers fast-acting, intensely powerful effects consistent with its
-high THC content. The onset is cerebral and euphoric, characterized by a rush of
+high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]. The onset is cerebral and euphoric, characterized by a rush of
 heady intoxication that can feel almost disorienting at first. Within 15–30 minutes,
-deep physical relaxation sets in, spreading from the shoulders downward.
-
-Common effects reported by users include:
-- Intense euphoria and cerebral stimulation
-- Heavy body relaxation progressing to sedation
-- Heightened sensory perception (music, taste)
-- Significant appetite stimulation ("the munchies")
-- Couch-lock at higher doses
-
-The strain is best suited for evening or nighttime use. Novice consumers should
-approach with caution due to the extreme potency.
-
-## Cultivation
-
-Cap Junky is considered a moderate-to-difficult strain to cultivate, requiring
-experienced growers to achieve optimal results. It responds well to both indoor
-and outdoor environments but demands careful [[green-cannabis-grow-bible-nutrient-management-ppm]] and climate
-control to express its full terpene potential.
-
-- **Flowering time:** 8–10 weeks indoors
-- **Indoor yield:** 350–450 g/m²
-- **Outdoor yield:** 400–550 g/plant
-- **Preferred climate:** Mediterranean or warm temperate; 65–80°F (18–27°C)
-- **Resistance:** Moderate resistance to [[cervantes-powdery-mildew-prevention-treatment]]; susceptible to botrytis
-  in high-humidity environments
-- **Training:** Responds well to LST, topping, and ScrOG methods
-
-## See Also
-
-- [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
-- [[wine-cap-mushroom-cultivation]]
-- [[miracle-alien-cookies]] · GMO · [[ice-cream-cake-cannabis]] · [[jealousy-cannabis-strain-entity]] · [[do-si-dos-entity]] · [[runtz-entity]]

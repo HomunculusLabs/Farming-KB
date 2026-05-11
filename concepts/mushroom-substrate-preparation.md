@@ -87,27 +87,3 @@ functions:
 ## Common Substrate Problems
 
 ### Too Wet
-
-- Water pooling at the bottom of jars after sterilization
-- Colonization stalls or is very slow
-- Bacterial contamination (sour smell, slimy texture) is common
-- Solution: Use less water; squeeze excess moisture from vermiculite
-  before adding flour
-
-### Too Dry
-
-- Substrate crumbles and won't hold together when squeezed
-- Mycelium grows very slowly or fails to colonize completely
-- Solution: Add more water incrementally during mixing
-
-### Compacted
-
-- Substrate is dense with no air pockets
-- Colonization is very slow or stalls
-- Solution: Mix more gently; don't pack substrate into jars
-
-### Contaminated
-## See Also
-
-- [[mushroom-spore-inoculation-techniques]]
-- [[dual-chambered-terrarium-fruiting]]

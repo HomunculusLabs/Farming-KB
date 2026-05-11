@@ -1,7 +1,7 @@
 ---
 title: Cannabis and Fibromyalgia
 source: uwe-blesching-the-cannabis-health-index
-source_author: Uwe Blesching
+source_author: [[uwe-blesching]]
 tags: [cannabis, fibromyalgia, chronic-pain, cannabinoid, THC, CBD, CHI]
 ---
 
@@ -19,7 +19,7 @@ Fibromyalgia is now understood as a disorder of central pain processing rather t
 
 - **Central sensitization:** Amplified pain signaling within the central nervous system leads to hyperalgesia (increased sensitivity to painful stimuli) and allodynia (pain from normally non-painful stimuli).
 - **Neurotransmitter imbalances:** Elevated levels of substance P, glutamate, and nerve growth factor in cerebrospinal fluid, combined with reduced levels of serotonin, norepinephrine, and dopamine.
-- **Neuroendocrine dysfunction:** Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, altered growth hormone secretion, and disturbed melatonin production.
+- **Neuroendocrine dysfunction:** Dysregulation of the hypothalamic-pituitary-adrenal (HPA) axis, altered [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] secretion, and disturbed melatonin production.
 - **[[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] dysfunction:** Sympathetic hyperactivity and reduced parasympathetic tone.
 - **Sleep architecture disruption:** Reduced slow-wave sleep and increased alpha-wave intrusion during deep sleep stages.
 
@@ -31,13 +31,13 @@ Multiple lines of evidence suggest that fibromyalgia may involve dysfunction of 
 
 - **Reduced CB1 [[beta-glucan-receptor-binding]]:** PET imaging studies have demonstrated decreased CB1 receptor availability in brain regions involved in pain processing among fibromyalgia patients.
 - **Altered endocannabinoid levels:** Some studies report lower cerebrospinal fluid levels of anandamide in fibromyalgia patients compared to healthy controls.
-- **Clinical endocannabinoid deficiency (CED):** Ethan Russo has proposed that certain chronic conditions, including fibromyalgia, migraine, and [[blesching-cannabis-irritable-bowel-syndrome]], may share an underlying deficiency in endocannabinoid tone.
+- **Clinical endocannabinoid deficiency (CED):** Ethan Russo has proposed that certain chronic conditions, including fibromyalgia, migraine, and [[blesching-cannabis-irritable-bowel-syndrome]], may share an underlying deficiency in [[endocannabinoid-tone-and-emotional-wellness-blesching]].
 
 This theoretical framework suggests that supplementation with phytocannabinoids could help restore endocannabinoid system function and alleviate fibromyalgia symptoms.
 
 ## Clinical Evidence for Cannabis in Fibromyalgia
 
-Several clinical studies have evaluated cannabis and cannabinoids for fibromyalgia symptom management:
+Several clinical studies have evaluated cannabis and cannabinoids for fibromyalgia [[cannabis-cancer-symptom-management]]:
 
 A 2008 Spanish study by Dr. Manuel Sanchez Adams at the University of Granada examined the effects of cannabinoids in fibromyalgia patients. The study found that cannabis use was associated with significant reductions in pain and stiffness, improved sleep quality, and enhanced relaxation. The researchers noted that cannabinoid treatment enabled patients to reduce their use of conventional pain medications.
 
@@ -49,13 +49,13 @@ A 2011 prospective observational study followed 28 fibromyalgia patients who beg
 - Overall health-related quality of life (measured by Fibromyalgia Impact Questionnaire).
 - Depression and anxiety scores.
 
-A 2016 Israeli study examined the effects of medical cannabis in 267 fibromyalgia patients. After an average treatment duration of approximately 11 months, 81.1% of patients reported moderate to significant improvement in their condition. Pain levels decreased by a median of 6 points on a 0-10 numeric rating scale. Notably, 26.7% of patients were able to discontinue at least one of their pre-existing fibromyalgia medications.
+A 2016 Israeli study examined the effects of medical cannabis in 267 fibromyalgia patients. After an average treatment duration of approximately 11 months, 81.1% of patients reported moderate to significant improvement in their condition. Pain levels decreased by a median of 6 points on a 0-10 numeric [[shulgin-rating-scale]]. Notably, 26.7% of patients were able to discontinue at least one of their pre-existing fibromyalgia medications.
 
 ## Cannabinoid Mechanisms Relevant to Fibromyalgia
 
 Cannabinoids address multiple pathophysiological pathways involved in fibromyalgia simultaneously:
 
-**Pain modulation:**
+**[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]:**
 
 - CB1 receptor activation in the descending pain pathways inhibits nociceptive signaling.
 - CB2 receptors on immune cells reduce the release of pro-inflammatory cytokines.
@@ -88,41 +88,3 @@ Fibromyalgia patients may benefit from different cannabinoid profiles depending 
 - **Strains rich in myrcene:** This terpene has sedative and muscle relaxant properties that complement cannabinoid effects.
 
 ## Modes of Administration
-
-The choice of administration route can significantly affect therapeutic outcomes:
-
-- **Inhalation (smoking/vaporization):** Rapid onset (minutes) allows for as-needed pain relief but has shorter duration of action (2-4 hours).
-- **Oral (capsules, edibles, tinctures):** Slower onset (1-2 hours) but longer duration (6-8 hours); better for sustained symptom management.
-- **Sublingual tinctures:** Intermediate onset (15-45 minutes) with good bioavailability; allow precise dose titration.
-- **[[cannabis-topical-preparations]]:** Useful for localized pain but have limited penetration for deep tissue pain.
-
-## Safety Considerations
-
-Cannabis is generally well-tolerated by fibromyalgia patients. Common side effects include dry mouth, dizziness, drowsiness, and mild cognitive impairment. These are typically dose-dependent. Patients should be counseled about potential interactions with other medications, particularly:
-
-- Opioids: Cannabis may enhance analgesic effects but also increase sedation.
-- Benzodiazepines: Combined use increases central nervous system depression.
-- Antidepressants: Minimal pharmacokinetic interactions but potential additive sedation.
-- Muscle relaxants: May have additive effects on muscle relaxation.
-
-## Mind-Body Considerations
-
-Fibromyalgia is strongly associated with psychological stress, trauma history, and comorbid mood disorders. The mind-body component of fibromyalgia management is substantial. Cannabis may help interrupt the cycle of pain, sleep disruption, and psychological distress by addressing multiple symptom domains simultaneously. However, cannabis should be viewed as one component of a comprehensive management plan that includes:
-
-- Cognitive behavioral therapy (CBT).
-- Graded exercise programs.
-- Sleep hygiene optimization.
-- Stress management techniques.
-- Social support networks.
-
-## See Also
-
-- cannabis chronic pain
-- [[endocannabinoid-system-overview]]
-- central sensitization
-
-## Sources
-
-- Blesching, U. (2014). The [[blesching-cannabis-health-index-autoimmune-conditions]]. North Atlantic Books.
-- Russo, E.B. (2008). "Clinical Endocannabinoid Deficiency Reconsidered." Cannabis and Cannabinoid Research.
-- Sagy, I. et al. (2019). "Safety and Efficacy of Medical Cannabis in Fibromyalgia." Journal of Clinical Medicine.

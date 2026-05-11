@@ -88,17 +88,3 @@ This responsiveness has profound implications for ecological monitoring that cou
 ## Implications for Computing and Technology
 
 The computational properties of mycelial networks have attracted growing interest in [[biological-slime-mold-computing|bio-inspired computing]] and the search for sustainable, biodegradable technologies.
-
-Beyond computing, mycelium is already being explored as a manufacturing material. Mycelium-based composites, grown from agricultural waste colonized by fungal networks, are being developed as replacements for styrofoam packaging, leather, and building insulation. These materials are biodegradable, fire-resistant, and require minimal energy to produce, offering a glimpse of a future in which fungal networks serve not only as ecological infrastructure but as industrial feedstocks.
-
-Experiments have shown that electrical potential oscillations in mycelial networks can transmit information in ways analogous to neural impulses. By measuring these signals, researchers have begun to decode the language of fungal communication. This opens the possibility of interfacing directly with biological networks, creating hybrid systems that combine the adaptability and efficiency of living organisms with the precision and programmability of electronic systems.
-
-Pioneering work by the Unconventional Computing Laboratory at the University of the West of England has demonstrated that fungal networks can be used to implement logic gates and simple computational circuits. By applying electrical stimuli and recording the resulting signal patterns, researchers have shown that mycelium can perform basic logical operations. While a full mycelial computer remains a distant prospect, these results establish that the computational framework exists within living fungal networks. The combination of sensing, processing, and responding capabilities within a single biological system, powered only by ambient nutrients, represents a fundamentally different paradigm from silicon-based computing.
-
-## Mycorestoration
-
-Paul Stamets coined the term [[underground-fungal-networks|Fungal Networks]]
-- [[ingham-nutrient-cycling-soil-food-web|Nutrient Cycling]]
-- Biological Weathering
-- [[fungal-ecology-and-decomposition|Decomposition and Fungi]]
-- [[teaming-with-microbes-mycorrhizal-associations|Mycorrhizal Associations]]

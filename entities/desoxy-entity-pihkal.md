@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DESOXY
 
-PIHKAL entry #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #52. 3,5-DIMETHOXY-4-METHYLPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -88,15 +88,3 @@ A solution of LAH in anhydrous THF under nitrogen (20 mL of a 1.0 M solution) wa
 ## Safety Notes
 
 DESOXY is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-
-- [[desoxy-entity]]
-
-- [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamine compounds in PIHKAL

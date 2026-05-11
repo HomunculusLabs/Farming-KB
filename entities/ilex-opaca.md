@@ -20,11 +20,11 @@ sources:
 
 ## Overview
 
-**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central United States. It is the state tree of Delaware and one of the most widely recognized native ornamental trees in [[psilocybin-north-america-pacific-northwest]].
+**Ilex opaca**, commonly known as American holly, is a medium-sized evergreen tree in the family Aquifoliaceae native to the eastern and south-central [[dmt-containing-plants-united-states-halpern]]. It is the state tree of Delaware and one of the most widely recognized native [[hamilton-ornamental-trees]] in [[psilocybin-north-america-pacific-northwest]].
 
 The species ranges from Massachusetts south to central Florida and west to eastern Texas and southeastern Missouri. American holly is valued for its spiny evergreen foliage and abundant red drupes that persist through winter.
 
-It is the species most commonly associated with Christmas holly traditions in North America. The wood is close-grained and white, historically used for inlay work, woodcuts, and tool handles.
+It is the species most commonly associated with Christmas holly traditions in [[guzman-psilocybin-mushrooms-north-america]]. The wood is close-grained and white, historically used for inlay work, woodcuts, and tool handles.
 
 The genus *Ilex* contains approximately 400–600 species worldwide. American holly is among the most commercially important [[growing-gourmet-north-american-reishi-species]] species in the genus.
 
@@ -46,7 +46,7 @@ The bark of mature American holly was historically used by Indigenous peoples fo
 
 Fruit ripening occurs October–November, with peak display from November through February. The bright red drupes contrast sharply with the dark green foliage.
 
-Fruit production is often biennial, with heavy crops alternating with light years. Crop failure in a single year can result from late spring frosts damaging flowers.
+[[query-how-do-i-prune-brambles-for-maximum-fruit-production]] is often biennial, with heavy crops alternating with light years. Crop failure in a single year can result from late spring frosts damaging flowers.
 
 ## Distribution and Habitat
 
@@ -87,25 +87,3 @@ Transplanting large specimens is difficult due to a coarse root system; containe
 Numerous cultivars have been selected for superior fruit set, foliage characteristics, and growth habit. Notable selections include 'Jersey Knight' (male pollinizer), 'Jersey Princess' (female, heavy fruiting), 'Merry Christmas', and 'Croonenburg'.
 
 American holly foliage and fruit are commercially harvested for holiday decorations. Sustainable harvest practices involve periodic pruning rather than destructive cutting.
-
-## Related Species
-
-American holly is closely related to several other North American *Ilex* species. Dahoon holly (*Ilex cassine*) of the southeastern coastal plain has narrower, entire-margined leaves and smaller fruit.
-
-Possumhaw (*Ilex decidua*) is a deciduous holly of the southeastern United States noted for its spectacular winter fruit display on leafless branches. Inkberry (*Ilex glabra*) is a compact, rhizomatous evergreen shrub with entire leaves.
-
-Yaupon (*Ilex vomitoria*) is the only other North American holly containing significant caffeine. European holly (*Ilex aquifolium*) is a closely related [[datura-metel-old-world-ethnobotany]] species with similar morphology.
-
-American holly can be distinguished from European holly by its duller [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]], less pronounced marginal spines, and more southerly natural distribution.
-
-## See Also
-
-- [[ilex-vomitoria]]
-- [[sambucus-canadensis]]
-- [[juniperus-virginiana]]
-- [[kalmia-latifolia]]
-- [[gaylussacia-baccata]]
-- [[picea-abies]]
-- arctostaphylos-uva-ursi
-- [[vaccinium-myrtillus]]
-- [[kalmia-angustifolia]]

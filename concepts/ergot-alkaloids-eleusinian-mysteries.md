@@ -11,8 +11,8 @@ type: concept
 # Ergot Alkaloids and the Eleusinian Mysteries
 
 The Eleusinian Mysteries were the most important religious initiation rites in
-ancient Greece, conducted annually for over two thousand years at Eleusis near
-Athens. A persistent and intriguing hypothesis, advanced by Terence McKenna
+[[psychedelic-use-in-ancient-greece]], conducted annually for over two thousand years at Eleusis near
+Athens. A persistent and intriguing hypothesis, advanced by [[terence-mckenna]]
 among others, holds that the central visionary experience of the Mysteries was
 mediated by ergot alkaloids derived from the fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*.
 
@@ -44,7 +44,7 @@ initiates.
 
 In 1978, chemist Albert Hofmann (discoverer of LSD) and classical scholar Carl
 Ruck proposed that kykeon was prepared from ergotized barley contaminated with
-*Claviceps purpurea*. Hofmann, drawing on his intimate knowledge of ergot
+*[[claviceps-purpurea]]*. Hofmann, drawing on his intimate knowledge of ergot
 chemistry, argued that a water-soluble preparation could extract the
 psychoactive alkaloid ergine ([[ergot-and-lysergic-acid-history]] amide, also known as LSA) while
 leaving behind the toxic ergopeptine alkaloids responsible for ergotism
@@ -60,16 +60,16 @@ alkaloids that can be broadly categorized into:
   These are responsible for the vasoconstrictive and neurotoxic effects of
   ergotism. They cause intense vasoconstriction, hallucinations, and in severe
   cases, gangrene and death.
-- **Ergoline derivatives** (ergine/LSA, lysergic acid hydroxyethylamide):
+- **Ergoline derivatives** (ergine/LSA, [[lysergic-acid-hydroxyethylamide]]):
   These are water-soluble, less toxic, and possess known psychoactive
   properties. LSA is structurally similar to LSD but approximately 10-50x less
   potent.
 
 The key insight of the Hofmann-Ruck hypothesis is that a simple water
 extraction of ergotized barley would preferentially dissolve the water-soluble
-ergoline alkaloids (including LSA) while leaving the lipid-soluble, more toxic
+[[morning-glory-lsa-and-ergoline-alkaloids]] (including LSA) while leaving the lipid-soluble, more toxic
 ergopeptines behind. This would produce a drink capable of inducing altered
-states of consciousness without the severe toxic effects associated with
+[[mckenna-food-gods-designer-states-of-consciousness]] without the severe toxic effects associated with
 ergotism.
 
 ## Evidence and Arguments
@@ -87,36 +87,3 @@ ergotism.
   known host for *Claviceps purpurea*.
 - **Hofmann's expertise**: Hofmann's intimate knowledge of ergot chemistry
   lent significant credibility to the feasibility argument.
-
-### Counterevidence
-
-- **Ergotism risk**: Skeptics argue that even careful preparation could not
-  reliably separate the psychoactive from the toxic alkaloids, and that the
-  risk of accidental poisoning would be unacceptable for the most prestigious
-  religious rite in Greece.
-- **No archaeological evidence**: No ergot residues have been identified in
-  archaeological contexts associated with Eleusis.
-- **Alternative explanations**: Some scholars argue the visionary experience
-  could have been produced by suggestion, sensory deprivation in the
-  Telesterion, or other non-pharmacological means.
-- **Seasonal availability**: Ergot contamination is most common in damp, cool
-  conditions and may not have been reliably present in September in the
-  Mediterranean climate.
-
-## Broader Implications
-
-The [[kykeon-potion-and-ergot-hypothesis-at-eleusis]] for the Eleusinian Mysteries intersects with McKenna's
-larger argument in *Food of the Gods* that psychoactive substances have played
-a foundational role in the development of human religion and culture. He saw
-the Mysteries as evidence that psychedelic experiences, when properly
-contained within ritual frameworks, could serve as the basis for stable,
-civilization-sustaining religious traditions.
-
-## See Also
-
-- [[eleusinian-mysteries-ergot-theory]]
-
-- [[entheogens-in-ancient-cultures]]
-- [[ergot-fungus]]
-- psychedelic religious experiences
-- [[ancient-greek-mystery-cults-comparison]]

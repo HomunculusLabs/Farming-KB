@@ -6,6 +6,7 @@ type: concept
 tags: [cultivation, mycology]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -17,12 +18,12 @@ Sepp Holzer cultivates mushrooms on both logs and straw as part of his integrate
 ## Mushrooms on Wood
 
 ### Suitable Mushroom Species
-- [[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus, P. cornucopiae, P. eryngii, P. salignus, P. columbinus)
+- [[query-how-to-grow-oyster-mushrooms-at-home]] ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]], P. cornucopiae, P. eryngii, P. salignus, P. columbinus)
 - Shiitake ([[staycare-lentinula-edodes-in-bioremediation]])
-- Lion's mane (Hericium erinaceus)
+- Lion's mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
 
 ### Suitable Wood Types
-Coniferous wood: spruce, fir, larch, pine, Douglas fir. The old belief that mushrooms can only be cultivated on deciduous wood is mistaken. Coniferous wood is just as suitable, sometimes even better, and grows back faster.
+Coniferous wood: spruce, fir, larch, pine, [[douglas-fir]]. The old belief that mushrooms can only be cultivated on deciduous wood is mistaken. Coniferous wood is just as suitable, sometimes even better, and grows back faster.
 
 ### Tree Selection and Felling
 - Trees should be healthy, not already attacked by fungi
@@ -44,7 +45,7 @@ Coniferous wood: spruce, fir, larch, pine, Douglas fir. The old belief that mush
 - If humus is to be built up, place the logs on a bed of brushwood or other organic material in a damp location
 
 ### Fruiting
-- Once colonised, place logs further apart (fruiting bodies need space)
+- Once colonised, place logs further apart ([[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] need space)
 - Sink colonised logs into ground by one-third their length for additional nutrients and moisture
 - Mycelium will grow through into the soil
 - Fruiting bodies generally appear near the inoculation area and on the outside
@@ -57,13 +58,13 @@ If logs fail to fruit after a few years:
 2. Strike with a mallet or rock
 3. Moisture and shaking stimulate fruiting body growth
 
-Holzer discovered this accidentally when he disposed of "useless" logs by tipping them into a wetland. The bumpy tractor ride, soaking in water, and humid microclimate caused almost all logs to produce oyster mushrooms within weeks.
+Holzer discovered this accidentally when he disposed of "useless" logs by tipping them into a wetland. The bumpy tractor ride, soaking in water, and humid microclimate caused almost all logs to produce [[cultivation-of-oyster-mushrooms]] within weeks.
 
 ## Mushrooms on Straw
 
 ### Suitable Species
 - All oyster mushroom varieties (Pleurotus sp.)
-- King stropharia (Stropharia rugosoannulata) -- excellent culinary mushroom, requires only over 10C, lower humidity requirements than oyster mushrooms
+- King stropharia ([[stropharia-rugosoannulata]]) -- excellent culinary mushroom, requires only over 10C, lower humidity requirements than oyster mushrooms
 
 ### Substrate Requirements
 - Any kind of straw can be used, but must be healthy
@@ -87,20 +88,3 @@ Holzer discovered this accidentally when he disposed of "useless" logs by tippin
 - Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] temperature: slightly over 20C
 - Spring/early summer inoculation yields crop in roughly 3 months
 - Autumn inoculation: crop not until following spring
-- Colonised bales not normally sensitive to frost
-- Well-permeated bale recognised by white, pleasant-smelling mycelium grown through the straw
-- Life span: 1-2 years depending on environmental conditions
-- Yields occur in phases depending on humidity and temperature
-
-### Sustainable Cycle
-The spent straw becomes valuable humus and can be used as mulch. Seeds have no competition from other seedlings because they rot underneath the mulch layer. New straw bales can be inoculated with mycelium from the previous culture, creating a self-perpetuating cycle.
-
-### Pest Control
-- [[query-how-to-get-rid-of-slugs-and-snails-organically]] are the main pest
-- Helpers: pigs, ducks, and toads reduce slug populations to harmless numbers
-- Protective ring of wood ash, sawdust, and slaked lime (must stay dry)
-- Fresh grass cuttings kept wet attract slugs for egg-laying; turn over after a few days to expose eggs to sun and UV light
-
-See also: [[cotter-oyster-mushroom-cultivation]], [[sepp-holzer-method]]
-- [[sepp-holzer-fruit-tree-varieties]]
-- [[holzer-mushroom-logs-mycorrhizae-and-fungi-cultivation]]

@@ -6,7 +6,7 @@ tags:
   - coffee
   - tropical-crop
   - alkaloid
-  - permaculture
+  - [[permaculture]]
   - understory-crop
   - commodity
 created: 2026-04-28
@@ -31,7 +31,7 @@ tropical belt between the Tropics of Cancer and Capricorn.
 The species is an allotetraploid (2n = 4x = 44), arising from a natural
 hybridization event between C. canephora and C. eugenioides approximately
 100,000–200,000 years ago. This polyploid origin contributes to its complex
-flavor profile, lower caffeine content compared to C. canephora, and greater
+flavor profile, lower [[caffeine]] content compared to C. canephora, and greater
 susceptibility to certain diseases.
 
 ## Taxonomy and Morphology
@@ -39,7 +39,7 @@ susceptibility to certain diseases.
 **Kingdom:** Plantae — **Family:** Rubiaceae — **Genus:** Coffea — **Species:** C. arabica L.
 
 Coffea arabica is an evergreen shrub or small tree typically reaching 3–5
-meters in cultivation, though wild specimens can exceed 10 meters. The leaves
+meters in cultivation, though [[strain-isolation-from-wild-specimens]] can exceed 10 meters. The leaves
 are glossy, dark green, elliptic to oblong, 6–14 cm long and 3–6 cm wide,
 with prominent lateral veins.
 
@@ -69,7 +69,7 @@ meters elevation.
 ## Chemistry and Pharmacology
 
 Coffea arabica contains 0.8–1.5% caffeine (significantly less than C. canephora
-at 1.7–4.0%), along with the related xanthine alkaloids theobromine and
+at 1.7–4.0%), along with the related xanthine alkaloids [[theobromine]] and
 theophylline. Chlorogenic acids (5-caffeoylquinic acid and related esters)
 constitute 5–10% of dry bean weight and are major contributors to antioxidant
 capacity and flavor development during roasting.
@@ -82,65 +82,9 @@ hypercholesterolemic properties.
 
 ## Cultivation
 
-Arabica coffee is typically propagated from seed, though vegetative propagation
+Arabica coffee is typically propagated from seed, though [[hamilton-vegetative-propagation]]
 by cuttings and grafting is used for elite cultivars. Seedlings require 12–18
 months in nursery before field transplanting. Plants begin bearing fruit at
 3–4 years and reach full productivity at 6–8 years.
 
 Optimal cultivation uses shade-grown systems under nitrogen-fixing canopy trees
-(Inga, Erythrina, Albizia spp.), which buffer temperature extremes, reduce
-evapotranspiration, and support biodiversity. Density ranges from 1,000–5,000
-plants per hectare depending on the production system.
-
-## Major Pests and Diseases
-
-**Coffee leaf rust** (Hemileia vastatrix) is the most devastating disease of
-C. arabica worldwide, causing yield losses of 30–80% in susceptible
-varieties. The fungus, first described in Java in 1869, has spread to all
-coffee-growing regions. Resistant cultivars incorporating the SH1–SH9
-resistance genes have been deployed since the 1970s.
-
-**Coffee berry disease** (Colletotrichum kahawae) is a major threat in Africa,
-causing pre-harvest fruit rot. Other significant pests include the coffee berry
-borer (Hypothenemus hampei), leaf miners (Leucoptera coffeella), and root-knot
-nematodes (Meloidogyne spp.).
-
-## Permaculture and Agroforestry Applications
-
-Coffee is a model agroforestry crop. Multi-strata shade systems integrate
-timber trees, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], nitrogen-fixing legumes, and coffee in productive
-poly cultures that outperform monocultures in [[biodiversity-of-fungi-ecosystem-services-agriculture]].
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], C. arabica serves as an understory income crop beneath
-taller canopy species. The deep [[dighton-fungal-decomposition-leaf-litter-dynamics]] moderates soil temperature, retains
-moisture, and cycles nutrients. Companion plantings with banana, citrus, avocado,
-and macadamia provide additional yields while maintaining shade levels of 30–50%.
-
-Organic coffee production using compost, [[jeavons-green-manures-cover-crops]], and [[cervantes-biological-pest-control-predators]]
-control is increasingly adopted, with certified organic arabica commanding
-significant price premiums in specialty markets.
-
-## Notable Cultivars
-
-- **Typica** — The original Arabica, foundation of many Central American and
-  Jamaican varieties. Conical tree shape, low yield, excellent cup quality.
-- **Bourbon** — Mutation of Typica from Réunion Island. Higher yield, denser
-  cherries, complex sweet flavor with chocolate and fruit notes.
-- **Geisha/Gesha** — Panamanian cultivar of Ethiopian origin. Exceptional
-  floral and tropical fruit notes; sells for $80–1,000+ per pound at auction.
-- **SL28** — Kenyan selection. Drought-tolerant, complex citric acidity,
-  prized in specialty coffee.
-- **Caturra** — Compact Bourbon mutation from Brazil. High yield, good quality,
-  widely planted in Latin America.
-
-## See Also
-
-- [[coffea-liberica]]
-
-- [[coffea-canephora]]
-
-- coffea canephosa
-- [[paullinia-cupana]]
-- [[pimenta-dioica]]
-- [[cinnamomum-cassia]]
-- [[canavalia-ensiformis]]

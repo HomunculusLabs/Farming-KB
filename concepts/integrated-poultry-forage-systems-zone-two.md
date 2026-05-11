@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
 [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]] asserts that never in the history of the world has anyone designed and implemented [[hamilton-organic-weed-management]] within an orchard. Chickens
@@ -87,9 +88,3 @@ improve resilience and productivity over time.
 ## Future Directions
 
 Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-- [[bill-mollison]]

@@ -38,7 +38,7 @@ Elaeagnus multiflora Thunb. is a deciduous shrub in the family Elaeagnaceae, nat
 
 The species grows 2–4 m tall with a spreading, multi-stemmed habit. Its silvery-green foliage and fragrant spring flowers make it both productive and ornamental in designed landscapes.
 
-Goumi berries are rich in lycopene, anthocyanins, and other antioxidants. The plant's actinorhizal root symbiosis with Frankia bacteria enables atmospheric nitrogen fixation, making it a valuable companion plant in food forests and polyculture systems.
+Goumi berries are rich in lycopene, anthocyanins, and other antioxidants. The plant's actinorhizal root symbiosis with Frankia bacteria enables atmospheric [[biological-nitrogen-fixation-agriculture]], making it a valuable companion plant in food forests and polyculture systems.
 
 ## Taxonomy and Classification
 
@@ -48,7 +48,7 @@ Goumi berries are rich in lycopene, anthocyanins, and other antioxidants. The pl
 - **Genus:** Elaeagnus
 - **Species:** E. multiflora Thunb. (1784)
 
-The species was first described by Carl Peter Thunberg in 1784 based on specimens collected in Japan. It is closely related to E. umbellata (autumn olive) and E. angustifolia (Russian olive), sharing the same nitrogen-fixing root symbiosis.
+The species was first described by Carl Peter Thunberg in 1784 based on specimens collected in Japan. It is closely related to E. umbellata ([[permaculture-autumn-olive]]) and E. angustifolia (Russian olive), sharing the same nitrogen-fixing root symbiosis.
 
 The synonym E. edulis Carr. refers to the edible-fruited cultivated form, sometimes considered a separate species or variety.
 
@@ -60,7 +60,7 @@ Leaves are alternate, elliptic to ovate, 4–8 cm long and 2–3 cm wide. The up
 
 Flowers are fragrant, cream-white to pale yellow, 8–12 mm long, produced in clusters of 1–3 from the leaf axils in April–May. They are bisexual and insect-pollinated, primarily by bees.
 
-The fruit is a drupe-like achene, 8–12 mm long, ovoid, ripening from silvery-green to red or scarlet in June–July. Each fruit contains a single seed surrounded by a fleshy, edible pericarp.
+The fruit is a drupe-like achene, 8–12 mm long, ovoid, ripening from silvery-green to red or scarlet in June–July. Each fruit contains a [[cervantes-selfing-single-seed-descent]] surrounded by a fleshy, edible pericarp.
 
 ## Distribution and Habitat
 
@@ -84,36 +84,6 @@ Goumi is easily propagated from seed (requiring 2–3 months cold stratification
 
 The berries are eaten fresh when fully ripe (astringent when underripe), cooked into jams, pies, and sauces, or dried. They pair well with other fruits in mixed preserves due to their tart flavor.
 
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. multiflora is used as a nitrogen-fixing understory shrub, a hedgerow component providing wind protection and wildlife habitat, and a companion plant for fruit trees and berry crops.
+In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], E. multiflora is used as a nitrogen-fixing understory shrub, a hedgerow component providing [[cervantes-wind-protection-outdoor-cannabis]] and [[hemenway-backyard-wildlife-habitat]], and a companion plant [[query-how-to-design-a-food-forest-guild-for-fruit-trees]] and berry crops.
 
 ## Ecological Role
-
-The Frankia actinorhizal symbiosis in Elaeagnus roots fixes atmospheric nitrogen at rates estimated at 20–60 kg N/ha/year, contributing significant nitrogen to surrounding soils.
-
-The shrub provides food and cover for birds and small mammals. Flowers are attractive to pollinators including bees, butterflies, and beneficial predatory insects.
-
-Its extensive root system helps control erosion on slopes and improves soil structure through [[hamilton-composting-and-organic-matter-management]] inputs from leaf litter and root turnover.
-
-## Traditional Medicine
-
-In Chinese herbal medicine, E. multiflora fruits and leaves have been used to treat coughs, diarrhea, and [[cannabis-for-skin-conditions-detailed]]. The fruits are traditionally prepared as decoctions or dried for later use.
-
-Korean folk medicine employs goumi fruit preparations for reducing fever and relieving sore throat. The bark has been used topically for wound healing.
-
-Modern pharmacological studies have confirmed anti-inflammatory, hepatoprotective, and antioxidant activities of fruit and leaf extracts, supporting some traditional uses. Further [[hofmann-lsd-clinical-research-early-studies]] is needed.
-
-## Comparison with Related Elaeagnus Species
-
-E. multiflora is smaller and less aggressive than E. umbellata (autumn olive), which is considered invasive in parts of North America. E. multiflora's lower seed production and more restrained growth make it preferable for cultivation.
-
-Compared to E. angustifolia (Russian olive), goumi produces sweeter, less astringent fruit and is less tolerant of extreme drought and saline conditions. Russian olive has silvery foliage and thorny branches, while goumi is thornless.
-
-E. pungens (thorny olive) is primarily ornamental, with inedible fruit, whereas E. multiflora is primarily grown for its fruit production and nitrogen-fixing capabilities.
-
-## See Also
-
-- elaeagnus-angustifolia
-- [[dynamic-accumulators]]
-- [[food-forest]]
-- rubus-idaeus-entity
-- [[permaculture-design]]

@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Sleep Disorders
 
-Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions [[cannabis-sleep-disorders-and-insomnia]], but long-term use can lead to tolerance and dependency.
+Cannabis has been used as a sleep aid for centuries. Modern research confirms it reduces sleep latency (time to fall asleep) and may improve sleep quality for some conditions, but long-term use can lead to tolerance and dependency.
 
 ## How Cannabis Affects Sleep
 
@@ -67,3 +67,18 @@ Cannabis has been used as a sleep aid for centuries. Modern research confirms it
 - [[cannabis-therapeutic-index-overview]] — for evidence framework
 - [[cannabis-for-anxiety-disorders]] — for anxiety-related insomnia
 - [[cannabis-thc-therapeutic-profile]] — for THC effects on sleep
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]]
+- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
+- [[query-what-causes-cannabis-plants-to-stretch-and-how-to-control-it]]
+- [[query-what-causes-nutrient-burn-in-cannabis-and-how-to-prevent-it]]
+- [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]]

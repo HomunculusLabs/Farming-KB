@@ -88,36 +88,3 @@ arrives after the rust epidemic is well established.
 E. caricis has been reported from virtually every continent and
 climatic zone where rusts occur. Its distribution includes
 temperate, subtropical, and tropical regions. The fungus is most
-commonly observed in humid environments where conditions favor
-both rust development and hyperparasite dispersal. In arid
-regions, it is less frequently encountered but can still be found
-during wet seasons.
-
-### Co-occurring Mycoparasites
-E. caricis often occurs alongside other rust mycoparasites
-including Aphanocladium album (sensu Lecanicillium dimorphum),
-Cladosporium uredinicola, and Tuberculina species. These fungi
-may compete for the same rust sori or occupy complementary niches
-on different rust structures. The combined effect of multiple
-hyperparasites on rust populations has not been well studied.
-
-### Seasonal Dynamics
-
-{w("E. caricis typically appears later in the growing season, after rust populations have built up to detectable levels. This temporal pattern limits its effectiveness as an early-season biocontrol agent but allows it to contribute to epidemic decline during the late season. The timing of hyperparasite appearance is influenced by weather conditions, with humid periods favoring both rust development and hyperparasite establishment and spread.")}
-
-## Relevance
-E. caricis is the most cosmopolitan and polyphagous rust
-mycoparasite, representing a natural regulatory factor in rust
-disease epidemiology worldwide. Its occurrence on over 300 rust
-species demonstrates an exceptionally broad host range among
-mycoparasites. While its practical use as a biocontrol agent has
-been limited by variable efficacy, E. caricis remains a model
-system for studying hyperparasitic interactions in plant pathogen
-populations.
-
-## See Also
-Related: [[biodiversity-rust-fungi-urediniomycetes]], [[fungal-mycoparasitism-and-biocontrol-interactions]]
-
-- [[aphanocladium-album]]
-- cladosporium uredinicola
-- tuberculina

@@ -5,8 +5,8 @@ type: species
 tags:
   - betulaceae
   - nut-tree
-  - permaculture
-  - agroforestry
+  - [[permaculture]]
+  - [[agroforestry]]
   - temperate-climate
   - food-forest
 date: 2026-04-28
@@ -15,8 +15,8 @@ sources:
   - Mehlenbacher, S.A. (2004). "Revised nomenclature of the filbert." Journal of the American Society for Horticultural Science 129(5): 708-713.
   - Solar, A. et al. (2006). " hazelnut breeding." Plant Breeding Reviews 26: 281-354.
   - Boccacci, P. et al. (2006). "Molecular characterization of hazelnut germplasm." Genome 49(6): 662-672.
-  - Roversi, A. (1971). "Hazelnut cultivation in Italy." Annali della Facoltà di Agraria.
-  - Rieger, M. (2006). "Introduction to Fruit Crops." CABI Publishing.
+  - Roversi, A. (1971). "[[hazelnut-cultivation-and-variety-guide]] in Italy." Annali della Facoltà di Agraria.
+  - Rieger, M. (2006). "Introduction to [[uncommon-specialty-fruit-crops-for-permaculture]]." CABI Publishing.
 ---
 
 ## Overview
@@ -28,9 +28,9 @@ most important tree nut crops, with Turkey, Italy, and the USA as leading
 producers.
 
 In permaculture and agroforestry, hazel is valued as a productive
-multi-purpose species providing nuts, biomass, wildlife habitat, wind
+multi-purpose species providing nuts, biomass, [[hemenway-backyard-wildlife-habitat]], wind
 protection, and [[permplant-willows-salix-erosion-control-fodder]]. Its reliability and low maintenance
-requirements make it a staple of temperate food forest designs.
+requirements make it a staple of temperate [[food-forest]] designs.
 
 ## Taxonomy and Morphology
 
@@ -87,63 +87,3 @@ Trees begin bearing at 3–5 years and remain productive for 50+ years.
 ## Nutritional Profile
 
 Hazelnuts are nutrient-dense, with kernels containing approximately:
-
-- **Lipids:** 60–65% (predominantly oleic acid, 75–80% of total fat)
-- **Protein:** 12–16%
-- **Carbohydrates:** 10–17% (including 5–8% dietary fiber)
-- **Vitamin E (tocopherols):** 15–20 mg/100g (exceptionally high)
-- **Minerals:** Manganese, copper, magnesium, phosphorus, iron
-- **Phytochemicals:** Proanthocyanidins, flavonols (quercetin,
-  kaempferol), phytic acid, squalene
-
-The lipid profile is highly favorable for cardiovascular health, with
-low saturated fat and high monounsaturated oleic acid content.
-
-## Bioactive Compounds and Pharmacology
-
-Hazelnut consumption is associated with several health benefits in
-epidemiological and clinical studies:
-
-- **Cardiovascular protection**: High monounsaturated fat and
-  phytosterol content lowers LDL cholesterol.
-- **Antioxidant activity**: Vitamin E and phenolic compounds
-  reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
-- **Anti-inflammatory**: Phenolic extracts inhibit NF-κB pathway
-  activation in vitro.
-- **Blood sugar regulation**: High fiber and magnesium content
-  support glycemic control.
-
-## Ecological Role
-
-Hazel provides food and habitat for numerous wildlife species. The
-nuts are a critical food source for red squirrels, woodpeckers, jays,
-and mice. The catkins provide early pollen for bees in late winter.
-
-As a hedgerow species, hazel creates windbreaks and wildlife corridors
-in agricultural landscapes. Coppiced hazel stools (cut to ground level
-every 7–15 years) produce straight poles used for fencing, thatching,
-and garden stakes — a traditional management practice in Europe dating
-back thousands of years.
-
-## Permaculture and Agroforestry Applications
-
-Hazel is one of the most versatile species in temperate permaculture:
-
-- **Canopy/shrub layer**: Productive nut crop in food forests and
-  [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]; bears in partial shade beneath taller trees.
-- **Windbreak**: Dense growth provides effective [[cervantes-wind-protection-outdoor-cannabis]] for
-  gardens, orchards, and livestock.
-- **Coppice system**: Renewable poles and biomass on a 7–15 year
-  rotation; integrates with silvopasture and fuelwood production.
-- **Erosion control**: Extensive root system stabilizes slopes and
-  riparian zones.
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]**: Compatible with apple, pear, chestnut,
-  walnut, and berry understory crops.
-
-In silvopasture systems, hazel provides shade, fodder, and shelter
-for livestock while producing a nut crop. In riparian buffer strips,
-## See Also
-
-- [[juglans-nigra]] · [[food-forest]] · [[agroforestry]]
-
-- [[corylus-maxima]]

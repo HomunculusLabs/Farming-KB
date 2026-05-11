@@ -10,16 +10,16 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Hooper, S.S. & Nault, J.R. (1971). "A taxonomic study of Scirpus section Bolboschoenus in North America." Canadian Journal of Botany 49(6): 809–832.
-  -Strong, W.L. (1995 "Bolboschoenus maritimus (L.) Palla." In: Flora of North America, Vol. 23. Oxford University Press.
+  - Hooper, S.S. & Nault, J.R. (1971). "A taxonomic study of Scirpus section Bolboschoenus in guzman-psilocybin-mushrooms-north-america." Canadian Journal of Botany 49(6): 809–832.
+  -Strong, W.L. (1995 "Bolboschoenus maritimus (L.) Palla." In: Flora [[berry-growing]], Vol. 23. Oxford University Press.
   - Rodwell, J.S. (1998). British Plant Communities, Vol. 4: Aquatic Communities, Swamps and Tall-Herb Fens. Cambridge University Press.
-  - Haslam, S.M. (2010). Aquatic and Wetland Plants of Britain. Wildguide Books.
+  - Haslam, S.M. (2010). [[permaculture-plants-aquatic-and-wetland-species]] Plants of Britain. Wildguide Books.
   - Hawke, D.J. & José, P.V. (1996). "Bolboschoenus maritimus (L.) Palla (Scirpus maritimus L.)." Journal of Ecology 84(2): 269–283.
 ---
 
 ## Overview
 
-**Bolboschoenus maritimus**, commonly known as sea clubrush or saltmarsh clubrush, is a perennial sedge with a cosmopolitan distribution.
+**Bolboschoenus maritimus**, commonly known as sea clubrush or saltmarsh clubrush, is a perennial sedge with a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]].
 
 It inhabits coastal salt marshes, inland saline wetlands, and freshwater margins across much of the globe.
 
@@ -53,7 +53,7 @@ Tubers are ovoid, 1–3 cm in diameter, white to yellowish, and rich in starch.
 
 Bolboschoenus maritimus has a nearly cosmopolitan distribution, occurring in Europe, Asia, Africa, Australia, and the Americas.
 
-In North America, it ranges from coastal Alaska to California and across the continent to the Atlantic seaboard.
+In [[guzman-psilocybin-mushrooms-north-america]], it ranges from coastal Alaska to California and across the continent to the Atlantic seaboard.
 
 It is common in coastal salt marshes, brackish ditches, and estuarine margins.
 
@@ -85,37 +85,6 @@ Bolboschoenus maritimus is an indicator species for moderately saline wetland co
 
 The starchy tubers of Bolboschoenus maritimus have been consumed by Indigenous peoples in several regions.
 
-Native American groups in the Great Basin and California harvested and roasted tubers as a carbohydrate source.
+[[halpern-sacramental-peyote-and-native-american-church]] groups in the Great Basin and California harvested and roasted tubers as a carbohydrate source.
 
 In parts of Asia, the tubers are collected as a famine food and occasionally sold in local markets.
-
-The species has been investigated for phytoremediation of saline and metal-contaminated wetlands.
-
-Its dense rhizome mats are effective at nutrient uptake in constructed treatment wetlands.
-
-The culms have been used historically for thatching, mat weaving, and basketry in coastal communities.
-
-## Cultivation
-
-Bolboschoenus maritimus is occasionally cultivated in constructed wetlands for wastewater treatment.
-
-It establishes readily from tuber fragments and transplanted rhizome sections.
-
-The species prefers full sun and wet to saturated soils with moderate to high salinity.
-
-It is highly invasive in managed settings and requires containment barriers to prevent spread.
-
-In ornamental contexts, it is used in coastal and bioswale plantings where its spreading habit is tolerated.
-
-It is not widely available in the commercial nursery trade.
-
-## See Also
-
-- [[schoenoplectus-lacustris]]
-- [[schoenoplectus-tabernaemontani]]
-- [[scirpus-cyperinus]]
-- [[eleocharis-palustris]]
-- [[juncus-effusus]]
-- [[carex-stricta]]
-- [[cyperus-rotundus]]
-- [[cladium-jamaicense]]

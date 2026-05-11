@@ -21,9 +21,9 @@ sources:
 
 ## Overview
 
-Ocimum sanctum, commonly known as holy basil or tulsi, is an aromatic perennial herb in the family Lamiaceae. The plant is revered in Hindu religious tradition and has been cultivated for millennia throughout South and Southeast Asia for its medicinal and culinary properties.
+Ocimum sanctum, commonly known as holy basil or tulsi, is an aromatic perennial herb in the family Lamiaceae. The plant is revered in Hindu religious tradition and has been cultivated for millennia throughout South and Southeast Asia for its [[holzer-medicinal-and-culinary-herbs-compendium]] properties.
 
-Two main botanical varieties are recognized: Ocimum sanctum var. Krishna (purple-leaved) and O. sanctum var. Rama (green-leaved). Both share similar phytochemical profiles and therapeutic applications, though the Krishna variety typically contains higher concentrations of eugenol.
+Two main botanical varieties are recognized: Ocimum sanctum var. Krishna (purple-leaved) and O. sanctum var. Rama (green-leaved). Both share similar phytochemical profiles and [[psilocybin-therapeutic-applications]], though the Krishna variety typically contains higher concentrations of eugenol.
 
 Holy basil is classified as an adaptogen in Ayurvedic medicine, supporting the body's resistance to stress. Modern research has substantiated anti-inflammatory, antioxidant, immunomodulatory, and neuroprotective activities.
 
@@ -55,7 +55,7 @@ Essential oil glands are distributed across the leaf surface, visible as translu
 
 Ocimum sanctum is native to the Indian subcontinent and has been widely distributed through human cultivation across tropical and subtropical Asia. It is commonly grown as a potted herb in Hindu households throughout India, Nepal, Sri Lanka, and Bangladesh.
 
-The plant naturalizes readily in warm climates and is now established in parts of Africa, the Caribbean, and Central America. It does not tolerate frost and is grown as an annual in temperate regions.
+The plant naturalizes readily in warm climates and is now established in parts of Africa, the Caribbean, and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It does not tolerate frost and is grown as an annual in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Holy basil prefers well-drained loamy soils with moderate fertility and a pH range of 6.0–7.5. It thrives in full sun but tolerates partial shade, requiring at least six hours of direct light for optimal essential oil production.
 
@@ -71,7 +71,7 @@ First harvest occurs approximately 60–75 days after transplanting. Repeated cu
 
 Yields of fresh leaf material range from 10,000 to 15,000 kg per hectare under irrigated conditions. Essential oil yield varies from 0.5 to 1.5 percent of fresh leaf weight.
 
-Dried leaf material retains bioactive compounds effectively when stored in airtight containers away from light. Commercial preparations include dried leaf powder, standardized extracts, and essential oil.
+Dried leaf material retains [[cordyceps-cancer-bioactive-compounds]] effectively when stored in airtight containers away from light. Commercial preparations include dried leaf powder, standardized extracts, and essential oil.
 
 ## Bioactive Compounds
 
@@ -85,31 +85,6 @@ Flavonoid glycosides, including orientin and vicenin, have been isolated from le
 
 Tannins, saponins, and cardiac glycosides are present in moderate quantities. The synergistic activity of multiple compound classes underlies the broad therapeutic profile attributed to holy basil.
 
-Fixed oils extracted from seeds contain linoleic acid, oleic acid, and stearic acid. The seed mucilage has emollient properties used in traditional topical preparations.
+Fixed oils extracted from seeds contain linoleic acid, oleic acid, and stearic acid. The seed mucilage has emollient properties used in traditional [[blesching-cannabis-tinctures-infused-oils-topical-preparations]].
 
 ## Pharmacology and Traditional Uses
-
-In Ayurvedic medicine, tulsi is classified as a rasayana (rejuvenative) and is prescribed for respiratory disorders, fever, digestive complaints, and stress-related conditions. Daily consumption of tulsi tea is a common household practice across India.
-
-Adaptogenic activity has been demonstrated in animal models of chronic stress. Oral administration of O. sanctum extract normalized corticosterone levels, improved memory performance, and reduced oxidative stress biomarkers in the brain.
-
-Anti-inflammatory effects are mediated through inhibition of cyclooxygenase-2 (COX-2) and nuclear factor kappa-B (NF-kB) signaling pathways. These findings support the traditional use of tulsi in arthritic and inflammatory conditions.
-
-Immunomodulatory activity includes enhanced macrophage function, increased natural killer cell activity, and elevated antibody responses. Clinical studies have reported reduced incidence and severity of upper respiratory infections with regular tulsi consumption.
-
-Hypoglycemic effects have been documented in both diabetic animal models and limited human trials. Leaf extract administration lowered fasting blood glucose and improved lipid profiles in patients with type 2 diabetes.
-
-Antimicrobial activity against a range of bacterial, fungal, and viral pathogens has been demonstrated in vitro. Methanolic leaf extracts showed particular potency against Staphylococcus aureus and Escherichia coli.
-
-## See Also
-
-- [[ocimum-basilicum]]
-- [[salvia-officinalis]]
-- [[rosmarinus-officinalis-entity]]
-- [[thymus-vulgaris-entity]]
-- [[mentha-piperita]]
-- [[melissa-officinalis]]
-- [[perilla-frutescens]]
-- [[scutellaria-baicalensis]]
-- [[eugenol]]
-- [[ursolic-acid]]

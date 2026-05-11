@@ -58,7 +58,7 @@ arrows and a cumaceba (Swartzia sp.) bow.
 ## Diagnostic Signs of Sorcery
 
 A curandero distinguishes sorcery types by the lights surrounding
-the patient during an [[ayahuasca-vision-art-and-Shipibo-tradition]]:
+the patient during an [[ayahuasca-vision-art-and-shipibo-tradition]]:
 
 - **Zigzagging lights**: The patient has been hit by a chontero
   (chonta/virote sorcery)
@@ -71,7 +71,7 @@ the patient during an [[ayahuasca-vision-art-and-Shipibo-tradition]]:
 Several plants are specifically associated with sorcery:
 
 - **Marannara**: Used by sorcerers (unidentified)
-- **Tungara**: Its icaros are used to cause harm (unidentified)
+- **Tungara**: Its [[icaros]] are used to cause harm (unidentified)
 - **Cocona-sacha**: A thorny plant used in sorcery (unidentified)
 - **Siuca-huito** (Solanum kioniotrichum): Used for harmful purposes
 - **Alambre-casha**: Used by sorcerers (unidentified)
@@ -88,15 +88,3 @@ Several plants are specifically associated with sorcery:
 Sorcerers work with dangerous creatures including snakes (yana-machaco,
 nacanaca, shushupi, jergon), the supay-masho (diabolic bat) that
 produces sleepy weakness, the huaira-kuros (worms of the air) that
-enter through the nose and ears, and the huasi-ukullucos (house
-lizards) that enter the anus during defecation causing death.
-
-## Sorcery Through the Shitaneros
-
-The yana-puma-runa (black tiger-like people) serve as shitaneros
-(sorcerers) in the yakuruna world. They cover their faces with hair,
-have red eyes, big eye-teeth like curved sabres, and can transform
-into black water bulls, black horses, and black
-[[mariri-phantom-sorcery]] -- The mariri as repository of sorcery
-- [[curandero-healing-ayahuasca]] -- Diagnosing and treating sorcery
-- [[icaros-power-songs]] -- Songs used in sorcery and defence

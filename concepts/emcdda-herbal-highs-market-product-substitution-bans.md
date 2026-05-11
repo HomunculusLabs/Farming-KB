@@ -88,39 +88,3 @@ This substitution raised significant public health concerns:
 Another product increasingly marketed as a legal alternative was Purple Ohms capsules. These capsules' main ingredient was Argyreia nervosa (Hawaiian Baby Woodrose, also known as Elephant Creeper and Woolly Morning Glory), which contains [[lysergic-acid]] Amide (LSA). Purple Ohms were described as having "similar effects to LSD," positioning them as a direct substitute within the hallucinogen market rather than specifically as a mushroom replacement.
 
 ### Smartshop Loophole Exploitation
-
-In the Czech Republic, a newspaper reported that a Prague shop attempted to sell hallucinogenic mushrooms under the label of "aromatic and decorative goods." The mushrooms were sold with a leaflet warning customers not to ingest them, thus evading national legislation. This creative compliance strategy demonstrated the adaptability of retailers in finding ways to continue selling psychoactive products despite regulatory restrictions.
-
-## Online Market Response
-
-### UK Site Shutdowns
-
-The UK internet sales market responded rapidly to legal changes. In July 2005, the website Allsalvia.co.uk claimed to be "sold out" of mushroom growkits while simultaneously posting a notice that fresh mushrooms, truffles, and growkits were about to become Class A controlled drugs. The Irish online headshop THC.ie placed a similar notice when mushroom products became illegal on January 31, 2006.
-
-### International Shop Persistence
-
-The January 2006 snapshot of online shops found 39 active retailers selling hallucinogenic mushroom products. The vast majority (82%) were based in the Netherlands, with the remainder in Austria, Germany, and the UK (linked to Dutch operations). Many sites offered multiple language versions and international shipping, though most advised customers to verify local legal status before ordering.
-
-## Information Asymmetry in Retail
-
-The EMCDDA analysis of 21 online shops revealed a systematic information bias:
-
-- **Risk information**: The vast majority of sites excluded information on possible negative side effects; only a minority explicitly mentioned nausea and sickness
-- **Dosage guidance**: About half of sites provided dosage information and safe use practices
-- **Contraindications**: Only two-thirds warned against use during depression or psychosis
-- **Drug interactions**: The majority warned against combining mushrooms with medication, alcohol, or stimulants
-- **Effect promotion**: Most sites provided detailed information on sought-after positive effects
-
-This asymmetry, favoring positive information while minimizing risks, reflected the commercial incentives of retailers and the absence of regulatory requirements for product information disclosure in the herbal highs market.
-
-## Market Evolution Implications
-
-The EMCDDA case study highlighted a fundamental challenge in drug policy: legal restrictions on one substance can displace demand to alternative, potentially more dangerous, products. The prohibition of [[psilocybin-mushrooms]] appeared to "provoke an emerging interest of retailers in alternative, legal, types of hallucinogenic mushroom such as Amanita muscaria," which carried greater toxicity risks than the prohibited product.
-
-This displacement effect illustrated the importance of considering market dynamics and economic interests when designing regulatory responses to emerging drug trends, as the EMCDDA concluded: "lifestyle trends and economic interests" play crucial roles "in the diffusion of and responses to an emerging drug trend."
-
-## Related Pages
-
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]

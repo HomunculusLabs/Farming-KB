@@ -1,11 +1,12 @@
 ---
-title: gourmet-medicinal-mushroom-oyster-cultivation-methods (Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive)
+title: Growing Gourmet Oyster Cultivation
 created: 2026-04-25
 updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, oyster, gourmet, pleurotus]
 sources:
-  - label: "Growing Gourmet and Medicinal Mushrooms"
+  - "raw/papers/mycelium-running-stamets.md"
+  - label: "Growing Gourmet and [[cancer-medicinal-mushrooms-extraction-bioavailability]]"
     author: Paul Stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
@@ -20,7 +21,7 @@ Worldwide Oyster mushroom production surged from 169,000 metric tons in 1987 to 
 
 ## Substrate Versatility
 
-Oyster mushrooms thrive on nearly all hardwoods and an enormous range of agricultural by-products:
+[[cultivation-of-oyster-mushrooms]] thrive on nearly all hardwoods and an enormous range of agricultural by-products:
 - Hardwood sawdust, wood chips, and pulp sludge
 - All cereal straws (wheat, rice, oat, barley)
 - Corn stalks and corn cobs
@@ -33,7 +34,7 @@ This extraordinary substrate range makes Oyster mushrooms ideal for waste-recycl
 
 ## Biological Efficiency
 
-Oyster mushrooms achieve some of the highest biological efficiencies among cultivated mushrooms, frequently exceeding 100%. The decomposition profile of dry straw is approximately:
+Oyster mushrooms achieve some of the highest biological efficiencies among [[growing-gourmet-cloning-wild-vs-cultivated-mushrooms]], frequently exceeding 100%. The decomposition profile of dry straw is approximately:
 - 50% liberated as gaseous carbon dioxide
 - 20% lost as residual water
 - 20% remaining as spent compost
@@ -43,7 +44,7 @@ This translates to roughly a 25% conversion of wet substrate mass into fresh mus
 
 ## Nutritional Profile
 
-On a dry weight basis, Oyster mushrooms contain 15-35% protein and significant quantities of free amino acids. They are rich in vitamin C (30-144 mg per 100g) and vitamin B, niacin (109 mg per 100g). Protein content varies by substrate type, spawning media, spawn rate, and strain genetics.
+On a dry weight basis, Oyster mushrooms contain 15-35% protein and significant quantities of free amino acids. They are rich in vitamin C (30-144 mg per 100g) and vitamin B, niacin (109 mg per 100g). Protein content varies by substrate type, spawning media, spawn rate, and [[dikaryon-formation-mushroom-strain-genetics]].
 
 ## Growth Parameters for Pleurotus ostreatus (Tree Oyster)
 
@@ -86,32 +87,4 @@ Three notable drawbacks persist in Oyster mushroom cultivation:
 The genus encompasses remarkable diversity. Key cultivated species include:
 - P. ostreatus (Tree Oyster): Most widespread in temperate hardwood forests worldwide
 - P. eryngii (King Oyster): Supreme flavor, thick-fleshed stems
-- P. citrinopileatus (Golden Oyster): Brilliant yellow, high temperature tolerance, nutty flavor
-- P. djamor (Pink Oyster): Pan-tropical, fastest to fruit, aggressive colonizer
-- P. cystidiosus: Unique dimorphic species producing coremia with black spore droplets
-
-## Cropping Container Selection
-
-Oyster mushrooms naturally fruit from vertical surfaces of trees. They perform poorly on the horizontal trays designed for Agaricus (button mushroom) cultivation, producing unnatural trumpet-shaped mushrooms. Vertical racks, columns, and bags are strongly preferred. Stamets recommends matching container type to species for optimal results.
-
-## Primordia Formation at Punched Holes
-
-For bag cultivation, cultivators desire strains that produce primordia exactly where holes have been punched in the plastic. At these sites, mycelium senses oxygen availability and forms primordia, analogous to the natural behavior of mycelium reaching a wood surface. This response allows site-specific fruiting bouquet management.
-
-## By-Products
-
-Spent Oyster substrate has multiple valuable uses:
-- Animal feed for cattle, chickens, and pigs
-- Compost ingredient for soil building
-- Environmentally safe nematicides (at least five Oyster species secrete metabolites toxic to root-knot nematodes)
-- Sufficiently nutritious to support a second crop of Stropharia rugoso-annulata
-
-## See Also
-
-- [[growing-gourmet-tarragon-oyster-euosmus-cultivation]]
-
-- [[oyster-mushroom-species-guide]]
-- oyster-mushroom-strain-selection-guide
-- [[growing-gourmet-substrate-preparation]]
-- [[growing-gourmet-fruiting-parameters]]
-- [[growing-gourmet-harvesting-storage]]
+- P. citrinopileatus (Golden Oyster): Brilliant yellow, high [[mycorrhizal-drought-and-temperature-tolerance]], nutty flavor

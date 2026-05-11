@@ -73,7 +73,7 @@ behavior, without creating the narrowing trap.
 
 The most compelling empirical evidence for this
 framework comes from the Bwiti tradition of Gabon,
-where iboga root bark is used in multi-day
+where [[iboga-root-bark-preparation]] is used in multi-day
 ceremonies that simultaneously initiate novices
 and treat addiction. The iboga experience produces
 a prolonged visionary state in which addicts report
@@ -88,62 +88,3 @@ consciousness that generated the symptoms.
 ## Psychedelic Therapy for Alcoholism
 
 Early [[hofmann-lsd-clinical-research-early-studies]] on LSD-assisted
-psychotherapy for alcoholism produced remarkably
-positive results. Several controlled studies in
-the 1960s found that a single high-dose LSD
-session, embedded in a therapeutic framework,
-produced significant and sustained reductions
-in drinking behavior. Metzner interprets these
-results through the consciousness-expansion lens:
-the [[leary-psychedelic-experience-bardo-mapping]] allowed alcoholics
-to access perspectives on their lives that were
-unavailable to their contracted, habit-bound
-consciousness. The experience of expansion
-created space for genuine choice where before
-only compulsion existed.
-
-## Shamanic Diagnosis: Addiction as Spiritual Illness
-
-Indigenous shamanic traditions often frame
-addiction not as a biochemical disorder but as
-a spiritual illness — a condition in which the
-soul has been fragmented, lost, or occupied by
-alien forces. The shamanic treatment involves
-journeying to retrieve lost soul-parts, confront
-occupying entities, and restore wholeness. Metzner
-notes that this framework maps surprisingly well
-onto the phenomenology of addiction and recovery:
-addicts describe themselves as not fully present,
-as inhabited by a "different person" during
-craving states, and as experiencing a profound
-sense of loss. Psychedelic therapy can be
-understood as a modern form of this spiritual
-diagnosis and healing.
-
-## Implications for Treatment Design
-
-If addiction is fundamentally a consciousness-
-contraction disorder, treatment should prioritize
-experiences of genuine expansion rather than
-focusing exclusively on behavioral control.
-This implies integrating psychedelic-assisted
-therapy into treatment programs and designing
-environments that support consciousness expansion
-through nature, community, ceremony, and
-meaning-making. The therapeutic goal is not
-abstinence per se but the expansion of
-consciousness that makes compulsive contraction
-unnecessary and undesirable.
-## Source
-
-Metzner, R. (1999). [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] in
-psychotherapy and shamanism. Green Earth
-Foundation. (Sections on addiction as
-consciousness contraction, [[entheogen-bwiti-iboga-initiation-fang-society]]
-ceremonies, and shamanic diagnosis.)
-## Related Concepts
-
-- [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
-- [[entheogen-bwiti-iboga-initiation-fang-society]]
-- [[metzner-spirit-beings-multiple-realities-entheogens]]
-- [[metzner-grof-perinatal-matrices-psychedelic-therapy]]

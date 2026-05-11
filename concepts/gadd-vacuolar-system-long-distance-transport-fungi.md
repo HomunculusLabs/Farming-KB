@@ -88,11 +88,3 @@ the fungal partner and the plant host, contributing to the bidirectional
 [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] that characterizes these symbioses.
 
 ## See Also
-
-- [[mycelial-network-nutrient-transport-pulsatile-dynamics]].md
-- gadd-hyphal-tip-growth-and-polarization.md
-- gadd-woronin-body-septal-pore-function.md
-- gadd-cytoplasmic-streaming-fungal-motility.md
-## References
-
-- Fungi in the Environment - Gadd, Watkinson, Dyer (2006).

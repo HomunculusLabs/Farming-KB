@@ -23,13 +23,13 @@ sources:
 
 Zookies is a balanced hybrid cannabis strain created by crossing Animal Cookies with Gorilla Glue #4, resulting in a potent cultivar known for its complex cookie-diesel aroma and deeply relaxing effects.
 
-The strain emerged from the Bay Area breeding scene and gained rapid popularity for combining the dessert-like terpene profile of the Cookies lineage with the resinous potency of Gorilla Glue genetics.
+The strain emerged from the Bay Area breeding scene and gained rapid popularity for combining the dessert-like [[cannabis-terpene-profile]] of the Cookies lineage with the resinous potency of Gorilla Glue genetics.
 
 Zookies typically tests between 20–28% THC, with minimal CBD content below 0.1%. It has won no major cannabis cups but maintains strong demand in licensed recreational markets.
 
 ## Lineage
 
-**Parent 1:** Animal Cookies (♀) — Girl Scout Cookies × Fire OG
+**Parent 1:** Animal Cookies (♀) — [[girl-scout-cookies]] × Fire OG
 
 **Parent 2:** Gorilla Glue #4 (♂) — Chem's Sister × Sour Dubb × Chocolate Diesel
 
@@ -69,54 +69,22 @@ On the palate, the initial flavor is sweet and doughy with a prominent nuttiness
 
 - **THC:** 20–28% (average ~24%)
 - **CBD:** <0.1%
-- **Minor cannabinoids:** Trace CBG, CBC
+- **[[cannabis-minor-cannabinoids]]:** Trace CBG, CBC
 
 The high caryophyllene content (often exceeding 1%) is characteristic of the Cookies lineage and contributes to the strain's signature peppery finish.
 
 ## Effects
 
-Onset is relatively rapid, typically felt within 5–10 minutes of inhalation. The initial cerebral effects are euphoric and slightly psychedelic, with an uplifted mood and enhanced sensory perception.
+Onset is relatively rapid, typically felt within 5–10 minutes of inhalation. The initial cerebral effects are euphoric and slightly psychedelic, with an uplifted mood and enhanced [[plant-sensory-perception]].
 
 As the high progresses, strong physical relaxation spreads through the body, often described as a heavy, warming sensation that settles into the limbs.
 
-Most users report a balanced experience suitable for late afternoon or evening use. The combination of mental stimulation and physical sedation makes Zookies versatile for both recreational and therapeutic applications.
+Most users report a balanced experience suitable for late afternoon or evening use. The combination of mental stimulation and physical sedation makes Zookies versatile for both recreational and [[psilocybin-therapeutic-applications]].
 
-Common medicinal applications include [[cannabis-chronic-pain-management]] management, stress relief, insomnia, and appetite stimulation.
+Common medicinal applications include [[cannabis-chronic-pain-management]] management, stress relief, insomnia, [[cannabis-for-cachexia-and-appetite-stimulation]].
 
 ## Cultivation
 
 **Flowering time:** 8–10 weeks indoors
 
 **Yield:** Moderate to high (400–500 g/m² indoors)
-
-**Difficulty:** Intermediate — requires attention to humidity due to dense bud structure
-
-Zookies performs well in both soil and hydroponic setups. Plants are medium height with strong lateral branching and respond well to low-stress training (LST) and scrog methods.
-
-The dense foliage and tight bud spacing make airflow management critical, especially in humid climates. Growers should monitor for [[cervantes-powdery-mildew-prevention-treatment]] and botrytis during the final two weeks of flowering.
-
-## Side Effects
-
-The most commonly reported side effects are dry mouth and dry eyes, consistent with the high terpene and THC content.
-
-Some users experience mild anxiety or paranoia at higher doses, particularly those sensitive to sativa-dominant effects. The Gorilla Glue genetics can amplify cerebral intensity in susceptible individuals.
-
-Couch-lock and sedation are common with repeated use or large doses, making Zookies poorly suited for daytime productivity. Beginners should start with small amounts.
-
-## Notable Phenotypes
-
-Several named phenotypes and crosses have emerged from Zookies genetics, reflecting its popularity among breeders.
-
-**Zookies #1** — The original clone, characterized by stronger cookie terpene expression and a more balanced effect profile. Considered the standard for the strain.
-
-**Zkittlez x Zookies** — A cross that amplifies the sweet, fruity terpene profile while retaining the original's potency and resin production.
-
-**Zookies Breath** — Crossed with Mendo Breath genetics, resulting in a more indica-dominant phenotype with deeper relaxation and earthy, kush-forward flavor.
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[gelato]]
-- [[blue-dream]]
-- [[og-kush-cannabis-entity]]
-- [[kush-mints]]

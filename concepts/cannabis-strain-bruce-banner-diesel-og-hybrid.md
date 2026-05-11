@@ -1,5 +1,5 @@
 ---
-title: Bruce Banner — Strawberry Diesel × Ghost OG Sativa-Dominant Hybrid
+title: Cannabis Strain Bruce Banner Diesel Og Hybrid
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner, The Rev
 type: concept
@@ -17,18 +17,18 @@ Bruce Banner is a sativa-dominant hybrid bred by America's Green Dream Health Se
 
 ### Parent Strains
 
-- **Strawberry Diesel** — A sativa-dominant hybrid known for its sweet strawberry aroma combined with the pungent, fuel-like notes characteristic of Diesel lineage. Strawberry Diesel contributes the strain's fruity terpene profile and uplifting sativa effects.
-- **Ghost OG** — An OG Kush phenotype that adds potency, resin production, and a counterbalancing body component. Ghost OG brings the diesel, earthy, and pine notes that underpin the strain's complex aroma.
+- **Strawberry Diesel** — A sativa-dominant hybrid known for its sweet strawberry aroma combined with the pungent, fuel-like notes characteristic of Diesel lineage. Strawberry Diesel contributes the strain's fruity [[cannabis-terpene-profile]] and uplifting sativa effects.
+- **Ghost OG** — An OG Kush phenotype that adds potency, [[cannabis-glandular-trichome-types-resin-production-clarke]], and a counterbalancing body component. Ghost OG brings the diesel, earthy, and pine notes that underpin the strain's complex aroma.
 
 ### Genetic Balance
 
-The Strawberry Diesel × Ghost OG cross creates a sativa-dominant hybrid that bridges two of cannabis's most celebrated genetic families: the Diesel line (descended from Chemdog '91) and the OG Kush line (descended from the Northern California kush scene). This combination delivers both the cerebral energy of Diesel genetics and the depth and resin production of OG lineage.
+The Strawberry Diesel × Ghost OG cross creates a sativa-dominant hybrid that bridges two of cannabis's most celebrated genetic families: the Diesel line (descended from Chemdog '91) and the OG Kush line (descended from the Northern California kush scene). This combination delivers both the cerebral energy of Diesel genetics and the depth [[query-how-do-i-maximize-terpene-and-resin-production-in-cannabis]] of OG lineage.
 
 ## Phenotypic Variation
 
 ### Five Phenotypes
 
-Bruce Banner expresses five distinct phenotypes, demonstrating significant genetic diversity from the cross:
+Bruce Banner expresses five distinct phenotypes, demonstrating significant [[biodiversity-fungal-genetic-diversity]] from the cross:
 
 1. **Bruce 1** — leaning toward Strawberry Diesel characteristics
 2. **Bruce 2** — more balanced expression of both parents
@@ -56,7 +56,7 @@ A notable characteristic of Bruce Banner is that all five phenotypes tested with
 
 ### Cultivation Notes
 
-- The strain is accessible to rookie cultivators, making it an excellent choice for learning sativa-dominant growing techniques
+- The strain is accessible to rookie cultivators, making it an excellent choice for learning sativa-dominant [[cannabis-advanced-growing-techniques]]
 - Purple coloration develops naturally, particularly in cooler nighttime temperatures during late flowering
 - The attractive flowers make this a visually rewarding plant throughout the grow cycle
 - Even basic growing setups produce quality results, though optimized environments will maximize yield and potency
@@ -88,51 +88,3 @@ The flavor follows the aroma, with the strawberry sweetness most apparent on the
 
 The powerful, long-lasting energy makes Bruce Banner suitable for:
 - Active daytime use
-- Creative projects requiring sustained focus
-- Social gatherings and recreational activities
-- Exercise and physical activity
-
-### Potency Considerations
-
-At 20% THC, Bruce Banner delivers substantial potency. The reviewer notes that some people question why the high doesn't seem to affect him as strongly — with the Marvel-themed response: "That's my secret, Captain. I'm always high." This humor aside, the strain's effects can be overwhelming for users with low tolerance, and novice consumers should approach with caution.
-
-### Medical Applications
-
-The combination of energetic mental effects with the underlying OG body component creates a versatile medical profile:
-- **Mood elevation** — the powerful sativa high can counter depression and lethargy
-- **Energy boost** — useful for fatigue-related conditions
-- **Pain management** — the OG lineage contributes physical relaxation that complements mental stimulation
-- **Appetite stimulation** — typical of high-THC sativa-dominant strains
-
-## Strain Specifications
-
-| Attribute | Detail |
-|---|---|
-| **Breeder** | Green Dream Health Services, USA |
-| **Type** | Sativa-Dominant |
-| **Genetics** | Strawberry Diesel × Ghost OG |
-| **Potency** | THC 20% |
-| **Phenotypes** | 5 (Bruce 3 is the ideal pheno) |
-| **Difficulty** | Beginner-friendly |
-| **Flowering time** | 8–10 weeks (estimated) |
-
-## Diesel Genetics in Modern Breeding
-
-Bruce Banner represents the ongoing evolution of Diesel-lineage genetics in modern cannabis breeding. The Diesel family, descended from the legendary Chemdog '91, has contributed energetic, cerebral effects and pungent fuel-like aromas to countless hybrids. When crossed with OG Kush genetics (themselves descended from a different branch of the Chemdog family tree), the result is a strain that expresses the best qualities of both lineages.
-
-The Strawberry Diesel parent specifically adds a fruity dimension that softens the harsh diesel edge, making Bruce Banner more approachable than pure Diesel strains while retaining their characteristic potency and energy.
-
-## Cultural Significance
-
-The Marvel-themed naming reflects a broader trend in cannabis breeding where popular culture references help strains stand out in an increasingly crowded market. The name "Bruce Banner" is particularly apt — the strain's unassuming appearance (green plant with purple accents) transforms into something powerful and impressive, much like the character's transformation into the Hulk.
-
-## See Also
-
-- [[cannabis-strain-chemdawg-origin-story-genetics]] — Chemdog lineage and Diesel family history
-- [[oner-cannabis-terpene-profiles-effects]] — Terpene science behind strain effects
-- [[cannabis-strain-harlequin]] — High-CBD sativa-dominant alternative
-- [[oner-cannabis-phenotypes-genetic-expression]] — Understanding phenotypic variation
-- [[oner-cannabis-breeding-fundamentals]] — Breeding techniques and selection
-- [[grease-monkey]]
-- [[stardawg]]
-- [[sundae-driver]]

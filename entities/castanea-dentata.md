@@ -88,23 +88,3 @@ The blight spread rapidly, advancing at an estimated rate of 50 km per year thro
 The fungus kills trees by girdling the trunk, forming expanding cankers that disrupt the flow of water and nutrients. American chestnut had no natural resistance to the Asian pathogen, having evolved in isolation from it for millions of years.
 
 The ecological and economic impact of the blight was catastrophic. The loss of chestnut timber, tannin bark, and nut crops represented one of the largest ecological disturbances in recorded North American history.
-
-The economic losses extended to rural communities that depended on chestnut as a cash crop. Chestnut nuts were a major agricultural commodity, sold in urban markets and providing income for mountain families throughout Appalachia.
-
-The wood was prized for its workability, rot resistance, and straight grain. It was used for railroad ties, telephone poles, fence posts, shingles, cabinetry, and musical instruments. The bark was a primary commercial source of tannin for the leather industry.
-
-## See Also
-
-- [[castanea-mollissima]]
-- [[quercus-rubra]]
-- [[fagus-sylvatica]]
-- [[acer-saccharum]]
-- [[quercus-palustris]]
-- [[betula-papyrifera]]
-- [[populus-deltoides]]
-- [[tilia-cordata]]
-- [[prunus-serotina]]
-- [[nyssa-sylvatica]]
-- [[betula-nigra]]
-- [[juglans-nigra]]
-- [[carya-ovata]]

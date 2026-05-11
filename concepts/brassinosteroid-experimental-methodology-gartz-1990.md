@@ -1,7 +1,7 @@
 # Brassinosteroid Experimental Methodology — Gartz 1990
 
 The 1990 study by Gartz, Adam, and Vorbrodt on brassinosteroid
-growth-promoting effects in Psilocybe cubensis employed a
+growth-promoting effects [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] employed a
 comparative experimental design using two distinct cultivation
 systems. The methodology provides a useful template for evaluating
 phytohormone effects on fungal mycelial growth and fruiting
@@ -9,7 +9,7 @@ performance.
 
 ## Dual Substrate Approach
 
-The experiment compared brassinosteroid effects across two
+The experiment compared [[brassinosteroid-effects-on-fungal-morphology]] across two
 cultivation systems. The first used 6% malt agar plates for
 observing mycelial extension rates in isolation from fruiting
 dynamics. The second used a horse dung and rice grain mixture,
@@ -40,7 +40,7 @@ Each experimental condition was run ten times, providing robust
 statistical power. Control cultures used identical substrates without
 brassinosteroid. This level of replication (10 biological replicates)
 is relatively high for mycological experiments and controls for the
-natural variability inherent in mushroom cultivation.
+natural variability inherent [[contamination-prevention-in-mushroom-cultivation]].
 
 ## Mycelial Growth — Agar System
 
@@ -63,15 +63,15 @@ The dung/grain system was evaluated using multiple parameters:
 - **First flush count**: 4-7 mushrooms treated vs 1-3 control
   (roughly two-fold increase)
 - **Total dry mass**: 3.4-3.9 g vs 2.3-2.9 g per 10 g substrate
-  (approximately 40% increase in biological efficiency)
+  (approximately 40% increase in [[biological-efficiency]])
 
 Dry mass per unit substrate is a standard, objective yield metric
 that allows comparison across conditions and species.
 
 ## Morphological Assessment
 
-Beyond yield metrics, the study assessed fruiting body morphology.
-Brassinosteroid treatment almost completely suppressed incomplete
+Beyond yield metrics, the study assessed [[brassinosteroid-fungal-fruiting-body-morphology]].
+Brassinosteroid treatment almost completely [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
 fruit body formation, which are normally common in mushroom
 cultivation. Treated fruit bodies also lacked the typical membranous
 annulus on stems, indicating brassinosteroids can alter the
@@ -88,33 +88,3 @@ experimental platform for compound testing.
 
 Several methodological limitations exist: mycelial growth on agar
 was assessed qualitatively rather than with colony diameter
-measurements; fruiting body counts are presented as ranges rather
-than means with standard deviations; only one concentration was
-tested, precluding dose-response analysis; and results are limited
-to a single compound and species.
-
-Despite these limitations, consistent effects across multiple
-endpoints (growth rate, fruiting time, yield, morphology) provide
-compelling evidence for biologically significant activity.
-
-## Relevance to Cultivation Research
-
-This experimental design illustrates best practices for evaluating
-growth-promoting compounds: dual-substrate testing, adequate
-replication, multiple endpoints, and dry mass quantification. The
-framework could be applied to testing other supplements or growth
-regulators in mushroom cultivation systems.
-
-The approach of measuring both vegetative growth acceleration and
-reproductive yield enhancement provides a comprehensive picture of
-compound activity. Researchers evaluating novel biostimulants for
-fungal cultivation would benefit from adopting similar multi-parameter
-experimental designs that capture effects across the full life cycle
-from inoculation through multiple flushes.
-
-## See Also
-
-- [[brassinosteroid-fungal-growth-promotion]]
-- [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
-- [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]]
-- [[brassinosteroid-phytohormones]]

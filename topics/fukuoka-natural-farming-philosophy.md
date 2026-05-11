@@ -5,6 +5,7 @@ tags: [natural-farming, fukuoka, permaculture, philosophy, agriculture, regenera
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - fukuoka
 related_concepts:
   - four-principles-of-natural-farming

@@ -4,6 +4,7 @@ tags: [compost-tea, osmotic-shock, molasses, sugar, bacteria, fungi, brewing, el
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
@@ -87,38 +88,3 @@ The gradient of sugar complexity maps directly to a gradient of fungal versus ba
 
 | Material | Sugar Complexity | Fungal Benefit |
 |----------|-----------------|---------------|
-| White sugar | Very low (mostly sucrose) | Minimal |
-| Brown sugar | Low | Slight |
-| Molasses | Moderate to high | Moderate to good |
-| Malt | Moderate | Moderate |
-| Soy sauce | High | Good |
-| Fish hydrolysate | Very high (proteins plus oils) | Excellent |
-| Humic acids | Extremely high | Excellent |
-
-Each step up the complexity gradient provides food resources that fewer bacterial species can utilize, while fungi with their diverse enzyme systems can access the more complex molecules. This is why Ingham recommends using multiple food types in combination rather than relying on a single sugar source.
-
-## Vinegar in Tea
-
-A common question concerns vinegar in compost tea. Ingham clarifies that a small amount of vinegar is simply food for some bacteria and its presence can be used by quite a few species. However, vinegar produced during the brewing process through microbial fermentation under anaerobic conditions signals a problem. When organisms produce vinegar in the tea, it indicates anaerobic metabolism is occurring. At high concentrations, vinegar acts as a sterilizer or preservative, which is how certain sushi preparations are preserved. The distinction is between vinegar added as an ingredient versus vinegar produced as a metabolic byproduct of anaerobic conditions.
-
-## E. coli and Sugar Concentration
-
-The relationship between molasses concentration and *E. coli* survival has practical significance for food safety. Ingham's data shows that if compost contains no *E. coli*, no amount of molasses addition will generate it. The organism cannot spontaneously appear. However, if *E. coli* is present in the compost (indicating incompl composting ting or contamination), the danger zone of 0.5 to 3 percent molasses creates conditions where *E. coli* can proliferate. At 5 percent molasses, osmotic effects suppress *E. coli* growth. At 0.1 percent, there is insufficient food for significant growth of any organism.
-
-This finding was submitted for publication in a scientific journal and has practical implications for brewers who cannot verify their compost is free of human pathogens.
-
-## Cautions and Knowledge Gaps
-
-Ingham emphasizes several areas where understanding remains incomplete:
-
-- The mechanism by which molasses sometimes reduces root-feeding nematode populations is not fully understood. Root-feeding nematodes cannot take up sugars directly from soil solution; they feed on plant cellular contents. The effect may relate to alcohol production under anaerobic conditions, but this hypothesis requires validation.
-
-- Sugar addition does not reliably [[query-how-to-control-pests-without-chemicals]] under all soil conditions. In compacted soils, the anaerobic conditions from excessive sugar may temporarily drive pests away, but the pests return when oxygen levels recover and roots arrive in the anaerobic zone weakened.
-
-- Variability in molasses quality from year to year affects organism response. Color can serve as a visual indicator of quality variation.
-
-## Related Concepts
-
-- [[molasses-fungal-food-sticker-spreader-ingham]]
-- [[aact-bacterial-dominant-tea]]
-- [[aact-brewing-ingredients-ingham]]

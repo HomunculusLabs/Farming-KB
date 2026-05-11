@@ -88,12 +88,3 @@ The species is relatively resilient to short-term drought but may fail to fruit 
 - **Phenolic compounds:** Moderate antioxidant activity has been measured in methanol extracts, attributed to phenolic acids and flavonoid derivatives.
 
 No psychoactive compounds (ibotenic acid, muscimol, or psilocybin) have been detected in this species.
-
-## Cultural Significance
-
-The species has no significant cultural, medicinal, or psychedelic use. It is primarily of taxonomic and ecological interest, serving as a representative of the diverse Amanita section *Vaginatae*. Its distinctive volval sac and ringless stipe make it a useful teaching specimen for mycology students learning to [[query-how-to-identify-amanita-muscaria]] species.
-
-## See Also
-
-- [[amanita-muscaria-entity]]
-- [[lions-mane-hericium-erinaceus]]

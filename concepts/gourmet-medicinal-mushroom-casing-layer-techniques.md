@@ -1,8 +1,9 @@
 ---
-title: "Gourmet and gourmet medicinal mushroom casing layer techniques Casing Layer Techniques"
+title: Gourmet Medicinal Mushroom Casing Layer Techniques
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
 type: concept
 tags: [medicine, mushroom-cultivation]
@@ -31,7 +32,7 @@ The standard casing formula for gourmet mushrooms uses three components:
 | Vermiculite | Aeration and water retention | Improves structure and drainage |
 | Calcium sulfate (gypsum) | Buffer and mineral source | Provides calcium and sulfur |
 
-**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[query-what-are-the-best-mushroom-substrates-for-different-species]]. This is a key distinction from button mushroom cultivation, where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
+**Critical note**: Calcium carbonate should NOT be used in casing for wood-based (lignicolous) [[query-what-are-the-best-mushroom-substrates-for-different-species]]. This is a key distinction from button [[mushroom-cultivation-overview]], where calcium carbonate is standard. The use of calcium carbonate with wood-decomposing species promotes green mold (Trichoderma) contamination and is actively discouraged by Stamets.
 
 ## Casing Parameters
 
@@ -41,12 +42,12 @@ The standard casing formula for gourmet mushrooms uses three components:
 
 ## Limited Application to Gourmet Mushrooms
 
-Casing is not universally beneficial for gourmet mushroom species. Most wood-decomposing mushrooms fruit without casing, including:
+Casing is not universally beneficial for [[gourmet-mushroom-species-guide]]. Most wood-decomposing mushrooms fruit without casing, including:
 
 - Most Shiitake strains (Lentinula edodes)
-- Most Oyster mushroom species (Pleurotus spp.)
-- Enokitake (Flammulina velutipes)
-- Lion's Mane (Hericium erinaceus)
+- Most [[oyster-mushroom-species]] (Pleurotus spp.)
+- Enokitake ([[flammulina-velutipes]])
+- Lion's Mane ([[cancer-medicinal-mushrooms-hericium-erinaceus]])
 
 These species evolved to fruit from wood and do not require a soil-like microclimate. Applying casing to these species often provides no benefit and may introduce contamination risks, particularly from green mold.
 
@@ -86,29 +87,3 @@ The shift from vegetative to reproductive growth is triggered by environmental c
 - Specific light requirements (500-2,000 lux at 370-420 nm for Shiitake)
 - Temperature drop (species-dependent)
 - High humidity (95-100%)
-
-### Stage 3: Fruitbody Development
-
-Mushrooms enlarge and mature:
-- CO2 maintained below 1,000 ppm
-- Lower humidity (60-80%) to encourage cap expansion
-- Light at 500-2,000 lux
-- Temperature specific to species
-
-## CO2 Tolerance of Oyster Mushrooms
-
-A notable feature of Pleurotus species is their extraordinary tolerance for elevated CO2 during spawn run. Stamets reports that Oyster mycelium can tolerate up to 20% CO2 (200,000 ppm), a level that would be lethal to most other [[fungi-cultivated-mushrooms-pathogens-competitors]]. This high CO2 tolerance during colonization, however, is equally stimulatory to competitor molds. This dual tolerance is one reason why pasteurization rather than sterilization is typically sufficient for straw-based oyster cultivation: the mushroom mycelium can outcompete remaining microorganisms under high-CO2 colonizing conditions.
-
-## Casing and Green Mold Contamination
-
-The primary risk of applying casing to wood-based substrates is Trichoderma (green mold) contamination. This risk is heightened when:
-
-- Calcium carbonate is used (raises pH too high for lignicolous species)
-- Casing is not properly pasteurized
-- The substrate surface is exposed to airborne contaminants during application
-- Humidity is excessive or air circulation is inadequate
-
-For this reason, many gourmet mushroom cultivators avoid casing entirely and instead rely on manipulating environmental parameters (temperature, humidity, CO2, and light) to trigger fruiting.
-- [[gourmet-medicinal-mushroom-spawn-grain-production]]
-- [[mycelium-running-gourmet-mushroom-species]]
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]

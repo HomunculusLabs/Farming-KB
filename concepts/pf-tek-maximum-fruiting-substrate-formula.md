@@ -1,5 +1,5 @@
 ---
-title: PF pf tek maximum fruiting substrate formula stamets-fruiting-substrate-materials Formula
+title: Pf Tek Maximum Fruiting Substrate Formula
 created: 2026-04-28
 tags: [pf-tek, substrate, recipe, fruiting, formulation, mycology]
 date: 2026-04-28
@@ -15,11 +15,11 @@ type: concept
 
 The PF TEK offers two substrate formulations for half-pint jars: the standard formula
 and the maximum fruiting formula. The maximum fruiting formula increases the nutrient
-content of the substrate by doubling the brown rice powder while maintaining the
+content of the substrate by doubling the [[brown-rice-flour-substrate]] powder while maintaining the
 same vermiculite volume, with adjusted water content to match.
 
 This enhanced formulation is designed to produce larger, more abundant flushes at the
-cost of requiring more careful moisture management during incubation and a slightly
+cost of requiring more careful [[mushroom-casing-moisture-management]] during incubation and a slightly
 more involved preparation process.
 
 ## Standard vs Maximum Formula Comparison
@@ -48,7 +48,7 @@ brands and between regional suppliers. This variation directly affects water hol
 capacity and therefore the success of either formula.
 
 The coarser type will hold less water than the finer type, which will alter the water
-holding capacity and require formula adjustments. If the formulation results in a
+[[pf-tek-vermiculite-type-comparison-water-holding-capacity]] and require formula adjustments. If the formulation results in a
 really wet or sloppy substrate, use less water. Keep notes on formulas for
 replicating the substrate formula that fruits the best.
 
@@ -69,7 +69,7 @@ some up to 8 millimeters in size. It holds less water than the fine type, which
 means the water content in the formulas will need to be reduced to avoid a wet or
 sloppy substrate.
 
-If using coarse vermiculite with the maximum formula, the jar lid should be kept
+If using coarse vermiculite with the maximum formula, the [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] should be kept
 loose during incubation to allow excess moisture to escape, as the combination of
 higher water content and lower water retention can lead to pooling.
 
@@ -88,63 +88,3 @@ fine particles and 5 millimeter coarse particles is dramatic and easy to identif
 Homemade brown rice powder is recommended over prepackaged types. To prepare it,
 place regular brown rice in a small canister-type coffee bean grinder and grind it
 to fine powder.
-
-Freshly ground brown rice is preferred because freshness can make a significant
-difference in the nutrient quality available to the growing mycelium. Prepackaged
-rice flour may have sat on shelves for extended periods, losing some of its
-nutritional value and vitality through oxidation and moisture exposure.
-
-Health food stores and co-ops are the typical sources for brown rice. Organic brown
-rice is preferred when available, as it is free from pesticide residues that could
-potentially inhibit [[brassinosteroid-fungal-growth-promotion]] or affect the quality of the final product.
-
-## Water Quality and Measurement Accuracy
-
-Distilled or filtered drinking water should be used for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. Tap
-water may contain chlorine or other treatment chemicals that could potentially affect
-mycelial growth, though many cultivators report success with tap water that has been
-allowed to sit uncovered for 24 hours to off-gas chlorine.
-
-The PF TEK specifies precise volume measurements: 1 cup equals 237 milliliters,
-which is 1/2 pint or 8 liquid ounces. There are 2 cups in a pint, 2 pints in a
-quart, and 4 cups in a quart.
-
-If measuring cup specifications are not accurate, the formulas will be off,
-potentially setting up certain failure or diminished growth. Cultivators should
-verify their measuring cups against these standard volumes to ensure accurate
-formula rendering.
-
-## Maximum Formula Jar Preparation
-
-The maximum fruiting formula requires slightly different jar preparation compared to
-the standard formula, most notably the inclusion of a light tamping step to properly
-settle the denser substrate mixture.
-
-### Step 1: Individual Mixing
-
-Place 1/2 cup of vermiculite into a mixing bowl. Place the 1/4 cup of brown rice
-powder on top of the vermiculite. Slowly add the 60 cc of water directly onto the
-brown rice powder, wetting it first.
-
-Thoroughly mix the ingredients until the mixture feels damp and cohesive throughout.
-The PF TEK emphasizes mixing each jar's substrate individually for loading to
-insure accurate formula rendering, rather than preparing one large batch for all
-jars simultaneously.
-
-### Step 2: Loose Loading
-
-Loosely load the half-pint jar with the mixed substrate and level the top of the
-mixture. Do not pack the substrate down at this stage. Leave a 1/2 to 3/4 inch
-space at the top of the jar to accommodate the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier layer.
-
-### Step 3: Light Tamping
-## Related
-
-- [[asarum-maximum]]
-
-- [[stamets-fruiting-substrate-materials]]
-
-- [[pf-tek-substrate-formula-details]] Concepts
-
-- [[brown-rice-flour-substrate]] for brown rice flour properties and preparation
-- [[pf-tek-canning-jar-lid-configuration]] for lid preparation and hole punching

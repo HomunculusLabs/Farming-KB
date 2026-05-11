@@ -12,14 +12,14 @@ sources:
 
 ## Overview
 
-This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo's "Ayahuasca Visions" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category. (see [[ayahuasca-visions]]).
+This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo's "Ayahuasca Visions" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category.
 
 ## Visionary / Psychoactive Plants
 
 | Plant | Scientific Name | Primary Use | Notes |
 |-------|----------------|-------------|-------|
 | Ayahuasca | Banisteriopsis caapi | Primary visionary brew base | MAOI (harmine, harmaline, THH); vine teacher |
-| Chacruna | Psychotria viridis | DMT source for ayahuasca | Leaves harvested fasting; sun-side placed down |
+| Chacruna | [[chacruna-psychotria-viridis]] | DMT source for ayahuasca | Leaves harvested fasting; sun-side placed down |
 | Chaliponga | Diplopterys cabrerana | DMT + 5-MeO-DMT source | More intense than chacruna |
 | Toe | Brugmansia sp. | Ayahuasca admixture | Tropane alkaloids; 2 leaves added to brew; dangerous |
 | Shillinto | Mascagnia psilophylla | Ayahuasca admixture | Vine; combined with chicuro |
@@ -45,7 +45,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 | Motelo huasca | Bauhinia guianensis | Ayahuasca admixture | "Motelo" = tortoise (shell pattern) |
 | Clavohuasca | Tynanthus panurensis | Strength, vitality, aphrodisiac | Vine teacher |
 | Abuta | Abuta spp. | Women's health, pain | Used for menstrual issues |
-| Uña de gato | Uncaria tomentosa | Anti-inflammatory, immune | Cat's claw; widely commercialized |
+| Uña de gato | [[uncaria-tomentosa]] | Anti-inflammatory, immune | Cat's claw; widely commercialized |
 
 ## Flower and Shrub Teachers
 
@@ -59,9 +59,9 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 
 | Plant | Scientific Name | Primary Use | Notes |
 |-------|----------------|-------------|-------|
-| Mapacho | Nicotiana rustica | Protection, offering, brew aid | Essential to ceremonies; added to boiling pot |
+| Mapacho | [[mckenna-shamanic-tobaccos-and-nicotiana-rustica]] | Protection, offering, brew aid | Essential to ceremonies; added to boiling pot |
 | Chicuro | Cyperus sp. | Ayahuasca admixture | Sedge; combined with shillinto |
-| Mucura | Petiveria alliacea | Cleansing, protection | Strong odor; spiritual purifier |
+| Mucura | [[petiveria-alliacea]] | Cleansing, protection | Strong odor; spiritual purifier |
 
 ## Spiritual / Protective Plants
 
@@ -73,7 +73,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 
 ## Traditional Preparation Notes
 
-From Amaringo's detailed account of ayahuasca preparation:
+From Amaringo's detailed account of [[ayahuasca-preparation-and-ceremony]]:
 
 - **Pot material**: Must be clay, not aluminum or other metals — essential for the purge to be effective
 - **Chacruna placement**: Sun-receiving side placed downward, "spurs" upward
@@ -99,3 +99,27 @@ The chicua bird (Piaya cayana) serves as a living oracle when harvesting ayahuas
 - [[shipibo-icaros-healing-songs]] — Songs taught by these plants
 - [[ayahuasca-preparation]] — Comprehensive brewing guide
 - [[pablo-amaringo]] — Source of this ethnobotanical documentation
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

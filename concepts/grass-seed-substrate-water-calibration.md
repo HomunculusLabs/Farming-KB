@@ -1,5 +1,5 @@
 ---
-title: Grass Seed Substrate Water Content Calibration
+title: Grass Seed Substrate Water Calibration
 tags: [mycology, cultivation, substrate, grass-seed, water-content, mushroom-growing, sterilization]
 date: 2026-04-28
 updated: 2026-04-28
@@ -10,9 +10,9 @@ sources:
 # Grass Seed Substrate Water Content Calibration
 
 Water content is the single most critical variable in preparing grass seed
-substrate for the cultivation of mushrooms and sclerotia. The relationship
+substrate for the [[companion-cultivation-of-mushrooms-with-garden-vegetables]] and sclerotia. The relationship
 between water volume and seed mass determines whether the final substrate
-will support vigorous mycelial colonization or fail due to excessive dryness
+will support vigorous [[mycelial-colonization]] or fail due to excessive dryness
 or bacterial contamination from anaerobic conditions. Because different
 grass seed varieties and even different batches of the same variety can
 absorb water at markedly different rates, successful cultivation requires
@@ -58,7 +58,7 @@ before the substrate is sealed into jars and sterilized.
 
 ## Visual and Tactile Assessment
 
-Developing a reliable "feeling" for correct substrate moisture is essential
+Developing a reliable "feeling" for correct [[pf-tek-substrate-moisture-diagnosis-and-correction]] is essential
 for consistent results. Properly hydrated grass seed should appear evenly
 moist but not glossy or wet. Individual kernels should feel firm but not
 hard when squeezed between the fingers. After the sterilization and cooling
@@ -70,14 +70,14 @@ too dry.
 The ability to make these assessments comes with experience. The original
 cultivation guide notes that "it is very difficult to give explicit
 directions on a watering regime. You will have to develop a feeling for it."
-This underscores the practical, craft-based nature of mushroom cultivation,
+This underscores the practical, craft-based nature [[history-of-mushroom-cultivation]],
 where standardized recipes must be adapted to the specific materials at hand.
 
 ## Water Content and Sclerotia Production
 
 Water content is particularly important for the production of sclerotia, the
 hardened, nutrient-storage structures produced by species such as Psilocybe
-tampanensis and Psilocybe mexicana. Sclerotia form while the colonized
+tampanensis and [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]. Sclerotia form while the colonized
 substrate is still in the jar, without the need for a casing layer, and they
 continue to enlarge for up to four months after inoculation. Because this is
 an extended process, the substrate must retain adequate moisture throughout
@@ -88,35 +88,3 @@ sclerotia have matured.
 
 The casing layer used for fruiting mushrooms serves an additional moisture
 regulation function. Mushrooms pull large amounts of water from the casing
-soil as they mature, which is why the guide recommends increasing watering
-directly after a flush is picked. The same principle applies to sclerotia
-production in jars: the mycelium is continuously drawing moisture from the
-substrate, and the initial water content must be sufficient to sustain this
-demand over months of incubation.
-
-## Interaction with Sterilization
-
-Water content also interacts with the sterilization process. During pressure
-cooker sterilization at 15 psi, the water in the substrate helps conduct
-heat uniformly throughout the jar, ensuring that all regions reach
-temperatures sufficient to kill contaminant organisms. If the substrate is
-too dry, heat transfer may be uneven, leaving pockets where contaminants
-survive. If the substrate is too wet, the excess water can expand during
-heating and create pressure differentials that force substrate against the
-jar lid, potentially compromising the loose-lid arrangement that is
-necessary for gas exchange during cooling.
-
-After sterilization, the jars must be shaken to redistribute wet and dry
-kernels into a homogenous mix. This step is only effective if the water
-content is within the correct range. A properly calibrated jar will shake
-loose easily, while an over-wet jar will resist shaking and maintain clumps
-of stuck-together seed.
-
-## See Also
-
-- [[grass-seed-cultivation-of-psilocybe-species]]
-- [[substrate-consistency-water-absorption-grass-seed]]
-- [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
-- [[overnight-soak-grass-seed-substrate-homogeneity]]
-- [[pressure-cooker-sterilization-of-grain-jars]]
-- [[cold-shock-fruiting-selectivity-psilocybe-species]]

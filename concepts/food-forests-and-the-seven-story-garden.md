@@ -88,27 +88,3 @@ On Orcas Island, Washington, the Bullock brothers established a food forest span
 acres. Each summer, twenty students are fed for three weeks entirely from on-site fruit. When
 students leave, "tons of fruit" still remain on the trees for the family. Every month brings
 fresh food: winter salad greens, spring berries, summer and fall fruit loads, and December
-medlars. The site demonstrates that even in a temperate maritime climate, a well-designed
-forest garden provides continuous year-round abundance.
-
-## Case Study: Jerome Osentowski — Central Rocky Mountains
-
-Jerome Osentowski created a food forest at 7,400 feet elevation near Aspen, Colorado,
-proving that forest gardening applies even in harsh mountain environments. He transitioned
-from organic salad greens to a forest garden model to access deep soil nutrients. Rock
-terraces absorb heat, soften temperature swings, and fight frost.
-
-His "companieros" system groups guild plants by function: nitrogen fixers (pea shrubs, fava
-beans, clovers, fenugreek, alfalfa), bee plants (borage, comfrey), insectary species (fennel,
-celery, dill, coriander), and pest-confusers (horseradish, Mexican marigold, garlic mustard).
-[[permaculture-plants-medicinal-herbs-healing]] serve as a market crop: echinacea, St. John's-wort, astragalus, and
-artemisia. His work shows food forests can be economically viable at extreme elevations.
-## See Also
-
-- [[permaculture-principles|Permaculture Principles]]
-- Plant Guilds
-- Ecological Succession
-- [[agroforestry|Agroforestry]]
-- Forest Gardening
-- [[forest-gardens]]
-- [[jerusalem-artichoke]]

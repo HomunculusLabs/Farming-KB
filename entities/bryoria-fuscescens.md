@@ -88,23 +88,3 @@ Indigenous peoples of the Pacific Northwest historically used *Bryoria* species 
 The Salish and Nuu-chah-nulth peoples processed *Bryoria* by washing it thoroughly, then boiling it with roots of *Lomatium* or other plants to improve palatability. The prepared lichen was eaten as a starvation food or mixed with other ingredients.
 
 In northern Europe, *Bryoria* species were occasionally used as fodder for livestock during winter. The lichens were gathered from trees and mixed with hay to extend winter feed supplies.
-
-*Bryoria* species are known to contain vulpinic acid and other toxic compounds in varying concentrations. Proper preparation is essential to reduce toxicity, as improperly processed lichen can cause gastrointestinal distress.
-
-## Similar Species and Identification
-
-*Bryoria fuscescens* is part of a morphologically complex species group that includes *B. fremontii*, *B. caperata*, and *B. implexa*. These species can be difficult to distinguish in the field.
-
-*B. fremontii* typically has a more yellowish-brown coloration and often contains vulpinic acid, which gives it a distinct yellow tint. *B. fuscescens* lacks vulpinic acid and is consistently darker.
-
-*B. caperata* is generally shorter and more erect in growth habit. It also frequently produces soredia, which are absent in true *B. fuscescens*.
-
-Chemical spot tests and thin-layer chromatography are often required for definitive identification. *B. fuscescens* is PD- and K- (negative reactions), while several similar species produce distinct color reactions.
-
-## See Also
-
-- [[usnea-barbata]]
-- [[alectoria-sarmentosa]]
-- [[hypogymnia-physodes]]
-- [[peltigera-membranacea]]
-- [[xanthoria-parietina]]

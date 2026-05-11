@@ -1,5 +1,5 @@
 ---
-title: "mollison designers check dam types and landscape placement Types and Landscape Placement"
+title: Mollison Designers Check Dam Types And Landscape Placement
 created: 2026-04-26
 tags:
   - earthworks
@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
 
 # Check Dam Types and Landscape Placement
 
-Check dams are barrier structures built across watercourses
+[[comparison-gabions-vs-check-dams]] are barrier structures built across watercourses
 that are not primarily intended to create water storages,
 but to retard flow, spread water, capture silt, and
 stabilise eroding channels. They are essential components of
@@ -59,7 +60,7 @@ equipment.
 These create only 1-3 m of head but enable lift pumps or
 diversion to canals. They represent the integration of
 water retardation with [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]], embodying the
-permaculture principle of multiple functions from single
+[[permaculture-principle-apply-self-regulation]] of multiple functions from single
 elements.
 
 ## Landscape Placement Principles
@@ -86,10 +87,3 @@ lowland or foothill landscape were fitted with small earth
 storages and check dams, floods and drought or fire threat
 could be eliminated. This scaling principle applies from
 ## See Also
-
-- [[mollison-sediment-management-and-check-dam-systems]]
-- [[mollison-designers-fire-resistant-landscape-design]]
-- [[mollison-designers-landscape-rehabilitation-degraded-mined-land]]
-- [[mollison-designers-precipitation-types-and-design-effects]]
-- [[permaculture-designers-manual-settlement-types]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]

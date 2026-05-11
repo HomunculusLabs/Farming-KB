@@ -87,35 +87,3 @@ contribute to the natural attenuation of contaminated sites. The
 ability of ectomycorrhizal fungi like R. vinicolor to metabolize
 organic pollutants adds an important dimension to their ecological
 role beyond nutrient cycling and plant growth promotion.
-
-Among the mineral-solubilizing ectomycorrhizal fungi, the mat-forming
-Hysterangium setchellii is particularly noteworthy, accounting for up
-to 45-55% of total soil organic biomass in some forest ecosystems.
-The substantial biomass contribution of such fungi underscores their
-importance in belowground carbon storage and nutrient cycling
-processes.
-
-## Mycorrhizal Associations
-
-As an ectomycorrhizal fungus, Rhizopogon vinicolor forms mutualistic
-symbioses with the fine roots of host trees, creating morphologically
-distinct ectomycorrhizal root tips. In these associations, the fungal
-mantle surrounds the root tip and a Hartig net of hyphae penetrates
-between root cortical cells, facilitating bidirectional nutrient
-exchange. The fungus receives photosynthetically derived carbon from
-the host plant, while providing the tree with enhanced access to soil
-minerals and water.
-
-The genus Rhizopogon is particularly important in early successional
-forest communities and in post-disturbance recovery. Rhizopogon
-species are among the first ectomycorrhizal fungi to colonize
-seedlings in disturbed or burned forests, playing a critical role in
-reforestation and stand establishment. Their hypogeous fruiting
-bodies are dispersed by small mammals, creating a tripartite
-ecological interaction linking fungi, trees, and animal vectors.
-
-## See Also
-
-- [[cenococcum-geophilum]]
-- [[laccaria-laccata]]
-- [[suillus-granulatus]]

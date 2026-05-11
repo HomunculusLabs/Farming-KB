@@ -19,7 +19,7 @@ need to consume roughly 14 kg of cannabis herb.
 A more conservative 2004 study estimated that "628 kg of cannabis would
 have to be smoked in 15 minutes to induce a lethal effect." This physical
 impossibility underscores the fundamental safety distinction between
-cannabis and substances like alcohol, opioids, or nicotine.
+cannabis and substances like alcohol, opioids, or [[nicotine]].
 
 As former U.S. Surgeon General Joycelyn Elders stated: "Unlike many of
 the drugs we prescribe every day, marijuana has never been proven to cause
@@ -77,7 +77,7 @@ schizophrenia should avoid cannabis and other mind-altering substances.
 ### Addiction Potential
 
 If dependency occurs with cannabis, it is generally psychological rather
-than physical, unlike addiction to tobacco, alcohol, or heroin. The large
+than physical, unlike addiction to tobacco, alcohol, or [[heroin]]. The large
 numbers of people enrolled in drug treatment centers for cannabis are
 often there due to court-mandated treatment as an alternative to jail,
 rather than clinical necessity. Compared to pharmaceutical alternatives,
@@ -88,62 +88,3 @@ including death.
 
 Some patients use cannabis as a tool to explore the psychological roots
 of dependency patterns. For example, a patient with sexual performance
-anxiety used cannabis to reduce anxiety during intimate experiences, then
-used the cannabis-induced state of mind to explore the deeper causes of
-the anxiety, eventually curing the condition and eliminating the need for
-cannabis altogether.
-
-## Special Populations
-
-### Adolescents
-
-No long-term studies examining the exclusive use of cannabis on adolescent
-development have been conducted—most studies involve subjects exposed to
-multiple substances. A Duke University study following New Zealand
-residents for 38 years concluded that while adult cannabis use has no
-effect on intelligence, "cannabis dependency" in adolescents may
-contribute to reduced IQ scores later in life. The study had limitations
-(subjective data, small sample of 153 dependent users), but until more
-is known, caution with adolescent use is warranted.
-
-### Pregnancy
-
-The effects of cannabis on fertility, the developing fetus, and pregnant
-women remain insufficiently studied. As with any mind-body-altering
-substance, use during pregnancy is cause for concern and should be
-discussed with a healthcare provider.
-
-### Immunocompromised Patients
-
-The presence of contaminants—particularly aspergillus fungus—poses risks
-for patients with depressed immune systems. Aspergillus is a mold that
-grows on many agricultural products. Proper drying practices (water
-activity below 0.81 at 25±2°C) can eliminate the pathogen. Purchasing
-organically grown, laboratory-tested cannabis reduces this risk.
-
-## Lung Health
-
-The largest population-based case-control study of cannabis-only smoking
-(2,252 subjects in Los Angeles) found that smoking only cannabis was
-mildly lung-protective and was not associated with increased [[psk-breast-lung-cancer-clinical-trials]]
-risk. However, burning any plant material produces potentially harmful
-particles. [[cervantes-hash-cannabis-oil-production]] has shown therapeutic effects in COPD and asthma
-patients. To minimize pulmonary risk, many patients use vaporizers instead
-of smoking, or use oral preparations (tinctures, oils) to avoid inhalation
-entirely.
-
-## Cardiovascular Effects
-
-## See Also
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
-- [[blesching-cannabis-modes-administration-pharmacokinetics]]
-- [[cannabis-safety-profile-and-overdose-risk]]
-
-## Sources
-
-- Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditions]]*. North Atlantic
-  Books.
-
-## See Also
-
-- [[cannabis-safety-profile-and-overdose-risk]]

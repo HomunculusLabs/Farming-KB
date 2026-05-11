@@ -77,3 +77,13 @@ and fuel costs while building soil carbon and supporting biodiversity.
 
 - [[mollison-designers-tropical-soils-and-cation-exchange-management]]
 - [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

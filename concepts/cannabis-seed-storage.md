@@ -1,8 +1,9 @@
 ---
-title: cervantes-cannabis-seed-purchasing-storage Storage
+title: Cannabis Seed Storage
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis, plant-growth]
@@ -13,7 +14,7 @@ tags: [cannabis, plant-growth]
 Proper seed storage is essential for maintaining cannabis seed viability
 over extended periods. Cervantes provides detailed guidance on optimal
 [[vegetable-storage-conditions-by-temperature-and-humidity]], common threats to seed longevity, and practical
-storage methods suitable for both home growers and commercial seed
+[[food-preservation-and-storage-methods]] suitable for both home growers and commercial seed
 banks.
 
 ## Why Storage Matters
@@ -31,7 +32,7 @@ that germinate well, but improper storage degrades this potential.
 ### Moisture
 
 Moisture is the primary threat to stored seeds. Seed hormones -- ABA
-(abscisic acid), cytokinins, and gibberellins -- are primed to respond
+([[abscisic-acid-plant-stress-hormone]]), cytokinins, and gibberellins -- are primed to respond
 to moisture, which is the first signal to germinate. Preventing
 moisture from triggering germination is the core challenge of seed
 storage.
@@ -86,49 +87,3 @@ under optimal conditions.
 Store seeds in an airtight plastic bag inside a film container or
 similar sealed vessel. Place a packet of silicone gel crystals in the
 container to absorb excess moisture. Label all containers clearly.
-
-### Long-Term Storage
-
-For storage longer than a couple of months, use heat-sealed containers.
-Some growers use dedicated refrigerators with [[cervantes-humidity-control-dehumidification]]
-maintained below five percent. Vacuum-packing removes oxygen and
-further extends viability. For maximum longevity, store in the freezer
-or using cryogenic methods.
-
-### Commercial Seed Bank Storage
-
-Boy Ramsahai of High Quality Seeds and Black Label Seeds demonstrates
-a dedicated refrigerator for seed storage that maintains humidity
-levels below five percent for safe long-term storage. Professional seed
-banks invest in climate-controlled environments to ensure seed
-viability over years of inventory.
-
-## Identifying Viable Seeds
-
-Mature seeds that are hard, beige to dark brown, and spotted or
-mottled have the highest germination rate. Soft, pale, or green seeds
-are usually immature and should be avoided. Seeds with thin, improperly
-sealed outer shells never truly go dormant, as moisture and air
-continuously penetrate, causing hormone degradation. Such seeds are
-immature, white, fragile, and crush easily with slight pressure.
-
-Fresh, dry, mature seeds less than a year old sprout quickly and grow
-robust plants. Vigorous seeds initiate growth within seven days or
-sooner. Seeds that take longer than a month to germinate will likely
-always be slow and produce less, though some seeds naturally take
-longer even under the best conditions.
-
-## Seed Pests and Fungi
-
-Temperatures from 68-85 degrees F (20-30 degrees C) promote Pythium
-(damping-off) and rhizoctonia fungi. [[query-how-to-store-cannabis-seeds-for-long-term-viability]] grow best at 78
-degrees F (25 degrees C), which unfortunately also favors some fungal
-growth. Keep storage areas clean, dry, and monitored for pest activity.
-
-## See Also
-
-- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
-- [[cannabis-seed-germination-viability-breeding-clarke]]
-- [[cannabis-germination-techniques]]
-- [[cannabis-controlled-pollination-seed-production]]
-- [[fungi-in-the-environment-plant-fungal-interactions]]

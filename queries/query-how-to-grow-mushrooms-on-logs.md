@@ -5,6 +5,7 @@ tags: [query, mushroom-cultivation, shiitake, logs, outdoor]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: query
 ---

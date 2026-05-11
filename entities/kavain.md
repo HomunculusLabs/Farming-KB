@@ -88,26 +88,3 @@ Kavain is produced exclusively by *Piper methysticum*, a sterile cultivar that c
 The plant thrives in tropical and subtropical climates with high humidity, well-distributed rainfall of 1,500-3,000 mm annually, and rich volcanic soils. Optimal growing conditions are found between 15-25° latitude in the Pacific Islands.
 
 Kavain concentration varies significantly by cultivar, plant age, and growing conditions. Plants harvested at 3-5 years typically yield the highest kavalactone content. Root-to-bole ratios and lateral root diameter are key quality indicators used by Pacific growers.
-
-Vanuatu is the world's largest kava producer, with over 80 registered noble cultivars. Fiji, Samoa, Tonga, and Pohnpei also maintain significant cultivation. International demand has expanded cultivation to Hawaii, Australia, and parts of [[psilocybe-southeast-asia-pacific]].
-
-## Related Compounds
-
-Kavain is one of six major kavalactones identified in kava root. The complete set includes kavain, dihydrokavain (DHK), methysticin, dihydromethysticin (DHM), yangonin, and desmethoxyyangonin.
-
-Dihydrokavain is the saturated analog of kavain, formed by hydrogenation of the styryl double bond. DHK contributes to kava's sedative effects but with lower potency and a rougher subjective profile compared to kavain.
-
-Yangonin is notable for its activity at the cannabinoid CB1 receptor, a property unique among kavalactones. Desmethoxyyangonin inhibits monoamine oxidase B and may contribute to kava's initial stimulating effects.
-
-The kavain-to-DHK ratio is considered a key quality marker for noble kava cultivars. Noble varieties typically show ratios above 1.0, while tudei varieties have ratios below 0.5, correlating with differences in subjective quality and adverse effect profiles.
-
-## See Also
-
-- [[harmine]]
-- [[tetrahydroharmine]]
-- [[valeriana-officinalis]]
-- [[melissa-officinalis]]
-- [[leonurus-cardiaca-entity]]
-- [[schisandra-chinensis]]
-- [[bacopa-monnieri]]
-- ocimum-sanctum

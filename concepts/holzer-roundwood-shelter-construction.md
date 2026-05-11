@@ -1,10 +1,11 @@
 ---
-title: Holzer holzer [[roundwood-shelter-building]] construction and [[earth-cellar-construction]]
+title: Holzer [[roundwood-shelter-building]] Construction
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [holzer, permaculture, homesteading]
+tags: [holzer, [[permaculture]], [[homesteading]]]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -83,23 +84,7 @@ Earth is the cheapest and best insulation. The temperature of the soil balances 
 ### Storage Conditions
 - [[sepp-holzer-earth-cellars-and-philosophy]] maintain 80-90% humidity (ideal for crops)
 - Steady temperature between 8-10C using only soil warmth
-- Modern heated cellars with concrete floors are disastrous for crop storage (too dry -- apples wither and wrinkle)
+- Modern heated cellars with concrete floors are disastrous for [[root-cellaring-and-crop-storage]] (too dry -- apples wither and wrinkle)
 - High humidity + steady temperature = ideal for the majority of crops
 
 ### Stone Cellars (Permanent Storage)
-
-Additional details for permanent [[holzer-stone-cellar-construction]]:
-- Gravel floor for drainage
-- Ventilation pipes must be large enough for required oxygen
-- Air inlet pipe: at least 10 meters long, reaching about 1 meter deep
-- Long pipe allows incoming air to adjust to soil temperature before entering
-- Prevents unwanted temperature drops and condensation buildup
-- Condensation dripping can cause crops to rot or moulder
-- Pipe diameter: at least 15cm for a standard earth cellar, scaled to room size
-- Slope inlet pipe slightly downward (serves as drain during cleaning)
-- Air outlet pipe: placed at highest point in the room (prevents condensation)
-- Check roundwood shelters and storage rooms regularly like any building
-
-See also: [[sepp-holzer-terrace-systems-and-raised-beds]], faires-underground-and-earth-berm-homes
-- [[gaias-garden-cover-crops-soil-building]]
-- [[underground-house-and-earth-berm-construction]]

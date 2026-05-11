@@ -4,7 +4,7 @@
 In the 2003 paper by Shirota, Hakamata, and Goda describing the concise
 large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]], the glyoxalylamide
 intermediate (compound 6) represents a critical step in the synthetic
-sequence from 4-hydroxyindole to psilocin. This intermediate is formed through
+sequence from [[4-hydroxyindole]] to psilocin. This intermediate is formed through
 a two-step acylation-amidation conversion starting from 4-acetylindole (compound
 4). The key to this pathway is the treatment of 4-acetylindole with oxalyl
 chloride, which yields a crystalline oxalyl chloride adduct (compound 5) that
@@ -88,46 +88,3 @@ carbons appear at delta 37.4 and 34.2, and the acetyl methyl at delta 21.6.
 
 ### Mass Spectrometry
 ESI-MS shows the molecular ion at m/z 275.1 [M + H]+ and the sodium adduct at
-m/z 297.1 [M + Na]+. The base peak at m/z 233.1 corresponds to [M - Ac + H]+,
-representing loss of the acetyl protecting group. This fragmentation pattern
-confirms the structure and the lability of the acetyl protecting group under
-mass spectrometric conditions.
-
-## Reduction to Psilocin
-
-### LiAlH4 Reduction
-The glyoxalylamide intermediate (compound 6) is reduced to psilocin (compound
-1) by treatment with lithium aluminum hydride (LiAlH4) in anhydrous THF under
-argon atmosphere. The reaction proceeds over two hours at reflux temperature.
-After cooling, careful quenching with aqueous sodium sulfate produces psilocin
-as white crystals in over 85% yield, again isolated by simple filtration
-without chromatography.
-
-### Mechanism
-The LiAlH4 reduction simultaneously reduces the glyoxalylamide carbonyl to
-a methylene group (converting the CON(CH3)2 to CH2N(CH3)2) and removes the
-acetyl protecting group (converting the OCOCH3 to OH), producing psilocin
-directly in a single reduction step. This dual reduction is efficient and
-high-yielding, contributing to the overall practicality of the synthesis.
-
-## Scale Considerations
-
-### Gram-Scale Production
-The synthesis was demonstrated on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]] (80 mmol of compound 6, yielding
-14.3 g of psilocin at 87.5% yield). The use of filtration-based isolation at
-each step makes the synthesis readily scalable, as filtration is a standard
-industrial operation that can be performed at any scale without the
-complications associated with large-scale chromatography.
-
-### Overall Yield
-The overall yield from 4-hydroxyindole to psilocin exceeds 68% (85% for step 1
-times 80% for step 2 times 85% for step 3 times approximately 100% for step 4
-= 57.8%, with actual yields being somewhat higher due to optimized conditions).
-This represents a significant improvement over previously reported syntheses.
-
-## See Also
-
-- [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
-- [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]]
-- shirota-4-hydroxyindole-starting-material-synthesis

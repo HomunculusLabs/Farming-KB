@@ -20,11 +20,11 @@ sources:
 
 **Aristolochia clematitis** (birthwort) is a herbaceous perennial vine in the family Aristolochiaceae, native to southern and central Europe. The species has been used medicinally since antiquity but is now recognized as a significant health hazard due to high concentrations of carcinogenic aristolochic acids.
 
-The plant is responsible for **aristolochic acid nephropathy (AAN)** and is implicated in **Balkan endemic nephropathy (BEN)**, a chronic kidney disease affecting rural populations in southeastern Europe.
+The plant is responsible for **aristolochic acid nephropathy (AAN)** and is implicated in **Balkan endemic nephropathy (BEN)**, a chronic [[cannabis-and-kidney-disease]] affecting rural populations in southeastern Europe.
 
 Birthwort has also become an invasive weed in parts of [[psilocybin-north-america-pacific-northwest]] and Australia, spreading aggressively in disturbed habitats.
 
-Despite its toxicity, the species remains an important model organism in pharmacology and oncology research.
+Despite its toxicity, the species remains an important [[canary-grass-phototropism-model-organism]] in pharmacology and oncology research.
 
 ## Taxonomy and Morphology
 
@@ -60,7 +60,7 @@ Its native range extends from France and Germany eastward to the Balkans, Turkey
 
 The species has been widely introduced beyond its native range as a medicinal and ornamental plant.
 
-In North America, it is established as an invasive species in the eastern [[dmt-containing-plants-united-states-halpern]] and parts of Canada.
+In [[guzman-psilocybin-mushrooms-north-america]], it is established as an invasive species in the eastern [[dmt-containing-plants-united-states-halpern]] and parts of Canada.
 
 In Australia, naturalized populations occur in several eastern states.
 
@@ -87,53 +87,3 @@ The species also contains aristolochic acid III, IV, and aristolactam derivative
 Additional constituents include aristolochic acid aristolactam nitro derivatives, various phenolic acids, and trace volatile oils.
 
 The aristolochic acid content varies by plant part: roots and fruits contain the highest concentrations, leaves contain moderate amounts.
-
-## History and Toxicology
-
-*A. clematitis* has been used in European medicine since at least the time of Hippocrates and Dioscorides.
-
-Its primary traditional application was to facilitate childbirth (hence "birthwort"), administered as a uterine stimulant.
-
-The plant was also used to treat wounds, snake bites, asthma, and various inflammatory conditions.
-
-In medieval herbalism, birthwort was a component of numerous compound remedies and was listed in early pharmacopoeias.
-
-The connection between *A. clematitis* consumption and kidney disease was first recognized in the 1990s.
-
-In 1992, a cluster of rapidly progressive renal failure cases in Belgium was linked to a Chinese herbal slimming regimen containing *Aristolochia* species.
-
-This condition was named **aristolochic acid nephropathy (AAN)** and is characterized by rapid fibrosis of the renal interstitium.
-
-AAN patients also showed a high incidence of urothelial carcinoma, confirming the carcinogenicity of aristolochic acids.
-
-In the early 2000s, research established that **Balkan endemic nephropathy**, a mysterious kidney disease prevalent in rural communities along the Danube, is caused by chronic dietary exposure to *A. clematitis* seeds contaminating wheat flour.
-
-The FDA, EMA, and WHO have since banned or severely restricted all *Aristolochia*-containing products.
-
-## Ecology
-
-The unusual tubular flowers of *A. clematitis* are pollinated by small flies (Diptera) through a trap mechanism.
-
-Insects are lured into the inflated utricle by a decaying odor and are temporarily trapped by downward-pointing hairs, ensuring pollen transfer.
-
-The plant serves as the larval food source for the caterpillars of the **pipevine swallowtail butterfly** (*Battus philenor*) in introduced [[growing-gourmet-north-american-reishi-species]] ranges.
-
-Pipevine swallowtail larvae sequester aristolochic acids from the foliage, making both caterpillars and adult butterflies toxic to predators.
-
-Seed dispersal is primarily by wind (anemochory), as the flat, winged seeds are easily carried on air currents.
-
-In agricultural settings, seeds can contaminate harvested grain during mechanical harvesting, creating a pathway for human aristolochic acid exposure.
-
-The vine's aggressive growth habit allows it to smother native vegetation in areas where it has naturalized.
-
-## See Also
-
-- [[aristolochia-tomentosa]]
-
-- [[aristolochia-macrophylla]]
-
-- [[asarum-europaeum]]
-- [[houttuynia-cordata]]
-- [[thujone]]
-- [[safrole]]
-- [[cinnamomum-verum]]

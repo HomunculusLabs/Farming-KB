@@ -88,13 +88,3 @@ Several large mushroom species share grassland habitats and are commonly foraged
 | L. procera | 10-30 cm | Movable double | White | Excellent | Fried cutlet |
 | L. rachodes | 8-20 cm | Single fixed | White | Variable | Fried cutlet |
 | A. arvensis | 8-15 cm | Thick double | Brown | Excellent | Versatile |
-| C. comatus | 5-12 cm | Fugacious | Black | Excellent | Must cook quickly |
-| A. campestris | 5-10 cm | Thin single | Brown | Good | General cooking |
-
-## See Also
-
-- [[lepiota-brunneoincarnata]]
-
-- [[agaricus-campestris]] — Meadow Mushroom, similar grassland habitat
-- [[agaricus-arvensis]] — Horse Mushroom, for comparison of large grassland species
-- [[agaricus-bitorquis]] — Pavement Mushroom, tolerant of compacted soils

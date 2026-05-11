@@ -53,7 +53,7 @@ Multiple products are available at different times of the year, providing contin
 
 Rows of trees or shrubs are planted at regular intervals with agricultural crops cultivated in the alleys between them.
 
-- **Common tree species:** *Leucaena leucocephala*, *Gliricidia sepium*, *Robinia pseudoacacia*, *Tagasaste* (*Chamaecytisus palmensis*)
+- **Common tree species:** *[[leucaena-leucocephala]]*, *Gliricidia sepium*, *[[robinia-pseudoacacia]]*, *Tagasaste* (*[[chamaecytisus-palmensis]]*)
 - **Crops:** Maize, wheat, beans, vegetables, forages
 - **Benefits:** [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] (leguminous trees), biomass mulch, wind protection, microclimate improvement
 - **Spacing:** Typically 4–10 meters between tree rows, with crops in 2–8 meter alleys
@@ -63,7 +63,7 @@ Rows of trees or shrubs are planted at regular intervals with agricultural crops
 
 Trees and livestock are combined on pasture or rangeland, with trees providing shade, shelter, and supplemental forage.
 
-- **Common tree species:** *Quercus* spp. (oak savannas), *Juglans regia* (walnut), *Gleditsia triacanthos* (honey locust), *Paulownia tomentosa*
+- **Common tree species:** *Quercus* spp. (oak savannas), *Juglans regia* (walnut), *[[gleditsia-triacanthos]]* (honey locust), *[[paulownia-tomentosa]]*
 - **Livestock:** Cattle, sheep, goats, poultry, pigs
 - **Benefits:** Heat stress reduction (tree shade can lower ground temperature by 5–15°C), extended grazing season, diversified income from timber/fruit, improved animal welfare
 - **Animal performance:** Studies show 10–20% improvement in weight gain in silvopastoral systems versus open pasture
@@ -73,7 +73,7 @@ Trees and livestock are combined on pasture or rangeland, with trees providing s
 
 High-value specialty crops are cultivated beneath a managed forest canopy. The forest overstory is thinned or modified to create optimal growing conditions for understory crops.
 
-- **Specialty crops:** Ginseng (*Panax quinquefolius*), goldenseal (*Hydrastis canadensis*), shiitake mushrooms (*Lentinula edodes*), ramps (*Allium tricoccum*), pawpaw (*Asimina triloba*), elderberry (*Sambucus nigra*)
+- **Specialty crops:** Ginseng (*Panax quinquefolius*), goldenseal (*Hydrastis canadensis*), shiitake mushrooms (*Lentinula edodes*), ramps (*Allium tricoccum*), pawpaw (*[[asimina-triloba]]*), elderberry (*Sambucus nigra*)
 - **Overstory management:** Selective thinning to 40–70% canopy closure, depending on crop light requirements
 - **Economic model:** High value per acre ($5,000–50,000+/acre for ginseng) but requires multi-year investment
 - **Harvest timeline:** Forest farming often requires 3–10 years before first harvest
@@ -88,57 +88,3 @@ Trees, shrubs, and grasses are planted along waterways to protect water quality 
 - **Regulatory role:** Riparian buffers are often incentivized or required by agricultural conservation programs
 
 ### Windbreaks and Shelterbelts
-
-Rows of trees and shrubs planted to protect crops, livestock, and buildings from wind.
-
-- **Design considerations:** Orientation perpendicular to prevailing winds, height-to-spacing ratio (protection extends 10–15× windbreak height downwind), species diversity within rows
-- **Species selection:** Mix of fast-establishing and long-lived species; conifers for winter wind protection, deciduous for growing season
-- **Benefits:** 5–20% crop yield increase in protected zones, reduced soil erosion, livestock winter protection, energy savings for heated buildings (15–25% reduction in heating costs)
-
-### Homegardens (Tropical)
-
-Intensive, multi-strata systems around homesteads, particularly common in tropical regions.
-
-- **Structure:** 3–5 vertical layers — emergent trees, canopy trees, understory trees/shrubs, herbaceous plants, ground covers
-- **Species diversity:** 100–600+ species per hectare in some traditional systems
-- **Productivity:** Among the most productive land-use systems per unit area, producing food, medicine, fuel, fiber, and [[natural-building-materials-guide]] year-round
-- **Examples:** Javanese *pekarangan*, Kerala homegardens, Amazonian *chacras*
-
-## Ecological Benefits
-
-### Carbon Sequestration
-
-Agroforestry systems sequester **2–9 times more carbon** than equivalent conventional agricultural land:
-
-- Above-ground biomass: 10–100 tonnes C/ha (depending on system age and tree density)
-- Below-ground biomass: 3–30 tonnes C/ha
-- Soil organic carbon: 20–200 tonnes C/ha
-- Global potential: Agroforestry could sequester an estimated **2–10 gigatons of CO₂ equivalent per year** if implemented at scale
-
-### Biodiversity
-
-- Agroforestry systems support 50–80% of the biodiversity found in natural forests
-- Pollinator populations are 2–5× higher in agroforestry landscapes vs. monocultures
-- Bird species richness is significantly increased, particularly insectivorous species
-- Soil microbial biomass and diversity are enhanced compared to conventional agriculture
-
-### Soil Health
-
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Canopy interception and root systems reduce soil loss by 50–90% compared to bare soil
-- **Nutrient cycling:** Deep-rooted trees cycle nutrients from subsoil layers to the surface through leaf litter decomposition
-- **Organic matter:** Continuous leaf litter and root turnover increase soil organic carbon
-- **[[dighton-mycorrhizal-networks-carbon-transfer]]:** Tree roots maintain extensive mycorrhizal networks that benefit associated crops
-- **Water infiltration:** Improved soil structure increases water infiltration by 2–10× compared to compacted agricultural soils
-## See Also
-
-- [[jude-hobbs]]
-- [[picrasma-quassioides]]
-
-- [[food-forest]] — Edible perennial polyculture systems
-- [[plant-guild]] — Functional plant groupings in permaculture
-- [[mycorrhizae]] — Symbiotic fungi critical to agroforestry tree-crop interactions
-- epimedium-sagittatum
-- [[rhizophagus-irregularis]]
-- [[macrocybe-gigantea]]
-- [[thuja-occidentalis]]
-- [[ilex-guayusa]]

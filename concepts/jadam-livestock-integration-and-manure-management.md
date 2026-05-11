@@ -1,5 +1,5 @@
 ---
-title: "JADAM faires-livestock-integration-permaculture and Manure Management"
+title: Jadam Livestock Integration And Manure Management
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
@@ -27,7 +27,7 @@ JADAM has developed an organic livestock system (building on the Yamagishi movem
 5. **Result:** Very little smell, few flies; manure does not pile up; only needs to be cleaned about once a year
 
 ### Benefits
-- Solves most problems of modern livestock farming
+- Solves most problems of [[fukuoka-critique-modern-livestock]] farming
 - Almost free of smell
 - No daily manure removal needed (once per year)
 - Feed conversion ratio improves
@@ -67,12 +67,12 @@ A USDA-supported study by University of Minnesota scientists found:
 - In Korea, livestock manure is supplied to farms at very cheap prices due to government support
 - JADAM sees this as contaminating soil with antibiotics and chemicals
 - "Food going into my mouth determines my health; manure going into the soil determines the health of the crops"
-- [[coleman-deep-organic-farming-philosophy]] bans the use of such livestock waste
+- [[coleman-deep-organic-farming-philosophy]] bans the use of such [[cotter-pet-livestock-waste-fungal-remediation-systems]]
 
 ### Soil Compaction from Manure
-- Livestock manure with antibiotic residues aggravates soil compaction (plow pan formation)
+- Livestock manure with antibiotic residues aggravates soil compaction ([[plow-pan-formation-and-remediation]])
 - Habitual input of livestock manure with unclear origin inhibits soil microbial activity
-- Combined with chemical pesticides and fertilizers, creates a hardened layer that blocks root growth
+- Combined with [[comparison-parasitoid-wasps-vs-chemical-pesticides]] and fertilizers, creates a hardened layer that blocks root growth
 
 ## When Manure Is Acceptable
 
@@ -84,55 +84,6 @@ JADAM supports the traditional practice of using human manure as liquid fertiliz
 - Our ancestors used it for millennia and produced excellent food
 - The "bad smell equals bad fertilizer" dogma is a marketing scam
 - Human manure JLF is made using the standard anaerobic JLF method (container + ingredient + water + leaf mold)
-- This is one of the traditional inputs that modern organic certification has abandoned but JADAM embraces
+- This is one of the traditional inputs that modern [[fukuoka-critique-organic-certification]] has abandoned but JADAM embraces
 
 ## Livestock-Integrated Farming Principles
-
-### Closed-Loop Systems
-JADAM envisions farming where:
-- Crops feed animals
-- Animal manure (processed by microbes) feeds soil
-- Healthy soil produces healthy crops
-- No external inputs needed
-
-### The Traditional Model
-Before commercial agriculture:
-- Farming households had cows, pigs, or chickens
-- Feed was prepared at home
-- Animal manure was used as valuable fertilizer
-- Everything stayed on the farm -- a complete cycle
-- This is the model JADAM seeks to restore
-
-### Against Factory Farming Inputs
-- Modern livestock farming relies on commercial feed with antibiotics
-- The resulting manure contaminates soil
-- [[cervantes-chemical-fertilizers-guide]] and pesticides further degrade soil
-- The entire system is self-reinforcing and destructive
-
-## Practical Recommendations
-
-### If You Have Livestock
-1. Use the no-feces-removing system with JMS
-2. Spray JMS (diluted 20x) on shelter floors regularly
-3. Feed JMS to animals for improved health and feed conversion
-4. Only clean out accumulated material once per year
-5. Design shelters for maximum sunlight and air circulation
-
-### If You Don't Have Livestock
-1. Use cover crops (hairy vetch, rye) for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and soil improvement
-2. If additional fertilizer is needed, use manure from herbivorous animals (verified antibiotic-free)
-3. Use humus soil as an alternative -- mined from ancient bogs, contains abundant minerals and organic nutrients
-4. GC-JLF (wild grass + crop residue JLF) provides balanced nutrition without manure
-
-### For Soil Health Without Manure
-- JMS + sea water + phyllite solution is sufficient for excellent soil health
-- This combination provides all 83+ minerals found in seawater
-- Combined with crop residue return and wild grass JLF, creates a complete nutrient cycle
-- Cost: almost nothing compared to commercial inputs
-
-## References
-
-- Source: "JADAM Organic Farming" by [[faires-goose-management-and-integration]]
-
-- [[soil-food-web-nutrient-cycling]]
-- [[compost-tea-recipe-guide]]

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/john-dighton-fungi-in-ecosystem-processes.md
   - raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md
   - raw/papers/jeavons-john-how-to-grow-more-vegetables.md

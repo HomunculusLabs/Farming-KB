@@ -1,5 +1,5 @@
 ---
-title: Turkey Tail (Trametes versicolor)
+title: Turkey Tail Trametes Versicolor
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied medicinal mushrooms in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations. (see [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]).
+Trametes versicolor, commonly known as turkey tail, is one of the most widespread and studied medicinal mushrooms in the world. Named for its concentricly banded, multicolored fruiting bodies that resemble a wild turkey's tail feathers, this polypore mushroom grows on dead hardwood logs and stumps worldwide. It has a long history of use in traditional medicine and is the source of some of the best-researched medicinal mushroom preparations.
 
 ## Taxonomy and Identification
 
@@ -21,7 +21,7 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 - **Order**: Polyporales
 - **Family**: Polyporaceae
 - **Genus**: Trametes
-- **Species**: T. versicolor (syn. Coriolus versicolor)
+- **Species**: T. versicolor (syn. [[coriolus-versicolor]])
 
 ### Morphology
 
@@ -36,8 +36,8 @@ Trametes versicolor, commonly known as turkey tail, is one of the most widesprea
 
 ### Lookalikes
 
-- **False turkey tail (Stereum ostrea)**: Similar colors and shape but lacks pores — has a smooth, sterile undersurface. More orange tones. Not known to be toxic but lacks medicinal value. (see [[medicinal-mushroom-guide-chaga]]).
-- **Trametes hirsuta**: Similar but uniformly gray-brown, less colorful zoning
+- **False turkey tail (Stereum ostrea)**: Similar colors and shape but lacks pores — has a smooth, sterile undersurface. More orange tones. Not known to be toxic but lacks medicinal value.
+- **[[trametes-hirsuta]]**: Similar but uniformly gray-brown, less colorful zoning
 - **Fomes fomentarius**: Hoof-shaped, much thicker flesh, different growth form
 
 ### How to Distinguish
@@ -71,7 +71,7 @@ Clinical evidence for PSK:
 
 ### Mechanisms of Action
 
-1. **Immune modulation**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as biological response modifiers (BRMs).
+1. **Immune modulation**: PSK and PSP activate immune cells including NK cells, macrophages, dendritic cells, and T-lymphocytes. They act as [[medicinal-mushrooms-biological-response-modifiers]] (BRMs).
 
 2. **Dendritic cell maturation**: Turkey tail polysaccharides promote dendritic cell maturation, enhancing antigen presentation.
 
@@ -89,7 +89,7 @@ Clinical evidence for PSK:
 - **PSK**: Protein-bound beta-glucan
 - **PSP**: Polypeptide-bound polysaccharide
 - **Triterpenoids**: Anti-inflammatory compounds
-- **Phenolic compounds**: Antioxidant activity (quercetin, baicalein derivatives)
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]**: Antioxidant activity (quercetin, baicalein derivatives)
 - **Fomentin**: Antibacterial compound
 
 ## Cancer Adjunct Therapy

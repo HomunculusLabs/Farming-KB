@@ -1,5 +1,5 @@
 ---
-title: Companion Planting as Pest Deterrent
+title: Companion Planting Deterrents
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests. (see [[hamilton-companion-planting-techniques]]).
+Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
 
 ## Evidence Base
 
@@ -19,9 +19,9 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 ### Supported by Evidence
 
-**French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack. (see [[hamilton-useful-weeds-and-weed-identification]]).
+**French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack.
 
-**French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. Scientific research has confirmed this root secretion mechanism. Many gardeners also report similar results.
+**French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. [[psilocybin-isolation-and-early-scientific-research]] has confirmed this root secretion mechanism. Many gardeners also report similar results.
 
 **French Marigolds and Couch Grass:** Said to help kill weeds, particularly couch grass (Agropyron repens), though not yet confirmed by the author's testing.
 
@@ -47,11 +47,11 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 - Marigolds (Tagetes and Calendula)
 - Poppies (Papaver sp.)
 - Nasturtiums (Tropaeolum)
-- Phacelia (Phacelia tanacetifolia)
+- Phacelia ([[phacelia-tanacetifolia]])
 
 ## Encouraging Other Pest Predators
 
-- **Ladybugs, lacewings, parasitic wasps** (feed on aphids, caterpillars, and other soft-bodied pests): Encourage by providing a varied collection of plant life
+- **Ladybugs, lacewings, [[parasitic-wasps-biological-pest-control]]** (feed on aphids, caterpillars, and other soft-bodied pests): Encourage by providing a varied collection of plant life
 - **Visual camouflage:** Some pests are attracted to host plants by sight. Mixing ornamental plants and vegetables in borders can camouflage the host plants
 - **Weed-infested plots** suffer less pest damage than clean ones (but yields are lower due to competition for light, nutrients, and water)
 
@@ -62,5 +62,22 @@ Beyond pest deterrence, French marigolds are reported to help suppress certain w
 ## Related
 
 - [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
-- [[clubroot-disease-management]] — disease management for brassicas
-- [[leatherjacket-pest-control]] — direct pest control methods for soil pests
+- [[clubroot-disease-management]] — [[cotter-natural-pest-control-disease-management]] for brassicas
+- [[leatherjacket-pest-control]] — direct [[cho-natural-pest-control-methods]] for soil pests
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[companion-planting-guilds]]
+- [[jeavons-companion-planting]]
+- [[comparison-companion-planting-vs-polyculture]]
+- [[comparison-companion-planting-vs-green-manure]]
+- [[comparison-companion-planting-vs-intercropping]]

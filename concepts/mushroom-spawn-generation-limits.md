@@ -87,20 +87,3 @@ Each quart master can inoculate 10-12 quart jars or 7-9 half-gallon jars.
 ## Generation Limits
 
 Stamets describes a scenario where a fully colonized grain jar (C-1) is expanded through two more generations (C-2, G-3). Commercial spawn makers sell second or third generation grain spawn to Agaricus farmers. However, each generational transfer carries risks:
-
-- **Increased contamination probability**: Every transfer introduces additional opportunity for contaminants to enter
-- **Strain degeneration**: Excessive cell divisions can select for sub-strains that differ from the original
-- **Diminished vitality**: Older generational spawn may have reduced fruiting potential
-- **Accumulated metabolic wastes**: Cultures stored too long produce waste products that lower pH
-
-## Practical Limits
-
-As a practical guideline, cultivators should limit transfers to three generations maximum from the original agar culture. The most vigorous spawn is always the first generation (G-1). Plan [[spawn-production]] volume based on available master cultures to minimize excessive expansion. For [[grain-to-grain-transfer]] operations, always maintain meticulous records of generation count for each lineage.
-
-## Related Concepts
-
-- [[spawn-production]]
-- [[grain-to-grain-transfer]]
-- [[mushroom-contamination-identification]]
-- [[mushroom-rhizomorphic-vs-cottony]]
-- [[mushroom-super-spawning-stamets]]

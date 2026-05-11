@@ -39,7 +39,7 @@ experiment with a thin quartz shield between the roots, obtaining
 essentially the same results. However, when the quartz was coated
 with gelatin, or a simple sheet of glass was substituted, no enhanced
 cell division occurred. Since glass and gelatin block various
-ultraviolet frequencies on the electromagnetic spectrum, Gurwitsch
+ultraviolet frequencies on the [[electromagnetic-spectrum-plant-light-perception]], Gurwitsch
 concluded the rays must be as short as or shorter than ultraviolet.
 Because they apparently increased mitosis (cell division), he named
 them "mitogenetic rays."
@@ -89,49 +89,5 @@ accepted that plant tissues could pick up human thought and emotion.
 He was reminded of Sir James Jeans's observation that "the Universe
 begins to look more like a great thought than a great machine."
 
-## The Paranormal Matrix
-
-Lawrence proposed that the Backster Effect and related phenomena
-"lead to the idea that psi is but a part of a so-called 'paranormal
-matrix,' a unique communications grid which binds all life together."
-This matrix appeared to work on a multi-input basis operating beyond
-currently known physical laws. Within this framework, plants could
-reach a state of communication with their owners, reacting to emotions
-or states of mind even across great distances.
-
-## Electronic Stimulation of Plant Growth
-
-Lawrence also explored practical applications. He found that radio
-frequencies and ultrasonic vibrations had been used in the Ukraine
-since the 1930s to stimulate cereal grain seeds for higher yields,
-and that the US Department of Agriculture had experimented similarly.
-He developed patent applications for sound-type plant stimulation
-techniques combined with Backster Effect methods, aiming to stimulate
-whole fields of crops wirelessly.
-
-He argued that cheap [[cervantes-chemical-fertilizers-guide]] had suppressed earlier
-ideas about electrical nourishment of plants, and with nitrate
-pollution threatening the world's water supply, these approaches
-deserved revival. He urged that work with plants required more than
-electronic expertise: "It is necessary to have a green thumb and,
-most important, a genuine love for plants."
-
-## Theoretical Frameworks
-
-Several theoretical frameworks were proposed to explain the
-phenomena. Dr. W.G. Roll postulated "psi-fields" analogous to
-electromagnetic or gravitational fields, possessed by all objects.
-Dr. G.D. Wasserman suggested that psi-fields operate through
-quantum mechanics, with "quanta of energy" far more minute than
-those absorbed by matter fields of classical physics.
-
-## Related Topics
-
-- [[tompkins-marcel-vogel-plant-human-communication]] for Vogel's
-  parallel experiments on plant-human interaction
-- [[tompkins-photosynthesis-biophotons]] for research on light
-  emissions from [[savory-living-organisms-as-tools]]
-
 ## See Also
-
-- [[tompkins-plant-chemical-communication]]
+- [[tompkins-marcel-vogel-plant-human-communication]]

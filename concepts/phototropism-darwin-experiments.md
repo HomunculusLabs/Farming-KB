@@ -1,5 +1,5 @@
 ---
-title: [[phototropism]] — Darwin's Experiments on Plant Light Sensitivity
+title: Phototropism Darwin Experiments
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09
@@ -87,36 +87,3 @@ showed normal bending. The Darwins concluded that the "eye" of the
 plant resides at the shoot tip. The tip detects the direction of light
 and sends a signal downward to the midsection, which carries out the
 mechanical work of bending.
-
-This was a profound insight. The plant was not simply reacting to light
-through photosynthesis — the process by which plants convert light into
-chemical energy. Photosynthesis occurs throughout the green tissue of
-the plant, yet phototropism depended specifically on the tip. The
-Darwins had demonstrated a distinct, directional light-sensing system
-entirely separate from energy production.
-
-## Phototropism vs. Photosynthesis
-
-It is important to distinguish phototropism from photosynthesis.
-Photosynthesis is the process by which plants use light energy to
-convert [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] and water into sugars, providing the plant with
-food. It is not directional — a leaf will photosynthesize regardless
-of where the light comes from. Phototropism, by contrast, is a
-directional growth response. The plant must determine not just whether
-light is present, but *where* it is coming from, and then grow toward
-it. Darwin's experiments proved that these are fundamentally different
-processes. The extreme sensitivity of the phototropic response —
-detecting a light source too dim for human eyes — and its dependence
-on a specific organ (the tip) confirmed that plants possess a
-dedicated light-sensing capability.
-
-## Legacy
-
-The Darwins' 1880 experiments laid the foundation for the entire field
-of plant photobiology. Their discovery that plants detect light through
-specific organs eventually led to the identification of photoreceptor
-proteins, including the blue-light receptors responsible for
-phototropism and the [[phytochrome]] system that governs responses to red
-and far-red light. More than a century later, their simple experiment
-with canary grass in a dark room remains a masterclass in experimental
-design — elegant, conclusive, and endlessly instructive.

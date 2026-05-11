@@ -12,7 +12,7 @@ Easy Ryder is a sativa-dominant auto-flowering strain bred by Canada's the Joint
 
 ---
 
-## Backg [[psilocybin-and-the-logos]] nd the Joint Doctor
+## Backg [[psilocybin-logos-consciousness]] nd the Joint Doctor
 
 Lowryder by Canada's the Joint Doctor comes up in conversation so regularly with more straight-edge friends that many have memorized the Joint Doctor's website URL and now just send people there. If you are not a pot grower, the idea that you can get super awesome bud in just 60 days is apparently amazing to you — in fact, even experienced pot growers still find it ama [[chamovitz-gravitropism-plant-knows-where-it-is]]
 
@@ -88,33 +88,3 @@ The 4 hours of darkness period is still important for the plant's metabolic proc
 ---
 
 ## Flavor Profile and Aroma
-
-A nice berry, fruity taste might come as a bit of a surprise to those expecting a harsher smoke from an auto-flowering variety. The carefully selected Lowryder #2 phenotype contributes a fruity aroma throughout the grow that becomes even more pronounced after curing.
-
-The berry flavor is pleasant and accessible, making Easy Ryder enjoyable even for smokers who might not typically gravitate toward auto-flowering strains. The smooth smoke and fruity aftertaste make this a strain that can be appreciated by connoisseurs and casual consumers alike.
-
----
-
-## Effects and High
-
-The wonderfully balanced high is exactly what you are hoping for — enough buzz and energy to make this super fun weed that is easy to enjoy. The sativa-dominant genetics provide an uplifting cerebral component, while the indica influence from the Auto AK-47 parent adds a comfortable body element.
-
-The result is a well-rounded experience suitable for social situations, creative endeavors, or simply relaxing after a long day. The balanced nature of the high makes it versatile for different occasions and tolerance levels, providing an accessible and enjoyable experience for a wide range of consumers.
-
----
-
-## Medical Applications
-
-While the source does not specifically detail medical applications for Easy Ryder, the balanced nature of the high — combining uplifting cerebral effects with comfortable body sensations — suggests potential utility for patients seeking daytime relief. The moderate THC level of 19% provides therapeutic benefit without overwhelming potency, making it accessible for medical users with varying levels of cannabis experience.
-
----
-
-## Comparison to Other Auto-Flowering Strains
-
-Easy Ryder stands out among auto-flowering strains due to its sativa-dominant genetics and berry flavor profile. While many auto-flowering strains lean heavily toward indica genetics and effects, Easy Ryder maintains a sativa edge that provides more energetic and uplifting effects. The 70-day seed-to-harvest cycle is competitive with other autos, and the heavy yield per harvest relative to its compact size makes it one of the more productive options in the auto-flowering category.
-
----
-
-## Conclusion
-
-Easy Ryder represents the Joint Doctor's continued innovation in auto-flowering genetics, combining the best traits of Automatic AK-47 and Lowryder #2 into a compact, fast-flowering, sativa-dominant package. With its 56-day flowering time, 70-day total lifecycle, berry flavor, and balanced high, it remains an excellent choice for both novice and experienced growers seeking reliable, high-quality auto-flowering cannabis.

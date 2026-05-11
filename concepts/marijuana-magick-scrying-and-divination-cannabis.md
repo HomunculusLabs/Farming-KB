@@ -1,5 +1,5 @@
 ---
-title: marijuana magick scrying and divination cannabis with Cannabis
+title: Marijuana Magick Scrying And Divination Cannabis
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview
 
-"A Practitioner's Guide to Marijuana Magick" describes several rituals that incorporate scrying, mirror work, sigil visualization, energy manipulation, and altered-state divination. Cannabis serves as the catalyst for entering the mental states required for these practices, opening what the text calls "the gateways of the body and the chakras." The guide treats cannabis not as the source of visionary experience itself but as an accelerant that helps practitioners reach states they might not attain through meditation or yoga alone.
+"A Practitioner's Guide to [[marijuana-magick-cannabis-incense-and-preparation]]" describes several rituals that incorporate scrying, mirror work, sigil visualization, energy manipulation, and altered-state divination. Cannabis serves as the catalyst for entering the mental states required for these practices, opening what the text calls "the gateways of the body and the chakras." The guide treats cannabis not as the source of visionary experience itself but as an accelerant that helps practitioners reach states they might not attain through meditation or yoga alone.
 
 ## The Vortex Ritual
 
@@ -89,52 +89,9 @@ The ritual requires:
 
 The three-mirror arrangement creates a classic scrying chamber where reflections multiply infinitely in the darkness. Combined with the fog machine filling the room with mist and the vaporizer adding cannabis vapor to the air, the physical environment becomes saturated with obscured light and atmospheric haze -- conditions that traditional scrying practitioners have long sought for inducing visionary states.
 
-The practitioner is instructed to visualize the vapor as "green smoke that is filling your lungs and bringing you natural energy and anchoring yourself to the earth." The green color symbolism connects the experience directly to earth energies and the cannabis plant itself.
-
-### Banishing of the Pentagram
-
-After the mirror work, the guide describes a vowel-vibration banishing technique performed while under the influence of cannabis. This practice closely resembles the Lesser Banishing Ritual of the Pentagram from the Golden Dawn tradition:
-
-1. Stand and inhale fully. Visualize brilliance emanating from the head while vibrating "e" (EEEHHH) at high pitch, then low pitch, alternating
-2. Inhale slowly. Visualize light from the throat while vibrating "i" (IEEEE), alternating pitch
-3. Repeat for the chest, vibrating "a" (AAAHHH), alternating pitch
-4. Repeat for the stomach, vibrating "o" (OOOHHH), alternating pitch
-5. Draw a pentagram line for each vowel using a wand, athame, or finger. Turn 90 degrees and repeat through all four directions
-6. Reverse the vowel sequence (o, a, e, i) after completing all four directional pentagrams
-
-The association of specific vowels with specific body parts (head, throat, chest, stomach) [[maps]] directly onto the chakra system, suggesting that the banishing serves an energetic cleansing function in addition to its protective role.
-
-## Cannabis as a Scrying Aid
-
-The text frames cannabis as a tool that helps practitioners reach "the depths of our minds when we might not be able to ourselves." In divination contexts specifically, cannabis functions in several ways:
-
-- **[[mckenna-consciousness-expansion-and-drug-war]]**: The Vortex ritual's instruction to consume more than usual specifically aims to push past ordinary awareness into a state where visualization becomes vivid and sustained
-- **Chakra opening**: The Blessing of the Oil ritual states that [[blesching-cannabis-aids-opportunistic-infections]] in "opening the gateways of the body and the chakras," facilitating the flow of energy that divination practices attempt to read and direct
-- **Barrier dissolution**: Cannabis reduces the mental resistance and self-censorship that prevent deep meditative states, allowing the practitioner to "say all that needs to be said" during the Vortex ritual
-- **Earth anchoring**: Despite its consciousness-altering properties, cannabis is paradoxically framed as an "anchor to the earth" -- the practitioner is described as becoming "one with the earth" rather than escaping from it
-- **Multi-sensory intensification**: Cannabis heightens the sensory impact of the ritual environment (sound, light, smell, taste of the wine), making the scrying experience more immersive
-
-## Comparison with Traditional Scrying Methods
-
-The guide's cannabis-assisted scrying practices can be compared to traditional methods across cultures:
-
-- **Crystal gazing**: Like crystal ball scrying, the Vortex and Smoke and Mirrors rituals use a focused light source (candle) as a fixation point, with the practitioner entering a light trance state. Cannabis replaces the extended meditation traditionally used to achieve this state, potentially making the practice more accessible to those who struggle with sustained unaided meditation
-- **Dark mirror scrying**: The use of mirrors in near-darkness closely parallels the tradition of dark mirror (speculum) scrying, where practitioners gaze into a dark reflective surface to perceive visions. The three-mirror arrangement in Smoke and Mirrors intensifies this effect by creating infinite reflections in the fog-filled darkness
-- **Water scrying**: The chalice of wine in the Vortex ritual could serve a function analogous to water scrying, where the liquid surface becomes a medium for visionary perception. The practitioner drinks from the chalice during the ritual, internalizing the scrying medium
-- **Fire scrying**: The Feeding the Flame ritual's emphasis on meditating on the sacred fire while under the influence of cannabis parallels traditions of pyromancy (divination by fire), where visions are perceived in the flames. The text instructs the practitioner to "meditate on the flame and how it reaches into all areas of our life"
-
-In each case, cannabis serves as an accelerant that helps the practitioner reach the visionary state more quickly than traditional methods might allow. The guide explicitly frames this as an advantage: cannabis helps practitioners reach "the depths of our minds when we migset-and-settingto ourselves."
-
-## Safety and Set-and-Setting Considerations
-
-The guide implicitly incorporates principles of responsible psychedelic practice, particularly the concept of "[[timothy-leary]] and others in the 1960s:
-
-- **Set (mindset)**: The guide consistently instructs practitioners to enter rituals with clear intentions, specific goals, and an attitude of reverence. The Vortex ritual's instruction to "recite your wishes and demands as well as grievances" channels the altered state toward productive self-examination rather than unstructured wandering
-- **Setting (environment)**: The elaborate attention to physical space preparation (dark rooms, altars, mirrors, fog, candles, music) creates a controlled, supportive environment for altered-state work that maximizes the potential for positive experience
-- **Integration**: The banishing and circle-closing portions of each ritual provide a structured return to ordinary consciousness, preventing the practitioner from remaining in an ungrounded altered state. The explicit instruction to "awaken in time and feel anew" at the close of the Vortex ritual frames the return to normal awareness as a positive culmination rather than a loss
-- **Moderation guidance**: While encouraging heavier-than-usual consumption for the Vortex ritual specifically, the guide's general tone advocates responsible, intentional use rather than excessive consumption
-
 ## See Also
-
 - [[marijuana-magick-ancient-ritual-use-cannabis]]
-- [[marijuana-magick-cannabis-incense-and-preparation]]
+- [[marijuana-magick-cannabis-sacred-spatial-preparation]]
+- [[marijuana-magick-historical-witches-and-cannabis]]
+- [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]
+- [[clarke-marijuana-botany-cannabis-taxonomy-and-genetics]]

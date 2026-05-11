@@ -88,35 +88,3 @@ soil. Casts contained 401 mg/g nitrogen, 8 mg/g phosphorus, 42 mg/g
 potassium, 191 mg/g calcium, and 23 mg/g magnesium, compared to
 inter-row soil with only 72 mg/g N, 1.4 mg/g P, 7.5 mg/g K, 27 mg/g
 Ca, and 3 mg/g Mg. The combined influence of tree-derived leaf litter,
-earthworm consumption, and [[dighton-fungal-decomposition-nutrient-cycling]] including Chaetomium
-globosum significantly improves soil fertility in both agricultural and
-natural ecosystems.
-
-## Ecological Significance
-
-Chaetomium globosum occupies an important position in soil food webs,
-serving as a link between primary decomposition and secondary
-production by soil fauna. As a cellulolytic decomposer, it converts
-complex organic matter into fungal biomass that feeds fungivorous
-nematodes, earthworms, and other soil invertebrates, channeling carbon
-and nutrients from the decomposer pathway into the soil faunal food
-web. Its ability to survive and benefit from earthworm gut passage
-gives it a dispersal advantage, and its role in the earthworm-cast
-nutrient enhancement cycle contributes to overall soil fertility.
-
-## Key Studies
-
-| Year | Researchers | Finding |
-|------|------------|---------|
-| 1993 | Gange | Earthworms ingest AM spores while feeding on dead roots |
-| 1995 | Moody et al. | Species-specific earthworm feeding preferences for fungi |
-| 1996 | Moody et al. | C. globosum spores survive and benefit from earthworm gut passage |
-| 1996 | Ruess and Dighton | C. globosum is the best saprotrophic nematode food source |
-
-## See Also
-
-- [[soil-food-web-nutrient-cycling]]
-- [[lactarius-rufus]] - ectomycorrhizal fungus, best nematode food source
-- [[paxillus-involutus]] - ectomycorrhizal fungus, very poor nematode food source
-- agrocybe gibberosa - saprotrophic fungus preferred by Aporrectodea longa
-- aporrectodea longa - earthworm species that enhances C. globosum spore germination

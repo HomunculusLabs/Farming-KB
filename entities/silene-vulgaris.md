@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - "Jurtzev, B.N. et al. (1993). Silene. In Flora Europaea, Vol. 1. Cambridge University Press."
   - "Mabey, R. (2012). Food for Free. Collins."
-  - "Couplan, F. (1990). The Encyclopedia of Edible Plants of North America. Keats Publishing."
+  - "Couplan, F. (1990). The Encyclopedia of Edible Plants [[berry-growing]]. Keats Publishing."
   - "Kersch, B. (2004). Wildes Gemüse. AT Verlag."
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Silene vulgaris is a perennial herb in the family Caryophyllaceae, native to Europe and widely naturalized across temperate regions worldwide. It is recognized by its distinctive inflated calyx, which gives the plant its common name bladder campion.
+Silene vulgaris is a perennial herb in the family Caryophyllaceae, native to Europe and widely naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is recognized by its distinctive inflated calyx, which gives the plant its common name bladder campion.
 
 The species is valued as a wild edible green in many European and Mediterranean cuisines. Young shoots and leaves have a mild, slightly sweet flavor and are used in salads, soups, and cooked greens.
 
@@ -54,7 +54,7 @@ Flowers are arranged in open, spreading dichasia at the stem tips and upper leaf
 
 Blooming occurs from May to September, with peak flowering in mid-summer. The calyx persists and becomes conspicuously inflated as the capsule matures, making the plant easily identifiable even in fruit.
 
-Each capsule contains numerous small, reniform seeds, approximately 1 to 1.5 millimeters across. Seed dispersal is primarily by gravity and wind, with secondary dispersal by animals moving through vegetation.
+Each capsule contains numerous small, reniform seeds, approximately 1 to 1.5 millimeters across. [[clay-pellet-seed-dispersal]] is primarily by gravity and wind, with secondary dispersal by animals moving through vegetation.
 
 The inflated calyx may serve as a visual attractant for pollinators or as a physical barrier against seed predation. This morphological feature distinguishes Silene vulgaris from all other European Caryophyllaceae in the field.
 
@@ -68,7 +68,7 @@ In Italy, the species is known as stridolo and is collected as a specialty green
 
 The tender young shoots are best collected before flowering, typically from March through May. Older leaves become fibrous and develop a slightly soapy taste from saponin content, though cooking removes most of this character.
 
-Nutritional analysis shows moderate levels of vitamin C, beta-carotene, and minerals including calcium and iron. The raw plant contains saponins, which are largely broken down by cooking.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows moderate levels of vitamin C, beta-carotene, and minerals including calcium and iron. The raw plant contains saponins, which are largely broken down by cooking.
 
 Saponin concentration varies seasonally and geographically. Plants growing in nutrient-poor soils tend to accumulate higher saponin levels, producing a more pronounced soapy flavor. Cooking in water with a pinch of salt further reduces saponin content.
 
@@ -80,41 +80,10 @@ The roots have been used in folk medicine as a mild diuretic and expectorant. Th
 
 Silene vulgaris is native to Europe, North Africa, and western Asia, with a natural range extending from the British Isles and Scandinavia to the Mediterranean and eastward through the Caucasus and into Central Asia.
 
-The species has been widely introduced and naturalized in North America, South America, southern Africa, Australia, and New Zealand. In North America, it occurs across most of the United States and southern Canada.
+The species has been widely introduced and naturalized in North America, [[guzman-psilocybin-mushrooms-south-america]], southern Africa, Australia, and New Zealand. In North America, it occurs across most of the [[dmt-containing-plants-united-states-halpern]] and southern Canada.
 
 Habitats include grasslands, meadows, roadsides, railway embankments, waste ground, cultivated fields, coastal dunes, and open woodlands. It tolerates a wide pH range but shows preference for calcareous or neutral soils.
 
 The plant is moderately salt-tolerant and occurs on coastal cliffs and shingle beaches in western Europe. It is also found at elevations up to 2,400 meters in alpine and subalpine meadows.
 
 ## Ecology and Interactions
-
-Bladder campion serves as a host plant for several Lepidoptera species, including the campion moth (Hadena rivularis) and the lychnis moth (Hadena bicruris). Female moths lay eggs on the calyx, and larvae feed on developing seeds.
-
-The flowers are pollinated by moths and long-tongued bees, opening in the evening and remaining receptive through the following day. The inflated calyx may function as a protective chamber for developing ovules.
-
-In agricultural contexts, Silene vulgaris is considered a minor weed in cereal crops and pastures. However, its presence is generally tolerated due to its low competitive impact and value as a forage species for livestock.
-
-The species accumulates moderate levels of heavy metals in contaminated soils, making it a candidate for phytoremediation studies. Copper and zinc accumulation has been documented in populations growing near mining sites.
-
-## Cultivation
-
-Silene vulgaris is not widely cultivated commercially but is easily grown from seed in gardens for use as an edible green. Seed is sown directly in early spring or autumn in well-drained soil in full sun to partial shade.
-
-The species prefers neutral to alkaline soils and tolerates poor, sandy, or gravelly substrates. Once established, plants are drought-tolerant and require minimal maintenance, spreading gradually through their creeping rootstocks.
-
-In permaculture and wild-food gardens, bladder campion is valued as a low-input perennial vegetable. It provides early spring greens before most cultivated vegetables are productive.
-
-Harvesting should be limited to established colonies, as over-harvesting of wild populations can reduce local abundance. The species is generally not threatened, but responsible foraging practices are recommended.
-
-## See Also
-
-- [[silene-capensis]] — African dream root, a Silene species used in Xhosa divination practices
-- [[silene-undulata]] — another African Silene with traditional oneirogenic use
-- [[stellaria-media]] — common chickweed, a widespread Caryophyllaceae edible weed
-- [[saponaria-officinalis]] — soapwort, a related Caryophyllaceae with high saponin content
-- [[borago-officinalis]] — borage, another European edible wild herb with mild cucumber flavor
-- [[dianthus-caryophyllus]] — carnation, the commercially important relative in Caryophyllaceae
-- [[achillea-millefolium]] — yarrow, a common companion species in meadow and roadside habitats
-- [[plantago-major]] — broadleaf plantain, another widespread edible weed sharing similar habitats
-- [[taraxacum-officinale]] — dandelion, a common companion in disturbed and meadow habitats
-- [[calendula-officinalis]] — pot marigold, another European herb with both edible and traditional uses

@@ -1,14 +1,14 @@
 ---
-title: mckenna paradise regained dmt hyperspace — DMT, Hyperspace and Human Freedom
+title: Mckenna Paradise Regained Dmt Hyperspace
 source: mckenna_t-food_of_the_gods.md
-author: Terence McKenna
+author: [[terence-mckenna]]
 chapter: 15 - Anticipating the [[mckenna-archaic-paradise-techniques-ecstasy]]
 tags: [mckenna, dmt, hyperspace, tryptamine, legalization, archaic-revival, freedom]
 ---
 
 # Paradise Regained — DMT, Hyperspace and Human Freedom
 
-The final chapter of *Food of the Gods* is McKenna's most forward-
+The [[fukuoka-the-one-straw-revolution-final-chapter]] of *Food of the Gods* is McKenna's most forward-
 looking, arguing that the [[mckenna-tryptamine-hallucinogens-and-consciousness]] — particularly
 DMT — represent a genuine frontier of human experience and
 consciousness exploration. He frames the psychedelic renaissance
@@ -18,12 +18,12 @@ human freedom and planetary survival.
 ## The Case for Hallucinogenic Tryptamines
 
 McKenna argues that the indoleamine hallucinogens (tryptamines)
-deserve special attention among all psychoactive substances because:
+deserve special attention among all [[cultural-evolution-and-psychoactive-substances]] because:
 
 - They are structurally similar to serotonin and naturally occur in
   the human brain, suggesting an evolutionary role in consciousness
 - They are among the shortest-acting and least toxic of all
-  psychedelic compounds
+  [[psychedelic-compounds-reference]]
 - They produce experiences of extraordinary intensity and
   phenomenological richness
 - They have been used safely in shamanic contexts for thousands of
@@ -72,7 +72,7 @@ may represent forms of intelligence equally alien and equally real.
 ## The Drug War and Hyperspace
 
 McKenna argues that the drug war is ultimately about the control of
-consciousness. The prohibition of tryptamine hallucinogens is not
+consciousness. The prohibition of [[psilocybin-and-tryptamine-hallucinogens]] is not
 about public health or safety — these substances are among the least
 dangerous known to pharmacology — but about preventing access to
 experiences that challenge the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]'s claim to
@@ -88,43 +88,3 @@ for McKenna, that the issue is not pharmacological but ideological.
 
 McKenna describes the entities encountered in the DMT space as
 constituting a kind of "Overmind" — a hyperdimensional intelligence
-that seems to exist independently of individual human consciousness.
-The consistency of these encounters across cultures and individuals
-suggests to McKenna that they are not merely subjective hallucinations
-but genuine contacts with an objective reality.
-
-Characteristics of the [[mckenna-dmt-entities-borges-and-archaic-secret]] as reported by users:
-
-- They appear to be autonomous, intelligent, and self-aware
-- They often seem to be awaiting the visitor or expecting the contact
-- They communicate through a combination of visual imagery and
-  telepathic or intuitive understanding
-- They may be amused, bemused, or pedagogical in their demeanor
-- They sometimes convey specific information or predictions
-
-## Recovering Our Origins
-
-McKenna concludes that humanity's future depends on recovering the
-relationship with psychoactive plants that was lost during the
-transition from partnership to dominator culture. The "archaic
-paradise" is not a literal return to the past but a recovery of the
-principle of direct, experiential access to the sacred.
-
-The DMT experience, in McKenna's view, provides the most direct
-available evidence that consciousness is not an epiphenomenon of
-matter but a fundamental feature of reality — one that humans can
-explore and learn from.
-
-## A Modest Proposal
-
-McKenna's "modest proposal" is that society should create legal,
-supervised contexts for the use of psychedelic substances — not for
-recreation but for the serious exploration of consciousness. He
-envisions licensed centers where trained guides facilitate psychedelic
-experiences for those who seek them, with appropriate preparation,
-integration, and follow-up.
-
-## See Also
-- [[stoned-ape-hypothesis]]
-- [[mckenna-habit-culture-religion]]
-- [[mckenna-hyperspace-law-and-the-remarkable-overmind]]

@@ -1,6 +1,6 @@
 ---
-title: Cannabis cannabis terpene profiles sativa in Sativa Strains
-source: Cannabis Sativa Volume 3 - S.T. Oner, The Rev (2014)
+title: Cannabis Terpene Profiles Sativa
+source: [[blesching-cannabis-sativa-indica-classification]] Volume 3 - S.T. Oner, The Rev (2014)
 tags: [cannabis, sativa, terpenes, aroma, flavor, chemistry]
 created: 2026-05-08
 ---
@@ -39,7 +39,7 @@ The Haze family exemplifies the complexity of sativa terpene profiles.
 Original Haze, the patriarch of the family, is described as having
 a spicy, piney, and earthy aroma with floral undertones. Amnesia Haze
 carries a complex mix of earthy, lemon, and citrus aromas with subtle
-spicy incense notes. Super Silver Haze presents an earthy, pungent
+spicy incense notes. [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]] presents an earthy, pungent
 skunky profile with sweet undertones. Neville's Haze offers intensely
 spicy and hazy aromas with a sweet-and-sour edge that makes it one of
 the most aromatic sativas available. Arjan's Haze No. 2 is described
@@ -50,7 +50,7 @@ decades of selective breeding and hybridization.
 
 ## African and Asian Terpene Signatures
 
-Sativas from specific geographic origins carry distinctive terpene
+Sativas from specific [[sativa-landrace-strains-and-geographic-origins]] carry distinctive terpene
 signatures reflecting their evolutionary environments. Durban Poison
 from South Africa is noted for its sweet, anise, licorice, and
 clove-like aroma with a characteristic sharpness. Malawi Gold from
@@ -83,45 +83,8 @@ these complex terpene profiles than synthetic nutrient programs.
 The terpene profile of any cannabis strain is not fixed but varies significantly
 based on growing conditions. Light spectrum, temperature, [[ph-and-nutrient-availability-garden-soils]],
 and soil biology all influence terpene production. The Rev notes that organic
-cultivation methods tend to produce more complex and pronounced terpene
-profiles compared to synthetic nutrient programs. Stress techniques such as
+[[gourmet-medicinal-mushroom-oyster-cultivation-methods]] tend to produce more complex and pronounced terpene
+profiles compared to synthetic nutrient programs. [[cervantes-supercropping-plant-stress-techniques]] such as
 controlled drought, ultraviolet light exposure, and temperature cycling can
 increase terpene production as the plant produces these compounds as a defense
 mechanism. However, excessive stress can degrade terpene quality. The curing
-process is equally important: a slow, controlled cure of 4-8 weeks allows
-terpenes to develop fully while harsh rapid drying can volatilize and destroy
-delicate aromatic compounds before they reach the consumer.
-
-## Terpenes and the Entourage Effect
-
-The entourage effect hypothesis suggests that terpenes work
-synergistically with cannabinoids to produce effects that differ from
-those of isolated THC. This is particularly relevant for sativas,
-where the characteristic uplifting, cerebral effects may be as much
-a product of the terpene profile as the THC content. Pinene may
-contribute to alertness and focus, limonene to mood elevation, and
-terpinolene to the slightly psychedelic quality some users report.
-This understanding has transformed how breeders and consumers
-evaluate cannabis quality, shifting emphasis from THC percentage
-alone to the overall chemical profile including terpenes, minor
-cannabinoids, and flavonoids.
-
-## Preserving Terpene Diversity
-
-As [[oner-cannabis-breeding-fundamentals]] continues to push toward higher THC percentages, there
-is a real risk of losing terpene diversity. Many commercial breeding programs
-prioritize potency and yield over aromatic complexity, leading to a narrowing
-of the terpene gene pool. Landrace sativas from regions like Africa, Southeast
-Asia, and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] represent irreplaceable reservoirs of terpene
-diversity. Organizations and breeders who preserve these genetics perform an
-essential service for the future of cannabis. The Rev and other advocates
-argue that the cannabis community should value terpene diversity as highly
-as genetic potency, recognizing that the aromatic complexity of cannabis is
-what makes it truly unique among cultivated plants. Preservation efforts,
-seed banks, and careful documentation of terpene profiles all contribute
-to maintaining this botanical heritage for future generations.
-
-## See Also
-- [[cannabis-sativa-landrace-strains]]
-- [[cannabis-sativa-indoor-challenges]]
-- [[cannabis-terpene-entourage-effect-profiles]]

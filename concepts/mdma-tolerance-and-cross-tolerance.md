@@ -1,5 +1,5 @@
 ---
-title: Mdma mdma tolerance and [[psilocybin-tolerance-cross-tolerance]] Tolerance
+title: Mdma Tolerance And Cross Tolerance
 created: 2026-04-19
 updated: 2026-04-19
 type: concept

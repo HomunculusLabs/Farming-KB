@@ -1,5 +1,5 @@
 ---
-title: ingham spray nozzles equipment compost tea and Equipment for Compost compost-tea-application-methods
+title: Ingham Spray Nozzles Equipment Compost Tea
 created: 2026-04-28
 tags: [spray-equipment, nozzles, compost-tea, foliar-application, sprayers]
 date: 2026-04-28
@@ -12,13 +12,13 @@ type: concept
 
 ## The Core Challenge
 
-Getting compost tea organisms through spray equipment and onto leaf
+Getting compost tea organisms through [[aact-spray-equipment-nozzle-selection-ingham]] and onto leaf
 surfaces alive and active is the primary challenge of foliar
 application. The equipment must not damage the organisms during
 passage through pumps and nozzles, and the organisms must survive
 impact on the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]]. Understanding the factors that affect
 organism survival through equipment is essential for successful
-compost tea programs.
+[[ingham-turf-lawn-compost-tea-programs]].
 
 ## Nozzle Opening Size Requirements
 
@@ -46,7 +46,7 @@ can screen out fungal material.
 
 Pressure itself does not kill organisms. It is the impact pressure
 when organisms hit a surface that causes damage. Keep pressure low
-relative to the distance of the spray nozzle to the leaf surface:
+relative to the distance of the spray nozzle to the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]:
 at 1 to 2 feet away, use no more than 20 to 40 psi. At 6 feet
 away, 100 psi is acceptable. At 100 feet away, 600 psi can work.
 The key principle is that organisms cannot take being splatted
@@ -88,23 +88,3 @@ compost tea application. High-pressure systems that create small
 droplet sizes are problematic because the drops do not protect
 organisms from UV and the impact pressure on leaves is too high.
 Avoid any system that requires filtering through fine mesh screens
-or that subjects the tea to extreme shear forces in the pump.
-
-## Testing Your Equipment
-
-The only way to know what your sprayer does to the organisms in
-your tea is to test it. Collect tea from the sprayer after it has
-passed through the pump and nozzle, and compare organism counts
-to the pre-spray tea. Alternatively, perform leaf surface assays
-before and after application. This testing approach identifies
-specific equipment problems and allows you to adjust pressure,
-nozzle selection, or pump type accordingly.
-
-## Aerial and Large-Scale Application
-
-Helicopters and airplanes can successfully apply compost tea because
-the water drops produced are large enough to protect organisms during
-descent. The organisms arrive at the leaf surface in an active state
-with time to produce attachment glue. Center pivot [[compost-tea-brewing-equipment-ingham]]
-- [[ingham-turf-lawn-compost-tea-programs]]
-- [[ingham-seaweed-sea-minerals-compost-tea]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Gilbertson RL, Ryvarden L. "growing-gourmet-north-american-reishi-species Polypores, Vol. 1."
     Fungiflora, Oslo, 1986.
-  - Ryvarden L, Gilbertson RL. "North American Polypores, Vol. 2."
+  - Ryvarden L, Gilbertson RL. "[[growing-gourmet-north-american-reishi-species]] Polypores, Vol. 2."
     Fungiflora, Oslo, 1987.
   - Overholts LO. "The Polyporaceae of the dmt-containing-plants-united-states-halpern, Alaska,
     and Canada." University of Michigan Press, 1953.
@@ -60,7 +60,7 @@ restricted to conifer wood.
   developing irregular tooth-like projections (dentate) with maturity;
   fresh pore surface distinctly violet-purple to lilac, aging to
   grey-brown or smoky brown; this purple coloration is the most
-  reliable field identification feature
+  reliable [[palmer-mushroom-hunting-field-identification]] feature
 - **Context:** Thin (0.5–1 mm), tough and corky; white to pale
   cream; distinctly duplex with a darker upper layer
 - **Spores:** Cylindrical to allantoid (sausage-shaped), 5–7 × 1.5–2
@@ -68,7 +68,7 @@ restricted to conifer wood.
 
 ## Distribution and Habitat
 
-*Trichaptum biforme* has a nearly cosmopolitan distribution in temperate
+*Trichaptum biforme* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate
 and subtropical regions. It is found across Europe, North America, Asia,
 Africa, and Australasia. The species fruits year-round in mild climates
 and from spring through autumn in temperate zones. It grows almost
@@ -81,39 +81,10 @@ overlapping fruiting structures along the length of fallen branches.
 ## Ecological Role
 
 *T. biforme* is a white-rot decomposer, playing a significant role in
-the breakdown of hardwood branch wood in forest ecosystems. It degrades
-both lignin and cellulose, contributing to the [[white-rot-fungi|white rot fungi]] community that is essential for carbon cycling in temperate
+the breakdown of hardwood branch wood in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]]. It degrades
+both lignin and cellulose, contributing to the [[white-rot-fungi]] community that is essential for [[dighton-fungi-elevated-co2-global-carbon-cycling]] in temperate
 forests. The species is particularly important in the decomposition of
 small-diameter [[fungal-succession-woody-debris-ecology]], a substrate class that represents a
 substantial fraction of the total woody carbon pool in many forests.
 
-The fungus contributes to the [[decomposer-fungi-succession|decomposer fungi succession]] as an early-to-mid successional species on fallen
-branches. It often follows initial colonizers and persists through
-intermediate decomposition stages. Its fruiting structures provide
-microhabitat for various invertebrates, and the sporocarps serve as
-a food source for some fungivorous insects. The species frequently
-co-occurs with [[trametes-versicolor-entity|Trametes versicolor]] and
-[[trametes-hirsuta|Trametes hirsuta]] on the same substrates.
-
-## Wood Decay Characteristics
-
-The white-rot decay caused by *T. biforme* is characterized by the
-simultaneous degradation of lignin, cellulose, and hemicellulose.
-Decayed wood becomes lighter in color, soft, and fibrous, eventually
-breaking down to a white, stringy consistency. The species produces
-laccase and [[fungal-manganese-peroxidase-remediation]] enzymes typical of [[white-rot-fungi| white-rot]] Basidiomycota. Laboratory studies have shown that *T.
-biforme* can tolerate and degrade various environmental pollutants,
-suggesting potential applications in [[white-rot-fungi|bioremediation]]
-of contaminated wood and soil substrates. Its enzymatic profile
-overlaps significantly with [[schizophyllum-commune|Schizophyllum commune]] and [[trametes-ochracea|Trametes ochracea]].
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[trametes-hirsuta]]
-- [[trametes-ochracea]]
-- [[fomes-fomentarius]]
-- [[ganoderma-applanatum]]
-- [[laetiporus-sulphureus]]
-- [[polyporus-umbellatus]]
-- [[schizophyllum-commune]]
+The fungus contributes to the [[decomposer-fungi-succession]] as an early-to-mid successional species on fallen

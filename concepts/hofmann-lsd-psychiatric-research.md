@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-suppression-psychedelic-research-lsd-therapy]] and Psychiatric Research in the 1950s-60s
+title: Hofmann Lsd Psychiatric Research
 created: 2026-04-26
 updated: 2026-04-24
 sources: "albert-hofmann, LSD - My Problem Child"

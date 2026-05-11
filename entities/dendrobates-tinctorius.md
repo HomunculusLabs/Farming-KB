@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Dendrobates tinctorius**, the dyeing poison dart frog, is among the largest and most colorful members of the family Dendrobatidae. It is native to the Guiana Shield region of South America.
+**Dendrobates tinctorius**, the dyeing poison dart frog, is among the largest and most colorful members of the family Dendrobatidae. It is native to the Guiana Shield region of [[guzman-psilocybin-mushrooms-south-america]].
 
 Adults range from 35–55 mm in snout-vent length, making this species one of the largest poison dart frogs. The species exhibits extraordinary color polymorphism across its range, with distinct morphs displaying different patterns of blue, yellow, black, and white.
 
@@ -60,11 +60,11 @@ The ventral surface may be blue, yellow, or patterned depending on the morph. Br
 
 **Dendrobates tinctorius** is found in the Guiana Shield, including French Guiana, Suriname, Guyana, and adjacent parts of northern Brazil. Its range extends from sea level to approximately 600 meters elevation.
 
-The species inhabits primary and secondary tropical rainforest. It is most abundant in forested areas with high humidity and abundant [[dighton-fungal-decomposition-leaf-litter-dynamics]].
+The species inhabits primary and secondary [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]. It is most abundant in forested areas with high humidity and abundant [[dighton-fungal-decomposition-leaf-litter-dynamics]].
 
-Disturbed habitats, including forest edges and partially cleared areas, are also used where sufficient leaf litter and moisture are retained. However, extensive deforestation and conversion to agriculture eliminate suitable habitat.
+Disturbed habitats, including forest edges and partially cleared areas, are also used where sufficient [[fungal-diversity-leaf-litter-coarse-woody-debris]] and moisture are retained. However, extensive deforestation and conversion to agriculture eliminate suitable habitat.
 
-Unlike many dendrobatids, *D. tinctorius* is primarily terrestrial, foraging on the forest floor. It is also found climbing low vegetation and rocky outcrops near streams.
+Unlike many dendrobatids, *D. tinctorius* is primarily terrestrial, foraging on the [[fungal-ecology-forest-floor]]. It is also found climbing low vegetation and rocky outcrops near streams.
 
 Breeding occurs in the wet season. Males establish territories and call from elevated perches to attract females. Calls are a series of short, buzzing notes.
 
@@ -87,35 +87,3 @@ Histrionicotoxins block nicotinic acetylcholine receptors, interfering with neur
 Captive-bred specimens are significantly less toxic than wild-caught individuals. Without access to the specific arthropod prey that supply alkaloid precursors, captive frogs sequester few or no defensive compounds.
 
 The specific arthropod sources of dendrobatid alkaloids were identified through decades of research by John W. Daly and colleagues at the National Institutes of Health. This work demonstrated that dietary specialization drives chemical defense in poison dart frogs.
-
-Over 800 alkaloid structures have been characterized across the Dendrobatidae, with many showing potent pharmacological activities. Some dendrobatid alkaloids are being investigated for their potential as analgesics, muscle relaxants, and cardiac stimulants.
-
-## Ecology and Indigenous Use
-
-**Dendrobates tinctorius** is diurnal and highly territorial. Males aggressively defend calling perches against rival males using vocalizations and physical combat.
-
-The species is an opportunistic predator of small arthropods, including ants, mites, springtails, small beetles, and flies. Ants of the subfamilies Myrmicinae and Ponerinae are particularly important dietary items.
-
-Indigenous peoples of the Guiana Shield have traditionally used the skin secretions of *D. tinctorius* to poison blowgun darts for hunting. The tips are rubbed on the frog's back to coat them with alkaloid toxins.
-
-The species' specific name refers to a different indigenous practice. The Wayana and other groups apply the frog's skin secretions to the skin of young parrots to alter feather coloration, producing yellow or red patterns on green feathers.
-
-This practice is possible because the alkaloids cause localized inflammation and damage to feather follicles, redirecting pigment deposition during feather growth. The altered coloration makes captive parrots more visually distinctive.
-
-The intensity of the color change depends on the concentration of alkaloids applied and the timing relative to feather development. Some treated feathers may display partial or patchy coloration rather than uniform changes.
-
-**Dendrobates tinctorius** is classified as **Least Concern** by the IUCN Red List, though illegal collection for the pet trade has impacted some localized populations. The species breeds readily in captivity, reducing pressure on wild populations.
-
-CITES regulations govern international trade in the species. Captive-bred individuals are widely available in the herpetocultural market, though wild-caught specimens from certain color morphs command premium prices among collectors.
-
-## See Also
-
-- [[amanita-muscaria-entity]]
-- [[ambystoma-mexicanum]]
-- [[bufotenin]]
-- [[bufotenine]]
-- [[bufo-bufo]]
-- [[fungal-conservation-endangered-species]]
-- [[fungal-responses-climate-change]]
-- [[psilocybin]]
-- [[rana-temporaria]]

@@ -1,5 +1,5 @@
 ---
-title: gadd fungal genomics comparative approaches and Comparative Approaches
+title: Gadd Fungal Genomics Comparative Approaches
 created: 2026-04-28
 tags:
   - fungal-genomics
@@ -17,17 +17,17 @@ type: concept
 # Fungal Genomics and Comparative Approaches
 
 Fungal genomics has undergone rapid expansion since the sequencing of
-Saccharomyces cerevisiae in 1996. The availability of multiple fungal
+[[saccharomyces-cerevisiae]] in 1996. The availability of multiple fungal
 genomes enables comparative analyses that illuminate the genetic basis
 of pathogenicity, saprotrophic lifestyles, metabolic capabilities, and
-fungal evolution.
+[[bloomfield-chytrid-fungi-early-fungal-evolution]].
 
 ## Landscape of fungal genome sequencing
 
 As of early 2006, 13 completed fungal genomes were published, including
 Ashbya gossypii, [[gadd-aspergillus-fumigatus-glucan-virulence]], A. oryzae, Cryptococcus
 neoformans, Candida glabrata, Debaryomyces hansenii, Encephalitozoon
-cuniculi, Kluyveromyces lactis, Neurospora crassa, Phanerochaete
+cuniculi, Kluyveromyces lactis, [[neurospora-crassa]], Phanerochaete
 chrysosporium, Saccharomyces cerevisiae, Schizosaccharomyces pombe,
 and Yarrowia lipolytica. An additional 158 large-scale fungal sequencing
 projects were ongoing, including 136 full genome projects through the
@@ -81,69 +81,10 @@ lifestyle. Plant pathogens possess expanded families of cutinases,
 cytochrome P450s, and secreted effector proteins. Wood-decay fungi
 ([[staycare-phanerochaete-chrysosporium-in-bioremediation]]) have expanded families of lignin-modifying
 enzymes and carbohydrate-active enzymes. Yeast genomes show contraction
-of many gene families relative to filamentous fungi, correlating with
-their simpler morphology and ecology.
+of many gene families relative to [[environmental-sensing-filamentous-fungi-read]], correlating with
+their simpler [[stinkhorn-fungi-morphology-and-ecology]].
 
 ## Signal transduction complexity
 
 Neurospora crassa possesses 35 predicted G-protein coupled receptors
 (GPCRs) versus six in S. cerevisiae. Filamentous fungi have expanded
-two-component signalling systems with hybrid histidine kinase-response
-regulator proteins. Multiple Ras-like GTPases, cAMP signalling pathways,
-and MAP kinase cascades provide the signalling infrastructure for
-responding to complex heterogeneous environments. This signalling
-complexity correlates with ecological versatility.
-
-## Post-genomic technologies
-
-Genome sequences enable post-genomic approaches including transcriptional
-profiling (microarrays, SAGE), proteomics, and metabolomics. Microarray
-analysis reveals genome-wide expression patterns during development,
-stress responses, and host-pathogen interactions. SAGE enables
-simultaneous monitoring of gene expression in interacting organisms.
-Proteomic approaches identify proteins expressed under specific
-conditions, complementing transcript-level data.
-
-## High-throughput functional genetics
-
-[[magnaporthe-grisea-functional-genomics-rice-blast]] encompasses genome-level analytical techniques
-including expression profiling, high-throughput genetic modification,
-and gene mapping. The MGOS database for M. grisea catalogues over
-50,000 insertional mutants with phenotypic data. Of 57,223 assayed
-mutants, 3.18% show non-pathogenic phenotypes, providing a library of
-potential pathogenicity genes. This mutagenesis approach identifies
-genes essential for growth, conidiation, and pathogenicity.
-
-## Multi-species comparative resources
-
-The Fungal Genomes Initiative at the Broad Institute sequences 25
-fungal genomes to enable broad comparative analysis. This allows
-identification of core fungal genes (shared across all fungi),
-lineage-specific genes, and genes associated with specific lifestyles.
-Comparative analysis of mating-type loci, [[fungal-elicitors-enhanced-secondary-metabolite-production]] gene
-clusters, and effector gene families provides insights into fungal
-reproduction, chemical ecology, and host adaptation.
-
-## Systems biology approaches
-
-Genomic technologies facilitate systems biology approaches that study
-organisms as interacting components and integrated systems. This
-includes modelling of metabolic networks, signal transduction pathways,
-and gene regulatory networks. For M. grisea, systems biology could
-integrate data on genome sequence, gene expression, protein abundance,
-and metabolic fluxes to model the infection process holistically.
-
-## Challenges and future directions
-
-Key challenges include improving functional annotation of fungal genomes
-(70% of M. grisea genes have unknown function), developing efficient
-gene knockout systems for non-model fungi, and integrating genomic data
-with ecological and environmental information. The growing number of
-## Related concepts
-
-- [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-fungal-multilocus-sequence-typing]]
-
-## See Also
-
-- [[fungal-metal-biosorption-comparative]]

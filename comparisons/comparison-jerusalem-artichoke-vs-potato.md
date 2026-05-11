@@ -4,7 +4,8 @@ tags: [comparison, tuber-crops, perennial-vs-annual, root-vegetables,
   staple-crops]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Jerusalem Artichoke vs Potato

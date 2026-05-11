@@ -11,13 +11,13 @@ sources:
 
 ## Overview
 
-The effectiveness of JADAM pesticide depends heavily on water quality, humidity, and spraying technique. JWA (JADAM Wetting Agent) is profoundly affected by water hardness, and spraying conditions dramatically impact pesticide performance.
+The effectiveness of [[jadam-pesticide-dosage-guide]] depends heavily on water quality, humidity, and spraying technique. JWA (JADAM Wetting Agent) is profoundly affected by water hardness, and spraying conditions dramatically impact pesticide performance.
 
 ## Water Quality: The Critical Factor
 
 ### Why Soft Water Matters
 
-JADAM wetting agent performs like natural soap -- it requires soft water. Hard water (with high Ca, Mg, Fe) causes JWA to perform poorly or not at all. Chemical pesticides are also affected by water quality, producing less foam and weaker wetting power in hard water.
+JADAM wetting agent performs like natural soap -- it requires soft water. Hard water (with high Ca, Mg, Fe) causes JWA to perform poorly or not at all. [[comparison-parasitoid-wasps-vs-chemical-pesticides]] are also affected by water quality, producing less foam and weaker wetting power in hard water.
 
 ### The Water Test
 
@@ -32,7 +32,7 @@ Before any pesticide application, always test water with JWA:
 - Rainwater: Collect 30 minutes after rain begins (first 30 minutes contain pollutants)
 - Rainwater is a typical soft water
 - Water softener: Uses ion-exchange resin to remove Ca, Mg, Fe ions
-- JADAM water softener: Stainless steel frame and filter, very durable, costs about $5/month
+- [[jadam-water-softener]]: Stainless steel frame and filter, very durable, costs about $5/month
 
 ## Water Softener Details
 
@@ -72,7 +72,7 @@ Before any pesticide application, always test water with JWA:
 - Use smartphone apps for humidity and dew point information
 
 ### Spraying Technique
-- Nozzle selection: fine particle nozzles are best
+- [[aact-spray-equipment-nozzle-selection-ingham]]: fine particle nozzles are best
 - Finer particles mean less pesticide needed with higher [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - Spray thoroughly to fully and completely wet the plant
 - [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]: prune for open canopy so pesticide reaches all corners
@@ -87,38 +87,3 @@ Before any pesticide application, always test water with JWA:
 4. Important: do NOT mix undiluted JS and JWA together (clotting)
 5. In cold weather, mix more thoroughly (ingredients dissolve slowly)
 6. Always mix right before application, use up completely
-
-### Compatible vs Incompatible Inputs
-
-Compatible with JWA (mix well, good foam):
-- JLF, JS, JHS, alcohol
-
-Incompatible with JWA (poor foam, clotting):
-- Sugar/molasses inputs, vinegar, wood vinegar, seawater
-- If necessary, dilute these to over 1,000x and do NOT mix with pesticides
-- Always do a mixture test before combining
-
-### Chemical Pesticide Mixing
-- Some commercial pesticides do not mix well with JWA
-- Delan fungicide family can form spots on plants
-- Always do mixture test and concentration test before field use
-
-## Safety Rules
-
-1. Always test water with JWA for softness
-2. Do mixture test before combining inputs
-3. Spray when humid
-4. Never mix undiluted ingredients together
-5. Do partial concentration test before whole-field application
-6. Use up mixed pesticide same day (especially JS-containing solutions)
-7. Do not use containers that held chemical pesticides for JADAM inputs
-8. Lock bee hives before spraying; ventilate before reopening
-9. Wash immediately if sprayed; washing not needed for harvesting
-10. Always filter inputs (like JHS) thoroughly before mixing
-
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] -- complete pesticide recipes
-- [[jadam-canola-oil-surfactant-method]]
-- [[jadam-natural-pest-control-methods]]
-- [[jadam-fruit-tree-winter-pest-control]]

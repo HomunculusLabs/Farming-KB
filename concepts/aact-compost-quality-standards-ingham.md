@@ -5,7 +5,7 @@
 
 Updated: 2026-04-18
 
-Source: The Field Guide I for Actively Aerated Compost Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
+Source: The Field Guide I for [[actively-aerated-compost-tea]] Tea, Dr. Elaine Ingham, Soil Foodweb Inc.
 
 The quality of the starting compost is the single most important factor in producing effective compost tea. Ingham provides detailed criteria for what constitutes "good" compost and how to evaluate it.
 
@@ -23,13 +23,13 @@ If those active ingredients (the full range of beneficial organisms) are not pre
 
 Five mechanisms work together:
 
-1. **Temperature**: Thermal composting reaches temperatures that kill human pathogens (generally 131°F/55°C for 3 consecutive days is the standard, though longer at lower temperatures also works)
+1. **Temperature**: [[thermal-composting-vs-aact]] reaches temperatures that kill human pathogens (generally 131°F/55°C for 3 consecutive days is the standard, though longer at lower temperatures also works)
 
 2. **Worm processing**: Passage through worm guts and contact with worm surfaces kills pathogens
 
 3. **Competition**: Aerobic organisms out-compete pathogens for food and space
 
-4. **Predation**: Protozoa and nematodes consume human pathogens directly
+4. **Predation**: [[teaming-with-microbes-protozoa-and-nematodes]] consume human pathogens directly
 
 5. **Inhibition**: Antibiotic-producing bacteria suppress pathogens
 
@@ -37,7 +37,7 @@ Five mechanisms work together:
 
 ### Thermal Compost
 - Made by aerobic decomposition with heat generation (131-165°F)
-- Can have good numbers of beneficial nematodes, but not consistently
+- Can have good numbers of [[ingham-beneficial-nematodes-soil-food-web]], but not consistently
 - Most thermal composters don't manage for biology — they compost to reduce waste
 - Temperature must not exceed 155-160°F too rapidly or beneficial species like Ampelomyces (a powdery mildew parasite) are lost
 - Slow heating to 165°F allows fungi time to sporulate and survive
@@ -65,11 +65,11 @@ A combination of good aerobic thermal compost with good aerobic worm castings, a
 The only way to KNOW your compost has the right biology is to test it:
 
 - **Total and active bacteria**: Adequate numbers and diversity
-- **Total and active fungi**: Especially for disease suppression teas
+- **Total and active fungi**: Especially for [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] teas
 - **Protozoa**: Present in adequate numbers for nutrient cycling
 - **Beneficial nematodes**: Bacterial-feeding, fungal-feeding, and predatory types
 - **E. coli absence**: Especially important if manure was used in the compost
-- **Beneficial organism assay**: Identification of specific beneficial bacterial and fungal species
+- **Beneficial organism assay**: Identification of specific beneficial [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] species
 
 ### Warning Signs
 - Offensive odor = anaerobic conditions = don't use
@@ -88,60 +88,3 @@ The ratio is non-linear — more water means proportionally less compost:
 | 50 gallons | ~10 pounds |
 | 100 gallons | ~12 pounds |
 | 500 gallons | 15-20 pounds |
-
-A machine maker claiming 100 gallons needs 100 pounds of compost is either selling compost or has a poorly designed machine.
-
-## SFI Certified Composts
-
-Soil Foodweb Inc. maintains a list of composts that meet biological standards. Before buying compost, insist that the seller show you that the compost has decent biology. Check the SFI website for certified products.
-
-The educational message: "Until thermal composting operations cannot sell their compost unless the right biology is present, they will not change. And until they are forced to do composting correctly, we'll keep getting stinky, smelly 'putrefying organic matter' that is sold as 'compost.'"
-
-## The Compost-to-Tea-to-Soil Chain
-
-The relationship between compost quality and tea quality is direct:
-- Good compost + proper brewing = good tea with full organism diversity
-- Poor compost = poor tea regardless of brewing technique
-- Anaerobic compost = tea may contain human pathogens
-- Compost lacking fungi = tea will lack fungi = no mildew control
-
-Testing the first few batches of tea from a new compost source is strongly recommended. SFI provides 15 minutes of free consultation with each sample submitted.
-
-## Making Your Own Compost Better
-
-To improve compost for tea brewing:
-- Add paper and cardboard to worm bins (promotes beneficial fungi)
-- Don't overheat — temperatures above 155-160°F too rapidly kill beneficial species
-- Maintain adequate moisture (not too wet, not too dry)
-- Ensure adequate aeration during composting
-- Include diverse inputs for diverse organism communities
-- Feed worms fungal foods to support fungal-feeding nematode populations
-
-See also: aact-brewing-ingredients-ingham, composting-science-solomon
-- bacterial-vs-fungal-compost-teas
-- fungal-species-estimation-methods-total-diversity
-
-## Merged: Compost Quality and Microbial Diversity Requirements
-
-# Compost Quality and Microbial Diversity Requirements
-
-**Source:** Elaine Ingham, Ph.D. — *The Field Guide I for Actively Aerated Compost Tea (AACT)*
-
----
-
-## Overview
-
-Not all compost is created equal. The biological quality of compost — its diversity, organism biomass, and activity levels — determines whether [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] brewed from it will be beneficial, mediocre, or potentially harmful. Ingham's [[ghouled-field-guide-historical-context]] establishes specific desired levels for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass in compost, defines what constitutes "true compost," and explains why diversity is the single most important factor in aact compost quality standards ingham.
-
-## What Is True Compost?
-
-### The Finished Compost Standard
-
-True compost, according to Ingham, must meet several criteria:
-- **Does not contain human pathogens** — verified through thermophilic phase, worm processing, aerobic competition, or predator consumption
-- **Contains the full succession of organisms** — bacteria, fungi, protozoa, nematodes, and microarthropods
-- **Has completed the heating and cooling cycle** — thermophilic temperatures followed by mesophilic recolonization
-
-## See Also
-- [[ingham-paper-cardboard-fungal-foods-compost]]
-- [[soil-foodweb-succession-bacteria-fungi-cycle-ingham]]

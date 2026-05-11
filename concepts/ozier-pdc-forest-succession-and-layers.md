@@ -87,37 +87,3 @@ disturbance (windfall, disease, fire) creates gaps that reset local succession.
 Permaculture designers use knowledge of succession to accelerate the development of
 productive ecosystems. Rather than waiting decades for natural succession to produce
 a mature forest, designers can:
-
-- Plant fast-growing pioneer and nurse trees to quickly establish canopy
-- Direct-seed or transplant species from later successional stages
-- Use [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] and composting to rapidly build soil
-- Install nitrogen-fixing species to jump-start nutrient cycling
-- Design guilds that replicate mature forest relationships
-- Use chop-and-drop mulching to simulate natural leaf fall
-
-## Implications for Food Forest Design
-
-Understanding forest succession and layers is essential for food forest design because:
-
-- It tells you what species to plant at each stage of development
-- It helps predict how the system will change over time
-- It guides pruning and management decisions as the forest matures
-- It reveals which pioneer species to use as short-term nurse crops
-- It shows how to stack yields vertically to maximize production per acre
-- It provides the ecological template for creating self-maintaining systems
-
-## The Forest as Design Template
-
-Ozier argues that forests represent the most productive, self-sustaining terrestrial
-ecosystems. By mimicking forest structure and function, Permaculture designers can
-create food-producing systems that require minimal external inputs while providing
-maximum yields. The forest model teaches us that diversity, vertical stacking,
-closed-loop nutrient cycling, and multi-species integration are the foundations
-of sustainable productive systems.
-
-## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-- [[ozier-pdc-ecological-design]]
-- [[ozier-pdc-composting-and-soil-building]]
-- ozier pdc animal systems integration

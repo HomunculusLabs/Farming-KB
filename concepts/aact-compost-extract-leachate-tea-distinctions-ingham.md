@@ -1,5 +1,5 @@
 ---
-title: AACT Compost Extract, Leachate, and Tea Distinctions
+title: Aact Compost Extract Leachate Tea Distinctions Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_author: Elaine Ingham Ph.D
 topics: [aact, compost-tea, compost-extract, leachate, brewing-methods, soil-biology]
@@ -9,7 +9,7 @@ topics: [aact, compost-tea, compost-extract, leachate, brewing-methods, soil-bio
 
 ## Overview
 
-One of the most important contributions of Elaine Ingham's field guide is the rigorous differentiation between liquid products derived from compost. These are frequently confused, yet they have fundamentally different biological properties, production methods, and applications. Ingham insists that only Actively Aerated Compost Tea (AACT) meets the definition of true compost tea.
+One of the most important contributions of Elaine Ingham's field guide is the rigorous differentiation between liquid products derived from compost. These are frequently confused, yet they have fundamentally different biological properties, [[hashish-production-methods]], and applications. Ingham insists that only [[actively-aerated-compost-tea]] Compost Tea (AACT) meets the definition of true compost tea.
 
 ## Compost Tea (AACT) — The Standard
 
@@ -42,7 +42,7 @@ Compost extracts lack a brewing period, making them fundamentally different.
 - Compost is placed in water and agitated to physically rip organisms off particles
 - No nutrients added, no brewing period allowed
 - Organisms have not had time to wake from dormancy
-- Biological diversity limited to what was on the compost surface
+- [[fungi-convention-on-biological-diversity]] limited to what was on the compost surface
 - No multiplication of organisms occurs during extraction
 
 ### Use Cases
@@ -60,12 +60,12 @@ The most passive and least biologically active product.
 - Water passes through compost passively (gravity, rainfall, irrigation)
 - No active extraction, no nutrients added, no brewing or aeration
 - Primarily soluble nutrients, enzymes, hormones, humic and fulvic acids
-- Very limited biological content; may contain anaerobic organisms
+- Very limited biological content; may contain [[ingham-anaerobic-organisms-role-soil]]
 - Growth responses come from soluble nutrients, not biological activity
 
 ### Limitations
 
-- Cannot provide disease suppression benefits of AACT
+- Cannot provide [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] benefits of AACT
 - Pathogen risk may be higher if compost had anaerobic zones
 - Useful only as liquid fertilizer, not biological inoculant
 
@@ -88,41 +88,3 @@ The most passive and least biologically active product.
 - UV damage is minimal but desiccation and temperature are concerns
 
 ### Fermentative Compost Tea (FCT)
-- Selects for facultative anaerobic organisms
-- Suppresses certain diseases through antibiotic/inhibitory interactions
-- Not interchangeable with AACT
-
-## Practical Decision Framework
-
-| Product | Aeration | Food Added | Brew Time | Active Biology | Disease Suppression |
-|---------|----------|-----------|-----------|---------------|-------------------|
-| AACT | Continuous | Yes | 18-24 hrs | High | Excellent |
-| Extract | None | No | Minutes | Low | Limited |
-| Leachate | None | No | Passive | Very Low | None |
-| FCT | Minimal | Yes | 2-7 days | Variable | Specific |
-
-## Long-Brewing Compost Tea (LBCT)
-
-Another distinct category Ingham identifies:
-
-- Starts aerobic, moves through anaerobic phase, may return to aerobic
-- Complex biological succession occurs during the multi-day process
-- Different organisms dominate at different phases
-- Not recommended for beginners due to unpredictable results
-
-## Key Takeaways
-
-1. Only AACT provides the full complement of active beneficial organisms
-2. Extracts are a compromise when brewing time is unavailable
-3. Leachates provide nutrients but not biological inoculation
-4. The brewing period transforms an extract into true compost tea
-5. Calling extracts or leachates "compost tea" creates false expectations
-6. Pathogen safety depends on maintaining aerobic conditions throughout
-
-## See Also
-
-- [[aact-definitions-and-types-ingham]]
-- [[aact-tea-types-and-definitions-ingham]]
-- [[aact-aerobic-vs-anaerobic-brew-comparison-ingham]]
-- [[aact-brewing-methodology]]
-- [[aact-pathogen-safety-ingham]]

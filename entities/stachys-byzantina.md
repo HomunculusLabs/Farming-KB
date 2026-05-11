@@ -88,27 +88,3 @@ The plant provides limited wildlife habitat value beyond pollinator support. The
 The woolly leaf coating reflects a significant portion of incident solar radiation, reducing leaf temperature and transpiration rates. This adaptation contributes to the species' exceptional drought tolerance.
 
 Root systems are relatively shallow but extensive, forming a dense mat that helps stabilize loose soils on slopes and banks. This makes lamb's ears useful in [[permplant-willows-salix-erosion-control-fodder]] plantings.
-
-## Ethnobotanical and Practical Uses
-
-S. byzantina has no significant history of medicinal use, unlike many other Stachys species such as S. officinalis (betony). Its primary value is ornamental.
-
-The woolly leaves have been used historically as makeshift bandages due to their absorbent, soft texture. This traditional use gave rise to the common name "woundwort" in some regions, though this name is more properly applied to S. officinalis.
-
-The dried flower spikes are sometimes used in dried flower arrangements. The silver foliage retains its color and texture well when dried.
-
-The absorbent woolly leaves have been used as impromptu cleaning cloths for dusting, and the plant has been suggested as a natural mulch material in permaculture systems.
-
-In modern gardening, lamb's ears are valued as a textural contrast plant in mixed borders, rock gardens, and container plantings. The silver foliage pairs effectively with purple, blue, and pink-flowered perennials.
-
-The plant is frequently used in children's gardens and sensory gardens due to its soft, tactile foliage. It is non-toxic and safe for handling by children and pets.
-
-## See Also
-
-- [[lamium-album]]
-- [[thymus-vulgaris-entity]]
-- [[origanum-vulgare-entity]]
-- [[prunella-vulgaris]]
-- [[nepeta-cataria]]
-- [[hypericum-perforatum]]
-- [[borago-officinalis]]

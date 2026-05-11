@@ -77,3 +77,20 @@ Live agents that produce or are involved in producing plant nutrients:
 - [[complete-organic-fertilizer-recipes]]
 - [[soil-testing-and-analysis]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[solomon-complete-organic-fertilizer-guide]]
+- [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]
+- [[hamilton-concentrated-organic-fertilizer-products]]
+- [[organic-fertilizer-recipes]]
+- [[complete-organic-fertilizer-cof-solomon]]

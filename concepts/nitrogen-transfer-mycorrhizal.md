@@ -1,15 +1,16 @@
 ---
-title: symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks Through Mycorrhizal Networks
+title: Nitrogen Transfer Mycorrhizal
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - ~/wiki/raw/papers/symbiotic-fungi.md
 ---
 # Nitrogen Transfer Through Mycorrhizal Networks
 
-Nitrogen transfer through common mycorrhizal networks (CMNs) is the movement of nitrogen between plants connected by shared mycorrhizal fungal hyphae. This process is particularly significant in intercropping systems, mixed-species forests, and [[holmgren-ecological-succession-and-pulsing]], where nitrogen fixed by legumes or other N2-fixing plants can be transferred to non-fixing neighbors through the hyphal network.
+Nitrogen transfer through [[nitrogen-transfer-through-common-mycorrhizal-networks]] (CMNs) is the movement of nitrogen between plants connected by shared [[arbuscular-mycorrhizal-fungal-diversity]] hyphae. This process is particularly significant in intercropping systems, mixed-species forests, and [[holmgren-ecological-succession-and-pulsing]], where nitrogen fixed by legumes or other N2-fixing plants can be transferred to non-fixing neighbors through the hyphal network.
 
 ## Mechanisms of Transfer
 
@@ -26,7 +27,7 @@ The direct hyphal transfer pathway is the most tightly coupled to CMN function a
 
 ### Enrichment Method
 
-The 15N enrichment method involves supplying highly enriched 15N compounds to a "donor" plant and detecting the isotope in a connected "receiver" plant. The experimental design uses two-chambered pots:
+The 15N enrichment method involves supplying highly enriched 15N compounds to a "donor" plant and detecting the isotope in a connected "receiver" plant. The [[cannabis-microbiome-experimental-design]] uses two-chambered pots:
 
 - **Chamber separation**: Two compartments separated by a 5-mm air gap created by Perspex plates, preventing root contact but allowing hyphal penetration
 - **Mesh barrier**: 45-micrometer nylon mesh on the plates prevents root passage while permitting hyphal growth
@@ -65,7 +66,7 @@ Three complementary metrics quantify nitrogen transfer:
 Net nitrogen transfer is calculated as the difference between transfer in each direction. A positive net transfer indicates one species benefits at the expense of the other. In the Eucalyptus-Casuarina ectomycorrhizal system with Pisolithus sp.:
 
 - Bidirectional N transfer occurs between N2-fixing Casuarina cunninghamiana and non-N2-fixing Eucalyptus maculata
-- When ammonium nitrate is supplied, the nodulated N2-fixing Casuarina acts as a net nitrogen sink
+- When [[plant-available-nitrogen-ammonium-nitrate]] is supplied, the nodulated N2-fixing Casuarina acts as a net nitrogen sink
 - The ectomycorrhizal fungus Pisolithus sp. mediates the transfer through its hyphal network
 
 ## Natural Abundance Method
@@ -74,7 +75,7 @@ The 15N natural abundance method exploits natural variation in 15N/14N ratios wi
 
 - N2-fixing plants typically have delta-15N values closer to atmospheric N2 (0 per mil) because fractionation during N2 fixation is minimal
 - Non-fixing plants show greater delta-15N enrichment due to soil fractionation processes
-- This method is useful for field studies but less precise than enrichment methods
+- This method is useful for [[staycare-fungal-bioremediation-field-studies]] but less precise than enrichment methods
 
 ### Limitations
 
@@ -86,39 +87,3 @@ The 15N natural abundance method exploits natural variation in 15N/14N ratios wi
 ## Ecological Significance
 
 ### Intercropping Systems
-
-Nitrogen transfer through CMNs is a key mechanism underlying the benefits of legume-cereal intercropping:
-
-- Legumes fix atmospheric N2, some of which becomes available to companion cereals
-- AMF or [[symbiotic-fungi-ectomycorrhizal-networks-overview]] provide the physical pathway for interplant nitrogen movement
-- The magnitude of transfer depends on mycorrhizal connectivity and nitrogen demand of the receiver
-
-### Ecological Succession
-
-During primary succession on nitrogen-poor substrates:
-
-- Ectomycorrhizal networks (e.g., Pisolithus sp.) connect early-successional N2-fixing plants (e.g., Casuarina) with later-successional non-fixing species (e.g., Eucalyptus)
-- This nitrogen subsidy may facilitate the establishment of non-fixing species on nitrogen-limited sites
-
-### Forest Ecosystems
-
-In mixed-species forests, CMN-mediated nitrogen transfer:
-
-- Contributes to nitrogen cycling and retention
-- May reduce nitrogen losses through leaching
-- Creates interplant nutrient coupling that influences [[core-endorhiza-bacterial-community-composition-cannabis]]
-
-## Key Species and Systems
-
-- **Eucalyptus maculata + Casuarina cunninghamiana**: Ectomycorrhizal system with Pisolithus sp.; demonstrated bidirectional N transfer
-- **Pea + barley**: AMF-mediated transfer from decomposing pea roots to barley
-- **Alfalfa + bromegrass**: Demonstrated bidirectional N transfer over both short and long time periods
-- **Arctic tundra**: 15N studies in AMF and EMF plants showing nitrogen and carbon flux rates
-
-## See Also
-
-- [[arbuscular-mycorrhizal-networks]] — The AMF symbiosis type most commonly involved in agricultural N transfer
-- ectomycorrhizal-ecology|ectomycorrhiza — Ectomycorrhizal networks in forest nitrogen cycling
-- mycorrhizal-nitrogen-transfer-between-plants
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

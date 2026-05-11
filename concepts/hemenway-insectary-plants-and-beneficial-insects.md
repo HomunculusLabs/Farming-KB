@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-insectary-plants-and-beneficial-insect-habitat|Insectary]] Plants and Beneficial Insects
+title: Hemenway Insectary Plants And Beneficial Insects
 created: 2026-04-28
 tags: [permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
 date: 2026-04-25
@@ -88,61 +88,3 @@ and leafy spurge, offering targeted biological control.
 
 Plant pollen- and nectar-producing flowers throughout the garden.
 Beneficial insects need nectar and pollen for energy and reproduction,
-and some also need pest insects as food. Having a few pests around is
-actually better than having none at all, because if you temporarily
-eliminate all pests, the good bugs will disappear too, leaving you
-defenseless when the faster-breeding pests return.
-
-### Shelter
-
-Dense foliage, mulch, dead brush and leaves, rock piles, and walls
-provide the high humidity and refuge from temperature changes that
-beneficials prefer. Research shows that many beneficial insects
-overwinter or lay eggs in dead vegetation, so gardeners should delay
-postseason cleanup until spring. The fastidiously neat garden is poor
-habitat for beneficials.
-
-### Water
-
-Many insects get moisture from nectar or foliage, but some species of
-bees and wasps drink from open water. Having a pond or other water
-feature is never a bad idea.
-
-### Temporal Diversity
-
-Grow many species of flowers so that several types are always in bloom,
-giving beneficials a better chance at fattening up enough to breed
-throughout the season. Many-specied hedgerows, wild and weedy spots,
-mixed perennial borders, and flowers sprinkled in vegetable beds all
-provide continuous habitat.
-
-## Key Insectary Plant Families
-
-These plant families overlap significantly with those used in [[companion-planting-guilds]] and [[permaculture-plants-medicinal-herbs-healing]], reflecting the multifunctional nature of ecological garden design.
-
-These plant families overlap significantly with those used in [[permaculture-plants-medicinal-herbs-healing]] and [[companion-planting-guilds]], reflecting the multifunctional nature of ecological garden design.
-
-- **Apiaceae (celery/carrot family):** Fennel, Queen Anne's lace,
-  dill, coriander, angelica, caraway, parsley
-- **Asteraceae (sunflower/composite family):** Yarrow, golden
-  marguerite, cosmos, feverfew, calendula, dandelion, Maximilian
-  sunflower
-- **Lamiaceae (mint family):** Lavender, bee balm, lemon balm,
-  pennyroyal, thyme, rosemary, sage
-- **Liliaceae (onion/lily family):** Alliums, including garlic,
-  chives, and ornamental alliums
-- **Fabaceae (legume family):** Clover, alfalfa, vetch, lupine, cowpeas
-- **Buckwheat:** An excellent general-purpose insectary that blooms
-  over a long period
-
-## Specific Recommended Plants
-
-Yarrow, buckwheat, lavender, golden marguerite, bee balm, clovers,
-dill, fennel, coriander, calendula, borage, phacelia, alyssum, cosmos,
-feverfew, pennyroyal, angelica, and many others all serve as excellent
-insectary plants. Many of these are also edible, medicinal, or serve
-additional functions in the garden.
-
-## Designing Insectary Strips and Borders
-
-Integrating insectary plants into the garden requires strategic

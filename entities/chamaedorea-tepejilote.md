@@ -6,12 +6,12 @@ tags:
   - palms
   - edible-plants
   - mesoamerica
-  - agroforestry
+  - [[agroforestry]]
   - understory-plants
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A., Galeano, G. & Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
+  - Henderson, A., Galeano, G. & Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
   - Ochoa, J. (2002). "Palmas del Ecuador." Herbario QCA, Pontificia Universidad Católica del Ecuador.
   - Hodel, D.R. (1992). "Chamaedorea Palms: The Species and Their Cultivation." Allen Press.
   - Balick, M.J. (1992). "Ethnobotany of the Chamaedorea Palms." Advances in Economic Botany 8: 143-154.
@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-Chamaedorea tepejilote, commonly known as the pacaya palm, is a species of understory palm native to southern Mexico and Central America. It is widely cultivated for its edible male inflorescences, which are a traditional vegetable in Mesoamerican cuisine.
+Chamaedorea tepejilote, commonly known as the pacaya palm, is a species of understory palm native to southern Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]. It is widely cultivated for its edible male inflorescences, which are a traditional vegetable in Mesoamerican cuisine.
 
-The species is one of the most economically important non-timber forest products in its native range. Pacaya is sold in markets throughout Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and southern Mexico.
+The species is one of the most economically important non-timber [[mollison-specialist-tropical-crops-forest-products]] in its native range. Pacaya is sold in markets throughout Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica, and southern Mexico.
 
 Pacaya palm is a dioecious, single-stemmed understory palm that typically reaches 2 to 6 meters in height. It thrives in the humid shade of tropical and subtropical forests, often forming dense colonies in disturbed areas.
 
@@ -45,7 +45,7 @@ Male inflorescences are harvested before full anthesis when the immature flower 
 
 ## Distribution and Habitat
 
-Chamaedorea tepejilote is distributed from southern Mexico (Veracruz, Chiapas, Oaxaca) through Central America to Colombia and Ecuador. It occurs on both the Atlantic and Pacific slopes of the Central American isthmus.
+Chamaedorea tepejilote is distributed from southern Mexico (Veracruz, Chiapas, Oaxaca) through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to Colombia and Ecuador. It occurs on both the Atlantic and Pacific slopes of the Central American isthmus.
 
 The species is most abundant in the humid lowland and premontane tropical forests of Central America, occurring from sea level to approximately 1,600 meters elevation. It is particularly common in secondary forests and forest edges.
 
@@ -57,7 +57,7 @@ The palm has been widely planted outside its natural range as a food crop and or
 
 In Costa Rica and Nicaragua, pacaya palm is particularly abundant in the Caribbean lowlands, where rainfall exceeds 3,000 mm annually. Pacific slope populations tend to be more restricted to moist microsites.
 
-The species shows considerable phenotypic variation across its range. Central American populations tend to have larger inflorescences than those from southern Mexico, a trait that has informed local selection of cultivated varieties.
+The species shows considerable phenotypic [[psilocybin-psilocin-variation-across-flushes]] its range. Central American populations tend to have larger inflorescences than those from southern Mexico, a trait that has informed local selection of cultivated varieties.
 
 ## Cultivation and Uses
 
@@ -73,7 +73,7 @@ Cultivation is straightforward and well adapted to smallholder farming systems. 
 
 Optimal growing conditions include partial shade, consistent moisture, and rich, well-draining soils. Full sun is tolerated at higher elevations but can cause leaf scorching in lowland tropical conditions.
 
-Pacaya cultivation is increasingly integrated into agroforestry systems, where the palm provides shade for understory crops and generates income from inflorescence sales. It is commonly interplanted with coffee, cacao, and fruit trees.
+Pacaya cultivation is increasingly integrated into agroforestry systems, where the palm provides shade for understory crops and generates income from inflorescence sales. It is commonly interplanted with coffee, cacao, and [[comparison-grafting-vs-budding-fruit-trees]].
 
 Beyond the edible inflorescences, young leaf buds are occasionally consumed as a palm heart substitute. The leaves are used for thatching and basket weaving in some rural communities.
 
@@ -88,32 +88,3 @@ The palm's tolerance of shade and disturbance makes it a pioneer species in fore
 As a dioecious species, pacaya requires cross-pollination between male and female plants for successful fruit set. Small beetles and bees are the primary pollinators of the small, fragrant flowers.
 
 Male and female plants occur in roughly equal proportions in natural populations. This balanced sex ratio ensures adequate pollination, though isolated female plants may fail to set fruit without nearby males.
-
-The dense clumps formed by pacaya palm provide habitat and cover for a variety of forest-floor organisms. Amphibians, reptiles, and invertebrates use the sheltered microclimate beneath the palm crowns.
-
-The species contributes to nutrient cycling through its abundant leaf litter production. Decomposing palm fronds release nutrients gradually, enriching the forest floor in areas where pacaya palm is abundant.
-
-Wild pacaya populations serve as a genetic resource for cultivated varieties. Farmers often select superior genotypes from wild stands for transplant into managed agroforestry systems, maintaining genetic diversity in domesticated populations.
-
-## Commercial Significance
-
-Pacaya represents one of the most important non-timber forest products in Central America, generating significant income for rural communities. Market chains extend from village harvesters to urban supermarkets and international export.
-
-In Guatemala alone, pacaya commerce supports thousands of smallholder families and market vendors. The product commands premium prices during religious holidays when demand peaks for traditional dishes.
-
-Export of pacaya to Salvadoran and Honduran diaspora communities in the United States has created additional market channels. Limited commercial cultivation has begun in South Florida to serve these ethnic markets.
-
-The economic value of pacaya has contributed to forest conservation in some regions, where maintaining forest cover for pacaya harvesting provides a financial incentive against deforestation.
-
-## See Also
-
-- [[chamaedorea-elegans]]
-- [[bactris-gasipaes]]
-- [[euterpe-oleracea]]
-- [[euterpe-edulis]]
-- [[areca-catechu]]
-- [[roystonea-regia]]
-- [[syagrus-romanzoffiana]]
-- [[acrocomia-aculeata]]
-- [[butia-capitata]]
-- [[dypsis-lutescens]]

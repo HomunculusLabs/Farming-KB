@@ -1,8 +1,8 @@
 # Mushroom Mating Systems: Bipolar and Tetrapolar Genetics
 
 Mushroom fungi (Basidiomycota) employ complex genetic mating systems that govern
-sexual reproduction, genetic diversity, and the transition from vegetative mycelium
-to fruiting body formation. Understanding these systems is essential for mushroom
+sexual reproduction, [[biodiversity-fungal-genetic-diversity]], and the transition from vegetative mycelium
+to [[fungal-fruiting-body-formation-environmental-triggers]]. Understanding these systems is essential for mushroom
 breeding, strain improvement, and commercial cultivation.
 
 ## Overview of Basidiomycete Mating
@@ -39,10 +39,10 @@ will be compatible.
 
 Several commercially important mushrooms use bipolar systems:
 
-- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** (paddy straw mushroom) — commercially significant in
+- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** ([[comparison-king-stropharia-vs-paddy-straw-mushroom]]) — commercially significant in
   tropical Asia, well-studied bipolar species
-- **Flammulina velutipes** (enoki) — important cultivated species in East Asia
-- **Pholiota nameko** (nameko) — popular in Japanese cuisine
+- **[[flammulina-velutipes]]** (enoki) — important cultivated species in East Asia
+- **[[pholiota-nameko]]** (nameko) — popular in Japanese cuisine
 - Some **Pleurotus** species, though many are tetrapolar
 - **[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]** (shaggy mane) — a bipolar coprinoid species
 
@@ -79,7 +79,7 @@ from one mate to migrate through the other's mycelium. This controls both cell
 fusion (anastomosis) and intercellular nuclear migration.
 
 The B locus typically contains multiple pheromone and receptor genes. In
-**Schizophyllum commune**, the B locus contains up to 9 receptor and 8 pheromone
+**[[schizophyllum-commune]]**, the B locus contains up to 9 receptor and 8 pheromone
 genes, generating enormous numbers of possible B specificities.
 
 ### Four Compatibility Categories
@@ -88,62 +88,3 @@ In tetrapolar systems, the A and B allele combinations create four outcomes:
 
 1. **A≠B≠ (Fully compatible)**: Both loci differ — complete clamp connections,
    robust nuclear migration, fertile dikaryon capable of fruiting. This is the
-   only combination that reliably produces mushrooms.
-
-2. **A≠B= (Common B)**: A differs, B matches — clamp connections form but
-   nuclear migration is blocked, producing a "flat" or "barrage" reaction.
-
-3. **A=B≠ (Common A)**: A matches, B differs — nuclear migration occurs
-   without clamp connections. Typically cannot produce fruiting bodies.
-
-4. **A=B (Common A and B)**: Both loci match — no interaction. Mycelia behave
-   as self with no nuclear exchange or visible reaction.
-
-### Species with Tetrapolar Mating
-
-Many important cultivated species are tetrapolar:
-
-- **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]** (button mushroom) — unusual with only two natural
-  mating types despite tetrapolar genetic architecture, limiting natural
-  outbreeding
-- **Lentinula edodes** (shiitake) — major commercial species with complex
-  tetrapolar genetics
-- **Pleurotus ostreatus** (oyster mushroom) — high allelic diversity
-- **Schizophyllum commune** (split gill) — the most studied model organism
-  for tetrapolar mating genetics
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** and related [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-- **Coprinopsis cinerea** (ink cap) — key genetic model organism
-
-In a population with n_A and n_B alleles, only ~1/(4 × n_A × n_B) of random
-pairings will be fully compatible — tremendous outbreeding potential but complex
-breeding programs.
-
-## The A=B Mating Phenomenon
-
-Some species exhibit "A=B" mating where a single locus controls both A and B
-functions — an evolutionary bridge between bipolar and tetrapolar systems,
-documented in several coprinoid fungi.
-
-## Detection of Mating Compatibility
-
-Several methods assess compatibility between fungal isolates:
-
-- **Morphological**: Clamp connection formation at hyphal septa, visible at
-  400× magnification under light microscopy
-- **Cultural**: Interaction zones on agar plates — barrage lines, fluffy growth,
-  or pigmentation changes indicate compatibility reactions
-- **Molecular**: PCR amplification of mating-type genes for rapid genotyping
-  without performing actual crosses
-- **Fruiting tests**: The ultimate confirmation of compatibility, though the
-  most time-consuming approach
-
-## Practical Applications in Cultivation
-
-Understanding mating systems is crucial for strain development, spawn quality
-control, and preservation of genetic diversity in culture collections.
-## See Also
-
-- [[dikaryon-formation-mushroom-strain-genetics]]
-- [[growing-gourmet-spore-germination-strain-isolation]]
-- [[mushroom-genetics-strain-selection]]
-- [[mushroom-cultivator-tissue-culture-spore-germination]]

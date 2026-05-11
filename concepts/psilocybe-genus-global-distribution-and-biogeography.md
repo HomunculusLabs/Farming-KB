@@ -88,34 +88,3 @@ Mexico's exceptional *Psilocybe* diversity (44 species) results from several con
 ## Key Species and Their Ranges
 
 | Species | Primary Range | Substrate |
-|---------|--------------|-----------|
-| *P. cubensis* | Pantropical | Bovine dung |
-| *P. mexicana* | Central Mexico | Soil, grassland |
-| *P. semilanceata* | Temperate Europe, N. America | Grassland soil |
-| *P. cyanescens* | Pacific Northwest, Europe | Wood chips, dune grass |
-| *P. zapotecorum* | Southern Mexico, S. America | Disturbed soil, swampy areas |
-| *P. azurescens* | Oregon coast (USA) | Dune grasses, wood |
-| *P. baeocystis* | Pacific Northwest | Decaying wood, peat |
-| *P. samuiensis* | Thailand, Southeast Asia | Dung, enriched soil |
-| *P. bohemica* | Central Europe | Wood debris |
-
-## Conservation Implications
-
-The concentration of *Psilocybe* diversity in subtropical humid forests raises conservation concerns:
-
-- **Habitat loss**: Deforestation in Mexico, Brazil, and Southeast Asia threatens the primary habitats of the most diverse *Psilocybe* communities.
-- **Climate change**: Shifts in precipitation patterns and temperature could alter the distribution of narrowly endemic species, particularly those restricted to cloud forests.
-- **Endemism**: Many *Psilocybe* species have restricted ranges, making them vulnerable to local habitat destruction. Mexico's high species count includes numerous endemics found only in specific states or vegetation types.
-- **Understudied regions**: Areas such as the Congo Basin, Myanmar, and parts of [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] remain poorly surveyed and may harbor undiscovered species.
-
-## Biogeographic Research Directions
-
-Modern molecular phylogenetics is reshaping our understanding of *Psilocybe* biogeography:
-
-- **Molecular dating**: DNA-based estimates suggest the genus originated in the Cretaceous or early Paleogene, with subsequent diversification tracking the breakup of Gondwana and the spread of tropical forests.
-- **Cryptic species**: Genetic studies reveal that many morphologically defined "species" are actually species complexes, suggesting true diversity may exceed current estimates.
-- **Dispersal mechanisms**: Spore dispersal by wind, water, and animal vectors explains some distribution patterns, but the role of human-mediated dispersal (through livestock movement and trade) remains underappreciated.
-
-The integration of traditional taxonomic methods with modern genomic tools promises to refine our understanding of where *Psilocybe* species originated, how they dispersed, and how many truly distinct species exist — many of which may be endangered before they are even described.
-
-Understanding these biogeographic patterns is essential not only for scientific completeness but also for informing conservation policies that protect the world's richest repositories of psychoactive fungal biodiversity.

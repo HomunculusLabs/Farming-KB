@@ -19,7 +19,7 @@ Eliot Coleman's winter harvest system at Four Season Farm in coastal Maine (Zone
 
 Coleman uses specific definitions for greenhouse types that differ from British horticultural conventions:
 
-- **Cold greenhouse [[coleman-rolling-greenhouse-wheel-rail-design]]**: Completely unheated structure. May have a heater available for occasional use (e.g., getting an early start on warm-season crops like tomatoes), but operates without heat during the winter vegetable production season. This is the primary structure for the winter harvest system.
+- **Cold greenhouse [[coleman-rolling-greenhouse-wheel-rail-design]]**: Completely unheated structure. May have a heater available for occasional use (e.g., getting an early start on warm-season crops like tomatoes), but operates without heat during the [[coleman-french-historical-winter-vegetable-production]] season. This is the primary structure for the winter harvest system.
 - **Cool greenhouse [[coleman-rolling-greenhouse-wheel-rail-design]]**: Maintained at a minimum temperature just above freezing (approximately 32°F / 0°C). Uses minimal supplemental heat—typically propane set to keep the house just above the freezing point at night.
 
 ### British vs. American Conventions
@@ -88,39 +88,3 @@ The cool house extends the harvest season for a wide range of crops from October
 One advantage of the mobile greenhouse is avoiding the expense of cooling the house when starting winter crops in August. Instead of starting winter crops inside a hot greenhouse:
 - Winter crops are sown outdoors in the field over which the greenhouse will eventually move
 - The greenhouse remains over heat-loving summer crops (tomatoes, peppers, cucumbers, eggplants, sweet potatoes)
-- In mid-to-late October, the greenhouse is moved to cover the winter crops
-
-This eliminates the need for ventilation, shade cloth, or evaporative cooling during the August-October transition period.
-
-## Temperature and Day Length Interaction
-
-### The Combined Effect
-
-Temperature and day length work together to determine plant growth rates during winter:
-- Shorter days slow photosynthesis and thus growth
-- Lower temperatures slow metabolism and nutrient uptake
-- The combination creates a "slowed but not stopped" growth state
-- Crops planted in fall reach near-maturity before the day length drops below 10 hours
-- During the shortest days, growth nearly pauses but plants are maintained in harvestable condition
-- As days lengthen in late January and February, growth accelerates again
-
-### Practical Implications
-
-- Sowing dates for fall planting are more critical than for spring planting
-- The "second spring" begins around August 1, when growers begin planting winter crops
-- succession planting across a wide range of dates compensates for slower growth
-- Within 24 hours of harvesting a crop, beds are re-prepared and replanted
-
-## Design Principles for Temperature Management
-
-Coleman's system embodies several design principles applicable to any winter growing operation:
-
-1. **Minimalism**: No heating systems, no water/stone ballast, no buried insulation, no space-age materials
-2. **Passive protection**: Rely on the greenhouse structure and inner row cover, not active systems
-3. **Plant selection**: Choose crops adapted to cool conditions rather than trying to modify the environment for warm-season crops
-4. **Layered defense**: The double-layer system provides redundancy—if one layer fails, the other still provides significant protection
-5. **Economic focus**: Every design decision is evaluated against the cost of achieving the same result through simpler means
-
-## Summary
-
-Coleman's winter harvest temperature management system proves that sophisticated growing does not require complicated technology. The combination of cold-hardy plant selection, passive double-layer protection, and minimal heat only where economically justified produces fresh vegetables through Zone 5 winters at a fraction of the cost of conventional heated greenhouse operations. The system works because it respects plant biology—matching the right crops to the available conditions rather than fighting against the climate.

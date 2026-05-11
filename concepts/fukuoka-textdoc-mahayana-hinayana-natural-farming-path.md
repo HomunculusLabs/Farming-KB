@@ -1,8 +1,9 @@
 ---
-title: "Mahayana and [[fukuoka-mahayana-and-hinayana-natural-farming]] Farming Paths"
+title: Fukuoka Textdoc Mahayana Hinayana Natural Farming Path
 created: 2026-05-09
 updated: 2026-05-09
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "Fukuoka, The Natural Way of Farming (1985)"
 type: concept
 tags: [natural-farming, philosophy, mu, spirituality, ecology]
@@ -87,46 +88,3 @@ The key practice is to study abandoned fields and forests to see how
 nature recovers when human influence is removed. By examining abandoned
 nature, one learns of the true nature revealed when the effects of man's
 earlier actions begin to fade. However, this alone will not suffice to
-know nature in its true form. Even nature stripped of all human action
-and influence is still only nature as seen through man's relativity — a
-nature clothed in the subjective notions of man.
-
-## Stripping Away Subjective Perception
-
-To follow the path of natural farming fully, one must tear the robes of
-human action from nature and remove the innermost garments of subjectivity.
-This means rejecting all assumptions, knowledge, and action — not
-thinking, not seeing, not doing. That nature is God.
-
-If we strip away the layers of human knowledge and action from nature one
-by one, true nature will emerge of itself. A good look at the natural
-order thus revealed will show just how great have been the errors
-committed by science. The scientific world of "somethingness" is smaller
-than the natural world of "nothingness." No degree of expansion can enable
-the world of science to arrive at the vast, limitless world of nature.
-
-The philosophical conviction underlying this approach is that if man makes
-a genuine effort to approach nature, then even should he abandon all deeds
-and actions, nature will take each of these over and perform them for him.
-To start from Mu and return to Mu — that is natural farming.
-
-## The Sword-Fighting Analogy
-
-The martial metaphor illuminates the practical distinction between the
-paths. Scientific farming uses all possible means at its disposal,
-increasing the number of swords — more inputs, more technology, more
-intervention. Natural farming tries to obtain the best possible results
-while rendering all means useless, in effect reducing the number of its
-swords (Hinayana) or doing entirely without (Mahayana).
-
-The direction in which Hinayana natural farming points leads beyond the
-world of science and toward a rejection of scientific thinking. In this
-respect, it resembles the position of the Eastern arts of healing vis-à-
-vis [[fukuoka-eastern-western-medicine-healing-world-crisis]]. To explain the methods of Hinayana farming, one has
-no choice but to borrow the terms and methods of science, yet its true
-direction is always away from science and toward the absolute.
-
-## See Also
-- [[mahayana-natural-farming]]
-- [[natural-farming]]
-- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]

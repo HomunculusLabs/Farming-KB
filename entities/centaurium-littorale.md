@@ -22,7 +22,7 @@ sources:
 
 Centaurium littorale, the seashore centaury, is an annual herb in the family Gentianaceae. It is native to coastal regions of western and northern Europe, where it grows in saltmarsh margins, dune slacks, and sandy sea cliffs.
 
-The species is distinguished from the common centaury (Centaurium erythraea) by its smaller stature, coastal habitat, and compact inflorescence. It is one of several Centaurium species adapted to saline-influenced environments.
+The species is distinguished from the common centaury ([[centaurium-erythraea]]) by its smaller stature, coastal habitat, and compact inflorescence. It is one of several Centaurium species adapted to saline-influenced environments.
 
 Flowers are pink to rose-pink, produced in dense cymose clusters from June to September. Despite its restricted habitat, the species can be locally abundant in suitable coastal sites.
 
@@ -30,7 +30,7 @@ Flowers are pink to rose-pink, produced in dense cymose clusters from June to Se
 
 **Classification:** Kingdom Plantae → Order Gentianales → Family Gentianaceae → Genus Centaurium → Species C. littorale (D.Turner) Gilmour
 
-Stems are erect, simple or branched from the base, reaching 5–25 cm in height. The compact growth form distinguishes it from the taller C. erythraea.
+Stems are erect, simple or branched from the base, reaching 5–25 cm in height. The [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form distinguishes it from the taller C. erythraea.
 
 The stem is typically glabrous, with prominent ridges running the length. Branching is more pronounced in open-grown plants with ample space.
 
@@ -62,7 +62,7 @@ The species has a classic Atlantic biogeographic distribution. Its range closely
 
 ## Ecology
 
-Centaurium littorale is a therophyte (annual), completing its entire life cycle within one growing season. Seeds germinate in spring after a period of after-ripening.
+Centaurium littorale is a therophyte (annual), completing its entire [[agaricus-campestris-biology-and-life-cycle]] within one [[extending-growing-season]]. Seeds germinate in spring after a period of after-ripening.
 
 Pollination is by a wide range of insects including flies, bees, and small butterflies. The pink corollas are highly visible against the pale sand of its coastal habitats.
 
@@ -74,7 +74,7 @@ The species functions as a pioneer in disturbed coastal habitats. It colonizes b
 
 Population sizes fluctuate dramatically between years, driven by weather conditions during germination and establishment. Hot, dry springs can cause mass germination failure.
 
-Competition from perennial grasses, especially Ammophila arenaria and Festuca rubra, limits long-term persistence at any single site. The species depends on periodic disturbance for population renewal.
+Competition from perennial grasses, especially Ammophila arenaria and [[festuca-rubra]], limits long-term persistence at any single site. The species depends on periodic disturbance for population renewal.
 
 Sea-level rise poses a long-term threat to populations on low-lying dune systems. However, new habitat may be created at the landward margin of retreating shorelines if space allows.
 
@@ -87,34 +87,3 @@ Historically, coastal populations of centaury were gathered as a bitter tonic he
 In folk medicine along the coasts of Brittany and Wales, the plant was infused as a digestive remedy. The preparation was known by various local names referencing its coastal habitat.
 
 Modern herbalism rarely distinguishes between Centaurium species. The genus as a whole is used as a bitter tonic to stimulate digestive secretions and appetite.
-
-No specific pharmacological studies have been conducted on C. littorale. Its chemistry is assumed to be similar to C. erythraea based on the close phylogenetic relationship.
-
-The genus name Centaurium derives from the Greek centaur Chiron, who was credited with knowledge of medicinal herbs. This mythological association underscores the long history of centaury use in European herbalism.
-
-## Cultivation
-
-Centaurium littorale is rarely cultivated but can be grown in coastal gardens or rock gardens with appropriate conditions. It requires full sun and well-drained, sandy soil.
-
-Seeds should be surface-sown in autumn, as they require exposure to winter conditions for optimal germination. Germination typically occurs in March or April.
-
-The species is not frost-tender but seedlings are vulnerable to competition. Open, bare ground is essential for successful establishment.
-
-No notable pests or diseases affect the species in cultivation. Slug damage is minimal due to the bitter foliage.
-
-Annual self-seeding can maintain a population in suitable garden conditions. However, the species will not persist where perennial vegetation becomes dense.
-
-The plant can be grown effectively in containers of sandy compost. This approach is useful for gardeners living inland who wish to grow coastal species.
-
-## See Also
-
-- [[centaurium-erythraea]]
-- [[centaurium-pulchellum]]
-- [[gentiana-lutea]]
-- [[gentiana-amarella]]
-- [[swertia-perennis]]
-- [[exacum-affine]]
-- [[lobelia-erinus]]
-- [[gentianella-campestris]]
-- [[primula-veris]]
-- [[ranunculus-acris]]

@@ -23,7 +23,7 @@ sources:
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
   - Panossian, A. & Wikman, G. (2008). "Pharmacology of Schisandra chinensis Bail.: An Overview of Russian Research and Uses in Medicine." J. Ethnopharmacol., 118(2), 183–212.
   - Huang, W.H. et al. (2007). "Schisandrin B from Schisandra chinensis Protects Heart from Ischemia-Reperfusion Injury." Cell Mol. Life Sci., 64(4), 408–421.
-  - Li, X.N. et al. (2012). "Chemical Constituents of Schisandra sphenanthera." J. Asian Nat. Prod. Res., 14(4), 341–345.
+  - Li, X.N. et al. (2012). "[[guzman-magic-mushrooms-chemical-constituents]] of Schisandra sphenanthera." J. Asian Nat. Prod. Res., 14(4), 341–345.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:593039-1
 aliases:
   - Chinese Magnolia Vine
@@ -79,7 +79,7 @@ The primary bioactive constituents are dibenzocyclooctadiene lignans, a class of
 
 **Major lignans:** Schisandrin A (schisandrol A) is the predominant lignan and the pharmacopoeial marker compound. Schisandrin B (schisandrol B) is present in smaller quantities compared to *S. chinensis*. Schisandrin C, schisantherin A, schisantherin B, and schisandrol B are also significant.
 
-**Other compounds:** The fruit contains triterpenoids (schisandronic acid), volatile oils, organic acids (citric, malic, tartaric), vitamins C and E, and trace minerals.
+**Other compounds:** The fruit contains triterpenoids (schisandronic acid), volatile oils, organic acids (citric, malic, tartaric), vitamins C and E, and [[dynamic-accumulator-plants-trace-minerals]].
 
 Total lignan content is typically 3–7% dry weight, with schisandrin A constituting approximately 0.4–1.2%.
 
@@ -88,31 +88,3 @@ Total lignan content is typically 3–7% dry weight, with schisandrin A constitu
 Studies demonstrate protection against carbon tetrachloride, acetaminophen, and alcohol-induced liver damage in animal models.
 
 **Antioxidant effects:** Lignans from *S. sphenanthera* scavenge free radicals and upregulate endogenous antioxidant enzyme systems (superoxide dismutase, catalase, glutathione peroxidase).
-
-**Immunomodulatory activity:** Extracts enhance both innate and adaptive immune responses, increasing macrophage activity and lymphocyte proliferation. These effects support the traditional classification of Schisandra fruits as adaptogens.
-
-**Anti-inflammatory effects:** Lignans inhibit NF-κB signaling and reduce pro-inflammatory cytokine production (TNF-α, IL-6, IL-1β) in vitro and in vivo.
-
-**Neuroprotective potential:** Preliminary evidence suggests schisandrin A may protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and amyloid-β toxicity, though clinical data are limited.
-
-## Traditional Use and Modern Applications
-
-**TCM classification:** Sour and warm; enters the Lung, Heart, and Kidney meridians. Astringent, tonic, and calming. Used to consolidate leakage (excessive sweating, nocturnal emissions, chronic diarrhea), calm the spirit (insomnia, palpitations), and tonify Qi.
-
-**Key differences from S. chinensis:** In TCM practice, *S. sphenanthera* is considered slightly milder and is primarily used for respiratory astringency (chronic cough, wheezing). *S. chinensis* is considered the superior tonic for kidney and liver support.
-
-**Modern supplements:** Schisandra extract is used in hepatoprotective formulations, adaptogenic tonic blends, and sports nutrition products. Most commercial supplements use *S. chinensis* extract standardized to schisandrin B; *S. sphenanthera* extracts are less common internationally.
-
-**Cultivation:** Grown commercially in Hubei, Sichuan, and Shaanxi provinces. Vines require sturdy trellising, partial shade, and well-drained acidic soils. Harvest begins 4–5 years after planting, with peak production at 8–10 years.
-
-## See Also
-
-- [[schisandra-chinensis]] — Northern five-flavor berry, the more widely known congener
-- [[gynostemma-pentaphyllum]] — Jiaogulan, another Chinese adaptogen vine
-- [[panax-ginseng]] — Korean ginseng, premier Qi tonic in TCM
-- [[astragalus-membranaceus]] — Huang-qi, major adaptogenic legume
-- [[rhodiola-rosea]] — Arctic root, well-studied adaptogen herb
-- [[scutellaria-baicalensis]] — Huang-qin, hepatoprotective TCM herb
-- [[glycyrrhiza-uralensis]] — Chinese licorice, harmonizing herb in TCM
-- [[codonopsis-pilosula]] — Dang-shen, gentler ginseng alternative
-- [[andrographis-paniculata]] — Green chiretta, hepatoprotective bitter herb

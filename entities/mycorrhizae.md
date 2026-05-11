@@ -22,7 +22,7 @@ created: 2026-05-07
 
 # Mycorrhizae
 
-Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and plant roots, found in over 80% of terrestrial plant species. The term comes from the Greek *mykes* (fungus) and *rhiza* (root). These mutualistic relationships are among the most widespread and ecologically important on Earth, forming a underground network sometimes called the **"Wood Wide Web"** that facilitates nutrient exchange and inter-plant communication.
+Mycorrhizae (singular: mycorrhiza) are symbiotic associations between fungi and plant roots, found in over 80% of terrestrial plant species. The term comes from the Greek *mykes* (fungus) and *rhiza* (root). These mutualistic relationships are among the most widespread and ecologically important on Earth, forming a [[teaming-with-microbes-fungi-the-underground-network]] sometimes called the **"Wood Wide Web"** that facilitates nutrient exchange and inter-plant communication.
 
 ## Types of Mycorrhizae
 
@@ -55,7 +55,7 @@ AMF inoculation has shown consistent yield improvements in:
 
 ### Soil Restoration
 
-Mycorrhizal fungi are critical in ecological restoration:
+Mycorrhizal fungi are critical in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]:
 - Mine tailings reclamation: AMF improve heavy metal tolerance and soil aggregation
 - Degraded pasture recovery: Inoculation accelerates native plant recolonization
 - [[permplant-willows-salix-erosion-control-fodder]]: Extraradical hyphae and glomalin (a glycoprotein produced by AMF) bind soil particles into stable aggregates
@@ -63,12 +63,12 @@ Mycorrhizal fungi are critical in ecological restoration:
 ### Permaculture Design
 
 In permaculture systems, mycorrhizal health is supported through:
-- **Minimal tillage**: Preserves hyphal networks; conventional tillage can reduce AMF colonization by 40–70%
+- **[[coleman-bed-preparation-and-minimal-tillage]]**: Preserves hyphal networks; [[comparison-no-till-vs-conventional-tillage]] can reduce AMF colonization by 40–70%
 - **Polyculture**: Diverse plant communities maintain diverse AMF communities
 - **Cover cropping**: Living roots year-round sustain fungal populations
 - **Avoiding high-phosphorus fertilizers**: Soluble P suppresses AMF colonization by removing the plant's dependency on fungal P uptake
 - **Wood chip mulches**: Favor ECM fungi and suppresses pathogenic soil organisms
-- **Mycorrhizal inoculants**: Commercial products containing *Rhizophagus irregularis* and mixed species blends for transplant establishment
+- **Mycorrhizal inoculants**: Commercial products containing *[[rhizophagus-irregularis]]* and mixed species blends for [[solomon-fertigation-and-transplant-establishment]]
 
 ## Ecological Significance
 
@@ -88,40 +88,3 @@ The earliest evidence of mycorrhizal associations comes from the Ordovician (~46
 The global mycorrhizal inoculant market has grown substantially, with products targeting agriculture, horticulture, and ecological restoration. Key considerations:
 
 - **Species selection**: *Rhizophagus irregularis* (formerly *Glomus intraradices*) is the most commonly used AMF species in commercial products due to ease of cultivation and broad host compatibility
-- **Multi-species blends**: Premium products combine 4–8 AMF species plus ectomycorrhizal species for broader application
-- **Carrier media**: Peat-based, vermiculite-based, or liquid formulations; spore viability varies dramatically between products (10⁻⁹⁰% germination)
-- **Application timing**: Most effective when applied at transplant or seeding; established plants benefit less from inoculation
-- **Quality concerns**: The mycorrhizal inoculant industry is largely unregulated, and independent testing has found that many commercial products contain far fewer viable propagules than claimed on the label. The USDA has no standardized testing protocol for mycorrhizal inoculant quality
-
-## Mycorrhizae and Plant Communication
-
-Research since the mid-2010s has revealed that common mycorrhizal networks serve as conduits for inter-plant [[plant-hormones-and-chemical-signaling-systems]]:
-
-- **Herbivore defense signals**: Tomato plants connected via CMN increase production of defensive volatile organic compounds (VOCs) when neighboring plants are attacked by herbivores
-- **Drought signaling**: Water-stressed plants transmit hydraulic and [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through CMNs that trigger stomatal closure in connected, non-stressed plants
-- **Allelopathy**: Some plants use CMNs to transfer allelopathic compounds that suppress competitor growth (e.g., black walnut *Juglans nigra* juglone transfer)
-- **Carbon sharing among kin**: Studies in *Ambrosia psilostachya* (sandhill ragweed) and Douglas-fir suggest that plants preferentially share carbon with genetically related individuals through CMNs, though this remains debated
-
-## Glomalin and Soil Carbon
-
-AMF produce a glycoprotein called **glomalin** (more precisely, glomalin-related soil protein, GRSP) that coats hyphal walls and persists in soil for 7–42 years. GRSP constitutes 27% of total soil carbon in some ecosystems and plays critical roles in:
-
-- Soil aggregate stability (binding micro-aggregates into macro-aggregates)
-- Long-term carbon sequestration
-- Metal immobilization (binding Cu, Zn, Cd, Pb)
-- Water retention and soil structure maintenance
-
-GRSP concentrations are used as a bioindicator of AMF activity and soil health in ecological assessments.
-
-## Threats
-
-- **[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]** shifts forest composition from ECM-dominated to AM-dominated communities and reduces overall mycorrhizal diversity
-- **Soil compaction** from heavy machinery destroys hyphal networks; recovery may take 3–10 years
-- **Fungicides** (especially phosphonates and some triazoles) reduce [[arbuscular-mycorrhizal-colonization-patterns]] in agricultural systems
-- **Phosphorus saturation**: Long-term application of high-P fertilizers can permanently reduce a soil's mycorrhizal inoculum potential
-- **Climate change**: Altered precipitation patterns and warming temperatures may disrupt the timing of plant-fungal phenological synchrony
-- **Monoculture agriculture**: Reduces mycorrhizal diversity to 10–20% of levels found in natural ecosystems; cover cropping can partially restore diversity
-## See Also
-
-- [[ericoid-and-orchid-mycorrhizae]]
-- [[symbiotic-fungi-arbuscular-mycorrhizal-mechanisms]]

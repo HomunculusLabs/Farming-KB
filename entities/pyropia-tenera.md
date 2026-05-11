@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Niwa K. et al. (2009). "Genetic diversity of the red alga Porphyra yezoensis (Bangiales, Rhodophyta) from the coast of Japanese archipelago." Fisheries Science.
+  - Niwa K. et al. (2009). "biodiversity-fungal-genetic-diversity of the red alga porphyra-yezoensis (Bangiales, Rhodophyta) from the coast of Japanese archipelago." Fisheries Science.
   - Miura A. (1975). "Porphyra cultivation in Japan." In Tokida J. & H. Hirose (eds.), Advances in Phycology in Japan.
   - Sutherland J. E. et al. (2011). "A new look at an ancient order: generic revision of the Bangiales." Journal of Phycology.
   - "Pyropia tenera." AlgaeBase. https://www.algaebase.org/
@@ -22,7 +22,7 @@ Pyropia tenera is a red alga in the family Bangiaceae, one of the principal spec
 
 The species is native to the northwest Pacific, where it has been cultivated for over 300 years. Nori produced from P. tenera is regarded as premium quality, with a smooth texture, rich umami flavor, and deep greenish-black color.
 
-P. tenera has a unique biphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase that bores into mollusk shells and a macroscopic leafy gametophyte phase harvested for food. This life cycle complexity was only fully elucidated by Kathleen Drew-Baker in 1949.
+P. tenera has a unique biphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] alternating between a microscopic conchocelis phase that bores into mollusk shells and a macroscopic leafy gametophyte phase harvested for food. This [[agaricus-campestris-biology-and-life-cycle]] complexity was only fully elucidated by Kathleen Drew-Baker in 1949.
 
 ## Taxonomy and Morphology
 
@@ -36,7 +36,7 @@ The blade is membranous and translucent, with a single layer of cells visible un
 
 Color in healthy specimens is deep purplish-red to dark green, becoming nearly black when dried. The species has a higher chlorophyll a content relative to phycobiliproteins compared to P. yezoensis.
 
-Reproductive structures include spermatangia and carpogonia on the gametophyte. The conchocelis phase produces conchospores that give rise to the next generation of blade-like gametophytes.
+Reproductive structures include spermatangia and carpogonia on the gametophyte. The conchocelis phase produces conchospores that give rise to the [[next-generation-sequencing-hidden-fungal-diversity]] of blade-like gametophytes.
 
 ## Distribution and Habitat
 
@@ -68,7 +68,7 @@ Nori cultivation in Japan began in the Edo period (1603–1868) using simple pol
 
 Nets are deployed in estuaries and bays in autumn, with the first harvest typically 45–60 days after seeding. Multiple harvests from the same net are possible, with total seasonal yields of 30–50 kg dried nori per 100 square meters of net.
 
-P. tenera has been largely replaced by P. yezoensis in commercial cultivation due to its susceptibility to disease and narrower temperature tolerance. It is now primarily cultivated in premium nori operations in Ariake Bay and parts of the Seto Inland Sea.
+P. tenera has been largely replaced by P. yezoensis in commercial cultivation due to its susceptibility to disease and narrower [[mycorrhizal-drought-and-temperature-tolerance]]. It is now primarily cultivated in premium nori operations in Ariake Bay and parts of the Seto Inland Sea.
 
 Ariake Bay produces the highest-value nori in Japan, with P. tenera commanding premium prices.
 
@@ -87,31 +87,3 @@ China and Korea are the other major nori-producing nations, with combined output
 Research into Pyropia genomics has made P. tenera and its relatives model organisms for studying red algal biology. The nuclear genome of Pyropia species is among the smallest known for eukaryotes, facilitating genomic studies.
 
 ## Related Species
-
-The genus Pyropia contains over 130 species worldwide. P. yezoensis is the most commercially important, dominating nori production in Japan, Korea, and China.
-
-P. haitanensis is the primary nori species cultivated in southern China, adapted to warmer waters than P. tenera or P. yezoensis. It produces thicker, darker fronds with a slightly different flavor profile.
-
-P. umbilicalis is the native species of the north Atlantic, historically harvested in Ireland and Wales as laverbread. It has a broader blade and more robust texture than the cultivated Pacific species.
-
-P. leucosticta occurs in the north Atlantic and Mediterranean and has been investigated for aquaculture potential in Europe. It tolerates higher temperatures than most other Pyropia species.
-
-## Conservation and Genetic Considerations
-
-Wild populations of P. tenera have declined significantly due to coastal development, pollution, and competition with cultivated strains. Natural populations are now considered rare in many parts of Japan.
-
-The escape of cultivated strains into natural habitats raises concerns about genetic introgression. Cultivated strains are genetically distinct and may hybridize with wild populations, reducing local adaptation.
-
-Efforts to conserve wild genetic diversity include the establishment of germplasm banks and protected harvest areas. Maintaining genetic diversity is critical for breeding programs developing disease-resistant cultivars.
-
-## See Also
-
-- [[pyropia-haitanensis]]
-- [[conocybe-tenera]]
-
-- [[pyropia-yezoensis]]
-- [[ulva-lactuca]]
-- [[gracilaria-verrucosa]]
-- [[saccharina-latissima]]
-- [[kappaphycus-alvarezii]]
-- [[fucus-vesiculosus]]

@@ -18,7 +18,7 @@ type: concept
 
 ## Overview
 
-The language surrounding hallucinogenic mushrooms is rich and varied, reflecting both the cultural context of use and the commercial strategies of retailers. In the case of hallucinogenic mushrooms, there is significant overlap between brand names created by retailers and organic users terms that have developed within drug using communities. These terms and names often reflect changing market strategies, new trends, and the evolving social groups who sell and use these substances.
+The language surrounding [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] is rich and varied, reflecting both the [[ayahuasca-pharmacology-and-cultural-context]] of use and the commercial strategies of retailers. In the case [[health-risks-of-hallucinogenic-mushrooms]], there is significant overlap between brand names created by retailers and organic users terms that have developed within drug using communities. These terms and names often reflect changing market strategies, new trends, and the evolving social groups who sell and use these substances.
 
 ## Common English Language Terms
 
@@ -33,7 +33,7 @@ Hallucinogenic mushrooms are most widely known by the colloquial name "magic mus
 - **Caps** - a general term referencing the cap of the mushroom
 - **Philosopher's Stone** - used to describe sclerotia of certain species, notably Psilocybe mexicana
 - **Sacred Mushrooms** - a term emphasizing the spiritual and ceremonial associations
-- **Teonanacatl** - the Aztec name meaning "divine flesh" or "flesh of god," which has gained popularity with users interested in indigenous traditions
+- **Teonanacatl** - the Aztec name meaning "divine flesh" or "flesh of god," which has gained popularity with users interested in [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
 - **Mexican Mushrooms** - referring to the cubensis varieties originating from Mexico
 - **Moon Children** - a poetic term used among some user communities
 
@@ -42,7 +42,7 @@ Hallucinogenic mushrooms are most widely known by the colloquial name "magic mus
 Across European countries, hallucinogenic mushrooms have distinct names in local languages that reflect both the pharmacological understanding and cultural perceptions of the substances:
 
 - **Dutch:** "Paddos" is the most common term, used widely in smartshop culture
-- **German:** "Zauberpilze" (magic mushrooms) and "Psychoaktive Pilze" (psychoactive mushrooms)
+- **German:** "Zauberpilze" (magic mushrooms) and "Psychoaktive Pilze" ([[ceremonial-shamanic-use-psychoactive-mushrooms]])
 - **French:** "Champignons hallucinogenes" or the abbreviated "Champis"
 - **Spanish:** "Hongos alucinogenos," "Hongos lisergicos," and "Honguitos"
 - **Italian:** "Funghi magici"
@@ -77,7 +77,7 @@ With the commercialisation of hallucinogenic mushrooms by smartshops beginning i
 - **Philosopher's Stone** - marketed as a premium product, describing the sclerotia of Psilocybe mexicana sold by many smartshops as a truffle like product
 - **Herbal Highs** - a general marketing label used by retailers following the trend in the late 1990s toward preference for organic and herbal products
 - **Herbal XTC** - a marketing label for products containing stimulant herbs such as Ephedra alkaloids, Sida Cordifolia, Guarana, and Caffeine
-- **Mexican, Thai, Colombian, Amazonian** - variety names for Psilocybe [[psilocybe-cubensis-strains-names-and-marketing]] marketed by smartshops, reflecting their geographic origins
+- **Mexican, Thai, Colombian, Amazonian** - variety names for Psilocybe [[psilocybe-cubensis-strains-names-and-marketing]] marketed by smartshops, reflecting their [[sativa-landrace-strains-and-geographic-origins]]
 
 ## Aztec Terminology
 
@@ -88,36 +88,3 @@ The term **Teonanacatl** has gained particular popularity among users interested
 The evolution of terminology around hallucinogenic mushrooms reflects several important dynamics that illustrate the relationship between language, commerce, and drug culture:
 
 1. **Commercial influence** - Smartshops and online retailers actively create and promote brand names that make products more appealing and marketable. The shift from clinical terms to consumer friendly language mirrors broader trends in drug marketing
-2. **Cultural appropriation** - Terms like "teonanacatl" and "sacred mushrooms" borrow from indigenous traditions to lend cultural legitimacy to recreational use, raising ethical questions about the appropriation of sacred practices
-3. **Normalization** - Friendly colloquial terms like "shrooms" and "mushies" serve to normalize use and reduce perceived risk. The more casually a substance is named, the less dangerous it may appear to potential users
-4. **Regulatory response** - Legal terminology struggles to keep pace with market innovation, as retailers continuously develop new names and product descriptions that may evade existing legal definitions
-5. **Information seeking** - The proliferation of terminology across multiple languages complicates public health messaging and drug education efforts, as users searching for information may encounter many different terms for the same substances
-
-## The "Herbal High" Marketing Phenomenon
-
-The late 1990s saw the emergence of the "herbal high" as a distinct marketing category in smartshops. This term served several strategic purposes for retailers:
-
-- **Natural association** - Positioning hallucinogenic [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] herbal teas and natural remedies
-- **Legal distinction** - Implies a product category separate from illegal synthetic drugs
-- **Consumer appeal** - Taps into broader consumer trends favouring natural and organic products
-- **Risk minimisation** - Suggests gentler effects compared to synthetic alternatives
-
-Under the "herbal highs" umbrella, numerous other products were marketed alongside hallucinogenic mushrooms, including herbal ecstasy preparations containing Ephedra alkaloids, Sida Cordifolia, Guarana, Caffeine, Siberian Ginseng, and Kola nut. These products typically had stimulating and energizing effects, creating a product ecosystem that normalised the purchase and use of psychoactive substances in retail settings.
-
-## Language and Perception
-
-The choice of terminology has measurable effects on risk perception and behavioural intentions. Research on drug terminology more broadly suggests that:
-
-- Users who refer to substances using clinical or legal terminology tend to perceive greater risk
-- Colloquial and playful names reduce anxiety about experimentation
-- Brand names that emphasise natural or spiritual qualities may lower perceived risk relative to synthetic alternatives
-- The adoption of indigenous terminology can create a sense of cultural authenticity that legitimises use
-
-These dynamics are particularly relevant for hallucinogenic mushrooms, where the tension between "psychedelic" (user preferred, positive connotations) and "hallucinogenic" (clinically adopted, more neutral to negative connotations) reflects fundamental disagreements about the nature and value of these experiences.
-
-## See Also
-- [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[psilocybe-mexicana]]
-- [[sida-cordifolia]]
-- [[psilocybe-semilanceata]]

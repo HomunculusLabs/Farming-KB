@@ -87,30 +87,3 @@ Bioassays have been used to assess the impacts of tillage, crop rotation, [[cerv
 In restoration ecology, bioassays help evaluate the recovery of mycorrhizal communities after disturbance and the effectiveness of inoculation strategies.
 
 ## Molecular Approaches
-
-Molecular assays complement traditional bioassay methods by enabling identification of AM fungal species in root and soil samples without the need for spore morphology assessment.
-
-Molecular techniques including PCR-based detection, T-RFLP, and next-generation sequencing provide higher resolution of AM fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
-
-However, bioassays remain essential for assessing functional infectivity, which molecular methods alone cannot determine.
-
-## Limitations
-
-Several limitations affect mycorrhiza bioassays.
-
-The choice of trap plant species influences colonization results, making comparisons between studies using different bioassay plants difficult.
-
-Bioassay duration must be sufficient for detectable colonization but not so long that secondary effects confound results.
-
-Soil chemical changes during bioassay growth (nutrient depletion, pH shifts) can alter infectivity measurements.
-
-The lack of standardization across laboratories limits meta-analysis and comparison of results from different studies.
-
-## See Also
-
-- [[mycorrhizal-inoculum-reduction-techniques-comparative]]
-
-- [[mycorrhizal-fungi]]
-
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[symbiotic-fungi-mycorrhizal-inoculum-production]]

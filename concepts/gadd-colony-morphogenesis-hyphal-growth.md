@@ -1,5 +1,5 @@
 ---
-title: gadd colony morphogenesis hyphal growth and Hyphal Growth in Filamentous Fungi
+title: Gadd Colony Morphogenesis Hyphal Growth
 created: 2026-04-28
 tags:
   - hyphal-growth
@@ -48,7 +48,7 @@ typically much longer than sub-apical compartments.
 ## Cell types derived from hyphae
 
 Filamentous fungi produce several cell types: uninucleate spores, yeast
-cells, and other determinate cell types including infection structures
+cells, and other determinate cell types including [[fungal-appressorium-and-infection-structures]]
 (appressoria, haustoria), basidia, cystidia, adhesive knobs, and
 nematophagous rings. All determinate cell types are derived from hyphae.
 More extensive multicellular development requires hyphal aggregation to
@@ -59,7 +59,7 @@ pseudoparenchymatous or prosenchymatous.
 
 Hyphal aggregates form complex multicellular systems including fruit
 bodies (ascomata, basidiomata, conidiomata), sclerotia, rhizomorphs,
-and mycelial cords. Neurospora crassa has 28 morphologically distinct
+and mycelial cords. [[neurospora-crassa]] has 28 morphologically distinct
 cell types. The mechanism of fungal multicellular development, involving
 specialisation of hyphal compartments from aggregated hyphae, is
 fundamentally different from animal or plant multicellularity.
@@ -70,7 +70,7 @@ Fungi combine features of animals (heterotrophic) and plants
 (non-motile). Being non-motile and heterotrophic has introduced
 selection pressures that shaped characteristic features. Hyphae respond
 sensitively and rapidly to myriad signals in heterogeneous
-microenvironments. Growth direction and branching patterns change
+microenvironments. [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] and branching patterns change
 quickly, and hyphae can grow from unfavourable to favourable
 environments. Sporulation can be initiated rapidly to resist or escape
 adverse conditions.
@@ -80,7 +80,7 @@ adverse conditions.
 In the peripheral growth zone, hyphae avoid each other and do not fuse.
 In sub-peripheral regions, certain hyphal branches home towards each
 other and fuse. This creates an interconnected network. Hyphal fusion
-results from directed growth of branches that actively seek compatible
+results from [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] of branches that actively seek compatible
 partners. These processes are regulated by autoregulatory signals
 produced by the fungus itself.
 
@@ -88,55 +88,3 @@ produced by the fungus itself.
 
 Filamentous fungi respond to four types of environmental signals:
 (a) abiotic and global (light intensity, wavelength, periodicity,
-    temperature, humidity);
-(b) abiotic and local (nutrient gradients, oxygen, carbon dioxide, pH,
-    [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]], mechanical stimuli, osmotic shock);
-(c) biotic signals from other organisms (chemicals promoting or
-    inhibiting growth, compounds modulating secondary metabolism,
-    physical and chemical cues from hosts);
-(d) autoregulatory signals from the fungus itself (germination
-    self-inhibitors, hyphal avoidance signals, hyphal homing signals,
-    quorum-sensing molecules).
-
-## Intracellular signal transduction
-
-Genome sequencing has revealed the complexity of fungal signalling
-machinery. Neurospora crassa possesses 35 predicted GPCRs compared to
-six in S. cerevisiae. Two-component signalling systems with hybrid
-proteins containing histidine kinase and response regulator domains are
-used extensively. Multiple Ras-like GTPases, cAMP signalling through
-adenylate cyclase and protein kinase A, and calcium signalling pathways
-all contribute to [[fungal-environmental-sensing-signal-transduction-read]] and developmental regulation.
-
-## G-protein signalling and MAP kinase cascades
-
-G-protein coupled receptors regulate second messengers through
-heterotrimeric G-proteins. N. crassa possesses more G-alpha subunits
-than yeast. G-protein signalling plays roles in hyphal growth,
-conidiation, female fertility, and stress responses. MAP kinase cascades
-transduce signals from receptors to transcriptional responses, with
-filamentous fungi possessing expanded MAP kinase pathways compared to
-yeasts.
-
-## Quorum sensing and density-dependent regulation
-
-Some autoregulatory signals function as quorum or cell density sensors,
-playing roles in yeast-hyphal dimorphism, [[fungal-chlamydospore-formation-and-survival]], and
-conidial fusion. Fungus-derived signals also regulate asexual and
-[[fungal-life-cycles-sexual-reproduction-metamorphosis]], including sex pheromones such as trisporic acid
-in Mucorales and peptide pheromones in ascomycetes and basidiomycetes.
-
-## Adaptation to heterogeneous environments
-
-Fungi have evolved excellent digestive capabilities with diverse
-extracellular enzymes efficiently secreted into the environment.
-Soluble nutrients are absorbed through hyphae with high surface-area-
-to-volume ratios and efficient [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] processes. Hyphal
-growth allows efficient exploration of natural habitats and rapid
-capture of heterogeneously distributed nutrients and water.
-
-## Related concepts
-
-- [[gadd-fungal-cell-structure]]
-- [[gadd-mycelial-network-dynamics]]
-- [[gadd-fungal-biofilms-quorum-sensing]]

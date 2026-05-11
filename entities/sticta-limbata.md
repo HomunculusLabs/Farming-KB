@@ -14,7 +14,7 @@ sources:
   - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward, T., McCune, B. & Meidinger, D. (1994). "The Lichens of British Columbia." Ministry of Forests, Victoria.
   - James, P.W. et al. (1977). "New or interesting British lichens IV." "Lichenologist" 9(2): 161–179.
-  - McCune, B. & Geiser, L. (2009). "Macrolichens of the Pacific Northwest." 2nd ed. Oregon State University Press.
+  - McCune, B. & Geiser, L. (2009). "Macrolichens of the [[psilocybin-north-america-pacific-northwest]]." 2nd ed. Oregon State University Press.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ The species is distinctive for its dual photobiont system — both a green alga 
 
 ## Taxonomy and Morphology
 
-*Sticta limbata* (Sm.) Ach. is classified in the order Peltigerales, family Lobariaceae. The species has a complex taxonomic history with several synonyms reflecting its wide geographic distribution and morphological variation.
+*Sticta limbata* (Sm.) Ach. is classified in the order Peltigerales, family Lobariaceae. The species has a complex taxonomic history with several synonyms reflecting its wide [[geographic-distribution-of-psilocybe-species]] and morphological variation.
 
 The upper surface is gray-green to brown when dry, becoming dark green and gelatinous when wet. It is tomentose across the center and more smooth toward the lobe margins. The thallus is loosely attached to the substrate and can become erect at the margins.
 
@@ -35,7 +35,7 @@ Cephalodia containing the cyanobacterial partner *Nostoc* are found on the upper
 
 ## Distribution and Habitat
 
-*Sticta limbata* has a predominantly southern hemisphere distribution, occurring in temperate rainforests of South America (Chile, Argentina), New Zealand, southeastern Australia, and parts of southern Africa. In the northern hemisphere it is found in oceanic regions of western Europe, the British Isles, and along the Pacific Northwest coast of North America.
+*Sticta limbata* has a predominantly [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]] distribution, occurring in temperate rainforests of South America (Chile, Argentina), New Zealand, southeastern Australia, and parts of southern Africa. In the northern hemisphere it is found in oceanic regions of western Europe, the British Isles, and along the Pacific Northwest coast [[berry-growing]].
 
 The species requires high atmospheric humidity and is restricted to areas with frequent fog and rainfall. It grows as an epiphyte on the trunks and branches of broadleaf trees in old-growth forests, particularly favoring *Nothofagus* in South America and New Zealand.
 
@@ -71,9 +71,9 @@ European herbal traditions attributed expectorant and demulcent properties to lu
 
 *Sticta sylvatica* is the closest relative and most frequently confused species. *S. sylvatica* typically has a more pronounced network of ridges on the upper surface and more abundant cephalodia.
 
-*Lobaria pulmonaria* occupies similar forest habitats but is larger, has reticulate ridges on the upper surface, and lacks cyphellae on the lower surface. *L. pulmonaria* is also a tripartite cyanolichen but is distinguished by its distinctive lung-like appearance.
+*[[lobaria-pulmonaria]]* occupies similar forest habitats but is larger, has reticulate ridges on the upper surface, and lacks cyphellae on the lower surface. *L. pulmonaria* is also a tripartite cyanolichen but is distinguished by its distinctive lung-like appearance.
 
-*Sticta fuliginosa* has a darker, more heavily tomentose upper surface and more closely appressed thallus. It tends to occur on more shaded and acidic bark substrates compared to *S. limbata*.
+*[[sticta-fuliginosa]]* has a darker, more heavily tomentose upper surface and more closely appressed thallus. It tends to occur on more shaded and acidic bark substrates compared to *S. limbata*.
 
 ## Reproduction and Dispersal
 
@@ -88,22 +88,3 @@ Fragmentation of the thallus during windstorms or animal disturbance also serves
 *Sticta limbata* is considered threatened or declining throughout much of its range due to habitat loss and air quality degradation. In Europe, it is listed as vulnerable on several national Red Lists and has disappeared from many historically documented sites.
 
 Old-growth forest clearance represents the primary threat to the species. Because *S. limbata* requires mature trees with established bark communities and stable microclimatic conditions, logged or fragmented forests provide unsuitable habitat.
-
-[[dighton-fungi-climate-change-feedback]] poses an additional long-term threat through altered precipitation patterns and increased frequency of drought events. The species' dependence on consistent atmospheric humidity makes it particularly vulnerable to warming and drying trends.
-
-Conservation efforts focus on preserving old-growth forest stands, maintaining canopy continuity, and reducing atmospheric pollution in key habitat areas. Translocation experiments have shown limited success due to the species' exacting habitat requirements.
-
-## See Also
-
-- [[sticta-fuliginosa]]
-- [[peltigera-aphthosa]]
-- [[peltigera-membranacea]]
-- [[nephroma-expansible]]
-- [[nephroma-laevigatum]]
-- [[evernia-prunastri]]
-- [[cetraria-nivalis]]
-- [[usnea-hirta]]
-- [[xanthoria-parietina]]
-- [[bryoria-fuscescens]]
-- [[mycelium]]
-- [[spore]]

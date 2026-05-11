@@ -14,14 +14,14 @@ sources:
   - USDA NRCS. "Schizachyrium scoparium." PLANTS Database.
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium, Utah State University.
-  - Harpes, J.L. et al. (2003). "Schizachyrium scoparium (Michx.) Nash." In: Flora of North America Vol. 25.
+  - Harpes, J.L. et al. (2003). "Schizachyrium scoparium (Michx.) Nash." In: Flora [[berry-growing]] Vol. 25.
 ---
 
 # Schizachyrium scoparium
 
 ## Overview
 
-**Schizachyrium scoparium** (Michx.) Nash, commonly known as little bluestem, is a perennial bunchgrass native to prairies, savannas, and open woodlands of North America. It is one of the dominant species of the tallgrass and mixed-grass prairies and is widely planted for ecological restoration, ornamental landscaping, and livestock forage.
+**Schizachyrium scoparium** (Michx.) Nash, commonly known as little bluestem, is a perennial bunchgrass native to prairies, savannas, and open woodlands of North America. It is one of the dominant species of the tallgrass and mixed-grass prairies and is widely planted for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], ornamental landscaping, and livestock forage.
 
 The species is recognized by its slender blue-green foliage that turns striking shades of copper, orange, and red in autumn. It typically grows 60–120 cm tall and forms dense basal tussocks with an upright, columnar habit.
 
@@ -45,7 +45,7 @@ Little bluestem is the official state grass of Nebraska and Kansas, reflecting i
 
 Little bluestem is a warm-season (C4) perennial bunchgrass forming dense tussocks 40–100 cm in diameter at the base. Culms are erect, slender, and 60–120 cm tall at maturity.
 
-Leaves are flat to involute, 10–30 cm long and 2–5 mm wide, with blue-green coloration during the growing season. The ligule is a short membrane (1–3 mm) fringed with cilia.
+Leaves are flat to involute, 10–30 cm long and 2–5 mm wide, with blue-green coloration during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. The ligule is a short membrane (1–3 mm) fringed with cilia.
 
 The inflorescence is a narrow, racemose panicle, 3–8 cm long, with paired spikelets. Each spikelet bears one sessile and one pedicellate floret; the sessile floret is fertile with a bent awn 8–15 mm long.
 
@@ -65,7 +65,7 @@ Elevation ranges from near sea level along the Atlantic coastal plain to approxi
 
 Little bluestem is propagated primarily by seed, though division of mature clumps is also effective. Cold stratification at 1–5°C for 30–60 days improves germination, which typically reaches 60–80% under optimal conditions.
 
-Seeding rates for pure stands are 4–6 kg PLS (pure live seed) per hectare. For prairie restoration mixtures, it constitutes 10–25% of the seed mix by weight. Fall or dormant seeding is preferred in northern regions.
+Seeding rates for pure stands are 4–6 kg PLS (pure live seed) per hectare. For [[comparison-prairie-restoration-vs-silvopasture]] mixtures, it constitutes 10–25% of the seed mix by weight. Fall or dormant seeding is preferred in northern regions.
 
 Establishment is slow, with plants investing heavily in root development during the first growing season. Flowering culms typically do not appear until the second or third year after seeding.
 
@@ -75,9 +75,9 @@ Numerous cultivars are available for ornamental use, including 'The Blues', 'Sta
 
 ## Ecological Role
 
-Schizachyrium scoparium is a foundational species in North American grassland ecosystems. It provides forage and habitat structure for a diverse assemblage of insects, birds, and mammals.
+Schizachyrium scoparium is a foundational species in North American [[biodiversity-fungi-grassland-ecosystems]]. It provides forage and habitat structure for a diverse assemblage of insects, birds, and mammals.
 
-The deep fibrous root system makes it exceptionally effective at soil stabilization and erosion control on slopes, roadsides, and reclaimed mine lands. Root biomass often exceeds above-ground biomass by a ratio of 2:1.
+The deep fibrous root system makes it exceptionally effective at soil stabilization [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on slopes, roadsides, and reclaimed mine lands. Root biomass often exceeds above-ground biomass by a ratio of 2:1.
 
 Over 20 species of Lepidoptera use little bluestem as a larval host plant, including several grass skippers (Hesperiidae). Seeds are consumed by sparrows, finches, juncos, and wild turkeys throughout winter.
 
@@ -88,23 +88,3 @@ It serves as a nurse crop in prairie restorations, protecting slower-establishin
 ## Cultural and Economic Significance
 
 Little bluestem was historically one of the most important native forage grasses of the North American prairie. Before European settlement and the widespread introduction of non-native pasture species, it supported vast herds of bison, elk, and pronghorn.
-
-It remains a valuable forage species for cattle in native rangeland systems, with crude protein content of 6–10% during the growing season. Nutritional quality declines after frost, though cured standing forage provides acceptable winter roughage.
-
-In the ornamental horticulture industry, little bluestem is one of the most widely planted native grasses. It is valued for its low maintenance requirements, drought tolerance, four-season visual interest, and dramatic fall color display.
-
-The species is extensively used in ecological restoration, roadside revegetation, stormwater management basins, and green roof installations. Its adaptability to poor soils and minimal water requirements make it a key species in sustainable landscaping.
-
-Several Native American peoples traditionally used little bluestem for thatching, basket weaving, and as a component of ceremonial bundles. The Comanche used the dried stems as arrow shafts.
-
-## See Also
-
-- [[andropogon-gerardii]]
-- [[panicum-virgatum]]
-- [[bouteloua-curtipendula]]
-- [[bouteloua-gracilis]]
-- [[festuca-ovina]]
-- [[deschampsia-caespitosa]]
-- [[muhlenbergia-capillaris]]
-- [[spartina-alterniflora]]
-- [[miscanthus-sinensis]]

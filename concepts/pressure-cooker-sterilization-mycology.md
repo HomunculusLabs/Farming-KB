@@ -88,35 +88,3 @@ The most common problem during pressure sterilization of bags is bags bursting o
 ## Post-Sterilization Handling
 
 After sterilization, the substrate is at its most vulnerable to recontamination. The time between opening the cooker and completing inoculation is the highest-risk period:
-
-- **Work clean**: Inoculation should be performed in the cleanest available environment. A still-air box (glove box) or laminar flow hood is strongly recommended. At minimum, work in a small, enclosed room with no air currents.
-- **Cool completely**: Allow bags to cool to room temperature before inoculation. Hot substrate will kill the mushroom spores or mycelium. Cooling typically takes 8-12 hours.
-- **Minimize exposure time**: The less time the substrate is exposed to open air, the lower the contamination risk. Have all tools and materials ready before opening the bag.
-- **Flame sterilize tools**: Needle, syringe, and any other tools that contact the substrate should be flame-sterilized before each use. A butane torch or alcohol lamp works well for this purpose.
-
-## Troubleshooting Sterilization Failures
-
-When contamination occurs despite pressure sterilization, the cause can usually be traced to one of several common issues:
-
-- **Incomplete cooling before inoculation**: The most common beginner mistake. If the substrate is still warm, the thermal shock kills the inoculant. Always verify the substrate is at room temperature by feeling the bag exterior.
-- **Damaged gasket**: If the pressure cooker gasket is old, cracked, or deformed, the cooker may not reach full pressure. Replace the gasket annually or whenever it shows signs of wear.
-- **Blocked vent pipe**: Food debris or mineral deposits can block the vent pipe, preventing steam from escaping and potentially causing over-pressurization. Clean the vent pipe before each use.
-- **Contaminated inoculant**: Sometimes the sterilization was successful but the spore syringe or liquid culture was already contaminated. Always verify inoculant quality before use.
-- **Post-inoculation contamination**: If contamination appears at the inoculation site, the [[cultivator-sterile-technique-and-agar-culture]] during inoculation was inadequate. Improve the workspace or use a glove box.
-
-## Safety Considerations
-
-Pressure cookers contain superheated steam under pressure and must be treated with respect:
-
-- **Never force open**: A pressurized cooker can release a blast of 121°C steam that causes severe burns. Always wait for complete depressurization before opening the lid or any valves.
-- **Inspect regularly**: Check the gasket, vent pipe, and pressure valve for blockages or damage before each use. A blocked vent pipe can cause the cooker to over-pressurize.
-- **Use on appropriate heat source**: Follow the manufacturer's guidelines. Most stove-top cookers should not exceed medium-high heat. Do not use on outdoor propane burners unless specifically rated for it.
-- **Do not overfill**: Never fill the cooker more than two-thirds full. Leave adequate headspace for steam generation and substrate expansion.
-- **Keep children and pets away**: Pressure cookers contain dangerous amounts of energy. The area around the cooker should be clear during operation.
-
-## See Also
-
-- [[straw-based-mushroom-substrate-preparation]]
-- spore syringe preparation mushroom cultivation
-- [[filter-can-design-mushroom-grow-bags]]
-- liquid culture vs grain spawn

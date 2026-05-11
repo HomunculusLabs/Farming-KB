@@ -7,7 +7,7 @@ tags: [mycology, fungi]
 sources: []
 ---
 # Smut Fungi -- Plant Parasites of Grasses and Cereals
-Smut fungi (class Ustilaginomycetes, phylum Basidiomycota) are important plant
+[[smut-fungi]] (class Ustilaginomycetes, phylum Basidiomycota) are important plant
 parasites occurring on angiosperms, especially grasses and sedges. They cause
 characteristic dark, powdery spore masses (sori) that have been recognized
 since antiquity.
@@ -22,7 +22,7 @@ since antiquity.
 ## Morphology
 Smut fungi have relatively simple structure compared to other basidiomycetes:
 - **Parasitic intercellular mycelia** growing within host tissues without
-  forming haustoria (unlike rust fungi)
+  forming haustoria (unlike [[biodiversity-rust-fungi-urediniomycetes]])
 - **Teliospores** formed in sori (dark masses of powdery spores + host tissue)
 - Teliospores: one-celled, thick-walled, generally darkly pigmented, 3.5-50
   micrometers diameter
@@ -65,19 +65,19 @@ species are generally more destructive because they disrupt the entire plant.
 ## Infection Mechanisms
 Smut fungi infect primarily through young meristematic tissue, often entering
 through stomata or through direct penetration of the plant cuticle. The fungal
-hyphae grow intercellularly, surrounded by host cell walls, and obtain
+hyphae grow intercellularly, surrounded by host [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], and obtain
 nutrients without forming specialized feeding structures (haustoria). This
 intimate but non-destructive relationship allows the fungus to persist
 throughout the host's [[extending-growing-season]] before sporulating at maturity.
 Compatible mating is required for pathogenicity in most smut species. The
 mating type (a/b loci) system ensures that only genetically compatible haploid
 cells can form the dikaryotic, pathogenic mycelium. This genetic control of
-pathogenicity has made smut fungi model organisms for studying fungal sex
+pathogenicity has made smut fungi model organisms for studying [[bloomfield-fungal-sex-pheromones-mating-communication]]
 determination and pathogenicity mechanisms.
 ## Economic Impact
 Smut fungi cause significant losses in cereal crops worldwide:
 - **Loose smut of wheat (Ustilago tritici):** Systemic; destroys entire grain
-  head; controlled primarily through seed treatment fungicides
+  head; controlled primarily through [[jadam-seed-treatment-and-nursery-management]] fungicides
 - **Covered smut of barley (Ustilago hordei):** Spores remain covered by grain
   membrane until harvest; transmitted on seed surface
 - **Karnal bunt of wheat (Tilletia indica):** Quarantine pathogen causing trade
@@ -88,29 +88,3 @@ Yield losses from smut diseases can reach 100% in severely affected fields when
 no control measures are applied. Modern resistant cultivars and seed treatments
 have reduced but not eliminated smut losses in major cereal crops.
 ## Modern Phylogenetic Findings
-Molecular analyses (ultrastructural, biochemical, nucleotide sequences) have
-reorganized smut classification:
-- **Exobasidiales:** Morphologically distinct but closely related to Tilletia
-  and allies
-- **Microbotryum:** Smutlike pathogens more closely related to rust fungi
-  (Urediniomycetes) than to Ustilaginomycetes
-- Traditional morphology-based groupings do not always reflect phylogeny
-Multi-gene phylogenetic studies using ITS, LSU rDNA, and protein-coding genes
-have revealed multiple independent origins of the smut lifestyle within
-Basidiomycota. This convergent evolution complicates taxonomy but provides
-insights into the genetic basis of plant parasitism.
-## Collection and Identification
-- Collect infected plant parts showing sori
-- Dry specimens as herbarium vouchers
-- Teliospore morphology (size, ornamentation, color) essential for
-  identification
-- Host identification critical -- many smuts are host-specific
-- [[fungal-microscopic-examination-mounting-media-techniques]] of spore germination patterns needed for species
-  determination
-- [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] (ITS sequencing) increasingly used for species confirmation
-## See Also
-- [[medically-important-fungi-pathogens-opportunists]]
-- [[fungal-pathogens-in-agriculture]]
-- [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
-- [[molecular-methods-fungal-taxonomy-and-diversity]]
-- cereal milk

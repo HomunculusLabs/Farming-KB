@@ -88,28 +88,3 @@ The termite mounds themselves create localized hotspots of soil fertility and mi
 *T. fuliginosus* fruiting bodies also serve as food for various invertebrates and small vertebrates, contributing to food web dynamics. The mushrooms are particularly important for beetle and fly larvae that develop in the decaying fruiting bodies.
 
 ## Taxonomic Relationships
-
-The genus *Termitomyces* comprises approximately 30 described species, primarily distributed across tropical Africa and Southeast Asia. Molecular phylogenetic studies have revealed that the genus is monophyletic, supporting its status as a distinct lineage within Lyophyllaceae.
-
-*T. fuliginosus* is most closely related to *T. eurrhizus* and *T. heimii*, forming a clade of African species associated with *Macrotermes* termites. These species are distinguished by cap morphology, spore dimensions, and the structure of the pseudorhiza.
-
-The Asian *Termitomyces* species, including *T. clypeatus* and *T. microcarpus*, are associated with different termite genera (*Odontotermes*, *Microtermes*) and occupy distinct phylogenetic positions within the genus.
-
-*Termitomyces* is the only known genus of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] that has evolved an obligate mutualism with termites. This contrasts with the attine ant-fungus mutualism, which involves a distant lineage of leucocoprinaceous fungi, representing an independent evolutionary origin of insect agriculture.
-
-## See Also
-
-- [[termitomyces-eurrhizus]]
-- [[termitomyces-titanellus]]
-
-- [[termitomyces-heimii]]
-- [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[agaricus-bisporus]]
-- comfrey
-- [[boletus-edulis-entity]]
-- [[amanita-muscaria-entity]]
-- [[morchella-esculenta]]
-- [[grifola-frondosa]]
-- [[coprinus-comatus]]
-- [[hugelkultur]]

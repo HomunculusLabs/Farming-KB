@@ -6,7 +6,7 @@ sources:
   - "growing-gourmet-abalone-oyster-cystidiosus-cultivation and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
   - "oyster cuthill oyster oyster oyster oyster oyster-mushroom-growing-house-design-site-selection-tropical-climates house site selection types site selection types house site selection seasons and temperature house types Cultivation (MushWorld, 2004)"
 type: concept
-tags: [cultivation, growing growing gourmet tree oyster ostreatus species profile [oyster-mushroom-species]] guide accessible-mushroom-cultivation-for-disabilities, oyster mushroom spent substrate recycling]
+tags: [cultivation, growing growing gourmet tree oyster ostreatus species profile [oyster-mushroom-species] guide accessible-mushroom-cultivation-for-disabilities, oyster mushroom spent substrate recycling]
 ---
 
 # oyster mushroom growing gourmet [[staycare-solid-state-fermentation-for-bioremediation]] agricultural waste for bioremediation [[mushroom-substrates]] adaptability, and tolerance for less-than-ideal conditions make them the premier mushroom for resource-limited growers, rural communities, and sustainable agriculture projects. Over 200 different waste materials have been documented as [[log-cultivation-methods]]

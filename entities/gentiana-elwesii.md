@@ -24,7 +24,7 @@ Named after the English botanist Henry John Elwes (1846–1922), it is one of th
 
 The species produces large, deep blue trumpets with white-speckled throats, emerging from compact rosettes of leathery leaves. It grows at elevations between 1,800 and 3,000 meters on alpine meadows and rocky slopes.
 
-*Gentiana elwesii* is prized by alpine gardeners for its late-season flowers and compact growth habit. It is rarely seen in cultivation outside specialist collections.
+*Gentiana elwesii* is prized by alpine gardeners for its late-season flowers and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit. It is rarely seen in cultivation outside specialist collections.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ Flowers are terminal, large for the plant size, 4–6 cm long. The corolla is de
 
 Flowering occurs from August to October, making it one of the latest-flowering gentians in its range. The fruit is an ovoid capsule, enclosed within the persistent corolla tube.
 
-Chromosome number: 2n = 20. The species is closely related to *Gentiana occidentalis* and *Gentiana gelida*, forming a group of Anatolian endemics.
+Chromosome number: 2n = 20. The species is closely related to *Gentiana occidentalis* and *[[gentiana-gelida]]*, forming a group of Anatolian endemics.
 
 ## Distribution and Habitat
 
@@ -71,13 +71,13 @@ As a chamaephytic perennial, *G. elwesii* overwinters as a compact leaf rosette 
 
 The late autumn flowering is an adaptation to the Mediterranean-influenced climate of the southern Taurus, where summer drought ends with autumn rains. Pollinators at this season are primarily late-flying bumblebees.
 
-Seed germination requires cold stratification for 8–12 weeks. Fresh seed germinates more reliably than stored seed.
+[[cannabis-seed-germination]] requires cold stratification for 8–12 weeks. Fresh seed germinates more reliably than stored seed.
 
 In cultivation, plants require sharply drained, alkaline compost in full sun. Plants are very slow-growing, taking 5–7 years to reach flowering size from seed.
 
 The species is intolerant of winter wet and summer humidity. Alpine house cultivation in northern Europe provides the best conditions.
 
-No significant pests or diseases affect cultivated plants, though root rot can occur in poorly drained conditions.
+No significant pests or diseases affect cultivated plants, though [[cannabis-root-rot-prevention-and-treatment]] can occur in poorly drained conditions.
 
 Slugs may damage young growth in spring but rarely threaten established plants. Aphid infestations have been observed on flower buds but are easily managed with organic controls.
 
@@ -88,34 +88,3 @@ Unlike several Turkish gentians, *Gentiana elwesii* has no recorded traditional 
 Its bitter root compounds are presumably similar to other gentians, but the species' rarity and remote habitat precluded collection. No phytochemical studies specifically targeting this species have been published.
 
 The species is valued in horticulture as a choice alpine plant. It has received the Royal Horticultural Society's Award of Garden Merit in the UK for its ornamental merit.
-
-Hybridization with *Gentiana sino-ornata* has produced several garden cultivars with prolonged autumn flowering. The best-known is the 'Devonhall' hybrid, which combines the hardiness of *G. sino-ornata* with the flower size of *G. elwesii*.
-
-The species has been featured on Turkish postage stamps celebrating the country's endemic alpine flora, reflecting its status as a charismatic species of the Taurus Mountains.
-
-Botanical illustration of *G. elwesii* has a long history, with the first published plate appearing in Curtiss's Botanical Magazine in 1880. The species remains a popular subject for botanical artists specializing in alpine flora.
-
-## Conservation
-
-Gentiana elwesii is assessed as Near Threatened on the basis of its restricted range (estimated area of occupancy less than 500 km²) and the small number of known populations.
-
-Grazing by goats and sheep on alpine meadows threatens plants directly through trampling and consumption. Climate change models predict significant loss of alpine habitat in the Taurus range over the next 50 years.
-
-The species occurs within the Aladağlar National Park, which provides nominal protection. However, grazing pressure continues within park boundaries. Seed collection for horticulture has been limited and does not currently pose a major threat.
-
-Efforts to establish ex situ collections at the Royal Botanic Garden Edinburgh and the Göteborg Botanical Garden are ongoing. These collections serve as insurance against extinction in the wild.
-
-Population monitoring in the Aladağlar has been conducted intermittently since 1998, revealing stable numbers at most surveyed sites. However, several historically recorded locations have not been relocated in recent surveys.
-
-## See Also
-
-- [[gentiana-clusii]]
-- [[gentiana-verna]]
-- [[gentiana-ciliata]]
-- [[gentiana-lutea]]
-- [[gentiana-sino-ornata]]
-- [[gentiana-triflora]]
-- [[centaurium-erythraea]]
-- [[swertia-chirata]]
-- [[exacum-affine]]
-- [[gentiana-pneumonanthe]]

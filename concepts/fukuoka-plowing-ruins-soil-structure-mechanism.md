@@ -2,7 +2,7 @@
 
 ## Overview
 
-Masanobu Fukuoka's first principle of [[comparison-natural-farming-vs-permaculture]] — no cultivation — was
+[[masanobu-fukuoka]]'s first principle of [[comparison-natural-farming-vs-permaculture]] — no cultivation — was
 based on decades of careful observation of what happens to soil when it is
 tilled. In "The Natural Way of Farming," he provided a detailed mechanistic
 explanation of how plowing destroys soil structure, disrupts soil biology,
@@ -24,7 +24,7 @@ before it has risen, you collapse whatever structure has begun to form.
 
 Soil, Fukuoka argued, is like this dough. Natural soil has a crumb
 structure — aggregates of mineral particles bound together by organic
-compounds, fungal hyphae, bacterial secretions, and plant roots. These
+compounds, [[fungal-hyphae]], bacterial secretions, and plant roots. These
 aggregates create pore spaces of various sizes that allow air and water
 to move through the soil, provide habitat for soil organisms, and give
 the soil its characteristic "tilth" — the quality of being easily worked
@@ -46,14 +46,14 @@ different depths, is homogenized.
 Second, tillage exposes soil organisms that live below the surface to
 sunlight, drying, and temperature extremes. Many soil microorganisms are
 sensitive to ultraviolet light and desiccation. When the plow brings them
-to the surface, they die. The microbial biomass of the soil — the living
+to the surface, they die. The [[soil-microbial-biomass-measurement-ecological-significance]] of the soil — the living
 component that drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and soil
 structure maintenance — is reduced with each tillage pass.
 
 Third, tillage stimulates the breakdown of soil [[hamilton-composting-and-organic-matter-management]]. When soil
-is inverted and aerated, the organic matter that was protected in
+is inverted and aerated, the [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] that was protected in
 anaerobic microsites is exposed to oxygen, accelerating its decomposition.
-This releases a burst of nutrients that can stimulate crop growth in the
+This releases a burst of nutrients that can stimulate [[coleman-sunlight-and-winter-crop-growth-rates]] in the
 short term — which is why tilled soil often produces good results initially
 — but it depletes the soil's organic matter reserves over time. As organic
 matter declines, the soil loses its structure, its water-holding capacity,
@@ -88,59 +88,3 @@ In a natural soil, aeration is maintained by the roots of living plants,
 the burrowing of soil animals (earthworms, beetles, ants), the expansion
 and contraction of soil with wetting and drying cycles, and the growth
 and decomposition of fungal hyphae. These natural processes create and
-maintain a well-aerated soil structure without any human intervention.
-
-The key to natural soil aeration is keeping the soil covered with living
-plants or organic mulch at all times. Plant roots penetrate the soil,
-creating channels that remain after the roots die and decompose. Cover
-crops with deep taproots — such as daikon radish, which Fukuoka used
-extensively — can penetrate compacted soil layers and create channels
-for air and water movement. The decomposition of organic matter at the
-soil surface produces compounds that bind soil particles into stable
-aggregates, maintaining the pore spaces that allow gas exchange.
-
-## The Clay Pellet Seed Ball as No-Till Tool
-
-Fukuoka's clay pellet technique was developed partly as a tool for
-establishing crops without tillage. Seeds enclosed in [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] can
-be broadcast onto untilled soil, where the clay protects them from
-predation and desiccation until conditions are right for germination.
-When the seeds germinate, their roots penetrate the existing soil
-structure rather than a tilled seedbed. This is how Fukuoka established
-both field crops and vegetable gardens without ever turning the soil.
-
-For [[jadam-rice-cultivation-methods]], Fukuoka developed an even more elegant no-till
-system. He seeded clover into the rice paddy, then scattered rice seed
-and barley seed onto the living clover mat. The clover provided nitrogen
-fertilizer, weed suppression, and soil protection. The rice and barley
-grew through the clover without any tillage. After harvest, the straw
-was scattered back onto the field as mulch. The entire cycle — seeding,
-growing, harvesting — was accomplished without a single pass of the plow.
-
-## Comparison with Conservation Tillage
-
-Fukuoka's no-tillage approach was more radical than what is now called
-"conservation tillage" or "reduced tillage" in conventional agriculture.
-Conservation tillage typically involves reducing the number or intensity
-of tillage passes while still using some mechanical soil disturbance.
-Fukuoka advocated for zero tillage — no mechanical soil disturbance
-whatsoever. He considered even minimal tillage to be damaging because
-any disturbance of the soil surface disrupts the biological processes
-that maintain soil health.
-
-He acknowledged that the transition to no-till could be difficult for
-farmers accustomed to working tilled soil. The appearance of an untilled
-field — with its cover of weeds, mulch, and crop residues — offended the
-aesthetic sensibilities of farmers trained to value clean, bare soil
-between rows. But he argued that this aesthetic preference was itself a
-product of the tillage-dependent mindset, and that farmers who persisted
-with no-till methods would come to appreciate the living, covered soil
-surface as the true measure of soil health.
-
-## See Also
-
-- [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
-
-- [[fukuoka-no-cultivation-principle-soil-self-tillage]]
-- [[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
-- [[no-till-agriculture]]

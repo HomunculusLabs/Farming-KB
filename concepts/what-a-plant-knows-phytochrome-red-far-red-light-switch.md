@@ -2,11 +2,11 @@
 
 ## Overview
 
-Phytochrome is a photoreceptor pigment protein that enables plants to detect and respond to red and far-red light, functioning as a molecular switch that regulates numerous developmental processes including seed germination, shade avoidance, and flowering time. Discovered through the photoperiodism research of the mid-20th century, phytochrome represents one of the most elegant biological sensing systems in the plant [[chamovitz-plant-senses-overview]] kingdom.
+Phytochrome is a photoreceptor pigment protein that enables plants to detect and respond to red and far-red light, functioning as a molecular switch that regulates numerous developmental processes including [[cannabis-seed-germination]], [[shade-avoidance-syndrome]], and [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]. Discovered through the photoperiodism research of the mid-20th century, phytochrome represents one of the most elegant biological sensing systems in the plant [[chamovitz-plant-senses-overview]] kingdom.
 
 ## Historical Discovery
 
-The discovery of phytochrome emerged from research into photoperiodism—the phenomenon by which plants measure day length to time their flowering. In the early 1950s, Harry Borthwick and colleagues at the US Department of Agriculture laboratory (the same facility where the Maryland Mammoth tobacco was studied) made a remarkable observation: plants responded to flashes of red light during the night, but only red light influenced flowering. Blue or green flashes had no effect.
+The discovery of phytochrome emerged from research into photoperiodism—the phenomenon by which plants measure day length to time their flowering. In the early 1950s, Harry Borthwick and colleagues at the US Department of Agriculture laboratory (the same facility where the [[garner-allard-maryland-mammoth-tobacco-experiment]] was studied) made a remarkable observation: plants responded to flashes of red light during the night, but only red light influenced flowering. Blue or green flashes had no effect.
 
 The critical breakthrough came when they discovered that far-red light [[phytochrome-signaling-plant-light-perception]]—wavelengths slightly longer than bright red, most visible at dusk—could completely cancel the effect of red light. If irises (which normally don't flower in long nights) received a pulse of red light in the middle of the night, they produced flowers. But if far-red light was applied immediately after the red pulse, it was as if the red light had never been seen. This red/far-red reversibility could be repeated: red turned flowering on, far-red turned it off, and so on.
 
@@ -51,7 +51,7 @@ Unlike phototropism (where Darwin showed the "eye" is in the shoot tip), phytoch
 
 ### Mobile Signalling
 
-When phytochrome in a leaf absorbs red light, it initiates the production of a mobile signal (now known to include the protein FT, or FLOWERING LOCUS T) that propagates throughout the plant. This signal travels from the leaf to the shoot apex where it induces the transition from vegetative growth to flowering.
+When phytochrome in a leaf absorbs red light, it initiates the production of a mobile signal (now known to include the protein FT, or FLOWERING LOCUS T) that propagates throughout the plant. This signal travels from the leaf to the shoot apex where it induces the transition from [[cannabis-vegetative-growth-stage]] to flowering.
 
 This discovery—that a leaf can perceive a light signal and communicate it to the rest of the plant—was one of the first demonstrations of long-distance signalling in plants and has profound implications for understanding plant physiology.
 
@@ -75,7 +75,7 @@ When a seedling emerges from soil into light, phytochrome triggers the transitio
 
 ## The Phytochrome Gene Family
 
-In Arabidopsis thaliana and most higher plants, phytochrome is not a single protein but a small gene family:
+In [[arabidopsis-thaliana]] and most higher plants, phytochrome is not a single protein but a small gene family:
 
 - **phyA**: Primarily mediates responses to continuous far-red light; dominates in de-etiolation; is light-labile (degraded in light).
 - **phyB**: The major photoreceptor for responses to red light; regulates shade avoidance and flowering; is relatively light-stable.
@@ -88,33 +88,3 @@ The phytochrome system has significant practical applications in horticulture an
 - **Chrysanthemum production**: Growers keep plants from flowering by providing a few minutes of light (red-sufficient) during the night throughout autumn and winter, then stop the night lighting two weeks before the desired harvest date to trigger simultaneous flowering.
 - **Greenhouse lighting**: LED grow lights are designed with specific red and far-red ratios to manipulate plant architecture, flowering time, and yield.
 - **Seed treatment**: Seeds can be pre-treated with red light to break dormancy before planting, improving germination rates.
-- **Canopy management**: Understanding shade avoidance helps orchardists and foresters manage planting densities.
-
-## Phytochrome and Plant Memory
-
-The red-far-red reversible system provides a striking example of what might be called "plant memory." A plant exposed to red light followed by far-red light behaves as if it never saw any light at all. On a philosophical level, the plant "remembers" only the last colour it saw. This ability to retain and act upon the last light signal received represents one of the clearest demonstrations of information processing in plants.
-
-## Phytochrome in Modern Research
-
-Contemporary research has revealed that phytochrome signalling is far more complex than the simple two-state model suggests. The Pfr form translocates from the cytoplasm to the nucleus upon activation, where it interacts with transcription factors called PIFs (Phytochrome Interacting Factors). PIFs promote elongation growth and inhibit photomorphogenesis in darkness; when phytochrome enters the nucleus in its Pfr form, it binds to PIFs and targets them for degradation, thereby releasing the repression of light-responsive genes.
-
-This nuclear signalling cascade involves hundreds of genes and affects not only growth and flowering but also chloroplast development, circadian clock entrainment, and stomatal opening. Phytochrome has also been shown to influence plant temperature sensing—elevated temperatures shift the Pr-Pfr equilibrium toward the active Pfr form even without light, providing a mechanism for plants to integrate thermal and light information.
-
-## Limitations of the Two-State Model
-
-While the Pr/Pfr model remains a useful teaching framework, real-world phytochrome biology is considerably more nuanced:
-
-- Dark reversion rates vary between phytochrome family members and are influenced by temperature.
-- Multiple phytochrome genes have overlapping but distinct functions.
-- Downstream signalling involves complex networks of kinases, transcription factors, and hormonal pathways.
-- Some plant responses to light do not show full red/far-red reversibility, indicating additional regulatory layers.
-
-## See Also
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[photoperiodism:-flowering-time-measurement]]
-- [[phototropism-and-blue-light-reception]]
-
-## Source
-
-- Chamovitz, D. (2012). *What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond*. Oneworld Publications.

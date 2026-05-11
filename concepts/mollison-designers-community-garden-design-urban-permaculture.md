@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -54,7 +55,7 @@ Common areas serve all garden members and include:
 - **Meeting and education space:** A sheltered area for workshops,
   seed swaps, harvest sharing, and community gatherings.
 - **Perennial plantings:** Shared fruit trees, berry bushes, and
-  [[soil-food-web]] principles
+  [[soil-foodweb]] principles
 - Perennial borders between plots planted with [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
   habitat and windbreak species
 - Access paths wide enough for wheelbarrows (minimum 60cm)
@@ -87,31 +88,3 @@ community garden:
 
 - **Soil testing:** Urban soils may contain lead, arsenic, heavy
   metals, or hydrocarbon contamination from previous industrial or
-  residential use. Testing informs whether in-ground growing is safe
-  or whether raised beds with imported soil are necessary.
-
-- **Sun exposure:** Building shadows, trees, and structures create
-  complex shade patterns in urban settings. Map solar access across
-  seasons to optimize [[mollison-designers-goat-management-and-browsing-systems]]
-  or poultry are included).
-
-## Food Forests and Urban Agroforestry
-
-Mollison advocates for food forests as community-scale urban
-permaculture installations. A food forest on a vacant lot or park
-margin can produce fruit, nuts, herbs, and vegetables for
-neighborhood residents while providing green space, stormwater
-management, and wildlife habitat.
-
-Layered plantings follow [[mollison-designers-solar-food-drying-preservation]], tool
-  repair) build community self-reliance
-- Tool sharing reduces individual consumption
-- [[mollison-designers-beekeeping-honey-production-permaculture]] apiaries serve multiple
-  gardens and provide pollination across neighborhoods
-
-## Challenges and Solutions
-
-Mollison acknowledges that community gardens face displacement
-pressure from development, vandalism, internal conflict, and member
-burnout. Long-term land security through land trusts, conservation
-easements, or municipal dedication is essential. Building genuine

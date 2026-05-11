@@ -3,7 +3,7 @@ title: 4-HO-EPT
 type: chemical
 tags:
   - psychedelic
-  - tryptamine
+  - [[tryptamine]]
   - substance
   - synthetic
   - entheogen
@@ -26,11 +26,11 @@ created: 2026-04-28
 
 ## Overview
 
-4-HO-EPT (4-hydroxy-N-ethyl-N-propyltryptamine) is a synthetic psychedelic tryptamine and a structural analog of psilocin (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by Alexander Shulgin, with results documented in TiHKAL (Tryptamines I Have Known and Loved).
+4-HO-EPT (4-hydroxy-N-ethyl-N-propyltryptamine) is a synthetic psychedelic tryptamine and a structural analog of [[psilocin]] (4-HO-DMT). It belongs to the substituted tryptamine class and was first synthesized and bioassayed by [[alexander-shulgin]], with results documented in TiHKAL (Tryptamines I Have Known and Loved).
 
 The compound is characterized by its N-ethyl-N-propyl substitution pattern on the tryptamine nitrogen. This specific substitution produces a pharmacological profile that is psychedelic but generally milder and shorter-acting than psilocin.
 
-4-HO-EPT is classified as a Schedule I controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted tryptamine family.
+4-HO-EPT is classified as a Schedule I controlled substance in several jurisdictions due to its [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]] to controlled tryptamines. It has seen very limited distribution outside of research chemical markets and remains one of the less well-characterized members of the 4-substituted [[tryptamine-family-overview]].
 
 ## Chemical Properties
 
@@ -42,7 +42,7 @@ The compound is characterized by its N-ethyl-N-propyl substitution pattern on th
 
 **SMILES:** CCN(CCC)CCc1c[nH]c2ccc(O)cc12
 
-**Structure type:** 4-substituted tryptamine with an unsymmetrical N,N-dialkyl substitution pattern (ethyl and propyl groups). The 4-hydroxy group on the indole ring is the key pharmacophore shared with psilocin and other psychedelic tryptamines.
+**Structure type:** 4-substituted tryptamine with an unsymmetrical N,N-dialkyl substitution pattern (ethyl and propyl groups). The 4-hydroxy group on the [[indole]] ring is the key pharmacophore shared with psilocin and other psychedelic tryptamines.
 
 The ethyl-propyl substitution on the terminal amine distinguishes 4-HO-EPT from more common analogs like 4-HO-DMT (two methyls), 4-HO-MET (methyl and ethyl), and 4-HO-MiPT (methyl and isopropyl). The larger alkyl groups reduce affinity for the 5-HT₂A receptor compared to psilocin, contributing to reduced potency.
 
@@ -50,7 +50,7 @@ The ethyl-propyl substitution on the terminal amine distinguishes 4-HO-EPT from 
 
 ## Pharmacology
 
-4-HO-EPT acts primarily as a partial agonist at the 5-HT₂A serotonin receptor, the primary receptor responsible for psychedelic effects in the classical hallucinogen family.
+4-HO-EPT acts primarily as a partial agonist at the 5-HT₂A [[serotonin-receptor-interference-psychedelic-mechanism]], the primary receptor responsible for psychedelic effects in the classical hallucinogen family.
 
 The unsymmetrical N-ethyl-N-propyl substitution pattern reduces binding affinity at 5-HT₂A compared to the N,N-dimethyl substitution of psilocin. This reduction in affinity translates to higher threshold doses and generally milder subjective effects.
 
@@ -87,30 +87,3 @@ Due to limited human experience data, dosage ranges are approximate and derived 
 **Strong dose:** 25–40 mg orally
 
 The compound is approximately 2–4 times less potent than psilocin by weight, consistent with the reduced receptor affinity expected from the N-ethyl-N-propyl substitution pattern.
-
-## History
-
-4-HO-EPT was first synthesized by Alexander Shulgin and bioassayed as part of his systematic exploration of substituted tryptamines documented in TiHKAL.
-
-The compound received a brief entry in TiHKAL and was assigned a relatively low activity rating compared to more prominent members of the 4-substituted series. Shulgin's qualitative assessment suggested a short-acting, mild [[leary-psychedelic-experience-bardo-mapping]].
-
-Following the publication of TiHKAL in 1997, 4-HO-EPT saw minimal interest in the research chemical community. The emergence of online vendor markets in the 2010s brought limited availability, but the compound never achieved the popularity of 4-HO-MET, 4-HO-MiPT, or 4-AcO-DMT.
-
-There are no published clinical studies on 4-HO-EPT. All available information comes from Shulgin's original bioassay notes and a small number of user experience reports on forums such as Erowid and Bluelight.
-
-## Legal Status
-
-4-HO-EPT is unscheduled in many countries but may be controlled under analogue acts or blanket tryptamine bans.
-
-In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act may apply, making 4-HO-EPT potentially prosecutable as a Schedule I controlled substance analog of psilocin. Several states have enacted specific bans on substituted tryptamines.
-
-The compound is controlled as a Class B drug in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] amendments. In Germany, it falls under the NpSG (New Psychoactive Substances Act).
-
-## See Also
-
-- [[psilocin]]
-- [[4-ho-mipt]]
-- [[tryptamine]]
-- [[4-acetoxy-dmt]]
-- [[norbaeocystin]]
-- [[mescaline]]

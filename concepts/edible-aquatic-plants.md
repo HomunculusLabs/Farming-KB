@@ -88,32 +88,3 @@ Family: TYPHACEAE. Narrow linear leaves, tall growing (to 2 m). Occurs throughou
 Non-food uses: leaves yield soft fibre for mats, baskets, chair seats; fibre extraction produces 7-10 tonne/ha resembling jute; used for paper making, caulking, and thatching. Absorbs nutrients and contaminants (including PCPs) as a water filter plant. Important food and shelter for wildlife. Stabilises banks for soil and water conservation.
 
 ### Wild Rice (Zizania aquatica)
-Family: POACEAE. Native to northwestern USA and southern Canada. Broad-leaved grass growing on stream banks, marshes, shallow ponds. May grow to 3 m, best suited to fresh water ~1 m deep. Seed high in vitamin B, easily digested. Green seed requires no cooking (just pour boiling water over). Related species Z. caducifolia cultivated in China, Vietnam, and Japan.
-
-### Other Emergent Species
-- **Ceratopteris thalictroides** -- aquatic fern; fiddleheads eaten raw and cooked; entire plant except root cooked as greens
-- **Limnocharis flava** (yellow velvetleaf) -- cultivated in rice paddies in Malaysia; marketed as fresh vegetable; ploughed in as green manure; readily eaten by cattle (leaf protein 1-1.6%)
-- **Glyceria maxima** (great water grass) -- dense clumping perennial to 2 m; leaves good fish food; seed flour for bread, soups, puddings
-- **Glyceria fluitans** (floating manna grass) -- perennial to 120 cm in stagnant or slow water; insect larvae and small animals shelter in leaves; seed used for human food
-- **Phragmites australis** (common reed) -- cosmopolitan, 2-3 m, edible shoots like bamboo sprouts; Native Americans made marshmallow-like confection from dried stems; used for bags, baskets, matting, thatching, arrows, paper, musical reeds
-- **Oryza sativa** (floating rice) -- floats on water up to 6 m deep, withstands flooding for up to 30 days
-
-## Margin Plants
-
-Margin plants do not grow in water but derive extra moisture from moist soils at the water's edge. They include grasses, sedges, and herbs that stabilise pond banks and provide additional forage or habitat.
-
-- **Mentha spp** (mints): Medicinal and aromatic, thrive at pond margins
-- **Phalaris arundinacea** (reed canary grass): Bulky grass for animal bedding and fodder, good quail and duck forage
-- **Vaccinium spp** (blueberries): Can be grown at pond margins
-- **Xanthosoma spp** (tania, cocoyams): ~40 species native to the Americas, grow in soil too damp for conventional root crops. Central tuber (corm) for animal feed and replanting; smaller tubers (cormels) valued as human food, comparable nutritionally to potatoes. Some varieties yield in as little as 3 months.
-
-## System Design
-
-- Design ponds with graduated depths: shallow margins for emergents, deeper zones for floating-leaved species
-- Use Azolla as a [[comparison-rhizobia-vs-free-living-nitrogen-fixing-bacteria]] source in rice paddies and aquaculture systems
-- Duckweed removes excess nutrients and provides high-protein animal feed
-- Water plants support [[permaculture-plant-selection]] for complete species listings and [[permaculture-plant-selection]]
-- aquatic plants and pond ecosystems
-- [[organic-vegetable-growing-calendar]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[permaculture-salt-tolerant-fodder-plants]]

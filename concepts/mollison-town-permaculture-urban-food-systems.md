@@ -1,8 +1,8 @@
 ---
-title: mollison town permaculture urban food systems - Urban Food Systems
+title: Mollison Town Permaculture Urban Food Systems
 created: 2026-04-26
 updated: 2026-04-24
-sources: Bill Mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
+sources: bill-mollison, Permaculture Two: Practical Design for Town and Country (Tagari Books, 1979)
 type: concept
 tags: [culture, permaculture]
 ---
@@ -10,7 +10,7 @@ tags: [culture, permaculture]
 # Town Permaculture - Urban Food Systems
 
 Permaculture Two devotes significant attention to the application of
-permaculture principles within towns and suburban settings. Mollison
+[[permaculture-principles]] within towns and suburban settings. Mollison
 argues that urban areas represent both the greatest waste of
 productive land and the greatest opportunity for food system
 transformation.
@@ -35,7 +35,7 @@ started a permaculture. Mollison cites the remarkable statistic that
 produces 60% of the food. The implication is profound: what would
 happen if those peasants were given 8% of the land?
 
-The ideal home garden plot is approximately 750-1000 square metres
+The ideal [[cool-climate-home-garden-mollison]] plot is approximately 750-1000 square metres
 for annual agriculture. Less means too little food; more means too
 much land to control. However, the smaller the managed annual system
 can become, the more land is freed for perennial planting and
@@ -59,7 +59,7 @@ Mollison provides striking evidence for urban food potential:
 Planning for high labour-intensive food production at the doorstep
 is described as "the only way out of future crises." Vegetables can
 largely supplant monoculture grains for human food, just as tree
-crops can supplant grains for animal forage. The energy savings of
+crops can supplant grains for [[permaculture-designers-manual-animal-forage-systems]]. The energy savings of
 both strategies are obvious and necessary.
 
 For the farmer, a productive doorstep garden may mean the difference
@@ -88,53 +88,3 @@ Mollison proposes a "Farm-Link" programme involving town with
 country. The global village community, connected by information
 exchange, can coordinate local production. Farmers and city waste
 centres are identified as the potential future energy base for
-essential production, as city organic wastes accumulate and can be
-redirected to productive use.
-
-## Self-Sufficiency as a Programme
-
-The book outlines a practical programme for urban self-sufficiency:
-
-- Self-reliance in the individual and the group (village, tribe,
-  community)
-- A programme to make every house and town self-sufficient with
-  teams from each stabilised area assisting others
-- Conversion of high-level investment capital to low-energy food
-  systems
-- Legal and financial strategies to convert regions into more
-  self-reliant bioregions
-
-## Greenhouse Integration
-
-Houses should integrate glasshouses for [[comparison-passive-solar-vs-earth-sheltered]] heating, food
-production, and [[mollison-designers-greywater-treatment-reedbeds]]. Structures become multi-functional:
-the greenhouse heats the house, treats household water, grows food,
-and provides a pleasant living space. Attached glasshouses, hot air
-collectors, reflection ponds, and shadehouses should be provided at
-all homestead sites where climatic variation is experienced.
-
-## The Ethical Dimension
-
-The book argues that what we call political and economic systems stand
-or fall on our ability to conserve the natural environment. Closer
-regulation of available land plus very cautious use of natural systems
-is our only sustainable future strategy. Perhaps we should control only
-those areas we can establish, maintain, and harvest by small
-technologies as a form of government on ourselves and our appetites.
-
-## See Also
-
-- [[mollison-tree-crop-systems-permaculture]]
-- mollison-urban-permaculture
-- mollison-aquatic-polyculture-systems
-
-- urban-permaculture
-- urban-agriculture
-- community-garden
-- roof-water-harvesting
-- greywater-systems
-- [[mollison-permaculture-two-introduction-design-principles|mollison-permaculture-two-introduction-design-principles]]
-- [[zone-and-sector-analysis|Zone and Sector Analysis]]
-- [[bill-mollison]]
-- [[permaculture-principles]]
-- [[mollison-bamboo-permaculture-systems]]

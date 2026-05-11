@@ -87,29 +87,3 @@ The species has transformed millions of hectares of rangeland, grassland, and ri
 Livestock disperse seeds through ingestion and defecation, facilitating rapid range expansion. Control methods include mechanical removal, chemical control with herbicides such as glyphosate and triclopyra, and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using the seed-feeding bruchid beetle (*Algarobius prosopis*).
 
 Despite its invasiveness, some researchers argue for managed utilization rather than eradication in areas where the species is already established, noting its economic value for fuelwood, fodder, and [[mollison-designers-charcoal-production-biochar-soil-amendment]].
-
-## Cultivation and Management
-
-Propagation is primarily from seed, which requires scarification (mechanical or acid) to break hard seed coat dormancy. Germination occurs within 3–10 days after treatment. Direct seeding, seedling transplant, and pole planting are all effective establishment methods.
-
-Growth is rapid under favorable conditions, reaching 2–3 m in the first year. Trees begin producing pods at 3–5 years of age. Annual pod yield ranges from 20–100 kg per tree depending on age, site quality, and rainfall. Management through regular coppicing or pollarding can sustain productivity for decades.
-
-In managed agroforestry systems, spacing of 5–10 m between trees is recommended for intercropping. Compatible understory crops include drought-tolerant grasses, legumes, and cacti. Careful pod collection prevents uncontrolled seed dispersal into adjacent natural areas.
-
-## Related Species
-
-**Prosopis pallida** (Humb. & Bonpl. ex Willd.) Kunth is the closest relative, native to the Pacific coast of South America. It is similarly invasive and frequently confused with P. juliflora.
-
-**Prosopis glandulosa** (honey mesquite) is native to the southern United States and northern Mexico and shares many ecological characteristics. **Prosopis cineraria** (khejri) is native to the Indian subcontinent and is culturally significant as the state tree of Rajasthan.
-
-## See Also
-
-- gliricidia-sepium
-- sesbania-grandiflora
-- [[dalbergia-sissoo]]
-- [[biological-nitrogen-fixation-agriculture]]
-- [[food-forest]]
-- [[silvopasture]]
-- [[gleditsia-triacanthos]]
-- [[swale]]
-- [[biochar]]

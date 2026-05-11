@@ -21,7 +21,7 @@ sources:
   - Vega, F.E. et al. (2009). "Fungal entomopathogens: new insights into their ecology." Fungal Ecology 2(4): 149-159.
 aliases:
   - L. muscarium
-  - Verticillium lecanii
+  - [[verticillium-lecanii]]
   - V. muscarium
   - Mycotal
 ---
@@ -34,7 +34,7 @@ lecanii*, it was transferred to *Lecanicillium* following taxonomic revision by 
 Gams in 2001.
 
 The species is a versatile [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent with dual activity against insect pests
-and fungal plant pathogens. Commercial formulations (notably Mycotal™ and Vertalec™) have
+and [[bloomfield-fungal-plant-pathogens]]. Commercial formulations (notably Mycotal™ and Vertalec™) have
 been used globally for decades, targeting whiteflies, aphids, thrips, and the causal agent
 of [[cervantes-powdery-mildew-prevention-treatment]] across greenhouse and field crops.
 
@@ -53,7 +53,7 @@ from *L. longisporum* (a pathogen predominantly of aphids) and *L. attenuatum*.
 
 ## Morphology
 
-Colonies on malt extract agar (MEA) grow moderately, reaching 30-45 mm diameter in 14 days
+Colonies on [[malt-extract-agar]] (MEA) grow moderately, reaching 30-45 mm diameter in 14 days
 at 22°C. Colony color is initially white, becoming pale lilac to lavender with age, with
 a velvety to floccose texture.
 
@@ -75,55 +75,16 @@ cuticle, germination, germ tube penetration through enzymatic cuticular degradat
 proliferation as hyphal bodies (blastospores) within the hemocoel. Death occurs within
 3-7 days, after which the fungus sporulates on the cadaver surface.
 
-The fungus additionally acts as a mycoparasite, directly parasitizing powdery mildew
+The fungus additionally acts as a mycoparasite, directly parasitizing [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]]
 conidia and haustoria. This dual activity is unique among commercial biocontrol fungi and
-provides broad-spectrum disease and pest management.
+provides broad-spectrum disease [[garden-myths-weeds-and-pest-management]].
 
 ## Distribution and Ecology
 
-*L. muscarium* is globally distributed in tropical, subtropical, and temperate regions.
+*L. muscarium* is globally distributed in tropical, subtropical, and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 It occurs naturally in soil, leaf litter, and phyllosphere environments. Natural
 epizootics are observed in whitefly and aphid populations during humid conditions.
 
 Environmental persistence is moderate, with conidia surviving 2-4 weeks on leaf surfaces
 depending on UV exposure and humidity. Soil populations persist longer, maintained by
 infected cadavers and saprophytic growth on organic matter.
-
-## Cultivation and Mass Production
-
-*L. muscarium* is produced commercially via submerged liquid fermentation, yielding
-blastospores and submerged conidia suitable for spray applications. Solid-state
-fermentation on grain substrates produces aerial conidia with greater UV stability and
-desiccation tolerance, preferred for field formulations.
-
-Optimal production conditions include 22-25°C, pH 6.0-7.0, and a carbon-to-nitrogen
-ratio of approximately 30:1. Conidial yields in optimized processes reach 1-5 × 10⁹
-conidia per mL of liquid medium.
-
-Product shelf life varies by formulation: oil-based suspensions retain viability for
-6-12 months at room temperature, while wettable powders require refrigeration for
-long-term storage. Formulation additives including UV protectants and surfactants
-extend field persistence.
-
-## Biocontrol Applications
-
-Commercial formulations of *L. muscarium* are registered in over 30 countries for use in
-greenhouses, protected crops, and field applications. Mycotal™ is applied against
-whiteflies at 1-5 × 10¹³ conidia per hectare, while Vertalec™ targets aphids.
-
-The fungus is particularly valued in integrated pest management (IPM) programs for
-greenhouse vegetables and ornamentals due to its compatibility with [[comparison-predatory-mites-vs-ladybugs-biocontrol]]
-(*Amblyseius* spp.) and [[comparison-parasitoid-wasps-vs-chemical-pesticides]]. It is safe to mammals, birds, and most
-[[coleman-beneficial-insects-and-ecological-pest-control]] at recommended [[ingham-compost-tea-application-rates-and-timing]].
-
-Efficacy is optimal at 20-28°C with relative humidity above 80%. Application timing
-targeting early pest populations yields best results. The mycoparasitic activity against
-powdery mildew provides added value in cucumber, pepper, and strawberry production.
-
-## See Also
-
-- [[beauveria-bassiana]]
-- [[metarhizium-anisopliae]]
-- [[cordyceps-militaris]]
-- biocontrol
-- [[integrated-pest-management]]

@@ -3,7 +3,7 @@
 
 ## Overview
 
-The serotonin psilocybin structural relationship hallucinogenic mechanism between serotonin (5-hydroxy magic-mushroom-british-underground-1970s' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
+The [[serotonin]] psilocybin structural relationship hallucinogenic mechanism between serotonin (5-hydroxy magic-mushroom-british-underground-1970s' is probably caused by their interference with the normal actions of brain serotonin." This structural mimicry is the key to understanding why these plant-derived compounds can profoundly alter human consciousness.
 
 ## Structural Comparison
 
@@ -12,9 +12,9 @@ The serotonin psilocybin structural relationship hallucinogenic mechanism betwee
 **Chemical formula:** C₁₀H₁₂N₂O
 **Molecular weight:** 176.22 g/mol
 
-Serotonin consists of an indole ring system with:
+Serotonin consists of an [[indole]] ring system with:
 - A 5-hydroxy (OH) group on the benzene portion of the indole
-- A 3-(2-aminoethyl) side chain at position 3 of the indole
+- A 3-(2-aminoethyl) [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at position 3 of the indole
 
 ### Psilocin (4-Hydroxy-N,N)
 
@@ -69,7 +69,7 @@ The 5-HT2A receptor evolved to bind serotonin, but its binding pocket is large e
 
 Nature's use of a phosphate ester on psilocybin (vs. the free hydroxy on psilocin) represents an elegant prodrug strategy:
 
-- **Stability** — The phosphorylated form is more stable during storage in the mushroom tissue
+- **Stability** — The phosphorylated form is more stable during storage in the [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
 - **Solubility** — Increased water solubility aids distribution through the fungal organism
 - **Activation** — Alkaline phosphatase enzymes in the human digestive tract and liver rapidly cleave the phosphate group, releasing the active psilocin
 - **Bioavailability** — The prodrug form is better absorbed orally than free psilocin would be
@@ -87,41 +87,3 @@ The recognition that classical hallucinogens act through the serotonin system de
 5. **1990s–present** — Refinement of the 5-HT2A hypothesis, including the role of 5-HT2C, 5-HT1A, and other receptor subtypes
 
 ### Beyond 5-HT2A
-
-While 5-HT2A activation is the primary mechanism, psilocin also interacts with other serotonin receptors:
-
-- **5-HT1A** — May contribute to the anxiolytic and mystical aspects of the experience
-- **5-HT2C** — Modulates dopamine release and may influence the emotional quality of the experience
-- **5-HT5A, 5-HT6, 5-HT7** — Various modulatory roles
-
-### The Receptor Trafficking Hypothesis
-
-Recent research has shown that psilocin (and other classic psychedelics) promotes the growth of new dendritic spines and increases synaptogenesis in the prefrontal cortex. This effect, mediated through 5-HT2A receptor activation and BDNF (brain-derived neurotrophic factor) signaling, may underlie the long-lasting therapeutic effects of a single 
-
-Bufotenin (5-hydroxy-N,N-dimethyltryptamine) is the 5-OH positional isomer of psilocin. Despite having the hydroxy at the same position as serotonin, bufotenin is a much less reliable hallucinogen when taken orally (due to poor blood-brain barrier penetration), though it can be active via other routes.
-
-## Implications
-
-### For Drug Design
-
-The structural relationship between serotonin and the hallucinogenic tryptamines has guided decades of medicinal chemistry:
-
-- The minimum pharmacophore for 5-HT2A activation is an indole ring with a basic amine side chain
-- 4-substitution on the indole ring enhances hallucinogenic potency
-- N-alkylation patterns modulate duration and intensity
-- The [[tihkal-receptor-binding-serotonin]] pocket can accommodate significant structural variation while maintaining selectivity
-
-### For Understanding Consciousness
-
-The fact that a simple molecular modification of a ubiquitous neurotransmitter can produce such profound alterations in consciousness suggests that the serotonin system plays a central role in maintaining the "baseline" state of waking consciousness. Disrupting this baseline — even slightly — can reveal alternative modes of conscious experience that are latent but normally inaccessible.
-
-## See Also
-
-- [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]]
-
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] and receptor interactions
-- 5 ht2a receptor and classical psychedelics
-- serotonin neurochemistry and psychedelic interaction
-- [[psilocin-and-psilocybin-chemistry]]-synthesis-shirota
-- tryptamine structure activity relationships
-- prodrug mechanism psilocybin to psilocin conversion

@@ -11,6 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - MacLeod, A.J. et al. (1990). "Volatile components of Melia azedarach." Phytochemistry, 29(3), 797-798.
   - Lavie, D. et al. (1982). "Melianone, a new euphane-type triterpene from Melia azedarach." Journal of the Chemical Society, Perkin Transactions 1, 1217-1220.
   - Mabasa, S.L. et al. (2013). "Biological activities of Melia azedarach L.: a review." Pharmacognosy Reviews, 7(14), 131-138.
@@ -24,7 +25,7 @@ sources:
 
 The tree is notable for its insecticidal properties, particularly the limonoid compounds in its seeds and leaves. Aqueous extracts have been used traditionally as botanical insecticides, piscicides, and anthelmintics across Asia, Africa, and the Americas.
 
-Despite its medicinal and agricultural uses, M. azedarach is classified as an invasive species in many parts of the world. Its prolific fruit production and shade tolerance allow it to outcompete native vegetation in disturbed habitats.
+Despite its medicinal and agricultural uses, M. azedarach is classified as an invasive species in many parts of the world. Its prolific [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] and shade tolerance allow it to outcompete native vegetation in disturbed habitats.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +41,7 @@ Fruits are spherical drupes 1–1.5 cm in diameter, yellowish when ripe, persist
 
 ## Distribution and Habitat
 
-M. azedarach is native to the Indian subcontinent, southern China, Southeast Asia, and northern Australia. It has been introduced to Africa, the Americas, the Mediterranean, and Pacific Islands as an ornamental and timber tree.
+M. azedarach is native to the Indian subcontinent, southern China, Southeast Asia, and northern Australia. It has been introduced to Africa, the Americas, the Mediterranean, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]] as an ornamental and timber tree.
 
 The species grows in a wide range of habitats from sea level to 1800 m elevation. It is found in dry deciduous forests, riparian zones, and disturbed areas. It tolerates drought, poor soils, and moderate salinity.
 
@@ -60,7 +61,7 @@ Leaf and seed extracts have demonstrated antimicrobial activity against bacteria
 
 In traditional Chinese medicine, the bark and fruits of M. azedarach (known as *ku-lian-pi*) are used to expel intestinal parasites, particularly roundworms and tapeworms. The preparation is typically a decoction of dried bark.
 
-In Indian Ayurvedic practice, the leaves are applied externally for skin diseases and rheumatic pain. A leaf paste is used as a poultice for inflammatory conditions. The bark is used as an antipyretic.
+In Indian Ayurvedic practice, the leaves are applied externally for [[blesching-cannabis-skin-diseases]] and rheumatic pain. A leaf paste is used as a poultice [[cannabis-for-inflammatory-conditions]]. The bark is used as an antipyretic.
 
 Throughout tropical Africa and the Americas, aqueous seed extracts are used as botanical insecticides in stored grain protection. The seeds are crushed and soaked in water, and the resulting extract is applied to crops or stored produce.
 
@@ -70,7 +71,7 @@ The ripe fruits persist on bare branches through winter, providing a food source
 
 ## Cultivation
 
-M. azedarach is propagated from seed, which requires scarification or soaking to improve germination. Germination typically occurs within 2–4 weeks. Vegetative propagation by cuttings and root suckers is also practical.
+M. azedarach is propagated from seed, which requires scarification or soaking to improve germination. Germination typically occurs within 2–4 weeks. [[hamilton-vegetative-propagation]] by cuttings and root suckers is also practical.
 
 The tree grows rapidly in its early years, often 1–2 m per year, and can begin flowering and fruiting within 3–5 years. It prefers well-drained soils and full sun but is highly adaptable to various conditions.
 
@@ -84,26 +85,6 @@ The wood of M. azedarach is moderately hard, medium-textured, and pale yellow to
 
 Heartwood has natural resistance to decay and termites, giving it utility for outdoor applications and fence posts. The wood is also used for fuel and [[mollison-designers-charcoal-production-biochar-soil-amendment]] in rural communities.
 
-Despite these qualities, commercial timber production of M. azedarach is limited. The relatively small trunk diameter and tendency for branches to develop low on the trunk restrict its use to small-scale applications.
+Despite these qualities, commercial [[honey-locust-pod-fodder-timber-production]] of M. azedarach is limited. The relatively small trunk diameter and tendency for branches to develop low on the trunk restrict its use to small-scale applications.
 
 ## Related Species
-
-M. azedarach is closely related to *Azadirachta indica* (neem), with which it shares the family Meliaceae and many limonoid compounds. The two species are sometimes confused but can be distinguished by [[cannabis-leaf-morphology-and-phyllotaxy]] and fruit characteristics.
-
-*Melia toosendan* is a closely related species native to China, from which the anthelmintic compound toosendanin was first isolated. It is used similarly in traditional Chinese medicine.
-
-The genus *Melia* contains approximately 2–3 accepted species. *Azadirachta* species share the same insecticidal limonoid chemistry but are generally considered more potent and are more widely used in commercial [[cannabis-pest-management-guide]].
-
-## See Also
-
-- [[aloe-vera]]
-- turmeric
-- ginger
-- [[withania-somnifera]]
-- [[cinnamomum-verum]]
-- [[eugenia-caryophyllata]]
-- [[bacopa-monnieri]]
-- [[commiphora-myrrha]]
-- [[silybum-marianum]]
-- [[boswellia-sacra]]
-- [[thujone]]

@@ -25,13 +25,13 @@ It is native to the island of Socotra (Yemen), where it grows as an understory h
 
 Exacum affine is one of the most popular flowering houseplants worldwide. Its compact habit, long bloom period, and fragrance make it a staple of the floriculture industry.
 
-The species was introduced to horticulture in the late 19th century. Modern cultivars have been selected for larger flowers, compact growth, and extended bloom time.
+The species was introduced to horticulture in the late 19th century. Modern cultivars have been selected for larger flowers, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], and extended bloom time.
 
-Commercial production is centered in the Netherlands, Germany, and North America. Several million plants are sold annually through garden centers and florists.
+Commercial production is centered in the Netherlands, Germany, and [[guzman-psilocybin-mushrooms-north-america]]. Several million plants are sold annually through [[solomon-garden-centers-seedling-traps]] and florists.
 
 ## Taxonomy and Morphology
 
-**Classification:** Gentianaceae > Exaceae > Exacum. Authority: Balf.f. (1884). The genus Exacum comprises about 70 species distributed across tropical Africa, Madagascar, South Asia, and Southeast Asia.
+**Classification:** Gentianaceae > Exaceae > Exacum. Authority: Balf.f. (1884). The genus Exacum comprises about 70 species distributed across tropical Africa, Madagascar, South Asia, and [[psilocybe-southeast-asia-pacific]].
 
 Exacum affine is closely related to Exacum arabicum and Exacum molle from the Arabian Peninsula. Molecular phylogenetics places it in a clade of Socotran endemics.
 
@@ -65,7 +65,7 @@ Socotra's isolation has produced one of the most remarkable island floras on Ear
 
 ## Cultivation
 
-Exacum affine is grown as a summer annual or seasonal flowering pot plant in temperate regions. It thrives at temperatures of 16–24°C with high humidity.
+Exacum affine is grown as a summer annual or seasonal flowering pot plant in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It thrives at temperatures of 16–24°C with high humidity.
 
 Sow seeds on the surface of a fine, well-drained potting mix. Do not cover seeds — they require light for germination. Germination occurs in 10–14 days at 20–22°C.
 
@@ -73,7 +73,7 @@ Plants flower 10–14 weeks from sowing under long-day conditions. Commercial pr
 
 Water regularly to keep the soil evenly moist but not waterlogged. Reduce watering after flowering to allow the plant to set seed if desired.
 
-Feed with a balanced liquid fertilizer every 2 weeks during active growth. Avoid high-nitrogen feeds that promote leaf growth at the expense of flowers.
+Feed with a balanced [[comfrey-tea-liquid-fertilizer]] every 2 weeks during active growth. Avoid high-nitrogen feeds that promote leaf growth at the expense of flowers.
 
 Pinching young plants promotes branching and a fuller habit. Most commercial varieties are self-branching and do not require pinching.
 
@@ -88,34 +88,3 @@ Popular cultivars include 'Midget' (compact, deep blue), 'Blue Champion' (large 
 The species is also used in mixed container plantings, window boxes, and shaded annual borders. In USDA zones 10–11, it can be grown as a perennial ground cover.
 
 Cut flowers last 5–7 days in water. The fragrance makes them suitable for small table arrangements and posies.
-
-The essential oil from the flowers contains linalool and benzyl alcohol as major volatile compounds. This contributes to the characteristic sweet scent.
-
-Post-bloom plants can be composted or grown on for seed collection. Overwintered plants may produce a second flush of flowers if kept in good condition.
-
-## Conservation
-
-Socotra's endemic flora faces increasing pressure from climate change and overgrazing by feral goats. Exacum affine is not currently assessed by IUCN.
-
-Field surveys in 2000–2020 documented stable populations across the island. The species' ability to colonize disturbed sites provides some resilience.
-
-Ex situ conservation includes living collections at the Royal Botanic Gardens, Kew. Seed banking at the Millennium Seed Bank provides long-term storage.
-
-The Socotra Archipelago Protected Area legislation provides legal protection for native habitats. Enforcement remains a challenge in remote areas.
-
-Climate models predict significant habitat reduction on Socotra by 2080. Exacum affine's broad elevational range may buffer it against some impacts.
-
-Captive breeding for the horticultural trade reduces collection pressure on wild populations. All commercial stock is now propagation-grown.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[centaurium-erythraea]]
-- [[swertia-chirata]]
-- [[gentiana-verna]]
-- [[gentiana-nivalis]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-amarella]]
-- [[gentiana-purpurea]]
-- [[gentiana-cruciata]]
-- [[gentiana-punctata]]

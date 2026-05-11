@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán G, Allen JW, Gartz J. A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
+  - Guzmán G, Allen JW, Gartz J. A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto. 1998;14:189-280.
 type: concept
 ---
 
@@ -25,7 +25,7 @@ Allen and Gartz (1998) is the ceremonial use of Cordyceps species in
 combination with Elaphomyces truffles by indigenous peoples of Oaxaca, Mexico.
 This practice represents a unique intersection of ascomycete fungi and
 indigenous ceremonial traditions, distinct from the more widely known use of
-basidiomycete mushrooms (Psilocybe species) in Mesoamerican rituals.
+[[anemotropism-in-basidiomycete-mushrooms]] (Psilocybe species) in Mesoamerican rituals.
 
 ## The Ceremonial Director Concept
 
@@ -38,7 +38,7 @@ a companion or assistant element.
 
 This dual-fungal complex represents a sophisticated understanding of ecological
 relationships, as Cordyceps capitata and C. ophioglossoides are obligate
-parasites that grow from Elaphomyces fruiting bodies. The Trique practitioners
+parasites that grow from Elaphomyces [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]. The Trique practitioners
 appear to have recognized this biological relationship and incorporated it into
 their ceremonial framework.
 
@@ -70,7 +70,7 @@ and also parasitizes Elaphomyces species. It is recorded from:
 ## Elaphomyces: The Hidden Host
 
 Elaphomyces is a genus of hypogeous (underground) fungi in the family
-Elaphomycetaceae. These are true truffles forming mycorrhizal associations with
+Elaphomycetaceae. These are true truffles forming [[plants-without-mycorrhizal-associations]] with
 forest trees, particularly oaks, pines, and beeches. They produce globose,
 dark-colored fruiting bodies below the soil surface and rely on mammals
 (rodents, deer, wild pigs) for [[aquatic-fungi-spore-dispersal-ingold]]. Their involvement in the
@@ -88,60 +88,3 @@ characterized than those of Psilocybe species.
 
 The classification of these species as neurotropic in the Guzmán et al.
 checklist reflects their documented use in ceremonial contexts rather than
-necessarily confirmed psychoactive chemistry. This highlights an important
-methodological distinction in ethnomycology: cultural classification may not
-always align with biochemical analysis.
-
-## Ecological and Cultural Significance
-
-The Trique use of the Cordyceps-Elaphomyces complex reveals several important
-aspects of indigenous mycological knowledge:
-
-### Ecological Understanding
-The Trique recognition of the parasitic relationship between Cordyceps and
-Elaphomyces demonstrates detailed knowledge of [[gadd-fungal-ecology-endophytes]]. Understanding
-that one fungus grows from another requires sustained observation and careful
-attention to subterranean processes.
-
-### Forest Knowledge
-Finding Elaphomyces truffles requires intimate knowledge of forest ecosystems,
-including tree associations, soil types, and animal foraging patterns.
-
-### Ceremonial Framework
-The concept of a "director" suggests a hierarchical understanding of the active
-elements. While Psilocybe mushrooms are the primary [[cattle-dispersal-psychoactive-fungi-australia]] in
-Oaxacan ceremonies, the Cordyceps-Elaphomyces complex appears to play a
-complementary role.
-
-## Comparative Context
-
-The use of Cordyceps in ceremonial contexts is rare worldwide. The most notable
-parallel is Ophiocordyceps sinensis in Tibetan and Chinese medicine, though
-used medicinally rather than ceremonially. The Trique practice is distinctive
-in treating Cordyceps as a ceremonial element.
-
-## Distribution Implications
-
-The presence of the Cordyceps-Elaphomyces complex in Oaxaca suggests a wider
-distribution in Mexican pine-oak forests than currently documented. The 1998
-paper records them only from the Trique region, but they likely occur
-throughout the Mexican highlands wherever suitable forest habitats exist.
-
-## Research Gaps
-
-Several aspects of this ceremonial complex remain poorly understood:
-
-1. The exact chemical constituents responsible for any neurotropic effects
-   have not been fully characterized
-2. The full extent of the Trique ceremonial use has not been documented
-3. Whether other indigenous groups in Oaxaca recognize and use this complex
-   is unknown
-4. The specific Elaphomyces species involved have not been definitively
-   identified
-5. The linguistic and conceptual framework surrounding the "director" role
-   of Elaphomyces needs further study
-## See Also
-
-- [[mexico-northern-southern-mycobiotic-convergence-zone-guzman-1998]]
-- [[psilocybe-cubensis-cattle-association-african-origin-guzman-1998]]
-- [[southern-hemisphere-origin-hypothesis-neurotropic-fungi-guzman-1998]]

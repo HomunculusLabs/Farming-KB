@@ -1,5 +1,5 @@
 ---
-title: "Broadscale Urban Restoration and Watershed Repair"
+title: Urban Broadscale Restoration Watershed Repair
 created: 2026-04-28
 tags: [urban-permaculture, watershed, restoration, swales, erosion-control]
 date: 2026-04-25
@@ -40,7 +40,7 @@ and slowly sinks into the soil.
 
 Fruit and [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] are totally important parts of swale planting. The
 trees tap into the underground water stored by the swales and their
-roots hold the soil in place. Long after your swales and check dams
+roots hold the soil in place. Long after your swales and [[comparison-gabions-vs-check-dams]]
 have silted up, they will be visible as lines of trees along the
 hillsides.
 
@@ -88,49 +88,9 @@ area by pitting the land with a shovel. The pits collect seeds, water,
 animal droppings and mulch, creating rich, sheltered microclimates for
 plants to establish.
 
-Just laying down mulch on bare spots will conserve enough water to
-allow many seeds to germinate. These simple, low-tech interventions
-require no specialized equipment and can be done by anyone with basic
-tools.
-
-## Creek Restoration
-
-Stream interventions have been minimal, mainly consisting of planting
-native species, so the creek is largely on its own. In two years, the
-vegetation grew lush and insects, animals, and birds flourished; the
-water temperature dropped, improving habitat. We attract and feed
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] with umbellifers and composites.
-
-## The Role of Trees in Restoration
-
-Trees roots reach deep into the soil to hold it in place, tapping into
-the underground streams and sharing nutrients along webs of mycorrhizal
-fungi. Their shade and mulch allows other plants to grow, reweaving
-the web of life that existed there before. The structures you build are
-only temporary. Their primary function is to allow plants to establish.
-
-Creating urban woodlots of fire and timber wood grown around industrial
-zones can filter pollution from the air, produce oxygen, create habitat
-for birds and small animals. These trees represent a long-term
-investment in ecological restoration that will continue to function for
-decades without further human intervention.
-
-## [[holmgren-ecological-succession-and-pulsing]] in Restoration
-
-We can build up the soil and substitute our own herb, pioneer, and
-climax species. Depending upon the type of soil you start with (eroded,
-salted, swampy, worn out, acid, alkaline, clayey, or sandy), it is
-possible to introduce plants that will easily survive and might be more
-useful than the existing vegetation. [[cover-crops]] of clover or alfalfa
-or peas or beans [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in the soil, while buckwheat accumulates
-phosphorus and winter rye suppresses weed growth.
-
-If we play our cards right, in 20 years we can end up with forests of
-hazelnuts and peaches and blueberries. That is the plan, a permanent
-agriculture that restores degraded urban and peri-urban landscapes.
-
 ## See Also
-
-- [[urban-permaculture-swales-raised-beds]]
-- [[contour-swale-irrigation-design]]
-- urban-permaculture-edge-effect-and-design-principles
+- [[broadscale-restoration-watershed-repair]]
+- [[broadscale-watershed-restoration-techniques]]
+- [[query-how-to-test-and-remediate-urban-soil-for-food-growing]]
+- [[urban-permaculture-edge-effect-microclimate]]
+- [[urban-guerrilla-food-growing-city-agriculture]]

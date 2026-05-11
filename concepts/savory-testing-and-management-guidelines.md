@@ -2,11 +2,11 @@
 title: savory testing and management guidelines Guidelines
 created: 2026-04-26
 aliases: [testing guidelines, management guidelines, [[fukuoka-textdoc-no-cause-and-effect-in-nature]],
-          weak link, whole ecosystem test, HRM guidelines]
+          [[savory-weak-link-analysis]], whole ecosystem test, HRM guidelines]
 tags: [decision-making, testing-guidelines, management-framework,
       holistic-management, ecosystem-health]
-related: [savory-holistic-decision-making, savory-holistic-management-overview,
-          savory-ecosystem-foundation-blocks, savory-livestock-grazing-planning]
+related: [savory-holistic-decision-making, [[savory-holistic-management-overview]],
+          [[savory-ecosystem-foundation-blocks]], [[savory-livestock-grazing-planning]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -27,7 +27,7 @@ people think of these as the "whether to" and the "how to" guidelines.
 
 Ideally, every tool should be passed through each testing guideline
 before it is used. Only then can a tool be seen as appropriate or
-inappropriate in relation to the holistic goal at any time. If a tool
+inappropriate in relation to the [[savory-holistic-goal-definition]] at any time. If a tool
 fails to pass any test, it is not ruled out automatically, as there may
 be no alternative at that moment. However, applying a tool known to
 fail means the manager will ultimately fail to reach their goal unless
@@ -66,7 +66,7 @@ wealth it generates by investing in any but the weakest of them.
 
 ### Biological Weak Links
 
-Every organism in its life cycle has a point of greatest vulnerability.
+Every organism in its [[agaricus-campestris-biology-and-life-cycle]] has a point of greatest vulnerability.
 Generally, plants are most vulnerable during initial establishment when
 the germinated seed must find sustaining conditions in limited time. If
 sprouted seeds do not encounter the right soil, moisture, temperature,
@@ -88,49 +88,3 @@ those that follow, as populations grow geometrically once established.
 ### Human and Financial Weak Links
 
 The weak link guideline also applies to human resources (organization,
-skills, leadership) and financial resources (cash flow, debt,
-profitability). Resources are divided into biological, human, and
-financial categories, and each is considered separately to identify
-the current constraint.
-
-## Management Guidelines Overview
-
-Some management guidelines apply to only one tool. Burning applies only
-to fire; organization and personal growth apply only to human creativity.
-Others apply to more than one tool or to all of them. Some govern daily
-management situations while others come into play only in emergencies.
-
-Time, [[savory-fencing-economics-and-stock-density-curve]], and herd effect all relate to the use of animal
-impact and grazing and interrelate with one another. These are
-considered the most critical guidelines for halting and reversing
-desertification.
-
-## Guiding Principles
-
-Most of the principles reflected in the guidelines are common sense.
-Others stem from new understanding about the time dimension in resource
-management, the different decay processes and functioning of succession
-in brittle and nonbrittle environments, and the roles that herding
-animals and their predators play in brittle environments.
-
-In practice, the testing guidelines are used first: if a tool does not
-pass these tests, practitioners usually need go no further with that
-tool but must consider and test another. Knowledge from the management
-guidelines often enlightens the testing process, so both categories are
-ultimately interdependent.
-
-## Simplicity as a Design Principle
-
-The model is deliberately kept simple enough for most people to
-understand and use. Reversing desertification and the attendant decline
-of agriculture, watersheds, forests, and wildlife will demand the
-participation of millions of people who do not possess or need college
-degrees. Complexity in the guidelines would undermine this essential
-accessibility.
-
-## See Also
-
-- [[savory-holistic-management-overview]] for model context
-- [[savory-livestock-grazing-planning]] for time, stock density, and
-  herd effect in practice
-- [[savory-ranch-financial-planning]] for financial weak link analysis

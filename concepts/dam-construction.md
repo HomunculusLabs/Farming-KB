@@ -5,17 +5,18 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # Dam Construction in Permaculture
 
-Dam construction in permaculture is the design and building of water storage structures for irrigation, stock water, domestic supply, aquaculture, fire protection, and landscape rehydration. Dams (also called ponds or impoundments) are central elements of permaculture water strategy, especially in arid and seasonally dry climates. Bill Mollison covers [[mollison-farm-dam-design-modifications]] extensively in his water chapter and dryland strategies chapter, emphasising that water storage is the foundation of productive and resilient landscapes.
+Dam construction in permaculture is the design and building of water storage structures for irrigation, stock water, domestic supply, aquaculture, fire protection, and landscape rehydration. Dams (also called ponds or impoundments) are central elements of permaculture water strategy, especially in arid and seasonally dry climates. [[bill-mollison]] covers [[mollison-farm-dam-design-modifications]] extensively in his water chapter and dryland strategies chapter, emphasising that water storage is the foundation of productive and resilient landscapes.
 
 ## Purpose and Functions
 
-Dams serve multiple functions in a permaculture system. They store water for irrigation during dry periods, provide drinking water for livestock, create habitat for aquaculture and wildlife, moderate microclimates by providing thermal mass and humidity, serve as fire-fighting water reserves, enable gravity-fed water distribution to lower parts of the property, create recreational and aesthetic landscape features, and recharge groundwater through controlled infiltration.
+Dams serve multiple functions in a permaculture system. They store water for irrigation during dry periods, provide drinking water for livestock, create habitat for aquaculture and wildlife, moderate microclimates by providing [[comparison-windbreak-vs-thermal-mass]] and humidity, serve as fire-fighting water reserves, enable gravity-fed water distribution to lower parts of the property, create recreational and aesthetic landscape features, and recharge groundwater through controlled infiltration.
 
-In arid landscapes, Mollison states that water is the dominant theme for designers, and the quantity of fresh water is the final arbiter of successful settlement and sustainable agriculture. Dams are the primary means of ensuring reliable water supply across seasons and years of variable rainfall.
+In arid landscapes, Mollison states that water is the dominant theme for designers, and the quantity of fresh water is the final arbiter of successful settlement and [[phosphate-accumulators-sustainable-agriculture]]. Dams are the primary means of ensuring reliable water supply across seasons and years of variable rainfall.
 
 ## Site Selection
 
@@ -31,7 +32,7 @@ Earth dams are the most common type in permaculture, consisting of a compacted e
 
 Rock-fill dams use a mass of rock with a clay or concrete facing for waterproofing. These are appropriate where rock is abundant and clay is scarce. Rock-fill dams can be built on foundations that would not support the weight of an earth dam.
 
-Concrete dams are rarely used in permaculture due to their high cost and embodied energy. Small concrete structures may be used for spillways, outlet pipes, or as facing for earth dams in critical locations. Gabion dams, made from wire cages filled with rock, are useful for small check dams in watercourses.
+Concrete dams are rarely used in permaculture due to their high cost and embodied energy. Small concrete structures may be used for spillways, outlet pipes, or as facing for earth dams in critical locations. Gabion dams, made from wire cages filled with rock, are useful for small [[comparison-gabions-vs-check-dams]] in watercourses.
 
 ## Dam Wall Design
 
@@ -86,12 +87,3 @@ Regular inspection and maintenance are essential for dam safety. Key maintenance
 permaculture-catchment-design
 
 [[permaculture-earthworks]]
-
-permaculture-aquaculture
-
-[[permaculture-design]]
-
-- permaculture-designers-manual-dam-construction — Author-specific treatment of the same topic
-- [[decomposition]]
-- [[water-conservation]]
-- [[bill-mollison]]

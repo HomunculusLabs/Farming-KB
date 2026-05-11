@@ -88,32 +88,3 @@ In urban and landscape settings, cucumber tree requires ample space due to its m
 ## Ecological Role
 
 The flowers are pollinated by beetles, continuing an ancient pollination syndrome characteristic of primitive angiosperms. The floral structure is adapted to crawling pollinators rather than flying insects.
-
-Unlike many magnolia species, *M. acuminata* flowers after leaf emergence rather than before. This later flowering period protects blooms from late spring frosts, contributing to reliable seed set in northern populations.
-
-Seeds are dispersed by birds and small mammals, which are attracted to the bright orange-red arils. Each follicle contains 1–2 seeds, with a single tree producing thousands of seeds in favorable years.
-
-The species provides habitat and food for numerous wildlife species. Cavities in mature trees serve as nesting sites for woodpeckers, flying squirrels, and other cavity-nesting birds and mammals.
-
-In forest ecosystems, cucumber tree contributes to canopy structure and vertical diversity. Its large leaves create significant leaf litter, contributing to soil organic matter and nutrient cycling.
-
-The wood is straight-grained, light, and moderately soft, working easily with both hand and machine tools. It has been used for furniture, paneling, crates, and veneer, though commercial harvest is limited by the species' scattered distribution and relatively slow growth.
-
-The species is considered threatened or endangered in several states at the northern edge of its range. Habitat loss from urbanization and agricultural conversion has reduced populations in parts of Ontario, New York, and Pennsylvania.
-
-Conservation efforts include seed banking, habitat protection in state and national forests, and reforestation programs. The species' value in hybrid magnolia breeding provides additional incentive for ex situ conservation in botanical collections worldwide.
-
-## See Also
-
-- [[magnolia-soulangeana]]
-
-- [[magnolia-grandiflora]]
-- [[magnolia-virginiana]]
-- [[liriodendron-tulipifera]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[fagus-grandifolia]]
-- [[tilia-americana]]
-- [[ginkgo-biloba]]
-- [[betula-nigra]]
-- [[liquidambar-styraciflua]]

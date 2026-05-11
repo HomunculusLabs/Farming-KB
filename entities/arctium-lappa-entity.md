@@ -31,13 +31,13 @@ sources:
 # Arctium lappa
 
 **Greater burdock** is a robust biennial herb in the Asteraceae family,
-native to Europe and Asia and now naturalized across temperate regions
+native to Europe and Asia and now naturalized across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 worldwide. Known for its large heart-shaped leaves and distinctive
 purple-thistle flower heads that produce the iconic hooked burs, burdock
-has a long dual history as both a food crop and medicinal herb.
+has a long dual history as both a food crop and [[medicinal-herb-growing]].
 
 The taproot is the primary usable part — a thick, carrot-like root
-reaching 60–90 cm in length by the end of the first growing season. In
+reaching 60–90 cm in length by the end of the first [[extending-growing-season]]. In
 Japanese cuisine, burdock root (*gobo*) is a staple vegetable valued for
 its earthy flavor and crisp texture. In traditional Western herbalism,
 burdock root is classified as an "alterative" or blood purifier.
@@ -69,8 +69,8 @@ interchangeably with *A. lappa* but has a thinner, less fleshy root.
 ## Distribution and Habitat
 
 Native to Europe and temperate Asia, burdock has been introduced
-worldwide and naturalized across North America, Australia, and parts of
-South America. It thrives in disturbed soils, forest edges, roadsides,
+worldwide and naturalized across [[guzman-psilocybin-mushrooms-north-america]], Australia, and parts of
+[[guzman-psilocybin-mushrooms-south-america]]. It thrives in disturbed soils, forest edges, roadsides,
 stream banks, and vacant lots — anywhere with deep, nitrogen-rich soil
 and full to partial sun. Prefers well-drained loamy soils (pH 5.5–7.0)
 but tolerates a wide range. Deep taproot provides [[dighton-fungal-drought-tolerance-plant-water-relations]] once
@@ -88,62 +88,3 @@ Asian and European traditions:
 - **Nutrition:** Rich in inulin (up to 45% dry weight), a prebiotic
   fiber; contains potassium, calcium, iron, manganese (~72 kcal/100g)
 - **Harvest note:** First-year roots preferred — second-year become woody
-
-## Phytochemistry
-
-- **Inulin:** Fructan polysaccharide (15–45% dry weight); prebiotic,
-  supports beneficial gut microbiota
-- **Arctiin and arctigenin:** Lignans with anti-inflammatory, antitumor,
-  and neuroprotective activity *in vitro*
-- **Sesquiterpene lactones:** Including arctiopicrin; bitter principles
-  for digestive stimulation
-- **Polyacetylenes:** Furanodiynes with antibacterial and antifungal
-  properties
-- **Phenolic acids:** Chlorogenic acid, caffeic acid, cynarin;
-  antioxidant activity
-- **Flavonoids:** Quercetin, luteolin, and their glycosides
-
-## Traditional and Modern Medicinal Use
-
-In traditional Western herbalism, burdock root is classified as an
-alterative — covering conditions requiring blood and lymphatic "cleansing":
-- **Detoxification:** Used for skin conditions including eczema,
-  psoriasis, and acne
-- **Liver support:** Choleretic and hepatoprotective; supports bile
-  production and liver function
-- **Diuretic:** Mild diuretic action supports kidney function
-- **Anti-inflammatory:** Topical preparations for joint pain; internal
-  use for inflammatory skin conditions
-- **Digestive aid:** Bitter principles stimulate appetite and enzyme
-  production
-
-In TCM, *A. lappa* (牛蒡子, niú bàng zǐ) clears heat and relieves
-sore throat; seeds are considered more active than the root in TCM.
-
-## Permaculture Applications
-
-Burdock is an exceptional permaculture plant with multiple functions:
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines subsoil minerals (potassium,
-  calcium, magnesium, iron); excellent in chop-and-drop mulch systems
-- **Compost activator:** Mineral-rich leaves decompose rapidly,
-  activating compost piles
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Deep roots break compacted subsoil, improving
-  soil structure; attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] when flowering
-
-## Cultivation
-
-- **Propagation:** Direct seed in spring or autumn; germinates in 2–3
-  weeks; thin to 30–60 cm spacing
-- **Soil:** Deep, loose loam preferred; remove stones for straight roots
-- **Harvest:** Roots autumn of first year or spring of second year;
-  dig deeply (60+ cm) to avoid breaking taproot
-- **Yield:** 1–3 kg roots per plant under good conditions
-- **Invasiveness:** Burs spread aggressively — remove flower heads
-  before seed set if naturalization is undesired
-## See Also
-
-- [[arctium-minus]]
-
-- [[taraxacum-officinale]]
-- [[food-forest]]
-- [[yarrow]]

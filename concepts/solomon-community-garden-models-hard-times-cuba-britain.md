@@ -9,7 +9,7 @@ topics: [community-garden, urban-agriculture, food-self-sufficiency, cuba, brita
 
 ## Overview
 
-When economic conditions deteriorate, community gardens and urban agriculture become critical survival infrastructure. Steve Solomon's *Gardening When It Counts* draws on two powerful historical examples — the British wartime allotment system and Cuba's post-Soviet urban gardening revolution — to demonstrate that community-scale food production can sustain populations through prolonged hardship. These models provide actionable blueprints for building resilient local food systems.
+When economic conditions deteriorate, [[gaias-garden-creating-community-gardens]] and urban agriculture become critical survival infrastructure. Steve Solomon's *Gardening When It Counts* draws on two powerful historical examples — the British wartime allotment system and Cuba's post-Soviet urban gardening revolution — to demonstrate that community-scale food production can sustain populations through prolonged hardship. These models provide actionable blueprints for building resilient local food systems.
 
 ## The British Wartime Allotment
 
@@ -49,7 +49,7 @@ After the collapse of the Soviet Union in 1991, Cuba lost its primary trading pa
 
 - **Land redistribution**: Huge cooperative sugar farms were broken up and converted to individual and community holdings
 - **Urban garden blocks**: City residents were freely granted garden plots at the edges of towns and cities, each approximately one-third of an acre
-- **Community organization**: Neighborhood gardening groups and horticultural cooperatives formed to share resources and knowledge
+- **[[ozier-pdc-stewardship-mandala-community-organization]]**: Neighborhood gardening groups and horticultural cooperatives formed to share resources and knowledge
 - **Distribution networks**: Excess produce was sold at community stands at 30-50% of farmers' market prices
 - **Institutional support**: Produce was donated to schools, clinics, and senior centers
 
@@ -60,7 +60,7 @@ The Cuban model achieved extraordinary results:
 - **Havana**: Half of all produce consumed in the capital was grown in urban gardens
 - **Nationwide**: Urban gardens produced 60% of all vegetables consumed in Cuba
 - **Caloric sufficiency**: Despite ongoing US economic sanctions, no one was hungry and the population was well-nourished
-- **Organic methods**: All production was organically grown, as chemical fertilizers and pesticides were unavailable
+- **Organic methods**: All production was organically grown, as [[cannabis-chemical-fertilizers]] and pesticides were unavailable
 - **Productivity**: Cuba's tropical climate allowed two crops per year in most areas
 
 ### Innovations
@@ -68,7 +68,7 @@ The Cuban model achieved extraordinary results:
 Cuba's response included several innovations born of necessity:
 
 - **Non-petroleum agriculture**: Without access to tractor fuel, all cultivation was done with hand tools and animal power
-- **Biological pest control**: Without chemical pesticides, integrated pest management using beneficial insects and companion planting became standard
+- **[[hamilton-beneficial-insects-and-biological-pest-control]]**: Without chemical pesticides, [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] using [[coleman-beneficial-insects-and-ecological-pest-control]] companion planting became standard
 - **Organic fertility**: Without imported fertilizer, composting, worm farming, and crop rotation became the primary fertility sources
 - **Urban-rural integration**: City dwellers became food producers, blurring the traditional divide
 
@@ -88,62 +88,3 @@ Solomon observed that community gardens had not caught on in North America to th
 - **Lost knowledge**: Multiple generations had grown up without food-growing skills
 
 ### Size Requirements for Self-Sufficiency
-
-Solomon's analysis of garden size requirements:
-
-- **Half calories**: Approximately 2,000 square feet (185 square meters) of actual growing beds feeds two adults for half their caloric needs
-- **Full calories**: 4,500 square feet (420 square meters) plus root cellar storage for winter can provide nearly complete caloric self-sufficiency for two adults
-- **With ley rotation**: Doubling the garden area to allow for grass/clover fallow periods (3-5 year rotations) means needing 6,500 square feet total enclosed area
-- **Potato dominance**: Potatoes are the most efficient calorie crop, producing significantly more food energy per unit area than cereal grains
-
-### Climate Considerations
-
-The Cuban and British models operated in different climates:
-
-- **Britain**: Mild, cloudy summers slow vegetable growth but mild winters allow year-round frost-hardy cropping
-- **Cuba**: Tropical climate allows two crops per year and rapid growth rates
-- **North America**: Variable — requires matching crop selection to local frost-free days and precipitation patterns
-
-## Practical Implementation
-
-### Starting a Community Garden
-
-1. **Secure land**: Identify available public or private land suitable for cultivation
-2. **Appropriate sizing**: Allocate at least 2,700 square feet per participating family
-3. **Provide infrastructure**: Fencing (essential), water access, tool storage, composting areas
-4. **Knowledge sharing**: Establish mentorship between experienced and novice gardeners
-5. **Preserve knowledge**: Document successful techniques and varieties for future gardeners
-
-### Food Preservation
-
-- **Root cellaring**: Cool, humid storage for potatoes, root crops, and cabbage through winter
-- **Freezing and canning**: For long-term preservation of surplus
-
-### The Ley Rotation System
-
-Solomon strongly advocates the ley system for sustainable community-scale production:
-
-- **Cycle**: Three to five years in vegetable production, then three to five years in grass/clover
-- **Benefits**: Rebuilds soil organic matter, breaks disease and pest cycles, restores biological balance
-- **Implication**: Community gardens need approximately double the cultivated area to maintain continuous production through rotation
-
-## Lessons for Resilience
-
-The British and Cuban experiences demonstrate several principles:
-
-1. **Institutional infrastructure matters**: Community gardens are more effective when organized and supported at a civic level
-2. **Knowledge is as important as land**: The skills to grow food must be maintained and transmitted across generations
-3. **Social bonds strengthen food systems**: Community gardens work best as social enterprises, not individual isolation
-4. **Organic methods are sufficient**: High yields are achievable without chemical inputs when soil biology is prioritized
-5. **Timing is critical**: Food gardening infrastructure must be established before crises hit, not during them
-
-## See Also
-
-- [[solomon-self-sufficiency-calorie-production-economics]]
-- [[solomon-self-sufficiency-garden-production]]
-- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
-- solomon potato growing guide solomon
-- [[solomon-garden-planning-calorie-production]]
-- [[solomon-root-cellaring-food-preservation]]
-- [[solomon-soil-freezing-requirements-sustainable-gardening]]
-- [[solomon-vegetableatarian-experiment-calorie-production-home-garden]]

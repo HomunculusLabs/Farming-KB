@@ -87,23 +87,3 @@ In ancient Egyptian religion, the date palm represented the god Huh, one of the 
 The palm is the national tree of Saudi Arabia and Iraq, and its silhouette appears on currency, flags, and official seals across the region. Phoenix dactylifera wood and leaf fossils have been found dating back 50 million years, indicating the genus is far older than human cultivation.
 
 Traditional oasis agriculture centers on date palms, which provide shade, [[natural-building-materials-guide]], and food while creating microclimates that support understory crops such as wheat, alfalfa, and citrus beneath the canopy.
-
-Palm trunk wood is used in construction and furniture making across the Middle East and North Africa. Fronds are woven into baskets, mats, and roofing thatch, while the fiber from leaf sheaths provides cordage and packing material.
-
-Date palm sap (toddy) is collected by tapping the inflorescence and can be consumed fresh or fermented into palm wine. In some regions, the sap is boiled down to produce date sugar or palm jaggery as traditional sweeteners.
-
-## See Also
-
-- [[areca-catechu]]
-- [[vitis-vinifera]]
-- punica-granatum
-- [[persea-americana]]
-- [[curcuma-longa]]
-- [[piper-nigrum-entity]]
-- [[cinnamomum-verum]]
-- [[salvia-officinalis]]
-- [[kaempferol]]
-- [[musa-acuminata]]
-- [[citrus-sinensis]]
-- [[camellia-sinensis-entity]]
-- [[coffea-arabica]]

@@ -8,7 +8,7 @@ sources: [papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 ---
 # Enoki Mushroom Cultivation
 
-Enoki (Flammulina velutipes) is one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the commercial market.
+Enoki ([[flammulina-velutipes]]) is one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan, where it has been grown commercially for centuries. In the wild, it is a short-stemmed mushroom with broad caps. Through manipulation of CO2 and light levels, cultivators produce the characteristic long-stemmed, small-capped form that dominates the [[porcini-commercial-market]].
 
 ## Species Information
 
@@ -16,7 +16,7 @@ Enoki (Flammulina velutipes) is one of the most popular [[fungi-cultivated-mushr
 - Synonyms: Collybia velutipes (Fr.) Quel.
 - Common names: Enokitake ("Snow Peak Mushroom"), Nametake ("Slimy Mushroom"), Yuki-motase ("Snow Mushroom"), The Winter Mushroom, The Velvet Foot, The Golden Mushroom (Thailand)
 - Family: Tricholomataceae
-- Distribution: Widespread throughout temperate regions worldwide, from sea level to tree-line
+- Distribution: Widespread throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, from sea level to tree-line
 
 ## Morphology
 
@@ -57,7 +57,7 @@ Cropping cycle: 2-3 crops, 10-12 days apart. Most strains require a cold shock f
 The Japanese bottle method is the industry standard:
 
 1. Polypropylene bottles filled with [[oyster-mushroom-supplemented-sawdust-blocks]] (alder, cottonwood, poplar, willow, aspen)
-2. Inoculate with grain spawn at 10-15% rate
+2. Inoculate with [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at 10-15% rate
 3. Incubate at 70-75 F for 2-3 weeks
 4. Cold shock to 45-50 F for [[growing-gourmet-primordia-formation-pinning]]
 5. Insert a paper or plastic cylinder into the bottle opening to channel CO2
@@ -76,7 +76,7 @@ While bottle culture is the commercial standard, Enoki can also be grown in:
 
 ## Mycelial Characteristics
 
-White, longitudinally linear, becoming finely appressed and tinged light brown to spotted with golden yellow-brown zones with age. Surface roughens resembling fine sandpaper. Sometimes becomes beaded at earliest stage of primordia formation. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during cold storage of culture slants. Mycelium on grain is white and vigorous.
+White, longitudinally linear, becoming finely appressed and tinged light brown to spotted with golden yellow-brown zones with age. Surface roughens resembling fine sandpaper. Sometimes becomes beaded at earliest stage of [[mushroom-pinning-primordia-formation-strategies]]. Long-stemmed, small-capped mushrooms commonly form along inside periphery of petri dish or during [[root-cellaring-guide]] of culture slants. Mycelium on grain is white and vigorous.
 
 ## Yield
 
@@ -88,61 +88,3 @@ White, longitudinally linear, becoming finely appressed and tinged light brown t
 ## Medicinal Properties
 
 - "FVP" (Flammulina velutipes polysaccharide) shows anti-tumor activity
-- 80-100% effective against Sarcoma 180 and Ehrlich carcinoma in animal models
-- Epidemiological study in Nagano, Japan found a community of Enoki growers with unusually low cancer rates
-- Anti-cancer activity confirmed by Ikekawa et al. (1968), Zeng et al. (1990), Qingtian et al. (1991)
-- Enoki ranks among the cultivated mushrooms with documented antitumour polysaccharides
-
-## Nutritional Content
-
-Crude protein: 17-31%; fat: 1.9-5.8%; fiber: 3.7%; ash: 7.4%. Protein content varies with substrate. Enoki is valued in Asian cuisine for its crisp texture and mild flavor, commonly used in soups, hot pots, and stir-fries.
-
-## Harvesting and Storage
-
-## Related Topics
-
-- [[oyster-mushroom-spawn-production]] for grain [[azurescens-spawn-preparation-grain-to-wood]]
-- king-stropharia-wine-cap-cultivation for comparison with outdoor cultivation
-- [[maitake-cultivation]] for another wood-decomposing mushroom
-## Merged: Collybia and Marasmius Species Identification
-
-# Collybia and Marasmius Species Identification
-
-## Overview
-
-Collybia and Marasmius are two related genera of small to medium-sized mushrooms that are ecologically important and include several species of interest to foragers. Both genera contain species that are notably tough and resilient, with the ability to dry out completely and then revive when rehydrated. This remarkable desiccation tolerance is reflected in the genus name Marasmius, which comes from Greek "marasmos" meaning to dry out or wither.
-
-These genera are among the last mushrooms to disappear as cold weather begins and can often be found fruiting during periods when few other fleshy fungi are active. Duggar specifically noted that as cold weather approaches, the last forms to disappear include Pleurotus, Marasmius, Clitocybe, Armillaria, and Collybia, highlighting the cold tolerance of these genera.
-
-## Collybia Velutipes (Velvet Foot or Enoki)
-
-Collybia velutipes, now more commonly classified as Flammulina velutipes, is one of the most cold-tolerant of all fleshy mushrooms. Duggar described it as able to withstand considerable frost and designated it as a typical early winter fleshy species.
-
-The species is conspicuous at the time of early frost, occurring about decayed roots or stumps. It typically grows in clusters on dead or dying hardwood trees, particularly elms, willows, and other broadleaf species.
-
-The cap is smooth, viscid (sticky) when moist, and orange-brown to tan in color. The gills are white to pale yellow, attached to the stem, and narrow. The stem is distinctly velvety (hence the name "velutipes" and the common name "velvet foot") with a dark brown to black velvety surface, especially near the base. This dark velvety lower stem contrasts sharply with the lighter upper stem and cap.
-
-The wild form of Collybia velutipes is quite different in appearance from the cultivated enoki mushroom familiar from grocery stores and Asian cuisine. The cultivated form is grown in low-light conditions that produce long, thin, white stems and tiny pale caps, while the wild form has a much shorter, darker stem and larger cap. See enoki cultivation for details on cultivation.
-
-## Collybia Species Characteristics
-
-The genus Collybia (in its traditional sense) includes small mushrooms with white spore prints, central stems, and gills that are typically attached to the stem. Many species grow on decaying wood or forest litter.
-
-Collybia dryophila is a common species found in deciduous forests, particularly under oaks. It has a tan to brownish cap, white gills, and a slender stem. It is generally considered edible but is too small and insubstantial to be of significant culinary interest.
-
-Collybia butyracea, the butter collybia, has a distinctly greasy or buttery-feeling cap surface and a characteristic smell of rancid butter. It is found on forest litter in both deciduous and coniferous forests.
-
-Modern taxonomy has significantly revised the genus Collybia, with many former Collybia species moved to other genera including Gymnopus, Rhodocollybia, and Marasmius. The taxonomic changes can be confusing, but the field identification features remain useful regardless of nomenclature.
-
-## Marasmius Oreades (Fairy Ring Mushroom)
-
-Marasmius oreades is one of the most well-known and widely collected wild mushrooms, famous for its habit of growing in rings (fairy rings) in lawns, pastures, and grasslands. It is a good edible with a pleasant flavor, and fairy rings can produce large quantities of mushrooms.
-
-The cap is 1 to 5 centimeters in diameter, convex to broadly bell-shaped with a central umbo (bump). The color is tan to light brown, often with a paler margin. The surface is smooth and dry, becoming somewhat wrinkled with age. A key identification feature is that the cap is distinctly hygrophanous, becoming much paler (two-toned) as it dries.
-
-The gills are white to cream, broadly attached to the stem or slightly decurrent, and are well-spaced. Between the gills, on the cap surface, there are often interveined connections that create a characteristic collybioid pattern.
-
-The stem is tough, solid, smooth, and whitish to pale brown. A notable feature is the extreme toughness of the stem, which is difficult to break even when bent. This toughness is characteristic of the genus Marasmius.
-- [[enoki-cultivation]]
-- [[mushroom-cultivation]]
-- [[marasmius-oreades]]

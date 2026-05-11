@@ -16,10 +16,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "Neuwinger, H.D. (2000). African Traditional Medicine: A Dictionary of Plant Use and Applications. Medpharm Scientific Publishers."
   - "Hutchings, A., Scott, A.H., Lewis, G., & Cunningham, A.B. (1996). Zulu Medicinal Plants: An Inventory. University of Natal Press."
   - "Watt, J.M. & Breyer-Brandwijk, M.G. (1962). The Medicinal and Poisonous Plants of Southern and Eastern Africa. 2nd ed. Livingstone."
-  - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. South African Journal of Botany, 77, 741-754."
+  - "De Beer, J.J. & van Wyk, B.E. (2011). An ethnobotanical survey of the Agter-Hantam, Northern Cape. [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 77, 741-754."
   - "Gessler, M.C., Nkunya, M.H., Chrhara, R.S. et al. (1995). Screening of Tanzanian medicinal plants for antifungal activity. Phytomedicine, 2(3), 271-274."
 ---
 
@@ -31,7 +32,7 @@ sources:
 
 The species is most noted for its large, buoyant seeds, which are carried by ocean currents across vast distances, and for their traditional use as a oneirogen — a substance believed to induce vivid, lucid dreams when consumed before sleep.
 
-Traditional healers across sub-Saharan Africa and parts of Southeast Asia use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
+Traditional healers across sub-Saharan Africa and parts of [[psilocybe-southeast-asia-pacific]] use the seeds for divination, dream incubation, communication with ancestors, and as a general tonic.
 
 ## Taxonomy
 
@@ -80,68 +81,10 @@ The phytochemistry of Entada rheedii seeds remains incompletely characterized, w
 - **Saponins:** Present in seed tissue; may contribute to mild psychoactive and dream-enhancing effects. Saponin content is reported as moderate by thin-layer chromatography (TLC).
 - **[[hplc-analysis-of-tryptamine-alkaloids]]:** Trace amounts of dimethyltryptamine (DMT) and 5-methoxy-DMT have been anecdotally reported but not conclusively confirmed in peer-reviewed literature for this species.
 - **Tannins:** Proanthocyanidins and condensed tannins present in seed coat and cotyledon.
-- **Flavonoids:** Quercetin, kaempferol derivatives detected in leaf tissue.
+- **Flavonoids:** Quercetin, kaempferol derivatives detected in [[leaf-tissue-analysis-crop-nutrient-status]].
 - **Proteins:** Seeds are protein-rich (approximately 25-30% crude protein by dry weight).
-- **Fatty acids:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
+- **[[carbon-isotope-labelling-mycorrhizal-fatty-acids]]:** Predominantly linoleic, oleic, and palmitic acids in seed oil.
 
 ⚠️ **Phytochemical caveat:** Many online sources attribute significant tryptamine content to E. rheedii seeds, but analytical confirmation is limited. The oneirogenic effects may be primarily saponin-mediated rather than tryptamine-mediated.
 
 ## Traditional and Ethnobotanical Use
-
-### Dream Incubation and Divination (Primary Use)
-
-Across southern and eastern Africa, E. rheedii seeds are the most widely used botanical oneirogen.
-
-**Zulu and Xhosa traditions:** Traditional healers (*inyanga* or *sangoma*) prescribe the seeds to induce vivid dreams believed to facilitate communication with ancestors (*amadlozi*) and provide guidance on illness, social disputes, or future events.
-
-**Preparation:** The hard seed coat is cracked or filed open, and the white cotyledon is removed.
-The cotyledon is consumed raw, powdered and mixed with water, or steeped as a tea. Typical dose: half to one whole cotyledon (approximately 5-15 g) consumed 30-60 minutes before sleep.
-
-**Reported effects:** Intensely vivid, colorful, and narrative-driven dreams. Users report increased dream recall, occasional lucid dreaming, and dreams with perceived prophetic content.
-
-### Medicinal Applications
-
-**General tonic:** Seeds consumed as a strengthening tonic, particularly after illness.
-**Wound healing:** Seed paste applied topically to wounds and skin lesions.
-**Anti-inflammatory:** Leaf decoctions used for joint pain and swelling.
-**Antifungal:** Crude extracts active against [[candida-albicans]] and dermatophytes in vitro.
-**Stomach ailments:** Seed preparations for digestive complaints in some traditions.
-**Fishing:** Crushed seeds used as ichthyotoxin in parts of Southeast Asia to immobilize fish.
-
-## Cultivation
-
-**Propagation:** Seeds require scarification (mechanical nicking or acid treatment) to break physical dormancy imposed by the hard testa.
-Germination occurs within 2-6 weeks after scarification in warm, moist conditions.
-Soaking in water for 24-48 hours after scarification improves germination rates (reported 50-70%).
-
-**Growing conditions:** Tropical to [[query-how-do-i-grow-bananas-in-a-subtropical-climate]]. Requires consistent warmth (minimum 15°C), high humidity, and well-drained soil.
-Full sun to partial shade. Rapid growth in ideal conditions (1-3 m/year).
-
-**Support:** Requires a substantial trellis, tree, or structure to climb. Not suitable for container cultivation long-term due to massive size.
-
-**Hardiness:** Not frost-tolerant. USDA zones 10-12 only.
-In [[fukuoka-natural-farming-temperate-climates]], may be grown as an annual ornamental but will not reach flowering size.
-
-## Ecological Role
-
-**Seed dispersal:** Oceanic drift (thalassochory) is the primary long-distance dispersal mechanism. Seeds can remain viable after floating in seawater for extended periods (months to years).
-**Wildlife:** Pods and seeds serve as food for various mammals and birds in native range.
-**Nitrogen fixation:** As a member of Fabaceae (Mimosoideae), E. rheedii likely associates with rhizobial bacteria, contributing fixed nitrogen to forest ecosystems.
-
-## Permaculture Applications
-
-- **Large-scale ornamental vine:** Dramatic presence in tropical food forests and permaculture gardens.
-- **Seed harvest:** Sustainable seed collection for traditional medicine or personal use.
-- **Nitrogen fixation:** Potential nitrogen input in tropical agroforestry systems.
-- **[[dighton-fungi-mangrove-coastal-ecosystems]]:** Useful in stabilizing coastal dunes and forest margins.
-- **Companions:** Grows well with [[banisteriopsis-caapi]], and other tropical vines and trees.
-## Related Species
-
-- **Entada phaseoloides** (matchbox bean): Asian-Pacific species with similar large seeds; used medicinally in the Philippines and Papua New Guinea.
-- **Entada gigas** (giant sea heart): Neotropical species producing the largest legume pods in the world (up to 2 m); seeds commonly found on Atlantic beaches.
-- **Entada abyssinica** (African dream herb variant): East African montane species; seeds also used for dream induction.
-
-## See Also
-
-- [[silene-capensis]] — South African dream herb (Xhosa ubulawu)
-- [[dimethyltryptamine]] — Primary psychedelic tryptamine found in related species

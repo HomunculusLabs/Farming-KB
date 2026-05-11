@@ -23,7 +23,7 @@ sources:
 
 **Schoenoplectus lacustris**, commonly known as common club-rush, bulrush, or lake sedge, is a tall perennial emergent aquatic plant in the family Cyperaceae. It forms extensive stands along the margins of lakes, rivers, and slow-moving waterways throughout the temperate Northern Hemisphere.
 
-The species was formerly classified as *Scirpus lacustris* L. and is still widely referred to by that name in ecological literature. It is one of the tallest sedge species, reaching heights of 3 m or more in favorable conditions, and plays a significant role in shoreline stabilization and constructed wetland systems.
+The species was formerly classified as *Scirpus lacustris* L. and is still widely referred to by that name in ecological literature. It is one of the tallest sedge species, reaching heights of 3 m or more in favorable conditions, and plays a significant role in shoreline stabilization and [[comparison-constructed-wetland-vs-backyard-pond]] systems.
 
 ## Taxonomy and Morphology
 
@@ -44,7 +44,7 @@ Two subspecies are generally recognized: subsp. *lacustris* (circumboreal, talle
 
 ## Distribution and Habitat
 
-*S. lacustris* has a circumboreal distribution, occurring across Europe, much of Asia, and [[psilocybin-north-america-pacific-northwest]]. It is absent from tropical regions but extends into North Africa and the Middle East along major river systems.
+*S. lacustris* has a circumboreal distribution, occurring across Europe, much of Asia, and [[psilocybin-north-america-pacific-northwest]]. It is absent from [[fukuoka-natural-farming-in-tropical-regions]] but extends into North Africa and the Middle East along major river systems.
 
 The species grows in standing or slow-moving fresh water, typically at depths of 0.3–1.5 m. It colonizes lake margins, backwaters, oxbow lakes, canals, and ditches. It prefers nutrient-rich substrates with organic mud but tolerates a wide range of conditions.
 
@@ -58,7 +58,7 @@ Club-rush stands provide important spawning habitat for fish species including p
 
 Below the waterline, the stem bases and rhizomes create a complex three-dimensional structure that supports periphyton and epiphytic algae. This attached algal community contributes to [[lichens-primary-production-soil-formation-dighton]] in the wetland and serves as food for grazing invertebrates such as snails and mayfly nymphs.
 
-The extensive rhizome network binds substrate particles and reduces wave erosion along shorelines. Decomposing stem and rhizome material contributes significant organic matter to wetland sediments, fueling benthic detritivore communities.
+The extensive rhizome network binds substrate particles and reduces wave erosion along shorelines. Decomposing stem and rhizome material contributes significant [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] to wetland sediments, fueling benthic detritivore communities.
 
 The species supports a diverse invertebrate fauna, including damselfly and dragonfly larvae, water beetles, and caddisfly larvae. These invertebrates in turn support amphibians and insectivorous birds that forage within the stands.
 
@@ -76,37 +76,14 @@ The stems have also been used historically for thatching small structures and as
 
 ## Cultivation and Management
 
-*S. lacustris* is propagated from rhizome divisions planted in shallow water (10–40 cm depth) during early spring. Planting densities of 6–10 plants per square meter establish full cover within 2 growing seasons. The species spreads readily through rhizomatous growth but is less aggressive than *Typha* in most settings.
+*S. lacustris* is propagated from rhizome divisions planted in shallow water (10–40 cm depth) during early spring. Planting densities of 6–10 plants per square meter establish full cover within 2 [[jeavons-climate-adaptation-growing-seasons]]. The species spreads readily through rhizomatous growth but is less aggressive than *Typha* in most settings.
 
 Annual harvesting of above-ground biomass in late autumn promotes vigorous regrowth and removes accumulated nutrients. Yields of 8–15 tonnes dry matter per hectare are typical in fertilized constructed wetland systems. The harvested material can be composted or used as a low-grade biofuel feedstock.
 
-Control methods for unwanted spread include water level manipulation and cutting below the waterline. Unlike *Typha*, *S. lacustris* recovers more slowly from cutting, making it easier to manage in mixed wetland plantings. Grazing by cattle or water buffalo can maintain open stands and prevent succession to shrub-dominated communities.
+[[cho-natural-pest-control-methods]] for unwanted spread include water level manipulation and cutting below the waterline. Unlike *Typha*, *S. lacustris* recovers more slowly from cutting, making it easier to manage in mixed wetland plantings. Grazing by cattle or water buffalo can maintain open stands and prevent succession to shrub-dominated communities.
 
 ## Threats and Conservation
 
-Natural stands of *S. lacustris* have declined in parts of western Europe due to wetland drainage, river channelization, and pollution. Eutrophication favors tall competitive species such as *Phragmites australis* at the expense of *Schoenoplectus* in many degraded wetlands.
+Natural stands of *S. lacustris* have declined in parts of western Europe due to wetland drainage, river channelization, and pollution. Eutrophication favors tall competitive species such as *[[phragmites-australis]]* at the expense of *Schoenoplectus* in many degraded wetlands.
 
 The species is listed as Least Concern by the IUCN but is protected under national legislation in several European countries. Conservation efforts focus on maintaining natural water level fluctuations and reducing nutrient inputs to remaining wetland habitats. Restoration projects have successfully re-established stands from rhizome transplants in former agricultural wetlands.
-
-[[dighton-fungi-climate-change-feedback]] poses a long-term threat through altered precipitation patterns and increased frequency of summer droughts in temperate regions. Reduced summer water levels may fragment existing stands and favor more drought-tolerant species.
-
-## Phytoremediation and Water Treatment
-
-*S. lacustris* is widely used in constructed wetlands for wastewater treatment across Europe. Its upright growth habit allows high planting densities without shading adjacent plants, and the extensive root system provides large surface area for microbial biofilm development.
-
-The species effectively removes nitrogen (40–70%), phosphorus (30–60%), and suspended solids from secondary-treated wastewater in vertical-flow and horizontal-flow constructed wetland systems. Performance is comparable to *Phragmites australis* in temperate climates.
-
-Radial oxygen release from the roots creates aerobic microzones in the rhizosphere, supporting nitrifying bacteria. The species also accumulates moderate levels of heavy metals in root tissues, particularly zinc and manganese, making it suitable for polishing contaminated surface waters.
-
-In horizontal subsurface-flow wetlands, *S. lacustris* shows excellent adaptability to variable hydraulic loading rates. Root penetration depth reaches 40–60 cm in gravel substrates, maximizing contact between wastewater and the root-microbial biofilm. The species tolerates periodic organic loading shocks better than many other wetland macrophytes.
-
-## See Also
-
-- typha-latifolia-entity
-- [[acorus-calamus]]
-- [[nasturtium-officinale]]
-- [[nymphaea-alba]]
-- [[eichhornia-crassipes]]
-- [[canna-indica]]
-- [[pistia-stratiotes]]
-- [[nuphar-lutea]]

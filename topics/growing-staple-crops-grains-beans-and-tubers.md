@@ -15,6 +15,7 @@ tags:
 date: 2026-05-01
 updated: 2026-05-01
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - The Organic Grain Grower (Jack Lazor)
   - Homegrown Whole Grains (Sara Pitzer)
   - The Resilient Gardener (Carol Deppe)

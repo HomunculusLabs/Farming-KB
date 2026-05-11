@@ -88,33 +88,6 @@ BOM is named following the RBO-M convention:
 - **RBO**: indicates beta-benzyl oxygen (benzyl + oxy) on the
   [[phenethylamine-chain-length-effects]]
 - **M**: indicates derivation from mescaline (the ring substitution
-  pattern of 3,4,5-trimethoxy)
-
-The BOX family represents systematic exploration of beta-oxygenated
-phenethylamines derived from various 2C-X parents:
-
-| Compound | Parent    | Beta group | Activity       |
-|----------|-----------|------------|----------------|
-| BOD      | 2C-D      | OMe        | Active         |
-| BOB      | 2C-B      | OMe        | Most potent    |
-| BOH      | MDPEA     | OMe        | Mildly active  |
-| BOHD     | 2C-D      | OH         | Hypotensive    |
-| BOM      | Mescaline | OMe        | Marginally     |
-
-The pattern shows that beta-methoxylation does not dramatically
-enhance potency, with activity ratios relative to the parent
-ranging from roughly 0.5x to 2x.
-
-## Significance
-
-BOM adds to the BOX family data set and helps establish that
-beta-methoxylation of phenethylamines is not a reliable strategy
-for [[cannabis-potency-enhancement-intact-flowers]]. The compound remains incompletely
-characterized but serves as a useful reference point in the SAR
-of beta-substituted phenethylamines.
 
 ## See Also
-
-- [[pihkal-mescaline-analogs]]
 - [[bod-pihkal-entry-14]]
-- [[bob-pihkal-entry-13]]

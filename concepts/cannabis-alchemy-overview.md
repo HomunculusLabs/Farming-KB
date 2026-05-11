@@ -21,7 +21,7 @@ spiritual essences.
 
 The connection between cannabis and alchemy stretches back thousands of years.
 Ancient practitioners in India, China, and the Middle East developed early
-extraction methods that concentrated the plant's active compounds. In India,
+[[arbuscular-mycorrhizal-spore-extraction-methods]] that concentrated the plant's active compounds. In India,
 charas (hand-rubbed hashish) collection represents one of the oldest known forms
 of [[comparison-cannabis-extraction-basics-vs-extraction-methods]], where resin glands are mechanically separated from plant
 material through careful handling of flowering tops.
@@ -36,7 +36,7 @@ substances.
 
 Traditional alchemy operated on principles of separation, purification, and
 recombination (solve et coagula). These same principles underpin modern
-cannabis extraction:
+[[cannabis-extraction-basics]]:
 
 - **Separation**: Isolating [[greg-green-trichomes-and-resin-glands]] from plant biomass
 - **Purification**: Removing waxes, lipids, chlorophyll, and other impurities
@@ -52,9 +52,9 @@ contaminants.
 Contemporary extraction techniques have evolved far beyond manual methods while
 still embodying alchemical principles:
 
-- **Solvent extraction**: Using ethanol, butane, or CO2 to dissolve and
+- **[[cannabis-solvent-extraction]]**: Using ethanol, butane, or CO2 to dissolve and
   separate cannabinoids and terpenes from plant material
-- **Rosin pressing**: Mechanical separation using heat and pressure, requiring
+- **[[cannabis-rosin-pressing]]**: Mechanical separation using heat and pressure, requiring
   no solvents
 - **[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]**: Using cold water and agitation to separate
   trichome heads from plant matter
@@ -81,16 +81,9 @@ adds therapeutic value.
 ## Therapeutic Implications
 
 Cannabis alchemy's primary practical value lies in producing preparations that
-offer more precise and potent therapeutic effects than raw plant material.
+offer more precise and potent [[cbd-therapeutic-effects]] than raw plant material.
 Concentrated extracts allow for accurate dosing, faster onset of effects, and
 the ability to formulate products targeted at specific conditions. The
 [[cannabis-terpene-entourage-effect-profiles]], where multiple cannabis compounds work synergistically, can
 be better preserved or manipulated through alchemical processing compared to
 synthetic single-compound pharmaceuticals.
-
-## See Also
-
-- [[lemon-cannabis-alchemy-direct-vaporization]]
-- [[hashish-production-methods]]
-- [[spagyric-cannabis-preparation]]
-- [[rosin-pressing-technology]]

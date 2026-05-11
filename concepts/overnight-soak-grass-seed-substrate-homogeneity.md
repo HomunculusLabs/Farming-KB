@@ -17,7 +17,7 @@ The standard preparation for grass seed substrate involves placing 110 grams of 
 
 - Different varieties of grass seed absorb water at different rates
 - Even batches of the same variety can differ greatly in water absorption capacity
-- Too much water results in a slimy clump of seed that cannot be shaken to redistribute mycelium
+- Too much water results in a [[slimy-clump-water-logged-grass-seed-substrate-failure-modes]] of seed that cannot be shaken to redistribute mycelium
 - Too little water results in substrate that is too dry, producing little or no mushrooms or sclerotia
 - The direct method relies on the seed kernels absorbing water during the sterilization process
 - Inconsistent absorption leads to wet and dry pockets within the same jar
@@ -26,7 +26,7 @@ These moisture gradients create colonization problems: mycelium may colonize wet
 
 ## The Overnight Soaking Procedure
 
-The alternative overnight soak method addresses these problems through pre-hydration:
+The alternative [[overnight-soak-method-homogeneous-grass-seed-substrate]] addresses these problems through pre-hydration:
 
 1. Measure the desired amount of grass seed (e.g., 110 g per 720 ml jar)
 2. Place the seed in a suitable container and cover with water
@@ -70,7 +70,7 @@ The water used for soaking should be clean and free of contaminants. Tap water i
 
 ### Seed Variety Considerations
 
-Rye grass seed (Lolium perenne) is the most commonly used species, but mixtures of different grass species also work well with this method. The soaking approach is particularly advantageous when working with unfamiliar seed varieties, as it reduces the risk of moisture-related failures.
+[[grass-seed-substrate-preparation-rye-grass-mycology]] seed ([[lolium-perenne]]) is the most commonly used species, but mixtures of different grass species also work well with this method. The soaking approach is particularly advantageous when working with unfamiliar seed varieties, as it reduces the risk of moisture-related failures.
 
 ## Practical Tips
 
@@ -88,33 +88,3 @@ Rye grass seed (Lolium perenne) is the most commonly used species, but mixtures 
 | Moisture uniformity | Variable | Consistent |
 | Shaking ease | Can form clumps | Breaks apart easily |
 | Batch-to-batch consistency | Lower | Higher |
-| Experimentation needed | Higher | Lower |
-| Risk of contamination during prep | Lower | Slightly higher |
-
-## Integration with the Full Cultivation Workflow
-
-The overnight soak method fits into the broader grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] workflow as follows:
-
-1. **Day before**: Measure and soak grass seed in water
-2. **Morning of prep**: Drain seed, load into jars, prepare lids (loose fit)
-3. **Apply double-layer tinfoil** crumpled over lid and top part of jar
-4. **Sterilize** in pressure cooker for 1 hour (720 ml jars) or 2 hours (1.5 L jars and spawn bags)
-5. **After pressure release**: Remove jars, shake to mix wet and dry kernels while still hot
-6. **Cool** to room temperature in a clean place with lids loose (to prevent vacuum)
-7. **Inoculate** once fully cooled using [[comparison-spore-print-collection-vs-spore-syringe-production]], mycelium syringe, or agar squares
-8. **Shake again** after inoculation, then loosen lids for gas exchange
-9. **Incubate** at 20°C or slightly higher until fully colonized
-
-The soaking step adds lead time but reduces failures downstream. For cultivators doing regular grows, soaking can become a routine evening preparation that makes the next day's [[pf-tek-jar-preparation-steam-sterilization]] faster and more reliable.
-
-## Historical Context
-
-The overnight soaking technique is described alongside the direct-addition method in the classic grass seed cultivation guide for Psilocybe species. The authors note that both methods work but present soaking as producing more homogenous results. This preference for reliability over speed reflects the practical experience of cultivators who have encountered the moisture variability problems of the direct method.
-
-## See Also
-
-- [[overnight-soak-versus-direct-hydration-grass-seed-substrate]]
-
-- [[grass-seed-substrate-preparation-mycology]]
-- [[grass-seed-water-absorption-and-moisture-calibration]]
-- [[pressure-cooker-sterilisation-fungal-substrate]]

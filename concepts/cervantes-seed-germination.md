@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, plant-growth]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # [[jorge-cervantes]]

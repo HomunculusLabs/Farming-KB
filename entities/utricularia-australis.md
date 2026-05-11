@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Taylor, P. (1989). "The Genus Utricularia — A Taxonomic Monograph." Kew Bulletin Additional Series XIV.
   - Jobson, R.W., et al. (2018). "Ecological and evolutionary diversification in the bladderwort lineage." New Phytologist, 220(2), 438-453.
   - Richards, J.H. (2001). "Bladderwort (Utricularia): Unique carnivorous plants." Horticulture Reviews, 27, 1-28.
@@ -18,7 +19,7 @@ sources:
 
 ## Overview
 
-**Utricularia australis**, commonly known as the **bladderwort** or **native bladderwort**, is a rootless, aquatic carnivorous plant with a nearly cosmopolitan distribution. It is one of the most widespread species in the genus *Utricularia*.
+**Utricularia australis**, commonly known as the **bladderwort** or **native bladderwort**, is a rootless, aquatic carnivorous plant with a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]. It is one of the most widespread species in the genus *Utricularia*.
 
 The species is entirely aquatic, lacking true roots and leaves. Its vegetative body consists of floating or submerged stolons bearing numerous finely divided leaf-like segments.
 
@@ -60,11 +61,11 @@ The species is tolerant of moderate nutrient levels but is outcompeted by filame
 
 In Australia, the species occurs across most states except the arid interior. Populations in southeastern Australia are notable for producing exceptionally large bladders.
 
-European populations are declining in regions where agricultural runoff has increased water nutrient levels. Conservation status varies by country, with several European nations listing it as near-threatened.
+European populations are declining in regions where [[mycofiltration-of-agricultural-runoff]] has increased water nutrient levels. [[fungal-biodiversity-conservation-status]] varies by country, with several European nations listing it as near-threatened.
 
 ## Carnivory and Trap Mechanism
 
-The bladders of *U. australis* operate as active suction traps, one of the most sophisticated trapping mechanisms in the plant kingdom. Each bladder maintains a negative internal pressure relative to the surrounding water.
+The bladders of *U. australis* operate as active suction traps, one of the most sophisticated [[fungal-nematode-predation-and-trapping-mechanisms]] in the plant kingdom. Each bladder maintains a negative internal pressure relative to the surrounding water.
 
 When trigger hairs on the trapdoor are touched by prey, the door springs open inward within 0.5–2 milliseconds. Water rushes into the bladder, carrying the prey organism inside before the door snaps shut.
 
@@ -87,28 +88,3 @@ The species can form extensive floating mats that reduce light penetration to th
 Pollinators include small bees, flies, and butterflies that visit the aerial flowers. The flowers are self-compatible but also attract insect visitors for cross-pollination.
 
 In [[fukuoka-textdoc-creating-rice-paddy-natural-methods]] ecosystems, the species has been investigated for its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against mosquito larvae. Its carnivorous bladders can significantly reduce larval populations in standing water.
-
-The species accumulates certain [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] in its tissues, suggesting potential applications in phytoremediation of contaminated freshwater systems.
-
-Aquatic oligochaete worms and chironomid midge larvae are among the most common inhabitants of bladderwort mats. These invertebrates benefit from the shelter provided by the dense stolon network.
-
-## Cultivation
-
-*U. australis* is relatively easy to cultivate in outdoor ponds, tubs, or indoor aquaria. It requires full sun to partial shade and calm, shallow water.
-
-A substrate of peat or loam topped with rainwater or distilled water provides suitable growing conditions. The species does not tolerate hard or alkaline water.
-
-The plant grows rapidly during warm months and may overwinter as dormant turions in temperate climates. These resting buds sink to the substrate and resume growth in spring.
-
-In aquaria, the species can become weedy, forming dense mats that may shade other submerged plants. Regular thinning helps maintain balanced growth.
-
-Propagation is straightforward from stem fragments or turions. No seed stratification is required, and cuttings produce visible growth within days under favorable conditions.
-
-## See Also
-
-- [[utricularia-gibba]]
-- [[pinguicula-grandiflora]]
-- [[nepenthes-maxima]]
-- [[lemna-minor]]
-- [[sarracenia-flava]]
-- [[nepenthes-rafflesiana]]

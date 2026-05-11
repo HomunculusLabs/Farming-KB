@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-bokashi-vs-effective-microorganisms]] [[actively-aerated-compost-tea]] Tea"
+title: Comparison Bokashi Vs Compost Tea
 created: 2026-04-28
 tags:
   - soil-amendments
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 type: comparison
 ---

@@ -16,7 +16,7 @@ sources:
   - Aronsen, A. & Laessøe, T. (2016). The genus Mycena in northern Europe. Naturhistoriska Riksmuseet.
   - Desjardin, D.E. et al. (2008). "Mycena section Calodontes in the Madrean Sky Islands." Mycologia, 100(6), 889-906.
   - Corner, E.J.H. (1994). Agarics in Malaysia and Singapore. Royal Botanic Gardens, Kew.
-  - Fuhrer, B. (2009). A ghouled-field-guide-historical-context to Australian Fungi. Bloomings Books.
+  - Fuhrer, B. (2009). A [[ghouled-field-guide-historical-context]] to Australian Fungi. Bloomings Books.
 ---
 
 # Mycena interrupta
@@ -58,7 +58,7 @@ concolorous or slightly darker, sometimes appearing flecked.
 
 **Stipe (stem):** 15–50 × 1–2 mm, central, equal or slightly tapered toward the
 base. Hollow, fragile, smooth, pale blue to whitish. Base sometimes covered
-with fine white tomentum. No partial veil or annulus.
+with fine white tomentum. No [[partial-veil-tropism-protection-before-spore-release]] or annulus.
 
 **Spores:** 7–10 × 4–6 µm, ellipsoid to pip-shaped, smooth, thin-walled,
 hyaline, inamyloid. [[spore-print]] white.
@@ -77,7 +77,7 @@ with no confirmed records outside this region.
 **Habitat:** Found in cool temperate rainforests, wet sclerophyll forests,
 and mixed native forests. Fruits solitary to scattered on decaying hardwood
 logs, branches, and [[fungal-succession-woody-debris-ecology]], particularly on *Nothofagus*, *Eucalyptus*,
-and *Acacia* species. Prefers moist, shaded microsites with high humidity.
+and *[[acacia]]* species. Prefers moist, shaded microsites with high humidity.
 Typically fruits in autumn through early winter (March–July) in Australia,
 and May–August in New Zealand.
 
@@ -88,47 +88,3 @@ The blue pigmentation is not well characterized chemically but is thought to
 derive from a pigment that degrades upon drying, similar to other hygrophanous
 Mycena species. No , breaking down
 cellulose and lignin components alongside other fungal decomposers.
-
-The species serves as a food source for various forest invertebrates and
-potentially small marsupials in its native range. Its bright coloration
-may serve aposematic or visual signaling functions, though this has not
-been experimentally verified.
-
-## Bioluminescence
-
-*Mycena interrupta* has been reported to exhibit weak bioluminescence in
-the basidiocarp, though this is inconsistent across populations and may
-be substrate-dependent. The phenomenon is more reliably observed in related
-species such as *[[mycena-chlorophos]]*. The bioluminescent mechanism in Mycena
-involves the enzyme luciferase reacting with a luciferin substrate,
-producing cold light.
-
-## Similar Species
-
-- **Mycena chlorophos** — similar size and habitat but greenish bioluminescent
-  fruiting bodies, found in [[psilocybe-southeast-asia-pacific]] and Japan.
-- **Mycena azurea** — also blue but with a more conical cap and different
-  habitat preferences (found on herbaceous debris).
-- **Mycena cyanocephala** — blue-capped but smaller, with distinct cheilocystidia
-  morphology.
-
-## Cultural Significance
-
-The pixie's parasol is one of the most photographed fungi in Australia
-due to its striking color. It appears frequently in field guides, nature
-documentaries, and fungal photography collections. Its whimsical common
-name and fairy-tale appearance make it a popular subject in mycological
-outreach and citizen science programs.
-
-## Conservation Status
-
-No formal conservation assessment has been published. The species appears
-locally abundant within suitable habitat and is not considered threatened.
-However, like many forest fungi, it may be sensitive to habitat fragmentation
-and changes in forest moisture regimes associated with [[dighton-fungi-climate-change-feedback]].
-
-## See Also
-
-- decomposition
-- mycena chlorophos
-- psilocybin

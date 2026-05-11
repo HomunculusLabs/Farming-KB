@@ -1,5 +1,5 @@
 ---
-title: "Mycelial mycelial foraging strategies nutrient translocation and dighton-fungal-nutrient-translocation-element-redistribution"
+title: Mycelial Foraging Strategies Nutrient Translocation
 created: 2026-04-26
 tags:
   - mycology
@@ -27,7 +27,7 @@ nutritional cues, environmental conditions, damage, and predation.
 ## The Mycelial Network as Foraging System
 
 Basidiomycetes are the major agents of decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-in forest ecosystems, occurring as both [[gadd-fungal-symbiosis-mycorrhizae]]
+in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], occurring as both [[gadd-fungal-symbiosis-mycorrhizae]]
 symbionts. Hyphae that ramify through soil often aggregate to form rapidly
 extending, persistent, specialized high-conductivity channels termed cords.
 These cords form complex networks that integrate [[plant-nutrient-uptake-mechanisms]], storage,
@@ -72,10 +72,10 @@ yet fully known but are thought to include:
 - **Vesicular transport**: specific transport of nutrients in membrane-bound
   vesicles.
 - **Vacuolar transport**: the dynamic pleiomorphic vacuolar system in
-  filamentous fungi may play a role in long-distance translocation.
+  [[environmental-sensing-filamentous-fungi-read]] may play a role in long-distance translocation.
 
 The vacuolar system develops from a complex reticulum of fine tubes
-interspersed with small spherical vacuoles at the hyphal tip to a series of
+interspersed with small spherical vacuoles at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]] to a series of
 larger, more spherical, adherent vacuoles interconnected with fine tubes in
 mature hyphal regions. Fluorescence recovery after photobleaching (FRAP)
 studies have demonstrated that diffusion alone can explain observed
@@ -84,33 +84,7 @@ transport within vacuolar compartments.
 ## Resource Partitioning and Reallocation
 
 Sophisticated resource partitioning has been demonstrated in mycelial
-networks. In experiments with [[armillaria-ostoyae]] holds the record for the largest organism on Earth: a
+networks. In experiments with [[armillaria-ostoyae]] holds the record for the [[armillaria-largest-organism]] on Earth: a
   genet spanning 965 hectares with a maximum separation of 3810 m,
   estimated at 1900-8650 years old.
 - Phosphorus moves to different litter resources over 1 metre apart via
-  saprotrophic mycelial cord systems.
-- [[singh-mycorrhizal-network-carbon-transfer-plants]] occurs from host trees to neighbouring seedlings via
-  ectomycorrhizal connections, even between different tree species.
-
-In tropical forest canopies, rhizomorphic fungi form suspended networks that
-trap and colonize falling litter -- a strategy likened to animal 'filter
-feeders'.
-
-## Responses to Invertebrate Grazing
-
-Soil invertebrates (Collembola, nematodes, and others) significantly affect
-[[growing-gourmet-mycelial-morphology-classification-agar-media]] and function:
-
-- Intense grazing removes hyphal tips and reduces mycelial system size.
-- Grazing can induce branching, producing bushier growth forms analogous
-  to the effect of herbivory on plant architecture.
-- Enzymes associated with ligninolysis were switched on by P. velutina in
-  the presence of nematodes, demonstrating that grazing triggers
-  physiological responses distant from the grazing site.
-- Some basidiomycetes can kill and consume invertebrates: Pleurotus species
-  feed on nematodes, and [[gadd-fungal-ecology-saprotrophs]]
-- fungal-soil-aggregate-formation-glomalin
-
-## See Also
-
-- [[root-foraging-behavior]]

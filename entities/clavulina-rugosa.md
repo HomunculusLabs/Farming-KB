@@ -22,11 +22,11 @@ created: 2026-05-07
 
 **Clavulina rugosa** is a species of coral fungus in the family Clavulinaceae, order Cantharellales.
 
-It is commonly known as the **wrinkled coral fungus** due to the distinctly rugose (wrinkled) surface of its fruiting bodies.
+It is commonly known as the **wrinkled coral fungus** due to the distinctly rugose (wrinkled) surface of its [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
-Unlike many branching coral fungi in the genus *Ramaria*, *C. rugosa* produces simple, unbranched or sparingly branched clubs that arise directly from soil or leaf litter.
+Unlike many branching [[coral-fungi-clavariaceae]] in the genus *Ramaria*, *C. rugosa* produces simple, unbranched or sparingly branched clubs that arise directly from soil or [[dighton-fungal-decomposition-leaf-litter-dynamics]].
 
-It is a widespread ectomycorrhizal associate of both coniferous and deciduous trees, found across temperate regions of the Northern Hemisphere.
+It is a widespread ectomycorrhizal associate of both coniferous and deciduous trees, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 The species is generally considered edible but is not widely collected for food due to its small size and unremarkable flavor.
 
@@ -46,13 +46,13 @@ The species is generally considered edible but is not widely collected for food 
 
 **Synonyms:** *Clavaria rugosa* Bull., *Clavaria coralloides* var. *rugosa* (Bull.) Fr.
 
-**Fruiting body morphology:**
+**[[brassinosteroid-fungal-fruiting-body-morphology]]:**
 
 - Simple, erect clubs 3–8 cm tall and 0.5–1.5 cm thick, arising without a distinct stem.
 - Surface is prominently wrinkled or rugose, giving the fruiting body a brain-like or contorted appearance.
 - Color ranges from white to pale cream, buff, or pale ochre, sometimes developing pinkish or greyish tones with age.
 - Context is soft and waxy when fresh, becoming tough and brittle upon drying.
-- Spore print is white.
+- [[boil-a-bag-spore-print-technique-jarrold]] is white.
 
 **Microscopic features:**
 
@@ -88,54 +88,3 @@ The species shows some preference for calcareous or neutral soils but is not str
 *Clavulina rugosa* is generally considered edible and non-toxic.
 
 However, it is not highly regarded as a culinary mushroom.
-
-The flesh is mild in flavor with a slightly peppery or radish-like aftertaste in some specimens.
-
-Its small size and tough, waxy texture limit its culinary appeal.
-
-When young and fresh, the tips can be added to mixed mushroom dishes or soups.
-
-Older specimens become excessively tough and are generally avoided.
-
-There are no reports of toxicity, but as with all wild mushrooms, positive identification is essential before consumption.
-
-The species is occasionally collected by foragers in Europe but is largely ignored in [[growing-gourmet-north-american-reishi-species]] foraging traditions.
-
-## Ecological Role and Bioactive Compounds
-
-As an ectomycorrhizal fungus, *C. rugosa* forms mutualistic symbiotic relationships with the roots of forest trees.
-
-The fungal mycelium extends the effective root surface area of host trees, improving [[plant-nutrient-uptake-mechanisms]], particularly phosphorus.
-
-In return, the host tree provides the fungus with carbohydrates derived from photosynthesis.
-
-This mycorrhizal relationship contributes to overall forest health, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and tree resilience to environmental stress.
-
-*Clavulina rugosa* is a member of the Cantharellales, an order that includes many ecologically important [[arbuscular-mycorrhizal-fungi-biology-symbiosis]].
-
-The genus *Clavulina* is noted for producing clavaric acid derivatives, which have been investigated for potential anti-inflammatory and cytotoxic properties.
-
-However, specific bioactive compound research on *C. rugosa* itself remains limited compared to other members of the genus.
-
-The fruiting bodies serve as a food source for various forest invertebrates and small mammals.
-
-## Similar Species
-
-*Clavulina cristata* (the crested coral) is the most commonly confused species, but it forms more extensively branched, antler-like fruiting bodies rather than simple clubs.
-
-*Clavulina cinerea* is greyer in color and tends to be more branched.
-
-*Ramaria* species produce larger, more prominently branching coral structures and have different spore morphology.
-
-*Clavaria* species in the strict sense (e.g., *Clavaria vermicularis*, the white spindles) produce simple clubs but have a smooth surface rather than a wrinkled one.
-
-*Multiclavula* species are smaller and grow on mosses or lichens rather than forest soil.
-
-The wrinkled surface and simple club morphology together are fairly diagnostic for *C. rugosa* within its range.
-
-## See Also
-
-- [[ramaria-botrytis]]
-- [[hericium-erinaceus]]
-- [[lactarius-indigo]]
-- [[mycorrhiza]]

@@ -88,22 +88,3 @@ Ex situ conservation programs at several botanical gardens have established cult
 Cultivation of Botrychium lunaria is challenging and rarely attempted outside of specialized botanical collections. The primary difficulty lies in establishing the obligate mycorrhizal association required for gametophyte development.
 
 Successful propagation has been achieved by sowing spores onto soil collected from wild moonwort populations, which contains the appropriate endophytic fungi. Germination may take 1–3 years, and sporophyte emergence requires an additional 1–2 years.
-
-Garden cultivation requires a shaded position in moist, well-drained, humus-rich soil with a pH near neutral. Plants should be left undisturbed once established, as root disturbance can sever mycorrhizal connections.
-
-The species is primarily of interest to specialist fern enthusiasts and conservation propagators. Commercial availability is extremely limited, and wild collection should be avoided given conservation concerns.
-
-Hardiness is generally rated to USDA zone 3, reflecting its native range across boreal and alpine climates. Winter protection is unnecessary in suitable climates, though prolonged waterlogging during dormancy can cause caudex rot.
-
-## See Also
-
-- [[botrychium-virginianum]]
-
-- [[matteuccia-struthiopteris]]
-- [[osmunda-regalis]]
-- [[lycopodium-clavatum]]
-- [[azolla-filiculoides]]
-- [[elodea-canadensis]]
-- [[myriophyllum-spicatum]]
-- [[vallisneria-americana]]
-- [[ceratophyllum-demersum]]

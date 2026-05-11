@@ -1,5 +1,5 @@
 ---
-title: blesching-cannabis-strain-selection-receptor-targeting and Genetics - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Strain Selection Genetics
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,8 +10,8 @@ tags: [cannabis]
 
 # Strain Selection and Genetics
 
-Greg Green's Cannabis Grow Bible (4th edition) provides foundational
-guidance on selecting cannabis strains based on species, genetics, and
+Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] (4th edition) provides foundational
+guidance on selecting [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] based on species, genetics, and
 desired effects.
 
 ## The Three Cannabis Species
@@ -88,10 +88,3 @@ Prices range from $80-$300 for 10-16 seeds. The best source of seeds is
 a friend who has grown a strain you already enjoy.
 
 ## Related
-
-- [[cannabis-strain-selection-guide]]
-- [[cannabis-sativa-vs-indica-guide]]
-- [[cannabis-genetics-and-breeding]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[cannabis-controlled-pollination-seed-production]]
-- [[cannabis-seed-selection-and-strain-types]]

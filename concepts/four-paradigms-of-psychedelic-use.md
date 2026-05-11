@@ -10,10 +10,10 @@ created: 2026-05-08
 
 ## Overview
 
-Ralph Metzner proposed a four-paradigm framework for understanding the use of
+[[ralph-metzner]] proposed a four-paradigm framework for understanding the use of
 psychoactive drugs and plants across different cultural and therapeutic contexts.
-First articulated in his 1998 paper "Hallucinogenic Drugs and Plants in
-Psychotherapy and Shamanism," published in the *Journal of Psychoactive Drugs*,
+First articulated in his 1998 paper "[[hallucinogenic-drugs]] and Plants in
+[[metzner-hallucinogens-psychotherapy-and-shamanism]]," published in the *Journal of Psychoactive Drugs*,
 this framework organizes the diverse practices involving hallucinogenic
 substances into four distinct but overlapping categories, each with its own
 underlying worldview, therapeutic rationale, and ceremonial structure.
@@ -60,7 +60,7 @@ hallucinogenic plant use worldwide:
 4. **Access to metaphysical realms**: Multiple worlds or dimensions are
    accessible — referred to as "inner world," "spirit world," "upper or
    lower world," "dreamtime," or "nonordinary reality."
-5. **Perception of spirit beings**: Nonmaterial entities associated with
+5. **Perception of [[metzner-spirit-beings-multiple-realities-entheogens]]**: Nonmaterial entities associated with
    animals, plants, places, ancestors, or other nonordinary beings are
    encountered and may assist in healing.
 
@@ -77,10 +77,10 @@ than shamans.
 
 ### Major Examples
 
-- **Native American Church (NAC)**: Uses peyote as a sacrament in all-night
+- **[[halpern-sacramental-peyote-and-native-american-church]] (NAC)**: Uses peyote as a sacrament in all-night
   ceremonies conducted in tipis around a central fire, with a roadman
   presiding and almost constant singing of traditional peyote songs.
-- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] Churches**: Three major churches — Santo Daime,
+- **[[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] Churches**: Three major churches — [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]],
   Uniao de Vegetal (UDV), and Barquinia — use ayahuasca as their central
   sacrament in weekly temple ceremonies. Research has confirmed that
   membership is associated with no adverse health effects and a reduction
@@ -88,62 +88,3 @@ than shamans.
 - **Bwiti Cult**: Fang people in Gabon and Zaire use iboga in temple
   ceremonies involving ancestral contact through a powerful death-rebirth
   initiation experience.
-
-### Social Functions
-
-These movements serve important social functions beyond individual
-transformative experience: strengthening community bonds, providing social
-cohesion, reducing substance abuse, and serving as protective shields
-against cultural erosion from Christian missionaries and Western consumer
-culture.
-
-## Paradigm 4: Hybrid Shamanic-Therapeutic Rituals
-
-### Overview
-
-The newest paradigm, hybrid rituals represent a conscious blending of
-indigenous shamanic and Western psychotherapeutic approaches. Metzner
-focused on what he called "[[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles," which he
-observed and participated in over 100 times across Europe and North
-America.
-
-### Structural Elements
-
-Hybrid ceremonies typically incorporate these elements from traditional
-shamanic practice:
-
-- Circle structure with participants sitting or lying
-- Altar or fire in the center
-- Experienced elder or guide with assistants
-- Low light or semidarkness, sometimes with eye-shades
-- Music: drumming, rattling, singing, or recorded music
-- Dedication of ritual space through invocation of four directions
-- Cultivation of respectful, spiritual attitude
-
-### Participant Characteristics
-
-Most participants are experienced in one or more psychospiritual practices
-including shamanic drum journeying, Buddhist vipassana meditation, tantra
-yoga, and [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]. They bring insights from these practices
-into their work with entheogenic medicines, confirming that the plant
-medicines "function to amplify awareness and sensitize perception,
-particularly amplifying somatic, emotional and instinctual awareness."
-
-### Expanded Worldview
-
-Participants in hybrid ceremonies typically develop belief systems that
-"transcend the boundaries of the conventional materialistic paradigm of
-Western science and psychology." They accept the reality of nonmaterial
-spirit beings and recognize that humans live in multiple worlds of
-consciousness, returning to the view [[metzner-william-james-radical-empiricism-multiple-consciousness]] articulated after his
-nitrous oxide experiments nearly 100 years earlier.
-
-## The Two Radical Differences
-## See Also
-
-- [[set-and-setting-hypothesis]]
-- [[shamanic-entheogenic-healing-rituals]]
-- [[psycholytic-and-psychedelic-therapy-models]]
-- [[psychedelic-assisted-therapy-protocol]]
-- [[shamanic-entheogenic-ceremonies]]
-- [[amazonian-plant-teachers-doctores]]

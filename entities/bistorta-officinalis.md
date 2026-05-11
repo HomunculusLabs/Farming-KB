@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Flora of North America Editorial Committee (1993+). Flora of North America North of Mexico."
+  - "Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of North America North of Mexico."
   - "Kew Science. Plants of the World Online. bistorta-officinalis."
 ---
 
@@ -20,9 +20,9 @@ Bistorta officinalis (syn. Polygonum bistorta), commonly known as bistort or com
 
 The plant produces dense spikes of pink flowers on erect stems reaching 30–75 cm tall. Its twisted, snake-like rhizome gives rise to the common name "bistort," derived from the Latin *bistorta* meaning "twice-twisted."
 
-Bistorta officinalis has a long history of use in traditional European herbal medicine, particularly as an astringent and anti-inflammatory agent.
+Bistorta officinalis has a long history of use in traditional European [[childrens-herbal-medicine]], particularly as an astringent and anti-inflammatory agent.
 
-The species is sometimes confused with the smaller alpine bistort (Bistorta vivipara), which produces bulbils in place of lower flowers. Bistorta officinalis can be distinguished by its larger size and purely sexual reproduction.
+The species is sometimes confused with the smaller alpine bistort (Bistorta vivipara), which produces bulbils in place of lower flowers. Bistorta officinalis can be distinguished by its larger size and purely [[basidiomycete-mating-systems-sexual-reproduction]].
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ Populations are most abundant in submontane to montane zones, typically at eleva
 
 In Britain, bistort is a characteristic plant of species-rich hay meadows and traditionally managed pastures. Its presence is considered an indicator of agriculturally unimproved grassland of high conservation value.
 
-The species has been introduced to North America as a garden ornamental and has naturalized locally in parts of the northeastern United States and eastern Canada. It is not considered invasive in these regions.
+The species has been introduced to North America as a garden ornamental and has naturalized locally in parts of the northeastern [[dmt-containing-plants-united-states-halpern]] and eastern Canada. It is not considered invasive in these regions.
 
 ## Chemistry and Pharmacology
 
@@ -79,7 +79,7 @@ Tannin-rich extracts have been investigated as potential natural preservatives i
 
 Bistorta officinalis prefers full sun to partial shade in consistently moist, humus-rich soil. It is hardy to USDA zones 4–8 and tolerant of cold winters.
 
-Propagation is by division of the rhizome in early spring or autumn, or by seed sown in a cold frame. Seeds require a period of cold stratification for reliable germination.
+Propagation is by division of the rhizome in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn, or by seed sown in [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]. Seeds require a period of cold stratification for reliable germination.
 
 In cultivation it forms spreading clumps that benefit from division every 3–4 years to maintain vigor. The dense flower spikes are attractive to bees and other pollinators, making it suitable for wildlife gardens.
 
@@ -88,32 +88,3 @@ No serious pests or diseases are commonly reported. Some garden cultivars, such 
 Bistorta officinalis is well-suited to rain gardens, pond margins, and bog gardens where its moisture requirements are naturally met. It combines effectively with other moisture-loving perennials such as ligularia, astilbe, and marsh marigold.
 
 Deadheading spent flower spikes can encourage a secondary bloom in late summer. The foliage remains attractive through autumn, turning reddish-bronze before dying back for winter.
-
-## Edible and Traditional Uses
-
-Young leaves of bistort were historically gathered as a potherb in rural European communities. They are bitter when raw but become palatable when boiled in multiple changes of water.
-
-The leaves contain moderate levels of vitamins A and C and were traditionally consumed during spring scarcity.
-
-Bistort leaves can also be dried for later use as a herbal tea ingredient. When combined with other spring greens, they contribute a pleasant earthy flavor and mild astringency to the brew.
-
-In northern England, bistort leaves were an ingredient in "dock pudding" or "Easter Ledge Pudding," a traditional dish combining bistort leaves with nettles, oatmeal, and butter.
-
-The annual "World Dock Pudding Championship" held in Mytholmroyd, West Yorkshire, celebrates this regional culinary tradition. The dish remains a local specialty in the Calder Valley.
-
-The astringent rhizome was used in folk medicine to treat burns, snakebites, and as a styptic for bleeding wounds. These uses are documented across British, French, and Scandinavian herbal traditions.
-
-In herbal practice, the dried rhizome was traditionally prepared as a decoction or powdered for use in wound dressings. Some practitioners combined it with other astringent herbs such as agrimony and tormentil.
-
-Bistort has no significant toxicity at traditional doses, though excessive consumption of tannin-rich preparations may cause gastrointestinal discomfort. Pregnant women are advised to avoid concentrated bistort preparations due to the uterotonic potential of high-tannin herbs.
-
-## See Also
-
-- [[rumex-acetosa]] — common sorrel, related Polygonaceae species with edible leaves
-- [[persicaria-odorata]] — Vietnamese coriander, another edible Polygonaceae member
-- [[polygonum-multiflorum]] — fo-ti, Polygonaceae species with medicinal rhizome
-- [[rheum-palmatum]] — Chinese rhubarb, medicinal Polygonaceae with similar astringent properties
-- [[rumex-crispus]] — curly dock, related Polygonaceae used in herbal medicine
-- [[fagopyrum-esculentum]] — buckwheat, economically important Polygonaceae crop
-- [[medicinal-herb-growing]] — cultivation techniques for medicinal species
-- [[edible-landscaping]] — incorporating edible species into garden design

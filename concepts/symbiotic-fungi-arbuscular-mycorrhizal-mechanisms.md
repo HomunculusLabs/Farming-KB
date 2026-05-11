@@ -3,14 +3,14 @@ title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Mechanisms
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
-tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbiotic-fungi-mycorrhiza-history-frank-discovery symbiotic symbiotic-fungi-lichen-symbiosis-agriculture mechanisms mechanisms symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions helper interactions symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition iron acquisition mycorrhizal mycelium-running-symbiotic-fungi-relationships mycorrhizal-nitrogen-transfer-between-plants networks between plants transfer networks, symbiosis, phosphorus, networks]
+tags: [mycorrhizal, arbuscular, symbiotic symbiotic symbiotic symbiotic symbiotic-fungi-mycorrhiza-history-frank-discovery symbiotic symbiotic-fungi-lichen-symbiosis-agriculture mechanisms mechanisms symbiotic-fungi-streptomycete-mycorrhiza-helper-interactions helper interactions symbiotic-fungi-siderophore-mycorrhizal-iron-acquisition iron acquisition mycorrhizal mycelium-running-symbiotic-fungi-relationships mycorrhizal-nitrogen-transfer-between-plants networks between plants [[symbiotic-fungi-mycorrhizal-nitrogen-transfer-networks]], symbiosis, phosphorus, networks]
 sources: [raw/papers/symbiotic fungi arbuscular arbuscular-mycorrhizal-colonization-patterns patterns proteomics techniques.md]
 ---
 
 # Arbuscular Mycorrhizal Mechanisms
 
 Source: symbiotic fungi arbuscular [[arbuscular-mycorrhizal-networks]] for an overview of how these networks function at ecosystem scale, and [[arbuscule-intraradical-hyphae-isolation-mycorrhizal-roots]]**: connect arbuscules and vesicles within the root cortex
-- **Extraradical hyphae**: extend from roots into soil for nutrient acquisition
+- **Extraradical hyphae**: extend from roots into soil for [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 
 The plasmalemma of the host cell invaginates and encloses the arbuscules, creating an
 extensive interface for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. As with all AM fungi, hyphae multiply within
@@ -18,7 +18,7 @@ host cortical tissues and never traverse through the endodermis.
 
 ## Nutrient Uptake and Transfer
 
-The mutualistic nutrient exchange involves transfer of phosphorus from fungi to the host
+The mutualistic [[mycorrhiza-nutrient-exchange]] involves transfer of phosphorus from fungi to the host
 plant in exchange for carbon compounds derived from photosynthesis.
 
 Phosphorus uptake pathway:
@@ -53,10 +53,10 @@ well-developed, and morphologically robust.
 Phosphatase activity varies among AM fungal species and responds to soil phosphorus
 content:
 
-- **glomus intraradices**: alkaline phosphatase activity normally higher than acid
+- **[[glomus-intraradices]]**: alkaline phosphatase activity normally higher than acid
   phosphatase in extraradical mycelium; acid phosphatase does not respond to external
   P content; alkaline phosphatase increases at high P content
-- **Scutellospora calospora**: shows the inverse pattern (acid phosphatase higher than
+- **[[scutellospora-calospora]]**: shows the inverse pattern (acid phosphatase higher than
   alkaline)
 
 ## Extraradical Mycelial Networks
@@ -68,7 +68,7 @@ AM extraradical networks spread from colonized roots at impressive rates:
 - After 7 days: total hyphal length of 5-7 m (in Thymus vulgaris and Allium porrum)
 - Mean growth: 0.7 to 1.0 m per day depending on host plant
 
-Network structure parameters:
+[[mycelial-network-structure]] parameters:
 
 - Hyphal density: 2.9-6.8 mm/mm2 (cotton significantly higher than lettuce or eggplant)
 - Branches: 8.6-9.7 per cm of hypha
@@ -88,25 +88,3 @@ Anastomosis (hyphal fusion) depends on highly regulated self-recognition mechani
   rejection responses
 - Interactions between Gigaspora and Scutellospora hyphae never lead to anastomosis
 - Geographically different glomus mosseae isolates never produce anastomoses,
-  suggesting genetic isolation
-
-## Inter-Plant Connectivity
-
-AM networks can interconnect different plant species through anastomosis between
-extraradical hyphae:
-
-- Leek-carrot: anastomosis frequency comparable to other cross-species pairings
-- Leek-cotton: approximately 49% anastomosis frequency
-- Leek-lettuce: intermediate frequency
-- Leek-eggplant: approximately 44% anastomosis frequency
-- Same species (leek-leek): 62% anastomosis frequency
-
-No hyphal incompatibility reactions were found between networks from different plant
-species, suggesting plant interconnectedness may be greater than previously thought.
-
-## See Also
-
-- [[mycorrhizal-pathogen-resistance-mechanisms]]
-
-- [[arbuscular-mycorrhizal-fungal-diversity]] — species diversity of Glomeromycota
-- mycorrhizal-nitrogen-transfer-between-plants — inter-plant nutrient sharing via AM networks

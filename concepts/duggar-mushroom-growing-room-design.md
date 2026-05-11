@@ -1,7 +1,7 @@
 ---
-title: Mushroom Growing Room Design and Environment
+title: Duggar Mushroom Growing Room Design
 created: 2026-04-26
-sources: Benjamin Minge Duggar, "Mushroom Growing" (1915)
+sources: benjamin-minge-duggar-mushroom-cultivation-research, "Mushroom Growing" (1915)
 source_path: raw/papers/benjamin-minge-duggar-mushroom-growing.md
 extracted: 2026-04-24
 type: concept
@@ -13,10 +13,10 @@ updated: 2026-04-26
 
 ## Selecting a Location
 
-When choosing a site for mushroom cultivation, several factors should be considered:
+When choosing a site [[grass-seed-substrate-for-mushroom-cultivation]], several factors should be considered:
 - **Temperature stability** -- locations that maintain temperatures between 54-60°F with minimal fluctuation are ideal
-- **Protection from wind** -- strong drafts dry out beds and disturb the delicate growing environment
-- **Access to water** -- reliable water supply is needed for bed preparation and ongoing maintenance
+- **Protection from wind** -- strong drafts dry out beds and disturb the delicate [[cannabis-growing-environment-setup]]
+- **Access to water** -- reliable water supply is needed for [[coleman-bed-preparation-and-minimal-tillage]] ongoing maintenance
 - **Proximity to markets** -- freshness is critical for mushroom sales, so proximity to customers is advantageous
 - **Drainage** -- both for the growing structure and the surrounding land to prevent waterlogging
 
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,19 +88,3 @@ The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
-See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

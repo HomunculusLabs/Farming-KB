@@ -38,7 +38,7 @@ The Oss & Oeric guide originally recommended a gas oven set to the
 lowest possible setting with the door propped slightly open. Modern
 practitioners strongly prefer food dehydrators set to 95-115 degrees
 Fahrenheit (35-46 degrees Celsius), which provide consistent airflow
-and temperature control without risking heat degradation of active
+[[hamilton-greenhouse-heating-and-temperature-control]] without risking heat degradation of active
 compounds. Desiccant chambers using silica gel or DampRid offer a
 zero-heat alternative that preserves potency well. Properly dried
 specimens should be "cracker dry" — they snap cleanly when bent
@@ -58,8 +58,8 @@ yields by dunking the cased substrate in clean water for 4-12 hours
 between flushes, which rehydrates the mycelial mat. The second flush
 typically yields 50-70% of the first, with subsequent flushes
 diminishing further. After three flushes, substrate nutrients are
-largely depleted and contamination risk rises sharply. At this
-point, spent substrate can be composted or used in outdoor garden
+largely depleted and [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] rises sharply. At this
+point, [[oyster-mushroom-spent-substrate-recycling]] can be composted or used in outdoor garden
 beds as a nutrient-rich amendment.
 
 ## Contamination Prevention During Fruiting
@@ -67,12 +67,12 @@ beds as a nutrient-rich amendment.
 The fruiting stage is the most vulnerable phase for contamination
 because jars are exposed to open air and high humidity. Trichoderma
 ([[growing-gourmet-trichoderma-green-mold-management]]) is the most
-common contaminant during later flushes as substrate nutrients are
+common contaminant during [[psilocin-emergence-in-later-flushes]] as substrate nutrients are
 depleted. Affected areas should be cut away and treated with a light
 salt solution. Cobweb mold (Dactylium) appears as gray, spider-web-
 like growth on mushroom surfaces and can be treated with a light
-hydrogen peroxide spray (3% diluted 1:10 with water). Maintaining
-adequate fresh air exchange reduces both molds by preventing
+[[cervantes-hydrogen-peroxide-sterilization]] spray (3% diluted 1:10 with water). Maintaining
+adequate fresh [[growing-gourmet-growing-room-ventilation-air-exchange]] reduces both molds by preventing
 stagnant, CO2-rich conditions that favor their growth. Overlay, where
 mycelium grows too thickly over the casing surface, can prevent pin
 formation — this is addressed by lightly scratching the surface and
@@ -88,13 +88,3 @@ now preferred over gas ovens for precise temperature control.
 ## Common Problems During Harvest
 
 Several issues may arise during harvest. Overlay, where mycelium
-grows too thickly over the casing surface, can prevent pin
-formation. Trichoderma ([[growing-gourmet-trichoderma-green-mold-management]]) often appears during later
-flushes as substrate nutrients are depleted. Affected areas should
-be cut away and treated with a light salt solution.
-
-## See Also
-
-- [[wicking-bed-crop-selection-seasonal-management]]
-
-- [[oss-oeric-history-and-impact-underground-classic]]

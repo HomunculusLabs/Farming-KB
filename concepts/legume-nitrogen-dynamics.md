@@ -87,21 +87,3 @@ The nitrogen benefit to subsequent crops differs markedly between legumes grown 
 - **Grain legumes** (soybeans, peanuts, dry beans) partition 60-70% of their fixed nitrogen into harvested seeds, which is removed from the field. The net nitrogen contribution to soil after grain harvest is modest -- typically only 20-40 lbs N/acre from residue decomposition. Soybean credited nitrogen is often overstated; most of the fixation benefit leaves with the grain.
 
 For maximum nitrogen contribution to a farming system, green manure legumes are significantly more effective than grain legumes. However, grain legumes offer the economic return of the harvested crop, making them a practical compromise in many rotations.
-
-## Legumes in Crop Rotation Systems
-
-Legumes play a central role in diverse crop rotation strategies, and their nitrogen contribution varies with rotation design:
-
-- **Classical corn-soybean rotation:** The dominant rotation in the US Midwest. While soybean residues provide some residual nitrogen, research consistently shows that corn following soybean yields only 10-15 bushels/acre more than continuous corn -- far less than the full nitrogen credit often assumed. The rotation benefit is partly attributable to disease and pest suppression, not just nitrogen.
-- **Cover crop rotations:** Integrating a legume cover crop (crimson clover, hairy vetch, winter peas) between cash crops can provide substantial nitrogen for the following crop. A hairy vetch cover crop terminated before corn planting can supply 80-150 lbs N/acre, significantly reducing or eliminating synthetic nitrogen requirements.
-- **Multi-year rotations:** Rotations that include multi-year legume sod (alfalfa, red clover) build the largest nitrogen reserves. Terminating a 2-3 year alfalfa stand releases a large pulse of nitrogen that can sustain high-demand crops for 1-2 subsequent years. This is the basis of traditional dairy-crop rotations in the northeastern US and parts of Europe.
-- **Perennial legumes in pastures:** White clover in permanent pastures fixes nitrogen continuously, supporting grass growth without fertilizer. The clover-grass partnership can supply 150-200+ lbs N/acre/year in well-managed pastures, making it one of the most productive legume nitrogen systems in agriculture.
-
-Successful legume-based rotations require inoculation with appropriate rhizobial strains when introducing legumes to fields where they have not been recently grown. Most legume species have specific rhizobial requirements; using the wrong strain results in poor nodulation and minimal fixation.
-
-## See Also
-
-- [[permaculture-dynamic-accumulator-plants]] -- permaculture-specific accumulator strategies
-- edge-effect-in-permaculture
-- [[fukuoka-white-clover-cover-crop-system]]
-- [[companion-planting-with-fungi]]

@@ -34,7 +34,7 @@ The phrase "the rice bowl" has become a geopolitical shorthand for the rice-prod
 
 The genus *Oryza* contains approximately 24 species, including the African domesticated rice *O. glaberrima* and the wild progenitor *O. rufipogon*. *O. sativa* is an allotetraploid with an AA genome (2n = 24).
 
-Wild relatives of rice represent an important reservoir of genetic diversity for crop improvement. *O. rufipogon*, *O. nivara*, and *O. officinalis* have contributed disease resistance, abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]], and yield-enhancing alleles to cultivated varieties through wide crosses.
+Wild relatives of rice represent an important reservoir of [[biodiversity-fungal-genetic-diversity]] for crop improvement. *O. rufipogon*, *O. nivara*, and *O. officinalis* have contributed disease resistance, abiotic [[fungal-lichen-stress-tolerance-and-poikilohydry]], and yield-enhancing alleles to cultivated varieties through wide crosses.
 
 The plant grows 60–180 cm tall with hollow, jointed culms and flat lanceolate leaves 20–50 cm long. The inflorescence is a panicle bearing spikelets, each containing a single caryopsis (grain) 5–12 mm long.
 
@@ -52,9 +52,9 @@ The crop dispersed from its Chinese center of origin through multiple routes: an
 
 ## Cultivation
 
-Rice is cultivated under three primary water management regimes: irrigated lowland (paddy), rainfed lowland, and rainfed upland. Irrigated paddies produce approximately 75% of global supply and achieve the highest yields.
+Rice is cultivated under three primary water management regimes: irrigated lowland (paddy), rainfed lowland, and rainfed upland. Irrigated paddies produce approximately 75% of global supply and achieve the [[query-which-cannabis-training-techniques-produce-highest-yields]].
 
-Paddy rice requires flooded conditions during most of the growing season, which suppresses weeds and provides thermal buffering. Transplanting seedlings into flooded fields is the standard method in Asia, while [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is increasingly adopted in mechanized systems.
+Paddy rice requires flooded conditions during most of [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], which suppresses weeds and provides thermal buffering. Transplanting seedlings into flooded fields is the standard method in Asia, while [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is increasingly adopted in mechanized systems.
 
 Optimal growth temperatures range from 25–30°C during vegetative stages and 22–28°C during grain filling. Photoperiod sensitivity historically constrained rice to specific latitudes, though modern photoperiod-insensitive varieties have expanded cultivation ranges.
 
@@ -72,42 +72,18 @@ Rice protein, while low in total quantity, contains relatively high proportions 
 
 ## Ecology and Environmental Impact
 
-Rice paddies are among the most significant anthropogenic sources of methane (CH₄), contributing an estimated 8–12% of global anthropogenic methane emissions. Flooded anaerobic soil conditions promote methanogenic archaea, which decompose organic matter into methane.
+Rice paddies are among the most significant anthropogenic sources of methane (CH₄), contributing an estimated 8–12% of global anthropogenic methane emissions. Flooded [[lowenfels-aerobic-anaerobic-soil-conditions]] promote methanogenic archaea, which decompose organic matter into methane.
 
 The crop's water footprint is substantial: approximately 2,500 liters of water are required to produce 1 kg of milled rice under conventional paddy irrigation. Water-saving technologies such as alternate wetting and drying (AWD) can reduce water use by 15–30%.
 
 Rice agroecosystems support high biodiversity when managed traditionally, including fish, amphibians, aquatic insects, and migratory birds. The System of Rice Intensification (SRI) and integrated rice-duck-fish systems represent ecologically intensive alternatives to monoculture paddies.
 
-Integrated pest management (IPM) strategies reduce reliance on synthetic pesticides in rice production. Key insect pests include the brown planthopper (*Nilaparvata lugens*), rice stem borers (*Chilo suppressalis*, *Scirpophaga incertulas*), and the rice gall midge (*Orseolia oryzae*).
+[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (IPM) strategies reduce reliance on synthetic pesticides in rice production. Key insect pests include the brown planthopper (*Nilaparvata lugens*), rice stem borers (*Chilo suppressalis*, *Scirpophaga incertulas*), and the rice gall midge (*Orseolia oryzae*).
 
-Fungal diseases cause significant yield losses: rice blast (*Magnaporthe oryzae*) is the most devastating, affecting all above-ground tissues. Bacterial leaf blight (*Xanthomonas oryzae* pv. *oryzae*) and sheath blight (*Rhizoctonia solani*) are also major constraints.
+Fungal diseases cause significant yield losses: rice blast (*Magnaporthe oryzae*) is the most devastating, affecting all above-ground tissues. Bacterial leaf blight (*Xanthomonas oryzae* pv. *oryzae*) and sheath blight (*[[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]*) are also major constraints.
 
 Rice tungro disease (viral complex of RTBV and RTSV) and grassy stunt virus cause episodic epidemics in Southeast Asia. Host plant resistance, deployed through multi-gene pyramiding, remains the most sustainable [[plant-disease-management-solomon]] approach.
 
 ## Biotechnology and Genetics
 
 The rice genome was the first cereal genome to be fully sequenced, published in 2002 by the International Rice Genome Sequencing Project. The approximately 430-megabase genome contains an estimated 37,000–40,000 protein-coding genes.
-
-Golden Rice, [[singh-genetically-engineered-fungi-bioremediation]] to produce beta-carotene (provitamin A) in the endosperm, was developed to address vitamin A deficiency in populations dependent on rice. First-generation events used a daffodil phytoene synthase gene; second-generation events use a maize ortholog achieving higher carotenoid levels.
-
-CRISPR-Cas9 gene editing has produced non-transgenic rice varieties with traits including blast resistance, herbicide tolerance, and altered grain quality. Because many edited lines contain no foreign DNA, they face reduced regulatory barriers compared to transgenic approaches.
-
-## Major Varieties and Landraces
-
-Basmati rice from the foothills of the Himalayas is prized for its extraordinary grain elongation and aromatic profile. True Basmati varieties (e.g., Basmati 370, Pusa Basmati 1) are protected by geographical indication in India and Pakistan.
-
-Jasmine rice (*khao hom mali*) from Thailand's Isan region dominates the fragrant rice export market. The variety carries the *BADH2* fragrance gene, which suppresses 2-acetyl-1-pyrroline (2AP) accumulation in non-aromatic varieties.
-
-Italian Arborio and Japanese Koshihikari represent temperate japonica varieties adapted to Mediterranean and East Asian cuisines, respectively. Koshihikari, developed in 1956, remains the most popular table rice in Japan despite higher [[fukuoka-textdoc-production-costs-not-coming-down]].
-
-African rice (*O. glaberrima*) is being crossed with *O. sativa* through the NERICA (New Rice for Africa) program. NERICA varieties combine the hardiness of African rice with the yield potential of Asian rice, offering improved productivity for smallholder farmers in sub-Saharan Africa.
-
-## See Also
-
-- [[cucurbita-pepo]]
-- [[vigna-radiata]]
-- [[arachis-hypogaea]]
-- [[ipomoea-batatas]]
-- [[curcuma-longa]]
-- [[allium-sativum-entity]]
-- [[spinacia-oleracea]]

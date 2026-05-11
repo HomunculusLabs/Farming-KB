@@ -1,5 +1,5 @@
 ---
-title: Growing growing root vegetables guide - Carrots Parsnips and Radishes
+title: Growing Root Vegetables Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon provides detailed guidance on biennial [[permaculture-plants-root-crops-and-tubers]], explaining their survival strategy and the specific techniques needed to grow them successfully in a low-input garden.
+[[steve-solomon]] provides detailed guidance on biennial [[permaculture-plants-root-crops-and-tubers]], explaining their survival strategy and the specific techniques needed to grow them successfully in a low-input garden.
 
 ## The Biennial Root Crop Strategy
 
@@ -89,33 +89,9 @@ Solomon's method for even spacing:
 - Flavor of parsnips improves after they go through some serious frosts.
 - Start them on the solstice, and they size up during the cooling weather.
 
-### Harvest and Storage
-
-- Usually must be dug.
-- When temperature approaches freezing, dig the whole patch and cellar roots in moist sand.
-- Some gardeners leave part of the crop in earth over winter for spring digging.
-
-### Seed Saving
-
-- Save seed as for carrots but use at least 25 roots.
-- Select roots showing exactly the traits you want.
-- Seed falls from flowers when fully dry, much like dill.
-- Cut off individual flowers one by one as seeds detach.
-
-## Winter Radishes
-
-- Form large roots with thick protective skins.
-- Peel, coarsely grate, and dress with [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]], [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], and minced onion for salad.
-- Black Spanish is Solomon's favorite. Needs spacing of about 6 by 18 inches.
-- Sow at least two weeks after the solstice or they may go to seed before making roots.
-- Most types are cellarable.
-- Sow in spring for harvest in autumn. In mild-winter climates, sow for [[coleman-claytonia-winter-harvest-cultivation]].
-
-## Related Concepts
-
-- [[david-holmgren]]
-- [[solomon-complete-organic-fertilizer-guide]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapters on root crops
-- [[gaias-garden-cover-crops-soil-building]]
-- [[teaming-with-nutrients-fertilizer-sources]]
+## See Also
+- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
+- [[root-crops-growing-guide]]
+- [[solomon-growing-root-crops-guide]]
+- [[hamilton-root-vegetables-growing]]
+- [[potato-growing-guide]]

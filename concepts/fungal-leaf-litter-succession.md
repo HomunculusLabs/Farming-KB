@@ -8,13 +8,13 @@ sources: []
 ---
 # Fungal Leaf Litter Succession
 
-Leaf litter decomposition in forest ecosystems follows a predictable pattern of
+Leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] in forest ecosystems follows a predictable pattern of
 fungal community succession, where different fungal species dominate at different
 stages of decomposition. This successional sequence is driven by changing
 substrate chemistry as labile compounds are consumed first and recalcitrant
 materials accumulate, and by competitive interactions between fungal species
-with different enzymatic capabilities and life history strategies. Understanding
-litter succession is essential for predicting decomposition rates, nutrient
+with different [[fungal-enzymatic-capabilities]] and life history strategies. Understanding
+litter succession is essential for predicting [[dighton-litter-quality-fungal-decomposition-rates]], nutrient
 cycling dynamics, and the response of forest carbon cycling to environmental
 change.
 
@@ -52,7 +52,7 @@ progressively removed, the remaining litter material becomes increasingly
 lignin-rich and recalcitrant. Species with lignin-modifying enzymes (laccases,
 manganese peroxidases, and lignin peroxidases) become competitively dominant.
 Decomposition slows considerably during this phase, and the litter gradually
-transitions toward humus formation.
+transitions toward [[humus-formation-and-soil-organic-matter]].
 
 ## Mechanisms Driving Successional Transitions
 
@@ -60,7 +60,7 @@ Several mechanisms drive the transition between successional phases. Resource
 competition is a primary driver: as labile carbon sources are depleted,
 fast-growing opportunists are outcompeted by fungi with greater enzymatic
 capability. Antibiotic production by some litter fungi inhibits competitors and
-shapes community composition. Antagonistic interactions, including
+shapes [[core-endorhiza-bacterial-community-composition-cannabis]]. Antagonistic interactions, including
 mycoparasitism, contribute to species turnover. Physical factors including
 moisture gradients and temperature fluctuations also influence which species can
 persist at each stage.
@@ -68,7 +68,7 @@ persist at each stage.
 ## Functional Guilds in Litter Decomposition
 
 Fungi in decomposing litter can be categorized into functional guilds based on
-their enzymatic capabilities and ecological roles. Sugar fungi specialize in
+their enzymatic capabilities and [[ecological-roles-fungi-ecosystems]]. Sugar fungi specialize in
 utilizing simple soluble compounds without degrading structural polymers.
 Cellulolytic fungi produce cellulases and hemicellulases that break down
 structural carbohydrates. Lignin degraders produce oxidative enzymes capable of
@@ -87,31 +87,3 @@ composition of fungal communities, with acid-tolerant species dominating in
 coniferous forests and pH-neutral species favored in broadleaf forests.
 
 ## Litter Quality Effects
-
-The chemical quality of the leaf litter itself strongly influences successional
-patterns. High-quality litter (low C:N ratio, low lignin content) from species
-such as alder and ash supports rapid succession with high species turnover.
-Low-quality litter (high C:N ratio, high lignin and tannin content) from
-species such as oak, pine, and eucalyptus supports slower succession with
-longer persistence of early-stage fungi. The concept of "litter quality"
-integrates measures of carbon chemistry, nitrogen content, and secondary
-compound concentrations into a predictive framework.
-
-## Methods for Studying Litter Succession
-
-Traditional methods for studying litter fungal succession include direct
-observation and culturing of fungi from litter samples at known decomposition
-stages, fruiting body surveys, and microscopy. Modern molecular approaches,
-including DNA metabarcoding of the ITS region from litter samples collected
-along decomposition chronosequences, have revealed much greater diversity than
-culture-based methods. Metatranscriptomic approaches are now being used to
-profile the functional gene expression of litter fungal communities through
-succession.
-
-## See Also
-
-- [[fungal-decomposition-resource-quality-determinants]]
-- [[dighton-fungal-decomposition-nutrient-cycling]]
-- [[humus-formation-and-soil-organic-matter]]
-- [[fungal-decomposition-nutrient-cycling]]
-- [[fungal-ecosystem-processes-overview]]

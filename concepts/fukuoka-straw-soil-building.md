@@ -88,28 +88,3 @@ Natural rice farming began with straw. This promotes [[cannabis-seed-germination
 back winter weeds, and enriches the soil. All of the straw and chaff obtained
 when harvesting and threshing the rice should be scattered uncut over the
 entire surface of the field. The agricultural technician has always regarded
-rice straw as nothing but a source of rice diseases and pests, so the common
-and accepted practice has been to apply the straw only when fully decomposed
-as prepared compost.
-
-Fukuoka deliberately called composting unnecessary and proposed that all the
-fresh rice straw be scattered over the field during [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]] and
-all the barley straw be spread over the field during rice cultivation. Straw
-produced on rice fields is of great importance as a source of organic
-fertilizer and for protecting the fields and enriching the soil.
-
-## Composting Is Unnecessary
-
-Preparing compost is among the most laborious of all farm chores. Fukuoka's
-method of returning all organic matter directly to the soil surface eliminates
-this burden entirely. When coarse organic material is buried in deep trenches
-along hill contours, covered with earth, and allowed to decompose naturally,
-the soil is enriched without the need for prepared compost. Five to ten years
-are needed to build up six inches of topsoil through soil improvement with
-cover crops, but once established, the soil maintains its own fertility.
-## See Also
-- [[masanobu-fukuoka]]
-- [[fukuoka-textdoc-citrus-orchard-soil-building-without-fertilizer]]
-- [[fukuoka-soil-fertility-straw-mulch]]
-- [[fukuoka-soil-building-method]]
-- [[fukuoka-soil-building-approach]]

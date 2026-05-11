@@ -1,5 +1,5 @@
 ---
-title: "bioremediation fungal metal metalloid transformations and Metalloid Transformations in Bioremediation"
+title: Bioremediation Fungal Metal Metalloid Transformations
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, metalloid, biomethylation, bioremediation]
 date: 2026-04-25
@@ -20,7 +20,7 @@ water.
 ## Overview of Transformation Mechanisms
 
 Several fungal species, both unicellular and filamentous, can transform
-metals and metalloids through enzymatic and non-enzymatic processes.
+[[staycare-fungal-biomethylation-of-metals-and-metalloids]] through enzymatic and non-enzymatic processes.
 These transformations are significant because changing the chemical form
 of a contaminant can alter its solubility, volatility, bioavailability,
 and toxicity. The three principal transformation mechanisms are
@@ -32,7 +32,7 @@ Reduction reactions convert metals from higher to lower oxidation states,
 often resulting in precipitation and immobilization. Silver(I) reduction
 to metallic silver(0) during [[brassinosteroid-fungal-growth-promotion]] on silver nitrate media
 produces blackened colonies with metallic silver precipitated in and
-around cell walls. Both enzymatic and non-enzymatic copper(II)-reducing
+around [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Both enzymatic and non-enzymatic copper(II)-reducing
 systems have been purified from Debaryomyces hansenii cell walls.
 
 Reductive processes are integral to high-affinity metal transport. The
@@ -43,7 +43,7 @@ is less well characterized than the bacterial mercuric reductase pathway.
 
 ## Metalloid Reduction
 
-Fungal metalloid reduction is well documented. Selenate and selenite
+[[fungal-metalloid-transformation-methylation-volatilization]] reduction is well documented. Selenate and selenite
 reduction to elemental selenium produces red-colored colonies and occurs
 in numerous fungal species, with both extracellular and intracellular
 deposition demonstrated. Tellurite reduction to elemental tellurium
@@ -65,7 +65,7 @@ pathway for fungal production of trimethylarsine from arsenite was first
 suggested by Challenger in 1945. The pathway involves transfer of methyl
 groups as carbonium ions from S-adenosylmethionine.
 
-Several fungi including Gliocladium roseum, Candida humicola, and
+Several fungi including [[gliocladium-roseum]], Candida humicola, and
 Penicillium species can convert monomethylarsenic acid to trimethylarsine.
 Numerous fungi convert selenite and selenate to dimethylselenide and
 dimethyldiselenide. Inorganic forms of selenium are methylated more
@@ -88,46 +88,3 @@ and dimethylditelluride production from tellurite and tellurate by
 Penicillium species has been demonstrated. However, tellurium
 volatilization by Fusarium occurred at extremely low levels, suggesting
 it may not be an important detoxification mechanism for this metalloid.
-
-## Dealkylation of Organometallic Compounds
-
-Fungal dealkylation transforms organometallic pollutants into less
-toxic inorganic forms. Organotin compounds such as tributyltin oxide
-and tributyltin naphthenate can be degraded to mono- and dibutyltins,
-with inorganic tin(II) as the ultimate degradation product. Degradation
-can occur through direct enzymatic action or through abiotic processes
-facilitated by fungal metabolites that alter local pH.
-
-Organomercury compounds are detoxified through a two-step process:
-fungal organomercury lyase converts organomercury to mercury(II), which
-is subsequently reduced to elemental mercury(0) by mercuric reductase.
-This system is broadly analogous to that found in mercury-resistant
-bacteria. Trimethyllead degradation has been demonstrated in an
-alkyllead-tolerant yeast and in the wood-decay fungus Phaeolus
-schweinitzii.
-
-## Bioremediation Significance
-
-These transformation mechanisms offer several advantages for
-bioremediation. Reduction produces insoluble precipitates that can be
-contained. Methylation produces volatile derivatives that can be captured
-or dispersed safely. Dealkylation breaks down persistent organometallic
-pollutants into simpler, less toxic inorganic forms. The combination of
-these mechanisms with biosorption and bioleaching gives fungi a
-versatile toolkit for metal and metalloid remediation.
-
-## Practical Applications
-
-The [[singh-metal-transformation-leaching-mechanisms-fungi]] capabilities of fungi are being
-harnessed for bioremediation of contaminated sites. Fungal-based
-bioreactors and biofilters can treat metal-laden wastewater through
-biosorption, bioaccumulation, and enzymatic transformation of toxic
-metal species. In situ applications include mycoremediation of
-mine tailings and industrial waste sites.
-
-## See Also
-
-- [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]
-
-- [[mycoremediation]]
-- [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]]

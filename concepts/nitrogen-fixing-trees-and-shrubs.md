@@ -88,31 +88,3 @@ Small seeds can be sown in rows about 6in (15cm) apart or scattered by hand and 
 When seedlings are about 6 to 9in (15 to 20cm) tall and before they flower, they are ready for digging in. Cut plants down at the base with a spade and leave the green manure on the ground for a while to wilt. Then scrape back the green manure to expose a 12in (30cm) strip of soil at one end of the plot, dig a shallow trench, and scrape some green manure into it. Refill the trench and continue until all the green manure is worked into the soil.
 
 With any green-manure crop it should not be allowed to get too woody and should be cut down and worked into the soil before it flowers. Do not let the crop become too woody before you dig it in or the rotting process will take nitrogen from the soil.
-
-When digging in the green manure, do not bury the material deeper than about 6in (15cm). If you have allowed the crop to become hard and woody, it may be necessary to apply [[jadam-liquid-fertilizer-nutritional-perspective]] to assist with the rotting. Watering over with liquid seaweed or animal manure would suffice.
-
-## Nitrogen-Fixing Green Manure Crops
-
-- **Alfalfa (Lucerne)**: A deep-rooted, tall perennial, extremely useful in the garden as long as you have enough space to let it grow for a whole season. It provides plenty of green matter, is very deep rooting and, being a legume, adds nitrogen. Sow at half an ounce (15g) per square yard/meter in the spring, then dig in fall; alternatively, sow in late summer and dig in during the spring.
-
-- **Broad or Fava Bean**: An excellent green-manure crop in every way. It will withstand the winter almost everywhere, produces plenty of organic matter, is a nitrogen-fixer, and the beans can be harvested and eaten. Sow in fall or early summer.
-
-- **Lupin**: Deep-rooting tall legume that will add nitrogen and large amounts of phosphates to the soil. Sow in spring. Rather than cutting the whole crop, leave a few plants to mature in the summer and save the seed for sowing the next crop.
-
-- **Red Clover**: A low-growing nitrogen-fixer with an extensive root system that will supply plenty of organic matter. Best sown in spring or late summer, but always before fall.
-
-- **Winter Tare**: One of the most useful crops because it grows during the winter when land is vacant. Sow during late summer and dig them in during early spring. It produces a large amount of green matter, has an extensive root system, and fixes nitrogen.
-
-## Non-Nitrogen-Fixing Green Manure Crops
-
-- **Buckwheat**: Useful where space is available for the whole summer. Sow when the weather is warm. It is tall with a very extensive root system and plenty of organic matter. It does not fix nitrogen but has the advantage that it attracts hoverflies, which eat greenfly by the thousand.
-
-- **Rye**: A non-legume with an extensive root system producing useful green material. Sow the perennial variety in late summer or fall and dig in during the spring.
-
-- **Phacelia**: One of the best of all green-manure crops despite not fixing nitrogen. It is fast growing and, if dug in when still soft, will not rob the soil of nitrogen. Does not withstand cold, so sow after the threat of frost has passed.
-
-- **Mustard**: A quick-growing, short and shallow-rooting crop that will make plenty of organic matter for digging in, and a good weed suppressor. Sow in spring and summer and dig in before flowering. Be aware it is a member of the cabbage family and could harbor clubroot.
-
-- **Italian Ryegrass**: Fast-growing and bulky, good for sowing early in spring. It will germinate quickly, even in cold soils. Essential to use the annual strain called Westerwolds rather than perennial ryegrass, which will regrow.
-
-## Key Principles

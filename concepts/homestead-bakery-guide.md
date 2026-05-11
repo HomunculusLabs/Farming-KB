@@ -15,19 +15,19 @@ A homestead bakery transforms home-milled or purchased grains into bread and bak
 
 ### What Is Sourdough
 
-Sourdough is bread leavened by wild lactobacilli and wild yeast (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
+Sourdough is bread leavened by wild lactobacilli and [[comparison-sourdough-vs-wild-yeast]] (naturally occurring in flour and the environment) rather than commercial baker's yeast. The symbiotic relationship between these microorganisms produces:
 
-- **Carbon dioxide** — Leavens the bread (from wild yeast)
+- **[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]** — Leavens the bread (from wild yeast)
 - **Lactic and acetic acid** — Flavor and preservation (from lactobacilli)
-- **Enzymes** — Break down complex carbohydrates and gluten, improving digestibility
+- **Enzymes** — [[query-can-fungi-break-down-plastic-pollution]] complex carbohydrates and gluten, improving digestibility
 - **Lower glycemic index** — The acid and fermentation slow sugar absorption
-- **Extended shelf life** — Acidic environment inhibits mold growth (sourdough keeps 5-7 days without preservatives)
+- **Extended [[ingham-aact-holding-time-shelf-life-decay]]** — Acidic environment inhibits mold growth (sourdough keeps 5-7 days without preservatives)
 
 ### Creating a Sourdough Starter
 
 A starter is a stable culture of wild yeast and lactobacilli maintained with regular flour and water feedings:
 
-**Day 1:** Mix 1/2 cup whole wheat flour + 1/2 cup warm water (80-85F) in a glass jar. Stir well, cover loosely. Whole wheat flour works best initially because the bran hosts more wild organisms.
+**Day 1:** Mix 1/2 cup whole wheat flour + 1/2 cup warm water (80-85F) in a [[jarrold-glass-jar-spore-print-collection-drying]]. Stir well, cover loosely. Whole wheat flour works best initially because the bran hosts more wild organisms.
 
 **Day 2-3:** Stir the mixture. You may see bubbles. Do not feed yet.
 
@@ -62,7 +62,7 @@ Whole wheat bread behaves differently from white bread:
 - 500g whole wheat flour (freshly milled preferred)
 - 350g water (70% hydration — adjust to 75% if dough is too stiff)
 - 100g active sourdough starter (20% inoculation)
-- 10g sea salt (2%)
+- 10g [[jadam-sea-salt-and-mineral-solutions]] (2%)
 
 **Process:**
 1. **Autolyse:** Mix flour and water until no dry spots remain. Rest 30-60 minutes.

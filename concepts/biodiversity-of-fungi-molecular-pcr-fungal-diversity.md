@@ -1,11 +1,11 @@
 # Molecular PCR Methods for Assessing Fungal Diversity
 
-**Source:** Biodiversity of Fungi (Mueller, Bills, & Foster, eds.)
-**Topics:** apPCR, dpPCR, npPCR, fungal genetic diversity, species monitoring
+**Source:** [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills, & Foster, eds.)
+**Topics:** apPCR, dpPCR, npPCR, [[biodiversity-fungal-genetic-diversity]], species monitoring
 
 ## Overview
 
-Molecular methods based on polymerase chain reaction (PCR) technology have revolutionized the study of fungal biodiversity. Three primary PCR-based approaches—arbitrarily primed PCR (apPCR), dual-primer PCR (dpPCR), and nested-primer PCR (npPCR)—enable researchers to discriminate fungal taxa, monitor species occurrence in complex environmental samples, and quantify genetic diversity within and between fungal populations. These techniques are particularly valuable because many fungi cannot be cultured or reliably identified by morphology alone.
+[[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] based on polymerase chain reaction (PCR) technology have revolutionized the study of fungal biodiversity. Three primary PCR-based approaches—arbitrarily primed PCR (apPCR), dual-primer PCR (dpPCR), and nested-primer PCR (npPCR)—enable researchers to discriminate fungal taxa, monitor species occurrence in complex environmental samples, and quantify genetic diversity within and between fungal populations. These techniques are particularly valuable because many fungi cannot be cultured or reliably identified by morphology alone.
 
 ## Arbitrarily Primed PCR (apPCR)
 
@@ -51,7 +51,7 @@ dpPCR uses the same reaction buffer components as apPCR, except two primers are 
 
 ### Field Applications
 
-dpPCR is so sensitive that it enables detection of fungal species in complex environmental samples where visual identification would be impossible. This has applications for monitoring endangered or invasive fungal species, tracking biocontrol agents in soil, and assessing fungal community composition in ecosystem studies.
+dpPCR is so sensitive that it enables detection of fungal species in complex environmental samples where visual identification would be impossible. This has applications for monitoring endangered or invasive fungal species, tracking [[singh-entomopathogenic-fungi-biocontrol-agents]] in soil, and assessing fungal [[core-endorhiza-bacterial-community-composition-cannabis]] in ecosystem studies.
 
 ## Nested-Primer PCR (npPCR)
 
@@ -88,40 +88,3 @@ Tissue samples (approximately 0.5 cubic centimeters) are collected from sporocar
 ### Challenges and Solutions
 
 In contrast to DNA, messenger RNA (mRNA) in complex substrata such as soil is rarely analyzed because labile RNA molecules are difficult to purify. Nucleic acid extractions from soil-colonizing fungi are particularly problematic due to humic substances that interfere with Taq polymerase. Magnetic capture techniques have overcome these problems.
-
-### Magnetic Capture Method
-
-Magnetic capture uses magnetic beads covalently attached to single-stranded DNA, most commonly oligo(dT) chains. The beads are mixed with crude cell lysates, and polyadenylated mRNA binds to the oligo(dT) while contaminants are washed away. This approach enables rapid and efficient purification of microbial DNA and RNA from soil and other complex matrices.
-
-## Applications in Biodiversity Studies
-
-### Species Monitoring
-
-Many questions related to fungal biodiversity are best addressed with in situ monitoring of temporal and spatial species occurrence. The combination of apPCR fingerprinting, dpPCR specificity, and npPCR sensitivity provides a powerful toolkit for tracking fungal populations across seasons, habitats, and management regimes.
-
-### Population Genetics
-
-PCR-based markers enable assessment of:
-1. Whether a cluster of sporocarps represents a single individual
-2. How individual genotypes are distributed spatially
-3. Whether adjacent sporocarps are clones
-4. Levels of genetic diversity within and between populations
-
-### Conservation Applications
-
-These molecular methods are critical for conservation because they allow detection of rare or threatened fungal species that may not produce visible fruiting bodies in survey years. They also enable long-term monitoring of fungal populations in response to habitat change, pollution, or climate shifts.
-
-## Limitations
-
-- Many genetic markers are either present or absent (dominant), making it difficult to distinguish heterozygotes
-- Classical population genetic analyses are complicated by the dominant marker system
-- PCR inhibitors in soil and environmental samples can reduce sensitivity
-- Results depend on primer selection; different primers may yield different diversity estimates
-- The techniques require laboratory infrastructure and trained personnel
-
-## See Also
-
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[biodiversity-fungal-culture-preservation]]
-- [[fungal-specimen-preparation-preservation-herbarium-storage]]
-- [[biodiversity-fungal-biodiversity-estimation-methods]]

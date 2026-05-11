@@ -88,17 +88,5 @@ The practical importance of the Third Bardo instructions lies in their emphasis 
 
 The Tibetan Book of the Dead ([[metzner-leary-bardo-thodol-and-tao-te-ching-adaptation]]) was composed in the 8th century CE, though its roots extend further into the Indian Buddhist tradition. The text belongs to the Nyingma school of Tibetan Buddhism, the oldest of the four major schools, and reflects the Dzogchen and Mahamudra traditions of direct experiential insight. Carl Jung, who wrote the introduction to Evans-Wentz's 1927 translation, recognized the text as a psychological document describing archetypal processes of death and rebirth that transcend its specific cultural and religious context.
 
-Leary, Metzner, and Alpert's adaptation was groundbreaking in stripping the text of its specifically Buddhist cosmology while preserving its psychological structure. Their version, published as *The Psychedelic Experience* in 1964, translated the Tibetan framework into secular, experimental language that could be used by researchers and guides working with psilocybin and LSD. The manual became one of the most widely read guides to the psychedelic experience and influenced the development of modern [[metzner-psycholytic-psychedelic-therapy-models]] protocols, including the contemporary revival of clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]].
-
-## Neuroscience of the Visionary Experience
-
-Modern neuroscience has begun to elucidate the brain mechanisms underlying the visionary experiences Leary described. Functional neuroimaging studies using psilocybin have shown that the drug decreases blood flow and connectivity in the [[leary-psychedelic-bardo-model]]
-- [[visionary-symbols-and-universal-archetypes]]
-- [[consciousness-and-psychedelics]]
-- [[psychedelic-consciousness-expansion]]
-- [[lsd-lysergic-acid-diethylamide-experience-guide]]
-
-## Contemporary Relevance of the Bardo Model
-
-The renewed scientific interest in psychedelic therapy has brought renewed attention to Leary's Bardo model. While contemporary researchers are careful to distinguish between Leary's advocacy for recreational use and the carefully controlled clinical settings of modern trials, the structural framework of the Bardo — [[psilocybin-ego-dissolution-mechanisms]] (First Bardo), visionary content (Second Bardo), and reintegration (Third Bardo) — provides a remarkably accurate map of the phenomenological stages observed in modern clinical sessions. The model's emphasis on surrender, non-resistance, and trust in the process remains central to the therapeutic protocols developed at leading research institutions. Recent neuroimaging work at Imperial College London and Johns Hopkins has confirmed that the brain state during the psychedelic experience closely matches the Bardo model's predictions, lending empirical support to Leary's phenomenological mapping.
-In particular, the observed progression from initial DMN suppression through heightened emotional processing to eventual network reintegration mirrors the Bardo's three-phase structure with remarkable fidelity.
+## See Also
+- [[mckenna-food-gods-leary-harvard-psilocybin-project]]

@@ -1,5 +1,5 @@
 ---
-title: Anaerobic Zoosporic Fungi (Gut Fungi)
+title: Anaerobic Zoosporic Fungi
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -49,7 +49,7 @@ abomasum. The rumen is the largest pregastric chamber (~10L in sheep,
 
 Herbivores are divided into foregut fermenters (ruminants, kangaroos) and
 hindgut fermenters (elephants, horses, rabbits). Hindgut fermenters obtain
-most nutrients from cell contents rather than cell walls, while foregut
+most nutrients from cell contents rather than [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], while foregut
 fermenters depend on pregastric microbial fermentation for prolonged periods,
 allowing more thorough degradation of plant fiber.
 
@@ -81,39 +81,9 @@ Their contribution to rumen function includes:
 - **Physical disruption**: The rhizoidal system of the fungi penetrates
   and physically disrupts plant cell walls, increasing surface area
   available to other microbes
-- **Enzymatic degradation**: They produce a wide array of cellulolytic and
+- **[[enzymatic-degradation-in-mycoremediation]]**: They produce a wide array of cellulolytic and
   hemicellulolytic enzymes, including cellulases, xylanases, and
   esterases, that degrade structural plant polysaccharides
-- **Synergistic interactions**: Fungal enzyme systems work synergistically
+- **Synergistic interactions**: [[fungal-enzyme-systems]] work synergistically
   with bacterial and protozoal enzymes, enhancing overall fiber degradation
   beyond what any single group could achieve alone
-
-The rhizoids of anaerobic gut fungi are particularly effective at penetrating
-the lignin-rich tissues that resist bacterial colonization. This physical
-penetration, combined with enzymatic activity, makes the fungi uniquely
-important for initiating the degradation of recalcitrant plant tissues.
-
-## Biotechnological Applications
-
-The enzyme systems of anaerobic gut fungi have attracted significant interest
-for biotechnological applications, particularly in the biofuel industry:
-
-- **Biomass conversion**: Fungal cellulases and xylanases can be used to
-  convert [[fungi-in-composting-and-agricultural-waste-conversion]] into fermentable sugars for bioethanol
-  production
-- **Animal feed improvement**: Understanding fungal fiber degradation can
-  inform strategies to improve feed efficiency in livestock
-- **Industrial enzymes**: Fungal enzymes may offer advantages over bacterial
-  enzymes for certain industrial processes due to their stability and
-  substrate specificity
-
-The anaerobic nature of these fungi also makes their enzymes interesting
-for industrial processes that must operate under low-oxygen conditions.
-
-## See Also
-
-- [[fungal-symbiosis-types]]
-- [[fungal-enzyme-systems]]
-- [[teaming-with-microbes-specific-bacteria-fungi]]
-- [[saprotrophic-decomposition]]
-- [[fungal-decomposition-processes]]

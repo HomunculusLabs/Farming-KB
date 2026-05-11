@@ -87,11 +87,3 @@ Documented [[blesching-cannabis-safety-adverse-effects-evidence]] include hypert
 There is no evidence of urotoxicity (bladder damage) at recreational doses, unlike chronic ketamine use. However, case reports of prolonged heavy use describe cognitive impairment, memory deficits, and psychological dependence.
 
 MXE has a narrow [[cannabis-therapeutic-index-overview]]. Deaths attributed to MXE alone are rare but documented, typically involving doses exceeding 100 mg or combinations with depressants (alcohol, benzodiazepines, opioids). Intravenous use carries the highest risk profile.
-
-## See Also
-
-- [[dextromethorphan]]
-- pcp
-- [[3-meo-pce]]
-- [[salvinorin-a-entity]]
-- [[muscimol-entity]]

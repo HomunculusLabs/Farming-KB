@@ -1,5 +1,5 @@
 ---
-title: Cultural cultural evolution and psychoactive substances Substances
+title: Cultural Evolution And Psychoactive Substances
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -14,7 +14,7 @@ challenges the conventional view that psychoactive plant use is merely a
 cultural artifact, arguing instead that these substances have been active
 drivers of human cultural and intellectual development.
 
-Terence McKenna proposed that psychoactive plants, particularly hallucinogenic
+[[terence-mckenna]] proposed that psychoactive plants, particularly hallucinogenic
 species, catalyzed the emergence of consciousness, language, and complex social
 organization in early humans. His argument begins with the observation that the
 early hominids' adoption of an omnivorous diet and their discovery of the power
@@ -76,7 +76,7 @@ of a deeply rooted dimension of human experience and creativity.
 
 The archaeological and ethnographic evidence for psychoactive influence on
 cultural evolution includes the widespread presence of psychoactive plant imagery
-in ancient art, the universality of shamanic practices involving plant
+[[allegro-fungal-iconography-in-ancient-art]], the universality of shamanic practices involving plant
 medicines, and the correlation between periods of cultural flowering and
 openness to [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
@@ -87,16 +87,3 @@ substances on cognition and perception, makes it difficult to dismiss their
 role entirely.
 
 See Also:
-
-[[psychedelic-plants-and-civilization]]
-
-[[psychedelic-ancient-history]]
-
-[[mckenna-archaic-revival]]
-
-global psychedelic traditions
-
-[[mckenna-human-cognition-and-the-stoned-age]]
-- [[wade-davis]]
-
-- [[entheogens-and-cultural-evolution]]

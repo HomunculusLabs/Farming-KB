@@ -5,6 +5,7 @@ tags: [natural-diet, seasonal-eating, food-mandala, yin-yang, practical-diet]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -16,8 +17,8 @@ type: concept
 Fukuoka presents his practical philosophy of natural eating, which parallels
 his approach to [[comparison-natural-farming-vs-permaculture]]. A true natural diet is a way of eating where
 one feeds randomly with an undiscriminating attitude on food taken from the
-wild, crops grown by natural farming, and fish and shellfish caught using
-natural methods. Natural diet and natural farming are not separate ideas but
+wild, crops grown by [[cho-loess-powder-in-natural-farming]], and fish and shellfish caught using
+[[fukuoka-textdoc-creating-rice-paddy-natural-methods]]. Natural diet [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] are not separate ideas but
 united intimately as one whole.
 
 ## The Foundation of Natural Diet
@@ -31,7 +32,7 @@ philosophical constraints, ultimately deny and transcend these.
 
 ## The Role of Traditional Crops
 
-Agricultural crops which for many thousands of years have merely adapted to
+[[fungal-endophytes-agricultural-crops]] which for many thousands of years have merely adapted to
 the environment and survived through natural selection to become fixtures of
 human society may be thought of as foods that arose naturally. This does not
 apply to crops developed recently through breeding programs that are
@@ -41,7 +42,7 @@ and livestock, should be firmly excluded from the diet.
 ## The Unity of Food, Clothing, Shelter, and Spirit
 
 Natural diet and natural farming are united intimately as one whole. They are
-one too with natural fishing and animal husbandry. Man's food, clothing, and
+one too with natural fishing and [[holzer-natural-animal-husbandry]]. Man's food, clothing, and
 shelter, and his spiritual existence must all be blended together with nature
 in perfect harmony. To separate diet from farming, or food from spirit, is to
 commit the fundamental error that characterizes modern civilization.
@@ -74,7 +75,7 @@ urchins, and sea cucumbers.
 
 ## Beyond Yin and Yang
 
-Fukuoka incorporates but transcends both Western nutritional science and the
+Fukuoka incorporates but transcends both Western [[fukuoka-critique-western-dietetics-nutritional-science]] and the
 [[fukuoka-western-eastern-philosophy-agriculture]] of yin and yang. Summer is hot and yang, winter is cold and
 yin. The diet maintains a balance: in summer one should eat yin foods, in
 winter yang foods. Vegetables are green, seaweed is blue, cereal grains are
@@ -87,41 +88,3 @@ alkaline, leads one right back into the realm of science and discriminating
 knowledge. The mandala of foods shows that as long as man accepts and lives
 in accordance with the divine dispensation, a complete natural diet will arise
 of itself without his needing to know anything.
-
-## The Culinary Artistry of Simple Fare
-
-Nothing surpasses the culinary artistry of home-made miso and tofu cooking,
-and of fish cooked on the rocks by the river or at the fireside after
-flavoring with crude, natural salt prepared by burning [[jadam-sea-salt-and-mineral-solutions]] with brush
-and seaweed. The osechi-ryori dishes prepared for New Year's, with salted
-salmon and herring roe paired with kelp and black soybeans, goes beyond
-tradition to a perfect pairing of man and nature.
-
-This farmer's diet, this diet of the fisherman on the coast who eats sardines
-with his potatoes and barley, these are the common diets of village people.
-They know what is delicious, but they have not neglected the subtle and
-curious flavors of nature.
-
-## The Diet at Our Feet
-
-A natural diet lies at our feet: a diet that obeys the laws of heaven and has
-been followed naturally and without want by the people of farming and fishing
-villages. The Japanese take foods of the seasons available near at hand, and
-while savoring their excellent and distinctive flavors, are able to see the
-providence of the heavens in the modest fare on which they live. Within a
-quiet life passed leisurely and tranquilly according to the cycles of nature
-lies hidden all the grandeur of the human drama.
-
-## The Path Forward
-
-Fukuoka acknowledged that achieving a truly natural diet in the modern
-world requires patience and persistence. The journey begins with
-small changes: choosing whole grains over processed ones, eating
-seasonally, and reducing reliance on animal products. Over time, the
-palate readjusts and the body's natural wisdom reasserts itself.
-
-## See Also
-
-- [[fukuoka-natural-diet-philosophy]]
-- [[fukuoka-food-and-health-philosophy]]
-- [[fukuoka-natural-body-and-health]]

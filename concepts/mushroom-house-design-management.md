@@ -6,6 +6,7 @@ tags: [mushroom-house, humidity-control, ventilation, fruiting,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disabi.md
 type: concept
 ---

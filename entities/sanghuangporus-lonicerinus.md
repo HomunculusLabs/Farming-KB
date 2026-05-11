@@ -87,12 +87,3 @@ Sanghuangporus lonicerinus is part of a genus containing approximately 12 specie
 Sanghuangporus vaninii is another closely related species found in similar habitats and used in traditional medicine. It can be distinguished by its larger pores and different host preferences.
 
 Sanghuangporus lonicericola, described more recently, is morphologically similar but genetically distinct. It is known from northeastern China on Lonicera species and represents a cryptic species within the complex.
-
-The genus is closely related to Phellinus sensu stricto and Inonotus, with which it shares many ecological and chemical characteristics. Molecular phylogeny has been essential for resolving taxonomic boundaries within this group.
-
-## See Also
-
-- [[sanghuangporus-vaninii]]
-- [[poria-cocos]]
-- [[trametes-versicolor-entity]]
-- [[laetiporus-sulphureus]]

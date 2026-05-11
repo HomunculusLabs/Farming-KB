@@ -1,5 +1,5 @@
 ---
-title: Fungal Phylogeny: Microsporidia and Slime Molds
+title: Fungal Phylogeny Microsporidia Slime Molds
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources: []
 
 Molecular phylogenetics has revolutionized understanding of fungal
 evolutionary relationships, revealing surprising connections and
-redefining the boundaries of Kingdom Fungi. Key discoveries include the
+redefining the boundaries of [[fungal-taxonomy-and-kingdom-fungi]]. Key discoveries include the
 Fungi-Microsporidia link and the phylogenetic placement of slime molds.
 
 ## The Fungi-Microsporidia Connection
@@ -39,7 +39,7 @@ molecular data:
 Molecular analyses group dictyostelid (cellular) slime molds and
 plasmodial (true) slime molds together, supporting their traditional
 grouping in the now-obsolete phylum Myxomycota. These organisms show
-both fungal-like (spore production) and animal-like (amoeboid movement)
+both fungal-like ([[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]) and animal-like (amoeboid movement)
 characteristics.
 
 ### Acrasid Slime Molds
@@ -53,7 +53,7 @@ social behavior in eukaryotes.
 
 The slime molds are now understood to be outside Kingdom Fungi,
 belonging to separate eukaryotic lineages (Amoebozoa). However, their
-ecological roles and morphological similarities to fungi have
+[[ecological-roles-fungi-ecosystems]] and morphological similarities to fungi have
 historically linked them in mycological study.
 
 ## Phylogenetic Methods
@@ -62,7 +62,7 @@ historically linked them in mycological study.
 
 Standard molecular markers for fungal phylogeny include:
 
-- Ribosomal RNA genes (SSU, LSU, ITS) -- the primary barcoding regions
+- [[ribosomal-rna-sequencing-yeast-identification]] genes (SSU, LSU, ITS) -- the primary barcoding regions
 - Protein-coding genes (EF-1&, RPB1, RPB2, &-tubulin) -- for
   resolving deeper nodes
 - Mitochondrial genes -- for population-level and species-level studies
@@ -88,62 +88,3 @@ The phylogenetic discoveries have forced significant reclassification:
   molecular evidence
 - The boundaries between Fungi and other eukaryotic kingdoms are
   better understood
-- Cryptic species complexes are being revealed by DNA sequence data
-
-## Implications for Biodiversity Estimates
-
-Phylogenetic knowledge affects estimates of fungal diversity:
-
-- If Microsporidia are fungi, total fungal species counts increase
-  substantially
-- Molecular environmental sampling consistently reveals more diversity
-  than culture-based methods
-- The ratio of known to unknown fungal species remains very high --
-  estimates suggest only 5-10% of fungal species have been described
-
-## Deep Phylogeny and the Opisthokont Root
-
-The broader phylogenetic framework places Fungi within the
-Opisthokonta, a supergroup that also includes animals and several
-protist lineages. Within Opisthokonta, Fungi are sister to Nucleariida
-(unicellular amoeboid protists), while Microsporidia branch within
-or near the fungal crown group. This placement helps explain why
-Microsporidia retain fungal-like features such as chitinous spore
-walls, a flattened mitochondrial cristae remnant (mitosome), and
-a polar tube for host cell invasion that resembles fungal
-germination structures.
-
-Comparative genomics has revealed that Microsporidia have lost many
-genes considered essential for free-living eukaryotes, including genes
-for amino acid synthesis, the tricarboxylic acid cycle, and
-respiratory chain components. Instead, they rely entirely on ATP and
-nutrients imported from their host cells through specialized transport
-proteins in their plasma membrane. This extreme metabolic dependence
-is a consequence of their long evolutionary history as intracellular
-parasites.
-
-## Environmental DNA and Hidden Diversity
-
-Environmental sequencing of soil, water, and air samples has revealed
-enormous fungal diversity that was previously undetected by
-morphological or culture-based methods. Many of these environmental
-sequences represent deeply branching lineages with no known cultured
-representatives, sometimes referred to as "dark taxa." These
-lineages may include novel phylum-level groups that could further
-reshape our understanding of fungal phylogeny.
-
-Studies of marine environments have been particularly surprising,
-revealing extensive fungal diversity in habitats previously thought to
-be dominated by bacteria and archaea. Deep-sea sediments, hydrothermal
-vents, and coral reefs all harbor distinct fungal communities with
-novel phylogenetic affinities. The discovery of these communities
-challenges the traditional view of fungi as primarily terrestrial
-organisms.
-
-## See Also
-
-- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
-- [[fungal-succession-woody-debris-ecology]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[physarum-polycephalum]]
-- [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]

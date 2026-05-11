@@ -15,7 +15,7 @@ sources:
   - Ju, J. et al. (2012). "The glucosinolate-derived isothiocyanate, allyl isothiocyanate, inhibits angiogenesis in vitro." Journal of Nutritional Biochemistry, 23(12), 1638-1645.
   - Lazányi, J. et al. (2011). "Antimicrobial activity of horseradish juice." Acta Alimentaria, 40(2), 227-235.
   - Rideout, M. et al. (2003). "Horseradish peroxidase: a review of biotechnological applications." Critical Reviews in Biotechnology, 23(2), 127-148.
-  - Wedelsbäck Bladh, K. & Olsson, K.M. (2011). "Introduction and use of horseradish (Armoracia rusticana) as food and medicine from antiquity to the present." Herbal Medicine, 3(2), 59-74.
+  - Wedelsbäck Bladh, K. & Olsson, K.M. (2011). "Introduction and use of horseradish (Armoracia rusticana) as food and medicine from antiquity to the present." [[childrens-herbal-medicine]], 3(2), 59-74.
 ---
 
 ## Overview
@@ -40,7 +40,7 @@ The inflorescence is an elongated raceme of small, white, four-petaled flowers 6
 
 A. rusticana is native to eastern Europe and western Asia, with a natural range extending from the Volga region through Ukraine, Poland, and the Balkans. It has been widely naturalized across Europe, [[psilocybin-north-america-pacific-northwest]], and temperate Asia.
 
-The species occurs naturally in damp meadows, river floodplains, and forest margins. It prefers moist, deep, fertile loams but tolerates a wide range of soil conditions including heavy clay.
+The species occurs naturally in damp meadows, river floodplains, and forest margins. It prefers moist, deep, fertile loams but tolerates a wide range of soil conditions including [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]].
 
 Horseradish is hardy to USDA Zone 3 and can survive winter temperatures below -30°C. It grows best in full sun but tolerates partial shade, though root yield is reduced under shade.
 
@@ -54,7 +54,7 @@ AITC exhibits broad-spectrum antimicrobial activity against bacteria, fungi, and
 
 Horseradish peroxidase (HRP) is a commercially important heme-containing enzyme extracted from the roots. It is widely used in biochemistry, immunohistochemistry, and diagnostic kits as a label enzyme.
 
-Anti-inflammatory and antioxidant activities have been documented for root extracts in various animal models. These effects are attributed to the combined action of isothiocyanates, phenolic compounds, and ascorbic acid.
+Anti-inflammatory and antioxidant activities have been documented for root extracts in various animal models. These effects are attributed to the combined action of isothiocyanates, [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], and ascorbic acid.
 
 ## Culinary and Traditional Uses
 
@@ -70,7 +70,7 @@ In Japan, wasabi is the traditional pungent condiment, but horseradish is widely
 
 ## Cultivation
 
-Horseradish is propagated vegetatively by planting root cuttings (sets) 15–20 cm long and 1–2 cm in diameter. Sets are planted horizontally or at a 45° angle, 5–10 cm deep, in early spring.
+Horseradish is propagated vegetatively by planting root cuttings (sets) 15–20 cm long and 1–2 cm in diameter. Sets are planted horizontally or at a 45° angle, 5–10 cm deep, in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 Plants are spaced 30–45 cm apart in rows 60–90 cm apart. The crop benefits from deep, well-drained soils and regular irrigation during the [[savory-growing-season-and-non-growing-season-management]]. Nitrogen fertilization is important for optimal root development.
 
@@ -87,23 +87,3 @@ The root contains significant amounts of potassium, calcium, magnesium, and diet
 Horseradish is extremely low in calories (approximately 50 kcal per 100 g fresh weight), making it a flavorful, nutrient-dense condiment when consumed in moderation.
 
 ## Permaculture and Companion Planting
-
-Horseradish is valued in permaculture systems for its deep taproot, which breaks up compacted subsoil and brings up minerals from deep soil layers. It is often planted at the edge of orchard systems or as a [[nutrient-dynamic-accumulator-reference]].
-
-The plant's strong [[mycorrhizal-root-exudates-pathogen-interactions]] may have pest-repellent properties. Some gardeners interplant horseradish with potatoes to deter Colorado potato beetles, though scientific evidence for this companion planting effect is limited.
-
-Horseradish is sometimes included in food forest understory plantings. Its shade tolerance allows it to produce useful root crops beneath taller canopy species, though full sun gives the highest yields.
-
-## See Also
-
-- [[zingiber-officinale]]
-- [[allium-sativum-entity]]
-- [[berberis-vulgaris]]
-- [[piper-nigrum-entity]]
-- [[cinnamomum-verum]]
-- wasabia japonica
-- [[curcumin]]
-- [[moringa-oleifera]]
-- [[withania-somnifera]]
-- [[bacopa-monnieri]]
-- [[glycyrrhiza-glabra]]

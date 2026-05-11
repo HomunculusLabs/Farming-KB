@@ -1,5 +1,5 @@
 ---
-title: Brown Rice Petri Plate Inoculation and Vermiculite Transfer for Psilocybe cubensis Primordia
+title: Brown Rice Petri Plate Inoculation Vermiculite Transfer Psilocybe Cubensis Badham 1982
 created: 2026-05-09
 tags: [mycology, inoculation, brown-rice, petri-plate, primordia, vermiculite, psilocybe-cubensis, spawn-preparation, badham-1982, wind-tunnel-culture, fruiting-preparation]
 date: 2026-05-09
@@ -11,7 +11,7 @@ type: concept
 
 # Brown Rice Petri Plate Inoculation and Vermiculite Transfer
 
-In his 1982 study of tropisms in Psilocybe cubensis published in
+In his 1982 study of tropisms [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] published in
 Mycologia, Edmond Badham described a specific culture preparation method
 that served as the foundation for all subsequent wind tunnel experiments.
 This two-stage approach combined the simplicity of brown rice substrate in
@@ -37,7 +37,7 @@ mixture before inoculation, eliminating competing organisms that could
 confound experimental results. The small scale of the 50 millimeter Petri
 plates made it practical to prepare multiple replicate cultures under
 identical conditions, which is essential for the controlled comparison of
-tropic responses across varying environmental parameters.
+tropic responses across varying [[mushroom-cultivation-environmental-parameters]].
 
 ## Mycelial Colonization and Contamination Resistance
 
@@ -67,7 +67,7 @@ respiratory rates and require both water and oxygen.
 
 The pie tins were covered with glass to maintain high humidity around the
 developing cultures. This simple glass cover created a miniaturized
-humidity chamber, preventing excessive water loss through evaporation
+[[aquarium-humidity-chamber-mushroom-fruiting]], preventing excessive water loss through evaporation
 while allowing light penetration for phototropic responses during primordia
 formation.
 
@@ -75,9 +75,9 @@ formation.
 
 The cultures were maintained under cool white fluorescent light at an
 intensity of 2685 lux for 10 days, or until primordia formed. The specific
-choice of cool white fluorescent lighting is notable because it provides a
+choice of cool white [[cervantes-compact-fluorescent-lighting]] is notable because it provides a
 broad spectrum with peaks in both the blue and red regions. Blue light
-sensitivity is well-established for basidiocarp initiation in Psilocybe
+sensitivity is well-established for [[light-basidiocarp-initiation-psilocybe-cubensis-research]] in Psilocybe
 cubensis, as Badham himself had demonstrated in his earlier 1980 study.
 The 10-day primordia formation period under controlled lighting ensured
 that all cultures entered the wind tunnel experiments at a comparable
@@ -88,43 +88,3 @@ developmental stage.
 During the primordia formation phase, cultures were watered with distilled
 water whenever they had lost more than 10 milliliters of water, as
 determined by weight measurement. This quantitative approach to moisture
-management is more precise than visual assessment of substrate moisture
-and ensures consistent hydration across all experimental replicates. The
-use of distilled water prevented the introduction of mineral ions or
-chlorine that might affect mycelial physiology or interact with the
-experimental variables under investigation.
-
-## Experimental Significance of Standardized Primordia
-
-The emphasis Badham placed on standardized culture preparation reflects
-the fundamental requirement in tropism research for biological material at
-a known developmental stage. Tropic responses in mushrooms change
-dramatically between developmental stages: anemotropism dominates during
-early stipe elongation while negative geotropism emerges at spore
-formation. Without standardized primordia size at transfer, observed
-curvatures could reflect developmental stage differences rather than the
-experimental variables under investigation. The brown rice and vermiculite
-method produced approximately 100 basidiocarps of sufficient uniformity
-for meaningful statistical analysis of tropic responses.
-
-## Transition to Wind Tunnel Experiments
-
-When primordia reached 15 to 25 millimeters in height, cultures were
-transferred to the closed-circuit wind tunnel for tropism experiments.
-This size range corresponds to Badham's Stage 1 of basidiocarp
-development, characterized by slight swelling of the pileus. A sterile
-mutant of the same strain was also prepared using identical methods and
-subjected to the same experimental conditions, serving as a critical
-control for investigating the relationship between spore production and
-geotropic sensitivity.
-
-## Related
-
-- [[boil-a-bag-long-needle-inoculation-method-jarrold]]
-- [[pf-tek-brown-rice-vermiculite-method]] Concepts
-
-- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]
-- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]]
-- [[wind-tunnel-methodology-mushroom-tropism-research]]
-- [[evaporative-demand-hypothesis-mushroom-tropism]]
-- [[mushroom-fruiting-chamber-design-parameters]]

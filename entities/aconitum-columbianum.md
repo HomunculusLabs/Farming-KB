@@ -11,11 +11,11 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Brink, D.E. (1982). "The taxonomy of Aconitum (Ranunculaceae) in western North America." Ph.D. dissertation, University of Michigan.
+  - Brink, D.E. (1982). "The taxonomy of Aconitum (Ranunculaceae) in western guzman-psilocybin-mushrooms-north-america." Ph.D. dissertation, University of Michigan.
   - Turner, N.J. (1996). "Food Plants of Interior First Peoples." UBC Press.
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists." 2nd ed. Timber Press.
   - USDA NRCS. "Aconitum columbianum Nutt. — Columbian monkshood." PLANTS Database.
-  - Mead, J.W. (1972). "The North American Aconitum." Journal of the Arnold Arboretum, 53(1), 110–126.
+  - Mead, J.W. (1972). "The [[growing-gourmet-north-american-reishi-species]] Aconitum." Journal of the Arnold Arboretum, 53(1), 110–126.
 ---
 
 ## Overview
@@ -30,7 +30,7 @@ The distinctive helmet-shaped blue to purple flowers make it recognizable in mon
 
 **Aconitum columbianum** was described by Thomas Nuttall in 1818.
 
-The species belongs to Ranunculaceae, subfamily Aconitoideae, a group characterized by zygomorphic flowers and toxic alkaloid chemistry.
+The species belongs to Ranunculaceae, subfamily Aconitoideae, a group characterized by zygomorphic flowers and toxic [[ergot-alkaloid-chemistry-history]].
 
 Plants grow 0.5 to 1.5 meters tall from thick tuberous roots.
 
@@ -50,7 +50,7 @@ Fruit consists of 3 to 5 follicles, each 12 to 20 mm long, containing numerous s
 
 ## Distribution and Habitat
 
-**Aconitum columbianum** ranges from southern Alaska through British Columbia and the Pacific Northwest, extending south through the Sierra Nevada and east across the Rocky Mountains to Colorado and New Mexico.
+**Aconitum columbianum** ranges from southern Alaska through British Columbia and the [[psilocybin-north-america-pacific-northwest]], extending south through the Sierra Nevada and east across the Rocky Mountains to Colorado and New Mexico.
 
 Isolated populations occur in the Black Hills of South Dakota and the boreal regions of Canada.
 
@@ -58,7 +58,7 @@ The species occupies moist montane and subalpine habitats between 1,500 and 3,50
 
 It is commonly found along streambanks, in subalpine meadows, moist forest openings, and avalanche chutes.
 
-Soils are typically rich in organic matter with consistent moisture throughout the growing season.
+Soils are typically rich in organic matter with consistent moisture throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Populations are often localized, restricted to microsites with adequate moisture and partial shade.
 
@@ -74,7 +74,7 @@ The lethal dose in humans is estimated at 1 to 5 mg of aconitine for an adult, m
 
 Concentrations of total alkaloids vary geographically, with some Rocky Mountain populations showing elevated levels compared to coastal populations.
 
-Despite the extreme toxicity, Indigenous peoples of western North America developed specialized preparation methods to reduce alkaloid content for medicinal use.
+Despite the extreme toxicity, Indigenous peoples of western North America developed specialized [[amanita-muscaria-preparation-methods]] to reduce alkaloid content for medicinal use.
 
 ## Ethnobotanical Use
 
@@ -87,37 +87,3 @@ The Thompson (Nlaka'pamux) people used the plant as a topical analgesic for rheu
 The root was sometimes steeped in water and the resulting solution applied externally as a wash for sore eyes.
 
 Internal use was extremely rare and generally avoided due to the risk of fatal poisoning.
-
-Some groups placed dried plant material around hunting traps, exploiting the alkaloid toxicity as a vertebrate poison.
-
-The plant held spiritual significance in some traditions and was regarded with both reverence and caution.
-
-## Ecology and Conservation
-
-**Aconitum columbianum** flowers from July through September, providing late-season nectar resources for bumblebees (Bombus spp.), its primary pollinators.
-
-The flowers are specifically adapted to bumblebee pollination, with the galea functioning as a landing platform that forces the bee to brush against reproductive structures.
-
-Bumblebees are among the few insects capable of forcing their way into the hooded flower to access nectar.
-
-Ruby-throated hummingbirds and other long-tongued pollinators occasionally visit the flowers, particularly at higher elevations where bumblebee diversity is lower.
-
-Seed dispersal is primarily by gravity and water movement in riparian habitats.
-
-The species is not currently listed as threatened or endangered, though local populations may be impacted by habitat disturbance, grazing, and collection.
-
-Climate change poses a long-term threat to montane populations by reducing suitable alpine and subalpine habitat.
-
-## See Also
-
-- [[aconitum-carmichaelii]]
-
-- [[aconitum-napellus]]
-- [[pulsatilla-vulgaris]]
-- [[clematis-vitalba]]
-- [[veratrum-viride]]
-- [[datura-stramonium]]
-- [[atropa-belladonna]]
-- [[hyoscyamus-niger]]
-- [[colchicum-autumnale]]
-- [[podophyllum-peltatum]]

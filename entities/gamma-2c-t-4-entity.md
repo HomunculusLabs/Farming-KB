@@ -88,13 +88,3 @@ Well over half of all the psychedelic drugs in PIHKAL are 2,4,5-trisubstituted c
 The concept extends beyond phenethylamines to include the antidepressant [[2c-t-entity]]
 
 [[2c-t-4-entity]]
-
-[[tma-2-entity]]
-
-[[dom]]
-
-[[ariadne-entity]]
-
-## References
-
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #42: gamma-2C-T-4.

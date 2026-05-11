@@ -4,7 +4,8 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/ross-mars-permaculture-garden.md"
 ---
 # Saltmarsh Fungal Ecology
 
@@ -87,63 +88,3 @@ When tested under more realistic static conditions with malt and [[marmite-yeast
 - Type 2 soft rot is very similar to the [[comparison-brown-rot-vs-white-rot-bioremediation]] of basidiomycetes
 
 ## Ascomycete Laccase Genes
-
-### The Laccase Discovery
-
-Ascomycetes were not expected to possess lignin or manganese peroxidases (the enzymes best known for lignolytic capability). The key question was: how do cordgrass ascomycetes carry out lignocellulolysis?
-
-**Laccase** — a copper-containing enzyme capable of oxidizing phenolic molecules — was long known in ascomycetes but was believed insufficient for extensive lignolysis because it could not oxidize non-phenolic lignin portions. This changed with a landmark discovery:
-
-- Eggert et al. (1997) showed that the basidiomycete *Pycnoporus cinnabarinus* could carry out strong lignolysis using laccase as its **sole lignin-oxidizing enzyme**
-- The key: the fungus manufactured its own **redox-mediator molecules** (3-hydroxyanthranilate; HAA) that allow laccase to oxidize non-phenolic lignin
-- Temp & Eggert (1999) further demonstrated that cellobiose dehydrogenase interactions with laccase-mediator molecules can allow cellulose lysis to proceed alongside lignin oxidation
-
-### Laccase Activity in Cordgrass Ascomycetes
-
-All eight strains of the most common cordgrass ascomycetes grown on ground cordgrass agar **immediately presented laccase activity** when flooded with syringaldazine solution (indicating positive laccase response).
-
-### Laccase Gene Diversity
-
-Degenerate PCR primers targeting conserved sequences within copper-binding sites II and III of fungal laccases were designed and applied:
-
-**Positive controls** (*Aspergillus nidulans*, *Cryphonectria parasitica*, *Podospora* sp., *S. cerevisiae*) all produced expected ~900 bp amplification products confirmed as laccase gene portions.
-
-**Cordgrass ascomycete strains** (4–5 strains each of the three predominant species, plus 1–3 strains of six less frequent species):
-- **All species possessed laccase genes** in at least one strain
-- All strains of the two major *Phaeosphaeria* species gave laccase PCR products
-- Between them, they exhibited **five different types** of partial laccase gene (<96% [[cho-fish-amino-acid-preparation]] similarity)
-- As many as **three different types** within a single strain
-- **13 distinct sequence types** obtained across all strains tested
-
-**Direct analysis of decaying blades**:
-- 26 partial laccase genes cloned from early and late stages of standing-decaying blades
-- Only 2 clones were not identifiable with gene sequences from the three major ascomycete community members
-- Confirms that the predominant species identified by microscopy and rRNA gene analysis are the same species producing potentially lignolytic laccase genes within the decaying blades
-
-## Fungal Production and Food Web Role
-
-### Biomass and Productivity
-
-Cordgrass ascomycetes are prolific producers in the marsh ecosystem:
-
-- Estimated fungal production: over **0.5 kg m⁻² yr⁻¹**
-- Conservative estimate of ascospore expulsion: **5.9 billion spores m⁻² yr⁻¹**
-- Fungal mass flows to litter-comminuting invertebrates at the base of the marsh food web (gastropods, arthropods)
-
-This positions cordgrass ascomycetes as a major microbial production engine in coastal wetland ecosystems, comparable in importance to forest-floor fungal decomposers.
-
-## Environmental Gradients and Factors
-
-### Salinity and Tidal Influence
-
-The saltmarsh environment presents unique challenges:
-- Fluctuating salinity levels with tidal cycles
-- Periodic inundation by seawater
-- Desiccation during low-tide exposure
-- Seasonal temperature variations
-
-- fungi-in-the-environment-soil-fungal-community-structure
-## See Also
-- [[fungal-ecology]]
-- [[decomposition]]
-- [[pycnoporus-cinnabarinus]]

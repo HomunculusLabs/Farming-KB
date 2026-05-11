@@ -88,28 +88,3 @@ In situ conservation efforts include the establishment of nature reserves in the
 The Chinese Pharmacopoeia recognizes both *C. deserticola* and *C. tubulosa* as legitimate sources of Herba Cistanchis, creating market incentives for cultivating either species. This dual specification has accelerated cultivation of the faster-growing *C. tubulosa* in southern Xinjiang, while *C. deserticola* cultivation continues to expand in Inner Mongolia. Market analysis indicates that cultivated material now supplies over 70% of domestic demand, reducing but not eliminating pressure on wild populations. The economic value of the industry exceeds 2 billion RMB annually, supporting thousands of farming households in some of China's poorest regions. Government subsidies for *Haloxylon* plantation establishment have helped expand the cultivated area, creating a dual benefit of desertification control and medicinal crop production.
 
 Ginseng-like products have appeared in Western supplement markets claiming to contain *Cistanche* extracts for testosterone support and athletic performance enhancement. Regulatory agencies have cautioned that product quality and purity vary widely in these unstandardized preparations. Genuine *C. deserticola* material can be authenticated using HPLC fingerprinting and DNA barcoding techniques, which are increasingly adopted by quality control laboratories in China and internationally.
-
-## Traditional and Modern Applications
-
-In classical Chinese medicine texts including the *Shennong Bencao Jing* and *Bencao Gangmu*, *C. deserticola* is classified as a yang-tonifying herb with sweet and salty flavors and a warm nature. It is traditionally prescribed in decoctions for chronic kidney yang deficiency manifesting as lower back pain, cold extremities, frequent urination, and infertility. The herb is often combined with other tonics such as prepared rehmannia, morinda root, and deer antler velvet in compound formulations.
-
-A commonly prescribed classical formula containing *C. deserticola* is Cong Rong Wan, which combines the herb with rehmannia root, dogwood fruit, and cinnamon bark for warming the kidneys and strengthening yang. The typical daily dose in decoction is 10–20 grams of dried stem slices. In Mongolian medicine, the species is used for digestive disorders and as a general vitality tonic, reflecting a broader therapeutic tradition across Central Asian medical systems.
-
-The herb is also a key ingredient in several modern proprietary Chinese medicines marketed for male reproductive health and anti-aging purposes. Combination products pairing *Cistanche* with ginseng, cordyceps, or maca root are widely available in Asian supplement markets. Growing consumer interest in traditional Chinese medicine worldwide has increased demand for authenticated, quality-controlled *C. deserticola* raw materials from certified cultivation sources.
-
-Modern clinical applications extend beyond traditional indications. Standardized extracts are investigated for treating Alzheimer's disease, osteoporosis, and [[cannabis-chronic-fatigue-research]] syndrome. The antioxidant polysaccharides have potential as functional food additives and cosmetic ingredients. In Inner Mongolia, dried *Cistanche* slices are sold as a dietary supplement and are incorporated into traditional meat stews and health soups for their reputed restorative properties.
-
-Patent filings for *Cistanche*-based pharmaceutical preparations have increased substantially over the past decade, with major applications in anti-aging formulations and cognitive health supplements. The species has also attracted interest from the cosmetics industry for skin-protective formulations targeting UV damage and wrinkle reduction. International trade in *Cistanche* products is growing, with exports from China reaching Southeast Asia, Japan, and increasingly Western markets where adaptogenic herbs are gaining popularity. South Korea has emerged as a major import market, where *Cistanche* extracts are incorporated into functional foods and traditional medicine preparations. The species is also gaining recognition in the global ethnobotanical community as a fascinating example of a parasitic plant with significant cultural and economic importance.
-
-## See Also
-
-- [[cistanche-tubulosa]]
-- [[cynomorium-songaricum]]
-- [[salvia-miltiorrhiza]]
-- [[panax-ginseng]]
-- [[astragalus-membranaceus]]
-- [[glycyrrhiza-uralensis]]
-- [[angelica-sinensis]]
-- [[ephedra-sinica]]
-- [[rehmannia-glutinosa]]
-- [[schisandra-chinensis]]

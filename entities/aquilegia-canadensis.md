@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Munz, P.A. (1946). "A revision of the genus Aquilegia." Madroño, 8(6), 177–203.
-  - Taylor, R.J. (1984). "The biosystematics of Aquilegia in the eastern United States." Ph.D. dissertation, University of Michigan.
+  - Taylor, R.J. (1984). "The biosystematics of Aquilegia in the eastern [[dmt-containing-plants-united-states-halpern]]." Ph.D. dissertation, University of Michigan.
   - Ernst, W.H.O. (1992). "Ecophysiology of plants in the subalpine and alpine zone." In "Physiological Ecology" (ed. S. Begon), Chapman & Hall.
   - USDA NRCS. "Aquilegia canadensis L. — Canadian columbine." PLANTS Database.
   - Brietung, D. (2007). "Aquilegia: Columbines." Timber Press.
@@ -20,9 +20,9 @@ sources:
 
 ## Overview
 
-**Aquilegia canadensis** (Canadian columbine or eastern red columbine) is a perennial herbaceous plant in the family Ranunculaceae, native to eastern and central North America.
+**Aquilegia canadensis** (Canadian columbine or eastern red columbine) is a perennial herbaceous plant in the family Ranunculaceae, native to eastern and central [[guzman-psilocybin-mushrooms-north-america]].
 
-It is one of the most recognizable native wildflowers of eastern North America, noted for its distinctive red and yellow spurred flowers.
+It is one of the most recognizable native wildflowers of [[polypore-fungi-eastern-north-america]], noted for its distinctive red and yellow spurred flowers.
 
 The species is a primary nectar source for ruby-throated hummingbirds during spring migration in eastern deciduous forests.
 
@@ -76,7 +76,7 @@ An infusion of the whole plant was used by some groups as a wash for sore eyes.
 
 The seeds were eaten in small quantities by some tribes, though the plant is generally considered mildly toxic.
 
-European settlers adopted the plant into horticulture by the early 18th century, making it one of the first North American wildflowers cultivated in European gardens.
+European settlers adopted the plant into horticulture by the early 18th century, making it one of the first [[growing-gourmet-north-american-reishi-species]] wildflowers cultivated in European gardens.
 
 The common name "columbine" derives from the Latin *columba* (dove), as the inverted flower resembles a cluster of five doves.
 
@@ -86,37 +86,4 @@ The common name "columbine" derives from the Latin *columba* (dove), as the inve
 
 Seeds require no cold stratification and germinate readily when sown on the soil surface.
 
-Plants prefer partial shade to full shade and well-drained, slightly acidic soils rich in organic matter.
-
-In the garden, they naturalize readily by self-seeding and persist for many years without division.
-
-Individual plants are short-lived perennials, typically lasting 3 to 5 years, but self-seeding ensures colony persistence.
-
-The species is generally pest-free and resistant to deer browsing due to toxic compounds in the foliage.
-
-It hybridizes freely with other Aquilegia species, producing intermediate forms that can complicate identification.
-
-## Ecology and Conservation
-
-**Aquilegia canadensis** serves as a larval host plant for the columbine duskywing skipper (Erynnis lucilius).
-
-Columbine leaf miners (Phytomyza columbinae) create distinctive serpentine mines in the foliage but rarely cause significant damage.
-
-The seeds are consumed by various songbirds and small mammals, contributing to dispersal.
-
-The species is not considered threatened or endangered and is common throughout most of its range.
-
-Local populations may be affected by habitat loss and fragmentation, particularly in agricultural landscapes.
-
-In the garden setting, the species is increasingly used in ecological landscaping, rain gardens, and pollinator-supportive plantings.
-
-## See Also
-
-- [[pulsatilla-vulgaris]]
-- [[clematis-vitalba]]
-- [[clematis-montana]]
-- [[nigella-sativa]]
-- [[podophyllum-peltatum]]
-- [[sanguinaria-canadensis]]
-- [[xanthorhiza-simplicissima]]
-- [[caulophyllum-thalictroides]]
+Plants prefer partial shade to full shade and well-drained, slightly acidic soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].

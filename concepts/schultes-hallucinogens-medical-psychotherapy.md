@@ -1,7 +1,7 @@
 ---
 title: "Hallucinogens in Medical Psychotherapy"
 created: 2026-04-28
-tags: [psychotherapy, lsd, psilocybin, mescaline, psycholysis,
+tags: [psychotherapy, lsd, [[psilocybin]], [[mescaline]], psycholysis,
   psychedelic-therapy, psychiatry, consciousness]
 date: 2026-04-28
 updated: 2026-04-28
@@ -38,9 +38,9 @@ This may be a joyful experience or a demonic one, involving the loss of
 the trusted ego. The new ego feels linked in bliss with outside objects
 in a special way and also with other human beings.
 
-This state of cosmic consciousness is related to the spontaneous
+This state of [[turner-essential-psychedelics-lsd-cosmic-consciousness]] is related to the spontaneous
 religious ecstasy known as the unio mystica or, in Eastern religious
-life, as samadhi or satori — a reality illuminated by transcendental
+life, as samadhi or [[satori]] — a reality illuminated by transcendental
 awareness in which creation and ego, sender and receiver, are One.
 
 ## Hallucinogens Versus Tranquilizers
@@ -88,40 +88,3 @@ group session that follows and are expressed through painting, drawing,
 and other creative means.
 
 ## Psychedelic Therapy: The American Method
-
-The second method, generally preferred in the [[dmt-containing-plants-united-states-halpern]], is called
-**psychedelic therapy**. After intensive psychological preparation
-appropriate to each individual, the patient is given a single very high
-dose of the hallucinogen. This approach is intended to produce a mystic,
-religious state of ecstasy that provides a starting point for
-restructuring the patient's personality.
-
-The term "psychedelic" means "mind manifesting." It was coined by the
-psychiatrist Humphrey Osmond to describe this consciousness-expanding
-therapeutic approach.
-
-## The Hallucinogen as Medicinal Aid
-
-The hallucinogen does not in itself effect a cure but rather plays the
-role of a medicinal aid to be used in the total context of
-psychoanalysis or psychotherapy, making these more effective and
-reducing the period of treatment required. Both methods require very
-careful preparation of the patient before the hallucinogen is given.
-
-## Clinical Training and Self-Experimentation
-
-One of the most important aspects of clinical training for
-psychotherapists working with hallucinogens is self-experimentation with
-these substances. Through these experiences, therapists can gain direct
-knowledge of the worlds that their patients enter and thereby have much
-greater understanding of the dynamics of the unconscious.
-
-## Controversy and Risk Assessment
-
-[[schultes-ololiuqui-vines-serpent]] — source of [[ergot-and-lysergic-acid-history]]
-  amide, chemical cousin of LSD
-- [[schultes-psilocybe-little-flowers-gods]] — [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-
-## See Also
-
-- [[metzner-hallucinogens-psychotherapy-and-shamanism]]

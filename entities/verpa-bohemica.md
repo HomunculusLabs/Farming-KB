@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Kuo, M. (2023). Verpa bohemica. MushroomExpert.com. https://www.mushroomexpert.com/verpa_bohemica.html"
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Weber, N.S. & Smith, A.H. (1985). A ghouled-field-guide-historical-context to Southern Mushrooms. University of Michigan Press."
+  - "Weber, N.S. & Smith, A.H. (1985). A [[ghouled-field-guide-historical-context]] to Southern Mushrooms. University of Michigan Press."
   - "Abell-Davis, S.E. & Largent, D.L. (2008). \"A preliminary study of Verpa bohemica in the Klamath Mountains.\" McIlvainea, 18(1), 25–33."
   - "Moser, M. (1983). Keys to Agarics and Boleti. Royal Botanic Gardens, Kew."
 ---
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-Verpa bohemica is a species of ascomycete fungus in the family Discinaceae, widely distributed across temperate regions of the Northern Hemisphere.
+Verpa bohemica is a species of ascomycete fungus in the family Discinaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 It is one of the earliest spring-fruiting [[palmer-edible-mushrooms-north-america]], often appearing 2–4 weeks before true morels (*Morchella* spp.), leading to frequent misidentification by foragers.
 
@@ -34,7 +34,7 @@ V. bohemica is generally considered edible when thoroughly cooked, though some i
 ## Taxonomy
 
 - **Kingdom:** Fungi
-- **Division:** Ascomycota
+- **Division:** [[ascomycota]]
 - **Subdivision:** Pezizomycotina
 - **Class:** Pezizomycetes
 - **Order:** Pezizales
@@ -82,16 +82,8 @@ Paraphyses are cylindrical, septate, with slightly clavate tips 4–6 µm wide.
 
 ## Distribution and Habitat
 
-**Geographic range:** Widely distributed across Europe,  (particularly the Pacific Northwest, Rocky Mountains, and Great Lakes region), asacramental--legal-battles-united-states Asia.
+**Geographic range:** Widely distributed across Europe,  (particularly the [[psilocybin-north-america-pacific-northwest]], Rocky Mountains, and Great Lakes region), asacramental--legal-battles-united-states Asia.
 
 Less common in the southeastern [[dmt-containing-plants-united-states-halpern]] and at low elevations.
 
-**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*Populus deltoides*), aspen (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher gyromitrin |
-
-The distinction between *V. bohemica* and *V. conica* (smooth thimble-cap) is important: *V. conica* has a smooth or nearly smooth cap surface, while *V. bohemica* is distinctly wrinkled.
-
-Both *Verpa* species differ from true morels (*Morchella*) in having the cap attached only at the apex, not at the base.
-
-## See Also
-- [[verpa-conica]]
-- [[spore]]
+**Habitat:** Primarily found in riparian zones and floodplain forests, often growing in association with cottonwood (*[[populus-deltoides]]*), aspen (*[[gyromitra-esculenta]]* | Brain-like mass | Solid stipe, much higher [[gyromitrin]] |

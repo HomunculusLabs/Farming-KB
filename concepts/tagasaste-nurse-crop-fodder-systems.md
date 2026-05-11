@@ -1,5 +1,5 @@
 ---
-title: "Tagasaste as tagasaste nurse crop fodder systems and Fodder System"
+title: Tagasaste Nurse Crop Fodder Systems
 created: 2026-04-28
 tags: [permaculture-plants, nurse-crops, fodder-trees, nitrogen-fixing]
 date: 2026-04-25
@@ -22,7 +22,7 @@ Crude protein ranges from 17 to 31 percent (compared to 21 percent
 for lucerne), while carbohydrate content is 38 to 58 percent. Crude
 fat is 2 to 6 percent, and crude fibre 14 to 30 percent. Calcium
 content ranges from 0.48 to 1.62 percent, significantly exceeding
-rye grass and wheat grain.
+[[grass-seed-substrate-preparation-rye-grass-mycology]] and wheat grain.
 
 At the Martindale Research Project in Western Australia, on near-
 useless sandy soils capable of yielding only 700 kg of wheat,
@@ -77,7 +77,7 @@ close association with tagasaste (as close as 1 metre) consistently
 outperformed controls without it.
 
 When grown close to timber trees, tagasaste forces the tree upward
-for light, producing straight, long timber. For fruit or nut trees
+for light, producing straight, long timber. For fruit or [[holzer-sweet-chestnut-and-nut-trees]]
 where a spreading habit is desired, tagasaste should be clipped and
 the cut material used as mulch around the nursed tree or fed to
 stock.
@@ -88,25 +88,3 @@ Tagasaste is a valuable source of feed for bees, critically
 flowering in winter when little else blooms. Cutting different
 plants at different times significantly extends the flowering
 period of a stand. This winter nectar source supports hive
-populations through the leanest season.
-
-## Additional Uses
-
-The wood makes good firewood and has potential as a hard, light
-wood for tool handles and craft work. Tagasaste hedges serve as
-effective windbreaks. The plant can be cut three to four times per
-summer for mulch production. Its multiple functions as fodder,
-fertiliser, bee forage, windbreak, nurse crop, and mulch source
-make it one of the most versatile plants in the permaculture
-palette. Its adaptability to poor soils and low rainfall, combined
-with rapid establishment from seed, makes tagasaste an ideal
-pioneer species for restoring degraded land. As a system matures
-and canopy closes, tagasaste can be progressively removed or
-reduced, having fulfilled its role as soil builder, windbreak, and
-nurse to the permanent [[mollison-tree-crop-systems-permaculture]].
-
-## See Also
-
-- [[fungal-endophytes-grass-crop-systems]]
-- mollison-pioneer-crop-systems-and-tropical-land-rehabilitation
-- [[permaculture-tree-crop-systems]]

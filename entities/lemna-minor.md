@@ -12,7 +12,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Landolt, E. (1986). \"The family of Lemnaceae — a monographic study.\" Veröffentlichungen des Geobotanischen Institutes der ETH, Stiftung Rübel, 71."
-  - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for domestic animals and fish.\" Livestock Research for Rural Development, 7(1), 1-9."
+  - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for [[permaculture-domestic-animals]] and fish.\" Livestock Research for Rural Development, 7(1), 1-9."
   - "Ziegler, P. et al. (2015). \"The duckweeds (Lemnaceae): a model system for studying plant development.\" Frontiers in Plant Science, 6, 290."
   - "Appenroth, K.J. et al. (2018). \"Duckweed: we can do more with less.\" In: Functional Plant Biology, CSIRO Publishing."
   - "Søndergaard, M. (2017). \"Duckweed (Lemna minor) as a tool for testing toxicity and ph-and-nutrient-availability-garden-soils.\" Ecotoxicology, 26(4), 536-546."
@@ -46,7 +46,7 @@ The genus name derives from the Greek *lemnē*, referring to a water plant growi
 
 **Flowers:** When present, flowers are minute, consisting of a single pistillate flower and two staminate flowers enclosed within a spathe. Flowering is infrequent and not required for propagation.
 
-**Overwintering:** In temperate regions, L. minor produces specialized starch-dense fronds called turions that sink to the bottom and survive freezing temperatures. Turions resume growth when water temperatures rise above 10°C in spring. The turion production is triggered by decreasing photoperiod and temperature, ensuring population survival through unfavorable conditions.
+**Overwintering:** In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], L. minor produces specialized starch-dense fronds called turions that sink to the bottom and survive freezing temperatures. Turions resume growth when water temperatures rise above 10°C in spring. The turion production is triggered by decreasing photoperiod and temperature, ensuring population survival through unfavorable conditions.
 
 ## Ecology and Distribution
 
@@ -65,9 +65,9 @@ Duckweed mats provide habitat for microinvertebrates, amphibian larvae, and smal
 
 Excessive growth can form dense mats exceeding 5 cm thickness, reducing light penetration and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels below the surface. This eutrophication indicator species paradoxically both reflects and contributes to water quality degradation when overabundant.
 
-Duckweed is an important food source for waterfowl, including mallards, teals, and swans. Herbivorous fish species including grass carp and tilapia readily consume duckweed fronds. The plant also supports diverse epiphytic microbial communities on its lower surfaces, contributing to nutrient mineralization.
+Duckweed is an important food source for waterfowl, including mallards, teals, and swans. Herbivorous fish species including grass carp and tilapia readily consume duckweed fronds. The plant also supports diverse epiphytic [[cannabis-rhizosphere-microbial-communities]] on its lower surfaces, contributing to nutrient mineralization.
 
-In temperate climates, seasonal dieback of duckweed mats releases significant nutrient pulses back into the water column during autumn decomposition. This seasonal nutrient cycling is an important consideration for managed water treatment systems.
+[[query-how-to-grow-and-use-oca-in-temperate-climates]], seasonal dieback of duckweed mats releases significant nutrient pulses back into the water column during autumn decomposition. This seasonal nutrient cycling is an important consideration for managed water treatment systems.
 
 ## Phytochemistry and Nutrition
 
@@ -83,39 +83,8 @@ Duckweed fronds are nutritionally remarkable for their protein content relative 
 
 Protein quality is high, with favorable essential amino acid profiles compared to soybean meal. Lysine and methionine levels are adequate for most non-ruminant species.
 
-**[[antifungal-secondary-metabolites-coprophilous-fungi]]:** L. minor accumulates phenolic compounds including flavonoids (luteolin, apigenin derivatives), phenolic acids (caffeic, chlorogenic, ferulic acid), and tannins at concentrations of 1–5% dry weight. These compounds contribute antioxidant capacity but may limit digestibility at high inclusion rates.
+**[[antifungal-secondary-metabolites-coprophilous-fungi]]:** L. minor accumulates [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including flavonoids (luteolin, apigenin derivatives), phenolic acids (caffeic, chlorogenic, ferulic acid), and tannins at concentrations of 1–5% dry weight. These compounds contribute antioxidant capacity but may limit digestibility at high inclusion rates.
 
-**Heavy metal accumulation:** Duckweed bioaccumulates heavy metals from contaminated water, including lead, cadmium, arsenic, and chromium. This makes it an effective phytoremediation agent but necessitates careful sourcing when used as animal feed. Bioaccumulation factors vary by metal and exposure concentration, with lead showing the highest accumulation potential.
+**[[dighton-fungal-heavy-metal-accumulation-bioremediation]]:** Duckweed bioaccumulates heavy metals from contaminated water, including lead, cadmium, arsenic, and chromium. This makes it an effective phytoremediation agent but necessitates careful sourcing when used as animal feed. Bioaccumulation factors vary by metal and exposure concentration, with lead showing the highest accumulation potential.
 
 Duckweed protein contains all nine essential amino acids, with particularly high levels of leucine, lysine, and valine. The protein digestibility corrected amino acid score (PDCAAS) ranges from 0.70–0.85, comparable to legume proteins and superior to cereal grains.
-
-The starch content of duckweed fronds increases significantly under nitrogen or phosphorus limitation, as the plant shifts from protein synthesis to carbohydrate storage. This response is exploited in biofuel production systems where nutrient deprivation is used to maximize fermentable starch before harvest.
-
-## Permaculture and Applications
-
-**Wastewater treatment:** L. minor is extensively used in [[comparison-constructed-wetlands-vs-bioswales]] and duckweed ponds for municipal and agricultural wastewater treatment. Under optimal conditions, a single hectare of duckweed pond can remove 1,000–2,000 kg of nitrogen and 150–400 kg of phosphorus annually from wastewater.
-
-**Animal feed production:** Harvested duckweed can substitute 20–40% of conventional protein in poultry, swine, and aquaculture rations. Tilapia and carp grow well on duckweed-based diets, achieving feed conversion ratios of 1.5–2.0:1.
-
-**Biofuel potential:** Starch-accumulating duckweed (grown under nutrient deprivation) yields 5,000–8,000 L ethanol per hectare, competitive with corn ethanol while using non-arable land and wastewater nutrients.
-
-**Aquaponics integration:** Duckweed serves as a nutrient scrubber in aquaponic systems, converting fish waste nitrogen into harvestable biomass. The harvested duckweed is then fed back to fish, closing the nutrient loop.
-
-**Limitations and management:** Dense duckweed coverage must be managed at 50–70% surface area to prevent oxygen depletion below the mat. Harvesting frequency of 2–3 times per week maintains optimal growth rates and nutrient removal efficiency.
-
-**Ethnobotanical notes:** L. minor has a long history of use in traditional Asian medicine, particularly in Chinese and Ayurvedic systems where it has been applied topically for skin conditions and taken internally as a diuretic. In Southeast Asia, duckweed is consumed as a vegetable, typically stir-fried or added to soups.
-
-Genomic studies have revealed that L. minor possesses one of the smallest known angiosperm genomes at approximately 460 Mb, distributed across 21 chromosomes. Its simplified anatomy, rapid cloning, and small genome make it an increasingly important model system for plant developmental genetics and CRISPR gene editing research.
-
-## See Also
-
-- [[lemna-gibba]]
-
-- [[fontinalis-antipyretica]]
-- [[scirpus-tabernaemontani]]
-
-- [[nasturtium-officinale]] — Watercress, edible aquatic plant
-- [[portulaca-oleracea]] — Purslane, another fast-growing nutritional plant
-- [[glycine-max]] — Soybean, protein crop for comparison
-- [[aloe-vera]] — Aloe vera, another medicinal plant with topical applications
-- [[lotus-corniculatus]] — Birdsfoot trefoil, leguminous forage alternative

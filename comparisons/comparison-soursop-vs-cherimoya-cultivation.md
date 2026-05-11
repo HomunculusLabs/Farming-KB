@@ -77,3 +77,5 @@ Both species are susceptible to:
 - **Root rot** (*Phytophthora*, *Pythium* spp.): Major cause of tree death, especially in poorly drained soils
 - **Anthracnose** (*[[comparison-grafting-vs-budding-fruit-trees]]
 - [[permaculture-plants-fruit-trees-subtropical]]
+
+> Both options offer unique advantages depending on climate, available materials, and intended use.

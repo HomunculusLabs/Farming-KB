@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-Cathinone (β-keto-amphetamine) is a naturally occurring monoamine alkaloid found in the leaves of *Catha edulis* (khat), a plant cultivated for centuries in East Africa and the Arabian Peninsula.
+Cathinone (β-keto-amphetamine) is a naturally occurring monoamine alkaloid found in the leaves of *[[catha-edulis]]* (khat), a plant cultivated for centuries in East Africa and the Arabian Peninsula.
 
-It is structurally classified as a β-ketone substituted amphetamine, making it the parent compound of the synthetic cathinone class — a large family of novel psychoactive substances that includes mephedrone, methylone, and α-PVP.
+It is structurally classified as a β-ketone substituted amphetamine, making it the parent compound of the synthetic cathinone class — a large family of novel [[cultural-evolution-and-psychoactive-substances]] that includes mephedrone, methylone, and α-PVP.
 
 Cathinone acts primarily as a releasing agent and reuptake inhibitor of dopamine, norepinephrine, and serotonin, producing stimulant and empathogenic effects similar to amphetamine.
 
@@ -68,7 +68,7 @@ Onset occurs within 15–30 minutes when consumed orally (chewed khat leaves). I
 
 **[[blesching-cannabis-safety-adverse-effects-evidence]]** include tachycardia, hypertension, insomnia, anxiety, anorexia, hyperthermia, and in severe cases, paranoid psychosis with prolonged heavy use.
 
-Chronic khat use is associated with periodontal disease, gastrointestinal disorders, cardiovascular complications, and psychiatric disturbances including depression upon cessation.
+Chronic khat use is associated with periodontal disease, [[blesching-cannabis-gastrointestinal-disorders]], cardiovascular complications, and psychiatric disturbances including depression upon cessation.
 
 ## Natural Source and History
 
@@ -86,26 +86,4 @@ Cathinone is listed in Schedule I of the United Nations Convention on Psychotrop
 
 In the [[dmt-containing-plants-united-states-halpern]], cathinone is a Schedule I controlled substance. The Federal Analogue Act also covers many synthetic cathinone derivatives.
 
-Legal status of khat itself varies by country: it is legal in the UK (reclassified as Class C in 2014, previously uncontrolled), illegal in the US, Canada, and most EU member states, but remains legal and culturally accepted in Yemen, Ethiopia, Kenya, and Djibouti.
-
-## Pharmacokinetics
-
-Oral bioavailability of cathinone from fresh khat leaves is moderate (approximately 30–50%), limited by first-pass metabolism and the variable freshness of plant material.
-
-Peak plasma concentrations are reached within 1–2 hours of chewing. The compound is metabolized primarily in the liver via reduction to cathine (norpseudoephedrine) and norephedrine, followed by conjugation and renal excretion.
-
-The elimination half-life is approximately 1.5–3 hours, significantly shorter than amphetamine (10–12 hours). This rapid clearance contributes to the practice of prolonged khat chewing sessions lasting several hours to maintain effects.
-
-Detection windows in urine are 24–48 hours for cathinone itself and up to 5–7 days for its cathine metabolite, which is used as the primary urinary biomarker in forensic [[psychedelic-drug-testing-and-adulterant-screening]].
-
-## Related Compounds
-
-Cathinone is the structural parent of a large family of synthetic analogues and derivatives with varying pharmacological profiles.
-
-- **[[butylone]]** — β-keto-MBDB, milder empathogen
-- **[[ephedra-sinica]]** — source of ephedrine, structurally related precursor
-- **[[mescaline]]
-- [[2c-b]]
-- [[mda]]
-- [[ethylone]]
-- [[ephedra-sinica]]
+[[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] khat itself varies by country: it is legal in the UK (reclassified as Class C in 2014, previously uncontrolled), illegal in the US, Canada, and most EU member states, but remains legal and culturally accepted in Yemen, Ethiopia, Kenya, and Djibouti.

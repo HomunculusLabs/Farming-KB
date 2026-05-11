@@ -29,7 +29,7 @@ principal psychoactive compound in tobacco and is responsible for the
 dependence liability of tobacco products.
 
 Beyond its well-known association with tobacco, nicotine has a complex
-pharmacological profile with potential therapeutic applications in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and .
+pharmacological profile with potential [[psilocybin-therapeutic-applications]] in cblesching-cannabis-neurodegenerative-diseasesntion deficit disorders, and .
 It also has a documented history of traditional use as an insecticide
 and entheogen among Indigenous peoples of the Americas.
 
@@ -41,7 +41,7 @@ and entheogen among Indigenous peoples of the Americas.
 - **CAS number:** 54-11-5
 - **Structure:** Bicyclic alkaloid composed of a pyridine ring linked to a
   pyrrolidine ring
-- **State:** Colorless to ingoldian hyphomycetes  in waterlow, oily liquid at room temperature
+- **State:** Colorless to [[ingoldian-hyphomycetes-spore-dispersal-in-water]]  in waterlow, oily liquid at room temperature
   **Solubility:** Freely soluble in water, alcohol, ether, and chloroform
   **Boiling point:** 247 °C at 760 mmHg
   **pKa:** 8.02 (pyrrolidinium nitrogen), 3.12 (pyridine nitrogen)
@@ -88,18 +88,3 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[vipera-berus]]
-
-- [[dendroaspis-polylepis]]
-
-- [[crotalus-atrox]]
-
-- [[bothrops-jararaca]]
-
-- [[mckenna-opium-tobacco-paradoxical-attitudes]]
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]

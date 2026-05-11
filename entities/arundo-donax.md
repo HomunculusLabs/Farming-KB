@@ -8,8 +8,8 @@ tags:
   - perennial
   - invasive
   - bioenergy
-  - phytoremediation
-  - permaculture
+  - [[phytoremediation]]
+  - [[permaculture]]
   - erosion-control
   - biomass
   - construction
@@ -48,7 +48,7 @@ particularly in the Americas, Australia, and South Africa.
 - Genetic evidence suggests the cultivated form is a sterile polyploid clone
   (2n = 110–112), reproducing almost exclusively vegetatively through rhizome
   fragmentation and stem cuttings.
-- No viable seed production has been documented in the field, meaning every
+- No viable [[cannabis-controlled-pollination-seed-production]] has been documented in the field, meaning every
   wild population is a clone derived from human introduction.
 
 ## Morphology
@@ -74,8 +74,8 @@ particularly in the Americas, Australia, and South Africa.
 
 - **Native range:** Eastern Mediterranean, Middle East, and South Asia.
 - **Introduced/invasive:** Widely naturalized in [[psilocybin-north-america-pacific-northwest]] (California,
-  Texas, southeastern US), Central and South America, Australia, South Africa,
-  and Pacific Islands.
+  Texas, southeastern US), Central and [[guzman-psilocybin-mushrooms-south-america]], Australia, South Africa,
+  and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 - Grows in riparian zones, floodplains, wetlands, and disturbed areas;
   tolerates saline (up to 20 dS/m), alkaline, and waterlogged soils.
 - Hardy to USDA zones 7–10; tolerates light frost but dies back in severe
@@ -88,46 +88,3 @@ particularly in the Americas, Australia, and South Africa.
 - **Bioenergy:** High biomass productivity (20–40 tonnes dry matter/ha/year)
   makes it a leading candidate for cellulosic ethanol, biogas, and pellet
   production; requires low nitrogen input (30–60 kg N/ha).
-- **Phytoremediation:** Used for [[mollison-designers-wastewater-treatment-wetlands]], heavy metal uptake
-  (cadmium, lead, chromium), and [[comparison-constructed-wetland-vs-backyard-pond]] systems.
-- **Musical instruments:** Traditional source of reeds for oboes, bassoons,
-  English horns, and clarinets — the word "reed" in woodwinds derives from
-  this use; *A. donax* reeds remain the gold standard for professionals.
-- **Construction and craft:** Used for thatching, fencing, walking sticks,
-  fishing rods, and basketry; historically used for paper pulp.
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Effective at stabilizing stream banks and slopes due to
-  deep, binding root system, though invasive risk limits use outside its
-  native range.
-
-## Invasive Impact
-
-- Listed as a noxious weed in California, Texas, Hawaii, and several other
-  US states; classified among the top 100 worst invasive species globally.
-- Displaces native riparian vegetation, reducing biodiversity and altering
-  food webs; native willow and cottonwood communities are particularly
-  affected.
-- Consumes significantly more water than native vegetation (2,000–4,000
-  L/day per mature stand), reducing stream flows and groundwater.
-- Creates dense stands that increase wildfire intensity; post-fire regrowth
-  is even more vigorous due to nutrient release.
-- Rhizome fragments easily transported by floodwater, enabling rapid
-  downstream colonization.
-
-## Cultivation and Control
-
-- **Propagation:** Division of rhizomes or stem cuttings placed horizontally
-  in moist soil; full stand density achievable within 2–3 growing seasons.
-- **Growth rate:** Can grow 5–10 cm per day during peak growing season
-  (May–September).
-- **Control:** Mechanical cutting must be repeated 3–5 times per growing
-  season combined with herbicide (glyphosate or imazapyr); cutting alone
-  stimulates rhizome sprouting.
-- [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] (*Tetramesa romana* gall wasp) has been released in
-  Texas and California with moderate success.
-
-## See Also
-
-- [[moringa-oleifera]]
-- [[glycine-max]]
-- Tagasaste
-- [[phytoremediation]]

@@ -23,7 +23,7 @@ sources:
 
 The species is characterized by its small, narrowly campanulate flowers with distinctive clawed (narrowed at the base) corolla lobes. This unusual corolla morphology distinguishes it from most other Greek *Campanula* species.
 
-It grows in limestone crevices and scree slopes at subalpine to alpine elevations. The species is of conservation interest due to its narrow endemic distribution and the potential impacts of climate change on its mountain habitats.
+It grows in limestone crevices and scree slopes at subalpine to alpine elevations. The species is of conservation interest due to its narrow endemic distribution and the potential impacts of [[dighton-fungal-responses-climate-change]] on its mountain habitats.
 
 ## Taxonomy and Morphology
 
@@ -73,49 +73,18 @@ Campanula unguicularis is rarely cultivated outside specialist alpine collection
 - **Hardiness:** Estimated USDA zones 5–7; requires excellent winter drainage
 - **Propagation:** Seed, ideally wild-collected; slow from division
 
-The species requires careful attention to drainage and is susceptible to winter rot in wet conditions. A deep vertical crevice in a tufa or limestone trough provides the best cultivation environment.
+The species requires careful attention to drainage and is susceptible to winter rot in wet conditions. A deep vertical crevice in a tufa or limestone trough provides the best [[pf-tek-fruiting-chamber-and-cultivation-environment]].
 
 It has been grown successfully in the rock gardens of several European botanic gardens, including the Royal Botanic Garden Edinburgh and the Munich Botanical Garden.
 
 Plants are slow-growing and may take several years to reach flowering size from seed. Once established in a suitable crevice, they can persist for many years.
 
-The species benefits from occasional light feeding with a low-nitrogen fertilizer during the growing season. Excessive nitrogen promotes soft growth that is prone to fungal disease and winter damage.
+The species benefits from occasional light feeding with a low-nitrogen fertilizer during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Excessive nitrogen promotes soft growth that is prone to [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] and winter damage.
 
 ## Ecological Role and Conservation
 
-Campanula unguicularis is a component of Greek alpine limestone-crevice communities. Its flowers are pollinated by small solitary bees and flies that navigate the narrow corolla tubes.
+Campanula unguicularis is a component of Greek alpine limestone-crevice communities. Its flowers are pollinated by small [[comparison-honey-bees-vs-native-solitary-bees]] and flies that navigate the narrow corolla tubes.
 
 The species is considered **Near Threatened** or **Vulnerable** by Greek conservation authorities due to its narrow endemic distribution and the small size of most populations.
 
 Primary threats include climate warming, which may reduce the extent of suitable alpine habitat, and overgrazing by livestock in mountain pastures. Trampling by hikers on popular mountain routes is an additional localized threat.
-
-Recent climate envelope modeling suggests that suitable habitat for *C. unguicularis* may contract by 30–50% by 2070 under moderate emissions scenarios, making active monitoring and potential ex-situ conservation increasingly important.
-
-The species is included in the Greek Red Data Book and benefits from habitat protection within several Greek national parks, including the Pindus National Park (Valia Kalda).
-
-Seed banking of *C. unguicularis* has been initiated by the National and Kapodistrian University of Athens as part of a broader Greek endemic plant conservation program.
-
-Monitoring programs track population trends at key sites, though comprehensive surveys are needed to clarify the full extent of the species' distribution in the southern Pindus range.
-
-## Related Species
-
-Campanula unguicularis is allied to other Greek endemic *Campanula* species that occupy similar limestone crevice habitats. It may be most closely related to *Campanula saxatilis* of Crete, which shares a similar compact cushion habit.
-
-The clawed corolla lobes are unique among Greek campanulas and serve as the primary identification character. In the field, the species can be confused with compact forms of *Campanula rotundifolia*, but the clawed lobes and greyish foliage distinguish it.
-
-Within the broader European *Campanula* flora, the species contributes to the remarkable diversity of Balkan and Greek endemics in this genus, which reflects the complex geological and climatic history of the eastern Mediterranean region.
-
-The genus *Campanula* in Greece includes over 80 species, with approximately 30% being Greek endemics. *C. unguicularis* represents one of the more range-restricted members of this endemic flora.
-
-## See Also
-
-- [[campanula-saxatilis]]
-- [[campanula-rotundifolia]]
-- [[campanula-cenisia]]
-- [[campanula-pulla]]
-- [[campanula-ochroleuca]]
-- [[campanula-cochlearifolia]]
-- [[campanula-zoysii]]
-- [[campanula-raineri]]
-- [[campanula-fragilis]]
-- [[campanula-barbata]]

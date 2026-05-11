@@ -4,7 +4,8 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
-  - "Cervantes - Marijuana Horticulture"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
 type: concept
 tags: [cannabis]
 ---
@@ -15,7 +16,7 @@ Topping is a fundamental [[comparison-lollipopping-vs-cannabis-pruning-and-defol
 
 ## Core Concept
 
-Cannabis plants naturally exhibit apical dominance, meaning the main central stem grows taller and faster than side branches. The apical meristem at the very top produces auxin hormones that suppress lateral branching below it. When this dominant tip is removed, auxin production at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
+Cannabis plants naturally exhibit apical dominance, meaning the main central stem grows taller and faster than side branches. The apical meristem at the very top produces auxin hormones that suppress lateral branching below it. When this dominant tip is removed, [[auxin-production-by-symbiotic-fungi]] at the cut site stops, and the two highest branch tips below the cut begin to grow vigorously as they compete to become the new dominant tips. The result is two main colas of similar size instead of one.
 
 Cervantes explains the hormonal mechanism: "Cutting the meristem (top growth tip) of a cannabis plant will diffuse auxins and cause greater concentrations in lower branch tips." This hormonal shift is what drives the plant to redirect energy from vertical growth into lateral branching.
 
@@ -71,7 +72,7 @@ However, Cervantes cautions that "pruning too much over time may alter hormonal 
 
 ### Even Canopy
 
-Topping is used to prevent one plant from dominating the canopy height. In a mixed garden, taller plants can be topped to match shorter ones, ensuring even light distribution across all plants.
+Topping is used to prevent one plant from dominating the canopy height. In a mixed garden, taller plants can be topped to match shorter ones, ensuring even [[cervantes-reflective-hoods-light-distribution]] across all plants.
 
 ### Four-Branch Manifold
 
@@ -86,41 +87,3 @@ Cervantes describes a specific topping approach: "Remove all but the four main b
 Cervantes provides a counterpoint: "Most successful growers do not prune at all, especially if growing a short clone crop that is only two to three feet (61-91 cm) tall. Short clone crops require no pruning to increase light to bottom leaves or to alter their profile." He notes that "not pruning has several advantages" because "floral hormones are allowed to concentrate in tips of branches causing buds to grow stronger and denser."
 
 ## Topping and the 20 Percent Rule
-
-Cervantes' broader pruning guidance applies to topping as well: "Pruning all the branches or removing more than 20 percent of the foliage in a short time frame stresses plants too much and diminishes harvest." While topping typically removes only a small portion of the plant, combining topping with other pruning on the same day can exceed this threshold. Space out training activities to keep total stress manageable.
-
-## Topping in Different Growing Styles
-
-### SOG Topping
-
-In  setups, topping is commonly used to create more branch points that can be trained through the screen. A single top at the right time provides 2-4 branches per plant instead of 1, filling the screen more quickly.
-
-### Bush Training
-
-Cervantes describes a bush training method where plants are progressively pruned to create wide, bushy specimens. Combined with topping, this approach maximizes lateral branching while controlling height. The method involves pruning half the branches during week 3 of [[cannabis-vegetative-growth-stage]], then pruning the remaining half during weeks 4-5.
-
-## Topping Tools
-
-Cervantes recommends several tools for topping:
-
-- Fingertips (pinching): best for soft new growth, seals the wound naturally
-- Straight razor or single-edge razor blade: very clean cut, disposable
-- Sharp pruners: fast and efficient for multiple plants
-- Scissors: adequate for small seedlings
-
-All tools should be sterilized with rubbing alcohol between cuts and between plants. "Use indoor pruners only in the indoor garden. Pruners used outdoors have everything from [[cervantes-spider-mites-identification-control]] to fungus spores on them."
-
-## After Topping Care
-
-- Allow 1-2 weeks for new growth to emerge from the nodes below the cut
-- Maintain adequate nitrogen levels to support new vegetative growth
-- Monitor for signs of infection at the cut site
-- Once new branches are 2-3 inches long, consider LST to position them
-- Do not top the same branch again until new growth is well established (2+ weeks)
-
-## See Also
-
-- [[main-lining]] -- systematic topping and training for symmetrical canopy
-- [[low-stress-training]] -- bending as an alternative to cutting
-- [[cannabis-pruning-and-defoliation-guide]] -- comprehensive pruning reference
-- [[cannabis-clone-rooting-and-transplanting]] -- cloning from topped mother plants

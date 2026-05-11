@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects as psilocybin mushroom galactic symbiote mckenna hypothesis McKenna Hypothesis
+title: Psilocybin Mushroom Galactic Symbiote Mckenna Hypothesis
 source: mckenna_t-tryptamines_consciousness.md
 topic: psychedelics_evolution_cosmology
 related:
@@ -12,13 +12,13 @@ created: 2026-05-09
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna advances the hypothesis
+In his 1983 Esalen lecture, [[terence-mckenna]] advances the hypothesis
 that *[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]* (now *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*) is not a
 naturally evolved terrestrial organism but a galactic symbiote—a
 species that "did not evolve on earth" and that has been deliberately
 dispersed throughout the galaxy via a spore-based radiation strategy.
 This hypothesis, received during a mushroom trance and elaborated in
-*Psilocybin: The Magic Mushroom Grower's Guide*, represents one of
+*Psilocybin: The [[australian-magic-mushroom-common-names]] Grower's Guide*, represents one of
 McKenna's most controversial and philosophically provocative claims,
 blending mycology, information theory, and speculative cosmology.
 
@@ -71,7 +71,7 @@ history." The entity encountered in the mushroom trance possesses
 
 McKenna is careful to note the epistemological problems this raises:
 "How can one independently validate such claims?" His response is
-to question the epistemological assumptions of modern science itself:
+to question the epistemological assumptions [[fukuoka-road-critique-of-modern-science]] itself:
 "the structure of the Western intellectual enterprise is so flimsy
 at the center that apparently no one knows anything with certitude."
 
@@ -84,66 +84,7 @@ being investigated.
 
 ## The Noosphere and the Future of Mind
 
-McKenna connects the mushroom symbiote hypothesis to the noosphere—
+McKenna connects the mushroom [[mckenna-mushroom-extraterrestrial-symbiote-hypothesis]] to the noosphere—
 the domain of mind surrounding the planet. "Whatever language is,
 it is in us monkeys now and moving through us and moving out of our
 hands and into the noosphere." The mushroom serves as catalyst for
-this noospheric dimension. The tryptamine state is "transtemporal;
-an anticipation of the future." Drawing on Plato—"time is the
-moving image of eternity"—McKenna presents [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] as
-"a stepping out of the moving image and into eternity," where "all
-of human history is seen to lead toward this culminating moment."
-
-## Alternative Interpretation: The Alienated Soul
-
-McKenna offers a significant alternative to the extraterrestrial
-hypothesis: "It may instead be what I've recently come to suspect—
-that the human soul is so alienated from us in our present culture
-that we treat it as an extraterrestrial." This reading reframes the
-entire galactic symbiote hypothesis as a metaphor for the alienation
-of modern humans from their own depths.
-
-"To us the most alien thing in the cosmos is the human soul. Aliens
-Hollywood-style could arrive on earth tomorrow and the DMT trance
-would remain more weird and continue to hold more promise for useful
-information for the human future." The hypothesis becomes not a
-literal claim about mushroom biology but a commentary on the degree
-to which modern consciousness has been severed from its own
-transcendent dimensions.
-
-## The Valis Connection: Information as Living Entity
-
-McKenna draws on Philip K. Dick's novel *Valis*, which discusses "the
-long hibernation of the Logos" as "a creature of pure information"
-buried at Nag Hammadi circa 370 AD. "As soon as people had the
-information in their minds, the symbiote came alive, for, like the
-mushroom consciousness, Dick imagined it to be a thing of pure
-information."
-
-The parallel between McKenna's mushroom intelligence and Dick's
-Valis is striking: both are described as informational entities that
-become active when their content is internalized by human minds.
-This converges with McKenna's description of the mushroom
-consciousness as existing "in hyperspace, which means in dream and
-in the psilocybin trance, at the quantum foundation of being, in
-the human future, and after death."
-
-## The Exteriorized Soul
-
-McKenna's ultimate vision involves what he calls the "exteriorization
-of the soul": "My vision of the final human future is an effort to
-exteriorize the soul and internalize the body, so that the exterior
-soul will exist as a superconducting lens of translinguistic matter
-generated out of the body of each of us at a critical juncture at
-our psychedelic Bar Mitzvah."
-
-This eschatological vision—the transformation of the human body into
-a holographic wave transform while consciousness operates freely in
-"the fields of the Lord"—represents the most speculative dimension of
-McKenna's thought. The mushroom, as galactic symbiote, serves as the
-catalyst for this transformation, feeding information to humanity
-"about the larger picture" and accelerating the evolutionary process
-## See Also
-- [[accessible-mushroom-cultivation-for-disabilities]]
-- [[acid-house-rave-culture-and-second-mushroom-boom]]
-- [[mckenna-stropharia-cattle-nomadic-symbiosis-human-gene-carrier]]

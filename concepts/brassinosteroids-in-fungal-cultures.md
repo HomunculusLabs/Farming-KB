@@ -88,32 +88,3 @@ related to veil formation and rupture.
 ## Implications for Cultivation
 
 While the study used *Psilocybe cubensis*, the findings have broader
-implications:
-
-1. **Reduced colonization time**: Faster mycelial growth means shorter
-   incubation periods and faster turnover between crops.
-2. **Higher yields**: 35-50% increase in dry mass per unit substrate
-   significantly improves the economics of cultivation.
-3. **Fewer aborts**: Suppression of incomplete fruit bodies reduces waste
-   and improves harvest quality.
-4. **Cross-kingdom activity**: The fact that a plant hormone affects fungal
-   growth suggests shared or analogous signaling pathways between plants and
-   fungi.
-
-## Dose and Application Considerations
-
-The study used only a single concentration (10⁻² ppm). The optimal dose for
-different species, substrates, and cultivation conditions remains unknown.
-Given the potent activity at extremely low concentrations, it is possible
-that higher doses could produce diminishing returns or even inhibitory
-effects — a phenomenon known from plant brassinosteroid research where
-dose-response curves are often biphasic.
-
-The cost and availability of synthetic brassinosteroids may also be a
-practical limitation for cultivators, though commercially available
-brassinosteroid formulations (such as epibrassinolide and 24-epibrassinolide)
-used in agriculture could potentially be substituted.
-
-## See Also
-- [[psilocybe-cubensis]]
-- [[epibrassinolide]]

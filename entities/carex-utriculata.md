@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora of North America 23: 254–572.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
   - USDA NRCS (2024). "PLANTS Profile — Carex utriculata."
   - Mackay, J. (2003). "Carex utriculata: A misunderstood sedge." Rhodora 105(922): 145–154.
-  - Wheeler, G.A. & Guiles, S.L. (1982). "Carex utriculata and Carex rostrata in North America." Systematic Botany 7(3): 279–291.
+  - Wheeler, G.A. & Guiles, S.L. (1982). "Carex utriculata and [[carex-rostrata]] in [[guzman-psilocybin-mushrooms-north-america]]." Systematic Botany 7(3): 279–291.
 ---
 
 # Carex utriculata
@@ -26,7 +26,7 @@ It produces conspicuously inflated perigynia that resemble small bladders, givin
 
 The species is widespread across northern and montane North America, where it forms dense stands along streambanks, lake margins, and in marshes.
 
-It was long confused with the Eurasian Carex rostrata but was recognized as a distinct North American species in the 1980s.
+It was long confused with the Eurasian Carex rostrata but was recognized as a distinct [[growing-gourmet-north-american-reishi-species]] species in the 1980s.
 
 ## Taxonomy and Morphology
 
@@ -38,7 +38,7 @@ It was long confused with the Eurasian Carex rostrata but was recognized as a di
 
 The species was described by William Jackson Hooker as Carex utriculata and later clarified by Francis Boott.
 
-For much of the 20th century, North American plants were treated as Carex rostrata until taxonomic revision separated the two species in 1982.
+For much of the 20th century, [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] plants were treated as Carex rostrata until taxonomic revision separated the two species in 1982.
 
 Stems are stout, sharply triangular, and reach 60–150 cm in height, making it one of the taller North American sedges.
 
@@ -54,7 +54,7 @@ Achenes are approximately 2–2.5 mm, loosely enclosed within the inflated perig
 
 ## Distribution and Habitat
 
-Carex utriculata is native to North America, ranging from Alaska across Canada to the northern and western United States.
+Carex utriculata is native to North America, ranging from Alaska across Canada to the northern and western [[dmt-containing-plants-united-states-halpern]].
 
 Its range extends south through the Rocky Mountains to New Mexico and Arizona, and along the Pacific Coast to northern California.
 
@@ -82,47 +82,8 @@ Muskrats heavily utilize the species, feeding on rhizomes and using stems for lo
 
 Elk and moose browse young shoots in spring, particularly in montane wet meadows.
 
-The inflated perigynia enhance waterborne seed dispersal, allowing colonization of newly formed or disturbed wetland habitats.
+The inflated perigynia enhance waterborne [[clay-pellet-seed-dispersal]], allowing colonization of newly formed or disturbed wetland habitats.
 
 It contributes significantly to aboveground biomass and primary productivity in the wetland systems it dominates.
 
 ## Cultivation and Uses
-
-Carex utriculata is widely used in riparian and wetland restoration projects across western North America.
-
-Its tall stature and dense growth make it effective at stabilizing eroding streambanks and filtering runoff.
-
-Propagation is most successful from rhizome divisions planted directly into saturated substrates.
-
-Seed requires cold stratification of 60–90 days for consistent germination.
-
-The species is well-adapted to seasonally fluctuating water levels typical of riparian zones.
-
-Some Indigenous peoples traditionally used the tough leaves for cordage and basket weaving.
-
-It is available from numerous native plant nurseries, particularly in the western United States and Canada.
-
-## Conservation Status
-
-Carex utriculata is globally secure across its extensive North American range.
-
-No significant range-wide conservation concerns exist for the species.
-
-Local declines have occurred where riparian wetlands have been altered by dams, channelization, or water diversion.
-
-It generally recovers well when natural hydrology is restored in degraded riparian systems.
-
-The species is relatively adaptable to moderate disturbance compared to more specialist wetland sedges.
-
-Climate warming may reduce the extent of suitable montane wetland habitat in the southern portion of its range.
-
-## See Also
-
-- [[carex-rostrata]]
-- [[carex-lasiocarpa]]
-- [[carex-aquatilis]]
-- [[typha-latifolia]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[sparganium-americanum]]
-- [[salix-nigra]]

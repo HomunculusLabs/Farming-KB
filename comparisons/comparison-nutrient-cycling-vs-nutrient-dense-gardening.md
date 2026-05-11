@@ -61,7 +61,7 @@ govern [[ph-and-nutrient-availability-garden-soils]] to plants.
 Maintaining healthy nutrient cycling means supporting the [[compost-building-guide]] for practical methods and [[phytoremediation-mechanisms]] beyond food
 production. Nutrient-dense gardening targets the 13 [[teaming-with-nutrients-essential-plant-nutrients]] for
 human nutrition. Cycling management emphasizes *process support* (maintain the
-[[soil-food-web]] through cover cropping, and verify with Brix testing.
+[[soil-foodweb]] through cover cropping, and verify with Brix testing.
 
 ## When to Prioritize Each
 

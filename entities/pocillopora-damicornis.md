@@ -50,7 +50,7 @@ are short, thick, and irregularly fused, creating a dense, compact
 structure with a knobby surface texture.
 
 Corallites are immersed or slightly protruding, arranged in a verrucae-like
-pattern across the colony surface. The verrucae (small wart-like protuberances)
+[[psilocin-accumulation-pattern-across-flushes]] the colony surface. The verrucae (small wart-like protuberances)
 are a distinctive feature of the genus, giving colonies their rough, textured
 appearance. Polyp tentacles are typically extended only at night.
 
@@ -62,9 +62,9 @@ flow, light, and depth.
 
 ## Distribution and Habitat
 
-*Pocillopora damicornis* has the broadest geographic distribution of any
+*Pocillopora damicornis* has the broadest [[geographic-distribution-of-psilocybe-species]] any
 Pocilloporidae species, spanning the Indo-Pacific from East Africa and the
-Red Sea through Southeast Asia, Japan, and Australia to the eastern Pacific
+Red Sea through [[psilocybe-southeast-asia-pacific]], Japan, and Australia to the eastern Pacific
 including the Galápagos Islands. It occurs from the intertidal zone to
 approximately 30 meters depth.
 
@@ -88,34 +88,3 @@ environments. This symbiont shuffling capacity contributes to its broader
 thermal tolerance compared to more specialist corals.
 
 ### Reproductive Strategy
-
-*Pocillopora damicornis* is unusual among scleractinians for its mixed
-reproductive mode. It is one of the few corals capable of both broadcast
-spawning and internal brooding of planula larvae. Brooded larvae are
-released monthly in many populations, providing continuous recruitment
-potential. Brooded larvae are genetically identical to the parent colony
-(parthenogenetic), while spawned larvae result from sexual recombination.
-
-## Environmental Tolerance and Threats
-
-The species demonstrates relatively high resilience to thermal stress and
-bleaching compared to many Indo-Pacific corals. It survives in temperature
-extremes of 18–32°C and tolerates brief exposure during low tides.
-However, prolonged warming events exceeding 3–4 weeks above local bleaching
-thresholds cause significant mortality.
-
-Threats include ocean acidification reducing skeletal density, coastal
-development increasing sedimentation, destructive fishing practices, and
-outbreaks of the coral-eating crown-of-thorns seastar (*Acanthaster planci*).
-Despite its resilience, the species has experienced regional declines of
-30–50% in severely degraded reef systems.
-
-## See Also
-
-- [[anemone-nemorosa]] — Fellow anthozoan cnidarian with contrasting life history
-- [[corallina-officinalis]] — Calcareous marine alga sharing reef substrate
-- [[chlorella-vulgaris]] — Photosynthetic alga illustrating endosymbiosis parallels
-- [[nostoc-commune]] — Cyanobacterium relevant to reef nitrogen cycling
-- [[polypodium-vulgare]] — Contrasts terrestrial and marine colonial organisms
-- [[polyporus-umbellatus]] — Fungal organism with alternative substrate colonization
-- [[echinacea-purpurea]] — Terrestrial species for comparative conservation biology

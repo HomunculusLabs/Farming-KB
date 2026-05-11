@@ -7,6 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Jock Horror
@@ -86,40 +87,3 @@ The strain's name — "Jock Horror" — is a play on words combining "Jock" (a r
 Nirvana Seeds developed Jock Horror through a multi-generation selective breeding program beginning in the late 1990s. The original NL#5 × Haze cross was already well-established in the Dutch cannabis scene, but it suffered from several practical limitations: excessive flowering time (often 12+ weeks), extreme height that made indoor cultivation challenging, and variable potency due to genetic instability. The breeding program aimed to address each of these issues while preserving the strain's celebrated sativa effects.
 
 The selection process involved growing large populations from the original cross and identifying individual plants that exhibited desirable traits: shorter flowering time (targeting 8–10 weeks), more manageable height, heavier resin production, and consistent potency. These selected individuals were interbred over multiple generations, with continued selection at each stage, to stabilize the desired characteristics. The resulting Jock Horror line represents a relatively stable polyhybrid, though some phenotypic variation remains in multi-seed grows.
-
-The strain is available in both regular and feminized seed forms. Feminized seeds are produced through a silver thiosulfate (STS) or colloidal silver-induced rodelization process that forces the production of female pollen, enabling the creation of seeds that are virtually guaranteed to produce female (bud-producing) plants. This technology has been particularly important for home cultivators working with small numbers of plants, where identifying and removing male plants from a limited population represents a significant loss of growing space and time.
-
-## Comparison with Related Strains
-
-Jock Horror occupies a distinct niche in the Haze-dominant hybrid category. Comparing it with related strains helps clarify its position:
-
-- **vs. original NL#5 × Haze:** Jock Horror offers a more practical flowering time (8–10 weeks vs. 12+), more uniform growth, and comparable potency. The original cross is sometimes preferred by connoisseurs seeking maximum sativa effect intensity, but it is considerably more demanding to cultivate.
-- **vs. Jack Herer:** Another Haze-dominant hybrid (NL#5 × Haze × Skunk), Jack Herer shares much of Jock Horror's genetic background. Jack Herer tends to have a slightly sweeter, more complex aroma and more indica-influenced growth characteristics due to the Skunk #1 contribution. Jock Horror is generally considered more purely sativa in its effects.
-- **vs. Amnesia Haze:** A popular Haze-dominant strain with Southeast Asian and Jamaican influences, Amnesia Haze typically produces more citrus-forward terpenes and a more physically relaxing body component than Jock Horror.
-- **vs. Super Silver Haze:** A multiple Cannabis Cup winner, Super Silver Haze is another NL#5 × Haze descendant with Skunk and Northern Lights contributions. It is generally considered more potent and complex but requires more cultivation experience.
-
-## Terpene Chemistry in Detail
-
-The terpene profile of Jock Horror reflects its hybrid heritage, with contributions from both the indica (Northern Lights) and sativa (Haze) sides of its lineage:
-
-- **α-Pinene:** The dominant terpene, contributing the characteristic pine aroma. α-Pinene has been studied for its anti-inflammatory, bronchodilatory, and memory-enhancing properties. It may counteract some of the short-term memory impairment associated with THC by inhibiting acetylcholinesterase.
-- **β-Pinene:** Present in smaller quantities, adding additional pine and woody notes. β-Pinene shares many pharmacological properties with α-pinene but has a slightly different aroma profile.
-- **Limonene:** The second most abundant terpene, responsible for the citrus notes. Limonene has demonstrated anxiolytic, antidepressant, and anti-inflammatory effects in preclinical studies, and it may enhance the absorption of other terpenes and cannabinoids through the skin and mucous membranes.
-- **β-Caryophyllene:** A sesquiterpene that contributes spicy, peppery notes and is unique among common cannabis terpenes for its ability to directly activate the CB2 [[cannabis-cannabinoid-receptor-pharmacology]], producing anti-inflammatory effects without psychoactivity.
-- **Myrcene:** Present in moderate amounts, myrcene contributes earthy, herbal notes and may enhance the sedative effects of THC. It is also found in mangoes, hops, and lemongrass.
-- **Humulene:** A sesquiterpene also found in hops that adds woody, earthy notes and has demonstrated anti-inflammatory and appetite-suppressant properties.
-
-The entourage effect — the synergistic interaction between cannabinoids and terpenes — is increasingly recognized as important to the overall therapeutic and psychoactive experience. Jock Horror's balanced terpene profile contributes to a well-rounded experience that is more nuanced than would be predicted from THC content alone.
-
-## Cultural Significance and Availability
-
-Jock Horror is listed among the notable strains in Jorge Cervantes' *Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible*, the most widely read cannabis cultivation reference book in the world. Its inclusion in this authoritative text reflects the strain's established reputation within the cannabis growing community.
-
-The strain remains widely available through Nirvana Seeds and their distribution network. Feminized seeds are available in most jurisdictions where cannabis seed sales are legal, including the Netherlands, Spain, Canada, and many US states with legal cannabis markets. The strain's popularity has been sustained by its combination of potent effects, distinctive aroma, and relative ease of cultivation compared to other Haze-dominant varieties.
-
-## See Also
-
-- [[cannabis-strain-guide-reference]]
-- [[jack-herer]] — another famous Haze-dominant hybrid with related genetics
-- [[northern-lights]] — the foundational indica parent in Jock Horror's lineage
-- [[limonene]] — secondary terpene contributing citrus notes

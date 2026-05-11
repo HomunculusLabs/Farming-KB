@@ -6,11 +6,12 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Green Manure Crop Compendium
 
-A reference list of [[sepp-holzer-entity]], drawn from his practices at the Krameterhof and in his advisory work. This compendium complements [[holzer-vegetable-garden-polycultures]], [[sepp-holzer-terrace-systems-and-raised-beds]].
+A reference list of [[sepp-holzer]], drawn from his practices at the Krameterhof and in his advisory work. This compendium complements [[holzer-vegetable-garden-polycultures]], [[sepp-holzer-terrace-systems-and-raised-beds]].
 
 ## Legumes (Nitrogen Fixers)
 
@@ -87,63 +88,3 @@ A reference list of [[sepp-holzer-entity]], drawn from his practices at the Kram
 ### Phacelia (Phacelia tanacetifolia)
 - Fast-growing annual
 - Excellent bee forage (one of the best honey plants)
-- Dense foliage suppresses weeds
-- Tolerates a wide range of soils
-- Use: bee pasture, quick cover crop, companion in vegetable gardens
-
-### Mustard (Sinapis alba)
-- Fast-growing annual
-- Biofumigation: releases glucosinolates that suppress soil-borne pathogens and nematodes
-- Good at scavenging residual nitrogen
-- Use: biofumigation before planting sensitive crops, nitrogen catch crop
-
-### Oilseed Radish / Forage Radish (Raphanus sativus var. oleiferus)
-- Fast-growing annual
-- Large taproot breaks compacted soil layers
-- Biofumigation properties similar to mustard
-- Scavenges nutrients from deep soil layers
-- Use: subsoil loosening, biofumigation, nutrient recycling
-
-### Sunflower (Helianthus annuus)
-- Tall annual, high biomass producer
-- Deep taproot brings up minerals
-- Attractive to birds and pollinators
-- Stalks provide winter mulch when left standing
-- Use: windbreak, [[dighton-fungal-biomass-production-aquatic-ecosystems]], wildlife habitat
-
-### Maize (Zea mays)
-- Tall annual cereal
-- High biomass production (stalks and leaves)
-- Stalks left standing provide winter structure and mulch
-- Can be intercropped with climbing beans
-- Use: winter mulch production, structural support in polycultures
-
-### Winter Rye (Secale cereale)
-- Winter-hardy cereal
-- Grows slowly through winter, rapid growth in spring
-- Extensive root system prevents erosion
-- Can be sown late in autumn
-- Use: winter cover crop, [[permplant-willows-salix-erosion-control-fodder]], early spring biomass
-
-### Jerusalem Artichoke (Helianthus tuberosus)
-- Perennial, very vigorous
-- Massive above-ground and below-ground biomass
-- Tubers serve as vole decoy plants
-- Edible tubers for human and animal food
-- Use: perennial biomass production, vole deterrence, windbreak
-
-## Usage Guidelines
-
-### Timing
-- Quick covers (buckwheat, phacelia, mustard): 4-8 weeks between main crops
-- Winter covers (winter rye, clover, vetch): sow in late summer/autumn
-- Permanent covers (white clover, bird's-foot trefoil): establish once, maintain indefinitely
-
-### Cutting and Incorporation
-- Cut green manures before they set seed (unless self-seeding is desired)
-- Leave cut material on soil surface as mulch -- do not bury deeply
-- Allow decomposition in place; earthworms will incorporate organic matter
-- For biofumigation, chop mustard or radish finely and work lightly into top few centimetres
-
-### Combination Planting
-- Mix legumes with non-legumes for balanced biomass and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]

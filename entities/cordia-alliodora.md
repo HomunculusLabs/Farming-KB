@@ -9,7 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Guariguata, M.R. & Kattan, G.H. (2002). "Ecology and Management of Tropical Forests." Yale University Press.
+  - Guariguata, M.R. & Kattan, G.H. (2002). "soil-nematodes-ecology-and-management of fungal-biodiversity-tropical-forests." Yale University Press.
   - Beer, J. et al. (1990). "Cordia alliodora: A Review of Management and Silviculture." Agroforestry Systems 10(3): 227-246.
   - Francis, J.K. (2000). "Cordia alliodora (Ruiz & Pav.) Oken." USDA Forest Service, IITF.
   - Pennington, T.D. (2004). "Bignoniaceae Part II." Flora Neotropica Monograph 98.
@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Cordia alliodora** (Ruiz & Pav.) Oken, commonly known as Ecuador laurel, Spanish elm, or pau d'arco, is a fast-growing tropical hardwood tree in the family Bignoniaceae. It ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America and the Caribbean.
+**Cordia alliodora** (Ruiz & Pav.) Oken, commonly known as Ecuador laurel, Spanish elm, or pau d'arco, is a fast-growing tropical hardwood tree in the family Bignoniaceae. It ranges from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]] and the Caribbean.
 
 The species is one of the most commercially important timber trees in its native range, valued for its moderately durable, straight-grained wood. Ecuador laurel is also widely planted in agroforestry systems, particularly in [[mollison-designers-shade-grown-coffee-and-cacao-systems]] plantations where it provides shade.
 
@@ -41,7 +41,7 @@ The bark is grayish-brown, rough, and fissured with age, often developing distin
 
 ## Distribution and Habitat
 
-Cordia alliodora is native to the neotropics, occurring from southern Mexico (Veracruz, Oaxaca, Chiapas) through Central America (Guatemala, Honduras, Nicaragua, Costa Rica, Panama) into northern South America (Colombia, Venezuela, Ecuador, Peru, Bolivia).
+Cordia alliodora is native to the neotropics, occurring from southern Mexico (Veracruz, Oaxaca, Chiapas) through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] (Guatemala, Honduras, Nicaragua, Costa Rica, Panama) into northern South America (Colombia, Venezuela, Ecuador, Peru, Bolivia).
 
 It is also found throughout the Caribbean, including Cuba, Jamaica, Hispaniola, Puerto Rico, and the Lesser Antilles. The species has been introduced to several tropical regions for plantation forestry.
 
@@ -81,40 +81,10 @@ The hollow branch nodes (domatia) are colonized by ants of the genus **Azteca**,
 
 Fruits are consumed by a variety of birds and mammals, including toucans, parrots, monkeys, and bats, which serve as seed dispersal agents. The tree contributes to forest regeneration through gap-phase dynamics.
 
-As a nitrogen-fixing associate (through endophytic bacteria in roots and leaf litter), Cordia alliodora enriches soil fertility in agroforestry systems. Leaf litter decomposition is relatively rapid, contributing organic matter and nutrients to the soil.
+As a nitrogen-fixing associate (through [[endorhiza-endophytic-bacteria]] in roots and leaf litter), Cordia alliodora enriches soil fertility in agroforestry systems. Leaf litter decomposition is relatively rapid, contributing [[savory-soil-organic-matter-and-decomposition-dynamics]] nutrients to the soil.
 
 The tree provides habitat for epiphytes, bromeliads, and orchids in its crown and branches. It also serves as a perch and nesting site for canopy-dwelling birds.
 
 In pure plantations, Cordia alliodora can become invasive in adjacent disturbed areas, though it is generally considered less aggressive than some other tropical timber species. Naturalized populations occur in parts of Africa and Asia.
 
 The tree's root system is relatively deep and spreading, which helps stabilize soils on slopes and riverbanks. This characteristic makes it useful for riparian restoration and [[permplant-willows-salix-erosion-control-fodder]] projects in tropical watersheds.
-
-## Chemistry and Pharmacology
-
-The bark and leaves of Cordia alliodora contain a range of [[antifungal-secondary-metabolites-coprophilous-fungi]], including flavonoids, phenolic compounds, tannins, and triterpenoids. These compounds contribute to the species' traditional medicinal uses.
-
-Extracts have demonstrated anti-inflammatory activity in animal models, supporting the traditional use of bark decoctions for treating rheumatism and joint pain. The activity is attributed primarily to flavonoid glycosides.
-
-Antimicrobial activity has been documented for leaf and bark extracts against Gram-positive bacteria and certain fungal pathogens. Moderate activity against *Staphylococcus aureus* and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* has been reported.
-
-The wood contains allantoin and several lignan derivatives, which may contribute to its natural decay resistance. Heartwood extracts show moderate antitermitic activity.
-
-Phytochemical analysis has identified the presence of rutin, quercetin, and kaempferol derivatives in leaf tissues. These flavonoids are consistent with antioxidant and anti-inflammatory pharmacological profiles.
-
-Research into the pharmacological potential of Cordia alliodora remains limited, with most studies conducted on crude extracts rather than isolated compounds. Further investigation is needed to characterize specific bioactive constituents.
-
-Preliminary studies on heartwood extracts have also shown moderate antioxidant capacity in DPPH radical scavenging assays. The total phenolic content of bark extracts ranges from 45–78 mg GAE/g dry weight.
-
-## See Also
-
-- [[swietenia-macrophylla]]
-- [[cedrela-odorata]]
-- [[tabebuia-impetiginosa]]
-- [[handroanthus-impetiginosa]]
-- [[jacaranda-mimosifolia]]
-- [[coffea-arabica]]
-- [[theobroma-cacao]]
-- gliricidia-sepium
-- [[erythrina-fusca]]
-- [[toona-sinensis]]
-- [[ailanthus-altissima]]

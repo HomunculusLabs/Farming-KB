@@ -1,5 +1,5 @@
 ---
-title: "hemenway native versus exotic plants debate Exotic Plants Debate in [[ecological-gardening-principles]]"
+title: Hemenway Native Versus Exotic Plants Debate
 created: 2026-04-28
 tags: [permaculture, native-plants, invasive-species, ecological-design, biodiversity]
 date: 2026-04-25

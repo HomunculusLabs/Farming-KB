@@ -77,3 +77,13 @@ foundation for developing deep expertise and contributing to the field.
 - [[holzer-green-manure-and-soil-building-plants]]
 
 For further reading, see [[holzer-problem-plant-regulation-with-livestock]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

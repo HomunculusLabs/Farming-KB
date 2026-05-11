@@ -16,9 +16,9 @@ tags:
 ## Overview
 
 The choice of covering material is one of the most consequential decisions in
-a winter harvest system. Unlike heated greenhouses where insulation value is
+a [[cold-house-winter-harvest-system]] system. Unlike heated greenhouses where insulation value is
 paramount, the unheated [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] is fundamentally a "sun-run" system
-— its productivity depends on maximizing solar energy gain during the day
+— its productivity depends on maximizing [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] gain during the day
 rather than on retaining heat at night. This distinction profoundly shapes
 the evaluation of every covering material. Coleman's decades of systematic
 trialing have produced clear, sometimes surprising conclusions about which
@@ -53,7 +53,7 @@ over the crops — form the critical inner layer of protection in Coleman's
 system. They come in a range of weights:
 
 - **Lightweight row covers** (approximately 0.5 oz/sq yd) transmit 85-90%
-  of available light while providing meaningful wind protection. This is the
+  of available light while providing meaningful [[cervantes-wind-protection-outdoor-cannabis]]. This is the
   material Coleman recommends for the winter harvest system. It blocks enough
   wind to prevent desiccation without significantly reducing the solar energy
   that drives the daily freeze-thaw cycle.
@@ -85,47 +85,6 @@ as a point of thoroughness but does not recommend them as a standard choice.
 Coleman conducted trials with aluminized cloth — a reflective fabric designed
 to bounce long-wave radiation back toward the crop canopy. These trials showed
 a modest 3°F improvement in nighttime temperatures. However, no corresponding
-improvement in crop quality or growth rate was observed. The material also
+improvement in [[microbial-terroir-endophyte-crop-quality-influence]] or [[soil-temperature-plant-growth-rate-doubling-rule]] was observed. The material also
 introduced practical difficulties: it is heavier, harder to manage, and
 expensive. The conclusion was that the small thermal benefit did not translate
-into meaningful horticultural advantage, particularly given the higher cost
-and handling complexity.
-
-## The Central Insight: Daily Solar Rewarming Over Nighttime Insulation
-
-The single most important principle to emerge from Coleman's material trials
-is that daily solar rewarming matters far more than nighttime insulation. The
-entire system works because the soil absorbs solar energy during the day and
-releases it slowly at night. Any material choice that reduces daytime solar
-gain — even in exchange for better nighttime heat retention — undermines the
-fundamental mechanism. This is why lightweight, high-light-transmission
-materials consistently outperform heavier, more insulating ones in the winter
-harvest system.
-
-## Self-Venting Nature of Row Covers
-
-A practical advantage of spun-bonded row covers is their porosity. They allow
-moisture to pass through, preventing the buildup of condensation and humidity
-that can promote [[jadam-pesticide-for-fungal-diseases]]. They also allow excess heat to escape
-naturally on sunny days, reducing the need for active ventilation. This
-passive [[blesching-cannabis-fever-temperature-regulation]] is perfectly suited to the winter harvest
-system, where the goal is to capture solar energy without creating
-excessively warm conditions that would break plant dormancy.
-
-## Condensation as Long-Wave Radiation Reflector
-
-An often-overlooked benefit of the inner layer is the role of condensation.
-When warm, moist air from the soil surface contacts the cold row cover
-material at night, condensation forms on the inner surface. This thin layer
-of water acts as a reflector of long-wave (infrared) radiation emitted by
-the soil, bouncing [[phase-change-materials-thermal-energy-storage]] back toward the ground rather than letting
-it escape to the cold sky above. This passive radiative effect contributes to
-the overall thermal performance of the system without any mechanical input.
-It is a subtle but real benefit that reinforces the value of the inner layer
-as more than just a windbreak.
-
-## See Also
-
-- [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
-- [[coleman-double-cover-air-inflated-trial-temperature-data]]
-- [[coleman-double-cover-inflated-plastic-trial]]

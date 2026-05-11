@@ -88,11 +88,3 @@ Climate change adds another layer of complexity to understanding neurotropic fun
 ## Related Topics
 
 - [[psilocybe-species-diversity-and-biogeographic-origin]]
-- [[distribution-of-neurotropic-fungi]]
-
-## See Also
-
-- [[neurotropic-fungi-distribution]]
-- [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
-
-- [[global-distribution-of-neurotropic-fungi]]

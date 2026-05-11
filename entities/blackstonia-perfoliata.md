@@ -56,7 +56,7 @@ Blackstonia perfoliata is widespread across southern and central Europe, extendi
 
 In North Africa, it occurs in Morocco, Algeria, and Tunisia. It is also found in the eastern Mediterranean including Greece, Cyprus, and the Levant.
 
-The species has been introduced to parts of North America and New Zealand, where it occasionally naturalizes in disturbed limestone areas. However, it is not considered invasive in any region.
+The species has been introduced to parts [[berry-growing]] and New Zealand, where it occasionally naturalizes in disturbed limestone areas. However, it is not considered invasive in any region.
 
 The species favors dry, open, calcareous habitats. Typical sites include chalk and limestone grasslands, quarries, railway embankments, coastal dunes, and scrub edges. It is a strict calcicole, rarely occurring on acidic substrates.
 
@@ -64,11 +64,11 @@ Populations are often ephemeral, appearing in disturbed ground and disappearing 
 
 ## Ecology and Cultivation
 
-Yellow-wort is an annual therophyte that completes its life cycle within a single growing season. Seeds germinate in autumn or early spring, and plants flower in the first summer.
+Yellow-wort is an annual therophyte that completes its life cycle within a single [[extending-growing-season]]. Seeds germinate in autumn or early spring, and plants flower in the first summer.
 
 The species relies on open, disturbed microsites for establishment. It functions as a pioneer species on bare calcareous substrates, often appearing in the first year after soil disturbance.
 
-The flowers are visited by various solitary bees, hoverflies, and beetles. The bright yellow corollas serve as visual guides for pollinators in open grassland habitats.
+The flowers are visited by various [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and beetles. The bright yellow corollas serve as visual guides for pollinators in open grassland habitats.
 
 Seed dispersal is passive via wind and gravity, with no specialized dispersal mechanism. Each capsule produces 50–100 small seeds that persist in the soil seed bank for up to three years. This persistent seed bank allows populations to reappear after years of absence when favorable conditions return.
 
@@ -76,45 +76,14 @@ In cultivation, B. perfoliata requires well-drained, alkaline soil and full sun.
 
 Sowing fresh seed in autumn on bare calcareous ground yields the best germination rates. No notable pests or diseases are recorded. Plants are intolerant of shade and will not persist in tall grassland without grazing or mowing.
 
-The species shows no significant mycorrhizal associations, which is unusual for Gentianaceae. Most members of the family form arbuscular mycorrhizae, but the annual habit and short root system of *B. perfoliata* may reduce this dependency.
+The species shows no significant [[plants-without-mycorrhizal-associations]], which is unusual for Gentianaceae. Most members of the family form [[glomeromycota-arbuscular-mycorrhizae]], but the annual habit and short root system of *B. perfoliata* may reduce this dependency.
 
 ## Traditional and Modern Uses
 
-Yellow-wort has a limited ethnobotanical record compared to other gentians. In traditional European folk medicine, the flowering herb was occasionally used as a bitter tonic, reflecting the family-wide production of secoiridoid glycosides. The plant's bitter properties are milder than those of *Gentiana lutea*.
+Yellow-wort has a limited ethnobotanical record compared to other gentians. In traditional European folk medicine, the flowering herb was occasionally used as a bitter tonic, reflecting the family-wide production of secoiridoid glycosides. The plant's bitter properties are milder than those of *[[gentiana-lutea]]*.
 
 The yellow flowers were historically used as a source of yellow dye in parts of rural southern Europe. The species is primarily valued today as an ecological indicator.
 
 Botanists use its presence to identify calcareous grassland communities and assess habitat quality. In phytosociological classification, *B. perfoliata* is a characteristic species of the Festuco-Brometalia alliance. Its absence from seemingly suitable sites may indicate recent eutrophication or acidic deposition.
 
 No significant modern pharmacological studies exist for *B. perfoliata*. Phytochemical analyses have confirmed the presence of gentiopicrin and other secoiridoid bitter compounds at low concentrations.
-
-Related species in the Gentianaceae produce a wider array of xanthones and secoiridoids. *B. perfoliata* is notable within its genus for the absence of prominent xanthone pigments that characterize many *Gentiana* species. The relatively simple phytochemistry of *Blackstonia* may reflect its annual life strategy, which invests less in secondary metabolite production than perennial gentians.
-
-## Conservation
-
-Blackstonia perfoliata is classified as Least Concern across most of its European range. The species is widespread and locally common in suitable habitats, particularly in the Mediterranean region and southern England.
-
-In northern parts of its range, populations are more fragmented and depend on traditional grassland management.
-
-Agricultural intensification, habitat fragmentation, and scrub encroachment pose localized threats. The abandonment of low-intensity grazing allows competitive grasses to shade out the open-ground conditions yellow-wort requires.
-
-Urban development on chalk and limestone substrates has eliminated many historically documented sites, particularly around major European cities. Road construction and quarrying, however, can create new temporary habitats.
-
-Conservation efforts focus on maintaining calcareous grassland through grazing and periodic disturbance. The species benefits from scrub clearance and moderate trampling by livestock.
-
-In the Netherlands and Belgium, *B. perfoliata* has declined due to eutrophication and habitat loss from urban expansion. Small remnant populations persist on south-facing chalk slopes and abandoned quarries.
-
-Climate change may shift the species northward, with new populations already observed at higher latitudes in Scandinavia. However, loss of calcareous habitat to agriculture and development continues to outpace range expansion.
-
-## See Also
-
-- [[gentiana-lutea]]
-- [[centaurium-erythraea]]
-- [[gentiana-verna]]
-- [[gentiana-clusii]]
-- [[swertia-chirata]]
-- [[exacum-affine]]
-- [[gentiana-pneumonanthe]]
-- [[gentiana-ciliata]]
-- [[gentiana-triflora]]
-- [[gentiana-sino-ornata]]

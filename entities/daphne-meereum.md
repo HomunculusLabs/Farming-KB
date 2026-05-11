@@ -1,5 +1,5 @@
 ---
-title: "Daphne mezereum"
+title: Daphne Meereum
 type: species
 tags:
   - thymelaeaceae
@@ -13,7 +13,7 @@ sources:
   - Frohne, D. & Pfänder, H.J. (2005). "Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists." 2nd ed., Timber Press.
   - Tomlinson, R.H. & Mabry, T.J. (1970). "Daphnane orthoesters: toxic principles of Daphne species." Tetrahedron Letters, 11(33), 2869–2872.
   - Csurka, Š. et al. (2011). "Daphne mezereum — a review of traditional use, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 137(1), 785–793.
-  - Bean, W.J. (1980). "Trees and Shrubs Hardy in the British Isles." 8th ed., Vol. II, John Murray.
+  - Bean, W.J. (1980). "[[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles." 8th ed., Vol. II, John Murray.
 ---
 
 ## Overview
@@ -87,36 +87,3 @@ The primary toxic principles of *D. mezereum* are daphnane-type diterpene esters
 These compounds are concentrated in the bark, roots, and especially the berries, with toxin levels highest during fruiting.
 
 Ingestion of as few as 5–10 berries can cause severe poisoning in children, while 15–20 berries may be fatal to adults.
-
-Acute poisoning symptoms include burning sensation in the mouth, intense thirst, nausea, vomiting, abdominal pain, and bloody diarrhea.
-
-Severe cases progress to neurological symptoms including dizziness, convulsions, and cardiac arrhythmia, potentially leading to coma and death.
-
-Topical exposure to the sap causes contact dermatitis, erythema, and in some cases, blistering of the skin.
-
-Daphnetoxin acts as a potent protein kinase C activator and demonstrates antileukemic activity in vitro, though therapeutic use is precluded by narrow [[cannabis-therapeutic-index-overview]].
-
-The bark has historically been used in herbal medicine as a vesicant (blistering agent) and topical treatment for rheumatism and neuralgia.
-
-## Cultural Significance
-
-In European folk medicine, preparations from the bark were used externally as counter-irritants for joint pain and skin diseases.
-
-The dried bark, known as "mezereum," was listed in early pharmacopoeias including the London Pharmacopoeia of 1618.
-
-In Scandinavian folk tradition, the plant was associated with protection against evil spirits and was planted near dwellings for its perceived magical properties.
-
-The early flowering of mezereon has made it a symbol of perseverance and the arrival of spring in European literary traditions.
-
-Despite its ornamental value, the plant is increasingly rare in cultivation due to awareness of its toxicity and the availability of safer alternatives.
-
-## See Also
-
-- [[nerium-oleander]]
-- [[convallaria-majalis]]
-- [[digitalis-purpurea]]
-- [[atropa-belladonna]]
-- [[taxus-baccata]]
-- [[colchicum-autumnale]]
-- [[aconitum-napellus]]
-- [[arnica-montana]]

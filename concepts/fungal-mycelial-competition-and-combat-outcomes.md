@@ -2,7 +2,7 @@
 
 ## Overview
 
-Fungal [[mycelial-networks]] ks]] ks]] engage in complex competitive interactions when
+[[fungal-mycelial-networks-nutrient-translocation]] engage in complex competitive interactions when
 colonizing shared substrates, determining territorial control and nutrient
 access. Research by Boddy, Jones, and colleagues (Gadd et al., Chapter 6)
 classified these interactions into distinct outcome categories and explored the
@@ -53,8 +53,8 @@ and is strongly influenced by substrate physical complexity.
 ## Donnelly & Boddy (2001): Stropharia caerulea Interactions
 
 Donnelly and Boddy (2001) examined competitive interactions of *Stropharia
-caerulea*, a cord-forming basidiomycete, against various decomposer fungi on
-soil and wood substrates. *S. caerulea* proved a strong combatant, frequently
+caerulea*, a cord-forming basidiomycete, against various [[decomposer-fungi-succession]] on
+soil and [[fungal-succession-wood-substrates]]. *S. caerulea* proved a strong combatant, frequently
 achieving replacement or partial replacement. Combat outcomes were not fixed but
 depended on opponent identity, available resource base, and colony history. *S.
 caerulea* particularly excelled when pre-colonizing a resource unit before
@@ -67,7 +67,7 @@ zones. These changes are both offensive and defensive:
 
 - **Barrage formation:** Dense, pigmented hyphal barriers are deposited at the
   confrontation line, physically blocking the opponent's advance.
-- **Cord thickening:** Mycelial cords increase in diameter near combat zones,
+- **Cord thickening:** [[dighton-fungal-rhizomorphs-mycelial-cords]] increase in diameter near combat zones,
   reinforcing resource [[the-apoplastic-symplastic-and-transcellular-transport-pathways]] to the interaction front.
 - **Hyphal swelling and lysis:** Hyphae of the losing fungus swell irregularly
   and undergo cytoplasmic lysis, indicating toxic or enzymatic attack.
@@ -88,63 +88,3 @@ quantified using image analysis and box-counting methods, providing a powerful
 tool for assessing combat intensity independent of visual classification.
 Higher fractal dimension at the interaction front correlates with competitive
 advantage and resource preemption.
-
-## Lotka-Volterra Comparison and Gause's Principle
-
-Mycelial competitive dynamics can be compared to classical Lotka-Volterra
-competition models. In these terms, combat outcomes reflect relative carrying
-capacities (K values) and competition coefficients (alpha and beta). Deadlock
-corresponds to stable coexistence where interspecific competition is weaker than
-intraspecific competition. Replacement corresponds to competitive exclusion.
-
-**Gause's competitive exclusion principle** states that two species occupying
-identical niches cannot coexist indefinitely. In natural substrates, niche
-separation driven by spatial heterogeneity and differential resource utilization
-allows coexistence. Wood-decay fungi may specialize on different wood components
-(cellulose vs. lignin) or occupy different substrate depths, reducing direct
-overlap and enabling coexistence despite intense competition.
-
-## 32P Competition Studies and Phosphorus Transport
-
-Radiotracer studies using phosphorus-32 (32P) provide direct evidence of how
-combat alters [[dighton-fungal-nutrient-translocation-element-redistribution]] within mycelial networks. In these
-experiments, 32P is applied to a resource unit colonized by one fungus and its
-movement tracked before and after interaction with a competitor.
-
-Key findings include:
-
-- Phosphorus is transported preferentially along **arterial routes** — the main,
-  thickened mycelial cords serving as primary resource conduits.
-- During combat, phosphorus translocation is redirected toward the interaction
-  front, supplying barrage formation and antagonistic [[fungal-elicitors-enhanced-secondary-metabolite-production]].
-- When a fungus is losing, 32P movement toward the interaction zone slows or
-  ceases, reflecting collapse of resource supply to the retreating front.
-- Winning fungi can intercept phosphorus previously stored in the defeated
-  competitor's territory, a direct nutritional reward for combat success.
-
-These studies demonstrate that fungal combat is a physiological war for
-resource control, with phosphorus transport serving as both indicator and
-determinant of competitive outcome.
-
-## Territory Control and Resource Competition
-
-At its core, mycelial combat is a struggle for territorial control of
-nutrient-rich substrates. The fungus controlling more substrate area gains more
-carbon, nitrogen, phosphorus, and micronutrients, fueling further expansion and
-combat capability — a positive feedback loop where initial advantages in
-resource capture yield greater combat success and more territory.
-
-Territory is defended through physical barriers (barrages), chemical antagonism
-(antibiotics, enzymes, volatiles), and rapid resource depletion (preemptive
-capture). Combat outcomes at interaction zones determine the large-scale spatial
-structure of fungal communities on decaying wood or soil, influencing
-decomposition rates, nutrient cycling, and successor [[biodiversity-fungal-community-assembly]].
-
-## References
-
-- Gadd, G.M., Watkinson, S.C., & Durrant, S. (Eds.). *Fungi in the
-  Environment*. Cambridge University Press. Chapter 6: Boddy, L. & Jones,
-  T.H. — [[gadd-soil-invertebrate-grazing-mycelial-responses]] in interacting [[fungal-mycelial-foraging-heterogeneous-environments]].
-- Donnelly, D.P. & Boddy, L. (2001). Mycelial dynamics during interactions
-  between *Stropharia caerulea* and other cord-forming fungi.
-- Gause, G.F. (1934). *The Struggle for Existence*.

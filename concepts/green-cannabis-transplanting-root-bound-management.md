@@ -88,32 +88,3 @@ hydroponics solution may be the most effective remedy. When in doubt,
 transplanting to a clean environment can reset the growing conditions.
 
 For pots without drainage holes, an emergency transplant involves cutting
-around the soil edge with a knife, carefully extracting the root ball, and
-holding it under running water to flush out contaminants before placing it
-into fresh medium in a properly draining container.
-
-## Relationship to Other Techniques
-
-Transplanting timing interacts with several other grow decisions:
-
-- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
-  method determines the initial container and medium.
-- [[green-cannabis-grow-bible-nutrient-management-ppm]]
-  should be paused or reduced after transplanting to avoid root burn.
-- Container choice affects how often transplanting is needed over the
-  life of the plant.
-
-## Summary
-
-Transplanting is a necessary skill for cannabis cultivators that requires
-careful handling of the root ball, proper timing, and awareness of
-transplant shock. The pot-in-pot method minimizes root disturbance, while
-soil ball extraction offers more control over placement. Root-bound plants
-must be moved to larger containers promptly, and emergency transplants can
-resolve severe [[cannabis-nutrient-lockout-and-ph]] situations. Always handle plants by the
-soil, never by the stem, and allow a recovery period without feeding after
-any transplant operation.
-
-## See Also
-
-- [[cannabis-clone-rooting-and-transplanting]]

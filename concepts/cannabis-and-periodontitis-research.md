@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Periodontitis Research
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
+**Source:** [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -33,7 +33,7 @@ Periodontitis is inflammation of tissues supporting the teeth, caused by oral mi
 | Agent | Study Type | Year, Location, Key Finding | CHI |
 |-------|-----------|---------------------------|-----|
 | CBD | Animal study (rats) | 2009 -- University of Uberaba, Brazil: CBD reduces alveolar bone loss | 2 |
-| | | **Total CHI Value: 2** | |
+| | | **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 2** | |
 
 ## ECS Relevance
 
@@ -57,9 +57,9 @@ The endocannabinoid system plays a significant role in bone metabolism, with bot
 
 - **Osteoblast stimulation:** Some evidence suggests that CB2 receptor activation may also promote osteoblast activity and new bone formation, potentially helping to restore bone that has been lost to periodontal disease.
 
-- **Periodontal ligament effects:** The periodontal ligament contains cannabinoid receptors that may modulate the mechanical and biological properties of the tissue connecting teeth to bone.
+- **Periodontal ligament effects:** The periodontal ligament contains [[cannabinoid-receptors-cb1-and-cb2]] that may modulate the mechanical and biological properties of the tissue connecting teeth to bone.
 
-- **Pain modulation:** Periodontitis causes significant oral pain. CB1 and CB2 receptors in the trigeminal nerve pathways modulate dental pain signaling, providing analgesic benefits beyond the disease-modifying effects.
+- **[[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]:** Periodontitis causes significant oral pain. CB1 and CB2 receptors in the trigeminal nerve pathways modulate dental pain signaling, providing analgesic benefits beyond the disease-modifying effects.
 
 ## Clinical Evidence
 
@@ -67,11 +67,11 @@ The clinical evidence for cannabis in periodontitis is very limited but mechanis
 
 - **Alveolar bone loss reduction (2009, Uberaba, Brazil):** The University of Uberaba study was the first to examine CBD's effects on experimentally induced periodontitis. Rats treated with CBD showed significant reduction in alveolar bone resorption compared to untreated controls, establishing proof-of-concept for cannabinoid-based periodontal therapy.
 
-- **CB2 receptor targeting:** The study's focus on CBD (which preferentially activates CB2 receptors) is significant because CB2 receptors are the primary cannabinoid receptor type involved in bone metabolism. This suggests a targeted mechanism rather than a generalized anti-inflammatory effect.
+- **CB2 [[blesching-cannabis-prostate-cancer-cb1-cb2-receptor-targeting-research]]:** The study's focus on CBD (which preferentially activates CB2 receptors) is significant because CB2 receptors are the primary cannabinoid receptor type involved in bone metabolism. This suggests a targeted mechanism rather than a generalized anti-inflammatory effect.
 
 - **Systemic implications:** Periodontitis is increasingly recognized as a risk factor for cardiovascular disease, with oral bacteria and inflammatory mediators entering the bloodstream and contributing to atherosclerosis. By reducing periodontal inflammation and bone destruction, cannabinoids may have systemic cardiovascular benefits beyond oral health.
 
-- **Stress-bone connection:** The CHI notes that chronic psychological stress (financial difficulties, grief, caregiving) is a significant risk factor for periodontitis. CBD's anxiolytic properties may address this root cause by reducing the stress-induced inflammatory cascade that exacerbates periodontal disease.
+- **Stress-bone connection:** The CHI notes that chronic psychological stress (financial difficulties, grief, caregiving) is a significant risk factor for periodontitis. CBD's anxiolytic properties may address this [[fukuoka-pine-rot-root-cause]] by reducing the stress-induced inflammatory cascade that exacerbates periodontal disease.
 
 - **Limitations:** Only one animal study exists. Human [[mushroom-cancer-clinical-trials-overview]] are needed to confirm efficacy, optimal dosing, and delivery method for periodontal applications.
 
@@ -88,29 +88,3 @@ The clinical evidence for cannabis in periodontitis is very limited but mechanis
 - **THC consideration:** THC may provide additional anti-inflammatory benefits through CB1 receptor activation in periodontal tissues, but the primary evidence supports CBD. A low-THC, high-CBD ratio (1:5 to 1:10) is recommended.
 
 ## Safety and Interactions
-
-- **Smoking and periodontal health:** Smoking any substance is detrimental to periodontal health. Combustion products irritate gingival tissue, reduce salivary flow, and impair immune function in the oral cavity. Patients must use non-smoked routes (oral, sublingual, or topical) for periodontal applications.
-
-- **Dry mouth (xerostomia):** Cannabis can reduce salivary flow, which is problematic because saliva is essential for oral health -- it washes away bacteria, buffers acids, and provides antimicrobial proteins. Patients should maintain excellent hydration and consider saliva substitutes if dry mouth develops.
-
-- **Cannabinoid hyperemesis:** While rare, chronic heavy cannabis use can cause cannabinoid hyperemesis syndrome, which includes episodes of severe nausea and vomiting. The acidic vomit can erode dental enamel and irritate gingival tissue.
-
-- **Blood sugar effects:** Periodontitis and diabetes have a bidirectional relationship -- each worsens the other. Patients with diabetes should monitor blood sugar carefully when initiating cannabinoid therapy.
-
-- **No known interactions with dental medications:** CBD does not have known interactions with commonly used periodontal medications (chlorhexidine, doxycycline, metronidazole). However, patients should inform their dentist about cannabis use.
-
-## Mind-Body Perspective
-
-"Chronic stressors are eroding the substance of once-solid bone tissue." Bones are the physiological foundation. Studies show caregivers of spouses with dementia are more than twice as likely to develop oral bone loss. Aggravating factors: chronic mental/emotional stress, especially to family foundations.
-
-## Practical Notes
-
-Anti-inflammatory tooth powder: equal parts xylitol + sodium bicarbonate, with cinnamon/cardamom/nutmeg/ginger for taste and antibacterial properties.
-
-## Related Pages
-
-- [[cannabis-ocd-research]]
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-anxiety-and-ptsd-treatment]]
-- [[beta-caryophyllene-dietary-cannabinoid]]

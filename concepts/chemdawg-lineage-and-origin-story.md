@@ -1,5 +1,5 @@
 ---
-title: "[[chemdawg-lineage-and-legacy]] and Origin Story"
+title: Chemdawg Lineage And Origin Story
 source: "Cannabis Sativa Volume 3 - S.T. Oner (Green Candy Press, 2014)"
 source_path: "raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md"
 topics: [cannabis, genetics, strain-history, chemdawg, breeding]
@@ -88,61 +88,3 @@ the most sought-after [[cannabis-terpene-profiles]] in modern cannabis breeding.
 ## Impact on Modern Cannabis Genetics
 
 The Chemdawg lineage is arguably one of the most important genetic foundations in
-modern cannabis. Its influence extends through:
-
-- **Sour Diesel** — Born from a Chemdawg offspring known as UnderDawg
-- **OG Kush** — Widely believed to carry Chemdawg genetics
-- **East Coast Sour Diesel** — Comprises genetics from Chemdawg, MassSuperSkunk,
-  Sensi [[northern-lights]], RFK Skunk, Hawaiian Sativa, and Northern Lights
-- **Chemdog × Amnesia** — A modern cross combining Chemdog IX-III with Amnesia
-  genetics, producing plants with THC up to 22%
-
-## Chemdawg Crosses in Cannabis Sativa Volume 3
-
-The book documents several notable Chemdawg crosses, including Chemdawg itself from
-Humboldt Seed Organisation and Chemdog × Amnesia from Ultimate Seeds. The latter
-combines an indica-heavy Chemdog IX-III with an Amnesia plant, creating a strain
-that is "only a little more sativa than indica" with hybrid vigor and a "great high."
-
-## Legacy
-
-The Chemdawg story represents a pivotal moment in cannabis genetics—the accidental
-discovery of extraordinary genetics from a chance purchase at a concert. It
-demonstrates how the underground cannabis breeding community operated for decades,
-with genetics passed hand-to-hand, clone-to-clone, and how a single serendipitous
-event can shape the genetic landscape of an entire plant species for generations to
-come.
-
-## The Diesel Family Connection
-
-The connection between Chemdawg and the Diesel family of strains is one of the most
-significant genetic relationships in cannabis breeding. As documented in the book,
-the East Coast Sour Diesel from Illuminati Seeds by breeder Inkognyto traces its
-lineage directly back to Chemdawg through an intermediate strain called UnderDawg.
-
-The East Coast Sour Diesel is a cross of Original Diesel and the legendary DNL
-(DNL being a Northern Lights cross). Between these two parent strains, the genetics
-include Chemdawg, MassSuperSkunk, Sensi Northern Lights, RFK Skunk, Hawaiian Sativa,
-and another Northern Lights contribution. This complex multi-way pedigree illustrates
-how Chemdawg genetics became woven into the fabric of American cannabis breeding
-through successive crosses and backcrosses.
-
-## The Fuel Terpene Profile
-
-The distinctive "fuel" smell that characterizes Chemdawg and its descendants has
-become one of the most recognizable and sought-after terpene profiles in cannabis.
-This chemical, diesel-like aroma stands in contrast to the fruity, berry, and tropical
-profiles more commonly associated with pure sativa strains. The fuel terpene profile
-has become so desirable that breeders actively select for it in breeding programs,
-and it has spawned an entire category of "Diesel" strains that are prized by both
-recreational and medical users.
-
-The enduring popularity of this terpene profile speaks to how a single chance genetic
-combination—those 13 seeds from a Grateful Dead concert—created an aromatic signature
-that would define a generation of cannabis breeding and consumption preferences.
-
-## See Also
-
-- [[cannabis-chemdawg-origin-story-lineage]]
-- [[oner-diesel-strain-lineage-and-profiles]]
-- [[oner-diesel-strain-lineage]]

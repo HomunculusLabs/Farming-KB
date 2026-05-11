@@ -1,11 +1,12 @@
 ---
-title: savory ranch financial planning Planning in savory-holistic-management-overview
+title: Savory Ranch Financial Planning
 created: 2026-04-26
 aliases: [holistic financial planning, gross margin analysis, wealth generation, ranch economics]
 tags: [financial-planning, ranch-economics, gross-margin, wealth-generation, holistic-management]
-related: [savory-holistic-decision-making, savory-holistic-management-overview, savory-livestock-grazing-planning]
+related: [[savory-holistic-decision-making]], savory-holistic-management-overview, [[savory-livestock-grazing-planning]]
 type: concept
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/savory-holistic-resource-management.md"
 updated: 2026-04-26
 ---
@@ -69,7 +70,7 @@ The financial planning process tests whether the production strategy relies on s
 - Will profit depend on suppressing symptoms rather than addressing causes?
 - Do inputs pass all testing guidelines AND represent the best marginal reaction for reinvesting wealth?
 
-The fundamental principle: [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] converted through green plants is our most fundamental and sustainable basis of wealth. Modern agriculture consumes about 9.8 calories of petrochemical energy to produce one calorie of food energy—a ratio that cannot continue indefinitely.
+The fundamental principle: [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] converted through green plants is our most fundamental and sustainable basis of wealth. [[fukuoka-critique-modern-agriculture]] consumes about 9.8 calories of petrochemical energy to produce one calorie of food energy—a ratio that cannot continue indefinitely.
 
 ## Annual Financial Planning Procedure
 
@@ -86,23 +87,3 @@ The procedure ensures that development is funded from land-based profitability r
 ## Common Financial Mistakes
 
 On ranches, the most common financial errors in HRM implementation include:
-
-1. **Massive unnecessary capital outlays** on fencing and infrastructure before understanding the model. A little patience and understanding could generate the funds for development from the land base itself.
-2. **Failure to share goals** among family and staff, leading to financial losses from people working at cross purposes.
-3. **Monitoring production but not costs**: Rising supplementation costs reflect ecosystem deterioration even as individual animal performance looks good.
-4. **Conflating high production per animal with success**: Yield per acre may be declining while yield per animal (heavily supplemented) rises—masking deterioration.
-
-## Wealth Generation vs. Wealth Consumption
-
-HRM distinguishes between activities that generate lasting wealth (building soil health, improving water cycles, increasing biodiversity) and those that merely consume wealth (chemical inputs that degrade soil structure, machinery that compacts soil). The annual financial plan must show a path toward generating more wealth from the land each year while reducing dependence on external inputs.
-
-## Sources
-
-- Savory, Allan. *Holistic Resource Management*, Chapters 34, 35, 44. Island Press, 1988.
-- Wallace, David. Cambridge University agricultural economics research.
-
-## See Also
-
-- [[permaculture-grazing-and-pasture]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
-- [[livestock-fencing-guide]]

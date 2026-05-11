@@ -3,7 +3,7 @@ title: "arnica montana"
 created: 2026-04-28
 type: species
 tags:
-  - [herbal-medicine]]
+  - [[herbal-medicine]]]
   - medicinal-plant
   - asteraceae
   - anti-inflammatory
@@ -88,10 +88,3 @@ have declined significantly due to agricultural intensification.
 - **Dihydrohelenalin acetate:** Acetylated derivative; contributes to
   anti-edema effects.
 - **Flavonoids:** [[hypericum-perforatum]] — Co-occurring European meadow herb with
-  overlapping anti-inflammatory applications
-
-## See Also
-
-- [[arnica-chamissonis]]
-- [[teaming-with-microbes-soil-food-web-overview]]
-- [[teaming-with-microbes-plant-control]]

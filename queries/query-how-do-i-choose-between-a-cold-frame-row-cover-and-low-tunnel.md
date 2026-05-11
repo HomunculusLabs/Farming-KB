@@ -5,6 +5,7 @@ tags: [cold-frame, row-cover, low-tunnel, season-extension, frost-protection, cl
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - https://extension.umn.edu/yard-and-garden-planning/season-extension-techniques
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/

@@ -87,15 +87,3 @@ NF poultry relies on preventive health through natural means rather than routine
 The combination of soil contact, natural feed, diverse diet, and microbially active housing creates conditions where chickens develop robust immune systems naturally, eliminating the need for pharmaceutical interventions.
 
 ## Integration with Crop Systems
-
-The livestock component is designed to integrate with the crop production system. Chicken manure, already partially decomposed by the microbial floor, provides high-quality fertilizer for crops. Agricultural by-products (crop residues, food scraps) become chicken feed. This closed-loop system reduces waste, lowers costs, and creates interdependence between humans, animals, and crops -- the fundamental ecological relationship that Natural Farming seeks to restore.
-
-## See Also
-
-- [[knf-poultry-feed-preparation]]
-- [[knf-livestock-feeding-natural]]
-- [[knf-brown-rice-vinegar]]
-- [[knf-fermented-mixed-compost]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
-- [[cho-natural-farming-inputs-overview]]
-- [[cho-indigenous-microorganisms-collection-and-cultivation]]

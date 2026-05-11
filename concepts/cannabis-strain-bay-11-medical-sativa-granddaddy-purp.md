@@ -1,5 +1,5 @@
 ---
-title: Bay 11 — Award-Winning Medical Sativa from Granddaddy Purp Genetics
+title: Cannabis Strain Bay 11 Medical Sativa Granddaddy Purp
 source: s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
 source_author: S.T. Oner, The Rev
 type: concept
@@ -21,7 +21,7 @@ Granddaddy Purp Genetics is a relatively small seed company that has built its r
 
 ### California Breeding Context
 
-Bay 11 emerges from California's rich cannabis breeding tradition, where medical necessity has driven innovation for decades. California's medical cannabis program, established through Proposition 215 in 1996, created an environment where breeders could focus on developing strains with specific therapeutic profiles rather than purely recreational effects.
+Bay 11 emerges from California's rich [[cannabis-breeding-basics]] tradition, where medical necessity has driven innovation for decades. California's medical cannabis program, established through Proposition 215 in 1996, created an environment where breeders could focus on developing strains with specific [[cannabis-sativa-vs-indica-therapeutic-profiles]] rather than purely recreational effects.
 
 ## Genetic Lineage
 
@@ -42,14 +42,14 @@ Bay 11 is well-suited to indoor growing with the following characteristics:
 - **Yield** — heavy yields of approximately 1000 grams per square yard of grow space
 - **Flowering time** — 9–10 weeks
 - **Stretch** — exhibits typical sativa stretching if deprived of light; keep lamps close to seedlings but avoid burning
-- **Support needs** — heavy-yielding plants require structural support from the vegetative stage to prevent branches from bending or snapping during flowering
+- **Support needs** — heavy-yielding plants require [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] from the vegetative stage to prevent branches from bending or snapping during flowering
 
 ### Outdoor Cultivation
 
 Outdoors, Bay 11 can grow beyond 10 feet in height if given adequate space. The breeders recommend allowing the plant to "grow as tall and wild as it wishes" for maximum yield potential. Key outdoor parameters:
 - **Yield** — an extraordinary 1500–2500 grams per plant
 - **Harvest window** — end of October (Northern Hemisphere)
-- **Climate** — performs best in Mediterranean and warm temperate climates with a long growing season
+- **Climate** — performs best in Mediterranean and warm [[fukuoka-natural-farming-temperate-climates]] with a long growing season
 - **Support** — essential; the massive yields require robust staking or trellising systems
 
 ### Cultivation Tips
@@ -69,7 +69,7 @@ Bay 11 produces buds described as exploding "in a riot of color," compared to "t
 - **Highlights** — cheeky hints of blue, particularly in cooler growing conditions
 - **Overall impression** — visually striking flowers that make any grow room look vibrant
 
-The colorful expression makes Bay 11 a favorite among growers who value the aesthetic dimension of cannabis cultivation. The purple/blue hues typically intensify with cooler nighttime temperatures during the final weeks of flowering.
+The colorful expression makes Bay 11 a favorite among growers who value the aesthetic dimension of [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. The purple/blue hues typically intensify with cooler nighttime temperatures during the final weeks of flowering.
 
 ## Aroma and Flavor
 
@@ -88,45 +88,3 @@ The aroma is approachable and pleasant, without the harsh or fuel-like notes tha
 - **Type** — functional, clear-headed sativa-dominant high
 - **Focus** — the effects are more about functional relief than recreational intensity
 - **Best use** — daytime smoking
-- **Character** — the strain's effects prioritize therapeutic benefit over recreational potency
-
-### Medical Applications
-
-Bay 11 was specifically developed as a medical strain, and its effects profile reflects this intention:
-
-- **Chronic pain relief** — the primary development goal; effective for persistent pain conditions
-- **Appetite disorders** — stimulates appetite in patients experiencing appetite loss
-- **Sleep disorders** — can help patients with sleep difficulties, likely through pain relief rather than direct sedation
-- **Daytime functionality** — unlike many pain-relief strains that cause sedation, Bay 11 allows patients to remain active and functional during the day
-
-### The Medical-First Philosophy
-
-Oner emphasizes that Bay 11 "isn't really about the taste; it's about the effect." This medical-first approach distinguishes Bay 11 from many contemporary strains that prioritize flavor, aroma, or recreational potency. For patients seeking reliable daytime pain management without impairment, this functional focus is the strain's primary value proposition.
-
-## Strain Specifications
-
-| Attribute | Detail |
-|---|---|
-| **Breeder** | Granddaddy Purp Genetics, USA |
-| **Type** | Sativa-Dominant |
-| **Genetics** | Unknown (proprietary) |
-| **Flowering time** | 9–10 weeks (indoor), end of October (outdoor) |
-| **Indoor yield** | ~1000 g/m² |
-| **Outdoor yield** | 1500–2500 g/plant |
-| **Indoor height** | ~4 feet (trained) |
-| **Outdoor height** | 10+ feet |
-| **Awards** | Multiple cannabis competition awards |
-
-## Significance in California Cannabis
-
-Bay 11 represents an important development in California cannabis breeding: the evolution of a company known for a single iconic strain into a diversified breeding program producing targeted medical cultivars. The strain's award recognition validates that Granddaddy Purp Genetics has the breeding expertise to develop world-class genetics beyond their namesake variety.
-
-The strain also exemplifies the California medical cannabis community's ability to develop strains that serve specific patient needs. Rather than chasing maximum THC or the latest flavor trends, Bay 11 addresses the practical needs of medical patients who require daytime pain relief without functional impairment.
-
-## See Also
-
-- [[cannabis-strain-harlequin]] — High-CBD medical sativa alternative
-- [[oner-sativa-medical-applications]] — Medical uses of sativa strains
-- [[oner-cannabis-phenotypes-genetic-expression]] — Understanding phenotypic variation
-- [[cannabis-strain-goldstar]] — Another award-winning sativa from this era
-- [[golden-goat-sativa-strain-profile]] — Award-winning sativa-dominant medical strain

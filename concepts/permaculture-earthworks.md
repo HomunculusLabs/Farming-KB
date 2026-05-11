@@ -4,12 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, earthworks, water-management, swales, design, ecological-design, erosion, soil-building]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Earthworks
 
-Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In permaculture design, earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
+Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. [[mollison-lawn-reform-and-alternatives-in-permaculture-design]], earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
 
 ## Swales
 
@@ -42,7 +43,7 @@ Swales integrate closely with [[keyline-design]] for whole-property water manage
 
 ## Ponds
 
-Ponds serve as multi-functional water storage: irrigation reservoir, wildlife habitat, fire protection, aquaculture, and aesthetic/psychological value.
+Ponds serve as multi-functional water storage: irrigation reservoir, [[hemenway-backyard-wildlife-habitat]], fire protection, aquaculture, and aesthetic/psychological value.
 
 ### Siting
 
@@ -56,7 +57,7 @@ Ponds serve as multi-functional water storage: irrigation reservoir, wildlife ha
 - Excavated ponds: dug into the ground, lined with clay or geomembrane if needed
 - Embankment ponds: dam across a valley or drainage
 - Duck ponds: shallow edges for waterfowl, integrated with [[duck-keeping]] systems
-- Chinampas-style: interconnected canal and island systems for intensive production
+- Chinampas-style: interconnected canal and island systems for [[mollison-designers-market-garden-intensive-production-design]]
 
 ### Design Features
 
@@ -117,7 +118,7 @@ Terraces convert steep slopes into a series of level steps, making land agricult
 
 - Hillside orchards and vineyards
 - Rice paddy terraces
-- Vegetable production on sloped land
+- [[coleman-french-historical-winter-vegetable-production]] on sloped land
 - Pathways and access roads on steep terrain
 
 ## Chinampas
@@ -135,7 +136,7 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 ### Productivity
 
 - Chinampas were among the most productive agricultural systems ever developed
-- Multiple harvests per year possible in tropical/subtropical climates
+- Multiple harvests per year possible in tropical/[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
 - Canal water provides constant irrigation and thermal moderation
 - Aquatic plants and fish from canals provide additional protein
 - The system is essentially self-fertilizing through sediment cycling
@@ -147,8 +148,3 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 - Aquaponics draws heavily on chinampa concepts of coupling fish and plant production
 
 ## General Principles for All Earthworks
-
-
-
-## See Also
-- [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]

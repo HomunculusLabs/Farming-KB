@@ -88,35 +88,3 @@ Greece reported a total of 37 offences related to hallucinogenic mushrooms in 20
 In the Netherlands, the National Criminal Intelligence Service (CRI) conducted an investigation to assess the frequency of public nuisance related to hallucinogenic mushrooms. The CRI contacted various municipalities but found no evidence of public nuisance as a result of sale or use of these substances. This finding contrasts with the public nuisance sometimes associated with alcohol or other drug use in nightlife settings.
 
 The absence of public nuisance complaints is notable given the scale of the Dutch market, where an estimated 120 to 150 smartshops sold hallucinogenic mushrooms and they constituted approximately 50% of smartshop turnover. This suggests that the mushroom using population did not generate the kinds of visible public order problems that typically trigger enforcement action.
-
-## Smartshop Intelligence
-
-During the 2000 Dutch risk assessment, a number of smartshop owners were thought to have ties with the synthetic drugs market. These owners were not prepared to disclose the names of mushroom suppliers to researchers. This reluctance suggests that the supply chain for hallucinogenic mushrooms, while distinct from synthetic drug markets, may overlap with established drug distribution networks in some cases.
-
-## Limitations of Seizure Data
-
-Several important limitations affect the interpretation of criminological evidence and seizure data for hallucinogenic mushrooms. These constraints must be considered when drawing conclusions about market size, trends, or enforcement effectiveness:
-
-1. **Variable reporting** - Not all EU Member States collect or report seizure data specifically for hallucinogenic mushrooms, as many drug monitoring systems historically grouped them under broader categories like "hallucinogens"
-2. **Legal ambiguity** - In countries where legal status was unclear or recently changed, law enforcement may not have had clear protocols for recording mushroom related offences
-3. **Detection challenges** - Fresh mushrooms have a short shelf life of 7 to 10 days and are difficult to distinguish from non psychoactive species, making detection at borders and in the field challenging
-4. **Low enforcement priority** - Many law enforcement agencies assigned low priority to hallucinogenic mushroom offences relative to drugs associated with greater harm
-5. **Market adaptation** - Following prohibition in several countries, retailers shifted to online sales and legal alternatives, making traditional seizure methods less effective
-
-## Implications for Drug Policy
-
-The seizure and offence data from this period illustrate several important drug policy considerations that remain relevant for understanding the dynamics of controlling naturally occurring psychoactive substances. The European experience with hallucinogenic mushroom enforcement reveals patterns that may apply to other naturally derived psychoactive substances:
-
-- **Criminalisation alone does not eliminate markets** - Legal prohibition shifts but does not eliminate distribution channels, as demonstrated by the persistence of online sales even after retail bans
-- **Online and postal distribution creates enforcement challenges** - International mail shipments are difficult to monitor systematically, particularly from countries with different legal frameworks
-- **Economic incentives sustain supply** - The economic scale of the market, estimated at approximately 1 million British pounds annually in the UK before prohibition, provides incentive for continued supply despite legal risks
-- **Cross border cooperation is essential** - Given the international nature of online mushroom retail, particularly from Netherlands based shops, effective control requires coordinated action across jurisdictions
-- **Prohibition drives [[emcdda-herbal-highs-market-product-substitution-bans]]** - Following legal restrictions, retailers rapidly shifted to marketing alternative products such as [[amanita-muscaria]], which may carry greater health risks than the prohibited substances they replace
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-criminological-evidence]]
-
-- [[hallucinogenic-mushroom-legal-status-europe]]
-- [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
-- [[hallucinogenic-mushroom-legal-loopholes-and-classification-challenges]]

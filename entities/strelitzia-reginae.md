@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Cron, G.V. (2008). "Revision of the Strelitziaceae." Strelitzia, 18. South African National Biodiversity Institute.
+  - Cron, G.V. (2008). "Revision of the Strelitziaceae." Strelitzia, 18. kanna-sceletium-south-african-narcotic National Biodiversity Institute.
   - Kress, W.J. (1990). "The phylogeny and classification of the Zingiberales." Annals of the Missouri Botanical Garden, 77(4), 698-721.
   - Goldblatt, P. (1976). "A revision of Strelitzia." Journal of South African Botany, 42, 1-40.
   - Kew Royal Botanic Gardens. "Strelitzia reginae." Plants of the World Online.
@@ -24,7 +24,7 @@ sources:
 
 The species is renowned for its striking inflorescences that resemble brightly colored birds in flight. The flowers feature brilliant orange sepals and blue petals emerging from a boat-shaped bract, making it one of the most widely recognized tropical ornamentals.
 
-Strelitzia reginae is the official floral emblem of the city of Los Angeles, California, where it has been extensively planted in public landscapes since the early twentieth century. It also appears on the reverse of the South African 50-cent coin.
+Strelitzia reginae is the official floral emblem of the city of Los Angeles, California, where it has been extensively planted in public landscapes since the early [[coleman-louis-savier-twentieth-century-maraicher]]. It also appears on the reverse of the South African 50-cent coin.
 
 The species is commercially important as both a landscape ornamental and a cut flower crop. Cut stems of Strelitzia reginae have exceptional vase life, often lasting two to three weeks in floral arrangements.
 
@@ -41,7 +41,7 @@ International trade in Strelitzia cut flowers is valued at several million dolla
 
 The genus was named by Sir Joseph Banks in honor of Queen Charlotte of Mecklenburg-Strelitz, wife of King George III of England. The specific epithet "reginae" means "of the queen." The species was introduced to the Royal Botanic Gardens at Kew in 1773, where it was first described by the botanist William Aiton.
 
-The family Strelitziaceae contains five species distributed across South Africa, Madagascar, and South America. Strelitzia reginae is the most widely cultivated member of the genus, with other species including Strelitzia nicolai (the white bird of paradise) and Strelitzia juncea (the narrow-leaved bird of paradise).
+The family Strelitziaceae contains five species distributed across South Africa, Madagascar, and [[guzman-psilocybin-mushrooms-south-america]]. Strelitzia reginae is the most widely cultivated member of the genus, with other species including Strelitzia nicolai (the white bird of paradise) and Strelitzia juncea (the narrow-leaved bird of paradise).
 
 ## Morphology
 
@@ -49,7 +49,7 @@ The family Strelitziaceae contains five species distributed across South Africa,
 
 The leaf surfaces are glossy dark green above and paler green below, with prominent longitudinal veins. The petioles are stout and channelled, often reaching 60–100 cm in length before the blade.
 
-The leaf blades are held on stiff petioles that emerge in a fan-like arrangement from a short, thick rhizome. This growth habit gives mature plants an architectural quality valued in landscape design.
+The leaf blades are held on stiff petioles that emerge in a fan-like arrangement from a short, thick rhizome. This growth habit gives mature plants an architectural quality valued in [[holzer-permaculture-landscape-design]].
 
 A single mature clump may produce 20 to 30 leaves at a time, creating a substantial foliage mass. Individual leaves persist for two to three years before senescing and being replaced by new growth from the rhizome apex.
 
@@ -67,7 +67,7 @@ Each inflorescence can produce five to eight flowers over a period of several we
 
 Strelitzia reginae is native to the eastern coastal regions of South Africa, from the Eastern Cape through KwaZulu-Natal into Mpumalanga and Limpopo provinces. It occurs naturally in coastal bush, thicket, and forest margins.
 
-The species grows in well-drained, nutrient-rich soils in areas with warm, subtropical climates. It is found from sea level to approximately 800 meters elevation in areas receiving 600–1200 mm of annual rainfall.
+The species grows in well-drained, nutrient-rich soils in areas with warm, [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. It is found from sea level to approximately 800 meters elevation in areas receiving 600–1200 mm of annual rainfall.
 
 Natural populations occur in full sun to partial shade, often along riverbanks, forest edges, and in disturbed secondary growth. The species is relatively fire-tolerant, resprouting from the rhizome after fire events.
 
@@ -75,9 +75,9 @@ The coastal dune systems where Strelitzia reginae naturally occurs are character
 
 ## Cultivation
 
-Strelitzia reginae prefers full sun to partial shade and well-drained, fertile soils. It is drought-tolerant once established but performs best with regular irrigation during the growing season.
+Strelitzia reginae prefers full sun to partial shade and well-drained, fertile soils. It is drought-tolerant once established but performs best with regular irrigation during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
-Optimal temperature range is 12–25°C, though the plant can tolerate brief frosts to approximately -2°C. Prolonged freezing temperatures cause significant leaf damage and may kill the rhizome.
+Optimal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] is 12–25°C, though the plant can tolerate brief frosts to approximately -2°C. Prolonged freezing temperatures cause significant leaf damage and may kill the rhizome.
 
 In Mediterranean and subtropical climates, Strelitzia reginae is widely used in public parks, street plantings, and residential gardens. The plant's architectural form and bold foliage make it effective as a specimen planting or massed in large groups.
 
@@ -85,33 +85,6 @@ Propagation is most commonly from seed, which requires scarification and soaking
 
 Division of established clumps is a faster method, producing flowering plants within one to two years. The thick rhizome can be cut into sections, each with several growing points. Divisions should be planted immediately and kept moist until established.
 
-Tissue culture methods have been developed for mass propagation of selected cultivars. Micropropagation from meristem tissue produces disease-free plantlets that are genetically identical to the parent stock.
+Tissue [[mushroom-spawn-making-and-pure-culture-methods]] have been developed for mass propagation of selected cultivars. Micropropagation from meristem tissue produces disease-free plantlets that are genetically identical to the parent stock.
 
 As a cut flower, Strelitzia reginae is harvested when the first flower emerges from the bract. Stems are harvested at an angle and immediately placed in water. The flowers continue to open sequentially, providing an extended display period.
-
-South Africa is the leading commercial producer of Strelitzia cut flowers, with extensive plantations in the Eastern Cape and KwaZulu-Natal. The Netherlands and Israel also produce significant quantities under greenhouse conditions.
-
-Pests and diseases are relatively few, though mealybugs, scale insects, and root-knot nematodes can affect cultivated plants. Botrytis rot may develop on flowers and bracts under humid, poorly ventilated conditions.
-
-## Ecological Role
-
-Sunbirds of the genera Cinnyris and Nectarinia are the primary pollinators of Strelitzia reginae in its native range. The flowers produce copious nectar and have evolved a specialized morphology that deposits pollen on the feet of perching birds.
-
-The orange arils surrounding the seeds are attractive to various bird species that assist in seed dispersal. The hard seed coat allows passage through avian digestive tracts without damage, promoting long-distance dispersal.
-
-Germination in the wild is enhanced by fire, which cracks the hard seed coat and clears competing vegetation. Post-fire environments provide the open conditions and nutrient flush that favor seedling establishment.
-
-In cultivated landscapes, the dense clumps of Strelitzia reginae provide shelter for small birds and insects. The large leaves offer shade and the spent bracts collect water that benefits local fauna.
-
-The species has become naturalized in several parts of the world, including coastal California, Portugal, and parts of Australia. In some areas it can spread aggressively in disturbed habitats, though it is not generally considered a serious environmental weed.
-
-## See Also
-
-- [[agave-americana]]
-- [[canna-indica]]
-- [[echinacea-purpurea]]
-- [[psilocybe-heliconia]]
-- [[hibiscus-rosa-sinensis]]
-- [[musa-acuminata]]
-- [[passiflora-edulis]]
-- [[phoenix-dactylifera]]

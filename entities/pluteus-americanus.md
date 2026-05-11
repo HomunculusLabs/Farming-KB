@@ -88,39 +88,3 @@ Potency is generally low to moderate, comparable to *[[gartz-pluteus-salicinus-w
 ## Identification Tips
 
 The combination of a **pink spore print**, **free gills**, and **bluish bruising** is unique among psilocybin-containing mushrooms and helps distinguish *P. americanus* from:
-
-- **Psilocybe species:** Have dark (purplish brown) spore prints and adnate gills
-- **Gymnopilus species:** Have rusty orange spore prints
-- **Inocybe species:** Have brown spore prints and fibrous caps
-- **Conocybe species:** Have rusty brown spore prints and conical caps
-- **Pluteus salicinus:** Very similar; distinguished by spore size, geographic distribution, and DNA analysis
-
-## Safety Notes
-
-1. **Pink-spored mushrooms:** Most pink-spored mushrooms are not psychoactive. Careful identification is essential to avoid confusion with potentially toxic species.
-2. **Entoloma species:** Also have pink spore prints; many are toxic. *Entoloma* species typically have sinuate (notched) gills rather than free gills.
-3. **Variable bluing:** Not all collections of *P. americanus* show blue bruising, so the absence of bluing does not definitively rule out the species.
-4. **Small size:** The small cap size and tendency to grow on hidden wood surfaces mean it is unlikely to be accidentally collected in quantity.
-
-## Ecological Role
-
-*Pluteus americanus* is a primary decomposer of hardwood, contributing to the breakdown of dead wood in forest ecosystems. Its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is similar to other wood-inhabiting agarics, converting complex lignin and cellulose into simpler compounds available to other organisms. The species appears to prefer wood in intermediate stages of decay, after white-rot fungi have begun softening the substrate.
-
-## Similar Species
-
-- **Pluteus salicinus:** European counterpart; very similar morphology; distinguished by slightly larger spores and ITS sequence data
-- **Pluteus cervinus:** Common, non-psychoactive species; larger; does not bruise blue; darker brown cap
-- **Pluteus atromarginatus:** Dark-gilled species; also non-psychoactive
-- **Volvariella species:** Also have free gills and pink spore prints; distinguished by the presence of a volva (cup at the base)
-
-## See Also
-
-- [[pluteus-salvianus]]
-- [[pluteus-umbrosus]]
-
-- [[archaeology-of-psychedelic-mushroom-use]]
-- [[psilocybin]]
-- Pluteaceae
-- [[pluteus-saliginus]]
-- [[pluteus-cervinus]]
-- [[pluteus-salicinus-profile]]

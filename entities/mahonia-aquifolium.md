@@ -7,8 +7,8 @@ tags:
   - berberidaceae
   - mahonia
   - medicinal
-  - berberine
-  - permaculture
+  - [[berberine]]
+  - [[permaculture]]
   - ornamental
   - evergreen
   - edible
@@ -76,7 +76,7 @@ tart and astringent. Ripens mid-summer. Each berry contains 3–5 seeds.
 
 ## Distribution and Habitat
 
-Native to western North America from southeast Alaska to northern California,
+Native to western [[guzman-psilocybin-mushrooms-north-america]] from southeast Alaska to northern California,
 eastward into Idaho, Montana, and British Columbia. Occurs from sea level
 to ~2000 m in coniferous forests, mixed woodlands, chaparral edges, and
 rocky slopes.
@@ -88,51 +88,3 @@ Naturalized in parts of Europe, New Zealand, and Australia.
 ## Bioactive Compounds
 
 Root and root bark contain a rich profile of isoquinoline alkaloids:
-
-- **Berberine** (1.5–4% dry weight) — primary active; antibacterial,
-  antifungal, anti-inflammatory, hepatoprotective, antidiabetic
-- **Berbamine** — immunomodulatory, anti-inflammatory
-- **Oxyacanthine** — antihypertensive, antiarrhythmic
-- **Jatrorrhizine** — antibacterial, antifungal
-- **Magnoflorine** — vasodilatory, antihypertensive
-
-Berries contain anthocyanins (delphinidin and cyanidin glycosides), vitamin C,
-and organic acids but lower alkaloid concentrations than root bark.
-
-## Pharmacology and Medicinal Uses
-
-**Dermatology:** *M. aquifolium* root extract (standardized to 10% berberine)
-is an approved German phytomedicine for topical psoriasis treatment. Clinical
-trials show efficacy comparable to calcipotriol cream. The mechanism involves
-inhibition of keratinocyte proliferation and suppression of TNF-α, IL-6,
-and IL-1β.
-
-**Antimicrobial:** Berberine exhibits broad-spectrum activity against
-gram-positive bacteria (*S. aureus*, *S. pyogenes*), gram-negative bacteria
-(*E. coli*, *K. pneumoniae*), fungi (*C. albicans*), and protozoa (*G.
-lamblia*, *E. histolytica*). It disrupts cell membranes and inhibits
-DNA/RNA synthesis.
-
-**Metabolic effects:** Oral berberine improves insulin sensitivity and lipid
-profiles, reducing fasting blood glucose and LDL cholesterol through AMPK
-activation and LDL receptor upregulation.
-
-## Permaculture and Agroforestry
-
-- **Hedge and barrier:** Dense spiny foliage creates windbreaks and
-  livestock barriers.
-- **Pollinator support:** Early spring flowers provide critical nectar for
-  [[query-how-to-attract-native-bees-and-beneficial-insects]] and syrphid flies.
-- **Food production:** Tart berries processed into preserves and wine.
-  Indigenous peoples used berries and roots for food, medicine, and dye.
-- **[[fukuoka-citrus-orchard-ground-cover-cultivation]]:** Low-growing varieties provide [[permplant-willows-salix-erosion-control-fodder]] in
-  orchard understories.
-- **Tolerance:** Accepts shade, drought, and poor soils — useful for
-  ecological restoration.
-
-## See Also
-
-- [[berberis-vulgaris]]
-- comfrey-permaculture
-- [[food-forest]]
-- [[ilex-aquifolium]]

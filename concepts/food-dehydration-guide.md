@@ -9,7 +9,7 @@ sources: []
 
 # Food Dehydration Guide
 
-Food dehydration [[comparison-root-cellaring-vs-dehydration]] removes moisture from food to levels low enough (typically 10-20% for most foods) to prevent microbial growth and enzymatic degradation. Dehydrated foods are lightweight, shelf-stable, and retain most nutrients, making them ideal for homestead food preservation, trail meals, and long-term storage.
+Food dehydration removes moisture from food to levels low enough (typically 10-20% for most foods) to prevent microbial growth and [[enzymatic-degradation-in-mycoremediation]]. Dehydrated foods are lightweight, shelf-stable, and retain most nutrients, making them ideal for homestead food preservation, trail meals, and long-term storage.
 
 ## Dehydration Methods
 
@@ -17,7 +17,7 @@ Food dehydration [[comparison-root-cellaring-vs-dehydration]] removes moisture f
 
 The most practical option for most homesteaders. Look for:
 - Adjustable thermostat (essential for different food types)
-- Fan for even air circulation
+- Fan for even [[stamets-growing-room-air-circulation-co2-management]]
 - Adequate tray space (5-9 trays for batch processing)
 - 500W+ for efficient drying
 - Expandable design for larger harvests
@@ -26,7 +26,7 @@ Recommended brands: Excalibur (horizontal airflow, best quality), Nesco (vertica
 
 ### Solar Dehydrator
 
-A passive solar dehydrator uses sunlight and natural convection. Build a simple box with a black-painted interior, a transparent cover, and ventilation holes at top and bottom. Solar dehydrators work well in hot, dry climates but are slower and less controllable than electric models.
+[[query-how-to-build-a-passive-solar-greenhouse]] dehydrator uses sunlight and natural convection. Build a simple box with a black-painted interior, a transparent cover, and ventilation holes at top and bottom. Solar dehydrators work well in hot, dry climates but are slower and less controllable than electric models.
 
 ### Oven Drying
 
@@ -42,7 +42,7 @@ Temperature is critical -- too high and food case-hardens (dry exterior, moist i
 - Fruit leather: 135 F
 - Sliced fruits (apples, bananas, peaches): 135-145 F
 - Vegetables (tomatoes, zucchini, peppers): 125-135 F
-- Root vegetables (carrots, beets, potatoes): 125-135 F
+- [[growing-root-vegetables-guide]] (carrots, beets, potatoes): 125-135 F
 - Meat jerky: 160 F (food safety requirement)
 - Nuts and seeds: 110-120 F
 
@@ -125,7 +125,7 @@ Fruit leather (fruit roll-ups) is an excellent use for overripe fruit and homest
 
 1. Wash and remove stems, seeds, and pits
 2. Puree fruit in a blender (add a little water or juice if needed)
-3. Sweeten to taste with honey, maple syrup, or sugar (optional)
+3. Sweeten to taste with honey, [[maple-syrup-production]], or sugar (optional)
 4. Pour 1/8 inch thick onto dehydrator tray lined with parchment paper or a silicone mat
 5. Dry at 135 F for 4-8 hours
 6. Leather is done when it peels away cleanly and is no longer sticky in the center
@@ -141,7 +141,7 @@ Fruit leather (fruit roll-ups) is an excellent use for overripe fruit and homest
 
 ## Related Topics
 
-- [[canning-and-preserving]] for complementary preservation methods
+- [[canning-and-preserving]] for complementary [[egg-preservation-methods]]
 - [[root-cellaring-guide]] for cool storage of dehydrated goods
 - [[food-fermentation-guide]] for another preservation approach
 - [[solar-dehydrator-plans]]

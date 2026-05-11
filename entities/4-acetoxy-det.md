@@ -2,7 +2,7 @@
 title: "4-AcO-DET"
 type: chemical
 tags:
-  - tryptamine
+  - [[tryptamine]]
   - psychedelic
   - research-chemical
   - tiikal
@@ -23,7 +23,7 @@ created: 2026-04-28
 
 It is the 4-acetylated derivative of DET (N,N-diethyltryptamine), functioning as a prodrug to 4-HO-DET.
 
-The compound was first documented by Alexander Shulgin in TIHKAL (1997).
+The compound was first documented by [[alexander-shulgin]] in TIHKAL (1997).
 
 It is primarily encountered as a research chemical with limited history of human use.
 
@@ -69,7 +69,7 @@ The subjective effects of 4-AcO-DET are similar to other 4-substituted tryptamin
 
 Visual effects include color enhancement, pattern recognition, geometric hallucinations, and trails.
 
-Users report mild to moderate introspective and cognitive effects, generally less intense than DMT or psilocybin.
+Users report mild to moderate introspective and cognitive effects, generally less intense than DMT or [[psilocybin]].
 
 The experience is often described as smoother and less anxious than 4-AcO-DMT.
 
@@ -85,40 +85,6 @@ The comedown is generally gradual with minimal residual stimulation or anxiety.
 
 4-AcO-DET is synthesized via acetylation of 4-HO-DET using acetic anhydride.
 
-The starting material, 4-HO-DET, can be prepared from DET through a 4-position hydroxylation.
+The [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]], 4-HO-DET, can be prepared from DET through a 4-position hydroxylation.
 
 DET itself is derived from tryptamine via reductive N-alkylation with diethyl groups.
-
-The synthesis requires standard laboratory equipment and familiarity with [[psilocybin-tryptamine-chemistry-fungi]].
-
-Purification is typically achieved through recrystallization or column chromatography.
-
-## Legal Status
-
-4-AcO-DET is unscheduled in most jurisdictions but may be controlled under analogue acts.
-
-In the [[dmt-containing-plants-united-states-halpern]], it may fall under the Federal Analogue Act as an analogue of a Schedule I substance.
-
-Several European countries have explicitly scheduled 4-substituted tryptamines, including Germany and the UK.
-
-In Japan, it is classified as a designated substance under the Pharmaceutical Affairs Law.
-
-## Related Compounds
-
-4-HO-DET is the primary active metabolite and the deacetylated form.
-
-4-AcO-DMT (psilacetin) is the more widely known dimethyl analogue with greater potency.
-
-DET is the parent compound lacking the 4-hydroxy or 4-acetoxy substitution.
-
-4-HO-DMT (psilocin) is the natural psychedelic found in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]].
-
-4-AcO-MET and 4-AcO-MiPT are other 4-acetoxy tryptamines with differing N-substitutions.
-
-## See Also
-
-- [[4-ho-dipt]]
-- [[psilocin]]
-- [[bufotenin]]
-- [[5-meo-dmt-entity]]
-- [[det]]

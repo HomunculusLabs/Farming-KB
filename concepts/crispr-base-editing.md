@@ -88,14 +88,7 @@ Base editing does not remove those concerns, because precise tools can still be 
 The most prominent application is correction of monogenic disease variants.
 Potential targets include cannabis [[cannabis-and-sickle-cell-disease]], beta-thalassemia, familial hypercholesterolemia, and some forms of blindness.
 Some strategies directly repair a pathogenic base.
-Others disrupt regulatory elements to produce a compensatory effect.
-For example, editing blood stem cells can reactivate fetal hemoglobin pathways.
-In liver disease, lipid nanoparticle delivery is attractive because the liver naturally takes up nanoparticles.
-In eye disease, local delivery can limit systemic exposure.
-In agriculture, base editing can introduce beneficial alleles without foreign DNA integration.
-Plant breeders use it to modify disease resistance, yield traits, oil composition, and symbiotic [[biodiversity-of-fungi-endophytic-fungi]].
-In microbes, base editing supports metabolic engineering.
-It allows libraries of point mutations to be generated without killing cells through excessive DNA breaks.
-In [[holmgren-genetic-engineering-and-evolution]]
-- [[synthetic-data-generation]]
-- [[gene-drives]]
+
+## See Also
+- [[permaculture-mapping-and-base-maps]]
+- [[lemon-cannabis-alchemy-high-volume-extraction-method]]

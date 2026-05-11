@@ -1,5 +1,5 @@
 ---
-title: Magic magic mushroom constituent chemistry Chemistry — Psilocybin, Psilocin, Baeocystin, and Norbaeocystin
+title: Magic Mushroom Constituent Chemistry
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -11,9 +11,9 @@ sources: [raw/papers/concise-large-scale-synthesis-of-psilocin-and-psilocybin-sh
 
 ## Overview
 
-"Magic mushrooms" is the common name for hallucinogenic fungi containing the psychoactive constituents [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]], the principal active compounds in Psilocybe mushrooms.
+"[[1960s-counterculture-and-magic-mushrooms]]" is the common name for hallucinogenic fungi containing the psychoactive constituents [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]], the principal active compounds in [[grass-seed-cultivation-of-psilocybe-mushrooms]].
 
-Baeocystin and norbaeocystin are often present as minor constituents.
+[[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] are often present as minor constituents.
 
 These compounds are closely related to the neurotransmitter serotonin both structurally and pharmacologically, and their hallucinogenic effects are thought to result from interference with normal brain serotonin signaling.
 
@@ -37,7 +37,7 @@ Psilocybin has high polarity, making it difficult to isolate from mushroom mater
 
 Chromatographic methods (TLC, GC, HPLC) are typically employed for identification and quantification, requiring pure analytical standards.
 
-Chemical synthesis is necessary for producing these standards in quantity.
+[[psilocin-chemical-synthesis]] is necessary for producing these standards in quantity.
 
 ### Spectroscopic Properties
 
@@ -64,7 +64,7 @@ Psilocin differs from serotonin (5-hydroxytryptamine) only in the substitution p
 - **Serotonin**: 5-Hydroxy-tryptamine (hydroxyl at position 5, primary amine)
 - **Psilocin**: 4-Hydroxy-N,N-dimethyltryptamine (hydroxyl at position 4, dimethylated amine)
 
-This close structural similarity allows psilocin to bind to serotonin receptors, particularly the 5-HT₂A receptor subtype, which is believed to be the primary mediator of its hallucinogenic effects.
+This close structural similarity allows psilocin to bind to [[psilocybin-pharmacology-and-serotonin-receptors]], particularly the 5-HT₂A receptor subtype, which is believed to be the primary mediator of its hallucinogenic effects.
 
 ### Stability Concerns
 
@@ -87,56 +87,3 @@ Psilocin is significantly less stable than psilocybin:
 Baeocystin is a minor constituent of many Psilocybe species.
 
 It is structurally intermediate between psilocybin and norbaeocystin, bearing a single methyl group on the ethylamine nitrogen rather than the dimethyl substitution of psilocybin.
-
-Its pharmacological activity is less well characterized than that of psilocin and psilocybin, but it is believed to have similar though weaker hallucinogenic properties.
-
-Baeocystin was first isolated from *[[stamets-psi-psilocybe-baeocystis-knobby-tops]]*, the species from which it takes its name.
-
-## Norbaeocystin
-
-**Chemical name**: 4-Phosphoryloxytryptamine
-
-Norbaeocystin is the simplest of the four major Psilocybe tryptamine alkaloids, bearing no methyl groups on the ethylamine nitrogen.
-
-It is found in trace quantities in many psilocybin-containing mushrooms.
-
-Like baeocystin, its pharmacological activity is not well characterized, but its structural similarity to serotonin and psilocybin suggests it may have serotonergic activity.
-
-## Mechanism of Action
-
-The hallucinogenic effect of magic mushrooms is attributed to the serotonergic activity of psilocin (the active metabolite).
-
-Psilocin acts primarily as a partial agonist at the 5-HT₂A serotonin receptor subtype, though it also binds to other serotonin receptor subtypes including 5-HT₁A, 5-HT₂C, and 5-HT₂B.
-
-This receptor activation leads to altered processing of sensory information, changes in mood and cognition, and the characteristic visual and [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]] of the [[leary-psychedelic-experience-bardo-mapping]].
-
-The structural similarity of all four Psilocybe tryptamines to serotonin supports a common mechanism of action, with potency differences likely related to differences in receptor affinity, brain penetration, and metabolic stability.
-
-## Analytical Considerations
-
-Identification of psilocybin-containing mushrooms requires [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] because morphological identification is difficult without expert mycological knowledge.
-
-Standard analytical methods include:
-
-- **Thin-layer chromatography (TLC)**: Rapid screening using Ehrlich's reagent or UV visualization
-- **Gas chromatography (GC)**: After derivatization of the polar phosphate group
-- **High-performance liquid chromatography (HPLC)**: Direct analysis, including reversed-phase methods
-- **Liquid chromatography-mass spectrometry (LC-MS)**: Most specific and sensitive method
-
-Pure reference standards of psilocin and psilocybin are required for all quantitative analytical methods.
-
-The Shirota synthesis provides a practical route to these standards without chromatographic purification, facilitating forensic and regulatory analysis.
-
-## Legal and Regulatory Context
-
-In Japan, fungi containing psilocin and psilocybin have been regulated by the Narcotics and Psychotropic Control Law since June 6, 2002.
-
-Similar scheduling exists in most jurisdictions worldwide, with psilocybin and psilocybin-containing mushrooms classified as controlled substances.
-
-The need for reliable analytical standards has driven the development of practical synthetic routes like the Shirota method.
-
-## See Also
-
-- [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole|Psilocin Synthesis from 4-Hydroxyindole]] — the upstream synthesis
-- [[psilocybin-phosphorylation-via-zwitterionic-intermediate|Psilocybin Phosphorylation]] — the phosphorylation step
-- [[psilocybin-compound-profile|Psilocybin Compound Profile]] — detailed pharmacological information

@@ -21,7 +21,7 @@ created: 2026-04-28
 ## Overview
 
 **Speciogynine** is a corynanthean oxindole alkaloid found in the leaves of
-*Mitragyna speciosa* (kratom). It is one of over 40 identified alkaloids in
+*[[kratom-mitragyna-speciosa-pharmacology]]* (kratom). It is one of over 40 identified alkaloids in
 the plant, contributing to the complex pharmacological profile that
 distinguishes kratom from classical opioid drugs.
 
@@ -40,7 +40,7 @@ leaf extracts, typically accounting for 6-9% of the alkaloid fraction.
 
 **Structure:** Speciogynine features a characteristic oxindole core
 (cyclized lactam ring) at the indole position, with a methoxy-substituted
-aromatic ring and an ethyl side chain at C-15. The stereochemistry at C-20
+aromatic ring and an ethyl [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at C-15. The stereochemistry at C-20
 differs from its epimer speciociliatine, which accounts for distinct
 pharmacological behavior.
 
@@ -75,7 +75,7 @@ Speciogynine concentrations in kratom leaf vary by geographical origin,
 Thai and Malaysian kratom varieties show differing alkaloid ratios. Malay
 kratom tends to have higher proportions of speciogynine relative to total
 alkaloid content compared to Thai varieties, which are richer in mitragynine.
-These compositional differences likely underlie the distinct effect profiles
+These compositional differences likely underlie the distinct [[cannabis-terpene-entourage-effect-profiles]]
 reported between regional varieties.
 
 ## Related Compounds
@@ -87,24 +87,3 @@ structural relatives include **speciociliatine** (C-20 epimer), **paynantheine**
 The corynanthean skeleton it shares with other kratom alkaloids is also found
 in **ajmalicine** and **rhynchophylline** from *Uncaria* species, both of
 which have documented activity at adrenergic and serotonergic receptors.
-
-## Legal Status
-
-As a naturally occurring constituent of kratom, speciogynine is not
-individually scheduled in most jurisdictions. However, its legal status is
-tied to kratom regulation. Kratom is controlled or banned in several
-countries and US states, making speciogynine effectively controlled where
-the plant is prohibited.
-
-In the [[dmt-containing-plants-united-states-halpern]], kratom remains unscheduled at the federal level but is
-banned in several states and municipalities. The DEA has previously
-considered scheduling kratom and its alkaloids but has not enacted federal
-control as of 2026.
-
-## See Also
-
-- mitragynine
-- [[berberine]]
-- [[coptis-chinensis]]
-- [[sanguinaria-canadensis]]
-- [[astragalus-membranaceus]]

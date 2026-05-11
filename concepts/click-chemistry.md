@@ -88,53 +88,5 @@ Copper-mediated reactions are usually avoided in final biological systems unless
 
 Click handles in candidate drugs must be evaluated through ADME-style reasoning even when the synthetic step is convenient.
 
-## Advantages
-The major advantage is chemoselectivity: the partners react with each other while ignoring most native functional groups.
-
-Another advantage is modularity, which lets chemists combine many cores and many labels without redesigning the whole synthesis each time.
-
-The reactions often work at small scale, in mixed solvents, and with impure biological samples.
-
-Click chemistry also improves reproducibility because a robust coupling step reduces batch-to-batch synthetic variability.
-
-For interdisciplinary projects, a simple reaction protocol lowers the barrier between synthetic chemistry and biology.
-
-This is why click chemistry became a shared language across [[pericyclic-reactions-organic-chemistry]], pharmacology, proteomics, and biomaterials.
-
-## Limitations and Pitfalls
-Not every high-yielding reaction is a click reaction in the useful sense; the reaction must be selective in the intended environment.
-
-Copper can be cytotoxic, redox-active, and difficult to remove from some materials or biomolecular preparations.
-
-Azides may raise energetic-safety concerns when they are low molecular weight, highly nitrogen-rich, or isolated on large scale.
-
-Cyclooctyne reagents can be bulky, hydrophobic, expensive, and prone to nonspecific interactions in cells.
-
-Fast bioorthogonal reactions can still fail if the two labeled partners do not encounter each other at sufficient concentration.
-
-Triazole formation changes polarity and geometry, so a clicked analog is not automatically equivalent to the molecule it replaces.
-
-## Relationship to Bioorthogonal Chemistry
-Bioorthogonal chemistry is narrower than click chemistry because it specifically requires compatibility with living systems.
-
-Many click reactions are excellent for test tubes but are not bioorthogonal because they need metals, harsh reagents, or nonphysiological conditions.
-
-Conversely, some bioorthogonal reactions are judged mainly by cellular kinetics and toxicity rather than by classical synthetic convenience.
-
-The overlap between the two fields is strongest when reactions are fast, selective, water-compatible, and minimally perturbing.
-
-This overlap has made click chemistry central to modern probe design and live-cell molecular imaging.
-
-## Related Concepts
-[[phase-transfer-catalysis]] helps bring ions and organic substrates together across phases, while click chemistry usually emphasizes functional-group orthogonality.
-
-[[bioisosterism-in-drug-design]] is relevant when the triazole or another clicked linker is used as a pharmacophoric replacement rather than only as a tag.
-
-## References
-Sharpless, Kolb, and Finn's 2001 click chemistry formulation remains the conceptual starting point for the field.
-
-Meldal and Sharpless-Fokin reports in 2002 established CuAAC as the premier practical example.
-
-Bertozzi's bioorthogonal chemistry work demonstrated that click-style reactions could operate in living biological settings.
-
-Modern reviews of bioconjugation, chemical biology, and polymer functionalization describe the expanded family of click reactions.
+## See Also
+- [[psilocybin-mushroom-biology-chemistry]]

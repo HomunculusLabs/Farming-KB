@@ -6,12 +6,13 @@ tags: [species, herbal-plant, permaculture, lamiaceae, culinary, medicinal, ever
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "/Users/t3rpz/wiki/raw/papers/a-selection-permaculture-plants.md"
 ---
 
 # Rosmarinus officinalis
 
-Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] in the world, rosemary has been valued for its aromatic leaves, medicinal properties, and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and pest deterrence. Its essential oil, dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
+Rosmarinus officinalis (rosemary) is a woody, perennial evergreen herb in the family Lamiaceae, native to the Mediterranean basin. One of the most recognized and widely cultivated [[holzer-medicinal-and-culinary-herbs-compendium]] in the world, rosemary has been valued for its aromatic leaves, [[panax-ginseng]], and symbolic significance for over two millennia. The species is exceptionally drought-tolerant, long-lived (individual plants can survive 30+ years), and well-suited to permaculture systems as a permanent woody element providing year-round harvest, pollinator forage, and [[foliar-pest-deterrence-aact-mechanisms]]. Its [[permaculture-designers-manual-essential-oil-plants]], dominated by 1,8-cineole, α-pinene, and camphor, has demonstrated antimicrobial, anti-inflammatory, nootropic, and antioxidant activities. Recent research on rosmarinic acid and carnosic acid has generated significant interest in rosemary as a functional food and neuroprotective agent.
 
 ## Taxonomy and Naming
 - **Order:** Lamiales
@@ -60,13 +61,13 @@ Extensive branching root system with a deep taproot and widespread lateral roots
 | Rosmarinic acid | 1–3% (dry weight) | Phenolic acid; potent antioxidant |
 | Carnosic acid | 1–2% (dry weight) | Diterpene phenol; neuroprotective, anticancer |
 | Carnosol | 0.3–1% (dry weight) | Diterpene phenol; anti-inflammatory |
-| Ursolic acid | Present (leaves) | Triterpene; hepatoprotective |
+| [[ursolic-acid]] | Present (leaves) | Triterpene; hepatoprotective |
 | Apigenin | Present (leaves) | Flavone; anxiolytic, anticancer |
 
 Three main chemotypes are recognized: (1) cineoliferum (high 1,8-cineole), (2) camphoriferum (high camphor), and (3) myrteniferum (high myrtenol, Corsica/Sardinia).
 
 ## Ethnobotanical and Cultural Significance
-Rosemary has one of the richest cultural histories of any herb. In ancient Greece, students wore rosemary garlands during exams, believing it improved memory — a belief now supported by research on 1,8-cineole's cognitive effects. In medieval Europe, rosemary was associated with fidelity and remembrance, woven into bridal bouquets and used in funeral rites. Shakespeare referenced rosemary for remembrance in Hamlet. During the Black Death, rosemary was carried in posies and burned as fumigant. Hungarian water, a medieval tonic of rosemary oil in alcohol, is one of the earliest recorded perfumed spirits. In culinary tradition, rosemary is indispensable in Mediterranean cuisine, particularly with lamb, poultry, bread, and roasted vegetables.
+Rosemary has one of the richest cultural histories of any herb. [[psychedelic-use-in-ancient-greece]], students wore rosemary garlands during exams, believing it improved memory — a belief now supported by research on 1,8-cineole's cognitive effects. In medieval Europe, rosemary was associated with fidelity and remembrance, woven into bridal bouquets and used in funeral rites. Shakespeare referenced rosemary for remembrance in Hamlet. During the Black Death, rosemary was carried in posies and burned as fumigant. Hungarian water, a medieval tonic of rosemary oil in alcohol, is one of the earliest recorded perfumed spirits. In culinary tradition, rosemary is indispensable in Mediterranean cuisine, particularly with lamb, poultry, bread, and roasted vegetables.
 
 ## Medicinal Properties
 | Property | Evidence Level | Preparation |
@@ -87,40 +88,3 @@ Rosemary has one of the richest cultural histories of any herb. In ancient Greec
 - **Harvest:** Leaves year-round. Highest essential oil content just before flowering.
 - **Yield:** 1,000–3,000 kg fresh herb per hectare; 10–25 kg essential oil per hectare.
 - **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Excellent for tomatoes (repels hornworm), sage, thyme, lavender, and brassicas. Deters cabbage moths, bean beetles, and carrot flies.
-- **Pests:** Generally pest-resistant. Vulnerable to [[cervantes-powdery-mildew-prevention-treatment]], root rot (Phytophthora), spider mites, and spittlebugs.
-- **Lifespan:** 15–30+ years; less productive after 10–15 years.
-
-## Permaculture Functions
-- **Permanent woody element:** Zone 1–2 perennial providing year-round structure, harvest, and habitat.
-- **Pollinator support:** Early spring flowers provide critical nectar for bees emerging from winter dormancy.
-- **Pest deterrence:** Strong aromatics repel cabbage moths, carrot flies, and bean beetles.
-- **Soil stabilization:** Deep root system stabilizes slopes and banks.
-- **Windbreak and microclimate:** Dense, evergreen growth provides [[cervantes-wind-protection-outdoor-cannabis]] for tender crops as a hedge.
-- **Multi-functional hedge:** Combines beauty, fragrance, food production, and pest control in a single planting.
-
-## Major Cultivars
-| Cultivar | Height | Flower Color | Key Feature |
-|----------|--------|-------------|-------------|
-| 'Tuscan Blue' | 1.5–2.0 m | Deep blue | Upright, vigorous; best for hedges |
-| 'Prostratus' | 30 cm | Light blue | Creeping; walls and banks |
-| 'Miss Jessopp's Upright' | 1.5–2.0 m | Blue | Classic upright; reliable |
-| 'Arp' | 1.0–1.5 m | Light blue | Most cold-hardy (zone 7) |
-| 'Salem' | 1.0–1.5 m | Light blue | Cold-hardy; excellent culinary flavor |
-| 'Ken Taylor' | 60–90 cm | Medium blue | Compact; good for containers |
-
-## Conservation Status
-- **IUCN status:** Not evaluated (widespread cultivation and naturalization).
-- **Wild populations:** Declining in parts of native coastal range due to habitat loss.
-- **Genetic resources:** Extensive cultivar collections maintained in botanical gardens and germplasm banks worldwide.
-
-## See Also
-
-- [[cornus-officinalis]]
-
-- [[fomitopsis-officinalis-entity]]
-
-- [[lavandula-angustifolia]]
-- [[thymus-vulgaris-entity]]
-- ocimum-sanctum
-- [[vitex-agnus-castus]]
-- rosmarinus officinalis entity

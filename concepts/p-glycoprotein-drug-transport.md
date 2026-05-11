@@ -54,7 +54,7 @@ strong.
 
 ## Pharmacokinetic Effects
 
-Oral bioavailability can decrease when an orally administered drug is a strong P-gp substrate. Absorbed
+[[first-pass-metabolism-and-oral-bioavailability]] can decrease when an orally administered drug is a strong P-gp substrate. Absorbed
 molecules may be cycled from enterocytes back into the intestinal lumen, giving metabolic enzymes additional
 opportunities to act before the drug reaches systemic circulation.
 
@@ -88,60 +88,6 @@ chemotherapeutic agents. Overexpression of P-gp can lower intracellular concentr
 allowing tumor cells to survive concentrations that would otherwise be lethal.
 
 This mechanism is conceptually simple but clinically difficult to exploit. Direct P-gp inhibitors can cause
-unacceptable drug interactions or toxicity because the transporter also protects normal tissues. Tumors may
-use several resistance mechanisms at once, including altered targets, enhanced repair, metabolic changes, and
-other efflux pumps.
-
-Even when P-gp is not the sole cause of resistance, measuring its expression can help explain poor
-intracellular accumulation of some agents. It remains a central model for how [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] can defeat
-pharmacological potency.
-
-## Barrier Protection
-
-At the blood-brain barrier, P-gp is part of a protective interface formed by endothelial tight junctions,
-metabolic enzymes, and additional transporters. It limits entry of many xenobiotics into the central nervous
-system. This protection is beneficial for toxins but problematic for drugs intended to treat brain disorders.
-
-At the placenta, P-gp can reduce fetal exposure to some maternal drugs and environmental chemicals. The effect
-is protective in principle, but it can also complicate therapy during pregnancy because maternal, placental,
-and fetal risks must be balanced.
-
-Barrier function is context dependent. Inflammation, genetic variation, disease, age, and co-administered
-drugs can change transporter expression or activity. A barrier is therefore a regulated biological system, not
-a fixed wall.
-
-## Measurement and Prediction
-
-P-gp substrate status is studied with polarized cell monolayers, vesicle transport assays, ATPase assays,
-knockout animal models, inhibitor experiments, and clinical pharmacokinetic studies. No single assay is
-definitive for every compound.
-
-A common in vitro pattern is directional transport across a cell monolayer that is reduced by a known P-gp
-inhibitor. However, permeability, solubility, nonspecific binding, cytotoxicity, and expression of other
-transporters can confound interpretation. Good studies use multiple controls.
-
-Regulatory assessment often asks whether a new drug is a substrate or inhibitor of major transporters. The
-goal is to anticipate drug interactions, explain unusual tissue distribution, and decide when clinical
-interaction studies are needed.
-
-## Related Concepts
-
-P-gp illustrates the phase III side of xenobiotic defense. Phase I and phase II systems change chemical
-structure, while transporters move parent drugs and metabolites between compartments. Together they determine
-the real exposure of cells.
-
-The transporter also links pharmacology to toxicology. The same efflux mechanism that protects the brain from
-toxins can prevent delivery of therapeutic agents, and the same inhibition that improves tissue penetration
-can raise systemic toxicity.
 
 ## See Also
-
-- [[cytochrome-p450-enzymes-and-xenobiotic-metabolism]]
-- [[reactive-oxygen-species-and-oxidative-stress]]
-
-## References
-
-General pharmacology and transporter biology; reviewed against public summaries from Wikipedia pages on
-P-glycoprotein and ABCB1 during the 2026-05-02 mining wave.
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]
+- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

@@ -21,15 +21,15 @@ sources:
 
 **Carex montana**, commonly known as mountain sedge, is a low-growing perennial sedge of the family Cyperaceae. It is native to central and southern Europe, extending eastward into the Balkans and Turkey.
 
-The species is characteristic of dry, calcareous grasslands and open woodland margins. It is one of the more distinctive sedges due to its compact growth form and preference for warm, well-drained habitats.
+The species is characteristic of dry, calcareous grasslands and open woodland margins. It is one of the more distinctive sedges due to its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and preference for warm, well-drained habitats.
 
-Mountain sedge is an important component of species-rich calcareous grassland communities in central Europe. These habitats are among the most biodiverse plant communities in temperate regions.
+Mountain sedge is an important component of species-rich calcareous grassland communities in central Europe. These habitats are among the most biodiverse plant communities in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Despite its common name, the species is not confined to mountainous areas. It occurs at low elevations on chalk and limestone grasslands throughout much of its range.
 
 The species is closely related to Carex caryophyllea, with which it often co-occurs. The two can be distinguished by Carex montana's larger utricles and more robust growth form.
 
-In the Mediterranean region, mountain sedge occurs in garrigue and phrygana vegetation on calcareous substrates. These populations are typically smaller in stature than central European populations.
+In the Mediterranean region, mountain sedge occurs in garrigue and phrygana vegetation on calcareous substrates. These populations are typically smaller in stature than [[psilocybe-bohemica-central-european]] populations.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ Elevation range extends from lowland chalk grasslands at sea level to approximat
 
 ## Ecology
 
-**Carex montana** is a characteristic species of xeric calcareous grasslands in the European temperate zone. In central European phytosociology, it is diagnostic of the Festuco-Brometea class of dry grasslands.
+**Carex montana** is a characteristic species of xeric calcareous grasslands in the European [[guzman-magic-mushrooms-temperate-zone-species]]. In central European phytosociology, it is diagnostic of the Festuco-Brometea class of dry grasslands.
 
 The species is relatively drought-tolerant, reflecting its adaptation to well-drained calcareous substrates. Its shallow but dense root system exploits moisture from thin soil layers over bedrock.
 
@@ -73,7 +73,7 @@ The compact tussocks provide microhabitat for invertebrates, including spiders, 
 
 Grazing by sheep and cattle helps maintain the open conditions that this species requires. Abandonment of grazing leads to scrub encroachment and eventual loss of suitable habitat.
 
-The species is sensitive to nutrient enrichment and declines on grasslands receiving fertiliser applications or atmospheric nitrogen deposition. Eutrophication favours taller, more competitive grasses at the expense of low-growing sedges.
+The species is sensitive to nutrient enrichment and declines on grasslands receiving fertiliser applications or atmospheric [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Eutrophication favours taller, more competitive grasses at the expense of low-growing sedges.
 
 Fire can play a role in maintaining open conditions in some calcareous grassland systems. Carex montana resprouts from its basal tussock after burning, though frequent fire may reduce its vigour.
 
@@ -81,45 +81,10 @@ Pollinator interactions are limited, as the species is wind-pollinated. However,
 
 ## Cultivation and Uses
 
-Mountain sedge is occasionally cultivated in rock gardens and alpine plant collections. Its compact form and early flowering make it an attractive subject for well-drained, sunny positions.
+Mountain sedge is occasionally cultivated in rock gardens and alpine plant collections. Its compact form and [[equatorial-photoperiod-early-flowering]] make it an attractive subject for well-drained, sunny positions.
 
 Propagation from seed is possible but germination can be slow. Cold stratification for 4–6 weeks improves germination rates. Division of established tussocks in early autumn is the most reliable method.
 
 The species requires excellent drainage and full sun. It is intolerant of waterlogged conditions and performs poorly in heavy or clay-rich soils.
 
 In native wildflower seed mixes for calcareous grassland restoration, mountain sedge is sometimes included as a component species. Its establishment rate from seed is moderate in appropriate conditions.
-
-The species has no significant economic or medicinal uses. Its primary value is ecological, as a component of biodiverse calcareous grassland communities and an indicator of habitat quality.
-
-In horticulture, the species performs best in USDA hardiness zones 5–7. It requires scree or rock garden conditions with excellent drainage and minimal irrigation once established.
-
-Alpine garden enthusiasts value this species for its early flowering and neat growth habit. It pairs well with other calcicolous alpines such as dwarf gentians and saxifrages.
-
-## Conservation
-
-**Carex montana** is considered Near Threatened or Vulnerable in several European countries, particularly at the northern edge of its range. In Britain, it is a nationally scarce species with a restricted distribution.
-
-Calcareous grassland loss through agricultural intensification, abandonment, and afforestation has reduced the species' habitat extent across Europe. Remaining populations are often small and isolated.
-
-The species is listed in several national Red Data Books and is protected under regional conservation legislation. Conservation efforts focus on maintaining grazing management on existing calcareous grassland sites.
-
-Climate change may pose a significant threat to mountain sedge populations at low elevations. Increased summer drought and heat stress could exceed the species' tolerance, particularly at its northern range limits.
-
-Habitat restoration through scrub clearance and grazing reintroduction has benefited populations at several sites in southern England and central Europe. Reintroduction trials have shown moderate success where suitable substrate conditions exist.
-
-Long-term monitoring at British calcareous grassland reserves shows that populations can persist for decades under appropriate management. Population sizes tend to fluctuate with grazing intensity and rainfall patterns.
-
-The species is a useful indicator of habitat quality in calcareous grassland monitoring schemes. Its presence suggests low nutrient levels and well-managed grazing regimes.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-flava]]
-- [[carex-lupulina]]
-- [[carex-sylvatica]]
-- [[carex-pensylvanica]]
-- [[carex-bigelowii]]
-- [[carex-hirta]]
-- [[carex-vulpinoidea]]
-- [[juncus-effusus]]
-- [[molinia-caerulea]]

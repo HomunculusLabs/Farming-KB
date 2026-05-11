@@ -14,7 +14,7 @@ sources:
   - Tutin, T.G. (1993). "Ranunculus L." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
   - Harper, J.L. (1957). "Ranunculus." Biological Flora of the British Isles, Journal of Ecology, 45: 289-342.
   - Sarukhán, J. & Harper, J.L. (1973). "Studies on plant demography: Ranunculus repens L. and R. acris L." Journal of Ecology, 61(3): 675-716.
-  - Whittemore, A.T. (1997). "Ranunculus." Flora of North America North of Mexico, Vol. 3. Oxford University Press.
+  - Whittemore, A.T. (1997). "Ranunculus." Flora [[berry-growing]] North of Mexico, Vol. 3. Oxford University Press.
   - Turner, N.J. (1984). "Counter-irritant and other medicinal uses of Ranunculus species." Journal of Ethnopharmacology, 11(2): 191-201.
 ---
 
@@ -22,13 +22,13 @@ sources:
 
 Ranunculus repens, commonly known as creeping buttercup, is a perennial herbaceous plant in the family Ranunculaceae.
 
-It is one of the most widespread and recognizable buttercup species, found across temperate regions worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
+It is one of the most widespread and recognizable buttercup species, found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The plant is distinguished by its creeping stolons that root at the nodes, forming dense mats of foliage.
 
 Creeping buttercup is considered a noxious weed in many agricultural settings, particularly in damp pastures and meadows. Like other Ranunculus species, it contains protoanemonin, a toxic compound that causes blistering and irritation.
 
-Despite its weed status, Ranunculus repens provides valuable early-season nectar resources for pollinators in grassland ecosystems.
+Despite its weed status, Ranunculus repens provides valuable early-season nectar resources for pollinators in [[biodiversity-fungi-grassland-ecosystems]].
 
-It is one of the three most common European buttercup species, alongside Ranunculus acris and Ranunculus bulbosus, with which it frequently co-occurs.
+It is one of the three most common European buttercup species, alongside [[ranunculus-acris]] and [[ranunculus-bulbosus]], with which it frequently co-occurs.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ In its native range, it is one of the most common buttercup species, occurring i
 
 It is particularly abundant in the British Isles, where it is considered the commonest buttercup. The species has been the subject of extensive demographic study due to its ecological importance.
 
-In North America, it is naturalized across the northern United States and southern Canada, extending from the Atlantic coast to the Pacific Northwest. It is less common in the southeastern states and arid western regions.
+In North America, it is naturalized across the northern United States and southern Canada, extending from the Atlantic coast to the [[psilocybin-north-america-pacific-northwest]]. It is less common in the southeastern states and arid western regions.
 
 The species thrives in damp, heavy soils including wet meadows, stream banks, ditch edges, poorly drained pastures, and disturbed ground. It tolerates a wide pH range but prefers slightly acidic to neutral conditions.
 
@@ -88,33 +88,3 @@ Ranunculus repens is an early successional species that colonizes disturbed grou
 It is characteristic of moderately grazed pastures and mown grassland, where disturbance prevents competitive exclusion by taller species.
 
 The plant's protoanemonin content deters most mammalian herbivores, giving it a competitive advantage in grazed ecosystems. However, it is an important food plant for the larvae of several moth species.
-
-## Toxicity and Weed Management
-
-All parts of Ranunculus repens contain ranunculin, which converts to the toxic protoanemonin upon tissue damage. Fresh plants are toxic to cattle, horses, and sheep, causing salivation, oral blistering, and gastrointestinal distress.
-
-Dried plants in hay are considerably less toxic, as protoanemonin polymerizes to anemonin upon drying.
-
-Livestock poisoning most commonly occurs when animals graze fresh growth in overgrazed pastures with limited alternative forage. Horses are particularly susceptible, while sheep show more tolerance.
-
-Control in agricultural settings is challenging due to the stoloniferous growth habit and persistent seed bank. Mechanical control (cultivation) can fragment stolons and spread plantlets, potentially worsening infestations.
-
-Effective management combines improving drainage, avoiding overgrazing, and targeted herbicide application in early growth stages.
-
-Cultural controls that promote competitive pasture grasses are the most sustainable long-term approach. Regular aeration of compacted soils also reduces Ranunculus repens dominance by improving conditions for grass growth.
-
-In traditional folk medicine, crushed leaves were applied as vesicants for rheumatism and joint pain.
-
-This practice is now discouraged due to the risk of severe contact dermatitis and scarring. The plant has no established culinary or nutritional uses.
-
-## See Also
-
-- [[ranunculus-acris]] — Meadow buttercup, upright relative
-- [[ranunculus-bulbosus]] — Bulbous buttercup, dry-habitat relative
-- [[ranunculus-aquatilis]] — Aquatic buttercup, water habitat
-- [[anemone-nemorosa]] — Wood anemone, fellow Ranunculaceae
-- [[helleborus-niger]] — Christmas rose, toxic Ranunculaceae
-- [[aconitum-napellus]] — Monkshood, highly toxic Ranunculaceae
-- [[pulsatilla-vulgaris]] — Pasque flower, Ranunculaceae ally
-- [[clematis-vitalba]] — Old man's beard, woody Ranunculaceae
-- [[nigella-sativa]] — Black seed, Ranunculaceae with culinary use

@@ -1,10 +1,11 @@
 ---
-title: fukuoka-factory-livestock-critique-natural-grazing-philosophy as the Ideal Livestock System
+title: Fukuoka Natural Grazing Ideal
 created: 2026-04-28
-tags: [fukuoka, natural-farming, livestock, grazing, animal-husbandry]
+tags: [fukuoka, [[natural-farming]], livestock, grazing, animal-husbandry]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -12,10 +13,10 @@ type: concept
 # Natural Grazing as the Ideal Livestock System
 
 Under the precepts of [[comparison-natural-farming-vs-permaculture]], [[fukuoka-textdoc-natural-livestock-farming-open-grazing]] takes the form of
-open grazing. Cattle, pigs, and chickens fattened while free to roam at will
+[[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]. Cattle, pigs, and chickens fattened while free to roam at will
 on the open land under the sun's rays are a precious, irreplaceable source of
 food for man. The problem lies elsewhere, in the prejudiced view that sees
-natural farming as inefficient. Is grazing, which allows one person to raise
+[[cho-loess-powder-in-natural-farming]] as inefficient. Is grazing, which allows one person to raise
 hundreds of head without doing anything, really inefficient? Is it not,
 rather, the most efficient form of production there is?
 
@@ -87,51 +88,3 @@ worry about the presence of poisonous plants, but animals have an innate
 ability to tell these apart from other plants. If no longer able to do so,
 there is most certainly a reason why. Bracken, for example, may be a
 poisonous herb under certain conditions, but it grows in clusters. If a cow
-eats too much and suffers, something is probably wrong with the cow.
-
-Livestock bred by artificial insemination and raised on artificial milk
-formulas are more likely to have poor viability. Animals improved
-indiscriminately often show unanticipated defects. Breeding programs are
-usually opposed to nature and often result in the creation of unnaturally
-deformed creatures that man deludes himself into thinking are superior.
-
-## Multi-Species Integration
-
-It will also be necessary to stop thinking in terms of raising just cattle.
-What happens when we let pigs, chickens, and rabbits graze together with the
-cows in an orchard? The pigs like to root up the ground looking for the
-insects and earthworms they are fond of in valleys and damp areas; they are
-like small tractors that dig up the soil. Just sow some clover and grain in
-the turned soil, and with the cow and pig droppings, you should get a fine
-growth of pasturage.
-
-Once this [[mollison-designers-tropical-pasture-grass-species-and-establishment]] begins to flourish, then you should be able to raise
-chickens, goats, and rabbits in the same way. This multi-species approach
-mirrors the diversity found in natural ecosystems, where different animals
-occupy different niches and contribute to the overall health of the system.
-
-## Natural Selection Over Generations
-
-It would be unreasonable, of course, to take modern, genetically upgraded
-livestock, release them suddenly in a forest, and expect to see an immediate
-improvement in results. But if the possibilities are studied with patience, a
-path should open up. At the very least, after habituating the animals to
-open grazing in the forests over the course of two or three generations,
-natural selection will take over and those animals adapted to nature will
-survive.
-
-Ticks and mites do present a problem, but the conditions under which
-parasites such as these arise vary considerably. There may be a great number
-at the southern edge of a wood, but very few along the northern edge.
-Infestation is generally limited in cool, breezy areas, and is closely
-related to humidity and temperature. The problem can be prevented by
-providing the right environment.
-
-Today's livestock, raised in large numbers and reduced to just so much
-standardized machinery, no longer receives the strength and grace of nature.
-The [[fukuoka-natural-orchard-development]] as partners rather than as products to be manufactured.
-
-## See Also
-
-- [[fukuoka-natural-farming-global-influence]]
-- [[fukuoka-natural-farming-weed-and-insect-philosophy]]

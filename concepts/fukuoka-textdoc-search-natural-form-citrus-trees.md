@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,41 +87,3 @@ Fukuoka planted citrus seed and observed the trees growing from these. At the sa
 The answer, contrary to all accepted horticultural wisdom, was a central leader type form, similar to that of deciduous trees.
 
 When he reported his findings at a meeting of the Ehime Prefectural Fruit Growers Association, stating that the natural form of the citrus tree is not what it had been thought to be, but a central leader type form, this created a stir among several specialists present, but was laughed off as just so much nonsense by the farmers.
-
-## Why Abandoned Trees Cannot Recover
-
-The key insight is that trees whose branches and foliage become tangled and die when left unpruned are not exhibiting their natural form. They are exhibiting the deformations caused by prior human intervention.
-
-Before being abandoned, the citrus trees had been trained and pruned into a wineglass shape. The trees had an unnatural form from the moment they were transplanted as saplings. This is why, when left unpruned, they did not return to a natural form but became instead increasingly deformed.
-
-A tree that has been forced into an artificial shape cannot simply revert to its natural form when the artificial constraints are removed. The damage has already been done to its fundamental architecture.
-
-## The Seed Problem
-
-Obviously, the proper way to grow a citrus tree having a natural form would be to plant the seed directly in the orchard. But the seed itself is no longer truly natural. It is the product of extensive cross-breeding between different varieties of artificially cultivated citrus trees.
-
-If allowed to grow to maturity, the tree either reverts to an ancestral form or produces inferior hybrid fruit. Direct planting of the seed, therefore, is not a practical option for fruit production. Yet this is very helpful in gaining an idea of the natural form of the citrus tree, and it was through this method that Fukuoka was able to confirm his central leader hypothesis.
-
-## Nature Knows the Answers
-
-If one takes the viewpoint of natural farming, there is no reason why the branches and foliage of trees having a natural form should ever become tangled and wither. If the tree has a natural form, then there should be no need for research on the desirable number of scaffold branches, the number and angle of the lateral branches, and the proper spacing between adjoining branches.
-
-Nature knows the answers and can take care of these matters quite well by itself.
-
-## Scientific Agriculture: Endless Adjustment
-
-The scientific approach, by contrast, requires calculating the proper spacing of branches through experimentation, but never arrives at a definitive spacing that is okay for all situations. A different result is obtained for wineglass-shaped trees, for trees with natural open-centered shapes, and for every other shape.
-
-The conclusion that each pruning system has its merits and demerits leaves the door open to continuous change with each passing age. This is the way of scientific agriculture: endless adjustment without ever arriving at the truth.
-
-## The Constant Natural Form
-
-The natural form of a citrus tree is constant and unchanging in natural farming and permits pruning to be dispensed with. Whatever new pruning techniques may arise in the future, knowing the true natural form of citrus and other fruit trees and how to train a tree to its natural form can never be a disadvantage.
-
-Even when performing surgery on a tree in a mechanized orchard, it makes more sense to work on a tree trained on a single stem than to allow the tree to grow as much as it can and later cut it with a saw. The closer the form of the tree to nature, the more reasonable on all counts.
-
-## See Also
-
-- [[fukuoka-textdoc-natural-form-fruit-trees]]
-- [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]]
-- [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]

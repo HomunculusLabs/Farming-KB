@@ -18,13 +18,13 @@ sources:
 
 ## Overview
 
-The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products|medicinal mushroom products]], the economics of mushroom cultivation span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
+The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products]], the economics [[history-of-mushroom-cultivation]] span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
 
 ## Historical Market Context
 
 ### Early American Market (Late 1800s)
 
-William Falconer's 1891 observations paint a vivid picture of the early American mushroom market:
+[[william-falconer]]'s 1891 observations paint a vivid picture of the early American mushroom market:
 
 - America had "the best market in the world for fresh mushrooms; the demand for them is increasing, and the supply has always been inadequate"
 - The price in America was "more than double that paid in Europe," making mushroom growing "one of the simplest and most remunerative of employments"
@@ -37,7 +37,7 @@ In Falconer's time, the economics of mushroom cultivation were intimately tied t
 
 - Market gardeners already had the horse manure needed for mushroom substrate
 - After bearing a crop of mushrooms, the spent manure was "thoroughly rotted and in good condition for early spring crops; and for seed beds of tomatoes, lettuces, cabbages, cauliflowers, and other vegetables, it is the best kind of manure"
-- This circular economy meant the mushroom crop effectively paid for the preparation of compost for subsequent vegetable crops -- the mushroom crop was nearly pure profit
+- This [[zeri-circular-economy-systems]] meant the mushroom crop effectively paid for the preparation of compost for subsequent vegetable crops -- the mushroom crop was nearly pure profit
 
 ## Modern Commercial Market
 
@@ -66,14 +66,14 @@ Specialty mushrooms (shiitake, oyster, king oyster, lion's mane, maitake, enoki,
 
 - **Price premium:** Specialty mushrooms typically sell for $8-20+ per pound retail, compared to $3-6 for Agaricus
 - **Growing demand:** Consumer interest in culinary diversity, health foods, and plant-based cuisine drives growth
-- **Lower barriers to entry:** Many specialty species can be grown on supplemented sawdust in relatively simple facilities
+- **Lower barriers to entry:** Many specialty species can be grown on [[oyster-mushroom-supplemented-sawdust-blocks]] in relatively simple facilities
 - **Shorter supply chains:** Local and regional production is feasible, supporting farm-direct and farmers' market sales
 
 ### Medicinal Mushroom Market
 
-The [[medicinal-mushroom-health-benefits|medicinal mushroom]] product market has experienced explosive growth:
+The [[medicinal-mushroom-health-benefits]] product market has experienced explosive growth:
 
-- **Dietary supplements:** Capsules, powders, tinctures, and extracts of reishi, lion's mane, turkey tail, cordyceps, and chaga
+- **[[medicinal-mushroom-dietary-supplements]]:** Capsules, powders, tinctures, and extracts of reishi, lion's mane, turkey tail, cordyceps, and chaga
 - **Functional foods:** Mushroom-infused coffees, teas, chocolates, and snack foods
 - **Cosmetics:** Skincare products incorporating mushroom extracts
 - **Market drivers:** Growing scientific evidence for immune modulation, cognitive enhancement, and anti-inflammatory properties
@@ -82,7 +82,7 @@ The [[medicinal-mushroom-health-benefits|medicinal mushroom]] product market has
 
 ### Cost Factors
 
-Key cost components in mushroom cultivation:
+Key cost components [[contamination-prevention-in-mushroom-cultivation]]:
 
 - **Substrate materials:** Sawdust, grain, supplements, compost ingredients
 - **Energy:** Heating, cooling, humidification, sterilization (autoclaving is energy-intensive)
@@ -101,7 +101,7 @@ Key cost components in mushroom cultivation:
 ### Scale Considerations
 
 - **Home/hobby scale:** Minimal equipment investment; primarily for personal consumption or small supplementary income
-- **Small commercial (1,000-10,000 sq ft):** Feasible for [[homestead-mushroom-business|homestead mushroom businesses]]; lower capital requirements; can access farmers' markets and restaurant accounts
+- **Small commercial (1,000-10,000 sq ft):** Feasible for [[homestead-mushroom-business]]; lower capital requirements; can access farmers' markets and restaurant accounts
 - **Large commercial (50,000+ sq ft):** Requires significant capital investment; specialized climate control; mechanized processing; wholesale market focus
 
 ## Market Channels
@@ -128,7 +128,7 @@ Key cost components in mushroom cultivation:
 
 ## See Also
 
-- [[homestead-mushroom-business|homestead mushroom business]]
-- [[farmers-market-selling-guide|farmers' market selling]]
-- [[specialty-mushroom-species|specialty mushroom species]]
-- [[gourmet-mushroom-species-guide|gourmet mushroom species guide]]
+- [[homestead-mushroom-business]]
+- [[farmers-market-selling-guide]]
+- [[specialty-mushroom-species]]
+- [[gourmet-mushroom-species-guide]]

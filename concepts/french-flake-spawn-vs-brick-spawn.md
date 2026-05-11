@@ -15,11 +15,11 @@ The French tradition produced spawn as loose flakes of half-rotted strawy manure
 
 Both forms were completely permeated with mushroom [[mycelium]], the vegetative body of the fungus.
 
-These two traditions represented not merely different packaging methods but genuinely different approaches to the propagation and preservation of mushroom mycelium.
+These two traditions represented not merely different packaging methods but genuinely different approaches to the propagation and preservation of [[antimicrobial-compounds-mushroom-mycelium]].
 
 The choice between them was a matter of ongoing debate among growers.
 
-Falconer's 1891 treatise discussed both types in considerable detail, reflecting their importance to the mushroom industry.
+Falconer's 1891 treatise discussed both types in considerable detail, reflecting their importance to the [[mushroom-industry-african-countries]].
 
 ## English Brick Spawn
 
@@ -69,7 +69,7 @@ Contemporary manufacturers produced spawn that was considered as good as the old
 
 The flake spawn was generally known as French spawn.
 
-It was imported into the United States from France.
+It was imported into the [[dmt-maoi-plants-united-states]] from France.
 
 The manufacture of "French" spawn for sale was not strictly confined to France, however.
 
@@ -83,64 +83,8 @@ Flake spawn consisted of pieces of half-rotted strawy manure permeated with whit
 
 It was softer and more perishable than brick spawn.
 
-It had to be handled more carefully and kept under more controlled conditions.
+It had to be handled more carefully and kept under more [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
 But many growers considered it more vigorous and productive than brick spawn.
 
 The Parisian cave growers were the primary producers and users of flake spawn.
-
-## Virgin or Natural Spawn
-
-Virgin spawn was the term for natural or wild spawn.
-
-This was the spawn that occurred naturally in fields, in manure piles, or elsewhere, without any artificial aid.
-
-It was supposed to be produced directly from [[query-how-to-store-mushroom-spores-long-term]].
-
-It was not a new growth of surviving parts of old spawn that had lived over in the ground.
-
-Virgin spawn was far more vigorous than "made" or manufactured spawn.
-
-Spawn makers always endeavored to obtain natural spawn to use in inoculating their artificial spawn.
-
-It was seldom used directly for spawning mushroom beds because it was not easy to obtain in quantity.
-
-Now and again a lot of it was found in a manure pile.
-
-It looked like a netted mass of white strings traversing the manure.
-
-As soon as discovered, the grower was advised to secure all that could be found.
-
-It should be brought indoors to a loft, shed, or room, and spread out to dry.
-
-After drying thoroughly, it was preserved and used as one would use French flake spawn.
-
-It was considered the best kind of flake spawn.
-
-## How to Distinguish Good from Poor Spawn
-
-Distinguishing good from poor spawn was a very difficult matter, notwithstanding what people might say to the contrary.
-
-If a grower could positively tell good from bad, they would never use bad spawn.
-
-Spawn differed very much in its appearance.
-
-Sometimes the bricks showed very little appearance of the presence of spawn, and still were perfectly good.
-
-And bricks might be pretty well interlaced and clouded with bluish white mold or fine threads, and this, too, was good.
-
-When bricks were freely pervaded with pronounced white threads, this was no sign that the spawn was bad.
-
-Bricks dried as hard as a board might be perfectly good; so, too, might those that were comparatively soft.
-
-Mushroom spawn should have a decided smell of mushrooms.
-
-Whatever cobweb-like mold was apparent should be of a fresh bluish white color.
-
-Prominent yellowish threads or veins were a sign that the mycelium had started to grow and been killed.
-
-Distinct white mold patches on the surface indicated the presence of some other fungal parasite.
-## See Also
-
-- [[mushroom-compost-preparation-historical]] — How beds were prepared for spawning
-- [[nineteenth-century-mushroom-cellars]] — Where spawned beds were cultivated

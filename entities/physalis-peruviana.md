@@ -27,11 +27,11 @@ created: 2026-05-07
 
 **Cape gooseberry**, **groundcherry**, **goldenberry**, **aguaymanto**, **poha berry**
 
-*Physalis peruviana* is a herbaceous perennial plant in the nightshade family (Solanaceae) native to the Andean regions of South America — specifically Colombia, Ecuador, Peru, and Chile. It produces small, round, yellow-orange fruits enclosed in a papery calyx (husk), similar in structure to its close relative the tomatillo (*Physalis ixocarpa*). The fruit has a sweet-tart flavor described as a blend of tomato, pineapple, and mango.
+*Physalis peruviana* is a herbaceous perennial plant in the nightshade family (Solanaceae) native to the Andean regions of [[guzman-psilocybin-mushrooms-south-america]] — specifically Colombia, Ecuador, Peru, and Chile. It produces small, round, yellow-orange fruits enclosed in a papery calyx (husk), similar in structure to its close relative the tomatillo (*Physalis ixocarpa*). The fruit has a sweet-tart flavor described as a blend of tomato, pineapple, and mango.
 
 ## Botanical Description
 
-*Physalis peruviana* grows as a sprawling or semi-erect herbaceous perennial, typically reaching 0.6–1.5 meters in height. In temperate climates it is commonly grown as an annual. The stems are ribbed and covered in fine hairs. Leaves are heart-shaped (cordate), 6–15 cm long and 4–10 cm wide, with entire or slightly toothed margins.
+*Physalis peruviana* grows as a sprawling or semi-erect herbaceous perennial, typically reaching 0.6–1.5 meters in height. [[query-how-to-grow-and-use-oca-in-temperate-climates]] it is commonly grown as an annual. The stems are ribbed and covered in fine hairs. Leaves are heart-shaped (cordate), 6–15 cm long and 4–10 cm wide, with entire or slightly toothed margins.
 
 The characteristic lantern-like calyx is 3–5 cm long, formed from five fused sepals that enclose the developing fruit. Flowers are bell-shaped, yellow with dark brown or purplish spots in the throat, approximately 15–20 mm in diameter. The fruit is a berry, 1.2–2.0 cm in diameter, golden-orange when ripe, containing numerous small seeds.
 
@@ -78,7 +78,7 @@ In its native Andean range, *P. peruviana* flowers and fruits nearly
 year-round at lower elevations, with peak harvest from November to
 March. In temperate Northern Hemisphere regions grown as an annual,
 fruit ripens from August through October, continuing until the first
-frost. In the Southern Hemisphere (South Africa, Australia, New
+frost. In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] (South Africa, Australia, New
 Zealand), the cycle is reversed with fruiting from February to May.
 The calyx provides excellent protection, allowing ripe fruits to be
 harvested gradually over several weeks as they drop from the plant.
@@ -87,10 +87,4 @@ harvested gradually over several weeks as they drop from the plant.
 
 - **[[physalis-alkekengi]]** (Chinese lantern) — Primarily ornamental with bright orange-red calyces; fruits are smaller, bitter, and generally inedible raw. The inflated calyx is more prominent than the fruit itself.
 - **Physalis ixocarpa** (Tomatillo) — Larger species with green or purple fruit used in Mexican cuisine. Larger fruit (3-6 cm) that fills the calyx with a more tart, acidic flavor.
-- **Physalis pruinosa** — North American native similar to P. peruviana but smaller, with ~1 cm fruits and a sweeter mango-like flavor.
-
-## See Also
-- [[forest-garden-design-principles]]
-- [[comfrey-symphytum-officinale|Comfrey]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] partner
-- [[moringa-oleifera|Moringa oleifera]] — complementary Andean/tropical superfood
-- [[ashwagandha-withania-somnifera|Ashwagandha]] — shared withanolide chemistry
+- **[[physalis-pruinosa]]** — [[growing-gourmet-north-american-reishi-species]] native similar to P. peruviana but smaller, with ~1 cm fruits and a sweeter mango-like flavor.

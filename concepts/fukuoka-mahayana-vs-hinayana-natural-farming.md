@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, philosophy, agriculture, mahayana, hinayana, sc
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,42 +88,3 @@ at best of only local utility.
 Scientific agriculture is essentially "farming without nature." It draws as much
 as it can from natural forces and attempts, by adding human knowledge, to produce
 results that eclipse nature. But human knowledge is inherently imperfect — a tiny,
-closely circumscribed fraction of the infinitude of the natural world. As
-imperfection can never equal perfection, scientific farming must always yield to
-Mahayana natural farming.
-
-## Comparing the Three Approaches
-
-Fukuoka compares yields across the three approaches:
-
-1. **Scientific farming excels** under unnatural, man-made conditions — but only
-   because natural farming cannot be practiced under such conditions.
-2. **Hinayana natural farming** yields results at least as good as or better than
-   scientific farming under conditions approaching those of nature.
-3. **Mahayana natural farming**, being both pure and perfect, is always superior
-   to scientific farming in holistic terms.
-
-The reason is simple: man imitates nature. No matter how well he thinks he knows
-rice, he cannot produce it from scratch. All he does is take the rice plant found
-in nature and tries growing it by imitating natural processes. Man is a student of
-nature. It is a foregone conclusion that were nature — the teacher — to use its
-full powers, man — the student — would lose out.
-
-Scientific farming constantly practices the unnatural without concern. Its
-irregular contour represents the distortions arising from the collection of narrow
-research findings. This contrasts with the perfect circle of Hinayana natural
-farming and the all-encompassing sphere of Mahayana natural farming.
-
-## Key Distinction
-
-The fundamental distinction: scientific farming moves centrifugally away from
-nature, accumulating means and interventions. Natural farming moves centripetally
-toward nature. The paths of nature and of science and human action are forever
-parallel and never intersect. Fukuoka's message is that all begins by relinquishing
-human knowledge — returning to the source rather than endlessly pursuing the
-periphery.
-
-## See Also
-- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
-- [[mahayana-hinayana-natural-farming]]
-- [[fukuoka-mahayana-and-hinayana-natural-farming]]

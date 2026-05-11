@@ -2,7 +2,7 @@
 title: "Morus rubra"
 type: species
 tags:
-  - permaculture
+  - [[permaculture]]
   - fruit-tree
   - moraceae
   - native-plant
@@ -28,7 +28,7 @@ It produces sweet, dark reddish-purple berries that have been used as food by In
 
 Red mulberry is closely related to the white mulberry (**[[morus-nigra]]**), but is distinguished by its larger, sandpaper-textured leaves and deeper fruit color.
 
-The species is ecologically significant as a food source for birds, mammals, and insects, and is increasingly valued in permaculture and food-forest design.
+The species is ecologically significant as a food source for birds, mammals, and insects, and is increasingly valued in permaculture and [[food-forest]] design.
 
 ## Taxonomy and Morphology
 
@@ -87,33 +87,3 @@ Nutritional profile: high in vitamin C, vitamin K, iron, and anthocyanin antioxi
 Red mulberry fruit has a higher antioxidant capacity than white mulberry, attributed to its darker pigmentation.
 
 Indigenous American peoples traditionally used the fruit fresh and dried, and prepared a purple dye from the berry juice.
-
-The wood is relatively soft and has limited commercial use, though it is occasionally employed for fence posts and rustic furniture.
-
-## Cultivation and Permaculture Applications
-
-Red mulberry is hardy in USDA zones 4–9 and is relatively easy to establish from seed or transplant.
-
-**Propagation:** Seeds require cold stratification (60–90 days at 1–5°C). Softwood cuttings and layering are also effective.
-
-**Growth rate:** Moderate, typically 30–60 cm per year in favorable conditions.
-
-Trees begin bearing fruit at 5–10 years of age when grown from seed.
-
-**Pollination:** Dioecious trees require both male and female specimens for fruit production. Monoecious individuals are self-fertile.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], red mulberry serves multiple functions: food production, wildlife habitat, [[permplant-willows-salix-erosion-control-fodder]], and shade.
-
-It integrates well into food-forest guilds with nitrogen-fixing companions like **comfrey**.
-
-The extended fruiting period provides a reliable food source during the mid-summer gap between spring berries and fall fruit.
-
-Compared to white mulberry, red mulberry is more cold-hardy and produces larger, tastier fruit, making it the preferred choice for cold-climate permaculture.
-
-## See Also
-
-- [[morus-alba]]
-- [[pawpaw]]
-- [[tilia-cordata]]
-- [[robinia-pseudoacacia]]
-- [[castanea-mollissima]]

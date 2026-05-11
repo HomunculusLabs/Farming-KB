@@ -87,33 +87,3 @@ Blesching frames the practical application of these molecular-emotional insights
 **Reducing constricting emotions through constructive expression and processing.** This may involve therapeutic work, journaling, physical exercise, creative expression, or other modalities that allow stuck emotional energy to move and resolve.
 
 **Fostering expansive emotions that support the body's healing abilities.** Practices such as gratitude exercises, loving-kindness meditation, social connection, and engagement with meaningful work all promote the molecular states associated with healing and well-being.
-
-**Using the two-directional nature of emotions and molecular production for self-directed health optimization.** The molecular-emotional correspondences provide a concrete, evidence-based roadmap: knowing that fear produces adrenaline and that calm produces GABA gives the individual specific targets for conscious intervention.
-
-The evidence-based patterns of molecular-emotional correspondence provide a framework for this work. By understanding which molecules are associated with which emotional states, and how the ECS modulates these relationships, individuals can make more informed choices about emotional practices, therapeutic approaches, and cannabinoid-based interventions to support their health and well-being.
-
-## Implications for Cannabis Therapeutics
-
-The molecular-emotional framework has direct implications for how cannabis-based medicines may be used in therapeutic contexts. If the ECS serves as a modulator of the molecular-emotional interface, then cannabinoid therapies could potentially be optimized not just for physical symptom relief but for their emotional-molecular effects as well.
-
-Different cannabinoid profiles may support different therapeutic goals within mind-body medicine. Preparations that enhance anandamide signaling (through FAAH inhibition or CB1 agonism) may support the cultivation of ease and contentment. CBD's modulation of serotonin receptors (5-HT1A) may support happiness and well-being. THC's influence on GABA transmission may promote relaxation and emotional release. Understanding these specific molecular pathways allows for more intentional and personalized therapeutic cannabis use.
-
-This perspective also suggests that cannabis-based therapies may be most effective when combined with conscious emotional work — the plant ally providing biological support for the psychological and spiritual processes of healing, rather than serving as a standalone intervention that bypasses the emotional dimension of illness.
-
-## Summary
-
-The molecular-emotional framework synthesized from Blesching's work presents a compelling case that emotions are not merely psychological phenomena but are intimately connected to the body's biochemical landscape. The endocannabinoid system serves as a key modulator of this interface, providing both a scientific explanation for the efficacy of mind-body medicine practices and a potential pharmacological target for supporting emotional healing.
-
-The twelve molecules catalogued here — six expansive and six constricting — represent a practical map for understanding how emotional states translate into physiological outcomes and how conscious intervention in either direction can support health and well-being. By working with these molecular-emotional correspondences through appropriate expression, therapeutic support, and targeted cannabinoid use, individuals can actively participate in their own healing process at the most fundamental biological level.
-
-## See Also
-
-- [[blesching-mind-body-medicine-psychosomatic-foundations]]
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-cortisol-stress-endocannabinoid-system]]
-- [[blesching-cannabis-dopamine-endocannabinoid-system]]
-
-## Sources
-
-- Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books. Chapter II: The Art and Science of Mind-Body Medicine.
-- Pert, C. (1997). *Molecules of Emotion*. Scribner.

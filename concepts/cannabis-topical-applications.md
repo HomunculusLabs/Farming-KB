@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Topical Applications
 
@@ -14,7 +15,7 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 ## How Cannabis Topicals Work
 
 ### The Endocannabinoid System in Skin
-- Human skin contains CB1 and CB2 cannabinoid receptors
+- Human skin contains CB1 and CB2 [[cannabinoid-receptors-cb1-and-cb2]]
 - CB2 receptors are concentrated in immune cells, hair follicles, and sebaceous glands
 - Topical cannabinoids activate these local receptors without systemic absorption
 - This produces localized anti-inflammatory, analgesic, and anti-proliferative effects
@@ -28,11 +29,11 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 ## Types of Topical Products
 
 ### Salves and Balms
-- Oil-based: cannabis-infused coconut oil, olive oil, shea butter, beeswax
+- Oil-based: cannabis-infused coconut oil, [[olive-cultivation-and-olive-oil-production]], shea butter, beeswax
 - Thick, protective barrier on skin
 - Best for: arthritis, joint pain, muscle soreness, dry/irritated skin
 - Easy to make at home (see recipe below)
-- Shelf life: 3-6 months
+- [[ingham-aact-holding-time-shelf-life-decay]]: 3-6 months
 
 ### Creams and Lotions
 - Water-based emulsions with [[cervantes-hash-cannabis-oil-production]]
@@ -43,7 +44,7 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 ### Oils and Serums
 - Pure cannabis-infused carrier oil (coconut, jojoba, hemp seed)
 - Concentrated, versatile
-- Best for: facial care, scalp treatment, targeted pain relief
+- Best for: facial care, scalp treatment, targeted [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]]
 - Can be added to baths (cannabis bath bomb/soak)
 
 ### Transdermal Patches
@@ -54,7 +55,7 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 - Best for: [[cannabis-chronic-pain-management]], fibromyalgia, neuropathy
 
 ### Cannabis Bath Products
-- Bath salts, bombs, soaks infused with cannabis oil or Epsom salt + cannabis
+- Bath salts, bombs, soaks infused with [[cannabis-oil-capsules-preparation]] or Epsom salt + cannabis
 - Full-body absorption through warm water
 - Relaxing, anti-inflammatory
 - Not psychoactive (unless very large amounts used)
@@ -87,36 +88,3 @@ Topical cannabis products — salves, balms, creams, oils, and patches — deliv
 - 1 cup carrier oil (coconut oil, olive oil, or combination)
 - 1/4 cup decarboxylated [[cervantes-cannabis-flower-anatomy]] (CBD-rich for non-psychoactive, THC-rich for stronger effect)
 - 1/4 cup beeswax (adjust for harder/softer consistency)
-- 10-20 drops [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (optional: lavender, peppermint, arnica)
-
-**Method:**
-1. Combine carrier oil and decarboxylated cannabis in a double boiler
-2. Simmer on low heat (160-180°F) for 2-3 hours, stirring occasionally
-3. Strain through cheesecloth into a clean jar
-4. Return infused oil to double boiler, add beeswax
-5. Heat until beeswax melts, stirring to combine
-6. Remove from heat, add essential oils
-7. Pour into tins or jars
-8. Cool to room temperature, then refrigerate to set
-9. Store in cool, dark place. Shelf life: 3-6 months
-
-### Potency
-- 1/4 cup (~7g) of 15% THC flower in 1 cup oil = approximately 1,050mg THC total
-- 1 teaspoon of salve = approximately 25-35mg THC (depending on yield)
-- Apply liberally — no psychoactive effect regardless of amount
-
-## Terpene-Enhanced Topicals
-
-Adding specific terpenes enhances topical effectiveness:
-
-| Terpene | Effect | Source |
-|---|---|---|
-| Beta-caryophyllene | Anti-inflammatory (CB2 agonist), analgesic | [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cannabis |
-| Myrcene | Analgesic, muscle relaxant | Hops, lemongrass, mango, cannabis |
-| Linalool | Anti-anxiety, anti-inflammatory | Lavender, cannabis |
-| Pinene | Anti-inflammatory, bronchodilator | Pine needles, rosemary, cannabis |
-| Limonene | Antioxidant, skin penetration enhancer | Citrus rind, cannabis |
-
-See [[cannabis-health-index]] — for conditions and cannabinoid recommendations
-- [[cannabis-cbd-therapeutic-profile]] — for CBD-specific therapeutics
-- [[cannabis-for-gastrointestinal-conditions]] for constipation management - [[cannabis-for-post-surgery-wounds]] for tissue healing applications - [[cannabis-health-index]] for the CHI methodology The complete absence of modern controlled studies represents the most significant limitation. In the Western world, about half the population has experienced some form of symptomatic hemorrhoidal issue.

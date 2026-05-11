@@ -1,5 +1,5 @@
 ---
-title: "dighton nitrogen deposition mycorrhizal community shifts Effects on Mycorrhizal Communities"
+title: Dighton Nitrogen Deposition Mycorrhizal Community Shifts
 created: 2026-04-26
 tags:
   - mycology
@@ -29,7 +29,7 @@ Arnolds (1989a,b; 1991; 1997) documented declines in ectomycorrhizal
 fruit bodies and increases in saprotrophic and pathogenic fungal fruit
 bodies in The Netherlands, associated with a combination of acidifying
 pollutants and particularly nitrogen deposition. In healthy forest
-ecosystems, fruit bodies of mycorrhizal fungi typically form 45 to 50%
+ecosystems, fruit bodies [[query-what-are-the-different-types-of-mycorrhizal-fungi]] typically form 45 to 50%
 of all fruit bodies found, but in polluted stands only about 10% of
 fruit bodies were of mycorrhizal origin. Fellner and Peskova (1995)
 identified stages of forest decline using the macrofungal ratio of
@@ -44,7 +44,7 @@ receiving additional 35 kg per hectare per year N and roofed plots
 excluding N deposition. PCA analysis showed that dominant genera
 Cortinarius and Russula were reduced in abundance by additional N,
 Lactarius showed little change, and specific species such as Paxillus
-involutus and Lactarius rufus increased with added N. Jonsson (1998)
+involutus and [[lactarius-rufus]] increased with added N. Jonsson (1998)
 found only 1 to 4% correspondence between fruit body species and
 mycorrhizae on roots, showing that fruit body surveys may not reliably
 reflect below-ground [[core-endorhiza-bacterial-community-composition-cannabis]].
@@ -52,7 +52,7 @@ reflect below-ground [[core-endorhiza-bacterial-community-composition-cannabis]]
 ## Cessation of Fruiting at High N
 
 Ruhling and Tyler (1991) showed that addition of three times ambient
-N deposition (65 and 198 kg N per hectare per year as ammonium nitrate)
+N deposition (65 and 198 kg N per hectare per year as [[plant-available-nitrogen-ammonium-nitrate]])
 in beech woodlands caused near-complete cessation of mycorrhizal fungal
 fruiting. Meanwhile, leaf litter-inhabiting saprotrophic fungal species
 increased fruiting, including species of Mycena, Clitocybe, Lepista,
@@ -74,7 +74,7 @@ colonization rates alone would indicate.
 
 Arnebrant (1994) showed that addition of ammonium sulfate and ammonium
 nitrate at 1 to 4 mg per gram peat significantly reduced mycelial
-growth of Paxillus involutus and Suillus bovinus on lodgepole pine.
+growth of [[paxillus-involutus]] and [[suillus-bovinus]] on lodgepole pine.
 Conversely, Kieliszewska-Rokicka (1992) found small amounts of NH4-N
 increased both growth and acid [[mycorrhizal-phosphatase-activity-elf97-detection]] of Paxillus involutus
 mycelia, possibly through temporary phosphate deficiency stimulating
@@ -88,40 +88,3 @@ Carreira et al. (2000) showed that [[dighton-fungi-acidifying-pollutants-forest-
 inorganic P subcycle by increasing P sorption capacity and decreasing
 labile P concentration. Acid phosphatase activity in soil decreased from
 382 to 263 mg pNP per hour per gram under acid misting. N saturation
-may also reduce P availability through increased plant demand. This
-supports Liebig's Law of the Minimum, with potassium and phosphorus
-becoming increasingly limiting as N addition increases.
-
-## Heathland Ecosystem Effects
-
-Johansson (2000) found no significant effects of adding ammonium nitrate
-at 0 to 75 kg per hectare per year N on root production or mycorrhizal
-colonization of heather (Calluna vulgaris), concluding that heather
-decline under elevated N deposition is unlikely caused by direct impacts
-on ericoid mycorrhizae. However, the shift in competitive balance among
-plant species toward nitrophilic species indirectly affects fungal
-communities.
-
-## Red Data Lists and Conservation
-
-Arnolds' observations of fungal species loss led to the adoption of
-"red data" lists for the conservation of fungal species (Arnolds,
-1989b; 1997). A call for inclusion of fungi and nonvascular plants in
-species conservation lists has been adopted in the United Kingdom
-(Watling, 1999). This action results from the fear of loss of fungal
-species due to anthropogenic influences including nitrogen deposition,
-acidifying pollutants, and habitat destruction.
-
-## See Also
-
-- [[dighton-saprotroph-mycorrhizal-litter-interactions]]
-- [[dighton-aquatic-hyphomycete-conidia-community-dynamics]]
-
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[dighton-mycorrhizal-succession-forest-ecosystems]]
-- [[dighton-fungal-greenhouse-gas-nitrogen-saturation]]
-
-## Sources
-
-- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
-  Chapter 6: [[singh-fungal-interactions-with-heavy-metals-in-soil]] with Humans.

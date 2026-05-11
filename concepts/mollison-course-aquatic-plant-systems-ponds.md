@@ -1,12 +1,13 @@
 ---
-title: Aquatic Plant Systems and comparison-pond-design-vs-dam-construction
+title: Mollison Course Aquatic Plant Systems Ponds
 created: 2026-04-28
-tags: [permaculture], aquaculture, ponds, aquatic-plants, water-storage, 
+tags: [[permaculture]], aquaculture, ponds, aquatic-plants, water-storage, 
 wetland, duck-potato, wild-rice, watercress, mussels, algae, 
 sewage-treatment, bio-remediation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -35,7 +36,7 @@ there, forming large tubers.
 
 ## Key Aquatic Species
 
-Certain trees grow where the water table is very shallow, only three or
+Certain [[fukuoka-shrine-grove-trees-grow-without-human-aid]] where the water table is very shallow, only three or
 four feet down. This is a poplar spot or a willow spot. Some swamp trees
 produce the most durable woods in the world, and some of them are the
 lightest woods in the world. They hold water in the stems. A lot of them
@@ -87,41 +88,9 @@ living forms and particle and shoots them out and buries them. Of all
 plants, animals, seeds, anything, the mussels are the superior phosphorus
 fixer.
 
-Always include those mussels as decomposers in any pond design. They are
-a valuable part of the pond to be harvested only modestly for chicken
-grit. The pH in ponds is between 6 and 8, that is, it is 100 to 200 times
-lower in acid than most garden soils. Most things in the pond like lime.
-
-## Ducks and Pond Integration
-
-You can figure on eight ducks to a [[fukuoka-agriculture-tomorrow-quarter-acre-vision]]. But the more ducks you
-put on, the more manure you get. Ducks give you an additional crop, and
-they greatly assist the turnover of the energy in the pond. Wild rice is
-good in this situation because it comes up in the [[comparison-cannabis-vegetative-stage-vs-flowering-stage]], and
-grows well above the duck.
-
-Mulberries are great feed for stock in water, as well as on land. White
-mulberries are used extensively throughout the ponds and paddies of Asia.
-We want careful adjustment of maybe 20 species of plants and small animals
-low on the trophic ladder, including shrimps, yabbies, crayfish, catfish,
-edge plants, pond plants, and ducks.
-
-## Pond as Multi-Function Systems
-
-Wherever you build your pond, don't forget its other functions: barrier
-functions, fencing functions. Often a long pond in the valley saves you a
-half a mile of fences. The pond has reflection functions and fire
-protection functions. It's a heat store. It usually becomes a recreational
-area.
-
-Sewage should be turned out into a marsh, not a pond. In that marsh, grow
-your mints, your bog plants. When it has passed through that, it has no
-solids left at all. It still holds a lot of dissolved nutrients, mainly
-phosphates and nitrates. You can let that go into your pond.
-
 ## See Also
-
-- [[mollison-course-swales-and-earthworks-design]] for swale-fed ponds
-- [[mollison-course-coppice-forest-management]] for forest water systems
-- permaculture-water-pond-systems-design-course
-- [[permaculture]]
+- [[mollison-free-range-pig-systems]]
+- [[mollison-goats-and-browsing-systems-in-permaculture]]
+- [[mollison-shade-systems-and-canopy-architecture]]
+- [[human-vs-plant-photoreceptor-systems-comparison]]
+- [[mollison-pdc-trellis-systems-climate-control]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom Culinary Preparation and Cooking
+title: Duggar Mushroom Culinary Preparation And Cooking
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -14,15 +14,15 @@ sources:
 
 # Mushroom Culinary Preparation and Cooking
 
-Duggar's 1915 treatise on mushroom growing devotes an entire chapter to
+Duggar's 1915 treatise on [[duggar-mushroom-growing-history-and-methods]] devotes an entire chapter to
 mushrooms for the table, reflecting the era's growing appreciation for the
 cultivated mushroom as a kitchen staple. His guidance on selection,
-preparation, and cooking methods offers a window into early twentieth-century
-culinary practice and remains remarkably relevant to modern mushroom cookery.
+preparation, and [[solar-cooking-methods]] offers a window into early twentieth-century
+culinary practice and remains remarkably relevant to [[modern-mushroom-festival-culture]] cookery.
 
 ## Selection and Freshness
 
-The impression that cultivated mushrooms must be consumed immediately is
+The impression that [[fungi-cultivated-mushrooms-pathogens-competitors]] must be consumed immediately is
 partly mistaken. When properly gathered and marketed in relatively small,
 well-aerated containers, mushrooms keep for two to three days even in warm
 weather. In a cold, dry place or a properly maintained refrigerator, they
@@ -76,51 +76,15 @@ lemon juice brightens the finished dish.
 
 The mushroom's own juices, released during cooking, form the basis of
 sauces and reductions. These natural liquids carry the mushroom's
-characteristic [[umami]] flavor, which was not yet understood chemically
+characteristic umami flavor, which was not yet understood chemically
 in 1915 but was appreciated instinctively by experienced cooks.
 
 ## Historical Context
 
 The cultivation of [[agaricus-bisporus-cultivation-biology]] in the early
-twentieth century was still largely a specialized enterprise, and the
+[[coleman-louis-savier-twentieth-century-maraicher]] was still largely a specialized enterprise, and the
 majority of mushrooms reaching urban markets came from dedicated growers
 operating cellars and caves near major cities. The growing appreciation
 for mushroom cookery was part of a broader movement toward more
 sophisticated American cuisine, influenced by French culinary traditions
 where mushrooms had long been a staple.
-
-Duggar's emphasis on proper handling and preparation reflects the period's
-concern with food safety, as mushroom poisoning remained a genuine public
-health issue. By promoting the consumption of reliably identified
-cultivated mushrooms, advocates like Duggar helped shift public perception
-of mushrooms from dangerous wild organisms to safe, desirable foods.
-
-## Preservation Methods
-
-While Duggar's primary focus is on fresh consumption, he acknowledges
-several preservation approaches. Drying was the most common historical
-method, particularly for wild mushrooms like morels, which reconstitute
-well for soups and sauces. Pickling in vinegar was practiced for certain
-species, and canning became increasingly feasible as the technology
-improved. The fundamental challenge in all preservation is the mushroom's
-high water content, which makes it highly perishable and susceptible to
-bacterial and fungal contamination once harvested.
-
-## Nutritional Value
-
-Duggar discusses the food value of mushrooms at length, noting that while
-they are not calorie-dense, they offer meaningful nutritional benefits.
-They provide protein, B vitamins, and minerals in a low-calorie package.
-The protein content of fresh mushrooms, while modest compared to meat,
-compares favorably with most vegetables. This nutritional profile made
-mushrooms a valued addition to diets that might otherwise be limited in
-variety.
-
-## See Also
-
-- [[agaricus-campestris-morphology-and-life-cycle]]
-- [[agaricus-bisporus-cultivation-biology]]
-- [[duggar-mushroom-harvest-and-post-harvest]]
-- [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]]
-- [[falconer-mushroom-cooking-selection-and-preparation]]
-- [[duggar-mushroom-economics]]

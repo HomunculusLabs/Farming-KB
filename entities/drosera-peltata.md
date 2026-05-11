@@ -88,32 +88,3 @@ Pollinators are not well documented but likely include small [[query-how-to-attr
 The seasonal growth cycle of D. peltata is synchronized with the Mediterranean-type climate of southern Australia. Active growth occurs during the cool, moist winter and spring months, with dormancy initiated as soils dry in summer.
 
 Plants typically emerge 2–4 weeks after the first significant autumn rains. The above-ground growth phase lasts approximately 4–6 months before senescence and return to dormancy.
-
-The species is not considered threatened at a national level in Australia, though local populations may be impacted by habitat clearing, drainage of wetlands, and changes to fire regimes. It remains common and widespread across much of its range.
-
-## Cultivation
-
-D. peltata is one of the easier tuberous sundews to cultivate, making it a good introductory species for growers interested in this group. It requires a pronounced dry summer dormancy period, during which the tubers must be kept completely dry.
-
-The most common cultivation failure with tuberous Drosera is keeping the tubers too wet during dormancy, which causes fungal rot and death. Proper drying is essential for survival.
-
-Standard cultivation uses a sandy peat mix in deep pots to accommodate the tuber. During the active growing season, the substrate is kept moist to wet. As foliage begins to yellow and die back in late spring, watering is gradually reduced.
-
-Tubers should be stored dry in their pots during summer at temperatures of 15–25°C. Some growers remove dormant tubers and store them in dry peat or sphagnum. New growth typically emerges in autumn with the return of cooler, wetter conditions.
-
-Propagation is primarily from seed, which requires a cold stratification period for reliable germination. Vegetative propagation through tuber division is possible but slow, as each tuber typically produces only one or two offsets per season.
-
-The species is not commonly available in the commercial carnivorous plant trade but circulates among specialist growers and societies. Seed exchange programs are the primary means of distribution.
-
-## See Also
-
-- [[drosera-rotundifolia]]
-- [[drosera-burmannii]]
-- [[drosera-regia]]
-- [[drosera-scorpioides]]
-- [[pinguicula-esseriana]]
-- [[byblis-liniflora]]
-- [[drosophyllum-lusitanicum]]
-- [[aldrovanda-vesiculosa]]
-- [[nepenthes-lowii]]
-- [[cephalotus-follicularis]]

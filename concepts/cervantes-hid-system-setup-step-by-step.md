@@ -1,5 +1,5 @@
 ---
-title: "cervantes hid system setup step by step Step-by-Step"
+title: Cervantes Hid System Setup Step By Step
 created: 2026-04-28
 tags:
   - cannabis-lighting
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -23,7 +24,7 @@ Cervantes provides a detailed seven-step process in Chapter 9 of
 
 ## Step One: Prepare the Grow Room
 
-Before setting up the HID system, complete the grow room setup
+Before setting up the HID system, complete the [[cannabis-grow-room-setup]]
 instructions from Chapter 6. Ensure the room is clean, painted with
 flat white reflective paint or covered with reflective material, and
 that ventilation is already in place. The room should be fully enclosed
@@ -86,50 +87,3 @@ wires to burn rather than the fuse. An overloaded circuit can cause a
 house fire.
 
 ## Step Five: Use Proper Extension Cords and Grounding
-
-### Extension Cords
-
-- Use at least 14-gauge wire or heavier
-- Smaller 16- or 18-gauge cord will not conduct adequate electricity
-  and will heat up, straining the entire system
-- Cut the cord to the exact length needed; electricity weakens and
-  produces more heat over longer distances
-
-### Grounding
-
-- Always use a three-prong grounded plug
-- If your home lacks three-prong outlets, buy an adapter
-- Attach the ground wire to a grounded ferrous metal object such as a
-  grounded metal pipe or heavy copper wire driven into the earth
-- You will be working with water around the HID system; water
-  conducts electricity about as well as the human body
-
-## Step Six: Mount and Secure the Bulb
-
-1. Mount the socket and hood overhead
-2. Place the ballast in position (but do not plug in yet)
-3. Screw the HID bulb finger-tight into the socket
-4. Ensure a good connection (tight but not over-tightened)
-5. Wipe off all smudges on the bulb to increase brightness
-
-## Step Seven: Power On
-
-1. Plug the three-prong plug into the timer (in the OFF position)
-2. Plug the timer into the grounded outlet
-3. Set the timer at the desired photoperiod
-4. Turn the timer on
-5. The ballast will hum and the lamp will flicker, slowly warming up
-   to full brilliance in about five minutes
-
-## Electrical Load Reference
-
-To calculate how many amps an appliance draws: add up total watts and
-divide by 120 (for standard US voltage). Ensure the total load on any
-circuit stays below 80% of its rated capacity.
-
-## See Also
-
-- [[cervantes-grow-room-electricity-basics]]
-- [[cervantes-lighting-systems]]
-- [[cervantes-metal-halide-lighting-systems]]
-- [[cervantes-reflective-hoods-light-distribution]]

@@ -14,8 +14,8 @@ sources:
   - Hu, S.Y. (1979). "Ailanthus." Arnold Arboretum Journal, 60(1): 1–35.
   - Fryer, J.L. (2010). "Ailanthus altissima." USDA Forest Service Fire Effects Information System.
   - Kowarik, I. & Säumel, I. (2007). "Biological Flora of Central Europe: Ailanthus altissima." Perspectives in Plant Ecology, 9(4): 187–206.
-  - Rebbeck, J. et al. (2021). "Invasiveness of Ailanthus altissima." Forest Ecology and Management, 491: 119157.
-  - Ding, J. et al. (2006). "Chinese Tallow and Tree-of-Heaven in the US." Biological Invasions, 8(5): 955–966.
+  - Rebbeck, J. et al. (2021). "Invasiveness of Ailanthus altissima." Forest [[nematode-management]], 491: 119157.
+  - Ding, J. et al. (2006). "[[chinese-tallow-tree]] and Tree-of-Heaven in the US." Biological Invasions, 8(5): 955–966.
 ---
 
 # Ailanthus altissima
@@ -39,7 +39,7 @@ Tree of heaven can reach 15–25 m in height with a DBH of 40–80 cm, though ex
 
 The genus *Ailanthus* contains approximately 5–10 species distributed across tropical and temperate Asia and northern Australia. *A. altissima* is the only species widely naturalized outside its native range. The genus name derives from the Ambonese word *ailanto*, meaning "tree of heaven," referring to its impressive height and rapid growth. The specific epithet *altissima* means "tallest."
 
-Chromosome number is 2n = 64 (tetraploid). Genetic studies have revealed relatively low genetic diversity in introduced populations compared to native Chinese populations, suggesting multiple independent introductions. Tetraploidy contributes to the species' adaptability and environmental tolerance. Polyploid genomes provide greater genetic buffering against environmental stress, allowing the species to thrive in the highly variable conditions of urban and disturbed habitats where it most commonly occurs.
+Chromosome number is 2n = 64 (tetraploid). Genetic studies have revealed relatively low [[biodiversity-fungal-genetic-diversity]] in introduced populations compared to native Chinese populations, suggesting multiple independent introductions. Tetraploidy contributes to the species' adaptability and environmental tolerance. Polyploid genomes provide greater genetic buffering against environmental stress, allowing the species to thrive in the highly variable conditions of urban and disturbed habitats where it most commonly occurs.
 
 The Simaroubaceae is a small family of approximately 20 genera and 100 species, predominantly tropical in distribution. The family is characterized by bitter, quassinoid-containing bark and wood. Most Simaroubaceae are tropical trees and shrubs, making *A. altissima* unusual as a temperate-zone representative of the family.
 
@@ -57,7 +57,7 @@ Root suckering can extend colonies 10–20 m from the parent tree within a few y
 
 ## Distribution and Habitat
 
-*Ailanthus altissima* is native to northern and central China, with native populations also occurring in Taiwan and Korea. The species has been introduced to every inhabited continent and is naturalized across much of Europe, North America, South America, Africa, and Australia. In North America, it occurs from southern Canada to Florida and from the Atlantic coast to California.
+*Ailanthus altissima* is native to northern and central China, with native populations also occurring in Taiwan and Korea. The species has been introduced to every inhabited continent and is naturalized across much of Europe, [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Africa, and Australia. In North America, it occurs from southern Canada to Florida and from the Atlantic coast to California.
 
 The species is a classic urban weed tree, colonizing vacant lots, railroad embankments, highway medians, industrial sites, and disturbed urban soils. It tolerates air pollution, compacted soils, drought, heat, and low-nutrient substrates that exclude most other tree species. In natural areas, it invades forest edges, riparian corridors, and recently burned or logged sites.
 
@@ -67,7 +67,7 @@ The species demonstrates remarkable physiological plasticity. Photosynthetic rat
 
 ## Ecological Impact
 
-Tree of heaven is among the most ecologically damaging invasive tree species in temperate regions. Its impacts include displacement of native vegetation through competition and allelopathy, alteration of soil chemistry, and provision of suboptimal habitat for native fauna. Allelopathic compounds (primarily ailanthone) inhibit germination and growth of competing plant species.
+Tree of heaven is among the most ecologically damaging invasive tree species in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Its impacts include displacement of native vegetation through competition and allelopathy, alteration of soil chemistry, and provision of suboptimal habitat for native fauna. Allelopathic compounds (primarily ailanthone) inhibit germination and growth of competing plant species.
 
 The species forms dense clonal colonies through root suckering, excluding native herbaceous and woody species. These monocultures reduce plant diversity and alter [[fungal-ecosystem-processes-overview]] including [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and decomposition. Allelopathic effects are strongest in the root zone but also occur through leaf litter leachates.
 
@@ -88,25 +88,3 @@ Prevention of establishment is more effective than eradication of established po
 Female trees can be identified before seed maturation by their larger, more conspicuous inflorescences. Selective removal of female trees while retaining males (which do not produce seed) can reduce spread while maintaining some urban canopy cover. However, root suckering from remaining trees may eventually produce female shoots.
 
 ## Uses
-
-Despite its invasive status, tree of heaven has several traditional and practical uses. In traditional Chinese medicine, the bark (*chunpi*) has been used for over 2,000 years to treat diarrhea, dysentery, and tapeworm infections. Quassinoid compounds isolated from the bark, particularly ailanthone, have demonstrated antimalarial, antitumor, and insecticidal properties.
-
-The wood is light, soft, and moderately strong, with a specific gravity of approximately 0.50. It has been used for pulpwood, crate lumber, and fiberboard, though its limited commercial availability and tendency to warp restrict wider use. In China, the species is managed in short-rotation coppice systems for [[dighton-fungal-biomass-production-aquatic-ecosystems]].
-
-The species has been investigated for phytoremediation of contaminated soils. Studies have demonstrated its ability to accumulate heavy metals including cadmium, lead, and zinc in root and leaf tissues, suggesting potential applications in stabilizing former industrial sites. However, this same characteristic raises concerns about contaminant transfer through leaf litter and fruit consumption by wildlife.
-
-The species has also been studied as a potential bioenergy crop in China and India. Its rapid growth, coppicing ability, and tolerance of marginal soils make it attractive for short-rotation biomass production. However, invasiveness concerns have prevented adoption outside its native range. In its native China, it is managed as a productive coppice species for firewood and [[mollison-designers-charcoal-production-biochar-soil-amendment]].
-
-The distinctive compound leaves and samaras make the species recognizable even to casual observers. The strong odor of crushed foliage is a reliable identification feature that distinguishes it from look-alikes including sumacs (*Rhus* spp.) and walnuts (*Juglans* spp.). Educational campaigns targeting early detection often emphasize this characteristic.
-
-## See Also
-
-- [[toona-sinensis]]
-- [[robinia-pseudoacacia]]
-- [[paulownia-tomentosa]]
-- [[acer-negundo]]
-- [[broussonetia-papyrifera]]
-- [[morus-alba]]
-- [[gleditsia-triacanthos]]
-- [[celtis-occidentalis]]
-- [[ulmus-parvifolia]]

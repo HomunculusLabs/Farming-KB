@@ -88,25 +88,3 @@ soaps, and detergents.
 
 In the cannabis industry, isolated linalool is a common component of terpene
 formulation blends used to enhance vape cartridges, topicals, and tinctures.
-Its calming profile makes it particularly popular in products marketed for
-relaxation, sleep, and anxiety relief. Food-grade linalool from natural
-sources is preferred for these applications.
-
-## Drug Interactions
-
-Linalool's modulation of GABA-A receptors may potentiate the effects of other
-GABAergic substances including benzodiazepines, barbiturates, and alcohol.
-This interaction could enhance sedative effects but also increase the risk
-of excessive CNS depression when combined with these agents. Linalool may
-also interact with cytochrome P450 enzymes, potentially altering the
-metabolism of pharmaceuticals processed through hepatic oxidation pathways.
-These considerations are relevant for cannabis preparations that combine
-linalool-rich cultivars with other sedating compounds.
-
-Related: [[oner-cannabis-terpene-profiles-effects]]
-
-See also: [[cannabis-evidence-based-medicine-chi-methodology]]
-
-## See Also
-
-- [[la-confidential]]

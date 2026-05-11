@@ -11,15 +11,15 @@ type: concept
 # [[cannabis-breeding-fundamentals]]. While
 it is possible to breed Cannabis with limited success without knowledge
 of genetics, the full potential of diligent breeding is realized only
-by those who master Mendelian inheritance patterns. This page covers
-the fundamental genetic principles that govern Cannabis propagation and
+by those who master [[cannabis-chromosomes-and-mendelian-inheritance]] patterns. This page covers
+the fundamental genetic principles that govern [[cannabis-propagation-sexual-vs-asexual-clarke]] and
 the practical application of these principles in breeding programs.
 
 ## Chromosome Basics
 
 In Cannabis, the haploid (n) number of chromosomes is 10 and the
 diploid (2n) number is 20. Each chromosome contains hundreds of genes
-influencing every phase of plant growth and development. Pollen and
+influencing every phase of plant [[cytokinin-plant-growth-and-development]]. Pollen and
 ovules are known as gametes, each carrying one set of genes (haploid,
 n=10). Upon fertilization, one set from each parent combines to form
 a seed with two sets (diploid, 2n=20).
@@ -88,47 +88,3 @@ Clarke provides six essential points for Cannabis breeders:
 3. When gene pairs differ in effect, the plant is termed hybrid or
    heterozygous.
 4. When gene pairs are equal in effect, the plant is termed true-
-   breeding or homozygous.
-5. Pairs of genes controlling different traits are usually inherited
-   independently.
-6. Dominance relations and gene interaction can alter phenotype ratios.
-
-## Polyploidy
-
-Polyploidy, the condition of multiple chromosome sets within one cell,
-does not occur naturally in Cannabis but can be induced with
-colchicine treatments. Tetraploid (4n) Cannabis often exceeds diploid
-height by 25-30% with intensely colored foliage. Research by De
-Pasquale et al. (1979) showed colchicine-treated plants exhibited
-166-250% increases in THC with decreases in CBD (30-33%) and CBN
-(39-65%). However, polyploids require more water, have extended
-vegetative cycles, and tend to revert to diploid condition in
-subsequent generations.
-
-## Chromosome Mapping
-
-Menzel (1964) provided a crude chromosome map of Cannabis. Chromosome
-1 has a large knob and dark chromomere. Chromosome 7 is extremely
-short and dense. Chromosome 8 is the presumed sex chromosome. Future
-chromosome mapping will enable geneticists to determine the number and
-location of genes influencing important traits, potentially allowing
-precise manipulation of the [[cannabis-gene-pool-preservation-acclimatization-clarke]].
-
-## Practical Breeding Considerations
-
-All Cannabis grown in [[psilocybin-north-america-pacific-northwest]] originated from foreign lands.
-Natural selection and human seed-saving created native strains with
-localized disease and climate resistance. The breeder's task is to
-select favorable phenotypes through controlled crosses, maintaining
-accurate records of parentage and results. Imported strains usually
-exhibit great seedling diversity, and only one or two individuals out
-of many may prove acceptable as parents for a breeding program.
-
-## Related
-
-- [[clarke-marijuana-botany-flowering-and-photoperiodism]] Topics
-
-- [[cannabis-sinsemilla-life-cycle]] Cycle of Cannabis
-- [[clarke-marijuana-botany-trichome-biology]]
-- Cannabinoid Chemotypes and Biosynthesis
-- Cannabis Classification and History

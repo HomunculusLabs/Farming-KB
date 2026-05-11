@@ -24,7 +24,7 @@ sources:
 
 It is native to [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where its large, starchy taproot has been used as a food crop and medicinal plant for centuries.
 
-The species is closely related to the American pokeweed (*Phytolacca americana*) but is distinguished by its smaller stature and different root morphology.
+The species is closely related to the American pokeweed (*[[phytolacca-americana]]*) but is distinguished by its smaller stature and different root morphology.
 
 ## Taxonomy and Morphology
 
@@ -34,7 +34,7 @@ The genus name *Phytolacca* derives from the Greek *phyton* (plant) and *lacca* 
 
 The specific epithet *esculenta* means "edible," highlighting the traditional use of the processed root as food.
 
-Plants are herbaceous perennials, typically 50–120 cm tall, dying back to the ground each winter.
+Plants are [[permaculture-plants-herbaceous-perennials]], typically 50–120 cm tall, dying back to the ground each winter.
 
 The root system consists of a large, fleshy, conical taproot 15–30 cm long and 5–10 cm in diameter at the crown.
 
@@ -62,7 +62,7 @@ The species grows in forest margins, thickets, grassy slopes, and disturbed site
 
 It prefers rich, moist, well-drained soils in partial shade to full sun.
 
-The plant is adapted to temperate and subtropical climates with warm summers and moderate winters.
+The plant is adapted to temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with warm summers and moderate winters.
 
 It has been introduced to parts of Europe and [[psilocybin-north-america-pacific-northwest]] as a curiosity or medicinal plant but has not become widely naturalized.
 
@@ -82,55 +82,8 @@ In Chinese cuisine, the prepared root is used in stir-fries, soups, and stews, p
 
 The processed root is also dried and ground into a starchy flour used as a thickening agent.
 
-Young shoots, after boiling in multiple water changes, are occasionally consumed as a seasonal vegetable.
+Young shoots, after boiling in multiple water changes, are occasionally consumed as a [[seasonal-vegetable-planting]].
 
 It is important to note that the berries and all above-ground parts are toxic and should not be eaten.
 
 ## Traditional Medicine and Toxicology
-
-In traditional Chinese medicine (TCM), the root of **Phytolacca esculenta** is known as *Shanglu* (商陆).
-
-It is classified as a bitter, cold, and toxic herb used to promote urination, reduce edema, and resolve swelling.
-
-TCM practitioners prescribe the dried root for edema, ascites, nephritic swelling, and constipation.
-
-The recommended dosage in TCM is typically 3–9 grams of dried root, and it is usually combined with other herbs in decoctions.
-
-The plant's bioactive constituents include phytolaccatoxin, phytolaccigenin, and triterpenoid saponins.
-
-These compounds have demonstrated anti-inflammatory, diuretic, and immunomodulatory effects in laboratory studies.
-
-However, the [[blesching-cannabis-therapeutic-window-dosing]] is narrow, and improper preparation or excessive dosage can cause severe poisoning.
-
-Symptoms of pokeweed poisoning include abdominal pain, persistent vomiting, bloody diarrhea, and in severe cases, respiratory paralysis.
-
-Pregnant women and children are particularly vulnerable to pokeweed toxicity.
-
-## Cultivation
-
-**Phytolacca esculenta** is occasionally cultivated in China for its edible and medicinal root.
-
-It can be propagated from seed, which requires cold stratification for optimal germination.
-
-Root division of established plants in [[coleman-overwintered-onions-and-early-spring-crops]] is a reliable vegetative propagation method.
-
-Plants prefer deep, fertile, well-drained loam in full sun to partial shade.
-
-The species responds well to regular watering and moderate fertilization during the [[savory-growing-season-and-non-growing-season-management]].
-
-Roots are typically harvested in autumn, 2–3 years after planting, when they have reached sufficient size.
-
-The plant is relatively pest-free, though slugs may damage young shoots in damp conditions.
-
-## See Also
-
-- [[phytolacca-americana]]
-- [[phytolacca-dodecandra]]
-- [[dioscorea-esculenta]]
-- [[umbilicaria-esculenta]]
-
-- [[ipomoea-batatas]]
-- [[colocasia-esculenta]]
-- [[glycyrrhiza-glabra]]
-- [[taraxacum-officinale]]
-- [[arctium-lappa-entity]]

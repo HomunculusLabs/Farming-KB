@@ -1,5 +1,5 @@
 ---
-title: "Amanita phalloides"
+title: Amanita Phalloides
 created: 2026-04-28
 type: species
 tags:
@@ -26,7 +26,7 @@ sources:
 
 A single mature cap contains sufficient amatoxin to kill an adult human.
 The species is deceptively palatable and closely resembles several edible species, making misidentification the primary cause of poisoning.
-Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, causing irreversible hepatocyte and renal tubular cell death.
+Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, causing irreversible hepatocyte and renal tubular [[blesching-cannabis-apoptosis-and-cancer-cell-death]].
 
 ## Taxonomy
 
@@ -49,10 +49,10 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ## Distribution and Habitat
 
 - Native to Europe, now widespread across all inhabited continents
-- Introduced to [[psilocybin-north-america-pacific-northwest]] (both coasts), Australia, New Zealand, South America, South Africa
+- Introduced to [[psilocybin-north-america-pacific-northwest]] (both coasts), Australia, New Zealand, [[guzman-psilocybin-mushrooms-south-america]], South Africa
 - Primarily associated with broadleaf trees, especially oaks (*Quercus* spp.)
-- Also found under beech, chestnut, hazel, and some conifers (e.g., *Pinus radiata*)
-- Ectomycorrhizal — forms obligate symbiotic associations with host tree roots
+- Also found under beech, chestnut, hazel, and some conifers (e.g., *[[pinus-radiata]]*)
+- Ectomycorrhizal — forms obligate symbiotic associations with [[ectomycorrhizal-host-tree-partnerships]] roots
 - Fruits late summer to autumn (August–November in Northern Hemisphere)
 
 ## Toxicology
@@ -88,26 +88,3 @@ Its toxicity results from heat-stable amatoxins that inhibit RNA polymerase II, 
 ### Treatment
 
 - Intravenous silibinin (milk thistle extract) — blocks hepatocellular amatoxin uptake
-- High-dose penicillin G — competitive inhibition of amatoxin hepatic transport
-- N-acetylcysteine (NAC) — antioxidant support
-- Aggressive fluid resuscitation and electrolyte management
-- Liver transplantation in fulminant hepatic failure (~10% of severe cases)
-
-## Ecological Role
-
-- Important ectomycorrhizal partner in temperate hardwood forests
-- Facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] (phosphorus, nitrogen) between soil and host trees
-- Contributes to [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] stability through [[amanita-bisporigera]]* | **Deadly** | White cap, two-spored basidia |
-| *[[volvariella-volvacea]]* | Edible ([[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]) | Pink [[comparison-spore-print-collection-vs-spore-syringe-production]], grows on straw |
-| *Agaricus campestris* | Edible (meadow mushroom) | Chocolate-brown spore print, no volva |
-| *Tricholoma murrillianum* | Edible (matsutake) | Distinctive spicy odor, lacks volva |
-
-## Permaculture Relevance
-
-⚠️ Death cap poses a significant risk in permaculture food-forest systems where oak, chestnut, or hazel trees are established. The mycorrhizal association with these common permaculture tree crops means death cap will colonize designed ecosystems that mimic its natural habitat. Foragers in food forests, agroforestry systems, and broadleaf woodlands must be thoroughly trained in Amanita identification before harvesting any [[edible-wild-mushrooms-by-region]].
-
-## See Also
-
-- [[orellanine]]
-
-- [[ganoderma-lucidum]] — Edible alternative commonly cultivated on hardwood substrates

@@ -87,31 +87,3 @@ The absence of psychoactive compounds distinguishes it from the closely related 
 The species is not commercially cultivated due to its small size and lack of culinary or medicinal value.
 
 It can be grown in laboratory settings on sterilized dung or dung-based agar for study purposes.
-
-Mycelial growth is relatively fast on malt extract agar, with optimal temperatures around 25°C.
-
-Cultivation serves primarily taxonomic and ecological research purposes.
-
-In the field, the combination of viscid hemispherical cap, movable annulus on a slender stipe, and dung substrate is typically sufficient for confident identification.
-
-The species is inedible due to its small size and unpalatable texture, though it is not known to be toxic.
-
-## Similar Species
-
-*Stropharia coronilla* is similar but larger, with a scaly cap and less viscid surface, typically growing on soil rather than dung.
-
-*Psilocybe cubensis* (a synonym: *Stropharia cubensis*) shares the coprophilous habit but contains significant psilocybin, with a more robust fruiting body and darker gills.
-
-*Stropharia aeruginosa* (verdigris agaric) has a distinctive greenish-blue cap and grows on wood chips and mulch, not dung.
-
-The movable annulus and coprophilous habitat together are diagnostic for *S. semiglobata* within the genus.
-
-Microscopic features including the large, thick-walled spores with germ pore further separate it from superficially similar taxa.
-
-## See Also
-
-- [[panaeolus-cyanescens-entity]]
-- [[coprinus-comatus]]
-- [[boletus-edulis-entity]]
-- [[trametes-versicolor-entity]]
-- [[grifola-frondosa]]

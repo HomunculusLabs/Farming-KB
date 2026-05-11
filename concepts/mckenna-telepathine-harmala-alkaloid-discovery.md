@@ -88,21 +88,3 @@ flash."
 
 McKenna notes that "why such major differences should exist between compounds that appear
 to be so structurally similar is an uninvestigated problem." He further observes that
-"the whole relationship of particular kinds of visions to the compounds that elicit them
-is not well understood." These admissions of ignorance are significant — they suggest that
-the reductionist approach of identifying active compounds and mapping their receptor
-affinities captures only a fraction of what is relevant about [[leary-psychedelic-experience-bardo-mapping]].
-
-In the native areas of its use, ayahuasca is regarded as a general-purpose healing elixir
-and is called *la purga*, the purge. Its effectiveness in combating intestinal parasites
-has been proven, and its effectiveness in killing the malaria organism is now being
-investigated. The long history of effective shamanic use in folk psychiatry has been
-documented by Claudio Naranjo, Marlene Dobkin de Rios, Luis Eduardo Luna, and others.
-
-## Icaros: The Magical Songs of the Ayahuasquero
-
-One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the ayahuasca tradition is the role of icaros, or
-magical songs. McKenna explains that the ayahuasca experience includes "extremely rich
-tapestries of visual hallucination that are particularly susceptible to being 'driven' and
-directed by sound, especially vocally produced sound." Consequently, the ayahuasca-using
-cultures have developed a large repository of magical songs.

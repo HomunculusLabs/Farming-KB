@@ -88,21 +88,3 @@ infiltration rates, and greater resistance to erosion. In
 no-till systems, macroaggregate formation is driven primarily
 by fungal hyphae, while in tilled systems, aggregate formation
 shifts to bacterial-driven processes that produce less stable
-aggregates.
-
-## Measurement and Assessment
-
-Aggregate stability is typically measured using wet sieving
-methods, where soil is submerged and mechanically agitated
-to determine the proportion of aggregates that resist
-disintegration. The mean weight diameter (MWD) of aggregates
-after sieving is a standard index. GRSP is extracted using
-citrate buffer at varying temperatures and quantified through
-Bradford protein assays or immunological methods.
-
-Visual assessment of [[fungal-mycelial-networks-nutrient-translocation]] in soil thin sections
-under microscopy provides direct evidence of hyphal
-contributions to aggregation. Modern techniques like X-ray
-computed tomography (micro-CT) allow three-dimensional
-visualization of pore networks within aggregates, revealing
-how fungal hyphae create and maintain soil architecture.

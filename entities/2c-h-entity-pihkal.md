@@ -69,10 +69,10 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 ## See Also
 
 - [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
+- [[2c-e]]
 
 - PIHKAL (the source book)
-- [[2c-i-entity-pihkal]] -- 2C-I (PIHKAL #33)
+- [[2c-i]] -- 2C-I (PIHKAL #33)
 ## Practical Considerations
 
 Successful implementation of 2C-H (2,5-Dimethoxy-PEA) -- PIHKAL Entry #32 requires attention to

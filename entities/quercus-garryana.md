@@ -13,17 +13,17 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Stein, J.D. (1990). "Quercus garryana." In: Silvics of psilocybin-north-america-pacific-northwest, Vol. 2, Agriculture Handbook 654, USDA Forest Service, 650-660.
-  - Devine, W.D. & Harrington, C.A. (2007). "Restoration of Oregon white oak woodlands in the Pacific Northwest." General Technical Report PNW-GTR-707, USDA Forest Service.
+  - Devine, W.D. & Harrington, C.A. (2007). "Restoration of Oregon white oak woodlands in the [[psilocybin-north-america-pacific-northwest]]." General Technical Report PNW-GTR-707, USDA Forest Service.
   - Peter, D.H. & Harrington, C.A. (2009). "Oak ecosystems of the Pacific Northwest." General Technical Report PNW-GTR-783, USDA Forest Service.
   - Wilson, M.V. & Clark, C.W. (2001). "Controversies in the conservation of native Oregon white oak (Quercus garryana) ecosystems." Native Plants Journal, 2(2), 3-8.
-  - Agee, J.K. (1993). "Fire Ecology of Pacific Northwest Forests." Island Press, Washington, D.C.
+  - Agee, J.K. (1993). "[[fungal-diversity-fire-ecology]] of Pacific Northwest Forests." Island Press, Washington, D.C.
 ---
 
 # Quercus garryana
 
 ## Overview
 
-**Quercus garryana** Douglas ex Hook., commonly known as Oregon white oak or Garry oak, is a medium-sized deciduous tree native to western North America. It ranges from southern British Columbia to central California, forming iconic savannas and woodlands in the Willamette Valley, Puget Sound lowlands, and the eastern foothills of the Cascade Range.
+**Quercus garryana** Douglas ex Hook., commonly known as Oregon white oak or Garry oak, is a medium-sized deciduous tree native to western [[guzman-psilocybin-mushrooms-north-america]]. It ranges from southern British Columbia to central California, forming iconic savannas and woodlands in the Willamette Valley, Puget Sound lowlands, and the eastern foothills of the Cascade Range.
 
 Garry oak ecosystems are among the most endangered plant communities in the Pacific Northwest, having declined to less than 5% of their pre-settlement extent due to fire suppression, agricultural conversion, and urban development. The species is named after Nicholas Garry, deputy governor of the Hudson's Bay Company.
 
@@ -87,27 +87,4 @@ Recovery efforts include prescribed burning programs, invasive species removal, 
 
 ### Timber
 
-Garry oak wood is hard, heavy (density 0.65–0.75 g/cm³), and strong, with a light brown to reddish-brown heartwood. It has been used locally for furniture, flooring, tool handles, fence posts, and fuelwood. Commercial timber production is limited by the species' slow growth rate and the scarcity of large, straight stems.
-
-### Indigenous Uses
-
-Acorns of Garry oak were a staple food for many Indigenous peoples of the Pacific Northwest. Acorns were collected in autumn, stored, and processed through leaching (to remove bitter tannins) before being ground into meal or baked into bread. The processing required significant labor investment and was managed primarily by women. Ethnobotanical accounts document the use of specific rock outcrops and wooden mortars for acorn processing at seasonal camps.
-
-The wood was used for digging sticks, canoe paddles, and other tools. Garry oak bark and acorns had medicinal applications in several Indigenous traditions, including treatments for digestive ailments and [[cannabis-for-skin-conditions-detailed]].
-
-### Ornamental Use
-
-Garry oak is increasingly planted as a landscape and street tree in the Pacific Northwest, valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]], wildlife value, and [[ethnomycology-cultural-significance-sacred-fungi]]. It is well-suited to low-water (xeriscaped) gardens and native plant landscaping.
-
-## See Also
-
-- [[quercus-alba]]
-- [[quercus-robur]]
-- [[quercus-macrocarpa]]
-- [[quercus-ilex]]
-- [[quercus-rubra]]
-- [[pseudotsuga-menziesii]]
-- [[tsuga-heterophylla]]
-- [[pinus-ponderosa]]
-- [[arctostaphylos-patula]]
-- [[alnus-rubra]]
+Garry oak wood is hard, heavy (density 0.65–0.75 g/cm³), and strong, with a light brown to reddish-brown heartwood. It has been used locally for furniture, flooring, tool handles, fence posts, and fuelwood. Commercial [[honey-locust-pod-fodder-timber-production]] is limited by the species' [[holmgren-long-rotation-forestry-slow-growth]] rate and the scarcity of large, straight stems.

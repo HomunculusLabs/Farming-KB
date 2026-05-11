@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin-phosphorylation-via-zwitterionic-intermediate Tetrabenzylpyrophosphate
+title: Psilocybin Phosphorylation Tetrabenzylpyrophosphate Method
 created: 2026-04-28
 tags:
   - synthesis
@@ -16,7 +16,7 @@ type: concept
 # [[psilocin]] to produce psilocybin (4-phosphoryloxy-
 N,N-dimethyltryptamine) is the most challenging step in the synthesis of
 this controlled compound. Shirota, Hakamata, and Goda (2003) evaluated
-several phosphorylation methods before selecting the pyrophosphate method
+several [[phosphorylation-methods-psilocybin-production-comparison]] before selecting the pyrophosphate method
 using tetrabenzylpyrophosphate as the optimal approach for large-scale
 production. This method produces the O,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]]
 (compound 7), which then undergoes an unexpected intramolecular
@@ -27,14 +27,14 @@ rearrangement to form a zwitterionic N,O-dibenzyl phosphate derivative
 
 Psilocin presents several challenges for phosphorylation:
 
-1. **Low reactivity**: The phenolic hydroxyl at C-4 of the indole ring
+1. **Low reactivity**: The phenolic hydroxyl at C-4 of the [[indole]] ring
    is not particularly nucleophilic, making direct phosphorylation
    difficult.
-2. **Steric hindrance**: The ethylamine side chain at C-3 is in close
+2. **Steric hindrance**: The ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at C-3 is in close
    proximity to the 4-hydroxy group, potentially creating steric
    interference with phosphorylating reagents.
 3. **Polar product**: Psilocybin is highly polar due to its phosphate
-   group, complicating isolation by standard organic techniques.
+   group, complicating isolation by standard [[geoff-hamilton-organic-techniques]].
 4. **Instability**: The phosphate ester linkage in psilocybin can be
    labile under acidic or basic conditions.
 
@@ -88,57 +88,3 @@ The phosphorylation is carried out as follows:
 
 The use of n-butyllithium as a base at low temperature ensures selective
 deprotonation of the phenolic OH (pKa approximately 10) rather than the
-indole NH (pKa approximately 17) or the dimethylammonium proton. The
-phenoxide anion is a much more powerful nucleophile than the neutral
-phenol, enabling attack on the electrophilic phosphorus of the
-tetrabenzylpyrophosphate.
-
-### Workup and Intermediate Isolation
-
-After confirming the production of compound 7 (the O,O-dibenzyl phosphate
-derivative), the reaction is quenched by adding aminopropyl [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]
-(ca. 20 g). The mixture is diluted with ethyl acetate and filtered
-through a Celite pad. The filtrate is concentrated, redissolved in
-dichloromethane, and stored overnight. During this standing period, the
-O,O-dibenzyl phosphate (7) undergoes an intramolecular rearrangement to
-form the zwitterionic N,O-dibenzyl phosphate (compound 8), which
-precipitates as a white solid.
-
-This rearrangement involves migration of one benzyl group from the
-phosphate oxygen to the indole nitrogen, creating a quaternary ammonium
-center. The zwitterionic product is insoluble in dichloromethane, while
-excess dibenzyl phosphate remains in solution and is removed by washing
-with CH2Cl2. The product is obtained in 85.2% yield.
-
-## Why the Pyrophosphate Method Succeeded
-
-The success of the pyrophosphate method can be attributed to several
-factors:
-
-1. **Strong electrophile**: The phosphorus in tetrabenzylpyrophosphate
-   is highly electrophilic due to the adjacent phosphoryl oxygen,
-   making it more reactive toward the psilocin phenoxide.
-2. **Mild conditions**: The low-temperature deprotonation with
-   n-BuLi avoids side reactions that might occur under harsher
-   conditions.
-3. **Stoichiometry**: A slight excess of both n-BuLi and
-   tetrabenzylpyrophosphate ensures complete conversion.
-4. **Self-isolating product**: The zwitterionic rearrangement product
-   (compound 8) precipitates from the reaction mixture, enabling
-   isolation by simple filtration.
-
-## Comparison with Previous Psilocybin Syntheses
-
-Prior syntheses of psilocybin by Hofmann and colleagues at Sandoz in
-1958-1959 achieved only modest yields (approximately 20%). Nichols and
-Frescas (1999) improved this to approximately 47% yield using the
-phosphoryl iodide method, but their procedure required anion-exchange
-resin purification. The Shirota route achieves greater than 72% isolated
-yield of psilocybin from psilocin on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]] without any
-chromatographic purification, representing a significant practical
-## Related
-
-- [[shirota-tetrabenzylpyrophosphate-phosphorylation-n-butyllithium-conditions]]
-
-- [[zwitterionic-n-o-dibenzyl-phosphate-intermediate]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]

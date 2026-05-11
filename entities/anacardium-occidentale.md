@@ -6,10 +6,10 @@ tags:
   - cashew
   - anacardiaceae
   - tropical-tree
-  - permaculture
-  - agroforestry
+  - [[permaculture]]
+  - [[agroforestry]]
   - nut-crop
-  - food-forest
+  - [[food-forest]]
   - medicinal-plant
   - anacardic-acid
   - anti-inflammatory
@@ -60,7 +60,7 @@ New foliage is copper-colored, turning glossy dark green.
 The inflorescence is a terminal panicle bearing small, pinkish-green
 flowers. The fruit is distinctive: a kidney-shaped drupe (the true fruit)
 borne atop a fleshy, pear-shaped peduncle (the "cashew apple," 5–10 cm
-long, yellow to red). The drupe contains the single seed (cashew nut)
+long, yellow to red). The drupe contains the [[cervantes-selfing-single-seed-descent]] (cashew nut)
 encased in a thin shell containing the vesicant CNSL.
 
 ## Distribution and Habitat
@@ -87,53 +87,4 @@ The tree's chemistry is dominated by phenolic lipids from the Anacardiaceae:
 - **Cardanol** — the decarboxylated product of anacardic acid, used
   industrially as a phenolic resin precursor.
 - **Cardol** — a dihydroxyphenol with strong vesicant properties.
-- **Cashew apple polyphenols** — the peduncle contains quercetin,
-  kaempferol, myricetin glycosides, and 200–350 mg vitamin C per 100 g
-  fresh weight (5–10× that of citrus).
-- **Cashew nut constituents** — 45% lipid (primarily oleic acid), 18%
-  protein, and significant levels of magnesium, phosphorus, zinc, and
-  selenium.
-
-## Pharmacology and Health Effects
-
-Cashew-derived compounds demonstrate several pharmacological activities:
-
-- **Anti-inflammatory** — anacardic acids inhibit prostaglandin synthase,
-  COX-1/COX-2, and 5-lipoxygenase; comparable potency to aspirin in some
-  assays.
-- **Antibacterial** — anacardic acids show MICs of 1–50 μg/mL against
-  Gram-positive bacteria including *Streptococcus mutans* (dental caries
-  relevance) and MRSA.
-- **Anti-tumor** — anacardic acid induces apoptosis in cancer cell lines
-  via p53-dependent pathways and histone acetyltransferase inhibition.
-- **Gastroprotective** — cashew apple juice and anacardic acid protect
-  gastric mucosa from ethanol-induced lesions in animal models.
-- **Anti-diabetic** — nut consumption is associated with improved glycemic
-  control; anacardic acid inhibits α-glucosidase.
-
-In traditional medicine, cashew apple tea is used for diarrhea, sore throat,
-and dysentery in Brazil and West Africa. CNSL has folk use for skin
-conditions, ringworm, and toothache.
-
-## Cultivation and Permaculture Applications
-
-Cashew is propagated by seed (for rootstocks) or grafting (for superior
-cultivars). Trees begin bearing 3–4 years after planting and reach full
-production at 8–10 years, with economic lifespans of 30–40 years.
-
-In permaculture and agroforestry, cashew serves as a multi-function canopy
-tree. Its drought tolerance makes it ideal for dryland food forests and
-reclamation of degraded sandy soils. The extensive root system stabilizes
-soil and the [[dighton-fungal-decomposition-leaf-litter-dynamics]] contributes [[hamilton-composting-and-organic-matter-management]]. Cashew intercropping
-with cowpea, groundnut, or cassava provides ground-level food production
-while the tree establishes.
-
-The cashew apple, often discarded in commercial nut production, is a
-significant underutilized resource for juice, wine, jams, and dried fruit
-products, contributing to food sovereignty in tropical smallholder systems.
-
-## See Also
-
-- [[glycyrrhiza-glabra]] — licorice, root crop with similar anti-inflammatory compounds
-- [[persea-americana]] — avocado, complementary evergreen food-forest tree
-- [[morus-alba]] — mulberry, multi-purpose tree in tropical polyculture systems
+- **Cashew apple polyphenols** — the peduncle contains [[quercetin]],

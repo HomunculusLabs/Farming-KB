@@ -16,7 +16,7 @@ photosynthesis to water lost through transpiration. It is a
 fundamental
 trait linking plant productivity to water availability and a
 critical
-consideration in crop breeding, irrigation management, and
+consideration in crop breeding, [[soil-moisture-monitoring-irrigation-management]], and
 climate
 [[mollison-designers-climate-change-adaptation-strategies]]. WUE is typically expressed as biomass
 produced per
@@ -38,11 +38,11 @@ governing WUE across all terrestrial plants.
 
 Stomatal conductance responds dynamically to atmospheric
 CO2, vapor
-pressure deficit, soil moisture, light intensity, and leaf
+[[cervantes-vapor-pressure-deficit-transpiration]], soil moisture, light intensity, and leaf
 temperature.
 Plants maintaining photosynthesis at lower conductance
 achieve higher
-WUE, but often at reduced growth rates due to limited CO2
+WUE, but often at reduced [[coleman-sunlight-and-winter-crop-growth-rates]] due to limited CO2
 supply.
 
 ## Definitions and Measurement
@@ -52,7 +52,7 @@ to stomatal conductance (gs), measured at the leaf level
 with gas
 exchange systems. It reflects stomatal behavior independent
 of
-evaporative demand.
+[[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]].
 - **Instantaneous WUE**:is the ratio of A to transpiration rate (E),
 influenced by both stomatal behavior and atmospheric
 conditions.
@@ -87,54 +87,3 @@ fertilization effect has been observed across most C3 crop
 species.
 
 ## Genetic Variation and Breeding
-
-Significant genetic variation in WUE exists within and
-between crop
-species. Wheat, barley, and sorghum breeding programs have
-improved WUE
-through selection for early vigor, reduced stomatal density,
-deeper
-root systems, and optimized canopy architecture.
-
-Carbon-13 isotope discrimination in plant tissue provides an
-integrated
-WUE measure over the period of tissue formation, enabling
-large-scale
-germplasm screening without direct gas exchange
-measurements.
-
-## Agricultural Management
-
-Management practices substantially influence WUE in cropping
-systems:
-
-- **Deficit irrigation**:applies water below full requirements, often
-improving WUE by encouraging deeper root exploration and
-reducing
-unproductive soil evaporation.
-- **Mulching**:reduces soil evaporation, directing more water loss
-through productive transpiration.
-- **[[wide-row-spacing-intensive-gardening-comparison]] and planting density**:affect canopy closure speed
-and the partitioning of evapotranspiration into
-transpiration
-versus soil evaporation.
-- **[[fukuoka-clover-cover-cropping-soil-ecology]]**:during fallow periods maintains transpiration
-and reduces unproductive water loss from bare soil.
-
-## Climate Change Implications
-
-Rising temperatures increase [[cervantes-vapor-pressure-deficit-transpiration]] deficit,
-potentially
-reducing WUE in water-limited environments. Elevated CO2
-partially
-offsets this through stomatal closure. The net effect varies
-by region,
-crop, and management system.
-
-## See Also
-
-- [[evapotranspiration-crop-water-use]]
-
-- [[stomata-transpiration-and-plant-water-regulation]]
-- [[photosynthesis-carbon-cycle-plants]]
-- [[solomon-irrigation-water-scarce]]

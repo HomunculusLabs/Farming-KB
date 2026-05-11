@@ -88,24 +88,3 @@ Protein content is low (1.3 g/100 g), making plantains nutritionally complementa
 ## Uses and Applications
 
 Plantains are consumed primarily as a cooked staple food. Green (unripe) plantains are boiled, fried, or mashed into dishes such as fufu (West Africa), tostones (Latin America), and tonto (East Africa).
-
-Ripe plantains are sweeter and softer, used in fried dishes (maduros/plátanos maduros in Latin America), baked goods, and beverages. The degree of ripeness significantly affects the culinary preparation and glycemic impact.
-
-Plantain flour, produced from dried green plantains, is used as a gluten-free alternative to wheat flour in baking. It provides binding properties and a slightly sweet, earthy flavor suited to flatbreads, pancakes, and porridges.
-
-The pseudostem, leaves, and peels have diverse non-food applications. Leaves are used as natural food wrappers, thatch for roofing, and animal fodder. Fibers from the pseudostem are used for rope, paper, and textile production.
-
-In traditional medicine, plantain preparations are used for digestive complaints, wound healing, and as a source of dietary fiber for managing diabetes. The high potassium content is considered beneficial for cardiovascular health.
-
-## See Also
-
-- [[zea-mays]]
-- [[triticum-aestivum]]
-- [[ipomoea-aquatica]]
-- [[dioscorea-alata]]
-- [[vigna-unguiculata]]
-- [[abelmoschus-esculentus]]
-- [[corchorus-olitorius]]
-- [[capsicum-annuum]]
-- [[cucumis-sativus]]
-- [[avena-sativa]]

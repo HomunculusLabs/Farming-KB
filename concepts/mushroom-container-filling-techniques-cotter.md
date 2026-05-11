@@ -11,7 +11,7 @@ sources:
 # Mushroom Container Filling Techniques and Spy Bags
 
 After inoculation, the substrate must be packed into containers properly
-to ensure successful colonization and fruiting. Tradd Cotter covers
+to ensure successful colonization and fruiting. [[tradd-cotter]] covers
 container selection, packing density, labeling, and the clever use of
 "spy bags" for contamination monitoring.
 
@@ -29,7 +29,7 @@ Most common containers for [[comparison-cannabis-indoor-growing-basics-vs-cannab
 
 - The ratio of container volume to exposed surface area must be
   respected regardless of container type
-- This ratio affects gas exchange, moisture retention, and fruiting
+- This ratio affects [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]], moisture retention, and fruiting
   surface
 - See Cotter chapter 8 for detailed container specifications
 - Too much volume per surface area: poor gas exchange, anaerobic cores
@@ -44,7 +44,7 @@ Most common containers for [[comparison-cannabis-indoor-growing-basics-vs-cannab
 
 ## The Spy Bag Technique
 
-One of Cotter's most practical innovations for contamination detection:
+One of Cotter's most practical innovations for [[pf-tek-bacteria-contamination-detection]]:
 
 ### What Are Spy Bags
 
@@ -57,7 +57,7 @@ One of Cotter's most practical innovations for contamination detection:
 ### Why Spy Bags Matter
 
 - Contamination often becomes visible only in late colonization
-- Opening opaque bags to check introduces contamination risk
+- Opening opaque bags to check introduces [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]
 - Clear bags let you see contamination developing from outside
 - Early detection means early removal before spores spread
 - Use 1–3 spy bags per batch depending on size
@@ -88,57 +88,3 @@ Containers must be packed densely to avoid air pockets:
 1. Fill bags with inoculated substrate
 2. Pack until the bag stretches — just before ripping or breaking
 3. As mycelium consumes the media, contents diminish and air pockets may
-   form — tight fit at onset minimizes this
-4. **Slam bags onto the ground** to settle and compact the substrate
-5. Alternatively, use a tamping tool to pack down the media
-6. When stacking bags, press upper bags down to compress lower ones
-
-### Packing Technique for Trays
-
-- Fill trays evenly, pressing substrate into corners
-- Tamp or press to eliminate voids
-- Level the surface for uniform colonization
-- Avoid overfilling — leave room for the lid or covering
-
-## Labeling
-
-After filling, immediately label every container:
-- **Mushroom species** (common and/or scientific name)
-- **Strain** if applicable (different strains of same species)
-- **Date of inoculation** — critical for tracking colonization timeline
-- **Substrate type** if using multiple recipes
-- **Batch number** for traceability
-
-Labeling tips:
-- Use waterproof labels or write directly on bags with permanent marker
-- Place labels consistently (same position on every container)
-- Include enough information to identify the batch weeks later
-
-## Aeration Holes
-
-After filling, containers need aeration holes poked in them:
-- See Cotter chapter 8 for specific hole patterns and sizes
-- Holes allow gas exchange during spawn run
-- Also serve as fruiting points where mushrooms will emerge
-- Hole size, number, and placement vary by species and container type
-
-## Reusable Container Cleaning
-
-For trays, pots, and other reusable containers:
-
-- Clean containers **a day ahead** of inoculation
-- If using diluted bleach solution, allow time to dry completely
-- Bleach residue can inhibit [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- Inspect for cracks, scratches, or damage that could harbor contaminants
-- Replace containers that are heavily scratched or degraded
-
-## Automation Considerations
-
-Container filling is one of the most labor-intensive steps:
-
-## See Also
-- [[mushroom-spawn-run-thermogenesis-cotter]]
-- [[mushroom-contamination-identification]]
-- [[permanent-marker]]
-- [[mycoremediation]]
-- [[cotter-inoculation-techniques-and-hygiene]]

@@ -50,7 +50,7 @@ It was later transferred to *Tricholoma* by Paul Kummer in 1871, then to *Lepist
 
 The epithet *saeva* was applied by Petter Adolf Karsten, and this name has nomenclatural priority in modern treatments.
 
-*L. saeva* is closely related to *Lepista nuda* (the wood blewit), the two forming a distinct clade within the genus.
+*L. saeva* is closely related to *[[lepista-nuda]]* (the wood blewit), the two forming a distinct clade within the genus.
 
 Some authorities still use *Clitocybe saeva*, but molecular phylogenetics supports placement in *Lepista*.
 
@@ -72,57 +72,18 @@ The stipe is solid and firm, with a pale bluish base that is a key identificatio
 
 The taste is mild to slightly peppery, with a pleasant aromatic quality.
 
-**Spores:** Pinkish-buff spore print. Basidiospores are broadly ellipsoid, 6–8.5 × 4–5 μm, with ornamented warty surface, inamyloid.
+**Spores:** Pinkish-buff [[boil-a-bag-spore-print-technique-jarrold]]. Basidiospores are broadly ellipsoid, 6–8.5 × 4–5 μm, with ornamented warty surface, inamyloid.
 
 ## Distribution and Habitat
 
 *L. saeva* is widespread across temperate Europe, from Scandinavia to the Mediterranean, and extends into western Russia.
 
-In North America, it is found primarily in the Pacific Northwest and northeastern regions.
+In [[guzman-psilocybin-mushrooms-north-america]], it is found primarily in the Pacific Northwest and northeastern regions.
 
 The species fruits in autumn, typically from September through November, sometimes extending into December in mild years.
 
 It is a grassland species, commonly found in pastures, meadows, lawns, parkland, and woodland edges.
 
-Unlike the closely related *L. nuda*, which prefers leaf litter and compost, *L. saeva* grows in open grassy areas.
+Unlike the closely related *L. nuda*, which prefers [[dighton-fungal-decomposition-leaf-litter-dynamics]] and compost, *L. saeva* grows in open grassy areas.
 
-It often forms fairy rings in permanent pastures and can appear in the same locations year after year.
-
-## Edibility and Culinary Use
-
-*L. saeva* is one of the most highly prized edible [[edible-wild-mushrooms-by-region]] in Europe, comparable in culinary value to *L. nuda*.
-
-The flesh is firm and meaty, with a rich aromatic flavor that intensifies with cooking.
-
-It is excellent sautéed, added to risottos, soups, stews, and cream sauces.
-
-The mushroom must be thoroughly cooked before consumption, as raw specimens can cause mild gastrointestinal upset.
-
-Its robust texture holds up well to most cooking methods and it can be preserved by drying or freezing.
-
-Caution is needed to distinguish it from potentially toxic *Cortinarius* species that may share similar habitats.
-
-## Ecological Role
-
-*L. saeva* is a saprotrophic decomposer, breaking down [[hamilton-composting-and-organic-matter-management]] in grassland soils.
-
-It plays an important role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in pasture ecosystems by decomposing plant litter and animal waste residues.
-
-Its mycelium contributes to soil structure and [[edaphic-factors-microbial-community-structure]] diversity in grassland soils.
-
-Fairy ring formations can create visible zones of enhanced and depleted grass growth as the mycelium expands.
-
-## Similar Species
-
-*Lepista nuda* (wood blewit) is the closest relative but grows in woodland habitats with a more distinctly lilac cap.
-
-*Tricholoma portentosum* has a similar cap color but features white gills and a different spore print color.
-
-*Cortinarius* species such as *C. trivialis* can look similar but have rusty-brown spore prints and a cobwebby veil.
-
-## See Also
-
-- [[pleurotus-ostreatus]]
-- [[calocybe-gambosa]]
-- [[trametes-versicolor-entity]]
-- [[macrolepiota-procera]]
+It often forms [[bloomfield-fairy-rings-armillaria-giant-fungi]] in permanent pastures and can appear in the same locations year after year.

@@ -22,7 +22,7 @@ sources:
 
 **Morus alba**, commonly known as the **white mulberry**, is a fast-growing deciduous tree in the family Moraceae, native to northern China and widely naturalized across temperate and subtropical regions worldwide.
 It is one of the most ecologically versatile and culturally significant trees in human history, serving as the exclusive food source for the domesticated silkworm (*Bombyx mori*) — the foundation of the global silk industry for over 5,000 years.
-Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, and roots have extensive applications in traditional Chinese medicine (TCM); and it has emerged as a valuable multi-functional tree in modern [[permaculture]], food forest design t design due to its rapid growth, deep root system, nitrogen contribution, wildlife support, and remarkable ecological resilience.
+Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, and roots have extensive applications in traditional Chinese medicine (TCM); and it has emerged as a valuable multi-functional tree in modern [[permaculture]], [[backyard-food-forest-design]] t design due to its rapid growth, deep root system, nitrogen contribution, wildlife support, and remarkable ecological resilience.
 
 ## Taxonomy and Classification
 
@@ -41,7 +41,7 @@ Beyond sericulture, *M. alba* produces edible, sweet fruits; its leaves, bark, a
 The genus *Morus* contains approximately 16 species distributed across Asia, Africa, and the Americas.
 *Morus alba* was first formally described by Linnaeus in 1753.
 Several varieties are recognized: var. *alba* (typical white-fruited form), var. *multicaulis* (large-leaved cultivated form selected for sericulture), and var. *tatarica* (Russian mulberry, cold-hardy central Asian form).
-The species readily hybridizes with other *Morus* species, particularly *M. nigra* (black mulberry) and *M. rubra* (red mulberry, native to [[polypore-fungi-eastern-north-america]] America), producing fertile hybrids that complicate taxonomic identification in areas where species overlap.
+The species readily hybridizes with other *Morus* species, particularly *M. nigra* (black mulberry) and *M. rubra* (red mulberry, native to [[polypore-fungi-eastern-north-america]] America), producing fertile hybrids that complicate [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] in areas where species overlap.
 
 ## Description and Morphology
 
@@ -49,7 +49,7 @@ The species readily hybridizes with other *Morus* species, particularly *M. nigr
 The trunk is short, often leaning or multi-stemmed, with grayish-brown, rough, and fissured bark on mature trees.
 The root system is extensive and aggressive, with deep taproots (reportedly reaching 6+ meters in well-drained soils) and widespread lateral roots that contribute to soil stabilization and [[dighton-fungal-drought-tolerance-plant-water-relations]].
 The leaves are simple, alternate, 8–20 cm long, broadly ovate to cordate, with serrated margins and a pointed apex.
-Leaf morphology is highly polymorphic — leaves on young shoots and rapidly growing branches may be deeply lobed (3–5 lobes), while mature branches typically bear unlobed or shallowly lobed leaves.
+[[cannabis-leaf-morphology-and-phyllotaxy]] is highly polymorphic — leaves on young shoots and rapidly growing branches may be deeply lobed (3–5 lobes), while mature branches typically bear unlobed or shallowly lobed leaves.
 This variability is exploited in sericulture, where cultivars are selected for large, tender, unlobed leaves preferred by silkworm larvae.
 The leaves are bright green above, paler below, and turn yellow in autumn.
 
@@ -64,11 +64,11 @@ The fruit is sweet, juicy, and highly perishable, with a mild, honey-like flavor
 
 *Morus alba* is native to northern China, where wild populations are found in mountain valleys and forest margins.
 It has been cultivated in China for at least 5,000 years and spread along the Silk Road to Central Asia, the Middle East, and eventually Europe (introduced to England in the 16th century for failed silk production attempts).
-The species was introduced to North America in the colonial era, initially in an attempt to establish a domestic silk industry (encouraged by James I of England and later by various US colonial and state governments).
-It has naturalized widely across the eastern and central United States, the Pacific Northwest, and parts of Latin America, Australia, and sub-Saharan Africa.
+The species was introduced to [[guzman-psilocybin-mushrooms-north-america]] in the colonial era, initially in an attempt to establish a domestic silk industry (encouraged by James I of England and later by various US colonial and state governments).
+It has naturalized widely across the eastern and central United States, the [[psilocybin-north-america-pacific-northwest]], and parts of Latin America, Australia, and sub-Saharan Africa.
 *M. alba* is highly adaptable, growing in USDA Hardiness Zones 4–9, tolerating temperatures from −30°C to 45°C.
 It thrives in a wide range of soil types (sandy loam to heavy clay, pH 5.5–7.5), prefers full sun but tolerates partial shade, and is remarkably drought-tolerant once established.
-It is classified as invasive in some regions (particularly the eastern US) due to its rapid growth, prolific fruit production, and bird-dispersed seeds.
+It is classified as invasive in some regions (particularly the eastern US) due to its rapid growth, prolific [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], and bird-dispersed seeds.
 
 ## Chemistry and Active Compounds
 
@@ -88,51 +88,3 @@ All parts of *Morus alba* contain bioactive phytochemicals, with the leaves bein
 - **Resveratrol** — a stilbene polyphenol with cardioprotective and anti-aging properties, present at higher concentrations in mulberry fruit than in grapes.
 - **Ascorbic acid** (vitamin C) — 20–40 mg/100g fresh weight.
 - **Iron** — notably high iron content among fruits (1.5–2.5 mg/100g fresh weight), traditionally used in TCM for blood deficiency.
-
-### Root Bark (Cortex Mori Radicis, "Sang Bai Pi")
-
-- **Morusin** (C₂₅H₂₄O₆) — a prenylated flavonoid with anti-inflammatory and antitumor activity.
-- **Kuwanon G and H** — Diels-Alder type adducts with significant antimicrobial and anti-inflammatory properties.
-- **Mulberroside A** — a stilbene glycoside with antidiabetic and neuroprotective effects.
-
-## Traditional and Medicinal Uses
-
-*Moruls alba* is one of the most important medicinal plants in the traditional Chinese pharmacopoeia, with documented use spanning over 2,000 years:
-
-- **Leaves (Sang Ye)**: Primary use in TCM for clearing heat, dispersing wind, and clearing the liver and eyes. Prescribed for fever, headache, sore throat, dizziness, and blurred vision. Modern research supports antidiabetic, antioxidant, and hypolipidemic effects.
-- **Root bark (Sang Bai Pi)**: Used to clear lung heat, reduce wheezing, and promote urination. Indicated for cough, asthma, edema, and hypertension. Clinical studies support antihypertensive and diuretic effects.
-- **Fruits (Sang Shen)**: Nourishes yin and blood, used for premature graying, dizziness, tinnitus, and insomnia. Rich in anthocyanins and iron.
-- **Twigs (Sang Zhi)**: Dispels wind-dampness and promotes joint mobility. Used for rheumatism, arthralgia, and numbness.
-
-### Modern Clinical Evidence
-
-Multiple [[mushroom-cancer-clinical-trials-overview]] support the antidiabetic efficacy of mulberry leaf preparations:
-A 2007 meta-analysis of randomized controlled trials (7 studies, n=399) found that mulberry leaf extract significantly reduced fasting blood glucose (−18.7 mg/dL, 95% CI −27.1 to −10.3) and postprandial blood glucose (−30.4 mg/dL) compared to placebo or baseline.
-A 2018 RCT (n=120) comparing mulberry leaf DNJ extract (100 mg DNJ/day) with acarbose (100 mg/day) over 12 weeks found comparable reductions in HbA1c (−0.9% vs −1.0%) with significantly fewer gastrointestinal side effects in the mulberry group.
-A 2020 systematic review confirmed modest but consistent hypolipidemic effects, with reductions in total cholesterol (−8.3 mg/dL) and LDL cholesterol (−7.1 mg/dL).
-
-## Role in Permaculture and Agroforestry
-
-*Morus alba* is increasingly recognized as a multi-functional tree in permaculture and sustainable agriculture systems:
-
-- **Rapid [[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Exceptionally fast growth (2–4 meters/year under favorable conditions), making it an excellent coppice and pollard species for fodder, mulch, and biomass production.
-- **Animal fodder**: Mulberry leaves are a high-quality fodder for livestock, with crude protein content of 15–28% (comparable to alfalfa). Widely used in silvopastoral systems in tropical and subtropical regions, with demonstrated improvements in dairy cattle and goat productivity.
-- **Soil improvement**: Deep taproots break compacted subsoil layers and bring up nutrients from deep soil horizons. Leaf litter decomposes rapidly, contributing [[hamilton-composting-and-organic-matter-management]] to surface soils.
-- **Wildlife support**: Fruit is highly attractive to birds, which serve as seed dispersal agents. Foliage provides browse for deer and other wildlife. The tree supports a diverse insect community including silkworms.
-- **[[permplant-willows-salix-erosion-control-fodder]]**: Extensive root systems stabilize slopes, stream banks, and degraded lands.
-- **Food forest integration**: Functions as a canopy or mid-canopy tree in food forest designs, providing fruit, fodder, and mulch while supporting understory growth through dappled shade.
-- **Drought resilience**: Once established, white mulberry is remarkably drought-tolerant, making it suitable for dryland agroforestry and climate-adapted landscapes.
-
-## Sericulture and Cultural Significance
-
-The relationship between *Morus alba* and the domesticated silkworm (*Bombyx mori*) is one of the oldest and most consequential human-animal-plant interactions in history, forming the biological foundation of the Silk Road trade network.
-Silkworms are entirely dependent on fresh mulberry leaves as their sole food source, consuming approximately 30 grams of fresh leaves per larva over a 25–30 day rearing cycle before spinning their cocoons.
-China remains the world's largest silk producer, cultivating approximately 6.5 million hectares of mulberry plantation (primarily *M. alba* var. *multicaulis*).
-The global silk industry produces over 150,000 metric tons of raw silk annually, worth approximately $4 billion.
-In TCM, the dried, roasted silkworm feces (called "Can Sha") are also used medicinally as a wind-dispersing and damp-drying agent.
-
-## See Also
-
-- [[food-forest]] — polyculture food production system where mulberry serves as a canopy tree
-- [[bill-mollison]] — co-originator of permaculture concept
-- [[lonicera-caerulea]]

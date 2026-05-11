@@ -2,7 +2,7 @@
 
 ## Overview
 
-In *Food of the Gods*, [[amanita-muscaria-entity]]* — the iconic red-and-white spotted
+In *Food of the Gods*, [[amanita-muscaria]]* — the iconic red-and-white spotted
 mushroom of fairy tales and Siberian shamanism.
 
 Wasson's argument drew on several lines of evidence: the Rig Veda describes Soma as

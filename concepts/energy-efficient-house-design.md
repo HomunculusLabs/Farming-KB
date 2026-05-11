@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Energy-Efficient House Design
@@ -87,29 +88,3 @@ A glasshouse attached to the sunward side of a house serves multiple functions:
 ## Climate-Specific Considerations
 
 For hot climates, the strategy reverses:
-- Minimize sunward glazing
-- Maximize cross-ventilation
-- Use light-coloured surfaces to reflect heat
-- Provide deep overhangs and shade structures
-- Use thermal mass to buffer daytime heat, releasing it at cooler night temperatures
-
-For humid tropics:
-- Raised, steep-roofed, thatched construction with permeable walls
-- Cross-ventilation and screening essential for mosquito control
-- Broad eaves for rain protection
-
-## Energy Systems
-
-House design should incorporate:
-- Solar hot water systems
-- Space heating and cooling designed for the region
-- Power generation systems (solar, wind, micro-hydro)
-- Energy-conserving appliances
-- [[appropriate-technology]] for the specific region
-
-## See Also
-
-- [[zone-sector-analysis-guide]] - Placement of house in the landscape
-- [[natural-building-materials-guide]]
-- permaculture-cold-climate-strategies
-- permaculture-humid-landscape-strategies

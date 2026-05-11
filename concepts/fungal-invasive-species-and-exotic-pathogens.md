@@ -88,26 +88,3 @@ reduced dogwood populations, shifting community dominance toward bird-dispersed
 species and reducing calcium cycling.
 
 ## Pathogen-Facilitated Plant Invasions
-
-Fungal pathogen flora of invasive plants changes significantly between native
-and exotic ranges. Studies show minimal overlap, typically only 4-7 species
-shared out of 15-33 total. This reduced pathogen pressure contributes to
-competitive success of invasive plants (enemy release hypothesis) and suggests
-scope for selecting effective biocontrol pathogens.
-
-## Biosecurity and Prevention
-
-Preventing new fungal invasions requires strict biosecurity measures including
-quarantine of imported plant material, inspection of timber products, and
-monitoring high-risk pathways such as the ornamental plant trade. Early
-detection using molecular diagnostics and environmental DNA sampling is
-increasingly important for identifying introductions before they establish.
-
-## Related
-
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[fungal-zoospore-biology-and-flagellate-motility]]
-- [[fungal-ecosystem-processes-overview]]
-- [[fungal-biodiversity-forest-ecosystems]]
-- [[ectomycorrhizal-fungal-ecology]]
-- [[fungal-decomposition-succession-resource-quality]]

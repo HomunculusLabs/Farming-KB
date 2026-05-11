@@ -41,16 +41,16 @@ must look for the sacred drug.
 Grain itself was thought to be a hybrid, carefully evolved from more primitive
 grasses. If not tended with proper care, it could revert to its worthless,
 inedible avatar. That primitive sibling to grain was the plant called aira in
-Greek, Lolium temulentum in botanical nomenclature, or commonly darnel, wild
+Greek, [[lolium-temulentum-darnel-and-ergot]] in botanical nomenclature, or commonly darnel, wild
 rye, cockle, ivraie, or "tares" in the Bible. This weed is notoriously prey
 to the ergot-fungus|Claviceps fungus. The psychotropic reputation of
 darnel must therefore be attributed to its parasitic infection by ergot.
 
-Ergot of barley (Claviceps purpurea) produces purple-brown protrusions, the
+[[ergot-of-barley-and-wheat-alkaloid-composition]] ([[claviceps-purpurea]]) produces purple-brown protrusions, the
 sclerotia, on the ears of grain. These sclerotia contain a complex mixture of
-alkaloids. The most important distinction among ergot alkaloids is between
+alkaloids. The most important distinction among [[ergot-alkaloids-eleusinian-mysteries]] is between
 the water-insoluble ergotamine and ergotoxine group and the water-soluble
-alkaloids, principally ergonovine (ergine) and lysergic acid amide. This
+alkaloids, principally ergonovine (ergine) and [[lysergic-acid-amide]]. This
 solubility distinction is critical: the hallucinogenic alkaloids dissolve
 readily in water, while the non-hallucinogenic medicinally useful alkaloids
 do not.
@@ -88,39 +88,3 @@ Claviceps were recognized in antiquity.
 ## Corroborating Evidence
 
 A papyrus fragment preserves a portion of the Demes, a comedy by Eupolis
-written shortly after the scandal of the profanation of the Mystery in the
-fifth century BCE. In the comedy, an informer explains to a judge how he had
-come upon someone who had obviously been drinking the potion since he had
-barley groats on his moustache. The accused had bribed the informer to say
-that it was simply porridge and not the potion. By a possible pun, the
-comedian may even indicate that the incriminating "crumbs of barley" were
-"purples of barley," a direct reference to the purple color of ergot
-sclerotia.
-
-This fragment confirms that the profanation did indeed entail the drinking of
-the sacred kykeon and supports the identification of ergot as the drug it
-contained.
-
-## The Potion in the Telesterion
-
-The preparation of the potion was the central event within the great
-initiation hall. With elaborate pageantry, the hierophant removed the
-sclerotia of ergot from the free-standing room constructed inside the
-telesterion over the remains of the original Mycenaean temple. He conveyed
-the grain in chalices to the priestesses, who danced throughout the hall
-balancing the vessels and lamps upon their heads. The grain was next mixed
-with mint and water in urns, from which the sacred potion was ladled into
-special cups for the initiates to drink their share.
-
-Then, seated on the tiers of steps lining the walls of the cavernous hall,
-in darkness they waited. From the potion they gradually entered into ecstasy.
-The kykeon, an hallucinogen, under the right [[lsd-set-and-setting-framework]], disturbs
-man's inner ear and trips astonishing ventriloquistic effects.
-
-## See Also
-
-- [[kykeon-elixir]]
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]]
-- [[demeter-ergot-symbiosis-eleusinian-symbolism]]
-- [[rarian-plain-sacred-grain-eleusis]]

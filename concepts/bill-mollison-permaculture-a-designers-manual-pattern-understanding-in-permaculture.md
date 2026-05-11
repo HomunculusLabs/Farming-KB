@@ -88,27 +88,3 @@ work with rather than against. Mollison considered understanding biological
 timing as important as understanding spatial pattern in design.
 
 Phenological patterns like flowering sequences and decomposition rates provide
-a temporal framework for design decisions. Planting schedules aligned with
-natural rhythms reduce maintenance and increase yields by working within the
-ecosystem's own cycles of growth, reproduction, and seasonal dormancy.
-
-## Applying Patterns in Design
-
-Mollison recommended a systematic approach to pattern application. First,
-observe natural patterns on the site and in the local ecosystem. Second,
-identify which pattern best solves the specific design problem at hand. Third,
-apply the pattern at the appropriate scale. Fourth, test the result through
-observation and adjust. This iterative process connects pattern understanding
-to the broader [[fukuoka-limits-scientific-method-agriculture]] and ensures that designs remain grounded in
-ecological reality rather than abstract theory.
-
-## Pattern as Language
-
-Ultimately, Mollison viewed pattern understanding as a language that allows
-designers to read landscapes and write new designs using the grammar of nature.
-Just as a poet uses metaphor and rhythm to create meaning, the permaculture
-designer uses branching, spiraling, and networking patterns to create systems
-that function with the elegance and efficiency of natural ecosystems. This
-pattern language connects permaculture to the work of Christopher Alexander
-and the broader field of design theory, while remaining grounded in the
-practical realities of [[pattern-understanding-in-ecological-design|Pattern Understanding In Ecological Design]]

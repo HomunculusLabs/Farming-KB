@@ -1,5 +1,5 @@
 ---
-title: Psilocybe makarorae
+title: Psilocybe Makarorae
 created: 2026-04-28
 type: species
 tags:
@@ -20,7 +20,7 @@ Zealand. It was formally classified by Johnston and Buchanan in 1996 and is name
 Makarora region on the South Island where it was originally collected. The species is
 recognized by its conic to campanulate cap with a pronounced umbo, greenish blue bruising, and
 its growth on rotting wood of southern beech (Nothofagus). It remains one of the lesser-
-known psilocybian fungi from the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and has been documented only from a
+known [[psilocybian-fungi-law-australia-nz]] from the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] and has been documented only from a
 limited number of collections, primarily from the South Island of New Zealand.
 
 ## Taxonomy
@@ -36,7 +36,7 @@ congeners.
 The holotype specimen was collected from rotting wood in the Makarora vicinity. The authors
 noted its distinctive microscopic characters, particularly the presence of pleurocystidia and
 the morphology of the cheilocystidia with their relatively long necks, as key diagnostic
-features separating it from superficially similar taxa such as psilocybe caerulipes [[coprinus-atrementarius-entity-the-mushroom-cultivator]] cultivator. No
+features separating it from superficially similar taxa such as [[psilocybe-caerulipes]] [[coprinus-atrementarius-entity-the-mushroom-cultivator]] cultivator. No
 varieties or subspecies have been described to date.
 
 ## Description
@@ -76,7 +76,7 @@ The partial veil is cortinate in type, meaning it is web-like rather than membra
 young specimens it leaves fibrillose veil remnants along the cap margin, but these remnants
 are evanescent and soon disappear with maturity. Importantly, the partial veil does not form a
 persistent annular ring on the stem, a feature that helps separate this species from several
-other psilocybian taxa that do produce a membranous annulus.
+other psilocybian taxa that do produce a [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]].
 
 ### Microscopic Features
 
@@ -88,58 +88,3 @@ Pleurocystidia are similar to cheilocystidia in morphology. They are ventricose-
 mucronate, measuring 4 to 8 micrometers thick, with a simple neck 2.5 to 4 micrometers long.
 The presence of pleurocystidia on the gill faces is a significant diagnostic feature for this
 species. Cheilocystidia measure 18 to 26 by 6 to 9 micrometers, also ventricose-rostrate to
-mucronate, with a short, simple neck 3 to 5 micrometers long.
-
-## Habitat and Distribution
-
-*Psilocybe makarorae* is found scattered to gregarious on rotting wood and twigs, particularly
-those of Nothofagus (southern beech). It fruits during the autumn months and is typically
-encountered near lakes and picnic grounds in areas of moderate human disturbance within
-otherwise natural forest environments. Known collections come from the vicinity of Makarora on
-New Zealand's South Island, including the Otago Lakes region and the area near Franz Josef
-Glacier on the West Coast. The species is probably more widely distributed across suitable
-habitat in New Zealand than current records indicate, given the remoteness of much of the
-country's forested areas and the limited systematic mycological survey effort in these
-regions.
-
-## Chemistry
-
-The chemical potency of *Psilocybe makarorae* has not been formally quantified through
-laboratory analysis. However, the characteristic greenish blue bruising reaction observed upon
-injury to the flesh strongly suggests the presence of psilocybin and/or psilocin, the primary
-psychoactive compounds found in members of the genus *Psilocybe*. Based on the intensity of
-the [[field-guide-psilocybin-bluing-reaction-identification]] and its phylogenetic placement within the genus, the species is probably
-moderately active. Definitive alkaloid profiling through analytical techniques such as GC-MS
-or HPLC remains to be conducted and would provide valuable data for comparison with better-
-studied Australasian species like psilocybe-australiana.
-
-## Taxonomic Relationships
-
-Within the genus *Psilocybe*, *P. makarorae* is placed among the wood-inhabiting, bluing
-species. Its combination of macroscopic features, microscopic morphology, and ecological niche
-on Nothofagus wood places it within a group of Southern Hemisphere psilocybian fungi
-adapted to cool temperate forests dominated by southern beech. The species is notable for
-possessing both pleurocystidia and cheilocystidia with relatively long necks. This microscopic
-feature set is important for delineating it from morphologically similar taxa and provides
-insight into its evolutionary relationships within the genus. Molecular phylogenetic studies
-have not yet been published for this species, and such work would help clarify its position
-relative to other Australasian and global *Psilocybe* lineages.
-
-## Similar Species
-
-*Psilocybe makarorae* most closely resembles psilocybe caerulipes entity the mushroom cultivator, a [[growing-gourmet-north-american-reishi-species]]
-species known as the "blue-footed psilocybe." The two species share a similar cap shape and
-bluing reaction, but can be reliably separated microscopically: *P. makarorae* possesses
-pleurocystidia (which are absent in *P. caerulipes*) and has longer-necked cheilocystidia.
-
-Among Australasian taxa, psilocybe-eucalypta should also be
-considered for comparison, though each differs in substrate preference and microscopic
-features. [[psilocybe-stuntzii-profile]]
-- [[psilocybe-wassoniorum]]
-
-- psilocybe caerulipes entity the mushroom cultivator - North American look-alike species
-- psilocybe-eucalypta - Australasian congener
-## See Also
-- [[psilocybe-caerulipes]]
-
-- [[psilocybe-makarorae-new-zealand-profile]]

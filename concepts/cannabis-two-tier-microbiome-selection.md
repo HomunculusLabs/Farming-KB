@@ -87,15 +87,3 @@ The first experiment, which used post-harvest samples, showed lower overall endo
 ## Edaphic Factors in Detail
 
 The BEST (Best Subset of Environmental Variables with Maximum Correlation) analysis identified nitrogen, carbon, and water content as the optimal combination of edaphic factors explaining community variance (rho = 0.632). The relative importance ranking was consistent across both weighted and unweighted analyses: nitrogen was the strongest factor, followed by salinity, carbon, water content, and pH.
-
-This ranking has practical implications for soil management. Nitrogen availability, which is the strongest driver of microbial community structure, is also one of the most manageable soil parameters through fertilization and organic matter amendment. However, excessive nitrogen fertilization can disrupt microbial community balance and should be calibrated to support both plant growth and microbial diversity.
-
-The five soil types tested in the study all had sandy loam texture but differed significantly in clay content, salinity, nitrogen, organic carbon, and water content. The soil with the highest organic carbon content (Orange County soil, 20.0 percent total organic carbon versus 3.0-5.0 percent for Mo-Bio soils) also showed the highest THC concentrations in plants, though separating soil chemistry effects from microbiome effects proved difficult.
-
-## Relevance to Hydroponic and Container Growing
-
-The two-tier model has important implications for cannabis cultivation in systems where soil is absent or highly modified. In hydroponic systems, the first tier of selection is largely eliminated because there is no bulk soil microbiome to serve as the source pool. The microbial community must be intentionally introduced through inoculation or arises from contamination.
-
-Container growing with imported potting mixes creates a different dynamic than field soil. The potting mix provides the first tier, but its microbiome may be less diverse and less stable than natural soil. Understanding the two-tier model helps explain why cannabis grown in different potting mixes can show different growth characteristics even when nutrients and watering are identical.
-
-Living soil and super-soil approaches, discussed in [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]

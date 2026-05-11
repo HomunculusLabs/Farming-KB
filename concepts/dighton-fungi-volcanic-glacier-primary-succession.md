@@ -18,7 +18,7 @@ type: concept
 
 Primary succession on newly exposed substrates, whether from volcanic
 eruption or glacial retreat, depends critically on fungal partners for
-soil development, nutrient acquisition, and plant establishment. Studies
+soil development, [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], and plant establishment. Studies
 from Mount Saint Helens, Mount Koma, and the Lyman Glacier forefront
 demonstrate the diverse roles fungi play in colonizing extreme
 substrates and facilitating ecosystem development.
@@ -29,7 +29,7 @@ Allen (1991) showed that vegetation colonizing Mount Saint Helens after
 the 1980 eruption consisted entirely of mycorrhizal species, both
 [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] and ectomycorrhizal forms. This contrasted with
 the Galapagos Islands where Schmidt, Scow, Hendrix, and Smith found a
-mixture of arbuscular mycorrhizal and nonmycorrhizal plants. In the
+mixture of [[arbuscular-mycorrhizal-fungal-diversity]] and nonmycorrhizal plants. In the
 Galapagos, nonmycorrhizal plants developed in more fertile lowland
 soils while mycorrhizal plants established in poorer rocky soils.
 Allen and Allen (1990) hypothesized patterns of mycorrhizal dependence
@@ -41,7 +41,7 @@ Titus and Tsuyuzaki (2002) studied [[arbuscular-mycorrhizal-colonization-pattern
 in primary succession on volcanic substrates of Mt. Koma, Japan. They
 found no effect of microsite on arbuscular mycorrhizal colonization of
 Agrostis scabra. Campanula lasiocarpa, however, showed higher root
-colonization by arbuscular mycorrhizae near rock than on flat sites or
+colonization by [[glomeromycota-arbuscular-mycorrhizae]] near rock than on flat sites or
 those occupied by Polygonum. In all sites, willow (Salix reinii) was
 heavily ectomycorrhizal. These data suggest that Allen and Allen's
 models are not only dependent on [[duggar-mushroom-environmental-factors-temperature-moisture-light]] but also plant
@@ -56,8 +56,8 @@ trapping tree seeds and protecting them from desiccation. Spores of
 mycorrhizal fungi appeared in feces of pika, voles, chipmunks, marmots,
 mountain goat, and mule deer on the glacier forefront, forming an
 inoculum source for colonization of newly developing soils by early
-successional and slow-growing tree species including Abies lasiocarpa,
-Larix lyalii, Tsuga mertensiana, and Salix spp.
+successional and slow-growing tree species including [[abies-lasiocarpa]],
+Larix lyalii, [[tsuga-mertensiana]], and Salix spp.
 
 ## Dark-Septate Endophytes in Harsh Conditions
 
@@ -66,7 +66,7 @@ Phialocephala fortinii significantly enhanced growth of lodgepole pine
 (Pinus contorta), an early colonizer of the glacier forefront, but only
 in the presence of added nitrogen. Total plant phosphorus, however, was
 significantly enhanced in the presence of the mycorrhiza with no added
-nitrogen. During succession in recent glacial till, microbial communities
+nitrogen. During succession in recent glacial till, [[cannabis-rhizosphere-microbial-communities]]
 change from bacterial domination to fungal-dominated communities. As this
 transition occurs, carbon-use efficiency shifts from high respiration to
 an accumulating phase, indicating that fungi are a stabilizing force
@@ -88,39 +88,3 @@ available resources.
 
 Trappe and Maser (1976) showed that spores of Glomus macrocarpus and
 the hypogeous ectomycorrhizal Hymenogaster were dispersed by small
-mammals including Oregon vole and chickaree. Spores survived gut
-passage and assisted colonization of bare ground by providing mycorrhizal
-inoculum. Cazares and Trappe (1994) showed that mycophagy of both
-hypogeous and epigeous mycorrhizal fungi results in deposition of
-viable spores in feces. Local deposition in middens by small mammals
-accounts for patchy distribution of mycorrhizal spores.
-
-## Importance of Mycelial Continuity
-
-Amaranthus and Perry (1989) demonstrated that when Douglas fir was
-planted into partially cleared sites with remaining mycorrhizal roots,
-survival was approximately 90% compared to only 50% in totally cleared
-areas after 2 years. The reduction in survival was attributed to lack
-of a viable communal [[symbiotic-fungi-ectomycorrhizal-network-carbon-trading]]. This underscores the
-importance of maintaining mycelial continuity for rapid mycorrhizal
-development during colonization of disturbed or primary substrates.
-
-## Pioneer Saprotrophic Fungi in Early Succession
-
-Saprotrophic fungi play an equally critical role in early primary succession, often preceding mycorrhizal establishment. On volcanic substrates, melanin-containing dematiaceous fungi (such as *Cladosporium* and *Aureobasidium* spp.) are among the first colonizers due to their tolerance of UV radiation, desiccation, and temperature extremes. These fungi contribute to rock weathering through organic acid exudation and physical penetration of mineral surfaces, a process called bioslope weathering. At the Lyman Glacier forefront, Jumpponen (2003) found that saprotrophic fungal communities dominated initial soil formation before mycorrhizal fungi became established. The sequential appearance of different functional fungal groups — first saprotrophs, then dark-septate endophytes, and finally ectomycorrhizal and arbuscular mycorrhizal species — mirrors the progressive development of soil organic matter and nutrient availability that characterizes primary succession.
-
-## See Also
-
-- [[comparison-primary-vs-secondary-succession]]
-
-- dighton-fungal-soil-crust-primary-production
-- [[mycorrhizal-fungi-primary-production-dighton]]
-- [[dighton-hypogeous-fungi-mammal-spore-dispersal]]
-
-## Sources
-
-- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
-  Chapter 5: Fungi and Population and Community Regulation.
-- [[saprotrophic-fungi]]
-- [[ectomycorrhiza]]
-- [[tsuga-mertensiana]]

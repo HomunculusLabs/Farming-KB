@@ -1,5 +1,5 @@
 ---
-title: "Honey Locust Pod Fodder and Timber Production"
+title: Honey Locust Pod Fodder Timber Production
 created: 2026-04-28
 tags: [permaculture-plants, fodder-trees, timber, nitrogen-fixing]
 date: 2026-04-25
@@ -9,8 +9,8 @@ type: concept
 ---
 # Honey Locust Pod Fodder and Timber Production
 
-Honey locust (Gleditsia triacanthos) is a moderately fast-growing,
-long-lived leguminous tree native to eastern North America. It combines
+Honey locust ([[gleditsia-triacanthos]]) is a moderately fast-growing,
+long-lived leguminous tree native to [[polypore-fungi-eastern-north-america]]. It combines
 high-quality stock fodder from its pods with valuable timber, making it
 a dual-purpose tree of exceptional value in permaculture systems.
 
@@ -61,9 +61,9 @@ Pod yield increases significantly with age:
 - At year 15: yield reaches 18 tonnes per hectare per year
 - Mature groves: 50 to 60 tonnes per hectare per year reported
 
-Pods can also serve for human food and alcohol fuel production. The
+Pods can also serve for human food and [[permaculture-on-farm-alcohol-fuel-production]]. The
 sweet pulp can be eaten fresh, dried, ground into flour, or processed
-into fermented beverages. Indigenous peoples traditionally used the
+into [[comparison-mead-vs-kvass-fermented-beverages]]. Indigenous peoples traditionally used the
 pulp as a sweetener before the availability of cane sugar.
 
 ## Timber Qualities
@@ -85,66 +85,6 @@ fuelwood with high energy density and relatively low ash content.
 Like many leguminous trees, honey locust forms symbiotic associations
 with rhizobial bacteria in root nodules. While its nitrogen fixation
 rates are modest compared to black locust or tagasaste, the cumulative
-effect of deep-rooted nitrogen cycling is significant. Leaf fall
+effect of deep-rooted [[fungal-role-in-nitrogen-cycling]] is significant. Leaf fall
 returns nitrogen and minerals to the soil surface, benefiting
 understorey plants and pasture species.
-
-The deep taproot accesses subsoil minerals and moisture unavailable to
-shallow-rooted species, cycling these nutrients to the surface through
-leaf fall and root exudation. This nutrient-pumping effect is
-particularly valuable on degraded or compacted soils where mineral
-availability at the surface is limited.
-
-## Role in Permaculture Systems
-
-The honey locust fits naturally into silvopastoral systems where its
-winter leaf-drop allows pasture growth beneath it while summer canopy
-provides shade. Pods provide autumn fodder without any harvesting or
-processing cost, as stock simply eat fallen pods directly from the
-ground.
-
-In a food forest system, honey locust occupies the upper canopy layer
-while permitting productive understorey layers. Its nitrogen-fixing
-capacity improves soil fertility for companion plantings. In mixed
-livestock systems, the tree's pods feed ruminants while poultry forage
-for insects in the leaf litter beneath. This multi-layer utilisation
-exemplifies permaculture's principle of [[gaias-garden-stacking-functions-detailed]]
-within a single element.
-
-## Propagation
-
-Propagation from seed is similar to carob. Seeds require scarification
-to break dormancy, typically achieved by:
-- Soaking in hot (near-boiling) water for 12 to 24 hours
-- Acid scarification with concentrated sulfuric acid
-- Mechanical nicking with a file or sandpaper
-
-The tree can also be propagated by transplanting root suckers, which
-is useful for maintaining thornless cultivars. For pod production,
-both male and female trees are needed. A ratio of approximately one
-male to eight or ten females ensures adequate pollination. Selecting
-for heavy pod-bearing females during establishment ensures maximum
-fodder returns.
-
-## Companion Planting Considerations
-
-Because honey locust is deciduous and provides dappled shade, it
-combines well with pasture grasses, winter-active annuals, and
-shade-tolerant perennials. In orchard systems, it can serve as a
-windbreak that does not compete with fruit trees for winter light.
-
-Suitable understorey companions include:
-- [[permaculture-plants-comfrey-chop-and-drop]] for dynamic accumulation
-- Clover and other legumes for additional nitrogen fixation
-- [[permplant-mulberries-morus-fruit-fodder-timber]] as a mid-canopy ally
-- Pasture grasses and forbs for livestock grazing
-- [[free-range-poultry-forage-design-mollison]] for integrated poultry
-
-## Comparison with Related Fodder Trees
-
-Unlike carob, which requires Mediterranean climates, honey locust
-tolerates much colder winters and a wider range of soil conditions.
-Its faster growth and higher pod yields make it more productive in
-temperate permaculture systems. Compared to
-[[permplant-black-locust-nitrogen-fixing-timber]],
-honey locust provides better fodder but less durable timber.

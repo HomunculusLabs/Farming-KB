@@ -1,5 +1,5 @@
 ---
-title: Fungal [[fungal-endophytes]] grass crop systems Crop Systems
+title: Fungal Endophytes Grass Crop Systems
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -88,14 +88,3 @@ Endophytes mediate plant-herbivore interactions, influence plant
 community composition, and affect ecosystem-level processes such as
 [[soil-protozoa-nutrient-cycling-and-mineralization]] primary productivity. Their presence or
 absence can determine whether a grass species becomes dominant in a
-plant community. Endophyte-infected grasses often show competitive
-advantages over uninfected neighbors in [[fungi-in-stressful-environments]].
-Endophyte symbiosis may also alter below-ground interactions by
-modifying root exudate patterns and rhizosphere microbial
-communities.
-## See Also
-- fungal-endophyte-diversity-patterns
-- [[mycorrhizal-fungi-bioremediation]]
-- [[soil-food-web-nutrient-cycling]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- fungal-biodiversity-in-soil-ecosystems

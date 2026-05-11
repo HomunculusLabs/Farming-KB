@@ -21,7 +21,7 @@ sources:
 
 Kaempferia parviflora is a herbaceous perennial in the family Zingiberaceae, native to Thailand, Laos, and Cambodia. It is widely known by its Thai name *krachai dam* (กระชายดำ, "black krachai"), referring to the dark purple-black interior of its rhizomes.
 
-The plant has a long history in Thai traditional medicine as a male vitality tonic, aphrodisiac, and general health promoter. It is one of the most commercially significant medicinal plants in Thailand, sold as dietary supplements, capsules, and traditional remedies.
+The plant has a long history in Thai traditional medicine as a male vitality tonic, aphrodisiac, and general health promoter. It is one of the most commercially significant medicinal plants in Thailand, sold as [[medicinal-mushroom-dietary-supplements]], capsules, and traditional remedies.
 
 Modern research has confirmed a range of pharmacological activities, particularly anti-inflammatory, antioxidant, and vasodilatory effects attributed to its polymethoxyflavone content. The rhizome is the primary plant part used in both traditional and commercial preparations.
 
@@ -39,7 +39,7 @@ The species is sometimes called "Thai ginseng" in commercial marketing, reflecti
 - Genus: Kaempferia
 - Species: K. parviflora
 
-The species was described by Wall. ex Baker in 1890. It is closely related to Kaempferia galanga (sand ginger), but is distinguished by its darker rhizome coloration and different flavonoid profile.
+The species was described by Wall. ex Baker in 1890. It is closely related to [[kaempferia-galanga]] (sand ginger), but is distinguished by its darker rhizome coloration and different flavonoid profile.
 
 **Morphology:**
 
@@ -51,7 +51,7 @@ The inflorescence is a short spike bearing 1–3 flowers with purple or violet p
 
 K. parviflora is one of approximately 40 species in the genus Kaempferia. The most closely related commercially important species is K. galanga, which shares overlapping distribution in [[psilocybe-southeast-asia-pacific]] but has a lighter-colored rhizome.
 
-K. rotunda (round zedoary) is another notable relative, used in traditional Indian medicine and as a starch source. The genus is part of the tribe Kaempferieae, which also includes Boesenbergia rotunda (fingerroot).
+K. rotunda (round zedoary) is another notable relative, used in traditional Indian medicine and as a starch source. The genus is part of the tribe Kaempferieae, which also includes [[boesenbergia-rotunda]] (fingerroot).
 
 Several Kaempferia species are cultivated as ornamentals for their attractive foliage patterns. K. parviflora itself is occasionally grown in ornamental gardens, though it is primarily valued for its rhizome.
 
@@ -85,29 +85,6 @@ Animal studies have shown improved sperm quality and increased testosterone leve
 
 The extract has demonstrated neuroprotective effects in animal models, including improvement of cognitive function and reduction of [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in brain tissue. These findings have expanded research interest beyond the traditional reproductive health applications.
 
-Antiallergic properties have also been documented, with the extract inhibiting histamine release and suppressing immunoglobulin E (IgE) production in vitro. These diverse pharmacological activities suggest potential for broader therapeutic applications.
+Antiallergic properties have also been documented, with the extract inhibiting histamine release and suppressing immunoglobulin E (IgE) production in vitro. These diverse pharmacological activities suggest potential for broader [[psilocybin-therapeutic-applications]].
 
 ## Cultivation and Commercial Production
-
-K. parviflora is propagated primarily from rhizome pieces (sets) rather than seeds. Rhizome segments of 20–30 g with at least one bud are planted at a depth of 3–5 cm in prepared beds. Planting is typically done at the onset of the rainy season (May–June) in Thailand.
-
-Optimal growth occurs in sandy loam soils with pH 5.5–7.0 under 40–60% shade. The crop requires consistent moisture during the growing period but tolerates dry conditions during dormancy. [[cervantes-organic-amendments-chart]], particularly [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], are commonly applied.
-
-Harvest occurs 8–10 months after planting, when aerial parts begin to senesce during the dry season. Yields of fresh rhizome average 8–15 tonnes per hectare under cultivated conditions. Post-harvest, rhizomes are washed, sliced, and either sun-dried or oven-dried at 50–60°C.
-
-Thailand is the world's largest producer and consumer of K. parviflora products. Annual commercial production is estimated at several hundred tonnes of dried rhizome. Export markets are growing, particularly in Japan, South Korea, and China.
-
-Dried K. parviflora rhizome contains approximately 60–70% carbohydrate (primarily starch), 5–8% protein, 1–2% fat, and 8–12% total polymethoxyflavones on a dry weight basis. The mineral profile includes significant amounts of potassium, calcium, and magnesium.
-
-The species has been granted Thai Geographical Indication (GI) status in some provinces, reflecting its cultural and economic importance. [[aact-compost-quality-standards-ingham]] for commercial products have been established by the Thai FDA.
-
-## See Also
-
-- [[kaempferia-rotunda]]
-
-- [[zingiber-officinale]]
-- [[curcuma-longa]]
-- [[alpinia-officinarum]]
-- [[curcuma-zedoaria]]
-- [[zingiber-cassumunar]]
-- [[zingiber-zerumbet]]

@@ -1,20 +1,20 @@
 ---
-title: "Mushroom mushroom-cultivation-for-disabilities-training-program - Pasteurization Methods"
+title: Mushroom Cultivation Disabilities Pasteurization Methods
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "A mushroom-cultivation-disabilities-training-manual-overview: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
+  - "A mushroom-cultivation-disabilities-training-manual-overview: accessible-mushroom-cultivation-for-disabilities by People with Disabilities (FAO RAP Publication 2001/12)"
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
 # Mushroom Cultivation for Disabilities - Pasteurization Methods
 
-Pasteurization is a critical step in mushroom cultivation, necessary to eliminate competing microorganisms from substrate bags before inoculation. If bags are not properly pasteurized, contamination will destroy the [[sustaining-mushroom-crop-flushing-harvesting]]. The FAO training manual describes three methods suitable for different scales of operation and resource availability, all of which can be performed by people with disabilities.
+Pasteurization is a critical step [[contamination-prevention-in-mushroom-cultivation]], necessary to eliminate competing microorganisms from substrate bags before inoculation. If bags are not properly pasteurized, contamination will destroy the [[sustaining-mushroom-crop-flushing-harvesting]]. The FAO training manual describes three methods suitable for different scales of operation and resource availability, all of which can be performed by people with disabilities.
 
 ## Why Pasteurization Matters
 
-Substrate bags contain organic materials (sawdust, rice bran, calcium compounds) that harbor naturally occurring bacteria, fungi, and other microorganisms. Without pasteurization, these organisms would outcompete the mushroom mycelium after inoculation. The goal is to destroy pathogens and competitor organisms while preserving a substrate environment suitable for [[pf-tek-mushroom-growth-timeline]].
+Substrate bags contain organic materials (sawdust, rice bran, calcium compounds) that harbor naturally occurring bacteria, fungi, and other microorganisms. Without pasteurization, these organisms would outcompete the [[antimicrobial-compounds-mushroom-mycelium]] after inoculation. The goal is to destroy pathogens and competitor organisms while preserving a [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] suitable for [[pf-tek-mushroom-growth-timeline]].
 
 ## Country-Type Pasteurization
 
@@ -69,7 +69,7 @@ This method uses a dedicated pasteurization chamber for larger-scale production.
 10. Transfer bags to the cleaned inoculation area
 
 **Advantages over country type:**
-- More precise temperature control via thermometer
+- More precise [[hamilton-greenhouse-heating-and-temperature-control]] via thermometer
 - Larger capacity per batch
 - More consistent results
 - Reduced manual monitoring
@@ -88,31 +88,3 @@ An optional method that can replace steam pasteurization, using [[fukuoka-textdo
 **Limitations:**
 - Dependent on weather conditions
 - May not achieve as consistent temperatures as steam methods
-- Not suitable during rainy season or cloudy days
-- Best used as a supplementary or experimental approach
-
-## Cost Considerations
-
-| Item | Cost (Baht) | Notes |
-|---|---|---|
-| 200-liter oil drums | 400-700 per set | Good for two years, pasteurizes 80-100 bags |
-| Gas tank and burner set | 2,000-3,000 per set | Optional; most farmers use branches instead |
-| Pasteurization cost per bag | ~0.03 Baht | For full production using tree branch fuel |
-
-## Post-Pasteurization Handling
-
-After pasteurization and cooling, bags must be transferred to the inoculation area which must be kept very clean and free of diseases. The inoculation room should be disinfected, free of air movement, and ideally equipped with a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet. Contamination at this stage wastes the entire pasteurization effort, so hygiene is paramount.
-
-## Adaptations for Disabilities
-
-All three pasteurization methods have been performed by disabled trainees. The country-type method is particularly accessible as it uses simple, locally available materials and does not require specialized equipment. Trainees who cannot lift heavy items can work in pairs or use adapted tools. The commercial method may require more physical strength for loading racks, but the training manual emphasizes that with creative thinking and adaptation, all tasks are achievable.
-
-## See Also
-
-- [[pasteurization-in-mushroom-cultivation]]
-
-- [[mushroom-cultivation-disabilities-training-manual-overview]]
-- [[mushroom-pasteurization]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- mushroom-cultivation-inoculation-methods
-- [[mushroom-substrates]]

@@ -3,15 +3,15 @@ title: Jerky Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [food, recipe, homesteading, homestead-crafts, preservation, drying, safety, preparation]
+tags: [food, recipe, [[homesteading]], homestead-crafts, preservation, drying, safety, preparation]
 sources: []
 ---
 
 ## What Is Jerky
 
-Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth. (see [[food-dehydration-guide]]).
+Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth.
 
-Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands. (see [[faires-salt-curing-and-clarified-fats]]).
+Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands.
 
 ## Meat Selection
 
@@ -36,7 +36,7 @@ Homemade jerky allows full control over ingredients, flavor, and quality, avoidi
 - Turkey breast — lean, mild, takes marinades well
 - Chicken breast — must be cooked to 165F before dehydrating
 - Pork loin — lean portions work; be extra careful about fat
-- Salmon — fish jerky is a Pacific Northwest tradition
+- Salmon — fish jerky is a [[psilocybin-north-america-pacific-northwest]] tradition
 - Bison — similar to beef, leaner
 
 ## Slicing Technique
@@ -63,10 +63,10 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Salt: soy sauce, Worcestershire sauce, or straight salt — 1-2 teaspoons per pound of meat minimum
 - Acid: vinegar, lemon juice, lime juice — tenderizes and adds tang
-- Sweetener: brown sugar, honey, maple syrup, molasses — balances salt and heat
+- Sweetener: brown sugar, honey, [[maple-syrup-production]], molasses — balances salt and heat
 - Umami: soy sauce, Worcestershire, fish sauce, MSG
 - Liquid smoke: hickory, mesquite, applewood — for smoky flavor without a smoker
-- Spices: black pepper, garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
+- Spices: [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
 
 ### Marinade Recipes
 
@@ -78,7 +78,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 - 1 teaspoon garlic powder
 - 1 teaspoon onion powder
 - 1 teaspoon fresh ginger, grated
-- 1/2 teaspoon black pepper
+- 1/2 teaspoon [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]]
 
 #### Spicy Southwest
 
@@ -120,14 +120,14 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Use hardwood: hickory, mesquite, apple, cherry, or oak
 - Smoke at 160-180F (71-82C) for 4-6 hours
-- Adding wood chips throughout provides continuous smoke flavor
+- Adding [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] throughout provides continuous smoke flavor
 - Finish in a dehydrator or low oven if not fully dried after smoking
 
 ### Oven
 
 - Set oven to the lowest setting (usually 170F / 77C)
 - Prop the door open slightly with a wooden spoon to allow moisture to escape
-- Place wire racks over sheet pans to allow air circulation
+- Place wire racks over sheet pans to allow [[stamets-growing-room-air-circulation-co2-management]]
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
@@ -148,7 +148,3 @@ Methods to achieve this:
 - Properly dried jerky should bend and crack, not snap
 - Any moisture remaining promotes mold growth
 - Test: take a piece, bend it — if it cracks but does not break, it is done
-
-
-## See Also
-- [[wine-making-from-grapes]]

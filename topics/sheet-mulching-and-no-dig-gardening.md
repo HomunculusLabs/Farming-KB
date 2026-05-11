@@ -5,6 +5,7 @@ tags: [permaculture, sheet-mulching, no-till, soil-building, lasagna-gardening, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
   - ~/wiki/raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-l.md
   - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md

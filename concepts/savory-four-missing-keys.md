@@ -10,7 +10,7 @@ type: concept
 
 # The Four Missing Keys
 
-Allan Savory identifies four fundamental insights, which he calls the four
+[[allan-savory]] identifies four fundamental insights, which he calls the four
 missing keys, that impeded the development of [[savory-holistic-resource-management-animal-impact]] management and
 still impede its acceptance. Each is simple to grasp individually but they only
 become truly obvious when taken together. These keys revealed why environmental
@@ -50,7 +50,7 @@ ecosystem.
 
 ### Key One: Management Must Be Holistic
 
-The discovery that holism is essential in resource management is the most vital
+The discovery that holism is essential [[savory-human-creativity-in-resource-management]] is the most vital
 of the four keys and the most difficult to understand and practice. No whole,
 whether a family, tribe, ranch, farm, or national economy, can be managed
 without looking inward to the lesser wholes that combine to form it and outward
@@ -62,7 +62,7 @@ within narrow disciplinary boundaries has produced ever-increasing problems.
 
 The second key recognizes that environments fundamentally differ in how they
 respond to rest, grazing, fire, and other management tools. Environments can
-be placed on a brittleness scale from nonbrittle to very brittle. In
+be placed on a [[savory-brittleness-scale]] from nonbrittle to very brittle. In
 nonbrittle environments, rest generally allows recovery and succession to
 advance. In brittle environments, rest tends to cause deterioration and
 succession to regress. This insight explains why management practices that
@@ -87,45 +87,3 @@ periodic disturbance and compaction that brittle environment soils require,
 leading to soil exposure, capped surfaces, and eventual desertification.
 
 ## Practical Applications
-
-Understanding the four missing keys transforms management decision-making. A
-manager who grasps holism considers all wholes affected by decisions. A manager
-who understands brittleness applies different tools in different environments.
-A manager who respects time plans the duration and frequency of every grazing
-event. A manager who recognizes the predator-herd relationship finds ways to
-restore necessary animal movement even where predators have been eliminated.
-
-### The Interdependence of the Keys
-
-The power of the four keys lies in their interdependence. Understanding that
-management must be holistic is meaningless without understanding how brittle
-and nonbrittle environments respond differently to the same tools. Knowing
-about brittleness is incomplete without understanding the time dimension in
-grazing and recovery. And recognizing the importance of time is insufficient
-without understanding how predator-prey relationships regulate herd movement
-and the frequency with which plants are exposed to grazing and trampling.
-
-Savory's own journey illustrates this interdependence. As a young game
-department officer, he observed that removal of game from tsetse fly areas did
-not improve the land, contrary to expectations. He noted that large buffalo
-herds moved constantly and seldom occupied any area longer than two or three
-days. Yet he could not connect these observations until he simultaneously
-grasped the brittleness concept and the time dimension through studying Andre
-Voisin's work on grazing.
-
-### Historical Resistance
-
-Each of the four keys was resisted when first proposed. The concept of holism
-advanced by Jan Smuts was considered philosophical rather than practical. The
-brittleness concept contradicted the universal recommendation to rest land.
-The time dimension challenged decades of research focused on animal numbers
-rather than animal behavior. The role of predators contradicted the dominant
-view that predators were competitors to be eliminated. Only when taken
-together do these keys form a coherent framework that explains the massive
-environmental deterioration of the past centuries.
-
-## Related Concepts
-
-- [[savory-brittleness-scale]]
-- [[savory-predator-prey-and-herding-behavior]]
-- [[savory-overgrazing-vs-overrest]]

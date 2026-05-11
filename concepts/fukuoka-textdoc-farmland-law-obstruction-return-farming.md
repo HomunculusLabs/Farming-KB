@@ -1,5 +1,5 @@
 ---
-title: Japanese fukuoka textdoc farmland law obstruction return farming and the Obstruction of Return to Farming
+title: Fukuoka Textdoc Farmland Law Obstruction Return Farming
 created: 2026-04-28
 tags:
   - fukuoka
@@ -11,19 +11,20 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 ## Overview
 
-Masanobu Fukuoka's vision of "Farming for All," in which every household
+[[masanobu-fukuoka]]'s vision of "Farming for All," in which every household
 in Japan could be self-sufficient on a quarter-acre of land, collides with
 a dense web of agricultural and land-use laws that he argues were designed
 to serve the interests of the powerful rather than the people. In one of
 the most politically charged sections of "The Natural Way of Farming,"
 Fukuoka dissects the [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]] Land Law, the City Planning
-Law, and the National Land Use Law to show how legal structures that
+Law, and the National Land Use Law to show how [[permaculture-designers-manual-legal-structures]] that
 purport to protect farmland actually prevent ordinary citizens from
 acquiring land and returning to farming. This page examines his critique
 of Japanese land law and his argument that legal reform, not land
@@ -87,60 +88,3 @@ land nor formally lease and work it as tenant farmers. The law that was
 established to protect tenant farmers today serves no other purpose than
 to thwart the hopes of those wishing to become farmers. There are
 loopholes: if earth is carried onto a piece of farmland or if the land is
-gradually turned into a lumberyard or flowers and trees planted there,
-then with time it can be converted into a category called "miscellaneous
-land." Once this is done, the land can be sold or a house built on it.
-
-The mountains, forests, and wilderness land that accounts for about eighty
-percent of Japan's land area are similarly tied up by titles and laws that
-prevent their practical use. If even a small portion of this area were
-freed for use as agricultural land, homesteading would begin immediately.
-
-## The Artificial Inflation of Farmland Prices
-
-Until recently, the price of farmland had always been stable, remaining
-more or less fixed at a given level. For prime farmland, the best price
-was one hundred ten bushels of rice per quarter-acre. Assuming a bushel of
-rice costs roughly twenty dollars, this comes to about twenty-two hundred
-dollars per quarter-acre. Farmers used this rate as a yardstick whenever
-they bought and sold land to each other, figuring that whoever bought the
-land could not make ends meet if prices went any higher.
-
-Prices and taxes on farmland became unjustly high when land began to be
-assessed on the same scale as housing land by local government. This was
-clearly designed to drive farmers off the land by burdening them with
-taxes too high to afford with the meager earnings generated on their land.
-Support was drummed up among city dwellers with the argument that once
-farmland was freed for use as housing land, the increase in supply would
-probably drive down prices. But this turned out to be wishful thinking;
-land released in this way never came within the reach of the common man.
-
-The oases of green left in towns and cities are no longer farmlands and
-are vanishing from the reach of the farmer. This tragedy will surely come
-to trouble all the farmers of this land. Someday too, these hardships of
-the farmer will return, in the form of calamity, to threaten the well-
-being of those living in the cities.
-
-## Fukuoka's Proposed Legal Minimalism
-
-Fukuoka's solution is radical in its simplicity. When people can do
-without a law, it is best not to have that law. Only the barest minimum
-of laws is needed, laws designed to create a world that can get along
-without laws. Were it necessary to have a single law, then it should be:
-"One shall build one's house at least sixty feet from one's neighbor."
-
-If people were to scatter out and build a small house on a quarter-acre
-wherever they pleased, then the food problem would take care of itself,
-water and sewage lines would not be needed, and the problem of pollution
-
-## See also
-
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
-- Mu Economics and the Economics of Natural Farming
-- [[fukuoka-textdoc-creating-true-people-do-nothing-road]] People on the Do-Nothing Road
-- Decentralized Self-Sufficient Communities
-
-## See Also
-
-- [[masanobu-fukuoka]]
-- [[natural-farming]]

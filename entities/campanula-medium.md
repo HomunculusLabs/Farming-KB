@@ -43,7 +43,7 @@ The calyx is notable, with five broadly triangular lobes that spread outward bet
 
 The fruit is a large, nodding capsule dehiscing by three basal pores. Seeds are numerous, small, light brown, and ellipsoid.
 
-The plant is distinguished from the similar Campanula latifolia by its broadly spreading calyx lobes and smaller stature. C. latifolia has linear calyx lobes and reaches 150 cm in height.
+The plant is distinguished from the similar [[campanula-latifolia]] by its broadly spreading calyx lobes and smaller stature. C. latifolia has linear calyx lobes and reaches 150 cm in height.
 
 Double-flowered forms (f. flore pleno) produce extra corollas within the main corolla, creating a ruffled, rose-like appearance. These doubles have been selected in gardens since the Renaissance period.
 
@@ -55,9 +55,9 @@ The species prefers cool, moist conditions with well-drained, fertile soils. It 
 
 Natural populations are scattered and localized, often restricted to mountainous regions. The species is not considered threatened but is uncommon in the wild.
 
-It has naturalized sporadically in temperate regions worldwide, particularly in the Pacific Northwest of North America, the British Isles, and parts of Australasia. These naturalized populations are usually short-lived and dependent on regular reseeding.
+It has naturalized sporadically in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, particularly in the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], the British Isles, and parts of Australasia. These naturalized populations are usually short-lived and dependent on regular reseeding.
 
-In its native mountain habitats, the species is typically found on limestone-derived soils. It associates with other subalpine forbs such as Geranium sylvaticum and Trollius europaeus.
+In its native mountain habitats, the species is typically found on limestone-derived soils. It associates with other subalpine forbs such as Geranium sylvaticum and [[trollius-europaeus]].
 
 ## Cultivation
 
@@ -75,7 +75,7 @@ The 'Champion' series is bred for cut flower production with strong stems and un
 
  Canterbury bells received the Royal Horticultural Society's Award of Garden Merit. They are classic cottage garden plants and make excellent cut flowers with a vase life of 7–10 days.
 
-Plants are susceptible to slugs on young growth and may develop rust (Puccinia) or powdery mildew in humid conditions. Providing good air circulation and avoiding overhead watering reduces disease problems.
+Plants are susceptible to slugs on young growth and may develop rust (Puccinia) or [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions. Providing good air circulation and avoiding overhead watering reduces disease problems.
 
 Staking is advisable in exposed sites, as the tall flowering stems can be top-heavy and prone to wind damage. Bamboo canes or grow-through supports work well.
 
@@ -88,34 +88,3 @@ The long flowering period provides an extended nectar source for pollinators in 
 As a biennial, the species plays a role in early successional plant communities in its native habitat. The basal rosette occupies ground in the first year, while the flowering stem provides vertical structure in the second year.
 
 The numerous small seeds are dispersed by wind from the dehiscent capsules. In garden settings, self-seeding is common and can produce naturalized colonies where conditions are favorable.
-
-The species is not known to form mycorrhizal associations as extensively as perennial Campanula species. Its short biennial life cycle may reduce reliance on long-term symbiotic relationships.
-
-## Uses
-
-Canterbury bells have been cultivated as ornamental garden plants since at least the late 1500s. They feature prominently in traditional English cottage gardens and Victorian bedding schemes.
-
-The species is primarily grown for its showy flower spikes, which make excellent cut flowers. Individual flowers last 7–10 days in water, and the full stem provides a long display.
-
-In the language of flowers, Canterbury bells symbolized gratitude and faithfulness. The bell shape was associated with church bells and pilgrimage in medieval Christian symbolism.
-
-The species has no significant history of culinary or medicinal use. The plant contains small amounts of caffeic acid derivatives but is not considered pharmacologically active.
-
-Canterbury bells remain popular in temperate gardens worldwide, valued for their old-fashioned charm and reliable biennial display. They are especially effective in mixed borders, where their tall spikes provide vertical accent among lower-growing perennials.
-
-The species is also grown commercially for the floristry trade, particularly the 'Champion' and 'Magic' series. These cultivars produce strong, uniform stems suitable for arrangement work.
-
-The biennial life cycle makes Canterbury bells useful for filling gaps in new garden plantings. They provide dramatic height and color in their flowering year while permanent perennials are still establishing.
-
-## See Also
-
-- [[campanula-persicifolia]]
-- [[campanula-glomerata]]
-- [[lobelia-cardinalis]]
-- [[digitalis-purpurea]]
-- [[aquilegia-vulgaris]]
-- [[primula-vulgaris]]
-- [[gentiana-lutea]]
-- [[verbascum-thapsus]]
-- [[lobelia-siphilitica]]
-- [[silene-vulgaris]]

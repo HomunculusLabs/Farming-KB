@@ -1,6 +1,6 @@
 ---
 title: Psychedelic Plants and Human Coevolution
-source: raw/papers/mckenna_t-food_of_the_gods.md
+source: mckenna_t-food_of_the_gods.md
 tags: [evolution, psychedelic-plants, human-origins, consciousness, coevolution]
 created: 2026-05-09
 ---
@@ -88,33 +88,3 @@ The mutation-inducing influence of diet and exotic plant metabolites on human ne
 The recovery of this relationship—as McKenna proposed through what he called the "Archaic Revival"—would not mean a simple return to prehistoric conditions but a conscious integration of ancient plant wisdom with modern knowledge. The application of botanically inspired steady-state solutions, such as zero population growth and massive recycling programs, might help reorganize societies along more holistic, environmentally aware, neo-Archaic lines.
 
 ## Criticisms and Limitations
-
-McKenna's hypothesis has attracted both interest and criticism from the scientific community. Several limitations should be noted:
-
-- **Limited archaeological evidence**: Direct evidence of psychoactive plant use by early hominids is sparse. While some archaeological findings suggest plant use by Neanderthals and early Homo sapiens, the specific claims about psilocybin mushrooms driving cognitive evolution lack definitive proof.
-- **Dosage speculation**: The dose-response curve McKenna proposed—visual enhancement at low doses, sexual arousal at moderate doses, visionary experiences at high doses—is based on modern pharmacological studies of contemporary humans, not on evidence from early hominids.
-- **Neurochemical complexity**: The human brain's evolution was shaped by countless factors—climate change, social organization, tool use, language, fire, cooking. Isolating the role of psychoactive plants from this complex web of causal factors is extremely difficult.
-- **Alternative explanations**: The emergence of consciousness, language, and culture can be explained by other hypotheses that do not require psychoactive plants as a causal factor.
-
-Despite these limitations, McKenna's hypothesis remains valuable as a thought experiment that challenges the assumption that human-plant relationships have been purely instrumental. At minimum, the hypothesis draws attention to the remarkable fact that the human brain contains receptors specifically tuned to respond to plant-produced psychoactive compounds—a fact that demands explanation regardless of whether one accepts the full coevolutionary argument.
-
-## The Broader Significance
-
-Whether or not one accepts McKenna's specific claims about psilocybin mushrooms and human evolution, the broader argument—that psychoactive plants have played a significant role in shaping human culture and consciousness—is well-supported by ethnographic and historical evidence. Every human civilization has used psychoactive plants; none has been without them. The near-universality of plant-based altered states across cultures suggests that these plants address a deep human need that persists regardless of cultural context.
-
-The suppression of this relationship—through drug prohibition, religious prohibition, and the medicalization of altered states—represents, in McKenna's view, a historically recent and culturally specific aberration. The recovery of a balanced relationship with psychoactive plants, one that integrates their benefits while respecting their dangers, may be essential for the continued development of human consciousness and the healing of the rift between humanity and nature.
-
-The question McKenna poses is ultimately simple but profound: if psychoactive plants have been humanity's companions since the beginning, what have we lost by banishing them from our lives? And what might we regain by welcoming them back—not as indulgences or escapes, but as teachers and partners in the ongoing adventure of consciousness? The answer, he suggested, may determine whether humanity has a future at all.
-
-## See Also
-
-- [[shamanism-techniques-of-ecstasy]] — Shamanic use of psychoactive plants
-- [[psilocybin-psilocin-chemistry]] — Chemistry of psilocybin and psilocin
-- [[hallucinogenic-mushroom-dosage-effects]] — Dose-dependent effects of psilocybin
-- [[amanita-muscaria-vs-psilocybe]] — Comparison of psychoactive mushroom genera
-- [[pf-tek-substrate-preparation]] — Modern cultivation of psilocybin mushrooms
-- [[pf-tek-fruiting-harvesting]] — Fruiting and harvesting methods
-- [[fukuoka-natural-farming-five-principles]] — Natural partnership with plants in agriculture
-- [[fukuoka-clay-pellet-revegetation]] — Ecological restoration through partnership
-- [[cannabis-microbiome-two-tier-selection]] — Plant-microbe community dynamics
-- [[cannabis-rhizosphere-endorhiza-communities]] — Underground plant-fungal relationships

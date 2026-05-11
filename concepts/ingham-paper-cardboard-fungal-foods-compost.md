@@ -4,6 +4,7 @@ tags: [compost, fungi, paper, cardboard, fungal-foods, inoculum, elaine-ingham, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
@@ -87,46 +88,3 @@ These size ranges ensure adequate surface area for fungal colonization while mai
 ### Compost Integration
 
 For building fungal-dominant compost specifically for compost tea production:
-
-- Add shredded paper and cardboard at the beginning of the composting process
-- Combine with other wide carbon-to-nitrogen ratio materials such as wood chips, dried leaves, and other plant debris
-- Ensure adequate nitrogen sources are included to achieve thermophilic temperatures needed for pathogen reduction
-- Fungi will become the dominant organisms in the finished compost
-
-## Entomopathogenic Fungi and Pest Control
-
-The insect-parasitizing fungi that colonize paper and cardboard have direct practical applications for pest management:
-
-- **Root grubs and wireworms**: Compost tea containing *Beauveria* can be applied as a soil drench at 150 liters per hectare. The fungus becomes active on contact with soil-dwelling insect larvae. For fruit fly larvae specifically, fall application gives the fungus all winter to parasitize overwintering larval stages.
-
-- **Tent caterpi [[bacillus-thuringiensis]] us thuringiensis* (Bt) must be ingested to be effective, *Beauveria* and other insect-attacking fungi can penetrate insect cuticles directly. A high-bacterial brew applied to tents may help spread these fungi.
-
-- **Fruit fly management**: A combined approach using *Beauveria* as a soil drench plus beneficial bacteria on foliage to repel adult flies has shown promise. The soil application targets larvae while the [[ultra-low-cost-foliar-application-methods]] targets adults.
-
-Specificity exists between insect-attacking fungi and their target insects. Bruce Elliott has worked on matching different fungal species to different insect pests. Data collection on survival and growth of these organisms in tea, compost, and soil is essential before investing in commercial inoculum products.
-
-## Forest Litter Comparison
-
-The "O" horizon (organic horizon) of forest soil serves as a natural model for what paper and cardboard can achieve in compost. Forest litter decomposes into dark brown humus rich in [[fungal-hyphae]]. Adding paper and cardboard to compost accelerates this humification process by providing the carbon skeleton that fungi use to build soil organic matter and eventually humic acids.
-
-## Diversity and Fungal Succession
-
-Ingham emphasizes that diversity of food resources is key to building diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. Paper and cardboard contribute to this diversity by providing a carbon source that is structurally different from green plant materials, wood chips, or food waste. The more kinds of food resources balanced for the desired fungal-to-bacterial ratio, the more diverse the resulting organism community.
-
-When building compost with paper and cardboard, the goal is not to make the entire pile from these materials. Instead, include them as one component among many. A handful of onion or garlic material can be added to select for organisms that tolerate aromatic compounds, but these strong-smelling materials should not dominate the pile. The principle is to create microenvironments within the compost that support different organism types, building maximum overall diversity.
-
-## Cardboard for Weed Suppression
-
-Beyond its value as a fungal food, cardboard serves as an effective weed suppression barrier when applied as sheets on the soil surface. The cardboard blocks light, preventing weed seed germination, while simultaneously providing a substrate for beneficial fungal colonization. As the cardboard breaks down, it contributes to soil organic matter and improves soil structure.
-
-## Testing and Verification
-
-Before committing large quantities of paper or cardboard to compost production, Ingham recommends testing the material with a small batch. Make compost tea from a small amount of the paper-amended compost, then send samples to a laboratory for organism assessment. Compare the results against compost made without the paper or cardboard addition. This approach provides data-driven confidence that the material supports beneficial organism growth.
-
-The same comparative testing approach applies to any new ingredient. Without testing, assumptions about whether a material benefits or harms the biology remain speculation. The only reliable way to know whether a new ingredient is beneficial or detrimental is to test for active organism impacts. Plate count methods typically lack the sensitivity to detect these changes; direct microscopy assessment of active and total organisms is required.
-
-## Related Concepts
-
-- [[aact-compost-quality-standards-ingham]]
-- [[actinomycetes-soil-biology]]
-- [[fungal-decomposition-nutrient-cycling]]

@@ -1,5 +1,5 @@
 ---
-title: Reversed-Phase HPLC Methodology for Tryptamine Alkaloid Quantification in Mushroom Tissue
+title: Reversed Phase Hplc Tryptamine Alkaloid Quantification Methodology
 created: 2026-05-09
 tags: [analytical-chemistry, hplc, psilocybin, psilocin, tryptamine, quantification, reversed-phase, calibration]
 date: 2026-05-09
@@ -11,7 +11,7 @@ type: concept
 
 # Reversed-Phase HPLC Methodology for Tryptamine Alkaloid Quantification in Mushroom Tissue
 
-Bigwood and Beug's 1982 study of psilocybin and psilocin variation across flushes
+Bigwood and Beug's 1982 study of [[hplc-analysis-of-psilocybin-and-psilocin]] [[psilocybin-variation-across-flushes]]
 employed reversed-phase high performance liquid chromatography (HPLC) as the
 primary analytical technique. The methodological details of their HPLC approach,
 while briefly described in the published paper, established a quantitative
@@ -34,7 +34,7 @@ psilocybin under appropriate mobile phase conditions.
 Detection was performed using UV absorbance, which is appropriate for
 psilocybin and psilocin because both compounds contain indole chromophores
 with strong absorption in the 260-280 nanometer range. The indole ring system
-provides a reliable UV signal that enables detection at the low concentration
+provides a reliable UV signal that enables detection at the [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]
 levels found in mushroom tissue.
 
 ## Calibration and Quantification
@@ -75,7 +75,7 @@ actual zeros.
 The extraction procedure was described in a previous paper by the same authors.
 The general approach for tryptamine alkaloid extraction involves acidic aqueous
 extraction of dried mushroom material, basification, and extraction into an
-organic solvent. This separates basic tryptamine alkaloids from acidic and
+organic solvent. This separates basic [[hplc-analysis-of-tryptamine-alkaloids]] from acidic and
 neutral matrix components. Extraction efficiency depends on particle size,
 extraction time and temperature, aqueous phase pH, and solvent choice.
 Incomplete extraction would produce systematically low values but would not
@@ -87,50 +87,4 @@ The HPLC results were qualitatively confirmed using thin-layer chromatography
 (TLC) with a butanol-acetic acid-water (12:3:5) mobile phase. This
 confirmation step serves as an orthogonal analytical method that helps verify
 compound identity based on a different separation mechanism. TLC separates
-compounds based on their relative affinity for the stationary silica gel phase
-versus the mobile liquid phase, providing retention factor (Rf) values that
-can be compared with reference standards.
-
-The TLC confirmation is particularly valuable for distinguishing psilocybin
-and psilocin from co-eluting or co-migrating compounds that might produce
-false-positive HPLC peaks. In mushroom tissue, potential interfering compounds
-include other tryptamine derivatives such as baeocystin and norbaeocystin,
-as well as unrelated indole-containing compounds from the fungal matrix.
-
-## Sources of Analytical Variability
-
-The approximately 10 percent repeatability of the HPLC calibration contributes
-to the observed four-fold variation in psilocybin levels across flushes, but
-cannot account for the full magnitude of the variation. Additional sources of
-analytical variability include:
-
-1. **Extraction efficiency variability**: Differences in how completely
-   psilocybin and psilocin are extracted from different tissue samples
-2. **Sample heterogeneity**: Non-uniform distribution of alkaloids within
-   individual mushrooms and across mushrooms within a single flush
-3. **Matrix effects**: Co-extracted compounds that modify chromatographic
-   behavior or detector response
-4. **Stability during storage**: Potential degradation of psilocin during
-   freeze-drying, storage at minus 5 degrees Celsius, or sample reconstitution
-
-The ten-fold variation observed in street samples likely reflects genuine
-biological variation compounded by differences in cultivation conditions,
-strain genetics, and post-harvest handling rather than analytical artifacts.
-
-## Methodological Evolution
-
-Subsequent analytical work has employed GC-MS and LC-MS for higher sensitivity
-and definitive identification through mass spectral matching. However, the
-reversed-phase HPLC approach remains practical for laboratories without mass
-spectrometry capabilities. Modern HPLC methods use smaller particle columns
-(3-5 micrometers), providing improved resolution and shorter run times. Diode
-array detection has also improved identification confidence relative to
-single-wavelength UV detection used in the original study.
-
-## See Also
-
-- [[hplc-analysis-of-psilocybin-and-psilocin]]
-- [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]]
-- [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
-- [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]
-- [[analytical-methods-psilocybin-psilocin-quantification]]
+compounds based on their relative affinity for the stationary [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] phase

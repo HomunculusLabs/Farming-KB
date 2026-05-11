@@ -87,35 +87,3 @@ The demand-level system has practical consequences for garden planning:
 6. **Observation-based adjustment**: Solomon urges gardeners to let plant performance guide fertility decisions. If a crop shows deficiency symptoms (yellowing leaves, stunted growth, poor fruit set), it is telling you its demand level has not been met. Respond by increasing inputs for that crop or bed next season. If a crop produces excessive foliage but poor fruit or root development, it may be receiving too much nitrogen relative to phosphorus and potassium.
 
 ## Fertility Requirements in Practice
-
-Understanding demand levels translates directly to garden planning decisions. A garden with limited compost might allocate its entire compost supply to the beds designated for high-demand crops, while low-demand legumes and root crops grow in unamended or minimally amended soil. This targeted approach produces far more total nutrition than spreading compost thinly and uniformly across all beds.
-
-Solomon also notes that the apparent demand level can shift depending on the plant's growth stage. Many crops begin as low-demand seedlings and transition to higher demand as they approach maturity. Corn, for example, needs only modest nutrition until it reaches knee height, after which its nitrogen demand increases sharply through tasseling and ear development. Side-dressing at the appropriate growth stage — rather than all at planting — makes much more efficient use of limited fertilizer.
-
-## Variety Selection Within Demand Levels
-
-Within each demand level, individual varieties can differ significantly in their fertility requirements. Among cabbages, some varieties produce acceptable heads in moderate soil while others fail completely without rich conditions. Among tomatoes, determinate varieties generally have lower total nutrient demand than indeterminate types because they complete their lifecycle in a shorter period. Solomon recommends trialing multiple varieties to identify those that perform best with the fertility resources available.
-
-Open-pollinated varieties often have lower total nutrient demand than modern hybrids because they were developed in eras when garden fertility was more modest. Hybrids, bred for maximum yield under high-input conditions, may actually underperform OP varieties when grown with moderate fertility. This is one of Solomon's arguments for maintaining and selecting OP varieties suited to low-input gardening.
-
-## Soil Type Interactions
-
-The demand level classification assumes reasonably good soil structure. In extreme soil types, the effective demand may shift:
-
-- **Sandy soils**: Hold fewer nutrients and less water. All vegetables effectively become higher-demand because nutrients leach more rapidly and moisture stress occurs sooner. More frequent, lighter applications of fertilizer and more frequent irrigation are needed.
-- **Heavy clay soils**: Hold nutrients tightly, making them less available to plants. Phosphorus is particularly prone to being "locked up" in clay. Despite high total nutrient content, vegetables may show deficiency symptoms. Adding organic matter to improve clay structure is more important than adding more fertilizer.
-- **Acidic soils**: Many essential minerals (especially calcium, magnesium, and phosphorus) become less available at low pH. Lime is the primary remedy, and COF's lime component helps address this. Solomon's approach of applying the full COF formula annually (including the lime fractions) gradually corrects soil acidity without the need for separate pH management. Solomon explicitly advises against liming solely to adjust pH, arguing that if soil-building practices (compost, manure, COF) are followed consistently, pH will correct itself naturally over time — more due to the increased organic matter than from the calcium and magnesium additions alone.
-
-## Climate Effects on Demand Levels
-
-Temperature has a profound effect on how well vegetables can access soil nutrients. In hot climates, organic matter decomposes rapidly, releasing nutrients quickly. Vegetables can meet their full demand potential with relatively modest soil fertility. In cool maritime climates (the Pacific Northwest, UK, Tasmania), soil temperatures may remain low throughout the growing season, severely slowing decomposition and nutrient release. In these conditions, vegetables that are normally classified as medium-demand may behave as if they were high-demand, requiring concentrated nutrient sources like COF in addition to compost.
-
-Solomon's own experience in Tasmania and Oregon's Willamette Valley informs this distinction. He found that the same variety of cabbage that produced excellent heads in a hot-climate garden with moderate compost inputs failed to form heads at all in his cool-climate garden with identical inputs — until he added COF. The demand level classification is a starting framework; actual garden conditions may shift a crop's effective demand up or down by one tier.
-
-## Related
-
-- [[vegetable-nutrient-demand-categories-solomon]] Concepts
-
-- [[building-soil-fertility-long-term]]
-- [[vegetable-seed-spacing-systems]]
-- [[crop-rotation-principles]]

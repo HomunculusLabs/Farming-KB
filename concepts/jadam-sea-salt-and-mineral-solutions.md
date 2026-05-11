@@ -88,15 +88,3 @@ Modern science cannot precisely determine which mineral is deficient or in what 
 
 - JMS medium: 0.5 kg sea salt per 500 L
 - [[jadam-liquid-fertilizer-nutritional-perspective]]: add sea salt up to certain concentration to supplement minerals
-- Soil foundation work: combined with JMS and phyllite solution
-
-## Related
-
-- [[jadam-seawater-mineral-supplementation]]
-- [[jadam-phyllite-mineral-solution]]
-- [[jadam-natural-mineral-water]]
-- [[teaming-with-nutrients-fertilizer-application]]
-- [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-soil-foundation-work]]
-- [[jadam-phyllite-mineral-solution]]
-- [[jadam-salt-accumulation-in-soil]]

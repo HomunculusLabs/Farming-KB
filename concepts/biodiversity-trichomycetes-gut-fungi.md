@@ -1,5 +1,5 @@
 ---
-title: "Trichomycetes: Gut Fungi of Arthropods"
+title: Biodiversity Trichomycetes [[anaerobic-gut-fungi]]
 created: 2026-04-28
 tags:
   - biodiversity-symbiosis
@@ -88,57 +88,7 @@ immature stages.
 
 ## Collection and Dissection Methods
 
-The primary collecting instrument is an aquatic D-shaped net with small
-mesh. Stream substrata of rocks and gravel can be kicked to release
-insects that drift downstream into the net. White plastic trays
-(approximately 40 by 30 cm) serve as repositories for sorted material.
-Arthropods should be kept alive and cold for dissection. Aquatic
-insects can be refrigerated in shallow layers of water at low densities.
-Marine crustaceans are collected by hand or net at low tide and kept in
-seawater without refrigeration. Terrestrial arthropods are collected by
-hand and kept moist but not wet.
-
-Dissection requires fine jeweler's forceps, sharp razor blades, fine
-dissecting needles, and iris scissors under a dissecting microscope.
-For mayfly and stonefly nymphs, the posterior abdominal segment is
-pulled to extract the hindgut. Dipteran larvae require removal of both
-the posterior end and head to access the gut. Harpellales attached to
-peritrophic membranes in the midgut can be cleared by lifting the
-membrane through the water surface. Larger arthropods may require
-overnight soaking in dilute lactophenol to loosen chitinous linings.
-
-## Cultivation and Identification
-
-Only some Harpellales (more than 190 isolates) and Amoebidium
-parasiticum currently exist in axenic culture. The preferred isolation
-medium is dilute brain-heart infusion (1/10 BHI) amended with thiamine
-and biotin. An insect larva is dissected, the hindgut removed, washed
-in antibiotic solution (penicillin G and streptomycin sulfate), and
-transferred to medium overlaid with sterile distilled water. Cultures
-are monitored daily, with growth typically appearing in 2 days to 2
-weeks. Culturing requires water as an overlayer on agar and transfers
-by breaking up colony pieces since trichospores of most isolates do not
-germinate in vitro. Long-term storage in liquid nitrogen is preferred.
-
-Identification relies on both sporulating and nonsporulating features.
-For Harpellales, key characters include thallus type, basal holdfast
-structures, number of trichospore appendages, presence or absence of
-trichospore collars, and zygospore type. In Asellariales the holdfast
-is especially important, while Eccrinales identification emphasizes
-thallus shape, size, and sporangiospore types. Water mounts are
-preferred for [[fungal-microscopic-examination-mounting-media-techniques]] to preserve fine details such as
-trichospore appendages, with lactophenol cotton blue added after
-initial study. Excellent keys are available from Lichtwardt (1986) and
-subsequent publications.
-
-## Related
-
-- biodiversity-fungi-aquatic-environments — broader context of
-  [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] in aquatic systems
-- [[fungal-culture-media]] — media for isolating gut
-  fungi and related microorganisms
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] —
-  [[staycare-molecular-approaches-fungal-bioremediation]] to identifying trichomycete taxa
-- [[guzman-africa-neurotropic-fungi-underexplored-biodiversity]]
-- [[biodiversity-of-fungi-ecosystem-services-agriculture]]
-- [[biodiversity-nematophagous-predatory-fungi]]
+## See Also
+- [[biodiversity-fungi-soil-fungal-communities]]
+- [[biodiversity-fungi-freshwater-aquatic-habitats]]
+- [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]]

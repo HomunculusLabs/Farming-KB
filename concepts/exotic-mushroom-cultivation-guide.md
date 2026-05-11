@@ -88,10 +88,3 @@ Mist casings **daily** and never let the surface dry out. Increase watering afte
 | Maturation | 5 to 7 days |
 | Typical flushes | 3 (up to 5 to 6) |
 | Sclerotia duration | Up to 4 months |
-
-## See Also
-- [[mushroom-cultivation-sterile-technique]]
-- [[mushroom-cultivation-methods]]
-- [[mushroom-cultivation]]
-- [[psilocybe-mexicana]]
-- [[substrate-preparation]]

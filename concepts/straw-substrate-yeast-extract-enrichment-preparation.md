@@ -1,5 +1,5 @@
 ---
-title: "[[oyster-straw-substrate-preparation]] with Yeast [[straw-substrate-yeast-extract-enrichment-jarrold]]"
+title: Straw Substrate Yeast Extract Enrichment Preparation
 source: "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag - D.H. Jarrold"
 source_author: "D.H. Jarrold"
 topics: mushroom-cultivation, substrate, straw, yeast-extract, nutrition, preparation
@@ -88,55 +88,3 @@ critical — substrate that is too wet will promote bacterial contamination and 
 exchange, while substrate that is too dry will slow mycelial growth.
 
 The target moisture content for straw substrate is typically described as achieving "field
-capacity" — the point at which the straw has absorbed as much water as it can hold against
-gravity, but no free water drains from a handful when squeezed firmly. When a handful of
-substrate at field capacity is squeezed, a few drops of water should emerge between the
-fingers, but the substrate should not drip continuously.
-
-## Brown Rice Flour Supplementation
-
-After draining, the straw substrate is supplemented with brown rice flour to provide additional
-carbohydrate nutrition for the mycelium:
-
-- **Application**: For six bags' worth of substrate, approximately three to four handfuls of
-brown rice flour are sprinkled evenly over the drained straw. The flour is then thoroughly
-mixed into the straw using hands, ensuring even distribution throughout the substrate mass.
-
-- **Purpose**: Brown rice flour provides readily available complex carbohydrates that the
-mycelium can metabolize for energy. While the straw itself provides structural carbon, the
-rice flour offers a more accessible carbon source that accelerates early mycelial
-colonization. The flour also contributes additional B vitamins and minerals.
-
-- **Considerations**: Supplementation increases the nutritional value of the substrate but
-also increases the risk of contamination, as the added nutrients are equally available to
-competing organisms. This is one reason why thorough sterilization in the pressure cooker is
-essential after the substrate has been supplemented and bagged.
-
-## Filling the Bags
-
-Once supplemented, the straw mixture is firmly packed into the boil-a-bags until they are
-almost full, leaving enough room at the top to insert the filter can. Firm packing is
-important — air pockets within the substrate can harbor contaminants and slow mycelial
-colonization. However, over-packing can restrict gas exchange and make it difficult for the
-mycelium to penetrate the substrate. The goal is a firm, uniform pack with no large air gaps.
-
-## Integration with Sterilization
-
-After filling, the filter cans are secured to the bags and the entire assembly is sterilized
-in a pressure cooker at 15 psi for 60 minutes. This sterilization step kills any remaining
-organisms in the substrate, creating a clean slate for the mushroom spores to colonize without
-competition. The combination of the initial boiling water treatment and the pressure cooker
-sterilization provides a high level of substrate cleanliness that supports reliable
-cultivation results even for home growers working in non-laboratory conditions.
-
-## Practical Notes
-
-- Marmite, Vegemite, and other yeast extract products are functionally equivalent for this
-purpose. The key is the B vitamin and amino acid content, which is similar across brands.
-- The boiling water soak should be performed with care to avoid burns. The container and straw
-will be extremely hot during and immediately after the soak.
-- Brown rice flour should be fresh and free from mold contamination. Stale flour that has been
-stored in humid conditions may introduce contaminants rather than nutrition.
-- The entire substrate preparation process from chopping to bag filling should be completed in
-a single session to minimize the time the hydrated substrate sits exposed before
-sterilization.

@@ -11,6 +11,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
   - "Allen (1998) - Magic mushrooms of the Hawaiian Islands"
   - "Merlin & Allen (1993)"
@@ -87,35 +88,3 @@ Hawaii's neurotropic fungal diversity significantly exceeds that of other [[guzm
 | Solomon Islands | 1 species |
 | Bononi Islands | 1 species |
 | New Caledonia | 1 species |
-
-The disparity between Hawaii and smaller Pacific islands likely reflects both sampling effort (Hawaii has been surveyed much more extensively by mycologists) and the availability of suitable habitat, particularly the extent of cattle pastureland on larger islands. Hawaii's larger land area and longer history of livestock introduction provide more ecological space for dung-inhabiting fungi to establish populations.
-
-## Ethnomycolgical Context
-
-The ethnomyological significance of Hawaiian neurotropic fungi remains less studied than that of Mesoamerican or Southeast Asian species. While the indigenous Hawaiian (Kanaka Maoli) tradition does not appear to include well-documented ritual use of psychoactive mushrooms, the presence of Copelandia species in Hawaiian pastures has been known to both residents and visitors for decades. Allen & Merlin's work documented contemporary use patterns, and the islands have been a destination for individuals seeking psychoactive fungi since at least the 1970s. The legal status of these fungi in Hawaii has evolved alongside broader U.S. and state drug policy.
-
-## Research History
-
-The primary documentation of Hawaiian neurotropic fungi comes from the collaborative fieldwork of John W. Allen and Mark D. Merlin, whose studies spanned the 1990s. Allen's 1998 monograph *Magic Mushrooms of the Hawaiian Islands* (published as *Ethnomycol. J. Sacred Mushroom Studies* 4: 1-52) represents the most comprehensive treatment. Earlier reports by Pollock (1976), Ola'h (1968, 1970), and Weeks et al. (1979) provided initial species records, while Stijve's chemical analyses (1992, 1995) confirmed the presence of psychoactive compounds in Hawaiian collections.
-
-The fact that Guzmán, Allen & Gartz (1998) listed Psilocybe cubensis with a question mark for Hawaii is particularly noteworthy. Given that Allen himself was a co-author of the 1998 paper and had published a dedicated Hawaiian monograph the same year, this uncertainty likely reflects genuine taxonomic or distributional ambiguity rather than simple lack of data. It may indicate that some Hawaiian collections previously identified as P. cubensis were reassigned to Copelandia species upon closer examination.
-
-## Biogeographic Significance
-
-The Hawaiian neurotropic mycoflora demonstrates several important biogeographic principles:
-
-- **Anthropogenic dispersal dominates**: Most species are almost certainly introduced through human activity rather than natural long-distance dispersal, given Hawaii's extreme oceanic isolation and the lack of land connections to any continent.
-
-- **Multiple source regions**: The species assemblage reflects introductions from Southeast Asia (C. cambodginiensis), the Americas (C. cyanescens), and widespread pantropical taxa (C. tropicalis, P. subbalteatus), suggesting multiple independent introduction events over the past two centuries of increased Pacific trade.
-
-- **Establishment success correlates with climate matching**: The similarity of Hawaii's climate to the native ranges of these tropical species has allowed them to establish viable, reproducing populations rather than existing as transient, non-reproducing introductions.
-
-- **The P. cubensis anomaly**: The uncertain status of P. cubensis in Hawaii remains biogeographically puzzling. This species is typically the most abundant and widespread neurotropic fungus in tropical cattle-grazing regions worldwide, and its apparent absence or rarity in Hawaii — despite abundant cattle pastures — warrants further investigation through molecular and field studies.
-
-## Related Topics
-
-- [[copelandia-cyanescens-profile|Copelandia cyanescens]]
-- [[copelandia-cambodginiensis-profile|Copelandia cambodginiensis]]
-- [[amanita-muscaria|Amanita muscaria]]
-- [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi|Underexplored regions comparison]]
-- [[guzman-allen-gartz-trans-pacific-species-pairs-psilocybe-biogeography|Trans-Pacific biogeography]]

@@ -87,37 +87,3 @@ of LSD's psychoactive properties in 1943 launched the modern era of
 [[mckenna-suppression-psychedelic-research-lsd-therapy]] and had enormous cultural consequences throughout
 the 20th century. All subsequent synthetic ergoline psychoactives are
 derived from or modeled on the ergot alkaloid framework.
-
-## Agricultural Impact
-
-Claviceps purpurea remains a significant agricultural pathogen, affecting
-rye, wheat, barley, oats, and other cereals. Modern grain cleaning
-methods have largely eliminated ergotism as a public health concern in
-developed countries, but it remains a problem in subsistence farming
-communities. Ergot alkaloids are also used in modern medicine, with
-ergotamine used for migraine treatment and ergometrine for postpartum
-hemorrhage control.
-
-## Pharmacological Mechanism
-
-Ergot alkaloids act on multiple receptor systems. Their effects on
-serotonin receptors (particularly 5-HT1A, 5-HT1B, 5-HT1D, and 5-HT2)
-contribute to their psychoactive properties. They also act on dopamine
-receptors (D1 and D2) and alpha-adrenergic receptors, producing
-vasoconstriction and effects on smooth muscle. This multi-receptor
-pharmacology distinguishes ergot alkaloids from the more selective
-serotonergic action of psilocybin.
-
-## Distribution
-
-Claviceps purpurea is cosmopolitan, found wherever its host grasses grow.
-It is most common in cool, humid climates, particularly in rye-growing
-regions of Europe, Russia, and [[psilocybin-north-america-pacific-northwest]]. C. paspali is tropical and
-subtropical. C. fusiformis is primarily African and South Asian. The
-genus as a whole demonstrates the broad ecological adaptability of
-ergot fungi across diverse [[permaculture-designers-manual-climatic-zones-tropical]] and grass hosts.
-
-## See Also
-
-- [[neurotropic-fungi-classification]]
-- [[traditional-indigenous-use-sacred-fungi]]

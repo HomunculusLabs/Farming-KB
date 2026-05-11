@@ -11,7 +11,7 @@ and fungus-like organisms, most notably the oomycetes (including Phytophthora
 and Pythium species) and the chytrids (true fungi). These motile spores are
 uniquely adapted for dispersal and host-finding in aquatic and water-saturated
 environments, playing critical roles in the epidemiology of plant diseases and
-the ecology of aquatic ecosystems.
+the ecology of [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ## Zoospore Structure
 
@@ -79,72 +79,12 @@ foliar Phytophthora diseases.
 
 ## Ecological Role in Aquatic Systems
 
-Zoosporic fungi and oomycetes play important ecological roles in aquatic
+[[anaerobic-zoosporic-fungi]] and oomycetes play important [[ecological-roles-fungi-ecosystems]] in aquatic
 ecosystems. Chytrid species are parasites of algae and contribute to the
 regulation of algal populations in freshwater systems. Other zoosporic fungi
 are saprotrophs that decompose pollen, plant detritus, and other organic
-materials in aquatic environments.
+materials in [[fungal-roles-aquatic-environments]].
 In salt marsh ecosystems, the transition from aerobic to anaerobic
 conditions with increasing sediment depth affects the distribution of
 zoosporic organisms. While zoospore-producing fungi and oomycetes are active
 in the aerobic surface layers, they are replaced by bacteria in the deeper
-anaerobic zones. The ability of some fungi to conduct oxygen through hyphae
-to colonizing fronts in anaerobic zones provides a partial bridge between
-these zones.
-
-## Encystment and Germination
-
-The transition from motile zoospore to sessile cyst (encystment) is a
-critical developmental switch that allows the organism to transition from a
-dispersal phase to an establishment phase. During encystment, the zoospore
-rounds up, retracts its flagella, and deposits a new cell wall containing
-cellulose and beta-glucans.
-Cysts can remain dormant for extended periods, particularly under
-desiccating conditions, and germinate when environmental conditions become
-favorable. Germination involves the emergence of a
-[[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] that
-penetrates the host surface or substrate. The cyst stage is also more
-resistant to environmental stress than the motile zoospore, providing a
-survival mechanism during unfavorable conditions.
-
-## Temperature and Environmental Regulation
-
-Temperature critically regulates zoospore production and behavior. Different
-Phytophthora species have different temperature optima for zoospore release
-and motility. At suboptimal temperatures, sporangia may germinate directly
-without zoospore release.
-The temperature sensitivity of zoospore biology means that climate change
-could alter the epidemiology of zoosporic diseases by shifting the
-geographic ranges and seasonal patterns of pathogen activity. Brasier (1996)
-suggested that the severity of cold winters in central and northern Europe
-would limit the northward spread of Phytophthora cinnamomi, but warming
-trends associated with climate change may gradually expand the range of this
-devastating pathogen. Understanding the temperature responses of zoospore
-biology is therefore important for predicting the impacts of climate change
-on plant disease distributions.
-
-## Zoospore Communication and Sensing
-
-Zoospores are not simply passive swimmers directed by host cues. Recent
-research has revealed sophisticated inter-zoospore communication mechanisms
-that coordinate group behavior and enhance infection success. Zoospores of
-several Phytophthora species produce auto-attractants that recruit other
-zoospores to a developing infection site, creating localized aggregations
-that increase the probability of successful host penetration.
-These aggregation behaviors are mediated by species-specific signaling
-molecules, including isoflavonoids and other phenolic compounds released
-during encystment. The concentration of these signals creates a positive
-feedback loop: initial zoospores that encyst release attractants that
-recruit additional zoospores to the same location. This coordinated
-encystment strategy overwhelms local plant defenses more effectively than
-individual zoospore infections would.
-Zoospores also exhibit avoidance behavior in response to certain chemical
-signals. Some plant species produce zoospore-repellent compounds as a
-defense mechanism. The [[fungal-biology-fundamentals]] literature notes that
-understanding these signaling pathways offers potential for developing novel
-disease control strategies that disrupt zoospore host-finding without
-relying on broad-spectrum chemical treatments.
-Physical sensing mechanisms complement chemical communication. Zoospores
-detect and respond to surface topography, preferring grooves and
-microdepressions that facilitate encystment. Electrical field sensing,
-known as galvanotaxis, allows zoospores to orient along the electrical

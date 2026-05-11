@@ -19,9 +19,9 @@ sources:
 
 ## Overview
 
-Ranunculus ficaria L. (syn. Ficaria verna Huds.), commonly known as lesser celandine or pilewort, is a low-growing perennial herb in the family Ranunculaceae. It is one of the earliest spring-blooming wildflowers in Europe, producing glossy yellow flowers from February through May.
+Ranunculus ficaria L. (syn. [[ficaria-verna]] Huds.), commonly known as lesser celandine or pilewort, is a low-growing perennial herb in the family Ranunculaceae. It is one of the earliest spring-blooming wildflowers in Europe, producing glossy yellow flowers from February through May.
 
-The species has become invasive in North America, where it forms dense mats that suppress native spring ephemerals in deciduous woodlands. It is also valued as an ornamental groundcover and has a long history of use in traditional European herbalism.
+The species has become invasive in [[guzman-psilocybin-mushrooms-north-america]], where it forms dense mats that suppress native spring ephemerals in deciduous woodlands. It is also valued as an ornamental groundcover and has a long history of use in traditional European herbalism.
 
 Ranunculus ficaria belongs to subgenus Ficaria within Ranunculus, distinguished from other buttercups by its tuberous rootstock and cordate leaves. The species exhibits considerable cytological variation, with diploid and tetraploid forms differing in reproductive strategy.
 
@@ -37,9 +37,9 @@ Stem leaves are smaller and narrower than basal leaves, often lanceolate to ovat
 
 Flowers are solitary on naked peduncles, 2–3 cm in diameter, with 7–12 glossy yellow petals surrounding numerous stamens. The fruit is a beaked achene, though many populations produce few viable seeds.
 
-Vegetative reproduction occurs through root tubers and axillary bulbils. Subsp. bulbifera produces conspicuous bulbils in the leaf axils, while subsp. ficaria relies more heavily on seed production.
+Vegetative reproduction occurs through root tubers and axillary bulbils. Subsp. bulbifera produces conspicuous bulbils in the leaf axils, while subsp. ficaria relies more heavily on [[cannabis-controlled-pollination-seed-production]].
 
-Subsp. ficaria is diploid (2n=16) and fertile, while subsp. bulbifera is tetraploid (2n=32) and predominantly vegetative. Subspecies bulbifera is the more widespread and invasive form in North America.
+Subsp. ficaria is diploid (2n=16) and fertile, while subsp. bulbifera is tetraploid (2n=32) and predominantly vegetative. Subspecies bulbifera is the more widespread and invasive form in [[berry-growing]].
 
 The root system consists of a cluster of elongated, fleshy tubers at the base of the stem. These tubers store carbohydrates that fuel rapid spring emergence and enable vegetative spread.
 
@@ -49,9 +49,9 @@ Native to Europe, western Asia, and North Africa, Ranunculus ficaria ranges from
 
 The species thrives in moist, deciduous woodlands, hedgerows, streambanks, and damp meadows. It occurs at elevations from sea level to 1,800 m in mountainous regions of southern Europe.
 
-It prefers rich, loamy soils with high organic matter content and partial to full shade. The plant exploits the spring light window in deciduous forests, completing its above-ground life cycle before canopy closure.
+It prefers rich, loamy soils with high [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] content and partial to full shade. The plant exploits the spring light window in deciduous forests, completing its above-ground life cycle before canopy closure.
 
-In North America, the species was introduced as an ornamental garden plant in the mid-19th century. It has since naturalized across the northeastern United States, the Pacific Northwest, and parts of eastern Canada.
+In North America, the species was introduced as an ornamental garden plant in the mid-19th century. It has since naturalized across the northeastern United States, the [[psilocybin-north-america-pacific-northwest]], and parts of eastern Canada.
 
 Populations are also established in New Zealand and southern Australia. In its native range, the species is not considered aggressive and coexists with other spring flora in stable plant communities.
 
@@ -61,11 +61,11 @@ Floodplain forests and riparian corridors are particularly susceptible to invasi
 
 Ranunculus ficaria functions as a spring ephemeral, emerging in late winter and senescing by early summer. This strategy allows it to capture light and nutrients before the forest canopy closes.
 
-The flowers provide an early nectar and pollen source for solitary bees, hoverflies, and other emerging pollinators. This early bloom fills a critical resource gap before most other plants flower.
+The flowers provide an early nectar and pollen source for [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and other emerging pollinators. This early bloom fills a critical resource gap before most other plants flower.
 
-In North American woodlands, dense Ranunculus ficaria monocultures reduce native plant diversity by up to 60%. The species outcompetes natives such as trout lily and spring beauty for space and nutrients.
+In [[growing-gourmet-north-american-reishi-species]] woodlands, dense Ranunculus ficaria monocultures reduce native plant diversity by up to 60%. The species outcompetes natives such as trout lily and spring beauty for space and nutrients.
 
-The plant forms mycorrhizal associations that facilitate nutrient uptake during its brief growing season. These associations may contribute to its competitive advantage over native spring ephemerals.
+The plant forms [[plants-without-mycorrhizal-associations]] that facilitate [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] during its brief [[extending-growing-season]]. These associations may contribute to its competitive advantage over native spring ephemerals.
 
 After senescence in late spring, the root tubers persist underground through summer and winter dormancy. Energy reserves in the tubers fuel rapid spring emergence and growth.
 
@@ -79,7 +79,7 @@ Livestock poisoning has been reported when animals graze on fresh growth in earl
 
 The toxic compounds degrade upon drying or cooking, rendering dried plant material less hazardous. Contact with fresh sap can cause contact dermatitis in sensitive individuals.
 
-Traditional herbal preparations typically involved drying the plant before use to reduce toxicity. Modern herbal practice discourages internal use of Ranunculus ficaria due to the risk of gastrointestinal and hepatic damage.
+Traditional [[honey-based-herbal-preparations]] typically involved drying the plant before use to reduce toxicity. Modern herbal practice discourages internal use of Ranunculus ficaria due to the risk of gastrointestinal and hepatic damage.
 
 The toxic principles are most concentrated in the fresh leaves and stems during active growth. Toxicity decreases as the plant senesces and the tissues dry out.
 
@@ -88,22 +88,3 @@ The toxic principles are most concentrated in the fresh leaves and stems during 
 Lesser celandine has a long history of cultivation as an ornamental groundcover and rock garden plant. Several cultivars exist, including 'Brazen Hussy' with bronze-purple foliage and 'Randall's White' with white flowers.
 
 The double-flowered cultivar 'Flore Pleno' is sterile and less invasive than the species, making it the preferred choice for garden use. It spreads slowly and reliably produces pompon-like yellow blooms each spring.
-
-In traditional European herbalism, the plant was used externally to treat hemorrhoids, earning the common name "pilewort." The tuberous roots were applied as a poultice, though internal use was generally avoided.
-
-The species has no significant modern pharmaceutical applications. Control of invasive populations in North America requires early intervention, as dense growth and abundant tuberils make eradication difficult once established.
-
-Chemical control with glyphosate or triclopyr applied before native ephemerals emerge is the most effective management strategy. Manual removal is labor-intensive and must include all root tubers to prevent regrowth.
-
-Covering infested areas with black plastic sheeting for one full growing season can effectively smother the plants. However, this method also kills any remaining native vegetation beneath the cover.
-
-## See Also
-
-- [[ranunculus-acris]]
-- [[ranunculus-repens]]
-- [[anemone-nemorosa]]
-- [[ranunculus-bulbosus]]
-- [[pulsatilla-vulgaris]]
-- [[helleborus-niger]]
-- [[ranunculus-aquatilis]]
-- [[anemone-ranunculoides]]

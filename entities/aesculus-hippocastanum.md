@@ -24,7 +24,7 @@ sources:
   - Pittler, M.H. & Ernst, E. (2006). "Horse chestnut seed extract for
     chronic venous insufficiency." Cochrane Database of Systematic Reviews.
   - Sirtori, C.R. (2001). "Aescin: Pharmacology, pharmacokinetics and
-    therapeutic profile." Pharmacological Research 44(3): 183-193.
+    [[cannabidiol-cbd-therapeutic-profile-blesching]]." Pharmacological Research 44(3): 183-193.
   - Royal Botanic Gardens Kew. "Aesculus hippocastanum." Plants of the
     World Online.
   - USDA Forest Service. "Aesculus hippocastanum Fact Sheet."
@@ -38,7 +38,7 @@ sources:
 
 Aesculus hippocastanum is a large deciduous tree in the family Sapindaceae,
 native to the Balkan Peninsula and widely planted as an ornamental and street
-tree across temperate regions worldwide. It is valued for its showy white
+tree across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is valued for its showy white
 flower candles in spring, dense shade canopy, and distinctive palmate foliage.
 The seeds ("conkers") are a rich source of aescin (escin), a saponin mixture
 with demonstrated venotonic, anti-inflammatory, and anti-edematous properties,
@@ -86,61 +86,5 @@ of Greece, Albania, Bulgaria, and the former Yugoslavia — at elevations of
 300–1,500 meters. Considered vulnerable in its native range due to habitat
 fragmentation and the invasive horse chestnut leaf miner (*Cameraria
 ohridella*), which has caused widespread defoliation across Europe since
-the 1980s. Widely cultivated throughout Europe, North America (hardy to USDA
-zone 4), temperate South America, and New Zealand. Prefers deep, moist,
-well-drained loamy soils in full sun to partial shade.
-
-## Phytochemistry
-
-The seed is the primary medicinal organ. Key constituents include:
-
-- **Aescin (escin):** A mixture of triterpene saponins, primarily
-  β-aescin, comprising 3–6% of dried seed. Reduces capillary permeability
-  and fragility, improves venous tone, and inhibits elastase and
-  hyaluronidase enzymes that degrade the venous wall extracellular matrix.
-  Primary active compound for anti-edema and venotonic effects.
-- **Flavonoids:** Quercetin, kaempferol, and their glycosides contribute
-  antioxidant and anti-inflammatory activity.
-- **Coumarins:** Aesculin (esculin) and fraxin; aesculin is fluorescent
-  under UV light and has been used historically as a diagnostic reagent.
-- **Tannins:** Condensed and hydrolyzable tannins at 2–4%; contribute
-  astringent properties.
-- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]:** Seeds contain ~5% oil rich in oleic, linoleic, and
-  stearic acids; not commercially extracted.
-
-## Pharmacology and Clinical Use
-
-Horse chestnut seed extract (HCSE), standardized to 16–20% aescin, is the
-most clinically validated herbal treatment for chronic venous insufficiency
-(CVI). A Cochrane review confirmed HCSE is superior to placebo for reducing
-leg pain, edema, pruritus, and heaviness associated with CVI. Typical oral
-dosage is 250–312 mg standardized extract twice daily. Topical aescin
-preparations are used for localized edema and hemorrhoidal symptoms.
-Mechanism involves reduced transcapillary filtration, improved lymphatic
-drainage, and increased venous contractility. Generally well tolerated;
-most common adverse effect is mild GI disturbance. Raw seeds contain
-toxic esculin removed during commercial extraction.
-
-## Toxicity
-
-Raw seeds and all plant parts contain toxic compounds including esculin and
-saponins. Ingestion causes gastrointestinal distress; sufficient quantity
-can cause neurological symptoms including dizziness, paralysis, and rarely
-death. LD₅₀ of aescin in rodents is ~900 mg/kg orally. The toxin can be
-largely removed by leaching and heat processing, making commercial extracts
-safe while raw seeds are not.
-
-## Permaculture and Ecological Applications
-
-- **[[mollison-designers-bee-forage-tree-planting]]:** The nectar-rich flowers are an important spring food
-  source for bees and other pollinators; honey from horse chestnut is
-  dark and mildly flavored.
-- **Shade tree:** Large, fast-growing canopy provides excellent shade in
-  parks, large gardens, and urban settings.
-- **[[dighton-fungal-decomposition-leaf-litter-dynamics]]:** Decomposing leaves add [[hamilton-composting-and-organic-matter-management]] and moderate
-  nutrients to soil.
-
-## See Also
-- [[quercus-robur]]
-- [[sambucus-nigra]]
-- [[permaculture-plants-fruit-trees-temperate]]
+the 1980s. Widely cultivated throughout Europe, [[guzman-psilocybin-mushrooms-north-america]] (hardy to USDA
+zone 4), temperate [[guzman-psilocybin-mushrooms-south-america]], and New Zealand. Prefers deep, moist,

@@ -18,9 +18,9 @@ and ecological benefit from the same growing space.
 Wood chip beds are one of the most practical and productive methods
 for outdoor mushroom cultivation. The method involves obtaining
 fresh wood chips (typically from tree service companies or municipal
-yard waste programs), inoculating them with mushroom spawn, and
+yard waste programs), inoculating them with [[cuthill-mushroom-spawn-preparation-historical]], and
 maintaining the beds in a shaded, moist location. King Stropharia
-(Stropharia rugosoannulata) is the premier species for wood chip bed
+([[stropharia-rugosoannulata]]) is the premier species for wood chip bed
 cultivation, producing large, wine-colored caps from spring through
 fall. The method is straightforward: wood chips are spread in a
 layer 4-6 inches deep, inoculated with grain spawn or colonized wood
@@ -30,13 +30,13 @@ begins 6-12 months after inoculation and can continue for several
 years as the mycelium gradually decomposes the wood chips.
 
 Wood chip beds can also be inoculated with other species, including
-oyster mushrooms (Pleurotus ostreatus), shaggy manes (Coprinus
+[[cultivation-of-oyster-mushrooms]] ([[cancer-medicinal-mushrooms-pleurotus-ostreatus]]), shaggy manes (Coprinus
 comatus), and various wood-loving species (Hypholoma species). The
 key to success is using fresh, uncontaminated wood chips from
 hardwood species and maintaining adequate moisture throughout the
 growing season. Beds that dry out excessively may require
 rehydration before fruiting will resume. Properly established wood
-chip beds can serve as long-lived mushroom gardens that produce
+chip beds can serve as long-lived [[mycelium-running-mycorrhizal-mushroom-gardens]] that produce
 crops with minimal ongoing maintenance.
 
 ## Log Cultivation: Shiitake and Beyond
@@ -64,7 +64,7 @@ successfully.
 
 ## Spore Mass Broadcasting
 
-The simplest outdoor cultivation method is spore mass broadcasting —
+The simplest outdoor [[boil-a-bag-mushroom-cultivation-method]] is spore mass broadcasting —
 collecting spores from wild mushrooms and distributing them onto
 suitable substrates in appropriate habitats. For gilled mushrooms,
 caps can be severed from stems, placed gills-down on clean paper,
@@ -88,40 +88,3 @@ bed and inoculated three species simultaneously. One year after
 inoculation, morels appeared in late April through May. From June
 through early September, King Stropharia erupted prolifically,
 providing hundreds of pounds of mushrooms. From late September
-through November, an assortment of clustered wood-loving species
-(Hypholoma-like) fruited. The three species had non-coincident
-fruiting cycles, meaning they did not compete with each other but
-instead occupied different temporal niches, collectively maximizing
-the productivity of the same physical space throughout the growing
-season.
-
-Indoor species succession is also possible. After shiitake finishes
-producing on logs or sawdust blocks, the spent substrate can be
-broken apart, remoistened, resterilized, and reinoculated with
-oyster mushrooms, which are aggressive secondary decomposers. Once
-the oyster mushroom cycle is complete, the substrate can be again
-processed and inoculated with King Stropharia or shaggy manes.
-Shiitake, oyster, King Stropharia, and shaggy manes can thus all be
-grown sequentially on the same substrate, with each species further
-decomposing the residual organic matter and converting it into
-mushroom biomass. Stamets describes this sequential conversion of
-substrate mass to mushroom mass as remarkably efficient.
-
-## Ecological Benefits and Integration
-
-Outdoor mushroom cultivation provides ecological benefits beyond
-food production. Wood chip beds inoculated with King Stropharia
-[[query-how-to-attract-and-support-native-bee-pollinators]] diverse invertebrate communities, which in turn
-provide food for birds, amphibians, and other wildlife. Mycelial
-networks improve soil structure, increase water retention, and
-enhance [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Some cultivated species can suppress soil-
-borne plant pathogens through competitive exclusion or antibiosis.
-These ecological services make outdoor mushroom cultivation
-compatible with permaculture, agroforestry, and sustainable
-landscaping practices, integrating food production with
-environmental stewardship.
-
-## See Also
-- [[mushroom-bioremediation-and-mycofiltration]]
-- [[mycorrhizal-mushroom-cultivation-challenges]]
-- [[holzer-mushroom-cultivation-outdoor-beds]]

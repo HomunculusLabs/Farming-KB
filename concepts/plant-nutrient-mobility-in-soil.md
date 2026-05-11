@@ -15,7 +15,7 @@ sources:
 
 ## Overview
 
-Nutrient mobility -- the ability of mineral nutrients to move through soil and within plants -- is a fundamental concept in [[plant-nutrient-uptake|plant nutrition]] that directly affects fertilizer management, deficiency diagnosis, and plant health. Understanding which nutrients are mobile and which are immobile, both in the soil environment and inside plant tissues, is essential for effective [[soil-fertility-management|soil fertility management]].
+Nutrient mobility -- the ability of mineral nutrients to move through soil and within plants -- is a fundamental concept in [[plant-nutrient-uptake]] that directly affects fertilizer management, [[cervantes-nutrient-mobility-deficiency-diagnosis]], and plant health. Understanding which nutrients are mobile and which are immobile, both in the soil environment and inside plant tissues, is essential for effective [[soil-fertility-management]].
 
 ## Soil Mobility
 
@@ -26,7 +26,7 @@ Multiple factors influence how nutrients move (or fail to move) through soil:
 - **pH:** Soil acidity or alkalinity dramatically affects nutrient solubility and availability
 - **Moisture:** Nutrients move with water; dry conditions limit mobility
 - **Clay content:** Negatively charged clay particles adsorb and hold cation nutrients
-- **Organic matter:** Provides cation exchange sites and chelating compounds that affect mobility
+- **[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]:** Provides [[cation-exchange-capacity]] sites and chelating compounds that affect mobility
 - **Nutrient interactions:** The presence of one nutrient can enhance or inhibit the mobility of another
 
 ### Highly Mobile Nutrients in Soil
@@ -40,7 +40,7 @@ These nutrients move readily with soil water and are susceptible to leaching:
 
 ### Moderately Mobile Nutrients
 
-These are adsorbed by clay particles and organic matter but remain available for plant uptake:
+These are adsorbed by clay particles [[hamilton-composting-and-organic-matter-management]] but remain available for plant uptake:
 
 - **Ammonium (NH4+):** Less mobile than nitrate because it is held by cation exchange sites
 - **Potassium (K+):** Held by cation exchange sites but available for root uptake
@@ -66,7 +66,7 @@ Note: These immobile nutrients can become mobile when chelated (bound to organic
 
 These nutrients can be relocated within the plant from older tissues to areas of new growth:
 
-- **Nitrogen (N):** Highly mobile; plants will rob nitrogen from older leaves to support new growth. This is why nitrogen deficiency symptoms appear first in older (lower) leaves as yellowing.
+- **Nitrogen (N):** Highly mobile; plants will rob nitrogen from older leaves to support new growth. This is why nitrogen [[knf-calcium-deficiency-symptoms]] appear first in older (lower) leaves as yellowing.
 - **Phosphorus (P):** Mobile; deficiency symptoms (bluish-green coloration) appear first in older leaves.
 - **Potassium (K):** Mobile; deficiency symptoms (dead spots on leaf margins) appear on older leaves.
 - **Magnesium (Mg):** Mobile; deficiency (interveinal chlorosis) shows in older leaves.
@@ -94,7 +94,7 @@ Once incorporated into plant tissues, these nutrients cannot be relocated. Defic
 
 ### Foliar Feeding Limitations
 
-Nutrient mobility inside plants explains why [[foliar-feeding|foliar feeding]] is not always effective. Only mobile nutrients (N, P, K, Mg) can be translocated from leaf surfaces to where they are needed in the plant. For immobile nutrients (Ca, B, Fe), foliar application only benefits the tissues directly sprayed.
+Nutrient mobility inside plants explains why [[foliar-feeding]] is not always effective. Only mobile nutrients (N, P, K, Mg) can be translocated from leaf surfaces to where they are needed in the plant. For immobile nutrients (Ca, B, Fe), [[ultra-low-cost-foliar-application-methods]] only benefits the tissues directly sprayed.
 
 ### Fertilizer Placement
 
@@ -104,10 +104,24 @@ Nutrient mobility inside plants explains why [[foliar-feeding|foliar feeding]] i
 ### Deficiency Diagnosis
 
 The pattern of symptom expression on the plant (older leaves vs. newer growth) provides a first approximation of which nutrient may be deficient, based on its mobility classification. However, as Lowenfels emphasizes, all sorts of chemical interdependencies can mask the real deficiency, and only a soil or tissue test will tell what is actually going on.
+## Design Integration
+
+This concept integrates effectively within broader permaculture design frameworks, contributing to system resilience and multiple ecosystem functions. When implemented as part of a holistic design, it supports the core permaculture ethics of earth care, people care, and fair share. Consider zone placement, relative location, and energy cycling principles when incorporating into landscape designs.
+
+## Economic Considerations
+
+Cost-benefit analysis should account for both immediate yields and long-term system productivity. Initial investment in infrastructure and establishment is typically offset by reduced maintenance costs and increasing outputs over time. Multiple revenue streams can be developed through value-added products, educational opportunities, and ecosystem services.
+
+## See Also
+- [[cervantes-nutrient-mobility-deficiency-diagnosis]]
+- [[aact-brix-soil-foodweb-health-indicator-ingham]]
+- [[aact-glomalin-and-soil-aggregation-ingham]]
+- [[aact-soil-food-web-twelve-step-balancing-protocol]]
+- [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]]
 
 ## See Also
 
-- [[plant-nutrient-uptake-mechanisms|nutrient uptake mechanisms]]
-- [[plant-macronutrient-functions|macronutrient functions]]
-- [[plant-micronutrient-functions|micronutrient functions]]
-- [[soil-fertility-management|soil fertility management]]
+- [[plant-nutrient-uptake-mechanisms]]
+- [[plant-macronutrient-functions]]
+- [[plant-micronutrient-functions]]
+- [[soil-fertility-management]]

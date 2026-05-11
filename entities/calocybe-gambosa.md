@@ -2,7 +2,7 @@
 title: "Calocybe gambosa"
 created: 2026-04-28
 type: species
-tags: [species, fungi, edible, agaricales, tricholomataceae, permaculture]
+tags: [species, fungi, edible, agaricales, tricholomataceae, [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -21,7 +21,7 @@ rings or arcs. It is considered one of the finest wild edible mushrooms
 in European cuisine, with a firm texture and a mild, flour-like aroma
 that distinguishes it from potentially dangerous lookalikes. The species
 is also relevant to permaculture systems as an indicator of healthy,
-undisturbed grassland ecosystems.
+undisturbed [[biodiversity-fungi-grassland-ecosystems]].
 
 ## Taxonomy and Naming
 
@@ -34,8 +34,8 @@ undisturbed grassland ecosystems.
   (Basque), mousseron (France)
 
 The epithet "gambosa" (Latin for "club-footed") describes the stout
-clavate stem. Transferred from Tricholoma to Calocybe by Rolf Singer
-in 1938 based on spore and microscopic features.
+clavate stem. Transferred from Tricholoma to Calocybe by [[rolf-singer]]
+in 1938 based on [[spore]] and microscopic features.
 
 ## Description
 
@@ -88,59 +88,3 @@ in 1938 based on spore and microscopic features.
 | Fat | 0.3–0.5 g | Very low fat |
 | Fiber | 1.5–2.5 g | Dietary fiber |
 | Potassium | 350–450 mg | High potassium |
-| Ergothioneine | Present | Antioxidant [[cho-fish-amino-acid-preparation]] |
-
-### Bioactive Compounds
-
-- **Ergothioneine:** Unique antioxidant with anti-inflammatory and
-  cytoprotective properties.
-- **β-Glucans:** Cell wall polysaccharides with immunomodulatory
-  activity.
-- **Phenolic compounds:** Contribute to antioxidant capacity.
-- **[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]:** Flour-like aroma from C8 aldehydes
-  (primarily 1-octen-3-ol).
-
-## Culinary Significance
-
-- **Flavor:** Firm, meaty texture with mild, mealy flavor and
-  distinctive flour-like aroma. Highly regarded in European cuisine.
-- **Preparation:** Excellent sautéed in butter, in risottos, omelets,
-  soups, cream sauces. Pairs well with asparagus, peas, eggs.
-- **Preservation:** Dries, pickles, and freezes well.
-- **Cultural cuisine:** Spring delicacy in Italy (marzuolo), France
-  (mousseron), Basque Country (perretxiko).
-
-## Similar Species and Safety
-
-| Species | Distinguishing Features | Edibility |
-|---------|------------------------|-----------|
-| Calocybe gambosa | Flour odor, spring, white gills | Edible, choice |
-| Tricholoma lascivum | Bitter taste, wood-associated | Inedible |
-| Entoloma aprile | Pink spore print, angular spores | Toxic |
-| Entoloma sinuatum | Larger, yellowish, mealy odor | Deadly poisonous |
-| Calocybe carnea | Smaller, pinkish, autumn | Edible, mediocre |
-
-**Critical safety note:** Entoloma sinuatum is the most dangerous
-lookalike and has caused fatalities. The flour-like odor of C. gambosa
-is the key distinguishing character.
-
-## Cultivation and Permaculture
-
-- **Cultivation:** Not commercially cultivated at scale.
-- **Wild harvest:** Primary source. Managed harvesting from permanent
-  grasslands is sustainable when conservative.
-- **Permaculture relevance:** Valuable in permanent pasture and
-  silvopasture systems. Unimproved grassland areas within permaculture
-  designs can support natural fruiting.
-- **Requirements:** Permanent, unfertilized grassland with minimal
-  disturbance. Suited to permaculture grazing systems.
-
-## Conservation
-
-Declining across Europe due to agricultural intensification and
-[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]. Protected in some jurisdictions.
-## See Also
-
-- [[boletus-edulis-entity]]
-- [[morchella-esculenta]]
-- [[ergothioneine]]

@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Dunn, D.B. (1971). "A Revised Classification of Lupinus." Contributions from the Royal Botanic Garden, Edinburgh.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Volume 3." University of [[north-carolina-mycodiversity]] Press.
   - United States Department of Agriculture, NRCS. "Lupinus perennis L." PLANTS Database.
   - Griggs, R.F. (1972). "The Lupine and the Fritillary." Audubon Magazine, 74(2): 54-59.
 ---
@@ -25,7 +25,7 @@ The species occurs in sandy, well-drained habitats including pine barrens, oak s
 
 ## Taxonomy and Morphology
 
-Lupinus perennis was described by Linnaeus in 1753. The genus name derives from the Latin lupinus, meaning "wolf," from an old belief that lupines depleted soil nutrients. In reality, they enrich soils through nitrogen fixation.
+Lupinus perennis was described by Linnaeus in 1753. The genus name derives from the Latin lupinus, meaning "wolf," from an old belief that lupines depleted soil nutrients. In reality, they enrich soils through [[biological-nitrogen-fixation-agriculture]].
 
 Plants grow 30 to 60 cm tall from a thick woody taproot. The habit is typically erect and sparingly branched, with multiple flowering stems arising from a basal rosette.
 
@@ -61,7 +61,7 @@ Fire return intervals of 5 to 15 years maintain optimal habitat conditions. Pres
 
 ## Cultivation and Uses
 
-Wild lupine is cultivated primarily in native plant gardens, ecological restoration projects, and butterfly habitat plantings. It requires full sun and sandy, acidic soils for optimal performance.
+Wild lupine is cultivated primarily in native plant gardens, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects, and butterfly habitat plantings. It requires full sun and sandy, acidic soils for optimal performance.
 
 Garden performance is best in well-drained sandy loams with pH below 6.5. Heavy clay soils and excessive moisture promote root rot and reduce plant longevity.
 
@@ -75,7 +75,7 @@ Ornamental selections are limited compared to the more showy western lupine spec
 
 Several ecotypes have been identified from different parts of the range, varying in flower color intensity and phenology. Local ecotypes generally outperform non-local material in restoration plantings.
 
-Plants are sometimes included in highway roadside plantings for erosion control on sandy embankments. Their nitrogen fixation and drought tolerance suit them to these harsh conditions.
+Plants are sometimes included in highway roadside plantings [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] on sandy embankments. Their [[legume-nitrogen-fixation-and-green-manure]] [[dighton-fungal-drought-tolerance-plant-water-relations]] suit them to these harsh conditions.
 
 ## Ecological Role
 
@@ -88,36 +88,3 @@ The species also hosts larvae of the frosted elfin (Callophrys irus) and the wil
 Nitrogen fixation by root-associated rhizobia enriches the sandy soils where lupines grow. This nitrogen contribution benefits neighboring plants in species-rich barrens and savanna communities.
 
 Flowers attract diverse pollinators including bumblebees, solitary bees, and butterflies. The pollen is loosely held and easily collected by short-tongued bee species.
-
-Honey bees visit the flowers when available, though they are less efficient pollinators than native bumblebees. The nectar reward is modest compared to other legumes.
-
-Leaf litter from senescing lupine plants contributes organic matter and nitrogen to the soil surface. This slow-release nutrient input benefits the broader plant community.
-
-## Related Species
-
-Lupinus perennis belongs to a predominantly North American clade within the genus. It is distinguished from western species by its broad leaflets and eastern distribution.
-
-Lupinus argenteus (silvery lupine) is a widespread western species with silvery-pubescent foliage and blue to white flowers. It occupies mountain meadows and sagebrush communities.
-
-Lupinus polyphyllus (bigleaf lupine) is a tall western species that has naturalized extensively in eastern North America and Europe. It readily hybridizes with L. perennis where their ranges overlap.
-
-Hybridization between L. perennis and L. polyphyllus produces fertile offspring that may dilute the genetic integrity of native populations. Conservation geneticists consider this a significant threat.
-
-Hybrid swarms are particularly problematic in areas where L. polyphyllus has been planted for erosion control or ornamental purposes. Management includes removing non-native lupines from buffer zones around native populations.
-
-The chromosome number of L. perennis is 2n = 48. Cytological studies confirm its placement in the Lupinus section that is primarily North American in distribution.
-
-## See Also
-
-- [[bellis-perennis]]
-
-- [[baptisia-australis]]
-- [[trifolium-pratense]]
-- [[lespedeza-cuneata]]
-- [[medicago-sativa]]
-- [[robinia-pseudoacacia]]
-- [[caragana-arborescens]]
-- [[cover-crop]]
-- [[mycorrhiza]]
-- [[companion-planting]]
-- [[agroforestry]]

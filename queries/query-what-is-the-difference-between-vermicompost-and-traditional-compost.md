@@ -59,7 +59,7 @@ Vermicompost generally outperforms traditional compost in several measurable are
   finished castings. Research has shown that even small additions of vermicompost
   (5 to 10 percent by volume) can significantly improve seedling vigor and yield.
 The organisms responsible for these benefits are described in
-[[soil-food-web]].
+[[soil-foodweb]].
 ## Input Materials Each Can Handle
 Traditional compost piles can handle a wide range of coarse materials including woody
 branches (when chipped), large volumes of fall leaves, grass clippings, straw, and

@@ -27,7 +27,7 @@ The species is distinguished by its spiny oogonia and is widely
 distributed in temperate soils worldwide. Its distribution is
 unrelated to vegetation cover, soil pH, or soil texture (Ribeiro and
 Butler 1992), suggesting broad ecological tolerance and adaptability.
-P. oligandrum is a model organism for understanding mycoparasitic
+P. oligandrum is a [[canary-grass-phototropism-model-organism]] for understanding mycoparasitic
 interactions in soil ecosystems and represents an example of
 ecological role reversal within a predominantly pathogenic genus.
 
@@ -86,31 +86,5 @@ greater prevalence in natural and agricultural environments.
 
 ### Biocontrol Applications
 P. oligandrum has been investigated as a biocontrol agent against
-damping-off caused by Pythium ultimum, one of the most common seedling
+damping-off caused by [[pythium-ultimum]], one of the most common seedling
 diseases worldwide (Deacon 1976; Vesely 1977). It can attack
-Rhizoctonia solani, suppressing both its cellulolytic activity and
-sclerotium formation (Al-Hamdani and Cooke 1983; Hoch and Fuller
-1977). The species also attacks Phytophthora cinnamomi and P.
-parasitica.
-
-Oospores are mass-produced in [[comparison-liquid-culture-vs-grain-spawn]] and air-dried (McQuilken
-et al. 1990), then applied as a seed coating (Lutchmeah and Cooke
-1985; Martin and Hancock 1987). Seed coating ensures the biocontrol
-agent is positioned exactly where needed, in the immediate vicinity of
-the emerging root system during vulnerable germination stages.
-
-### Host Specificity and Interactions
-Harpophora (Phialophora) radicicola is the host most susceptible to P.
-oligandrum (Deacon 1976; Laing and Deacon 1990, 1991; Berry et al.
-1993). Other fungi show varying degrees of resistance. P. oligandrum
-itself is not immune: Stachybotrys chartarum can parasitize it (Deacon
-and Henry 1978), and Olpidiopsis gracilis attacks certain Pythium
-species (Pemberton et al. 1990).
-
-The toxinogenic Trichoderma virens efficiently suppressed Pythium
-ultimum in cotton fields (Howell 1991), illustrating the complex web
-of interactions among soil fungi and the potential for combining
-multiple biocontrol agents in [[cervantes-root-rot-pythium-damping-off]], [[bloomfield-pythium-oomycete-water-molds]]
-- [[rhizoctonia-solani]]
-- [[stachybotrys-chartarum]]
-- phytophthora cinnamomi

@@ -9,7 +9,7 @@ sources: []
 
 # Quail Egg Production
 
-Coturnix quail (Coturnix japonica) are the most productive small-scale egg producers. They reach laying age at 6-8 weeks, produce 250-320 eggs per year per hen, and require minimal space compared to chickens. Quail egg production is increasingly popular on homesteads and urban farms due to low startup costs, fast return on investment, and growing market demand. (see [[chickshaw-and-poultry-tractors]]).
+Coturnix quail (Coturnix japonica) are the most productive small-scale egg producers. They reach laying age at 6-8 weeks, produce 250-320 eggs per year per hen, and require minimal space compared to chickens. Quail egg production is increasingly popular on homesteads and urban farms due to low startup costs, fast return on investment, and growing market demand.
 
 ## Coturnix Quail Overview
 
@@ -28,7 +28,7 @@ Coturnix quail (Coturnix japonica) are the most productive small-scale egg produ
 
 Standard quail cages are constructed from 1.3 cm (1/2 inch) galvanized hardware cloth:
 
--  **Dimensions** — Minimum 15 cm wide x 20 cm deep per bird. A standard cage is 60 cm x 60 cm x 30 cm tall, housing 12-15 birds. (see [[faires-chicken-coops-tractors-and-breeding-guide]]).
+-  **Dimensions** — Minimum 15 cm wide x 20 cm deep per bird. A standard cage is 60 cm x 60 cm x 30 cm tall, housing 12-15 birds.
 -  **Floor** — Sloped at 8-10 degrees toward the front to allow eggs to roll out into a collection tray.
 -  **Manure tray** — Slides under the cage for easy cleaning. Line with newspaper, cardboard, or dried leaves.
 -  **Feeders** — External tube feeders reduce feed waste and contamination. One feeder per 6-8 birds.
@@ -41,7 +41,7 @@ Larger cages housing 20-30 birds together. More social interaction but higher ri
 
 ### Floor Pens
 
-Deep litter systems on solid floors with bedding (pine shavings, straw). Birds express more natural behaviors but egg collection is more difficult and manure management is labor-intensive. Best for breeder flocks rather than egg production flocks.
+Deep litter systems on solid floors with bedding (pine shavings, straw). Birds express more natural behaviors but egg collection is more difficult [[jadam-livestock-integration-and-manure-management]] is labor-intensive. Best for breeder flocks rather than egg production flocks.
 
 ### Stackable Cages
 
@@ -51,10 +51,10 @@ Multiple tiers of wire cages stacked vertically. Maximizes space efficiency in s
 
 Light drives quail egg production. Coturnix quail require 14-16 hours of light per day for maximum production.
 
--  **Natural light** — Adequate during spring and summer at most latitudes. Production drops in fall as day length decreases.
+-  **Natural light** — Adequate during spring and summer at most latitudes. Production drops in fall as [[coleman-persephone-months-winter-day-length]] decreases.
 -  **Supplemental light** — Use a timer to ensure 16 hours of total light per day year-round. A 7-15 watt LED bulb per cage unit is sufficient. Light intensity of 20-30 lux at bird level is adequate.
 -  **Light placement** — Above and slightly forward of the cage. Avoid glare.
--  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds' natural circadian rhythm.
+-  **Lighting schedule** — Set the timer so supplemental light comes on in the early morning (before dawn) rather than extending evening light. This matches the birds' natural [[chamovitz-circadian-rhythm-internal-clock-plants]].
 -  **Dark period** — Never provide continuous light. Quail need 8 hours of darkness for rest and reproductive hormone cycling.
 
 ## Feeding
@@ -101,7 +101,7 @@ Maintain 1 male per 3-5 females for fertile eggs. Remove excess males to reduce 
 
 ### Chick Care
 
-- Brood at 35 C (95 F) for the first week, reducing 2-3 C per week until ambient temperature
+- Brood at 35 C (95 F) for the first week, reducing 2-3 C per week until [[jadam-ambient-temperature-principle]]
 - 28% protein starter feed from day 1
 - Water with added vitamins and electrolytes for the first 3 days
 - Quail chicks are tiny and can escape through surprisingly small gaps — use 1 cm (1/2 inch) hardware cloth or smaller
@@ -134,7 +134,7 @@ Maintain 1 male per 3-5 females for fertile eggs. Remove excess males to reduce 
 - **Coccidiosis** — Most common quail disease. Prevent with clean, dry conditions and avoid overcrowding. Medicated feed (amprolium) is available for prevention.
 - **Ulcerative enteritis** — Bacterial infection causing sudden mortality. Maintain clean waterers and feeders.
 - **Cannibalism** — Triggered by overcrowding, bright light, nutritional deficiency, or boredom. Reduce light intensity, provide hiding spots, and ensure adequate protein and space.
-- **External parasites** — Mites and lice. Treat with diatomaceous earth in dust baths or permethrin spray on housing (not on birds).
+- **External parasites** — Mites and lice. Treat with [[query-how-to-use-diatomaceous-earth-in-the-garden]] dust baths or permethrin spray on housing (not on birds).
 - **Biosecurity** — Keep wild birds away from the quail area. Quarantine new birds for 2 weeks before introducing to the flock.
 
-Quail production pairs well with [[chickshaw-and-poultry-tractors|poultry tractor]] systems — quail can be housed in mobile units for limited foraging, or their manure can be composted for garden use. Processing facilities for [[rabbit-processing-guide|other small livestock]] can sometimes be adapted for quail meat production as well.
+Quail production pairs well with [[chickshaw-and-poultry-tractors]] systems — quail can be housed in mobile units for limited foraging, or their manure can be composted for garden use. Processing facilities for [[rabbit-processing-guide]] can sometimes be adapted for quail meat production as well.

@@ -1,5 +1,5 @@
 ---
-title: Salad and coleman salad and braising mix production Production
+title: Coleman Salad And Braising Mix Production
 created: 2026-04-28
 tags:
   - winter-crops
@@ -60,7 +60,7 @@ parents report this is the only mixed salad their children will eat.
 
 Lettuce, endive, and arugula do not consistently meet quality
 standards during the coldest parts of January and February in the
-cold houses. These three are given protection in a cool house
+cold houses. These three are given protection in a [[coleman-cool-house-minimal-supplementary-heat]]
 (minimally heated greenhouse) during those months. Oak-leaf lettuce
 types are very [[coleman-cold-hardy-varieties]] at the baby-leaf stage but quality is still
 better from the cool house. 'Sylvetta' wild arugula is perfectly
@@ -87,33 +87,3 @@ Blood' beet leaves provide red color instead. Spinach is not
 necessary if the tatsoi supply is good, but chard leaves add
 tenderness. Many customers enjoy this mix as a raw salad, so it is
 sold as an Asian salad/braising mix.
-
-## Stir-Fry Pak
-
-One winter, the farm created a value-added product called the
-"Stir-Fry Pak" -- a 10-by-15-inch cellophane bag containing whole
-ingredients: a head of 'Mei Qing Choi' pak choi, a head of young
-tatsoi, one 'Shunkyo' semi-long pink radish, one 'Hakurei' turnip
-with greens, one 'Tadorna' extra-hardy leek, and a large carrot. The
-contrasting colors and shapes of root, stem, and leaf plus the
-convenience of finding all ingredients in one bag made it a market
-success. The trial plantings sold out by mid-December.
-
-## Butter Chard Marketing
-
-Narrow-stem chard serves as both a salad mix ingredient and a
-marketable bunching green. In cool [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] conditions,
-chard maintains tender leaves and bright colors that appeal to
-restaurant customers and farmers market shoppers. The baby leaves
-work well in the braising mix, while larger leaves can be bunched
-and sold as a cooking green similar to spinach but with a milder
-flavor.
-
-See also coleman-winter-greens, and
-[[coleman-salad-mix-quality-standards]]
-## See Also
-- [[succession-planting]]
-- [[coleman-salad-braising-mix-composition]]
-- [[coleman-salad-mix-quality-standards]]
-- [[coleman-sowing-seedling-production]]
-- [[coleman-baby-leaf-salad-mix-quality-standards]]

@@ -87,16 +87,3 @@ Strict protocols govern removal of material for DNA analysis:
 6. The extraction procedure used must be documented
 
 7. The herbarium must be acknowledged in publications
-
-Destructive sampling for [[fungal-electronic-specimen-catalogues]]
-
-- [[fungal-type-specimens]]
-- [[fungal-dna-barcoding]]
-- [[lichen-biodiversity-sampling-protocols-data-analysis]]
-- [[plant-micronutrients-and-their-essential-functions]]
-
-## See Also
-
-- [[fungal-herbarium-record-keeping-specimen-transactions]]
-
-- fungal-specimen-preparation-herbarium-management

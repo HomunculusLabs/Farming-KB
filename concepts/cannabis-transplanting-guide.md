@@ -1,5 +1,5 @@
 ---
-title: green-cannabis-transplanting-root-bound-management Guide
+title: Cannabis Transplanting Guide
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,9 +10,9 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 5, 6)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 5, 6)
 
-Transplanting — moving a plant from a smaller container to a larger one — is a critical skill. Done properly, it promotes explosive root growth. Done poorly, it can stunt or kill the plant.
+Transplanting — moving a plant from a smaller container to a larger one — is a critical skill. Done properly, it promotes explosive [[soil-moisture-management-and-root-growth]]. Done poorly, it can stunt or kill the plant.
 
 ## Why Transplant
 
@@ -87,28 +87,3 @@ You do not have to use every size — some growers go from 1-liter straight to a
 - **Maintain moderate humidity**: 50–60%
 - **Avoid training or pruning**: Give the plant time to recover before any additional stress
 - **Resume normal care** once new growth appears (usually 3–7 days)
-
-## Transplanting into the Ground (Outdoor)
-
-For outdoor soil grows:
-- Dig a hole 2–3 times wider than the root ball
-- Mix in compost, worm castings, or other amendments with the native soil
-- Follow the same root preparation and planting steps
-- Consider adding mycorrhizal inoculant to the planting hole
-- Mulch the surface to retain moisture and regulate temperature
-
-## Common Mistakes
-
-- **Waiting too long**: Severely root-bound plants take longer to recover
-- **Transplanting too early**: Small plants in very large pots stay too wet — the root zone dries too slowly and can rot
-- **Air pockets**: Failing to firm the soil creates air pockets that dry out roots
-- **Planting too deep**: Burying the entire stem in deep soil can cause stem rot in humid conditions
-- **Heavy feeding after transplant**: Damaged roots cannot handle nutrients — wait before resuming feeding
-- **Rough handling**: Tearing roots excessively delays recovery
-
-## Related Topics
-
-- [[cannabis-root-bound-symptoms-and-management]] — recognizing when transplant is needed
-- [[cannabis-watering-techniques-and-frequency]] — post-transplant watering
-- [[cannabis-outdoor-growing]] — outdoor transplanting considerations
-- [[nutrient-movement-through-soil-to-plant-roots]]

@@ -15,7 +15,7 @@ sources:
   - Lyrene, P.M. (2008). "Breeding Blueberries for a Changing Climate." HortScience 43(1): 39–43.
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - Williamson, J.G. & Lyrene, P.M. (2004). "Blueberry Botany and Horticulture." Horticultural Reviews 30: 31–82.
-  - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern United States." HortScience 36(2): 351–353.
+  - Ballington, J.R. (2001). "Collection of Native Vaccinium Species in the Southeastern [[dmt-containing-plants-united-states-halpern]]." HortScience 36(2): 351–353.
 ---
 
 ## Overview
@@ -64,7 +64,7 @@ It is fire-adapted, resprouting vigorously from the root crown after prescribed 
 
 Elevation ranges from sea level to approximately 150 meters.
 
-The species is hardy in USDA zones 7–10 and shows limited cold tolerance compared to northern blueberry species.
+The species is hardy in USDA zones 7–10 and shows limited [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] compared to northern blueberry species.
 
 ## Cultivation
 
@@ -82,44 +82,8 @@ It is drought-tolerant once established but benefits from supplemental irrigatio
 
 Propagation is by softwood cuttings under mist, with rooting typically occurring in 8–12 weeks.
 
-Seed propagation is possible but produces highly variable offspring due to outcrossing.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is possible but produces highly variable offspring due to outcrossing.
 
-Ornamental use in native-plant gardens is increasing, particularly as a low-maintenance ground cover or accent shrub.
+Ornamental use in native-plant gardens is increasing, particularly as a low-maintenance [[fukuoka-citrus-orchard-ground-cover-cultivation]] or accent shrub.
 
 ## Ecological Role
-
-The early spring flowers provide critical nectar and pollen resources for native bees at a time when few other plants are in bloom.
-
-Specialist pollinators include southeastern blueberry bees (*Habropoda laboriosa*) and bumble bees (*Bombus impatiens*).
-
-The fruit is consumed by numerous bird species including cardinals, mockingbirds, blue jays, and brown thrashers.
-
-White-tailed deer occasionally browse the foliage, though palatability is moderate due to the tough, leathery leaves.
-
-The dense low growth form provides cover for ground-nesting birds and small mammals in pine flatwood ecosystems.
-
-Ericoid mycorrhizal associations in the root system facilitate [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in nutrient-poor sandy soils.
-
-The species contributes to the vegetative structure of fire-maintained pine flatwood and scrub communities across the southeastern coastal plain.
-
-## Uses and Significance
-
-The primary economic value of *V. darrowii* lies in its contribution to southern highbush blueberry breeding programs.
-
-Traits transferred to cultivated blueberries include low-chill adaptation, heat tolerance, small seed size, and excellent fruit flavor.
-
-The species has been used in interspecific hybridization with *V. corymbosum*, *V. virgatum*, and *V. angustifolium*.
-
-Indigenous peoples of the southeastern United States likely consumed the fruit, though documented ethnobotanical use is less extensive than for larger-fruited Vaccinium species.
-
-Its ornamental qualities, including the small glossy evergreen leaves and pinkish flowers, have generated interest in the nursery trade.
-
-The species serves as an indicator of healthy, fire-maintained pine flatwood and scrub ecosystems in conservation assessments.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-macrocarpon]]
-- arctostaphylos-uva-ursi
-- [[vaccinium-ovatum]]
-- [[vaccinium-pallidum]]

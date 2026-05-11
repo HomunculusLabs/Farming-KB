@@ -11,11 +11,11 @@ sources: []
 
 ## Overview
 
-Psychedelic mushrooms are fungi that produce psychoactive tryptamine compounds, primarily psilocybin and psilocin. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships. (see [[psychedelic-mushrooms-species-and-identification]]).
+Psychedelic mushrooms are fungi that produce psychoactive tryptamine compounds, primarily [[hplc-analysis-of-psilocybin-and-psilocin]]. The taxonomy of these fungi has undergone significant revision with the advent of molecular phylogenetics, reshaping our understanding of their evolutionary relationships.
 
 ## The Psilocybe Genus
 
-The genus Psilocybe (Fr.) P. Kumm. contains the majority of known psilocybin-producing species. It was first described in 1871 by Paul Kummer, based on the earlier work of Elias Magnus Fries. The name derives from the Greek "psilos" (bare) and "kubē" (head), referring to the typically smooth, bare cap surface of many species. (see [[psilocybin-mushrooms-overview]]).
+The genus Psilocybe (Fr.) P. Kumm. contains the majority of known psilocybin-producing species. It was first described in 1871 by Paul Kummer, based on the earlier work of Elias Magnus Fries. The name derives from the Greek "psilos" (bare) and "kubē" (head), referring to the typically smooth, bare cap surface of many species.
 
 As of 2026, over 180 species within Psilocybe are recognized as containing psilocybin, though the genus total exceeds 300 species (many not yet chemically analyzed). Species range globally across temperate and subtropical regions.
 
@@ -24,7 +24,7 @@ As of 2026, over 180 species within Psilocybe are recognized as containing psilo
 - **Psilocybe cubensis** — The most widely cultivated species, native to subtropical regions of the Americas. Large, robust fruiting bodies with moderate potency. Often found on bovine dung.
 - **Psilocybe semilanceata** — "Liberty cap," native to temperate grasslands of Europe and North America. Among the most potent species naturally. Found in association with grasses, particularly in autumn.
 - **Psilocybe cyanescens** — "Wavy caps," found on decaying wood chips in temperate coastal regions. Known for high potency and blueing reaction.
-- **Psilocybe azurescens** — Among the most potent known species, restricted to the Pacific Northwest coast of North America. Grows on dune grasses and decaying wood.
+- **Psilocybe azurescens** — Among the most potent known species, restricted to the [[psilocybin-north-america-pacific-northwest]] coast of North America. Grows on dune grasses and decaying wood.
 - **Psilocybe mexicana** — The species used in traditional Mazatec ceremonies and the first psilocybin mushroom identified by Western science. Native to highland Mexico.
 - **Psilocybe allenii** — Found in the Pacific Northwest, closely related to P. cyanescens but with distinct morphological features.
 - **Psilocybe weilii** — Discovered in Georgia, USA, found in red clay soils beneath Loblolly Pine.
@@ -58,7 +58,7 @@ Inocybe is a large genus with over 1,400 described species. Most are mycorrhizal
 
 ### Galerina
 
-**Galerina marginata** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on amatoxin poisoning.
+**[[galerina-marginata]]** (Deadly Galerina) is one of the most dangerous look-alikes. It contains the same amatoxins found in **Amanita phalloides** (Death Cap) and can be lethal. G. marginata grows in similar habitats to Psilocybe cyanescens — on decaying wood and wood chips — and has a similar brown cap appearance. Key distinguishing features include a brown spore print (Psilocybe has a purple-brown to dark purple-black print) and a persistent annulus. See [[fungal-toxins-reference]] for details on [[bloomfield-amatoxin-poisoning-mechanism]].
 
 ## Morphological Identification Features
 
@@ -73,7 +73,7 @@ Key features for distinguishing Psilocybe from look-alikes:
 
 ## The Psilocybin Biosynthetic Gene Cluster
 
-The discovery of the psilocybin biosynthetic gene cluster has added a molecular dimension to taxonomy. Researchers can now use PCR-based detection of psiD, psiH, psiK, and psiM to confirm the presence of psilocybin biosynthesis capability in fungal tissue, even before fruiting body morphology is available. This is particularly valuable for identifying active species among the many undescribed or poorly characterized taxa in tropical regions.
+The discovery of the psilocybin biosynthetic gene cluster has added a molecular dimension to taxonomy. Researchers can now use PCR-based detection of psiD, psiH, psiK, and psiM to confirm the presence of psilocybin biosynthesis capability in fungal tissue, even before [[brassinosteroid-fungal-fruiting-body-morphology]] is available. This is particularly valuable for identifying active species among the many undescribed or poorly characterized taxa [[fukuoka-natural-farming-in-tropical-regions]].
 
 ## Distribution Patterns
 

@@ -10,11 +10,11 @@ sources:
 
 # Cannabis and GERD (Gastro-Esophageal Reflux Disease)
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]]
+**Source:** [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]]
 
 ## Overview
 
-Gastro-Esophageal Reflux Disease (GERD) is commonly known as heartburn and acid reflux disease. It involves damage to the esophageal mucous membrane and esophageal sphincter when stomach acid reaches the lower esophagus due to incomplete sphincter closure (transient lower esophageal sphincter relaxations, or TLESR).
+Gastro-Esophageal Reflux Disease (GERD) is commonly known as heartburn [[cannabis-for-gerd-and-acid-reflux]] disease. It involves damage to the esophageal mucous membrane and esophageal sphincter when stomach acid reaches the lower esophagus due to incomplete sphincter closure (transient lower esophageal sphincter relaxations, or TLESR).
 
 ## CHI Value: 5
 
@@ -62,7 +62,7 @@ The clinical evidence for cannabis in GERD is limited but mechanistically sound,
 
 - **Dose-dependent efficacy (2009, Amsterdam):** The Amsterdam study is notable for demonstrating clear dose-dependent effects. At 10 mg THC, meal-induced TLESR episodes were significantly reduced in both human volunteers and dogs. This is a rigorous study from a respected academic medical center.
 
-- **Narrow therapeutic window:** The adverse effects observed at 20 mg (nausea, vomiting, hypotension, tachycardia) highlight the importance of precise dosing. The fact that THC at higher doses can cause nausea is particularly notable since nausea is one of the symptoms it is meant to help prevent in reflux patients.
+- **Narrow [[blesching-cannabis-safety-profile-subjective-therapeutic-window]]:** The [[adverse-effects-and-harm-reduction-psilocybin]] observed at 20 mg (nausea, vomiting, hypotension, tachycardia) highlight the importance of precise dosing. The fact that THC at higher doses can cause nausea is particularly notable since nausea is one of the symptoms it is meant to help prevent in reflux patients.
 
 - **Animal model validation:** The parallel findings in dogs strengthen the translational relevance of the human data, as the TLESR mechanism is conserved across mammals.
 
@@ -74,7 +74,7 @@ The clinical evidence for cannabis in GERD is limited but mechanistically sound,
 
 - **Narrow therapeutic window:** This is one of the few conditions where the therapeutic window is clearly defined and narrow. Patients should not exceed 10 mg THC per dose for GERD management.
 
-- **Route of administration:** Oral THC (capsules or oil) provides the most predictable dosing for GERD. Smoking or vaporizing introduces variables that make precise dose control difficult.
+- **[[mushroom-taste-route-of-administration-and-consumption-barriers]]:** Oral THC (capsules or oil) provides the most predictable dosing for GERD. Smoking or vaporizing introduces variables that make precise dose control difficult.
 
 - **Timing relative to meals:** The study administered THC before meals to reduce meal-induced TLESR. Patients should time cannabinoid use approximately 30-60 minutes before eating.
 
@@ -87,29 +87,3 @@ The clinical evidence for cannabis in GERD is limited but mechanistically sound,
 - **Dose-dependent adverse effects:** At 20 mg, THC caused nausea, vomiting, hypotension, and tachycardia. GERD patients must be careful not to exceed the therapeutic dose, as the resulting nausea and vomiting would worsen their condition.
 
 - **PPI and H2 blocker interactions:** No known direct pharmacokinetic interactions between cannabinoids and proton pump inhibitors (omeprazole, esomeprazole) or H2 receptor blockers (famotidine, ranitidine). Cannabis can be used alongside these conventional treatments.
-
-- **Lower esophageal sphincter relaxation at high doses:** Paradoxically, while low-dose THC reduces TLESR, higher doses may actually promote LES relaxation, worsening reflux. This biphasic effect underscores the importance of precise dosing.
-
-- **Gastric motility effects:** Cannabis can slow gastric emptying, which may be counterproductive for some GERD patients. If bloating or early satiety worsens after initiating cannabis, this may indicate an adverse motility effect.
-
-- **Cardiovascular effects:** The hypotension and tachycardia observed at 20 mg are concerning for elderly patients or those with cardiovascular disease. Cardiac monitoring is advisable during dose titration.
-
-## Mind-Body Connection
-
-Research on 60 heartburn patients found severity correlates with **major life events** rather than accumulation of minor stressors. "Vital exhaustion" from sustained stress is the psychophysiological pattern most closely associated with heartburn exacerbation. Anxiety increases acid-induced esophageal hyperalgesia (pain sensitivity).
-
-## Management Approaches
-
-- Lifestyle: avoid eating 2 hours before lying down; sleep slightly elevated; alkaline diet
-
-- Address major life events and sustained stress/anxiety
-
-- Cannabis: use cautiously, start with very low doses, monitor for dose-dependent side effects
-
-## Related Pages
-
-- [[cannabis-endocannabinoid-system]]
-
-- [[cannabis-for-diabetes-and-metabolic-syndrome]]
-- [[fungal-monitoring-long-term-studies]]
-- [[cannabis-for-vomiting-and-nausea]]

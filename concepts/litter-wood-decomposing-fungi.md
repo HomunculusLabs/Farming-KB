@@ -82,7 +82,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 - Degradation of both cellulose and lignin
 - Caused by Basidiomycetes (primarily)
 - Wood becomes lighter in color, soft, spongy
-- Enzymes: lignin peroxidase (LiP), manganese peroxidase (MnP), laccase
+- Enzymes: lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), laccase
 - Key genera: *Phanerochaete*, *Trametes*, *Bjerkandera*, *Irpex*, *Pleurotus*, *Piptoporus*
 - Complete decomposition of all wood components is possible
 
@@ -98,9 +98,9 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Soft Rot**:
 - Caused by Ascomycetes and Deuteromycetes
 - Cavities formed within secondary cell wall (Type I) or erosion from lumen surface (Type II)
-- Important in wet wood, preservative-treated wood, and aquatic environments
+- Important in wet wood, preservative-treated wood, and [[fungal-roles-aquatic-environments]]
 - Key genera: *Chaetomium*, *Trichoderma*, *Xylaria* (Ascomycetes)
-- More important in tropical than temperate regions
+- More important in tropical than [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 - Can degrade wood that is too wet or too dry for basidiomycetes
 
 ### Succession on Wood
@@ -113,7 +113,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 
 **Early decomposition (1-5 years)**:
 - Primary decay fungi establish: white-rot and brown-rot basidiomycetes
-- Competition between species determines community composition
+- Competition between species determines [[core-endorhiza-bacterial-community-composition-cannabis]]
 - *Stereum*, *Trametes*, *Bjerkandera* (white rot) and *Gloeophyllum*, *Serpula* (brown rot) common
 
 **Late decomposition (5-50+ years)**:
@@ -135,14 +135,14 @@ Fungi compete intensely for wood resources. Interactions include:
 - **Intermingling**: Hyphae grow through each other without apparent effect
 - **Deadlock**: Hyphae meet and stop growing; stable interface forms
 - **Replacement**: One species overgrows and replaces another
-- **Bystander effect**: Fungi release volatile organic compounds that inhibit distant competitors
+- **Bystander effect**: Fungi release [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that inhibit distant competitors
 
 ### Combat Mechanisms
 - **Antibiotic production**: Trichoderma produces trichodermin, gliotoxin
 - **Enzyme secretion**: Laccases, proteases, chitinases attack competitors
 - **Physical contact**: Hyphal coiling, penetration, lysis
 - **Resource sequestration**: Rapid colonization of new territory
-- **Secondary metabolites**: Many basidiomycetes produce antifungal compounds
+- **[[antifungal-secondary-metabolites-coprophilous-fungi]]**: Many basidiomycetes produce antifungal compounds
 
 ### Outcomes
 - Combat outcomes depend on: relative growth rates, resource status, moisture, temperature

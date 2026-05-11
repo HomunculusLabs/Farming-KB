@@ -11,8 +11,8 @@ sources: []
 Fungal exopolysaccharides (EPS) and extracellular polymeric substances represent
 a diverse group of high-molecular-weight compounds secreted by fungal hyphae
 into their surrounding environment. These polymers play essential roles in fungal
-ecology, including soil aggregation, water retention, mycorrhizal mineral
-weathering and nutrient acquisition, metal binding, and protection against
+ecology, including soil aggregation, water retention, [[gadd-mycorrhizal-mineral-weathering-nutrient-mobilization]]
+weathering and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], metal binding, and protection against
 environmental stress.
 
 ## Types of Fungal Extracellular Polymers
@@ -38,7 +38,7 @@ affect their physical and chemical properties.
 Exopolysaccharides are critical binding agents in soil [[singh-fungal-roles-in-soil-aggregate-formation]].
 Fungal mucilage and capsular materials bind soil particles together through
 several mechanisms. Cation bridges form between negatively charged
-polysaccharide carboxyl groups and positively charged clay mineral surfaces.
+polysaccharide carboxyl groups and positively charged clay [[fungal-community-profiling-rock-mineral-surfaces-gadd]].
 Entanglement of fungal hyphae physically enmeshes soil particles, while EPS
 coating of hyphal surfaces provides additional adhesive surface area. The
 combined effect of these mechanisms creates and stabilizes soil aggregates,
@@ -46,10 +46,10 @@ improving soil structure, water infiltration, and resistance to erosion.
 
 ## Role in Mycorrhizal Function
 
-Arbuscular mycorrhizal fungi (AMF) are prolific producers of extracellular
+[[arbuscular-mycorrhizal-fungi]] (AMF) are prolific producers of extracellular
 polymers. Glomalin-related soil protein (GRSP), an operationally defined
 fraction extracted from soil, is among the most studied fungal polymers. GRSP
-can constitute a significant pool of soil organic carbon, persisting in soil
+can constitute a significant pool of [[soil-organic-carbon-fractions-turnover-dynamics]], persisting in soil
 for years to decades due to its recalcitrant glycoprotein structure. AMF hyphae
 also secrete mucilage that facilitates exploration of soil pore spaces,
 enhances contact between hyphae and soil particles, and creates conditions
@@ -57,7 +57,7 @@ favorable for nutrient uptake and transfer to host plants.
 
 Ectomycorrhizal fungi produce their own suite of extracellular polymers. The
 Hartig net, the interface between fungal hyphae and plant root cells, is
-embedded in a polysaccharide-rich matrix that facilitates nutrient exchange.
+embedded in a polysaccharide-rich matrix that facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 Ectomycorrhizal mantles and extramatrical hyphae secrete EPS that modify the
 rhizosphere chemistry, solubilize mineral nutrients, and bind toxic metals.
 
@@ -88,16 +88,3 @@ physical defense against fungivorous organisms.
 Fungal exopolysaccharides have attracted significant biotechnological interest.
 Pullulan, produced by [[aureobasidium-pullulans]], is widely used in food
 packaging, pharmaceuticals, and cosmetics. Scleroglucan from Sclerotium species
-has applications as a thickening agent and stabilizer. [[ganoderma-lucidum]]
-produces bioactive polysaccharides with immunomodulatory properties studied for
-[[metzner-ayahuasca-therapeutic-potential]]. Industrial fermentation processes for fungal EPS
-production continue to be optimized for yield, molecular weight control, and
-functional properties tailored to specific applications.
-
-## See Also
-
-- [[soil-aggregate-formation-fungal-contributions]]
-- fungal mycelium network soil structure
-- [[fungal-radionuclide-accumulation-and-bioremediation]]
-- [[fungal-ecosystem-processes-overview]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]

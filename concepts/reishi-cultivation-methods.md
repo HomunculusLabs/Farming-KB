@@ -5,6 +5,7 @@ updated: 2026-04-14
 type: concept
 tags: [cultivation, mycology]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Reishi Cultivation Methods
@@ -87,20 +88,3 @@ Not all Ganoderma lucidum strains are equal in terms of growth characteristics, 
 ## Troubleshooting Common Problems
 
 Reishi cultivation, while relatively forgiving, presents several common challenges:
-
-- **Contamination during spawn run**: The most frequent failure. Reishi mycelium is vigorous but slow compared to contaminants like Trichoderma. Maintain strict hygiene during inoculation, ensure substrate is properly sterilized (minimum 2 hours at 15 psi), and work in a clean room with laminar flow. If contamination appears, discard the affected block immediately -- do not attempt to save it
-- **Antlers only, no caps forming**: This indicates CO2 levels remain too high. The solution is to open or remove the bag to allow gas exchange. If caps still do not form after 7-10 days, check that humidity remains above 90% -- low humidity can halt cap development even at normal CO2 levels
-- **Brown rot or soft spots on developing conks**: Caused by bacterial contamination, usually from insufficient sterilization or handling with unwashed hands. Reduce humidity slightly and increase airflow to slow the spread
-- **Pale or white conks**: Insufficient light during the fruiting stage. Reishi needs 500-1500 lux for 12 hours daily to develop the characteristic lacquered red-brown appearance. Light also stimulates ganoderic acid production
-- **Aborted pins or primordia**: Usually caused by rapid temperature fluctuations, CO2 spikes, or drying out. Maintain stable conditions once primordia appear
-
-## Commercial Processing Methods
-
-For commercial reishi operations, post-harvest processing significantly affects product quality and market value:
-
-- **Drying**: Conks should be dried at 35-40 deg C with good airflow. Higher temperatures degrade triterpenes and polysaccharides. Complete drying typically takes 5-7 days. Conks are properly dried when they snap crisply rather than bending
-- **Slicing**: For tea production, conks are sliced 2-5 mm thick before drying to reduce drying time and increase surface area for extraction
-- **Powdering**: Dried conks or antlers are ground to fine powder (80-200 mesh) for encapsulation. Dual extraction powders are produced by first water-extracting the material, then alcohol-extracting the residue, and spray-drying or freeze-drying the combined liquid
-- **Quality testing**: Reputable producers test for beta-glucan content (should exceed 10% dry weight), heavy metals, pesticide residues, and microbial contamination. Ganoderic acid A content is used as a marker for triterpene potency
-- [[stamets-reishi-ganoderma-lucidum-cultivation]]
-- mushroom-sawdust-bran-spawn-preparation

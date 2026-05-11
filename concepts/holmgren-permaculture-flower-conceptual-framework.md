@@ -1,17 +1,18 @@
 ---
-title: The [[holmgren-permaculture-education-training-and-pdc]] flower conceptual framework - Holmgren's Conceptual Framework
+title: Holmgren Permaculture Flower Conceptual Framework
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [permaculture, holmgren, design-framework, sustainability, conceptual-model, ethics, whole-systems]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # The Permaculture Flower - Holmgren's Conceptual Framework
 The Permaculture Flower is David Holmgren's iconic conceptual model that maps
 the domains of human activity requiring transformation to create a sustainable
 culture. Presented in *Permaculture: Principles & Pathways Beyond Sustainability*
-(2002), the flower diagram illustrates how permaculture ethics and design
+(2002), the flower diagram illustrates how [[permaculture-ethics-and-principles]] design
 principles spiral outward from their origin in land and nature stewardship to
 encompass progressively broader domains of human endeavour, including building,
 tools, technology, culture, education, health, spirituality, economics, and
@@ -19,8 +20,8 @@ land tenure. It serves as both a pedagogical tool and an organising framework
 for understanding permaculture as far more than organic gardening.
 ## Structure of the Flower
 At the centre of the Permaculture Flower sits the core: ethics and principles.
-The three ethical foundations -- earth care, people care, and fair share --
-radiate outward along with the twelve design principles. Surrounding this core
+The three [[bill-mollison-permaculture-a-designers-manual-ethical-foundations-in-permaculture]] -- earth care, people care, and fair share --
+radiate outward along with the [[permaculture-twelve-design-principles]]. Surrounding this core
 are seven key domains that represent the major areas of human life and society
 that permaculture addresses. These domains include land and nature stewardship
 (the historical foundation), building and technology, tools and technology,
@@ -40,10 +41,10 @@ times and in different cultural contexts.
 ## The Seven Domains
 Each petal of the Permaculture Flower represents a domain of human activity:
 1. **Land and Nature Stewardship**: The foundational domain covering
-   agriculture, forestry, water management, and ecological restoration.
+   agriculture, forestry, water management, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 2. **Building**: Shelter design, passive solar architecture, natural building
    materials, and retrofitting existing structures for efficiency.
-3. **Tools and Technology**: Appropriate technology selection, renewable energy
+3. **Tools and Technology**: [[appropriate-technology]] selection, renewable energy
    systems, and tools matched to scale and context.
 4. **Culture and Education**: Knowledge transmission, community building,
    creative expression, and the social structures that sustain learning.
@@ -67,7 +68,7 @@ transition.
 ## Relationship to the Design Principles
 The twelve design principles form the generative core from which the flower
 grows. Each principle can be applied within every domain, creating a matrix of
-possibilities. For example, "Use and value renewable resources and services"
+possibilities. For example, "Use [[permaculture-principle-use-and-value-renewable-resources]] resources and services"
 applies to land stewardship (agroforestry), building (natural materials), tools
 (human-powered equipment), economics (local currencies), and governance
 (participatory decision-making). This cross-domain applicability is what makes

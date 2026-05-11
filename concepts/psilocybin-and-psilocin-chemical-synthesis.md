@@ -87,35 +87,3 @@ Melting point: 190 to 198 degrees Celsius. Isolated yield from psilocin exceeded
 ## Analytical Data
 
 ### Psilocin
-
-- UV (MeOH) maxima: 222.5, 268.0, 284.5, 294.0 nm (log epsilon 4.55, 3.72, 3.62, 3.58)
-- IR (KBr): 3285, 2959, 2371, 1620, 1588, 1473, 1345, 1258 cm minus 1
-- ESI-MS: m/z 205.1 [M+H]+, 227.1 [M+Na]+
-- High-resolution MS confirmed molecular formula C12H17N2O
-
-### Psilocybin
-
-- UV (MeOH) maxima: 221.0, 267.5, 278.5, 290.0 nm (log epsilon 4.44, 3.66, 3.57, 3.42)
-- IR (KBr): 3266, 3034, 2731, 2369, 1620, 1580, 1505, 1439 cm minus 1
-- ESI-MS: m/z 285.1 [M+H]+, 307.1 [M+Na]+
-- 31P NMR (CD3OD): delta minus 4.48 (OPO3H2)
-- High-resolution MS confirmed molecular formula C12H18N2O4P
-
-## Significance
-
-The Shirota synthesis represents the most practical published route to analytical standards for psilocybin and psilocin. The elimination of chromatographic purification makes it feasible for forensic laboratories to produce gram-scale reference materials without specialized equipment.
-
-The serendipitous discovery of the self-purifying zwitterionic intermediate was key to achieving this practicality, supporting regulatory analysis of psilocybin-containing mushrooms worldwide.
-
-## See Also
-
-- [[psilocin-chemical-synthesis]]
-
-- [[query-what-is-the-difference-between-psilocybin-and-psilocin]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
-
-- [[psilocybin]]
-- Tryptamine Alkaloids
-- Serotonin Receptor Pharmacology
-- Forensic Analysis of Psychoactive Fungi
-- Magic Mushroom Species Identification

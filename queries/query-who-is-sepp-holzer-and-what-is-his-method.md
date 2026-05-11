@@ -6,6 +6,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---
 
@@ -55,7 +56,7 @@ Holzer's [[sepp-holzer-garden-helpers-and-pest-regulation]] page shows how healt
 ## Key Differences from Mainstream Permaculture
 
 Holzer's approach is more intuitive and observation-based than the systematic design methods of Mollison.
-The [[sepp-holzer-entity]] is the Austrian farmer who pioneered nature-guided farming on his mountain farm
+The [[sepp-holzer]] is the Austrian farmer who pioneered nature-guided farming on his mountain farm
 - The [[sepp-holzer-pond-construction]] details his water retention landscape techniques for any terrain
 - sepp-holzer-livestock-integration shows how animals perform essential ecological functions
 - [[comparison-sepp-holzer-vs-permaculture-design]] contrasts his approach with mainstream permaculture

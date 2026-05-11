@@ -33,12 +33,12 @@ widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]
 Hemisphere.
 
 The species is recognized by its smooth gray-to-brown cap, lack of a volva at
-the base, presence of a fragile skirt-like annulus, and white spore print.
+the base, presence of a fragile skirt-like annulus, and white [[boil-a-bag-spore-print-technique-jarrold]].
 Unlike many *Amanita* species, *A. vaginata* lacks both a universal veil and
-a partial veil that leaves a persistent ring on the stipe in most specimens.
+a [[partial-veil-tropism-protection-before-spore-release]] that leaves a persistent ring on the stipe in most specimens.
 
 It is one of the more commonly collected edible *Amanita* species in Europe
-and North America, though foragers must exercise caution to distinguish it
+and [[guzman-psilocybin-mushrooms-north-america]], though foragers must exercise caution to distinguish it
 from toxic lookalikes in the *Amanita* genus.
 
 ## Taxonomy and Classification
@@ -82,64 +82,8 @@ Europe, Asia, and North America. In North America it occurs from Alaska to
 Mexico, though western and eastern populations may represent distinct
 phylogenetic species within the *A. vaginata* complex.
 
-The species forms ectomycorrhizal associations with a wide range of trees
+The species forms [[ectomycorrhizal-associations]] with a wide range of trees
 including *Betula* (birch), *Quercus* (oak), *Pinus* (pine), *Picea*
 (spruce), *Populus* (poplar/aspen), and *Fagus* (beech). It fruits singly or
 in scattered groups from summer through autumn, preferring moist forest
 floors with duff or moss cover.
-
-It tolerates both coniferous and mixed hardwood forests and is frequently
-found in urban parks, gardens, and along forest edges where mycorrhizal
-hosts are present.
-
-## Edibility and Culinary Use
-
-*Amanita vaginata* is widely regarded as edible and is collected for food in
-many parts of Europe and Asia. It is considered one of the better-tasting
-*Amanita* species, with a delicate flavor suitable for soups, sautés, and
-drying.
-
-However, consumption requires expert identification. Several toxic *Amanita*
-species share similar habitats and general morphology. Most critically, the
-death cap (*A. phalloides*) and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (*A. virosa*) are lethal
-lookalikes that can be confused by inexperienced foragers.
-
-**Key distinguishing features from toxic species:** absence of a true
-volva, striate cap margin extending significantly, and a fragile easily-lost
-annulus. As with all wild *Amanita*, cook thoroughly before consumption.
-
-## Ecological Role
-
-As an ectomycorrhizal fungus, *A. vaginata* forms mutualistic associations
-with the fine root systems of trees. The fungal mycelium extends the root
-absorption zone, facilitating uptake of water and mineral nutrients
-(particularly phosphorus and nitrogen) in exchange for photosynthetically
-fixed carbon from the host.
-
-This relationship is particularly important in boreal and temperate forest
-ecosystems where [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is slow. *A. vaginata* contributes to soil
-aggregation and [[hamilton-composting-and-organic-matter-management]] decomposition, and its fruiting bodies serve
-as a food source for various invertebrates and small mammals.
-
-## Similar and Related Species
-
-- ***Amanita fulva*** — Tawny grisette; cap uniformly orange-brown; also
-  edible. Distinguished by cap color from the gray *A. vaginata*.
-- ***Amanita crocea*** — Saffron grisette; cap orange to saffron-colored.
-- ***Amanita lividopallescens*** — Similar but with a more persistent
-  volva remnant.
-- ***Amanita phalloides*** — Death cap; greenish cap, distinct volva at
-  base, persistent annulus. **Lethally toxic.**
-- ***Amanita virosa*** — Destroying angel; pure white, prominent volva.
-  **Lethally toxic.**
-
-The *A. vaginata* species complex in North America likely contains multiple
-cryptic species that are morphologically similar but genetically distinct.
-DNA barcoding using ITS regions has revealed significant phylogenetic
-diversity within what was traditionally considered a single species.
-## See Also
-
-- [[amanita-phalloides]]
-- [[amanita-pantherina]]
-- [[amanita-gemmata]]
-- [[cantharellus-cibarius-entity]]

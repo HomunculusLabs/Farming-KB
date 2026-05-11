@@ -88,22 +88,3 @@ tracks:
 ## Differences from Gilled Mushroom Cultivation
 
 Several important differences exist between cultivating
-Polypores versus fleshier gilled mushrooms:
-
-- Polypores do not enjoy, nor require, the heavy watering
-  schedules and high humidities of gilled mushrooms
-- Like most mushrooms, Polypores are sensitive to carbon
-  dioxide levels and light conditions
-- Many Polypore species produce better fruitings if the
-  substrate block is compressed after colonization
-- Development of fruitbodies is extremely responsive to
-  changes within the growing room environment
-
-## Future Directions
-
-With the loss of old-growth forests, cultivator-mycologists
-can play an all-important role in saving the fungal genome.
-As forests decline from acid rain, future-oriented
-foresters would be wise to explore strategies whereby dead
-trees could be inoculated and saprophytized by Maitake and
-similar immuno-potentiating fungi.

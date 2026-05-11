@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -30,17 +31,17 @@ Mulch provides multiple benefits to outdoor cannabis gardens:
   moisture from evaporating, reducing the need for frequent watering.
   This is especially critical in remote or guerrilla gardens.
 
-- **Weed Suppression**: Mulch blocks sunlight from reaching weed
+- **[[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]**: Mulch blocks sunlight from reaching weed
   seeds, preventing germination and growth. This reduces competition
   for water and nutrients.
 
-- **Soil Temperature Regulation**: Mulch insulates soil from extreme
+- **Soil [[blesching-cannabis-fever-temperature-regulation]]**: Mulch insulates soil from extreme
   temperature fluctuations, keeping roots cooler in summer heat.
 
 - **Soil Improvement**: Organic mulches decompose over time, adding
   humus and nutrients to the soil while improving structure.
 
-- **Erosion Prevention**: Mulch protects topsoil from wind and water
+- **[[dighton-fungal-roles-soil-erosion-prevention]]**: Mulch protects topsoil from wind and water
   erosion on sloped terrain.
 
 ## Types of Mulch
@@ -71,7 +72,7 @@ mulch covering to hold it in place.
 ### Black Plastic
 
 Black [[jadam-plastic-mulch-problems]] conserves moisture and suppresses weeds
-effectively. Cover the entire garden bed with black plastic and cut
+effectively. Cover the entire [[garden-bed-designs]] with black plastic and cut
 holes through which seedlings are planted. A soaker hose can be laid
 underneath the plastic to irrigate. Make sure to cut large enough holes
 so that plant stems do not touch the plastic. Black plastic gets very
@@ -86,50 +87,3 @@ only and remove it before it shreds into unsightly pieces of long
 plastic.
 
 ### Weed Barrier Fabric
-
-Woven weed barriers or strips of scrap carpet let water drain but
-will not let weeds grow through. Cover these barriers with rock or
-bark chips for a finished appearance and additional protection.
-
-## Expanded Clay Mulch
-
-Expanded clay (hydroclay) can be used as a surface mulch on soil or
-soilless mixes in containers. Feeder roots grow near the soil surface,
-just under the expanded clay mulch. A layer of hydroclay on the soil
-surface keeps soil surface moist, decreases evaporation, and helps
-maintain even moisture distribution.
-
-## Application Tips
-
-Planting in a thick layer of mulch is a good way to conserve moisture.
-In the spring, mulched amended soil should be prepared before planting.
-Always put a heavy layer of mulch (30+ cm) around outdoor plants to
-keep soil elements protected and moisture conserved. Replenish organic
-mulches as they decompose throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-For comprehensive outdoor growing information, see [[cervantes-organic-amendments-chart]].
-
-## Mulch in Container Gardens
-
-Container gardens can also benefit from mulching. A layer of expanded
-clay pebbles on the soil surface prevents moisture loss and reduces
-the frequency of watering needed. [[comparison-living-mulch-vs-cover-crops]] such as low-growing
-clover can be used in large outdoor containers to suppress weeds and
-[[query-how-to-fix-nitrogen-toxicity-in-cannabis]], though care must be taken to prevent competition with the
-cannabis plants.
-
-## Seasonal Mulch Management
-
-In the spring, mulched amended soil should be prepared before planting.
-Remove old mulch layers that have fully decomposed and replace with
-fresh material. During the growing season, replenish organic mulches as
-they break down. A thick layer of mulch (30+ cm) around outdoor plants
-keeps soil elements protected and moisture conserved throughout the
-season.
-
-## Related Concepts
-
-- [[cervantes-organic-amendments-chart]] - organic soil inputs
-- [[cervantes-companion-planting-pest-deterrent]] - companion plants
-  as living mulch
-- [[cervantes-container-gardening-pot-size]] - container mulching

@@ -16,7 +16,7 @@ sources:
 
 ## Overview
 
-Micronutrients are mineral elements required by plants in trace amounts, yet they are every bit as essential as the macronutrients. Per Von Liebig's [[nutritive-cycle-theory|Law of the Minimum]], if even the least-used nutrient is absent, all others become irrelevant -- the plant cannot grow or reproduce. The eight recognized micronutrients are boron (B), chlorine (Cl), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni), and zinc (Zn).
+Micronutrients are mineral elements required by plants in trace amounts, yet they are every bit as essential as the macronutrients. Per Von Liebig's [[nutritive-cycle-theory]], if even the least-used nutrient is absent, all others become irrelevant -- the plant cannot grow or reproduce. The eight recognized micronutrients are boron (B), chlorine (Cl), copper (Cu), iron (Fe), manganese (Mn), molybdenum (Mo), nickel (Ni), and zinc (Zn).
 
 ## Iron (Fe)
 
@@ -24,7 +24,7 @@ Micronutrients are mineral elements required by plants in trace amounts, yet the
 
 - **Electron carrier:** Iron atoms serve as carriers of electrons that can be easily passed between them, making iron essential for respiration and oxidation-reduction reactions
 - **Chlorophyll function:** Although not part of the chlorophyll molecule itself, iron is required to make chlorophyll and helps it function properly
-- **Nitrogen fixation:** Critical to nitrogen fixation; conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes
+- **[[biological-nitrogen-fixation-agriculture]]:** Critical to nitrogen fixation; conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes
 - **Enzyme component:** A component of important enzymes and proteins
 
 Plants are so dependent on iron that they have developed a system to release ions into the soil to lower pH, preventing iron from becoming unavailable.
@@ -44,7 +44,7 @@ Common in most soils from weathered minerals, but becomes unavailable at high pH
 
 ### Functions
 
-- **Oxygen liberation:** Accepts electrons from water during photosynthesis, playing a critical role in splitting water molecules to release oxygen
+- **Oxygen liberation:** Accepts electrons from water during photosynthesis, playing a critical role in splitting water molecules [[query-how-does-hemoglobin-know-when-to-release-oxygen]]
 - **Carbohydrate metabolism:** Works with certain enzymes to break apart carbohydrates
 
 ### Deficiency Symptoms
@@ -61,7 +61,7 @@ Manganese toxicity is more common than deficiency in acidic soils (pH below 5.5)
 ### Functions
 
 - **Enzyme component:** Zn is a component of many enzymes involved in oxidation and reduction reactions
-- **Auxin production:** Helps in the production of auxins, the main growth hormone in plants
+- **[[auxin-production-by-symbiotic-fungi]]:** Helps in the production of auxins, the main [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] in plants
 - **Chlorophyll and carbohydrate synthesis:** Required for synthesis of both
 - **Protein synthesis:** Activates enzymes needed to make RNA and DNA
 - **Cold tolerance:** Can help plant cells withstand cold temperatures
@@ -94,13 +94,13 @@ Zinc availability decreases at high pH and in soils with high phosphorus levels 
 
 ### Toxicity
 
-Copper toxicity can occur in soils with high copper content (often from agricultural chemicals or industrial contamination). Symptoms include reduced root growth and darkened roots.
+Copper toxicity can occur in soils with high copper content (often from [[agricultural-chemicals-mycorrhizal-impact]] or industrial contamination). Symptoms include reduced root growth and darkened roots.
 
 ## Boron (B)
 
 ### Functions
 
-- **Cell wall structure:** Connects carbohydrate chains in cell walls, providing structural strength
+- **Cell wall structure:** Connects carbohydrate chains in cell walls, providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
 - **Pollen tube formation:** Necessary for formation of pollen tubes; without boron, pollen does not form properly
 - **Sugar/starch balance:** Involved in balancing the amounts of sugar versus starch in the plant
 - **Sugar translocation:** Involved in the movement of sugars and starches throughout the plant
@@ -147,4 +147,3 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 
 - Chlorosis in older leaves (molybdenum is mobile)
 - "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
-

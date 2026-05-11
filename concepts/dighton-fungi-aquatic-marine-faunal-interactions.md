@@ -88,36 +88,3 @@ freshwater streams to estuarine and marine environments.
 ## Gut Symbiont Fungi
 
 Like terrestrial and aquatic arthropods, marine isopods contain fungi
-in their gut to assist in breakdown of plant food. Cafaro (2000)
-showed that Patagonian intertidal isopods contained Trichomycetes of
-the genus Palavascia. In aquatic ecosystems, trichomycetes are also
-found as endosymbionts in black fly larval guts (Beard and Adler,
-2002). New recruits to black fly larval populations rapidly became
-colonized by Harpella melusinae, suggesting strong dependence on this
-fungus as a gut symbiont. Abundance of different gut fungal species
-varied significantly among seasons, within sites, and among sites.
-
-## Marine Fungal Pathogens
-
-Fungi are major pathogens of marine animals. Mitosporic fungi cause
-disease of crustaceans and damage to corals and juvenile clams.
-Dematiaceous fungal hyphae including Exserohilum rostratum and
-Curvularia spp. were isolated from mantle and shell of juvenile
-Tridacna crocea clams in declining health. Many oomycetes are highly
-destructive pathogens of finfish, mollusks, and shellfish. Chytrids
-and oomycetes also infect marine algae, though the impact on host
-production and fitness requires further investigation.
-
-## See Also
-
-- [[dighton-fungi-mangrove-coastal-ecosystems]]
-- [[dighton-fungal-grazing-feedbacks-decomposition]]
-- freshwater-fungi-ingoldian-spores
-
-## Sources
-
-- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
-  Chapters 2 and 4.
-- [[decomposition]]
-- [[fungal-hyphae]]
-- [[marine-fungi-diversity-sampling]]

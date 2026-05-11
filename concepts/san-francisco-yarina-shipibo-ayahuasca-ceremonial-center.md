@@ -88,39 +88,3 @@ spectrum of character found among practitioners.
 The [[ayahuasca-ceremony-pricing-disparity-tourist-versus-local]] between local and tourist ceremonies is stark. In the
 early 2000s, local Peruvians paid approximately two dollars for an ayahuasca
 ceremony, while tourists were charged ten to thirty dollars. The most
-commercially successful practitioners could earn hundreds of dollars per month
-from tourism — an extraordinary income in a region where neighbors could not
-afford basic transportation.
-
-This economic gradient creates significant incentives for commercialization.
-Practitioners who cater primarily to tourists can earn far more than those who
-serve their local community, which may influence the character and depth of the
-ceremonies they offer. The author noted that a commercialized ceremony would
-"probably be shallower than a ritual conducted solely for the benefit of the
-shaman's relatives and community."
-
-## Visiting San Francisco
-
-For prospective visitors, San Francisco offers an alternative to the more
-developed [[ayahuasca-tourism-infrastructure-peruvian-amazon]] of Iquitos. The town lacks hotels, so visitors
-must arrange accommodation independently. The taxi ride from Yarina provides
-access, and the density of practitioners means that visitors can shop around
-and compare different shamans. However, the linguistic barriers and cultural
-differences that characterize all ayahuasca tourism are fully present here.
-
-The author's central advice was to spend time getting to know a practitioner
-before committing to ceremony. The character of the shaman, their motivation
-(commercial versus spiritual), and their familiarity with the potential
-drug interactions of ayahuasca are all critical factors that a brief visit
-cannot adequately assess.
-
-## Legacy and Changes Since 2001
-
-Since the observations documented in 2001, ayahuasca tourism throughout the
-Peruvian Amazon has expanded dramatically. The Shipibo communities around
-Pucallpa have become increasingly well-known internationally, and the
-infrastructure for receiving foreign visitors has grown substantially. However,
-the fundamental dynamics observed — the range of practitioner character, the
-price disparity between local and tourist ceremonies, and the tension between
-authentic community practice and commercial service — remain relevant concerns
-for anyone considering a visit to San Francisco or similar Shipibo communities.

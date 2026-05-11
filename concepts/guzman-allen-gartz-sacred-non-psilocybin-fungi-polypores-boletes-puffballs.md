@@ -88,11 +88,3 @@ The existence of sacred non-psilocybin fungi challenges reductive explanations o
 Although *Amanita muscaria* (fly agaric) is not a focus of the Guzmán, Allen, and Gartz survey, it provides essential context for understanding sacred non-psilocybin fungi. Wasson and Wasson (1957) brought attention to the importance of *A. muscaria* as a sacred fungus among the Chukchee and Koryak peoples of Siberia. The Siberian paradigm — in which a non-psilocybin mushroom with psychoactive properties (ibotenic acid, muscimol) serves as the central sacrament of a shamanic tradition — parallels the Mexican and New Guinea cases discussed above.
 
 The key difference is that *A. muscaria* is genuinely psychoactive, whereas many of the Mexican and New Guinea sacred fungi are not. Yet the cultural pattern — veneration of a specific fungal species, development of specialized preparation techniques, integration into cosmological narratives — is remarkably similar across all three contexts. This suggests that the human capacity for fungal veneration is independent of the specific pharmacological properties of the venerated species. Fungi are culturally significant organisms regardless of whether they contain psychoactive compounds.
-
-## Conclusion
-
-The study of sacred non-psilocybin fungi reveals the limitations of pharmacological reductionism in understanding human-fungal relationships. Indigenous peoples [[fungi-around-the-world-species-distribution]] have venerated fungi for reasons that extend far beyond their chemical composition — for their visual drama, their ecological behavior, their medicinal properties, their cosmological symbolism, and their role in ceremonial practice. The cases documented by Guzmán, Allen, and Gartz remind us that the sacred category is defined by cultural use, not by laboratory analysis, and that the full scope of human-fungal relationships can only be understood by taking indigenous knowledge seriously on its own terms.
-
-## See Also
-
-- [[sacred-gasteromycetes-non-psilocybin-psychoactive-fungi]]

@@ -1,5 +1,5 @@
 ---
-title: "P (PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE) -- 2c-b-pihkal-entry-20 #140"
+title: P [[2-4-dma-entity-pihkal]]
 created: 2026-04-23
 updated: 2026-04-23
 type: entity
@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # P
 
-[[2c-b-pihkal-entry-20]] #140. PROSCALINE; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #140. [[proscaline]]; 3,5-DIMETHOXY-4-(n)-PROPOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -88,37 +88,7 @@ extracted 3x175 mL CH2Cl2. The pooled extracts were washed with 2x50
 mL 5% NaOH, once with dilute HCl (which lightened the color of the
 extract) and then stripped of solvent under vacuum giving 9.0 g of a
 deep yellow oil. This was distilled at 132-142 deg C at 0.3 mm/Hg to
-yield 4.8 g of 3,5-dimethoxy-4-(n)-propoxyphenylacetonitrile as a
-clear yellow oil. Anal. (C13H17NO3) C H N.
-
-A solution of 4.7 g 3,5-dimethoxy-4-(n)-propoxyphenylacetonitrile in
-20 mL THF was treated with 2.4 g powdered sodium borohydride. To this
-well-stirred suspension there was added, dropwise, 1.5 mL
-trifluoroacetic acid. There was a vigorous gas evolution from the
-exothermic reaction. Stirring was continued for 1 h, then all was
-poured into 300 mL H2O. This was acidified cautiously with dilute
-H2SO4, and washed with 2x75 mL CH2Cl2. The aqueous phase was made
-basic with dilute NaOH, extracted with 2x75 mL CH2Cl2, the extracts
-pooled, and the solvent removed under vacuum. The residue was
-distilled at 115-125 deg C at 0.3 mm/Hg to give 1.5 mL of a colorless oil
-which upon dissolving in 5 mL IPA, neutralizing with 27 drops
-concentrated HCl, and dilution with 25 mL anhydrous Et2O yielded 1.5 g
-3,5-dimethoxy-4-(n)-propoxyphenethylamine hydrochloride (P) as
-
-spectacular white crystals. The catalytic hydrogenation process for
-reducing the nitrile (see under E) also succeeded with this material.
-The mp was 170-172 deg C. Anal. (C13H22ClNO3) C,H,N.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[pe-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-j-entity-pihkal]]
+- [[5-toet-entity-pihkal]]

@@ -1,8 +1,8 @@
 ---
-title: Cannabis for Multiple Sclerosis Spasticity
+title: Blesching Cannabis Multiple Sclerosis
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-chronic-pain-management blesching-cannabis-neurodegenerative-diseases"
 type: concept
 tags: [cannabis]
@@ -12,7 +12,7 @@ tags: [cannabis]
 
 ## Overview of Multiple Sclerosis
 
-Orthodox medicine considers multiple sclerosis (MS) a chronic, inflammatory, and degenerative neurological illness with no cure and no exact cause. In fact, MS is one of the most common neurological diseases. The meaning of the term "multiple sclerosis" provides a clue about the general picture. It derives from the Latin words multi and plus, which together translate into "manifold," and the Greek word sclerosis which translates as "hardness." Place the words together and we get "many folded hardness." Apply "manifold hardness" to the brain and spinal cord and we have a description of MS.
+Orthodox medicine considers multiple sclerosis (MS) a chronic, inflammatory, and degenerative neurological illness with no cure and no exact cause. In fact, MS is one of the most common [[cannabis-neuroprotection-mechanisms-neurological-diseases]]. The meaning of the term "multiple sclerosis" provides a clue about the general picture. It derives from the Latin words multi and plus, which together translate into "manifold," and the Greek word sclerosis which translates as "hardness." Place the words together and we get "many folded hardness." Apply "manifold hardness" to the brain and spinal cord and we have a description of MS.
 
 Multiple sclerosis is characterized by the breakdown of some of the thin sheets that cover the brain and spinal cord. These fat-based myelin sheets normally provide insulation and protection, but when lesions occur, nerve impulses misfire across the broken insulation, causing a variety of debilitating symptoms.
 
@@ -25,17 +25,17 @@ Common symptoms include:
 - Muscular spasms affecting the eyes, bladder, and bowels
 - Numbness and increased weakness
 - Ataxia and slurred speech
-- Acute and chronic pain
+- Acute and [[cannabis-chronic-pain-management]]
 
 ## Evidence Base: CHI Value 91 (26 Studies Reviewed)
 
-The 26 studies on MS represent one of the largest bodies of evidence for any single condition in the Cannabis Health Index.
+The 26 studies on MS represent one of the largest bodies of evidence for any single condition in the [[blesching-cannabis-health-index-autoimmune-conditions]].
 
 ## Cannabis and MS
 
 The earliest study listed in the National Library of Health took place in 1981 when researchers found motivation in anecdotal accounts of MS patients who reported that inhaling cannabis gave relief from spasticity. This, combined with the scientific discovery that THC is able to inhibit spasms in animal studies, opened the door to a multitude of scientific inquiries.
 
-While initial studies merely focused on observing the effect of cannabis on the most common symptoms of MS, later studies worked to discover the mechanisms underlying the observed therapeutic effects. The scientific community began to build on the data accumulated. The therapeutic frame of cannabis in the context of MS became more clear and defined.
+While initial studies merely focused on observing the effect of cannabis on the most common symptoms of MS, later studies worked to discover the mechanisms underlying the observed [[cbd-therapeutic-effects]]. The scientific community began to build on the data accumulated. The therapeutic frame of cannabis in the context of MS became more clear and defined.
 
 ### Key Therapeutic Benefits
 
@@ -87,20 +87,3 @@ In some trials, THC:CBD spray significantly reduced neuropathic pain, spasticity
 50 patients with MS and 20 control subjects were studied. Significantly reduced levels of all tested endocannabinoids were found in the cerebrospinal fluid of patients with MS compared to control subjects, suggesting endocannabinoid deficiency in MS.
 
 ### Anandamide and 2-AG Study -- Rome, Italy (2007)
-
-26 patients with MS and 25 healthy controls were studied. Targeting the endocannabinoid system might be useful for the treatment of MS.
-
-## Safety and Dosing
-
-Most clinical studies report [[blesching-cannabis-safety-adverse-effects-evidence]] of cannabis use in addition to benefits dependent on dose and form. Adverse effects include reduced balance and posture, nausea, and dizziness; and at high dosages, negative psychological symptoms such as anxiety. These studies indicated that when used within the proper [[cannabis-subjective-therapeutic-window-dosing]] dose, cannabinoids' potential adverse effects are usually well tolerated and negligible, especially when compared to the beneficial effects.
-
-To determine the best possible [[blesching-cannabis-therapeutic-window-dosing]], seek advice from peers with MS who have used cannabis themselves, and consult a licensed health care professional familiar with cannabinoids.
-
-## Strain-Specific Considerations
-
-Both sativa and indica strains contain cannabinoids that activate CB1 and CB2. However, sativas or sativa-heavy strains tend to produce higher THC:CBD ratios than indica strains. The THC:CBD combination in Sativex has shown particular efficacy for MS symptoms through simultaneous CB1 and CB2 activation.
-
-## See Also
-- [[cannabis-health-strains-sativa-indica]]
-- [[blesching-cannabis-therapeutic-window-methodology]]
-- [[blesching-cannabis-dopamine-endocannabinoid-system]]

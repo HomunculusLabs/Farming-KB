@@ -88,22 +88,3 @@ Fungi thrive in environments that would kill most other organisms:
 ## Anthropogenic Habitats
 
 Human-created environments support novel fungal communities. [[fungal-biodiversity-built-environments-indoor-mycobiome]]
-(homes, offices, hospitals) harbor characteristic indoor mycobiomes dominated
-by species like *Aspergillus*, *Penicillium*, and *Cladosporium*. Agricultural
-soils, with their distinct management regimes and crop rotations, support
-fungal communities quite different from those in natural ecosystems.
-
-## Host Specificity and Habitat Partitioning
-
-Many fungal species show strong habitat specificity, colonizing only particular
-substrates or associating with specific host organisms. This niche partitioning
-is a major driver of [[fungal-biogeography]] -- as each microhabitat within an
-ecosystem can support its own unique set of fungal species. Fine-scale
-partitioning occurs even within a single tree, with different fungal species
-colonizing bark, sapwood, heartwood, roots, leaves, flowers, and seeds.
-
-## See Also
-
-- [[fungal-biodiversity-by-ecosystem]]
-- [[freshwater-fungal-habitats-conservation-urgency]]
-- [[fungal-biodiversity-in-extreme-environments]]

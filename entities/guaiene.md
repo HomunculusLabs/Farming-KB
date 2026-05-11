@@ -49,9 +49,9 @@ The boiling point ranges from 260–270°C at atmospheric pressure, and the refr
 
 It also occurs in guaiacwood (*Bulnesia sarmientoi*), cypress, galbanum, and several *Cymbopogon* species.
 
-β-Guaiene is present in hops (*Humulus lupulus*), black pepper (*Piper nigrum*), and ginger (*Zingiber officinale*).
+β-Guaiene is present in hops (*[[humulus-lupulus]]*), black pepper (*Piper nigrum*), and ginger (*[[zingiber-officinale]]*).
 
-In [[cervantes-cannabis-flower-anatomy]] resin, guaiene typically comprises 0.1–0.5% of the total terpene profile depending on cultivar.
+In [[cervantes-cannabis-flower-anatomy]] resin, guaiene typically comprises 0.1–0.5% of the total [[cannabis-terpene-profile]] depending on cultivar.
 
 The biosynthesis of guaiene proceeds via the mevalonate pathway from farnesyl pyrophosphate (FPP).
 
@@ -65,13 +65,13 @@ Guaienes exhibit several biological activities of pharmacological interest, thou
 
 Animal studies suggest the compound reduces inflammatory cytokine production, including TNF-α and interleukin-6.
 
-These effects may contribute to the therapeutic properties of guaiene-rich essential oils in traditional medicine.
+These effects may contribute to the [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of guaiene-rich essential oils in traditional medicine.
 
 ### Antimicrobial Properties
 
 Guaiene-rich essential oil fractions show moderate antibacterial activity against Gram-positive organisms.
 
-Activity against *Staphylococcus aureus* and *Bacillus subtilis* has been documented at concentrations of 100–500 µg/mL.
+Activity against *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]* has been documented at concentrations of 100–500 µg/mL.
 
 Antifungal effects against *Candida* species have also been observed in disc diffusion assays.
 
@@ -88,29 +88,3 @@ The compound shows low acute toxicity with an estimated LD₅₀ > 5,000 mg/kg i
 In cannabis chemovars, guaiene is classified as a minor sesquiterpene that contributes to the overall aroma profile.
 
 Its woody, earthy, and slightly sweet notes complement the more dominant monoterpene aromas of myrcene and limonene.
-
-Some research suggests guaiene may modulate the pharmacokinetics of cannabinoids through membrane permeation effects.
-
-Cannabis cultivars with elevated guaiene levels tend to have complex, "gassy" or "earthy" aromatic profiles.
-
-The compound may interact synergistically with CB₂ [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], though this interaction is not well characterized.
-
-## Industrial and Commercial Uses
-
-Guaiene is valued in the perfumery and fragrance industry as a base note in oriental and woody perfume compositions.
-
-It is commonly used as a fixative, helping to stabilize more volatile fragrance components and extend scent longevity.
-
-Patchouli oil, rich in guaiene, is one of the most widely used essential oils in cosmetics and personal care products.
-
-The compound has limited direct use in food flavoring but contributes to the flavor profiles of spice blends and herbal teas.
-
-Synthetic routes to guaiene have been developed for industrial production when natural sourcing is insufficient.
-
-## See Also
-
-- [[nerolidol]]
-- [[humulene]]
-- [[terpinolene]]
-- [[beta-caryophyllene]]
-- [[camphene]]

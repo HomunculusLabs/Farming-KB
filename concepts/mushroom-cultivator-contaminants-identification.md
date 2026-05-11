@@ -1,10 +1,11 @@
 ---
-title: cultivator-contaminants-of-mushroom-culture Culture in The Mushroom Cultivator
+title: Mushroom Cultivator Contaminants Identification
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Contaminants of Mushroom Culture in The Mushroom Cultivator
@@ -14,11 +15,11 @@ Updated: 2026-04-18
 
 ## Overview
 
-Chapter XIII of The Mushroom Cultivator provides the most comprehensive identification guide to mushroom culture contaminants available in any cultivation text. The chapter covers molds, bacteria, viruses, yeasts, and fungal diseases, with detailed descriptions, conditions favoring growth, and control measures for each. Over 30 specific contaminants are catalogued.
+Chapter XIII of The Mushroom Cultivator provides the most comprehensive [[mold-identification-guide]] to mushroom culture contaminants available in any cultivation text. The chapter covers molds, bacteria, viruses, yeasts, [[duggar-mushroom-insect-pests-and-fungal-diseases]], with detailed descriptions, conditions favoring growth, and control measures for each. Over 30 specific contaminants are catalogued.
 
 ## The Nature of Contamination
 
-Contaminants are named solely because they are undesired -- if one were trying to culture Penicillium and Agaricus spores settled on the media, the mushroom mycelium would be the "contaminant." In mushroom culture, contaminants are primarily molds, bacteria, viruses, and insects.
+Contaminants are named solely because they are undesired -- if one were trying to culture Penicillium and Agaricus spores settled on the media, the [[antimicrobial-compounds-mushroom-mycelium]] would be the "contaminant." In mushroom culture, contaminants are primarily molds, bacteria, viruses, and insects.
 
 **Key principle**: Contaminants become a problem when their populations spiral above tolerable levels. If contamination suddenly escalates without alteration of regimen, new control measures should be introduced immediately.
 
@@ -60,9 +61,9 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 
 ### Green Molds (Most Common and Damaging)
 
-- **Trichoderma (Forest Green Mold)**: The most common contaminant in mushroom culture. Rapidly colonizes substrates, casing soils, and compost. Green spore clouds easily spread. Thrives in stale air and on over-wet substrates. Control: improve air circulation, reduce moisture, maintain hygiene.
+- **Trichoderma ([[trichoderma-forest-green-mold-guide]])**: The most common contaminant in mushroom culture. Rapidly colonizes substrates, casing soils, and compost. Green spore clouds easily spread. Thrives in stale air and on over-wet substrates. Control: improve air circulation, reduce moisture, maintain hygiene.
 - **Penicillium (Bluish Green Mold)**: Extremely common airborne contaminant. Often appears along petri dish periphery or near transfer points. Control: HEPA filtration, careful [[cultivator-sterile-technique-and-agar-culture]].
-- **Aspergillus (Green Mold)**: Common on grain spawn and compost. Some species produce aflatoxins. Control: proper grain sterilization (full hour at 15 psi).
+- **Aspergillus (Green Mold)**: Common on grain spawn and compost. Some species produce aflatoxins. Control: proper [[grain-sterilization-methods]] (full hour at 15 psi).
 - **Cladosporium (Dark Green Mold)**: Common airborne contaminant in many environments.
 
 ### Pink Molds
@@ -87,35 +88,3 @@ Molds and bacteria do not grow well in a climate specifically adjusted for mushr
 ### Yeast Contaminants
 
 - **Cryptococcus (Cream Colored Yeast)**: Cream to pink colored colonies on agar media. Common but usually less damaging than molds.
-- **Torula (Black Yeast)**: Dark colored yeast colonies.
-
-### Pin Molds
-
-- **Mucor (Black Pin Mold)**: Rapidly produces tall sporangiophores with dark spore heads. Very common in moist environments.
-- **Rhizopus (Black Pin Mold)**: Similar to Mucor but with rhizoid anchors. Can spread extremely rapidly.
-
-### Parasitic Fungi
-
-- **Coprinus (Inky Cap)**: Competitor that grows on composted substrates. Its rapid lifecycle can disrupt the cropping cycle.
-- **Chaetomium (Olive Green Mold)**: Indicates insufficient composting temperatures. Often found on under-composted materials.
-
-### Viral Disease
-
-- **Virus (Die-Back Disease)**: Causes progressive decline in mushroom quality and yield over successive crops. No cure once established. Control: strict hygiene, new spawn cultures, complete facility disinfection between crops.
-
-## General Control Strategies
-
-1. **Prevention over cure** -- maintain strict hygiene at all stages
-2. **Rapid colonization** -- the faster mycelium dominates, the less opportunity for competitors
-3. **Proper [[eclss-environmental-control-life-support]]** -- avoid conditions that favor contaminants
-4. **Early identification** -- recognize and isolate contaminated cultures immediately
-5. **Complete removal** -- discard all contaminated materials; do not attempt to salvage partially contaminated cultures
-6. **Facility hygiene** -- regular cleaning and disinfection between crops
-
-## See Also
-
-- stamets-contamination-identification-and-control -- Stamets' complete contaminants chapter
-- mushroom-contamination-control-strategies -- identification key
-- [[mushroom-sterile-technique-detailed]] -- sterile technique methods
-- [[mushroom-cultivation-sterile-technique]]
-- [[environmental-control-mushroom-growing]]

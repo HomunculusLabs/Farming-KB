@@ -57,21 +57,21 @@ The fertile floret bears a long, twisted awn 20 to 40 millimeters arising from t
 
 Awns are geniculate, bent at a distinct knee, and dark brown to black at maturity.
 
-Seed dispersal depends on this awn, which responds to humidity changes to drive the spikelet into soil.
+[[clay-pellet-seed-dispersal]] depends on this awn, which responds to humidity changes to drive the spikelet into soil.
 
 ## Distribution and Habitat
 
 Wild oat is believed to have originated in the Fertile Crescent or western Asia, the same region where oat was domesticated.
 
-It has been spread globally through seed contamination of cultivated oat and other cereal crops.
+It has been spread globally through [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] of cultivated oat and other cereal crops.
 
 The species is now present on every continent except Antarctica and is a major weed problem in over 50 countries.
 
-It is particularly damaging in temperate regions of North America, Europe, Australia, and parts of Asia.
+It is particularly damaging in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] [[berry-growing]], Europe, Australia, and parts of Asia.
 
 Wild oat occurs primarily in cultivated fields, waste places, roadsides, and disturbed ground.
 
-It is strongly associated with cereal crop production and rarely persists in undisturbed natural habitats.
+It is strongly associated with cereal crop production and rarely persists in undisturbed [[mushroom-natural-habitats]].
 
 The species tolerates a wide range of soil types but prefers fertile, medium-textured soils with adequate moisture.
 
@@ -87,55 +87,4 @@ Crop yield losses attributable to wild oat competition range from 10 to 40 perce
 
 The species is most competitive in spring-seeded cereal crops where its emergence coincides with crop establishment.
 
-A single wild oat plant can produce 100 to 500 seeds under field conditions, with seed production increasing dramatically under favorable conditions.
-
-The persistent seed bank is a critical factor in the weed's success.
-
-Wild oat seeds exhibit primary dormancy at maturity and enter a secondary dormancy cycle that allows staggered germination over multiple growing seasons.
-
-Seed bank persistence has been documented at five to ten years under field conditions, making eradication extremely difficult.
-
-Herbicide resistance in wild oat populations has been reported to multiple modes of action including ACCase inhibitors, ALS inhibitors, and synthetic auxins.
-
-As of the 2020s, herbicide-resistant wild oat occurs in at least 15 countries, with Group 1 and Group 2 resistance being the most widespread.
-
-Integrated weed management strategies combine cultural, mechanical, and chemical control methods.
-
-Crop rotation with non-cereal crops reduces wild oat populations by disrupting the species' preferred niche.
-
-Delayed planting, increased seeding rates, and competitive crop cultivars suppress wild oat establishment.
-
-Selective herbicides including difenzoquat, clodinafop, and pinoxaden remain effective where resistance has not developed.
-
-Seed capture at harvest using chaff collection or weed seed destructors is an emerging technique showing promise for reducing seed bank inputs.
-
-## Ecology
-
-Wild oat exhibits several life-history traits that contribute to its success as an agricultural weed.
-
-The species is a classic spring-germinating annual with a facultative winter annual component in mild climates.
-
-Germination is stimulated by fluctuating temperatures, light exposure, and soil disturbance, all of which are common in cultivated fields.
-
-The hygroscopic awn of the dispersal unit responds to diurnal humidity cycles, alternately twisting and untwisting to propel the spikelet along the soil surface.
-
-This mechanism helps bury seeds to an optimal depth for germination and protects them from predation and desiccation.
-
-Wild oat seeds are consumed by a range of granivorous birds and rodents, though the awned dispersal unit provides some protection against complete predation.
-
-The species supports limited invertebrate herbivory, with leaf-feeding insects and grasshoppers occasionally utilizing the foliage.
-
-In naturalized populations outside agricultural settings, wild oat can colonize open disturbed ground but is rapidly outcompeted by perennial grasses in stable communities.
-
-Its dependence on anthropogenic disturbance for population maintenance classifies it as a agrestal rather than ruderal weed.
-
-## See Also
-
-- [[avena-sativa]]
-- [[bromus-inermis]]
-- [[elymus-canadensis]]
-- [[hordeum-jubatum]]
-- [[festuca-rubra]]
-- [[dactylis-glomerata]]
-- [[phleum-pratense]]
-- [[arrhenatherum-elatius]]
+A single wild oat plant can produce 100 to 500 seeds under field conditions, with [[cannabis-controlled-pollination-seed-production]] increasing dramatically under favorable conditions.

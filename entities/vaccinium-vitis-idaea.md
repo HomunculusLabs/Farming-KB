@@ -88,33 +88,3 @@ In Russian folk medicine, lingonberry leaf infusions are used as a diuretic and 
 Commercial lingonberry products have expanded beyond traditional markets, with lingonberry powder, concentrates, and dietary supplements now available internationally. The growing demand for berry-derived nutraceuticals has increased wild harvesting pressure.
 
 ## Cultivation
-
-Commercial cultivation of lingonberry has expanded significantly since the 1990s, particularly in Scandinavia and the Pacific Northwest of North America. Several named cultivars have been selected for berry size and yield.
-
-Propagation is primarily by division of established clones or softwood cuttings. Seed propagation is possible but slow, requiring 2 to 4 weeks of cold stratification for germination.
-
-Plants require acidic soils (pH 4.0 to 5.5) with high organic matter content. Raised beds amended with peat moss or pine needles are commonly used in commercial plantings.
-
-Yields in cultivated settings range from 0.5 to 2.0 kg per square meter, depending on cultivar and growing conditions. Harvesting is typically done by hand or with mechanical berry pickers.
-
-Lingonberry is relatively pest-free compared to other Vaccinium species. The primary disease concern is phytophthora root rot in poorly drained soils.
-
-## Related Species
-
-Vaccinium macrocarpon (American cranberry) is the closest commercially significant relative, sharing similar fruit chemistry and ecological preferences. It differs in its larger berries and creeping vine-like habit.
-
-Vaccinium oxycoccos (small cranberry) occupies similar bog habitats and has a more restricted northern distribution. It is a smaller plant with smaller, less commercially important berries.
-
-Vaccinium myrtillus (bilberry) shares the circumboreal range but occupies slightly different forest understory niches. It has softer, more delicate berries with distinct anthocyanin profiles.
-
-Vaccinium angustifolium (lowbush blueberry) is a co-occurring species in many North American boreal habitats. It prefers slightly less acidic conditions and flowers earlier in the growing season.
-
-Arctostaphylos uva-ursi (bearberry) is a morphologically similar evergreen groundcover in the same Ericaceae family. It produces smaller, dryish fruits and shares arbutin as a major phytochemical constituent.
-
-## See Also
-
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-myrtillus]]
-- arctostaphylos-uva-ursi
-- [[ribes-nigrum]]
-- [[sambucus-nigra]]

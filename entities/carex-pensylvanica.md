@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America Editorial Committee (2002). Flora of North America North of Mexico, Vol. 23: Magnoliophyta: Commelinidae. Oxford University Press.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (2002). Flora of North America North of Mexico, Vol. 23: Magnoliophyta: Commelinidae. Oxford University Press.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
   - Chadde, S.W. (2002). A Great Lakes Wetland Flora. PocketFlora Press.
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
@@ -26,7 +26,7 @@ It forms dense, grass-like mats that serve as an excellent shade-tolerant ground
 
 The species is one of the most common sedges in the oak-hickory forests of the midwestern and eastern United States.
 
-Its fine-textured foliage and drought tolerance make it increasingly popular in sustainable landscaping and native plant gardens.
+Its fine-textured foliage and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it increasingly popular in sustainable landscaping and native plant gardens.
 
 ## Taxonomy and Morphology
 
@@ -68,7 +68,7 @@ Elevation range extends from near sea level to approximately 1,500 meters in the
 
 ## Ecological Role
 
-Carex pensylvanica is an important component of forest floor communities, contributing to soil stabilization and nutrient cycling.
+Carex pensylvanica is an important component of forest floor communities, contributing to soil stabilization [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 The dense mat of foliage provides cover and foraging habitat for ground-nesting birds, small mammals, and insects.
 
@@ -80,45 +80,10 @@ C. pensylvanica responds positively to prescribed fire in oak woodland ecosystem
 
 It plays a role in competitive suppression of invasive species in forest understories, particularly when established in dense colonies.
 
-The species contributes to the duff layer in forest ecosystems, providing organic matter that supports fungal and microbial communities.
+The species contributes to the duff layer in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], providing [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] that supports fungal and [[cannabis-rhizosphere-microbial-communities]].
 
 ## Cultivation and Uses
 
 Carex pensylvanica is widely cultivated as a shade-tolerant lawn alternative and groundcover in residential and commercial landscapes.
 
 It requires minimal maintenance once established, needing only occasional trimming in early spring to remove previous year's growth.
-
-The species tolerates drought, deer browsing, and competition from tree roots, making it suitable for difficult landscape sites.
-
-It is increasingly used in green infrastructure projects including bioswales, rain gardens, and erosion control plantings.
-
-Propagation is primarily by division of established clumps in spring or fall, or by direct seeding of cleaned seed.
-
-Plants establish slowly from seed but spread steadily via rhizomes to fill in gaps within 2 to 3 years.
-
-C. pensylvanica is recommended as a lawn replacement under shade trees where traditional turf grasses fail to thrive.
-
-The species has no significant pest or disease problems in cultivation.
-
-## Notable Characteristics
-
-Carex pensylvanica is one of the most drought-tolerant Carex species in eastern North American forests.
-
-The fine-textured foliage creates a soft, flowing appearance in mass plantings that contrasts well with broader-leaved woodland plants.
-
-It is semi-evergreen in the southern part of its range, retaining green foliage through mild winters.
-
-The species is highly competitive in its native habitat but does not exhibit invasive behavior outside its natural range.
-
-It serves as an indicator species for healthy, undisturbed oak-hickory forest ecosystems.
-
-## See Also
-
-- [[carex-stricta]]
-- [[cyperus-papyrus]]
-- [[juncus-effusus]]
-- [[phragmites-australis]]
-- [[typha-latifolia]]
-- [[schoenoplectus-lacustris]]
-- [[juncus-bufonius]]
-- [[eleocharis-palustris]]

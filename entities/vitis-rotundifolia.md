@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern United States. It is one of the most culturally and economically important native [[growing-gourmet-north-american-reishi-species]] fruit species.
+**Vitis rotundifolia** Michx., commonly known as the muscadine grape, bullace grape, or Southern fox grape, is a deciduous woody vine native to the southeastern [[dmt-containing-plants-united-states-halpern]]. It is one of the most culturally and economically important native [[growing-gourmet-north-american-reishi-species]] fruit species.
 
 Muscadines are distinguished from other grape species by their thick skins, loose berry clusters, unique floral morphology, and exceptional disease resistance. They thrive in the hot, humid conditions of the American South where other grape species struggle.
 
@@ -51,13 +51,13 @@ The natural range corresponds closely to the coastal plain and piedmont physiogr
 
 Muscadines grow in a variety of habitats including hardwood forests, pine flatwoods, swamp margins, and disturbed sites. They are particularly abundant in ecotonal areas between forest and open land.
 
-Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most uncommon specialty fruit crops for permaculture, making it suitable for marginal [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] in the Southeast.
+Soil preferences are broad, but the species performs best on well-drained sandy loams with pH 5.5–6.5. It tolerates acidic soils that would limit growth of most [[uncommon-specialty-fruit-crops-for-permaculture]] crops for permaculture, making it suitable for marginal [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] in the Southeast.
 
 The species tolerates the high humidity, warm nights, and heavy summer rainfall characteristic of the southeastern climate. These same conditions promote devastating [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] in V. vinifera, giving muscadines a decisive ecological and agricultural advantage in the region.
 
 ## Cultivation
 
-Commercial muscadine production is concentrated in the southeastern United States, with Georgia, North Carolina, South Carolina, Mississippi, and Alabama as leading producers. Total annual production exceeds 4,500 metric tons of fresh fruit, with additional tonnage processed into juice and wine.
+Commercial muscadine production is concentrated in the southeastern United States, with Georgia, [[north-carolina-mycodiversity]], South Carolina, Mississippi, and Alabama as leading producers. Total annual production exceeds 4,500 metric tons of fresh fruit, with additional tonnage processed into juice and wine.
 
 Vines are typically established on 3–6 meter spacing with a single-wire or double-curtain trellis system. The species does not require grafting on phylloxera-resistant rootstocks due to its innate resistance to the pest.
 
@@ -73,7 +73,7 @@ Irrigation requirements are lower than for most fruit crops due to the deep, ext
 
 ## Nutritional Value and Uses
 
-Muscadine berries are notably rich in phenolic compounds, particularly ellagic acid, ellagitannins, and resveratrol. Ellagic acid content in muscadine skins (approximately 40–50 mg/100 g fresh weight) exceeds that of most other common fruits by a significant margin.
+Muscadine berries are notably rich in [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly ellagic acid, ellagitannins, and resveratrol. Ellagic acid content in muscadine skins (approximately 40–50 mg/100 g fresh weight) exceeds that of most other common fruits by a significant margin.
 
 Resveratrol levels in muscadine are among the highest of any fruit, reaching 5–10 mg/L in wine and 0.5–2.0 mg/100 g in fresh berries. These compounds have been investigated for anti-inflammatory, cardioprotective, and anticancer activities in numerous preclinical studies.
 
@@ -83,28 +83,8 @@ Muscadine wine has a distinctive aromatic profile with floral, musky, and tropic
 
 Color stability in muscadine wine is excellent due to high anthocyanin and polyphenol content. Bronze cultivars produce white or blush wines, while black cultivars yield deep red-purple wines with aging potential of 2–5 years.
 
-Muscadine pomace, the skins and seeds remaining after juice extraction, is increasingly utilized as a nutraceutical ingredient. Seed extracts standardized for resveratrol and proanthocyanidins are marketed as dietary supplements.
+Muscadine pomace, the skins and seeds remaining after juice extraction, is increasingly utilized as a nutraceutical ingredient. Seed extracts standardized for resveratrol and proanthocyanidins are marketed as [[medicinal-mushroom-dietary-supplements]].
 
 ## Viticulture and Breeding
 
 Modern muscadine breeding programs operate at the University of Georgia, North Carolina State University, and the USDA-ARS facility in Poplarville, Mississippi. Breeding objectives emphasize self-fertility, large berry size, thin skin, high sugar content, and extended harvest season.
-
-Hybridization between V. rotundifolia and Euvitis species is extremely difficult due to the chromosome difference (2n = 40 vs. 2n = 38). The resulting triploid or aneuploid progeny are generally sterile, which has prevented incorporation of muscadine disease resistance into bunch grape cultivars.
-
-Despite the breeding barrier, V. rotundifolia germplasm represents an irreplaceable resource for heat and disease tolerance. Research into bridge crosses and molecular techniques continues to explore pathways for introgressing muscadine traits into standard wine grape germplasm.
-
-The species is increasingly recognized for its potential in sustainable and low-input fruit production systems. Its minimal pesticide requirements and adaptation to marginal sites make it attractive for organic production in the humid Southeast.
-
-## See Also
-
-- [[vitis-labrusca]]
-- [[botrytis-cinerea]]
-- [[ceratocystis-fimbriata]]
-- [[citrus-sinensis]]
-- [[persea-americana]]
-- punica-granatum
-- [[morus-nigra]]
-- [[camellia-sinensis-entity]]
-- [[castanea-sativa]]
-- [[prunus-dulcis]]
-- [[ananas-comosus]]

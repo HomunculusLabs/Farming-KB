@@ -1,8 +1,8 @@
 ---
-title: Stachybotrys chartarum and bloomfield-fungal-allergens-indoor-mold-respiratory-health-lycoperdonosis Toxicity
+title: Bloomfield Stachybotrys Indoor Mold Trichothecenes Air Quality
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - indoor-mold
   - toxicology
   - trichothecenes
@@ -46,7 +46,7 @@ originally been classified as sudden infant death syndrome (SIDS).
 
 Stachybotrys is not the only black mold found in homes. Species of
 Cladosporium, Penicillium, Aspergillus, and Alternaria, all possessing
-melanin-impregnated cell walls, are far more prevalent in
+melanin-impregnated [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], are far more prevalent in
 water-damaged buildings, although none of these genera produce the same
 potent trichothecene toxins. Even when Stachybotrys chartarum is
 identified in a home, this does not signify imminent doom, because only
@@ -85,60 +85,6 @@ irritation, with a proposed limit of 200 spores per cubic meter for
 office buildings. In mold-damaged homes, spore counts can number in the
 thousands per cubic meter.
 
-The issue is complicated by weaknesses in sampling methods. Culture
+The issue is complicated by weaknesses in [[biodiversity-of-fungi-macrofungi-sampling-methods]]. Culture
 plates detect only intact, viable spores, potentially underrating total
 fungal particulates by a factor of 100. Dead fragments of broken hyphae
-can be just as allergenic as complete spores, and these are not captured
-by culture-based methods.
-
-## Macrocyclic Trichothecenes
-
-Trichothecenes are mycotoxins produced by Stachybotrys and certain
-other fungi (including Fusarium species). The macrocyclic trichothecenes
-from Stachybotrys are potent inhibitors of protein synthesis. They
-cause burning and blistering of the skin on contact. Inhalation produces
-coughing, breathing difficulties, and a burning sensation in the lungs.
-Contact with eyes causes tearing and blurred vision. Ingestion results
-in nausea, repeated vomiting, and bloody diarrhea.
-
-A few milligrams of the most potent [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]],
-including T-2 toxin and diacetoxyscirpenol, are lethal. At lower doses,
-patients become anemic and platelets become scarce within days, with
-plunging white blood cell counts indicating immune system collapse.
-There are no specific antidotes for trichothecene poisoning. Soap and
-water can remove mycotoxins from skin, but only if applied immediately
-after exposure.
-
-## Trichothecenes as Biological Weapons
-
-Trichothecenes represent a credible biological warfare threat because
-they act immediately upon contact, unlike most other fungal toxins whose
-effects develop too slowly for military use. Delivery could involve
-aircraft carrying tanks of purified toxins. The effects of aflatoxin
-ingestion take months or years to manifest, making them unsuitable as
-battlefield weapons, but trichothecene aerosols would have immediate,
-devastating effects.
-
-Reputable investigators have argued that trichothecenes were used by the
-Soviet Union against anticommunist guerrillas in Laos and Cambodia in
-the 1970s and during the invasion of Afghanistan in the 1980s. The
-purified toxin forms yellow crystalline deposits, which may account for
-the name "yellow rain" given to the putative weapon. However, some
-investigations concluded that yellow deposits were actually from swarms
-of defecating bees, a conclusion that skeptics find implausible.
-
-Declassified U.S. Department of Defense documents confirm that Iraqi
-scientists worked with mycotoxins in the 1980s, establishing their
-capacity for stockpiling. The techniques for producing and storing
-mycotoxins are well within the capabilities of anyone with a Ph.D. in
-microbiology, appropriate strains, and a modern laboratory. Mycotoxin
-production is incomparably simpler than developing nuclear munitions.
-
-## Gulf War Syndrome Connection
-## See Also
-
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[bloomfield-rice-blast-magnaporthe-appressorium-plant-invasion]]
-
-- [[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] for deeper weapons analysis
-- [[bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids]] for indoor fungal health risks

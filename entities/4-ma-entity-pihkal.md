@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-MA
 
-PIHKAL entry #97. PMA; 4-METHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #97. PMA; 4-METHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -36,7 +36,7 @@ PMA; 4-METHOXYAMPHETAMINE
 
 ## Extensions and Commentary
 
-This is another of the and natural precursors, because of the appearance of the 4-methoxy group in two
+This is another of the [[essential-amphetamines-and-natural-precursors]], because of the appearance of the 4-methoxy group in two
 most important [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. These are the allylbenzene (estragole
 or esdragol) and the propenyl isomer (anethole). Their natural
 sources have been discussed under TMA.
@@ -87,54 +87,3 @@ milligrams, separated by three hours). There appears to be no report
 of any human trial of 2-MA. The N-methyl homologue of 2-MA is a
 
 (Additional commentary available in source.)
-
-## Synthesis
-
-A solution of 27.2 g anisaldehyde and 18.0 g nitroethane in
-300 mL benzene was treated with 2.0 mL cyclohexane and refluxed using
-a Dean Stark trap until H2O ceased to accumulate. A total of 3.8 mL
-was generated over about 5 days. After the removal of the solvent
-under vacuum, the viscous red oily residue was cooled and it
-spontaneously crystallized. This was ground under an equal volume of
-MeOH, producing lemon-yellow crystals of
-1-(4-methoxyphenyl)-2-nitropropene. The final yield was 27.4 g of
-product with a mp of 45-46 deg C. Recrystallization from 4 volumes MeOH
-did not improve the mp. An excellent alternate synthesis with a
-comparable yield involved letting a solution of equimolar amounts of
-the aldehyde and nitro-ethane and a tenth mole of n-amylamine stand in
-the dark at room temperature for a couple of weeks. The product
-spontaneously crystal-lized, and could be recrystallized from MeOH.
-The more conventional synthesis involving acetic acid as a solvent and
-ammonium acetate as a catalyst, produced a poor yield of the
-nitrostyrene and it was difficult to separate from the white diacetate
-of the starting anisaldehyde, mp 59-60 deg C.
-
-A suspension of 32 g LAH in 1 L anhydrous Et2O was well stirred and
-32.6 g 1-(4-methoxyphenyl)-2-nitropropene in Et2O was added at a rate
-that maintained a reflux. After the addition was complete, reflux was
-continued for 48 h. The reaction mixture was cooled, and the excess
-hydride was destroyed by the cautious addition of dilute H2SO4. The
-Et2O was separated, and extracted with additional aqueous H2SO4. A
-solution of 700 g potassium sodium tartrate in 600 mL H2O was added,
-and the pH brought to >9 with 25% NaOH. This aqueous phase was
-extracted with 3x200 mL CH2Cl2 which provided, after removal of the
-solvent, 32.5 g of a clear amber oil. This was dissolved in 100 mL
-IPA, neutralized with concentrated HCl, and then diluted with 300 mL
-anhydrous Et2O. There was obtained white crystals of
-4-methoxyamphetamine hydrochloride (4-MA) that weighed, after
-filtering, Et2O washing and air drying, 22.2 g and had a mp of 208-209
-deg C. The amphetamine metabolite, 4-hydroxyamphetamine hydrochloride
-(4-HA), was prepared by heating 5.0 g 4-MA in 20 mL concentrated HCl
-at 15 lbs/in. After recrystal-lization from aqueous EtOH, the product
-weighed 3.8 g and had a mp of 171-172 deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2-4-dma-entity-pihkal]]
-- [[2c-g-4-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
-- [[tma-5-entity-pihkal]]

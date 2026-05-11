@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -30,7 +31,7 @@ cycles of nature.
 
 ## The Unstudied Interactions
 
-Into this living soil, farmers throw powerful chemical fertilizers. Fukuoka points
+Into this living soil, farmers throw powerful [[cannabis-chemical-fertilizers]]. Fukuoka points
 out that it would take years of research to determine how fertilizer components
 combine and react with air, water, and many other substances in nonliving mineral
 matter, what changes they undergo, and what relationships should be maintained
@@ -38,7 +39,7 @@ between these components and the various microorganisms in order to guard a
 harmonious balance.
 
 Very little, if any, research has been done on the relationship between fertilizers
-and soil microbes. At agricultural research stations, scientists place soil in pots
+and soil microbes. At [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] stations, scientists place soil in pots
 and run tests, but most of the soil microbes in these pots die off. Results obtained
 from tests conducted under fixed conditions and within a limited experimental
 framework cannot be applied to situations under natural conditions.
@@ -50,10 +51,10 @@ super-phosphate, and potassium sulfate — is concentrated sulfuric acid. Each y
 some 1.8 million tons of sulfuric acid are dumped onto the farmlands of Japan in
 the form of fertilizer. This acidic fertilizer suppresses and kills soil
 microorganisms, disrupting and damaging the soil in a way that may one day spell
-disaster for Japanese agriculture.
+disaster for [[fukuoka-breakdown-japanese-agriculture]].
 
 The soil damage is both direct and indirect. Acidification changes the solubility
-of trace elements, creating cascading deficiencies throughout the soil food web.
+of [[teaming-with-nutrients-micronutrients-and-trace-elements]], creating cascading deficiencies throughout the soil food web.
 
 ## Trace Element Deficiency Cascade
 
@@ -87,48 +88,3 @@ what Fukuoka calls an unspeakable injury and injustice to countless farmers.
 Similarly, roughly thirty percent of the nitrogenous component of ammonium sulfate
 applied to paddy fields is denitrified by microorganisms and escapes into the
 atmosphere. Such discoveries, emerging decades after widespread adoption, reveal
-the fundamental inadequacy of the scientific approach to soil fertility.
-
-## Fertilizer Weakens Crops
-
-The evils of fertilizer extend beyond soil damage to the crops themselves:
-1. Fertilizers speed up growth temporarily but inevitably weaken crops — similar to
-   the rapid acceleration of plant growth by hormones
-2. Plants weakened by fertilizers have lowered resistance to diseases and pests
-3. Fertilizer effectiveness in the field is far lower than in laboratory
-   experiments
-4. Trace component deficiencies develop as a direct consequence of relying on a
-   small number of nutrients
-
-## The Living Soil Self-Regulates
-
-In contrast to the chaos introduced by fertilizers, natural soil maintains its own
-balance. In the mountain forests, concerns over the physical and chemical
-compositions of the topsoil and deeper strata are nonexistent. Without the least
-help from man, nature creates soil conditions sufficient to support dense stands of
-towering trees.
-
-The grasses and trees, earthworms and moles act as plow horses and oxen,
-completely rearranging and renewing the soil. Microorganisms proliferate, die, and
-are replaced by others, increasing humus and softening the soil. No amount of
-research can teach man everything there is to know about the soil, and he will
-certainly never create soils more perfect than those of nature.
-
-## Soil Acidity and Lime Correction
-
-When scientists try to correct soil acidity by applying lime, they trigger a new
-round of problems. If the soil becomes alkaline, this leads again to manganese and
-[[query-how-to-fix-zinc-deficiency-in-cannabis]]. There is far more to soil quality than its acidity — an
-infinitude of physical, chemical, and biological factors go into the overall
-assessment. Nor can one justifiably call a soil healthy or diseased, as there are
-no criteria by which to judge whether a handful of soil contains the right number
-of microbes, the right amount of [[hamilton-composting-and-organic-matter-management]], and the right percentage of water
-and air.
-
-## See Also
-
-- [[fukuoka-soil-microbe-fertilizer-complexity]]
-
-- [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
-- [[fukuoka-textdoc-liebig-law-minimum-critique]]
-- [[fukuoka-textdoc-natural-order-microbial-ecology]]

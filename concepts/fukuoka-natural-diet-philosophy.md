@@ -1,6 +1,6 @@
 ---
 title: Fukuoka's Natural Diet and the Philosophy of Food
-source: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+source: administrator-microsoft-word-fukuoka-textdoc.md
 tags: [agriculture, natural-farming, food-philosophy, nutrition, ecology]
 created: 2026-05-09
 ---
@@ -88,33 +88,3 @@ Fukuoka's food philosophy suggests several practical principles:
 
 - Eat foods as close to their natural state as possible
 - Prefer locally grown, naturally farmed produce over imported or processed alternatives
-- Reduce or eliminate reliance on vitamin supplements and fortified foods
-- Cook simply, without excessive oil, salt, or seasoning
-- Approach meals with gratitude and awareness of the natural processes involved
-
-This gratitude was not merely a sentiment but a practical orientation: when one understands the immense complexity of natural processes that produce a single grain of rice—from soil microorganisms to rainfall patterns to the metabolic work of the rice plant itself—eating becomes an act of communion rather than consumption. Fukuoka believed this shift in consciousness was itself a form of spiritual practice, accessible to anyone who returned to eating naturally produced food.
-
-- Grow food when possible, even on a small scale, to maintain connection with the source
-
-Fukuoka's own household ate simply: brown rice, vegetables from the garden, miso soup, and pickled vegetables. He believed that this diet, combined with outdoor physical labor, was sufficient for robust health. Young people who came to live and work on his farm often reported dramatic improvements in their well-being, which he attributed not to any special property of the food itself but to the restoration of the natural relationship between human beings and what they eat.
-
-## The Illusion of Nutritional Science
-
-Fukuoka was scathing in his critique of nutritional science's reductionism. Scientists who break food down into its component nutrients and then declare certain elements "essential" while discarding others are, in his view, repeating the fundamental error of all scientific agriculture: they believe they can understand and improve upon nature by analyzing its parts.
-
-This approach leads to absurd outcomes: white rice is polished to remove the bran (considered "waste"), then vitamin B1 is synthesized industrially and added back to compensate for the deficiency the polishing created. The supplement industry profits from a problem that processing created in the first place. The entire enterprise rests on the false premise that a nutrient isolated from its food matrix functions identically to that same nutrient within the whole food.
-
-Modern nutritional science has identified thousands of phytochemicals, antioxidants, and trace compounds in whole foods whose functions are not fully understood. Fukuoka would argue this confirms his point: nature's complexity exceeds human analytical capacity, and the wisest course is to eat whole foods rather than attempt to reconstruct their benefits from isolated components.
-
-## Connection to Natural Farming
-
-The food philosophy is inseparable from [[fukuoka-natural-farming-five-principles]]. Farming that respects nature produces food that nourishes naturally; farming based on human intellect produces food that requires further human intervention—processing, fortification, supplementation—to sustain human health. The same principle of wholeness applies at every level: healthy soil produces healthy plants, which produce healthy food, which sustains healthy people.
-
-Fukuoka's food philosophy, like his [[fukuoka-do-nothing-farming-philosophy-and-practice]], ultimately rests on an epistemological claim: that human knowledge is inherently limited and fragmentary, while nature embodies a wholeness that cannot be grasped by the analytical mind. The practical consequence is that the most beneficial course of action is often non-action—allowing natural processes to function without interference, whether in growing food or in choosing what to eat.
-
-## See Also
-
-- [[fukuoka-natural-farming-five-principles]] — Core farming philosophy
-- [[fukuoka-clay-pellet-revegetation]] — Ecological restoration methods
-- [[psychedelic-shamanism-as-death-practice]] — Indigenous approaches to plant-human relationships
-- [[psilocybin-psilocin-chemistry]] — Chemistry of psychoactive mushrooms in traditional diets

@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-cultivation]] Contaminant Identification
+title: Mushroom Cultivation Contaminant Identification
 created: 2026-05-09
 tags: [mycology, cultivation, contamination, sterilization, pathology]
 date: 2026-05-09
@@ -88,62 +88,3 @@ Contaminants enter the cultivation process from several vectors:
   favorable for cobweb mold in the [[fruiting-chamber]]
 - **Prevention:** Maintain proper FAE (fresh air exchange), avoid excessive humidity
   condensation on mushroom surfaces
-- **Action:** Can sometimes be treated by reducing humidity and increasing air
-  exchange, but heavily contaminated cakes should be discarded
-
-### Pink Mold (Neurospora)
-
-- **Appearance:** Bright pink to orange fluffy growth, often appearing rapidly
-- **Cause:** Common in warm, humid environments, particularly in subtropical
-  climates. Spores are extremely heat-resistant and may survive steam sterilization
-- **Prevention:** Pressure canning (15 PSI for 30+ minutes) is more effective than
-  steam sterilization against Neurospora spores
-- **Action:** Discard immediately — Neurospora spreads rapidly via airborne spores
-
-## The PF TEK Contaminant Barrier
-
-A key innovation of the PF TEK is the dry vermiculite barrier layer:
-
-- After loading the wet substrate into the jar, a layer of dry vermiculite is placed
-  on top, filling the headspace to the rim
-- This dry layer serves as a physical and moisture barrier against airborne contaminants
-- When the inoculation needle passes through this layer, the vermiculite filters the
-  spore solution and seals the puncture channel behind it
-- The dry vermiculite also absorbs and regulates moisture from condensation that forms
-  on the jar lid during temperature changes
-
-## Non-Germination of Spores
-
-Not all failures are contamination. Sometimes spores fail to germinate entirely:
-
-- **Old spores:** Spore viability decreases over time. Spore syringes older than
-  6-12 months may have significantly reduced germination rates
-- **Heat damage:** Exposure to temperatures above 100°F can kill spores
-- **Insufficient spore dose:** Using less than 1 cc per jar reduces the probability
-  that viable spores reach the substrate
-- **Overly dry substrate:** If the substrate was dried during sterilization, spores
-  may germinate but fail to sustain growth
-
-## Sterile Technique Best Practices
-
-1. Work in a small, enclosed space with minimal air currents
-2. Flame-sterilize the needle between every jar inoculation
-3. Minimize the time jars are open or uncovered
-4. Use alcohol to clean surfaces and tools before work
-5. Wash hands thoroughly and consider wearing gloves
-6. Keep the work area free of carpets, houseplants, and other mold sources
-7. Do not talk or breathe directly over open jars
-
-## Decision Framework: Save or Discard
-
-- **Small mold spot on dry vermiculite barrier only:** Monitor — may not reach substrate
-- **Mold growing on substrate surface:** Discard immediately
-- **Bacterial wet spot in substrate:** Discard immediately
-- **Cobweb mold on fruiting cake:** Reduce humidity, increase FAE
-- **Green mold (Trichoderma) anywhere:** Discard immediately, isolate area
-- **No growth after 14 days:** Wait 7 more days, then likely non-viable spores
-## See Also
-
-- [[pf-tek-substrate-formula]]
-- [[mushroom-spore-syringe-inoculation]]
-- [[dual-chambered-terrarium-mushroom-fruiting]]

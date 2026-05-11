@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka's Seed Ball Technique
@@ -87,49 +88,3 @@ Seed balls are the primary tool in Fukuoka's [[fukuoka-desert-greening-plant-irr
 Seed balls simplify vegetable cultivation:
 
 - Mix vegetable seeds in clay balls and broadcast
-- Vegetables grow in semi-wild state where conditions suit them
-- No raised beds, no transplanting, no thinning
-- Multiple species in each ball create natural [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
-
-### Orchard Establishment
-
-- Fruit tree seeds can be started in seed balls
-- Understory plants (clover, vegetables, [[jeavons-green-manures-cover-crops]]) are established by broadcasting seed balls among fruit trees
-- The method enables rapid establishment of diverse ground cover
-
-### Revegetation of Degraded Land
-
-- Any degraded area can be treated with seed balls containing locally appropriate species
-- The method works on slopes, eroded areas, and abandoned farmland
-- No soil preparation is needed -- the clay balls rest on whatever surface exists
-
-## The Philosophy Behind Seed Balls
-
-The seed ball technique embodies Fukuoka's philosophy of "doing nothing":
-
-- No soil preparation -- seeds are simply dropped on the surface
-- No nursery beds -- seeds germinate in place
-- No transplanting -- no root damage, no [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
-- No ongoing care -- nature takes over after broadcasting
-- No single species control -- multiple species in each ball create natural diversity
-
-The farmer's role is reduced to making the seed balls and scattering them at the right time. Everything else is done by nature.
-
-## Comparison with Conventional Methods
-
-| Aspect | Conventional | Seed Ball Method |
-|--------|-------------|-----------------|
-| Soil preparation | Extensive (tilling, beds) | None |
-| Nursery beds | Required | Not needed |
-| Transplanting | Labor-intensive | Eliminated |
-| Root damage | Common during transplant | None |
-| Pest protection | Chemical treatments | Clay coating |
-| Labor | High | Very low |
-| Species diversity | Usually monoculture | Multiple species per ball |
-| Cost | High (equipment, inputs) | Very low (clay, seeds) |
-| Scalability | Limited by equipment | Virtually unlimited |
-
-## Global Adoption
-
-The seed ball technique has been adopted worldwide, often under the name "seed bombs" or "guerilla gardening":
-## See Also

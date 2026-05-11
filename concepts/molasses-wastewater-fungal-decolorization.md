@@ -88,38 +88,3 @@ was not determined. These findings suggest that there is scope for
 improving fungal strains through classical mutagenesis or, potentially,
 [[fukuoka-textdoc-genetic-engineering-critique-warning]] approaches. The development of superior fungal strains
 could enhance the economic viability of fungal molasses wastewater
-treatment processes by reducing treatment times and increasing the
-percentage of colour removal achievable.
-
-## Comparison with Olive Mill Wastewater Treatment
-
-Molasses wastewater fungal treatment shares similarities with fungal  olive mill wastewater treatment, as both involve the degradation of
-recalcitrant polymeric pigments by white rot fungi. Both waste streams are
-characterized by high colour intensity, high COD, and toxicity to aquatic
-organisms. However, molasses wastewaters are distinguished by the presence
-of melanoidins specifically, whereas olive mill wastewaters contain
-phenolic compounds, tannins, anthocyanins, and catechins as the primary
-chromophores. The enzyme systems involved may differ accordingly, with
-glucose oxidase playing a more prominent role in melanoidin degradation
-compared to the [[singh-ligninolytic-enzymes-fungal-bioremediation]] more important in olive mill
-wastewater treatment.
-
-## Reactor Applications and Reuse
-
-The practical application of fungal molasses wastewater treatment has been
-demonstrated in various bioreactor configurations. Mycelia can be re-used
-over multiple treatment cycles, with one study demonstrating effective
-decolorization over three successive cycles with up to 80 percent colour
-removal per cycle. Both continuous and fed-batch treatment modes have been
-investigated. The stability of white rot mycelia during repeated use,
-combined with their ability to achieve both decolorization and COD
-reduction, makes them attractive candidates for [[fungal-industrial-wastewater-treatment]]
-treatment applications. Further optimization of reactor design and
-operating conditions could improve the economic competitiveness of fungal
-treatment relative to physical-chemical alternatives.
-
-## Related Concepts
-
-- [[fungal-melanoidin-degradation]] for melanoidin-specific chemistry
-- [[fungal-laccase-and-textile-dye-decolorization]] for dye removal
-- fungal-bioreactor-types-for-pollutant-removal for reactor design

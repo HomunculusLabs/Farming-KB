@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,42 +88,3 @@ Scale provides a standard measure of wind speed and effect:
 - 7-12: Severe structural and crop damage; damage to windmills
 
 The energy winds (16-40 km/h) that blow on two out of seven windy
-days provide the most useful power for water pumping. These come from
-15-20 degrees off the direction of the prevalent winds. Design must
-account for these patterns to maximise [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]].
-
-## Design Considerations
-
-- Windmills should be sited above the area they serve, so that water
-  flows by gravity after pumping.
-- Access for maintenance must be planned, as windmill mechanisms
-  require periodic servicing.
-- Tanks should be sized for several days of supply to account for
-  periods of calm.
-- Combined wind and solar installations provide backup reliability.
-- Structural design must withstand the energy winds of the site,
-  including storm-force gusts.
-- Indigenous knowledge of wind patterns from old trees, landscape
-  features, and local experience should guide placement.
-
-## Energy Conversion Context
-
-Wind energy for water pumping is one of the most efficient and
-appropriate technologies available. Compared to other energy
-conversion devices, wind-powered water lifting achieves high
-efficiency at low cost, using simple mechanical technology that can be
-locally manufactured and maintained. The key criteria for any energy
-technology in permaculture are that it be non-polluting, socially
-acceptable, affordable (amortising under 10 years), and locally
-maintainable.
-
-## Related Topics
-
-- mollison-designers-rainwater-tanks-and-roof-catchment-systems
-  - Domestic water collection
-- mollison-zone-planning-frequency-distance-and-placement
-  - Zone system overview
-- [[mollison-designers-precipitation-types-and-design-effects]]
-  - Climate factors in design
-## See Also
-- [[mollison-designers-water-purification-and-storage-principles]]

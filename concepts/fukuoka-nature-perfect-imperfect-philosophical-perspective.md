@@ -1,10 +1,11 @@
 ---
-title: fukuoka nature perfect imperfect philosophical perspective and Imperfect: Philosophical Perspective
+title: Fukuoka Nature Perfect Imperfect Philosophical Perspective
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -12,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-Masanobu Fukuoka articulated a profound philosophical [[fukuoka-view-of-nature-and-human-hubris]] as
+[[masanobu-fukuoka]] articulated a profound philosophical [[fukuoka-view-of-nature-and-human-hubris]] as
 [[fukuoka-nature-fundamentally-perfect-self-enriching]], challenging both the Darwinian view of evolution
 and the common perception that nature is something that progresses from
 simple to complex over time.
@@ -52,7 +53,7 @@ nature creates many things at random, becoming ever more abundant.
 
 The acacia tree provides further evidence. Not only does it enrich the
 soil each year, when its flowers bloom, it provides an almost infinite
-supply of pollen for honey bees and scatters an incredibly large number
+supply of pollen for [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]] scatters an incredibly large number
 of seeds that surely appear wasteful but provide nourishment for insects
 and birds. This can certainly be seen as evidence that nature moves of
 its own accord in the direction of thriving abundance.
@@ -86,29 +87,3 @@ If the house were destroyed by a storm or earthquake, this would be an
 occasion for rejoicing at the opportunity to build a new abode.
 
 ## Living in the Present
-
-What Fukuoka advocated is not a return to the past, but a return to
-the present. It gives neither attachment to the past nor expectations
-for the future, but simply living in the nature of today. All that is
-needed is that we surrender ourselves to the current of nature.
-
-If one rides the great current of nature, then there is neither fast
-nor slow. There is a tempo to nature, and yet there is none. In nature,
-time exists, and yet it does not.
-
-## The Great Spirit
-
-Nature is an astounding reality. Coming into contact with true nature
-can be an overwhelming experience. This is a world of inspiration that
-can justly be called the "Great Spirit." Fukuoka recounted the moment
-when a young [[halpern-sacramental-peyote-and-native-american-church]] woman, visiting his farm as part of a
-March for Survival, suddenly cried out "Great Spirit! Great Spirit!"
-upon experiencing something profound. To Fukuoka, this was evidence
-that touching true nature connects one to something transcendent.
-
-## See Also
-
-- [[fukuoka-critique-darwinian-evolution]]
-- [[fukuoka-nature-perfect-imperfect]]
-- [[fukuoka-philosophy-of-mu-and-nature]]
-- [[fukuoka-natural-farming-transcends-time-space]]

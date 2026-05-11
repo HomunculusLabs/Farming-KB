@@ -23,7 +23,7 @@ sources:
 
 **Juncus effusus**, commonly known as soft rush, common rush, or mat rush, is a perennial clump-forming herbaceous plant in the family Juncaceae. It is one of the most widespread rush species in the world, occurring across temperate and subtropical regions on every continent except Antarctica.
 
-The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and [[permplant-willows-salix-erosion-control-fodder]] in wetland margins, meadows, and disturbed areas. It is valued in traditional crafts for its pliable stems and is increasingly used in constructed wetland systems for water treatment.
+The species forms dense tussocks of cylindrical, unbranched stems that provide habitat and [[permplant-willows-salix-erosion-control-fodder]] in wetland margins, meadows, and disturbed areas. It is valued in traditional crafts for its pliable stems and is increasingly used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for water treatment.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ The chromosome number is 2n = 40, 42, or 80 (polyploid races). Seeds are extreme
 
 ## Distribution and Habitat
 
-*J. effusus* has a nearly cosmopolitan distribution in temperate regions. It is native to Europe, Asia, Africa, North America, South America, and Australasia. Its wide range reflects its adaptability to diverse climatic conditions.
+*J. effusus* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It is native to Europe, Asia, Africa, North America, South America, and Australasia. Its wide range reflects its adaptability to diverse climatic conditions.
 
 The species occupies a broad ecological amplitude, growing in wet meadows, marsh edges, ditches, pond margins, stream banks, and disturbed sites. It tolerates both full sun and partial shade and occurs from sea level to 2,300 m elevation in montane regions.
 
@@ -66,7 +66,7 @@ Cutting in late summer (after seed set) reduces tussock vigor and encourages lat
 
 ## Traditional and Modern Uses
 
-The stems have been used for centuries in Japan for weaving tatami mats, a practice that gave rise to the Japanese name *igusa*. Soft rush is still commercially cultivated for this purpose, particularly in Okayama Prefecture, where production methods have remained largely unchanged for centuries.
+The stems have been used for centuries in Japan for weaving tatami mats, a practice that gave rise to the Japanese name *igusa*. Soft rush is still commercially cultivated for this purpose, particularly in Okayama Prefecture, where [[hashish-production-methods]] have remained largely unchanged for centuries.
 
 Modern tatami production uses both hand-woven and machine-woven techniques. The stems are harvested in summer, dried in the shade, and woven into the characteristic rectangular mat surface. A single standard tatami mat requires approximately 4,000 rush stems. Quality is assessed by stem length, color uniformity, and flexibility.
 
@@ -76,9 +76,9 @@ In traditional Chinese medicine, the pith (medulla) of the stem, known as *deng 
 
 ## Phytoremediation
 
-The species is effective in constructed wetlands for treating domestic wastewater, stormwater runoff, and agricultural effluent. The species performs well in both vertical-flow and horizontal-flow systems, with nitrogen removal rates of 40–65% and phosphorus removal rates of 30–55%.
+The species is effective in [[comparison-constructed-wetlands-vs-bioswales]] for treating domestic wastewater, stormwater runoff, and agricultural effluent. The species performs well in both vertical-flow and horizontal-flow systems, with nitrogen removal rates of 40–65% and phosphorus removal rates of 30–55%.
 
-In comparison to other wetland macrophytes, *J. effusus* shows moderate nutrient uptake but excellent durability under variable loading conditions. It maintains treatment performance across seasonal temperature swings better than tropical species used in temperate climates.
+In comparison to other wetland macrophytes, *J. effusus* shows moderate nutrient uptake but excellent durability under variable loading conditions. It maintains treatment performance across seasonal temperature swings better than tropical species used [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 The root system supports nitrifying and denitrifying [[cultivar-endorhiza-bacterial-communities-cannabis]] in the rhizosphere. Radial oxygen release from roots creates the aerobic-anaerobic interfaces necessary for coupled nitrification-denitrification. The species tolerates high organic loading rates and recovers quickly from periodic harvesting.
 
@@ -87,29 +87,3 @@ In stormwater treatment applications, *J. effusus* effectively removes suspended
 The species is particularly effective in small-scale treatment systems such as rain gardens and bioswales. Its [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] form and tolerance of fluctuating water levels make it suitable for urban green infrastructure. Research has demonstrated that *J. effusus*-based systems can achieve fecal coliform reductions of 85–99% from stormwater inputs.
 
 ## Cultivation
-
-*J. effusus* is readily propagated from seed, division, or stem cuttings. Seed germination requires cold stratification (4°C for 4–8 weeks) followed by warm conditions. Commercial propagation typically uses division of established clumps in early spring.
-
-In ornamental horticulture, the species is valued for its architectural form and year-round green structure. Cultivar 'Spiralis' (corkscrew rush) has twisted stems and is widely sold for water gardens and container plantings. Other cultivars include 'Gold Strike' (variegated) and 'Unicorn' (compact form).
-
-Optimal growth occurs in full sun to partial shade with consistently moist soil. The species tolerates poor drainage but not permanent inundation beyond 15 cm. Fertilizer requirements are minimal; in fact, nutrient-poor soils produce more compact, upright growth that is preferred for ornamental use.
-
-## Related Species
-
-*Juncus effusus* is part of the *Juncus effusus* complex, which includes several closely related taxa. *Juncus conglomeratus* (compact rush) is similar but has a tighter inflorescence closer to the stem tip and occurs in more acidic habitats.
-
-*Juncus tenuis* (path rush) is a smaller species of disturbed ground, reaching only 20–40 cm tall. *Juncus inflexus* (hard rush) differs in having harder, more rigid stems and a more northerly distribution. These species can form hybrids in zones of overlap, particularly between *J. effusus* and *J. conglomeratus*.
-
-## See Also
-
-- [[juncus-tenuis]]
-
-- [[schoenoplectus-lacustris]]
-- typha-latifolia-entity
-- [[acorus-calamus]]
-- [[lemna-minor]]
-- [[arundo-donax]]
-- [[eichhornia-crassipes]]
-- [[nymphaea-alba]]
-- [[trapa-natans]]
-- [[canna-indica]]

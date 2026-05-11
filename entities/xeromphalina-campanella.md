@@ -88,32 +88,3 @@ break down lignin and cellulose in woody substrates.
 
 Its role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is significant despite its small fruiting
 body size. The [[gadd-mycelial-network-dynamics]] permeates large volumes of decaying wood,
-accelerating carbon release and making nutrients available to other soil
-organisms. It frequently forms extensive colonies covering entire logs,
-indicating efficient resource colonization.
-
-The species is mycorrhizal in some reports, though this remains debated.
-Most evidence supports a strictly saprotrophic lifestyle on dead wood.
-
-## Similar Species
-
-- ***Marasmius rotula*** — also small, on wood, but with a collarium
-  (distinctive ring of tissue around stipe-gill junction) and white cap.
-
-- ***Gymnopus dryophilus*** — larger, on wood chips and forest floor,
-  without cross-veined gills or dark tomentose stipe base.
-
-- ***Xeromphalina kauffmanii*** — very similar but grows on hardwoods
-  and has slightly larger spores (7–9 × 4–5 µm). Some authorities
-  consider it conspecific.
-
-- ***Omphalina* spp.*** — often confused due to the shared omphalinoid
-  habit, but true *Omphalina* species are typically terricolous and
-  associated with mosses.
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[gymnopilus-spectabilis-entity]]
-- [[schizophyllum-commune]]
-- [[lentinula-edodes]]

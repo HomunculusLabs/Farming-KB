@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - shiitake-cultivation-guide.md
   - shiitake-cultivation-log-method.md
   - shiitake-cultivation-on-sawdust.md

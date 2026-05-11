@@ -2,7 +2,7 @@
 title: "mescal-bean-sophora-secundiflora-vision-dance"
 created: 2026-04-28
 type: species
-aliases: [mescal bean, Texas mountain laurel, frijolillo, coralbean, red bean]
+aliases: [[mescal-bean-sophora-secundiflora-vision-dance]], Texas mountain laurel, frijolillo, coralbean, red bean]
 tags: [ethnobotany, entheogen, fabaceae, alkaloids, cytisine,
        toxic-plant, native-american, ornamental]
 date: 2026-05-02
@@ -77,7 +77,7 @@ Nahuatl "mexcalli," referring to the century plant (Agave).
 ## Ethnobotanical History
 
 The mescal bean was one of the most important narcotics of the North
-American Indians. At least a dozen tribes of the southern Plains and
+[[yage-common-themes-south-american-indians]]. At least a dozen tribes of the southern Plains and
 Southwest practiced a vision-seeking dance centered on ground mescal
 beans, including the Comanche, Apache (Mescalero, Lipan, Chiricahua),
 Kiowa, Iowa, Arapaho, Caddo, Tonkawa, and Coahuiltecan groups. The
@@ -85,19 +85,6 @@ ceremony involved fasting, drumming, and dancing, with young men
 consuming beans to seek guardian spirits. Archaeological evidence from
 dry caves in Texas and northern Mexico documents use dating back 8,500
 to 10,000+ years, among the oldest entheogenic plant traditions in
-North America. Seeds found far beyond the natural range indicate
+[[guzman-psilocybin-mushrooms-north-america]]. Seeds found far beyond the natural range indicate
 extensive long-distance trade networks across the Great Plains and
 into the eastern [[dmt-containing-plants-united-states-halpern]] (Illinois, Ohio).
-
-## Displacement by Peyote
-
-The arrival of the peyote cult led the natives to abandon the Red
-Bean Dance beginning in the early 1800s, accelerating with the Native
-[[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] circa 1918. Peyote produced more predictable visionary
-effects with a much wider safety margin than the highly toxic mescal
-bean. Mescal bean use persisted in some Apache and Plains communities
-into the early [[coleman-louis-savier-twentieth-century-maraicher]], and the red beans continue to hold
-symbolic importance in [[mescal-bean-sophora-secundiflora-vision-dance]]
-- ethnomycology
-- [[tabernanthe-iboga]]
-- [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]]

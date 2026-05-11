@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Physostegia virginiana, commonly called obedient plant or false dragonhead, is a rhizomatous perennial in the family Lamiaceae. It is native to eastern North America, where it grows in moist meadows, prairies, and along stream margins from Quebec to Manitoba south to Florida and Texas.
+Physostegia virginiana, commonly called obedient plant or false dragonhead, is a rhizomatous perennial in the family Lamiaceae. It is native to [[polypore-fungi-eastern-north-america]], where it grows in moist meadows, prairies, and along stream margins from Quebec to Manitoba south to Florida and Texas.
 
 The common name "obedient plant" refers to the curious property of individual flowers, which remain in position when pushed to one side on the inflorescence axis. This trait makes it a popular garden plant for children and floral designers.
 
@@ -69,53 +69,22 @@ The plant spreads aggressively via rhizomes, making it suitable for large-scale 
 
 Propagation is easy by division in spring or autumn. Root cuttings taken in late winter also produce new plants reliably.
 
-Seed propagation is straightforward with fresh seed sown in autumn or stratified seed sown in spring. Germination occurs within 14 to 21 days at 20 to 25°C.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] is straightforward with fresh seed sown in autumn or stratified seed sown in spring. Germination occurs within 14 to 21 days at 20 to 25°C.
 
 Several cultivars are available in the nursery trade. 'Vivid' has deep pink flowers on compact plants 45 to 60 cm tall.
 
 'Rosea' bears soft pink flowers, while 'Alba' produces pure white blooms. 'Variegata' features creamy white leaf margins but is less vigorous than the species.
 
-The species is relatively disease-free and deer-resistant. Powdery mildew may appear in humid conditions with poor air circulation but rarely causes serious damage.
+The species is relatively disease-free and deer-resistant. [[cervantes-powdery-mildew-prevention-treatment]] may appear in humid conditions with poor [[stamets-growing-room-air-circulation-co2-management]] but rarely causes serious damage.
 
 ## Uses and Ethnobotany
 
-*Physostegia virginiana* is primarily valued as an ornamental perennial for moist borders, rain gardens, and native plant landscapes. Its late summer bloom time fills an important niche in the perennial garden calendar.
+*Physostegia virginiana* is primarily valued as an ornamental perennial for moist borders, rain gardens, and native plant landscapes. Its late summer bloom time fills an important niche in the perennial [[cervantes-garden-calendar-checklist]].
 
 The flowers are highly attractive to hummingbirds, bumblebees, and sphinx moths, making it a key species for pollinator gardens. Long-tongued bees are particularly effective pollinators.
 
-In traditional Native American ethnobotany, the Meskwaki people used a root infusion as a treatment for digestive ailments. The plant was also used ceremonially in some Plains cultures.
+In traditional Native [[tree-daturas-brugmansia-south-american-ethnobotany]], the Meskwaki people used a root infusion as a treatment for digestive ailments. The plant was also used ceremonially in some Plains cultures.
 
 The cut flowers are long-lasting in arrangements, maintaining their "obedient" positioning. This unique characteristic makes them popular with florists for specialized designs.
 
 Research has identified iridoid glycosides in *Physostegia* species, including physoside and related compounds. These constituents show anti-inflammatory activity in preliminary laboratory studies.
-
-The species has potential for phytoremediation in wetland restoration projects. Its vigorous root system helps stabilize stream banks and filter nutrients from runoff.
-
-*Physostegia virginiana* is sometimes confused with *Chelone glabra* (turtlehead), which shares a similar habitat and bloom time. The two can be distinguished by flower shape: *Physostegia* has open, two-lipped tubes while *Chelone* has closed, snapdragon-like blooms.
-
-The genus name derives from the Greek *physa* (bladder) and *stege* (covering), referring to the inflated calyx that encloses the developing fruit. The specific epithet *virginiana* indicates its original collection locality in colonial Virginia.
-
-## Pests and Diseases
-
-*Physostegia virginiana* is notably resistant to most pests and diseases. The stiff foliage and aromatic qualities typical of Lamiaceae deter most mammalian browsers.
-
-Slugs and snails may feed on young shoots in spring, particularly in damp, shaded locations. Control with iron phosphate baits or diatomaceous earth is effective.
-
-Aphids occasionally colonize flower spikes but rarely cause significant damage. Natural predators including lady beetles and lacewings typically manage populations adequately.
-
-Rust fungi may produce small orange pustules on leaf undersides in late summer. These infections are cosmetic and do not affect plant vigor or flowering.
-
-Root rot can occur in waterlogged soils, particularly in heavy clay with poor drainage. Amending soil with organic matter and avoiding over-irrigation prevents this issue.
-
-## See Also
-
-- [[monarda-didyma]]
-- [[monarda-fistulosa]]
-- [[agastache-foeniculum]]
-- [[echinacea-purpurea]]
-- [[rudbeckia-hirta]]
-- [[solidago-canadensis]]
-- [[lobelia-cardinalis]]
-- [[penstemon-digitalis]]
-- [[stachys-byzantina]]
-- [[salvia-officinalis]]

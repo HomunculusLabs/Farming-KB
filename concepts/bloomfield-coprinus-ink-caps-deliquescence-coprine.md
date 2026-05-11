@@ -88,33 +88,3 @@ When the tree is cut down, its trunk displays a map that outlines the borders be
 Rayner's work revealed that a single tree trunk could harbor dozens of genetically distinct fungal individuals, each defending its territory with chemical weapons and melanized barriers. The resulting pattern of pigmented zones in the wood resembles a map of contested Balkan borders, with each fungal territory marked by its own defensive line. Wood from such trees, referred to as "spalted," can be chiseled into beautiful bowls and ornaments, the dark zone lines creating intricate natural patterns prized by woodworkers.
 
 ## Armillaria and Group Sex
-
-The complexity of basidiomycete mating reaches its zenith in the genus Armillaria, the honey mushroom. A single Armillaria fruiting body can be produced by the fusion of nine or more genetically distinct strains, a process sometimes described as group sex. Multiple mycelia contribute nuclei to a shared cytoplasmic compartment, and the resulting fruiting body produces spores with genetic contributions from all participants.
-
-This extraordinary level of genetic cooperation dwarfs even the hundreds of mating types found in Coprinus. Armillaria is also notable for producing the largest organisms on Earth: individual clones connected by underground rhizomorphs can span hundreds of acres. The combination of massive clonal size and extreme mating flexibility makes Armillaria one of the most successful fungal genera in forest ecosystems.
-
-## Ecological Role
-
-Ink caps are typically found in grasslands, lawns, disturbed ground, and on manure-enriched soils. Some species fruit in spectacular abundance, forming dense clusters that can blacken large patches of grass with their deliquescing ink. The genus is saprotrophic, decomposing [[hamilton-composting-and-organic-matter-management]] in soil and contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
-
-Their rapid fruiting and deliquescence cycle allows them to exploit transient nutrient sources efficiently. A colony of C. comatus can appear overnight, release its spores over the course of a single day, and dissolve completely within 48 hours, leaving little trace of its presence. This ephemeral strategy contrasts with the perennial fruiting bodies of wood-decaying bracket fungi and reflects the different ecological pressures faced by fungi that colonize transient substrates.
-
-## Ink as Writing Material
-
-The common name "ink cap" derives from the black, ink-like fluid produced by deliquescing specimens. This fluid was historically used as a makeshift writing ink, and the genus name Coprinus comes from the Greek word kopros, meaning dung, reflecting the habitat preferences of many species. The practice of collecting deliquescing ink caps for writing ink was widespread enough to be noted by multiple Victorian naturalists, and represents one of the earliest practical uses of fungi by humans in everyday life.
-
-## Fruiting Body Development
-
-The development of ink cap fruiting bodies follows a precisely timed program. Young fruiting bodies emerge from the soil as white spindles, elongate rapidly through turgor-driven expansion, and then unfurl their caps to expose the gills. The cap shape is campanulate or bell-shaped, a form particularly effective at slowing air movement beneath the fertile tissues so that spores fall through calm air for a few tenths of a second before encountering the turbulent boundary layer above.
-
-The ubiquitous umbrella form of the mushroom is essential because it maintains a humid atmosphere around the hymenium while shielding the spores from rain. Any fluid running over the gills would wash away the fluid drops that develop on the spores and spoil the discharge mechanism. This integration of form and function in fruiting body architecture is a recurring theme in basidiomycete biology.
-
-## Other Poisonous Species
-
-Besides C. atramentarius and the edible C. comatus, the genus and its relatives include species with varying toxicity. The toxicity of coprine is unusual among mushroom poisons because it requires an interaction with an external substance (alcohol) to manifest symptoms. This makes coprine poisoning particularly insidious, as the mushroom itself may cause no symptoms when consumed alone, leading the forager to believe it is safe. Only when alcohol is subsequently consumed do the dramatic symptoms of acetaldehyde accumulation appear.
-
-## See Also
-
-- [[bloomfield-fungal-reproduction-and-chemical-communication]] for fungal mating strategies
-- [[bloomfield-basidiomycete-biology-overview]] for basidiomycete life cycles and fruiting body development
-- [[bloomfield-gasteromycetes-puffballs-earthstars]] for related basidiomycete fruiting body types

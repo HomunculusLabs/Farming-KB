@@ -87,14 +87,3 @@ Chalk (CaCO3) and gypsum (CaSO4) can be added at 1-3 parts per 100 parts grain (
 6. The double wedge technique (cutting one wedge in half) speeds colonization
 7. Replace lids and shake jars thoroughly to distribute mycelial fragments
 8. Incubate at appropriate temperature; grain should be fully colonized in 7-10 days
-
-## Grain-to-Grain Transfer
-
-Fully colonized grain masters are used for further [[spawn-production]]. Masters must be transferred within a few days of full colonization, otherwise kernels do not break apart easily. Each quart master can inoculate 6-10 quart jars or 4-6 half gallon jars, providing enormous expansion of mycelial mass. This technique is the backbone of efficient cultivation but amplifies any contamination present in the master.
-
-## See Also
-
-- [[mushroom-cultivator-grain-spawn-production]]
-- [[spawn-production]]
-- [[azurescens-spawn-preparation-grain-to-wood]]
-- [[contamination-prevention-in-mushroom-cultivation]]

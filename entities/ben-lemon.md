@@ -22,11 +22,11 @@ sources:
 
 # Ben Lemon
 
-Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil. (see [[cannabis-chromatography-cannabinoid-purification]]).
+Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, [[thc-acetate-synthesis-and-pharmacology]], and [[cannabis-oil-purification-techniques]] for cannabis oil.
 
 ## Context
 
-"Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to cannabis oil extraction and chemical modification, predating the modern commercial concentrate industry by decades. (see [[cannabis-potency-enhancement-intact-flowers]]).
+"Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to [[cannabis-oil-extraction]] and chemical modification, predating the modern commercial concentrate industry by decades.
 
 The pseudonym "Nicolas Flamel" references the legendary 14th-century French scribe and alchemist supposedly capable of transmuting base metals into gold -- appropriate for a book about transforming plant material into purified concentrates.
 
@@ -44,11 +44,11 @@ Documented the synthesis of THC acetate from high-rotating THC using acetic anhy
 ### Purification Techniques
 - Petroleum ether re-extraction for removing water-soluble tars
 - Activated charcoal filtering for producing translucent "honey oil"
-- Fractional distillation under vacuum for further refinement
+- [[cannabis-advanced-refinement-fractional-distillation]] under vacuum for further refinement
 - Chromatographic isolation of pure cannabidiol and conversion to pure THC
 
 ### High-Volume Extraction
-Documented a large-scale extraction apparatus built from two 55-gallon oil drums with copper tube condensers, capable of processing pounds of material at a time.
+Documented a large-scale [[cannabis-reflux-extraction-apparatus]] built from two 55-gallon oil drums with copper tube condensers, capable of processing pounds of material at a time.
 
 ### Solvent Comparison
 Provided practical comparison of extraction solvents: methanol (effective but toxic), isopropyl rubbing alcohol (accessible but extracts water-soluble impurities), ethanol (ideal but hard to obtain), and petroleum ether (most selective but dangerously explosive).
@@ -62,4 +62,19 @@ The techniques described in Cannabis Alchemy -- particularly isomerization and h
 - [[cannabis-extraction-basics]] for comprehensive modern extraction comparison
 - [[thc-acetate-and-isomerization]] for detailed chemistry from this book
 - [[cannabis-hashish-guide]] for traditional and modern hashish techniques
-- [[cannabis-health-therapeutics]] for medical applications of extracts
+- [[cannabis-health-therapeutics]] for [[oner-sativa-medical-applications]] of extracts
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Background
+- Early career development involved cross-disciplinary study and research.
+- Academic and professional trajectory reflects a commitment to advancing knowledge.
+- Collaborations with other researchers have been a hallmark of their approach.

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Male Plant Identification and Management
+title: [[cannabis-male-plant-management]] Identification
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 2, 3, 7)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 2, 3, 7)
 
 Male cannabis plants are essential for breeding but are typically removed in sinsemilla (seedless) grows. Understanding male identification and management is critical for both scenarios.
 
@@ -88,13 +88,3 @@ When choosing which male to use:
 Green notes that male plants do contain THC, though at much lower levels than females:
 
 - Male plants can be smoked but are vastly inferior to females
-- The leaves and small flowers may be used to make extracts or hash
-- Some growers collect male leaf material for cooking or extract production
-- The main value of males is genetic, not psychoactive
-
-## Related Topics
-
-- [[cannabis-sinsemilla-life-cycle]] — growing seedless females
-- [[cannabis-genetics-and-breeding]] — genetic principles for breeding
-- [[cannabis-cloning-and-mother-plants]] — vegetative propagation without males
-- [[cannabis-hash-making-from-extracted-oil]]

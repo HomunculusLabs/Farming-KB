@@ -1,7 +1,7 @@
 ---
 title: singh chromium bioremediation fungi by Fungi
 created: 2026-04-26
-tags: [mycoremediation, biosorption, chromium, heavy-metals]
+tags: [[mycoremediation]], biosorption, chromium, heavy-metals]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -11,11 +11,11 @@ type: concept
 
 # Chromium Bioremediation by Fungi
 
-Chromium is a highly toxic heavy metal that exists in two primary
+Chromium is a highly toxic [[dighton-fungal-biosorption-heavy-metal-remediation]] that exists in two primary
 oxidation states: hexavalent chromium Cr(VI), which is highly toxic,
 carcinogenic, and mobile, and trivalent chromium Cr(III), which is less
 toxic and more amenable to removal. [[singh-binary-ternary-fungal-biosorption-systems]] offers effective
-strategies for chromium removal from industrial wastewaters, with the
+strategies for chromium removal from [[fungal-treatment-of-industrial-wastewaters]], with the
 added benefit of reducing Cr(VI) to the less harmful Cr(III) state.
 
 ## Chromium Toxicity and Environmental Concerns
@@ -63,7 +63,7 @@ Yeasts demonstrate varied chromium uptake capabilities. Candida utilis
 exhibits the highest activity among yeast species, with metal uptake of
 7 mg/g dry weight for Cr(VI), 23 mg/g for Cu(II), 39 mg/g for Pb(II),
 19 mg/g for Cd(II), and 28 mg/g for Zn per gram dry weight. Living
-Saccharomyces cerevisiae accumulates 30 mg/g dry weight of Cr(III).
+[[saccharomyces-cerevisiae]] accumulates 30 mg/g dry weight of Cr(III).
 Candida intermedia accumulates up to 0.45 mg/g dry weight. S. cerevisiae
 accumulates 4 mg/g dry weight of Cr(VI). Pichia guilliermondii shows
 Cr(III) uptake of 10 mg/g dry weight and Cr(VI) uptake of 0.9 mg/g
@@ -88,52 +88,3 @@ processes and the selection of appropriate fungal species.
 In binary biosorption systems, chromium demonstrates interesting
 competitive behavior. The adsorption capacity of Cr(VI) on Rhizopus
 arrhizus is greater than that of Fe(III), correlating well with
-single-component data. Cr(VI) adsorbs selectively from Cr(VI)-Fe(III)
-mixtures, but the selectivity for Fe(III) increases with an increasing
-ratio of Fe(III) to Cr(VI) concentrations. In ternary systems, the
-equilibrium uptake of Cr(VI) by R. arrhizus depends on the ratio of
-the dominant metal ion to competing metal ions. The sorption capacity,
-selectivity, and biomass yield are enhanced by increasing the ratio of
-Cr(VI) concentration to other metal and/or total metal concentration.
-
-## Chromium Anion Biosorption
-
-Most biosorption research focuses on metal cations, but chromium also
-occurs as anionic chromate (CrO4(2-)) and dichromate (Cr2O7(2-)). A
-cationic surfactant-modified yeast substantially improved the removal
-of chromate anions from aqueous streams. Nearly 99.5% of metal ions
-were removed from solution at initial concentrations of 5.2 to 2.8
-mg/l Cr(VI) and pH 4.5 to 5.5. The enrichment selectivity by Mucor
-hiemalis shows lower affinity for chromate anions (Cr2O7(2-) and
-CrO4(2-)) compared to cationic Cr(III), suggesting that different
-mechanisms operate for anionic chromium species. More research is
-needed on the biosorption of anions, including the underlying mechanisms.
-
-## Chromium-Tolerant Wood-Decay Fungi
-
-Certain wood-decay fungi demonstrate remarkable chromium tolerance,
-particularly relevant for CCA-treated wood remediation. Some isolates
-of Wolfiporia cocos can degrade pine wood treated with high
-concentrations of copper chromated arsenate (CCA) wood preservatives.
-Eleven of 12 isolates of the dry-rot fungus [[fungal-serpula-lacrymans-dry-rot-buildings]] have shown
-tolerance to copper-based wood preservatives, including copper citrate.
-These findings suggest that [[biochemistry-of-ligninolytic-fungi-bioremediation]] could play a role in the
-remediation of CCA-treated waste wood, an increasingly significant
-waste management challenge as treated wood enters disposal streams.
-
-## Future Directions
-
-The combination of biosorption with chromium reduction represents a
-particularly promising approach for chromium remediation. Future work
-should focus on optimizing the simultaneous removal and reduction of
-Cr(VI) to Cr(III), developing fungal strains with enhanced chromium
-tolerance, and scaling up laboratory biosorption systems for industrial
-[[mollison-designers-wastewater-treatment-wetlands]] applications. The use of dead [[bioremediation-fungal-biomass-biosorbent-material]] as
-a substitute for ion-exchange resins in chromium removal is an
-established concept that deserves further process optimization.
-
-## See Also
-
-- [[fungal-metal-redox-transformations]]
-- [[fungal-biosorption-mechanisms]]
-- [[fungal-heavy-metal-biosorption-detailed]]

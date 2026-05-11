@@ -11,9 +11,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Wipff, J.K. (2004). "Pennisetum." In Flora of North America Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
+  - Wipff, J.K. (2004). "Pennisetum." In Flora huckleberries-and-wild-berries-of-north-america Editorial Committee, Flora of North America North of Mexico, Vol. 25. Oxford University Press.
   -Quattrocchi, U. (2006). World Dictionary of Grasses: Common Names, Scientific Names, Eponyms, Synonyms, and Etymology. CRC Press.
-  - Meyer, M.H. & J.M. Meyer (2021). "Ornamental Grasses for the Cold Season." University of Minnesota Extension.
+  - Meyer, M.H. & J.M. Meyer (2021). "[[ornamental-grasses-guide]] for the Cold Season." University of Minnesota Extension.
   - Darke, R. (2007). The Encyclopedia of Grasses for Livable Landscapes. Timber Press.
 ---
 
@@ -21,7 +21,7 @@ sources:
 
 Pennisetum alopecuroides, commonly known as fountain grass or Chinese fountain grass, is a perennial bunchgrass in the family Poaceae.
 
-It is native to open grasslands and wood margins across East Asia, from Japan and Korea through much of China to Southeast Asia.
+It is native to open grasslands and wood margins across East Asia, from Japan and Korea through much of China to [[psilocybe-southeast-asia-pacific]].
 
 The species is widely cultivated as an ornamental landscape grass for its arching habit, fuzzy bottlebrush inflorescences, and reliable fall color.
 
@@ -35,7 +35,7 @@ The genus name derives from the Latin penna (feather) and seta (bristle), referr
 
 It forms dense tussocks of narrow, arching leaf blades reaching 60 to 100 centimeters in height.
 
-The foliage is medium green during the growing season, turning golden-yellow to amber in autumn.
+The foliage is medium green during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]], turning golden-yellow to amber in autumn.
 
 Flowering occurs from midsummer through early fall, producing dense, cylindrical, bottlebrush-like panicles 10 to 25 centimeters long.
 
@@ -53,7 +53,7 @@ It occupies open, sunny habitats including grassy slopes, forest margins, riverb
 
 In its native range, it is a component of warm-temperate and subtropical grassland communities.
 
-Pennisetum alopecuroides has been introduced widely as an ornamental and has escaped cultivation in parts of the eastern and western United States, southern Europe, eastern Australia, and New Zealand.
+Pennisetum alopecuroides has been introduced widely as an ornamental and has escaped cultivation in parts of the eastern and western [[dmt-containing-plants-united-states-halpern]], southern Europe, eastern Australia, and New Zealand.
 
 It is listed as an invasive species in several jurisdictions, including California, Hawaii, and parts of Australia, where it can displace native vegetation in grasslands and riparian areas.
 
@@ -85,46 +85,6 @@ Named cultivars include Hameln, a compact dwarf form reaching 60 centimeters, an
 
 ## Ecological Role
 
-In its native range, fountain grass provides forage for grazing herbivores and contributes to grassland community structure.
+In its native range, fountain grass provides forage for grazing herbivores and contributes to grassland [[edaphic-determinants-cannabis-microbiome-community-structure]].
 
 The dense tussocks offer shelter for small invertebrates and ground-nesting insects.
-
-In ornamental landscapes, the late-season flower heads provide a food source for seed-eating birds during autumn and winter.
-
-The species is moderately attractive to pollinators, with bees and other insects visiting the flowering panicles.
-
-However, in regions where it has naturalized, Pennisetum alopecuroides can form dense monocultures that reduce native plant diversity and alter fire regimes.
-
-Its tendency to produce abundant seed and establish in disturbed areas makes it a management concern in conservation areas.
-
-The species is not considered palatable to deer, which contributes to its reliability in landscapes with heavy browsing pressure.
-
-## Landscape and Ornamental Use
-
-Pennisetum alopecuroides is one of the most widely planted ornamental grasses in temperate landscapes worldwide.
-
-Its arching, fountain-like habit gives it a soft, flowing appearance that contrasts with upright and structural plant forms.
-
-The species is used in mass plantings, mixed borders, container gardens, and as a specimen accent plant.
-
-The fall color transition from green to golden amber provides multi-season interest, and the dried seed heads persist through winter.
-
-Fountain grass is a key component of New American garden design and naturalistic prairie-style plantings.
-
-It pairs effectively with late-season perennials including asters, sedums, and ornamental onions.
-
-The compact cultivar Hameln is widely used in residential and commercial landscapes where space is limited.
-
-Designers value the species for its low water requirements, deer resistance, and minimal pest and disease issues.
-
-## See Also
-
-- [[pennisetum-setaceum]]
-- [[cortaderia-selloana]]
-- [[muhlenbergia-capillaris]]
-- [[muhlenbergia-rigens]]
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[bouteloua-gracilis]]
-- [[deschampsia-caespitosa]]
-- [[festuca-glauca]]

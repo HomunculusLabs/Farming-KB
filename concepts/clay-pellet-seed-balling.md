@@ -11,14 +11,15 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Clay Pellet Seed Balling
 
-Clay pellet seed balling is [[direct-seeded-no-tillage-rice-barley-succession|no-tillage rice-barley]]
-succession cropping system depends on reliable [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. However, direct seeding
+Clay pellet seed balling is [[direct-seeded-no-tillage-rice-barley-succession]]
+[[no-tillage-rice-barley-succession-cropping]] system depends on reliable [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]. However, [[clay-seed-pellets-direct-seeding]]
 into untilled soil presents several challenges: seeds may be eaten by birds, mice, or
 insects; they may dry out before germinating; or they may be washed away by rain. In a
 conventional tilled field, these problems are addressed by plowing, harrowing, and
@@ -35,7 +36,7 @@ protective shell that hardens when dry, shielding the seed inside from external 
 
 The pellet also serves as a microbial delivery system. One gram of soil from Fukuoka's
 farm contained about 100 million nitrogen-fixing bacteria and other soil-enriching
-microbes. By mixing soil into the pellet, these beneficial microorganisms are inoculated directly into the germination zone.
+microbes. By mixing soil into the pellet, these [[forest-and-bamboo-beneficial-microorganisms]] are inoculated directly into the germination zone.
 
 The inclusion of [[hamilton-composting-and-organic-matter-management]] within the pellet provides initial nutrients for the
 seedling once germination begins, while the clay regulates moisture retention and
@@ -65,7 +66,7 @@ should be accessible to anyone, requiring no specialized equipment or imported i
 
 ### Rice and Barley
 
-In Fukuoka's rice-barley succession system, clay pellets are broadcast onto the field
+In Fukuoka's rice-barley succession system, [[fukuoka-desert-revegetation-clay-pellets]] are broadcast onto the field
 surface. The rice crop is sown in the fall, when the barley is standing in the field.
 Pellets dropped among the barley straw settle into the mulch layer and remain dormant
 through the winter. As spring arrives and the soil warms, moisture penetrates the clay
@@ -86,12 +87,3 @@ He describes scattering pellets from aircraft over barren hillsides, a method th
 requires no roads, no heavy equipment, and no labor-intensive planting. The pellets
 protect seeds from birds and drying until conditions are right for germination. This
 approach has been used successfully to revegetate denuded slopes and desertified areas.
-
-### Vegetable Gardens
-
-In the [[masanobu-fukuoka]]
-- [[natural-orchard-management]]
-
-- [[natural-farming]]
-- [[natural-orchard-management]]
-- no tillage agriculture

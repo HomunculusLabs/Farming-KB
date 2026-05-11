@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Arbuscular Mycorrhizal Fungi
 
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function. (see [[mycorrhizal-symbiosis]]).
+Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function.
 
 ## The Symbiosis
 
@@ -18,7 +18,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - **Nitrogen**: Access organic and inorganic N sources unavailable to roots
 - **Water**: Hyphal network improves water uptake during drought
 - **Micronutrients**: Enhanced uptake of zinc, copper, manganese
-- **Disease protection**: Physical barrier around roots, induced systemic resistance
+- **Disease protection**: Physical barrier around roots, [[endophytic-mycorrhizal-induced-systemic-resistance]]
 - **Soil aggregation**: Glomalin (a glycoprotein produced by AMF) binds soil particles into stable aggregates
 
 ### What Plants Provide
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
+- AMF can associate with multiple plant species simultaneously — creating [[common-mycorrhizal-networks]]
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -68,14 +68,14 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 
 ### Promoting AMF
 - Low to moderate soil P (high P reduces AMF colonization — plants don't "need" the fungus)
-- Minimal tillage (preserves hyphal networks)
+- [[coleman-bed-preparation-and-minimal-tillage]] (preserves hyphal networks)
 - Cover crops (maintain AMF host plants between cash crops)
 - Organic matter (feeds AMF indirectly through soil biology)
 - Diverse rotations (maintain diverse AMF communities)
 
 ### Suppressing AMF
 - High P fertilizer (plants reduce carbon allocation to AMF)
-- Conventional tillage (breaks hyphal networks)
+- [[comparison-no-till-vs-conventional-tillage]] (breaks hyphal networks)
 - Fallow periods (no host plants, AMF decline)
 - Certain pesticides (fungicides particularly harmful)
 - High soil disturbance
@@ -88,7 +88,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - Over time, AMF-rich soils require fewer inputs
 
 ### Drought Resilience
-- AMF improve water uptake and drought tolerance
+- AMF improve water uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]
 - Particularly important in dryland farming
 - AMF-inoculated plants maintain turgor longer under water stress
 
@@ -97,8 +97,30 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - AMF improve soil aggregation and structure
 - AMF hyphae are the "glue" holding soil together
 
+
+## Ecological Role
+Fungal organisms play critical roles in ecosystem functioning through
+decomposition, nutrient cycling, and symbiotic relationships with plants.
+Understanding their ecological contributions informs both cultivation
+practices and conservation efforts across diverse habitats.
+
+
+## Research Directions
+Current research explores applications in bioremediation, sustainable
+agriculture, and pharmaceutical development. Advances in genomic
+sequencing and cultivation techniques continue to reveal new species
+and expand our understanding of fungal biology.
+
+
+## See Also
+- [[endobacteria-arbuscular-mycorrhizal-fungi]]
+- [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]
+- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
+- [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]]
+- [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]]
 ## Related
 - [[ectomycorrhizal-ecology]] — for the other major mycorrhizal type
 - [[mycorrhizal-networks-common-mycelial-network]] — for common networks
 - [[fungal-role-in-phosphorus-cycling]] — for P cycling role
 - [[soil-food-web-structure]] — for the broader soil biology context
+

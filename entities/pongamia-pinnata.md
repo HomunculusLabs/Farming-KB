@@ -87,36 +87,3 @@ Pongamia is hardy in **USDA Zones 10–12** (minimum temperatures of 1–2°C) a
 **Propagation** is primarily by seed, though vegetative methods (stem cuttings, tissue culture) are used for clonal propagation of superior genotypes. Seed germination is often improved by mechanical scarification or soaking in hot water for 12–24 hours, achieving 70–90% germination. Seedlings are typically raised in nursery bags and transplanted at 6–12 months.
 
 Recommended planting spacing is **5 × 5 m to 10 × 10 m** (100–400 trees/ha) depending on the intended use, with tighter espacement for biofuel-focused plantations. The pressed seedcake, rich in protein (~30%), has value as an [[complete-organic-fertilizer-cof-recipe-solomon]] or, after detoxification, as animal feed. Trees are relatively long-lived, with productive lifespans exceeding **60–100 years**.
-
-## Challenges and Limitations
-
-Despite its promise, pongamia faces several challenges for widespread adoption:
-
-- **Slow initial yield:** Significant seed production typically requires 5–7 years from planting
-- **Variable genetics:** Wild populations show wide variation in seed yield, oil content, and growth
-- **Limited domestication:** Few improved cultivars are commercially available
-- **Seed handling:** Hard seed coats necessitate pre-treatment for consistent germination
-- **Toxicity:** Seed cake contains karanjin and pongamol, restricting direct use as feed
-- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Susceptible to root rot (*Fusarium* spp.), leaf webber, and pod borer
-- **Regulatory uncertainty:** Biodiesel standards and subsidy frameworks vary by region
-- **Harvest logistics:** Pod collection from large trees is labor-intensive without mechanization
-
-Active breeding programs in India, Australia, and the United States are addressing many of these constraints through selection of high-yielding, early-bearing genotypes.
-
-## See Also
-
-- [[biochar]]
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- [[leucaena-leucocephala]]
-- crotalaria-juncea
-- biofuel
-- oilseed crops
-
-## References
-
-1. Scott, P.T. et al. (2008). "Pongamia pinnata: a biofuel and drought-tolerant tree." *Genome*, 51(9), 701-715.
-2. Kesari, V. & Rangan, L. (2010). "Development of Pongamia pinnata as a sustainable biofuel feedstock." *BioEnergy Research*, 3, 174-182.
-3. Murphy, D.J. (2007). "Future prospects for oilseed and biofuel crops." *Journal of Experimental Botany*, 58(5), 1087-1096.
-4. National Research Council. (1983). *Firewood Crops: Shrub and Tree Species for Energy Production*. National Academies Press.
-5. Azam, M.M. et al. (2005). "Prospects and potential of fatty acid methyl esters of some non-traditional seed oils for use as biodiesel in India." *Biomass and Bioenergy*, 29(4), 293-302.
-6. Tanya, P. et al. (2011). "Pongamia pinnata: a potential feedstock for biodiesel." *Biomass and Bioenergy*, 35(4), 1724-1732.

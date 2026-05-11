@@ -88,37 +88,3 @@ can devastate native communities (chestnut blight, Dutch elm disease).
 
 Symbiotic associations between fungi and photosynthetic partners
 (algae or cyanobacteria). Surveyed visually, aided by chemical spot
-tests for [[antifungal-secondary-metabolites-coprophilous-fungi]]. Excellent bioindicators of air
-quality and habitat continuity — many species are slow-growing and
-pollution-sensitive. Crustose, foliose, and fruticose forms are
-surveyed separately. Biodiversity peaks in old-growth habitats with
-clean air and structural continuity.
-
-## Aquatic Fungi
-
-Freshwater and marine fungi include species adapted to life in or on
-water. Many produce specialized spore types (Ingoldian conidia with
-tetraradiate or sigmoid shapes) facilitating dispersal in flowing
-water. Detection uses baiting with natural substrates (hemp seeds,
-snake skins, pollen), water filtration, and examination of submerged
-material. Aquatic fungi are important in stream leaf decomposition
-and are sensitive to water pollution.
-
-## Dung and Coprophilous Fungi
-
-Fungi specializing in herbivore dung form a distinctive group with
-characteristic succession. Different species colonize at different
-stages: fresh deposits to well-decomposed material. Survey methods
-include placing dung in moist chambers and observing emergent fruiting
-structures over weeks. The group includes zygomycetes (Pilobolus),
-ascomycetes (Sordaria, Ascobolus), and basidiomycetes (Coprinus).
-
-## Designing Multi-Group Surveys
-
-Comprehensive inventories involve multiple specialist teams, each
-focusing on one or a few operational groups. This creates challenges
-of coordination, timing (different seasonal windows), and integration.
-The Costa Rican National Biodiversity Inventory and Great Smoky
-Mountains ATBI demonstrate that no single project surveys all groups
-equally well. Trade-offs between depth (thorough survey of one group)
-and breadth (partial survey of many) are inevitable.

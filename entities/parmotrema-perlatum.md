@@ -9,9 +9,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Kirk, P.M., Cannon, P.F., Minter, D.W., Stalpers, J.A. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
-  - Nash III, T.H. et al. (2004). "Lichen Biology." 2nd ed. Cambridge University Press.
+  - Nash III, T.H. et al. (2004). "[[fungi-in-the-environment-lichen-biology]]." 2nd ed. Cambridge University Press.
   - Divakar, P.K. et al. (2013). "A molecular perspective on the generic concept in Parmeliaceae." Mycologia, 105(2), 355-368.
 ---
 
@@ -45,7 +45,7 @@ Pycnidia produce colorless, filiform conidia approximately 25–35 μm long.
 
 **Parmotrema perlatum** has a wide distribution across temperate and subtropical regions of both hemispheres.
 
-It occurs throughout Europe, North Africa, temperate Asia, [[polypore-fungi-eastern-north-america]] America, and parts of South America and Australasia.
+It occurs throughout Europe, North Africa, temperate Asia, [[polypore-fungi-eastern-north-america]] America, and parts of [[guzman-psilocybin-mushrooms-south-america]] and Australasia.
 
 The species is most abundant in well-lit, open forests and along forest edges.
 
@@ -88,30 +88,3 @@ The lichen is typically sun-dried, cleaned of debris, and lightly toasted before
 Commercial trade volume is significant, with dried material sourced from forests in central and southern India.
 
 Beyond culinary use, traditional medicine systems have employed *P. perlatum* for treating digestive ailments.
-
-In European folk traditions, the species was historically used as a famine food and as a dye source.
-
-No significant toxicity has been reported from culinary consumption, though the lichen accumulates atmospheric [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
-
-## Ecological Role
-
-**Parmotrema perlatum** serves as a primary food source for several lichen-feeding invertebrates.
-
-Lichenivorous moth larvae, particularly species in the family Geometridae, feed selectively on Parmotrema thalli.
-
-The species provides microhabitat for diverse microbial communities including nitrogen-fixing cyanobacteria on its surface.
-
-It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping airborne particulates and gradually releasing minerals through leaching.
-
-As an epiphytic organism, it does not harm host trees and may provide modest protective benefits.
-
-The species is moderately sensitive to air pollution, particularly sulfur dioxide, and serves as a bioindicator.
-
-Declining populations in urban areas reflect deteriorating air quality conditions.
-
-## See Also
-
-- [[evernia-prunastri]]
-- [[usnea-barbata]]
-- [[hypogymnia-physodes]]
-- [[physcia-aipolia]]

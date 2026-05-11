@@ -12,9 +12,9 @@ type: concept
 
 # Rehabilitation Through Mushroom Cultivation
 
-The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation by people with
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] [[grass-seed-substrate-for-mushroom-cultivation]] by people with
 disabilities introduces a "Three-in-One" training approach that combines
-rehabilitation, mushroom cultivation skills, and enterprise development.
+rehabilitation, mushroom cultivation skills, and [[enterprise-development-mushroom-growers]].
 This integrated model recognizes that effective training for people with
 disabilities must address not only technical skills but also personal
 development and psychological well-being. Trainers must be prepared to
@@ -30,7 +30,7 @@ The first pillar focuses on building mental resilience and confidence:
 - **Achieving self-reliance** - The primary objective is rendering
   disabled rural people economically self-reliant through income
   generation.
-- **Positive thinking** - Motivational sessions teach trainees about
+- **Positive thinking** - [[motivational-sessions-trainees]] teach trainees about
   positive thinking, problem-solving, and setting their own limits rather
   than letting other people determine what they can and cannot do.
 
@@ -80,44 +80,11 @@ For most trainees, the objective is to cultivate mushrooms and sell them
 on the fresh market to generate income. This means buying inoculated bags
 ready for fruiting, which can be sourced from nearby mushroom farms or
 the training center. Some trainees will want to make their own bags and
-sell substrate bags to increase their income, combining cultivation with
-bag production for higher profit.
+sell [[oil-drum-sterilizer-mushroom-substrate-bags]] to increase their income, combining cultivation with
+[[mushroom-cultivation-disabilities-substrate-bag-production]] for higher profit.
 
 ## Mushroom Cultivation as Rehabilitation Tool
 
-The manual identifies specific advantages of mushroom cultivation as a
+The manual identifies specific advantages [[history-of-mushroom-cultivation]] as a
 rehabilitation tool. Cultivation under shade reduces physical exertion
 compared to open-field farming. Repetitive tasks suit people with mental
-disabilities who can learn through practice. The cool [[cannabis-growing-environment-setup]]
-benefits chronically ill or weak individuals. The wide range of
-activities accommodates diverse physical capabilities, from bag
-preparation to harvesting to marketing.
-
-## Enterprise Development Component
-
-The third pillar of training covers practical business skills:
-
-- How to set up a mushroom cultivation enterprise
-- How to make the enterprise profitable
-- Basic bookkeeping and financial record keeping
-- Marketing strategies and sales outlets
-
-Trainers serve as both instructors and mentors, with responsibilities
-spanning training delivery, administrative duties, farm maintenance, and
-post-training follow-up. Close monitoring after training is needed to
-support trainees in their new venture.
-
-## Obligations of Trainers
-
-Trainers bear significant responsibility in the success of the program.
-Key duties include overseeing operations, preparing recruitment, visiting
-pre-selected trainees at home, organizing opening and closing ceremonies,
-arranging visual and hands-on training, showing alternate methods for
-accomplishing each task, giving basic knowledge in marketing and business
-management, and following up with trainees who completed training.
-
-## Related Concepts
-
-- [[selecting-trainees-mushroom-cultivation]]
-- [[training-program-mushroom-cultivation]]
-- [[enterprise-development-mushroom-growers]]

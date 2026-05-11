@@ -1,5 +1,5 @@
 ---
-title: Strain-Dependent Alkaloid Tissue Distribution in Psilocybe cubensis Cap and Stem
+title: Strain Dependent Alkaloid Tissue Distribution Cap Stem Psilocybe Cubensis
 created: 2026-05-09
 tags: [mycology, alkaloid-distribution, psilocybin, psilocin, strain-comparison, cap-stem, tissue-specific]
 date: 2026-05-09
@@ -11,7 +11,7 @@ type: concept
 
 # Strain-Dependent Alkaloid Tissue Distribution in Psilocybe cubensis Cap and Stem
 
-The distribution of psilocybin and psilocin between the cap (pileus) and stem
+The distribution of [[hplc-analysis-of-psilocybin-and-psilocin]] between the cap (pileus) and stem
 (stipe) of Psilocybe cubensis is not uniform and varies significantly between
 strains. Bigwood and Beug's 1982 analysis of first-flush specimens from three
 distinct strains revealed contrasting patterns of alkaloid localization, with
@@ -30,9 +30,9 @@ representing distinct genetic lineages:
    print collected near Pucallpa, Peru in the Amazon basin
 
 All three strains were cultivated on rye-grain substrate and harvested at
-maturity from the first flush, providing controlled conditions for comparison.
+maturity from the first flush, providing [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] for comparison.
 The first-flush restriction ensured that psilocin levels would be minimal in all
-strains, simplifying the analysis of psilocybin distribution.
+strains, simplifying the analysis of [[sandoz-psilocybin-distribution-program]].
 
 ## Psilocybin Distribution Patterns
 
@@ -66,7 +66,7 @@ different metabolic compartmentalization strategies.
 The contrasting distribution patterns between psilocybin and psilocin across
 tissues and strains have several biosynthetic implications. The consistent
 presence of psilocybin in cap tissue across all three strains suggests that the
-cap is a primary site of psilocybin biosynthesis or accumulation. The gill
+cap is a primary site of [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] or accumulation. The gill
 tissues beneath the cap are metabolically active and may contain the enzyme
 systems responsible for tryptamine hydroxylation and phosphorylation.
 
@@ -83,58 +83,8 @@ reflect a different phosphatase expression profile or a different intracellular
 compartmentalization of the relevant enzymes. The fact that all three strains
 showed minimal psilocin in the first flush suggests that the tissue-specific
 distribution patterns observed are superimposed on the general flush-dependent
-delay in psilocin accumulation.
+delay in [[psilocin-accumulation-flushes]].
 
 ## Practical Implications for Dosage Estimation
 
 The strain-dependent variability in tissue alkaloid distribution has important
-consequences for anyone estimating dosage from dried mushroom material. A person
-consuming only caps from an M.R. or Equadorian-type strain would ingest
-approximately 1.6 times more psilocybin per gram than someone consuming only
-stems, but would receive no psilocin. Conversely, consuming only stems from
-these strains would provide less psilocybin but would include the small amount
-of psilocin present.
-
-With the Amazon strain, caps and stems provide equal psilocybin doses, but caps
-contain the trace psilocin while stems do not. These differences, though small
-in absolute terms for the psilocin component, illustrate the complexity of
-predicting dosage from mushroom weight alone. Combined with the four-fold
-variation in total psilocybin across cultures and the ten-fold variation in
-street samples reported by Bigwood and Beug, the tissue distribution variability
-further underscores the unpredictability of ingested alkaloid dose.
-
-## Relevance to Cultivation and Strain Selection
-
-For cultivators seeking to maximize specific alkaloid profiles, the strain-
-dependent tissue distribution data provides useful guidance. Strains that
-concentrate psilocybin in the caps may be preferred when cap-only harvesting
-is practiced, while strains with more uniform distribution make separation of
-tissue types less relevant to dosage consistency.
-
-The presence of any psilocin in first-flush tissue, even at trace levels, may
-indicate a genetic predisposition toward earlier psilocin accumulation. The
-Amazon strain's unique distribution pattern, with psilocin in caps rather than
-stems, might reflect fundamental differences in the regulation of its
-alkaloid metabolic pathway that could be exploited in strain development.
-
-## Methodological Considerations
-
-The Bigwood and Beug tissue distribution data comes exclusively from first-flush
-specimens. It is unknown whether the tissue-specific patterns observed would
-persist in later flushes where psilocin levels are substantially higher. If
-psilocin accumulation in later flushes follows different tissue localization
-patterns than the trace amounts found in first-flush tissue, the strain
-comparisons presented here may not generalize to the full fruiting cycle.
-
-Additionally, the sample sizes were small, with pooled caps and pooled stems
-from each strain providing single data points rather than statistical
-distributions. Replication with larger sample sizes and multiple flush numbers
-would strengthen the conclusions about strain-dependent tissue distribution.
-
-## See Also
-
-- [[alkaloid-distribution-mushroom-caps-stems]]
-- [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
-- [[psilocybe-cubensis-cap-vs-stem-alkaloid-distribution]]
-- [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- [[psilocybin-potency-variation-species-strain-growth-conditions]]

@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, variety selection, disease management, and harvest. (see [[permaculture-passionfruit]]).
+Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, [[coleman-winter-greens-variety-selection]], [[clubroot-disease-management]], and harvest.
 
 ## Vine Training Systems
 
-Training establishes the permanent structure of the grapevine — the framework on which fruit-producing canes or spurs grow each year. (see [[strawberry-growing-guide]]).
+Training establishes the permanent structure of the grapevine — the framework on which fruit-producing canes or spurs grow each year.
 
 ### Kniffen Systems (4-Arm Kniffen)
 - Most common home garden training system
@@ -45,7 +45,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Creates a vertical curtain of foliage
 - Excellent light exposure and air circulation
 - Requires more maintenance but produces premium fruit quality
-- Best for Vitis vinifera and quality wine production
+- Best for [[vitis-vinifera]] and quality wine production
 
 ### Geneva Double Curtain (GDC)
 - Two parallel wires at 5-6 feet, separated by 4 feet
@@ -99,7 +99,7 @@ Proper pruning is the single most important factor in grape quality and producti
 - **Pinot Noir**: Thin-skinned red; needs cool climate, disease-prone
 - **Chardonnay**: White; widely adaptable
 - **Riesling**: White; needs cool climate for best quality
-- **Norton (Cynthiana)**: Native American red wine grape; disease-resistant, excellent wine
+- **Norton (Cynthiana)**: [[halpern-sacramental-peyote-and-native-american-church]] red wine grape; disease-resistant, excellent wine
 - **Marquette**: Cold-hardy hybrid (zone 3); excellent wine quality
 - **Frontenac**: Cold-hardy hybrid (zone 3); robust red wine
 
@@ -131,7 +131,7 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 
 ### Black Rot
 - Small reddish-brown spots on berries that expand and shrivel into black mummies
-- Very common in eastern North America
+- Very common in [[polypore-fungi-eastern-north-america]]
 - Sanitation critical: remove mummified berries from the vine and ground
 - Organic controls: copper sprays, sulfur, lime-sulfur
 - Resistant varieties available

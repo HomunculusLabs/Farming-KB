@@ -1,5 +1,5 @@
 ---
-title: dighton mycorrhizal succession forest ecosystems in Forest Ecosystems
+title: Dighton Mycorrhizal Succession Forest Ecosystems
 created: 2026-04-26
 tags:
   - mycology
@@ -25,7 +25,7 @@ chemical environment of the forest floor during stand development.
 ## The Concept of Mycorrhizal Succession
 
 Fleming et al. (1986) proposed the concept of mycorrhizal succession based on
-observations of concentric bands of different ectomycorrhizal fungal species
+observations of concentric bands of different [[ectomycorrhizal-fungal-ecology]] species
 around the base of birch trees as they aged. The outermost ring consists of
 "early-stage" fungi, whereas those nearer the tree base were classified as
 "late-stage" fungi. This spatial pattern reflects temporal changes in the
@@ -57,13 +57,13 @@ succession (Heal and Dighton, 1986) and over the growth of a forest rotation
 fungi occurring during later stages of forest development benefit from greater
 enzyme competency. In early stages of forest development or young forests,
 litter inputs consist primarily of high resource quality substrates that can
-be readily decomposed without specialized enzymatic capabilities.
+be readily decomposed without specialized [[fungal-enzymatic-capabilities]].
 
 ## Succession on Localized Nutrient Patches
 
-Sagara (1995) identified clear successions of mycorrhizal fungi on localized
+Sagara (1995) identified clear successions [[query-what-are-the-different-types-of-mycorrhizal-fungi]] on localized
 nutrient patches arising from urine, feces, and dead animal bodies in pine
-forests of Japan. Later successions favored Laccaria bicolor and Hebeloma
+forests of Japan. Later successions favored [[laccaria-bicolor]] and Hebeloma
 spp., which have an affinity for high ammonium content in soil. The
 ectomycorrhizal fungus Hebeloma radicosum was documented exploiting
 subterranean mole middens, where it could defend its site of occupancy against
@@ -88,35 +88,3 @@ old (Baar et al., 1999; Jonsson et al., 1999b). However, changes in nutrient
 conditions influenced by fire and altered physical characteristics of the soil
 (increased heating from solar radiation on darkened soil surfaces) may affect
 the relative survival of mycorrhizal species and their physiological function.
-
-## The Read Gradient Model
-
-Read (1991a, b) proposed a model linking mycorrhizal dominance to ecosystem
-conditions along a latitudinal and altitudinal gradient. In cold or
-high-altitude ecosystems with constrained soil development, ericoid
-mycorrhizae dominate. At mid-latitudes and altitudes, ectomycorrhizae
-dominate in coniferous and deciduous forests. At low latitudes and altitudes,
-and in grasslands, arbuscular mycorrhizae dominate. This model connects
-mycorrhizal type to litter resource quality, decomposition rates, and soil pH,
-providing a framework for understanding mycorrhizal succession at the
-ecosystem scale.
-
-## Litter Manipulation Effects on Mycorrhizal Communities
-
-Repeated harvesting of forest floor [[dighton-fungal-decomposition-leaf-litter-dynamics]] in a Swedish spruce forest
-reduced the abundance of ectomycorrhizae on roots but not the number of
-species (Mahmood et al., 1999). In contrast, complete removal of leaf litter
-on Scots pine forest floor in the Netherlands increased the diversity of
-mycorrhizal fungal species, while doubling leaf litter reduced diversity below
-that of control plots (Baar and de Vries, 1995). These results demonstrate
-that the quantity and quality of litter inputs significantly shape
-mycorrhizal community structure during forest development.
-
-## See Also
-
-- [[dighton-fungal-succession-resource-decomposition]]
-- mycorrhizal-succession-primary-secondary
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[decomposition]]
-- [[ectomycorrhiza]]
-- [[laccaria-bicolor]]

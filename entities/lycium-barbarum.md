@@ -29,13 +29,13 @@ sources:
 
 ## Overview
 
-**Lycium barbarum**, commonly known as **goji berry**, **wolfberry**, or **Chinese boxthorn**, is a
+**Lycium barbarum**, commonly known as **[[comparison-goji-berry-vs-aronia-chokeberry]]**, **wolfberry**, or **Chinese boxthorn**, is a
 woody perennial shrub in the family Solanaceae (nightshade family).
 Native to southeastern Europe and southwestern Asia, it has been cultivated for over 2,000 years
 in China for both its edible fruit and its extensive use in traditional Chinese medicine (TCM).
 
 The bright orange-red berries are rich in carotenoids (especially zeaxanthin), polysaccharides,
-and bioactive compounds. Goji berries have gained worldwide popularity as a "superfood" and
+and [[cordyceps-cancer-bioactive-compounds]]. [[query-how-do-i-grow-goji-berries-at-home]] have gained worldwide popularity as a "superfood" and
 functional food ingredient, with growing scientific evidence supporting antioxidant,
 neuroprotective, and immunomodulatory activities.
 
@@ -68,8 +68,8 @@ branches onto collection sheets.
 ## Distribution and Habitat
 
 The species is native to a broad range from southeastern Europe (Balkans) through Turkey, Iran,
-and Central Asia to northwestern China (Ningxia province, the primary production region). It has
-naturalized in many temperate regions worldwide.
+and Central Asia to northwestern China (Ningxia province, the [[lichens-primary-production-soil-formation-dighton]] region). It has
+naturalized in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 It thrives in well-drained, slightly alkaline to neutral soils (pH 6.5–8.0) and tolerates drought,
 saline conditions, and poor soils. It grows in full sun to partial shade and is cold-hardy to
@@ -78,7 +78,7 @@ approximately -15°C (USDA zones 5–9).
 ## Cultivation
 
 Goji berry is relatively easy to grow from seed or hardwood cuttings. Plants begin fruiting in
-their second or third year. Key cultivation parameters:
+their second or third year. Key [[mushroom-species-cultivation-parameters]]:
 
 - **Spacing:** 1–1.5 m apart in rows 2–3 m apart.
 - **Soil:** Well-drained, tolerant of poor and alkaline soils.
@@ -87,47 +87,3 @@ their second or third year. Key cultivation parameters:
 - **Yield:** 1–2 kg of dried berries per mature plant per year.
 - **Harvest:** Berries are delicate and best harvested by shaking; fresh berries are
   perishable and usually dried for storage.
-
-Commercial cultivation is dominated by Ningxia province in China, which produces the majority
-of the world's goji berry supply.
-
-## Bioactive Compounds
-
-The berries contain a diverse array of bioactive constituents:
-
-- **Lycium barbarum polysaccharides (LBPs):** The most studied compounds; 5–8% of dried berry
-  weight. Exhibit immunomodulatory, antioxidant, and neuroprotective activities.
-- **Carotenoids:** Zeaxanthin and its dipalmitate ester are the dominant carotenoids. Zeaxanthin
-  concentration is among the highest of any food source, supporting eye health.
-- **Flavonoids:** Chlorogenic acid, rutin, quercetin, and [[kaempferol|kaempferol]] derivatives.
-- **Vitamins:** High in vitamin C (40–250 mg/100g fresh), vitamin A, and B vitamins.
-- **Other:** Betaine, cerebroside, beta-sitosterol, and various amino acids.
-
-## Pharmacology and Health Effects
-
-Clinical and preclinical studies have investigated several health claims:
-
-- **Antioxidant activity:** LBPs scavenge reactive oxygen species and upregulate endogenous
-  antioxidant enzymes (SOD, catalase, glutathione peroxidase).
-- **Eye health:** Zeaxanthin accumulates in the macula lutea; supplementation may reduce risk
-  of age-related macular degeneration.
-- **Immunomodulation:** LBPs enhance macrophage activity, increase lymphocyte proliferation,
-  and modulate cytokine production.
-- **Neuroprotection:** Studies suggest protective effects against beta-amyloid toxicity and
-  ischemic neuronal damage in animal models.
-- **Glycemic regulation:** Limited evidence for blood sugar modulation in diabetic models.
-
-## Permaculture Applications
-
-Goji berry has several permaculture-relevant qualities. Its deep root system helps control
-erosion on slopes and disturbed sites. As a nitrogen-efficient, drought-tolerant shrub, it
-performs well in dryland [[food-forest|food forest]]s and xeriscaping. It functions as a productive hedge
-or windbreak, providing food, habitat, and ornamental value simultaneously.
-
-## See Also
-
-- [[lycium-chinense]]
-
-- [[schisandra-chinensis]]
-- hippophae-rhamnoides
-- [[moringa-oleifera]]

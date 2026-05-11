@@ -1,15 +1,15 @@
 ---
-title: "mckenna-shamanic-identification-signs-and-training-methods, Training, and the mckenna-shaman-centeredness-and-peripheral-social-role Role"
+title: [[mckenna-shamanic-identification-signs-and-training-methods]] Training [[mckenna-shaman-centeredness-and-peripheral-social-role]] Role
 source: mckenna_t-tryptamines_consciousness.md
-author: Terence McKenna
-topics: [shamanism, training, initiation, indigenous-knowledge, social-structure]
+author: [[terence-mckenna]]
+topics: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]
 ---
 
 # Shamanic Identification, Training, and the Peripheral Social Role
 
 ## Signs of Shamanic Calling in Archaic Societies
 
-Terence McKenna describes the process by which potential shamans are identified in archaic
+[[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] describes the process by which potential shamans are identified in archaic
 societies. In cultures where shamanism is a thriving institution, the signs of shamanic
 vocation are "fairly easy to recognize" and center on what McKenna calls "oddness or
 uniqueness in an individual." These markers of difference serve as indicators that a person
@@ -88,50 +88,3 @@ Shamans are "peripheral to society's goings on in ordinary social life in every 
 word." They are called upon in crisis — illness, death, psychological difficulty, marital
 quarrels, theft, or weather prediction — but otherwise remain apart. This on-call function
 means that the shaman's expertise is activated by necessity rather than routine. The crisis-
-driven nature of shamanic practice ensures that the shaman's skills are directed toward
-genuine need rather than social display.
-
-## The Absence of Shamanic Tradition in Modern Society
-
-McKenna identifies the "tragedy of our cultural situation" as the absence of any living
-shamanic tradition in modern Western societies. He emphasizes that "shamanism is primarily
-techniques, not ritual." It is "a set of techniques that have been worked out over millennia
-that make it possible, though perhaps not for everyone, to explore these areas." The loss of
-these techniques means that modern Westerners who encounter entheogenic plants lack the
-accumulated wisdom of generations of practitioners.
-
-People of predilection are "noticed and encouraged" in shamanic societies, but in modern
-societies they are more likely to be pathologized, medicated, or marginalized. The
-epileptic, the near-death survivor, the unusually sensitive individual — all of whom would
-have been identified as potential shamans in archaic societies — are treated within a
-framework that interprets their experiences as symptoms rather than as signs of capacity.
-
-The shamanic training process, involving years of study under an experienced elder, has no
-direct analogue in modern Western education. While McKenna does not advocate a simple
-transplantation of indigenous shamanic practices, he suggests that the loss of systematic
-methods for navigating nonordinary states of consciousness represents a significant
-impoverishment of human potential.
-
-## Mortality and the Costs of Shamanic Practice
-
-McKenna offers an unsentimental account of the risks involved in shamanic practice. "People
-die in these societies that I'm talking about all the time and for all kinds of reasons."
-Death is "really much more among them than it is in our society." The shamanic path is not
-romanticized as a safe or comfortable vocation. Those with epilepsy who do not die are
-brought to the attention of the shaman and trained, but the selection process itself is
-brutal — many do not survive.
-
-This mortality context is essential to understanding the shamanic vocation. The high stakes
-of shamanic practice — the real possibility of death during training or during work with
-powerful plants — lend authenticity and gravity to the enterprise. McKenna's [[pihkal-cautionary-note-and-legal-context]]
-about experimenting with hallucinogenic plants must be read in this context: in indigenous
-societies, the risks are mitigated by centuries of accumulated knowledge about dosage,
-preparation, contraindications, and integration. Modern experimenters lack this knowledge
-base and face the risks essentially unsupported.
-
-## See Also
-
-- [[mckenna-shaman-centeredness-and-peripheral-social-role]]
-- [[mckenna-shamanic-identification-signs-and-training-methods]]
-- [[mckenna-dmt-experience-and-hyperspace]]
-- [[metzner-shamanic-healing-three-forms-extraction-soul-retrieval-dismemberment]]

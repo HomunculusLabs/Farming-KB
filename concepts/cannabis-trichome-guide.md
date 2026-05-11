@@ -9,16 +9,16 @@ sources: []
 
 # Cannabis Trichome Guide
 
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality. (see [[cannabis-glandular-trichome-types-resin-production-clarke]]).
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the [[lichens-primary-production-soil-formation-dighton]] sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality.
 
 ## What Are Trichomes?
 
-Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds. (see [[cannabis-resin-production-and-quality-traits-clarke]]).
+Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds.
 
 Functions in nature:
 - Chemical defense against herbivores (bitter, intoxicating resin deters grazing)
 - UV protection (resin filters harmful radiation at high altitudes)
-- Temperature regulation
+- [[blesching-cannabis-fever-temperature-regulation]]
 - Wind reduction at the flower surface
 - Insect trapping (sticky resin catches small pests)
 
@@ -39,7 +39,7 @@ Functions in nature:
 - More abundant than bulbous, found primarily on leaves and bracts
 - Consist of a stalk and a slightly larger head (not raised above the surface)
 - Begin producing cannabinoids during early flowering
-- Intermediate stage in trichome development
+- Intermediate stage in [[trichome-development-and-morphology]]
 
 ### Capitate-Stalked Trichomes
 
@@ -144,7 +144,6 @@ Proper nutrition throughout flowering supports maximum trichome production. Phos
 
 ### Growing Medium
 
-Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
+Living soil systems with diverse microbiology tend to produce more complex [[cannabis-terpene-profiles]] in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
 
 ## Post-Harvest Trichome Preservation
-

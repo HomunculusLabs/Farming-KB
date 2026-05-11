@@ -8,14 +8,14 @@ tags:
   - malvaceae
   - medicinal-plants
   - culinary-herbs
-  - permaculture
+  - [[permaculture]]
   - tropical-agriculture
   - beverage-crop
   - herbal-tea
   - anthocyanins
   - antioxidant
   - antihypertensive
-  - agroforestry
+  - [[agroforestry]]
   - nitrogen-fixation
 sources:
   - Morton, J.F. (1987). "Roselle." In: Fruits of Warm Climates. Julia F. Morton, Miami, FL.
@@ -69,7 +69,7 @@ type, shorter, with red stems and enlarged fleshy calyces).
 
 ## Distribution and Cultivation
 
-*H. sabdariffa* thrives in tropical and subtropical climates between 20°N and
+*H. sabdariffa* thrives in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] between 20°N and
 20°S, at elevations up to 1,500 m. It requires 4–8 months of warm growing
 conditions with annual rainfall of 600–1,500 mm.
 
@@ -88,62 +88,3 @@ types, stems are harvested at full flowering for bast fiber extraction.
 ## Bioactive Compounds and Pharmacology
 
 The calyces are exceptionally rich in anthocyanins, primarily cyanidin-3-
-O-sambubioside and delphinidin-3-O-sambubioside, which account for the red
-pigmentation and contribute significantly to antioxidant capacity.
-
-Other constituents include organic acids (hibiscus acid, hydroxycitric acid,
-protocatechuic acid, citric acid), flavonoids ([[kaempferol]],
-myricetin derivatives), polysaccharides, and mucilage.
-
-The most well-documented pharmacological effect is antihypertensive activity.
-Multiple randomized controlled trials have demonstrated that hibiscus tea
-consumption (2–3 cups daily) reduces systolic blood pressure by 7–13 mmHg in
-pre-hypertensive and mildly hypertensive adults.
-
-Antioxidant activity is primarily attributed to anthocyanin content, with ORAC
-values comparable to or exceeding those of blueberries and pomegranate.
-Hepatoprotective and lipid-lowering effects have been demonstrated in animal
-models.
-
-Mild diuretic effects and potential antimicrobial activity against *E. coli*
-and *S. aureus* have been reported. The plant also shows anti-inflammatory
-activity through inhibition of COX-2 and TNF-α pathways.
-
-## Culinary and Nutritional Uses
-
-The primary culinary use is the preparation of hibiscus tea (agaroba, karkadé,
-roselle drink), made by steeping dried calyces in hot or cold water. The
-beverage is consumed hot or iced throughout the Middle East, Africa, Latin
-America, and Asia.
-
-Calyces are used in jams, jellies, syrups, sauces, chutneys, and as a
-natural food coloring agent. In Caribbean cuisine, they are used in sorrel
-drinks for Christmas celebrations. In West Africa, the leaves are consumed as
-a vegetable similar to spinach.
-
-Nutritionally, dried calyces contain approximately 9 g protein, 12 g dietary
-fiber, and 280 mg vitamin C per 100 g dry weight. They are low in calories
-and contain notable amounts of calcium, iron, and magnesium.
-
-## [[agroforestry]] Applications
-
-In [[chop-and-drop]] mulch material with a favorable C:N ratio of
-approximately 20:1.
-
-It functions as a temporary hedge or windbreak in annual cropping systems. The
-dense foliage provides partial shade for understory crops during the hottest
-part of the [[savory-growing-season-and-non-growing-season-management]]. Calyx and leaf harvest creates a yield-producing
-[[comparison-living-mulch-vs-cover-crops]] system.
-
-In agroforestry, roselle can be intercropped with [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], cassava, or
-vegetable crops. It acts as a nurse crop, protecting young tree seedlings from
-excessive sun and wind while generating income from calyx sales.
-
-Seeds contain 18–22% oil rich in linoleic acid (38–44%) and oleic acid
-(20–28%), with potential for soap-making and biodiesel. The pressed seed cake
-is a nutritious animal feed supplement.
-## See Also
-
-- [[hibiscus-cannabinus]]
-
-- [[medicinal-herbs-for-livestock]]

@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Critique of the Inductive and Deductive Methods
 From "The Natural Way of Farming" by Masanobu Fukuoka, Chapter 1 of "The Theory
@@ -87,54 +88,3 @@ their practices to maintain [[fukuoka-ecological-balance-principles]], rather th
 facts and hoping they add up to a functional system. The milpa system of
 Mesoamerica, the rice-fish-duck-integration of Southeast Asia, and the
 Amazonian dark earth practices all reflect deductive reasoning:
-starting from an understanding of what a healthy ecosystem looks like and working
-backward to maintain it. Fukuoka's emphasis on intuition and direct observation
-rather than abstract scientific reasoning places his philosophy closer to these
-traditional knowledge systems than to modern agricultural science, even though he
-arrived at his conclusions independently through decades of experimentation on his
-own farm.
-## Implications for Modern Agricultural Research
-Fukuoka's critique remains relevant as modern agricultural research increasingly
-relies on molecular biology, genomics, and data-intensive approaches that are
-even more reductionist than the methods he criticized. CRISPR gene editing, for
-example, can precisely modify individual genes but cannot predict or control the
-cascading effects of those modifications within complex ecosystems. The same
-fragmented logic that Fukuoka identified — improve one variable at a time and
-hope the improvements compound — pervades contemporary agricultural
-biotechnology. His argument suggests that genuine agricultural breakthroughs
-require a shift from parts-focused to systems-focused research: studying farms as
-whole ecosystems rather than studying individual components in isolation.
-Agroecology, as a research paradigm, represents one modern attempt to bridge this
-gap, using systems thinking to understand the interactions between soil biology,
-plant communities, pest dynamics, and management practices simultaneously.
-## Key Points
-1. Central to Fukuoka's critique is the idea that nature already possesses
-   perfect wisdom and human intervention often disrupts natural balance.
-2. Fukuoka's approach emphasizes observation over action — understanding natural
-   patterns before making any changes to the landscape.
-3. The principle of 'doing nothing' (mu) means eliminating unnecessary human
-   labor, not abandoning the land entirely.
-4. Natural farming seeks to create conditions where crops, weeds, insects, and
-   microorganisms coexist in a self-regulating ecosystem.
-5. Soil health is the foundation — building rich, living soil through natural
-   mulching and decomposition rather than imported fertilizers.
-6. Seed balls (tsuchi dango) allow natural dispersal and germination without
-   tilling or transplanting.
-7. The interplay between ground cover plants, crops, and trees creates a
-   multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in
-   ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional
-   methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship
-    between humans and the natural world.
-## See Also
-[[fukuoka-errors-human-intellect]],
-[[fukuoka-critique-laws-agricultural-science]],
-[[natural-farming-philosophy]],
-[[one-straw-revolution-guide]],
-[[fukuoka-four-principles-natural-farming]],
-[[fukuoka-no-fertilizer-principle]],
-[[fukuoka-natural-rice-farming-steps]],
-[[natural-farming-seed-balls]],
-[[clay-seed-balls-tsuchi-dango]], agroecology

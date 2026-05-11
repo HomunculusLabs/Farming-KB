@@ -1,8 +1,9 @@
 ---
-title: Root Rot - Cannabis Disease Guide
+title: Root Rot Cannabis
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -26,7 +27,7 @@ Above-ground symptoms include:
 - Leaf chlorosis (yellowing) beginning with older leaves and progressing upward
 - Wilting across the entire plant, even when soil or solution appears adequately moist
 - Slowed growth — foliage is very slow to grow when roots are rotten
-- Overall loss of plant vigor and reduced turgor pressure
+- Overall loss of plant vigor and reduced [[bloomfield-turgor-pressure-and-hyphal-invasion]]
 - Nutrient [[knf-calcium-deficiency-symptoms]] appearing despite adequate [[ph-and-nutrient-availability-garden-soils]]
 - Stems may become soft or discolored near the soil line in severe cases
 
@@ -41,9 +42,9 @@ Root rot fungi are most prevalent when:
 - Soil pests (fungus gnats, nematodes) cut, suck, and chew roots, creating openings for rotting diseases
 - Growing medium is not sterile — used potting soil may harbor harmful root rot fungi that have developed immunity to sprays
 - Calcium levels are inadequate, weakening cell walls and making tissue more susceptible
-- pH is too low, impairing root function and nutrient uptake
+- pH is too low, impairing root function [[root-anatomy-structure-and-nutrient-uptake]]
 - Nitrogen overfertilization weakens root health and makes tissue more susceptible
-- Nutrient solution temperature is too high, reducing dissolved oxygen available to roots
+- [[cannabis-nutrient-solution-preparation]] temperature is too high, reducing [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] available to roots
 - Containers lack adequate drainage, allowing water to pool around roots
 
 ## Damage Symptoms
@@ -51,7 +52,7 @@ Root rot fungi are most prevalent when:
 Root rot causes both direct and indirect damage to cannabis plants:
 
 - **Direct root damage**: Progressive browning and decay of the root system, starting with fine root hairs and advancing to larger roots
-- **Nutrient uptake failure**: As roots die, the plant cannot absorb water or nutrients, leading to wilting and deficiency symptoms
+- **Nutrient uptake failure**: As roots die, the plant cannot absorb water or nutrients, leading to wilting and [[knf-phosphoric-acid-deficiency-symptoms]]
 - **Vulnerability to secondary infection**: Damaged roots are entry points for additional pathogens including Fusarium and Pythium
 - **Growth arrest**: Without functional roots, plants cannot support new growth; the entire plant stagnates
 - **Plant death**: In advanced cases, root rot is fatal as the plant cannot maintain basic metabolic functions
@@ -87,60 +88,3 @@ Several commercial biological products are effective against root rot:
 ## Chemical Controls
 
 - **Sprays are NOT effective against root rot** — treatment must be applied directly to the root zone
-- **H2O2 ([[cervantes-hydrogen-peroxide-sterilization]])**: Can be added to nutrient solution to temporarily increase oxygen and kill some pathogens, but this is a temporary measure that does not address the underlying cause
-- **Systemic fungicides**: Some are available for root drench application, but many are not recommended for consumable crops
-- The best defense is prevention through proper cultural practices rather than chemical treatment
-- Used potting soil may harbor harmful root rot fungi that have developed immunity to sprays
-
-## Related Conditions
-
-### Pythium Wilt/Rot
-
-Pythium is a common cause of damping-off and root rot in cannabis. It prevents newly sprouted seeds from emerging and attacks seedlings, causing them to rot at the soil line. It occasionally attacks [[cannabis-cloning-rooting-cuttings-method-clarke]] as well. Once initiated, damping-off is fatal. At the onset, the stem loses girth at the soil line, weakens, grows dark, and finally fluid circulation is cut, killing the seedling or cutting. It is caused by different fungal species, including Pythium, Botrytis, and Fusarium.
-
-### Fusarium Wilt
-
-Fusarium causes the center of the stem to turn reddish-brown in color and can cause wilting and vascular discoloration. Fusarium wilt blocks the vascular system of the plant, preventing water and nutrient transport. It is particularly problematic because it persists in soil and growing media for long periods, making crop rotation essential in [[singh-fungal-biofilms-in-contaminated-environments]].
-
-## Resistant Varieties and Genetic Factors
-
-Some cannabis varieties show greater tolerance to root rot conditions, though true genetic resistance to root rot fungi is limited. Factors that influence susceptibility include:
-
-- Vigorous root systems that develop quickly may outpace initial infection
-- Indica-dominant varieties with robust root architecture tend to be more resilient
-- Plants grown from seed generally develop stronger root systems than clones
-- Healthy plants with balanced nutrition are better able to resist and recover from root rot
-- Breeding programs selecting for root health and disease resistance can produce more tolerant lines
-
-## Hydroponic-Specific Considerations
-
-Root rot is particularly dangerous in hydroponic systems due to the shared water environment:
-
-- In recirculating systems, pathogens can spread from one plant to all plants rapidly
-- Check roots during every reservoir change for early signs of discoloration
-- Maintain adequate dissolved oxygen levels with air stones or water pumps
-- Clean and sterilize all system components between crops
-- Consider adding beneficial bacteria products to the reservoir to outcompete pathogens
-- Monitor root zone temperature closely, especially in summer months
-- Ensure nutrient solution is well-aerated and circulating at all times
-
-## Important Notes
-
-- Sprays are NOT effective against root rot — treatment must be applied to the root zone
-- The best defense is prevention through proper cultural practices
-- Root damage is often severe by the time above-ground symptoms are noticed
-- Rotten roots have been soaking in stagnant nutrient solution
-- Used potting soil may harbor harmful root rot fungi that have developed immunity to sprays
-- Root rot is most common when roots are deprived of oxygen — aeration is critical
-- Regular root inspection during maintenance tasks is the best way to catch problems early
-- Once root rot takes hold, recovery is difficult and the plant may never fully regain its vigor
-
-## See Also
-
-- [[cannabis-root-rot-prevention-and-treatment]]
-
-- [Bud Rot (Botrytis) — fungal disease affecting buds and stems
-- [Fungus Gnats — root-feeding pests that create entry wounds
-- [Powdery Mildew — common concurrent fungal problem
-- cannabis pest management — comprehensive IPM overview
-- [[nutrient-movement-through-soil-to-plant-roots]]

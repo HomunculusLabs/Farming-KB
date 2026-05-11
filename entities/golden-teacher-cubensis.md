@@ -5,7 +5,8 @@ type: strain
 tags: [cannabis-strains, psilocybin-cubensis, cultivation, entheogen, beginner-friendly, microscopy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
@@ -86,33 +87,3 @@ For long-term preservation, spore syringes can be frozen at -20°C in a glycerol
 The spore print color is dark purplish-brown to nearly black, which is consistent with the *Psilocybe*/*Stropharia* complex.
 Microscopically, spores are ellipsoid to subellipsoid, thick-walled, with a distinct germ pore, and measure (11.5–)13–17.5(–19) × (7.5–)8.5–12(–13) μm.
 Basidia are typically 4-spored, though 2-spored basidia have been occasionally reported, which may contribute to genetic stability in some lineages.
-
-## Cultural Significance
-
-Golden Teacher occupies a unique position in the contemporary psychedelic renaissance as the most widely recognized and culturally acc  mushroom strain.
-Its association with gentle, insight-oriented experiences has made it a default recommendation in harm-reduction contexts, online communities, and introductory guides to [[archaeology-of-psychedelic-mushroom-use]] use.
-The strain has been referenced in popular media, documentary films, and academic literature on psychedelic culture, often serving as a representative example of the *P. cubensis* species.
-Its name has entered the popular lexicon to the extent that "Golden Teacher" is often used generica psilocybin mushrooms ocybin mushrooms by individuals unfamiliar with the broader diversity of psilocybin-containing species and strains.
-In the emerging commercial psychedelic therapy sector, Golden Teacher genetics have been used in several research and compassionate-use programs, though the genetic variability of commercially available Golden Teacher spore stock has led some researchers to prefer more genetically characterized strains for clinical applications.
-
-## Related Strains
-
-- **B+ (Big Beautiful)**: Another popular beginner-friendly *P. cubensis* strain with larger fruits and similar moderate potency. Known for its resilience and ability to fruit under suboptimal conditions.
-- **Ecuador**: A robust, cold-tolerant strain known for dense clusters and reliable fruiting. Originally collected from high-altitude Ecuadorian pastures.
-- **Amazonian**: A high-yielding strain from the Amazon basin with reportedly more visual effects and faster colonization speed.
-- **Penis Envy**: A notably potent mutant strain with distinctive morphology and significantly higher tryptamine content, often 1.5–3× the potency of standard *P. cubensis* strains.
-- **Thai Koh Samui**: A Southeast Asian strain known for rapid fruiting and compact stature, with a reportedly more energetic experience profile.
-- **Costa Rican**: A Central American strain with a reputation for consistent yields and a balanced effects profile similar to Golden Teacher.
-
-## Legal Status
-
-The legal status of Golden Teacher — like all *Psilocybe cubensis* strains — varies by jurisdiction.
-In most countries, the cultivation, possession, and sale of psilocybin-containing mushrooms is illegal under controlled substances legislation.
-However, several jurisdictions have moved toward decriminalization or regulated access in recent years, including the Netherlands (where fresh "magic truffles" — sclerotia of *P. cubensis* and related species — are legally sold), Brazil (where the mushrooms are not specifically scheduled), and several U.S. cities and states that have deprioritized enforcement against psilocybin-containing fungi.
-Spores of *P. cubensis*, including Golden Teacher, are legal to possess and sell in most U.S. states and many other jurisdictions, as the spores themselves do not contain psilocybin or psilocin.
-
-## See Also
-
-- [[psilocybe-cubensis]]
-- [[mushroom-cultivation-basics]]
-- [[golden-teacher-psilocybe-cubensis]]

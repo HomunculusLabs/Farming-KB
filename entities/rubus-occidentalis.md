@@ -10,8 +10,9 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - Finn CE et al. (2008). "Black raspberry." In: Horticultural Reviews 34. Wiley.
-  - Dossett M et al. (2010). "Genetic diversity in wild and cultivated black raspberry." J. Amer. Soc. Hort. Sci.
+  - Dossett M et al. (2010). "[[biodiversity-fungal-genetic-diversity]] in wild and cultivated black raspberry." J. Amer. Soc. Hort. Sci.
   - USDA NRCS (2024). "Rubus occidentalis L." PLANTS Database.
   - Otto K et al. (2014). "Health benefits of black raspberry." Adv. Nutr.
 ---
@@ -55,7 +56,7 @@ the receptacle at harvest, leaving a hollow center.
 
 ## Distribution and Habitat
 
-Black raspberry is native to eastern North America, ranging from
+Black raspberry is native to eastern [[guzman-psilocybin-mushrooms-north-america]], ranging from
 Quebec and Ontario south to Georgia and west to the Dakotas and
 Colorado.
 
@@ -87,48 +88,3 @@ more susceptible to [[cervantes-viral-diseases-cannabis]] than red raspberry, pa
 black raspberry necrosis virus and tobacco ringspot virus.
 
 Key pests include the raspberry fruitworm (*Byturus unicolor*),
-spotted wing drosophila (*Drosophila suzukii*), and two-spotted spider
-mite (*Tetranychus urticae*).
-
-## Nutritional Value and Chemistry
-
-Black raspberries are exceptionally rich in anthocyanins, with total
-content ranging from 300–650 mg per 100 g fresh weight. The dominant
-anthocyanin is cyanidin 3-rutinoside (also called cyanidin 3-rutinoside
-or keracyanin).
-
-The berries also contain ellagitannins, particularly sanguiin H-6,
-which has demonstrated anti-proliferative activity in laboratory
-studies.
-
-Vitamin C content is approximately 20–30 mg per 100 g. The fruit
-provides dietary fiber (5–6 g per 100 g), manganese, and folate.
-
-Total antioxidant capacity of black raspberries ranks among the
-highest of commonly consumed fruits, exceeding that of blueberries,
-strawberries, and red raspberries in most assays.
-
-## Culinary Use
-
-Black raspberries are used fresh, frozen, and in processed products.
-Their intense flavor and dark pigment make them popular for jams,
-jellies, syrups, and baked goods.
-
-The fruit is also processed into purees for use in beverages, yogurt,
-and ice cream. Freeze-dried black raspberry powder is marketed as a
-nutraceutical supplement.
-
-In [[growing-gourmet-north-american-reishi-species]] cuisine, black raspberry pie is a traditional
-dessert, particularly in regions where the species grows wild. The
-berries pair well with dark chocolate and vanilla flavors.
-
-Due to their softer texture compared to red raspberries, black
-raspberries have a shorter [[psilocybin-shelf-life-stability]] and are less commonly sold fresh
-in commercial markets.
-
-## See Also
-
-- rubus idaeus
-- [[vaccinium-macrocarpon]]
-- [[morus-nigra]]
-- [[quercetin]]

@@ -1,5 +1,5 @@
 ---
-title: Evaporative Demand Hypothesis for [[mushroom-tropisms]]
+title: Evaporative Demand Hypothesis Mushroom Growth
 category: mycology
 tags: [evaporative-demand, tropism-mechanism, mushroom-physiology, boundary-layer, mycology]
 created: 2026-05-09
@@ -88,61 +88,3 @@ This hierarchy explains why different researchers have reported different
 tropic responses under different experimental conditions — the dominant
 factor depends on the specific combination and intensity of environmental
 variables.
-
-## Boundary Layer Physics
-
-The boundary layer is the thin layer of relatively still air adjacent to
-the stipe surface. Within this layer, water vapor concentration is highest
-right at the surface and decreases toward the bulk air. The thickness of
-the boundary layer depends on:
-
-- **Wind speed**: Higher wind speed → thinner boundary layer → more
-  evaporation
-- **Surface geometry**: Rough or irregular surfaces create turbulent
-  boundary layers with complex local variation
-- **Surface orientation**: The windward side of a cylindrical object in
-  airflow has a thinner boundary layer than the leeward side
-
-In the context of mushroom growth, the boundary layer redistribution caused
-by wind creates a systematic asymmetry: the windward side always has higher
-evaporative demand than the leeward side, regardless of wind direction.
-
-## Analogy with Phycomyces
-
-The evaporative demand hypothesis draws support from studies of
-*Phycomyces blakesleeanus*, a zygomycete fungus that shows both
-anemotropism and an avoidance response (bending away from objects):
-
-- **Johnson and Gamow (1971)** demonstrated that both wind and water vapor
-  are necessary for the *Phycomyces* avoidance response
-- **Cohen et al. (1975)** described the anemotropic response in
-  *Phycomyces* in detail
-- The mechanism in *Psilocybe* may be fundamentally similar — cells on the
-  stipe surface detect local evaporative conditions and adjust their
-  elongation accordingly
-
-## Testable Predictions
-
-The evaporative demand hypothesis makes several testable predictions:
-
-1. Manipulating boundary layer thickness without changing wind direction
-  should alter tropic response magnitude
-2. Humidity gradients across a stipe in still air should induce curvature
-  toward the drier side
-3. Localized heating of one side of the stipe should produce curvature
-  similar to directed light
-4. Species with different stipe surface textures should show different
-  sensitivities to wind-driven evaporative demand
-
-## Limitations
-
-The evaporative demand hypothesis does not fully explain:
-
-- The precise cellular mechanism by which differential evaporation is
-  sensed and transduced into differential cell elongation
-- Why sporeless mutants lack the geotropic response if evaporative demand
-  gradients are still present
-- The role of hormones produced in the gills that can override the
-  evaporative demand response
-- Why some mushroom species show stronger or weaker tropic responses than
-  others despite similar environmental conditions

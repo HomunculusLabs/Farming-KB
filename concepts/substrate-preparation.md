@@ -88,14 +88,3 @@ entry.
 ## Contamination Prevention
 
 The most common contaminants in substrate preparation are Trichoderma (green
-mold), Aspergillus species, and [[growing-gourmet-bacterial-blotch-disease-management]]. Prevention focuses on
-clean materials, proper heat treatment, good hygiene during handling, and
-appropriate spawn rates. A spawn rate of 10-20% by volume provides the
-mycelium with enough momentum to colonize the substrate before contaminants
-can establish.
-
-## See Also
-
-- fruiting-chamber-design
-- [[mycelial-colonization]]
-- [[mycelium]]

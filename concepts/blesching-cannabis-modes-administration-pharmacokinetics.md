@@ -87,24 +87,3 @@ Effective cannabis therapeutics requires careful attention to dosing, which vari
 
 ### Titration Protocol
 The standard approach across all routes is "start low, go slow." Begin with the smallest possible dose and increase gradually while monitoring effects. For inhaled routes, effects are apparent within minutes, making titration relatively straightforward. For oral routes, the delayed onset (45-90 minutes or longer) necessitates patience — additional doses should not be taken until the full effect of the initial dose is felt, typically after 2 hours.
-
-### Microdosing
-Some patients and clinicians advocate for microdosing — consuming sub-threshold amounts of cannabis that do not produce noticeable psychoactive effects but may still provide therapeutic benefits. This approach is particularly relevant for conditions where patients wish to remain fully functional, such as during work hours or while managing chronic conditions that require sustained treatment throughout the day.
-
-### Product Standardization Challenges
-A major challenge in cannabis therapeutics is the lack of standardization across products. Two batches of the same strain from the same grower may have significantly different cannabinoid and [[cannabis-terpene-profiles-sativa]]. This variability means that patients must recalibrate their dose with each new supply, particularly with whole-plant products. Laboratory testing certificates of analysis (COAs) can help guide dosing decisions when available.
-
-## Terpene Considerations by Administration Route
-
-Terpenes — the aromatic compounds responsible for cannabis's distinctive smell — contribute therapeutically through the entourage effect and also influence the pharmacokinetic profile. Myrcene, the most common cannabis terpene, is thought to increase cell membrane permeability, potentially enhancing cannabinoid absorption. Limonene may affect the rate of gastric emptying, influencing oral absorption kinetics. Linalool, with sedative properties, may modify the subjective experience of inhaled cannabis.
-
-Inhalation preserves the volatile terpene profile most effectively, as terpenes evaporate at lower temperatures than cannabinoids and can be lost during cooking or extraction. Edible preparation methods that involve prolonged heating (such as making cannabutter) may significantly degrade the terpene content of the starting material. Cold-process extraction methods (ice water hash, rosin pressing) preserve terpenes better than solvent-based methods that require purging at high temperatures.
-
-## Drug Interactions and Contraindications
-
-Cannabinoids interact with the [[endocannabinoid-system-overview]]
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-
-## See Also
-
-- [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]]

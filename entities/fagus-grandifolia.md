@@ -34,7 +34,7 @@ The species is ecologically significant as a mast producer, though its populatio
 
 American beech is one of only two species in the genus *Fagus* native to the Americas, the other being the much more restricted Mexican beech (*F. mexicana*).
 
-It is closely related to European beech (*Fagus sylvatica*), and some authorities have historically treated American beech as a subspecies or variety of the European species.
+It is closely related to European beech (*[[fagus-sylvatica]]*), and some authorities have historically treated American beech as a subspecies or variety of the European species.
 
 **Bark:** Thin, smooth, and silvery-gray throughout the life of the tree, a characteristic that distinguishes it from virtually all other eastern hardwoods.
 
@@ -62,9 +62,9 @@ It is a classic late-successional species, dominating sites that have escaped ma
 
 ## Beech Bark Disease
 
-Beech bark disease is a complex disease syndrome caused by the interaction of the introduced beech scale insect (*Cryptococcus fagisuga*) and native fungi, primarily *Neonectria ditissima* and *N. faginata*.
+Beech bark disease is a complex disease syndrome caused by the interaction of the introduced beech [[cervantes-mealybugs-scale-insect-control]] (*Cryptococcus fagisuga*) and native fungi, primarily *Neonectria ditissima* and *N. faginata*.
 
-The beech scale, accidentally introduced from Europe around 1890, feeds on bark sap and creates wounds that allow entry of the *Neonectria* fungi, which cause cankering and wood decay.
+The beech scale, accidentally introduced from Europe around 1890, feeds on bark sap and creates wounds that allow entry of the *Neonectria* fungi, which cause cankering and [[bloomfield-wood-decay-fungi-spalted-timber]].
 
 The disease has killed or severely damaged millions of American beech trees across the northeastern [[dmt-containing-plants-united-states-halpern]] and Maritime Canada since the 1930s.
 
@@ -80,37 +80,10 @@ Beechnut production follows a distinct masting pattern, with heavy seed crops oc
 
 The dense shade cast by American beech strongly influences understory plant communities, often suppressing herbaceous diversity and favoring shade-tolerant species.
 
-This dense canopy also creates a cool, moist microclimate on the forest floor that benefits moisture-dependent organisms including amphibians and certain fern species.
+This dense canopy also creates a cool, moist microclimate on the [[fungal-ecology-forest-floor]] that benefits moisture-dependent organisms including amphibians and certain fern species.
 
-Beech leaf litter is slow to decompose, contributing to thick duff layers that influence soil development and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] over long time scales.
+Beech [[dighton-fungal-decomposition-leaf-litter-dynamics]] is slow to decompose, contributing to thick duff layers that influence soil development and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] over long time scales.
 
 ## Timber and Uses
 
 American beech lumber is used for flooring, furniture, pallets, crates, and turned products, though it is less commercially significant than oak or maple.
-
-The wood steam-bends exceptionally well and has historically been used for barrel staves, tool handles, and sporting goods such as wooden bats.
-
-Beech wood is also valued for firewood, producing 27.5 million BTU per cord with high heat output and moderate smoke.
-
-## Cultivation
-
-American beech is challenging to transplant due to its coarse, sensitive root system and poor root regeneration after disturbance.
-
-Container-grown stock is strongly preferred over bare-root seedlings, with planting in early spring before bud break giving the best establishment results.
-
-Growth is slow, with trees typically reaching 18–24 m in height at maturity. Maximum recorded age is approximately 300–400 years on exceptional sites.
-
-The species reproduces primarily by seed, though root sprouting can occur in response to injury or canopy disturbance.
-
-Beechnuts require cold stratification of 90 days or more for reliable germination, and seed viability declines rapidly after the first year of storage.
-
-In landscaping, American beech is valued for its distinctive bark and golden fall color, though its slow growth and disease susceptibility limit widespread use.
-
-## See Also
-
-- [[quercus-alba]]
-- [[quercus-robur]]
-- [[ulmus-rubra]]
-- [[castanea-sativa]]
-- [[populus-tremuloides]]
-- [[pinus-sylvestris]]

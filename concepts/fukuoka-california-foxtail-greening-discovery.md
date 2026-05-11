@@ -1,7 +1,7 @@
 ---
-title: Fukuoka fukuoka california foxtail greening discovery Grass Greening Discovery
+title: Fukuoka California Foxtail Greening Discovery
 created: 2026-04-28
-tags: [fukuoka, california, desert-greening, pasture-management, grasses, ecology]
+tags: [fukuoka, california, desert-greening, [[pasture-management]], grasses, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka's California Foxtail Grass Greening Discovery
 
-During his 1979 visit to California, Masanobu Fukuoka made a pivotal
+During his 1979 visit to California, [[masanobu-fukuoka]] made a pivotal
 discovery about summer-dormant grasses that would shape his approach to
 [[fukuoka-desert-greening-plant-irrigation]] and vegetation restoration. The insight came while
 working with young people at a commune in the Upper Lake hills, where
@@ -88,39 +88,3 @@ in American trees, suggesting a transcontinental environmental crisis.
 ## Implications for Desert Greening
 
 The foxtail grass discovery had far-reaching implications for Fukuoka's
-desert greening philosophy. If summer-dormant grasses in California
-could be awakened, similar principles might apply to other seemingly
-barren landscapes [[fungi-around-the-world-species-distribution]]. The approach would emphasize:
-
-1. Understanding the existing ecology rather than imposing a new one
-2. Working with dormant vegetation and [[cannabis-seed-banks-and-genetics]] already present
-3. Using natural succession processes to restore vegetation
-4. Recognizing that apparent barrenness may mask latent biological
-   potential
-
-## The Role of Young People
-
-Fukuoka consistently emphasized the importance of young people in
-carrying forward the natural farming movement. The commune at Upper
-Lake, with its international group of more than twenty young people
-from several countries, represented the kind of grassroots effort that
-gave him hope for the future. Their willingness to try new approaches
-and their openness to natural principles contrasted sharply with the
-institutional resistance he encountered from agricultural researchers
-and government agencies.
-
-## From Observation to Action
-
-The foxtail grass story illustrates Fukuoka's method: careful
-observation of natural phenomena leading to practical insight, which
-then translates into immediate action. He did not spend years in a
-laboratory studying the dormancy mechanisms of foxtail grass. Instead,
-he observed the grass in its natural setting, understood its behavior,
-and immediately began working with it. This direct, experiential
-approach to knowledge was central to his philosophy.
-
-## See Also
-
-- [[fukuoka-desert-revegetation-natural-farming]]
-- [[fukuoka-america-revisited-agricultural-revolution]]
-- [[fukuoka-gibberellin-discovery-period]]

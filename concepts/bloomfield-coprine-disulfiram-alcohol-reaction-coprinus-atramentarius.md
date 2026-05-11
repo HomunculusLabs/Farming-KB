@@ -2,7 +2,7 @@
 title: Coprine, Disulfiram, and the bloomfield coprine disulfiram alcohol reaction coprinus atramentarius of Coprinus atramentarius
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - mycotoxicology
   - coprine
   - disulfiram
@@ -29,13 +29,13 @@ of acetaldehyde, an intermediate product of ethanol breakdown,
 causing it to accumulate to toxic levels. The resulting syndrome
 is clinically identical to the disulfiram-ethanol reaction produced
 by Antabuse, used for decades to treat alcoholism. As with the
-toxins of Amanita species, [[medicinal-mushroom-compounds-and-health-benefits]] like coprine were
+toxins of [[amanita]] species, [[medicinal-mushroom-compounds-and-health-benefits]] like coprine were
 not designed for human use, and we have no idea what service, if
 any, they perform for the fungus.
 
 ## The Inkcap Mushrooms
 
-In the fall, fruiting bodies of the lawyer's wig, [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]],
+In the fall, [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] of the lawyer's wig, [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]],
 emerge from wet lawns as white spindles with rounded tips, extend to
 six inches or more, and unfurl their caps before dissolving
 (deliquescing) into black slime. Picked before they begin to
@@ -67,7 +67,7 @@ stages:
 Coprine blocks the second stage, inhibiting ALDH. When this enzyme
 is blocked, acetaldehyde accumulates to toxic levels. Acetaldehyde
 is itself responsible for many hangover symptoms, and its
-uncontrolled buildup produces acute toxicity. The molecular details
+uncontrolled buildup produces [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]. The molecular details
 involve coprine's conversion to 1-aminocyclopropanol, the actual
 ALDH inhibitor.
 
@@ -88,56 +88,3 @@ disulfiram (Antabuse). For some alcoholics, disulfiram is the only
 thing sufficiently powerful to subvert their relentless addiction,
 which provides a hint of the ghastliness of coprine intoxication.
 Onset typically occurs within fifteen to thirty minutes of alcohol
-consumption, provided the mushroom was eaten within the previous
-48 to 72 hours.
-
-## Comparison with Disulfiram
-
-Disulfiram (tetraethylthiuram disulfide) was the first drug approved
-for treating alcoholism and remains in use today. It works through
-essentially the same mechanism as coprine. The parallel is so
-precise that coprine has been called nature's Antabuse. Both are
-irreversible inhibitors of ALDH, both produce identical clinical
-syndromes with alcohol, and both require new enzyme synthesis by
-the liver before normal alcohol metabolism can resume.
-
-## Differentiating Coprinus Species
-
-The practical importance of understanding coprine lies in
-distinguishing Coprinus atramentarius from its edible relative
-Coprinus comatus:
-
-**Coprinus comatus (edible):**
-- Taller, more elongated with shaggy white cap
-- Cap splits and curls upward with age
-- No toxic properties; excellent edible
-
-**Coprinus atramentarius (toxic):**
-- Smoother, gray to grayish-brown cap, oval when young
-- Grows in denser clusters
-- Contains coprine, producing alcohol reaction
-
-## Ecological Significance
-
-Several hypotheses have been proposed for coprine's ecological
-function. The deterrence hypothesis suggests it defends against
-fungivorous animals. The antimicrobial hypothesis is weakened by
-coprine's specificity for the animal ALDH pathway. A third
-possibility is that coprine has no adaptive function and is simply
-a metabolic byproduct. Without experimental evidence, its
-ecological function remains speculative.
-
-## Broader Context
-
-Coprine is one of several classes of mushroom toxins alongside the
-amatoxins of Amanita, renal toxins of Cortinarius webcaps, the
-volatile gyromitrin of false morels, and hallucinogens of Psilocybe
-and [[allegro-amanita-muscaria-properties-and-pharmacology]]. Each operates through a distinct biochemical
-mechanism, but none appears specifically evolved for harming humans.
-
-## See Also
-- [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-- [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
-- [[amanita-muscaria]]
-- [[spore-dispersal]]
-- [[coprinus-comatus]]

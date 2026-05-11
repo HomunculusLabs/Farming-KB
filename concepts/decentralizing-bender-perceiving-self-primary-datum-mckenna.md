@@ -1,5 +1,5 @@
 ---
-title: Decentralizing Bender and the decentralizing bender perceiving self primary datum mckenna as Primary Datum
+title: Decentralizing Bender Perceiving Self Primary Datum Mckenna
 created: 2026-05-08
 tags: [philosophy, consciousness, mckenna, phenomenology, copernican-revolution, anthropology, noocentrism, psychedelics]
 date: 2026-05-08
@@ -9,7 +9,7 @@ date: 2026-05-08
 
 ## Overview
 
-In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1983), Terence McKenna
+In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1983), [[terence-mckenna]]
 identified what he called the "decentralizing bender" — a five-century-
 long intellectual trajectory that progressively displaced human beings
 from the center of the cosmos. He argued that this trajectory has gone
@@ -80,7 +80,7 @@ Whitehead called the formality of actually occurring."
 
 ## The Psychedelic Revelation
 
-The psychedelic experience, particularly the tryptamine state,
+The [[lsd-psychedelic-experience-guide]], particularly the tryptamine state,
 reinforces the primacy of the perceiving self by demonstrating that
 consciousness can access modes of being utterly foreign to ordinary
 waking awareness. The [[mckenna-dmt-experience-and-hyperspace]]:
@@ -88,50 +88,3 @@ waking awareness. The [[mckenna-dmt-experience-and-hyperspace]]:
 - Reveals dimensions of reality not accessible to ordinary perception
 - Demonstrates that consciousness is far more plastic and expansive
   than the decentralizing narrative allows
-- Shows that the perceiving self can exist in radically different
-  configurations — what McKenna called "[[mckenna-food-gods-designer-states-of-consciousness]] of
-  consciousness"
-- Suggests that consciousness is not an epiphenomenon of matter but
-  a fundamental feature of reality
-
-## The Dualistic Trap
-
-McKenna criticized what he saw as the dualistic assumption underlying
-the decentralizing bender: the idea that matter is primary and
-consciousness is secondary. He noted that "the description our
-physicists are giving us of the universe — that it has lasted
-billions of years and will last billions of years into the future —
-is a dualistic conception, an inductive projection that is very
-unsophisticated when applied to the nature of consciousness and
-language."
-
-This dualistic materialism, in McKenna's view, cannot account for
-the richness of subjective experience or the anomalous data from
-psychedelic states.
-
-## Implications
-
-McKenna's argument has several implications:
-- Science must take consciousness seriously as a primary phenomenon
-  rather than reducing it to neural correlates
-- The "decentralizing" insight (humans are not physically central)
-  should not be conflated with the nihilistic conclusion (human
-  experience is insignificant)
-- The psychedelic experience provides empirical evidence against
-  strict materialist reductions of consciousness
-- A mature science would "constellate outward" from experience
-  rather than trying to explain experience away
-
-## See Also
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
-- [[consciousness-as-fundamental-property]]
-- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
-- [[information-paradigm-of-consciousness]]
-
-## Source
-
-- McKenna T. Tryptamine Hallucinogens and Consciousness. Talk at the
-  Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen
-  Institute, December 1983. Published in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*, 1992.

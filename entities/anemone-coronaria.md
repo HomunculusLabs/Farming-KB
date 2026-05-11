@@ -12,7 +12,7 @@ updated: 2026-05-10
 sources:
   - Ehrendorfer, F. (2009). "Ranunculaceae: Anemone." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants. Springer.
   - Hyde, K. & Wrigley, G. (1993). "Florist Crops: Anemone." In: Larson, R.A. (ed.), Introduction to Floriculture. Academic Press.
-  - Horovitz, A. (1976). "Edaphic Factors and the Distribution of Anemone Species in Israel." Israel Journal of Botany 25: 54–62.
+  - Horovitz, A. (1976). "[[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] and the Distribution of Anemone Species in Israel." Israel Journal of Botany 25: 54–62.
 ---
 
 # Anemone coronaria
@@ -25,13 +25,13 @@ The species produces single or double flowers in a broad color range including s
 
 Anemone coronaria is a major cut-flower crop in Israel, Italy, and the Netherlands. The De Caen and St. Brigid groups represent the most commercially important cultivar strains.
 
-In Mediterranean folk tradition, the flowers are associated with the blood of Adonis, who was slain by a wild boar. This mythological connection links Anemone coronaria to the ancient Greek festival of Adonia.
+In Mediterranean folk tradition, the flowers are associated with the blood of Adonis, who was slain by a wild boar. This mythological connection links Anemone coronaria to the [[ancient-greek-mystery-cults-comparison]] festival of Adonia.
 
 The genus name Anemone derives from the Greek word for wind, referencing the delicate flowers that appear to open in the breeze. The specific epithet coronaria means "used for garlands," reflecting its historical use in Mediterranean floral decoration.
 
 ## Taxonomy and Morphology
 
-Anemone coronaria was described by Carl Linnaeus in 1753. The genus Anemone comprises approximately 150 species distributed across temperate regions of both hemispheres. Molecular phylogenetic studies place A. coronaria in a clade with other Mediterranean tuberous anemones.
+Anemone coronaria was described by Carl Linnaeus in 1753. The genus Anemone comprises approximately 150 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of both hemispheres. Molecular phylogenetic studies place A. coronaria in a clade with other Mediterranean tuberous anemones.
 
 The plant grows from a irregularly shaped tuber, 3–5 cm in diameter, covered with dark fibrous skin. Leaves are basal, palmately lobed with deeply incised segments, and emerge in a rosette pattern.
 
@@ -75,7 +75,7 @@ In regions with cold winters, tubers can be lifted after foliage dies back and s
 
 Plants require consistent moisture during active growth but resent waterlogged conditions. A dry summer dormancy period is natural and prevents tuber rot in Mediterranean-climate gardens.
 
-For cut-flower production, tubers are often planted at high density in raised beds or greenhouses. Stems are harvested when buds show color but before flowers fully open, extending vase life to 7–10 days.
+For cut-flower production, tubers are often planted at high density in [[cervantes-raised-beds-mound-planting]] or greenhouses. Stems are harvested when buds show color but before flowers fully open, extending vase life to 7–10 days.
 
 Post-harvest treatment with floral preservatives significantly extends vase life. Commercial growers use silver thiosulfate solutions to prevent ethylene-induced petal drop and senescence.
 
@@ -88,34 +88,3 @@ Handling fresh foliage or tubers may cause skin irritation or contact dermatitis
 Ingestion of any plant part can cause nausea, vomiting, abdominal pain, and diarrhea. The tubers are particularly toxic and should be kept away from children and pets.
 
 The toxic compounds degrade upon drying or heating, reducing risk in dried flower arrangements. Traditional medicine systems in the Mediterranean used very small doses of tuber preparations as emetics, though this practice is now considered unsafe.
-
-Livestock generally avoid the plant due to its acrid taste, but poisoning has been reported in goats that consumed tubers exposed by soil erosion. Symptoms in animals include salivation, colic, and irregular heartbeat.
-
-## Ecological Role
-
-Anemone coronaria provides an important early-season pollen and nectar source in its native Mediterranean habitat. Flowers are visited by diverse pollinators including honeybees, solitary bees, hoverflies, and beetles.
-
-The species exhibits a pollination strategy involving both insect attraction and self-compatibility. This dual approach ensures seed set even in years when pollinator activity is low.
-
-Seed dispersal is primarily by wind, with each achene bearing a small, fluffy appendage that aids aerial distribution. Seeds require a period of after-ripening and may remain viable in the soil seed bank for several years.
-
-Germination rates are highest in freshly harvested seed sown in warm conditions. Light exposure improves germination, suggesting seeds should be surface-sown or covered only lightly with fine vermiculite.
-
-In natural Mediterranean plant communities, Anemone coronaria is part of the annual geophyte flora that dominates spring displays. These communities are adapted to summer drought and depend on seasonal rainfall patterns.
-
-The species co-occurs with other showy geophytes including cyclamen, ranunculus, and various iris species. Together they form the colorful spring wildflower displays that attract tourism to Mediterranean regions.
-
-Climate change poses a threat to natural populations through altered rainfall patterns. Reduced winter precipitation in the eastern Mediterranean may shift flowering phenology and reduce seed set in marginal populations.
-
-## See Also
-
-- [[anemone-nemorosa]]
-- [[ranunculus-acris]]
-- [[eranthis-hyemalis]]
-- [[nigella-damascena]]
-- [[pulsatilla-vulgaris]]
-- [[helleborus-niger]]
-- [[clematis-vitalba]]
-- [[ranunculus-aquatilis]]
-- [[aconitum-napellus]]
-- [[delphinium-consolida]]

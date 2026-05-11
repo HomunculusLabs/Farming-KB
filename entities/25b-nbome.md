@@ -15,7 +15,7 @@ sources:
   - Brüne, S. et al. (2018). "Pharmacological profiling of NBOMe compounds at 5-HT2A and 5-HT2C receptors." Biochemical Pharmacology 158: 321-328.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
   - Suzuki, J. et al. (2015). "25B-NBOMe-related death." Journal of Analytical Toxicology 39(8): 644-646.
-  - EMCDDA (2014). "Risk assessment of 25I-NBOMe." EMCDDA-Europol.
+  - EMCDDA (2014). "Risk assessment of [[25i-nbome]]." EMCDDA-Europol.
 ---
 
 # 25B-NBOMe
@@ -54,7 +54,7 @@ potency and metabolic stability compared to parent compound 2C-B.
 - **5-HT1A:** Ki ≈ 100–200 nM (weak)
 - **α1-Adrenergic:** Ki ≈ 50–100 nM (moderate)
 
-Partial agonist at 5-HT2A with ~50–80% efficacy relative to serotonin,
+Partial agonist at 5-HT2A with ~50–80% efficacy relative to [[serotonin]],
 contributing to its distinct subjective character versus full agonists.
 
 Primary effects are mediated through 5-HT2A activation in cortical
@@ -65,7 +65,7 @@ first-pass deamination.
 
 ## Pharmacokinetics
 
-- **Route:** Sublingual/buccal for full effects; oral bioavailability
+- **Route:** Sublingual/buccal for full effects; [[first-pass-metabolism-and-oral-bioavailability]]
 is very low (~5%) due to extensive first-pass metabolism.
 - **Onset:** 15–45 minutes (sublingual).
 - **Duration:** 6–10 hours.
@@ -88,56 +88,3 @@ tremor, jaw clenching.
 
 - **Threshold:** 50–100 µg
 - **Light:** 100–250 µg
-- **Common:** 250–500 µg
-- **Strong:** 500–750 µg
-- **Heavy:** 750+ µg
-
-Doses above 1000 µg significantly increase risk of serious adverse
-effects including serotonin toxicity.
-
-## Toxicity and Adverse Effects
-
-### Common
-
-- Nausea and vomiting (more pronounced than LSD).
-- Tachycardia and hypertension.
-- Vasoconstriction (cold extremities, numbness).
-- Anxiety, paranoia, panic attacks.
-- Bruxism and muscle tension.
-
-### Severe
-
-- Prolonged QT interval, cardiac arrhythmia.
-- Serotonin syndrome at very high doses.
-- Seizures in massive overdose.
-- Multiple fatalities reported (typically >1500 µg or combined with
-stimulants).
-
-### Harm Reduction
-
-- Use volumetric dosing; blotter absorption is unreliable.
-- Never insufflate — significantly higher bioavailability increases
-overdose risk.
-- Test with Ehrlich reagent (yellow-orange; LSD does not react).
-- Avoid combining with stimulants, MAOIs, or serotonergic drugs.
-
-## Legal Status
-
-- **[[dmt-containing-plants-united-states-halpern]]:** Schedule I (permanent, 2016).
-- **UK:** Class A (Psychoactive [[controlled-substances-act-and-psychedelic-research]], 2016).
-- **Australia:** Schedule 9 (prohibited).
-- **EU:** Controlled under member state NPS legislation.
-- **Japan:** Designated substance under Pharmaceutical Affairs Law.
-
-## Related Compounds
-
-- **2C-B:** Parent compound; milligram-range potency, oral
-bioavailability.
-- **25I-NBOMe:** Iodo analogue; most widely encountered NBOMe.
-- **[[psychedelic-harm-reduction]]
-
-- [[serotonin]]
-
-## See Also
-
-- [[optical-isomers-psychedelic-phenethylamines]]

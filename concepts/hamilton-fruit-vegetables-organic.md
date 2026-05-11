@@ -87,23 +87,3 @@ regularly and feed with a liquid kelp or animal-manure fertilizer
 every week.
 
 ### Greenhouse Cultivation
-
-Both sweet and hot peppers are suitable for greenhouse cultivation.
-Peppers need a temperature of 65-70F (18-21C). Sow in midwinter if
-you can supply heat, but in early spring for a cold house. They have a
-small root system, so prefer not to have too much cold compost around
-their roots.
-
-### Harvesting and Storage
-
-Harvest once the fruits have swollen. Hot peppers can be dried in the
-sun on a raised wire frame then stored in airtight jars. Pick sweet
-peppers when green or wait until they turn red for a spicier flavor.
-
-## Common Challenges
-
-Fruit vegetables are susceptible to whitefly and aphids, particularly
-under glass. Regular vigilance and good [[hamilton-salad-vegetables-organic]] Topics
-
-- [[hamilton-greenhouse-management-organic]]
-- [[hamilton-pest-and-disease-control-organic]]

@@ -30,7 +30,7 @@ making it an excellent daytime smoke for social or creative use.
   to the cosmic a [[chicken-of-the-woods]] nce of the resin-covered buds). Nebula has been a staple of
   European breeding for its man [[garden-land-size-and-food-self-sufficiency-solomon]] size and consistent results.
 - **Male parent:** Grapefruit — an indica that contributes the distinctive grapefruit
-  and berry flavor profile. Grapefruit is known for its citrus-[[cannabis-terpenes-and-the-entourage-effect]] enes and
+  and berry flavor profile. Grapefruit is known for its citrus-cannabis terpenes and the entourage effect enes and
   compact growth characteristics.
 
 This cross represents Ultra Genetics' strategy of combining their favorite fast-
@@ -88,53 +88,3 @@ it easy to consume in larger quantities.
 The name "Space Grape" perfectly captures this flavor experience: the grape/berry
 notes are grounded and fruity, while the effect is "spacey" and cerebral. The terpene
 profile likely features myrcene (berry), limonene (citrus), and caryophyllene
-(spice) as dominant constituents.
-
-## Effects
-
-Space Grape delivers a clear, soaring sativa high that is distinctly uplifting without
-being overwhelming. The effect profile is well-suited to daytime use:
-
-- **Onset:** Smooth and gradual rather than sudden. The high builds pleasantly.
-- **Cerebral quality:** Clear-headed and focused rather than racy or anxious.
-  Suitable for creative work, social situations, and outdoor activities.
-- **Body component:** Minimal physical heaviness. The high stays primarily in the
-  head, which the guide describes as "just the icing on the delicious cake."
-- **Duration:** Moderate to long-lasting. The clear-headed nature of the effect
-  makes it easy to remain functional throughout.
-- **Come-down:** Clean with no significant crash. Users won't be "set down too hard."
-
-This effect profile makes Space Grape versatile — equally appropriate for a morning
-creative session, a social gathering, or a solo outdoor adventure. It avoids the
-common sativa pitfalls of anxiety and paranoia while maintaining genuine cerebral
-stimulation.
-
-## The Breeder: Ultra Genetics
-
-Ultra Genetics is a UK-based seed company that has established itself as a quality
-breeder in the European cannabis scene. Their approach combines established genetics
-with careful selection for practical growing characteristics. Space Grape exemplifies
-this philosophy: taking proven parents (Nebula and Grapefruit) and creating a hybrid
-that improves upon both in terms of flavor, effect, and ease of cultivation.
-
-Ultra Genetics operates through multiple online seed retailers including
-ultra-genetics.com, puresativa.com, and sativasister.cz.
-
-## Key Takeaways
-
-1. Space Grape combines Nebula (fast-flowering sativa) with Grapefruit (indica) for
-   a strain that delivers sativa effects in a compact, easy-to-grow package.
-2. Exhibits indica growth patterns indoors but can express sativa tree structure
-   outdoors with extended vegetative periods.
-3. Flowers in ~70 days with above-average yields; low maintenance requirements
-   make it ideal for less experienced growers.
-4. Fruity, berry-forward flavor with grapefruit citrus notes; smooth smoke with
-   a sweet, tangy finish.
-5. Clear, soaring sativa high that is functional and uplifting without anxiety —
-   an excellent versatile daytime strain.
-
-## See Also
-
-- temple — bodhi seeds — Another sativa-dominant hybrid from S.T. Oner's guide, combining Super Silver Haze with William's Wonder for a compact, high-yielding sativa experience
-- trainwreck — humboldt seed organisation — A legendary California sativa-dominant hybrid with powerful psychoactive effects and historic significance in Humboldt County breeding
-- jack the ripper — subcool tga genetics — A high-potency sativa-dominant strain featuring rare THCV content, bred by Subcool TGA Genetics

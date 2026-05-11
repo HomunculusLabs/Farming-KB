@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,42 +88,3 @@ coastal housing, with [[fukuoka-textdoc-bamboo-groves-wood-preserves-soil-fertil
 barriers, offer effective protection.
 
 ## Specialist Crop Opportunities
-
-There is a wide range of specialist crop potential, from rubber
-(Hevea), betel-nut, chalmougra oil, and chicle to essential
-oils and medicinals. Many are suited to primary processing in
-remote locations, or conversion to commercial-quality products.
-The high value of processed product enables smallholders or
-cooperatives to pool research and processing facilities.
-
-## Garden System Design
-
-Gardens for wet-dry tropical areas contain these elements:
-designed for full nutrition for an average family; water
-conservation and safe water disposal; species suited to local
-cultural preferences; sufficient variety to survive climatic
-change; protein from livestock or grain/legume replacements;
-basic staple foods; fresh vegetables and fruits for vitamins;
-and some fuels, medicinals, and flowers.
-
-## Mulch and Earth-Shaping
-
-On level ground or gentle slopes (2-8 degrees) in the
-wet-dry tropics, a series of large contour banks or swales
-have an excellent soil preservation effect. Coupled with
-gradual terrace development, retention of wet-season water,
-and mulch-providing hedgerow, this ensures stability. On
-very flat sites, raised mounds or ridges can drain crops
-in wet areas, or impound water for absorption in drier
-areas. Cassava, yam, and cucurbits are mounded where
-drainage is a problem.
-
-## Interplant Strategies
-
-As well as essential legumes, a scatter of Banksia, Casuarina,
-and Pultenea with their mycelial associates will fix phosphate
-and return it via leaf mould. Dilute molasses or cane and
-## See Also
-
-- [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-wet-tropical-forest-structure-and-polyculture]]

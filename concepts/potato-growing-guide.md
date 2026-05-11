@@ -9,12 +9,12 @@ sources: []
 
 # Potato Growing Guide
 
-Potatoes (Solanum tuberosum) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, container growing, harvest timing, storage, and popular varieties. (see [[winter-squash-guide]]).
+Potatoes ([[solanum-tuberosum]]) are a high-yielding, calorie-dense staple crop well-suited to home gardens. This guide covers seed potato selection, hilling methods, [[container-growing-vegetables-herbs]], harvest timing, storage, and popular varieties.
 
 ## Seed Potatoes
 
 ### What Are Seed Potatoes?
-- Small potatoes or potato pieces grown specifically for planting. (see [[strawberry-growing-guide]]).
+- Small potatoes or potato pieces grown specifically for planting.
 - Certified disease-free seed potatoes from a reputable supplier are essential.
 - Do NOT plant supermarket potatoes — they may carry disease and are often treated with sprout inhibitors.
 
@@ -88,7 +88,7 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 ## Care During Growth
 
 - **Watering**: 1-2 inches per week. Consistent moisture is critical during tuber formation (when plants flower). Irregular watering causes knobby or split tubers.
-- **Fertilization**: Potatoes are moderate feeders. Side-dress with compost or a balanced organic fertilizer when hilling. Avoid excess nitrogen — promotes foliage over tubers.
+- **Fertilization**: Potatoes are moderate feeders. Side-dress with compost or a balanced [[complete-organic-fertilizer-cof]] when hilling. Avoid excess nitrogen — promotes foliage over tubers.
 - **Pest management**: Colorado potato beetle is the most common pest. Hand-pick adults and larvae. Neem oil or spinosad for heavy infestations. Floating row covers prevent early-season infestation.
 - **Disease**: Early blight and late blight are the main threats. Remove affected foliage. Do not plant potatoes near tomatoes (shared disease complex).
 
@@ -142,9 +142,9 @@ Potatoes grow very well in containers — ideal for small spaces and patios.
 | Knobby tubers | Inconsistent watering | Water consistently, especially during tubering |
 | Hollow heart | Rapid growth after dry period | Consistent watering |
 | Wireworm holes | Wireworms in soil | Rotate crops, avoid planting after grass sod |
-| Late blight | Phytophthora infestans | Fungicide (copper), remove infected plants, good airflow |
+| Late blight | [[bloomfield-potato-blight-phytophthora-infestans]] | Fungicide (copper), remove infected plants, good airflow |
 
 ## Related Concepts
 
-- [[tomato-growing-guide]] — related nightshade, shared disease management
+- [[tomato-growing-guide]] — related nightshade, shared [[clubroot-disease-management]]
 - [[companion-planting-reference]] — beans, cabbage, horseradish as potato companions

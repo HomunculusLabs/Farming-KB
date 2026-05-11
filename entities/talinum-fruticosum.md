@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Talinum fruticosum** (L.) Juss. is a fast-growing, succulent-leaved perennial herb widely cultivated across tropical Africa, Southeast Asia, and the Americas as a leafy green vegetable.
+**Talinum fruticosum** (L.) Juss. is a fast-growing, succulent-leaved perennial herb widely cultivated across tropical Africa, [[psilocybe-southeast-asia-pacific]], and the Americas as a leafy green vegetable.
 
 It is commonly known as **Ceylon spinach**, **waterleaf**, or **surinam purslane** in English-speaking regions.
 
@@ -45,11 +45,11 @@ Roots are tuberous in older plants, contributing to drought resilience and peren
 
 *Talinum fruticosum* is believed to be native to tropical Africa, specifically the West African forest-savanna transition zone from Nigeria eastward to Sudan.
 
-It has been widely introduced and naturalized throughout tropical and subtropical regions, including South and Southeast Asia, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern South America.
+It has been widely introduced and naturalized throughout tropical and subtropical regions, including South and Southeast Asia, the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], and northern [[guzman-psilocybin-mushrooms-south-america]].
 
 The species thrives in humid lowland environments with annual rainfall above 1000 mm and mean temperatures of 25–30°C.
 
-It grows well in a range of soil types including sandy, loamy, and lateritic soils, though it performs best in well-drained, fertile soils with moderate organic matter.
+It grows well in a range of soil types including sandy, loamy, and lateritic soils, though it performs best in well-drained, fertile soils with moderate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 The plant is commonly found as a volunteer weed in disturbed sites, home gardens, and along forest edges.
 
@@ -65,7 +65,7 @@ The plant responds well to organic manure and moderate nitrogen fertilization, p
 
 Regular harvesting (every 2–3 weeks) promotes branching and extends the productive lifespan, which can reach 2–3 years under favorable conditions.
 
-Pest pressure is generally low, though occasional infestations by leaf miners and aphids may occur in dense plantings.
+Pest pressure is generally low, though occasional infestations by [[leaf-miners-cannabis]] and aphids may occur in dense plantings.
 
 ## Nutritional Value
 
@@ -81,43 +81,10 @@ Oxalate levels are moderate, and the leaves are typically cooked before consumpt
 
 ## Ecology and Applications
 
-*Talinum fruticosum* serves as a ground cover in agroforestry systems, providing edible biomass while suppressing weed growth through dense canopy formation.
+*Talinum fruticosum* serves as a [[fukuoka-citrus-orchard-ground-cover-cultivation]] in agroforestry systems, providing edible biomass while suppressing weed growth through dense canopy formation.
 
 Its tuberous root system helps stabilize soil in erosion-prone areas, making it suitable for contour planting on sloped terrain.
 
 The species attracts pollinators when in flower, including small bees and butterflies that visit the open racemes during the afternoon bloom period.
 
 In traditional medicine, leaf extracts have been used as poultices for wounds and inflammations, and as a mild laxative in West African ethnomedicine.
-
-The plant's [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to resprout from tubers after dry periods make it a candidate for climate-resilient food systems in marginal tropical environments.
-
-## Related Species
-
-*Talinum triangulare* (Jacq.) Willd. is a closely related species often confused with *T. fruticosum* due to overlapping morphology and distribution.
-
-*T. triangulare* is more commonly cited in West African literature under the synonym *Talinum fruticosum*, creating persistent [[neurotropic-fungi-taxonomic-confusion-and-identification]] in agricultural and nutritional studies.
-
-The two species can be distinguished by inflorescence structure: *T. fruticosum* bears open, spreading racemes while *T. triangulare* tends toward more compact, cymose arrangements.
-
-Other members of the genus include *Talinum paniculatum*, grown as an ornamental, and *Talinum calycinum*, a [[growing-gourmet-north-american-reishi-species]] prairie native with edible leaves.
-
-*Talinum* species are part of a broader group of succulent-leaved tropical herbs that includes *Portulaca oleracea* (common purslane) as a distant relative with similar nutritional profiles.
-
-## Uses in Traditional Agriculture
-
-In West Africa, *Talinum fruticosum* is one of the most widely consumed indigenous leafy vegetables, commonly sold in local markets throughout Nigeria, Ghana, and Cameroon.
-
-The leaves are typically added to soups and stews, where they act as a thickening agent in addition to providing nutritional value.
-
-In Southeast Asian cuisines, particularly in Thailand and Vietnam, the young shoots are used in stir-fries and raw in salads for their crisp, mildly acidic flavor.
-
-The plant is frequently intercropped with cassava, maize, or yam in smallholder farming systems, where it provides supplementary income between main crop harvests.
-
-Home garden cultivation is especially common in peri-urban areas, where the plant's rapid growth cycle provides a reliable source of fresh greens with minimal inputs.
-
-## See Also
-
-- [[amaranthus-tricolor]]
-- [[vigna-unguiculata]]
-- [[lablab-purpureus]]
-- [[colocasia-esculenta]]

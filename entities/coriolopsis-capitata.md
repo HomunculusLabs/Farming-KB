@@ -22,7 +22,7 @@ aliases:
 sources:
   - Ryvarden, L. & Johansen, I. (1980). "A Preliminary Polypore Flora of East Africa." Fungiflora.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores 2." Synopsis Fungorum 14.
-  - Miettinen, O. & Rajchenberg, M. (2012). "Coriolopsis and related genera." Fungal Diversity 52: 167-193.
+  - Miettinen, O. & Rajchenberg, M. (2012). "Coriolopsis and related genera." [[arbuscular-mycorrhizal-fungal-diversity]] 52: 167-193.
   - Gugliotta, A.M. et al. (2015). "Polyporaceae from the Brazilian Atlantic Forest." Mycotaxon 130: 821-834.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=150603
 ---
@@ -31,9 +31,9 @@ sources:
 
 **Coriolopsis capitata** is a tropical and subtropical polypore fungus in the family Polyporaceae.
 
-It forms woody, perennial bracket fruiting bodies on dead hardwood and is known for producing bioactive sesquiterpenoids and phenolic compounds with antimicrobial and anti-inflammatory properties.
+It forms woody, perennial bracket [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on dead hardwood and is known for producing bioactive sesquiterpenoids and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antimicrobial and anti-inflammatory properties.
 
-The species is most commonly encountered in lowland tropical forests of South America, Southeast Asia, and equatorial Africa, where it contributes significantly to lignocellulose decomposition.
+The species is most commonly encountered in lowland [[fungal-biodiversity-tropical-forests]] of [[guzman-psilocybin-mushrooms-south-america]], Southeast Asia, and equatorial Africa, where it contributes significantly to lignocellulose decomposition.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ It fruits almost exclusively on dead hardwood logs and stumps in moist lowland t
 
 Preferred hosts include *Inga*, *Cecropia*, and other fast-growing secondary forest hardwoods, though it is not highly host-specific.
 
-Fruiting occurs year-round in consistently wet tropical climates but peaks during rainy seasons in areas with pronounced seasonality.
+Fruiting occurs year-round in consistently wet [[fukuoka-natural-farming-tropical-climates]] but peaks during rainy seasons in areas with pronounced seasonality.
 
 ## Bioactive Compounds
 
@@ -88,37 +88,3 @@ In parts of the Brazilian Amazon, *C. capitata* is used in folk medicine as a to
 Guaraní communities in Paraguay have been documented using related *Coriolopsis* species for treating gastrointestinal complaints, though specific use of *C. capitata* is less well-documented.
 
 No formal [[mushroom-cancer-clinical-trials-overview]] have evaluated the species for therapeutic use, and its medicinal reputation rests entirely on ethnobotanical reports and in vitro bioassay data.
-
-The antimicrobial sesquiterpenoids show promising minimum inhibitory concentrations (MICs of 8–32 µg/mL) against *Staphylococcus aureus* and *Bacillus subtilis*.
-
-Anti-inflammatory effects have been demonstrated in mouse ear edema models using crude ethanol extracts at 50 mg/kg.
-
-## Ecological Role
-
-*C. capitata* is a white-rot decomposer that primarily degrades lignin through peroxidase and laccase enzyme systems.
-
-It plays an important role [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking down recalcitrant woody substrates that would otherwise accumulate.
-
-The species serves as a microhabitat for diverse invertebrates, including beetle larvae (Coleoptera: Ciidae) that specialize on polypore fungi.
-
-In selectively logged forests, *C. capitata* and related polypores accelerate decomposition of logging residue, facilitating site recovery.
-
-Its fruiting bodies are occasionally consumed by arboreal mammals, though it is not considered an important food source for wildlife.
-
-## Similar Species
-
-*C. occidentalis* (Klotzsch) Murrill — [[growing-gourmet-north-american-reishi-species]] species with larger pores (2–3 per mm) and a more grayish upper surface.
-
-*C. polyzona* (Pers.) Ryvarden — Very similar, distinguished by smaller spores (5–7 × 1.5–2 µm) and a thinner context layer.
-
-*Trametes hirsuta* — Has distinctly hirsute upper surface with visible hairs, unlike the smooth to cracked surface of *C. capitata*.
-
-*Fuscoporia ferrea* — Darker fruiting body with a blackened pore surface and dimitic hyphal system lacking clamp connections.
-
-## See Also
-
-- [[laricifomes-officinalis]]
-- [[fomes-fomentarius]]
-- [[bjerkandera-adusta]]
-- [[daldinia-concentrica]]
-- [[chondrostereum-purpureum]]

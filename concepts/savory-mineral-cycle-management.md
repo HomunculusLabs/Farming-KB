@@ -1,8 +1,8 @@
 ---
-title: savory mineral cycle management Management
+title: Savory Mineral Cycle Management
 created: 2026-04-26
-aliases: [mineral cycle, nutrient cycle, soil biology, leaching,
-          organic matter, biological decay]
+aliases: [mineral cycle, [[williams-pdc-composting-and-nutrient-cycle]], soil biology, leaching,
+          [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], biological decay]
 tags: [mineral-cycle, soil-health, nutrient-cycling, organic-matter,
       soil-biology]
 related: [savory-ecosystem-foundation-blocks, savory-soil-carbon-sequestration,
@@ -50,7 +50,7 @@ and nutrients that then move upward through the plant.
 
 Even when a manager's goal rests primarily on shallow-rooted plants like
 grass or corn, some deep-rooted plants may be essential to community
-health. Incredibly small amounts of many trace minerals are critical
+health. Incredibly small amounts of many [[dynamic-accumulator-plants-trace-minerals]] are critical
 to plants and animals, and they may lie beyond the reach of shallow
 roots alone.
 
@@ -61,7 +61,7 @@ access surface organic material.
 
 ## Stage Two: Surface Return and Breakdown
 
-Plant material returns nutrients to the soil surface as crop residues,
+Plant material returns nutrients to the soil surface as [[jadam-monoculture-disorder-crop-residues]],
 leaves, stems, bark, branches, seeds, and flowers. However, returning
 material to the surface does not make it available for reuse. Nutrients
 must be broken down into finer particles, and this happens through four
@@ -69,7 +69,7 @@ mechanisms: biological activity, fire, chemical weathering (oxidation),
 and mechanical forces such as rain, wind, and hail.
 
 Biological activity should play the lead role in both brittle and
-nonbrittle environments. In nonbrittle situations, the microenvironment
+[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]. In nonbrittle situations, the microenvironment
 at the surface supports extremely active communities of small organisms
 year-round that break down old plant material without any contribution
 from larger animals.
@@ -87,49 +87,3 @@ where few forces exist to decompose old material or hold it against
 wind and water. Fire drastically alters material but tends to expose
 soil surfaces. Weathering through oxidation is slow and creates a
 bottleneck as nutrients remain tied up aboveground for long periods.
-
-In all brittle environments, animal activity in various forms speeds
-the breakdown and cycling of plant material essential to building
-mineral supplies in the top soil layers. Animal activity achieves this
-without exposing soil, a critical advantage over fire.
-
-## Stage Three: Surface to Underground
-
-Once breakdown has occurred, only two agents can move nutrients
-underground: water and animal life in the soil. This explains why
-managers seeking to enhance the mineral cycle apply tools that
-encourage water penetration and animal activity.
-
-The main factor that impedes leaching is organic matter in the soil.
-Organic molecules bind mineral elements through extremely complex
-chemistry, the same chemistry that creates beneficial crumb structure.
-Less organic material and less biological activity means greater
-leaching.
-
-## The Danger of Agricultural Chemicals
-
-Chemical herbicides, pesticides, and fertilizers destroy soil
-microorganisms and inhibit those that fix atmospheric nitrogen. They
-damage organic material and living organisms, decrease water-retaining
-capabilities, and increase leaching. Farmers who add soluble nitrogen
-must keep applying ever increasing amounts because they have damaged
-the [[jadam-natural-mineral-leaching-and-replenishment]] cycle. The leached minerals not only become
-unusable on that ground but become dangerous pollutants as groundwater
-carries them far from their origin.
-
-## The Soil Surface Connection
-
-The key to the health of the mineral cycle, like that of succession
-and the water cycle, ultimately lies in the condition of the soil
-surface. An exposed, capped surface creates a harsh microenvironment
-where biological breakdown occurs slowly at best. It limits air exchange
-between soil and atmosphere. As aeration decreases, life decreases; as
-life decreases, organic material decreases; as organic material
-decreases, soil structure deteriorates, and the cycle accelerates
-downward.
-
-## See Also
-
-- [[savory-soil-carbon-sequestration]] for carbon's role in the cycle
-- [[savory-soil-surface-and-capping]] for [[jadam-soil-surface-management-no-till]] details
-- [[savory-animal-impact-and-herd-effect]] for biological breakdown

@@ -5,7 +5,7 @@ tags:
   - cannabis
   - fertility
   - reproductive-health
-  - endocannabinoid-system
+  - [[endocannabinoid-system]]
   - womens-health
 date: 2026-04-25
 updated: 2026-04-25
@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Certain plant cannabinoids bind to the same set of receptors as the body's
-own cannabinoid anandamide. They similarly exert influence on the earliest
+own cannabinoid [[anandamide]]. They similarly exert influence on the earliest
 processes of conception and egg implantation in the uterine wall and thus play
 a significant role in fertility.
 
@@ -88,18 +88,3 @@ better results with each iteration of practice and experimentation.
 
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

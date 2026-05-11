@@ -21,14 +21,14 @@ type: concept
 
 The concept of myconeurological networks proposes that mycelial webs, the
 vegetative body of fungi, function as biological information-processing
-systems analogous to neural networks. Championed by Paul Stamets, this
+systems analogous to neural networks. Championed by [[paul-stamets]], this
 idea suggests that fungi may possess cellular intelligence and could be
-interfaced with technology for environmental monitoring and computation.
+interfaced with technology for [[singh-fungal-biosensors-environmental-monitoring]] and computation.
 
 ## The Mycelial Web as a Natural Internet
 
 The architecture of mycelium bears striking resemblance to both the human
-brain and the Internet. Mycelium is one cell wall thick, in direct contact
+brain and the Internet. Mycelium is one [[chitin-chitosan-fungal-cell-wall]] thick, in direct contact
 with myriad hostile organisms, yet so pervasive that a single cubic inch of
 topsoil contains enough fungal cells to stretch more than eight miles end to
 end. Every footstep on living soil impacts more than three hundred miles of
@@ -87,22 +87,4 @@ worlds. Spores have no borders.
 
 ## Ethical and Practical Implications
 
-The recognition of fungal intelligence raises profound questions about how
-we treat these organisms. If [[fungal-mycelial-networks-nutrient-translocation]] possess a form of cognition,
-then the destruction of [[freshwater-fungal-habitats-conservation-urgency]] through deforestation, chemical
-agriculture, and pollution takes on a moral dimension beyond mere
-ecological concern.
-
-Our bodies and our environs are habitats with immune systems. Fungi are a
-common bridge between the two. Living in harmony with our natural
-environment is key to our health as individuals and as a species. The
-practical applications of myconeurological research are vast: environmental
-biosensors, biological computing interfaces, bioremediation networks, and
-ecological monitoring systems all emerge from the insight that fungi process
-information and respond to their environment in sophisticated ways.
-
-## See Also
-
-- [[physarum-computation]]
-- [[biological-slime-mold-computing]]
-- [[mycetozoans-slime-molds]]
+The recognition of [[fungal-intelligence]] raises profound questions about how

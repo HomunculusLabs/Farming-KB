@@ -16,19 +16,19 @@ sources:
 
 # Psilocybin Mushroom Global Distribution
 
-The geographic distribution of psilocybin-containing mushrooms worldwide, organized by region and climate. (see [[psilocybin-mushrooms-overview]]).
+The [[geographic-distribution-of-psilocybe-species]] psilocybin-containing mushrooms worldwide, organized by region and climate.
 
 ## Overview
 
-Psilocybin-containing mushrooms are found on every inhabited continent. They belong primarily to the genus *Psilocybe* (approximately 200+ species), with additional psychoactive species in the genera *Panaeolus*, *Gymnopilus*, *Inocybe*, *Pluteus*, *Conocybe*, and others. The greatest diversity of species occurs in tropical and subtropical regions. (see [[guzman-allen-gartz-neurotropic-fungi-europe]]).
+Psilocybin-containing mushrooms are found on every inhabited continent. They belong primarily to the genus *Psilocybe* (approximately 200+ species), with additional psychoactive species in the genera *Panaeolus*, *Gymnopilus*, *Inocybe*, *Pluteus*, *Conocybe*, and others. The greatest diversity of species occurs in tropical and subtropical regions.
 
 ## North America
 
 ### United States
-- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
+- **[[psilocybin-north-america-pacific-northwest]]**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
-- **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
+- **Northeast**: *Psilocybe ovoideocystidiata* and *[[panaeolus-cinctulus]]* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
@@ -48,7 +48,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 - **Colombia and Ecuador**: Rich diversity in Andean cloud forests and Amazonian lowlands. *Psilocybe cubensis* is widespread in tropical lowlands.
 - **Brazil**: Numerous species documented, particularly in Atlantic coastal forests and Amazonian regions.
 - **Peru and Bolivia**: High-altitude Andean species documented.
-- **Amazon Basin**: Several *Psilocybe* species occur in lowland tropical forests.
+- **Amazon Basin**: Several *Psilocybe* species occur in lowland [[fungal-biodiversity-tropical-forests]].
 - **Caribbean**: *Psilocybe cubensis* is widespread throughout the Caribbean islands.
 
 ## Europe

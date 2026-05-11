@@ -48,7 +48,7 @@ Indica strains generally have a lower THC ratio relative to CBD and CBN. This mo
 | Anxiety | Less suitable (may worsen) | Consider with anxiety |
 | Pain relief | Effective | Effective |
 | Muscle relaxation | Effective | Effective |
-| Receptor binding | Binds both CB1 and CB2 | CBD has greater affinity for CB2 |
+| [[beta-glucan-receptor-binding]] | Binds both CB1 and CB2 | CBD has greater affinity for CB2 |
 
 ## Therapeutic Applications by Strain Type
 
@@ -57,7 +57,7 @@ Indica strains generally have a lower THC ratio relative to CBD and CBN. This mo
 Sativa strains are generally preferred for conditions where mental stimulation, mood elevation, and daytime functionality are desired:
 
 - **Depression**: The energizing and mood-elevating properties can help counteract the lethargy and negative thought patterns characteristic of depression. The higher THC content promotes dopamine release and may temporarily lift mood.
-- **Fatigue-related conditions**: Including certain forms of chronic fatigue and the fatigue associated with multiple sclerosis. The stimulating effects can improve daytime function without the side effects of stimulant medications.
+- **Fatigue-related conditions**: Including certain forms of [[cannabis-chronic-fatigue-research]] and the fatigue associated with [[blesching-cannabis-multiple-sclerosis]]. The stimulating effects can improve daytime function without the side effects of stimulant medications.
 - **ADD/ADHD**: Some patients report improved focus and reduced distractibility, possibly through modulation of dopamine pathways in the prefrontal cortex.
 - **Creative block and stagnation**: The mind-expanding properties can help patients access new perspectives and break free from rigid thought patterns, supporting the neuroplasticity functions of the ECS.
 - **Daytime pain management**: When pain relief is needed without sedation that would interfere with daily activities.
@@ -66,11 +66,11 @@ Sativa strains are generally preferred for conditions where mental stimulation, 
 
 Indica strains are generally preferred for conditions where physical relaxation, anxiety reduction, and sleep support are needed:
 
-- **Anxiety disorders**: The higher CBD content provides anxiolytic effects without the paranoia or increased heart rate that high-THC sativa strains can sometimes produce. CBD modulates the psychoactive effects of THC.
+- **[[cannabis-for-anxiety-disorders]]**: The higher CBD content provides anxiolytic effects without the paranoia or increased heart rate that high-THC sativa strains can sometimes produce. CBD modulates the psychoactive effects of THC.
 - **Insomnia**: The sedating properties, particularly when CBN is present (which increases as THC degrades in aged cannabis), make indica strains effective sleep aids. Many patients use indica strains specifically to improve sleep quality and duration.
-- **Chronic pain and muscle spasms**: The combined muscle-relaxant and analgesic properties are particularly effective for conditions like fibromyalgia, rheumatoid arthritis, and multiple sclerosis-related spasticity.
+- **Chronic pain and muscle spasms**: The combined muscle-relaxant and analgesic properties are particularly effective for conditions like fibromyalgia, [[blesching-cannabis-rheumatoid-arthritis]], and multiple sclerosis-related spasticity.
 - **PTSD**: The grounding and calming effects, combined with CBD's role in fear memory extinction, make indica strains useful for managing hyperarousal symptoms and improving sleep in PTSD patients.
-- **Nausea and appetite stimulation**: Both strains are effective, but indica's palatable and relaxing nature may be preferred for patients dealing with chemotherapy side effects.
+- **Nausea [[cannabis-for-cachexia-and-appetite-stimulation]]**: Both strains are effective, but indica's palatable and relaxing nature may be preferred for patients dealing with chemotherapy side effects.
 
 ## Hybrid Strains
 
@@ -87,38 +87,3 @@ Hybridization allows cultivators to combine desirable traits from both species, 
 The term "hemp" refers to cannabis varieties with extremely low or non-psychoactive THC content (typically below 0.3% by dry weight). While hemp plants are a good source of nutrition (essential fatty acids from hempseed oil), their medicinal quality is limited to mild anti-inflammatory properties. Hemp is legally cultivated in numerous countries for food, fiber, paper, building materials, erosion control, fuel, and biodegradable plastics.
 
 ## Strain Selection Considerations
-
-When selecting a cannabis strain for therapeutic purposes, consider:
-
-1. **Primary symptom or condition**: Match the condition to the strain type most likely to address it
-2. **Time of use**: Sativa for day, indica for night
-3. **THC tolerance**: Lower THC strains (indica-dominant) for new or sensitive patients
-4. **Desired effects**: Energizing vs. relaxing, mental vs. physical focus
-5. **Potential adverse effects**: High-THC sativas may worsen anxiety; high-CBD indicas may cause excessive sedation in some individuals
-6. **Delivery method**: Different methods affect onset and duration regardless of strain
-
-## The Importance of Whole-Plant Medicine
-
-The Cannabis Health Index emphasizes the importance of whole-plant cannabis preparations over isolated cannabinoids. The "entourage effect" refers to the synergistic interaction between multiple cannabinoids, terpenes, flavonoids, and other compounds present in the whole plant. Research suggests that these compounds work together to produce therapeutic effects that are greater than the sum of their individual parts.
-
-For example, CBD can mitigate some of the adverse psychoactive effects of THC (such as anxiety and paranoia) while enhancing its therapeutic benefits (such as pain relief and anti-inflammatory action). Similarly, the terpenes present in cannabis (myrcene, limonene, pinene, linalool) contribute their own therapeutic properties and modify the overall effect profile of each strain.
-
-This is why the sativa vs. indica distinction matters therapeutically: the different cannabinoid ratios in each species type produce different entourage effects, making some strains more appropriate for certain conditions than others.
-
-## Historical Context
-
-The therapeutic use of cannabis dates back thousands of years. The Egyptian Ebers Papyrus (circa 1550 BCE) documents the use of cannabis ground in honey as a remedy for vaginal illness. Ancient Scythians used cannabis to produce trance states, divination, and joy. In India, wandering yogis and sadhus have long used cannabis as a spiritual practice for exploring consciousness.
-
-The biblical book of Exodus describes God instructing Moses to make holy anointing oil containing "keneh bosem" (interpreted by some scholars as cannabis) to anoint Aaron and his sons as priests. To Rastafarians in Jamaica, "the herb is the key to new understanding of the self, the universe, and God. It is the vehicle to cosmic consciousness." This deep historical relationship between humanity and the cannabis plant underscores its enduring therapeutic and spiritual significance.
-
-## Limitations and Considerations
-
-It is important to note that the sativa-indica binary is somewhat oversimplified. Modern cannabis breeding has produced countless hybrid strains with complex cannabinoid and terpene profiles that do not neatly fit into either category. Individual plant samples can vary significantly in their chemical composition depending on growing conditions, harvest timing, and processing methods.
-
-Furthermore, individual patient responses to different strains are highly variable due to differences in ECS receptor density, metabolism, prior exposure, and psychological set and setting. The Cannabis Health Index recommends an experimental approach: try different strains, document the effects, and refine the selection over time to find the optimal therapeutic match.
-
-## See Also
-
-- [[endocannabinoid-system]]
-- [[cannabinoid-receptors-cb1-and-cb2]]
-- [[phytocannabinoids-in-common-spices]]

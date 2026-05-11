@@ -80,7 +80,7 @@
     80|Parisian market gardeners, who fed a major city year-round using hotbeds and
     81|cloches; Chinese and Japanese protected [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]; and the practical
     82|innovations of organic pioneers such as Albert Howard and Lady Eve Balfour.
-    83|Contemporary practitioners like Coleman, [[steve-solomon]], and [[sepp-holzer-entity]] have
+    83|Contemporary practitioners like Coleman, [[steve-solomon]], and [[sepp-holzer]] have
     84|synthesized these traditions with new materials -- plastic films, spun-bonded
     85|fabrics, polycarbonate panels -- creating a toolkit accessible to growers at
     86|every scale.

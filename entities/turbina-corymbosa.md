@@ -88,31 +88,3 @@ of preparation as an aqueous infusion.
 ## Ethnobotanical Uses
 
 Turbina corymbosa is one of the most important hallucinogenic plants
-of Mesoamerica. Known to the Aztecs as Ololiuqui (from the Nahuatl
-ololiuhqui, meaning "round thing"), the seeds have been used for
-centuries in divination, healing, and religious ceremonies. Spanish
-chroniclers, including Francisco Hernandez in the 16th century,
-documented the ritual use of Ololiuqui among the Aztecs, describing
-how priests consumed the seeds to communicate with the gods and
-receive oracular visions.
-
-The seeds are traditionally prepared by grinding them into a powder
-and soaking them in water to produce an infusion, which is then
-consumed. The effects include visual hallucinations, altered perception
-of time and space, and a dreamlike state of consciousness. In addition
-to its psychoactive properties, Turbina corymbosa has documented
-analgesic properties and has been used in traditional medicine for
-the treatment of pain and various ailments.
-
-## History
-
-The use of Ololiuqui predates the Spanish conquest and likely extends
-back thousands of years. Despite suppression by colonial authorities
-who associated its use with pagan ritual, the tradition of consuming
-Turbina corymbosa seeds has persisted among indigenous communities in
-Oaxaca and other regions of southern Mexico to the present day.
-
-## See Also
-
-- [[cannabis-sativa]]
-- [[peganum-harmala]]

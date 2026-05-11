@@ -11,8 +11,8 @@ type: concept
 
 # Humus Building and Soil Life
 
-Steve Solomon places humus at the center of soil health. Humus is the
-stable residue of decomposed organic matter, a complex substance highly
+[[steve-solomon]] places humus at the center of soil health. Humus is the
+stable residue of decomposed [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], a complex substance highly
 resistant to further decomposition. It is what gives soil its crumb
 structure, its ability to hold moisture and nutrients, and its capacity
 to support thriving plant life.
@@ -22,7 +22,7 @@ to support thriving plant life.
 Except in the driest, hottest deserts, all soil contains humus. Humus
 is not a single chemical compound but a complex mixture of organic
 molecules that result from the partial decomposition of plant and animal
-residues. While humus does eventually break down completely and vanish
+residues. While humus does eventually [[query-can-fungi-break-down-plastic-pollution]] completely and vanish
 from the soil, this happens very slowly.
 
 Soil humus has a carbon-nitrogen ratio of around 12:1 in every type of
@@ -71,7 +71,7 @@ slower without his initial laborious digging to loosen the subsoil.
 
 The soil food web includes bacteria, fungi, actinomycetes, protozoa,
 nematodes, and various arthropods. These organisms decompose organic
-matter, fix nitrogen, make nutrients available to plants, suppress
+matter, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], make nutrients available to plants, suppress
 disease organisms, and create soil structure through their biological
 activity. A healthy soil with abundant humus supports a diverse and
 active microbial population.
@@ -80,7 +80,7 @@ active microbial population.
 
 Solomon warns that conventional gardening practices deplete soil humus.
 Intensive [[home-vegetable-garden-planning]], which removes large quantities of plant
-material from the garden, steadily mines soil organic matter. If
+material from the garden, steadily mines [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]. If
 nothing is returned to the soil, humus levels decline over time, tilth
 deteriorates, and the soil becomes increasingly dependent on external
 fertilizer inputs.
@@ -88,50 +88,3 @@ fertilizer inputs.
 The solution is to regularly return decomposed organic matter to the
 soil. Solomon calculates that it takes a layer of manure or compost
 only a quarter inch (six millimeters) thick to convert the top few
-inches of growing beds into friable soil with excellent tilth. Most
-gardeners find it hard to spread that little. One pickup truck load
-would cover fourteen 100-square-foot growing beds at a quarter inch
-deep, a manageable amount for most home gardeners.
-
-## Balancing Humus Building with Fertilization
-
-Solomon advocates a dual approach: use [[solomon-complete-organic-fertilizer-guide]] fertilizer to
-supply plant nutrients, and separately maintain soil humus through
-regular additions of decomposed organic matter. The COF provides
-nutrients without depleting humus, while compost, manure, or other
-organic amendments build and maintain the soil's physical structure and
-biological activity.
-
-He explicitly states that it works out to be less effort and far more
-effective to heap-compost enough organic material to maintain soil humus
-at healthy levels and then use something like COF as fertilizer, when
-needed, on medium- and high-demand vegetables.
-
-## Humus in Different Soil Types
-
-In clay soils, humus is particularly valuable because it wedges
-between clay particles, preventing them from forming hard clods and
-improving aeration and drainage. In sandy soils, humus acts as a sponge,
-dramatically increasing water and nutrient retention. In loam soils,
-regular humus additions maintain the excellent structure that makes
-these soils naturally productive.
-
-## The Role of Cover Crops
-
-[[mollison-designers-cover-crops-and-green-manure-species]] green manures contribute to humus building by adding
-organic matter directly to the soil. When turned under, their roots and
-top growth become food for soil organisms, eventually converting to
-humus. Leguminous cover crops additionally fix atmospheric nitrogen,
-further enriching the soil.
-
-## Related
-
-- [[solomon-compost-tumbler-critique-and-turning-frequency]]
-
-- [[flocculation-and-natural-subsoil-loosening-solomon]]
-
-- solomon capillarity and soil moisture movement Concepts
-
-- [[solomon-carbon-nitrogen-ratios]]
-- [[solomon-tilling-and-soil-aeration]]
-- [[solomon-soil-mineral-depletion]]

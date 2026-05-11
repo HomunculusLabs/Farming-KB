@@ -1,11 +1,12 @@
 ---
-title: "fukuoka textdoc rodenticide cycle forest destruction mouse weasel and Forest Destruction Chain"
+title: Fukuoka Textdoc Rodenticide Cycle Forest Destruction Mouse Weasel
 created: 2026-04-28
 tags: [ecology, rodenticide, forest-destruction, cascade-failure, food-chain, pine-forest, ecosystem-balance, pest-control]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "The Natural Way of Farming - Masanobu Fukuoka (administrator-microsoft-word-fukuoka-textdoc.md)"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "The Natural Way of Farming - [[masanobu-fukuoka]] (administrator-microsoft-word-fukuoka-textdoc.md)"
 type: concept
 ---
 
@@ -22,7 +23,7 @@ balance.
 The rodenticide is a temporary expedient that answers only the needs of a given time
 and place; it is not a responsible action in keeping with the true cycles of nature. Man
 cannot possibly replace all the functions of plants and animals on this earth through
-scientific analysis and human knowledge. While unable to fully grasp the totality of
+[[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]] and human knowledge. While unable to fully grasp the totality of
 these interrelationships, any rash endeavor such as the selective extermination or
 raising of a species only serves to upset the balance and order of nature.
 
@@ -40,7 +41,7 @@ that lives symbolically on the roots of red pines.
 
 This beneficial fungus has died off as a result of an increase in the harmful Botrytis
 fungus in the soil, which is itself a consequence of the acidity of the soil. The high
-soil acidity is the result of atmospheric pollution and acid rain, and so on and so
+soil acidity is the result of atmospheric pollution and [[stamets-mycorrhizal-decline-europe-acid-rain-forest-health]], and so on and so
 forth. This backward regression from effect to prior cause continues in an unending
 chain that leaves one wondering what the true cause is.
 
@@ -87,51 +88,3 @@ forest. Qualitative changes also take place in the air and temperature of the fo
 causing subtle changes in weather and affecting the microbial world.
 
 No matter how closely one looks, there is no limit to the complexity and detail with
-which nature interacts to effect constant, organic change. When a single variable is
-altered — the species of tree, for example — the ripple effects propagate through
-soil chemistry, [[fukuoka-microbial-ecology-decomposition]], insect populations, bird habitats, and weather
-patterns in ways that no scientific analysis can fully predict or control.
-
-## The Problem of Aerial Forest Spraying
-
-The aerial spraying of mountain forests with herbicides, pesticides, and chemical
-fertilizers is considered a success if a given weed or [[ingham-foliar-insect-pest-deterrence-mechanisms]] is selectively
-killed, or the growth of trees improved. But this is a grave error that can prove most
-dangerous. Natural conservationists have already recognized such practices as
-polluting.
-
-Spraying herbicides such as PCP does more than just kill weeds. This acts also as a
-bactericide and fungicide, killing both black spot on living plants and the many
-putrefactive fungi and bacteria on fallen leaves. Lack of leaf decomposition seriously
-affects the habitats of earthworms and ground beetles, on top of which PCP also
-destroys microorganisms in the ground.
-
-## The Chloropicrin Example
-
-Treating the soil with chloropicrin will temporarily alleviate bacterial [[staycare-soft-rot-fungi-in-pollutant-degradation]] in
-Chinese cabbage and the daikon radish, but the disease breaks out again two years
-later and gets completely out of hand. This germicide halts the soft rot, but at the
-same time it also kills other bacteria that moderate the severity of the disease,
-leaving the field open to the soft rot bacteria.
-
-Chloropicrin also works against fusarium fungi and sclerotium fungi that attack young
-seedlings, but one cannot overlook the fact that these fungi kill other important
-pathogens. Is it really possible to restore the balance of nature by spraying an array
-of bactericides and fungicides like this into a soil populated with such a large
-variety of microbes?
-
-## The True Cause Is Unknowable
-
-No matter how far back into the past one goes in search of causes, these causes are
-preceded by other causes in an endless chain of interwoven events and factors that
-is beyond man's powers of comprehension. The scientific approach of isolating a single
-cause and treating it with a targeted intervention fundamentally misunderstands the
-nature of ecological systems. Instead of trying to bring nature around to his own
-designs with pesticides, man would be much wiser to step out of the way and let
-nature carry on its affairs without his interference.
-
-## Related Concepts
-
-- [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] for the broader cascade
-- [[fukuoka-textdoc-natural-order-microbial-ecology]] for microbial ecosystem balance
-- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]] for the weed resistance problem

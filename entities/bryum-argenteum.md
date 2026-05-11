@@ -87,25 +87,3 @@ The species has been investigated as a potential bioremediation agent for heavy 
 In molecular biology, *B. argenteum* has been used as a model system for studying desiccation tolerance mechanisms. Comparative genomics between this species and desiccation-sensitive mosses have identified key genes involved in drought survival.
 
 The species' extremophile characteristics have attracted interest in astrobiology. Its ability to survive simulated Martian atmospheric conditions and high UV radiation has been tested as a model for assessing potential bryophyte survival on other planets.
-
-In horticulture, *B. argenteum* occasionally appears as a weed in greenhouses and container gardens. While generally considered undesirable in cultivation, some enthusiasts cultivate it for its distinctive silvery appearance in miniature landscapes and model railway settings.
-
-## See Also
-
-- [[bryum-bimum]]
-
-- [[sphagnum-cuspidatum]]
-- [[hypnum-cupressiforme]]
-- [[peltigera-aphthosa]]
-- [[cetraria-nivalis]]
-- [[equisetum-arvense]]
-- [[pinus-sylvestris]]
-- [[ectomycorrhiza]]
-- [[sticta-sylvatica]]
-- [[dryopteris-filix-mas]]
-- [[larix-decidua]]
-- [[sequoia-sempervirens]]
-- [[matteuccia-struthiopteris]]
-- [[adiantum-pedatum]]
-- [[pteris-vittata]]
-- [[ericoid-mycorrhiza]]

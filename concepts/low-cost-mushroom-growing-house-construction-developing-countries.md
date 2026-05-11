@@ -88,32 +88,3 @@ should be integrated with the house design from the outset.
 
 ## Economic Considerations
 For growers in developing countries, the growing house represents a
-significant capital investment that must generate returns within a
-reasonable timeframe. Cost-benefit analysis should account for
-construction materials, expected lifespan, maintenance requirements,
-and the value of the mushroom crop in local markets. Starting with the
-simplest adequate structure and upgrading incrementally as profits
-allow is generally the most prudent approach. Cooperative ownership
-allows multiple growers to share costs while maintaining individual
-production areas. Microfinance can help bridge the initial capital gap.
-
-## Common Problems and Solutions
-Insect pests including sciarid flies and phorid flies are the most
-frequent problems in low-cost growing houses. Fine mesh screens on all
-openings, sealed floor surfaces, and removal of spent substrate reduce
-pest pressure. Contamination by competitor molds is minimized through
-adequate ventilation and proper hygiene practices. Structural failures
-can be prevented by using durable materials and providing adequate
-drainage around the growing house. Temperature spikes during hot
-periods are addressed by improving shading, increasing ventilation,
-and using evaporative cooling.
-
-- [[mushroom-poverty-alleviation-developing-countries]]
-- tropical-mushroom-house-construction
-- [[mushroom-growing-houses]]
-## See Also
-- [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
-- [[mushroom-fruiting-chamber-designs]]
-- [[oyster-mushroom-cultivation-methods]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]

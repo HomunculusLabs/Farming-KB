@@ -1,5 +1,5 @@
 ---
-title: Ultra-Low Concentration [[fruit-body-count-per-flush-brassinosteroid-efficacy]] and Hormetic Dose Response in Fungi
+title: Ultra Low Concentration Brassinosteroid Efficacy Hormetic Dose Response Fungi
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 topics: [dose response, hormesis, brassinosteroid, ppm concentration, fungal physiology]
 ---
@@ -10,9 +10,9 @@ topics: [dose response, hormesis, brassinosteroid, ppm concentration, fungal phy
 
 One of the most remarkable aspects of the Gartz et al. (1990) study is the extremely
 low concentration at which 22S,23S-homobrassinolide produced dramatic effects on
-*Psilocybe cubensis* growth. The applied concentration was **10⁻² ppm** (0.01 mg/L,
+*[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* growth. The applied concentration was **10⁻² ppm** (0.01 mg/L,
 approximately 20 nM). This ultra-low effective dose places brassinosteroids among the
-most potent known growth regulators for fungi and raises important questions about dose-
+most potent known [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]] for fungi and raises important questions about dose-
 response relationships, receptor affinity, and potential hormetic effects.
 
 ## The 10⁻² ppm Dose in Context
@@ -71,13 +71,13 @@ optimal effects at low doses and inhibitory effects at high doses).
 
 ### Evidence for Hormesis
 In plant systems, brassinosteroids typically show hormetic dose responses:
-- **Low concentrations (0.01–1 nM)**: Subtle growth promotion
+- **Low concentrations (0.01–1 nM)**: Subtle [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
 - **Optimal range (1–100 nM)**: Maximal growth promotion
 - **High concentrations (>1 µM)**: Growth inhibition, possibly due to receptor
   desensitization, membrane disruption, or metabolic toxicity
 
 If the fungal response follows a similar pattern, the 20 nM applied dose may be
-near the optimal range, or it could be sub-optimal if the fungal sensitivity
+near the optimal range, or it could be sub-optimal if the [[fungal-sensitivity-testing-identification]]
 differs from plant systems.
 
 ### Potential for Overdose Effects
@@ -86,58 +86,4 @@ Higher concentrations of brassinosteroids might:
 - Incorporate excessively into membranes, altering fluidity adversely
 - Desensitize receptors through down-regulation
 - Interfere with normal developmental timing
-- Produce abnormal morphology (beyond the annulus loss already observed)
-
-### The Narrow Therapeutic Window Hypothesis
-If the fungal brassinosteroid response is hormetic, there may be a narrow
-"therapeutic window" between the effective dose and the inhibitory dose. This
-would have important practical implications for cultivation: too little brassinosteroid
-produces no effect, the optimal dose produces dramatic enhancement, and too much
-could actually harm the culture.
-
-## Practical Dose Considerations for Cultivation
-
-For cultivators considering brassinosteroid supplementation, several factors affect
-the effective dose:
-
-### Substrate Binding
-Brassinosteroids are hydrophobic and may bind to [[maintaining-organic-matter-in-vegetable-gardens]] the substrate,
-reducing the bioavailable concentration. The actual dose reaching the mycelium
-could be significantly lower than the applied dose. This effect varies with
-substrate composition.
-
-### Degradation
-While relatively stable, brassinosteroids can be degraded by:
-- UV light (photodegradation)
-- Microbial enzymes in non-sterile substrates
-- Oxidation at elevated temperatures
-- pH extremes
-
-### Distribution
-In solid substrates, brassinosteroid distribution may be uneven, creating
-concentration gradients. Areas of high local concentration could experience
-inhibitory effects while areas of low concentration see no effect.
-
-## Cost-Effectiveness at Ultra-Low Doses
-
-The extremely low effective concentration (0.01 mg/L) has significant economic
-implications. For a typical cultivation substrate volume of 10 liters, only
-0.1 mg of brassinosteroid would be needed. Even accounting for binding losses
-and degradation, the actual material cost per cultivation cycle would be minimal
-if the compound were commercially available at reasonable prices.
-
-## Dose-Response Experiments Still Needed
-
-Critical experiments that remain to be performed:
-1. Full dose-response curve from 10⁻⁶ to 10² ppm
-2. Time-course studies of brassinosteroid stability in various substrates
-3. Comparison of continuous vs. pulse [[stamets-substrate-supplementation-strategies-mushroom-cultivation]]
-4. Interaction studies with other growth regulators (auxins, cytokinins)
-5. Dose effects on alkaloid (psilocybin/psilocin) content of fruiting bodies
-
-## See Also
-
-- [[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]] — Related analysis
-- [[brassinosteroid-growth-promotion-psilocybe-cubensis]] — Main study results
-- [[22s-23s-homobrassinolide]] — The compound applied
-- [[brassinosteroid-anti-stress-effects-crop-science]] — Agricultural parallels
+- Produce abnormal morphology (beyond the [[annulus-loss-morphological-effect-brassinosteroid-treatment]] already observed)

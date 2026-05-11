@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
   - /Users/t3rpz/wiki/raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
@@ -41,7 +42,7 @@ based approach.
 **David Holmgren** (born 1955) joined Mollison at Hobart's Environmental
 Design School in 1973. Their intense three-year collaboration produced the
 permaculture concept. Holmgren maintained Melliodora, one of Australia's best-
-known demonstration sites, in Hepburn Springs, Victoria.
+known demonstration sites, in [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]], Victoria.
 
 ## Key Publications
 
@@ -75,69 +76,14 @@ Holmgren's 12 principles, each with an associated proverb:
 3. **Obtain a Yield** — "You can't work on an empty stomach."
 4. **Apply Self-Regulation and Accept Feedback** — "The sins of the fathers
    are visited on the children unto the seventh generation."
-5. **Use and Value Renewable Resources** — "Let nature take its course."
+5. **Use [[permaculture-principle-use-and-value-renewable-resources]] Resources** — "Let nature take its course."
 6. **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — "Waste not, want not."
-7. **Design from Patterns to Details** — "Can't see the wood for the trees."
-8. **Integrate Rather Than Segregate** — "Many hands make light work."
+7. **Design from [[permaculture-principle-design-from-patterns-to-details]]** — "Can't see the wood for the trees."
+8. **[[permaculture-integrate-rather-than-segregate]] Segregate** — "Many hands make light work."
 9. **Use Small and Slow Solutions** — "The bigger they are, the harder they
    fall."
-10. **Use and Value Diversity** — "Don't put all your eggs in one basket."
+10. **Use [[permaculture-principle-use-and-value-diversity]]** — "Don't put all your eggs in one basket."
 11. **Use Edges and Value the Marginal** — "Don't think you're on the right
     track just because it's a well-beaten path."
-12. **Creatively Use and Respond to Change** — "Vision is not seeing things as
+12. **Creatively Use and [[permaculture-principle-creatively-use-and-respond-to-change]]** — "Vision is not seeing things as
     they are but as they will be."
-
-## Design Methods
-
-- **Zone analysis** — Organizing elements by frequency of use, from Zone 0
-  (house) to Zone 5 (wilderness)
-- **Sector analysis** — Mapping external energies (sun, wind, fire, water,
-  wildlife) influencing the site
-- **[[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]]** — Recognizing natural patterns (branching, spirals,
-  waves, nets) and applying them to design
-- **Element analysis** — Understanding inputs, outputs, and characteristics of
-  each element
-- **Guild design** — Assembling mutually supporting groups of plants, animals,
-  and structures
-
-## Applications
-
-- **Food production**: Food forests, [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]], keyhole gardens,
-  integrated animal systems
-- **Water management**: Swales, keyline design, greywater, [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
-- **Building design**: Passive solar, natural building, earth-sheltered
-  structures
-- **Community economics**: Local currencies, cooperatives, CSA, skill-sharing
-- **Land restoration**: [[permplant-willows-salix-erosion-control-fodder]], reforestation, soil building, watershed
-  management
-- **Social systems**: Governance, conflict resolution, education
-
-## Related Movements
-
-Permaculture draws from organic agriculture, agroforestry, Fukuoka's natural
-farming, ecological design (John Todd), bioregionalism, deep ecology, and
-indigenous knowledge systems. It influenced the Transition Towns movement and
-continues to inform regenerative agriculture approaches.
-
-## Global Impact
-
-Permaculture has spread worldwide with thousands of demonstration sites and
-training programs. Permaculture Design Certificate (PDC) courses — 72 hours
-following Mollison's curriculum — have trained hundreds of thousands of students.
-Its emphasis on practical, implementable design solutions has made it one of
-the most influential approaches to sustainable development.
-
-## See Also
-
-- [[caulophyllum-thalictroides]]
-- [[dave-jacke]]
-- [[polygonum-multiflorum]]
-- [[schizochytrium-limacinum]]
-
-- [[david-holmgren]] — co-originator, articulator of the 12 principles
-- [[sepp-holzer-entity]] — Austrian permaculture innovator
-- robert-hart — pioneer of forest gardening
-- [[eliot-coleman]] — four-season farming innovator
-- crataegus-monogyna
-- agrimonia-eupatoria
-- [[nasturtium-officinale]]

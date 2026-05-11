@@ -87,10 +87,3 @@ Culinary preparations typically include sauteing, grilling, pickling, or preserv
 Dighton (2003) references lactarius deliciosus in two contexts: its nutritional composition as an edible mushroom (protein, fat, carbohydrate, and ash content) and its heavy metal tolerance compared to other ectomycorrhizal fungi. These references highlight the dual importance of this species as both a valued food resource and a subject of ecotoxicological research relevant to forest health and ecosystem management.
 
 ## See Also
-
-- Lactarius
-- Russulaceae
-- Ectomycorrhiza
-- edible mushrooms
-- heavy metal tolerance
-- pine forests

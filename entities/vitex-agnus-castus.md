@@ -88,32 +88,3 @@ The key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] resp
 
 ### Mechanism of Action
 The primary mechanism of action is dopaminergic:
-
-1. **Dopamine D2 receptor agonism:** Diterpenes (particularly casticin) bind to dopamine D2 receptors on lactotroph cells in the anterior pituitary, inhibiting prolactin secretion. Elevated prolactin is implicated in breast tenderness, menstrual irregularities, and some forms of infertility
-2. **Opioid receptor modulation:** Some evidence for interaction with μ-opioid receptors, contributing to analgesic effects relevant to dysmenorrhea
-3. **Estrogen receptor modulation:** In vitro studies suggest selective estrogen receptor modulation (SERM-like activity), though clinical relevance remains uncertain
-4. **Progesterone receptor interaction:** May enhance progesterone receptor sensitivity in the endometrium, supporting luteal phase function
-
-### Clinical Evidence
-- **PMS:** Multiple randomized controlled trials (RCTs) demonstrate superiority over placebo for PMS symptoms. A 2017 systematic review found that standardized chaste tree extracts (ZE 440 preparation) significantly reduced PMS symptom scores compared to placebo (RR 0.63, 95% CI 0.54–0.74). Effects are typically observed after 2–3 menstrual cycles of consistent use
-- **Mastalgia (breast pain):** RCTs confirm significant reduction in cyclical breast pain compared to placebo; response rates of 50–65% vs. 20–30% for placebo
-- **Luteal phase support:** Preliminary evidence for improved luteal progesterone levels and pregnancy rates in women with luteal phase deficiency, though larger trials are needed
-- **Regulatory status:** Approved by the German Commission E for menstrual irregularities, PMS, and mastalgia. ESCOP and the European Medicines Agency (EMA) HMPC have published positive monographs supporting traditional and well-established use
-
-## Permaculture Applications
-
-### Pollinator Plant
-The long flowering period (8–12 weeks from July through September) makes chaste tree one of the most valuable late-season nectar sources in Mediterranean and warm-temperate climates. The flowers attract:
-
-- **Butterflies:** A preferred nectar source for numerous butterfly and skipper species; the plant is sometimes called "butterfly bush" in the American South
-- **Bees:** Honeybees, bumblebees, and various solitary bee species forage extensively on the flowers
-- **Beneficial wasps:** Parasitic wasps critical for [[drought-tolerant-planting-design]], requiring minimal supplemental irrigation. Its deep taproot system accesses groundwater unavailable to shallower-rooted plants, making it an excellent choice for:
-
-- **Xeriscaping:** A cornerstone p water water wise orchard irrigation irrigation rigation landscaping in Mediterranean and warm-temperate clima food forest d forest canopy edge:** Suitable as a small tree or large shrub in the mid-layer of food forest designs, providing dappled shade for understory herbs while requiring no irrigation
-- **Riparian buffer margins:** Thrives on the edges of seasonal waterways where periodic flooding is followed by extended dry periods
-
-### Dynamic Accumulator and Soil Builder
-- **Deep nutrient mining:** The extensive taproot draws minerals from deep soil layers, cycling nutrients to the surface through [[herbal-medicine-making-basics]] Species and Allies
-
-- **Vitex negundo (Chinese Chaste Tree):** Related Asian species used in Traditional Chinese Medicine (TCM) under the name *Jing Jie* (荆芥). Used for colds, headaches, and inflammatory conditions. Pharmacologically distinct from *V. agnus-castus* but shares some iridoid glycoside constituents
-- **Vitex trifolia:** Tropical coastal species native to Asia and the Pacific; used in Ayurvedic and folk medicine. [[elaeagnus-umbellata]]

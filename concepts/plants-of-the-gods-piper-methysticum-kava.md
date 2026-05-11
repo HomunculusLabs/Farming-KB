@@ -1,5 +1,5 @@
 ---
-title: "plants of the gods piper methysticum kava: Kava-Kava — Pacific Island Narcotic"
+title: Plants Of The Gods Piper Methysticum Kava
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -21,19 +21,19 @@ type: concept
 The famous and widely employed Kava-kava (Piper methysticum) is
 not a true hallucinogen but has been classified as a hypnotic
 narcotic. It is the most important psychoactive plant of the
-Pacific Islands. Polynesian Islanders of the Pacific had Kava-kava
+[[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. Polynesian Islanders of the Pacific had Kava-kava
 but seem never to have had a true hallucinogen in use: Kava-kava
 is classed as a hypnotic rather than a hallucinogen.
 
 ## Botanical Background
 
 Piper methysticum belongs to the Piperaceae (pepper family), the
-same family that includes [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum). Kava is a
+same family that includes [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] ([[piper-nigrum-entity]]). Kava is a
 cultivar — a plant known only in cultivation, never found in the
 wild. It is believed to have been domesticated from its wild
 progenitor Piper wichmannii, native to Vanuatu and Papua New
 Guinea. The domesticated form is sterile and reproduces only
-through vegetative propagation by stem cuttings.
+through [[hamilton-vegetative-propagation]] by stem cuttings.
 
 The plant is a robust, perennial shrub growing 6 to 10 feet (2-3
 m) tall. The heart-shaped leaves are large, 4 to 10 inches (10-25
@@ -88,48 +88,3 @@ sodium and calcium channels, and effects on the limbic system.
 This pharmacological profile differs fundamentally from that of
 classical hallucinogens, explaining why kava is classified as a
 hypnotic-sedative rather than a hallucinogen.
-
-## Effects and Experience
-
-The effects of kava are characterized by a sense of relaxation,
-euphoria, and sociability. Users typically experience a calming
-of anxiety, loosening of muscular tension, and a mild euphoric
-state. Unlike alcohol, kava generally does not impair cognitive
-function or cause aggressive behavior. At higher doses, it
-produces drowsiness and deep sleep.
-
-Kava is notable for producing a tranquil state without
-significantly affecting mental clarity in moderate doses. This has
-made it an important social beverage, facilitating conversation
-and social bonding. The experience is often described as a
-"peaceful" or "serene" intoxication, quite different from the
-visionary states induced by true hallucinogens.
-
-## Geographic Distribution
-
-[[kava-kava-ethnobotany-chemistry]] extends across the Pacific, from Vanuatu (its
-probable center of origin) through Fiji, Samoa, Tonga, and
-Hawaii. Vanuatu produces the highest-quality kava varieties,
-with the greatest kavalactone content. Different Pacific cultures
-have developed distinct cultivar varieties, each with unique
-chemical profiles and associated effects, known as "chemotypes."
-
-## The Place of Kava in World Ethnopharmacology
-
-As Schultes and Hofmann note, Kava-kava stands alongside other
-major psychoactive plants of indigenous cultures — Tobacco, Coca,
-Ayahuasca, Peyote — as a plant of profound cultural significance.
-While not a hallucinogen, kava represents the Pacific Islands'
-unique contribution to the world's ethnopharmacological heritage.
-Its continued use in traditional societies and growing interest
-worldwide attest to its enduring cultural importance.
-
-## Related
-
-- [[piper-methysticum]] Topics
-
-- [[plants-of-the-gods-overview-hallucinogenic-plant-use]] —
-  classification of psychoactive plants by type
-- [[plants-of-the-gods-phytochemistry-sacred-plants]] —
-  phytochemical research methods for sacred plants
-- [[kaempferia-galanga]]

@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Energy Descent Action Planning
 
@@ -87,9 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-## See Also
-- [[appropriate-technology]]
-- [[david-holmgren]]
-- [[holmgren-energy-descent-planning]]
-- [[permaculture-energy-descent-planning]]
-- [[holmgren-energy-descent-permaculture-flower]]

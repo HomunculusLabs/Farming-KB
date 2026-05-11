@@ -1,5 +1,5 @@
 ---
-title: "Chen - [[chen-maitake-growth-parameters-environmental-control]] primordia [[growing-gourmet-cold-shock-temperature-initiation-fruiting]] Initiation and comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms Development"
+title: Chen Maitake Primordia Initiation Fruiting
 created: 2026-04-28
 tags: [maitake, primordia, fruiting, morphogenesis, grifola-frondosa]
 date: 2026-04-28
@@ -88,11 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

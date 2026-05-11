@@ -1,5 +1,5 @@
 ---
-title: "α(1-3)-Glucan in [[aspergillus-fumigatus]] and Human Fungal Pathogens"
+title: Aspergillus Fumigatus Alpha 1 3 Glucan Virulence
 source: "geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment"
 source_author: "Anne Beauvais, David S. Perlin, Jean Paul Latgé"
 topics: ["mycology", "fungal-pathogenesis", "cell-wall-biology", "immunology"]
@@ -88,33 +88,3 @@ Both Rho1p and Rho2p coordinately regulate β(1-3) and α(1-3) glucan synthesis 
 ## Role in Host Defense Evasion
 
 ### General Mechanisms
-
-α(1-3) glucan-rich pathogens infect through inhalation. The alveolar macrophage is the first line of defense. The cell wall protects against reactive oxidants and other host defense molecules. α(1-3) glucan contributes to pathogenicity through:
-
-1. **Immune masking**: In *A. fumigatus*, α(1-3) glucan masks the immunostimulatory β(1-3) glucan layer. The galactomannan/α(1-3) glucan outer layer prevents host immune receptors (such as Dectin-1) from recognizing the underlying β-glucan.
-2. **Protective barrier formation**: In *B. dermatitidis*, *H. capsulatum*, and *P. brasiliensis*, α(1-3) glucan forms a physical barrier at the host-fungal cell interface
-3. **Binding immunoreactive molecules**: In *C. neoformans* and *A. fumigatus*, α(1-3) glucan interacts directly with host immune molecules
-
-### Species-Specific Virulence Roles
-
-- **H. capsulatum**: Avirulent variants lack α(1-3) glucan in their cell walls. RNAi knockdown of AGS1 converts the yeast form from rough to smooth morphology, reducing virulence.
-- **B. dermatitidis**: Altered expression of surface α(1-3) glucan correlates with virulence differences between genetically related strains.
-- **C. neoformans**: α(1-3) glucan is required to anchor the polysaccharide capsule. AGS1 deletion prevents capsule formation, severely compromising virulence. The capsule is the hallmark virulence factor of cryptococcosis.
-- **A. fumigatus**: AGS3 deletion reduces virulence in murine infection models (Maubon et al., 2006), confirming the role of α(1-3) glucan in pathogenicity.
-
-## Significance for Antifungal Development
-
-Understanding α(1-3) glucan biosynthesis has several implications:
-
-- **Drug targets**: The AGS genes and their regulatory pathways (Rho2p/Pck2p) represent potential antifungal targets absent from human cells
-- **Diagnostic applications**: Monoclonal antibodies against α(1-3) glucan can distinguish pathogenic from non-pathogenic forms
-- **Vaccine development**: α(1-3) glucan exposure patterns could inform vaccine antigen design
-- **Ecasin-resistant strains**: Cell wall composition changes (including α(1-3) glucan) can lead to amphotericin B resistance, as demonstrated in *A. flavus*
-
-## Key References
-
-- Beauvais, A., et al. (2005). "Glucan synthases with a similarity to the starch synthase gene from plants are required for *Aspergillus fumigatus* cell wall biosynthesis." *Molecular Microbiology*
-- Rappleye, C.A., Engle, J.T. & Goldman, W.E. (2004). "RNA interference in *Histoplasma capsulatum* demonstrates a role for α-(1-3)-glucan in virulence." *Molecular Microbiology* 53: 153-65
-- Reese, A.J. & Doering, T.L. (2003). "Cell wall α-1,3-glucan is required to anchor the *Cryptococcus neoformans* capsule." *Molecular Microbiology* 50: 1401-9
-- Klimpel, K.R. & Goldman, W.E. (1988). "Cell walls from avirulent variants of *Histoplasma capsulatum* lack α-(1,3)-glucan." *Infection and Immunity* 56: 2997-3000
-- Hochstenbach, F., et al. (1998). "Fission yeast α-glucan synthase Mok1 requires the actin cytoskeleton to localize the sites of growth." *Journal of Cell Biology* 144: 1173-86

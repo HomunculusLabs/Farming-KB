@@ -16,8 +16,8 @@ agriculture's reliance on expensive synthetic chemicals. Founded by Youngsang
 Cho, JADAM (Jayonul Damun Ultralow-cost Agriculture) argues that pesticide
 is essential in farming because the fundamental purpose of agriculture is to
 take the entire harvest, whereas nature's purpose is to share fruits with
-animals and birds for seed dispersal. Rather than pretending farming can
-exist without pest control, JADAM developed ultra-low-cost natural pesticides
+animals and birds for [[clay-pellet-seed-dispersal]]. Rather than pretending farming can
+exist without pest control, JADAM developed ultra-low-cost [[jadam-pest-control-with-natural-pesticides-jhs]]
 that farmers can make themselves.
 
 ## Why Pesticide Is Essential
@@ -32,11 +32,11 @@ as seed-dispersal agents. Autumn is the season when trees market their
 fruits to clients. Trees are not attached to their fruits; they want them
 eaten and carried far away.
 
-Chemical pesticide that cost 10 dollars ten years ago now costs 100 dollars,
+[[jadam-natural-vs-chemical-pesticide]] that cost 10 dollars ten years ago now costs 100 dollars,
 and prices continue climbing. The biggest culprit in making farming expensive
 is chemical pesticide. Commercial organic pesticides are even more expensive
 than chemical ones and often require more frequent application. JADAM
-pesticide costs about 1/50 of buying chemical pesticides, bringing total
+pesticide costs about 1/50 of buying [[comparison-parasitoid-wasps-vs-chemical-pesticides]], bringing total
 farming costs down to approximately 100 dollars per acre.
 
 ## Natural vs. Chemical Pesticides
@@ -47,7 +47,7 @@ microbes, persisting in the environment and accumulating in ecosystems. JADAM
 natural pesticides are made from substances that microbes can decompose,
 leaving no harmful residues in soil, water, or harvested produce.
 
-The key ingredients in JADAM pesticide are substances safe for humans that
+The key ingredients in [[jadam-pesticide-dosage-guide]] are substances safe for humans that
 comply with international organic production regulations. JADAM pesticide
 does not develop resistance in pests because it works through multiple modes
 of action simultaneously, unlike single-compound synthetic chemicals that
@@ -69,7 +69,7 @@ innovation that makes JADAM pesticide effective at ultra-low cost.
 JADAM sulfur is a germicide made from sulfur without heating, taking only
 20 minutes to prepare. JS is no less effective than chemical pesticides and
 does not damage plastic or steel pipes like traditional lime-sulfur mixtures.
-It controls fungal diseases including [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and
+It controls [[duggar-mushroom-insect-pests-and-fungal-diseases]] including [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, and
 anthracnose without the corrosive properties of conventional sulfur
 preparations.
 
@@ -88,42 +88,3 @@ can use JADAM pesticide alongside chemical pesticides they already use. As
 a beginning, use JADAM [[jadam-pesticide-for-powdery-mildew]] mildew, downy mildew, fungus,
 aphids, mites, and moths, while continuing chemical pesticide for other
 issues. Any start should be light-hearted and comfortable. As confidence
-grows, farmers can shift more pest control to JADAM methods.
-
-### Proven Results
-
-In [[jadam-bongha-village-proof]], Korea (320 acres), farmers applied JADAM natural
-pesticide 4 times at a cost of 9 dollars per acre. This ultra-low-cost
-approach has been proven over 5 years of successful rice farming using
-entirely JADAM methods. The village demonstrates that large-scale organic
-farming is economically viable when farmers self-produce their inputs.
-
-## The Philosophy of Sharing
-
-JADAM's founder chose not to patent any JADAM methods, believing that
-agricultural knowledge is a public asset shared by humanity. The philosophy
-draws on both the teachings of Jesus Christ and Karl Marx regarding shared
-resources. All JADAM knowledge is available through books, websites,
-smartphone applications, and workshops. What has been shared publicly cannot
-be patented, ensuring the knowledge remains freely available.
-
-JADAM views revolution not as battle but as gradual seeping: "If JADAM
-method works, then it will seep into the practices of more and more farmers.
-Like water, JADAM will free agricultural knowledge from commercial capital.
-Farming will once again belong to farmers."
-
-## The Ecological View: Good and Bad Are One
-
-JADAM's pest control philosophy reflects a deeper ecological understanding.
-All living forms struggle to survive; these movements of individual struggle
-collectively form the grand picture called nature. Ecologically this is
-called "check and balance." It can also be named as the beauty arising from
-the ugly, brightness shining from darkness, life born out of death. In this
-tension lies the mystery of life. JADAM acknowledges this reality while
-providing practical tools for farmers to navigate it.
-
-## Related Concepts
-
-- [[jadam-sulfur-js]]
-- [[jadam-local-material-resource-cycling]]
-- [[jadam-combined-pesticide-programs-jwa-js-jhs]]

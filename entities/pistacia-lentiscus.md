@@ -9,7 +9,7 @@ tags:
   - resin
   - medicinal-plant
   - mediterranean
-  - permaculture
+  - [[permaculture]]
   - ethnobotany
   - drought-tolerant
   - fire-resistant
@@ -32,7 +32,7 @@ sources:
 **Pistacia lentiscus**, commonly known as the **mastic tree** or **lentisk**, is an evergreen shrub
 or small tree in the family Anacardiaceae.
 It is native to the Mediterranean basin and has been valued for millennia for its aromatic resin
-(mastic), edible fruits, medicinal properties, and role in Mediterranean ecosystems.
+(mastic), edible fruits, [[panax-ginseng]], and role in [[fungal-diversity-mediterranean-ecosystems]].
 
 The species is most famous as the source of **Chios mastic gum** (tears of Chios), a pale,
 translucent resin harvested from cultivated trees on the Greek island of Chios. This resin has been
@@ -88,41 +88,3 @@ exuded resin hardens into translucent, pale yellow "tears" that are collected by
 ### Composition and Uses
 
 The resin contains approximately 60–70% triterpenic acids (mainly mastic acid, moronic acid,
-and oleanolic acid), 20–30% [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (alpha-pinene, beta-pinene, limonene, beta-myrcene),
-and polymeric compounds.
-
-- **Traditional medicine:** Used for gastrointestinal disorders, wound healing, and oral hygiene.
-- **Modern pharmacology:** Demonstrated antibacterial (especially against *Helicobacter pylori*),
-  anti-inflammatory, and antioxidant activities.
-- **Culinary:** Used in Greek, Turkish, and Middle Eastern cuisine; flavoring for bread,
-  pastries, and spirits (masticha liqueur).
-- **Industrial:** Historical use in varnishes, adhesives, and incense.
-
-## Bioactive Compounds and Pharmacology
-
-Beyond the resin, the leaves and fruits contain a range of bioactive compounds:
-
-- **Triterpenoids:** Oleanolic acid, ursolic acid, and maslinic acid from leaves and fruits
-  exhibit anti-inflammatory and hepatoprotective activities.
-- **Flavonoids:** Quercetin, kaempferol, and myricetin glycosides contribute antioxidant effects.
-- **Essential oils:** Leaf oils are rich in monoterpenes (alpha-pinene, limonene) with
-  [[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-- **[[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]:** The fruit kernel contains approximately 45% oil, rich in oleic and linoleic
-  acids.
-
-*Helicobacter pylori* eradication is the most clinically studied application. Mastic gum
-demonstrates bactericidal activity against H. pylori strains at concentrations of 0.06 mg/mL
-in vitro, with some [[mushroom-cancer-clinical-trials-overview]] showing improvement in symptomatic patients.
-
-## Permaculture Applications
-
-*Pistacia lentiscus* is an excellent species for Mediterranean and arid-climate permaculture
-designs. Its deep, extensive root system stabilizes soil on eroded slopes and disturbed sites.
-As a drought-tolerant evergreen, it provides year-round windbreak and habitat for wildlife.
-It serves as a nurse plant for establishing more sensitive species in degraded landscapes.
-The resin and fruit provide diversified income streams in agroforestry systems.
-
-## See Also
-- [[boswellia-serrata]]
-- [[rhus-coriaria]]
-- [[permaculture-plants-fire-resistant-trees-shrubs]]

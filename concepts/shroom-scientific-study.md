@@ -88,26 +88,3 @@ replicated in 1969 at London's Imperial College by a young biochemist,
 Peter Mantle.
 
 ## Schultes and Early Ethnobotany
-
-Richard Evans Schultes (1915-2001), the brilliant young Harvard
-ethnobotanist, was among the first to formally identify Mexican
-psychoactive mushrooms. In 1938, working with Blas Pablo Reko, he
-collected samples and made the first formal identification of a species
-collected in the Mazatec region. Schultes went on to become one of the
-most important ethnobotanists of the twentieth century, though his
-initial identification was later found to be of a non-psychoactive
-species.
-
-## Cultivation Science
-
-The development of cultivation techniques further advanced the
-scientific understanding of psilocybin mushrooms. The McKenna brothers
-(Terence and Dennis) published their method for home cultivation in
-1976 as Psilocybin: Magic Mushroom Grower's Guide, under the
-pseudonyms O. T. Oss and O. N. Oss. [[wasson-rediscovery-of-psilocybin]] -- Wasson's role
-- [[shroom-prohibition]] -- Legal consequences of scheduling
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
-HarperCollins, 2006. Lines 735-850, 4142-4176, 10260-10290.

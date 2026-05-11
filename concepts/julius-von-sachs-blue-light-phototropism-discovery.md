@@ -42,11 +42,11 @@ question: which colour of light actually drives the bending
 response? While Darwin established that the plant tip was the
 light-sensing organ, Sachs determined the specific quality of
 light that the plant was detecting. Together, their work laid
-the foundation for modern understanding of plant photoreception.
+the foundation for modern understanding of [[plant-photoreception]].
 
 ## The 1864 Blue-Light Discovery
 
-In 1864, Sachs demonstrated that blue light is the primary colour
+In 1864, Sachs demonstrated that [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] is the primary colour
 that induces phototropism in plants, while plants are generally
 blind to other colours that have little effect on their bending
 towards light. This was a remarkable finding because it showed
@@ -56,7 +56,7 @@ general sensitivity to light intensity.
 Before Sachs's work, it was commonly assumed that any bright light
 would cause a plant to bend. Sachs showed that this was incorrect:
 green light, even at high intensity, produced little or no
-phototropic response, while dim blue light could trigger strong
+phototropic response, while dim [[chamovitz-cryptochrome-blue-light-photoreception]] could trigger strong
 bending. This colour specificity implied the existence of a
 specialised photoreceptor pigment tuned to blue wavelengths,
 analogous to the way human cone photopsins are tuned to specific
@@ -88,58 +88,3 @@ made groundbreaking contributions to understanding photosynthesis,
 plant nutrition, and water transport. He developed techniques for
 growing plants in defined nutrient solutions, establishing the
 field of hydroponics, and demonstrated that chlorophyll is the
-site of photosynthesis within plant cells.
-
-His experimental approach, combining careful observation with
-controlled conditions, set the standard for plant physiology
-research. The methodological rigour that characterised Sachs's
-work on blue-light phototropism, the use of monochromatic light
-sources, the comparison of responses across wavelengths, and
-the quantitative measurement of bending responses, became the
-template for all subsequent photobiology research.
-
-## From Sachs to Modern Phototropin Research
-
-The blue-light photoreceptor whose existence Sachs inferred would
-not be identified at the molecular level until the 1990s, when
-phototropins were discovered. Phototropins are flavoprotein
-photoreceptors that bind a flavin chromophore and undergo
-autophosphorylation upon absorbing blue light. Two phototropins,
-phot1 and phot2, mediate different aspects of blue-light
-responses in plants, including phototropism, chloroplast
-movement, and stomatal opening.
-
-The modern understanding of blue-light phototropism confirms
-Sachs's original observation in elegant molecular detail. When
-blue light strikes the tip of a seedling, phototropins in the
-coleoptile apex absorb the photons and trigger a signalling
-cascade involving auxin redistribution. Auxin accumulates on
-the shaded side of the stem, promoting [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] there
-and causing the plant to bend towards the light. This mechanism
-directly connects Sachs's nineteenth-century discovery to
-twenty-first-century molecular biology.
-
-## Connection to Darwin's Phototropism Experiments
-
-Sachs's finding that blue light drives phototropism complements
-Darwin's discovery that the plant tip senses the direction of
-light. In Darwin's experiments with canary grass, he showed that
-covering the tip with a lightproof cap prevented phototropic
-bending, while a clear glass cap allowed it. Sachs's work adds
-a crucial dimension: the tip not only detects light direction
-but specifically detects blue light, filtering out other colours
-as irrelevant to the bending response.
-
-The two discoveries together define the fundamental mechanism of
-phototropism: blue light is detected by photoreceptors in the
-shoot tip, a signal is transmitted downward, and differential
-growth on opposite sides of the stem produces the bending
-response. This combined model remains the foundation of
-phototropism research today.
-## See Also
-
-- [[darwins-phototropism-experiments]] - Detailed account of Darwin's
-  experimental methods
-- [[what-a-plant-knows-plant-vision-and-light-perception]] - Chamovitz
-  overview of plant vision
-- [[darwin-phototropism-discovery-plant-light-perception]] - Broader

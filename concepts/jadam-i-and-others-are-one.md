@@ -3,7 +3,7 @@ title: JADAM I and Others Are One
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [jadam, natural-farming]
+tags: [jadam, [[natural-farming]]
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
@@ -51,7 +51,7 @@ What makes bad fertilizer for crops?
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and toxins accumulate
 
 Just as overeating with unbalanced diet causes obesity and disease in humans, overfertilization with nutritionally unbalanced inputs causes problems in crops. This manifests as:
-- Early flowering
+- [[equatorial-photoperiod-early-flowering]]
 - Chilling injury
 - Frost damage
 - Water sprouts
@@ -88,16 +88,3 @@ This is JADAM's powerful critique of using [[jadam-rice-bran-problems]], perilla
 This principle has roots in Laozi's Dao De Jing (Chapter 41): "I see the world without going out the door." It means that by deeply understanding one thing (yourself), you understand everything (the world).
 
 In farming, this means: deeply understand your own body's health, and you will understand your soil's health, your crops' health, and the health of your entire farming ecosystem.
-
-## The Democratic Implication
-
-If farmers can understand farming through understanding themselves, then farming knowledge does not belong exclusively to experts. Every person has the innate ability to understand farming because farming mirrors the human body. This democratizes agricultural knowledge and challenges the corporate-expert control over farming technology.
-
-## See Also
-
-- [[jadam-good-and-bad-are-one]]
-
-- [[jadam-do-as-nature-does-philosophy]] -- the first principle
-- [[jadam-nutritional-balance-philosophy]] -- applying the body analogy to fertilizer
-- [[jadam-soil-foundation-work]] -- improving "circulation" in soil
-- [[jadam-rice-bran-skin-fertilizer-problems]]

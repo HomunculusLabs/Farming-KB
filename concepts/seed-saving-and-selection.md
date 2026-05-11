@@ -1,9 +1,9 @@
 ---
-title: Seed Saving and Selection
-aliases: [seed saving, heirloom seeds, open-pollinated varieties, plant breeding, seed sovereignty]
+title: Seed Saving And Selection
+aliases: [seed saving, [[cervantes-open-pollinated-heirloom-seeds]], open-pollinated varieties, plant breeding, seed sovereignty]
 tags: [gardening, seeds, plant-breeding, food-sovereignty, heirloom-varieties, genetic-diversity]
 created: 2026-05-09
-source: Gardening When It Counts (Steve Solomon)
+source: Gardening When It Counts ([[steve-solomon]])
 ---
 
 # Seed Saving and Selection
@@ -12,7 +12,7 @@ Seed saving is the practice of harvesting seeds from mature crops for replanting
 
 ## The Importance of Seed Saving
 
-In normal times, purchasing seeds is convenient and reliable. Commercial seed companies offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
+In normal times, purchasing seeds is convenient and reliable. Commercial [[spanish-cannabis-seed-companies]] offer tested varieties with known germination rates and disease resistance. However, Solomon points out several risks in seed dependence:
 
 - **Supply disruption:** Seed companies may face crop failures, shipping delays, or business closures
 - **Variety discontinuation:** Popular varieties can be dropped from catalogs without warning
@@ -81,48 +81,10 @@ Over 5–10 generations, this selection pressure can produce varieties remarkabl
 
 ## Population Size Considerations
 
-Genetic diversity within a seed-saving population is important for long-term variety health. Very small populations (fewer than 20 plants) lose genetic diversity through random chance, potentially leading to inbreeding depression — reduced vigor, fertility, and disease resistance over generations.
+[[biodiversity-fungal-genetic-diversity]] within a seed-saving population is important for long-term variety health. Very small populations (fewer than 20 plants) lose genetic diversity through random chance, potentially leading to [[cervantes-hybrid-vigor-inbreeding-depression]] — reduced vigor, fertility, and disease resistance over generations.
 
 Solomon recommends minimum population sizes:
 
 - **Self-pollinating crops:** Save from at least 10–20 plants
 - **Cross-pollinating crops:** Save from at least 50–80 plants for good genetic health
 - **Maximum diversity:** Include as many plants as practical, especially for rare varieties
-
-For home gardeners with limited space, Solomon suggests saving seed from every healthy plant of a variety rather than selecting only the "best" individuals. This maximizes genetic diversity even in small populations.
-
-## Seed Storage
-
-Proper storage is essential for maintaining seed viability. The three enemies of seed longevity are heat, moisture, and light. Solomon recommends:
-
-- **Dry seeds thoroughly** before storage (aim for 8–12% moisture content)
-- **Store in airtight containers** — glass jars with tight lids, or sealed envelopes in airtight plastic bags
-- **Keep cool** — refrigerator storage at 35–40°F is ideal; a cool, dry basement is acceptable
-- **Label everything** with variety name, harvest year, and any selection notes
-
-Under ideal conditions, most vegetable seeds remain viable for 3–5 years. Some exceptions: onions and parsnips lose viability within 1–2 years; [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]] can last 5–10 years; tomatoes and lettuce often remain viable for 5+ years.
-
-Solomon recommends periodic germination testing: place 10–20 seeds on a damp paper towel in a warm location and count how many sprout after 7–14 days. This gives the germination percentage, which should inform how thickly to sow.
-
-## Building a Seed Library
-
-Solomon encourages gardeners to save seed from every variety they grow, gradually building a personal seed library. This provides redundancy against crop failures and variety losses. He also advocates for [[mollison-designers-community-seed-banks-and-exchange]] exchanges, where local gardeners share and trade saved seeds, increasing the genetic diversity available to everyone.
-
-A well-maintained seed library should include varieties suited to different conditions: some for wet years, some for dry, some for early planting, some for late. This diversity provides options when conditions are uncertain.
-
-## Common Mistakes in Seed Saving
-
-- **Saving from F1 hybrids:** Produces unpredictable offspring — always save from open-pollinated varieties
-- **Too-small population:** Leads to inbreeding depression and [[cervantes-genetic-bottleneck-and-diversity-loss]]
-- **Inadequate drying:** Moist seeds mold or die in storage
-- **Cross-pollination ignorance:** Produces off-type plants that don't match the parent variety
-- **Saving from diseased plants:** Can transmit seed-borne diseases to the next generation
-- **Inconsistent selection:** Selecting for different traits each year prevents stable variety development
-
-## See Also
-
-- [[intensive-vegetable-spacing-systems]]
-- [[drought-resistant-gardening-techniques]]
-- [[steve-solomon]]
-- genetic diversity
-- food sovereignty

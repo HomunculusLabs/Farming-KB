@@ -69,15 +69,15 @@ other small, white-spored genera.
 
 ## Distribution and Habitat
 
-Mycena citrinomarginata has a wide distribution across temperate regions of the
+Mycena citrinomarginata has a wide distribution across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the
 Northern Hemisphere. It is reported from Europe, [[psilocybin-north-america-pacific-northwest]], and parts of Asia. The
 species fruits from late summer through autumn, though it may appear during cooler
 months in mild climates.
 
 This species is saprotrophic, growing on decaying plant debris including fallen leaves,
-twigs, needles, and small woody material on the forest floor. It is found in both
+twigs, needles, and small woody material on the [[fungal-ecology-forest-floor]]. It is found in both
 hardwood and mixed hardwood-conifer forests, often in moist, shaded locations with
-abundant leaf litter. It may grow singly, scattered, or in small groups. The fruiting
+abundant [[dighton-fungal-decomposition-leaf-litter-dynamics]]. It may grow singly, scattered, or in small groups. The fruiting
 bodies are small and easily overlooked, making this a species more commonly encountered
 by dedicated mushroom hunters actively searching the forest floor litter. M.
 citrinomarginata is most frequently found in association with oak, beech, and birch
@@ -87,47 +87,3 @@ undisturbed humus layers, where the accumulation of [[hamilton-composting-and-or
 substrate for colonization.
 
 ## Chemical Constituents
-
-Mycena citrinomarginata has been analyzed for its [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] content and found to
-contain both psilocybin and psilocin, though in very low concentrations. Psilocybin
-has been detected at trace levels well below 0.01% per dry weight, and psilocin is
-present in similarly low amounts. Additionally, the species contains biotryptamine, a
-biosynthetic precursor to tryptamine derivatives, at higher concentrations than the
-phosphorylated compounds. While biotryptamine itself is not strongly psychoactive, its
-presence indicates the capacity of this species to produce indole-derived compounds
-through metabolic pathways related to those found in more strongly psychoactive
-mushrooms. The detection of psilocybin and psilocin, even at trace levels, formally
-places M. citrinomarginata among the psilocybin-containing fungi, though the
-concentrations are far too low to produce psychoactive effects at practical consumption
-levels.
-
-The detection of biotryptamine in M. citrinomarginata is significant because it expands
-the known distribution of tryptamine-related compounds across the fungal kingdom. While
-species like [[panaeolus-cyanescens-entity]] contain the fully
-elaborated compounds psilocybin and psilocin, species like M. citrinomarginata appear
-to stop at earlier stages of the biosynthetic pathway. This suggests that the genetic
-capacity for tryptamine biosynthesis may be more widespread among [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
-than previously recognized.
-
-Additional compounds that have been reported from Mycena species in general include
-various hemolysins, strobilurins, and other bioactive molecules, though the specific
-profile of M. citrinomarginata beyond its biotryptamine content has not been
-extensively characterized.
-
-## Identification Notes
-
-The yellow-margined cap is the most distinctive field character of Mycena
-citrinomarginata, but several other Mycena species share similar features:
-
-- [[mycena-purpureofusca]] has purplish-brown tones rather than yellow
-- [[mycena-galopus]] can show slight
-yellowish tints, and other Mycena species may develop yellowish coloration under
-certain conditions. [[fungal-microscopic-examination-mounting-media-techniques]] is recommended for definitive
-identification, as many Mycena species require close study of spore morphology
-(particularly the amyloid reaction), cystidial characters, and pileipellis structure. A
-
-- [[mycena-cyanorrhiza]] — a Mycena species known to contain psilocybin
-- [[psilocybin]] — the fully elaborated tryptamine compound found in related fungal
-## See Also
-
-- [[mycena-interrupta]]

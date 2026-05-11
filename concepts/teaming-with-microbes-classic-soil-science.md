@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, microbiology, composting]
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 

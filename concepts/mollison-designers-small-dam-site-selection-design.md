@@ -1,15 +1,16 @@
 ---
-title: Small Dam fukuoka-creating-natural-farm-site-selection-establishment and Design
+title: Mollison Designers Small Dam Site Selection Design
 created: 2026-04-28
 tags:
   - water-harvesting
   - earthworks
   - farm-infrastructure
   - water-storage
-  - permaculture-design
+  - [[permaculture-design]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -21,8 +22,8 @@ permaculture-designers-manual-bamboo, Bill
 Mollison provides detailed guidance on selecting suitable dam sites and
 designing storage systems that maximise water availability while minimising
 cost, maintenance, and ecological impact. Properly sited and constructed
-small dams provide irrigation, stock water, fire protection, [[permaculture-earthworks|earthworks]] strategies and integrate
-naturally with [[biochar-and-fungi|biochar]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
+small dams provide irrigation, stock water, fire protection, [[permaculture-earthworks]] strategies and integrate
+naturally with [[biochar-and-fungi]] and [[soil-testing]]:** Simple field tests include the roll test (squeezing
   moist soil into a ribbon; longer ribbons indicate higher clay content)
   and the pond test (filling a small hole with water and observing the
   seepage rate).
@@ -87,20 +88,3 @@ determining whether it will meet water supply needs. Methods include:
 Small earth dams are built by compacting clay-rich soil in horizontal layers
 (lifts) of 15 to 20 cm. All topsoil must be removed from the foundation
 and a cutoff trench (key trench) excavated along the wall centreline to tie
-into the impervious foundation. Each lift requires adequate compaction, ideally
-with a sheepsfoot roller. Clay soils typically need 3:1 upstream slopes and
-2:1 to 2.5:1 downstream slopes. Minimum crest width is 2 to 3 metres, with
-5 to 10 percent additional height allowed for post-construction settlement.
-## See Also
-
-- mollison-designers-wind-generator-design-small-scale
-- [[mollison-designers-crop-multiplier-selection-breeding]]
-
-- [[organic-vegetable-growing-calendar]] for complementary earthwork water-harvesting techniques
-- water-catchment-permaculture for broader water management strategies
-- [[water-management]] for integrated water cycle design
-
-## Related Pages
-
-[[pond-and-aquaculture]] covers integrated pond systems that complement small dam infrastructure.
-mollison-designers-duck-pond-integrated-systems shows how dams integrate with livestock and food production.

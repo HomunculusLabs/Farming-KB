@@ -5,13 +5,13 @@ tags:
   - anthropology
   - cultural theory
   - Riane Eisler
-  - Terence McKenna
+  - [[terence-mckenna]]
   - gender studies
   - social evolution
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McKenna, T. (1992). Food of the Gods: The Search for the Original Tree of Knowledge. Bantam Books.
+  - McKenna, T. (1992). Food of the Gods: The Search for the Original stropharia-cubensis-tree-of-knowledge. Bantam Books.
   - Eisler, R. (1987). The Chalice and the Blade: Our History, Our Future. Harper & Row.
 type: concept
 ---
@@ -26,7 +26,7 @@ These models describe two fundamentally different approaches to social structure
 
 Eisler proposed that "partnership" models of society preceded and later competed with, and were oppressed by, "dominator" forms of social organization.
 
-Her analysis was based on archaeological evidence from [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and European sites, particularly the Neolithic settlement of Qatal Huyuk in central Anatolia.
+Her analysis was based on archaeological evidence from [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern and European sites, particularly the Neolithic settlement of [[qatal-huyuk-kurgan-invasions-fall-of-partnership-society]] in central Anatolia.
 
 She demonstrated that over vast areas and for many centuries, partnership societies existed without warfare and upheaval. Warfare and patriarchy arrived with the appearance of dominator values.
 
@@ -70,13 +70,13 @@ Partnership societies maintain a relationship of dynamic equilibrium with the na
 
 McKenna argued this was reinforced by regular use of psychedelic plants, which produced ego-dissolution and a sense of oneness with the larger web of life.
 
-When we suppress access to shamanic ecstasy, we close off the refreshing waters of emotion that flow from having a deeply bonded, almost symbiotic relationship to the earth.
+When we suppress access to [[shamanic-ecstasy-and-healing]], we close off the refreshing waters of emotion that flow from having a deeply bonded, almost symbiotic relationship to the earth.
 
 ## The Dominator Model
 
 ### Core Characteristics
 
-Dominator cultures are hierarchical, paternalistic, materialistic, and male-dominated.
+[[archaic-revival-partnership-vs-dominator-cultures]] are hierarchical, paternalistic, materialistic, and male-dominated.
 
 They organize society around control, competition, and the accumulation of power over others.
 
@@ -87,59 +87,3 @@ Our culture, self-toxified by the poisonous by-products of technology and egocen
 ### Pathological Monotheism
 
 McKenna identified monotheism as the carrier of the dominator model, calling it "pathological monotheism."
-
-He argued that the drive for unitary wholeness within the psyche became pathological when pursued in a context where dissolution of boundaries and rediscovery of the ground of being had been made impossible through the suppression of visionary plant use.
-
-Monotheism has been and remains the single most stubborn force resisting perception of the primacy of the natural world.
-
-### Sexual Politics in Dominator Society
-
-In dominator society, men tend to choose young, healthy sexual partners capable of bearing many children.
-
-Women's strategy within this framework often involves bonding with older men who control group resources such as food, land, or other women, to ensure their worth will not be devalued as they age.
-
-The dominator ego feels terror in any situation involving boundary dissolution, which McKenna connected to the generally hostile attitude of dominator society toward sexual expression.
-
-The French notion of orgasm as *petit mort* perfectly encapsulates the fear and fascination that boundary-dissolving orgasm holds for dominator cultures.
-
-## Archaeological Evidence
-
-### Qatal Huyuk
-
-Qatal Huyuk in central Anatolia represents the Neolithic culmination of partnership culture.
-
-Spreading over thirty-two acres and accommodating over seven thousand people at its peak, it featured elaborate shrines with cattle bas-reliefs and heads of now-extinct aurochs covered with ocher designs.
-
-Mellaart noted that its religious art appeared "three or four thousand years ahead of its time." The excavator observed that its mature complexity presupposed "an Upper Paleolithic ancestor of whom we have no trace," which McKenna identified as the Round Head culture of the Tassili-n-Ajjer.
-
-### The Fall of Paradise
-
-McKenna interpreted the Genesis story of the expulsion from Eden as a cultural memory of the transition from partnership to dominator society.
-
-The "fruit of the Tree of Knowledge" was identified with the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] that catalyzed the Tassili partnership Eden. The story records that "the eyes of both of them were opened and they discovered that they were naked," suggesting attainment of consciousness of self and other.
-
-The "angel with flashing sword" guarding the return to Eden symbolized the harshness of desert drought conditions that disrupted the pastoralists' Saharan paradise.
-
-## Psychological Dimensions
-
-Jean Baker Miller's observation that the need to control others is a function not of power but of powerlessness was central to the framework.
-
-She wrote: "In a basic sense, the greater the development of each individual, the more able, more effective, and less needy of limiting or restricting others she or he will be."
-
-Partnership societies do not replace patriarchy with matriarchy. The real difference lies between a society based on partnership and appropriate roles and a society in which a dominance hierarchy is maintained at the expense of full individual expression.
-
-## The Role of Psychoactive Plants
-
-McKenna argued that the consistent use of psychedelic mushrooms maintained the partnership dynamic by regularly dissolving ego boundaries and reinforcing the sense of connection to the natural world.
-
-Once activities involving syntactic self-expression were established habits, the continued evolution of language in environments where mushrooms were scarce permitted a tendency toward the expression and emergence of the ego.
-
-If the ego is not regularly and repeatedly dissolved in the unbounded hyperspace of the Transcendent Other, there will always be a slow drift away from the sense of self as part of nature's larger whole.
-
-The ultimate consequence of this drift is the fatal ennui that now permeates Western civilization.
-## See Also
-
-- [[psilocybin-mushroom]]
-- [[stoned-ape-hypothesis]]
-- [[tassili-n-ajjer-and-the-saharan-eden]]
-- [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]

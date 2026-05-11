@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, reishi, medicinal-mushrooms]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Reishi (Ganoderma lucidum) Indoor Cultivation Parameters #mycoremediation #mushroom-cultivation #medicinal-mushrooms #polypore-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 21 Growth Parameters ## Overview Ganoderma lucidum is known as Reishi (Japanese), Ling Chi or Ling Zhi (Chinese, "Mushroom of Immortality"), and Mannentake (Japanese, "10,000 Year Mushroom"). It is the most renowned medicinal mushroom in Asian pharmacopeia, with over two millennia of documented use. The earliest mention dates to Emperor Shih-huang of the Ch'in Dynasty (221-207 BC). Claimed to address cancer, heart disease, diabetes, arthritis, high altitude sickness, and chronic fatigue syndrome. See also [[reishi-cultivation-guide]], parasitic-mushrooms-armillaria-ganoderma.
@@ -87,13 +88,3 @@ Traditional method: inoculate logs, lay on ground or shallowly bury in shady, mo
 ## Yield and Marketing
 
 Marketed as fresh, dried, powdered, and in tablet form. Dried Reishi is 70-80% water (woody texture). Can be stored for months. Used in teas, extracts, and traditional preparations. The mushroom is more valued in compact fruitbody form than in mycelial form.
-
-## Companion/Sequential Cultivation
-
-Spent Reishi blocks can be sequenced with other species (see stamets-mycoremediation-principles. Reishi is listed among candidates for stamets-mycoforestry-case-studies systems.
-## See Also
-- [[ganoderma-lucidum]]
-- [[substrate-preparation]]
-- [[mycoremediation]]
-- [[medicinal-mushrooms]]
-- [[cotter-reishi-ganoderma-cultivation]]

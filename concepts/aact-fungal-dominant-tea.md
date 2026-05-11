@@ -5,6 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 # AACT Fungal Dominant Tea
@@ -87,19 +88,3 @@ Fungal tea provides disease suppression through multiple mechanisms:
 - Production of antibiotics and enzymes that inhibit pathogens
 - Physical occupation of infection sites
 - Trichoderma species actively parasitize pathogenic fungi
-
-For mildew control, fungal biomass in the tea is essential. Bacterial teas alone are generally not effective against mildew.
-
-## Machine Selection
-
-Not all machines extract fungi adequately. Machines must maintain aeration and have design features that do not damage fungal hyphae. Avoid machines with many 90-degree turns, pipes that develop biofilm, or designs that create zones of low oxygen. Recommended machines include EPM (100-500 gallon sizes), Earthworks (35 and 85 gallon), KIS, and Alaska Giant.
-
-## See Also
-
-- [[aact-bacterial-dominant-tea]]
-- mycorrhizal-inoculation-techniques
-- [[bacterial-vs-fungal-compost-teas]]
-- [[fungal-succession-woody-debris-ecology]]
-- [[building-soil]]
-- [[mycorrhiza]]
-- [[humic-acids-soil-biology-ingham]]

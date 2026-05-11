@@ -1,5 +1,5 @@
 ---
-title: "Truffle Auxin Production and Root Morphogenesis"
+title: Truffle Auxin Root Morphogenesis
 created: 2026-04-28
 tags:
   - truffles
@@ -32,7 +32,7 @@ allowing detection of auxin effects on plant roots.
 ## Species-Specific Effects on Root Morphology
 
 Different truffle species produce distinct effects on root
-morphology. Tuber melanosporum (black Périgord truffle) and T. borchii
+morphology. [[tuber-melanosporum]] (black Périgord truffle) and T. borchii
 (whitish truffle) both induce increased root branching and root hair
 length in A. thaliana seedlings. However, T. borchii additionally
 [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] shortening, a response that correlates with higher IAA
@@ -50,7 +50,7 @@ fungal auxin effects. P. indica induces bushy root growth in A. thaliana
 and increased root branching in Lotus japonicus. The phenotype closely
 resembles typical auxin effects, including the formation of a dense
 network of lateral roots. Even plants at a distance of several
-centimeters from the fungal mycelium show increased root branching,
+centimeters from the [[fungal-mycelium-hyphae-and-the-feeding-phase]] show increased root branching,
 indicating diffusion of the active compound through the agar medium.
 P. indica is recommended for initial auxin bioassays because of its
 rapid growth and strong auxin effects.
@@ -58,7 +58,7 @@ rapid growth and strong auxin effects.
 ## HPLC-MS Quantification of Fungal IAA
 
 The definitive identification and quantification of fungal-produced IAA
-requires analytical methods beyond bioassays. A protocol using HPLC
+requires [[analytical-methods-psilocybin-psilocin-quantification]] beyond bioassays. A protocol using HPLC
 coupled with electrospray ionization tandem mass spectrometry (ESI-MS/MS)
 has been developed for this purpose. Agar from the plant growth zone of
 bioassay plates is extracted with water-methanol mixtures containing
@@ -73,7 +73,7 @@ in bioassays are indeed due to IAA production.
 Establishing dose-response curves for A. thaliana to synthetic IAA
 provides a reference for interpreting fungal auxin bioassay results.
 IAA standard solutions are applied to filter discs placed on agar
-alongside plant seeds. By comparing the root morphological changes
+alongside plant seeds. By comparing the root [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]]
 induced by the fungus to those caused by known IAA concentrations,
 researchers can estimate the amount of IAA being produced. This approach
 has confirmed that T. borchii produces physiologically relevant
@@ -85,15 +85,6 @@ modification at biologically meaningful distances.
 The production of auxin by truffle species has direct implications for
 ectomycorrhizal formation. Auxin-induced root branching increases the
 number of potential colonization sites, while root hair elongation may
-facilitate initial contact between fungal hyphae and root surfaces. The
+facilitate initial contact between [[fungal-hyphae-and-mycelium]] root surfaces. The
 modification of root architecture by fungal auxins may represent an
 ancient signaling mechanism by which [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] prepare the
-host root system for symbiotic engagement. Understanding these hormonal
-interactions could inform [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] practices, particularly
-the establishment of truffle orchards where successful mycorrhization
-of host trees is essential for production.
-
-## See Also
-
-- [[auxin-production-by-symbiotic-fungi]]
-- [[piriformospora-indica]]

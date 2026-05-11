@@ -1,6 +1,6 @@
 ---
-title: Fungal Biodiversity Estimation and Diversity Indices
-source: Biodiversity of Fungi (Mueller, Bills & Foster, 2004)
+title: Fungal Biodiversity Estimation And Diversity Indices
+source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
 tags: [mycology, biodiversity, ecology, statistics, fungal-survey]
 created: 2026-05-10
 ---
@@ -22,7 +22,7 @@ intervals of many years, and those structures may persist for only a few hours
 before decomposing. Other fungi are perennial, such as lichen-forming species
 and many polypores, and can be found at any time of year. Still others live
 hidden inside plant tissues or arthropod bodies, detectable only through
-microscopic examination or molecular methods.
+[[fungal-microscopic-examination-mounting-media-techniques]] or molecular methods.
 
 ## The Scale of Undiscovered Diversity
 
@@ -55,7 +55,7 @@ a sample. It is measured without error assuming the sample is sufficiently
 small and isolation and identification techniques are adequate.
 
 **Species density** expresses the number of species per unit area, volume, or
-biomass. Most ecological studies of fungi actually cover species densities as a
+biomass. Most [[mycorrhiza-bioassays-ecological-studies]] of fungi actually cover species densities as a
 consequence of sampling design, though this aspect is rarely stated explicitly.
 
 **Total species richness** is estimated from a series of samples and represents
@@ -78,7 +78,7 @@ the most accurate estimate of true species richness for a geographically
 circumscribed domain.
 
 All three relations are members of the same family of curves (He and Legendre
-1996) and figure prominently in island biogeography and conservation biology
+1996) and figure prominently in island biogeography and [[fungal-conservation-biology]]
 theory. The effort required to attain asymptotic values is likely specific to
 particular substrata, habitats, or biomes.
 
@@ -87,64 +87,3 @@ particular substrata, habitats, or biomes.
 Rarefaction is a quantitative method that facilitates comparison of species
 richness among areas or habitats as if they were based on a standardized sample
 size.
-
-The expected number of species in a rarified sample of n individuals is
-calculated using combinatorial formulas that account for the abundance of each
-species. The approach requires equal sample sizes for direct counts, but when
-this is not possible, rarefaction provides a mathematically rigorous
-alternative.
-
-This technique was applied by Polishook and colleagues (1996) to compare fungal
-diversity from decaying leaves in a Puerto Rican rain forest, demonstrating its
-practical utility for tropical mycological surveys.
-
-## Simpson's Diversity Index
-
-Proposed by Simpson in 1949, this was the first diversity index used in
-ecology. The index varies from 0 to 1 and is strongly influenced by the
-abundance of the most common species, making it a dominance measure.
-
-The original form was restricted to completely enumerated ecological units. For
-field sampling of fungi, where complete enumeration is impossible, Simpson
-developed an unbiased estimator D based on a sample of N individuals.
-
-Significant differences between Simpson indices can be tested using parametric
-analyses such as analysis of variance or regression, or their nonparametric
-counterparts. The reciprocal form (1/D) is usually presented, ensuring that the
-index increases with increasing diversity.
-
-## Shannon Diversity Index
-
-The Shannon Index (H') is currently the most popular diversity index in
-community ecology. Derived from information theory, H' measures the average
-degree of uncertainty in predicting the specific identity of an individual
-chosen at random from a collection of S species and N individuals.
-
-It has two critical properties. First, H' equals zero if and only if the
-sample includes a single species. Second, H' reaches its maximum only when
-all species are equally abundant.
-
-Values typically range between 1.5 and 3.5 and rarely exceed 4.5. May (1975)
-calculated that a value exceeding 5.0 would require approximately 10^5 species.
-When determined for replicate samples of the same ecological unit, H' exhibits
-a normal distribution, facilitating parametric statistical evaluation.
-
-## Additional Diversity Measures
-
-**McIntosh's diversity index (U)** reflects the Euclidean distance of the
-sample point from the origin of an S-dimensional hypervolume. While easy to
-calculate, it is influenced strongly by sample size, limiting its usefulness.
-
-**The Berger-Parker index (d)** reflects the proportional importance of the
-most abundant species and is independent of species count, making it a simple
-dominance indicator.
-
-**Fisher's log-series alpha** has good discriminant ability and low sensitivity
-to sample size, making it particularly useful for fungal community studies,
-though it assumes a log-series distribution of individuals among species.
-
-**Hill's diversity numbers (N0, N1, N2)** are perhaps the most ecologically
-intuitive indices. Their units are expressed as numbers of species, and they
-measure the effective number of species in a community.
-
-## See Also

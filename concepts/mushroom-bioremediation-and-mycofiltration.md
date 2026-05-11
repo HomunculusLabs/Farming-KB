@@ -88,29 +88,3 @@ establishing dense mats of mycelium on appropriate substrates
 through the mycelial layer. The mycelium captures and degrades
 contaminants as water percolates through the substrate. Over time,
 the mycelial mat may need to be replaced as it becomes saturated
-with captured material or loses viability. Mycofiltration is most
-effective as a component of integrated water treatment systems
-rather than as a standalone technology, complementing conventional
-filtration and treatment methods with its unique biological
-capabilities.
-
-## Important Caveats and Limitations
-
-A critical consideration in fungal bioremediation is that mushrooms
-grown on contaminated substrates can absorb and concentrate toxins
-in their tissues. Mushrooms harvested from polluted environments
-should not be eaten, as residual contaminants may be present at
-harmful concentrations. This has been dramatically demonstrated by
-mushrooms collected near the Chernobyl nuclear accident site, which
-were radioactive enough to trigger Geiger counter alarms at customs
-checkpoints. Bioremediation using fungi is best suited for
-environmental cleanup where the goal is detoxification of the site
-rather than production of edible mushrooms. The spent mycelium and
-colonized substrate from bioremediation projects should be properly
-disposed of or further treated to ensure complete contaminant
-destruction.
-
-## See Also
-- [[outdoor-mushroom-cultivation-and-polyculture]]
-- [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]
-- [[staycare-spent-mushroom-compost-bioremediation]]

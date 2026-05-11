@@ -1,5 +1,5 @@
 ---
-title: [[singh-biopile-fungal-treatment-contaminated-soil]] of Olive Mill Wastewater
+title: Fungal Treatment Of Olive Mill Wastewater
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -24,9 +24,9 @@ and phenolic compound removal.
 
 ## Conventional Treatment Limitations
 
-- **Anaerobic digestion:** High toxicity, low biodegradability, reactor acidification
+- **[[biogas-digesters-and-anaerobic-digestion-systems]]:** High toxicity, low biodegradability, reactor acidification
 - **Chlorine-based bleaching:** Produces toxic organochlorine compounds
-- **Ozonolysis:** Effective but expensive due to high electricity consumption
+- **Ozonolysis:** Effective but expensive due to high [[cervantes-electricity-consumption-cost-management]]
 - **Physical treatments** (flocculation, adsorption, ion exchange): Do not destroy contaminants, merely relocate them
 
 ## Microbial Community of OMW
@@ -42,9 +42,9 @@ for the detoxification of OMW, removing its antibacterial activity completely.
 - Eliminates more than 50% of color and phenols from OMW within 6 days
 - Achieves 92% phenol reduction, 75% COD and TOC reduction in 150 hours
 - Aerobic pretreatment reduces phenolics and toxic aromatic compounds before anaerobic treatment
-- Produces lignin peroxidase (LiP) and manganese peroxidase (MnP)
+- Produces lignin peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP)
 - Pretreatment reduced COD from 107 g/l to 55 g/l and to 85 g/l after sedimentation
-- About 70% of color and 80% of COD removed when supplemented with veratryl alcohol and flushed with oxygen
+- About 70% of color and 80% of COD removed when supplemented with [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] and flushed with oxygen
 
 ### Pleurotus ostreatus
 - Reaches similar results to *P. chrysosporium* but in 12 days
@@ -65,7 +65,7 @@ for the detoxification of OMW, removing its antibacterial activity completely.
 
 Laccase is the predominant enzyme detected in OMW treatment, followed by
 manganese-independent peroxidase (MIP). Substantial MnP activity is found only
-with *P. ostreatus* and *Abortiporus biennis*. LiP and veratryl alcohol oxidase
+with *P. ostreatus* and *[[abortiporus-biennis]]*. LiP and veratryl alcohol oxidase
 (VAOx) are not detected in most OMW systems. Early detection of laccase activity
 correlates with final reduction of total phenolics. The highest decolorization
 occurred at low initial COD with high extracellular LiP.
@@ -88,14 +88,3 @@ the presence of H2O2 removed 66-86% COD and 65% phenols.
 ## Modeling and Kinetics
 
 Fermentation follows Monod kinetics on COD or TOC as substrate. Removal of
-phenolic compounds follows the sequence *P. chrysosporium* > *A. niger* > *A.
-terreus*. Anaerobic digestion of pretreated OMW follows first-order kinetics,
-with the kinetic constant increasing as phenolic content and biotoxicity
-decrease.
-
-## See Also
-
-- [[white-rot-fungi-bioremediation]]
-- [[laccase-catalyzed-degradation]]
-- [[fungal-olive-mill-wastewater-treatment]]
-- [[fungal-extracellular-enzyme-production]]

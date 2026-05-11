@@ -1,8 +1,8 @@
 ---
-title: coleman unheated greenhouse design Design and Construction
+title: [[coleman-unheated-greenhouse-economic-model-passive-winter-production]] Design
 created: 2026-04-26
-tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, eliot-coleman]
-sources: The coleman-claytonia-winter-harvest-cultivation Handbook, Eliot Coleman (2009)
+tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, [[eliot-coleman]]]
+sources: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook, eliot-coleman (2009)
 type: concept
 updated: 2026-04-26
 ---
@@ -71,7 +71,7 @@ Multiple approaches have been tried:
 
 ## End-Wall Design and Ventilation
 
-The 22 x 48 foot houses use shorter lengths dictated by end-wall ventilation needs. Summer ventilation through end walls is adequate when tunnel length is no more than 3 times its width. This proportion ensures sufficient airflow during warm months when the houses are protecting summer crops before the seasonal move.
+The 22 x 48 foot houses use shorter lengths dictated by end-wall ventilation needs. Summer ventilation through end walls is adequate when tunnel length is no more than 3 times its width. This proportion ensures sufficient airflow during warm months when the houses are protecting [[coleman-greenhouse-summer-crops]] before the seasonal move.
 
 ## Structural Details: Gothic-Style Hoops
 
@@ -81,30 +81,10 @@ Corner diagonal bracing on the shorter houses provides lateral stability during 
 
 ## Plastic Replacement and Maintenance
 
-Greenhouse plastic has a finite lifespan, typically 3 to 4 years depending on UV exposure and local conditions. Anti-drip coatings can degrade over time, losing their effectiveness. Coleman recommends regular inspection for tears, UV degradation, and loss of the anti-drip properties. The timing of plastic replacement should be coordinated with the greenhouse movement cycle — replacing the plastic when the house is in one position so the newly covered house can be moved to the alternate site.
+[[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] has a finite lifespan, typically 3 to 4 years depending on UV exposure and local conditions. Anti-drip coatings can degrade over time, losing their effectiveness. Coleman recommends regular inspection for tears, UV degradation, and loss of the anti-drip properties. The timing of plastic replacement should be coordinated with the greenhouse movement cycle — replacing the plastic when the house is in one position so the newly covered house can be moved to the alternate site.
 
 ## Greenhouse Orientation and Sunlight
 
 Houses are aligned on an east-west axis. This orientation maximizes light capture during the low-angle winter sun, when the sun tracks low across the southern sky (in the Northern Hemisphere). An east-west orientation allows sunlight to penetrate along the full length of the house rather than being blocked by the hoops of an adjacent structure. During summer, the orientation is less critical since the sun is high overhead.
 
-The importance of maximum light input cannot be overstated for winter production. Every percentage point of light transmission matters when days are short. This is why Coleman prefers single-layer covering for most of the winter — two layers of plastic, even with air inflation, cost an additional 10% of ambient light.
-
-## Temperature Performance
-
-In Zone 5 Maine winters, outdoor temperatures can drop to -20°F (-29°C). Despite this, the cold-house system works because of the two-layer protection and the thermal mass of the soil itself. The soil acts as a heat-storage medium, absorbing warmth during sunny days and slowly releasing it at night. This passive system requires no fans, pumps, or supplementary heat storage.
-
-The key insight is that cold-hardy vegetables do not need warm temperatures — they need protection from wind and desiccation. The double-layer system provides a stable environment that dramatically reduces the rate of heat loss from the soil while maintaining humidity around the plants.
-
-## Integration with the Winter Harvest System
-
-The greenhouse design is inseparable from the winter-harvest philosophy. The structures are sized, oriented, and covered specifically to support the three-component system: cold-hardy vegetables, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and protected cultivation. The mobility option further enhances the system by allowing soil recovery, green manure cropping, and pest/[[cervantes-pest-disease-prevention-overview]] on a two-year cycle.
-
-The minimal technology approach extends to all aspects of the design: no automated ventilation, no heating systems, no complicated heat-storage apparatus. The goal is the lowest-tech, most economical path to year-round [[dry-gardening-unirrigated-vegetable-production-solomon]].
-
-## See Also
-
-- [[coleman-greenhouse-ventilation-design]]
-
-- [[coleman-winter-harvest-philosophy]] — The movable greenhouse concept
-- coleman-greenhouse-soil-management — Soil preparation for greenhouse growing
-- [[coleman-cold-hardy-varieties]] — Crops suited to unheated winter production
+The importance of maximum light input cannot be overstated for [[coleman-beet-greens-cold-house-winter-production]]. Every percentage point of light transmission matters when days are short. This is why Coleman prefers single-layer covering for most of the winter — two layers of plastic, even with air inflation, cost an additional 10% of ambient light.

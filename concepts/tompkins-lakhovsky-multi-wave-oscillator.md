@@ -5,7 +5,7 @@ tags: [biophysics, alternative-medicine, electromagnetism, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/tompkins-marcel-vogel-plant-human-communication|tompkins-the-secret-life-of-plants-tompkins-and-bird|secret-life-of-plants.md
+  - ~/wiki/raw/papers/[[tompkins-marcel-vogel-plant-human-communication]]|tompkins-the-secret-life-of-plants-tompkins-and-bird|secret-life-of-plants.md
 type: concept
 ---
 
@@ -89,34 +89,6 @@ Lakhovsky believed that with recognition of this concept, the bounds
 of science could be extended to include telepathy, the transmission of
 thought, and man's communication with plants.
 
-## The Multi-Wave Oscillator for Human Medicine
-
-Lakhovsky developed a sophisticated therapeutic device for human
-beings called the "multi-wave oscillator," successfully used in French,
-Swedish, and Italian clinics to cure cancerous growths, lesions from
-radium burns, goiters, and diseases regarded as incurable. When he fled
-to New York in 1941, a large New York hospital's physiotherapy
-department employed his oscillator to treat arthritis, chronic
-bronchitis, congenital hip dislocation, and other ailments.
-
-A Brooklyn urologist stated he had used it on hundreds of patients to
-arrest bodily disturbances unamenable to other treatment. When
-Lakhovsky died in 1943, his findings, which laid the basis for
-radiobiology, were left unpursued. Today, use of the multi-wave
-oscillator for medical treatment is officially banned by U.S. health
-authorities.
-
-## Legacy and Influence
-
-Lakhovsky's work supported the earlier contentions of Galvani and
-Mesmer that living things have electrical or magnetic properties. It
-directly influenced [[tompkins-george-washington-carver-plant-alchemy]] Crile's radio-electrical
-interpretation of life phenomena and Harold Saxton Burr's theory of
-electromagnetic fields as organizers of life systems at Yale
-University.
-
 ## See Also
-
-- [[plant-bioelectricity]]
-- [[tompkins-photosynthesis-biophotons]] for biophoton research
-- [[tompkins-kirlian-photography-plant-auras]] for aura photography
+- [[tompkins-dowsing-plants-for-health]]
+- [[permaculture-multi-purpose-plants]]

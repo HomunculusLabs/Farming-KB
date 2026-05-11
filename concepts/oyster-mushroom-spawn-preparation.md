@@ -77,3 +77,20 @@ to contamination during substrate inoculation.
   needed after substrate colonization is complete
 
 For further reading, see [[historical-mushroom-cultivation]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[oyster-mushroom-substrate-preparation]]
+- [[mushroom-spawn-preparation]]
+- [[falconer-mushroom-spawn-preparation]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
+- [[duggar-mushroom-spawn-preparation-techniques]]

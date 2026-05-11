@@ -88,26 +88,3 @@ The plant is classified as slightly toxic in some Chinese pharmacopoeias, with r
 Modern pharmacological studies have confirmed anti-inflammatory, analgesic, and antioxidant activities for crude extracts. Several sesquiterpenoids have shown selective cytotoxicity against cancer cell lines in vitro.
 
 The essential oil is used in perfumery and aromatherapy in East Asia. Its sweet, persistent fragrance makes it a natural fixative in traditional incense and sachet preparations.
-
-## Economic and Cultural Significance
-
-In traditional Chinese culture, *C. spicatus* is associated with longevity and purity. It has been cultivated in temple gardens and scholar's gardens for centuries, valued for its subtle fragrance and elegant form.
-
-The dried flowers and leaves are used to scent tea in some regions of Guangxi and Yunnan provinces. The tea is described as mildly sweet with a floral, honeyed character.
-
-The practice of scenting tea with *C. spicatus* dates back to the Ming Dynasty, when the plant was one of several floral additives used to enhance green and white teas for the scholar-gentry class.
-
-Commercial cultivation of *C. spicatus* for essential oil production occurs on a small scale in southern China. The oil is used in premium cosmetics and traditional Chinese perfumery.
-
-## See Also
-
-- [[chloranthus-japonicus]]
-
-- [[houttuynia-cordata]]
-- [[zingiber-officinale]]
-- [[cinnamomum-verum]]
-- [[asarum-canadense]]
-- [[hibiscus-rosa-sinensis]]
-- [[jasminum-officinale]]
-- [[ocimum-basilicum]]
-- [[pimenta-dioica]]

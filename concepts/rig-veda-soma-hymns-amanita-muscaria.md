@@ -3,11 +3,11 @@
 ---
 # The Rig Veda Soma Hymns and Amanita Muscaria
 
-The Rig Veda, the world's oldest and largest religious text, contains over one thousand hymns with more than ten thousand verses. Among these, one hundred and fourteen hymns in Book Nine are specifically dedicated to Soma -- a divine substance that the Herb of Immortality source identifies as amanita-muscaria-resurrection-experiments property of the mushroom) and spiritual (the experience of transcending death).
+The Rig Veda, the world's oldest and largest religious text, contains over one thousand hymns with more than ten thousand verses. Among these, one hundred and fourteen hymns in Book Nine are specifically dedicated to Soma -- a divine substance that the [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] source identifies as amanita-muscaria-resurrection-experiments property of the mushroom) and spiritual (the experience of transcending death).
 
 **Verse 5:** "These glorious drops that give me freedom have I drunk. Closely they knit my joints as straps secure a chariot. Let them protect my foot from slipping on the way: yea let the drops I drink preserve me from disease."
 
-The physical healing effects described -- joint strengthening, foot protection, disease prevention -- are attributed to the mushroom's allegro-amanita-muscaria-properties-and-pharmacology of muscimol and the mushroom's antibiotic compounds.
+The physical [[gratitude-compassion-forgiveness-healing-effects]] described -- joint strengthening, foot protection, [[cervantes-damping-off-seedling-disease-prevention]] -- are attributed to the mushroom's allegro-amanita-muscaria-properties-and-pharmacology of muscimol and the mushroom's antibiotic compounds.
 
 ## Soma and the Grail
 
@@ -31,10 +31,10 @@ The self-purifying nature of Soma corresponds to the amanita-muscaria-sacramenta
 
 ## Soma Pavamanna: The Self-Purifying Pressed One
 
-The term "Soma Pavamanna" appears throughout Book Nine. Pavamana means "self-purifying," and the full term refers to Soma that has been pressed and is in the process of purifying itself. This concept maps onto the Amanita muscaria preparation process:
+The term "Soma Pavamanna" appears throughout Book Nine. Pavamana means "self-purifying," and the full term refers to Soma that has been pressed and is in the process of purifying itself. This concept maps onto the [[amanita-muscaria-preparation-methods]] process:
 
 1. **Pressed:** The mushroom is dried and powdered (pressed between stones, as described in the Rig Veda)
-2. **Self-purifying:** The resurrection process produces clean mycelial growth that excludes contaminants
+2. **Self-purifying:** The resurrection process produces clean [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] that excludes contaminants
 3. **The pressed one:** The dried, powdered mushroom material
 4. **Immortal:** The resurrected culture can produce sacrament indefinitely
 
@@ -55,7 +55,7 @@ Several hymns describe Soma's habitat as mountainous:
 |---|---|
 | "Pressed between stones" | Dried mushroom powdered for extraction |
 | "Filtered through wool" | Mycelium strained from liquid |
-| "Flows into wooden vats" | Liquid culture in wooden vessel |
+| "Flows into wooden vats" | [[comparison-agar-vs-liquid-culture]] in wooden vessel |
 | "Iron fashioned home" | Carved wooden bowl (Grail) |
 | "Eternal fleece" | White mycelium resembling wool |
 | "Self-purifying" | Resurrection process excludes contaminants |
@@ -88,62 +88,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-
-## Merged: Indo-European Origins of the Amanita Muscaria Sacred Plant Cult
-
-# Indo-European Origins of the Amanita Muscaria Sacred Plant Cult
-
-In "Amanita Muscaria: Herb of Immortality," Donald E. Teeter's central argument is that rig veda soma hymns amanita muscaria (Praise-Knowledge), one of the largest and oldest texts in any Indo-European language, composed by Seers and Sages living in intimate contact with nature. Some hymns may date back to 2000 BC or older. The Rig Veda was traditionally written on Birch bark sheets bound with wooden covers painted red. Birch trees are well known to be symbiotic with Amanita muscaria, which Teeter sees as a meaningful connection between the holy book's material and the god it celebrates.
-
-Book 9 of the Rig Veda is entirely about Soma, and Soma is mentioned in almost every hymn in the other books. The hymns were sung as the Soma was being prepared and were an integral part of the ceremony.
-
-## Archaeological Evidence: Beaker Burials
-
-The amanita-muscaria-herb-of-immortality-soma-hypothesis
-- amanita-herb-greek-roman-culture
-- amanita-muscaria-in-eastern-religions
-- amanita-polymorphous-symbolic-names
-
----
-
-Source: [[allegro-amanita-muscaria-properties-and-pharmacology]]: [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] (Teeter), Chapters 2-5, 14, 16-17; pp 7-16, 49-58, 79-82
-## Practical Applications
-
-Indo-European Origins of the Amanita Muscaria Sacred Plant Cult has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
-
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
-
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
-
-## Key Considerations
-
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
-
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
-
-Resource considerations include not only material inputs but also
-## See Also
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[amanita-muscaria-living-vessel-grail]]
-- [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]]
-- [[allegro-the-sacred-mushroom-amanita-identification]]

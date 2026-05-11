@@ -88,33 +88,3 @@ application is particularly valuable for micropropagation of
 medicinal and economically important plant species. Growth-promotional
 effects have been documented in Bacopa monnieri, [[azadirachta-indica]],
 Withania somnifera, Spilanthes calva, Adhatoda vasica, and
-Chlorophytum borivilianum, confirmed through extensive field trials.
-
-### Heavy Metal Remediation
-
-P. indica provides resistance against heavy-metal contamination in soil,
-making it a candidate for phytoremediation applications in polluted
-environments while preserving soil fertility.
-
-### Agricultural Integration
-
-The fungus can serve simultaneously as biofertilizer, bioprotector,
-bioregulator, and bioherbicide. Its ease of mass cultivation on cheap
-industrial media makes it practical for large-scale agricultural
-deployment across agroforestry, floriculture, arboriculture, and
-viticulture settings.
-
-## References
-
-- Das, A. and Varma, A. Symbiosis: The Art of Living. In: Symbiotic
-  Fungi (Springer).
-- Deshmukh, S. et al. (2006). The root endophytic fungus
-  Piriformospora indica requires host cell death for proliferation.
-  Proc Natl Acad Sci USA 103:18450-18457.
-- Mathur, A. et al. (2008). Biological hardening and genetic fidelity
-  testing of micro-cloned progeny of Chlorophytum borivilianum.
-  Aust J Bot 7:1046-1053.
-- Shahollari, B. et al. (2007). A leucine-rich repeat protein is
-  required for growth promotion in Arabidopsis thaliana.
-- Varma, A. et al. (1998, 1999, 2001). Piriformospora indica gen. et
-  sp. nov., a new root-colonizing fungus.

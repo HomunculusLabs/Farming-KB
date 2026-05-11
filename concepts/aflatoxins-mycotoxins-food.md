@@ -1,8 +1,8 @@
 ---
-title: Aflatoxins and Mycotoxins in Food
+title: Aflatoxins Mycotoxins Food
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - mycotoxins
   - aflatoxins
   - food-safety
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Mr Bloomfields Orchard - The Mysterious World of Mushrooms Molds and Mycologists.md
+  - Mr bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi - The Mysterious World of Mushrooms Molds and Mycologists.md
 type: concept
 ---
 
@@ -20,10 +20,10 @@ type: concept
 
 ## Overview
 
-Mycotoxins are poisonous [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by fungal mycelia (as opposed to [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] toxins like [[ascomycota-phylogeny-major-classes-lineages|Ascomycota]]
-- [[ergot-fungus|Ergot fungus and Claviceps]]
+Mycotoxins are poisonous [[antifungal-secondary-metabolites-coprophilous-fungi]] produced by [[davidson-mathematical-modeling-fungal-mycelia]] (as opposed to [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] toxins like [[ascomycota-phylogeny-major-classes-lineages]]
+- [[ergot-fungus]]
 - Fungal contamination of food
-- [[mushroom-toxins-and-poisoning|Amanita toxins and mushroom poisoning]]
+- [[mushroom-toxins-and-poisoning]]
 ## Practical Applications
 
 Aflatoxins and Mycotoxins in Food has a range of practical applications that make it relevant to
@@ -41,7 +41,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,16 +88,3 @@ The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

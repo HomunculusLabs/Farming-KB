@@ -1,5 +1,5 @@
 ---
-title: [[oyster-mushroom-pleurotus-ostreatus]] Medicinal and Anticancer Properties
+title: Cancer Medicinal Mushrooms Pleurotus Ostreatus
 created: 2026-04-26
 tags: [medicinal-mushrooms, cancer-research, oyster-mushroom, immunotherapy]
 date: 2026-04-25

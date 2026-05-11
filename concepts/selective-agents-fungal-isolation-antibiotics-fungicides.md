@@ -87,19 +87,3 @@ selected using antibiotics that inhibit the faster-growing
 ascomycetes and basidiomycetes. Dermatophyte isolation from clinical
 samples typically employs Mycosel or Dermatophyte Test Medium (DTM)
 with cycloheximide, chloramphenicol, and gentamicin.
-
-## Troubleshooting Contamination
-
-Persistent contamination in selective cultures may indicate that
-antibiotic concentrations are too low, that the target fungus is
-unusually sensitive to the selective agents, or that the inoculum
-carries an excessive bacterial load. Increasing antibiotic
-concentration by 25-50% often resolves mild contamination issues.
-For heavily contaminated samples, a pre-treatment wash in sterile
-water or dilute antibiotic solution can reduce the microbial load
-before plating.
-## See Also
-- [[fungal-culture-media]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[endophytic-fungi-plant-interactions]]
-- [[ethanol-pasteurization-selective-fungal-isolation]]

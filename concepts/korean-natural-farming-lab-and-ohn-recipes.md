@@ -87,34 +87,3 @@ Lactic Acid Bacteria (LAB) and [[bionutrients-lab-oriental-herbal-nutrients-ohn]
 2. Add the extracts to brown sugar (1:1 by weight) in a clay jar
 3. Cover and ferment for 7 more days
 4. Strain — this is your finished OHN
-
-### Storage and Use
-- Stores indefinitely (high sugar and alcohol content preserves it)
-- Dilution: 1:500 to 1:1000 with water
-- Apply as foliar spray or soil drench
-- Apply every 2-3 weeks
-- Combine with LAB and FPJ for comprehensive plant health spray
-- Particularly effective during transitions: flowering, fruiting, stress recovery
-
-## Combined KNF Spray Schedule
-
-| Growth Stage | Input | Dilution | Frequency |
-|---|---|---|---|
-| Seedling | LAB | 1:1000 | Every 7 days |
-| Vegetative | FPJ + LAB | 1:500 each | Every 7-10 days |
-| Pre-flowering | OHN | 1:1000 | 2 applications |
-| Flowering | OHN + FPJ (flower) | 1:1000 each | Every 10-14 days |
-| Fruiting | OHN + FPJ (fruit) | 1:1000 each | Every 14 days |
-| Stress recovery | LAB + OHN | 1:500 each | 2-3 applications |
-
-## Related
-- [[korean-natural-farming-fpj-and-ffp-recipes]] — for FPJ and FAA
-- [[compost-tea-brewing]] — for compost tea
-- [[jadam-water-soluble-calcium-preparation]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-
-## See Also
-
-- [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
-
-- [[bahay-kubo-fpj-and-ffj-fermentation]]

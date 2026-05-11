@@ -1,5 +1,5 @@
 ---
-title: Myxomycete and Mycetozoan Diversity and Ecology
+title: Myxomycete Mycetozoan Slime Mold Diversity Ecology
 created: 2026-04-26
 tags:
   - mycology
@@ -21,7 +21,7 @@ terrestrial amoeboid protists that produce aerial spore-bearing
 structures, commonly known as [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]. The categories include
 Eumycetozoa and the acrasids (Olive 1975). Eumycetozoa appears
 to be a monophyletic group including Myxogastria (myxomycetes or
-plasmodial slime molds), Dictyostelia (dictyostelid cellular
+plasmodial [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]), Dictyostelia (dictyostelid cellular
 slime molds), and Protostelia (protostelids). The eumycetozoans
 may be a sister group to the Fungi and Animal clade of crown
 eukaryotes.
@@ -41,7 +41,7 @@ has been placed in a clade of protozoans near alveolates.
 
 In all mycetozoans, the trophic state consists of one or more
 types of amoeboid cells that feed phagotrophically on bacteria,
-yeasts, spores, and hyphae of filamentous fungi, algae, and other
+yeasts, spores, and hyphae of [[environmental-sensing-filamentous-fungi-read]], algae, and other
 protists. Key trophic cell types include:
 
 - Amoeba: a cell producing pseudopodia as it moves and feeds
@@ -58,11 +58,11 @@ called macrocysts.
 
 ## Fruiting Body Diversity
 
-Fruiting body morphology is extremely variable. Sporocarps range
+[[brassinosteroid-fungal-fruiting-body-morphology]] is extremely variable. Sporocarps range
 from less than 10 micrometers (some protostelids) to nearly 1
 meter (some myxomycete aethalia). Fruiting body types include:
 
-- Sporangia: small, discrete fruiting bodies, stalked or sessile
+- Sporangia: small, discrete [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], stalked or sessile
 - Pseudoaethalia: partially fused sporangia, usually sessile
 - Plasmodiocarps: plasmodium-shaped fruiting bodies
 - Aethalia: massive fruiting bodies
@@ -87,53 +87,4 @@ been described in the last 25 years. All produce spores that
 germinate as amoeboflagellates.
 
 Dictyostelia include approximately 100 described species. The
-well-studied model organism Dictyostelium discoideum belongs
-to this group. Fruiting bodies are called sorocarps.
-
-## Habitats and Distribution
-
-Mycetozoans occur in soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], herbivore dung,
-rotting logs, bark surfaces of living and dead trees, and
-dead aerial parts of plants. They are present in temperate,
-boreal, and tropical forests as well as in grasslands, deserts,
-and tundra. Many myxomycete and protostelid fruiting bodies
-are macroscopic and brightly colored, visible in the field.
-Most dictyostelid and many protostelid fruiting bodies are
-tiny and ephemeral, observed only when substratum samples are
-brought into the laboratory and maintained in moist chambers.
-
-## Sampling Methods
-
-Moist chamber techniques are essential for detecting most
-mycetozoans. Substrata are placed in Petri dishes with moist
-paper or agar and examined microscopically over several weeks.
-Soil-inhabiting mycetozoans may be detected by plating soil
-suspensions with a preferred food organism on agar and looking
-for plaques.
-
-Protostelid colonization rates can be sampled with sterilized
-substrata introduced into a microhabitat, then transferred to
-moist chambers after one to several weeks. Ordination analysis
-has shown that in forested habitats, differences in microhabitat
-(bark, litter, dead aerial parts, rotting wood, dung) have a
-greater influence on species distribution than differences in
-habitat type.
-
-## Conservation and Biodiversity
-
-The majority of mycetozoan species appear to be cosmopolitan,
-with endemism unlikely. However, numerous undescribed species
-are found in intensive surveys, particularly in tropical
-regions. Hawaiian surveys have yielded evidence of more than
-50 undescribed protostelid species. The full range of
-mycetozoan diversity is far from known.
-
-## See Also
-
-- dictyostelid-cellular-slime-mold-diversity-distribution
-
-- [[biological-slime-mold-computing]]
-
-- [[fungal-biodiversity-ecosystem-function]]
-- fungal-feeding-invertebrates-soil
-- [[fungal-biogeography-distribution-patterns]]
+well-studied [[canary-grass-phototropism-model-organism]] Dictyostelium discoideum belongs

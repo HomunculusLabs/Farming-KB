@@ -3,7 +3,8 @@ title: "Chamomile vs Valerian"
 tags: [comparison, medicinal-herbs, sedatives, cultivation, herbal-medicine]
 date: 2026-05-10
 updated: 2026-05-10
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Chamomile vs Valerian
@@ -21,7 +22,7 @@ choose the right herb for specific needs and growing conditions.
 
 [[chamomile-growing-guide]]
 
-Chamomile (primarily German chamomile, Matricaria chamomilla, and Roman
+Chamomile (primarily German chamomile, [[matricaria-chamomilla]], and Roman
 chamomile, Chamaemelum nobile) belongs to the Asteraceae family. This daisy-like
 herb produces delicate white flowers with yellow centers and has a pleasant,
 apple-like aroma. German chamomile is an annual that grows 2-3 feet tall,
@@ -45,17 +46,17 @@ external preparations.
 
 [[valerian-growing-guide]]
 
-Valerian (Valeriana officinalis) is a hardy perennial herb in the
+Valerian ([[valeriana-officinalis]]) is a hardy perennial herb in the
 Caprifoliaceae family. Unlike the delicate chamomile, valerian grows 3-5 feet
 tall with hollow stems topped with clusters of small, fragrant, pale pink to
 white flowers. The most notable characteristic of valerian is its distinctive,
 pungent aroma from the roots, often compared to dirty socks or aged cheese,
 due to the presence of isovaleric acid.
 
-The primary medicinal compounds in valerian include valerenic acid,
+The primary [[cotter-mushroom-nutrition-medicinal-compounds]] in valerian include valerenic acid,
 valepotriates, and various isovaleric acid derivatives. These constituents
 interact with the GABA neurotransmitter system, producing stronger sedative
-effects than chamomile, particularly for sleep disorders. Valerian is
+effects than chamomile, particularly [[cannabis-for-sleep-disorders]]. Valerian is
 considered one of the most well-researched herbal sedatives and is commonly
 recommended for insomnia and anxiety that doesn't respond to milder remedies.
 
@@ -90,7 +91,7 @@ taste and aroma of chamomile tea make it easy to administer to those who might
 resist stronger herbal remedies. Chamomile is also excellent for stress-related
 digestive problems, menstrual discomfort, or as a gentle anti-inflammatory
 for skin conditions when used externally. For gardeners seeking an easy-to-grow
-herb with multiple applications (medicinal, tea, companion planting), chamomile
+herb with multiple applications (medicinal, tea, [[cervantes-companion-planting-pest-deterrent]]), chamomile
 offers more versatility than valerian.
 
 ## When to Choose Valerian
@@ -102,7 +103,7 @@ daily functioning, or muscle spasms related to nervous tension. Valerian is
 particularly effective for those who need help falling asleep but want to avoid
 the dependency issues associated with pharmaceutical sleep aids. For gardeners
 with space for taller perennial herbs and an interest in root medicine, valerian
-provides a potent addition to the medicinal herb garden.
+provides a potent addition to the [[query-how-do-i-start-a-medicinal-herb-garden]].
 
 ## Hybrid Approaches
 
@@ -123,5 +124,5 @@ comprehensive sleep and anxiety blends.
   both chamomile and valerian
 - [[st-johns-wort-guide]] -- Often used for mood concerns alongside these
   calming herbs
-- [[comparison-lemon-balm-vs-valerian]] -- Compare valerian with another
+- comparison lemon balm vs valerian -- Compare valerian with another
   gentle calming herb

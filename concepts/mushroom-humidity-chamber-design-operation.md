@@ -4,7 +4,7 @@
 
 A humidity chamber ([[mycelium]] has fully colonized the substrate,
 mushrooms need specific conditions to initiate and complete fruiting:
-high relative humidity (85-95%), fresh air exchange,
+high relative humidity (85-95%), fresh [[growing-gourmet-growing-room-ventilation-air-exchange]],
 appropriate temperature, and indirect light.
 The Jarrold boil-a-bag method describes several practical designs
 constructed from readily available materials.
@@ -31,7 +31,7 @@ This simple system requires regular monitoring and manual intervention.
 
 Fresh air exchange is provided by fanning air into the tank twice daily.
 This is critical because mushroom metabolism consumes oxygen
-and produces carbon dioxide.
+and produces [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]].
 Without adequate exchange, mushrooms develop abnormally
 (tall, stringy stems with small caps, called "leggy" growth).
 Twice-daily fanning is the minimum; more frequent exchanges improve results.
@@ -59,7 +59,7 @@ A small hole near the top of the tank
 allows air tubing to pass through.
 The tubing connects the air pump (outside) to the air stone (inside, in water).
 The pump pushes air through water via the air stone,
-creating bubbles that increase evaporation and continuously generate humid air.
+creating bubbles that increase evaporation and continuously generate [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]].
 
 ### Advantages
 - More consistent humidity without manual intervention
@@ -73,7 +73,7 @@ Inner angled drip lids made from 2mm plastic sheet
 direct condensation back into the water reservoir
 rather than dripping onto [[falconer-growing-mushrooms-in-sheds]].
 This maintains even moisture distribution
-and prevents water damage to developing fruiting bodies.
+and prevents water damage to developing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Warm Humid Air Delivery Chamber
 
@@ -88,21 +88,3 @@ For cold climates or winter growing:
 ### Operation
 
 The container is filled with water;
-a heater maintains temperature.
-An input fan pushes warm humid air into the growing enclosure.
-The timer requires experimentation to balance [[greg-green-temperature-and-humidity-control]].
-[[ectomycorrhizal-mushroom-fruiting-ecology]] typically requires 18-24°C (65-75°F),
-varying by species.
-
-## Monitoring and Maintenance
-
-### Daily Tasks
-- Fan fresh air into chamber at least twice daily
-- Check humidity levels (hygrometer recommended)
-- Remove contaminated mushrooms promptly
-- Harvest mature mushrooms to prevent [[straw-substrate-preparation-mushroom-cultivation]]
-- [[jarrold-boil-a-bag-mushroom-cultivation-method]]
-
-## Sources
-
-- Jarrold, D.H. Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag.

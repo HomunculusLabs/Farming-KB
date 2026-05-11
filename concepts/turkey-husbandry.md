@@ -9,7 +9,7 @@ sources: []
 
 # Turkey Husbandry
 
-Turkeys are rewarding homestead poultry that produce premium meat and serve
+Turkeys are rewarding [[homestead-poultry-health]] that produce premium meat and serve
 as excellent foragers and pest controllers. The choice between heritage and
 commercial broad-breasted strains has significant implications for
 management, feed efficiency, reproduction, and meat quality. Heritage turkeys
@@ -22,7 +22,7 @@ faster but cannot breed naturally.
 - The standard commercial turkey. Reaches 20-40 lbs in 16-20 weeks.
 - Cannot breed naturally (too heavy to mate). Requires AI for reproduction.
 - Feed conversion: 2.5-3.0 lbs feed per lb of gain (very efficient).
-- Prone to leg problems, heart attacks, and heat stress at large sizes.
+- Prone to leg problems, heart attacks, [[query-how-to-prevent-and-treat-cannabis-light-burn-and-heat-stress]] at large sizes.
 - White feathers — clean-looking carcass.
 - Best for: one-time harvest, maximum efficiency, lowest feed cost per pound.
 
@@ -75,7 +75,7 @@ faster but cannot breed naturally.
 ### Early Challenges
 - Starvation: poults don't instinctively eat and drink. Must be shown.
 - Piling: poults crowd together, smothering bottom birds. Prevent with
-  adequate space and temperature management.
+  adequate space and [[cervantes-reservoir-temperature-management]].
 - Cold sensitivity: poults chill easily. Ensure draft-free brooder.
 - Coccidiosis: common in young poults. Provide medicated feed or herbal
   preventatives.
@@ -110,7 +110,7 @@ faster but cannot breed naturally.
 - Heritage turkeys are excellent foragers and can meet 20-40% of their
   needs on good pasture.
 - They eat grass, clover, insects, seeds, and small rodents.
-- Turkeys in orchards provide pest control and fertilization.
+- Turkeys in orchards provide [[knf-pest-control-and-soap-water]] fertilization.
 - Broad-breasted turkeys forage less and rely more on grain.
 
 ### Supplements
@@ -133,7 +133,7 @@ faster but cannot breed naturally.
 - Singe remaining hairs over open flame.
 - Eviscerate carefully. Save heart, liver, gizzard.
 - Chill in ice water for at least 1 hour (longer for better texture).
-- Age in refrigerator for 1-3 days before cooking for best flavor.
+- Age in refrigerator for 1-3 days before cooking [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]].
 - See [[animal-harvest-and-processing]] for detailed procedures.
 
 ### Yield

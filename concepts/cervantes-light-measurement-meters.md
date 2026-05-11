@@ -1,5 +1,5 @@
 ---
-title: cervantes light measurement meters and Meters for Cannabis
+title: Cervantes Light Measurement Meters
 created: 2026-04-28
 tags:
   - cannabis
@@ -11,13 +11,14 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Light Measurement and Meters for Cannabis
 
 Understanding how to measure light is essential for optimizing cannabis
-growth indoors. Jorge Cervantes explains the different measurement
+growth indoors. [[jorge-cervantes]] explains the different measurement
 systems, their limitations, and how growers can use meters to improve
 their gardens.
 
@@ -34,12 +35,12 @@ use a much broader range of wavelengths for photosynthesis.
 A foot-candle is a unit of illumination equal to the intensity of one
 candle at a distance of one foot. The lux scale is similar to that of
 the foot-candle; one foot-candle is equal to 10.76 lux. Both scales
-are useful for measuring relative light distribution in a garden but
+are useful for measuring relative [[cervantes-reflective-hoods-light-distribution]] in a garden but
 have significant limitations for horticultural purposes.
 
 ### Lumens
 
-Lumens measure the total quantity of visible light emitted by a
+Lumens measure the total quantity of [[electromagnetic-spectrum-visible-light-plant-perception]] emitted by a
 source. While lumens per watt is the standard metric for comparing
 lamp efficiency, the lumen rating is weighted toward the wavelengths
 that human eyes perceive most brightly, not necessarily the
@@ -86,23 +87,3 @@ a CRI of 100, the maximum. A Deluxe Daylight fluorescent achieves
 84 CRI, while standard Cool White rates only 62.
 
 ## Relationship to Lamp Selection
-
-Understanding these measurements helps when selecting between
-[[cmh-grow-lights]], [[cervantes-compact-fluorescent-lighting]]. Each technology has
-different spectral profiles and efficiencies. The "Light Measurement
-Handbook" available free from www.intl-light.com/handbook/ provides
-extensive technical detail for growers who want to deepen their
-understanding.
-
-## Light Intensity and Plant Spacing
-
-When light shines on a garden, leaves near the top of plants get
-more intense light than leaves at the bottom. Top leaves shade
-bottom leaves and absorb light energy. If lower leaves do not receive
-enough light, they yellow and die. Proper spacing, training with
-[[screen-of-green]] all aim to maximize the amount of
-foliage receiving sufficient light intensity.
-
-Using a light meter to map the intensity gradient in your garden
-helps identify weak spots and informs decisions about plant spacing,
-defoliation, and [[sea-of-green]] density.

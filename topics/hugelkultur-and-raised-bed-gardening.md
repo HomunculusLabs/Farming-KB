@@ -6,6 +6,7 @@ tags: [hugelkultur, raised-beds, permaculture, soil-building, no-till,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - hugelkultur
   - hemenway-hugelkultur-guide
   - holzer-crater-gardens-hugelkultur

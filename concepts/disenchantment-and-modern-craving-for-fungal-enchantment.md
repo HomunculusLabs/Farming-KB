@@ -64,7 +64,7 @@ elves in a parallel dimension is likely to meet with a cynical and
 derisive response. Culture can only tolerate elves and faerie denizens
 if they are bound firmly into film, the realm of fiction, or the
 symbolic language of the unconscious, where the question of their
-actual physical existence need never be settled. As Robert Graves
+actual physical existence need never be settled. As [[robert-graves-british-mushroom-connection]]
 noted, "the dirty synthetic world has asserted itself as the sole
 factual truth."
 
@@ -88,47 +88,3 @@ chapel with small idols from all over the world," but still
 lambasted by the mainstream, these alternatives persist.
 
 ## The Mushroom as Key
-
-This is where mushrooms fit in. For whether they sweep back the veil
-to reveal the world as it really is, as enthusiasts maintain, or
-whether they come perilously close to the edge of madness, as society
-ripostes, they arguably occasion experiences that nowadays only happen
-in stories, and with an immediacy that makes them seem, to all intents
-and purposes, real. One small cup of mushroom tea can satisfy an
-ardent craving for enchantment.
-
-Mushroom enthusiasts typically portray humanity as being at a
-crossroads, our choice of direction framed in exactly these terms: the
-mushroom cloud and annihilation, or the [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] of the magic
-mushroom and salvation. Daniel Pinchbeck, the New Age journalist,
-puts it like this: modern civilisation faces convulsions before it is
-"expunged from the planet forever, unless there is a quick and
-unlikely reversal of trends." His prescription for change is a rebirth
-of psychedelic shamanism that would "draw the spiritual poison from
-our social body."
-
-## Science and Anti-Science
-
-The mushroom's popularity reveals something fundamental about the
-attitudes and sensibilities that have shaped our time. The tension
-between those who embrace the [[leary-psychedelic-experience-bardo-mapping]] and those who
-dismiss it reveals, like the ricochets and collisions of matter and
-antimatter, something about the underlying structure of contemporary
-Western culture. Science delivered up the magic mushroom to the West
-through advances in microscopy, mycology, chemistry, pharmacology and
-mycoculture. Yet the very people who took to it most ardently were
-those challenging or even rejecting science's claim to a monopoly on
-understanding reality.
-
-The magic mushroom occupies a unique position at the intersection of
-scientific knowledge and romantic anti-science. It is a natural
-organism whose active compounds can be precisely measured and
-synthesised, yet whose effects transport the user beyond the reach of
-any laboratory instrument. It is this paradox that makes it such a
-potent symbol for an age caught between reason and enchantment.
-
-## Related Topics
-
-- [[psychedelic-consciousness-models]] - models of consciousness
-- [[psychedelic-aesthetics-and-creativity]] - creative dimensions
-- [[entheogen-culture]] - broader entheogenic cultural context

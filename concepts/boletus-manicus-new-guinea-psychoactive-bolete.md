@@ -1,7 +1,7 @@
 ---
 title: Boletus manicus — The New boletus manicus new guinea psychoactive bolete Bolete
 tags: [boletus, neurotropic-fungi, species-profile, new-guinea, boletaceae]
-source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of Magic Mushrooms"
+source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[1960s-counterculture-and-magic-mushrooms]]"
 created: 2026-05-09
 ---
 
@@ -9,8 +9,8 @@ created: 2026-05-09
 
 ## Overview
 
-Boletus manicus is one of the most unusual neurotropic fungi documented in
-mycological literature. Unlike the vast majority of psychoactive mushrooms, which
+Boletus manicus is one of the most unusual [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] documented in
+mycological literature. Unlike the vast majority of [[ceremonial-shamanic-use-psychoactive-mushrooms]], which
 belong to the agaric genera Psilocybe, Panaeolus, Copelandia, Gymnopilus, and
 Inocybe (all within Agaricales), B. manicus is a bolete — a member of the order
 Boletales, family Boletaceae. Boletes are characterized by their distinctive spore-
@@ -19,7 +19,7 @@ underside of the cap. Boletus manicus is listed as species #199 in Guzmán, Alle
 Gartz's (1998) comprehensive catalogue of 216 [[mexico-center-neurotropic-fungal-biodiversity]] species, placed in
 the subgenus Tubiporus.
 
-The species was originally described by Roger Heim, the eminent French mycologist
+The species was originally described by [[roger-heim]], the eminent French mycologist
 who conducted extensive research on [[cattle-dispersal-psychoactive-fungi-australia]] from Mexico and New Guinea
 during the mid-20th century. The epithet "manicus" likely derives from the Manus
 Island region or the broader Manus Province of Papua New Guinea, where the mushroom
@@ -76,7 +76,7 @@ the New Guinea psychoactive mushroom complex is unusual in that it involves
 multiple unrelated genera, including boletes (Boletus, Heimiella), agarics
 (Psilocybe, Panaeolus), and even russuloid mushrooms (Russula).
 
-Roger Heim and R. Gordon Wasson's expeditions to New Guinea in the late 1950s and
+Roger Heim and R. [[gordon-wasson-comparative-method-ethnomycology]]'s expeditions to New Guinea in the late 1950s and
 1960s documented the use of several mushroom species by indigenous communities. B.
 manicus was among the species investigated during these expeditions. The indigenous
 knowledge of psychoactive mushrooms in New Guinea is notable for its breadth,
@@ -88,62 +88,3 @@ observed elsewhere in the world.
 The psychoactive properties of Boletus manicus have been debated in the literature.
 While Heim originally classified it as neurotropic based on ethnobotanical evidence,
 the specific psychoactive compounds responsible for its effects have not been
-definitively characterized. This is in contrast to the agaric neurotropic fungi,
-where psilocybin and psilocin are well-established as the primary active
-constituents.
-
-The chemical investigation of B. manicus and related New Guinea boletes remains an
-area where further research is needed. The fact that boletes from unrelated
-families to the typical psilocybin-containing agarics exhibit psychoactive
-properties raises interesting questions about the evolution of psychoactive
-compounds in fungi and whether B. manicus contains psilocybin or an entirely
-different class of psychoactive substances.
-## Related New Guinea Neurotropic Boletes
-
-The New Guinea bolete complex includes several species whose neurotropic status
-has been questioned by subsequent researchers:
-
-- **B. flammeus**: Ott (1993) stated this species is not neurotropic
-- **B. kumaeus**: Ott (1993) stated this species is not neurotropic
-- **B. nigroviolaceus**: Ott (1993) stated this species is not neurotropic
-- **B. reayi**: Ott (1993) stated this species is not neurotropic
-
-Of the six New Guinea boletes listed by Guzmán et al. (1998), only B. manicus is
-not specifically contradicted by Ott's later assessment, though Ott does not
-explicitly confirm its psychoactivity either. This uncertainty highlights the
-challenges of studying ethnobotanically-reported psychoactive fungi where chemical
-verification may be limited or absent.
-
-## Russula wahgiensis — A Russuloid Neurotropic Species
-
-In addition to the boletes, another highly unusual neurotropic species from New
-Guinea is Russula wahgiensis Singer (#210 in the Guzmán catalogue). R. wahgiensis
-is a member of the Russulaceae, a family of typically edible or inedible (but not
-psychoactive) mushrooms. Its documentation by Singer et al. (1958) and Singer
-(1960a) from New Guinea represents one of the few reported cases of a Russula
-species with neurotropic properties.
-
-Several other Russula species from New Guinea were originally reported as
-neurotropic by Heim and Singer, including R. agglutinata, R. kirinea, R. maenadum,
-R. nondorbingi, and R. pseudomaenadum. However, Ott (1993) wrote that there is no
-scientific evidence that these species are neurotropic, leaving their status
-uncertain.
-
-## Conservation and Research Needs
-
-The New Guinea neurotropic fungi, including Boletus manicus and the various Russula
-species, represent a unique and poorly studied component of the world's psychoactive
-mycoflora. The geographic restriction of these species to New Guinea, combined with
-ongoing deforestation and habitat change in the region, raises conservation concerns.
-Further ethnobotanical and chemical research on these species would contribute
-significantly to our understanding of the evolution and distribution of psychoactive
-compounds in fungi.
-
-## References
-
-- Guzmán, Allen & Gartz (1998). World-wide [[global-distribution-of-neurotropic-fungi]] fungi.
-- Heim & Wasson (1958). Les champignons hallucinogènes du Mexique.
-## See Also
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
-- [[cultural-evolution-and-psychoactive-substances]]
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

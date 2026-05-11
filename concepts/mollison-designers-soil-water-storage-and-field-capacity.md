@@ -1,15 +1,16 @@
 ---
-title: "Soil Water mollison designers soil water storage and field capacity Capacity in Forest Systems"
+title: Mollison Designers Soil Water Storage And Field Capacity
 created: 2026-04-26
 tags:
   - soil-science
   - forest-ecology
-  - water-conservation
+  - [[water-conservation]]
   - hydrology
-  - permaculture-design
+  - [[permaculture-design]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,11 +88,3 @@ Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[mollison-designers-water-purification-and-storage-principles]]
-- [[mollison-designers-dam-construction-and-water-storage]]
-- [[mollison-designers-soil-ph-and-mineral-balance]]
-- [[mollison-designers-hand-pump-and-water-lifting-devices]]

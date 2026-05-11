@@ -9,7 +9,7 @@ sources:
 ---
 # Growing Vegetables with Less Fertilizer
 
-Steve Solomon advocates for a balanced approach to soil fertility that maximizes nutrition and minimizes purchased inputs. The key insight: it's not about how much fertilizer you add, but having the right balance of minerals in the soil.
+[[steve-solomon]] advocates for a balanced approach to soil fertility that maximizes nutrition and minimizes purchased inputs. The key insight: it's not about how much fertilizer you add, but having the right balance of minerals in the soil.
 
 ## Complete Organic Fertilizer (COF)
 
@@ -26,9 +26,9 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 
 ### Why COF Works
 - **Seed meal**: Slow-release nitrogen source (6-7% N). Feeds soil biology, which feeds plants
-- **Lime**: Raises pH, provides calcium and magnesium. Use dolomite lime if soil is Mg-deficient; agricultural lime if Mg is adequate; gypsum on alkaline soils (adds Ca without raising pH)
+- **Lime**: Raises pH, provides [[dynamic-accumulator-plants-calcium-and-magnesium]]. Use dolomite lime if soil is Mg-deficient; agricultural lime if Mg is adequate; gypsum on alkaline soils (adds Ca without raising pH)
 - **Bone meal**: Phosphorus source. Phosphate rock is slower but cheaper for large areas
-- **Kelp meal**: Trace minerals (micronutrients) and growth hormones. The "secret ingredient"
+- **Kelp meal**: [[dynamic-accumulator-plants-trace-minerals]] (micronutrients) and [[gibberellins-plant-growth-hormones]]. The "secret ingredient"
 
 ## The Ley System (Long-Term Fertility)
 
@@ -40,7 +40,7 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 
 ### Implementation
 - Year 1-4: Grass and clover ley (mow regularly, leave clippings)
-- Year 5: Till in the sod (massive organic matter addition)
+- Year 5: Till in the sod (massive [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] addition)
 - Year 5-8: Intensive [[dry-gardening-unirrigated-vegetable-production-solomon]] using soil reserves
 - Year 9: Return to ley
 
@@ -86,20 +86,5 @@ Steve Solomon advocates for a balanced approach to soil fertility that maximizes
 
 ### Best Use
 - Compost for soil structure and biology
-- COF or mineral amendments for specific nutrient needs
+- COF or [[cervantes-organic-mineral-amendments]] for specific nutrient needs
 - Combination gives best results
-
-## Reducing Fertilizer Need Over Time
-
-### Strategies
-- Build soil biology (compost, mulch, cover crops) — biology makes nutrients available
-- Use nitrogen-fixing cover crops (clover, vetch, peas, beans)
-- Return all crop residues to the soil
-- Use [[comparison-dynamic-accumulators-vs-cover-crops]] (comfrey, yarrow) to mine deep nutrients
-- Minimize tillage (preserves [[dighton-mycorrhizal-networks-carbon-transfer]])
-- Keep soil covered (mulch, cover crops — prevent erosion and leaching)
-
-## Related
-- [[plant-macronutrient-functions]] — for detailed NPK roles
-- [[korean-natural-farming-imo-recipes]] — for KNF approach to fertility
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

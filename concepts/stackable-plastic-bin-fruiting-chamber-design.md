@@ -17,11 +17,11 @@ source: "Grass [[grass-seed-cultivation-of-psilocybe-mushrooms]] Guide — Fruit
 
 ## Overview
 
-The fruiting chamber described in the grass seed cultivation guide is a
+The fruiting chamber described in the [[grass-seed-cultivation-of-psilocybe-species]] guide is a
 deliberately low-tech, cost-effective solution built from readily available
 materials. It prioritizes simplicity, space efficiency, and reliability over
 complex automated setups. The design centers on clear plastic bins with
-polyethylene sheeting covers, arranged in a stackable configuration that
+[[passive-humidity-fruit-chamber-polyethylene-sheeting]] covers, arranged in a stackable configuration that
 maximizes vertical space utilization.
 
 ## Core Components
@@ -44,7 +44,7 @@ Key [[cannabis-breeding-traits-selection-criteria-clarke]]:
 Rather than using the bin's original lid, the guide specifies covering bins
 with **polyethylene sheeting**. This material is important because:
 
-- It is semi-permeable, allowing gas exchange while retaining most moisture.
+- It is semi-permeable, allowing [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] while retaining most moisture.
 - It is inexpensive, disposable, and easy to replace between grows.
 - It can be secured with tape, elastic bands, or draped with overlap.
 
@@ -59,7 +59,7 @@ Each bin is modified with holes covered with mesh for dual purposes:
    Without adequate FAE, growth becomes elongated and malformed. Mesh-covered
    holes provide passive air exchange driven by concentration gradients.
 
-2. **Fly prevention** — Fungus gnats and other small flying insects are common
+2. **Fly prevention** — [[cervantes-fungus-gnats]] and other small flying insects are common
    pests that introduce contamination. The mesh barrier allows airflow while
    physically excluding insects.
 
@@ -76,7 +76,7 @@ exposure and [[stamets-growing-room-air-circulation-co2-management]] around all 
 ## Humidity Without Humidifiers
 
 A notable feature is the complete absence of powered humidification. Humidity
-is maintained through evaporation from the casing surface:
+is maintained through evaporation from the [[abort-dead-pinhead-cleanup-casing-surface-hygiene]]:
 
 **Water evaporates from casing → raises bin humidity → polyethylene retains
 moisture → mesh holes prevent CO₂ buildup → daily misting replenishes water.**
@@ -88,54 +88,3 @@ over-humidification, and avoids standing water [[stamets-contamination-sources-l
 ## Stackable Design and Space Efficiency
 
 The bins are designed to be **stackable**, a critical advantage for limited
-space:
-
-- A single shelf accommodates 3–4 stacked bins.
-- Each bin holds 5 trays; a 4-bin stack supports 20 trays total.
-- Vertical arrangement does not significantly impede light penetration.
-- Each bin is independently accessible without disturbing others in the stack.
-
-## Maintenance Routine
-
-Daily maintenance is minimal:
-
-- **Mist daily** — Lightly spray casing surfaces to replenish evaporated
-  moisture.
-- **Increase watering after flush** — Post-harvest, casing dries considerably.
-  Increase misting volume to prepare for the next flush.
-- **Remove aborts** — Identify and remove aborted pins (darkened, stopped
-  growth). Left in place, they rot and introduce contamination.
-
-## Practical Advantages
-
-| Feature | Benefit |
-|---------|---------|
-| No humidifier | Zero equipment cost, no failure risk |
-| No air pump | Silent operation, no moving parts |
-| Stackable | Maximizes vertical space |
-| Transparent bins | Easy monitoring without opening |
-| Polyethylene covers | Cheap, disposable, replaceable |
-| Mesh-covered holes | Passive FAE + pest exclusion |
-| 5 trays per bin | High density per unit area |
-
-## Limitations
-
-- Passive humidity depends on consistent misting discipline.
-- No environmental controls (temperature or humidity monitoring).
-- Mesh holes may need periodic cleaning to maintain airflow.
-- Stackable design requires sturdy bins rated for the weight load.
-
-## Summary
-
-The stackable plastic bin fruiting chamber is a purposefully simple design
-relying on evaporation from casing surfaces for humidity, polyethylene
-sheeting for moisture retention, and mesh-covered holes for passive air
-exchange and pest prevention. Each bin holds 5 cased trays, and the stackable
-configuration enables efficient space use without any powered equipment.
-
-## See Also
-
-- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
-
-- [[mushroom-humidity-chamber-design-operation]]
-- [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]

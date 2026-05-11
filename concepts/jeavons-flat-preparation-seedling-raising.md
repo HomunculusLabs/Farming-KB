@@ -4,7 +4,7 @@ created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
     title: How to Grow More Vegetables - john-jeavons
-    author: John Jeavons
+    author: [[john-jeavons]]
 updated: 2026-04-24
 type: concept
 tags: [plant-growth]
@@ -44,7 +44,7 @@ Chadwick's recipe is one part each by weight: evenly moist compost (sifted, if p
 
 ### Preparing the Flat
 
-Completely fill the flat with soil, or even mound it slightly above the edge, so the seedlings will have as much depth as possible to grow in. If available, line the bottom of the flat with a 1/8-inch layer of oak leaf mold (partially decayed oak leaves) for drainage and additional nutrients. You may place crushed eggshells above the oak leaf mold for calcium-loving plants such as carnations and members of the cabbage family. Lightly sprinkle the eggshells to cover 1/4 of the total surface area.
+Completely fill the flat with soil, or even mound it slightly above the edge, so the seedlings will have as much depth as possible to grow in. If available, line the bottom of the flat with a 1/8-inch layer of oak [[comparison-leaf-mold-composting-vs-hot-composting-method]] (partially decayed [[calcium-accumulators-and-oak-leaves]]) for drainage and additional nutrients. You may place crushed eggshells above the oak leaf mold for calcium-loving plants such as carnations and members of the cabbage family. Lightly sprinkle the eggshells to cover 1/4 of the total surface area.
 
 ## Seed Planting in Flats
 
@@ -58,7 +58,7 @@ A spacing frame made from 1-inch or 2-inch mesh chicken wire stretched across a 
 
 ### Broadcasting
 
-Once you get the feel for plant spacing, you may want to practice broadcasting seeds by hand in flats for some crops, such as lettuce and flowers. This was the method Alan Chadwick used. Be sure the seeds end up 1/4 to 1/2 inch apart in the first flat so the seeds can take advantage of their complete mini-climate for early growth stimulation and health. Cover broadcast seeds with a layer of flat soil mixture.
+Once you get the feel for plant spacing, you may want to practice broadcasting seeds by hand in flats for some crops, such as lettuce and flowers. This was the method Alan Chadwick used. Be sure the seeds end up 1/4 to 1/2 inch apart in the first flat so the seeds can take advantage of their complete mini-climate for [[cervantes-seedling-care-early-growth]] stimulation and health. Cover broadcast seeds with a layer of flat soil mixture.
 
 ## Pricking Out
 
@@ -86,40 +86,4 @@ Handle seedlings gently and touch them as little as possible. Hold them only by 
 
 ### Root-Bound Plants
 
-If seedlings are root bound (roots tightly grown together from being kept in a flat too long), gently spread the roots out in all directions before planting. The plant should not spend critical growth energy sending out a new root system when a good one has already been produced. Instead, the plant's energy will go into continuous growth.
-
-### Planting Depth
-
-Place the seedling into a large enough hole so that the plant can be buried up to its first set of true leaves. Transplanting this deep prevents plants from becoming top-heavy and bending over during early growth. Onions and garlic are exceptions — they do better if the bulb does not have much soil weight to push up against.
-
-### Timing
-
-Transplanting should ideally be done in the early evening so seedlings get settled during more moderate weather conditions. If transplanting during the day, some temporary shading with 30% [[jeavons-shade-netting-mini-greenhouses]] or row cover cloth may be needed for several days to minimize shock and wilt.
-
-### Watering After Transplant
-
-Water the seedlings after transplanting to help settle the soil around the roots, eliminate excess air spaces, and provide adequate water for growth. The soil should be firm around the seedling but not packed too tightly — tight packing damages roots and prevents proper penetration of water, nutrients, and air. Soil that is too loose allows air and moisture to concentrate around the roots, causing root burn and decay.
-
-## Spotting
-
-Some newly transplanted seedlings may die for various reasons or be eaten by animals or insects. Save the surplus seedlings left in the flats after transplanting. Use these seedlings during the next 10 days to fill in the holes or "spots" in the mini-climate. This process of replacing losses is called "spotting."
-
-## Hardening Off
-
-Before transplanting in cold weather, seedlings should be acclimatized through a hardening off process:
-
-1. Place the flat in a cold frame for two days when the seedlings are almost transplanting size.
-2. Move the flat to the open for two more days to complete acclimatization before transplanting.
-
-In warm and hot weather, flats can remain in the open throughout. In very hot weather, flats may be placed in the shade to slow growth.
-
-## The Critical 2-Inch Zone
-
-The most important areas for the plant are the 2 inches above and the 2 inches below the surface of the flat or planting bed. The mini-climate created under the plants' leaves and the protection of the upper roots by the soil is critical. Without proper protection, plants develop tough necks at the stem-soil junction that slow the flow of plant juices and weaken growth. The roots are "leaves in the soil" and the leaves are "roots in the air" — both need proper environmental conditions.
-
-## See Also
-
-- [[jeavons-grow-biointensive-method-overview]] — The complete method
-- [[jeavons-companion-planting]] — Plant relationships after transplanting
-- [[jeavons-water-management-irrigation]] — Watering flats and newly transplanted beds
-- [[jeavons-seed-saving-and-propagation]] — Open-pollinated [[cannabis-seed-selection-and-strain-types]]
+If seedlings are [[cannabis-root-bound-symptoms-and-management]] (roots tightly grown together from being kept in a flat too long), gently spread the roots out in all directions before planting. The plant should not spend critical growth energy sending out a new root system when a good one has already been produced. Instead, the plant's energy will go into continuous growth.

@@ -1,8 +1,8 @@
 ---
-title: bloomfield-ingoldian-aquatic-fungi-spore-dispersal Fungi and Tetraradiate aquatic-fungi-spore-dispersal-ingold
+title: Bloomfield Ingoldian Aquatic Fungi Tetraradiate Spores Foam
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - aquatic-fungi
   - ingoldian-fungi
   - spore-morphology
@@ -89,36 +89,9 @@ shapes would be anticipated in terrestrial fungi, where the faster rate of desce
 air places an even greater premium on braking structures. But airborne spores are
 always compact, confirming that appendages add unwelcome mass and speed descent.
 
-## Role in Leaf Decomposition
-
-Ingoldian mycelia colonize submerged leaves and soften the plant tissues by secreting
-cellulose-degrading enzymes. Hyphae thoroughly insinuate themselves in the decaying
-leaves, raising the protein content of the debris as dead plant material is
-transformed into living fungus. This microbial processing of leaves is a boon for tiny
-crustaceans that flourish on the resulting compost. The fungi exit their substrate by
-sprouting forests of hyphae at the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] and forming canopies of new spores.
-
-## Aero-Aquatic Fungi
-
-A different group called the aero-aquatics specializes in leaf decomposition in stagnant
-water, developing ornate spores shaped like barrels and cages that trap air bubbles.
-Barrel shapes are constructed by hyphae growing in tight helical paths, while cages
-form when hyphae aggregate and branch repeatedly. Their air bubbles resemble globules of
-mercury underwater, and the resulting buoyancy lifts spores from their mycelium to drift
-along the water surface. The marine fungus Nia, studied on timbers from the Tudor
-warship Mary Rose, produces tiny orange globes resembling miniature puffballs on
-driftwood.
-
-## Convergent Evolution of Spore Shapes
-
-The fabrication of tetraradiate morphology by unrelated fungi, including ascomycetes,
-basidiomycetes, and zygomycetes, suggests these shapes evolved independently to meet
-similar environmental challenges. The Ingoldian mycelia are asexual phases (anamorphs)
-of fungi that produce sexual spores in other habitats. This independent derivation of
-identical solutions is a textbook case of evolutionary convergence in mycology.
-
-## Related
-
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-- [[bloomfield-fungal-parasites-of-insects]]
+## See Also
+- [[aquatic-fungi-and-ingoldian-spores]]
+- [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
+- [[ingoldian-aquatic-fungi]]
+- [[ingoldian-aquatic-fungi-and-spore-dispersal]]
+- [[aquatic-hyphomycetes-and-ingoldian-spores]]

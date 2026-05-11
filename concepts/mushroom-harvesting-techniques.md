@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Harvesting is the culmination of the cultivation cycle. Proper timing and technique directly affect yield, potency, quality, and shelf life. Mushrooms are living organisms that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+Harvesting is the culmination of the cultivation cycle. Proper [[jadam-pesticide-spray-timing-and-technique]] directly affect yield, potency, quality, and shelf life. Mushrooms are [[savory-living-organisms-as-tools]] that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage.
 
 ## Harvest Timing
 
 ### The Veil as Indicator
 
-The most reliable indicator of harvest readiness for P. cubensis is the partial veil — the thin membrane connecting the cap to the stem. The veil stretches as the mushroom grows and eventually tears. (see [[mushroom-potency-harvest-timing]]).
+The most reliable indicator of harvest readiness for P. cubensis is the partial veil — the thin membrane connecting the cap to the stem. The veil stretches as the mushroom grows and eventually tears.
 
 - **Before veil tears**: Mushroom is still growing. Potency is increasing. Harvesting now yields smaller, more visually appealing mushrooms but lower total weight.
 - **At veil tear**: The traditional harvest point. The mushroom has reached near-maximum size and potency. The cap margin is still slightly curved inward.
@@ -45,7 +45,7 @@ Mushrooms within a single flush do not all mature simultaneously. However, it is
 
 ### Twist and Pull (Recommended)
 
-The standard harvesting method for monotub cultivation:
+The standard harvesting method for [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]:
 
 1. Grasp the mushroom at the base of the stem, as close to the substrate as possible.
 2. Gently twist the mushroom while pulling upward.
@@ -101,7 +101,7 @@ A food dehydrator is the fastest and most reliable drying method:
 
 **Dehydrator recommendations**:
 - Nesco or Excalibur models are popular.
-- Avoid dehydrators without temperature control.
+- Avoid dehydrators without [[hamilton-greenhouse-heating-and-temperature-control]].
 - A fan in the dehydrator significantly speeds drying.
 
 ### Desiccant Chamber (Low-Tech Method)
@@ -144,7 +144,6 @@ Psilocybin degrades through oxidation, exposure to UV light, and heat:
 - **Oxygen**: The primary degradation pathway. Minimize air exposure.
 - **Light**: UV light accelerates degradation. Store in opaque containers or dark locations.
 - **Heat**: Elevated temperatures accelerate chemical degradation. Store below 70F (21C).
-- **Moisture**: Residual moisture promotes enzymatic degradation. Ensure cracker-dry before storage.
+- **Moisture**: Residual moisture promotes [[enzymatic-degradation-in-mycoremediation]]. Ensure cracker-dry before storage.
 
 ### Expected Shelf Life
-

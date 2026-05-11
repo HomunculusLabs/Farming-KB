@@ -47,7 +47,7 @@ It is not possible to say with certainty when cannabis was first smoked or, inde
 whether smoking was once part of the cultural repertoire of [[datura-metel-old-world-ethnobotany]] peoples and then
 forgotten, only to be reintroduced from the New World at the time of the Spanish
 Conquest. For while smoking was unknown to the Greeks and the Romans, it may have
-flourished in the Old World in prehistoric times. Archaeological digging at Non Nak
+flourished in the [[old-world-hallucinogenic-plants-overview]] in prehistoric times. Archaeological digging at Non Nak
 Tha in Thailand has yielded, in graves dated 15,000 B.P., the remains of animal bones
 that appear to have had plant material repeatedly burned in their hollow centers. The
 favorite instrument for the smoking of cannabis in India even to this day is a chelum,
@@ -88,60 +88,3 @@ in India before it was first smoked. Awareness of hemp in India cannot be docume
 before 1000 B.C., but by that time it was known as a remedy and the names for it in
 the earliest Indian pharmacopoeias indicate that its activity as a euphoriant was
 clearly understood. General awareness of cannabis properties grew very slowly and
-cannot be assumed to be widespread until around the tenth century A.D., only shortly
-before the Islamic invasion of Hindu India. Cannabis had associations with the
-esoteric, hence secret, side of Muslim and Hindu religiosity. Esoteric spirituality,
-the yogic practices of saddhus, and the emphasis on the direct experience of the
-transcendent are all aspects of the veneration of cannabis in India.
-
-## Cannabis as a Cultural Style
-
-The degree to which the style and way of life of an entire culture can be imbued with
-the attitudes and assumptions engendered by a particular psychoactive plant is a
-fruitful theme. There is something to the notion that the architectural styles and
-design motifs of Mughal Delhi or tenth-century Isfahan are somehow derivative of or
-inspired by the visions of hashish. And there is something to the notion that alcohol
-channeled the development of social forms and cultural self-image in feudal Europe.
-Aesthetic assumptions and styles are indices of the level and kind of understanding
-and awareness that a society sanctions. Each plant relationship will tend to
-accentuate some concerns and diminish others.
-
-Outpourings of style and esthetically managed personal display are usually anathema
-to the nuts-and-bolts mentality of [[archaic-revival-partnership-vs-dominator-cultures]]. The longer hair lengths for
-men seen with the rise of marijuana use in the [[dmt-containing-plants-united-states-halpern]] in the 1960s were a
-textbook case of an influx of apparently feminine values accompanying the use of a
-boundary-dissolving plant. The hysterical reaction to such a minor adjustment in
-folkways revealed the insecurity and sense of danger felt by the male ego in the
-presence of any factor that might tend to restore the importance of partnership in
-human affairs.
-
-## Classical Cannabis References
-
-The Roman natural historian Pliny (A.D. 23-79) reproduces a fragment from Democratus
-concerning a plant called thalassaegle or potamaugis that many scholars consider a
-reference to cannabis: taken in drink it produces a delirium which presents to the
-fancy visions of a most extraordinary nature. An infusion of it imparts powers of
-divination to the Magi. Dioscorides, writing during the first century, gave an
-excellent description of cannabis and mentions its use in rope making and medicine,
-but says nothing of its intoxicating properties.
-
-Because the climate favored the growth of hemp and Islam encouraged its use over
-alcohol, in the Near Eastern and Arab worlds, cannabis became the intoxicant of choice
-for many. This predilection for hashish was already very old at the time of the
-Prophet, which explains why alcohol is explicitly forbidden but hashish is a matter
-of theological disputation. By A.D. 950, use and abuse of hashish was widespread
-enough to occupy a prominent position in the literature of the period.
-
-A perfect encapsulation of the attitudes of dominator society toward cannabis is
-contained in the story of the Moslem priest exhorting against the use of "beng,"
-who was so carried away with the violence of his discourse that a paper containing
-the prohibited drug fell from his breast into the midst of his audience. Without
-loss of countenance he cried, "There is this enemy, this demon of which I have told
-you; the force of my words has put it to flight, take care that in quitting me it
-does not hurl itself on one of you and possess him." No one dared to touch it; after
-the sermon, the zealous sophist recovered his "beng."
-## See Also
-
-- [[mckenna-opium-tobacco-paradoxical-attitudes]] for opium's parallel history
-- [[mckenna-sugar-spice-mercantilism]] for the broader pattern of drug commodification
-- [[scythian-cannabis-steam-bath-ritual]] for the archaeological evidence

@@ -88,29 +88,3 @@ an intermediate state.
 ## Harm Reduction and Safety Considerations
 
 - NMT has not been systematically characterized for safety or toxicity
-
-- Smoking any compound carries inherent respiratory risks
-
-- The extremely brief duration when smoked may lead to rapid re-dosing attempts,
-which could produce cumulative cardiovascular effects
-
-- Oral activity has not been established; oral administration should not be assumed safe
-
-- As with all tryptamines, avoid combining with MAO inhibitors or SSRIs
-
-- The compound's status as an endogenous trace amine does not imply safety at exogenous doses
-
-- NMT-containing plant materials may contain other active compounds; crude preparations
-should not be assumed to contain only NMT
-
-## Legal Status
-
-NMT is not specifically scheduled in most jurisdictions. In the US, NMT is not
-specifically listed on the federal controlled substances schedules, though it
-could potentially be treated as a DMT precursor or analogue under certain
-interpretations. The compound's [[brassinosteroid-natural-occurrence-plant-kingdoms]] in numerous plant species
-complicates regulatory approaches. Some jurisdictions may regulate it as a
-precursor chemical.
-## See Also
-
-- [[nmt]]

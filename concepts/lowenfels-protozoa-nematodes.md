@@ -1,9 +1,9 @@
 ---
-title: "Protozoa and Nematodes in the Soil Food Web"
+title: Lowenfels Protozoa Nematodes
 created: 2026-04-26
 updated: 2026-04-25
-sources: "Jeff Lowenfels & Wayne Lewis, Teaming with Microbes"
-wikilinks: "lowenfels-soil-food-web-overview lowenfels-bacteria-role-soil lowenfels-fungi-role-soil lowenfels-soil-macro-arthropods lowenfels-nutrients-nitrogen-cycle"
+sources: "jeff-lowenfels & wayne-lewis, teaming-with-microbes-actinomycetes"
+wikilinks: "lowenfels-soil-food-web-overview [[lowenfels-bacteria-role-soil]] [[lowenfels-fungi-role-soil]] [[lowenfels-soil-macro-arthropods]] [[lowenfels-nutrients-nitrogen-cycle]]"
 type: concept
 tags: [reference]
 ---
@@ -60,7 +60,7 @@ Protozoa are essential for maintaining bacterial populations in active growth
 phase. Without predation pressure, bacteria would consume all available food and
 then go dormant -- a less productive state for nutrient cycling. Protozoa
 continuously harvest bacteria, which forces the remaining bacteria to remain
-active, growing, and decomposing [[hamilton-composting-and-organic-matter-management]]. This grazing pressure maintains
+active, growing, and decomposing [[hamilton-composting-and-organic-matter-management]]. This [[gadd-mycelial-network-resilience-grazing-pressure]] maintains
 the nutrient cycling engine of the soil food web.
 
 ## Nematodes: Overview
@@ -87,41 +87,3 @@ and are classified into functional groups based on their feeding habits.
    They have specialized mouthparts for grasping prey. Predatory nematodes help
    regulate root-feeding nematode populations and keep the soil food web in
    balance.
-
-4. **Root-feeding (plant-parasitic) nematodes** -- These attack plant roots,
-   causing significant agricultural damage worldwide. A healthy soil food web
-   suppresses these pests: predatory nematodes eat them, fungi trap them, and
-   the [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from mycorrhizae deter them. Chemical pesticides that
-   kill [[ingham-beneficial-nematodes-soil-food-web]] actually make root-feeding nematode problems worse.
-
-## Nematodes and Soil Structure
-
-As nematodes move through soil, they create channels that improve aeration and
-water infiltration. Their burrowing activity helps mix organic matter and
-microbes through the soil profile. Bacterial-feeding nematodes in particular
-help distribute bacteria and their nutrients to new locations in the soil,
-spreading microbial activity beyond where it would otherwise occur.
-
-## The Importance of Diversity
-
-A healthy soil food web requires diversity in both protozoa and nematode
-populations. Balanced protozoa communities (flagellates, amoebae, and few
-ciliates) indicate good soil structure and aeration. A mix of bacterial-feeding
-and fungal-feeding nematodes indicates a balanced food web. High numbers of
-root-feeding nematodes or ciliates signal problems -- compaction, chemical
-damage, or a disrupted food web. Soil food web testing measures these populations
-as indicators of soil health.
-
-## Interaction with Other Food Web Members
-
-Protozoa and nematodes are themselves prey for larger soil organisms. Soil
-mites, springtails, and predatory nematodes consume them. When protozoa and
-nematodes die, their bodies become food for bacteria and fungi, continuing the
-nutrient cycle. This interconnected predation is the engine that drives the soil
-food web -- each organism eats and is eaten, and at every step, nutrients are
-mineralized and made available to plants.
-
-## See Also
-- [[fungi-in-the-environment-fungal-endophytes-plant-communities]]
-- [[singh-fungal-plant-growth-regulators-production]]
-- [[l-theanine]]

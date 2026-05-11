@@ -1,7 +1,7 @@
 ---
-title: staycare-composting-as-a-fungal-bioremediation-strategy of BTEX Compounds
+title: Staycare Fungal Bioremediation Btex Compounds
 created: 2026-04-28
-tags: [bioremediation, BTEX, petroleum-hydrocarbons, white-rot-fungi, volatile-organics]
+tags: [bioremediation, BTEX, petroleum-hydrocarbons, [[white-rot-fungi]], volatile-organics]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [staycare-mngmt-fungi-in-bioremediation.md]
@@ -38,10 +38,10 @@ involves complex mixtures rather than single compounds.
 
 ### Nutrient Conditions and Enzyme Involvement
 
-Remarkably, much greater BTEX degradation occurred in malt extract
+Remarkably, much greater BTEX degradation occurred in [[malt-extract-agar]]
 medium or in defined high-nitrogen medium, where [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP)
 and [[fungal-manganese-peroxidase-remediation]] (MnP) expression is blocked, than in defined
-low-nitrogen medium where the ligninolytic enzyme system is active.
+low-nitrogen medium where the [[ligninolytic-enzyme-production-bioremediation]] system is active.
 This finding is significant because it indicates that BTEX degradation
 by P. chrysosporium does not depend on the lignin-degrading system.
 
@@ -55,7 +55,7 @@ conditions, are likely candidates for the enzymatic pathway involved.
 ### Mineralization Capability
 
 P. chrysosporium was shown to carry out substantial degradation of
-radiolabeled benzene and toluene to carbon dioxide, confirming true
+radiolabeled benzene and toluene to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], confirming true
 mineralization rather than mere transformation to intermediate products.
 Complete mineralization is the desired endpoint for bioremediation as it
 eliminates the pollutant entirely from the environment.
@@ -88,31 +88,3 @@ conditions. Comparison of total TCE removal (46.2%) and degradation
 (38.5%) suggested most TCE was converted to carbon dioxide.
 
 ## Significance of Non-Ligninolytic Degradation
-
-The observation that BTEX, TCE, and some other compounds are degraded
-more effectively under nutrient-rich non-ligninolytic conditions has
-important implications for bioremediation strategy design. It suggests
-that the traditional emphasis on nitrogen-limited conditions for
-ligninolytic [[fungal-enzyme-induction-and-regulation]] may not be optimal for all target
-pollutants. For BTEX-contaminated sites, nutrient-rich conditions may
-be more appropriate.
-
-## Practical Applications and Challenges
-
-For field application of fungal BTEX bioremediation, several challenges
-must be addressed. The volatility of BTEX compounds requires containment
-strategies to prevent evaporative losses during treatment. Competition
-with indigenous bacteria, which are also effective BTEX degraders, must
-be considered. The need for nutrient-rich conditions may complicate
-formulation strategies that typically emphasize carbon limitation.
-
-The ability of P. chrysosporium to degrade BTEX in mixture rather than
-requiring individual treatment is advantageous for real-world
-contamination scenarios. Groundwater treatment may require specialized
-bioreactor designs to maintain contact between the fungus and dissolved
-BTEX compounds while managing the volatile nature of these contaminants.
-
-## See Also
-
-- [[staycare-cytochrome-p450-in-fungal-biodegradation]]
-- [[staycare-fungal-degradation-of-polycyclic-aromatic-hydrocarbons]]

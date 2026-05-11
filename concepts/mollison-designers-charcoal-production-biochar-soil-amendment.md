@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Charcoal Production and Biochar Soil Amendment
 
-Bill Mollison's [[soil-food-web]] microbial
+Bill Mollison's [[soil-foodweb]] microbial
 communities far more diverse than surrounding unmodified soils.
 
 Mollison presents [[comparison-hugelkultur-vs-terra-preta-soil-building]] as evidence that charcoal-amended soils

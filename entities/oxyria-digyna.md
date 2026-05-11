@@ -10,7 +10,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - "Flora of North America Editorial Committee (1993+). Flora of North America North of Mexico."
+  - "Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993+). Flora of North America North of Mexico."
   - "Kew Science. Plants of the World Online. oxyria-digyna."
 ---
 
@@ -65,7 +65,7 @@ The leaves of Oxyria digyna are edible raw or cooked, with a sharp, tangy flavor
 
 Hikers and mountaineers traditionally chew the leaves as a thirst-quenching trail snack. In larger quantities the leaves can be added to soups, salads, and sauces for a citrus-like tang.
 
-Nutritional analysis has shown the leaves contain significant vitamin C, with some reports indicating 30–50 mg per 100 g fresh weight. They also provide vitamin A, iron, and potassium.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] has shown the leaves contain significant vitamin C, with some reports indicating 30–50 mg per 100 g fresh weight. They also provide vitamin A, iron, and potassium.
 
 Excessive consumption should be avoided due to oxalic acid content, particularly by individuals prone to kidney stones. Cooking in multiple changes of water reduces oxalate levels substantially.
 
@@ -79,27 +79,12 @@ Mountain sorrel serves as an early-season pollen source for alpine insects, incl
 
 In arctic ecosystems, Oxyria digyna is often one of the first colonizers of disturbed ground such as moraines, animal burrows, and frost-boil margins. Its presence helps stabilize loose substrate for subsequent plant establishment.
 
-The species forms mycorrhizal associations that enhance nutrient uptake in the nutrient-poor soils typical of alpine habitats. These fungal partnerships are especially important for phosphorus acquisition in cold soils where decomposition is slow.
+The species forms [[plants-without-mycorrhizal-associations]] that enhance nutrient uptake in the nutrient-poor soils typical of alpine habitats. These fungal partnerships are especially important for [[comparison-phosphorus-solubilizing-microorganisms-vs-mycorrhizal-phosphorus-acquisition]] in cold soils where decomposition is slow.
 
-Genetic studies using microsatellite markers have revealed high levels of clonal reproduction in marginal populations. Arctic populations show greater genetic diversity than alpine isolates, consistent with post-glacial recolonization from multiple refugia.
+Genetic studies using microsatellite markers have revealed high levels of clonal reproduction in marginal populations. Arctic populations show greater [[biodiversity-fungal-genetic-diversity]] than alpine isolates, consistent with post-glacial recolonization from multiple refugia.
 
 ## Cultivation
 
 Oxyria digyna is occasionally cultivated in rock gardens and alpine troughs, where its compact habit and distinctive foliage are valued. It requires excellent drainage, cool conditions, and bright light.
 
-Propagation is by seed, which benefits from cold stratification at 0–4°C for 4–6 weeks before sowing. Germination rates are moderate, typically 40–60% under controlled conditions.
-
-Division of established clumps in early spring is an alternative propagation method. The species resents hot, humid summer conditions and is best suited to gardens in cool-summer climates.
-
-In cultivation it has few pest problems. Slugs may damage emerging foliage in damp conditions. Good air circulation is essential to prevent fungal issues in humid weather.
-
-## See Also
-
-- [[rumex-acetosa]] — common sorrel, related Polygonaceae with similar tart flavor
-- [[rheum-palmatum]] — Chinese rhubarb, Polygonaceae used medicinally
-- [[fagopyrum-esculentum]] — buckwheat, economically important Polygonaceae crop
-- [[polygonum-multiflorum]] — fo-ti, Polygonaceae with medicinal rhizome
-- [[bistorta-officinalis]] — bistort, moisture-loving Polygonaceae perennial
-- [[persicaria-odorata]] — Vietnamese coriander, edible Polygonaceae
-- [[drought-gardening]] — strategies for challenging growing environments
-- [[edible-landscaping]] — design approaches incorporating edible species
+Propagation is by seed, which benefits from cold stratification at 0–4°C for 4–6 weeks before sowing. Germination rates are moderate, typically 40–60% under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].

@@ -88,26 +88,3 @@ having a deeply bonded, almost symbiotic relationship to the earth.
 ## Maladaptive Social Styles
 
 As a consequence of this disconnection, maladaptive social styles that
-encourage overpopulation, resource mismanagement, and environmental
-toxification develop and maintain themselves. No culture on earth is as
-heavily narcotized as the industrial West in terms of being inured to
-the consequences of maladaptive behavior. We pursue a business-as-usual
-attitude in a surreal atmosphere of mounting crises and irreconcilable
-contradictions.
-
-## Eisler's Contribution
-
-Eisler's analysis raised the level of debate beyond simple claims about
-"matriarchy" or "patriarchy." Her work introduced the notion that
-partnership societies and dominator societies are genuine alternatives
-with different structural logics. The Chalice and the Blade uses the
-archaeological record to argue that partnership societies existed without
-warfare for extended periods — a claim that fundamentally challenges the
-assumption that human violence is inevitable and universal.
-
-## See Also
-
-- [[mckenna-partnership-dominator-culture-models]]
-
-- [[mckenna-stoned-ape-hypothesis]]
-- [[fukuoka-natural-farming-five-principles]]

@@ -6,6 +6,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -87,56 +88,3 @@ cause of the poverty of the American diet.
 Modern man has lost the capacity to perceive the divine in nature. When people
 speak of nature and God, their minds are given to thought and ideas. God
 rushes to get away. But when one harvests rice in the paddy field, the mind
-is empty — a total blank — and one is able to come into contact with nature.
-When your mind is resting lazily, you can hear sparrows chirping. But when
-you are thinking, you hear nothing. Your eyes may be wide open, but they see
-nothing.
-
-In the very act of observing that the wind is blowing and the birds are
-singing, one already cuts oneself off from unity with what one observes. The
-thought "I heard that" or "a chilly wind was blowing" — these are all in the
-human realm. Looking is not seeing and listening is not hearing.
-
-## The Assault on Nature Accelerates
-
-During the past decade in Japan, movements toward the preservation of
-nature have made some progress. But this has really caught on only among a
-small number of people. While a minority has been moving toward the
-preservation of nature, society at large has — just as Fukuoka feared it
-would — embarked on a course of relentless destruction. Nothing has
-stopped. People living in Tokyo have not approached a natural diet; if
-anything, their diet has become more unnatural — even anti-natural. In the
-space of these ten years, the assault on nature has proceeded at an
-accelerated pace, producing wanton destruction of the land and further
-deterioration in the quality of man's diet.
-
-With its fixation on tourism and leisure, the public clamors for more
-high-speed roads and bridges. It looks as though the natural destruction of
-Japan will continue yet for some time to come. People hear talk of plant
-ecologists and conservation groups protecting nature and the environment,
-and the less concerned people become about destroying nature. Now that there
-are environmental conservation groups and an Environment Agency, it is as if
-people were saying: "Leave the fire up to the firemen and the arsonist up
-to the police."
-
-## The Path Forward
-
-Fukuoka concluded that aberrations in agriculture create aberrations in
-urban culture. The errors of farming methods that arose from the illusions
-of Western philosophy are destroying nature, annihilating the land, and even
-wiping out whole peoples. It is time to turn priorities around, to choose
-the small over the big, to decide not to develop rather than to develop.
-Isn't it enough just to be alive?
-
-## Related Concepts
-
-- [[fukuoka-reunifying-god-nature-and-man]] — the philosophical unity that
-  scientific civilization has fractured
-- [[fukuoka-desert-revegetation-clay-pellets]] — Fukuoka's practical response
-  to the desertification caused by modern agriculture
-
-## See Also
-
-- [[critique-of-scientific-agriculture]]
-
-- [[fukuoka-critique-scientific-agriculture]]

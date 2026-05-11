@@ -36,7 +36,7 @@ organic matter inputs and minimal disturbance can support hundreds to thousands
 of earthworms per square meter. Conversely, soils that are regularly tilled,
 heavily compacted, or treated with broad-spectrum pesticides and synthetic
 fertilizers typically have drastically reduced earthworm populations. This is
-one of the primary reasons that [[soil-food-web]]
+one of the primary reasons that [[soil-foodweb]]
 - Earthworm activity promotes [[soil-health-indicators]]: their
   abundance directly reflects management practices, and they are best supported
   through [[query-what-is-the-soil-food-web-and-why-does-it-matter]]

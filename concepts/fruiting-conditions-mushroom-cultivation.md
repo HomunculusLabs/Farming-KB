@@ -1,5 +1,5 @@
 ---
-title: Fruiting Conditions for accessible-mushroom-cultivation-for-disabilities
+title: Fruiting Conditions Mushroom Cultivation
 created: 2026-04-28
 tags: [mushrooms, fruiting, cultivation, environment, mycology]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Fruiting Conditions for Mushroom Cultivation
 
 After substrate colonization, the mycelium needs a specific set of
-environmental triggers to shift from vegetative growth to reproductive
+[[fungal-fruiting-body-formation-environmental-triggers]] to shift from vegetative growth to reproductive
 (fruiting) mode. Understanding and controlling these parameters
 separates successful cultivators from those who watch their colonized
 blocks sit dormant for weeks.
@@ -20,7 +20,7 @@ blocks sit dormant for weeks.
 
 During colonization, mycelium grows best in warm, dark, high-carbon
 dioxide environments. The shift to fruiting is triggered by changes in
-several environmental parameters simultaneously. No single factor alone
+several [[mushroom-cultivation-environmental-parameters]] simultaneously. No single factor alone
 is sufficient; the mycelium responds to the combined signal of reduced
 carbon dioxide, increased fresh air exchange, lower temperature, and
 light exposure.
@@ -34,7 +34,7 @@ trigger.
 
 ### Carbon Dioxide Levels
 
-This is arguably the most important fruiting trigger. During
+This is arguably the most important [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]. During
 colonization, carbon dioxide levels in the [[cannabis-growing-environment-setup]] can reach
 5,000 to 10,000 ppm or higher. For fruiting, levels should drop below
 800 ppm, ideally around 400 to 600 ppm (near ambient atmospheric
@@ -58,7 +58,7 @@ surface.
 
 ### Relative Humidity Targets
 
-Most gourmet mushrooms require 85 to 95 percent relative humidity for
+Most [[growing-gourmet-mushrooms-biological-efficiency-yield-metrics]] require 85 to 95 percent relative humidity for
 optimal fruiting. Below 80 percent, the mycelium and developing pins
 desiccate rapidly. Above 95 percent, water condenses on surfaces and
 promotes bacterial contamination.
@@ -66,7 +66,7 @@ promotes bacterial contamination.
 ### Humidity Maintenance
 
 The most common approach is a combination of a humidifier and passive
-evaporation. Perlite in the bottom of a fruiting chamber, misted
+evaporation. Perlite in the bottom of a [[comparison-laminar-flow-hood-vs-fruiting-chamber]], misted
 regularly, provides evaporative humidity. Ultrasonic foggers connected
 to a timer deliver fine mist on a regular schedule. The key is to mist
 the walls and air of the chamber rather than directly spraying the
@@ -88,49 +88,3 @@ Contrary to common belief, most [[fungi-cultivated-mushrooms-pathogens-competito
 darkness during fruiting. They require light to orient their growth and
 trigger the genetic cascade that leads to fruiting body formation. Most
 species need 12 hours of light per day on a standard diurnal cycle.
-
-### Light Intensity and Spectrum
-
-Indirect ambient room lighting is often sufficient. A standard LED or
-fluorescent light on a 12/12 timer works well. Intensity should be in
-the range of 500 to 1,000 lux. Direct sunlight should be avoided
-because it overheats the growing environment and can contain UV
-radiation that damages mycelium.
-
-The blue spectrum (around 470 nm) is most effective for promoting
-normal mushroom development. "Daylight" spectrum LEDs in the 5000K to
-6500K range are ideal. Red spectrum light causes abnormal, elongated
-growth patterns.
-
-## Temperature
-
-### Temperature Drop
-
-Most species fruit best at temperatures 5 to 10 degrees Celsius below
-their optimal colonization temperature. For example, Pleurotus ostreatus
-(oyster mushrooms) colonize at 24 to 28 degrees Celsius but fruit
-optimally at 15 to 20 degrees Celsius. This temperature drop mimics
-the natural seasonal shift that triggers fruiting in the wild.
-
-### Species-Specific Ranges
-
-Different species have different fruiting temperature preferences:
-- Oyster mushrooms (Pleurotus spp.): 12 to 24 degrees Celsius depending
-  on variety
-- Shiitake (Lentinula edodes): 10 to 20 degrees Celsius
-- Lion's mane (Hericium erinaceus): 16 to 22 degrees Celsius
-- Button mushrooms ([[genetic-improvement-agaricus-bisporus-molecular-approaches]]): 14 to 18 degrees Celsius
-- Reishi ([[stamets-reishi-ganoderma-lucidum-cultivation]]): 22 to 30 degrees Celsius
-
-## Duration
-
-Most species begin pinning within 3 to 14 days of being introduced to
-fruiting conditions. The first flush typically matures over 5 to 10
-days after pins appear. After harvest, a resting period of 1 to 2 weeks
-allows the substrate to recover before the second flush is triggered.
-
-## See Also
-
-- [[mushroom-growing-environments]]
-- [[accessible-mushroom-cultivation-for-disabilities]]
-- [[contamination-prevention-in-mushroom-cultivation]]

@@ -1,5 +1,5 @@
 ---
-title: Water-Soluble cho water soluble phosphoric acid preparation Preparation (Cho's Method)
+title: Cho Water Soluble Phosphoric Acid Preparation
 created: 2026-04-28
 tags: [knf, input-preparation, mineral-nutrients]
 date: 2026-04-28
@@ -23,11 +23,11 @@ hindered and [[knf-reproductive-growth-stage]] suffers.
 2. Absorbed phosphoric acid is used for cellular division when it
    moves to the bud, root tip, or seed.
 3. The stem of sesame contains large amounts of phosphoric acid and
-   is the preferred source in Natural Farming. Burn sesame stems into
+   is the preferred source [[mulching-in-natural-farming]]. Burn sesame stems into
    charcoal and percolate the charcoal to extract WS-PA.
 4. Phytic acid, the storage form of phosphoric acid, is the major
    substance in the seed. Phosphoric acid is involved in photo
-   phosphorylation and electron transport in photosynthesis. It also
+   phosphorylation and [[electron-transport-chain-mitochondrial-respiration]] in photosynthesis. It also
    affects transporting anabolites and protein synthesis.
 
 ## Materials Needed
@@ -88,13 +88,3 @@ water more effectively.
 4. Symptoms are usually dormant within the body. It is therefore
    difficult to recover, even considering the ability to cope with
    the disease, when symptoms appear on the exterior.
-5. The fruit skin becomes thick and the acid content increases.
-
-## Role in the Nutritive Cycle
-
-WS-PA is the primary input for the Change-over period (Morning
-Sickness) in the [[knf-water-soluble-phosphoric-acid-wspa]] - general KNF WSPA reference
-- [[cho-water-soluble-calcium-and-potassium]] - calcium and potassium
-  inputs for other growth stages
-- [[cho-plant-growth-stage-treatments]] - specific treatment recipes
-  for the changeover period

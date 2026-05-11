@@ -13,7 +13,7 @@ sources:
 # Cortinarius orellanus
 Cortinarius orellanus, the deadly webcap, is a highly
 [[growing-gourmet-poisonous-mushroom-lookalikes]] in Cortinariaceae responsible for fatal
-poisonings across Europe. Its orellanine toxin causes
+poisonings across Europe. Its [[orellanine]] toxin causes
 irreversible kidney damage with a long latency period of
 2-14 days. Notoriously difficult to distinguish from edible
 Cortinarius species, it is among the most dangerous fungi for
@@ -49,7 +49,7 @@ temperate forest foragers.
 - **Shape:** Equal or slightly clavate at base
 - **Surface:** Silky, fibrillose, subtle scaly zone near
   base | **Color:** Light ochre to orange-brown
-- **Partial veil:** Cortina (web-like), orange, leaving a
+- **[[partial-veil-tropism-protection-before-spore-release]]:** Cortina (web-like), orange, leaving a
   faint ring zone on the stem
 
 ### Microscopic Features
@@ -88,58 +88,3 @@ nephrotoxic properties.
 - **Phase 1 (hours):** Nausea, vomiting, headache; often
   mild, leading to false recovery
 - **Phase 2 (days 2-5):** Asymptomatic; kidney damage
-  progresses silently
-- **Phase 3 (days 5-14):** Acute kidney injury: oliguria,
-  elevated creatinine, flank pain
-- **Phase 4 (untreated):** Chronic renal failure requiring
-  dialysis or transplant
-- **Mortality:** 10-25% historically; permanent damage
-  common even with modern treatment
-
-### Other Compounds
-- **Cortinarin A, B, C:** Anthraquinone pigments
-- **Orellinine:** Minor metabolite, less toxic than
-  orellanine
-
-## Similar Species
-| Species | Features | Edibility |
-|---------|----------|-----------|
-| C. rubellus | Vivid red-brown cap | Deadly |
-| C. speciosissimus | Larger, brighter orange | Deadly |
-| C. armillatus | Distinct red ring zone | Edible |
-| C. cinnamomeus | Brighter cinnamon, smaller | Poisonous |
-| C. trivialis | Larger, paler, strong odor | Inedible |
-| Rozites caperata | Persistent membranous ring | Edible |
-
-## Field Identification Tips
-- Orange-brown cap + rusty gills + web-like cortina (not a
-  true ring) is the key field character
-- No Cortinarius with orange-brown colors should be
-  collected without expert verification
-- Spore print (rusty brown) is critical; compare with
-  white-spored genera
-- The entire genus should be avoided by amateur foragers
-
-## Historical Context
-- **1952:** Mass poisoning in Poland; 100+ people affected
-  after mistaking C. orellanus for Tricholoma
-- **1957:** Grzymala identified orellanine as causative toxin
-- **Modern:** Cases still occur annually; dialysis reduced
-  but not eliminated fatalities
-- Briefly investigated as antitumor agent; nephrotoxicity
-  precluded therapeutic use
-
-## Medical Treatment
-- **Immediate:** Gastric lavage + activated charcoal if
-  within 6 hours
-- **Antidote:** None exists
-- **Supportive:** IV fluids, electrolyte management
-- **Dialysis:** Primary treatment; may be needed for weeks
-  to months
-- **Monitoring:** Serial creatinine/urine output for 2-3
-  weeks given the long latency period
-
-## See Also
-- [[amanita-muscaria-entity]]
-- [[gyromitra-esculenta]]
-- [[psilocybe-cyanescens]]

@@ -1,6 +1,6 @@
 ---
-title: Parasitic Plant parasitic plant host detection volatile sensing Through Volatile Chemical Sensing
-source: raw/papers/what-a-plant-knows-daniel-chamovitz.md
+title: Parasitic Plant Host Detection Volatile Sensing
+source: what-a-plant-knows-daniel-chamovitz.md
 tags: [plant-senses, olfaction, parasitic-plants, dodder, volatile-organic-compounds, plant-communication, chamovitz]
 created: 2026-05-09
 ---
@@ -44,7 +44,7 @@ pattern above the ground surface.
 If no host is detected, it continues circling and eventually dies.
 
 When volatile chemicals from a potential host plant reach the
-dodder seedling, it immediately changes its growth direction.
+dodder seedling, it immediately changes its [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]].
 
 The seedling bends and elongates toward the source of the
 volatile chemicals with remarkable precision.
@@ -78,7 +78,7 @@ between two potential host plants in a growth chamber.
 
 The seedlings reliably grew toward the preferred host species
 even when the plants were hidden behind barriers that prevented
-visual cues.
+[[cannabis-harvest-timing-visual-cues]].
 
 When synthetic VOC mixtures mimicking host profiles were
 presented, dodder responded to these artificial "smells"
@@ -88,59 +88,3 @@ This confirmed that volatile chemicals alone are sufficient
 to guide host-finding behaviour.
 
 Filter experiments using air flow demonstrated that the signal
-travels through the air, not through soil or direct contact.
-
-## Broader Implications for Plant Olfaction
-
-The dodder system provides some of the strongest evidence that
-plants can sense and respond to airborne chemicals.
-
-It challenges the traditional view that plant chemical
-communication occurs only through [[mycorrhizal-root-exudates-pathogen-interactions]] in soil.
-
-The finding that plants can discriminate between complex
-volatile mixtures suggests a level of chemical perception
-previously attributed only to animals.
-
-Other examples of plant olfaction include the ability of
-plants to detect insect damage on neighbouring plants
-through volatile signals.
-
-## Comparison with Animal Olfaction
-
-Plant olfaction differs fundamentally from animal smell in
-its mechanism.
-
-Animals use dedicated olfactory receptors in nasal epithelia
-connected to specialised brain regions.
-
-Plants lack a nervous system and instead detect chemicals
-through receptor proteins on cell membranes that trigger
-intracellular signalling cascades.
-
-Despite these mechanistic differences, the functional
-outcome is similar: detection of chemical cues and a
-directed behavioural response.
-
-## Evolutionary Significance
-
-The evolution of volatile-mediated host detection in
-parasitic plants represents a compelling case of sensory
-adaptation.
-
-The selective pressure is intense — failure to find a host
-means death for the seedling.
-
-This has driven the refinement of volatile detection to a
-degree rarely seen in non-parasitic plants.
-
-Understanding these mechanisms may inform agricultural
-strategies for controlling parasitic plant infestations.
-
-## See Also
-
-- [[plant-olfaction-volatile-organic-compound-signaling]]
-- [[plant-olfaction-what-a-plant-smells]]
-- [[plant-communication-volatile-organic-compounds]]
-- [[chamovitz-plant-senses-overview]]
-- [[plant-photoreceptors-light-perception]]

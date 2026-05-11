@@ -13,7 +13,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vega-Gálvez A et al. (2010). "Nutritional aspects and health benefits of quinoa." Journal of Cereal Science 52(2): 229–233.
-  - Bazile D et al. (2016). "State of the Art Report on Quinoa fungi-around-the-world-species-distribution." FAO/CIRAD.
+  - Bazile D et al. (2016). "State of the Art Report on Quinoa [[fungi-around-the-world-species-distribution]]." FAO/CIRAD.
   - Berti M et al. (2020). "Quinoa: A Potential New Crop for Mediterranean Climates." Agronomy 10(7): 993.
   - Filho AM et al. (2017). "Quinoa: Nutritional, Functional, and Antinutritional Aspects." Critical Reviews in Food Science 57(8): 1618–1630.
 ---
@@ -21,7 +21,7 @@ sources:
 ## Overview
 
 **Chenopodium quinoa** is an annual herbaceous plant in the family
-Amaranthaceae, native to the Andean region of South America. It is cultivated
+Amaranthaceae, native to the Andean region of [[guzman-psilocybin-mushrooms-south-america]]. It is cultivated
 primarily for its edible seeds, which are consumed as a pseudo-cereal.
 
 Quinoa is notable for its exceptional nutritional profile. The seeds contain
@@ -88,57 +88,3 @@ mechanisms. Some cultivars can tolerate soil salinity levels up to 40 dS/m.
 Quinoa seeds contain approximately 14% protein by dry weight, with a
 balanced amino acid profile particularly rich in lysine and isoleucine.
 This lysine content distinguishes it from most cereal grains.
-
-The seeds contain 58–64% carbohydrates, 4–9% fat (rich in linoleic and
-oleic acids), and 3–4% dietary fiber. They provide significant amounts of
-magnesium, iron, zinc, potassium, and B vitamins.
-
-Quinoa is naturally gluten-free, making it a safe grain alternative for
-celiac patients and those with gluten sensitivity. Its glycemic index is
-low to moderate.
-
-The seeds contain [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including flavonoids (quercetin and
-kaempferol), saponins with anti-inflammatory properties, and phytosterols.
-
-## Cultivation
-
-Quinoa is typically direct-seeded at rates of 10–25 kg/ha in rows spaced
-40–60 cm apart. Optimal planting density varies by cultivar and environment.
-
-The crop requires relatively low inputs compared to cereal grains. Nitrogen
-requirements are moderate (80–120 kg/ha), and irrigation needs are low once
-established.
-
-Harvest occurs 90–150 days after planting, depending on variety and growing
-conditions. The crop is ready when seeds can be easily separated from the
-panicle and the plant has dried to a uniform golden color.
-
-Yields range from 500 to 3,000 kg/ha under rainfed conditions, with
-irrigated commercial operations achieving 4,000–6,000 kg/ha. The leading
-global producers are Peru, Bolivia, and Ecuador.
-
-Post-harvest processing requires thorough saponin removal through abrasion
-or water washing. Mechanical dehulling equipment has largely replaced
-traditional hand-washing methods.
-
-## Saponins
-
-The seed coat of quinoa contains 0.5–3.0% saponins by dry weight. These
-triterpenoid glycosides are bitter-tasting and act as natural defenses
-against birds and insect pests.
-
-Saponins have both antinutritional and potentially beneficial properties.
-They can interfere with nutrient absorption at high concentrations but also
-demonstrate anti-inflammatory, antifungal, and cholesterol-lowering effects.
-
-"Sweet" low-saponin varieties have been developed through selective
-breeding, particularly at Brigham Young University and in commercial
-breeding programs in Denmark and the Netherlands.
-
-## See Also
-
-- amaranthus-retroflexus
-- [[ipomoea-batatas]]
-- [[colocasia-esculenta]]
-- [[tropaeolum-majus]]
-- [[xanthosoma-sagittifolium]]

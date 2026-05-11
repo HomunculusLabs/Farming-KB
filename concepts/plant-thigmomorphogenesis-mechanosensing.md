@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-thigmomorphogenesis-and-mechanosensing]]
+title: Plant Thigmomorphogenesis Mechanosensing
 slug: plant-thigmomorphogenesis-mechanosensing
 source: what-a-plant-knows-chamovitz
 tags: [plant-biology, thigmomorphogenesis, mechanosensing, touch-response, calmodulin]
@@ -17,8 +17,8 @@ Thigmomorphogenesis (from Greek: *thigma* = touch, *morphosis* = shape, *genesis
 The most commonly observed thigmomorphogenic responses include:
 
 - **Reduced stem elongation**: Plants exposed to regular mechanical stimulation (wind, touching) grow shorter stems with thicker diameters
-- **Increased lignification**: Cell walls become more heavily lignified, providing greater mechanical strength
-- **Altered leaf morphology**: Leaves may become smaller, thicker, or differently shaped
+- **Increased lignification**: [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] become more heavily lignified, providing greater mechanical strength
+- **Altered [[cannabis-leaf-morphology-and-phyllotaxy]]**: Leaves may become smaller, thicker, or differently shaped
 - **Delayed flowering**: Mechanically stimulated plants often flower later than unstressed controls
 - **Enhanced root development**: Root systems may become more robust in response to above-ground mechanical stress
 
@@ -32,11 +32,11 @@ Plants detect mechanical forces through several interconnected molecular mechani
 
 Mechanosensitive (MS) ion channels are membrane proteins that open in response to membrane tension, allowing ions to flow across the membrane. In plants, several families of MS channels have been identified:
 
-- **MSL (MscS-Like) proteins**: Related to bacterial mechanosensitive channels of small conductance. Found in both plasma membrane and organelle membranes. MSL channels may protect cells from osmotic shock and contribute to touch sensing.
+- **MSL (MscS-Like) proteins**: Related to bacterial mechanosensitive channels of small conductance. Found in both plasma membrane and organelle membranes. MSL channels may protect cells from [[ingham-antibiotics-osmotic-shock-compost-tea]] and contribute to touch sensing.
 - **MCA (Mid1-Complementing Activity) proteins**: Calcium-permeable mechanosensitive channels in the plasma membrane. MCA1 and MCA2 in Arabidopsis are involved in root response to mechanical impedance and touch sensing.
 - **Piezo channels**: Recently identified mechanosensitive channels that respond to membrane tension. Plant Piezo homologs are involved in pollen tube bursting and mechanical stress sensing.
 
-When mechanical force deforms the cell membrane, these channels open and allow calcium ions to flow into the cytoplasm. This calcium influx is one of the earliest detectable events in the plant touch response.
+When mechanical force deforms the [[plant-cell-membrane-transport-proteins]], these channels open and allow calcium ions to flow into the cytoplasm. This calcium influx is one of the earliest detectable events in the [[thigmomorphogenesis-plant-touch-response]].
 
 ### Calcium Signaling
 
@@ -72,7 +72,7 @@ Greenhouse-grown plants often show excessive elongation compared to field-grown 
 ### Touch and Physical Contact
 Direct contact between plants or with objects triggers localized responses:
 - **Plant-plant contact**: When plants touch neighboring plants, they adjust their growth patterns, often growing away from the contact point. This helps optimize light capture and reduce competition.
-- **Herbivore detection**: Caterpillar feeding, insect walking, and other forms of contact can trigger defense responses including jasmonic acid production and [[fungal-elicitors-enhanced-secondary-metabolite-production]] synthesis.
+- **Herbivore detection**: Caterpillar feeding, insect walking, and other forms of contact can trigger defense responses including jasmonic [[staycare-fungal-organic-acid-production-metal-leaching]] and [[fungal-elicitors-enhanced-secondary-metabolite-production]] synthesis.
 - **Human touch**: Studies have shown that regular gentle touching of plants can reduce growth rate. In some species, this response is strong enough to be horticulturally significant — handling seedlings too frequently during transplanting can slow their establishment.
 
 ### Gravity (Gravitropism)
@@ -87,32 +87,3 @@ While technically a constant mechanical force rather than a stimulus, gravity pe
 Plants have a sense of their own weight and posture. When a stem bends under its own weight, mechanosensors detect the strain and trigger corrective growth responses that help maintain upright posture. This "proprioceptive" ability was demonstrated in studies showing that plants tilted beyond a critical angle will grow to restore vertical orientation, even without gravitational cues.
 
 ## Signal Propagation
-
-Touch signals can propagate rapidly throughout the plant:
-
-- **[[tompkins-plant-electrical-signals]]**: Action potentials and slow wave potentials can travel at speeds of 1-20 cm/s, carrying information about the site and intensity of mechanical stimulation to distant tissues
-- **Calcium waves**: Cytosolic calcium increases can propagate cell-to-cell through plasmodesmata, coordinating responses across tissues
-- **Hydraulic signals**: Changes in xylem pressure following mechanical perturbation can transmit signals through the vascular system
-- **Hormonal signals**: Jasmonic acid, ethylene, and other hormones are synthesized at the site of stimulation and travel through the plant to coordinate systemic responses
-
-## Practical Applications
-
-Understanding plant mechanosensing has practical implications for horticulture and agriculture:
-
-- **Mechanical conditioning**: Exposing greenhouse transplants to wind or mechanical brushing produces stockier, more resilient plants
-- **Support structures**: Trellising and staking alter the mechanical environment and can reduce the plant's investment in stem strengthening, redirecting resources to yield
-- **Pruning**: Removing branches changes the mechanical load distribution on remaining branches, triggering compensatory growth responses
-- **Container design**: Air pruning containers use mechanical air contact at root tips to stimulate branching and prevent root circling
-- **Harvest handling**: Minimizing rough handling of harvested produce reduces wound-induced ethylene production and extends shelf life
-
-## Thigmomorphogenesis Research History
-
-The systematic study of plant mechanosensing dates back centuries. Charles Darwin and his son Francis published "The [[darwin-power-of-movement-in-plants]] in Plants" (1880), documenting plant responses to touch and mechanical stimulation. Modern molecular biology has revealed the underlying mechanisms that Darwin could only observe phenomenologically.
-
-Key milestones include the identification of touch-inducible genes (TCH genes) in the 1990s, the discovery of mechanosensitive ion channels in plant membranes in the 2000s, and the recent identification of plant Piezo channels that has opened new avenues for understanding how plants convert mechanical force into biochemical signals. Daniel Chamovitz's "What a Plant Knows" (2012) brought many of these discoveries to a general audience, framing [[plant-sensory-biology]] in terms accessible to non-specialists while maintaining scientific rigor.
-
-## See Also
-
-- [[plant-photoreception-light-sensing]]
-- [[plant-gravitropism-spatial-awareness]]
-- [[plant-olfaction-volatile-sensing]]

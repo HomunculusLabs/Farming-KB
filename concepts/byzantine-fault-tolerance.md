@@ -88,24 +88,7 @@ This idea influenced the culture of decentralized computing.
 It also shaped debates about institutional trust and algorithmic governance.
 Blockchains turned an abstract fault model into a public political metaphor.
 Terms such as finality, validators, forks, and consensus moved into wider discourse.
-The concept illustrates a broader shift from trusted authorities to verifiable processes.
-At the same time, it warns that protocol trust is not the same as social trust.
-Human incentives, software maintenance, and legal accountability still matter.
-Byzantine tolerance is powerful, but it is not magic.
-## Limitations
-No Byzantine protocol can exceed its stated fault threshold.
-If too many validators collude, safety can fail.
-If the network remains partitioned, liveness may fail.
-If keys are stolen, honest identities can become Byzantine actors.
-If client software accepts weak evidence, protocol guarantees may be bypassed.
-If governance changes validator sets carelessly, assumptions may erode.
-## Related concepts
 
-## Related Topics
-These links are conceptual neighbors in the broader wiki rather than direct farming synonyms.
-
-See also: [[pasture-management-and-forage]]
-- [[fungal-salt-tolerance-and-ion-homeostasis]]
-
-See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
+## See Also
+- [[cannabis-tolerance-and-dependence]]
+- [[endophyte-mediated-plant-stress-tolerance]]

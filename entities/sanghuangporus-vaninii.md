@@ -88,30 +88,3 @@ Optimal [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] occurs a
 [[comparison-liquid-culture-vs-grain-spawn]] fermentation offers a more practical approach for producing mycelial biomass and extracellular polysaccharides. Optimal fermentation conditions include 28°C, pH 5.5–6.0, with agitation at 150 rpm. Polysaccharide yields in submerged culture reach 2–4 g/L.
 
 Conservation concerns have prompted research into sustainable harvesting practices and improved cultivation techniques for all sanghuang species.
-
-## Ethnobotanical Use
-
-In TCM, sanghuang is classified as bitter, astringent, and neutral in nature. It is traditionally prescribed for conditions including amenorrhea, metrorrhagia, leukorrhea, splenalgia, and gastrointestinal hemorrhage.
-
-The *Ben Cao Gang Mu* (1596) by Li Shizhen describes sanghuang as effective for treating bloody dysentery, hemorrhoids, and bleeding disorders. Historical preparations involved decoction of dried fruiting bodies, often combined with other herbs in complex formulations.
-
-Modern TCM practice continues to use sanghuang primarily as an adjunctive therapy for cancer patients. It is typically administered as a water decoction or in capsule form containing dried powder. Recommended daily doses in TCM texts range from 6–15 g of dried material.
-
-The fungus is also used in Korean traditional medicine (sanghwang) and Japanese kampo practice. Korean use focuses on gastrointestinal disorders and immune support, often as a tea prepared from thin slices of dried basidiocarp.
-
-## Related Species
-
-*Sanghuangporus vaninii* is one of approximately 15 described species in the genus *Sanghuangporus*. The type species *S. sanghuang* was described from specimens on mulberry in China.
-
-*S. baumii* is the most commercially available sanghuang species and has been the subject of extensive pharmacological research. It differs from *S. vaninii* in having smaller pores (6–8 per mm) and a more restricted distribution in northeastern China.
-
-*S. lonicericola* grows primarily on honeysuckle (*Lonicera* spp.) and has a more southern distribution. The genus *Sanghuangporus* was segregated from *Phellinus* s.l. based on multigene phylogenetic analyses of ITS, nLSU, and tef1-α regions.
-
-## See Also
-
-- [[sanghuangporus-baumii]]
-- [[phellinus-linteus]]
-- [[trametes-versicolor-entity]]
-- [[grifola-frondosa]]
-- [[wolfiporia-extensa]]
-- [[poria-cocos]]

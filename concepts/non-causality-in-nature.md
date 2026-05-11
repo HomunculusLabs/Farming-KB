@@ -5,6 +5,7 @@ tags: [philosophy, science, epistemology, fukuoka, nature, systems-thinking]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc-tasty-rice-delusion-food-flavor-crisis.md
 type: concept
 ---
@@ -87,56 +88,3 @@ rise above the height of the lowest stave. Fukuoka identified two fundamental
 problems:
 
 First, what holds up the barrel? Yield is not determined by just one factor
-but by the general outcome of all conditions and factors of cultivation. The
-barrel should be shown on top of a column representing these many conditions.
-
-Second, the angle of this supporting column affects the tilt of the barrel,
-changing the amount of water it can hold. The tilt exerts greater influence
-on water capacity than the height of individual staves, meaning that nutrient
-levels are often of no real significance compared to overall system conditions.
-
-He also noted that providing a sufficient amount of a limiting nutrient does
-not increase yield; it merely prevents a loss in yield. The distinction is
-crucial: fertilizers don't make crops grow better, they only prevent them from
-growing worse under degraded conditions.
-
-## The Blind Men and the Elephant
-
-Fukuoka compared scientific understanding of nature to the parable of the blind
-men and the elephant. One blind man touches the trunk and believes it to be a
-snake; another touches a leg and calls it a tree. Scientists observe the
-dualities of compensation and cancellation, life and death, loss and gain,
-nutrient excess and deficiency. From these observations they derive various
-laws and pronounce them truths.
-
-But no matter how many fragmentary laws extracted from the single unnamed law
-of nature are collected together, they can never add up to the great source
-principle. The nature observed through these laws differs fundamentally from
-true nature. "Man might just as well have chosen to group together the law of
-diminishing returns, the law of minimum, and the law of compensation and
-cancellation, and refer to these collectively as the 'law of harmony.'"
-
-## Practical Implications
-
-The principle of non-causality has direct practical implications for farming:
-
-- **No quick fixes**: Because effects cannot be isolated from their web of
-  causes, targeting individual symptoms with pesticides or fertilizers is
-  futile and counterproductive.
-- **[[savory-holistic-management-overview]]**: The entire ecosystem must be considered as an
-  indivisible whole. Improving overall conditions is more effective than
-  manipulating individual factors.
-- **Patience and trust**: Rather than intervening aggressively, the farmer
-  should allow natural balances to establish themselves.
-- **Humility**: Recognition that human knowledge is inherently fragmentary
-  should lead to restraint in intervention, not increased manipulation.
-
-## The Unified Law of Nature
-
-If Fukuoka's fragmented laws had to be given a single name, he suggested "the
-[[fukuoka-dharmic-law-all-things-return-to-one]] That All Things Return to One." All things fuse into a circle,
-which reverts to a point, and the point to nothing. To man it appears as if
-something has occurred and something has vanished, yet nothing is ever created
-or destroyed. This is distinct from the scientific law of conservation of
-matter, which maintains that destruction and conservation exist side by side
-but ventures no further.

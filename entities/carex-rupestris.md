@@ -11,9 +11,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora of North America, Vol. 23: Cyperaceae. Oxford University Press.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." In Flora huckleberries-and-wild-berries-of-north-america, Vol. 23: Cyperaceae. Oxford University Press.
   - Aiken, S.G. et al. (2007). "Flora of the Canadian Arctic Archipelago." NRC Research Press.
-  - Nilsson, C. (1986). "Community dynamics of boreal mire vegetation." Acta Phytogeographica Suecica, 76, 1–40.
+  - Nilsson, C. (1986). "[[dighton-aquatic-hyphomycete-conidia-community-dynamics]] of boreal mire vegetation." Acta Phytogeographica Suecica, 76, 1–40.
   - Wheeler, G.A. & Guo, Y. (2012). "Carex section Phyllostachys in Asia." Nordic Journal of Botany, 30(3), 281–287.
   - Murray, B.G. & Elven, R. (2011). "Chromosome numbers of Carex from Svalbard." Nordic Journal of Botany, 29(5), 590–596.
 ---
@@ -52,13 +52,13 @@ Perigynia are three to five millimeters long, broadly ovate, plano-convex, reddi
 
 The achene is two to three millimeters long, tightly enclosed within the perigynium. Flowering occurs from June through August in arctic populations, and from July through September in alpine populations.
 
-The difference in flowering phenology between arctic and alpine populations reflects the shorter growing season at higher latitudes. Arctic populations may flower within two weeks of snowmelt.
+The difference in flowering phenology between arctic and alpine populations reflects the shorter [[extending-growing-season]] at higher latitudes. Arctic populations may flower within two weeks of snowmelt.
 
 ## Distribution and Habitat
 
 *Carex rupestris* has a circumpolar distribution, occurring across arctic Alaska, northern Canada, Greenland, Iceland, Svalbard, northern Scandinavia, and northern Russia.
 
-In North America, the species extends south in the Rocky Mountains to Colorado and New Mexico, and in the Appalachian Mountains to New England. Alpine populations are disjunct from the main arctic range.
+In [[guzman-psilocybin-mushrooms-north-america]], the species extends south in the Rocky Mountains to Colorado and New Mexico, and in the Appalachian Mountains to New England. Alpine populations are disjunct from the main arctic range.
 
 These southern disjunct populations are considered relicts from colder Pleistocene climates. They are of conservation interest due to their isolation and vulnerability to climate warming.
 
@@ -68,7 +68,7 @@ Elevation ranges from near sea level in the high Arctic to four thousand meters 
 
 The species tolerates extreme cold, withstanding temperatures below minus forty degrees Celsius. Winter survival is facilitated by a dense prostrate growth form that insulates growing points beneath snow cover.
 
-Soil preferences include acidic sandy loams, gravelly soils, and shallow organic mats over bedrock. The species is absent from wet, waterlogged sites where *Carex aquatilis* or *Carex Bigelowii* dominate.
+Soil preferences include acidic sandy loams, gravelly soils, and [[coleman-deep-organic-vs-shallow-organic-farming]] mats over bedrock. The species is absent from wet, waterlogged sites where *[[carex-aquatilis]]* or *[[carex-bigelowii]]* dominate.
 
 The root system extends deeply into rocky crevices, anchoring the plant in loose substrates subject to frost heave and solifluction. This anchoring ability makes *C. rupestris* a key pioneer species on glacial moraines.
 
@@ -78,45 +78,12 @@ The root system extends deeply into rocky crevices, anchoring the plant in loose
 
 The prostrate growth form reduces wind exposure and heat loss, an adaptation critical for survival in open, windswept alpine and arctic environments. Snow accumulation around tussocks provides additional winter insulation.
 
-The species provides forage for arctic herbivores including caribou, muskox, arctic hares, and ptarmigan. Nutritional quality is moderate, with protein content declining through the growing season.
+The species provides forage for arctic herbivores including caribou, muskox, arctic hares, and ptarmigan. [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is moderate, with protein content declining through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Root systems are extensive and fibrous, binding loose rocky substrates and contributing to soil formation. In glacier foreland succession, *C. rupestris* is among the early colonizers of freshly exposed mineral substrates.
 
-Seed dispersal occurs by wind and water. Germination rates are low in nature, and vegetative spread through rhizome extension is the primary mode of local population maintenance.
+[[clay-pellet-seed-dispersal]] occurs by wind and water. Germination rates are low in nature, and vegetative spread through rhizome extension is the primary mode of local population maintenance.
 
 ## Cultivation
 
-*Carex rupestris* is occasionally cultivated in rock gardens and alpine plant collections for its compact form and cold hardiness. It is one of the most cold-tolerant ornamental sedges available.
-
-Propagation is by seed, requiring cold stratification for thirty to sixty days. Germination is slow and irregular, often taking several weeks. Division of established tussocks is more reliable for garden use.
-
-Cultural requirements include full sun, excellent drainage, and acidic to neutral soil. The species is intolerant of waterlogging and performs poorly in warm, humid climates.
-
-Its small size and slow growth rate limit its horticultural appeal, but it is valued in specialized alpine gardens and ecological restoration of disturbed alpine sites.
-
-The species is rarely affected by pests or diseases in cultivation. Its primary limitation in gardens is sensitivity to warm summer temperatures and poor drainage.
-
-## Related Species
-
-*Carex rupestris* is part of a complex of arctic-alpine *Carex* species in section *Phyllostachys*. *Carex nardina* is the most closely related species, differing in its shorter perigynia and more densely caespitose habit.
-
-*Carex scirpoidea* (northern bog sedge) overlaps in range with *C. rupestris* but occupies wetter habitats. Hybridization between the two species has been documented in the Canadian Arctic Archipelago.
-
-*Carex rupestris* can be distinguished from the similar *Carex vaginata* by its shorter culms, more compact tussocks, and single terminal spike. *Carex vaginata* typically has two to three spikes and taller growth.
-
-In Asian mountain ranges, *Carex rupestris* co-occurs with *Carex stenophylloides* and *Carex moorcroftii*, species with convergent alpine adaptations but belonging to different *Carex* sections.
-
-## See Also
-
-- [[andreaea-rupestris]]
-
-- [[carex-bigelowii]]
-- [[carex-nigra]]
-- [[carex-flacca]]
-- [[carex-stricta]]
-- [[carex-vesicaria]]
-- [[carex-pilulifera]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[scirpus-cyperinus]]
-- [[carex-echinata]]
+*Carex rupestris* is occasionally cultivated in rock gardens and alpine plant collections for its compact form and [[coleman-cold-hardiness-testing-ratings]]. It is one of the most cold-tolerant ornamental sedges available.

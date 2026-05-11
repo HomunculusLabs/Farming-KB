@@ -19,7 +19,7 @@ The organic garden will be more attractive to wildlife if it contains a pond, be
 Aquatic plants can be divided into four groups — deep-water aquatics, floating plants, submerged oxygenating plants, and marginal plants. Try to include plants from each group.
 
 ### Deep-Water Aquatics
-Plants that root at the bottom of the pond but whose leaves float on the surface. Water lilies (Nymphaea sp.) are both decorative and useful for reducing algae growth, which turns water green and murky. Algae live on mineral salts and sunlight, so the more leaf cover on the surface, the less algae can grow. Attractive deep-water aquatics include the **white water lily** (Nymphaea alba) and **water crowfoot** (Ranunculus aquatilis).
+Plants that root at the bottom of the pond but whose leaves float on the surface. Water lilies (Nymphaea sp.) are both decorative and useful for reducing algae growth, which turns water green and murky. Algae live on mineral salts and sunlight, so the more leaf cover on the surface, the less algae can grow. Attractive deep-water aquatics include the **white water lily** (Nymphaea alba) and **water crowfoot** ([[ranunculus-aquatilis]]).
 
 **Planting depths:**
 - **Water hawthorn** (Aponogeton distachyum) — 6-18in (15-45cm)
@@ -35,16 +35,16 @@ Plant deep-water aquatics in containers during late spring and summer. Cut off a
 These reduce the amount of sunlight reaching the water surface, further suppressing algae. Examples include **water hyacinth** (Eichornia crassipes) and **water chestnut** (Trapa natans). Put them into the pond in spring — simply throw them in, using one plant per square yard/meter.
 
 ### Submerged Oxygenating Plants
-Not decorative but essential to pond health as they aerate the water. Suitable plants include **spiked water milfoil** (Myriophyllum spicatum), **Canadian pondweed** (Elodea canadensis), and **curly pondweed** (Potamogeton crispus). Sold in bunches with a small weight attached — throw one bunch per 2 square yards/meters into the pond in spring.
+Not decorative but essential to pond health as they aerate the water. Suitable plants include **spiked water milfoil** ([[myriophyllum-spicatum]]), **Canadian pondweed** ([[elodea-canadensis]]), and **curly pondweed** ([[potamogeton-crispus]]). Sold in bunches with a small weight attached — throw one bunch per 2 square yards/meters into the pond in spring.
 
 ### Marginal Plants
 Grow in the shallowest parts of the pond and boggy soil around the edges. They range from those needing an inch or two of water over roots to those preferring marshy soil.
 
 **Planting depths:**
 - **Sweet-scented rush** ([[sweet-flag-acorus-calamus-ethnobotany]]) — 3-5in (7-12cm)
-- **Flowering rush** (Butomus umbellatus) — 3-5in (7-12cm)
+- **Flowering rush** ([[butomus-umbellatus]]) — 3-5in (7-12cm)
 - **Bog arum** (Calla palustris) — 2-4in (5-10cm)
-- **Marsh marigold** (Caltha palustris) — 0-3in (0-7cm)
+- **Marsh marigold** ([[caltha-palustris]]) — 0-3in (0-7cm)
 - **Arrowhead** (Saggitaria japonica) — 3-5in (7-12cm)
 - **Water forget-me-not** (Myosotis palustris) — 0-3in (0-7cm)
 - **Primula** (Primula sp.) — 0-3in (0-7cm)
@@ -88,10 +88,3 @@ A gently sloping, shallow area providing an ideal habitat for plants that like d
 ## Maintaining the Pond
 
 ### Algae Growth
-Soon after filling, water may turn pea-green from rapid algae growth — pond water contains minerals and receives full sunlight. Do NOT empty and replace the water — this gives algae a fresh supply of mineral salts. Leave the water as-is; minerals will be depleted and, as water plants grow, they exclude sunlight. Deprived of food, algae die and the water clears.
-
-### Thinning Oxygenating Plants
-Occasionally thin out oxygenating plants by pulling some out by hand. Return any animal life on the plants to the pond. Discarded plants go on the [[permaculture-water-systems]]
-- permaculture-designers-manual-pond-edge-planting
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-composting-and-organic-matter-management]]

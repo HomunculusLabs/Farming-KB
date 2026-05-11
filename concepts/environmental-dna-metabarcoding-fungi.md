@@ -1,7 +1,7 @@
 ---
-title: Environmental DNA Metabarcoding for arbuscular-mycorrhizal-fungal-diversity-patterns-distribution
+title: Environmental Dna Metabarcoding Fungi
 created: 2026-04-28
-tags: [mycology, metagenomics, methodology, dna sequencing]
+tags: [mycology, metagenomics, methodology, [[environmental-dna-sequencing-fungi]]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
@@ -12,15 +12,15 @@ type: concept
 
 Environmental DNA (eDNA) metabarcoding has revolutionized the study of fungal
 biodiversity. By extracting and sequencing DNA directly from environmental
-samples, researchers can detect fungal species without observing fruiting bodies
+samples, researchers can detect fungal species without observing [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]]
 or culturing organisms in the laboratory. This approach has revealed that
 previously known fungal diversity represents only a small fraction of the total.
 
 ## How Metabarcoding Works
 
 The standard fungal metabarcoding workflow begins with collecting an environmental
-sample and extracting total genomic DNA. A specific region of fungal DNA, most
-commonly the Internal Transcribed Spacer (ITS) region of ribosomal RNA genes,
+sample and extracting total genomic DNA. A specific region of [[fungal-dna-barcoding]], most
+commonly the Internal Transcribed Spacer (ITS) region of [[ribosomal-rna-sequencing-yeast-identification]] genes,
 is then amplified using universal fungal primers. The ITS region sits between
 the 18S, 5.8S, and 28S ribosomal subunits and exhibits high sequence variability,
 making it ideal for distinguishing among fungal species.
@@ -39,7 +39,7 @@ taxonomic assignment because it is shorter and more variable. ITS1 is also
 widely used and may perform better for certain groups.
 
 Neither ITS1 nor ITS2 is perfect. Sequence alignment across broad taxonomic
-groups is difficult because of length variation and indels. Some fungal genera
+groups is difficult because of length variation and indels. Some [[singh-key-fungal-genera-bioremediation]]
 show very low ITS variability, making species-level discrimination impossible.
 Many sequences in reference databases are themselves misidentified or
 insufficiently annotated, leading to propagating errors in taxonomic assignment.
@@ -88,32 +88,3 @@ reference databases like UNITE completes the pipeline.
 ## Applications in Fungal Ecology
 
 Metabarcoding has transformed our understanding of [[air-pollution-fungal-community-responses]] ecology.
-It enables large-scale studies of how [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] respond to
-environmental gradients, land-use change, and climate shifts. Soil metabarcoding
-surveys have revealed that a single gram of forest soil may contain hundreds
-of fungal species, the vast majority of which have never been cultured.
-
-In applied contexts, metabarcoding is used for indoor air quality assessment,
-agricultural soil health monitoring, and detection of plant pathogens. Clinical
-metabarcoding can identify fungal pathogens directly from patient samples,
-reducing diagnosis time compared to traditional culture methods.
-
-## Limitations and Biases
-
-Sequencing depth determines the detection threshold for rare taxa.
-Undersampling means that rare species, which may constitute the majority of
-diversity, are missed or detected inconsistently. The relationship between read
-abundance and biological abundance is complex and nonlinear, making quantitative
-inferences from metabarcoding data unreliable.
-
-Complementary approaches like metatranscriptomics and shotgun metagenomics
-provide additional information about active community members and functional
-potential, but at much higher cost and with greater computational demands.
-
-## See Also
-
-- [[gadd-environmental-sensing-filamentous-fungi]]
-
-- [[fungal-habitats-and-niches]]
-- [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
-- [[fungal-conservation-challenges]]

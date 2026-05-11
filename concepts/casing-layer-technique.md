@@ -88,20 +88,3 @@ while preserving beneficial microbes:
 4. Do NOT mix the casing into the substrate; it should sit on top
 5. Mist lightly with clean water if the surface seems dry
 6. Maintain high humidity (90%+) and appropriate temperature for the species
-
-## Colonization and Patching
-
-The mycelium will grow up through the casing layer over 5-14 days. When
-mycelium appears on the casing surface, it should be patched: apply a thin
-layer of fresh casing over the exposed mycelial spots to create an even
-fruiting surface. This prevents early pinning in colonized areas while
-uncolonized areas catch up.
-
-## Initiation
-
-After the casing is fully colonized (mycelium visible throughout but not
-heavily matted on the surface), initiate fruiting by:
-- Reducing temperature by 3-5°C
-- Introducing fresh air exchange (lowering CO2)
-- Maintaining 90-95% relative humidity
-- Providing indirect light (12 hours on/off cycle)

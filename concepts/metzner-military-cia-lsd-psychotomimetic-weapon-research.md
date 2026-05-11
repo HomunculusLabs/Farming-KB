@@ -1,5 +1,5 @@
 ---
-title: "Military and Intelligence Agency LSD Research: metzner military cia lsd psychotomimetic weapon research Programs"
+title: Metzner Military Cia Lsd Psychotomimetic Weapon Research
 aliases: ["CIA LSD MKUltra", "military psychedelics weapon", "LSD psychotomimetic research military"]
 tags: [lsd, military, mkultra, history, psychedelic-therapy, metzner]
 ---
@@ -8,13 +8,13 @@ tags: [lsd, military, mkultra, history, psychedelic-therapy, metzner]
 
 ## Overview
 
-Ralph Metzner's 1998 review of hallucinogens in psychotherapy and shamanism included a brief but significant discussion of the military and intelligence applications of LSD. This history represents a dark chapter in the story of psychedelic substances, one that contrasts sharply with the therapeutic and spiritual uses that Metzner and his colleagues advocated.
+Ralph Metzner's 1998 review of hallucinogens in [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] included a brief but significant discussion of the military and intelligence applications of LSD. This history represents a dark chapter in the story of [[psychedelic-substances-comparison]], one that contrasts sharply with the therapeutic and spiritual uses that Metzner and his colleagues advocated.
 
 ## Discovery During Wartime
 
 The fantastically potent mind-altering qualities of LSD were first discovered at the height of World War II in a Swiss pharmaceutical laboratory.
 
-Albert Hofmann's synthesis and accidental self-experimentation with LSD-25 at Sandoz Laboratories in 1943 revealed a compound of extraordinary power. The initial characterization of LSD's effects was clinical and psychiatric.
+[[albert-hofmann]]'s synthesis and accidental self-experimentation with LSD-25 at Sandoz Laboratories in 1943 revealed a compound of extraordinary power. The initial characterization of LSD's effects was clinical and psychiatric.
 
 The compound was first described as "psychotomimetic" — a substance that mimics psychosis — and "psycholytic" — a substance that dissolves psychic defenses.
 
@@ -76,7 +76,7 @@ Agents who were administered LSD as part of MKUltra experiments sometimes had ex
 
 The military and intelligence research on LSD raises profound ethical questions that remain relevant today.
 
-The administration of powerful psychoactive substances to unwitting subjects — including civilians, military personnel, and even mental patients — constitutes one of the most serious ethical violations in the history of medical research.
+The administration of powerful [[cultural-evolution-and-psychoactive-substances]] to unwitting subjects — including civilians, military personnel, and even mental patients — constitutes one of the most serious ethical violations in the history of medical research.
 
 The MKUltra program operated without informed consent, without proper oversight, and without regard for the potential long-term psychological harm to its subjects.
 
@@ -86,41 +86,4 @@ Metzner's brief discussion of this history serves as a reminder that the same su
 
 ## Contrast with Therapeutic Use
 
-The contrast between the military's use of LSD and its therapeutic applications is instructive.
-
-In therapeutic settings, LSD was administered with careful attention to [[lsd-set-and-setting-framework]], with informed consent, and with trained guides present to support the experience.
-
-The goal was healing, insight, and personal growth.
-
-In military settings, LSD was administered without consent, without support, and with the explicit goal of causing harm.
-
-The same compound, used in radically different contexts, produced radically different outcomes.
-
-This contrast underscores Metzner's broader argument about the importance of worldview and intention in determining the effects of psychoactive substances.
-
-The compound itself is neutral; the context and intention determine whether the experience is therapeutic or destructive.
-
-## Historical Documentation
-
-The history of military LSD research has been extensively documented.
-
-Lee and Shlain's 1985 book "Acid Dreams" provides the most comprehensive account of the CIA's [[mckenna-suppression-psychedelic-research-lsd-therapy]] programs.
-
-John Marks's 1979 book "The Search for the Manchurian Candidate" exposed the MKUltra program based on documents obtained through the Freedom of Information Act.
-
-The 1977 Senate hearings on MKUltra, chaired by Senator Edward Kennedy, brought some of these programs to public attention for the first time.
-
-Despite these revelations, the full scope of military and intelligence research on psychoactive substances may never be known, as CIA Director Richard Helms ordered the destruction of many MKUltra records in 1973.
-
-## See Also
-
-- [[metzner-military-intelligence-lsd-psychotomimetic-weapon-programs]]
-
-- [[metzner-psycholytic-psychedelic-therapy-models]]
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]]
-
-## Sources
-
-- Metzner, R. (1998). [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]] and Plants in Psychotherapy and Shamanism. *Journal of Psychoactive Drugs*, 30(4), 333-341.
-- Lee, M. & Shlain, B. (1985). *Acid Dreams*. Grove Press.
-- Marks, J. (1979). *The Search for the Manchurian Candidate*. Times Books.
+The contrast between the military's use of LSD and its [[psilocybin-therapeutic-applications]] is instructive.

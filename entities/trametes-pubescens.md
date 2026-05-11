@@ -88,32 +88,3 @@ Strains have demonstrated effective decolorization of industrial dyes including 
 Degradation of phenolic pollutants and pharmaceutical residues in wastewater has been documented under optimized culture conditions.
 
 ### Industrial Enzymology
-
-Laccase from *T. pubescens* is investigated for applications in biobleaching of paper pulp, biosensor development, and food processing.
-
-The enzyme shows thermal stability up to 50°C and tolerance to a range of pH conditions (pH 3–7), making it suitable for industrial processes.
-
-## Cultivation
-
-Can be cultivated on supplemented hardwood sawdust substrates, though it is less commonly grown commercially than *T. versicolor* or oyster mushrooms.
-
-Optimal growth temperatures range from 25–28°C with relative humidity above 85% for fruiting.
-
-Colonization speed is moderate, typically 10–14 days on grain spawn, with fruiting bodies appearing 3–5 weeks after substrate inoculation.
-
-[[stamets-biological-efficiency-yield]] on hardwood sawdust is moderate (40–60%), lower than dedicated edible species but comparable to other Trametes.
-
-## Related Species
-
-- *Trametes versicolor* — more strongly zonate, surface hirsute but less distinctly pubescent
-- *Trametes hirsuta* — coarser hirsute surface, larger pores
-- *Trametes trogii* — larger basidiocarps, more robust habit
-- *Coriolopsis gallica* — similar ecology but with a smoother, more polished upper surface
-
-## See Also
-
-- [[coriolopsis-gallica]]
-- [[bjerkandera-adusta]]
-- [[ganoderma-applanatum]]
-- [[laetiporus-sulphureus]]
-- [[panus-tigrinus]]

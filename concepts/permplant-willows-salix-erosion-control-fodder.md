@@ -1,5 +1,5 @@
 ---
-title: Willows for permplant willows salix [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]] fodder and Fodder in Permaculture
+title: Permplant Willows Salix Erosion Control Fodder
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---
@@ -87,14 +88,3 @@ and unique craft material.
 ## Timber and Craft Uses
 
 Willows yield a soft, light timber useful for crates, light construction,
-and craft work. The osier willow is specifically cultivated for basket
-weaving, furniture, and fish traps. Cricket bat willow produces timber
-for top-quality cricket bats, a unique specialised industry.
-
-## Design Integration
-
-In [[soil-erosion-control]]
-
-## See Also
-
-- [[salix-discolor]]

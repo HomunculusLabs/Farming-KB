@@ -1,5 +1,5 @@
 ---
-title: Growing growing gourmet sciarid phorid fly management Phorid Fly Management
+title: Growing Gourmet Sciarid Phorid Fly Management
 created: 2026-04-28
 tags: [mushroom-cultivation, pest-management, sciarid-flies, phorid-flies, IPM]
 date: 2026-04-28
@@ -12,8 +12,8 @@ type: concept
   [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]] while being harmless to mushrooms and mycelium. Available
   as Gnatrol or similar products. Apply at first sign of adult activity
   and reapply every 7-10 days during the cropping cycle
-- **Steinernema feltiae**: Entomopathogenic nematodes that actively
-  hunt and kill fly larvae in substrate. Applied as a soil drench.
+- **Steinernema feltiae**: [[entomopathogenic-nematodes-biological-pest-control]] that actively
+  hunt and kill [[black-soldier-fly-larvae-as-feed]] in substrate. Applied as a soil drench.
   Effective at temperatures above 55°F (13°C)
 - **Hypoaspis miles**: [[comparison-predatory-mites-vs-ladybugs-biocontrol]] that feed on fungus gnat larvae
   in the substrate. Establish populations before flies appear for
@@ -39,7 +39,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,17 +87,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[mushroom-cultivation]]

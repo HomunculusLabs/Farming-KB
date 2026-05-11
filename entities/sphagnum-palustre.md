@@ -88,25 +88,3 @@ Dried Sphagnum is incorporated into **soil amendments** and potting mixes to imp
 Peatlands accumulate at approximately **0.5–1.0 mm per year**, meaning a 1-meter deep peat deposit represents 1,000–2,000 years of accumulation. Harvested peatlands take millennia to regenerate, making peat extraction functionally non-renewable on human timescales.
 
 ## Medicinal and Historical Uses
-
-Sphagnum moss has been used as a **wound dressing** for centuries across multiple cultures. Its high absorbency, mild acidity, and presence of antimicrobial compounds (including **sphagnol** and phenolic substances) make it effective at preventing infection.
-
-During **World War I**, Sphagnum moss dressings were used extensively by Allied forces when cotton supplies became scarce. An estimated one million Sphagnum dressings were produced, with studies showing they were superior to cotton gauze for wound management due to better absorption and lower infection rates.
-
-Indigenous peoples of North America used Sphagnum in **diapers, menstrual pads**, and as absorbent bedding. The Cree and other First Nations peoples applied Sphagnum packs to wounds, burns, and insect bites.
-
-In Scandinavian folklore, Sphagnum was believed to have protective properties and was stuffed into **shoes and clothing** for insulation during winter travel. Its use as an insulating material in construction predates modern synthetic alternatives.
-
-Traditional Scottish Highlanders used Sphagnum to insulate **stone cottages** and to line cradles. The moss was also employed as a **water filter** in rural communities, with its absorbent and mildly acidic properties improving the taste and safety of drinking water drawn from peaty sources.
-
-## See Also
-
-- [[sphagnum-rubellum]]
-
-- [[pteridium-aquilinum]]
-- [[lycopodium-clavatum]]
-- arctostaphylos-uva-ursi
-- [[drosera-rotundifolia]]
-- [[nymphaea-alba]]
-- [[lemna-minor]]
-- [[schoenoplectus-lacustris]]

@@ -88,29 +88,3 @@ were "only slightly neurotropic or entirely inactive in the persons who ate them
 the fungi were kept dried for almost a year."
 
 ## Historical Context: Hofmann's Negative Results
-
-The volatility hypothesis may also explain Albert Hofmann's failure to detect indole
-compounds in specimens of Cordyceps capitata and C. ophioglossoides that had been
-gathered by R. Gordon Wasson in a popular market in Mexico. These specimens had been
-preserved for a long time before chemical analysis, during which time volatile active
-compounds may have evaporated entirely. Despite this negative chemical result, these
-Cordyceps species remain important to the indigenous peoples of the Nevado de Toluca
-region of Mexico.
-
-## Safety Implications for Mycological Fieldwork
-
-The Oaxaca incident has practical implications for mycologists and others handling large
-quantities of fresh psilocybin-containing fungi. In enclosed spaces with inadequate
-ventilation, prolonged exposure to collections of fresh specimens may produce psychoactive
-effects even without ingestion. The combination of semifermented specimens, warm
-conditions, and confined space appears to create conditions sufficient for airborne
-psilocybin/psilocin to reach perceptible concentrations.
-
-This observation also has relevance for the storage and transport of commercial
-specimens, particularly in contexts where large quantities of fresh mushrooms are held in
-enclosed containers for market distribution.
-
-## Related
-
-- psilocybin
-- [[allen-psilocybin-potency-australian-species]]

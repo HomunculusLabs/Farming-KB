@@ -2,9 +2,9 @@
 
 ## Overview
 
-The study of mushroom tropisms — directional growth responses to environmental
-stimuli — requires carefully controlled experimental conditions. Edmond R.
-Badham's 1982 study of tropisms in Psilocybe cubensis (Mycologia, 74(2):
+The study of [[adaptive-significance-mushroom-tropisms-spore-dispersal]] — directional growth responses to environmental
+stimuli — requires carefully controlled [[darwin-five-seedling-phototropism-experimental-conditions]]. Edmond R.
+Badham's 1982 study of tropisms [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] (Mycologia, 74(2):
 275-279) established a methodological standard using a closed-circuit wind
 tunnel system controlling wind velocity, humidity, temperature, and light.
 
@@ -34,7 +34,7 @@ passed through a polyester fiber filter, then through a Thermotrack II
 temperature proportioner and spin-type humidifier with integrated heater.
 
 An eight-sided air baffle ensured laminar flow, with soda straws as flow
-straighteners. A heat cable provided perimeter thermal regulation. Water
+straighteners. A heat cable provided perimeter [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]. Water
 surrounding the working area served as both light filter and thermal
 insulation, with a dedicated heater maintaining temperature stability.
 
@@ -74,10 +74,10 @@ transferred to the wind tunnel.
 
 ## Developmental Staging System
 
-**Stage 1** (0 h): Slight pileus swelling. Active stipe elongation with
+**Stage 1** (0 h): Slight pileus swelling. Active [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] with
 strongest anemotropic response, growing into the wind.
 
-**Stage 2** (~24 h): Nearly spherical pileus. Negative geotropic response
+**Stage 2** (~24 h): Nearly spherical pileus. Negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]]
 emerges in fertile basidiocarps — the critical transition between wind-
 directed and gravity-directed growth.
 
@@ -88,62 +88,3 @@ spore production. Full reorientation for optimal spore dispersal.
 ceased.
 
 ## Experimental Configurations
-
-**Stationary perpendicular**: Primary anemotropic response (Stages 1-2), then
-negative geotropic recurvation at Stage 2 in fertile basidiocarps. Sterile
-mutants showed continued anemotropic bending without recurvation.
-
-**Rotating perpendicular** (3 rpm): Pure negative geotropism with upright
-growth, confirming gravity dominance when wind stimulus is equalized.
-
-**Rotating parallel**: Stipe elongation with pileus opening into the wind,
-demonstrating aligned geotropic and anemotropic vector summation.
-
-**Dark controls**: Light not required for initial anemotropism but necessary
-for geotropic recurvature, presumably because light is required for
-sporulation.
-
-## The Evaporative Demand Hypothesis
-
-Badham proposed that anemotropic curvature involves differential evaporative
-demand across the stipe surface. Wind redistributes the boundary layer
-(thicker leeward), affecting water vapor concentration. The windward side
-experiences greater evaporative demand, potentially causing differential cell
-growth rates and curvature toward the wind.
-
-This was informed by Phycomyces work (Cohen et al., 1975) showing anemotropism
-and avoidance responses. Johnson and Gamow (1971) demonstrated wind necessity
-and water vapor importance. Russo et al. (1975) suggested ethylene involvement.
-
-An alternative — direct mechanical force response — was supported by
-Dennison's (1961) demonstration that Phycomyces growth responds to gravity
-and centrifugal force. Light could also influence the tropism by heating the
-surface and increasing evaporation.
-
-## Relevance to Cultivation
-
-Uneven airflow in grow rooms can cause stipe bending, reducing aesthetic
-quality and potentially affecting spore dispersal efficiency. The geotropic
-response ensures proper cap orientation regardless of substrate angle.
-
-The spore production-tropic switching connection suggests environmental
-conditions affecting sporulation (particularly light) also influence final
-fruiting body orientation. Anemotropism may increase spacing between stipes
-of cespitose (clustered) fruiting bodies by directing growth toward the
-greatest evaporative demand.
-
-## See Also
-
-- [[fungal-tropisms-and-gravitropic-responses]]
-- [[anemotropism-in-fungi]]
-- [[evaporative-demand-hypothesis-mushroom-tropism]]
-- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]]
-- [[mushroom-geotropism]]
-- [[cespitose-fruiting-body-spacing-and-tropism]]
-
-## Sources
-
-- Badham, E.R. (1982). Tropisms in the mushroom Psilocybe cubensis.
-*Mycolgia*, 74(2), 275-279.
-- Cohen, R.J. et al. (1975). Responses of the sporangiophores of Phycomyces.
-*J. Gen. Physiol.*, 66, 67-95.

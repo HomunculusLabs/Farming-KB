@@ -11,7 +11,7 @@ created: 2026-05-10
 
 ## Overview
 
-Animal manure is one of the oldest and most widely used soil amendments in agriculture, but its value varies enormously depending on the source animal's diet, the presence of bedding material, storage conditions, and handling methods. Steve Solomon's research demonstrates that the common assumption that "any manure is good manure" is dangerously oversimplified. Understanding manure quality is essential for building soil that produces truly nutritious vegetables. (see [[seaweed-and-marine-macroalgae-in-agriculture]]).
+Animal manure is one of the oldest and most widely used soil amendments in agriculture, but its value varies enormously depending on the source animal's diet, the presence of bedding material, [[spawn-storage-conditions]], and handling methods. Steve Solomon's research demonstrates that the common assumption that "any manure is good manure" is dangerously oversimplified. Understanding manure quality is essential for building soil that produces truly nutritious vegetables. (see [[seaweed-and-marine-macroalgae-in-agriculture]]).
 
 ## The Enormous Variability of Manure
 
@@ -36,7 +36,7 @@ Note: These figures represent compiled data from numerous sources. The extraordi
 
 The most significant factor in manure quality is what the animal eats. Solomon illustrates this with a compelling comparison of two horse manure sources:
 
-**High-quality manure source**: A neighbor keeps performance horses fed like endurance athletes. Their hay is purchased from knowledgeable farmers who understand proper protein content and drying techniques. The horses receive a broad range of protein supplements, including oilseed meals and abundant vitamins and trace minerals. This manure produces excellent garden results.
+**High-quality manure source**: A neighbor keeps performance horses fed like endurance athletes. Their hay is purchased from knowledgeable farmers who understand proper protein content and drying techniques. The horses receive a broad range of protein supplements, including oilseed meals and abundant vitamins and [[dynamic-accumulator-plants-trace-minerals]]. This manure produces excellent garden results.
 
 **Low-quality manure source**: Another neighbor keeps horses in a back pasture where the vegetation is "pathetic despite all the horse urine." The grass is of such low quality that a knowledgeable horse owner "wouldn't use it for anything but bedding straw." The manure barely supports rose bushes, which are low-demand plants.
 
@@ -61,17 +61,17 @@ Solomon argues that even high-quality manure is not sufficient alone to produce 
 
 1. **Incomplete mineral spectrum**: Even the best manure does not contain all trace minerals in optimal ratios. Over time, soils fertilized only with manure can develop specific mineral deficiencies.
 
-2. **Variable composition**: You cannot be confident about what you're getting from a manure source without laboratory analysis. The wide ranges shown above make dosing imprecise.
+2. **Variable composition**: You cannot be confident about what you're getting from a manure source without [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]. The wide ranges shown above make dosing imprecise.
 
 3. **Organic matter vs. mineral nutrition**: Manure primarily feeds the soil ecology (beneficial) and provides organic matter, but plants need specific mineral nutrients in specific ratios that manure alone cannot guarantee.
 
-4. **Building up soil excessively**: Adding large amounts of manure and compost to build soil is not only wasteful of money and effort, but can actually lower the nutritional quality of vegetables. Excessive organic matter can create imbalances and encourage excessive vegetative growth at the expense of mineral density.
+4. **Building up soil excessively**: Adding large amounts of manure and compost to build soil is not only wasteful of money and effort, but can actually lower the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of vegetables. Excessive organic matter can create imbalances and encourage excessive vegetative growth at the expense of mineral density.
 
 ## Recommended Approach: Manure Plus COF
 
-Solomon's recommendation is to use manure for its ecological benefits (feeding soil organisms, improving soil structure, adding organic matter) while using Complete Organic Fertilizer (COF) for reliable mineral nutrition. The specific approach:
+Solomon's recommendation is to use manure for its ecological benefits (feeding soil organisms, improving soil structure, adding organic matter) while using [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) for reliable mineral nutrition. The specific approach:
 
-1. Apply modest amounts of manure (enough to maintain soil organic matter at 3-5%)
+1. Apply modest amounts of manure (enough to maintain [[mollison-designers-humus-building-and-soil-organic-matter]] at 3-5%)
 2. Apply COF at the recommended rates for complete mineral nutrition
 3. This combination produces vegetables with the highest nutritional content
 4. If manure is unavailable, COF alone can produce good results, though soil organic matter will gradually decline without organic inputs
@@ -88,34 +88,3 @@ For gardeners who cannot obtain manure, Solomon describes methods for making low
 ## Green Manures and Cover Crops
 
 Green manures (crops grown specifically to be turned into the soil) provide an alternative or supplement to imported manure:
-
-- Legumes (clover, vetch, peas, beans) fix atmospheric nitrogen through their symbiotic relationship with rhizobia bacteria
-- Deep-rooted cover crops (radishes, daikon) break up compacted soil layers and bring up minerals from subsoil
-- Winter cover crops prevent erosion and add organic matter when turned under in spring
-- Cover crops can be grown during fallow periods between vegetable crops
-
-## Humanure
-
-Solomon briefly addresses humanure (human manure) as a nutrient source. While taboo in many cultures, properly composted human waste can be a valuable fertilizer with nutrient content comparable to animal manures. The key requirement is thorough composting at sufficient temperatures to destroy pathogens. This topic requires careful handling and is beyond the scope of most home gardeners, but it represents a largely untapped nutrient resource.
-
-## Practical Recommendations
-
-1. **Source quality manure**: Seek manure from well-fed animals. Performance horses, pastured poultry, and well-managed dairy cattle produce the best manure. Ask about the animal's diet before committing to a source.
-
-2. **Don't over-apply**: Excessive manure wastes money, can pollute groundwater, and may create nutrient imbalances. Apply enough to maintain soil organic matter, not to provide all plant nutrition.
-
-3. **Complement with COF**: Use Complete Organic Fertilizer to provide reliable, complete mineral nutrition that manure alone cannot guarantee.
-
-4. **Consider storage**: If you have a reliable manure source, set up a covered composting area to preserve nutrients and produce a more consistent product.
-
-5. **Test your soil periodically**: A basic soil test every few years helps identify mineral deficiencies or excesses that may not be apparent from plant growth alone. Focus on calcium, magnesium, phosphorus, potassium, and pH levels.
-
-## The Soil Ecosystem
-
-The ultimate goal of adding manure, compost, and organic matter to garden soil is not primarily to feed plants directly, but to feed the complex ecosystem of soil organisms. Bacteria, fungi, protozoa, nematodes, earthworms, and other soil life forms break down organic materials, cycle nutrients, create soil structure through their activities, and protect plants from disease. Healthy soil is alive soil. Manure provides food for this ecosystem, while COF provides the mineral building blocks that plants need but that the soil ecosystem alone cannot supply in sufficient quantities.
-
-## See Also
-
-- [[complete-organic-fertilizer-cof]]
-- [[low-irrigation-vegetable-gardening]]
-- [[vegetable-spacing-and-garden-layout]]

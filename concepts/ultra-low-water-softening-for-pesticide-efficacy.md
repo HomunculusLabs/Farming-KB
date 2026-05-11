@@ -1,5 +1,5 @@
 ---
-title: "Water [[jadam-ultra-low-cost-agriculture]] water softening for pesticide efficacy Efficacy"
+title: Ultra Low Water Softening For Pesticide Efficacy
 created: 2026-04-28
 tags: [water-quality, water-softener, pesticide-efficacy, hard-water, ultra-low-cost]
 date: 2026-04-28

@@ -88,22 +88,3 @@ They provide weed suppression through competition and allelopathy.
 
 Combine legume + grass + brassica for maximum diversity.
 Example: crimson clover + winter rye + daikon radish.
-These feeds diverse soil microbial communities and covers multiple rotation functions.
-
-## Permaculture Adaptations
-
-Permaculture rotation differs from conventional farming in several ways:
-
-- **Permanent beds** -- rotation occurs within permanent raised beds rather than field-scale blocks.
-- **Polyculture within rotation** -- beds may contain multiple families simultaneously, though dominant family rotates.
-- **Perennial integration** -- perennial crops anchor the system while annual rotation occurs around them.
-- **Minimal tillage** -- rotation is designed for no-till or reduced-till systems.
-- **Guild integration** -- rotation planning should account for [[guild-design-methods]] and companion relationships.
-
-## See Also
-
-- [[soil-nutrient-cycling]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[legume-nitrogen-fixation-and-green-manure]]
-- [[permaculture-composting]]

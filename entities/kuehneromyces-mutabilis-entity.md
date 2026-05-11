@@ -59,9 +59,9 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 ## Distribution and Habitat
 
 - **Geographic range:** Widely distributed across Europe, Asia (including Japan, Korea, China), and North America. Also reported from parts of South America and Australasia (likely introduced).
-- **Habitat:** Saprotrophic on dead or dying hardwood, especially birch (Betula spp.), beech (Fagus sylvatica), oak (Quercus spp.), alder (Alnus spp.), and elm (Ulmus spp.). Occasionally found on conifer stumps.
+- **Habitat:** Saprotrophic on dead or dying hardwood, especially birch (Betula spp.), beech ([[fagus-sylvatica]]), oak (Quercus spp.), alder (Alnus spp.), and elm (Ulmus spp.). Occasionally found on conifer stumps.
 - **Substrate:** Dead trunks, stumps, branches, and fallen logs; prefers well-decayed wood
-- **Fruiting season:** Autumn through winter (October–March in temperate regions), often fruiting prolifically during cold snaps and light freezes when temperatures range from 2–10°C
+- **Fruiting season:** Autumn through winter (October–March in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]), often fruiting prolifically during cold snaps and light freezes when temperatures range from 2–10°C
 - **Growth habit:** Caespitose (growing in dense clusters), often forming large overlapping bouquets on a single log
 - **Ecology:** Primary wood decomposer; contributes significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in temperate forest ecosystems during cold months
 
@@ -72,9 +72,9 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 - **[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:**
   - Polysaccharides with reported immunomodulatory and antitumor activity
   - Ergothioneine (antioxidant amino acid derivative)
-  - Phenolic compounds with antioxidant capacity
+  - [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant capacity
   - Lovastatin detected in some analyses (cholesterol-lowering statin)
-- **Toxicology concern:** Must be carefully distinguished from Galerina marginata (deadly galerina), which shares the same habitat (dead wood, clustered growth) and similar brown spores. G. marginata contains deadly amatoxins (α-amanitin, β-amanitin) identical to those in Amanita phalloides.
+- **Toxicology concern:** Must be carefully distinguished from [[galerina-marginata]] (deadly galerina), which shares the same habitat (dead wood, clustered growth) and similar brown spores. G. marginata contains deadly amatoxins (α-amanitin, β-amanitin) identical to those in [[amanita-phalloides]].
 - **Key safety distinctions from G. marginata:**
   - K. mutabilis has a distinct hygrophanous two-toned cap; G. marginata does not
   - K. mutabilis has a well-developed ring; G. marginata has a fragile or absent ring
@@ -86,40 +86,5 @@ Kuehneromyces mutabilis, commonly known as the velvet foot, velvet shank, or bro
 | Species | Distinguishing Features |
 |---------|----------------------|
 | Galerina marginata | Similar habitat and cluster habit, but lacks hygrophanous two-toned cap, has thinner ring, contains deadly amatoxins — most dangerous lookalike |
-| Pholiota squarrosa | Has conspicuous erect scales on cap and stem, grows at base of living trees, not on dead wood; also edible when parboiled |
+| [[pholiota-squarrosa]] | Has conspicuous erect scales on cap and stem, grows at base of living trees, not on dead wood; also edible when parboiled |
 | Kuehneromyces lignicola | Very similar but found on conifer wood; microscopically distinguished by spore size and cystidia shape |
-| Gymnopilus penetrans | Orange-brown spore print, bitter taste, grows on conifer debris |
-
-## Historical Context
-
-- First described by Christian Hendrik Persoon in 1796 as Agaricus mutabilis.
-- Transferred to Pholiota by Quélet in 1872, where it remained for decades.
-- Rolf Singer and Alexander H. Smith erected the genus Kuehneromyces in 1946, named in honor of the German mycologist Robert Kühner (1903–1996), who made major contributions to agaric systematics and microscopy.
-- The species has been collected and eaten in Central Europe for centuries; it appears in several traditional European mushroom guidebooks dating to the 19th century.
-- In Japan, cultivation was developed in the 1970s–1980s as part of a broader program to diversify commercial mushroom species beyond shiitake and enokitake.
-
-## Cultivation Notes
-
-- K. mutabilis is commercially cultivated in Japan (where it is called "krok") and in some European mushroom farms.
-- Substrate: Supplemented hardwood sawdust (especially birch or beech) with wheat bran at 10–20% supplementation rate.
-- Spawn: Grain spawn (rye or millet) is standard; inoculation rates of 5–10% wet weight.
-- Fruiting conditions: Cold-temperature fruiting species; requires a cold shock (drop to 8–12°C) for [[chen-maitake-primordia-initiation-fruiting]]. Humidity 85–95%, moderate fresh air exchange.
-- [[stamets-biological-efficiency-yield]]: 50–80% on [[oyster-mushroom-supplemented-sawdust-blocks]], comparable to oyster mushrooms.
-- One of the few cultivated species that reliably fruits during winter months, making it valuable for year-round production.
-- Contamination resistance is moderate; Trichoderma and Coprinus are common competitor contaminants on supplemented sawdust blocks.
-- Harvest window is approximately 7–10 days after primordia appear; mushrooms should be picked before the cap fully expands for best texture.
-
-## Conservation Status
-
-- Not considered threatened; common and widespread throughout its range.
-- Populations may be locally affected by removal of dead wood from managed forests (sanitation logging practices that reduce dead wood habitat).
-
-## See Also
-
-- [[lupinus-mutabilis]]
-
-- kuehneromyces mutabilis entity
-- [[flammulina-velutipes]] — enokitake, a similar cold-weather cluster-forming edible
-- [[pleurotus-ostreatus]] — oyster mushroom, shares similar dead-wood saprotrophic niche
-
-See also: [[mushroom-cultivation-fundamentals]]

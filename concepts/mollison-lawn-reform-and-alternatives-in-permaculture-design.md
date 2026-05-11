@@ -1,5 +1,5 @@
 ---
-title: mollison lawn reform and alternatives in permaculture design and Alternatives in permaculture-design
+title: Mollison Lawn Reform And Alternatives In Permaculture Design
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,22 +10,23 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Lawn Reform and Alternatives in [[bill-mollison]]'s *Permaculture: A Designers' Manual* contains one of the
-most thorough critiques of lawn culture in the design literature. In
+most thorough critiques of [[fukuoka-road-lawn-culture]] in the design literature. In
 Section 12.12, "The Lawn," Mollison documents the enormous
 environmental cost of ornamental lawns and proposes permaculture
 alternatives that convert wasted resources into food, habitat, and
-ecological function.
+[[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]].
 
 ## The Scale of Lawn Culture
 
 Mollison traces the development of lawns from short-cropped vistas
 maintained by geese and sheep on rural estates in [[mollison-designers-cool-humid-climate-design-overview]] climates.
-A 1897 USDA Yearbook photograph shows a flock of sheep grazing in
+A 1897 USDA Yearbook photograph shows a flock of [[permaculture-designers-manual-sheep-grazing]] in
 Central Park, New York, described as "the lawn mowers or turf makers"
 of the park.
 
@@ -71,7 +72,7 @@ same resources. World famine could be totally relieved if we devoted
 the resources of lawn culture to food culture in poor areas.
 
 He states: "We can clearly see the lawn as the world's third
-agriculture, after food gardens and farms. The lawn cultures of
+agriculture, after food [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]]. The lawn cultures of
 affluent nations use more water, fertiliser, fossil fuels, biocides,
 and person-hours than either gardens or the formal broadscale
 agriculture of that country."
@@ -87,61 +88,3 @@ Mollison provides specific examples:
 
 - **Molokai, Hawaii**: Golf courses near resort hotels cost an
   estimated $400,000 annually in maintenance, interest on capital, and
-  repairs to pumps, water systems, and turf areas. This exceeds the
-  annual spending on food gardens for the entire island.
-
-- **Massachusetts, Connecticut, Kentucky**: Small farms are being
-  converted to lawn systems by city owners. Average suburban lawn
-  areas are 650-900 square metres with yearly maintenance costs of
-  about $30 per square metre.
-
-- **Canary Islands**: Resort hotels with lawns, swimming pools, and
-  irrigated aesthetic gardens have dried up productive small farm
-  economies, leading to contemplation of atomic power for creating
-  fresh water from seawater.
-
-## Mollison's Proposal: Tax Lawns
-
-Mollison proposes taxing lawns at $5 per square metre for both public
-and private lawns, updated annually, until all but useful lawns are
-eliminated. Exemptions would include:
-
-- Non-mown swards grazed by productive animals
-- Short natural turf produced by Phyla (Lippia) nodosa or chamomile
-- Hand-mown areas using no water or biocides
-
-## Permaculture Alternatives to Lawns
-
-Mollison identifies several permaculture businesses and design
-approaches for lawn reform:
-
-- **Natural [[permaculture-plants-food-forest-ground-covers-bamboos]]**: Non-irrigated ground covers that require
-  no mowing, fertiliser, or water beyond natural rainfall.
-
-- **Berry and smallfruit shrubberies**: Salal, blueberry, and
-  cranberry plantings that produce food while occupying the same
-  space as lawns.
-
-- **Flowering meadows**: Native bulbs and perennials that provide
-  habitat for pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] while requiring
-  minimal maintenance.
-
-- **Copses of small trees**: Miniature woodlots that produce fuel,
-  mulch, and wildlife habitat.
-
-- **Ponds and marsh areas**: Water features that support aquatic life,
-  provide irrigation storage, and create microclimate benefits.
-
-- **Rock gardens**: Specialty gardens of perennials suited to local
-  conditions.
-
-- **Vegetable plots**: Food production is slowly becoming
-  respectable as values change from the production of waste to the
-  production of food for the home.
-
-## The Emerging Ethic
-
-- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
-- permaculture-designers-manual-grazing-animals
-## See Also
-- [[permaculture-design]]

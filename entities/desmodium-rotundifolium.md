@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Desmodium rotundifolium, commonly known as roundleaf ticktrefoil or prostrate ticktrefoil, is a perennial herbaceous legume native to eastern North America. It is a low-growing, trailing plant in the Fabaceae family recognized for its rounded leaflets and sticky seed pods that cling to passing animals.
+Desmodium rotundifolium, commonly known as roundleaf ticktrefoil or prostrate ticktrefoil, is a perennial herbaceous legume native to [[polypore-fungi-eastern-north-america]]. It is a low-growing, trailing plant in the Fabaceae family recognized for its rounded leaflets and sticky seed pods that cling to passing animals.
 
 The species is an important component of oak savanna, woodland edge, and open forest communities throughout the central and southeastern United States. Its prostrate growth habit makes it an effective groundcover, while its nitrogen-fixing root nodules contribute to soil fertility in forest and savanna ecosystems.
 
@@ -27,15 +27,15 @@ Roundleaf ticktrefoil is valued in native habitat restorations for wildlife food
 
 ## Taxonomy and Morphology
 
-Desmodium rotundifolium DC. was described by Augustin Pyramus de Candolle in the early nineteenth century. It belongs to the family Fabaceae, subfamily Faboideae, and tribe Desmodieae.
+Desmodium rotundifolium DC. was described by Augustin Pyramus de Candolle in the early [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. It belongs to the family Fabaceae, subfamily Faboideae, and tribe Desmodieae.
 
-The genus Desmodium contains over 300 species distributed in tropical and temperate regions worldwide. Approximately 25 species are native to North America, with several occurring in eastern deciduous forests.
+The genus Desmodium contains over 300 species distributed in tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. Approximately 25 species are native to North America, with several occurring in eastern deciduous forests.
 
 Roundleaf ticktrefoil is a prostrate to ascending perennial herb with trailing stems 30 to 100 centimeters long. Stems root at the nodes where they contact the soil, forming dense mats of vegetation in favorable sites.
 
 Leaves are trifoliolate with broadly ovate to nearly circular leaflets 3 to 8 centimeters wide. The terminal leaflet is the largest, and all leaflets have rounded bases and short pointed tips. Petioles are slender and 3 to 8 centimeters long.
 
-The upper leaf surface is medium green and nearly glabrous, while the lower surface is lighter green with scattered hairs along the veins. Stipules are small, lanceolate, and caducous, falling early in the growing season.
+The upper leaf surface is medium green and nearly glabrous, while the lower surface is lighter green with scattered hairs along the veins. Stipules are small, lanceolate, and caducous, falling early in [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Flowers are borne in axillary racemes on short peduncles arising from the leaf axils. Each raceme contains 5 to 15 flowers with papilionaceous corollas approximately 8 to 12 millimeters long.
 
@@ -55,9 +55,9 @@ Roundleaf ticktrefoil is commonly found on well-drained loam or sandy-loam soils
 
 Elevation ranges from near sea level in the Atlantic coastal plain to approximately 800 meters in the southern Appalachians. It is most characteristic of the Interior Low Plateau, Ozark Plateau, and Ridge and Valley provinces.
 
-In forest communities, roundleaf ticktrefoil is a component of the herbaceous understory beneath oak, hickory, and pine canopies. It often grows alongside other woodland legumes such as Amphicarpaea bracteata and Vicia spp.
+In forest communities, roundleaf ticktrefoil is a component of the herbaceous understory beneath oak, hickory, and pine canopies. It often grows alongside other woodland legumes such as [[amphicarpaea-bracteata]] and Vicia spp.
 
-The species shows moderate drought tolerance once established, though prolonged dry periods can cause partial senescence of trailing stems. It recovers quickly with resumed rainfall, producing new growth from rooted nodes and the crown.
+The species shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, though prolonged dry periods can cause partial senescence of trailing stems. It recovers quickly with resumed rainfall, producing new growth from rooted nodes and the crown.
 
 Fire response is generally positive in savanna and open woodland settings. Plants resprout from the root crown and rooted stem nodes following low-intensity prescribed burns, and post-fire conditions often favor increased flowering and seed production.
 
@@ -88,12 +88,3 @@ The species has been investigated for use in agroforestry systems as an understo
 ## See Also
 
 - [[desmodium-canadense]]
-- [[desmodium-paniculatum]]
-- [[amphicarpaea-bracteata]]
-- [[robinia-pseudoacacia]]
-- [[baptisia-australis]]
-- [[lespedeza-cuneata]]
-- [[lespedeza-capitata]]
-- [[vicia-cracca]]
-- [[trifolium-pratense]]
-- [[medicago-sativa]]

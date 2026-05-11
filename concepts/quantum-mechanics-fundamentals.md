@@ -1,5 +1,5 @@
 ---
-title: [[tryptamines-and-quantum-mechanics]] Fundamentals
+title: Quantum Mechanics Fundamentals
 type: concept
 category: physics
 related:
@@ -88,58 +88,3 @@ The WKB approximation treats nearly-classical systems; variational
 methods provide upper bounds on ground-state energies.
 
 ## Entanglement and Bell's Theorem
-
-Two particles are entangled when their joint state cannot be factored:
-|Ψ⟩ = (1/√2)(|00⟩ + |11⟩). Measurement of one determines the other
-instantly — "spooky action at a distance" (Einstein). Bell's theorem
-(1964) proved no local hidden-variable theory reproduces all QM
-predictions. Experimental violations (Aspect 1982; Nobel Prize 2022)
-confirmed entanglement as genuine, now a resource for quantum
-cryptography, teleportation, and computing.
-
-## Mathematical Formalism
-
-Quantum mechanics operates on Hilbert spaces — complete inner-product
-vector spaces over ℂ. Observables are Hermitian operators (Â = Â†)
-with real eigenvalues. The commutator [Â,B̂] = ÂB̂ − B̂Â determines
-simultaneous measurability. The density operator ρ̂ describes mixed
-states: Tr(ρ̂) = 1, with ρ̂² = ρ̂ for pure states and Tr(ρ̂²) < 1
-for mixed states. The spectral theorem guarantees eigenfunction
-expansions for Hermitian operators.
-
-## Interpretations
-
-- **Copenhagen** (Bohr, Heisenberg): Wavefunction collapses upon
-  measurement; dominant practical interpretation.
-- **Many-worlds** (Everett, 1957): Universal wavefunction never
-  collapses; all outcomes realized in decoherent branches.
-- **Pilot-wave / de Broglie–Bohm**: Deterministic particle trajectories
-  guided by ψ; nonlocal but recovers standard predictions.
-- **Decoherence** (Zurek): Environmental interaction suppresses
-  superpositions, explaining the quantum-to-classical transition.
-
-## Key Experimental Confirmations
-
-- **Photoelectric effect** (Einstein, 1905): Electron KE depends on
-  light frequency, not intensity — confirming photons (E = hν).
-- **Compton scattering** (1923): Wavelength shift Δλ = (h/m_e c)(1 − cos θ)
-  confirms photon momentum p = h/λ.
-- **Double-slit experiment** (Davisson–Germer 1927): Individual particles
-  build interference patterns — direct evidence of wave-particle duality.
-- **Stern–Gerlach experiment** (1922): Discrete atomic deflections in a
-  magnetic field demonstrate spatial quantization and spin-½.
-
-## Applications
-
-- **Atomic/molecular physics**: Electronic structure, spectroscopy,
-  chemical bonding (MO and VB theory).
-- **Solid-state physics**: Band theory explains conductors, semiconductors,
-  insulators — the foundation of modern electronics.
-- **Quantum computing**: Qubits exploit superposition and entanglement;
-  Shor's algorithm (factoring) and Grover's search offer speedups.
-- **Quantum optics**: Single-photon sources, squeezed light, QKD (BB84),
-
-## See Also
-- [[stereochemistry-and-chirality]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- [[teaming-with-microbes-soil-food-web-overview]]

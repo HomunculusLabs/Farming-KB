@@ -1,18 +1,19 @@
 ---
-title: "fukuoka textdoc wholistic perception mt fuji metaphor and Mt. Fuji Metaphor"
+title: Fukuoka Textdoc Wholistic Perception Mt Fuji Metaphor
 created: 2026-04-28
 tags: [fukuoka, natural-farming, epistemology, wholistic-perception, zen,
 nature-philosophy, nondiscrimination]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Wholistic Perception and Mt. Fuji Metaphor
 
-One of Masanobu Fukuoka's most powerful philosophical arguments against the
+One of [[masanobu-fukuoka]]'s most powerful philosophical arguments against the
 [[fukuoka-limits-scientific-method-agriculture]] is encapsulated in his Mount Fuji metaphor. This metaphor
 illustrates the fundamental difference between analytic knowledge, which breaks
 nature into parts, and wholistic perception, which grasps nature as an
@@ -63,7 +64,7 @@ form. Nature should not be taken apart. The moment it is broken down, parts
 cease being parts and the whole is no longer a whole. When collected together,
 all the parts do not make a whole.
 
-The instant he begins to ponder over the factors of crop cultivation and growth,
+The instant he begins to ponder over the factors of [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] and growth,
 man loses sight of the crop as a whole entity. To produce a crop, he must
 comprehend the true meaning of a plant growing on the earth's surface, and the
 goal of production must derive from a clear vision of unity with the crop.
@@ -87,59 +88,3 @@ speaking from raw personal experience of things grounded solidly in reality, not
 borrowing philosophical terms to spout empty theories.
 
 ## The Limits of Specialized Knowledge
-
-In nature, a whole encloses the parts, and a yet larger whole encloses the whole
-enclosing the parts. By enlarging our field of view, what is thought of as a
-whole becomes nothing more than one part of a larger whole, in a concentric
-series that continues on to infinity.
-
-Fukuoka illustrates this with nutritional science. Nutritional principles that
-work for German beer drinkers do not necessarily apply to the people of Africa.
-The same radishes will be absorbed very differently by the irritable city
-dweller afflicted by smog and noise pollution as compared with the tropical
-African who munches on his after a meal of wild game. Progress in medicine has
-brought dietary therapies for every conceivable condition, but what happens when
-a person has problems with two or three organs? The poor fellow, unable to eat
-anything, could end up as thin as a dried sardine.
-
-## Cruder But Complete Knowledge
-
-In an age before nutritional science, all people knew was that to stay healthy,
-one should eat in moderation. Which has broader application? Modern nutritional
-science with its specialized research or traditional admonitions for moderation
-at mealtime? Modern science may appear broader because it considers all cases,
-yet it forbids first one thing then another, so people keep running into walls.
-
-Cruder but complete, the simple knowledge that one should eat with moderation
-applies to all people and thus works better. This is so because knowledge that
-is less discriminating has wider application. The principle extends beyond
-nutrition to all of [[fukuoka-critique-scientific-agriculture-civilization]]: the more discriminating and
-specialized the knowledge, the narrower its applicability and the more it
-contradicts itself.
-
-## The Perfection of Nature
-
-Understanding the degree to which human knowledge is imperfect and inadequate
-helps one appreciate just how perfect nature is. Scientists of all ages have
-sensed with increasing clarity the frailty and insignificance of human
-knowledge. No matter how unlimited his knowledge may appear, there are hurdles
-over which man cannot pass.
-
-If human knowledge is unenlightened and imperfect, then the nature perceived and
-built up by this knowledge must in turn always be imperfect. And paradoxically,
-the very incompleteness of the nature conceived by human knowledge, a nature
-that is but a pale shadow of true nature, is proof that the nature from which
-science derived its image is whole and complete.
-
-The only direct means for confirming the perfection of nature is for each
-individual to come into immediate contact with the reality of nature and see for
-himself. [[comparison-natural-farming-vs-permaculture]] begins with the assumption that nature is perfect.
-Natural farming admits to the existence neither of insect pests nor of
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If a pest outbreak occurs, one reflects that this was
-probably triggered by some human mistake.
-
-## See Also
-
-- [[fukuoka-nature-perfect-imperfect]]
-- [[fukuoka-nature-transcends-human-knowledge]]
-- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]

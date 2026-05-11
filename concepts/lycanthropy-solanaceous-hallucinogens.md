@@ -1,5 +1,5 @@
 ---
-title: "Lycanthropy and Solanaceous Hallucinogens"
+title: Lycanthropy Solanaceous Hallucinogens
 created: 2026-04-28
 tags: [ethnobotany, toxicology, solanaceae, witchcraft, history]
 date: 2026-04-25
@@ -20,8 +20,8 @@ between solanaceous intoxication and animal transformation beliefs
 provides a pharmacological explanation for one of the most persistent
 folk beliefs in European history. Harner's hypothesis was part of a
 broader scholarly effort to identify the botanical and chemical
-identities of the psychoactive substances used in [[harner-european-witchcraft-hallucinogens]]
-practices from the late medieval period through the early modern era.
+identities of the [[cultural-evolution-and-psychoactive-substances]] used in [[harner-european-witchcraft-hallucinogens]]
+practices from the late medieval period through the early [[mycology-modern-era]].
 
 ## Historical Accounts of Lycanthropy
 
@@ -88,54 +88,3 @@ restrained from biting a woman whose neck appeared to him as that
 of a deer. Hesse (1946) noted that solanaceae psychosis
 characteristically includes the sensation of growing feathers and
 hair due to paresthesia, completing the illusion of animal
-metamorphosis. This paraesthesic phenomenon, the physical sensation
-of bodily transformation, provided convincing somatic confirmation
-of the hallucinatory experience.
-
-## The Wolf-Skin Girdle as Suggestive Device
-
-Historical accounts consistently mention the use of a wolf-skin
-girdle in combination with the ointment. Peter Stump, executed for
-werewolfism in 1590, confessed that "the demon has bestowed a
-girdle upon him, with which he girt himself when the fit came upon
-him to shift his shape to a wolf." Verstegan (1634) reported that
-werewolves, having anointed their bodies with an ointment made
-"by the instinct of the Divell" and putting on an enchanted girdle,
-"seeme as Wolues, but to their owne thinking have both the Shape,
-and Nature of Wolues." Boguet confirmed that the ointment and the
-wolf skin were used together, and that imprisoned subjects claimed
-they had lost the power to transform specifically because they no
-longer had access to their ointment.
-
-## Confessions and Trial Records
-
-The trial records of accused werewolves provide remarkably consistent
-accounts of ointment use combined with animal skins or girdles.
-Jacques Boequet, Francoise Secretain, Clauda Jamquillaume, Clauda
-Jamprost, Thievenne Paget, Pierre Gandillon, and George Gandillon
-all confessed to rubbing themselves with an ointment before Satan
-clothed them in a wolf's skin, after which they went on all fours
-and ran about the countryside. Del Rio (1606) confirmed that the
-demon would "fasten most closely the real skin of a beast around
-their bodies," concealing the wolf skin in the hollow trunk of a
-tree between uses. The consistency of these confessions across
-multiple independent trials, despite being extracted under duress,
-suggests a genuine practice underlying the werewolf belief.
-
-## Pharmacological Mechanism
-
-The tropane alkaloids atropine, hyoscyamine, and scopolamine are
-competitive antagonists of muscarinic acetylcholine receptors. Their
-effects include anticholinergic toxidrome: dry mouth, dilated pupils,
-blurred vision, tachycardia, urinary retention, and altered mental
-status ranging from agitation to frank delirium. Paresthesia, the
-sensation of tingling, crawling, or growing hair on the skin, is a
-recognized feature of solanaceous poisoning. When combined with
-powerful suggestive cues (wolf skin, nocturnal setting, cultural
-expectation of transformation), these physiological effects could
-produce a convincing subjective experience of becoming an animal.
-
-## See Also
-
-- [[ergot-fungus]] for other European hallucinogenic fungi
-- [[salvinorin-pharmacology]] for transdermal preparations

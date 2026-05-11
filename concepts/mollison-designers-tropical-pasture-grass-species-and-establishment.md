@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,51 +87,3 @@ Easily grazed out, the sorghums provide birdseed, forage, and help
 control weeds. They are of particular use in early establishment.
 
 ## Establishment Procedure
-
-Establishing [[savory-perennial-grass-and-desertification]] swards on weedy or eroded areas is a one
-to three year process:
-
-1. Choose a land-forming system such as swaling, interception banks,
-   or pitting. Try to establish some dams for irrigation above good
-   soil types.
-2. Sow a pioneer grass such as molasses grass, Sorghum almum, or
-   silk sorghum mixed with sawdust into slashed weeds, or drill
-   selected grass and legumes after slashing.
-3. Burn molasses grass, or drill selected perennials and broadcast
-   Sorghum almum.
-4. Concurrently with earth-forming, plant a mixture of leguminous
-   trees along swales, through the area to be grassed at 30-100 metre
-   strip spacing. Allow 2-3 years to grow with light grazing to year
-   3.
-5. Commence managed rotational grazing, and drill or broadcast forage
-   legumes into established grasses. About 15-18 fields are necessary
-   for rotation.
-
-On rocky knolls, leguminous tree pioneers followed by kikuyu sward
-may succeed. Early furrows of banna grass provide erosion and wind
-control (at 30 m spacing) until tree legumes establish. At every
-stage, soil analysis and minimal mineral fertiliser amendments may be
-necessary, and with intensive grazing, sulphur and potash dressings
-are desirable.
-
-## Rotational Grazing Benefits
-
-On grazing rotation and electric fencing, 26 paddocks grazed in a 21
-day rotation (average field of 1.6 ha each with a trough water-point
-for cattle) have demonstrated significant productivity gains. Combined
-with water reticulation, storage, and recycling, grazing rotation
-enables production increases while reducing pasture area and water
-use.
-
-## Related
-
-- mollison-designers-succession-and-system-establishment
-
-- mollison-pasture-legumes-and-forage-legumes-of-the-tropics
-  - Legume species for tropical pastures
-- mollison-forage-trees-in-livestock-systems - Tree fodder systems
-- mollison-mixed-livestock-rotation-systems - Rotational grazing
-  systems
-- [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]]
-- [[mollison-designers-high-island-and-tropical-valley-design]]
-- [[mollison-designers-trout-and-cool-water-aquaculture-species]]

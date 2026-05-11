@@ -3,6 +3,7 @@ title: "Mycopesticides: Fungi as Natural mushroom-pests-insect-control-stamets"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [fungi, mycelium]
@@ -13,13 +14,13 @@ tags: [fungi, mycelium]
 mycopesticides-entomopathogenic-fungi began
 when his 1910 farmhouse, built in an old-growth forest clearing, was
 under attack by carpenter ants (Camponotus modoc). Wood-digesting fungi
-from an adjacent artist conk (Ganoderma applanatum) had softened the
+from an adjacent artist conk ([[ganoderma-applanatum]]) had softened the
 floor joists, inviting the insect invasion.
 
-He obtained a strain of Metarhizium anisopliae, a green mold fungus
+He obtained a strain of [[metarhizium-anisopliae]], a [[growing-gourmet-trichoderma-green-mold-management]] fungus
 used to kill termites. After several transfers in culture, he noticed
 an unusual whitish growth sector diverging from the green mold
-colonies. He grew this presporulating mycelium on sterilized rice and
+colonies. He grew this [[presporulating-mycelium-trojan-horse-mycopesticides]] on sterilized rice and
 placed it near the ants' foraging paths.
 
 The result was extraordinary: carpenter ants actively picked up the
@@ -48,7 +49,7 @@ Chemical pesticides, especially organophosphates, pose cascading
 health hazards:
 
 - Harm to nontargeted organisms including [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- Water pollution from agricultural runoff
+- Water pollution from [[mycofiltration-of-agricultural-runoff]]
 - Bioaccumulation in human fatty tissues and bloodstream
 - Most citizens carry dozens of industrial toxins in their blood
 - Pesticides permeate the entire food chain
@@ -72,7 +73,7 @@ insect species.
 
 ## Historical Context
 
-Agustino Bassi noticed in 1834 that spores of Beauveria bassiana
+Agustino Bassi noticed in 1834 that spores of [[beauveria-bassiana]]
 caused muscardine disease, imperiling the international silk trade.
 He is credited with conceiving "germ theory" well before Louis
 Pasteur's work in 1858. Since the 1990s, several patents have been
@@ -86,22 +87,3 @@ because parasitized insect carcasses become moldy from repellent
 spores, warding off subsequent invasions. Once a wood structure is
 treated, the moldy fungi provide a resident protective shield --
 essentially a biological immune system for buildings.
-
-## Implications for Agriculture
-
-The mycopesticide approach has vast potential for:
-
-- Protecting crops without chemical residues
-- Controlling termites in structures
-- Managing forest insect pests
-- Reducing pesticide runoff into watersheds
-- Protecting pollinator populations from collateral damage
-
-## See Also
-
-- [[woodlovers-mycelium-running-pathway-technique]] [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] with fungi -- existing page on pest control
-- [[cordyceps-and-entomopathogenic-fungi]] -- Cordyceps biology
-- [[medicinal-mushrooms]] -- medicinal properties
-- [[mycelium-running-symbiotic-fungi-relationships]] -- [[gadd-fungal-ecology-endophytes]]
-
-- [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]

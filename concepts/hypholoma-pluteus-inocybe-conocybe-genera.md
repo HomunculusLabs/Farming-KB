@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - '/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md'
 type: concept
 ---
@@ -87,23 +88,3 @@ Conocybe contains 4 documented neurotropic species:
 
 - [[neurotropic-fungi-classification]]
 - [[gymnopilus-genus-neurotropic-species]]
-- [[copelandia-panaeolus-genera]]
-
-## Merged: Minor Psilocybin Genera - Inocybe and Pluteus
-
-## The Genus Pluteus
-
-Pluteus features primarily wood-decomposing members with caps convex to
-plane, gills pink and free at maturity, and a ringless stem. Most
-species are small to midsized with pinkish to flesh-colored spore
-deposits. Only one active species is detailed by Stamets: Pluteus
-salicinus. Three others have shown activity: P. villosus, P. cyanopus,
-and P. glaucus (from Brazil, with up to 0.28% psilocybin and 0.12%
-psilocin).
-
-### [[stamets-psilocybin-genera-beyond-psilocybe]]
-- hypholoma pluteus inocybe conocybe genera
-## See Also
-- [[stamets-psilocybin-genera-beyond-psilocybe]]
-- hypholoma pluteus inocybe conocybe genera
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

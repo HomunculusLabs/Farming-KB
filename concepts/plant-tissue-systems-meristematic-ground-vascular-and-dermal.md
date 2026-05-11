@@ -13,7 +13,7 @@ Plants are organized into four types of tissue, each composed of specialized cel
 
 ## Meristematic Tissue
 
-Meristematic tissue is the source of all new cells. Meristematic cells are small, undifferentiated, and capable of division -- a trait most plant cells lose at maturity. They have large nuclei, small vacuoles, thin cell walls, and are closely packed together with undeveloped cytoplasm.
+Meristematic tissue is the source of all new cells. Meristematic cells are small, undifferentiated, and capable of division -- a trait most plant cells lose at maturity. They have large nuclei, small vacuoles, thin [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], and are closely packed together with undeveloped cytoplasm.
 
 ### Apical Meristems
 
@@ -46,7 +46,7 @@ The most common ground tissue cells. They have thin primary walls and large vacu
 
 ### Collenchyma Cells
 
-Form bundles and strands (the strings in celery) that provide flexible support. Lacking secondary walls and lignin, they allow plants to bend gently in wind. They are living cells that provide structural support without rigidity.
+Form bundles and strands (the strings in celery) that provide flexible support. Lacking secondary walls and lignin, they allow plants to bend gently in wind. They are living cells that provide [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] without rigidity.
 
 ### Sclerenchyma Cells
 
@@ -54,7 +54,7 @@ Develop lignified secondary walls and cannot elongate. Most die at maturity, lea
 
 ## Vascular Tissue
 
-The transport system of the plant, consisting of xylem and phloem running side by side throughout the plant, separated by the vascular cambium (lateral meristem tissue).
+The transport system of the plant, consisting of [[xylem-and-phloem-transport-systems-in-plants]] running side by side throughout the plant, separated by the vascular cambium (lateral meristem tissue).
 
 ### Xylem
 
@@ -71,8 +71,8 @@ Water moves through xylem without energy expenditure, driven by transpiration pu
 
 Transports sugars, amino acids, RNA, and other synthesized compounds. Operates bidirectionally (not simultaneously) through living sieve elements connected in vertical stacks.
 
-- **Source-to-sink movement**: Sap flows from areas of high sugar concentration (leaves in summer, roots in spring) to areas of low concentration
-- **Hydrostatic pressure**: Unlike xylem, phloem movement depends on pressure, not transpiration. Sugar loading creates osmotic pressure that pushes sap through the system
+- **Source-to-sink movement**: Sap flows from areas of high sugar concentration (leaves in summer, roots in spring) to areas of [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]
+- **Hydrostatic pressure**: Unlike xylem, phloem movement depends on pressure, not transpiration. Sugar loading creates [[fungal-fruiting-body-mechanics-osmotic-pressure]] that pushes sap through the system
 - **Companion cells**: Each sieve element pairs with a companion cell that performs functions for its missing nucleus and organelles
 
 ## Dermal Tissue
@@ -83,16 +83,7 @@ The plant's protective skin, keeping water in and defending against injury.
 
 A single layer of cells covering all plant surfaces (flowers, leaves, stems, roots, seeds). Usually transparent and lacking chloroplasts. Produces cutin, a waxy substance forming a cuticle that prevents water loss. Contains:
 
-- **Stomata**: Pores with guard cells that regulate gas exchange (CO2 in, H2O and O2 out)
+- **Stomata**: Pores with guard cells that regulate [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] (CO2 in, H2O and O2 out)
 - **Trichomes**: Hair-like structures that aid transpiration and some produce anti-herbivore compounds
 
 ### Periderm (Bark)
-
-Formed from lateral meristem cells in woody plants, replacing the epidermis on stems and roots. Contains cork cells (dead, full of suberin) that provide protection while allowing airflow.
-
-## Related Topics
-
-- [[water-pathways-through-plants]] -- how water moves through xylem
-- [[root-anatomy-structure-and-nutrient-uptake]] -- specialized dermal cells for nutrient absorption
-- [[plant-cell-membrane-transport-proteins]]
-- [[plant-micronutrients-and-their-essential-functions]]

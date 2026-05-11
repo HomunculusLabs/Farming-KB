@@ -22,11 +22,11 @@ sources:
 
 Hyoscyamus muticus, commonly known as Egyptian henbane, is a perennial or biennial herbaceous plant in the family Solanaceae. The species is notable as one of the world's principal commercial sources of the tropane alkaloids hyoscyamine and scopolamine.
 
-Native to arid and semi-arid regions of North Africa and the Middle East, Egyptian henbane has been cultivated for pharmaceutical alkaloid extraction since the mid-twentieth century. It has largely replaced European henbane (Hyoscyamus niger) in commercial cultivation due to higher alkaloid yields and greater drought tolerance.
+Native to arid and semi-arid regions of North Africa and the Middle East, Egyptian henbane has been cultivated for pharmaceutical alkaloid extraction since the mid-twentieth century. It has largely replaced European henbane ([[henbane-hyoscyamus-niger-ethnobotany]]) in commercial cultivation due to higher alkaloid yields and greater [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 All plant parts contain tropane alkaloids and are toxic if ingested. The pharmaceutical industry processes dried aerial parts and roots to isolate hyoscyamine and scopolamine for use as anticholinergic, antispasmodic, and antiemetic medications.
 
-Historical use of H. muticus in Egyptian traditional medicine included treatment of asthma, colic, and motion sickness. These applications align with the modern pharmacological understanding of tropane alkaloid activity.
+Historical use of H. muticus in Egyptian traditional medicine included treatment of asthma, colic, and [[blesching-cannabis-motion-sickness]]. These applications align with the modern pharmacological understanding of tropane alkaloid activity.
 
 ## Taxonomy and Morphology
 
@@ -38,7 +38,7 @@ Historical use of H. muticus in Egyptian traditional medicine included treatment
 - **Genus:** Hyoscyamus
 - **Species:** Hyoscyamus muticus L.
 
-The species epithet muticus means "blunt" or "short," referring to the compact growth habit relative to the taller Hyoscyamus niger. No significant taxonomic synonyms or varieties are currently recognized.
+The species epithet muticus means "blunt" or "short," referring to the [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habit relative to the taller Hyoscyamus niger. No significant taxonomic synonyms or varieties are currently recognized.
 
 Chromosomal studies confirm a diploid chromosome number of 2n = 34, consistent with other Hyoscyamus species. Interspecific hybridization with H. niger has been attempted but produces sterile offspring.
 
@@ -70,7 +70,7 @@ In its native habitat, H. muticus often colonizes disturbed sites including road
 
 Hyoscyamus muticus is propagated from seed sown directly in the field or in nursery beds for later transplanting. Seeds require light for germination and are surface-sown without covering.
 
-Optimal growing temperatures range from 20 to 30 degrees Celsius. The crop performs well in sandy loam soils with low to moderate fertility, as excessive nitrogen favors vegetative growth at the expense of alkaloid accumulation.
+Optimal growing temperatures range from 20 to 30 degrees Celsius. The crop performs well in sandy loam soils with low to moderate fertility, as excessive nitrogen favors [[cannabis-vegetative-growth-stage]] at the expense of alkaloid accumulation.
 
 Soil salinity tolerance is moderate, allowing cultivation in marginal agricultural lands. However, alkaloid biosynthesis is suppressed under severe salt stress.
 
@@ -82,36 +82,8 @@ Alkaloid yields from cultivated H. muticus typically range from 0.5 to 1.5 perce
 
 Selection programs in Egypt and India have developed high-yielding cultivars with alkaloid content exceeding 2 percent dry weight. These cultivars form the basis of commercial pharmaceutical production.
 
-Harvested material is processed by solvent extraction followed by fractional crystallization to isolate hyoscyamine and scopolamine. Modern facilities use supercritical carbon dioxide extraction for improved selectivity.
+Harvested material is processed by [[cannabis-solvent-extraction]] followed by fractional crystallization to isolate hyoscyamine and scopolamine. Modern facilities use supercritical carbon dioxide extraction for improved selectivity.
 
 ## Bioactive Compounds and Pharmacology
 
 Hyoscyamus muticus accumulates tropane alkaloids as its principal bioactive constituents. Hyoscyamine is the dominant alkaloid, typically comprising 70–90 percent of the total tropane fraction.
-
-Scopolamine (hyoscine) constitutes the remaining 10–30 percent of the tropane alkaloid pool. The scopolamine-to-hyoscyamine ratio varies with plant part, developmental stage, and environmental conditions.
-
-Minor tropane alkaloids detected include apohyoscine, norhyoscyamine, and tropine. These compounds serve as biosynthetic intermediates and occur in trace quantities.
-
-Phenolic compounds including caffeic acid derivatives and flavonoids have also been isolated. These contribute to the overall antioxidant capacity of leaf and root extracts.
-
-Pharmacologically, hyoscyamine is a competitive antagonist of muscarinic acetylcholine receptors. It produces antispasmodic, antisecretory, and mydriatic effects and is used clinically to treat gastrointestinal cramps, urinary tract spasms, and bradycardia.
-
-Hyoscyamine is converted to its racemic mixture, atropine, through base-catalyzed racemization during pharmaceutical processing. Atropine remains one of the most widely used anticholinergic drugs in emergency medicine.
-
-Scopolamine crosses the blood-brain barrier and exhibits central anticholinergic activity. It is widely used as a transdermal patch for motion sickness and postoperative nausea due to its potent antiemetic properties.
-
-Root cultures of H. muticus have been developed for in vitro alkaloid production. Hairy root cultures induced by Agrobacterium rhizogenes transformation produce alkaloid profiles comparable to intact plants and offer a sustainable alternative to field cultivation.
-
-Biotechnological approaches to enhance scopolamine production include metabolic engineering of the tropane alkaloid biosynthetic pathway. Overexpression of hyoscyamine 6-beta-hydroxylase in transgenic root cultures has increased scopolamine yields significantly.
-
-## See Also
-
-- [[atropa-belladonna]]
-- [[datura-stramonium]]
-- [[hyoscyamus-niger]]
-- [[mandragora-officinarum]]
-- [[scopolamine]]
-- [[hyoscyamine]]
-- [[atropine]]
-- [[nicotiana-rustica]]
-- [[withania-somnifera]]

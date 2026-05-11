@@ -4,7 +4,7 @@
 
 ## Overview
 
-Steve Solomon, who popularized organic gardening in the Pacific Northwest,
+Steve Solomon, who popularized [[geoff-hamilton-the-organic-gardening-companion]] in the [[psilocybin-north-america-pacific-northwest]],
 explicitly critiques the permanent mulching movement. While mulching has
 enthusiastic proponents (notably Ruth Stout), Solomon's direct experience in
 two mild climates convinced him that permanent mulching creates more problems
@@ -19,7 +19,7 @@ Mulching can succeed under specific conditions:
    populations that would otherwise build up under the mulch layer
 2. **Hot summers** that decompose the mulch rapidly, preventing excessive
    residue buildup
-3. **Abundant organic matter** — ideally alfalfa (lucerne) or other
+3. **Abundant [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]** — ideally alfalfa (lucerne) or other
    nutrient-rich material, or spoiled hay/autumn leaves fortified with COF
    seedmeals
 4. **Small gardens** where the labor of hauling bulk material is manageable
@@ -38,7 +38,7 @@ through the plant itself, not through evaporation from bare earth.
 A thick mulch layer insulates the soil, keeping it cool. In spring, when soil
 temperature determines germination speed and plant growth rate, a mulched bed
 warms significantly more slowly than a bare, tilled bed. For gardeners trying
-to maximize their growing season, this delay matters.
+to maximize their [[extending-growing-season]], this delay matters.
 
 ### 3. Nutrient Ratio Imbalance
 With permanent mulching, large quantities of leaf and straw residue decompose
@@ -70,8 +70,8 @@ like COF or poultry manure compost as fertilizer, when needed, on medium- and
 high-demand vegetables."
 
 This approach:
-- Produces higher-quality compost in controlled conditions
-- Allows precise nutrient management through COF supplementation
+- Produces higher-quality compost in [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]
+- Allows precise [[cannabis-nutrient-management]] through COF supplementation
 - Avoids the pest buildup associated with permanent surface residue
 - Requires less total bulk material hauling
 - Keeps soil warm in spring for faster growth
@@ -88,41 +88,3 @@ not make it optimal for younger, fitter gardeners serious about food production.
 ## Practical Takeaways
 
 - If you live where winters are mild (soil rarely freezes), avoid permanent
-  mulch for vegetable production
-- If you must mulch, use nutrient-rich materials and supplement with COF
-- Thin mulch is acceptable for moisture conservation around established plants
-- A one-inch (2.5 cm) dust mulch created by shallow hoeing is Solomon's
-  preferred surface treatment for moisture conservation
-- For maximum food production, compost + COF + tillage outperforms mulching
-
-## Sheet Composting vs. Heap Composting
-
-Solomon distinguishes between sheet composting (spreading materials on the
-surface) and heap composting (making piles). Sheet composting can work in
-cold-winter climates with abundant organic matter, but the decomposition
-process ties up nitrogen temporarily. During this tie-up period, the soil
-may actually become less fertile than before. Gardeners who depend on sheet
-composting alone may see disappointing results, especially with medium- and
-high-demand vegetables.
-
-Heap composting, by contrast, allows controlled C/N management, faster
-decomposition, and the production of a more consistent product. The
-resulting compost can then be applied precisely where needed, combined with
-COF for nutrient balance.
-
-## The Fertigation Alternative
-
-For gardeners who want the benefits of surface moisture management without the
-drawbacks of permanent mulch, Solomon recommends fertigation — applying liquid
-fertilizer through a watering can or drip system. Fertigation delivers moisture
-and nutrients directly to the root zone without creating the pest habitat,
-nutrient imbalance, or spring warmup delays associated with thick mulch layers.
-See [[solomon-fertigation-and-transplant-establishment]] for the full technique.
-
-## See Also
-
-- [[solomon-mulching-and-cover-cropping]]
-- [[solomon-sheet-composting-mulch-gardening]]
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
-- [[composting-science-solomon]]
-- [[solomon-soil-temperature-and-nighttime-plant-growth]]

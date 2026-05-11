@@ -1,7 +1,7 @@
 ---
-title: "fukuoka pruning cascade self perpetuating cycle: The Self-Perpetuating Cycle of Intervention"
+title: Fukuoka Pruning Cascade Self Perpetuating Cycle
 created: 2026-04-28
-tags: [fukuoka, pruning, fruit-trees, orcharding, natural-farming, intervention]
+tags: [fukuoka, pruning, fruit-trees, orcharding, [[natural-farming]], intervention]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md]
@@ -88,56 +88,10 @@ through increasingly complex pruning, he advocates starting
 over with the natural form as the model for the basic tree
 shape. If you draw a mental picture of the natural form of
 a tree and make every effort to protect the tree from the
-local environment, then it will thrive, putting out good
-fruit year after year. Pruning only creates a need for more
-pruning, but if the grower realizes that trees not in need
-of pruning also exist in this world and is determined to
-grow such trees, they will bear fruit without pruning.
 
-How much wiser and easier it is to limit oneself to
-minimal corrective pruning aimed only at bringing the tree
-closer to its natural form rather than practicing a method
-of [[holzer-fruit-growing-marginal-climates]] that requires extensive pruning each and
-every year.
-
-## Consequences for the Tree
-
-The consequences of the pruning cascade extend beyond mere
-labor requirements. Trees trapped in the cascade exhibit
-several problems. Their branches crisscross and double
-back, growing in strange, twisted shapes. Places where
-branches and leaves grow tangled become disease sites and
-draw insects. One dying branch causes other branches to
-wither and die. The confused shape results in irregular
-fruit formation, with fruit growing either too far apart
-or too close together. The tree produces a full crop only
-every other year.
-
-Fukuoka experienced this directly when he discontinued
-pruning on an established grove of Satsuma orange trees
-that had been trimmed into a wineglass shape. Rather than
-returning to a natural form, the abandoned trees became
-increasingly deformed, proving that simply stopping the
-cascade does not reverse it. A new tree must be started
-with the natural form from the beginning.
-
-## The Minimal Pruning Compromise
-
-For existing orchards, Fukuoka acknowledges that creating
-a pure natural form is not easy, and the tree may deviate
-from it if adequate attention is not given to protective
-management at the seedling stage. This can be corrected in
-part by giving the tree a modified central leader form.
-After five or six years, when the saplings have reached
-six to ten feet in height, there should be perhaps five or
-six secondary scaffold branches extending out in a spiral
-pattern at intervals of about six to twelve inches. Once
-the basic shape of the tree is set, the need for training
-and pruning diminishes. The cascade can be arrested, though
-not fully reversed, through early formative pruning.
-
-## See also
-
-[[fukuoka-textdoc-natural-form-fruit-trees]]
-[[fukuoka-argument-against-pruning]]
-[[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
+## See Also
+- [[fukuoka-textdoc-pruning-self-perpetuating-human-error]]
+- [[fukuoka-argument-against-pruning-trees-natural-growth]]
+- [[fukuoka-orchard-without-pruning]]
+- [[fukuoka-no-pruning-philosophy-fruit-trees]]
+- [[fukuoka-argument-against-pruning]]

@@ -88,28 +88,3 @@ pioneers who constitute the core of people who admitted the psychedelic
 experience into their lives and continued to grapple with it.
 
 ## From Foraging to Symbiosis
-
-McKenna frames the entire history as one of deepening relationship: from
-chance foraging on the grasslands, through ritualized religious use, to
-deliberate cultivation. Whatever the human interaction with Stropharia
-cubensis is called, it has not been a static relationship, but rather a
-dynamic through which humanity has been bootstrapped to higher and higher
-cultural levels and levels of individual self-awareness. Each stage
-represents a more conscious and intentional engagement with what he calls
-the [vegetable mind of the planet.
-
-## Implications for the Archaic Revival
-
-McKenna views the cultivation movement as a harbinger of the [Archaic Revival. The democratization of psilocybin access represented a partial
-restoration of the ancient symbiotic relationship between humans and visionary
-plants that [[mckenna-dominator-culture-and-suppression-of-ecstasy]] had systematically severed. For McKenna, this
-quiet community of cultivators and inner pioneers constitutes the cultural
-infrastructure through which the [vegetable mind of the planet continues to communicate with humanity.
-
-## See Also
-
-- [[mckenna-new-world-mushroom-rediscovery]]
-- [[mckenna-psilocybin-three-levels-of-evolution]]
-- [[leary-harvard-psilocybin-project]]
-- [[mckenna-symbiosis-and-human-plant-relationships]]
-- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]

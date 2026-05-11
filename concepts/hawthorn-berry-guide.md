@@ -13,10 +13,10 @@ sources: []
 
 Hawthorn is a genus of deciduous trees and large shrubs in the rose family,
 widely distributed across North America, Europe, and Asia. Revered as a
-heart tonic in European [[herbal-medicine|herbal medicine]] for centuries (referenced by
+heart tonic in European [[herbal-medicine]] for centuries (referenced by
 Dioscorides in the 1st century AD), hawthorn berries, leaves, and flowers
-are among the most important cardiovascular herbs in modern herbal practice. (see [[valerian-growing-guide]]).
-The berries are also used in preserves, wines, and vinegars. (see [[echinacea-growing-guide]]).
+are among the most important cardiovascular herbs in modern herbal practice.
+The berries are also used in preserves, wines, and vinegars.
 
 ## Botanical Profile
 
@@ -29,16 +29,16 @@ The berries are also used in preserves, wines, and vinegars. (see [[echinacea-gr
 - Fruit: Red to dark red berries (haws), September to October
 
 Common species for cultivation:
-- Crataegus monogyna (European hawthorn, one-seed hawthorn): Traditional
+- [[crataegus-monogyna]] (European hawthorn, one-seed hawthorn): Traditional
   medicinal species, widely naturalized in North America
 - C. oxyacantha (English hawthorn): Closely related to C. monogyna, similar
-  medicinal properties
+  [[panax-ginseng]]
 - C. laevigata (Midland hawthorn): European species, often used in herbal
   medicine
 - C. phaenopyrum (Washington hawthorn): North American native, ornamental,
   good fruit production
 - C. douglasii (Douglas hawthorn): Western North American native
-- C. crus-galli (Cockspur hawthorn): Eastern North America, large thorns
+- C. crus-galli (Cockspur hawthorn): [[polypore-fungi-eastern-north-america]], large thorns
 
 ## Medicinal Uses
 
@@ -72,7 +72,7 @@ Important considerations:
 - Do not self-treat serious heart conditions. Hawthorn is supportive, not a
   replacement for medical care.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tincture: Dried berry and leaf/flower tincture (1:5 in 45-60% alcohol),
   30-60 drops 2-3 times daily
 - Decoction: Simmer 1-2 teaspoons dried berries in 8 oz water for 15-20
@@ -87,7 +87,7 @@ Preparation methods:
 Hawthorns are adaptable and hardy. They prefer full sun but tolerate partial
 shade. Soil requirements are minimal -- they grow in clay, loam, sandy, and
 even rocky soils. Best growth occurs in deep, well-drained loam with a pH
-of 6.0-7.5. Excellent drought tolerance once established. Wind-resistant
+of 6.0-7.5. Excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. Wind-resistant
 and suitable for hedgerows and windbreaks.
 
 ### Planting
@@ -147,4 +147,3 @@ Hawthorn vinegar:
 - Cover with apple cider vinegar
 - Steep 4-6 weeks in a cool, dark place
 - Strain and bottle; use as a daily tonic (1 tablespoon in water)
-

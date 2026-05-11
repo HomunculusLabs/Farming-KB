@@ -88,11 +88,3 @@ component of the eastern hardwood timber resource.
 ## See Also
 
 - [[acer-pensylvanicum]]
-
-- [[acer-nigrum]]
-
-- [[quercus-rubra]]
-- [[betula-papyrifera]]
-- [[populus-tremuloides]]
-- [[juglans-nigra]]
-- [[pinus-sylvestris]]

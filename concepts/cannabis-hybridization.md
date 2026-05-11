@@ -3,6 +3,7 @@ title: Cannabis Hybridization
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -25,7 +26,7 @@ asexually (via cloning) but fail to reproduce those characters
 completely or reliably when reproduced sexually from seed. Hybrid
 cultivars are developed by creating or obtaining inbred lines, coupling
 selection with inbreeding for homozygosity, evaluating inbreds for
-combining ability, and multiplying selected lines for hybrid seed
+[[cervantes-progeny-testing-combining-ability]], and multiplying selected lines for hybrid seed
 production.
 
 ## Types of Hybrid Varieties
@@ -67,7 +68,7 @@ conditions, making F1 hybrids more resilient.
 
 ## Commercial Significance of F1 Hybrids
 
-F1 [[cervantes-seed-production-storage]] offers strategic advantages for seed companies:
+F1 [[cervantes-seed-production-storage]] offers strategic advantages for [[spanish-cannabis-seed-companies]]:
 
 - True-breeding seed can be easily reproduced by open-pollination, but
   most seed companies have no interest in selling easily reproduced
@@ -87,45 +88,3 @@ generation are inter-mated to produce new generations. The first hybrid
 generation of two true-breeding lines is the F1. Crossing F1 siblings
 (or allowing open pollination) produces the F2. Subsequent generations
 (F3, F4, F5, etc.) are obtained by crossing plants of the same
-generation and progeny lot.
-
-Filial inbreeding with selection for specific traits is the most
-common method for establishing a pure or true-breeding population when
-breeding cross-pollinated species like cannabis.
-
-## Outbreeding
-
-Outbreeding is the process of crossing or hybridizing plants from
-different families, groups, or varieties with no close relationship.
-Any time a breeder uses plants outside the immediate family, hybrid
-seed is produced. Outbreeding introduces new genetic material to each
-respective [[cannabis-gene-pool-preservation-acclimatization-clarke]], creating novel combinations of traits.
-
-## Combining Ability
-
-When breeding cross-pollinators, hybrid performance is discussed in
-terms of combining ability -- the ability of an inbred line to give
-characteristic performance in hybrid combinations. Two measures are
-used:
-
-- **General combining ability (GCA):** The average performance of a
-  line in hybrid combinations with other lines.
-- **Specific combining ability (SCA):** The performance of a specific
-  line when crossed with the same specific pollen source, compared to
-  other lines.
-
-## The Genetic Bottleneck Problem
-
-Cervantes notes that the 1:1 mating strategy used by most commercial
-seed banks is a form of extreme inbreeding. Cannabis naturally existed
-in wild populations of hundreds or thousands of individuals. Selecting
-only one or two plants as a breeding population creates a genetic
-bottleneck, drastically reducing genetic variability. This variability
-is lost and unavailable to future generations.
-
-## See Also
-
-- [[cannabis-genetic-stability]]
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-seed-selection-and-strain-types]]
-- [[cannabis-seed-banks-and-genetics]]

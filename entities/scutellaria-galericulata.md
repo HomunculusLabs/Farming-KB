@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Scutellaria galericulata is a perennial herbaceous plant in the family Lamiaceae, commonly known as marsh skullcap or hooded skullcap. It is widely distributed across temperate regions of the Northern Hemisphere, occurring in wetlands and moist habitats throughout Europe, Asia, and North America.
+Scutellaria galericulata is a perennial herbaceous plant in the family Lamiaceae, commonly known as marsh skullcap or hooded skullcap. It is widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, occurring in wetlands and moist habitats throughout Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 The species has a long history of use in European folk medicine as a mild nervine and sedative, similar in application to the closely related [[scutellaria-lateriflora]] (American skullcap). Its gentle anxiolytic properties have made it a component of traditional nervine tonics.
 
@@ -52,7 +52,7 @@ It is a facultative wetland plant found in marshes, fens, wet meadows, stream ba
 
 The species prefers nutrient-poor to moderately rich soils with pH ranging from acidic to neutral. Full sun to light shade is optimal, though heavy shading from tall vegetation reduces flowering.
 
-Vegetative propagation through stem cuttings is possible but rarely practiced. Germination from seed requires cold stratification for optimal results, with seedlings establishing most readily on moist, bare soil.
+[[hamilton-vegetative-propagation]] through stem cuttings is possible but rarely practiced. Germination from seed requires cold stratification for optimal results, with seedlings establishing most readily on moist, bare soil.
 
 Conservation status is generally secure across most of its range.
 
@@ -66,7 +66,7 @@ Major flavonoids identified include apigenin, luteolin, and their glycosidic der
 
 Baicalin and baicalein, the characteristic flavonoids of S. baicalensis, occur only in trace amounts in S. galericulata. This difference in flavonoid profile likely accounts for the distinct pharmacological properties between the species.
 
-Quantitative HPLC analysis of S. galericulata aerial parts typically shows apigenin derivatives as the dominant flavonoid class, comprising 60–70% of total flavonoid content. Luteolin derivatives account for most of the remainder.
+Quantitative [[hplc-analysis-of-psilocybin-and-psilocin]] S. galericulata aerial parts typically shows apigenin derivatives as the dominant flavonoid class, comprising 60–70% of total flavonoid content. Luteolin derivatives account for most of the remainder.
 
 Phenolic acids include caffeic acid, chlorogenic acid, and rosmarinic acid derivatives. These compounds contribute to the antioxidant capacity documented in in vitro assays.
 
@@ -80,39 +80,10 @@ In European herbal tradition, marsh skullcap has been used for centuries as a mi
 
 Seventeenth-century English herbalist Nicholas Culpeper described skullcap (likely a mix of S. galericulata and S. minor) as useful for "all sorts of nervous afflictions and convulsions." The herb appeared in the London Pharmacopoeia of 1788.
 
-Native American tribes including the Iroquois and Cherokee used the plant medicinally for similar purposes.
+[[halpern-sacramental-peyote-and-native-american-church]] tribes including the Iroquois and Cherokee used the plant medicinally for similar purposes.
 
 Modern pharmacological studies are limited compared to better-known Scutellaria species. Available research indicates mild anxiolytic activity in animal models, likely mediated through GABAergic modulation rather than the benzodiazepine receptor pathway.
 
 Anti-inflammatory and antioxidant activities have been demonstrated in vitro, consistent with the flavonoid content. Antimicrobial activity against Gram-positive bacteria has been reported for ethanolic extracts.
 
-A 2016 in vivo study demonstrated significant reduction in locomotor activity in mice treated with aqueous extract, supporting traditional sedative claims. No significant toxicity was observed at doses up to 5 g/kg body weight in acute toxicity studies.
-
-The European Medicines Agency has recognized the traditional use.
-
-Standardized extracts are available in European phytopharmaceutical markets, typically standardized to a minimum flavonoid content expressed as apigenin derivatives. Recommended daily doses in traditional use range from 2–4 g of dried herb or equivalent extract.
-
-In contemporary herbal practice, S. galericulata is often combined with [[valeriana-officinalis]], [[passiflora-incarnata]], and [[melissa-officinalis]] in nervine formulations. It is considered gentler than [[scutellaria-lateriflora]] in its effects.
-
-The herb is also used topically in traditional European practice as a wash for minor wounds and skin inflammations, though this application is less common than internal use. Preparations include infusions, tinctures, and fluid extracts.
-
-## Ecological Interactions
-
-Scutellaria galericulata serves as a nectar source for long-tongued bees, particularly bumblebees (Bombus spp.). The flowers are also visited by butterflies and small moths attracted to the blue-violet corolla.
-
-The species is a host plant for several Lamiaceae-specialist insects. It provides marginal forage value for livestock and is generally avoided by grazing animals due to the mildly bitter foliage.
-
-In wetland plant communities, marsh skullcap typically occupies a mid-successional position, colonizing disturbed muddy substrates and persisting in established sedge meadows. It is commonly associated with Carex, Juncus, and Mentha species.
-
-## See Also
-
-- [[scutellaria-baicalensis]] — Chinese skullcap (Huang Qin), major pharmacological species
-- [[scutellaria-lateriflora]] — American skullcap, closely related nervine herb
-- [[scutellaria-barbata]] — Ban Zhi Cao, TCM anticancer species
-- [[prunella-vulgaris]] — Self-heal, common Lamiaceae wetland associate
-- [[melissa-officinalis]] — Lemon balm, combined in nervine formulations
-- [[leonurus-cardiaca-entity]] — Motherwort, Lamiaceae species with nervine properties
-- [[agastache-foeniculum]] — Anise hyssop, related Lamiaceae medicinal herb
-- [[salvia-officinalis]] — Garden sage, sharing flavonoid chemistry
-- [[hyssopus-officinalis]] — Hyssop, traditional European medicinal Lamiaceae
-- anxiety — Primary indication for skullcap preparations
+A 2016 in vivo study demonstrated significant reduction in locomotor activity in mice treated with aqueous extract, supporting traditional sedative claims. No significant toxicity was observed at doses up to 5 g/kg body weight in [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] studies.

@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis Therapeutic Index Overview
 
-The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index. (see [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]).
+The Cannabis Health Index (CHI) by Uwe Blesching provides an evidence-based framework for evaluating cannabis as a therapeutic agent across a wide range of conditions. It grades evidence from clinical trials, case studies, and preclinical research using a standardized index.
 
 ## Evidence Grading System
 
@@ -19,7 +19,7 @@ The CHI uses a multi-tiered evidence framework:
 - **Tier 3 — Preclinical**: Animal studies, in vitro research, pharmacological data
 - **Tier 4 — Traditional/Ethnobotanical**: Historical use, anecdotal evidence
 
-Each condition receives a combined score reflecting the weight of evidence across all tiers. (see [[cannabis-health-index-chi-scoring-methodology-blesching]]).
+Each condition receives a combined score reflecting the weight of evidence across all tiers.
 
 ## Major Therapeutic Categories
 
@@ -71,3 +71,18 @@ The therapeutic index emphasizes that whole-plant cannabis often outperforms iso
 - [[cannabis-for-chronic-pain]] — for pain management specifics
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific evidence
 - [[cannabis-thc-therapeutic-profile]] — for THC-specific evidence
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
+- [[blesching-cannabis-chi-scoring-evidence-based-medicine]]
+- [[cannabis-for-nausea-and-appetite-stimulation]]
+- [[cannabis-terpene-entourage-effect]]
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]

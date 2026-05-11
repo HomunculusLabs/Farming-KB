@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Stein, J.D. et al. (2003). "Field Guide to Native Oak Species of Eastern North America." USDA Forest Service.
+  - Stein, J.D. et al. (2003). "Field Guide to Native Oak Species of polypore-fungi-eastern-north-america." USDA Forest Service.
   - Johnson, P.S., Shifley, S.R. & Rogers, R. (2009). "The Ecology and Silviculture of Oaks." CABI Publishing.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America." USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]]." USDA Forest Service.
 ---
 
 ## Overview
@@ -72,13 +72,13 @@ Blackjack oak grows slowly, typically adding less than 30 centimeters of height 
 
 The species is not commercially important for timber due to its small size and poor form. Wood is hard and heavy but frequently contains defects that limit its utility.
 
-Despite its limited timber value, blackjack oak contributes to watershed protection and soil stabilization on dry, erodible sites. The extensive root systems help prevent erosion on steep, sandy slopes.
+Despite its limited timber value, blackjack oak contributes to [[mycofiltration-watershed-protection]] and soil stabilization on dry, erodible sites. The extensive root systems help prevent erosion on steep, sandy slopes.
 
 ## Uses and Cultural Significance
 
-Quercus marilandica has limited commercial value but serves important ecological functions. It is sometimes used for fence posts and railroad ties due to its durable heartwood.
+Quercus marilandica has limited commercial value but serves important [[fungal-melanin-biosynthesis-ecological-functions]]. It is sometimes used for fence posts and railroad ties due to its durable heartwood.
 
-The species is increasingly recognized for its value in ecological restoration and native landscaping. Its drought tolerance makes it suitable for xeriscaping in the southern and central United States.
+The species is increasingly recognized for its value in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and native landscaping. Its [[dighton-fungal-drought-tolerance-plant-water-relations]] makes it suitable for xeriscaping in the southern and central United States.
 
 Blackjack oak wood burns hot and produces good charcoal. It was historically important for charcoal production in the Cross Timbers region.
 
@@ -87,34 +87,3 @@ The high density of blackjack oak wood makes it an excellent fuelwood species. I
 Native American peoples used blackjack oak acorns as a food source after leaching tannins. The bark was used in traditional medicine for treating digestive ailments and skin conditions.
 
 The Cross Timbers woodlands dominated by blackjack oak and post oak represent one of the most extensive old-growth forest types remaining in North America. These woodlands have survived largely because the poor soils discouraged agricultural conversion.
-
-The Cross Timbers region historically served as a natural barrier to westward expansion. Early explorers described the dense, scrubby oak thickets as nearly impenetrable, influencing settlement patterns and travel routes across the southern plains.
-
-## Related Species
-
-Quercus stellata, post oak, is the most common associate of blackjack oak in the Cross Timbers. It has similar drought tolerance but differs in its cross-shaped leaf lobes and more regular crown form.
-
-Post oak typically reaches larger sizes than blackjack oak and produces more abundant acorn crops. The two species frequently hybridize where their ranges overlap, producing intermediates with mixed leaf characteristics.
-
-Quercus velutina, black oak, occupies slightly more mesic sites and reaches larger sizes. Its leaves have pointed lobes and the inner bark is bright yellow-orange.
-
-Quercus falcata, southern red oak, is a larger tree found on better soils in the same geographic region. It produces more valuable timber and has deeply lobed leaves.
-
-Quercus montana, chestnut oak, replaces blackjack oak at higher elevations in the Appalachian Mountains. It has coarsely toothed leaves without lobes and produces larger acorns.
-
-Quercus macrocarpa, bur oak, overlaps with blackjack oak in the western portion of its range. Bur oak is much larger and more cold-hardy, with distinctive fringed acorn cups.
-
-Bur oak can reach 25 meters or more in height and lives for 200 to 300 years. It serves as a valuable timber species and a key component of bottomland and savanna ecosystems across the midwestern United States.
-
-## See Also
-
-- [[quercus-alba]]
-- [[quercus-montana]]
-- [[quercus-coccinea]]
-- [[quercus-velutina]]
-- [[quercus-falcata]]
-- [[quercus-macrocarpa]]
-- [[quercus-palustris]]
-- [[rhus-copallinum]]
-- [[pinus-echinata]]
-- [[carya-ovata]]

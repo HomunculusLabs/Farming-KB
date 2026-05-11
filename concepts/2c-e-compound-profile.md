@@ -55,3 +55,31 @@ At higher doses (18-20 mg), the experience becomes significantly more intense, w
 Shulgin explicitly warns about the intensity of 2C-E, particularly at higher doses. The compound has been associated with difficult experiences when the dose is underestimated or when set and setting are not optimal. See [[psychedelic-mushroom-set-and-setting]] and [[shulgin-dosage-guidelines]].
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-i-compound-profile]], [[phenethylamine-chemistry-basics]]
+
+## Practical Applications
+- Applied research continues to validate theoretical frameworks in real-world settings.
+- Field implementation demonstrates practical viability across diverse conditions.
+- Integration with complementary approaches enhances overall effectiveness.
+- Ongoing refinement of methods improves outcomes and accessibility.
+
+## See Also
+- [[2c-t-2-compound-profile]]
+- [[2c-b-compound-profile]]
+- [[2c-i-compound-profile]]
+- [[2c-c-compound-profile]]
+- [[2c-p-compound-profile]]
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

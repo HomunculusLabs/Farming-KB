@@ -1,6 +1,6 @@
 ---
 title: fukuoka earthen levee building artistic religious work Building as Artistic and Religious Work
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 source: The Natural Way of Farming: The Theory
 tags: [fukuoka, rice, paddy, levee, traditional-tools, water-management, no-till, japanese-agriculture]
 created: 2026-05-08
@@ -14,7 +14,7 @@ In *The Natural Way of Farming*, Masanobu Fukuoka elevated the humble task of bu
 
 ## The Problem of Water Retention
 
-Water management is the most critical aspect of rice cultivation, and the levee is its foundation. Fukuoka explained that irrigation management throughout the rice [[savory-growing-season-and-non-growing-season-management]] can be particularly perplexing for the novice farmer. The levee must hold water reliably for months, yet it is subject to constant threats:
+Water management is the most critical aspect of [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]], and the levee is its foundation. Fukuoka explained that [[soil-moisture-monitoring-irrigation-management]] throughout the rice [[savory-growing-season-and-non-growing-season-management]] can be particularly perplexing for the novice farmer. The levee must hold water reliably for months, yet it is subject to constant threats:
 
 - **Moles**: A single mole can dig a tunnel 40-50 feet long through a levee in one night, weakening it so that water starts leaking through mole cricket and earthworm holes
 - **Rain and intermittent irrigation**: Fissures develop in the levee, causing leakage
@@ -39,7 +39,7 @@ Fukuoka warned that these materials create hidden problems:
 Fukuoka described the complete process for building a proper earthen levee:
 
 1. **Cut the grass**: Carefully cut the grass on the old levee with a sickle
-2. **Break down the levee**: Use an open-ended hoe to dismantle the existing structure
+2. **[[query-can-fungi-break-down-plastic-pollution]] the levee**: Use an open-ended hoe to dismantle the existing structure
 3. **Dig up the base soil**: Dig up the soil at the bottom of the levee
 4. **Add water**: Draw some water alongside to help with soil preparation
 5. **Knead the earth**: Break up and knead the earth with a three-pronged cultivator
@@ -61,7 +61,7 @@ Fukuoka provided specific guidance on dealing with moles:
 
 Fukuoka made a striking claim about traditional Japanese farming implements:
 
-> "All the traditional farming tools used from ancient times in Japan come into play during the building of an earthen levee. Observing the processes by which these simple yet refined implements efficiently modify the arrangement of soil particles in the paddy field, I get a keen sense of just how perfectly designed and efficient they are. Even in soil engineering terms, these tools and their use represent a very sophisticated technology."
+> "All the traditional farming tools used from ancient times in Japan come into play during the building of an earthen levee. Observing the processes by which these simple yet refined implements efficiently modify the arrangement of soil particles in the [[cho-imo-collection-bamboo-stump-and-paddy-field]], I get a keen sense of just how perfectly designed and efficient they are. Even in soil engineering terms, these tools and their use represent a very sophisticated technology."
 
 This was not mere nostalgia. Fukuoka had spent decades as a trained agricultural scientist, and he was making a serious technical claim: that traditional tools, developed over centuries of empirical refinement, achieve results that modern engineering approaches cannot match in this specific application.
 
@@ -84,34 +84,6 @@ The levee passage encapsulates several of Fukuoka's core philosophical positions
 - **Holistic understanding**: The levee is not just a wall — it is part of a living system involving soil, water, plants, insects, and the farmer's skill
 - **Superiority of traditional knowledge**: Centuries of refinement produced solutions that modern engineering cannot improve upon
 - **The farmer as craftsman**: The [[fukuoka-textdoc-traditional-farmer-philosophy-mu-nothingness]] is not a backward laborer but a skilled artisan
-- **Connection to nature**: Physical work with natural materials maintains a relationship that modern materials sever
+- **Connection to nature**: Physical work [[building-with-natural-materials]] maintains a relationship that modern materials sever
 
 ## Practical Implications
-
-For modern rice farmers, Fukuoka's analysis suggests:
-
-1. Resist the temptation to use concrete or vinyl for levee construction
-2. Invest time in learning proper levee-building technique with traditional tools
-3. Maintain levees annually rather than trying to create permanent structures
-4. Control mole populations through the bamboo tube method rather than poisons
-5. Cut levee grass regularly to enable early detection of problems
-6. Use stiff earth for repairs, not soft earth that washes away
-7. Rebuild levees completely each year rather than patching incrementally
-
-## Relevance Beyond Rice Farming
-
-The levee-building philosophy applies to many aspects of land management:
-
-- **Earthworks**: Traditional techniques may outperform modern engineered solutions
-- **Water management**: Working with natural materials creates more resilient systems
-- **Maintenance culture**: Annual renewal may be more effective than permanent construction
-- **Craftsmanship**: Hand work with natural materials develops irreplaceable skills and knowledge
-
-The levee is a perfect example of Fukuoka's broader principle: that nature, when properly understood and worked with skillfully, provides solutions that human engineering alone cannot surpass.
-
-## See Also
-
-- [[fukuoka-no-tillage-rice-barley-succession]] — The rice/barley system these levees support
-- [[fukuoka-rice-straw-mulch-central-technique]] — Rice straw as field cover
-- [[fukuoka-textdoc-soil-rehabilitation-timeline-orchard-cover-crop-management]] — Water management principles
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]] — [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] without transplanting

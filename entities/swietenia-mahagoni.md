@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
-  - Styles, B.T. & Khosla, P.K. (1976). "Cytology and Reproductive Biology of Mahogany." Silvae Genetica 25: 174-179.
+  - Styles, B.T. & Khosla, P.K. (1976). "Cytology and [[clarke-marijuana-botany-sex-determination-reproductive-biology]] of Mahogany." Silvae Genetica 25: 174-179.
   - Grogan, J. & Barreto, P. (2005). "Big-leaf Mahogany in Brazil." mycelium-running-conservation-biology-and-fungi 19(3): 698-704.
   - Newton, A.C. et al. (1999). "The Genetic Resources of Mahogany." FAO Forestry Paper.
 ---
@@ -46,13 +46,13 @@ The bark is smooth and grayish-brown on young trees, becoming rough, scaly, and 
 
 Swietenia mahagoni is native to southern Florida (the Florida Keys and extreme southern mainland), the Bahamas, Cuba, Jamaica, Hispaniola, Puerto Rico, and the Virgin Islands. It also occurs naturally along the Caribbean coast of Central America from Belize to Panama.
 
-The species is found in dry to moist tropical forests, coastal woodlands, and limestone outcrops. It tolerates a wide range of soil types including sandy, limestone-derived, and volcanic soils.
+The species is found in dry to moist [[fungal-biodiversity-tropical-forests]], coastal woodlands, and limestone outcrops. It tolerates a wide range of soil types including sandy, limestone-derived, and volcanic soils.
 
 Optimal conditions include annual rainfall of 1,000–2,500 mm, mean annual temperatures of 24–30°C, and well-drained soils. The species is notably drought-tolerant and salt-spray tolerant, allowing it to thrive in coastal environments.
 
 Natural populations have been severely depleted throughout most of the native range. Remaining significant stands are found primarily in protected areas in Cuba and on isolated Caribbean islands.
 
-The species has been widely planted as an ornamental and timber tree throughout the tropics. Naturalized populations occur in parts of West Africa, [[psilocybe-southeast-asia-pacific]], and the Pacific Islands, where it can exhibit invasive tendencies.
+The species has been widely planted as an ornamental and timber tree throughout the tropics. Naturalized populations occur in parts of West Africa, [[psilocybe-southeast-asia-pacific]], and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], where it can exhibit invasive tendencies.
 
 ## Cultivation and Uses
 
@@ -60,7 +60,7 @@ Swietenia mahagoni has been cultivated for timber since the colonial era, with e
 
 Silvicultural techniques to manage shoot borer infestation include mixed-species plantations, canopy shade management, and the use of physical barriers. Despite decades of research, no fully effective control method has been developed.
 
-Seed propagation requires fresh seed, as viability declines rapidly after 2–3 months. Germination is epigeal and typically occurs within 2–4 weeks of sowing under warm, moist conditions.
+[[green-cannabis-grow-bible-cloning-and-seed-propagation]] requires fresh seed, as viability declines rapidly after 2–3 months. Germination is epigeal and typically occurs within 2–4 weeks of sowing under warm, moist conditions.
 
 The heartwood is reddish-brown to deep red, often with a golden luster, and darkens with age. It has a medium texture, interlocking to straight grain, and moderate specific gravity of 0.55–0.65.
 
@@ -68,7 +68,7 @@ Timber applications include fine furniture, cabinetry, boat building, musical in
 
 The species is extensively planted as an ornamental street and shade tree in tropical and subtropical cities worldwide. It is the official national tree of the Dominican Republic and the Bahamas.
 
-Its tolerance of urban conditions, including compacted soils, air pollution, and restricted root space, makes it well-suited for landscape use. The species is widely planted in southern Florida, Hawaii, and throughout the Caribbean as a municipal shade tree.
+Its tolerance of urban conditions, including compacted soils, [[air-pollution-fungal-community-responses]], and restricted root space, makes it well-suited for landscape use. The species is widely planted in southern Florida, Hawaii, and throughout the Caribbean as a municipal shade tree.
 
 In traditional medicine, bark preparations have been used as a febrifuge, antidiarrheal, and treatment for malaria in various Caribbean cultures. The bitter-tasting bark contains limonoids with documented pharmacological activity.
 
@@ -78,7 +78,7 @@ Swietenia mahagoni contributes to tropical forest canopy structure as a large-em
 
 The winged seeds are adapted for wind dispersal, capable of traveling considerable distances from parent trees. Seed dispersal patterns facilitate colonization of disturbed areas and forest gaps.
 
-Leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] returns nutrients to the soil and supports diverse decomposer communities. The leaf chemistry is moderately rich in tannins and other secondary compounds that influence decomposition rates.
+Leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] returns nutrients to the soil and supports diverse decomposer communities. The leaf chemistry is moderately rich in tannins and other secondary compounds that influence [[dighton-litter-quality-fungal-decomposition-rates]].
 
 As a native canopy tree in Caribbean dry forests, the species provides critical habitat for birds, including parrots, pigeons, and migratory warblers. The large crown supports epiphytic communities including bromeliads and orchids.
 
@@ -87,34 +87,3 @@ In its introduced range, S. mahagoni can form dense monospecific stands that sup
 The shoot borer moth (*Hypsipyla grandella*) is the primary natural herbivore and represents the most significant biological constraint on the species' silviculture. The borer tunnels into terminal shoots, causing multiple forked leaders and deformed growth.
 
 Management of shoot borer damage in plantations remains one of the most persistent challenges in tropical forestry research. Mixed-species plantings with non-host companion species have shown the most promising results, reducing borer incidence by 40–60%.
-
-## Chemistry and Pharmacology
-
-The bark, leaves, and seeds of Swietenia mahagoni contain limonoids, a class of tetranortriterpenoids characteristic of the Meliaceae family. These compounds are responsible for the bitter taste of the bark and contribute to insecticidal and pharmacological properties.
-
-Key limonoids identified include swietenine, swietenolide, khayatin, and andirobin. These compounds exhibit antifeedant activity against insect herbivores, contributing to the species' natural pest resistance.
-
-Bark extracts have demonstrated antimalarial activity in traditional use and preliminary laboratory studies. The antimalarial activity is attributed to limonoid constituents that interfere with Plasmodium life cycle stages.
-
-Anti-inflammatory and analgesic activities have been documented for bark and leaf extracts in animal models. The extracts reduce carrageenan-induced paw edema and exhibit central analgesic effects at elevated doses.
-
-Antimicrobial screening has shown moderate activity against Gram-positive bacteria, including *Bacillus subtilis* and *Staphylococcus aureus*. Antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* has also been reported.
-
-The wood contains extractives that confer natural resistance to decay and termite attack. These extractives include phenolic compounds and limonoids that inhibit wood-decay fungal colonization.
-
-Heartwood durability ratings classify S. mahagoni as moderately to highly durable, with expected service life of 15–25 years above ground. The wood is resistant to marine borers, contributing to its historical use in shipbuilding.
-
-## See Also
-
-- [[swietenia-macrophylla]]
-- [[cedrela-odorata]]
-- [[tabebuia-impetiginosa]]
-- [[handroanthus-impetiginosa]]
-- [[jacaranda-mimosifolia]]
-- [[melia-azedarach]]
-- [[toona-sinensis]]
-- [[acacia-nilotica]]
-- [[robinia-pseudoacacia]]
-- [[cordia-alliodora]]
-- [[ailanthus-altissima]]
-- [[dalbergia-nigra]]

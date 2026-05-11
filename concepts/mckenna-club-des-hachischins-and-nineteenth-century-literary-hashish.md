@@ -1,5 +1,5 @@
 ---
-title: "mckenna club des hachischins and nineteenth century literary hashish Hachischins and Nineteenth-Century Literary Hashish"
+title: Mckenna Club Des Hachischins And Nineteenth Century Literary Hashish
 created: 2026-05-06
 tags:
   - history
@@ -22,7 +22,7 @@ type: concept
 
 The Club des Hachischins was a celebrated circle of nineteenth-century French writers,
 artists, and intellectuals who gathered regularly in Paris to explore the effects of
-cannabis under controlled conditions. Meeting in the damask-hung rooms of the Hotel
+cannabis under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]. Meeting in the damask-hung rooms of the Hotel
 Luzan on the Ile St.-Louis, these respectable literary figures conducted what were
 essentially private experiments in [[mckenna-consciousness-expansion-and-drug-war]].
 
@@ -61,7 +61,7 @@ characterized by its attention to the dramatic moods of nature, its cultivation
 of sensitivity that critics found "feminine," and its fascination with the
 transcendent and the extraordinary.
 
-Romanticism bears all the signs of what Terence McKenna termed an incipient
+Romanticism bears all the signs of what [[terence-mckenna]] termed an incipient
 partnership revival. Its emphasis on direct emotional experience, its rebellion
 against the rigid rationalism of the Enlightenment, and its openness to the
 irrational and the intuitive all point toward a recovery of values that
@@ -88,21 +88,3 @@ the Romantic sensibility were almost made for each other.
 ## The Contrast With Modern Attitudes
 
 The legal and intellectual ambience surrounding drug use in the early nineteenth
-c [[mckenna-modest-proposal-drug-policy-reform]] ious inquiry remains a model for what
-rational [[mckenna-modest-proposal-drug-policy-reform]] might look like.
-
-## The Decline of Literary Hashish
-
-Interest in hashish among the French literary elite never traveled far beyond
-Moreau's own circles. Hashish eating never became a broad European craze; its
-use remained confined largely to the Near and Middle East.
-
-The tradition persisted in attenuated form through the Beat Generation of the
-1950s and the psychedelic counterculture of the 1960s. But the genteel,
-scholarly atmosphere of the Club des Hachischins would never be replicated.
-## See Also
-
-- [[mckenna-orientomania-and-european-discovery-of-hashish]]
-
-- [[mckenna-hashish-scythians-and-classical-cannabis]]
-- [[mckenna-cannabis-culture-history]]

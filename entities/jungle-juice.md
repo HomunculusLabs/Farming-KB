@@ -14,7 +14,7 @@ sources:
   - Leafly. "Jungle Juice Strain Information." leafly.com.
   - AllBud. "Jungle Juice Weed Strain Information." allbud.com.
   - Weedmaps. "Jungle Juice blesching-cannabis-strain-selection-receptor-targeting." weedmaps.com.
-  - MJBizDaily. "2024 Cannabis Strain Market Trends."
+  - MJBizDaily. "2024 [[biscotti-cannabis-strain]] Market Trends."
   - green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible. Green Candy Press, 5th Edition.created: 2026-05-07
 
 created: 2026-05-07
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Jungle Juice** is an indica-dominant hybrid cannabis strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
+**Jungle Juice** is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain renowned for its intensely tropical aroma and deeply relaxing effects. The strain is believed to be a cross of **White Widow** and an unknown Afghani indica, though some phenotypic variants suggest additional tropical-lineage genetics.
 
 It has gained a dedicated following among recreational users for its smooth onset and body-heavy sedation, while medical patients value it for evening [[cannabis-pain-management-protocols]] and insomnia relief. The strain's name derives from its pungent, jungle-like bouquet of tropical fruit and earthy undertones.
 
@@ -31,9 +31,9 @@ It has gained a dedicated following among recreational users for its smooth onse
 The exact breeder and genetic origin of Jungle Juice remain partially undocumented. The most widely accepted lineage places it as a cross between:
 
 - **White Widow** (indica-dominant hybrid, Brazilian sativa × South Indian indica) — contributing [[cannabis-glandular-trichome-types-resin-production-clarke]] and balanced potency.
-- **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened flowering time.
+- **Afghani landrace** — contributing dense bud structure, heavy body effects, and shortened [[what-a-plant-knows-photoperiodism-flowering-time-measurement]].
 
-Some sources suggest a tertiary parent contributing the strain's signature tropical terpene profile, possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.
+Some sources suggest a tertiary parent contributing the strain's signature tropical [[cannabis-terpene-profile]], possibly a Thai or Hawaiian sativa, though this has not been genetically verified. The indica dominance is typically reported at 65–70%.
 
 ## Appearance
 
@@ -68,7 +68,7 @@ The onset is relatively fast, beginning with a mild cerebral uplift — a sense 
 
 The body high is deeply sedative, progressing from physical comfort to couch-lock in higher doses. Users report significant muscle tension relief and a general sense of physical heaviness. Mental effects shift to a calm, somewhat hazy contentment.
 
-Duration is typically 2–3 hours, with the sedative phase lasting longest. The comedown is smooth, without the anxiety or paranoia sometimes reported with stronger sativa strains.
+Duration is typically 2–3 hours, with the sedative phase lasting longest. The comedown is smooth, without the anxiety or paranoia sometimes reported with stronger [[african-landrace-sativa-strains]].
 
 ## Cultivation
 
@@ -79,7 +79,7 @@ Duration is typically 2–3 hours, with the sedative phase lasting longest. The 
 
 The strain is forgiving of minor cultivation errors and resistant to common molds. It responds well to low-stress training (LST) and [[cannabis-screen-of-green-scrog-guide]] (ScrOG) techniques. Outdoor harvest occurs in early to mid-October in northern latitudes.
 
-Plants reach medium height (90–150 cm indoors) with a bushy, lateral branching structure. Nutrient requirements are moderate; the strain is sensitive to over-fertilization during mid-flowering, which can cause tip burn and reduce terpene expression.
+Plants reach medium height (90–150 cm indoors) with a bushy, lateral branching structure. [[cannabis-soil-and-nutrient-requirements]] are moderate; the strain is sensitive to over-fertilization during mid-flowering, which can cause tip burn and reduce terpene expression.
 
 ## Medical Applications
 
@@ -88,20 +88,3 @@ Jungle Juice is primarily used in evening and nighttime therapeutic contexts due
 - **Insomnia:** The strong body sedation and prolonged duration make it effective for sleep onset and maintenance. Many patients report uninterrupted sleep cycles.
 - **Pain management:** Myrcene-dominant strains are associated with analgesic and anti-inflammatory effects. Patients with chronic back pain, arthritis, and neuropathy report meaningful relief.
 - **Anxiety and stress:** The initial cerebral euphoria followed by physical calm creates a window of mental relaxation before sedation takes over.
-- **Muscle spasms:** The pronounced muscle-relaxing effects are beneficial for patients with MS, fibromyalgia, and post-workout recovery.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of high-THC cannabis strains. Some users report mild dizziness during onset, particularly with higher doses or when standing quickly.
-
-At higher doses, the sedative effects can be overwhelming, leading to excessive lethargy or "couch-lock" that may interfere with productivity. Paranoid or anxious reactions are rare but possible in cannabis-sensitive individuals, though less likely than with sativa-dominant varieties.
-
-The strain is not recommended for daytime use or tasks requiring sustained attention. Novice users should approach with moderate doses (1–2 puffs) and allow 15–20 minutes to assess effects before consuming more.
-
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[granddaddy-purple]]
-- [[gelato]]
-- [[wedding-cake]]
-- [[girl-scout-cookies]]

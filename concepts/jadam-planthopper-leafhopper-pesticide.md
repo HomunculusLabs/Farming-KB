@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [jadam, natural-farming]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
 ---
 

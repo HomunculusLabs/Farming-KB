@@ -1,5 +1,5 @@
 ---
-title: biological biological [[myxomycete-mycetozoan-slime-mold-diversity-ecology]] computing computing
+title: Biological Slime Mold Computing
 created: 2026-04-28
 tags: [computational-biology, slime-mold, optimization, unconventional-computing, bioinformatics]
 date: 2026-04-28
@@ -88,16 +88,3 @@ fields:
   Physarum dynamics optimize data transmission paths in decentralized sensor
   networks.
 - **Image Processing:** Physarum growth patterns have been applied to
-  edge detection, image segmentation, and texture analysis in computer vision.
-- **Architecture:** Bio-inspired design approaches use slime mold network
-  formation to generate structural layouts for buildings and urban spaces.
-## Limitations and Criticisms
-Critics note that claims about slime mold "intelligence" can be overstated.
-The organism's and [[maitake-problem-solving-troubleshooting]] abilities emerge from relatively simple
-physicochemical feedback mechanisms rather than cognitive processes.
-Computational performance degrades significantly for large problem instances
-compared to dedicated optimization algorithms. Scalability remains a practical
-challenge for applying biological slime mold computation to real-world
-engineering problems.
-## See Also
-- [[slime-mold-computation]]

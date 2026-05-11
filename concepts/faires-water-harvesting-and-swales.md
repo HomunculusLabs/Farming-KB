@@ -88,18 +88,3 @@ use and irrigation. Key components of a rainwater catchment system include:
   to points of use
 A good rule of thumb is that 1 inch of rain on 1,000 square feet of roof
 yields approximately 600 gallons of water. Storage capacity should be
-sufficient to bridge dry periods between rainfall events.
-## Greywater Systems
-Greywater (water from sinks, showers, and laundry) can be recycled for
-landscape irrigation, reducing overall water demand. [[holmgren-permaculture-twelve-design-principles-framework]]:
-- Keep systems simple: avoid complex filtration and pumps when possible
-- Use biocompatible cleaning products to protect soil biology
-- Direct greywater to mulch basins around fruit trees and ornamentals
-- Do not store greywater for extended periods; use it within 24 hours
-- Check local regulations regarding greywater use before installing systems
-## See Also
-- [[williams-pdc-rain-water-harvesting]]
-- [[williams-pdc-water-courses]]
-- [[williams-pdc-earthworks]]
-- [[ozier-pdc-hydro-cycle-and-watershed-management]]
-- [[urban-permaculture-trees-water-cycling]]

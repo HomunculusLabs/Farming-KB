@@ -87,26 +87,3 @@ Cuttings are difficult to root but may succeed with bottom heat and rooting horm
 ## Conservation
 
 B. gigantea is listed as Vulnerable under the Australian Environment Protection and [[fungal-biodiversity-conservation-status]] Act. Habitat loss from urban development and agriculture has significantly reduced its range around Perth and along the Swan Coastal Plain.
-
-The species has a naturally restricted distribution and low genetic diversity, making populations particularly susceptible to environmental change. [[dighton-fungi-climate-change-feedback]] projections for southwestern Australia indicate significant drying trends, which could threaten the seasonal wetland habitats the species depends on.
-
-All Byblis species are protected under Western Australian law, and collection from the wild is prohibited without permits. Seed-grown and tissue-cultured plants are available from specialist nurseries, providing an ethical alternative to wild collection. Several botanical institutions maintain ex situ conservation collections of B. gigantea, including Kings Park and Botanic Garden in Perth.
-
-Climate change poses a significant long-term threat to B. gigantea populations through altered rainfall patterns and increased frequency of drought. Fire suppression in remaining habitat patches may also reduce the open, sunny conditions the species requires for germination and growth.
-
-Population surveys indicate that remaining B. gigantea populations are highly fragmented, with many consisting of fewer than 100 mature individuals. This fragmentation reduces genetic exchange and increases the risk of local extinctions from stochastic events.
-
-## See Also
-
-- [[stapelia-gigantea]]
-
-- [[byblis-liniflora]]
-- [[drosera-rotundifolia]]
-- [[drosera-capensis]]
-- [[cephalotus-follicularis]]
-- [[utricularia-reniformis]]
-- [[pinguicula-esseriana]]
-- [[pinguicula-moranensis]]
-- [[darlingtonia-californica]]
-- [[drosera-regia]]
-- [[heliamphora-nutans]]

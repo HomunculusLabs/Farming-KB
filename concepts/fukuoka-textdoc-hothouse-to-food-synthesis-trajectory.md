@@ -1,8 +1,9 @@
 ---
-title: "Hothouse to Food [[fukuoka-food-synthesis-trajectory]]"
+title: Fukuoka Textdoc Hothouse To Food Synthesis Trajectory
 created: 2026-05-09
 updated: 2026-05-09
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "Fukuoka, The Natural Way of Farming (1985)"
 type: concept
 tags: [natural-farming, philosophy, ecology, food-quality, agriculture]
@@ -86,36 +87,3 @@ pressures of society and became a subcontractor to the oil industry. Once
 control over livelihood passed into the hands of the industrialist and
 businessman, the merchant gained the last say over the farmer's right to
 loss or gain, life or death.
-
-Agriculture today has been degraded to the manufacture of
-petroleum-derived foods, and the farmer has become a seller of false goods
-called "nutritional food." People brought up eating unnatural food develop
-into artificial, anti-natural human beings with an unnatural body prone to
-disease and an unnatural way of thinking.
-
-Mechanization did not reduce the farmer's work — it enslaved him to his
-equipment. To the farmer, machinery is the largest [[mollison-designers-domestic-animal-integration-design]] of all:
-a great guzzler of oil, a consumer good rather than a capital good.
-Equally mistaken is the notion that food can be produced cheaply and in
-large quantity with microorganisms such as chlorella and yeast. Science
-cannot produce something from nothing.
-
-## The Frightful Possibility
-
-Fukuoka identified what he called "the frightful possibility that the
-transfiguration of agriculture may result in the perversion of far more
-than just agriculture." The question of food quality extends beyond
-nutrition into the realm of human consciousness and civilization itself.
-
-When food becomes entirely divorced from soil, sunlight, and living nature,
-the humans who consume it become divorced from those same elements. The
-hothouse-to-synthesis trajectory is not merely an agricultural trend — it
-is an existential threat to humanity's relationship with the natural
-world, and therefore to humanity's capacity to live as a natural being.
-
-The only antidote Fukuoka offered was the renunciation of human knowledge
-and intervention in farming — a return to the [[do-nothing-farming|do-nothing farming]] principle where nature, not human technology, grows the food.
-
-Every step along the hothouse-to-synthesis trajectory represents a
-widening gap between what humanity eats and what nature provides. Closing
-that gap is the central challenge of [[regenerative-agriculture|regenerative food systems]] and the foundational motivation behind Fukuoka's life work.

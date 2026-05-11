@@ -1,10 +1,11 @@
 ---
-title: Pressing Hash - Methods and Techniques
+title: Cervantes Pressing Hash
 type: concept
 created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, pressing, processing, storage]
 ---
@@ -12,17 +13,17 @@ tags: [cannabis, hash, pressing, processing, storage]
 # Pressing Hash - Methods and Techniques
 
 Once collected, resin powder is often pressed to facilitate
-handling and storage. Bulky resin powder is awkward to handle;
+[[coleman-post-harvest-handling-and-storage]]. Bulky resin powder is awkward to handle;
 it is easily spilled, blown away, and contaminated by dust and
 dirt. Resin powder is also more difficult to smoke, especially
 if no screen is available. Once pressed into a piece of hash,
 the resin is easy to handle, store, transport, and consume.
 Proper pressing is essential for storage and to slow
-decomposition.
+[[decomposition]].
 
 ## What Pressing Does
 
-Pressing ruptures resin glands and warms the resin, causing
+Pressing ruptures [[greg-green-trichomes-and-resin-glands]] and warms the resin, causing
 many volatile aromatic terpenoids to release their aromas and
 flavors. The pressure exerted to form a cohesive block is
 contingent upon the volume of contaminants in the powder. The
@@ -86,51 +87,3 @@ contain it. Poke a few small holes in the bag before pressing
 to allow trapped air to escape. The bag goes into a
 heavy-duty steel mold, and pressure is applied with a hydraulic
 jack.
-
-- Hydraulic jacks have a capacity from 10-20 tons.
-- They are mounted to heavy-duty steel frames.
-- Standard molds hold approximately 100 grams.
-- Mechanical presses must be precise and align well so hash
-  does not ooze out seams.
-
-## Hammering (Moroccan Method)
-
-Hammering hash is popular in Morocco but uncommon in
-Australia, New Zealand, Europe, and [[psilocybin-north-america-pacific-northwest]]. Hammering
-bursts and blends resin glands together into a cohesive mass.
-Often resin glands are hammered before being hydraulically
-pressed into plaques.
-
-1. Place resin powder into an extra heavy-duty plastic bag.
-2. Place bag on a wooden bench, tree stump, or board.
-3. Place a piece of plywood over the bag.
-4. Whack the plywood with a hammer until the resin forms a
-   cohesive pancake.
-5. Remove from bag and fold once or twice to make it smaller
-   and thicker.
-6. Repeat hammering and folding until resin transforms into
-   sticky hash.
-7. Apply a little heat if the hash is slow to form.
-
-## Important Considerations
-
-Pre-press water-extracted hash in a piece of cellophane to
-contain it and help [[query-how-to-get-rid-of-slugs-and-snails-organically]] of water. The cellophane gives
-pressed hash a shiny skin.
-
-Make sure hash is totally dry before pressing to avoid mold.
-Water hash does not react like dry-sieved hash when pressed;
-the resin has been melded together differently. Pressing when
-wet traps moisture inside, preventing proper gelling and
-leaving a powdery consistency.
-
-Add a drop of brandy, whisky, bourbon, or rum if needed to
-help less-pure hash stick together. Higher alcohol content
-spirits are favored. Add only a drop at a time; alcohol takes
-a few minutes to penetrate and act.
-
-## See Also
-
-- [[cervantes-water-hash-bubble-hash]]
-- [[cervantes-hash-storage]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]

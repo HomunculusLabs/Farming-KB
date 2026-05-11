@@ -17,7 +17,7 @@ members of the 2C family of phenethylamines. First synthesized by Alexander
 Shulgin in 1974 and documented in PIHKAL as compound #7, 2C-B earned the
 street name "Nexus" for its unique position bridging classical psychedelics
 and empathogens. It occupies a distinctive niche between the visual intensity
-of LSD and the emotional warmth of MDMA.
+of LSD and the emotional warmth of [[mdma]].
 
 The compound gained popularity in the 1990s as a replacement for MDMA after
 scheduling. Its balanced effects, manageable duration, and tolerable body
@@ -27,7 +27,7 @@ scheduling in many jurisdictions.
 
 At lower doses 2C-B tends toward empathogenic and tactile effects, while at
 higher doses it becomes increasingly visual and psychedelic, approaching the
-intensity of LSD or mescaline. This dose-dependent shift is one of its most
+intensity of LSD or [[mescaline]]. This dose-dependent shift is one of its most
 characteristic features.
 
 ## Chemical Structure and Classification
@@ -84,48 +84,7 @@ effects, which earned it the "Nexus" name among users.
 
 ## Pharmacology
 
-2C-B acts primarily as a serotonin 5-HT2A receptor agonist with additional
+2C-B acts primarily as a [[serotonin]] 5-HT2A receptor agonist with additional
 activity at 5-HT2C and 5-HT1A receptors. It also shows affinity for the
 serotonin transporter (SERT), contributing to empathogenic qualities at
 lower doses. The bromine substituent influences both [[tihkal-receptor-binding-serotonin]]
-affinity and metabolic stability.
-
-Metabolism occurs through hepatic oxidative deamination, O-demethylation,
-and conjugation. Recent research confirms 2C-B as a partial agonist at
-5-HT2A with Ki in the low nanomolar range, making it one of the more potent
-2C compounds in receptor affinity.
-
-## Safety and Harm Reduction
-
-The primary risk is the steep dose-response curve. Doses above 30 mg can
-produce overwhelmingly intense experiences. Accurate measurement with a
-milligram scale is essential. Physical risks include elevated blood pressure,
-increased heart rate, and rare hyperthermia at very high doses.
-
-Combining with other serotonergic substances carries additional risks.
-Individuals with cardiovascular conditions should exercise caution. Harm
-reduction practices include using a calibrated scale, starting with a lower
-test dose, and avoiding insufflation due to severe nasal burning.
-
-## Comparison to Related Compounds
-
-Compared to 2C-I, 2C-B produces less intense visuals but more empathogenic
-effects and a cleaner headspace. Against 2C-E, 2C-B is significantly gentler
-with less body load. Compared to MDMA, 2C-B is more visual and less purely
-empathogenic but lacks MDMA's serotonin depletion and post-use depression.
-Against LSD, 2C-B is shorter-acting and more tactile.
-
-## Historical and Cultural Significance
-
-2C-B was first synthesized by Shulgin in 1974 and introduced to the
-psychedelic community in the early 1980s. It was briefly sold commercially
-as "Erox" and "Nexus" before scheduling in the US in 1995. It gained
-massive popularity in the global rave and festival scene, particularly in
-Europe and [[guzman-psilocybin-mushrooms-south-america]]. It is classified as Schedule I in the US and
-controlled under the UN Convention on Psychotropic Substances.
-
-## See Also
-
-- [[pihkal-2c-i]]
-- [[pihkal-mdma]]
-- [[pihkal-introduction-and-methodology]]

@@ -66,7 +66,7 @@ Seed color ranges from cream and gold to brown and black depending on cultivar.
 ## Distribution and Habitat
 
 *Amaranthus cruentus* is believed to have been domesticated in the valleys of
-central Mexico from the wild progenitor *Amaranthus hybridus*. Archaeological
+[[psychoactive-cacti-of-central-mexico]] from the wild progenitor *Amaranthus hybridus*. Archaeological
 evidence indicates grain amaranth cultivation dates back at least 6,000–8,000 years.
 
 Spanish colonial authorities suppressed amaranth cultivation due to its
@@ -74,10 +74,10 @@ association with Aztec religious rituals, nearly eradicating the crop by the
 17th century.
 
 The species persisted in remote highland communities and has since been
-rediscovered and spread to Africa, South Asia, and Southeast Asia.
+rediscovered and spread to Africa, South Asia, and [[psilocybe-southeast-asia-pacific]].
 
 Today it is widely grown in Nigeria, Benin, Togo, India, Nepal, China, and
-throughout Central America as both a grain and a leaf vegetable.
+throughout [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] as both a grain and a leaf vegetable.
 
 ## Cultivation
 
@@ -87,59 +87,3 @@ conditions, from sea level to 2,400 m elevation.
 It performs best in well-drained sandy loam soils with pH 5.5–7.5 and
 requires moderate fertility, though it can produce acceptable yields on
 marginal soils.
-
-Optimal growth temperature ranges from 22–30°C; the crop is moderately
-drought-tolerant once established but benefits from consistent moisture
-during the [[green-cannabis-grow-bible-vegetative-phase-management]].
-
-Seeds are sown directly at rates of 0.5–2 kg/ha for [[fukuoka-no-till-grain-production-method]] or
-broadcast at higher density for leaf harvest.
-
-For grain production, plants are spaced 20–50 cm within rows 50–75 cm apart,
-with thinning performed 2–3 weeks after emergence.
-
-Maturity for grain harvest occurs 90–120 days after sowing, when inflorescences
-turn brown and seeds can be easily threshed.
-
-Grain yields range from 1,000–3,000 kg/ha under rainfed conditions, with
-yields up to 5,000 kg/ha reported under optimal management.
-
-## Nutritional Value
-
-Amaranth grain is notable for its exceptionally high protein content of 13–18%,
-with a favorable amino acid profile rich in lysine, an essential amino acid
-deficient in most cereal grains.
-
-The protein quality score (PDCAAS) of amaranth approaches that of casein,
-making it one of the most complete plant protein sources available.
-
-Grain amaranth is also rich in dietary fiber (6–10%), iron (7.6 mg/100 g),
-calcium (159 mg/100 g), magnesium (248 mg/100 g), and phosphorus.
-
-The seeds contain 5–9% lipids, predominantly unsaturated fatty acids including
-linoleic acid and oleic acid.
-
-Amaranth leaves consumed as a vegetable provide provitamin A (β-carotene),
-vitamin C, folate, and calcium at levels comparable to or exceeding spinach.
-
-## Ecological Role
-
-*Amaranthus cruentus* functions as a C4 plant with high photosynthetic
-efficiency and water-use efficiency, conferring advantages under warm, dry
-conditions compared to C3 cereals.
-
-The deep taproot system helps prevent soil erosion on slopes and improves
-soil structure through root penetration and [[hamilton-composting-and-organic-matter-management]] addition.
-
-As a fast-growing crop with a short [[savory-growing-season-and-non-growing-season-management]], amaranth can serve as
-a catch crop or relay crop in diversified farming systems.
-
-The species shows potential for phytoremediation of moderately contaminated
-soils due to its ability to accumulate certain heavy metals in leaf tissue.
-
-## See Also
-
-- [[amaranthus-hypochondriacus]]
-- [[sorghum-bicolor]]
-- [[phaseolus-vulgaris]]
-- [[oryza-sativa]]

@@ -88,18 +88,3 @@ Software packages (REDEQL, MINEQL) have been adapted to include biosorption. Lan
 Jain & Snoeyink (1973) competition modifications adapted to multicomponent biosorption show significant improvement in correlation with empirical data, though applied mainly to algal systems.
 
 ## Anion Biosorption
-
-Toxic metal anions (CrO₄²⁻, AsO₄³⁻, MoO₄²⁻, VO₄³⁻) show opposite pH dependence to cations:
-
-- Optimum Cr(VI) removal at pH 1–2
-- Negligible biosorption at neutral pH
-- At low pH, protonated functional groups attract anions electrostatically
-- Cr(VI) reduction to Cr(III) may also occur at low pH
-
-## Practical Applications and Limitations
-
-Despite extensive research since the 1980s, actual industrial application of [[singh-binary-ternary-fungal-biosorption-systems]] remains unproven. Less than 20% of biosorption publications from 1998–2000 focused on fungi. Key limitations:
-
-- Case-specific uptake values that vary widely with experimental conditions
-- Difficulty comparing results across studies
-## See Also

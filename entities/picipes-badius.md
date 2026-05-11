@@ -56,7 +56,7 @@ It is commonly found throughout Europe, [[psilocybin-north-america-pacific-north
 
 The species is primarily saprotrophic, decomposing dead hardwood including oak, beech, maple, birch, and ash.
 
-It occasionally occurs as a weak parasite on stressed or declining hardwood trees, causing a white rot of the heartwood.
+It occasionally occurs as a weak parasite on stressed or declining hardwood trees, causing a [[brown-rot-and-white-rot-fungi-in-mycoremediation]] of the heartwood.
 
 Fruiting occurs from late spring through autumn, typically on fallen logs, branches, and stumps in deciduous forests.
 
@@ -66,19 +66,19 @@ The species is relatively common in old-growth and mature secondary forests with
 
 ## Ecology and Applications
 
-Picipes badius plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its saprotrophic decomposition of hardwood.
+Picipes badius plays a significant role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through its [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]] of hardwood.
 
-The white rot decay it produces breaks down both cellulose and lignin, contributing to carbon and nitrogen recycling in forest ecosystems.
+The white rot decay it produces breaks down both cellulose and lignin, contributing to carbon and nitrogen recycling in [[dighton-fungi-acidifying-pollutants-forest-ecosystems]].
 
-The species has documented ectomycorrhizal associations with certain hardwood species, though its primary ecological role is saprotrophic.
+The species has documented [[ectomycorrhizal-associations]] with certain hardwood species, though its primary ecological role is saprotrophic.
 
-Antimicrobial compounds have been isolated from P. badius in laboratory studies, showing activity against Gram-positive bacteria.
+[[antimicrobial-compounds-mushroom-mycelium]] have been isolated from P. badius in laboratory studies, showing activity against Gram-positive bacteria.
 
 These bioactive metabolites include terpenoids and polyphenolic compounds, though clinical applications remain unexplored.
 
 The tough, leathery texture of the basidiocarp renders it inedible for culinary purposes.
 
-However, traditional use in some East Asian cultures involves preparing decoctions of dried fruiting bodies for folk medicinal applications.
+However, traditional use in some East Asian cultures involves preparing decoctions of dried [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] for folk medicinal applications.
 
 The species is of interest in mycoremediation research due to its lignin-degrading enzyme systems.
 
@@ -87,34 +87,3 @@ The species is of interest in mycoremediation research due to its lignin-degradi
 Picipes badius is closely related to other members of the Picipes clade including P. tubaeformis and P. melanopus.
 
 It can be confused with Polyporus arcularius, which has larger pores and a more delicate [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]].
-
-Royoporus badius is a synonym under the current Picipes classification.
-
-Other similar polyporoid species include Trametes hirsuta, which differs in its hirsute upper surface and more strongly zonated coloration.
-
-The genus Picipes as circumscribed by Zmitrovich and Malysheva includes approximately 12 species worldwide.
-
-Molecular phylogenetic data place Picipes within the core polyporoid clade, sister to Ceriporiopsis and related genera.
-
-## Cultivation
-
-Picipes badius is not commercially cultivated but can be grown on supplemented hardwood sawdust substrates in laboratory settings.
-
-Fruiting requires elevated humidity (85–95%) and temperatures of 18–24°C with moderate air exchange.
-
-The species is relatively slow-growing compared to cultivated polypores like [[query-how-to-grow-oyster-mushrooms-at-home]] and shiitake.
-
-[[azurescens-spawn-preparation-grain-to-wood]] uses grain or sawdust inoculum, with a 2–3 week colonization period at 22–25°C.
-
-Outdoor cultivation on buried hardwood logs has been achieved experimentally, with fruiting appearing 6–12 months after inoculation.
-
-Yields are low and the inedible texture limits practical cultivation interest to research and conservation applications.
-
-## See Also
-
-- [[fomes-fomentarius]]
-- [[hericium-erinaceus]]
-- [[boletus-edulis-entity]]
-- [[coriolopsis-capitata]]
-- [[armillaria-mellea-entity]]
-- [[rhizophagus-irregularis]]

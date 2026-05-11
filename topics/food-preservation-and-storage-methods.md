@@ -15,6 +15,7 @@ tags:
 date: 2026-04-30
 updated: 2026-04-30
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "Solomon, Carol Deppe. The Resilient Gardener."
   - "Mollison, Bill. Permaculture: A Designers' Manual."
   - "Various homesteading and food preservation guides."

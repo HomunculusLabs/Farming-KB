@@ -87,34 +87,3 @@ If the receptor's activated conformation is sensitive to quantum-level features 
 ## Comparative Quantum Pharmacology
 
 The quantum sensitivity hypothesis gains further support when hallucinogenic compounds are compared across chemical classes. The phenethylamine hallucinogens (such as mescaline and 2C-B) and the tryptamine hallucinogens (such as psilocybin and DMT) produce overlapping but distinct subjective experiences, despite binding to the same receptor family. The differences in experience may reflect the different quantum mechanical properties of the two molecular scaffolds, including differences in electron distribution, molecular rigidity, and vibrational modes.
-
-LSD, which is neither a simple phenethylamine nor a simple tryptamine but a complex ergoline derivative, produces subjective effects that are in some ways more intense and prolonged than either class. The ergoline ring system, with its fused polycyclic structure and multiple chiral centres, presents a quantum mechanical profile that is qualitatively different from either the simple tryptamines or phenethylamines. The uniquely prolonged duration of the LSD experience may reflect the stability of the specific receptor conformation induced by the ergoline quantum mechanical profile.
-
-## Limitations and Criticisms
-
-The quantum mechanical hypothesis of hallucinogenesis remains speculative. The sensitivity of psychoactive compounds to molecular substitution could alternatively be explained by the exquisite specificity of neural receptor systems, which are themselves products of evolutionary refinement. The fact that classical receptor pharmacology, including serotonin 5HT2A [[beta-glucan-receptor-binding]], explains much of the activity of tryptamine hallucinogens does not require quantum mechanical frameworks beyond those already inherent in all molecular interactions.
-
-Furthermore, the subjective reports of DMT experiences, while remarkable, are difficult to quantify or study using conventional scientific methods. The argument that single-atom sensitivity implies quantum mechanical processing conflates molecular-level interactions, which are already quantum mechanical in nature, with the much more speculative claim that consciousness itself involves macroscopic quantum phenomena. The leap from molecular quantum mechanics to quantum consciousness remains one of the largest inferential gaps in the field, and the hallucinogenic data, while suggestive, does not bridge it.
-
-## The Binding Affinity Paradox
-
-A further observation supporting the quantum mechanical hypothesis is the binding affinity paradox. Many potent hallucinogens do not have the highest binding affinity for the 5HT2A receptor. Compounds with higher affinity, such as some antipsychotics, produce no psychedelic effects whatsoever, while compounds with moderate or even low affinity can produce profound alterations of consciousness. This dissociation between binding affinity and subjective potency suggests that the critical variable is not simply whether the molecule binds to the receptor but something about the nature of the binding interaction itself.
-
-If the quality of the subjective experience depends on quantum mechanical features of the receptor-ligand complex rather than on binding affinity per se, this would explain why molecules with similar binding affinities can produce radically different experiences. The receptor may function as a quantum mechanical transducer, converting the specific quantum features of the bound ligand into distinct patterns of neural signalling. Under this model, psychoactivity is not a function of how tightly the molecule binds but of what kind of binding interaction it creates.
-
-## The Measurement Problem in Consciousness Research
-
-The quantum mechanical hypothesis highlights a fundamental measurement problem in consciousness research. The subjective experience reported by experimental subjects is the primary data in psychedelic research, yet this data exists only in the first person and cannot be directly measured by instruments. McKenna's argument that single-atom sensitivity implies quantum mechanical processing attempts to bridge this gap by pointing to an objective, third-person datum, the structure-activity relationship, that can be studied using conventional scientific methods.
-
-The challenge is that the structure-activity relationship itself does not directly measure consciousness; it measures the relationship between molecular structure and behavioural or subjective reports. The inference from structure-activity data to quantum mechanical consciousness requires additional assumptions that are themselves difficult to test. Nevertheless, the extraordinary sensitivity of the structure-activity relationship remains an empirical fact that demands explanation, and the quantum mechanical hypothesis, while speculative, offers a more satisfying account of this sensitivity than purely classical alternatives.
-
-## See Also
-
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
-- [[glossolalia-tryptamine-language]]
-- [[mckenna-philo-judaeus-logos-hearing-to-beholding]]
-- [[mckenna-cognitive-dissonance-translinguistic-object]]
-- penrose hameroff quantum coherence microtubules consciousness
-- [[mckenna-endogenous-dmt-brain-familiarity]]
-- pikhalk tihkal shulgin structure activity psychoactive compounds
-- [[tihkal-receptor-binding-serotonin]]

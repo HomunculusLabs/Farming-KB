@@ -1,5 +1,5 @@
 ---
-title: bloomfields orchard gasteromycetes and stinkhorn fungi Fungi
+title: Bloomfields Orchard Gasteromycetes And Stinkhorn Fungi
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -25,9 +25,9 @@ sources:
 
 The gasteromycetes are a section of [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]]
 defined by their production of spores inside enclosed
-fruiting bodies rather than on exposed gills or pores.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] rather than on exposed gills or pores.
 This group encompasses some of the most bizarre organisms
-in the fungal kingdom: phallic stinkhorns erupting from
+in the [[fungal-kingdom-diversity]]: phallic stinkhorns erupting from
 buried eggs, [[stinkhorn-cage-fungi-reproductive-biology]] unfolding like geometric sculptures,
 puffballs emitting clouds of spores, and bird's nest fungi
 splashing spore packets onto grass blades.
@@ -35,7 +35,7 @@ splashing spore packets onto grass blades.
 ## What Are Gasteromycetes?
 
 The term derives from Greek meaning stomach fungi,
-referring to internal spore formation. Unlike typical
+referring to internal [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]]. Unlike typical
 mushrooms whose basidia are exposed on gills, tubes,
 or spines, gasteromycetes produce spores internally.
 The group is polyphyletic, not a natural taxonomic unit.
@@ -48,7 +48,7 @@ Very few genes specify emergence, and when these mutate,
 the bolete remains buried.
 The gradual loss of unfolding capacity results in spore
 production within enclosed tissues, precluding the
-water-dependent catapult mechanism. This enables
+water-dependent [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]. This enables
 colonization of much drier habitats including sandy
 soils and deserts.
 
@@ -87,60 +87,3 @@ feces of ghosts or of the stars. The polyhedral structure
 shares geometry with Buckminster Fuller's geodesic domes
 and buckminsterfullerene carbon molecules, reflecting the
 strength of lightweight polyhedral forms.
-
-### Laternea
-
-Laternea triscapa produces long arms fused at their tips,
-creating a vaulted chamber with a reeking lantern of
-spores dangling inside.
-
-## Puffballs and Earth-Stars
-
-Puffballs and earth-balls expel spores through an apical
-pore in response to disturbance. A single giant puffball
-produces an estimated 7 trillion spores, the most fecund
-output of any organism.
-Earth-stars split their outer layer into a star, elevating
-the inner spore sac above the ground boundary layer for
-improved dispersal. After expansion, many function
-perfectly during drought because their dispersal does
-not depend on the water-dependent catapult mechanism.
-
-## Bird's Nest Fungi
-
-Bird's nest fungi produce tiny champagne-flute-shaped
-fruiting bodies a few millimeters tall, containing spore
-packets called peridioles. Raindrops splash peridioles
-onto grass blades.
-Herbivores consume contaminated vegetation, and spores
-pass through the digestive tract to be deposited in warm
-manure, an ideal growth medium. Unsuccessful spores
-dehydrate and die; fortunate ones complete a two-stage
-dispersal mechanism through an animal gut.
-
-## Sphaerobolus: The Artillery Fungus
-
-Sphaerobolus grows on wood mulch and launches a black ball
-of spores using a cup-shaped [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] operating as a
-tiny trampoline. The inner cup suddenly inverts, propelling
-the spore ball several meters.
-The balls adhere with incredible tenacity to smooth
-surfaces, ruining car paintwork. Even vigorous cleaning
-leaves permanent spots. Like bird's nest fungi, the
-fungus is adapted for passage through an herbivore gut,
-but its intended targets are grass blades rather than
-parked cars.
-
-## Related
-
-- [[stinkhorn-fungi-morphology-and-ecology]]
-
-- [[stinkhorn-fungi-gasteromycetes]] Concepts
-
-- Spore [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]] in Fungi
-- [[bloomfield-fungal-biology-and-hyphal-growth]] and Ecology
-- [[stinkhorn-fungi-and-insect-spore-dispersal]]
-- bloomfields-orchard-fungal-biology-and-ecology
-- [[bloomfields-orchard-notable-mycologists-buller-and-lloyd]]
-
-- mushroom-hunting-and-identification

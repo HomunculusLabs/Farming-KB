@@ -10,12 +10,12 @@ sources: []
 
 ## Overview
 
-Schisandra (Schisandra chinensis) and Rhodiola (Rhodiola rosea) are two of
+Schisandra (Schisandra chinensis) and Rhodiola ([[rhodiola-rosea]]) are two of
 the most extensively studied adaptogenic [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]] herbs, each with rich traditional
 medicinal histories and modern clinical applications. While both help the body
 adapt to stress and restore balance, they originate from different botanical
 families, geographical regions, and traditional medicine systems, resulting in
-distinct phytochemical profiles and primary therapeutic applications. Schisandra,
+distinct phytochemical profiles and primary [[psilocybin-therapeutic-applications]]. Schisandra,
 known as "five-flavor berry" in Traditional Chinese Medicine, offers comprehensive
 systemic support with its unique five-taste profile, while Rhodiola, called
 "golden root" in Siberian tradition, excels specifically in enhancing mental
@@ -44,7 +44,7 @@ Siberians used it as a general tonic and remedy for fatigue, depression, and
 altitude sickness. In modern herbal medicine, Rhodiola is prized for its ability
 to enhance mental performance, reduce fatigue, and protect against stress-related
 damage. Its primary active compounds are rosavins (rosavin, rosin, rosarin) and
-salidroside, which work synergistically to modulate stress response, support
+salidroside, which work synergistically to modulate [[epinephrine-stress-response-endocannabinoid-modulation-blesching]], support
 neurotransmitter balance, and improve cellular energy production.
 
 ## Botanical Characteristics
@@ -92,7 +92,7 @@ neurotransmitter balance, and improve cellular energy production.
   antioxidant enzymes (SOD, catalase, glutathione peroxidase)
 - Anti-inflammatory: Suppresses NF-κB and MAPK pathways, reducing
   pro-inflammatory cytokines
-- Neuroprotective: Protects against glutamate excitotoxicity and amyloid-beta
+- Neuroprotective: Protects against [[blesching-glutamate-excitotoxicity-cannabinoid-neuroprotection]] and amyloid-beta
   toxicity, modulates BDNF/TrkB signaling
 - Astringent action: Reduces fluid loss through membranes and tissues
 - Adaptogenic: Balances HPA axis function and endocrine system
@@ -107,7 +107,7 @@ neurotransmitter balance, and improve cellular energy production.
   reduces lactate accumulation, enhances glycogen synthesis
 - Neuroprotection: Protects neurons from stress-induced damage, improves
   cognitive function under stress
-- Cardiovascular support: Enhances stress tolerance and physical endurance
+- Cardiovascular support: Enhances [[fungal-lichen-stress-tolerance-and-poikilohydry]] physical endurance
 
 ## Modern Applications
 
@@ -125,7 +125,7 @@ neurotransmitter balance, and improve cellular energy production.
 - Physical endurance and athletic performance
 - Stress management and mood support
 - Fatigue reduction (both mental and physical)
-- Altitude sickness prevention and treatment
+- Altitude sickness [[cannabis-root-rot-prevention-and-treatment]]
 - Depression and anxiety support (often combined with conventional treatment)
 - Anti-aging and vitality formulas
 - Workplace performance and productivity enhancement
@@ -138,4 +138,4 @@ neurotransmitter balance, and improve cellular energy production.
 - Looking for a fast-acting adaptogen for acute stress situations
 
 - Recovery from illness or exhaustion requiring both revitalization
-- [[herbal-medicine-basics]] — Introduction to herbal medicine principles
+- herbal medicine basics — Introduction to herbal medicine principles

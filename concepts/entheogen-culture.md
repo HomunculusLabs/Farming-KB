@@ -128,7 +128,7 @@ See also: [[jonathan-ott]] — ethnobotanist who co-coined 'entheogen' and autho
 
 - [[andy-letcher]]
 - [[cannabis-spiritual-ritual-use]]
-- [[maria-sabina-mazatec-mushroom-ceremony]]
+- [[maria-sabina-and-mazatec-mushroom-ceremony]]
 - [[ayahuasca-preparation]]
 - [[iboga-tabernanthe]]
 - [[dm-turner]]

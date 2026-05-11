@@ -1,5 +1,5 @@
 ---
-title: "Bats vs. comparison bats vs purple martins vs dragonflies [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]. Dragonflies for Mosquito and Flying fukuoka-textdoc-arrowhead-scale-ladybug-biological-control of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
+title: Comparison Bats Vs Purple Martins Vs Dragonflies [[beneficial-insects-and-biological-pest-control]]
   - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird House Placement Guidelines.'"
   - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural pest suppression: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
   - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."
@@ -110,7 +110,7 @@ Building resilience into systems through diversity, redundancy, and
 adaptive capacity helps mitigate the impacts of these uncertainties.
 
 Knowledge gaps and the ongoing evolution of understanding mean that
-current best practices represent our current state of knowledge rather
+current [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]] represent our current state of knowledge rather
 than final answers. Practitioners should maintain intellectual humility
 and remain open to new information and approaches that may improve
 upon established methods. Continuous learning and observation are

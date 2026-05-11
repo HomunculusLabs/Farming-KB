@@ -13,7 +13,7 @@ type: concept
 
 Single-cell protein (SCP) production represents a valuable co-product of
 fungal wastewater treatment, simultaneously addressing protein scarcity
-and waste management challenges. Fungi grown on industrial wastewaters
+and [[off-grid-waste-management]] challenges. Fungi grown on [[fungal-treatment-of-industrial-wastewaters]]
 convert organic pollutants into protein-rich biomass suitable for animal
 feed and aquaculture, creating economic incentives for bioremediation
 processes.
@@ -26,20 +26,20 @@ biomass alongside effluent purification. Key findings include:
 - Biomass of 4.5 to 5.2 g dry weight per liter from 1 L of starch
   wastewater in 14 hours of cultivation, with 46% protein content
 - Exponential biomass growth occurs between 6 and 12 hours at a specific
-  growth rate of 0.15 g/h
+  [[soil-temperature-plant-growth-rate-doubling-rule]] of 0.15 g/h
 - Protein is safe for human and animal consumption, making operating
   costs recoverable through biomass sales
 - Glucoamylase activity in culture filtrate increases proportionately
   with starch hydrolysis and biomass synthesis
-- Aspergillus oryzae in airlift bioreactors yields 6.1 g/L biomass with
+- [[aspergillus-oryzae]] in airlift bioreactors yields 6.1 g/L biomass with
   38% protein and 55 EU/mL of alpha-amylase from 12-hour batch culture
-- Small compact pellets favor biomass protein production efficiency,
+- Small compact pellets favor biomass [[fungal-single-cell-protein-production]] efficiency,
   harvesting, and process operation
 
 ## SCP from Distillery and Brewery Wastes
 
 ### Yeast-Based Production
-- **Candida utilis**: Exhibits good amino acid composition with 520 g/kg
+- **Candida utilis**: Exhibits good [[cho-fish-amino-acid-preparation]] composition with 520 g/kg
   protein content and relatively low lipid content; dry yeast serves as
   suitable protein source for cultivated rainbow trout
 - **Mixed cultures**: Candida krusei, Geotrichum candidum, and Hansenula
@@ -88,44 +88,3 @@ considerations include:
   indicate its suitability as animal fodder
 
 ## SCP from Banana Wastewater
-
-Rhizopus stolonifer and R. oryzae cultivated on banana wastewater achieve
-remarkable biomass yields and protein content. Biomass production reaches
-up to 22.7 g/L, comparable to commercial production, with protein content
-of 32%. These fungi efficiently metabolize the high carbohydrate content
-of banana processing waste, transforming a significant pollution source
-into valuable animal feed protein. The process simultaneously reduces
-COD and BOD of the wastewater by 60-75%.
-
-## Process Optimization Parameters
-
-Successful SCP production from wastewater requires careful control of:
-
-- **Cultivation mode**: Fed-batch preferred for cost efficiency; batch
-  for simplicity; continuous for highest volumetric productivity
-- **Pellet morphology**: Small compact pellets improve oxygen transfer,
-  mixing, harvesting, and overall protein production efficiency
-- **Aeration**: Adequate oxygen supply is critical for high protein yield;
-  airlift bioreactors offer good mass transfer at low energy cost
-- **pH control**: Species-specific optima, typically pH 4.5-6.0 for most
-  filamentous fungi and yeasts
-- **Temperature**: Mesophilic range (25-35 degrees Celsius) for most
-  strains; thermotolerant species expand application windows
-
-## Economic Considerations
-
-SCP [[fukuoka-textdoc-production-costs-not-coming-down]] from fungal wastewater treatment are competitive
-with conventional protein sources. Fed-batch fermentation of C. utilis
-on molasses produces biomass at $2.76/kg dry cells, matching commercial
-pricing. Revenue from SCP sales can offset wastewater treatment costs,
-making [[staycare-composting-as-a-fungal-bioremediation-strategy]] economically sustainable for food-processing
-industries.
-
-## See Also
-
-- singh-fungal-treatment-industrial-wastewaters-overview
-- singh-mushroom-cultivation-on-agricultural-wastes
-- [[singh-fungal-bioreactor-types-configurations]]
-- [[singh-olive-mill-wastewater-fungal-treatment]]
-- [[singh-starch-oil-wastewater-fungal-treatment]]
-- [[singh-constructed-wetlands-fungal-wastewater-treatment]]

@@ -3,6 +3,7 @@ title: bill-mollison-permaculture-a-designers-manual-permaculture-design-princip
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md
 type: concept
 tags: [culture, design, natural-farming, permaculture]
@@ -35,7 +36,7 @@ Sustainable systems are circular rather than linear. Used items go back to their
 3. Produce more than needed; surplus can be sold or given away
 4. A single person can reasonably manage less than 25 acres; smaller is better
 5. Provide full income to workers living on-site (no commute)
-6. Process farm products on-site (cheese, bread, etc.)
+6. Process [[selling-farm-products-and-business]] on-site (cheese, bread, etc.)
 7. Beauty of design comes as a benefit of functionality
 8. Some areas remain wild and preserved in their natural state
 9. Use low-energy, simple technology
@@ -50,16 +51,16 @@ Sustainable systems are circular rather than linear. Used items go back to their
 Where you live, process food, and produce waste. Connected to the garden and greenhouse. Vines and plants can cover walls and possibly the roof.
 
 ### Zone 1: Intensive Gardens
-Immediately surrounding the house. Highly controlled, irrigated, and drained. Sheet-mulched garden beds, small pond, outbuildings (tool shed), dwarf fruit trees, low windbreak. Herbs near the kitchen door, salad beds, pathside vegetables, narrow and wide beds. The compost bin, clothesline, and outdoor kitchen are here. Drip irrigation and cover crops. Deciduous trees on sunny sides provide summer shade but allow winter sun; evergreens on other sides protect from heat and wind.
+Immediately surrounding the house. Highly controlled, irrigated, and drained. Sheet-mulched garden beds, small pond, outbuildings (tool shed), dwarf fruit trees, low windbreak. Herbs near the kitchen door, salad beds, pathside vegetables, narrow and wide beds. The compost bin, clothesline, and outdoor kitchen are here. [[coleman-drip-irrigation-and-water-management]] cover crops. Deciduous trees on sunny sides provide summer shade but allow winter sun; evergreens on other sides protect from heat and wind.
 
 ### Zone 2: Orchard and Small Livestock
-Extends beyond Zone 1 gardens. Major staple crops (grains, potatoes). Worms, rabbits, chickens, ducks, or fish. Fruit and nut trees, beehives, hedges, trellising. The compost heap is located here. Mulched with straw and other materials. Fenced with heavy-duty wire mesh, possibly barbed wire, electric wire, and thorny shrubs.
+Extends beyond Zone 1 gardens. Major staple crops (grains, potatoes). Worms, rabbits, chickens, ducks, or fish. Fruit [[holzer-sweet-chestnut-and-nut-trees]], beehives, hedges, trellising. The compost heap is located here. Mulched with straw and other materials. Fenced with heavy-duty wire mesh, possibly barbed wire, electric wire, and thorny shrubs.
 
 ### Zone 3: Large Orchard and Barn
-For rural/larger properties. Larger unpruned orchard, windbreak trees, goat pen, beehives. Living mulches, animal fodder plants, firebreaks. Water stored in soil via swales, or caught with small dams and sent through ditches. The barn is here, along with cash crops and larger animals (sheep, cows).
+For rural/larger properties. Larger unpruned orchard, windbreak trees, goat pen, beehives. [[permaculture-plants-ground-covers-living-mulches]], animal fodder plants, firebreaks. Water stored in soil via swales, or caught with small dams and sent through ditches. The barn is here, along with cash crops and larger animals (sheep, cows).
 
 ### Zone 4: Woodlot and Forage
-Long-term development through woodlot, dam, and extensive tree planting. Windmills, large animal stock, large-scale water harvesting. Pigs work well in forest zones. No mulches used; hardy edible plants foraged from forest edges. Managed with small dams, rivers, and windmill pumps.
+Long-term development through woodlot, dam, and extensive [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]. Windmills, large animal stock, large-scale water harvesting. Pigs work well in forest zones. No mulches used; hardy edible plants foraged from forest edges. Managed with small dams, rivers, and windmill pumps.
 
 ### Zone 5: Wilderness
 Nature preserve and wildlife corridor. Can and should be placed on any property size. In urban backyards, simply a back corner left to birds and wildlife. Fence it off and leave it alone. Do not plant native species (that misses the point of Zone 5).
@@ -86,13 +87,4 @@ Building swales: Multiple swales are placed together along the slope contour. Th
 
 ## The Edge Effect
 
-The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical [[cotter-growing-space-design-fruiting-rooms]] (trellises), and zigzags. Edge types include spirals (herb spirals), lobular shapes alongside pathways, chinampas (land banks between water ditches), and strip cropping (multiple plant types in curved strips).
-
-## Forest Garden Strategy
-
-Mimic natural [[mollison-wet-tropical-forest-structure-and-polyculture]] with plants at different heights. In dry or [[greenhouse-cool-climates-mollison]], space plants farther apart. In warm, humid climates, plant closer together (but not too close to avoid fungus). In fertile areas, plant all species at once. Total yield from all species exceeds monoculture yield. Rotation becomes unnecessary when many different crops grow in one place.
-
-## Plant Guilds (Communities)
-
-Organize plants around a central element based on [[natural-farming-guide-cover-cropping-and-green-manures]]
-- [[natural-farming-guide-integrated-pest-management]]
+The edge of a forest gets more light and nutrients than the center, making it more productive. To maximize this edge effect, permaculture uses circles, spirals, curves, vertical [[cotter-growing-space-design-fruiting-rooms]] (trellises), and zigzags. Edge types include spirals (herb spirals), lobular shapes alongside pathways, chinampas (land banks between water ditches), and [[natural-farming-guide-contour-farming-strip-cropping]] (multiple plant types in curved strips).

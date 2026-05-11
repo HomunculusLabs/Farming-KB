@@ -88,17 +88,3 @@ guianensis), or clavohuasca.
 
 Clay pots are preferred over aluminum. The preparation must be
 done in solitude where nobody will look at the pot. The
-vegetalista works alone, without wife, helper, or companion.
-The spiritual dimension is considered essential: "It does not
-suffice to cook the vine. One must also have some spiritual
-contact to give one strength."
-
-## Additional Additive Plants
-
-Many preparations include additional plants to modify the
-experience. Toe (Brugmansia) adds tropane alkaloids. Chiric
-sanango (Brunfelsia grandiflora) may be added for cleansing.
-Camalote (Monstera species) is sometimes included. Each
-vegetalista develops their own recipe, drawing from the
-pharmacopoeia of hundreds of medicinal plants known in the
-Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-Shipibo-tradition]]

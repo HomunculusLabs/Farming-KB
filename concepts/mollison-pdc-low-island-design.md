@@ -1,15 +1,16 @@
 ---
-title: mollison pdc low island design bill-mollison-permaculture-a-designers-manual-permaculture-design-principles
+title: Mollison Pdc Low Island Design
 created: 2026-04-28
 tags:
   - permaculture
   - islands
   - atoll-design
-  - water-management
+  - [[water-management]]
   - mollison-pdc
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -88,57 +89,9 @@ The result is a highly successful island garden. The ring shape
 concentrates energy and water, and the raised sand edge protects the
 growing area.
 
-## Water Storage and Gley Ponds
-
-On atoll systems, water must be stored as surface water:
-
-- Small gley ponds can be lined with leaves of papaw, grapes, banana --
-  anything that ferments very fast
-- Pump full from ground wells to double the water in a particular
-  profile
-- Coconut logs line sandy banks to prevent collapse
-- Once vegetation is established, bank instability becomes manageable
-
-## Aquaculture on Atolls
-
-Mollison raises the question of what to grow in ponds on coral atolls
-when fringing reefs already provide abundant seafood:
-
-- Best options are aquatic plant foods not common to the islands
-- Exotic freshwater foods such as prawns are valuable additions
-- Ducks can feed prawns via the algae cycle
-- The focus should be on high-nutrient tropical water crops rather than
-  common fish
-
-## Protecting Coastline Vegetation
-
-Coastline defense is critical on low islands:
-
-- A coastal defense system of trees preserves the island from erosion
-- Coastline vegetation stops the force of wave erosion
-- Peripheral occupational zones decrease risk from storm damage
-- Many island legumes provide nitrogen for establishment
-- Sea species like Aegicera are superb honey plants
-
-## Multi-Strategy Design
-
-Low island design requires combining multiple strategies efficiently:
-
-- Grow-hole technology with [[comparison-drip-irrigation-vs-passive-irrigation]] for annual crops
-- Tree establishment through platen breaking for perennials
-- Surface water storage using gley ponds and tanks
-- Coastal vegetation belts for erosion protection
-- Small roofs to collect water, stored high above ground
-- Efficient separation of waste from main water lanes
-
-## Settlement Design Considerations
-
-The PDC emphasizes that islands can be tropical paradises if population
-density is managed. Key settlement principles include governing surface
-use with respect for water storages, and the need for careful nutrient
-
 ## See Also
-- [[mollison-pdc-solar-greenhouse-design]]
-- [[permaculture-design]]
-- [[mollison-designers-high-island-and-tropical-valley-design]]
 - [[mollison-pdc-high-island-design]]
+- [[mollison-designers-high-island-and-tropical-valley-design]]
+- [[mollison-designers-low-island-coral-cay-strategies]]
+- [[mollison-designers-design-for-children-education-gardens]]
+- [[mollison-designers-temperate-zone-food-forest-design]]

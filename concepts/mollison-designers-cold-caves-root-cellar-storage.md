@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,15 +88,3 @@ the diurnal [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] i
   estimates 2-3 cubic metres per person for root crops alone
 
 ## Integration with Permaculture Systems
-
-Caves and cellars connect directly to the [[mollison-designers-dam-construction-and-water-storage]],
-permaculture-designers-manual-earth-building-techniques
-
-## See Also
-
-- mollison-designers-fuelwood-forestry-coppice-pollard
-- mollison-designers-food-processing-preservation-storage
-- mollison-designers-geodesic-and-dome-structures
-- [[bill-mollison]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
-- [[mollison-designers-soil-water-storage-and-field-capacity]]

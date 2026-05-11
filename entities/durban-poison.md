@@ -1,5 +1,5 @@
 ---
-title: durban poison
+title: Durban Poison
 type: strain
 tags:
   - cannabis
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.leafly.com/strains/durban-poison — strain profile and reviews
+  - https://www.leafly.com/strains/durban-poison — chupacabra-strain-profile-sickmeds-oner and reviews
   - https://phylosbioscience.com/ — cannabis genomics and landrace mapping
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry.
@@ -20,7 +20,7 @@ created: 2026-04-28
 ---
 # 
 
-**Durban Poison** is a pure  race cannabis strain originating from the South African port city of Durban. One of the few commercially available true [[sativa-landrace-strains-and-geographic-origins]], it is celebrated for its uplifting, energetic ef  istinct anise and citrus terpene prof  a foundational genetic pillar in modern [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
+**Durban Poison** is a pure  race [[biscotti-cannabis-strain]] originating from the [[kanna-sceletium-south-african-narcotic]] port city of Durban. One of the few commercially available true [[sativa-landrace-strains-and-geographic-origins]], it is celebrated for its uplifting, energetic ef  istinct anise and citrus terpene prof  a foundational genetic pillar in modern [[oner-cannabis-breeding-fundamentals]], contributing to numerous hybrid cultivars.
 
 ## Genetic Lineage
 
@@ -53,7 +53,7 @@ Durban Poison is terpene-dominant, with a distinctive profile that contributes s
 - **Myrcene (0.5–1.5%):** Present but lower than typical indica strains, contributing to the strain's less-sedative profile
 - **Ocimene (0.5–1%):** Sweet, woody, and herbaceous; contributes to the uplifting qualities
 - **Terpinolene (0.3–0.8%):** Complex floral-citrus-pine aroma; associated with antioxidant and mildly sedative properties
-- **Caryophyllene (0.3–0.7%):** Peppery, spicy notes; dietary cannabinoid that activates CB2 receptors
+- **Caryophyllene (0.3–0.7%):** Peppery, spicy notes; [[beta-caryophyllene-dietary-cannabinoid]] that activates CB2 receptors
 - **Linalool (trace):** Floral notes
 
 ### Primary Aroma and Flavor
@@ -81,58 +81,10 @@ Durban Poison is widely regarded as a quintessential "daytime" or "creative" str
 - Increased focus and mental clarity
 - Energy and motivation
 - Social engagement and talkativeness
-- Enhanced sensory perception
+- Enhanced [[plant-sensory-perception]]
 
 **Potential negative effects (less common):**
 - Anxiety or paranoia at higher doses (particularly in THC-sensitive individuals)
 - Dry mouth and dry eyes
 - Mild tachycardia (increased heart rate)
 - Insomnia if consumed too late in the day
-
-### Medicinal Applications
-
-Patient-reported therapeutic uses include:
-
-- **ADHD management:** The focusing, stimulant-like effects may help with attention and task completion
-- **Depression:** Uplifting mood effects without the lethargy associated with many high-THC indicas
-- **Fatigue:** Daytime energy enhancement
-- **[[cannabis-for-nausea-and-appetite-stimulation]]:** THCV's appetite-modulating properties; THC-driven antiemetic effects
-- **Migraine:** Some patients report relief, possibly due to terpinolene and caryophyllene
-- **Stress relief:** Anxiolytic effects at moderate doses without cognitive impairment
-
-## Cultivation
-
-### Growth Characteristics
-
-Durban Poison is relatively straightforward to cultivate but requires attention to its Sativa growth patterns:
-
-| Parameter | Details |
-|-----------|---------|
-| **Flowering time** | 8–9 weeks indoor; late Oct outdoor (N. Hemisphere) |
-| **Height** | Tall — 150–200 cm indoor; 250+ cm outdoor |
-| **Yield** | Moderate to high: 350–500 g/m² indoors; 500+ g/plant outdoors |
-| **Difficulty** | Moderate — requires space management and patience |
-| **Stretch ratio** | High — plants double or triple in height during early flowering |
-
-### Cultivation Recommendations
-
-- **Training:** Essential for indoor grows; LST (low-stress training), SCROG (), or topping recommended to manage height
-- **Climate:** Warm, Mediterranean-like conditions (21–29°C day, 15–20°C night)
-- **Nutrients:** Moder [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] nitrogen in [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
-- **Humidity:** 50–60% during vegetative; reduce to 40–50% during flowering to prevent mold
-- **Light:** Thrives under full-spectrum lighting; 18/6 vegetative, 12/12 flowering
-- **Pest resistance:** Good natural resistance due to landrace genetics and thick resin
-
-### Phenotype Variation
-
-While genetically stable, some phenotype variation exists:
-
-**Tall phenotype:** Classic landrace with long internodes, finger-like buds, strong anise aroma
-- **Compact phenotype:** Shorter with denser buds and more citrus-dominant terpenes
-- **High-THCV phenotype:** Rare; elevated THCV and pronounced appetite-suppressing effects
-
-## Notable Hybrids
-
-Durban Poison is extensively used in breeding:
-- ** (GSC):** Durban Poison ×  — foundation of the [[durban-poison-cannabis-strain]]
-- [[african-landrace-sativa-strains]]

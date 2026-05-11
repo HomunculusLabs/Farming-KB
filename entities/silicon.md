@@ -88,23 +88,3 @@ The same infrastructure that makes silicon cheap also makes incremental improvem
 Silicon's native oxide is a defining advantage.
 Silicon dioxide can be grown thermally with good interface quality.
 It acts as a gate dielectric, passivation layer, field oxide, and masking material.
-Historically, the Si-SiO2 interface enabled reliable MOS transistors.
-Other semiconductors often have more troublesome native oxides or interface states.
-That difference is one reason faster materials did not displace silicon in general-purpose logic.
-Modern chips may use high-k dielectrics, metal gates, strained channels, and complex stacks.
-Even so, silicon process knowledge remains the foundation of mainstream semiconductor manufacturing.
-
-## Comparison With Gallium Arsenide
-Silicon is cheaper and more abundant than [[semiconductor-band-structure]] -- explains why silicon is an indirect-gap semiconductor.
-- [[gallium-arsenide]] -- direct-gap III-V comparison material.
-- Germanium -- earlier group-14 semiconductor used before silicon dominance.
-- Silicon dioxide -- oxide partner that made MOS technology practical.
-- Quartz -- common crystalline form of silicon dioxide.
-- CMOS -- integrated-circuit logic family built around silicon MOSFETs.
-
-## Summary
-Silicon is the reference material of modern semiconductor technology.
-Its success comes from abundance, crystal quality, dopability, oxide chemistry, and manufacturing scale.
-Its main limitation in optoelectronics is the indirect band gap.
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

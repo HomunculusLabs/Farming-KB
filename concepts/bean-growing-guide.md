@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, succession planting, trellis systems, and drying beans for storage.
+Beans are one of the most productive and versatile crops in the home garden. They fix nitrogen from the air through a symbiotic relationship with rhizobia bacteria, improving soil fertility while producing abundant harvests. This guide covers pole vs bush beans, inoculation, [[coleman-succession-planting]], trellis systems, and drying beans for storage.
 
 ## Pole vs Bush Beans
 
@@ -34,7 +34,7 @@ Beans are one of the most productive and versatile crops in the home garden. The
 - Maturity: 60-75 days to first harvest, then continuous
 
 ### Choosing Between Them
-- Small gardens with limited space: pole beans (vertical growing)
+- Small gardens with limited space: pole beans ([[coleman-greenhouse-tomato-vertical-growing]])
 - Large beds or field planting: bush beans (no infrastructure needed)
 - Extended harvest desired: pole beans
 - Quick crop for succession: bush beans (faster maturity)
@@ -42,12 +42,12 @@ Beans are one of the most productive and versatile crops in the home garden. The
 
 ## Inoculation
 
-Bean inoculation introduces rhizobia bacteria to the soil, enabling nitrogen fixation.
+Bean inoculation introduces rhizobia bacteria to the soil, enabling [[biological-nitrogen-fixation-agriculture]].
 
 ### Why Inoculate
 - Rhizobia bacteria form nodules on bean roots
 - Inside these nodules, bacteria convert atmospheric nitrogen (N2) into plant-available forms
-- This reduces or eliminates the need for nitrogen fertilizer
+- This reduces or eliminates the need for [[jadam-natural-nitrogen-fertilizer]]
 - Plants grow more vigorously, especially in soils without prior legume history
 - Inoculated beans leave behind nitrogen-enriched soil for the next crop
 
@@ -131,7 +131,7 @@ Succession planting extends the bean harvest over many weeks.
 ### Corn Stalks (Three Sisters)
 - Pole beans climbing corn stalks as part of the traditional Three Sisters planting
 - Plant beans 2-3 weeks after corn to avoid competition
-- See [[food-forest-design]] for companion planting concepts
+- See [[food-forest-design]] for [[cervantes-companion-planting-pest-deterrent]] concepts
 
 ## Drying Beans
 

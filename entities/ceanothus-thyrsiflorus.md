@@ -88,30 +88,3 @@ The extensive root system stabilizes slopes and prevents soil erosion on steep t
 ## Cultivation and Propagation
 
 *Ceanothus thyrsiflorus* is propagated by seed or softwood cuttings. Seeds have hard coats requiring scarification — either mechanical abrasion or hot water treatment (80°C for 10 minutes) — followed by 30–60 days of cold stratification.
-
-Cuttings taken from semi-hardwood growth in late summer root readily under mist with rooting hormone. Cultivar selections are typically propagated vegetatively to maintain specific ornamental characteristics.
-
-Plant in full sun to partial shade in well-drained soil. Once established, the plant requires no supplemental irrigation in Mediterranean climates and is highly drought-tolerant.
-
-Pruning should be minimal and performed immediately after flowering. Ceanothus does not tolerate heavy pruning into old wood — renovation pruning of mature plants often results in decline or death.
-
-The species typically lives 10–25 years in cultivation, with some specimens persisting longer in ideal conditions. Plants are susceptible to Phytophthora root rot in poorly drained soils.
-
-## Permaculture Applications
-
-In permaculture design, *C. thyrsiflorus* serves multiple functions simultaneously. Its nitrogen-fixing ability makes it a valuable component of food forest understories, guild plantings, and fertility corridors.
-
-The shrub is effective in hedgerow plantings, providing windbreak protection, wildlife habitat, and nitrogen input to adjacent crops. When interplanted with fruit trees, the nitrogen contribution can reduce fertilizer requirements.
-
-Erosion control plantings on slopes benefit from the plant's extensive root network and dense canopy. It is widely used in ecological restoration projects throughout coastal California.
-
-The ornamental flower display provides aesthetic value, supporting the "functional beauty" principle of permaculture design. Multiple cultivars are available, including 'Victoria' (compact, deep blue flowers) and 'Skylark' (upright, lighter blue).
-
-## See Also
-
-- [[caragana-arborescens]]
-- [[morus-alba]]
-- [[corylus-avellana]]
-- [[castanea-sativa]]
-- [[gleditsia-triacanthos]]
-- [[maclura-pomifera]]

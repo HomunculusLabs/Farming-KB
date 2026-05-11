@@ -8,13 +8,13 @@ tags: [mckenna, osiris, eros, dmt, soul, eschatology, nag-hammadi, hibernation, 
 
 ## The Mushroom as the Condensed Body of Eros
 
-In his 1983 Esalen lecture, Terence McKenna advanced one of his most arresting mythopoetic formulations.
+In his 1983 Esalen lecture, [[terence-mckenna]] advanced one of his most arresting mythopoetic formulations.
 
-The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] encountered by the Spanish in the mountains of Oaxaca was nothing less than "the condensed body of Eros"—the divine principle of love, connection, and erotic union that had retreated from Western civilization at the coming of Christianity.
+The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] encountered by the Spanish in the mountains of Oaxaca was nothing less than "the condensed body of Eros"—the divine principle of love, connection, and erotic union that had retreated from [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] at the coming of Christianity.
 
 This image condenses several threads of McKenna's thought into a single mythological proposition.
 
-The mushroom cults of Mexico, destroyed by the Spanish conquest and the Inquisition, were custodians of an older, pre-Christian relationship between humanity and the divine—one mediated not through sacramental bread and wine but through the direct ingestion of a psychoactive fungus.
+The [[eleusinian-mysteries-minoan-mushroom-cults]] of Mexico, destroyed by the Spanish conquest and the Inquisition, were custodians of an older, pre-Christian relationship between humanity and the divine—one mediated not through sacramental bread and wine but through the direct ingestion of a psychoactive fungus.
 
 The indigenous peoples called this mushroom *teonanácatl*, "the flesh of the gods."
 
@@ -42,13 +42,13 @@ And by finding the mushroom, they unleashed it.
 
 ## The Valis Connection: Hibernation of the Logos
 
-McKenna drew explicitly on Philip K. Dick's novel *Valis* to elaborate this mythological framework.
+McKenna drew explicitly on Philip K. Dick's novel *Valis* to elaborate this [[christus-eros-osiris-mckenna-mythological-framework-suppression-psychedelic-knowledge]].
 
 Dick discussed "the long hibernation of the Logos"—a creature of pure information that was buried in the ground at Nag Hammadi along with the burying of the Chenoboskion Library circa 370 A.D.
 
 As static information, it existed there until 1947, when the Nag Hammadi codices—Gnostic gospels including the Gospel of Thomas—were discovered and translated.
 
-As soon as people had the information in their minds, the symbiote came alive, for, like the mushroom consciousness, Dick imagined it to be a thing of pure information.
+As soon as people had the information in their minds, the symbiote came alive, for, like the [[psilocybin-mushroom-consciousness]], Dick imagined it to be a thing of pure information.
 
 The mushroom consciousness, in McKenna's reading, is the consciousness of the Other in hyperspace, which means in dream and in the psilocybin trance, at the quantum foundation of being, in the human future, and after death.
 
@@ -58,7 +58,7 @@ All of these places that were thought to be discrete and separate are seen to be
 
 McKenna then offered a crucial corrective to his own [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]].
 
-Having described the Stropharia cubensis mushroom as potentially extraterrestrial in origin, he proposed an alternative reading that was in some ways more radical:
+Having described the [[stropharia-cubensis]] mushroom as potentially extraterrestrial in origin, he proposed an alternative reading that was in some ways more radical:
 
 The human soul is so alienated from us in our present culture that we treat it as an extraterrestrial.
 
@@ -87,60 +87,3 @@ All the wars, the philosophies, the migrations, the cities, the civilizations—
 The symbiote is in the environment and is feeding information to humanity about the larger picture.
 
 This is not an attribution of all human accomplishment to knowledge given as a gift from friendly aliens.
-
-It is something more profound: as nervous systems evolve to higher and higher levels, they come more and more to understand the true situation in which they are embedded.
-
-The true situation in which we are embedded is an organism, an organization of intelligence on a galactic scale.
-
-Science and mathematics may be culture-bound. We cannot know for sure, because we have never dealt with an alien mathematics or an alien culture except in the occult realm—and that evidence is inadmissible by the guardians of scientific truth.
-
-## The Nunc Stans and Temporal Acceleration
-
-The tryptamine state, McKenna argued, is transtemporal—it is an anticipation of the future.
-
-It is as though Plato's metaphor were true: that time is the moving image of eternity.
-
-The [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] is a stepping out of the moving image and into eternity, the eternity of the standing now, the *nunc stans* of Thomas Aquinas.
-
-In that state, all of human history is seen to lead toward this culminating moment.
-
-Acceleration is visible in all the processes around us: fire discovered several million years ago, language perhaps thirty-five thousand years ago, measurement five thousand, Galileo four hundred years, then Watson-Crick and DNA.
-
-Everything is being drawn together.
-
-The description our physicists give us of the universe—that it has lasted billions of years—is a dualistic conception, an inductive projection that is unsophisticated when applied to the nature of consciousness.
-
-Consciousness is able to collapse the state vector and thereby cause the stuff of being to undergo what Alfred North Whitehead called "the formality of actually occurring."
-
-The most richly organized material in the universe is the human cerebral cortex, and the densest and richest experience in the universe is the experience you are having right now.
-
-Everything should be constellated outward from the perceiving self.
-
-## The Absence of DMT Motifs in Art History
-
-McKenna identified a puzzling lacuna in the artistic record.
-
-Despite having collected Mahayana Buddhist art and found similarities between LSD experiences and Buddhist iconography, he was amazed by the total absence of DMT motifs in any artistic tradition familiar to him.
-
-If art carries images out of the Other from the Logos to the world—drawing ideas down into matter—why is human art history so devoid of what psychedelic voyagers have experienced so totally?
-
-Perhaps the flying saucer or UFO is the central motif to be understood in order to get a handle on reality here and now.
-
-We are alienated, so alienated that the Self must disguise itself as an extraterrestrial in order not to alarm us with the truly bizarre dimensions that it encompasses.
-
-When we can love the alien, then we will have begun to heal the psychic discontinuity that has plagued us.
-
-## See Also
-
-- [[mckenna-valis-hibernation-of-the-logos]]
-- [[mckenna-mushroom-cult-destruction-theophagic-rivalry]]
-- [[mckenna-stropharia-hypothesis]]
-- [[mckenna-nostalgia-for-paradise]]
-- [[mckenna-history-shockwave-eschatology-temporal-acceleration]]
-
-## References
-
-- McKenna, T. (1983/1992). [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness. *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
-- Dick, P.K. (1981). *Valis*. Bantam Books.
-- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
-- Wasson, R.G. (1980). *The Wondrous Mushroom*. McGraw-Hill.

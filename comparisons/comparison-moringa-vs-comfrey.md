@@ -105,8 +105,3 @@ helps practitioners continue to improve their effectiveness over time.
 Recommended resources for continued learning include established
 reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-- [[comparison-comfrey-tea-vs-compost-tea]]
-- [[decomposition]]
-- [[comparison-dynamic-accumulators-vs-cover-crops]]

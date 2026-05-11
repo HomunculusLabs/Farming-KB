@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Paul Stamets - Growing Gourmet and Medicinal Mushrooms"
   - "Paul Stamets - The Mushroom Cultivator"
 related_concepts:

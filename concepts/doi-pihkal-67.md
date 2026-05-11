@@ -20,7 +20,7 @@ DOI (2,5-dimethoxy-4-iodoamphetamine) is one of the most potent members of the D
 - The active dose is measured in milligrams -- confusion with substances requiring 50-100x higher doses has led to hospitalizations
 - Due to the extended duration, ensure a safe environment for at least 24 hours
 - The S-isomer is active but less potent -- optical purity of samples is a variable
-- Some subjects reported depressive emotional content, particularly at lower doses -- consider [[psychedelic-harm-reduction]] and [[neurochemical-probes-brain-imaging-pihkal]]
+- Some subjects reported depressive emotional content, particularly at lower doses -- consider [[harm-reduction-guide]] and [[neurochemical-probes-brain-imaging-pihkal]]
 ## Practical Applications
 
 DOI (4-Iodo-2,5-dimethoxyamphetamine) has a range of practical applications that make it relevant to
@@ -88,13 +88,3 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

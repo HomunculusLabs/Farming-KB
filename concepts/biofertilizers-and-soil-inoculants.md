@@ -88,16 +88,3 @@ Beyond nitrogen fixers and phosphate solubilizers, a diverse group of beneficial
 
 1. Research plant-microbe specificity before purchasing inoculants to ensure a match
 2. Roll legume seeds in Rhizobia slurry or mix into soil at planting
-3. For [[teaming-with-fungi-mycorrhizal-inoculation-techniques]], place spores near or on roots
-4. Earthworm castings concentrate nutrients and create humus — excellent natural biofertilizer
-5. Growth-promoting rhizobacteria form symbiotic relationships that aid nitrogen synthesis
-6. Avoid high-phosphorus fertilizers that suppress mycorrhizal colonization
-7. Maintain living roots in the soil year-round through [[glomalin-and-soil-carbon]]
-- [[nutrient-cycling-in-soil]]
-- [[soil-microbiology-basics]]
-- [[symbiotic-fungi-nitrogen-fixing-symbioses-agriculture]]
-- [[symbiotic-fungi-piriformospora-indica]]
-
-## See Also
-
-- [[query-how-to-make-comfrey-tea-fertilizer]]

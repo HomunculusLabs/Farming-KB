@@ -1,5 +1,5 @@
 ---
-title: Auto-Flowering Sativa Development - [[cannabis-breeding-basics]]
+title: Oner Auto Flowering Sativa Development
 source: cannabis-sativa-volume-3-the-essential-guide.md
 source_author: S.T. Oner, The Rev
 tags: [cannabis, sativa, auto-flowering, ruderalis, breeding, lowryder, joint-doctor]
@@ -88,62 +88,3 @@ refrigerator.
 Created by crossing Little Devil with a Ruderalis variety, Angelmatic
 brings auto-flowering characteristics to a sativa-dominant hybrid. The
 plant matures fully in approximately 60 days from seed, reaching only
-about a foot in height. This makes it ideal for light medical users
-who don't need large quantities but want to grow their own supply.
-
-Angelmatic starts flowering about 2.5 weeks after germination. It
-is not a heavy yielder but produces reliably and quickly. The plant
-doesn't produce strong odor, meaning [[cannabis-odor-control-and-carbon-filters]] and other
-odor-control measures are unnecessary. It responds well to Sea of
-Green (SOG) methods and is resistant to pests, requiring little
-more than good soil and adequate [[nitrogen-supplementation-for-mushroom-substrates]].
-
-Indoor yields are approximately 50 grams per plant from these compact
-specimens. Outdoors, with better light access, plants may reach
-slightly larger proportions and yield up to 100 grams in full summer
-in [[fukuoka-natural-farming-temperate-climates]].
-
-**Key specs:** Auto-flowering, sativa-dominant | THC 12-15% |
-Ruderalis × Little Devil
-
-## The Sativa-Auto Challenge
-
-Incorporating sativa genetics into auto-flowering strains presents
-specific breeding challenges. Sativa plants naturally have longer
-flowering periods (12-16 weeks versus 7-9 for indicas) and tend to
-stretch significantly during the [[cervantes-flowering-phase]]. Since auto-flowering
-strains have compressed timelines by definition, the extended sativa
-flowering period is inherently at odds with the auto-flowering
-framework.
-
-Breeders address this through several strategies:
-
-- Selecting sativa parents with shorter-than-average flowering times
-- Backcrossing over multiple generations to stabilize the auto-flower
-  trait while retaining sativa qualities
-- Using intermediate hybrids (sativa-dominant but with indica
-  flowering characteristics) as bridge parents
-- Accepting some compromise in sativa expression in exchange for
-  practical flowering timelines
-
-The result is that most auto-flowering "sativa" strains are actually
-sativa-dominant hybrids with moderated sativa characteristics. The
-pure 14-week-flowering, 14-foot-tall sativa experience remains
-difficult to achieve in auto-flowering form.
-
-## Impact on Cannabis Accessibility
-
-Auto-flowering sativa genetics have democratized access to sativa
-effects. Previously, sativa cultivation required significant vertical
-space, patience through long flowering periods, and careful light
-management — resources unavailable to many growers.
-
-Auto-flowering strains bring sativa experiences to apartment growers,
-closet cultivators, medical users with limited space, and outdoor
-growers in northern latitudes with short seasons. The technology
-represents a genuine broadening of who can grow cannabis and what
-types of cannabis they can realistically produce.
-
-## See Also
-
-- [[autoflowering-sativa-development-joint-doctor]]

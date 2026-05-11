@@ -1,7 +1,7 @@
 ---
-title: [[palmer-mushroom-vs-toadstool-terminology|Palmer]] palmer toadstool poisoning cases Case Reports
+title: Palmer Toadstool Poisoning Cases
 created: 2026-04-28
-tags: [mushroom-poisoning, [[amanita]]], toxicology, case-reports, palmer]
+tags: [mushroom-poisoning, [[amanita]], toxicology, case-reports, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/julius-auboineau-palmer-about-mushrooms.md]
@@ -88,16 +88,3 @@ neighbor Mrs. B. aged forty were all stricken. On Sunday afternoon Mr.
 F. and his brother-in-law Thomas R., aged thirteen, found clusters of
 beautiful toadstools growing under chestnut trees and gathered them
 for supper. Mrs. F. cooked three pints, stewing them in milk with
-butter, pepper, and salt.
-
-None experienced discomfort until towards daybreak — about nine hours
-after ingestion. Prominent initial symptoms included foul breath,
-coated tongue, stomach pain, nausea, and a peculiar sickening sensation
-in the epigastrium. Intense vomiting affected four patients. Gastro-
-intestinal irritation appeared about thirty hours after onset, with
-insufferable tenesmus. Temperature rose to 104 degrees F. The pulse
-ranged from 120 to 140 beats per minute, soft and compressible. Three
-of the five victims died.
-
-See also: [[fungal-poisons-and-toxicology]],
-[[palmer-poisonous-mushrooms-deadly-species]]

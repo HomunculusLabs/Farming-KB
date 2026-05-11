@@ -88,31 +88,3 @@ growth rate on malt agar, a 25% reduction in time to first fruiting
 first-flush mushroom production, and a 35-50% increase in total
 dry mass yield. The compound also suppressed the formation of
 [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies and altered fruit body morphology.
-
-## Significance in Research
-
-The fungal growth-promoting activity is significant because it
-demonstrates that brassinosteroids can exert biological effects
-across kingdom boundaries, challenging the traditional view that
-these compounds are plant-specific signaling molecules. The
-structural requirements for activity may be less stringent than
-previously thought, as the 22S,23S stereochemistry still produces
-strong biological responses. The extremely low effective
-concentration of 0.01 ppm places this compound among the most
-potent known fungal growth promoters, making it a valuable tool
-for studying fungal physiology and potential cultivation
-applications.
-
-## Safety and Regulatory Considerations
-
-As a synthetic brassinosteroid, 22S,23S-homobrassinolide is not
-currently approved for use in food production systems in most
-jurisdictions. Commercial application would require toxicological
-assessment, tissue residue studies, and environmental fate
-characterization.
-
-## See Also
-
-- [[brassinosteroid-fungal-growth-promotion]]
-- [[ergosterol]]
-- [[psilocybe-cubensis]]

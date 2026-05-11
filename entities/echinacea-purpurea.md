@@ -48,8 +48,8 @@ Native to eastern and central [[dmt-containing-plants-united-states-halpern]] (I
 - **Alkylamides:** Dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides — found primarily in roots; responsible for tongue-tingling sensation; primary immunomodulatory agents
 - **Caffeic acid derivatives:** Cichoric acid (most abundant in aerial parts), echinacoside, cynarin — antioxidant, immunomodulatory
 - **Polysaccharides:** Arabinogalactan, xyloglucan — immunostimulatory, activate complement pathway
-- **Flavonoids:** Quercetin, kaempferol, luteolin derivatives
-- **[[permaculture-designers-manual-essential-oil-plants]]:** Germacrene D, caryophyllene, humulene, pinene
+- **Flavonoids:** [[quercetin]], [[kaempferol]], [[luteolin]] derivatives
+- **[[permaculture-designers-manual-essential-oil-plants]]:** Germacrene D, caryophyllene, [[humulene]], [[pinene]]
 
 ### Bioactive Markers
 - **Cichoric acid** — primary phenolic marker in aerial parts
@@ -61,7 +61,7 @@ Native to eastern and central [[dmt-containing-plants-united-states-halpern]] (I
 1. **Macrophage activation:** Polysaccharides stimulate phagocytosis by 20–40% in vitro
 2. **NK cell enhancement:** Alkylamides increase natural killer cell cytotoxicity
 3. **Cytokine modulation:** Controlled upregulation of IL-1, IL-6, TNF-α during early immune response; modulates IL-10 during resolution
-4. **CB2 receptor interaction:** Alkylamides are partial agonists at cannabinoid receptors, providing additional immunomodulatory pathway
+4. **CB2 receptor interaction:** Alkylamides are partial agonists at [[cannabinoid-receptors-cb1-and-cb2]], providing additional immunomodulatory pathway
 5. **Complement activation:** Polysaccharides activate the alternative pathway
 
 ### Antiviral, Anti-inflammatory, and Antioxidant
@@ -88,40 +88,3 @@ Most extensively studied application. Meta-analyses show 10–20% reduced risk w
 ## Cultivation
 
 | Parameter | Optimal |
-|-----------|---------|
-| Propagation | Cold-stratified seed (30–60 days at 4 °C); division every 3–4 years |
-| Soil pH | 6.0–7.0 |
-| Spacing | 45–60 cm |
-| Water | Low to moderate; drought-tolerant once established |
-| Harvest (aerial) | Full flower, mid-summer |
-| Harvest (root) | Autumn of 3rd–4th year |
-| Dry yield (root) | 2–4 tonnes/ha |
-
-Relatively pest-free; aster yellows phytoplasma can cause distorted growth. Root rot in poorly drained soils.
-
-## Preparations and Dosage
-
-- **Tincture (1:5, 60% ethanol):** 2–4 mL, 3× daily
-- **Pressed juice (standardized):** 6–9 mL daily (Echinaforce)
-- **Capsules (400–500 mg dried root):** 2–3 capsules, 3× daily
-- **Tea/decoction:** 1–2 g dried root per cup, steeped 10–15 min, 3× daily
-
-German Commission E requires minimum 4% echinacoside for root preparations. Always verify species.
-
-## Safety
-
-- Generally well-tolerated; most common: mild GI upset
-- **Contraindications:** Autoimmune disorders (theoretical), progressive systemic diseases
-- **[[cannabis-drug-interactions-and-contraindications]]:** Immunosuppressants, hepatotoxic drugs
-- **Allergy risk:** Asteraceae cross-reactivity (ragweed, marigolds, daisies)
-- Avoid during pregnancy/lactation
-
-## Ecological Value
-
-Excellent pollinator plant for butterflies and [[query-how-to-attract-native-bees-and-beneficial-insects]]; goldfinches consume seed heads through winter; deep roots improve soil structure; widely used in native gardens and prairie restorations; deer-resistant.
-
-## See Also
-- [[echinacea-tennesseensis]]
-- [[permaculture-plant-catalog]]
-- [[sambucus-nigra]]
-- [[herbal-medicine-making-basics]]

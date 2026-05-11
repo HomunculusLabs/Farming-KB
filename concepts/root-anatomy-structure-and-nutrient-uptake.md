@@ -1,5 +1,5 @@
 ---
-title: Root root anatomy structure and nutrient uptake and plant-nutrient-uptake-mechanisms
+title: Root Anatomy Structure And Nutrient Uptake
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -49,7 +49,7 @@ Mucilage serves multiple functions:
 - **Nutrient medium**: Phosphorus, zinc, iron, and magnesium diffuse into the mucilage gel and from the gel into the roots
 - **Chemical factory**: Mucilage oozes into soil particle crevices and pores, increasing contact with surfaces where metal nutrients are located
 - **Acid action**: Mucilage contains acids that dissolve phosphorus, which then diffuses through it to the root
-- **Microbe management**: Plant exudates in the mucilage attract specific microbial communities
+- **Microbe management**: Plant exudates in the mucilage attract specific [[cannabis-rhizosphere-microbial-communities]]
 
 Some plants take up more metals than others due to the specific makeup of their root mucilage mixture. Mucilage is also involved in signaling to the plant to adjust its [[edaphic-factors-microbial-community-structure]] when nutrient needs change.
 
@@ -67,7 +67,7 @@ Composed of many parenchyma cells that store food, especially as starch. The cor
 A tightly packed layer of cells on the inside of the cortex, toward the center. These cells are squished together so tightly they lack space between them. The endodermis is the critical control point:
 
 - Contains the **Casparian strip** -- a layer of cells filled with the waxy substance suberin
-- Stops water movement through cell walls (apoplastic pathway)
+- Stops water movement through [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] (apoplastic pathway)
 - Forces all water and dissolved substances to pass through cell membranes (symplastic pathway)
 - Because cell membranes are much more selective than porous cell walls, this allows the plant to control what it takes in
 
@@ -83,22 +83,8 @@ At the center of the root:
 
 ## Monocot vs Dicot Root Structure
 
-Different kinds of plants have different vascular bundle arrangements in their roots. This arrangement is one of the distinguishing factors between monocots (grasses, maize) and dicots (beans, tomatoes). In general, dicot roots have a star-shaped xylem arrangement, while monocot roots have a ring of xylem and phloem bundles around a central pith.
+Different kinds of plants have different vascular bundle arrangements in their roots. This arrangement is one of the distinguishing factors between monocots (grasses, maize) and dicots (beans, tomatoes). In general, dicot roots have a star-shaped xylem arrangement, while monocot roots have a ring of [[xylem-and-phloem-transport-systems-in-plants]] bundles around a central pith.
 
 ## Rhizosphere
 
 The rhizosphere is the zone of soil immediately influenced by root secretions and associated microorganisms. It is chemically and biologically distinct from bulk soil due to:
-- Root exudates (sugars, amino acids, organic acids)
-- Mucilage
-- Dead root cells
-- The microbial community these attract
-
-The rhizosphere is where most [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and uptake occurs. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] extend the effective reach of the rhizosphere dramatically.
-
-## Related Topics
-
-- [[water-pathways-through-plants]] -- how water moves from root hairs through xylem
-- [[root-exudates]] -- the chemicals roots release into the rhizosphere
-
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]

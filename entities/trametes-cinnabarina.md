@@ -4,7 +4,7 @@ type: species
 aliases:
   - Cinnabar Polypore
   - Cinnabar Bracket
-  - Pycnoporus cinnabarinus
+  - [[pycnoporus-cinnabarinus]]
   - Polyporus cinnabarinus
 tags:
   - fungi
@@ -25,7 +25,7 @@ sources:
   - Ryvarden, L. & Gilb., G. (2004). "Mycocoportal — Polyporaceae s. lato." Synopsis Fungorum.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores 2." Synopsis Fungorum 14.
   - Cui, B.-K. et al. (2019). "Polyporales of China." Fungal Diversity Press.
-  - Stamets, P. (2000). "Growing Gourmet & Medicinal Mushrooms." Ten Speed Press.
+  - Stamets, P. (2000). "Growing Gourmet & [[cancer-medicinal-mushrooms-extraction-bioavailability]]." Ten Speed Press.
   - https://www.mycobank.org/page/Trametes%20cinnabarina
 created: 2026-04-28
 ---
@@ -66,11 +66,11 @@ Additional metabolites include various sesquiterpenes, sterols (ergosterol and e
 
 ## Pharmacology and Bioactivity
 
-Cinnabarinic acid has demonstrated **antibacterial activity** against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*, with weaker activity against Gram-negative organisms. Antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* have also been reported in vitro.
+Cinnabarinic acid has demonstrated **antibacterial activity** against Gram-positive bacteria including *Staphylococcus aureus* and *[[bacillus-subtilis]]*, with weaker activity against Gram-negative organisms. Antifungal effects against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger* have also been reported in vitro.
 
 The pigment exhibits **antioxidant activity** through free radical scavenging in DPPH and ABTS assays, though potency is moderate compared to established antioxidants like ascorbic acid. Anti-inflammatory activity via COX-2 inhibition has been demonstrated in cell culture models.
 
-The laccase enzymes produced by *T. cinnabarina* have applications in **biodegradation of phenolic pollutants**, textile dye decolorization, and biosensor development. Strain selection and optimization studies have identified isolates with particularly high laccase yields.
+The [[staycare-laccase-enzymes-in-bioremediation]] produced by *T. cinnabarina* have applications in **biodegradation of phenolic pollutants**, [[fungal-laccase-and-textile-dye-decolorization]], and biosensor development. [[cultivator-strain-selection-and-stock-culture]] optimization studies have identified isolates with particularly high laccase yields.
 
 ## Edibility and Uses
 
@@ -87,28 +87,3 @@ The bright red pore surface makes *T. cinnabarina* difficult to confuse with oth
 Other red-pored polypores include *Pycnoporus sanguineus*, which is brighter orange-red, has a thinner context, and occurs primarily in tropical and subtropical zones. Within *Trametes*, the species is most closely related to *T. versicolor* and *T. hirsuta*, which share similar substrate ecology but have white to cream pore surfaces.
 
 ## Cultivation Notes
-
-*Trametes cinnabarina* is not commercially cultivated for food, but can be grown on supplemented hardwood sawdust substrates for research or dye production. Optimal temperatures for mycelial growth range from 25–30°C with moderate humidity.
-
-Sawdust-based substrates supplemented with wheat bran (10–20%) support robust colonization and fruiting. The species responds well to oak, beech, and mixed hardwood sawdust. Full colonization typically occurs in 14–21 days under laboratory conditions.
-
-Fruiting is induced by exposure to light (12 hours on/off) and fresh air exchange. Cold shock is not required but a 5°C temperature drop can accelerate [[growing-gourmet-primordia-formation-pinning]]. [[stamets-biological-efficiency-yield]] is low compared to edible species, making commercial cultivation impractical for food purposes.
-
-## Ecological Role
-
-As a white-rot fungus, *T. cinnabarina* plays an important role in forest nutrient cycling by decomposing lignin and cellulose in dead hardwood. Its enzymatic system targets lignin preferentially, leaving behind a bleached, fibrous residue.
-
-The species contributes to deadwood biodiversity by providing microhabitats for invertebrates and serving as a substrate for mosses and lichens on aged brackets. It is a relatively early colonizer of freshly fallen branches, often preceding more aggressive decomposers like *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]*.
-
-Interactions with other wood-inhabiting fungi include both competitive and successional dynamics. It is frequently succeeded by *Bjerkandera adusta* and *Trametes hirsuta* on longer-decayed substrates.
-
-## See Also
-
-- [[trametes-hirsuta]]
-- [[trametes-ochracea]]
-- [[coriolopsis-gallica]]
-- [[laetiporus-sulphureus]]
-- [[piptoporus-betulinus]]
-- [[ganoderma-lucidum]]
-- [[laccase]]
-- [[mycoremediation]]

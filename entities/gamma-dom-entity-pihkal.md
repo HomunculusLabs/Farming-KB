@@ -83,7 +83,7 @@ extreme caution. This compound is not approved for human consumption.
 ## See Also
 
 - [[gamma-dom-entity]]
-- [[dom-entity-pihkal]]
+- [[dom]]
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the DOx family

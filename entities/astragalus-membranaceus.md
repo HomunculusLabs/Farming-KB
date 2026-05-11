@@ -2,7 +2,7 @@
 title: "Astragalus membranaceus (Astragalus Root)"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, permaculture, legume]
+tags: [herbal-plant, adaptogen, traditional-chinese-medicine, immunomodulator, [[permaculture]], legume]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -16,7 +16,7 @@ sources:
 
 **Astragalus membranaceus**, commonly known as Huang Qi (黄芪) in Chinese, is a perennial flowering plant in the legume family (Fabaceae) and one of the most important herbs in Traditional Chinese Medicine (TCM). Native to the arid and semi-arid regions of northern China, Mongolia, and Korea, it has been used medicinally for over 2,000 years to strengthen vitality, support immune function, and promote longevity.
 The root is the primary medicinal part, harvested from plants typically 4–5 years old. Astragalus is classified as a premier **adaptogen** — a substance that helps the body maintain homeostasis and resist the damaging effects of stress through broad, non-specific physiological support.
-In modern herbalism and clinical practice, Astragalus is valued for its immunomodulatory, cardioprotective, anti-inflammatory, and anti-aging properties. It is one of the most thoroughly researched adaptogenic herbs, with over 3,000 published scientific studies.
+In modern herbalism and clinical practice, Astragalus is valued for its immunomodulatory, cardioprotective, anti-inflammatory, and anti-aging properties. It is one of the most thoroughly researched [[adaptogenic-herbs-guide]], with over 3,000 published scientific studies.
 
 ## Taxonomy
 
@@ -79,7 +79,7 @@ High-molecular-weight water-soluble polysaccharides (primarily glucans) that are
 ### Other Compounds
 
 - **Amino acids:** Including γ-aminobutyric acid (GABA), arginine, and asparagine
-- **Trace minerals:** Selenium (important for antioxidant enzyme function), zinc, iron, magnesium
+- **[[dynamic-accumulator-plants-trace-minerals]]:** Selenium (important for antioxidant enzyme function), zinc, iron, magnesium
 - **GABA:** Contributes to calming, anxiolytic effects
 - **Betaine:** Osmoprotectant and methyl donor
 
@@ -88,60 +88,3 @@ High-molecular-weight water-soluble polysaccharides (primarily glucans) that are
 In TCM, Astragalus is classified as a **Qi tonic** that tonifies the Spleen and Lung meridians:
 - **Qi deficiency:** Fatigue, weakness, spontaneous sweating, shortness of breath, poor appetite
 - **Spleen deficiency:** Chronic diarrhea, prolapse conditions (uterine, rectal, organ prolapse)
-- **Lung Qi deficiency:** Chronic respiratory infections, chronic cough, frequent colds
-- **Blood deficiency:** Used in combination with blood-tonifying herbs (e.g., Angelica sinensis / Dang Gui)
-- **Surface deficiency:** Weak defensive Qi leading to susceptibility to external pathogens
-- **Wasting and thirsting disorders:** Used in diabetes management formulas
-Astragalus is one of the most commonly used herbs in TCM formulations, appearing in hundreds of classical prescriptions including:
-
-- **Yu Ping Feng San (Jade Windscreen Powder):** With Atractylodes and Saposhnikovia — the classic immune-protective formula
-- **Bu Zhong Yi Qi Tang (Tonify the Middle and Augment the Qi Decoction):** With Ginseng, Bupleurum, and others — for [[cannabis-chronic-fatigue-research]] and organ prolapse
-- **Huang Qi Gui Zhi Wu Wu Tang:** For blood deficiency with cold extremities
-
-## Modern Clinical Applications
-
-### Immune System Support
-
-Astragalus is one of the best-researched immunomodulatory herbs:
-
-- **Prevention of upper respiratory infections:** Multiple [[mushroom-cancer-clinical-trials-overview]] show reduced frequency, duration, and severity of colds, particularly in immunocompromised individuals
-- **Chemotherapy support:** Adjunctive use during chemotherapy significantly reduces side effects (nausea, fatigue, immune suppression) and may enhance treatment efficacy
-- **HIV/AIDS support:** Some evidence for CD4+ T-cell count improvement and reduction of opportunistic infections
-- **Autoimmune modulation:** Paradoxically useful in [[cannabis-autoimmune-conditions-detailed]] due to its bidirectional (normalizing) immune effects — stimulating weak immunity while calming overactive immune responses
-
-### Cardiovascular Health
-
-- **Heart failure:** AS-IV improves cardiac function, reduces myocardial fibrosis, and enhances left ventricular ejection fraction
-- **Ischemic heart disease:** Reduces myocardial ischemia-reperfusion injury, decreases infarct size
-- **Hypertension:** Mild blood pressure lowering effect via vasodilation
-- **Vascular protection:** Protects endothelial function, reduces oxidative damage to blood vessels
-
-### Kidney Health
-
-- **Diabetic nephropathy:** APS and AS-IV reduce proteinuria, protect podocytes, and slow progression of diabetic kidney disease
-- **Chronic kidney disease:** Slows decline in glomerular filtration rate (GFR)
-- **Nephrotic syndrome:** Reduces proteinuria when used as adjunct therapy
-
-### Anti-Aging and Longevity
-
-Astragalus activates **telomerase**, the enzyme that maintains telomere length — a key factor in cellular aging:
-
-- **Cycloastragenol (TA-65):** A derivative of astragaloside IV, marketed as a telomerase activator. Clinical studies show modest telomere lengthening in immune cells
-- **Sirtuin activation:** Upregulates SIRT1, promoting mitochondrial biogenesis and metabolic efficiency
-- **Senescent cell clearance:** APS may promote clearance of senescent cells, reducing "inflammaging"
-
-### Diabetes and Metabolic Syndrome
-
-- **Blood sugar regulation:** APS improves insulin sensitivity and glucose uptake
-- **Glycemic control:** Several clinical trials show reduced fasting blood glucose and HbA1c
-- **Lipid profile:** Improves LDL/HDL ratio and reduces triglycerides
-
-## Cultivation and Permaculture Applications
-## See Also
-
-- [[strobilanthes-cusia]]
-
-- [[companion-planting]]
-- [[panax-ginseng]] — Another premier adaptogen and Qi tonic
-- [[glycyrrhiza-uralensis]] — Licorice root, common formula partner
-- [[eleutherococcus-senticosus]] — Siberian ginseng for endurance

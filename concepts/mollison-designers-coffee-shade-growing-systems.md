@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,12 +87,3 @@ habitat structure supports populations of predatory insects, spiders,
 and insectivorous birds that keep pest species below economically
 damaging thresholds. This reduces or eliminates dependence on chemical
 pesticides.
-
-Coffee berry borer, the most serious coffee pest worldwide, is
-significantly less prevalent in shaded systems where its natural enemies
-are abundant. Leaf rust (Hemileia vastatrix) is moderated by the more
-stable microclimate under shade, which reduces the humidity extremes
-that favour rust development. [[mollison-designers-food-forest-succession-design]]: Multi-strata [[holmgren-permaculture-twelve-design-principles-framework]]
-- mollison-designers-integrated-pest-management-design: Biological pest control
-- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Nutrient cycling in polycultures
-- [[mollison-designers-poultry-forage-design-pastured-systems]]: [[faires-livestock-integration-permaculture]]

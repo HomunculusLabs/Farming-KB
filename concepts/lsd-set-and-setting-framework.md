@@ -1,5 +1,5 @@
 ---
-title: LSD lsd set and setting framework Framework
+title: Lsd Set And Setting Framework
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -13,7 +13,7 @@ The fundamental principle that the character and outcome of an [LSD experience a
 
 ## Origin of the Concept
 
-Albert Hofmann was among the first to articulate the set and setting framework, drawing on his extensive observations of LSD experiences in both medical and non-medical contexts. The conditions for the positive outcome of an LSD experiment, he wrote, reside on the one hand in the individual and on the other hand in the external milieu of the experiment.
+[[albert-hofmann]] was among the first to articulate the set and setting framework, drawing on his extensive observations of LSD experiences in both medical and non-medical contexts. The conditions for the positive outcome of an LSD experiment, he wrote, reside on the one hand in the individual and on the other hand in the external milieu of the experiment.
 
 "The internal, personal factors are called set, the external conditions setting."
 
@@ -31,7 +31,7 @@ Key elements of set include:
 
 Current mood and emotional state at the time of ingestion.
 
-Personality structure, including existing vulnerabilities such as psychotic tendencies, suicidal ideation, or severe anxiety disorders.
+Personality structure, including existing vulnerabilities such as psychotic tendencies, suicidal ideation, or severe [[cannabis-for-anxiety-disorders]].
 
 Expectations about what the experience will be like, whether derived from personal knowledge, hearsay, or cultural mythology.
 
@@ -55,7 +55,7 @@ Acoustic environment: music, silence, or noise. The machine-and-appliance world 
 
 Social environment: the presence, number, and character of other people. A trusted guide or therapist can provide crucial support; hostile or judgmental companions can be catastrophic.
 
-Cultural context: the meanings and expectations associated with the drug in the person's cultural milieu.
+[[ayahuasca-pharmacology-and-cultural-context]]: the meanings and expectations associated with the drug in the person's cultural milieu.
 
 ## The Dissolution of Ego Boundaries
 
@@ -65,7 +65,7 @@ Patients who are bogged down in an egocentric problem cycle can thereby be helpe
 
 ## Therapeutic Implications
 
-The set and setting framework has profound implications for psychedelic therapy:
+The set and setting framework has profound implications for [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]:
 
 Psycholytic and especially psychedelic therapy require thorough preparation of the patient for the LSD experience, to avoid their being frightened by the unusual and the unfamiliar. Only then is a positive interpretation of the experience possible.
 
@@ -88,12 +88,3 @@ Hofmann identified several specific dangers when set and setting are not properl
 The danger of giving LSD to someone without their knowledge is extreme, because the person has no set prepared for the experience and no framework for understanding what is happening.
 
 Adolescents are at particular risk because their personality structure is not yet fully formed. Hofmann argued that psychostimulating agents should not be used by young people.
-
-Recreational use in uncontrolled settings maximizes the risk of psychotic crises, panic reactions, and dangerous behavior.
-
-## Legacy
-
-The set and setting framework, first articulated in the context of LSD research, has been applied to all psychedelic substances and has become a foundational principle of modern psychedelic therapy. Contemporary [[mushroom-cancer-clinical-trials-overview]] with psilocybin, MDMA, and other psychedelics all incorporate careful attention to set and setting as core elements of their protocols.
-
-See also: albert hofmann, [[lsd-therapeutic-history]], Psychedelic [[psychedelic-therapy-models-comparison]] Comparison, [[psychedelic-therapy-current-research]]
-- [[hofmann-self-experiment-with-ergonovine]]

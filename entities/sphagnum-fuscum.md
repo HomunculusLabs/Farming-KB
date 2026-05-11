@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Crum, H.A. (1984). "Sphagnaceae of North America." University of Michigan Herbarium.
+  - Crum, H.A. (1984). "Sphagnaceae huckleberries-and-wild-berries-of-north-america." University of Michigan Herbarium.
   - McQueen, C.B. & Andrus, R.W. (2007). "Sphagnum." In: Flora of North America North of Mexico, Vol. 27.
   - Rydin, H. & Jeglum, J.K. (2006). "The Biology of Peatlands." Oxford University Press.
-  - Gignac, L.D. (1992). "Niche structure, resource partitioning, and species traits of Sphagnum." Canadian Journal of Botany, 70, 130–146.
+  - Gignac, L.D. (1992). "Niche structure, [[dighton-fungal-competition-resource-partitioning]], and species traits of Sphagnum." Canadian Journal of Botany, 70, 130–146.
 ---
 
 ## Overview
@@ -64,7 +64,7 @@ It is also found in blanket bogs, poor fens, and open boreal coniferous woodland
 
 Sphagnum fuscum is strongly associated with acidic conditions, typically growing at pH values between 3.0 and 5.0.
 
-The species is tolerant of relatively low nutrient availability and can persist in oligotrophic environments.
+The species is tolerant of relatively low [[ph-and-nutrient-availability-garden-soils]] and can persist in oligotrophic environments.
 
 ## Ecology
 
@@ -76,49 +76,14 @@ The species plays a central role in peat accumulation, which stores approximatel
 
 Sphagnum fuscum hummocks provide microhabitat differentiation within bogs, supporting a diverse community of mosses, liverworts, and vascular plants.
 
-The species hosts a diverse microbial community including methanotrophic bacteria, nitrogen-fixing cyanobacteria, and various protists.
+The species hosts a diverse [[cannabis-cultivar-microbial-community-effects]] including methanotrophic bacteria, nitrogen-fixing cyanobacteria, and various protists.
 
 Invertebrate communities within Sphagnum fuscum mats include water mites, nematodes, rotifers, and a variety of protozoa.
 
 The species is relatively resistant to desiccation compared to other Sphagnum species, allowing it to dominate elevated hummock positions.
 
-Its phenolic compounds provide some resistance to microbial decomposition, contributing to long-term peat preservation.
+Its [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] provide some resistance to microbial decomposition, contributing to long-term peat preservation.
 
 ## Reproduction
 
-Sphagnum fuscum reproduces primarily through vegetative propagation rather than sexual reproduction.
-
-Spore production is relatively infrequent, with sporophytes observed only occasionally in most populations.
-
-When present, the spore capsule is spherical and borne on a short pseudopodium that raises it above the gametophyte surface.
-
-Vegetative reproduction occurs through the fragmentation of stems and branches, which readily establish new colonies when dispersed by wind or water.
-
-The species also spreads through clonal growth, with individual genets potentially persisting for decades or centuries.
-
-Regeneration from spores occurs mainly after disturbance events such as fire or ice scour that create open substrates.
-
-## Conservation
-
-Sphagnum fuscum is widespread and currently not considered threatened at the global level.
-
-However, peatland drainage for agriculture, forestry, and peat extraction has significantly reduced its habitat in many regions.
-
-Climate warming poses a significant threat to ombrotrophic bog systems where the species dominates.
-
-Rising temperatures and altered precipitation patterns may shift bogs from ombrotrophic to minerotrophic conditions, favoring competing moss species.
-
-Increased frequency and severity of wildfire in boreal regions also threatens Sphagnum fuscum populations, as the species is highly fire-sensitive.
-
-Peatland restoration efforts increasingly target Sphagnum fuscum as a key species for re-establishing functional bog ecosystems.
-
-## See Also
-
-- [[sphagnum-capillifolium]]
-- [[sphagnum-magellanicum]]
-- [[sphagnum-palustre]]
-- [[sphagnum-cuspidatum]]
-- [[hypnum-cupressiforme]]
-- [[polytrichum-commune]]
-- [[aulacomnium-palustre]]
-- [[pleurozium-schreberi]]
+Sphagnum fuscum reproduces primarily through [[hamilton-vegetative-propagation]] rather than sexual reproduction.

@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Wood-Based Substrates in The Mushroom Cultivator

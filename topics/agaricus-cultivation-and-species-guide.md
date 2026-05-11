@@ -5,6 +5,7 @@ tags: [mushrooms, cultivation, composting, mycology, agaricus, medicinal-fungi, 
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/concepts/agaricus-bisporus-cultivation-biology.md
   - /Users/t3rpz/wiki/concepts/agaricus-species-guide.md
   - /Users/t3rpz/wiki/concepts/agaricus-blazei-murill-research.md

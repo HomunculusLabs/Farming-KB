@@ -2,7 +2,7 @@
 title: "Houttuynia cordata"
 created: 2026-04-28
 type: species
-tags: [herbal-plant, medicinal-plant, culinary-herb, traditional-medicine, permaculture]
+tags: [herbal-plant, medicinal-plant, culinary-herb, traditional-medicine, [[permaculture]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -20,7 +20,7 @@ characteristic fishy odor when crushed, and its remarkable ability to
 spread aggressively through underground rhizomes. Modern pharmacological
 research has validated several of its traditional uses, particularly
 its antimicrobial, anti-inflammatory, and immunomodulatory properties.
-It is also studied for its quercetin and quercitrin content, as well
+It is also studied for its [[quercetin]] and quercitrin content, as well
 as unique alkylamide compounds called houttuyfonates.
 
 ## Taxonomy and Naming
@@ -41,7 +41,7 @@ as unique alkylamide compounds called houttuyfonates.
 
 The species is the sole member of its genus, making it a
 monotypic taxon. It belongs to the same order (Piperales) as
-[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] (Piper nigrum), though it is not closely related
+[[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] ([[piper-nigrum-entity]]), though it is not closely related
 to true mints (Lamiaceae).
 
 ## Description
@@ -77,7 +77,7 @@ remarkably persistent — even small rhizome fragments can regenerate
 into new plants, making the species difficult to eradicate once
 established.
 ## Distribution and Habitat
-- **Native range:** East Asia (China, Japan, Korea, Taiwan) and
+- **Native range:** [[neurotropic-fungi-japan-east-asia-species-cultural-context]] (China, Japan, Korea, Taiwan) and
   Southeast Asia (Vietnam, Thailand, Myanmar, India, Nepal,
   Bhutan). Widely distributed across forest margins, stream banks,
   moist meadows, and disturbed areas up to 2500 meters elevation.
@@ -88,58 +88,3 @@ established.
   marsh edges, damp forests, roadside ditches, and disturbed areas
   with adequate moisture. Prefers partial shade but tolerates full
   sun with sufficient moisture.
-- **Climate:** Hardy in USDA zones 5-10. Prefers warm, humid
-  conditions. Above-ground growth dies back with frost but
-  rhizomes survive and resprout vigorously in spring.
-- **Soil:** Adaptable but prefers moist, fertile, loamy soils with
-  pH 5.5-7.0. Tolerates poor soils but growth is reduced in dry
-  or sandy conditions.
-## Traditional and Medicinal Uses
-- **Traditional Chinese medicine (TCM):** Classified as acrid,
-  slightly cold. Used to clear heat, resolve toxicity, promote
-  drainage of pus, and relieve carbuncles and sore throats.
-  Indicated for lung heat with purulent sputum, urinary tract
-  infections, dysentery, and skin eruptions.
-- **Japanese medicine (kampo):** Known as dokudami ("poison
-  blocking herb"), traditionally used as a detoxifying and
-  anti-inflammatory agent. One of the most commonly consumed
-  herbal teas in Japan.
-- **Vietnamese cuisine:** Fresh leaves are used as a garnish and
-  herb in various dishes. The fresh, aromatic leaves add a
-  distinctive flavor to salads, spring rolls, and soups.
-- **Antimicrobial applications:** Traditionally applied externally
-  to wounds, snake bites, and skin infections. Modern research has
-  confirmed activity against various bacteria including
-  Staphylococcus aureus, Pseudomonas aeruginosa, and Legionella
-  pneumophila.
-- **Anti-inflammatory:** Used for inflammatory conditions including
-  pneumonia, bronchitis, and dermatitis. Anti-inflammatory activity
-  is attributed to quercetin, quercitrin, and houttuyfonates.
-## Key Phytochemicals
-| Compound | Category | Significance |
-|---|---|---|
-| Quercetin | Flavonol | Potent antioxidant and anti-inflammatory |
-| Quercitrin | Flavonoid glycoside | Antioxidant, anti-inflammatory |
-| Houttuyfonate (decanoyl acetaldehyde) | Alkylamide | Primary antimicrobial compound |
-| Isoquercitrin | Flavonoid | Antioxidant, antiviral |
-| Afzelin | Flavonoid glycoside | Anti-inflammatory |
-| Hyperoside | Flavonoid glycoside | Antioxidant, diuretic |
-| Chlorogenic acid | Phenolic acid | Antioxidant, hepatoprotective |
-## Cultivation Notes
-- **Propagation:** Easily propagated from rhizome divisions or
-  stem cuttings. [[cannabis-seed-germination-methods]] is possible but slow and
-  unreliable compared to vegetative methods.
-- **Planting:** Space plants 30-60 cm apart. Warning: plant in
-  contained areas or use root barriers to prevent uncontrolled
-  spread. Invasiveness is a significant concern in garden settings.
-- **Harvest:** Above-ground parts can be harvested throughout the
-  [[savory-growing-season-and-non-growing-season-management]]. For medicinal use, aerial parts are typically
-  harvested during flowering and dried.
-- **Invasiveness:** Houttuynia cordata is considered an invasive
-  species in many regions outside its native range. Its aggressive
-  rhizomatous spread can displace native vegetation. Check local
-  regulations before planting. Container cultivation is recommended
-  in areas where it is invasive.
-- **[[plantago-major]]
-- [[urtica-dioica]]
-- [[moringa-oleifera]]

@@ -31,7 +31,7 @@ years.
 
 The species once occupied approximately 810,000 hectares. Logging has
 reduced this to roughly 115,000 hectares, with only about 5% of old-
-growth forest remaining.
+[[teaming-with-microbes-old-growth-forest]] remaining.
 
 Coast redwood timber is exceptionally resistant to decay due to high
 tannin content. The heartwood is among the most valuable commercial
@@ -87,45 +87,3 @@ evolutionary lineage of the Sequoioideae.
 
 Endophytic [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in foliage and bark may contribute to the
 tree's remarkable disease resistance and longevity.
-
-Redwood forests provide critical habitat for the endangered marbled
-murrelet, northern spotted owl, Roosevelt elk, and Pacific giant
-salamander. Epiphytic communities in the canopy include ferns, mosses,
-lichens, and vascular plants on massive branch platforms.
-
-[[fungal-diversity-leaf-litter-coarse-woody-debris]] debris from fallen redwoods creates habitat complexity
-persisting for centuries. Large logs in stream channels provide critical
-aquatic habitat for salmonids.
-
-## Timber and Economic Uses
-
-Coast redwood produces one of the most durable softwoods in the world.
-The heartwood is deep reddish-brown, approximately 420–450 kg/m³ at 12%
-moisture. The timber is prized for outdoor decking, fencing, and siding
-due to natural decay and insect resistance.
-
-Redwood logging began in the 1850s and intensified through the early
-20th century. Old-growth harvesting has declined since the 1990s, with
-most production now from second-growth managed timberlands.
-
-Redwood National and State Parks protect approximately 45,000 hectares,
-including some of the tallest and oldest specimens remaining.
-
-## Cultivation
-
-Coast redwood has been cultivated as an ornamental in temperate regions
-worldwide, including the British Isles, New Zealand, and southern Chile.
-Growth in cultivation can exceed native range rates in areas with
-abundant moisture and mild temperatures.
-
-[[cannabis-seed-germination-methods]] requires light and consistent moisture. Cuttings from
-juvenile foliage root readily under mist propagation. The species is
-sensitive to prolonged freezing and drought outside its native fog belt.
-
-## See Also
-
-- [[picea-abies]]
-- [[taxus-baccata]]
-- [[trametes-versicolor-entity]]
-- [[alnus-glutinosa]]
-- [[tilia-cordata]]

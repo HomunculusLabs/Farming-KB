@@ -63,10 +63,10 @@ Fruit is a small drupe 2–3 mm long with a dorsal keel and a short beak.
 
 ## Distribution and Habitat
 
-Potamogeton perfoliatus has a circumboreal distribution across North America,
+Potamogeton perfoliatus has a circumboreal distribution across [[guzman-psilocybin-mushrooms-north-america]],
 Europe, northern Africa, and temperate Asia.
 
-In North America, it ranges from Alaska to Newfoundland, south to Florida,
+In [[berry-growing]], it ranges from Alaska to Newfoundland, south to Florida,
 Texas, and California.
 
 It also occurs in brackish coastal waters of the Atlantic and Gulf coasts.
@@ -88,62 +88,3 @@ Its dense submerged beds provide refuge and foraging habitat for fish,
 amphibians, and aquatic invertebrates.
 
 Juvenile fish including largemouth bass, bluegill, and various minnow
-species depend on Potamogeton beds for cover and food.
-
-Waterfowl including mallards, teal, and canvasbacks feed on the fruits,
-tubers, and vegetation.
-
-Invertebrates including mayflies, caddisflies, and snails colonize the
-plant surfaces, supporting higher trophic levels.
-
-The species contributes to water clarity by stabilizing sediments and
-reducing wave action.
-
-Dense beds can reduce nutrient loading through uptake of nitrogen and
-phosphorus from the water column.
-
-## Uses and Significance
-
-Potamogeton perfoliatus is widely used as an indicator species for
-monitoring freshwater ecosystem health.
-
-Its presence generally indicates good water quality, though the species
-tolerates moderate eutrophication.
-
-It is sometimes planted in [[comparison-constructed-wetlands-vs-bioswales]] and restoration projects
-for habitat enhancement and water-quality improvement.
-
-The species has limited direct economic value but supports commercially
-important fish and waterfowl populations.
-
-In some regions, excessive growth of clasping-leaf pondweed interferes
-with navigation, irrigation, and recreation, requiring mechanical or
-chemical control.
-
-## Conservation Status
-
-Potamogeton perfoliatus is globally secure and not considered threatened.
-
-However, local populations have declined in heavily developed watersheds
-due to dredging, pollution, and shoreline alteration.
-
-The species has disappeared from some urbanized waterways where water
-quality has deteriorated below tolerance thresholds.
-
-It is protected under state-level regulations in several U.S. states where
-aquatic plant diversity is a conservation concern.
-
-Recovery of degraded populations typically follows improvements in water
-quality and substrate conditions.
-
-## See Also
-
-- [[potamogeton-natans]]
-- [[potamogeton-crispus]]
-- [[ceratophyllum-demersum]]
-- [[myriophyllum-spicatum]]
-- [[elodea-canadensis]]
-- [[hydrilla-verticillata]]
-- [[nymphaea-alba]]
-- [[nuphar-lutea]]
-- [[lemna-minor]]

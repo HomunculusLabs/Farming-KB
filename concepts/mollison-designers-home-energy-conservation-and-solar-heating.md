@@ -1,5 +1,5 @@
 ---
-title: mollison designers home energy conservation and solar heating Conservation and mollison-designers-passive-solar-heating-building-design
+title: Mollison Designers Home Energy Conservation And Solar Heating
 created: 2026-04-26
 tags:
   - energy-conservation
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 
 Space heat and hot water together are about 80% of the energy needs of
 modern housing. Home energy conservation is therefore one of the most
-significant design factors in permaculture settlement. The greatest
+significant design factors in [[permaculture-settlement-design]]. The greatest
 cost in house maintenance in temperate cold areas is that of space and
 water heating. Both [[cool-climate-settlement-design-mollison]] overall and [[mollison-designers-house-design-climate-zones]] in
 detail is a critical conservation factor in human occupation.
@@ -46,7 +47,7 @@ A solitary photovoltaic cell or a bank of such cells provides the
 little electricity needed for lights and electronics. Modern
 photovoltaic solar cells convert sunlight to electricity at 25-29%
 efficiency (highest recorded), while crystalline photovoltaic cells
-achieve about 13.5%. Gallium arsenide photovoltaic cells can reach
+achieve about 13.5%. [[gallium-arsenide]] photovoltaic cells can reach
 75% efficiency. Amorphous silica solar cells, cheap to produce in
 quantity, achieve 2-5%. If efficient cells were affordable, all home
 energy could be electrical from 100 square metres of roof area.
@@ -86,39 +87,3 @@ covered cisterns. Hardy desert trees on a much broader scale establish
 firewood reserves, reducing dependence on fossil fuels.
 
 ## Cooking Energy
-
-With photovoltaics providing lighting and electronics, it remains to
-cook using oil, gas, or modest fires. Well-made slow combustion stoves
-convert wood to space heat at 30% efficiency, while open fires waste
-wood at only 15% efficiency. The Kenyan bell-bottom metal cookstove
-achieves about 30% efficiency for cooking heat. Biogas conversion of
-cow dung, with useful fertiliser residue, provides a renewable cooking
-fuel.
-
-## Energy Efficiency Criteria
-
-For any energy technology to be appropriate in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
-it must meet several criteria:
-
-- The process must be non-polluting, or relevant to the place.
-- The technology must be socially acceptable and locally benign.
-- The cost must be affordable and amortise under 10 years.
-- The technology can be locally produced and maintained.
-
-No matter how efficient a technology may be, if it lays waste to or
-destroys the basic quality or quantity of soil, water, or clean air,
-then it must be rejected. This is the "economics of extinction."
-
-## Related
-
-- [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] Topics
-
-- mollison-village-energy-systems-and-efficiency - Village-scale
-  energy planning
-- mollison-biogas-and-methane-production-from-sewage - Biogas for
-  cooking fuel
-- mollison-greywater-domestic-water-recycling - Wastewater
-  recycling systems
-- [[mollison-designers-solar-water-heating-systems]]
-- [[mollison-designers-passive-solar-heating-building-design]]
-- [[gallium-arsenide]]

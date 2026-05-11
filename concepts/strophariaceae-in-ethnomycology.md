@@ -88,31 +88,3 @@ Among the most significant species in indigenous practice:
 The Nahuatl term "teonanácatl" (literally "divine mushroom" or "flesh of the
 gods"), first recorded by Bernardino de Sahagún in the sixteenth century, has
 become the most widely recognized indigenous name for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]], though
-in practice it is now used indiscriminately for all Mexican hallucinogenic fungi.
-
-## The McKenna Hypothesis: Mushrooms and Human Evolution
-
-Terence McKenna, in Food of the Gods (1992), proposed a provocative hypothesis
-about the role of Strophariaceae mushrooms in human cognitive evolution. He
-argued that the inclusion of psilocybin-containing mushrooms in the diet of
-early hominids in the African grasslands may have been a decisive factor in the
-emergence of language, self-reflection, and complex culture.
-
-McKenna's argument drew on several lines of evidence: the stimulant effects of
-low doses on visual acuity and edge detection (potentially advantageous for
-hunting prey in tall grass), the effects of moderate doses on sexual behavior
-and social bonding, and the profoundly consciousness-altering effects of high
-doses that could have catalyzed the emergence of shamanic practice, symbolic
-thought, and language itself.
-
-While this hypothesis remains speculative and is not widely accepted in
-mainstream paleoanthropology, it highlights the depth and antiquity of the
-human relationship with these fungi. McKenna connected the suppression of
-mushroom-based shamanic practices with the rise of what he called "dominator
-culture" — hierarchical, patriarchal, and warlike social organizations that
-replaced earlier partnership-based societies. Drawing on Riane Eisler's
-## See Also
-
-- [[stropharia-cubensis-as-ur-plant]]
-
-- [[stropharia-rugosoannulata]]

@@ -1,5 +1,5 @@
 ---
-title: "Cannabis [[cannabis-sex-determination-floral-biology]] expression hermaphrodite [[cannabis-disease-pest-resistance-breeding-clarke]] and Hermaphrodite Breeding"
+title: Cannabis Sex Expression Hermaphrodite Breeding Clarke
 created: 2026-04-28
 tags: [cannabis, sex-determination, hermaphrodite, breeding, genetics, Clarke]
 date: 2026-04-25
@@ -88,54 +88,9 @@ chances of pistillate plants turning hermaphrodite later in the season.
 
 ## Producing Staminate Offspring
 
-Crosses may also be performed to produce nearly all staminate offspring.
-This is accomplished by crossing a pure staminate plant with a staminate
-plant that has produced a few pistillate flowers due to environmental
-stress, or selfing the latter plant.
-
-It is readily apparent that in the wild this is not a likely possibility.
-Very few staminate plants live long enough to produce pistillate flowers,
-and when this does happen the number of seeds produced is limited to the
-few pistillate flowers that occur.
-
-## Natural Bias Toward Pistillate Plants
-
-In the case of a pistillate hermaphrodite, it may produce only a few
-staminate flowers, but each of these may produce thousands of pollen
-grains, any one of which may fertilize one of the plentiful pistillate
-flowers, producing a seed. This is another reason that natural Cannabis
-populations tend toward predominantly pistillate and pistillate
-hermaphrodite plants.
-
-## Artificial Induction of Hermaphrodism
-
-Artificial hermaphrodites can be produced by hormone sprays, mutilation,
-and altered [[cannabis-photoperiodism-and-light-cycles]]. These should prove most useful for fixing
-traits and sexual type. Environmental stresses such as nutrient excess
-or deficiency, altered light cycles, and physical damage can all
-contribute to [[cervantes-ethylene-hormonal-sex-reversal]] in Cannabis.
-
-Under conditions of extreme stress, populations have been shown to
-depart greatly from the expected one-to-one staminate to pistillate
-ratio. Understanding these mechanisms gives breeders additional tools
-for controlling the sexual expression of their breeding populations.
-
-## Seedling Sex Indicators
-
-Whorled phyllotaxy is associated with subsequent anomalies in the
-[[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] (i.e., multiple leaflets and flattened or clubbed stems).
-Also, most whorled plants are staminate and whorled phyllotaxy may be
-sex-linked. This provides a potential early indicator for breeders
-seeking to identify and select for desired sexual expression before
-plants reach maturity.
-
-Resistance to damping-off is another trait that may be selected just
-after emergence of the embryo from the soil. Early selection for vigor,
-hardiness, resistance, and general growth form may be made when the
-seedlings are from 30 to 90 centimeters (1 to 3 feet) tall.
-
 ## See Also
-
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-hybridization-back-crossing-methods-clarke]]
-- [[cannabis-sinsemilla-life-cycle]]
+- [[cannabis-breeding-selection-principles-clarke]]
+- [[cannabis-disease-pest-resistance-breeding-clarke]]
+- [[cannabis-seed-germination-viability-breeding-clarke]]
+- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
+- [[cannabis-breeding-traits-selection-criteria-clarke]]

@@ -1,5 +1,5 @@
 ---
-title: "Sclerotia sclerotia maturation timeline psilocybe tampanensis mexicana in Psilocybe tampanensis and P. mexicana"
+title: Sclerotia Maturation Timeline Psilocybe Tampanensis Mexicana
 concept_type: "biology"
 domain: "mycology"
 source: "Cultivation of fruitbodies and sclerotia on sterilised grass seed"
@@ -35,7 +35,7 @@ bodies cultivable independently of fruitbodies.
 
 ## Species That Produce Sclerotia
 
-*P. tampanensis* was described by Steven Pollock in 1977 from near Tampa, Florida. One of the few
+*P. tampanensis* was described by [[steven-pollock]] in 1977 from near Tampa, Florida. One of the few
 psilocybin-containing species to reliably produce sclerotia under cultivation, it is rare in the
 wild and primarily maintained through cultivation; its sclerotia are commonly called "Philosopher's
 Stones." *P. mexicana* was described by Roger Heim in the 1950s from Mexican specimens — among the
@@ -47,15 +47,15 @@ it produces sclerotia both in nature and under cultivation.
 The standard approach uses sterilised grass seed in sealed jars, offering advantages over
 traditional fruitbody cultivation:
 
-- **No casing required**: Sclerotia form directly within the substrate without a casing layer or
-  specialized environmental triggers.
+- **No casing required**: Sclerotia form directly within the substrate without [[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] or
+  specialized [[fungal-fruiting-body-formation-environmental-triggers]].
 - **Simplified [[eclss-environmental-control-life-support]]**: Sealed jars minimize contamination risk throughout
   colonization and development.
 - **Consistent results**: The nutrient-rich substrate provides reliable conditions across multiple
   cultivation cycles.
 
-Grass seed is hydrated, loaded into jars, pressure-cooked, inoculated with spore syringe or agar
-culture, then incubated under controlled conditions.
+Grass seed is hydrated, loaded into jars, pressure-cooked, inoculated with [[comparison-mushroom-liquid-culture-vs-spore-syringe]] or agar
+culture, then incubated under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
 ## Maturation Timeline
 
@@ -88,60 +88,3 @@ dense — golden-brown to amber in *P. tampanensis*, lighter tan in *P. mexicana
 trigger the morphogenetic switch to reproductive structures, sclerotia develop optimally in
 complete darkness. Jars are kept in opaque containers throughout the 4-month period. Light
 exposure may divert metabolic resources toward premature fruiting attempts. Optimal temperatures
-range from 22–26°C (72–79°F).
-
-## In-Jar Sclerotia vs. Casing Layer Sclerotia
-
-- **In-jar sclerotia**: Form in a closed, contaminant-free environment. Smoother, more regular
-  in shape, with predictable timeline and consistent moisture throughout maturation.
-- **Casing layer sclerotia**: When cased substrates are exposed to fruiting conditions, sclerotia
-  may form within the casing. These are often irregular, smaller, and compete with fruitbodies
-  for available nutrients.
-
-## Factors Affecting Sclerotia Size and Yield
-
-- **Substrate nutrition**: Grass seed provides optimal carbohydrate-nitrogen balance. Supplementation
-  increases yield but raises contamination risk.
-- **Moisture content**: Overly wet substrates promote bacterial contamination; dry substrates limit
-  mycelial expansion and sclerotia hydration.
-- **Strain genetics**: Different isolates produce markedly different sizes, shapes, and alkaloid
-  concentration profiles.
-- **Incubation duration**: Harvesting before 3 months significantly reduces yield. Maximum yield at
-  approximately 4 months post-inoculation.
-- **Jar volume and substrate depth**: Deeper substrates allow larger sclerotia; shallow substrates
-  may produce them more quickly.
-
-## Harvesting Considerations and Timing
-
-Harvesting involves separating hardened masses from the grass seed substrate by hand. Harvest
-should occur at or near the 4-month maturation point. Fresh sclerotia contain 70–90% water;
-drying reduces them to approximately 10–20% of fresh weight. Refrigeration preserves them for
-weeks to months; drying or freezing enables long-term storage.
-
-## Contrast with Mushroom Fruiting
-
-Sclerotia and fruitbody production are fundamentally different pathways. Fruitbody formation
-requires casing, light, fresh air exchange, and often a temperature drop, with mushrooms appearing
-within 1–2 weeks. Sclerotia require only darkness and stable temperatures over 3–4 months.
-Sclerotia generally produce greater biomass per substrate unit, and sealed-jar cultivation is
-significantly lower maintenance than fruitbody production environmental management.
-
-## Historical and Cultural Context
-
-Sclerotia of *P. mexicana* have been used by indigenous peoples of [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] for centuries,
-likely among the oldest known psychedelic fungal preparations. The Aztec and Mazatec referred to
-psychoactive fungi as *teonanácatl* ("flesh of the gods"), and sclerotia were probably included in
-ceremonial contexts. In the modern era, *P. tampanensis* sclerotia gained prominence in the
-Netherlands as "Philosopher's Stones" or "truffles," sold in smart shops from the late 1990s
-until banned in 2008.
-
-## Comparison with Other Sclerotia-Producing Fungi
-
-- **Pleurotus tuberregium** (king tuber oyster): Produces large edible sclerotia valued as food
-  in West Africa and Southeast Asia, reaching several kilograms and cultivated commercially.
-- **Morchella spp.** (true morels): Produce small dark sclerotia in soil serving as inoculum
-
-## See Also
-- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
-- [[sclerotia-timing-dark-incubation-psilocybe-tampanensis-mexicana]]
-- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

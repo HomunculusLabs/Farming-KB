@@ -9,6 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.mdcreated: 2026-05-07
 type: concept
 
@@ -87,45 +88,3 @@ destroyed, neither matter nor life can perform their proper functions.
 ## Stage Three: Failure and Energy Efficiency Decline
 
 "The third stage will be failure, when man loses sight of what he must do."
-The industrial activity that expands relentlessly with developments in the
-natural sciences is basically a campaign to promote energy consumption. "Its
-target has not been so much to boost energy production as to senselessly
-waste energy."
-
-As long as man continues to take the stance that he is developing nature,
-"the materials and resources of the earth will go on drying up." Burdened
-by growing self-contradictions, "industrial activity will grind to a halt
-or undergo unyielding transformations that shall usher in drastic changes
-in political, economic, and social institutions."
-
-Self-contradiction is most evident in the decline in energy efficiency.
-Man has moved from the heat of the fireplace to electrical generation with
-a water wheel to thermal power generation to nuclear power. But "the
-efficiency of these sources has worsened exponentially in the same order."
-Scientists who believe solar or wind power will solve the problem are
-mistaken. These will only continue the decline in energy efficiency and
-accelerate the speed at which man heads toward destruction.
-
-## Contraction and Revival Through Natural Farming
-
-The same decline in energy efficiency appears in agriculture. "Farming with
-small machinery was more [[cervantes-case-study-energy-efficient-sea-of-green]] than modern large-scale agriculture
-using large implements, while farming with animal power was even more
-efficient." And no form of agriculture has better energy efficiency than
-natural farming.
-
-"Until man notices that scientific truth is not the same as absolute truth
-and turns his system of values on his head, he will continue to rush blindly
-onward toward self-destruction." Man's only work then will consist of the
-barest farming essential for sustaining life. Once this becomes clear,
-"people will realize for themselves what they must do. Only natural farming
-lies in the future. Natural farming is the only future for man."
-
-## Related
-
-- [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
-
-- [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]
-- [[fukuoka-textdoc-nondiscriminating-knowledge-child-intuition]]
-- [[fukuoka-textdoc-no-cause-and-effect-in-nature]]
-- [[fukuoka-textdoc-one-thing-is-all-things-holism]]

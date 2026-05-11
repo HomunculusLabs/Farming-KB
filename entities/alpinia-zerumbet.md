@@ -11,6 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Son, M.J. et al. (2015). "Anti-inflammatory and antioxidant properties of Alpinia zerumbet." Journal of Ethnopharmacology, 171, 156-164.
   - Nagumo, T. et al. (2001). "Diuretic and natriuretic effects of Alpinia zerumbet." Phytotherapy Research, 15(2), 173-175.
   - Nakamura, Y. et al. (2003). "Antioxidant activity of Alpinia zerumbet leaves." Journal of Agricultural and Food Chemistry, 51(18), 5270-5274.
@@ -87,24 +88,3 @@ A. zerumbet holds particular cultural importance in Okinawa, Japan, where it is 
 The plant is incorporated into traditional Okinawan festivals and rituals. Its flowers are used in seasonal decorations, and the leaves are used to wrap ceremonial foods. The species is considered a symbol of resilience due to its ability to recover quickly from typhoon damage.
 
 In Hawaii, A. zerumbet has become naturalized and is known as "shell ginger." It is used in traditional Hawaiian healing practices and is commonly planted around homes for its ornamental value and cultural associations.
-
-## Landscape and Ecological Value
-
-Shell ginger is widely used in tropical and subtropical landscaping as a specimen plant, mass planting, and container specimen. The variegated cultivar is particularly popular for its year-round colorful foliage.
-
-The flowers are attractive to butterflies, bees, and hummingbirds, providing nectar resources in garden settings. The dense clumping habit provides cover for small wildlife.
-
-The species has naturalized in parts of Hawaii, Florida, and the Caribbean, where it can form dense stands along waterways. It is not currently listed as a major invasive threat, but its spread is monitored in sensitive habitats.
-
-## See Also
-
-- [[boesenbergia-rotunda]]
-- [[cymbopogon-citratus]]
-- [[curcuma-longa]]
-- [[cinnamomum-verum]]
-- [[murraya-koenigii]]
-- [[moringa-oleifera]]
-- [[withania-somnifera]]
-- [[bacopa-monnieri]]
-- [[azadirachta-indica]]
-- [[glycyrrhiza-glabra]]

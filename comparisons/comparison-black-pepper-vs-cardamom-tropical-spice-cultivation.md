@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-black-locust-vs-honey-locust]] pepper vs cardamom tropical spice cultivation vs Cardamom: Tropical Spice Cultivation Comparison"
+title: Comparison Black Pepper Vs Cardamom Tropical Spice Cultivation
 tags:
   - black-pepper
   - cardamom

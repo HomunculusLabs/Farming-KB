@@ -10,7 +10,7 @@ sources: [raw/papers/what-a-plant-knows-daniel-chamovitz.md]
 
 # Plant Thigmomorphogenesis and Mechanosensing
 
-In "What a Plant Knows," Daniel Chamovitz explores the question of whether
+In "What a Plant Knows," [[daniel-chamovitz]] explores the question of whether
 plants can feel -- not in the emotional sense, but in the physical sense of
 detecting and responding to mechanical stimulation. Plants lack nerve endings
 and pain receptors, yet they exhibit remarkably sensitive responses to touch,
@@ -38,7 +38,7 @@ experience minimal mechanical stimulation, often need to be "hardened off" by
 gradual exposure to wind before being transplanted outdoors.
 
 Research has shown that even brief, gentle touch can significantly alter gene
-expression. In Arabidopsis thaliana, touch stimulation rapidly upregulates a
+expression. In [[arabidopsis-thaliana]], touch stimulation rapidly upregulates a
 specific set of genes -- the TCH (touch) genes -- within minutes. TCH genes
 encode proteins involved in calcium signaling (calmodulin), [[plants-of-the-gods-plant-kingdom-classification]]. The requirement for two touches within
 a short time window prevents the plant from wasting energy closing on raindrops
@@ -78,7 +78,7 @@ the plant closer to its support and providing elasticity that buffers against
 wind. The coiling direction is often species-specific and determined by the
 m  soil. When a
 [[solomon-growing-root-crops-guide]] encounters a barrier -- a rock, a compacted soil layer, or
-another root -- it changes its growth direction to navigate around the
+another root -- it changes its [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] to navigate around the
 obstruction. This response, called root obstacle avoidance, involves
 mechanosensitive ion channels in the root cap cells that detect pressure and
 trigger changes in auxin transport.
@@ -88,18 +88,3 @@ mechanoresponses. When a plant cell experiences mechanical stimulation,
 mechanosensitive calcium channels in the plasma membrane open, allowing a rapid
 influx of extracellular calcium into the cytoplasm. This calcium spike acts as
 a signal that triggers downstream responses including gene activation,
-cytoskeletal reorganization, and changes in [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] properties.
-
-The calcium signal is decoded by calcium-binding proteins such as calmodulin
-and calmodulin-like proteins. In Arabidopsis, the TCH3 gene, which encodes a
-calmodulin-like protein, is one of the most strongly touch-inducible genes.
-The calcium signal is transient and tightly regulated: calcium pumps quickly
-restore baseline cytoplasmic levels, allowing the cell to remain sensitive to
-subsequent stimuli. This temporal precision enables plants to distinguish
-between different patterns of mechanical stimulation.
-
-## See Also
-
-- [[plant-memory-and-priming]]
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]

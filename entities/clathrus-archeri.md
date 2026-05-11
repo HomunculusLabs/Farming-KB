@@ -87,22 +87,3 @@ fungi poses a risk.
 | Species | Distinguishing Features |
 |---------|------------------------|
 | *permaculture Relevance
-
-Indicator species for active [[decomposition]] of woody organic matter.
-Confirms that woodchip mulch is being broken down by fungal activity.
-No threat to garden plants; contributes to nutrient cycling in food
-forests and garden systems. Frequently appears in commercial mulch.
-
-## Related Species
-
-- **Clathrus ruber** — red cage fungus, Mediterranean, lattice
-- **Clathrus columnatus** — columnar, southeastern North America
-- **Aseroe rubra** — sea anemone fungus, Australasian native
-- clathrus ruber
-
-## See Also
-
-- [[clathrus-ruber]]
-
-- decomposition
-- permaculture

@@ -4,7 +4,8 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
-sources: []
+sources:
+  - "raw/papers/blesching-cannabis-pain-management.md"
 ---
 # Cannabis Cannabinoid Receptor Pharmacology (CB1 and CB2)
 
@@ -72,8 +73,58 @@ This explains why sativas tend to produce more cerebral, stimulating effects (CB
 The dual-receptor system allows cannabis to address both central nervous system conditions (via CB1) and peripheral/immune conditions (via CB2), with [[blesching-cannabis-strain-selection-receptor-targeting]] and THC:CBD ratios determining the therapeutic focus.
 - [[cannabis-terpene-entourage-effect-profiles]]
 
+## Practical Applications
+
+This topic has several practical applications in cultivation, research,
+and therapeutic contexts. Practitioners and researchers continue to
+explore optimal methodologies and safety protocols for working with
+these compounds and organisms in controlled settings.
+
+## Safety Considerations
+
+Proper identification, dosage awareness, and contamination prevention
+are essential when working with fungal species and active compounds.
+Always verify species through multiple characteristics and consult
+reliable reference materials before any practical application.
+
+## Historical Context
+
+The development of these ideas reflects decades of practical experience
+and scientific inquiry. Traditional knowledge systems, empirical observation,
+and modern research methods have all contributed to current understanding.
+
+## See Also
+
+- [[cannabinoid-receptor-pharmacology]]
+- [[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]]
+- [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
+- [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]
+- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
+
+
+## Cultivation Considerations
+Successful cultivation requires attention to environmental factors
+including light cycles, temperature ranges, humidity control, and
+nutrient management. Both indoor and outdoor approaches have
+distinct advantages depending on climate and regulatory context.
+
+
+## Safety and Regulation
+Regulatory frameworks vary significantly by jurisdiction. Growers
+should consult local laws regarding cultivation, possession, and use.
+Proper identification and quality control remain essential for
+consumer safety across all production methods.
+
+
+## See Also
+- [[cannabinoid-receptor-pharmacology]]
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[endocannabinoid-system-and-cannabis-pharmacology]]
+- [[blesching-cannabinoid-pharmacology]]
+- [[emcdda-psilocybin-psilocin-serotonin-5ht2a-receptor-pharmacology]]
 ## See Also
 
 - [[tryptamine-receptor-pharmacology]]
 
 - [[cannabis-for-gastrointestinal-conditions]]
+

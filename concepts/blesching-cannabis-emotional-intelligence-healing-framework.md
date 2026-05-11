@@ -1,5 +1,5 @@
 ---
-title: "blesching cannabis emotional intelligence healing framework and the Healing Framework in Mind-Body Medicine"
+title: Blesching Cannabis Emotional Intelligence Healing Framework
 tags: [emotional-intelligence, mind-body-medicine, healthy-habits, unhealthy-habits, guilt, martyrdom, harbored-anger, gratitude, compassion, forgiveness, discernment, epigenetics, endocannabinoid-system]
 date: 2026-04-28
 updated: 2026-04-28
@@ -26,7 +26,7 @@ Both researchers argued that emotions must be identified and targeted on equal f
 
 Every cell of the human body communicates through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] (molecules) and nonphysical signals (emotions, sunlight). The CHI [[maps]] specific endogenous molecules to their emotional counterparts:
 
-**Expansive emotion molecules**: acetylcholine (I remember), anandamide (I am at ease), endogenous opioids (pain relief), GABA (I am melting), oxytocin (I feel for yo serotonin onin (I am happy).
+**Expansive [[blesching-endocannabinoid-emotion-molecules-neurochemistry]]**: acetylcholine (I remember), anandamide (I am at ease), [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]] (pain relief), GABA (I am melting), oxytocin (I feel for yo serotonin onin (I am happy).
 
 **Constricting emotion molecules**: epinephrine (I am afraid), dopamine (I am motivated), norepinephrine (I am attentive), cortisol (I am stressed), glutamate (I am excited), vasopressin (I am aggressive).
 
@@ -70,7 +70,7 @@ Research on 287 heart-attack survivors found that patients who learned from thei
 
 ### Compassion
 
-An experiment at the University of North Carolina Chapel Hill demonstrated that kindness and compassion significantly increase vagal tone, calming heart rate and blood pressure, relaxing the mind, and optimizing digestion. Participants meditating on their worries with kindness and affirmations such as "may you live with ease" showed higher vagal tone and increased expansive emotions. The researchers concluded that "positive emotions, positive social connections, and physical health influence one another in a self-sustaining upward-spiral dynamic."
+An experiment at the University of [[north-carolina-mycodiversity]] Chapel Hill demonstrated that kindness and compassion significantly increase vagal tone, calming heart rate and blood pressure, relaxing the mind, and optimizing digestion. Participants meditating on their worries with kindness and affirmations such as "may you live with ease" showed higher vagal tone and increased expansive emotions. The researchers concluded that "positive emotions, positive social connections, and physical health influence one another in a self-sustaining upward-spiral dynamic."
 
 ### Forgiveness
 
@@ -86,18 +86,4 @@ Research at the University of Washington found that couples resolving conflict s
 
 Discernment, as defined by Merriam-Webster, is "the ability to understand inner qualities or relationships." Unlike bias, discernment allows intelligent exploration of what diminishes health and what supports it. It enhances curiosity, creates focus on possible solutions, embraces complexity, reduces false hope, and nourishes real optimism.
 
-A 2005 London study showed positive emotions lower cortisol, reduce heart rate, and decrease fibrinogen stress responses. Harvard research confirmed curiosity and hope decrease hypertension likelihood. The "mental contrasting" technique (imagining a desired future alongside current obstacles) produces motivational energy aligned with expectations of success.
-
-## Transforming Habits: Trigger, Reaction, Reward
-
-Addiction treatment research identifies three phases in any habit: trigger, reaction, and reward. Breaking unhealthy emotional habits involves: (1) awareness of the trigger, (2) replacing choices in the reaction phase, and (3) consciously examining the reward dimensions. The CHI illustrates this with practical examples of people identifying triggers (anxiety), accepting them without judgment, gaining impulse awareness, and replacing destructive reactions with healthier alternatives.
-
-## Integration with Cannabis Therapy
-
-The CHI positions emotional intelligence work as synergistic with cannabis therapy. Cannabis can facilitate [[blesching-cannabis-deep-relaxation-healing]] and emotional release, making it easier to access repressed emotions. Many cannabis-using patients have reported that cannabis helps them transcend unhealthy psychological habits. The endocannabinoid system, particularly through anandamide (the "bliss molecule"), directly modulates the emotional states that the framework seeks to transform.
-
-## See Also
-
-- [[blesching-cannabis-belief-reprogramming]] for methods of changing limiting beliefs
-- [[blesching-cannabis-telomeres-telomerase-longevity]] for how emotions affect cellular aging
-- [[blesching-cannabis-chi-score-methodology]] for the [[blesching-cannabis-chi-scoring-evidence-based-medicine]] system
+A 2005 London study showed positive emotions lower cortisol, reduce heart rate, and decrease fibrinogen stress responses. [[hofmann-leary-case-and-harvard-research]] confirmed curiosity and hope decrease hypertension likelihood. The "[[mental-contrasting-positivity-ratio-healing-blesching]]" technique (imagining a desired future alongside current obstacles) produces motivational energy aligned with expectations of success.

@@ -27,12 +27,12 @@ This means legumes offer little nitrogen in a form other plants can use during t
 | Legume | Lbs N/Acre | Comparable Vegetable Demand |
 |--------|-----------|---------------------------|
 | Field beans (*Pisum arvensis*) | 40 | Low demand |
-| Peanuts (*Arachis hypogaea*) | 40 | Low demand |
+| Peanuts (*[[arachis-hypogaea]]*) | 40 | Low demand |
 | Hairy vetch (*Vicia villosa*) | 80 | Broccoli |
 | Dutch white clover (*Trifolium repens*) | 100 | — |
 | Soybeans (*Glycine max*) | 100 | Asparagus, lettuce, squash, broccoli |
 | Alsike clover (*Trifolium hybridum*) | 140 | — |
-| Red clover (*Trifolium pratense*) | 140 | — |
+| Red clover (*[[trifolium-pratense]]*) | 140 | — |
 | Sweet white clover (*Melilotus alba*) | 160 | Sweet potatoes and all the above |
 | Alfalfa (*Medicago sativa*) | 250 | Corn, beans, tomatoes, cantaloupes, all above |
 
@@ -42,7 +42,7 @@ Note: These figures vary considerably with soil type and climate; the relative r
 
 A common recommendation to interplant corn and beans assumes the nitrogen-fixing beans will share nitrogen with corn. The thinking is that "the roots of legumes take large amounts of nitrogen out of the air and make it available to the roots of other plants" (Encyclopedia of [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]], Rodale Press, 1978).
 
-In reality, very little if any nitrogen gathered by a bean plant is shared with the corn in the current season. The nitrogen goes to the bean's seeds. There are almost no studies showing improved corn yield from bean intercropping in temperate climates, though some tropical studies show benefits with legume-grass intercrops. There are, however, numerous studies that substantiate the well-known and traditional practice of planting legumes in rotation with grains and cereal crops.
+In reality, very little if any nitrogen gathered by a bean plant is shared with the corn in the current season. The nitrogen goes to the bean's seeds. There are almost no studies showing improved corn yield from bean intercropping [[query-how-to-grow-and-use-oca-in-temperate-climates]], though some tropical studies show benefits with legume-grass intercrops. There are, however, numerous studies that substantiate the well-known and traditional practice of planting legumes in rotation with grains and cereal crops.
 
 ## Getting Nitrogen in the Current Season
 
@@ -69,11 +69,11 @@ For nitrogen, legumes are the only true Type 1 accumulators (fixing atmospheric 
 The following non-leguminous plants have been documented as accumulating nitrogen in their foliage:
 
 **Perennial Herbs and Weeds**
-- Comfrey (*Symphytum officinale*) — accumulates N, P, K, Ca, Mg, and trace minerals
+- Comfrey (*[[comfrey-symphytum-officinale]]*) — accumulates N, P, K, Ca, Mg, and trace minerals
 - [[comparison-stinging-nettle-vs-horsetail]] (*Urtica urens*) — exceptional nitrogen content; broad accumulator
 - Dandelion (*Taraxacum vulgare*) — deep taproot; nearly universal presence
-- Chicory (*Cichorium intybus*) — deep-rooted perennial
-- Yarrow (*Achillea millefolium*) — perennial with medicinal uses
+- Chicory (*[[cichorium-intybus]]*) — deep-rooted perennial
+- Yarrow (*[[achillea-millefolium]]*) — perennial with medicinal uses
 - Plantains (*Plantago* spp.) — common broadleaf weeds
 
 **Annual and Biennial Weeds**
@@ -88,52 +88,3 @@ The following non-leguminous plants have been documented as accumulating nitroge
 - Clovers (*Trifolium* spp.) — white, red, crimson, alsike, hop clovers
 - Vetches (*Vicia* spp.) — hairy vetch, common vetch
 - Alfalfa (*Medicago sativa*) — highest N-fixing capacity
-- Sweet white clover (*Melilotus alba*)
-- Cowpeas, field beans, soybeans, peanuts
-
-**Additional Accumulators**
-- Borage (*Borago officinalis*)
-- Burdock (*Arctium minus*)
-- Coltsfoot (*Tussilago farfara*)
-- Docks (*Rumex* spp.)
-- Eyebright (*Anagallis arvensis*)
-- Fennel (*Foeniculum vulgare*)
-- Fat hen (*Atriplex hastata*)
-- Garlic (*Allium sativum*)
-- Horsetails (*Equisetum* spp.)
-- Lupine (*Lupinus* spp.)
-- Meadowsweet (*Filipendula ulmaria*)
-- Mullein (*Verbascum* spp.)
-- Mustards (*Brassica* spp.)
-- Purslane (*Portulaca oleracea*)
-- Toadflax (*Linaria vulgaris*)
-- Watercress (*Nasturtium officinale*)
-- Willow (*Salix* spp.)
-
-## Legume Cover Crop Considerations
-
-Different legumes suit different climates and soil conditions. The source document identifies regional adaptations:
-
-- **Cool season**: [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, annual ryegrass (as companion), Austrian winter pea
-- **Warm season**: Cowpeas, soybeans, velvet beans, crotalaria
-- **Perennial**: Alfalfa, white clover, red clover, sweet clover
-- **Tolerant of poor soils**: Sweet clover, sericea lespedeza, crown vetch
-- **For nitrogen-hungry crops**: Alfalfa provides the highest nitrogen return at 250 lbs/acre
-
-## Practical Applications
-
-- **Cover cropping**: Plant nitrogen-fixing legumes as cover crops, then till in before flowering for maximum nitrogen return
-- **Chop-and-drop**: Cut accumulator plants before flowering when nitrogen peaks in leaves; leave as surface mulch
-- **Compost activation**: High-nitrogen accumulator foliage (comfrey, nettle) accelerates compost decomposition
-- **Compost tea**: Nettle or comfrey steeped in water creates nitrogen-rich [[jadam-liquid-fertilizer-nutritional-perspective]]
-- **Rotational design**: Follow legume cover crops with heavy-feeding vegetable crops the next season
-- **Living mulch**: Allow clovers and vetches to grow as understory living mulch beneath taller crops
-
-## Related Pages
-
-- [[dynamic-accumulator-plants-potassium]]
-- [[dynamic-accumulator-plants-trace-minerals]]
-- [[dynamic-accumulators]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[dynamic-accumulator-plants-calcium-and-magnesium]]
-- [[teaming-with-nutrients-organic-fertilizer-types-and-sources]]

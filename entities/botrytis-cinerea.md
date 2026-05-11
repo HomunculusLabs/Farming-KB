@@ -17,12 +17,12 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 ## Overview
 Botrytis cinerea is a ubiquitous necrotrophic plant pathogen and
 saprobe with one of the broadest host ranges of any [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
-It causes gray mold disease on more than 200 plant species, affecting
+It causes gray [[oyster-green-mold-disease]] on more than 200 plant species, affecting
 fruits, vegetables, ornamental flowers, and field crops. The species
 is notable for its ability to attack both living plant tissues and
 dead [[hamilton-composting-and-organic-matter-management]], transitioning between biotrophic and necrotrophic
 phases during infection. B. cinerea is also extensively studied in the
-context of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], as numerous mycoparasitic fungi target
+context of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], as numerous [[biodiversity-fungicolous-mycoparasitic-fungi]] target
 it as a host.
 
 ## Taxonomy and Classification
@@ -51,14 +51,14 @@ it as a host.
 - Ascospores are hyaline, unicellular, and ellipsoidal
 
 ### Ecology and Habitat
-- Cosmopolitan distribution across all temperate and subtropical
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across all temperate and subtropical
   agricultural regions
 - Thrives in cool, humid conditions with optimal temperatures
   of 18 to 25 degrees Celsius
 - Commonly found on decaying plant debris, stored produce, and
   greenhouse crops
 - Capable of surviving as sclerotia or mycelium on plant
-  residues between growing seasons
+  residues between [[jeavons-climate-adaptation-growing-seasons]]
 - Airborne conidia serve as primary inoculum for new infections
 
 ### Disease and Economic Impact
@@ -80,7 +80,7 @@ it as a host.
   cultures using PDA plates overgrown with the host fungus
 - Clonostachys (Gliocladium) rosea has been isolated as a
   mycoparasite on B. cinerea in soil baiting experiments
-- Trichoderma harzianum has been successfully applied as a
+- [[trichoderma-harzianum]] has been successfully applied as a
   biocontrol agent against B. cinerea on apples (Tronsmo
   and Ystaas 1980)
 - The success of biocontrol applications is often limited by
@@ -88,32 +88,3 @@ it as a host.
 
 ### Life Cycle
 - Sclerotia germinate under cool, moist conditions to produce
-  conidiophores or apothecia
-- Airborne conidia land on susceptible plant surfaces, germinate,
-  and penetrate directly or through wounds
-- Initially biotrophic phase gives way to aggressive necrotrophy
-  as the fungus kills host tissue
-- Sclerotia form on infected tissues and persist in soil or on
-  crop debris
-
-### Research Methods
-- Selective isolation on PDA plates overgrown with host fungi
-- Mulligan and Deacon (1992) developed methods using PDA plates
-  with various host fungi to recover mycoparasites
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS sequencing, with B. cinerea
-  belonging to species clade 2 within the genus
-- Quantitative PCR assays for detection on infected plant material
-
-## Relevance
-Botrytis cinerea is one of the most extensively studied plant-pathogenic
-fungi, serving as a model organism for understanding necrotrophic
-pathogenicity. Its susceptibility to mycoparasitic attack makes it a
-focal point for biological control research. The dual economic impact,
-as both a devastating pathogen and a contributor to valued wine styles,
-underscores the complexity of managing this cosmopolitan species.
-
-## See Also
-
-- [[sclerotinia-sclerotiorum]]
-- [[colletotrichum-gloeosporioides]]
-- [[mendo-breath-entity]]

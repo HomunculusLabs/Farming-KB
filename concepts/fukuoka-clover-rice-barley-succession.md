@@ -13,7 +13,7 @@ The most technically significant aspect of [[natural-farming]] was his developme
 
 ## The Role of White Clover
 
-White clover (*[[soil-food-web]], including earthworms, springtails, and beneficial fungi, all of which contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant health.
+White clover (*[[soil-foodweb]], including earthworms, springtails, and beneficial fungi, all of which contribute to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and plant health.
 
 ## The Annual Cycle in Detail
 

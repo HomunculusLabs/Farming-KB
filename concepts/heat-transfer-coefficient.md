@@ -1,5 +1,5 @@
 ---
-title: "Heat Transfer Coefficient"
+title: Heat Transfer Coefficient
 aliases: [film coefficient, convective heat transfer coefficient, h coefficient]
 tags: [thermal-engineering, heat-transfer, fluid-dynamics, thermodynamics, engineering]
 created: 2026-05-02
@@ -16,11 +16,11 @@ It is usually written as h and has SI units of watts per square meter per kelvin
 In the simplest engineering form, q = h(T_surface - T_fluid), where q is heat flux through the surface.
 For a finite surface area, the rate form is Qdot = h A delta T.
 The coefficient is not a pure material property in the way thermal conductivity is.
-It depends on geometry, flow speed, fluid properties, surface condition, phase change, and the temperature field used to define delta T.
+It depends on geometry, flow speed, fluid properties, surface condition, [[phase-change-materials-thermal-energy-storage]], and the temperature field used to define delta T.
 Engineers use it because the detailed boundary-layer temperature gradient is often unavailable in system calculations.
 A single h value compresses conduction through the stagnant near-wall layer and mixing by the moving fluid into one practical parameter.
 This makes it central in heat exchangers, electronics cooling, boilers, condensers, building envelopes, and thermal safety margins.
-The concept sits between thermodynamics, fluid dynamics, and applied design practice.
+The concept sits between thermodynamics, [[computational-fluid-dynamics]], and applied design practice.
 
 ## Physical Meaning
 
@@ -46,7 +46,7 @@ Correlations usually express Nu as a function of Reynolds, Prandtl, Grashof, or 
 The Reynolds number captures the ratio of inertial to viscous forces in forced flow.
 The Prandtl number compares momentum diffusivity with thermal diffusivity.
 The Grashof and Rayleigh numbers describe buoyancy-driven flow in natural convection.
-These dimensionless groups connect h to reynolds number and flow regimes and boundary layer theory fluid dynamics.
+These dimensionless groups connect h to reynolds number and flow regimes and [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]] theory fluid dynamics.
 
 ## Natural and Forced Convection
 
@@ -88,24 +88,3 @@ Uncertainty in h is often the largest uncertainty in a thermal design calculatio
 Good design practice treats h as a variable to be bounded, measured, or validated.
 
 ## Measurement and Estimation
-
-Experimental h values are commonly inferred from measured heat input, surface area, and temperature difference.
-This sounds simple but is difficult when heat losses, contact resistance, radiation, or nonuniform wall temperature are present.
-Guard heaters, calorimeters, heat-flux sensors, and inverse conduction methods are used to improve estimates.
-Thermocouple placement can bias results because the wall, coating, and fluid may not share a single temperature.
-In electronics cooling, junction-to-case and case-to-ambient thermal resistances may be more useful than a local h.
-In [[navier-stokes-equations-fluid-dynamics]] provides the momentum equations behind convective flow fields.
-boundary layer theory fluid dynamics explains why near-wall gradients dominate heat flux.
-reynolds number and flow regimes helps classify laminar, transitional, and turbulent regimes.
-[[phase-change-materials-thermal-energy-storage]] illustrates systems where apparent coefficients interact with latent heat.
-Future pages that would deepen this cluster include Nusselt number, Prandtl number, fouling resistance, and heat exchanger design.
-
-## References
-
-Research basis: Wikipedia articles on heat transfer coefficient and convection, consulted 2026-05-02.
-Standard engineering context: Incropera-style heat transfer notation for h, Nu, and thermal resistance networks.
-Practical interpretation: common heat exchanger, electronics cooling, building U-value, and phase-change design usage.
-
-## See Also
-
-- [[heat-transfer-mechanisms]]

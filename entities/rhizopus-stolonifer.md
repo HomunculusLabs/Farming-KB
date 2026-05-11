@@ -21,9 +21,9 @@ sources:
   - https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4846
 related_concepts:
   - mushroom-cultivation-pests-and-contamination
-  - mushroom-sterile-technique
-  - spore-syringe-production
-  - strain-isolation-from-wild-specimens
+  - [[mushroom-sterile-technique]]
+  - [[spore-syringe-production]]
+  - [[strain-isolation-from-wild-specimens]]
 date: 2026-05-02
 updated: 2026-05-02
 ---
@@ -52,7 +52,7 @@ Older cultivation manuals may use broad labels such as Mucor, Rhizopus, or black
 The organism grows as hyphae that spread rapidly across exposed substrate.
 It produces aerial stolons that bridge surfaces and allow the colony to occupy new areas quickly.
 Rhizoids anchor the colony to the substrate at nodes.
-Unbranched sporangiophores rise from the mycelium and carry dark sporangia.
+Unbranched sporangiophores rise from the [[mycelium]] and carry dark sporangia.
 These sporangia give mature colonies their black pin or peppered appearance.
 Young colonies may look white, gray, fluffy, and deceptively similar to harmless aerial mycelium.
 As spores mature, the colony becomes darker and easier to recognize.
@@ -87,46 +87,3 @@ The abundant dry spores explain why a contaminated culture can seed an entire wo
 Containers showing mature black sporangia should be handled gently and sealed before removal.
 
 ## Mushroom cultivation relevance
-
-In mushroom work, Rhizopus stolonifer is grouped with black pin molds.
-It can appear on agar plates, hydrated grain, overly wet substrates, and poorly pasteurized materials.
-Growth is typically faster and wispier than the dense, organized mycelium of many [[fungi-cultivated-mushrooms-pathogens-competitors]].
-The mold can climb surfaces and produce upright sporangia that look like tiny dark pins.
-It competes for nutrients and space rather than forming the intended [[sustaining-mushroom-crop-flushing-harvesting]].
-Once sporulation is visible, the culture is usually discarded.
-Opening sporulating plates or jars in a clean area risks spreading spores to future projects.
-
-## Recognition clues
-
-Look for extremely rapid cottony growth.
-Look for tall hair-like sporangiophores with dark spherical tips.
-Watch for colonies that shift from white to gray and then to black as sporangia mature.
-Notice growth emerging from wet, damaged, or exposed nutrient-rich spots.
-Do not rely on smell as an identification method.
-Microscopy can confirm sporangia, rhizoids, stolons, and spore morphology.
-Species-level certainty may require expert keys or sequencing.
-
-## Food and plant pathology relevance
-
-The same organism is a common spoilage mold of bread and produce.
-It can contribute to soft rot of fruits and vegetables, especially where tissue has been wounded.
-It acts mainly as an early colonizer of accessible carbohydrates.
-In household settings it is usually a spoilage issue rather than a deliberately cultivated organism.
-Its ecological role is [[trichoderma]] green mold.
-It belongs to a different fungal lineage and produces sporangia rather than green conidial masses.
-It is also distinct from Penicillium and Aspergillus, which form different spore-bearing structures.
-Cultivation guides may compress several Mucorales molds into one warning category.
-For field notes, the safest label without microscopy is often "Rhizopus-like black pin mold."
-
-## Key takeaways
-
-Rhizopus stolonifer is a fast, cosmopolitan saprotroph.
-Its black sporangia make mature colonies visually distinctive.
-It is connected to bread mold, fruit rot, and [[oyster-mushroom-contamination-management]].
-The organism spreads readily by airborne spores.
-Good [[cultivator-sterile-technique-and-agar-culture]], moisture control, and prompt disposal are the main defenses.
-
-## Related Topics
-- agar
-- [[mycelium]]
-- [[mushroom-cultivation]]

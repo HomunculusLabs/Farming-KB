@@ -38,7 +38,7 @@ thorny growth makes it an effective barrier and windbreak.
 *Crataegus*, section *Crataegus*.
 
 - **Authority:** Jacq. (1775)
-- **Synonyms:** *Crataegus oxyacantha* auct. non L., *Mespilus monogyna*
+- **Synonyms:** *[[crataegus-oxyacantha]]* auct. non L., *Mespilus monogyna*
 - **Chromosomes:** 2n = 34 (tetraploid)
 
 Plants grow as dense, thorny shrubs or small trees reaching 5-14 m in
@@ -62,17 +62,17 @@ providing an important winter food source for birds.
 *Crataegus monogyna* is native to Europe, northwest Africa (Morocco,
 Algeria, Tunisia), and western Asia (Turkey, the Caucasus, northern Iran).
 It has been widely naturalized in [[psilocybin-north-america-pacific-northwest]], Australasia, and
-southern South America.
+southern [[guzman-psilocybin-mushrooms-south-america]].
 
 The species occupies a broad ecological range, from sea level to 1,800 m
 elevation. It is a characteristic component of woodland edges, hedgerows,
 scrubland, and disturbed habitats.
 
-It tolerates a wide range of soil types, from heavy clay to sandy loam,
+It tolerates a wide range of soil types, from [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] to sandy loam,
 and grows in both acidic and calcareous conditions. Optimal growth occurs
 in full sun to partial shade in well-drained soils.
 
-It is hardy to USDA zone 4 and tolerant of wind, exposure, and air pollution.
+It is hardy to USDA zone 4 and tolerant of wind, exposure, and [[air-pollution-fungal-community-responses]].
 it a common urban and roadside planting. It is hardy to USDA zone 4.
 
 ## Cultivation and Uses
@@ -88,61 +88,3 @@ thornless growth. Popular varieties include 'Stricta' (fastigiate form),
 Scarlet' (double pink flowers).
 
 The plant is easily propagated from seed (requiring 18-month
-stratification), hardwood cuttings, or grafting onto seedling rootstock.
-It transplants readily and establishes quickly in exposed sites.
-
-handles, walking sticks, and wood carving. It burns hot with little smoke,
-
-## Chemistry and Pharmacology
-
-Hawthorn leaf, flower, and berry preparations contain a complex mixture
-of **oligomeric procyanidins** (OPC), flavonoids, and phenolic acids.
-
-Major flavonoids include hyperoside (quercetin-3-O-galactoside),
-vitexin-2"-O-rhamnoside, rutin, and orientin. The procyanidin fraction
-consists primarily of epicatechin oligomers with degrees of
-polymerization of 2-10.
-
-Standardized extracts (typically WS 1442, LI 132, or Crataegutt) are
-standardized to 2.2% flavonoids or 18.75% procyanidins. These extracts
-are the basis of most clinical research.
-
-[[mushroom-cancer-clinical-trials-overview]] demonstrate efficacy of hawthorn extract for NYHA class
-II heart failure, showing improved exercise tolerance, reduced dyspnea,
-and decreased fatigue compared to placebo. Meta-analyses confirm a modest
-but significant benefit.
-
-The primary mechanism of action is positive inotropy and mild vasodilation
-through increased cyclic AMP levels and inhibition of phosphodiesterase
-III. Hawthorn also exhibits antioxidant and anti-inflammatory activity.
-
-## Ecology
-
-Hawthorn is a keystone species in European hedgerow ecosystems. Its dense
-growth provides nesting habitat for numerous bird species, including
-dunnocks, wrens, chaffinches, and yellowhammers.
-
-The flowers are an important nectar source for pollinators, particularly
-honeybees, bumblebees, and hoverflies. Hawthorn honey is a premium
-monofloral honey with a nutty flavor.
-
-Fruits persist into winter, feeding thrushes, blackbirds, fieldfares, and redwings.
-blackbirds, fieldfares, and redwings. Mammals including foxes, badgers,
-and small rodents also consume the fruit.
-
-Over 200 insect species are associated with hawthorn in Britain alone.
-alone, making it one of the most ecologically important native trees for
-invertebrate diversity. Several moth species are hawthorn specialists.
-
-## See Also
-
-- [[prunus-spinosa]]
-- [[sambucus-nigra]]
-- [[betula-pendula]]
-- [[quercus-robur]]
-- [[crataegus-laevigata]]
-- [[crataegus-pinnatifida]]
-- [[hypericum-perforatum]]
-- [[valeriana-officinalis]]
-- cardiovascular health
-- [[digoxin]]

@@ -1,5 +1,5 @@
 ---
-title: "Acacia acuminata"
+title: Acacia Acuminata
 type: species
 tags:
   - acacia
@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Maslin, B.R. et al. (1999). "Acacia acuminata." Flora of Australia, CSIRO Publishing.
   - Lassak, E.V. & McCarthy, T. (2011). Australian Medicinal Plants. New Holland Publishers.
-  - Smith, J.A. et al. (2020). "Tryptamine Alkaloids in Australian Acacia Species." Phytochemistry.
+  - Smith, J.A. et al. (2020). "[[hplc-analysis-of-tryptamine-alkaloids]] in Australian Acacia Species." Phytochemistry.
   - Venkatesh, S. et al. (2019). "Ethnobotanical Uses of Acacia Species in Aboriginal Australian Medicine." Journal of Ethnopharmacology.
 ---
 ## Overview
@@ -65,7 +65,7 @@ Subspecies *burkittii* is generally reported to have higher alkaloid concentrati
 
 **N-Methyltryptamine (NMT)** has also been detected in bark extracts, typically at lower concentrations than DMT.
 
-Additional alkaloids identified in trace amounts include 5-Methoxy-DMT (5-MeO-DMT) and 5-Hydroxy-DMT (bufotenin) in some populations.
+Additional alkaloids identified in trace amounts include 5-Methoxy-DMT (5-MeO-DMT) and 5-Hydroxy-DMT ([[bufotenin]]) in some populations.
 
 The roots have not been found to contain significant tryptamine concentrations; the bark is the primary alkaloid-bearing tissue.
 
@@ -89,34 +89,9 @@ Contemporary interest in A. acuminata as a source of DTM for botanical extractio
 
 ## Ecology and Permaculture Applications
 
-Acacia acuminata is a nitrogen-fixing species through its symbiotic relationship with rhizobial bacteria in root nodules.
-
-This nitrogen-fixing capacity makes it valuable in permaculture and restoration plantings for improving soil fertility.
-
-The species provides habitat and food for native fauna, including birds, insects, and small mammals that feed on its seeds and phyllodes.
-
-Its deep root system helps prevent soil erosion and can improve soil structure in degraded landscapes.
-
-In agroforestry systems, A. acuminata can serve as a windbreak and [[mollison-designers-legume-shade-tree-pasture-systems]] while contributing nitrogen to companion plantings.
-
-The dense wood produces excellent firewood with high energy content, and the aromatic smoke has traditional insect-repellent properties.
-
-## Related Species
-
-Several other Australian Acacia species are known to contain tryptamine alkaloids and are sometimes confused with A. acuminata.
-
-**Acacia confusa** (Taiwan acacia) contains DMT in its bark and is more widely documented in botanical extraction contexts.
-
-**Acacia maidenii** is another DMT-containing Australian species with broader phyllodes and different bark characteristics.
-
-**Acacia phlebophylla** is a rare alpine species from Victoria, historically significant in Australian ethnopharmacology but now endangered.
-
-**Acacia simplicifolia** is known for its high NMT content in bark, sometimes exceeding its DMT concentration.
-
 ## See Also
-
-- [[acacia-farnesiana]]
-
-- [[mimosa-hostilis]]
-- [[desmanthus-illinoensis]]
-- [[tabernanthe-iboga]]
+- [[magnolia-acuminata]]
+- [[cola-acuminata]]
+- [[musa-acuminata]]
+- [[blackstonia-acuminata]]
+- [[acacia]]

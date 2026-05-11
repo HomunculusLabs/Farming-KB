@@ -88,22 +88,3 @@ sources: []
 - Several [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] Galerina and Stropharia species share similar habitat and should be carefully distinguished
 
 ## Etymology
-
-The specific epithet "ovoideocystidiata" refers to the distinctive ovate shaped cheilocystidia, which are a key diagnostic feature for this species under [[fungal-microscopic-examination-mounting-media-techniques]].
-
-## Ecology and Seasonality
-
-- Saprotrophic, primarily decomposing hardwood debris in riparian ecosystems
-- Mycelium colonizes submerged and waterlogged wood as well as exposed logs
-- The spring fruiting period distinguishes it from most other Psilocybe species that fruit in autumn
-- Temperature and moisture conditions in spring, particularly the combination of warming soil and high rainfall, trigger fruitbody formation
-- The species appears to be adapted to the specific microclimate of floodplain forests where seasonal flooding deposits fresh woody material
-- Contributes to decomposition processes in eastern deciduous forest ecosystems
-
-## Collection and Study
-
-- First described by Gastón Guzmán in 1979 based on collections from Ohio
-- Has become one of the more frequently collected psychoactive mushrooms in the eastern United States since its formal description
-- Amateur mycologists have significantly expanded the known range through citizen science observations
-- Herbarium specimens exist in several major collections including the New York Botanical Garden and the Field Museum
-- Ongoing DNA barcoding studies may clarify population structure across its range

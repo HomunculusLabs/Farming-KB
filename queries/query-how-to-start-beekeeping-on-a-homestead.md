@@ -1,10 +1,11 @@
 ---
-title: "How to query-how-to-start-beekeeping-in-your-backyard on a Homestead"
+title: Query How To Start Beekeeping On A Homestead
 created: 2026-04-28
-tags: [query, beekeeping, homesteading, pollinators, livestock]
+tags: [query, beekeeping, [[homesteading]], pollinators, livestock]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---
@@ -19,7 +20,7 @@ Starting beekeeping on a homestead begins with understanding local regulations, 
 
 Beekeeping is one of the highest-return homesteading activities because it provides multiple yields from a single input. The [[top-bar-hive|Top-bar hives]] are popular in permaculture circles because they allow bees to build natural comb without foundation, reduce heavy lifting during inspections, and produce comb honey rather than extracted honey. They require less initial investment and fewer specialized tools.
 
-The [[bee-forage-hive-management-mollison|bee forage and hive management guide]] from Mollison emphasizes placing hives within easy flight distance of diverse nectar and pollen sources. The [[beekeeping-seasonal-calendar|beekeeping seasonal calendar]] provides a detailed month-by-month breakdown of tasks for temperate climates.
+The [[bee-forage-hive-management-mollison|bee forage and hive management guide]] from Mollison emphasizes placing hives within easy flight distance of diverse nectar and pollen sources. The [[beekeeping-seasonal-calendar|beekeeping seasonal calendar]] provides a detailed month-by-month breakdown of tasks for [[fukuoka-natural-farming-temperate-climates]].
 
 ## Getting Your First Bees
 
@@ -96,7 +97,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -104,7 +105,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

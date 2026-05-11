@@ -1,5 +1,5 @@
 ---
-title: Double-Digging Bed Preparation
+title: Jeavons [[comparison-double-digging-vs-no-till]] [[azurescens-outdoor-bed-preparation-woodchips]]
 created: 2026-04-26
 author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition
@@ -15,7 +15,7 @@ The goal of bed preparation is to develop soil structure so the plants will have
 
 ## Raised Beds vs. Rows
 
-Traditional planting rows are only a few inches wide with wide spaces in between. Plants have difficulty growing in these rows due to extreme penetration of air and greater fluctuations in temperature and moisture. During irrigation, water floods the rows, immerses the roots, and washes soil away. The beneficial microbiotic life — concentrated in the upper 6 inches of soil — is destroyed.
+Traditional planting rows are only a few inches wide with wide spaces in between. Plants have difficulty growing in these rows due to extreme penetration of air and greater fluctuations in [[mushroom-growing-temperature-and-moisture]]. During irrigation, water floods the rows, immerses the roots, and washes soil away. The beneficial microbiotic life — concentrated in the upper 6 inches of soil — is destroyed.
 
 Raised beds (3 to 6 feet wide, of varying lengths) provide a curved surface area with more surface area for penetration and interaction of natural elements. When raised beds are prepared in friable soil, the edges are included in the mini-climate effect created by closely spaced plants.
 
@@ -87,42 +87,3 @@ The fundamental goal of all bed preparation is to develop soil structure so plan
 In a well-prepared bed, the soil should be friable — crumbly and loose rather than hard or compacted. When you squeeze a handful of moist soil and release it, it should hold its shape briefly, then break apart gently. This texture allows roots to penetrate easily, water to infiltrate and be retained, air to circulate, and microbial populations to thrive.
 
 ## Soil as a Living System
-
-Double-digging is not merely a mechanical process — it is an intervention into a living system. The upper 6 inches of soil contains the highest concentration of beneficial microbiotic life: bacteria, fungi, actinomycetes, protozoa, and earthworms. This biological community is responsible for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and the creation of soil structure through the production of "soil glue" (polysaccharides and other [[fungal-volatile-organic-compounds-communication]]).
-
-The key principle of double-digging is to preserve this biological layer. The top 12 inches of soil is never turned over. Instead, it is shifted forward from one trench to the next, maintaining the natural layering that has developed over time. The subsoil below is loosened but not inverted, allowing roots, air, and water to penetrate deeper while bringing the subsoil into contact with the microbiotically active upper layers.
-
-## The Complete Texturizing Double-Dig
-
-This variant was developed to improve soil quality more rapidly, particularly in degraded or compacted soils. It is used one time only, usually in place of the initial double-dig. The process differs from the standard initial double-dig in that the subsoil is further loosened and aerated — the spading fork is used more aggressively to break up compacted layers, and more compost may be incorporated into the subsoil region.
-
-The goal is to accelerate the development of soil structure in poor soils by thoroughly texturizing both the topsoil and subsoil zones. This is more labor-intensive but can dramatically improve drainage, root penetration, and microbial activity in a single session.
-
-## Surface Cultivation: Maintaining Established Beds
-
-Once a bed has been double-dug and is producing well, it may be maintained for several years with surface cultivation rather than full double-digging. Surface cultivation involves loosening only the top 2 inches of soil with a spading fork, then adding compost and fertilizers as needed. This approach preserves the soil structure that has developed over time and is far less labor-intensive.
-
-The decision between ongoing double-digging and surface cultivation depends on soil conditions. If the soil remains loose and friable, surface cultivation is sufficient. If compaction becomes evident — water pools on the surface, roots have difficulty penetrating, or plant growth is reduced — a full double-dig may be needed to restore the soil structure.
-
-For autumn crops, Ecology Action's practice is often to only single-dig (loosening the top 12 inches only) and to add no compost or fertilizers, allowing the soil to rest and the microbial life to process the organic matter already present.
-
-## Common Mistakes and Troubleshooting
-
-- **Walking on the bed**: Always use a digging board to distribute weight. A 150-pound person standing directly on a bed compacts the soil to a depth of 4 inches or more, undoing the work of double-digging.
-- **Turning the soil over**: Inverting the topsoil layer buries the microbiotic life and disrupts the soil food web. Slide soil forward instead.
-- **Digging when too wet or too dry**: Test soil moisture by squeezing a handful. If it crumbles immediately, it is too dry. If it sticks together in a sticky ball, it is too wet. If it holds its shape briefly then breaks apart, it is ready.
-- **Working too fast**: The Aikido-like economy of motion comes with practice. Beginners should focus on correct technique rather than speed. Rushing leads to poor soil structure and exhaustion.
-- **Neglecting the compost layer**: The 1-inch layer of compost on the surface is not optional. It provides the food for [[soil-life]] and the beginning of the carbon cycle within the bed.
-
-## Relationship to Sustainable Fertility
-
-Double-digging creates the physical conditions for sustainable soil fertility, but it is only one part of the system. The loosened soil must be fed with cured compost, protected by close plant spacing (living mulch), and maintained through proper crop rotation. Without these complementary practices, even a perfectly prepared bed will gradually lose its structure and fertility.
-
-The GROW BIOINTENSIVE method can build soil up to 60 times faster than in nature, but this building process depends on deep soil preparation combined with consistent compost application. The double-dug bed provides the "apartment building" in which soil life can thrive; the compost provides their food.
-
-## See Also
-
-- [[jeavons-flat-preparation-seedling-raising]] — Seedling production for transplanting
-- [[jeavons-soil-fertility]] — [[green-cannabis-grow-bible-nutrient-management-ppm]] and sustainability
-- [[jeavons-master-planning-mini-farms]] — Whole system design
-- [[hugelkultur-bed-construction-detailed]] — Alternative raised bed approaches

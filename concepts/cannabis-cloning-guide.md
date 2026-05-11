@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cloning is the process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds. (see [[cannabis-clone-rooting-and-transplanting]]).
+Cloning is the process of taking a cutting from a mature cannabis plant and encouraging it to grow its own root system, creating a genetically identical copy. Cloning preserves desirable traits from mother plants and eliminates the genetic variability of seeds.
 
 ## Why Clone
 
@@ -23,12 +23,12 @@ Cloning is the process of taking a cutting from a mature cannabis plant and enco
 
 The mother plant is the source of all clones. Choose mothers based on:
 
-- **Health and vigor**: No pests, diseases, or nutrient deficiencies
+- **Health and vigor**: No pests, diseases, or [[hamilton-nutrient-deficiencies-and-treatment]]
 - **Growth structure**: Branching pattern suitable for your space
 - **Yield and quality**: Proven bud production and potency
 - **Rooting ability**: Some strains clone more easily than others
 
-Mother plants are typically kept in perpetual vegetative state (18/6 light) and maintained at a manageable size through regular pruning. A dedicated mother tent or area is ideal. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+Mother plants are typically kept in perpetual vegetative state (18/6 light) and maintained at a manageable size through regular pruning. A dedicated mother tent or area is ideal.
 
 ## Taking Cuttings
 
@@ -59,7 +59,7 @@ Mother plants are typically kept in perpetual vegetative state (18/6 light) and 
 
 ### Cloning from [[cannabis-vegetative-stage]] Plants
 
-The best time to take cuttings is during the vegetative stage when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
+The best time to take cuttings is during the [[cannabis-vegetative-stage-management]] when the mother is actively growing. Avoid taking cuttings from flowering plants unless reverting, as this adds stress and time. Some growers take cuttings 2-3 weeks before the flip to ensure clones root while the mother transitions.
 
 ## Rooting Mediums
 
@@ -81,7 +81,7 @@ The best time to take cuttings is during the vegetative stage when the mother is
 
 - Root in 5-10 days (faster than medium-based methods)
 - Cuttings are suspended in a chamber with misting nozzles
-- Higher success rate with proper maintenance
+- Higher [[maitake-fruiting-body-success-rate-management]] with proper maintenance
 - Require regular cleaning to prevent pathogen buildup
 - Popular models: TurboKlone, Clone King, EZ-Clone
 
@@ -135,7 +135,7 @@ Once roots are 1-2 inches long and visible outside the cube:
 
 1. Harden off by removing the dome for increasing periods over 2-3 days
 2. Transplant into final container or veg system
-3. Begin with light nutrient solution (EC 0.6-0.8)
+3. Begin with light [[cannabis-nutrient-solution-preparation]] (EC 0.6-0.8)
 4. Gradually increase light intensity over 3-5 days
 5. Feed per [[cannabis-nutrient-recipes]] vegetative schedule
 
@@ -147,4 +147,3 @@ Once roots are 1-2 inches long and visible outside the cube:
 - **No roots after 14 days**: Check temperature, hormone freshness, and cutting quality. Some strains are notoriously difficult to clone.
 
 ## Related
-

@@ -70,11 +70,11 @@ Seeds are viable but rarely used in horticulture due to slow germination and hig
 
 Plants are spaced 0.6–1.2 m apart in landscape settings. A balanced slow-release fertilizer applied quarterly supports vigorous growth and prolific flowering.
 
-In areas with seasonal dry periods, regular irrigation is essential. Mulching around the base helps retain soil moisture and suppress weeds.
+In areas with seasonal dry periods, regular irrigation is essential. Mulching around the base helps retain soil moisture and [[query-how-do-cover-crops-suppress-weeds]].
 
 The species is relatively pest-resistant but can be affected by ginger rust (*Puccinia psidii*) and mealybugs. Rhizome rot, caused by *Pythium* species, occurs in poorly drained soils.
 
-Flowering occurs year-round in tropical climates, with peak production during warm, wet months. Cut stems are harvested when the lower bracts begin to open, typically 6–12 months after planting.
+Flowering occurs year-round in [[fukuoka-natural-farming-tropical-climates]], with peak production during warm, wet months. Cut stems are harvested when the lower bracts begin to open, typically 6–12 months after planting.
 
 ## Ethnobotanical Uses
 
@@ -82,31 +82,8 @@ In its native range, *Alpinia purpurata* has limited traditional use compared to
 
 In Samoa and Fiji, the leaves are used to wrap food for cooking and to thatch temporary structures. The bracts are sometimes used in floral arrangements for ceremonial purposes.
 
-In Hawaiian culture, red ginger is extensively used in the florist trade and is one of the most recognizable tropical cut flowers. It features prominently in lei-making and landscape design.
+In Hawaiian culture, red ginger is extensively used in the florist trade and is one of the most recognizable tropical cut flowers. It features prominently in lei-making and [[holzer-permaculture-landscape-design]].
 
 Commercial cultivation for the cut-flower industry is significant in Hawaii, Costa Rica, and parts of Southeast Asia. The long vase life of the bract spikes (2–4 weeks) makes them economically valuable for export.
 
 The global trade in red ginger cut flowers generates millions of stems annually. Hawaii alone produced an estimated 500,000 stems per year before industry consolidation in the 2010s.
-
-The species is sometimes used in traditional Polynesian medicine as a treatment for headaches and minor wounds. Crushed leaves are applied as a poultice, though scientific validation of these uses is lacking.
-
-Modern research has identified several [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in the rhizomes, including diarylheptanoids and flavonoids with moderate antioxidant activity. However, these studies remain preliminary and *A. purpurata* is not used commercially as a medicinal plant.
-
-## Related Species
-
-*Alpinia purpurata* belongs to a large genus of approximately 250 species. Several relatives are commercially or medicinally important.
-
-- **[[alpinia-officinarum]]** — lesser galangal, a traditional Chinese medicine
-- **[[hedychium-coronarium]]** — white ginger lily, closely related ornamental Zingiberaceae
-- **[[curcuma-longa]]** — turmeric, the widely cultivated rhizome spice
-- **[[zingiber-officinale]]** — common ginger, the most economically important Zingiberaceae species
-
-## See Also
-
-- [[alpinia-galanga]]
-- [[alpinia-zerumbet]]
-- [[elettaria-cardamomum]]
-- [[kaempferia-galanga]]
-- [[zingiber-zerumbet]]
-- [[zingiber-mioga]]
-- ethnobotany

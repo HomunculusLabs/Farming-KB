@@ -62,7 +62,7 @@ The rhizomes of B. rotunda contain a diverse array of [[antifungal-secondary-met
 
 **Volatile oils (0.5–1.2% of fresh rhizome):**
 
-- Camphor, borneol, 1,8-cineole, and various sesquiterpenes contribute to the characteristic spicy-camphoraceous aroma.
+- [[camphor]], [[borneol]], 1,8-cineole, and various sesquiterpenes contribute to the characteristic spicy-camphoraceous aroma.
 
 **Other constituents:** Starch (~60% of dry rhizome), dietary fiber, and minerals (calcium, iron, potassium).
 
@@ -74,7 +74,7 @@ Research on B. rotunda extracts has identified several pharmacologically signifi
 
 **Anti-cancer:** Panduratin A and pinostrobin demonstrate cytotoxicity against multiple [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines including MCF-7 (breast), HT-29 (colon), and A549 (lung). Mechanisms include apoptosis induction via caspase activation and cell cycle arrest at G2/M phase.
 
-**Anti-viral:** Panduratin A inhibits HIV-1 protease and replication. Extracts also show activity against dengue virus and herpes simplex virus in vitro.
+**Anti-viral:** Panduratin A inhibits HIV-1 protease and replication. Extracts also show activity against dengue virus and [[cannabis-antiviral-herpes-simplex-blesching]] virus in vitro.
 
 **Androgenic effects:** Thai black ginger extract has been marketed as a male vitality supplement. Animal studies demonstrate increased testosterone levels, improved sperm quality, and enhanced sexual performance in rats. These effects are attributed to pinostrobin's aromatase-inhibitory properties.
 
@@ -87,30 +87,3 @@ B. rotunda is an essential ingredient in **Thai**, **Indonesian**, and **Malaysi
 In **Indonesian** cooking, the rhizome (*temu kunci*) is a component of *bumbu* (spice paste) bases for various traditional dishes. In **Chinese** cuisine, it is known as *caoxue* and used in regional dishes of southern China.
 
 Traditional medicinal applications across Southeast Asia include:
-
-- Treatment of digestive complaints (bloating, flatulence, dyspepsia)
-- Wound healing and topical anti-inflammatory applications
-- Relief of coughs, colds, and sore throat
-- Postpartum recovery and uterine tonic (in Malay traditional medicine)
-- Aphrodisiac and male vitality enhancement
-
-## Cultivation
-
-B. rotunda is cultivated primarily by smallholder farmers in Thailand, Indonesia, and Vietnam. Propagation is typically vegetative, using rhizome pieces with 2–3 viable buds.
-
-Key cultivation parameters:
-
-- **Planting:** Rhizome pieces are planted 5–8 cm deep at 20–30 cm spacing, in [[comparison-raised-beds-vs-hugelkultur]] under partial shade (40–60% light exclusion).
-- **Growth cycle:** 8–12 months from planting to harvest. Rhizomes reach marketable size 6–9 months after emergence.
-- **Yield:** 8–15 tonnes fresh rhizome per hectare under good management.
-- **Pests:** Relatively pest-tolerant. Rhizome rot (Pythium spp.) can occur in waterlogged conditions. Shoot borer (Hedylepta spp.) is an occasional pest.
-- **Harvest:** Rhizomes are dug by hand, washed, and either used fresh or sliced and dried for storage.
-
-## See Also
-
-- [[kaempferia-galanga]]
-- [[curcuma-longa]]
-- [[ursolic-acid]]
-- [[ephedra-sinica]]
-- [[piper-nigrum-entity]]
-- [[glycyrrhiza-glabra]]

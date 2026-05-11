@@ -88,29 +88,3 @@ to the most productive uses.
 
 ### 6. Energy/Wealth Source and Use
 This guideline examines whether the energy and wealth flowing into and out
-of an operation are sustainable. It questions dependence on nonrenewable
-energy sources and evaluates whether financial wealth is being built or
-consumed. Does a proposed tool require chemicals that damage the whole
-ecosystem? Will profit depend on continued external subsidies?
-
-### 7. Society and Culture
-Every tool must be socially and culturally acceptable to the people
-involved. This test acknowledges that management operates within human
-communities with beliefs, customs, and social structures that can support
-or undermine any plan. In some cultures, for example, not using [[savory-energy-flow-and-solar-capture]].
-
-**[[savory-fencing-economics-and-stock-density-curve]] and Herd Effect**: These interrelate with [[savory-fire-as-management-tool]],
-requiring extreme caution because fire exposes soil surfaces key to all
-four ecosystem processes.
-
-**[[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]], and the roles
-that herding animals and their predators play in brittle environments. These
-latter principles are considered most critical to halting and reversing
-desertification.
-
-## Flexibility and Humility
-
-The testing process is thorough but far from foolproof. To cater for human
-fallibility, the whims of nature, and the complexity of holism, constant
-[[mycoremediation]]
-- [[savory-holistic-resource-management-brittle-vs-nonbrittle-environments]]

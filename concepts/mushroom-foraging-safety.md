@@ -13,8 +13,8 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 
 ## The Golden Rules
 
-1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out. (see [[agaricus-species-guide]]).
-2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers. (see [[mushroom-identification]]).
+1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
+2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
 3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
@@ -72,3 +72,13 @@ A proper identification considers ALL of these features:
 - [[gourmet-mushroom-species-guide]]
 - [[fungal-ecology-forest-floor]]
 - [[psilocybin-mushroom-cultivation-basics]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

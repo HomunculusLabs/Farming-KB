@@ -1,5 +1,5 @@
 ---
-title: growing gourmet cloning wild vs cultivated mushrooms vs. fungi-cultivated-mushrooms-pathogens-competitors
+title: Growing Gourmet Cloning Wild Vs Cultivated Mushrooms
 created: 2026-04-26
 tags:
   - mycology
@@ -19,7 +19,7 @@ type: concept
 Cloning is the process of excising living tissue from a
 mushroom and transferring it to a sterile nutrient medium
 to capture its exact genetic characteristics. While the
-agar medium
+[[agar-medium-preparation]]
   - Split the mushroom cap in half
   - Cut a small section of flesh about the size of a grain kernel
   - Quickly transfer the excised tissue to the petri dish
@@ -67,7 +67,7 @@ linear chain of cells.
 Every sexually reproducing organism can generate only a
 limited number of cell divisions before vitality falters.
 Sectoring, slow growth, anemic [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]],
-malformation, or no mushroom formation at all, are all
+malformation, or no [[bloomfield-mushroom-formation-hyphal-construction-no-meristems]] at all, are all
 classic symptoms of senescence.
 
 ## The Advantages of Cloning Wild Specimens
@@ -79,38 +79,11 @@ over repeatedly cloning cultivated crops:
     natural populations
   - Each wild clone is a new strain with minimal accumulated
     cell divisions from its point of origin
-  - Wild cloning captures the genetic diversity still present
+  - Wild cloning captures the [[biodiversity-fungal-genetic-diversity]] still present
     in natural ecosystems
   - Wild specimens may possess traits absent from commercial
     strains, such as disease resistance or unique flavor
   - The genetic "clock" of senescence is reset with each
-    new wild isolation
+    new [[comparison-tissue-culture-vs-wild-isolation]]
 
 ## The Importance of Returning to Stock Cultures
-
-The critical discipline for any serious cultivator is to
-always return to young [[mushroom-cultivation]] enterprise. Strains can be preserved
-for decades under normal refrigeration, perhaps centuries
-under liquid nitrogen, all the while kept within a few
-thousand cell divisions from the original culture.
-
-## Preserving Biodiversity Through Wild Cloning
-
-Since we still live in an era of relatively rich fungal
-diversity, the time is now to preserve as many cell lines
-from the wild as possible. As biodiversity declines, the
-[[cannabis-gene-pool-preservation-acclimatization-clarke]] contracts. The future health of the planet may
-well depend upon the strains cultivators preserve this
-century.
-
-A mushroom hunter may find a species only once in a
-lifetime. Under these circumstances, cloning that wild
-specimen and preserving it in a culture library may be the
-only way to ensure that genetic lineage survives for future
-cultivation and study.
-## See Also
-- [[growing-gourmet-sclerotia-formation-biology-mushrooms]]
-- [[growing-gourmet-parasitic-mushrooms-forest-blights]]
-- [[growing-gourmet-mushrooms-civilization-history]]
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-polypore-mushrooms-cultivation-overview]]

@@ -88,27 +88,3 @@ Survey data from the EMCDDA revealed consumption patterns:
   festivals)
 - The UK [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]] found 5.2% of clubbers used mushrooms
   in the past month
-- Mushrooms were perceived as "natural" and therefore safer than
-  synthetic drugs by many users
-- Users frequently combined mushrooms with cannabis to modulate
-  effects or extend the experience
-
-## Impact on Public Health
-
-The EMCDDA assessed the public health burden of mushroom retail:
-
-- Hospital presentations related to mushroom use were relatively
-  rare compared to other substances
-- Acute toxicity was low; most emergency presentations involved
-  psychological distress rather than physical harm
-- The retail environment provided some harm reduction benefits
-  (dosage information, product consistency) compared to foraged
-  or home-grown material
-- Tourist use in unfamiliar settings increased risk of adverse
-  psychological reactions
-
-## See Also
-
-- hallucinogenic [[hallucinogenic-mushroom-prevalence-europe]] patterns europe - Use patterns
-- hallucinogenic mushroom market analysis - Market overview
-- [[hallucinogenic-mushroom-mental-health-risks]] - Risk profile

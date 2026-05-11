@@ -1,9 +1,10 @@
 ---
-title: Cannabis cannabis-pollen-collection-storage-clarke
+title: Cannabis Pollen Collection
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Cervantes - Marijuana Horticulture"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
 type: concept
 tags: [cannabis]
 ---
@@ -86,44 +87,3 @@ transfer it to a collection container using a sterile scraper.
 Pollen does not have a long [[psilocybin-shelf-life-stability]] under natural conditions. It is
 easily destroyed by high temperatures and moisture. However, with
 proper handling, pollen can remain viable for extended periods:
-
-- **Short-term:** Keep in the collection bag in a cool, dry location.
-- **Long-term:** Store cleaned pollen in a small coin envelope or
-  sterile test tube in the freezer. Temperatures below freezing
-  preserve viability for several months.
-- **Critical rules:** Do not repeatedly freeze and thaw pollen. Ensure
-  absolute cleanliness during collection and storage. Keep containers
-  airtight and free of moisture.
-
-## Applying Collected Pollen
-
-Two primary methods are used to apply collected pollen to female
-plants:
-
-- **Bag pollination:** Cover the female branch with the pollen-filled
-  bag, shake briefly, and leave for two days and nights to ensure
-  thorough pollination.
-- **Paintbrush pollination:** Dip a small artist's brush into the
-  pollen container and gently brush onto receptive pistils. This
-  technique is ideal when only a few seeds are needed.
-
-After pollination, spray female plants thoroughly with water to destroy
-any remaining viable pollen before moving them back to the main grow
-area.
-
-## Contamination Prevention
-
-Airborne pollen is a significant concern in any grow operation. Male
-plants used for breeding should be kept as far from females as
-possible. Cover male plants with plastic bags before removing them from
-the garden. Spray male plants with water to deactivate stray pollen.
-Filters, water barriers, and separate pollination chambers all help
-contain pollen and prevent unwanted seed production in sinsemilla
-crops.
-
-## See Also
-
-- [[cannabis-male-plant-management]]
-- [[cannabis-male-plant-identification]]
-- [[cannabis-seed-germination-viability-breeding-clarke]]
-- [[cannabis-seed-storage-and-viability]]

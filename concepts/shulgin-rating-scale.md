@@ -88,11 +88,3 @@ Shulgin illustrated this with TMA-5: "The statement that it is psychedelic has a
 A particularly colorful example involved the isopropyl isomer DOIP. An "olive-faced M.D., Ph.D." published animal behavioral responses that he attributed to DOIP. However, "what he had studied could only have been DOPR since DOIP, at that time, had not yet been synthesized either by me, or by either of the other two active synthesists of that moment." The researcher had apparently tested the wrong compound. Shulgin applied a French phrase: "Il a foutu le camp."
 
 ### Therapeutic Index Calculations
-
-For DOB, Shulgin calculated a mouse LD50/effective dose ratio of "well over a thousand" and then reflected: "I feel that two mice were killed without anything of value having been received in return." He further noted that the actual human safety margin "is likely a lot lower than this ratio would imply," since a death had been reported from what turned out to be DOB misidentified as MDA.
-
-## The Dose-Response Curve and Its Limits
-
-Shulgin acknowledged the dose-response curve as a fundamental pharmacological tool: "This curve gives confidence that the drug is indeed responsible for the activity that is seen, as well as giving a quantitative measure of that activity." But he questioned whether the behavioral endpoints used in animal studies (e.g., "bizarre nest-building behavior in mice") had any meaningful relationship to human psychedelic experience.
-
-## The Catecholamine Reasoning Fallacy

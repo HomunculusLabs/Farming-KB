@@ -1,10 +1,10 @@
 ---
-title: mckenna-translinguistic-objects-cognitive-dissonance-tryptamine and Glossolalia in Tryptamine Experience
+title: Translinguistic Objects Glossolalia Tryptamine
 source: mckenna_t-tryptamines_consciousness.md
 topic: tryptamine_cognition
 related:
-  - dmt-phenomenology-and-tryptamine-hypercontinuum.md
-  - mckenna-baconian-exploration-tryptamine-research-methodology.md
+  - [[dmt-phenomenology-and-tryptamine-hypercontinuum]].md
+  - [[mckenna-baconian-exploration-tryptamine-research-methodology]].md
 created: 2026-05-09
 ---
 
@@ -13,7 +13,7 @@ created: 2026-05-09
 ## Overview
 
 One of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the tryptamine experience,
-as described by Terence McKenna, is the encounter with what he calls
+as described by [[terence-mckenna]], is the encounter with what he calls
 "translinguistic objects"—phenomena that carry meaning and convey
 information but cannot be adequately captured by any human language.
 These objects exist at the boundary between perception and cognition,
@@ -71,7 +71,7 @@ what they have said, tryptamine-induced glossolalia is fully conscious
 and intentional. McKenna calls it "the assembly language that lies
 behind language."
 
-This concept draws on multiple traditions. Robert Graves, in *The
+This concept draws on multiple traditions. [[robert-graves-british-mushroom-connection]], in *The
 [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]*, described a primal poetic language underlying all
 human tongues. The Kabbalistic *Zohar* describes a primal *Ursprache*
 (original language) preceding the confusion of Babel. McKenna suggests
@@ -88,55 +88,3 @@ that ordinarily remains inaccessible.
 ## The Logos as Linguistic Foundation
 
 McKenna places translinguistic objects within the concept of the
-Logos. Drawing on [[mckenna-philo-judaeus-logos-hearing-to-beholding]]'s description of the Logos passing
-"without any quantized moment of distinction—from things heard to
-things beheld," McKenna suggests the tryptamine state dissolves the
-boundary between auditory and visual cognition. Language is not merely
-heard or read but beheld as spatial form—the translinguistic object
-being the visible form of communication simultaneously auditory,
-visual, and cognitive.
-
-McKenna speculates that "a human language is possible in which the
-intent of meaning is actually beheld in three-dimensional space," and
-that with sufficient cultural engagement, this capacity could become
-"a cultural convenience in the same way that mathematics or language
-has become."
-
-## Implications for Cognitive Science
-
-The translinguistic object challenges contemporary cognitive science,
-which models cognition as computational processing of symbolic
-representations. If McKenna's description is accurate, there exists
-a mode of cognition conveying meaning without symbols—a direct,
-non-representational transfer of information through felt qualities
-rather than decoded signs.
-
-This would be consistent with theories of embodied cognition, which
-hold that meaning arises from sensorimotor engagement rather than
-manipulation of abstract symbols. The translinguistic object, as a
-"feeling-toned, meaning-toned" phenomenon communicating through its
-form, would represent an extreme case where the distinction between
-sign and signified collapses entirely.
-
-## The Primal Language Hypothesis
-
-Across cultures, the idea of a primal language preceding human speech
-recurs in myth and mystical tradition. The Vedic concept of *Vac*
-(Speech as cosmic principle), the Kabbalistic *En Sof* expressed
-through Hebrew letters, the Hermetic *Logos*—all understand language
-not as human invention but as a fundamental feature of reality that
-human language imperfectly reflects.
-
-McKenna's translinguistic objects, taken as experiential reports,
-would represent direct encounters with this primal linguistic
-dimension. The tryptamine state would function as a technology for
-accessing a layer of cognition ordinarily hidden by the particularity
-of human language—a layer at which meaning exists as form, and
-communication occurs through direct presentation of structured
-information rather than encoding into arbitrary symbols.
-
-## See Also
-
-- [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]]
-- [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]]
-- [[mckenna-glossolalia-and-primal-language-tryptamine-states]]

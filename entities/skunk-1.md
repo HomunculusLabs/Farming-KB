@@ -14,7 +14,7 @@ sources: ["domain-knowledge"]
 - **Breeder:** David Watson, widely known as "Sam the Skunkman"
 - **Origin:** 1970s, Northern California, United States
 - **Status:** Heirloom / foundational breeding stock
-- **Legacy:** Arguably the single most influential cannabis genetic in modern breeding history
+- **Legacy:** Arguably the single most influential [[cannabis-genetic-stability]] [[haze-lineage-and-legacy-in-modern-breeding]] history
 - **Genetic composition:** Three-way landrace cross — Afghani × Acapulco Gold × Colombian Gold
 - **Significance:** First purpose-bred stabilized hybrid; set the template for virtually all
   commercial cannabis varieties developed since the 1980s
@@ -23,9 +23,9 @@ sources: ["domain-knowledge"]
 
 ## Lineage & Genetics
 - **Afghani** (indica landrace, Afghanistan)
-  - Contributed bud density, heavy resin production, and compact flowering structure
+  - Contributed bud density, heavy [[cannabis-glandular-trichome-types-resin-production-clarke]], and compact flowering structure
   - Provides the indica-dominant physical foundation of the cross
-- **Acapulco Gold** (sativa landrace, Mexico)
+- **Acapulco Gold** ([[cannabis-sativa-landrace-strains]], Mexico)
   - Contributed cerebral energy, sweet floral aroma, and golden coloration
   - Known for its potent, uplifting sativa effects
 - **Colombian Gold** (sativa landrace, Colombia)
@@ -71,11 +71,11 @@ sources: ["domain-knowledge"]
 - **Physical effects:** Gentle, soothing body relaxation without heavy sedation or couchlock
 - **Balance:** True hybrid effect — mental clarity and stimulation paired with physical ease
 - **Duration:** Moderate, approximately 2–3 hours depending on dosage and tolerance
-- **Medical applications:**
+- **[[oner-sativa-medical-applications]]:**
   - Stress relief and anxiety reduction (at low to moderate doses)
   - Mild depression management
   - Mild-to-moderate pain and inflammation
-  - Appetite stimulation
+  - [[cannabis-for-cachexia-and-appetite-stimulation]]
   - Mood elevation and fatigue management
 - **Common side effects:** Dry mouth, dry eyes; higher doses may cause paranoia or
   anxiety in sensitive individuals
@@ -88,62 +88,3 @@ sources: ["domain-knowledge"]
   across multiple continents over five decades
 - **Linguistic impact:** The name "Skunk" became a generic term for any potent cannabis
   throughout the UK, Europe, Australia, and beyond
-- **Sensi Seeds flagship:** Skunk #1 became the cornerstone of Sensi Seeds' entire catalog
-- **Gold standard:** Sensi Seeds' Skunk #1 is widely considered the benchmark against which
-  all other hybrid strains are measured by breeders and growers
-- **Commercial foundation:** Served as the base genetic for an enormous portion of modern
-  commercial [[oner-cannabis-breeding-fundamentals]] programs globally
-- **Cultural icon:** Represents the pivotal transition from landrace-only cultivation to the
-  modern era of hybrid breeding and commercial seed production
-
-## Cultivation Notes
-- **Difficulty:** Beginner-friendly — consistently rated as one of the easiest strains
-  to cultivate successfully
-- **Flowering time:** 7–8 weeks (56 days typical; some phenotypes finish by day 49)
-- **Indoor yield:** 500–600 g/m² under optimal conditions
-- **Outdoor yield:** High; harvest late September to early October (Northern Hemisphere)
-- **Height:** Medium-tall; manageable indoors with basic [[cannabis-training-techniques-comparison]]
-- **Resilience:** Highly pest-resistant and disease-resistant; very forgiving of common
-  grower errors such as overfeeding or temperature fluctuations
-- **Climate adaptability:** Performs well in temperate, Mediterranean, continental, and
-  warm tropical climates
-- **Training response:** Responds excellently to SOG, ScrOG, LST, supercropping, and
-  mainlining; adapts well to most [[synthetic-log-cultivation-methods-guide]]
-- **Nutrient needs:** Moderate feeder; standard nutrient schedules work well
-- **Clone performance:** Clones root easily and maintain mother characteristics
-- **Odor control:** Extremely pungent during flowering; carbon filtration is strongly
-  recommended for any indoor or stealth grow operation
-
-## Physical Characteristics
-- **Growth structure:** Classic Christmas tree shape, medium-tall with strong lateral
-  branching and sturdy main stem
-- **Colas:** Large, dense, and elongated with excellent calyx-to-leaf ratio for easy trimming
-- **Bud coloration:** Bright to lime green; some phenotypes display golden or yellowish
-  undertones, especially in late flowering
-- **Pistils:** Abundant orange to reddish-brown hairs that darken as harvest approaches
-- **Trichome coverage:** Thick, sticky resin coating; generous glandular trichome
-  production visible to the naked eye
-- **Leaf morphology:** Broad-fingered indica-style leaves during vegetative growth;
-  some sativa influence visible in leaf spacing
-- **Branch strength:** Sturdy branches support heavy colas without trellising in most setups
-- **Bag appeal:** Classic, instantly recognizable appearance — the archetypal "weed" look
-  that defined a generation of cannabis consumers
-
-## Descendant Strains
-- **Critical Mass:** Skunk #1 × Afghani — massive yields, popular medical strain
-- **Super Skunk:** Skunk #1 × Afghani — amplified potency, resin, and skunky aroma
-- **Skunk #11:** Enhanced Skunk #1 with improved uniformity, yield, and stability
-- **Cheese lineage:** UK Skunk phenotype selected for intense cheese aroma; direct ancestor
-  of Exodus Cheese, Blue Cheese, and dozens of cheese-named varieties
-- **Shiva Skunk:** Skunk #1 × Northern Lights #5 — indica-dominant powerhouse with
-  exceptional resin production
-- **Sensi Seeds catalog:** Skunk genetics underpin a large portion of Sensi Seeds' offerings,
-  including many unnamed hybrids
-- **Broad influence:** Most modern hybrid strains carry at least trace Skunk #1 lineage,
-  making it arguably the most genetically pervasive strain in existence
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[hindu-kush]]
-
-See also: [[triangle-kush]]

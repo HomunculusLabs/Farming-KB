@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [holzer, soil]
 ---
@@ -86,17 +87,3 @@ When rapidly growing plants (broad-leaved dock, stinging nettles, orache) indica
 Accumulated biomass is always put to use right where found -- never burned. It can construct shelters, paddocks, [[comparison-chinampas-vs-raised-bed-gardening]] foundations, or simply serve as mulch.
 
 ### Raised Beds with Biomass
-
-[[holzer-livestock-integration-pigs-cattle]]
-
-Paddock-moved livestock fertilise, till, and harvest simultaneously, while their varied diet prevents disease and maintains soil health.
-
-## Observation as Key Tool
-
-Holzer regularly checks soil condition throughout autumn and winter: "If I can dig up earth that has not frozen yet from beneath the snow, it is a sure sign of a job well done." Close observation allows early intervention before problems escalate.
-
-## See Also
-
-- [[building-soil-fertility-long-term]]
-- [[holzer-raised-bed-techniques-hugelkultur]]
-- [[sepp-holzer-method]]

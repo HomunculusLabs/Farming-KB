@@ -6,6 +6,7 @@ green-manure]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,28 +88,3 @@ further by allowing vegetables to grow in a semi-wild state. Rather than
 planting in neat, weeded rows, he scattered vegetable seeds among the existing
 ground cover and allowed them to establish naturally. Most vegetable seeds
 failed, but those that survived produced vigorous, healthy plants without any
-human intervention. He found that vegetables grown this way were often more
-disease-resistant and flavorful than conventionally cultivated specimens.
-
-This method works best with hardy, quick-growing vegetables that can compete
-with existing ground cover. Daikon radish, mustard greens, and various Asian
-greens were particularly successful in Fukuoka's system. The key insight is
-that nature selects for the most adapted individuals, while human cultivation
-often coddles plants that would not survive without constant intervention.
-
-## Comparison with No-Till Agriculture
-
-Fukuoka's no-weeding approach shares philosophical ground with modern no-till
-and conservation agriculture movements, though it predates them by decades. No-
-[[direct-seeded-no-tillage-rice-barley-succession]] eliminates plowing to preserve soil structure, reduce erosion, and
-maintain soil carbon. However, most no-till systems still rely on herbicides to
-manage weeds, which Fukuoka would reject as another form of chemical
-intervention. His method achieves weed suppression through biological
-competition and ground cover management rather than chemical or mechanical
-force. No-till with herbicides addresses the symptom while Fukuoka's approach
-addresses the underlying cause (bare soil and ecological imbalance).
-
-## See Also
-- [[fukuoka-textdoc-weed-utility-grass-soil-enrichment]]
-- [[trifolium-repens]]
-- [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]

@@ -5,6 +5,7 @@ tags: [natural-farming, no-till, rice, barley, wheat, cover-crops, clover, direc
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "masanobu-fukuoka, The Natural Way of Farming (1975), chapters on Rice and Winter Grain"
   - "Masanobu Fukuoka, The One-Straw Revolution (1978)"
 type: concept

@@ -33,7 +33,7 @@ Primula integrifolia was described by Carl Linnaeus in 1753. It belongs to secti
 - **Section:** Aleuritia
 - **Authority:** L. (1753)
 
-Section Aleuritia contains approximately 30 species distributed across alpine regions of the Northern Hemisphere. Primula integrifolia is one of the European representatives, along with Primula farinosa and Primula scandinavica.
+Section Aleuritia contains approximately 30 species distributed across alpine regions of the Northern Hemisphere. Primula integrifolia is one of the European representatives, along with [[primula-farinosa]] and [[primula-scandinavica]].
 
 The species is closely allied to Primula farinosa but differs in its entirely smooth leaf margins and smaller overall stature. Hybrids between the two species are reported where their ranges overlap.
 
@@ -57,9 +57,9 @@ In the Dolomites, Primula integrifolia grows alongside other calcicole specialis
 
 ## Ecology
 
-Primula integrifolia is a true alpine specialist adapted to short growing seasons, intense UV radiation, and freeze-thaw cycles. Its compact cushion growth form reduces wind exposure and conserves heat.
+Primula integrifolia is a true alpine specialist adapted to short [[jeavons-climate-adaptation-growing-seasons]], intense UV radiation, and freeze-thaw cycles. Its compact cushion growth form reduces wind exposure and conserves heat.
 
-The root system is fibrous and relatively shallow, adapted to exploit nutrients in thin alpine soils. Mycorrhizal associations are likely important for nutrient uptake in the nutrient-poor limestone substrates.
+The root system is fibrous and relatively shallow, adapted to exploit nutrients in thin alpine soils. [[plants-without-mycorrhizal-associations]] are likely important for nutrient uptake in the nutrient-poor limestone substrates.
 
 The species exhibits **distyly**, with flowers in two morphs (pin and thrum) that promote cross-pollination. Primary pollinators include small bees, flies, and alpine butterflies.
 
@@ -67,7 +67,7 @@ Seed dispersal is passive, with capsules releasing seeds near the parent plant. 
 
 Farina on the leaf undersurface serves as a protective coating against desiccation and UV damage. This adaptation is shared across section Aleuritia and is particularly pronounced in high-altitude species.
 
-The growing season is brief, typically lasting only 6–10 weeks between snowmelt and first frost. Plants allocate most resources to flower and seed production during this window, with vegetative growth being secondary.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] is brief, typically lasting only 6–10 weeks between snowmelt and first frost. Plants allocate most resources to flower and seed production during this window, with [[cannabis-vegetative-growth-stage]] being secondary.
 
 Overwintering occurs as dormant buds at ground level, protected by the persistent leaf rosette and snow cover. Plants can tolerate temperatures below -20°C when insulated by snow.
 
@@ -88,34 +88,3 @@ Germination from seed is often erratic, with some batches requiring cold stratif
 Plants are short-lived in cultivation if drainage is inadequate. A thick grit mulch around the crown prevents crown rot.
 
 Established plants may be maintained in trough gardens or crevice plantings where root conditions can be carefully controlled. Growers report best results in tufa rock gardens where the roots can penetrate limestone cavities.
-
-## Uses and Conservation
-
-Primula integrifolia has no significant history of medicinal or culinary use. Its primary value is ornamental, prized by alpine plant enthusiasts and rock garden specialists.
-
-The species is grown by specialist nurseries and alpine plant societies in Europe and North America. It has received the Royal Horticultural Society's Award of Garden Merit for its ornamental value in appropriate settings.
-
-Primula integrifolia is frequently exhibited at alpine plant shows, where well-grown specimens in troughs or pans are highly regarded by judges. The compact form and intense flower color make it a distinctive show plant.
-
-Conservation concerns exist due to its narrow habitat requirements and scattered populations. Climate change poses a particular threat, as warming temperatures push suitable alpine zones to higher elevations with limited available habitat.
-
-Grazing pressure from expanding alpine livestock herds has degraded some populations. Trampling by hikers on popular alpine trails further threatens accessible populations near mountain refuges.
-
-Several national red lists classify Primula integrifolia as vulnerable or near-threatened. Collection from wild populations is prohibited in Austria and Italy under national plant protection legislation.
-
-Ex-situ conservation collections are maintained by several European botanical gardens, including the Munich Botanical Garden and the Royal Botanic Garden Edinburgh. These collections serve as insurance against wild population loss.
-
-International seed exchanges through alpine garden societies have helped distribute the species to qualified growers. This reduces collection pressure on wild populations while ensuring the species remains in cultivation.
-
-## See Also
-
-- [[primula-veris]]
-- [[primula-vulgaris]]
-- [[primula-elatior]]
-- [[primula-auricula]]
-- [[primula-farinosa]]
-- [[primula-obconica]]
-- [[primula-denticulata]]
-- [[primula-sieboldii]]
-- [[primula-cortusoides]]
-- [[primula-scandinavica]]

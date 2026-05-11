@@ -3,6 +3,7 @@ title: Autoflowering Breeding
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]
@@ -87,44 +88,3 @@ The general approach to breeding autoflowering cannabis follows these
 principles:
 
 1. **Select a potent drug-type parent** with desirable
-   characteristics (potency, flavor, yield, growth habit) as the
-   recurrent parent.
-
-2. **Cross with a ruderalis donor** that reliably expresses the
-   autoflowering trait.
-
-3. **Grow out F1 progeny** and select individuals that both
-   autoflower and show acceptable potency.
-
-4. **Backcross selected individuals to the drug-type parent** across
-   multiple generations, selecting for both autoflowering and drug
-   traits at each generation.
-
-5. **Stabilize the resulting population** through filial inbreeding
-   until the autoflowering trait and desired drug characteristics
-   breed true.
-
-## Advantages of Autoflowering Varieties
-
-- No photoperiod manipulation required; plants flower automatically.
-- Multiple harvests per season are possible outdoors.
-- Compact size suits discreet growing and small spaces.
-- Short life cycle from seed to harvest (often 8-10 weeks total).
-- Suitable for outdoor growing at high latitudes where summers are
-  short.
-
-## Limitations
-
-- Generally lower potency than photoperiod-dependent drug varieties,
-  though this gap has narrowed with modern breeding.
-- Reduced yield compared to full-season photoperiod varieties.
-- Limited clone potential, as the autoflowering clock begins at
-  germination and cannot be reset by taking cuttings.
-- The genetic contribution of C. ruderalis may introduce unwanted
-  traits that require additional generations to eliminate.
-
-## See Also
-
-- [[cannabis-landrace-strains]]
-- [[autoflowering-cannabis]]
-- [[cannabis-resin-production-and-quality-traits-clarke]]

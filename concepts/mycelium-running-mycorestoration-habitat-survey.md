@@ -1,5 +1,5 @@
 ---
-title: mycelium running mycorestoration habitat survey Survey and Strategy
+title: Mycelium Running Mycorestoration Habitat Survey
 created: 2026-04-28
 tags: [mycorestoration, ecological-restoration, habitat-assessment, mycofiltration, mycoremediation]
 date: 2026-04-25
@@ -30,7 +30,7 @@ fungi play in determining the balance of biological populations and seeks to
 reinforce the fungal foundations of ecosystem health.
 
 As generations of mycelia cycle through a habitat, soil depth and moisture
-increase, enhancing the carrying capacity and diversity of the environment. The
+increase, enhancing the [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] and diversity of the environment. The
 early introduction of primary saprophytes, which are among the first organisms
 to rejuvenate the food chain after catastrophe, can determine the course of
 biological communities through thoughtfully matching mycelia with compatible
@@ -73,7 +73,7 @@ mushrooms serving as biodiversity pioneers.
 
 ## Synergistic Species Combinations
 
-Each mushroom species secretes unique mixes of extracellular enzymes and acids
+Each mushroom species secretes unique mixes of [[fungal-extracellular-enzymes]] and acids
 for degrading [[hamilton-composting-and-organic-matter-management]]. Using a plurality of species can have a synergistic
 effect for more complete degradation of toxins than could be achieved with one
 species alone. The art of mycorestoration lies in:
@@ -88,29 +88,3 @@ species alone. The art of mycorestoration lies in:
 ## Methods of Introducing Beneficial Fungi
 
 Multiple techniques exist for expanding a helpful mushroom's domain in a
-damaged habitat:
-
-- **mycofiltration-silt-erosion-control
-- **Stem butt transfers**: Harvested mushroom stem bases placed in new
-  locations to regrow mycelium
-- **Spore slurries**: Water suspensions of spores collected from mature
-  mushrooms, spread over target areas
-- **Pure [[pure-culture-spawn-method-duggar-usda-1902]]**: Laboratory-propagated mycelium on grain or sawdust
-  for precise species deployment
-- **[[permaculture-sheet-mulch-detailed-guide]]**: Shallow compost beds 6 inches to 2 feet thick, inoculated
-  with mycelium to capture microbial outflow
-
-## Creating Mycelial Mats
-
-The essential strategy is to grow mats of mycelium matched to the scale of the
-contamination or restoration need. By creating a [[arbuscular-mycorrhizal-fungi]] that associate with target plant
-  communities
-- **Toxin degradation**: [[mycorestoration-overview]] for foundational concepts. By learning from natural recovery patterns and accelerating them through
-thoughtful species selection, mycologists can design landscapes for both human
-and natural benefit. The goal is to work within natural succession patterns,
-using fungi as keystone organisms that enable entire ecological communities to
-recover and thrive.
-## See Also
-
-[[mycorestoration-overview]] covers the foundational concepts of using fungi for ecological recovery.
-[[mycelium-running-filtering-water-with-fungi]] details the water filtration applications.

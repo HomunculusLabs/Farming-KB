@@ -2,7 +2,7 @@
 title: Date Palm Guide
 created: 2026-04-18
 updated: 2026-04-18
-sources: Permaculture Plants: A Selection (Juniper Hall)
+sources: permaculture Plants: A Selection (Juniper Hall)
 tags: permaculture, tree-crop, desert, drought-tolerant
 type: concept
 ---
@@ -11,7 +11,7 @@ type: concept
 
 ## Botanical Details
 
-**Scientific name:** [[phoenix-dactylifera]] ra]]
+**Scientific name:** phoenix dactylifera ra
 **Family:** ARECACEAE
 
 Native to the tropical and sub tropical deserts of the Middle East, this palm has been cultivated for about 6,000 years. It is now not known in the wild. It is an erect palm growing to 36 m.
@@ -28,11 +28,11 @@ The Arabs claim that it must have its feet in the water and its head in the fire
 
 ## Soil Requirements
 
-Planting densities range from 100-500 per hectare depending on soil type and water availability. The plant does well in sand, loam and clay provided that drainage and aeration are good. It is tolerant of very alkaline soils and fairly high salt levels although the latter can affect growth and fruit production.
+Planting densities range from 100-500 per hectare depending on soil type and water availability. The plant does well in sand, loam and clay provided that drainage and aeration are good. It is tolerant of very alkaline soils and fairly high salt levels although the latter can affect growth and [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].
 
 ## Food Uses
 
-The fruit is borne on large clusters. Dates are eaten out of hand fresh and dried. They are used in cakes, biscuits, breads, pastes, syrups, jellies, ice cream and alcohol. In the Sahara desert they are fed to camels, horses and dogs. The terminal bud is eaten but this kills the palm. The seeds are dried and ground finely and mixed with flour to make bread. The seed is also soaked in water and fed to livestock and is a good chicken forage. Palms can be tapped (no more than two or three times) for sugar and wine production.
+The fruit is borne on large clusters. Dates are eaten out of hand fresh and dried. They are used in cakes, biscuits, breads, pastes, syrups, jellies, [[ice-cream-bean-entity]] and alcohol. In the Sahara desert they are fed to camels, horses and dogs. The terminal bud is eaten but this kills the palm. The seeds are dried and ground finely and mixed with flour to make bread. The seed is also soaked in water and fed to livestock and is a good chicken forage. Palms can be tapped (no more than two or three times) for sugar and wine production.
 
 ## Other Uses
 
@@ -50,7 +50,7 @@ The fruit is used as a detersive and astringent for intestinal troubles. An infu
 
 Although date palms grow readily from seed, fruiting can take ten years and the fruit quality is variable. Also half of the raised seedlings are likely to be male. Where suckers of known plants are available, they are usually preferred. Suckers weigh about 45 kg when they are transplanted. Where suckers are not available, large numbers of seedlings should be planted and suckers propagated from the best specimens. Males will be required for pollination.
 
-## Related Phoenix Species [[phoenix-sylvestris]] estris]]** (wild date palm, silver date palm) -- India: tropical rainforest, to 1500 m. Wide range of soils and sites. Withstands light frosts. Edible fruit for wildlife forage; sap for wine, sugar (40 kg sugar/tree/yr); leaves for weaving. Potential fuel or sugar crop for cooler areas of Austra [[phoenix-canariensis]] ariensis** (Canary Island date palm) -- An ornamental widely planted in Mediterranean and subtropical areas. Produces small but edible dates.
+## Related Phoenix Species phoenix sylvestris estris** (wild date palm, silver date palm) -- India: tropical rainforest, to 1500 m. Wide range of soils and sites. Withstands light frosts. Edible fruit for wildlife forage; sap for wine, sugar (40 kg sugar/tree/yr); leaves for weaving. Potential fuel or sugar crop for cooler areas of Austra [[phoenix-canariensis]] ariensis** (Canary Island date palm) -- An ornamental widely planted in Mediterranean and subtropical areas. Produces small but edible dates.
 
 ## Permaculture Integration
 
@@ -65,7 +65,7 @@ Comprehensive profiles of utility palms for [[permaculture-design]] mer)** — P
 
 ## Palm Applications in Permaculture Design
 
-Palms serve as multipurpose [yield elements across multiple zones. Oil palms function as [silvopasture components with livestock intercropping. Sugar palms provide concentrated yields ideal for [biochar production from spent material. Spiny species (Aiphanes, Eugeissona, Zombia) create effective livestock barriers. Cold-hardy species extend palm utility into [temperate permaculture designs.
+Palms serve as multipurpose [yield elements across multiple zones. Oil palms function as [[silvopasture]] components with livestock intercropping. Sugar palms provide concentrated yields ideal for [[biochar-production-guide]] from spent material. Spiny species (Aiphanes, Eugeissona, Zombia) create effective livestock barriers. Cold-hardy species extend palm utility into [temperate permaculture designs.
 ## Practical Considerations
 
 Successful implementation of Date Palm Guide requires attention to

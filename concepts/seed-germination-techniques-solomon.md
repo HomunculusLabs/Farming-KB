@@ -1,5 +1,5 @@
 ---
-title: Seed seed germination techniques solomon (Solomon)
+title: Seed Germination Techniques Solomon
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: Gardening When It Counts, Steve Solomon, Chapter 5
+Source: Gardening When It Counts, [[steve-solomon]], Chapter 5
 
 Solomon teaches germination as a science, based on laboratory protocols adapted for [[cool-climate-home-garden-mollison]] conditions. The key principle: replicate ideal germination conditions as closely as possible in the field.
 
@@ -86,37 +86,4 @@ Less frequent watering is better than more frequent:
 
 ## Gel Seeding (For Small Seeds)
 
-A technique that imitates commercial precision seeding equipment for tiny seeds like carrots, lettuce, and radishes:
-
-1. Make a gelatin: Heat 1 pint (500ml) water to boiling, dissolve 2-3 tablespoons cornstarch, refrigerate to cool into a gel
-2. Chit seeds until barely sprouted
-3. Blend sprouted seeds into the gel
-4. Cut a small hole in the corner of a plastic bag, squeeze the seed-gel mixture into furrows like frosting
-
-Benefits:
-- Far more uniform spacing
-- Higher percentage of emergence
-- Faster emergence
-- Reduced thinning needed
-- Much less seed used per row-foot
-
-Proportions: A heaped quarter-teaspoon of strong carrot seed mixed into 3 quarts of fine composty soil will start 3-4 carrots per inch of furrow over about 50 feet of row.
-
-## Uniform Stand Achievement
-
-Some seedling loss is inevitable. Pests (slugs, snails, woodlice), disease, and weather all take a toll. Solomon's approach:
-
-- Always sow more seeds than the number of plants ultimately wanted
-- Use vigorous seed from quality sources
-- Create ideal germination conditions
-- Don't sow one seed per station and expect every one to grow
-
-## Depth Guidelines
-
-As a general rule, sow seeds at a depth roughly equal to 2-3 times their diameter. Fine seeds (lettuce, carrots) need barely any cover. Large seeds (beans, squash) go an inch or more deep.
-
-The most common error with small seeds is sowing too deep. The emerging shoot exhausts its energy reserves before reaching light.
-
-See also: [[seed-quality-and-selection-solomon]], [[solomon-gardening-when-it-counts-index]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[solomon-thinning-spacing-and-direct-seeding]]
+A technique that imitates commercial [[coleman-precision-seeding-greenhouse-pinpoint-six-row-seeder]] equipment for tiny seeds like carrots, lettuce, and radishes:

@@ -11,7 +11,7 @@ sources: [raw/papers/stuart-r-ayahuasca-tourism.md]
 
 ## Overview
 
-Ayahuasca tourism refers to Western travelers visiting South America—particularly
+[[ayahuasca-tourism]] refers to Western travelers visiting [[guzman-psilocybin-mushrooms-south-america]]—particularly
 Peru, Brazil, and Ecuador—to participate in traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] led
 by indigenous or mestizo shamans. The practice represents a modern continuation
 of Western fascination with alternative spiritual traditions, following earlier
@@ -32,7 +32,7 @@ tangible practices.
 This pattern reflects persistent Western discontent with Judeo-Christian
 heritage and an ongoing search for authentic spiritual experiences. Each wave
 brings genuine seekers and trend-chasers alike, creating complex dynamics when
-external interests intersect with living indigenous traditions.
+external interests intersect with living [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]].
 
 ## Key Locations in Peru
 
@@ -50,7 +50,7 @@ The Pucallpa region, including the town of Yarina, hosts practitioners in a
 less tourist-saturated environment. These areas maintain active ceremonial
 traditions serving both local communities and visitors. The more intimate
 setting offers a different quality of experience, with fewer Western amenities
-and greater language barriers. Pucallpa sits in the Ucayali region, home to
+and greater language barriers. Pucallpa sits in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]], home to
 many Shipibo-Conibo people with strong shamanic traditions.
 
 ### San Francisco (Shipibo Town)
@@ -66,13 +66,13 @@ traditions that long predate the tourism boom.
 Ayahuasca has become both a religion and an industry in Peru. Government
 tourist agencies sponsor ayahuasca festivals, and the brew and its raw
 materials are openly sold in markets. Peru's then-president Alejandro Toledo
-even participated in an ayahuasca ceremony, signaling mainstream acceptance.
+even participated in an [[ayahuasca-ceremony-practices]], signaling mainstream acceptance.
 
 Tourist options include [[banisteriopsis-caapi]] and [[ayahuasca-ceremony-pharmacology-safety|Ayahuasca Ceremony Pharmacology and Safety]]
 - [[ayahuasqueros-shamanic-practice|Ayahuasqueros and Shamanic Practice]]
 ## Practical Considerations
 
-Successful implementation of Ayahuasca Tourism Peru requires attention to
+Successful implementation of [[ayahuasca-tourism-peru-retreat-landscape]] requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying

@@ -49,11 +49,33 @@ Holmgren distinguishes two modes of observation:
 
 Good design integrates both perspectives. Maps and data provide the framework; direct observation fills in the details that no map can capture.
 
+## Seasonal Observation Cycles
+
+Holmgren recommends spending at least one full year observing a site before making major
+design changes. Each season reveals different information: winter shows drainage patterns
+and wind exposure when foliage is absent; spring reveals where water pools and which areas
+warm first; summer shows drought stress and sun angles; autumn reveals frost pockets and
+deciduous shade patterns. Keeping a site journal through all four seasons builds the
+knowledge base for effective, site-specific design.
+
 ## Practical Application
 
 Holmgren suggests that the imperative to slow down and observe is counter-cultural in modern society, where speed and action are valued over patience. He notes that when we drive, we are enclosed and moving too fast to notice subtle details. Walking or cycling the same route opens our eyes, ears, skin, and noses to a world of information that speed hides.
 
 At Melliodora (Holmgren's home and demonstration site), observation has been central to the design process over decades. Changes to the property were made incrementally, with long periods of watching how systems developed before making further interventions.
+
+## The Proverb
+
+Holmgren pairs this principle with the proverb: "Beauty is in the eye of the beholder."
+This reminds us that observation is subjective — what one person sees as a problem,
+another recognizes as an opportunity. A muddy patch is a water-harvesting site. A weedy
+thicket is a wildlife corridor and nutrient accumulator. Skilled observation transforms
+apparent problems into design resources.
+
+Holmgren notes that indigenous cultures have always practiced this principle, reading
+seasonal cues, animal movements, and plant signals to guide land management decisions.
+Permaculture formalizes what traditional ecological knowledge has long understood: the
+land speaks to those who take time to listen.
 
 ## Connections to Other Principles
 

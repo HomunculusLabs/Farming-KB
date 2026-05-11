@@ -1,5 +1,5 @@
 ---
-title: tompkins luther burbank intuitive breeding - Intuitive Plant Breeding
+title: Tompkins Luther Burbank Intuitive Breeding
 created: 2026-04-26
 tags: [history, agriculture, botany, biography]
 date: 2026-04-25
@@ -88,42 +88,10 @@ knowledge.
 
 In his book The Harvest of the Years, Burbank wrote about the
 intelligence he perceived in plants: "Plants are like people in many
-ways. They have their individuality, their likes and dislikes. Some
-thrive in one environment, others in another. The wise gardener learns
-to understand these preferences and works with them rather than against
-them."
-
-## Influence on Plant Communication Research
-
-Burbank's intuitive approach foreshadowed many of the findings that
-would later emerge from parapsychological research into plant
-sensitivity. His insistence that plants respond to human attention and
-care anticipates the Backster Effect, where polygraph-connected plants
-responded to their owners' emotional states.
-
-The idea that a breeder could "tell" a plant what to become suggests a
-form of bio-communication that conventional genetics has yet to
-address. While Mendelian genetics explains the mechanism of heredity,
-it does not account for the possibility that an attuned human mind
-might somehow guide or accelerate the expression of genetic potential.
-
-## Scientific Reassessment
-
-The conventional scientific community never fully accepted Burbank's
-methods, and his reputation suffered after his death as the new
-genetics dismissed intuitive approaches. Yet his plant varieties
-continue to be grown worldwide, and his fundamental insight -- that
-communication between humans and plants may be more profound than
-science has acknowledged -- anticipates many of the findings discussed
-throughout The Secret Life of Plants.
-
-Modern epigenetics, which studies how [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence
-gene expression without changing the DNA sequence, may eventually
-provide a scientific framework for understanding some of what Burbank
-intuitively practiced. The possibility that human intention could
-influence gene expression in plants remains a frontier of research.
 
 ## See Also
-- [[tompkins-george-washington-carver-plant-alchemy]]
-- [[tompkins-plants-response-to-human-intent]]
 - [[luther-burbank-plant-breeding-methods]]
+- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
+- [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]]
+- [[fukuoka-textdoc-intuitive-reasoning-beyond-induction-deduction]]
+- [[tompkins-cleve-backster-primary-perception]]

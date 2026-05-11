@@ -11,7 +11,7 @@ type: concept
 
 # Fertilization and Organic Soil Amendments
 
-GROW BIOINTENSIVE fertilization aims to build and maintain proper
+[[jeavons-grow-biointensive-method-overview]] fertilization aims to build and maintain proper
 levels and balances among soil nutrients using [[cervantes-organic-amendments-chart]]
 rather than synthetic chemicals. The goal is to reduce nutrient
 deficiencies slowly over time while minimizing imported inputs,
@@ -20,10 +20,10 @@ sustaining.
 
 ## Soil Testing as Foundation
 
-Before applying any fertilizers, John Jeavons strongly recommends
+Before applying any fertilizers, [[john-jeavons]] strongly recommends
 testing your soil. A professional soil test (such as Timberleaf,
 which specializes in organic/Biointensive fertility) analyzes all
-major and trace minerals plus physical characteristics. Home test
+major and [[dynamic-accumulator-plants-trace-minerals]] plus physical characteristics. Home test
 kits like the La Motte kit are limited to nitrogen, phosphorus,
 potassium, and pH but still guard against overapplication. To take
 a proper sample, use a nonferrous trowel to collect vertical soil
@@ -69,7 +69,7 @@ providing them.
 ## Soil Modifiers and Special Amendments
 
 - **Dolomitic lime** (~25% Ca, 6%-14% Mg): Use when both
-  calcium and magnesium are needed. Never use to sweeten
+  [[dynamic-accumulator-plants-calcium-and-magnesium]] are needed. Never use to sweeten
   compost piles (causes nitrogen loss).
 - **High calcium lime/calcite**: Use when magnesium levels are
   too high for dolomitic lime. Oyster shell flour is a good
@@ -86,42 +86,5 @@ improves drainage, neutralizes toxins, holds moisture, releases
 nutrients, and feeds microbiotic life. Use up to 1 inch of cured
 compost (8 cubic feet per 100 sq ft) per 4-6 month growing
 season. Approximately 96% of nutrients needed for plant growth
-come from air and water working with solar energy; soil and
+come from air and water working with [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]; soil and
 compost provide the remaining 4%.
-
-## The Balanced Approach
-
-The GROW BIOINTENSIVE method places heavy emphasis on compost
-over purchased fertilizers, recognizing that [[complete-organic-fertilizer-cof-recipe-solomon]]
-demand is increasing while per-person supply decreases. The
-method uses as much phosphorus and potassium as nitrogen, which
-results in stronger, healthier plants compared to approaches
-that favor nitrogen-heavy inputs.
-
-## Moving Toward Closed-System Fertility
-
-Jeavons outlines four strategies for more sustainable fertilization:
-1. Use most food grown at home so all residues return to soil
-2. Grow deep-rooted trees to bring up subsoil nutrients
-3. Grow your own fertilizer plants (alfalfa roots to 125 feet,
-   comfrey to 8 feet) for compost materials
-4. Maintain 4%-6% organic matter in temperate soils, 3% in
-   tropical ones, to encourage [[ingham-chelation-microbial-nutrient-processing]] cycling
-
-## Application Technique
-
-Add fertilizers and amendments one at a time, avoiding windy days.
-Sprinkle light-colored amendments first (like oyster shell flour)
-for visibility against dark soil, then darker ones. Sift
-fertilizers 2 to 4 inches deep using a spading fork with a
-slight jiggling motion. Do not rake afterward, as this creates
-irregular concentrations. The "twist dig" method—combining an
-up-and-down motion with a twisting spade motion—is easier on
-the back and equally effective.
-
-See also: [[jeavons-soil-ph-testing-balancing]],
-[[jeavons-composting-methods]]
-
-## See Also
-
-- [[soil-preparation-organic-gardens]]

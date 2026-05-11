@@ -13,8 +13,8 @@ updated: 2026-05-08
 sources:
   - Brodo IM, Sharnoff SD, Sharnoff S (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis OW, Coppins BJ, Hawksworth DL, James PW, Moore DM (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
-  - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide air pollution in England and Wales using epiphytic lichens." Nature 227: 145–148.
-  - Seaward MRD (2004). "The use of lichens for environmental monitoring in Europe." Bibliotheca Lichenologica 91: 47–69.
+  - Hawksworth DL, Rose F (1970). "Qualitative scale for estimating sulphur dioxide [[air-pollution-fungal-community-responses]] in England and Wales using epiphytic lichens." Nature 227: 145–148.
+  - Seaward MRD (2004). "The use of lichens for [[singh-fungal-biosensors-environmental-monitoring]] in Europe." Bibliotheca Lichenologica 91: 47–69.
 ---
 
 ## Overview
@@ -29,7 +29,7 @@ L. conizaeoides has become a key case study in lichen recolonization dynamics as
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Lecanoraceae > Genus Lecanora.
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Lecanoraceae > Genus Lecanora.
 
 **Authority:** Nyl. ex Cromb. (1894). The species was first recognized as distinct from L. dispersa during the industrial period when its ecological divergence became apparent.
 
@@ -51,7 +51,7 @@ The species is morphologically similar to Lecanora dispersa but can be distingui
 
 L. conizaeoides has a predominantly [[fukuoka-european-distribution-system-critique]], with populations extending into western Russia and Scandinavia.
 
-It has been reported from North America but is less common there than in Europe.
+It has been reported from [[guzman-psilocybin-mushrooms-north-america]] but is less common there than in Europe.
 
 The species is strongly associated with polluted environments and was historically the dominant epiphytic lichen in industrial regions of Britain, Germany, and the Czech Republic.
 
@@ -85,32 +85,6 @@ This tolerance is attributed to its efficient detoxification mechanisms and its 
 
 The species acts as a pioneer on bark surfaces in polluted areas, establishing before other lichens can colonize.
 
-It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to stressed environments.
+It forms a symbiosis with a green algal photobiont, typically Trebouxia simplex or related species adapted to [[dark-septate-endophytes-stressed-environments]].
 
 L. conizaeoides plays a role in the early stages of lichen community recovery as pollution levels decline.
-
-However, as air quality improves, it is often outcompeted by larger, more vigorous lichen species that recolonize cleared bark surfaces.
-
-The decline of L. conizaeoides in areas where air quality has improved is paradoxically used as a positive indicator of environmental recovery.
-
-## Environmental Indicators
-
-L. conizaeoides is the canonical "pollution lichen" in European air quality monitoring, featured prominently in the Hawksworth-Rose scale.
-
-On the Hawksworth-Rose scale, its presence indicates moderate to high levels of SO₂ pollution (Zone 3–5 on the 10-point scale).
-
-The species was used as an indicator of "lichen deserts" — areas where only the most pollution-tolerant species survive.
-
-In recent decades, the retreat of L. conizaeoides from central European forests has been documented as a response to declining SO₂ emissions.
-
-This retreat is considered a positive signal, indicating that air quality has improved to levels that support a more diverse lichen community.
-
-The species remains common along busy roadsides and in industrial zones where localized pollution persists despite regional improvements.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[cladonia-alpestris]]
-- [[xanthoria-parietina]]
-- [[hypogymnia-physodes]]
-- [[lichen-symbiosis]]

@@ -27,12 +27,12 @@ sources:
 
 Erythrina fusca, known as coral bean, immortelle, or bucayo, is a tropical
 deciduous tree in the Fabaceae (legume) family native to tropical America,
-from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern South America, and
+from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] to northern [[guzman-psilocybin-mushrooms-south-america]], and
 widely naturalized across the tropics.
 
 Reaching heights of 15–25 m, E. fusca is valued in agroforestry and
 permaculture for rapid growth, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], shade provision, and
-use as a support tree for black pepper, vanilla, and yam.
+use as a support tree for [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], vanilla, and yam.
 
 The species contains erythrina alkaloids (erythraline, erythrinine) in
 seeds and bark with traditional medicinal and toxicological significance.
@@ -75,9 +75,9 @@ profusely with Bradyrhizobium spp.
 
 ## Distribution and Habitat
 
-Native from southern Mexico through Central America, Caribbean, to Colombia,
+Native from southern Mexico through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], Caribbean, to Colombia,
 Venezuela, the Guianas, and Amazon basin. Widely naturalized in West Africa,
-[[psilocybe-southeast-asia-pacific]], and Pacific Islands.
+[[psilocybe-southeast-asia-pacific]], and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 Found in seasonally [[mollison-wet-dry-tropical-design-strategies]] forests, river margins, coastal areas, and
 disturbed sites from sea level to 500 m. Tolerates waterlogging and saline
@@ -88,60 +88,3 @@ conditions. USDA Zones 10–12, minimum ~2°C.
 E. fusca contains tetracyclic erythrina alkaloids in seeds and bark:
 
 - **Erythraline** — major alkaloid; spasmolytic and neuromuscular activity
-- **Erythrinine** — sedative and hypotensive properties
-- **Erythratine** — anticonvulsant activity in animal models
-- **Flavonoids** — isoflavones and flavanones in leaf tissue
-
-Seeds are toxic if ingested raw due to alkaloid content; traditional
-preparations involve extended cooking to reduce toxicity. Alkaloids have
-been investigated for muscle relaxant and anticonvulsant drugs.
-
-## Nitrogen Fixation
-
-Forms effective nodules with Bradyrhizobium spp., fixing 20–60 kg N/ha/year.
-Nodulation prolific even in waterlogged soils. Leaf litter contributes
-40–80 kg N/ha/year. One of the most effective nitrogen contributors among
-tropical shade trees.
-
-## Permaculture and Agroforestry Applications
-
-### Living Support Trees
-
-Primary agroforestry use as a living trellis:
-
-- **Black pepper** (Piper nigrum) — most common support species
-- **Vanilla** ([[sechium-edule]]) — climbing framework
-
-### Additional Functions
-
-- Provides dappled shade in cacao and coffee systems
-- Windbreak for exposed tropical sites; rapid establishment
-- Spectacular orange-red flowers attract hummingbirds
-- Common street tree and garden specimen in tropical cities
-- Deep taproot brings subsoil nutrients; chop-and-drop mulch adds organic
-  matter to [[food-forest|food forest]] systems
-
-## Cultivation
-
-- **Propagation:** Seed (scarification recommended) or cuttings 1–2 m
-- **Growth rate:** Very fast; 2–3 m/year in optimal conditions
-- **Spacing:** 5–8 m in agroforestry; 10–15 m as shade tree
-- **Pruning:** Coppices readily; pollarded at 3–5 m for crop support
-- **Soil:** Adaptable; tolerates poor soils, flooding, moderate salinity
-## Related Species
-
-- **Erythrina poeppigiana** — closely related, shade tree in cacao
-  plantations
-- **Erythrina subumbrans** — Southeast Asian support tree
-- **Erythrina variegata** — Indian coral tree, ornamental/medicinal
-- **Erythrina americana** — Mexican species with similar alkaloid profile
-- **Erythrina berteroana** — Central American food species (young leaves
-  edible after cooking)
-
-## See Also
-
-- [[erythrina-crista-galli]]
-
-- acacia-confusa
-- sesbania-grandiflora
-- [[acacia]]

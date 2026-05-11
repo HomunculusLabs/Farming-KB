@@ -2,7 +2,7 @@
 
 ## The Challenge of Growing Sativa Strains Indoors
 
-Sativa-dominant cannabis strains present unique challenges for indoor cultivation. Unlike indica varieties that naturally remain compact and bushy, sativa plants have evolved in equatorial and tropical regions where they compete for light beneath forest canopies. This evolutionary pressure has produced plants that grow tall, stretch dramatically during flowering, and can reach heights of 6 to 14 feet if given the opportunity. For indoor growers working with limited vertical space — typically 5 to 8 feet from floor to ceiling — managing this explosive growth is essential.
+Sativa-dominant [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] present unique challenges for [[cannabis-sativa-indoor-cultivation-techniques]]. Unlike indica varieties that naturally remain compact and bushy, sativa plants have evolved in equatorial and [[fukuoka-natural-farming-in-tropical-regions]] where they compete for light beneath forest canopies. This evolutionary pressure has produced plants that grow tall, stretch dramatically during flowering, and can reach heights of 6 to 14 feet if given the opportunity. For indoor growers working with limited vertical space — typically 5 to 8 feet from floor to ceiling — managing this explosive growth is essential.
 
 The cannabis industry's shift toward indoor cultivation in the 1990s and 2000s favored indica-dominant genetics precisely because of these space constraints. Indica strains mature quickly, stay short, and produce heavy yields in compact spaces. Sativa varieties were largely excluded from the indoor market until breeders began developing techniques and hybrid strains that made indoor sativa cultivation practical.
 
@@ -20,7 +20,7 @@ Before applying training techniques, it is important to understand why sativa pl
 
 ## Low Stress Training (LST)
 
-Low Stress Training is the primary technique for managing sativa height indoors. Unlike High Stress Training methods such as topping or super-cropping, LST works by bending and tying branches into horizontal positions without cutting the plant tissue. This approach is preferred for sativa strains because they can be sensitive to the recovery time required after high-stress techniques.
+Low Stress Training is the primary technique for managing sativa height indoors. Unlike High Stress [[mckenna-shamanic-identification-signs-and-training-methods]] such as topping or super-cropping, LST works by bending and tying branches into horizontal positions without cutting the plant tissue. This approach is preferred for sativa strains because they can be sensitive to the recovery time required after high-stress techniques.
 
 ### How LST Works
 
@@ -28,7 +28,7 @@ The principle behind LST is simple: cannabis apical dominance means the tallest 
 
 ### Implementation for Sativa Strains
 
-1. **Begin early** — Start LST during the second to third week of vegetative growth when stems are flexible enough to bend without breaking. Waiting until flowering is underway risks damaging flower development.
+1. **Begin early** — Start LST during the second to third week of [[cannabis-vegetative-growth-stage]] when stems are flexible enough to bend without breaking. Waiting until flowering is underway risks damaging flower development.
 
 2. **Bend gradually** — Sativa stems can be brittle despite their height. Bend branches over several days rather than forcing them into position in a single session. Use soft plant ties or garden wire with rubber coating to secure branches to the container rim or trellis.
 
@@ -44,7 +44,7 @@ Topping involves removing the apical growing tip of the main stem, forcing the p
 
 ### When to Top Sativa Plants
 
-Topping is most effective when performed during the vegetative stage, ideally at the 4th to 6th node. For sativa strains, topping once or twice during vegetation is usually sufficient. Multiple toppings can slow growth too much and extend the already-long vegetative period.
+Topping is most effective when performed during the [[cannabis-vegetative-stage]], ideally at the 4th to 6th node. For sativa strains, topping once or twice during vegetation is usually sufficient. Multiple toppings can slow growth too much and extend the already-long vegetative period.
 
 ### Considerations for Sativa Strains
 
@@ -88,40 +88,3 @@ At approximately 90% sativa, Dragon's Teeth will reach 6 to 8 feet if left untop
 Training changes the plant's architecture, which in turn affects nutrient demand. Sativa plants with multiple trained colas have more active growing tips and therefore higher nitrogen demand during vegetation. During flowering, the even canopy produced by training means more bud sites developing simultaneously, increasing phosphorus and potassium requirements proportionally.
 
 Organic cultivation is generally recommended for sativa strains. As The Rev notes, sativa plants are "wild-ish and highly adaptable plants, and by their very nature don't really like being force fed [[query-organic-vs-synthetic-nutrients-cannabis]], and it shows." Living soil systems with slow-release [[cervantes-organic-amendments-chart]] provide a more natural feeding pattern that suits sativa genetics.
-
-## Common Mistakes in Sativa Training
-
-1. **Starting too late** — Waiting until flowering to begin training results in reduced yields and stressed plants. Training should begin during the vegetative stage.
-2. **Over-training** — Applying too many training techniques simultaneously can shock sativa plants, slowing growth and potentially reducing potency. Limit interventions to one technique at a time.
-3. **Neglecting airflow** — Dense canopies created by training need adequate ventilation to prevent mold and pest issues. Oscillating fans and proper exhaust systems are essential.
-4. **Underestimating stretch** — Always plan for more stretch than expected. A common mistake is placing young sativa plants too close to lights before the flowering stretch begins.
-5. **Inconsistent training** — Training must be maintained throughout the grow. A common error is training aggressively during vegetation but neglecting to manage the flowering stretch, which can undo weeks of preparation.
-
-## Environmental Considerations
-
-Beyond physical training techniques, several [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence sativa growth indoors:
-
-- **Light spectrum** — Sativa strains evolved under the full spectrum of tropical sunlight. While modern LED grow lights can approximate this spectrum, some growers report that adding UV-B supplemental lighting during late flowering enhances terpene production in sativa-dominant strains, potentially improving both flavor and resin quality.
-
-- **Temperature management** — Sativa plants generally tolerate higher temperatures than indicas, reflecting their tropical origins. Daytime temperatures of 75 to 85°F (24 to 29°C) are well-tolerated. However, temperature differentials of 10 to 15°F between day and night periods can improve terpene development and bud density.
-
-- **[[cervantes-humidity-control-dehumidification]]** — The longer flowering period of sativa strains means that [[stamets-cultivator-humidity-management-fogging-systems]] must be maintained for extended periods. During weeks 6 through 12+ of flowering, relative humidity should be gradually reduced from 50% to 40% to prevent mold in the dense colas that sativa plants produce.
-
-- **Container size** — Sativa root systems are deep and extensive. Container sizes of 5 to 10 gallons or larger are recommended for indoor sativa cultivation. Smaller containers restrict root growth, which limits plant size but can also reduce yield potential and increase the frequency of nutrient supplementation.
-
-## The Organic Sativa Approach
-
-Many experienced sativa cultivators advocate for organic growing methods over synthetic nutrient programs. The rationale extends beyond preference: sativa plants, as products of wild landrace genetics, appear to metabolize organic nutrient sources more efficiently than synthetic ones. Living soil systems that rely on microbial activity to break down organic amendments provide a slow, steady nutrient release pattern that matches the extended growth cycle of sativa strains.
-
-Organic methods also tend to produce superior flavor and aroma profiles. The complex [[cannabis-terpene-profiles-sativa]] that make sativa strains valued by connoisseurs are best expressed when plants are grown in biologically active soil rather than fed simplified mineral salts. This observation aligns with the broader principle that sativa strains, being closer to their wild ancestors than most modern indica hybrids, perform best when cultivation conditions most closely approximate natural growing environments.
-
-## Related
-
-- [[cannabis-sativa-dominant-growing-challenges]]
-- [[cannabis-grow-plant-training-scrog-techniques]]
-- [[sativa-haze-lineage-breeding-history]]
-- [[cannabis-sativa-flowering-cycle-management]]
-
-## Sources
-
-- S.T. Oner, The Rev (2014). *Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains*. Green Candy Press.

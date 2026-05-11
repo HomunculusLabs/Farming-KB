@@ -88,13 +88,3 @@ The most important step in micro-PIXE analysis is specimen preparation, aimed at
 
 ## Limitations
 - Relatively few nuclear microprobe facilities exist worldwide due to financial constraints
-- Specimen preparation is technically demanding
-- Plant tissue presents unique challenges compared to animal tissue
-- Limited to thin, flat specimens under vacuum conditions
-
-## Related Topics
-
-- [[mycorrhizal-nutrient-transport]] - Phosphorus transport mechanisms
-- mycorrhizal-nutrient-uptake
-- [[micro-pixe-analysis-of-elements-in-mycorrhizal-roots]]
-- mycorrhizal-nitrogen-transfer-between-plants

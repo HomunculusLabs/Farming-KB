@@ -1,5 +1,5 @@
 ---
-title: mollison designers bamboo structure construction joinery Construction and Joinery
+title: Mollison Designers Bamboo Structure Construction Joinery
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 # Bamboo Structure Construction and Joinery
 
 Bamboo is one of the most versatile and rapidly renewable building
-materials available, and Bill Mollison devotes significant attention
+materials available, and [[bill-mollison]] devotes significant attention
 to it in Permaculture: A Designers' Manual (Chapter 10: The Humid
 Tropics, and throughout discussions of [[mollison-designers-appropriate-technology-small-scale-tools]]). Bamboo
 combines the tensile strength of steel with the workability of timber,
@@ -35,12 +36,12 @@ emphasizes selecting large-diameter, thick-walled species:
     the tropics, culms 10-15 cm diameter
   - Dendrocalamus asper: Large-diameter bamboo (15-20 cm), very
     strong, preferred for heavy structural applications
-  - Gigantochloa apus: Southeast Asian construction bamboo, durable
+  - Gigantochloa apus: [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] construction bamboo, durable
     and straight
-  - Guadua angustifolia: [[chiric-caspi-brunfelsia-south-american-hallucinogen]] timber bamboo, exceptional
+  - [[guadua-angustifolia]]: [[chiric-caspi-brunfelsia-south-american-hallucinogen]] timber bamboo, exceptional
     structural qualities, used extensively in Colombia and Ecuador
-  - Phyllostachys edulis (Moso): Temperate bamboo suitable for
-    construction in subtropical climates
+  - [[phyllostachys-edulis]] (Moso): Temperate bamboo suitable for
+    construction in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
 
 ## Harvesting and Seasoning
 
@@ -87,42 +88,3 @@ connection methods:
     inside the hollow section to prevent crushing. Bolted connections
     are strong but require power tools and hardware
   - Plug and pin: A wooden or bamboo dowel is fitted into the hollow
-    end of one culm, and the other culm is slid over it, secured
-    with a pin through both. This method is used for extending
-    length or creating angled connections
-  - Mortise and tenon: Bamboo sections can be notched with a saw or
-    chisel to create interlocking joints, similar to timber joinery
-  - Concrete fill: For foundations and critical structural nodes, the
-    hollow bamboo is filled with concrete reinforced with rebar. This
-    dramatically increases compressive strength
-
-## Truss Design
-
-Bamboo trusses follow standard engineering principles adapted for the
-material's unique properties. Mollison notes that bamboo's high tensile
-strength makes it ideal for the bottom chord of trusses, while its
-compressive strength suits top chord applications. Common truss designs
-include king post, queen post, and triangular configurations spanning
-5-15 meters. The key design constraint is that connections (not the
-bamboo itself) are usually the weakest point in the system.
-
-## Building Types
-
-Bamboo construction in permaculture systems includes:
-  - Housing: Walls, floors, roofs, and structural frames
-  - Greenhouses and shade structures: Lightweight, easily replaced
-  - Trellises and pergolas: Supporting climbing food crops
-  - Fences and gates: Rapidly deployed boundary and animal control
-  - Water towers and storage tanks: Using bamboo as a scaffolding
-    material
-  - Bridges: Footbridges spanning small waterways
-
-## See Also
-
-- mollison designers [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods
-- mollison-designers-bamboo-construction-uses
-- [[mollison-designers-wickiup-and-quick-shelter-construction]]
-- mollison-designers-pond-construction-liner-sealing
-- [[bamboo-construction]]
-- [[appropriate-technology]]
-- [[natural-building]]

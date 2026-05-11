@@ -19,7 +19,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Gelato 33** (also known as Gelato #33 or Larry Bird) is a balanced hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Cookie Family in the San Francisco Bay Area during the early 2010s.
+**Gelato 33** (also known as Gelato #33 or Larry Bird) is a balanced hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by the Cookie Family in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area during the early 2010s.
 
 It is a specific phenotype of the broader Gelato genetic line, selected for its exceptional bag appeal, potency, and complex flavor profile.
 
@@ -31,11 +31,11 @@ Its genetic legacy is enormous, having served as a parent to dozens of subsequen
 
 ## Lineage
 
-Gelato 33 is a cross between **Sunset Sherbet** (female) and **Thin Mint Girl Scout Cookies** (male).
+Gelato 33 is a cross between **[[sunset-sherbet]]** (female) and **Thin Mint [[girl-scout-cookies]]** (male).
 
 Sunset Sherbet itself descends from Girl Scout Cookies × Pink Panties, while Thin Mint is a specific GSC phenotype.
 
-This lineage places Gelato 33 firmly within the Cookie Family genetic dynasty, inheriting the characteristic sweet, earthy, and pungent terpene profile.
+This lineage places Gelato 33 firmly within the Cookie Family genetic dynasty, inheriting the characteristic sweet, earthy, and pungent [[cannabis-terpene-profile]].
 
 The genetic ratio is approximately 55% indica / 45% sativa, though phenotypic expression varies with growing conditions.
 
@@ -45,7 +45,7 @@ Gelato 33 is distinguished from other numbered Gelato phenotypes (#25, #41, #45)
 
 Gelato 33 produces medium to large-sized flowers with a dense, chunky structure typical of Cookie Family genetics.
 
-Buds are dark forest green with vivid purple undertones, particularly in cooler growing environments.
+Buds are dark forest green with vivid purple undertones, particularly in cooler [[mushroom-growing-environments]].
 
 The calyxes are tightly packed and covered in a thick layer of frosty white trichomes, giving the flowers a silvery sheen.
 
@@ -77,7 +77,7 @@ Linalool provides the characteristic lavender floral aroma and is associated wit
 
 **CBD content:** Typically below 0.1%, making this a THC-dominant cultivar with minimal CBD expression.
 
-Minor cannabinoids including CBG and THCV may be present in trace amounts depending on the specific phenotype and growing conditions.
+[[cannabis-minor-cannabinoids]] including CBG and THCV may be present in trace amounts depending on the specific phenotype and growing conditions.
 
 ## Effects and Medical Applications
 
@@ -88,36 +88,3 @@ As the high progresses, a deep physical relaxation spreads through the body with
 The balanced nature of the effects makes it suitable for daytime or early evening use at moderate doses.
 
 Common recreational effects include euphoria, creativity, sociability, increased appetite, and physical relaxation.
-
-Medically, patients report using Gelato 33 for chronic pain management, stress relief, anxiety reduction, and appetite stimulation.
-
-The linalool content may contribute to anxiolytic effects, while caryophyllene offers potential anti-inflammatory benefits.
-
-Potential [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, anxiety at high doses, and mild paranoia in sensitive individuals.
-
-## Cultivation
-
-Gelato 33 is considered a moderate-difficulty strain suitable for growers with some prior experience.
-
-**Flowering time:** 8–9 weeks indoors, with outdoor harvest typically occurring in early to mid-October.
-
-**Indoor yield:** 400–500 g/m² under optimal conditions with proper training and [[eclss-environmental-control-life-support]].
-
-The plants respond well to low-stress training (LST) and scrog methods, developing a bushy structure with multiple bud sites.
-
-Color expression (purple hues) is enhanced by cooler nighttime temperatures during the final two weeks of flowering.
-
-The strain is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments and requires adequate airflow and ventilation.
-
-Pest resistance is moderate, with spider mites being the most common pest issue in [[cannabis-sativa-indoor-cultivation-techniques]].
-
-## See Also
-
-- [[bacio-gelato]]
-- [[gelato-41]]
-
-- [[thin-mint-cookies]]
-- [[runtz-entity]]
-- [[wedding-cake]]
-- [[sour-diesel]]
-- [[jack-herer]]

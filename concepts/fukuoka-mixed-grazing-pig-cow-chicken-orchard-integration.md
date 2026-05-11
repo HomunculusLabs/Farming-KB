@@ -1,6 +1,6 @@
 # Fukuoka Mixed Grazing: Pig, Cow, and Chicken Integration in Orchards
 
-**Source:** Masanobu Fukuoka, *The Natural Way of Farming* (1985)
+**Source:** [[masanobu-fukuoka]], *The Natural Way of Farming* (1985)
 
 ## Overview
 
@@ -24,13 +24,13 @@ rather than the health of the land or the quality of the food.
 Fukuoka observed that pigs naturally root through the soil with their snouts, searching
 for insects and earthworms in valleys and damp areas. This rooting behavior acts as a form
 of natural tillage — "they are like small tractors that dig up the soil." Unlike mechanical
-tillage, which destroys soil structure and microbial communities, pig rooting creates
+tillage, which destroys soil structure and [[cannabis-rhizosphere-microbial-communities]], pig rooting creates
 aerated, disturbed ground that is ideal for sowing new crops.
 
 The key insight is that this tilling service comes at zero energy cost and produces zero
 pollution. After the pigs have rooted through an area, clover and grain seed can be sown
 directly into the turned soil. Combined with the manure from cows and pigs deposited on
-the land, a rich growth of pasture results without any synthetic fertilizers or mechanical
+the land, a rich growth of pasture results without any [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] or mechanical
 soil preparation.
 
 ## The Cow in the Orchard and Forest
@@ -50,7 +50,7 @@ intractable shrubs and vines and could clean up undergrowth in the densest jungl
 Chickens running free through the orchard serve multiple functions simultaneously. They
 scratch through leaf litter and organic debris, accelerating decomposition and distributing
 their nitrogen-rich droppings across the orchard floor. They also consume insect pests
-and weed seeds, providing natural pest control without the need for chemical pesticides.
+and weed seeds, providing [[jeavons-natural-pest-control]] without the need for [[comparison-parasitoid-wasps-vs-chemical-pesticides]].
 
 In Fukuoka's orchard, chickens roamed freely among the citrus trees, living self-
 sufficiently on the insects, seeds, and plant material available in the diverse ground
@@ -59,7 +59,7 @@ mimicking the work of wild ground-dwelling birds in a [[fukuoka-pine-forest-ecos
 
 ## The Multi-Species Integration Model
 
-Fukuoka's complete vision involved placing all sorts of domestic animals together inside
+Fukuoka's complete vision involved placing all sorts of [[permaculture-domestic-animals]] together inside
 a fenced enclosure and leaving them to themselves for a number of years. The interactions
 between species create emergent benefits:
 
@@ -88,44 +88,3 @@ breezy areas, largely prevents parasitic problems without chemical interventions
 **Genetically improved stock:** Modern breeds may not immediately thrive in open grazing,
 but over two or three generations of natural selection in a forest or meadow environment,
 those animals adapted to nature will survive and reproduce. The process requires patience
-but yields animals far hardier and healthier than their factory-raised counterparts.
-
-## Natural Grazing as Maximum Efficiency
-
-Fukuoka challenged the assumption that grazing is inefficient. If one person can raise
-hundreds of head of cattle, pigs, and chickens on open land "without doing anything,"
-is this not the most efficient form of production? The apparent inefficiency exists only
-within a narrow economic framework that measures output per unit of labor or capital
-invested, ignoring the zero-input nature of the system and the superior quality of the
-products.
-
-He proposed that eighty percent of Japan's mountainous terrain could be fenced off from
-depopulated mountain villages to create large open grazing ranges — a bold experiment
-in restoring the relationship between animals, land, and human community.
-
-## Relevance to Modern Systems
-
-Fukuoka's multi-species grazing model prefigures many principles now advocated in
-regenerative agriculture and [[savory-holistic-management-overview]]. The integration of livestock with
-orchard crops (silvopasture), the use of animal behavior for soil management, and the
-rejection of confined feeding operations all align with current movements toward
-ecologically integrated food production systems.
-
-See also: [[fukuoka-natural-livestock-integration-philosophy]], [[fukuoka-natural-grazing-ideal]], [[fukuoka-duck-rice-fish-symbiosis]]
-
-## The Abandoned Village Experiment
-
-Fukuoka proposed fencing off the entrance to one of the many depopulated mountain
-villages that had lost their inhabitants to the cities. All sorts of domestic animals
-could be placed inside the enclosure and left to themselves for a number of years.
-After this period, one could enter and observe what had happened. This experiment
-would reveal the self-organizing capacity of animals in a natural setting, free from
-human management, and demonstrate whether livestock can truly revert to wild behavior
-while still serving human food needs.
-
-The broader philosophical point is that the very notion of "raising" livestock should
-not exist in [[comparison-natural-farming-vs-permaculture]]. Nature is the one that raises and grows. The farmer's
-role is simply to provide the conditions and step back. Man follows nature; all he
-needs to know is with what and in what manner cattle live. When designing and building
-a barn or chicken coop, the farmer should not rely on human reasoning and feelings
-but on observation of how animals naturally seek shelter and warmth.

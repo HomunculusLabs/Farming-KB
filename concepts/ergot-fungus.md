@@ -13,14 +13,14 @@ tags: [reference]
 Ergot is the common name for the sclerotia (hard, dark masses) produced by
 fungi of the genus Claviceps, which parasitize the inflorescences of grasses
 and cereals. The most important species is [[bloomfield-ergot-claviceps-purpurea-ergotism]], the ergot of rye
-(Secale cereale). Ergot has played a dramatic role in European history as the
+([[secale-cereale]]). Ergot has played a dramatic role in European history as the
 cause of devastating epidemics of ergotism (St. Anthony's Fire), as a source
 of medically important alkaloids, and possibly as a psychoactive agent in
-ancient Greek religious rituals.
+[[ancient-greek-mystery-cults-comparison]] religious rituals.
 
 ## Botanical and Mycological Description
 
-Claviceps purpurea is a parasitic fungus that infects the ovaries of grasses,
+[[claviceps-purpurea]] is a parasitic fungus that infects the ovaries of grasses,
 particularly rye. The fungus replaces the developing grain with a hard,
 purplish-black sclerotium (the ergot body), which contains the alkaloids that
 give ergot its pharmacological properties. The sclerotia are considerably
@@ -36,9 +36,9 @@ completing the [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
 
 Other species of Claviceps include:
 
-- **Claviceps paspali**: Infects Paspalum grasses; has been implicated in the
+- **[[claviceps-paspali]]**: Infects Paspalum grasses; has been implicated in the
   [[eleusinian-mysteries]] of
-ancient Greece were associated with this fungal genus. However, ergot's most
+[[psychedelic-use-in-ancient-greece]] were associated with this fungal genus. However, ergot's most
 dramatic historical impact was through accidental poisoning of populations that
 consumed ergot-contaminated grain.
 
@@ -48,7 +48,7 @@ manifested in two forms:
 
 1. **Convulsive ergotism**: Nervous convulsions, epileptic symptoms,
    hallucinations, delirium, and mania. The psychoactive effects of the
-   ergoline alkaloids produced a state that was often interpreted as demonic
+   [[morning-glory-lsa-and-ergoline-alkaloids]] produced a state that was often interpreted as demonic
    possession.
 
 2. **Gangrenous ergotism**: Mummification, atrophy, and loss of extremities --
@@ -87,39 +87,3 @@ rye are:
 - **Ergotamine and ergotoxine**: Peptide alkaloids in which lysergic acid is
   connected with a peptide radical. These have medicinal uses and cause
   gangrene through vasoconstriction.
-
-- **Ergine (lysergic acid amide, LSA)**: A simple lysergic acid amide with
-  psychotropic properties; the principal psychoactive compound
-
-- **Lysergic acid hydroxyethylamide (LSH)**: Found in traces in ergot of rye;
-  psychotropic
-
-- **Lysergic acid diethylamide (LSD)**: The most potent hallucinogen known,
-  first synthesized from ergot alkaloids by Albert Hofmann in 1938
-
-Ergot from wild grasses contains essentially simple lysergic acid amides as
-the main active principles. These psychotropic alkaloids may have played a role
-in the convulsive form of ergotism and occur as the main active principles in
-the [[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]] glory Ololiuqui ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]]) and other
-bindweeds (see [[morning-glory-entheogens]] -- lysergic acid amide and related compounds --
-are chemically identical to those found in ergot from wild grasses. This
-chemo-taxonomic connection has led to speculation about ecological
-relationships between the fungus and morning glory plants, and about the
-possible role of [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] in producing the alkaloids found in higher
-plants.
-
-## Modern Medical Importance
-
-Chemicals isolated from ergot are still official drugs to induce contraction
-of involuntary muscles in stubborn childbirth. European midwives had long known
-that ergot could aid difficult childbirth. The earliest medical report of its
-obstetric value was published in 1582. Ergot derivatives are also used in the
-treatment of migraine headaches (ergotamine) and in other medical applications
-including the control of postpartum hemorrhage.
-
-## Related Topics
-
-- [[morning-glory-entheogens]] - Morning glory species as entheogens
-- [[mandrake-plant]] - European solanaceous entheogen
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[ergonovine]]

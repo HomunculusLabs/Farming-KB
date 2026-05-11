@@ -10,13 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Coconut Palm Dominant Polyculture
 
-Coconut (Cocos nucifera) dominant polyculture is a major design theme in
+Coconut ([[cocos-nucifera]]) dominant polyculture is a major design theme in
 the humid tropics section of the Permaculture [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Mollison
 devotes an entire section (10.10) to the planning of coconut or
 palm-dominant systems, addressing structure, species selection,
@@ -24,7 +25,7 @@ patterning, economics, and the reworking of old monoculture plantations.
 
 ## Design Philosophy
 
-Any humid tropical polyculture that duplicates or imitates the normal
+Any humid [[mollison-designers-macadamia-nut-in-tropical-polyculture]] that duplicates or imitates the normal
 structure of a [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] is likely to succeed. The structure of the
 system refers to the final cross-sectional appearance of any polyculture.
 Near large markets, it is feasible to introduce large tree species into
@@ -35,7 +36,7 @@ fodder, structural materials, basic foods, oils, and medicinals.
 Remote from settlement or market, livestock ranging (pigs, cattle) can be
 contemplated, with the intercrop selected to assist animals on range over
 dry periods as ground forage or as fodder tree drop from figs, breadfruit,
-papaya, or Inga edulis.
+papaya, or [[inga-edulis]].
 
 ## Zoning by Proximity
 
@@ -45,7 +46,7 @@ village. Mollison outlines a zoning sequence moving outward:
 
 - Productive trees in palms (total species: 6-12)
 - Palms within crop and [[mollison-avenue-cropping-with-legumes]] between palms (30-35 species)
-- Animal forage and free range in palms (8-20 species)
+- [[permaculture-designers-manual-animal-forage-systems]] and free range in palms (8-20 species)
 - Village garden and trellis, roof crop, greens (100-150 species)
 - Fuel-wood in dwarf palm (3-4 species)
 - Forest and tree reserves
@@ -55,11 +56,11 @@ crop and terrace is appropriate.
 
 ## Criteria for Species Selection
 
-For any one site, species that accompany a palm polyculture must be
+For any one site, species that accompany a [[mollison-coconut-palm-polyculture-systems]] must be
 selected according to several criteria:
 
 - Species suited to soils, using a mosaic approach based on soil
-  drainage and nutrient status
+  drainage and [[leaf-tissue-analysis-crop-nutrient-status]]
 - Species locally acceptable or very similar to local types
 - Species with wide potential for processing (coconuts have hundreds of
   known products or uses, giving market flexibility)
@@ -87,51 +88,3 @@ and will not damage people or buildings if nuts fall.
 ## Clump Planting
 
 Mollison advocates clump planting of palms rather than linear rows. In
-clumps, it is easy to both gather and husk the coconuts in one place, and
-thus mulch the base of all trees, conserving water and returning nutrients
-to every tree. Clumps also form more suitable trellis for vanilla, black
-pepper, and other vine crops, and are economical for watering.
-
-Such patterning frees up to 60% of the ground area, compared to 30% for
-linear planting. Clump planting is ideal for run-off harvesting of water in
-circular swales or coconut-circle pits.
-
-## Economic Analysis
-
-Nair (1975) provides convincing economic analyses showing a 50% increase
-in yield for irrigation alone and a trebling of yield for complex intercrop
-of two or more species, effectively doubling the cash return on the same
-area. Costs of irrigation and intercrop never exceed returns if care is
-taken to select beneficial plant and animal species.
-
-Coconut and cacao intercrop yields approximately 3,122 kg/ha of copra and
-1,300 kg/ha of cacao. Adding a [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]] component increases total
-returns further.
-
-## Coconut Husks and Fronds
-
-Coconut husks have a variety of uses, not the least as mulch for valued
-crops such as vanilla. Held by a log edge, coconut husks and coarse fronds
-or grasses create effective mulch beds. Natural fall from palm fronds, husk
-and nut shell will line-mulch about one in 8-12 rows of palms with about
-2m wide by 0.5m high mulch beds.
-
-## Integration with Livestock
-
-Palm groves provide sheltered and shaded aspects for both intercrop and
-livestock. Chickens [[query-how-to-control-pests-without-chemicals]] such as rhinoceros beetle larvae; guinea
-pigs, geese and land tortoises reduce grass competition; pythons control
-rats and mice; owls serve as rodent predators; bees provide pollination.
-Pigs are ideal scavengers in tree crops below palms and fruit.
-
-## Related
-
-- [[palm-tree-uses]]
-
-- [[mollison-coconut-palm-polyculture-systems]]
-
-- mollison-designers-marine-polyculture Concepts
-
-- mollison-village-complex-elements-in-the-humid-tropics
-- [[mollison-tropical-earth-shaping-polyculture-economics]]
-- [[mollison-gangammas-mandala-and-banana-circle-gardens]]

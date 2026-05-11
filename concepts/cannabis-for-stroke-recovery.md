@@ -6,15 +6,16 @@ type: concept
 tags: [cannabis, cultivation]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Cannabis for Stroke Recovery
 
-Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flow to part of the brain is interrupted, causing brain cell death. The first hour following symptom onset is critical. Cannabis research has revealed significant neuroprotective properties of cannabinoids relevant to both stroke prevention and recovery.
+Stroke (cerebrovascular accident, CVA) is a medical emergency in which blood flow to part of the brain is interrupted, causing brain [[blesching-cannabis-apoptosis-and-cancer-cell-death]]. The first hour following symptom onset is critical. Cannabis research has revealed significant neuroprotective properties of cannabinoids relevant to both stroke prevention and recovery.
 
 ## Evidence-Based Confidence Level
 
 - **Total Studies Reviewed:** 3
-- **CHI Value:** 8
+- **[[blesching-cannabis-prostate-cancer-chi-value-3]]:** 8
 
 ## Types of Stroke
 
@@ -41,12 +42,12 @@ Researchers examined THC's effects on stroke in animal models:
 Perhaps the most promising finding: CBD treatment administered both before AND after stroke produced potent and long-lasting neuroprotection. Key advantages of CBD:
 
 - Works through an "anti-inflammatory CB(1) receptor-independent mechanism"
-- This means CBD may provide neuroprotection through pathways distinct from known cannabinoid receptors
+- This means CBD may provide neuroprotection through pathways distinct from known [[cannabinoid-receptors-cb1-and-cb2]]
 - Scientists concluded: "Cannabidiol will have a palliative action and open new therapeutic possibilities for treating cerebrovascular disorders"
 
 ### Novel Temperature Regulation Discovery
 
-The Japanese research team discovered a new mechanism of body temperature control. THC prevents stroke damage by producing lower body temperature through a pathway independent of the hypothalamus, which was previously assumed to be solely responsible for temperature regulation. This represents a significant advance in understanding cannabinoid pharmacology.
+The Japanese research team discovered a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]]. THC prevents stroke damage by producing lower body temperature through a pathway independent of the hypothalamus, which was previously assumed to be solely responsible for temperature regulation. This represents a significant advance in understanding [[blesching-cannabinoid-pharmacology]].
 
 ## Proposed Clinical Applications
 
@@ -87,21 +88,3 @@ If the Japanese results translate to humans:
 Cannabis also shows cardioprotective properties:
 - CBN and THC significantly reduced heart attack size in animal studies
 - THC protects cardiac cells against hypoxia damage
-- CB1 and CB2 receptors naturally reside in heart tissue
-- The endogenous cardiac cannabinoid system provides protection against myocardial ischemia
-
-## Strain-Specific Considerations
-
-- CBD is the most promising cannabinoid for stroke due to its CB1-independent mechanism and post-event efficacy
-- CBD has higher affinity for CB2, while THC binds equally to CB1 and CB2
-- Both indica and sativa strains provide biologically active cannabinoids
-- Raw, fresh leaf or juice contains higher concentrations of non-psychoactive CBD-acid
-
-## Related Topics
-
-- [[cannabis-cannabinoid-receptor-pharmacology]]
-- [[cannabis-cardiovascular-health]]
-- [[2c-d-pihkal-entry-23]]
-- [[dom-compound-profile]]
-- [[fukuoka-japan-postwar-agriculture]]
-- [[cannabis-endocannabinoid-system]] is a critical modulator of the brain's response to ischemic injury. These mechanisms are detailed in the broader [[cannabis-terpene-entourage-effect-profiles]]. Related: [[cannabis-health-index]], [[cannabis-thc-therapeutic-profile]]

@@ -1,8 +1,8 @@
 ---
-title: Wool fukuoka-fruit-processing-and-natural-food-marketing Dyeing
+title: Mollison Designers Wool Processing Natural Dyeing
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - fiber-crafts
   - wool
   - natural-dyes
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 # Wool Processing and Natural Dyeing
 
 Wool processing and natural dyeing represent the value-adding stage of
-fiber [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems. Bill Mollison addresses
+fiber [[mollison-pigeons-and-squab-production-in-permaculture-systems]] systems. [[bill-mollison]] addresses
 fiber crafts and on-farm processing in Permaculture: A Designers'
 Manual (Chapter 14: Strategies for an Alternative Nation) as part of
 the broader theme of local self-reliance. Converting raw fleece into
@@ -55,9 +56,9 @@ methods that preserve fiber quality:
     with a mild soap or detergent, with minimal agitation to prevent
     felting. Multiple washes may be needed for very greasy fleeces
   - Bio scouring: Fermentative methods using controlled bacterial
-    action to break down lanolin, though these are less predictable
+    action to [[query-can-fungi-break-down-plastic-pollution]] lanolin, though these are less predictable
   - Urine scouring: Traditional method using ammonia-rich urine to
-    break down lanolin (ammonia in stale urine saponifies the wax)
+    [[query-how-do-white-rot-fungi-break-down-lignin]] lanolin (ammonia in stale urine saponifies the wax)
 
 After scouring, wool is rinsed thoroughly in water of the same
 temperature to prevent shock-induced felting, then dried on racks
@@ -86,55 +87,3 @@ spindles or spinning wheels. Key variables in yarn production include:
     3-ply yarns are stronger and more balanced
   - Yarn weight: Lace, fingering, worsted, and bulky weights serve
     different knitting, weaving, and crochet applications
-
-## Natural Dyeing
-
-Natural dyeing uses plant materials, minerals, and insect-derived
-substances to color yarn and fabric. Mollison emphasizes that dye
-plants can be integrated directly into the permaculture landscape,
-creating productive connections between the garden and the fiber
-studio. Common dye sources include:
-
-  - Yellow: Weld (Reseda luteola), marigold, turmeric, onion skins,
-    dyer's chamomile
-  - Red: Madder root (Rubia tinctorum), cochineal insects, brazilwood
-  - Blue: Indigo (Indigofera tinctoria), woad (Isatis tinctoria)
-  - Brown: Walnut hulls, cutch, acacia bark, tea
-  - Green: Overdyeing yellow-dyed fiber with indigo
-  - Black: Oak galls with iron mordant, logwood
-
-## Mordants and Fixation
-
-Most natural dyes require a mordant (from Latin mordere, to bite) to
-fix the color permanently to the wool fiber. Common mordants include:
-
-  - Alum (potassium aluminum sulfate): The most widely used mordant,
-    safe and effective for most plant dyes
-  - Iron (ferrous sulfate): Darkens colors, used as a modifier
-  - Copper sulfate: Greens and brightens yellows
-  - Chrome: Produces rich colors but is toxic; less recommended in
-    permaculture contexts
-  - Tannin: Oak gall, sumac, or tea as a pre-mordant for dyes that
-    do not adhere well to alum alone
-
-## Fiber Crafts and Value Adding
-
-Finished yarn can be processed into a range of products that
-dramatically increase value per kilogram of raw fleece:
-  - Knitting and crochet: Garments, accessories, household items
-  - Weaving: Cloth, rugs, tapestries on hand or floor looms
-  - Felting: Hats, slippers, insulation, and [[fungal-building-material-deterioration]]
-  - Dyeing and finishing: Adding color, texture, and pattern
-  - Direct sale: Selling fleece, roving, or yarn to handcrafters
-
-## See Also
-
-- mollison designers small [[savory-livestock-grazing-planning]]
-- mollison designers value adding crafts
-- mollison designers local economies
-- mollison designers [[mollison-course-zone-planning-and-design]]
-- mollison-designers-food-processing-preservation-storage
-- [[mollison-designers-lime-and-cement-natural-building]]
-- [[mollison-designers-neem-tree-as-natural-insecticide]]
-- [[mollison-designers-wool-insulation-and-natural-textiles]]
-- [[bill-mollison]]

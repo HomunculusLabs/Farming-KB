@@ -1,5 +1,5 @@
 ---
-title: [[savory-livestock-grazing-planning]] behavior and grazing styles and Grazing Styles
+title: Savory Livestock Behavior And Grazing Styles
 created: 2026-04-28
 tags: [livestock-behavior, grazing-styles, diet-selection, animal-ecology]
 date: 2026-04-25

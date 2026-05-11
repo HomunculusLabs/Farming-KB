@@ -1,5 +1,5 @@
 ---
-title: "metzner peyote ceremonies native american church and huichol traditions: halpern-sacramental-peyote-and-native-american-church Church and Huichol Traditions"
+title: Metzner Peyote Ceremonies Native American Church And Huichol Traditions
 created: 2026-04-28
 tags:
   - peyote
@@ -20,10 +20,10 @@ type: concept
 # Peyote Ceremonies: Native American Church and Huichol Traditions
 
 Ralph Metzner's 1998 comparative analysis of hallucinogen use across
-psychotherapy and shamanism documents two major peyote ceremony traditions:
+[[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] documents two major [[peyote-ceremony]] traditions:
 the formally organized Native American Church in the United States and the
 more shamanically oriented Huichol Indian ceremonies of northern Mexico.
-Both traditions employ the peyote cactus (*Lophophora williamsii*) as a
+Both traditions employ the peyote cactus (*[[lophophora-williamsii]]*) as a
 sacramental entheogen within carefully structured ceremonial contexts, yet
 they differ significantly in their organizational forms, legal status, and
 primary emphases.
@@ -43,11 +43,11 @@ participants may privately experience healing or visionary states.
 
 The NAC achieved formal legal incorporation and, for most of the twentieth
 century, enjoyed legal access to peyote in most Western states of the
-United States. Legal protections have been eroded by more recent court
+United States. [[sacramental-psychedelic-legal-protections]] have been eroded by more recent court
 decisions, though the church continues to function. Membership has been
 legally limited to persons with at least 25% Native American ancestry,
 though some ceremonial leaders have opened their ceremonies to non-Indians
-as well. The NAC exemplifies the syncretic folk religious model in
+as well. The NAC exemplifies the [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] model in
 Metzner's four-paradigm framework, where community worship and celebration
 take precedence over individual healing or divination.
 
@@ -88,34 +88,3 @@ curandero, is considered central and essential. The peyote ceremony
 represents an exception to the general shamanic preference for darkness
 or low light, since participants may see visions while staring into the
 central fire.
-
-The ceremonial elements of the peyote traditions map directly onto the
-set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]] that Metzner traces to Timothy Leary. The
-"set" is established through the spiritual intentions, prayers, and
-sacred context of the ceremony, while the "setting" is constructed through
-the physical arrangement of the tipi or ceremonial space, the fire, the
-nighttime context, and the community of fellow participants. The roadman
-or curandero serves as both guide and setting-architect, responsible for
-maintaining the ceremonial container throughout the night-long journey.
-
-## Relationship to Metzner's Four Paradigms
-
-The Native American Church fits primarily within Metzner's third paradigm
-of syncretic folk religious ceremonies, where the focus is community
-bonding and celebratory worship rather than individual healing or
-divination. The Huichol tradition aligns more closely with the second
-paradigm of shamanic rituals of healing and divination, involving
-careful apprenticeship and a direct relationship between healer and
-seeker. Both traditions share the foundational shamanic belief in
-[[metzner-spirit-beings-multiple-realities-entheogens]] and spirit beings that Metzner identifies as the
-radical difference between indigenous and Western worldviews.
-
-## See Also
-
-- [[halpern-sacramental-peyote-and-native-american-church]]
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
-
-- Metzner Four Paradigms of [[shamanic-entheogenic-healing-rituals]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]
-- Shamanic Healing and Divination
-- Set and Setting Hypothesis

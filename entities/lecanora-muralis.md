@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). [[lichens]] of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs. Eugen Ulmer Verlag.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
   - Feurer, T. & Wirth, V. (2000). "Rote Liste der Flechten (Lichenes) Deutschlands." Schriftenreihe für Vegetationskunde, 35, 219-306.
@@ -58,7 +58,7 @@ from zeorin, K-).
 
 ## Distribution and Habitat
 
-*Lecanora muralis* has a nearly cosmopolitan distribution in temperate
+*Lecanora muralis* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate
 regions, occurring across Europe, [[mollison-designers-sea-level-change-coastal-zones]] vels.
 
 Elevation ranges from sea level to [[blesching-cannabis-food-as-medicine-anti-inflammatory-spices]] s
@@ -83,29 +83,8 @@ through physical penetration of substrate and chemical weathering.
 The species contributes to lichen-air-quality-biomonitoring-sampling-protocols and invertebrates.
 
 In [[cervantes-air-quality-ventilation]] biomonitoring, *L. muralis* is classified as highly
-pollution-tolerant. Its presence alone indicates little about air quality,
+pollution-tolerant. Its presence alone indicates little about [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]],
 but its abundance relative to more sensitive species provides a useful
 measure of pollution gradients.
 
 The species is used in lichenometry studies on stone buildings and
-monuments, where growth rate measurements help date substrate exposure
-and assess conservation needs.
-
-## Research and Conservation Significance
-
-*Lecanora muralis* is widely used as a model organism in lichen
-physiology research due to its ease of cultivation and tolerance of
-laboratory conditions. Studies have investigated its responses to
-desiccation, UV radiation, and [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination.
-
-The species has been employed in experiments on extraterrestrial survival
-aboard spacecraft, demonstrating remarkable resistance to vacuum, UV, and
-cosmic radiation. These findings have implications for astrobiology and
-the study of extremophile organisms.
-
-Conservation status is of least concern globally due to its abundance in
-human-modified environments. However, the species can cause damage to
-historic stone structures, creating tensions between biodiversity
-conservation and heritage preservation.
-## See Also
-- [[lichens]]

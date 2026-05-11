@@ -1,5 +1,5 @@
 ---
-title: Cannabis Edibles Guide
+title: [[oner-cannabis-edibles-infusion-dosing]] Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,27 +9,27 @@ sources: []
 
 ## Overview
 
-Cannabis edibles a [[fukuoka-food-and-human-health]] and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper decarboxylation [[blesching-cannabis-decarboxylation-and-raw-cannabis]], accurate dosing, and understanding the significantly different ons [[savory-time-and-timing-guideline]] and duration compared to smoking.
+Cannabis edibles are food and beverage products infused with cannabinoids. They offer a smoke-free consumption method with longer-lasting effects compared to inhalation. The key challenges with edibles are proper decarboxylation, accurate dosing, and understanding the significantly different onset time and duration compared to smoking.
 
 ## Decarboxylation
 
-Raw cannabis [[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edi [[cannabis-tincture-preparation]] aration.
+[[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Decarboxylation applies heat to convert these to their active forms (THC, CBD). This step is essential for any edible or [[cannabis-reefers-and-tincture-preparation]].
 
-[[knf-fmc-method-1-detailed]] Method
+### Oven Method
 
 1. Preheat oven to 240 F (115 C)
-2. Grind cannabis [[blesching-cannabis-decarboxylation-and-raw-cannabis]] to a coarse consistency (not powder — too fine burns easily)
+2. Grind cannabis to a coarse consistency (not powder — too fine burns easily)
 3. Spread in an even layer on a parchment-lined baking sheet
 4. Bake for 30-40 minutes
 5. Gently mix or shake the tray halfway through
-6[[fukuoka-how-nature-should-be-perceived]] nabis should be lightly toasted with a golden-brown color and a nutty aroma
+6. The cannabis should be lightly toasted with a golden-brown color and a nutty aroma
 7. Allow to cool before infusing
 
 ### Temperature Guide
 
 - Below 220 F (105 C): Incomplete decarboxylation, wasted material
 - 220-245 F (105-118 C): Optimal range — full decarboxylation with minimal cannabinoid degradation
-- Abo [[fungal-degradation-of-pesticides]] C): Degradation of THC to CBN begins; terpene loss increases
+- Above 250 F (121 C): Degradation of THC to CBN begins; terpene loss increases
 
 ### Decarboxylation Efficiency
 
@@ -83,7 +83,7 @@ Coconut oil is an excellent alternative to butter for vegan edibles and those wh
 - 1 teaspoon lecithin
 
 **Instructions**:
-1. Combine coconut oil and cannabis in a double boiler or mason jar
+1. Combine coconut oil and cannabis in a double boiler or [[mason-jar-preserving-guide]]
 2. Heat on low (160-180 F) for 2-3 hours
 3. Stir every 15-20 minutes
 4. Add lecithin in the last 30 minutes
@@ -147,4 +147,3 @@ CBD does not produce psychoactive effects at any reasonable dose:
 - Standard batch of 24 cookies with 1 cup cannabutter at ~125 mg THC per cup = ~5 mg THC per cookie
 
 ### Cannabis-Infused Gummies
-

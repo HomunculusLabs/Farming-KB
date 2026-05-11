@@ -1,5 +1,5 @@
 ---
-source: Worldwide Geographical Distribution of the Neurotropic Fungi (Guzmán, Allen & Gartz, 1998)
+source: Worldwide [[psilocybe-geographical-distribution-patterns]] of the Neurotropic Fungi (Guzmán, Allen & Gartz, 1998)
 source_path: raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 tags: [mycology, biogeography, psilocybe, neurotropic-fungi, distribution]
@@ -10,7 +10,7 @@ tags: [mycology, biogeography, psilocybe, neurotropic-fungi, distribution]
 ## Overview
 
 Psilocybe semilanceata, commonly known as the "liberty cap," occupies a uniquely
-anomalous position within the biogeography of neurotropic fungi. While the
+anomalous position within the biogeography [[distribution-of-neurotropic-fungi]]. While the
 overwhelming majority of neurotropic Psilocybe species are concentrated in
 tropical and subtropical regions, P. semilanceata has achieved a genuinely
 cosmopolitan distribution across temperate latitudes worldwide. This pattern
@@ -20,7 +20,7 @@ occupied by most other species in the genus.
 ## Geographic Range
 
 According to Guzmán, Allen, and Gartz (1998), P. semilanceata is documented
-from temperate regions across an extraordinarily broad range:
+from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] across an extraordinarily broad range:
 
 - **Europe**: Widespread and abundant throughout western, central, and northern
   Europe, where it is by far the most commonly encountered and foraged
@@ -29,7 +29,7 @@ from temperate regions across an extraordinarily broad range:
   portions of the Eurasian landmass.
 - **[[psilocybin-north-america-pacific-northwest]]**: Found in Canada and the United States, particularly in the
   Pacific Northwest and other temperate zones.
-- **South America**: Present in Chile and Peru, representing a southern
+- **[[guzman-psilocybin-mushrooms-south-america]]**: Present in Chile and Peru, representing a southern
   hemisphere extension of its temperate range.
 - **Oceania**: Documented in New Zealand, Australia, and Tasmania.
 
@@ -72,7 +72,7 @@ target of annual foraging traditions across much of Europe.
 P. semilanceata contains the characteristic indole alkaloids of the
 psilocybian fungi:
 
-- **Psilocybin**: The primary psychoactive compound, a tryptamine alkaloid
+- **Psilocybin**: The primary psychoactive compound, a [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]
   phosphorylated at the 4-hydroxy position. Psilocybin is a prodrug, converted
   to psilocin upon ingestion by dephosphorylation.
 - **Baeocystin**: A related compound (4-phosphoryloxy-N-methyltryptamine) often
@@ -84,59 +84,7 @@ Ohenoja et al. (1987) demonstrated that psilocybin content in herbarium
 specimens of P. semilanceata decreases significantly with specimen age,
 reporting 0.014%, 0.67%, and 0.84% dry weight in specimens from 1869, 1954,
 and more recent collections, respectively. This degradation pattern underscores
-the importance of specimen freshness for both chemical analysis and
+the importance of specimen freshness for both [[chemical-analysis-psilocybin-mushrooms]] and
 ethnobotanical potency.
 
 ## Bluing Reaction
-
-Like many neurotropic Psilocybe species, P. semilanceata exhibits a bluing
-reaction upon bruising or handling. This blueing is caused by the oxidation of
-psilocin (the dephosphorylated, active form of psilocybin) when the mushroom
-tissue is damaged and internal cellular compartments are disrupted, exposing
-the alkaloids to atmospheric oxygen. The intensity of the bluing reaction can
-vary considerably depending on the age and moisture content of the specimen,
-and it serves as a useful field identification character, though it is not
-exclusive to neurotropic species.
-
-## Cultural Significance
-
-P. semilanceata holds particular cultural importance in Europe, where it is the
-most commonly foraged [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. Unlike Mexico, where the
-ethnobotanical use of neurotropic fungi is deeply embedded in indigenous
-ceremonial traditions, European use of P. semilanceata appears to be largely a
-modern phenomenon driven by recreational foraging. The species' abundance,
-distinctive appearance (with its characteristic conical, bell-shaped pileus and
-prominent separable pellicle), and reliability of occurrence in autumn pastures
-have made it the most widely recognized and collected psilocybin mushroom
-across the continent.
-
-## Comparison with Tropical/Subtropical Species
-
-The temperate cosmopolitan distribution of P. semilanceata contrasts sharply
-with the biogeographic pattern exhibited by most other neurotropic Psilocybe
-species:
-
-- **Tropical/subtropical species** (e.g., P. cubensis, P. subcubensis,
-  Copelandia cyanescens) are confined to warm regions and are typically
-  coprophilous, growing on herbivore dung.
-- **Forest-dwelling subtropical species** (the majority of Mexican taxa)
-  require mesophytic, cloud, or deciduous humid forest environments and show
-  no tolerance for temperate conditions.
-- **Temperate forest species** such as P. pelliculosa, P. silvatica, and P.
-  aztecorum are restricted to specific temperate or alpine forest habitats and
-  have relatively narrow ranges compared to P. semilanceata.
-
-The unique combination of temperate adaptation, grassland specialization, and
-cosmopolitan range makes P. semilanceata a biogeographic outlier within the
-genus and an important subject for understanding the dispersal mechanisms and
-ecological flexibility of neurotropic fungi.
-
-## See Also
-
-- Neurotropic Fungi and Vegetation Types: Mesophytic and Cloud Forest
-  Diversity
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Relationships and Trans-Pacific Disjunctions
-- Hongo's Nine Distribution Types in Neurotropic Fungi
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
-- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
-- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

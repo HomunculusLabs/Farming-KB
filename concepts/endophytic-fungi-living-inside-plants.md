@@ -16,9 +16,9 @@ type: concept
 
 # Endophytic Fungi Living Inside Plants
 
-Endophytic fungi are microorganisms that live within the tissues of living
+[[endophytic-fungi]] are microorganisms that live within the tissues of living
 plants without causing apparent disease. They inhabit the spaces between and
-within plant cells, forming symbiotic relationships that can range from
+within plant cells, forming [[fungi-in-the-environment-symbiotic-relationships]] that can range from
 mutualistic to commensal. Endophytes are found in virtually every plant
 species examined, from grasses and crop plants to forest trees, making them
 one of the most widespread yet least understood groups of fungi.
@@ -58,7 +58,7 @@ systemically through the plant.
 Endophytic fungi provide a remarkable array of benefits to their host plants.
 One of the most well-documented benefits is protection against herbivorous
 insects. Endophytes in grasses produce alkaloid compounds that are toxic or
-deterrent to insect pests, reducing grazing damage. In some cases, these
+deterrent to [[duggar-mushroom-insect-pests-and-fungal-diseases]], reducing grazing damage. In some cases, these
 compounds also protect the plant against mammalian herbivores.
 
 Endophytes can also confer resistance to plant diseases by producing
@@ -66,7 +66,7 @@ antifungal and antibacterial compounds that suppress pathogen growth. Some
 endophytes enhance plant growth by producing plant hormones such as auxins
 and gibberellins, stimulating root development and shoot growth. Others
 improve the plant's tolerance of environmental stresses including drought,
-heat, and heavy metals.
+heat, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]].
 
 ## The Siren Song of Endophytes
 
@@ -85,45 +85,6 @@ the plant exploits the fungus for its own competitive advantage.
 ## Ecological Significance
 
 Endophytes contribute significantly to the structure and function of plant
-communities. In grassland ecosystems, endophyte-infected grasses can be more
+communities. In [[biodiversity-fungi-grassland-ecosystems]], endophyte-infected grasses can be more
 competitive, more resistant to herbivory, and more tolerant of environmental
 stress than uninfected individuals. This can shift the species composition
-of plant communities and affect the animals that depend on them.
-
-The diversity of endophytic [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] forests is particularly
-striking. Individual tropical trees can harbor hundreds of endophyte species
-in their leaves alone. The total number of endophyte species worldwide has
-been estimated at over one million, suggesting that endophytes represent one
-of the largest reservoirs of [[biodiversity-fungal-biodiversity-estimation-methods]] on the planet.
-
-## Agricultural Applications
-
-The protective effects of endophytes have been exploited in agriculture.
-Endophyte-infected varieties of tall fescue and perennial ryegrass are widely
-planted as forage and turf grasses because of their enhanced [[cannabis-disease-pest-resistance-breeding-clarke]]
-and [[fungal-lichen-stress-tolerance-and-poikilohydry]]. However, some endophyte strains produce alkaloids that
-are toxic to livestock, causing syndromes such as fescue toxicosis in cattle
-and ergot-like symptoms in sheep.
-
-Efforts are underway to develop "friendly" endophyte strains that provide
-pest protection without producing animal toxins. This approach represents a
-promising alternative to chemical pesticides in sustainable agriculture.
-
-## Horizontal Transmission
-
-Unlike clavicipitaceous endophytes, which are passed from parent to offspring
-through seeds, many endophytes are acquired from the environment through
-horizontal transmission. Spores released from [[brassinosteroid-fungal-fruiting-body-morphology]] bodies on dead
-plant material are carried by wind or rain to new host plants, where they
-penetrate leaves or stems through stomata, wounds, or direct hyphal invasion.
-
-The diversity of horizontally transmitted endophytes in a given plant species
-reflects the local fungal species pool and the environmental conditions
-favoring colonization. Tropical forests, with their warm, moist conditions
-and enormous plant diversity, support the richest endophyte communities.
-
-## See Also
-
-- [[lichen-symbiosis-fungi-algae-partnership]]
-- [[ergot-fungi-and-ergotism-claviceps-purpurea]]
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]

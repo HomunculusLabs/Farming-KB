@@ -12,7 +12,7 @@ sources:
   - McRorie JW, McKeown NM. (2017). "Understanding the Physics of Functional Fibers in the Gastrointestinal Tract." Advances in Nutrition, 8(3), 389-399.
   - Jalili T. et al. (2019). "The Effect of Psyllium on Type 2 Diabetes." Nutrition Reviews, 77(3), 179-188.
   - Zafar MI et al. (2019). "Impact of Over-the-Counter Psyllium Fiber Supplementation on Body Weight." Nutrition, 60, 123-131.
-  - FDA. (1998). "Health Claim: Soluble Fiber from Certain Foods and Risk of Coronary Heart Disease." Federal Register, 63, 8103-8121.
+  - FDA. (1998). "Health Claim: Soluble Fiber from Certain Foods and Risk of Coronary [[blesching-cannabis-cardiovascular-heart-disease-evidence-review]]." Federal Register, 63, 8103-8121.
   - Kirtikar KR, Basu BD. (1918). "Indian Medicinal Plants." Periodical Experts Book Agency.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 The species is native to the Mediterranean region and western Asia but is now grown commercially on a large scale in India, which produces approximately 85% of the world supply. Psyllium husk is the active ingredient in widely used bulk-forming laxatives and fiber supplements.
 
-Psyllium received the first FDA-approved health claim for a food substance in 1998, linking soluble fiber from psyllium husk to reduced risk of coronary heart disease. It is also prescribed for constipation, irritable bowel syndrome, and glycemic control in type 2 diabetes.
+Psyllium received the first FDA-approved health claim for a food substance in 1998, linking soluble fiber from psyllium husk to reduced risk of coronary [[blesching-cannabis-heart-disease]]. It is also prescribed for constipation, [[blesching-cannabis-irritable-bowel-syndrome]], and glycemic control in type 2 diabetes.
 
 ## Taxonomy and Morphology
 
@@ -46,21 +46,21 @@ Seed color ranges from pale pinkish-brown to reddish-brown at maturity. The muci
 
 The plant thrives in well-drained, light-textured soils with low to moderate fertility. It is drought-tolerant once established but performs best with supplemental irrigation during the flowering and seed-filling stages.
 
-Optimal growing temperatures range from 15–25°C during vegetative growth and 20–30°C during flowering and seed set. The species is sensitive to waterlogging and frost, which limit its cultivation to regions with dry winters and warm springs.
+Optimal growing temperatures range from 15–25°C during [[cannabis-vegetative-growth-stage]] and 20–30°C during flowering and seed set. The species is sensitive to waterlogging and frost, which limit its cultivation to regions with dry winters and warm springs.
 
 Soil pH tolerance is broad, ranging from slightly acidic (pH 6.0) to moderately alkaline (pH 8.5). Sandy loam and loamy sand soils are preferred, though the plant can establish on heavier soils if drainage is adequate.
 
 Major commercial cultivation occurs in the Indian states of Gujarat and Rajasthan, where the species has been grown for centuries. Smaller commercial operations exist in Pakistan, Iran, and parts of the former Soviet Union.
 
-The species has been introduced to other arid regions for trial cultivation, including the southwestern United States and Australia. Results have been mixed, as psyllium requires specific day-length and temperature conditions for optimal seed production.
+The species has been introduced to other [[fukuoka-natural-farming-in-arid-regions]] for trial cultivation, including the southwestern [[dmt-containing-plants-united-states-halpern]] and Australia. Results have been mixed, as psyllium requires specific day-length and temperature conditions for optimal [[cannabis-controlled-pollination-seed-production]].
 
-Wild populations have declined in parts of the native range due to habitat conversion and overharvesting. Conservation efforts focus on maintaining genetic diversity in wild accessions, which may contain valuable traits for crop improvement.
+Wild populations have declined in parts of the native range due to habitat conversion and overharvesting. Conservation efforts focus on maintaining [[biodiversity-fungal-genetic-diversity]] in wild accessions, which may contain valuable traits for crop improvement.
 
 ## Cultivation and Uses
 
-Psyllium is typically direct-seeded in autumn (October–November) in India, with harvest occurring in March–April of the following year. Seed rate is approximately 5–8 kg per hectare, with row spacing of 25–30 cm.
+Psyllium is typically direct-seeded in autumn (October–November) in India, with harvest occurring in March–April of the following year. Seed rate is approximately 5–8 kg per hectare, with [[wide-row-spacing-intensive-gardening-comparison]] of 25–30 cm.
 
-The crop requires minimal fertilization, with typical applications of 20–30 kg nitrogen per hectare. Excessive nitrogen promotes vegetative growth at the expense of seed yield. Irrigation is applied at sowing and during the reproductive phase.
+The crop requires minimal fertilization, with typical applications of 20–30 kg nitrogen per hectare. Excessive nitrogen promotes [[green-cannabis-vegetative-growth]] at the expense of seed yield. Irrigation is applied at sowing and during the reproductive phase.
 
 Harvest is timed when the lower leaves begin to yellow and seed capsules turn brown. Plants are cut close to the ground, dried in the field, and threshed mechanically. The seed husks are separated through milling, grinding, and sieving operations.
 
@@ -84,37 +84,6 @@ Psyllium husk consists of approximately 85% dietary fiber, of which roughly 70�
 
 The gel-forming property of psyllium derives from the mucilage in the seed husk. Upon hydration, this mucilage forms a viscous, gel-like matrix that resists digestion in the small intestine and undergoes partial fermentation by colonic bacteria.
 
-Clinical trials demonstrate that daily intake of 5–10 g of psyllium soluble fiber significantly reduces total cholesterol (5–10%) and LDL cholesterol (7–15%) in hypercholesterolemic adults. The mechanism involves increased bile acid excretion and short-chain fatty acid production.
+[[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] demonstrate that daily intake of 5–10 g of psyllium soluble fiber significantly reduces total cholesterol (5–10%) and LDL cholesterol (7–15%) in hypercholesterolemic adults. The mechanism involves increased bile acid excretion and short-chain fatty [[staycare-fungal-organic-acid-production-metal-leaching]].
 
 Psyllium improves glycemic control by slowing gastric emptying and reducing postprandial glucose absorption. Meta-analyses show significant reductions in fasting blood glucose and HbA1c in type 2 diabetic patients supplementing with 5–15 g daily.
-
-As a bulk-forming laxative, psyllium increases stool mass and water content by absorbing water in the intestinal lumen. It is effective for both constipation and chronic diarrhea, normalizing transit time in either direction.
-
-The fermentation of psyllium fiber by colonic microbiota produces short-chain fatty acids, primarily butyrate, propionate, and acetate. Butyrate serves as the primary energy source for colonocytes and has been associated with anti-inflammatory effects in the gut epithelium.
-
-Psyllium supplementation may support weight management through mechanisms including increased satiety, delayed gastric emptying, and reduced energy density of the diet. Clinical evidence for weight loss is modest but consistent across multiple trials.
-
-## Ecological Role
-
-*Plantago ovata* provides food for several insect species, including seed-feeding weevils and leaf-mining flies. The flowers are visited by small bees and flies that collect pollen, though the plant is primarily wind-pollinated.
-
-Common pests in cultivation include aphids, whiteflies, and the psyllium weevil, which can reduce seed yields by 10–20% if uncontrolled. Integrated pest management strategies emphasize biological control agents and minimal pesticide application.
-
-As a pioneer species on disturbed and sandy soils, psyllium contributes to soil stabilization in arid and semi-arid environments. Its shallow root system helps prevent surface erosion during light rainfall events.
-
-The species has low allelopathic potential and does not exhibit invasive behavior outside its native and cultivated range. It is considered an environmentally benign crop with relatively low pesticide and fertilizer requirements compared to other cultivated species.
-
-Crop rotation with legumes or cereals helps maintain soil health and breaks potential pest cycles. In India, psyllium is often rotated with castor, cumin, or mustard, providing economic diversification for smallholder farmers.
-
-The post-harvest residue, consisting of stalks and chaff, is sometimes used as animal fodder or incorporated back into the soil as green manure. The low lignin content of the residue allows for relatively rapid decomposition.
-
-## See Also
-
-- [[plantago-major]]
-- [[plantago-lanceolata]]
-- [[taraxacum-officinale]]
-- [[glycyrrhiza-glabra]]
-- [[calendula-officinalis]]
-- [[matricaria-chamomilla]]
-- [[achillea-millefolium]]
-- [[arctostaphylos-uva-ursi]]

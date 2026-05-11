@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Imleria badia, the bay bolete, is an edible ectomycorrhizal mushroom in
+Imleria badia, the bay bolete, is an edible [[ectomycorrhizal-mushroom-fruiting-ecology]] in
 Boletaceae, widely distributed across temperate forests of Europe, Asia, and
 [[psilocybin-north-america-pacific-northwest]]. It fruits from mid-summer through late autumn beneath conifers
 and hardwoods, and remains one of the most commonly collected wild edible
@@ -53,11 +53,11 @@ olive-brown. Flesh bluing faintly; taste mild, odor pleasant.
 ## Distribution and Habitat
 
 Broad circumboreal distribution: Europe, Asia (China, Japan, Korea), and
-North America. One of the most common boletes in Europe, from Scandinavia
+[[guzman-psilocybin-mushrooms-north-america]]. One of the most common boletes in Europe, from Scandinavia
 to the Mediterranean.
 
 Strongly ectomycorrhizal, associating primarily with Scots pine (*Pinus
-sylvestris*), spruce (*Picea abies*), fir (*Abies* spp.), and also birch
+sylvestris*), spruce (*[[picea-abies]]*), fir (*Abies* spp.), and also birch
 and oak in mixed woodlands. Fruits on acidic to neutral forest soils from
 July through November, most abundantly in wet autumns following warm summers.
 
@@ -80,7 +80,7 @@ become slimy; removing them before cooking is recommended.
 - **Variegatic acid and xerocomic acid:** Pulvinic acid derivatives
   responsible for bruising color changes.
 - **Ergosterol:** Predominant sterol and provitamin D₂ precursor.
-- **Phenolic compounds:** Catechol derivatives with antioxidant activity.
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Catechol derivatives with antioxidant activity.
 - **Polysaccharides:** Beta-glucan fractions showing immunomodulatory
   activity, stimulating macrophage response in vitro.
 
@@ -88,33 +88,3 @@ become slimy; removing them before cooking is recommended.
 
 Cultivation remains challenging due to obligate ectomycorrhizal lifestyle.
 Cannot be grown on sterile substrate like saprotrophic species.
-
-Nursery inoculation of *Pinus sylvestris* seedlings has shown limited
-success, with the most promising approach being field planting of
-mycorrhizal seedlings. Yields are inconsistent and all commercial supply
-comes from [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]], primarily in eastern Europe.
-
-## Ecological Role
-
-As an ectomycorrhizal species, I. badia facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] —
-particularly phosphorus and nitrogen — between soil and host plants through
-its [[gadd-mycelial-network-dynamics]].
-
-It shows moderate heavy [[fungal-metal-tolerance-mechanisms]] and has been studied as a
-bioindicator for forest soil contamination. It accumulates cesium-137 from
-radioactive fallout, useful for monitoring Chernobyl-affected regions.
-
-## Related Species
-
-- **Imleria heteroclita:** Darker, almost blackish stipe base, more
-  pronounced blueing. Found under spruce.
-- **Xerocomus subtomentosus:** Yellow-pored, less blueing, suede-like cap.
-- **Boletus edulis:** Larger, white non-blueing pores, reticulate stipe.
-- **Suillus luteus:** Prominent stipe ring, slimy cap surface.
-
-## See Also
-
-- [[suillus-luteus]]
-- [[trametes-versicolor-entity]]
-- [[laricifomes-officinalis]]
-- [[fomitopsis-pinicola]]

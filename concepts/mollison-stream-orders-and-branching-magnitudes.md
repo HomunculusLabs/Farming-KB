@@ -2,13 +2,14 @@
 title: mollison stream orders and branching magnitudes and Branching Magnitudes
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - water
   - pattern-understanding
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,56 +88,8 @@ shapes:
 
 - In the rills and runnels (orders 1-2): turbulent flow is observed.
   Insects and fish with suctorial parts able to stick on rocks,
-  flattened fins, flattened bodies and very streamlined profiles
-  inhabit these high-gradient reaches.
-
-- In the middle orders (3-4): less turbulent water flow, more
-  spiralling, less oxygenation, and more free-swimming but very
-  active fish of high oxygen demand; these may not live in the
-  still water of higher order streams.
-
-- In the lower stream or estuaries (orders 5-6): weak swimmers,
-  less streamlined shapes, flat fish such as flounders, bulky
-  molluscs, jellyfish in quiet areas and lower oxygen levels.
-
-Thus, gaseous exchange is affected by turbulent flow, and that in
-turn determines the life forms in these areas.
-
-## Application to Permaculture Design
-
-The ordering principle applies beyond streams to all branching systems:
-
-- **Tree architecture**: Birds and insects are confined to, or
-  modified to suit, the orders of branching in a tree canopy. Each
-  species occupies a specific niche within the branching hierarchy.
-
-- **Pathway design**: Main roads (order 5-6) lead to farm tracks
-  (order 3-4), which lead to garden paths and foot tracks (order
-  1-2). The same 3:1 and 2:1 ratios can inform the layout of access
-  networks across a property.
-
-- **Water distribution**: Supply channels, [[mollison-designers-diversion-drains-and-interceptor-banks]], swales,
-  and field channels form a branching hierarchy. Understanding the
-  order of each helps determine appropriate flow rates, widths,
-  and maintenance strategies.
-
-- **Planting design**: The transition from pioneer to climax species
-  mirrors the progression from small, numerous, rapidly-changing
-  elements to fewer, larger, more stable elements.
-
-## Equilibrium and Change
-
-Unless stream conditions themselves change (by a process of stream
-capture, an increase in rainfall, or a change in landscape), streams
-maintain an equilibrium of order. This principle of self-regulating
-equilibrium in branching systems is a model for stable permaculture
-designs that can absorb disturbance without structural failure.
 
 ## See Also
-
-- [[mollison-water-harvesting-management-permaculture]]
-- mollison-pdc-swale-design-water-harvesting
-- mollison-dam-types-landscape-placement
-- [[permaculture-design]]
-- [[mollison-fractals-branching-and-conduit-design]]
 - [[mollison-classification-of-events-and-orders-in-design]]
+- [[mollison-fractals-branching-and-conduit-design]]
+- [[mollison-avenue-cropping-with-legumes]]

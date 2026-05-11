@@ -30,12 +30,12 @@ from Canada to Mexico across prairies, open woodlands, and meadows.
 
 The plant is valued for its showy lavender-to-pink flower heads, aromatic foliage,
 and exceptional attractiveness to pollinators. Despite the common name "wild
-bergamot," it is unrelated to the bergamot orange (Citrus bergamia) used to flavor
+bergamot," it is unrelated to the bergamot orange ([[citrus-bergamia]]) used to flavor
 Earl Grey tea, though the leaf scent is reminiscent.
 
-M. fistulosa has a long history of use by Indigenous peoples of North America for
+M. fistulosa has a long history of use by Indigenous peoples [[berry-growing]] for
 medicinal, culinary, and ceremonial purposes. It remains widely used in herbal
-medicine and is a staple in native plant gardens and ecological restoration.
+medicine and is a staple in native plant gardens and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## Taxonomy and Morphology
 
@@ -72,7 +72,7 @@ Several varieties are recognized: var. menthifolia (western), var. fistulosa
 ## Bioactive Compounds
 
 The [[permaculture-designers-manual-essential-oil-plants]] of M. fistulosa contains a complex mixture of monoterpenes and
-phenolic compounds:
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:
 
 - **Thymol:** Primary antimicrobial constituent (20–60% of essential oil depending
   on chemotype).
@@ -88,55 +88,3 @@ produce oils dominated by different constituents (thymol, carvacrol, or geraniol
 chemotypes).
 
 ## Traditional and Modern Medicinal Use
-
-Indigenous peoples used M. fistulosa extensively. The Ojibwe used leaf tea for
-colds, coughs, and fever. The Blackfoot applied poultices to skin infections. The
-Menominee used it as a carminative and for gastric complaints.
-
-Modern herbal use focuses on respiratory support (expectorant tea for coughs and
-bronchitis), digestive aid (carminative and antispasmodic), topical application
-(poultices for wounds and insect bites), and mild anxiolytic effects attributed
-to linalool content.
-
-## Cultivation
-
-M. fistulosa is easily cultivated from seed, cuttings, or division. Seeds require
-cold stratification (30–60 days at 4°C). Light: full sun. Soil: well-drained,
-pH 6.0–8.0. Water: low to moderate; drought-tolerant once established. Hardiness:
-USDA Zones 3–9. Spacing: 45–60 cm apart.
-
-Plants bloom in the second year. Deadheading extends bloom period. Division every
-3–4 years maintains vigor. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
-
-## Permaculture and Ecological Applications
-
-M. fistulosa is one of the most valuable native plants for pollinator support,
-attracting bees, butterflies, hummingbirds, and moths. It is a host plant for the
-hermit sphinx moth (Sphinx eremitus) and several specialist bee species.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], wild bergamot serves multiple functions:
-
-- **Pollinator support:** Blooms during the mid-summer pollinator gap.
-- **[[nutrient-dynamic-accumulator-reference]]:** Deep taproot mines subsoil minerals; leaf mulch returns
-  nutrients to surface soil.
-- **Herb layer:** Fits well in food forest understories and guild plantings.
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Rhizomatous roots stabilize soil on slopes.
-- **Medicinal yield:** Aerial parts harvested 2–3 times per season for tea and
-  medicine.
-
-## Culinary Use
-
-Leaves and flowers are edible with a minty, oregano-like flavor. Fresh leaves are
-used in salads and cooked dishes; dried leaves retain flavor year-round. The
-flowers serve as garnishes. The aromatic tea is often used as an Earl Grey
-substitute.
-
-## See Also
-
-- [[pseudofistulina-fistulosa]]
-
-- [[cymbopogon-citratus]]
-- [[leonurus-cardiaca-entity]]
-- solidago canadensis
-- [[echinacea-purpurea]]
-- [[inonotus-obliquus]]

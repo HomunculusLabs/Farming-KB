@@ -19,7 +19,7 @@ sources:
   - Canel, C., et al. (2000). "Podophyllotoxin." Phytochemistry, 54(2), 115-120.
   - Imbert, C. (1998). "Discovering podophyllotoxins." Biochimie, 80(3), 207-222.
   - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
-  - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the lloyd-library|Lloyd Library, 10.
+  - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the lloyd-library|[[lloyd-library]], 10.
 ---
 
 # Podophyllum peltatum
@@ -55,7 +55,7 @@ The genus name refers to the foot-like appearance of the leaves (Greek *pous* = 
 
 ## Distribution and Habitat
 
-*P. peltatum* is native to **eastern North America**, ranging from southern Ontario and Quebec west to Minnesota and south to Texas and Florida. It is absent from the Great Plains and the arid Southwest.
+*P. peltatum* is native to **eastern [[guzman-psilocybin-mushrooms-north-america]]**, ranging from southern Ontario and Quebec west to Minnesota and south to Texas and Florida. It is absent from the Great Plains and the arid Southwest.
 
 The species is characteristic of **deciduous forest understories**, particularly in rich, moist, well-drained soils with high [[hamilton-composting-and-organic-matter-management]] content.
 It thrives in partial to full shade and is one of the dominant herbaceous species in many eastern deciduous forest communities.
@@ -75,11 +75,11 @@ This mechanism makes it a valuable lead compound for anticancer drug development
 - **α-Peltatin and β-peltatin:** 0.1–0.4% — structural analogues with similar activity
 - **4'-Demethylpodophyllotoxin:** Minor constituent
 - **Deoxypodophyllotoxin:** Trace amounts
-- **Quercetin and [[kaempferol|kaempferol]] glycosides:** Flavonoid constituents
+- **Quercetin and [[kaempferol]] glycosides:** Flavonoid constituents
 
 Podophyllotoxin itself is too toxic for systemic use but serves as the chemical precursor for three important semi-synthetic anticancer drugs:
 
-**Etoposide (VP-16):** Used in treatment of small-cell lung cancer, testicular cancer, lymphomas, and Kaposi's sarcoma.
+**Etoposide (VP-16):** Used in treatment of small-cell [[blesching-cannabis-lung-cancer]], testicular cancer, lymphomas, and Kaposi's sarcoma.
 Acts by stabilizing topoisomerase II-DNA cleavage complexes, preventing DNA religation.
 
 **Teniposide (VM-26):** Used primarily in childhood acute lymphoblastic leukemia. Similar mechanism to etoposide but with different pharmacokinetic properties.
@@ -87,32 +87,3 @@ Acts by stabilizing topoisomerase II-DNA cleavage complexes, preventing DNA reli
 **Etoposide phosphate:** Water-soluble prodrug of etoposide for intravenous administration.
 
 Topically, purified podophyllotoxin (0.5% solution or gel, marketed as Condylox) is used to treat genital warts caused by human papillomavirus (HPV), functioning through local cytotoxic effects on rapidly dividing keratinocytes.
-
-The demand for podophyllotoxin for drug manufacturing has led to overharvesting of wild *P. peltatum* populations in some areas, driving research into alternative production via plant cell culture and metabolic engineering in *Linum* (flax) species.
-
-## Ethnobotanical Use
-
-**Native American medicine:** The rhizome was one of the most widely used medicinal plants among eastern Native American tribes, employed as a powerful emetic, cathartic (laxative), and anthelmintic. The Cherokee used it for deafness, the Iroquois as a liver tonic, and the Penobscot as an anticonstipation remedy. Nearly every eastern tribe recognized its purgative properties.
-
-**19th-century medicine:** Podophyllin resin (a crude alcoholic extract of the rhizome) was an official drug in the [[dmt-containing-plants-united-states-halpern]] Pharmacopeia from 1820 to 1942 and in the National Formulary from 1942 to 1960. It was prescribed as a cholagogue (stimulates bile flow) and cathartic, though its use declined due to narrow [[cannabis-therapeutic-index-overview]] and severe toxicity at excessive doses.
-
-**Modern use:** Limited to purified podophyllotoxin preparations for topical HPV treatment and as a source material for semi-synthetic anticancer drug production.
-The crude resin is no longer used systemically. Wild harvesting has declined substantially due to conservation concerns and the development of alternative production methods.
-
-## Cultivation and Permaculture
-
-*P. peltatum* can be cultivated from rhizome divisions or seed, though [[cannabis-seed-germination-methods]] requires a prolonged cold stratification period (3–6 months at 4°C) followed by warm stratification. Plants propagated from seed typically require 3–5 years to reach flowering maturity.
-
-In permaculture and forest garden designs, mayapple serves as a **shade-tolerant ground cover** for the herbaceous layer beneath deciduous canopy trees.
-Its spreading rhizomatous habit allows it to form dense colonies that suppress weeds, and its early spring emergence captures light before canopy leaf-out.
-
-The species is low-maintenance once established, requiring only adequate moisture and dappled shade. It tolerates a wide range of soil types provided drainage is adequate. It is relatively pest-free, though slugs may damage emerging shoots.
-
-**Caution:** The plant's toxicity to humans and livestock should be considered when placing it in gardens accessible to children or animals. Only the fully ripe fruit should be consumed, and even then in moderation.
-
-## See Also
-
-- [[colchicine]] — Another plant-derived antimitotic compound from autumn crocus
-- [[atropa-belladonna]] — Deadly nightshade, a toxic medicinal plant with parallel ethnobotanical significance
-- permaculture — Design framework integrating mayapple as a forest garden understory species
-- resveratrol — A stilbenoid compound from unrelated plants, contrasts podophyllotoxin's lignan biosynthetic pathway

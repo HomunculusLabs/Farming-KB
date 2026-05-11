@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Chen, W. et al. (2013). \"Pharmacological effects of camphor.\" Evidence-Based Complementary and Alternative Medicine, 2013, 1–8."
-  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific Publishers."
   - "De Sousa, D.P. (2011). \"Analgesic-like activity of camphor.\" Revista Brasileira de Farmacognosia, 21(5), 847–852."
   - "Sullivan, J.B. et al. (2000). \"Camphor poisoning: a persistent problem.\" Journal of Toxicology: Clinical Toxicology, 38(1), 57–60."
@@ -69,7 +69,7 @@ Camphor produces multiple pharmacological effects through several receptor syste
 - High doses: generalized CNS depression, seizures (dose-dependent biphasic effect)
 
 **Antimicrobial activity:**
-- Active against Gram-positive bacteria (*Staphylococcus aureus*, *[[candida-albicans]]* and dermatophytes
+- Active against Gram-positive bacteria (*[[staphylococcus-aureus]]*, *[[candida-albicans]]* and dermatophytes
 - Insecticidal and moth-repellent properties (basis of naphthalene replacement)
 
 **Topical effects:**
@@ -85,61 +85,6 @@ exceeding 11% camphor are restricted in many jurisdictions.
 
 **Primary [[dmt-botanical-sources-pharmacology]]:**
 - *Cinnamomum camphora* (Lauraceae) — the classical camphor tree, native to
-  East Asia; wood contains 1–3% camphor by dry weight in old trees
+  [[neurotropic-fungi-japan-east-asia-species-cultural-context]]; wood contains 1–3% camphor by dry weight in old trees
 - *Dryobalanops aromatica* (Dipterocarpaceae) — Borneo camphor tree; source of
   (+)-camphor enantiomer, historically traded as "Borneo camphor"
-- *Blumea balsamifera* (Asteraceae) — sambong; leaves contain 0.5–2% camphor
-- *[[rosmarinus-officinalis-entity]]* (Lamiaceae) — rosemary; camphor is a significant
-  component (5–15%) of rosemary [[permaculture-designers-manual-essential-oil-plants]]
-
-**Biosynthesis:** Camphor is synthesized via the mevalonate pathway (MVA) from
-geranyl pyrophosphate (GPP). GPP undergoes cyclization to bornyl pyrophosphate,
-catalyzed by bornyl diphosphate synthase. Subsequent hydrolysis and oxidation
-by bornyl diphosphate dehydrogenase yields camphor. The stereospecificity of
-the cyclase determines enantiomeric outcome.
-
-**Industrial production:** Historically extracted by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of
-camphor tree wood. Synthetic camphor has been produced from α-pinene since the
-early 20th century via isoborneol rearrangement. Synthetic camphor is racemic
-and constitutes the majority of commercial supply.
-
-## Toxicology and Safety
-
-Camphor poisoning has been recognized since antiquity. The clinical presentation
-progresses through stages:
-
-1. **Gastrointestinal:** Nausea, vomiting, epigastric burning (onset 5–20 min)
-2. **Neurological:** Confusion, agitation, muscle twitching, hyperreflexia
-3. **Seizure phase:** Generalized tonic-clonic seizures, typically within 90 min
-4. **Depression phase:** Postictal coma, respiratory depression, cardiovascular collapse
-
-There is no specific antidote. Treatment is supportive: activated charcoal if
-presentation is early, benzodiazepines for seizure control, and intensive
-monitoring. Case fatality rates in untreated severe poisoning approach 10–20%.
-
-Pediatric poisoning risk is the primary safety concern driving modern regulatory
-restrictions. The FDA requires childproof packaging and limits camphor content
-in over-the-counter products to 11%. Products containing camphor must carry
-explicit warnings against use in children under 2 years.
-
-## Historical and Regulatory Status
-
-Camphor was one of the earliest commodities in the spice trade between East
-Asia, [[psilocybe-southeast-asia-pacific]], and the Arab world. Chinese records of camphor use date
-to the 6th century CE, though its medicinal application likely predates written
-records. Japanese *kimpō* (金箔) and *kappō* (甘露) traditions employed camphor
-extensively in incense, medicine, and wood preservation.
-
-**Modern regulatory status:**
-- **United States:** GRAS status as a food flavoring at low concentrations;
-  OTC topical drug (FDA monograph); restricted in products for young children
-- **European Union:** Permitted as food flavoring (E 902); limited in cosmetics
-  to concentrations below 0.5% in leave-on products
-- **Japan:** Widely used in OTC preparations; traditional kampo formulations
-  include camphor-containing herbs
-- **India:** Common component of Ayurvedic formulations (as *karpoora*);
-  used in religious ceremonies and household [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-## See Also
-
-- [[thujone]] — Monoterpene ketone with GABA_A antagonism; comparison of
-  biphasic neurotoxicity profiles

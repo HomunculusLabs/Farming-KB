@@ -19,7 +19,7 @@ sources: []
 
 ## Psychoactive and Toxic Constituents
 
-Some collections of *I. crocata* have been reported to contain trace amounts of [[psilocin]], placing it among the minority of Inocybe species with psychoactive properties. However, the concentrations are generally low and unreliable. Far more significantly, *I. crocata* — like most species in the genus — contains substantial quantities of [[amanita-muscaria-entity]], muscarine is not substantially degraded by cooking or drying.
+Some collections of *I. crocata* have been reported to contain trace amounts of [[psilocin]], placing it among the minority of Inocybe species with psychoactive properties. However, the concentrations are generally low and unreliable. Far more significantly, *I. crocata* — like most species in the genus — contains substantial quantities of [[amanita-muscaria]], muscarine is not substantially degraded by cooking or drying.
 
 ## Identification Warnings and Risks
 
@@ -87,33 +87,3 @@ and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
 than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-
-- [[inocybe-longicystis]]
-- [[inocybe-erubescens]]
-- [[inocybe-rimosa]]

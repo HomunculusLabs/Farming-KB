@@ -88,34 +88,3 @@ Once established, Chinese privet reduces light availability to the forest floor 
 Leaf litter from Chinese privet has been shown to alter soil chemistry and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. The litter decomposes more rapidly than that of many native species, potentially accelerating nutrient turnover and favoring further invasion by other non-native plant species.
 
 The allelopathic potential of Chinese privet has been investigated with mixed results. Some studies suggest that leaf extracts inhibit germination of certain native plant species, though the ecological significance of this effect under field conditions remains debated.
-
-White-tailed deer browsing patterns are altered in privet-invaded forests. Deer tend to avoid privet foliage in favor of native plants, which can amplify the competitive advantage of privet by selectively removing its native competitors.
-
-## Management and Control
-
-Effective management of Chinese privet infestations typically requires an integrated approach combining mechanical, chemical, and cultural methods. Single-method treatments are rarely sufficient due to the species' extensive root system and abundant seed bank.
-
-Mechanical control by cutting or mowing is effective only when combined with herbicide treatment of cut stumps. Untreated stumps rapidly resprout, often producing denser regrowth than the original plant. Foliar herbicide application during the growing season provides effective control of smaller plants.
-
-Prescribed fire has shown mixed effectiveness. Low-intensity fires top-kill the shrub but do not control root crowns, leading to vigorous resprouting. Repeated burning over multiple years can gradually reduce privet dominance but is rarely practical as a standalone strategy.
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents have been investigated but none have been approved for release in the United States. The risk of affecting native *Ligustrum* species and other Oleaceae has limited the development of biological control programs for this species.
-
-Long-term management requires monitoring and follow-up treatment for at least 3–5 years after initial control. The persistent soil seed bank can produce new seedlings for several years, necessitating sustained vigilance to prevent re-establishment.
-
-Restoration of native plant communities after privet removal often requires active replanting. Native shrubs and herbaceous species may be slow to recolonize treated areas, particularly where the soil seed bank has been depleted during the invasion period.
-
-Collaborative management efforts across property boundaries are essential for effective regional control. Chinese privet does not respect property lines, and reinfestation from untreated neighboring parcels can undermine control efforts on managed lands.
-
-## See Also
-
-- [[ligustrum-vulgare]]
-- [[lonicera-japonica]]
-- [[elaeagnus-umbellata]]
-- [[ailanthus-altissima]]
-- [[pueraria-montana]]
-- [[olea-europaea]]
-- [[syringa-vulgaris]]
-- [[forsythia-suspensa]]
-- [[ilex-opaca]]
-- [[cornus-florida]]

@@ -11,7 +11,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 ## Overview
 
-This guide draws from "Permaculture Plants: A Selection" to provide an introduction to selecting plants for permaculture systems. The book serves as a resource list to help permaculture practitioners reduce time spent searching through volumes of material, allowing more time for planning and planting [[multi-purpose-trees]].
+This guide draws from "Permaculture Plants: A Selection" to provide an introduction to selecting plants for permaculture systems. The book serves as a resource list to help permaculture practitioners reduce time spent searching through volumes of material, allowing more time for planning and planting.
 
 ## The Scope of Permaculture Species
 
@@ -27,7 +27,7 @@ The fundamental principle separating permaculture from other methods of providin
 - Every function should be supported by **many elements**
 - Every action should achieve **many results**
 
-When designing, first consider house sites (sun-facing slopes in cooler climates, gravity-fed water, economical access, site repair). Then overlay zones and sectors.
+When designing, first consider house sites (sun-facing slopes in cooler climates, gravity-fed water, economical access, site repair). Then overlay [[permaculture-beginners-guide-zones-and-sectors]].
 
 ## Selecting Species for a Site
 
@@ -35,10 +35,29 @@ Not all species suit a particular site. The primary concern when fitting a speci
 
 Given the changing global climate, it is reasonable to include species that will survive the current climate but may excel if conditions shift.
 
+## Practical Applications
+
+- **Food forests**: Layer nitrogen-fixers (tagasaste, black locust) beneath
+  canopy trees to build soil while producing fodder and mulch material.
+- **Windbreaks**: Use multi-row plantings with dense shrubs (sea buckthorn,
+  eleagnus) and tall trees (poplar, alder) to deflect wind across zones.
+- **[[permaculture-designers-manual-animal-forage-systems]]**: Plant fodder trees (mulberry, persimmon, carob)
+  that drop fruit over extended seasons, reducing supplementary feed costs.
+- **[[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]**: Combine deep-rooted perennials with spreading ground
+  covers (comfrey, clover) to hold banks and build humus simultaneously.
+
+## Key Species Categories
+
+- **Nitrogen fixers**: Acacia, tagasaste, Siberian pea tree, clover, alfalfa
+- **Multipurpose trees**: Black locust (timber + nitrogen + bee forage),
+  chestnut (food + timber + mulch), willow (basketry + windbreak + fodder)
+- **Ground covers**: Creeping thyme, strawberries, clover, nasturtium
+- **Climbing layers**: Kiwi, grapes, hops, passionfruit, chayote
+
 ## Propagating Plants
 
 ### Seeds
-The cheapest and sometimes only way to access a species. Plants from seed are generally variable; selective breeding or vegetative propagation (cuttings, grafting, budding) can select the best specimens.
+The cheapest and sometimes only way to access a species. Plants from seed are generally variable; selective breeding or [[hamilton-vegetative-propagation]] (cuttings, grafting, budding) can select the best specimens.
 
 Key techniques:
 - **Scarification**: filing away hard seed cases or using boiling water (e.g., carobs)
@@ -50,6 +69,14 @@ Key techniques:
 ## The Conservation Imperative
 
 The book frames permaculture plant selection as fundamentally about **conservation** -- conservation of soil, fossil fuel, human energy, species, and genotypes. The authors argue that species loss exceeds cataloguing, and that growing species in our own systems may be the only chance of saving many plants. Many domesticated fruits are now unknown in the wild.
+
+## Soil and Climate Considerations
+
+Match species to your soil pH, drainage, and frost dates. Heavy clay
+soils suit deep-rooted perennials like comfrey and artichoke. Sandy,
+well-drained sites favor [[query-best-mediterranean-herbs-for-beginner-herb-garden]], carob, and stone fruits.
+Observe which wild species thrive nearby as indicator plants for your
+local conditions.
 
 ## Related
 

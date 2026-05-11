@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Hand Watering the Garden
 
-Techniques for watering gardens with a hose and nozzle or watering can, as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all. (see [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
+Techniques for watering gardens with a hose and nozzle or watering can, as described in [[steve-solomon]]'s *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all [[maintaining-organic-matter-in-vegetable-gardens]] were grown without running water at all.
 
 ## The Fan Nozzle Method
 
@@ -30,7 +30,7 @@ The main problem with daily light watering:
 - But they become severely stunted due to lack of root development
 - Roots stay shallow, only exploring the moist surface zone
 
-This subtle moisture stress can cause significant damage without any visible wilting. (see [[solomon-drip-irrigation-limitations-home-garden]]).
+This subtle moisture stress can cause significant damage without any visible wilting.
 
 ## Soil Type Considerations
 
@@ -42,7 +42,7 @@ This subtle moisture stress can cause significant damage without any visible wil
 
 To determine when to water, dig 5-6 inches (12-15 cm) below the surface and squeeze a handful of soil into a ball (the classic ready-to-till test):
 
-- **Damp and sticks together solidly**: Soil moisture is above 70% of field capacity — no need to water
+- **Damp and sticks together solidly**: Soil moisture is above 70% of [[bulk-substrate-field-capacity]] — no need to water
 - **Firmly sticks together but breaks apart easily**: Moisture is around 70%
 - **Feels damp but won't form a ball when squeezed hard**: Moisture is around 60% — time to water
 - **Contains over 10% clay and won't form a ball**: Moisture is around 50% — vegetables are experiencing moisture stress
@@ -52,7 +52,7 @@ To determine when to water, dig 5-6 inches (12-15 cm) below the surface and sque
 
 If you are so short of water that fertigation is not possible, foliar feeding with a sprayer is the next best choice:
 
-- Mix fish emulsion and/or kelp tea at recommended dilution rates
+- Mix [[solomon-foliar-feeding-fish-emulsion-and-kelp]]/or kelp tea at recommended [[ingham-soil-drench-dilution-rates]]
 - Spray directly onto plant leaves
 - Kelp tea contains phytamins and a full range of trace mineral nutrients
 - Even a few gallons per week can make a significant difference
@@ -64,7 +64,7 @@ After seedlings have come up or been transplanted out, sprinkle them with a fine
 
 ## How Much Water Do Plants Need?
 
-Modern vegetable varieties have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
+Modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
 
 The basic plan:
 1. Maintain soil moisture above 70% of field capacity in the top foot (30 cm)

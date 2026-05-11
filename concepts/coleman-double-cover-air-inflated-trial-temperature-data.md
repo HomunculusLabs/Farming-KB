@@ -1,6 +1,6 @@
 ---
-title: coleman double cover air inflated trial temperature data Air-Inflated Plastic Trial Temperature Data
-author: Eliot Coleman
+title: Coleman Double Cover Air Inflated Trial Temperature Data
+author: [[eliot-coleman]]
 source: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook
 tags: [coleman, winter-harvest, greenhouse, double-cover, air-inflated, temperature-data, cold-house, zone-shifting]
 created: 2026-05-08
@@ -10,11 +10,11 @@ created: 2026-05-08
 
 ## Overview
 
-Eliot Coleman conducted a controlled experiment comparing single-layer and double-layer air-inflated plastic coverings on unheated greenhouses (cold houses) at Four Season Farm in Harborside, Maine (USDA Zone 5). The trial provided quantitative evidence for the temperature benefits of double covering and led to a specific operational protocol: double-covering houses used for new crop sowings from December 15 to February 15, while single covering suffices for storage crops like leeks.
+Eliot Coleman conducted a controlled experiment comparing single-layer and double-layer air-inflated plastic coverings on unheated greenhouses (cold houses) at [[coleman-four-season-farm]] in Harborside, Maine (USDA Zone 5). The trial provided quantitative evidence for the temperature benefits of double covering and led to a specific operational protocol: double-covering houses used for new crop sowings from December 15 to February 15, while single covering suffices for storage crops like leeks.
 
 ## Experimental Setup
 
-The trial used a small air-inflated house measuring 17 feet by 36 feet, with no supplemental heat. Temperature records were kept comparing this house to an identical cold house covered with a single layer of plastic. Both houses contained inner row cover layers over the crops.
+The trial used a small air-inflated house measuring 17 feet by 36 feet, with no supplemental heat. Temperature records were kept comparing this house to an identical cold house covered with a single layer of plastic. Both houses contained inner [[coleman-double-layer-protection-greenhouse-row-cover]] layers over the crops.
 
 ## Key Temperature Findings
 
@@ -54,7 +54,7 @@ Coleman acknowledged this tradeoff and developed a nuanced approach based on it.
 
 - **For new seedlings (Dec 15 - Feb 15)**: The extra warmth is more important than the light loss, since seedlings need protection during their most vulnerable stage
 - **For established crops (leeks for midwinter harvest)**: Maximum light is preferred, so single covering is used
-- **For spring crops**: Light becomes increasingly important as days lengthen and growth accelerates
+- **For [[coleman-overwintered-onions-and-early-spring-crops]]**: Light becomes increasingly important as days lengthen and growth accelerates
 
 ## The Operational Decision
 
@@ -88,32 +88,3 @@ This creates a dual benefit: more light during the day and more heat retention a
 ## Regional Recommendations
 
 Coleman provided guidance for growers in different USDA zones:
-
-| Zone | Recommendation |
-|------|---------------|
-| Zone 8-9 | [[solomon-row-covers-and-season-extension]] alone may suffice |
-| Zone 7 | Unheated houses sufficient; milder parts may need only double-covered air-inflated tunnel |
-| Zones 3-6 | Full double cover + inner row cover; specialize in hardiest crops in coldest months |
-
-Growers in Zone 7 might want a small heater in reserve for exceptional cold nights — a reasonable option that achieves protection with minimal resource use.
-
-## The Philosophy: Simplicity First
-
-Underlying all of these decisions is Coleman's consistent preference for simplicity:
-
-> "We prefer to work with systems that are inexpensive and simple."
-
-This preference for simplicity sometimes means accepting slightly lower performance in exchange for reduced complexity, cost, and potential points of failure. The double-cover decision was made only where the temperature benefit clearly outweighed the simplicity cost.
-
-Coleman also noted that if they had started with more elaborate systems, they would never have known if the simpler approach was sufficient. Starting simple and adding complexity only where needed is the prudent path.
-
-## Implications for Winter Growing
-
-The trial data demonstrates that significant winter harvest improvements are achievable with modest investments. A 4°F temperature advantage at -8°F outdoor temperatures can mean the difference between crop survival and total loss. The key insight is that protection is cumulative: each layer adds its benefit, and the combination of outer cover, air space, and inner row cover creates a microclimate that shifts the effective growing zone by approximately three USDA zones — from Zone 5 to Zone 8.
-
-## See Also
-
-- [[coleman-cold-greenhouse-double-layer-protection]] — The overall cold house concept
-- [[coleman-double-layer-protection-greenhouse-row-cover]] — Row cover options for the inner layer
-- [[coleman-double-cover-inflated-plastic-trial]] — Plastic cover [[cannabis-breeding-traits-selection-criteria-clarke]]
-- [[coleman-season-extension-timeline-and-frost-protection]] — How protection shifts effective [[mollison-climate-zones-permaculture-strategies]]

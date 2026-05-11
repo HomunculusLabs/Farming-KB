@@ -88,26 +88,3 @@ T. ludwigiana is a rare species restricted to the Drakensberg escarpment with de
 ## Landscape Applications
 
 T. violacea is widely used in xeriscaping, Mediterranean-style gardens, and water-wise landscapes due to its [[dighton-fungal-drought-tolerance-plant-water-relations]] and low maintenance requirements. It performs well as an edging plant, ground cover, or mass planting.
-
-The species is effective as a companion plant in vegetable gardens, where its alliaceous compounds may deter aphids, whiteflies, and certain soil nematodes. Interplanting with roses is a common practice in South African horticulture.
-
-Mass plantings along pathways and borders create dramatic displays of color from summer through autumn. The long flowering period (typically 3–4 months) provides sustained ornamental value. In coastal gardens, the salt tolerance of T. violacea makes it particularly valuable.
-
-## Conservation Status
-
-T. violacea is not currently considered threatened and is widespread across its native range. However, urban expansion and agricultural development have reduced populations in some coastal areas of the Western Cape.
-
-The species is protected under South Africa's National Forests Act and may not be harvested from the wild without a permit. Most commercial supply comes from cultivated sources, reducing pressure on wild populations.
-
-Several related Tulbaghia species have more restricted distributions and are classified as threatened or endangered by the South African National Biodiversity Institute. Conservation efforts for the genus focus on habitat protection and ex situ cultivation of rare species in botanical gardens.
-
-## See Also
-
-- [[allium-schoenoprasum]]
-- [[allium-ursinum]]
-- [[leonotis-leonurus]]
-- [[ocimum-basilicum]]
-- [[thymus-vulgaris-entity]]
-- [[calamintha-nepeta]]
-- [[origanum-vulgare-entity]]
-- [[satureja-hortensis]]

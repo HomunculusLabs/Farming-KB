@@ -88,26 +88,3 @@ produce new species discoveries, particularly in poorly surveyed areas.
 ## Urgency of Documentation
 
 Habitat destruction, particularly in tropical forests which harbor the
-greatest [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], is eliminating species before they can be
-described or even detected by molecular methods. [[dighton-fungi-climate-change-feedback]] is
-altering distributions and abundances, potentially driving species to
-extinction before they are known to science. The loss represents not
-just reduced biodiversity but lost genetic resources including novel
-enzymes, pharmaceuticals, and plant growth-promoting organisms. Patterns
-of [[fungal-endemism-and-biogeography]] suggest many undescribed species
-have highly restricted ranges, making them especially vulnerable.
-
-## Economic Value
-
-Undescribed fungi represent an enormous reservoir of unexplored
-biological and economic value. Fungi have already provided antibiotics
-(penicillin), immunosuppressants (cyclosporine), and industrial
-enzymes. Given the vast majority remain undescribed, many more valuable
-compounds await discovery. Fungal enzymes from extremophilic species are
-particularly promising for biotechnology applications.
-
-## See Also
-
-- [[cryptic-fungal-species]]
-- [[fungal-endemism-and-biogeography]]
-- [[fungal-taxonomic-impediment]]

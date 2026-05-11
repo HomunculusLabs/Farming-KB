@@ -5,7 +5,7 @@ tags:
   - cucurbitaceae
   - medicinal-plant
   - edible-plant
-  - permaculture
+  - [[permaculture]]
   - anti-diabetic
   - tropical
 date: 2026-04-28
@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Raman, A. & Lau, C. (1996). "Anti-diabetic properties and phytochemistry of Momordica charantia." Phytomedicine, 2(4), 349–362.
   - Tan, M.J. et al. (2008). "Antidiabetic activities of the bitter gourd Momordica charantia." British Journal of Pharmacology, 154(7), 1316–1328.
-  - NTBG (2024). "Breadfruit Institute — Pacific Agroforestry Species." ntbg.org.
+  - NTBG (2024). "Breadfruit Institute — Pacific [[agroforestry]] Species." ntbg.org.
 created: 2026-04-28
 ---
 
@@ -61,7 +61,7 @@ Optimal rainfall is 600–1200 mm annually with consistent moisture.
 
 ## Cultivation
 
-Bitter melon is typically direct-seeded after the last frost in tropical climates.
+Bitter melon is typically direct-seeded after the last frost in [[fukuoka-natural-farming-tropical-climates]].
 
 Seeds germinate in 7–14 days at soil temperatures above 20°C.
 
@@ -73,7 +73,7 @@ Yields range from 10–20 tonnes per hectare under good management.
 
 Common pests include fruit flies, aphids, and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
-[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with allium species can help deter certain insect pests.
+[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with allium species can help deter certain [[duggar-mushroom-insect-pests-and-fungal-diseases]].
 
 ## Bioactive Compounds and Pharmacology
 
@@ -88,46 +88,3 @@ Polypeptide-p mimics insulin action, promoting glucose uptake in peripheral tiss
 Momordicosides are triterpenoid glycosides with anti-inflammatory and anticancer properties.
 
 Multiple [[mushroom-cancer-clinical-trials-overview]] have shown bitter melon reduces fasting blood glucose in type 2 diabetics.
-
-However, effects are modest compared to conventional pharmaceuticals, and standardization remains challenging.
-
-The fruit also contains significant amounts of vitamin C, vitamin A, folate, and potassium.
-
-## Culinary Use
-
-Immature green fruit is the primary edible part, consumed in curries, stir-fries, and soups.
-
-It is a staple vegetable in Indian, Chinese, Filipino, Japanese, and Caribbean cuisines.
-
-The bitter flavor is typically tempered by blanching, salting, or pairing with strong spices.
-
-In Indian cooking, it is stuffed with spiced fillings and deep-fried or cooked in gravies.
-
-In Okinawan cuisine, bitter melon is a key ingredient in goya champuru, a stir-fry with tofu.
-
-Young leaves and shoots are also edible and consumed as leafy greens in some regions.
-
-The red aril surrounding mature seeds is sweet and occasionally eaten as a delicacy.
-
-## Permaculture Applications
-
-Bitter melon functions well as a productive climbing vine in tropical food forests.
-
-It can be trained along fences, trellises, or over nitrogen-fixing tree canopies.
-
-The dense foliage provides shade and microclimate moderation for understory crops.
-
-Its rapid growth makes it effective as a seasonal ground cover in agroforestry systems.
-
-The plant attracts pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] when in flower.
-
-[[jadam-crop-residue-fertilizer]] after harvest can be incorporated into compost as a nutrient-rich green material.
-
-## See Also
-
-- [[cucurbita-pepo]]
-- [[moringa-oleifera]]
-- [[lemna-minor]]
-- [[passiflora-incarnata]]
-- [[zingiber-officinale]]
-- [[curcuma-longa]]

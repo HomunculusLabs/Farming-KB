@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, design, fruit-trees, native-plants]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Pawpaw (Asimina triloba)
 
@@ -87,62 +88,3 @@ Choosing the right site is critical for pawpaw success:
   stream banks in the wild
 - Slightly acidic to neutral soil pH (5.5 to 7.0) is preferred
 - Avoid frost pockets for flower protection, though the tree itself
-  is very [[coleman-cold-hardy-varieties]]
-
-## Pests and Diseases
-
-Pawpaw is remarkably pest-resistant compared to most [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Few
-serious insect pests or diseases affect established trees. The leaves
-and bark contain natural insecticidal compounds (annonaceous acetogenins)
-that deter most herbivores.
-
-The primary challenges are:
-
-- Pawpaw peduncle borer: a small moth larva that feeds on flower stalks
-  and can reduce fruit set
-- Zebra swallowtail butterfly: larvae feed exclusively on pawpaw leaves
-  but rarely cause significant damage
-- Deer browsing on young trees; protection with cages or fencing is
-  recommended for the first few years
-- Root rot in poorly drained soils; ensure adequate drainage at planting
-
-## Culinary Uses
-
-Pawpaw fruit is highly versatile in the kitchen:
-
-- Eaten fresh when fully ripe, scooped from the skin with a spoon
-- Blended into smoothies, ice cream, and custards
-- Baked into breads, muffins, and pies, often as a banana substitute
-- Made into jam, butter, and preserves
-- The flavor pairs well with vanilla, cinnamon, citrus, and caramel
-- Fruit does not store well fresh (3 to 5 days at room temperature) but
-  freezes excellently for long-term preservation
-- Seeds are large and should be removed before processing; they are not
-  edible
-
-## Cultivars
-
-Numerous improved cultivars have been developed for better flavor, larger
-fruit size, and more reliable production:
-
-- Mango: large fruit, excellent flavor, good productivity
-- Shenandoah: medium-large fruit, few seeds, mild flavor
-- Susquehanna: large fruit, rich flavor, excellent yields
-- Wabash: sweet, rich flavor, good disease resistance
-- NC-1: early ripening, good for shorter growing seasons
-- Overleese: large fruit, excellent flavor, one of the original named
-  cultivars
-
-Grafted trees begin fruiting in 3 to 5 years, compared to 7 to 10 years
-for seed-grown trees.
-
-## Integration in Permaculture Systems
-
-Pawpaw fits naturally into several [[permaculture-design-principles-beginners]]
-contexts. As a native understory tree, it occupies a productive niche in
-## See Also
-
-- [[comparison-fig-vs-mulberry-for-permaculture]]
-- [[permaculture-fruit-tree-guide]]
-- [[permaculture-forest-garden-establishment]]
-- [[permaculture-multipurpose-trees]]

@@ -1,5 +1,5 @@
 ---
-title: Alpha-1,3-Glucan and gadd aspergillus fumigatus glucan virulence Virulence
+title: Gadd Aspergillus Fumigatus Glucan Virulence
 created: 2026-04-28
 tags:
   - fungal-cell-wall
@@ -37,10 +37,10 @@ Aspergillus species and Schizosaccharomyces pombe.
 ## Distribution of alpha-1,3-glucan among pathogens
 
 Alpha-1,3-glucan has been identified in multiple human pathogenic
-fungi including Blastomyces dermatitidis, Histoplasma capsulatum,
-Paracoccidioides brasiliensis, and [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]. In many of
+fungi including [[blastomyces-dermatitidis]], [[histoplasma-capsulatum]],
+[[paracoccidioides-brasiliensis]], and [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]. In many of
 these pathogens, alpha-1,3-glucan is present in high concentrations
-and early studies showed it plays a role in fungal virulence. It can
+and [[hofmann-lsd-clinical-research-early-studies]] showed it plays a role in fungal virulence. It can
 account for up to 50% of total cell-wall carbohydrates.
 
 ## Structural features
@@ -88,61 +88,3 @@ found in the glycoside hydrolase and glycogen synthase domains.
 
 All three A. fumigatus AGS genes are expressed during [[cannabis-vegetative-growth-stage]]
 and none is essential. AGS1 plays the major role: its deletion causes
-50% reduction in alpha-1,3-glucan content, excessive branching with
-dichotomous apices, and 3.5-fold reduction in conidiation. AGS1 is
-localised at the apical region and septum of germinating conidia.
-Quantitative RT-PCR reveals interconnection: AGS3 deletion causes
-2.5-fold AGS1 increase, and AGS1 deletion causes AGS3 over-expression.
-
-## Regulation by Rho GTPases
-
-In S. pombe, alpha-1,3-glucan synthesis is regulated by Rho2 GTPase
-through protein kinase Pck2. Over-expression of RHO2 increases
-alpha-1,3-glucan; deletion reduces it. Rho2p and Ags1p co-localise at
-growing tips. The regulatory architecture parallels beta-1,3-glucan
-synthesis regulation, where Rho1p regulates Fks1p/Fks2p through Pkc1p.
-F-actin cytoskeleton integrity determines Ags1p localisation.
-
-## Role in host defence interactions
-
-Alpha-1,3-glucan interacts with host cells in multiple ways. In
-C. neoformans, it mediates capsule-cell-wall association; ags1-i
-mutants lack capsules entirely and cannot bind anticapsular antibodies.
-In B. dermatitidis, H. capsulatum, and P. brasiliensis, alpha-1,3-
-glucan forms a protective layer at the host-fungal interface.
-
-## Virulence implications in A. fumigatus
-
-A 50% reduction of alpha-1,3-glucan (ags1 mutant) did not reduce
-melanin production or virulence in A. fumigatus. However, AGS3
-deletion paradoxically produced a more aggressive strain associated
-with melanin formation, without detectable cell-wall modification.
-This suggests that alpha-1,3-glucan content influences melanin
-accessibility to [[fungal-virulence-factors-host-immune-evasion]] defences, and that the balance between
-AGS gene products modulates the degree of immune evasion.
-
-## Antigenic properties and immune recognition
-
-Anti-alpha-1,3-glucan antibodies have been shown to protect mice from
-experimental aspergillosis, and alpha-1,3-glucan can activate the
-alternative complement pathway. Deletion of AGS genes may expose
-otherwise masked beta-1,3-glucan, making the fungus more susceptible
-to host immune recognition and potentially converting a pathogenic
-organism into an avirulent strain.
-
-## Therapeutic potential
-
-The AGS genes and alpha-1,3-glucan pathway represent potential
-antifungal drug targets. Inhibitors of alpha-1,3-glucan synthesis
-could reduce virulence by unmasking underlying immunogenic cell wall
-components. The essential nature of AGS1 in S. pombe and its dominant
-role in A. fumigatus make the Ags1p protein a particularly attractive
-target for antifungal development.
-
-## Related
-
-- [[aspergillus-fumigatus-alpha-1-3-glucan-virulence]] concepts
-
-- [[gadd-fungal-metal-interactions]]
-- [[gadd-peroxisomes-ascomycete-lifestyle]]
-- [[gadd-fungal-ecology-pathogens]]

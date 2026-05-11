@@ -88,14 +88,3 @@ dish soap, then observing settlement rates) precisely reveals clay content,
 which determines both water retention and fertigation rates.
 
 ## Sprinkler Irrigation
-
-For gardeners who do use sprinkler irrigation, Solomon provides guidance on
-design, water pressure, and pattern adjustment. He notes that overhead
-sprinkling lowers soil temperature, which can slow plant growth in cool
-climates. The cost of water will inevitably increase, making efficient watering
-methods increasingly important.
-
-## See Also
-
-- [[solomon-raised-beds]] for bed types suited to different water availability -
-[[solomon-complete-organic-fertilizer-guide]] for COF-based fertigation solutions

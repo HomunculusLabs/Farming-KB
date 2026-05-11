@@ -16,8 +16,8 @@ type: concept
 
 # Mushroom Cultivation in Thailand
 
-Thailand has ideal environmental conditions for mushroom cultivation and a long
-history of mushroom growing. Thai people have long grown a variety of mushrooms,
+Thailand has ideal environmental conditions [[grass-seed-substrate-for-mushroom-cultivation]] and a long
+[[history-of-mushroom-cultivation]] growing. Thai people have long grown a variety of mushrooms,
 recognizing that mushroom growing requires low-cost materials and technologies
 while offering high and quick returns. Young rural people are eager to learn
 cultivation using locally available materials. The Thai government actively
@@ -32,17 +32,17 @@ Thailand cultivates a remarkable diversity of mushroom species:
 |---------|-------------|----------------------|
 | [[stamets-reishi-ganoderma-lucidum-cultivation]] | Reishi | 1,000-1,500 |
 | Hericium erinaceus | Lion's mane | 1,000 (dry) |
-| Tremella fuciformis | Silver ear | 300-350 |
-| Agrocybe cylindracea | Black poplar | 250-300 |
+| [[tremella-fuciformis]] | Silver ear | 300-350 |
+| [[agrocybe-cylindracea]] | Black poplar | 250-300 |
 | Macrolepiota gracilenta | Parasol | 400-500 |
 | Pleurotus eryngii | King oyster | 200-250 |
-| Flammulina velutipes | Enokitake | 150-200 |
+| [[flammulina-velutipes]] | Enokitake | 150-200 |
 | Pleurotus citrinopileatus | Golden oyster | 150-200 |
 | Lentinula edodes | Shiitake | 160-180 |
 | [[genetic-improvement-agaricus-bisporus-molecular-approaches]] | Button | 80-120 |
 | [[paddy-straw-mushroom-volvariella-volvacea-cultivation]] | Straw | 90-120 |
 | Pleurotus ostreatus | Oyster | 30-40 |
-| Auricularia auricula | Wood ear | 30-50 |
+| [[auricularia-auricula]] | Wood ear | 30-50 |
 
 (THB1 approximately USD0.026 in Feb 2004)
 
@@ -88,39 +88,3 @@ with cotton, paper, or cotton-topped plastic plugs. Sorghum seed is the most
 common spawn carrier.
 
 ### Species Performance
-Oyster mushroom: 6 months per crop, 200-500g per 1kg bag, THB20 wholesale,
-THB25 retail. Abalone mushroom: 1 year cycle, 500g/kg/year, THB40 wholesale,
-THB50 retail. Yanagi matsutake: 1-1.5 months to first harvest, 10 flushes per
-year, 150-200g/kg total, THB100-120/kg. Shiitake: cultivated in highland or
-cool season, [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] with cold water on roof, 3-9 flushes per crop.
-
-## Medicinal Mushroom Revolution
-
-Ganoderma lucidum (reishi) and Hericium erinaceus (lion's mane) were recently
-introduced, generating great interest in [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] and Thai traditional
-medicine. Reishi and dried lion's mane fetch THB1,000-1,500/kg and THB1,000/kg
-respectively, 25-50 times the price of oyster mushroom. Growing medicinal
-mushrooms is described as producing "golden eggs."
-
-## Socioeconomic Impact
-
-About 70% of rice farmers cultivate straw mushroom using their own straw. Within
-a few years, straw mushroom cultivation can generate more income than rice. The
-Thai government encourages poor rural people to grow mushrooms for quick returns:
-straw mushroom takes just 3 weeks, other species 3-4 months. The 10-30% profit
-margin sustains grower commitment. Mushroom cultivation recycles agricultural
-wastes and provides nutritious food alongside income generation.
-
-## References and Further Reading
-
-The Thai mushroom industry continues to expand, supported by
-government research institutions and university programs that provide
-training and technical assistance to smallholder growers. International
-collaboration with organizations such as MushWorld has facilitated
-knowledge transfer and technology adoption.
-
-## Related Concepts
-
-- [[ganoderma-lucidum-cultivation]]
-- [[mushroom-poverty-alleviation-developing-countries]]
-- [[swaziland-mushroom-project-lessons]]

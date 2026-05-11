@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-Lobaria oregana is a large foliose lichen endemic to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is commonly known as the lettuce lichen or Oregon lungwort, though the latter name is more often applied to its close relative Lobaria pulmonaria.
+Lobaria oregana is a large foliose lichen endemic to the Pacific Northwest of [[psilocybin-north-america-pacific-northwest]]. It is commonly known as the lettuce lichen or Oregon lungwort, though the latter name is more often applied to its close relative [[lobaria-pulmonaria]].
 
-This species is one of the most conspicuous epiphytic lichens in old-growth forests of the region, forming extensive blue-green mats on the trunks and branches of conifers. It serves as a key indicator species for ancient forest ecosystems and old-growth forest health.
+This species is one of the most conspicuous epiphytic lichens in old-growth forests of the region, forming extensive blue-green mats on the trunks and branches of conifers. It serves as a key indicator species for ancient [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and old-growth forest health.
 
-The thallus can reach diameters exceeding 30 centimeters, making it among the largest foliose lichens in North America. Its presence is strongly correlated with late-successional forest conditions, particularly continuous canopy cover and high humidity.
+The thallus can reach diameters exceeding 30 centimeters, making it among the largest foliose lichens in [[guzman-psilocybin-mushrooms-north-america]]. Its presence is strongly correlated with late-successional forest conditions, particularly continuous canopy cover and high humidity.
 
 ## Taxonomy and Morphology
 
@@ -39,9 +39,9 @@ The lower surface is pale tan to brown with a densely tomentose margin and scatt
 
 Cyphellae are circular to elliptical, 0.3 to 0.8 millimeters in diameter, and concentrated toward the thallus center. They are lighter in color than the surrounding lower cortex and serve as the primary site of gas exchange between the medulla and the atmosphere.
 
-Apothecia are common, appearing as brown, disc-shaped fruiting bodies on the upper surface. The spores are colorless, ellipsoid, three-septate, and measure 30 to 45 by 10 to 15 micrometers.
+Apothecia are common, appearing as brown, disc-shaped [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] on the upper surface. The spores are colorless, ellipsoid, three-septate, and measure 30 to 45 by 10 to 15 micrometers.
 
-Vegetative propagation occurs primarily through thallus fragmentation, which is likely the dominant mode of reproduction in natural populations. Fragment dispersal is facilitated by wind, rain, and animal activity, particularly in the canopy where branches sway during storms.
+[[hamilton-vegetative-propagation]] occurs primarily through thallus fragmentation, which is likely the dominant mode of reproduction in natural populations. Fragment dispersal is facilitated by wind, rain, and animal activity, particularly in the canopy where branches sway during storms.
 
 This species is triplobiotic, containing both green algae (coccomyxa) and cyanobacteria (Nostoc) as photobionts. The cyanobacterial partner is restricted to cephalodia, which are specialized internal structures visible as dark spots on the lower surface.
 
@@ -81,41 +81,10 @@ Lobaria oregana is widely recognized as a late-successional reserve indicator sp
 
 Lobaria oregana contains a range of [[antifungal-secondary-metabolites-coprophilous-fungi]], including stictic acid, constictic acid, and norstictic acid. These depsidones are common in the Peltigeraceae and contribute to the species' chemical defense against herbivory and microbial attack.
 
-The total concentration of secondary metabolites typically ranges from 2 to 8 percent of dry thallus weight. Stictic acid is the dominant compound and has documented antimicrobial and anti-inflammatory properties in laboratory assays, though clinical applications remain unexplored.
+The total concentration of [[biodiversity-fungal-secondary-metabolites]] typically ranges from 2 to 8 percent of dry thallus weight. Stictic acid is the dominant compound and has documented antimicrobial and anti-inflammatory properties in laboratory assays, though clinical applications remain unexplored.
 
 The presence of both green algal and cyanobacterial photobionts gives this lichen a dual photosynthetic capacity. The cyanobacterial cephalodia provide [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] while the green algal layer drives primary carbon fixation, making the species relatively self-sufficient nutritionally.
 
 Physiological studies have shown that the green algal photobiont is the primary carbon source under most conditions, while the cyanobacteria in cephalodia become more active during periods of moisture stress when the green algae may be less productive. This partitioning of photosynthetic roles provides a degree of metabolic flexibility.
 
 Traditional use of Lobaria oregana by Indigenous peoples of the Pacific Northwest is not as well-documented as for some other lichen species in the region. However, related species such as Lobaria pulmonaria have documented uses as food, medicine, and dye material among coastal First Nations.
-
-The nitrogen-rich thallus has been documented as emergency food for both wildlife and humans in some contexts. The dried thalli were reportedly used as wound dressing and respiratory medicine by some Indigenous groups, similar to practices documented for Lobaria pulmonaria in Europe.
-
-[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] confirms the presence of usnic acid derivatives and triterpenoids, compounds shared with other Peltigeraceae members that have documented ethnopharmacological relevance. Extracts have shown modest antimicrobial activity against Gram-positive bacteria in in vitro screening assays.
-
-## Conservation
-
-Lobaria oregana is considered a sensitive species and a key indicator of old-growth forest conditions. It is highly sensitive to habitat disturbance, particularly logging, forest fragmentation, and reductions in canopy continuity.
-
-The species has no capacity for rapid colonization of new substrates. Its dispersal is limited by the requirement that both compatible fungal and photobiont partners arrive simultaneously, and establishment is further constrained by the need for prolonged humid conditions.
-
-Air quality degradation, particularly elevated sulfur dioxide and nitrogen dioxide levels, negatively affects thallus health and reproductive output. Even in protected old-growth stands, the species shows reduced vigor in areas with significant air pollution downwind from urban and industrial sources.
-
-[[dighton-fungi-climate-change-feedback]] poses a long-term threat through alterations in fog frequency and summer moisture availability along the Pacific coast. Reduced summer fog could increase desiccation stress on canopy populations that depend on consistent atmospheric humidity.
-
-The Northwest Forest Plan (1994) specifically mandates the protection of late-successional reserves where Lobaria oregana and other old-growth-associated lichens are monitored as part of forest ecosystem health assessments. Ongoing monitoring programs track population trends across federal forest lands.
-
-Long-term monitoring data from the Forest Inventory and Analysis program suggest that Lobaria oregana populations are stable within protected reserves but continue to decline in managed landscapes. Recovery of populations in previously logged areas appears to require several centuries of stand development under favorable moisture conditions.
-
-## See Also
-
-- [[lobaria-pulmonaria]]
-- [[peltigera-canina]]
-- [[peltigera-membranacea]]
-- [[hypogymnia-physodes]]
-- [[cladonia-rangiferina]]
-- [[usnea-barbata]]
-- [[evernia-prunastri]]
-- [[xanthoria-parietina]]
-- [[cetraria-islandica]]
-- [[nephroma-arcticum]]

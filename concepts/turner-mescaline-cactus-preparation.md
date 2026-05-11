@@ -1,5 +1,5 @@
 ---
-title: "Trichocereus Cacti and Mescaline Preparation"
+title: Turner Mescaline Cactus Preparation
 created: 2026-04-28
 tags: [mescaline, trichocereus, san-pedro, peyote, cactus]
 date: 2026-04-25
@@ -26,7 +26,7 @@ in his life but saw LSD, DOB, and other substances sold as mescaline
 many times. Illegal drug labs rarely produce mescaline because of its
 inefficiency: approximately 1/2 gram is required per trip, which
 represents the material needed for 4 doses of ecstasy, 20 doses of
-2C-B, 50 doses of psilocin, or 2500 doses of LSD. The typical price
+2C-B, 50 doses of [[psilocin]], or 2500 doses of LSD. The typical price
 of $100-200 per gram makes it too expensive for street popularity.
 
 ## Identifying Real Mescaline
@@ -88,14 +88,3 @@ experienced users.
 ## Sourcing Cacti
 
 Trichocereus cacti can be found in many large nurseries, particularly
-those dealing in cacti and succulents. Turner recommended buying from
-nurseries that mark their cacti with botanical names and avoiding
-asking for [[peyote-and-psychoactive-cacti]] by name, to keep the practice discreet.
-Cacti are also available from herb and plant dealers catering to the
-underground market. They remain legal for ornamental purposes.
-
-## Related
-
-- [[turner-dmt-hyperspace-and-smoked-tryptamines]]
-- [[turner-2cb-erotic-empathogen]]
-- Cannabis Classification and History

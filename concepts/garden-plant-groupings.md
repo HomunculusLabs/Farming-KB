@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/greg-green-odor-control-and-air-filtration.md"
 ---
 # Garden Plant Groupings
@@ -87,63 +88,3 @@ Companions: beans, beetroot, celery, mint, thyme, sage, rosemary, dill, potatoes
 Companions: peas, radishes, lettuce, chives, sage, onions, leeks
 
 ### Cauliflowers
-Companions: celery, beans
-
-### Celery
-Companions: tomatoes, dill, beans, leeks, cabbage, cauliflower
-
-### Cucumbers
-Companions: potatoes, beans, celery, lettuce, sweetcorn, savoy cabbages, sunflowers, radishes
-
-### Dill
-Companions: carrots, tomatoes
-
-### Garlic
-Companions: roses, apples, peaches
-
-### Horseradish
-Companions: potatoes
-
-### Lettuce
-Companions: carrots, onions, strawberries, beetroot, cabbages, radishes, marigolds
-
-### Marigolds
-Companions: lettuce, potatoes, tomatoes, roses, beans
-
-### Nasturtiums
-Companions: apples, cabbages, cauliflowers, broccoli, Brussels sprouts, kohlrabi, turnips, radishes, cucumbers, zucchini
-
-### Onions
-Companions: carrots, silver beet, beetroot, lettuce
-
-### Parsnips
-Companions: peas, potatoes, peppers, beans, radishes, garlic
-
-### Peas
-Companions: potatoes, radishes, carrots, turnips
-
-### Potatoes
-Companions: peas, beans, cabbages, sweetcorn, broad beans, nasturtiums, marigolds
-
-### Pumpkins
-Companions: sweetcorn
-
-### Radishes
-Companions: lettuce, peas, chervil, nasturtiums
-
-### Spinach
-Companions: strawberries
-
-### Strawberries
-Companions: borage, lettuce, spinach, sage
-
-### Sunflowers
-Companions: squash, cucumber
-
-### Sweetcorn
-Companions: broad beans, potatoes, melons, tomatoes, cucumber, squash
-
-## See Also
-- [[companion-planting]]
-- [[chamaecytisus-palmensis]]
-- [[gaias-garden-plant-roles-ecological-theater]]

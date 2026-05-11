@@ -38,7 +38,7 @@ Rhizomes are tuberous, 1.5–3 cm in diameter, with a pale brown exterior and wh
 
 ## Bioactive Compounds
 
-The [[permaculture-designers-manual-essential-oil-plants]] yield from dried rhizome ranges from 1.0–3.0% by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Major volatile constituents include **1,8-cineole** (eucalyptol, 30–50%), **α-pinene** (5–10%), **β-pinene** (3–8%), **limonene**, **linalool**, and **camphor**.
+The [[permaculture-designers-manual-essential-oil-plants]] yield from dried rhizome ranges from 1.0–3.0% by [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]. Major volatile constituents include **1,8-cineole** ([[eucalyptol]], 30–50%), **α-pinene** (5–10%), **β-pinene** (3–8%), **[[limonene]]**, **[[linalool]]**, and **camphor**.
 
 ### Non-volatile Constituents
 
@@ -60,11 +60,11 @@ Hepatoprotective effects have been demonstrated against paracetamol-induced live
 
 ## Traditional Medicine
 
-In Ayurveda, the rhizome is known as **Rasna** (one of several plants sharing this name) and is classified as pungent, light, and hot. It is prescribed for Vata-Kapha disorders, particularly respiratory conditions including cough, asthma, and bronchitis.
+In Ayurveda, the rhizome is known as **Rasna** (one of several plants sharing this name) and is classified as pungent, light, and hot. It is prescribed for Vata-Kapha disorders, particularly [[cannabis-respiratory-conditions]] including cough, asthma, and bronchitis.
 
 In Siddha medicine, the species is called **Chittarathai** and is used in formulations for arthritis, diabetes, and digestive complaints. The fresh rhizome is consumed as a folk remedy for toothache and sore throat in Sri Lanka.
 
-The rhizome is also used in traditional veterinary medicine in South Asia, administered to cattle for digestive and respiratory ailments. Typical preparation methods include decoction, powder, and milk-based formulations.
+The rhizome is also used in traditional veterinary medicine in South Asia, administered to cattle for digestive and respiratory ailments. Typical [[amanita-muscaria-preparation-methods]] include decoction, powder, and milk-based formulations.
 
 ## Cultivation and Uses
 
@@ -80,33 +80,10 @@ In culinary applications, the fresh rhizome is sliced and added to curries, chut
 
 The species grows in tropical lowland and premontane forests, forest margins, and disturbed sites at elevations from sea level to 800 m. It prefers moist, shaded environments with annual rainfall exceeding 1,500 mm.
 
-Natural populations are relatively stable, though habitat loss in the Western Ghats threatens wild genetic diversity. Most commercial supply comes from cultivated sources in Sri Lanka and southern India.
+Natural populations are relatively stable, though habitat loss in the Western Ghats threatens wild [[biodiversity-fungal-genetic-diversity]]. Most commercial supply comes from cultivated sources in Sri Lanka and southern India.
 
 ### Related Species and Differentiation
 
 *A. calcarata* is often confused with *A. galanga* (greater galangal) and *A. officinarum* (lesser galangal) in herbal trade. Key differentiators include the spurred labellum (unique to *A. calcarata*), smaller overall plant size, and higher 1,8-cineole content in the essential oil.
 
 The rhizome morphology also differs: *A. calcarata* has smaller, more cylindrical rhizomes compared to the massive, branched rhizomes of *A. galanga*. Chemical fingerprinting by GC-MS reliably distinguishes the three species.
-
-## Agricultural Production
-
-Sri Lanka is the largest commercial producer, with an estimated 500 hectares under cultivation as of 2020. The species is intercropped with coconut, rubber, and tea plantations as a shade-tolerant understory crop.
-
-Major pests include rhizome weevils (*Dicladispa armigera*) and shoot borers. Fungal diseases include [[jadam-canker-leaf-spot-pesticide]] (*Phyllosticta* spp.) and rhizome rot (*Fusarium* spp.). [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management using neem-based preparations is common among organic growers.
-
-Post-harvest processing involves washing, slicing, and sun-drying for 5–7 days. Dried rhizome loses approximately 70% of fresh weight. Quality grading is based on aroma intensity, color, and freedom from mold.
-
-The essential oil is distilled on a small scale for use in aromatherapy and traditional medicine formulations. Sri Lankan *A. calcarata* oil commands premium prices due to its high 1,8-cineole content.
-
-## See Also
-
-- [[alpinia-officinarum]]
-- [[zingiber-officinale]]
-- [[kaempferia-galanga]]
-- [[boesenbergia-rotunda]]
-- [[camphor]]
-- [[zingiber-zerumbet]]
-- [[amomum-tsao-ko]]
-- [[curcuma-aromatica]]
-- [[zingiber-cassumunar]]
-- [[kaempferia-parviflora]]

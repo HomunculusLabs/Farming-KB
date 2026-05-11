@@ -13,11 +13,11 @@ type: concept
 
 ## Overview
 
-Fungal hyphae are threadlike filaments constituting the feeding phase of
-fungi. Unlike animal cells, hyphae are encased in rigid cell walls and
+[[fungal-hyphae]] are threadlike filaments constituting [[fungal-mycelium-hyphae-and-the-feeding-phase]] of
+fungi. Unlike animal cells, hyphae are encased in rigid [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and
 maintain internal hydrostatic pressure (turgor) ranging from one to ten
 atmospheres. For over a century, mycologists believed turgor was the
-primary driver of hyphal extension. Research by Nicholas Money and Frank
+primary driver of hyphal extension. Research by [[nicholas-money]] and Frank
 Harold has challenged this view, revealing a more nuanced picture of
 fungal growth mechanics.
 
@@ -43,7 +43,7 @@ this by halting growth.
 
 ### Revised Understanding
 
-Research on oomycete water molds demonstrated these organisms actually
+Research on [[bloomfield-pythium-oomycete-water-molds]] demonstrated these organisms actually
 grew *faster* when internal pressure was eliminated by high solute
 concentrations. The revised model holds:
 
@@ -85,45 +85,6 @@ Turgor pressure becomes critical when hyphae encounter solid barriers:
 
 ### Rock-Penetrating Fungi
 
-Some fungi grow inside granite bedrock, secreting citric acid and oxalic
+Some fungi grow inside granite bedrock, secreting [[citric-acid-cycle-tca-krebs-cycle]] and oxalic
 acid to dissolve minerals, pushing forward at their tips to pry apart
 rock particles. They create pathways for water percolation and ice
-crystallization, accelerating weathering and soil formation. These
-species transfer leached nutrients to plant partners through mycorrhizal
-associations, playing crucial roles in ecosystem development.
-
-### Pathogenic Invasion
-
-*[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* switches from yeast to invasive hyphal form when
-attacking human tissues, using proteases to dissolve host barriers and
-turgor to push through. Disruption of individual protease genes has not
-reduced virulence, suggesting the invasive strategy involves coordinated
-expression of many enzymes rather than a single target.
-
-## Measuring Fungal Forces
-
-The forces exerted by single hyphae are remarkably small in absolute terms
-but enormous relative to fungal size. When the wall yields, turgor pressure
-applies a force of a few micronewtons (millionths of one Newton) at the
-apex. One micronewton is produced when a mass of one ten-thousandth of a
-gram — equivalent to an eyelash — presses down under gravity. While
-humans generate hundreds of Newtons sitting in a chair, our force is spread
-over a large contact area, resulting in less than 0.1 atmosphere of
-pressure. Fungal hyphae concentrate their force on microscopic areas,
-achieving pressures sufficient to penetrate solid substrates.
-
-## Evolutionary Significance
-
-The evolution of walled, pressurized hyphae opened an inexhaustible menu
-of solid food. Invasive hyphae in distantly related lineages (true fungi
-and oomycete stramenopiles) represent striking convergent evolution —
-there are few better solutions to penetrating solid substances. Fossilized
-hyphae in primitive land plant roots (400 million years) and mycorrhizal
-spores in rocks over 600 million years old suggest this strategy was
-crucial in the colonization of land.
-
-## Related Topics
-
-- [[stinkhorn-fungi-biology-and-spore-dispersal]]
-- [[gasteromycete-fungi-dispersal-mechanisms]]
-- [[mycorrhizal-fungi-rock-penetration-soil-formation]]

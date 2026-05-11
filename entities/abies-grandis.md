@@ -88,24 +88,3 @@ Indigenous peoples of the Pacific Northwest used grand fir for multiple purposes
 The Kutenai and other Interior Salish peoples specifically valued the boughs for lining food storage pits and sweat lodges. Pitch was applied to seal birch bark canoes and as a medicine for skin wounds and infections.
 
 The fragrant boughs were traditionally burned as incense in purification ceremonies and sweathouses. Infusions of needles and bark were used medicinally to treat colds, fever, and respiratory infections, likely benefiting from the high vitamin C and antimicrobial terpene content.
-
-## See Also
-
-- [[abies-lasiocarpa]]
-- [[abies-magnifica]]
-
-- [[pseudotsuga-menziesii]]
-- [[pinus-sylvestris]]
-- [[cedrus-libani]]
-- [[larix-decidua]]
-- [[araucaria-araucana]]
-- [[ganoderma-tsugae]]
-- [[trametes-versicolor-entity]]
-- [[betula-pendula]]
-- arctostaphylos-uva-ursi
-- [[phragmites-australis]]
-- [[vaccinium-corymbosum-entity]]
-- [[nymphaea-alba]]
-- [[vaccinium-angustifolium]]
-- [[nymphaea-caerulea]]
-- [[pistia-stratiotes]]

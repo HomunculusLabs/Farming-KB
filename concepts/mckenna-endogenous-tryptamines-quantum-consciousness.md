@@ -1,5 +1,5 @@
 ---
-title: Endogenous [[tryptamines-and-quantum-mechanics]] Consciousness
+title: Mckenna Endogenous Tryptamines Quantum Consciousness
 aliases:
   - pineal DMT hypothesis
   - endogenous psychedelic compounds
@@ -88,34 +88,3 @@ between molecular structure and psychedelic potency in tryptamines and
 phenethylamines defies simple receptor-binding models. The extraordinary
 potency of compounds like LSD (active at microgram doses) and the existence
 of specific "receptor fingerprints" that produce distinct experiential
-qualities suggest that hallucinogenesis may involve mechanisms beyond
-classical pharmacology.
-
-These quantum hypotheses remain controversial and lack direct experimental
-support, but they highlight the inadequacy of purely reductionist models to
-explain the richness and specificity of psychedelic experiences. The fact
-that minor molecular modifications produce dramatically different experiential
-effects—while compounds with similar [[beta-glucan-receptor-binding]] profiles produce
-different experiences—suggests a level of complexity in brain-mind
-interactions that current neuroscience cannot fully account for.
-
-## Implications for Consciousness Studies
-
-The endogenous tryptamine hypothesis, if validated, would have profound
-implications for our understanding of consciousness. It would suggest that
-the brain contains built-in mechanisms for generating profoundly altered
-states of consciousness, potentially serving adaptive functions in
-creativity, problem-solving, social bonding, or spiritual experience.
-
-The relationship between endogenous psychedelics and naturally occurring
-altered states—such as dreams, meditation, near-death experiences, and
-psychosis—remains an active area of investigation. Whether these states share
-common neurochemical mechanisms involving endogenous tryptamines is a question
-that bridges neuroscience, psychology, and philosophy of mind.
-
-## See Also
-
-- [[mckenna-dmt-hyperspace-translinguistic-matter]]
-- [[mckenna-self-transforming-machine-elves-dmt-entities]]
-- [[mckenna-eschatology-history-as-shockwave]]
-- [[metzner-psycholytic-psychedelic-therapy-models]]

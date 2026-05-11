@@ -88,24 +88,3 @@ Understanding these connections could lead to holistic breeding strategies that 
 ## Experimental Design Considerations
 
 The Winston et al. study sampled plants two weeks prior to harvest, when cannabinoid production was well underway. This timing is important because both cannabinoid accumulation and root microbiome assembly are dynamic processes that change throughout the plant lifecycle.
-
-Longitudinal studies tracking microbiome development alongside cannabinoid biosynthesis from vegetative growth through flowering would provide temporal resolution. Such studies could reveal whether microbiome shifts precede, coincide with, or follow changes in cannabinoid production.
-
-Sample size was also a limitation. Only four plants were tested for cannabinoid correlation in the original study. Larger sample sizes across multiple growing seasons would increase statistical power and help distinguish genuine biological patterns from sampling noise.
-
-## Future Research Directions
-
-Several experimental designs could help disentangle cannabinoid-microbiome correlations from soil confounds. Grafting experiments between high-THC and low-THC cultivars onto common rootstocks could separate root genetics from shoot cannabinoid production.
-
-Hydroponic systems with controlled nutrient solutions would eliminate soil-based variation entirely. Comparing the microbiomes of isogenic lines differing only in key cannabinoid biosynthesis genes would provide the most direct test of causality.
-
-Metabolomic profiling of Cannabis root exudates across cultivars would reveal whether cannabinoid-related compounds are indeed present in the rhizosphere at concentrations sufficient to influence microbial community assembly.
-
-## See Also
-
-- [[cannabis-two-tier-microbiome-selection]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]
-- [[two-tier-selection-model]]
-- [[root-exudates-rhizosphere]]
-- [[bacterial-endophytes-plant-roots]]
-- [[methylophilus-cannabis-endorhiza]]

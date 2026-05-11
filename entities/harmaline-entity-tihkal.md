@@ -83,4 +83,4 @@ Harmaline is the critical pharmacological component that enables ayahuasca to be
 
 - [[dmt-entity-tihkal]] — primary tryptamine potentiated by harmaline inhibition
 - [[banisteriopsis-caapi]] — the ayahuasca vine containing harmala alkaloids
-- [[psychedelic-harm-reduction]] — dietary restrictions required with MAOIs
+- [[harm-reduction-guide]] — dietary restrictions required with MAOIs

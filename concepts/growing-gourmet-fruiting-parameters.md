@@ -5,6 +5,7 @@ updated: 2026-04-25
 type: concept
 tags: [mushrooms, cultivation, fruiting, primordia, temperature, humidity, CO2, light, initiation]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - label: "Growing Gourmet and Medicinal Mushrooms"
     author: Paul Stamets
     year: 1993
@@ -87,38 +88,3 @@ Cropping Cycle: Two to three flushes, 4-10 days apart.
 | Parameter | Spawn Run | Primordia Formation | Fruitbody Development |
 |-----------|-----------|-------------------|----------------------|
 | Temperature | 72-78F (22-26C) | 50-60F (10-16C) | 55-65F (13-18C) |
-| Humidity | 95-100% | 95-100% | 85-92% |
-| Duration | 25-50 days | 7-14 days | 5-10 days |
-| CO2 | >5,000 ppm | <1,000 ppm | <1,000 ppm |
-| Air Exchanges | 0-1/hr | 4-8/hr | 4-8/hr |
-| Light | n/a | 500-1,000 lux | 500-2,000 lux |
-
-Cropping Cycle: 4-5 flushes over several months. Requires cold shock for temperate strains. Donko (cracked cap) forms are prized.
-
-### Pleurotus ostreatus (Oyster Mushroom) -- General Ranges
-
-| Parameter | Spawn Run | Primordia Formation | Fruitbody Development |
-|-----------|-----------|-------------------|----------------------|
-| Temperature | 70-80F (21-27C) | 50-65F (10-18C) | 55-75F (13-24C) |
-| Humidity | 95-100% | 95-100% | 85-95% |
-| Duration | 10-20 days | 3-7 days | 3-5 days |
-| CO2 | >5,000 ppm | <600 ppm | <800 ppm |
-| Air Exchanges | 0-1/hr | 4-8/hr | 4-8/hr |
-| Light | n/a | 200-1,500 lux | 200-1,500 lux |
-
-Cropping Cycle: 2-3 flushes, 7-14 days apart. Very sensitive to CO2 -- stems elongate and caps remain undeveloped without adequate air exchange. Strong photosensitivity. Cap margins reveal [[cannabis-harvest-timing-visual-cues]].
-
-### Pleurotus citrinopileatus (Golden Oyster)
-
-| Parameter | Spawn Run | Primordia Formation | Fruitbody Development |
-|-----------|-----------|-------------------|----------------------|
-| Temperature | 70-80F (21-27C) | 65-80F (18-27C) | 70-85F (21-29C) |
-| Humidity | 95-100% | 95-100% | 85-95% |
-| Duration | 10-18 days | 5-10 days | 3-5 days |
-| CO2 | >5,000 ppm | <1,000 ppm | <1,000 ppm |
-| Air Exchanges | 0-1/hr | 4-8/hr | 4-8/hr |
-| Light | n/a | 500-1,500 lux | 500-1,500 lux |
-
-Note: Warm weather species that fruits when temperatures exceed 65F (18C). Extremely astringent flavor until thoroughly cooked.
-
-### Volvariella volvacea (Paddy Straw Mushroom)

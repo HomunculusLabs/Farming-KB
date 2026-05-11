@@ -1,5 +1,5 @@
 ---
-title: Root root cellar design and construction and Construction
+title: Root Cellar Design And Construction
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Root Cellar Design and Construction
 
-A root cellar uses natural earth insulation to store food at optimal
+[[query-how-to-build-and-manage-a-root-cellar]] uses natural earth insulation to store food at optimal
 [[greg-green-temperature-and-humidity-control]] without electricity. Essential for a self-sufficient
 homestead.
 
@@ -21,12 +21,12 @@ Most [[growing-root-vegetables-guide]] store best at 32-35F. Below 28F freezes p
 ventilation cools the cellar below this.
 
 ### Humidity: 85-95%
-High humidity prevents shriveling. Root vegetables need 90-95%; winter squash,
+High humidity prevents shriveling. [[hamilton-root-vegetables-growing]] need 90-95%; [[winter-squash-guide]],
 onions, and garlic prefer 60-70% at warmer temperatures (50-55F). Design with
 separate zones for different humidity needs.
 
 ### Ventilation
-Critical for temperature control and ethylene gas removal (ripening produce
+Critical for [[hamilton-greenhouse-heating-and-temperature-control]] and ethylene gas removal (ripening produce
 emits ethylene, accelerating nearby spoilage).
 - Two vents: one low (near floor, intake), one high (near ceiling, exhaust).
 - Intake on north side. Adjustable covers to regulate airflow.
@@ -56,7 +56,7 @@ Freestanding structure in a hillside or excavated ground.
 ### Earth Bag
 Low-cost DIY: fill polypropylene bags with damp subsoil, lay in courses,
 barbed wire between for grip. Plaster with earthen plaster. Dome shape is
-strongest. Excellent thermal mass. Labor intensive.
+strongest. Excellent [[comparison-windbreak-vs-thermal-mass]]. Labor intensive.
 
 ### Straw Bale
 [[comparison-bamboo-construction-vs-timber-frame-basics]] with straw bale walls, plastered with earthen or [[comparison-lime-plaster-vs-earthen-plaster]].
@@ -88,22 +88,3 @@ bales dry. Best for earth-bermed designs where bales don't contact ground.
 - **Apples:** Store at 32-35F, 90-95%. Always separate — ethylene causes
   rapid spoilage in other produce. Keep away from potatoes.
 - **Store only sound, unblemished produce.** One rotting item spreads
-  quickly. Inspect regularly.
-- **Do not wash before storing.** Soil helps; moisture from washing promotes
-  rot.
-
-## Construction Tips
-
-- Start with 8x8 ft (64 sq ft — plenty for most families).
-- Face door south to avoid cold north winds.
-- Thick, weather-stripped insulated door with storm door/airlock.
-- Wooden or wire shelving, 12-18 in apart, allow [[stamets-growing-room-air-circulation-co2-management]].
-- Keep thermometer and hygrometer inside; check regularly.
-- No natural light needed. Battery-powered light sufficient for access.
-
-## See Also
-
-- [[organic-garden-soil-preparation]] — Growing crops for root cellar storage
-- permaculture-design-course-notes
-- [[permaculture-access-and-circulation-design]]
-- [[fukuoka-soil-self-improvement-without-tillage]]

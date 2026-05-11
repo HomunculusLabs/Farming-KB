@@ -14,8 +14,8 @@ sources:
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Llano, G.A. (1950). "A Monograph of the Lichen Family Umbilicariaceae in the Western Hemisphere." Office of Naval Research.
   - Hestmark, G. (1990). "Umbilicaria in Europe." Sommerfeltia 11: 1-75.
-  - Nash, T.H. III et al. (2002). Lichen Biology. Cambridge University Press.
-  - Clayden, S.R. (2010). "Umbilicaria." In: Brodo, I.M. (ed.), Lichens of North America, Supplement.
+  - Nash, T.H. III et al. (2002). [[fungi-in-the-environment-lichen-biology]]. Cambridge University Press.
+  - Clayden, S.R. (2010). "Umbilicaria." In: Brodo, I.M. (ed.), Lichens [[berry-growing]], Supplement.
 ---
 
 ## Overview
@@ -24,7 +24,7 @@ Umbilicaria mammulata, commonly known as the smooth rock tripe or elephant hide 
 
 The species is a member of the family Umbilicariaceae, a group of saxicolous lichens commonly called rock tripe that are characterized by their single central holdfast and loosely attached thallus. Umbilicaria mammulata is among the most conspicuous and widely distributed species in this family.
 
-Rock tripe has a long history of use as emergency food by explorers, Indigenous peoples, and soldiers. During the siege of Boston in 1775, colonial troops reportedly survived on Umbilicaria collected from local rock outcrops, earning the lichen a place in early American history.
+Rock tripe has a long history of use as emergency food by explorers, Indigenous peoples, and soldiers. During the siege of Boston in 1775, colonial troops reportedly survived on Umbilicaria collected from local rock outcrops, earning the lichen a place in [[palmer-early-american-mycology-nineteenth-century]] history.
 
 ## Taxonomy and Morphology
 
@@ -70,13 +70,13 @@ Umbilicaria mammulata is one of the dominant saxicolous lichens on exposed rock 
 
 The species provides habitat for a variety of microarthropods, including oribatid mites, collembolans, and tardigrades. These organisms inhabit the spaces between the thallus and the rock surface, where humidity remains elevated and temperatures are moderated by the insulating properties of the lichen.
 
-Umbilicaria mammulata contributes to biological weathering of rock surfaces through both physical and chemical mechanisms. The thallus expands and contracts with moisture changes, exerting mechanical stress on the substrate, while lichen acids slowly dissolve mineral surfaces, contributing to soil formation.
+Umbilicaria mammulata contributes to biological weathering of rock surfaces through both physical and chemical mechanisms. The thallus expands and contracts with moisture changes, exerting mechanical stress on the substrate, while lichen acids slowly dissolve [[fungal-community-profiling-rock-mineral-surfaces-gadd]], contributing to soil formation.
 
 The rate of biological weathering by Umbilicaria species has been estimated at 0.01 to 0.1 millimeters of rock surface per century. While individually modest, the cumulative effect across extensive rock surfaces over geological time scales contributes significantly to pedogenesis in montane landscapes.
 
 The species serves as an important food source for terrestrial snails and slugs in moist forest habitats. Several species of land snails are specialized grazers of Umbilicaria, feeding on both the algal layer and the fungal tissue.
 
-Conservation status is currently secure across most of the species' range. However, local populations can be affected by rock climbing, quarrying, and recreational development that removes or disturbs rock surfaces. Air quality remains the primary long-term conservation concern.
+[[fungal-biodiversity-conservation-status]] is currently secure across most of the species' range. However, local populations can be affected by rock climbing, quarrying, and recreational development that removes or disturbs rock surfaces. Air quality remains the primary long-term conservation concern.
 
 ## Similar Species
 
@@ -84,33 +84,6 @@ Umbilicaria mammulata is most easily confused with Umbilicaria vellea, which has
 
 Umbilicaria muhlenbergii is a smaller species that typically occurs at lower elevations and on a wider range of rock types. It can be distinguished by its smaller thallus size, thinner texture, and the presence of rhizinose structures on the lower surface.
 
-The European Umbilicaria polyphylla is morphologically similar but has a different geographic distribution and chemical profile. Umbilicaria deusta, the peppered rock tripe, has characteristic black dots on the upper surface and a much thinner thallus.
+The European Umbilicaria polyphylla is morphologically similar but has a different [[geographic-distribution-of-psilocybe-species]] and chemical profile. Umbilicaria deusta, the peppered rock tripe, has characteristic black dots on the upper surface and a much thinner thallus.
 
 ## Chemistry and Traditional Use
-
-Umbilicaria mammulata contains gyrophoric acid as the primary [[fungal-elicitors-enhanced-secondary-metabolite-production]], along with smaller amounts of umbilicaric acid and lecanoric acid. These depsides and depsidones contribute to the species' chemical defense and can be detected using standard lichen spot tests.
-
-The medulla reacts C+ red due to the presence of gyrophoric acid, while the cortex typically shows no reaction to potassium hydroxide. These spot test reactions are useful for distinguishing Umbilicaria mammulata from other Umbilicaria species that may share its habitat.
-
-Gyrophoric acid is a depside with documented [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. It has been isolated from Umbilicaria mammulata and tested against various [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] pathogens, showing moderate activity against Gram-positive bacteria.
-
-Rock tripe has a long and well-documented history of use as emergency food. The lichen was collected, thoroughly washed, and boiled repeatedly to remove bitter lichen acids before being consumed. Preparation methods varied among Indigenous groups but generally involved extended boiling followed by drying or frying.
-
-Indigenous peoples of eastern North America, including the Iroquois and Cherokee, collected Umbilicaria as a food resource. The dried thalli were stored for winter use and reconstituted in soups and stews. European settlers adopted the practice, particularly during periods of scarcity.
-
-Nutritional analysis shows that processed rock tripe contains approximately 50 percent carbohydrates, 5 percent protein, and negligible fat. It also provides modest amounts of minerals including calcium, iron, and potassium, though its nutritional value is limited compared to conventional food sources.
-
-Modern interest in Umbilicaria mammulata has focused on its polysaccharide constituents, which show immunomodulatory and antioxidant activity in laboratory studies. However, commercial exploitation is limited by the species' slow growth rate and the ecological sensitivity of rock-face habitats.
-
-## See Also
-
-- [[xanthoria-parietina]]
-- [[physcia-stellaris]]
-- [[lecanora-muralis]]
-- [[cladonia-rangiferina]]
-- [[hypogymnia-physodes]]
-- [[cetraria-islandica]]
-- [[usnea-barbata]]
-- [[evernia-prunastri]]
-- [[xanthoparmelia-conspersa]]
-- [[melanelia-fuliginosa]]

@@ -88,9 +88,3 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 - [[kalapuya]]
 
 - [[jedi-kush]]
-
-- [[og-kush-cannabis-entity]]
-
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[banana-kush]]
-- [[blackberry-kush]]

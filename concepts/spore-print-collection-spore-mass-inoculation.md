@@ -1,9 +1,10 @@
 ---
-title: Spore spore print collection spore mass inoculation and Spore Mass Inoculation
+title: Spore Print Collection Spore Mass Inoculation
 tags: [spore-print, spore-collection, spore-mass-inoculation, mushroom-cultivation, species-library, cloning]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Stamets, 1993)
 type: concept
 created: 2026-04-28
@@ -77,7 +78,7 @@ species covered in Stamets' work.
 ### Industrial Parallel
 
 Spore mass inoculation closely parallels technology used in the brewery industry
-for *Saccharomyces cerevisiae* cultivation. In that process, large fermentation
+for *[[saccharomyces-cerevisiae]]* cultivation. In that process, large fermentation
 vessels are filled with sugar broth, inoculated with pure spores, then incubated
 and aerated via air compressors. The mushroom industry has adapted this same
 principle at scale, leveraging the natural vigor of massive spore populations to
@@ -87,59 +88,3 @@ colonize substrates without laboratory intervention.
 
 Spore mass inoculation of sterilized substrates is limited to species that form
 mushrooms under totally sterile conditions. Wild-collected spores carry too many
-contaminants, including bacteria, mold spores, and competing fungi, to reliably
-produce clean cultures on sterilized media. This is why the technique is best
-suited for outdoor or semi-sterile bulk substrate applications where the target
-species can outcompete contaminants through rapid colonization.
-
-## Spore Biology and Genetics
-
-### Spore Germination and Hyphal Growth
-
-Each spore possesses one half the genetic material necessary for propagation.
-Upon germination, a filamentous cell called a **hypha** extends outward from the
-spore. Hyphae reproduce mitotically, building length and branching as they seek
-nutrients. Two compatible hyphae must eventually fuse and combine their genetic
-material. The resulting mycelium is **binucleate** and **dikaryotic**, meaning
-each cell contains two nuclei, and this dikaryotic state accelerates growth
-significantly compared to unmated single-spore cultures.
-
-### Mating Systems
-
-Mating in mushrooms is genetically determined. Most gourmet species are governed
-by two incompatibility factors, known as a **bifactorial mating system**. This
-means that two hyphae must differ at both mating loci to be compatible and form
-a fertile dikaryon. When compatible hyphae meet, the resulting dikaryotic
-mycelium grows faster and more vigorously than unmated mycelium arising from
-single spores alone. This advantage is one reason why spore mass inoculation
-works: the enormous number of spores ensures many compatible matings occur.
-
-### Natural Dispersal and Genetic Diversity
-
-In nature, spores are dispersed by wind, insects, and mammals to distant
-habitats. Different varieties meet and exchange genetic material in new
-environments, creating the genetic diversity that is critical for species
-adaptation over evolutionary time. Stamets describes each mushroom as being like
-an island: spore populations are densest at the center, directly beneath the
-cap, and decrease with distance from that center. This pattern reflects the
-physical reality of spore discharge and settling, and it underscores why
-collecting prints from fresh, well-formed specimens yields the greatest spore
-density.
-
-## Safety Warning for Outdoor Cultivators
-
-Outdoor cultivators must hone their [[psilocybin-mushroom-identification-guide]] skills thoroughly.
-The most critical safety concern is avoiding members of the
-[[pholiotina-filaris-profile|Pholiotinafilaris]] groups, both of which contain deadly amatoxins. These species can
-resemble edible mushrooms and may colonize the same outdoor substrates as
-intended gourmet species. Cultivators must also be able to distinguish these
-dangerous species from Psilocybe species and other
-look-alikes. Misidentification can be fatal, making rigorous study of local
-mycoflora an absolute prerequisite for anyone engaging in wild spore collection
-and outdoor cultivation.
-
-## See Also
-
-- Species Library
-- [[substrate-preparation|Substrate Preparation]]
-- Mushroom Identification

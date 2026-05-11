@@ -10,7 +10,7 @@ tags:
 - ducks
 - goats
 - byproducts
-- homesteading
+- [[homesteading]]
 - recipe
 - ethics
 - harvesting
@@ -138,7 +138,7 @@ Goats are typically skinned, not scalded:
 
 ## Curing and Smoking
 
-See [[food-preservation-canning]] for detailed methods. Quick reference:
+See [[food-preservation-canning]] for detailed methods. [[cover-crop-quick-reference]]:
 - **Dry cure**: Salt + sugar + spices rub; 7-10 days per inch thickness
 - **Brine cure**: Submerge in salt/sugar/water 1-2 weeks
 - **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)

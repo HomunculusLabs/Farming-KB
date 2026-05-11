@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Calabrò, L. et al. (2016). "The controversial history of Citrus bergamia Risso." Journal of Agricultural and Food Chemistry, 64(52), 9798-9805.
-  - Servili, M. et al. (2014). "Volatile compounds and glycosidase activities in bergamot." Journal of Agricultural and Food Chemistry, 52(14), 4640-4645.
+  - Servili, M. et al. (2014). "[[mycovolatiles-fungal-volatile-compounds]] and glycosidase activities in bergamot." Journal of Agricultural and Food Chemistry, 52(14), 4640-4645.
   - Mandalari, G. et al. (2006). "Characterization of flavonoids and pectins in bergamot peel." Journal of Agricultural and Food Chemistry, 54(1), 64-71.
   - Russo, A. et al. (2016). "Bergamot essential oil: from basic research to clinical application." Frontiers in Pharmacology, 7, 122.
   - Food and Agriculture Organization (2023). "Citrus fruit: World production and trade data." FAOSTAT, Rome.
@@ -21,7 +21,7 @@ sources:
 
 **Citrus bergamia**, commonly known as the bergamot orange or simply bergamot, is a small citrus tree prized primarily for its aromatic peel oil. The essential oil is a key ingredient in Earl Grey tea, perfumery, and aromatherapy.
 
-The taxonomic origin of bergamot has been debated for centuries. Recent molecular evidence supports it as a hybrid of Citrus limetta (sweet lime) and Citrus aurantium (sour orange), though some studies propose Citrus aurantifolia as a parent.
+The taxonomic origin of bergamot has been debated for centuries. Recent molecular evidence supports it as a hybrid of Citrus limetta (sweet lime) and [[citrus-aurantium]] (sour orange), though some studies propose [[citrus-aurantifolia]] as a parent.
 
 Bergamot is cultivated almost exclusively in a narrow coastal strip of the Calabria region in southern Italy. This small area produces over 80% of the world's bergamot essential oil supply.
 
@@ -35,7 +35,7 @@ The fruit is rarely eaten fresh due to its intensely sour and bitter flavor. Its
 
 Citrus bergamia was first formally described by Giovanni Antonio Risso and Pierre Antoine Poiteau in 1818 in their work *Histoire naturelle des orangers*.
 
-The species is of hybrid origin and does not breed true from seed. Vegetative propagation is required to maintain cultivar characteristics, and clonal selection has produced numerous named varieties.
+The species is of hybrid origin and does not breed true from seed. [[hamilton-vegetative-propagation]] is required to maintain cultivar characteristics, and clonal selection has produced numerous named varieties.
 
 The tree is medium-sized, typically 3–5 meters tall, with a rounded to somewhat irregular crown. It is more cold-sensitive than many other citrus species, damaged by temperatures below -3°C.
 
@@ -55,7 +55,7 @@ The Calabrian bergamot zone extends roughly 100 km along the coast, from sea lev
 
 Small-scale commercial production also occurs in southern France, Turkey, Morocco, Argentina, and Brazil. However, the oil profile of non-Calabrian fruit differs noticeably from the Italian standard.
 
-The species requires a Mediterranean or subtropical climate with warm summers and mild, relatively frost-free winters. Temperatures below -3°C cause significant damage to foliage and fruit.
+The species requires a Mediterranean or [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] with warm summers and mild, relatively frost-free winters. Temperatures below -3°C cause significant damage to foliage and fruit.
 
 Optimal soils are well-drained, sandy to clay loams with pH 6.0–7.5. The Calabrian coastal soils, derived from metamorphic and sedimentary parent materials, are considered ideal.
 
@@ -87,27 +87,4 @@ Bergamot juice is rich in ascorbic acid (vitamin C), flavonoids (naringin, neoer
 
 The essential oil is the defining flavoring in Earl Grey tea, where it imparts a distinctive citrus-floral note. It is also used extensively in perfumery as a top note in over one-third of men's fragrances and one-third of women's fragrances.
 
-In aromatherapy, bergamot oil is used for its purported anxiolytic and mood-enhancing properties. Clinical trials have shown modest reductions in anxiety scores with inhalation of the oil.
-
-Bergamot polyphenol extract is marketed as a dietary supplement for cardiovascular health. Standardized preparations containing 500 mg of bergamot polyphenolic fraction are commercially available.
-
-## Economic and Cultural Role
-
-Bergamot cultivation is economically vital to the Calabrian economy. The industry supports thousands of farmers, processors, and workers involved in harvesting, oil extraction, and marketing.
-
-The global bergamot essential oil market was valued at approximately $40–50 million annually, with Italy commanding premium prices due to the oil's superior quality and Protected Designation of Origin (PGI) status.
-
-Calabrian bergamot oil received European PGI recognition (PGI Bergamotto di Calabria) in 2000, protecting the geographical origin and traditional production methods.
-
-The fruit has cultural significance in Calabrian folklore and cuisine. Bergamot marmalade, candied peel, and liqueurs (such as bergamino) are traditional local products.
-
-## See Also
-
-- [[citrus-sinensis]]
-- [[citrus-limon]]
-- [[citrus-aurantium]]
-- [[citrus-reticulata]]
-- [[citrus-paradisi]]
-- [[citrus-aurantifolia]]
-- [[linalool]]
-- [[limonene]]
+In aromatherapy, bergamot oil is used for its purported anxiolytic and mood-enhancing properties. [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] have shown modest reductions in anxiety scores with inhalation of the oil.

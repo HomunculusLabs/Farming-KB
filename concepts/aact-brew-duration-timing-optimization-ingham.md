@@ -1,5 +1,5 @@
 ---
-title: AACT Brew Duration and Timing Optimization
+title: Aact Brew Duration Timing Optimization Ingham
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 tags: [aact, compost-tea, brew-duration, timing, microbial-activity, elaine-ingham, soil-food-web, extraction-phase]
 created: 2026-05-10
@@ -17,7 +17,7 @@ The duration of an [[actively-aerated-compost-tea]] (AACT) brew is one of the mo
 
 The initial phase of brewing [[aact-water-quality-chlorine-removal-brewing-standards-ingham]] is primarily an extraction process rather than a growth phase. During this period:
 
-- Soluble nutrients, humic acids, fulvic acids, and plant growth hormones are extracted from the compost and any added ingredients
+- Soluble nutrients, humic acids, fulvic acids, and [[gibberellins-plant-growth-hormones]] are extracted from the compost and any added ingredients
 - Dormant microorganisms are reactivated from their resting states in the compost
 - Initial bacterial populations begin to wake up and start consuming the food resources added to the brewer
 - Minimal multiplication occurs during this phase; the focus is on getting organisms into solution
@@ -30,21 +30,21 @@ This is the primary growth phase where microorganism populations multiply expone
 
 - Bacteria reproduce rapidly, with generation times as short as 20-30 minutes under ideal conditions
 - Fungi begin to grow and extend hyphae, though fungal growth is slower than bacterial growth
-- Protozoa and nematodes become active and begin feeding on bacteria, cycling nutrients
+- [[teaming-with-microbes-protozoa-and-nematodes]] become active and begin feeding on bacteria, cycling nutrients
 - The food resources added to the brew (molasses, kelp, fish hydrolysate) drive population growth
 - Dissolved oxygen must be maintained above 6 ppm throughout this phase
 
-The growth phase is where the bulk of microbial biomass is produced. A well-managed brew can achieve bacterial populations in the range of 10⁸-10⁹ CFU/mL by the end of this phase. (see [[ingham-micronized-compost-aact-brewing-technique]]).
+The growth phase is where the bulk of [[soil-microbial-biomass-measurement-ecological-significance]] is produced. A well-managed brew can achieve bacterial populations in the range of 10⁸-10⁹ CFU/mL by the end of this phase. (see [[ingham-micronized-compost-aact-brewing-technique]]).
 
 ### Phase 3: Maturation (24-36 hours)
 
 During the maturation phase:
 
 - Growth rates begin to slow as food resources are depleted
-- Microbial communities stabilize and begin forming more complex food web structures
+- [[cannabis-rhizosphere-microbial-communities]] stabilize and begin forming more complex food web structures
 - Predator-prey relationships mature; protozoa populations peak as they consume accumulated bacteria
 - Fungal biomass reaches its maximum extent
-- The microbial community reaches its most diverse and balanced state
+- The [[cannabis-cultivar-microbial-community-effects]] reaches its most diverse and balanced state
 
 This phase represents the optimal window for applying the tea. The food web is fully developed and the nutrient cycling capacity is at its peak.
 
@@ -88,59 +88,3 @@ Any off-odors mean the brew should be discarded, not applied to plants. Anaerobi
 ### Foam Production
 
 Healthy AACT brews typically produce foam due to surfactants created by bacterial activity. Foam indicates active microbial metabolism. However, excessive foam combined with off-odors suggests the brew has entered an undesirable state.
-
-## Application Timing Considerations
-
-### Time of Day
-
-Apply AACT in the early morning or late evening when:
-
-- Soil temperatures are moderate
-- UV radiation is low (sunlight can kill exposed microorganisms)
-- Plant stomata are open for foliar applications
-
-### Growth Stage of Plants
-
-- **Seedlings and clones**: Apply lighter teas (shorter brew or diluted) to avoid overwhelming young root systems
-- **Vegetative growth**: Full-strength teas applied every 1-2 weeks support vigorous growth
-- **Pre-flowering**: A final AACT application before flower initiation establishes strong biology for the flowering cycle
-- **Flowering**: Reduce or eliminate AACT applications to prevent moisture on flowers and potential pathogen introduction
-
-### Soil Conditions
-
-- Apply when soil is moist but not saturated to ensure good distribution
-- Avoid applying to waterlogged soil — additional liquid worsens oxygen-deprived root zones
-- Consider soil temperature; cold soils (<50°F) slow microbial activity and reduce the effectiveness of applications
-
-## Common Brew Timing Mistakes
-
-### Brewing Too Short
-
-The most common beginner mistake is under-brewing. At 4-8 hours, extraction is complete but populations haven't multiplied. The tea will contain nutrients but insufficient organisms to significantly impact soil biology.
-
-### Brewing Too Long
-
-Over-brewing is arguably more dangerous than under-brewing. As food resources are exhausted, organisms begin dying. Dead bacteria release cellular contents that feed anaerobic organisms, accelerating the shift toward putrefaction. A brew that was perfect at 24 hours can become toxic by 48 hours.
-
-### Not Monitoring Dissolved Oxygen
-
-Dissolved oxygen (DO) levels should remain above 6 ppm throughout the brew. A DO meter is the most reliable tool for monitoring brew health. When DO drops below 5.5 ppm, anaerobic conditions are developing and the brew should be applied or discarded immediately.
-
-## Brew Duration Quick Reference
-
-| Brew Phase | Duration | Key Events |
-|---|---|---|
-| Extraction | 0-4 hours | Nutrient extraction, organism activation |
-| Growth | 4-24 hours | Exponential microbial multiplication |
-| Maturation | 24-36 hours | Food web stabilization, predator peaks |
-| Danger Zone | 36-48 hours | Anaerobic risk increases sharply |
-| Discard | >48 hours | Compost, do not apply to plants |
-
-## See Also
-
-- aact brewing guide complete overview ingham
-- [[aact-brewing-ingredients-molasses-humic-kelp-fish-ingham]]
-- aact dissolved oxygen and aeration requirements
-- ingham compost tea microbiology bacteria fungi protozoa
-- [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
-- aact brewing troubleshooting common problems solutions

@@ -88,24 +88,3 @@ The species is protected in several European countries within its alpine range. 
 *Dactylina arctica* relies primarily on vegetative propagation through thallus fragmentation. Fragments broken by wind, frost heaving, or animal trampling can establish on new substrates when conditions of moisture and light are favorable.
 
 Apothecia are extremely rare, and the species does not produce soredia or isidia. This limited dispersal capacity explains its patchy distribution within suitable habitats and its slow colonization of new terrain.
-
-The absence of specialized vegetative diaspores means that most dispersal events involve relatively large fragments. This constrains long-distance dispersal and contributes to genetic isolation among geographically separated populations.
-
-In Arctic environments, wind-blown snow and ice may transport fragments across frozen ground surfaces, providing a mechanism for occasional long-distance dispersal that would not be available in temperate regions.
-
-## See Also
-
-- [[dactylina-motherwellii]]
-
-- [[cetraria-nivalis]]
-- [[cladonia-rangiferina]]
-- [[cladonia-arbuscula]]
-- [[peltigera-canina]]
-- [[peltigera-aphthosa]]
-- [[nephroma-arcticum]]
-- [[hypogymnia-physodes]]
-- [[alectoria-sarmentosa]]
-- [[evernia-prunastri]]
-- [[usnea-barbata]]
-- [[mycelium]]
-- [[spore]]

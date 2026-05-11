@@ -15,7 +15,7 @@ sources:
   - Gleason H.A., Cronquist A. (1991). "Manual of Vascular Plants of Northeastern United States and Adjacent Canada." New York Botanical Garden.
   - Weakley A.S. (2023). "Flora of the Southeastern United States." University of North Carolina Herbarium.
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
-  - Cusick A.W. (2004). "Desmodium." In: Flora of North America North of Mexico, Vol. 3. Oxford University Press.
+  - Cusick A.W. (2004). "Desmodium." In: Flora [[berry-growing]] North of Mexico, Vol. 3. Oxford University Press.
   - Ogle D.W., St. John L. (2012). "Native Legumes of the United States." USDA NRCS Plant Materials Technical Note.
 ---
 
@@ -25,9 +25,9 @@ sources:
 
 The species is widespread across the eastern United States, occurring from Massachusetts and New York west to Minnesota and south to Texas and Florida. Desmodium paniculatum typically grows 0.5–2 meters tall and produces pink to lavender flowers in terminal panicles from mid-summer through early autumn.
 
-Desmodium paniculatum plays an important ecological role as a nitrogen-fixing legume in open woodlands, prairies, and old fields. It provides forage for wildlife and serves as a larval host plant for several butterfly species. The genus Desmodium contains approximately 300 species distributed worldwide, with roughly 30 species native to eastern North America.
+Desmodium paniculatum plays an important ecological role as a nitrogen-fixing legume in open woodlands, prairies, and old fields. It provides forage for wildlife and serves as a larval host plant for several butterfly species. The genus Desmodium contains approximately 300 species distributed worldwide, with roughly 30 species native to [[polypore-fungi-eastern-north-america]].
 
-The species is easily distinguished from related tick-trefoils by its relatively tall stature, open paniculate inflorescence, and the combination of narrow leaflets with a preference for drier upland sites. In the field, it is most commonly confused with Desmodium canadense, which has broader leaflets and a more densely flowered raceme.
+The species is easily distinguished from related tick-trefoils by its relatively tall stature, open paniculate inflorescence, and the combination of narrow leaflets with a preference for drier upland sites. In the field, it is most commonly confused with [[desmodium-canadense]], which has broader leaflets and a more densely flowered raceme.
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ Disjunct populations have been reported in the Ozark Highlands of Arkansas and M
 
 The species occupies a broad range of open and semi-open habitats including dry to mesic upland woods, woodland edges, prairie remnants, old fields, roadsides, and savannas. It is most commonly found in partially shaded conditions but tolerates full sun in areas with adequate moisture. Elevational range extends from near sea level to approximately 1,000 meters.
 
-Desmodium paniculatum is frequently associated with other native legumes and warm-season grasses in tallgrass prairie remnants. Common associates include Schizachyrium scoparium (little bluestem), Sorghastrum nutans (indiangrass), Andropogon gerardii (big bluestem), Lespedeza capitata, and various Asteraceae and Poaceae species.
+Desmodium paniculatum is frequently associated with other native legumes and warm-season grasses in tallgrass prairie remnants. Common associates include [[schizachyrium-scoparium]] (little bluestem), Sorghastrum nutans (indiangrass), [[andropogon-gerardii]] (big bluestem), [[lespedeza-capitata]], and various Asteraceae and Poaceae species.
 
 Desmodium paniculatum prefers well-drained, loamy to sandy soils with a slightly acidic to neutral pH (5.5–7.0). It is moderately drought-tolerant once established but performs best in areas receiving 80–120 centimeters of annual precipitation. The species is relatively intolerant of prolonged flooding or waterlogged conditions.
 
@@ -75,9 +75,9 @@ The phenology of Desmodium paniculatum is adapted to the warm-season growth cycl
 
 ## Ecology and Interactions
 
-Desmodium paniculatum forms root nodules in symbiotic association with rhizobial bacteria (Bradyrhizobium spp.), enabling biological nitrogen fixation. This capability allows the species to enrich soil nitrogen content and contribute to ecosystem fertility. Nitrogen fixed by Desmodium species becomes available to neighboring plants through decomposition of leaf litter and root turnover.
+Desmodium paniculatum forms root nodules in symbiotic association with rhizobial bacteria (Bradyrhizobium spp.), enabling [[biological-nitrogen-fixation-agriculture]]. This capability allows the species to enrich soil nitrogen content and contribute to ecosystem fertility. Nitrogen fixed by Desmodium species becomes available to neighboring plants through decomposition of leaf litter and root turnover.
 
-The sticky loment fruits are the primary mechanism of seed dispersal in Desmodium paniculatum. The hooked trichomes on the fruit segments readily attach to the fur of mammals, feathers of birds, and clothing of humans. This epizoochorous dispersal strategy enables long-distance transport of seeds across the landscape.
+The sticky loment fruits are the primary mechanism of seed dispersal in Desmodium paniculatum. The hooked trichomes on the fruit segments readily attach to the fur of mammals, feathers of birds, and clothing of humans. This epizoochorous [[stinkhorn-fungi-phallales-spore-dispersal-strategy]] enables long-distance transport of seeds across the landscape.
 
 The flowers of Desmodium paniculatum are visited by a variety of pollinators, including long-tongued bees (Megachilidae and Apidae), short-tongued bees (Halictidae), and butterflies. The species serves as a larval host for the eastern-tailed blue butterfly (Cupido comyntas) and the gray hairstreak (Strymon melinus).
 
@@ -87,33 +87,4 @@ The foliage also supports a diverse assemblage of herbivorous insects, including
 
 Desmodium paniculatum is a component of successional plant communities, often establishing on disturbed sites within 2–5 years after disturbance. It competes moderately well with herbaceous weeds and can persist in old-field communities for decades. Its ability to fix nitrogen gives it an advantage on nutrient-poor substrates.
 
-In agricultural systems, Desmodium species have been studied as potential cover crops and green manures due to their nitrogen-fixing ability and biomass production. While Desmodium paniculatum is not widely cultivated, its drought tolerance and adaptability to poor soils make it a candidate for sustainable agriculture research. Related African Desmodium species are used in push-pull pest management systems with maize.
-
-## Uses and Ethnobotany
-
-Desmodium paniculatum has limited direct agricultural use but serves as a valuable component of native seed mixes for ecological restoration and wildlife habitat improvement. Its nitrogen-fixing capability and attractiveness to pollinators make it a useful species for conservation plantings in the eastern United States.
-
-Several Desmodium species, including Desmodium paniculatum, have been investigated for their medicinal properties. Extracts from Desmodium species contain flavonoids, alkaloids, and terpenoids with reported anti-inflammatory, hepatoprotective, and antioxidant activities. However, specific pharmacological studies on Desmodium paniculatum remain limited compared to related species such as Desmodium adscendens.
-
-Preliminary phytochemical screening of Desmodium paniculatum has identified the presence of flavonoids including quercetin and kaempferol derivatives, as well as phenolic acids with documented free-radical scavenging activity. These compounds may contribute to the traditional medicinal uses attributed to the genus. Further research is needed to characterize the specific bioactive constituents and their mechanisms of action.
-
-The sticky fruits of Desmodium species are a well-known nuisance to hikers and hunters, earning them the common name "tick-trefoil." The loment segments cling tenaciously to fabric and animal fur, which, while annoying to humans, represents a highly effective seed dispersal adaptation. Indigenous peoples reportedly used the sticky fruits to fasten small items together.
-
-In native landscaping and pollinator gardens, Desmodium paniculatum provides late-season nectar resources when many other native legumes have finished flowering. Its tolerance of partial shade makes it suitable for woodland edge plantings and savanna restoration projects.
-
-The foliage of Desmodium paniculatum provides moderate nutritional value for livestock, with crude protein content of 12–16 percent in early growth stages. However, its use as a forage species is limited by the sticky fruits, which can contaminate wool and reduce livestock comfort. The species is generally considered a desirable component of native pastures and rangelands.
-
-Several Native American tribes reportedly used Desmodium species medicinally. Preparations from the roots and leaves were applied as poultices for wounds and skin ailments. The Cherokee used related Desmodium species to treat fevers and digestive complaints. These traditional uses have not been extensively validated by modern pharmacological research.
-
-Seed production in Desmodium paniculatum is variable, with individual plants producing 100–500 loments per growing season under favorable conditions. Seed predation by weevils (Apion spp.) and bruchid beetles can significantly reduce viable seed output, with predation rates of 20–60 percent reported in natural populations. Despite this, the combination of a persistent seed bank and vegetative reproduction ensures population stability over time.
-
-## See Also
-
-- [[desmodium-canadense]]
-- [[lespedeza-cuneata]]
-- [[robinia-pseudoacacia]]
-- [[baptisia-australis]]
-- [[lupinus-perennis]]
-- [[trifolium-pratense]]
-- [[medicago-sativa]]
-- [[amphicarpaea-bracteata]]
+In agricultural systems, Desmodium species have been studied as potential cover crops [[natural-farming-guide-cover-cropping-and-green-manures]] due to their nitrogen-fixing ability and [[dighton-fungal-biomass-production-aquatic-ecosystems]]. While Desmodium paniculatum is not widely cultivated, its [[dighton-fungal-drought-tolerance-plant-water-relations]] and adaptability to poor soils make it a candidate for [[phosphate-accumulators-sustainable-agriculture]] research. Related African Desmodium species are used in push-pull pest management systems with maize.

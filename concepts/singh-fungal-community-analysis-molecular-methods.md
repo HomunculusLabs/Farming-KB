@@ -88,11 +88,3 @@ fungal OTUs by ecological guild. Source tracking identifies community
 origins in treated environments.
 
 ## Applications in Remediation Monitoring
-
-1. **Baseline characterization**: Pre-treatment [[core-endorhiza-bacterial-community-composition-cannabis]] for
-   [[singh-detection-methods-degrading-fungi-environment]]
-- [[singh-key-fungal-genera-bioremediation]]
-
-## See Also
-
-- [[fungal-molecular-community-analysis]]

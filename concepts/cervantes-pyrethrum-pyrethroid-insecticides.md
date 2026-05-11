@@ -6,18 +6,19 @@ tags:
   - pest-control
   - insecticide
   - pyrethrum
-  - integrated-pest-management
+  - [[integrated-pest-management]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
 # Pyrethrum and Pyrethroid Insecticides for Cannabis
 
-**Source:** Marijuana Horticulture: The Indoor/Outdoor Medical Grower's Bible
--- Jorge Cervantes
+**Source:** [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]: The Indoor/Outdoor Medical Grower's Bible
+-- [[jorge-cervantes]]
 
 ## Natural Pyrethrum
 
@@ -87,52 +88,3 @@ allethrin, cyfluthrin, fenpropathrin, phenothrin, sumithrin, resmethrin,
 and tefluthrin.
 
 ### What They Control
-Aphids, whiteflies, thrips, beetles, cockroaches, caterpillars, and
-spider mites. Many insects and mites are resistant to pyrethroids.
-
-### Important Warnings
-Non-selective pyrethroids kill all insects and mites including beneficials
-and bees. They are somewhat toxic to mammals.
-
-### Persistence
-Breaks down in one to three days. Newer pyrethroids such as permethrin
-stay active the longest.
-
-### Forms
-Powder, liquid, aerosol.
-
-### Toxicity and Safety
-Toxic to all insects and somewhat toxic to mammals. Wear a mask and
-protective clothing when applying sprays. Aerosols contain toxic PBO and
-MGK 464, which are possible carcinogens.
-
-## General Spray Safety Guidelines
-
-Cervantes recommends preferring natural-organic sprays such as pyrethrum
-and neem, and using harsh chemicals only as a last resort. Any spray, no
-matter how benign, always seems to slow plant growth a little. Stomata
-become clogged when foliage is sprayed and covered with a filmy residue.
-Spray plants as little as possible and avoid spraying for two weeks before
-harvest. Read all labels thoroughly before use.
-
-Use only contact sprays approved for edible plants. Avoid spraying
-seedlings and tender unrooted cuttings. Wait until cuttings are rooted
-and seedlings are at least a month old before spraying.
-
-## Logical Progression of Insect Control
-
-1. Prevention (cleanliness, new soil, disease-resistant plants,
-   climate control)
-2. Manual Removal (fingers, sponges)
-3. Organic Sprays (pyrethrum, neem, insecticidal soap)
-4. Natural Predators ([[comparison-beneficial-insects-guide-vs-integrated-pest-management]])
-5. Chemicals (last resort only)
-
-## See Also
-
-- [[cervantes-chemical-fungicides-insecticides]]
-
-- [[cervantes-pest-disease]] for general [[cannabis-pest-management-guide]]
-- [[cervantes-bacillus-thuringiensis-bt-control]] for [[cervantes-biological-pest-control-predators]]
-  control
-- [[spider-mites-cannabis]] for specific pest information

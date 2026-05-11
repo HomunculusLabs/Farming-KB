@@ -1,5 +1,5 @@
 ---
-title: Sterilized Casing Soil Recipe Peat Vermiculite and Limestone [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
+title: Sterilized Casing Soil Recipe Peat Vermiculite Limestone
 tags: [mycology, mushroom-cultivation, casing-soil, peat, vermiculite, limestone, marl, substrate, sterilization]
 created: 2026-05-09
 source: guid-mhtml_file___e___textos__mycology__exotic_
@@ -9,8 +9,8 @@ source: guid-mhtml_file___e___textos__mycology__exotic_
 
 ## Overview
 
-A casing layer is a non-nutritious material applied on top of colonized
-substrate to create a microclimate favorable for mushroom formation. The
+[[query-what-is-the-difference-between-a-casing-layer-and-a-bulk-substrate]] is a non-nutritious material applied on top of colonized
+substrate to create a microclimate favorable for [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]. The
 classic recipe using peat, vermiculite, and limestone (marl) has been used
 by cultivators for decades and remains one of the most reliable formulations
 for Psilocybe and Panaeolus species on grass seed substrates.
@@ -26,7 +26,7 @@ The recommended formulation uses three ingredients in specific proportions:
 - **5 parts vermiculite**: An expanded mineral that improves aeration and
   water retention. Vermiculite prevents the peat from compacting and helps
   maintain an open, porous structure that allows gas exchange at the
-  casing surface.
+  [[abort-dead-pinhead-cleanup-casing-surface-hygiene]].
 
 - **2 parts limestone (marl)**: Crushed limestone or marl raises the pH
   of the acidic peat to a range favorable for mushroom formation
@@ -54,7 +54,7 @@ vermiculite should be clean and free of dust.
 ### Limestone (Marl)
 
 Marl is a natural calcium carbonate mudstone that has been used
-traditionally in European mushroom cultivation. Agricultural limestone
+traditionally in European [[accessible-mushroom-cultivation-for-disabilities]]. Agricultural limestone
 or dolomitic limestone can substitute for marl. The key requirement is
 that the limestone is finely ground so it disperses evenly through the
 peat. Coarse limestone particles create localized pH hotspots.
@@ -86,40 +86,5 @@ the advice of some authors who argue that sterilization kills beneficial
 microorganisms that help suppress competitive molds.
 
 Arguments for sterilization:
-- Eliminates all potential competitors, giving the mushroom mycelium an
+- Eliminates all potential competitors, giving the [[antimicrobial-compounds-mushroom-mycelium]] an
   uncontested environment.
-- Produces more consistent and predictable results.
-- Particularly important for cultivators working without a laminar flow
-  hood, where the casing application step introduces contamination risk.
-
-Arguments for pasteurization:
-- Preserves beneficial bacteria (particularly Pseudomonas species) that
-  are believed to stimulate fruiting and suppress Trichoderma.
-- Requires less energy and equipment than full sterilization.
-
-The guide's position reflects practical experience: the risk of
-contamination from unsterilized casing soil outweighs the theoretical
-benefit of [[forest-and-bamboo-beneficial-microorganisms]], especially for small-scale
-cultivation without professional facilities.
-
-## Application Depth and Surface Texture
-
-The casing layer is applied at a depth of 1.5–2.0 cm over the leveled
-grain surface. The original guide recommends keeping the surface both
-even and rough — maintaining a uniform depth while creating small valleys
-and hills. This textured surface increases the total surface area
-available for pin formation and creates microclimatic variation that can
-improve pin initiation.
-
-## Shelf Life and Storage
-
-Sterilized casing soil should be used within a few days of preparation.
-If storage is necessary, keep sealed bags at room temperature. After
-opening, the casing soil should be used immediately to minimize
-contamination exposure.
-
-## See Also
-- [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]]
-- [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-contamination-troubleshooting]]
-- [[mushroom-fruiting-body-morphogenesis]]

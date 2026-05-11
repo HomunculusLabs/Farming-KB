@@ -1,11 +1,11 @@
 ---
-title: Munn and the maria-sabina-mazatec-mushroom-ceremony Oracular Cure
+title: Munn Mazatec Mushroom Oracular Cure
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags:
-  - shamanism
-  - psilocybin
+  - [[shamanism]]
+  - [[psilocybin]]
   - ethnobotany
   - anthropology
 sources:
@@ -87,15 +87,3 @@ Munn's essay illustrates the eternal dilemma of the participant observer.
 For hallucinogenic experiences, the dilemma is compounded: two cultural worlds plus "ordinary" and "non-ordinary" realities.
 
 Munn became a convert: "To call such transcendental experiences of light, vision, and speech hallucinatory is to deny that they are revelations of reality."
-
-He proposes the shamanistic experience is "intuitive, not hallucinatory."
-
-Suggests the chemical properties of mushrooms activate brain centers connected with language and speaking.
-
-The oracular features of Mazatec shamanism may be direct results of psilocybin's effects on language centers.
-
-This hypothesis connects Munn's ethnographic observations to the broader framework explored in [[shamanic-use-of-psychedelics]]
-
-- [[psychedelic-therapy-shamanism-comparison]]
-
-- [[mckenna-ayahuasca-and-amazonian-shamanism]]

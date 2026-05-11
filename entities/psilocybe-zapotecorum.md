@@ -3,7 +3,7 @@ title: Psilocybe zapotecorum
 created: 2026-04-28
 type: species
 tags:
-  - psilocybin-mushroom
+  - [[psilocybin-mushroom]]
   - hallucinogenic-fungi
   - zapotec
   - subtropical
@@ -19,7 +19,7 @@ sources: []
 Hymenogastraceae. It is known by the common name **pajaritos de monte** (little
 birds of the woods) and is notable for its prominent, acutely papillate cap
 and preference for muddy clay soils in subtropical coffee-growing regions.
-The species was first described by Roger Heim and later interpreted by Rolf
+The species was first described by [[roger-heim]] and later interpreted by Rolf
 Singer. It is one of the more potent members of the genus and holds
 significant ethnobotanical importance among indigenous communities in southern
 Mexico.
@@ -27,7 +27,7 @@ Mexico.
 ## Taxonomy
 
 The accepted name is *Psilocybe zapotecorum* Heim sensu Singer. A closely
-related taxon, *Psilocybe semperviva* Heim and Callieux, is considered by
+related taxon, *[[psilocybe-semperviva]]* Heim and Callieux, is considered by
 many mycologists to be conspecific with this species. The epithet
 "zapotecorum" honors the Zapotec people of Oaxaca, Mexico, among whom the
 mushroom has been used ceremonially. The species was originally collected and
@@ -50,7 +50,7 @@ blue-black where handled or injured.
 ### Gills
 
 Gill attachment is adnate to adnexed. They are pale brown to coffee colored
-when young, becoming eventually purplish black at maturity with spore
+when young, becoming eventually purplish black at maturity with [[spore]]
 development.
 
 ### Stem
@@ -88,14 +88,3 @@ the cleared, moist, clay-rich soils found in these agroecosystems.
 
 *Psilocybe zapotecorum* is moderately to highly active as a psychoactive
 species. [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] have revealed variable but significant levels of
-psilocybin and [[psilocybe-southeast-asia-pacific]]. This
-  variety is most common in Puebla, Mexico. Volunteers report massive flushes
-  coming up in unison and just as suddenly disappearing.
-- [[psilocybe-brasiliensis]] is reported from Brazil and occupies a similar
-  ecological niche in subtropical [[chiric-caspi-brunfelsia-south-american-hallucinogen]] forests.
-- [[psilocybe-stuntzii-profile]]
-
-- [[psilocybe-southeast-asia-pacific]]
-- [[psilocybe-mexicana-entity-the-mushroom-cultivator]]
-- psilocybin
-- [[psilocin-and-psilocybin-chemistry]]

@@ -14,7 +14,7 @@ sources:
   - Andrews, D.J. & Kumar, K.A. (1996). "Pearl Millet." In Janick, J. & Simon, J.E. (eds.), Advances in New Crops. ASHS Press.
   - Varshney, R.K. et al. (2017). "Pearl Millet Genome Sequence Provides Insights into dighton-fungal-drought-tolerance-plant-water-relations." Nature Biotechnology, 35, 961–966.
   - FAO (2023). "FAOSTAT: Millet psilocybe-cubensis-miniculture-production-data-and-flush-longevity." Food and Agriculture Organization.
-  - Bidinger, F.R. et al. (1987). "Identification of Agronomic Traits for Improving Drought Tolerance." Field Crops Research, 17, 87–104.
+  - Bidinger, F.R. et al. (1987). "Identification of Agronomic Traits for Improving [[dighton-fungal-drought-tolerance-plant-water-relations]]." Field Crops Research, 17, 87–104.
 ---
 
 # Pennisetum glaucum
@@ -25,7 +25,7 @@ sources:
 
 Pearl millet is a critical food security crop in arid and semi-arid regions of sub-Saharan Africa and the Indian subcontinent. It is remarkably drought-tolerant, capable of producing grain in areas receiving as little as 300 mm of annual rainfall.
 
-Global production exceeds 30 million tonnes annually, with India and Niger as the largest producers. The grain is consumed as flour, porridge, fermented beverages, and livestock feed.
+Global production exceeds 30 million tonnes annually, with India and Niger as the largest producers. The grain is consumed as flour, porridge, [[comparison-mead-vs-kvass-fermented-beverages]], and livestock feed.
 
 ## Taxonomy and Morphology
 
@@ -55,13 +55,13 @@ Pearl millet grain contains approximately 8–12% protein, 60–70% carbohydrate
 
 The grain is notably rich in iron (6–11 mg/100 g) and zinc (3–5 mg/100 g), making it a valuable crop for addressing micronutrient deficiencies in populations dependent on cereal-based diets. Biofortified varieties with elevated iron and zinc content have been developed.
 
-Lipid content is relatively high for a cereal at 4–5%, with a favorable fatty acid profile including oleic, linoleic, and palmitic acids. This contributes to better storage stability and nutritional value compared to other tropical cereals.
+Lipid content is relatively high for a cereal at 4–5%, with a favorable fatty acid profile including oleic, linoleic, and palmitic acids. This contributes to better [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]] and nutritional value compared to other tropical cereals.
 
-Pearl millet is gluten-free, making it suitable for celiac patients and those with gluten intolerance. The grain also contains significant levels of phenolic compounds with antioxidant activity.
+Pearl millet is gluten-free, making it suitable for celiac patients and those with gluten intolerance. The grain also contains significant levels of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant activity.
 
 ## Cultivation
 
-Pearl millet is typically direct-seeded at rates of 2–5 kg/ha in rows spaced 50–75 cm apart. The crop matures in 75–120 days depending on variety, making it well-suited to short growing seasons.
+Pearl millet is typically direct-seeded at rates of 2–5 kg/ha in rows spaced 50–75 cm apart. The crop matures in 75–120 days depending on variety, making it well-suited to short [[jeavons-climate-adaptation-growing-seasons]].
 
 Water requirements are among the lowest of all cereal crops, with seasonal water use of 350–450 mm. This efficiency derives from rapid early growth, small leaf area relative to biomass, and stomatal regulation during drought stress.
 
@@ -79,7 +79,7 @@ The crop serves as dual-purpose grain and fodder in many farming systems. Stover
 
 Pearl millet has growing importance as a climate-resilient crop under global warming scenarios. Models project that rising temperatures and increasingly erratic rainfall will expand the areas where pearl millet is the most productive cereal option.
 
-The crop also shows promise as a forage crop in temperate regions. Hybrid pearl millet forage varieties produce high biomass yields of 15–25 tonnes DM/ha with good digestibility for ruminant livestock.
+The crop also shows promise as a forage crop in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Hybrid pearl millet forage varieties produce high biomass yields of 15–25 tonnes DM/ha with good digestibility for ruminant livestock.
 
 ## Genetic Resources and Breeding
 
@@ -88,21 +88,3 @@ The primary gene pool of pearl millet includes wild and weedy relatives across s
 Modern breeding programs exploit heterosis through hybrid development. Three-line (CMS-based) and two-line (GMS-based) hybrid systems are both used, with India's private seed sector producing most commercial hybrid seed.
 
 Genomic resources include a high-quality reference genome published in 2017 and dense SNP marker panels for genomic selection. Marker-assisted selection targets include downy mildew resistance, drought tolerance QTLs, and micronutrient biofortification.
-
-Open-pollinated varieties remain important in Africa, where formal seed systems reach a minority of farmers. Farmer-managed [[cannabis-seed-selection-and-strain-types]] and local landrace conservation are critical for maintaining genetic diversity.
-
-## See Also
-
-- [[panicum-virgatum]]
-- [[cymbopogon-citratus]]
-- [[chenopodium-quinoa]]
-- [[phaseolus-vulgaris]]
-- [[cicer-arietinum]]
-- [[moringa-oleifera]]
-- [[prosopis-juliflora]]
-- [[lathyrus-tuberosus]]
-- [[dioscorea-alata]]
-- [[artocarpus-heterophyllus]]
-- [[mangifera-indica]]
-- [[persea-americana]]
-- amaranthus-palmeri

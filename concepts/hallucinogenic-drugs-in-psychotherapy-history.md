@@ -13,19 +13,19 @@ sources:
 
 ## Overview
 
-The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of healing and divination, (3) syncretic folk religious ceremonies, and (4) hybrid shamanic-therapeutic rituals. (see [[metzner-syncretic-entheogenic-folk-ceremonies]]).
+The use of hallucinogenic drugs in psychotherapy spans several distinct eras, paradigms, and cultural traditions. Ralph Metzner's comparative overview identifies four paradigms: (1) standard Western psychedelic psychotherapy, (2) shamanic rituals of [[metzner-shamanic-healing-and-divination-paradigm]], (3) [[metzner-syncretic-folk-religious-hallucinogenic-ceremonies]] ceremonies, and (4) hybrid shamanic-therapeutic rituals.
 
 ## Western Paradigm: Psycholytic Therapy
 
-When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "perinatal matrices."
+When LSD's mind-altering properties were first discovered, it was characterised as "psychotomimetic" and "psycholytic." The psycholytic concept became the dominant model in Europe. Neurotic patients suffering from anxiety, depression, or obsessive-compulsive disorders were given LSD in a series of sessions at gradually increasing doses, while undergoing standard analytic interactions using a Freudian perspective. The Czech psychiatrist **Stanislav Grof**, working within this model, discovered that patients would relive birth and pre-birth memories -- patterns he named "[[metzner-grof-perinatal-matrices-and-transpersonal-realms]]."
 
 ## Western Paradigm: Psychedelic Therapy
 
-More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. **Humphry Osmond**, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD, coined the term "psychedelic" (mind-manifesting) in correspondence with Aldous Huxley. Psychedelic therapy usually involved one or a small number of high-dose sessions, during which the unconscious mind would manifest in vivid hallucinatory imagery, leading to insight and transformation. (see [[hallucinogenic-plants-history-ethnobotany]]).
+More or less simultaneously, the psychedelic model became preferred in Anglo-American circles. **Humphry Osmond**, working in Canada with Abram Hoffer on the treatment of alcoholism with LSD, coined the term "psychedelic" (mind-manifesting) in correspondence with Aldous Huxley. Psychedelic therapy usually involved one or a small number of high-dose sessions, during which the unconscious mind would manifest in vivid hallucinatory imagery, leading to insight and transformation.
 
 ## The Harvard Research Project
 
-**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide. (see [[anticholinergic-plants-dangers]]).
+**Timothy Leary, Frank Barron, and Richard Alpert** conducted research at Harvard that focused not on treatment but on exploring the value of the psychedelic experience for "normals" (mostly graduate students), artists, musicians, poets, and writers. They introduced the concept of "consciousness expansion" and popularized the "set and setting" hypothesis: that the primary determinants of a psychedelic experience are the internal set (intention, expectation, motivation) and the external setting or context, including the presence of a guide.
 
 ## Military Interest
 
@@ -33,11 +33,11 @@ Considerable research was devoted for about ten years to determining effective s
 
 ## The Empathogen Revolution
 
-A significant extension occurred with **Alexander Shulgin's** discovery of phenethylamines such as MDA, MDMA, and 2-CB, which bring about expansion and centering of awareness primarily on the emotional or heart level, with minimal perceptual changes. MDMA (Ecstasy) became widely used both recreationally and in therapeutic contexts, leading to the modern renaissance of psychedelic-assisted psychotherapy.
+A significant extension occurred with **[[alexander-shulgin]]'s** discovery of phenethylamines such as MDA, MDMA, and 2-CB, which bring about expansion and centering of awareness primarily on the emotional or heart level, with minimal perceptual changes. MDMA (Ecstasy) became widely used both recreationally and in therapeutic contexts, leading to the modern renaissance of psychedelic-assisted psychotherapy.
 
 ## Shamanic Healing
 
-Indigenous shamanic systems differ profoundly from Western psychotherapy in their worldview. Shamans take the medicine primarily to "see" the causes of illness and know what remedy to apply (divination). Two key differences from the Western paradigm: (1) the belief in "multiple realities" accessible through expanded states of consciousness, and (2) the belief that "spirits" encountered in dreams and visions are "just as real as the physical organism."
+Indigenous shamanic systems differ profoundly from Western psychotherapy in their worldview. Shamans take the medicine primarily to "see" the causes of illness and know what remedy to apply (divination). Two key differences from the Western paradigm: (1) the belief in "[[metzner-spirit-beings-multiple-realities-entheogens]]" accessible through expanded states of consciousness, and (2) the belief that "spirits" encountered in dreams and visions are "just as real as the physical organism."
 
 Indigenous people are known to have "profound knowledge of plants and herbs and their effects on the body and mind" and are "well able to distinguish harmful from beneficial medicines." Vision-inducing plants with a history of shamanic usage are "much more likely to be safe" than newly synthesized drugs.
 
@@ -48,4 +48,74 @@ Metzner uses "psychedelic," "hallucinogenic," and "entheogenic" interchangeably.
 ## Related Concepts
 
 - [[lsd-therapeutic-history]] -- detailed LSD therapy history from Hofmann
-- [[psilocybin-and-consciousness-expansion]] -- philosophical perspective on consciousness
+- [[psilocybin-and-consciousness-expansion]] -- [[fukuoka-nature-perfect-imperfect-philosophical-perspective]] on consciousness
+
+## Historical Context
+The use of psychoactive substances has deep roots in indigenous
+cultures worldwide, spanning thousands of years of traditional
+practice. Modern research has renewed scientific interest in these
+compounds, particularly for their potential therapeutic applications
+in treating depression, anxiety, PTSD, and addiction.
+
+## Safety Considerations
+Responsible use requires careful attention to set and setting,
+dosage accuracy, and individual psychological readiness. Integration
+of experiences through journaling, therapy, or community support
+helps maximize beneficial outcomes. Harm reduction practices
+include testing substances, having a trusted sitter present, and
+avoiding combination with other substances.
+
+## Current Research
+Contemporary clinical studies are examining mechanisms of action
+at the neural level, including effects on default mode network
+activity, neuroplasticity, and emotional processing. Results from
+Phase II and Phase III trials have shown promising outcomes for
+treatment-resistant depression and end-of-life anxiety.
+
+## Cultural Significance
+These substances have played important roles in spiritual, therapeutic,
+and cultural practices across many societies throughout history.
+Contemporary interest spans scientific research, personal development,
+creative exploration, and therapeutic applications. Understanding both
+historical context and current research provides a balanced perspective
+on their potential benefits and risks.
+
+## Legal Landscape
+The regulatory status of these substances varies significantly by
+jurisdiction and continues to evolve rapidly. Many regions have
+decriminalized or legalized therapeutic use, while others maintain
+strict prohibitions. Research exemptions exist in some jurisdictions
+for approved clinical studies. Staying informed about local regulations
+is essential for researchers, practitioners, and individuals.
+
+## Comparative Approaches
+Multiple methods exist for achieving similar outcomes, each with distinct
+advantages and trade-offs. Comparing approaches helps identify the best fit
+for specific situations, available resources, and skill levels. Factors to
+consider include time investment, material costs, required expertise, and
+expected outcomes under various conditions. Some approaches prioritize speed
+while others emphasize sustainability or cost-effectiveness.
+
+## Tools and Materials
+Essential equipment varies by approach but typically includes basic hand
+tools, measuring instruments, and safety gear. Quality tools improve
+efficiency and reduce frustration, though beginners can start with minimal
+equipment and upgrade as skills develop. Sourcing materials locally reduces
+costs and environmental impact. Repurposed and recycled materials often
+work as well as new supplies for many applications.
+
+## Troubleshooting Guide
+Common problems and their solutions include: poor results due to inadequate
+preparation (solution: invest more time in site assessment and planning);
+inconsistent outcomes across seasons (solution: maintain detailed records
+and adjust based on accumulated data); pest or disease issues (solution:
+improve preventive measures and biological controls before resorting to
+chemical interventions); slow progress (solution: verify conditions match
+requirements and consider supplemental inputs where appropriate).
+
+## See Also
+- [[metzner-hallucinogenic-drugs-psychotherapy-shamanism|Metzner Hallucinogenic Drugs Psychotherapy Shamanism]]
+- [[multiple-realities-spirit-beings-shamanic-worldview-metzner|Multiple Realities Spirit Beings Shamanic Worldview Metzner]]
+- [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion|Metzner Lsd Origins Sandoz Psycholytic Osmond Hoffer Alcoholism And Consciousness Expansion]]
+- [[metzner-psychedelic-psychotherapy-clinical-history|Metzner Psychedelic Psychotherapy Clinical History]]
+- [[shroom-cultural-history-western-discovery-valentina-wasson|Shroom Cultural History Western Discovery Valentina Wasson]]

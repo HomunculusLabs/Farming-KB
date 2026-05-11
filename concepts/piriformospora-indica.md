@@ -17,7 +17,7 @@ cultivable root endophytic fungus that colonizes roots of a wide range of
 plant species. It was discovered as the only cultivable endophyte that forms
 arbuscular mycorrhiza-like structures in roots. Unlike obligate mycorrhizal
 fungi, *P. indica* can be grown on artificial media, making it an invaluable
-model organism for studying beneficial plant-microbe interactions.
+[[canary-grass-phototropism-model-organism]] for studying beneficial plant-microbe interactions.
 
 ## Cultural Characteristics
 
@@ -57,8 +57,8 @@ interferes with the host cell death program to form a mutualistic interaction.
 
 *P. indica* vastly improves growth and overall [[dighton-fungal-biomass-production-aquatic-ecosystems]] of diverse
 hosts, including legumes and medicinally and economically important species.
-Plants tested include *Bacopa monnieri*, *Azadirachta indica* (neem),
-*Withania somnifera*, *Spilanthes calva*, *Adhatoda vasica*, and
+Plants tested include *[[bacopa-monnieri]]*, *[[azadirachta-indica]]* (neem),
+*[[ashwagandha-withania-somnifera]]*, *Spilanthes calva*, *Adhatoda vasica*, and
 *Chlorophytum borivilianum*. A pronounced growth-promotional effect has
 also been seen with terrestrial orchids.
 
@@ -71,14 +71,14 @@ availability to host plants.
 
 *P. indica* provides multiple stress protection benefits:
 
-- **Disease resistance:** Induces local and systemic resistance to fungal
+- **Disease resistance:** Induces local and [[endophytic-mycorrhizal-induced-systemic-resistance]] to fungal
   diseases in barley. The systemically altered defense readiness is
   associated with elevated antioxidative capacity through activation of the
   glutathione-ascorbate cycle.
 - **Salt tolerance:** Promotes tolerance to salt stress in host plants.
 - **Heavy metal resistance:** Provides resistance against heavy-metal
   contamination in soil.
-- **[[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]:** Overcomes transient transplant shock when
+- **[[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]:** Overcomes transient [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] when
   inoculated into tissue culture-raised plantlets, leading to nearly 100%
   survival on transfer to the field.
 
@@ -88,51 +88,3 @@ Deactivating the Arabidopsis gene DMI-1, which encodes an ion carrier
 required for mycorrhiza formation in legumes, does not affect the beneficial
 interaction between *P. indica* and Arabidopsis. This suggests that the
 signaling pathway for *P. indica* colonization differs from that of
-canonical arbuscular [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]].
-
-A leucine-rich repeat (LRR) protein is required for growth promotion and
-enhanced seed production mediated by *P. indica* in *Arabidopsis thaliana*
-(Shahollari et al. 2007). *P. indica* stimulates nitrogen accumulation and
-expression of genes for nitrate reductase and the starch-degrading enzyme
-glucan-water dikinase (SEX1) in roots (Sherameti et al. 2005).
-
-## Potential Applications
-
-*P. indica* is a potential candidate for multiple agricultural applications:
-
-- **Biofertilizer:** Enhances [[plant-nutrient-uptake-mechanisms]] and plant growth
-- **Bioprotector:** Provides resistance against pathogens and abiotic stress
-- **Bioregulator:** Modulates plant hormone pathways and gene expression
-- **Bioherbicide/weedicide potential:** Alters competitive dynamics
-- **Environmental remediation:** Combats heavy metal contamination
-- **Tissue culture hardening:** Ensures survival of micropropagated plants
-- **Agroforestry and horticulture:** Improves establishment in diverse
-  cropping systems
-
-## Relationship to Rhizoctonia
-
-The closest relatives of *P. indica* are members of the Rhizoctina group
-(Ceratobasidales). Preliminary studies indicate that *P. indica* can
-interact with orchids (*Dactylorhiza purpurella* and *D. majalis*) as a
-mycorrhizal partner, suggesting a broader ecological role in plant-fungal
-symbioses. This phylogenetic placement connects *P. indica* to important
-groups of plant-associated fungi including both endophytes and mycorrhizal
-symbionts.
-
-## Research Significance
-
-*P. indica* serves as a model organism for studying beneficial plant-microbe
-interactions because of its cultivability, broad host range, and the
-availability of molecular tools. It bridges the gap between research on
-uncultivable arbuscular mycorrhizal fungi and tractable model systems,
-providing unique insights into the mechanisms of fungal endophytism and
-plant growth promotion.
-
-## See Also
-
-- [[fungal-plant-defense]]
-- [[arbuscular-mycorrhizal-fungi]]
-- mycorrhizal-symbiosis
-- [[arabidopsis-thaliana]]
-- [[azadirachta-indica]]
-- [[bacopa-monnieri]]

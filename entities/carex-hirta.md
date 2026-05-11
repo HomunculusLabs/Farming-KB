@@ -29,7 +29,7 @@ The specific epithet hirta refers to the hairy nature of the plant's vegetative 
 
 The species is diploid with 2n = 56 chromosomes. Cytological studies have revealed some population-level variation in chromosome morphology across its European range.
 
-In herbarium collections, Carex hirta is well-represented due to its conspicuousness and wide distribution. The pressed specimens retain their characteristic hairy covering, making historical identification reliable.
+In [[biodiversity-fungal-herbarium-collections]], Carex hirta is well-represented due to its conspicuousness and wide distribution. The pressed specimens retain their characteristic hairy covering, making historical identification reliable.
 
 ## Taxonomy and Morphology
 
@@ -49,13 +49,13 @@ Flowering occurs from May to July, with fruiting extending through August. The a
 
 Hairy sedge is native to most of Europe, extending from the British Isles eastward to western Siberia. Its range includes the Mediterranean basin, where it occurs at higher elevations.
 
-In the British Isles, it is widespread and common throughout lowland England and Wales. It becomes scarcer in Scotland and is rare in Ireland, where it is largely confined to the east coast.
+In the British Isles, it is widespread and common throughout lowland England and Wales. It becomes scarcer in Scotland and is rare in Ireland, where it is largely confined to the [[east-coast-sour-diesel-clone-lineage-chemdawg-family-tree]].
 
 The species occupies a remarkably broad range of habitats, including damp meadows, woodland rides, roadside verges, railway banks, and waste ground. It is particularly characteristic of moderately fertile, moist but well-drained soils.
 
 It is absent from permanently waterlogged sites and very acidic soils. It thrives on clay loams and alluvial soils in open or semi-shaded conditions.
 
-Hairy sedge has been introduced to parts of North America and New Zealand. In these areas it is generally uncommon and not considered invasive.
+Hairy sedge has been introduced to parts [[berry-growing]] and New Zealand. In these areas it is generally uncommon and not considered invasive.
 
 The species shows a preference for neutral to slightly alkaline soil pH, typically ranging from 6.0 to 7.5. It is absent from strongly calcareous and strongly acidic substrates.
 
@@ -75,9 +75,9 @@ The hairy utricles may serve as a defence against seed predation by making the f
 
 In agricultural landscapes, hairy sedge can become a weed of arable fields and pastures. Its tolerance of herbicides varies, and it persists in intensively managed grasslands where other species decline.
 
-The species responds positively to moderate grazing pressure and can increase in swards that are grazed by cattle or sheep. Heavy grazing or frequent cutting reduces its abundance.
+The species responds positively to moderate [[gadd-mycelial-network-resilience-grazing-pressure]] and can increase in swards that are grazed by cattle or sheep. Heavy grazing or frequent cutting reduces its abundance.
 
-Mycorrhizal associations have been documented in Carex hirta roots, though the functional significance of these relationships in sedges remains less well understood than in grasses.
+[[plants-without-mycorrhizal-associations]] have been documented in Carex hirta roots, though the functional significance of these relationships in sedges remains less well understood than in grasses.
 
 The species can serve as a phytometer for assessing soil nitrogen status in grassland monitoring schemes. Its abundance increases with moderate nitrogen enrichment.
 
@@ -87,35 +87,4 @@ In wetland margin communities, hairy sedge co-occurs with species such as meadow
 
 Hairy sedge has limited ornamental value but is occasionally grown in wildflower meadows and ecological plantings. Its robust growth and tolerance of poor soils make it useful for habitat restoration projects.
 
-In traditional European herbal medicine, the roots were used as a mild astringent and diuretic. These applications are largely historical and the species has no significant modern pharmacological use.
-
-The fibrous root system helps bind soil and reduce erosion on disturbed ground. This makes it potentially useful for stabilising exposed soil surfaces in ecological engineering schemes.
-
-Propagation is straightforward from seed, which germinates readily without stratification. Division of established clumps in spring or autumn is also effective for vegetative propagation.
-
-The species is not commercially cultivated on any significant scale. It is occasionally included in native seed mixes for meadow restoration in Britain and western Europe.
-
-Hardiness is excellent, with the species tolerating temperatures below -20°C. It is well-adapted to the temperate maritime climate of western Europe.
-
-Compared to many other Carex species, hairy sedge is relatively easy to identify in the field. Its combination of hairy sheaths, ovoid hairy utricles, and robust stature makes confusion with other species unlikely.
-
-## Conservation
-
-**Carex hirta** is widespread and abundant throughout most of its range. It is classified as Least Concern and is not subject to any specific conservation measures.
-
-However, the species has declined in intensively farmed landscapes where herbicide use and grassland conversion have reduced suitable habitat. It remains common in roadside verges and marginal habitats.
-
-Long-term botanical monitoring in Britain shows that hairy sedge has maintained stable populations overall. Local declines are typically offset by colonisation of newly disturbed ground.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-sylvatica]]
-- [[carex-flava]]
-- [[carex-lupulina]]
-- [[carex-rostrata]]
-- [[carex-aquatilis]]
-- [[carex-pensylvanica]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
+In traditional European [[childrens-herbal-medicine]], the roots were used as a mild astringent and diuretic. These applications are largely historical and the species has no significant modern pharmacological use.

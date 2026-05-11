@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4248 pages**
+**4247 pages**
 
 ## #
 
@@ -3689,7 +3689,6 @@
 - [[senna-alexandrina]]
 - [[sensi-star]]
 - [[sepp-holzer]]
-- [[sepp-holzer-entity]]
 - [[sequoia-sempervirens]]
 - [[sequoiadendron-giganteum]]
 - [[serenoa-repens]]

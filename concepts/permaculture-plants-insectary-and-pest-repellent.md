@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture plants insectary and pest repellent Repellent Plants
+title: Permaculture Plants Insectary And Pest Repellent
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -35,7 +35,7 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 | Borage | | | Long season |
 | Capeweed | N | P | [[coleman-overwintered-onions-and-early-spring-crops]] |
 | Chicory | N | P | |
-| Dandelion | N | P | Long season |
+| [[dandelion]] | N | P | Long season |
 | Fennel | | | Long season |
 | Lavender | | | All year with different varieties |
 | Marjoram | | | |
@@ -61,10 +61,10 @@ Species with combined bee forage, medicinal (to livestock), and fire-retardant p
 
 | Plant | Nectar | Pollen | Season/Notes |
 |-------|--------|--------|--------------|
-| Acacia spp | | P | |
-| Black Locust | N | P | 1600 kg/ha N yield estimated; spring, summer |
+| [[acacia]] spp | | P | |
+| [[black-locust-entity]] | N | P | 1600 kg/ha N yield estimated; spring, summer |
 | Carob | N | P | Pods fed to bees to help them winter |
-| Honey Locust | N | P | Spring |
+| [[comparison-black-locust-vs-honey-locust]] | N | P | Spring |
 | Oak | | P | |
 | Tagasaste | N | P | Most of winter through spring |
 
@@ -88,55 +88,3 @@ Family: Meliaceae. Medium-sized deciduous tree (6-30 m). Leaves, seeds, and fres
 Specific applications documented:
 
 - **Angoumis grain moth**: Ether and petroleum ether extracts of fruit are toxic
-- **Cabbage worm**: Dust leaves with powdered fruit or 50-100% water extract spray
-- **Fungi (Heminthosporium, Alternaria)**: Inhibited by cold water leaf extract
-- **Grasshoppers and locusts**: 2% powdered fruit in water acts as antifeedant; dried seed powder inhibits feeding
-- **Mosquito larvae**: Killed by seed oil at 250 ppm
-- **Nematodes (Meloidogyne javanica)**: Green leaves applied to soil
-- **Painted bug**: Spraying 2% petroleum ether extract of leaves and seeds
-- **Rice weevil**: 2.5-5 parts powdered fruit per 100 parts grain protects stored grain for 4 months
-- **Tobacco cutworm**: Extracts of fruit
-
-### Neem (Azadirachta indica)
-Family: Meliaceae. Deep-rooted, broad-leaved tree, usually evergreen. Native to dry forests of India through Burma. Potentially among the most valuable arid land trees. Seeds and leaves yield azadarachtin (same active compound as cape lilac). Wood resists decay and insects, tougher than teak. Planted as companion to mango and Ficus religiosa in sacred groves in India.
-
-Additional [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] uses:
-- Dried leaves placed in books, grain, and clothes to repel insects
-- Twigs used as toothbrushes (natural insect repellent in mouth)
-- Presscake from oil extraction used as insecticide
-- Leaves ploughed into soil as green manure, said to repel nematodes
-
-### Indian Beech (Derris indica)
-Family: Fabaceae. Medium-sized deciduous tree to 8 m. Tolerates temperatures from below 0 C to 50 C. Highly tolerant of salinity, even with roots in salt water.
-
-Pest control properties:
-- Dried leaves have odour repelling insects; used to protect stored grain
-- Leaves ploughed into soil as green manure, repel nematodes
-- Presscake after oil extraction sought after by Indian farmers as insecticide
-
-### Cedars (Cedrus spp)
-The strong smell of cedar wood keeps insects away. Used for carpentry where insect deterrence is valued.
-
-## Companion Planting for Pest Management
-
-The book's companion planting lists support [[hamilton-beneficial-insects-and-biological-pest-control]] through [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] attraction and [[foliar-pest-deterrence-aact-mechanisms]].
-
-### Good Companions (Vegetables/Herbs)
-
-Key pest-management companions:
-- **Marigold** -- Companion to lettuce, potatoes, tomatoes, roses, beans
-- **Nasturtiums** -- Companion to apples, cabbages, cauliflowers, cucumbers, zucchini
-- **Garlic** -- Companion to roses, apples, peaches
-- **Borage** -- Companion to strawberries
-- **Thyme** -- Companion to cabbage family
-- **Sage** -- Companion to carrots, cabbages
-- **Rosemary** -- Companion in understorey hedgerows
-- **Chamomile** -- Companion to cabbages
-
-### Bad Companions (Avoid Pairing)
-
-These pairings may increase pest problems:
-- Fennel with beans, tomatoes, kohlrabi, coriander, wormwood
-- Potatoes with apples, cherries, cucumbers, pumpkins, tomatoes, raspberries
-- Strawberries with cabbages, cauliflowers, tomatoes
-## See Also

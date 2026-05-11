@@ -12,7 +12,7 @@ tags:
   - dye-plant
 sources:
   - Shepherd K. (2004). "Dodonaea viscosa: Fire Tolerant Shrub for Revegetation." Rural Industries Research and Development Corporation, Australia.
-  - Orwa C, et al. (2009). "Agroforestree Database: a tree reference and selection guide." World Agroforestry Centre.
+  - Orwa C, et al. (2009). "Agroforestree Database: a tree reference [[lemon-cannabis-alchemy-solvent-properties-and-selection-guide]]." World Agroforestry Centre.
   - Singh S, Singh A. (2011). "Pharmacological review of Dodonaea viscosa." International Journal of Pharmaceutical Sciences and Research 2(12): 2999-3007.
   - Navie SC, et al. (1996). "The biology of Australian weeds: Dodonaea viscosa." Plant Protection Quarterly 11(3): 122-131.
 ---
@@ -23,11 +23,11 @@ sources:
 
 Dodonaea viscosa, commonly known as hop bush or sticky hop bush, is a widespread evergreen shrub in the family Sapindaceae.
 
-It is native to a vast geographic range spanning Africa, Asia, Australia, and the Pacific Islands, as well as parts of the Americas.
+It is native to a vast geographic range spanning Africa, Asia, Australia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]], as well as parts of the Americas.
 
 The species is remarkably versatile, valued in traditional medicine, land rehabilitation, [[permplant-willows-salix-erosion-control-fodder]], and as a source of dye and fuelwood.
 
-Its common name derives from the hop-like appearance of its papery, winged fruits, which superficially resemble the cones of Humulus lupulus.
+Its common name derives from the hop-like appearance of its papery, winged fruits, which superficially resemble the cones of [[humulus-lupulus]].
 
 The sticky resinous leaves are a distinctive feature, giving rise to the specific epithet *viscosa*, meaning "sticky" in Latin.
 
@@ -43,7 +43,7 @@ The sticky resinous leaves are a distinctive feature, giving rise to the specifi
 
 ### Varieties and Subspecies
 
-Several infraspecific taxa are recognized, reflecting the species' wide geographic distribution and morphological variability.
+Several infraspecific taxa are recognized, reflecting the species' wide [[geographic-distribution-of-psilocybe-species]] and morphological variability.
 
 - *D. viscosa* subsp. *viscosa* — widespread in Africa, Asia, and Australia
 - *D. viscosa* subsp. *angustifolia* — narrow-leaved form, southern Africa
@@ -87,57 +87,3 @@ The plant shows excellent tolerance of drought, fire, salt spray, and poor soils
 ## Traditional and Medicinal Uses
 
 Dodonaea viscosa has an extensive ethnobotanical history across its native range, used by indigenous peoples on multiple continents.
-
-In Australian Aboriginal medicine, a decoction of the leaves was used to treat colds, headaches, and respiratory infections.
-
-In southern Africa, traditional healers use leaf preparations for chest complaints, skin infections, and as a poultice for sprains and bruises.
-
-In India and Pakistan, the species is used in Ayurvedic and Unani medicine for treatment of rheumatism, gout, and inflammatory conditions.
-
-Pharmacological studies have confirmed anti-inflammatory, analgesic, antimicrobial, and antioxidant activities in leaf and stem extracts.
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include diterpenoids (dodonaeic acids), flavonoids (vitexin, isovitexin), and saponins.
-
-Antimicrobial activity has been demonstrated against both Gram-positive and Gram-negative bacteria, including some antibiotic-resistant strains.
-
-## Permaculture and Land Rehabilitation Applications
-
-Dodonaea viscosa is increasingly recognized as a valuable species for ecological restoration and permaculture systems.
-
-Its deep root system and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it excellent for erosion control on degraded hillsides and mine rehabilitation sites.
-
-The plant establishes readily from [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] and shows rapid early growth, quickly providing ground cover on disturbed soils.
-
-As a windbreak, D. viscosa provides effective shelter for more sensitive understory plantings in exposed sites.
-
-It serves as a nurse plant, creating favorable microclimates for the establishment of slower-growing native species.
-
-The species is fire-adapted, resprouting vigorously after burning, making it suitable for fire-prone landscape management.
-
-It can fix nitrogen indirectly through associations with [[arbuscular-mycorrhizal-fungi-biology-symbiosis]], improving soil fertility on degraded sites.
-
-The colorful fruits and dense foliage provide habitat and food for birds, while the foliage supports various butterfly and moth larvae.
-
-The leaves yield a yellow-green to brown dye suitable for wool and basketry, used traditionally by Aboriginal weavers.
-
-Wood is dense and burns well when dry, making it a useful fuelwood species in areas where timber is scarce.
-
-## Cultivation
-
-Dodonaea viscosa is easily propagated from seed, which requires no pre-treatment though stratification may improve germination rates.
-
-Seed should be sown in well-drained seed-raising mix and kept moist; germination typically occurs within 2–4 weeks.
-
-Cuttings from semi-hardwood also strike readily, providing a means of cloning specific female plants for reliable fruit production.
-
-The species is highly adaptable in cultivation, tolerating full sun to partial shade and a wide range of soil pH values.
-
-Once established, plants require minimal irrigation and maintenance, making them suitable for low-input sustainable landscapes.
-
-## See Also
-
-- atropia belladonna
-- [[caragana-arborescens]]
-- [[hippophae-rhamnoides-permaculture]]
-- [[myrica-gale]]
-- [[salix-alba]]

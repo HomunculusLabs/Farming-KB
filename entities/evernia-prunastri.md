@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Evernia prunastri, commonly known as oakmoss, is a fruticose lichen in the family Parmeliaceae, widely distributed across temperate regions of the Northern Hemisphere.
+Evernia prunastri, commonly known as oakmoss, is a fruticose lichen in the family Parmeliaceae, widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere.
 
 It is one of the most commercially important lichens, harvested extensively for use in the perfumery industry as a fixative and base note in chypre and fougère fragrance families.
 
@@ -29,7 +29,7 @@ E. prunastri has a long history of use in traditional medicine and continues to 
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Parmeliaceae > Genus Evernia.
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] > Phylum Ascomycota > Class Lecanoromycetes > Order Lecanorales > Family Parmeliaceae > Genus Evernia.
 
 **Authority:** (L.) Ach. (1810). Basionym: Lichen prunastri L. (1753).
 
@@ -51,13 +51,13 @@ Pycnidia are common, producing conidia that facilitate asexual reproduction.
 
 ## Distribution and Habitat
 
-E. prunastri has a wide distribution across Europe, North Africa, temperate Asia, and North America.
+E. prunastri has a wide distribution across Europe, North Africa, temperate Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 In Europe, it is particularly abundant in Mediterranean and Atlantic regions with high humidity and moderate temperatures.
 
 The species is almost exclusively corticolous, growing on the bark of deciduous and coniferous trees.
 
-Preferred host trees include oak (Quercus spp.), hazel (Corylus avellana), pine (Pinus spp.), fir (Abies spp.), and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
+Preferred host trees include oak (Quercus spp.), hazel ([[corylus-avellana]]), pine (Pinus spp.), fir (Abies spp.), and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]].
 
 It is most commonly found on the trunks and main branches of mature trees in open woodlands, hedgerows, and orchards.
 
@@ -88,35 +88,3 @@ E. prunastri has been used in European traditional medicine for centuries, parti
 It was employed in folk medicine as a treatment for respiratory ailments, digestive complaints, and topical skin infections.
 
 The lichen was historically steeped in alcohol or boiled in water to prepare decoctions and tinctures for medicinal use.
-
-In Italian folk tradition, oakmoss extracts were applied externally to treat wounds, ulcers, and inflammatory [[cannabis-for-skin-conditions-detailed]].
-
-Its most significant commercial use is in the perfumery industry, where it has been used as a base note and fixative since the 16th century.
-
-Oakmoss absolute, obtained through solvent extraction of the dried lichen, is a key ingredient in iconic perfumes such as Chanel No. 5 and Miss Dior.
-
-Commercial harvesting of E. prunastri has raised conservation concerns in some regions, as overcollection can deplete local populations.
-
-The perfume industry has increasingly turned to synthetic oakmoss alternatives (e.g., Evernyl) to reduce pressure on wild populations.
-
-## Ecology
-
-E. prunastri forms a mutualistic symbiosis with the green algal photobiont Trebouxia, which provides photosynthate to the fungal partner.
-
-The species is moderately pollution-sensitive and serves as a useful bioindicator of air quality in temperate forest ecosystems.
-
-It contributes to forest microhabitats by providing shelter and food for various invertebrate species, including mites and springtails.
-
-The pendulous growth form creates a humid microenvironment beneath the thallus that supports diverse microbial communities.
-
-E. prunastri plays a role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by trapping atmospheric dust and gradually releasing minerals as the thallus decomposes.
-
-The species is relatively slow-growing, with annual biomass increases estimated at 5–10% under optimal conditions.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[usnea-hirta]]
-- [[xanthoria-parietina]]
-- [[lichen-symbiosis]]
-- [[cetraria-islandica]]

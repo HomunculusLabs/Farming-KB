@@ -1,5 +1,5 @@
 ---
-title: "Sugar, Slavery, and the Commodification of Intoxication in mckenna-dominator-culture-and-suppression-of-ecstasy"
+title: Mckenna Sugar Slavery Dominator Culture Commodities
 source: "mckenna_t-food_of_the_gods"
 source_id: "mckenna-sugar-slavery-dominator-culture-commodities"
 topics:
@@ -7,7 +7,7 @@ topics:
   - slavery
   - dominator-culture
   - colonialism
-  - caffeine
+  - [[caffeine]]
   - addiction
   - history-of-drugs
 created: 2026-05-09
@@ -17,7 +17,7 @@ created: 2026-05-09
 
 ## Overview
 
-In *Food of the Gods*, Terence McKenna positions sugar not merely as a dietary ingredient but as a central pillar of what he calls "dominator culture" — the hierarchical, patriarchal, and expansionist social formation that arose with the decline of partnership societies and the loss of the mushroom-centered ecstatic religions of antiquity. Sugar, McKenna argues, is a drug whose addictive properties drove some of the most brutal chapters of European colonial history, including the transatlantic slave trade. Its role in fueling the Industrial Revolution through the caffeine-sugar complex of tea, coffee, and chocolate makes it arguably the most consequential psychoactive substance in modern civilization.
+In *Food of the Gods*, [[terence-mckenna]] positions sugar not merely as a dietary ingredient but as a central pillar of what he calls "dominator culture" — the hierarchical, patriarchal, and expansionist social formation that arose with the decline of partnership societies and the loss of the mushroom-centered ecstatic religions of antiquity. Sugar, McKenna argues, is a drug whose addictive properties drove some of the most brutal chapters of European colonial history, including the transatlantic slave trade. Its role in fueling the [[mckenna-caffeine-coffee-and-industrial-revolution]] through the caffeine-sugar complex of tea, coffee, and chocolate makes it arguably the most consequential psychoactive substance in modern civilization.
 
 McKenna's analysis treats sugar as a lens through which to examine the broader pathology of dominator social organization: the substitution of hierarchical control for ecological partnership, of addictive consumption for ecstatic experience, and of exploitative commodity production for sustainable livelihood.
 
@@ -27,7 +27,7 @@ McKenna's treatment of sugar as a drug is deliberately provocative. He asks: is 
 
 ### Behavioral Parallels
 
-Sugar addicts may be maintenance users or they may be binge eaters. The depths of serious sugar addiction are exemplified by bulimics who may binge on sugar-saturated food and then induce vomiting or use a laxative purge to enable them to eat more sugar. McKenna draws a pointed analogy: if a similar practice were associated with heroin addiction, it would provoke immediate moral outrage, yet sugar addiction is normalized because sugar is culturally defined as a food rather than a drug.
+Sugar addicts may be maintenance users or they may be binge eaters. The depths of serious sugar addiction are exemplified by bulimics who may binge on sugar-saturated food and then induce vomiting or use a laxative purge to enable them to eat more sugar. McKenna draws a pointed analogy: if a similar practice were associated with [[heroin]] addiction, it would provoke immediate moral outrage, yet sugar addiction is normalized because sugar is culturally defined as a food rather than a drug.
 
 ### The Addiction Profile
 
@@ -67,7 +67,7 @@ Thus began the modern slave trade — not the transatlantic trade, which was yet
 
 Sugar slavery was the first time since the Roman latifundia that mass slavery had been used to grow a crop for trade rather than subsistence. It was also the first time in history that one race had been uniquely selected for a servile role. Spain and Portugal voluntarily abjured the enslavement of East Indian, Chinese, Japanese, or European slaves to work in the Americas — they reserved this fate for Africans alone.
 
-The slave trade was itself a kind of addiction. The early importation of African slave labor into the New World was for one purpose only: to support an agricultural economy based on sugar. The craze for sugar was so overwhelming that a thousand years of Christian ethical conditioning meant nothing. An outbreak of human cruelty and bestiality of incredible proportions was blandly accepted by the institutions of polite society.
+The slave trade was itself a kind of addiction. The early importation of [[guzman-allen-gartz-cubensis-introduction-african-slave-commerce-hypothesis]] labor into the New World was for one purpose only: to support an agricultural economy based on sugar. The craze for sugar was so overwhelming that a thousand years of Christian ethical conditioning meant nothing. An outbreak of human cruelty and bestiality of incredible proportions was blandly accepted by the institutions of polite society.
 
 In 1800 virtually every ton of sugar imported into England had been produced with slave labor. The ability of the ego-dominator culture to suppress these realities is, for McKenna, astonishing.
 
@@ -88,33 +88,3 @@ This process of deepening cultural psychosis — an obsession with ego, money, a
 The introduction of tea, coffee, and chocolate into Europe in the 1650s created a synergistic drug system. All three were stimulants, all were brewed with boiled water (rendering it safe from waterborne diseases), and all required copious amounts of sugar. The sugar craze promoted caffeine beverage use, which in turn promoted sugar consumption.
 
 ### Fueling the Industrial Revolution
-
-Caffeine in coffee and its close cousin theobromine in tea became the ideal drugs for the Industrial Revolution: they provided an energy lift, enabling people to keep working at repetitious tasks that demanded concentration. The tea and coffee break is, McKenna notes, the only drug ritual that has never been criticized by those who profit from the modern industrial state.
-
-The tendency of sugar to become addictive is reinforced when sugar is used to make the ingestion of stimulating alkaloids like caffeine more palatable. Caffeine is bitter; the discovery that it could be made more palatable with honey or sugar created a synergistic effect that persists in every coffee shop and tea service in the modern world.
-
-### The Drug of Gentility
-
-McKenna opens his discussion of the caffeine drugs with Wallace Stevens's poem "Sunday Morning" — "Complacencies of the peignoir, and late / Coffee and oranges in a sunny chair." Stevens's lines evoke an aura of genteel satiety surrounding the drug caffeine. McKenna's point is that our stereotyped notion of what constitutes drugs is strained when we are asked to consider such delicate accessories of bourgeois sensibility as tea, coffee, and cocoa as being in the same category as heroin and cocaine. Yet all are drugs.
-
-## Critical Assessment
-
-McKenna's analysis of sugar as a drug of dominator culture is his most sustained piece of social criticism. His historical narrative is well-sourced and largely accurate, drawing on Hobhouse, Lewin, and the addiction clinical literature. His rhetorical framing — comparing sugar addiction to heroin, calling the slave trade a form of addiction — risks conflating metaphor with mechanism. The economic historian would note that sugar production was driven by profit motive and mercantilist policy rather than by addiction per se.
-
-Nevertheless, McKenna's central insight — that the distinction between "food" and "drug" is culturally constructed and politically motivated — remains a powerful corrective to conventional thinking about substance use. His insistence that sugar stands at a watershed in the history of drugs, reinforcing and supporting industrial civilization's emphasis on efficiency at the price of Archaic human values, challenges readers to reconsider the ordinary substances of daily life as agents of cultural transformation.
-
-The pattern established by England's nineteenth-century opium diplomacy — using military force to open foreign markets to domestically produced drugs — has been repeated in subsequent centuries, albeit with new variations. McKenna draws an explicit line from the Opium Wars through twentieth-century intelligence agency involvement in the international heroin and cocaine trade. The logic of commodified intoxication, once established, proved remarkably persistent.
-
-## See Also
-
-- [[mckenna-food-gods-sugar-addiction-slavery]] — The opium wars as continuation of pharmacological colonialism
-- [[mckenna-dominator-vs-partnership-society-model]] — McKenna's core theoretical framework
-- [[mckenna-cannabis-cultural-style-and-feminine-plant]] — Cannabis as alternative drug [[mckenna-cannabis-cultural-style-and-feminine-plant]]
-- [[mckenna-food-of-the-gods-thesis]] — Overview of McKenna's drug history thesis
-
-## Sources
-
-- McKenna, Terence. *Food of the Gods* (1992), Chapters 12 and 14
-- Hobhouse, Henry. *Seeds of Change* (1985)
-- Phelps, Janice K. — cited on sugar addiction clinical literature
-- Lewin, Louis. *Phantastica* (1924) — referenced on coffee effects

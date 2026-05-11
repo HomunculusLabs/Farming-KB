@@ -17,7 +17,7 @@ tags:
 
 # Shipibo Ayahuasca Towns Ucayali and Pucallpa
 
-The Ucayali region of Peru's Amazon basin has been
+The [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of Peru's Amazon basin has been
 a center of ayahuasca practice and tourism for
 decades. R. Stuart's 2002 field observations
 documented the ayahuasca landscape around Pucallpa,
@@ -30,7 +30,7 @@ infrastructure supporting [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
 The Ucayali Department lies in eastern Peru, part
 of the broader Amazon basin. The region is
 characterized by lowland [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]], river
-systems, and a mixed population of indigenous
+systems, and a [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]] of indigenous
 Shipibo-Conibo people and mestizo settlers. The
 city of Pucallpa serves as the regional capital
 and the primary gateway for visitors seeking
@@ -39,7 +39,7 @@ ayahuasca experiences.
 Stuart visited Ucayali in November 2001 as part
 of a cactus identification research project
 supported by a MAPS grant. His observations of
-the ayahuasca tourism scene were a secondary
+the [[ayahuasca-tourism]] scene were a secondary
 product of this botanical fieldwork, giving them
 the character of an informed but incidental
 account rather than a dedicated study.
@@ -50,7 +50,7 @@ Stuart noted that "for the past decade, many
 ayahuasca tourists in Peru have flocked to
 Iquitos." Located in the neighboring Loreto
 Department, Iquitos is the largest city in the
-Peruvian Amazon and accessible only by river or
+[[ayahuasca-tourism-economics-peruvian-amazon]] and accessible only by river or
 air. Its isolation and established tourism
 infrastructure made it the natural center for
 ayahuasca tourism.
@@ -88,49 +88,3 @@ taxi from Yarina, stood out as a significant
 ayahuasca destination. Stuart noted the "enormous
 sign at the entrance of San Francisco" proclaiming
 the town as the "Centro Ceremonial del Ayahuasca"
-— the Ceremonial Center of Ayahuasca.
-
-This self-designation reflected the town's
-identity as a center of Shipibo ayahuasca
-tradition. "There are at least a couple of
-ayahuasqueros in almost every Shipibo family"
-in San Francisco, indicating how deeply
-integrated ceremonial practice was into daily
-life. Many practitioners were willing to host
-ceremonies for both other Peruvians and foreign
-visitors.
-
-San Francisco's ceremonial culture extended
-beyond commercial tourism. Stuart described
-hearing icaros being sung at night in the home
-of "E," a practitioner "widely regarded as an
-honorable man," during private services for his
-family. This contrast between public commercial
-ceremonies and private family rituals illustrated
-the dual nature of ayahuasca practice in the
-community.
-
-## The Shipibo Tradition
-
-The Shipibo-Conibo people are among the most
-recognized ayahuasca-practicing cultures in the
-Peruvian Amazon. Their distinctive icaros,
-elaborate textile designs inspired by ayahuasca
-visions, and sophisticated plant knowledge have
-made them a primary draw for ayahuasca tourists.
-
-Shipibo practitioners typically undergo years
-of dietary restrictions and training before
-leading ceremonies. The tradition emphasizes
-the healing power of icaros, which are believed
-to carry specific therapeutic intentions. The
-visual patterns in Shipibo textiles and ceramics
-are said to derive directly from ayahuasca
-visions, representing the "designs" of the
-plant spirits.
-
-## See also
-
-- [[ayahuasca-tourism-economics-peruvian-amazon]]
-- [[amaringo-ayahuasca-visions-shipibo-iconography]]
-- [[urban-ayahuasca-iquitos-healing]]

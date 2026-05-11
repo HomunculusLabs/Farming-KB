@@ -3,19 +3,19 @@ title: Goat Cheese Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [goats, food, processing, homesteading, recipe, homestead-crafts, nutrition, fermentation]
+tags: [goats, food, processing, [[homesteading]], recipe, homestead-crafts, nutrition, fermentation]
 sources: []
 ---
 
 # Goat Cheese Making
 
-Goat milk cheese [[cheese-making-basics]] (chevre) is one of the most accessible and rewarding homestead dairy products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
+Goat milk cheese (chevre) is one of the most accessible and rewarding [[homestead-dairy-guide]] products. Goat milk is naturally homogenized (smaller fat globules), making it easier to curdle and produce a creamy cheese. This guide covers the fundamental cheeses that can be made at home: fresh chevre, feta, and aged gouda.
 
 ## Milk Quality Fundamentals
 
-The quality of cheese depends entirely on the quality of the milk. (see [[homestead-dairy-guide]]).
+The quality of cheese depends entirely on the quality of the milk.
 
--  **Freshness** — Use milk within 24-48 hours of milking. The closer to milking, the better the cheese quality. (see [[comparison-fermented-vegetables-vs-canning]]).
+-  **Freshness** — Use milk within 24-48 hours of milking. The closer to milking, the better the cheese quality.
 -  **Handling** — Chill milk to 4 C (40 F) within 1 hour of milking. Strain through a fine-mesh filter to remove debris and hair.
 -  **Sanitation** — All equipment (pots, spoons, molds, cheesecloth) must be sanitized before use. Use a dairy sanitizer or a bleach solution (2 tablespoons per gallon), rinse thoroughly.
 -  **Milk source** — Cheese works best with milk that has not been ultra-pasteurized (UHT). Raw milk or normally pasteurized milk produces superior cheese. See [[raw-milk-guide]] for handling raw milk safely.
@@ -122,7 +122,7 @@ Gouda is a washed-curd cheese that requires more equipment and time but produces
 -  **Mesophilic** — Work at 20-30 C. Used for chevre, feta, cottage cheese. Common strains: MA 4001, MM 100, Flora Danica.
 -  **Thermophilic** — Work at 35-45 C. Used for gouda, cheddar, parmesan. Common strains: TA 61, LH 100, Thermophilic B.
 -  **Direct-set (DVI)** — Single-use packets added directly to milk. Most convenient for beginners.
--  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires sterile technique.
+-  **Mother culture** — Perpetuated from batch to batch. More economical for frequent cheesemakers but requires [[cultivator-sterile-technique-and-agar-culture]].
 
 ### Rennet
 

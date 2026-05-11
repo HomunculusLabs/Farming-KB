@@ -1,11 +1,11 @@
 # Peganum Harmala as Soma — The Syrian Rue Theory
 
 ## Source
-*Terence McKenna — Food of the Gods (1992)*
+*[[terence-mckenna]] — Food of the Gods (1992)*
 
 ## Summary
 David Flattery and Martin Schwartz argued in *Haoma and Harmaline* that the original
-[[mckenna-vedic-soma-indo-european-mysteries]] (and its Iranian counterpart Haoma) was Peganum harmala, the giant Syrian
+[[mckenna-vedic-soma-indo-european-mysteries]] (and its Iranian counterpart Haoma) was [[peganum-harmala]], the giant Syrian
 rue. Their argument rests on textual analysis of the Zend Avesta and other Zoroastrian
 scriptures, pharmacological evidence linking harmaline to visionary experience, and the
 plant's distribution across the Iranian plateau where Soma/Haoma worship originated.
@@ -16,7 +16,7 @@ literature.
 ## The Soma Problem
 
 The identity of Soma — the sacred plant at the center of Vedic religion, praised in
-nearly 120 hymns of the Rig Veda — is one of the oldest unsolved mysteries in
+nearly 120 hymns of the [[rig-veda-soma-hymns-amanita-muscaria]] — is one of the oldest unsolved mysteries in
 ethnobotany. The Ninth Mandala of the Rig Veda is entirely composed of paeans of praise
 for the magical plant. Soma was thought to have been brought by an eagle from the
 highest heaven, or from the mountains where it had been placed by Varuna. It was
@@ -41,7 +41,7 @@ resulting liquid being consumed by priests during ceremonies.
 
 Flattery and Schwartz made their case using the Zend Avesta and other scriptural
 materials of the Parsi religion that other scholars had passed over. Sir William Jones
-had first identified Vedic Soma with Syrian rue in 1794, but this identification was
+had first identified Vedic Soma with [[syrian-rue]] in 1794, but this identification was
 later overshadowed by other candidates. Flattery revived and strengthened this argument
 with new textual and pharmacological evidence.
 
@@ -87,40 +87,3 @@ received more public attention but faces significant pharmacological objections.
 active compounds in Amanita — [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol — produce effects more
 consistent with deliriant intoxication than the luminous, inspiring visions described
 in the Rig Veda.
-
-McKenna noted that Wasson himself eventually expressed doubts about his Amanita
-theory, particularly regarding the suitability of its effects for the kind of
-revelatory experience that Soma was celebrated for producing.
-
-## Other Soma Candidates
-
-The [[mckenna-search-for-soma-vedic-enigma]] has produced a long list of candidates, each with strengths and
-weaknesses. These include Ephedra (a source of ephedrine, a stimulant but not a
-visionary intoxicant), Sarcostemma (a milkweed relative with mild effects), Cannabis
-(which produces intoxication but not the specific visionary qualities attributed to
-Soma), Periploca (a leafless climber), fermented mare's milk, and fermented honey.
-Each fails to fully satisfy the pharmacological requirement for a genuinely ecstatic,
-visionary experience worthy of the extravagant praises in the Rig Veda.
-
-## The Disappearance of Soma
-
-The identity of Soma became lost as Indo-European migrations carried the tribes far
-beyond the forest environments suitable to the source plant. Trade routes became
-longer, local substitutes were experimented with, and the original identity became
-mingled with myth. Progressively more esoteric, Soma preparation became a secret
-teaching delivered orally and known to but a few, until finally it was forgotten.
-
-Zoroaster's reform religion (circa 575 BC) may have contributed to the suppression
-of the Soma rite, though the evidence is ambiguous. There are only two references to
-Haoma in the Gathas of Zoroaster — one mentioning "averter of death" and the other
-alluding to "the filthiness of this intoxicant." Yet in the later Avesta, Haoma came
-back again, and was in almost every respect the same as the Vedic Soma. The [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]]
-has been the central liturgical act of Zoroastrianism ever since that religion
-developed liturgical worship, and its central position has never been disputed. The Syrian rue theory
-offers a pharmacological profile more consistent with the textual descriptions of
-Soma's effects.
-
-## See Also
-- [[mckenna-wasson-amanita-theory-and-objections-to-fly-agaric]]
-- [[mckenna-wasson-fly-agaric-theory-amanita-muscaria-contradictions]]
-- [[mckenna-zoroaster-suppression-haoma-rite-ecstatic-religion]]

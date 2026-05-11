@@ -19,7 +19,7 @@ sources:
 
 Actinidia arguta, commonly known as hardy kiwi, bower vine, or tara vine, is a deciduous climbing vine in the family Actinidiaceae. It produces small, smooth-skinned, grape-sized fruit that are edible whole without peeling, unlike the larger fuzzy kiwifruit (*A. deliciosa*).
 
-The species is native to East Asia, ranging from Japan and Korea through northeastern China to the Russian Far East. It has gained increasing attention in recent decades as a commercial fruit crop and ornamental garden vine due to its exceptional cold hardiness.
+The species is native to East Asia, ranging from Japan and Korea through northeastern China to the Russian Far East. It has gained increasing attention in recent decades as a commercial fruit crop and ornamental garden vine due to its exceptional [[coleman-cold-hardiness-testing-ratings]].
 
 Several botanical varieties are recognized, including var. arguta from Japan, var. giraldii from central China, and var. hypoleuca from Korea. These varieties differ in leaf hairiness, flower size, and frost tolerance.
 
@@ -29,13 +29,13 @@ Interest in *A. arguta* as a commercial crop has increased substantially since t
 
 ## Taxonomy and Morphology
 
-Actinidia arguta was described by (Siebold and Zuccarini) Planchon ex Miq. in 1867. The genus Actinidia contains approximately 60 species distributed across East and Southeast Asia. The name derives from the Greek *aktis* (ray), referring to the radiating styles of the flower.
+Actinidia arguta was described by (Siebold and Zuccarini) Planchon ex Miq. in 1867. The genus Actinidia contains approximately 60 species distributed across East and [[psilocybe-southeast-asia-pacific]]. The name derives from the Greek *aktis* (ray), referring to the radiating styles of the flower.
 
 *A. arguta* is part of the Leiocarpae section, characterized by smooth-skinned fruit. This distinguishes it from the Maculatae section, which includes the fuzzy-skinned commercial kiwifruit *A. deliciosa* and *A. chinensis*.
 
 The species is a vigorous, twining deciduous vine capable of reaching 9–15 meters in height when supported. Young stems are reddish-brown and densely covered with fine lenticels, becoming grey-brown and corky with age.
 
-Leaves are alternate, broadly ovate to cordate, 8–15 cm long and 5–10 cm wide, with finely serrate margins and a long acuminate tip. The upper leaf surface is dark green and glabrous, while the lower surface may be glaucous with sparse hairs along the veins.
+Leaves are alternate, broadly ovate to cordate, 8–15 cm long and 5–10 cm wide, with finely serrate margins and a long acuminate tip. The upper [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green and glabrous, while the lower surface may be glaucous with sparse hairs along the veins.
 
 Flowers are dioecious, appearing in late spring in axillary cymes of 1–3 flowers. Male flowers are borne in clusters, while female flowers are usually solitary. Each flower has 5–6 white petals and numerous stamens, measuring approximately 1.5–2 cm in diameter.
 
@@ -53,7 +53,7 @@ The species occurs naturally from Hokkaido and Honshu in Japan through the Korea
 
 Elevation ranges from sea level to approximately 1,600 meters in its native range. It prefers moist, well-drained soils in partial shade to full sun, commonly scrambling over canopy trees at forest edges and along watercourses.
 
-The species is exceptionally cold-hardy, tolerating temperatures to -34°C in dormant condition. This cold tolerance far exceeds that of commercial kiwifruit (*A. deliciosa*), making it suitable for cultivation in regions where the fuzzy kiwi cannot survive.
+The species is exceptionally cold-hardy, tolerating temperatures to -34°C in dormant condition. This [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] far exceeds that of commercial kiwifruit (*A. deliciosa*), making it suitable for cultivation in regions where the fuzzy kiwi cannot survive.
 
 Naturalized populations exist in parts of Europe and [[psilocybin-north-america-pacific-northwest]], particularly in the Pacific Northwest and New England. Some jurisdictions consider it potentially invasive due to its vigorous growth and bird-dispersed seeds.
 
@@ -85,39 +85,6 @@ The fruit also contains significant levels of vitamin E, potassium, folate, and 
 
 Culinary applications include fresh eating, jams, jellies, wine, and dried fruit. The smooth skin eliminates the need for peeling, and the sweet flavor profile has been described as a combination of kiwifruit, strawberry, and banana notes.
 
-Commercial production has expanded significantly since the 2000s, particularly in the Pacific Northwest United States, New Zealand, and parts of Europe. The fruit is marketed as "kiwi berry" or "baby kiwi" in commercial channels.
+Commercial production has expanded significantly since the 2000s, particularly in the Pacific Northwest [[dmt-containing-plants-united-states-halpern]], New Zealand, and parts of Europe. The fruit is marketed as "kiwi berry" or "baby kiwi" in commercial channels.
 
-Post-harvest shelf life is relatively short compared to fuzzy kiwifruit, typically 2–4 weeks under refrigeration. This limits large-scale commercial distribution and favors local and regional market channels.
-
-Kiwifruit allergy cross-reactivity has been documented between *A. deliciosa* and *A. arguta*. The primary allergen, actinidin, is present in both species, though concentrations vary among cultivars and ripening stages.
-
-## Ecology and Interactions
-
-The flowers are insect-pollinated, primarily by bees. Male flowers produce abundant pollen over an extended period, making them valuable for supporting pollinator populations in mixed plantings and orchards.
-
-Birds are the primary dispersers of the fruit in both native and introduced ranges. The small, brightly colored fruit are readily consumed by species including thrushes, robins, and waxwings, which then disperse the seeds over considerable distances.
-
-The dense foliage provides excellent nesting habitat and cover for small birds. In forest margins, the vine's climbing habit creates structural complexity that enhances habitat diversity for arboreal invertebrates and amphibians.
-
-Leaf litter from *A. arguta* contributes organic matter to the forest floor. The decomposing leaves release nutrients that benefit understory plants and soil microorganisms in the vine's immediate vicinity.
-
-In its native range, the species plays a role in [[mollison-designers-food-forest-succession-design]] by colonizing disturbed areas and canopy gaps. Its rapid growth allows it to establish quickly after disturbance, though it is eventually shaded out by taller canopy trees in mature forests.
-
-The vine's twining growth habit can cause damage to supporting structures and trees. In managed landscapes, regular pruning is necessary to prevent girdling of host trees and overloading of trellis systems.
-
-Actinidia species are susceptible to several [[bloomfield-fungal-pathogens-and-parasites]] including Botryosphaeria dothidea and Pseudocercospora actinidiae. Bacterial canker (Pseudomonas syringae) can be problematic in wet springs, causing dieback of young shoots.
-
-## See Also
-
-- [[abrus-precatorius]]
-
-- [[actinidia-chinensis]]
-- [[vitis-vinifera]]
-- [[vitis-labrusca]]
-- [[vitis-riparia]]
-- [[clematis-montana]]
-- [[wisteria-sinensis]]
-- [[parthenocissus-tricuspidata]]
-- [[hedera-helix]]
-- [[lonicera-japonica]]
-- [[trachelospermum-jasminoides]]
+Post-harvest shelf life is relatively short compared to fuzzy kiwifruit, typically 2–4 weeks under refrigeration. This limits large-scale [[magic-mushroom-retail-markets-and-commercial-distribution-channels]] and favors local and regional market channels.

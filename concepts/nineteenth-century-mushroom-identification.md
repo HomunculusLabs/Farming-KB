@@ -77,3 +77,20 @@ See also: [[edible-wild-mushrooms-by-region]] | [[mushroom-poisoning-guide]] | [
 ## Related
 
 - [[mushroom-toxicology-palmer-theory]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[nineteenth-century-mushroom-cellars]]
+- [[nineteenth-century-mushroom-cultivation]]
+- [[mushroom-contamination-identification]]
+- [[psilocybin-mushroom-identification]]
+- [[cuthill-mushroom-cultivation-history-19th-century]]

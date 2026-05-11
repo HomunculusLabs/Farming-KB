@@ -1,5 +1,5 @@
 ---
-title: "Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor"
+title: Coleman Winter Carrots
 type: concept
 tags:
   - winter-harvest
@@ -10,12 +10,12 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
+  - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Sweet Winter Carrots — In-Ground Cold Storage for Peak Flavor
 
-Sweet Winter Carrots are the most acclaimed crop produced at Four Season Farm.
+Sweet Winter Carrots are the most acclaimed crop produced at [[coleman-four-season-farm]].
 Left in place in the soil under unheated greenhouses and dug fresh over time
 as needed, these carrots develop an extraordinary sweetness, crunch, and
 flavor through the combination of fall growing conditions and cold-soil
@@ -30,10 +30,10 @@ of in-ground storage without degradation.
 
 For October harvest, Napoli is planted during the last week of July. For
 later harvests through winter, the first week of August is the target
-sowing date. The soil is prepared by turning under a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] of oats
+[[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]. The soil is prepared by turning under a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] of oats
 and peas about a month before sowing.
 
-Large areas of carrots are covered with mobile greenhouses in late October,
+Large areas of carrots are covered with [[mobile-greenhouses]] in late October,
 as temperatures drop and the season of active growth slows.
 
 ## The Science of Cold-Sweetening
@@ -88,42 +88,3 @@ winter-harvested Napoli.
 ## Market Response
 
 Sweet Winter Carrots have achieved an almost legendary status at Four Season
-Farm's markets. Children rush to produce counters asking parents to buy
-"candy carrots." Demand consistently exceeds supply.
-
-The crop demonstrates that winter production is not merely a technical
-achievement but a quality improvement. The winter environment enhances the
-eating quality of certain crops beyond what summer production can achieve.
-
-This is a counterintuitive finding that challenges the assumption that
-warm-season growing conditions always produce the best food. For many
-crops, the opposite is true.
-
-## Spring Transition: Nelson Carrots
-
-When the Sweet Winter Carrot season ends, Four Season Farm transitions to
-a spring carrot variety. New-year sowings of 'Nelson' carrots, made in
-late December following fall lettuce, are ready for sale by May 10.
-
-Nelson is a deliciously sweet spring carrot, but even at its best it
-cannot match the acclaim of the winter Napoli. The difference illustrates
-how specific the relationship between variety, season, and production
-method can be.
-
-## Cultural Significance
-
-The Sweet Winter Carrot represents a broader principle of Coleman's
-philosophy: that each season has its own gifts. Rather than fighting to
-produce summer vegetables in winter, the winter harvest system embraces
-the unique qualities that cold-season production offers.
-
-The carrot is not a compromise crop for winter. It is, in its winter form,
-arguably superior to its summer version. This reframing of [[fukuoka-seasonal-eating-natural-food-calendar]]
-from limitation to opportunity is central to the winter harvest concept.
-
-## See Also
-
-- [[coleman-winter-harvest-planting-schedule]]
-- [[coleman-winter-harvesting-techniques]]
-- coleman-mobile-greenhouse-crop-rotation-patterns
-- [[winter-succession-planting]]

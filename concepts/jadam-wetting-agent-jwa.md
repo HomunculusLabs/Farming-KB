@@ -1,6 +1,6 @@
 ---
 
-title: JADAM Wetting Agent (JWA) — Natural Surfactant Recipe
+title: Jadam Wetting Agent Jwa
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # JADAM Wetting Agent (JWA)
 
-JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no JADAM pesticide works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
+JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no [[jadam-pesticide-dosage-guide]] works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
 
 Replaces: commercial synthetic surfactants, machine oil, neem oil. 99.9% biodegrades in 5 days.
 
@@ -76,15 +76,15 @@ Solutions for hard water: collect rainwater (discard first 30 min), use a water 
 | Serious infestation | 5-10L (1.3-2.6 gal) |
 | Emergency, one-time only | 10-15L (2.6-4 gal) |
 | Winter dormant spray | 10-20L (2.6-5.3 gal) |
-| With chemical pesticide (after tests) | 3-5L (0.8-1.3 gal) |
+| With [[jadam-natural-vs-chemical-pesticide]] (after tests) | 3-5L (0.8-1.3 gal) |
 | Fog machine (17L tank) | 0.5L (0.13 gal) |
 
 Do NOT exceed 10L continuously -- can suppress growth and damage white powdery coating on fruits. Return to 3L once problem is controlled.
 
 ## What JWA Alone Can Control
 
-- Aphids and mites (early stages)
-- Powdery mildew (early stages)
+- [[jadam-pesticide-for-aphids-and-mites]] (early stages)
+- [[cervantes-powdery-mildew-prevention-treatment]] (early stages)
 - Can replace machine oil for winter fruit tree pest control
 - Moderately effective for improving fruit color and promoting maturity
 
@@ -104,10 +104,24 @@ Do NOT exceed 10L continuously -- can suppress growth and damage white powdery c
 - **Lumps won't dissolve**: Need more water; add soft water and wait
 - **Poor foaming in spray**: Water is hard -- switch to soft water or increase JWA
 - **Murky spray solution**: Hard water -- change water source
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[jadam-nutrient-management-wetting-agent-and-calcium]]
+- [[ultra-low-jadam-wetting-agent-jwa]]
+- [[comparison-bim-vs-jadam-imo]]
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
+- [[comparison-fukuoka-vs-jadam-farming]]
 
 ## See Also
 
 - [[jadam-sulfur-js]] — combine with JWA for JS germicide
-- [[jadam-herb-solution-jhs]] — combine with JWA for insect control
+- [[jadam-herb-solution-jhs]] — combine with JWA for [[cervantes-mealybugs-scale-insect-control]]
 - [[jadam-natural-pesticide-jnp]] — master pesticide combinations
 - [[jadam-methods]] — JADAM system overview

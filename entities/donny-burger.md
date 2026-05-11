@@ -19,18 +19,18 @@ created: 2026-05-07
 
 Donny Burger is an indica-dominant hybrid cannabis strain bred by **Symbiotic Genetics**, the same breeders behind the popular Mimosa line. It was released in the early 2020s and quickly gained a following for its potent sedative effects and pungent, savory aroma.
 
-The strain is a cross between **Hamburguesa** (a GMO × Miracle Alien Cookies derivative) and **Han Solo Burger** (Larry OG × GSC). This heavy-hitting lineage produces a strain with exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and strong body-focused effects.
+The strain is a cross between **Hamburguesa** (a GMO × [[miracle-alien-cookies]] derivative) and **Han Solo Burger** (Larry OG × GSC). This heavy-hitting lineage produces a strain with exceptional [[cannabis-glandular-trichome-types-resin-production-clarke]] and strong body-focused effects.
 
-The name references the American fast-food burger culture, playing on the strain's savory, cheesy-gassy terpene profile. It has become a staple of the West Coast premium indoor market.
+The name references the American fast-food burger culture, playing on the strain's savory, cheesy-gassy [[cannabis-terpene-profile]]. It has become a staple of the West Coast premium indoor market.
 
 ## Lineage
 
 - **Parent 1:** Hamburguesa — GMO × MAC-influenced selection, contributes dense bud structure and gassy terpenes
-- **Parent 2:** Han Solo Burger — Larry OG × Girl Scout Cookies cross, contributes potency and complex aroma
+- **Parent 2:** Han Solo Burger — Larry OG × [[girl-scout-cookies]] cross, contributes potency and complex aroma
 
 The genetic heritage combines elements from several legendary lines. The OG Kush influence through Larry OG provides the classic fuel-pine backbone, while the Girl Scout Cookies contribution adds sweetness and resin density.
 
-The GMO lineage (Granddaddy Purple × Thin Mint Cookies × Ruderalis — though GMO's exact parentage is debated) contributes the unusual savory-onion terpenes that distinguish Donny Burger from more conventional strains.
+The GMO lineage (Granddaddy Purple × [[thin-mint-cookies]] × Ruderalis — though GMO's exact parentage is debated) contributes the unusual savory-onion terpenes that distinguish Donny Burger from more conventional strains.
 
 Multiple phenotypes circulate, with some selections expressing more GMO-dominant savory profiles and others leaning toward the sweeter GSC end of the spectrum.
 
@@ -75,39 +75,16 @@ Donny Burger is considered moderately difficult to cultivate, best suited to exp
 
 The strain responds well to low-stress training and topping, which helps manage its indica growth pattern and improve light penetration. Strong odor control is essential during flowering — the pungent savory-gassy aroma is immediately noticeable.
 
-Nutrient requirements are moderate to heavy, particularly during weeks 4–7 of flowering when bud development accelerates. Phosphorus and potassium supplementation during mid-to-late flower improves trichome density and overall yield.
+[[cannabis-soil-and-nutrient-requirements]] are moderate to heavy, particularly during weeks 4–7 of flowering when bud development accelerates. Phosphorus and potassium supplementation during mid-to-late flower improves trichome density and overall yield.
 
 Outdoor cultivation requires a warm, dry climate with low humidity during fall. Harvest in early to mid-October. The dense bud structure makes it susceptible to bud rot and [[cervantes-powdery-mildew-prevention-treatment]] in humid conditions.
 
 ## Medical Applications
 
-Donny Burger has found a niche in medical cannabis for conditions requiring strong sedation and body relaxation. Its indica-dominant profile makes it particularly effective for evening and nighttime symptom management.
+Donny Burger has found a niche in medical cannabis for conditions requiring strong sedation and body relaxation. Its indica-dominant profile makes it particularly effective for evening and nighttime [[cannabis-cancer-symptom-management]].
 
 Patients with **chronic insomnia** report significant improvement in sleep onset and duration. The heavy body effects promote physical relaxation that transitions naturally into sleep, often within 30–45 minutes of consumption.
 
 **Chronic pain conditions** including neuropathic pain, fibromyalgia, and arthritis respond well to the strain's analgesic and anti-inflammatory properties. The caryophyllene-dominant terpene profile provides additional anti-inflammatory action through CB2 receptor pathways.
 
 Muscle spasms, tremors, and MS-related symptoms are another common application. The deep physical relaxation helps reduce involuntary muscle contractions and associated discomfort.
-
-Mental health applications include treatment-resistant anxiety and PTSD-related hyperarousal, particularly when used in the evening. The sedative effects help calm racing thoughts and promote parasympathetic nervous system activation.
-
-## Notable Phenotypes
-
-The standard Symbiotic Genetics cut is the most widely distributed. It expresses the strongest savory-gassy aroma and consistently tests above 25% THC.
-
-A **GMO-forward phenotype** has emerged in the Oregon market, emphasizing the garlic-onion umami character with less sweetness. This version is particularly sought after by consumers who enjoy savory [[cannabis-terpene-profiles-sativa]].
-
-**Donny Burger #7** is a stabilized selection bred for higher yield and more uniform flowering time. It retains the original's potency and aroma while being slightly easier to cultivate at scale.
-
-Cross-breeding derivatives include **Donny Burger × Gelato** (combining savory with sweet fruit notes) and **Donny Burger × Runtz** (further sweetening the profile while retaining potency).
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[blue-dream]]
-- [[biscotti-cannabis-strain]]
-- [[georgia-pie]]
-- [[white-cherry-gelato]]
-- [[gary-payton-cannabis]]
-- [[hericium-erinaceus]]
-- [[leccinum-scabrum]]

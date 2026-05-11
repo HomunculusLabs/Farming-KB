@@ -6,7 +6,7 @@ aliases:
   - "Curlycup Gumweed"
   - "Great Valley Gumweed"
   - "Rosinweed"
-  - "Grindelia squarrosa var. robusta"
+  - "[[grindelia-squarrosa]] var. robusta"
 tags:
   - plants
   - asteraceae
@@ -37,7 +37,7 @@ created: 2026-04-28
 
 The species is distinguished by its bright yellow composite flower heads and copious sticky, resinous exudate (gum) that coats the flower buds, giving the plant its common name.
 
-Gumweed has a long history of use in traditional medicine by Indigenous peoples of western North America and was adopted into 19th-century Eclectic and Thomsonian medical practice as a treatment for respiratory conditions.
+Gumweed has a long history of use in traditional medicine by Indigenous peoples of western [[guzman-psilocybin-mushrooms-north-america]] and was adopted into 19th-century Eclectic and Thomsonian medical practice as a treatment for [[cannabis-respiratory-conditions]].
 
 Modern herbalism continues to employ grindelia preparations as expectorants, antispasmodics, and anti-inflammatory agents, particularly for asthma, bronchitis, and other conditions involving bronchial constriction and excess mucus.
 
@@ -85,39 +85,6 @@ Indigenous peoples of California and the Pacific Northwest used grindelia resin 
 
 The Eclectic physicians of the 19th century formalized grindelia as a treatment for asthma, whooping cough, bronchitis, and cardiac conditions involving palpitation. It was listed in the US Pharmacopoeia from 1882 to 1926.
 
-Contemporary herbalists use grindelia primarily as an expectorant and antispasmodic for acute and chronic respiratory conditions. Typical preparations include tinctures (1:2–1:5 in 60% ethanol), dried herb infusions, and fluid extracts.
+Contemporary herbalists use grindelia primarily as an expectorant and antispasmodic for acute and chronic respiratory conditions. Typical preparations include tinctures (1:2–1:5 in 60% ethanol), [[dried-herb-storage]] infusions, and fluid extracts.
 
 The dried flowering tops and buds are the primary plant parts used medicinally, harvested just before full flower opening when resin content peaks.
-
-## Cultivation
-
-*Grindelia robusta* can be cultivated from seed, which germinates readily without stratification. Seeds are sown directly in spring after the last frost or started indoors 6–8 weeks before transplanting.
-
-The plant prefers full sun and well-drained soils but tolerates poor, rocky, or alkaline conditions. Once established, it is highly drought-tolerant and requires minimal supplemental irrigation.
-
-Spacing of 30–45 cm between plants is recommended. Flowering occurs from mid-summer through early autumn. Harvesting the resinous flower buds at the green stage maximizes medicinal yield.
-
-The species is generally pest-free and not palatable to deer or livestock. Its low maintenance requirements and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it suitable for xeriscaping and ecological restoration projects.
-
-## Ecological Role
-
-Gumweed provides important late-season nectar and pollen resources for [[query-how-to-attract-native-bees-and-beneficial-insects]], butterflies, and other pollinators. The resinous flowers are particularly attractive to bumblebees and hoverflies.
-
-The plant serves as a host for several native insect species and provides cover for small wildlife. Its pioneer species ecology makes it valuable for stabilizing disturbed soils and preventing erosion on degraded sites.
-
-## Related Species
-
-The genus *Grindelia* contains approximately 30 species distributed across North and South America. Several species are used medicinally or ecologically.
-
-*Grindelia squarrosa* (curlycup gumweed) is the most widespread species, ranging from the Great Plains to the Pacific coast. It is chemically similar to *G. robusta* and is often used interchangeably in herbal practice.
-
-*Grindelia hirsutula* (hairy gumweed) is a coastal California species with a more restricted range but similar pharmacological properties. It is sometimes considered a variety of *G. robusta*.
-
-*Grindelia camporum* (Great Valley gumweed) is endemic to California's Central Valley and was commercially harvested for grindelic acid extraction during the early 20th century.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[verbascum-thapsus]]
-- [[tussilago-farfara]]
-- [[hypericum-perforatum]]

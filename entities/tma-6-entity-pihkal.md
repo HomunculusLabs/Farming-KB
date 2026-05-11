@@ -7,7 +7,7 @@ tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
 # TMA-6
-PIHKAL entry #162. 2,4,6-TRIMETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #162. 2,4,6-TRIMETHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,58 +88,6 @@ and the Aleph compounds. And, of course, the entire world of the
 Here, there is the blatant, parallel call from TMA-6. It can serve,
 as the 2,4,6-counterpart, as a similar template compound. And the
 first indicators are that, in keeping the 2,6-dimethoxy aspect intact,
-a completely analogous series could be made, again with modifications
-of the 4-position. These have been named the psu-series, or
-psi-series, as an abbreviation for the prefix, pseudo, and can be
-differentiated from the 2,4,5-things with the use of the Greek letter
-"gamma". Thus there is the gamma-DOM (called Z-7 in this book, and certainly
-an active compound), and gamma-DOB, gamma-DOET, gamma-DOI, and the gamma-ALEPH
-compounds. And, of course, the gamma-2C-X counterparts. I would expect
-all of them to be active and, certainly, some of them interesting.
-They will be considerably more difficult to synthesize. However, some
-of them, specifically things such as gamma-2C-T-4, have already been
-prepared, and are being evaluated.
-One of the guiding premises of this Book II was to make all recipes
-employ commercially available materials as starting materials. And in
-the case of TMA-6, the required benzaldehyde
-(2,4,6-trimethoxybenzaldehyde) is an easily obtained trade item from
-any of several supply houses. Why not start the recipe there? Why
-tell how to make it from 1,3,5-trimethoxybenzene (also presently
-available from commercial sources) and how to make the ether in turn,
-from phloroglucinol? This simply reflects a valid paranoia of our
-times. Today the aldehyde is available (at $2/g) and can be easily
-purchased. But tomorrow? What about in the year 2003? Who can tell
-what will, or will not, be easily available then? There might be a
-world-wide acknowledgment that the "[[cervantes-war-on-drugs-statistics]]" is more destructive
-than any drug itself could ever be, and every law that had been
-written in the attempt to dictate human behavior will have been
-transformed into a force that truly educates and allows choice. This
-might really happen. But maybe, on the other hand, no fine chemicals
-may be permitted to be held in any hands, at any price, except for
-those of licensed chemists and in authorized laboratories. The black
-market price for the aldehyde might be $1000/g with another $1000 for
-protection.
-But, it will be impossible to remove phloroglucinol from availability.
-It is available as a natural component in the free form, in sources as
-diverse as the cones of the [[sequoia-sempervirens]] (the coast redwood
-tree) and species of Camillia (that provides the leaves of our morning
-tea). And combined with a molecule of glucose in the form of its
-glucoside, it is called phlorin, and it is present in the discarded
-rinds of almost all citrus fruits as well as the resins from many of
-the Eucalyptus species. And one step yet further back into nature,
-there is a dihydrochalcone glucoside called phloridzin which
-practically drips out of all parts of the apple and pear trees except
-for the apple or pear itself. It, on base hydrolysis, gives phlorin,
-which on acid hydrolysis gives phloroglucinol, which when dissolved in
-methanol and sulfuric acid gives Q. Nature is indeed most bountiful.
-The phenethylamine homologue of TMA-6 is well known, but is virtually
-unexplored pharmacologically. The above benzaldehyde with
-nitromethane in glacial acetic acid containing ammonium acetate gave
-the appropriate beta-nitrostyrene as yellow crystals with a mp
-177-177.5 deg C. This, with LAH in ether, gave
-2,4,6-trimethoxyphenethylamine (2,4,6-TMPEA, or 2C-TMA-6) as the
-picrate salt (mp 204-205 deg C) or the hydrochloride salt (mp 234-235
-deg C). It has been shown not to be a substrate to the soluble amine
-oxidase from rabbit liver, a property it shares with [[qualitative-comments-methodology-pihkal]]
-- [[aleph-2-pihkal-entry-4]]
-- [[tmpea-entity-pihkal]]
+
+## See Also
+- [[aleph-entity-pihkal]]

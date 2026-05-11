@@ -23,7 +23,7 @@ SnowHigh breeders strongly recommend a well-balan [[organic-soil-management]] so
 ## Breeder and Genetic Background
 
 Panama Black was bred by SnowHigh Seeds, a USA-based breeding
-operation kno [[working-with-agar-guide]] ng with he [[heritage-and-landrace-crop-varieties-for-small-farmers]] andrace genetics.
+operation kno [[working-with-agar-guide]] ng with he heritage and landrace crop varieties for small farmers andrace genetics.
 The breeder clearly drew inspiration from Latin American cannabis
 heritage, selecting choice genetics from both Panama and Colombia
 to creat [[golden-goat-sativa-strain-profile]] strain. The result is a genetic tapestry
@@ -87,62 +87,3 @@ just like the original Panama Red strains from the 1960s and
 Panama Red in both appearance and effect, offering a nostalgic
 connection to the landrace sativas that defined an era of
 cannabis culture.
-
-## Cultivation Requirements
-
-The SnowHigh breeders strongly recommend using a well-balanced
-organic soil for Panama Black. This is not merely a preference
-but a specific cultivation requirement, as the strain responds
-poorly to conventional synthetic fertilization approaches.
-
-Experienced growers are advised that re-potting can help control
-height for those who do not want their Panama Black crop to grow
-too tall. Once the plants enter the flowering cycle, expect them
-to stretch two or three times their vegetative size. This
-significant stretch means indoor growers should plan canopy
-height carefully and may want to initiate flowering at a
-relatively short vegetative height.
-
-Importantly, growers should not fertilize Panama Black in the
-same way they would other hybrids. Conventional heavy feeding
-can actually stunt production and result in disappointing
-yields. The strain appears to be adapted to organic nutrient
-sources and may be sensitive to salt buildup or nutrient
-imbalances from synthetic fertilizers. This sensitivity makes
-it better suited to experienced organic growers who understand
-soil biology and slow-release nutrient availability.
-
-A good degree of patience is needed to last out the 12 to 14
-week flowering period. This is a longer-than-average flowering
-time that requires commitment from the grower. However, the
-reward for patience is substantial: if provided with lots of
-light and a fair bit of root space, Panama Black delivers a
-heavy harvest of buds frosted with an exceptional white coating
-of trichomes.
-
-## Aroma Profile
-
-When Panama Black buds are properly cured, the aromas are
-distinctive and complex. The dominant notes are aged red wine,
-wood, and earth, creating a bouquet that evokes cellar aging
-and natural terroir. Some phenotypes will present sweeter
-aromas, while others carry notes reminiscent of lemongrass,
-adding a bright citrus dimension to the otherwise deep and
-earthy profile.
-
-## Effects and Potency
-
-The highs vary across phenotypes, but all deliver a potent
-experience that can be trippy, intense, and long-lasting. The
-source author provides a warning about a related strain's
-potency that sets the tone: unless you like waking up under
-your neighbor's porch wondering how you got muddy knees and a
-garbage bag full of breadrolls, you should go easy and enjoy
-the seductive stone without letting your brain bleed out
-entirely.
-
-What distinguishes Panama Black's potency from similarly
-strong strains is the relative absence of paranoia that
-usually accompanies intense sativa experiences. This makes
-the trippy, long-lasting high more enjoyable and approachable
-for users who might otherwise avoid powerful sativas due to

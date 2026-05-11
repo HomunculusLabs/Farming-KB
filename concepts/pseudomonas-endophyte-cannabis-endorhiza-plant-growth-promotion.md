@@ -87,35 +87,3 @@ Despite the identification of Pseudomonas as a core Cannabis endorhiza member, s
 An intriguing open question is whether Pseudomonas endophytes interact with the plant's cannabinoid biosynthesis pathway. Cannabis roots produce low levels of cannabinoids and their precursors, and some soil bacteria have been shown to metabolize or transform cannabinoid compounds. Pseudomonas species, with their diverse metabolic capabilities, could potentially modify cannabinoid precursors in the root zone, influence precursor availability for transport to above-ground tissues, or even produce cannabinoid-like compounds themselves. This hypothesis remains entirely untested but represents a potentially significant finding given the economic importance of cannabinoid yield.
 
 ### Interactions with Mycorrhizal Fungi
-
-The Cannabis microbiome study focused on bacterial communities, but Pseudomonas is well-documented to interact with arbuscular mycorrhizal fungi (AMF) in the mycorrhizosphere. Some Pseudomonas strains act as "mycorrhizal helper bacteria," stimulating AMF spore germination, hyphal growth, and root colonization. Given that AMF associations are known to improve Cannabis growth and nutrient uptake, the Pseudomonas-AMF interaction may represent an important three-way symbiosis in Cannabis cultivation systems.
-
-### Temporal Dynamics
-
-The study sampled at only two time points (8 weeks post-harvest and 2 weeks pre-harvest). How Pseudomonas abundance and community composition change across the full Cannabis growth cycle—from seedling through vegetative growth, flowering, and senescence—remains unknown. Such temporal data would be essential for optimizing bioinoculant application timing.
-
-Key questions for future research include:
-- Does Pseudomonas abundance peak during vegetative growth when root exudation is highest?
-- Does the community shift toward pathogen-suppressive strains during flowering when the plant is most vulnerable?
-- How does harvest timing affect Pseudomonas persistence in residual root tissue?
-- Can seasonal variation in Pseudomonas populations be correlated with cannabinoid yield?
-
-Answering these questions through longitudinal microbiome profiling combined with plant performance metrics would bridge the gap between descriptive ecology and actionable cultivation science.
-
-## See Also
-
-- [[cannabis-core-endorhiza-microbiome]] — the full core community of six taxonomic groups
-- gammaproteobacteria dominance in cannabis endorhiza — the broader class including Pseudomonas
-- proteobacteria dominance in cannabis endorhiza — phylum-level enrichment patterns
-- [[cannabis-microbiome-cultivar-specificity]] — how strain affects Pseudomonas abundance
-- cannabis microbiome two tier selection model — the framework for community assembly
-- nitrogen and salinity as primary edaphic drivers of cannabis microbiome structure
-- acidobacteria decline in rhizosphere endorhiza transition
-
-The convergence of Pseudomonas as a core Cannabis endorhiza member, its well-documented plant growth promotion mechanisms, and the economic importance of Cannabis as a crop make it a prime target for applied microbiome research.
-
-Future studies combining culture-dependent isolation, genome sequencing, and greenhouse trials will be essential to translate these ecological observations into practical cultivation tools. The potential for developing Cannabis-specific Pseudomonas bioinoculants represents a significant opportunity for the emerging field of cannabis biotechnology.
-
----
-
-*Last updated: 2026-05-10 via automated mining from Winston et al. (2014)*

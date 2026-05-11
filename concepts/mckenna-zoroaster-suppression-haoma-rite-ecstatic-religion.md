@@ -1,7 +1,7 @@
 # Zoroaster and the Suppression of the Haoma Rite
 
 ## Source
-*Terence McKenna — Food of the Gods (1992)*
+*[[terence-mckenna]] — Food of the Gods (1992)*
 
 ## Summary
 The rise of Zoroastrianism in ancient Iran (circa 575 BC) marked a pivotal moment in
@@ -71,7 +71,7 @@ own holy spirit established a dualistic cosmology — Truth (asha) versus the Li
 (druj) — that profoundly influenced later Western religions. The shift from a
 religion based on direct plant-induced experience of the sacred to one based on
 moral dualism and fire worship represents what McKenna saw as a critical turning
-point in human cultural evolution: the moment when humanity began to substitute
+point in human [[cultural-evolution-and-psychoactive-substances]]: the moment when humanity began to substitute
 ideology for direct experience of the transcendent.
 
 ## Implications for the Archaic Revival
@@ -88,50 +88,3 @@ responsible use of psychoactive plants is not merely a personal preference but a
 cultural imperative — a return to what he called the "archaic revival," recovering
 a mode of religious experience that predates the [[partnership-and-dominator-cultures-in-human-history]] and their
 ideological substitutes for direct encounter with the sacred.
-
-## The Indo-European Context
-
-To understand the significance of Zoroaster's reform, it is necessary to place it
-within the broader context of Indo-European migrations and religious evolution. The
-earliest scriptural writings of the Indo-European peoples are the Vedas, and the
-best known — the Rig Veda — is best described as a collection of nearly 120 hymns
-to Soma. Soma was prominent in the pre-Zoroastrian religion of Iran as Haoma.
-
-The migrations beginning sometime during the sixth millennium BC carried the
-Indo-European tribes far beyond the forest environments suitable to the source of
-the original Soma. Events unfolded slowly: the original plant became an item of
-trade between the homelands of the Aryans and the frontiers of their expanding
-sphere of influence. As linguistic differences arose, as trade routes became ever
-longer, and as local substitutes for Soma were experimented with, the original
-identity of Soma became mingled with myth.
-
-## Fire Altar vs Sacred Plant
-
-The replacement of the plant sacrament with the fire altar as the center of cultic
-practice represents more than a change in ritual — it represents a change in the
-fundamental conception of the sacred. The plant gives direct, unmediated experience;
-the fire altar gives symbolic, mediated meaning. The priest tends the fire; the
-shaman consumes the plant. These are fundamentally different modes of access to the
-transcendent, and the triumph of the fire altar over the sacred plant marks the
-beginning of what McKenna called the "dominator" style of religion — hierarchical,
-male-dominated, and based on authority rather than experience.
-
-## Parallels with Other Religious Reforms
-
-The Zoroastrian suppression of Haoma finds parallels in other religious traditions.
-The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] of ancient Greece, which may have involved a psychoactive
-kykeon beverage, were eventually suppressed by Christian authorities. The peyote
-ceremonies of [[halpern-sacramental-peyote-and-native-american-church]] cultures were targeted by both Spanish colonial
-authorities and later by the [[dmt-containing-plants-united-states-halpern]] government. The [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] of
-the Amazon have faced legal challenges in modern times. In each case, a reform
-movement or colonial power attempts to replace direct ecstatic experience with
-authorized religious forms.
-
-Yet in each case, as with Haoma in Zoroastrianism, the ecstatic practices persist
-or return — suggesting that the human need for direct experience of the sacred is
-more durable than any ideology designed to suppress or redirect it.
-
-## See Also
-- [[zoroaster-mazda-religion-haoma]]
-- [[mckenna-vedic-soma-indo-european-mysteries]]
-- [[mckenna-cannabis-cultural-style-and-feminine-plant]]

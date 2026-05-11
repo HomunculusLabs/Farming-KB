@@ -1,6 +1,6 @@
 ---
-title: "[[oyster-mushroom-supplemented-sawdust-blocks]] Fruiting Block Production"
-source: "Growing Gourmet and [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] (Stamets)"
+title: Supplemented Sawdust Fruiting Block Production
+source: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] (Stamets)"
 tags: [mycology, mushroom-cultivation, substrate, sawdust, sterilization, inoculation]
 created: 2026-05-09
 ---
@@ -10,7 +10,7 @@ created: 2026-05-09
 ## Overview
 
 Supplemented sawdust is the standard substrate for cultivating gourmet
-and medicinal mushrooms indoors. The method combines hardwood sawdust
+and [[cancer-medicinal-mushrooms-extraction-bioavailability]] indoors. The method combines hardwood sawdust
 with nitrogen-rich supplements for high yields. It is used for shiitake,
 oyster, lion's mane, maitake, reishi, enoki, and many other species.
 Production involves formulation, moisture adjustment, sterilization,
@@ -39,7 +39,7 @@ reduced yields. Too wet: anaerobic conditions, bacterial contamination,
 stalled growth.
 
 The squeeze test: a handful squeezed firmly yields a few drops but not
-a continuous stream. Digital moisture meters provide precision for
+a continuous stream. Digital [[cervantes-moisture-meters-watering-technique]] provide precision for
 commercial operations. Water is mixed thoroughly using mechanical
 mixers — uneven moisture causes uneven colonization and contamination.
 
@@ -60,7 +60,7 @@ Pasteurization leaves heat-resistant spores alive and is insufficient.
 **Autoclave**: 121°C at 15-17 PSI for 2-4 hours depending on bag size.
 The gold standard for thorough sterilization.
 
-**Atmospheric steam**: 8-12 hours at atmospheric pressure — an
+**[[growing-gourmet-atmospheric-steam-sterilization]]**: 8-12 hours at atmospheric pressure — an
 alternative for growers without pressure vessels. Less energy-efficient
 and requires careful temperature monitoring.
 
@@ -70,7 +70,7 @@ the full duration. Cold spots are a common contamination source.
 ## Cooling and Inoculation
 
 Bags must cool below 30°C before inoculation — hot substrate kills
-mycelium. Inoculation is performed in a clean area (laminar flow hood
+mycelium. Inoculation is performed in a clean area ([[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 or still air box). The bag is opened, grain spawn added at 5-10% of
 substrate dry weight, and resealed. Spawn is distributed by shaking or
 massaging the bag. The inoculation step is the primary contamination
@@ -84,37 +84,7 @@ whitens the block over 2-4 weeks depending on species, spawn rate,
 and temperature. Bags should have spacing for air circulation.
 
 Contaminated bags (green molds, bacterial slime, strange colors) must
-be removed promptly to prevent spore dispersal. After full colonization,
+be removed promptly to prevent [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]. After full colonization,
 most species benefit from 1-2 weeks of consolidation before fruiting.
 
 ## Fruiting Initiation
-
-[[fungal-fruiting-body-formation-environmental-triggers]] stimulate the transition from vegetative growth
-to [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]:
-
-**Fresh air exchange**: Elevated CO2 during incubation suppresses
-fruiting. Introducing fresh air drops CO2 and triggers primordia.
-
-**Temperature drop**: A 5-10°C shift signals seasonal change.
-
-**Light**: Indirect ambient light needed for primordia orientation and
-normal development. Direct sun is harmful.
-
-**Humidity**: 85-95% prevents primordia desiccation. Mist systems or
-humidity tents maintain these levels.
-
-The bag is opened or cut to expose the colonized block. Mushrooms
-typically appear within 1-2 weeks and are harvested over 2-3 flushes.
-
-## Common Problems
-
-**Slow colonization**: Check moisture, temperature, spawn viability,
-and supplement rate. Excessive supplementation can inhibit growth.
-
-**Contamination**: Most common problem. Sources include inadequate
-sterilization, poor [[inoculation-technique-and-alcohol-flaming]], bad spawn, or filter failure.
-Address each step systematically.
-
-**Poor fruiting**: Insufficient fresh air exchange, low humidity, wrong
-temperature, or premature harvest (before consolidation) are typical
-causes. Verify all [[mushroom-cultivation-environmental-parameters]] before adjusting.

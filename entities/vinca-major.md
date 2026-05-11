@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
-  - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in Catharanthus roseus." Phytochemistry Reviews, 3(1-2), 107–116.
+  - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in [[catharanthus-roseus]]." Phytochemistry Reviews, 3(1-2), 107–116.
   - USDA, NRCS (2024). "Vinca major L." PLANTS Database. plants.usda.gov.
   - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
   - IPNI (2024). "Vinca major L." International Plant Names Index.
@@ -33,13 +33,13 @@ created: 2026-05-07
 **Vinca major** (greater periwinkle) is an evergreen perennial herb in the
 family **Apocynaceae**, native to the western Mediterranean region. It is
 widely cultivated as an ornamental groundcover and has naturalized across
-temperate regions worldwide, becoming invasive in parts of [[psilocybin-north-america-pacific-northwest]],
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, becoming invasive in parts of [[psilocybin-north-america-pacific-northwest]],
 Australia, and New Zealand.
 
 The plant contains over 70 alkaloids, most notably **vincamine** and
 **vincine**, which have been investigated for their effects on cerebral
-blood flow and cognitive function. Its sister species *Vinca minor* (lesser
-periwinkle) is more widely used in herbal medicine, but *V. major* shares
+blood flow and cognitive function. Its sister species *[[vinca-minor]]* (lesser
+periwinkle) is more widely used in [[childrens-herbal-medicine]], but *V. major* shares
 a similar alkaloid profile at higher concentrations.
 
 ## Taxonomy
@@ -75,7 +75,7 @@ margins.
 
 Native to the western Mediterranean: southern France, Italy, the Balkans,
 and northwest Africa. Widely introduced and naturalized in the British
-Isles, North America (USDA zones 4–9), Japan, Australia, and New Zealand.
+Isles, [[guzman-psilocybin-mushrooms-north-america]] (USDA zones 4–9), Japan, Australia, and New Zealand.
 
 Thrives in shaded to partially shaded sites in woodlands, hedgerows, and
 stream banks. Tolerates full shade and a range of soil types, preferring
@@ -88,47 +88,3 @@ The root and aerial parts contain over 70 indole alkaloids:
 - **Vincamine**: The major alkaloid (0.3–1% of dry weight), a vasodilator
   that preferentially increases cerebral blood flow. Semi-synthetically
   modified as **vinpocetine**, a prescription drug in some countries for
-  cognitive decline and stroke recovery.
-
-- **Vincine**: Structurally related to vincamine, present at lower
-  concentrations. Contributes to the overall cardiovascular effects.
-
-- **Minor alkaloids**: Vincadifformine, akuammigine, reserpine, and
-  catharanthine are present in trace amounts. These overlap with the
-  alkaloid profiles of *Catharanthus roseus* (Madagascar periwinkle).
-
-## Pharmacology and Ethnomedicine
-
-Traditional European herbal medicine used *Vinca* species for wound
-healing, as an astringent, and for menstrual complaints. Culpeper's
-Complete Herbal (1653) recommended greater periwinkle for "bleeding of
-the nose, gums, or any other part."
-
-Modern interest centers on vincamine's cerebrovascular effects. Clinical
-trials have investigated vincamine and vinpocetine for vascular dementia,
-Alzheimer's disease, and age-related cognitive impairment, with mixed
-results. A 2019 Cochrane review found insufficient evidence to support
-routine use of vinpocetine for cognitive impairment.
-
-**Caution**: All plant parts are toxic if ingested in quantity. Symptoms
-include hypotension, gastrointestinal distress, and in severe cases,
-cardiac arrhythmias. The plant is contraindicated during pregnancy.
-
-## Ecological Impact and Cultivation
-
-Valued as a shade-tolerant, evergreen groundcover in landscaping. Once
-established, it suppresses weeds effectively and requires minimal
-maintenance. Propagation is by stem cuttings or division.
-
-In many regions, *V. major* is classified as an invasive species. It
-forms dense mats that exclude native understory vegetation, particularly
-in riparian forests and shaded woodlands. It is listed as a noxious weed
-in several US states and Australian states. Cultivation in vulnerable
-areas is discouraged in favor of native groundcover alternatives.
-
-## See Also
-
-- [[catharanthus-roseus]]
-- [[valeriana-officinalis]]
-- [[glycyrrhiza-glabra]]
-- [[passiflora-incarnata]]

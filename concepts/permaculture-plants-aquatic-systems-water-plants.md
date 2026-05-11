@@ -88,18 +88,3 @@ be grown for human consumption in polluted waters.
 - **Arrowhead** (*Sagittaria* spp) — tubers eaten like potatoes; up to 5–7%
   protein for a root crop; requires 6–7 month [[savory-growing-season-and-non-growing-season-management]]
 - **Wild rice** (*Zizania aquatica*) — high in vitamin B, easily digested;
-  green seed requires no cooking, only steeping in boiling water
-- **Common reed** (*[[phragmites-australis]]*) — edible shoots, rhizomes, and
-  grain; used for thatching, paper, arrows, and musical reeds
-- **Tania / Cocoyam** (*Xanthosoma* spp) — grows in soil too damp for
-  conventional root crops; cormels ready in as little as 3 months
-
-## Design Considerations
-
-A well-designed permaculture pond integrates all four plant categories:
-submerged plants for oxygenation, floating plants for nutrient extraction
-and mulch production, emergent plants in shallows for intensive food
-production, and margin plants for the terrestrial-aquatic transition zone.
-The key is balance — floating plants that cover the entire surface can
-deplete oxygen for fish, so periodic harvesting serves both as yield and
-as system maintenance.

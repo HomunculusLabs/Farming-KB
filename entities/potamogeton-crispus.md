@@ -15,7 +15,7 @@ sources:
   - Ceska, A. & Ceska, O. (1986). "Potamogeton × cooperi (P. crispus × P. perfoliatus) in psilocybin-north-america-pacific-northwest." Rhodora, 88(854), 167-172.
   - Haynes, R.R. (1974). "A revision of growing-gourmet-north-american-reishi-species Potamogeton subsection Pectinati." University of Alabama Studies in Natural History, 14, 1-89.
   - Lansdown, R.V. (2006). "Potamogeton crispus L." In: IUCN Red List of Threatened Species. IUCN.
-  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, Potamogeton crispus, and Elodea canadensis." Hydrobiologia, 131(1), 3-21.
+  - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, [[myriophyllum-spicatum]], Potamogeton crispus, and [[elodea-canadensis]]." Hydrobiologia, 131(1), 3-21.
   - Wiegleb, G. (1988). "Analysis of flora and vegetation in rivers: concepts and applications." In: Symoens, J.J. (ed.), Vegetation of Inland Waters. Springer.
 ---
 
@@ -25,7 +25,7 @@ sources:
 
 The species is easily recognized by its distinctive undulate, crisped leaf margins, which give the underwater foliage a wavy, ruffled appearance unlike any other common aquatic plant.
 
-Native to Eurasia, *P. crispus* has been widely introduced outside its natural range through anthropogenic means and is considered invasive in parts of North America, Australia, and New Zealand.
+Native to Eurasia, *P. crispus* has been widely introduced outside its natural range through anthropogenic means and is considered invasive in parts [[berry-growing]], Australia, and New Zealand.
 
 Despite its invasive status in some regions, the species provides significant ecological benefits as habitat for aquatic invertebrates and fish, and as a nutrient bioaccumulator that improves water clarity.
 
@@ -57,9 +57,9 @@ The turion-like overwintering structures (modified apical buds) are produced in 
 
 *P. crispus* is native to Eurasia, with a natural range extending from the British Isles and Scandinavia across Europe and northern Asia to Japan and the Korean Peninsula.
 
-The species has been widely introduced in North America, where it was first recorded in the mid-19th century. It now occurs across most of the contiguous United States and southern Canada.
+The species has been widely introduced in North America, where it was first recorded in the mid-19th century. It now occurs across most of the contiguous [[dmt-containing-plants-united-states-halpern]] and southern Canada.
 
-It has also been introduced to Australia, New Zealand, South Africa, and parts of South America, primarily through aquarium and waterfowl-mediated dispersal.
+It has also been introduced to Australia, New Zealand, South Africa, and parts of [[guzman-psilocybin-mushrooms-south-america]], primarily through aquarium and waterfowl-mediated dispersal.
 
 **Habitat** includes a broad range of freshwater environments: ponds, lakes, reservoirs, slow-moving rivers, streams, canals, and drainage ditches.
 
@@ -88,37 +88,3 @@ Waterfowl consume the turions and foliage, particularly diving ducks. The specie
 ## Water Quality and Phytoremediation
 
 *P. crispus* is an effective bioaccumulator of nitrogen and phosphorus. Dense beds can remove significant quantities of nutrients from the water column, contributing to improved water clarity.
-
-Studies have documented nitrogen uptake rates of 50–200 mg N/m²/day and phosphorus uptake rates of 5–20 mg P/m²/day during peak [[savory-growing-season-and-non-growing-season-management]].
-
-The species also accumulates heavy metals including lead, zinc, copper, and cadmium from contaminated sediments. Metal concentrations in plant tissue can exceed ambient water concentrations by orders of magnitude.
-
-This bioaccumulation capacity has been investigated for phytoremediation of eutrophic and metal-contaminated waterways. The species has been used in [[comparison-constructed-wetlands-vs-bioswales]] for [[mollison-designers-wastewater-treatment-wetlands]] in experimental settings.
-
-However, the rapid die-back in summer can release accumulated nutrients and metals back into the water column during decomposition, creating a seasonal water quality pulse.
-
-The species is moderately tolerant of organic pollution and is used as a bioindicator in European aquatic monitoring programs. Its presence in moderately polluted sites reflects tolerance rather than preference.
-
-## Cultivation and Aquarium Use
-
-*P. crispus* is occasionally cultivated in water gardens and aquariums, where it is valued for its distinctive appearance and fast growth rate.
-
-In aquaria, it provides excellent cover for fish and invertebrates. Its seasonal growth cycle (peak growth in cool conditions, die-back in warm conditions) makes it more suitable for coldwater or temperate setups than tropical aquaria.
-
-The species does not require supplemental CO₂ or intensive lighting. It grows well under moderate light (2–3 watts per gallon) in a range of water parameters (pH 6.5–8.0, 5–25 °C).
-
-Propagation in aquaria is primarily through turion production and stem fragmentation. Cuttings root readily in the substrate.
-
-Commercial cultivation is limited, and the species is more commonly collected from wild populations for the aquarium trade. This practice raises concerns about further spread of invasive populations.
-
-The species is not widely available through the mainstream aquarium trade due to its seasonal die-back and invasive status in several jurisdictions.
-
-## See Also
-
-- [[potamogeton-pectinatus]]
-
-- [[myriophyllum-spicatum]]
-- [[hydrilla-verticillata]]
-- [[nuphar-lutea]]
-- [[lemna-minor]]
-- [[pontederia-cordata]]

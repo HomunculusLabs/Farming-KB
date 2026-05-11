@@ -87,19 +87,3 @@ Once a clean tissue culture is established on agar, it should be subcultured per
 - **Lyophilization**: Freeze-drying for very long-term storage (more complex)
 
 ## Practical Workflow
-
-For cultivators seeking reliable, repeatable results:
-1. Start with multispore germination to generate genetic diversity
-2. Grow to fruiting on substrate
-3. Select the best-performing mushroom(s)
-4. Take tissue cultures from selected specimens
-5. Test tissue isolates for vigor, colonization speed, and fruiting consistency
-6. Maintain the best isolate as a master strain
-7. Periodically re-fruit and re-clone to refresh the culture
-
-## Related
-
-- [[spore-syringe-production]] for the alternative inoculation method
-- [[grain-spawn-preparation]] for expanding the isolated strain into spawn
-- mushroom-spore-syringe-and-inoculation
-- [[mushroom-long-term-storage]]

@@ -43,12 +43,12 @@ cultivation quantity.
   (K2HPO4), and 100 mg calcium carbonate.
 - Pour hot liquid into culture dishes, filled halfway.
 - Used for species that perform better on malt-based media and for
-  alternating stock culture media to combat senescence.
+  alternating stock [[agar-culture-media]] to combat senescence.
 
 ## Sterilization (Autoclaving)
 
 1. Place containers (no more than half full with medium) in a canning-type
-   pressure cooker.
+   [[double-layer-tinfoil-jar-covering-pressure-cooker-method]].
 2. Leave lids loose enough to allow escape of internal pressure (otherwise
    containers may crack).
 3. Seal cooker, keep stopcock open. Heat on high until thick steam vents.
@@ -72,7 +72,7 @@ cultivation quantity.
 3. Contaminants appear as rapid-growing white circular spots with blue-green
   centers, or as surface scums or fuzzy clusters in gray, black, yellow,
   green, or blue. Discard any contaminated cultures.
-4. Spray room and clean work area per pure culture technique.
+4. Spray room and clean work area per pure [[agar-culture-technique]].
 5. Spray outsides of stock dishes and culture jars with disinfectant.
 6. Lift stock dish lid just enough; pick up a mycelium fragment with a
    flame-sterilized (and cooled) inoculation loop.
@@ -88,38 +88,3 @@ cultivation quantity.
 - Growth period: 10-12 days.
 - Every 2-3 days: tighten covers, shake to aerate and disperse mycelium,
   reloosen covers, return to shelf.
-- The mycelium needs oxygen for life support and growth; shaking provides
-  aeration.
-- A saccharimeter can track sugar consumption; maximum growth and highest
-  psilocybin content occur about four days after all sugar is used up.
-- Harvest at this peak. Unharvestable jars should be refrigerated until
-  processing.
-
-## Expected Yield
-
-- Each quart jar yields 50-100 grams of wet mycelium.
-- Fresh mycelium is approximately 90% water, drying to 5-10 grams of
-  crumbly material per jar.
-- Each 100 grams of dried mycelium yields approximately 2 grams of crude
-  extract containing 500+ mg psilocybin/psilocin (roughly 50 doses at 10
-  mg each).
-- Potency varies by species, strain, and cultivation temperature.
-
-## Perpetual Culture Maintenance
-
-- Fresh inoculum from refrigerated stock culture dishes (viable about one
-  year).
-- If stock dishes deplete: shake a crop culture jar violently to break up
-  mycelium, transfer drops to autoclaved agar dishes with sterilized
-  pipette, incubate as before.
-- Alternate media (PDA then MEA then PDA) to combat senescence factor and
-  strain weakening over repeated reinoculation cycles.
-- Always select the most vigorous mycelia for stock culture transfer.
-
-## See Also
-
-- [[gottlieb-psilocybin-production-extraction-methods]]
-
-- [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
-- [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]

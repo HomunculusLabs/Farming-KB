@@ -88,35 +88,3 @@ moisture and organic substrate are available.
 ## Edibility and Toxicity
 
 *Peziza vesiculosa* is generally considered inedible rather than
-poisonous. Its small size, thin flesh, and tough texture make it
-unappealing as a food item. Some field guides list it as "edible but not
-worthwhile," while others recommend avoiding it due to potential confusion
-with toxic lookalikes. No significant cases of poisoning have been
-documented. Similar-looking species in the [[gyromitra-esculenta|Gyromitra]]
-genus contain gyromitrin and are dangerously toxic, though those species
-have a distinctly different morphology (brain-like or saddle-shaped caps
-rather than smooth cups).
-
-## Ecological Role
-
-As a saprotrophic fungus, *P. vesiculosa* plays a role in decomposing
-organic matter in soil. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by breaking
-down plant debris, compost, and other organic substrates. The species
-is among the early-successional fungi on disturbed ground, appearing
-within weeks of soil disturbance or organic enrichment. Its ability to
-fruit on compost and garden waste makes it a regular component of the
-[[decomposer-fungi-succession|decomposer fungi succession]] in managed
-landscapes. The [[ascomycete-phylum-guide|Ascomycete]] lifestyle of this
-species is typical of the [[pezizales-discomycete-ascomycete-diversity|Pezizales]]
-order, producing above-ground apothecia that forcibly discharge spores.
-
-## See Also
-
-- [[ascomycete-phylum-guide]]
-- [[pezizales-discomycete-ascomycete-diversity]]
-- [[helvella-crispa]]
-- [[helvella-acetabulum]]
-- [[morchella-esculenta]]
-- [[gyromitra-esculenta]]
-- [[verpa-bohemica]]
-- [[helvella-lacunosa]]

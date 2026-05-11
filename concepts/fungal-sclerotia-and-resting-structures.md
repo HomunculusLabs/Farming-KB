@@ -33,7 +33,7 @@ Rhizomorphs are differentiated, root-like aggregates of hyphae that allow
 long-distance transport of water and nutrients within adverse environments. They
 function as both exploratory organs and perennating structures, enabling fungi
 to bridge between spatially separated resources.
-Mycelial cords are linear aggregations of hyphae that serve as conduits for
+[[dighton-fungal-rhizomorphs-mycelial-cords]] are linear aggregations of hyphae that serve as conduits for
 translocation of nutrients and water between resource patches. Unlike
 rhizomorphs, cords are generally less differentiated but can persist for
 extended periods in soil.
@@ -41,8 +41,8 @@ Chlamydospores are thick-walled, terminal or intercalary spores produced by
 many fungi as survival structures. They are simpler in structure than sclerotia
 but provide similar resistance to environmental stress.
 Fruit bodies (sporocarps), including ascomata, basidiomata, and conidiomata,
-are hyphal aggregates that function primarily in spore production but can also
-serve as perennating structures for the fungal mycelium.
+are hyphal aggregates that function primarily in [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]] but can also
+serve as perennating structures for the [[fungal-mycelium-hyphae-and-the-feeding-phase]].
 ## Sclerotial Development Stages
 Sclerotium formation proceeds through distinct developmental phases. In the
 initiation phase, hyphal tips undergo branching pattern changes, switching from
@@ -55,12 +55,12 @@ and the accumulation of storage compounds including trehalose, glycogen, and
 lipids.
 The genetic regulation of sclerotium development involves multiple signaling
 pathways. The MAP kinase and cAMP signaling cascades regulate the transition
-from vegetative growth to sclerotial initiation. Genes encoding hydrophobins
+from [[cannabis-vegetative-growth-stage]] to sclerotial initiation. Genes encoding hydrophobins
 are expressed during early development, contributing to the hydrophobic surface
 properties that protect sclerotia from waterlogging.
 ## Germination Patterns
 Sclerotia can germinate through two distinct pathways. Carpogenic germination
-produces fruiting bodies (apothecia or stromata) that bear sexual spores. This
+produces [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia or stromata) that bear sexual spores. This
 mode is characteristic of [[sclerotinia-sclerotiorum]], where apothecia arise from
 sclerotia and release ascospores that initiate new infections.
 Myceliogenic germination produces vegetative hyphae directly from the sclerotium
@@ -87,29 +87,4 @@ extremely difficult.
 The primary ecological function of sclerotia is survival during unfavorable
 conditions. In temperate and Mediterranean climates, sclerotia allow soil-borne
 pathogens to persist between cropping seasons. In natural ecosystems, sclerotia
-of saprotrophic fungi survive periods of drought, freezing, or resource
-scarcity buried in soil or leaf litter.
-The long-term persistence of sclerotia in soil contributes to the maintenance
-of fungal species diversity. Soil banks of sclerotia can contain viable
-propagules of many species, providing a reservoir of genetic diversity that
-can respond to environmental change or disturbance.
-In [[fungal-ecosystem-processes-overview]], sclerotia of saprotrophic
-basidiomycetes contribute to soil carbon storage. The heavily melanized hyphae
-and sclerotia of species such as [[cenococcum-geophilum]] are produced abundantly
-in forest soils and persist for extended periods, contributing to the formation
-of stable [[humus-formation-and-soil-organic-matter]].
-## Environmental Regulation
-The formation of sclerotia is regulated by environmental signals including
-[[ph-and-nutrient-availability-garden-soils]], temperature, light, pH, and the presence of other
-organisms. Nutrient stress, particularly carbon limitation, often triggers
-sclerotium production as fungi shift resources from growth to survival.
-Autoregulatory signals produced by the fungus itself play critical roles in
-regulating colony morphogenesis and the decision to form sclerotia versus other
-structures. [[mushroom-growing-temperature-and-moisture]] cycles can synchronize sclerotium
-germination with favorable environmental conditions.
-## See Also
-- [[fungal-conidia-and-spore-types]]
-- [[fungal-spore-biology]]
-- [[fungal-stress-responses]]
-- fungal-resource-translocation-in-mycelial-networks
-- [[fungal-ecosystem-processes-overview]]
+of [[comparison-mycorrhizal-vs-saprotrophic-fungi]] survive periods of drought, freezing, or resource

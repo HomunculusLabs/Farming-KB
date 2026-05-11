@@ -88,32 +88,3 @@ This cyclical approach means that the cultivator never works with mycelium that 
 ### For Novice Growers
 
 The PF TEK's spore mass approach is ideally suited to beginners because it eliminates the need to manage senescence. Each new crop starts from fresh genetic material, meaning that even cultivators who make mistakes with environmental conditions or contamination management can simply start a new batch from fresh spores without accumulating generational degradation.
-
-### For Advanced Cultivators
-
-Advanced cultivators who wish to clone particularly productive or potent specimens should be aware of the senescence tradeoff. A common strategy is to maintain both cloned lines (for consistent, predictable results) and spore lines (for genetic refreshment). When a cloned line shows signs of senescence, returning to spore mass inoculation from the same genetic stock can restore vigor, albeit with some loss of the specific traits that made the clone desirable.
-
-### Spore Print Best Practices
-
-To maintain maximum spore viability for the senescence-reset cycle:
-
-- Take prints from freshly harvested mushrooms with fully open veils
-- Allow the print to dry thoroughly before sealing the container
-- Store prints in a dry, dark, room-temperature environment
-- Avoid refrigerator storage, which may introduce moisture condensation
-- Use prints within a few months for best germination rates
-- Prepare spore syringes promptly after print-taking rather than storing bare prints
-- Use loose jar caps during the initial drying phase to allow residual moisture to escape before sealing
-
-### The Clone Paradox
-
-Cultivators face a fundamental tension between consistency and longevity. Cloning delivers genetically uniform results — the same potency, growth rate, and appearance crop after crop — but at the cost of a finite generational lifespan. Spore mass inoculation delivers genetic renewal and indefinite cultivation potential but introduces variability that can be unpredictable. The PF TEK resolves this tension by choosing renewal over consistency, a choice that prioritizes long-term viability for the home cultivator.
-
-## See Also
-
-- [[pf-tek-perlite-humidification-technique]]
-- [[mckenna-abandonment-of-mystery-four-stages]]
-- emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology
-- [[tissue-culture-cloning]]
-- [[spore-syringe]]
-- [[mushroom-cultivation]]

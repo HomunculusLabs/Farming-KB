@@ -1,5 +1,5 @@
 ---
-title: [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] Neurotropic Fungi Species Distribution
+title: Guzman Central America Neurotropic Fungi Species Distribution
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_authors: Guzmán, Allen & Gartz (1998)
 concept_category: biogeography
@@ -87,64 +87,3 @@ mycological and ethnobotanical research conducted there:
 ### Panama
 
 Panama's record includes two species, one of which is endemic to the region:
-
-- **Psilocybe caerulescens** var. **caerulescens** — Reported by Guzmán (1983).
-  Panama represents the southernmost confirmed record for this variety in
-  Central America.
-- **Psilocybe dumontii** Guzmán — A species described by Guzmán (1983), with
-  Panama as one of its type localities.
-
-## Biogeographic Significance
-
-Central America's neurotropic mycoflora is characterized by important patterns:
-
-### Land Bridge Distribution
-
-Central America functions as a biogeographic corridor allowing the northward
-and southward dispersal of fungal species. The presence of P. cubensis,
-C. cyanescens, and A. muscaria across multiple Central American countries
-reflects the ability of these species to exploit both natural and
-anthropogenic (particularly pastoral) habitats throughout the region.
-
-### Species Richness Gradient
-
-A clear gradient of documented species richness exists from south to north,
-with Guatemala (4 species) having the most records and El Salvador and Honduras
-the fewest. This likely reflects both ecological factors and sampling bias, as
-Guatemala has received considerably more mycological attention.
-
-### Transition Zone Species
-
-The tentative identifications of P. cf. aztecorum and P. cf. mexicana in
-Costa Rica are significant, suggesting Central American populations may
-represent southern extensions of primarily Mexican species complexes.
-
-### Substrate Specialization
-
-Most Central American psilocybian species are associated with specific
-substrates: P. cubensis and C. cyanescens on herbivore dung, P. subcubensis
-on enriched soils, and P. mexicana on disturbed ground. The widespread cattle
-ranching throughout the region has likely facilitated the distribution of
-coprophilous species.
-
-## Underexplored Regions
-
-Guzmán et al. (1998) noted that Central America still contains significant gaps
-in mycological knowledge. Nicaragua has no confirmed neurotropic species records,
-which likely reflects lack of collection effort rather than genuine absence.
-The cloud forests of the Central American cordilleras probably harbor
-undocumented species.
-
-## Indigenous Use
-
-The extensive documentation of [[amanita-muscaria-in-eastern-religions]] Guatemala, including its
-association with the Thunderbolt Legend (Lowy, 1974), suggests indigenous
-peoples may have culturally utilized psychoactive fungi. The presence of
-P. mexicana in Guatemala raises questions about possible unrecognized
-indigenous use in the region.
-
-## References
-
-- Guzmán, Allen & Gartz (2000). Ann. Mus. civ. Rovereto, 14, 189-280.
-- Lowy, B. (1974). Mycologia 66(5), 951-955.
-- Sáenz, J.A. et al. (1983). Rev. Biol. Trop. 31, 201-207.

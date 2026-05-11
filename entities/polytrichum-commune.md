@@ -88,27 +88,3 @@ Vegetative propagation is more practical for horticultural purposes. Stem fragme
 Optimal growth occurs at temperatures of 15–20°C with high ambient humidity. The species requires acidic substrates with pH 4.5–6.0 and performs poorly in alkaline conditions.
 
 ## Reproduction and Life Cycle
-
-*Polytrichum commune* follows the typical bryophyte alternation of generations. The dominant haploid gametophyte produces separate male (antheridia) and female (archegonia) reproductive structures on the same or different stems.
-
-Sperm cells require a thin film of water to swim from antheridia to archegonia. This water dependence limits effective fertilization distance and influences the species' preference for persistently moist habitats.
-
-After fertilization, the diploid sporophyte develops from the archegonium. The elongating seta pushes the capsule above the gametophyte canopy, optimizing spore dispersal by wind.
-
-Spore capsules mature over 2–4 months. Each capsule releases approximately 50,000–200,000 spores through the peristome mechanism, which responds to changes in humidity to regulate spore release timing.
-
-The species also reproduces vegetatively through fragmentation. Stem tips broken by disturbance can establish new colonies, enabling local spread even when [[fungal-life-cycles-sexual-reproduction-metamorphosis]] conditions are unfavorable.
-
-## See Also
-
-- [[polytrichum-juniperinum]]
-
-- [[sphagnum-cuspidatum]]
-- [[bryoria-fuscescens]]
-- [[cetraria-nivalis]]
-- [[equisetum-arvense]]
-- [[pteridium-aquilinum]]
-- [[pinus-sylvestris]]
-- [[ectomycorrhiza]]
-- fungal-biodiversity-forest-floor
-- [[arbutoid-mycorrhiza]]

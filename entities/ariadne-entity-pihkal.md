@@ -89,16 +89,6 @@ of 12.5 mL 15% NaOH followed by an additional 37.5 mL H2O. These
 solids were removed by filtration, and the filter cake was washed with
 THF. The combined filtrate and washings were stripped of solvent
 
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[2c-b-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[asb-entity-pihkal]] -- ASB (PIHKAL #9)
+- [[ariadne-pihkal-entry-8]]
+- [[ethyl-j-entity-pihkal]]

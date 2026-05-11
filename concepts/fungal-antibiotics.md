@@ -11,20 +11,20 @@ sources: []
 
 ## Overview
 
-Fungi have been one of the most important sources of antibiotics [[bloomfield-fungal-secondary-metabolites]] in human medicine. The discovery of penicillin from the mold Penicillium notatum in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of antimicrobial compounds, and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
+Fungi have been one of the most important sources of antibiotics in human medicine. The discovery of penicillin from the mold Penicillium notatum in 1928 launched the antibiotic era and fundamentally transformed medicine. Fungi continue to be a rich source of [[antimicrobial-compounds-mushroom-mycelium]], and ongoing research seeks to identify new fungal-derived antibiotics to combat the growing crisis of antimicrobial resistance.
 
 ## Penicillin: History and Impact
 
 ### Alexander Fleming's Discovery (1928)
 
-In September 1928, Alexander Fleming, a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth [[bloomfield-fungal-secondary-metabolites]]. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin's activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
+In September 1928, Alexander Fleming, a bacteriologist at St. Mary's Hospital in London, observed that a contaminating mold colony on a Staphylococcus culture plate had created a zone of inhibited bacterial growth. He identified the mold as Penicillium notatum and named the active antibacterial substance "penicillin." Fleming published his findings in 1929, noting penicillin's activity against staphylococci, streptococci, and other Gram-positive bacteria, as well as its apparent non-toxicity to human cells.
 
 ### Development into a Drug (1939-1941)
 
 Fleming's discovery remained largely unexploited for a decade until Howard Florey, Ernst Chain, and their team at Oxford University's Sir William Dunn School of Pathology took up the challenge of mass-producing penicillin. Key achievements:
 
 - Chain purified penicillin and demonstrated its chemical structure (a beta-lactam compound)
-- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe bacterial infections
+- Florey's team conducted the first clinical trials in 1941, showing dramatic efficacy in severe [[blesching-cannabis-bacterial-infections]]
 - Mass production was developed in the United States through fermentation technology, using corn steep liquor and deep-tank fermentation
 
 ### Wartime Production and Global Impact
@@ -116,17 +116,17 @@ Modern techniques allow researchers to identify biosynthetic gene clusters (BGCs
 
 - Co-culturing fungi with bacteria to trigger defensive compound production
 - Epigenetic modulators (histone deacetylase inhibitors, DNA methyltransferase inhibitors) to activate silent genes
-- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, Saccharomyces cerevisiae)
+- Heterologous expression of BGCs in model fungal hosts (Aspergillus oryzae, [[saccharomyces-cerevisiae]])
 
 ### Environmental Sampling
 
 Underexplored environments are being targeted for novel fungal isolates:
 
 - Deep-sea sediments and hydrothermal vents
-- Endophytic fungi living inside plant tissues
+- [[endophytic-fungi-living-inside-plants]] inside plant tissues
 - Fungi associated with insects (especially social insects with sophisticated antimicrobial defenses)
 - Cave and mine environments
-- Polar and extreme environments
+- Polar and [[fungal-biodiversity-in-extreme-environments]]
 
 ### Novel Compound Classes
 
@@ -143,7 +143,7 @@ Promising fungal-derived compounds in development:
 - **Drug development cost**: Bringing a new antibiotic to market costs $1-2 billion, with poor return on investment compared to chronic disease drugs
 - **Regulatory hurdles**: Stringent requirements for safety and efficacy testing
 
-See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the human fungal pathogens these drugs aim to treat.
+See [[mycology-research-methods]] for techniques used in fungal antibiotic discovery and [[fungal-infections-human]] for an overview of the [[human-fungal-pathogens]] these drugs aim to treat.
 
 ## Related
 

@@ -88,21 +88,3 @@ achieves comparable color removal at lower cost than coagulation-flocculation.
   Cold climates may require seasonal treatment windows or insulated systems.
 - **Accessibility**: Easily accessible sites with level terrain minimize
   earthwork and materials handling costs.
-
-### Scale Considerations
-
-Economies of scale favor fungal bioremediation at larger sites. Fixed costs
-for [[arbuscular-mycorrhizal-inoculum-production-best-practices]], monitoring setup, and regulatory compliance are
-distributed over larger treatment volumes, reducing unit costs. However,
-logistical challenges of managing large treatment areas may offset some scale
-advantages.
-
-## Value-Added Revenue Streams
-
-Fungal bioremediation can generate offsetting revenue:
-
-- **Mushroom production**: [[fungal-extracellular-enzyme-production]] from white rot lignin modifying
-  fungi yields [[ligninolytic-enzymes-bioremediation]] with
-  commercial value.
-- **Metal recovery**: Concentrated metals from [[singh-nickel-zinc-fungal-biosorption]] and [[singh-selenium-arsenic-biotransformation-fungi]]
-  recovery is technically feasible.

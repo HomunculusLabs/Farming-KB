@@ -12,7 +12,7 @@ The tree lupin is an evergreen, perennial shrub or small tree reaching about
 species in permaculture [[permaculture-plants-nitrogen-fixing-trees]] systems worldwide, offering nitrogen fixation, bee
 forage, biomass production, and site preparation for more demanding plantings. (see [[nitrogen-fixing-trees-and-shrubs]]).
 Its ability to colonise disturbed ground and improve soil conditions makes it
-a reliable first-stage species in ecological succession design. (see [[permaculture-pioneer-species]]).
+a reliable first-stage species in [[holmgren-ecological-succession-design]]. (see [[permaculture-pioneer-species]]).
 
 ## Botanical Profile
 
@@ -34,7 +34,7 @@ Tree lupin excels as a pioneer species due to several adaptive traits:
 - **Rapid establishment**: Grows quickly from seed, colonising bare or
   disturbed ground with minimal site preparation.
 - **Nitrogen accumulation**: As a legume, it fixes atmospheric nitrogen
-  through symbiotic bacteria in root nodules, building soil fertility on
+  through symbiotic bacteria in root nodules, [[building-soil-fertility-long-term]] on
   depleted sites.
 - **Biomass production**: Produces substantial leafy growth that can be cut
   hard and used as nitrogen-rich mulch.
@@ -48,9 +48,9 @@ The tree lupin functions effectively as a nurse crop in permaculture
 design, preparing sites for more permanent plantings. Its contributions to
 nurse crop function include:
 
-1. **Soil improvement**: Nitrogen fixation and leaf litter deposition raise
-   organic matter and nutrient availability in the root zone.
-2. **Microclimate creation**: The shrubby canopy provides shade, wind
+1. **Soil improvement**: [[legume-nitrogen-fixation-and-green-manure]] leaf litter deposition raise
+   organic matter [[ph-and-nutrient-availability-garden-soils]] in the root zone.
+2. **[[holzer-climate-zone-microclimate-creation]]**: The shrubby canopy provides shade, wind
    protection, and humidity moderation for establishing seedlings.
 3. **Weed suppression**: Dense growth shades out competitive weeds during
    the critical establishment period of companion species.
@@ -80,7 +80,7 @@ tree lupin provides:
 - Early-season nectar and pollen when colonies are building up after winter
 - A second autumn flow to help colonies prepare for winter
 - Attractive yellow flower spikes that are highly visible to foraging bees
-- Reliability across a range of temperate climates
+- Reliability across a range of [[fukuoka-natural-farming-temperate-climates]]
 
 ## Toxicity Considerations
 
@@ -88,60 +88,3 @@ An important design consideration is that tree lupin has some toxicity. No
 data is available on its value as stock feed, and it is likely too toxic for
 direct grazing by livestock. However, hungry kangaroos will not eat it—which
 is an advantage in many Australian situations where native wildlife pressure
-on plantings can be significant.
-
-This toxicity means tree lupin should not be used as direct fodder but
-instead valued for its indirect functions: nitrogen fixation, biomass for
-mulch, bee forage, and nurse crop services. When cutting for mulch, the
-nitrogen-rich foliage breaks down to feed other plants without the toxicity
-risk associated with direct consumption.
-
-## Propagation
-
-Tree lupin can be propagated by two methods:
-
-- **Seed**: Growing from seed is easy. Seeds benefit from scarification
-  (light abrasion of the seed coat) or soaking in warm water before sowing
-  to improve germination rates. Direct seeding into prepared sites is
-  practical for large-scale plantings.
-- **Cuttings**: Can be grown from cuttings, though seed propagation is
-  generally easier and more productive for establishment purposes.
-
-## Mulch Production
-
-One of the most practical uses of tree lupin in a permaculture system is
-as a biomass crop for mulch production. The plant can be cut hard—cut back
-to ground level or near it—and will regrow vigorously. The resulting leafy
-material is rich in nitrogen, making it a valuable green mulch for:
-
-- Surface application around fruit trees and garden beds
-- Compost activation as a nitrogen source in brown-dominant compost piles
-- Sheet mulching as part of layered bed preparation
-- Pathway material that feeds adjacent plantings as it breaks down
-
-## Companion Species
-
-Tree lupin pairs well with other pioneer and nitrogen-fixing species in
-initial site establishment. Consider combining it with tagasaste
-(Chamaecytisus palmensis) for a multi-layered pioneer system, or with
-Acacia species on more arid sites where tree lupin provides understory
-nitrogen fixation while wattles provide overhead shelter.
-
-## Landscape Applications
-
-Tree lupin is suited to several specific permaculture applications:
-
-- Quarry and mine site rehabilitation, where its voluntary colonisation of
-  limestone substrates has been demonstrated
-- Coastal sand dune stabilisation in temperate zones
-- Orchard understory establishment before canopy closure
-- Windbreak understory in mixed shelterbelt plantings
-- Pollinator corridor plantings along farm boundaries
-- Degraded pasture improvement as a precursor to perennial pasture
-  establishment
-
-## See Also
-
-- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]

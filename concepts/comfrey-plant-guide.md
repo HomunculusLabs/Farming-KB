@@ -13,10 +13,10 @@ sources: []
 
 Comfrey is a perennial herbaceous plant in the Boraginaceae family, widely
 valued in permaculture and homesteading for its deep taproot, rapid biomass
-production, and medicinal properties. It is one of the most useful multi-
+production, [[panax-ginseng]]. It is one of the most useful multi-
 function plants you can grow on a homestead, serving roles as a dynamic
 accumulator, compost activator, mulch crop, and traditional wound-healing
-herb. (see [[valerian-growing-guide]]).
+herb.
 
 ## Botanical Profile
 
@@ -29,7 +29,7 @@ herb. (see [[valerian-growing-guide]]).
 
 Russian comfrey (Bocking 14 is the most popular cultivar) is preferred for
 homesteads because it is sterile and will not spread by seed, though it can
-still spread vegetatively from root fragments. (see [[hawthorn-berry-guide]]).
+still spread vegetatively from root fragments.
 
 ## Dynamic Accumulator Properties
 
@@ -68,7 +68,7 @@ peppers, and fruit trees that have high potassium demands.
 
 ## Medicinal Uses
 
-Comfrey has a long history of use in herbal medicine for wound healing and
+Comfrey has a long history of use in [[childrens-herbal-medicine]] for wound healing and
 bone repair. The key active compound is allantoin, which promotes cell
 proliferation.
 
@@ -112,7 +112,7 @@ or in fall for establishment before winter.
 
 ### Maintenance
 Comfrey requires virtually no maintenance once established. It is generally
-pest and disease free. The main task is cutting: plants can be harvested
+[[hamilton-pest-and-disease-control-organic]] free. The main task is cutting: plants can be harvested
 3-5 times per season, cutting to about 2 inches above ground. Allow the first
 cut of the year to flower before cutting to support early pollinators.
 
@@ -128,12 +128,12 @@ in the soil can regenerate. To prevent unwanted spread:
 
 Comfrey pairs well in fruit tree guilds, placed at the drip line of fruit
 trees to mine nutrients and provide mulch. It also works well as a border
-plant around vegetable gardens. Avoid planting comfrey directly in annual
+plant around [[maintaining-organic-matter-in-vegetable-gardens]]. Avoid planting comfrey directly in annual
 vegetable beds as its persistent root system makes removal difficult.
 
 ## Harvesting and Storage
 
-Cut leaves before flowering for maximum nutrient content in fertilizer
+Cut leaves before flowering for maximum [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] in fertilizer
 applications. For medicinal use, harvest leaves and flowering tops in mid-
 morning after dew has dried. Dry in a well-ventilated area out of direct
 sunlight. Store dried leaves in airtight containers away from light.
@@ -141,6 +141,6 @@ sunlight. Store dried leaves in airtight containers away from light.
 ## See Also
 
 - [[cannabis-living-soil-guide]] -- comfrey biomass feeds soil biology in no-till systems
-- [[knf-preparations]] -- Korean Natural Farming fermented plant juices can be made from
+- [[knf-preparations]] -- [[korean-natural-farming]] fermented plant juices can be made from
   comfrey leaves
 - [[cover-cropping-guide]] -- comfrey functions as a living mulch and green manure

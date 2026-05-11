@@ -14,7 +14,7 @@ surface instead of gills. The Appalachian region, spanning from northern Alabama
 through the Carolinas into Virginia and West Virginia, supports one of the
 richest bolete assemblages in North America. These predominantly mycorrhizal
 fungi are key components of forest ecosystems and include some of the most
-sought-after edible wild mushrooms.
+sought-after [[edible-wild-mushrooms-by-region]].
 
 ## Morphology and Identification
 
@@ -31,17 +31,17 @@ turn blue when bruised due to oxidation of variegatic and xerocomic acids.
 ### Boletus (sensu stricto)
 The genus Boletus in its modern restricted sense contains relatively few species
 but includes the renowned king bolete (Boletus edulis). True B. edulis is
-relatively uncommon in the Appalachians. Boletus reticulatus (B. aereus), with
+relatively uncommon in the Appalachians. [[boletus-reticulatus]] (B. aereus), with
 its dark brown, finely reticulate cap, is occasionally found in oak-rich cove
 forests.
 
 ### Suillus
 Members are primarily associated with conifers. Common Appalachian species
-include Suillus americanus under eastern white pine, S. luteus under planted
+include [[suillus-americanus]] under eastern white pine, S. luteus under planted
 pines, and S. pictus under red spruce at high elevations.
 
 ### Tylopilus
-Tylopilus felleus (bitter bolete) is common in Appalachian oak forests, notable
+[[tylopilus-felleus]] (bitter bolete) is common in Appalachian oak forests, notable
 for its intensely bitter taste. It closely resembles king bolete but has a
 distinctive pink pore surface and dark brown reticulate stem, frequently
 confusing novice foragers.
@@ -76,9 +76,9 @@ High-elevation spruce-fir forests above 4,500 feet harbor cold-adapted boletes
 including Suillus species with red spruce and Fraser fir, some at their southern
 range limits.
 
-Old-growth forests with abundant coarse woody debris and diverse mycorrhizal
+Old-growth forests with abundant [[fungal-diversity-leaf-litter-coarse-woody-debris]] and diverse mycorrhizal
 hosts generally support richer communities than younger second-growth stands.
-Large, old trees with extensive mycorrhizal networks are particularly important
+Large, old trees with extensive [[arbuscular-mycorrhizal-networks]] are particularly important
 for rare and infrequently fruiting species.
 
 ## Edible Species and Foraging
@@ -88,30 +88,3 @@ September. The most prized edibles include Boletus sensu stricto and select
 Suillus and Xerocomus. Toxic boletes include Boletus satanas (devil's bolete)
 and Rubroboletus eastwoodiae, both with red pore surfaces and blue-staining
 flesh causing gastrointestinal distress. As with all wild
-[[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]],
-positive identification is essential. Avoid species with red or orange pore
-surfaces until thoroughly familiar with the regional flora.
-
-## Conservation and Taxonomic Challenges
-
-Many Appalachian boletes face threats from habitat fragmentation and climate
-change. Loss of American chestnut eliminated a major mycorrhizal host; ongoing
-hemlock decline from woolly adelgid is expected to shift community composition.
-Taxonomically, boletes are undergoing extensive molecular revision with
-traditional genus boundaries being redefined. Molecular barcoding has revealed
-significant cryptic diversity within morphologically similar species complexes,
-suggesting actual diversity may be substantially higher than currently
-documented.
-
-## Ecological Significance
-
-Boletes are among the most important [[ectomycorrhizal-fungal-ecology]] groups
-in temperate forests. Their [[mycorrhizal-fungi]] relationships with forest
-trees facilitate nutrient exchange and contribute to forest productivity and
-resilience.
-
-## See Also
-
-- king bolete
-- [[north-carolina-mycodiversity]]
-- [[amanita-genus-morphology]]

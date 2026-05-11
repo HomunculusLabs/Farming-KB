@@ -87,10 +87,3 @@ approximately 12–16 ounces per square meter under optimal conditions.
 The plants respond well to SCROG ([[screen-of-green]]) and low-stress
 [[cannabis-training-techniques-comparison]], which help manage lateral branching and maximize
 light penetration.
-
-Thin Mint is susceptible to [[cervantes-powdery-mildew-prevention-treatment]] in high-humidity environments,
-requiring adequate airflow and dehumidification during dense flowering.
-
-Nutrient requirements are moderate to heavy during weeks 4–8 of flowering,
-with a preference for phosphorus and potassium supplementation in the
-final weeks to support trichome production.

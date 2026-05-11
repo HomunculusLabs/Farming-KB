@@ -40,7 +40,7 @@ The hallucinations, when they do occur, are most often visual but can affect any
 
 ## Scientific Adoption
 
-Despite its inaccuracy, the scientific community has largely adopted the term "hallucinogen" as the standard nomenclature. This choice reflects several pragmatic considerations. The term is well-established in the pharmacological literature, international drug control conventions, and regulatory frameworks. It provides a functional category for grouping substances with similar subjective effects, even if the defining characteristic (hallucination production) is not the primary or most important effect of these drugs.
+Despite its inaccuracy, the scientific community has largely adopted the term "hallucinogen" as the standard nomenclature. This choice reflects several pragmatic considerations. The term is well-established in the pharmacological literature, international drug control conventions, and [[medicinal-mushroom-cancer-regulatory-frameworks]]. It provides a functional category for grouping substances with similar subjective effects, even if the defining characteristic (hallucination production) is not the primary or most important effect of these drugs.
 
 In practice, the terms "hallucinogen" and "psychedelic" are used interchangeably in most contexts. However, the choice of terminology often signals the perspective of the speaker: clinicians and regulators tend to use "hallucinogen," while users and advocates tend to prefer "psychedelic."
 
@@ -66,13 +66,13 @@ Many other agents can be classified as pseudo-hallucinogens because they produce
 
 ## Implications for Drug Policy
 
-The choice of terminology has practical implications for drug policy and public perception. The term "hallucinogen" emphasizes the most dramatic and potentially frightening aspect of the drug experience, which may contribute to public anxiety and support for prohibitionist policies. The term "psychedelic" emphasizes the mind-expanding and potentially beneficial aspects of the experience, which may support more permissive or therapeutic frameworks.
+The choice of terminology has practical implications for drug policy and public perception. The term "hallucinogen" emphasizes the most dramatic and potentially frightening aspect of the drug experience, which may contribute to public anxiety and support for prohibitionist policies. The term "psychedelic" emphasizes the mind-expanding and potentially beneficial aspects of the experience, which may support more permissive or [[psychedelic-therapeutic-frameworks]].
 
 The EMCDDA case study on hallucinogenic mushrooms illustrates how terminology choices can shape policy responses. The scientific and regulatory use of "hallucinogenic" frames these substances primarily through the lens of risk and abnormality, while user communities that employ "psychedelic" or "magic" frame them through lenses of exploration, spirituality, and natural therapy.
 
 ## Other Tryptamine Alkaloids in Mushrooms
 
-Beyond psilocybin and psilocin, two further tryptamine alkaloids have been identified in hallucinogenic mushrooms: baeocystin and norbaeocystin. These compounds are thought to be less active than psilocybin and psilocin, though their precise pharmacological contribution to the overall mushroom experience remains incompletely understood. Baeocystin (4-phosphoryloxy-N-methyltryptamine) is the N-methyl analogue of psilocin, while norbaeocystin (4-phosphoryloxytryptamine) lacks the N,N-dimethyl substitution entirely.
+Beyond [[hplc-analysis-of-psilocybin-and-psilocin]], two further tryptamine alkaloids have been identified in hallucinogenic mushrooms: [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]. These compounds are thought to be less active than psilocybin and psilocin, though their precise pharmacological contribution to the overall mushroom experience remains incompletely understood. Baeocystin (4-phosphoryloxy-N-methyltryptamine) is the N-methyl analogue of psilocin, while norbaeocystin (4-phosphoryloxytryptamine) lacks the N,N-dimethyl substitution entirely.
 
 The presence of multiple active alkaloids in varying proportions adds complexity to dose-response relationships and may contribute to the subjective differences reported between mushroom species, strains, and even individual specimens. This alkaloid variability is one of the factors that makes mushroom dosing inherently less predictable than synthetic hallucinogens with precisely defined chemical compositions.
 
@@ -82,43 +82,9 @@ The hallucinogenic mushrooms discussed in the EMCDDA study belong mainly to four
 
 - **Strophariaceae family** (Psilocybe genus): The predominant genus in terms of recreational use, including psilocybe cubensis (also known [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] semilanceata (liberty  anescens (wavy  urescens, and [[psilocybe-bohemica]].
 - **Bolbitiaceae family** (Conocybe genus): Less commonly encountered species containing psilocybin.
-- **Coprinaceae family** (Copelandia and Panaeolus genera): Includin copelandia cyanescens s (Copelandia cyanescens), a particularly potent species sold in smartshops.
+- **Coprinaceae family** (Copelandia and Panaeolus genera): Includin [[copelandia-cyanescens]] s (Copelandia cyanescens), a particularly potent species sold in smartshops.
 - **Cortinariaceae family** (Inocybe genus): Some species containing psilocybin, though these are less commonly used recreationally.
 
-The complexity of mycological classification, combined with differences in chemical composition and subjective effects across species, has led to inconsistencies and confusion in the description and identification of hallucinogenic mushrooms. The list of species and their geographical distribution is constantly being critically revised by mycologists.
+The complexity of mycological classification, combined with differences in chemical composition and subjective effects across species, has led to inconsistencies and confusion in the description and identification [[health-risks-of-hallucinogenic-mushrooms]]. The list of species and their geographical distribution is constantly being critically revised by mycologists.
 
 ## The Amanita Distinction
-
-The EMCDDA study explicitly distinguished psilocybin-containing mushrooms from the Amanita family (Agaricaceae), with [[allegro-amanita-muscaria-properties-and-pharmacology]] (fly agaric) being the best known representative. The active chemicals in Amanita species, including muscimol, ibotenic acid, and muscarine, are chemically unrelated to psilocybin and psilocin and produce qualitatively different effects. Amanita species carry substantial toxicity risks, and some closely related species are highly toxic and can cause fatal poisoning. This toxicity partly explains the lower popularity of Amanita mushrooms compared to psilocybin-containing species.
-
-Following the prohibition of psilocybin-containing fungi in the UK and Ireland, retailers began marketing Amanita muscaria as a legal alternative, a development that raised public health concerns given the different risk profile and the potential for confusion with highly toxic Amanita species.
-
-## Role of Serotonin System
-
-Psilocin, the pharmacologically active metabolite of psilocybin, acts primarily on the serotonin (5-HT) system as a 5-HT2A post-synaptic agonist or partial agonist. This mechanism of action is shared with other classical hallucinogens including LSD and mescaline, and is believed to be responsible for the characteristic perceptual and cognitive effects of these substances.
-
-The structural similarity between psilocin and serotonin (5-hydroxytryptamine) means that psilocin can bind to multiple serotonin receptor subtypes, though the 5-HT2A receptor is considered the primary site of hallucinogenic action. This receptor-mediated mechanism distinguishes classical hallucinogens from pseudo-hallucinogens such as anticholinergic compounds, which act through entirely different neuropharmacological pathways.
-
-## Taxonomic Complexity
-
-The mycological classification of hallucinogenic mushrooms presents particular challenges for both science and law. There are more than 100 known [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]], distributed across multiple genera and families. The list of species and their geographical distribution is constantly being critically revised by mycologists, with new species being identified and existing classifications being reorganized based on DNA analysis and morphological study.
-
-For legal purposes, this taxonomic complexity creates enforcement challenges. Laws that name specific genera or species may become outdated as classifications change, while laws that define controlled mushrooms by their chemical content (containing psilocin or psilocybin) require forensic testing that may not be available for every seizure. Different EU Member States adopted different approaches to this challenge, with some listing specific genera (Italy listed "Fungi of the genus Stropharia, Conocybe and Psilocybe"), some naming specific species (Denmark listed "Psilocybe semilanceata, Psilocybe cubensis or other fungi containing psilocin or psilocybin"), and others using functional definitions based on chemical content.
-
-## Bluing Reaction as Identification Feature
-
-Nearly all psilocybin-containing mushrooms are small brown or tan fungi that could be mistaken for a number of non-psychoactive, inedible, or poisonous mushrooms in the wild. The primary distinguishable feature of most psilocybin-containing mushrooms is that they bruise blue when handled, a reaction caused by the oxidation of psilocin and related compounds. However, this identification feature requires knowledge and experience to use reliably, and some non-psychoactive mushrooms also exhibit blueing, while some psilocybin-containing species may blue only weakly or not at all.
-
-## European Distribution
-
-A variety of psilocybin-containing mushroom species are found in Europe, particularly throughout central and northern Europe. Habitats include wet grassy fields and uncultivated pastures. The most common wild European species is Psilocybe semilanceata (liberty caps), found in the UK, Norway, Germany, and many other countries. Other species growing wild in Europe include Psilocybe cyanescens (wavy caps) and species particularly associated with the Czech Republic such as Psilocybe bohemica and Psilocybe moravica.
-
-## Contemporary Usage
-
-In the 21st century, the terminology landscape has evolved further. The renaissance in psychedelic research has led to increased scientific use of "psychedelic" in published literature, particularly in the context of clinical trials for psilocybin-assisted therapy. However, "hallucinogen" remains the standard term in regulatory documents, forensic science, and international drug control treaties. The coexistence of these terms continues to reflect the tension between clinical, regulatory, and cultural perspectives on these substances.
-
-## See Also
-
-- [[psilocin-and-psilocybin-chemistry]]
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
-- [[hallucinogenic-mushroom-legal-status-europe]]

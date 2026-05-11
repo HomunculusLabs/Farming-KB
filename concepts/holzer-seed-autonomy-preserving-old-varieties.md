@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer seed autonomy preserving old varieties and Preserving holzer-old-varieties-and-seed-saving
+title: Holzer Seed Autonomy Preserving Old Varieties
 created: 2026-04-26
 tags:
   - seed-saving
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -24,7 +25,7 @@ majority of human beings live off just 20 kinds of foods.
 
 The statistics on variety loss are staggering:
 - 97% fewer fruit and [[solomon-vegetable-varieties-self-sufficiency]] today compared to 1900
-- India: from 30,000 rice varieties down to 12
+- India: from 30,000 [[fukuoka-insects-create-new-rice-varieties]] down to 12
 - Philippines: from several thousand rice varieties down to 2
 - China: from 8,000 rice varieties down to 50; from 10,000 wheat varieties
   down to 1,000
@@ -54,7 +55,7 @@ Monsanto, Pioneer, and Syngenta.
 - Increasing amounts of fertiliser and pesticides are required
 - Traditional regional varieties are strictly controlled
 - Farmers cannot sell uncertified seed or produce grown from it
-- Selling heirloom seeds has been made illegal in many jurisdictions
+- Selling [[cervantes-open-pollinated-heirloom-seeds]] has been made illegal in many jurisdictions
   (though giving them away for free remains permitted)
 
 ### Human Cost
@@ -75,7 +76,7 @@ each region had unique varieties of potatoes, herbs, and cereals.
 
 Holzer's rye from Siberia exemplifies the value of regionally adapted
 varieties. The seed was given to him in 1957 by a former prisoner of war:
-- Ideal for bread-making, animal feed, and straw
+- Ideal for bread-making, [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]], and straw
 - Grows anywhere without artificial fertilisers or pesticides
 - Shows regional variation: straw reaches 2.5m in Scotland but only
   1.2-1.5m in Colombia or Spain
@@ -87,20 +88,3 @@ It is not the same grain it was decades ago; it has continuously evolved
 through natural selection in diverse environments.
 
 ## Holzer's Seed Selection Method
-
-The method for producing strong, regionally adapted seeds:
-
-1. Select seeds from the strongest plants growing in the poorest soil
-2. The plant giving the best crop under the most difficult circumstances
-   has the best genetic material
-3. Resow collected seeds in new locations: good and poor soil, sunny and
-   shady areas
-4. Plants from the [[holzer-seed-saving-and-variety-preservation]] - Holzer [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
-- [[holzer-old-varieties-and-seed-saving]] - Old varieties overview
-
-## See Also
-
-- permaculture-designers-manual-seed-saving-varieties
-- [[holzer-old-varieties-and-seed-saving]]
-- [[sepp-holzer-fruit-tree-varieties]]
-- [[seed-selection-breeding-holzer]]

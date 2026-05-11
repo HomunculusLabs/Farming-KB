@@ -1,5 +1,5 @@
 ---
-title: Wasson-Hofmann-Schultes Mushroom Research Network
+title: Wasson Hofmann Schultes Research Network
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -9,8 +9,8 @@ sources:
 ---
 # The Wasson-Hofmann-Schultes [[psychedelic-mushroom-dosage-guide]] s in the 1950s and 1960s resulted from a remarkable
 collaboration between [Robert Gordon Wasson, the French
-mycologist [[roger-heim]] im]], Albert Hofmann of Sandoz
-Laboratori [[richard-evans-schultes]] es]] Schultes
+mycologist roger heim im, Albert Hofmann of Sandoz
+Laboratori [[richard-evans-schultes]] es Schultes
 of Harvard. This informal network of scholars and scientists transformed an
 obscure ethnographic curiosity into a subject of international scientific
 importance.
@@ -20,9 +20,9 @@ importance.
 ### Robert Gordon Wasson (1898-1986)
 
 Wasson, the Wall Street banker-turned-ethnomycologist, provided the impetus and
-financial resources for the expeditions. His [Mexico expeditions brought back the specimens and the stories that catalysed the
+financial resources for the expeditions. His [[wasson-mexico-expeditions]] brought back the specimens and the stories that catalysed the
 entire research programme. His popular writings, particularly the 1957 Life
-article, introduced psychedelic mushrooms to the world.
+article, introduced [[archaeology-of-psychedelic-mushrooms]] to the world.
 
 ### Roger Heim (1900-1979)
 
@@ -48,7 +48,7 @@ considered powerful healing agents.
 The Swiss chemist Albert Hofmann of Sandoz Laboratories was already famous as
 the discoverer of LSD when he received mushroom specimens from Heim. In 1958,
 Hofmann and his colleagues successfully isolated and named the active compounds:
-psilocybin and psilocin.
+[[hplc-analysis-of-psilocybin-and-psilocin]].
 
 Hofmann's chemical characterisation of psilocybin was the crucial step that
 transformed the mushroom from an ethnographic curiosity into a pharmacological
@@ -63,7 +63,7 @@ the curandera who had introduced it to the world was richly symbolic.
 ### Richard Evans Schultes (1915-2001)
 
 Schultes, the Harvard ethnobotanist, had been studying psychoactive plants in
-the Americas since the 1930s. His earlier work on ololiuqui (morning glory
+the Americas since the 1930s. His earlier work on ololiuqui ([[golden-guide-morning-glory-and-ololiuqui]]
 seeds) and other Mesoamerican psychoactive plants provided the scholarly
 context for Wasson's mushroom research.
 
@@ -76,58 +76,15 @@ sometimes critical of Wasson's more speculative theories.
 
 The collaboration followed a characteristic pattern:
 
-1. **Field collection**: Wasson and his collaborators collected mushroom
+1. **[[psilocybin-mushroom-field-collection-techniques]]**: Wasson and his collaborators collected mushroom
    specimens during their [Mexico expeditions.
    Local Mazatec curanderos guided them to the mushrooms they used in their
    ceremonies.
 
-2. **Taxonomic identification**: Roger Heim received the specimens and
+2. **[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]**: Roger Heim received the specimens and
    identified and classified them. He described new species and clarified the
    relationships between known species.
 
-3. **Chemical analysis**: Heim sent dried specimens to Hofmann at Sandoz.
+3. **[[chemical-analysis-psilocybin-mushrooms]]**: Heim sent dried specimens to Hofmann at Sandoz.
    Hofmann's team extracted the active compounds, determined their chemical
    structures, and synthesised them. This allowed the production of pure
-   psilocybin for research purposes.
-
-4. **Publication**: Results were published in both popular and academic
-   venues. Wasson's popular writings brought the discoveries to a wide
-   audience, while Heim's and Hofmann's technical papers established the
-   scientific record.
-
-## Impact and Legacy
-
-The network's work had several far-reaching consequences:
-
-**Scientific understanding**: The identification of psilocybin and psilocin
-opened a new chapter in [mushroom chemistry
-and [pharmacology. The tryptamine
-structure of psilocybin established its relationship to endogenous serotonin
-and to other psychedelic compounds.
-
-**Pharmacological research**: Pure synthetic psilocybin enabled controlled
-clinical research, including the [psychedelic therapy experiments of the 1960s and the modern
-resurgence of [psilocybin-assisted therapy.
-
-**Cultural impact**: Wasson's popular writings introduced psychedelic
-mushrooms to Western culture, catalysing the [1960s counterculture and transforming attitudes towards
-psychoactive substances.
-
-**Taxonomic framework**: Heim's taxonomic work remains the foundation of
-Psilocybe classification, though subsequent research has refined and in some
-cases revised his species designations.
-
-## Tensions Within the Network
-
-The collaboration was not without tensions. Wasson's tendency towards grand
-speculation sometimes embarrassed his more cautious scientific collaborators.
-His later theories about the [fly-agaric as the Vedic Soma and the
-[origins of religion in mushroom cults
-strained his relationships with more empirically minded colleagues.
-
-## See Also
-
-- [[hofmann-mysticism-meditation-reality]]
-
-- [[hofmann-lsd-clinical-research-early-studies]]
-- [[hofmann-lsd-psychiatric-research]]

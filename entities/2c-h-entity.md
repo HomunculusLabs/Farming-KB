@@ -9,11 +9,11 @@ sources:
 ---
 # 2C-H (2,5-Dimethoxyphenethylamine)
 
-2C-H is a phenethylamine compound and the parent molecule of the 2C family of psychedelic substances. It serves as the unsubstituted precursor from which many active 2C compounds are synthesized. The compound is listed as [[2c-b-pihkal-entry-20]] #32.
+2C-H is a phenethylamine compound and the parent molecule of the 2C family of [[psychedelic-substances-comparison]]. It serves as the unsubstituted precursor from which many active 2C compounds are synthesized. The compound is listed as [[2c-b-pihkal-entry-20]] #32.
 
 ## Chemical Classification
 
-2C-H belongs to the phenethylamine class of chemical compounds.
+2C-H belongs to the phenethylamine class of [[neurotropic-fungi-chemical-compounds]].
 
 It is formally named 2,5-dimethoxyphenethylamine.
 
@@ -27,7 +27,7 @@ It is presumed to be completely inactive as a psychoactive compound due to its s
 
 In virtually all animal assays where it has been compared with known psychoactive drugs, 2C-H ranks at the "less-active" end of the scale.
 
-Despite its presumed inactivity, 2C-H is one of the most important synthetic precursors in psychedelic phenethylamine chemistry.
+Despite its presumed inactivity, 2C-H is one of the most important synthetic precursors in psychedelic [[phenethylamine-chemistry-basics]].
 
 ## Synthesis and Chemistry
 
@@ -41,7 +41,7 @@ The reduction proceeds over 36 hours at reflux, followed by careful workup to de
 
 The free base distills at 80-100 degrees C at 0.4 mm/Hg and is obtained as a water-white oil.
 
-The free base picks up carbon dioxide rapidly upon exposure to air.
+The free base picks up [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] rapidly upon exposure to air.
 
 It is readily converted to the hydrochloride salt with a melting point of 138-139 degrees C.
 
@@ -69,11 +69,11 @@ Each of these derivatives introduces dramatically different pharmacological prop
 
 ## Historical Context
 
-2C-H is documented in PIHKAL (Phenethylamines I Have Known and Loved) by Alexander Shulgin and Ann Shulgin.
+2C-H is documented in PIHKAL (Phenethylamines I Have Known and Loved) by [[alexander-shulgin]] and Ann Shulgin.
 
 It was included in the book not for its psychoactive properties, but for its critical importance as a synthetic intermediate.
 
-The compound demonstrates how a pharmacologically inactive molecule can serve as the foundation for an entire family of potent psychoactive substances.
+The compound demonstrates how a pharmacologically inactive molecule can serve as the foundation for an entire family of potent [[cultural-evolution-and-psychoactive-substances]].
 
 ## Dosage and Duration
 
@@ -88,25 +88,3 @@ No human trials have been documented.
 No toxicity data is available for 2C-H in humans.
 
 The compound is assumed to be rapidly metabolized by monoamine oxidase enzymes, which may limit any potential toxicity.
-
-As a chemical intermediate rather than a drug of abuse, 2C-H has received limited toxicological investigation.
-
-## Legal Status
-
-The legal status of 2C-H varies by jurisdiction.
-
-In many countries it is not specifically controlled, though it may be regulated as a precursor chemical due to its use in the synthesis of controlled substances.
-
-## See Also
-
-[[2c-i]]
-
-[[2c-n-entity]]
-
-[[2c-e]]
-
-[[phenethylamine-chemistry-basics]]
-
-## References
-
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #32: 2C-H.

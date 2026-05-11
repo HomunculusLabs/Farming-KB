@@ -1,5 +1,5 @@
 ---
-title: fukuoka pelagic disease chemical fish farming and Chemical Treatment in Modern knf-fish-farming-integration
+title: Fukuoka Pelagic Disease Chemical Fish Farming
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 author: masanobu-fukuoka
 tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pollution, marine-ecology]
@@ -9,15 +9,15 @@ tags: [fukuoka, natural-farming, fish-farming, aquaculture, pelagic-disease, pol
 
 ## Overview
 
-In *The Natural Way of Farming*, Masanobu Fukuoka extends his [[fukuoka-road-critique-of-modern-science]] agriculture
+In *The Natural Way of Farming*, [[masanobu-fukuoka]] extends his [[fukuoka-road-critique-of-modern-science]] agriculture
 to include fishing and aquaculture. He describes how pelagic diseases in Japan's Inland Sea,
 caused by pollution from fish farming centers, are treated with large doses of chemicals — a
-destructive cycle mirroring the pesticide spiral in agriculture. The sardine shortage caused
+destructive cycle mirroring the [[fukuoka-textdoc-postwar-mite-epidemic-pesticide-spiral]] in agriculture. The sardine shortage caused
 by feed demands for farmed yellowtail illustrates the irrationality of modern food production.
 
 ## Pollution of the Seas
 
-Modern fishing practices are as destructive as modern agriculture.
+Modern fishing practices are as destructive as [[fukuoka-critique-modern-agriculture]].
 
 We have polluted and killed seas that were once fertile fishing grounds.
 
@@ -45,7 +45,7 @@ with the dangers posed to the entire marine ecosystem.
 Microorganisms, plankton, and smaller species are all impacted, creating cascading effects
 throughout the food chain.
 
-This perfectly parallels agriculture's pesticide approach: each intervention creates new
+This perfectly parallels agriculture's [[jadam-universal-pesticide-approach]]: each intervention creates new
 problems requiring further intervention.
 
 ## The Sardine Shortage Paradox
@@ -87,34 +87,3 @@ The only way forward is to relinquish human knowledge and action and allow natur
 its natural bounty.
 
 ## Parallels with Agricultural Destruction
-
-The fish farming crisis mirrors agricultural destruction in several ways.
-
-Chemical treatments create a dependency cycle: each application degrades water quality,
-leading to more disease requiring more treatment.
-
-Monoculture of single fish species reduces marine biodiversity and increases vulnerability
-to disease, just as crop monoculture increases pest vulnerability.
-
-In both cases, treating symptoms while ignoring systemic causes leads to escalating problems.
-
-## Research That Worsens the Problem
-
-Research on breeding technology for commercially valuable species would not increase total
-sea productivity.
-
-It would only concentrate production in fewer species while degrading the broader ecosystem.
-
-Such research is actively harmful because it creates the impression that technological
-solutions exist for fundamentally philosophical and ecological problems.
-
-The way to enrich man's diet is not through mass growing or gathering but through
-relinquishing human knowledge and action, allowing nature to restore its natural bounty.
-
-There is no other way forward for the relationship between humanity and the sea.
-
-## See Also
-
-- [[fukuoka-critique-modern-livestock]]
-- [[fukuoka-mutual-cancellation-agricultural-interventions]]
-- [[holzer-aquaculture-fish-farming]]

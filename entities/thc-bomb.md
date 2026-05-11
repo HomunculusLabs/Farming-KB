@@ -23,7 +23,7 @@ created: 2026-04-28
 ## Overview
 
 THC Bomb is an indica-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by Bomb
-Seeds, a Dutch seed company. Released in the early 2010s, it combines
+Seeds, a Dutch [[seed-company-supplier-reference]]. Released in the early 2010s, it combines
 a potent indica parent with a selected sativa to achieve exceptionally
 high THC production while maintaining manageable growth characteristics.
 
@@ -39,10 +39,10 @@ time and high yields make it a favorite across all experience levels.
 
 The exact parent strains remain proprietary to Bomb Seeds. The lineage
 combines a heavy indica with a high-THC sativa component, yielding an
-approximately 60% indica / 40% sativa genetic ratio.
+approximately 60% indica / 40% [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] ratio.
 
-The indica parent contributes dense bud structure, sedative body
-effects, and environmental stress resistance. The sativa parent
+The indica parent contributes dense [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]], sedative body
+effects, and environmental [[fungal-melanin-environmental-protection-stress-resistance-gadd]]. The sativa parent
 provides elevated THC production, mental clarity, and terpene
 complexity.
 
@@ -86,52 +86,5 @@ inflammatory benefits through CB2 receptor activation. Limonene
 contributes citrus brightness and mood elevation.
 
 Supporting terpenes include pinene, humulene, and linalool. The
-combined terpene profile synergizes with high THC for a full-spectrum
+combined [[cannabis-terpene-profile]] synergizes with high THC for a full-spectrum
 effect.
-
-THC content consistently measures 20–25%, with occasional phenotypes
-reaching 26%+. CBD is very low (below 0.1%). Minor cannabinoids CBC,
-CBG, and THCV may be present in trace amounts.
-
-## Effects
-
-Onset is rapid, typically within minutes. The initial cerebral wave
-brings euphoria, elevated mood, and mild sensory enhancement. Creative
-thinking and sociability may briefly increase.
-
-As the high progresses, indica influence dominates. Deep body
-relaxation spreads from neck and shoulders downward, producing a
-"bomb-like" physical heaviness that can lock users to the couch at
-higher doses.
-
-Common therapeutic applications include [[cannabis-chronic-pain-management]], insomnia, muscle
-tension, appetite stimulation, and stress relief. Duration averages
-2–3 hours, with body effects persisting longer than the cerebral
-phase.
-
-## Cultivation
-
-THC Bomb is beginner-friendly with resilient genetics and forgiving
-growth. It performs well indoors and outdoors, with [[cannabis-sativa-indoor-cultivation-techniques]]
-offering greater control over potency and yield.
-
-Flowering time is 7–8 weeks indoors. Plants reach moderate height
-(80–120 cm) and respond well to SOG and ScrOG training. Expected
-yields: 400–500 g/m² indoors, 500–700 g per plant outdoors.
-
-The strain resists most common molds and pests, suiting humid
-environments. It tolerates moderate nutrients but is sensitive to
-over-fertilization during early flowering.
-
-## See Also
-
-- [[cannabis-flowering-stage-management]]
-
-- [[og-kush-cannabis-entity|OG Kush]]
-- [[girl-scout-cookies]](girl-scout-cookies.md)
-- [[chemdawg|Chemdawg]]
-- Blue Dream
-- [[wedding-cake|Wedding Cake]]
-- [[granddaddy-purple]]](granddaddy-purple.md)
-- Gelato
-- [[blesching-cannabis-als]]

@@ -88,13 +88,3 @@ The relationship alpha/gamma provides an estimate of [[alpha-beta-diversity-cann
 5. Clearly define which measure of richness (numerical, density, or total) is being used
 6. Conduct long-term sampling (minimum 5 years, preferably 10+) for macrofungal inventories
 7. Use jackknifing to generate confidence intervals around diversity estimates
-8. Consider spatial scale explicitly when comparing diversity across sites or treatments
-
-## Key References
-
-- Colwell, R.K. and J.A. Coddington. 1994. Estimating terrestrial biodiversity through extrapolation.
-- He, F. and P. Legendre. 1996. On species-area relations.
-- Ludwig, J.A. and J.F. Reynolds. 1988. Statistical Ecology.
-- Magurran, A.E. 1988. Ecological Diversity and its Measurement.
-- Mueller, G.M. and G.F. Bills (eds.). 2004. Biodiversity of Fungi.
-- Zak, J.C. and M.R. Willig. [[fungal-biodiversity-patterns]] (Chapter 5).

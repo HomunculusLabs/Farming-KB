@@ -88,15 +88,3 @@ rapidly with storage as the compound degrades to LSA.
 
 Subjective effects are distinctly different from both LSD and LSA. Visuals are
 mild to moderate closed-eye imagery; open-eye visuals are less geometric and
-more organic, flowing, and color-shifting. The headspace is dreamy,
-introspective, and slightly dissociative — less analytical than LSD. Somatic
-effects include noticeable body heaviness, sedation, and physical relaxation;
-nausea is common during onset from whole seed preparations. Duration is 4–8
-hours (shorter than LSD's 8–12 hours but longer than isolated LSA at 4–6
-hours). Estimated dose range is 200–500 μg for threshold to moderate effects
-from isolated LSH.
-
-Users frequently compare LSH's effects to a hybrid between LSD and [[lysergic-acid]]
-
-- gordon-wasson
-- [[claviceps-purpurea]]

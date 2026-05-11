@@ -34,7 +34,7 @@ In Britain, the autumn crocus is a designated indicator species of ancient, unim
 
 *C. autumnale* produces large, pinkish-lilac to violet, crocus-like flowers in September and October, emerging from bare ground without any accompanying foliage. Each flower measures 10–15 cm in length with six tepals fused into a long tube.
 
-The flowers are followed by strap-shaped leaves appearing the following spring, a phenological pattern termed hysteranthous (flowers preceding leaves). Leaves reach 20–40 cm in length and 2–4 cm in width, forming a basal rosette through the growing season.
+The flowers are followed by strap-shaped leaves appearing the following spring, a phenological pattern termed hysteranthous (flowers preceding leaves). Leaves reach 20–40 cm in length and 2–4 cm in width, forming a basal rosette through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The fruit is a three-valved capsule containing numerous small, dark brown, spherical seeds approximately 2–3 mm in diameter. Each seed can remain viable in soil for several years, facilitating gradual colony expansion.
 
@@ -66,57 +66,24 @@ Colchicine's primary modern clinical indication is acute gout flares, where it r
 
 The COLCOT trial demonstrated a 31% reduction in cardiovascular events among post-myocardial infarction patients receiving low-dose colchicine (0.5 mg/day). The LoDoCo2 trial confirmed a 31% relative risk reduction in major adverse cardiovascular events in patients with chronic coronary disease.
 
-These landmark results prompted the FDA (2023) to approve colchicine for cardiovascular risk reduction in certain patient populations, expanding its therapeutic scope beyond gout and FMF. The drug's low cost and oral bioavailability make it an attractive option for large-scale secondary prevention.
+These landmark results prompted the FDA (2023) to approve colchicine for cardiovascular risk reduction in certain patient populations, expanding its therapeutic scope beyond gout and FMF. The drug's low cost [[first-pass-metabolism-and-oral-bioavailability]] make it an attractive option for large-scale secondary prevention.
 
 Common [[blesching-cannabis-safety-adverse-effects-evidence]] at therapeutic doses include diarrhea (the dose-limiting toxicity), abdominal pain, nausea, and vomiting. Hepatotoxicity, myopathy, and peripheral neuropathy are rare but documented side effects, particularly in patients with renal or hepatic impairment.
 
 Historically, colchicine was prescribed for familial Mediterranean fever (FMF), a hereditary autoinflammatory disorder caused by mutations in the *MEFV* gene. It remains the standard prophylactic treatment for FMF, preventing amyloidosis and reducing attack frequency by over 75%.
 
-In dermatology, topical and systemic colchicine has been used for psoriasis, Behçet's disease, and neutrophilic dermatoses. Its anti-inflammatory mechanism — disrupting neutrophil adhesion, chemotaxis, and lysosomal degranulation — underlies efficacy across multiple inflammatory conditions.
+In dermatology, topical and systemic colchicine has been used for psoriasis, Behçet's disease, and neutrophilic dermatoses. Its anti-inflammatory mechanism — disrupting neutrophil adhesion, chemotaxis, and lysosomal degranulation — underlies efficacy across multiple [[cannabis-for-inflammatory-conditions]].
 
 ## Taxonomy and Systematics
 
-*C. autumnale* was reclassified from Liliaceae to Colchicaceae following molecular phylogenetic studies in the 1990s. The family Colchicaceae now includes approximately 15 genera and 285 species distributed across temperate and tropical regions worldwide.
+*C. autumnale* was reclassified from Liliaceae to Colchicaceae following molecular phylogenetic studies in the 1990s. The family Colchicaceae now includes approximately 15 genera and 285 species distributed across temperate and [[fukuoka-natural-farming-in-tropical-regions]] worldwide.
 
 The genus *Colchicum* comprises approximately 100 species centered in the Mediterranean, western Asia, and the Himalayas. Molecular systematics has revealed that the genus is polyphyletic, with several species groups more closely related to other Colchicaceae genera than to each other.
 
-The superficial resemblance between *Colchicum* flowers and autumn-flowering crocuses (*Crocus sativus*, *C. speciosus*) is a classic example of convergent evolution driven by similar pollination ecology. Both genera are pollinated by late-season bees and other insects foraging before winter dormancy.
+The superficial resemblance between *Colchicum* flowers and autumn-flowering crocuses (*[[crocus-sativus]]*, *C. speciosus*) is a classic example of convergent evolution driven by similar pollination ecology. Both genera are pollinated by late-season bees and other insects foraging before winter dormancy.
 
-Key morphological differences distinguish the two genera: *Colchicum* has six anthers (vs. three in *Crocus*), superior ovaries (vs. inferior in *Crocus*), and corms with a plaited tunic structure. The phenological similarity — autumn flowering from bare corms — masks fundamental differences in reproductive biology and phylogenetic placement.
+Key morphological differences distinguish the two genera: *Colchicum* has six anthers (vs. three in *Crocus*), superior ovaries (vs. inferior in *Crocus*), and corms with a plaited tunic structure. The phenological similarity — autumn flowering from bare corms — masks fundamental differences in [[clarke-marijuana-botany-sex-determination-reproductive-biology]] and phylogenetic placement.
 
 ## Ecology and Distribution
 
 *C. autumnale* is native to meadows, damp woodland clearings, and river floodplains across much of Europe, from the British Isles eastward to the Ukraine and southward to the Mediterranean. It has become naturalized in parts of Scandinavia and [[polypore-fungi-eastern-north-america]] America.
-
-The species is characteristic of traditionally managed hay meadows and species-rich grasslands, where periodic mowing prevents competitive exclusion by taller vegetation. Agricultural intensification and conversion of hay meadows to silage production have caused significant population declines across its range.
-
-All parts of the plant are toxic to grazing livestock, particularly cattle and horses. Cases of colchicine poisoning in livestock occur most frequently in spring when fresh leaves emerge among pasture grasses. The dried plant retains toxicity in hay.
-
-Mycorrhizal associations with [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi are thought to enhance nutrient uptake and may influence alkaloid biosynthesis. Seed dispersal is primarily by ants (myrmecochory), attracted by lipid-rich elaiosomes attached to the seed surface. This ant-mediated dispersal contributes to the species' slow but steady colonization of suitable habitats.
-
-## Cultural and Historical Significance
-
-The genus name *Colchicum* derives from Colchis, an ancient region on the Black Sea coast of Georgia associated with the mythological sorceress Medea. The connection reflects the plant's reputation for both healing and harm — a duality central to its [[shroom-cultural-history-hippie-revolution-and-counterculture]].
-
-The ancient Greek physician Dioscorides described *C. autumnale* (then called *Ephemeron*) in *De Materia Medica* (c. 70 CE), noting its toxicity and recommending external application for joint pain. This prescription prefigured modern understanding of colchicine's anti-gout mechanism by nearly two millennia.
-
-The Persian physician Avicenna also documented the plant's use for joint ailments in *The Canon of Medicine*. However, internal use was cautioned due to its extreme toxicity — a warning that proved prescient given the narrow therapeutic index of colchicine in modern clinical practice.
-
-In European folklore, autumn crocus was considered both a protective charm and an omen of death. Its emergence from bare ground in autumn, without preceding foliage, contributed to associations with the supernatural and the boundary between the living and the dead.
-
-In some Alpine and Slavic traditions, the flowers were placed at windowsills to ward off malevolent spirits during the transition between autumn and winter. The dichotomy between its medicinal value and lethal toxicity made it a potent symbol in medieval bestiaries and herbal compendia.
-
-## See Also
-
-- [[helenium-autumnale]]
-
-- [[atropa-belladonna]]
-- [[colchicine]]
-- [[convallaria-majalis]]
-- [[crocus-sativus]]
-- [[digitalis-purpurea]]
-- [[galanthus-nivalis]]
-- [[morphine]]
-- [[nerium-oleander]]
-- [[narcissus-pseudonarcissus]]
-- [[vincamine]]

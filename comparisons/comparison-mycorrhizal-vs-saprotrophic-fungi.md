@@ -100,7 +100,7 @@ that break down lignin and build humus. When establishing new gardens on
 compacted or low-organic-matter soil, encouraging saprotrophic decomposition
 through compost and woody inputs is the fastest path to building soil structure.
 Mushroom growers cultivating shiitake, oyster, or wine cap mushrooms are
-directly managing saprotrophic species. See [[soil-food-web]] for a holistic view of how these
+directly managing saprotrophic species. See [[soil-foodweb]] for a holistic view of how these
 ## See Also
 
 - [[gadd-stable-isotopes-saprotrophic-fungi]]

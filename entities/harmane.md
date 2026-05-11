@@ -88,9 +88,3 @@ distortions at upper range.
 **Duration:** 4–8 hours. **Safety:** Narrow [[cannabis-therapeutic-index-overview]]. Above
 100 mg: severe nausea, hypertensive crisis risk (tyramine + MAOI),
 neurotoxic potential. Not used recreationally as standalone drug.
-
-## Natural Occurrence
-
-**Plant sources:** *Banisteriopsis caapi* (primary, 0.1–1.5% in
-dried bark), *[[passiflora-incarnata]] nata* (trace [[ayahuasca-pharmacology]]
-- [[dmt]]

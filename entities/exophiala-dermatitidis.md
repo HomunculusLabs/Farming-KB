@@ -88,38 +88,3 @@ Beyond its clinical significance, E. dermatitidis is found in natural environmen
 Its environmental reservoirs include thermal waters and soil.
 
 The species demonstrates the broader principle that many opportunistic fungal pathogens have environmental [[bloomfield-rust-fungi-life-cycles-barberry-wheat]] independent of their human hosts.
-
-The ability to survive in diverse environments contributes to its wide geographic distribution.
-
-## Phaeohyphomycosis
-
-Phaeohyphomycosis refers to infections caused by dematiaceous (darkly pigmented) fungi.
-
-The term was coined to describe tissue invasion by melanized fungal elements that can take various morphological forms.
-
-E. dermatitidis is one of the most frequently isolated agents of cerebral phaeohyphomycosis.
-
-The prognosis of phaeohyphomycosis varies depending on the immune status of the patient and the site of infection.
-
-## Treatment and Management
-
-Treatment of E. dermatitidis infections typically involves antifungal therapy with agents such as itraconazole, voriconazole, or amphotericin B.
-
-Surgical intervention may be necessary for localized infections.
-
-The melanized cell wall can reduce the efficacy of some antifungal drugs.
-
-Treatment outcomes are often poor in immunocompromised patients with disseminated disease.
-
-## Research Directions
-
-Current research on E. dermatitidis focuses on understanding the molecular mechanisms of [[fungal-melanin-biosynthesis-ecological-functions]].
-
-The identification of melanin pathway genes could reveal new antifungal drug targets.
-
-Comparative genomics between E. dermatitidis and related black yeasts is providing insights into the evolution of pathogenicity.
-
-## See Also
-
-- [[aspergillus-fumigatus]] for comparative cell wall and melanin biology
-- [[candida-albicans]] for a non-melanized opportunistic pathogen for comparison

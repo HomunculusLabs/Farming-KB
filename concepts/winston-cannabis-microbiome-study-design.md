@@ -1,8 +1,8 @@
 ---
-title: "Winston Cannabis Microbiome Study Design"
+title: Winston Cannabis Microbiome Study Design
 slug: "winston-cannabis-microbiome-study-design"
 tags: [microbiome, cannabis, research-methodology, 16s-rrna, experimental-design]
-source: [[understanding-cultivar-specificity-cannabis-microbiome]]
+source: understanding [[cannabis-microbiome-cultivar-specificity]] cannabis microbiome
 created: 2026-05-10
 ---
 
@@ -14,7 +14,7 @@ The landmark 2014 study by Winston et al. published in *PLOS ONE* (doi:10.1371/j
 
 ## Two-Experiment Structure
 
-The study employed a deliberately two-part experimental design to address complementary questions about Cannabis-associated microbial communities.
+The study employed a deliberately two-part [[cannabis-microbiome-experimental-design]] to address complementary questions about Cannabis-associated [[cannabis-rhizosphere-microbial-communities]].
 
 ### Experiment 1: Community Variation Across Strains
 
@@ -49,7 +49,7 @@ The study employed a deliberately two-part experimental design to address comple
 
 - Triplicate biological replicates per sample type per plant
 - Pseudoreplicates in Experiment 2 (different roots on same plant) to assess within-plant variation
-- White Widow grown in two different soils provided a natural experiment for testing the two-tier selection model
+- White Widow grown in two different soils provided a natural experiment for testing the two-tier [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - Cross-soil OTU sharing analysis between endorhiza and bulk soil
 
 ### Sequencing Depth
@@ -79,7 +79,7 @@ All soils were classified as sandy loam. The dramatic difference in organic carb
 
 ### Diversity Metrics
 - **Alpha diversity:** Observed species and Chao1 index
-- **Beta diversity:** Weighted and unweighted UniFrac distances
+- **Beta diversity:** Weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances
 - **Ordination:** PCoA, RDA (redundancy analysis)
 
 ### Statistical Tests
@@ -87,55 +87,4 @@ All soils were classified as sandy loam. The dramatic difference in organic carb
 - ANOSIM for cluster comparisons
 - Mantel tests for correlation with edaphic/cannabinoid data
 - ANOVA (weighted) and G-test (unweighted) for individual OTU analysis
-- BEST analysis for ranking edaphic factor importance
-- Bonferroni correction for multiple comparisons
-
-### Bioinformatics Pipeline
-- QIIME 1.7.0 for all sequence analysis
-- Greengenes database pre-clustered at 97% identity
-- Both closed and open reference OTU-picking in Experiment 2
-- PyNAST alignment, FastTree phylogenetic tree construction
-- RDP classifier retrained on Greengenes for taxonomy assignment
-
-## Key Findings Enabled by the Design
-
-1. **Soil type** was the strongest determinant of community composition (657 significant OTUs)
-2. **Strain** primarily affected OTU abundance, not presence/absence (71 weighted, 0 unweighted)
-3. **Endorhiza** showed significant cultivar-specificity in both experiments
-4. **Post-harvest sampling** (Experiment 1) introduced Cellvibrio decay signal but cultivar-specificity persisted
-5. **Pre-harvest sampling** (Experiment 2) revealed rhizosphere cultivar effects absent in senesced roots
-6. The two-experiment design validated the two-tier selection model through convergent evidence
-
-## Limitations and Design Trade-offs
-
-- Post-harvest timing in Experiment 1 confounded decay processes with endorhiza community signals
-- Pseudoreplication in Experiment 2 (same-plant replicates) could inflate within-plant similarity
-- Limited cannabinoid data (only 4 plants) made THC-microbiome correlation difficult to disentangle from soil effects
-- Only 5 cultivars total across both experiments limits generalizability
-- Fungal communities were not characterized, despite known importance of mycorrhizal associations in Cannabis
-
-## Significance
-
-This study established the foundational methodology and baseline understanding for Cannabis microbiome research. Its two-experiment design, despite limitations, provided the first evidence that Cannabis cultivars maintain distinct endorhiza microbial communities — a finding with direct implications for agricultural practice, plant fitness optimization, and metabolite production enhancement.
-
-## Future Directions Identified by Authors
-
-The authors specifically recommended several follow-up studies based on gaps in their experimental design:
-
-1. **Time-series sampling** across the Cannabis reproductive cycle to understand natural temporal variation in endorhiza communities
-2. **Expanded cannabinoid profiling** with decoupling from edaphic variables through controlled soil experiments
-3. **Mechanistic studies** using identified endophytes to test plant fitness, disease suppression, and metabolite augmentation
-4. **Rhizosphere cultivar effects** in actively growing plants (the Experiment 1 post-harvest design missed this signal)
-5. **Host genotype characterization** to identify which genetic features drive the observed community structure
-
-## References
-
-- Winston ME, Hampton-Marcell J, Zarraonaindia I, et al. (2014) Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome. *PLOS ONE* 9(6): e99641.
-- Raw sequence data: Figshare doi:10.6084/m9.figshare.928634
-
-## See Also
-
-- [[cannabis-microbiome-two-tier-selection]] — the selection model this study validated
-- [[cannabis-microbiome-cultivar-specificity]] — cultivar-specific community differences
-- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]] — soil chemistry effects
-- [[power-soil-dna-isolation-16s-microbiome]] — DNA extraction methodology
+- BEST analysis for ranking [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]] importance

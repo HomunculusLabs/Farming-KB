@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,35 +88,3 @@ earthquake risks:
 - **Infrastructure redundancy:** Distribute water storage, food
   storage, and energy systems across multiple locations so that no
   single event destroys all resources
-- **Open spaces:** Maintain open areas for emergency gathering,
-  temporary shelter, and helicopter access
-
-## Drought Design
-
-Drought resilience is fundamental to permaculture design:
-
-- **Water storage:** Multiple systems -- [[keyline-design]], and soil moisture conservation
-- **Drought-tolerant species:** Select plants adapted to low rainfall.
-  Mollison's species lists include many drought-adapted perennials,
-  nitrogen-fixers, and food-producing trees
-- **Soil development:** Build deep, organic-rich soils with high water
-  holding capacity through [[soil-building-permaculture]]
-- **[[mollison-designers-microclimate-creation-frost-protection]]:** Shade, windbreaks, and mulch reduce
-  evapotranspiration. [[food-forest-design]]
-  systems and community gardens build food security
-- **Skill sharing:** Community workshops in first aid, construction,
-  water purification, and food preservation
-- **Communication networks:** Systems that function without grid power
-  or telecommunications infrastructure
-- **Resource mapping:** Catalog community resources -- water sources,
-  tools, generators, medical supplies -- accessible during emergencies
-- **Mutual aid:** Cooperative response aligns with permaculture's ethic
-  of fair share
-
-## Designing for Multiple Hazards
-
-Mollison emphasizes that effective disaster resilience addresses
-multiple hazards simultaneously. A swale system designed for flood
-control also improves drought resilience through groundwater recharge.
-Fire-resistant vegetation provides windbreak protection. Earth-sheltered
-buildings resist fire, wind, and earthquake damage while improving

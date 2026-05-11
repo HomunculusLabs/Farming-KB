@@ -88,34 +88,3 @@ These results have been replicated in modern trials by researchers at Johns Hopk
 The proposed mechanism of psycholytic therapy involves several factors:
 
 1. **Reduction of psychological defenses:** The psychedelic experience reduces the ego's ability to maintain defense mechanisms, allowing unconscious material to emerge into consciousness
-2. **Enhanced emotional access:** Patients can access and process emotions that are normally suppressed or inaccessible
-3. **New perspectives:** The altered state provides novel perspectives on longstanding problems
-4. **Therapeutic alliance:** The intensity of the psychedelic experience creates a powerful therapeutic bond between patient and therapist
-5. **Memory access:** The psychedelic state can facilitate access to repressed or forgotten memories
-6. **Catharsis:** The experience can produce powerful emotional release (abreaction)
-
-### The Role of the Therapist
-
-In psycholytic therapy, the therapist's role is crucial:
-
-- Providing safety and containment during the psychedelic experience
-- Helping the patient interpret and integrate the experience
-- Maintaining the therapeutic frame during potentially chaotic states
-- Protecting the patient from harmful interpretations of the experience
-- Guiding the patient toward therapeutic insight rather than mere recreation
-
-## The Shutdown
-
-### Timeline of Prohibition
-
-The shutdown of European psycholytic therapy research followed a familiar pattern:
-
-1. **1966-1967:** LSD and psilocybin placed under legal restrictions in most European countries
-2. **1968-1970:** Research permits became increasingly difficult to obtain
-3. **1971:** UN Convention on Psychotropic Substances established international framework for prohibition
-4. **1970s:** Most European research programs shut down; remaining programs operated in legal gray areas
-5. **1980s:** Only Switzerland continued any form of legal hallucinogen-assisted therapy
-
-### The Cost of Shutdown
-
-The prohibition of psycholytic therapy research represented an enormous loss:

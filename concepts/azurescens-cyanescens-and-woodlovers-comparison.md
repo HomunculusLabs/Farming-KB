@@ -87,29 +87,3 @@ The two source documents describe overlapping but distinct approaches to outdoor
 | Bed chip size | Fresh cut hardwood | Large beech bedding |
 
 The azurescens guide's higher spawn ratio likely reflects the species' slower colonization compared to more aggressive woodlovers. The cardboard layer in the azurescens method provides both moisture retention and an additional colonizable medium.
-
-## Morphological Distinction
-
-P. azurescens is distinguished from its close relatives primarily by:
-- **Greater size**: Caps to 100 mm, stems to 200 mm — significantly larger than P. cyanescens
-- **Spore size**: 13-13.5 x 6.5-8.0 microns
-- **Cystidia**: Fusoid-ventricose; cheilocystidia 23-28 x 6.5-8.0 microns; pleurocystidia 23-35 x 9-10 microns
-- **Cap**: Ochraceous-brown, hygrophanous, viscid with separable pellicle, conic becoming convex to plane, umbonate
-- **Stem**: White, strict and elongated, with bluish strigose fibers at base
-- **Flesh**: Bluing on bruising
-
-## Shared Cultivation Principles
-
-Despite differences, both methods agree on core principles:
-- Wood chip spawn is strongly preferred over direct grain inoculation
-- Half-shaded outdoor locations are essential
-- Cool autumn temperatures trigger fruiting
-- Beds can produce for years with minimal maintenance
-- Fresh chips added annually sustain long-term productivity
-- Contaminated spawn discarded outdoors can still produce mushrooms
-
-## See Also
-
-- [[psychedelic-mushroom-set-and-setting]] — P. cyanescens profile
-- [[outdoor-woodlover-mushroom-cultivation]] — combined cultivation overview
-- [[azurescens-outdoor-bed-preparation-woodchips]] — azurescens bed prep

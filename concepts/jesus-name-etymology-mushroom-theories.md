@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/allegro-j-the-sacred-mushroomcross.md]
 ---
 # Jesus Name Etymology and Mushroom Theories
 The etymology of the name "Jesus" became a central element of John
-Allegro's The Sacred Mushroom and the Cross (1970). Allegro's claim
+Allegro's [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross (1970). Allegro's claim
 that the name concealed a mushroom reference formed one of the most
 provocative and widely cited elements of his theory.
 ## Conventional Etymology
@@ -41,11 +41,11 @@ Allegro's reading, coded descriptions of the mushroom's therapeutic
 effects.
 ## The Name as Invocation
 Allegro also explored the use of the name "Jesus" as an invocation for
-healing. He noted that Peter pronounces "the name of Jesus Christ of
+healing. He noted that Peter pronounces "the name of [[oner-jesus-christ-and-jack-47]] of
 Nazareth" over the lame man (Acts 3:6), and that the "seven sons of
 Sceva" attempt to use the same formula (Acts 19:13-14). These
 invocations, Allegro argued, paralleled the practices of the Magi, the
-"great drug-pedlars of the ancient world," who called upon the names
+"great drug-pedlars of [[allegro-plants-and-drugs-in-the-ancient-world]]," who called upon the names
 of powerful substances to invoke their healing properties. The name
 "Jesus" was not the name of a person but the potent invocation of the
 mushroom's healing power.
@@ -67,7 +67,7 @@ plausible Sumerian compound, this would not establish a connection to
 the Hebrew name Yehoshua. Phonological similarity across unrelated
 languages is common and does not indicate derivation.
 **Cultural implausibility:** Allegro's claim requires us to believe
-that early Christians were secretly encoding a Sumerian mushroom
+that early Christians were secretly encoding a [[sumerian-mushroom-nomenclature]]
 reference, demanding an extraordinarily elaborate conspiracy sustained
 over many decades by multiple authors across the Mediterranean world.
 ## The "Christ-Crucified" Reading
@@ -83,27 +83,8 @@ Despite its scholarly failure, Allegro's etymology remains one of the
 most frequently cited elements of mushroom conspiracy theories. It has
 the appeal of apparent specificity: Allegro appears to provide a
 precise linguistic derivation, which seems more convincing than vague
-claims about "mushroom symbolism." The theory has been adopted by
+claims about "[[allegro-cross-and-mushroom-symbolism]]." The theory has been adopted by
 numerous subsequent authors, typically without acknowledging the
 thorough scholarly rejection it has received.
 ## Sumerian Mushroom Mythology Context
 The Sumerian cuneiform clay tablets, dating to at least 4000 BCE,
-contain the oldest known versions of the Adam and Eve,
-[[allegro-garden-of-eden-and-delight]], and
-[[tree-of-knowledge-and-forbidden-fruit-theory]] narratives. James
-Arthur and other researchers in ethnomycology have proposed that these
-tablets reveal a radical inversion of the original story, one in which
-the "forbidden fruit" was a consciousness-expanding entheogenic
-substance, most likely the
-[[allegro-amanita-muscaria-properties-and-pharmacology]] mushroom.
-This theory builds upon the [[allegro-soma-mushroom-thesis]] regarding
-mushroom symbolism in
-[[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern
-religions. The Biblical word translated as "serpent" is "nahash"
-(NHSH), which literally means "to decipher" or "to find out." See
-[[allegro-philological-methodology]] and the
-[[dead-sea-scrolls-entheogenic-reading]].
-## See Also
-- [[sacred-mushroom-and-the-cross]]
-- [[sumerian-mushroom-nomenclature]]
-- [[allegro-new-testament-names-as-mushroom-cryptograms]]

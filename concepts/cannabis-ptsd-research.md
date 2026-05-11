@@ -1,5 +1,5 @@
 ---
-title: Cannabis and PTSD Research
+title: Cannabis Ptsd Research
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -42,9 +42,9 @@ PTSD develops after undergoing or witnessing significant trauma. Patients re-exp
 ### Evidence Summary
 | Substance | Study Type | Key Finding | CHI |
 |-----------|-----------|-------------|-----|
-| Nabilone (synthetic cannabinoid) | 47 PTSD patients (2009, Canada) | Significant reduction in nightmares and sleep disturbance; improved daytime functioning | 5 |
+| Nabilone ([[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]) | 47 PTSD patients (2009, Canada) | Significant reduction in nightmares and sleep disturbance; improved daytime functioning | 5 |
 | Cannabis (various preparations) | Multiple patient surveys and case reports | Consistent patient reports of reduced nightmares, improved sleep, decreased anxiety | 3 |
-| **Total CHI Value** | | | **8** |
+| **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]** | | | **8** |
 
 ### Key Research Findings
 
@@ -56,7 +56,7 @@ PTSD develops after undergoing or witnessing significant trauma. Patients re-exp
 
 4. **Memory processing:** The endocannabinoid system plays a role in memory extinction (the process by which traumatic memories lose their emotional charge). THC and CBD may facilitate the extinction of fear memories, potentially helping patients process traumatic experiences more effectively
 
-5. **Emotional regulation:** Patients report that cannabis helps them manage emotional "triggers" and reduces the intensity of emotional responses to reminders of trauma
+5. **[[anandamide-emotional-regulation-blesching]]:** Patients report that cannabis helps them manage emotional "triggers" and reduces the intensity of emotional responses to reminders of trauma
 
 ### The Endocannabinoid System and Trauma
 
@@ -71,7 +71,7 @@ PTSD involves multiple symptom clusters, and different strains may help with dif
 
 - **For nightmares and sleep:** Indica-dominant strains with sedating effects (high myrcene); use before bed
 - **For daytime anxiety:** Lower-THC strains or CBD-dominant preparations; functional without intoxication
-- **For emotional processing:** Balanced THC:CBD ratios; CBD modulates THC's psychoactive effects
+- **For [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]]:** Balanced THC:CBD ratios; CBD modulates THC's psychoactive effects
 - **Avoid:** High-THC sativas may increase anxiety and paranoia in some PTSD patients
 
 ### Dosing Considerations
@@ -87,25 +87,3 @@ Cannabis is not a replacement for trauma-focused therapy but may serve as an adj
 - Improved sleep may enhance cognitive function and emotional resilience
 - Some patients report that cannabis helps them process traumatic memories during therapy sessions
 - Caution: Some therapists believe cannabis may interfere with exposure therapy (if it reduces emotional engagement with traumatic memories during treatment)
-
-## Mind-Body Medicine
-
-The mind-body connection is central to PTSD:
-- Trauma is stored in the body (somatic memory); body-based therapies (yoga, somatic experiencing, EMDR) are effective
-- The autonomic nervous system is dysregulated in PTSD (chronic sympathetic activation/fight-or-flight)
-- Breath work, meditation, and mindfulness practices help regulate the nervous system
-- Physical exercise reduces PTSD symptoms (particularly hyperarousal and depression)
-- Social connection and community support are protective factors
-
-Cannabis may support mind-body healing by reducing physiological hyperarousal, improving sleep, and creating a sense of safety that allows for deeper therapeutic work.
-
-## See Also
-
-- [[cannabis-for-anxiety-disorders]]
-- [[cannabis-for-depression]]
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-health-index]]
-
-## Source
-
-Uwe Blesching, *The [[blesching-cannabis-health-index-autoimmune-conditions]]*, PTSD section

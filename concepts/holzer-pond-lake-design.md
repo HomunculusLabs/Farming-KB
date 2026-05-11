@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -87,25 +88,3 @@ pole-built structures keep waterfowl safe from predators.
 ## Dam Construction and Waterproofing
 
 In hilly country, dams are built by excavating deep zones near the [[mollison-designers-small-dam-site-selection-design]]
-and using the material for the dam itself. Making a pond watertight can be
-achieved through several methods depending on the soil. The Holzer Monk (a
-pivoting overflow drainage system) and pipe-in-pipe systems provide
-management of water levels.
-
-## Vegetation and Surrounding Terraces
-
-Existing vegetation in the pond area should be left in place. It decomposes
-and becomes compost for new water plants. The bank zones are highly productive
-areas that can be used to grow vegetables and fruit. Terracing the banks
-prevents soil washing into the lake, improves growing conditions, and keeps
-the water clear. Proximity to water facilitates symbiotic effects: increased
-morning dew, light reflection from the water surface, and [[cho-natural-pest-control-methods]]
-regulation by ducks.
-
-## See Also
-
-- [[contour-line-water-management]] for placement principles
-- mollison-animal-range-management for related animal management concepts
-- [[dam-construction]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[comparison-pond-design-vs-dam-construction]]

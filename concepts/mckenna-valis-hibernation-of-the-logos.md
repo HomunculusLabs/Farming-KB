@@ -23,8 +23,8 @@ sources:
 Terence McKenna drew on Philip K. Dick's novel Valis to develop a theory about the
 hibernation and reawakening of the Logos — a cosmic principle of pure information that
 was buried in human history and has been progressively reactivating through the
-translation of ancient texts and the use of psychedelic compounds. This concept bridges
-Gnostic theology, information theory, and the phenomenology of tryptamine experience.
+translation of ancient texts and the use of [[psychedelic-compounds-reference]]. This concept bridges
+Gnostic theology, information theory, and the phenomenology [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience]].
 
 ## Dick's Valis and the Nag Hammadi Burial
 
@@ -46,7 +46,7 @@ to serve as its substrate.
 ## Information as Living Entity
 
 Both Dick and McKenna conceived of the Logos as an information entity rather than a
-personified deity. McKenna explicitly stated that, "like the mushroom consciousness, Dick
+personified deity. McKenna explicitly stated that, "like the [[psilocybin-mushroom-consciousness]], Dick
 imagined it to be a thing of pure information." This framing draws on the then-emerging
 concept of memes and self-replicating information systems. The Logos is not a being in the
 anthropomorphic sense but a pattern, a self-sustaining informational complex that requires
@@ -74,55 +74,17 @@ The implication is that the Logos was never truly dormant but merely inaccessibl
 through ordinary channels of perception. The Nag Hammadi texts preserved the
 theoretical framework; the [[leary-psychedelic-experience-bardo-mapping]] provides the experiential access.
 Both are necessary. Information without experience is inert; experience without
-conceptual framework is unintelligible.
+[[holmgren-permaculture-flower-conceptual-framework]] is unintelligible.
 
 ## The Eschatological Shadow
 
 McKenna connected the reactivation of the Logos to his broader eschatological framework.
 "Something is at the end of time and is casting an enormous shadow over human history,
 drawing all human becoming toward it." The progressive rediscovery of the Logos — through
-the Nag Hammadi texts, through the Wasson rediscovery of the mushroom cults in the 1950s,
+the Nag Hammadi texts, through the [[wasson-rediscovery-of-psilocybin]] the mushroom cults in the 1950s,
 through the psychedelic movement of the 1960s — represents stages in an accelerating
 process of eschatological disclosure.
 
-History itself, in this reading, is "the shockwave of eschatology." The wars, migrations,
+History itself, in this reading, is "the [[mckenna-history-shockwave-of-eschatology]]." The wars, migrations,
 philosophies, and civilizations of human history occupy "a microsecond of geological,
 planetary, and galactic time" as humanity responds to the information being fed to it by
-the Logos symbiote. McKenna was careful to distinguish this from a simple "friendly alien"
-gift theory, framing it instead as the natural consequence of nervous systems evolving to
-higher levels of understanding: "As nervous systems evolve to higher and higher levels,
-they come more and more to understand the true situation in which they are embedded."
-
-## The Condensed Body of Eros
-
-McKenna extended the Valis framework with a mythological elaboration. The Spanish
-conquest, having destroyed indigenous mushroom cults and driven them into the mountains
-of Oaxaca, unexpectedly encountered "the [[mckenna-dmt-alienated-soul-body-of-osiris-eschatology]] — the condensed body of Eros —
-in the mountains of Mexico where Eros has retreated at the coming of the Christus." The
-discovery of the mushroom by Wasson "unleashed" this condensed body, reactivating an
-erotic and ecstatic principle that orthodox Christianity had suppressed.
-
-This mythological layer maps onto the historical layer: the suppression of Gnostic
-texts at Nag Hammadi and the suppression of mushroom cults in Mexico represent the same
-cultural force — what McKenna called the "Hellenistic-Christian-Judaic tradition" —
-attempting to bury the Logos. The twentieth-century rediscoveries represent its
-resurrection.
-
-## Symbiosis and Coevolution
-
-The concept of the Logos as symbiote implies a relationship of mutual benefit between
-the informational entity and its human hosts. The Logos provides access to
-transhuman dimensions of understanding; humans provide the neural substrate for its
-processing and propagation. This symbiotic model avoids the passive recipient framework
-of revelation theology while also avoiding the instrumentalist framework of SETI. The
-relationship is closer to what biologist Lynn Margulis would later describe as
-endosymbiosis — the incorporation of one organism into another with mutual
-transformation of both parties.
-
-## See Also
-
-- [[mckenna-philo-judaeus-logos-hearing-to-beholding]]
-
-- [[mckenna-tryptamines-logos-consciousness]]
-- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
-- [[mckenna-exteriorization-soul-translinguistic-matter]]

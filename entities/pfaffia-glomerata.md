@@ -23,7 +23,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Pfaffia glomerata** (commonly known as Brazilian ginseng, suma, or para toda — "for everything") is a perennial herbaceous plant in the family Amaranthaceae, native to tropical and subtropical regions of South America. The species is widely used in Brazilian folk medicine as an adaptogen, tonic, and anti-inflammatory agent.
+**Pfaffia glomerata** (commonly known as Brazilian ginseng, suma, or para toda — "for everything") is a perennial herbaceous plant in the family Amaranthaceae, native to tropical and subtropical regions of [[guzman-psilocybin-mushrooms-south-america]]. The species is widely used in Brazilian folk medicine as an adaptogen, tonic, and anti-inflammatory agent.
 
 Despite the common name "Brazilian ginseng," P. glomerata is not botanically related to true ginseng (Panax species). The comparison reflects its similar traditional use as a general restorative and its reported capacity to modulate the [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]], though the pharmacological mechanisms differ substantially.
 
@@ -52,19 +52,19 @@ Inflorescences are dense, terminal, glomerulate spikes 2–6 cm long, bearing sm
 
 P. glomerata is native to Brazil, Paraguay, Argentina, and Ecuador, occurring in the Amazon basin, Cerrado, and Atlantic Forest biomes. It grows in open areas, forest edges, disturbed sites, and along riverbanks at elevations up to 1,500 meters.
 
-The species is adaptable to a range of soil types but prefers well-drained, fertile soils with moderate moisture. It is considered a pioneer species in secondary succession and colonizes disturbed areas readily.
+The species is adaptable to a range of soil types but prefers well-drained, fertile soils with moderate moisture. It is considered a pioneer species in [[comparison-primary-vs-secondary-succession]] and colonizes disturbed areas readily.
 
 ## Bioactive Compounds
 
 The root contains a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. Pfaffic acid, a triterpenoid saponin, is considered the primary bioactive marker compound. Other triterpenoid saponins include pfaffosides A through F, with varying glycosylation patterns.
 
-Ecdysteroids are notably abundant, including 20-hydroxyecdysone (ecdysterone), which is one of the highest concentrations found in any plant species. These insect molting hormones have anabolic and adaptogenic properties in mammals at pharmacological doses.
+Ecdysteroids are notably abundant, including 20-hydroxyecdysone (ecdysterone), which is one of the highest concentrations found in any plant species. These insect molting hormones have anabolic [[ashwagandha-cultivation-uses-and-adaptogenic-properties]] in mammals at pharmacological doses.
 
 Additional compounds include allantoin (wound-healing promoter), stigmasterol, sitosterol, and various flavonoid glycosides. The [[permaculture-designers-manual-essential-oil-plants]] profile includes sesquiterpenes such as β-caryophyllene and germacrene D.
 
 ## Pharmacology
 
-In vitro and animal studies have demonstrated anti-inflammatory activity mediated through inhibition of NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). These effects support the traditional use for arthritis and inflammatory conditions.
+In vitro and animal studies have demonstrated anti-inflammatory activity mediated through inhibition of NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6). These effects support the traditional use for arthritis and [[cannabis-for-inflammatory-conditions]].
 
 Immunomodulatory effects include macrophage activation, enhanced phagocytosis, and increased antibody production in murine models. The ecdysteroid content is believed to contribute to these effects, though saponins also play a role.
 
@@ -78,37 +78,12 @@ In Brazilian folk medicine, the root decoction (suma tea) is used as a general t
 
 The plant is also used topically for wound healing, where the allantoin content promotes tissue regeneration. Traditional Amazonian healers recommend it as a postpartum tonic and for recovery from illness.
 
-In modern herbal medicine, P. glomerata is marketed as a dietary supplement for athletic performance, stress adaptation, and immune support. It is a component of several multi-herb adaptogenic formulations alongside ashwagandha, rhodiola, and eleuthero.
+In modern [[childrens-herbal-medicine]], P. glomerata is marketed as a dietary supplement for athletic performance, stress adaptation, and immune support. It is a component of several multi-herb adaptogenic formulations alongside ashwagandha, rhodiola, and eleuthero.
 
 ## Cultivation and Harvesting
 
 P. glomerata is cultivated commercially in Brazil and has been trialed in other tropical and subtropical regions. Propagation is primarily from seed, though stem cuttings and root divisions are also viable. Seeds require warm, moist conditions for germination and typically sprout within 14–21 days.
 
-Optimal growing conditions include full sun to partial shade, well-drained loamy soil, and regular irrigation. The plant is relatively pest-resistant but susceptible to root rot in waterlogged conditions. Spacing of 50–60 cm between plants is recommended.
+Optimal growing conditions include full sun to partial shade, well-drained loamy soil, and regular irrigation. The plant is relatively pest-resistant but susceptible to [[query-what-causes-root-rot-in-cannabis-and-how-to-prevent-it]] waterlogged conditions. Spacing of 50–60 cm between plants is recommended.
 
 Root harvest occurs 18–24 months after planting, when the tuberous roots have reached maximum size. Yields of fresh root range from 10–20 tonnes per hectare under cultivation. Roots are washed, sliced, and air-dried for commercial use, with drying reducing weight by approximately 70%.
-
-[[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols have been established for mass propagation, with somatic embryogenesis and organogenesis producing plantlets suitable for field transplantation. This is important for maintaining genetic consistency in commercial production.
-
-## Ecological Significance
-
-P. glomerata serves as a food source for various herbivorous insects in its native range. Its flowers attract pollinators, particularly small bees and flies. The extensive root system helps prevent soil erosion on disturbed sites and riverbanks.
-
-As a pioneer species, P. glomerata plays a role in secondary succession in the Cerrado and Atlantic Forest biomes. It helps establish soil structure and [[hamilton-composting-and-organic-matter-management]] content, facilitating the establishment of later-successional species.
-
-The species is not currently considered threatened, but wild populations in the Atlantic Forest are under pressure from habitat conversion. Sustainable cultivation programs have been encouraged to reduce pressure on wild harvests.
-
-## See Also
-
-- [[withania-somnifera]]
-- [[eleutherococcus-senticosus]]
-- [[turnera-diffusa]]
-- [[bacopa-monnieri]]
-- [[schisandra-chinensis]]
-- [[scutellaria-baicalensis]]
-- [[passiflora-incarnata]]
-- [[curcuma-longa]]
-- [[piper-nigrum-entity]]
-- [[urtica-dioica]]
-
-- [[dactylis-glomerata]]

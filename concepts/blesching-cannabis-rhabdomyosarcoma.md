@@ -12,9 +12,9 @@ type: concept
 # Cannabis and Rhabdomyosarcoma
 
 The [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI) provides an evidence-based rating system
-for evaluating the therapeutic potential of cannabis across various
+for evaluating the [[metzner-ayahuasca-therapeutic-potential]] of cannabis across various
 conditions. For rhabdomyosarcoma, the CHI scores 2 studies with a
-combined CHI value of 1, indicating very preliminary evidence.
+combined [[blesching-cannabis-prostate-cancer-chi-value-3]] of 1, indicating very preliminary evidence.
 
 ## Understanding Rhabdomyosarcoma
 
@@ -41,8 +41,8 @@ development of the cancer. To date, no studies have explored whether
 use of cannabis alone increases the risk of rhabdomyosarcoma.
 
 In fact, sixteen years later, Swiss researchers were able to kill
-rhabdomyosarcoma cells in a laboratory test using a synthetic cannabinoid.
-The scientists confirmed the test results in vivo by xenografting
+rhabdomyosarcoma cells in a laboratory test using a [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]].
+The scientists confirmed the [[interpreting-soil-test-results]] in vivo by xenografting
 rhabdomyosarcoma cancer cells treated with the cannabinoid, which led
 to a significant suppression of the tumor growth. The Swiss study
 provides a basis for considering cannabinoids as a new treatment
@@ -52,7 +52,7 @@ approach for rhabdomyosarcoma.
 
 | Drugs | Type of Study | Key Results | CHI |
 |-------|---------------|-------------|-----|
-| HU210 and THC | Laboratory and animal studies | 2009, University Children's Hospital, Zurich: HU210 and THC produced cancer cell death | 1 |
+| HU210 and THC | Laboratory and animal studies | 2009, University Children's Hospital, Zurich: HU210 and THC produced [[blesching-cannabis-apoptosis-and-cancer-cell-death]] | 1 |
 | Cocaine and marijuana | Case-controlled human trial | 1993, University of Pittsburgh: Survey of parents of 322 patients suggested parental use of cocaine and marijuana before conception may increase risk two to fivefold | 0 |
 
 Total CHI Value: 1
@@ -87,13 +87,3 @@ presence, and creating an environment of safety and trust that supports
 the child's innate capacity for healing.
 
 ## Supporting Spices and Foods
-
-- **Saffron**: Crocus sativus L. or saffron may possess anticancer
-  activity including against rhabdomyosarcoma
-
-## See Also
-
-- [[cannabis-and-bone-cancer]]
-- [[blesching-cannabis-leukemia-lymphoma]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
-- [[blesching-cannabis-neuroprotection]]

@@ -88,26 +88,3 @@ The cyclical structure — death from the honey, then resurrection — parallels
 cycles that dominated Minoan agricultural life. Just as the grain dies and is reborn each
 year, so too does the initiate die to ordinary consciousness and return transformed. The
 bee, which produces honey through a natural alchemy of nectar collection and enzymatic
-transformation, becomes a symbol of this process: nature itself performs the sacred
-transformation if the human knows where to look.
-
-## Comparison with Other Minoan Death and Rebirth Narratives
-
-The Glaukos myth shares structural DNA with other Minoan and Greek narratives of death
-and renewal. The myth of Demeter and Persephone, though later Hellenized, preserves the
-Minoan pattern of descent into darkness and return. The Minoan frescoes at Knossos
-depicting the bull-leaping ritual may encode a similar pattern: the leaper momentarily
-dies in the bull's shadow and is reborn through successful traversal.
-
-McKenna's reading positions the Minoan religion as fundamentally different from the
-Olympian religion that replaced it. Where the Olympians emphasized power, hierarchy, and
-the subjugation of nature, the Minoans understood their gods as "a kind of psychic
-climate" — immanent, participatory, accessible through botanical means rather than
-requiring priestly intermediaries. The Glaukos myth, in this reading, is a fossil of
-that older, partnership-oriented worldview.
-
-## See Also
-
-- minoan-mushroom-cult-and-myth-of-glaukos
-
-- [[mckenna-food-gods-minoan-crete-mushroom-religion]]

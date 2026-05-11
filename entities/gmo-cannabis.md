@@ -12,10 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Leafly (2024). \"GMO Cannabis Strain Information.\" leafly.com/strains/gmo."
-  - "AllBud (2024). \"GMO Marijuana Strain.\" allbud.com/gmo-strain."
+  - "Leafly (2024). \"GMO biscotti-cannabis-strain Information.\" leafly.com/strains/gmo."
+  - "AllBud (2024). \"GMO [[marijuana-strain-guide-hybrid]].\" allbud.com/gmo-strain."
   - "Mamiko Seeds. \"GMO Strain Breeder Information.\" mamikoseeds.com."
-  - "Duncan, M. et al. (2021). \"Chemical profile of popular cannabis strains.\" Cannabis and Cannabinoid Research, 6(4), 371–382."
+  - "Duncan, M. et al. (2021). \"Chemical profile of popular [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]].\" Cannabis and Cannabinoid Research, 6(4), 371–382."
   - "WikiLeaf (2024). \"GMO Strain Review.\" wikileaf.com/strain/gmo."
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 ## Overview
 
-GMO, also known as "Garlic Cookies" or "GMO Cookies," is a highly potent indica-dominant hybrid cannabis strain created by crossing Girl Scout Cookies (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward terpene profile rather than genetic modification.
+GMO, also known as "Garlic Cookies" or "GMO Cookies," is a highly potent indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing [[girl-scout-cookies]] (GSC) with Chemdawg. Bred by Mamiko Seeds and popularized by Divine Genetics, it has become one of the most sought-after strains of the 2020s for its exceptionally high THC content, unique savory pungent aroma, and deeply relaxing body effects. The "GMO" name stands for "Garlic, Mushroom, Onion" — a reference to its complex umami-forward [[cannabis-terpene-profile]] rather than genetic modification.
 
 The strain has earned a devoted following among medical patients seeking potent relief from pain, insomnia, and stress, and among recreational consumers who appreciate its distinctive flavor and heavy sedative effects.
 
@@ -88,52 +88,3 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 - **Peak (30–90 min):** Deeply relaxing body high begins to dominate; physical tension melts away
 - **Late phase (1–3 hours):** Heavy sedation and "couch-lock"; strong urge to recline or sleep
 - **Total duration:** 2–4 hours depending on dose and individual tolerance
-
-### Common Effects
-- Intense physical relaxation and body heaviness
-- Deep euphoria with introspective mental state
-- Increased appetite (munchies)
-- Significant sedation; often leads to sleep at higher doses
-- Pain relief and muscle relaxation
-- Mild visual and auditory enhancement at moderate doses
-
-## Medical Applications
-
-- **[[cannabis-chronic-pain-management]]:** Strong analgesic properties; effective for neuropathic and musculoskeletal pain
-- **Insomnia:** One of the most effective strains for sleep induction in high-THC indica category
-- **Stress and anxiety:** Potent anxiolytic effects at moderate doses; may worsen anxiety at very high doses
-- **Muscle spasms:** Significant muscle-relaxant properties
-- **[[cannabis-for-nausea-and-appetite-stimulation]] loss:** Stimulates appetite effectively (antiemetic)
-- **PTSD:** Some patients report relief from intrusive thoughts and hyperarousal
-
-## Side Effects
-
-- **Common:** Dry mouth, dry eyes, heavy sedation, couch-lock
-- **Moderate:** Dizziness (especially on standing), paranoia or anxiety at high doses, rapid heart rate
-- **Uncommon:** Headache, nausea (rare; usually dose-related)
-- **Contraindications:** Not recommended for daytime use, tasks requiring alertness, or individuals prone to cannabis-induced anxiety
-
-## Cultivation
-
-- **Flowering time:** 10–12 weeks indoors
-- **Yield:** Moderate to high; 350–500 g/m² indoors; 400–600 g/plant outdoors
-- **Difficulty:** Moderate; requires attention to humidity (dense buds prone to mold/bud rot)
-- **Climate preference:** Warm, dry Mediterranean climate preferred; keep humidity below 50% in late flowering
-- **Indoor considerations:** Strong [[cannabis-odor-control-and-carbon-filters]] essential; carbon filtration mandatory
-- **Training:** Responds well to LST, ScROG, and topping; develops heavy lateral branches
-- **Nutrient needs:** Heavy feeder during flowering; responds well to phosphorus and potassium supplementation
-- **[[cannabis-disease-pest-resistance-breeding-clarke]]:** Moderate; dense foliage requires good airflow management
-- **Ideal harvest window:** When 70–80% of trichomes are milky with some amber
-
-## Notable Phenotypes and Crosses
-
-- **GMO x Purple Punch:** Adds fruity sweetness to the savory GMO profile
-- **GMO x Sherb BX (Jealousy):** Bred by Seed Junky Genetics; sweet and gassy
-- **Jeez-O-GMO (GMO x Legend OG):** Enhanced sedative effects
-- **Lotus GMO:** Selected phenotype with enhanced cookie-diesel aroma
-- **Original Mamiko cut:** The clone-only breeder cut remains the gold standard for phenotype
-
-## See Also
-- [[bubba-kush]]
-- [[do-si-dos-entity]]
-- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

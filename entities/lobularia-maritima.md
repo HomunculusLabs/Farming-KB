@@ -11,8 +11,8 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Jalas, J. & Suominen, J. (1994). "Atlas Florae Europaeae, Vol. 10." Helsinki University Press.
-  - Colley, M. & Tilt, K. (2001). "Companion planting with sweet alyssum in organic vegetable production." Journal of Sustainable Agriculture, 18(1), 63–73.
-  - USDA ARS. "Lobularia maritima (L.) Desv." Germplasm Resources Information Network.
+  - Colley, M. & Tilt, K. (2001). "[[companion-planting-with-fungi]] sweet alyssum in organic vegetable production." Journal of Sustainable Agriculture, 18(1), 63–73.
+  - USDA ARS. "Lobularia maritima (L.) Desv." Germplasm Resources [[mycelium-digestive-membrane-information-network]].
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Lobularia maritima, commonly known as sweet alyssum, is a low-growing annual or 
 
 The species is one of the most widely cultivated ornamental plants in the world, prized for its honey-scented flowers and its value as a companion plant in organic agriculture.
 
-Sweet alyssum forms dense mats of white, pink, or purple flowers that bloom prolifically from spring through autumn in most temperate climates.
+Sweet alyssum forms dense mats of white, pink, or purple flowers that bloom prolifically from spring through autumn in most [[fukuoka-natural-farming-temperate-climates]].
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ The species is a characteristic component of Mediterranean coastal garrigue and 
 
 ## Cultivation and Horticulture
 
-Lobularia maritima is one of the most popular bedding and edging plants in temperate horticulture, widely used in borders, rock gardens, containers, and hanging baskets.
+Lobularia maritima is one of the most popular bedding and edging plants in temperate horticulture, widely used in borders, rock gardens, containers, and [[hamilton-hanging-baskets-organic]].
 
 The species is hardy to USDA zones 5–9 as an annual and zones 9–11 as a short-lived perennial, performing best in cool to moderate temperatures.
 
@@ -79,7 +79,7 @@ Sweet alyssum combines well in the garden with other cool-season annuals and per
 
 ## Ecological Role
 
-Lobularia maritima is an exceptional resource for beneficial insects, particularly syrphid flies and parasitic wasps that are important biological control agents in agricultural landscapes.
+Lobularia maritima is an exceptional resource [[query-how-do-i-design-habitat-for-beneficial-insects]], particularly syrphid flies and parasitic wasps that are important biological control agents in agricultural landscapes.
 
 The small, shallow flowers are easily accessible to a wide range of pollinators including small native bees, hoverflies, butterflies, and beneficial wasps.
 
@@ -87,35 +87,4 @@ Research has demonstrated that sweet alyssum plantings significantly increase sy
 
 The flowers produce nectar continuously throughout the day, providing a reliable food source for adult beneficial insects during periods when other nectar sources may be scarce.
 
-In coastal ecosystems, naturalized sweet alyssum provides ground cover that helps stabilize sandy soils and prevent erosion on dunes and cliff faces.
-
-The species is larval food for several small Lepidoptera species, though it is not a primary host for any major pest insects.
-
-## Companion Planting
-
-Sweet alyssum is widely recommended as a companion plant in organic vegetable gardens and sustainable agriculture systems.
-
-When interplanted with crops susceptible to aphid infestation, such as lettuce, brassicas, and tomatoes, Lobularia maritima attracts syrphid flies whose larvae consume aphid populations.
-
-University extension services recommend sweet alyssum as a living mulch between crop rows to support populations of natural enemies without competing significantly with main crops for resources.
-
-The species has been shown to enhance parasitism rates of cabbage aphid and diamondback moth by increasing parasitoid wasp abundance in brassica production systems.
-
-As a low-growing ground cover, sweet alyssum suppresses weed germination through competition for light and space, reducing the need for mechanical or chemical weed control.
-
-The plant's shallow root system minimizes competition with deeper-rooted crop plants for water and nutrients.
-
-Interplanting density recommendations from extension services suggest one sweet alyssum plant every 30–60 cm along crop rows, providing adequate beneficial insect habitat without excessive canopy competition.
-
-## See Also
-
-- [[capsella-bursa-pastoris]]
-- [[arabidopsis-thaliana]]
-- [[barbarea-vulgaris]]
-- [[nasturtium-officinale]]
-- [[sinapis-arvensis]]
-- [[borago-officinalis]]
-- [[phacelia-tanacetifolia]]
-- [[salvia-officinalis]]
-- [[achillea-millefolium]]
-- [[monarda-fistulosa]]
+In [[dighton-fungi-mangrove-coastal-ecosystems]], naturalized sweet alyssum provides ground cover that helps stabilize sandy soils and prevent erosion on dunes and cliff faces.

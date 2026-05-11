@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -86,49 +87,3 @@ Woven coco fiber pots are available from suppliers like General Hydroponics. The
 - **Variable quality**: Low-quality coir may contain high sodium or be improperly processed.
 - **No buffering**: Like most hydroponic media, coco has limited nutrient buffering capacity.
 - **Compaction**: Can compact over time, reducing aeration.
-
-## Coco Coir and pH Management
-
-The naturally near-neutral pH of coco coir (5.5 to 6.8) means less pH adjustment is needed compared to other media. However, growers should still monitor pH regularly:
-- **Initial rinse**: Rinse expanded coir before use to remove any residual salts or dust.
-- **pH monitoring**: Check pH of runoff water periodically to detect drift.
-- **Buffering**: Coco coir has some natural buffering capacity but less than peat moss or soil. Maintain pH between 5.5 and 6.5 for optimal [[ph-and-nutrient-availability-garden-soils]].
-
-## Coco Coir and Nutrient Management
-
-Coco coir has a moderate cation-exchange capacity, meaning it can hold and release some nutrients. However, like most hydroponic media, it relies primarily on the nutrient solution for plant feeding:
-- Use a coco-specific nutrient formula if available, as these are formulated for coco's unique properties.
-- Calcium and magnesium supplementation may be needed, as coco can bind these elements.
-- Monitor EC of runoff to detect [[jadam-salt-accumulation-in-soil]].
-- Flush with plain water every two to four weeks to prevent salt buildup.
-
-## Reusing Coco Coir
-
-Coco coir can be reused for multiple grows, but with some caveats:
-- Remove old root material as thoroughly as possible between uses.
-- Flush with a mild sterilizing solution (5% bleach or [[cervantes-hydrogen-peroxide-sterilization]]) between grows.
-- Re-amend with nutrients and buffer agents before replanting.
-- Watch for [[hamilton-pest-and-disease-control-organic]] issues, which can accumulate with reuse.
-- After indoor use, coco coir can be repurposed in the outdoor garden.
-
-## Coco Coir vs. Peat Moss
-
-Both are popular soilless growing media, but they differ in important ways:
-- **Sustainability**: Coco coir is a renewable byproduct; peat moss is harvested from slow-forming bogs.
-- **pH**: Coco is near-neutral; peat moss is acidic (pH 3 to 4) and requires liming.
-- **Water retention**: Coco re-wets easily after drying; peat moss can become hydrophobic when dry.
-- **Decomposition**: Peat moss breaks down faster than coco coir.
-- **CEC**: Peat moss has higher CEC (about 75 to 90) than coco coir.
-
-## Maintenance Tips
-
-- Monitor moisture levels closely, especially during early growth.
-- Ensure containers have adequate drainage holes to prevent waterlogging.
-- Flush with plain water periodically to prevent salt accumulation.
-- Adjust irrigation frequency based on plant size and environmental conditions.
-- Reuse coco outdoors after indoor grows if desired, but sterilize first.
-- Store dry coco bricks in a dry place to prevent mold growth.
-
-## See Also
-
-- coco coir cannabis

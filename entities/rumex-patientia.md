@@ -88,26 +88,3 @@ Division of established clumps every 3–4 years maintains plant vigor. The thic
 The species is relatively pest-free, though slugs and leaf beetles may damage young growth. It is not significantly affected by common plant diseases in temperate climates.
 
 ## Ecology and Applications
-
-**Rumex patientia** serves as a host plant for several butterfly and moth species. The leaves provide food for caterpillars of the small copper butterfly (*Lycaena phlaeas*) and several Rumex-feeding moths.
-
-The deep taproot improves soil structure and brings nutrients from subsoil layers to the surface. This makes patience dock a useful [[nutrient-dynamic-accumulator-reference]] in permaculture designs and food forest understories.
-
-In traditional European medicine, the root was used as a gentle laxative and digestive tonic. Preparations were made as decoctions, tinctures, or dried powders. The root's anthraquinone content is lower than senna or cascara, making it a milder alternative.
-
-The leaves have been used as a spring tonic vegetable, similar to other dock species. Young leaves were traditionally cooked as a potherb or added to soups and stews to provide tartness and nutrition.
-
-The species has potential for phytoremediation due to its tolerance of heavy metals and its ability to accumulate certain contaminants from contaminated soils. Research has demonstrated uptake of lead, cadmium, and zinc in controlled experiments.
-
-In some regions, patience dock is being reconsidered as a perennial vegetable for sustainable food systems. Its low maintenance requirements, high nutritional value, and long harvest season make it an attractive addition to diversified vegetable gardens.
-
-## See Also
-
-- [[rumex-crispus]]
-- [[taraxacum-officinale]]
-- [[atriplex-hortensis]]
-- [[urtica-dioica]]
-- [[malva-sylvestris]]
-- [[apium-graveolens]]
-- [[borago-officinalis]]
-- [[chenopodium-quinoa]]

@@ -88,18 +88,3 @@ Studies along pollution gradients have revealed important patterns:
 
 The sensitivity of fungal communities to air pollution has several
 conservation implications:
-
-- Fungal community composition can serve as an early warning system
-  for broader ecosystem degradation
-- Protected areas near pollution sources may not adequately conserve
-  fungal diversity
-- Air [[aact-compost-quality-standards-ingham]] should consider impacts on fungal communities
-  and the [[biodiversity-of-fungi-ecosystem-services-agriculture]] they provide
-- Restoration of polluted sites should include [[monitoring-and-assessment-of-fungal-bioremediation]]
-  community recovery
-- Long-term monitoring data are essential for detecting trends and
-  evaluating the effectiveness of pollution control measures
-
-## See Also
-
-- fungal-acidification-and-pollution-responses

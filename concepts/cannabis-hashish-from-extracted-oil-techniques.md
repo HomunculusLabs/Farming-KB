@@ -77,3 +77,20 @@ Several variations on the basic oil-to-hashish process have been developed by pr
 Another variation involves flavoring the hashish by adding aromatic herbs or [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] during the mixing stage. Classical literature mentions "lettuce opium" as a binder that may contribute mild psychoactive effects. While such additions are a matter of personal preference, they demonstrate the versatility of the oil-to-hashish process as a platform for creating customized products.
 
 Some practitioners age their pressed hashish for weeks or months before consumption, similar to the curing process for cannabis flowers. This aging allows the flavors to meld and may produce subtle changes in the character of the product. Properly stored hashish can improve with age, though excessive aging eventually leads to THC degradation through oxidation.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[cannabis-hash-making-from-extracted-oil]]
+- [[cannabis-oil-purification-techniques]]
+- [[cannabis-training-techniques]]
+- [[comparison-cannabis-kief-collection-vs-hashish-guide]]
+- [[mycoforestry-spored-oil-techniques]]

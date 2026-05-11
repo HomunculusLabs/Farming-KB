@@ -56,7 +56,7 @@ Platycodin D is considered the primary pharmacologically active compound. It has
 
 **Pharmacological activities supported by preclinical evidence:**
 
-- **Expectorant and antitussive:** Platycodin D stimulates the respiratory mucosa, increasing bronchial secretions and facilitating expectoration. This activity has been confirmed in animal models of cough induction with citric acid and ammonia.
+- **Expectorant and antitussive:** Platycodin D stimulates the respiratory mucosa, increasing bronchial secretions and facilitating expectoration. This activity has been confirmed in animal models of cough induction with [[citric-acid-cycle-tca-krebs-cycle]] and ammonia.
 
 - **Anti-inflammatory:** Platycosides inhibit NF-κB signaling and reduce production of pro-inflammatory cytokines (TNF-α, IL-1β, IL-6) in macrophages. Oral administration reduced carrageenan-induced paw edema in rats by 40–50% at 100 mg/kg.
 
@@ -66,7 +66,7 @@ Platycodin D is considered the primary pharmacologically active compound. It has
 
 - **Antioxidant and hepatoprotective:** The root extract scavenges free radicals and protects against carbon tetrachloride-induced liver damage in rats, attributed to both saponin and flavonoid constituents.
 
-Additional constituents include polyacetylenes, flavonoids (apigenin, luteolin glycosides), phenolic acids, and sterols. These contribute to the overall antioxidant and anti-inflammatory profile.
+Additional constituents include polyacetylenes, flavonoids ([[apigenin]], [[luteolin]] glycosides), phenolic acids, and sterols. These contribute to the overall antioxidant and anti-inflammatory profile.
 
 Polyacetylene compounds, including platycodonin A and B, have shown antimicrobial activity against oral pathogens and foodborne bacteria. These compounds are relatively uncommon in the Campanulaceae family and contribute to the species' unique phytochemical fingerprint.
 
@@ -74,7 +74,7 @@ Polyacetylene compounds, including platycodonin A and B, have shown antimicrobia
 
 P. grandiflorus is commercially cultivated in China (primarily Anhui, Inner Mongolia, and Shandong provinces), South Korea, and Japan. Wild harvesting from mountainous areas supplements cultivated supply in some regions.
 
-The plant prefers well-drained, sandy loam soils with pH 6.0–7.5. It grows best in full sun to partial shade with moderate moisture. It is cold-hardy to USDA zone 3–4 and tolerates a wide range of temperate climates.
+The plant prefers well-drained, sandy loam soils with pH 6.0–7.5. It grows best in full sun to partial shade with moderate moisture. It is cold-hardy to USDA zone 3–4 and tolerates a wide range of [[fukuoka-natural-farming-temperate-climates]].
 
 Seeds are sown in spring, with germination requiring 2–3 weeks at 15–20°C. Transplanting is done at the 2–3 leaf stage with 30–40 cm spacing. Root harvest occurs 2–3 years after planting for maximum saponin content.
 
@@ -87,25 +87,3 @@ In TCM, the dried root is classified as bitter, acrid, and slightly warm. It ent
 Standard dosage is 3–10 g per decoction. It is considered one of the primary herbs for treating cough with profuse sputum, sore throat, and lung abscess. A characteristic TCM axiom states that Jiegeng serves as a "guide herb" directing the actions of a formula upward to the throat and lungs.
 
 In traditional Korean medicine (Hanbang), the root (Doraji, 도라지) is used for similar respiratory indications and is a key ingredient in doraji-tang (bellflower root soup). It is also consumed as a seasoned vegetable side dish (namul) in Korean cuisine.
-
-In Japan, the root (Kikyo) has been used in Kampo medicine as a component of Bakumondo-to (Ma Xing Shi Gan Tang derivative) for bronchitis and cough. The root is also one of the "seven flowers of autumn" in Japanese cultural tradition.
-
-## Ecology and Applications
-
-P. grandiflorus is native to forest margins, grassy slopes, and rocky outcrops at elevations of 200–2,000 m in East Asia. It is adapted to disturbance and colonizes open areas readily, making it a successful ornamental escape in temperate regions.
-
-The flowers are pollinated by bumblebees and long-tongued bees, which are the primary visitors given the deep corolla tube. The nectar is moderately abundant and supports pollinator diversity in native meadow ecosystems.
-
-Platycosides from the root have attracted commercial interest as functional food ingredients and dietary supplements. In South Korea, platycodon root extracts are incorporated into health beverages, throat lozenges, and anti-cough syrups.
-
-The species shows potential as a [[jadam-natural-pesticide-institute-and-research]] adjuvant due to its saponin content, which acts as a natural surfactant. Platycoside-rich extracts have been investigated for their ability to enhance the efficacy of agricultural sprays through improved wetting and penetration.
-
-In horticulture, the ornamental forms are valued for their late summer bloom period, providing color when many other perennials have finished flowering. The species is deer-resistant due to saponin bitterness in all plant parts.
-
-## See Also
-
-- [[panax-ginseng]]
-- [[codonopsis-pilosula]]
-- [[schisandra-chinensis]]
-- [[rehmannia-glutinosa]]
-- [[angelica-sinensis]]

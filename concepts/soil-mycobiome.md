@@ -87,18 +87,3 @@ communities respond to litter inputs, with peaks following leaf fall
 in temperate forests. Ecosystem succession involves predictable shifts,
 with early successional communities dominated by fast-growing
 Ascomycota and late successional communities enriched in Basidiomycota.
-
-## Global Biogeography
-
-Tropical soils tend to have higher fungal diversity but lower biomass
-compared to temperate forest soils. Arid soils are dominated by
-melanized fungi adapted to desiccation and UV stress. Island
-biogeography principles apply: larger and less isolated landmasses
-harbor more diverse soil fungal communities. Elevational gradients
-often show mid-elevation peaks in species richness.
-
-## See Also
-
-- [[mycorrhizal-fungi]]
-- [[environmental-dna-metabarcoding]]
-- [[biodiversity-fungi-tropical-fungal-diversity]]

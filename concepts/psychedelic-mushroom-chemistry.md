@@ -11,19 +11,19 @@ sources: []
 
 ## Overview
 
-Psychedelic mushrooms produce a family of tryptamine alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors. (see [[norbaeocystin]]).
+Psychedelic mushrooms produce a family [[hplc-analysis-of-tryptamine-alkaloids]], with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
 
 ## Primary Compounds
 
 ### Psilocybin
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
 
-Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver. (see [[psilocybin-chemistry-stability]]).
+Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver.
 
 ### Psilocin
 
-Psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-OH-DMT) is the primary psychoactive metabolite. Molecular formula: C12H16N2O, molecular weight: 204.27 g/mol. Psilocin is structurally similar to serotonin (5-hydroxytryptamine, 5-HT), differing only in the N,N-dimethyl substitution at the terminal amine position. This structural similarity underlies its affinity for serotonin receptors, particularly the 5-HT2A receptor.
+Psilocin (4-hydroxy-N,N-dimethyltryptamine, or 4-OH-DMT) is the primary psychoactive metabolite. Molecular formula: C12H16N2O, molecular weight: 204.27 g/mol. Psilocin is structurally similar to serotonin (5-hydroxytryptamine, 5-HT), differing only in the N,N-dimethyl substitution at the terminal amine position. This structural similarity underlies its affinity for [[psilocybin-pharmacology-and-serotonin-receptors]], particularly the 5-HT2A receptor.
 
 Psilocin is present in smaller quantities in fresh mushrooms but can increase as psilocybin dephosphorylates post-harvest. It is more susceptible to oxidation than psilocybin, leading to the characteristic blueing reaction in damaged fungal tissue.
 
@@ -48,7 +48,7 @@ This gene cluster has been identified in multiple distantly related fungal gener
 
 ## The Blueing Reaction
 
-When psilocybin mushroom tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
+When psilocybin mushroom tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:
 
 1. Tissue damage exposes cellular contents to air
 2. Endogenous phosphatases dephosphorylate psilocybin to psilocin
@@ -67,7 +67,7 @@ Psilocybin is relatively stable compared to psilocin. Under proper storage condi
 - **Refrigerated (2-4°C), desiccant**: Near-complete preservation for 1-2 years
 - **Frozen (-20°C)**: Long-term preservation possible (years)
 - **Heat exposure**: Significant degradation above 70°C; boiling water (~100°C) causes 30-50% loss within 15 minutes
-- **UV light**: Accelerates degradation of both psilocybin and psilocin
+- **UV light**: Accelerates degradation of both [[hplc-analysis-of-psilocybin-and-psilocin]]
 - **Oxygen exposure**: Contributes to oxidation, particularly of psilocin
 
 ### Psilocin Stability
@@ -90,11 +90,11 @@ The conversion of psilocybin to psilocin (dephosphorylation) can occur through s
 - **Enzymatic**: Alkaline phosphatase in the GI tract is the primary in vivo pathway
 - **Chemical (acidic)**: Strong acids (pH < 3) can hydrolyze the phosphate ester. Lemon tek and similar acidic preparation methods may partially convert psilocybin to psilocin before ingestion
 - **Thermal**: Moderate heat in the presence of moisture accelerates enzymatic conversion
-- **Endogenous fungal enzymes**: Some residual phosphatase activity persists in dried material, slowly converting psilocybin over time
+- **Endogenous fungal enzymes**: Some residual [[mycorrhizal-phosphatase-activity-elf97-detection]] persists in dried material, slowly converting psilocybin over time
 
 ## Analytical Methods
 
-Modern analysis of psychedelic mushroom alkaloids employs:
+Modern analysis of [[hplc-analysis-psychedelic-mushroom-alkaloids]] employs:
 
 - **HPLC-UV/Vis**: Standard quantification method; psilocybin and psilocin have distinct retention times and UV absorption spectra
 - **LC-MS/MS**: Most sensitive and specific; can detect all four major alkaloids at trace levels
@@ -113,3 +113,17 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
+## Practical Cultivation Notes
+
+Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
+
+## Safety Considerations
+
+Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
+
+## See Also
+- [[abort-management-pinhead-removal-mushroom-casing-cultivation]]
+- [[accessible-mushroom-cultivation-for-disabilities]]
+- [[acid-house-rave-culture-and-second-mushroom-boom]]
+- [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
+- [[adaptive-significance-mushroom-tropisms-spore-dispersal]]

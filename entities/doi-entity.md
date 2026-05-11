@@ -75,7 +75,7 @@ DOI has an extremely high binding affinity for the [[dob-compound-profile]], [[d
 
 A number of animal studies with DOI have mapped 5-HT2 receptor subtypes, which have been subdivided based on which compounds interact most tightly with each site. Radiolabeled DOI ([¹²⁵I]-DOI) is used extensively in autoradiography and PET imaging to study serotonin receptor distribution in the brain.
 
-The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[psychedelic-harm-reduction]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
+The heavy iodine atom and slow pharmacokinetics contribute to the extremely long duration. As with [[harm-reduction-guide]] for general [[adverse-effects-and-harm-reduction-psilocybin]] guidelines
 - [[ayahuasca-tourism-legal-status-by-country]]: Schedule I in the US and most countries
 
 ## Related Compounds

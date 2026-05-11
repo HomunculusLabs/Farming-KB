@@ -1,5 +1,5 @@
 ---
-title: Plant plant cell membrane transport proteins channels carriers and pumps Transport Proteins Channels Carriers and Pumps
+title: Plant Cell Membrane Transport Proteins Channels Carriers And Pumps
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -88,26 +88,9 @@ Maintains low cytosolic calcium concentrations for signaling sensitivity. When c
 
 The tonoplast (vacuolar membrane) works in coordination with the plasmalemma to maintain cytosol pH at approximately 7.2. This is accomplished by pumping H+ ions from the cytosol into the vacuole (vacuolar pH ~5.5). The tonoplast has its own set of transport proteins:
 
-- **Active transport into vacuole**: Calcium, sodium, hydrogen
-- **Passive transport into vacuole**: Nitrate, potassium, chlorine
-
-The coordination between plasmalemma and tonoplast ensures that the cytosol remains at the right pH and ionic balance for enzymatic reactions to proceed.
-
-## Passive vs Active Transport Summary
-
-| | Passive | Active |
-|---|---------|--------|
-| **Energy required** | No (concentration gradient) | Yes (ATP or H+ gradient) |
-| **Speed** | Fast (channels: 10M/sec) | Slower (carriers: 100-1000/min) |
-| **Direction** | With gradient only | Against gradient |
-| **Examples** | Channels, uniporters | Pumps, symporters, antiporters |
-
-## Related
-
-- [[amaringo-plant-teachers-and-vegetalista-cosmology]]
-- fungal-hydrophobin-proteins-and-surface-hydrophobicity Topics
-
-- [[diffusion-osmosis-and-active-transport-in-plants]] -- the physical principles
-- [[plant-cell-structure-and-organelles]] -- the cellular context
-- [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
-- [[water-pathways-through-plants]]
+## See Also
+- [[plant-cell-membrane-transport-proteins]]
+- [[the-vacuole-and-tonoplast-in-plant-cell-regulation]]
+- [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]]
+- [[tompkins-mitogenetic-rays-plant-cell-communication]]
+- [[plant-cell-structure-and-organelles]]

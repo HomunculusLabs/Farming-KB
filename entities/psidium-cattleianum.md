@@ -23,7 +23,7 @@ sources:
 
 The species typically reaches 2–6 meters in height, forming dense thickets in its invasive range. The fruit is small (2–4 cm diameter), round to ovoid, with red or yellow skin and sweet, aromatic pulp.
 
-P. cattleianum was introduced widely as an ornamental and fruit tree during the 19th century. It is now naturalized across tropical and subtropical regions worldwide, with particularly severe invasions in Hawaii, Réunion, Mauritius, and the Galápagos.
+P. cattleianum was introduced widely as an ornamental [[mollison-designers-vine-and-fruit-tree-integration]] during the 19th century. It is now naturalized across tropical and subtropical regions worldwide, with particularly severe invasions in Hawaii, Réunion, Mauritius, and the Galápagos.
 
 The species was first brought to Hawaii in the early 19th century and has since spread to occupy approximately 350,000 hectares of forest land. Its ecological impact on Hawaiian native forests is considered among the most severe of any invasive plant species globally.
 
@@ -54,7 +54,7 @@ The fruit is a berry 2–4 cm in diameter, green when immature, ripening to red 
 
 Each fruit contains 20–60 small, kidney-shaped seeds approximately 2–3 mm long. The seeds are viable after passing through animal digestive tracts, which facilitates long-distance dispersal.
 
-Fruiting occurs over an extended period in tropical climates, with peaks corresponding to seasonal rainfall patterns. A single mature tree can produce several thousand fruits per year.
+Fruiting occurs over an extended period in [[fukuoka-natural-farming-tropical-climates]], with peaks corresponding to seasonal rainfall patterns. A single mature tree can produce several thousand fruits per year.
 
 ## Distribution and Habitat
 
@@ -72,11 +72,11 @@ The species fruits prolifically and is dispersed by feral pigs, birds, and mamma
 
 The fruit of P. cattleianum is edible raw and has a sweet, mildly tart flavor reminiscent of strawberry (hence the common name). The pulp is aromatic and juicy, though the numerous small seeds can be a textural inconvenience.
 
-Culinary uses include jams, jellies, preserves, beverages, and desserts. The fruit makes an excellent jelly with a characteristic pink color and delicate guava flavor. It is also used in fruit salads, smoothies, and fermented beverages.
+Culinary uses include jams, jellies, preserves, beverages, and desserts. The fruit makes an excellent jelly with a characteristic pink color and delicate guava flavor. It is also used in fruit salads, smoothies, and [[comparison-mead-vs-kvass-fermented-beverages]].
 
-In Brazil, the fruit is known as *araçá* and is widely consumed fresh or processed into *goiabada*-style sweets. Commercial production has expanded in recent years to meet growing demand for exotic tropical fruits in international markets.
+In Brazil, the fruit is known as *araçá* and is widely consumed fresh or processed into *goiabada*-style sweets. Commercial production has expanded in recent years to meet growing demand for exotic [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] international markets.
 
-Nutritional analysis shows the fruit is rich in vitamin C (50–80 mg/100 g), comparable to the common guava **[[psidium-guajava]]**. It also contains significant levels of anthocyanins (red-fruited form), fiber, and potassium.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows the fruit is rich in vitamin C (50–80 mg/100 g), comparable to the common guava **[[psidium-guajava]]**. It also contains significant levels of anthocyanins (red-fruited form), fiber, and potassium.
 
 Traditional medicine in Brazil uses the leaves and bark of P. cattleianum as an astringent and antidiarrheal remedy. Pharmacological studies have confirmed antibacterial and anti-inflammatory activity in leaf extracts.
 
@@ -84,37 +84,6 @@ The yellow-fruited variety is generally sweeter and less astringent than the red
 
 ## Cultivation and Ecology
 
-P. cattleianum is easily propagated from seed, which germinates within 2–6 weeks. Vegetative propagation by cuttings and air layering is also successful and produces fruiting plants faster than seed-grown specimens.
+P. cattleianum is easily propagated from seed, which germinates within 2–6 weeks. [[hamilton-vegetative-propagation]] by cuttings and air layering is also successful and produces fruiting plants faster than seed-grown specimens.
 
 The species is hardier than common guava, tolerating temperatures as low as -4°C. It adapts to a wide range of soils, from sandy to clay, and tolerates both moderate drought and periodic waterlogging. Optimal growth occurs in well-drained, slightly acidic soils with annual rainfall of 1,000–3,000 mm.
-
-In its native range, P. cattleianum is a component of Atlantic Forest understory and plays a normal ecological role. The flowers attract native bees and other pollinators, and the fruit is consumed by birds and mammals.
-
-Landscape use of P. cattleianum as an ornamental is limited by its invasive potential in tropical climates. In temperate regions, it is grown as a container plant or greenhouse specimen where naturalization risk is minimal.
-
-## Invasive Ecology
-
-P. cattleianum is classified among the world's 100 worst invasive alien species by the IUCN Invasive Species Specialist Group. Its invasion threatens biodiversity, watershed function, and native forest structure in tropical islands.
-
-In Hawaii, strawberry guava forms monospecific thickets that exclude virtually all native understory species. It reduces water yield from forested watersheds by transpiring more water than the native Metrosideros polymorpha forests it replaces.
-
-The dense leaf litter produced by P. cattleianum alters soil chemistry, increasing nitrogen availability and creating conditions unfavorable for native plant germination. This feedback loop accelerates the conversion of diverse native forest into guava-dominated monoculture.
-
-Control methods include mechanical removal, herbicide application, and biological control. A promising biocontrol agent, the Brazilian scale insect Tectococcus ovatus, has been under investigation in Hawaii since the 1990s. This gall-forming insect specifically targets P. cattleianum and reduces fruit production without affecting the native psidium-guajava.
-
-The species' ability to fruit within 2–3 years from seed, combined with high seed production and effective animal-mediated dispersal, makes it exceptionally difficult to eradicate once established. Prevention of new introductions remains the most cost-effective management strategy.
-
-In Réunion, P. cattleianum has invaded over 40,000 hectares of native cloud forest, forming dense stands that suppress regeneration of endemic species. Mechanical clearing combined with replanting of native vegetation has shown limited long-term success due to the species' persistent soil seed bank.
-
-## See Also
-
-- [[psidium-guajava]]
-- [[eugenia-uniflora]]
-- [[syzygium-aromaticum]]
-- [[syzygium-cumini]]
-- [[melaleuca-alternifolia]]
-- [[myrtus-communis]]
-- [[eucalyptus-globulus]]
-- [[pimenta-dioica]]
-- [[leptospermum-scoparium]]
-- [[melaleuca-leucadendra]]

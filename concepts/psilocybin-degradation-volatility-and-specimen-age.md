@@ -88,19 +88,3 @@ The characteristic blue bruising of psilocybin-containing mushrooms is
 directly related to compound instability. When tissue is damaged,
 cellular enzymes dephosphorylate psilocybin to psilocin, which is then
 rapidly oxidized by atmospheric oxygen to form blue-colored compounds.
-The bluing reaction intensity and speed can serve as a rough indicator
-of remaining alkaloid content in a given specimen.
-
-## Relevance to Modern Use
-
-Fresh specimens contain the highest concentrations of active alkaloids,
-with significant losses within weeks. Dried specimens stored in cool,
-dark, airtight conditions retain potency longer but all specimens
-eventually degrade. The indigenous practice of discarding specimens
-older than one year is well supported by modern biochemical evidence.
-
-## See Also
-
-- Psilocybe genus overview
-- [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]
-- [[psilocybe-semilanceata]] ecology and chemistry

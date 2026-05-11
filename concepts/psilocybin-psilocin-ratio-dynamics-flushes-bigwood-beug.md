@@ -1,5 +1,5 @@
 ---
-title: Psilocybin to Psilocin Ratio Dynamics [[psilocin-accumulation-pattern-across-flushes]] - Bigwood Beug 1982
+title: Psilocybin Psilocin Ratio Dynamics Flushes Bigwood Beug
 source: Bigwood & Beug, Journal of Ethnopharmacology 5 (1982) 287-291
 tags: [psilocybin, psilocin, ratio, flush-variation, decarboxylation, alkaloid-dynamics, bigwood-beug, psilocybe-cubensis]
 ---
@@ -10,8 +10,8 @@ tags: [psilocybin, psilocin, ratio, flush-variation, decarboxylation, alkaloid-d
 
 One of the most striking findings from Bigwood and Beug's 1982
 cultivation study of *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* was the dramatic shift in the
-psilocybin-to-psilocin ratio across successive flushes. In early
-flushes, psilocin was nearly absent; by later flushes, psilocin
+psilocybin-to-psilocin ratio across [[psilocin-biosynthetic-delay-hypothesis-successive-flushes]]. In early
+flushes, psilocin was nearly absent; by [[psilocin-emergence-in-later-flushes]], psilocin
 content rose significantly while psilocybin fluctuated. This ratio
 dynamic has implications for understanding biosynthesis, enzymatic
 conversion, and dosing accuracy in both clinical and recreational
@@ -56,7 +56,7 @@ phosphorylation of psilocin to produce psilocybin is believed to be a
 storage or transport mechanism within the fungal organism:
 
 - **Phosphorylation** (psilocin → psilocybin): May stabilize the
-  molecule for storage within mushroom tissue
+  molecule for storage within [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
 - **Dephosphorylation** (psilocybin → psilocin): Catalyzed by alkaline
   phosphatase enzymes, particularly upon drying, heating, or exposure
   to basic conditions
@@ -74,7 +74,7 @@ The progressive increase in psilocin across flushes could reflect:
 - **Shift in metabolic priorities**: Early flushes prioritize rapid
   alkaloid synthesis for defense; later flushes may have different
   [[mycelial-foraging-resource-allocation]]
-- **Substrate depletion**: As rye grain nutrients are consumed, the
+- **Substrate depletion**: As [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] nutrients are consumed, the
   biochemical environment may shift toward conditions favoring
   dephosphorylation
 
@@ -88,61 +88,3 @@ variable ratios:
 - Other samples contained **very low psilocin** relative to psilocybin
   — possibly first-flush material or samples dried at low
   temperatures
-- One notable sample contained **virtually no detectable psilocybin
-  or psilocin** — possibly misidentified mushroom species or
-  severely degraded material
-
-The variability of street samples underscores how the psilocybin:psilocin
-ratio cannot be predicted from source alone — flush number, drying
-method, [[spawn-storage-conditions]], and even time since harvest all influence
-the ratio.
-
-## Dosing Implications
-
-Both compounds are psychoactive but with [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]]:
-**psilocybin** is a prodrug dephosphorylated in vivo to produce
-psilocin (smoother onset), while **psilocin** is directly active
-(faster, more intense onset). A later-flush mushroom with high psilocin
-may have a qualitatively different onset than an early-flush specimen
-with near-zero psilocin, even at similar total alkaloid content.
-
-For clinical standardization, content analysis alone is insufficient
-— the ratio matters for pharmacokinetics. Drying method further affects
-the ratio: heat drying promotes dephosphorylation, converting psilocybin
-to psilocin post-harvest. Fresh mushrooms contain proportionally more
-psilocybin while dried material shows higher psilocin due to
-post-harvest enzymatic conversion.
-
-## Cap vs Stem Distribution
-
-The ratio also varied between cap and stem tissues:
-
-- **Caps** generally contained higher total alkaloid content than
-  stems
-- **Psilocin** was more concentrated in caps relative to stems
-- **Psilocybin** was present in both tissues but at different
-  concentrations depending on flush number
-
-This distribution pattern is consistent with the ecological role of
-alkaloids in the cap (spore-producing tissue), where chemical defense
-is most critical.
-
-## Modern Context
-
-Subsequent studies using more sensitive LC-MS methods have generally
-confirmed the Bigwood and Beug findings:
-
-- Flush-dependent variation in psilocybin:psilocin ratio is real and
-  reproducible
-- The ratio is influenced by substrate composition, temperature, and
-  harvest timing
-- Modern cultivation guides sometimes recommend harvesting at specific
-  flush numbers for desired potency profiles, though the science
-  remains incomplete
-
-## See Also
-
-- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
-- [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]]
-- [[psilocybe-cubensis-street-sample-potency-variability]]
-- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]

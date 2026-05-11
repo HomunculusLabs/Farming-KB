@@ -17,11 +17,11 @@ sources: ["domain-knowledge"]
 - **Growth habit:** Medium-sized deciduous tree, dioecious,
   often multi-stemmed when coppiced
 - **Lifespan:** 75-150 years; some specimens exceed 200 years
-- **Hardiness:** USDA Zones 5-9; tolerates extreme heat,
+- **Hardiness:** USDA Zones 5-9; tolerates [[extreme-heat-preparedness]],
   cold, drought, and poor soils
 - **Root system:** Deep taproot with extensive lateral roots;
   soil-binding and erosion-controlling
-- **Growth rate:** Moderate to fast (1.5-3 ft/year in ideal
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]:** Moderate to fast (1.5-3 ft/year in ideal
   conditions)
 
 **Note:** Tagged as a deep nutrient cycler rather than a
@@ -84,66 +84,7 @@ and deep mineral mining from subsoil layers.
   seasonal flooding
 
 The species thrives in full sun but tolerates partial shade.
-It is one of the most adaptable native North American trees,
+It is one of the most adaptable native [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] trees,
 colonizing disturbed ground rapidly via root sprouts and seed
 distribution (originally by extinct megafauna, now primarily
 by water and human activity).
-
-## Historical Significance
-
-- **[[halpern-sacramental-peyote-and-native-american-church]] bow wood:** Osage Nation and Plains tribes
-  prized the wood for war and hunting bows; considered
-  superior to all other North American woods; trade spread
-  the species far beyond its native range; French name
-  "Bois d'Arc" means "wood of the bow"
-- **Hedge planting era (1850s-1900s):** Primary living fence
-  species in the US Midwest and Great Plains before barbed
-  wire; planted in dense hedgerows pruned into impenetrable
-  barriers; promoted by USDA; hundreds of thousands of miles
-  established by 1880
-- **Railroad ties:** Heartwood rot resistance made it the
-  preferred material for ties and telegraph poles in the
-  19th century
-- **Dye production:** Wood and root bark yield bright
-  yellow-orange dye; used commercially in the 1800s
-
-The invention of barbed wire in 1874 ended the hedge era,
-but existing hedgerows persist across the Midwest today,
-often serving as wildlife corridors.
-
-## Uses and Applications
-
-- **Hedgerow and living fence:** Dense thorny barriers at
-  12-18 in spacing; effective livestock exclusion; coppices
-  vigorously after cutting
-- **Windbreak:** Fast establishment, dense branching;
-  effective in multi-row shelterbelt systems
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Deep roots stabilize slopes and
-  riparian zones; excellent for stream bank restoration
-- **Dye source:** Heartwood and root bark produce osage
-  orange dye -- brilliant gold-yellow on wool, cotton, linen;
-  mordant with alum for best results; valued by fiber artists
-- **Rot-resistant timber:** Posts last 25-50+ years in ground
-  contact without treatment; ideal for hugelkultur frames,
-  raised bed borders, and garden edging
-- **Firewood:** Extremely high BTU (~32 million BTU/cord);
-  burns hot and long; coals persist overnight; difficult to
-  split when green
-- **Insect repellent:** Fruit traditionally placed around
-  foundations to deter spiders and insects (anecdotal; limited
-  scientific evidence)
-- **Pollinator habitat:** Male flowers attract bees and other
-  pollinators in spring
-
-## Cultivation
-
-- **Light:** Full sun preferred; tolerates partial shade
-- **Soil:** Adaptable to most soils including clay, loam,
-  sand, and rocky substrates; pH 5.0-8.0
-- **Moisture:** Drought-tolerant once established; water
-  regularly during first [[savory-growing-season-and-non-growing-season-management]]
-- **Propagation by seed:** Stratify 30-90 days at 5 degrees C;
-## See Also
-  - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
-- [[maclura-tinctoria]]

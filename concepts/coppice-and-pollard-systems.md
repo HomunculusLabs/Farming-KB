@@ -22,7 +22,7 @@ Coppicing exploits the ability of many broadleaved tree species to regenerate fr
 
 The cutting cycle determines the size and use of the harvested wood:
 
-- **Short rotation (1–5 years)**: Bean poles, pea sticks, binders, thatching spars, basketry willow. Species: willow, hazel, sweet chestnut.
+- **Short rotation (1–5 years)**: Bean poles, pea sticks, binders, thatching spars, basketry willow. Species: willow, hazel, [[holzer-sweet-chestnut-and-nut-trees]].
 - **Medium rotation (5–15 years)**: Fence rails, hurdles, gate posts, charcoal, tool handles. Species: hazel, ash, oak, sweet chestnut, birch.
 - **Long rotation (15–30+ years)**: Timber, firewood, boat planking, construction. Species: oak, ash, beech, sweet chestnut.
 
@@ -37,9 +37,9 @@ A mixed system where scattered standard trees (mature trees left to grow to full
 - Hazel ([[corylus-avellana]]): Traditional coppice species; flexible rods for hurdle-making and basketry; nut production
 - Ash (Fraxinus excelsior): Fast-growing; strong elastic wood; firewood; currently threatened by ash dieback (Hymenoscyphus fraxineus)
 - Willow (Salix spp.): Fastest growth; short rotation biomass; basketry; living structures; stream bank stabilization
-- Oak (Quercus robur/petrea): Long-rotation coppice for timber and firewood; very slow initial growth but produces durable wood
-- Black locust (Robinia pseudoacacia): Extremely hard, rot-resistant wood; nitrogen-fixing; excellent fence posts; firewood; invasive in some regions — contain with root barriers
-- Alder (Alnus glutinosa): Nitrogen-fixing; water-tolerant; excellent for streamside coppice; fast growth
+- Oak ([[quercus-robur]]/petrea): Long-rotation coppice for timber and firewood; very slow initial growth but produces durable wood
+- Black locust ([[robinia-pseudoacacia]]): Extremely hard, rot-resistant wood; nitrogen-fixing; excellent fence posts; firewood; invasive in some regions — contain with root barriers
+- Alder ([[alnus-glutinosa]]): Nitrogen-fixing; water-tolerant; excellent for streamside coppice; fast growth
 
 **Good coppicers**: Birch, lime (Tilia), hornbeam, field maple, hawthorn, elm (resistant to Dutch elm disease when coppiced young), sycamore, poplar, eucalyptus.
 
@@ -83,48 +83,8 @@ Old pollards that have not been managed for decades may have very large, heavy c
 
 ### Timing
 
-Cut during the dormant season (late autumn to early spring, before bud burst) when sap is low and the tree is least stressed. Avoid cutting during periods of frost — frozen wood splits poorly and bark may peel. In areas with active bird nesting seasons (typically March–August in temperate regions), complete all cutting before nesting begins.
+Cut during the dormant season (late autumn to [[coleman-overwintered-onions-and-early-spring-crops]], before bud burst) when sap is low and the tree is least stressed. Avoid cutting during periods of frost — frozen wood splits poorly and bark may peel. In areas with active bird nesting seasons (typically March–August in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]), complete all cutting before nesting begins.
 
 ### Technique
 
 Cut stems cleanly at a slight angle just above the stool or bolling, using a sharp bow saw or chainsaw. The cut should be close enough to avoid leaving snagging points but not so close that the bark is torn from the stool. Avoid damaging the bark of the stool, as this is where the new shoots will emerge. For large stools, cut stems individually rather than using a chainsaw to cut across the entire stool at once.
-
-### Yield Expectations
-
-A well-managed hazel coppice on a 7-year rotation produces 5–15 tonnes of green wood per hectare per harvest. Sweet chestnut on a 15–20 year rotation produces 50–100 tonnes per hectare. Short-rotation willow coppice (3–4 year rotation) produces 8–15 tonnes of dry matter per hectare per year. Black locust coppice on a 10–15 year rotation produces exceptionally dense, rot-resistant posts and firewood with energy content comparable to anthracite coal.
-
-### Wood Products and Uses
-
-**Short-rotation harvest** (1–5 years):
-- Basketry willow (Salix spp.) for weaving and living willow structures
-- Bean poles, pea sticks, and plant supports for [[maintaining-organic-matter-in-vegetable-gardens]]
-- Thatching spars, wattling hurdles, and woven fencing panels
-- Biomass fuel for chip boilers or pellet production
-
-**Medium-rotation harvest** (5–15 years):
-- Hazel hurdles for sheep pens and garden fencing
-- Gate posts, fence rails, and estate fencing
-- [[charcoal-production-for-cooking]] (especially from oak, alder, and black locust)
-- Tool handles (ash is traditional for axes, hammers, and sledges)
-- Walking sticks, broom handles, and turned wood products
-
-**Long-rotation harvest** (15–30+ years):
-- Construction timber (oak, sweet chestnut)
-- Firewood — coppiced hardwood has higher energy density than plantation-grown softwood
-- Boat building and marine applications (oak, elm)
-- Furniture and joinery timber
-
-## Biodiversity Value
-
-Coppiced woodlands are among the most biodiverse habitats in temperate regions. The cycle of cutting and regrowth creates a mosaic of light and shade conditions that support different species at different stages. Open areas after cutting favor woodland flowers, butterflies, and ground-nesting birds. Dense young growth provides nesting habitat for warblers and cover for small mammals. The standing dead wood and decaying stools support fungi, invertebrates, and cavity-nesting birds.
-
-The key to biodiversity is maintaining a varied age structure across the woodland — never cut all coupes (cutting areas) in the same year. Divide the woodland into as many coupes as the rotation length (a 7-year rotation = 7 coupes minimum) and cut one per year.
-
-## See Also
-
-- permaculture-designers-manual-coppice-systems — Mollison's coppice reference
-- chestnuts-castanea-spp — premier coppice species for timber and nuts
-- mollison-designers-silvopasture-integrated-tree-livestock — pollarding in wood-pasture systems
-- [[alnus-glutinosa]]
-- [[robinia-pseudoacacia]]
-- [[quercus-robur]]

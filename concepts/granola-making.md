@@ -3,13 +3,13 @@ title: Granola Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [food, recipe, homesteading, homestead-crafts, preparation]
+tags: [food, recipe, [[homesteading]], homestead-crafts, preparation]
 sources: []
 ---
 
 ## What Is Granola
 
-Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch. (see [[comparison-fermented-vegetables-vs-canning]]).
+Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch.
 
 ## Core Ingredients
 
@@ -22,9 +22,9 @@ Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweete
 
 ### Sweeteners
 
-Sweetener binds the granola together and creates clusters. (see [[grain-milling-at-home]]).
+Sweetener binds the granola together and creates clusters.
 
-- Maple syrup — classic, deep flavor, good binder
+- [[maple-syrup-production]] — classic, deep flavor, good binder
 - Honey — excellent binder, golden color, floral sweetness
 - Brown sugar — adds caramel notes and crunch
 - Coconut sugar — lower glycemic, earthy flavor
@@ -37,7 +37,7 @@ Sweetener binds the granola together and creates clusters. (see [[grain-milling-
 Fat carries flavor, promotes browning, and helps crisp the granola.
 
 - Coconut oil — popular choice, adds mild coconut flavor, solid at room temperature
-- Olive oil — fruity, savory notes; use a mild/light olive oil
+- [[olive-cultivation-and-olive-oil-production]] — fruity, savory notes; use a mild/light [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]]
 - Avocado oil — neutral flavor, high smoke point
 - Butter — rich, classic flavor; melt before adding
 - Ghee (clarified butter) — buttery flavor without the milk solids that can burn
@@ -147,4 +147,4 @@ Add after baking to prevent burning and drying out.
 - Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
 - Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
 - Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
-- Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top
+- Honey Walnut: honey, butter, walnuts, a pinch of [[jadam-sea-salt-and-mineral-solutions]] flakes on top

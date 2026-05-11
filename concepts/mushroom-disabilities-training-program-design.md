@@ -1,5 +1,5 @@
 ---
-title: mushroom-cultivation mushroom [[mushroom-cultivation-disabilities-training-manual-overview]] [[cervantes-breeding-program-design-goal-setting]] Design for People with Disabilities
+title: Mushroom Disabilities Training Program Design
 tags: [mushroom, disability, training, program-design, fao, empowerment, cultivation]
 date: 2026-04-28
 updated: 2026-04-28

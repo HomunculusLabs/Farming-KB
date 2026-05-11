@@ -15,7 +15,7 @@ tags: [medicine, mushroom-cultivation, mushrooms]
 Beta-glucans are the primary bioactive polysaccharides responsible for the
 immunomodulatory and antitumour properties of medicinal mushrooms. These
 compounds are [[medicinal-mushrooms-biological-response-modifiers]] modifiers (BRMs) that activate or augment
-the host immune system rather than exerting direct cytotoxicity against cancer
+the [[fungal-virulence-factors-host-immune-evasion]] system rather than exerting direct cytotoxicity against cancer
 cells, though some evidence suggests direct cytotoxic effects for certain
 mushroom polysaccharides as well. Mushroom-derived polysaccharides are
 classified as multi-cytokine inducers able to induce gene expression of
@@ -47,13 +47,13 @@ by size rather than by exact chemical structure.
 
 ## Major Beta-Glucan Products in Clinical Use
 
-Key products that have undergone Phase I, II, and III clinical trials mainly
+Key products that have undergone Phase I, II, and III [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] mainly
 in Japan and China but now also in the US:
 
-  - Lentinan from Lentinus edodes (Shiitake) -- approved drug in Japan
-  - Schizophyllan from Schizophyllum commune -- approved drug in Japan
+  - Lentinan from [[lentinus-edodes-entity-the-mushroom-cultivator]] (Shiitake) -- approved drug in Japan
+  - Schizophyllan from [[schizophyllum-commune]] -- approved drug in Japan
   - PSK (Krestin) from [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] mycelium -- approved drug in Japan
-  - PSP from Trametes versicolor mycelium -- recognised drug in China
+  - PSP from [[staycare-trametes-versicolor-bioremediation-applications]] mycelium -- recognised drug in China
   - Grifron-D from [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake) -- FDA IND approved
 
 All are effective by intravenous route; several can also be effective orally.
@@ -76,7 +76,7 @@ Resulting immune cascade:
   - Acute phase proteins and colony-stimulating factors increase
   - B-cell antibody production enhanced
   - Helper T cell production and cytotoxic T cell differentiation promoted
-  - Dendritic cell activation
+  - Dendritic [[mushroom-immune-cell-activation-mechanisms]]
 
 Beta-glucans can also override the resistance of iC3b-opsonized tumour cells
 to cytotoxic activation, allowing complement-mediated defence against tumours.
@@ -88,43 +88,3 @@ relying on the specificity of the antibody.
 Lentinan and Schizophyllan are the two best-studied beta-D-glucans. Both
 consist of a main chain of (1->3)-linked beta-D-glucopyranosyl units with
 (1->6)-linked branch units at intervals of approximately three main chain
-units (branching degree 0.33). Lentinan has an average molecular weight of
-~500,000 daltons; Schizophyllan ~450,000 daltons. Both appear active only
-in single helical conformation. Lentinan is a pure glucose polymer (no
-nitrogen, phosphorus, or sulphur), water-soluble, heat-stable, and
-acid-stable.
-
-## Harvest and Storage Factors
-
-Beta-glucan concentration varies with fruitbody development stage and
-post-harvest storage. Immunomodulating activity of L. edodes extracts
-decreased rapidly after 7 days at 20 degrees C due to internal beta-glucanase
-degradation of lentinan, but was preserved at 1-5 degrees C. Activity
-increased during growth and development then decreased at final maturation,
-paralleling beta-glucan concentration. This has implications for both
-pharmaceutical production and functional food applications.
-
-## Safety Profile
-
-Safety criteria for mushroom-derived beta-glucans have been exhaustively
-studied. Acute, subacute, and chronic toxicity tests showed no adverse
-effects. No anaphylactic reactions, mutagenicity, genotoxicity, or haemolysis
-were observed. Administration during pregnancy and lactation showed no adverse
-effects. In Phase I human clinical tests, beta-glucans demonstrated remarkably
-few adverse reactions. Several purified mushroom polysaccharides have been in
-clinical use in Japan, China, and the US for years with no reports of
-significant short-term or long-term [[blesching-cannabis-safety-adverse-effects-evidence]].
-
-## Key Source
-
-Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic
-properties and current medical usage with special emphasis on cancer
-treatments. University of Strathclyde.
-- [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
-- [[grifron-d-maitake-beta-glucan]]
-- fungal-carbon-storage-mycorrhizal-pathways
-- [[schizophyllum-commune-schizophyllan-cancer]]
-
-## See Also
-
-- [[beta-glucans]]

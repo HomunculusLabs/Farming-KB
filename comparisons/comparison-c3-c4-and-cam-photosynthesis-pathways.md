@@ -1,5 +1,5 @@
 ---
-title: "C3 vs C4 vs comparison c3 c4 and [[c4-and-cam-photosynthesis]] pathways Pathways"
+title: Comparison C3 C4 And Cam Photosynthesis Pathways
 created: 2026-04-28
 tags:
   - photosynthesis

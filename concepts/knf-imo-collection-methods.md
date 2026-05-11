@@ -1,7 +1,7 @@
 ---
-title: "KNF bahay-kubo-imo-collection-and-preparation Methods"
+title: Knf Imo Collection Methods
 created: 2026-04-28
-tags: [knf, natural-farming, imo, microorganisms, soil-health]
+tags: [knf, [[natural-farming]], imo, microorganisms, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [chos-global-natural-farming.md]
@@ -12,7 +12,7 @@ type: concept
 
 [[beneficial-indigenous-microorganisms-bim]] (IMOs) can be collected using three distinct
 methods described in Cho's Global [[comparison-natural-farming-vs-permaculture]]. Each method targets
-different microbial communities from specific environments, enabling
+different [[cannabis-rhizosphere-microbial-communities]] from specific environments, enabling
 farmers to build broad microbial diversity in their preparations.
 
 ## Overview of IMO Collection
@@ -55,7 +55,7 @@ field soil where microbial life is abundant and diverse.
 4. Cover with dry leaves to protect from sun and rain.
 5. After 3 days (5 days in winter), the rice will be covered with
    microorganisms indicating successful collection.
-6. Transfer the IMO-covered rice to a clay pot or glass jar (IMO-1).
+6. Transfer the IMO-covered rice to a clay pot or [[jarrold-glass-jar-spore-print-collection-drying]] (IMO-1).
 7. Mix jaggery with IMO-1 in 1:1 ratio (e.g., 1 kg jaggery to 1 kg
    IMO-1) to create IMO-2. Cover and store in a cool, shaded place.
 
@@ -88,46 +88,3 @@ natural juices and the shaded, humid microclimate they create.
    in 1:1 ratio to create IMO-2.
 
 Unique advantage: Bamboo juice provides additional nutrients and the
-grove microclimate favors diverse fungal species not found in open
-soil environments.
-
-## Method 3: Collection from Paddy Field
-
-Paddy fields after harvest provide field-adapted microbes particularly
-suitable for crop application.
-
-### Materials Needed
-1. Wooden box filled three-quarters with steamed rice
-2. Steel wire net (to prevent mice and rats)
-3. Plastic sheet and jaggery or brown sugar
-
-### Procedure
-1. Immediately after paddy harvest, cover rice stumps with the rice-
-   filled wooden boxes facing downward so rice contacts the stumps.
-2. Cover with steel wire net to prevent rodent access.
-3. Cover with plastic sheet for rain protection while allowing some
-   air circulation.
-4. After approximately 4 days, fungal growth on the rice indicates
-   successful collection.
-5. Transfer the fungi-covered rice to a clay pot (IMO-1), mix with
-   jaggery in 1:1 ratio to create IMO-2.
-
-Unique advantage: Microbes are already adapted to agricultural soil
-conditions and integrate more readily into crop soils.
-
-## Combining Collection Methods
-
-Dr. Cho recommends collecting IMOs using multiple methods and from
-different environments to maximize microbial diversity. Farmers should
-aim to collect from all four directions of their field, and from
-varied environments including mountains, summits, valleys, and
-trenches. Samples from high mountains or uncontaminated regions
-introduce particularly resilient microbes into the mixture. The
-principle of mixing microorganisms from various sources ensures a
-broad spectrum of beneficial organisms capable of thriving under
-diverse field conditions throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-## See Also
-- [[growing-gourmet-global-environmental-shift-loss-fungal-diversity]]
-- [[chos-global-natural-farming-input-reduction-methods]]
-- [[fungal-species-estimation-methods-total-diversity]]

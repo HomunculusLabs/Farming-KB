@@ -1,5 +1,5 @@
 ---
-title: Street Sample Alkaloid Variability and Dosage Unpredictability in [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
+title: Street Sample Alkaloid Variability Dosage Unpredictability Bigwood Beug
 created: 2026-05-09
 tags: [mycology, psilocybin, street-samples, alkaloid-variability, dosage, ethnopharmacology, variability]
 date: 2026-05-09
@@ -88,51 +88,3 @@ entirely but is not available to those who rely on natural mushroom material.
 
 For therapeutic contexts where whole mushrooms are used, the ten-fold
 variability in potency means that dosing protocols must incorporate large
-safety margins or employ analytical testing of each batch before use. The
-practical challenges of batch testing include the need for HPLC or GC-MS
-equipment, the destructive nature of the testing process, and the
-heterogeneity of [[alkaloid-distribution-mushroom-caps-stems]] within individual mushrooms.
-
-## Historical Context and Harm Reduction
-
-The Bigwood and Beug findings were published in 1982, during a period when
-psilocybin mushrooms were widely used recreationally but poorly understood
-chemically. Their data provided an early scientific basis for harm reduction
-messages about dosage uncertainty. The recommendation to start with a small
-test dose when consuming mushrooms from an unfamiliar source derives directly
-from the type of variability documented in their study.
-
-Modern harm reduction resources continue to cite dosage variability as a
-key risk factor in mushroom use. The development of psilocybin testing
-services, which use colorimetric reagents or portable analytical devices to
-estimate mushroom potency, represents an attempt to address the fundamental
-unpredictability first quantified by Bigwood and Beug.
-
-## Factors Contributing to Street Sample Variability
-
-The gap between controlled-culture variability and street-sample variability
-can be attributed to several factors operating in commercial cultivation and
-distribution:
-
-1. **Strain genetics**: Different strains produce different alkaloid profiles,
-   as demonstrated by the cap-stem distribution data across M.R., Equadorian,
-   and Amazon strains
-2. **Flush number**: Early flushes may contain higher psilocybin but lower
-   psilocin, while later flushes show the reverse pattern
-3. **Substrate composition**: Nutritional availability affects secondary
-   metabolite production, though rye-grain substrate was consistent across
-   reported street samples
-4. **Harvest timing**: Mushrooms harvested at different maturity stages
-   may show different alkaloid concentrations
-5. **Drying and storage**: Improper drying or extended storage may degrade
-   psilocybin, though psilocybin is relatively stable under typical conditions
-6. **Sample adulteration**: Some street samples may contain material from
-   multiple batches or species
-
-## See Also
-
-- [[street-sample-alkaloid-variability]]
-- [[psilocybin-potency-variation]]
-- [[dosage-unpredictability-psilocybin-subjective-experience]]
-- psilocybin potency and dosage guide
-- [[psilocybin-mushroom-dosage-and-acute-effects]]

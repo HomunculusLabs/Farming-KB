@@ -1,5 +1,5 @@
 ---
-title: "PF pf-tek-alcohol-extraction-method Flaming Sterilization Method"
+title: Pf Tek [[inoculation-technique-and-alcohol-flaming]] [[sterilization]] Method
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 topics: alcohol flame, needle sterilization, denatured alcohol, butane vs alcohol
 created: 2026-05-08
@@ -88,54 +88,3 @@ Fanaticus specified that needle flaming is necessary when:
 
 For initial use of a fresh syringe straight from the supplier,
 flaming may not be necessary if the syringe is still sealed and
-sterile.
-
-## Denatured Alcohol Specifications
-
-### Source
-Denatured alcohol fuel is available at hardware stores. It is
-sold as a general-purpose fuel for alcohol burners and camping
-stoves.
-
-### Properties
-- Burns with a clean blue flame
-- Leaves minimal residue when properly combusted
-- Evaporates quickly, leaving surfaces clean
-- Inexpensive and widely available
-
-### Safety Notes
-- Denatured alcohol is toxic and should not be ingested
-- Work in a well-ventilated area
-- Keep away from open containers of alcohol or flammable
-  materials
-- The flame is nearly invisible in bright light — be aware
-  of the flame location at all times
-
-## Comparison with Alternative Sterilisation Methods
-
-| Method | Pros | Cons |
-|--------|------|------|
-| Alcohol flame | Clean, no soot, precise | Requires fuel, setup |
-| Butane lighter | Convenient, portable | Leaves soot residue |
-| Isopropyl swab | Simple, no flame | [[microwave-trace-water-surface-sterilisation-protocol]] only |
-| Autoclave/PC | Hospital-grade | Overkill for needle tip |
-
-The alcohol flame occupies the ideal middle ground for the PF Tek:
-sufficiently clean for substrate inoculation while remaining
-accessible to home cultivators without specialised equipment.
-
-## Historical Context
-
-The alcohol flaming technique was part of Fanaticus's broader
-philosophy of enabling [[accessible-mushroom-cultivation-for-disabilities]] using "common kitchen
-utensils and easy to get supplies." By describing a sterilisation
-method that uses a tequila shotglass and hardware store alcohol
-rather than laboratory-grade equipment, he maintained the PF Tek's
-accessibility for first-time cultivators while ensuring adequate
-sterility.
-
-## See Also
-- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
-- [[pf-tek-contaminant-source-identification]]
-- [[pf-tek-spore-printing-and-syringe-preparation]]
-- [[inoculation-technique-and-alcohol-flaming]]

@@ -21,9 +21,9 @@ Bitter herbs are essential in beer to balance the sweetness of malt sugars. With
 
 - Sweet gale (Myrica gale): Resinous, aromatic bitterness with notes of bayberry and camphor. The primary gruit bittering herb. Contains [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] compounds with anti-inflammatory properties.
 
-- Yarrow (Achillea millefolium): Herbal, chamomile-like bitterness with peppery notes. A versatile bittering agent that also has medicinal properties including anti-inflammatory and diaphoretic effects.
+- Yarrow ([[achillea-millefolium]]): Herbal, chamomile-like bitterness with peppery notes. A versatile bittering agent that also has medicinal properties including anti-inflammatory and diaphoretic effects.
 
-- Wormwood (Artemisia absinthium): Extremely bitter, used sparingly. Provides an intensely herbal, slightly anise-like character. Contains thujone and should be used in moderation.
+- Wormwood ([[artemisia-absinthium]]): Extremely bitter, used sparingly. Provides an intensely herbal, slightly anise-like character. Contains thujone and should be used in moderation.
 
 - Mugwort (Artemisia vulgaris): Moderate bitterness with a distinctive herbal aroma. Related to wormwood but milder. Used in European and Asian brewing traditions.
 
@@ -43,7 +43,7 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 
 - Elderflower (Sambucus nigra): Lychee-like, floral, slightly muscat. Popular in modern craft brewing. Use flowers only; other plant parts contain toxic compounds.
 
-- Lavender (Lavandula angustifolia): Intensely floral, slightly camphoraceous. Use very sparingly to avoid a soapy character.
+- Lavender ([[lavandula-angustifolia]]): Intensely floral, slightly camphoraceous. Use very sparingly to avoid a soapy character.
 
 - Rose petals (Rosa species): Floral, perfumed, slightly sweet. Best used in light ales and wheat beers.
 
@@ -63,7 +63,7 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 
 ## Root and Bark Ingredients
 
-- Sassafras root (Sassafras albidum): Root beer character, sweet and creamy. Note: safrole content is regulated in some countries.
+- Sassafras root ([[sassafras-albidum]]): Root beer character, sweet and creamy. Note: safrole content is regulated in some countries.
 
 - Sarsaparilla (Smilax species): Earthy, vanilla-like, slightly bitter. The classic root beer ingredient.
 
@@ -71,13 +71,13 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 
 - Cinnamon bark (Cinnamomum species): Warm, sweet, spicy. Use in winter beers and spiced ales.
 
-- Dandelion root (Taraxacum officinale): Earthy, slightly bitter, roasted character. Can be roasted like coffee for deeper flavor.
+- Dandelion root ([[taraxacum-officinale]]): Earthy, slightly bitter, roasted character. Can be roasted like coffee for deeper flavor.
 
 - Ginger root (Zingiber officinale): Spicy, warming, aromatic. Works well in many beer styles.
 
 ## Fruit Ingredients
 
-- Juniper berries (Juniperus communis): Piney, resinous, slightly sweet and fruity. Essential in sahti-style Finnish beer.
+- Juniper berries ([[juniperus-communis]]): Piney, resinous, slightly sweet and fruity. Essential in sahti-style Finnish beer.
 
 - Elderberries (Sambucus nigra): Tart, fruity, deep purple color. Use with caution as they can be strongly flavored.
 
@@ -88,34 +88,3 @@ Aromatic herbs contribute fragrance and complex flavor without significant bitte
 - Rose hips (Rosa species): Tart, fruity, high in vitamin C. Adds a pleasant acidity.
 
 ## Psychoactive and Entheogenic Herbs
-
-Historical and indigenous brewing traditions sometimes incorporated herbs with psychoactive properties. These should be approached with caution and thorough research:
-
-- Wild rosemary (Ledum palustre): Sedative properties due to ledol content. A traditional gruit ingredient.
-
-- Henbane ([[henbane-hyoscyamus-niger-ethnobotany]]): Potentially toxic tropane alkaloids. Historically used in some European ales but dangerous in incorrect doses.
-
-- Betony (Betonica officinalis): Mildly relaxing, used in medieval herbal beers.
-
-- Valerian root (Valeriana officinalis): Sedative, calming. Used in some traditional European brewing.
-
-- Blue lotus (Nymphaea caerulea): Mildly euphoric, used in ancient Egyptian brewing.
-
-## Practical Guidelines for Herbal Brewing
-
-When brewing with herbs, several general principles apply:
-
-- Fresh herbs generally provide better flavor than dried, but dried herbs are more convenient and available year-round
-- Delicate herbs and flowers should be added late in the boil or after fermentation to preserve volatile aromatics
-- Robust herbs and roots can be added during the boil for thorough extraction
-- Start with small quantities and taste before adding more -- herbal flavors can be overwhelming
-- Some herbs interact with each other in complex ways; start with simple blends before experimenting with complex mixtures
-- Always research the [[cannabis-safety-profile-and-overdose-risk]] of any herb before using it in a beverage intended for consumption
-- Many traditional brewing herbs have medicinal properties; consider these effects when designing recipes
-
-## See Also
-
-- [[sacred-brewing-traditions]] for the spiritual context of herbal brewing
-- [[hops-history-and-brewing]] for the herb that replaced most others
-- [[root-beer-making]] for non-alcoholic herbal brewing
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]

@@ -1,12 +1,12 @@
 # McKenna's Manifesto — Habit, Obsession, and the Drug Dilemma
 
 ## Source
-*Terence McKenna — Food of the Gods (1992)*
+*[[terence-mckenna]] — Food of the Gods (1992)*
 
 ## Summary
 McKenna's introduction to *Food of the Gods* frames the global drug crisis not as a
-law enforcement problem but as a cultural and philosophical failure to understand the
-nature of habit and the distinction between different types of psychoactive substances.
+[[cervantes-grow-room-security-law-enforcement]] problem but as a cultural and philosophical failure to understand the
+nature of habit and the distinction between different types of [[cultural-evolution-and-psychoactive-substances]].
 He argues that all culture is ultimately habit, that obsessions arise when devotion to
 habits exceeds cultural norms, and that the current pandemic of drug use cannot be
 addressed without a hard-eyed reappraisal of the relationship between human beings and
@@ -43,7 +43,7 @@ life while others criminalize them.
 
 A specter is haunting planetary culture — the specter of drugs. The definition of
 human dignity created by the Renaissance and elaborated into the democratic values of
-modern Western civilization seems on the point of dissolving. Previously obscure forms
+modern [[eleusinian-mysteries-psychoactive-fungi-western-civilization]] seems on the point of dissolving. Previously obscure forms
 of chemical use now freely compete in a largely unregulated global marketplace. Whole
 governments and nations in the Third World are held in thrall by legal and illegal
 commodities promoting obsessional behavior.
@@ -88,47 +88,3 @@ toward psychoactive substances. The legal substances are overwhelmingly those th
 serve the dominator agenda — substances that deaden perception, reinforce social
 conformity, and create dependence — while the illegal substances are those that
 expand consciousness, challenge authority, and promote visionary experience.
-
-## Toward a New Understanding
-
-The manifest failure of the drug war — with its enormous costs in money, lives, and
-civil liberties — suggests that a fundamentally different approach is needed. McKenna
-proposed that we must distinguish clearly between substances that enslave and
-substances that liberate, between habits that diminish and habits that enlarge the
-human spirit, and between cultural norms that serve power and those that serve
-genuine human flourishing. Only such a distinction can provide the basis for a sane
-drug policy and a healthy relationship with the extraordinary pharmacological
-wealth that the natural world offers.
-
-## The Archaic Revival Structure
-
-McKenna organized his argument into four historical phases. "Paradise" covers the
-original partnership between humans and psychoactive plants in shamanic cultures,
-where hallucinogens served as catalysts for community bonding, healing, and religious
-experience. "Paradise Lost" traces the displacement of these visionary substances by
-addictive ones — alcohol replacing the Eleusinian kykeon, sugar and caffeine
-spreading through colonial trade routes. "Hell" examines the modern era of hard drugs,
-synthetic narcotics, and what McKenna called "electronic drugs" — television and mass
-media that function as society-sanctioned forms of numbing intoxication. "Paradise
-Regained" explores the possibility of a conscious recovery of the visionary dimension
-through the responsible use of psychedelic substances.
-
-This historical framework is not merely descriptive but prescriptive: by understanding
-how humanity arrived at its current dysfunctional relationship with psychoactive
-substances, we can begin to envision a more sane and integrated approach.
-
-## The Role of Electronic Media
-
-McKenna's inclusion of television as a "drug" was among his most provocative arguments.
-He suggested that the passive consumption of electronic media produces effects
-functionally similar to those of addictive substances — altered consciousness,
-diminished critical thinking, dependency, and withdrawal symptoms. The irony, he
-noted, is that the same society that criminalizes plant-based psychedelics actively
-encourages the consumption of electronic media, suggesting that the drug war is not
-really about protecting public health but about controlling the types of consciousness
-that are accessible to the population.
-
-## See Also
-- [[mckenna-specter-drugs-manifesto-new-thought-psychoactive-substances]]
-- [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]
-- [[mckenna-sugar-slavery-dominator-culture-commodities]]

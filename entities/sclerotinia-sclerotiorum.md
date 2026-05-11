@@ -16,14 +16,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Sclerotinia sclerotiorum is one of the most destructive and broadly
-distributed necrotrophic plant pathogens, with a host range exceeding
+distributed necrotrophic plant pathogens, with a [[powdery-mildews-erysiphaceae-diversity-host-range]] exceeding
 400 plant species. It causes white mold (also called cottony rot or
 watery [[staycare-soft-rot-fungi-in-pollutant-degradation]]) on economically important crops including soybean,
 canola, dry bean, lettuce, sunflower, and many vegetables. The species
 is characterized by its production of large, melanized sclerotia that
 serve as long-term survival structures. The source text extensively
 documents S. sclerotiorum as a target for [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]], with
-numerous mycoparasitic fungi colonizing and degrading its sclerotia in
+numerous [[biodiversity-fungicolous-mycoparasitic-fungi]] colonizing and degrading its sclerotia in
 soil environments.
 
 ## Taxonomy and Classification
@@ -54,7 +54,7 @@ soil environments.
   serve as primary inoculum
 
 ### Ecology and Habitat
-- Cosmopolitan distribution across temperate and subtropical
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and subtropical
   agricultural regions
 - Sclerotia survive in soil for 3 to 10 or more years
 - Infection is favored by cool, moist conditions (15 to 25
@@ -78,61 +78,13 @@ soil environments.
   sclerotia in soil
 
 ### Mycoparasitic Interactions
-- Coniothyrium minitans is the most common and best-studied
+- [[coniothyrium-minitans]] is the most common and best-studied
   parasite of S. sclerotiorum, distributed worldwide
   (Turner and Tribe 1976; Whipps and Gerlagh 1992)
 - C. minitans produces beta-1,3 glucanase and chitinase and
   does not form appressoria (Huang and Kokko 1988)
-- Combined application of C. minitans with Talaromyces flavus
+- Combined application of C. minitans with [[talaromyces-flavus]]
   showed nearly equivalent biocontrol effects (McLaren et
   al. 1994)
-- Sporidesmium sclerotivorum parasitizes S. sclerotiorum via
+- [[sporidesmium-sclerotivorum]] parasitizes S. sclerotiorum via
   haustorial branches (haustorial interaction type)
-- Hypomyces chrysospermus has been reported as a mycoparasite
-  of S. sclerotiorum
-- Clonostachys (Gliocladium) rosea f. catenulata is an
-  efficient destructive parasite of S. sclerotiorum,
-  contacting sclerotia with pseudoappressoria (Huang 1978)
-- Trichoderma koningii, T. harzianum, and T. pseudokoningii
-  parasitize S. sclerotiorum sclerotia (Dos Santos and
-  Dhingra 1982)
-- Trichoderma virens also destroys sclerotia of S.
-  sclerotiorum in soil
-- Sclerotia of S. sclerotiorum serve as baits for
-  mycoparasitic Pythium species (Ribeiro and Butler 1992)
-- Gerlagh and Vos (1991) developed methods for enriching
-  soil with sclerotia to isolate antagonists
-
-### Life Cycle
-- Sclerotia germinate either myceliogenically (producing
-  hyphae that directly infect nearby plant tissues) or
-  carpogenically (producing apothecia with ascospores)
-- Ascospores are wind-dispersed and land on senescing
-  flower petals or other nutrient sources on host plants
-- Infection proceeds through production of oxalic acid and
-  cell-wall-degrading enzymes
-- Sclerotia form within infected tissues and return to soil
-  at plant senescence
-
-### Research Methods
-- Sclerotia used as bait for recovering mycoparasites from
-  soil (Gerlagh and Vos 1991)
-- Selective isolation of mycoparasites using soil crumbs on
-  host culture plates (Deacon and Henry 1978)
-- PCR-based [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- Sclerotial viability assays to assess biocontrol efficacy
-
-## Relevance
-Sclerotinia sclerotiorum is one of the most important targets for
-biological control in plant pathology. The extensive documentation of
-mycoparasitic fungi attacking its sclerotia in the source text
-illustrates the rich diversity of natural enemies available for
-biocontrol development. Managing white mold through integration of
-biological, cultural, and chemical approaches remains a major priority
-in sustainable agriculture.
-
-## See Also
-
-- [[trichoderma-viride]]
-- [[pythium-ultimum]]
-- [[penicillium-expansum]]

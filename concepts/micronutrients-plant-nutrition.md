@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md"
 ---
 
@@ -87,49 +88,3 @@ The classic [[cervantes-micronutrient-deficiency-chelation]] problem. Iron may b
 More common than deficiency in acid soils. Manganese toxicity causes brown spots on older leaves and can induce iron deficiency.
 
 ## Zinc (Zn)
-
-### Functions
-- Essential for auxin (growth hormone) synthesis
-- Activates many enzymes
-- Involved in protein synthesis and seed production
-- Important for membrane integrity
-
-### Deficiency Symptoms
-- "Little leaf" — reduced leaf size
-- Interveinal chlorosis
-- Shortened internodes (rosetting)
-- Most common in high-pH, phosphorus-rich, or sandy soils
-
-### Interaction with Phosphorus
-Excessive phosphorus can induce [[query-how-to-fix-zinc-deficiency-in-cannabis]] by reducing zinc availability or uptake. This is a common problem in heavily fertilized soils.
-
-## Copper (Cu)
-
-### Functions
-- Essential for lignin synthesis (cell wall strength)
-- Component of plastocyanin (electron transport in photosynthesis)
-- Involved in pollen formation and seed viability
-- Activates several enzymes
-
-### Deficiency Symptoms
-- Wilting of younger leaves (despite adequate water)
-- Tip death
-- Reduced seed set
-- Most common in peaty or sandy soils
-
-### Toxicity
-Can occur in soils with high copper from repeated fungicide applications. Causes iron deficiency-like symptoms.
-
-## General Principles
-
-### pH is Critical
-Most micronutrients become less available at high pH. Maintaining appropriate [[ozier-pdc-composting-and-soil-building]] and organic amendments are excellent micronutrient sources.
-
-### The Danger of Excess
-Because micronutrients are needed in tiny amounts, it is very easy to over-apply and cause toxicity. Symptoms of micronutrient toxicity are often similar to deficiency symptoms of other nutrients, making diagnosis difficult.
-
-### Soil Testing
-Regular [[ph-and-nutrient-availability-garden-soils]]
-- [[glomalin-and-soil-carbon]]
-- [[garden-soil-terminology-glossary]]
-- [[plant-cell-membrane-transport-proteins]]

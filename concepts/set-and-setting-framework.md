@@ -8,12 +8,12 @@ sources:
   - "raw/papers/leary-t-the-psychedelic-experience.md"
 ---
 
-The set and setting framework is the foundational principle for understanding
+The [[lsd-set-and-setting-framework]] framework is the foundational principle for understanding
 and managing psychedelic experiences. First articulated by Timothy Leary, Ralph
-Metzner, and Richard Alpert in the 1960s, it posits that the character of a
+Metzner, and [[richard-alpert]] in the 1960s, it posits that the character of a
 psychedelic experience is determined primarily by two factors: "set" (the
 internal state and expectations of the person) and "setting" (the external
-environment, social context, and cultural framework). This deceptively simple
+environment, [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]], and cultural framework). This deceptively simple
 framework has been validated by decades of [[hofmann-lsd-clinical-research-early-studies]] and remains the
 single most important concept for safe, beneficial psychedelic use.
 
@@ -57,7 +57,7 @@ Setting refers to the physical environment, social context, and cultural
 framework surrounding the psychedelic experience. Key components include:
 
 Physical environment — a comfortable, aesthetically pleasing space that feels
-safe and private is essential. In clinical research, this typically means a
+safe and private is essential. In [[lentinan-clinical-research]], this typically means a
 quiet room with dim lighting, comfortable furnishings, and access to nature
 elements (plants, art, music). The setting should be free from unexpected
 interruptions, loud noises, and unfamiliar or threatening stimuli.
@@ -71,7 +71,7 @@ maximizes privacy and self-direction.
 
 Musical accompaniment — music is consistently identified as one of the most
 important elements of psychedelic session settings. Research has shown that the
-emotional quality and structural features of music during psychedelic sessions
+emotional quality and [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of music during psychedelic sessions
 significantly influence the experience. Classical, ambient, and sacred music
 traditions are commonly used in clinical protocols, with a curated playlist that
 builds in emotional intensity during the peak period.
@@ -86,40 +86,5 @@ therapeutic models.
 ## Clinical Application
 
 In modern [[metzner-psycholytic-psychedelic-therapy-models]], set and setting are carefully optimized as part of
-the treatment protocol. Preparation sessions (typically 1-3 meetings before the
+the [[ingham-aact-leaf-curl-taphrina-treatment-protocol]]. Preparation sessions (typically 1-3 meetings before the
 psychedelic session) address the "set" component: building therapeutic alliance,
-discussing intentions, managing expectations, and providing education about what
-to expect. The session environment is carefully controlled for "setting": a
-quiet, comfortable room; trained guides present throughout; a curated music
-playlist; eye shades to encourage inward focus; and minimal interruption.
-Post-session integration sessions help participants make meaning of their
-experience and translate insights into lasting change.
-
-## Harm Reduction
-
-The set and setting framework is the cornerstone of psychedelic harm reduction.
-The most common negative outcomes — anxiety reactions, "bad trips," and
-post-experience distress — are almost always attributable to inadequate attention
-to set or setting: proceeding despite fear or instability (poor set), using in
-chaotic or threatening environments (poor setting), or lacking adequate support
-during difficult experiences. See psychedelic-harm-reduction for comprehensive
-[[psychedelic-safety-guidelines-turner]] based on the set and setting principle.
-
-## Cross-Cultural Validation
-
-The set and setting framework finds validation in virtually every psychedelic-
-using culture. Indigenous traditions invest enormous effort in preparing
-participants (dietary restrictions, purification rituals, intention-setting) and
-creating ceremonial containers (sacred spaces, trained facilitators, prescribed
-music and prayers) — precisely the principles that modern research has
-independently identified as crucial. The convergence between traditional
-knowledge and clinical science on this point is one of the strongest arguments
-for taking indigenous psychedelic practices seriously as sources of practical
-wisdom.
-
-## Related
-
-- [[psychedelic-therapy-set-and-setting]]
-- [[psychedelic-harm-reduction]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[psychedelic-safety-and-harm-reduction]]

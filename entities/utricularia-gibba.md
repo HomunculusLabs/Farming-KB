@@ -40,9 +40,9 @@ Authority: L. (1753). The epithet "gibba" means "humped," referring to the shape
 
 ## Distribution and Habitat
 
-U. gibba has a cosmopolitan distribution spanning tropical, subtropical, and warm temperate regions worldwide. It is found in North, Central, and South America, Europe, Africa, Asia, and Australia.
+U. gibba has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] spanning tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. It is found in North, Central, and [[guzman-psilocybin-mushrooms-south-america]], Europe, Africa, Asia, and Australia.
 
-The species colonizes a wide variety of aquatic habitats. These include ponds, ditches, marshes, slow-moving streams, rice paddies, and temporary pools.
+The species colonizes a wide variety of [[biodiversity-fungi-freshwater-aquatic-habitats]]. These include ponds, ditches, marshes, slow-moving streams, rice paddies, and temporary pools.
 
 U. gibba tolerates both acidic and alkaline conditions. It frequently grows as a weed in artificial water bodies including aquaria, water gardens, and irrigation canals.
 
@@ -80,44 +80,10 @@ Control is difficult once established. Manual removal of stolons provides only t
 
 ## Ecological Significance
 
-U. gibba plays an important ecological role in aquatic food webs. By preying on zooplankton and micro-invertebrates, it influences [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and population dynamics in freshwater ecosystems.
+U. gibba plays an important ecological role in aquatic food webs. By preying on zooplankton and micro-invertebrates, it influences [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] in freshwater ecosystems.
 
 The species can reach high population densities in nutrient-enriched waters. Dense mats of U. gibba stolons provide habitat and shelter for small aquatic organisms including insect larvae.
 
 In some regions, U. gibba is used as a bioindicator of water quality. Its presence and abundance correlate with specific nutrient and pH conditions in freshwater habitats.
 
 Research has demonstrated that U. gibba traps undergo developmental plasticity in response to prey availability. Plants in prey-rich environments produce more numerous and larger bladders than those in prey-poor conditions.
-
-The bladderwort's capture of mosquito larvae has prompted interest in its potential as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent. However, its effectiveness varies with trap density and water conditions.
-
-U. gibba also contributes to carbon cycling in freshwater ecosystems. Through photosynthesis and prey digestion, it mediates the transfer of both organic and inorganic carbon between trophic levels.
-
-## Related Species
-
-U. gibba belongs to the section Utricularia within the genus, which contains aquatic and amphibious species. Its closest relatives include U. vulgaris and U. australis.
-
-The genus Utricularia contains approximately 240 species, making it the largest genus of carnivorous plants. Species range from tiny aquatic forms to large epiphytic species in tropical forests.
-
-Hybridization is documented within the genus, though it is less common than in Sarracenia or Nepenthes. Natural hybrids typically show intermediate trap morphology.
-
-The bladderwort trapping mechanism is convergent with the suction-feeding strategy of some [[fungi-aquatic-animals-pathogens-parasites]]. This represents one of the most remarkable examples of convergent evolution between plant and animal kingdoms.
-
-## See Also
-
-- [[utricularia-sandersonii]]
-
-- [[clitocybe-gibba]]
-
-- [[drosera-rotundifolia]]
-- [[pinguicula-vulgaris]]
-- [[sarracenia-purpurea]]
-- [[nepenthes-mirabilis]]
-- nitrogen
-- adaptation
-- evolution
-- ecosystem
-- wetland
-- biodiversity
-- nutrition
-
-- [[utricularia-longifolia]]

@@ -9,9 +9,9 @@ sources: []
 
 ## What Is Kimchi
 
-Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on lactic acid bacteria (LAB) naturally present on the vegetables, which convert sugars into lactic acid, preserving the vegetables and developing complex sour, umami, and spicy flavors. (see [[food-fermentation-guide]]).
+Kimchi is a traditional Korean fermented vegetable dish, most commonly made with napa cabbage and Korean chili flakes (gochugaru). It is Korea's national dish and a cornerstone of Korean cuisine, with hundreds of regional and seasonal varieties. The fermentation process relies on [[bionutrients-lab-lactic-acid-bacteria-serum]] (LAB) naturally present on the vegetables, which convert sugars into [[knf-lactic-acid-bacteria-serum]], preserving the vegetables and developing complex sour, umami, and spicy flavors.
 
-Kimchi is a living food — it continues to ferment and evolve in flavor over weeks and months. Fresh kimchi is crisp and mildly tangy, while well-aged kimchi (mugeun-ji) develops deep sourness and is prized for stews and fried rice. (see [[comparison-fermented-vegetables-vs-canning]]).
+Kimchi is a living food — it continues to ferment and evolve in flavor over weeks and months. Fresh kimchi is crisp and mildly tangy, while well-aged kimchi (mugeun-ji) develops deep sourness and is prized for stews and fried rice.
 
 ## Core Ingredients
 
@@ -26,7 +26,7 @@ The foundation of the most common kimchi variety (baechu-kimchi).
 
 ### Salt
 
-- Coarse sea salt (Korean sea salt / cheongju-gyeom preferred) — fine salt dissolves too quickly and makes cabbage overly soft
+- Coarse [[jadam-sea-salt-and-mineral-solutions]] (Korean [[jadam-sea-salt-use]] / cheongju-gyeom preferred) — fine salt dissolves too quickly and makes cabbage overly soft
 - Do not use iodized table salt
 - Salt concentration in brine: roughly 8-10% (about 1/2 cup salt per gallon of water)
 
@@ -137,7 +137,7 @@ Refrigeration at any point slows fermentation dramatically. Kimchi keeps in the 
 
 ## Health Benefits
 
-- Rich source of lactic acid bacteria (Lactobacillus, Leuconostoc, Weissella species)
+- Rich source of [[cho-lactic-acid-bacteria-preparation]] (Lactobacillus, Leuconostoc, Weissella species)
 - High in vitamins A, B, C, and K
 - Contains dietary fiber from the vegetables
 - Capsaicin from gochugaru has anti-inflammatory properties

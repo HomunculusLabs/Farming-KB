@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Tutin, T.G. (1993). "Ranunculus L." Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - Whittemore, A.T. (1997). "Ranunculus." Flora of North America North of Mexico, Vol. 3. Oxford University Press.
+  - Whittemore, A.T. (1997). "Ranunculus." Flora [[berry-growing]] North of Mexico, Vol. 3. Oxford University Press.
   - Turner, N.J. (1984). "Counter-irritant and other medicinal uses of Ranunculus species." Journal of Ethnopharmacology, 11(2): 191-201.
   - Koning, C. et al. (2019). "Protoanemonin content in Ranunculus species." Phytochemistry, 157: 1-8.
   - Harper, J.L. (1957). "Ranunculus." Biological Flora of the British Isles, Journal of Ecology, 45: 289-342.
@@ -23,7 +23,7 @@ Ranunculus bulbosus, commonly known as bulbous buttercup, is a perennial herbace
 
 It is distinguished from other common buttercup species by its swollen, bulb-like stem base and reflexed sepals that curve sharply downward beneath the bright yellow petals. The species is native to Europe, western Asia, and northwestern Africa.
 
-It has been widely introduced to North America, Australasia, and other temperate regions where it naturalizes readily in pastures and open grasslands. Like all buttercups, Ranunculus bulbosus contains the toxic compound protoanemonin.
+It has been widely introduced to North America, Australasia, and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] where it naturalizes readily in pastures and open grasslands. Like all buttercups, Ranunculus bulbosus contains the toxic compound protoanemonin.
 
 This compound causes blistering upon contact with skin or mucous membranes and makes the plant strongly unpalatable to livestock.
 
@@ -62,9 +62,9 @@ Chromosome number is 2n = 16, consistent with most diploid Ranunculus species in
 
 Ranunculus bulbosus is native across most of Europe, from the British Isles and southern Scandinavia south to the Mediterranean, and eastward into western Asia and northwestern Africa.
 
-In North America, it is now naturalized in the northeastern United States, southeastern Canada, and parts of the Pacific Northwest.
+In North America, it is now naturalized in the northeastern United States, southeastern Canada, and parts of the [[psilocybin-north-america-pacific-northwest]].
 
-Smaller introduced populations occur in Australasia and southern South America, typically associated with European agricultural practices and pasture seed contamination.
+Smaller introduced populations occur in Australasia and southern South America, typically associated with European [[mycorrhizal-agricultural-practices]] and pasture seed contamination.
 
 The species thrives in dry, well-drained grasslands, pastures, meadows, roadsides, and sandy or gravelly soils. It strongly prefers calcareous or neutral pH conditions.
 
@@ -84,36 +84,6 @@ The plant is strongly unpalatable to grazing livestock due to its protoanemonin 
 
 Despite toxicity to mammals, several insect species specialize on Ranunculus foliage as larval host plants. The bulbous corm base allows the plant to survive drought, fire, and moderate soil disturbance.
 
-In grassland ecosystems, Ranunculus bulbosus acts as an early-season nectar source, supporting pollinator populations before later-flowering meadow species become available.
+In [[biodiversity-fungi-grassland-ecosystems]], Ranunculus bulbosus acts as an early-season nectar source, supporting pollinator populations before later-flowering meadow species become available.
 
-Its presence in pastures is often an indicator of overgrazing, as it increases when competitive grasses are suppressed. Effective control in agricultural settings requires improvement of drainage and reduction of grazing pressure to allow competitive species to recover.
-
-## Toxicity and Traditional Uses
-
-All parts of Ranunculus bulbosus contain ranunculin, an inactive glycoside that enzymatically converts to protoanemonin when plant tissues are crushed or damaged.
-
-Protoanemonin is an unsaturated gamma-lactone with strong irritant and vesicant properties. It is volatile and produces a sharp, acrid odor detectable when leaves are bruised.
-
-Symptoms of ingestion in livestock include excessive salivation, oral blistering, abdominal pain, and diarrhea.
-
-Severe poisoning can cause convulsions, though fatalities are rare because the acrid taste deters further consumption. Cattle and horses are most commonly affected, with sheep showing somewhat greater tolerance.
-
-The protoanemonin content peaks during flowering and decreases as the plant senesces. Dried hay containing Ranunculus bulbosus is considerably less toxic than fresh material because protoanemonin polymerizes to the less toxic anemonin upon drying.
-
-In traditional European folk medicine, crushed leaves were applied topically as counter-irritants for joint pain, rheumatism, and skin conditions. This practice was based on the plant's ability to cause localized blistering, which was believed to draw out deeper inflammation.
-
-Topical use has been largely abandoned due to the risk of severe dermatitis and scarring. Modern herbalism discourages any internal or external use of Ranunculus species.
-
-The species has no established culinary uses. Its acrid taste and toxic properties make it entirely inedible, and no processing method reliably eliminates the protoanemonin content from fresh tissue.
-
-## See Also
-
-- [[ranunculus-acris]] — Meadow buttercup, similar but with erect sepals
-- [[ranunculus-aquatilis]] — Aquatic buttercup, different habitat
-- [[ranunculus-repens]] — Creeping buttercup, stoloniferous relative
-- [[helleborus-niger]] — Christmas rose, fellow Ranunculaceae
-- [[anemone-nemorosa]] — Wood anemone, another Ranunculaceae genus
-- [[aconitum-napellus]] — Monkshood, highly toxic Ranunculaceae
-- [[pulsatilla-vulgaris]] — Pasque flower, close Ranunculaceae ally
-- [[clematis-vitalba]] — Old man's beard, woody Ranunculaceae member
-- [[thalictrum-aquilegiifolium]] — Meadow rue, ornamental Ranunculaceae
+Its presence in pastures is often an indicator of overgrazing, as it increases when competitive grasses are suppressed. Effective control in agricultural settings requires improvement of drainage and reduction of [[gadd-mycelial-network-resilience-grazing-pressure]] to allow competitive species to recover.

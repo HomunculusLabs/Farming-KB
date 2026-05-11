@@ -1,15 +1,16 @@
 ---
-title: comparison-natural-beekeeping-vs-standard-beekeeping Practices
+title: Natural Beekeeping Practices
 created: 2026-04-26
 tags:
   - beekeeping
   - pollination
-  - permaculture
+  - [[permaculture]]
   - holzer-permaculture
   - insects
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -87,39 +88,3 @@ is antibacterial and creates the right ambience for hive life.
 - Plant thyme, marjoram, and plants with [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in front of the
   hive, at least 3-4m wide and deep
 - Install a sloping piece of wood above the entrance that forces bees to
-  fly through the herb bed, their wings picking up disinfecting essential
-  oils
-- Regularly cut herbs back to release more essential oils
-
-## Traditional Beekeeping Methods
-
-Traditional beehives are more natural than modern ones and offer better
-long-term success. Several traditional approaches are highlighted:
-
-**Russian and Ukrainian log hives.** A freshly felled tree trunk (about 1.2m
-length, poplar or willow) is split in half, hollowed out, and put back
-together. Both ends are closed with wood and the trunk is stood at an angle
-to release moisture. The thick insulation maintains constant temperature. No
-artificial combs are needed; bees build their own. This system is simple,
-cheap, bee-friendly, and works in all climates.
-
-**Siberian traditional hives.** Being reactivated by the ecovillage
-movement, yielding 50-80kg of honey per hive without adding sugared water or
-frames.
-
-**Cork oak bark hives.** Used extensively in Portugal, making use of local
-materials.
-
-**Siberian [[fukuoka-straw-winter-grain-straw-mulch]] hives.** Built at the Krameterhof with particular
-success.
-
-## The Connection to Landscape Health
-
-Bee health is directly connected to landscape health. Pesticides in the
-environment weaken bees regardless of hive management. Loss of
-[[desertification-causes-reversal]] and
-monoculture eliminate the diverse flowering plants bees need. Restoring the
-[[biodiversity-soil-life]] for the broader ecosystem context
-- [[holzer-ten-step-plan-world-hunger]] for the agricultural system change
-  needed
-- [[permaculture-multipurpose-trees]] for bee-forage tree planting

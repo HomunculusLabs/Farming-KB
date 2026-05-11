@@ -1,5 +1,5 @@
 ---
-title: mollison designers integrated vermiculture composting systems and Composting Systems
+title: Mollison Designers Integrated Vermiculture Composting Systems
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -17,10 +18,10 @@ type: concept
 # Integrated Vermiculture and Composting Systems
 
 Vermiculture (worm farming) is a central component of permaculture soil
-fertility management. Bill Mollison discusses earthworms extensively in
+[[coleman-compost-and-organic-fertility-management]]. Bill Mollison discusses earthworms extensively in
 Permaculture: A Designers' Manual (Chapter 7: Soil), describing them
 as the primary agents of soil formation and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in
-temperate and tropical ecosystems alike. Integrated vermiculture systems
+temperate and [[fungal-biodiversity-tropical-ecosystems]] alike. Integrated vermiculture systems
 combine worm composting with traditional [[natural-farming-guide-composting-methods-and-techniques]], creating a
 multi-pathway system for converting organic waste into high-quality soil
 amendments, liquid fertilizers, and animal feed.
@@ -44,9 +45,9 @@ Key species for vermiculture include:
     to garden soil incorporation and cooler climates
 
 Mollison emphasizes that deep-burrowing anecic worms (such as
-Lumbricus terrestris) serve a different ecological function and are
+Lumbricus terrestris) serve a different [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] and are
 not typically used in surface composting systems but are essential
-in garden soils for aeration and subsoil nutrient cycling.
+in garden soils for aeration and subsoil [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## Worm Bin Design
 
@@ -59,7 +60,7 @@ beds processing kilograms of organic waste daily. Design principles:
     prevent waterlogging (worms can drown in saturated conditions)
   - Aeration: Adequate airflow prevents anaerobic conditions that
     produce toxic gases and foul odors
-  - Moisture management: Bedding should be maintained at 70-80%
+  - [[mushroom-casing-moisture-management]]: Bedding should be maintained at 70-80%
     moisture content, approximately the feel of a wrung-out sponge
   - Surface area: Worm processing capacity is determined by surface
     area, not volume. A larger, shallower bin processes more waste
@@ -86,50 +87,3 @@ Feeding rate: Worms consume approximately half their body weight per
 day. A well-established bin of 1 kg of worms can process 0.5 kg of
 organic waste daily. Feed should be buried under the bedding surface
 to prevent fruit fly attraction and odor.
-
-## Castings Harvest
-
-Vermicast is harvested when the majority of organic material has been
-converted to dark, crumbly castings. Methods include:
-  - Light separation: Castings are spread in a thin layer under
-    bright light; worms migrate downward and are collected from the
-    top layer
-  - Side-to-side migration: Fresh feed is placed on one side of the
-    bin; worms migrate toward it, leaving finished castings behind
-  - Screening: Castings are passed through a screen (5-10 mm mesh)
-    to separate worms and undigested material
-
-Vermicast contains 5-11 times more nitrogen, phosphorus, and potassium
-than surrounding soil, along with beneficial microorganisms, plant
-growth hormones, and humic acids.
-
-## Worm Tea Brewing
-
-Worm tea (vermitea) is a liquid extract produced by steeping vermicast
-in aerated water. Mollison describes it as a powerful foliar spray and
-soil drench. Brewing method:
-  - Add 1-2 cups of vermicast to 10 liters of dechlorinated water
-  - Aerate vigorously with an air pump for 12-24 hours
-  - Add a small amount of molasses or kelp as microbial food
-  - Apply within 4 hours of brewing for maximum microbial activity
-
-## Integration with Compost and Chickens
-
-Worm systems integrate with other permaculture elements:
-  - Compost pre-processing: Partially composted material is fed to
-    worms for finishing, accelerating decomposition
-  - Chicken feed: Excess worms provide high-protein supplemental
-    feed for poultry systems (30-40% protein)
-  - Compost tea integration: Worm tea and compost tea can be brewed
-    together for combined microbial diversity
-
-## See Also
-
-- mollison designers soil building
-- mollison [[mollison-designers-composting-toilets-and-humanure]] methods
-- mollison-designers-duck-pond-integrated-systems
-- [[mollison-designers-poultry-forage-design-pastured-systems]]
-- mollison-designers-integrated-pest-management-design
-- [[composting-systems]]
-- [[decomposition]]
-- [[bill-mollison]]

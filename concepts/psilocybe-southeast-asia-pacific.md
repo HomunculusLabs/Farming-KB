@@ -88,34 +88,3 @@ Guinea.
 ## Sri Lanka
 
 Sri Lanka has documented neurotropic species including Psilocybe
-cubensis, Copelandia cyanescens, and Panaeolus species. The island's
-tropical climate and extensive pastoral agriculture support coprophilous
-neurotropic fungi throughout the lowland regions.
-
-## New Guinea and Melanesia
-
-New Guinea is of particular biogeographic interest. The island hosts
-indigenous traditions of bolete use (Boletus flammeus, Boletus loetus,
-Boletus manicus) that are unique in the world. Psilocybe cubensis and
-Copelandia species are present in the lowland regions. The fungal
-biodiversity of New Guinea, one of the most biodiverse islands on
-Earth, remains largely unexplored for neurotropic species.
-
-## The Hawaiian Islands
-
-The Hawaiian Islands, despite their extreme isolation, have a notable
-introduced neurotropic mycoflora. Amanita muscaria was introduced
-with pine plantations and is now naturalized. Copelandia cyanescens
-and [[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]] are established on the islands. The
-Hawaiian mycoflora demonstrates how effectively neurotropic fungi can
-be dispersed through human activity.
-
-## Research Needs
-
-The Southeast Asian and Pacific neurotropic mycoflora is
-significantly undersampled relative to the Americas and Europe.
-The region likely contains many undescribed species and
-undocumented indigenous uses of neurotropic fungi.
-## See Also
-
-- [[tropical-vs-temperate-distribution-neurotropic-fungi]]

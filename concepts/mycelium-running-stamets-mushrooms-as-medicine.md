@@ -3,6 +3,7 @@ title: "Mushrooms as Medicine — Mycelium Running"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/unknown-mycelium-running.md"
 type: concept
 tags: [medicine, mushroom-cultivation, mushrooms, mycelium]

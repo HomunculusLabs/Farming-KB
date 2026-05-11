@@ -15,7 +15,7 @@ type: concept
 
 # Comprehensive Tree Species Guide for Mushroom Cultivation
 
-A vast variety of woods can be used for growing gourmet and
+A vast variety of woods can be used for [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and
 [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Generally speaking, the hardwoods are
 more useful than the softwoods. Several wood types may not
 perform by themselves, but when combined with more suitable
@@ -40,7 +40,7 @@ include:
 - **Beeches** (Fagus spp.) -- American beech and
   Japanese beech. Dense hardwoods with thick bark.
 - **Maples** (Acer spp.) -- Sugar, red, silver, big leaf
-  and box elder maples all support good mushroom growth.
+  and box elder maples all support good [[evaporative-demand-hypothesis-mushroom-growth]].
 - **Poplars and Cottonwoods** (Populus spp.) --
   Fast-growing species including balsam poplar, eastern
   cottonwood, quaking aspen, and black cottonwood.
@@ -50,20 +50,20 @@ include:
   slow-decomposing hardwoods.
 - **Elms** (Ulmus spp.) -- American, English, fluttering,
   and mountain elms. Per cubic meter of elm wood, Oyster
-  mushroom yield averaged 17-22 kg per season.
+  [[brassinosteroid-mushroom-yield-dry-mass]] averaged 17-22 kg per season.
 - **Sweetgums** (Liquidambar spp.) -- Widely used for
   Shiitake and other species.
 - **Chestnuts and Chinkapins** (Castanea/Castanopsis spp.)
 - **Ashes** (Fraxinus spp.) -- White, green, black, and
   Oregon ash.
 - **Walnuts** (Juglans spp.) -- Black walnut supports
-  Lion's Mane cultivation.
+  Lion's [[comparison-cordyceps-vs-lions-mane-cultivation]].
 - **Hickories** (Carya spp.) -- Water, pignut, shagbark,
   mockernut, and shellbark hickories.
 - **Hornbeams** (Carpinus spp.) -- European, American, and
   Japanese hornbeam.
 - **Larches** (Larix spp.) -- Larch sawdust supplemented
-  with rice bran is used for Maitake cultivation in Japan.
+  with rice bran is used for [[comparison-enoki-vs-maitake-cultivation]] in Japan.
 - **Tanoaks** (Lithocarpus spp.) -- Multiple species
   suitable for Shiitake.
 - **Dogwoods** (Cornus spp.)
@@ -73,7 +73,7 @@ include:
 ## Suggested Softwoods
 
 Most pines, cedars, and redwoods are not easily degraded
-by mushroom mycelium due to anti-rotting compounds. The
+by [[antimicrobial-compounds-mushroom-mycelium]] due to anti-rotting compounds. The
 suggested softwoods are limited:
 
 - **Douglas firs** (Pseudotsuga spp.)
@@ -88,59 +88,3 @@ will fruit on most conifers.
 ## Woods to Avoid
 
 - **Aromatic hardwoods** such as eucalyptus are not
-  recommended until we better understand why some people
-  become ill from eating otherwise [[palmer-edible-mushrooms-north-america]] grown
-  on this substrate.
-- **Cedars and redwoods** decompose slowly due to
-  anti-rotting compounds. These same compounds stifle
-  the growth of mushroom mycelium.
-- **Most pines** (ponderosa, lodgepole) are not
-  recommended.
-- **Fruit trees** are notoriously poor for growing
-  Shiitake.
-
-## Substrate Matrix Concept
-
-A simple 50:50 mixture (by volume) of sawdust and chips,
-of varying particle sizes, provides the best structure for
-the [[psilocybin-mushroom-habitat-and-ecology]]. The smaller particles stimulate quick
-growth ("leap-off"). The larger particles encourage the
-mycelium to form thick, cord-like strands called
-rhizomorphs. The larger chips become nutritional bases and
-fruiting platforms, giving rise to super-large mushrooms.
-
-## Wood Sourcing and Contamination
-
-Cultivators should avoid wood chips originating from trees
-along busy roadways. Automobile exhaust and leachate from
-oil-based asphalt contaminate the surrounding soil with
-toxins, including lead and aluminum. Metals can be
-concentrated by the mushroom mycelium and transferred to
-the mushrooms.
-
-Wood chips from county roads with little traffic are less
-prone to this heavy metal contamination. Sawmills and pulp
-chip companies provide the cleanest source of wood debris
-for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]].
-
-## Fast vs. Slow Decomposing Woods
-
-The fast-growing, rapidly decomposing hardwoods are
-generally the best because they have greater ratios of
-starch-enriched sapwood to heartwood. These sugars
-encourage rapid initial growth, resulting in full
-colonization in a short period of time. The key to
-successful cultivation is to match the skills of the
-cultivator with the right strain on the proper substrate
-under ideal environmental conditions.
-
-See also: [[growing-gourmet-substrate-preparation]]
-See also: [[shiitake-mushroom-cultivation]]
-
-## See Also
-
-- [[growing-gourmet-poisonous-mushroom-lookalikes]]
-
-- [[growing-gourmet-tree-oyster-ostreatus-species-profile]]
-
-- [[mushroom-cultivation-photographic-guide]]

@@ -25,7 +25,7 @@ Guzmán (1983) proposed that *P. cubensis* was likely introduced to the Americas
 
 ### The Middle Passage as Fungal Vector
 
-The African slave commerce operated from approximately the early 16th century through the 19th century, with the greatest volume of transport occurring during the 17th and 18th centuries. Millions of enslaved Africans were transported to the Americas, primarily to tropical regions of Brazil, the Caribbean, and coastal Mexico and Central America — precisely the regions where *P. cubensis* is most abundant today.
+The African slave commerce operated from approximately the early 16th century through the 19th century, with the greatest volume of transport occurring during the 17th and 18th centuries. Millions of enslaved Africans were transported to the Americas, primarily to tropical regions of Brazil, the Caribbean, and coastal Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] — precisely the regions where *P. cubensis* is most abundant today.
 
 The conditions of transport could have facilitated fungal dispersal:
 
@@ -39,7 +39,7 @@ The conditions of transport could have facilitated fungal dispersal:
 Africa has confirmed records of *Psilocybe* species in the *cubensis* complex:
 
 - **Psilocybe aquamarina** from Kenya (Pegler, 1977) — closely related to *P. cubensis*
-- **Psilocybe natalensis** from South Africa (Gartz et al., 1995)
+- **[[psilocybe-natalensis]]** from South Africa (Gartz et al., 1995)
 - **Psilocybe mairei** from Morocco and Algeria (also found in Czechoslovakia)
 
 While *P. aquamarina* may not be conspecific with *P. cubensis* (Guzmán, 1995, considers it a close relative), the presence of cubensis-like taxa in Africa supports the plausibility of an African origin for the American populations.
@@ -62,7 +62,7 @@ The most plausible scenario may involve multiple independent introductions from 
 
 ## Implications for Understanding Neurotropic Fungi Biogeography
 
-The *P. cubensis* case study illustrates a broader principle in the biogeography of neurotropic fungi: present-day distributions may not reflect ancient natural ranges but rather complex histories of human-mediated dispersal. This is particularly relevant for:
+The *P. cubensis* case study illustrates a broader principle in the biogeography [[distribution-of-neurotropic-fungi]]: present-day distributions may not reflect ancient natural ranges but rather complex histories of human-mediated dispersal. This is particularly relevant for:
 
 - **Coprophilous species** that depend on domesticated animals for substrate
 - **Pantropical species** whose distributions span regions separated by oceans
@@ -76,42 +76,14 @@ Guzmán noted that understanding these anthropogenic dispersal events is crucial
 
 ### Psilocybe semilanceata: A Northern Contrast
 
-In contrast to *P. cubensis*, *P. semilanceata* (the liberty cap) provides an example of a species with a distribution that appears to reflect natural biogeographic patterns rather than human introduction. It is known from temperate regions of Europe, India, Russia, Canada, the USA, Chile, Peru, New Zealand, and Australia, but is notably absent from Mexico — despite Mexico being the global hotspot for *Psilocybe* diversity. This absence suggests that *P. semilanceata* is adapted to temperate [[biodiversity-fungi-grassland-ecosystems]] that are poorly represented in tropical Mexico.
+In contrast to *P. cubensis*, *P. semilanceata* (the liberty cap) provides an example of a species with a distribution that appears to reflect natural biogeographic patterns rather than human introduction. It is known from [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe, India, Russia, Canada, the USA, Chile, Peru, New Zealand, and Australia, but is notably absent from Mexico — despite Mexico being the global hotspot for *Psilocybe* diversity. This absence suggests that *P. semilanceata* is adapted to temperate [[biodiversity-fungi-grassland-ecosystems]] that are poorly represented in tropical Mexico.
 
 ## Modern Dispersal: The Spore Trade
 
-In the contemporary era, human-mediated dispersal of *P. cubensis* and related species has accelerated dramatically. The global trade in spore syringes, spore prints, and grow kits — documented extensively by the EMCDDA and other monitoring agencies — represents a new phase in the anthropogenic spread of neurotropic fungi. Spore trading networks like the "Free Spore Ring Europe" facilitate the intentional introduction of diverse strains into new regions, potentially establishing feral populations in suitable climates. This modern dispersal complicates the interpretation of distribution patterns even further.
+In the contemporary era, human-mediated dispersal of *P. cubensis* and related species has accelerated dramatically. The global trade in spore syringes, spore prints, and grow kits — documented extensively by the EMCDDA and other monitoring agencies — represents a new phase in the anthropogenic spread of neurotropic fungi. Spore trading networks like the "Free Spore Ring Europe" facilitate the intentional introduction of diverse strains into new regions, potentially establishing feral populations in suitable climates. This modern dispersal complicates the interpretation of [[fungal-biogeography-distribution-patterns]] even further.
 
 ## Phylogenetic Evidence
 
-Molecular phylogenetic studies could help resolve the question of *P. cubensis* origins by comparing genetic diversity among African, American, and Asian populations. Higher genetic diversity in a source population would support an origin hypothesis. If African populations show greater genetic variation than American populations, this would support Guzmán's hypothesis of introduction via the slave trade. Conversely, if American populations are more diverse, a pre-Columbian or natural distribution would be more plausible. Such studies remain to be conducted comprehensively.
+Molecular phylogenetic studies could help resolve the question of *P. cubensis* origins by comparing [[biodiversity-fungal-genetic-diversity]] among African, American, and Asian populations. Higher genetic diversity in a source population would support an origin hypothesis. If African populations show greater genetic variation than American populations, this would support Guzmán's hypothesis of introduction via the slave trade. Conversely, if American populations are more diverse, a pre-Columbian or natural distribution would be more plausible. Such studies remain to be conducted comprehensively.
 
 ## Relationship to Indigenous Use
-
-If *P. cubensis* was indeed introduced to the Americas during the colonial period, this raises interesting questions about its incorporation into indigenous mushroom-using practices. The Mazatec name *san isidros* (Saint Isidro's) for *P. cubensis* references a Catholic saint, suggesting post-contact adoption. However, the species is now firmly embedded in indigenous entheogenic traditions, demonstrating the rapid cultural integration of a useful species when it becomes available. The Spanish common name *san isidros* is used alongside *pajaritos* (little birds), which may reflect a pre-existing framework for classifying sacred mushrooms applied to a newly available species.
-
-It is also possible that indigenous peoples recognized the psychoactive properties of *P. cubensis* relatively quickly after cattle were introduced and the fungus appeared on pastures, given their extensive existing knowledge of neurotropic fungi. The species' distinctive blue bruising reaction would have been a clear visual marker of its relationship to other sacred mushrooms already known and used.
-
-## See Also
-
-- [[psilocybe-cubensis-biogeography-columbian-exchange-hypothesis]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[guzman-magic-mushrooms-african-species]]
-- [[guzman-allen-gartz-mexico-mesophytic-forest-neurotropic-hotspot]]
-
-## Confounding Factors and Limitations
-
-Several factors complicate the slave commerce hypothesis:
-
-1. **Conflicting early reports**: Cullinan et al. (1945), Charters (1957, 1958), and Vendcourt & Trump (1969) produced what Guzmán described as "confusing reports" of *P. cubensis* in Kenya, making the African record less certain than it might appear.
-2. **Species complex**: *P. cubensis* is part of a species complex that includes *P. subcubensis* and other close relatives. Taxonomic uncertainty about species boundaries makes it difficult to trace precise origins.
-3. **Spore longevity**: *Psilocybe* spores can survive for extended periods under favorable conditions, making it plausible that they could survive long ocean voyages in cargo or personal belongings.
-4. **Multiple substrates**: While *P. cubensis* is most commonly associated with cattle dung, it can also grow on other substrates, including enriched soils and possibly dung of native herbivores. This substrate flexibility could have allowed pre-Columbian establishment.
-5. **Historical documentation**: The absence of pre-Columbian written records of *P. cubensis* use does not prove its absence, as [[psilocybin-chemistry-stability-indigenous-knowledge]] was transmitted orally. The first scientific documentation dates only to the 20th century.
-
-## Sources
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). A worldwide [[psilocybe-geographical-distribution-patterns]] of the neurotropic fungi, an analysis and discussion. *Ann. Mus. civ. Rovereto*, 14: 189-280.
-- Guzmán, G. (1983). *The Genus Psilocybe: A Systematic Revision of the Known Species*. Beihefte zur Nova Hedwigia Heft 74.
-- Gartz, J., Reid, D.A., Smith, A.H. & Eicker, A. (1995). *Psilocybe natalensis* sp. nov. from Natal, South Africa. *Mycotaxon* 54: 171-174.
-- Pegler, D.N. (1977). A preliminary agaric flora of East Africa. *Kew Bulletin* Additional Series 6.

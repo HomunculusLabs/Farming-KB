@@ -87,34 +87,3 @@ The species creates distinctive hollows in its trunk and branches, which serve a
 River red gum forests along floodplains support high biodiversity and provide important [[biodiversity-of-fungi-ecosystem-services-agriculture]] including water filtration, bank stabilization, and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
 
 Periodic flooding is ecologically essential for seed germination, canopy health, and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in natural river red gum populations.
-
-Prolonged water extraction for irrigation has caused significant decline in river red gum health across the Murray-Darling Basin, resulting in mass dieback events.
-
-Conservation efforts include environmental water allocations, regulated flow management, and restoration planting programs targeting degraded floodplain woodlands.
-
-## Chemistry and Pharmacology
-
-The essential oil of Eucalyptus camaldulensis is rich in 1,8-cineole, which exhibits antimicrobial, anti-inflammatory, and expectorant properties.
-
-Traditional Aboriginal Australian use includes application of crushed leaves to wounds and inhalation of steam from boiled leaves for respiratory ailments.
-
-Extracts have demonstrated in vitro activity against Gram-positive bacteria and some fungal pathogens, consistent with broader Eucalyptus phytochemical research.
-
-Tannins, flavonoids, and phenolic compounds identified in the leaves and bark contribute to the species' bioactivity profile.
-
-Phenolic constituents include ellagic acid derivatives and quercetin glycosides, which have documented antioxidant activity in laboratory studies.
-
-Leaf extracts have shown moderate larvicidal activity against mosquito vectors, suggesting potential applications in integrated pest management.
-
-The species has been investigated for phytoremediation of heavy metal-contaminated soils, with demonstrated capacity to accumulate copper and zinc.
-
-## See Also
-
-- [[eucalyptus-globulus]]
-- [[melaleuca-alternifolia]]
-- [[acacia-nilotica]]
-- [[pinus-sylvestris]]
-- [[picea-abies]]
-- [[populus-tremuloides]]
-- [[quercus-robur]]
-- [[salix-alba]]

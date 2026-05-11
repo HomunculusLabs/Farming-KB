@@ -28,8 +28,8 @@ a system of practices spanning the entire cultivation workflow.
   mycelium. Common on wet, poorly drained substrates.
 
 ### Bacteria
-- **[[growing-gourmet-bacterial-blotch-disease-management]] (Pseudomonas tolaasii):** Causes brown, slimy spots on
-  mushroom caps. Associated with high humidity and poor [[stamets-growing-room-air-circulation-co2-management]] during
+- **[[growing-gourmet-bacterial-blotch-disease-management]] ([[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]):** Causes brown, slimy spots on
+  [[alkaloid-distribution-mushroom-caps-stems]]. Associated with high humidity and poor [[stamets-growing-room-air-circulation-co2-management]] during
   fruiting. Prevented by lowering humidity to 80-85% and increasing FAE.
 - **Wet spot / sour rot:** Anaerobic bacteria that make grain spawn smell sour
   or like rotting apples. Caused by overhydration or insufficient sterilization.
@@ -41,7 +41,7 @@ a system of practices spanning the entire cultivation workflow.
 ### 1. Source Reduction
 The fewer contaminants present in the grow environment, the lower the failure
 rate. Regular cleaning with 70% isopropyl alcohol or 10% bleach solution
-removes spores from surfaces. HEPA air filtration reduces airborne spore
+removes spores from surfaces. HEPA [[greg-green-odor-control-and-air-filtration]] reduces airborne spore
 concentrations. Avoid bringing dirty materials (unwashed shoes, outdoor
 clothing) into clean work areas.
 
@@ -57,14 +57,14 @@ environment for the shortest possible time. Key practices include:
 - Minimizing movement and air currents near open containers
 
 ### 3. Substrate Treatment
-Matching the substrate treatment level to the contamination risk is essential:
+Matching the substrate treatment level to the [[fungicide-treated-seed-contamination-risk-mushroom-substrate]] is essential:
 
 - **Non-supplemented substrates** (plain straw, plain sawdust): Pasteurization
   (60-80 C for 1-2 hours) is sufficient. Thermophilic bacteria that survive
   pasteurization outcompete many contaminants.
 - **Supplemented substrates** (bran, meal added): Require full sterilization
   (121 C at 15 PSI for 90+ minutes) because the added nitrogen feeds
-  contaminants as readily as it feeds mushroom mycelium.
+  contaminants as readily as it feeds [[antimicrobial-compounds-mushroom-mycelium]].
 - **Grain spawn:** Always requires full sterilization due to high nutrient
   availability and bacterial endospore load.
 
@@ -78,7 +78,7 @@ spore load low through:
 - Positive pressure in clean rooms with HEPA-filtered intake air
 - Regular cleaning schedules and surface disinfection
 - Immediate removal and disposal of contaminated materials
-- Air filtration in inoculation and incubation areas
+- Air filtration in [[pf-tek-inoculation-and-incubation]] areas
 
 ### 5. Early Detection and Response
 Daily inspection of all blocks, jars, and bags catches contamination before it
@@ -88,21 +88,3 @@ be removed immediately, sealed in a bag, and discarded or autoclaved before
 spores are released into the grow space.
 
 ## Contamination Rate Benchmarks
-
-For well-managed small-scale operations, a contamination rate below 5% is
-achievable. Commercial facilities target below 1% in [[growing-gourmet-sawdust-spawn-production-use]] and below
-3% in substrate blocks. Rates above 10% indicate a systemic problem in workflow,
-sterilization, or [[eclss-environmental-control-life-support]].
-
-## Antibiotics and Biological Control
-
-Some commercial growers add gentamicin or other antibiotics to grain spawn to
-suppress bacterial contamination, though this is controversial and not permitted
-in organic certification. Biological approaches include adding *Bacillus
-subtilis* or *Trichoderma harzianum* strains that are antagonistic to contaminant
-fungi while being compatible with mushroom mycelium.
-
-## See Also
-
-- [[oyster-mushroom-substrate-preparation]]
-- [[mushroom-grow-room-design]]

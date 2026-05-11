@@ -15,6 +15,7 @@ tags:
 date: 2026-05-01
 updated: 2026-05-01
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - The Passive Solar Energy Book (Mazria)
   - The Solar Greenhouse Book (McCullagh)
   - Four-Season Harvest (Eliot Coleman)

@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Moore, M. (1979). "Medicinal Plants of the Mountain West." Museum of New Mexico Press.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.
-  - Foster, S. & Duke, J.A. (2014). "Peterson ghouled-field-guide-historical-context to Medicinal Plants and Herbs." Houghton Mifflin.
+  - Foster, S. & Duke, J.A. (2014). "Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants and Herbs." Houghton Mifflin.
   - Timmermann, B.N. (1987). "Chemistry of Grindelia." Economic Botany 41(4): 498–507.
 ---
 
@@ -69,7 +69,7 @@ Flowering July to September.
 
 ## Distribution and Habitat
 
-*Grindelia squarrosa* is widespread across western North America, from
+*Grindelia squarrosa* is widespread across western [[guzman-psilocybin-mushrooms-north-america]], from
 British Columbia and Alberta south through the Great Plains to Texas,
 New Mexico, Arizona, and northern Mexico.
 
@@ -88,54 +88,3 @@ The principal bioactive constituents are diterpene resin acids,
 particularly grindelic acid and related grindelane compounds.
 
 These resin acids are concentrated in the flower heads and leaf
-surfaces, forming the characteristic sticky exudate.
-
-Grindelic acid has demonstrated bronchial smooth muscle relaxant
-activity in vitro and acts as an expectorant by increasing mucosal
-secretions and reducing [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of respiratory fluids.
-
-Flavonoids present include quercetin, kaempferol, and luteolin
-derivatives, contributing to anti-inflammatory and antioxidant effects.
-
-Traditional use as an anti-asthmatic and antitussive has partial
-pharmacological support, though [[mushroom-cancer-clinical-trials-overview]] in humans are limited.
-
-## Traditional and Modern Use
-
-Plains Indigenous peoples used *Grindelia squarrosa* extensively for
-respiratory ailments, including coughs, bronchitis, and asthma.
-
-The resinous flower heads were collected, dried, and prepared as
-infusions, decoctions, or tinctures.
-
-The Lakota and other Sioux groups used gumweed for colds, sore throat,
-and pneumonia. Eclectic physicians adopted grindelia in the late 19th
-century, including it in the USP as an expectorant and anti-asthmatic.
-
-Modern herbal practice uses grindelia tincture (1:5 in 40% ethanol) at
-1–3 mL doses for acute respiratory conditions.
-
-Grindelia extract is also used topically for poison ivy dermatitis and
-insect bites due to its anti-inflammatory resin content.
-
-## Cultivation and Harvest
-
-*Grindelia squarrosa* can be cultivated from seed sown in spring or
-fall. Seeds require light for germination and benefit from cold
-stratification.
-
-The species prefers full sun, well-drained sandy or loamy soils, and
-low to moderate water. It is drought-tolerant once established.
-
-Flower heads are harvested at peak bloom (mid-summer to early fall)
-when resin content is highest. They are dried quickly in a
-well-ventilated area to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] development.
-
-## See Also
-
-- [[grindelia-robusta]]
-
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[herbal-salves-and-balms]]
-
-- [[verbena-officinalis]] — Traditional European respiratory herb

@@ -9,12 +9,12 @@ sources: [raw/papers/grahamholmes-what-a-plant-knowsindd.md]
 
 # Phytochrome Mobile Signal from Leaf to Flowering
 
-In "What a Plant Knows" (2012), Daniel Chamovitz describes the discovery
+In "What a Plant Knows" (2012), [[daniel-chamovitz]] describes the discovery
 that phytochrome photoreceptors in **leaves** — not the plant tip —
 regulate flowering through a mobile signal that propagates throughout the
 entire plant. This finding overturned the expectation, derived from
 Darwin's [[phototropism]], botanists
-knew that the "eye" of a plant for directional light sensing was located at
+knew that the "eye" of a plant for directional [[darwin-phototropism-experiments-plant-light-sensing]] was located at
 the tip of the shoot. The tip detected the light and transferred this
 information to the midsection, which then bent toward the light source.
 This established a paradigm: the growing tip was the primary sensory organ
@@ -46,7 +46,7 @@ plant.
 When phytochrome in a single leaf detects [[phytochrome-red-far-red-light-switch]] during the night,
 it triggers the production of a mobile signal — a chemical messenger that
 travels from the leaf through the vascular system to the rest of the
-plant. This signal induces the flowering response in the shoot apex,
+plant. This signal induces the [[mollison-designers-day-length-and-flowering-response]] in the shoot apex,
 even though the apex itself has no photoreceptors for this purpose.
 
 The identity of this mobile signal was one of the great mysteries of
@@ -57,8 +57,8 @@ to the shoot apex, where it activates the genetic program for flowering.
 
 ## The Red/Far-Red Switch
 
-The leaf-based phytochrome system operates through the red light/
-[[borthwick-far-red-reversal-photoperiodic-discovery]] light switch discovered by Harry Borthwick and colleagues
+The leaf-based phytochrome system operates through the [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]/
+[[borthwick-far-red-reversal-photoperiodic-discovery]] [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]] discovered by Harry Borthwick and colleagues
 in the early 1950s:
 
 - A flash of **red light** during the night turns flowering **on**
@@ -88,41 +88,3 @@ In its simplest model, phytochrome exists in two interconvertible forms:
 Pfr is the biologically active form. It is Pfr that triggers (or
 inhibits) the downstream responses, including the production of the
 mobile flowering signal.
-
-## Ecological Logic
-
-The leaf-based system makes ecological sense. In nature:
-
-- The **last light** any plant sees at the end of the day is far-red
-  light, and this "signifies to the plant that it should 'turn off'"
-- In the **morning**, the plant sees red light and "wakes up"
-- The plant measures "how long ago it last saw red light and adjusts
-  its growth accordingly"
-
-By distributing phytochrome across all leaves, the plant gains a
-redundant, distributed sensing system. No single leaf is critical —
-any one of them can detect the light signal and initiate the flowering
-response. This redundancy provides robustness against damage to
-individual leaves.
-
-## Two Visual Systems in Plants
-
-The leaf-based photoperiodism system and the tip-based phototropism
-system represent two distinct "visual" systems in plants:
-
-- **Tip-based** (phototropism): uses blue-light photoreceptors to
-  detect the **direction** of light and guide directional growth
-- **Leaf-based** (photoperiodism): uses red/far-red phytochrome to
-  measure the **duration** of darkness and regulate flowering timing
-
-These two systems use different photoreceptors, detect different
-properties of light (direction vs. duration), and serve different
-biological functions (growth direction vs. reproductive timing). Together
-they demonstrate the remarkable sophistication of plant light sensing.
-
-## See Also
-
-- [[chamovitz-julius-von-sachs-blue-light-phototropism]]
-- [[chamovitz-photoreception-human-eye-analogy]]
-
-- [[phytochrome-photoperiodism-plant-flowering]]

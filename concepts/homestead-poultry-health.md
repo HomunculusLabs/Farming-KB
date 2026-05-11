@@ -3,7 +3,7 @@ title: Homestead Poultry Health
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, livestock-health, troubleshooting]
+tags: [animal-husbandry, [[homesteading]], livestock, livestock-health, troubleshooting]
 sources: []
 ---
 
@@ -48,14 +48,14 @@ effective and economical than treatment.
 
 ### Respiratory Diseases
 - **Infectious Bronchitis (IB):** Coronavirus. Coughing, sneezing, drop in
-  egg production, wrinkled eggs. Vaccination available. No treatment.
+  [[mollison-designers-chicken-tractors-egg-production]], wrinkled eggs. Vaccination available. No treatment.
 - **Newcastle Disease (ND):** Paramyxovirus. Respiratory, nervous, digestive
   symptoms. High mortality. Reportable disease. Vaccinate in endemic areas.
 - **Mycoplasma gallisepticum (MG):** Chronic respiratory disease. Coughing,
   nasal discharge, sinus swelling. Treat with tylosin or tetracycline.
   Carrier birds persist.
 - **Infectious Coryza:** Bacterial (Haemophilus). Facial swelling, foul
-  odor, drop in egg production. Treat with antibiotics. Carrier birds.
+  odor, drop in [[pastured-egg-production]]. Treat with antibiotics. Carrier birds.
 - **Aspergillosis:** Fungal infection from moldy litter or feed. Respiratory
   distress. Prevent by keeping litter and feed dry.
 - **General prevention:** Good ventilation (ammonia damages respiratory
@@ -79,7 +79,7 @@ effective and economical than treatment.
 ### External Parasites
 - **Northern Fowl Mite:** Most common external parasite. Small dark mites
   on feathers around vent. Causes anemia, reduced egg production.
-  Treatment: permethrin dust, diatomaceous earth, poultry sprays.
+  Treatment: permethrin dust, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]], poultry sprays.
 - **Scaly Leg Mite:** Burrows under leg scales. Raised, crusty scales.
   Treatment: petroleum jelly or vegetable oil on legs (suffocates mites).
   Repeat every 3 days for 2-3 weeks.
@@ -87,7 +87,7 @@ effective and economical than treatment.
   production. Treatment: permethrin dust.
 - **Red Roost Mite:** Nocturnal — feeds on birds at night, hides in
   crevices during day. Causes anemia, restlessness. Clean and treat
-  housing with permethrin or essential oils.
+  housing with permethrin or [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]].
 - **Fleas and Ticks:** Less common but occur. Treat with appropriate
   insecticides.
 

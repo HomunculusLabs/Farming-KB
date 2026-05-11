@@ -1,9 +1,9 @@
 ---
 title: Summer Crops in Greenhouses (Tomatoes, Peppers, Eggplant, Cucumbers)
 created: 2026-04-26
-sources: The coleman coleman coleman-winter-harvest-planting-schedule philosophy planting schedule Handbook, Eliot Coleman (2009), Chapter 9
+sources: The coleman coleman coleman-winter-harvest-planting-schedule philosophy coleman-winter-harvest-planting-schedule Handbook, eliot-coleman (2009), Chapter 9
 tags:
-  - greenhouse growing
+  - [[cold-greenhouse-growing]]
   - summer-crops
   - tomatoes
   - cucumbers
@@ -43,7 +43,7 @@ on the lookout for better varieties and running trials with new
 candidates every year.
 
 Starting tomato plants from seed involves repotting twice to ensure
-uninterrupted root growth. Seeds germinate in mini-blocks on heat
+uninterrupted [[soil-moisture-management-and-root-growth]]. Seeds germinate in mini-blocks on heat
 pads at 70 degrees Fahrenheit, then move to two-inch blocks after
 seven to eight days. These remain on heating pads for ten days
 before being potted into five-inch square pots, the only crop for
@@ -88,55 +88,3 @@ the soil is comparison  growing for tomato transplanting. Coleman pulls back inn
 covers on sunny days during March to allow [[mollison-designers-passive-solar-heating-building-design]] of the
 soil, then runs a propane heater for a few days before the April 7
 transplant date to keep nights above 60 degrees Fahrenheit.
-
-In another greenhouse, cleared a month before tomatoes are needed,
-a sheet of clear plastic laid directly on the soil creates an
-extra-warm inner layer that traps solar heat. This can raise the
-soil temperature at 4-inch depth to 65 degrees Fahrenheit using
-only [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. The clear plastic also stimulates weed seed
-germination, which are then flamed off before transplanting.
-
-## Cucumbers
-
-Coleman grows greenhouse cucumbers about 7 inches long, a standard
-size preferred by customers. Greenhouse cucumbers are heavy feeders
-demanding the best fertility available. coleman soil preparation [[organic-greenhouse-growing]] nitrogen fertilizer.
-Seaweed or commercial trace-element amendments ensure optimum
-trace-element levels. Starting with low hamilton [[coleman-compost-and-organic-fertility-management]] and [[coleman-compost-and-organic-fertility-management]] management matter management humus [[comparison-seed-starting-vs-direct-seeding]] transplanting
-mix. Germination occurs on heating pads at 85 degrees Fahrenheit.
-Seedlings transplant to the greenhouse at two weeks old. Night
-temperatures of 55 to 60 degrees Fahrenheit give better
-establishment than the minimum-tolerated 50 degrees.
-
-Pruning removes every sucker and female flower until the plant
-reaches 3 feet tall, ensuring sufficient root establishment. Above
-that height, one cucumber is left at each node on the single stem.
-When the stem reaches the support bar, one additional sucker is
-allowed to grow, creating two stems trailing back down. Daily
-picking at optimal size maintains quality. After the last cucumber
-is harvested at ground level, the crop is pulled and replaced with
-celery transplants for fall harvest.
-
-## Peppers and Eggplant
-
-Peppers transplant to the greenhouse at about seven weeks old, well
-before the first flower opens, around May 1. Eggplants are sown
-April 1 for eight-week-old transplants by June 1. Both are started
-in mini-blocks on heating pads (80 degrees Fahrenheit) and
-progressively moved to 2-inch blocks and then 5-inch pots.
-
-Both peppers and eggplants are trained vertically to two stems
-rather than one, with weekly pruning and clipping. Production is
-limited to one fruit at every node. Coleman recommends periodically
-searching the Internet for evolving greenhouse techniques for these
-crops.
-
-## Outdoor Summer Crops
-
-Only one-quarter acre of the one-and-a-half-acre vegetable
-production area is covered by greenhouses, so most summer and fall
-production occurs in the field. Key practices include preparing soil
-the fall before planting (often even forming beds in fall), and
-using the close spacing techniques developed for greenhouse growing
-in outdoor fields as well. Twelve rows of carrots and six rows of
-turnips or spinach on a 30-inch-wide bed work equally well outdoors.

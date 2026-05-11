@@ -3,21 +3,21 @@ title: "Mushroom mushroom-cultivation-for-disabilities-training-program - Market
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "A mushroom-cultivation-disabilities-training-manual-overview: Mushroom Cultivation by People with Disabilities (FAO RAP Publication 2001/12)"
+  - "A mushroom-cultivation-disabilities-training-manual-overview: accessible-mushroom-cultivation-for-disabilities by People with Disabilities (FAO RAP Publication 2001/12)"
 type: concept
 tags: [cultivation, mushroom-cultivation]
 ---
 
 # Mushroom Cultivation for Disabilities - Marketing and Enterprise
 
-The FAO training manual integrates marketing strategy and enterprise development as core components of the training programme, recognizing that technical cultivation skills alone are insufficient for sustainable livelihoods. Trainees learn to operate mushroom production as a profitable business, with income generation being the ultimate objective of the training.
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] integrates marketing strategy and [[enterprise-development-mushroom-growers]] as core components of the training programme, recognizing that technical cultivation skills alone are insufficient for sustainable livelihoods. Trainees learn to operate mushroom production as a profitable business, with income generation being the ultimate objective of the training.
 
 ## Starting the Business
 
 The manual outlines a ten-step procedure for establishing a mushroom production farm:
 
 1. **Identify location** -- land above flooding level with good ventilation
-2. **Set up mushroom house and equipment** -- use economical, locally available materials
+2. **Set up [[fao-accessible-mushroom-house-design-disabilities]] and equipment** -- use economical, locally available materials
 3. **Buy raw materials** -- start with at least 1,000 pre-inoculated bags
 4. **Maintain the mushroom house** -- keep clean, monitor humidity and light
 5. **Check for contamination** -- visually inspect bags twice weekly
@@ -61,7 +61,7 @@ For continuous year-round income, the farm should always have some bags at the f
 Quality directly affects marketability and client retention:
 
 - **Clean trimming** is very important for presentation
-- **Harvest young mushrooms** -- longer shelf life, better taste
+- **Harvest young mushrooms** -- longer [[ingham-aact-holding-time-shelf-life-decay]], better taste
 - **Harvest 2-3 hours after watering** to conserve mushrooms longer
 - **Chill before packaging** when possible
 - **Reduce humidity** several hours before harvesting
@@ -85,54 +85,6 @@ Processing can be particularly profitable during the rainy season when fresh mus
 
 Beyond selling fresh and processed mushrooms, additional revenue can come from:
 
-- **Selling inoculated substrate bags** to other growers -- this is a major profit multiplier
+- **Selling inoculated [[oil-drum-sterilizer-mushroom-substrate-bags]]** to other growers -- this is a major profit multiplier
 - **Selling raw materials** (sawdust, rice bran, supplements) to other cultivators
 - **Selling spawn** if production capacity is developed
-
-## Three Levels of Operation
-
-| Level | Approach | Capacity | Harvest Pattern |
-|---|---|---|---|
-| 1st | Buy bags only | 1 fruiting house, 2,000 bags | 3 months harvest, 1 month rest |
-| 2nd | Buy bags | 3 fruiting houses, 6,000 bags | 3 months per house, staggered |
-| 3rd | Make own bags | 1 incubation + 3 fruiting houses, 6,000 bags | Continuous harvest + bag sales |
-
-## Income and Profit Projections
-
-Based on 250 grams yield per bag over 3 months at 25 Baht/kg for oyster mushrooms:
-
-| Bags | Total Income | Monthly Income | Monthly Profit (buying bags) | Monthly Profit (making bags) |
-|---|---|---|---|---|
-| 1,000 | 6,250 Baht | 2,083 Baht | 750 Baht | 1,333 Baht |
-| 2,000 | 12,500 Baht | 4,167 Baht | 1,500 Baht | 2,667 Baht |
-| 3,000 | 18,750 Baht | 6,250 Baht | 2,250 Baht | 4,000 Baht |
-| 6,000 | 37,500 Baht | 12,500 Baht | 4,500 Baht | 8,000 Baht |
-
-Cost per bag: 4 Baht when buying spawn bags, 2.25 Baht when making bags (materials only, excluding labor). Electricity and water are generally free in the remote areas where these farms operate.
-
-## Record-Keeping
-
-Essential records include:
-
-- Monthly cash flow statement (daily expenses, income, balance)
-- Inventory book (raw materials with prices, dates, suppliers)
-- Mushroom sales record (daily)
-- Raw materials sales record
-- Credit control system (accounts receivable with payment dates)
-- Petty cash voucher system
-- Cash book (bank flows)
-
-## Financial Assistance
-
-Trainers help trainees access government funds for people with disabilities, including interest-free loans, low-interest loans, and special grants. Information is available through municipal and provincial offices, and ministries of labor, social welfare, and health.
-
-## Competition and Market Strategy
-
-Constant monitoring of competitors is necessary to maintain market share. The manual warns that in competitive markets, some people will abuse any competitor regardless of disability status. Trainees must develop their own marketing strategies to survive. Guest speakers who are successful entrepreneurs share practical marketing experience during the training programme.
-
-## See Also
-
-- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
-- [[mushroom-cultivation-basics]]
-- [[mushroom-nutritional-composition]]
-- permaculture-designers-manual-crafts-and-income

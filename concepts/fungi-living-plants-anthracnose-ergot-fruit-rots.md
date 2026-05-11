@@ -4,7 +4,8 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 # Fungi on Living Plants — Anthracnose, Ergot, and Fruit Rots
 Fungi that infect living plant tissues — leaves, stems, flowers, and fruits
@@ -87,34 +88,3 @@ The fungus produces abundant conidia from characteristic botryose
 conidiophores and survives as sclerotia or mycelium in plant debris.
 
 ### Monilinia species (Brown Rot)
-M. fructicola, M. laxa, and M. fructigena cause brown rot of stone
-fruits including peach, plum, cherry, and apricot. Infected fruits
-develop rapidly expanding brown lesions that may become covered with
-buff-colored spore masses. The fungus overwinters in mummified fruits
-and cankers on infected twigs, providing inoculum for spring infections.
-
-### Penicillium species (Blue Mold)
-Several Penicillium species cause postharvest decays, most notably P.
-expansum (blue mold of apples and pears) and P. digitatum (green mold
-of citrus). These fungi enter through wounds and spread rapidly in
-storage. P. expansum also produces patulin, a mycotoxin of concern.
-
-## Disease Management Strategies
-Management relies on integrated approaches. Resistant cultivars provide
-the most sustainable control where available. Fungicide applications
-timed to key infection periods remain important for many crops. Cultural
-practices including pruning for airflow and removing infected debris
-reduce disease pressure. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents such as Bacillus
-subtilis and Trichoderma show efficacy against fruit rot pathogens.
-Postharvest treatments including hot water dips and controlled
-atmosphere storage can significantly reduce losses.
-
-- [[straminipiles-oomycetes-fungus-like-chromists]]
-- [[moist-chamber-technique-fungal-fruiting]]
-- [[microfungal-species-diversity-large-areas]]
-## See Also
-- [[fungal-fruiting-body-formation-environmental-triggers]]
-- [[bloomfield-potato-blight-phytophthora-infestans]]
-- [[bloomfield-coffee-rust-and-crop-pathogens]]
-- [[rust-fungi-biodiversity-life-cycles]]
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]

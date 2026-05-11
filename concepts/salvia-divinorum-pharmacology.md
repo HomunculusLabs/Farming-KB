@@ -10,10 +10,10 @@ tags: [ethnobotany, salvia-divinorum, salvinorin-a, psychopharmacology, hallucin
 
 ## Overview
 
-Salvia divinorum is a perennial herb from the mint family (Lamiaceae) that
+[[salvia-divinorum]] is a perennial herb from the mint family (Lamiaceae) that
 contains the psychoactive neoclerodane diterpene salvinorin-A. It is
 pharmacologically unique among naturally occurring hallucinogens because
-salvinorin-A has no activity at serotonin receptors and is instead a potent
+salvinorin-A has no activity at [[psilocybin-pharmacology-and-serotonin-receptors]] and is instead a potent
 and selective kappa-opioid receptor (KOR) agonist — the first naturally
 occurring non-nitrogenous opioid receptor agonist discovered. Traditionally
 used by the Mazatec Indians of Oaxaca, Mexico, Salvia divinorum is now
@@ -49,9 +49,9 @@ context rather than recreational intoxication.
 
 ## Modern Use and Availability
 
-Salvia divinorum plants are now grown and sold in the United States, often
+Salvia divinorum plants are now grown and sold in the [[dmt-maoi-plants-united-states]], often
 by individuals with no historical ceremonial connection to the plant.
-Modern consumption methods include:
+Modern [[magic-mushroom-preparation-and-consumption-methods]] include:
 
 - **Smoking dried leaves**: Produces rapid onset of effects within 30–60
   seconds, with psychoactivity lasting approximately 15 minutes at doses
@@ -87,42 +87,3 @@ level. The primary risks come from the intense dissociative effects
 themselves — falls, accidents, or dangerous behavior during intoxication.
 Setting is critical: using Salvia in unsafe environments (e.g., near
 stairs, while driving) poses the greatest danger.
-
-## Botanical Characteristics
-
-Salvia divinorum is a large-leaved perennial herb that can grow over one
-meter tall in cultivation. It produces characteristic white flowers with
-purple calyces and rarely sets seed — reproducing primarily through
-vegetative propagation by stem cuttings. This vegetative reproduction means
-all cultivated plants are essentially clones of a limited number of wild
-lineages. The plant requires high humidity and partial shade, making it
-somewhat challenging to grow in arid climates without environmental
-controls. It is frost-sensitive and must be protected from cold
-temperatures.
-
-## Regulatory Landscape
-
-As of the review period, Salvia divinorum was not scheduled at the federal
-level in the United States. However, several states have enacted their own
-restrictions, and the DEA continues to monitor it. The plant's legal status
-varies significantly by jurisdiction, with some countries and US states
-having banned it entirely while others have no restrictions. The National
-Drug Intelligence Center identified it as an emerging drug of concern in
-2003.
-
-## Coleus and Related Species
-
-Many other Lamiaceae ornamentals may prove to be psychoactive, including
-Coleus spp. plants popular in gardens for their intense leaf colors. Leaves
-of Coleus blumei and [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]] are sometimes chewed by Mazatec
-Indians as a Salvia divinorum substitute, though only Salvia divinorum
-has been confirmed to contain salvinorin-A. If a common ornamental
-substitute exists, scheduling Salvia could create legal challenges
-around restricting access to popular houseplants.
-
-## See Also
-
-- [[psilocybin-containing-mushrooms-united-states]] — [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mescaline-containing-cacti]] — Phenethylamine hallucinogens
-- [[dmt-maoi-plants-united-states]] — DMT and MAOI [[dmt-botanical-sources-pharmacology]]
-- [[anticholinergic-hallucinogenic-plants]] — Atropine and scopolamine plants

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Flora of North America Editorial Committee (1993). "Cryptogramma." Flora of North America North of Mexico, Vol. 2.
+  - Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (1993). "Cryptogramma." Flora of North America North of Mexico, Vol. 2.
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
   - Windham, M.D. & Rabe, E.W. (1993). "Cryptogramma." In: Flora of North America, Vol. 2, pp. 180-182.
   - USDA NRCS (2024). "Cryptogramma acrostichoides." PLANTS Database.
@@ -46,7 +46,7 @@ Spores are brown, tetrahedral, and approximately 30–40 micrometers in diameter
 
 The sterile frond coloration varies from dark green to almost blue-green depending on light exposure and population origin. Plants in more exposed, high-elevation sites tend to produce darker, more heavily pigmented fronds with a thicker cuticle than those from sheltered sites.
 
-Root systems are relatively shallow, confined to the limited soil and organic matter that accumulates in rock crevices. Despite this constraint, established plants can be remarkably long-lived, with individual rhizomes persisting for decades in stable rock habitats.
+Root systems are relatively shallow, confined to the limited soil [[hamilton-composting-and-organic-matter-management]] that accumulates in rock crevices. Despite this constraint, established plants can be remarkably long-lived, with individual rhizomes persisting for decades in stable rock habitats.
 
 ## Distribution and Habitat
 
@@ -74,11 +74,11 @@ The evergreen sterile fronds provide year-round photosynthetic capacity, an adva
 
 During winter, the sterile fronds often become partially desiccated and may curl inward, reducing surface area exposed to freezing winds and sublimation. This semi-dormant state allows rapid reactivation when temperatures rise above freezing in spring, giving the fern a head start over species that must produce entirely new fronds each season.
 
-Herbivory pressure is minimal due to the fern's remote habitat and the protective chemical compounds in its tissues. The fronds contain phenolic compounds that deter generalist herbivores, a common defensive strategy among alpine rock ferns.
+Herbivory pressure is minimal due to the fern's remote habitat and the protective [[neurotropic-fungi-chemical-compounds]] in its tissues. The fronds contain [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] that deter generalist herbivores, a common defensive strategy among alpine rock ferns.
 
 Spore dispersal occurs primarily by wind during the brief alpine summer. Spore germination requires sustained moisture on bare rock surfaces, making establishment a relatively rare event. Vegetative spread through rhizome fragmentation is the primary means of colony expansion once a plant becomes established.
 
-Genetic studies of alpine fern populations have revealed high levels of within-population diversity in C. acrostichoides, likely maintained by occasional long-distance spore dispersal between isolated rock outcrops. This genetic connectivity helps prevent inbreeding depression in small, isolated populations.
+Genetic studies of alpine fern populations have revealed high levels of within-population diversity in C. acrostichoides, likely maintained by occasional long-distance spore dispersal between isolated rock outcrops. This genetic connectivity helps prevent [[cervantes-hybrid-vigor-inbreeding-depression]] in small, isolated populations.
 
 ## Cultivation and Uses
 
@@ -86,37 +86,4 @@ Cryptogramma acrostichoides is occasionally cultivated by fern enthusiasts and a
 
 In cultivation, the fern performs best in a trough garden, scree bed, or alpine house with protection from winter wet. It is hardy to at least USDA Zone 4 and can survive lower temperatures when the roots are kept dry during dormancy. The species is rarely available commercially and is primarily propagated by specialist nurseries.
 
-Propagation from spores requires patience but is feasible under controlled conditions. Spores sown on sterile, mineral-based media with high humidity will germinate within 4–6 weeks at 15–18°C. Gametophyte development proceeds slowly, with sporophytes typically appearing 6–12 months after sowing.
-
-No significant medicinal or economic uses are documented for C. acrostichoides. The species has no recorded ethnobotanical history among indigenous peoples, likely due to its occurrence in remote alpine areas that were not regularly accessed for plant gathering.
-
-The fern's primary human relevance is as an indicator species for alpine ecosystem health and as a subject of scientific study in plant geography and evolutionary biology. Its disjunct distribution pattern makes it a model organism for studying post-glacial plant migration.
-
-## Conservation Status
-
-Cryptogramma acrostichoides is secure across most of its range and is not considered threatened. It is common in suitable habitat throughout the western mountain ranges.
-
-The species is listed as S5 (secure) in most western states and provinces by NatureServe. Its specialized habitat requirements naturally limit its abundance, but within appropriate rock-crevice habitats it can be locally common.
-
-The disjunct populations in the Black Hills and Lake Superior region are of greater conservation concern due to their isolation and small population sizes. These populations may represent distinct genetic lineages that merit protection as Pleistocene relicts.
-
-Monitoring of these outlier populations has been recommended as a priority for understanding how climate change affects disjunct alpine plant distributions. The Black Hills population, in particular, occurs at the southern and eastern edge of the species' thermal tolerance.
-
-Climate change poses a long-term threat to alpine populations, as warming temperatures may reduce suitable habitat at lower elevations and compress the species into an increasingly narrow elevational band near mountain summits.
-
-Phenological monitoring has documented earlier frond emergence in recent decades, consistent with warming spring temperatures at high elevations. Whether this shift allows expanded spore production or exposes developing fronds to increased late-frost risk remains an active area of research.
-
-## See Also
-
-- [[deparia-acrostichoides]]
-
-- [[cystopteris-fragilis]]
-- [[woodsia-obtusa]]
-- [[equisetum-arvense]]
-- [[pteridium-aquilinum]]
-- [[adiantum-pedatum]]
-- [[asplenium-trichomanes]]
-- [[botrychium-lunaria]]
-- [[dryopteris-filix-mas]]
-- [[adiantum-capillus-veneris]]
-- [[polypodium-vulgare]]
+Propagation from spores requires patience but is feasible under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]. Spores sown on sterile, mineral-based media with high humidity will germinate within 4–6 weeks at 15–18°C. Gametophyte development proceeds slowly, with sporophytes typically appearing 6–12 months after sowing.

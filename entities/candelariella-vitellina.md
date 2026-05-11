@@ -88,26 +88,3 @@ The species is particularly common on the lower trunks of trees in open parkland
 The bright yellow thalli provide a conspicuous food source for specialized lichen-feeding invertebrates. Several species of lichenivorous moth larvae have been recorded feeding on Candelariella species in European forests.
 
 The pigments may also serve a protective function against herbivory and UV damage. Research suggests that pulvinic acid derivatives in the cortex absorb UV radiation and may deter generalist herbivores.
-
-## Uses and Significance
-
-Candelariella vitellina has limited direct economic significance. The intense yellow pigments could theoretically be used as natural dyes, but the species has never been documented as a regular dye lichen in any traditional culture.
-
-Small-scale experimental extraction has confirmed the dye potential of calycin-rich extracts. However, the labor-intensive harvesting of crustose lichens makes commercial application impractical.
-
-In conservation science, C. vitellina is an important study species for understanding the biodeterioration of stone cultural heritage. Its role in stone weathering and its response to conservation treatments have been investigated in numerous studies.
-
-The species is a useful teaching and identification subject due to its distinctive appearance and widespread distribution. It is commonly included in lichen identification courses as an introductory crustose species.
-
-C. vitellina is one of the first yellow lichens that beginners learn to identify in the field. Its bright colour and consistent morphology make it an ideal gateway species for developing lichen identification skills.
-
-## See Also
-
-- [[parmelia-sulcata]]
-- [[physcia-aipolia]]
-- [[xanthoria-elegans]]
-- [[cladonia-rangiferina]]
-- [[anaptychia-ciliaris]]
-- [[usnea-florida]]
-- [[xanthoparmelia-conspersa]]
-- [[melanelia-fuliginosa]]

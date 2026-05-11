@@ -15,7 +15,7 @@ sources:
   - Sargent, C.S. (1965). "Manual of the Trees of psilocybin-north-america-pacific-northwest." Dover Publications.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of [[north-carolina-mycodiversity]] Press.
   - USDA NRCS (2024). "Cercis canadensis L." Plant Database, plants.usda.gov.
 ---
 
@@ -27,7 +27,7 @@ It is native to [[polypore-fungi-eastern-north-america]] America and is widely p
 
 Eastern redbud is one of the first trees to bloom in spring, producing flowers directly on older branches and the trunk before leaf emergence.
 
-The species has edible flowers, pods, and seeds, and has been used medicinally by Native American peoples.
+The species has [[comparison-scented-geraniums-vs-edible-flowers]], pods, and seeds, and has been used medicinally by [[halpern-sacramental-peyote-and-native-american-church]] peoples.
 
 As a member of Fabaceae, Cercis canadensis forms root associations with nitrogen-fixing rhizobia, contributing to soil fertility.
 
@@ -55,7 +55,7 @@ Fruit is a flattened legume pod, 5–10 cm long, containing 4–12 flattened bro
 
 ## Distribution and Habitat
 
-Cercis canadensis is native to eastern and central North America, from southern New England west to Nebraska and south to northern Florida and eastern Texas.
+Cercis canadensis is native to eastern and central [[guzman-psilocybin-mushrooms-north-america]], from southern New England west to Nebraska and south to northern Florida and eastern Texas.
 
 Isolated populations exist in the mountains of northern Mexico, corresponding to var. mexicana.
 
@@ -81,48 +81,10 @@ Seeds can be roasted and consumed, similar to other legume seeds, though they ar
 
 The flowers contain vitamin C, anthocyanins (responsible for the purple color), and various flavonoid antioxidants.
 
-Nutritional analysis is limited, but the seeds likely contain moderate amounts of protein typical of leguminous species.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] is limited, but the seeds likely contain moderate amounts of protein typical of leguminous species.
 
 No toxic compounds have been identified in the flowers or seeds of Cercis canadensis.
 
 ## Ecology and Permaculture
 
 Cercis canadensis is an early-successional species that colonizes forest edges and disturbed sites.
-
-Its root system associates with Bradyrhizobium bacteria, forming nitrogen-fixing nodules that enrich surrounding soil.
-
-This nitrogen-fixing capacity makes it a valuable component in food forest designs, guild plantings, and agroforestry systems.
-
-The tree provides early spring nectar for emerging pollinators, particularly native bees and honey bees.
-
-Seeds are consumed by various bird species including cardinals, bobwhites, and rose-breasted grosbeaks.
-
-The foliage serves as a larval host plant for the redbud leaffolder (Fascista cercerisella) and several species of leafhoppers.
-
-In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], eastern redbud functions as a nitrogen-fixing canopy understory tree, producing edible yield and wildlife habitat.
-
-Its shallow root system makes it suitable for planting near structures, though branches can be brittle in heavy winds.
-
-## Ethnobotany
-
-Native American tribes used Cercis canadensis for both food and medicine.
-
-The Cherokee prepared a bark tea to treat whooping cough, congestion, and fever.
-
-The Delaware used an infusion of inner bark as a cough remedy and to treat dysentery.
-
-Several tribes ate the flowers raw or boiled, and roasted the seeds for food.
-
-A root bark infusion was used by the Creek as a treatment for fever and as a general tonic.
-
-The species was also valued for its wood, which was used for making bows and tool handles due to its flexibility and strength.
-
-Modern herbal use of redbud is minimal, though the flowers remain popular as an edible ornamental in foraging communities.
-
-## See Also
-
-- [[elaeagnus-umbellata]]
-- [[gleditsia-triacanthos]]
-- [[castanea-mollissima]]
-- [[hugelkultur]]
-- [[agroforestry]]

@@ -81,9 +81,3 @@ sustained fruit production throughout the long growing season:
   reduces foliar disease compared to overhead sprinkler systems
 - Water stress during flowering and early fruit development
   causes flower drop and produces smaller, poorly flavored fruit
-
-## See Also
-- [[permaculture-beekeeping]]
-- [[permaculture-tree-crop-systems]]
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[permaculture-fruit-tree-guide]]

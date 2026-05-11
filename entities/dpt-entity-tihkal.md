@@ -88,10 +88,3 @@ The religious use of DPT by the Temple of the True Inner Light in New York City 
 
 - HCl salt mp: 174-176 C (from tryptamine route); 178-179 C (from indole route)
 - MS (m/z): parent ion 246
-
-## See Also
-
-- [[det-entity-tihkal]] -- the diethyl homologue
-- [[psilocin-entity-tihkal]] -- 4-hydroxy-DMT; classic mushroom psychedelic
-- [[psychedelic-therapy-models-comparison]] -- DPT has been used as a psychotherapeutic adjunct
-- [[5-meo-dmt-entity-tihkal]] -- 5-methoxy-DMT; another potent tryptamine with spiritual qualities

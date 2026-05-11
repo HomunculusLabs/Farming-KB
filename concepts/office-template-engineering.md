@@ -88,46 +88,8 @@ both static content and dynamic elements like fields and content controls.
 ### Conditional Formatting
 
 Conditional formatting in templates uses fields and IF expressions to vary
-document content based on document properties or user input. This enables
-templates that adapt to different scenarios, such as displaying different
-boilerplate text for different document types or including/excluding sections
-based on user selections in content controls.
-
-### Linked Styles and Style Sets
-
-Linked styles in Word can function as both paragraph and character styles,
-reducing the total number of styles users need to learn. Style sets allow
-organizations to provide multiple visual designs for the same document
-structure, enabling teams to produce documents with different branding while
-maintaining consistent structure and semantic markup.
-
-## Template Distribution and Governance
-
-Enterprise template distribution requires infrastructure for hosting templates,
-ensuring users access the correct versions, and collecting feedback for
-continuous improvement. Network-based template storage, group policy settings,
-and add-in deployment tools all play roles in the template distribution
-ecosystem.
-
-Template governance involves establishing ownership, review cycles, and
-deprecation procedures. Templates that are no longer maintained should be
-formally deprecated and removed from distribution to prevent users from
-creating documents with outdated formatting or broken automation.
-
-## Testing and Quality Assurance
-
-Template testing should cover layout verification across target Word versions,
-style consistency checks, font embedding validation, and automated testing of
-macros and content controls. Regression testing is essential when updating
-templates to ensure that changes do not break existing documents that were
-created from previous template versions.
-
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
-See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
 
 ## See Also
-
-- [[document-automation-administration]] for the administrative context
-- [[office-open-xml]] for the XML schema governing templates
-
-See also: [[natural-building]]
+- [[office-open-xml]]
+- [[genetic-engineering-fungal-bioremediation]]
+- [[fukuoka-textdoc-genetic-engineering-warning]]

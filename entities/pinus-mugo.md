@@ -88,56 +88,5 @@ higher elevations.
 
 Subspecies *uncinata* is found in the Pyrenees and western Alps.
 
-The species grows on acidic to neutral soils derived from granite, gneiss,
-limestone, and volcanic substrates.
-
-It is highly tolerant of poor, shallow, and rocky soils.
-
-Pinus mugo is extremely cold-hardy and wind-resistant, dominating the alpine
-treeline as krummholz mats.
-
-## Ecological Role
-
-Pinus mugo is a key species at the alpine treeline, forming the transition
-between closed subalpine forest and alpine tundra.
-
-Its prostrate form provides windbreaks and microhabitats facilitating the
-establishment of other tree species.
-
-Dense mats protect soil from erosion on steep slopes and stabilize
-subalpine soils subject to freeze-thaw disturbance.
-
-The species acts as a nurse plant for conifer seedlings at treeline,
-improving germination through shade and snow retention.
-
-In Scandinavia and the British Isles, Pinus mugo has become invasive in some
-areas, spreading into open habitats and threatening native communities.
-
-## Uses and Cultivation
-
-Pinus mugo is one of the most widely cultivated conifers for ornamental
-purposes in temperate gardens worldwide.
-
-Dwarf cultivars are popular in rock gardens, foundation plantings, and
-bonsai.
-
-The species is extensively used for erosion control on steep slopes and mine
-reclamation sites throughout mountainous Europe.
-
-[[permaculture-designers-manual-essential-oil-plants]] distilled from needles ("mugo pine oil") is used in
-aromatherapy and bath products.
-
 ## See Also
-
-- [[pinus-rigida]]
-
-- [[pinus-monticola]]
-
-- [[pinus-sylvestris]]
-- [[pinus-nigra]]
-- [[picea-abies]]
-- [[abies-alba]]
-- [[larix-decidua]]
-- [[juniperus-communis]]
-- [[picea-pungens]]
-- [[pinus-ponderosa]]
+- [[pinus-pinea]]

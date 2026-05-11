@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
@@ -87,42 +88,3 @@ pesticides or low-to-no pesticide use is possible.
 - Verticillium needs 70% surface coverage with bacteria and fungi (5%
   minimum fungi)
 - Rhizoctonia response varies by species -- some need full-spectrum tea
-- Fireblight suppression has been observed anecdotally in New York
-- Anaerobic soil conditions are the root cause of many bacterial/oomycete
-  diseases
-- Restoring aerobic biology is the primary treatment, not chemical intervention
-
-## The Improvement Stall
-
-When transitioning from conventional to biological management, the
-improvement "stalls" because you have to build the food web back all the
-way. You cannot just apply AACT once and expect lasting results. Each
-application builds on the previous one. The organisms need time to
-establish, reproduce, and create the self-sustaining food web that
-naturally suppresses these pathogens.
-
-## Soil Sample First
-
-Before attempting treatment, get a soil sample done to determine the
-biology present. Without knowing what organisms are missing or suppressed,
-you cannot apply the right remedy. The soil food [[ingham-soil-food-web-assessment-methods]] tells you
-whether you need more bacteria, more fungi, more protozoa, or more
-nematodes to combat the specific disease pressure you face.
-
-## The Long-Term View
-
-AACT is a preventative system, not a curative one. For soils that have
-been in conventional management with high pesticide inputs, expect the
-transition to take multiple growing seasons. The organisms in AACT do not
-act as pesticides -- they occupy space and use resources, slowly
-outcompeting the pathogens over time. Patience and consistent application
-are essential.
-
-## See Also
-
-- [[ingham-aact-disease-case-studies-specific-pathogens]]
-
-- [[ingham-disease-case-studies-fungal]]
-- [[fungal-bioremediation-case-studies]]
-- [[humic-acids-soil-biology-ingham]]
-- [[fukuoka-soil-self-improvement-without-tillage]]

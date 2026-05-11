@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycological Terms Glossary
@@ -86,46 +87,3 @@ Key mycological terms used in the study of fungi, drawn from the glossary of *[[
 **hypha, hyphae**: The individual fungal cell — a threadlike filament. The building block of mycelium.
 
 **hyphal aggregates**: Visible clusters of hyphae resembling cottony tufts, often preceding [[growing-gourmet-primordia-formation-pinning]].
-
-**hyphosphere**: The microscopic environment in direct proximity to the hyphae.
-
-## K-L
-
-**karyogamy**: The fusion of two sexually opposite nuclei within a single cell.
-
-**lamellae**: The gills of a mushroom, located on the underside of the cap.
-
-**lignicolous**: Growing on wood or woody tissue substrates.
-
-**lignin**: The organic substance that, with cellulose, forms the structural basis of most woody tissue. One of the most recalcitrant natural polymers.
-
-## M
-
-**meiosis**: Reduction division by which a single diploid cell subdivides into four haploid cells.
-
-**mitosis**: Nonsexual nuclear division where chromosomes replicate and divide equally into two daughter nuclei.
-
-**monokaryon**: The haploid state of mushroom mycelium, typically containing one nucleus per cell.
-
-**monomitic**: Fungal flesh consisting only of thin-walled, branched, narrow (generative) hyphae.
-
-**myceliated**: A condition whereby mycelium has colonized or infused through a substrate (term coined by Stamets).
-
-**mycelium, mycelia**: The [[mycelium-running-mycelium-natures-internet-fungal-network-theory]] of threadlike cells. The vegetative body of fungi, typically hidden within substrates.
-
-**mycology**: The study of fungi.
-
-**mycophagist**: A person or animal that eats fungi.
-
-**mycophile**: A person who likes mushrooms.
-
-**mycophobe**: A person who fears mushrooms.
-
-**mycorrhizal**: A symbiotic state wherein mushroom mycelium forms on or in the roots of trees and other plants.
-
-**mycosphere**: The environment in which mycelium operates.
-
-**mycotopia**: An environment in which fungi are actively used to enhance or preserve ecological equilibrium (term coined by Stamets).
-## See Also
-- [[biological-efficiency]]
-- [[mycorrhizal-fungi]]

@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Greenhouse Seed Co. (2010). "The Green House Seed Co. Strain Guide." Green House Seeds.
+  - cannabis-strain-super-lemon-haze-greenhouse-seed-co. (2010). "The Green House Seed Co. Strain Guide." Green House Seeds.
   - Leafly Staff (2023). "SFV OG blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "SFV OG Kush Strain Review." AllBud.com.
   - Soft Secrets (2019). "OG Kush Family Tree: Untangling the Lineage." Soft Secrets Magazine.
@@ -20,11 +20,11 @@ sources:
 
 ## Overview
 
-SFV OG, short for San Fernando Valley OG, is an indica-dominant hybrid cannabis
+SFV OG, short for San Fernando Valley OG, is an indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
 strain descended from the legendary OG Kush lineage. Originating in the San
 Fernando Valley region of Los Angeles, California, it emerged in the early
 2000s as a distinct phenotype selected for its potent sedative effects and
-complex terpene profile.
+complex [[cannabis-terpene-profile]].
 
 The strain is highly regarded among cannabis enthusiasts for its deep body
 relaxation and stress-relieving properties. It has become a staple in Southern
@@ -46,11 +46,11 @@ As an OG Kush phenotype rather than a deliberate cross, SFV OG represents a
 specific expression of the OG Kush genotype that was stabilized through
 selective cloning. A San Fernando Valley grower identified a particularly
 desirable plant and propagated it as a cut-only cultivar, preserving its
-unique characteristics through vegetative propagation.
+unique characteristics through [[hamilton-vegetative-propagation]].
 
 **Notable descendants:** SFV OG has been used extensively as a breeding parent.
-Notable crosses include SFV OG Kush x Animal Cookies (producing various
-OG Cookie phenotypes), SFV OG x Tahoe OG, and SFV OG x Blackberry Kush.
+Notable crosses include SFV OG Kush x [[animal-cookies]] (producing various
+OG Cookie phenotypes), SFV OG x Tahoe OG, and SFV OG x [[blackberry-kush]].
 
 ## Appearance
 
@@ -88,59 +88,3 @@ smoother smoke that still delivers the characteristic Kush depth.
 
 - Myrcene (0.8–1.2%): Sedative, musky-earthy base notes. Primary driver of
 the strain's physical relaxation effects.
-- Limonene (0.5–0.8%): Bright citrus aroma and mood-elevating properties.
-- Caryophyllene (0.3–0.6%): Peppery undertone. Binds CB2 receptors,
-contributing anti-inflammatory effects.
-- Linalool (0.2–0.4%): Floral, lavender notes enhancing sedation.
-- Humulene (0.1–0.3%): Woody, hop-like aroma with appetite-suppressing
-properties.
-
-**Cannabinoid profile:**
-
-- THC: 18–24% (occasionally higher in premium cuts)
-- CBD: <0.1%
-- CBG: Trace (<0.5%)
-
-## Effects
-
-**Onset:** Effects begin within 5–10 minutes of inhalation, starting with a
-cerebral pressure around the eyes and temples that is characteristic of OG
-Kush varieties.
-
-**Progression:** Initial head-focused effects transition rapidly into deep
-body relaxation. A warm, heavy sensation spreads from the chest through the
-limbs, often described as "couch-lock" at higher doses. Mental state becomes
-calm and mildly euphoric without significant psychoactive intensity.
-
-**Duration:** 2–3 hours, with sedative aftereffects persisting for an
-additional 1–2 hours.
-
-**Medical applications:** Widely used for [[cannabis-chronic-pain-management]] management, insomnia,
-muscle spasms, anxiety, and stress-related disorders. The strong body effects
-make it particularly effective for nighttime use and conditions requiring deep
-physical relaxation.
-
-**Side effects:** Common side effects include dry mouth and dry eyes. At
-higher doses, dizziness, paranoia, and heightened anxiety may occur,
-particularly in inexperienced users or those sensitive to THC.
-
-## Cultivation
-
-**Difficulty:** Moderate. SFV OG is best suited to experienced growers
-comfortable with [[green-cannabis-grow-bible-nutrient-management-ppm]] and [[eclss-environmental-control-life-support]].
-
-**Flowering time:** 8–9 weeks indoors. Outdoor harvest in mid-October
-(Mediterranean climates).
-
-**Yield:** Moderate, typically 300–400 g/m² indoors. Yields are limited by
-the dense bud structure and the plant's sensitivity to environmental stress.
-
-**Growing notes:** The strain is sensitive to overfeeding, particularly
-nitrogen. It responds well to low-stress training (LST) and scrog methods.
-Temperature should be maintained below 27°C (80°F) during flowering to
-prevent terpene degradation. Plants develop strong, skunky odor during late
-
-## See Also
-- [[chemdawg]]
-- [[larry-og]]
-- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

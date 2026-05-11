@@ -1,5 +1,5 @@
 ---
-title: "artillery-fungus-and-built-environment-fungi as Energy Storage and the Household Economy"
+title: Holmgren Built Environment Household Energy Storage
 created: 2026-04-26
 tags:
   - built-environment
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - ~/wiki/raw/papers/holmgren-tripartite-altruism-permaculture-principles-pathways-beyon.md
 type: concept
 ---
@@ -19,7 +20,7 @@ type: concept
 holmgren-household-economy-and-self-reliance
 and [[appropriate-technology]]: The [[comparison-passive-solar-vs-earth-sheltered]] Example
 
-A passive solar house uses the high-embodied energy in glass to capture solar
+[[query-how-to-build-a-passive-solar-greenhouse]] house uses the high-embodied energy in glass to capture solar
 energy. If it does this while providing the other functions of glass -- natural
 lighting and views -- this is good use of embodied non-renewable energy. This is
 the archetype of [[mollison-designers-appropriate-technology-small-scale-tools]]: using concentrated non-renewable energy
@@ -27,7 +28,7 @@ to establish a system that will continue to function on renewable flows.
 
 At Melliodora, connection to mains electricity supports less than 3 kilowatt
 hours per day -- less than one-fifth of typical household use. Space heating,
-water heating, and cooking are provided with renewable energy (passive solar and
+water heating, and cooking are provided with renewable energy ([[passive-solar-and-biomass-energy]]
 wood). Electricity for refrigeration is more of an extra than an essential
 service.
 
@@ -85,22 +86,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-## See Also
-- [[appropriate-technology]]
-- [[artillery-fungus-and-built-environment-fungi]]
-- [[holmgren-energy-descent-planning]]
-- [[phase-change-materials-thermal-energy-storage]]
-- [[holmgren-soil-humus-carbon-storage-rebuilding]]

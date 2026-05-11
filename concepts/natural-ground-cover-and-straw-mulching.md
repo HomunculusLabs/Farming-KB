@@ -5,6 +5,7 @@ tags: [natural-farming, soil-management, mulching, clover, green-manure, cover-c
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - path: raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
     author: Masanobu Fukuoka
     title: The Natural Way of Farming
@@ -87,60 +88,3 @@ Fourth, the straw provides [[query-how-do-i-design-habitat-for-beneficial-insect
 beetles, and other predators that control pest populations thrive in the straw
 mulch layer, establishing the biological pest control that eliminates the need
 for pesticides.
-
-## Green Manure Trees in Orchards
-
-In orchard systems, Fukuoka extended the ground cover concept to include green
-manure trees. Leguminous trees such as acacia fix nitrogen and produce leaf
-litter that enriches the soil. Myrtle produces phosphoric acid and potash.
-Alder and podocarpus contribute additional nutrients. These trees are
-interplanted with fruit trees, creating a three-dimensional system that makes
-full use of available space and light.
-
-Climbing fruit vines such as grapevine, akebia, and Chinese gooseberry can be
-added to the system with interesting results. Leguminous herbs and forage
-crops serve as additional orchard undergrowth. Poultry and livestock can graze
-freely in the orchard, contributing manure while controlling insects and
-vegetation. The result is a self-maintaining polyculture that requires minimal
-human management.
-
-## The Soil Food Web
-
-Fukuoka understood that one gram of soil on his farm contained about 100
-million nitrogen-fixing bacteria and other soil-enriching microbes. This living
-soil community, not chemical inputs, drives fertility. When green manure plants
-thrive at the base of rice plants and later algae grows on the flooded field,
-they absorb solar energy and convert it to biomass. When the field is flooded,
-the green manure withers and dies, passing nitrogen to algae, which in turn
-become a phosphate source. Microbes flourish on this phosphate and die,
-leaving nutrients that rice roots absorb.
-
-This complex cycle of energy and element transfer cannot be replicated by
-chemical fertilization, which provides isolated nutrients without the
-biological context that makes them available and useful to plants. Chemical
-fertilization is analogous to feeding a person individual vitamins and
-minerals while starving them of actual food.
-
-## Building Deep Fertile Soil
-
-The long-term strategy of ground cover cultivation is to create deep, fertile
-soil without external inputs. Fukuoka identified three primary mechanisms for
-achieving this:
-
-1. **Direct burial of coarse organic matter**: Branches, leaves, and other
-   coarse material are buried in contour trenches where they decompose slowly,
-   improving soil structure at depth.
-
-2. **Root penetration by deep-rooted plants**: Grasses and trees send roots
-   deep into the subsoil, breaking up compacted layers and bringing nutrients
-   to the surface through leaf fall. Tree roots also contribute to soil
-   aggregation and serve a chelating action that solubilizes insoluble
-   nutrients.
-
-3. **[[mycelial-network-nutrient-transport-imaging-gadd]] from upslope preserves**: A natural wood preserve on
-   the uphill side of the farm builds humus that washes downhill with
-
-## See Also
-- [[query-jadam-vs-korean-natural-farming]]
-- [[non-causality-in-nature]]
-- [[fukuoka-natural-orchard-ground-cover]]

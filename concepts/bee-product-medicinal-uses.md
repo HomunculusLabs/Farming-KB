@@ -9,10 +9,10 @@ sources: []
 
 # Bee Product Medicinal Uses
 
-Honey bees produce several products with documented medicinal properties. (see [[bee-products-beyond-honey]]).
+Honey bees produce several products with documented [[panax-ginseng]].
 Beyond honey's well-known antibacterial effects, propolis, pollen, royal
 jelly, and beeswax each offer therapeutic benefits. This guide covers the
-evidence and practical applications of each product. (see [[medicinal-mushroom-guide-oyster]]).
+evidence and practical applications of each product.
 
 ## Honey
 
@@ -23,7 +23,7 @@ research supports several mechanisms:
 - **Osmotic effect** — high sugar concentration draws water from wounds,
   reducing edema and creating an unfavorable environment for bacteria
 - **Low pH (3.2-4.5)** — acidic environment inhibits bacterial growth
-- **Hydrogen peroxide production** — the enzyme glucose oxidase produces
+- **[[cervantes-hydrogen-peroxide-sterilization]] production** — the enzyme glucose oxidase produces
   low levels of H2O2 when honey is diluted by wound fluids, providing
   sustained antibacterial action
 - **MGO (methylglyoxal)** — unique to manuka honey; non-peroxide
@@ -67,7 +67,7 @@ research supports several mechanisms:
 
 ## Propolis
 
-Propolis is a resinous substance bees collect from tree buds and sap flows. (see [[honey-varieties-guide]]).
+Propolis is a resinous substance bees collect from tree buds and sap flows.
 They use it to seal gaps in the hive and as an antimicrobial agent.
 
 ### Composition
@@ -77,8 +77,8 @@ source and region.
 
 ### Medicinal Properties
 - **Antibacterial** — active against Gram-positive bacteria including
-  Staphylococcus aureus and Streptococcus species
-- **Antifungal** — effective against Candida albicans and dermatophytes
+  [[staphylococcus-aureus]] and Streptococcus species
+- **Antifungal** — effective against [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] and dermatophytes
 - **Antiviral** — shows activity against influenza and herpes simplex virus
 - **Anti-inflammatory** — inhibits prostaglandin and leukotriene synthesis
 - **Antioxidant** — flavonoids scavenge free radicals
@@ -138,13 +138,12 @@ mandibular glands.
 - 12-15% protein (including unique royalactin)
 - 10-16% sugars
 - 3-6% lipids
-- B vitamins, minerals, and bioactive compounds
+- B vitamins, minerals, and [[cordyceps-cancer-bioactive-compounds]]
 
 ### Medicinal Properties
 - **Neuroprotective** — animal studies show improved cognitive function
-  and protection against neurodegenerative diseases
+  and protection against [[blesching-cannabis-neurodegenerative-diseases]]
 - **Anti-inflammatory** — reduces inflammatory markers in vitro
 - **Antioxidant** — significant free radical scavenging activity
 - **Wound healing** — promotes fibroblast migration and collagen synthesis
 - **Cholesterol** — some evidence for LDL reduction
-

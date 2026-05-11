@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,13 +87,3 @@ with stored grain or placed in storage containers to protect harvests
 without chemical residues.
 
 ## Integration in Garden Design
-
-In the mollison-tropical-animal-integration-pest-control-and-recycling
-- [[mollison-free-range-pig-systems]]
-- mollison-village-complex-elements-in-the-humid-tropics
-## See Also
-- [[integrated-pest-management]]
-- [[bacillus-thuringiensis]]
-- [[melia-azedarach]]
-- [[permaculture-design]]
-- [[azadirachta-indica]]

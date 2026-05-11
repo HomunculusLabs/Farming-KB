@@ -22,7 +22,7 @@ Swazi Gold is a pure sativa [[cervantes-landrace-cannabis-populations]] strain o
 
 The strain is considered one of the foundational African landraces and has contributed genetics to numerous modern hybrid cultivars.
 
-It is renowned for its tall stature, vigorous growth, long flowering period, and potent cerebral effects characteristic of equatorial sativas.
+It is renowned for its tall stature, vigorous growth, long flowering period, and potent cerebral effects characteristic of [[durban-poison-and-equatorial-sativas]].
 
 Swazi Gold has been cultivated by local farmers for generations and represents an important genetic reservoir for breeding programs.
 
@@ -36,7 +36,7 @@ Genetic analysis places it within the southern African cannabis [[cannabis-gene-
 
 The strain has been used as a parent in crosses with Asian and Afghan varieties to create hybrids with improved flowering times.
 
-Notable descendants include various "Swazi" crosses and African sativa hybrids developed by Dutch seed companies in the 1990s and 2000s.
+Notable descendants include various "Swazi" crosses and [[cannabis-strain-king-congo-african-sativa]] hybrids developed by Dutch [[spanish-cannabis-seed-companies]] in the 1990s and 2000s.
 
 Its genetics have also contributed to breeding programs in Thailand, Jamaica, and Brazil through [[fukuoka-oil-companies-international-seed-war]] exchange.
 
@@ -68,9 +68,9 @@ The plant structure is典型热带型，带有细长的节间和大叶指状叶�
 
 ## Terpene and Cannabinoid Profile
 
-主导萜烯包括myrcene（甜/泥土底调）、terpinolene（果香/花香复合调）和caryophyllene（辛辣/胡椒味）。
+主导萜烯包括myrcene（甜/泥土底调）、[[terpinolene]]（果香/花香复合调）和caryophyllene（辛辣/胡椒味）。
 
-次要萜烯包括limonene（柑橘）、pinene（松树）和linalool（花香）。
+次要萜烯包括limonene（柑橘）、[[pinene]]（松树）和linalool（花香）。
 
 THC含量在经典的未选择种群中通常在12–18%之间，但经过选育的系可以达到20%以上。
 
@@ -87,32 +87,3 @@ Swazi Gold需要漫长的开花时间，室内需要12–14周，室外则需要
 由于体型较大，它在温暖的温带或亚热带户外环境中表现最佳，可提供高产，通常每株可产300-500克。
 
 室内种植者通常会使用scrOG训练或早期 topping 以控制其伸展。
-
-该菌株对霉菌和害虫表现出良好的抗性，特别是对白粉病，这可能是一种选择性特征。
-
-种子生产是丰硕的，这使得该菌株对保存性种植者具有吸引力。
-
-温度敏感性较低，尽管在开花后期温度降至10°C以下可能会导致花发育停止。
-
-## Effects
-
-Swazi Gold delivers a classic sativa experience characterized by an energetic, uplifting cerebral onset.
-
-The high is long-lasting, often persisting 3–5 hours, with minimal body sedation at moderate doses.
-
-Users commonly report enhanced creativity, sociability, and focus, making it popular for daytime use.
-
-At higher doses, the effects can become intensely cerebral and potentially overwhelming for novice consumers.
-
-The strain is sometimes used medicinally for fatigue, depression, and attention disorders, though clinical evidence is limited.
-
-Side effects may include dry mouth, dry eyes, anxiety in sensitive individuals, and mild tachycardia.
-
-## See Also
-
-- [[cannabis-sour-diesel]]
-- [[chemdawg]]
-- [[purple-haze-cannabis]]
-- [[jack-herer]]
-- [[gelato]]
-- [[runtz-entity]]

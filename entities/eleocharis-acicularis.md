@@ -16,7 +16,7 @@ sources:
   - USDA NRCS (2024). "Eleocharis acicularis Plant Guide." Natural Resources
     Conservation Service.
   - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of
-    Southeastern United States." University of Georgia Press.
+    Southeastern [[dmt-containing-plants-united-states-halpern]]." University of Georgia Press.
 ---
 
 ## Overview
@@ -31,7 +31,7 @@ The species has a circumboreal distribution and is one of the most widespread
 spikerush species in [[psilocybin-north-america-pacific-northwest]].
 
 Its dense root systems stabilize substrates in littoral zones, making it
-valuable for [[permplant-willows-salix-erosion-control-fodder]] and ecological restoration.
+valuable for [[permplant-willows-salix-erosion-control-fodder]] and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## Taxonomy and Morphology
 
@@ -61,7 +61,7 @@ persistent style base forming a short tubercle.
 
 ## Distribution and Habitat
 
-Needle spikerush has a circumboreal distribution across North America,
+Needle spikerush has a circumboreal distribution across [[guzman-psilocybin-mushrooms-north-america]],
 Europe, and Asia.
 
 In North America, it occurs from Alaska to Newfoundland, south to
@@ -88,59 +88,3 @@ Its dense stands offer cover for aquatic invertebrates, amphibian larvae,
 and small fish in the shallow littoral zone.
 
 Waterfowl including ducks, geese, and shorebirds feed on the tubers,
-seeds, and vegetation.
-
-The fine root system binds loose sediments and reduces shoreline erosion
-from wave action and water currents.
-
-Needle spikerush contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing nitrogen
-and phosphorus from sediments and pore water.
-
-It colonizes disturbed sites rapidly, often serving as an early successional
-species in wetland plant communities.
-
-The species can form extensive monocultures that dominate the shoreline
-vegetation of ponds and reservoirs.
-
-## Uses
-
-Needle spikerush is widely used in ecological restoration and constructed
-wetlands for shoreline stabilization and water-quality improvement.
-
-Its low stature and fine texture make it suitable for small water gardens
-and naturalistic pond margins.
-
-It is sometimes used as a nursery plant in aquaculture, providing shelter
-for juvenile fish and crustaceans.
-
-The species has been investigated for phytoremediation potential due to its
-ability to accumulate heavy metals from contaminated sediments.
-
-It has limited forage value for livestock but is grazed by waterfowl.
-
-## Conservation
-
-Eleocharis acicularis is globally secure and not considered threatened.
-
-It is widespread, common, and tolerant of a broad range of environmental
-conditions.
-
-However, local populations may be impacted by shoreline development,
-drainage of wetlands, and herbicide application.
-
-The species is listed in several state-level protected plant databases as
-an indicator of high-quality wetland communities.
-
-## See Also
-
-- [[eleocharis-equisetiformis]]
-
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
-- [[typha-angustifolia]]
-- [[typha-domingensis]]
-- [[sagittaria-latifolia]]
-- [[pontederia-cordata]]
-- [[alisma-plantago-aquatica]]
-- [[potamogeton-natans]]

@@ -14,7 +14,7 @@ sources:
   - Ferguson, A.R. & Huang, H. (2007). "Genetic resources of kiwifruit: domestication and breeding." Horticultural Reviews, 33, 1–121.
   - Beever, D.J. & Hopkirk, G. (1990). Fruit Physiology and Production. In: Kiwifruit: Science and Management. Ray Richards Publisher.
   - McGhie, T.K. & Ainge, G.D. (2002). "Color in fruit of the genus Actinidia." Journal of Agricultural and Food Chemistry, 50(1), 117–123.
-  - USDA ARS. (2024). "GRIN Taxonomy: Actinidia deliciosa." Germplasm Resources Information Network.
+  - USDA ARS. (2024). "GRIN Taxonomy: Actinidia deliciosa." Germplasm Resources [[mycelium-digestive-membrane-information-network]].
 ---
 
 ## Overview
@@ -65,7 +65,7 @@ It prefers deep, fertile, well-drained loamy soils with adequate moisture and pa
 
 The species is naturalized in several countries including New Zealand, Italy, the [[dmt-containing-plants-united-states-halpern]] (California), and Chile.
 
-Naturalized populations occasionally establish from discarded fruit in mild temperate regions.
+Naturalized populations occasionally establish from discarded fruit in mild [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 It requires a [[savory-growing-season-and-non-growing-season-management]] of 200–240 frost-free days and approximately 600–1,200 mm of annual rainfall.
 
@@ -87,50 +87,4 @@ Commercial cultivars are predominantly selections from the 'Hayward' clone, whic
 
 The 'Hayward' cultivar was selected in New Zealand in the 1920s by Hayward Wright and remains the industry standard.
 
-Major pests include root-knot nematodes, leafroller caterpillars, and the bacterial canker *Pseudomonas syringae* pv. *actinidiae*.
-
-Bacterial canker (PSA) has caused devastating losses in Italian and New Zealand orchards since 2010.
-
-## Nutritional Value
-
-Kiwifruit is exceptionally rich in vitamin C, containing approximately 85–90 mg per 100 g of fresh fruit.
-
-This exceeds the vitamin C content of oranges on a per-weight basis by a significant margin.
-
-The fruit also provides vitamin K, vitamin E, folate, and dietary fiber (approximately 3 g per 100 g).
-
-Kiwifruit contains the enzyme actinidin, a cysteine protease that aids protein digestion.
-
-Actinidin is commercially used as a meat tenderizer and has been studied for its digestive health benefits.
-
-The green flesh contains significant levels of chlorophyll, lutein, and other carotenoids.
-
-## History and Commercial Significance
-
-Kiwifruit was known in China for centuries as 猕猴桃 (míhóutáo), meaning "macaque peach."
-
-The first recorded introduction to the West was in 1904, when seeds were brought to New Zealand by Mary Isabel Fraser.
-
-The first commercial plantings in New Zealand were established in the 1930s and 1940s.
-
-The fruit was originally marketed as "Chinese gooseberry" until a 1959 export renaming to "kiwifruit" after the New Zealand kiwi bird.
-
-New Zealand dominated global production from the 1950s through the 1980s before Italy, Chile, and China expanded cultivation.
-
-Global production has grown from approximately 200,000 tonnes in 1980 to over 4 million tonnes today.
-
-China is now the world's largest producer by volume, though New Zealand and Italy lead in export value.
-
-The kiwifruit industry has expanded to include green-fleshed (*A. deliciosa*) and yellow-fleshed (*A. chinensis*) varieties.
-
-Organic and greenhouse production methods have gained market share in premium export channels.
-
-## See Also
-
-- [[actinidia-arguta]]
-
-- [[vitis-vinifera]]
-- [[passiflora-edulis]]
-- [[fukuoka-citrus-orchard-establishment-bare-hillside]]
-- rubus-idaeus-entity
-- [[cydonia-oblonga]]
+Major pests include root-knot nematodes, leafroller caterpillars, and the bacterial canker *[[pseudomonas]] syringae* pv. *actinidiae*.

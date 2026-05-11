@@ -9,11 +9,11 @@ sources: []
 
 # Building with Natural Materials
 
-Natural building uses locally sourced, minimally processed materials [[natural-building-materials-guide]] to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
+Natural building uses locally sourced, minimally processed materials to create structures that are healthy, energy-efficient, and low in embodied energy. For the homesteader, natural building reduces costs, eliminates dependency on industrial supply chains, and creates buildings that are uniquely suited to their climate and landscape.
 
 ## Cob
 
-Cob is a mixture of clay subsoil, sand, and straw, hand-sculpted into monolithic walls. It is one of the oldest building [[natural-building-materials-guide]] methods in the world and requires no power tools, no forms, and no special skills to begin learning.
+Cob is a mixture of clay subsoil, sand, and straw, hand-sculpted into monolithic walls. It is one of the oldest building methods in the world and requires no power tools, no forms, and no special skills to begin learning.
 
 ### Cob Mix Recipe
 
@@ -39,7 +39,7 @@ Test your subsoil by doing a simple shake test: fill a jar 1/3 with subsoil, add
 - Allow each course to firm up before adding the next
 - Sculpt niches, shelves, and furniture directly into the walls
 - Embed windows and doors with wooden frames as you build
-- Walls should be 18-24 inches thick for structural strength and thermal mass
+- Walls should be 18-24 inches thick for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] and thermal mass
 - Install a roof overhang of at least 2 feet to protect walls from rain
 
 ### Pros and Cons
@@ -50,15 +50,15 @@ Cons: Labor intensive, slow building process, vulnerable to prolonged moisture e
 
 ## Straw Bale
 
-Straw bale construction uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
+[[comparison-cob-construction-vs-straw-bale-construction]] uses baled straw (not hay) as either infill insulation within a structural frame (post-and-beam) or as the structural wall itself (load-bearing, also called Nebraska style).
 
 ### Straw vs Hay
 
-Straw is the hollow stem of grain crops (wheat, oats, barley) after the grain is harvested. Hay is the whole plant including seed heads and leaves. Always use straw -- hay contains seeds that can sprout and organic matter that attracts pests.
+Straw is the hollow stem of grain crops (wheat, oats, barley) after the grain is harvested. Hay is the whole plant including seed heads and leaves. Always use straw -- hay contains seeds that can sprout [[hamilton-composting-and-organic-matter-management]] that attracts pests.
 
 ### Building Methods
 
-Post-and-beam (non-load-bearing): A timber frame provides structural support. Straw bales fill the spaces between posts as insulation. This is the most common approach and easiest to get permitted.
+Post-and-beam (non-load-bearing): A timber frame provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]. Straw bales fill the spaces between posts as insulation. This is the most common approach and easiest to get permitted.
 
 Load-bearing (Nebraska style): Bales carry the weight of the roof. Requires careful bale selection, compression, and pinning. Limited to single-story construction.
 
@@ -100,7 +100,7 @@ Earthships are passive solar buildings developed by Michael Reynolds that use re
 - Passive solar: South-facing glass captures winter sun
 - Natural ventilation: Operable windows and skylights create cross-ventilation
 - Rainwater catchment: Roof water collection for all water needs
-- Greywater treatment: Interior planters filter and reuse greywater
+- [[mollison-designers-greywater-treatment-reedbeds]]: Interior planters filter and reuse greywater
 - Solar and wind power: On-site electricity generation
 - Food production: Interior and exterior growing spaces
 
@@ -114,7 +114,7 @@ Earthships are passive solar buildings developed by Michael Reynolds that use re
 
 ### Considerations
 
-Earthships are labor-intensive (hundreds of hours of tire pounding) but use free materials. They perform well in arid and temperate climates but can have moisture issues in humid climates. Not permitted in all areas.
+Earthships are labor-intensive (hundreds of hours of tire pounding) but use free materials. They perform well in arid and [[fukuoka-natural-farming-temperate-climates]] but can have moisture issues in humid climates. Not permitted in all areas.
 
 ## Natural Plasters
 

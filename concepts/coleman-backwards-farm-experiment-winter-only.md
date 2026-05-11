@@ -1,7 +1,7 @@
 ---
 title: The Backwards Farm Experiment — Six Years of Winter-Only Growing
 source: eliot-coleman-winter-harvest-handbook.md
-author: Eliot Coleman
+author: [[eliot-coleman]]
 tags: [coleman, winter-harvest, backwards-farm, winter-only-growing, seasonal-production, experimental-farming, green-manure]
 ---
 
@@ -27,7 +27,7 @@ to do in winter. What if you could reverse that pattern entirely — work throug
 months when most farms were idle, and take the summer off?
 
 This was not merely a lifestyle choice but a genuine research question. Coleman wanted to
-understand the full potential of winter production by concentrating all his energy on it
+understand the full potential of [[coleman-beet-greens-cold-house-winter-production]] by concentrating all his energy on it
 without the distraction of summer crops.
 
 ## What They Grew
@@ -61,14 +61,14 @@ most farmers expect.
 ## The Summer Green Manure Phase
 
 One of the most important aspects of the backwards farm experiment was the use of summer
-green manures. During the months when the greenhouses were empty of vegetable crops, the soil
-was planted with long-term, deep-rooting, leguminous green manure crops.
+[[cover-crops-and-green-manures]]. During the months when the greenhouses were empty of vegetable crops, the soil
+was planted with long-term, deep-rooting, leguminous [[green-manure-crops]].
 
 These green manures served multiple purposes. They protected the soil from erosion and weed
 invasion during the fallow period. They fixed atmospheric nitrogen through their root
 nodules, enriching the soil for the following winter's crops. Their deep roots aerated the
 soil and brought up nutrients from lower soil horizons. When turned under, they added
-substantial organic matter.
+substantial [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 The green manure could occupy the uncovered soil for as long as thirteen months (June through
 the following July) if the farmer forgoes a summer vegetable crop, or ten months (September
@@ -80,53 +80,10 @@ crops following them.
 ## Refining Winter Production Techniques
 
 The six years of winter-only growing were not wasted time. They allowed Coleman to focus
-intensively on developing the new concepts of the winter harvest without the distraction of
+intensively on developing the new concepts of the [[cold-house-winter-harvest-system]] without the distraction of
 managing summer crops.
 
 During this period, the farm refined many unique [[passive-solar-design]] features and cropping
 programs. The [[coleman-mobile-greenhouse-system]] system was developed and tested. The transition from glass
 cold frames to floating row covers as the inner layer of protection was made. Precise
 planting dates for each crop were determined through years of trial and error.
-
-The knowledge gained during this focused experimental period formed the foundation for the
-integrated year-round system that Coleman eventually adopted.
-
-## The Transition to Year-Round Production
-
-After six years of winter-only growing, Coleman combined all he had learned from both
-summer-only and winter-only growing into a unified year-round schedule that supplies the best
-of both seasons.
-
-The present system uses mobile greenhouses that move between summer and winter sites. During
-the summer, the greenhouses cover heat-loving crops like tomatoes, peppers, and cucumbers.
-In mid to late October, the greenhouses are moved to cover the winter crops that were sown
-outdoors in the field over the summer.
-
-This mobile system eliminates the need for the summer fallow period entirely while
-preserving all the soil-building benefits that the green manures provided during the
-backwards farm years.
-
-## Lessons from the Experiment
-
-The backwards farm experiment demonstrated several key lessons.
-
-First, winter [[dry-gardening-unirrigated-vegetable-production-solomon]] on a commercial scale is entirely feasible in cold
-climates using unheated or minimally heated greenhouses. The six years of successful
-production proved the concept beyond any doubt.
-
-Second, the off-season is much shorter than one might hope. Even a winter-only farm
-requires significant summer preparation work.
-
-Third, concentrating exclusively on one season allows for faster learning and refinement
-than splitting attention between seasons.
-
-Fourth, green manures are an essential tool for maintaining soil fertility during fallow
-periods, and their benefits extend well beyond simple [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
-
-## See Also
-
-- [[coleman-backwards-farm-winter-only-summer-fallow]]
-
-- [[coleman-semi-hibernating-winter-crops-harvest-extension]]
-- [[coleman-double-cover-microclimate-protection]]
-- [[coleman-compost-and-organic-fertility-management]]

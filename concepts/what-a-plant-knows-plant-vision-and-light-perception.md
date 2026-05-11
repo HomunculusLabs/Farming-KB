@@ -28,7 +28,7 @@ discriminate its direction, measure its duration, and differentiate its colors.
 
 Human vision relies on photoreceptor proteins in the retina that absorb
 electromagnetic energy, analogous to how an antenna absorbs radio waves. The retina
-contains about 125 million rods (sensitive to all light, enabling night vision but
+contains about 125 million rods (sensitive to all light, enabling [[blesching-cannabis-improved-night-vision]] but
 not color perception) and six million cones (responding to different colors in bright
 light). Rods contain rhodopsin; cones contain photopsins in three variants -- red,
 green, and blue. Each chemical absorbs light of different wavelengths: [[chamovitz-julius-von-sachs-blue-light-phototropism]] is
@@ -42,12 +42,12 @@ vision.
 
 Light waves fall between 0.0000004 and 0.0000007 metre long, positioned between radio
 waves (almost half a mile long) and X-rays (one trillion times shorter than radio
-waves). Blue light has the shortest wavelength in the visible spectrum, while red
+waves). [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] has the shortest wavelength in the visible spectrum, while red
 light has the longest, with green, yellow, and orange in between. The [[plant-science-exploring-rich-history]]
 of pigment absorption explains why these particular wavelengths drive plant metabolism. This is why rainbow
 color patterns are always oriented the same direction -- from short-wave blue to
 long-wave red. Plants perceive not only this visible range but extend into
-ultraviolet and infrared wavelengths beyond human perception.
+[[chamovitz-ultraviolet-and-infrared-plant-light-perception]] wavelengths beyond human perception.
 
 ## Darwin's Discovery of Phototropism
 
@@ -56,7 +56,7 @@ Species, conducted plant experiments that still influence botanical research tod
 In The [[darwin-power-of-movement-in-plants]] in Plants (1880), co-authored with his son Francis, Darwin
 wrote that "there are extremely few [plants], of which some part does not bend
 towards lateral light." This behavior -- phototropism -- had been studied by Julius
-von Sachs, who discovered in 1864 that blue light is the primary color inducing
+[[julius-von-sachs-blue-light-phototropism-discovery]], who discovered in 1864 that blue light is the primary color inducing
 phototropism in plants, while plants are generally blind to other colors that have
 little effect on their bending toward light.
 
@@ -70,7 +70,7 @@ line on paper." After only three hours, the plants had curved toward the light,
 always at the same point about two centimeters below the tip. They then tested five
 conditions:
 
-- **a.** Untreated seedling: bent toward light (confirming experimental conditions)
+- **a.** Untreated seedling: bent toward light (confirming [[darwin-five-seedling-phototropism-experimental-conditions]])
 - **b.** Tip pruned off: went blind, could not bend toward light
 - **c.** Tip covered with mushroom-tropisms-phototropism-geotropism in fungi, have been
 studied across kingdoms.
@@ -88,23 +88,3 @@ meaning farmers could not harvest seed for the next year's crop.
 In 1918, Wightman W. Garner and Harry A. Allard at the US Department of Agriculture
 set out to determine why Maryland Mammoth did not know when to stop making leaves and
 start making flowers and seeds. They planted the tobacco in pots and left one group
-outside in the fields. The other group was put in the field during the day but moved
-to a dark shed every afternoon. Simply limiting the amount of light the plants saw
-was enough to cause Maryland Mammoth to stop growing and start flowering. This
-phenomenon -- photoperiodism -- provided the first strong evidence that plants
-measure how much light they take in. Plants were classified as "[[chamovitz-photoperiodism-agricultural-applications]]-phytochrome
-
-- [[plant-teachers-ayahuasca]]-and-vegetalista-cosmology
-
-## Merged: Plant Photoreceptors and Light Sensing
-
-# Plant Photoreceptors and Light Sensing
-
-## Overview
-
-Plants possess sophisticated light-sensing systems that, while fundamentally different from animal vision, allow them to perceive and respond to their light environment with remarkable precision. Unlike humans who form images on a retina, plants use a suite of photoreceptor proteins distributed throughout their tissues to detect light quality, quantity, direction, and duration. These photoreceptors enable plants to optimize growth, development, and survival in constantly changing light conditions. As Daniel Chamovitz describes in "What a Plant Knows," plants can determine whether you are wearing a blue or red shirt, whether another plant has grown over them, and how long the lights have been on — all without eyes or a nervous system.
-
-## See Also
-
-- [[plant-sensory-perception]]
-- [[plant-thigmomorphogenesis-what-a-plant-feels]]

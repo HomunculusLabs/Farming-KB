@@ -13,17 +13,17 @@ sources:
   - Doty, M.S. (1973). "Farm the sea for weed." Proceedings of the International Seaweed Symposium, 7, 25–31.
   - Ask, E.I. & Azanza, R.V. (2002). "Advances in cultivation technology of commercial eucheumatoid species." Hydrobiologia, 512, 181–188.
   - Trono, G.C. (1992). "Eucheuma and Kappaphycus: Taxonomy and cultivation." Marine Farming Centre, Singapore.
-  - Hayashi, L. et al. (2011). "Kappaphycus alvarezii." Journal of Applied Phycology, 23, 1001–1014.
+  - Hayashi, L. et al. (2011). "[[kappaphycus-alvarezii]]." Journal of Applied Phycology, 23, 1001–1014.
 ---
 
 ## Overview
 
 **Eucheuma cottonii** is a red marine macroalga historically classified in the family Solieriaceae, now widely referred to as **Kappaphycus alvarezii** (Doty) Doty ex Silva following taxonomic revision. It is one of the most important sources of kappa-carrageenan globally.
 
-The species is a tropical seaweed cultivated extensively in [[psilocybe-southeast-asia-pacific]], East Africa, and the Pacific Islands.
+The species is a tropical seaweed cultivated extensively in [[psilocybe-southeast-asia-pacific]], East Africa, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 Its carrageenan is used as a gelling, thickening, and stabilizing agent in food, cosmetics, and pharmaceutical industries.
 
-Commercial cultivation began in the Philippines in the 1960s and has since expanded to become one of the largest seaweed farming operations worldwide, supporting millions of smallholder farmers in tropical developing countries.
+Commercial cultivation began in the Philippines in the 1960s and has since expanded to become one of the largest [[seaweed-farming-and-marine-aquaculture]] operations worldwide, supporting millions of smallholder farmers in tropical [[low-cost-mushroom-growing-house-construction-developing-countries]].
 
 ## Taxonomy and Morphology
 
@@ -70,7 +70,7 @@ E. cottonii is cultivated primarily by smallholder farmers using simple off-bott
 
 The most common method involves tying vegetative fragments to monofilament lines stretched between stakes or bamboo floats.
 
-Growth rates of 3–7% per day are typical under optimal tropical conditions. 
+[[coleman-sunlight-and-winter-crop-growth-rates]] of 3–7% per day are typical under optimal tropical conditions. 
 arvest cycles are 30–45 days, with multiple harvests possible per year from a single planting.
 
 The species is typically sun-dried after harvest, reducing moisture content to 35–40% for transport to processing facilities.
@@ -83,29 +83,8 @@ Kappaphycus striatus (formerly Eucheuma striatum) is a closely related species a
 
 It differs from K. alvarezii in its more cylindrical thallus and slightly different carrageenan gel properties.
 
-Eucheuma denticulatum (spinosum) is the primary source of iota-carrageenan and is often co-cultivated with K.
+[[eucheuma-denticulatum]] (spinosum) is the primary source of iota-carrageenan and is often co-cultivated with K.
 
 alvarezii. It produces soft, elastic gels distinct from the rigid gels of kappa-carrageenan.
 
 Betaphycus gelatinum produces beta-carrageenan, which does not gel but acts as a thickener.
-It is less commercially significant but represents the third major eucheumatoid genus.
-
-## Ecological and Social Impact
-
-Seaweed farming of E. cottonii provides livelihoods for an estimated 100,000+ farming households in Southeast Asia and East Africa.
-It is particularly important as a source of income for coastal communities with limited economic alternatives.
-
-In some regions, introduced Kappaphycus populations have become invasive, overgrowing coral reefs and altering benthic community structure.
-This is a documented concern in Hawaii, Tanzania, and parts of the Philippines.
-
-Integrated cultivation with fish and invertebrate aquaculture has been explored as a strategy to improve sustainability and provide additional income streams for farming communities.
-
-## See Also
-
-- [[chondrus-crispus]]
-- [[ulva-lactuca]]
-- [[laminaria-digitata]]
-- [[undaria-pinnatifida]]
-- [[fucus-vesiculosus]]
-- bioremediation
-- aquaculture

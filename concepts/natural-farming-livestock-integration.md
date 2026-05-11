@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Livestock Integration
 
-Integrating livestock [[jadam-organic-livestock-no-feces-removing]] into a farming system creates closed nutrient loops, reduces feed costs through foraging, and provides pest control, fertilization, and soil cultivation services that would otherwise require labor and machinery.
+Integrating livestock into a farming system creates closed nutrient loops, reduces feed costs through foraging, and provides pest control, fertilization, and soil cultivation services that would otherwise require labor and machinery.
 
 ## Chickens in the Garden
 
@@ -71,3 +71,18 @@ Integrating livestock [[jadam-organic-livestock-no-feces-removing]] into a farmi
 - [[holzer-livestock-integration]] — for Sepp Holzer's approach
 - [[duck-rice-paddy]] — for duck-rice integration
 - [[animal-manure-guide]] — for manure nutrient content and use
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-how-can-ducks-help-with-pest-control-and-fertility-in-a-garden]]
+- [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
+- [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]

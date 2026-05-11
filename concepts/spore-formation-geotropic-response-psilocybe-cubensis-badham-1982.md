@@ -87,34 +87,3 @@ The spore-geotropism link appears across multiple basidiomycete genera:
 ## Gill-Diffusible Substance Model
 
 The most parsimonious mechanism for the spore-geotropism connection:
-
-1. At Stage 2, basidio production begins in the hymenium.
-2. A metabolite or hormone is produced during sporogenesis.
-3. The substance diffuses from gills through pileus tissue into the stipe.
-4. At threshold concentration, it modifies stipe cell response to stimuli.
-5. Growth shifts from evaporative-demand-driven to gravity-directed.
-
-This model explains why sterile mutants (no gills) and darkness-grown
-cultures (no spores) both fail to undergo the transition, and why the
-transition is abrupt rather than gradual. The identity of this substance
-remains unknown — it does not appear to be auxin, gibberellin, or other
-known higher plant hormones found in mushrooms (Konishi and Hagimoto
-1961; Pegg 1973).
-
-## Cultivation Implications
-
-- **Lighting for normal development:** Insufficient light prevents spore
-  formation and normal cap orientation. Fruiting bodies may remain bent
-  even if they form.
-- **Mutant selection:** Sporeless mutants produce abnormally oriented
-  fruiting bodies, potentially affecting harvest efficiency.
-- **Harvest timing:** The Stage 2 tropic transition is a visible marker
-  for spore production onset, useful for timing harvests.
-
-## Related Topics
-
-- [[phototropism-geotropism-interaction-psilocybe-cubensis-basidiocarp-development]]
-- mushroom hormone gill derived tropic regulation
-- basidiocarp morphogenesis mushroom fruiting body development
-- spore dispersal mechanisms basidiomycete mushrooms
-- negative geotropism mushroom stipe elongation gravity response

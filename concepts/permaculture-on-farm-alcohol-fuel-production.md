@@ -1,14 +1,15 @@
 ---
-title: On-Farm permaculture on farm alcohol fuel production Production
+title: Permaculture On Farm Alcohol Fuel Production
 created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags:
   - permaculture
   - agriculture
-  - homesteading
+  - [[homesteading]]
   - design
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md
 ---
 
@@ -20,7 +21,7 @@ Simple amylase columns (pipes filled with amylase culture on glass beads or quar
 
 Housed in a greenhouse, the by-products of alcohol production are heat and CO2, mulch and food. No critical materials are lost, but all products not directly utilised can be recycled via [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]] (pig, worm, fish) to plant food, thus closing a solar cycle that will fuel every tractor or motorbike needed for essential use. The technology is simple, well-known and widespread.
 
-The integration of alcohol production within a glasshouse system means that waste heat from fermentation and distillation can be used to maintain growing temperatures, while elevated CO2 levels boost plant growth. This synergistic design is characteristic of the integrated approach found in [[permaculture-tree-crop-systems]] for [[mollison-tree-crop-systems-permaculture]] integration with fuel production
+The integration of alcohol production within a glasshouse system means that waste heat from fermentation and distillation can be used to maintain growing temperatures, while elevated CO2 levels boost plant growth. This synergistic design is characteristic of the [[solomon-insects-and-diseases-integrated-approach]] found in [[permaculture-tree-crop-systems]] for [[mollison-tree-crop-systems-permaculture]] integration with fuel production
 - mollison-permaculture-two-community-self-reliance
 - mollison-animal-integration-in-permaculture
 - mollison-how-much-land-for-self-sufficiency
@@ -87,22 +88,3 @@ better results with each iteration of practice and experimentation.
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[jet-fuel]]
-- [[permaculture]]

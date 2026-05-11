@@ -88,11 +88,3 @@ The P. foenisecii debate has important harm reduction implications:
 The P. foenisecii situation illustrates a general principle of [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]]:
 
 - Just because a mushroom grows in a lawn does NOT mean it is safe
-- Common, ubiquitous mushrooms can be confused with toxic or psychoactive species
-- Accurate identification requires more than a casual glance
-- The absence of bluing is a strong indicator that a mushroom does NOT contain significant psilocybin
-
-## Research Needs
-
-### Chemical Analysis
-## See Also

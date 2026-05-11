@@ -1,5 +1,5 @@
 ---
-title: "solomon manure nutrient variability and quality Variability — Why Not All Manure Is Equal"
+title: Solomon Manure Nutrient Variability And Quality
 source: "Gardening When It Counts (Steve Solomon)"
 topics: [manure, soil-fertility, organic-fertilizer, nitrogen, phosphorus, potassium, compost, COF]
 ---
@@ -8,7 +8,7 @@ topics: [manure, soil-fertility, organic-fertilizer, nitrogen, phosphorus, potas
 
 ## Overview
 
-One of the most common gardening mistakes is assuming all manure has similar nutritional value. In reality, the nutrient content of manure varies enormously — even within the same animal species. Solomon illustrates this with a telling comparison: horse manure can range from 0.5% nitrogen to over 1.3%, depending on the quality of feed the horse received. This variability makes manure an unreliable sole source of plant nutrition, which is why Solomon recommends using it primarily for [[hamilton-composting-and-organic-matter-management]] and relying on COF for actual nutrient supply.
+One of the most common gardening mistakes is assuming all manure has similar nutritional value. In reality, the [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] of manure varies enormously — even within the same animal species. Solomon illustrates this with a telling comparison: horse manure can range from 0.5% nitrogen to over 1.3%, depending on the quality of feed the horse received. This variability makes manure an unreliable sole source of plant nutrition, which is why Solomon recommends using it primarily for [[hamilton-composting-and-organic-matter-management]] and relying on COF for actual nutrient supply.
 
 ## Why Manure Quality Varies So Much
 
@@ -22,7 +22,7 @@ The single biggest factor in manure quality is what the animal ate. Animals fed 
 It is nearly impossible to know how much bedding material (straw, sawdust, wood shavings) was mixed into manure samples. Bedding dilutes nutrient concentration and, when fresh, can actually tie up soil nitrogen as it decomposes (the carbon-nitrogen imbalance problem).
 
 ### 3. Storage and Handling
-- **Fresh vs. composted**: Fresh manure contains readily available nitrogen but also weed seeds and potential pathogens. Composting reduces volume, kills pathogens and weed seeds, but also loses some nitrogen to volatilization.
+- **Fresh vs. composted**: Fresh manure contains readily [[plant-available-nitrogen-ammonium-nitrate]] but also weed seeds and potential pathogens. Composting reduces volume, kills pathogens and weed seeds, but also loses some nitrogen to volatilization.
 - **Exposure to rain**: Nutrients leach from exposed manure piles, particularly potassium.
 - **Age**: Older, well-rotted manure has lower NPK but more stable humus.
 - **Urine content**: Urine contains a significant portion of the total nitrogen and potassium excreted by animals. Manure collected without urine (common in some stable setups) is substantially weaker.
@@ -79,58 +79,12 @@ Among commonly available manures, chicken manure in sacks (partially composted b
 Sacked steer manure is commonly heaped in front of supermarkets in springtime at low prices. However:
 - May contain semi-decomposed sawdust (dilutes value)
 - Usually has little fertilizing value
-- Does feed soil microbes and improve soil structure
+- Does feed soil microbes and [[query-how-do-fungi-improve-soil-structure]]
 - Helps roots breathe
 - Has been at least partially composted — not raw manure
 - Useful when not hugely overapplied
 
 ## Chemical Fertilizer Comparison
 
-Solomon contrasts manure with inexpensive chemical fertilizers to illustrate a key point:
+Solomon contrasts manure with inexpensive [[cannabis-chemical-fertilizers]] to illustrate a key point:
 - All inexpensive chemical fertilizers lack sufficient calcium, magnesium, and trace minerals
-- They contain plenty of potassium but are entirely incomplete
-- Plants grown with chemical fertilizers are more easily attacked by insects and disease
-- Chemical fertilizers produce a rapid boost followed by a big sag, requiring repeated applications
-- [[hamilton-organic-fertilizers-and-plant-nutrition]] release nutrients slowly as they decompose, providing steady nutrition over weeks
-
-## Practical Recommendations
-
-1. **Source manure carefully**: Know what the animals ate if possible
-2. **Compost before use**: Reduces variability, kills pathogens and seeds
-3. **Mix sources**: Combining different manures provides broader nutrient coverage
-4. **Supplement with COF**: Provides the consistent, balanced nutrition that manure cannot guarantee
-5. **Test if uncertain**: A soil test can reveal whether manure applications are meeting crop needs
-6. **Apply at the right time**: Spring application allows decomposition to release nutrients in sync with plant growth. Fall application risks nutrient leaching over winter, particularly nitrogen and potassium.
-7. **Consider carbon cost**: Hauling manure requires fuel and labor. For gardeners on a budget, the cost-benefit analysis may favor COF over bulk manure, especially when the manure source is of uncertain quality.
-
-## Humanure Considerations
-
-Solomon briefly addresses humanure (human manure) as a potential fertilizer source. Properly composted humanure can be a valuable nutrient source, but it requires:
-- Thermophilic composting to kill pathogens
-- Extended composting time (12+ months recommended)
-- Careful management to ensure complete pathogen destruction
-- Awareness that some cultures and regulations discourage or prohibit its use on food crops
-- Recognition that humanure nutrient content depends on the human diet — well-nourished people produce more nutrient-rich humanure
-
-## Key Reference
-
-- Solomon, S. (2005). Gardening When It Counts: Growing Food in Hard Times. New Society Publishers. Chapter 1: Basics.
-
-## See Also
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
-- [[solomon-vegetable-demand-classification-low-medium-high]]
-- [[savory-soil-organic-matter-and-decomposition-dynamics]]
-- [[solomon-crop-rotation-and-garden-planning]]

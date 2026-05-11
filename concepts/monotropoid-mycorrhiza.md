@@ -31,18 +31,18 @@ Monotropoid mycorrhiza involves a three-way carbon exchange:
 2. **Ectomycorrhizal fungus** receives carbon from the tree in exchange for soil nutrients
 3. **Monotropoid plant** receives carbon from the shared fungus, acting as a carbon sink
 
-This makes monotropoid plants epiparasites (or cheaters) on the mutualistic ectomycorrhizal relationship between trees and fungi. The monotropoid plant provides nothing known to the fungus in return — it is a fully mycoheterotrophic parasite of the common mycorrhizal network.
+This makes monotropoid plants epiparasites (or cheaters) on the mutualistic ectomycorrhizal relationship between trees and fungi. The monotropoid plant provides nothing known to the fungus in return — it is a fully mycoheterotrophic parasite of the common [[arbuscular-mycorrhizal-network-visualization-anastomosis]].
 
 ## Fungal Partners
 
-Monotropoid plants associate with a restricted range of ectomycorrhizal fungi:
+Monotropoid plants associate with a restricted range of [[ectomycorrhizal-fungi]]:
 
-- **Tricholoma**: T. magnivelare is the primary fungal partner of Monotropa uniflora
+- **Tricholoma**: T. magnivelare is the primary fungal partner of [[monotropa-uniflora]]
 - **Russula**: Several species associate with different Monotropoideae
 - **Lactarius**: Some species serve as fungal partners
 - **Rhizopogon**: Associated with Pterospora andromedea
 
-Fungal specificity varies among monotropoid species:
+[[host-recognition-mycoparasitism-fungal-specificity]] varies among monotropoid species:
 - Some are generalists, connecting with multiple EMF species
 - Others are highly specific, associating with only one or a few fungal species
 - The degree of specificity often correlates with the monotropoid plant's habitat specialization
@@ -70,8 +70,8 @@ The most distinctive feature of monotropoid mycorrhizae:
 - Fungal pegs are short, knob-like intrusions that penetrate from Hartig net hyphae into cortical cells
 - Unlike arbuscules (which are profusely branched intracellular structures), fungal pegs are simple, undivided projections
 - Each peg is surrounded by the host cell plasma membrane
-- Pegs may be the primary site of carbon transfer from fungus to plant
-- They are morphologically distinct from the intracellular coils of arbutoid and ericoid mycorrhizae
+- Pegs may be the primary site of [[dighton-mycorrhizal-networks-carbon-transfer]] from fungus to plant
+- They are morphologically distinct from the intracellular coils of arbutoid and [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]]
 
 ### Root Morphology
 
@@ -88,48 +88,3 @@ Carbon flows through the tripartite network:
 
 - Trees allocate 10-20% of net photosynthate to their ectomycorrhizal fungi
 - A fraction of this carbon is intercepted by the monotropoid plant through the shared fungal network
-- Carbon moves as soluble carbohydrates (likely trehalose, glucose, or fructose) through fungal hyphae
-- The magnitude of carbon drain on the tree is generally considered small relative to total fungal carbon demand
-
-### Nitrogen and Phosphorus
-
-- Monotropoid plants receive mineral nutrients (N, P) from the fungus
-- Since they lack photosynthesis, their nutrient demand is lower than autotrophic plants
-- Nutrient uptake from the fungus supplements the carbon supply
-- The overall nutritional economy is entirely fungal-dependent
-
-### Ecological Niche
-
-Monotropoid plants occupy a unique ecological niche:
-
-- They are adapted to deep shade where competition from photosynthetic plants is minimal
-- They are seasonal, emerging and flowering quickly before senescing
-- They depend on the presence of both suitable fungal partners and photosynthetic host trees
-- Their distribution is often patchy, reflecting the distribution of their specific fungal partners
-
-## Evolutionary Significance
-
-Monotropoid mycorrhizae represent an evolutionary extreme of mycorrhizal cheating:
-
-- They evolved from photosynthetic Ericaceae ancestors that likely formed arbutoid or other mycorrhizal types
-- The loss of photosynthesis was accompanied by retention of the mycorrhizal habit as the sole carbon source
-- This represents a complete reversal of the typical plant-to-fungus carbon flow direction
-- Similar mycoheterotrophic strategies have evolved independently in Orchidaceae (orchid mycorrhiza) and Gentianaceae
-
-## Comparison with Other Mycoheterotrophs
-
-| Feature | Monotropoid | Orchid (initial) | Ericoid (mixotroph) |
-|---------|------------|-------------------|---------------------|
-| Photosynthesis | Absent | Absent (seedling) | Reduced (some species) |
-| Carbon source | Fungus (via EM network) | Fungus (saprotrophic) | Fungus + photosynthesis |
-| Fungal type | Ectomycorrhizal | Rhizoctonia-like | Ascomycetes |
-| [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] | Carbon from fungus only | Carbon from fungus only | Bidirectional exchange |
-
-## See Also
-
-- mycorrhiza — Overview of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] types
-- ectomycorrhizal-ecology|ectomycorrhiza — The EM symbiosis that provides the carbon pathway
-- [[ericoid-and-orchid-mycorrhizae]] — Another mycoheterotrophic mycorrhizal type
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- fungal-symbiosis-with-plants-beyond-mycorrhizae
-- [[nutrient-movement-through-soil-to-plant-roots]]

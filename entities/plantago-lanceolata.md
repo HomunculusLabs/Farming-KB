@@ -16,13 +16,13 @@ sources:
   - https://pfaf.org/user/Plant.aspx?LatinName=Plantago+lanceolata
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/plantago-lanceolata
   - Hoffman, D. (2003). Medical Herbalism. Healing Arts Press.
-  - Duke, J.A. (2002). Handbook of Medicinal Herbs. CRC Press.
+  - Duke, J.A. (2002). Handbook of [[medicinal-herbs-for-livestock]]. CRC Press.
   - Wood, M. (2008). The Earthwise Herbal. North Atlantic Books.
 ---
 
 # Ribwort Plantain (Plantago lanceolata)
 
-**Plantago lanceolata**, commonly known as ribwort plantain, narrowleaf plantain, English plantain, buckhorn plantain, or lanceleaf plantain, is a perennial herbaceous plant in the family Plantaginaceae. Native to Europe and temperate Asia, it has become naturalized across most temperate regions worldwide and is one of the most common and widely recognized medicinal plants in both traditional Western herbalism and modern phytotherapy.
+**Plantago lanceolata**, commonly known as ribwort plantain, narrowleaf plantain, English plantain, buckhorn plantain, or lanceleaf plantain, is a perennial herbaceous plant in the family Plantaginaceae. Native to Europe and temperate Asia, it has become naturalized across most [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide and is one of the most common and widely recognized medicinal plants in both traditional Western herbalism and modern phytotherapy.
 
 Despite sharing its common name with the cooking banana, ribwort plantain is entirely unrelated to *Musa* species and belongs to a distinct family of small, wind-pollinated herbs.
 
@@ -57,7 +57,7 @@ The root system consists of a short, fibrous rootstock with numerous fine roots 
 
 ## Distribution and Habitat
 
-*P. lanceolata* is native to Europe and western/central Asia but has been introduced to virtually every temperate region worldwide. It is now found throughout North America, South America, Australia, New Zealand, and southern Africa.
+*P. lanceolata* is native to Europe and western/central Asia but has been introduced to virtually every temperate region worldwide. It is now found throughout [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and southern Africa.
 
 It thrives in disturbed habitats and is a classic pioneer species:
 - Meadows, pastures, and grasslands
@@ -88,56 +88,3 @@ The synergistic action of aucubin (anti-inflammatory) and mucilage (demulcent) i
 Ribwort plantain is one of the premier herbal remedies for upper respiratory complaints in European phytotherapy. The German Commission E and European Medicines Agency (EMA) have approved *P. lanceolata* herb for:
 - **Coughs and bronchitis:** Mucilage soothes irritated mucous membranes while aucubin provides anti-inflammatory action.
 - **Catarrh and colds:** Reduces excessive mucus production and relieves sore throat.
-- **Allergic rhinitis:** Luteolin inhibits histamine release and mast cell degranulation.
-- **Asthma support:** Anti-inflammatory and bronchodilatory properties.
-
-The standard preparation is a hot infusion (tea): 1–4 g dried herb in 150 mL boiling water, steeped 10–15 minutes, taken 3–4 times daily.
-
-### Wound Healing and Skin Conditions
-- **Cuts, scrapes, and abrasions:** Fresh leaves applied as a poultice provide rapid hemostatic, antimicrobial, and tissue-regenerative effects — among the oldest uses in European folk medicine.
-- **Insect bites and stings:** Fresh leaf poultice for bee, wasp, and nettle stings, providing immediate pain and itching relief.
-- **Burns:** Mucilaginous leaf preparations cool and protect damaged tissue.
-- **Eczema and dermatitis:** External applications reduce inflammation and support skin barrier repair.
-
-### Digestive and Urinary
-- **Gastritis and ulcers:** Mucilage protects gastric mucosa; aucubin demonstrates anti-*H. pylori* activity in vitro.
-- **Diarrhea:** Astringent tannins reduce intestinal fluid secretion.
-- **Cystitis and UTIs:** Mild diuretic and anti-inflammatory; traditionally used in European herbal urology.
-
-## Nutritional and Foraging Value
-
-Young leaves are edible — tender and slightly bitter when raw, suitable for salads or cooked as a potherb. Seeds can be used like psyllium as soluble fiber. Harvest leaves before flower stalk emergence.
-
-## Ecological Role
-
-### Pollinator Support
-Despite being wind-pollinated, ribwort plantain flowers attract a range of [[beneficial-insects-guide]], including small bees, hoverflies, and butterflies. The flowers are an important nectar source for the small skipper butterfly (*Thymelicus flavus*) and other Lepidoptera. The plant is listed as a recommended nectar source by the UK Royal Horticultural Society.
-
-### Soil Ecology
-Deep, fibrous roots improve soil aggregation, porosity, and erosion control. Roots accumulate minerals from subsoil ([[comparison-hyperaccumulator-vs-dynamic-accumulator]] — calcium, magnesium, silica). Leaves are grazed by rabbits, deer, and livestock; seeds eaten by finches and small birds.
-
-## Permaculture and Regenerative Agriculture Applications
-
-Ribwort plantain serves multiple functions in [[permaculture-design]]. As a **dynamic accumulator**, its deep roots mine minerals (calcium, magnesium, sulfur, copper, zinc, silica) from subsoil layers — when used as chop-and-drop mulch or compost, these become available to shallow-rooted crops. It forms persistent, low-growing **living mulch** that suppresses weeds without competing strongly with taller crops, tolerates mowing and grazing, and provides year-round green cover. In **[[cervantes-companion-planting-pest-deterrent]]**, it is compatible with most vegetables and serves as understory groundcover in orchards and food forests, attracting predatory insects (ground beetles, spiders). When cut back, it rapidly regenerates, producing 2–5 t/ha dry weight annually for chop-and-drop biomass.
-
-## Cultivation
-
-| Parameter | Requirement |
-|---|---|
-| Hardiness | USDA Zones 3–8 |
-| Light | Full sun to partial shade |
-| Soil | Wide tolerance; prefers well-drained, moderately fertile soils |
-| pH | 5.5–7.5 (tolerates acidic to neutral) |
-| Water | Low to moderate; drought-tolerant once established |
-| Propagation | Seed (direct sow spring or fall); division of mature rosettes |
-| Spacing | 15–30 cm between plants |
-
-## Safety and Contraindications
-
-Generally regarded as safe (GRAS). The German Commission E lists no contraindications. Individuals with known allergy to Plantaginaceae should avoid use. Rare cases of contact dermatitis from handling fresh leaves have been reported. Potential interactions with lithium (diuretic effect may increase lithium levels).
-
-## See Also
-
-- [[dynamic-accumulators]]
-- [[medicinal-herb-growing]]
-- [[companion-planting]]

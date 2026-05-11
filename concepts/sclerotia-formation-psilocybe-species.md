@@ -1,5 +1,5 @@
 ---
-title: [[sclerotia-formation-in-psilocybe-species]] Psilocybe Species
+title: Sclerotia Formation Psilocybe Species
 category: mycology
 tags: [sclerotia, truffles, psilocybe-mexicana, psilocybe-tampanensis, mycology]
 created: 2026-05-09
@@ -11,7 +11,7 @@ related: [grass-seed-as-mushroom-substrate, mushroom-casing-soil-recipes, exotic
 
 Sclerotia (singular: sclerotium) are dense, compact masses of hardened
 mycelium that function as survival structures. In some *Psilocybe* species,
-sclerotia form as an alternative to or alongside mushroom fruiting bodies.
+sclerotia form as an alternative to or alongside [[aquarium-humidity-chamber-mushroom-fruiting]] bodies.
 They are sometimes colloquially called "magic truffles" or "philosopher's
 stones" due to their appearance and psychoactive properties. Sclerotia allow
 the fungus to survive adverse environmental conditions and can remain dormant
@@ -21,7 +21,7 @@ for extended periods before germinating when conditions improve.
 
 Among the commonly cultivated species, two are notable sclerotia producers:
 
-- ***Psilocybe mexicana*** — The type species for which sclerotia were first
+- ***[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*** — The type species for which sclerotia were first
   formally described. Produces sclerotia both in grain jars and in cased
   substrates. Typically yields one large flush of mushrooms and a smaller
   second flush.
@@ -36,7 +36,7 @@ layer or [[fruiting-conditions]]. This makes their cultivation simpler than
 mushroom production. The key requirements are:
 
 1. **Fully colonized substrate** — Mycelium must completely colonize the grain
-   before sclerotia production begins in earnest
+   before [[in-vitro-sclerotia-production-timeline-psilocybe]] begins in earnest
 2. **Dark storage** — A dark location is preferred, though not absolutely
    required
 3. **Clean environment** — Since the cultivation period is long (months),
@@ -45,7 +45,7 @@ mushroom production. The key requirements are:
 
 ## Substrate for Sclerotia Production
 
-Grass seed (*Lolium perenne*) is an excellent substrate for sclerotia
+Grass seed (*[[lolium-perenne]]*) is an excellent substrate for sclerotia
 production. The small kernel size provides numerous colonization points and
 creates a dense matrix in which sclerotia can form throughout the entire
 volume of the jar. Standard preparation uses 110 g of grass seed and 180 ml
@@ -64,8 +64,8 @@ typical timeline for *P. tampanensis* is:
 - **Month 4**: Maximum size typically reached — sclerotia cease enlarging
 
 The jars should not be opened or disturbed during this period, as exposure
-to fresh air increases contamination risk. Sclerotia can be harvested by
-simply opening the jar and separating them from the grain substrate by hand.
+to fresh air increases [[fungicide-treated-seed-contamination-risk-mushroom-substrate]]. Sclerotia can be harvested by
+simply opening the jar and separating them from the [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] by hand.
 
 ## Sclerotia in Cased Substrates
 
@@ -87,34 +87,3 @@ Mature sclerotia vary in appearance depending on species and age:
 - **Size**: From a few millimeters to several centimeters in diameter
 - **Interior**: Dense white mycelial tissue, sometimes with a slightly
   bluish tinge where bruised
-
-## Storage
-
-Freshly harvested sclerotia can be stored in several ways:
-
-- **Refrigeration**: In a paper bag or unsealed container in the
-  refrigerator (2–4°C), sclerotia remain viable for several months
-- **Drying**: Dehydrated at low temperature (30–35°C), sclerotia can be
-  stored long-term in airtight containers with desiccant
-- **Fresh at room temperature**: Viable for a few weeks but susceptible to
-  mold and bacterial degradation
-
-## Comparison: Sclerotia vs Mushroom Cultivation
-
-| Aspect | Sclerotia | Mushrooms |
-|--------|-----------|-----------|
-| Complexity | Lower — no casing or fruiting needed | Higher — requires casing, humidity, air exchange |
-| Time to harvest | 2–4 months | 2–4 weeks after casing |
-| Yield | Moderate per jar | Higher per flush, multiple flushes |
-| Contamination risk | Low (sealed jar) | Higher (open [[fruiting-environment-parameters]]) |
-| Space efficiency | Excellent (jars stack easily) | Moderate (fruiting chambers needed) |
-| Equipment | Pressure cooker, jars | All above plus fruiting chamber |
-
-## Contamination During Long Incubation
-
-The primary challenge in [[pleurotus-tuberregium-sclerotia-cultivation]] is maintaining sterility over
-the months-long incubation period. Contaminants typically enter through
-improperly filtered jar lids. Using lids fitted with synthetic filter discs
-or self-healing injection ports significantly reduces contamination rates.
-If contamination is detected (unusual colors or odors), the jar should be
-discarded immediately to prevent spore dispersal.

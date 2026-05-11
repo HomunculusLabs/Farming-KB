@@ -17,7 +17,7 @@ The concept was developed in the 1950s and 1960s by researchers including Timoth
 
 Set refers to the individual's expectations, intentions, personality, mood, and preparation for the experience.
 
-Setting refers to the physical environment, the social context, the presence and behavior of guides or therapists, and the broader cultural context in which the experience occurs.
+Setting refers to the physical environment, the social context, the presence and behavior of guides or therapists, and the broader [[ayahuasca-pharmacology-and-cultural-context]] in which the experience occurs.
 
 The set-and-setting framework has profound implications not only for psychedelic therapy but for the understanding of consciousness itself, as it demonstrates the extraordinary plasticity of human experience under altered conditions.
 
@@ -39,7 +39,7 @@ However, the Harvard group was the first to articulate the concept systematicall
 
 The psychological set of the individual encompasses multiple dimensions that interact to shape the psychedelic experience.
 
-Expectations are perhaps the most powerful component: individuals who expect a mystical experience are more likely to have one, while those who expect a frightening experience are more likely to encounter anxiety and paranoia.
+Expectations are perhaps the most powerful component: individuals who expect a [[mystical-experience]] are more likely to have one, while those who expect a frightening experience are more likely to encounter anxiety and paranoia.
 
 Intentions—what the individual hopes to gain from the experience—also play a significant role, as focused intentions can direct the experience toward specific therapeutic or exploratory goals.
 
@@ -55,7 +55,7 @@ The physical setting encompasses the immediate environment in which the experien
 
 A comfortable, aesthetically pleasing, and safe environment promotes positive experiences, while a clinical, impersonal, or chaotic setting can contribute to anxiety and dysphoria.
 
-Music is one of the most powerful elements of setting: carefully selected music can guide the emotional trajectory of the experience and provide a structure for otherwise formless states of consciousness.
+Music is one of the most powerful elements of setting: carefully selected music can guide the emotional trajectory of the experience and provide a structure for otherwise formless [[mckenna-food-gods-designer-states-of-consciousness]].
 
 The social setting includes the number and behavior of people present: a supportive, trusted guide or therapist is one of the most important elements of a therapeutic setting.
 
@@ -65,7 +65,7 @@ Contemporary psychedelic therapy has developed highly optimized settings that in
 
 ## Set and Setting in Shamanic Practice
 
-Metzner's analysis of hallucinogenic drugs in shamanism reveals that indigenous traditions have long understood the importance of context in shaping psychedelic experience.
+Metzner's analysis of [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] shamanism reveals that [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] have long understood the importance of context in shaping psychedelic experience.
 
 Shamanic ceremonies typically involve elaborate preparations: dietary restrictions, purification rituals, the invocation of spirits, and the creation of a sacred space.
 
@@ -73,7 +73,7 @@ These preparations function as set-and-setting optimizations: they prepare the i
 
 The shaman functions as both guide and setting: their presence, their songs, their knowledge of the terrain, and their relationship with the spirit world all contribute to the character of the experience.
 
-The ceremonial context also provides a framework for integrating the experience afterward, giving meaning to what might otherwise be overwhelming or disorienting.
+The [[kava-traditional-preparation-ceremonial-context]] also provides a framework for integrating the experience afterward, giving meaning to what might otherwise be overwhelming or disorienting.
 
 Metzner argues that the shamanic approach to set and setting represents a sophisticated understanding of the psychology of [[weil-the-natural-mind-altered-states-normalcy]] that has been refined over thousands of years.
 
@@ -88,39 +88,3 @@ Individuals who take psychedelics without preparation, in chaotic or unsupportiv
 Conversely, even very high doses of psychedelics can be administered safely when set and setting are carefully managed, as demonstrated by the [[hofmann-lsd-clinical-research-early-studies]] of the 1950s and 1960s.
 
 The set-and-setting framework suggests that the harm reduction approach to psychedelic use should focus primarily on education, preparation, and the creation of supportive contexts rather than on prohibition.
-
-This insight has important policy implications, as it suggests that the safest approach to psychedelics is not to suppress their use but to create conditions under which their use can be as safe and productive as possible.
-
-## Set and Setting Beyond Psychedelics
-
-Although the set-and-setting concept was developed in the context of psychedelic research, its implications extend to the understanding of consciousness more broadly.
-
-The finding that the character of experience can be dramatically altered by changes in expectation, context, and preparation suggests that ordinary consciousness is also shaped by these factors to a much greater extent than is commonly recognized.
-
-The placebo effect, cultural variation in mental illness, and the role of expectation in perception all reflect the same principle: that the mind's interpretation of reality is profoundly influenced by context.
-
-The set-and-setting framework thus provides a bridge between psychedelic research and the broader study of consciousness, culture, and the construction of experience.
-
-It suggests that consciousness is not a passive receiver of information but an active constructor of experience, and that the conditions of construction matter enormously.
-
-This insight has implications for fields ranging from psychotherapy to education to the design of environments and social institutions.
-
-## Contemporary Applications
-
-The set-and-setting concept is central to contemporary psychedelic therapy, where it is operationalized through elaborate protocols for preparation, dosing, and integration.
-
-Modern clinical trials of psilocybin, MDMA, and ketamine all incorporate set-and-setting principles, with carefully designed environments, trained therapists, and extensive preparation and follow-up.
-
-The concept has also been adopted by the harm reduction community, where organizations like the Zendo Project provide trained support for individuals having difficult psychedelic experiences at festivals and events.
-
-In the research context, set and setting are recognized as critical variables that must be controlled for in experimental design, as they can significantly influence outcome measures.
-
-The concept continues to evolve as researchers develop more sophisticated understandings of how specific elements of set and setting interact to shape the psychedelic experience.
-
-Metzner's original formulation remains the foundation, but contemporary work has added nuance and specificity to our understanding of this critical framework.
-
-## See Also
-- [[set-and-setting-universal-framework-altered-states]]
-- [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
-- [[psychedelic-integration-practices]]
-- [[set-and-setting-model-psychedelic-therapy]]

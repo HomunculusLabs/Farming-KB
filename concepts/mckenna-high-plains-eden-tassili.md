@@ -1,7 +1,7 @@
 ---
 title: The High Plains of Eden and the mckenna-tassili-plateau-round-head-civilization
 source: mckenna_t-food_of_the_gods.md
-author: Terence McKenna
+author: [[terence-mckenna]]
 chapter: 6 - The High Plains of Eden
 tags: [mckenna, tassili, sahara, paradise, round-head, catal-huyuk, gaia]
 ---
@@ -11,9 +11,9 @@ tags: [mckenna, tassili, sahara, paradise, round-head, catal-huyuk, gaia]
 In Chapter 6 of *Food of the Gods*, McKenna presents archaeological
 and ethnobotanical evidence for a lost psychedelic paradise culture
 that once thrived in the Sahara Desert during the African Humid Period.
-He argues that the Tassili Plateau rock art documents a sophisticated
+He argues that the [[mckenna-tassili-plateau-round-head-civilization]] rock art documents a sophisticated
 mushroom-using civilization that may represent the historical reality
-behind the Garden of Eden myth.
+behind the [[allegro-garden-of-eden-and-delight]] myth.
 
 ## The Tassili Plateau
 
@@ -46,7 +46,7 @@ depicted. McKenna finds these depictions extraordinary because:
 - Dancing and music-making scenes predominate
 
 The Round Head people appear to McKenna to depict a culture organized
-around the ritual use of psychoactive mushrooms. The art suggests a
+around the ritual use of [[ceremonial-shamanic-use-psychoactive-mushrooms]]. The art suggests a
 society with a rich internal imaginative life, in which the
 boundaries between the human and spirit worlds were permeable and
 actively explored.
@@ -88,36 +88,3 @@ McKenna compares the Tassili evidence with the contemporaneous
 Neolithic settlement of Çatal Höyük in Anatolia (roughly 7,500-5,700
 BCE). Çatal Höyük is remarkable for its apparent goddess-centered
 religion, its lack of defensive architecture, and its sophisticated
-art depicting what may be psychoactive mushroom motifs.
-
-The "crucial difference" McKenna identifies is that Çatal Höyük
-represents a partnership culture in transition — still goddess-
-worshipping and relatively egalitarian, but beginning to show signs
-of the social stratification and male dominance that would eventually
-produce the [[mckenna-dominator-culture-and-suppression-of-ecstasy]]. The Tassili, by contrast, may represent
-an earlier, purer form of [[mckenna-dominator-vs-partnership-society-model]].
-
-## The Vegetable Mind and Gaian Holism
-
-McKenna develops the concept of the "vegetable mind" in this chapter
-as a form of planetary intelligence mediated through psychoactive
-plants. He argues that:
-
-- Plants containing psychoactive compounds represent an evolutionary
-  strategy for communication between species
-- The mushroom experience provides direct access to what might be
-  called the mind of the biosphere — a Gaian consciousness
-- Human consciousness itself may be partially a product of this
-  plant-human communication channel
-- The loss of this channel through the suppression of plant use has
-  created the modern ecological crisis
-
-Gaian holism, for McKenna, means recognizing that human consciousness
-is not separate from nature but is an expression of the biosphere's
-own self-awareness. The mushroom, as the "flesh of the gods," is the
-medium through which this awareness was originally achieved.
-
-## See Also
-- [[dominator-culture-and-partnership-society]]
-- [[eleusinian-mysteries]]
-- [[mckenna-tassili-plateau-round-head-civilization]]

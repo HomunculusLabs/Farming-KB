@@ -87,27 +87,3 @@ mushrooms to Western audiences. Hofmann subsequently isolated and named
 psilocybin and psilocin in 1958. See [[wasson-rediscovery-of-psilocybin]].
 
 ## Legacy and Influence
-
-The impact of the guide was substantial. The 1976 chronology entry reads:
-Technology developed by the authors is unleashed upon the world. The
-illicit hallucinogen trade crumbles because of decentralization brought
-on by epidemic of home Stropharia cultivation.
-
-While this was perhaps aspirational, the book did indeed democratize
-cultivation knowledge that had previously been restricted to academic
-mycology laboratories. The methods described, particularly the use of
-sterilized rye grain as a substrate, became foundational techniques that
-influenced virtually all subsequent indoor cultivation approaches. Later
-innovations such as the PF Tek built upon the conceptual framework
-established by Oss and Oeric.
-
-And/Or Press, based at P.O. Box 2246 in Berkeley, was part of a larger
-ecosystem of underground publishers. The guide remains a landmark
-document in both the [[bloomfield-history-of-mycology-pioneers]] and the broader countercultural
-movement of the 1970s.
-
-## Related Topics
-
-- [[oss-oeric-growing-parameters-cubensis]] for species biology
-- [[field-guide-psilocybin-mushroom-species-identification]]
-- [[gartz-tryptamine-supplemented-cubensis-cultivation]]

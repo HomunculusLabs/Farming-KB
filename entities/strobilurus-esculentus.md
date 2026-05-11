@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Watling, R. & Gregory, N.M. (1987). "Strobilurus and related genera." Mycological Papers 157.
   - Noordeloos, M.E. (1999). "Strobilurus." In: Flora Agaricina Neerlandica, Vol. 4. CRC Press.
-  - Kibby, G. (2012). "Mushrooms and Toadstools: A Field Guide." Bloomsbury Publishing.
+  - Kibby, G. (2012). "Mushrooms and Toadstools: A [[field-guide-psilocybin-bluing-reaction-identification]]." Bloomsbury Publishing.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia.
 ---
 
@@ -46,9 +46,9 @@ The stipe is 2–5 cm tall and 1–2 mm thick, slender and equal.
 
 It is pale ochre above the ring zone and darker brownish below.
 
-The partial veil leaves a fragile ring that often disappears with age.
+The [[partial-veil-tropism-protection-before-spore-release]] leaves a fragile ring that often disappears with age.
 
-Spore print is white. Basidiospores are ellipsoid, 6–8 × 3–4 µm, smooth, inamyloid, and non-dextrinoid.
+[[boil-a-bag-spore-print-technique-jarrold]] is white. Basidiospores are ellipsoid, 6–8 × 3–4 µm, smooth, inamyloid, and non-dextrinoid.
 
 Cystidia on gill edges are cylindrical to clavate, sometimes with a mucronate tip.
 
@@ -56,9 +56,9 @@ Cystidia on gill edges are cylindrical to clavate, sometimes with a mucronate ti
 
 *S. esculentus* is widely distributed across temperate Europe and parts of [[psilocybin-north-america-pacific-northwest]].
 
-It fruits almost exclusively on fallen cones of Scots pine (*Pinus sylvestris*) and occasionally other *Pinus* species.
+It fruits almost exclusively on fallen cones of Scots pine (*[[pinus-sylvestris]]*) and occasionally other *Pinus* species.
 
-Fruiting occurs from autumn through early spring, with peak abundance in October through December.
+Fruiting occurs from autumn through [[coleman-overwintered-onions-and-early-spring-crops]], with peak abundance in October through December.
 
 The mushroom requires cones that have been on the ground for one to several years, as the inner scales must have softened sufficiently for colonization.
 
@@ -87,37 +87,3 @@ However, its small stature makes it impractical as a significant food source.
 Culinary use is limited to occasional inclusion in mixed mushroom dishes where foragers collect enough specimens.
 
 No cases of toxicity have been reported, and the species is not known to contain amatoxins or other dangerous compounds.
-
-As with all [[edible-wild-mushrooms-by-region]], positive identification is essential before consumption.
-
-Similar-looking small mushrooms fruiting on woody debris should be ruled out, particularly toxic species of *Galerina*.
-
-## Related Species
-
-*Strobilurus tenacellus* is the most commonly encountered congener, distinguished by a darker, more reddish-brown cap and slightly larger spores (7–9 × 4–5 µm).
-
-*S. stephanocystis* has conspicuous crystalline cystidia on its gill edges, a feature absent in *S. esculentus*.
-
-*S. trullisatus* is a [[growing-gourmet-north-american-reishi-species]] species found on Douglas-fir cones, not known from Europe.
-
-The genus *Baeospora* contains species that also fruit on conifer cones, but these have distinctly different spore ornamentation under scanning electron microscopy.
-
-## Cultivation
-
-There is no established commercial cultivation protocol for *Strobilurus esculentus*.
-
-Its requirement for partially decomposed pine cones in natural forest conditions makes [[cannabis-sativa-indoor-cultivation-techniques]] impractical.
-
-Hobby cultivators have reported limited success by inoculating sterilized pine cones with spore or [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]], but yields are negligible.
-
-The species is primarily of interest to mycologists and ecological surveyors rather than commercial growers.
-
-It can be observed in situ during autumn forays in Scots pine forests, where it is easily recognized by its cone-specific habitat.
-
-## See Also
-
-- [[tricholoma-matsutake]]
-- [[boletus-edulis-entity]]
-- [[agaricus-bisporus]]
-- [[ectomycorrhiza]]
-- [[mycorrhizal-fungi]]

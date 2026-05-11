@@ -5,6 +5,7 @@ tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -87,37 +88,3 @@ Moderately to highly potent. Reported alkaloid concentrations:
 
 The wavy cap margin, cap color, and copious nature of the partial veil
 distinguish this species from close relatives.
-
-## Comparison with Related Species
-
-P. cyanescens is macroscopically similar to,
-differing in the form of the cap margin (wavy vs. non-undulating) and
-the lack of a distinct umbo. Other related species include,,,
-, and.
-
-## Ecological Significance
-
-P. cyanescens is an important decomposer of woody debris in temperate
-coastal ecosystems. Its preference for wood [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] means it has
-expanded its range considerably alongside human landscaping practices.
-The species forms extensive [[spore-print]]
-- Habitat in wood chips, sawdust, or woody garden debris
-
-Foragers should exercise extreme caution, as and
-other deadly species can grow in the same habitats. Always make a spore
-print and verify microscopic features before consuming any wild
-mushroom.
-
-## See Also
-
-- [[psilocybe-natalensis-african-species]]
-- [[stamets-psi-psilocybe-stuntzii-blue-ringers]]
-
-- [[stamets-psi-psilocybe-cubensis-species-guide]]
-- [[stamets-psi-psilocybe-azurescens-species-guide]]
-
-- - flying saucer mushroom
-- - rhododendron Psilocybe
-- - indicator of psilocin presence
-- - deadly look-alikes sharing similar habitats
-- - general identification practices

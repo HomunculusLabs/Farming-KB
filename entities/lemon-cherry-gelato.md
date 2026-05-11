@@ -1,5 +1,5 @@
 ---
-title: "Lemon Cherry Gelato"
+title: Lemon Cherry Gelato
 type: strain
 tags:
   - cannabis
@@ -28,7 +28,7 @@ The strain has gained significant popularity since 2022 for its potent effects a
 complex flavor profile. It is sought after by both recreational consumers and medical
 patients for its balanced cerebral and physical experience.
 
-With THC content typically ranging from 19–25%, Lemon Cherry Gelato delivers strong
+With [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] typically ranging from 19–25%, Lemon Cherry Gelato delivers strong
 but manageable potency. Its effects are described as euphoric and relaxing without
 being overly sedating at moderate doses.
 
@@ -38,9 +38,9 @@ Lemon Cherry Gelato is a three-way cross combining genetics from several promine
 modern cannabis lines:
 
 - **Lemon Haze** (sativa-dominant parent) — Silver Haze × Lemon Skunk
-- **Cherry Gelato** — Girl Scout Cookies × Granddaddy Purple descendant crossed
-  with Thin Mint Cookies lineage
-- The Gelato backbone traces through Sunset Sherbet → Girl Scout Cookies
+- **Cherry Gelato** — [[girl-scout-cookies]] × [[granddaddy-purple]] descendant crossed
+  with [[thin-mint-cookies]] lineage
+- The Gelato backbone traces through [[sunset-sherbet]] → Girl Scout Cookies
 
 The sativa influence from Lemon Haze provides uplifting, creative cerebral effects,
 while the heavy indica genetics from the Cherry and Gelato side contribute body
@@ -88,45 +88,3 @@ character compared to standard Gelato phenotypes.
 
 - **THC:** 19–25% (occasionally testing up to 28% in elite cuts)
 - **CBD:** <0.1% (negligible)
-- **Minor cannabinoids:** Trace amounts of CBG and CBC
-
-The high THC content combined with low CBD places this firmly in the recreational
-and high-potency therapeutic category. Novice consumers should approach with caution.
-
-## Effects
-
-Onset is relatively fast, typically felt within 5–10 minutes of inhalation. The
-initial effect is cerebral — a rush of euphoria, heightened sensory perception, and
-creative energy that reflects the [[cannabis-landrace-sativa-heritage-varieties]].
-
-As the high progresses, the indica side emerges as a warm body relaxation that
-spreads from the shoulders downward. This physical component is noticeable but not
-couch-locking at moderate doses, allowing functionality and social engagement.
-
-Duration is moderate to long, typically 2–3 hours for the primary effects with a
-gentle comedown. Higher doses shift the balance toward heavier sedation.
-
-## Cultivation
-
-Lemon Cherry Gelato is considered moderate in cultivation difficulty. Plants respond
-well to both indoor and outdoor environments, with [[cannabis-sativa-indoor-cultivation-techniques]] preferred for
-quality control.
-
-Flowering time is 8–9 weeks indoors. Outdoor harvest falls in early to mid-October.
-Indoor yields range from 350–450 g/m². The plants benefit from [[cannabis-training-techniques-comparison]]
-such as low-stress training and scrog to manage canopy height and maximize light
-penetration.
-
-Plants are moderately resistant to common pests but can be sensitive to high humidity
-during late flowering, which may promote bud rot in dense colas without adequate
-airflow.
-
-## See Also
-
-- [[white-cherry-gelato]]
-
-- [[gelato]]
-- [[thin-mint-cookies]]
-- [[wedding-cake]]
-- [[linalool]]
-- [[beta-caryophyllene]]

@@ -1,5 +1,5 @@
 ---
-title: "metzner shamanic singing icaros rhythm and entrainment, Icaros, and Rhythmic Entrainment in metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
+title: Metzner Shamanic Singing Icaros Rhythm And Entrainment
 type: concept
 tags:
   - entheogens
@@ -13,8 +13,8 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in Psychotherapy and Shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
-  - Luna, L.E. (1986). Vegetalismo: Shamanism Among the Mestizo Population of the Peruvian Amazon. Almqvist & Wiksell.
+  - Metzner, R. (1998). "Hallucinogenic Drugs and Plants in hallucinogenic-drugs-in-psychotherapy-and-shamanism." Journal of Psychoactive Drugs, 30(4), 333-341.
+  - Luna, L.E. (1986). Vegetalismo: Shamanism Among the Mestizo Population of the [[ayahuasca-tourism-economics-peruvian-amazon]]. Almqvist & Wiksell.
   - Harner, M.J. (1973). The Jivaro: People of the Sacred Waterfalls. Doubleday.
 ---
 
@@ -51,7 +51,7 @@ An experienced vegetalista may know dozens or even hundreds of icaros,
 each one associated with a particular plant ally and its particular
 medicinal application.
 
-The icaros are performed during the ayahuasca ceremony at specific
+The icaros are performed during the [[ayahuasca-ceremony-pharmacology-safety]] at specific
 moments: to call in protective spirits, to intensify the visions, to
 cleanse participants of negative energy, and to bring the session to a
 close.
@@ -69,7 +69,7 @@ beats per second has been shown to produce theta-range brainwave
 entrainment, corresponding to the deep trance state characteristic of
 shamanic journeying.
 
-Michael Harner observed among the Jivaro that shamans use rapid, monotonous
+[[michael-harner]] observed among the Jivaro that shamans use rapid, monotonous
 chanting combined with the consumption of natema (ayahuasca) to enter a
 state he called the "shamanic state of consciousness" (SSC).
 
@@ -83,61 +83,8 @@ as making the experience more difficult or fragmented.
 
 ## Song as Medicine — Active Agency
 
-In Amazonian shamanic epistemology, icaros are not merely accompaniment to
+In [[amazonian-shamanic-battles-and-defensive-powers]] epistemology, icaros are not merely accompaniment to
 healing but are themselves the healing agents.
 
 A vegetalista may sing an icaro to extract a harmful intrusive dart from
 a patient's body, to call in protective spirits to surround the ceremony
-space, or to project the healing energy of a specific plant into a
-participant.
-
-The song is considered to have objective efficacy: it works whether or not
-the patient believes in it, in the same way that the plant medicine works
-whether or not the drinker understands its pharmacology.
-
-This view of song-as-medicine challenges the Western distinction between
-symbolic ritual and practical therapeutics.
-
-For the shaman, the icaro, the rattle, the tobacco smoke, and the
-ayahuasca brew are all medicines — all operating on the same continuum of
-spiritual-physical causation.
-
-## Peyote Songs and the Native American Church
-
-In the Native American Church, peyote songs serve a parallel function to
-Amazonian icaros. Songs are passed down through families and are
-considered sacred property that belongs to the singer's lineage.
-
-They are performed in a rapid, rhythmic style with drum accompaniment
-throughout the all-night ceremony, maintaining the collective altered
-state of the congregation.
-
-Unlike Amazonian icaros, peyote songs are not described as learned from
-plant spirits but rather received from ancestors or composed through
-dreams.
-
-The emphasis on continuous, driving rhythm remains constant across both
-traditions, suggesting a cross-cultural recognition of rhythm's role in
-sustaining entheogenic experience.
-
-## Modern Applications
-
-Contemporary [[metzner-psycholytic-psychedelic-therapy-models]] has begun to incorporate musical
-elements into clinical sessions, though the integration of active shamanic
-singing remains limited.
-
-Metzner observed that modern therapists could learn from the shamanic
-use of continuous rhythmic music to structure and deepen the therapeutic
-experience.
-
-The growing field of music-assisted psychedelic therapy represents a
-secular adaptation of an ancient technology that shamans refined over
-millennia.
-
-## See Also
-
-- [[metzner-shamanic-darkness-and-low-light-ceremonial-design]]
-
-- [[metzner-four-paradigms-entheogenic-healing]]
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]]
-- [[metzner-psychedelic-psychotherapy-clinical-history]]

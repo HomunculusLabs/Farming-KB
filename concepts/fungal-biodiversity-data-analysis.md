@@ -1,9 +1,9 @@
 ---
-title: [[fungal-biodiversity-power-analysis-statistical-design-zak-willig|fungal]] biodiversity data analysis
+title: Fungal Biodiversity Data Analysis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: mycology, fungi]
+tags: [[mycology]], fungi]
 sources:
   - "raw/papers/unknown-biodiversity-of-fungi.md"
 ---
@@ -11,7 +11,7 @@ sources:
 
 ## Types of Biodiversity Data
 
-### [[fungal-species-estimation-methods-total-diversity|Species]] Composition
+### [[fungal-species-estimation-methods-total-diversity]] Composition
 
 The most fundamental data from fungal surveys: lists of species present at each site, with associated metadata on abundance, substratum, habitat, and collection method.
 
@@ -19,8 +19,8 @@ The most fundamental data from fungal surveys: lists of species present at each 
 
 - **Presence/absence**: Binary record of species occurrence
 - **Frequency**: Proportion of samples or plots in which a species occurs
-- **Biomass**: Mycelial biomass (difficult to measure for most fungi)
-- **Sporocarp counts**: Number of fruiting bodies (standard for macrofungi)
+- **Biomass**: [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] (difficult to measure for most fungi)
+- **Sporocarp counts**: Number [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (standard for macrofungi)
 - **Colony-forming units**: For culture-based assessments
 
 ## Quantitative Indices
@@ -88,61 +88,3 @@ Power depends on:
 - Significance level (alpha)
 - Statistical power (1 - beta, typically 0.80)
 - Number of samples
-
-## Spatial Analysis
-
-### Scale Considerations
-
-Spatial scale is a primary consideration when developing lichen air quality:
-
-- **Fine scale**: Individual substrata, microhabitats
-- **Intermediate scale**: Stands, plots, transects
-- **Landscape scale**: Sites, regions, biomes
-- **Geographic scale**: Continental, [[mycorrhiza]]l networks spanning entire forest stands.
-
-### Spatial Pattern Analysis
-
-- **Nestedness**: Degree to which species-poor sites contain subsets of species from richer sites
-- **Turnover**: Species replacement along environmental gradients
-- **Clustering**: Grouping of similar communities
-- **Ordination**: PCA, NMDS, or other methods to visualize community patterns
-
-## Temporal Analysis
-
-### Phenological Patterns
-
-- Fruiting periodicity across seasons
-- Interannual variation in fruiting
-- Climate correlations with fruiting timing
-- long term trends in species composition
-
-### Monitoring Detection
-
-Statistical approaches for detecting change over time:
-
-- Before-after comparisons
-- Control-impact designs
-- Repeated measures analysis
-- emcdda hallucinogenic mushroom with time series
-
-## Multivariate Analysis
-
-### Ordination Methods
-
-- **Principal Components Analysis (PCA)**: Linear method for continuous data
-- **Non-metric Multidimensional Scaling (NMDS)**: Rank-based, flexible
-- **Correspondence Analysis (CA)**: For species abundance data
-- **Detrended Correspondence Analysis (DCA)**: Corrects CA arch effect
-- **Canonical Correspondence Analysis (CCA)**: Relates communities to environmental variables
-
-### Classification Methods
-
-- **Cluster analysis**: Hierarchical grouping of similar communities
-- **Indicator Species Analysis**: Species characteristic of particular groups
-- **Multi-Response Permutation Procedures (MRPP)**: Testing group differences
-
-## See Also
-
-- [[lichen-biodiversity-sampling-protocols-data-analysis]]
-- [[fungal-biodiversity]]
-- [[singh-cost-analysis-fungal-bioremediation]]

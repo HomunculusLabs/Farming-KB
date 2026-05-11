@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -45,10 +46,10 @@ Each pass with the plow or hoe breaks soil aggregates into smaller units. The na
 As particles become smaller and more uniform, they settle into a denser, more regular arrangement. The irregular, open structure of natural soil is replaced by a tightly packed mineral matrix.
 
 ### Reduced Porosity
-The interstitial spaces between soil particles shrink. Air and water penetration decrease. The soil becomes progressively less hospitable to root growth, microbial activity, and earthworm populations.
+The interstitial spaces between soil particles shrink. Air and water penetration decrease. The soil becomes progressively less hospitable to [[soil-moisture-management-and-root-growth]], microbial activity, and earthworm populations.
 
 ### Surface Crusting
-When rain falls on finely worked soil, the surface particles seal together, forming a crust that further impedes water infiltration and air exchange. This crust is harder than the original undisturbed soil surface.
+When [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]] on finely worked soil, the surface particles seal together, forming a crust that further impedes water infiltration and [[growing-gourmet-growing-room-ventilation-air-exchange]]. This crust is harder than the original undisturbed soil surface.
 
 ## Evidence from Herbicide Experiments
 
@@ -78,7 +79,7 @@ Fukuoka identifies the critical insight: the reason a farmer has to plow his ric
 In contrast to human cultivation, nature has its own methods for maintaining soil porosity and fertility:
 
 ### Root Action
-The roots of grasses and green manure crops work the soil down to twelve, fifteen inches or more. When these roots penetrate deep into the earth, air and water penetrate together with them. As the roots wither and die, microorganisms proliferate, increasing humus and softening the soil.
+The roots of grasses and [[green-manure-crops]] work the soil down to twelve, fifteen inches or more. When these roots penetrate deep into the earth, air and water penetrate together with them. As the roots wither and die, microorganisms proliferate, increasing humus and softening the soil.
 
 ### Earthworm Activity
 Earthworms appear where there is humus. As their numbers increase, they create extensive burrow networks that aerate the soil and improve water infiltration. Their castings enrich the soil with readily available nutrients.
@@ -87,51 +88,3 @@ Earthworms appear where there is humus. As their numbers increase, they create e
 Moles begin burrowing through soil where earthworm populations are established. Their tunneling further aerates the soil at deeper levels, complementing the shallow aeration provided by roots and earthworms.
 
 ### Natural Aggregation
-Soil naturally forms aggregates through the action of roots, fungi, and microbial secretions. These aggregates create a crumb structure with optimal pore sizes for air and water movement. This process is continuous and self-sustaining in undisturbed soil.
-
-## The Forest as Proof
-
-Fukuoka points to the mountain forest as evidence that soil does not require human cultivation:
-
-Trees seem to grow almost haphazardly in the mountains and forests, but the cedar grows where it can thrive to its great size, mixed woods rise up where mixed woods must, and pine trees germinate and grow in places suited for pine trees. Without the least help from man, nature creates the soil conditions sufficient to support dense stands of towering trees.
-
-The grasses and trees, and the earthworms and moles in the ground, have acted the part of plow horse and oxen, completely rearranging and renewing the soil. What could be more desirable to the farmer than being able to work the fields without pulling a plow or swinging a hoe?
-
-## Compost and Plowing: A Temporary Fix
-
-Fukuoka acknowledges that the only effective way to soften soil that has been damaged by cultivation is to apply compost and work it into the ground by plowing. However, he identifies this as a short-lived measure. In fields that have been weeded clean and carefully plowed and re-plowed, the natural aggregation of the soil into larger particles is disturbed. Soil particles become finer and finer, hardening the ground.
-
-The compost itself is not the problem. The problem is that plowing, even with compost, destroys the natural soil structure that compost is meant to support. A farmer who applies compost and plows it in is treating the symptom of soil compaction while perpetuating its cause.
-
-## The Deeper Problem: Transplanting and Fertilization
-
-Fukuoka traces the need for plowing back to two fundamental agricultural practices that sever the plant's relationship with natural soil:
-
-### Root Damage During Transplanting
-People transplant saplings without giving a thought to what they are doing. They graft a scion to the stock of another species or clip the roots of a fruit sapling and transplant it. From this point on, the roots cease to grow straight and lose the ability to penetrate hard rock. Even a slight entanglement of roots during transplanting interferes with normal growth and weakens the tree's ability to send roots deep into the soil.
-
-### Shallow Root Growth from Fertilizer
-Applying chemical fertilizers encourages trees to grow a shallow root structure that extends along the topsoil rather than penetrating deeply. Shallow-rooted trees cannot access the deep soil channels created by [[fukuoka-textdoc-soil-self-plowing-natural-root-action]] action, making the soil more susceptible to compaction.
-
-## Implications for Modern Agriculture
-
-The no-cultivation principle has profound implications for how agriculture should be practiced:
-
-### Permanent Bed Systems
-Rather than tilling the entire field each season, farmers should establish permanent beds where soil structure is maintained and improved over time through root action and surface mulching.
-
-### Minimum Disturbance
-Any necessary soil disturbance should be kept to an absolute minimum. Even walking on wet soil can cause compaction that takes years to repair through natural processes.
-
-### Surface Mulching
-Rather than incorporating [[hamilton-composting-and-organic-matter-management]] through plowing, organic materials should be left on the soil surface as mulch. This protects the soil structure, feeds soil organisms from above, and allows natural processes to incorporate the material at their own pace.
-
-### Trust in Natural Processes
-The farmer must accept that soil lives of its own accord and plows itself. It needs no help from man. We can either choose to see the soil as imperfect and take hoe in hand, or trust the soil and leave the business of working it to nature.
-
-## Wikilinks
-
-[[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
-[[fukuoka-textdoc-soil-self-plowing-natural-root-action]]
-[[fukuoka-natural-farming-philosophy]]
-[[lambs-bread]]

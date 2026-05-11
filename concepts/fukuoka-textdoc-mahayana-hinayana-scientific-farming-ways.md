@@ -1,5 +1,5 @@
 ---
-title: fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature and Scientific — Three Ways of Farming
+title: Fukuoka Textdoc Mahayana Hinayana Scientific Farming Ways
 created: 2026-04-28
 tags:
   - fukuoka
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -20,7 +21,7 @@ type: concept
 
 ## Overview
 
-Fukuoka classifies all approaches to agriculture into three fundamental types, borrowing terminology from Buddhist philosophy. This framework provides the philosophical foundation for understanding why [[comparison-natural-farming-vs-permaculture]] is inherently superior to [[fukuoka-critique-scientific-agriculture-civilization]], and clarifies the distinctions between different degrees of naturalness in farming practice.
+Fukuoka classifies all approaches to agriculture into three fundamental types, borrowing terminology from Buddhist philosophy. This framework provides the [[fukuoka-spiritual-philosophical-foundation]] for understanding why [[comparison-natural-farming-vs-permaculture]] is inherently superior to [[fukuoka-critique-scientific-agriculture-civilization]], and clarifies the distinctions between different degrees of naturalness in farming practice.
 
 ## The Three Ways Defined
 
@@ -30,7 +31,7 @@ Mahayana natural farming represents the absolute world, the philosopher's way of
 
 The relationship between man and nature in Mahayana farming is like an ideal marriage in which the partners together realize a perfect life without asking for, giving, or receiving anything of each other. This is the very embodiment of life in accordance with nature. Those who achieve this state are hermits and wise men.
 
-Mahayana farming transcends time and space and reaches the zenith of understanding and enlightenment. It cannot be directly compared with scientific farming because they exist on entirely different planes.
+Mahayana [[fukuoka-natural-farming-transcends-time-space]] and space and reaches the zenith of understanding and enlightenment. It cannot be directly compared with scientific farming because they exist on entirely different planes.
 
 ### Hinayana Natural Farming (Idealistic Farming)
 
@@ -60,7 +61,7 @@ These exist on entirely different planes. Scientific farming is the sum of knowl
 
 ### Hinayana vs Scientific Farming
 
-These belong to the same world of relativity and can be directly compared. Both are derived from nature as verified with discriminating knowledge, but they differ fundamentally in direction:
+These belong to the same world of relativity and can be directly compared. Both are derived from nature as verified with [[fukuoka-microbes-soil-health-discriminating-knowledge]], but they differ fundamentally in direction:
 
 - **Hinayana** attempts to cast off human knowledge and action and devote itself to making the greatest possible use of pure natural forces
 - **Scientific farming** uses natural forces and adds human knowledge and action to establish a supposedly superior way of farming
@@ -73,7 +74,7 @@ Scientific methods have the upper hand only under unnatural, man-made conditions
 
 ### When Natural Farming Excels
 
-Under conditions approaching those of nature — field cropping, summer grazing of livestock — natural farming will never produce results inferior to scientific agriculture because it takes full advantage of nature's forces. Man is no more than a student of nature; were nature the teacher to use its full powers, man the student would lose out in any confrontation.
+Under conditions approaching those of nature — field cropping, summer grazing of livestock — natural farming will never produce results inferior to [[critique-of-scientific-agriculture]] because it takes full advantage of nature's forces. Man is no more than a student of nature; were nature the teacher to use its full powers, man the student would lose out in any confrontation.
 
 ## The Diagram of Relative Merits
 
@@ -83,19 +84,6 @@ Fukuoka represents the three ways geometrically:
 - **Hinayana** is a smaller circle within the relative world, representing an imperfect but well-intentioned effort to align with nature — its contour is nearly perfect
 - **Scientific farming** is a circle of similar size to Hinayana but with a highly irregular contour, representing the distortions and imperfections arising from the collection of narrow research findings of which it is made
 
-The irregular shape of scientific farming contrasts sharply with the perfect circle signifying the perfection of nature toward which Hinayana aspires. The Hinayana circle is drawn much smaller than Mahayana because the nature seen by discriminating human knowledge is just a superficial image of true nature.
+The irregular shape [[fukuoka-illusions-of-scientific-farming]] contrasts sharply with the perfect circle signifying the perfection of nature toward which Hinayana aspires. The Hinayana circle is drawn much smaller than Mahayana because the nature seen by discriminating human knowledge is just a superficial image of true nature.
 
 ## The Fundamental Asymmetry
-
-An imitation can never outclass the original. Imperfection shall always lie in the shadow of perfection. Even though man knows that science can never be superior to nature, his attention is riveted on the imitation because his peculiar myopia makes science appear to excel in certain areas.
-
-The amount of technology needed to create a single persimmon seed artificially is incomparably greater than that used to launch a rocket into outer space. The world's scientists pooling all their knowledge and resources could not fabricate one seed. Yet man persists in the reverie that he might one day fabricate an entire fruit.
-
-## Related
-
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming|The Entanglement of Natural and Scientific Farming]]
-- Five [[four-principles-of-natural-farming]] Farming
-- [[fukuoka-textdoc-errors-of-human-intellect|The Errors of the Human Intellect]]
-- [[mahayana-natural-farming]]
-- [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
-- [[fukuoka-textdoc-entanglement-natural-scientific-farming]]

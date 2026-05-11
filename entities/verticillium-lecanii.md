@@ -21,7 +21,7 @@ pathogens. It has been reclassified taxonomically and is now placed in
 the genus Lecanicillium within the Cordycipitaceae family. The species
 is widely used as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent against insect pests
 (particularly aphids, whiteflies, and thrips in greenhouse crops) and
-fungal plant pathogens (particularly powdery mildews). The source text
+[[bloomfield-fungal-plant-pathogens]] (particularly [[biodiversity-powdery-mildews]]). The source text
 documents V. lecanii in multiple contexts: mitochondrial genome mapping
 alongside other [[singh-entomopathogenic-fungi-biocontrol-agents]], occurrence as a fungal
 endophyte in living bark, association with aphid galls, and its
@@ -52,7 +52,7 @@ mycoparasitic activity against powdery mildews.
   mass
 - Produces characteristic verticillate (whorled) branching
   pattern on conidiophores
-- Some strains produce chlamydospores or resting structures
+- Some strains produce chlamydospores or [[fungal-sclerotia-and-resting-structures]]
 
 ### Ecology and Habitat
 - Naturally occurs on insect hosts (homopteran pests) in
@@ -62,13 +62,13 @@ mycoparasitic activity against powdery mildews.
 - Isolated from aphid galls on cottonwood leaves, where it
   may function as insect parasite, mycoparasite, or both
 - Commonly inhabits powdery mildew colonies on leaves
-- Widely distributed in temperate and tropical regions
+- Widely distributed in temperate and [[fukuoka-natural-farming-in-tropical-regions]]
 
 ### Entomopathogenic Activity
 - Infects and kills aphids, whiteflies, thrips, scale insects,
   and other soft-bodied arthropod pests
 - Conidia adhere to insect cuticle, germinate, and penetrate
-  using enzymatic degradation
+  using [[enzymatic-degradation-in-mycoremediation]]
 - Fungal growth inside the insect body produces toxins and
   causes death within 3 to 7 days
 - Commercial formulations are widely used in greenhouse
@@ -77,7 +77,7 @@ mycoparasitic activity against powdery mildews.
   vaporariorum) and various aphid species
 
 ### Mycoparasitic Activity
-- The nonspecific mycoparasite Lecanicillium muscarium,
+- The nonspecific mycoparasite [[lecanicillium-muscarium]],
   formerly identified as V. lecanii, commonly inhabits
   powdery mildews and kills conidia (Heintz and Blaich 1990)
 - Interacts with hyphae of Rhizoctonia solani through
@@ -87,59 +87,3 @@ mycoparasitic activity against powdery mildews.
   mechanisms
 - May act as either insect parasite or mycoparasite
   depending on environmental context
-
-### Molecular Genetics
-- Mitochondrial genome has been partially mapped using
-  restriction enzyme analysis (EcoRI, SalI, XhoI)
-- mtDNA organization includes genes for large and small
-  ribosomal RNA, NADH dehydrogenase, cytochrome oxidase,
-  and ATPase subunits (Hegedus and Khachatourians 1993b)
-- Genetic variation among 54 isolates was considerable, but
-  host specificity and mtDNA patterns were not correlated
-  (Kouvelis et al. 1999)
-- Both plant-pathogenic and insect-pathogenic strains exist
-  within the species complex
-
-### Endophytic Occurrence
-- Isolated from living bark alongside Beauveria bassiana
-  and Paecilomyces farinosus (Bills and Polishook 1991)
-- Endophytic occurrence of insect parasites has prompted
-  the suggestion that bark provides an interim substratum
-  for saprobic growth
-- Also found as an endophyte of foliage, suggesting a
-  complex ecological niche spanning plant, insect, and
-  [[singh-fungal-interactions-with-heavy-metals-in-soil]]
-
-### Research Methods
-- Isolation on selective media with antibacterial antibiotics
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing and
-  mtDNA RFLP analysis
-- Bioassays against target insect pests under controlled
-  conditions
-- Dual culture assays to assess mycoparasitic activity
-- Mitochondrial genome mapping using Southern hybridization
-
-### Economic Significance
-- Commercial biocontrol products based on V. lecanii are
-  registered in many countries for use against greenhouse
-  pests
-- Provides an alternative to chemical insecticides in
-  integrated pest management programs
-- Dual activity against insects and [[bloomfield-fungal-pathogens-and-parasites]] offers
-  unique biocontrol potential
-
-## Relevance
-Verticillium lecanii exemplifies the ecological versatility of
-entomopathogenic fungi, functioning as an insect pathogen,
-mycoparasite, and endophyte. The source text documents its diverse
-roles across multiple ecological contexts, from mitochondrial genome
-studies alongside Beauveria bassiana to its mycoparasitic activity
-against powdery mildews. Its commercial use as a biocontrol agent
-underscores the practical importance of understanding fungal ecology
-for sustainable agriculture.
-
-## See Also
-
-- [[penicillium-chrysogenum]]
-- [[fusarium-verticillioides]]
-- [[sclerotinia-sclerotiorum]]

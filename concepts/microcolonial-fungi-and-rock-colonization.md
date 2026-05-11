@@ -36,7 +36,7 @@ Epilithic communities are often the first to establish on freshly exposed rock s
 
 Endolithic fungi penetrate into the porous fabric of the rock itself, growing within cracks, crevices, and pore spaces below the surface. This niche offers partial protection from UV radiation and reduced evaporative water loss compared to fully exposed surfaces.
 
-The endolithic zone may extend several millimeters into the rock, following natural fractures and grain boundaries. Colonization often begins at pre-existing microfractures that provide entry points for [[fungal-hyphae]] ae]], which then extend and branch within the rock interior. Endolithic growth can substantially increase the habitable volume available to fungal colonies relative to surface-only colonization.
+The endolithic zone may extend several millimeters into the rock, following natural fractures and grain boundaries. Colonization often begins at pre-existing microfractures that provide entry points for [[fungal-hyphae]], which then extend and branch within the rock interior. Endolithic growth can substantially increase the habitable volume available to fungal colonies relative to surface-only colonization.
 
 ### Cryptoendoliths
 
@@ -87,35 +87,3 @@ The relative solubility of calcium carbonate in weak organic acids makes these r
 ## Mineral-Degrading Fungal Species
 
 ### Aspergillus niger
-
-*Aspergillus niger* is among the most extensively studied fungal species for its mineral-degrading capabilities. This common saprophytic fungus produces large quantities of citric and oxalic acids under appropriate growth conditions. In laboratory studies, *A. niger* has demonstrated the ability to solubilize a wide range of minerals including phosphate rock, metal oxides, and silicate minerals.
-
-Its aggressive acid production can lower the local pH to values well below 2, driving substantial mineral dissolution even in relatively resistant substrates. *A. niger* has attracted commercial interest for bioleaching and bioremediation applications, including recovery of rare earth elements from low-grade ores and treatment of metal-contaminated soils. The organism's ability to grow on inexpensive substrates and tolerate high metal concentrations makes it an attractive candidate for biotechnological mineral processing.
-
-### Penicillium spp.
-
-Various *Penicillium* species are also effective mineral degraders. Like *Aspergillus*, they secrete organic acids that attack mineral structures, but they often employ additional strategies including siderophore production and extracellular polymeric substances that enhance mineral–microbe contact and promote localized dissolution.
-
-*Penicillium* species have been shown to mobilize phosphorus from insoluble phosphate minerals, solubilize heavy metals from ore matrices, and contribute to silicate weathering in natural rock communities. Their ubiquity in soils and on rock surfaces makes them important agents of mineral cycling across diverse terrestrial ecosystems.
-
-## Interactions with Other Rock-Dwelling Organisms
-
-Microcolonial fungi rarely colonize rocks in isolation. They are typically embedded within diverse microbial communities that include bacteria, cyanobacteria, algae, and lichen-forming fungi. These multi-species biofilms create complex micro-ecosystems within the rock substrate, with complementary metabolic capabilities that enhance overall weathering activity.
-
-Bacteria associated with MCF communities can contribute additional acid production, nitrogen fixation, and organic matter decomposition. Cyanobacterial and algal partners provide photosynthetically fixed carbon that supports heterotrophic fungal growth, particularly in endolithic and cryptoendolithic habitats where external carbon inputs are minimal.
-
-The spatial organization of these multi-species communities within the rock is often stratified. Photosynthetic organisms tend to occupy the uppermost layers where light is available, while fungi and heterotrophic bacteria dominate deeper zones. This vertical zonation reflects the differential availability of light, moisture, and nutrients within the rock interior.
-
-## Ecological Significance
-
-The bioweathering activities of microcolonial fungi have profound ecological implications. By initiating the breakdown of bare rock, these fungi represent one of the first steps in primary succession and soil development. Their weathering products — dissolved ions, clay minerals, and organic matter — contribute to the formation of nascent soils that can eventually support more complex plant and microbial communities. In many arid and polar environments, MCF-driven weathering may be the rate-limiting step in ecosystem development.
-
-in extreme environments such as polar deserts, MCF-dominated cryptoendolithic communities may represent the dominant form of biological activity, functioning as primary producers and decomposers where higher life forms are absent. The study of these communities has informed the search for life on other planets, as rock-colonizing fungi represent biological analogues for potential extraterrestrial biosignatures in Martian or other rocky planetary environments.
-
-## References
-
-- Gadd, G.M. et al. Chapter 5: Fungal interactions with minerals and rocks. In *Fungi in the Environment*.
-- Sterflinger, K. (2000). Fungi as geologic agents. *Geomicrobiology Journal*, 17, 97–124.
-- Gorbushina, A.A. (2007). Life on the rocks. *Environmental Microbiology*, 9(7), 1613–1631.
-- Burford, E.P., Fomina, M., Gadd, G.M. (2003). Fungal involvement in bioweathering and biotransformation of rocks and minerals. *Mineralogical Magazine*, 67(6), 1127–1155.
-- Friedmann, E.I. (1982). Endolithic microorganisms in the Antarctic cold desert. *Science*, 215(4536), 1045–1053.

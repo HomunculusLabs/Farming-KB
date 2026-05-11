@@ -41,11 +41,11 @@ The flowers are solitary in the leaf axils, held on slender stalks shorter than 
 
 Petals are ovate and slightly longer than the calyx lobes. The calyx is green with five lanceolate lobes that are often tinged with red at the tips.
 
-The fruit is a small globose capsule containing numerous fine seeds. Seeds are dispersed by rain splash and by water movement along forest floor channels.
+The fruit is a small globose capsule containing numerous fine seeds. Seeds are dispersed by rain splash and by water movement along [[fungal-ecology-forest-floor]] channels.
 
 Seed viability in soil banks can persist for several years, allowing the species to colonize disturbed ground when conditions improve. This seed bank strategy supports long-term population persistence.
 
-Rooting at the nodes allows individual plants to form extensive mats over several growing seasons. A single parent plant can cover an area of half a square meter within three years.
+Rooting at the nodes allows individual plants to form extensive mats over several [[jeavons-climate-adaptation-growing-seasons]]. A single parent plant can cover an area of half a square meter within three years.
 
 ## Distribution and Habitat
 
@@ -55,7 +55,7 @@ In the British Isles, it is common throughout England, Wales, and Ireland but be
 
 The species grows in damp, shaded habitats including deciduous and mixed woodlands, hedgerows, stream banks, and shaded rock faces. It tolerates deep shade better than most Lysimachia species.
 
-It prefers acidic to neutral soils rich in organic matter. Heavy clay soils and waterlogged conditions are tolerated during winter, though good drainage during the growing season supports better flowering.
+It prefers acidic to neutral soils rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Heavy clay soils and waterlogged conditions are tolerated during winter, though good drainage during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports better flowering.
 
 The plant is often found in association with ancient woodland indicator species. Its presence is sometimes used as a supplementary indicator of long-established woodland habitats.
 
@@ -71,7 +71,7 @@ Propagation is straightforward from seed, division, or stem cuttings. The creepi
 
 The species performs best in partial to deep shade with consistently moist soil. It will tolerate some sun in cooler climates but may scorch in hot afternoon exposures.
 
-Competition from aggressive groundcovers such as ivy or creeping buttercup can limit its spread. Site selection should account for the balance between desired companion plants and Lysimachia nemorum's modest competitive ability.
+Competition from aggressive groundcovers such as ivy or creeping buttercup can limit its spread. [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]] should account for the balance between desired companion plants and Lysimachia nemorum's modest competitive ability.
 
 Garden uses include underplanting shrubs, filling gaps between larger perennials, and naturalizing in woodland-style plantings. Its modest stature ensures it does not compete aggressively with taller companions.
 
@@ -83,39 +83,8 @@ Lysimachia nemorum is visited by small bees and hoverflies for nectar and pollen
 
 The species exhibits a mixed mating system, capable of both insect-mediated outcrossing and self-pollination. This flexibility ensures seed set even in low-light conditions where pollinator activity is reduced.
 
-In woodland ecosystems, the creeping mats provide ground-level cover that helps retain soil moisture and moderate microclimate. This creates favorable conditions for seed germination of other woodland species.
+In woodland ecosystems, the creeping mats provide ground-level cover that helps retain soil moisture and moderate microclimate. This creates favorable conditions for [[cannabis-seed-germination]] of other woodland species.
 
 The foliage is generally unpalatable to mammalian herbivores, likely due to mildly toxic saponins present in the leaves. This contributes to its persistence in heavily browsed woodlands.
 
 Lysimachia nemorum can serve as a host for certain leaf-mining flies and gall-forming insects. These specialized herbivores have minimal impact on overall plant health and vigor.
-
-The species is occasionally affected by downy mildew in prolonged wet conditions. This fungal pathogen causes yellowing of the leaves but rarely kills established plants.
-
-## Cultural Significance
-
-Yellow pimpernel has long been recognized in European botanical traditions, though it has never achieved the horticultural prominence of showier Lysimachia species. Its understated charm has earned it a devoted following among wildflower enthusiasts.
-
-In the language of flowers, pimpernel species have been associated with change and fickleness. This symbolism derives from the flower's habit of closing in dull weather and opening in sunshine.
-
-The name pimpernel derives from the Late Latin pimpinella, possibly connected to the bipinnate leaf pattern of some related species. Yellow pimpernel's simple opposite leaves do not share this feature, making the etymology somewhat misleading.
-
-The species features in several European floras and field guides as a characteristic component of temperate woodland communities. Its reliability as a woodland indicator makes it a teaching species in botany courses.
-
-Conservation efforts in the UK and Europe increasingly recognize the importance of common species like Lysimachia nemorum in maintaining ecosystem function. Even widespread species face local declines from habitat fragmentation.
-
-In traditional European herbalism, Lysimachia nemorum was occasionally used as a wound dressing and mild astringent. These applications were never widespread and have largely been abandoned in modern practice.
-
-The species has been studied for its ability to accumulate certain heavy metals from contaminated soils. This phytoremediation potential has attracted research interest in ecological restoration contexts.
-
-## See Also
-
-- [[lysimachia-vulgaris]]
-- [[lysimachia-punctata]]
-- [[lysimachia-nummularia]]
-- [[lysimachia-terrestris]]
-- [[anagallis-arvensis]]
-- [[primula-vulgaris]]
-- [[cyclamen-hederifolium]]
-- [[dodecatheon-meadia]]
-- [[lysimachia-clethroides]]
-- [[primula-veris]]

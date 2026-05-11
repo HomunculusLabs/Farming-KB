@@ -1,7 +1,7 @@
 ---
-title: Palmer on [[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] system and Classification
+title: [[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] System
 created: 2026-04-28
-tags: [fungal-taxonomy, classification, mycology-history, nineteenth-century, palmer]
+tags: [[fungal-taxonomy]], classification, mycology-history, nineteenth-century, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -66,7 +66,7 @@ the horse's digestive system.
 successful identification, shaped like a turtle's egg, melting into
 inky fluid after maturity. The sparkling coprinus (C. micaceus) is
 common about old stumps. Palmer was once poisoned by C. deliquescens
-in a state of decomposition.
+in a state of [[decomposition]].
 
 **Russulae:** A brittle family whose gills break into small pieces.
 Edible varieties are tasteless or mild; poisonous ones bite and sting
@@ -88,26 +88,3 @@ alkaloid (amanitine). About thirty species exist, of which eight are
 edible and at least five contain the deadly principle. Distinguishing
 features include the volva at the stem base, white gills, warty caps,
 and a ring on the stem. Cap colors range from the bright scarlet of
-A. muscarius to the pure white of A. vernus and A. phalloides.
-
-## The Terminology Problem
-
-Palmer insisted on the interchangeability of "mushroom," "toadstool,"
-and "fungus," arguing that calling one cultivated variety a "mushroom"
-while grouping nine hundred other kinds as "toadstools" was illogical.
-The distinction arose only because one variety could be propagated
-artificially, becoming the "mushroom" of commerce.
-
-## Authorities Consulted
-
-Palmer procured from London the works of Berkeley ("Outlines of
-British Fungology"), Cooke ("Handbook of British Fungi"), Smith
-("Toadstools"), and Badham, plus French works of Cordier and Sicard
-and the German authority Fries. These sources provided the taxonomic
-framework within which he worked.
-## See Also
-
-- [[palmer-popular-errors-mushroom-tests]]
-
-- [[palmer-specific-mushroom-species-guide]]
-- palmer-about-mushrooms-edible-species-identification

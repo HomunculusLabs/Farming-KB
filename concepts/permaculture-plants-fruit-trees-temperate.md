@@ -87,23 +87,3 @@ Also called nettle tree. Small to medium tree native to southern Europe, North A
 Family: ERICACEAE
 
 Attractive, easily grown evergreen tree native to Mediterranean region, Asia Minor, and Ireland. Small, rounded, densely foliaged tree or large shrub to 7 m (rarely exceeding 5 m). Good shade tree, prefers moist soil. Frost tolerant, moderately drought, shade, and salt spray tolerant. Does not tolerate tropical climates or alkaline/waterlogged soils.
-
-Round berry-like fruits ripen autumn and winter, edible when red. Fruit can take up to 12 months to ripen -- trees often have flowers and green, white, yellow, and red fruits simultaneously. Eaten raw, preserved, made into syrup, wine, brandy, liqueurs, or cider-like drink. Some value as bee forage. Bark, leaves, and fruit used for tanning. Can be planted densely as a hedge.
-
-## Japanese Raisin Tree (Hovenia dulcis)
-
-Family: RHAMNACEAE
-
-Deciduous tree native to Japan, China, and the Himalayas. Suited to temperate and subtropical climates, very hardy to cold. Can grow to 18 m. The swollen stem holding the inedible fruit is the edible part -- tastes somewhat like raisins. In China used to annul the effects of wine. Seeds, boughs, and young leaves used in preparing honey substitute. Good spring honey plant.
-
-## Design Notes
-
-- **Multi-layer design**: Combine tall trees (mulberry, persimmon) with understory shrubs (feijoa) and ground covers
-- **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]**: Loquat fruits in spring, persimmon and feijoa in autumn/winter, pawpaw in autumn
-- **Frost pockets**: Feijoa, jujube, and olive are most frost-hardy; protect loquat flowers and pawpaw from late frosts
-- **[[permaculture-tagasaste]], lucerne, garlic, and Albizia lophantha as companions
-
-## See Also
-
-- [[permaculture-plants-fruit-trees-selection]] - broader fruit tree categories and principles
-- [[permaculture-plants-legume-trees-acacia-carob-locust]] - companion nitrogen fixers

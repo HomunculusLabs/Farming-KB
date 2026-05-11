@@ -88,20 +88,3 @@ facilitating communication with the dead. The Doctrine of Signatures — a
 pre-scientific framework holding that a plant's physical appearance reveals
 its special properties — was applied to mandrake perhaps more extensively
 than to any other plant. The human-like form of the root was taken as
-conclusive evidence of its power over human affairs.
-
-The aphrodisiac reputation of mandrake was widespread and deeply entrenched
-across European, Middle Eastern, and North African cultures. In many regions,
-people claimed strong aphrodisiac properties for the root and used it in
-love magic and fertility rituals. The plant's fruit, resembling a small
-apple, contributed to interpretations of mandrake as the forbidden fruit of
-Genesis in some medieval and Renaissance theological traditions.
-
-### Alchemy and Pre-Modern Medicine
-
-Mandrake was a standard component of pre-modern pharmacopoeias from antiquity
-through the Renaissance. Paracelsus (1493-1541) and other alchemical
-physicians valued it for its sedative and narcotic properties. It was used
-as an analgesic, a treatment for melancholy, convulsions, and mania, and a
-powerful soporific. The dose-response relationship was well understood in
-folk and professional tradition — small amounts induced sleep and pain relief

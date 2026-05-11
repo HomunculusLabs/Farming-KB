@@ -4,7 +4,8 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [reference]
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Yeast Diversity, Taxonomy, and Inventory Methods
@@ -87,20 +88,3 @@ Molecular methods: nuclear-DNA reassociation and comparison of nucleotide sequen
 - Germany: DSMZ
 - Russia: VKM
 - Slovakia: CCY; RIVE
-- UK: NCYC
-- USA: NRRL; ATCC; FST-UCD
-
-## Abundance and Relative Importance
-
-Yeast distributions are patchy. In low-nutrient environments, cells may lie dormant. Rare species representing 1% or less of a community may not be sampled or may be overgrown by "weed" species. Cell numbers represent standing crop, not turnover rates, hyphal fragmentation, spore release, or consumption by invertebrates.
-
-## Integration of Information
-
-Investigators should construct computer databases including phenotypic characters, photographs, collection data, molecular sequences, and sexual state/habitat information. With the GenBank yeast 26S D1/D2 database, yeasts can be identified by BLAST search, but sequence analysis is too slow for large numbers of isolates.
-
-## See Also
-
-- [[ribosomal-rna-sequencing-yeast-identification]]
-- [[aquatic-fungi-and-ingoldian-spores]]
-- fungal-morphology-growth-and-pellet-formation
-- [[fungal-rdna-primers-molecular-identification]]

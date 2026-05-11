@@ -87,34 +87,3 @@ The apple guild's belowground ecology is as important as the visible plantings. 
 ## Nutrient Cycling in the Guild
 
 A mature apple guild is designed to be largely self-fertilizing through internal nutrient cycling. Nitrogen enters the system through biological fixation by leguminous companions (seaberry, goumi, clover, licorice). Phosphorus and potassium are mined from subsoil by deep-rooted accumulators (comfrey, chicory, dandelion) and returned to the surface as leaf litter and chop-and-drop mulch. Calcium is provided by yarrow and chamomile. Trace minerals cycle through the diverse plant community and the decomposer organisms in the mulch layer. The apple tree accesses these nutrients through its mycorrhizal network and shallow feeder roots concentrated in the organic-rich surface layer. Annual soil testing helps identify any persistent deficiencies that require targeted amendment — boron is the most common limiting micronutrient for apple production and can be supplemented with a single annual application of borax (1 tablespoon dissolved in water, applied to the drip line in early spring).
-
-## Establishment Timeline
-
-Establishing a mature apple guild takes 3–5 years. In year one, plant the apple tree, install irrigation, and sow the living mulch and bulb layers. Plant comfrey divisions and nitrogen-fixing shrubs, but expect minimal contribution from these in the first year. In year two, the apple tree begins to establish its root network, comfrey produces its first significant cut, and the living mulch fills in. Begin chop-and-drop mulching with comfrey at this stage. In year three, nitrogen fixers begin contributing significant nitrogen, the herbaceous layer reaches full coverage, and the pest confusion border matures. The apple tree may produce its first meaningful crop. By years four and five, the guild approaches self-sufficiency: internal nutrient cycling reduces or eliminates the need for external fertilization, the pest management system reaches functional maturity, and the mulch layer is self-generating from chop-and-drop inputs. Regular observation and light intervention (pruning, dividing, replanting gaps) maintain the guild's productivity over its 15–25 year productive lifespan.
-
-## See Also
-
-- Permaculture plant guilds and companion planting
-- Gaia garden plant guilds
-- Orchard plant guilds (Mollison)
-- [[dynamic-accumulator-plants-nitrogen]] overview
-- Nitrogen fixing plants and rhizobium inoculation
-- Codling moth integrated pest management
-- Apple scab resistant varieties
-- Food forest layers and species
-- Forest garden design principles
-- [[comfrey-multifunctional-guild-plant]] plant
-- Seaberry sea buckthorn cultivation guide
-- Apple tree [[hamilton-pruning-and-training-fruit-trees]] systems
-- Codling moth pheromone disruption techniques
-- Dwarf fruit tree rootstock comparison
-- Chop and drop mulching
-- White clover as living mulch
-- Yarrow accumulator and beneficial insect attractor
-- Goumi nitrogen-fixing edible shrub
-- [[arbuscular-mycorrhizal-fungi]] and fruit tree nutrition
-- Permaculture polyculture design methodology
-- Fruit tree guild establishment phases
-- Orchard understory management techniques
-- Drip line zone fertilization for fruit trees
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] planting guide

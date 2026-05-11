@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Valder, P. (1995). Wisterias: A Comprehensive Guide. Timber Press."
+  - "Valder, P. (1995). Wisterias: A [[allen-australian-psilocybe-species-comprehensive-guide]]. Timber Press."
   - "Miller, R. & Koday, N. (2021). \"Wisteria floribunda.\" USDA NRCS PLANTS Database."
   - "RHS (2023). Wisteria floribunda. Royal Horticultural Society."
 ---
@@ -88,41 +88,6 @@ Grafted or layered specimens typically flower within 3–5 years.
 
 Notable cultivars include 'Macrobotrys' (racemes to 1.5 m), 'Rosea' (pink flowers), and 'Alba' (white flowers).
 
-'Shiro-kapitan' and 'Violacea Plena' are double-flowered forms valued in Japanese horticulture.
-
-## Ecological Role
-
-In its native range, W. floribunda provides nectar for long-tongued bees and butterflies.
-
-The vine serves as a host plant for several lepidopteran larvae, including the Japanese wisteria borer.
-
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] occurs through symbiotic Rhizobium bacteria in root nodules.
-
-This nitrogen-fixing capacity allows it to thrive in nutrient-poor soils.
-
-In naturalized ranges, the dense canopy can shade out and suppress native vegetation.
-
-The weight of mature vines can damage or kill supporting trees and structures.
-
-## Cultural Significance
-
-W. floribunda is a defining feature of traditional Japanese gardens, where vines are trained over pergolas and arbors.
-
-The Ashikaga Flower Park in Tochigi Prefecture is famous for its massive wisteria displays.
-
-In Japan, the plant has been cultivated for over a thousand years and appears in numerous ukiyo-e prints.
-
-Festivals celebrating wisteria blooming (fuji matsuri) are held annually across Japan.
-
-The flowers are edible when prepared correctly and are used in tempura and sweet preparations.
-
-In Western horticulture, Japanese wisteria has been grown since the early 19th century.
-
-It received the Royal Horticultural Society's Award of Garden Merit.
-
 ## See Also
-
-- [[campsis-radicans]] — trumpet vine, another vigorous woody climbing vine
-- [[hedera-helix]] — English ivy, a climbing plant with similar support-strangling behavior
-- [[paeonia-lactiflora]] — herbaceous peony, another iconic plant in Japanese gardens
-- rubus-idaeus-entity — red raspberry, a member of Rosales sharing disturbed habitat with naturalized wisteria
+- [[wisteria-sinensis]]
+- [[wisteria-frutescens]]

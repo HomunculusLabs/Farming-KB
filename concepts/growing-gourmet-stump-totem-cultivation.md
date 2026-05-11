@@ -88,11 +88,3 @@ For foresters and ecologists, actively inoculating and
 rotting stumps has several obvious advantages. Rather than
 allowing a stump to be randomly decomposed, species of
 economic or ecological significance can be introduced.
-
-## Toxic Species Warning
-
-The occurrence of [[palmer-poisonous-mushrooms-deadly-species]] should be expected.
-Two notable, toxic mushrooms frequent stumps:
-- Hypholoma fasciculare, which causes gastrointestinal
-  upset but usually not death
-- Galerina autumnalis, a mushroom that does kill

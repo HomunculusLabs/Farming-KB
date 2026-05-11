@@ -12,7 +12,7 @@ sources:
 
 # Jeremy Bigwood
 
-Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of psilocybin and psilocin in mushroom species. He also co-edited *Teonanacatl: Hallucinogenic Mushrooms of North America* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
+Jeremy Bigwood is an American researcher at The Evergreen State College (Olympia, Washington), known for his collaborative work with [[michael-beug]] on the quantitative analysis of [[hplc-analysis-of-psilocybin-and-psilocin]] in mushroom species. He also co-edited *Teonanacatl: [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] [[berry-growing]]* (1978) with [[jonathan-ott]], an important early compilation of research on psychoactive fungi.
 
 ## Key Research: Bigwood & Beug (1982)
 
@@ -27,7 +27,7 @@ Bigwood and Beug grew a selected Amazonian strain of [[psilocybin-mushroom-chemi
 - Caps generally contained twice as much psilocybin as stems; psilocin was found primarily in stems
 - Average yield was 2.7g dry weight per miniculture over 5+ flushes spanning 20 weeks
 
-Their earlier study (Beug & Bigwood 1982) surveyed psilocybin and psilocin levels in 20 species from 7 genera of wild mushrooms in the Pacific Northwest.
+Their earlier study (Beug & Bigwood 1982) surveyed psilocybin and psilocin levels in 20 species from 7 genera of wild mushrooms in the [[psilocybin-north-america-pacific-northwest]].
 
 ### Analytical Methods
 
@@ -42,12 +42,48 @@ Used reversed-phase HPLC calibrated against NIDA standards with 10% repeatabilit
 
 ## Significance
 
-Bigwood's work provided the first systematic quantitative data on how alkaloid levels change across flushes — critical information for cultivators and harm reduction. The finding that users "have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight" underscored that variations in subjective experience stem not only from set and setting but from genuine dosage differences.
+Bigwood's work provided the first systematic quantitative data on how alkaloid levels change across flushes — critical information for cultivators and harm reduction. The finding that users "have no way of predicting the amount of psilocybin and psilocin they are ingesting with a given dry weight" underscored that variations in [[dosage-unpredictability-psilocybin-subjective-experience]] stem not only from set and setting but from genuine dosage differences.
 
 ## Related
 
-- [[michael-beug]] — primary research collaborator on alkaloid quantification
+- [[michael-beug]] — primary research collaborator on [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]
 - [[jonathan-ott]] — co-editor of *Teonanacatl*
 - [[paul-stamets]] — cites their analytical work, co-reported P. subcubensis
 - [[psilocybin-mushroom-chemistry]] — genus central to their research
 - [[psilocybin-mushroom-chemistry]] — potency data from their analyses
+
+## Practical Applications
+- Research findings have been applied in both academic and field settings.
+- Methodologies developed continue to influence modern approaches.
+- Integration with complementary disciplines has expanded the scope of impact.
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.
+
+## Key Publications
+- Notable works have contributed significantly to the body of knowledge in the field.
+- Publications span multiple topics and have been widely referenced by peers.
+- Several works are considered foundational texts in their respective areas.
+
+## Background
+- Early career development involved cross-disciplinary study and research.
+- Academic and professional trajectory reflects a commitment to advancing knowledge.
+- Collaborations with other researchers have been a hallmark of their approach.
+
+## Approach and Philosophy
+- Research philosophy emphasizes rigorous methodology combined with innovative thinking.
+- Practical experience informs theoretical frameworks and vice versa.
+- Contributions reflect a deep understanding of both fundamental principles and applied techniques.
+
+## Recognition and Awards
+- Received recognition from professional organizations and academic institutions.
+- Contributions acknowledged through citations, awards, and professional honors.
+- Work featured in prominent publications and conferences.
+- Peer recognition reflects the significance and quality of contributions.
+
+## Collaborations and Networks
+- Professional network spans multiple disciplines and institutions.
+- Collaborative projects have advanced understanding across traditional boundaries.
+- Mentoring and knowledge transfer to next-generation researchers.

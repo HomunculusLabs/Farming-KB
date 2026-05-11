@@ -1,5 +1,5 @@
 ---
-title: Fungal [[biodiversity-fungal-biodiversity-estimation-methods]] herbarium collections Collections
+title: Fungal Biodiversity Herbarium Collections
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -14,19 +14,19 @@ research, conservation, and education. Their importance is
 increasingly recognized as molecular techniques expand their utility.
 ## Functions of Fungal Herbaria
 ### Voucher Specimens
-Herbarium specimens serve as the definitive reference for species
+[[herbarium-specimens-fungal-collections]] serve as the definitive reference for species
 identification and nomenclature. Without physical specimens deposited
 in recognized herbaria, species descriptions cannot be validated and
 taxonomic work cannot proceed.
 ### Chemical Analysis
 Herbarium specimens provide material for chemical analysis,
-including secondary metabolite profiling, bioactive compound
+including [[fungal-elicitors-enhanced-secondary-metabolite-production]] profiling, bioactive compound
 screening, and pigment analysis. Many fungal compounds remain
 stable in dried specimens for decades.
 ### Molecular Studies
 Mueller (1999) and others have shown that herbarium specimens can
 yield amplifiable DNA for phylogenetic analysis, species
-verification, population genetics, and detection of cryptic species
+verification, [[aspergillus-fumigatus-population-genetics]], and detection of cryptic species
 complexes hidden by morphological similarity.
 ### Historical Baseline Data
 Herbarium collections provide irreplaceable historical information
@@ -36,9 +36,9 @@ response to climate change, species declines and local extinctions,
 phenological changes, and introduction of non-native species.
 ## Conservation Value
 Herbaria serve as reference for biodiversity inventory design through
-training materials for taxonomic identification, reference
+training materials for [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], reference
 collections for comparison with field specimens, historical records
-for citizen science monitoring programs, and loan specimens for
+for [[citizen-science-fungal-biodiversity-discovery]] monitoring programs, and loan specimens for
 teaching and research across institutions.
 ## Specimen Collection and Preservation
 Proper field collection is essential for creating herbarium
@@ -88,10 +88,3 @@ and conservation. Specimen-based citizen science projects, such as
 fungal forays with coordinated voucher collection, generate valuable
 distributional data while building public appreciation for fungal
 diversity and the importance of scientific collections.
-## See Also
-- [[biodiversity-fungal-herbarium-collections]]
-- [[fungal-biodiversity-education-citizen-science]]
-- [[fungal-species-estimation-methods-total-diversity]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[biodiversity-fungal-culture-preservation]]
-- [[biodiversity-macrofungi-inventory-methods]]

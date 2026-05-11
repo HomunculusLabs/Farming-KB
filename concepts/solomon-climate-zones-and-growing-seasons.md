@@ -88,34 +88,3 @@ significantly from regional averages.
 When you purchase seeds, you have a far higher likelihood of a
 successful result if the supplier's trials grounds are located in
 roughly the same climatic zone as your garden. Seed companies tend to
-be regional for this very reason. Solomon evaluated dozens of mail-order
-seed companies and found that only those with actual trial grounds in
-the relevant climate zone consistently supplied first-class seed.
-
-For serious food production, where you are growing a significant
-portion of your family's food, you cannot afford to experience crop
-failure from poorly adapted varieties. The seed supplier you choose may
-be the single most important decision the gardener will make.
-
-## Growing Season Length and Variety Selection
-
-In warm climates with more than 150 frost-free days, gardeners can
-grow or buy only a few early-maturing transplants and then direct-seed
-the main crop. In short-season areas, transplants become essential for
-many species. Solomon advises that even in shorter seasons, most
-vegetables can be directly seeded if you accept that the effort to grow
-transplants may seem unnecessary and you choose appropriate varieties.
-
-## Microclimates Within Your Garden
-
-Every garden contains microclimates: south-facing slopes that warm
-earlier in spring, low spots where cold air pools, areas near buildings
-that receive reflected heat. Understanding these variations allows you
-to push the boundaries of your climatic zone by placing frost-sensitive
-crops in the warmest spots and using cold-hardy crops in cooler areas.
-
-## Related Concepts
-
-- [[solomon-vegetable-varieties-self-sufficiency]]
-- [[solomon-crop-rotation-and-garden-planning]]
-- [[solomon-harvesting-techniques-and-timing]]

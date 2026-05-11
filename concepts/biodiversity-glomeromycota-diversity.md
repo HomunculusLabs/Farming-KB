@@ -87,30 +87,3 @@ or host phenology. Sporulation does not appear to occur in response to nutrient
 deprivation or environmental stress as in other fungi. In sites of low species
 richness, a great number of samples must be collected to validate preliminary
 observations.
-
-The common correlation between spore abundance and frequency of recovery means
-that seasonal decreases in spore numbers may suggest a seasonal decrease in
-species richness that does not reflect actual [[core-endorhiza-bacterial-community-composition-cannabis]]. This
-challenges related to [[cryptic-species-fungal-biodiversity]] underscore the
-need for [[staycare-molecular-approaches-fungal-bioremediation]] complementing traditional morphology-based
-identification.
-
-## Sampling and Identification Methods
-
-Procedures for extracting spores from soil have changed considerably over the
-years. A majority of the species first described were sporocarpic because they
-were detected easily in soil sievings or fruited at the soil surface. As
-practices shifted to wet-sieving followed by sucrose-density gradient
-centrifugation, many more species producing spores singly or in loose
-aggregates were discovered. A dissecting microscope is required for observation
-of macroscopic spore properties, and a compound microscope with differential
-interference contrast optics is preferable for resolving subcellular wall
-layers less than one micrometer thick.
-
-## See Also
-
-- [[biodiversity-fungi-soil-fungal-communities|biodiversity of fungi in soil ecosystems]]
-- [[cryptic-species-fungal-biodiversity]]
-- [[fungal-life-cycles]]
-- [[fungal-hyphae]]
-- [[biodiversity-smut-fungi-diversity]]

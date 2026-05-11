@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Food and Human Health
@@ -87,11 +88,3 @@ Food and medicine are not two different things: they are the front and back of o
 ### The Seven Herbs of Spring
 
 The seven herbs of spring (watercress, shepherd's purse, wild turnip, cottonweed, chickweed, wild radish, and bee nettle) have specific effects on the spirit. Eating them makes the spirit gentle. Bracken shoots, osmund, and shepherd's purse bring calm. Shepherd's purse is the best remedy for restless, impatient feelings. Children who eat shepherd's purse, willow buds, or insects living in trees may be cured of violent crying tantrums.
-
-Daikon (Japanese radish) has for its ancestor the plant called nazuna (shepherd's purse), and this word nazuna is related to the word nagornu, which means to be softened. Daikon is the "herb that softens one's disposition."
-
-### The Wild Ancestry Principle
-
-Vegetables biologically closest to their wild ancestors are the best in flavor and highest in food value. In the lily family (which includes nira, garlic, Chinese leek, green onion, pearl onion, and bulb onion), the nira and Chinese leek are highest in nutrition, good as herbal medicine, and useful as a tonic for general well-being. Modern people prefer the more domestic varieties such as green onion and bulb onion, but these have departed further from their wild state.
-
-A similar pattern holds with animal foods. Wild birds are much better for the body than domestic fowl. Goat's milk has a higher food value than cow's milk, but cow's milk is in greater demand. Foods that have departed far from their wild state and those raised chemically unbalance the body chemistry. The more out of balance the body becomes, the more one comes to desire unnatural foods.

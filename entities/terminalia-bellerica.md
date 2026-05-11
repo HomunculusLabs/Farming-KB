@@ -23,9 +23,9 @@ created: 2026-04-28
 
 ## Overview
 
-Terminalia bellerica, commonly known as bibhitaki or bahera, is a large deciduous tree in the family Combretaceae. It is one of the three constituent herbs of Triphala, the most widely used polyherbal formulation in Ayurvedic medicine, alongside Terminalia chebula (haritaki) and Emblica officinalis (amla).
+Terminalia bellerica, commonly known as bibhitaki or bahera, is a large deciduous tree in the family Combretaceae. It is one of the three constituent herbs of Triphala, the most widely used polyherbal formulation in Ayurvedic medicine, alongside [[terminalia-chebula]] (haritaki) and [[emblica-officinalis]] (amla).
 
-The species is valued in traditional medicine for its astringent, anti-inflammatory, hepatoprotective, and adaptogenic properties. Its dried fruit is the primary plant part used medicinally, and it has been the subject of extensive pharmacological research validating many of its traditional applications.
+The species is valued in traditional medicine for its astringent, anti-inflammatory, hepatoprotective, [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]. Its dried fruit is the primary plant part used medicinally, and it has been the subject of extensive pharmacological research validating many of its traditional applications.
 
 ## Taxonomy and Morphology
 
@@ -42,7 +42,7 @@ The species is valued in traditional medicine for its astringent, anti-inflammat
 **Synonyms:**
 
 - Myrobalanus bellirica (Gaertn.) Kuntze (1891)
-- Terminalia bellirica (Gaertn.) Roxb. (1795) — variant spelling widely used in pharmacological literature
+- [[terminalia-bellirica]] (Gaertn.) Roxb. (1795) — variant spelling widely used in pharmacological literature
 - Bellerica myrobalan Gaertn. (1788)
 
 **Etymology:** The specific epithet derives from "bellirica," referencing the commercial name "belliric myrobalan" used historically in European trade. The Sanskrit name "bibhitaki" translates roughly to "one that keeps away disease."
@@ -63,13 +63,13 @@ The dried fruit is roughly the size and shape of a small plum, with a characteri
 
 ## Distribution and Habitat
 
-T. bellerica is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], with a natural range extending from India and Sri Lanka through Nepal, Bangladesh, Myanmar, Thailand, Laos, Cambodia, and Vietnam. It is also cultivated in other tropical regions.
+T. bellerica is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]], with a natural range extending from India and Sri Lanka through Nepal, Bangladesh, Myanmar, Thailand, Laos, Cambodia, and Vietnam. It is also cultivated in other [[fukuoka-natural-farming-in-tropical-regions]].
 
 The species is found in deciduous and semi-evergreen forests from sea level to approximately 1,200 meters elevation. It grows on a wide variety of soil types including sandy, loamy, and lateritic soils, and tolerates both seasonal drought and moderate waterlogging.
 
 It is a common component of tropical mixed deciduous forests and is frequently found along riverbanks and in moist valley sites. The tree is also planted as a shade tree, avenue tree, and agroforestry species throughout its range.
 
-**Conservation status:** Listed as Least Concern by the IUCN. Wild populations are abundant, though demand for the fruit has led to overharvesting in some areas, prompting cultivation initiatives in India.
+**[[fungal-biodiversity-conservation-status]]:** Listed as Least Concern by the IUCN. Wild populations are abundant, though demand for the fruit has led to overharvesting in some areas, prompting cultivation initiatives in India.
 
 ## Chemistry and Pharmacology
 
@@ -88,48 +88,3 @@ The dried fruit of T. bellerica contains a complex mixture of phytochemicals:
 **Glycosides:** Bellericoside and other phenolic glycosides identified in the fruit pulp.
 
 ### Pharmacological Activities
-
-**Antioxidant:** Strong free radical scavenging activity across DPPH, ABTS, hydroxyl, and superoxide radical assays. The high tannin content is primarily responsible, with IC₅₀ values comparable to or exceeding those of standard antioxidants in many models.
-
-**Hepatoprotective:** Extensively validated in animal models of carbon tetrachloride, acetaminophen, thioacetamide, and alcohol-induced hepatotoxicity. Mechanisms include antioxidant defense enhancement, stabilization of hepatocyte membranes, and inhibition of hepatic lipid peroxidation.
-
-**Anti-inflammatory:** Inhibits COX-2, LOX, and TNF-α pathways in vitro and in vivo. Reduces carrageenan-induced paw edema and cotton pellet granuloma in rodent models at doses comparable to standard anti-inflammatory drugs.
-
-**Immunomodulatory:** Enhances both humoral and cell-mediated immune responses. Increases antibody titers, phagocytic activity, and lymphocyte proliferation in animal models.
-
-**Antimicrobial:** Active against Gram-positive bacteria (Staphylococcus aureus, Streptococcus pyogenes), Gram-negative bacteria (Escherichia coli, Pseudomonas aeruginosa), and [[bloomfield-fungal-pathogens-and-parasites]] ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus niger).
-
-**Gastroprotective:** Reduces gastric acid secretion, increases mucin production, and protects against experimentally induced gastric ulcers. The astringent tannins form a protective coating on gastric mucosa.
-
-**Respiratory effects:** Traditional use for respiratory conditions (cough, bronchitis, asthma) is supported by bronchodilatory and expectorant effects demonstrated in preclinical studies.
-
-## Role in Triphala
-
-T. bellerica is one-third of Triphala ("three fruits"), the most important polyherbal formulation in Ayurveda. The classical ratio is equal parts:
-
-1. **Haritaki** (Terminalia chebula) — detoxifying and laxative
-2. **Bibhitaki** (Terminalia bellerica) — astringent and anti-inflammatory
-3. **Amalaki** (Emblica officinalis) — rejuvenative and antioxidant
-
-In the Triphala formulation, bibhitaki specifically targets Kapha dosha and is considered to support respiratory function, promote healthy elimination, and nourish the eyes and hair. The synergy between the three fruits produces effects greater than the sum of individual components, with [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]] and complementary pharmacological actions.
-
-## Cultivation and Agroforestry
-
-T. bellerica is propagated from seed, which requires scarification or acid treatment to break dormancy. Germination rates improve from 20-30% (untreated) to 60-80% after acid scarification or hot water treatment.
-
-Seedlings are raised in nurseries for 12-18 months before field planting. Trees begin fruiting at 8-10 years and reach full production at 20-25 years. Mature trees can produce 50-100 kg of dried fruit annually. The fruit is harvested when ripe (November-February), dried in sun or shade, and stored in airtight containers.
-
-In permaculture and agroforestry systems, T. bellerica serves as a large canopy tree providing shade, mulch (through leaf litter), and timber. Its deep taproot improves soil structure and draws nutrients from subsoil layers. The species is suitable for integration in tropical food forests, windbreaks, and silvopastoral systems.
-
-**Timber:** The wood is hard, durable, and moderately heavy, used for construction, furniture, tool handles, and boat building. Heartwood is reddish-brown and resistant to termites.
-
-## See Also
-
-- [[terminalia-ferdinandiana]]
-
-- [[terminalia-chebula]]
-- [[terminalia-arjuna]]
-- [[phyllanthus-emblica]]
-- chebulagic acid
-- ellagic acid
-- gallic acid

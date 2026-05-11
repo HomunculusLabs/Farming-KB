@@ -1,5 +1,5 @@
 ---
-title: comparison-rabbit-husbandry-vs-chicken-keeping Basics
+title: [[comparison-quail-husbandry-vs-rabbit-husbandry]] Basics
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -58,7 +58,7 @@ good mothers), Satin (good meat yield, beautiful sheen).
   maintenance for bucks/non-breeders. 1-2 oz per lb body weight daily.
 - **Hay:** Unlimited timothy or grass hay always available — critical for
   dental and digestive health. Alfalfa for kits/pregnant does only.
-- **Greens:** Introduce gradually. Safe: dandelion, plantain, clover, kale,
+- **Greens:** Introduce gradually. Safe: [[dandelion]], plantain, clover, kale,
   parsley, raspberry leaves, comfrey (small amounts). Toxic: rhubarb,
   potato tops, tomato leaves, foxglove.
 - **Treats (5% max):** Rolled oats, black oil sunflower seeds, apple,
@@ -88,24 +88,6 @@ good mothers), Satin (good meat yield, beautiful sheen).
 - **Chill:** Ice water 1+ hour, age in fridge 24-48 hours before freezing.
 - **Yield:** ~60% dressed weight (5 lb live = ~3 lb dressed).
 
-## Manure as Garden Amendment
-
-Rabbit manure is one of the best [[hamilton-organic-fertilizers-and-plant-nutrition]]:
-
-- **Cold manure:** Apply directly to gardens without composting (unlike
-  chicken/horse/cow manure).
-- **NPK:** ~2.4-1.4-0.6. Rich in nitrogen, phosphorus, potassium, calcium,
-  magnesium, micronutrients.
-- **Benefits:** Improves soil structure, water retention, feeds beneficial
-  microbes, boosts earthworms.
-- **Application:** 1-2 inches worked into beds before planting; up to 20%
-  by volume in potting soil.
-- **Vermicompost:** Excellent worm food. Place [[hemenway-worm-bin-rabbit-integration]] under hutches for
-  automatic feeding.
-
 ## See Also
-
-- [[homesteading]] — Rabbits vs other livestock options
-- [[composting-systems]]
-- [[growing-food-in-hard-times]]
-- [[teaming-with-microbes-mites-and-soil-arthropod-predators]]
+- [[comparison-duck-keeping-vs-rabbit-husbandry]]
+- [[rabbit-husbandry-and-breeding-in-permaculture-systems]]

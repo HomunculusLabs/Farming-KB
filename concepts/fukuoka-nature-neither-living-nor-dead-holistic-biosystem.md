@@ -88,37 +88,3 @@ whole.
 
 This connects directly to Fukuoka's observation about the scientific approach to desert
 revegetation. Scientists gather data on which plants die first in a drying landscape and which
-survive longest, but even if they could determine the precise order of extinction, "he would
-still not know enough to decide whether to begin by planting the first type of vegetation to
-disappear or the last to survive." The reason is that "in nature, there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]]"
-in the simple, linear way that science assumes. The relationships between organisms and their
-environment are too complex, too interconnected, and too dynamic to be captured by
-cause-and-effect analysis. The data may be accurate as far as it goes, but it never goes far
-enough, because the system it describes has already been broken apart in the process of
-gathering it.
-
-This is not an anti-intellectual position but a plea for a different kind of understanding.
-Fukuoka is arguing that direct intuitive perception of nature as a whole — what he calls
-"direct intuition" — is a more reliable form of knowledge than analytical dissection. The
-farmer who walks through his field and senses the balance of insects, plants, and soil is
-understanding nature in a way that the entomologist with his pinned specimens cannot. The
-understanding is not quantifiable or reproducible in a laboratory, but it is real and it is
-accurate in a way that laboratory knowledge is not.
-
-Fukuoka's philosophy of nature as an organic whole has implications far beyond agriculture. It
-challenges the entire project of modern science, which is built on the premise that complex
-systems can be understood by analyzing their component parts. If Fukuoka is right, then the
-more science analyzes nature, the further it gets from understanding it. The more data it
-collects, the less it knows. The more it intervenes, the more damage it causes. The solution
-is not better science or more data but the abandonment of the analytical approach itself —
-a return to seeing nature as an indivisible whole that can only be apprehended, never
-dissected.
-
-## See Also
-
-- [[fukuoka-shrine-grove-trees-grow-without-human-aid]]
-- [[fukuoka-plow-hardens-soil-creates-need-for-plowing]]
-- [[fukuoka-nature-transcends-human-knowledge]]
-- fukuoka science cannot reproduce natures functions
-- fukuoka all begins by relinquishing human knowledge
-- fukuoka nature maintains great harmony without human notions

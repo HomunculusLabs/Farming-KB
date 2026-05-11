@@ -1,5 +1,5 @@
 ---
-title: palmer [[mushroom-folklore-and-culture]] amanita mushrooms history chemistry and cultural significance and ethnomycology-cultural-significance-sacred-fungi (Palmer, 1894)
+title: Palmer Mushroom Folklore Cultural Significance
 created: 2026-04-26
 sources: About Mushrooms - Julius Auboineau Palmer (1894)
 author: Julius Auboineau Palmer

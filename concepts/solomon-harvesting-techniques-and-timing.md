@@ -12,7 +12,7 @@ type: concept
 # Harvesting Techniques and Timing
 
 Proper harvesting is a skill that significantly affects both the quality
-and quantity of food a garden produces. Steve Solomon emphasizes that
+and quantity of food a garden produces. [[steve-solomon]] emphasizes that
 well-spaced plants not only grow larger but also taste better and can be
 harvested over a longer period than crowded vegetables, which must be
 harvested promptly before they pass their prime.
@@ -21,7 +21,7 @@ harvested promptly before they pass their prime.
 
 When vegetables are grown with wider spacing, as Solomon recommends,
 they produce larger individual specimens that maintain quality over a
-longer harvest window. This is a major practical advantage: instead of
+longer [[harvest-window-cannabis]]. This is a major practical advantage: instead of
 needing to process a huge glut of small, crowded vegetables all at once,
 the gardener can harvest a steady supply over many weeks. This shift from
 intensive to extensive spacing means less time pressure and less waste.
@@ -36,7 +36,7 @@ overcompetition, their root systems having nowhere to go.
 
 Different crops have different signals that they are ready for harvest:
 
-**Root crops:** Carrots, beets, and parsnips can be harvested at any
+**[[permaculture-plants-root-crops-and-tubers]]:** Carrots, beets, and parsnips can be harvested at any
 size once they reach usable diameter. For storage, they should be left
 in the ground until just before hard freezes threaten. Potatoes are
 ready when the vines die back naturally.
@@ -58,7 +58,7 @@ frosts. The lowest sprouts mature first and can be picked individually
 over an extended period. Broccoli should be cut before the flower buds
 open.
 
-**Cucurbits:** Winter squash and pumpkins are ready when the skin is
+**Cucurbits:** [[winter-squash-guide]] and pumpkins are ready when the skin is
 too hard to puncture with a fingernail and the stem has dried. Harvest
 before hard frost. [[growing-sweet-corn-organically]] is at its peak when the kernels exude a
 milky juice when pressed.
@@ -87,35 +87,3 @@ size, you instantly reduce moisture competition while providing double
 the capillary moisture to the remaining plants. The result might not be
 the loss of half the crop. By preventing moisture stress, you might end
 up harvesting a lot more total weight.
-
-This counterintuitive strategy -- harvesting early and thin to reduce
-competition -- is one of the most valuable lessons for gardeners facing
-dry conditions. The earlier you reduce plant density, the more the
-remaining plants can access stored subsoil moisture through capillarity.
-
-## Seed Saving Harvest
-
-When growing plants specifically for [[cervantes-seed-production-storage]], the harvest
-timing is different from food harvest. Seeds must be fully ripe,
-typically indicated by the seed pod or seed head turning brown or black.
-For biennial seed crops like carrots, beets, and brassicas, the roots
-must be dug in autumn, stored through winter in a [[comparison-root-cellar-vs-ice-house]], and
-replanted in spring to produce seed in their second year.
-
-## Succession Planting for Extended Harvest
-
-Solomon advocates planning the garden so that harvest extends over as
-many months as possible. This includes planting cool-season crops in
-late summer for autumn harvest, using cold-hardy varieties for winter
-gardening in mild climates, and making successive sowings of quick
-crops like radishes, lettuce, and bush beans every two to three weeks.
-
-The goal is to have something ready to harvest in every month it is
-possible to get it. In mild winter climates, this can mean year-round
-production with proper variety selection and seasonal timing.
-
-## Related Concepts
-
-- [[solomon-root-cellaring-and-crop-storage]]
-- [[solomon-intensive-vs-extensive-spacing]]
-- [[solomon-drought-gardening-and-water-conservation]]

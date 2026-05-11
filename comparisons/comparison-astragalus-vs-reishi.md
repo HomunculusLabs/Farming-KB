@@ -121,8 +121,8 @@ for the final 20-30 minutes to preserve its delicate compounds.
 
 ## See Also
 
-- [[ashwagandha-vs-echinacea]]
+- [[comparison-ashwagandha-vs-echinacea]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[reishi-vs-chaga-medicinal-mushrooms]]
+- [[comparison-reishi-vs-chaga-medicinal-mushrooms]]
 - [[comparison-astragalus-vs-echinacea]]
 - [[comparison-panax-ginseng-vs-siberian-ginseng]]

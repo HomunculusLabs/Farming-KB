@@ -1,7 +1,7 @@
 ---
 title: fukuoka-morishima-acacia-orchard-integration - Nitrogen-Fixing Soil Building Tree
 concept_type: plant_profile
-source: "Masanobu Fukuoka, The One-Straw Revolution"
+source: "[[masanobu-fukuoka]], The One-Straw Revolution"
 source_author: "Masanobu Fukuoka"
 source_path: "/Users/t3erpz/Documents/Ebooks/Calibre/Masanobu Fukuoka - Fukuoka - The [[fukuoka-one-straw-revolution-conclusion]] (epub).epub"
 extracted: "2025-05-08"
@@ -9,14 +9,14 @@ type: paper
 format: epub
 chars: 241583
 tags: [fukuoka, acacia, nitrogen-fixing, soil-building, orchard, agroforestry, windbreak, natural-farming, legume-tree, companion-planting]
-aliases: [Morishima acacia, acacia orchard integration, nitrogen fixing tree]
+aliases: [Morishima acacia, acacia [[fukuoka-mixed-grazing-pig-cow-chicken-orchard-integration]], [[permplant-leucaena-tropical-nitrogen-fixing-tree]]
 ---
 
 # Morishima Acacia
 
 ## Overview
 
-The Morishima acacia is a fast-growing nitrogen-fixing tree that Masanobu Fukuoka integrated into his citrus orchard as a multi-purpose soil-building and ecosystem-support tree. Originally introduced to Japan from Australia, this acacia species plays a central role in Fukuoka's three-dimensional orchard design, providing deep soil improvement, wind protection, insect predator habitat, and organic matter generation simultaneously. Fukuoka considered it one of the most interesting and valuable non-native trees in his orchard system.
+The Morishima acacia is a fast-growing nitrogen-fixing tree that Masanobu Fukuoka integrated into his citrus orchard as a multi-purpose soil-building and ecosystem-support tree. Originally introduced to Japan from Australia, this acacia species plays a central role in Fukuoka's three-dimensional orchard design, providing deep soil improvement, wind protection, insect predator habitat, [[hamilton-composting-and-organic-matter-management]] generation simultaneously. Fukuoka considered it one of the most interesting and valuable non-native trees in his orchard system.
 
 ## Botanical Background
 
@@ -57,7 +57,7 @@ The Morishima acacia serves as an effective windbreak within the orchard system.
 
 ### Insect Predator Habitat
 
-The acacia provides habitat for ladybirds and other predatory insects that help control pest populations in the orchard. Fukuoka specifically noted the connection between the acacia and ladybird populations that prey on scale insects and other citrus pests. The tree's flowers also attract bees, supporting pollination of the fruit trees.
+The acacia provides habitat for ladybirds and other predatory insects that help [[query-how-do-parasitoid-wasps-control-pest-populations]] in the orchard. Fukuoka specifically noted the connection between the acacia and ladybird populations that prey on scale insects and other citrus pests. The tree's flowers also attract bees, supporting pollination of the fruit trees.
 
 ### Fodder Production
 
@@ -79,7 +79,7 @@ Fukuoka's orchard design operates on three vertical layers:
 2. **Mid layer**: Citrus trees as the primary crop
 3. **Ground layer**: White clover and other ground covers for surface soil improvement and weed suppression
 
-The Morishima acacia occupies the canopy layer, working simultaneously with the ground-level clover to improve soil fertility at all depths. The clover builds the surface layer while the acacia builds the deep soil layers.
+The Morishima acacia occupies the canopy layer, working simultaneously with the ground-level clover to [[query-how-does-rock-dust-improve-soil-fertility]] at all depths. The clover builds the surface layer while the acacia builds the deep soil layers.
 
 ### Eliminating External Inputs
 
@@ -88,38 +88,3 @@ With the green manure fertilizing the topsoil and the Morishima acacia roots imp
 ### Historical Context: Fukuoka's Soil Building Journey
 
 Before discovering the value of the Morishima acacia, Fukuoka experimented with several approaches to improving the hard red clay of his orchard:
-
-1. **Burying straw and ferns**: Carried 90+ pound loads from the mountain. After two or three years, there was not enough humus to scoop up. Trenches caved in.
-2. **Burying wood**: More effective than straw for soil formation, but required hauling logs from a distance.
-3. **Morishima acacia**: The breakthrough — growing the wood right in the orchard rather than hauling it.
-
-The acacia eliminated the need for back-breaking labor while producing superior soil improvement results through its continuous, deep-root nitrogen fixation.
-
-## Broader Applications
-
-### Orchard Establishment on Degraded Land
-
-For farmers establishing orchards on poor, compacted, or eroded land, the Morishima acacia offers a rapid pathway to soil rehabilitation. Its fast growth and deep roots can begin improving soil conditions within months, years before fruit trees reach productive maturity.
-
-### Agroforestry Systems
-
-The Morishima acacia model can be applied in various agroforestry contexts:
-
-- **Silvopasture**: Providing shade, fodder, and nitrogen fixation in grazing systems
-- **Alley cropping**: Planted in rows between crop alleys for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- **Riparian buffers**: Stabilizing stream banks while improving waterway soil
-
-### Species Selection Considerations
-
-Fukuoka noted that the Morishima acacia was not native to Japan but had been introduced from Australia. For farmers in other regions, the principle is more important than the specific species: find a fast-growing, nitrogen-fixing tree adapted to local conditions that can serve multiple functions in the farm ecosystem. Other acacia species, black wattle, alder, honey locust, or other leguminous trees may serve similar roles depending on climate and soil conditions.
-
-## References
-
-- Masanobu Fukuoka, *The One-Straw Revolution*, 1978
-- Larry Korn (translator/editor), farm observations, 1970s
-## See Also
-- [[alley-cropping]]
-- [[masanobu-fukuoka]]
-- [[natural-farming]]
-- [[permplant-leucaena-tropical-nitrogen-fixing-tree]]
-- [[permplant-black-locust-nitrogen-fixing-timber]]

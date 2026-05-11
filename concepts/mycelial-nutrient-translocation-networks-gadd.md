@@ -1,5 +1,5 @@
 ---
-title: Mycelial Nutrient [[biological-transport-networks]]
+title: Mycelial Nutrient Translocation Networks Gadd
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, nutrient-transport, basidiomycetes, cord-formation, vacuolar-transport, PCSI, fungal-ecology]
 ---
@@ -87,49 +87,3 @@ against bright-field imaging, allowing quantitative characterization of
 asymmetric growth responses.
 
 ## Pulsatile Transport with Phase-Synchronized Domains
-
-A strong pulsatile component is associated with rapid transport,
-particularly through corded systems. Fourier analysis applied pixel by
-pixel to detrended time-series data produces colour-coded maps of
-frequency, amplitude and phase. These maps reveal that signals from
-assimilatory hyphae in the inoculum, new resources, and foraging hyphae
-all oscillate but are out of phase with each other. Phase differences
-become established as distinct domains that are locally synchronized.
-
-In larger microcosms using wood-block inocula and sand substrata,
-nitrogen travelled 250 millimetres along a major cord within one hour
-of loading, with signal reaching most subtended growing mycelium within
-four hours. Not all cords transported simultaneously, indicating that the
-network regulates transport priorities through individual pathways.
-Pronounced oscillations continued for approximately five to seven days.
-
-## Key Points
-
-- Basidiomycete mycelia form corded networks transporting nutrients over
-  metres to hectares in natural environments.
-- The vacuolar system is a key transport organ; diffusion supports tip
-  growth over 12-24 mm in unbranched hyphae.
-- FRAP combined with Monte Carlo simulation enables quantitative
-  prediction of transport capacity from vacuolar morphology.
-- PCSI enables non-invasive real-time tracking of radiolabelled nutrient
-  movement through networks over weeks.
-- Pulsatile transport occurs in phase-synchronized domains, with
-  different colony regions oscillating out of phase.
-- Nitrogen can travel 250 mm along major cords within one hour in
-  Phanerochaete velutina.
-
-## See Also
-
-- [[saprotrophic-fungi-biogeochemical-cycles-gadd]]
-- [[mathematical-modelling-fungal-mycelia-davidson]]
-- [[environmental-sensing-filamentous-fungi-read]]
-
-## References
-
-- Gadd, G.M., Watkinson, S.C. & Dyer, P.S. (2007). Fungi in the
-  Environment. Cambridge University Press.
-- Bebber, D.P., Tlalka, M., Hynes, J., Darrah, P.R., Ashford, A.,
-  Watkinson, S.C., Boddy, L. & Fricker, M.D. (2007). Imaging complex
-  nutrient dynamics in mycelial networks. In Gadd et al. (eds.), pp. 3-21.
-- Darrah, P.R., Tlalka, M., Ashford, A., Watkinson, S.C. & Fricker,
-  M.D. (2006). Modelling vacuolar transport in Phanerochaete velutina.

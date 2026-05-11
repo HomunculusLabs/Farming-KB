@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis glandular trichome types resin production clarke Types and cannabis-resin-production-and-quality-traits-clarke (Clarke)
+title: Cannabis Glandular Trichome Types Resin Production Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -30,7 +30,7 @@ Three types of glandular trichomes are present on the epidermal surfaces of Cann
 - Sit directly on the epidermis without a stalk
 - Consist of a head of secretory cells resting on a short pedestal
 - More numerous than capitate-stalked trichomes
-- Contribute to resin production, especially during early flowering
+- Contribute to resin production, especially during [[equatorial-photoperiod-early-flowering]]
 
 ### Capitate-Stalked Trichomes
 - The largest and most important glandular trichomes
@@ -78,7 +78,7 @@ In practical terms: many capitate-stalked trichomes means higher THC levels. The
 
 - Strains have been bred for hashish production for years
 - Hashish is formed from detached resin heads
-- Modern breeding could develop strains with high resin production that release their resin heads with only moderate shaking (rather than customary flailing that also breaks up plant material)
+- [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] could develop strains with high resin production that release their resin heads with only moderate shaking (rather than customary flailing that also breaks up plant material)
 - Strains bred for use as marijuana benefit from extremely tenacious resin heads that do not fall off during packaging and shipment
 
 ## Resin and Drying
@@ -88,18 +88,3 @@ In practical terms: many capitate-stalked trichomes means higher THC levels. The
 - Resin is secreted by glandular trichomes but is trapped under a cuticle layer surrounding the head cells
 - This holds the resin away from the surface of the leaves, where it would rarely have a chance to seal the epidermal layer or prevent transpiration
 - Some strains dry much more rapidly and completely than others under identical conditions
-
-## Terpene and Resin Relationship
-
-- Aroma is produced primarily by aromatic terpenes produced as components of the resin
-- At least 20 aromatic terpenes (103 are known to occur in Cannabis) and other aromatic compounds control the aroma
-- Biosynthetic relationships between terpenes and cannabinoids are firmly established
-- Cannabinoids are synthesized within the plant from terpene precursors
-- Changes in aromatic terpene levels likely parallel changes in cannabinoid levels during maturation
-
-## Related Topics
-
-- [[cannabis-terpene-profile]] - [[cannabis-terpene-profiles-sativa]] in Cannabis
-- [[cannabis-harvest-timing-visual-cues]] - Using trichome appearance for harvest timing
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-maturation-and-harvest-by-latitude-clarke]]

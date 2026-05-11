@@ -14,7 +14,7 @@ type: concept
 
 MBDB (N-methyl-1-(1,3-benzodioxol-5-yl)-2-butanamine) is an entactogenic
 compound documented in PIHKAL as compound #102. It is the alpha-ethyl
-homologue of mdma, meaning that instead of MDMA's alpha-methyl group, MBDB
+homologue of [[mdma]], meaning that instead of MDMA's alpha-methyl group, MBDB
 carries an alpha-ethyl group on its amphetamine backbone. This small
 structural change produces a compound with distinctly different subjective
 properties while retaining the characteristic empathogenic warmth of the
@@ -32,7 +32,7 @@ with fewer side effects than MDMA.
 
 MBDB's IUPAC name is N-methyl-1-(benzo[d][1,3]dioxol-5-yl)butan-2-amine.
 Structurally, it is identical to MDMA except that the alpha-methyl group is
-replaced by an alpha-ethyl group, making the side chain one carbon longer.
+replaced by an alpha-ethyl group, making the [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] one carbon longer.
 This transforms the compound from a substituted amphetamine (MDMA) into a
 substituted butanamine (MBDB).
 
@@ -86,16 +86,5 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

@@ -1,5 +1,5 @@
 ---
-title: Geese as mollison geese grass control and integrated poultry and Integrated Poultry in Permaculture
+title: Mollison Geese Grass Control And Integrated Poultry
 created: 2026-04-26
 tags:
   - permaculture
@@ -10,14 +10,15 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
 
 # Geese as Grass Control and Integrated Poultry in Permaculture
 
-Bill Mollison's *Permaculture: A Designers' Manual* presents geese as
-one of the most useful domestic animals for permaculture systems,
+[[bill-mollison]]'s *Permaculture: A Designers' Manual* presents geese as
+one of the most useful [[permaculture-domestic-animals]] for permaculture systems,
 particularly valued for their ability to control grasses in orchards,
 around water features, and along pathways. Unlike many other livestock,
 geese convert pasture and weed grasses directly into manure and meat
@@ -52,8 +53,8 @@ Geese are particularly effective at:
   storage areas and reduce infiltration capacity.
 
 - **Orchard understorey management**: Geese clip short swards beneath
-  [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reducing root competition from invasive grasses that
-  weaken most deciduous fruit trees. Mollison notes that grass is the
+  [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], reducing [[root-competition-plant-spacing-solomon]] from invasive grasses that
+  weaken most deciduous [[comparison-grafting-vs-budding-fruit-trees]]. Mollison notes that grass is the
   primary enemy of cultivated food trees, which thrive in herbal ground
   covers rather than grassy swards.
 
@@ -70,7 +71,7 @@ Mollison recommends specific strategies for directing goose foraging:
 - **Feed-out management**: In established systems, wallaby or small
   grazers (including geese) keep forest clearings and paths open. Both
   are encouraged by feeding out bran or pollard in the areas to be
-  clipped, directing grazing pressure where it is most needed.
+  clipped, directing [[gadd-mycelial-network-resilience-grazing-pressure]] where it is most needed.
 
 - **Seasonal rotation**: Larger foragers such as geese can be grown
   seasonally in the evolving system. They require management rather
@@ -87,55 +88,3 @@ food and good nutrition are available. In desert systems, the main
 limitation is not climate but the denudation of the total environment
 by inappropriate livestock. Small intensive trial systems within and
 around settlements are essential precursors to wider Zone 2 and Zone 3
-trials.
-
-In one documented dryland design (Wilmington, South Australia), geese
-are shown as part of integrated grazing alongside cattle and goats,
-with swale-planted forage providing cut feed for milk goats and grazing
-for geese.
-
-## Integration with Other Animal Systems
-
-Geese complement other small domestic animals in the permaculture
-system:
-
-- [[mollison-domestic-small-animals-zone-one]] occupy the zone 1 garden, while geese work the zone 2
-  orchard and zone 3 pasture edges.
-- [[permaculture-design]]:
-
-1. Site goose shelters in mollison-zone-planning-frequency-distance-and-placement where
-  forage ranges can be managed with minimal fencing.
-
-2. Ensure access to clean water for drinking and foraging.
-
-3. Protect from predators; in areas with foxes or pythons, secure
-   housing at night is essential.
-
-4. Integrate with swale systems so that nutrient-rich runoff from
-  goose manure is captured and distributed to tree crops.
-
-5. Use geese to maintain paths and clearings, reducing the need for
-   mowing equipment and [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] inputs.
-
-## Yields from Geese
-
-Geese provide multiple yields beyond grass control:
-
-- Meat (a high-value protein source)
-- Eggs (seasonal but productive)
-- Feathers (for stuffing and craft)
-- Manure (high in nitrogen and phosphorus for orchard fertility)
-- Grass management service (replacing mowing labour and fuel costs)
-- Pest insect disturbance (geese disturb insect habitats while
-  grazing)
-
-Mollison frames this as a central permaculture principle: the yield
-of a system is theoretically unlimited, limited only by the
-information and imagination of the designer. Every element should
-perform multiple functions, and geese exemplify this approach.
-## See Also
-- [[bill-mollison]]
-- [[mollison-designers-geese-and-duck-weed-control]]
-- [[mollison-designers-vetiver-grass-for-erosion-control]]
-- [[poultry-range-management-mollison]]
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]

@@ -87,35 +87,3 @@ screwed tight. The lids must remain loose to allow steam to escape during steril
 and to prevent the jars from exploding under pressure. A double layer of tinfoil is
 crumpled over the lid and top part of the jar, providing an additional barrier against
 contamination during the sterilisation process.
-
-Once the sterilisation cycle completes and pressure has equalised in the cooker, the
-jars are removed and the grass seed inside is shaken loose to mix the wet and dry kernels.
-This post-sterilisation shaking is critical because the heating process drives water into
-the seeds unevenly. Kernels near the bottom of the jar absorb more water than those near
-the top during the sterilisation cycle.
-
-Always check the jars for cracks before shaking to avoid injury from breakage. The shaking
-serves a dual purpose: it redistributes moisture throughout the substrate, and it provides
-an immediate quality assessment of the moisture level.
-
-If the substrate shakes freely with individual kernels moving independently, the moisture
-level is approximately correct. If the mass sticks together in clumps, the substrate is
-too wet and the water ratio should be reduced for subsequent batches.
-
-## Overnight Soak Method
-
-An alternative preparation technique involves soaking the grass seed overnight in water
-before filling the jars. This approach produces a more homogenous substrate because all
-kernels have equal time to absorb water. The soaked seeds are then drained of excess
-water and filled into jars for sterilisation.
-
-The overnight soak method has several advantages over direct addition. It produces more
-uniform moisture distribution between individual kernels. It reduces the risk of dry spots
-or overly wet pockets in the finished substrate. The soaking period partially hydrates
-the endosperm, making nutrients more accessible to colonising mycelium.
-
-The primary disadvantage is the additional preparation time required. The direct addition
-## See Also
-
-- [[substrate-preparation-mushroom-growing]]
-- [[oyster-mushroom-substrate-preparation]]

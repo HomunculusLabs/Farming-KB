@@ -1,5 +1,5 @@
 ---
-title: query-how-does-keyline-design-work-in-permaculture
+title: Keyline Design
 created: 2026-04-28
 type: species
 tags:
@@ -7,7 +7,7 @@ tags:
   - water-management
   - landscape-design
   - agriculture
-  - regenerative-agriculture
+  - [[regenerative-agriculture]]
   - land-management
   - australia
   - p.a.-yeomans
@@ -24,7 +24,7 @@ sources:
 **Keyline Design** is a landscape planning technique for the sustainable development and management of agricultural and pastoral land, originally developed by Australian farmer and engineer **Percival Alfred (P.A.) Yeomans** in the 1950s.
 The system focuses on the systematic management of water across a landscape by identifying and working with the natural topographic features — specifically the "keyline" — to maximize rainfall absorption, soil moisture retention, and overall land productivity.
 Keyline design integrates water harvesting, soil building, and land shaping into a cohesive approach that has profoundly influenced modern [[bill-mollison]] and permaculture
-- permaculture | Keyline is a core technique within permaculture water management |
+- permaculture | Keyline is a core technique within permaculture [[water-management]] |
 | permaculture
 - [[food-forest]]
 - [[david-holmgren]]
@@ -46,7 +46,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,25 +88,3 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[wofati]]

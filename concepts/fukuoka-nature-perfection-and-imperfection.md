@@ -1,13 +1,13 @@
 ---
 title: "Fukuoka on Nature's Fundamental Perfection"
-aliases: fukuoka nature perfection and imperfection imperfection, Darwin critique, natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] nature]
+aliases: [[fukuoka-nature-as-teacher]] perfection and imperfection imperfection, Darwin critique, natural [[fukuoka-do-nothing-farming-philosophy-and-practice]] nature]
 tags: [natural-farming, philosophy, ecology, fukuoka, nature-study]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
 # Nature's Fundamental Perfection
 
-Masanobu Fukuoka's philosophical framework rests on a radical assertion:
+[[masanobu-fukuoka]]'s philosophical framework rests on a radical assertion:
 **nature is always and absolutely perfect**. This is not a sentimental
 claim about beauty but an ontological statement about reality itself. In
 "The Road Back to Nature," Fukuoka develops this idea as the foundation
@@ -35,7 +35,7 @@ begins with misconceptions about reality itself.
 
 Fukuoka draws on Buddhist philosophy for his epistemology. Knowledge
 that splits apart self and object is "discriminating knowledge" — the
-domain of modern science. Knowledge that treats self and object as a
+domain [[fukuoka-road-critique-of-modern-science]]. Knowledge that treats self and object as a
 unified whole is "non-discriminating knowledge" — the highest wisdom.
 
 The "discriminating adult" is inferior to the "non-discriminating
@@ -66,7 +66,7 @@ between primitive existence and truly natural conditions. The Bushman
 himself appeared fine — his bright, cheerful face suggesting a natural
 man immersed in joy. But his environment was barren and scarce.
 
-If the Bushman practiced natural farming, Fukuoka reasoned, there would
+If the Bushman practiced [[cho-loess-powder-in-natural-farming]], Fukuoka reasoned, there would
 be far greater abundance around him. His existence appeared natural but
 was not — the balance of people, animals, and plants with nature had
 been destroyed. A hunter-gatherer in a degraded landscape is not
@@ -88,32 +88,3 @@ thriving — not a progression from imperfection.
 The acacia tree enriches soil yearly, provides infinite pollen for bees,
 and scatters seemingly wasteful seed that nourishes insects and birds.
 The Darwinian framework assumes direction; Fukuoka rejects this
-entirely. Nature does not evolve toward anything because it is already
-complete. Variation is nature's expression of inherent fullness.
-
-## Implications for Farming
-
-Nature's perfection yields Fukuoka's five principles: no tillage, no
-fertilizer, no pesticides, no pruning, no weeding. The farmer's role
-is not to improve nature but to step aside and allow it to express its
-inherent order. This "do-nothing farming" produces yields equal to or
-better than [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] while requiring a fraction of the labor.
-
-Every intervention by human knowledge moves the system away from its
-natural state. The irony is that eliminating human action entirely —
-reducing labor to essentially [[fukuoka-sowing-seed-ball-desert-revegetation]] and spreading straw —
-produces superior results. Nature, not man, grows the rice and wheat.
-
-## The Great Spirit
-
-Fukuoka connects nature's perfection to the Great Spirit of indigenous
-traditions. When a woman on his farm cried out "Great Spirit!" upon
-experiencing natural vitality, he recognized intuitive recognition of
-nature's inherent divinity — a perfection science cannot measure but
-every child understands when rolling in the dirt.
-
-## See Also
-
-- [[fukuoka-critique-darwinian-evolution]]
-- [[fukuoka-bushman-philosophy-great-spirit]]
-- [[fukuoka-nature-is-unknowable]]

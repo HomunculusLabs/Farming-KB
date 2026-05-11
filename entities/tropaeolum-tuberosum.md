@@ -87,28 +87,3 @@ Traditional Andean farmers recognize numerous named landrace varieties, distingu
 ## Limitations and Challenges
 
 Despite its advantages, mashua faces several barriers to wider adoption outside the Andes. The strong pungent flavor of raw tubers is unfamiliar and often unappealing to consumers accustomed to mild [[growing-root-vegetables-guide]] like potatoes.
-
-The climbing growth habit complicates mechanical harvesting. Tubers produced along the length of stolons are distributed through the soil profile rather than concentrated in a compact root zone, making efficient harvest difficult at scale.
-
-Day-length sensitivity restricts cultivation to specific latitudes. Mashua requires short days (12–13 hours or less) to initiate tuberization, which limits production in temperate zones without careful variety selection or photoperiod manipulation.
-
-Limited seed availability outside South America is another constraint. Most cultivated mashua exists as landraces maintained by smallholder farmers, and formal breeding programs are virtually nonexistent.
-
-## Global Interest and Experimental Cultivation
-
-Mashua has attracted growing interest from researchers and sustainable agriculture advocates seeking climate-resilient, low-input crops. Experimental plots in New Zealand, the Pacific Northwest of North America, and parts of Europe have demonstrated viable yields.
-
-In New Zealand, mashua has escaped cultivation and naturalized in some areas, particularly on the South Island. It is sometimes considered a minor weed in pastures but is also valued by home gardeners for its ornamental flowers and edible tubers.
-
-The Crop Trust has identified mashua as a priority underutilized crop for genebank conservation. Efforts are underway to characterize and preserve the genetic diversity of Andean mashua landraces, which face erosion from modernization of Andean agriculture.
-
-## See Also
-
-- [[smallanthus-sonchifolius]]
-- [[apios-americana]]
-- [[caragana-arborescens]]
-- achillea-millefolium
-- tagasaste
-- [[robinia-pseudoacacia]]
-- [[elaeagnus-umbellata]]
-- [[asimina-triloba]]

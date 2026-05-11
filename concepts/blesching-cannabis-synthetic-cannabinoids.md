@@ -14,14 +14,14 @@ Synthetic cannabinoids are laboratory-created compounds designed to mimic or
 modify the effects of naturally occurring phytocannabinoids from the cannabis
 plant. Several synthetic cannabinoid medications have received regulatory
 approval, while many others remain unregulated and dangerous. Understanding
-the differences between synthetic cannabinoid pharmaceuticals, unregulated
+the differences between [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]], unregulated
 synthetic cannabinoids, and whole-plant cannabis is essential for informed
 medical decision-making.
 
 ## Overview
 
 The development of synthetic cannabinoids represents an attempt to isolate and
-standardize the therapeutic properties of cannabis while eliminating its
+standardize the [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of cannabis while eliminating its
 undesirable effects. Pharmaceutical companies have created several FDA-approved
 synthetic cannabinoid medications, including dronabinol (Marinol), nabilone
 (Cesamet), and nabiximols (Sativex). These medications offer the advantages
@@ -34,7 +34,7 @@ Approved medications like dronabinol and nabilone contain precise doses of
 specific cannabinoids and have undergone [[mushroom-cancer-clinical-trials-overview]] demonstrating safety
 and efficacy for particular indications. In contrast, unregulated synthetic
 cannabinoids such as those sold as Spice, K2, or Black Mamba are novel
-psychoactive substances of unknown composition and potency that have been
+[[cultural-evolution-and-psychoactive-substances]] of unknown composition and potency that have been
 associated with severe toxicity, hospitalization, and death.
 
 Whole-plant cannabis contains over 100 identified cannabinoids, hundreds of
@@ -60,13 +60,13 @@ exceeds what isolated synthetic compounds can achieve.
 - Synthetic cannabinoid medications have narrower indications than
   whole-plant cannabis
 - The U.S. federal government holds a patent on neuroprotective properties
-  of cannabinoids for neurological conditions
+  of cannabinoids [[cannabis-for-neurological-conditions]]
 
 ## FDA-Approved Synthetic Cannabinoid Medications
 
 Dronabinol (Marinol) is a synthetic form of delta-9-THC approved by the FDA
 for the treatment of nausea and vomiting associated with cancer chemotherapy
-and for appetite stimulation in AIDS-related wasting syndrome. Dronabinol is
+and for [[cannabis-for-cachexia-and-appetite-stimulation]] in AIDS-related wasting syndrome. Dronabinol is
 administered orally in capsule form and provides standardized doses of THC
 without the variability associated with plant material. However, oral THC
 metabolizes to 11-hydroxy-THC in the liver, producing more intense
@@ -84,53 +84,7 @@ post-traumatic stress disorder, though these remain off-label uses.
 Nabiximols (Sativex) is a whole-plant extract rather than a fully synthetic
 compound. It is an oromucosal spray containing approximately equal parts THC
 and CBD, along with other cannabis-derived compounds. Nabiximols is approved
-in numerous countries for spasticity associated with multiple sclerosis and
+in numerous countries for spasticity associated with [[blesching-cannabis-multiple-sclerosis]] and
 for cancer-related pain. It represents a bridge between single-molecule
 synthetic cannabinoids and whole-plant cannabis, preserving some of the
 entourage effect while providing pharmaceutical standardization.
-
-## Limitations of Single-Molecule Approaches
-
-The primary limitation of synthetic single-molecule cannabinoid medications
-is that they cannot replicate the entourage effect produced by the full
-spectrum of compounds in whole-plant cannabis. Research has consistently
-demonstrated that THC and CBD work more effectively together than either
-compound alone, and that terpenes and minor cannabinoids contribute
-significant therapeutic effects that are lost in isolation. This is why
-nabiximols, which retains multiple plant compounds, often outperforms
-dronabinol in clinical comparisons.
-
-Additionally, synthetic cannabinoid medications typically contain only THC
-or THC plus CBD, missing the therapeutic contributions of CBC, CBG, THCV,
-CBDV, and the numerous other cannabinoids present in whole-plant cannabis.
-Each of these minor cannabinoids has demonstrated unique therapeutic
-properties in preclinical and [[hofmann-lsd-clinical-research-early-studies]]. The development of
-synthetic cannabinoid medications also requires enormous financial
-investment in clinical trials, which limits the number of conditions that
-can be pursued and keeps drug prices high.
-
-Patients and clinicians working with the Cannabis Health Index framework
-are encouraged to consider synthetic cannabinoid medications as one option
-within a broader toolkit rather than as a replacement for whole-plant
-cannabis. In some clinical contexts, particularly those requiring precise
-dosing or regulatory compliance, synthetic medications may be preferred.
-In other contexts, the broader therapeutic profile of whole-plant cannabis
-may provide superior outcomes.
-
-## Regulatory and Patent Considerations
-
-The U.S. federal government holds a patent (US Patent 6630507) on the
-neuroprotective properties of cannabinoids, specifically for the treatment
-of neurological conditions such as multiple sclerosis and other inflammatory
-neurological diseases. This patent acknowledges the therapeutic potential of
-cannabinoids while existing alongside federal scheduling that classifies
-cannabis as having no accepted medical use, highlighting the complex and
-sometimes contradictory regulatory landscape surrounding cannabis medicine.
-
-## Related Concepts
-
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-multiple-sclerosis]]
-- [[cannabis-and-asthma]]
-- [[cannabis-and-insomnia]]
-- [[blesching-cannabis-vasopressin-aggression]]

@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-Lactic Acid Bacteria (LAB) are anaerobic microorganisms that, in the
+[[bionutrients-lab-lactic-acid-bacteria-serum]] (LAB) are anaerobic microorganisms that, in the
 absence of oxygen, break sugar into lactic acid. In Dr. Cho's Natural
 Farming system, LAB is very effective in improving ventilation of air
 in the soil, promoting rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables.
@@ -88,10 +88,3 @@ The basic dilution ratio is 1:1000 (LAB to water).
 ### Compost Applications
 
 - If LAB is used together with [[cho-fermented-mixed-compost-methods]] or IMO, fermentation
-  occurs rapidly with very effective results.
-- LAB's key function in compost is to prevent
-  [[knf-lactic-acid-bacteria-serum]] - general KNF LAB reference
-- [[cho-oriental-herbal-nutrient-preparation]] - combined in many
-  treatment recipes
-- [[cho-indigenous-microorganisms-collection-and-cultivation]] - LAB
-  used in IMO-3 culture

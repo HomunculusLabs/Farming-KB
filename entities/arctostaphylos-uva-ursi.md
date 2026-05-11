@@ -30,7 +30,7 @@ The species is named for its bright-red berries, which are relished by bears
 and other wildlife.
 
 Its dried leaves have been used for centuries as a urinary antiseptic, and
-the leaf extract remains an approved herbal medicine in Europe.
+the leaf extract remains an approved [[childrens-herbal-medicine]] in Europe.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ uva-ursi.
 
 The species was originally described by Linnaeus in 1753 as Arbutus uva-ursi
 and later transferred to Arctostaphylos. Several subspecies are recognized
-including ssp. uva-ursi (Eurasia) and ssp. adenotricha (North America).
+including ssp. uva-ursi (Eurasia) and ssp. adenotricha ([[guzman-psilocybin-mushrooms-north-america]]).
 
 The plant forms dense mats 5–15 cm tall, spreading via trailing stems that
 root at the nodes.
@@ -55,7 +55,7 @@ persisting on the plant through winter.
 
 ## Distribution and Habitat
 
-Bearberry has a circumboreal distribution across North America, Europe, and
+Bearberry has a circumboreal distribution across [[huckleberries-and-wild-berries-of-north-america]], Europe, and
 northern Asia.
 
 In North America, it ranges from Alaska and northern Canada south to
@@ -73,7 +73,7 @@ on coastal sand dunes and granite ridges.
 ## Ethnobotany and Traditional Use
 
 Bearberry leaves are among the most extensively documented herbal medicines in
-European and Indigenous North American traditions.
+European and Indigenous [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] traditions.
 
 European herbalists have used the dried leaf as a urinary antiseptic since the
 2nd century CE, when Dioscorides described its properties.
@@ -88,63 +88,3 @@ In Scandinavian folk medicine, bearberry leaf tea treated kidney stones and
 urinary tract infections.
 
 ## Bioactive Compounds and Pharmacology
-
-The primary bioactive constituent is arbutin, a hydroquinone glycoside that
-constitutes 5–15% of dried leaf weight.
-
-Upon ingestion, arbutin is hydrolyzed to hydroquinone, which exerts
-antibacterial activity in alkaline urine against common urinary pathogens
-including Escherichia coli.
-
-Additional phenolic compounds include methylarbutin, gallic acid, ellagic
-acid, and flavonoids including hyperoside and quercitrin.
-
-Tannins comprise 10–20% of leaf dry weight and contribute astringent and
-anti-inflammatory effects.
-
-The European Medicines Agency has approved bearberry leaf as a traditional
-herbal medicine for symptomatic treatment of uncomplicated lower urinary
-tract infections in adults.
-
-Recommended doses in herbal practice are 2–4 g of dried leaf daily,
-standardized to contain 400–800 mg arbutin.
-
-Contraindications include pregnancy and kidney disease, due to hydroquinone
-hepatotoxicity concerns with prolonged high-dose use.
-
-## Ecology and Conservation
-
-Bearberry is a keystone groundcover species in many northern and montane
-ecosystems.
-
-Its evergreen foliage provides browse for deer, elk, moose, mountain goats,
-and bighorn sheep.
-
-Berries are a critical winter food source for bears, grouse, robins, and
-numerous other birds and mammals.
-
-The plant's extensive root network stabilizes soils on dunes, slopes, and
-disturbed sites, making it valuable for [[permplant-willows-salix-erosion-control-fodder]].
-
-It regenerates after fire through [[cannabis-seed-germination-methods]] from soil-stored seed
-banks and by resprouting from protected stem bases.
-
-Bearberry is common throughout its range and not considered threatened,
-though local populations may decline with habitat conversion.
-
-It is widely used in ecological restoration and native plant landscaping due
-to its [[dighton-fungal-drought-tolerance-plant-water-relations]], low maintenance requirements, and ornamental
-red berries.
-## See Also
-
-- [[cyclamen-hederifolium]]
-
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-myrtillus]]
-- [[gaultheria-procumbens]]
-- [[gaultheria-shallon]]
-- [[kalmia-angustifolia]]
-- [[oxydendrum-arboreum]]
-- [[rhododendron-maximum]]
-- [[arctostaphylos-patula]]

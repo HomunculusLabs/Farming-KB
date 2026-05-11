@@ -88,33 +88,5 @@ melaleuca fit naturally into Zone 4 forestry systems. In all
 zones, position distillation equipment centrally to minimize
 transport distance from harvest to processing, and design the
 layout so spent biomass can be returned directly to adjacent
-compost systems or used as sheet mulch.
 
-## Related
-
-- [[permaculture-designers-manual-oil-seeds]]
-
-- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]] Topics
-
-- permaculture-designers-manual-crafts-and-income - income from essential oils
-- permaculture-designers-manual-fuel-wood-systems - fuel forests including oil species
-- [[soil-erosion-control]]
-- [[permaculture-designers-manual-climatic-zones-tropical]]
-## Practical Considerations
-
-Successful implementation of Essential Oil Plants requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+See also [[permaculture-designers-manual-beverage-plants]] for related information from the Permaculture Designer's Manual.

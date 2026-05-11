@@ -1,5 +1,5 @@
 ---
-title: Fiber vs Drug Cannabis cannabis fiber vs drug strain phenotypes clarke and Gross Morphology (Clarke)
+title: Cannabis Fiber Vs Drug Strain Phenotypes Clarke
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Classification Overview
 
-Imported Cannabis strains can be classified by their gross phenotypes into three major categories:
+Imported [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] can be classified by their gross phenotypes into three major categories:
 1. Fiber strain gross phenotypes (hemp types)
 2. Drug strain gross phenotypes
 3. Hybrid drug phenotypes
@@ -23,13 +23,13 @@ The F1 and F2 pure-bred offspring of imported varieties are more similar to each
 
 ### Characteristics
 - **Growth form**: Tall, rapidly maturing, limbless plants
-- **Sex expression**: Often monoecious (selected for even maturation)
+- **[[cannabis-sex-expression-hermaphrodite-breeding-clarke]]**: Often monoecious (selected for even maturation)
 - **Selection history**: Generations of fiber-producing farmers selected for long fibers through even growth and maturation
 - **Harvest**: Usually not grown long enough to set seed (seed interferes with fiber production)
-- **Origin**: Northern temperate climates of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
+- **Origin**: Northern [[fukuoka-natural-farming-temperate-climates]] of Europe, Japan, China, and [[psilocybin-north-america-pacific-northwest]]
 
 ### Escaped Fiber Strains
-Escaped fiber strains of the midwestern United States are:
+Escaped fiber strains of the midwestern [[dmt-containing-plants-united-states-halpern]] are:
 - Tall, skinny, relatively poorly branched
 - Weakly flowered
 - Low in cannabinoid production
@@ -63,7 +63,7 @@ Drug strains come from specific regions, each with distinctive characteristics:
 - Lebanon
 
 **Temperate to Continental (30-50 degrees latitude):**
-- Hindu Kush (Afghanistan and Pakistan)
+- [[cannabis-hindu-kush-strain-description-clarke]] (Afghanistan and Pakistan)
 - Russia (ruderalis, uncultivated)
 
 ### General Drug Strain Traits
@@ -88,16 +88,3 @@ Drug strains come from specific regions, each with distinctive characteristics:
 - Hybrids of many different imported strains
 
 ## Strain Selection for Breeding
-
-Understanding gross phenotypes is essential for selecting parental stock:
-- Each strain has characteristic gross phenotypes useful for identification
-- Rare examples of nearly every phenotype appear in nearly every variety, indicating complex genetic control
-- Imported strains usually exhibit great seedling diversity for most traits
-- Selection should consider: size, yield, vigor, adaptability, hardiness, disease resistance, maturation, root production, branching, sex expression, calyx size, color, cannabinoid level, taste and aroma, trichome type, resin quality and tenacity
-
-## Related Topics
-
-- [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] detail
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]] - Hybrid phenotypes
-- [[cannabis-resin-production-and-quality-traits-clarke]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]

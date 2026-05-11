@@ -67,7 +67,7 @@ pathogens find no suitable host and die before reproducing. [[cover-crops-soil-h
   overwintering pest populations and soil-borne pathogen reservoirs
 - Minimize soil disturbance to protect [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungal networks
   described in the [[permaculture-crop-rotation]]
-- [[soil-food-web]]
+- [[soil-foodweb]]
 ## Practical Considerations
 
 Successful implementation of What Is the Best Way to Rotate Crops in a Vegetable Garden? requires attention to

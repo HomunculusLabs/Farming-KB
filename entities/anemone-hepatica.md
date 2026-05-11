@@ -11,7 +11,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Tutin, T.G. (1993). "Hepatica." In: Tutin, T.G. et al. (eds.), Flora Europaea, Vol. 1, 2nd ed. Cambridge University Press.
-  - RHS (2023). "Hepatica nobilis." Royal Horticultural Society Plant Finder.
+  - RHS (2023). "[[hepatica-nobilis]]." Royal Horticultural Society Plant Finder.
   - Kleyer, M. et al. (2008). "The LEDA Traitbase: A Database of Life-History Traits of the Northwest European Flora." Journal of Ecology.
   - Stearn, W.T. (2004). Stearn's Dictionary of Plant Names. Timber Press.
 ---
@@ -20,7 +20,7 @@ sources:
 
 Anemone hepatica (syn. Hepatica nobilis), commonly known as hepatica or liverleaf, is a low-growing perennial in the family Ranunculaceae. It is one of the earliest spring wildflowers in temperate deciduous woodlands.
 
-The species is native to Europe, Asia, and eastern North America. It typically grows 5–15 cm tall and forms slowly spreading clumps over many years.
+The species is native to Europe, Asia, and [[polypore-fungi-eastern-north-america]]. It typically grows 5–15 cm tall and forms slowly spreading clumps over many years.
 
 The common name "liverleaf" refers to the three-lobed leaves, which resemble the shape of a human liver. In the medieval Doctrine of Signatures, this resemblance suggested the plant could treat liver ailments.
 
@@ -75,11 +75,11 @@ Populations on acid soils are smaller and less vigorous than those on limestone.
 
 The species is classified as Least Concern globally. However, it is protected in several European countries where wild collection for gardens has depleted local populations.
 
-Climate change poses a long-term threat by advancing spring phenology beyond the optimal period for insect pollinator emergence.
+[[dighton-fungal-responses-climate-change]] poses a long-term threat by advancing spring phenology beyond the optimal period for insect pollinator emergence.
 
 ## Ecology
 
-The early flowering strategy allows Anemone hepatica to capture sunlight before the tree canopy closes. It stores energy in its rhizome during the brief spring growing period.
+The [[equatorial-photoperiod-early-flowering]] strategy allows Anemone hepatica to capture sunlight before the tree canopy closes. It stores energy in its rhizome during the brief spring growing period.
 
 Flowers are pollinated by early-emerging insects, particularly bees and flies. The flowers close at night and during cold weather, protecting pollen from moisture loss.
 
@@ -87,35 +87,4 @@ Seeds bear an elaiosome and are dispersed by ants through myrmecochory. This dis
 
 The leaves contain ranunculin and protoanemonin, making them toxic to most herbivores. The leathery texture also provides physical defense against slugs and other invertebrate grazers.
 
-Anemone hepatica forms mycorrhizal associations that enhance nutrient uptake from the nutrient-poor leaf litter layer. These fungal partnerships are critical for seedling establishment.
-
-The species is an excellent indicator of ancient woodland in Europe. Its slow colonization rate means its presence often signifies sites with long ecological continuity.
-
-## Cultivation
-
-Anemone hepatica is cultivated as a shade garden plant and has been grown in European gardens since the medieval period. Numerous cultivars have been selected for flower color and form.
-
-The plant prefers part shade in humus-rich, moist but well-drained soil. It tolerates full shade but flowers less prolifically. Avoid wet, poorly drained sites in winter.
-
-Japanese horticulturists have developed hundreds of cultivars, known as "Hepatica sansai," with doubled flowers in many colors. These are highly prized by collectors and specialist nurseries.
-
-Propagation is by seed sown fresh in summer or by careful division in early spring. Seeds require warm-cold stratification and may germinate the second spring after sowing.
-
-The plant is hardy to USDA zones 3–8. It requires minimal maintenance once established but resents root disturbance.
-
-No serious pests or diseases affect Anemone hepatica in cultivation. Occasionally, snails may feed on young leaves in damp conditions.
-
-The foliage is attractive year-round and provides winter interest in shade gardens. The purple undersides of the leaves are particularly ornamental.
-
-## See Also
-
-- [[anemone-nemorosa]]
-- [[helleborus-niger]]
-- [[helleborus-foetidus]]
-- [[pulsatilla-vulgaris]]
-- [[ranunculus-acris]]
-- [[aconitum-napellus]]
-- [[nigella-sativa]]
-- [[eranthis-hyemalis]]
-- [[galanthus-nivalis]]
-- [[caltha-palustris]]
+Anemone hepatica forms [[plants-without-mycorrhizal-associations]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] from the nutrient-poor leaf litter layer. These fungal partnerships are critical for seedling establishment.

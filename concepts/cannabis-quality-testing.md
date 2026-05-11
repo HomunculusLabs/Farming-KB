@@ -12,11 +12,11 @@ tags: [cannabis]
 
 ## Overview
 
-Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, quality assessment begins at harvest with trichome inspection and continues through drying, curing, extraction, and storage.
+Cannabis quality testing encompasses the assessment of potency, purity, flavor, and overall desirability of harvested cannabis and its derivatives. According to Cervantes, [[ingham-compost-quality-assessment-visual-microbial-indicators]] begins at harvest with trichome inspection and continues through drying, curing, extraction, and storage.
 
 ## Trichome Inspection at Harvest
 
-The best gauge of peak ripeness is the color of the resin glands (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
+The best gauge of peak ripeness is the color of the [[greg-green-trichomes-and-resin-glands]] (trichomes). Using a 10-30X microscope or jeweler's loupe, growers assess [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]:
 
 ### Trichome Color Stages
 
@@ -28,7 +28,7 @@ The best gauge of peak ripeness is the color of the resin glands (trichomes). Us
 
 - Harvest when 50% of trichomes are creamy translucent for a balanced cerebral and physical effect
 - Harvest when majority are amber for a heavy body stone (best for pure indica strains)
-- Do not wait for pure sativa strains to reach amber stage; this wastes their unique properties
+- Do not wait for pure [[african-landrace-sativa-strains]] to reach amber stage; this wastes their unique properties
 
 ### What to Look For
 
@@ -68,9 +68,9 @@ An inexpensive microscope (10-30X) is one of the most valuable tools for quality
 
 For water-extracted hash, the "bubble test" is a key quality indicator:
 
-- Full-melt bubble hash bubbles and releases volatile resins when exposed to a flame
+- Full-melt [[cervantes-water-hash-bubble-hash]] bubbles and releases volatile resins when exposed to a flame
 - "If it don't bubble, it ain't worth the trouble" (Bubble Man)
-- Full-melt quality indicates very pure THC content
+- Full-melt quality indicates very pure [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
 - Non-bubbling hash contains too much plant contamination
 
 ## Laboratory Analysis
@@ -88,44 +88,3 @@ Professional laboratory testing provides the most accurate quality data:
 Sensory evaluation remains an important quality metric:
 
 - Slowly dried buds taste sweet and smoke smooth
-- Fast-dried buds taste "green" and burn unevenly
-- Properly cured buds develop full aroma and flavor over time
-- Chlorophyll breakdown during slow drying improves taste
-- Water-extracted hash often has less flavor due to terpenoid loss
-
-## Signs of Quality Problems
-
-Indicators of poor quality cannabis:
-
-- Buds crackle when burning (fertilizer residue)
-- Buds smell like chemicals (improper flushing)
-- Leaves are brittle at harvest (nutrient imbalance)
-- Leaf tips and fringes are burned ([[cannabis-nutrient-burn-and-toxicity]])
-- Mold growth during storage (incomplete drying)
-- Harsh, unpleasant smoke (fast drying or contamination)
-
-## Hash Quality by Extraction Method
-
-Different extraction methods produce characteristic quality profiles:
-
-- Hand-rubbed hash: Lower quality, contains more debris than other methods
-- Dry-sieved hash: Simple but contains more debris than water extraction
-- Water-extracted hash: Among the purest, especially with multiple bag grades
-- Solvent-extracted oil: Potent but may contain solvent residues
-
-## Storage Quality Monitoring
-
-After harvest, quality can be monitored by:
-
-- Checking for mold regularly during curing
-- Ensuring airtight seals are maintained
-- Monitoring for off-odors indicating degradation
-- Verifying that resin glands remain intact
-- Comparing taste and potency over time
-
-## See Also
-
-- [[cannabis-curing-jars]]
-- [[cannabis-ice-water-extraction]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[cannabis-hash-making-from-extracted-oil]]

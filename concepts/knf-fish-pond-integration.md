@@ -88,29 +88,3 @@ The fish pond in KNF is not an isolated system but integrated with the rest of t
 - Some shade from trees or structures prevents excessive warming
 
 ## Comparison with Conventional Aquaculture
-
-| Aspect | Conventional | KNF Natural |
-|--------|-------------|-------------|
-| Water treatment | Chemicals, antibiotics | LAB, IMO |
-| Feed | Commercial pellets | Natural organisms + supplements |
-| Disease treatment | Antibiotics, chemicals | Prevention through water quality |
-| Stocking density | High | Moderate |
-| Environmental impact | Often polluting | Closed-loop nutrient cycling |
-| Integration | Isolated | Connected to farm ecosystem |
-| Fish quality | May contain residues | Chemical-free, natural |
-
-## Benefits
-
-- Chemical-free fish production
-- Reduced feed costs through natural food chain development
-- Integration with crop production creates closed-loop nutrient cycling
-- Diversified farm income
-- Improved farm ecosystem resilience
-- Enhanced water retention on the farm
-
-## See Also
-
-- [[knf-indigenous-microorganism-culture]]
-- [[knf-livestock-odorless-piggery]]
-- [[cho-han-kyu-life-and-philosophy]]
-- [[fukuoka-natural-livestock-farming]]

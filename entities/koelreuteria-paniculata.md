@@ -20,9 +20,9 @@ sources:
 
 Koelreuteria paniculata, commonly known as golden rain tree, is a medium-sized deciduous tree in the family Sapindaceae. It is native to eastern Asia, occurring in China, Korea, and Japan.
 
-The species is widely planted as an ornamental tree for its showy yellow flower panicles and distinctive inflated papery seed capsules. It is one of the few ornamental trees that produces yellow flowers in midsummer.
+The species is widely planted as an ornamental tree for its showy yellow flower panicles and distinctive inflated papery seed capsules. It is one of the few [[hamilton-ornamental-trees]] that produces yellow flowers in midsummer.
 
-Golden rain tree has become naturalized in many temperate regions worldwide, including eastern North America, parts of Europe, and South America. It is considered invasive in some areas due to prolific seed production and competitive ability.
+Golden rain tree has become naturalized in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[polypore-fungi-eastern-north-america]], parts of Europe, and [[guzman-psilocybin-mushrooms-south-america]]. It is considered invasive in some areas due to prolific seed production and competitive ability.
 
 The species was introduced to North America in the mid-18th century and was promoted as an ornamental tree by the USDA in the early 20th century. Its popularity in urban forestry programs has contributed to its widespread naturalization.
 
@@ -74,11 +74,11 @@ The flowers attract bees and other pollinators during midsummer. The tree provid
 
 Young branches are flexible and have been used in basket weaving in parts of China. The wood is moderately hard and has been used for small turned objects and tool handles.
 
-In traditional Chinese medicine, the dried flowers and fruits have been used to treat eye inflammation and skin conditions. The seeds are reported to have mild antibacterial properties.
+In traditional Chinese medicine, the dried flowers and fruits have been used to treat eye inflammation and [[cannabis-for-skin-conditions-detailed]]. The seeds are reported to have mild antibacterial properties.
 
 ## Ecology and Invasive Potential
 
-Koelreuteria paniculata is classified as invasive in several U.S. states, including North Carolina, Tennessee, and Virginia. It displaces native vegetation along roadsides, in old fields, and at forest margins.
+Koelreuteria paniculata is classified as invasive in several U.S. states, including [[north-carolina-mycodiversity]], Tennessee, and Virginia. It displaces native vegetation along roadsides, in old fields, and at forest margins.
 
 The species produces copious seeds that are readily dispersed by wind and water. A single mature tree can produce tens of thousands of viable seeds annually.
 
@@ -87,34 +87,3 @@ Seedlings establish readily in disturbed habitats and can form dense thickets th
 In its native range, natural herbivores and pathogens help control golden rain tree populations. In introduced ranges, the absence of these natural controls contributes to its invasive success.
 
 Despite its invasive tendencies, the species remains widely planted due to its ornamental qualities and urban tolerance. Some municipalities have restricted or discouraged new plantings of golden rain tree.
-
-Sterile cultivars have been developed in an effort to reduce the invasive potential of the species. These selections produce few or no viable seeds while retaining the ornamental characteristics that make the tree popular.
-
-## Related Species
-
-Koelreuteria bipinnata, Chinese flame tree, is a closely related species native to southern China. It differs in its larger, more deeply bipinnate leaves and pinkish-orange fruit capsules.
-
-Koelreuteria elegans, flamegold tree, is native to Taiwan and produces bright yellow flowers followed by salmon-pink capsules. It is less cold-hardy than golden rain tree.
-
-The genus Koelreuteria contains approximately four species, all native to eastern Asia. All share the characteristic papery fruit capsules and pinnately compound leaves.
-
-Koelreuteria henryi, Henry's goldenrain tree, is a rare species native to central China. It has larger leaves and less showy flowers than the common golden rain tree.
-
-Acer platanoides, Norway maple, is an unrelated species that shares similar urban adaptability and invasive tendencies in eastern North America. Both species are commonly planted street trees that have naturalized widely.
-
-Ailanthus altissima, tree-of-heaven, occupies similar disturbed urban habitats and is also an aggressive invasive species. It produces allelopathic compounds that inhibit the growth of competing vegetation.
-
-Both species illustrate the challenges of introducing ornamental trees without adequate assessment of invasive potential. Their ecological impacts continue to be studied by invasive species biologists.
-
-## See Also
-
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[acer-platanoides]]
-- [[gleditsia-triacanthos]]
-- [[gymnocladus-dioicus]]
-- [[syringa-vulgaris]]
-- [[syringa-reticulata]]
-- [[maclura-pomifera]]
-- [[ailanthus-altissima]]
-- [[quercus-robur]]

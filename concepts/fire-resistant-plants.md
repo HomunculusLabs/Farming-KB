@@ -9,7 +9,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Fire Resistant Plants
 
-Plants with low fire potential are critical for permaculture designs in fire-prone areas. They can be used as firebreaks, windbreaks, and shelterbelts that also serve multiple other functions. Note that species marked with an asterisk (*) have conflicting reports of their ability to resist fire. (see [[low-fire-trees]]).
+Plants with low fire potential are critical for permaculture designs in fire-prone areas. They can be used as firebreaks, windbreaks, and shelterbelts that also serve multiple other functions. Note that species marked with an asterisk (*) have conflicting reports of their ability to resist fire.
 
 ## Trees and Shrubs with Low Fire Potential
 
@@ -44,13 +44,13 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Quercus robur (English Oak) -- recovers
 - Quercus suber (Cork Oak)
 - Quercus ilex (Holm Oak)
-- Quercus virginiana (Live Oak)
-- Quercus macrocarpa (Burr Oak)
+- [[quercus-virginiana]] (Live Oak)
+- [[quercus-macrocarpa]] (Burr Oak)
 - Quercus palustris (Pin Oak)
 
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
-- Ceratonia siliqua (Carob) -- recovers
+- [[ceratonia-siliqua]] (Carob) -- recovers
 - Castanea sativa (Sweet Chestnut)
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
@@ -59,12 +59,12 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- Robinia pseudoacacia (Black Locust)
+- [[robinia-pseudoacacia]] (Black Locust)
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
-- Platanus acerifolia (London Plane)
+- [[platanus-acerifolia]] (London Plane)
 - Tilia vulgaris (Linden)
-- Aesculus hippocastanum (Horse Chestnut)
+- [[aesculus-hippocastanum]] (Horse Chestnut)
 - Grevillea robusta (Silky Oak) -- does NOT recover
 
 ## Ground Covers with Low Fire Potential

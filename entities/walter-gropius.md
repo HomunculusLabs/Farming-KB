@@ -68,7 +68,7 @@ updated: 2026-05-02
 
 ## Exile and American career
 - Gropius left Germany after the rise of National Socialism.
-- He lived in britain before emigrating to the United States in 1937.
+- He lived in britain before emigrating to the [[dmt-maoi-plants-united-states]] in 1937.
 - In America he joined the Harvard Graduate School of Design.
 - He influenced many American architects through teaching.
 - Marcel Breuer collaborated with him after also leaving Europe.
@@ -85,18 +85,5 @@ updated: 2026-05-02
 - Gropius House, Lincoln, Massachusetts.
 - Harvard Graduate Center, with TAC.
 - Pan Am Building, with collaborators.
-- United States Embassy in Athens, with TAC.
+- [[hallucinogenic-plants-native-to-united-states]] Embassy in Athens, with TAC.
 - University of Baghdad projects, with TAC involvement.
-
-## Relationships and network
-- Gropius married Alma Mahler in 1915 and divorced her in 1920.
-- Their daughter Manon died young; Alban Berg dedicated a violin concerto to her memory.
-- In 1923 he married Ise Frank, known as Ise Gropius.
-- Ise Gropius helped shape Bauhaus communication and public identity.
-- Gropius recruited teachers including Paul Klee and Wassily Kandinsky.
-- He helped create the environment in which [[bauhaus-movement]].
-## Related
-
-- [[walter-pahnke]]
-
-- [[walter-stoll]]

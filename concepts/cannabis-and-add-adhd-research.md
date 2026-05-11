@@ -52,7 +52,7 @@ ADHD is characterized by inattention, poor concentration, distractibility, hyper
 
 - Both CB1- and CB2-based mechanisms involved in modulating ADHD symptoms
 
-- Both sativa and indica strains may offer therapeutic potential
+- Both sativa and indica strains may offer [[metzner-ayahuasca-therapeutic-potential]]
 
 - Dosage critical -- too much can worsen inattention
 
@@ -60,15 +60,15 @@ ADHD is characterized by inattention, poor concentration, distractibility, hyper
 
 The endocannabinoid system modulates the same neurotransmitter systems implicated in ADHD pathology -- dopamine, norepinephrine, serotonin, GABA, and glutamate -- but through fundamentally different mechanisms than conventional stimulant medications.
 
-- **Dopamine regulation via CB1:** CB1 receptors on GABAergic interneurons in the prefrontal cortex and striatum modulate dopamine release. Unlike stimulants that directly increase dopamine (risking tolerance and dependence), cannabinoids fine-tune the dopaminergic system through indirect modulation, providing a more balanced effect on attention and motivation.
+- **[[endocannabinoid-dopamine-regulation-adhd-parkinsons-blesching]] via CB1:** CB1 receptors on GABAergic interneurons in the prefrontal cortex and striatum modulate dopamine release. Unlike stimulants that directly increase dopamine (risking [[cannabis-tolerance-and-dependence]]), cannabinoids fine-tune the dopaminergic system through indirect modulation, providing a more balanced effect on attention and motivation.
 
 - **Prefrontal cortex optimization:** The prefrontal cortex (PFC) is the brain region most implicated in ADHD, responsible for executive function, impulse control, and sustained attention. CB1 receptors in the PFC modulate the balance between cortical excitation (glutamate) and inhibition (GABA), potentially restoring the regulatory balance that is disrupted in ADHD.
 
-- **FAAH inhibition and endocannabinoid tone:** The 2009 Bordeaux study using FAAH inhibitor URB597 showed that increasing endogenous anandamide levels improves impulse control and reduces novelty-seeking behavior. This suggests that some ADHD symptoms may reflect an endocannabinoid deficiency state that can be corrected by enhancing natural endocannabinoid signaling.
+- **FAAH inhibition and endocannabinoid tone:** The 2009 Bordeaux study using FAAH inhibitor URB597 showed that increasing endogenous anandamide levels improves impulse control and reduces novelty-seeking behavior. This suggests that some ADHD symptoms may reflect an endocannabinoid deficiency state that can be corrected by enhancing natural [[2-ag-endocannabinoid-signaling-blesching]].
 
 - **CBD's role in hyperactivity:** The 2012 Melbourne study demonstrated that CBD (3 mg/kg) specifically reduced hyperactivity and normalized social behavior in an animal model, though it did not improve attention span. This suggests CBD may be most useful for the hyperactive-impulsive subtype of ADHD.
 
-- **Circadian rhythm modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates circadian rhythms through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
+- **[[chamovitz-circadian-rhythm-internal-clock-plants]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
 
 - **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
 
@@ -87,52 +87,3 @@ The clinical evidence for cannabis in ADHD is moderate and growing, with a CHI v
 - **Self-medication evidence (2014, SUNY Albany):** The large national survey (2,811 users) showing that daily cannabis users self-medicate for hyperactive-impulsive symptoms adds epidemiological support to the clinical case reports.
 
 - **Comparison to stimulants:** Unlike stimulant medications, cannabis does not carry risks of appetite suppression, growth suppression in children, cardiovascular events, or psychotic episodes at therapeutic doses.
-
-## Dosing Considerations
-
-- **Start low and titrate slowly:** ADHD patients are often sensitive to [[hallucinogenic-mushroom-dose-effects-clinical]]. Begin with CBD 5 mg and THC 1-2.5 mg, titrating upward every 3-5 days based on response.
-
-- **CBD-dominant approach:** Given that CBD specifically addresses hyperactivity (2012 Melbourne study) without impairing attention, a CBD-dominant preparation (CBD:THC ratio of 5:1 to 10:1) may be optimal as a starting point.
-
-- **For predominantly inattentive type:** A balanced or slightly THC-dominant preparation may better address attention deficits through CB1-mediated prefrontal cortex modulation. THC 2.5-5 mg with CBD 5-10 mg.
-
-- **For predominantly hyperactive-impulsive type:** CBD 10-20 mg with minimal THC (1-2.5 mg) targets hyperactivity and impulsivity without overstimulation.
-
-- **Timing:** Morning and early afternoon doses align with the functional demands of school or work. Avoid evening THC use to prevent sleep disruption (paradoxically, CBD in the evening may improve sleep).
-
-- **Pediatric caution:** The existing evidence base is entirely from adult studies. ADHD treatment in minors with cannabis is controversial and should only be considered under specialist medical supervision with full informed consent.
-
-## Safety and Interactions
-
-- **Stimulant medication interactions:** Many ADHD patients take stimulant medications (methylphenidate, amphetamine). Combining stimulants with THC can increase heart rate and blood pressure more than either alone. CBD has a more favorable interaction profile with stimulants. Patients should consult their prescribing physician before combining.
-
-- **Cognitive effects:** THC can impair working memory and attention at higher doses, which could worsen rather than help ADHD symptoms. This is the primary rationale for CBD-dominant preparations.
-
-- **Motivation and apathy:** Long-term heavy cannabis use has been associated with amotivational syndrome. Patients using cannabis for ADHD should be monitored for decreased motivation and functional impairment.
-
-- **Psychiatric comorbidities:** ADHD has high comorbidity with anxiety, depression, and bipolar disorder. THC may exacerbate anxiety in some individuals. CBD is generally anxiolytic. Comorbid conditions should guide cannabinoid selection.
-
-- **Dependence risk:** While cannabis dependence risk is lower than for stimulants, it is not zero. Regular use can lead to tolerance, requiring dose escalation. Periodic tolerance breaks should be considered.
-
-- **Adolescent brain development:** The adolescent brain is still developing endocannabinoid system pathways. Cannabis use during adolescence may affect neural development and should be approached with extreme caution.
-
-## Mind-Body/Practical Approaches
-
-- NASA-developed Extended Attention Span Training (EAST) and SMART video games
-
-- Mindfulness training: 5 days showed improvement in conflict scores, reduced anxiety/depression/anger/fatigue
-
-- Many children outgrow ADHD -- adults can choose environments where liabilities become assets
-
-- Novelty-rich, stimulating environments improve outcomes
-
-## Related
-
-- [[cannabis-and-adhd]] Pages
-
-- [[cannabis-and-depression-research]]
-
-- [[cannabis-endocannabinoid-system]]
-
-## Merged: Cannabis For Adhd
-Attention deficit hyperactivity disorder (ADHD) is a controversial diagnosis defined by symptoms such as inattention, poor concentration, distractibility, hyperactivity, and poor impulse control. What contributes to the ambiguous nature of the disorder are symptoms such as "dislikes homework" or "does not like to listen when spoken to directly," which may appear normal individually but in combination may impair development. - [[cannabis-endocannabinoid-system]] for neurotransmitter modulation mechanisms - [[cannabis-dosing-guidelines]] for cautious dosing approaches - [[cannabis-cbd-therapeutic-profile]] for non-psychoactive options - [[cannabis-health-index]] for the CHI methodology The evidence for cannabis in ADHD comes primarily from preclinical animal studies and anecdotal reports. The CDC estimates (2012) that one in 10 children between ages 3 and 17 have been diagnosed with ADHD.

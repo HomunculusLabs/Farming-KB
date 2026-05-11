@@ -1,5 +1,5 @@
 ---
-title: Gottlieb gottlieb-psilocybin-cultivation-bulk-substrate-preparation Fruiting Chamber Design
+title: Gottlieb Psilocybin Cultivation Fruiting Chamber Design
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ Gottlieb's "The Psilocybin Producer's Guide" (1976) does not describe a
 traditional fruiting chamber design in the modern sense (e.g., shotguns,
 monotubs, or Martha tents). The guide focuses primarily on liquid broth
 mycelium cultivation for alkaloid extraction. However, several elements of
-the guide's facility design and species-specific fruiting instructions
+the guide's [[cultivation-facility-design]] and species-specific fruiting instructions
 provide relevant information about controlled environments for psilocybin
 [[accessible-mushroom-cultivation-for-disabilities]].
 
@@ -37,13 +37,13 @@ parameters:
 
 ### Temperature Control
 
-- Psilocybe cubensis: 70-75 degrees F for mycelial growth.
+- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]: 70-75 degrees F for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
 - Fruiting temperature: 68 degrees F (noted for compost-grown cubensis in
   clay pots).
 - Some species require significantly lower temperatures:
   - P. quebecencis fruits at 43-59 degrees F air temperature.
   - P. cyanescens fruits in autumn conditions (cool, moist).
-  - P. pelliculosa fruits September to December in the Pacific Northwest.
+  - P. pelliculosa fruits September to December in the [[psilocybin-north-america-pacific-northwest]].
 - Thermal death points vary by species:
   - P. cubensis: 104 degrees F
   - P. caerulescens: 95 degrees F
@@ -77,7 +77,7 @@ parameters:
 - Casing: silica sand/limestone mix.
 - Incubation: 4-6 weeks in daylight at 68 degrees F.
 - Carpophores appear in 4-8 weeks on MEA.
-- Larger carpophores than wild specimens are produced with this compost
+- Larger carpophores than [[strain-isolation-from-wild-specimens]] are produced with this compost
   method.
 - Wild habitat: cow/horse dung, rich pasture soil, straw, sawdust/dung
   mixtures.
@@ -87,39 +87,3 @@ parameters:
 - Carpophores produced on uncased compost or on rye.
 - Optimum: 80 degrees F on MEA.
 - Spores germinate easily on all agar media.
-
-### Psilocybe caerulescens
-
-- Vegetable compost in dim light.
-- Very long incubation: 55-85 days.
-- More disease-prone due to extended incubation period.
-- Resistant to white mold specifically.
-
-### Panaeolus subalteatus
-
-- Occurs as a weed mushroom in commercial mushroom houses, suggesting
-  adaptability to controlled indoor environments.
-- Optimum on MEA: 86 degrees F.
-
-## Limitations of the Guide
-
-Gottlieb's guide explicitly prioritizes mycelial extraction over fruiting:
-- No [[cervantes-humidity-control-dehumidification]] systems are described.
-- No misting, fogging, or ultrasonic humidifier specifications.
-- No CO2 monitoring or fresh air exchange (FAE) rates.
-- No specific fruiting chamber construction (no plastic tubs, terrariums,
-  or grow tents).
-- No air circulation fan specifications for the growing area.
-
-For dedicated fruiting chamber design, Gottlieb directs readers to Oss and
-Oeric's "Psilocybin: Magic Mushroom Growers Guide" (1976), which he
-describes as "nicely illustrated with black and white and color photographs"
-and specifically focused on cultivating [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] carpophores.
-
-## See Also
-
-- [[cultivation-facility-design]]
-
-- [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]]
-- [[mycelial-broth-alkaloid-production]]
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]

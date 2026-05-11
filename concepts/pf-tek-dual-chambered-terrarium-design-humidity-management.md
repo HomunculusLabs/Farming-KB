@@ -1,143 +1,146 @@
+---
+source: fanaticus-pf-tek-psilocybe-fanaticus.md
+tags: [pf-tek, mushroom-cultivation, psilocybe-cubensis]
+---
+
 # PF TEK Dual Chambered Terrarium Design and Humidity Management
 
-The dual chambered terrarium is a central innovation of the PF TEK ([[pf-tek-psilocybe-fanaticus]] Technique) for cultivating [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] at home. Designed by Robert "Psilocybe Fanaticus" McPherson, the terrarium provides the controlled high-humidity environment necessary for mushroom fruiting while maintaining adequate fresh air exchange — two requirements that are inherently in tension, as introducing fresh air typically lowers humidity. The dual chamber design addresses this conflict through a simple but effective physical separation.
+## The Dual Chambered Terrarium Concept
 
-## Design Principles
+The dual chambered terrarium is the central [[comparison-laminar-flow-hood-vs-fruiting-chamber]] in the PF TEK
+[[boil-a-bag-mushroom-cultivation-method]]. Designed by [[pf-tek-psilocybe-fanaticus]], it uses a standard
+10-gallon aquarium modified with a custom airtight lid and an internal spray
+shield partition. The design separates the terrarium into two functional zones:
+a primary chamber that receives the direct spray, and a secondary chamber where
+the fungus cakes reside, bathed in fine molecularized humidity.
 
-### The Fundamental Fruiting Challenge
-Mushroom fruiting requires two environmental conditions that are difficult to achieve simultaneously in a small enclosed space:
+Mushrooms require extremely high humidity to fruit properly — ideally 100%
+relative humidity, meaning the maximum possible number of water molecules
+floating among the air atoms. However, directly spraying water onto the fungal
+mycelium and fruiting bodies is harmful. Water droplets from a spray bottle are
+"giant ponds of water" in relation to the fine [[fungal-mycelial-networks-nutrient-translocation]]. Direct
+contact can drown the micro-world of fungal structures, inhibiting or
+contaminating growth.
 
-1. **High humidity** (85-95% relative humidity): Essential to prevent the mushroom fruiting bodies from drying out during their growth phase. Without adequate humidity, mushrooms will stall, crack, or abort.
+The dual chambered design solves this by breaking spray droplets into a fine
+mist before they reach the fungus. The primary chamber acts as a spray
+reception area, while the secondary chamber provides a safe environment where
+the fungus receives only airborne molecularized water.
 
-2. **Fresh air exchange** (FAE): Mushrooms are living organisms that produce carbon dioxide and consume oxygen. In a sealed environment, CO2 buildup suppresses normal mushroom development and can lead to tall, spindly, malformed fruiting bodies with elongated stems and small caps. Regular air exchange is necessary to maintain healthy growth.
+## The Airtight Aquarium Lid
 
-The challenge is that opening a sealed container to introduce fresh air inevitably allows humidity to escape, creating fluctuations that stress the developing mushrooms. Traditional greenhouse and growing [[humidity-chamber-designs-jarrold-mushroom-cultivation]] addressed this with automated misting and fan systems, but the PF TEK was designed for simplicity and low cost, using only materials available at any discount store.
+The lid is designed for a standard 10-gallon aquarium with outside dimensions
+of 24 inches by 14.5 inches. The inner rectangular cutout must be larger than
+the top of the aquarium (approximately 21.25 by 12 inches, though dimensions
+vary by manufacturer).
 
-### The Dual Chamber Solution
-The PF TEK terrarium solves the humidity/air exchange problem through a dual chamber design:
+The frame can be constructed from flat, unwarped quarter-inch thick board, or
+from four wood strips connected by screws. Clear polyethylene plastic film is
+tacked to the underside of the frame so that the frame holds it tightly onto
+the aquarium top. The frame essentially hangs by the plastic film, creating a
+seal against the aquarium rim. A simpler alternative is covering the aquarium
+top with plastic wrap or a similar product.
 
-- **Upper chamber**: This is the main fruiting area where the colonized substrate cakes are placed. It is enclosed by a clear plastic storage container (typically 2-3 gallons / 8-12 liters) with a transparent lid. The upper chamber maintains high humidity through passive evaporation from the lower chamber.
+The most critical requirement is that the aquarium must be completely sealable
+with no air leaks. Any air leak allows humidity to escape, requiring more
+frequent spraying. A properly sealed terrarium can maintain adequate humidity
+with only one good spraying per day — and sometimes even less.
 
-- **Lower chamber**: This is a shallow layer of water (typically 0.5 to 1 inch deep) at the bottom of the same container. The water provides continuous [[passive-humidity-fruit-chamber-polyethylene-sheeting]] through evaporation into the upper chamber. The air space above the water and below the elevated substrate cakes serves as the humidity reservoir.
+## The Spray Shield / Chamber Partition
 
-The two chambers are not physically separated by a barrier — rather, the water at the bottom of the container and the air above it form the lower chamber, while the space where the cakes sit above the water forms the upper chamber. Substrate cakes are elevated above the water level on supports (originally jar lids, later more sophisticated platforms).
+The spray shield is made from 1/8 inch thick clear acrylic (Plexiglas) window
+insulation material, available at most hardware stores. It should be cut to
+approximately 15 by 18 inches, though exact dimensions should be checked
+against the specific aquarium. A tight fit within the aquarium is desirable.
 
-## Materials and Construction
+The shield serves multiple purposes. First, it acts as a physical barrier
+separating the primary spray chamber from the secondary fungus chamber. Second,
+when spray hits the shield, the impact breaks large water droplets into a finer
+mist that flows around the edges into the secondary chamber. Third, the
+slanted shield acts as a drip shield and roof — condensation runs down and
+away from the fungus cakes below.
 
-### Basic Components
-The classic PF TEK terrarium requires only a few simple materials:
+## The Humidity Cycle
 
-1. **Clear plastic storage container**: A rectangular or round transparent plastic box with a lid. The original PF TEK specified a container approximately 12 inches long, 8 inches wide, and 6-8 inches tall. Clear plastic is essential to allow light penetration, which is needed for proper mushroom development and directional guidance.
+When water is sprayed into the primary chamber, it strikes the angled
+Plexiglas shield and is broken into a finer mist. This mist flows around the
+sides of the shield into the secondary chamber where the fungus is bathed in
+fine humidity, safely away from water droplets. Over time, humidity condenses
+onto surfaces and drips down. The slanted shield ensures condensation runs off
+to the sides rather than dripping directly onto the cakes. Water that collects
+at the bottom must be periodically siphoned out to prevent bacteria buildup.
 
-2. **Water**: Plain tap water or distilled water, approximately 0.5 to 1 inch deep at the bottom of the container. This serves as the humidity source. The water level must be maintained and replenished as it evaporates.
+## Spraying Procedure
 
-3. **Substrate cake supports**: The colonized substrate cakes must be elevated above the water level to prevent them from sitting directly in water, which would promote bacterial contamination and waterlogging. In the original PF TEK, inverted jar lids were used as supports. Later iterations used wire racks, plastic platforms, or even crumpled aluminum foil.
+Before placing cakes into the terrarium, spray all inside surfaces including
+the spray shield and lid to pre-condition the environment. Insert the fungus
+cakes, place the spray shield, and put the lid in position.
 
-4. **Optional — perlite**: While the original PF TEK used only standing water for humidity, many practitioners subsequently added a layer of damp perlite (volcanic glass) instead of or in addition to standing water. Perlite dramatically increases the surface area for evaporation and provides more stable humidity levels.
+To spray, slightly lift the lid and insert the spray bottle nozzle between
+the lid and the aquarium top. Vigorously spray downwards into the middle of
+the shield. After approximately 5 seconds of spraying, immediately withdraw
+the nozzle and let the lid down to seal the swirling mist inside.
 
-### Construction Steps
-Building a PF TEK dual chambered terrarium follows a straightforward process:
+PF recommends returning after a few minutes for additional sprayings if
+desired. For best results, spray at least twice a day — the more the better.
+All inside surfaces should be foggy or dripping with water, as these wet
+surfaces themselves help generate additional humidity through evaporation.
 
-1. Clean the plastic container thoroughly with soap and water, then rinse with a mild bleach solution (10:1 water:bleach) to sterilize. Rinse again with clean water and allow to dry.
+## Ventilation During Spraying
 
-2. Add 0.5 to 1 inch of water to the bottom of the container. If using perlite, add 1-2 inches of damp perlite instead (perlite should be moist but not submerged — it should not drip when squeezed).
+Each time the terrarium is sprayed, the fungus should also be ventilated. To
+ventilate, remove the lid and hold the spray shield vertically. Fan the
+chamber with a piece of cardboard to exchange the air, then replace the
+shield and spray as described. This ventilation prevents stale air buildup
+and introduces fresh oxygen needed for healthy metabolism during fruiting.
 
-3. Place substrate cake supports (jar lids, wire rack, etc.) on top of the water/perlite layer. The supports should be arranged to hold the cakes securely while allowing air circulation around all sides of each cake.
+## Water Management and Siphoning
 
-4. Place the colonized substrate cakes onto the supports. Cakes should not touch each other — leave at least 1-2 inches of space between cakes to allow air circulation and prevent cross-contamination.
-
-5. Place the lid on the container. The lid should fit snugly to maintain humidity but does not need to be airtight. In fact, a small gap or loose-fitting lid is preferable to allow some passive air exchange.
-
-## Humidity Management
-
-### Passive Evaporation System
-The PF TEK humidity system relies entirely on passive evaporation — there are no pumps, misters, foggers, or automated systems. The water (or damp perlite) at the bottom of the terrarium evaporates continuously, raising the humidity in the enclosed space to levels suitable for mushroom fruiting.
-
-The key to maintaining adequate humidity is:
-- Sufficient water surface area (wider containers provide more evaporation surface)
-- Adequate initial water volume (deeper water lasts longer between refills)
-- Temperature differential (warmer water evaporates faster; room temperature is typically sufficient)
-- Minimal lid opening (each opening releases accumulated humidity)
-
-### The Perlite Enhancement
-Many PF TEK practitioners adopted perlite as a humidity medium because it provides several advantages over standing water:
-
-- **Increased surface area**: Perlite's rough, porous surface provides dramatically more evaporation area than a flat water surface. A layer of damp perlite can maintain 90%+ humidity in a sealed container for extended periods without refilling.
-
-- **Reduced contamination risk**: Standing water can become a breeding ground for bacteria and mold. Perlite, being a sterile mineral product, is less hospitable to microbial growth when properly prepared.
-
-- **Buffering**: Perlite provides more stable humidity levels, smoothing out the fluctuations that occur when the terrarium lid is opened for maintenance or harvesting.
-
-### Monitoring Humidity
-The PF TEK was designed to work without specialized humidity monitoring equipment. However, several indicators can help assess whether humidity levels are adequate:
-
-- **Condensation**: A properly humidified terrarium will show light condensation on the inside walls and lid. Heavy condensation (large water droplets) may indicate excessive humidity, while a completely dry interior indicates insufficient humidity.
-
-- **Mushroom appearance**: Mushrooms growing in adequate humidity will have smooth, healthy caps and stems. Cracking of the cap surface, excessive stem fuzz ( aerial mycelium), or stunted growth can indicate low humidity.
-
-- **Weight loss**: Substrate cakes will slowly lose moisture to the terrarium atmosphere over time. Significant weight loss indicates the cakes are drying out, which can happen if humidity is too low or if the fruiting period is prolonged.
-
-## Fresh Air Exchange (FAE)
-
-### Passive Exchange Methods
-Since the PF TEK was designed for simplicity, fresh air exchange is typically achieved through passive means:
-
-- **Lid lifting**: The simplest method involves lifting or removing the terrarium lid briefly (1-2 minutes) 2-4 times per day. This allows stale, CO2-rich air to escape and fresh ambient air to enter. The brief duration minimizes humidity loss.
-
-- **Loose-fitting lid**: Some practitioners use a lid that does not seal tightly, allowing continuous slow air exchange. This provides more consistent FAE but may result in slightly lower average humidity.
-
-- **Fanning**: Manually fanning air across the open terrarium with a piece of cardboard or by waving the lid accelerates air exchange during the brief opening periods.
-
-### FAE Scheduling
-A typical FAE schedule for a PF TEK terrarium involves:
-- Morning: Open lid for 1-2 minutes, fan gently, close lid
-- Evening: Open lid for 1-2 minutes, fan gently, close lid
-- Optionally: A third exchange at midday if mushrooms are growing rapidly
-
-The frequency of FAE should be increased during periods of rapid mushroom growth, when CO2 production is highest, and decreased during slow growth phases or when the terrarium is not actively fruiting.
+Water collecting at the terrarium bottom must be regularly siphoned out to
+prevent bacteria and contaminant growth. PF recommends a rubber bulb battery
+filler (auto parts stores) or a rubber bulb type enema bottle. Both are
+inexpensive and effective for removing pooled water without disturbing the
+fungus cakes.
 
 ## Light Requirements
 
-### The Role of Light in the Terrarium
-While mushrooms do not photosynthesize, they require light for several aspects of normal development:
+The terrarium should be exposed to normal room light, preferably indirect
+sunlight. Mushrooms are phototropic — they grow toward light — so a small
+low-wattage fluorescent plant light will cause upward growth and can be left
+on continuously. Direct sunlight should be avoided as it provides excessive
+heat and drying influence.
 
-- **Directional guidance**: Mushrooms grow toward light. Without a light source, mushrooms may grow in random directions or fail to develop properly oriented fruiting bodies.
+## Temperature Management
 
-- **[[chen-maitake-primordia-initiation-fruiting]]**: Light exposure is one of the [[fungal-fruiting-body-formation-environmental-triggers]] that stimulate the formation of mushroom primordia (the tiny pin-like structures that develop into mature mushrooms).
+The main rule is to avoid direct heating of any kind. Any direct heat source
+works against humidification and introduces drying. PF explicitly warns
+against heating cables, heat pads, and heating blankets. Plant grow lights
+should be kept at a safe distance from the terrarium.
 
-- **Cap development**: Adequate light promotes proper cap expansion and sporulation. Mushrooms grown in insufficient light may develop elongated stems and small, poorly formed caps.
+[[anemotropism-in-psilocybe-cubensis]] grows well at temperatures as low as 60°F. PF reports
+seeing them grow perfectly at temperatures cooler than 60 degrees, though
+growth slows in cool conditions. At warm room temperature, they grow very
+fast. The ideal range is between 65 and the upper 80s°F. A too-hot terrarium
+will result in extensive mycelial spreading but no fruiting — the fungus
+allocates energy to [[cannabis-vegetative-growth-stage]] rather than reproduction.
 
-### Light Sources for PF TEK
-The PF TEK recommends indirect ambient room light as the primary light source. The clear plastic walls of the terrarium allow room light to penetrate. Specific recommendations include:
+## Materials List for Terrarium Construction
 
-- Indirect sunlight or room lighting (fluorescent or LED)
-- 12 hours on / 12 hours off cycle (approximating natural day/night cycle)
-- Avoid direct sunlight, which can overheat the terrarium
-- Avoid continuous 24-hour light, which can disrupt normal developmental rhythms
+- Standard 10-gallon aquarium
+- Cut piece of clear Plexiglas (chamber partition, approximately 15" x 18")
+- Wood strips with connectors and screws (lid frame)
+- Polyethylene plastic film and thumb tacks (lid seal)
+- Small wall-type thermometer
+- High-quality all-purpose water spray bottle with adjustable nozzle
+- Rubber bulb battery filler or enema bottle (for siphoning water)
 
-## Maintenance and Troubleshooting
+PF emphasizes that the spray bottle is critical equipment — only a good
+quality sprayer (a couple of dollars at a hardware store) can immediately
+supercharge the dual chambered terrarium with high humidity. Avoid recycled
+kitchen product sprayers, as they lack the output needed for effective
+humidification of the sealed environment.
 
-### Daily Maintenance
-A properly set up PF TEK terrarium requires minimal daily maintenance:
-- Check water/perlite level and top up if needed
-- Perform FAE (lid lifting and fanning)
-- Observe mushroom development and note any problems
-- Remove any aborts (mushrooms that have stopped growing and turned dark)
-
-### Common Problems
-Several common problems can arise with the dual chambered terrarium:
-
-- **Low humidity**: Characterized by cracking caps, aerial mycelium, or cakes drying out. Solutions include adding more water/perlite, reducing lid opening frequency, or switching to perlite from standing water.
-
-- **Excessive humidity / water pooling**: Characterized by heavy condensation and water droplets falling onto the cakes. Solutions include reducing water volume, increasing FAE frequency, or adding ventilation holes covered with micropore tape.
-
-- **Contamination**: Mold or bacterial growth on the cakes or in the terrarium. Solutions include removing contaminated cakes immediately, increasing FAE, and sterilizing the terrarium between crops.
-
-- **CO2 buildup**: Characterized by tall, spindly mushrooms with small caps. Solutions include increasing FAE frequency and duration.
-
-## References
-
-- McPherson, R. (Psilocybe Fanaticus). PF TEK — Psilocybe Fanaticus Technique for Growing Magic Mushrooms. www.fanaticus.com.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World: An Identification Guide. Ten Speed Press.
-- Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
-- Oss, O.T. & Oeric, O.N. (1976). Psilocybin: Magic Mushroom Grower's Guide.
+## See Also
+- [[dual-chambered-terrarium-design]]
+- [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
+- [[oss-oeric-terrarium-design-and-humidity]]

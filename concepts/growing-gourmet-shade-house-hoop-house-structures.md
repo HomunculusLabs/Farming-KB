@@ -1,5 +1,5 @@
 ---
-title: "growing gourmet shade house hoop house structures and Hoop House Structures for duggar-mushroom-growing-history-and-methods"
+title: Growing Gourmet Shade House Hoop House Structures
 created: 2026-04-26
 tags:
   - mushroom-cultivation
@@ -46,7 +46,7 @@ provides protection from direct sun and wind.
 
 ## Environmental Parameters
 
-The key environmental parameters for outdoor growing
+The key environmental parameters for [[cannabis-outdoor-growing]]
 structures include:
 
 - **Temperature**: Ambient, with augmentation possible
@@ -81,26 +81,10 @@ air flow is naturally high through the open structure.
    mechanical ventilation systems
 4. **Extended production**: Spent indoor substrate can
    continue producing outdoors for additional flushes
-5. **Minimal climate control**: Shade cloth provides
+5. **Minimal [[mollison-pdc-trellis-systems-climate-control]]**: Shade cloth provides
    adequate temperature moderation in most climates
 
 ## Seasonal Considerations
 
-In the temperate regions of the world, favorable outdoor
+In the [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world, favorable outdoor
 weather conditions span several months. During these moist
-months, Oyster and [[query-how-to-grow-shiitake-mushrooms-on-logs]] produce prolifically
-outdoors. Cultivators are continually amazed at the size
-of mushrooms that can be harvested outside from "spent"
-straw or sawdust that has been exported from the indoor
-growing rooms.
-
-See also:
-[[growing-gourmet-indoor-growing-environment]]
-See also: growing-gourmet-species-sequencing-substrate-recycling
-See also: growing-gourmet-natural-culture-myco-landscaping
-## See Also
-- [[mushroom-cultivation]]
-- [[outdoor-mushroom-cultivation]]
-- [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]
-- [[growing-gourmet-strain-selection]]
-- [[oyster-growing-house-types]]

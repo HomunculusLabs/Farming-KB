@@ -3,8 +3,8 @@ title: Plants and Human Consciousness
 created: 2026-04-26
 aliases: [plant-human communication, Vogel plant experiments, psychic energy and plants]
 tags: [botany, consciousness, parapsychology, bioenergetics]
-related: [tompkins-plant-perception-experiments, tompkins-plant-electrical-signals, tompkins-photosynthesis-biophotons]
-sources: Tompkins & Bird, The Secret Life of Plants (1973)
+related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-electrical-signals]], [[tompkins-photosynthesis-biophotons]]
+sources: Tompkins & Bird, the-secret-life-of-plants-tompkins-and-bird of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -79,7 +79,7 @@ Vogel considered it possible to read a person's thoughts through a plant. He ask
 
 ## American Indian Knowledge
 
-Vogel noted that American Indians "were keenly aware of these faculties. When in need, they would go into the woods. With their arms extended, they would place their backs to a pine tree in order to replenish themselves with its power."
+Vogel noted that [[yage-common-themes-south-american-indians]] "were keenly aware of these faculties. When in need, they would go into the woods. With their arms extended, they would place their backs to a pine tree in order to replenish themselves with its power."
 
 ## Key Quotes
 
@@ -88,9 +88,3 @@ Vogel noted that American Indians "were keenly aware of these faculties. When in
 - "It seemed to me to be describable only as pure consciousness." -- Debbie Sapp
 
 ## See Also
-
-- [[tompkins-electricity-plants-historical-discoveries]]
-
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[photosynthesis-and-chloroplast-function]]
-- [[bacterial-endophytes-plant-roots]]

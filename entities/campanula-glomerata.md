@@ -21,7 +21,7 @@ sources:
 
 Campanula glomerata, the clustered bellflower, is a rhizomatous perennial in the family Campanulaceae. It is native to Europe and temperate Asia, recognized by its dense terminal clusters of upward-facing violet-blue flowers.
 
-The species epithet "glomerata" refers to the tightly clustered (glomerulate) flower heads that distinguish it from most other bellflowers. It is a popular ornamental plant in temperate gardens and has naturalized in parts of North America.
+The species epithet "glomerata" refers to the tightly clustered (glomerulate) flower heads that distinguish it from most other bellflowers. It is a popular ornamental plant in temperate gardens and has naturalized in parts [[berry-growing]].
 
 Plants grow 30–60 cm tall with sturdy, upright stems clothed in coarse, hairy leaves. The species spreads vigorously by creeping rhizomes, forming large colonies in favorable conditions.
 
@@ -33,7 +33,7 @@ Campanula glomerata belongs to the section Glomeratae of the genus Campanula. Th
 
 The species is diploid with a chromosome number of 2n = 34. Several subspecies are recognized across its wide range.
 
-Subspecies glomerata is the most widespread European form. Subspecies farinosa occurs in alpine regions with more compact growth, while subsp. oblongifolia is found in the Caucasus.
+Subspecies glomerata is the most widespread European form. Subspecies farinosa occurs in alpine regions with more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]], while subsp. oblongifolia is found in the Caucasus.
 
 Basal leaves are ovate to cordate, 5–12 cm long, with crenate margins and a rough, hairy surface. The upper stem leaves are smaller, sessile, and more narrowly lanceolate.
 
@@ -57,7 +57,7 @@ In North America, C. glomerata has naturalized in the northeastern United States
 
 The species is classified as Least Concern across most of its European range. In the United Kingdom, it is locally frequent in southern England but rare in Scotland.
 
-It hybridizes occasionally with Campanula persicifolia where their ranges overlap in garden settings. These hybrids show intermediate flower morphology but are generally sterile.
+It hybridizes occasionally with [[campanula-persicifolia]] where their ranges overlap in garden settings. These hybrids show intermediate flower morphology but are generally sterile.
 
 ## Cultivation
 
@@ -71,7 +71,7 @@ The cultivar 'Superba' is the most widely grown form, with larger and deeper vio
 
 'Joan Elliott' features large dark violet blooms on compact plants reaching 45 cm. The species received the Royal Horticultural Society's Award of Garden Merit.
 
-It pairs well with other drought-tolerant perennials in meadow-style plantings and gravel gardens. Slugs may damage emerging shoots in spring, and powdery mildew can affect overcrowded plantings.
+It pairs well with other drought-tolerant perennials in meadow-style plantings and gravel gardens. Slugs may damage emerging shoots in spring, and [[cervantes-powdery-mildew-prevention-treatment]] can affect overcrowded plantings.
 
 Good air circulation and adequate spacing reduce disease risk significantly. Removing spent flower stalks after blooming prevents excessive self-seeding and tidies the clump appearance.
 
@@ -87,35 +87,4 @@ The species supports several specialist herbivorous insects in its native range.
 
 Seed dispersal occurs through wind shaking the capsule and releasing seeds from the basal pores. Colonization of new sites also occurs vegetatively through rhizome extension.
 
-The dense growth habit provides shelter for ground-dwelling invertebrates in meadow habitats. The species forms associations with arbuscular mycorrhizal fungi that enhance nutrient uptake on poor limestone soils.
-
-In some calcareous grassland communities, C. glomerata serves as an indicator species for undisturbed, species-rich turf. Its presence often signals high botanical diversity.
-
-## Uses
-
-Clustered bellflower has a long history of cultivation in European gardens, dating back to the 16th century. Its dense flower clusters create bold splashes of color in summer borders and wildflower meadows.
-
-The species is effective in naturalistic plantings, where its spreading habit can cover large areas. It is also used in cut flower production, with stems lasting 5–7 days in water.
-
-In traditional European folk medicine, the plant was used externally as a poultice for skin inflammation. These uses are not supported by modern pharmacological research.
-
-The young shoots are reported as edible when cooked, though rarely consumed today. The root was historically used as a mordant in dyeing processes.
-
-The species is valued in ecological landscaping for its pollinator support and ability to stabilize soils on slopes. Its rhizomatous growth makes it useful for erosion control on dry banks.
-
-The plant's ability to thrive in poor, dry soils makes it suitable for xeriscaping. It performs well in green roof installations with adequate drainage and substrate depth.
-
-In the Victorian language of flowers, the clustered bellflower symbolized gratitude. Its tight flower clusters were also thought to represent unity and togetherness.
-
-## See Also
-
-- [[campanula-persicifolia]]
-- [[lobelia-cardinalis]]
-- [[platycodon-grandiflorus]]
-- [[digitalis-purpurea]]
-- [[achillea-millefolium]]
-- [[primula-vulgaris]]
-- [[aquilegia-vulgaris]]
-- [[verbascum-thapsus]]
-- [[echinacea-purpurea]]
-- [[dianthus-barbatus]]
+The dense growth habit provides shelter for ground-dwelling invertebrates in meadow habitats. The species forms associations with [[arbuscular-mycorrhizal-fungi]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] on poor limestone soils.

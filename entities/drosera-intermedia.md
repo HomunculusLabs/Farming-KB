@@ -88,28 +88,3 @@ The species provides microhabitat structure for small invertebrates. Some specie
 The nectar produced by the tentacle glands attracts a variety of pollinators when the plant is in flower, including small bees, flies, and wasps. The spatial separation between flowers (borne on tall scapes) and traps (at ground level) reduces the risk of pollinators becoming prey.
 
 **D. intermedia** serves as an indicator species for the health of bog and fen ecosystems. Its presence typically indicates high water quality, low [[ph-and-nutrient-availability-garden-soils]], and intact hydrological conditions. Decline or disappearance of local populations often signals habitat degradation.
-
-## Conservation
-
-**D. intermedia** is globally secure due to its wide distribution. However, local populations face threats from habitat destruction, particularly the drainage of wetlands for agriculture and urban development. Peat extraction, a major industry in parts of Europe, has destroyed significant areas of suitable habitat.
-
-In the United States, several state-level conservation programs list the species as threatened or of special concern, particularly in states at the southern edge of its range where wetland loss has been most severe.
-
-In Europe, the species is protected under the Convention on the Conservation of European Wildlife and Natural Habitats (Bern Convention) and is listed in several national red lists. Conservation efforts focus on preserving and restoring bog habitats through rewetting and protection from development.
-
-Collection from the wild is generally unnecessary, as the species is readily available from commercial carnivorous plant nurseries. Ethical growers should always purchase nursery-propagated material rather than wild-collected plants.
-
-## See Also
-
-- [[lavandula-x-intermedia]]
-
-- [[drosera-rotundifolia]]
-- [[drosera-anglica]]
-- [[sarracenia-flava]]
-- [[nepenthes-rajah]]
-- [[cephalotus-follicularis]]
-- [[aldrovanda-vesiculosa]]
-- ecosystem
-- conservation
-- biodiversity
-- [[decomposition]]

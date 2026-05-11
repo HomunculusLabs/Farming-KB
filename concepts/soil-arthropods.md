@@ -9,15 +9,15 @@ sources: [raw/papers/lowenfels-teaming-with-microbes.md]
 
 # Soil Arthropods
 
-Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A healthy garden soil contains thousands of arthropods per square meter. (see [[fungi-soil-food-webs]]).
+Soil arthropods are invertebrate animals with jointed legs and exoskeletons that live in the soil and leaf litter. They are essential decomposers, predators, and engineers of soil structure. A [[query-how-to-build-healthy-garden-soil]] contains thousands of arthropods per square meter.
 
 ## Major Groups
 
 ### Mites (Acari)
 - The most numerous soil arthropods (100,000+ per square meter in healthy soil)
 - **Oribatid mites**: Slow-moving decomposers that break down tough plant material, fungi, and humus. They are the earthworms of the microscopic world — slow but essential
-- **Predatory mites**: Hunt nematodes, springtails, and other small organisms
-- Key role in nutrient cycling and humus formation
+- **[[comparison-predatory-mites-vs-ladybugs-biocontrol]]**: Hunt nematodes, springtails, and other small organisms
+- Key role in [[soil-protozoa-nutrient-cycling-and-mineralization]] humus formation
 
 ### Springtails (Collembola)
 - Small (1-2mm), primitive insects that jump using a forked appendage
@@ -27,10 +27,10 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - Indicate healthy soil with good organic matter
 
 ### Beetles (Coleoptera)
-- **Ground beetles (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential biological control agents
+- **[[ground-beetles-carabidae-and-biological-pest-control]] (Carabidae)**: Predators that hunt slugs, cutworms, root maggots, and other soil pests at night. Essential [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents
 - **Rove beetles (Staphylinidae)**: Predators in compost and rich soil
 - **Dung beetles (Scarabaeidae)**: Bury and decompose animal manure, incorporating nutrients into soil
-- Encourage ground beetles with stone mulch, ground cover, and reduced tillage
+- Encourage ground beetles with stone mulch, ground cover, and [[comparison-no-till-vs-reduced-tillage]]
 
 ### Ants (Formicidae)
 - Mix and aerate soil through tunneling (especially in grasslands and forests)
@@ -75,3 +75,20 @@ Soil arthropods are invertebrate animals with jointed legs and exoskeletons that
 - [[soil-food-web-structure]] — for the complete soil food web hierarchy
 - [[fungal-ecology-decomposition-cycles]] — for the broader decomposition system
 - [[natural-farming-pest-management]] — for encouraging predatory arthropods
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[lowenfels-soil-macro-arthropods]]
+- [[query-what-is-the-role-of-springtails-and-soil-arthropods-in-soil-health]]
+- [[saprobic-soil-fungi-ecology-survey]]
+- [[soil-fungal-isolation-techniques]]
+- [[jadam-humus-soil-and-leaf-mold-distinction]]

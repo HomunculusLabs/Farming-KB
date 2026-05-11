@@ -4,7 +4,9 @@ created: 2026-04-28
 tags: [query, hydroponics, cannabis, systems]
 date: 2026-05-02
 updated: 2026-05-02
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---
 

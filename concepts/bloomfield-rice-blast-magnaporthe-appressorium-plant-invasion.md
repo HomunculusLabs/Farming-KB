@@ -1,5 +1,5 @@
 ---
-title: Rice Blast Fungus and Appressorium-Mediated Plant Invasion
+title: Bloomfield Rice Blast Magnaporthe Appressorium Plant Invasion
 created: 2026-04-28
 tags:
   - mycology
@@ -51,10 +51,10 @@ inhibited by fungicides targeting the [[fungal-melanin-biosynthesis-ecological-f
 appressorium never penetrates. Albino mutants of Magnaporthe produce
 transparent, ineffective appressoria.
 
-Most cell walls are leaky, allowing small molecules to pass freely. The
+Most [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] are leaky, allowing small molecules to pass freely. The
 melanin layer changes this: it acts as a semipermeable membrane
 impermeable to large glycerol molecules but permitting water passage. As
-water flows in by osmosis, turgor pressure builds because glycerol
+water flows in by osmosis, [[bloomfield-turgor-pressure-osmotic-mechanisms]] builds because glycerol
 cannot escape through the melanized wall.
 
 Internal pressure exceeds 80 atmospheres (approximately 1,200 psi). The
@@ -73,7 +73,7 @@ mutants and biosynthesis inhibitors.
 
 ## After Penetration
 
-Once the penetration hypha breaches the leaf surface, it enters plant
+Once the penetration hypha breaches the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]], it enters plant
 tissue. Unlike rust haustoria that maintain host membranes intact,
 Magnaporthe initially kills invaded cells before absorbing their
 contents. The invasive mycelium spreads through leaf tissue, secreting
@@ -82,34 +82,9 @@ advance, and producing more conidia for dispersal to additional plants.
 
 ## Plant Defense: Hypersensitive Response
 
-Resistant rice varieties mount a hypersensitive reaction, deliberately
+Resistant [[fukuoka-insects-create-new-rice-varieties]] mount a hypersensitive reaction, deliberately
 destroying their own cells around the penetration point. This programmed
-cell death starves the fungus of living cytoplasm, creating a visible
+[[blesching-cannabis-apoptosis-and-cancer-cell-death]] starves the fungus of living cytoplasm, creating a visible
 fleck. The evolutionary arms race between Magnaporthe and rice has
 produced numerous fungal races, each overcoming specific resistance
 genes, requiring continuous breeding of new resistant varieties.
-
-## Ecological Context and Nitrogen Fertilizer
-
-The prevalence of blast in nitrogen-fertilized fields suggests that
-high-nitrogen plants produce more susceptible tissues, or that the
-nitrogen-rich environment favors fungal growth and sporulation. This has
-practical implications for [[plant-disease-management-solomon]].
-
-## Broader Significance
-
-The Magnaporthe appressorium represents a general strategy employed by
-many [[bloomfield-fungal-pathogens-and-parasites]]. Similar infection structures appear in
-Colletotrichum (anthracnose), Pyricularia, and various rust species.
-Understanding Magnaporthe's physics and biochemistry has provided a
-template for understanding mechanical plant invasion across the fungal
-kingdom.
-
-Robby Roberson at Arizona State University used similar surface
-engineering methods to direct [[bloomfields-orchard-hyphal-growth-and-invasive-biology]] patterns, exploring the
-possibility of living fungal computers using guided mycelial circuits.
-
-## See Also
-
-- [[bloomfield-fungal-plant-pathogens]] for broader plant pathology
-- [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]] for rust comparison

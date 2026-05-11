@@ -87,16 +87,3 @@ Deep-rooted plants (comfrey, dandelion, chicory, yarrow) draw minerals from subs
 
 ### Mycorrhizal Fungi
 Fungi that form symbiotic relationships with plant roots, extending the root network dramatically. They transport water and nutrients to plants in exchange for sugars. Disturbed by tilling.
-
-## See Also
-
-- [[gaias-garden-soil-food-web-and-humus]]
-- faires-hugelkultur-and-soil-building
-- faires-soil-management-and-sheet-mulching
-- mollison-mulching-and-soil-health
-- [[compost-building-guide]]
-- [[mulching-guide]]
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapter 4: Bringing the Soil to Life

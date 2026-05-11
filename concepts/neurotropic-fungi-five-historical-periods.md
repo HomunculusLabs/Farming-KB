@@ -1,5 +1,5 @@
 ---
-title: Neurotropic neurotropic fungi five historical periods Periods
+title: Neurotropic Fungi Five Historical Periods
 created: 2026-04-28
 tags:
   - mycology
@@ -13,26 +13,27 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
 ---
 
 # Five Historical Periods of Neurotropic Fungi Study
 
-The history of neurotropic (hallucinogenic/psychotropic) fungi can be divided
+The [[guzman-allen-gartz-history-of-neurotropic-fungi-discovery]] (hallucinogenic/psychotropic) fungi can be divided
 into five distinct historical periods, as outlined by Stamets (1978, 1996) and
 expanded by Guzman, Allen, and Gartz (1998). These periods trace the
-relationship between humans and psychoactive mushrooms from ancient
+relationship between humans and [[ceremonial-shamanic-use-psychoactive-mushrooms]] from ancient
 shamanic practices through modern scientific inquiry.
 
 ## Period 1: Ancient Traditional Use
 
 The earliest period encompasses the use of neurotropic fungi by indigenous
 peoples across multiple continents long before European contact. The most
-well-documented ancient traditions come from:
+well-documented [[sacred-meal-ancient-traditions]] come from:
 
 - **Mesoamerica**: The Aztec "teonanacatl" (divine mushroom), documented by
-  the Spanish friar Sahagun (1569-1582), was used in religious ceremonies.
+  the Spanish friar Sahagun (1569-1582), was used in [[entheogenic-folk-religious-ceremonies]].
   More than 200 common names for [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] exist in indigenous
   Mexican languages, including Nahuatl terms like "apipiltzin" (kid or
   little boy), "atkad" (mayor or leader), and "di nize taaya" (fungus of
@@ -86,39 +87,4 @@ illegally cultivated or dried specimens imported from tropical countries.
 The recreational drug trade forced governments of many countries to forbid
 the use and commerce of these fungi.
 
-This period also saw confusion in the marketplace: Panaeolus antillarum,
-a non-psychoactive edible species that grows alongside Copelandia spp. on
-cow dung, was often erroneously identified and sold as a psychoactive
-mushroom because both present white fruit bodies.
-
-## Period 5: Recapitulation and Modern Research (1990s Onward)
-
-The fifth and current period involves a recapitulation of knowledge, with
-descriptions of new species and more rigorous chemical analysis. This
-period has been characterized by:
-
-- **New species discoveries**: Guzman (1998a, 1999b) and Guzman et al.
-  (1991, 1993a, b, 1994, 1997a, b, 1999) described new species from the
-  USA, Mexico, Colombia, Puerto Rico, Spain, Thailand, and New Zealand.
-  Gartz et al. (1995) and Stamets and Gartz (1995) discovered new species
-  from South Africa and the USA, respectively.
-
-- **Chemical verification and correction**: Many earlier chemical studies
-  were found to be erroneous. Stijve and Kuyper (1988) did not find
-  psilocybin in several species previously reported to contain it,
-  including Psathyrella candolleana, [[gymnopilus-fulgens]],
-  G. spectabilis, Hygrocybe psittacina, and others.
-
-- **Global scope confirmation**: The broad [[global-distribution-of-neurotropic-fungi]]
-  fungi was confirmed across all continents, from Alaska and Siberia in
-  the north to Chile, Australia, and New Zealand in the south, and from
-  sea level to 4,000 meters elevation.
-
-## Related
-
-- [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]]
-
-- neurotropic-fungi-in-mexico is closely tied to
-  the broader topic of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
-- [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] in identifying neurotropic species are detailed in
-  [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
+This period also saw confusion in the marketplace: [[panaeolus-antillarum-misidentification-copelandia-confusion]],

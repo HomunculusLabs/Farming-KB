@@ -87,36 +87,3 @@ The species is generally considered a low-risk ornamental with minimal invasive 
 Japanese spirea is occasionally affected by [[cervantes-powdery-mildew-prevention-treatment]], leaf spot, and aphid infestations, though these problems are rarely severe. Good [[stamets-growing-room-air-circulation-co2-management]] and proper spacing between plants minimize disease incidence in landscape plantings.
 
 ## Landscape Uses
-
-Japanese spirea is one of the most versatile flowering shrubs for residential and commercial landscapes. Its compact size, reliable bloom, and wide range of foliage colors make it suitable for foundation plantings, mixed borders, mass plantings, and low hedges.
-
-The species is particularly effective when planted in groups of three to five specimens for a massed flowering display. Repeating the same cultivar at regular intervals creates a cohesive, low-maintenance border or edging.
-
-Dwarf cultivars such as 'Little Princess' and 'Goldmound' are widely used in foundation plantings where larger shrubs would overwhelm the space. Their neat, rounded habit requires minimal pruning to maintain an attractive form.
-
-Japanese spirea combines effectively with ornamental grasses, conifers, and other flowering shrubs in mixed borders. Golden-foliaged cultivars provide excellent contrast against dark green or blue-green background plantings.
-
-Low-growing cultivars serve well as ground cover on slopes and banks, where their dense root systems help control erosion. The spreading habit of mature plants effectively suppresses weed growth beneath the canopy.
-
-The species is a reliable performer in municipal and commercial landscapes where consistent flowering is required with minimal maintenance. Its tolerance of urban conditions makes it suitable for street plantings, parking lot landscapes, and public park installations.
-
-Japanese spirea is frequently used in landscape design courses and textbooks as a model shrub due to its predictable growth, reliable flowering, and wide cultivar selection. Its consistent performance across diverse conditions makes it an excellent teaching specimen.
-
-## See Also
-
-- [[physocarpus-opulifolius]]
-- [[potentilla-fruticosa]]
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[viburnum-opulus]]
-- rosa-canina
-- [[corylus-cornuta]]
-- [[ligustrum-vulgare]]
-- crataegus-monogyna
-- [[crataegus-laevigata]]
-- [[viburnum-dentatum]]
-- agrimonia-eupatoria
-- [[filipendula-ulmaria]]
-- [[salix-alba]]
-- [[fraxinus-pennsylvanica]]
-- [[betula-pendula]]

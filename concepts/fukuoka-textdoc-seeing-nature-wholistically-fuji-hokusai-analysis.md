@@ -1,5 +1,5 @@
 ---
-title: fukuoka textdoc seeing nature wholistically fuji hokusai analysis Wholistically - Mt Fuji, Hokusai, and the Limits of Analysis
+title: Fukuoka Textdoc Seeing Nature Wholistically Fuji Hokusai Analysis
 created: 2026-05-06
 tags:
   - natural-farming
@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -21,7 +22,7 @@ type: concept
 
 ## Overview
 
-Fukuoka's epistemological framework for understanding nature rests on the principle that the living, holistic biosystem that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. He uses the metaphor of Mount Fuji, the artist Hokusai, and the parable of Okuninushi's sack to illustrate the fundamental limitation of scientific analysis: that examining the parts never gives a complete picture of the whole. This philosophical stance underpins every practical aspect of [[natural-farming]].
+Fukuoka's epistemological framework for understanding nature rests on the principle that the living, [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]] that is nature cannot be dissected or resolved into its parts. Once broken down, it dies. He uses the metaphor of Mount Fuji, the artist Hokusai, and the parable of Okuninushi's sack to illustrate the fundamental limitation of [[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]: that examining the parts never gives a complete picture of the whole. This philosophical stance underpins every practical aspect of [[natural-farming]].
 
 ## The Mt Fuji Metaphor
 
@@ -68,7 +69,7 @@ Fukuoka makes a crucial philosophical distinction between "all" and "whole":
 "Whole" represents the world of living truth, the integrated organism that cannot be decomposed without destroying its essential nature. The whole is not the sum of its parts. Nature is a whole, not merely "all" of its components.
 
 ### The Irreversibility of Dissection
-The moment he begins to ponder over the factors of crop cultivation and concerns himself with the means of production, man loses sight of the crop as a whole entity. To produce a crop, he must comprehend the true meaning of a plant growing on the earth's surface, and the goal of production must derive from a clear vision of unity with the crop.
+The moment he begins to ponder over the factors of [[comparison-cacao-vs-black-pepper-tropical-crop-cultivation]] and concerns himself with the means of production, man loses sight of the crop as a whole entity. To produce a crop, he must comprehend the true meaning of a plant growing on the earth's surface, and the goal of production must derive from a clear vision of unity with the crop.
 
 Without the whole, the parts are lost, and without the parts, there is no whole. Both lie within the same plane. The moment man distinguishes between the trees and rocks that form a part of the mountain and the mountain as a whole, he falls into a confusion from which he cannot easily escape.
 
@@ -87,63 +88,3 @@ Because this process begins with research that discriminates, breaks down, and a
 
 ### The Barrel Without Hoops
 Fukuoka uses the metaphor of a barrel to illustrate: even if you assemble all the staves (individual facts), without hoops (understanding of relationships), the barrel cannot hold water. Science has examined the staves of nitrogen, phosphorus, potassium, calcium, and dozens of other nutrients, but knows next to nothing about the true relationships between them.
-
-### The Blind Men and the Elephant
-The different laws of agricultural science are merely scattered images of a single fundamental law, as seen through the prisms of time and circumstance. Like the blind men who touch different parts of an elephant and conclude it is a snake, a tree, or a wall, scientists touch different parts of nature and conclude they understand the whole.
-
-## Transcending Time and Space
-
-Fukuoka argues that to perceive nature correctly, one must adopt a perspective that transcends the conventional limitations of time and space:
-
-### The Circumstantial Trap
-When captive to the notions of space and time, we are capable only of seeing things circumstantially. [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]] is confined within the limits of time and space, concerned with harvesting so much from a given field over such-and-such a period. [[mahayana-natural-farming]] ming comes into being only in a world beyond time and space.
-
-### The Rice Plant and the Insect
-When an insect alights on a rice plant, science immediately zeros in on the relationship between the rice and the insect. If the insect feeds on the plant and the plant dies, the insect is viewed as a pest. The natural farmer, by contrast, sees yet does not see the rice; sees and yet does not see the insect. He reaches beyond time and space by taking the stance that there are no crops or pests in nature to begin with.
-
-### The Long-Range Perspective
-The scientist studies rice damage by a particular insect, but it would suffice to observe cases where the insect does no damage. Such cases invariably exist. Instances of damage are naturally accompanied by instances of no damage. [[comparison-natural-farming-vs-permaculture]] examines cases in which little or no damage occurs and the reasons why, creating circumstances where nothing is done, yet insect damage is nonexistent.
-
-## The Rice Plant Metaphor
-
-Fukuoka extends the [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]] to practical farming:
-
-### Putting Yourself in the Place of the Rice
-Farming is an activity conducted by the hand of nature. We must look carefully at a rice plant and listen to what it tells us. To "look at" or "scrutinize" rice does not mean to view rice as an object. One should essentially put oneself in the place of the rice. In so doing, the self looking upon the rice plant vanishes.
-
-### Seeing and Not Examining
-This is what it means to "see and not examine and in not examining to know." Those who have not the slightest idea what this means need only devote themselves to their rice plants. It is enough to be able to work with detachment, free of worldly concerns. Laying aside one's ego is the quickest path to unity with nature.
-
-## Nature Must Not Be Dissected
-
-The central truth of natural farming is that nothing need be done to grow crops. This is not theoretical hypothesis but knowledge wrested from deep personal experience:
-
-### The Living Whole Dies When Broken
-Nature should not be taken apart. The moment it is broken down, parts cease being parts and the whole is no longer a whole. When collected together, all the parts do not make a whole. Farming by the hand of nature is a world alive, not a world of form.
-
-### Perfection as the Starting Assumption
-Natural farming begins with the assumption that nature is perfect. This is not blind faith but a conviction confirmed through decades of practical farming. If a barley sprout should emerge then later wilt, something unnatural has occurred and one reflects on the cause, which originates in human knowledge and action. One never blames nature, but begins by blaming oneself.
-
-### Beyond Relativistic Perception
-In natural farming, one always avoids seeing things in relative terms. Should one catch sight of relative phenomena, one immediately tries to trace these back to a single source, to reunite the two broken halves. Notions of good and poor crop growth, fast and slow, life and death, health and disease, large and small yields are all rejected as products of a relative view that obscures the true nature of reality.
-
-## Practical Implications
-
-The wholistic view has concrete consequences for how farming should be conducted:
-
-### No Isolated Interventions
-Because all factors of production are organically interrelated, no single intervention can be made independently. Modifying one factor inevitably changes all others. The scientist who applies nitrogen fertilizer to increase yield may simultaneously increase disease susceptibility, alter root growth patterns, change weed competition dynamics, and shift microbial populations.
-
-### Context-Dependent Truth
-What works in one time and place may not work in another. Weather is never the same, so the rice [[cannabis-growing-environment-setup]] next year will be entirely different. Although useful for examining results in retrospect, the explanations of yesterday cannot be used to set tomorrow's strategy.
-
-### The Futility of Specialized Research
-Progressive specialization in research actually has the opposite effect of its intent. Methods intended to boost productivity lead instead to the devastation of nature, lowering overall productivity. The scientist believes that accumulated findings will provide a total picture, but a collection of infinite parts includes infinite unknown parts. These unknown gaps prevent the whole from ever being completely reassembled.
-
-## Wikilinks
-
-[[fukuoka-textdoc-maze-relative-subjectivity]]
-[[fukuoka-textdoc-nature-must-not-be-dissected-limits-scientific-analysis]]
-## See Also
-
-- [[fukuoka-textdoc-wholistic-perception-mt-fuji-metaphor]]

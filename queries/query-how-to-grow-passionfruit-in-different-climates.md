@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - https://www.rhs.org.uk/plants/10654/passiflora-edulis/details
   - https://www.crfg.org/pubs/ff/passionfruit.html
   - https://www.gardeningknowhow.com/edible/fruits/passionfruit/passionfruit-vine-care.htm

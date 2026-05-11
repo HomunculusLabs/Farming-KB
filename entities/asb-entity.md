@@ -88,15 +88,3 @@ The physical character of the compound was immediately apparent in its flavor.
 At 100 mg, trivial physical problems occurred during the early stages of the experience.
 
 Music was described as lovely during the experiment, but visual art (pictures) was not particularly enhanced.
-
-The experience lacked the depth or richness seen with other psychedelic compounds at similar dose levels.
-
-## The Thio-Substitution Pattern
-
-3-TASB represents the thio-analogue of asb entity, which itself is a positional isomer of [[mescaline]]
-
-[[5-tasb-entity]]
-
-## References
-
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #146: 3-TASB.

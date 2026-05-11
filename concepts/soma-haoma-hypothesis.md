@@ -87,11 +87,3 @@ scholarship to the question. His argument drew on multiple lines of evidence:
 ## Arguments Against and Alternative Candidates
 
 Several alternative candidates for Soma have been proposed:
-
-- **Ephedra spp.**: Contains ephedrine; known from Iranian Haoma traditions
-- **Peganum harmala**: Contains beta-carboline alkaloids (see
-  [[amanita-muscaria-pharmacology]] - Chemistry and effects of the proposed
-  Soma
-- [[syrian-rue-entheogen]] - Traditional use of Peganum harmala
-- [[teonanacatl-history]] - [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] of Mesoamerica
-- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]

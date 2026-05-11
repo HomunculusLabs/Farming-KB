@@ -1,5 +1,5 @@
 ---
-title: oner cannabis edibles infusion dosing - Infusion Methods and Dosing
+title: Oner Cannabis Edibles Infusion Dosing
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -11,8 +11,8 @@ sources:
 # Cannabis Edibles - Infusion Methods and Dosing
 
 Cannabis edibles represent a smoke-free consumption method with distinct pharmacokinetic
-properties compared to inhalation. While Oner's strain guide is primarily focused on
-strain evaluation rather than edible preparation, it provides important context about
+properties compared to inhalation. While Oner's [[cannabis-strain-guide-reference]] is primarily focused on
+[[mushroom-strain-evaluation]] rather than edible preparation, it provides important context about
 which strains are best suited for edible production and how different cannabis profiles
 affect the edible experience.
 
@@ -36,7 +36,7 @@ The amount of resin directly determines infusion potency:
 - Jack 47 with its "phenomenal amount of [[cannabis-glandular-trichome-types-resin-production-clarke]]" would yield potent
   infusions
 - Multiple strains noted for hash production suitability (CookieWreck, Psycho Killer
-  Bubba Kush, Nepalese Temple) would also excel as edible starting material
+  Bubba Kush, Nepalese Temple) would also excel as edible [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
 
 ### Terpene Considerations
 
@@ -44,14 +44,14 @@ The amount of resin directly determines infusion potency:
 
 - Fruity strains (Mango Haze, Bay 11, Hawaiian Wave) can mask the herbal cannabis
   taste in edibles
-- Sweet strains (Acapulco Gold with "taste of burnt sugar," CookieWreck) pair well
+- Sweet strains ([[acapulco-gold]] with "taste of burnt sugar," CookieWreck) pair well
   with dessert-style edibles
 - Diesel and fuel-tasting strains may be better suited for savory applications or
   well-masked in strongly flavored recipes
 
 ## Decarboxylation
 
-Raw cannabis contains non-intoxicating acidic cannabinoids (THCA, CBDA). Converting
+[[blesching-cannabis-decarboxylation-and-raw-cannabis]] contains non-intoxicating acidic cannabinoids (THCA, CBDA). Converting
 them to active forms (THC, CBD) through heat is essential before infusion:
 
 ### Temperature and Time
@@ -88,60 +88,3 @@ Similar to cannabutter but using oil as the carrier fat:
 
 - Coconut oil is preferred for its high saturated fat content, which absorbs
   cannabinoids efficiently
-- Olive oil works well for savory applications
-- Same process as cannabutter but with oil instead of butter
-
-### Tinctures
-
-Alcohol-based liquid extracts that can be taken sublingually or added to food:
-
-- High-proof food-grade alcohol (Everclear) extracts cannabinoids from cannabis
-  without heat
-- The cannabis is soaked in alcohol for weeks, then strained
-- Tinctures provide faster onset than traditional edibles when taken sublingually
-
-### Cooking-Grade Hash and Kief
-
-Lower grades of water-extracted hash or dry-sift kief can be directly infused into
-  foods:
-
-- These concentrated forms require smaller quantities for effective dosing
-- They can be stirred directly into melted butter or oil during cooking
-- Cooking-grade bubble hash (from larger micron bags) is ideal for this purpose
-
-## Dosing Considerations
-
-### Onset and Duration
-
-The most critical difference between smoked and edible cannabis:
-
-- **Onset**: Edibles typically take 30 minutes to 2 hours to take effect, compared to
-  seconds for inhalation. This is because cannabinoids must be processed through the
-  digestive system and liver.
-- **Duration**: Edible effects last 4-8 hours or longer, compared to 1-3 hours for
-  smoking.
-- **Intensity**: Liver metabolism converts THC to 11-hydroxy-THC, which is more
-  potent and has different psychoactive properties. This means edible effects are
-  often stronger than expected.
-
-### Dosage Guidelines
-
-- **Beginner**: 2.5-5 mg THC per serving
-- **Intermediate**: 5-10 mg THC per serving
-- **Experienced**: 10-20 mg THC per serving
-- The golden rule: Start low and go slow. Wait at least 2 hours before consuming
-  more.
-
-### Factors Affecting Dose
-
-- **Strain potency**: A strain at 22% THC (ChemDawg, Sannie's Jack F7) will produce
-  much more potent edibles than one at 14% THC (Hawaiian Wave)
-- **CBD content**: Strains with CBD (Harlequin at 4% CBD, Jack 47 at 1.6% CBD)
-  will produce more balanced, less intoxicating edibles
-- **Body weight and metabolism**: Individual factors significantly affect edible
-  response
-- **Empty vs. full stomach**: Absorption varies with food intake
-
-- [[cannabis-terpene-entourage-effect-profiles]]
-- [[oner-cannabis-water-extraction-ice-water-hash]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]

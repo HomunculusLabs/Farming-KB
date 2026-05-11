@@ -12,16 +12,16 @@ sources:
 
 ## Overview
 
-In Amazonian vegetalismo (plant medicine tradition), certain plants are considered "doctores" — teacher plants that transmit knowledge, healing abilities, and spiritual power to those who diet with them. Each doctor plant has its own spirit (madre) that appears in visions and instructs the practitioner. Pablo Amaringo documented dozens of these teacher plants through his visionary paintings and oral descriptions. (see [[ayahuasca-visions]]).
+In Amazonian vegetalismo (plant medicine tradition), certain plants are considered "doctores" — teacher plants that transmit knowledge, healing abilities, and spiritual power to those who diet with them. Each doctor plant has its own spirit (madre) that appears in visions and instructs the practitioner. Pablo Amaringo documented dozens of these teacher plants through his visionary paintings and oral descriptions.
 
-The concept of plant teachers is central to Amazonian ethnobotany: plants are not merely chemical repositories but conscious entities with agency, personality, and specialized knowledge. The vegetalista (plant healer) develops relationships with multiple teacher plants over years of disciplined dieting. (see [[hallucinogenic-plants-history-ethnobotany]]).
+The concept of plant teachers is central to [[sananga-eye-medicine-amazonian-ethnobotany]]: plants are not merely chemical repositories but conscious entities with agency, personality, and specialized knowledge. The vegetalista (plant healer) develops relationships with multiple teacher plants over years of disciplined dieting.
 
 ## Categories of Plant Teachers
 
 ### Major Visionary Plants (Bejucos y Chacrunas)
 
-- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for Amazonian shamanism.
-- **Chacruna (Psychotria viridis)** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
+- **Ayahuasca (Banisteriopsis caapi)** — The primary vine teacher; "vine of the dead/vine of souls." Its spirit appears as a black snake with yellow, orange, and blue spots. Contains harmine, harmaline, and tetrahydroharmine (MAO inhibitors). The foundational plant for [[mckenna-ayahuasca-and-amazonian-shamanism]].
+- **Chacruna ([[chacruna-psychotria-viridis]])** — The DMT-containing leaf that activates ayahuasca's visionary effects. Its spirit appears as a brightly colored snake with violet radiation. Must be harvested while fasting and placed sun-side-down with "spurs" upward during brewing.
 - **Chaliponga (Diplopterys cabrerana)** — Alternative DMT source used in some traditions, especially Colombian and Ecuadorian.
 
 ### Tree Teachers (Arboles Maestros)
@@ -35,7 +35,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 
 ### Vine Teachers (Bejucos)
 
-- **Motelo huasca (Bauhinia guianensis)** — A vine teacher added to ayahuasca preparations. "Motelo" refers to the tortoise; the vine's pattern resembles tortoise shell.
+- **Motelo huasca (Bauhinia guianensis)** — A vine teacher added to [[schultes-ayahuasca-preparations]]. "Motelo" refers to the tortoise; the vine's pattern resembles tortoise shell.
 - **Clavohuasca (Tynanthus panurensis)** — A vine used for strength and vitality; also used as an aphrodisiac in Amazonian folk medicine. Added to ayahuasca in some preparations.
 - **Shillinto (Mascagnia psilophylla)** — A vine teacher used in some ayahuasca admixtures.
 
@@ -47,7 +47,7 @@ The concept of plant teachers is central to Amazonian ethnobotany: plants are no
 ### Other Admixture Plants
 
 - **Chicuro (Cyperus sp.)** — A sedge plant sometimes combined with shillinto in ayahuasca preparations.
-- **Mapacho (Nicotiana rustica)** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
+- **Mapacho ([[mckenna-shamanic-tobaccos-and-nicotiana-rustica]])** — Wild tobacco; essential to Amazonian shamanism. Used as an offering, blown into the brew during preparation, and smoked for protection. A handful is added to make the ayahuasca mixture boil properly.
 - **Ayahuma (Couroupita guianensis)** — The "cannonball tree"; a powerful plant teacher whose spirit appears in visions.
 
 ## The Dieta (Plant Dieting)
@@ -69,7 +69,7 @@ Every plant has a "madre" (mother) or spirit that:
 - Guards and conserves the plant
 - Gives visions only to compliant, properly prepared practitioners
 - Transmits specific knowledge (healing songs/icaros, medicinal uses, spiritual defenses)
-- Appears in characteristic forms during ayahuasca visions
+- Appears in characteristic forms during [[amaringo-ayahuasca-visions-shipibo-iconography]]
 - Can be offended by improper behavior, causing illness rather than healing
 
 The spirits are described as real entities: "They are the ones that have taken over these plants. They are the conservers, they take care of the plants."

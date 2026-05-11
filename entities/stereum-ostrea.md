@@ -65,7 +65,7 @@ S. ostrea is most commonly confused with **[[stereum-hirsutum]]** is very simila
 
 S. ostrea tends toward broader, more fan-shaped fruiting bodies on hardwoods.
 
-**[[xylaria-polymorpha-entity]]** (dead man's fingers) is morphologically distinct but may share similar substrates.
+**[[xylaria-polymorpha]]** (dead man's fingers) is morphologically distinct but may share similar substrates.
 
 Microscopically, Stereum species lack clamp connections, which separates them from many lookalike crust fungi.
 

@@ -11,7 +11,7 @@ type: concept
 
 # BIS-TOM
 
-**PIHKAL Entry #12**
+**[[2c-b-pihkal-entry-20]] #12**
 
 ## Chemical Identity
 
@@ -88,39 +88,6 @@ doses were pursued. The rewards would not be worth the risks.
 The two-carbon analogue, 2C-BIS-TOM, was prepared from the
 intermediate aldehyde via nitromethane condensation (nitrostyrene
 mp 145-146 °C from EtOAc) and aluminum hydride reduction, giving
-the hydrochloride as ivory crystals (mp 273-277 °C). It remains
-untried but is expected to fail, as phenethylamines are rarely
-more potent than corresponding amphetamines.
-
-## Significance
-
-BIS-TOM demonstrates the cumulative penalty of sulfur
-substitution in the 2,5-dimethoxy pattern. While single sulfur
-substitutions (as in the TOM, TOET, ALEPH, and 2C-T series)
-produce active compounds, double [[pihkal-sulfur-substitution-potency-sar]] effectively
-destroys psychedelic activity. Few psychedelic drugs contain two
-sulfur atoms, limiting SAR data for this substitution pattern.
-
-Shulgin noted that 2C-T-14 remained "the remaining hope" for a
-potent double-sulfur compound, with its synthesis still underway
-at the time of writing.
-
-## Context: Sulfur Substitution in Psychedelic Phenethylamines
-
-While many psychedelic phenethylamines contain a single sulfur
-atom (the TOM series, the TOET series, the ALEPH series, and
-the 2C-T family), very few contain two sulfur atoms. The double
-sulfur substitution pattern has received limited attention in the
-literature, and BIS-TOM's failure does not encourage further
-exploration of this approach.
-
-The synthesis of BIS-TOM was nonetheless chemically instructive,
-demonstrating multiple viable routes to the disubstituted
-aromatic core and the challenges of selective functionalization
-when two sulfur atoms are present.
 
 ## See Also
-
-- [[do-family-compounds-pihkal]]
-- [[2c-t-pihkal-entry-39]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]
+- [[bod-pihkal-entry-14]]

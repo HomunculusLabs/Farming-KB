@@ -1,5 +1,5 @@
 ---
-title: Psilocybe mexicana Profile
+title: Psilocybe Mexicana Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -23,8 +23,8 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 
 ## Macroscopic Features
 
-- **Cap**: 0.5-3 cm broad. Conic to campanulate to subumbonate, to convex at maturity, often with a small umbo. Surface viscid to smooth when moist, striate from margin halfway to disc. Brownish to deep orangish brown, fading to yellowish when drying, often with bluish tones from age or injury. (see [[psilocybin-mushroom]]).
-- **Gills**: Adnate to adnexed, sometimes sinuate. Pale gray to dark purplish brown with spore maturity, typically with whitish edges. (see [[psilocybe-wassonii]]).
+- **Cap**: 0.5-3 cm broad. Conic to campanulate to subumbonate, to convex at maturity, often with a small umbo. Surface viscid to smooth when moist, striate from margin halfway to disc. Brownish to deep orangish brown, fading to yellowish when drying, often with bluish tones from age or injury.
+- **Gills**: Adnate to adnexed, sometimes sinuate. Pale gray to dark purplish brown with spore maturity, typically with whitish edges.
 - **Stem**: 40-120 mm long by 1-3 mm thick, equal to narrowing towards base. Smooth, hollow. Straw yellow to brownish, darkening with age or injury.
 - **Veil**: Thinly fibrillose, whitish, leaving fibrillose remnants on upper stem.
 - **Flesh**: Reddish brown, bruising bluish where injured.
@@ -36,11 +36,20 @@ Psilocybe mexicana is the original species that launched the modern psychedelic 
 - Moderately to highly active.
 - Heim and Hofmann (1958) found 0.02% psilocybin and 0.01% psilocin in seven-month-old dried specimens.
 - Fresh specimens are "many orders of magnitude stronger."
-- The variety P. wassonii is described as potently active based on the strength of its bluing reaction.
+- The variety P. wassonii is described as potently active based on the strength of its [[field-guide-psilocybin-bluing-reaction-identification]].
 
 ## Sclerotia Formation
 
 P. mexicana is one of the few Psilocybe species known to produce sclerotia -- dense, hardened masses of mycelium that serve as nutrient reserves. Other species known to produce sclerotia include [[psilocybe-semilanceata-profile]] and P. tampanensis. Sclerotia can be cultivated and contain psychoactive compounds.
+
+### Sclerotia Cultivation Notes
+
+Sclerotia (sometimes called "philosopher's stones" or "truffles") form
+underground in [[dighton-fungal-communities-grassland-soils]]. In controlled settings they develop on
+grain substrates over 8-12 weeks. The sclerotia contain psilocybin and
+are notably shelf-stable compared to fruiting bodies. P. mexicana and
+P. tampanensis are the two species most commonly used for sclerotia
+production in the Netherlands and elsewhere.
 
 ## Habitat and Distribution
 
@@ -49,11 +58,29 @@ P. mexicana is one of the few Psilocybe species known to produce sclerotia -- de
 - **Range**: Subtropical Mexico -- Michoacan, Morelos, Jalisco, Oaxaca, Puebla, western Xalapa, Chiapas, Coahuila, Veracruz.
 - **Ecological note**: P. semilanceata is to temperate grasslands what P. mexicana is to subtropical grasslands.
 
+## Cultural Significance
+
+The Mazatec curanderos of Oaxaca use P. mexicana in nocturnal healing
+ceremonies called veladas. The mushrooms are consumed in pairs in
+total darkness, accompanied by prayer and song. Maria Sabina, the
+Mazatec sabia (wise woman) who guided Wasson's ceremony, became an
+unintentional bridge between indigenous practices and Western science
+-- a role that brought both recognition and disruption to her community.
+
 ## Historical Significance
 
-P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified psilocybin and psilocin from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern psilocybin research.
+P. mexicana is the species at the center of Wasson's discovery of the "divine mushroom" of the Mazatec. Roger Heim cultivated specimens and sent them to Albert Hofmann at Sandoz, who isolated and identified [[hplc-analysis-of-psilocybin-and-psilocin]] from them in 1958. This led to Sandoz manufacturing approximately 2 kg of pure psilocybin for research distribution. The species is therefore the direct ancestor of all modern [[early-paris-psilocybin-research-1960s]].
+
+### Identification Tips
+
+- Small size (cap under 3 cm) and grassland habitat help distinguish
+  P. mexicana from larger tropical species like P. cubensis
+- The bluing reaction on injury is a key field indicator
+- Always obtain a spore print before consuming any wild specimen
+- Consult regional monographs; several small brown mushrooms share
+  similar habitats and can be difficult to separate in the field
 
 ## Related Concepts
 
-- [[soma-and-the-sacred-mushroom-debate]] -- the broader question of mushrooms in ancient religion
+- [[soma-and-the-sacred-mushroom-debate]] -- the broader question of mushrooms [[amanita-in-ancient-religion]]
 - [[psilocybe-cubensis-profile]] -- the more widely cultivated tropical species

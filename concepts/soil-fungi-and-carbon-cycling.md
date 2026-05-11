@@ -88,18 +88,3 @@ Quantifying fungal contributions to carbon cycling remains technically
 challenging. Fungal biomass is difficult to separate from other soil organic
 matter. Respiration measurements cannot distinguish fungal from bacterial
 metabolism without isotopic labeling or selective inhibition. Models differ
-in how they parameterize fungal decomposition pathways, leading to divergent
-predictions of future carbon-climate feedbacks.
-
-Advances in biomarker analysis, particularly the use of ergosterol and
-phospholipid fatty acid signatures, along with molecular tools like
-metatranscriptomics and [[fungal-stable-isotope-ecology]] probing, are improving our ability to
-track carbon through fungal pathways in situ.
-
-## See Also
-
-- [[dighton-fungi-elevated-co2-global-carbon-cycling]]
-
-- mycorrhizal-symbiosis
-- [[brown-rot-and-white-rot-fungi-in-mycoremediation]]
-- [[soil-food-web-nutrient-cycling]]

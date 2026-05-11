@@ -45,13 +45,13 @@ Stems are **evergreen**, cylindrical, hollow, and **unbranched**, reaching 30–
 
 The **sheath** at each node is 5–12 mm long with 10–30 dark teeth at the apex. The teeth are the visible remnants of the fused leaf margins and are a key diagnostic character distinguishing *E. hyemale* from related species.
 
-The stem surface is **rough and abrasive** due to high concentrations of **silica dioxide** embedded in the epidermal cell walls. Silica content can reach **15–20% of dry weight**, the highest among vascular plants.
+The stem surface is **rough and abrasive** due to high concentrations of **silica dioxide** embedded in the epidermal [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]. Silica content can reach **15–20% of dry weight**, the highest among vascular plants.
 
 **Reproductive stems** are identical to vegetative stems in *E. hyemale* (unlike some *Equisetum* species that produce distinct fertile and sterile stems). The **strobilus** (cone) is apical, 10–30 mm long, bearing hexagonal sporangiophores that release green, elater-bearing spores.
 
 ## Distribution and Habitat
 
-Rough horsetail has a **circumboreal distribution**, occurring across Europe, Asia, and North America. In North America, it ranges from **Alaska to Newfoundland**, south to **New Mexico, Texas, and northern California**. It also occurs in **Greenland** and across temperate Eurasia.
+Rough horsetail has a **circumboreal distribution**, occurring across Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. In North America, it ranges from **Alaska to Newfoundland**, south to **New Mexico, Texas, and northern California**. It also occurs in **Greenland** and across temperate Eurasia.
 
 The species inhabits **moist to wet environments** including stream banks, lake margins, marshes, wet meadows, and damp forests. It tolerates both full sun and partial shade, though it grows most vigorously in open, moist sites.
 
@@ -74,9 +74,9 @@ The plant spreads aggressively via rhizomes and can become invasive in garden se
 
 Propagation is by **division of rhizomes** in [[coleman-overwintered-onions-and-early-spring-crops]] or by **spore**. Spore propagation is slow and unreliable for garden purposes. Division produces established clumps within a single [[savory-growing-season-and-non-growing-season-management]].
 
-No significant pests or diseases affect *E. hyemale* in cultivation. The silica-rich stems deter most herbivorous insects. Rust fungi (*Puccinia* spp.) occasionally infect stems but rarely cause serious damage.
+No significant pests or diseases affect *E. hyemale* in cultivation. The silica-rich stems deter most herbivorous insects. [[biodiversity-rust-fungi-urediniomycetes]] (*Puccinia* spp.) occasionally infect stems but rarely cause serious damage.
 
-In modern landscape design, rough horsetail is valued for its **contemporary architectural quality** and is frequently used in mass plantings around water features, in rain gardens, and as a vertical accent in minimalist garden compositions. Its evergreen habit provides winter interest in temperate gardens.
+In modern [[holzer-permaculture-landscape-design]], rough horsetail is valued for its **contemporary architectural quality** and is frequently used in mass plantings around water features, in rain gardens, and as a vertical accent in minimalist garden compositions. Its evergreen habit provides winter interest in temperate gardens.
 
 ## Ecological Role
 
@@ -84,28 +84,6 @@ Equisetum hyemale is a **pioneer species** on disturbed wet sites, rapidly colon
 
 The hollow stems provide **habitat structure** for aquatic and semi-aquatic invertebrates. Several species of **Chrysomelid beetles** specialize on *Equisetum* foliage, and the stems are occasionally used as nesting material by small birds.
 
-The species is a noted **hyperaccumulator** of heavy metals including arsenic, cadmium, lead, and zinc. Research has demonstrated its capacity to concentrate these metals in above-ground tissues at levels exceeding soil concentrations by 10–100 times. This trait has generated interest in its use for **phytoremediation** of contaminated sites.
+The species is a noted **hyperaccumulator** [[mycoremediation-of-heavy-metals]] including arsenic, cadmium, lead, and zinc. Research has demonstrated its capacity to concentrate these metals in above-ground tissues at levels exceeding soil concentrations by 10–100 times. This trait has generated interest in its use for **phytoremediation** of contaminated sites.
 
 Equisetum species produce **equisetolic acid** and other [[antifungal-secondary-metabolites-coprophilous-fungi]] with allelopathic properties. These compounds can inhibit germination and growth of competing plant species, contributing to the often near-monoculture stands observed in the wild.
-
-## Historical Uses
-
-Indigenous peoples across North America, Europe, and Asia used *E. hyemale* for a wide variety of practical purposes. The silica-rich stems were employed as **abrasive tools** for polishing wood, bone, and metal surfaces before the availability of sandpaper.
-
-The stems were boiled to create a **diuretic tea** used in traditional European herbal medicine for kidney and bladder ailments. This use was adopted into 19th-century pharmacopeias as *Equiseti herba*, though modern clinical evidence supporting these applications remains limited.
-
-[[halpern-sacramental-peyote-and-native-american-church]] tribes including the Blackfoot, Cheyenne, and Ojibwe used horsetail preparations for **wound healing** and as a **general tonic**. The high silica content was believed to strengthen bones, hair, and nails — a folk belief that has some support from silica's known role in collagen synthesis.
-
-Japanese artisans used split horsetail stems as **fine sanding implements** for lacquerware finishing, a practice that continued into the 20th century. The abrasive quality of the silica-impregnated epidermis produced exceptionally smooth surfaces.
-
-In traditional Chinese medicine, *Equisetum hyemale* (known as 木贼, *mu zei*, "wood thief") is prescribed for **eye conditions** including conjunctivitis and blurred vision. It is also used to stop bleeding and as a diuretic, applications documented in pharmacopeias dating back to the Tang Dynasty.
-
-## See Also
-
-- [[lycopodium-clavatum]]
-- [[osmunda-regalis]]
-- [[athyrium-filix-femina]]
-- [[polypodium-vulgare]]
-- [[dryopteris-filix-mas]]
-- [[sarracenia-purpurea]]
-- [[ceratophyllum-demersum]]

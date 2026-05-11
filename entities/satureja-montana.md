@@ -87,29 +87,3 @@ The essential oil demonstrates broad-spectrum antibacterial activity against Gra
 Antifungal activity has been documented against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and several dermatophyte species.
 
 In vitro antioxidant assays show moderate to strong radical scavenging capacity, attributed primarily to carvacrol and thymol content.
-
-Animal studies suggest carminative, antispasmodic, and mild hypoglycemic effects, though clinical evidence in humans remains limited.
-
-## Culinary Use
-
-Winter savory has a sharp, peppery flavor with resinous and mildly thyme-like undertones. It is significantly more pungent than summer savory.
-
-The herb pairs well with beans, lentils, meat stews, game, and hearty vegetable dishes. In traditional European cookery, it is a classic component of herbes de Provence and Bouquet garni.
-
-Winter savory has also been used to flavor vinegars, oils, and liqueurs. Its strong aroma makes it effective as a meat preservative in traditional food-preservation practices.
-
-Winter savory is often preferred over summer savory for slow-cooked dishes, as its flavor withstands prolonged heat without degrading.
-
-In Italian cuisine, it seasons porchetta, roasted meats, and legume soups. In Balkan cooking, it is used in bean stews (*pasulj*) and grilled meats.
-
-Fresh leaves can be stored refrigerated for 1–2 weeks. Dried leaves retain flavor for up to one year in airtight containers.
-
-## See Also
-
-- [[origanum-vulgare-entity]]
-- [[lavandula-angustifolia]]
-- [[satureja-hortensis]]
-- [[calamintha-nepeta]]
-- [[mentha-spicata]]
-- [[melissa-officinalis]]
-- [[prunella-vulgaris]]

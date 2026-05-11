@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Pinus strobus**, commonly known as eastern white pine, is a large coniferous tree native to [[polypore-fungi-eastern-north-america]] America. It is the tallest tree species in eastern North America, historically reaching heights exceeding 60 meters.
+**Pinus strobus**, commonly known as eastern white pine, is a large coniferous tree native to [[polypore-fungi-eastern-north-america]] America. It is the tallest tree species in eastern [[guzman-psilocybin-mushrooms-north-america]], historically reaching heights exceeding 60 meters.
 
 The species is easily recognized by its soft, flexible needles in fascicles of five, its long cylindrical cones, and its smooth grey bark on young trees. Mature bark develops broad, flat ridges with shallow furrows.
 
@@ -67,7 +67,7 @@ In the absence of disturbance, white pine is gradually replaced by more shade-to
 
 ### Pests and Pathogens
 
-The white [[fukuoka-pine-weevil-blight-non-causality]] (Pissodes strobi) is the most damaging insect pest, killing the terminal leader of young trees and causing stem deformity. Repeated attacks result in multiple-stemmed, bushy growth patterns that reduces timber value.
+The white [[fukuoka-pine-weevil-blight-non-causality]] (Pissodes strobi) is the most damaging [[ingham-foliar-insect-pest-deterrence-mechanisms]], killing the terminal leader of young trees and causing stem deformity. Repeated attacks result in multiple-stemmed, bushy growth patterns that reduces timber value.
 
 White pine blister rust (Cronartium ribicola), an introduced [[alpha-1-3-glucan-fungal-pathogen-cell-walls]], has caused widespread mortality since its arrival in North America circa 1900. The pathogen requires an alternate host in the genus Ribes (currants and gooseberries) to complete its life cycle.
 
@@ -75,9 +75,9 @@ Deer browsing on seedlings and saplings is a significant regeneration challenge 
 
 ## Cultivation and Ornamental Use
 
-Eastern white pine is one of the most widely planted ornamental conifers in temperate regions. Its soft, graceful foliage and rapid growth rate make it popular for residential, park, and campus plantings.
+Eastern white pine is one of the most widely planted ornamental conifers in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Its soft, graceful foliage and rapid [[soil-temperature-plant-growth-rate-doubling-rule]] make it popular for residential, park, and campus plantings.
 
-The species is hardy to USDA Zone 3, making it suitable for cold climates where few other large conifers thrive. It tolerates urban conditions including air pollution and road salt, though it performs best in spacious settings.
+The species is hardy to USDA Zone 3, making it suitable [[query-best-kiwifruit-varieties-for-cold-climates]] where few other large conifers thrive. It tolerates urban conditions including [[air-pollution-fungal-community-responses]] and road salt, though it performs best in spacious settings.
 
 Several cultivars are available in the nursery trade. 'Fastigiata' has a narrow columnar form, while 'Nana' is a compact dwarf variety. Variegated and weeping forms are also commercially available.
 
@@ -88,25 +88,3 @@ Eastern white pine holds deep cultural importance for indigenous peoples of east
 The tree's tall, straight trunks served as the primary material for birchbark canoe construction across the Northeast. Its soft, easily worked wood was also used for dugout canoes, snowshoes, and other utilitarian items.
 
 The white pine is the state tree of both Maine and Michigan. It appears on the state flags and seals of several northeastern states, reflecting its historical and cultural importance in the region.
-
-## Timber and Economic Importance
-
-Eastern white pine produces light, soft, straight-grained timber with a pale cream to light brown heartwood. Wood density is approximately 370–420 kg/m³ at 12% moisture content, making it one of the softest commercially important pines.
-
-The timber is valued for its workability, stability, and ease of finishing. Primary uses include interior paneling, trim, cabinetry, pattern-making, and carving. It was historically used for matches, crate lumber, and paper pulp.
-
-The species was the foundation of the colonial timber industry in northeastern North America. Vast old-growth stands were harvested through the 18th and 19th centuries, with logs rafted down rivers to sawmills and ports.
-
-Eastern white pine remains commercially important in plantation forestry across eastern Canada and the northeastern [[dmt-containing-plants-united-states-halpern]]. Rotation lengths of 50–80 years produce sawtimber and pulpwood, with thinning beginning at age 15–20.
-
-## See Also
-
-- [[pinus-ponderosa]]
-- [[pinus-contorta]]
-- [[picea-sitchensis]]
-- [[thuja-occidentalis]]
-- [[cedrus-libani]]
-- [[larix-laricina]]
-- [[juniperus-virginiana]]
-- [[sequoia-sempervirens]]
-- [[taxodium-distichum]]

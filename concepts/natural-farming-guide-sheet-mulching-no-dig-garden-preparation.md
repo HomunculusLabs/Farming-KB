@@ -88,19 +88,3 @@ include: arborist [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] 
 grains, stable cleanings, grass clippings from neighbors, seaweed from beaches,
 and shredded cardboard from businesses. Many of these materials are available
 free or at very [[jadam-ultra-low-cost-agriculture]], making sheet mulching an economical choice for large
-areas.
-
-## Timing and Seasonal Planning
-
-Sheet mulching can be started at any time of year, but autumn application is
-ideal. Layers break down over winter, and the bed is ready for spring planting.
-Summer mulching helps protect soil from heat and retain moisture during dry
-periods. Winter mulching insulates soil and prevents frost heaving of
-perennials. For immediate planting, ensure the bottom layers contain enough
-finished compost to support root growth.
-
-## Integration With Hugelkultur
-
-Sheet mulching can be combined with [[natfarm-sheet-mulching-garden-preparation]]
-
-- [[mulching-in-natural-farming]]

@@ -1,10 +1,10 @@
 ---
-title: "Lophophora williamsii: Peyote — Tracks of the Little Deer"
+title: Plants Of The Gods Lophophora Peyote
 created: 2026-04-28
 tags:
   - ethnobotany
   - peyote
-  - mescaline
+  - [[mescaline]]
   - cactaceae
   - mexico
 date: 2026-04-28
@@ -41,7 +41,7 @@ are borne in the umbilicate center of the crown. Indians cut off
 the crown and dry it for ingestion as a hallucinogen. This dry,
 disklike head is known as the Mescal Button or Peyote Button.
 
-Lophophora williamsii is usually blue-green with from 5 to 13
+[[lophophora-williamsii]] is usually blue-green with from 5 to 13
 ribs and normally straight furrows. It has up to 30 alkaloids,
 primarily mescaline, as well as further psychoactive
 phenylethylamines and isoquinolines. L. diffusa has a gray-green,
@@ -56,7 +56,7 @@ desert regions, usually on calcareous soil, in Mexico and Texas.
 When the crown is removed, the plant will often grow new crowns
 and thus Peyotes with multiple heads are commonly seen. The
 natural range extends from southern Texas through the Chihuahuan
-Desert into central Mexico.
+Desert into [[psychoactive-cacti-of-central-mexico]].
 
 ## Huichol Peyote Pilgrimage
 
@@ -88,40 +88,3 @@ brings great calm and muscular sluggishness, with a shift in
 attention from external stimuli to introspection and meditation.
 
 ## Cultural and Religious Significance
-
-Mexico represents without a doubt the world's richest area in
-diversity and use of hallucinogens in aboriginal societies. The
-Peyote cactus is the most important sacred hallucinogen. The use
-of Peyote has spread from its original Mexican homeland to Texas
-in the [[dmt-containing-plants-united-states-halpern]], where it became the basis of the Native
-American Church religion.
-
-The Tarahumara Indians also revere Peyote and use several
-additional cactus species as minor hallucinogens for special
-magico-religious purposes. Other cacti known as "false Peyotes"
-include Mammillaria, Coryphantha, and Epithelantha species,
-which contain various alkaloids including phenylethylamines.
-
-## Historical Context
-
-The ceremonial use of Peyote is of great antiquity. Archaeological
-evidence suggests that Peyote has been used for at least several
-thousand years in the region. Spanish chroniclers documented its
-use among the Aztecs and their predecessors. Its main psychoactive
-alkaloid, mescaline, was first isolated in 1897 and subsequently
-utilized in psychiatric research.
-
-The Peyote ceremony, as practiced today by the [[halpern-sacramental-peyote-and-native-american-church]]
-Church, represents a synthesis of ancient Mesoamerican traditions
-with Christian elements. The ceremony typically involves an
-all-night vigil with prayer, singing, and the consumption of
-Peyote buttons, conducted around a crescent-shaped altar.
-
-## Related Topics
-
-- [[plants-of-the-gods-chemical-structures-hallucinogens]] —
-  [[plants-of-the-gods-chemical-structures-hallucinogens]] of mescaline and related compounds
-- [[plants-of-the-gods-amanita-muscaria]] — another major
-  sacred hallucinogen with deep cultural roots
-- [[plants-of-the-gods-geography-hallucinogenic-plants]] —
-  geographic distribution of sacred plants

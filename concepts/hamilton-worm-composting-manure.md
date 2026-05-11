@@ -23,7 +23,7 @@ Worms feed mainly on [[hamilton-composting-and-organic-matter-management]] and, 
 waste down and eject it in the form of pellets. These small pellets
 are coated with a gel which holds them together. The resulting crumb
 structure helps to [[query-how-do-i-improve-soil-drainage-in-my-garden]] and aeration, providing a
-superior environment for root growth.
+superior environment for [[soil-moisture-management-and-root-growth]].
 
 The pellets not only change nutrients into a form readily available to
 plant roots, but also convert them into a form released slowly as
@@ -31,7 +31,7 @@ required by plants. This prevents short-term toxicity that could
 otherwise develop. At the same time, the water-holding capacity of
 soil is increased considerably.
 
-Worms break organic matter into smaller granules, enabling soil
+Worms break [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] into smaller granules, enabling soil
 microbes to work on a greater surface area. They also produce enzymes
 that enable bacteria to work more efficiently. The presence of worms
 in organic matter accelerates decomposition significantly.
@@ -52,7 +52,7 @@ where it cannot be dug in because plants cannot be disturbed. This is
 normally carried out in spring. Make sure the soil is moist before
 applying the mulch because it will absorb surface water. A good mulch
 of well-rotted manure or compost, about 2 to 3 inches (5 to 8cm)
-deep, will suppress weeds, retain moisture, and gradually feed the
+deep, will [[query-how-do-cover-crops-suppress-weeds]], retain moisture, and gradually feed the
 soil as it breaks down.
 
 ## Adding Worms to the Soil
@@ -88,26 +88,3 @@ of material onto the heap in a week. [[fukuoka-textdoc-animal-manure-human-waste
 own.
 
 ## Managing the Wormery
-
-Place the wormery in a sunny, sheltered part of the garden because
-worms will not work below about 45 degrees F (7 degrees C) and will
-die in freezing weather. The optimum temperature is 68 to 75 degrees F
-(20 to 24 degrees C). In cold weather, cover with old carpet to retain
-heat. In very hot weather, water the material. It is much better for
-it to be too wet than too dry.
-
-## Green Manure Crops
-
-Green manure crops are an excellent way to add organic matter to the
-soil. Sown primarily to be dug back into the soil, they add nutrients
-and improve soil structure. Mustard, for example, can be sown as a
-quick-maturing [[coleman-cover-crop-rotation-and-soil-health]] in vacant areas of the vegetable plot,
-particularly useful in winter on light soils. See
-[[hamilton-organic-fertilizers-and-plant-nutrition]] for
-nutrient content details of different manures.
-
-## See Also
-
-- [[hamilton-organic-soil-management]]
-- [[hamilton-organic-fertilizers-and-plant-nutrition]]
-- [[composting-science-solomon]]

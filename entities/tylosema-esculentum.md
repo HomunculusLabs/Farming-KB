@@ -3,7 +3,7 @@ title: "Tylosema esculentum"
 type: species
 tags:
   - fabaceae
-  - permaculture
+  - [[permaculture]]
   - food-crop
   - african-food
   - tuber-legume
@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bousquet, J. et al. (2016). "The Marama Bean (Tylosema esculentum): A Potential Crop for Arid Regions." Economic Botany, 70(2), 129–143.
+  - Bousquet, J. et al. (2016). "The Marama Bean (Tylosema esculentum): A Potential Crop for fukuoka-natural-farming-in-arid-regions." Economic Botany, 70(2), 129–143.
   - Van Rheenen, H.A. (2000). "Marama bean: A crop for the Kalahari desert." In: J. Janick (ed.), Perspectives on New Crops and New Uses. ASHS Press.
   - National Research Council (2006). "Lost Crops of Africa: Volume II, Vegetables." National Academies Press.
 created: 2026-04-28
@@ -20,13 +20,13 @@ created: 2026-04-28
 
 ## Overview
 
-Tylosema esculentum, commonly known as the marama bean or morama bean, is a perennial tuberous legume native to the arid regions of southern Africa.
+Tylosema esculentum, commonly known as the marama bean or morama bean, is a perennial tuberous legume native to the [[fukuoka-natural-farming-in-arid-regions]] of southern Africa.
 
 It produces both large edible seeds comparable to peanuts and substantial underground tubers that serve as a carbohydrate and water reserve.
 
 The species has been a vital wild food source for indigenous San and Khoi peoples for millennia.
 
-It is considered one of the most promising underutilized crops for food security in arid environments.
+It is considered one of the most promising underutilized crops for food security in [[fungal-diversity-arid-environments]].
 
 ## Taxonomy and Morphology
 
@@ -87,36 +87,3 @@ Marama seeds are exceptionally rich in protein, containing 30–38% protein by d
 The oil content is 35–45%, with a fatty acid profile dominated by oleic and linoleic acids.
 
 This composition is comparable to or exceeds that of peanuts and soybeans.
-
-Seeds also contain significant levels of calcium, magnesium, zinc, and B vitamins.
-
-The tuber is high in complex carbohydrates, providing approximately 80% starch by dry weight.
-
-Tuber protein content is low at 5–8%, but the caloric density is substantial.
-
-Both seeds and tubers are gluten-free, making them suitable for celiac diets.
-
-## Permaculture Applications
-
-Tylosema esculentum is an ideal candidate for food forests and agroforestry in arid zones.
-
-Its deep root system stabilizes sandy soils and reduces wind erosion.
-
-The perennial vine habit provides [[fukuoka-citrus-orchard-ground-cover-cultivation]], reducing soil surface temperatures.
-
-It can be intercropped with drought-tolerant [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] in desert permaculture designs.
-
-The species requires minimal irrigation once established, making it suited to water-scarce systems.
-
-Its nitrogen-fixing ability (as a legume) contributes to soil fertility in degraded landscapes.
-
-The dual harvest of seeds and tubers provides year-round food production from a single plant.
-
-## See Also
-
-- [[moringa-oleifera]]
-- [[prosopis-juliflora]]
-- [[manihot-esculenta]]
-- [[canavalia-ensiformis]]
-- [[hugelkultur]]
-- [[vetiveria-zizanoides]]

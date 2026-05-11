@@ -1,12 +1,12 @@
 ---
-title: "shroom-cultural-history-maria-sabina-and-mazatec-tradition's [[maria-sabina]] velada songs and mazatec healing and maria-sabina-mazatec-mushroom-ceremony Healing"
+title: [[maria-sabina]] Velada Songs And Mazatec Healing
 created: 2026-04-26
 tags:
   - mazatec
   - mushroom-ceremony
   - maria-sabina
   - indigenous-healing
-  - ethnomycology
+  - [[ethnomycology]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -85,41 +85,6 @@ utterances were, by comparison, "feeble."
 ## The Western Misrepresentation
 
 Wasson's treatment of the veladas was deeply problematic. He forced
-complex indigenous healing practices into his own preconceptions rather
+complex indigenous [[blesching-cannabis-healing-practices-setting-intention-affirmations]] into his own preconceptions rather
 than attempting to understand them on their own terms. He arrived in
 Mexico with his vision of an ancient mushrooming cult fully formed,
-projected the priestly role onto Sabina, and returned home trumpeting
-her as his trophy, the final proof of the thesis that would secure his
-place in the academic firmament.
-
-He pictured his ancient [[african-mushroom-cult-history]] as a form of primitive Christian
-mysticism, with mushrooms foreshadowing the sacrament. Sabina's
-devout, suffering, compassionate, generous, humble character, a loving
-and devoted mother, a woman without stain, made her a most Mary-like
-figure. She slotted easily into Wasson's High Church expectations.
-Through his writings and Allan Richardson's iconic photographs, Wasson
-beatified her and presented her to the world as the last living saint
-of his imagined ancient mushrooming religion.
-
-## Legacy of the Songs
-
-Sabina's transcribed songs have inspired diverse creative responses.
-The American poet Anne Waldman freely reworked Sabina's utterances
-into her poem "Fast Speaking Woman." The songs have been the subject of
-academic study as ethno-poetry of performance. In Mexico, Sabina has
-been the subject of documentaries, comic strips, and theme pubs. Her
-image has been used, bizarrely, in campaigns against drugs.
-
-The anthropological heresy that Wasson committed was that he forced
-indigenous practices into his own framework. The image of a mushrooming
-religion he constructed proved absolutely enticing to a generation of
-young Americans searching for spiritual satisfaction, but it bore only
-a passing resemblance to the pragmatic healing tradition that Sabina
-actually practised.
-
-## Related Topics
-
-- [[mazatec-mushrooms-of-language]] - Mazatec linguistic traditions
-- [[wasson-scholarly-critique-and-legacy]] - critique of Wasson's
-  - methods
-- [[shroom-mazatec-tradition]] - broader Mazatec mushroom practices

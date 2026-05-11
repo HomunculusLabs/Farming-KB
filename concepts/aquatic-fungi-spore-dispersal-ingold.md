@@ -1,5 +1,5 @@
 ---
-title: Aquatic Fungi and Spore Dispersal in Water
+title: Aquatic Fungi Spore Dispersal Ingold
 created: 2026-04-28
 tags:
   - mycology
@@ -30,7 +30,7 @@ C.T. Ingold began his studies of aquatic fungi in the 1930s and 1940s by
 examining leaves decaying in freshwater streams. When he placed dead leaves
 in water and examined them under a microscope, he discovered an extraordinary
 diversity of fungal spores that he described as "jewels" for their beautiful
-and intricate shapes. These spores, now known as Ingoldian spores or
+and intricate shapes. These spores, now known as [[aquatic-hyphomycetes-and-ingoldian-spores]] or
 aero-aquatic conidia, are produced by fungi that colonize submerged organic
 material.
 
@@ -42,7 +42,7 @@ leaves in the water, making them easy to collect and study.
 ## Ingoldian Spores
 
 Ingoldian spores are asexual conidia produced by [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]], fungi
-that grow on decaying leaves and other organic matter in freshwater streams.
+that grow on decaying leaves and other [[maintaining-organic-matter-in-vegetable-gardens]] freshwater streams.
 These spores are typically multicellular, with various shapes including
 sigmoid (S-shaped), tetraradiate (four-armed), and star-shaped forms. The
 diversity of spore morphologies is extraordinary, with dozens of distinct
@@ -66,13 +66,13 @@ substrates, and facilitating orientation in three-dimensional water currents.
 The arms of some tetraradiate spores are elaborately branched, resembling
 miniature trees or coral structures. Others are simple and straight. This
 morphological diversity reflects the wide range of ecological niches occupied
-by aquatic fungi across different aquatic environments.
+by aquatic fungi across different [[fungal-roles-aquatic-environments]].
 
 ## Ecological Role in Streams
 
 Aquatic fungi are the primary decomposers of leaf litter in forest streams.
 When autumn leaves fall into water, they are rapidly colonized by aquatic
-hyphomycetes that break down the tough structural polymers in leaf tissue,
+hyphomycetes that [[query-can-fungi-break-down-plastic-pollution]] the tough structural polymers in leaf tissue,
 including cellulose, hemicellulose, and lignin. This decomposition process
 releases nutrients that fuel the stream ecosystem, supporting invertebrates
 and ultimately fish and other vertebrates.
@@ -88,45 +88,3 @@ decomposition.
 
 In addition to the asexual aquatic hyphomycetes, many ascomycete fungi
 complete their entire life cycles in freshwater habitats. These freshwater
-ascomycetes produce sexual fruiting bodies (perithecia or apothecia) on
-submerged wood, leaves, or other organic substrates. Their ascospores are
-often equipped with gelatinous sheaths or appendages that aid in attachment
-to surfaces.
-
-Some freshwater ascomycetes are highly host-specific, colonizing only
-particular types of wood or leaf species. Others are generalists, capable of
-decomposing a wide range of plant materials. The diversity of freshwater
-ascomycetes is remarkable, with hundreds of species described from streams
-and lakes worldwide.
-
-## Marine Fungi
-
-Marine fungi inhabit ocean environments, from coastal mangroves to deep-sea
-hydrothermal vents. Many marine fungi are adapted to life in saline conditions
-and are found on driftwood, seaweed, shellfish, and other marine substrates.
-The abundance of woody debris in coastal waters, particularly in mangrove
-forests, provides extensive habitat for marine [[biodiversity-of-fungi-soil-fungal-communities-agriculture]].
-
-Marine [[query-how-do-fungi-contribute-to-carbon-sequestration]] to the decomposition of organic matter in ocean
-ecosystems and play roles in the health of coral reefs, seagrass beds, and
-other marine communities. Some marine fungi are pathogenic, causing diseases
-in commercially important shellfish and seaweeds.
-
-## Spore Dispersal Mechanisms
-
-Unlike terrestrial fungi, which rely primarily on wind for spore dispersal,
-aquatic fungi have evolved mechanisms for waterborne dispersal. Some release
-spores passively into the water column, relying on currents for transport.
-Others employ active [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]], shooting spores into the water.
-
-The foam that accumulates on the surface of streams plays a crucial role in
-concentrating and dispersing aquatic fungal spores. Spores become trapped in
-the foam and can be carried considerable distances before settling onto new
-substrates. This foam-mediated dispersal is particularly important for fungi
-colonizing newly available leaf material.
-
-## See Also
-- [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
-- [[fungal-hyphae-invasive-growth-mechanisms]]
-- [[fairy-rings-mycelium-ecology-soil]]
-- [[terence-ingold-mycologist]]

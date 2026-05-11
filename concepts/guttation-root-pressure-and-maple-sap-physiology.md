@@ -9,7 +9,7 @@ sources: []
 
 # Guttation, Root Pressure, and Maple Sap Physiology
 
-When transpiration slows or stops, plants still need to move water and nutrients. Root pressure and related phenomena -- including guttation and the production of maple syrup -- demonstrate alternative mechanisms for moving fluids through plants.
+When transpiration slows or stops, plants still need to move water and nutrients. Root pressure and related phenomena -- including guttation and the production of [[maple-syrup-production]] -- demonstrate alternative mechanisms for moving fluids through plants.
 
 ## Root Pressure
 
@@ -30,7 +30,7 @@ Root pressure can push sap several meters up the plant, but this is the practica
 
 ### What It Is
 
-When root pressure is strong enough and transpiration is minimal, water is pushed out of the tips or edges of leaves. This creates visible droplets on the leaf surface -- guttation. Unlike dew (condensation from atmospheric moisture), guttation droplets come from inside the plant.
+When root pressure is strong enough and transpiration is minimal, water is pushed out of the tips or edges of leaves. This creates visible droplets on the [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] -- guttation. Unlike dew (condensation from atmospheric moisture), guttation droplets come from inside the plant.
 
 ### The Physics
 
@@ -55,7 +55,7 @@ A common misconception is that xylem carries only water. In reality, xylem sap c
 During spring, several processes converge:
 1. Stored starches in roots are converted to transportable sugars
 2. These sugars enter the xylem and travel upward
-3. The sugar creates strong osmotic pressure -- water flows in to dilute the sweetened sap
+3. The sugar creates strong [[fungal-fruiting-body-mechanics-osmotic-pressure]] -- water flows in to dilute the sweetened sap
 4. This root pressure pushes the sap up the xylem to apical meristems aboveground
 
 ## Maple Syrup: The Xylem Sap Paradox
@@ -87,18 +87,3 @@ The presence of sugars, amino acids, and dissolved ions in xylem sap creates osm
 - During spring before leaf emergence
 - In tropical plants where transpiration may be reduced
 - In plants growing in saturated soils where oxygen limitations affect root function
-
-## Implications for Gardeners
-
-Understanding root pressure helps explain several phenomena:
-- Why overwatering causes edema (blistering) on leaves -- excess root pressure with nowhere for water to go
-- Why newly planted trees may "bleed" from pruning wounds in spring -- root pressure pushes sap out
-- Why some plants produce visible droplets in the morning (guttation) while others do not
-- Why spring fertilization is particularly effective -- nutrients are actively transported in the xylem sap
-
-## Related Topics
-
-- [[water-pathways-through-plants]] -- the complete water movement picture
-- [[root-anatomy-structure-and-nutrient-uptake]] -- where root pressure originates
-- [[temperature-effects-plant-nutrient-uptake]]
-- [[stomata-transpiration-and-plant-water-regulation]]

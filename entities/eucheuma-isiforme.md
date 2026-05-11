@@ -88,24 +88,3 @@ Major cultivation challenges include grazing by herbivorous fish (especially par
 Genetic improvement through selective breeding has produced strains with 10–15% higher carrageenan yield and improved disease resistance. Tissue [[agar-culture-techniques-detailed]] for clonal propagation are under development but are not yet commercially deployed at scale. [[blesching-cannabis-strain-selection-receptor-targeting]] also targets higher iota-carrageenan purity and reduced color pigmentation for refined product markets.
 
 ## Economic Significance
-
-Nicaragua is the world's largest producer of cultivated *E. isiforme*, with annual production of 3,000–5,000 tonnes wet weight. Belize, Honduras, and Panama also maintain significant cultivation operations. Smaller-scale production occurs in Brazil and several Caribbean island nations.
-
-The market value of iota-carrageenan is 10–20% higher than kappa-carrageenan on a per-kilogram basis, reflecting lower global supply and specialized applications. Refined iota-carrageenan commands USD 5–8 per kg, while semi-refined product (processed *Eucheuma* cottonii/pulverized) sells for USD 2–4 per kg.
-
-Global demand for carrageenan is projected to grow at 3–5% annually, driven by increasing use in plant-based food formulations and processed dairy alternatives. Iota-carrageenan is particularly important in vegan dessert and pudding formulations where its soft gel texture mimics traditional gelatin. Supply constraints on *E. isiforme* have prompted research into iota-carrageenan production from alternative species.
-
-Employment in *Eucheuma* cultivation supports thousands of coastal households in Central America, providing income in regions with limited alternative livelihoods. The labor-intensive nature of planting, maintenance, and harvesting makes it particularly important for rural coastal communities.
-
-Certification programs for sustainable seaweed cultivation (ASC, MSC chain of custody) are increasingly relevant to *E. isiforme* producers. Buyers in Europe and [[psilocybin-north-america-pacific-northwest]] increasingly require third-party certification as a condition of purchase, creating both market access opportunities and compliance costs for small-scale producers.
-
-Research into integrated multi-trophic aquaculture (IMTA) combining *E. isiforme* with fish or shrimp culture has shown promise. The seaweed absorbs dissolved nutrients from animal waste, improving water quality while producing additional biomass. Pilot projects in Nicaragua have demonstrated 15–25% improvement in carrageenan yield in IMTA systems compared to monoculture.
-
-## See Also
-
-- [[eucheuma-denticulatum]]
-- [[gracilaria-verrucosa]]
-- [[ulva-lactuca]]
-- [[laminaria-digitata]]
-- [[undaria-pinnatifida]]
-- [[caulerpa-lentillifera]]

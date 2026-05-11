@@ -1,10 +1,10 @@
 # Soil Food Web and Living Soil (Gaia's Garden)
 
-**Source:** Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture* (2001)
+**Source:** [[toby-hemenway]], *Gaia's Garden: A Guide to Home-Scale Permaculture* (2001)
 
 ## Soil as Living System
 
-The foundational insight of ecological gardening is that soil is not an inert
+The foundational insight of [[ecological-gardening-principles]] is that soil is not an inert
 substrate for growing plants—it is a living ecosystem teeming with more organisms
 than exist above ground. Hemenway opens the soil chapter with a Latin American
 farmer's observation: "Of course you have terrible soil problems in your country.
@@ -14,7 +14,7 @@ yet it is where the dead are brought back to life.
 A teaspoon of good pasture soil may contain a billion bacteria, a million fungi,
 and ten thousand amoebae. An acre of good pasture may support a half-ton of
 aboveground animals but contains 2 tons of worms and another 2 tons of bacteria,
-fungi, and soil animals underground. Elaine Ingham of Soil Foodweb Incorporated
+fungi, and soil animals underground. [[elaine-ingham]] of Soil Foodweb Incorporated
 calls these subsurface populations "microherds."
 
 ## The Ecological Pyramid
@@ -64,8 +64,8 @@ dynamics:
 1. The dry, chemically-protected leaf falls to ground
 2. Rain and dew wash away protective polyphenols and bitter compounds
 3. Bacteria bloom on the moistened surface, secreting enzymes that tear apart
-   cell walls
-4. Wind-borne fungal spores germinate; fungal hyphae (white threads) knit a
+   [[alpha-1-3-glucan-fungal-pathogen-cell-walls]]
+4. Wind-borne fungal spores germinate; [[fungal-hyphae]] (white threads) knit a
    lacework across the leaf, digesting lignin and other tough compounds
 5. Larger decomposers arrive: millipedes, pill bugs, fly larvae, springtails,
    mites, and earthworms shred the leaf into small scraps (comminution)
@@ -84,40 +84,7 @@ The first organisms to dine on rotting [[hamilton-composting-and-organic-matter-
 invertebrates, bacteria, algae, fungi, and actinomycetes. Each plays a distinct
 role:
 
-- **Bacteria**: First to colonize; secrete enzymes to break down simple sugars
+- **Bacteria**: First to colonize; secrete enzymes to [[query-can-fungi-break-down-plastic-pollution]] simple sugars
 - **Fungi**: Digest lignin and other recalcitrant compounds; form vast mycelial
   networks that transport nutrients
 - **Actinomycetes**: Threadlike bacteria that give healthy soil its earthy smell
-- **Earthworms**: Most visible and important; turn 25 tons of soil per acre per
-  year, equivalent to one inch of topsoil every ten years
-- **Arthropods**: Millipedes, springtails, mites, and beetles shred and fragment
-  organic matter, increasing surface area for microbial attack
-
-## Building Soil Life
-
-The practical goal for ecological gardeners is to maximize biodiversity in garden
-soil. Key strategies include:
-
-- **Avoid tilling**: Preserves fungal networks, soil structure, and microbial
-  communities
-- **Apply mulch**: Feeds soil organisms, moderates temperature, retains moisture
-- **Compost in place**: [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] builds soil without disturbing existing
-  ecology
-- **Plant [[gaias-garden-cover-crops-soil-building]]**: Living roots exude sugars that feed soil microbes
-- **Minimize chemical inputs**: Pesticides and herbicides devastate soil life
-- **Diversify plantings**: Different [[mycorrhizal-root-exudates-pathogen-interactions]] support different microbial
-  communities
-
-## The Humus Molecule
-
-The end product of decomposition is humus—a complex, stable organic molecule that
-provides numerous soil benefits: improved water retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity,
-soil structure, and slow-release nutrient storage. Humus is what distinguishes
-living soil from dead mineral substrate. Building humus is the long-term goal of
-all soil management practices.
-
-## See Also
-
-- [[fungal-roles-soil-food-webs]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[ozier-pdc-composting-and-soil-building]]

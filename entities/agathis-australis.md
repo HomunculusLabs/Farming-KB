@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - ecological Society of New Zealand (1999). "The Kauri (Agathis australis) of New Zealand." Proceedings of the Ecological Society, 17, 1-42.
   - Halkett, A. (1921). "The Kauri Tree of New Zealand." New Zealand Forest Service Bulletin.
-  - Ogden, J. & Stewart, G.H. (1995). "Community dynamics of the New Zealand kauri (Agathis australis) forests." Journal of the Royal Society of New Zealand, 25(1), 47-64.
+  - Ogden, J. & Stewart, G.H. (1995). "[[dighton-aquatic-hyphomycete-conidia-community-dynamics]] of the New Zealand kauri (Agathis australis) forests." Journal of the Royal Society of New Zealand, 25(1), 47-64.
   - IUCN Red List (2020). "Agathis australis." IUCN Red List of Threatened Species.
   - Wyse, S.V. et al. (2014). "A new disease threatens New Zealand kauri." Australasian Plant Pathology, 43(4), 377-385.
 ---
@@ -24,13 +24,13 @@ sources:
 
 Agathis australis, commonly known as the kauri or New Zealand kauri pine, is a large coniferous tree in the family Araucariaceae.
 
-Endemic to the North Island of New Zealand, it is one of the largest and longest-lived tree species in the Southern Hemisphere, with historical specimens exceeding 5 meters in trunk diameter and 2,000 years in age.
+Endemic to the North Island of New Zealand, it is one of the largest and longest-lived tree species in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], with historical specimens exceeding 5 meters in trunk diameter and 2,000 years in age.
 
 The species is of immense ecological, cultural, and economic significance in New Zealand. Kauri forests once dominated much of the northern North Island but were extensively logged during the 19th and 20th centuries.
 
 ## Taxonomy and Morphology
 
-Agathis australis was described by David Don in 1832. The genus Agathis comprises approximately 20 species distributed across Southeast Asia, the Pacific, and Australasia.
+Agathis australis was described by David Don in 1832. The genus Agathis comprises approximately 20 species distributed across [[psilocybe-southeast-asia-pacific]], the Pacific, and Australasia.
 
 The species is the southernmost member of the genus and the only Agathis species native to New Zealand. Molecular phylogenetic studies confirm its placement within Araucariaceae alongside Araucaria and Wollemia.
 
@@ -38,11 +38,11 @@ Mature trees develop massive, columnar trunks that are remarkably straight and b
 
 Leaves are opposite, thick, leathery, and elliptical, 3 to 7 cm long and 1 to 3 cm wide. Juvenile leaves are larger, up to 10 cm long, and arranged in a distinctive bronze-green flush.
 
-The foliage of mature trees forms a dense, dome-shaped canopy that casts deep shade. Individual leaves persist on the tree for 6 to 12 years before being shed, contributing to the slow nutrient cycling characteristic of kauri forests.
+The foliage of mature trees forms a dense, dome-shaped canopy that casts deep shade. Individual leaves persist on the tree for 6 to 12 years before being shed, contributing to the slow [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] characteristic of kauri forests.
 
 Male and female cones are borne on the same tree. Male cones are cylindrical, 2 to 5 cm long, and clustered at branch tips. Female cones are globose, 5 to 8 cm in diameter, and disintegrate at maturity to release winged seeds.
 
-Seeds are flattened and winged, approximately 1 cm long. They are wind-dispersed and germinate readily on exposed mineral soil or decaying wood substrates.
+Seeds are flattened and winged, approximately 1 cm long. They are wind-dispersed and germinate readily on exposed mineral soil or decaying [[fungal-succession-wood-substrates]].
 
 ## Distribution and Habitat
 
@@ -60,11 +60,11 @@ Kauri regenerates primarily in canopy gaps created by the death of mature trees.
 
 ## Ecological Role
 
-Agathis australis is a foundational species in northern New Zealand forests, creating a distinctive forest type known as kauri forest. Mature kauri canopy creates a microclimate with reduced light and modified nutrient cycling that shapes the entire plant community.
+Agathis australis is a foundational species in northern New Zealand forests, creating a distinctive forest type known as kauri forest. Mature kauri canopy creates a microclimate with reduced light and modified [[biodiversity-of-fungi-decomposition-nutrient-cycling]] that shapes the entire plant community.
 
 The thick bark and shedding habit create a fire-resistant outer layer that protects mature trees from low-intensity wildfires. This fire tolerance gives kauri a competitive advantage over many angiosperm tree species.
 
-Kauri litter has a notably low nutrient content and decomposes slowly, creating nutrient-poor surface soils beneath mature trees. This "kauri effect" influences the composition of the understory, favoring species adapted to oligotrophic conditions.
+Kauri litter has a notably low [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] and decomposes slowly, creating nutrient-poor surface soils beneath mature trees. This "kauri effect" influences the composition of the understory, favoring species adapted to oligotrophic conditions.
 
 The characteristic soil pattern beneath kauri trees, with a thick humus layer overlying mineral soil, is sometimes called "kauri podzol." These soils are strongly leached and acidic, with pH values as low as 3.5 to 4.0 in the organic horizon.
 
@@ -72,7 +72,7 @@ The massive trunks provide habitat for epiphytes, ferns, and bryophytes. Old-gro
 
 Many native bird species, including kereru (New Zealand pigeon), kakariki (red-crowned parakeet), and tui, feed on kauri seeds and use the canopy for nesting. The seeds are an important food source during autumn and winter months.
 
-Kauri plays a significant role in New Zealand's carbon cycle. Old-growth kauri stores enormous quantities of carbon in both above-ground biomass and below-ground root systems. The loss of mature kauri forests to historical logging has had lasting effects on the regional carbon balance.
+Kauri plays a significant role in New Zealand's [[fungal-decomposition-and-the-global-carbon-cycle]]. Old-growth kauri stores enormous quantities of carbon in both above-ground biomass and below-ground root systems. The loss of mature kauri forests to historical logging has had lasting effects on the regional carbon balance.
 
 ## Timber and Uses
 
@@ -87,36 +87,3 @@ The gum was used commercially for varnishes, linoleum, and high-quality finishes
 Maori culture holds kauri in high regard as a taonga (treasure). The largest trees were given individual names and considered rangatira (chiefs) of the forest. Kauri wood was used for carving waka (canoes), wharenui (meeting houses), and weapons.
 
 Contemporary use of kauri timber is restricted to salvaged and recycled wood, as logging of standing trees is prohibited on public land. Swamp kauri, ancient logs preserved in peat swamps for up to 50,000 years, is commercially harvested for specialty wood products.
-
-The harvesting of swamp kauri is controversial due to its environmental impacts on wetland ecosystems and the irreplaceable archaeological and paleoecological information contained in these ancient deposits.
-
-## Conservation Status
-
-Agathis australis is classified as Nationally Vulnerable under the New Zealand Threat Classification System. The primary threats are the introduced soil-borne pathogen Phytophthora agathidicida, which causes kauri dieback disease.
-
-Kauri dieback was first identified in the 1970s and has since been confirmed in forests across the species' range. The pathogen infects the root system, causing lesions that girdle the tree and ultimately lead to death.
-
-Mature trees of all sizes are susceptible, and mortality rates in infected stands can exceed 50 percent. The disease is spread primarily by soil movement on footwear, vehicles, and equipment.
-
-Strict biosecurity measures are in place in kauri forests, including boardwalks, shoe-cleaning stations, and track closures in heavily infected areas. A national Kauri Dieback Programme coordinates research, surveillance, and management efforts.
-
-The remaining old-growth kauri forests are protected within conservation reserves and national parks. However, the long generation time of kauri means that recovery of lost populations will take centuries even under optimal conditions.
-
-Research into Phytophthora agathidicida includes genomic sequencing, phosphite injection treatments, and the search for disease-resistant genotypes. Breeding programs are exploring the genetic basis of resistance to inform future restoration efforts.
-
-Climate change adds a compounding threat to kauri conservation. Projected increases in temperature and changes in precipitation patterns may alter the suitability of current habitats and increase the susceptibility of stressed trees to disease.
-
-## See Also
-
-- [[celtis-australis]]
-
-- [[araucaria-araucana]]
-- [[ginkgo-biloba]]
-- [[metasequoia-glyptostroboides]]
-- [[sequoia-sempervirens]]
-- [[sequoiadendron-giganteum]]
-- [[pinus-radiata]]
-- [[cedrus-libani]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[taxodium-distichum]]

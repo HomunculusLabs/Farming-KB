@@ -12,7 +12,7 @@ tags: [ecosystem, mycology, mycorrhizal]
 
 Dighton (2003) details the profound influence of ectomycorrhizal (ECM) fungi
 on [[fungal-ecosystem-processes-overview]], including nutrient acquisition, decomposition
-interactions, plant community dynamics, carbon cycling, and ecosystem
+interactions, plant [[dighton-aquatic-hyphomycete-conidia-community-dynamics]], carbon cycling, and ecosystem
 resilience. ECM associations occur between a limited number of plant species
 (mainly trees) and a huge diversity of fungal taxa (basidiomycetes,
 ascomycetes, some zygomycetes), forming one of the most functionally
@@ -58,18 +58,18 @@ suppress leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]] by 
 (1971, 1975) first suggested strong interaction between mycorrhizal roots
 and the saprotrophic community. Dighton et al. (1987) showed that the
 saprotroph Mycena galopus reduced the decomposition potential of ECM fungi
-Suillus luteus and Hebeloma crustuliniforme on pine seedlings.
+Suillus luteus and [[hebeloma-crustuliniforme]] on pine seedlings.
 
 Colpaert and van Tichelen (1996) demonstrated that beech leaf litter
 decomposition was much less in the presence of Scots pine with ECM species
-(Thelephora terrestris, Suillus bovinus, Paxillus involutus) than with the
+([[thelephora-terrestris]], [[suillus-bovinus]], [[paxillus-involutus]]) than with the
 saprotroph Lepista nuda. [[fungal-nitrogen-mineralization-pathways]] occurred only in the
 presence of Lepista, suggesting ECM fungi are capable of decomposition in
 the absence of competing saprotrophs but are inferior competitors for organic
 resources.
 
 However, Lindahl et al. (1999) demonstrated net P transfer from the
-saprotroph Hypholoma fasciculare to ECM fungi, with up to 25% of saprotroph
+saprotroph [[hypholoma-fasciculare]] to ECM fungi, with up to 25% of saprotroph
 P captured within 30 days. Reciprocal transfer was three orders of magnitude
 lower, suggesting ECM fungi more readily absorb and translocate mineral
 nutrients derived from saprotroph activity. Singer and da Silva Araujo (1979)
@@ -88,47 +88,3 @@ Multiple studies demonstrate that ECM diversity enhances plant performance:
 - Chu-Chou and Grace (1985): Radiata pine with three ECM symbionts
   outperformed those with one.
 - Perry et al. (1989): Douglas fir seedling yield enhanced with increased
-  ECM partners.
-- Jonsson et al. (2001): Birch growth higher with eight ECM species than
-  single species.
-- Baxter and Dighton (2001): Plant biomass changes correlated with ECM
-  diversity per se rather than species composition. Increasing diversity
-  decreased shoot biomass but increased root biomass and root:shoot ratio.
-  Stepwise regression showed shoot mass (R2=0.129), root mass (R2=0.156),
-  root:shoot ratio (R2=0.224), and total P (R2=0.179) all significantly
-  correlated with diversity.
-
-## Response to Disturbance and Photosynthate Supply
-
-Cullings et al. (2001) showed that defoliation of lodgepole pine altered ECM
-species composition: the ecosystem-dominant Inocybe became rare while
-Agaricoid and Suilloid species persisted. Changing photosynthetic capacity of
-one species can affect mycorrhizal associations of neighboring trees of
-different species, suggesting community-level interdependence.
-
-Cairney and Burke (1996) describe heterogeneity of function within individual
-ECM mycelia as they exploit resource patches, driving enzyme expression,
-nutrient uptake, and translocation patterns. Cairney (1999) notes we know
-relatively little about physiological variation even among well-studied ECM
-species, let alone the myriad species that cannot be cultured.
-
-## Carbon Dynamics and Climate Relevance
-
-ECM fungi are significant carbon sinks. Below-ground allocation to ECM
-components is rarely adequately quantified. Bonan (1993) suggests coniferous
-trees allocate approximately twice as much carbon to roots as deciduous
-species, a trade-off related to low leaf [[dighton-litter-quality-fungal-decomposition-rates]] and low N
-mineralization rates. In coniferous forests, carbon investment into
-mycorrhizal enzyme synthesis may be a key adaptation to nutrient-poor
-environments. These below-ground carbon stores may be significant in climate
-change scenarios.
-
-## See Also
-
-- [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
-
-- dighton-arbuscular-mycorrhizal-plant-community-effects
-- [[dighton-fungi-climate-change-feedback]]
-- [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]
-- [[dighton-mycorrhizal-diversity-ecosystem-function]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

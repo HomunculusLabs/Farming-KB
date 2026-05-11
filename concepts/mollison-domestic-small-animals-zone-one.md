@@ -5,6 +5,7 @@ tags: [zone-one, rabbit, guinea-pig, pigeon, permaculture, smallstock]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,28 +88,3 @@ from kitchen wastes back into the garden system.
 Techniques in Zone One include complete mulching, intensive
 pruning of trees, annuals with fast replacement of crop, full
 land use, and nutrient recycling of household wastes. The
-integration of small animals into this intensive zone means that
-wastes from the house feed the animals, and animal manures are
-recycled to the garden beds within a very short distance.
-
-Small domestic and quiet animals are preferred in this zone
-because they do not require large forage ranges, are relatively
-easy to manage and protect, and their products (eggs, meat,
-manure) can be harvested without significant time or energy
-expenditure. The zoning principle is that the more visits needed,
-the closer the objects need to be.
-
-## Fish in the Home System
-
-Fish are listed among the small, quiet domestic animals
-appropriate for Zone 1. Small aquaculture systems, even as
-simple as a bathtub or small tank, can produce significant
-protein yields. Fish integrate with mollison-zone-one-garden-design
-- mollison-animal-integration-in-permaculture
-- mollison-poultry-duck-integration
-## See Also
-- [[bill-mollison]]
-- [[mollison-pdc-small-pond-frog-habitat-design]]
-- [[mollison-designers-temperate-zone-food-forest-design]]
-- [[mollison-pdc-zone-two-livestock-integration]]
-- [[small-scale-intensive-food-systems-mollison]]

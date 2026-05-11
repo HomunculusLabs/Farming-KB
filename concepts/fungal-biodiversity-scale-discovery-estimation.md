@@ -88,32 +88,3 @@ low abundance.
 Despite our incomplete knowledge, fungi are recognized as essential components
 of every terrestrial ecosystem. They serve as primary decomposers of plant
 litter and woody material, driving [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and carbon flow through
-ecosystems. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] form symbiotic associations with the roots of an
-estimated 80-90% of all plant species, providing mineral nutrients
-(particularly phosphorus and nitrogen) in exchange for photosynthetic carbon —
-a mutualistic relationship that is fundamental to terrestrial plant
-productivity and ecosystem stability.
-
-Endophytic fungi inhabit plant tissues without causing disease, in some cases
-conferring resistance to herbivores, pathogens, drought, or other
-environmental stresses. Pathogenic fungi regulate plant and animal
-populations, and fungicolous fungi (fungi that grow on other fungi) add
-another trophic layer to ecosystem complexity. The diversity of fungal
-functional roles means that the loss of fungal species has cascading
-consequences for entire ecosystems.
-
-The loss of undiscovered fungal species through habitat destruction represents
-an incalculable loss of biological diversity, ecosystem function, and
-potential human utility. Fungi are sources of antibiotics (penicillin,
-cephalosporins), immunosuppressants (cyclosporine), cholesterol-lowering drugs
-(statins), industrial enzymes (cellulases, proteases), and novel biochemical
-compounds with potential pharmaceutical applications. Every species driven to
-extinction before it is known represents a lost opportunity that can never be
-recovered.
-
-## See Also
-- [[fungal-inventory-and-survey-methods]]
-- [[fungal-biodiversity-species-estimation]]
-- [[fungal-biodiversity]]
-- [[decomposition]]
-- [[endophytic-fungi]]

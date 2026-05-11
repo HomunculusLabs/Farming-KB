@@ -16,7 +16,7 @@ Desertification is the deterioration of land, water, and biological resources. M
 
 ## The Fundamental Misunderstanding
 
-For millennia, humanity has believed that land damaged by grazing animals could be restored by simply leaving it undisturbed. This assumption seems logical and satisfies the intuition of cause and effect. It does apply to the stable environments of northern Europe and the eastern United States, where modern agricultural science developed. But it is catastrophically wrong for [[savory-brittle-environments]], which cover over half the earth's land surface.
+For millennia, humanity has believed that land damaged by grazing animals could be restored by simply leaving it undisturbed. This assumption seems logical and satisfies the intuition of [[fukuoka-textdoc-no-cause-and-effect-in-nature]]. It does apply to the stable environments of northern Europe and the eastern United States, where modern [[fukuoka-critique-laws-agricultural-science]] developed. But it is catastrophically wrong for [[savory-brittle-environments]], which cover over half the earth's land surface.
 
 The term desertification describes not just advancing sand dunes but the progressive failure of all [[fungal-ecosystem-processes-overview]]: succession declining toward simplicity, water cycles becoming ineffective, mineral cycles breaking down, and energy flow diminishing. These processes are interconnected, and failure in one accelerates failure in all.
 
@@ -30,7 +30,7 @@ Wild herds moved constantly, seldom occupying any area longer than two or three 
 
 ## Overrest: The Hidden Destroyer
 
-If overgrazing is the commonly recognized cause, **overrest** is the unrecognized one—and in brittle environments, often the more damaging. When grasses in brittle environments are not periodically grazed or trampled, old material accumulates and blocks sunlight from reaching basal growing points. The plants weaken and eventually die.
+If overgrazing is the commonly recognized cause, **overrest** is the unrecognized one—and in [[savory-non-brittle-environments]], often the more damaging. When grasses in brittle environments are not periodically grazed or trampled, old material accumulates and blocks sunlight from reaching basal growing points. The plants weaken and eventually die.
 
 On the Sevilleta Wildlife Refuge in New Mexico, fifty years of total rest in a brittle nine-inch-rainfall area produced dying perennial grasses with large bare spaces opening between plants. Despite years of seed production, no seedlings established on the bare, undisturbed surface. Similar patterns were documented at Crescent Lake Wildlife Refuge in Nebraska, where twelve years of rest showed weakened grasses and tap-rooted weed invasion, progressing to widespread grass death after fifty years.
 
@@ -71,9 +71,9 @@ Desertification is rarely caused by a single factor but by the interaction of ov
 
 ## The Scale of the Problem
 
-Desertification affects approximately two-thirds of the world's land surface. It is not confined to arid regions—much of what is classified as productive agricultural land is in fact desertifying, with declining soil organic matter, increasing erosion, rising input requirements, and falling water tables. The process is often invisible to people who see it daily because the changes are gradual.
+Desertification affects approximately two-thirds of the world's land surface. It is not confined to arid regions—much of what is classified as productive agricultural land is in fact desertifying, with declining [[knf-leaf-mold-humus]], increasing erosion, rising input requirements, and falling water tables. The process is often invisible to people who see it daily because the changes are gradual.
 
-In the United States, for example, soil erosion rates remain high despite decades of conservation programs. The underlying problem is that most conservation efforts address symptoms (planting trees, building terraces, reducing animal numbers) without addressing the root cause: the breakdown of the four ecosystem foundation blocks due to management that fails to account for brittleness and the time dimension of grazing.
+In the United States, for example, soil erosion rates remain high despite decades of conservation programs. The underlying problem is that most conservation efforts address symptoms (planting trees, building terraces, reducing animal numbers) without addressing the root cause: the breakdown of the four [[savory-ecosystem-foundation-blocks]] due to management that fails to account for brittleness and the time dimension of grazing.
 
 ## Reversal Through Holistic Management
 
@@ -81,19 +81,10 @@ Reversing desertification requires restoring effective function of all four ecos
 
 1. Defining a holistic goal that describes the desired future landscape
 2. Using planned grazing to provide the periodic disturbance that brittle environments require
-3. Managing stock density and recovery periods to prevent overgrazing while ensuring adequate animal impact
+3. Managing [[savory-fencing-economics-and-stock-density-curve]] and recovery periods to prevent overgrazing while ensuring adequate animal impact
 4. Monitoring soil surface conditions as the earliest indicator of change
 5. Adapting management based on [[savory-replanning-and-monitoring-feedback]]
 
 Documented results from ranches applying holistic management show rapid improvements in water infiltration, plant density, soil organic matter, and forage production—often within three to five years of implementation. These improvements occur not by adding inputs but by restoring the natural processes that maintained ecosystem health for millions of years.
 
 ## Sources
-
-- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 5-7, 18. Island Press, 1988.
-- Savory, Allan, and Jody Butterfield. *Holistic Management*. Island Press, 1999.
-
-## See Also
-
-- [[permaculture-grazing-and-pasture]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
-- [[livestock-fencing-guide]]

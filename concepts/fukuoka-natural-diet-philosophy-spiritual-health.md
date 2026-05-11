@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,21 +87,3 @@ Fukuoka described young people living primitively in orchard huts on his mountai
 This lifestyle represented for Fukuoka the practical application of his philosophy. It was not an ascetic exercise but a joyful existence of natural ecstasy, which exists only in nature and vanishes away from the earth. A human environment cannot exist apart from nature, and so agriculture must be made the foundation for living.
 
 ## Food and Spiritual Connection
-
-Fukuoka described the ideal human relationship with food in almost religious terms:
-
-The earth is the garden of God, and the sky is where He sits. The farmer who, chewing well the grain harvested from the Lord's garden, raises his face to the heavens in gratitude, lives the best and most perfect life possible.
-
-The act of eating becomes a form of communion with the divine. Chewing well, eating locally, consuming in moderation, and expressing gratitude are not merely health practices but spiritual disciplines. The food itself carries the character of the land and the person who grew it, making the connection between farmer and eater a sacred bond.
-
-## The Simple Diet Mandate
-
-Fukuoka distilled his dietary philosophy into a simple prescription: eat cooked and salted food, consume all things in moderation, gather foods of the seasons that grow close at hand. What one must then do is devote oneself fully to the principles of holism, the inseparability of the body from the land, and a simple local diet. People must realize that a diet of surfeit which relies on foods from far-off lands leads the world astray and invites human ills.
-
-## Related
-
-- [[natural-diet-philosophy]] Concepts
-
-- [[fukuoka-natural-body-and-health]]
-- [[do-nothing-farming]]
-- [[fukuoka-textdoc-decline-quality-food]]

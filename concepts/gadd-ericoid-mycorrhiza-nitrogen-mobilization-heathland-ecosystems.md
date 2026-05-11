@@ -1,5 +1,5 @@
 ---
-title: Ericoid Mycorrhizas and Nitrogen Mobilization in Heathland Ecosystems
+title: Gadd Ericoid Mycorrhiza Nitrogen Mobilization Heathland Ecosystems
 source: Fungi in the Environment - Gadd, Watkinson & Dyer (2007)
 tags: [ericoid-mycorrhiza, nitrogen, heathland, ericaceae, organic-nitrogen, peat, decomposition, stress-tolerance]
 related: [leake-mycorrhizal-carbon-sequestration-plant-community-composition, gadd-mineral-transformations-biogeochemical-cycles-fungi, aact-forest-litter-fungi-mycorrhizal-ingham]
@@ -7,11 +7,11 @@ related: [leake-mycorrhizal-carbon-sequestration-plant-community-composition, ga
 
 # Ericoid Mycorrhizas and Nitrogen Mobilization
 
-Ericoid mycorrhizas are a specialized form of mycorrhizal symbiosis formed
+Ericoid mycorrhizas are a specialized form of [[arbuscular-mycorrhizal-symbiosis]] formed
 between fungi and plants in the order Ericales. These associations are
 particularly important in acidic, nutrient-poor heathland, boreal, and
-peatland ecosystems where nitrogen availability is a primary limiting factor.
-The ability of ericoid mycorrhizal fungi to access organic nitrogen sources
+peatland ecosystems where [[nitrogen-availability-in-legumes]] is a primary limiting factor.
+The ability of [[singh-ericoid-mycorrhizal-fungi-remediation]] to access organic nitrogen sources
 that are unavailable to most other organisms gives ericaceous plants a
 critical competitive advantage in these harsh environments.
 
@@ -31,7 +31,7 @@ critical competitive advantage in these harsh environments.
 
 ### Host Plant Range
 - The Ericales encompasses a diverse group of plants including heathers
-  (Calluna vulgaris, Erica spp.), blueberries (Vaccinium spp.), cranberries,
+  ([[calluna-vulgaris]], Erica spp.), blueberries (Vaccinium spp.), cranberries,
   rhododendrons, and many other ornamental and ecologically important species
 - Many ericaceous plants are calcifuges, meaning they are excluded from
   calcium-rich soils, and are restricted to acidic substrates
@@ -42,7 +42,7 @@ critical competitive advantage in these harsh environments.
 
 ### The Nitrogen Problem in Heathlands
 - Heathland and peatland soils are characterized by extremely slow rates
-  of nitrogen mineralization due to low pH, low temperatures, waterlogging,
+  of [[fungal-nitrogen-mineralization-pathways]] due to low pH, low temperatures, waterlogging,
   and the production of recalcitrant plant litter rich in polyphenolics
 - In these systems, the majority of soil nitrogen exists in organic forms
   (proteins, peptides, amino acids, chitin, nucleic acids) rather than
@@ -88,43 +88,3 @@ them to break down complex organic nitrogen compounds:
   of metal-chelating organic acids
 - This tolerance enables ericaceous plants to colonize and stabilize
   contaminated sites where other vegetation cannot survive
-
-### Role in Peatland Carbon Balance
-- Ericoid mycorrhizal fungi influence peatland carbon dynamics through
-  their enzymatic activities, which can accelerate the decomposition of
-  peat and release of CO2
-- However, the net effect on the peatland carbon balance depends on
-  whether increased nitrogen availability stimulates plant productivity
-  (carbon input) more than it accelerates decomposition (carbon loss)
-- This balance has implications for understanding peatland responses to
-  atmospheric nitrogen deposition, which is a significant environmental
-  concern across Europe and North America
-
-### Community Dynamics
-- Different ericoid mycorrhizal fungal species vary in their enzymatic
-  capabilities, creating functional diversity within the mycorrhizal
-  community
-- Temporal succession of fungal species on ericaceous roots has been
-  documented, with early colonizers differing from those found on
-  mature roots
-- This functional diversity may enable ericaceous communities to access
-  a wider range of nitrogen sources and maintain productivity across
-  varying environmental conditions
-- Molecular surveys using ITS rDNA sequencing have revealed that the
-  diversity of ericoid mycorrhizal fungal communities in natural
-  heathlands is considerably greater than previously recognized from
-  culture-based studies, suggesting many undiscovered species and
-  potentially novel functional capabilities exist in these systems
-
-## See Also
-
-- [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]
-- [[gadd-mineral-transformations-biogeochemical-cycles-fungi]]
-- [[aact-forest-litter-fungi-mycorrhizal-ingham]]
-- davidson mathematical modelling rhizoctonia colonization dynamics
-
----
-
-*This page was mined from Chapter 8 of Gadd, Watkinson & Dyer (2007).*
-*Ericoid [[isotopic-tracers-mycorrhizal-research]] continues to advance with metagenomic and*
-*metatranscriptomic approaches revealing new dimensions of [[fungal-functional-diversity-decomposition]].*

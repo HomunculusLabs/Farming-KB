@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Natural Farming Seed Saving
 
-Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil. (see [[saving-seeds]]).
+Saving your own seeds preserves genetic diversity, adapts varieties to your local conditions, and eliminates dependence on commercial seed suppliers. After 3-5 years of selection, saved seeds become locally adapted to your climate and soil.
 
 ## Seed Types
 
@@ -69,3 +69,18 @@ Before planting saved seed, test viability:
 - [[seed-starting-indoors]] — for starting saved seeds
 - [[direct-seeding-techniques]] — for direct sowing
 - [[vegetable-growing-guide]] — for crop-specific growing info
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]]
+- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
+- [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
+- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]

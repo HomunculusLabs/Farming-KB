@@ -19,7 +19,7 @@ type: concept
 
 # Rust Germ Tube Tactile Sensing and Leaf Surface Navigation
 
-Rust fungi of the genus Puccinia are among the most destructive plant pathogens in agriculture. Black stem rust of wheat (Puccinia graminis) has caused crop losses of staggering proportions throughout history, and the ongoing evolutionary arms race between rust fungi and their cereal hosts drives one of the most intensively studied pathogen-plant interactions in biology. A remarkable aspect of rust infection is the ability of the microscopic germ tube — the first hypha emerging from a germinating spore — to navigate the complex topography of a leaf surface and locate stomatal pores using tactile sensing alone.
+[[biodiversity-rust-fungi-urediniomycetes]] of the genus Puccinia are among the most destructive plant [[fungal-pathogens-in-agriculture]]. Black stem rust of wheat (Puccinia graminis) has caused crop losses of staggering proportions throughout history, and the ongoing evolutionary arms race between rust fungi and their cereal hosts drives one of the most intensively studied pathogen-plant interactions in biology. A remarkable aspect of rust infection is the ability of the microscopic germ tube — the first hypha emerging from a germinating spore — to navigate the complex topography of a leaf surface and locate stomatal pores using tactile sensing alone.
 
 ## The Infection Challenge
 
@@ -42,7 +42,7 @@ The stomatal lips — the raised guard cells bordering each pore — project les
 
 ## Harvey Hoch's Surface Recognition Experiments
 
-**Harvey Hoch**, a plant pathologist at Cornell University, conducted a series of elegant experiments that demonstrated the rust fungus's ability to locate stomata using purely physical cues. His work stands as a model of creative [[lightproof-cap-experimental-design-phototropism]] in plant pathology.
+**Harvey Hoch**, a plant pathologist at Cornell University, conducted a series of elegant experiments that demonstrated the [[bloomfield-rust-fungus-life-cycles-puccinia-haustoria-spermatia]]'s ability to locate stomata using purely physical cues. His work stands as a model of creative [[lightproof-cap-experimental-design-phototropism]] in plant pathology.
 
 ### Plastic Leaf Replicas
 
@@ -79,46 +79,12 @@ The molecular mechanisms underlying the rust fungus's tactile perception are not
 
 ### Parallels with Human Touch
 
-These fungal mechanosensory mechanisms are directly related to the processes underlying human tactile sensation. Stretch-activated channels in the nerve cells of human fingertips open and close as fingers run over a surface, generating nerve impulses that signal contact with objects — including the varicose leaf veins detectable to human touch. However, human and fungal tactile sensitivity are tuned to fundamentally different needs. Humans cannot feel epidermal hills or stomatal lips — there would be no evolutionary advantage to such fine-scale perception. Human nerve endings are spaced far more widely than stomata, and the noise from fingerprints obscures any signal at that scale. On a molecular level, the fungal hypha's contact with the leaf is more intimate than any contact a human finger can make.
+These fungal mechanosensory mechanisms are directly related to the processes underlying human tactile sensation. Stretch-activated channels in the nerve cells of human fingertips open and close as fingers run over a surface, generating nerve impulses that signal contact with objects — including the varicose leaf veins detectable to human touch. However, human and fungal tactile sensitivity are tuned to fundamentally different needs. Humans cannot feel epidermal hills or stomatal lips — there would be no evolutionary advantage to such fine-scale perception. Human nerve endings are spaced far more widely than stomata, and the noise from fingerprints obscures any signal at that scale. On a molecular level, the [[woronin-bodies-septal-pore-plugging-fungal-hypha]]'s contact with the leaf is more intimate than any contact a human finger can make.
 
 ## Robby Roberson's Fungal Circuits
 
-**Robby Roberson**, working at Arizona State University, extended Hoch's methods to exert even finer control over fungal growth patterns. Using manufactured surfaces with defined topographic features, he directed the growth of rust mycelia along specific pathways. Onc mycelium lium had developed along a prescribed route, he passed electrical currents through the hyphae, exploring the possibility of creating a biochip — a living, breathing fungal computer. While this research was largely exploratory, it demonstrated the remarkable controllability of fungal growth using physical surface cues.
+**Robby Roberson**, working at Arizona State University, extended Hoch's methods to exert even finer control over [[brassinosteroid-fungal-growth-promotion]] patterns. Using manufactured surfaces with defined topographic features, he directed the growth of rust mycelia along specific pathways. Onc mycelium lium had developed along a prescribed route, he passed electrical currents through the hyphae, exploring the possibility of creating a biochip — a living, breathing fungal computer. While this research was largely exploratory, it demonstrated the remarkable controllability of fungal growth using physical surface cues.
 
 ## The Arms Race: Rust vs. Wheat
 
-Following successful entry through a stoma, successive rounds of mycelial proliferation within the plant lead to pustule formation and massive uredospore production. This stage of the life cycle functions like a photocopier, cloning the fungus as immense numbers of spores that can blanket entire fields after a single wind gust. With permissive winds, spores travel hundreds of miles, enabling one infected crop to spawn an epidemic.
-
-### Formae Speciales
-
-Rust species encompass specialized races called **formae speciales** (f. sp.), each targeting particular crops. Puccinia graminis includes:
-
-- f. sp. tritici — infects wheat
-- f. sp. avenae — attacks oats
-- f. sp. secalis — targets rye
-
-Further specialization exists within each forma specialis, as not all [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] are equally susceptible. This extraordinary specificity means that a rust race adapted to one wheat variety may be entirely unable to infect another.
-
-### The Hypersensitive Response
-
-When a rust lands on a resistant plant, a **hypersensitive reaction** occurs. The plant destroys its own cells around the point of fungal penetration, forming a tiny fleck of dead tissue in the epidermis. This deliberate cell death strategy is programmed into the plant genome and is a crucial defense because it starves the fungus of living cytoplasm, preventing spread of the infection.
-
-Evolution favors the emergence of new rust races that overcome plant defense mechanisms, while the plant in turn alters its response through natural or artificial selection. This co-evolutionary arms race drives continuous genetic change in both pathogen and host. Plant breeders rely on basic research like Hoch's to inform their selection of resistant crop varieties, using knowledge of the fungus's sensory mechanisms to develop plants whose surface features are less recognizable to invading germ tubes.
-
-## Agricultural Significance
-
-The effectiveness of rust fungi as crop pathogens is intimately connected to modern agricultural practices. Monocultures of genetically identical crops provide the ideal conditions for epidemic disease — once a rust race evolves to overcome a crop's defenses, every plant in the field is equally vulnerable. The photocopier-like uredospore production can then generate billions of spores from a single infection, each capable of initiating a new disease cycle on a neighboring plant. Understanding the [[plant-sensory-biology-smell-touch-hearing]] of the germ tube is not merely an academic exercise; it provides the foundation for developing novel disease resistance strategies that exploit the fungus's dependence on physical cues for successful infection.
-
-### Stomatal Distribution and Rust Success
-
-The distribution of stomata on cereal leaves is itself an evolutionary adaptation that balances gas exchange needs with vulnerability to pathogen invasion. Stomata are concentrated along specific files of epidermal cells, leaving large areas of the leaf surface devoid of openings. From the plant's perspective, this distributes gas exchange efficiently while minimizing the total area of vulnerable tissue. From the rust's perspective, the cross-cutting navigation strategy has evolved to compensate for this sparse distribution of entry points.
-
-### Implications for Resistance Breeding
-
-Knowledge of the rust's tactile sensing mechanisms opens several avenues for breeding resistant crops. If the fungus requires a 0.5 µm ridge to recognize a stoma, then leaf surface modifications that alter the microtopography of the stomatal region — for example, increasing or decreasing the height of the guard cell lips — could disrupt the recognition process. Plant breeders could potentially select for varieties whose stomatal topography is invisible to the rust germ tube's tactile sensors, providing a physical defense that does not depend on [[plant-hormones-and-chemical-signaling-systems]] pathways that the pathogen might evolve to circumvent.
-
-## See Also
-
-- [[ingham-leaf-surface-biology-exudates]]
-- [[plant-defense-mechanisms]]
-- [[rust-fungi]]
+Following successful entry through a stoma, successive rounds of mycelial proliferation within the plant lead to pustule formation and massive uredospore production. This stage of the [[agaricus-campestris-biology-and-life-cycle]] functions like a photocopier, cloning the fungus as immense numbers of spores that can blanket entire fields after a single wind gust. With permissive winds, spores travel hundreds of miles, enabling one infected crop to spawn an epidemic.

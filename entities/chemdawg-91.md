@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-Chemdawg 91 (also written Chemdog 91) is a legendary hybrid cannabis strain and one of the most influential parent lines in modern [[oner-cannabis-breeding-fundamentals]].
+Chemdawg 91 (also written Chemdog 91) is a legendary [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain and one of the most influential parent lines in modern [[oner-cannabis-breeding-fundamentals]].
 
-The strain originated in the early 1990s from a now-famous seed found in a bag of Chemdog purchased at a Grateful Dead concert.
+The strain originated in the early 1990s from a now-famous seed found in a bag of Chemdog purchased at a [[oner-chemdawg-origin-legend-grateful-dead-genetics]] concert.
 
 Chemdawg 91 is the direct parent of numerous celebrated cultivars including Sour Diesel, OG Kush, and their countless descendants.
 
@@ -28,7 +28,7 @@ It carries a reputation for extreme potency, distinctive diesel-kerosene aroma, 
 
 ## Lineage
 
-The Chemdawg lineage traces back to a small number of seeds discovered in early 1990s Colorado by the breeder known as Chemdog.
+The [[chemdawg-lineage-and-legacy]] traces back to a small number of seeds discovered in early 1990s Colorado by the breeder known as Chemdog.
 
 These seeds were found in approximately one ounce of high-quality cannabis purchased at a Grateful Dead show.
 
@@ -44,7 +44,7 @@ Buds are medium to large in size with a dense, rounded structure typical of indi
 
 The calyxes are tightly packed and coated in a thick layer of milky-white trichomes that give the flowers a frosted appearance.
 
-Colors range from bright to forest green with occasional flashes of deep purple, especially in cooler growing conditions.
+Colors range from bright to [[trichoderma-forest-green-mold-guide]] with occasional flashes of deep purple, especially in cooler growing conditions.
 
 Pistils are copper-orange to rust-colored, abundant, and curling through the resinous bud surface.
 
@@ -74,7 +74,7 @@ Limonene provides citrus undertones and is associated with mood elevation and st
 
 Secondary terpenes include humulene, pinene, and trace amounts of ocimene.
 
-The terpene combination produces the signature "Chemdawg" scent that has become a benchmark in cannabis breeding.
+The terpene combination produces the signature "Chemdawg" scent that has become a benchmark in [[cannabis-breeding-basics]].
 
 ## Cannabinoid Profile
 
@@ -82,50 +82,8 @@ Chemdawg 91 is a high-THC cultivar with typical flower testing between 20% and 2
 
 CBD content is consistently low, usually below 0.1%, which is typical of Chemdawg lineage strains.
 
-Minor cannabinoids including CBC, CBG, and THCV may be present in trace amounts depending on phenotype and growing conditions.
+[[cannabis-minor-cannabinoids]] including CBC, CBG, and THCV may be present in trace amounts depending on phenotype and growing conditions.
 
 ## Effects
 
 Onset is rapid, typically within 1–3 minutes of inhalation, beginning with a pronounced cerebral rush.
-
-The initial head high is euphoric, creative, and slightly psychedelic before transitioning into a heavy body stone.
-
-Peak effects occur at 30–60 minutes and can last 2–3 hours, with residual relaxation persisting longer.
-
-Common applications include stress relief, pain management, appetite stimulation, and evening relaxation.
-
-Due to its potency, Chemdawg 91 is generally recommended for experienced consumers rather than novice users.
-
-## Cultivation
-
-Flowering time is approximately 8–9 weeks indoors, with outdoor harvest finishing in early to mid-October.
-
-Indoor yields are moderate at 12–16 ounces per square meter under optimal conditions.
-
-The strain is considered moderately difficult to cultivate, requiring attention to humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]].
-
-Plants are susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis in high-humidity environments.
-
-Chemdawg 91 responds well to low-stress training (LST) and scrog methods to manage its indica-leaning growth structure.
-
-The strain is available as clones from the original cut, which is tightly held by a small number of cultivators.
-
-## Notable Progeny
-
-Chemdawg 91 is one of the most influential parent lines in modern [[vic-high-cannabis-genetics-mendelian-inheritance]].
-
-Sour Diesel (Chemdawg 91 × unknown) became one of the best-selling strains of the 2000s.
-
-OG Kush lineage is widely believed to trace back to a Chemdawg 91 cross, though the exact pathway is debated.
-
-Girl Scout Cookies (OG Kush × Durban Poison) and its descendants carry Chemdawg 91 genetics indirectly.
-
-Numerous Chemdawg 91 crosses exist, including Stardawg,Underdawg, and various Chemdawg phenotypes.
-
-## See Also
-
-- [[og-kush-cannabis-entity]]
-- [[northern-lights]]
-- [[wedding-cake]]
-- [[girl-scout-cookies]]
-- [[myrcene]]

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 4-T-TRIS
 
-PIHKAL entry #179. 4-THIOTRESCALINE; 4-THIOTRISESCALINE;.
+[[2c-b-pihkal-entry-20]] #179. 4-THIOTRESCALINE; 4-THIOTRISESCALINE;.
 
 ## Chemical Name
 
@@ -86,14 +86,4 @@ ice/MeOH bath, there was added 125 mL of a 1.6 M solution of
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[3-t-tris-entity-pihkal]]
-
-- [[eme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.

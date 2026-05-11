@@ -52,7 +52,7 @@ improves drought resilience and reduces irrigation needs. Simultaneously,
 humus helps clay soils drain better by preventing fine clay particles from
 compacting into impermeable layers, and helps sandy soils retain moisture that
 would otherwise percolate away rapidly. The
-[[soil-food-web]], and those organisms in turn
+[[soil-foodweb]], and those organisms in turn
 produce more humus as they process organic matter. This living soil system
 creates a positive feedback loop: more humus supports more soil life, which
 produces more humus. However, this cycle can be broken by practices that

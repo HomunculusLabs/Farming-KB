@@ -14,7 +14,7 @@ sources:
   - Capparelli E et al. (2003). "Glaucine: a review of its pharmacology, toxicology and pharmacokinetics." Phytotherapy Research 17(7): 771-777.
   - Froldi G et al. (1997). "Calcium antagonist activity of glaucine in isolated rat aorta." Pharmacological Research 36(3): 229-233.
   - Schmeller T et al. (1997). "Biochemical activities of aporphine alkaloids." Phytochemistry 44(3): 443-449.
-  - Orallo F (1996). "Study of the in vivo and in vitro cardiovascular effects of the aporphine alkaloid glaucine." Planta Medica 62(1): 35-40.
+  - Orallo F (1996). "Study of the in vivo and in vitro [[blesching-cannabis-hypertension-cardiovascular-effects]] of the aporphine alkaloid glaucine." Planta Medica 62(1): 35-40.
   - Wright CW et al. (1993). "Aporphine alkaloids from Glaucium flavum." Phytochemistry 34(3): 831-833.
 ---
 
@@ -26,7 +26,7 @@ Glaucine is an aporphine alkaloid found predominantly in the plant genus Glauciu
 
 It was first isolated from Glaucium flavum (yellow horned poppy) and has been used in European herbal medicine as an antitussive for centuries.
 
-Glaucine shares structural features with apomorphine and has been investigated for a range of pharmacological activities including bronchodilation, anti-inflammatory, and antitussive effects.
+Glaucine shares [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] with apomorphine and has been investigated for a range of pharmacological activities including bronchodilation, anti-inflammatory, and antitussive effects.
 
 Unlike benzylisoquinoline opium alkaloids, glaucine belongs to the aporphine structural class, formed by oxidative coupling of benzylisoquinoline precursors.
 
@@ -70,11 +70,11 @@ The related species Glaucium corniculatum and Glaucium oxylobum also accumulate 
 
 Glaucine has been detected in other Papaveraceae genera including Corydalis, Dicranostigma, and Stylophorum.
 
-Corydalis species, particularly Corydalis yanhusuo and Corydalis cava, contain glaucine as one of several bioactive aporphine alkaloids.
+Corydalis species, particularly [[corydalis-yanhusuo]] and Corydalis cava, contain glaucine as one of several bioactive aporphine alkaloids.
 
 The biosynthesis of glaucine proceeds through (S)-reticuline via the aporphine pathway, involving oxidative coupling catalyzed by berberine bridge enzyme homologs.
 
-Environmental factors including soil composition, light exposure, and harvest timing significantly influence glaucine content in cultivated Glaucium plants.
+[[duggar-mushroom-environmental-factors-temperature-moisture-light]] including soil composition, light exposure, and harvest timing significantly influence glaucine content in cultivated Glaucium plants.
 
 ## Medical Applications
 
@@ -84,37 +84,6 @@ Its bronchodilatory properties have led to investigation as an adjunct treatment
 
 The anti-inflammatory effects of glaucine are mediated through suppression of NF-κB signaling and reduction of pro-inflammatory cytokines including TNF-α and IL-6.
 
-Glaucine has shown antibacterial activity against Gram-positive bacteria including Staphylococcus aureus and Bacillus subtilis in in vitro assays.
+Glaucine has shown antibacterial activity against Gram-positive bacteria including [[staphylococcus-aureus]] and [[bacillus-subtilis]] in in vitro assays.
 
 Cardiovascular studies have demonstrated that glaucine produces dose-dependent hypotension in animal models through combined PDE inhibition and calcium channel blockade.
-
-Topical glaucine formulations have been investigated for their anti-aging effects on skin, based on the compound's ability to inhibit melanogenesis and reduce inflammatory mediators.
-
-Despite promising preclinical data, large-scale clinical trials validating glaucine's therapeutic efficacy in humans remain limited.
-
-## Legal Status
-
-Glaucine is not scheduled as a controlled substance in any major jurisdiction.
-
-It is available as an over-the-counter or prescription antitussive medication in several Eastern European countries and Russia.
-
-In the European Union, glaucine-containing preparations are regulated as traditional herbal medicines under Directive 2004/24/EC.
-
-The compound is not listed in the UN Convention on Psychotropic Substances and has no recognized abuse potential.
-
-Glaucine is sold as a dietary supplement in some countries, though regulatory oversight of herbal products varies significantly by jurisdiction.
-
-The plant sources of glaucine, particularly Glaucium species, are not subject to international narcotics controls despite their taxonomic proximity to opium poppy.
-
-## See Also
-
-- [[morphine]]
-- [[codeine]]
-- [[apomorphine]]
-- [[nuciferine]]
-- [[corydalis-yanhusuo]]
-- [[corydalis-cava]]
-- [[papaver-somniferum]]
-- [[caffeine]]
-- [[nicotine]]
-- dopamine

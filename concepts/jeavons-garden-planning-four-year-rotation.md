@@ -88,17 +88,3 @@ The annual cycle follows the seasons. In winter, plan the garden and order
 open-pollinated, untreated seeds. Make flats, trellises, mini-greenhouses, and
 shade-netting units. In spring, plant flats, start compost piles, harvest
 compost crops, dig beds, spread cured compost, and plant cool-weather crops
-followed by warm-weather crops. In summer, plant summer crops, keep the garden
-watered and weeded, and harvest. In fall, start additional compost piles with
-leaves and garden waste, harvest summer crops, and plant fall and winter
-compost crops.
-
-Buying seeds in bulk from a co-op grocery store can reduce costs dramatically.
-Seeds for 6 months of vegetables can cost less than $2 when purchased in bulk,
-compared to $10 to $20+ from retail packets.
-
-## See Also
-
-[[jeavons-biointensive-spacing]]
-[[jeavons-master-planning-mini-farms]]
-[[jeavons-crop-rotation-detail]]

@@ -48,9 +48,9 @@ This veil is unique among North American polypores and serves to retain moisture
 
 ## Distribution and Habitat
 
-*Cryptoporus volvatus* is widely distributed across temperate and boreal coniferous forests of North America, from Alaska through Canada and the Pacific Northwest, extending into the Rocky Mountains and occasionally the northeastern United States. It has also been reported in Europe and Asia, though it is far less common outside North America.
+*Cryptoporus volvatus* is widely distributed across temperate and boreal coniferous forests [[berry-growing]], from Alaska through Canada and the [[psilocybin-north-america-pacific-northwest]], extending into the Rocky Mountains and occasionally the northeastern United States. It has also been reported in Europe and Asia, though it is far less common outside North America.
 
-The fungus fruits almost exclusively on recently killed or dying conifers, particularly lodgepole pine (*Pinus contorta*), ponderosa pine (*P. ponderosa*), and other hard pines. It occasionally occurs on spruce (*Picea* spp.) and Douglas-fir (*Pseudotsuga menziesii*).
+The fungus fruits almost exclusively on recently killed or dying conifers, particularly lodgepole pine (*Pinus contorta*), ponderosa pine (*P. ponderosa*), and other hard pines. It occasionally occurs on spruce (*Picea* spp.) and Douglas-fir (*[[pseudotsuga-menziesii]]*).
 
 It is strongly associated with **bark beetle kill**. The beetles carry *Cryptoporus* spores on their bodies and introduce them into the phloem when they attack trees. The fungus colonizes the sapwood after the tree dies.
 
@@ -70,7 +70,7 @@ Research on *Cryptoporus volvatus* has identified several bioactive metabolites.
 
 A triterpenoid compound, cryptoporic acid, has been isolated from the species and shows mild cytotoxic activity against certain cancer cell lines. However, this research remains preliminary.
 
-Antimicrobial activity has also been reported, with extracts showing inhibition of Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*.
+Antimicrobial activity has also been reported, with extracts showing inhibition of Gram-positive bacteria including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*.
 
 ## Edibility
 
@@ -82,33 +82,8 @@ The species is occasionally confused with young specimens of *Ganoderma* species
 
 *C. volvatus* is not commercially cultivated. Its requirement for freshly killed conifer sapwood with specific bark beetle-associated conditions makes [[fukuoka-matsutake-artificial-cultivation-attempt]] impractical.
 
-Laboratory cultures can be maintained on standard fungal media such as malt extract agar. The mycelium is white, initially cottony, becoming more zonate and compact with age. Growth is moderately slow at room temperature.
+Laboratory cultures can be maintained on standard fungal media such as [[malt-extract-agar]]. The mycelium is white, initially cottony, becoming more zonate and compact with age. Growth is moderately slow at room temperature.
 
 ## Similar Species
 
 The veiled pore surface of *C. volvatus* is so distinctive that confusion with other polypores is rare. However, a few species share some superficial similarities.
-
-Young specimens of **ganoderma applanatum** can appear similarly pale and convex, but that species lacks the veil entirely and develops a characteristic dark, bumpy crust with age. The pore surface of *G. applanatum* is exposed and turns brown when bruised.
-
-**Fomes fomentarius** has a hoof-shaped fruiting body with a gray to black crust. Its pores are open and visible, and it typically fruits on hardwoods rather than conifers.
-
-**[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** is much smaller, thinner, and displays distinct concentric color zones. It has an exposed pore surface and is far more common on hardwood logs and stumps.
-
-**Tyromyces chioneus** can appear similar when young due to its whitish cap, but it lacks a veil and has much larger, angular pores. It also tends to fruit on hardwoods.
-
-## Forest Pathology Significance
-
-*Cryptoporus volvatus* plays a notable role in forest ecology as an indicator and agent of wood decay in beetle-killed stands. In regions experiencing widespread bark beetle outbreaks — particularly the mountain pine beetle epidemic in western North America — *C. volvatus* can become one of the most frequently observed fungi on standing dead timber.
-
-Forest pathologists use the presence of *C. volvatus* as a field indicator of recent beetle-induced mortality. Its appearance helps managers assess the timing and extent of bark beetle damage in forest health surveys.
-
-The species contributes to the early stages of [[fungal-wood-decomposition-spatial-variation]] in conifer ecosystems. By breaking down the sapwood of killed trees, it facilitates the entry of later-succession decay fungi and accelerates [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. This process is important for maintaining soil fertility and forest regeneration after disturbance events.
-
-## See Also
-
-- [[ganoderma-lucidum]]
-- [[inonotus-obliquus]]
-- [[daedaleopsis-confragosa]]
-- [[laricifomes-officinalis]]
-- [[gloeophyllum-trabeum]]
-- [[lentinula-edodes]]

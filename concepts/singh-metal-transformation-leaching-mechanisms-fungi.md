@@ -16,12 +16,12 @@ type: concept
 
 # Mechanisms of Metal Transformation and Leaching by Fungi
 
-Fungi possess diverse mechanisms for transforming metals and metalloids
+Fungi possess diverse mechanisms for transforming [[staycare-fungal-biomethylation-of-metals-and-metalloids]]
 in the environment. These mechanisms include biosorption, reduction,
 methylation, dealkylation, and organic acid-mediated leaching. Fungal
 transformations can alter the speciation, mobility, and toxicity of
 metals, making them important agents in bioremediation and
-biogeochemical cycling.
+[[gadd-fungal-metal-transformations-biogeochemical-cycling]].
 
 ## Biosorption Mechanisms
 
@@ -54,7 +54,7 @@ adsorption capacity. The amine functional groups of Mucor cell walls also
 contribute to chromium removal from tanning effluent.
 
 Two mechanisms govern the removal of Cr(VI) from aqueous solution by
-dead Aspergillus niger biomass. During mechanism I, Cr(VI) is reduced
+dead [[aspergillus-niger]] biomass. During mechanism I, Cr(VI) is reduced
 directly to Cr(III) by contact with the biomass. Mechanism II consists
 of three steps: binding of Cr(VI) to positively charged groups in the
 cell wall, reduction of Cr(VI) to Cr(III) by adjacent functional groups,
@@ -71,7 +71,7 @@ Metal oxalates are produced by a wide range of fungi, including
 mycorrhizas and lichenicolous fungi.
 
 The white-rot fungi Bjerkandera fumosa, Phlebia radiata, and Trametes
-versicolor and the brown-rot fungus Fomitopsis pinicola produce oxalate
+versicolor and the brown-rot fungus [[fomitopsis-pinicola]] produce oxalate
 crystals at high levels on metal oxide substrates including ZnO and
 Co3(PO4)2. In brown-rot fungi, induction of oxalic [[staycare-fungal-organic-acid-production-metal-leaching]] is
 related to copper tolerance, with concentrations maintained as high as
@@ -79,7 +79,7 @@ related to copper tolerance, with concentrations maintained as high as
 facilitates leaching of metals from treated wood.
 
 One-third of soil fungal isolates can solubilize at least one toxic metal
-compound. In Penicillium simplicissimum, adsorption of zinc is
+compound. In [[penicillium-simplicissimum]], adsorption of zinc is
 accompanied by the production of citric acid. The cultural filtrate of
 Aspergillus niger can solubilize 18% Cu, 7% Ni, and 4% Co from solid
 substrates. Fe(III) can be solubilized by a low-molecular-weight
@@ -87,55 +87,4 @@ chelating compound known as ferrichrome.
 
 ## Selenium Volatilization
 
-Alternaria alternata causes volatilization of substantial amounts of
-selenium to the dimethylselenide form. The volatilization process is
-optimized and used in the [[staycare-composting-as-a-fungal-bioremediation-strategy]] of contaminated water
-and land. The mechanism of fungal selenium transformation involves
-biomethylation, converting inorganic selenium species into volatile
-organic forms that can be captured or dispersed.
-
-## Arsenic Methylation
-
-Several fungal species including Candida humicola, Gliocladium roseum,
-and Penicillium sp. methylate arsenic compounds such as arsenate
-[As(V)], arsenite [As(III)], and methylarsonic acid to volatile
-dimethylarsine or trimethylarsine. This biomethylation process
-effectively removes arsenic from contaminated water and soil by
-converting it into volatile forms. The process is enzymatically mediated
-and represents an important detoxification mechanism.
-
-## Silver Reduction and Nanoparticle Formation
-
-Fusarium oxysporum reduces silver ions in solution, forming stable
-silver hydrosol. Silver nanoparticles of 5 to 15 nm are stabilized by
-proteins of the fungus. The reduction of silver ions occurs due to an
-enzymatic process, demonstrating the potential of fungi in the synthesis
-of metallic nanoparticles with environmental remediation applications.
-
-## Metal Solubilization from Alloys and Minerals
-
-Certain species of Penicillium are known to remove iron from alloys.
-Penicillium janthinellum F-13 reduces aluminum toxicity on different
-media, although tolerance of high external Al concentrations appears to
-involve a different mechanism. Fungi can also solubilize phosphate from
-rock phosphate, with Penicillium variable P16 achieving maximum soluble P
-of 0.58 g/l during batch fermentation cycles. This phosphorus
-solubilization capability has implications for both bioremediation and
-agricultural applications.
-
-## Lead Uptake Pathways
-
-A three-step mechanism of Pb(II) accumulation has been advocated:
-(1) metabolism-independent initial sorption to cell walls, (2) metabolism-
-dependent intracellular uptake, and (3) metabolism-dependent or
--independent accumulation after 24 hours. TEM analysis shows that Pb(II)
-is associated with the cell wall and membrane after 3 minutes and with
-the cytoplasm after 2 hours in Saccharomyces cerevisiae. FTIR
-spectroscopic analysis reveals the involvement of COOH groups of
-acetone-washed yeast biomass in lead biosorption.
-
-## See Also
-
-- [[singh-fungal-transformation-metals-metalloids]]
-- [[singh-fungal-biosorption-heavy-metals]]
-- [[singh-fungal-biosorption-cadmium]]
+[[alternaria-alternata]] causes volatilization of substantial amounts of

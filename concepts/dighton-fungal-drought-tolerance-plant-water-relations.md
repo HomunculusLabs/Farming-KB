@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Drought Tolerance and Plant Water Relations
 
-Mycorrhizal associations and [[fungi-in-the-environment-fungal-endophytes-plant-communities]] can significantly influence
+[[plants-without-mycorrhizal-associations]] and [[fungi-in-the-environment-fungal-endophytes-plant-communities]] can significantly influence
 plant water relations and help alleviate drought stress in host plants. This
 role may be as ecologically important as the nutritional benefits that fungi
 provide, and in some cases may represent the primary rationale for the
@@ -40,12 +40,12 @@ mycorrhizal effect on plant water status is not merely a stress-response
 phenomenon but represents a fundamental alteration of plant hydraulic
 properties.
 
-The effect of arbuscular mycorrhizal infection of tropical trees Acacia
-nilotica and Leucaena leucocephala benefited Leucaena most in the presence of
+The effect of arbuscular mycorrhizal infection of [[mollison-designers-moringa-and-multipurpose-tropical-trees]] Acacia
+nilotica and [[leucaena-leucocephala]] benefited Leucaena most in the presence of
 drought conditions. The addition of phosphorus improved the growth of both
 species, but the effect of mycorrhizae was greater than the effect of P
 addition in Leucaena under drought stress (Michelsen and Rosendahl, 1990).
-This indicates that mycorrhizal drought protection operates beyond simple
+This indicates that [[mycorrhizal-drought-and-temperature-tolerance]] protection operates beyond simple
 phosphorus-mediated improvements.
 
 Cruz et al. (2000) demonstrated mycorrhizal drought protection in papaya,
@@ -70,13 +70,13 @@ widespread and ecologically important phenomenon.
 
 ## Endophytic Fungi and Drought Tolerance
 
-Protection against drought is not restricted to mycorrhizal endophytic fungal
+Protection against drought is not restricted to mycorrhizal [[endophytic-fungal-diversity]]
 species. Leaf endophytes of grasses have been shown to confer drought tolerance
 through the production of loline alkaloids, which act as osmoregulators
 (Belesky and Malinowski, 2000). These fungal alkaloids help maintain cellular
 turgor and metabolic function under water deficit conditions.
 
-However, the effect of fungal endophytes on drought tolerance is not
+However, the effect of [[fungal-endophytes]] on drought tolerance is not
 universal. Cheplick et al. (2000) found no benefit of endophytes in Lolium
 perenne for drought tolerance; in fact, growth under both droughty and normal
 conditions was lower in the presence of the endophyte. This indicates that the
@@ -88,40 +88,3 @@ severity and timing of drought stress.
 
 The influence of fungi on drought tolerance extends to saprotrophic species.
 Inoculation of seed or seedlings of the Nigerian pulpwood tree Gmelina
-arborea with the saprotrophic fungus Chaetomium bostrychoides increased seed
-germination and enhanced tolerance to desiccating conditions (Osonubi et al.,
-1990). Seedlings inoculated at the seed stage showed markedly greater biomass
-after drought events compared to uninoculated controls, with shoot biomass
-increasing from 5.89 to 9.36 g dry weight and root biomass from 2.65 to 4.47
-g dry weight.
-
-## Interactions Between Drought and Other Stresses
-
-Drought stress frequently interacts with other [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that
-affect fungal function. Increased soil salinity, which often accompanies
-irrigation in agroecosystems, can reduce the germination of arbuscular
-mycorrhizal spores and reduce extraradical hyphal growth (Juniper and Abbott,
-1993). Some degree of tolerance of arbuscular mycorrhizae to salinity has been
-observed (Sengupta and Chaudhuri, 1990), although reductions in their
-development occur with increasing salinity. Johnson-Green et al. (2001)
-suggested that although mycorrhizal function is reduced in highly saline
-soils, mycorrhizae could still be of benefit in the revegetation of
-salt-degraded soils.
-
-## Ecosystem Implications
-
-The role of fungi in plant drought tolerance has significant implications for
-understanding ecosystem responses to [[dighton-fungi-climate-change-feedback]]. As drought frequency and
-intensity increase in many regions, the mycorrhizal and endophytic
-associations of plants may become increasingly important for maintaining plant
-productivity and [[core-endorhiza-bacterial-community-composition-cannabis]]. The fungal component of the soil
-biota represents a largely unmanaged factor that could buffer ecosystems
-against the effects of increasing aridity.
-
-## See Also
-
-- [[gadd-lichens-water-relations-symbiosis]]
-
-- [[dighton-salinity-effects-fungal-communities]]
-- [[dighton-fungi-desert-arid-ecosystems]]
-- [[endophytic-fungi-plant-defense-dighton]]

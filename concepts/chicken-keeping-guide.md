@@ -5,24 +5,25 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-living.md"
 ---
 
 Updated: 2026-04-18
 
-Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living, Nicole Faires
+Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], [[nicole-faires]]
 
-Chickens are the most accessible livestock for small-scale and homestead farming. They provide eggs, meat, manure, and pest control while requiring relatively modest space and investment.
+Chickens are the most accessible livestock for small-scale and homestead farming. They provide eggs, meat, manure, and [[hamilton-beneficial-insects-and-biological-pest-control]] while requiring relatively modest space and investment.
 
 ## How Chickens Fit into a Permaculture System
 
 Chickens serve multiple functions in a sustainable homestead:
 
-- **Egg production**: A healthy hen lays approximately 300 eggs per year
+- **[[pastured-egg-production]]**: A healthy hen lays approximately 300 eggs per year
 - **Meat**: Dual-purpose breeds provide both eggs and meat
 - **Pest control**: Chickens eat insects, grubs, and small pests in the garden and orchard
 - **Fertilizer**: Chicken manure is rich in nitrogen and makes excellent compost when properly aged
-- **Soil preparation**: [[mollison-designers-chicken-tractors-egg-production]] allow birds to till, fertilize, and weed garden beds before planting
+- **Soil preparation**: [[mollison-designers-chicken-tractors-egg-production]] allow birds to till, fertilize, and weed [[natural-farming-guide-hugelkultur-mounded-garden-beds]] before planting
 - **[[mollison-designers-banana-circle-waste-recycling-system]]**: Chickens consume kitchen scraps, reducing waste
 
 ## Housing and Coop Design
@@ -87,46 +88,3 @@ Breeds are divided into two categories:
 - Less effective at foraging
 
 **Orpington** is one of the most popular dual-purpose breeds — fairly laid back and easy to handle, making a good choice for beginners.
-
-## Egg Production
-
-- **Average**: At least one egg per day per hen (~300 eggs per year)
-- **Age-related decline**: As hens age, their comb, vent, and wattle become shrunken and pale; egg production decreases
-- **Signs of aging**: Smaller body size, yellowing vent, eye ring, and beak
-
-## Breeding and Incubation
-
-- **Need a rooster**: Cannot hatch eggs without one (not possible in most urban settings)
-- **Heritage breeds**: More likely to go broody (sit on nests) than modern hybrid breeds
-- **Broody nest**: Build a private 15×15×15 inch wooden nest on the ground with straw
-- **Dummy egg**: A wooden egg in the nest encourages the hen to begin setting
-- **Incubation**: 21 days from when the hen begins sitting
-- **Do not disturb**: Anyone disturbing the hen or nest may cause her to abandon it
-
-## Brooder Care for Chicks
-
-A brooder is simply a box with a heat lamp that replaces a broody hen:
-
-- **Temperature**: Start at 95°F (35°C), decrease by 5°F per week until reaching 70°F (21°C) at 6 weeks
-- **Space**: A 30-inch square box with a 69-watt bulb can brood 50 chicks
-- **Heat lamp color**: Red or green and very dim — sudden darkness can kill chicks
-- **Bedding**: First week use burlap or cloth rags over newspaper; after the first week, graduate to thick shredded newspaper, hay, or wood shavings (pieces too big to fit in a chick's mouth)
-- **Water**: 1 gallon per 50 chicks, room temperature, clean and full at all times
-- **Food**: First week, place food on cardboard at eye level; after they learn what food is, use a container they cannot walk in
-- **Grit**: Sprinkle sand on feed — essential for digestion, especially with homemade feed
-- **Transition**: Move outside at 4 weeks; remove heat box at 6 weeks; join main flock at 10–12 weeks as pullets
-
-## Health
-
-- **Separate old and young birds**: Prevents disease spread
-- **Chick dust**: Dry droppings create dust that can cause lung disease over time — raise chicks in a separate area
-- **Worms and parasites**: Grit supply and cleanliness help prevent
-- **Cleanliness**: The most important preventive health measure
-
-## Related Topics
-
-- [[zone-1-intensive-garden]] — [[query-benefits-of-integrating-chickens-into-permaculture]] near the home
-- [[composting-methods-comparison]] — using chicken manure in compost
-- [[goat-keeping-guide]] — comparing livestock
-- [[knf-livestock-chicken-house-natural-farming]]
-- [[urban-permaculture-nitrogen-fixing-green-manures]]

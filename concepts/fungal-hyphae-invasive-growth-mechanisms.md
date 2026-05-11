@@ -1,5 +1,5 @@
 ---
-title: Fungal Hyphae and fungal hyphae invasive growth mechanisms Mechanisms
+title: Fungal Hyphae Invasive Growth Mechanisms
 created: 2026-04-28
 tags:
   - mycology
@@ -40,7 +40,7 @@ behind the advancing front.
 
 ## Tip Growth Mechanism
 
-Hyphal tip growth is driven by a combination of [[bloomfield-turgor-pressure-and-hyphal-invasion]] and targeted
+[[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] is driven by a combination of [[bloomfield-turgor-pressure-and-hyphal-invasion]] and targeted
 cell wall synthesis. The fungal cell maintains a positive internal pressure
 (turgor) that pushes against the cell wall at the hyphal tip, where the wall
 is thinner and more extensible. As new wall material is deposited behind the
@@ -56,9 +56,9 @@ organizing center for tip growth.
 
 ## Invasive Growth Strategies
 
-Plant pathogenic fungi employ a variety of strategies to penetrate and
-colonize host tissues. Some fungi, such as the rice blast fungus
-Magnaporthe grisea, develop specialized infection structures called appressoria.
+Plant [[cordyceps-insect-pathogenic-fungi]] employ a variety of strategies to penetrate and
+colonize host tissues. Some fungi, such as the [[rice-blast-fungus-functional-genomics]]
+[[fungi-in-the-environment-rice-blast-magnaporthe-grisea]], develop specialized [[fungal-appressorium-and-infection-structures]] called appressoria.
 These dome-shaped cells generate enormous turgor pressures, up to 80
 atmospheres, that physically force a penetration peg through the plant's
 cuticle and cell wall.
@@ -88,49 +88,3 @@ Some fungi possess the remarkable ability to penetrate solid rock. Mycorrhizal
 fungi associated with tree roots can grow into granite and other rock types
 by secreting organic acids, including oxalic acid and citric acid, that
 dissolve rock minerals. The hyphae follow the dissolved mineral trails,
-pushing deeper into the rock and prying apart mineral grains.
-
-This rock-penetrating capability has profound geological significance. By
-fracturing rocks and facilitating water infiltration, [[query-how-do-fungi-contribute-to-carbon-sequestration]] to
-soil formation and landscape evolution. The weathering of bedrock by fungi
-may have been a critical factor in the development of the first terrestrial
-ecosystems hundreds of millions of years ago.
-
-## Hyphal Fusion and Network Formation
-
-Fungi can fuse their hyphae together through a process called hyphal
-anastomosis, creating interconnected networks that allow [[mycelial-network-resource-sharing-plants]]
-and communication between different parts of the mycelium. This capacity
-for fusion means that a single fungal individual can spread over large areas
-while maintaining physiological integration.
-
-In some species, hyphal fusion between different individuals is restricted
-by vegetative compatibility systems that prevent the formation of
-heterokaryons between genetically distinct mycelia. These systems help
-protect fungi from the transmission of deleterious genetic elements, such
-as viruses or senescence plasmids, between incompatible individuals.
-
-## Turgor Pressure and Osmotic Regulation
-
-Fungal hyphae maintain their shape and driving force for growth through
-careful regulation of internal turgor pressure. The accumulation of
-compatible solutes, including glycerol and other polyols, allows fungi to
-maintain osmotic balance across a wide range of external conditions. This
-osmotic flexibility enables fungi to grow in environments ranging from
-very dry to very wet, and from fresh water to highly saline.
-
-## Applications and Significance
-
-Understanding hyphal growth mechanisms has practical applications in
-agriculture, medicine, and biotechnology. Targeting hyphal tip growth or
-invasive structures offers strategies for controlling fungal plant diseases.
-In medicine, understanding hyphal growth is important for combating
-invasive [[blesching-cannabis-fungal-infections-candida]] in immunocompromised patients. In biotechnology,
-fungal hyphae are used in industrial fermentation, [[ligninolytic-enzyme-production-bioremediation]], and
-bioremediation.
-
-## See Also
-
-- [[fairy-rings-mycelium-ecology-soil]]
-- [[biodiversity-fungi-plant-pathogens]]
-- [[aquatic-fungi-spore-dispersal-ingold]]

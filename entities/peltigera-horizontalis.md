@@ -10,8 +10,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vitikainen O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
-  - Goward T. (1999). "The Lichens of British Columbia: Macrolichens." Ministry of Forests, Victoria.
-  - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales (Ascomycota)." American Journal of Botany 105(6): 1095-1115.
+  - Goward T. (1999). "The [[lichens]] of British Columbia: Macrolichens." Ministry of Forests, Victoria.
+  - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales ([[ascomycota]])." American Journal of Botany 105(6): 1095-1115.
   - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
 ---
 
@@ -64,7 +64,7 @@ in old-growth and mature forests. It prefers shaded, humid microsites such
 as stream banks, ravines, and north-facing slopes.
 
 It occurs from lowland to subalpine elevations, typically below 1500 m.
-In North America, it is common in the [[psilocybin-north-america-pacific-northwest]], the Appalachian
+In [[berry-growing]], it is common in the [[psilocybin-north-america-pacific-northwest]], the Appalachian
 Mountains, and across boreal Canada.
 
 The lichen is sensitive to [[air-pollution-fungal-community-responses]] and habitat disturbance. It is
@@ -88,50 +88,3 @@ within its thallus. It is also a substrate for specialized lichenicolous
 fungi.
 
 In successional dynamics, P. horizontalis is often a mid- to late-successional
-species, colonizing stable substrates after pioneer crustose lichens and
-mosses have established. Its presence contributes to soil formation and
-stabilization.
-
-## Chemistry and Secondary Metabolites
-
-Peltigera horizontalis produces a characteristic suite of secondary
-metabolites. The major medullary compounds are tenuiorin and methyl
-gyrophorate, which are useful for chemical identification in spot tests.
-
-Spot tests yield: medulla K+ yellow to red (due to gyrophoric acid group
-compounds), C+ red, PD+ orange. These reactions help distinguish it from
-morphologically similar Peltigera species.
-
-The species does not contain peltigerin or peltigeric acid, which
-distinguishes it chemically from P. canina and P. membranacea. TLC
-chromatography is recommended for definitive chemical identification.
-
-Tenuiorin has been studied for its mild antibacterial and antifungal
-properties, though these are not considered pharmaceutically significant.
-The chemistry of P. horizontalis is primarily of taxonomic value.
-
-## Similar Species
-
-Peltigera horizontalis is most easily confused with P. membranacea, which
-also has a prominent vein network. P. membranacea differs in its larger
-size (up to 30 cm), thinner thallus, and the presence of soredia along
-lobe margins.
-
-P. canina has a more ragged lobe margin, shorter rhizines restricted to
-the margins, and contains peltigeric acid rather than tenuiorin. P.
-aphthosa has conspicuous cephalodia on the upper surface, which P.
-horizontalis lacks.
-
-P. leucophlebia (freckle pelt) has powdery white soralia on the upper
-surface and a different chemistry. P. neckeri is smaller with narrower
-lobes and a less prominent vein network.
-
-The combination of raised reticulate veins on the lower surface, absence
-of soredia, and tenuiorin chemistry is diagnostic for P. horizontalis.
-
-## See Also
-
-- [[peltigera-membranacea]]
-- [[nephroma-arcticum]]
-- [[lobaria-pulmonaria]]
-- [[flavoparmelia-caperata]]

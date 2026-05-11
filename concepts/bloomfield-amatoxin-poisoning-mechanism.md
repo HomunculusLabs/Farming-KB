@@ -1,5 +1,5 @@
 ---
-title: bloomfield amatoxin poisoning mechanism Mechanism
+title: Bloomfield Amatoxin Poisoning Mechanism
 created: 2026-04-28
 tags: [mycology, toxicology, amanita, poisons]
 date: 2026-04-28
@@ -18,16 +18,16 @@ with devastating efficiency.
 
 ## The Poisonous Species
 
-Several mushroom species produce amatoxins. Amanita phalloides (death
+Several mushroom species produce amatoxins. [[amanita-phalloides]] (death
 cap) is responsible for most fatal mushroom poisonings throughout Europe
 and probably [[psilocybin-north-america-pacific-northwest]]. Many recent U.S. cases involve immigrants
 who have misidentified it as the paddy [[mushroom-training-straw-mushroom-cultivation]].
 
-Amanita virosa (destroying angel) has pure white fruiting bodies with a
+[[amanita-virosa]] (destroying angel) has pure white [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] with a
 membranous cup (volva) at the stem base and a floppy ring (annulus)
 below the cap. The mycelium can fruit from the same location for decades.
 
-Galerina autumnalis (deadly galerina) is a common wood-rotting fungus
+[[galerina-autumnalis]] (deadly galerina) is a common wood-rotting fungus
 and classic "LBM" (little brown mushroom) that contains the same
 amatoxins as Amanita species. Easily confused with edible species like
 Pholiota mutabilis (two-toned scalecap).
@@ -62,7 +62,7 @@ therefore exposed to the highest concentration of absorbed toxin.
 Hepatocytes (liver cells) cannot synthesize new proteins to replace
 those that are constantly being degraded, and they die in massive
 numbers. The liver's enormous regenerative capacity is overwhelmed by
-the rate of cell death.
+the rate of [[blesching-cannabis-apoptosis-and-cancer-cell-death]].
 
 ## Symptoms and Timeline
 
@@ -88,31 +88,3 @@ outcome without intervention.
 No specific antidote for amatoxins exists. Patient care centers on
 supportive measures including replacement of fluids lost during the
 gastrointestinal phase, careful monitoring of serum chemistry, and liver
-transplantation in severe cases.
-
-Historical remedies have ranged from the absurd (minced rabbit brains
-and stomachs sweetened with jam, advocated by French investigators
-since the early 1800s) to mixtures of antibiotics and vitamin C.
-
-Modern management relies primarily on intensive supportive care and,
-when available, liver transplantation. Some centers use high-dose
-penicillin G, silibinin (milk thistle extract), or N-acetylcysteine,
-though evidence for these treatments remains limited.
-
-## Lethal Dose
-
-Dennis Benjamin, a pathologist at Cook Children's Medical Center and an
-expert on mushroom poisonings, estimates that 6 to 7 milligrams of pure
-toxin is sufficient to kill an adult. This corresponds to the dosage
-delivered by a single Amanita cap.
-
-Overall mortality rates for patients receiving medical treatment are
-well below 30 percent, but without treatment, rates are substantially
-higher. Early recognition and aggressive supportive care are the most
-important factors in survival.
-
-## See Also
-
-- [[psilocybin-mushroom-poisoning-treatment]]
-- [[bloomfield-aspergillus-biology-and-aflatoxins]]
-- [[palmer-amanitine-poison-mechanism]]

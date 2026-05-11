@@ -52,11 +52,11 @@ Mature seed capsules split open longitudinally to release seeds. Germination is 
 
 The wild progenitors of *T. gesneriana* originate in the Tien Shan and Pamir-Alai mountain ranges of Central Asia. Wild populations are found in Kazakhstan, Kyrgyzstan, Tajikistan, and Uzbekistan.
 
-Natural habitats include rocky mountain slopes, steppe grasslands, and subalpine meadows at elevations of 1,000–3,000 meters. The species tolerates cold winters and dry summers, reflecting its continental climate origins.
+[[mushroom-natural-habitats]] include rocky mountain slopes, steppe grasslands, and subalpine meadows at elevations of 1,000–3,000 meters. The species tolerates cold winters and dry summers, reflecting its continental climate origins.
 
-Wild tulips in Central Asia typically grow in calcareous, well-drained soils with low organic matter. They are adapted to summer drought through complete above-ground senescence, with all reserves stored in the underground bulb.
+Wild tulips in Central Asia typically grow in calcareous, well-drained soils with low [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. They are adapted to summer drought through complete above-ground senescence, with all reserves stored in the underground bulb.
 
-Cultivated tulips are grown commercially in temperate regions worldwide. The Netherlands dominates global production, followed by France, the United Kingdom, Japan, and the United States.
+Cultivated tulips are grown commercially in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide. The Netherlands dominates global production, followed by France, the United Kingdom, Japan, and the [[dmt-containing-plants-united-states-halpern]].
 
 ## Cultivation
 
@@ -68,7 +68,7 @@ In areas with mild winters, bulbs may be pre-chilled at 4–9°C for 12–14 wee
 
 Commercial growers use controlled temperature treatments to program flowering times. Warm pre-planting (34°C for 1 week), followed by cold treatment (9°C for 12–16 weeks), ensures uniform blooming.
 
-Tulips are typically treated as annuals in commercial horticulture because flower quality declines in subsequent years. However, bulbs can persist and naturalize in favorable conditions for several years.
+Tulips are typically treated as annuals in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] because flower quality declines in subsequent years. However, bulbs can persist and naturalize in favorable conditions for several years.
 
 Major cultivar groups derived from *T. gesneriana* include Triumph, Darwin Hybrid, Single Early, Single Late, Lily-flowered, Fringed, Parrot, and Double Late tulips.
 
@@ -87,34 +87,3 @@ The period from 1634 to 1637 saw "Tulip Mania," one of the first recorded specul
 Today the Netherlands produces approximately 12 billion tulip bulbs annually. Keukenhof garden, open March through May, displays over 7 million tulips representing roughly 800 cultivars each season.
 
 Tulips hold national symbolic importance in the Netherlands and Turkey. The tulip was the motif of the Ottoman Tulip Era (1718–1730), a period of artistic and architectural flourishing. In the Netherlands, tulip festivals celebrate the flower's central role in Dutch horticultural identity.
-
-## Pests and Diseases
-
-**Tulip breaking virus (TBV)** is the most significant viral disease, causing feathered or flamed color patterns in petals. The virus is transmitted non-persistently by at least 12 aphid species, primarily *Myzus persicae*.
-
-The striking "broken" color patterns that made certain tulips extraordinarily valuable during Tulip Mania were in fact symptoms of TBV infection. This was not understood until the 1920s.
-
-TBV-infected plants show distorted growth and reduced vigor over successive seasons. The virus also weakens bulbs and reduces offset production. There is no cure once infected.
-
-**Botrytis tulipae** (tulip fire) is a fungal disease causing gray-brown lesions on leaves and stems, often with dense gray sporulation. It can destroy entire plantings under humid conditions.
-
-The pathogen overwinters on infected bulb scales and in soil debris. Infection is favored by cool, wet spring weather. Cultural controls include removing infected plant material and ensuring adequate spacing for air circulation.
-
-Other important pathogens include *Fusarium oxysporum* f. sp. *tulipae* (bulb rot), *Pythium* spp. (root rot), and *Penicillium* spp. (blue mold on stored bulbs).
-
-Major arthropod pests include aphids (Myzus persicae, Aphis fabae), bulb mites (Rhizoglyphus spp.), nematodes (Ditylenchus dipsaci), and wireworms (Agriotes spp.).
-
-Bulb mites are particularly damaging in storage, feeding on the basal plate and causing soft rot that invites secondary fungal infection. Storing bulbs at low humidity and temperatures below 20°C reduces mite populations.
-
-## See Also
-
-- [[narcissus-pseudonarcissus]]
-- [[galanthus-nivalis]]
-- [[crocus-sativus]]
-- [[convallaria-majalis]]
-- [[digitalis-purpurea]]
-- [[allium-schoenoprasum]]
-- [[iris-pseudacorus]]
-- [[colchicum-autumnale]]
-- [[atropa-belladonna]]
-- [[mandragora-officinarum]]

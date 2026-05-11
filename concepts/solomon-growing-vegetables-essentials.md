@@ -88,9 +88,3 @@ Solomon, as a former seedsman, emphasizes that mass-market seed packets and gard
 - [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] is usually preferable to buying transplants
 - Grow staples (potatoes, beans, winter squash) for calories; greens for nutrition
 - Rotation is essential in mild climates where soil does not freeze deeply
-
-## See Also
-
-- [[vegetable-harvest-and-storage-guide]]
-- [[growing-food-in-hard-times]]
-- [[zone-1-intensive-garden]]

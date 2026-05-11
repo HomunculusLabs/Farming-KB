@@ -1,11 +1,11 @@
 ---
-title: harner jivaro shamanism yage and Yage (Natem)
+title: Harner Jivaro Shamanism Yage
 created: 2026-04-26
-sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 2 (Harner)
+sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Ch. 2 (Harner)
 related:
   - amazonian-ayahuasca-shamanism
   - tsentsak
-  - banisteriopsis-caapi
+  - [[banisteriopsis-caapi]]
 tags: [ethnobotany, shamanism, jivaro, ecuador, ayahuasca, natem, witchcraft]
 type: concept
 updated: 2026-04-26
@@ -20,9 +20,9 @@ The Jivaro Indians of the Ecuadorian Amazon believe that **witchcraft is the cau
 ## The Natem Drink
 
 The Jivaro hallucinogenic brew, called **natem**, is prepared from:
-- *Banisteriopsis caapi* (Malpighiaceae)
+- *[[ayahuasca-and-banisteriopsis-caapi]]* (Malpighiaceae)
 - Leaves of a similar vine, probably also *Banisteriopsis* sp.
-- Contains harmaline, harmine, d-tetrahydroharmine, and quite possibly DMT
+- Contains [[harmaline]], [[harmine]], d-tetrahydroharmine, and quite possibly DMT
 
 ## Shamanic Initiation
 
@@ -82,21 +82,8 @@ Jivaro shamans consume natem, tobacco juice, and **piripiri** (a local Cyperus s
 
 ## The High Proportion of Jivaro Shamans
 
-Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for shamanic practice. Unlike cultures where shamanic ability is attributed to hereditary gift or exceptional spiritual sensitivity, the Jivaro system democratizes access to the supernatural through the chemical door of natem.
+Among the Jivaro, approximately **one in four adult men** is a shaman -- a remarkably high proportion. Harner attributes this partly to the presence of the natem drink, which makes it possible for virtually anyone to achieve the trance state necessary for [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]. Unlike cultures where shamanic ability is attributed to hereditary gift or exceptional spiritual sensitivity, the Jivaro system democratizes access to the supernatural through the chemical door of natem.
 
 ## Supernatural Perception Under Natem
 
 > Under natem, the shaman sees into the patient's body "as though it were glass." This is not metaphor for the Jivaro -- they believe the normal waking world is a "lie" and that the supernatural world revealed by natem is the only true reality. The ability to perceive and manipulate tsentsak, the invisible projectiles of witchcraft, is the defining skill of both curing and bewitching shamans.
-
-## Relation to Other Amazonian Systems
-
-The Jivaro system of aggressive and defensive shamanism is one of the most elaborate in the Amazon. Unlike the Campa (whose ceremonies emphasize reverence and worship) or the Cashinahua (whose ayahuasca sessions focus on communal revelation), Jivaro shamanism is fundamentally concerned with the dynamics of **supernatural warfare** between individual practitioners. The Jivaro worldview is one in which every illness has a human cause -- an enemy shaman's attack -- and the curing shaman's task is essentially combat at the supernatural level.
-
-## See Also
-
-- [[entheogen-jivaro-natem-shamanism]]
-
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- ethnomycology
-- [[psychedelic-safety-and-harm-reduction]]
-- [[psychedelic-spirituality-and-religion]]

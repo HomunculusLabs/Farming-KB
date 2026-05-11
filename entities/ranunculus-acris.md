@@ -36,7 +36,7 @@ Ranunculus acris was described by Carl Linnaeus in his 1753 Species Plantarum. T
 
 The specific epithet "acris" means "sharp" or "acrid," referring to the pungent taste of the fresh foliage. The plant belongs to the section Ranunculus within the subgenus Ranunculus.
 
-Chromosome number is 2n = 14 (diploid), though polyploid cytotypes are known from northern populations. Molecular phylogenetics place Ranunculus acris in a clade with Ranunculus repens and Ranunculus bulbosus.
+Chromosome number is 2n = 14 (diploid), though polyploid cytotypes are known from northern populations. Molecular phylogenetics place Ranunculus acris in a clade with [[ranunculus-repens]] and [[ranunculus-bulbosus]].
 
 Several subspecies are recognized, including subsp. acris, subsp. friesianus, and subsp. strigulosus. The species exhibits considerable morphological variation across its broad geographic range.
 
@@ -60,7 +60,7 @@ Fruiting heads are globose, composed of numerous flattened achenes with short cu
 
 The root system consists of a short vertical rhizome with fibrous roots. Unlike Ranunculus repens, meadow buttercup does not produce stolons.
 
-The plant overwinters as a basal rosette of lobed leaves close to the ground. This rosette stage allows it to survive mowing and moderate grazing pressure throughout winter months.
+The plant overwinters as a basal rosette of lobed leaves close to the ground. This rosette stage allows it to survive mowing and moderate [[gadd-mycelial-network-resilience-grazing-pressure]] throughout winter months.
 
 ## Distribution and Habitat
 
@@ -80,41 +80,10 @@ The plant shows moderate tolerance to waterlogging and can persist in seasonally
 
 ## Cultivation and Uses
 
-Meadow buttercup is not widely cultivated as a garden ornamental, though it has a place in wildflower meadow plantings. Several double-flowered horticultural selections exist, including the popular cultivar 'Citrinus' with pale lemon flowers.
+Meadow buttercup is not widely cultivated as a garden ornamental, though it has a place in [[hamilton-wildflower-meadow]] plantings. Several double-flowered horticultural selections exist, including the popular cultivar 'Citrinus' with pale lemon flowers.
 
 The species has limited traditional medicinal use due to its toxicity. Fresh herb was applied externally as a vesicant and counterirritant in folk medicine, but such practices are discouraged.
 
-Ranunculus acris has been used as a model organism in ecological studies of grassland communities. Its response to grazing pressure and fertilizer application is well-documented.
+Ranunculus acris has been used as a model organism in [[mycorrhiza-bioassays-ecological-studies]] of grassland communities. Its response to grazing pressure and [[cervantes-fertilizer-application-strain-feeding]] is well-documented.
 
 The plant is avoided by grazing livestock due to the acrid taste caused by protoanemonin. Heavy grazing reduces competition and can paradoxically increase buttercup abundance in pastures.
-
-In traditional folklore, the golden flowers were associated with the sun and used in May Day celebrations across northern Europe. Children's games involving holding a buttercup under the chin to test a "love of butter" persist to the present day.
-
-The species has inspired common names in over 30 European languages, reflecting its cultural ubiquity. In some regions it was called "goldcups" or "butter-flowers" for its resemblance to the color of butter.
-
-## Toxicology and Ecology
-
-Ranunculus acris contains ranunculin, a glycoside stored in vacuoles that converts to protoanemonin upon tissue damage. Protoanemonin is a volatile, irritating compound that deters herbivory and causes blistering on contact with skin.
-
-Ingestion of fresh plant material causes oral irritation, salivation, vomiting, and diarrhea in livestock. The toxin degrades upon drying, making buttercup-containing hay safe for consumption.
-
-Despite its chemical defenses, the plant supports a diverse community of specialist insects. The larvae of several agromyzid flies mine the leaves, and aphid colonies are common on developing flowerheads.
-
-Meadow buttercup flowers are visited by at least 40 species of solitary bees, hoverflies, and beetles in European surveys. The open flower structure provides accessible nectar and pollen.
-
-The plant plays a role in grassland successional dynamics. It colonizes disturbed ground readily but declines in dominance as taller competitive grasses establish.
-
-Ranunculus acris is an indicator of intermediate soil fertility in grassland assessment protocols. Very high abundance suggests undergrazing or nutrient enrichment from agricultural runoff.
-
-## See Also
-
-- [[ranunculus-aquatilis]]
-- [[caltha-palustris]]
-- [[anemone-nemorosa]]
-- [[trollius-europaeus]]
-- [[aconitum-napellus]]
-- [[clematis-vitalba]]
-- [[pulsatilla-vulgaris]]
-- [[colchicum-autumnale]]
-- [[digitalis-purpurea]]
-- [[veratrum-album]]

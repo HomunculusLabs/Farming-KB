@@ -87,14 +87,3 @@ Water quality is monitored continuously using onboard sensors, with periodic lab
 ## Challenges for Long-Duration Missions
 
 Missions to Mars and beyond will require ECLSS systems far more reliable and autonomous than current ISS systems:
-
-- **Duration**: Mars transit takes 6–9 months each way; total mission may exceed 2 years
-- **Resupply delay**: No possibility of emergency resupply; all consumables and spares must be carried or manufactured in-situ
-- **Radiation effects**: Long-duration exposure may degrade ECLSS materials, seals, and membranes
-- **Reduced gravity**: Lunar (1/6 g) and Martian (1/3 g) environments create different fluid behavior than microgravity, requiring redesign of liquid-gas separation systems
-- **Dust exposure**: Lunar regolith and Martian dust pose contamination risks for [[greg-green-odor-control-and-air-filtration]] and water systems
-
-## References
-
-- NASA (2010). "International Space Station Environmental Control and Life Support System Overview." NASA Technical Report.
-- Atwater, J.E., Streech, N.D., Garmon, F.C. (1990). "Sterilizing Surfaces by Irradiation with Microwaves." NASA MSC-22484.

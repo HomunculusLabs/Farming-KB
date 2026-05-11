@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G-3
 
-PIHKAL entry #28. 3,4-Trimethylene-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #28. 3,4-Trimethylene-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -89,12 +89,5 @@ sweet-smelling oil. This was distilled at 182-194 deg C at the water
 
 ## Safety Notes
 
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-g-4-entity-pihkal]] -- 2C-G-4 (PIHKAL #29)
+- [[methyl-j-entity-pihkal]]

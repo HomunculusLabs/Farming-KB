@@ -1,5 +1,5 @@
 ---
-title: Dual dual chambered terrarium design Design
+title: Dual [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
 created: 2026-04-28
 tags: [terrarium, humidity, fruiting, aquarium, cultivation]
 date: 2026-04-28
@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 The dual chambered terrarium is the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] at the heart of the PF
-TEK. Built from a standard 10-gallon aquarium, it uses a spray shield
+TEK. Built from a standard 10-gallon aquarium, it uses a [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
 partition to create two distinct zones: a primary chamber that receives direct
 spraying, and a secondary chamber where the fungus cakes are bathed in finely
 molecularized humidity safely away from damaging water droplets. This design
@@ -88,62 +88,3 @@ slanted shield drips downward, acting as a roof that protects the cakes.
 1. Before placing cakes in the terrarium, spray all inside surfaces including
    the spray shield and lid.
 2. Insert fungus cakes, then the spray shield and lid.
-3. Slightly lift the lid, insert the spray nozzle, and vigorously spray
-   downwards into the middle of the shield for about 5 seconds.
-4. Immediately withdraw the nozzle and seal the lid to trap the mist.
-5. Return after a few minutes and repeat if desired.
-
-Spray at least twice a day. Make sure all inside surfaces are foggy or
-dripping. Mushrooms have been shown to grow with only one good spraying per
-day or even less.
-
-## Ventilation
-
-Each time the terrarium is sprayed, the fungus should also be ventilated. To
-ventilate, remove the lid and, while holding the spray shield vertically, fan
-the chamber with a piece of cardboard. Then spray as described above.
-
-## Water Removal
-
-Water that collects in the bottom of the terrarium must be siphoned out to
-prevent bacteria buildup. This can be done easily using a rubber bulb battery
-filler (available at auto parts stores) or a rubber bulb type enema bottle.
-
-## Lighting
-
-Expose the terrarium to normal room light or indirect sunlight. A small, low-
-wattage fluorescent plant light will encourage the phototropic mushrooms to
-grow upwards. The light can be left on continuously if desired.
-
-## Heating Guidelines
-
-Do not heat the terrarium. Direct heating works against humidification and adds
-drying influence. Do not use heating cables, heat pads, or blankets. Keep grow
-lights at a safe distance.
-
-These fungi grow well at 60 degrees Fahrenheit and even cooler. They grow
-slowly when cool and fast when warm. Target temperature: 65 to upper 80s
-Fahrenheit. A too-hot terrarium produces spreading mycelium but no fruiting.
-
-## Low Humidity Symptoms
-
-When humidity is slightly low (but not enough to stop fruiting), mushrooms
-develop fuzzy white mycelium on their caps, resembling a crown of white hair.
-This is not contamination and does not affect quality. Deformed, convoluted,
-and withering mushrooms indicate more serious humidity deficiency.
-
-## Perlite Humidification Alternative
-
-A complementary technique uses a layer of wetted perlite on the terrarium
-floor. Perlite absorbs water and gradually evaporates it through its porous
-structure, providing sustained humidification. Unlike vermiculite, perlite
-does not absorb and hold water but instead wicks it upward for gradual
-## See Also
-
-- [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
-- [[community-garden-design]]
-- pf-tek-overview-and-history
-- [[fruiting-conditions-and-harvesting]]
-- [[dual-chambered-terrarium-fruiting]]
-- [[mycelial-networks]]
-- [[fruiting-chamber]]

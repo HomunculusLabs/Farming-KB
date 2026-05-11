@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Grey-Wilson, C. (1997). "Cyclamen: A Guide for Gardeners, Horticulturists and Botanists." Timber Press.
   - Compton, J.A. et al. (2004). "Phylogeny of Cyclamen L. (Myrsinaceae) based on chloroplast DNA sequences." Kew Bulletin, 59(1), 89–98.
-  - Youssef, D.T.A. (2008). "Saponins from Cyclamen persicum and their biological activities." Phytochemistry, 69(4), 801–805.
+  - Youssef, D.T.A. (2008). "Saponins from [[cyclamen-persicum]] and their biological activities." Phytochemistry, 69(4), 801–805.
   - Mathew, B. (1989). "The Genus Cyclamen." Royal Botanic Gardens, Kew.
 ---
 
@@ -29,7 +29,7 @@ The species is valued in horticulture for its fragrant, rose-scented flowers and
 
 *Cyclamen purpurascens* was described by Philip Miller in 1768. It belongs to the subgenus *Cyclamen* (sometimes treated as *Eucosme*).
 
-The species epithet *purpurascens* refers to the purplish coloration on the underside of the leaves, which is a distinctive field identification character.
+The species epithet *purpurascens* refers to the purplish coloration on the underside of the leaves, which is a distinctive [[palmer-mushroom-hunting-field-identification]] character.
 
 The plant produces a subglobose tuber 3–6 cm in diameter, which grows at or near the soil surface.
 
@@ -87,35 +87,4 @@ The tubers are particularly rich in cyclamin and cyclamiretin derivatives, which
 
 Saponins from Cyclamen species have demonstrated hemolytic, cytotoxic, and antimicrobial activities in laboratory studies.
 
-The leaves contain flavonoids, including quercetin and kaempferol glycosides, which contribute to antioxidant activity.
-
-Preliminary phytochemical screening has also identified small amounts of tannins and phenolic acids in leaf and flower tissues.
-
-The saponin content of the tuber ranges from 2–5% dry weight depending on population origin and [[cannabis-harvest-timing-visual-cues]].
-
-## Ethnobotany and Uses
-
-The tubers of *C. purpurascens* have been used traditionally in European folk medicine, though less extensively than those of *C. hederifolium* or *C. europaeum*.
-
-Historical preparations included dried powdered tuber as a purgative, and topical applications for [[cannabis-for-skin-conditions-detailed]] and wound healing.
-
-In Alpine folk traditions, the plant was sometimes used as a mild abortifacient and emmenagogue, though these uses carried significant toxicity risk.
-
-All parts of the plant are toxic if ingested in quantity, with symptoms including nausea, vomiting, diarrhea, and in severe cases, cardiac arrhythmia.
-
-The species is primarily of horticultural value today, widely grown in rock gardens, alpine houses, and shaded woodland plantings.
-
-Its extended summer bloom period and fragrant flowers make it a popular choice for specialized cyclamen collections.
-
-The marbled foliage provides year-round ornamental interest in mild-winter climates.
-
-## See Also
-
-- [[aconitum-napellus]]
-- [[arnica-montana]]
-- [[colchicum-autumnale]]
-- [[digitalis-purpurea]]
-- [[hypericum-perforatum]]
-- [[vinca-minor]]
-- [[convallaria-majalis]]
-- [[atropa-belladonna]]
+The leaves contain flavonoids, including [[quercetin]] and [[kaempferol]] glycosides, which contribute to antioxidant activity.

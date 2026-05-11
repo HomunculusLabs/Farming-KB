@@ -20,7 +20,7 @@ sources:
 
 **Curcuma angustifolia** (East Indian arrowroot, tikhur, koorka) is a perennial herb in the family Zingiberaceae, native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]]. It is cultivated primarily for its rhizomes, which yield a high-quality starch traditionally used as a dietary staple and thickening agent.
 
-The species is distinguished from other Curcuma by its narrow lanceolate leaves and the fine, easily extracted starch granules within its tuberous roots. It occupies a unique ecological niche as both a wild forest floor species and a semi-cultivated crop in tribal agricultural systems across central and eastern India.
+The species is distinguished from other Curcuma by its narrow lanceolate leaves and the fine, easily extracted starch granules within its tuberous roots. It occupies a unique ecological niche as both a wild [[fungal-ecology-forest-floor]] species and a semi-cultivated crop in tribal agricultural systems across central and eastern India.
 
 ## Taxonomy and Morphology
 
@@ -44,11 +44,11 @@ In its natural habitat, the plant is typically found on forest margins, stream b
 
 The rhizomes and tuberous roots contain starch as the primary metabolite (55–78% dry weight), along with curcuminoids (curcumin, demethoxycurcumin, bisdemethoxycurcumin) at 0.5–1.5%, [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (0.3–0.8%) rich in ar-turmerone and curlone, and phenolic acids including ferulic and caffeic acid derivatives.
 
-Additional compounds include flavonoids (quercetin, kaempferol), terpenoids, and glycosides. The essential oil profile differs from *C. longa*, with higher proportions of α-zingiberene and β-sesquiphellandrene.
+Additional compounds include flavonoids ([[quercetin]], [[kaempferol]]), terpenoids, and glycosides. The [[permaculture-designers-manual-essential-oil-plants]] profile differs from *C. longa*, with higher proportions of α-zingiberene and β-sesquiphellandrene.
 
 In Ayurvedic and tribal medicine, tikhur starch is prescribed for digestive disorders, diarrhea, dysentery, and as a convalescent food. The rhizome paste is applied topically for wounds, skin inflammation, and as a cosmetic face pack.
 
-Modern pharmacological studies confirm anti-inflammatory activity via COX-2 inhibition, antioxidant activity comparable to ascorbic acid at equivalent concentrations, and moderate antibacterial effects against *Staphylococcus aureus* and *Escherichia coli*. The starch has demonstrated prebiotic potential, supporting growth of *Lactobacillus* and *Bifidobacterium* species in vitro.
+Modern pharmacological studies confirm anti-inflammatory activity via COX-2 inhibition, antioxidant activity comparable to ascorbic acid at equivalent concentrations, and moderate antibacterial effects against *[[staphylococcus-aureus]]* and *Escherichia coli*. The starch has demonstrated prebiotic potential, supporting growth of *[[lactobacillus]]* and *Bifidobacterium* species in vitro.
 
 ## Cultivation and Harvest
 
@@ -87,26 +87,3 @@ Compared to commercial corn starch, tikhur starch shows higher swelling power, g
 Within the starch-producing Curcuma species, it is compared to *C. leucorhiza* and *C. pseudomontana*, both of which yield edible tubers used by tribal communities in peninsular India.
 
 The broader *Curcuma* genus includes over 100 species distributed across South and Southeast Asia, with approximately 40 species native to India. Molecular phylogenetic studies place *C. angustifolia* in the *Curcuma* subgenus, closely allied with the *C. aeruginosa*–*C. haritha* clade.
-
-## Ethnobotanical Notes
-
-Among the Gond and Baiga tribes of central India, tikhur tubers are harvested from wild populations during the post-monsoon season. The starch extraction process is a communal activity, typically performed by women using traditional wooden mortars and bamboo settling vats.
-
-The species features in several tribal folk classifications of forest foods, where it is categorized separately from "regular" turmeric (*C. longa*) and recognized specifically for its edible starch rather than its spice or dye properties.
-
-In Chhattisgarh, the plant is known locally as "tikhur" or "pakhanbed," and the extracted starch is used in ritual preparations during festivals such as Navratri and Holi. Traditional healers prescribe tikhur water as a cooling drink during summer months.
-
-Conservation concerns have been raised as wild populations face pressure from forest clearance and overharvesting. The species is not currently listed as threatened, but local population declines have been noted in heavily deforested districts of Odisha and Jharkhand.
-
-Domestication efforts have been initiated by agricultural research stations in Chhattisgarh and Madhya Pradesh, focusing on higher-yielding varieties with larger tuber size. However, commercial cultivation remains limited compared to other tropical starch crops.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[curcuma-caesia]]
-- [[canna-edulis]]
-- [[ipomoea-batatas]]
-- [[manihot-esculenta]]
-- [[kaempferia-galanga]]
-- [[elettaria-cardamomum]]
-- [[alpinia-officinarum]]

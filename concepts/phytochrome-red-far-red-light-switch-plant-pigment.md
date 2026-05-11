@@ -1,6 +1,6 @@
 # Phytochrome: The Red/Far-Red Light Switch
 
-> A photoreversible pigment system that allows plants to sense light quality, measure day length, and coordinate growth responses ranging from seed germination to flowering.
+> A photoreversible pigment system that allows plants to sense light quality, measure [[coleman-persephone-months-winter-day-length]], and coordinate growth responses ranging from [[cannabis-seed-germination]] to flowering.
 
 **Tags:** plant-biology, photoreceptors, photoperiodism, plant-signaling, pigments
 
@@ -8,7 +8,7 @@
 
 ## Discovery
 
-The discovery of phytochrome is one of the great stories in plant physiology. In the 1950s, a team led by **Harry Borthwick** and **Sterling Hendricks** at the USDA's Beltsville Agricultural Research Center in Maryland conducted a series of elegant experiments that revealed a pigment capable of switching between two forms depending on the color of light it absorbed. Using lettuce seeds and single flashes of monochromatic light, they demonstrated that red light (around 660 nm) promoted germination, while far-red light (around 730 nm) reversed this effect. Crucially, the response was fully reversible — a flash of red followed by far-red produced the same result as far-red alone, regardless of how many red/far-red cycles were applied. This photoreversibility was the hallmark that led to the identification of phytochrome as a single molecular switch, not two separate pigments.
+The discovery of phytochrome is one of the great stories in plant physiology. In the 1950s, a team led by **Harry Borthwick** and **Sterling Hendricks** at the USDA's Beltsville [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Center in Maryland conducted a series of elegant experiments that revealed a pigment capable of switching between two forms depending on the color of light it absorbed. Using lettuce seeds and single flashes of monochromatic light, they demonstrated that red light (around 660 nm) promoted germination, while far-red light (around 730 nm) reversed this effect. Crucially, the response was fully reversible — a flash of red followed by far-red produced the same result as far-red alone, regardless of how many red/far-red cycles were applied. This photoreversibility was the hallmark that led to the identification of phytochrome as a single molecular switch, not two separate pigments.
 
 ---
 
@@ -34,19 +34,19 @@ The phytochrome molecule itself is a **chromoprotein**: a protein covalently bon
 
 ## What Plants Actually Measure: Continuous Darkness
 
-Despite the common terminology of "day length" or "photoperiod," phytochrome-mediated responses are really about measuring the **length of continuous darkness**. During daylight, Pfr accumulates. After sunset, Pfr slowly reverts to Pr through a thermal (dark) reversion process, or is actively degraded. The plant's internal clock then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
+Despite the common terminology of "day length" or "photoperiod," phytochrome-mediated responses are really about measuring the **length of continuous darkness**. During daylight, Pfr accumulates. After sunset, Pfr slowly reverts to Pr through a thermal (dark) reversion process, or is actively degraded. The plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
 
 ---
 
 ## Photoperiodism and Flowering
 
-Photoperiodism is the biological response to the relative lengths of light and dark periods. The term was coined by Garner and Allard themselves after their Maryland Mammoth experiments. Phytochrome is the primary molecular sensor underlying this response, particularly for the regulation of flowering. Plants fall into several categories:
+Photoperiodism is the [[medicinal-mushrooms-biological-response-modifiers]] to the relative lengths of light and dark periods. The term was coined by Garner and Allard themselves after their [[chamovitz-maryland-mammoth-photoperiodism-discovery]] experiments. Phytochrome is the primary molecular sensor underlying this response, particularly for the regulation of flowering. Plants fall into several categories:
 
 - **Short-day plants (SDP):** Flower when the length of continuous darkness exceeds a critical threshold (e.g., chrysanthemums, poinsettias). They are really "long-night plants."
 - **Long-day plants (LDP):** Flower when the length of continuous darkness falls below a critical threshold (e.g., spinach, lettuce, Arabidopsis). They are really "short-night plants."
 - **Day-neutral plants:** Flowering is not governed by photoperiod (e.g., tomatoes, rice).
 
-The phytochrome system provides the plant with a molecular "hourglass" that tracks night length and triggers or suppresses the floral transition accordingly.
+The phytochrome system provides the plant with a molecular "hourglass" that tracks [[photoperiodism-plants-measure-night-length]] and triggers or suppresses the floral transition accordingly.
 
 ---
 
@@ -60,13 +60,13 @@ The foundations of photoperiodism predate the discovery of phytochrome by decade
 
 A key insight that emerged from photoperiod research is that **phytochrome and the photoperiodic sensing machinery reside primarily in the leaves**, not at the shoot apex where flowering actually occurs. Experiments involving selective shading of individual leaves demonstrated that only illuminated leaves could perceive the day-length signal. Even a single leaf exposed to the correct photoperiod was sufficient to induce flowering across the entire plant. Conversely, shading all leaves while leaving the shoot tip exposed to light prevented flowering entirely.
 
-This led to the hypothesis of a **mobile flowering signal** — sometimes called **florigen** — that is produced in the leaves in response to the appropriate photoperiod and travels through the phloem to the shoot apical meristem, where it triggers the transition from vegetative growth to flowering. The identity of florigen remained elusive for over 70 years until the FT (FLOWERING LOCUS T) protein was identified in the early 2000s, finally solving one of plant biology's longest-standing mysteries.
+This led to the hypothesis of a **mobile flowering signal** — sometimes called **florigen** — that is produced in the leaves in response to the appropriate photoperiod and travels through the phloem to the shoot apical meristem, where it triggers the transition from [[cannabis-vegetative-growth-stage]] to flowering. The identity of florigen remained elusive for over 70 years until the FT (FLOWERING LOCUS T) protein was identified in the early 2000s, finally solving one of plant biology's longest-standing mysteries.
 
 ---
 
 ## Shade Avoidance
 
-Phytochrome plays a central role in **shade avoidance syndrome**, a suite of responses triggered when a plant detects that it is being shaded by neighbors. Because chlorophyll in neighboring leaves absorbs most red light while transmitting or reflecting far-red light, a plant under a canopy experiences a lowered red-to-far-red ratio. The shift toward Pr signals the plant to elongate its stems and petioles, produce thinner leaves, and accelerate flowering — all strategies to grow out of the shade or reproduce before being outcompeted. This response is ecologically critical and has major implications for agriculture and forestry, where overly dense planting can trigger shade avoidance at the expense of yield.
+Phytochrome plays a central role in **[[shade-avoidance-syndrome]]**, a suite of responses triggered when a plant detects that it is being shaded by neighbors. Because chlorophyll in neighboring leaves absorbs most red light while transmitting or reflecting far-red light, a plant under a canopy experiences a lowered red-to-far-red ratio. The shift toward Pr signals the plant to elongate its stems and petioles, produce thinner leaves, and accelerate flowering — all strategies to grow out of the shade or reproduce before being outcompeted. This response is ecologically critical and has major implications for agriculture and forestry, where overly dense planting can trigger shade avoidance at the expense of yield.
 
 The shade avoidance response is especially dramatic in certain species. Sunflowers grown in dense stands can elongate dramatically, producing stems that are thin and weak — a phenomenon familiar to any gardener who has planted too closely. The molecular pathway involves phyB (the primary shade-sensing phytochrome) interacting with transcription factors such as PIFs (phytochrome-interacting factors), which in turn regulate the expression of growth-related genes. When phyB is predominantly in the Pr form (as under shade), PIFs accumulate in the nucleus and promote elongation growth.
 
@@ -82,48 +82,9 @@ Importantly, the circadian clock persists even in constant darkness, which is ho
 
 ## Modern Understanding: Phytochrome Gene Families
 
-With the advent of molecular genetics, it became clear that phytochrome is not a single protein but a **family of related photoreceptors**. In the model plant *Arabidopsis thaliana*, five phytochrome genes have been identified:
+With the advent of molecular genetics, it became clear that phytochrome is not a single protein but a **family of related photoreceptors**. In the model plant *[[arabidopsis-thaliana]]*, five phytochrome genes have been identified:
 
 | Gene | Primary Roles |
 |------|--------------|
 | **phyA** | Light-labile; mediates responses to continuous far-red light; seed germination, de-etiolation |
 | **phyB** | Light-stable; primary mediator of red/far-red reversible responses; shade avoidance, flowering |
-| **phyC** | Modulates flowering and red light responses |
-| **phyD** | Redundant with phyB in shade avoidance |
-| **phyE** | Involved in shade avoidance and flowering under specific conditions |
-
-These phytochromes have distinct but overlapping functions, and plants typically express multiple family members. The diversity allows fine-tuned responses across different light environments and developmental stages. Interestingly, phytochrome-like proteins have also been found in bacteria and cyanobacteria, suggesting that the phytochrome signaling system has ancient evolutionary origins — long before land plants existed.
-
----
-
-## Agricultural Applications
-
-Understanding phytochrome has direct practical applications in agriculture and horticulture:
-
-- **Greenhouse lighting:** Supplemental red light can promote flowering in long-day plants grown during short winter days, while far-red enrichment or blackout curtains can induce flowering in short-day crops.
-- **Photoperiod manipulation:** Commercial growers routinely control day length with artificial lighting to force or delay flowering for market timing — poinsettias for Christmas, chrysanthemums for fall, etc.
-- **Plant density management:** Understanding shade avoidance helps optimize spacing to prevent excessive stem elongation and yield loss in dense plantings.
-- **Seed germination:** Some seeds require red light (via phytochrome) to germinate, a fact used in nursery management.
-- **Genetic engineering:** Manipulating phytochrome pathways in crop plants offers potential for improved light use efficiency and architectural optimization. For example, modifying phyB expression can reduce shade avoidance responses in dense plantings, leading to more compact growth and higher yields.
-
----
-
-## Summary
-
-Phytochrome is one of the most elegant and well-studied molecular systems in plant biology. A single pigment molecule that toggles between two forms in response to different wavelengths of light, it underlies some of the most important decisions a plant makes: when to germinate, how to grow, and when to flower. From its serendipitous discovery in USDA laboratories to its modern dissection at the molecular level, the phytochrome story illustrates how fundamental plant science can have profound practical implications for agriculture, horticulture, and our understanding of the natural world.
-
----
-
-## See Also
-
-- [[photoperiodism]]
-- [[shade-avoidance-syndrome]]
-- [[phytochrome-red-far-red-ratio-shade-detection-plants]]
-- [[cannabis-photoperiodism-and-light-cycles]]
-
-## Further Reading
-
-- Chamovitz, D. (2012). *What a Plant Knows*. Scientific American / Farrar, Straus and Giroux. Chapter 1: "What a Plant Sees."
-- Smith, H. (2000). *Phytochromes and Shade-Avoidance Responses in Plants*. Annals of Botany, 85(Supplement 1), 3–12.
-- Garner, W.W. & Allard, H.A. (1920). *Effect of the Relative Length of Day and Night and Other Factors of the Environment on Growth and Reproduction in Plants*. Journal of Agricultural Research, 18(11), 553–606.
-- Sage, L.C. (1992). *Pigment of the Imagination: A History of [[phytochrome]] Research*. Academic Press.

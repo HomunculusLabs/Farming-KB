@@ -88,31 +88,3 @@ Due to the low to moderate potency and the significant risk of misidentifying th
 4. **[[fungal-microscopic-examination-mounting-media-techniques]] is essential** — cheilocystidia with crystalline incrustations and the presence of clamp connections at all septa are key diagnostic characters.
 5. **Spore color and morphology** (brown print, amygdaliform spores) align with the genus but do not distinguish species within it.
 6. **Never rely on macroscopic features alone.** Many Inocybe species are morphologically similar, and misidentification can have serious or life-threatening health consequences.
-7. **Photograph specimens in situ** immediately upon discovery, capturing cap surface coloration under natural light before any handling or desiccation occurs. This documentation is invaluable for post-collection identification.
-8. **Collect complete specimens** including any attached substrate or root material, and record precise habitat data, associated tree species, GPS coordinates, and date. These ecological details can provide important corroborating evidence for identification.
-## Toxic Lookalikes Warning
-**Extreme caution is required.** The genus Inocybe contains numerous species that produce muscarine, a dangerous cholinergic alkaloid. Ingestion of muscarine-containing species causes:
-- Excessive salivation, sweating, and lacrimation (SLUDGE syndrome)
-- Nausea, vomiting, and abdominal cramping within 30 minutes to 2 hours
-- Bradycardia, hypotension, and bronchoconstriction
-- Respiratory distress in severe cases; hospitalization may be required
-*I. calamistrata*, *I. patouillardii*, and *I. geophylla* are among the common toxic Inocybe species found in similar habitats across Europe. These species lack the blue-green tinge but can appear similar when partially dried, degraded, or poorly lit.
-There is no reliable field test (including bruising reactions) to distinguish psychoactive from toxic Inocybe species. Atropine is the specific pharmacological antidote for muscarine poisoning, but symptoms can progress rapidly and respiratory support may be necessary. Positive identification requires microscopic analysis by an experienced mycologist. Foraging for Inocybe species for recreational purposes is strongly discouraged.
-It should also be noted that some Inocybe species contain both muscarine and other toxic compounds, potentially compounding the danger. *I. geophylla*, for example, contains not only muscarine but also relatively high levels of the dangerous amatoxin-like compounds in some populations. This underscores the importance of treating all unidentified Inocybe specimens as potentially hazardous.
-## Conservation Status
-*Inocybe coelestium* has not been formally assessed by the IUCN Red List. Its rarity, limited known distribution, and association with disturbed or managed habitats suggest it may be locally uncommon throughout its range. The species is not protected under any specific legislation in its known range countries.
-Population trends are unknown due to insufficient data and underreporting. Habitat loss through urbanization and changes in park management practices could pose a threat, though the species' apparent tolerance of anthropogenic environments may afford some resilience. Collection should be minimal and restricted to scientific documentation. Voucher specimens should be deposited in recognized herbaria with accompanying microscopic documentation.
-## Legal Status
-The legal status of *Inocybe coelestium* varies by jurisdiction. In most European countries, the species is not specifically named in controlled substances legislation. However, its psilocybin content means it may fall under laws prohibiting the possession of psilocybin-containing fungi in jurisdictions such as the United Kingdom (under the Misuse of Drugs Act 1971 as a Class A drug), the Netherlands (where fresh psilocybin mushrooms were banned in 2008), and other countries with psilocybin-specific scheduling.
-In Germany and France, psilocybin and psilocin are controlled substances under national drug laws, and possession of psilocybin-containing mushrooms — including *I. coelestium* — may be prosecuted accordingly. Researchers studying this species should ensure compliance with all applicable local and national regulations regarding collection, transport, and possession of psychoactive fungi.
-Under the 1971 United Nations Convention on Psychotropic Substances, psilocybin and psilocin are listed in Schedule I, which may affect international transport of specimens for research purposes regardless of domestic laws in the country of origin.
-## See Also
-- [[archaeology-of-psychedelic-mushroom-use]] — another psilocybin-containing Inocybe from Europe
-- [[psilocybin]] — primary psychoactive compound found in the species
-- [[amanita-muscaria-entity]] — another muscarine-containing toxic mushroom for comparison
-## References
-1. Guzmán G, Allen JW, Gartz J. *World Wide Distribution of Magic Mushrooms*. 2nd ed.
-2. Stamets P, Gartz J. *Psilocybin Mushrooms of the World*. Ten Speed Press.
-3. Gartz J. *Magic Mushrooms Around the World*. 2nd revised ed.
-4. Kuyper TW. A revision of the genus *Inocybe* in Europe. *Persoonia* Suppl. 1986.
-5. Matheny PB, et al. Major clades of Agaricales: a multilocus phylogenetic overview. *Mycologia*. 2006.

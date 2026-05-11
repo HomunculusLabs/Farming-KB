@@ -1,10 +1,11 @@
 ---
-title: permaculture Goat Raising
+title: Permaculture Goat Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # [[permaculture-design]] system. They are kept primarily for milk and meat production.
 ## Role in the System
@@ -18,8 +19,8 @@ Goats clear the toughest unwanted vegetation and can be temporarily used by penn
 - If a goat tries to escape, use a Y-shaped yoke temporarily
 - Housing: any sturdy three-sided shed in their pasture, or 36 square feet (3.3 square meters) per goat in a barn with clean hay bedding
 ## Feeding
-Each goat needs about 4-5 pounds (1.8-2.3 kg) of hay per day of mixed grass and legumes such as permaculture-composting|alfalfa -- about half a bale per 10 goats, twice a day. Goats on overgrown pasture will eat less hay. They also need salt and water at all times. Goats won't lick a salt block, so provide loose mineralized salt.
-Goats themselves control their own worms by eating higher leaves first and working their way down, wandering far distances over pasture. The tree method of [[nightshade-plants-entheogen]], buckthorn, cowbane, dog's mercury, foxglove, greater celandine, hemlock trees, henbane, ragwort, rhododendron, rhubarb leaves, spindle, water dropwort, yew, iris, azalea, beet leaves, evergreen trees.
+Each goat needs about 4-5 pounds (1.8-2.3 kg) of hay per day of mixed grass and legumes such as [[permaculture-composting]]|alfalfa -- about half a bale per 10 goats, twice a day. Goats on overgrown pasture will eat less hay. They also need salt and water at all times. Goats won't lick a salt block, so provide loose mineralized salt.
+Goats themselves control their own worms by eating higher leaves first and working their way down, wandering far distances over pasture. The [[fukuoka-black-wattle-fertilizer-tree-method]] of [[nightshade-plants-entheogen]], buckthorn, cowbane, dog's mercury, foxglove, greater celandine, hemlock trees, henbane, ragwort, rhododendron, rhubarb leaves, spindle, water dropwort, yew, iris, azalea, beet leaves, evergreen trees.
 ## Breeding
 ### Breeding Schedule
 - Start October 1st: feed breeding does a quarter pound of grain per day
@@ -84,21 +85,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-
-- permaculture-rabbit-raising
-- [[permaculture-composting]]

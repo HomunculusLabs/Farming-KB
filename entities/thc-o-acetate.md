@@ -53,7 +53,7 @@ The acetylation reaction is analogous to the conversion of morphine to heroin (d
 - The military program was discontinued in the 1970s
 
 ### Recreational and Commercial Emergence (2018–present)
-- Reappeared in the commercial market around **2018–2019**, initially sold as a "legal high" product
+- Reappeared in the [[porcini-commercial-market]] around **2018–2019**, initially sold as a "legal high" product
 - Marketed under claims of being derived from **hemp-sourced CBD** (converted to Δ⁸-THC, then acetylated) to exploit the **2018 Farm Bill** loophole
 - Labeled variously as "THC-O," "THC-O-acetate," "THC acetate," or simply "hemp-derived THC"
 - Sold as vape cartridges, gummies, tinctures, and other consumable forms
@@ -66,8 +66,8 @@ THC-O acetate functions primarily as a **prodrug** of THC:
 
 1. After administration, the compound is absorbed and distributed throughout the body
 2. **Esterases** in plasma and tissues cleave the acetate ester bond
-3. The active metabolite (Δ⁹-THC or Δ⁸-THC, depending on precursor) is released and binds to **cannabinoid receptors CB₁ and CB₂**
-4. The released THC then produces psychoactive effects through standard cannabinoid signaling pathways
+3. The active metabolite (Δ⁹-THC or Δ⁸-THC, depending on precursor) is released and binds to **[[cannabinoid-receptors-cb1-and-cb2]] CB₁ and CB₂**
+4. The released THC then produces psychoactive effects through standard cannabinoid [[plant-signaling-pathways]]
 
 The prodrug mechanism accounts for the characteristically **delayed onset** of effects.
 
@@ -80,7 +80,7 @@ The prodrug mechanism accounts for the characteristically **delayed onset** of e
 ### Onset and Duration
 - **Onset:** 20–60 minutes when vaped; 1–3 hours when ingested orally
 - **Peak effects:** 2–4 hours post-ingestion
-- **Duration:** 4–8 hours total, depending on route of administration and individual metabolism
+- **Duration:** 4–8 hours total, depending on [[mushroom-taste-route-of-administration-and-consumption-barriers]] and individual metabolism
 - The delayed onset has led to **overconsumption incidents** when users mistakenly assume the product is not working
 
 ## Synthesis
@@ -88,40 +88,3 @@ The prodrug mechanism accounts for the characteristically **delayed onset** of e
 The commercial production pathway typically involves:
 
 1. **Extraction of CBD** from hemp biomass ([[comparison-cannabis-sativa-vs-cannabis-indica]] L. with <0.3% Δ⁹-THC)
-2. **Isomerization** of CBD to Δ⁸-THC using acid catalysts (e.g., p-toluenesulfonic acid)
-3. **Acetylation** of Δ⁸-THC using acetic anhydride in the presence of a catalyst (e.g., DMAP or pyridine)
-4. **Purification** via chromatography or distillation
-
-### Safety Concerns in Synthesis
-- **Acetic anhydride** is a hazardous, corrosive reagent requiring careful handling
-- **Inadequate purification** can leave residual acetic anhydride or reaction byproducts
-- **Unregulated production** raises concerns about heavy metal contamination, residual solvents, and incorrect dosing
-- The DEA has noted that many illicit THC-O products contain **unknown impurities** and inconsistent cannabinoid profiles
-
-## Legal Status
-
-| Jurisdiction | Status (as of 2026) |
-|-------------|-------------------|
-| **United States (federal)** | Not explicitly scheduled; DEA has issued guidance that THC-O "does not occur naturally in the hemp plant" and may be treated as a controlled substance analogue under the Federal Analog Act |
-| **United Kingdom** | Class B controlled substance under the Misuse of Drugs Act 1971 (as a THC derivative) |
-| **Canada** | Controlled under the Cannabis Act as a "cannabinoid product" |
-| **EU** | Varies by member state; most classify it as a controlled substance |
-| **Australia** | Schedule 9 (prohibited substance) |
-
-The legal ambiguity in the United States stems from the 2018 Farm Bill's definition of "hemp" and its derivatives. However, the DEA's 2022 guidance clarified that **synthetically derived tetrahydrocannabinols** are controlled substances regardless of source material, which many legal analysts interpret as encompassing THC-O acetate.
-
-## Health Risks
-
-- **No clinical safety data** — no human pharmacokinetic or toxicological studies have been published
-- **Overconsumption risk** due to delayed onset leading to redosing
-- **[[blesching-cannabis-safety-adverse-effects-evidence]]** reported include extreme anxiety, paranoia, dissociation, vomiting, and sedation
-- **Vaping concerns** — the lipid-soluble nature of THC-O may pose additional risks to pulmonary tissue when vaporized
-- **Regulatory absence** means products are not subject to quality control, lab testing mandates, or childproof packaging requirements
-- **Drug interactions** are poorly characterized; may interact with CYP450 enzyme system similarly to THC
-
-## See Also
-
-- [[cannabidiol-cbd]]
-- [[lsd]]
-- [[psilocybin]]
-- delta 8 thc

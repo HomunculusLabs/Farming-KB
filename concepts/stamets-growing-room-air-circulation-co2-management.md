@@ -88,34 +88,3 @@ mounting that directs air across the room width.
 
 The outlet holes are designed so the airstream reaches walls and floor without
 directly hitting top containers. Two sizing guidelines apply:
-
-1. The total surface area of the holes equals the cross-sectional area of the
-   duct.
-2. The spacing between holes equals one-quarter the distance between the duct
-   and the wall or floor.
-
-## Entrainment and Dead Air Elimination
-
-The discharge of air at sufficient velocity to draw in surrounding room air is
-called entrainment [[query-what-are-the-benefits-of-growing-mushrooms-at-home]] at enhances the effective capacity of the
-air circulation system. Proper hole sizing and spacing create a flow pattern
-of even air that directly benefits the growing mushrooms. Eliminating dead-air
-pockets through entrainment is the fundamental goal of air management in the
-growing room.
-
-## Ventilation Filtration
-
-Fresh air filters screen out atmospheric dust particles including smoke,
-silica, soot, and decayed biological matter. Atmospheric dust also contains
-spores, bacteria, and plant pollen, some of which are detrimental to mushroom
-culture. Agaricus growers commonly use high efficiency, extended surface, dry
-filters with pleated or deep fold designs. These filters remove 0.3 micron
-particles at 90 to 95% efficiency and 5.0 micron particles at even higher
-rates. Some mushroom farms also filter recirculated air to counteract the
-spread of spores and microorganisms originating within the cropping room.
-
-## See Also
-
-- [[stamets-growing-room-design]]
-
-- [[thermohaline-circulation]]

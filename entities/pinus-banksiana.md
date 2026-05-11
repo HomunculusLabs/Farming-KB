@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Rudolph, T.D. & Laidly, P.R. (1990). "Pinus banksiana Lamb." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
+  - Rudolph, T.D. & Laidly, P.R. (1990). "Pinus banksiana Lamb." Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA FS.
   - Gauthier, S., Bergeron, Y. & Simon, J.P. (1993). "Fire History and Postfire Stand Dynamics." Canadian Journal of Forest Research 23.
   - Cayford, J.H. & McRae, D.J. (1983). "Ecological Role of Fire in Jack Pine Forests." In: The Role of Fire in Northern Circumpolar Ecosystems.
 ---
@@ -20,7 +20,7 @@ sources:
 ## Overview
 
 **Pinus banksiana**, the jack pine, is a small to medium conifer native to
-boreal and sub-boreal regions of North America.
+boreal and sub-boreal regions [[berry-growing]].
 
 It is one of the most widely distributed pines in Canada, forming extensive
 forests across the boreal shield and northern prairie regions.
@@ -88,52 +88,3 @@ excessively drained sandy and gravelly soils.
 
 The species is extremely cold-hardy, tolerating winter temperatures below
 -50°C across its northern range.
-
-It commonly occurs on glacial outwash plains, eskers, sandy moraines, and
-rocky barrens.
-
-Jack pine is shade-intolerant and does not reproduce beneath a closed canopy,
-relying on disturbance for regeneration.
-
-## Ecological Role
-
-Jack pine is a foundational species of the boreal fire regime, depending on
-stand-replacing wildfires for regeneration.
-
-Serotinous cones release massive seed quantities after fire, establishing
-dense even-aged stands on burned seedbeds.
-
-This creates a mosaic of age classes across the boreal landscape.
-
-Jack pine stands provide critical habitat for the endangered Kirtland's
-warbler, which nests almost exclusively in young jack pine of specific age and
-density in central Michigan.
-
-The species supports browsing by moose, snowshoe hare, and white-tailed
-deer.
-
-## Uses and Forestry
-
-Jack pine is an important commercial species in Canada, harvested for
-pulpwood, lumber, and round timber.
-
-The wood is light and moderately soft (specific gravity ~0.40), suitable for
-pulp, structural lumber, and utility poles.
-
-It and [[pinus-sylvestris]] are the primary boreal management species in
-Canada and the Lake States.
-
-Rotational ages are 40–60 years for pulpwood and 60–80 years for sawtimber.
-
-The species is increasingly used for bioenergy and [[clay-seed-pellet-production-method-concrete-mixer]].
-
-## See Also
-
-- [[pinus-contorta]]
-- [[pinus-sylvestris]]
-- [[pinus-ponderosa]]
-- [[picea-glauca]]
-- [[larix-laricina]]
-- [[picea-abies]]
-- [[betula-papyrifera]]
-- [[juniperus-communis]]

@@ -10,7 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Ursula E. Stöcker (2012). 'Coprinus comatus — Eine Monographie.' MykoBank."
+  - "Ursula E. Stöcker (2012). 'coprinus-comatus-cultivation — Eine Monographie.' MykoBank."
   - "Ryvarden, L. & Gilbertoni, T.B. (2004). 'Wood-inhabiting polyporoid and corticioid fungi.' Synopsis Fungorum."
   - "Kühner, R. (1980). 'Les Hyménomycètes agaricoïdes.' Bulletin de la Société des Naturalistes Luxembourgeois."
   - "Arora, D. (1986). 'Mushrooms Demystified.' Ten Speed Press."
@@ -33,7 +33,7 @@ compacted soils rich in [[hamilton-composting-and-organic-matter-management]].
 
 ## Taxonomy and Morphology
 
-**Classification:** Kingdom Fungi → Division Basidiomycota → Class Agaricomycetes →
+**Classification:** [[fungal-taxonomy-and-kingdom-fungi]] → Division Basidiomycota → Class Agaricomycetes →
 Order Agaricales → Family Agaricaceae → Genus *Coprinus* → Species *C. comatus*.
 
 **Authority:** (Pers.) Gray (1821). Basionym: *Agaricus comatus* O.F. Müll.
@@ -48,7 +48,7 @@ is covered in shaggy, erect white to buff scales that give the mushroom its
 common name. The cap margin extends slightly beyond the gills at maturity.
 
 Gills are crowded, free from the stipe, and initially white. They progress
-through pink to gray and finally black as deliquescence begins. Spore print is
+through pink to gray and finally black as deliquescence begins. [[boil-a-bag-spore-print-technique-jarrold]] is
 black. Basidiospores are ellipsoid, smooth, 12–18 × 7–10 µm, with a central
 germ pore.
 
@@ -58,14 +58,14 @@ expands. Flesh is thin, white, and lacks any significant odor when fresh.
 
 ## Distribution and Habitat
 
-*Coprinus comatus* has a nearly cosmopolitan distribution across temperate and
+*Coprinus comatus* has a nearly [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] across temperate and
 subtropical regions. It is found throughout Europe, [[psilocybin-north-america-pacific-northwest]], Asia, and
 parts of Africa and Australia. It fruits from late spring through autumn, with
 peak fruiting in early to mid-autumn in temperate zones.
 
 The species is strongly associated with disturbed ground and nutrient-rich soils.
 Common substrates include roadsides, cultivated fields, gardens, compost heaps,
-and grassy areas near farms. It often appears in clusters or fairy rings in
+and grassy areas near farms. It often appears in clusters or [[bloomfield-fairy-rings-armillaria-giant-fungi]] in
 open, sunny locations.
 
 Unlike many agarics, shaggy mane is not a strict woodland species. It thrives
@@ -87,60 +87,4 @@ acetaldehyde dehydrogenase. Consumption with alcohol can cause a disulfiram-like
 reaction (flushing, nausea, palpitations). This effect lasts 48–72 hours after
 ingestion. Cooking does not destroy coprine entirely.
 
-The species should not be confused with *Coprinopsis atramentaria* (common
-inkcap), which contains much higher coprine concentrations and causes more
-severe reactions. *C. comatus* from cultivated sources has been reported to have
-lower coprine levels than wild-collected specimens.
-
-## Bioactive Compounds
-
-Coprine (N⁵-(1-hydroxycyclopropyl)-L-glutamine) is the primary bioactive
-compound. It is metabolized to 1-aminocyclopropanol, which irreversibly inhibits
-acetaldehyde dehydrogenase. This mechanism is identical to that of the drug
-disulfiram (Antabuse), used in alcohol aversion therapy.
-
-The coprine content varies significantly with developmental stage. Young
-specimens with white gills contain lower concentrations, while mature
-specimens approaching deliquescence accumulate higher levels. Some studies
-report 1–5 mg coprine per gram of fresh weight.
-
-Additional metabolites include several indole derivatives and aromatic
-compounds. *C. comatus* extracts have shown antimicrobial activity against
-*Staphylococcus aureus* and *Escherichia coli* in vitro, though clinical
-relevance remains unestablished.
-
-Recent research has investigated the species for antioxidant and
-anti-inflammatory properties. Polysaccharide fractions isolated from the fruiting
-body demonstrate moderate free-radical scavenging activity in DPPH assays.
-
-## Cultivation
-
-Outdoor cultivation of *C. comatus* is relatively straightforward, though indoor
-cultivation on sterile substrates is rarely practiced commercially. The species
-is often a welcome volunteer in [[cotter-outdoor-mushroom-garden-mulch-beds]] beds and garden compost.
-
-Spawn can be prepared on grain or [[oyster-mushroom-pasteurized-straw-cultivation]]. Inoculation into
-nitrogen-rich garden beds, compost piles, or disturbed soil is the standard
-approach. The mycelium is vigorous and colonizes quickly at 20–25°C.
-
-Fruiting occurs naturally with seasonal temperature changes and rainfall. In
-temperate climates, beds inoculated in spring typically fruit from late summer
-through autumn. Yields are variable but can be substantial in enriched beds.
-
-A major cultivation challenge is the extremely short harvest window. Caps
-deliquesce within hours of opening, making commercial harvest logistically
-difficult. This is the primary reason shaggy mane is not widely cultivated
-despite its culinary reputation.
-
-## See Also
-
-- [[agaricus-bisporus]]
-- [[morchella-esculenta]]
-- [[psilocybe-cubensis]]
-- [[pleurotus-ostreatus]]
-- [[lentinula-edodes]]
-- [[fomes-fomentarius]]
-- [[stropharia-rugosoannulata]]
-- [[coprinopsis-atramentaria]]
-- [[amanita-muscaria]]
-- [[laetiporus-sulphureus]]
+The species should not be confused with *[[coprinopsis-atramentaria]]* (common

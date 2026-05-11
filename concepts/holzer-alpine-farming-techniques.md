@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Farming at 1,100-1,500m Altitude
 
@@ -87,11 +88,3 @@ Holzer sows paddocks with mixed crops that provide complete [[savory-livestock-n
 - **Cereals with legumes and root crops**: Harvested together as forage
 - **Ancient grains**: Undemanding, grow quickly, provide green material and grain
 - Animals harvest these themselves, eliminating the need for mechanised feeding
-
-## See Also
-
-- 
-- [[holzer-cattle-poultry-management]]
-- [[holzer-bone-salve-rock-dust]]
-- [[holzer-fish-farming]]
-- [[holzer-alpine-plant-cultivation-gentian]]

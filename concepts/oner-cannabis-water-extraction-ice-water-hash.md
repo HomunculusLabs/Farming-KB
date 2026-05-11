@@ -5,6 +5,7 @@ updated: 2026-04-24
 type: concept
 tags: [cannabis, extraction, ice-water-hash, bubble-hash, concentrates]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "S.T. Oner - comparison-cannabis-sativa-vs-cannabis-indica Volume 3: The Essential Guide"
 ---
 
@@ -87,26 +88,3 @@ Based on the context in Oner's guide, water extraction offers several benefits:
 
 1. **Solventless**: No chemicals are used, making it one of the safest extraction
    methods
-2. **Full-spectrum**: Preserves the complete range of cannabinoids and terpenes
-3. **Terpene preservation**: Cold processing maintains volatile aromatic compounds
-4. **Medical applications**: Harlequin demonstrates that water extraction serves
-   medical patients who need concentrated, clean cannabinoid products
-5. **Accessibility**: The method requires only buckets, ice, water, and mesh bags
-
-## Water Extraction in the Context of Strain Selection
-
-Oner's emphasis on resin-heavy strains reflects the importance of starting material
-quality for any extraction method. Breeders are increasingly developing strains
-specifically with extraction in mind:
-
-- The distinction between strains good for "smoking the resin or the buds" (Nepalese
-  Temple) indicates that some genetics are optimized for extraction
-- Multiple strain reviews note that resinous plants produce enough "[[cervantes-finger-hash-manicuring]]" just
-  during trimming to warrant water extraction of the remaining material
-- The trend toward high-THC, high-resin sativa-dominant strains (Jack 47 at 18-24%
-  THC) aligns with extraction-focused breeding
-
-## See Also
-
-- [[oner-cannabis-co2-solvent-extraction]]
-- [[oner-cannabis-edibles-infusion-dosing]]

@@ -28,7 +28,7 @@ created: 2026-05-07
 
 **Ulluco**, **ulluku**, **melloco**, **olloc**, **rubas**
 
-*Ullucus tuberosus* is a perennial herbaceous plant in the family Basellaceae native to the Andean highlands of Peru, Bolivia, Ecuador, and Colombia. It is one of the most important traditional root crops of the Andes, cultivated alongside potato, oca, and mashua as part of the Andean tuber complex. Ulluco produces small, brightly colored tubers ranging from yellow and orange to magenta, red, and purple, often with contrasting pigmented bands or spots. It is the single most cold-tolerant of all cultivated tuber crops, capable of growing at altitudes up to 4,200 meters where few other crops survive.
+*Ullucus tuberosus* is a perennial herbaceous plant in the family Basellaceae native to the Andean highlands of Peru, Bolivia, Ecuador, and Colombia. It is one of the most important traditional root crops of the Andes, cultivated alongside potato, oca, and mashua as part of the Andean tuber complex. Ulluco produces small, brightly colored tubers ranging from yellow and orange to magenta, red, and purple, often with contrasting pigmented bands or spots. It is the single most cold-tolerant of all cultivated [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]], capable of growing at altitudes up to 4,200 meters where few other crops survive.
 
 ## Botanical Description
 
@@ -38,7 +38,7 @@ created: 2026-05-07
 
 **Tubers** are produced on stolons (underground stems) and range from 2–15 cm in length, typically ovoid or elongated. The skin color is remarkably diverse — solid or banded patterns of yellow, orange, red, magenta, pink, lavender, and purple. The flesh is crisp, firm, and translucent, typically yellow or white. Tubers have a high water content (85–90%) and a slightly mucilaginous texture similar to okra or malanga.
 
-The plant is self-compatible and produces small, greenish-white flowers in clusters, though seed production is rare in cultivated varieties. Propagation is almost entirely vegetative, through tuber planting.
+The plant is self-compatible and produces small, greenish-white flowers in clusters, though [[cannabis-controlled-pollination-seed-production]] is rare in cultivated varieties. Propagation is almost entirely vegetative, through tuber planting.
 
 ## Natural Range and Distribution
 
@@ -48,7 +48,7 @@ It is virtually unknown outside the Andes, though small-scale cultivation has be
 
 ## Nutritional Profile
 
-Ulluco tubers are notable for their nutritional density relative to other root vegetables:
+Ulluco tubers are notable for their nutritional density relative to other [[growing-root-vegetables-guide]]:
 
 - **Carbohydrates**: 13–15% (primarily starch, with some fructans and mucilage)
 - **Protein**: 1.5–2.0% — higher than potato on a fresh-weight basis
@@ -78,56 +78,13 @@ The mucilaginous quality (similar to okra) is either appreciated as a thickening
 
 Ulluco is adapted to the extreme conditions of high-altitude Andean agriculture:
 
-- **Temperature tolerance**: Survives repeated frosts (down to -5°C) and grows in areas where nighttime temperatures regularly drop below freezing
+- **[[mycorrhizal-drought-and-temperature-tolerance]]**: Survives repeated frosts (down to -5°C) and grows in areas where nighttime temperatures regularly drop below freezing
 - **Day length**: Short-day plant; tuberization is triggered by days under 12 hours
 - **Soil**: Adaptable to poor, acidic, volcanic soils; tolerates pH 4.5–7.0
 - **Water**: Moderate water requirements; performs best with consistent moisture
 - **Altitude**: Optimal between 3,000–4,000 m; cultivated up to 4,200 m
-- **Growing season**: 5–8 months from planting to harvest
+- **[[extending-growing-season]]**: 5–8 months from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]]
 
 ### Propagation
 
 Small tubers (15–40 g "seed tubers") or tuber pieces are planted at the beginning of the rainy season (October–November in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]). Plants are spaced 30–50 cm apart in rows 60–80 cm apart. No seed varieties exist in commercial cultivation — all propagation is clonal, maintaining named varieties selected over generations.
-
-### Companion Planting
-
-In traditional Andean agriculture, ulluco is intercropped with:
-- Potato — complementary nutrient requirements
-- Oca (*[[oxalis-tuberosa]]*) — different root depths, staggered harvest
-- Mashua (*Tropaeolum tuberosum*) — pest-repellent properties
-- Quinoa and kiwicha — above-ground grain crops
-- Tarwi — nitrogen-fixing lupin
-
-This polyculture, called *suyu* or *achacana* locally, produces multiple crops from the same plot, reduces pest pressure, and maximizes land use efficiency on steep terraced hillsides.
-
-## Permaculture Applications
-
-Ulluco is gaining attention in permaculture circles for several reasons:
-
-- **Extreme climate resilience**: Among the most frost-tolerant food crops known
-- **Low-input**: Requires minimal fertilizer, irrigation, or pest management
-- **Soil building**: The extensive ground-cover habit suppresses weeds and protects soil
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep root systems access minerals unavailable to shallower crops
-- **Genetic diversity**: Hundreds of landrace varieties provide adaptability to changing conditions
-- **Food security**: Produces reliable yields in marginal conditions where other crops fail
-
-It is particularly suited to cool, high-altitude, or high-latitude permaculture sites where growing seasons are short and frost risk is high.
-
-## Threats and Conservation
-
-- **Landrace erosion**: Modernization and urbanization in the Andes are displacing traditional farming systems
-- **Climate change**: Warming temperatures at high altitudes may shift optimal cultivation zones upward
-- **[[cervantes-viral-diseases-cannabis]]**: Ulluco mild mosaic virus and other potyviruses affect yields
-- **Nematodes**: Root-knot nematodes (*Meloidogyne* spp.) can reduce tuber quality
-- **Limited genetic improvement**: Almost no formal breeding programs exist
-
-The International Potato Center (CIP) in Lima maintains a germplasm collection of ulluco accessions, conserving genetic diversity for future crop improvement.
-
-## See Also
-
-- [[pachyrhizus-tuberosus]]
-- Permaculture — design framework for polyculture integration
-- [[comfrey-symphytum-officinale|Comfrey]] — [[nutrient-dynamic-accumulator-reference]] companion for tuber beds
-- [[oxalis-tuberosa]]
-- [[tropaeolum-tuberosum]]
-- [[companion-planting]]

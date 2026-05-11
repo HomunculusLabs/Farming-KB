@@ -1,17 +1,17 @@
 ---
-title: Sacred Gasteromycetes and Non-Psilocybin cattle-dispersal-psychoactive-fungi-australia
+title: Sacred Gasteromycetes Non Psilocybin Psychoactive Fungi
 created: 2026-04-28
 tags:
   - mycology
   - ethnomycology
   - gasteromycetes
   - sacred-fungi
-  - neurotropic-fungi
+  - [[neurotropic-fungi]]
   - indigenous-knowledge
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
+  - Guzmán, Allen & Gartz (2000) - A Worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification
 type: concept
 ---
 
@@ -36,7 +36,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -86,19 +86,5 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[neurotropic-fungi]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-polypores-boletes-puffballs]]
-- [[guzman-allen-gartz-sacred-non-psilocybin-fungi-cordyceps-and-claviceps]]
-- [[gasteromycetes-sacred-fungi]]
-- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]

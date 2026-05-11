@@ -6,6 +6,7 @@ type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18
@@ -35,7 +36,7 @@ Water management is one of the central pillars of Holzer's permaculture approach
 1. **Water storage**: retain water on landscape, reduce runoff
 2. **Microclimate**: moderate temperature, increase humidity, reduce frost damage
 3. **Habitat**: amphibians, insects, fish, birds
-4. **Food production**: fish, edible aquatic plants
+4. **Food production**: fish, [[edible-aquatic-plants]]
 5. **Aesthetic**: reflecting surface, movement, sound
 6. **Fire protection**: emergency water supply
 7. **Water purification**: natural filtration through plants and soil
@@ -45,13 +46,13 @@ Water management is one of the central pillars of Holzer's permaculture approach
 ### Deep Water Plants
 - **White water lily** (Nymphaea alba): classic pond plant, roots in deep water
 - **Yellow water lily** (Nuphar lutea): similar to white, yellow flowers
-- **Water soldier** (Stratiotes aloides): free-floating, oxygenating
+- **Water soldier** ([[stratiotes-aloides]]): free-floating, oxygenating
 
 ### Marginal Plants
 - **Water plantain** (Alisma plantago-aquatica): shallow water edges
-- **Arrowhead** (Sagittaria sagittifolia): edible tubers, shallow water
+- **Arrowhead** ([[sagittaria-sagittifolia]]): edible tubers, shallow water
 - **Sweet flag** ([[sweet-flag-acorus-calamus-ethnobotany]]): marshy edges, medicinal
-- **Bulrushes** (Typha latifolia): dense stands, water purification
+- **Bulrushes** ([[typha-latifolia]]): dense stands, water purification
 - **Yellow iris** (Iris pseudacorus): ornamental, water purification
 
 ### Floating and Submerged Plants
@@ -59,11 +60,11 @@ Water management is one of the central pillars of Holzer's permaculture approach
 - Various submerged oxygenators
 
 ### Functions of Aquatic Plants
-- **Oxygenation**: submerged plants release oxygen into water
+- **Oxygenation**: submerged plants [[query-how-does-hemoglobin-know-when-to-release-oxygen]] into water
 - **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: absorb nutrients, prevent algal overgrowth
 - **Habitat structure**: provide shelter for fish, amphibians, invertebrates
 - **Water purification**: filter pollutants, trap sediments
-- **Temperature regulation**: shade water surface, reduce evaporation
+- **[[blesching-cannabis-fever-temperature-regulation]]**: shade water surface, reduce evaporation
 - **Food**: some species edible for humans and animals
 
 ## Fish and Aquatic Animals
@@ -87,59 +88,3 @@ Water management is one of the central pillars of Holzer's permaculture approach
 - Match species to water temperature and quality
 - Provide habitat structure (stones, plants, depth variation)
 - Natural feeding (no artificial feed needed in balanced system)
-- Predator-prey balance prevents overpopulation
-
-## Integration with Other Systems
-
-### Ponds and Raised Beds
-- Water from ponds used to irrigate raised beds
-- Ditches carry water between pond levels to beds
-- Pond sediment (mud) used as fertiliser for gardens
-
-### Ponds and Animal Systems
-- Ducks and geese use ponds for swimming and feeding
-- Water plants provide duck forage
-- Fish processing waste can feed pigs/poultry
-- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] can fertilise pond edges (careful not to overload)
-
-### Ponds and Microclimate
-- Open water reflects light, warming adjacent areas
-- Evaporation increases humidity, protecting nearby plants from frost
-- Water bodies moderate temperature swings (warm slowly, cool slowly)
-
-### Ponds and Wildlife
-- Birds attracted to water for drinking and bathing
-- Insect populations supported (dragonflies, mayflies, etc.)
-- Amphibians breed in ponds and control garden pests
-- Stone edges provide basking spots for reptiles
-
-## Water Quality Management
-
-### Natural Purification
-- Reed beds and treatment ponds for wastewater
-- Plants filter pollutants and trap sediments
-- Bacterial action in pond bottom breaks down [[hamilton-composting-and-organic-matter-management]]
-- No chemicals needed in balanced system
-
-### Thailand Project Application
-- Polluted water supply from intensive farming
-- Recommended reed bed for wastewater purification
-- Treatment ponds with appropriate plants, aeration, and filtering
-- Deep well for clean water access
-- Pump systems powered by water, wind, or photovoltaic cells
-
-## Winter Considerations
-
-- Ponds may freeze over in mountain winters
-- Ice layer insulates water below
-- Fish survive in deeper zones
-- Break ice if keeping livestock that drinks from pond
-- Stone placement creates pockets that resist freezing
-
-See also: [[sepp-holzer-global-projects]], albert hofmann,
-
-## Related
-
-- [[pond-design-and-construction]]
-- [[holzer-poultry-keeping-ducks-geese-and-chickens]]
-- [[water-plants-aquatic-systems]]

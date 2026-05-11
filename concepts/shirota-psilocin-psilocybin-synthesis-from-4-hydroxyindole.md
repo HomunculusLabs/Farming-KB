@@ -88,37 +88,3 @@ The organic solution is concentrated, filtered through aminopropyl silica
 gel, and concentrated again. The resulting crystals are washed with methanol
 to afford psilocin as white crystals in over 85% yield. The melting point
 was 169-174 degrees Celsius with decomposition (literature: 173-176
-degrees C with decomposition).
-
-The complete four step sequence from 4-hydroxyindole to psilocin achieved
-gram scale production without any chromatographic purification, a
-significant practical advantage for producing reference standards.
-
-## Spectroscopic Characterization
-
-Psilocin was characterized by UV (MeOH) lambda max at 222.5, 268.0, 284.5,
-and 294.0 nm. IR showed peaks at 3285, 2959, 1620, 1588, and 1473 cm-1.
-The proton NMR showed the characteristic indole aromatic pattern and the
-ethylamine side chain signals. High resolution mass spectrometry confirmed
-the molecular formula C12H17N2O with the protonated molecule at m/z
-205.1303.
-
-## Key Innovation
-
-The central innovation of the Shirota synthesis was the practical
-elimination of chromatographic purification at every step. Each intermediate
-was crystalline and could be isolated by simple filtration and washing.
-This made the synthesis accessible to forensic laboratories that needed
-gram scale quantities of reference standards but lacked sophisticated
-chromatographic equipment. The overall yield and purity were gratifying
-when compared to previously reported yields of 20% and 47% for psilocybin
-from other routes.
-
-## Related
-
-- [[shirota-4-hydroxyindole-acetyl-protection-experimental]]
-
-- [[shirota-psilocin-psilocybin-synthesis]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[psilocybin-biosynthetic-metabolic-pathway]]

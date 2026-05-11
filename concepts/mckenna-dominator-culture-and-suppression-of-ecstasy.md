@@ -1,5 +1,5 @@
 ---
-title: mckenna dominator culture and suppression of ecstasy and Suppression of Ecstasy
+title: Mckenna Dominator Culture And Suppression Of Ecstasy
 created: 2026-04-28
 tags: [mckenna, dominator-culture, ecstasy, shamanism, prohibition, 
 partnership, patriarchy, consciousness]
@@ -11,9 +11,9 @@ type: concept
 
 # Dominator Culture and Suppression of Ecstasy
 
-Terence McKenna's concept of "dominator culture" provides a sweeping historical 
+[[terence-mckenna]]'s concept of "dominator culture" provides a sweeping historical 
 framework for understanding the systematic suppression of ecstatic experience 
-in Western civilization. Drawing on the archaeological work of Marija Gimbutas, 
+in [[eleusinian-mysteries-psychoactive-fungi-western-civilization]]. Drawing on the archaeological work of Marija Gimbutas, 
 Riane Eisler's partnership/dominator model, and his own interpretation of the 
 historical record, McKenna argued that the transition from goddess-worshipping, 
 partnership-based societies to patriarchal, hierarchy-based societies involved 
@@ -24,7 +24,7 @@ of hierarchical power.
 
 ## Partnership versus Dominator Societies
 
-McKenna adopted Riane Eisler's distinction between partnership and dominator 
+McKenna adopted Riane Eisler's distinction between [[partnership-and-dominator-cultures-in-human-history]] 
 social models. Partnership societies, exemplified by the Neolithic cultures of 
 Old Europe documented by Marija Gimbutas, were characterized by gender 
 equality, peaceful coexistence, goddess-centered religion, and the absence of 
@@ -85,63 +85,6 @@ and conformity rather than dissolving them.
 McKenna extended his analysis beyond alcohol to include the "drugs of 
 gentility" that powered colonial expansion and industrial capitalism. Sugar 
 created addiction and slavery on a global scale. Coffee and tea provided the 
-stimulant energy that powered the Industrial Revolution, keeping workers alert 
+stimulant energy that powered the [[mckenna-caffeine-coffee-and-industrial-revolution]], keeping workers alert 
 during long hours of factory labor. These substances, unlike the plant 
 hallucinogens they displaced, do not challenge the ego or promote ecological 
-awareness. Instead, they optimize the individual for productive labor within 
-the dominator system.
-
-The irony is that these socially sanctioned drugs are far more destructive than 
-the prohibited ones. "Our global culture finds itself in danger of succumbing 
-to an Orwellian effort to bludgeon the problem out of existence through 
-military and police terrorism," while the real drugs of mass destruction are 
-celebrated and marketed. Tobacco, alcohol, and pharmaceuticals kill millions 
-annually while the plants that McKenna argued expanded human consciousness are 
-criminalized and their users imprisoned.
-
-## The War on Drugs as Cultural Warfare
-
-McKenna interpreted the modern War on Drugs as the latest phase of the 
-dominator culture's suppression of ecstatic experience. The criminalization of 
-psychedelic plants, which have been used sacramentally for thousands of years, 
-serves no public health purpose. Psychedelics are not addictive, do not cause 
-significant physical harm, and have never been shown to increase violent 
-behavior. Their prohibition serves instead to maintain the dominator culture's 
-monopoly on the definition of acceptable consciousness.
-
-The disproportionality of drug enforcement, which incarcerates millions for 
-possession of relatively harmless plants while celebrating alcohol and 
-pharmaceutical use, reveals the political nature of the prohibition. McKenna 
-argued that "the suppression of [[mckenna-suppression-psychedelic-research-lsd-therapy]] and the systematic 
-disinformation campaign against these substances is the most successful example 
-of Orwellian social control in human history."
-
-## Toward an Archaic Revival
-
-McKenna's proposed solution was what he called an "Archaic Revival," a recovery 
-of the partnership values and shamanic practices that characterized 
-pre-dominator human culture. This does not mean a literal return to the Stone 
-Age but rather a reintegration of the ecstatic dimension of human experience 
-into modern life. "We can no longer postpone an honest reappraisal of the true 
-costs and benefits of habitual use of plants and drugs versus the true costs 
-and benefits of suppression of their use."
-
-The Archaic Revival would involve recognizing the legitimate religious 
-dimensions of psychoactive plant use, reforming [[mckenna-modest-proposal-drug-policy-reform]] to distinguish 
-between addictive substances that reinforce dominator patterns and entheogenic 
-substances that promote ecological awareness, and recovering the shamanic 
-understanding that human consciousness participates in a larger web of meaning 
-and intelligence. The goal is not to reject modernity but to restore the 
-dimension of ecstatic experience that the dominator culture has systematically 
-excluded.
-## See Also
-
-- [[mckenna-catalytic-psychedelics-and-culture]]
-- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
-- [[dominator-culture-and-partnership-society]]
-
-- [[mckenna-shamanic-meme|McKenna Shamanic Meme]]
-- McKenna Food of the Gods
-- Partnership versus Dominator 
-Societies
-- [Entheogenic Plants and Religious 

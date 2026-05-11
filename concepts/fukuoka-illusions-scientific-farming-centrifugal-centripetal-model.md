@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, scientific-farming, centrifugal, centripetal, m
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Masanobu Fukuoka (1987), "The Natural Way of Farming: The Theory and Practice of Green Philosophy," Introduction and Chapter 1
 type: concept
 ---

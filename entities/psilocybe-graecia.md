@@ -88,10 +88,3 @@ Definitive identification of **P. graecia** requires [[fungal-microscopic-examin
 Key diagnostic features include:
 - Mediterranean distribution
 - Spore dimensions larger than [[psilocybin]]-containing species, **P. graecia** is subject to drug control legislation in most countries. In Greece, the collection and possession of psilocybian mushrooms is restricted under national drug laws.
-
-## See Also
-
-- [[psilocybe-semilanceata]] — the most widespread European [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
-- [[psilocybin]] — primary psychoactive compound
-- gastón-guzmán — taxonomist who catalogued global psilocybian fungi
-- [[magic-mushroom-global-distribution]] — key reference for [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] data

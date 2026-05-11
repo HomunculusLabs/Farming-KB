@@ -1,5 +1,5 @@
 ---
-title: [[permaculture]] Sheep Raising
+title: Permaculture Sheep Raising
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -88,53 +88,3 @@ These breeds are generally more parasite-resistant than wool breeds
 and tolerate heat better, making them well-suited to warmer climates.
 Wool breeds (Merino, Romney, Lincoln) provide fiber as an additional
 yield and may be preferred in cooler climates or where value-added
-wool products are part of the farm enterprise.
-Dual-purpose breeds like Border Leicester, Coopworth, and Polypay
-balance moderate wool production with good meat characteristics and
-mothering ability.
-For permaculture grazing systems focused on vegetation management
-and soil building, hardy, low-maintenance breeds that thrive on
-diverse forage are generally the best fit. See [[sheep-husbandry]]
-for breed-specific management details and [[livestock-feed-formulation]]
-for nutritional requirements.
-
-## Integration with Orchard Systems
-
-Sheep can provide valuable ecosystem services within food forest
-and orchard systems when properly managed.
-In established orchards (trees 7+ years old), sheep graze the
-understory, reducing mowing needs and converting grass and weeds
-into manure that fertilizes fruit trees.
-Sheep will also eat fallen fruit, reducing pest habitat and disease
-carryover between seasons.
-Key precautions include protecting young tree trunks with guards or
-fencing to prevent bark stripping, and removing sheep during harvest
-to avoid contamination of fruit with manure.
-Stocking density in orchards should be conservative, typically 2-4
-sheep per acre depending on understory productivity, to avoid soil
-compaction and overgrazing.
-Silvopasture systems that combine trees, forage, and sheep can be
-highly productive per unit area when the tree canopy is managed to
-allow sufficient light for pasture growth. See [[orchard-management]]
-for orchard integration principles and [[food-forest-design]] for
-multi-strata system planning.
-
-## Wool Processing and Value-Added Products
-
-For farms keeping wool breeds, wool processing can diversify farm
-income and close nutrient cycles within the permaculture system.
-Raw fleece can be sold directly to hand spinners or fiber artists
-at premium prices, particularly for rare or colored breeds.
-On-farm processing options include washing, carding, and felting
-with minimal equipment investment.
-Felted wool makes excellent mulch mats for garden beds, retaining
-moisture and suppressing weeds while slowly releasing nitrogen as
-the wool fibers decompose.
-Wool batting can be used as insulation in natural building projects,
-connecting the livestock enterprise to the farm's shelter systems.
-Lanolin extracted during wool washing has antimicrobial properties
-and traditional uses in salves and waterproofing treatments.
-These value-added products increase the overall yield of the sheep
-enterprise and exemplify the permaculture principle of multiple
-functions from each element. See [[hay-and-forage-management]] for
-complementary feed production planning.

@@ -2,8 +2,8 @@
 title: "Natural biointensive-carbon-farming Change — Fukuoka's Analysis"
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
-wikilinks: "fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-clay-seed-ball-preparation fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-critique-of-modern-science"
+sources: "masanobu-fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
+wikilinks: "fukuoka-sowing-natural-farming-philosophy [[fukuoka-sowing-seed-ball-desert-revegetation]] [[fukuoka-sowing-desert-greening-worldwide-results]] [[fukuoka-sowing-clay-seed-ball-preparation]] [[fukuoka-sowing-green-philosophy-one-grain-revolution]] fukuoka-road-critique-of-modern-science"
 type: concept
 tags: [climate, fukuoka, natural-farming]
 ---
@@ -11,7 +11,7 @@ tags: [climate, fukuoka, natural-farming]
 # Natural Farming and Climate Change — Fukuoka's Analysis
 
 *Fukuoka's analysis of desertification, climate change, and environmental
-degradation, and why natural farming is the only viable response.*
+degradation, and [[fukuoka-why-natural-farming-blocked-in-japan]] is the only viable response.*
 
 ## Desertification as a Human-Caused Crisis
 
@@ -88,40 +88,3 @@ underground water; its transpired mist acts as both sprinkler and fan.
 ## The Energy Balance of Modern Agriculture
 
 Fukuoka documented the disturbing energy economics of modern farming:
-
-- Fifty years ago in the United States, each calorie of energy invested produced
-about two calories of grain - Thirty to forty years ago, input and output became
-equal - Now, two calories of energy invested produce only one calorie of grain
-
-This "deduction" rather than production is largely due to the shift from hand
-labor, draft animals, and cover crops to machinery and chemicals (which require
-factories, mining, and drilling). Modern petroleum-based farming is not
-producing anything — it is producing a loss. The apparent increase in food
-production is subsidized by rapid depletion of the soil's [[hamilton-composting-and-organic-matter-management]],
-squandering stored solar energy.
-
-Whoever controls petroleum controls the world's food supply. When obtaining one
-unit of food energy requires three to four times as much energy input, the human
-race cannot maintain its food supply.
-
-## The Livestock and Fisheries Parallel
-
-The modern meat industry requires seven times the energy of eating grains and
-vegetables directly. Japanese cattle are fed American corn shipped across the
-Pacific, raised in small stalls, never grazing on pasture. The modern fish
-industry uses about ten pounds of small fish to raise one pound of high-class
-seafood, while destroying mangrove forests along Asian coastlines.
-
-## The Fundamental Cause
-
-Fukuoka identified misguided human knowledge and action as the fundamental cause
-of desertification. If these were eliminated, nature would heal itself. The
-problem is that water, soil, and plants are considered separately by different
-government departments. A permanent solution requires recognizing their unity.
-Scientific revegetation measures consider only one route to healing, and
-scattered, localized efforts end up as half-baked measures.
-
-## See Also
-- [[fukuoka-sowing-seed-ball-desert-revegetation]]
-- [[fukuoka-road-critique-of-modern-science]]
-- [[fukuoka-natural-farming-temperate-climates]]

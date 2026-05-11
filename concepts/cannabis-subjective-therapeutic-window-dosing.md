@@ -1,6 +1,6 @@
 ---
-title: "Cannabis cannabis subjective therapeutic window dosing Window — Finding Your Optimal Dose"
-source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching)"
+title: Cannabis Subjective Therapeutic Window Dosing
+source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] ([[uwe-blesching]])"
 topics: [cannabis, dosing, therapeutic-window, endocannabinoid-system, patient-safety, inhalation, ingestion]
 ---
 
@@ -8,7 +8,7 @@ topics: [cannabis, dosing, therapeutic-window, endocannabinoid-system, patient-s
 
 ## Overview
 
-The subjective therapeutic window is the precise range of cannabis intake that produces the desired therapeutic effect without triggering [[blesching-cannabis-safety-adverse-effects-evidence]]. Evidence has shown that the vast majority of adverse effects are directly related to using cannabis in excess of this window. Taking too little can be sub-optimal, while too much can actually increase the very symptoms you are attempting to treat.
+The subjective therapeutic window is the precise range of cannabis intake that produces the desired therapeutic effect without triggering [[blesching-cannabis-safety-adverse-effects-evidence]]. Evidence has shown that the vast majority of [[adverse-effects-and-harm-reduction-psilocybin]] are directly related to using cannabis in excess of this window. Taking too little can be sub-optimal, while too much can actually increase the very symptoms you are attempting to treat.
 
 For example, cannabis has long been used to reduce anxiety and return to a state of relaxation. However, if too much cannabis is consumed too rapidly, feelings of apprehension and anxiety may actually multiply rather than diminish. This biphasic dose-response curve is fundamental to understanding cannabis therapeutics.
 
@@ -18,7 +18,7 @@ Establishing one's therapeutic window is governed by three primary factors:
 
 ### 1. The Body's Present Endocannabinoid State
 The current balance or deficiency in your endocannabinoid system directly affects how you respond to cannabis. This includes:
-- Baseline levels of anandamide (the "bliss molecule")
+- Baseline levels of anandamide (the "[[anandamide-bliss-molecule]]")
 - CB1 and CB2 receptor density and sensitivity
 - Overall ECS tone — whether you are CB1-deficient or CB2-deficient
 
@@ -27,7 +27,7 @@ Patients dealing with neurological disorders or mental/emotional problems are mo
 Patients who are immune-compromised or experience chronic inflammation are most likely CB2-deficient. These patients would benefit from strains with a lower THC:CBD ratio, favoring CBD.
 
 ### 2. The Cannabinoid Profile in the Medicine
-Different cannabis strains and preparations contain different ratios of cannabinoids and terpenes. The ratio determines whether the whole plant's constituents are additive or cancel each other out.
+Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] and preparations contain different ratios of cannabinoids and terpenes. The ratio determines whether the whole plant's constituents are additive or cancel each other out.
 
 **Sativa-dominant strains** (higher THC:CBD ratio):
 - Generally stimulating, energizing, uplifting
@@ -87,63 +87,3 @@ Once the effective amount is determined:
 4. Always follow the recommendations of your healthcare provider
 
 ## Common Adverse Effects of Overdosing
-
-When cannabis is consumed above the therapeutic window, adverse effects may include:
-- **Motor impairment** — unsteady gait (ataxia)
-- **Speech difficulties** — inability to speak clearly (aphasia)
-- **Unusual sensory perceptions** — including hallucinations
-- **Anxiety** — though this can be addressed by reassurance
-- **Slight increase in heart rate**
-- **Subtle shifts in blood pressure** depending on body position
-- **Panic** — particularly upon first-ever use, moderated by reassurance
-
-Most adverse effects are self-limiting and resolve within hours. There are zero recorded deaths from exclusive cannabis use between 1997 and 2005 in FDA records, compared to 10,008 deaths attributed to 17 FDA-approved pharmaceutical drugs used for similar conditions.
-
-## Reducing the Risk of Dependence
-
-If concerned about developing a dependence on cannabis, two approaches can reduce this potential risk:
-
-1. **Mindfulness**: Infuse mindfulness into the healing process. Rather than using cannabis as a crutch, use the cannabis-induced state of mind to explore deeper causes of symptoms and take corrective action.
-
-2. **Raw preparations**: Use raw cannabis preparations, which have little or no psychoactive effect. Fresh cannabis contains CBD and THC in their acid forms (THCA, CBDA). THC is not psychoactive in this acid form, making raw cannabis ideal for patients advised to consume large quantities of CBD for therapeutic and preventative purposes.
-
-## Vaporizer vs. Smoking
-
-To minimize potential risk from inhaled carbon compounds:
-- **Vaporizers** heat plant material to a precise temperature that evaporates cannabinoids just below the burning point of plant matter
-- This eliminates inhalation of carbon compounds from burned paper and combusted plant material
-- Vaporizers provide more precise temperature control, enabling selective extraction of specific cannabinoids
-- [[query-how-to-make-herbal-infused-oils-at-home]] or alcohol-based tinctures can also address symptoms without any inhalation risk
-
-## Pharmaceutical Cannabinoid Dosing
-
-For patients using pharmaceutical preparations:
-- **Dronabinol** (synthetic THC) — available in precise gelatin capsule doses
-- **Nabilone** (synthetic cannabinoid) — precise oral dosing
-- **Sativex** (whole-plant extract spray) — metered-dose oral spray for precise titration
-
-These pharmaceutical options remove some of the variability inherent in plant material but may lack the [[cannabis-terpene-entourage-effect-profiles]] provided by full-spectrum cannabis preparations.
-
-## Special Populations
-
-### Adolescents
-A Duke University study (38 years, New Zealand) concluded that while adult cannabis use has no effect on intelligence, "cannabis dependency" in adolescents may contribute to reduced IQ test scores later in life. Until more is known, a possible correlation should be assumed.
-
-### Pregnant Women
-No long-term studies examining exclusive cannabis use on fertility, the fetus, or adolescents have been conducted. Most existing studies involved subjects exposed to multiple substances, complicating results. Caution is advised.
-
-### Patients with Schizophrenia Risk
-Adolescents or young adults with a known family history of psychosis or schizophrenia should avoid cannabis. While not itself a causal factor, it may be a co-factor in some instances.
-
-## Key Research References
-
-- Blesching, U. (2015). The Cannabis Health Index. North Atlantic Books. Chapter I.
-- FDA Adverse Event Reporting System data, 1997–2005.
-- Meier, M.H. et al. (2012). Persistent cannabis users show neuropsychological decline from childhood to midlife. PNAS.
-## See Also
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-health-cbd-cannabidiol]]
-- [[cannabis-health-thc-tetrahydrocannabinol]]
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
-- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

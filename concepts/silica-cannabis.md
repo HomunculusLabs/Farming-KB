@@ -2,7 +2,8 @@
 title: Silica Cannabis
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

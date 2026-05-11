@@ -88,21 +88,3 @@ The existence of sophisticated information processing without neurons suggests
 that cognition may be a more fundamental property of living matter than
 previously assumed. The **basal cognition** framework proposes that all living
 systems perform some form of information processing, with neural systems
-representing an elaboration rather than an invention. This view has
-philosophical implications for understanding the evolution of intelligence.
-
-## Controversies
-
-- Whether these phenomena truly constitute "memory" or are better described
-  as sensitization and fatigue is actively debated.
-- The term "plant neurobiology" is controversial; critics argue it is
-  metaphorical rather than literal, since plants lack neurons.
-- Attributing cognitive terms to non-neural systems risks anthropomorphism
-  without explanatory value if not carefully defined.
-
-## See Also
-
-- [[plant-memory-what-a-plant-remembers]]
-
-- [[bio-electronic-interfaces]]
-- [[mycelial-network-computation]]

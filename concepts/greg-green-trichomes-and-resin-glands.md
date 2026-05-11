@@ -88,26 +88,3 @@ breeders may exaggerate their claims.
 Trichomes are the raw material for making hashish. Hash is made primarily
 from the collection of stalked capitate trichomes. When the collected
 trichomes are compressed, they form a blocky mass referred to as hashish.
-
-The trim left over after harvesting buds, called skuff, is the primary
-source material for trichome extraction. Skuff should be sticky to the
-touch, indicating the presence of resin glands. For the best results,
-skuff should be examined under a microscope and any parts lacking
-trichomes should be discarded. The skuff should be stored for 3 to 6 weeks
-before processing, similar to curing bud.
-
-There are several methods for gathering trichomes, including flat silk
-screening, flat metal screening, and multiple screening methods using
-progressively finer screens. Water extraction is considered the best way
-to achieve pure trichome separation. The quality of the final hash cannot
-be much better than the genetics that were started with.
-
-## Summary
-
-Trichomes are the cornerstone of [[green-cannabis-potency-maximizing]] and product quality.
-These stalked capitate resin glands produce the cannabinoids and THC that
-define the plant's psychoactive effects. While THC levels are genetically
-determined, growers can maximize THC quantities through optimal growing
-conditions. Trichomes also serve as the foundation for hashish production,
-making their understanding critical for both bud smokers and concentrate
-makers alike.

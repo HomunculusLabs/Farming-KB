@@ -23,7 +23,7 @@ sources:
 
 Citrus reticulata, commonly known as the mandarin or tangerine, is a small evergreen tree in the family Rutaceae prized for its sweet, easily peeled fruit. It is the second-most cultivated citrus species worldwide after the sweet orange, with global production exceeding 35 million tonnes annually.
 
-The species is the progenitor of numerous commercial cultivars and hybrids, including clementines, satsumas, and tangerines. Mandarin essential oil, extracted from the peel, is widely used in aromatherapy, cosmetics, and flavoring.
+The species is the progenitor of numerous commercial cultivars and hybrids, including clementines, satsumas, and tangerines. Mandarin [[permaculture-designers-manual-essential-oil-plants]], extracted from the peel, is widely used in aromatherapy, cosmetics, and flavoring.
 
 China accounts for approximately 70% of global mandarin production, with the remaining output concentrated around the Mediterranean basin and the Americas. The fruit's ease of peeling and sweet flavor have made it one of the most popular fresh citrus fruits in international trade.
 
@@ -43,7 +43,7 @@ Root architecture is relatively shallow, with the majority of fine feeder roots 
 
 Citrus reticulata is native to [[psilocybe-southeast-asia-pacific]], with wild populations documented in southern China, northeastern India, Myanmar, and Vietnam. Genetic evidence suggests the species originated in the region encompassing Yunnan, Guangxi, and northern Vietnam.
 
-The tree thrives in subtropical to tropical climates with mean annual temperatures of 15–28°C. It is somewhat more cold-tolerant than Citrus sinensis, tolerating brief freezes to approximately -6°C.
+The tree thrives in subtropical to [[fukuoka-natural-farming-tropical-climates]] with mean annual temperatures of 15–28°C. It is somewhat more cold-tolerant than [[citrus-sinensis]], tolerating brief freezes to approximately -6°C.
 
 Optimal growth occurs on well-drained, slightly acidic sandy loam soils at elevations below 800 meters. Commercial cultivation spans Mediterranean, subtropical, and tropical zones worldwide, with major production in China, Spain, Turkey, Morocco, and Brazil.
 
@@ -57,7 +57,7 @@ Pruning is typically minimal, focusing on removal of dead wood, water sprouts, a
 
 Major pest challenges include the Asian citrus psyllid (Diaphorina citri), citrus red mite (Panonychus citri), and [[comparison-olive-vs-fig-vs-pomegranate-mediterranean-fruit-trees]] fly (Ceratitis capitata. Huanglongbing disease, transmitted by the psyllid, poses the most serious threat to global mandarin production.
 
-Harvest occurs from late summer through winter depending on cultivar and latitude. Post-harvest treatments include degreening with ethylene, waxing, and cold storage at 3–5°C to extend shelf life to 4–8 weeks.
+Harvest occurs from late summer through winter depending on cultivar and latitude. Post-harvest treatments include degreening with ethylene, waxing, [[root-cellaring-guide]] at 3–5°C to extend shelf life to 4–8 weeks.
 
 Yields vary considerably by cultivar and management intensity, ranging from 15 to 50 tonnes per hectare. The most productive commercial orchards in Spain and China can achieve sustained yields above 40 tonnes per hectare under optimal conditions.
 
@@ -73,13 +73,13 @@ Synephrine, a bioactive amine found in mandarin peel, has been studied for its p
 
 Mandarin juice contains significant levels of carotenoids, primarily β-cryptoxanthin, which the body converts to vitamin A. The antioxidant capacity of fresh mandarin juice ranks among the highest of commonly consumed fruit juices.
 
-Dried mandarin peel waste from juice processing represents a valuable byproduct for extracting essential oils, pectin, and dietary fiber. Industrial utilization of this biomass is an active area of food science research.
+Dried mandarin peel waste from juice processing represents a valuable byproduct for extracting [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], pectin, and dietary fiber. Industrial utilization of this biomass is an active area of food science research.
 
 ## History and Cultural Significance
 
 Mandarin cultivation in China dates back over 3,000 years, with references in classical texts including the "Yu Gong" tribute records. The name "mandarin" derives from the Chinese officials who received the fruit as tribute.
 
-The species was introduced to Europe via England in 1805 and reached the United States from China in the 1840s. The term "tangerine" originated from shipments from the Moroccan port city of Tangier.
+The species was introduced to Europe via England in 1805 and reached the [[dmt-containing-plants-united-states-halpern]] from China in the 1840s. The term "tangerine" originated from shipments from the Moroccan port city of Tangier.
 
 In traditional Chinese medicine, dried mandarin peel (Chenpi) is one of the most commonly prescribed herbs. It is used to regulate qi, resolve phlegm, and harmonize the stomach, typically after aging for 3–5 years to develop its characteristic flavor profile.
 
@@ -88,23 +88,3 @@ During the Chinese Lunar New Year, mandarins symbolize prosperity and good fortu
 Mandarin fruit features prominently in Japanese New Year celebrations, where the fruit is displayed atop stacked kagami mochi rice cakes. In Mediterranean cultures, the fruit is associated with Christmas celebrations and traditional winter confections.
 
 ## Related Species and Hybrids
-
-Citrus reticulata is one of three primary ancestral species of commercial citrus, along with Citrus maxima (pomelo) and Citrus medica (citron). Most modern citrus cultivars are hybrids involving mandarin parentage.
-
-The clementine (Citrus × clementina) is a mandarin × sweet orange hybrid originating in Algeria around 1900. The satsuma mandarin (Citrus unshiu) is a major cultivar group from Japan with excellent cold tolerance.
-
-The tangelo is a mandarin × grapefruit hybrid, with the Minneola tangelo being the most commercially significant variety. The tangor represents a mandarin × sweet orange cross, with the Murcott and Temple cultivars widely grown in Florida and California. Calamondin (Citrofortunella microcarpa) is a mandarin × kumquat hybrid valued as an ornamental and culinary fruit in Southeast Asia.
-
-## See Also
-
-- [[citrus-limon]]
-- [[elettaria-cardamomum]]
-- [[curcuma-longa]]
-- [[persea-americana]]
-- [[limonene]]
-- [[myrcene]]
-- [[quercetin]]
-- [[ursolic-acid]]
-- [[geraniol]]
-- [[olea-europaea]]
-- [[ficus-carica]]

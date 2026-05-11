@@ -14,7 +14,7 @@ sources:
   - Schaffer S., Kim H.W. (2018). "Regulation of glutamate homeostasis by taurine." Advances in Experimental Medicine and Biology.
   - Oudit G.Y. et al. (2003). "Taurine supplementation reduces blesching-cannabis-oxidative-stress-and-antioxidant-defense and improves cardiovascular function." Circulation.
   - El Idrissi A. (2008). "Taurine improves learning and retention in age-related memory decline." Neurochemical Research.
-  - Ripps H., Shen W. (2012). "Review: taurine: a very essential amino acid." Molecular Vision.
+  - Ripps H., Shen W. (2012). "Review: taurine: a very essential [[cho-fish-amino-acid-preparation]]." Molecular Vision.
   - Spitze A.R. et al. (2010). "Selected vitamins, A, C, E, and beta-carotene, taurine, L-carnitine." Journal of Animal Science.
 created: 2026-04-28
 ---
@@ -45,11 +45,11 @@ The sulfonic acid group makes it chemically distinct from proteinogenic amino ac
 
 Taurine acts as a neuromodulator and neuroprotectant through multiple mechanisms: GABA_A receptor agonism, glycine receptor modulation, and regulation of intracellular calcium homeostasis.
 
-It functions as an osmolyte, regulating cell volume by balancing intracellular osmotic pressure — particularly critical in the brain, heart, and retina.
+It functions as an osmolyte, regulating cell volume by balancing intracellular [[fungal-fruiting-body-mechanics-osmotic-pressure]] — particularly critical in the brain, heart, and retina.
 
 Cardioprotective effects include stabilization of cardiac membranes, modulation of ion channels, antiarrhythmic activity, and attenuation of ischemia-reperfusion injury.
 
-Antioxidant activity occurs through direct scavenging of hypochlorous acid and modulation of mitochondrial function to reduce reactive oxygen species production.
+Antioxidant activity occurs through direct scavenging of hypochlorous acid and modulation of mitochondrial function to reduce [[reactive-oxygen-species-and-oxidative-stress]] production.
 
 Taurine conjugates with bile acids to form taurocholic acid, which is essential for fat digestion and cholesterol solubilization in the small intestine.
 
@@ -85,33 +85,6 @@ Taurine is one of the most common ingredients in energy drinks, typically presen
 
 Despite widespread concern, the European Food Safety Authority concluded that taurine at levels used in energy drinks poses no safety risk to healthy adults.
 
-The combination of taurine with caffeine in energy drinks appears to have synergistic cardiovascular effects, though research remains inconclusive.
+The combination of taurine with caffeine in energy drinks appears to have synergistic [[blesching-cannabis-hypertension-cardiovascular-effects]], though research remains inconclusive.
 
 Global taurine production exceeds 200,000 metric tons annually, with the majority synthesized chemically from ethylene oxide and sodium bisulfite.
-
-The synthetic [[clay-seed-pellet-production-method-concrete-mixer]] was developed in the 1930s and remains the primary commercial source for food and supplement manufacturing.
-
-## History
-
-Taurine was first isolated in 1827 by German chemists Friedrich Tiedemann and Leopold Gmelin from ox bile, hence its name derived from *taurus* (Latin for bull/ox).
-
-Its structural elucidation was completed in the late 19th century, confirming its identity as an amino sulfonic acid rather than a true amino acid.
-
-The discovery of taurine's role in bile acid conjugation was a major milestone in understanding fat digestion physiology.
-
-Research into taurine's cardiovascular and neuroprotective properties accelerated dramatically from the 1980s onward.
-
-## Legal Status
-
-Taurine is classified as a dietary supplement ingredient in most countries and is generally recognized as safe (GRAS) by the [[dmt-containing-plants-united-states-halpern]] FDA.
-
-It is not a controlled substance in any jurisdiction and is freely available as an over-the-counter supplement worldwide.
-
-Some countries restrict taurine content in energy drinks, with limits typically set at 4,000 mg/L in the European Union.
-
-## See Also
-
-- [[nicotine]]
-- [[mescaline]]
-- [[dmt]]
-- [[ergine-entity]]

@@ -36,7 +36,7 @@ The genus name derives from the Tamil *elakkāi* (எலக்காய்), mea
 
 Plants grow 2–5 m tall from a branching, subterranean rhizome system. The pseudostem is composed of overlapping leaf sheaths. Leaf blades are lanceolate, 30–60 cm long and 5–10 cm wide, dark green with a prominent midrib and silvery undersides.
 
-The inflorescence is a panicle arising from the base of the pseudostem, 30–100 cm long, bearing 10–20 flowers at each node. Flowers are white with a violet-blue mid-vein on the labellum, and are pollinated primarily by native bees of the genus *Amegilla*.
+The inflorescence is a panicle arising from the base of the pseudostem, 30–100 cm long, bearing 10–20 flowers at each node. Flowers are white with a violet-blue mid-vein on the labellum, and are pollinated primarily by [[query-how-to-attract-native-bees-and-beneficial-insects]] of the genus *Amegilla*.
 
 Fruits are ovoid to oblong capsules, 1–2 cm long, green when immature and pale buff when dried. Each capsule contains 15–20 small, black, aromatic seeds arranged in three rows. The seeds are the primary commercial product, though whole capsules are also traded.
 
@@ -50,9 +50,9 @@ Natural forests in the Western Ghats remain the most important genetic reservoir
 
 ## Phytochemistry
 
-The essential oil of cardamom seeds (4–8% dry weight) is a complex mixture dominated by monoterpenes. 1,8-Cineole (eucalyptol) is the principal constituent at 30–50%, followed by α-terpinyl acetate (25–35%), linalool (2–5%), limonene (2–4%), and α-terpineol (2–3%).
+The [[permaculture-designers-manual-essential-oil-plants]] of cardamom seeds (4–8% dry weight) is a complex mixture dominated by monoterpenes. 1,8-Cineole ([[eucalyptol]]) is the principal constituent at 30–50%, followed by α-terpinyl acetate (25–35%), linalool (2–5%), limonene (2–4%), and α-terpineol (2–3%).
 
-The seeds also contain fixed oil (2–10%), proteins (10–15%), starch (30–40%), and various phenolic compounds. Flavonoids identified include quercetin, kaempferol, and luteolin glycosides. Sterols including β-sitosterol and stigmasterol are present in the seed coat.
+The seeds also contain fixed oil (2–10%), proteins (10–15%), starch (30–40%), and various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. Flavonoids identified include quercetin, [[kaempferol]], and luteolin glycosides. Sterols including β-sitosterol and [[stigmasterol]] are present in the seed coat.
 
 The characteristic cardamom aroma results from a synergistic interaction between 1,8-cineole's cooling, camphoraceous notes and α-terpinyl acetate's sweet, fruity character. The balance of these two compounds determines perceived quality in commercial grading.
 
@@ -87,25 +87,3 @@ Modern pharmacological research has documented several bioactive properties:
 ## Cultivation
 
 Cardamom is propagated primarily by vegetative division of rhizome clumps. Suckers with 2–3 shoots and viable roots are transplanted at the onset of the monsoon season. Spacing is typically 2 × 2 m under natural forest shade or artificial shade structures.
-
-The crop requires 2–3 years to reach full production. Flowering peaks during the monsoon season (June–August in India), with capsules maturing 90–120 days after pollination. Harvesting is done at three-quarter maturity when capsules are still green but seeds are fully developed.
-
-Post-harvest processing is critical for quality. Capsules are dried at 50°C for 12–24 hours, often in specialized kilns that preserve the characteristic green color. Properly dried cardamom retains its aroma for 12–24 months when stored in airtight containers.
-
-Global annual production is approximately 35,000–40,000 tonnes, with Guatemala accounting for over 60% of supply. India and Sri Lanka produce smaller quantities of premium-grade cardamom at significantly higher prices.
-
-Major pests include the cardamom thrips (*Sciothrips cardamomi*), capsule borer (*Conogethes punctiferalis*), and shoot and root borers. Fungal diseases, particularly rhizome rot caused by *Pythium* and *Fusarium* species, can cause significant yield losses in poorly drained soils.
-
-Cardamom is typically grown as an understory crop in agroforestry systems, interplanted with shade trees such as *Erythrina*, *Ailanthus*, and *Cedrela*. This multi-strata system provides both the shade requirement and additional income from timber and fruit trees.
-
-## See Also
-
-- [[curcuma-longa]] — Turmeric, a Zingiberaceae rhizome crop with anti-inflammatory properties
-- [[cinnamomum-verum]] — Ceylon cinnamon, a complementary aromatic spice in Indian and Middle Eastern cooking
-- [[piper-nigrum-entity]] — Black pepper, the "King of Spices" often paired with cardamom in spice blends
-- [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with related essential oil chemistry
-- [[cymbopogon-martinii]] — Palmarosa, a tropical grass with 1,8-cineole in its essential oil
-- [[salvia-officinalis]] — Common sage, a Mediterranean aromatic herb with medicinal terpenoids
-- [[tagetes-minuta]] — Marigold, an aromatic plant used in [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] with spice crops
-- [[rosmarinus-officinalis-entity]] — Rosemary, a Mediterranean aromatic herb with cineole-rich essential oil
-- [[kaempferia-galanga]] — Sand ginger, a Zingiberaceae species with aromatic seed-like rhizome

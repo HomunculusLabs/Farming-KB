@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-MMDA-2
 
-PIHKAL entry #131. 2-METHOXY-N-METHYL-4,5-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #131. 2-METHOXY-N-METHYL-4,5-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,26 +88,6 @@ the mixture at a pH of about 6. When the reaction was complete, it
 was added to 1 L H2O and made strongly basic with 25% NaOH. This was
 extracted with 3x100 mL CH2Cl2, and the pooled extracts were, in turn,
 extracted with 2x100 mL dilute H2SO4. This aqueous phase was washed
-with CH2Cl2, made basic with NaOH, and extracted with 3x100 mL CH2Cl2.
-Removal of the solvent from these pooled extracts under vacuum gave
-8.7 g of an amber oil. This was distilled at 110-125 deg C at 0.25 mm/Hg
-to give 5.1 g of a colorless oil. This was dissolved in 30 mL IPA,
-neutralized with about 3 mL concentrated HCl, and diluted with 60 mL
-anhydrous Et2O. The clear solution slowly deposited white crystals
-which were removed by filtration and air dried to give 4.2 g
-2-methoxy-N-methyl-4,5-methylenedioxyamphetamine hydrochloride
-(METHYL-MMDA-2) with a mp of 168-169 deg C. Anal. (C12H18ClNO3) C,H.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[mmda-entity-pihkal]]

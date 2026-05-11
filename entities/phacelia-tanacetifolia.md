@@ -88,20 +88,3 @@ In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principle
 The species is compatible with most vegetable crops and does not exhibit allelopathic effects. It breaks pest cycles by providing habitat for predatory insects such as parasitic wasps, lacewings, and ground beetles that control aphid and whitefly populations.
 
 ## Ornamental Use
-
-Beyond its agricultural utility, *P. tanacetifolia* is widely grown as an ornamental annual for its delicate, fern-like foliage and profuse lavender-blue flower spikes. It performs well in mixed borders, wildflower meadows, and cut flower arrangements.
-
-The flowers have a long vase life (7–10 days) and are increasingly used by florists seeking unusual filler material. Self-seeding is moderate — sufficient to establish persistent patches without becoming aggressively invasive in cultivated settings.
-
-The plant is deer-resistant and generally unpalatable to livestock, making it suitable for farm-edge plantings where grazing pressure is a concern. It has no significant disease or pest issues when grown as an annual, further reducing management requirements.
-
-Seed is readily available from cover crop suppliers and pollinator seed mix vendors. Cost per hectare is low compared to other cover crop species, and the multiple [[biodiversity-of-fungi-ecosystem-services-agriculture]] provided make it one of the most cost-effective annuals in sustainable farming systems.
-
-## See Also
-
-- [[foeniculum-vulgare-entity]]
-- [[tropaeolum-majus]]
-- [[trifolium-pratense]]
-- [[calendula-officinalis]]
-- [[companion-planting]]
-- [[cover-crop-multifunction-design]]

@@ -1,7 +1,7 @@
 ---
-title: Psilocybe makarorae — New Zealand's Psychoactive Mushroom
+title: Psilocybe Makarorae New Zealand Profile
 tags: [psilocybe, neurotropic-fungi, species-profile, new-zealand, australasia]
-source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of Magic Mushrooms"
+source: "Guzmán, Allen & Gartz (1998) — World-Wide Distribution of [[1960s-counterculture-and-magic-mushrooms]]"
 created: 2026-05-09
 ---
 
@@ -76,7 +76,7 @@ species and those from other regions:
 - **Connection to Mexico**: Through the broader Section Mexicanae, P. makarorae
   shares taxonomic affinity with Mexican species such as P. mexicana, the type
   species of the section.
-- **Psilocybe aucklandii**: Another New Zealand endemic Psilocybe species
+- **[[psilocybe-aucklandii]]**: Another New Zealand [[guzman-allen-gartz-australasian-endemic-psilocybe-species]]
   (#66 in the Guzmán catalogue), P. aucklandii was described by Guzmán, King
   & Bandala and is closely related to P. zapotecorum from Mexico. This
   represents an independent biogeographic connection between New Zealand and
@@ -85,63 +85,6 @@ species and those from other regions:
 These phylogenetic relationships support the concept of a widespread, possibly
 ancient distribution of Section Mexicanae and related taxa across the Southern
 Hemisphere and into Southeast Asia, potentially reflecting Gondwanan
-biogeographic patterns or long-distance spore dispersal events.
+biogeographic patterns or long-distance [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] events.
 
 ## Habitat and Ecology
-
-While specific habitat details for P. makarorae are limited in the Guzmán
-et al. (1998) source, species of Section Mexicanae are typically found in
-tropical and subtropical environments, often associated with:
-- Rich organic soils in forest environments
-- Disturbed habitats including trails and clearings
-- Grasslands and pastures in some cases
-
-The temperate rainforest ecosystems of New Zealand's west coast and the alpine
-to subalpine environments of the South Island (where Makarora is located) would
-provide suitable moist, organic-rich habitats for this species.
-
-## Chemistry and Psychoactivity
-
-As a confirmed member of the bluing Psilocybe species, P. makarorae contains
-psilocybin and likely psilocin as its primary psychoactive constituents. The
-[[field-guide-psilocybin-bluing-reaction-identification]] characteristic of the section is a reliable field indicator of
-psychoactive alkaloid content. No specific quantitative analyses of P.
-makarorae alkaloid content appear to have been published in the literature
-cited by Guzmán et al. (1998).
-
-## Related New Zealand Species
-
-New Zealand's mycoflora includes several neurotropic fungi beyond P. makarorae:
-
-- **Psilocybe aucklandii**: Described by Guzmán, King & Bandala from the
-  Auckland region, closely related to P. zapotecorum from Mexico.
-- **Gymnopilus spectabilis**: A widely distributed psychoactive Gymnopilus
-  species reported from New Zealand.
-- **Copelandia cyanescens**: A pantropical psychoactive species that has been
-  reported from the Pacific region, potentially including New Zealand.
-
-The diversity of psychoactive species in New Zealand is notable given the
-country's geographic isolation, and may reflect both ancient Gondwanan heritage
-and more recent introductions through human activity or natural dispersal.
-
-## Conservation Status
-
-The conservation status of Psilocybe makarorae has not been formally assessed.
-As an endemic species with a restricted geographic range, it could be
-vulnerable to habitat loss and environmental change. New Zealand's unique
-[[biodiversity-fungal-biodiversity-estimation-methods]], including species like P. makarorae, represents an
-important component of the country's natural heritage that merits further
-documentation and study.
-
-## References
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). World-wide distribution of
-  neurotropic fungi. Česká Mykologická Společnost, Prague.
-- Johnston, P.R. & Buchanan, P.K. (1995). New Zealand Psilocybe species.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed Press.
-- Guzmán, G., King, C.C. & Bandala, V.M. — Description of P. aucklandii.
-
-## See Also
-- [[psilocybe-zapotecorum-section-zapotecorum-americas-pacific-distribution-guzman-1998]]
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
-- [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]]

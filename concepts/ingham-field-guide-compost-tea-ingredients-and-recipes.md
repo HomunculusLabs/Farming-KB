@@ -3,6 +3,7 @@ title: "Ingham Field Guide: comparison-biofertilizers-and-soil-inoculants-vs-com
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 type: concept
 tags: [composting]
@@ -86,32 +87,3 @@ For poor-quality compost that may contain E. coli:
 - Garlic juice: in limited tests, knocked out E. coli from compost known to contain it
 
 ## Preactivation of Fungi
-
-If compost lacks fungi, preactivate before brewing:
-1. Place compost in a plastic tub at 50% moisture (barely drips a drop when squeezed hard)
-2. Add fungal foods (humus, humic acids, fish hydrolysate)
-3. Cover and keep at room temperature
-4. Good compost will grow thick white fungal strands; poor compost grows only gray fuzz
-
-## Water Considerations
-
-- Always aerate water before adding compost to remove chlorine
-- Reverse osmosis for salty, chlorinated, or contaminated water
-- De-ionized water is problematic -- microbes need some mineral content
-- Test water quality; send samples to SFI with tea samples
-
-## Mineral Additions
-
-When adding minerals to compost, use approximately 80% less than soil chemistry recommendations suggest. The biology cycles nutrients into plant-available forms, so less input is needed. Arden Anderson's research supports this approach.
-
-## See Also
-
-- [[ingham-compost-tea-recipes-and-ingredient-formulations]]
-
-- [[aact-brewing-ingredients-ingham]]
-- [[aact-bacterial-dominant-tea]]
-- [[compost-tea-recipe-guide]]
-- [[aact-compost-quality-standards-ingham]]
-- [[bacterial-vs-fungal-compost-teas]]
-- [[ingham-field-guide-aact-brewing-methodology]]
-- [[keyline-design]]

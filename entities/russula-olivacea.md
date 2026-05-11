@@ -24,7 +24,7 @@ sources:
 
 *Russula olivacea* is a basidiomycete fungus in the family Russulaceae, noted for its large olive-green to purplish cap and its status as one of the more robust European Russula species.
 
-It is an ectomycorrhizal associate of deciduous and coniferous trees, commonly found in mature forest ecosystems across temperate Europe.
+It is an ectomycorrhizal associate of deciduous and coniferous trees, commonly found in mature [[dighton-fungi-acidifying-pollutants-forest-ecosystems]] across temperate Europe.
 
 The species is considered edible when thoroughly cooked, though some sources recommend caution due to variable reports of mild gastrointestinal upset in sensitive individuals.
 
@@ -72,7 +72,7 @@ The species was originally described by Jacob Christian Schaeffer in 1774 under 
 
 It fruits from late summer through autumn (July to October in the Northern Hemisphere), typically in association with mature forest trees.
 
-**Mycorrhizal partners include** oaks (*Quercus* spp.), beech (*Fagus sylvatica*), hornbeam (*Carpinus betulus*), and occasionally spruce (*Picea abies*).
+**Mycorrhizal partners include** oaks (*Quercus* spp.), beech (*[[fagus-sylvatica]]*), hornbeam (*[[carpinus-betulus]]*), and occasionally spruce (*[[picea-abies]]*).
 
 It prefers well-drained, slightly acidic to neutral soils in old-growth or semi-natural forests with rich humus layers. The species is less common in recently disturbed or plantation forests.
 
@@ -87,28 +87,3 @@ It should always be cooked thoroughly before consumption. Raw consumption is not
 As with all *Russula*, positive identification is essential before eating, as several green-capped congeners are toxic or disagreeable.
 
 ## Chemistry
-
-Like other Russulaceae, *R. olivacea* contains the characteristic isoprenoid sesquiterpenes found in its latex and cell walls, which contribute to the brittle texture of the genus.
-
-The species has been investigated for bioactive metabolites including sesquiterpene lactones and roridin-type trichothecenes, though comprehensive phytochemical profiling remains limited.
-
-Preliminary assays suggest mild antimicrobial activity against Gram-positive bacteria, consistent with findings in related *Russula* species.
-
-## Related Species
-
-*Russula olivacea* belongs to the *R. olivacea* sensu lato complex, which includes several similar species distinguished by subtle morphological and ecological differences.
-
-**Key lookalikes:**
-
-- **[[russula-emetica]]** — bright red cap, very acrid taste, inedible
-- **[[russula-brevipes]]** — whitish cap, shorter stipe, grows near conifers
-
-The olive-green coloration and large size help distinguish *R. olivacea* from most of these congeners, but intermediate forms can complicate field identification.
-
-## See Also
-
-- [[russula-emetica]]
-- [[russula-xerampelina]]
-- [[lactarius-deliciosus]]
-- [[suillus-luteus]]
-- [[laccaria-bicolor]]

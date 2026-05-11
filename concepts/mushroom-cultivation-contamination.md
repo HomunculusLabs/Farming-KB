@@ -13,7 +13,7 @@ inhalation. Any substrate showing these molds should be removed.
 ### Neurospora (Pink Mold)
 
 A fast-growing, heat-resistant mold producing bright pink-orange mycelium
-and spore clouds. Common in tropical and subtropical climates. Survives
+and spore clouds. Common in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Survives
 pasteurization and brief sterilization exposure. Immediate removal and
 isolation of affected blocks is critical.
 
@@ -50,7 +50,7 @@ and butyric acid (vomit) smells. These conditions kill mycelium. Proper [[oyster
 Prevention is far more effective than treatment when it comes to contamination.
 The primary defense is maintaining a clean workspace. Surfaces should be
 cleaned with 70% isopropyl alcohol or 10% bleach solution before and after
-every work session. A still air box or laminar flow hood is essential for
+every work session. A still air box or [[comparison-laminar-flow-hood-vs-fruiting-chamber]] is essential for
 any open-air inoculation work, reducing airborne spore loads by several
 orders of magnitude. Cultivators should wear gloves, face masks, and clean
 clothing, and should avoid working during high-spore periods such as windy
@@ -60,8 +60,8 @@ days or when mold is visibly active in the environment.
 
 A proper sanitation workflow begins before any cultivation work starts.
 All tools (scalpels, inoculation loops, syringes) must be flame-sterilized
-or autoclaved. Substrate preparation areas should be physically separated
-from inoculation and incubation areas. The "clean room" hierarchy places
+or autoclaved. [[bulk-substrate-preparation]] areas should be physically separated
+from [[pf-tek-inoculation-and-incubation]] areas. The "clean room" hierarchy places
 the most vulnerable stage (agar inoculation) in the most controlled
 environment, followed by grain-to-grain transfer, then bulk substrate
 inoculation, and finally fruiting, which requires the least sterility
@@ -83,47 +83,8 @@ distribution within the vessel should be checked periodically.
 
 Contaminant organisms thrive in stagnant, humid, warm conditions.
 Adequate fresh air exchange reduces CO2 levels and limits the buildup
-of volatile organic compounds that indicate microbial activity. HEPA
+of [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that indicate microbial activity. HEPA
 filtration on intake air prevents spore entry into grow rooms. Positive
 pressure in the inoculation room relative to surrounding areas prevents
-unfiltered air infiltration. Temperature control favoring the target
+unfiltered air infiltration. [[hamilton-greenhouse-heating-and-temperature-control]] favoring the target
 species over common contaminants provides a significant advantage.
-
-## Identification Guide
-
-Early identification of contamination allows intervention before the
-problem spreads. Healthy mycelium appears white and uniform with a
-distinct mushroomy or earthy smell. Contaminants present distinct visual
-and olfactory cues. Green spots indicate Trichoderma. Pink-orange growth
-indicates Neurospora. Black dust is typically Aspergillus niger. Yellow
-metabolic droplets from mycelium are normal, but yellow slime from the
-substrate indicates bacterial contamination. A sour, rotten, or chemical
-smell always signals contamination.
-
-## Economic Impact
-
-Contamination represents the primary economic risk in commercial mushroom
-cultivation. Loss rates for inexperienced growers commonly reach 30-50%.
-Even experienced commercial operations typically budget for 5-10%
-contamination losses. The cost includes not only the lost substrate and
-spawn materials but also the labor invested, opportunity cost of grow
-space, and the risk of contamination spreading to adjacent batches.
-
-## Practical Considerations
-
-Successful implementation [[history-of-mushroom-cultivation]] contamination requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

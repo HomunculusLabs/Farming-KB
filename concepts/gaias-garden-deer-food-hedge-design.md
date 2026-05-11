@@ -23,7 +23,7 @@ A deer-deflecting food hedge — sometimes called a "fedge" — is a multi-strat
 planting that serves simultaneously as a wildlife barrier, food production zone,
 soil builder, and habitat corridor. Unlike a conventional fence that performs
 only one function, a food hedge produces fruit and nuts, fixes nitrogen,
-conserves water, and creates wildlife habitat while steering deer away from
+conserves water, and creates [[hemenway-backyard-wildlife-habitat]] while steering deer away from
 vulnerable garden areas.
 
 ## The Problem: Deer Pressure
@@ -61,15 +61,15 @@ forming a dense barrier:
   cherries relished by wildlife.
 - **Wild roses** (*Rosa spp.*): impenetrable thickets of thorny stems bearing
   edible hips high in vitamin C.
-- **Manchurian apricot** (*Prunus armeniaca* var.): cold-hardy, forms dense
+- **Manchurian apricot** (*[[prunus-armeniaca]]* var.): cold-hardy, forms dense
   growth, produces small apricots.
 - **Buffaloberry** (*Shepherdia argentea*): extremely hardy, nitrogen-fixing,
   silver-leaved, and thorny; birds devour the red berries.
-- **[[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]** (*Maclura pomifera*): dense, thorny, rot-resistant wood;
+- **[[bloomfield-ghosts-of-evolution-osage-orange-anachronism]]** (*[[maclura-pomifera]]*): dense, thorny, rot-resistant wood;
   deer browse young growth but mature plants form an effective barrier.
 - **Gooseberry and currant** (*Ribes spp.*): thorny or dense shrubs bearing
   edible berries.
-- **Siberian pea shrub** (*Caragana arborescens*): nitrogen-fixing, hardy,
+- **Siberian pea shrub** (*[[caragana-arborescens]]*): nitrogen-fixing, hardy,
   produces edible seeds and attracts pollinators.
 
 ### House Side (Inside)
@@ -87,25 +87,3 @@ The thorny outside layer protects these more valuable plants from deer, while
 the gardener harvests from the sheltered interior.
 
 ## Multi-Function Stacking
-
-The food hedge follows [[permaculture-nitrogen-fixing-trees|nitrogen-fixing trees]].
-- **Nutrient accumulation:** Deep-rooted plants such as chicory, yarrow, and
-  daikon radish planted at the hedge base mine minerals from subsoil and bring
-  them to the surface through leaf drop.
-- **Mulch production:** [[permaculture-windbreak-design-species|windbreak design]].
-
-## Integration with the Broader Landscape
-
-The food hedge should not exist in isolation. It connects to the broader
-[[comparison-mandala-garden-design-vs-keyhole-garden-design]] as part of a ecologicalgarden design: every element should perform multiple functions. A fence
-performs one function — exclusion. A food hedge performs six or more — food,
-fertility, water conservation, [[cervantes-wind-protection-outdoor-cannabis]], wildlife habitat, and deer
-deflection — while requiring less maintenance and looking far more beautiful.
-By [[gaias-garden-stacking-functions-detailed]], the ecological gardener transforms a problem (deer
-pressure) into an opportunity for abundance.
-## See Also
-- [[maclura-pomifera]]
-- [[prunus-armeniaca]]
-- [[caragana-arborescens]]
-- [[water-conservation]]
-- [[gaias-garden-soil-food-web-living-soil]]

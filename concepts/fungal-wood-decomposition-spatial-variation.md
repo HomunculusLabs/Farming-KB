@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal [[mycelium-running-rot-fungi-wood-decomposition]] spatial variation and Spatial Variation
+title: Fungal Wood Decomposition Spatial Variation
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

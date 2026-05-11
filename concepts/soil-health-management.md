@@ -34,9 +34,9 @@ clay; lay boards down first if you must cross it.
 binding tiny clay particles into larger crumbs. Dig in one
 to two bucketfuls of coarse sand per square yard/meter.
 
-**[[hamilton-composting-and-organic-matter-management]]:** Adding bulky organic matter holds clay
+**[[hamilton-composting-and-organic-matter-management]]:** Adding bulky [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] holds clay
 particles apart. After a few years, every plant you grow
-improves the soil for the next generation.
+improves the soil for the [[next-generation-sequencing-hidden-fungal-diversity]].
 
 ### Sandy Soil
 Sand drains easily and warms up quickly, making it ideal
@@ -47,7 +47,7 @@ nutrients and water drain away rapidly.
 before sowing. Never work sand when so wet it sticks to
 boots.
 
-**Organic matter:** Add substantial amounts of bulky organic
+**[[knf-leaf-mold-humus]]:** Add substantial amounts of bulky organic
 material each year. Maintain a vegetation cover, especially
 in winter when leaching is most rapid. Use mulch between
 plants to lower evaporation and improve structure.
@@ -61,7 +61,7 @@ high pH.
 Dig in spring before sowing. Keep digging shallow since
 topsoil is usually thin.
 
-**Organic matter:** Keep the soil surface covered year-round.
+**[[humus-and-soil-organic-matter]]:** Keep the soil surface covered year-round.
 Grow green-manure crops in winter. Use acid materials like
 peat, grass cuttings, or compost as mulch to counteract
 alkalinity.
@@ -88,34 +88,3 @@ work but tends to be acidic and may need drainage.
 Have soil tested professionally, especially for new gardens.
 Test pH annually. Soils uncultivated for years may be
 grossly deficient in essential elements.
-
-### Phase 2: Soil Conditioning
-Return all organic material to the soil as compost.
-Supplement with manure or purchased soil conditioners. Dig
-organic matter in during fall and spread as mulch in the
-[[savory-growing-season-and-non-growing-season-management]]. This increases water-holding capacity of
-light soils and opens heavy soils.
-
-### Phase 3: General Fertilizer
-If manure and compost are insufficient, use concentrated
-[[hamilton-organic-fertilizers-and-plant-nutrition]] such as blood, fish, and bone meal or
-pelleted chicken manure. [[ingham-compost-tea-application-rates-and-timing]] vary by soil and
-crop type.
-
-### Phase 4: Specific Fertilizers
-Some crops need special treatment. Tomatoes benefit from
-extra potash for fruit formation. Spring cabbage needs
-extra nitrogen in late winter. Raspberries on chalky soil
-may need iron supplements via kelp spray.
-
-## Key Principle
-
-Feed the soil, not the plant. A healthy soil with adequate
-organic matter produces strong plants that resist pests and
-diseases naturally. Apply at least two 2-gallon buckets of
-well-rotted compost per square yard/meter each year.
-
-## See Also
-- [[green-manures-organic-gardening]]
-- [[mulching-organic-garden]]
-- [[soil-health-and-management]]

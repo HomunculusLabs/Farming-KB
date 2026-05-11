@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,57 +88,3 @@ Where space is insufficient for distance isolation, time isolation can be
 used. By staggering planting dates so that different varieties do not flower
 simultaneously, the seed saver can prevent crossing. Alternatively, physical
 barriers such as mesh bags placed over individual flower heads (hand
-pollination technique) provide absolute isolation.
-
-## Genetic Diversity and Local Adaptation
-
-Mollison emphasizes that seed saving is not merely a technique for economic
-savings but a powerful tool for directed evolution. By consistently saving
-seed from the best-performing plants in a specific location, the grower
-gradually develops strains uniquely adapted to local conditions of soil,
-climate, pest pressure, and cultural practices.
-
-This process of local adaptation is one of the most powerful arguments for
-seed saving. Commercial seed is bred for uniform performance across wide
-geographic areas, often under high-input conditions. Locally adapted seed,
-by contrast, is selected for resilience and productivity under the specific
-conditions of the farm or garden where it is grown.
-
-To maintain genetic diversity within a population, Mollison recommends saving
-seed from a minimum number of plants. For self-pollinating crops, seed from
-at least 10 to 20 plants should be combined. For outcrossing species, a
-minimum of 50 to 80 plants is needed to avoid inbreeding depression. Saving
-from too few plants narrows the genetic base and makes the population
-vulnerable to disease and environmental stress.
-
-## Seed Storage
-
-Proper storage preserves seed viability for the longest possible period. The
-three enemies of seed longevity are moisture, heat, and light. Seeds stored
-under cool, dry, dark conditions retain viability much longer than those
-exposed to fluctuating conditions.
-
-As a general rule, seed life approximately doubles for every 5 degree
-Celsius reduction in storage temperature and for every 1 percent reduction
-in moisture content. Most vegetable seeds stored at 5 to 10 degrees Celsius
-and below 8 percent moisture content will remain viable for 3 to 10 years.
-
-Simple storage methods include airtight glass jars with desiccant packets
-([[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] or dried milk powder) kept in a cool, dark cupboard. For longer
-storage, seeds can be frozen at minus 18 degrees Celsius after thorough
-drying. Freezing extends viability of many species to 20 or more years.
-
-## Community Seed Networks
-
-Mollison envisioned seed saving as a community activity. Seed exchanges,
-seed libraries, and local seed networks allow growers to share genetic
-material and maintain a diverse collective seed stock. These networks provide
-resilience against crop failure, preserve heritage varieties that may not be
-commercially available, and strengthen social bonds within farming
-communities. The permaculture-designers-manual-seed-saving-varieties
-## See Also
-- [[mollison-designers-seed-dormancy-and-germination-treatments]]
-- [[mollison-designers-seed-pelleting-and-pretreatment]]
-- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]
-- [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
-- [[mollison-designers-community-seed-banks-and-exchange]]

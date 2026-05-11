@@ -1,5 +1,5 @@
 ---
-title: "cervantes foliar spots blight fungal leaf diseases, Blight, and Fungal Leaf Diseases (Cervantes)"
+title: Cervantes Foliar Spots Blight Fungal Leaf Diseases
 created: 2026-04-28
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -40,7 +41,7 @@ cases, death results.
 Leaf spot is a symptomatic name given to many different
 diseases. These diseases may be caused by bacteria, fungus,
 and nematodes. Spots or lesions caused by fungi often develop
-different colors as fruiting bodies grow within the affected
+different colors as [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] grow within the affected
 tissue, helping distinguish fungal from other causes.
 
 ### Environmental Causes
@@ -59,15 +60,15 @@ lights off, as excess moisture sitting on foliage fosters
 
 ### Control
 
-- Use fresh, sterile growing medium with each crop
+- Use fresh, sterile [[cervantes-green-algae-growing-medium]] with each crop
 - Do not wet foliage when watering
 - Avoid overwatering and lower grow room
   [[cervantes-nutrient-stock-solutions-concentrates]] and good
   drainage to prevent nutrient buildup
-- Apply Serenade (Bacillus subtilis) against Brown Blight
+- Apply Serenade ([[bacillus-subtilis]]) against Brown Blight
 - Use biological controls including Bio-Fungus, RootShield,
-  Supresivit, Trichopel (Trichoderma harzianum), or SoilGuard
-  (Trichoderma virens)
+  Supresivit, Trichopel ([[trichoderma-harzianum]]), or SoilGuard
+  ([[trichoderma-virens]])
 - Bordeaux mixture can stop fungal blights when applied early
 - Stopping blights in advanced stages is difficult; the best
   solution is to remove diseased plants and destroy them
@@ -87,30 +88,3 @@ fungal leaf diseases:
 
 1. Cleanliness: Remove all debris, dead leaves, and potential
    hiding places for fungi
-2. [[pf-tek-low-humidity-symptoms-and-remediation]]: Maintain 40-50 percent relative humidity
-3. Ventilation: Install adequate fans and venting to keep air
-   moving
-4. Proper spacing: Allow enough room between plants for air
-   circulation
-5. Sterile medium: Use fresh growing medium for each crop
-6. Balanced nutrition: Avoid excess nitrogen that produces
-   susceptible growth
-7. Dry foliage: Allow leaves to dry before dark cycle
-8. Clean tools: Disinfect pruning tools between plants
-
-## The Troubleshooting Approach
-
-Cervantes provides a troubleshooting chart that maps specific
-symptoms to likely causes. The fundamental principle is that
-problems in [[cannabis-vegetative-growth-stage]] will continue through flowering
-and must be remedied early. During flowering, only the first
-two to three weeks allow effective intervention. Problems that
-persist through flowering substantially diminish yield.
-## Related Topics
-
-- [[cervantes-powdery-mildew-prevention-treatment]] - powdery
-  mildew management
-- [[cervantes-fusarium-vascular-wilt-diseases]] - Fusarium
-  wilt
-- [[cervantes-damping-off-seedling-disease-prevention]] -
-  [[cervantes-damping-off-seedling-disease-prevention]]

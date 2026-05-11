@@ -87,26 +87,3 @@ The species yields a commercially important oleoresin used in the production of 
 Lodgepole pine has gained recognition as a bioenergy feedstock, with whole-tree utilization for [[clay-seed-pellet-production-method-concrete-mixer]] gaining momentum in Canada and Scandinavia.
 
 The species' rapid growth on marginal sites makes it attractive for carbon offset forestry projects. Several jurisdictions have incorporated lodgepole pine into afforestation programs designed to sequester atmospheric carbon.
-
-## Cultivation
-
-Lodgepole pine has been planted extensively in forestry plantations, particularly in Scandinavia, Iceland, and New Zealand. Introduced populations in these regions have become naturalized and, in some cases, invasive.
-
-In Scandinavia, lodgepole pine was introduced to Sweden in the 1920s and now covers approximately 600,000 hectares. Its rapid growth rate (often exceeding native Scots pine on poor sites) has made it economically attractive but ecologically controversial.
-
-The species requires full sun and is highly shade-intolerant. It establishes readily on disturbed sites and is commonly used in reforestation and land reclamation projects.
-
-Rotation lengths range from 50 to 80 years in managed plantations. Pre-commercial thinning is typically required to reduce excessive stand density and improve individual tree growth.
-
-## See Also
-
-- [[picea-abies]]
-- [[pseudotsuga-menziesii]]
-- [[abies-alba]]
-- [[larix-decidua]]
-- [[mycorrhiza]]
-- [[sequoiadendron-giganteum]]
-- [[abies-grandis]]
-- [[picea-pungens]]
-- [[thuja-plicata]]
-- cedrus atlantica

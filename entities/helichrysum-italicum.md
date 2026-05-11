@@ -24,7 +24,7 @@ sources:
 
 # Helichrysum italicum (Curry Plant, Immortelle)
 
-**Helichrysum italicum**, commonly known as **immortelle**, **everlasting flower**, **curry plant**, or **Italian strawflower**, is a strongly aromatic perennial herb of the family **Asteraceae**. Native to the Mediterranean basin, it is celebrated for its extraordinary essential oil — one of the most expensive and sought-after in aromatherapy and perfumery — and has a long history of use in traditional European herbal medicine.
+**Helichrysum italicum**, commonly known as **immortelle**, **everlasting flower**, **curry plant**, or **Italian strawflower**, is a strongly aromatic perennial herb of the family **Asteraceae**. Native to the Mediterranean basin, it is celebrated for its extraordinary [[permaculture-designers-manual-essential-oil-plants]] — one of the most expensive and sought-after in aromatherapy and perfumery — and has a long history of use in traditional European [[childrens-herbal-medicine]].
 
 ## Taxonomy and Nomenclature
 
@@ -36,7 +36,7 @@ sources:
 - **Genus:** *Helichrysum*
 - **Species:** *H. italicum*
 
-The genus name derives from the Greek *helios* (sun) and *chrysos* (gold), referring to the bright golden-yellow flower heads. The specific epithet *italicum* denotes its Italian origins. The common name "immortelle" (French for "immortal") reflects the flowers' remarkable ability to retain their shape and color indefinitely when dried — a characteristic shared with other *Helichrysum* species. The name "curry plant" comes from the strong curry-like aroma of the foliage, though the plant is not used in actual curry preparations and is unrelated to curry tree (*Murraya koenigii*).
+The genus name derives from the Greek *helios* (sun) and *chrysos* (gold), referring to the bright golden-yellow flower heads. The specific epithet *italicum* denotes its Italian origins. The common name "immortelle" (French for "immortal") reflects the flowers' remarkable ability to retain their shape and color indefinitely when dried — a characteristic shared with other *Helichrysum* species. The name "curry plant" comes from the strong curry-like aroma of the foliage, though the plant is not used in actual curry preparations and is unrelated to curry tree (*[[murraya-koenigii]]*).
 
 Several subspecies are recognized:
 - ***H. italicum* subsp. *italicum*** — widespread Mediterranean
@@ -46,7 +46,7 @@ Several subspecies are recognized:
 ## Description
 
 ### Growth Habit
-- **Life cycle:** Perennial subshrub
+- **[[agaricus-campestris-biology-and-life-cycle]]:** Perennial subshrub
 - **Height:** 20–60 cm (8–24 inches)
 - **Form:** Low, mounding, woody at the base
 - **Lifespan:** 5–10 years in cultivation
@@ -71,7 +71,7 @@ Several subspecies are recognized:
 - **North Africa:** Morocco, Algeria, Tunisia
 - **Turkey** and the **Middle East** (eastern extent of range)
 
-It inhabits dry rocky hillsides, coastal cliffs, open woodlands, and disturbed sites throughout the Mediterranean basin. Thrives in full sun, tolerates extreme drought, prefers well-drained calcareous soils. Hardy to approximately -5°C; not cold-hardy in temperate climates.
+It inhabits dry rocky hillsides, coastal cliffs, open woodlands, and disturbed sites throughout the Mediterranean basin. Thrives in full sun, tolerates extreme drought, prefers well-drained calcareous soils. Hardy to approximately -5°C; not cold-hardy [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 ## Essential Oil
 
@@ -87,53 +87,3 @@ The essential oil is a complex mixture of over 150 identified compounds. The pri
 - **Limonene** (2–10%)
 - **Linalool** (trace–5%)
 - **β-Caryophyllene** (trace–8%)
-
-The **Corsican chemotype** (subsp. *microphyllum*) is considered the finest and commands premium prices due to its higher neryl acetate and unique italidione content.
-
-### Production
-- **Yield:** 0.05–0.15% (fresh weight) — extremely low, contributing to high cost
-- **Harvest:** Flowering aerial parts in full bloom; [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
-- **Price:** $150–$400+ per ounce, making it one of the most expensive [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
-- **Primary producers:** Corsica, Bosnia, Italy
-
-### Traditional and Modern Uses of the Oil
-
-**Dermatology and skincare:**
-- **Scar reduction** — promotes cell regeneration and reduces fibrotic tissue
-- **Wound healing** — accelerates tissue repair, reduces inflammation
-- **Anti-aging** — antioxidant protection against UV damage
-
-**Aromatherapy:**
-- **Emotional support** — calming, grounding, said to release emotional trauma
-- **Respiratory support** — expectorant and antispasmodic properties
-- **Pain relief** — analgesic and anti-inflammatory effects
-
-**Perfumery:**
-- Used as a **base note** in niche fragrances for its warm, honey-like, herbaceous character
-
-## Medicinal Properties
-
-Traditional uses include wound healing, respiratory conditions, and digestive complaints. Modern research supports anti-inflammatory, antioxidant, antimicrobial, antifungal, and hepatoprotective activities.
-
-## Cultivation
-
-- **Propagation:** Semi-hardwood cuttings; seed germination slow (cold stratification recommended)
-- **Soil:** Well-drained, sandy or rocky, low fertility preferred; pH 6.5–8.0
-- **Water:** Extremely drought-tolerant once established
-- **Harvest:** Cut flowering stems in full bloom; flowers dry well for arrangements
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Good with rosemary, lavender, and thyme in Mediterranean gardens
-
-## Permaculture Applications
-
-- **Drought-tolerant ground cover** for dry, marginal areas
-- **Pollinator support** — flowers attract bees, butterflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-- **[[permplant-willows-salix-erosion-control-fodder]]** on slopes and rocky terrain
-- **Guild member** in Mediterranean food forest systems alongside rosemary, thyme, sage, and lavender
-- **Dual-purpose crop** — ornamental, medicinal, and aromatic value
-- **Low-input** — requires minimal water, fertilizer, or maintenance
-
-## See Also
-
-- [[lavandula-angustifolia]]
-- [[thymus-vulgaris-entity]]
-- [[dynamic-accumulators]]

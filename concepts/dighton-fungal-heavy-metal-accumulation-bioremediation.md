@@ -1,5 +1,5 @@
 ---
-title: "Fungal Heavy Metal Accumulation and Bioremediation"
+title: Dighton Fungal Heavy Metal Accumulation Bioremediation
 created: 2026-04-26
 tags:
   - mycology
@@ -49,7 +49,7 @@ metals and fungal physiology.
 Heavy metals can reduce the efficacy of fungal hyphal activity and
 impact ecosystem-level functions. Bardgett et al. (1994) investigated
 chromium, copper, and arsenic wood preservatives and found increasing
-levels had little effect on prokaryotic microbial biomass but a
+levels had little effect on prokaryotic [[soil-microbial-biomass-measurement-ecological-significance]] but a
 significant negative effect on eukaryotic (presumed fungal) biomass as
 measured by substrate-induced respiration. This suggests fungi are more
 sensitive to heavy metals than bacteria.
@@ -64,7 +64,7 @@ and alkaline phosphatase by ten- to fifty-fold.
 ## Metal Accumulation in Fruit Bodies
 
 Byrne et al. (1979) documented accumulation of nine metal elements in
-fruit bodies of 32 basidiomycete fungal species. Accumulation patterns
+fruit bodies of 32 basidiomycete fungal species. [[psilocybin-psilocin-flush-accumulation-patterns]]
 differ markedly between species and among individual basidiocarps, making
 generalizations difficult. Rizzo et al. (1992) showed that despite
 melanized outer cortex, rhizomorphs of Armillaria spp. can concentrate
@@ -76,48 +76,15 @@ Al, Zn, Fe, Cu, and Pb in rhizomorphs reached up to 3440, 1930, 1890,
 
 Fungi can transform heavy metals through biochemical processes.
 Byrne et al. (1997) discovered dimethylarsenic acid (DMA) in the
-ectomycorrhizal basidiomycete Laccaria amethystina, leading to
+ectomycorrhizal basidiomycete [[laccaria-amethystina]], leading to
 investigation of arsenic methylation in fungal tissues. They identified
 methylarsonic acid in Sarcosphaera coronaria, inorganic arsenic in
-Entoloma lividum, and mixtures in Sarcodon imbricatus and Agaricus
+Entoloma lividum, and mixtures in [[sarcodon-imbricatus]] and Agaricus
 species. Agaricus placomyces effected methylation of arsenic when grown
-on malt extract agar.
+on [[malt-extract-agar]].
 
 Mercury transformation is particularly significant. Methyl mercury in
 fungal fruit bodies ranged from 0.2 to 8 mg Hg per gram dry weight.
 Bioaccumulation factors for methyl mercury were between 3 and 199,
 while those for total mercury were usually below 1. Methylation thus
 increases concentration factors in fungal tissue, with important
-implications for movement and toxicity within food chains.
-
-## Mycorrhizal Interactions with Heavy Metals
-
-Within the [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], fungi may alter the rate at which
-pollutants enter host plants. The presence of a pollutant chemical
-within mycelium can change the chemical and physical state of the
-pollutant, making it more or less toxic to fungal consumers. Pollutants
-can be transferred up the food web by grazing of mycelium or fruiting
-structures, or released through death or leakiness of fungal mycelium.
-
-The wood-decaying fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] has demonstrated
-ability to degrade toxic [[fungal-volatile-organic-compounds-communication]] by converting chlorine bound
-in organic form to harmless inorganic forms and degrading aromatic
-hydrocarbons to CO2 and water. From both metal ion accumulation and
-enzymatic competence perspectives, fungi have potential for detoxifying
-contaminated land.
-
-## Bioremediation Potential
-
-The biosorptive properties of both live and dead fungal mycelium can be
-employed in industrial processes for metal retrieval from effluent. Dead
-mycelium of Rhizopus arrhizus efficiently adsorbs a range of metal ions,
-though not alkali metals. The interaction between live fungal biomass and
-the relative availability of carbon, nitrogen, and phosphorus influences
-the solubility of heavy metals, showing that fungal [[chelation-and-metal-binding-in-plants]] is
-greatly influenced by environmental conditions.
-
-## See Also
-
-- [[fungal-metal-transformations-biosorption]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[mycoremediation-of-heavy-metals]]

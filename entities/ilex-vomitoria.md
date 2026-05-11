@@ -48,7 +48,7 @@ The species epithet refers to the erroneous belief that the plant induced vomiti
 
 ## Distribution and Habitat
 
-Yaupon is native to the southeastern United States, ranging from southeastern Virginia along the Atlantic and Gulf coasts to central Florida and west to eastern Texas. Isolated populations occur in Oklahoma and Arkansas.
+Yaupon is native to the southeastern [[dmt-maoi-plants-united-states]], ranging from southeastern Virginia along the Atlantic and Gulf coasts to central Florida and west to eastern Texas. Isolated populations occur in Oklahoma and Arkansas.
 
 The species is most abundant in the coastal plain from the Carolinas through Florida and along the Gulf Coast. It is one of the most common understory shrubs in southeastern pine forests.
 
@@ -62,9 +62,9 @@ Yaupon provides important cover and food for wildlife. The persistent red fruits
 
 ## Chemistry and Pharmacology
 
-Yaupon leaves and young stems contain caffeine, theobromine, and theophylline in ratios similar to those found in yerba mate (*Ilex paraguariensis*) and guayusa (*Ilex guayusa*).
+Yaupon leaves and young stems contain caffeine, theobromine, and theophylline in ratios similar to those found in [[comparison-caffeine-plants-yerba-mate-vs-guayusa-vs-yaupon-vs-tea]] (*[[ilex-paraguariensis]]*) and guayusa (*[[ilex-guayusa]]*).
 
-Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[camellia-sinensis-entity]]*) and exceeding some yerba mate preparations. Theobromine content is approximately 0.2–0.3%.
+Caffeine content ranges from 0.8–1.5% dry weight, comparable to commercial tea (*[[camellia-sinensis]]*) and exceeding some yerba mate preparations. Theobromine content is approximately 0.2–0.3%.
 
 Caffeine concentrations vary with [[cannabis-harvest-timing-visual-cues]], leaf age, and processing method. Young leaves and apical shoots contain the highest concentrations.
 
@@ -76,7 +76,7 @@ The specific epithet *vomitoria* was assigned by William Aiton based on accounts
 
 ## Ethnobotanical Use
 
-Yaupon has the longest documented history of caffeine use in North America. Indigenous peoples of the Southeast, including the Cherokee, Choctaw, Creek, and Timucua, prepared a caffeinated beverage called "asi" or "black drink" from roasted yaupon leaves.
+Yaupon has the longest documented history of caffeine use in [[guzman-psilocybin-mushrooms-north-america]]. Indigenous peoples of the Southeast, including the Cherokee, Choctaw, Creek, and Timucua, prepared a caffeinated beverage called "asi" or "black drink" from roasted yaupon leaves.
 
 The black drink was consumed in large quantities during purification rituals, council meetings, and ball game ceremonies. Its ceremonial importance is documented in 16th-century Spanish accounts and continues in some communities today.
 
@@ -87,28 +87,3 @@ European settlers adopted yaupon tea during the American Revolution as a substit
 Modern yaupon tea is produced by several small-scale companies in the southeastern United States, marketing it as a sustainable, locally grown alternative to imported tea and coffee.
 
 Research interest in yaupon has increased since 2020, with studies examining its antioxidant capacity, caffeine pharmacokinetics, and potential as a commercial crop in the southeastern United States.
-
-## Cultivation
-
-Yaupon is exceptionally easy to cultivate and is widely used in southeastern landscaping as a hedge, screen, foundation planting, and specimen shrub. It is hardy to USDA Zone 7 and is one of the most drought-tolerant evergreen shrubs available.
-
-Propagation is by seed (requires 2–3 months cold stratification), semi-hardwood cuttings, or transplanting of root suckers. Female plants require a nearby male pollinizer for fruit production.
-
-Softwood cuttings taken in summer under intermittent mist produce roots in 4–6 weeks with IBA treatment.
-
-The species tolerates severe pruning, shearing, and neglect. It is highly resistant to pests, diseases, and deer browsing due to its caffeine and saponin content.
-
-Numerous cultivars exist including 'Schillings Dwarf' (compact, 1 m), 'Stokes Dwarf' (dense, low), 'Will Fleming' (columnar), 'Pendula' (weeping), and 'Shadow's Female' (heavy fruiting).
-
-Yaupon's [[fungal-salt-tolerance-and-ion-homeostasis]] makes it particularly valuable for coastal landscaping, where few evergreen broadleaf shrubs perform reliably.
-
-## See Also
-
-- ilex vomitoria
-- [[sambucus-canadensis]]
-- [[juniperus-virginiana]]
-- [[kalmia-latifolia]]
-- [[gaylussacia-baccata]]
-- [[picea-abies]]
-- arctostaphylos-uva-ursi
-- [[vaccinium-myrtillus]]

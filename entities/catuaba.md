@@ -41,7 +41,7 @@ A secondary source, **Anemopaegma arvense** (Bignoniaceae), is a woody vine rath
 
 ## Distribution and Habitat
 
-Trichilia catigua is native to the Amazon basin and Atlantic coastal forests of Brazil, extending into Paraguay and northern Argentina. It grows in humid tropical forests at low to moderate elevations.
+Trichilia catigua is native to the Amazon basin and Atlantic coastal forests of Brazil, extending into Paraguay and northern Argentina. It grows in humid [[fungal-biodiversity-tropical-forests]] at low to moderate elevations.
 
 The species is most abundant in the states of Pará, Amazonas, and Mato Grosso in Brazil. It thrives in well-drained, fertile soils of primary forest but tolerates secondary growth.
 
@@ -65,7 +65,7 @@ Trichilia catigua extracts have demonstrated dopaminergic activity in preclinica
 
 Animal studies show improvement in memory acquisition and retention, suggesting potential nootropic properties. Antidepressant-like effects have been observed in forced-swim and tail-suspension tests in rodents.
 
-The bark extracts exhibit anti-inflammatory and analgesic activities in carrageenan-induced paw edema and hot-plate models, respectively. Nitric oxide modulation may contribute to vasodilatory effects relevant to sexual function.
+The bark extracts exhibit anti-inflammatory and analgesic activities in carrageenan-induced paw edema and hot-plate models, respectively. Nitric oxide modulation may contribute to vasodilatory effects relevant to [[cannabis-for-libido-and-sexual-function]].
 
 Human [[mushroom-cancer-clinical-trials-overview]] are limited. A small open-label study of a multi-herb preparation containing catuaba reported improved sexual function scores in male participants.
 
@@ -75,7 +75,7 @@ In Brazilian folk medicine, catuaba bark is prepared as a decoction or maceratio
 
 The primary traditional indication is as an aphrodisiac and sexual tonic for both men and women. It is also used for general fatigue, nervous exhaustion, and memory impairment.
 
-Indigenous Amazonian communities use catuaba as a general stimulant and nerve tonic, often combined with guarana (*Paullinia cupana*) for synergistic effects. It is considered a "fortifier" in the Brazilian herbal tradition.
+Indigenous Amazonian communities use catuaba as a general stimulant and nerve tonic, often combined with guarana (*[[paullinia-cupana]]*) for synergistic effects. It is considered a "fortifier" in the Brazilian herbal tradition.
 
 Commercial catuaba products include capsules, tinctures, fluid extracts, and the popular Brazilian herbal liqueur "Catuaba." Quality control remains a significant concern due to species substitution and adulteration.
 
@@ -83,31 +83,8 @@ Commercial catuaba products include capsules, tinctures, fluid extracts, and the
 
 Trichilia catigua is not listed as threatened by the IUCN, but wild harvesting of bark has raised sustainability concerns in parts of the Brazilian Amazon. Bark stripping without killing the tree is possible but often done unsustainably.
 
-The Brazilian pharmacopeia officially recognizes catuaba, driving significant commercial demand. Annual harvest volumes are difficult to estimate due to informal collection networks and species substitution in the supply chain.
+The Brazilian pharmacopeia officially recognizes catuaba, driving significant commercial demand. Annual harvest volumes are difficult to estimate due to informal collection networks and species substitution in the [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]].
 
 Quality control in the catuaba trade is problematic. Adulteration with inert bark, substitution with A. arvense, and contamination with undeclared species are commonly reported by [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of commercial products.
 
 Cultivation trials of T. catigua have shown that the tree can be grown from seed with bark harvest possible after 5–7 years. However, plantation-grown bark may have a different phytochemical profile than wild-harvested material.
-
-## Modern Research
-
-Contemporary research on Trichilia catigua has expanded beyond its traditional aphrodisiac reputation. Neuroprotective effects demonstrated in cell culture models suggest potential for neurodegenerative disease applications.
-
-The combination preparation "Catuama," containing T. catigua, *Paullinia cupana*, *Zingiber officinale*, and *Trichilia elegans*, has been the subject of several Brazilian clinical studies. This formulation has shown antioxidant, antidepressant, and vasodilatory effects.
-
-Antimicrobial screening of T. catigua extracts has demonstrated activity against *Staphylococcus aureus*, *Escherichia coli*, and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, though minimum inhibitory concentrations suggest modest potency.
-
-The growing interest in natural products for cognitive enhancement has positioned catuaba as a candidate for further investigation as a natural nootropic and adaptogenic agent.
-
-## See Also
-
-- [[paullinia-cupana]]
-- [[turnera-diffusa]]
-- [[uncaria-tomentosa]]
-- [[anadenanthera-peregrina]]
-- [[hordenine]]
-- [[withania-somnifera]]
-- [[hypericum-perforatum]]
-- [[pausinystalia-yohimbe]]
-- [[ipomoea-tricolor]]
-- [[ergine-entity]]

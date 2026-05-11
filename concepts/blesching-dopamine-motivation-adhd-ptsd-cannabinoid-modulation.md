@@ -44,7 +44,7 @@ associated with multiple disorders:
 2. **Schizophrenia:** Characterized by excessive dopamine in certain brain
    regions
 3. **ADHD:** Abnormal dopamine transmission in the striatum (the part of the
-   forebrain that modulates the endocannabinoid system) plays a pivotal role
+   forebrain that modulates the [[endocannabinoid-system]]) plays a pivotal role
 
 ## The Endocannabinoid-Dopamine Connection
 
@@ -87,54 +87,3 @@ Meditation-induced changes of consciousness have been shown to affect dopamine
 levels. Extended Attention Span Training (EAST), a technique developed by NASA,
 and its biofeedback-based video game offshoot called Self Mastery and Regulation
 Training (SMART) directly target attentional circuits regulated by dopamine.
-
-### Nutrition
-The natural amino acid tyrosine serves as a direct precursor to dopamine.
-Tyrosine-rich foods include:
-- Aged cheeses and [[fermented-dairy-and-cultured-milk-products]]
-- Almonds, avocados, and bananas
-- Eggs, fish, and poultry
-- Legumes and sesame seeds
-
-### Cannabinoid Therapy
-CB1-activating cannabinoids are recommended for dopamine modulation. THC-dominant
-strains may be more effective than CBD-dominant strains for this purpose, given
-THC's higher affinity for CB1 receptors. However, the dose-response relationship
-is complex — excessive CB1 activation can paradoxically reduce dopamine
-sensitivity through receptor downregulation.
-
-## Clinical Applications
-
-### ADHD Management
-Cannabis as an adjunct or alternative to stimulant medications for ADHD
-represents a growing area of clinical interest. Unlike pharmaceutical
-dopamine reuptake inhibitors (Ritalin, Adderall), cannabinoids work through
-modulation rather than forced elevation, potentially reducing side effects and
-tolerance development.
-
-### Motivation and Productivity
-Patients presenting with low motivation, task completion difficulties, or
-reduced libido may benefit from CB1-activating cannabinoid strains, ideally
-combined with lifestyle interventions (music, exercise, tyrosine-rich diet).
-
-### PTSD Emotional Memory Processing
-The combination of dopamine modulation and anxiolytic effects makes cannabis
-a unique tool for PTSD patients working through traumatic memories. The
-approach works best when combined with therapeutic modalities that provide
-safe contexts for memory reprocessing.
-
-## Dosing Considerations
-
-The [[blesching-cannabis-safety-profile-subjective-therapeutic-window]] concept is particularly relevant for dopamine
-modulation. Too little cannabinoid effect produces no meaningful dopamine
-modulation; too much can downregulate CB1 receptors and paradoxically reduce
-dopamine sensitivity. Patients should start with low doses and titrate upward
-while monitoring changes in motivation, task completion, and emotional state.
-
-## See Also
-
-- [[blesching-gaba-endocannabinoid-system-anxiety-relaxation]]
-- [[blesching-serotonin-gut-brain-axis-cannabinoid-modulation]]
-- [[anandamide-and-the-endocannabinoid-system]]
-- cannabis adhd attention blesching
-- cannabis ptsd trauma blesching

@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Spawn is the [[mycelial-growth-and-colonization]] on a chosen substrate material. This living
-pure culture is used to inoculate new substrates under sterile
+[[mushroom-spawn-making-and-pure-culture-methods]] is used to inoculate new substrates under sterile
 conditions. For [[mycelium]] grows on the surface of a
   liquid nutrient medium.
 - **[[cancer-medicinal-mushrooms-submerged-fermentation-production]]**: Mycelium grows throughout the liquid
@@ -56,7 +56,7 @@ suitable for species like maitake that naturally grow on wood.
 ### 4. Wooden Stick (Skewer) Spawn
 
 Wooden stick spawn uses small wooden dowels or skewers colonized
-by mushroom mycelium. This type of spawn can be easy to manipulate
+by [[antimicrobial-compounds-mushroom-mycelium]]. This type of spawn can be easy to manipulate
 during inoculation (Oei, 1996). The wooden sticks are inserted into
 the substrate, providing inoculation points that mimic natural
 conditions where maitake colonizes wood.
@@ -71,10 +71,10 @@ the source material:
 | Supplier | Location | Contact |
 |----------|----------|---------|
 | Fungi Perfecti | Olympia, WA | 1-800-780-9126 |
-| Field and Forest Products | Peshtigo, WI | 1-800-792-6220 |
+| Field and [[mollison-specialist-tropical-crops-forest-products]] | Peshtigo, WI | 1-800-792-6220 |
 | Mushroom People | Summertown, TN | 1-800-692-6329 |
 | Mushroom Factory | Theodosia, MO | 870-436-3444 |
-| Skunk Bay Mushroom Farm | Hansville, WA | 360-638-1069 |
+| Skunk Bay [[growing-gourmet-mushroom-farm-design-environments]] | Hansville, WA | 360-638-1069 |
 | Wylie Mycologicals | Wiarton, Ont. | 519-534-1570 |
 | Hanson Family Cedaridge Farm | Estacada, OR | 503-631-8016 |
 | Western Biologicals | Aldergrove, BC | 604-856-3339 |
@@ -84,29 +84,6 @@ the source material:
 ### Notable Note
 
 Franklin Mushroom Farms, identified as the leading G. frondosa
-mushroom grower in the United States, does not sell maitake spawn.
+mushroom grower in the [[dmt-containing-plants-united-states-halpern]], does not sell maitake spawn.
 
 ## Cultivation Bag Supplier
-
-Unicorn Imp. and Mfg. Corp. (Commerce, TX) is identified as a
-supplier of specialized [[accessible-mushroom-cultivation-for-disabilities]] bags with microfilter
-windows, essential for synthetic-log cultivation. Contact:
-1-800-888-0811 or www.unicornbags.com.
-
-## Spawn Rate Recommendations
-
-For maitake cultivation, a spawn-to-substrate ratio of 1:10 or 1:20
-is generally adopted. Increasing spawn quantity can dramatically
-shorten the spawn run period. One demonstration showed that
-increasing millet-based spawn shortened the colonization time to
-approximately one week.
-
-## References
-
-Chen, A.W. (1999). A Practical Guide for Synthetic-Log Cultivation
-of [[gourmet-medicinal-mushroom-casing-layer-techniques]] [[maitake-grifola-frondosa-comprehensive-profile]] (Maitake). International
-Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
-
-## See Also
-
-- [[grain-spawn-types-and-preparation]]

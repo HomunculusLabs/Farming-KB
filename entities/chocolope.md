@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Dutch Passion Seed Company. "Chocolope Strain Profile." dutchpassion.com.
   - Leafly Staff (2023). "Chocolope Weed Strain Information." Leafly.
   - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing 1995-2014." Biological Psychiatry.
@@ -38,7 +39,7 @@ The Cannalope Haze parent contributes increased vigor and a reduced flowering ti
 
 Chocolope plants are tall and lanky, characteristic of their sativa-dominant heritage. They develop large, loosely packed buds with elongated calyxes and moderate trichome coverage.
 
-The flowers are light to medium green with occasional rust-colored pistils. The overall structure is airy rather than dense, which helps with airflow and resistance to mold in humid environments. Leaves are narrow-fingered, typical of Southeast Asian sativa genetics.
+The flowers are light to medium green with occasional rust-colored pistils. The overall structure is airy rather than dense, which helps with airflow and resistance to mold in humid environments. Leaves are narrow-fingered, typical of [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] genetics.
 
 ## Aroma and Flavor
 
@@ -50,15 +51,15 @@ The unique flavor profile is attributed to a specific terpene combination driven
 
 ## Terpene and Cannabinoid Profile
 
-Dominant terpenes include myrcene, caryophyllene, and humulene, with supporting contributions from limonene and pinene. The chocolate-coffee aroma is associated with specific volatile organic compounds inherited from the Thai landrace parent.
+Dominant terpenes include myrcene, caryophyllene, and humulene, with supporting contributions from limonene and pinene. The chocolate-coffee aroma is associated with specific [[chamovitz-plant-scent-communication-volatile-organic-compounds]] inherited from the Thai landrace parent.
 
 THC content typically ranges from 18–21%, with some phenotypes reaching 23%. CBD content is very low (<0.1%), consistent with its pure sativa breeding and pre-CBD-movement genetics. CBG and CBC are present in trace amounts.
 
-The entourage effect from the high myrcene content combined with modest THC levels produces a smooth, functional cerebral experience without the overwhelming intensity of some modern 30%+ THC varieties.
+[[cannabis-terpene-entourage-effect]] from the high myrcene content combined with modest THC levels produces a smooth, functional cerebral experience without the overwhelming intensity of some modern 30%+ THC varieties.
 
 ## Effects
 
-Onset is relatively quick, typically felt within 5–10 minutes of consumption. The initial effect is a cerebral rush characterized by euphoria, mental energy, and heightened sensory perception.
+Onset is relatively quick, typically felt within 5–10 minutes of consumption. The initial effect is a cerebral rush characterized by euphoria, mental energy, and heightened [[plant-sensory-perception]].
 
 Users commonly report enhanced creativity, talkativeness, and a generally uplifting mood. The high is described as clear-headed and motivating, making it popular for daytime use, social activities, and creative work.
 
@@ -70,13 +71,13 @@ Chocolope has a flowering time of 8–9 weeks indoors, significantly shorter tha
 
 Indoor yields range from 400–500 g/m². The strain prefers moderate to high nutrient levels during vegetative growth, with reduced nitrogen during flowering. It is moderately resistant to mold and pests but requires attention to [[cervantes-humidity-control-dehumidification]] due to its airy bud structure.
 
-Outdoor cultivation is best suited to Mediterranean or tropical climates with a long growing season. Plants can reach heights of 2+ meters outdoors and should be planted after the last frost risk has passed.
+Outdoor cultivation is best suited to Mediterranean or [[fukuoka-natural-farming-tropical-climates]] with a long growing season. Plants can reach heights of 2+ meters outdoors and should be planted after the last frost risk has passed.
 
 ## Medical Applications
 
 Chocolope's uplifting and focus-enhancing effects have made it a popular choice among medical cannabis patients. The most commonly reported applications include management of [[cannabis-chronic-fatigue-research]], depression, and attention deficit symptoms.
 
-The strain's energizing properties contrast with the sedating effects of many indica-dominant medical strains, making it suitable for daytime symptom management. Patients with treatment-resistant depression frequently report mood elevation and increased motivation.
+The strain's energizing properties contrast with the sedating effects of many indica-dominant medical strains, making it suitable for daytime [[cannabis-cancer-symptom-management]]. Patients with treatment-resistant depression frequently report mood elevation and increased motivation.
 
 Some patients use Chocolope for mild pain management and tension headache relief, though its analgesic properties are generally considered moderate. The cerebral stimulation may also help with [[cannabis-for-nausea-and-appetite-stimulation]] stimulation, particularly in patients undergoing treatments that suppress appetite.
 
@@ -87,26 +88,3 @@ Several notable phenotypes exist within the Chocolope gene pool. The "Coffee" ph
 Chocolope has been used as a parent in several subsequent breeding projects. Crosses with indica-dominant lines have produced hybrids that retain the chocolate aroma while adding physical relaxation. The strain has also been crossed with Cookies family genetics to create dessert-flavored varieties.
 
 The Chocolate Thai genetics in Chocolope have become increasingly valuable in breeding as preservation of landrace genetics becomes a priority. Several breeders maintain Chocolope in their genetic libraries specifically for its Thai terpene profile.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of most cannabis strains. Due to its high THC content and sativa dominance, Chocolope may provoke anxiety or paranoia in susceptible individuals, particularly at higher doses or in inexperienced users.
-
-The cerebral intensity can be overstimulating for some users, leading to racing thoughts or mild dissociation. Starting with a low dose and titrating upward is recommended, especially for users sensitive to sativa-dominant strains.
-
-## History and Awards
-
-Chocolope was developed by Dutch Passion in the early 2000s as part of a deliberate effort to preserve Chocolate Thai genetics, which had become nearly extinct in commercial cultivation by the late 1990s. The breeding program prioritized flavor preservation over maximum yield or THC content.
-
-The strain gained significant recognition in cannabis competitions and community reviews throughout the 2000s and 2010s. It has been consistently praised for its unique flavor profile and remains one of the most widely available chocolate-aroma strains in European dispensaries.
-
-Chocolope represents an important chapter in [[oner-cannabis-breeding-fundamentals]] history, exemplifying the movement to preserve and reintroduce landrace genetics into modern commercial lines before these genetic resources were lost to hybridization.
-
-## See Also
-
-- [[sour-diesel]]
-- [[jack-herer]]
-- [[blue-dream]]
-- haze
-- [[lambsbread]]
-- thai-stick-entity

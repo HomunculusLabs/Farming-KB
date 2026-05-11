@@ -18,7 +18,7 @@ sources:
   - Mignouna, H.D. et al. (2009). "Yams (Dioscorea spp.): conservation
     genetics." In: Biotechnology and Plant Genetic Resources. CABI.
   - Arnolin, R. et al. (2017). "The domestication of yam." Economic Botany.
-  - Lebot, V. (2009). Tropical Root and comparison-permaculture-tuber-crops-vs-bean-growing-guide: Cassava, comparison-cassava-vs-taro-vs-sweet-potato-vs-yam,
+  - Lebot, V. (2009). [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] and comparison-permaculture-tuber-crops-vs-bean-growing-guide: Cassava, comparison-cassava-vs-taro-vs-sweet-potato-vs-yam,
     Yams and Aroids. CABI.
 ---
 
@@ -26,9 +26,9 @@ sources:
 
 **Dioscorea trifida**, commonly known as cush-cush yam, ají yam, or yampee,
 is a species of yam in the family Dioscoreaceae native to the Caribbean and
-northern South America.
+northern [[guzman-psilocybin-mushrooms-south-america]].
 
-It is one of the most important traditional root crops in the Caribbean basin,
+It is one of the most important traditional [[permaculture-plants-root-crops-and-tubers]] in the Caribbean basin,
 particularly in Trinidad, Tobago, Dominica, and the Lesser Antilles, where it
 is valued for its early maturity and palatable flavor.
 
@@ -37,7 +37,7 @@ flesh that are less fibrous than many other yam species, making it
 particularly suitable for boiling and roasting.
 
 Unlike most other cultivated yams, *D. trifida* is exclusively dioecious and
-relies entirely on vegetative propagation, which has preserved its genetic
+relies entirely on [[hamilton-vegetative-propagation]], which has preserved its genetic
 diversity in traditional farming systems.
 
 ## Taxonomy and Morphology
@@ -87,63 +87,3 @@ Cush-cush yam tubers are composed of approximately 65–75% carbohydrate, 1.5–
 protein, and 0.1–0.3% fat on a fresh weight basis.
 non-starch polysaccharides. The starch has a relatively low glycemic index
 compared to other yam species.
-
-Tubers contain moderate amounts of vitamin C (10–15 mg/100g fresh weight),
-thiamine, riboflavin, and niacin. Mineral content includes potassium, calcium,
-iron, and zinc.
-
-Like other Dioscorea species, *D. trifida* contains small amounts of
-diosgenin and other steroidal sapogenins in the tuber peel, though at levels
-far below those of *D. bulbifera* or *D. deltoidea*.
-
-The protein quality is relatively high for a root crop, with a favorable
-amino acid profile including significant lysine content.
-
-## Cultivation
-
-*D. trifida* is propagated exclusively by vegetative means using small tuber
-pieces (setts) weighing 50–150 grams, each containing at least one dormant bud.
-
-Planting is typically done at the onset of the rainy season, with setts placed
-10–15 cm deep on mounds or ridges spaced 90–120 cm apart. The crop requires
-support structures such as stakes or trellises for optimal vine growth.
-
-The crop matures relatively early for a yam, typically 6–9 months from
-planting, compared to 8–12 months for *D. alata* or *D. rotundata*. This
-early maturity is a key advantage in regions with short growing seasons.
-
-Yields range from 8–20 tonnes per hectare under traditional management, with
-potential for higher yields under improved agronomic practices including
-adequate staking, fertilization, and [[fukuoka-weed-management-and-green-manure]].
-
-Pests include yam beetles (*Heteroligus* spp.), nematodes (*Scutellonema*
-spp.), and various [[bloomfield-fungal-pathogens-and-parasites]] causing tuber rot. Storage losses can be
-significant without proper post-harvest handling.
-
-## Uses and Cultural Significance
-
-Cush-cush yam is primarily consumed as a boiled or roasted staple food
-throughout the Caribbean, where it is considered one of the finest-tasting
-yam species due to its smooth texture and mild, slightly sweet flavor.
-
-In Trinidad and Tobago, it is a traditional component of Sunday lunch and
-holiday meals, often served alongside callaloo, stewed chicken, and rice.
-dumplings. In some regions, grated tuber is fermented to produce a traditional
-beverage.
-
-The species holds cultural significance among indigenous and Afro-Caribbean
-communities, where traditional varieties are maintained through informal seed
-(tuber) exchange networks that preserve genetic diversity.
-digestive complaints and [[cannabis-for-skin-conditions-detailed]], though these applications are not
-well-documented in the scientific literature.
-
-## See Also
-
-- [[dioscorea-alata]]
-- [[dioscorea-esculenta]]
-- [[dioscorea-rotundata]]
-- [[colocasia-esculenta]]
-- [[xanthosoma-sagittifolium]]
-- [[ipomoea-batatas]]
-- [[manihot-esculenta]]
-- [[pachyrhizus-erosus]]

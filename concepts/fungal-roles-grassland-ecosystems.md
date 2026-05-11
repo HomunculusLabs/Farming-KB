@@ -1,5 +1,5 @@
 ---
-title: Fungal Roles in [[biodiversity-fungi-grassland-ecosystems]]
+title: Fungal Roles Grassland Ecosystems
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -7,15 +7,15 @@ tags: [mycology, fungi, grassland, ecology, soil-biology]
 sources: []
 ---
 
-# [[dighton-fungal-roles-soil-erosion-prevention|fungal]]-habitat-roles|Fungal Roles in Grassland Ecosystems
+# [[dighton-fungal-roles-soil-erosion-prevention]]-habitat-roles|Fungal Roles in Grassland Ecosystems
 
 Fungi play fundamentally different roles in grassland ecosystems
 compared to forests, reflecting differences in organic matter inputs,
-soil structure, [[mycorrhizal-nutrient-transport|mycorrhizal]] associations, and [[teaming-with-microbes-decomposition-pathways]].
+soil structure, [[mycorrhizal-nutrient-transport]] associations, and [[teaming-with-microbes-decomposition-pathways]].
 
 In grasslands, the dominant organic inputs come from belowground root
-turnover rather than surface litter, creating distinct fungal communities
-and decomposition dynamics.
+turnover rather than surface litter, creating distinct [[biodiversity-fungi-soil-fungal-communities]]
+[[savory-soil-organic-matter-and-decomposition-dynamics]].
 
 ## Grassland Soil Structure and Organic Matter
 
@@ -25,7 +25,7 @@ plant parts is relatively minor.
 
 This results in soil profiles where organic matter is more intimately
 mixed with mineral soil, unlike the clearly defined organic horizons (Ao,
-A) characteristic of [[fungal-ecology-forest-ecosystems|forest]] soils.
+A) characteristic of [[fungal-ecology-forest-ecosystems]] soils.
 
 The absence of a thick surface litter layer means that decomposition
 occurs primarily within the soil matrix.
@@ -34,17 +34,17 @@ Where decomposition is rapid, as in agricultural soils and grasslands,
 a mineral soil profile develops with low organic matter content that is
 incorporated to a greater degree into the mineral component.
 
-The fertility of grassland soils is closely linked to the rate of
+The fertility of [[dighton-fungal-communities-grassland-soils]] is closely linked to the rate of
 organic matter turnover, with rapid decomposition producing nutrient-rich,
 mineral-associated organic matter.
 
 ## Arbuscular Mycorrhizal Dominance
 
-Arbuscular mycorrhizal fungi (AMF) are the dominant mycorrhizal type
+[[arbuscular-mycorrhizal-fungi]] (AMF) are the dominant mycorrhizal type
 in temperate and tropical grasslands.
 
 AMF associations with grass roots are ubiquitous and influence grassland
-productivity, species composition, and nutrient cycling.
+productivity, species composition, [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]].
 
 In grassland ecosystems, AMF contribute to soil aggregation through
 their extraradical hyphal networks and glomalin-related soil protein
@@ -56,7 +56,7 @@ availability in grassland soils.
 
 The conversion of pasture (with 90% stable macroaggregates) to tilled
 tomato crop reduced aggregate stability, demonstrating the importance
-of mycorrhizal fungal networks for soil structure maintenance.
+of [[arbuscular-mycorrhizal-fungal-diversity]] networks for soil structure maintenance.
 
 ## AMF Functional Diversity in Grasslands
 
@@ -88,62 +88,3 @@ in several important ways:
 - Greater proportion of microfungi (ascomycetes and mitosporic fungi)
   relative to basidiomycetes
 - Higher fungal biomass per unit organic matter due to rapid root litter
-  turnover
-- Less diverse basidiomycete communities due to absence of woody litter
-- Stronger seasonal fluctuations linked to root growth and dieback cycles
-
-The diversity of litter types in grasslands is lower than in forests,
-with dominant inputs from grass leaves, stems, and roots.
-
-This lower chemical heterogeneity supports a less diverse decomposer
-community, but one that is highly efficient at processing the dominant
-grass litter types.
-
-## Key Saprotrophic Genera in Grasslands
-
-Several fungal genera are particularly important in grassland
-decomposition:
-
-- **Alternaria** and **Cladosporium** dominate early-stage
-  decomposition of grass leaves
-- **Fusarium** species contribute to root litter breakdown and are
-  common soil inhabitants
-- **Trichoderma** species are aggressive colonizers and play roles in
-  both decomposition and biological control
-- **Mucor** and **Rhizopus** (Zygomycota) are important early-stage
-  decomposers of succulent plant material
-
-The succession of these decomposer fungi follows predictable patterns
-linked to substrate quality, moisture availability, and temperature.
-
-## Fungal Biomass and Hyphal Length Patterns
-
-Kjoller and Struwe (1982) measured fungal hyphal length and biomass
-across ecosystem types, finding that hyphal length is a more important
-fungal investment in cooler environments and where resources are more
-recalcitrant, while biomass with less hyphal extension is more
-important in warmer environments with higher-quality resources.
-
-In grasslands, fungal hyphal lengths typically fall between forest and
-agricultural values, reflecting intermediate [[fungal-decomposition-resource-quality-determinants]] and
-decomposition rates.
-
-The relationship between fungal investment strategy (hyphal extension
-vs. biomass accumulation) and ecosystem conditions suggests that
-grassland fungi balance exploration and exploitation differently than
-their forest counterparts.
-
-## Nitrogen Cycling in Grasslands
-
-Fungi play important roles in grassland nitrogen cycling through:
-
-- Decomposition of root litter and soil organic matter
-- Nitrogen immobilization in fungal biomass during periods of high
-  resource availability
-- Facilitation of [[fungal-nitrogen-mineralization-pathways]] through enzyme production
-- AMF-mediated nitrogen transfer among plants
-- Contribution to nitrogen retention during periods of leaching potential
-
-In semi-arid prairie meadows, fungal contributions to decomposition and
-nutrient cycling are particularly important because bacterial activity
-## See Also

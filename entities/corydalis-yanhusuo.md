@@ -24,7 +24,7 @@ sources:
 
 # Corydalis yanhusuo (Yan Hu Suo)
 
-**Corydalis yanhusuo** is a perennial herbaceous plant in the Papaveraceae (poppy) family, native to northern China. Its tuberous rhizome, known as **Yan Hu Suo** (延胡索) in Traditional Chinese Medicine (TCM), has been used for over a thousand years as a potent analgesic for pain conditions. The primary active compound, **dl-tetrahydropalmatine (THP)**, acts on dopamine and opioid receptors, providing pain relief without the addictive potential of opiate medications.
+**Corydalis yanhusuo** is a perennial herbaceous plant in the Papaveraceae (poppy) family, native to northern China. Its tuberous rhizome, known as **Yan Hu Suo** (延胡索) in Traditional Chinese Medicine (TCM), has been used for over a thousand years as a potent analgesic for pain conditions. The primary active compound, **dl-tetrahydropalmatine (THP)**, acts on dopamine and opioid receptors, providing [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] without the addictive potential of opiate medications.
 
 ## Taxonomy and Botany
 
@@ -49,7 +49,7 @@ Spring ephemeral — emerges, flowers, and sets seed within 6–8 weeks in early
 ## Traditional Chinese Medicine
 
 ### Classical Use
-Yan Hu Suo was first recorded in the *Bencao Gangmu* (Compendium of Materia Medica, 1596) by Li Shizhen, who described it as a premier herb for pain relief. It had been used for centuries prior under various local names.
+Yan Hu Suo was first recorded in the *Bencao Gangmu* (Compendium of [[herbal-materia-medica]], 1596) by Li Shizhen, who described it as a premier herb for pain relief. It had been used for centuries prior under various local names.
 
 ### TCM Properties
 - **Nature:** Warm, acrid, bitter
@@ -88,56 +88,3 @@ The tuber contains over 30 isoquinoline alkaloids, classified into several struc
 - **Protopine**: ~0.05% — anti-inflammatory, anticholinergic
 
 ### Benzylisoquinoline Alkaloids
-- **Tetrahydrocoptisine** — antibacterial, anti-inflammatory
-- **Tetrahydrocolumbamine** — neuroprotective
-- **Dl-Tetrahydroberberine** (canadine) — antihypertensive
-
-### Other Alkaloids
-- **Corybulbine** — sedative
-- **Glaucine** — bronchodilatory, antitussive
-- **Dehydrocorydaline** — cardiovascular effects
-- **Corydalmine** — analgesic
-- **Isocorybulbine** — anti-inflammatory
-
-## Pharmacology
-
-### dl-Tetrahydropalmatine (THP) — Primary Active Compound
-
-#### Analgesic Mechanism
-THP produces analgesia through multiple receptor interactions:
-
-1. **Dopamine D₁ receptor antagonist:** Blocks D₁ receptors in the striatum and mesolimbic pathway, modulating pain perception and reward pathways. This mechanism is unique among analgesics and is responsible for both the pain-relieving and some of the sedative effects.
-
-2. **Dopamine D₂ receptor partial agonist:** At D₂ receptors, THP acts as a partial agonist, providing some dopaminergic tone while preventing overactivation. This dual D₁/D₂ action creates a "dopamine stabilizer" effect.
-
-3. **GABA_A receptor positive modulator:** Enhances GABAergic inhibition, contributing to anxiolytic and muscle relaxant effects.
-
-4. **Opioid receptor interaction:** Weak interaction with μ-opioid receptors contributes to analgesia but does not produce opioid-like dependence at therapeutic doses. The analgesic effect is not fully blocked by naloxone, indicating non-opioid mechanisms predominate.
-
-#### Cardiovascular Effects
-- Reduces cardiac oxygen demand
-- Antiarrhythmic properties (slows conduction, prolongs refractory period)
-- Mild antihypertensive effect through vasodilation
-- Protects against ischemia-reperfusion injury in animal models
-
-#### Neuroprotective Effects
-- Antioxidant activity reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in neurons
-- Anti-apoptotic: reduces caspase-3 activation
-- Improves cerebral blood flow
-- Investigated for potential in Parkinson's disease, stroke recovery, and Alzheimer's disease models
-
-### Corydaline
-- Stimulates gastrointestinal motility
-- Inhibits gastric acid secretion
-- Anti-ulcer activity (increases mucosal defensive factors)
-- Approved in South Korea as a gastroprokinetic drug (Gastriefil®) for functional dyspepsia
-
-### Anti-inflammatory Activity
-Multiple alkaloids inhibit:
-- COX-2 expression and PGE₂ production
-- NF-κB signaling pathway
-
-## See Also
-- [[corydalis-cava]]
-- [[herbal-medicine]]
-- [[herbal-medicine-making-basics]]

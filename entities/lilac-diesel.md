@@ -88,30 +88,3 @@ Lilac Diesel has moderate difficulty, suitable for growers with some experience.
 Flowering time is approximately 9–10 weeks indoors. Outdoor plants finish by mid-October in temperate northern latitudes. Yields are moderate to good, averaging 350–450 g/m² indoors.
 
 The strain responds well to [[cannabis-training-techniques-comparison]] including low-stress training (LST) and scrogging. Cooler nighttime temperatures during weeks 5–7 of flowering enhance purple coloration. The plants are moderately resistant to common molds and pests but benefit from good airflow due to their dense bud structure.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of most cannabis strains. Higher doses may produce anxiety, paranoia, or racing thoughts in susceptible individuals, particularly due to the sativa-dominant profile.
-
-Consumers sensitive to THC should start with a single inhalation and wait 15 minutes before redosing. The combination of high caryophyllene and linalool may cause mild dizziness in some users.
-
-## Medical Applications
-
-Lilac Diesel is sometimes recommended by medical cannabis practitioners for patients dealing with [[cannabis-chronic-fatigue-research]], mild to moderate depression, and attention difficulties. The energizing cerebral effects can help counteract daytime lethargy without the heavy sedation of indica-dominant strains.
-
-The linalool and caryophyllene content provides secondary anti-inflammatory and anxiolytic benefits. Some patients find it useful for managing stress-related tension headaches and mild nausea, though it is not a primary therapeutic strain for severe pain conditions.
-
-## Notable Phenotypes
-
-Several phenotype variations exist within the Lilac Diesel line. The most sought-after expresses deep purple coloration throughout the flower with an amplified floral aroma. A greener phenotype tends toward more pronounced diesel and citrus notes.
-
-Ethos Genetics has used Lilac Diesel as a parent in subsequent crosses, including Citrus Farmer's Daughter and other proprietary lines that carry the floral-diesel terpene combination forward.
-
-## See Also
-
-- [[chemdawg]]
-- [[purple-haze-cannabis]]
-- [[trainwreck-cannabis]]
-- [[amnesia-haze]]
-- [[gelato]]
-- [[runtz-entity]]

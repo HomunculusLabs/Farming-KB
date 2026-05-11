@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Storey, W.B. (1965). "Macadamia integrifolia." Economic Botany, 19(1), 1–10.
   - Stephenson, R.A. & Gallagher, E.C. (1987). "Macadamia nut production." Acta Horticulturae, 175, 163–168.
   - Hardner, C.M. et al. (2009). "Macadamia." In Wild Crop Relatives. Springer.
@@ -86,29 +87,3 @@ Integrated pest management is critical in commercial orchards. Major pests inclu
 Macadamia kernels are exceptionally energy-dense, providing approximately 718 kcal per 100 g. They are composed of roughly 72% total lipids, 8% carbohydrates, 8% protein, and 2% dietary fiber.
 
 The lipid profile is dominated by monounsaturated fatty acids, primarily oleic acid at approximately 60% of total fatty acids. Palmitoleic acid contributes approximately 20%, giving macadamia oil one of the highest palmitoleic acid levels among edible oils.
-
-This fatty acid profile is considered favorable for cardiovascular health. [[mushroom-cancer-clinical-trials-overview]] have documented LDL-cholesterol-lowering effects from regular macadamia nut consumption at intakes of 30–50 g per day.
-
-The nuts are also rich in tocopherols and phytosterols, contributing to their antioxidant properties. Total phenolic content in macadamia kernels is relatively low compared to other tree nuts.
-
-Key micronutrients include thiamin (0.7 mg/100 g), manganese (4.1 mg/100 g), magnesium (130 mg/100 g), and phosphorus (188 mg/100 g). The nuts also contain meaningful amounts of vitamin B6, iron, and zinc.
-
-Compared to almonds and walnuts, macadamias are lower in protein but higher in total fat content. Their distinct fatty acid composition sets them apart nutritionally from other commonly consumed tree nuts.
-
-Flavor development during roasting is driven by Maillard reactions between reducing sugars and amino acids. Optimal roasting parameters of 130–150°C for 10–15 minutes produce characteristic buttery, nutty flavor notes.
-
-Macadamia oil is increasingly used in cosmetic applications due to its high palmitoleic acid content. The oil is stable at high temperatures with a smoke point of approximately 210°C, making it suitable for cooking.
-
-The byproduct shell can be used as biomass fuel or as a substrate for activated carbon production. This adds economic value to the processing chain and reduces waste disposal costs.
-
-The tree also has applications in agroforestry systems. Its deep root system helps prevent soil erosion on steep tropical slopes, while the dense canopy provides shade for understory crops.
-
-## See Also
-
-- [[glycine-max]]
-- [[theobroma-cacao]]
-- [[vigna-radiata]]
-- punica-granatum
-- [[mucuna-pruriens]]
-- [[vicia-faba]]
-- crotalaria-juncea

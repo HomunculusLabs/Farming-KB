@@ -1,5 +1,5 @@
 ---
-title: "KNF knf potassium deficiency and excess and Excess"
+title: Knf Potassium Deficiency And Excess
 created: 2026-04-28
 tags: [knf, natural-farming, potassium, deficiency, plant-health]
 date: 2026-04-25
@@ -13,12 +13,12 @@ type: concept
 Water-soluble potassium (WS-K) is extracted from tobacco stems and
 plays critical roles in enzyme activation, photosynthate translocation,
 stomatal regulation, and fruit quality. Understanding both deficiency
-and excess symptoms ensures proper application timing and dosage.
+and excess symptoms ensures proper [[knf-input-application-timing]] and dosage.
 This page complements [[natural-farming-fpj-preparation]] system.
 
 ## Functions of Potassium in Plants
 
-Potassium performs ten essential functions in plant physiology:
+Potassium performs ten [[plant-micronutrients-and-their-essential-functions]] in plant physiology:
 
 1. Activates the starch-synthesizing enzyme and facilitates
    translocation of photosynthate throughout the plant.
@@ -47,7 +47,7 @@ Potassium performs ten essential functions in plant physiology:
    ionizable form.
 
 9. Helps transport carbohydrates, vitalizes carbon assimilation,
-   controls protoplasm turgidity, and improves stress resistance.
+   controls protoplasm turgidity, and improves [[fungal-melanin-environmental-protection-stress-resistance-gadd]].
 
 10. Reduces lodging problems, increases yield, and improves crop
     quality including sugar content and disease resistance.
@@ -71,7 +71,7 @@ Potassium deficiency occurs under several conditions:
 2. Growth deterioration: Branches show growth deterioration, maturity
    is stunted, and both yield and quality deteriorate progressively.
 
-3. Rare in initial stages: Deficiency rarely appears in early growth.
+3. Rare in initial stages: Deficiency rarely appears in [[cervantes-seedling-care-early-growth]].
    Symptoms typically emerge only after the plant grows to a certain
    size, making early detection challenging.
 
@@ -88,17 +88,3 @@ Potassium deficiency occurs under several conditions:
 
 7. Mid-leaf discoloration: The tip of the leaf in the middle may
    discolor and dry out even at the peak of growth, indicating
-   severe potassium depletion.
-
-## Excess Potassium Symptoms
-
-Applying too much WS-K can cause secondary problems:
-
-1. [[query-how-to-fix-magnesium-deficiency-in-cannabis]] occurs if the potassium level is excessive.
-   High potassium competes with magnesium for uptake, causing the
-   plant to suffer from magnesium shortage even when soil magnesium
-   levels are adequate. For more on magnesium in cannabis, see [[knf-lab-culturing-and-uses]], see that page.
-## See Also
-- [[natural-farming-fpj-preparation]]
-- [[knf-lab-culturing-and-uses]]
-- [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

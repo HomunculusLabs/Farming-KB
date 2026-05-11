@@ -19,7 +19,7 @@ in mesophytic and subtropical environments.
 In Mexico, which has the world's highest diversity of neurotropic Psilocybe
 species (44 taxa), the pattern is unambiguous: of 42 neurotropic species
 analyzed in Guzmán's 1983 monograph, 34 are associated with mesophytic
-forests, 4 with tropical forests, and only 4 with coniferous forests. This
+forests, 4 with [[fungal-biodiversity-tropical-forests]], and only 4 with coniferous forests. This
 holds despite the fact that coniferous forests in Mexico have been more
 thoroughly surveyed mycologically than mesophytic forests.
 
@@ -33,7 +33,7 @@ and relatively stable microclimates.
 
 Mexico occupies a unique biogeographic position as a convergence point for
 both northern and southern mycobiotas. Northern species such as *P. caerulipes*
-extend southward from the deciduous forests of eastern North America into
+extend southward from the deciduous forests of [[polypore-fungi-eastern-north-america]] into
 northeastern Mexico (Zacualtipan, Hidalgo), following the same mesophytic
 forest type but with Fagus as a dominant tree.
 
@@ -49,8 +49,8 @@ ecological categories:
 
 **Temperate species**: *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*, *[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *Gymnopilus*
 spp., *Inocybe* spp., and *[[liberty-cap-psilocybe-semilanceata-history-biology]]*. These are confined to
-temperate regions and are often associated with specific host plants.
-*A. muscaria* forms mycorrhizal associations with Pinus and Betula in northern
+[[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] and are often associated with specific host plants.
+*A. muscaria* forms [[plants-without-mycorrhizal-associations]] with Pinus and Betula in northern
 hemisphere forests.
 
 **Tropical and subtropical species**: *Psilocybe cubensis*, *P. subcubensis*,
@@ -78,7 +78,7 @@ naturally in Europe.
 
 ## Altitudinal Range
 
-Neurotropic fungi span a remarkable altitudinal range. *Copelandia cyanescens*
+Neurotropic fungi span a remarkable altitudinal range. *[[copelandia-cyanescens]]*
 has been recorded at 3,000 meters altitude in the Hawaiian Archipelago
 (Maui), while also growing in the Valley of Mexico at 2,220 meters. Some
 species are strictly alpine, such as *Psilocybe aztecorum* which fruits at
@@ -86,39 +86,5 @@ high elevations in Mexican mountains.
 
 ## The Puzzling Absence of P. semilanceata in Mexico
 
-One of the most surprising distribution patterns is the absence of *P.
+One of the most surprising [[fungal-biogeography-distribution-patterns]] is the absence of *P.
 semilanceata* from Mexico despite its presence across temperate regions of
-Europe, India, Russia, Canada, the USA, Chile, Peru, New Zealand, Australia,
-and Tasmania. This common species, found in pastures and grasslands
-worldwide, has never been recorded in Mexico despite extensive mycological
-exploration there.
-
-## Vegetation Types and Biogeographic Patterns
-
-Guzmán identified nine distribution types (following Hongo 1978) applicable
-to neurotropic fungi:
-
-1. **Cosmopolitan**: *Panaeolus* spp., *[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]*
-2. **Northern hemisphere**: *Amanita muscaria*, *Claviceps purpurea*
-3. **Eurasian**: *Psilocybe bohemica*, *P. serbica*
-4. **North American-Eastern Asiatic**: *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*
-5. **Far Eastern**: species known only from Japan
-6. **Southeastern Asiatic**: species from SE Asia and Pacific
-7. **Tropical and subtropical**: *P. cubensis*, *Copelandia* spp.
-8. **Arctic and alpine**: high-elevation specialists
-9. **Endemic**: species restricted to single countries or regions
-
-## Implications for Discovery
-
-The strong association between Psilocybe diversity and specific vegetation
-types has practical implications for field mycologists. Underexplored regions
-with mesophytic or cloud forests — particularly in South America, Southeast
-Asia, and equatorial Africa — likely harbor many undiscovered species. The
-concentration of diversity in poorly surveyed tropical and subtropical
-forests suggests that the current species count of ~170 neurotropic Psilocybe
-taxa represents a significant underestimate of the true global diversity.
-
-## See Also
-- [[guzman-magic-mushrooms-habitat-ecology]]
-- [[guzman-allen-gartz-neotropical-psilocybe-species]]
-- [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]

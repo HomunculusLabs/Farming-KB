@@ -9,16 +9,16 @@ tags:
   - wetland-plant
   - insect-repellent
   - brewing-herb
-  - permaculture
+  - [[permaculture]]
   - north-american-native
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Co."
-  - "Moerman, D. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
   - "Hegnauer, R. (1966). Chemotaxonomie der Pflanzen. Birkhäuser Verlag."
   - "Sprent, J.I. (2009). Legume Nodulation. Wiley-Blackwell."
-  - "Mills, S.Y. (1991). The Essential Book of Herbal Medicine. Penguin Arkana."
+  - "Mills, S.Y. (1991). The Essential Book of [[childrens-herbal-medicine]]. Penguin Arkana."
 ---
 
 # Myrica Gale (*Myrica gale* L.)
@@ -34,7 +34,7 @@ traditionally in brewing and insect repellency, and its value in wetland
 restoration and [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]].
 
 Sweetgale was a primary flavoring agent in European gruit beers before the
-adoption of hops (*Humulus lupulus*) in the 15th–16th centuries, contributing
+adoption of hops (*[[humulus-lupulus]]*) in the 15th–16th centuries, contributing
 both bitterness and antimicrobial preservation.
 
 ## Taxonomy and Morphology
@@ -58,7 +58,7 @@ yellow, appearing before leaves in [[coleman-overwintered-onions-and-early-sprin
 
 **Fruit:** Small drupelike nutlets (3–5 mm) enclosed in waxy, resinous
 bracts, ripening in late summer. The waxy coating was historically
-rendered for candle-making.
+rendered for [[candle-making]].
 
 ## Distribution and Habitat
 
@@ -81,42 +81,10 @@ of acidic bog habitats.
 The oil produces the characteristic balsamic, camphoraceous aroma and
 confers insect repellent properties.
 
-**Brewing:** Sweetgale was the primary herb in gruit, the herbal beer
+**Brewing:** Sweetgale was the primary herb in gruit, the [[herbal-beer-ingredients]]
 mixture used across northern Europe before hops. Combined with heather
 and mugwort, it contributed bitterness, preservation, and resinous
 flavor. Modern craft brewers have revived gruit-style ales using *M. gale*.
 
 **Medicine:** Foliage used as insect repellent (bedding, stored grain),
 topical astringent for wounds, and tea for gastrointestinal complaints.
-⚠️ The essential oil contains pro-estrogenic compounds; avoid internal
-use during pregnancy and use under qualified supervision.
-
-## Ecological Role
-
-**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** via actinorhizal *Frankia* root nodules contributes
-an estimated 2–8 kg N/ha/year, enriching nitrogen-poor bog soils. This
-makes sweetgale a keystone species in nitrogen-limited northern wetlands.
-
-The dense thickets provide nesting habitat for songbirds and waterfowl.
-Catkins are an early spring pollen source for emerging bees. The resinous
-litter decomposes slowly, contributing to peat formation.
-
-## Cultivation and Permaculture Applications
-
-**Propagation:** Seeds require 60–90 days cold stratification. Semi-
-hardwood cuttings root moderately well. Suckering from established
-roots is the easiest method. Hardy to USDA Zone 2.
-
-**Permaculture functions:**
-- Nitrogen fixation enriches soil for adjacent plants
-- Aromatic foliage deters deer, rabbits, and insect pests as a hedge
-- Excellent for riparian buffer zones and bog rehabilitation
-- Early spring catkins feed emerging pollinators
-
-## See Also
-
-- [[myrica-pensylvanica]]
-
-- [[alnus-glutinosa]] — Alder, fellow actinorhizal nitrogen fixer
-- [[shepherdia-canadensis]] — Soapberry, N-fixing permaculture shrub
-- arctostaphylos-uva-ursi — Bearberry, companion acid-soil plant

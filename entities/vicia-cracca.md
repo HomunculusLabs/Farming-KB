@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-Vicia cracca, commonly known as bird vetch or tufted vetch, is a perennial climbing legume in the family Fabaceae native to Europe and Asia. It has been widely introduced across North America and other temperate regions, where it is valued as a forage plant but also recognized as an invasive species in some areas.
+Vicia cracca, commonly known as bird vetch or tufted vetch, is a perennial climbing legume in the family Fabaceae native to Europe and Asia. It has been widely introduced across North America and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]], where it is valued as a forage plant but also recognized as an invasive species in some areas.
 
 The species is a vigorous climber that uses tendrils to ascend supporting vegetation. It produces dense spikes of blue-violet flowers that are highly attractive to pollinators.
 
@@ -66,19 +66,19 @@ Competitive ability is moderate compared to other climbing legumes. It is often 
 
 Bird vetch has been planted as a forage crop and cover crop in temperate agricultural systems. Its climbing habit makes it suitable for intercropping with small grains and other support crops.
 
-Nutritional quality is comparable to other vetch species, with crude protein content of 18 to 22 percent in the forage. Palatability is moderate, and livestock generally prefer it to tall fescue but less than alfalfa.
+[[coleman-winter-greens-nutritional-quality-cold-sweetening]] is comparable to other vetch species, with crude protein content of 18 to 22 percent in the forage. Palatability is moderate, and livestock generally prefer it to tall fescue but less than alfalfa.
 
-As a cover crop, V. cracca provides soil stabilization, nitrogen fixation, and weed suppression. It is less commonly used than hairy vetch (Vicia villosa) but performs well in cooler northern climates.
+As a cover crop, V. cracca provides soil stabilization, [[biological-nitrogen-fixation-agriculture]], and weed suppression. It is less commonly used than hairy vetch (Vicia villosa) but performs well in cooler northern climates.
 
-Biomass production reaches 2 to 4 tons per hectare dry weight under favorable conditions. Nitrogen contribution from fixation ranges from 50 to 100 kilograms per hectare annually.
+[[dighton-fungal-biomass-production-aquatic-ecosystems]] reaches 2 to 4 tons per hectare dry weight under favorable conditions. Nitrogen contribution from fixation ranges from 50 to 100 kilograms per hectare annually.
 
-The species has been used in wildflower seed mixes for pollinator habitat due to its prolific nectar production. Its long flowering period supports diverse pollinator communities.
+The species has been used in wildflower seed mixes for [[pollinator-habitat]] due to its prolific nectar production. Its long flowering period supports diverse pollinator communities.
 
 In regions where it is considered invasive, management includes mechanical control, targeted herbicide application, and competitive planting with native species. Complete eradication is difficult due to the persistent seed bank.
 
 The species is listed as a noxious weed in several U.S. states and Canadian provinces. Its invasive potential is highest in open, disturbed habitats with minimal competing vegetation.
 
-Biological control agents have not been developed for V. cracca, partly because of its value as a forage and pollinator plant. Management relies on integrated approaches combining mechanical, chemical, and cultural methods.
+[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] agents have not been developed for V. cracca, partly because of its value as a forage and pollinator plant. Management relies on integrated approaches combining mechanical, chemical, and cultural methods.
 
 ## Ecological Role
 
@@ -87,34 +87,3 @@ Vicia cracca forms nitrogen-fixing root nodules in association with Rhizobium le
 The flowers are highly attractive to bumblebees and long-tongued bees, which are the primary pollinators. Honey bees also visit the flowers extensively for nectar and pollen.
 
 Several Lepidoptera species use Vicia as larval host plants, including the silver Y moth (Autographa gamma) and various blues (Polyommatus spp.). Foliage browsing by caterpillars is generally not damaging to established plants.
-
-The dense climbing growth can smother small native herbs and shrubs in invaded communities. Invasive populations in North America have been documented reducing native plant diversity.
-
-Birds consume the seeds, which may contribute to dispersal. The common name "bird vetch" reflects this seed predation by granivorous birds.
-
-Small mammals including voles and mice also cache and consume the seeds. Buried caches that escape predation can germinate in subsequent growing seasons.
-
-The climbing growth form creates structural complexity in vegetation, benefiting insect diversity. This architecture provides foraging substrate and shelter for a range of arthropod species.
-
-## Related Species
-
-Vicia villosa (hairy vetch) is the most closely related cultivated species, used widely as a cover crop. It differs in its denser pubescence and larger flowers.
-
-Vicia sativa (common vetch) is an annual species cultivated for forage and green manure. It has broader leaflets and pinkish-red flowers compared to the blue-violet flowers of V. cracca.
-
-Vicia americana (American vetch) is a native North American species with pink flowers, found in western rangelands and mountain meadows. It is more drought-tolerant than V. cracca.
-
-Natural hybridization between V. cracca and V. sativa has been documented where their ranges overlap. Hybrids show intermediate morphology and variable fertility.
-
-## See Also
-
-- [[vicia-villosa]]
-- [[vicia-sativa]]
-- [[medicago-sativa]]
-- [[trifolium-pratense]]
-- [[lespedeza-cuneata]]
-- [[cover-crop]]
-- [[companion-planting]]
-- [[robinia-pseudoacacia]]
-- [[mycorrhiza]]
-- [[permplant-willows-salix-erosion-control-fodder]]

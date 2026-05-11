@@ -1,6 +1,6 @@
 ---
 title: "Dawgtown Daze: Pure Haze × ChemDawg Hybrid"
-source: "S.T. Oner - Cannabis Sativa Vol. 3"
+source: "S.T. Oner - [[blesching-cannabis-sativa-indica-classification]] Vol. 3"
 source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, haze, chemdawg, breeding, cannabis-genetics]
 ---
@@ -26,25 +26,25 @@ time (often 12–16 weeks), tall lanky growth, and powerful psychedelic
 cerebral high.
 
 The male parent is a ChemDawg — a strain whose origin is itself the
-subject of legendary stories involving Grateful Dead followers and
+subject of legendary stories involving [[oner-chemdawg-origin-legend-grateful-dead-genetics]] followers and
 found seeds at a Grateful Dead concert. ChemDawg is known for its
 intense chemical/fuel aroma and potent effects.
 
 The resulting Dawgtown Daze is over 90% sativa, inheriting the
 cerebral intensity of both parents. The ChemDawg male contributes
-a more manageable flowering time and adds density to the typically
+a more manageable [[what-a-plant-knows-photoperiodism-flowering-time-measurement]] and adds density to the typically
 airy Haze buds.
 
 ## Growth Characteristics
 
-As a 90%+ sativa hybrid, Dawgtown Daze grows tall and flowers long.
+As a 90%+ [[dts-multi-line-sativa-hybrid-cheeze-mk-ultra-diesel-haze]], Dawgtown Daze grows tall and flowers long.
 It is best suited to outdoor cultivation where its natural stature
 can be accommodated, though it can be grown indoors with proper Low
 [[low-stress-training]] (LST). The plant exhibits significant stretch after
 the flip to flowering, so indoor growers should start flowering at a
 smaller size than they might with indica-dominant strains.
 
-The plant has classic Haze morphology during vegetative growth: long
+The plant has classic Haze morphology during [[cannabis-vegetative-growth-stage]]: long
 internodal spacing, serrated leaflets, and vigorous upward growth. As
 flowering progresses, Haze traits become more pronounced with the
 development of foxtailed bud structures that accelerate toward harvest.
@@ -83,38 +83,8 @@ consumption. The experience is long-lasting and deeply immersive.
 ## Cultivation Notes
 
 - Best suited to outdoor cultivation in warm climates
-- Indoor growing requires LST and adequate vertical space
+- [[cannabis-indoor-growing-basics]] requires LST and adequate vertical space
 - Multiple phenotypes with variable flowering times (10–16 weeks)
 - Low odor during late flowering — unusual for such potent strains
 - Check grow room exterior daily for escaping aroma
 - Stake or trellis early to support branch development
-- Full-term flowering recommended; do not rush harvest
-- Nutrient needs are moderate; organic soil is preferred by breeders
-
-## Medical Applications
-
-The high THC content makes Dawgtown Daze potentially useful for
-patients managing chronic pain, nausea, and appetite loss. The
-cerebral effects may benefit those dealing with depression and
-fatigue, though anxiety-prone patients should approach with caution
-given the intensity of the experience. The long duration of effects
-provides extended relief for patients with chronic conditions.
-
-## Significance in Breeding
-
-Dawgtown Daze represents an important bridge between old-school Haze
-genetics and the modern ChemDawg family. The successful combination
-of these two foundational lines demonstrates that classic Haze can
-be improved for manageability without losing its essential character.
-For breeders, this strain offers access to both Haze and ChemDawg
-traits in a single package, making it valuable for further crosses.
-Both parent lines have spawned countless award-winning varieties
-and continue to be widely used in breeding programs today.
-
-## See Also
-
-- [[oner-diesel-strain-lineage]] lineage and profiles
-- [[oner-notable-hybrid-sativa-strains]] sativa strains
-- Cannabis strain [[haze-lineage-and-history]] history
-- Oner [[cannabis-chemdawg-origin-story-lineage]] legend Grateful Dead genetics
-- [[african-landrace-sativa-modern-hybrids]] modern hybrids

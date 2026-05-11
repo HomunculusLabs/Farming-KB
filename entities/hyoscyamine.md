@@ -25,7 +25,7 @@ created: 2026-04-28
 
 **Hyoscyamine** (C₁₇H₂₃NO₃) is a tropane alkaloid and the levorotatory enantiomer of atropine.
 
-It is the primary active constituent of several medicinally important Solanaceae plants, including **deadly nightshade** (*[[belladonna-atropa-belladonna-ethnobotany]]*), **henbane** (*[[henbane-hyoscyamus-niger-ethnobotany]]*), and **datura** (*Datura stramonium*).
+It is the primary active constituent of several medicinally important Solanaceae plants, including **[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]** (*[[belladonna-atropa-belladonna-ethnobotany]]*), **henbane** (*[[henbane-hyoscyamus-niger-ethnobotany]]*), and **datura** (*[[datura-stramonium]]*).
 
 Hyoscyamine is a competitive antagonist at muscarinic acetylcholine receptors, producing anticholinergic effects.
 
@@ -63,7 +63,7 @@ Antagonism of M₃ receptors in smooth muscle produces bronchodilation, reduced 
 
 M₁ receptor antagonism in the CNS underlies the cognitive and perceptual effects seen at higher doses.
 
-M₂ receptor blockade on cardiac tissue causes tachycardia by reducing vagal tone.
+M₂ receptor blockade on cardiac tissue causes tachycardia by reducing [[tong-len-compassion-meditation-vagal-tone-blesching]].
 
 The compound crosses the blood-brain barrier readily, contributing to both therapeutic CNS effects and deliriant toxicity.
 
@@ -73,7 +73,7 @@ The compound crosses the blood-brain barrier readily, contributing to both thera
 
 At therapeutic doses (0.125–0.5 mg orally), hyoscyamine reduces smooth muscle spasm and glandular secretions.
 
-Common therapeutic effects include dry mouth, mild pupil dilation, and reduced GI cramping.
+Common [[cbd-therapeutic-effects]] include dry mouth, mild pupil dilation, and reduced GI cramping.
 
 At toxic doses (>2 mg in adults), the anticholinergic toxidrome develops: severe xerostomia, anhidrosis, mydriasis, tachycardia, hypertension, hyperthermia, urinary retention, and delirium.
 
@@ -87,58 +87,4 @@ The lethal dose is estimated at 10–20 mg for adults.
 
 ## Medical Applications
 
-Hyoscyamine sulfate is approved for treatment of gastrointestinal disorders including [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, peptic ulcer disease, and functional dyspepsia.
-
-It is used as an antispasmodic in genitourinary conditions including bladder spasm and ureteral colic.
-
-Ophthalmic formulations are used for mydriasis and cycloplegia in eye examinations.
-
-It reduces excessive secretions in anesthesia premedication and during surgical procedures.
-
-Combination products containing hyoscyamine with phenobarbital, scopolamine, or other anticholinergics have been marketed (e.g., Donnatal, Levsin).
-
-In emergency medicine, hyoscyamine and atropine are used as antidotes for organophosphate and cholinesterase inhibitor poisoning.
-
-## History
-
-The medicinal use of hyoscyamine-containing plants dates to antiquity.
-
-Deadly nightshade (*Atropa belladonna*) was used in Roman and Greek medicine for its pupildilating properties.
-
-The alkaloid was first isolated in pure form by the German pharmacist **Ludwig Geiger** in 1831.
-
-The chemical structure was elucidated by **Richard Willstätter** in the early 20th century, contributing to his Nobel Prize-winning work on alkaloids.
-
-The name derives from *Hyoscyamus* (henbane), one of its principal plant sources.
-
-Tropane alkaloids from Solanaceae were central to [[harner-european-witchcraft-hallucinogens]] and shamanic practices throughout the medieval period.
-
-## Source Organisms
-
-Hyoscyamine is biosynthesized via the tropane alkaloid pathway from ornithine and arginine.
-
-Major plant sources and approximate alkaloid content:
-
-- *Atropa belladonna* — leaves 0.3–1.2%, roots 0.4–0.6%
-- *Hyoscyamus niger* — leaves 0.05–0.35%, seeds 0.1–0.2%
-- *Datura stramonium* — leaves 0.2–0.5%, seeds 0.2–0.5%
-- *Datura metel* — leaves and seeds, variable content
-- *Brugmansia* species — leaves and flowers, highly variable
-- *[[mandrake-mandragora-officinarum-in-european-folklore]]* — roots 0.3–0.5%
-
-## Legal Status
-
-Hyoscyamine is a prescription-only medication in most jurisdictions.
-
-It is regulated as a pharmaceutical precursor in some countries due to potential diversion.
-
-The plant sources are generally uncontrolled, though cultivation of *Datura* and *Atropa* species may be restricted.
-
-Hyoscyamine is listed in many pharmacopoeias including USP, EP, and BP.
-## See Also
-
-- [[scopolamine]]
-- [[hyoscyamus-niger]]
-- [[mandragora-officinarum]]
-- [[lsd]]
-- [[mescaline]]
+Hyoscyamine sulfate is approved for treatment of [[blesching-cannabis-gastrointestinal-disorders]] including [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, peptic ulcer disease, and functional dyspepsia.

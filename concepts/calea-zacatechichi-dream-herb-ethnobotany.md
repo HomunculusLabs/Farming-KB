@@ -1,5 +1,5 @@
 ---
-title: Calea Zacatechichi - Dream Herb Ethnobotany
+title: Calea Zacatechichi Dream Herb Ethnobotany
 created: 2026-04-28
 tags: [ethnobotany, hallucinogenic-plants, oneirogen, mexico, chontal,
   compositae, traditional-medicine, schultes]
@@ -64,10 +64,10 @@ most significant finding noted by Schultes is the presence of an unidentified
 alkaloid that may be responsible for the auditory hallucinations reported by
 users. The auditory dimension of the experience, particularly the perception
 of one's own heartbeat and pulse in amplified form, suggests a mechanism
-distinct from the serotonin receptor agonism characteristic of classical
-hallucinogens like psilocybin or mescaline.
+distinct from the [[serotonin-receptor-interference-psychedelic-mechanism]] agonism characteristic of classical
+hallucinogens like [[psilocybin]] or [[mescaline]].
 
-Subsequent research beyond the Golden Guide has identified additional compounds
+Subsequent research beyond the [[golden-guide-amanita-muscaria-and-soma]] has identified additional compounds
 in Calea zacatechichi, including sesquiterpene lactones and flavonoids, though
 the precise psychoactive constituents remain a subject of ongoing
 investigation. The plant does not appear to contain any of the major known
@@ -88,53 +88,3 @@ Mexico and [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]].
 
 The use of Calea zacatechichi by the Chontal represents one of the most
 specifically targeted psychoactive plant traditions known: a plant employed
-primarily for its effects on dreaming rather than for waking visionary
-experiences. This distinguishes it from virtually all other New World
-hallucinogenic plants, which are typically used for divination, healing, or
-communal ritual while awake. The Chontal practice of seeking verbal
-communication with spirits during dream states reflects a sophisticated
-understanding of [[weil-the-natural-mind-altered-states-normalcy]] of consciousness and their potential utility.
-
-## Discovery and Documentation
-
-The psychoactive properties of Calea zacatechichi were among the last to be
-documented by ethnobotanists working in Mexico. Richard [[richard-evans-schultes-updated]]
-described it as a "recently discovered hallucinogen," reflecting the fact
-that its use was unknown to science until the mid-to-late [[coleman-louis-savier-twentieth-century-maraicher]],
-long after the major Mexican hallucinogens like [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]],
-[[sacred-mexican-morning-glories-ololiuqui-and-tlitliltzin]], and peyote had been extensively studied. This late
-discovery may be attributed to the plant's inconspicuous appearance, its
-relatively restricted use by a single indigenous group, and the private,
-individualized nature of the practice (dreaming) compared to the communal
-ceremonial use of other Mexican hallucinogens.
-
-The Chontal people who use zacatechichi inhabit the eastern part of the
-state of Oaxaca, a region renowned for its extraordinary biodiversity and
-its concentration of psychoactive plant species. Oaxaca is also home to the
-Mazatec use of Salvia divinorum and psilocybin mushrooms, making it one of
-the most significant centers of hallucinogenic plant use in the world.
-
-## Distribution and Habitat
-
-Calea zacatechichi ranges from Mexico through Central America to Costa Rica,
-growing on open hillsides and in scrubby tropical habitats. It is not a
-cultivated plant in the traditional sense but is gathered from wild
-populations by those who know its properties. The shrub is relatively
-inconspicuous in appearance, which may partly explain why its psychoactive
-uses remained unknown to outside researchers until relatively recently.
-
-## Modern Research Interest
-
-In recent decades, Calea zacatechichi has attracted considerable interest
-from researchers studying the pharmacology of dreaming and sleep states.
-Controlled studies have explored whether the plant can increase dream
-recall, dream vividness, or the frequency of lucid dreams. While results
-have been mixed, the plant remains one of the best-documented traditional
-oneirogens and continues to be studied for its potential applications in
-dream research and consciousness studies.
-
-## See Also
-
-- [[golden-guide-morning-glory-and-ololiuqui]]
-- [[golden-guide-coleus-and-other-mild-psychoactives]]
-- [[tangerine-dream]]

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MMDA-3b
 
-PIHKAL entry #135. 4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #135. 4-METHOXY-2,3-METHYLENEDIOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -59,7 +59,7 @@ tried 15 milligrams, but he neglected to mention if there had been any
 effects. I have not tried it myself. But, I have succumbed to the
 pressure of the experimental pharmacologists to give a number for the
 "Y-axis" of their animal behavior studies. So I said to myself, if
-this is active at 30 milligrams, and mescaline is active at 300
+this is active at 30 milligrams, and [[mescaline]] is active at 300
 milligrams, why not say that it is 10x the activity of mescaline? So
 I did. But I have absolutely no confidence in that number.
 
@@ -88,35 +88,3 @@ positional isomer
 A suspension of 7.0 g LAH in 1 L anhydrous Et2O under an inert
 atmosphere was brought to a gentle reflux. The reflux condensate was
 passed through a Soxhlet thimble containing 6.15 g
-1-(4-methoxy-2,3-methylenedioxyphenyl)-2-nitropropene which was
-effectively adding the nitropropene as a saturated solution. The
-mixture was maintained at reflux for 16 h. After cooling to 0 deg C with
-an ice bath, the excess hydride was destroyed by the addition of 800
-mL of 1.5 N H2SO4. The phases were separated, and the aqueous phase
-washed with 2x100 mL Et2O. To this phase there was added 175 g
-potassium sodium tartrate followed by sufficient 25% NaOH to raise the
-pH >9. This was then extracted with 3x100 mL CH2Cl2, and the solvent
-from the pooled extracts removed under vacuum. The residual off-white
-oil weighed 5.4 g and was dissolved in 250 mL anhydrous Et2O and
-saturated with anhydrous HCl gas. There was produced a crop of
-slightly sticky white solids that finally became granular and loose.
-These were removed by filtration, washed with Et2O, and air dried to
-give 5.56 g of 4-methoxy-2,3-methylenedioxyamphetamine hydrochloride
-(MMDA-3b) with a mp of 196-199 deg C. A small sample from propanol had a
-
-mp of 199-200 deg C, and a sample from nitromethane/MeOH (5:1) had a mp
-of 201-202 deg C.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[tma-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

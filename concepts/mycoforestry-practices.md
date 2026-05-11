@@ -88,11 +88,3 @@ The added expense does not thrill most investment loggers, who wish to maximize 
 The current practice of burning or hauling wood debris robs biomass from the carbon cycle. Decomposition by fungi buffers carbon dioxide emission and cycles much of the gas back into the flourishing ecosystem, since carbon dioxide is heavier than air and permeates soils where plant cells absorb it as raw material for creating cellulose, lignin, carbohydrates, proteins, and sterols.
 
 ## See Also
-
-[[mycofiltration-of-chemical-runoff]]
-
-[[mycopesticide-development]]
-
-[[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

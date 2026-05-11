@@ -9,7 +9,7 @@ sources:
 ---
 # Organic Propagation Methods
 
-Plant propagation is the process of creating new plants from existing ones. Understanding propagation methods allows gardeners to multiply plants for free, preserve heirloom varieties, and fill their gardens without purchasing nursery stock.
+Plant propagation is the process of creating new plants from existing ones. Understanding propagation methods allows gardeners to multiply plants for free, preserve [[cannabis-landrace-and-heirloom-varieties]], and fill their gardens without purchasing [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]].
 
 ## Seed Sowing
 
@@ -20,8 +20,8 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 
 ### Indoor Sowing (Module/Tray Method)
 - Best for: tomatoes, peppers, aubergines, brassicas, leeks, onions
-- Advantages: Earlier start, better germination conditions, protection from pests
-- Equipment: Seed trays, modules, seed compost, heat mat (optional), grow lights
+- Advantages: Earlier start, [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]] conditions, protection from pests
+- Equipment: Seed trays, modules, seed compost, heat mat (optional), [[cmh-grow-lights]]
 - Sowing depth: Generally 2x seed diameter; very fine seeds on surface (light needed)
 - Pricking out: When seedlings have 2 true leaves, transplant to individual modules
 
@@ -81,31 +81,10 @@ Plant propagation is the process of creating new plants from existing ones. Unde
 ### Air Layering
 - Make an upward cut in a stem, apply rooting hormone, wrap with moist sphagnum moss and plastic
 - New roots form inside the wrap
-- Best for: difficult-to-root trees and shrubs (magnolia, citrus, rubber plant)
+- Best for: difficult-to-root [[nitrogen-fixing-trees-and-shrubs]] (magnolia, citrus, rubber plant)
 
 ## Grafting
 
 ### Purpose
 - Combine rootstock (disease-resistant, adapted to soil) with scion (desired [[old-fruit-variety-selection]])
-- Essential for: most fruit trees, roses, grapes
-- Required for: apples, pears (most dwarfing), citrus
-
-### Whip and Tongue Graft (Late Winter)
-- Most common for fruit trees
-- Scion and rootstock of similar diameter
-- Matching cambium layers is critical
-- Bind with grafting tape, seal with wax
-
-### Bud Grafting (Late Summer)
-- Single bud from scion grafted onto rootstock
-- T-bud or chip bud method
-- High [[maitake-fruiting-body-success-rate-management]]
-- Most common commercial method for fruit trees
-
-## Related
-- [[cannabis-cloning-and-mother-plants]] — for [[comparison-cannabis-cloning-vs-seed-starting-indoors]]
-- [[fruit-tree-varieties]] — for fruit tree selection
-
-- [[organic-lawn-care-hamilton]]
-
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
+- Essential for: most [[comparison-grafting-vs-budding-fruit-trees]], roses, grapes

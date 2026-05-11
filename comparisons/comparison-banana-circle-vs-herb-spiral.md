@@ -6,6 +6,7 @@ updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, tropical, water-management]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Banana Circle vs Herb Spiral

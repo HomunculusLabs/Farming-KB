@@ -87,13 +87,3 @@ late C-6 oxidation) converge at cathasterone. Regulation occurs
 primarily through transcriptional feedback inhibition. The DET2
 and DWARF4 genes encode critical enzymes, and mutants display
 the characteristic dwarf phenotype of brassinosteroid deficiency.
-
-## Agricultural Applications
-
-Brassinosteroids have generated significant interest for
-agricultural use, with yield improvements of 5-30% reported
-across various crops. They enhance [[fungal-lichen-stress-tolerance-and-poikilohydry]], seed
-germination, seedling vigor, and fruit quality. Commercial
-formulations (primarily [[22s-23s-homobrassinolide]]
-- [[ergosterol]]
-- phytohormones

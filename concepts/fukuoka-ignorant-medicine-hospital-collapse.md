@@ -1,7 +1,7 @@
 ---
 title: Fukuoka on Medicine and the Collapse of Human Health
 created: 2026-04-28
-tags: [fukuoka, health, medicine, philosophy, natural-diet, critique]
+tags: [fukuoka, health, medicine, philosophy, [[natural-diet]], critique]
 date: 2026-04-25
 updated: 2026-04-25
 sources: [masanobu-fukuoka-the-road-back-to-nature.md]
@@ -10,7 +10,7 @@ type: concept
 
 # Fukuoka on Medicine and the Collapse of Human Health
 
-Masanobu Fukuoka extended his [[fukuoka-critique-of-scientific-agriculture]] agriculture to
+[[masanobu-fukuoka]] extended his [[fukuoka-critique-of-scientific-agriculture]] agriculture to
 modern medicine, arguing that both fields operate on the same flawed
 premise: creating problems through intervention and then claiming to solve
 them. He saw the expansion of hospitals as a barometer of the collapse
@@ -25,7 +25,7 @@ they have caused. The more advanced medicine becomes, the frailer the
 human body grows. The advance of the hospital is merely a barometer of
 the collapse of the human body.
 
-Just as agricultural science creates weak rice that requires chemical
+Just as [[fukuoka-critique-laws-agricultural-science]] creates weak rice that requires chemical
 support, modern society creates weak bodies that require medical support.
 If you create people of poor constitution, then conduct research in
 pathology and continue to weaken the human body, the number of research
@@ -88,39 +88,3 @@ grown and thrived to such an extent because the world we live in has
 become so complex and incomprehensible.
 
 While humanity has gone further astray, the universities that were
-meant to correct our benighted state have just grown and grown. This
-same dynamic applies to medicine: the more complex the health problems
-become, the more the medical establishment grows, without ever
-addressing the root cause of declining health.
-
-## Knowledge as Ignorance
-
-Fukuoka's fundamental insight is that specialized knowledge, far from
-bringing understanding, actually deepens ignorance. One bit of
-knowledge creates two new queries in our minds. Solving these gives
-rise to yet new questions. To say "I understand" is to not understand.
-
-At the universities, "I understand" means nothing more than to have
-broken what we are examining down and wandered into the obscure
-darkness of ignorance. This applies equally to agricultural science
-and medical science: both fragment the whole into parts, study the
-parts in isolation, and lose sight of the living whole.
-
-## Restoring Health Through Natural Living
-
-The solution, as Fukuoka saw it, is not more medicine but a return
-to natural living. When people eat food that grows naturally in their
-region, when they live in harmony with the seasons, and when they
-work with nature rather than against it, the body regains its natural
-strength and the need for medical intervention diminishes.
-
-The connection between [[comparison-natural-farming-vs-permaculture]] and natural health is direct
-and inseparable. One cannot have healthy food from unhealthy farming
-practices, and one cannot have healthy bodies from unnatural food.
-See also: [[fukuoka-diet-non-discrimination-diet-of-the-sick]]
-
-## See Also
-
-- [[fukuoka-critique-of-education-universities]]
-- [[fukuoka-paradoxes-scientific-farming]]
-- [[fukuoka-spiritual-philosophical-foundation]]

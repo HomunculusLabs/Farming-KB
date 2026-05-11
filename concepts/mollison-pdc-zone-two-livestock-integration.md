@@ -1,5 +1,5 @@
 ---
-title: Zone Two faires-livestock-integration-permaculture
+title: Mollison Pdc Zone Two Livestock Integration
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - bill-mollison-permaculture-design-course.md
 type: concept
 ---
@@ -19,7 +20,7 @@ type: concept
 ## The Biological Funnel
 
 The pdc-forage-systems-animal-integration
-- Animals provide heat and decomposition of manures, creating synergistic
+- Animals provide heat and [[decomposition]] of manures, creating synergistic
   effects with [[mollison-permaculture-two-zone-planning-and-site-layout]]
 - [[mollison-designers-temperate-zone-food-forest-design]]
 ## Practical Applications
@@ -39,7 +40,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,21 +88,3 @@ with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
 more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[decomposition]]
-- [[jadam-livestock-integration-and-manure-management]]
-- [[holzer-livestock-integration]]
-- [[mollison-designers-temperate-zone-food-forest-design]]
-- [[mollison-designers-climate-zone-4-forage-gathering]]

@@ -87,25 +87,3 @@ The tree supports over 200 species of Lepidoptera, one of the highest caterpilla
 Beavers rely heavily on black willow bark and stems for food and dam construction. The species is one of the preferred woody plants for beaver foraging, and beaver activity promotes willow regeneration through stump sprouting.
 
 Willow flycatchers (*Empidonax traillii*) frequently nest in black willow thickets, and the species provides important nesting habitat for red-winged blackbirds, yellow warblers, and other riparian songbirds.
-
-Root systems create extensive networks that stabilize alluvial soils and reduce streambank erosion during flood events. The species traps sediment during floods, contributing to floodplain accretion and channel stability.
-
-The dense root mat also intercepts agricultural runoff, filtering nutrients and sediments before they reach waterways. Riparian buffer strips incorporating black willow are a standard best management practice in agricultural watersheds.
-
-Black willow is susceptible to willow scab, black canker, and several species of gall-forming sawflies. Despite these pests, the species remains vigorous and resilient in natural riparian settings.
-
-## See Also
-
-- [[quercus-nigra]]
-
-- [[salix-babylonica]]
-- [[salix-purpurea]]
-- [[populus-tremuloides]]
-- [[populus-nigra]]
-- [[betula-papyrifera]]
-- [[ulmus-americana]]
-- [[tilia-cordata]]
-- [[fagus-grandifolia]]
-- [[quercus-alba]]
-- [[acer-rubrum]]
-- [[nyssa-sylvatica]]

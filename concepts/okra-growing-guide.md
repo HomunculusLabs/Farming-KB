@@ -88,14 +88,3 @@ woody and fibrous, signaling the plant to stop producing.
 Succession planting every 3-4 weeks ensures continuous harvest
 through the growing season. In warm climates (USDA zones 8-11),
 three successions typically provide uninterrupted production from
-June through October. In cooler climates, starting the first planting
-indoors 4-6 weeks before last frost and using row covers for
-early plantings can extend the season by 2-3 weeks on each end.
-## Related Concepts
-
-- [[seed-saving-principles-solomon]]
-- [[organic-pest-and-disease-management]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapter on okra
-- [[teaming-with-nutrients-fertilizer-sources]]
-- [[root-competition-plant-spacing-solomon]]

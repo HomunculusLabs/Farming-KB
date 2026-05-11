@@ -12,7 +12,7 @@ sources: []
 
 Fungal endophytes are fungi that live within plant tissues without causing
 apparent disease symptoms. They represent a continuum from latent pathogens to
-mutualistic symbionts, and their effects on host plant fitness can be profoundly
+[[mycelium-running-endophyte-mutualistic-symbionts]], and their effects on host plant fitness can be profoundly
 positive. Endophytic fungi enhance plant performance through improved nutrition,
 stress tolerance, disease resistance, and herbivore deterrence.
 
@@ -22,7 +22,7 @@ Endophytes fall into two broad categories:
 
 - **Clavicipitaceous endophytes**: Systemic, vertically transmitted (via seeds),
   primarily in grasses. They form intercellular hyphal networks throughout
-  above-ground tissues. Examples include Epichloe festucae and Neotyphodium spp.
+  above-ground tissues. Examples include [[epichloe-festucae]] and Neotyphodium spp.
 - **Non-clavicipitaceous endophytes**: Asymptomatic fungi found in virtually all
   plant tissues (roots, stems, leaves), horizontally transmitted, extremely
   diverse taxonomically. Examples include Phialocephala fortinii, dark septate
@@ -42,7 +42,7 @@ Endophytes can enhance host plant nutrition through several mechanisms:
 
 ## Herbivore Deterrence
 
-Clavicipitaceous endophytes in grasses produce alkaloid secondary metabolites
+Clavicipitaceous endophytes in grasses produce alkaloid [[antifungal-secondary-metabolites-coprophilous-fungi]]
 that deter herbivory. These include ergot alkaloids (toxic to mammals), lolines
 (insecticidal and antifungal), and peramine (specifically deters insect
 herbivores). These chemical defenses can reduce herbivore damage by 40-70% in
@@ -60,7 +60,7 @@ abiotic stresses. Under drought conditions, endophyte-colonized plants often
 maintain higher leaf water potential and stomatal conductance compared to
 non-colonized counterparts. The endophyte Piriformospora indica, for example,
 improves drought tolerance in barley by modulating host gene expression related
-to osmotic adjustment and antioxidant defense.
+to osmotic adjustment [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
 
 Endophytes also confer tolerance to salinity stress. Colonized plants exposed to
 high salt concentrations show reduced sodium accumulation in tissues, maintained
@@ -78,62 +78,13 @@ the production of heat-shock proteins and other protective compounds.
 Endophytic fungi provide disease resistance through multiple mechanisms that
 complement the plant's own immune system. Some endophytes directly antagonize
 pathogens by producing antimicrobial secondary metabolites, including
-antibiotics, siderophores, and volatile organic compounds that inhibit the
+antibiotics, siderophores, and [[chamovitz-plant-scent-communication-volatile-organic-compounds]] that inhibit the
 growth of bacterial and fungal pathogens.
 
-Induced systemic resistance (ISR) is another important mechanism. Endophyte
+[[endophytic-mycorrhizal-induced-systemic-resistance]] (ISR) is another important mechanism. Endophyte
 colonization primes the plant's defense pathways, enabling faster and stronger
 responses to subsequent pathogen attacks. This priming involves the jasmonic
 acid and ethylene signaling pathways and leads to enhanced production of
 pathogenesis-related (PR) proteins upon pathogen challenge.
 
 Resource competition between endophytes and pathogens for space and nutrients
-within plant tissues also limits pathogen establishment. By pre-colonizing
-plant tissues, endophytes create a barrier that reduces infection sites
-available to invading pathogens, a phenomenon known as competitive exclusion.
-
-## Agricultural Applications
-
-The plant growth-promoting effects of endophytic fungi have significant
-implications for sustainable agriculture. Inoculation of crop plants with
-beneficial endophytes can reduce the need for chemical fertilizers and
-pesticides while improving yield and stress resilience. Piriformospora indica
-has shown broad-spectrum benefits across multiple crop species, promoting
-growth, enhancing nutrient uptake, and providing disease protection.
-
-Endophyte-enhanced grass cultivars are widely used in pastoral agriculture,
-particularly in New Zealand and Australia. Ryegrass and tall fescue varieties
-carrying Epichloe endophytes provide persistent insect deterrence and improved
-pasture persistence, reducing the need for insecticide applications in grazing
-systems.
-
-The potential for endophyte-based biofertilizers is being actively explored.
-Endophytic fungi that fix nitrogen or solubilize phosphate could partially
-replace synthetic fertilizer inputs in low-input farming systems, contributing
-to more sustainable agricultural practices and reduced environmental impacts.
-
-## Community-Level Effects
-
-Endophyte-mediated effects extend beyond individual host plants to influence
-plant community composition and ecosystem processes. Endophyte-infected plants
-can alter competitive dynamics within plant communities by suppressing
-neighboring plants through allelopathic compounds or by attracting natural
-enemies of competing species.
-
-In grassland ecosystems, the prevalence of endophyte-infected grasses affects
-herbivore community structure and grazing patterns. Endophyte-produced alkaloids
-can reduce palatability of infected plants, shifting herbivore feeding to
-non-infected species and thereby altering vegetation composition over time.
-These cascading effects demonstrate that endophytes are important drivers of
-community-level processes in grassland ecosystems.
-
-## Related Concepts
-
-- [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[fungal-responses-climate-change]]
-- [[soil-fungal-diversity-wisconsin-survey-global-patterns]]
-- [[fungal-enzymatic-capabilities]]
-- [[fungal-biodiversity-grassland]]
-- [[saprobic-soil-fungi]]
-- [[fungal-biodiversity]]
-- [[endophytic-fungi-in-grasslands]]

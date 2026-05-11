@@ -88,24 +88,3 @@ the scattered, dark, superficial, circular colonies produced
 by the fungi on host plant surfaces. Black mildews belong to
 the order Meliolales in the Ascomycota.
 ### Diversity
-The Meliolales contains more than 1,580 species, most of
-which (approximately 1,400) are in the genus Meliola. Most
-plant hosts (over 90%) are dicotyledonous angiosperms, but
-black mildews also occur on monocotyledons, gymnosperms,
-and pteridophytes. Reports from some large rain-forest plant
-families, including Orchidaceae, Gesneriaceae, and Araceae,
-are limited.
-### Hyphal Morphology
-The most distinctive feature of black mildew hyphae is the
-presence of short, two-celled lateral branches called
-capitate hyphopodia, distributed in opposite, alternate, or
-mixed arrangements at the ends of hyphal cells. A fine
-hyphal filament beneath the hyphopodium penetrates the host
-[[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] to produce a haustorium within the host cell. Black
-mildews lack asexual states, unlike sooty molds.
-### Setose Colonies
-Species of Meliola are characterized by mycelial setae,
-which arise laterally from hyphal cells and immediately bend
-to assume a perpendicular position. Setose colonies tend to
-collect debris such as pollen and insect frass that absorbs
-[[foliar-epiphytic-fungi-sooty-mildews-powdery-mildews]]

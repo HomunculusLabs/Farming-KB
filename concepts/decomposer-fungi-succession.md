@@ -3,6 +3,7 @@ title: Decomposer Fungi Succession
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "Stamets - woodlovers-mycelium-running-pathway-technique"
 type: concept
 tags: [ecology, fungi]

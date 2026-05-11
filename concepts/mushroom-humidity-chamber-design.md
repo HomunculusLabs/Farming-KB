@@ -11,8 +11,8 @@ created: 2026-05-08
 ## Overview
 
 A humidity chamber (also called a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] or shotgun
-fruiting chamber) provides the high-humidity environment
-required for mushrooms to transition from mycelial colonization
+[[comparison-laminar-flow-hood-vs-fruiting-chamber]]) provides the high-humidity environment
+required for mushrooms to transition from [[mycelial-colonization]]
 to [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production. In the Jarrold boil-a-bag method,
 the humidity chamber is a simple and inexpensive setup using
 commonly available materials.
@@ -36,7 +36,7 @@ a seal that prevents humidity escape and excludes flies and
 other contaminants. The plastic should be easy to lift for
 daily maintenance.
 
-**Fresh Air Exchange**
+**Fresh [[growing-gourmet-growing-room-ventilation-air-exchange]]**
 The chamber requires manual fanning twice daily to introduce
 fresh air and remove accumulated CO2. Without adequate air
 exchange, mushrooms grow poorly, developing long stems and
@@ -71,7 +71,7 @@ and provides more consistent conditions.
 
 ## Warm Humid Air Delivery Chamber
 
-For cold climates or winter growing, a heated delivery system
+[[query-best-kiwifruit-varieties-for-cold-climates]] or winter growing, a heated delivery system
 provides warm, humid air to the fruiting chamber:
 
 ### Design
@@ -88,48 +88,3 @@ provides warm, humid air to the fruiting chamber:
   contamination
 - The goal is chamber temperatures of 22-26°C (72-79°F)
   with humidity above 85%
-- Multiple small outlets distribute air more evenly than
-  a single large outlet
-
-## Bag Placement in the Chamber
-
-When transferring colonized bags from the colonization phase:
-
-1. Remove the filter can from each bag
-2. Cut the bag down the sides
-3. Remove as much of the bag material as needed while leaving
-   at least 2 cm of the bottom intact
-4. The remaining bag base serves as a stand, keeping the
-   substrate block elevated above the humidified floor
-5. Space blocks to allow [[stamets-growing-room-air-circulation-co2-management]] between them
-
-## Monitoring and Maintenance
-
-### Daily Tasks
-- Fan fresh air into the chamber twice daily (for manual
-  setups)
-- Check humidity levels (hygrometer recommended)
-- Remove any contaminated blocks immediately
-- Monitor for signs of pinning (initial mushroom formation)
-
-### Environmental Parameters
-- **Humidity**: 85-95% relative humidity for pinning and
-  fruiting
-- **Temperature**: 22-26°C for most Psilocybe species
-- **Light**: Indirect ambient light or 12-hour fluorescent
-  cycle; mushrooms do not need bright light
-- **CO2**: Below 1000 ppm; regular air exchange is essential
-- **Air circulation**: Gentle, not drafty
-
-## Contamination Prevention
-
-- Seal the chamber against flies and other insect vectors
-- Remove any moldy substrate blocks immediately
-- Maintain clean hands when handling colonized blocks
-- Ensure the humidification water is fresh (change weekly)
-- Avoid over-saturating the hydro pellet base
-
-## See Also
-- [[mushroom-spore-print-technique]]
-- [[psilocybin-mushrooms-species-and-pharmacology]]
-- [[mushroom-humidity-chamber-design-operation]]

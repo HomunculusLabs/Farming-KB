@@ -1,5 +1,5 @@
 ---
-title: savory community organization and shared grazing and Shared Grazing
+title: Savory Community Organization And Shared Grazing
 created: 2026-04-28
 tags: [holistic-management, communal-land, community-governance, grazing-planning, social-organization]
 date: 2026-04-25
@@ -20,7 +20,7 @@ long cited as an inevitable outcome of shared grazing, is actually a
 failure of management rather than an inherent flaw in communal
 ownership. Holistic management provides the framework to transform
 communal grazing from a source of degradation into a foundation for
-community prosperity and ecological restoration.
+community prosperity and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]].
 
 ## The Tragedy of the Commons Revisited
 
@@ -33,7 +33,7 @@ adopt holistic planning. The key is creating a shared [[savory-holistic-goal-def
 aligns individual behavior with community wellbeing. When all members
 participate in defining the quality of life they want to achieve and
 the forms of production needed to sustain it, the incentive structure
-changes fundamentally. Grazing planning replaces the free-for-all
+changes fundamentally. [[savory-livestock-grazing-planning]] replaces the free-for-all
 dynamic with coordinated management that benefits both the land and
 all community members equally.
 
@@ -67,7 +67,7 @@ planning to traditional knowledge, nomadic communities can maintain
 their way of life while reversing the land degradation that threatens
 their future. This is particularly important as governments increasingly
 press for sedentarization of nomadic peoples, a policy that often
-accelerates rather than reverses land deterioration.
+accelerates rather than reverses [[savory-erosion-and-land-deterioration]].
 
 ## Shared Holistic Goal Definition
 
@@ -88,39 +88,3 @@ consistency even as community membership changes over time.
 
 On communal land, grazing cells must be designed to accommodate
 multiple herds and herd owners. This may require larger paddocks or
-coordinated moves among different livestock owners. The cell design
-should ensure that all community members have equitable access to
-grazing resources while maintaining the [[savory-fencing-economics-and-stock-density-curve]] needed to achieve
-desired landscape outcomes. Water point placement is particularly
-important, as it determines grazing distribution and can either
-concentrate or disperse [[savory-animal-impact-and-herd-effect]]. Community agreements on herd
-composition, breeding seasons, and animal numbers help align
-individual decisions with the shared grazing plan. In practice, many
-communities find that merging herds during the planning period and
-operating as a single grazing unit produces the best results for both
-land recovery and animal performance.
-
-## Financial Organization for Community Ranches
-
-Community ranches require financial structures that differ from
-individual operations. Revenue from livestock sales must be distributed
-fairly while maintaining reserves for infrastructure development and
-drought preparedness. Holistic financial planning applies the same
-testing guidelines but at the community level. The [[savory-weak-link-analysis]] analysis
-helps identify whether the primary constraint is biological (land
-health, forage production), social (community cohesion, governance),
-or financial (market access, capital). Addressing the true weak link
-prevents wasted investment and builds community confidence in the
-planning process. Transparent financial management and equitable
-benefit sharing are essential for maintaining the community commitment
-that holistic management on communal land requires.
-
-## See Also
-
-- [[savory-holistic-goal-definition]] — creating holistic goals for
-  any context
-- [[savory-testing-and-management-guidelines]] — testing framework for
-  community decisions
-- [[savory-society-and-culture-guideline]] — cultural considerations in
-  management
-- [[savory-weak-link-analysis]] — identifying community constraints

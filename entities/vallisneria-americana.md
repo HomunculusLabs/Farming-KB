@@ -88,28 +88,3 @@ Herbivory from both native and non-native species can impact populations. The in
 ## Research Significance
 
 *V. americana* has been extensively studied as a model organism for aquatic plant ecology, particularly in the context of submerged aquatic vegetation (SAV) restoration. Research on this species has informed understanding of [[growing-gourmet-light-requirements-mushroom-fruiting]], sediment interactions, and grazing dynamics.
-
-The species serves as a bioindicator of freshwater ecosystem health. Its presence, abundance, and condition are used in monitoring programs to assess water quality trends and the effectiveness of nutrient reduction strategies in watersheds like the Chesapeake Bay.
-
-Genetic studies using molecular markers have revealed substantial genetic variation among populations across the species' range. This genetic diversity is important for conservation planning, as locally adapted genotypes may perform better in restoration than commercially available nursery stock.
-
-## Nutrient Cycling
-
-*V. americana* contributes significantly to freshwater nutrient cycling through seasonal uptake and release of nitrogen and phosphorus. During the growing season, the plant assimilates dissolved nutrients from both the water column and sediment pore water.
-
-Above-ground biomass can contain nitrogen concentrations of 2–4% and phosphorus concentrations of 0.2–0.5% on a dry weight basis. Annual nutrient uptake rates vary with water body productivity but can represent a substantial fraction of the total nutrient budget in shallow lakes.
-
-## Aquaculture and Phytoremediation
-
-*V. americana* has been investigated for use in [[comparison-constructed-wetlands-vs-bioswales]] and aquaculture systems for water quality improvement. The species effectively removes nutrients, heavy metals, and organic contaminants from wastewater through uptake and sediment stabilization.
-
-In integrated multi-trophic aquaculture systems, wild celery beds provide shelter and foraging habitat for commercially important fish and crustacean species while simultaneously improving water quality. This dual function makes it a candidate for sustainable aquaculture design.
-
-## See Also
-
-- [[elodea-canadensis]]
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[nymphaea-alba]]
-- [[sagittaria-latifolia]]
-- [[azolla-filiculoides]]

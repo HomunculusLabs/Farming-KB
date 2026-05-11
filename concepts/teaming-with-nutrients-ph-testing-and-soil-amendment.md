@@ -88,9 +88,3 @@ runoff.
 
 [[acid-and-alkaline-soil-management]] (below pH 6.0) are common
 in high-rainfall areas where leaching removes calcium and magnesium. The
-standard amendment is agricultural limestone:
-Calcitic limestone (CaCO3) supplies calcium and is used when magnesium levels
-are already adequate or high. The limestone binds with hydrogen ions, and the
-end product of the reaction is carbonic acid (H2CO3), which further breaks
-down into carbon dioxide (CO2) and water (H2O).
-## See Also

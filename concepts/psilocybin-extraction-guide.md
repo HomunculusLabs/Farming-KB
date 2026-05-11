@@ -7,21 +7,23 @@ tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmac
 sources: []
 ---
 
-# Psilocybi [[dmt-extraction-guide]] de
+# Psilocybin Extraction Guide
 
 ## Overview
 
-Psilocybin (4-PO-D [[psilocybin-and-psilocin-chemical-synthesis]] ocin (4-HO-DMT) are the primary psychoactive compounds found in "magic mushrooms" — over 200 species [[fungi-in-the-environment-bioremediation-applications]] the genus Psilocybe and related genera. Psilocybin is a prodrug [[chamovitz-gravitropism-plant-knows-where-it-is]] is rapidly dephosphorylate [[psilocybin-in-the-counter-culture]] he body to psilocin, the active compound that acts on serotonin 5-HT2A receptors.
+Psilocybin (4-PO-DMT) and psilocin (4-HO-DMT) are the primary psychoactive compounds found in "magic mushrooms" — over 200 species of fungi in the genus Psilocybe and related genera. Psilocybin is a prodrug — it is rapidly dephosphorylated in the body to psilocin, the active compound that acts on serotonin 5-HT2A receptors.
 
 This guide covers methods for extracting and concentrating psilocybin from mushroom material, primarily using ethanol extraction. These methods are presented for educational and harm-reduction purposes. Psilocybin is a controlled substance in many jurisdictions — see [[psychedelic-plants-legal-status]].
 
-## The Chemis [[psilocybin-vs-other-psychedelics]] ocybin vs. Psilocin
+## The Chemistry
+
+### Psilocybin vs. Psilocin
 - **Psilocybin (4-PO-DMT)**: Stable, water-soluble, not soluble in nonpolar solvents. The primary compound in dried mushrooms. Prodrug that converts to psilocin in the body.
 - **Psilocin (4-HO-DMT)**: Unstable in air (oxidizes to blue quinone compounds, causing bruising), water-soluble. The actual active compound at receptors.
 - Both are tryptamines, structurally similar to DMT and serotonin
 
 ### Solubility
-- Both psilocybin and psilocin are soluble in water, ethanol, methanol, and other polar solvents
+- Both [[hplc-analysis-of-psilocybin-and-psilocin]] are soluble in water, ethanol, methanol, and other polar solvents
 - Insoluble in nonpolar solvents (naphtha, hexane, etc.)
 - This makes polar solvent extraction straightforward
 
@@ -29,9 +31,9 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 
 ### Common Cultivated Species
 - **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
-- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
-- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
-- **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
+- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the [[psilocybin-north-america-pacific-northwest]] coast
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 
 ### Potency Variation
 Potency varies enormously based on:
@@ -64,7 +66,7 @@ The simplest extraction method using food-grade ethanol:
 9. Store in a cool, dark place — shelf life of 6–12 months
 
 ### Dosage
-The tincture concentrates the actives into a liquid form. Calculate dosage based on starting material:
+The tincture concentrates the actives into a liquid form. Calculate dosage based on [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]:
 - If 10 g dried mushrooms extracted into 20 ml ethanol, each ml contains approximately 0.5 g equivalent
 - Standard dose of P. cubensis: 1–3.5 g dried
 - Therefore, 2–7 ml of this tincture would be a standard dose
@@ -122,7 +124,7 @@ Converting mushroom extract into purified psilocybin crystals:
 ## Potency Testing
 
 ### Reagent Testing
-- **Ehrlich reagent**: Turns purple/violet in the presence of indole compounds (psilocybin, psilocin, DMT, LSD)
+- **[[ehrlich-reagent-tryptamine-detection-tlc-mycology]]**: Turns purple/violet in the presence of indole compounds (psilocybin, psilocin, DMT, LSD)
 - **Hofmann reagent**: Similar function for tryptamines
 - Cannot distinguish between psilocybin and psilocin or quantify potency
 - Cannot detect contaminants

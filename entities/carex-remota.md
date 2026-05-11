@@ -73,9 +73,9 @@ In Mediterranean regions, the species is restricted to cooler, north-facing slop
 
 Carex remota is a characteristic species of damp woodland ground flora across its European range. It is particularly associated with ash-maple and alder woodlands on moist soils.
 
-Common associates include Carex sylvatica, Deschampsia cespitosa, Festuca rubra, Ajuga reptans, and Filipendula ulmaria. In wetter woodlands, it may grow alongside Carex pendula and Phragmites australis.
+Common associates include [[carex-sylvatica]], Deschampsia cespitosa, [[festuca-rubra]], [[ajuga-reptans]], and [[filipendula-ulmaria]]. In wetter woodlands, it may grow alongside Carex pendula and [[phragmites-australis]].
 
-The species contributes to the structural diversity of woodland ground vegetation. Its arching leaves create a soft understorey beneath tree canopies.
+The species contributes to the structural diversity of woodland [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]. Its arching leaves create a soft understorey beneath tree canopies.
 
 Several invertebrate species are associated with Carex remota, including sedge-feeding moth larvae and saproxylic beetles that use accumulations of dead sedge material.
 
@@ -88,34 +88,3 @@ In managed woodlands, the species benefits from coppicing and ride management th
 Carex remota is widespread and assessed as Least Concern across its European range. However, it has declined locally in intensively farmed landscapes.
 
 Drainage of damp woodlands and canalization of woodland streams have reduced habitat availability. The species is sensitive to water table lowering and soil desiccation.
-
-Removal of woodland understory through overgrazing by deer can reduce suitable habitat structure. The species requires some shade but also needs a degree of canopy openness.
-
-Conversion of damp woodlands to agricultural land has been a major driver of decline in lowland landscapes. Afforestation of damp grassland with dense conifer plantations also eliminates habitat.
-
-Conservation management focuses on maintaining hydrological conditions in damp woodlands. Selective thinning and ride widening help maintain the light and moisture conditions the species requires.
-
-Protected site designations under the EU Habitats Directive have helped conserve key populations in western European lowland woodlands. Riparian buffer zones along woodland streams benefit the species by maintaining moisture regimes.
-
-Long-term monitoring of Carex remota populations has been recommended as an indicator of woodland hydrological change across its range.
-
-## Related Species
-
-Carex remota is most closely related to Carex sylvatica within section Sylvaticae. It is distinguished from Carex sylvatica by its more widely spaced female spikes and softer, narrower leaves.
-
-The section Sylvaticae includes several European woodland sedges that share shade tolerance and similar morphological traits. Carex strigosa is another related woodland species.
-
-Carex remota may occasionally hybridize with other section Sylvaticae species where ranges overlap. Hybrids typically show intermediate spike spacing and utricle morphology.
-
-## See Also
-
-- [[carex-sylvatica]]
-- [[carex-pendula]]
-- [[carex-montana]]
-- [[carex-nigra]]
-- [[carex-flacca]]
-- [[carex-hirta]]
-- [[deschampsia-caespitosa]]
-- [[festuca-rubra]]
-- [[juncus-effusus]]
-- [[phragmites-australis]]

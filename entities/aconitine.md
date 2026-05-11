@@ -46,14 +46,14 @@ Aconitine is a highly toxic diterpenoid alkaloid found in *Aconitum* species (mo
 
 ## Natural Sources
 
-Aconitine and related C₁₉-diterpenoid alkaloids are found in approximately 300 *Aconitum* species (family Ranunculaceae) distributed across temperate regions of the Northern Hemisphere. The biosynthetic pathway originates from geranylgeranyl pyrophosphate (GGPP) and proceeds through ent-kaurene intermediates before extensive oxidative rearrangement and esterification.
+Aconitine and related C₁₉-diterpenoid alkaloids are found in approximately 300 *Aconitum* species (family Ranunculaceae) distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. The biosynthetic pathway originates from geranylgeranyl pyrophosphate (GGPP) and proceeds through ent-kaurene intermediates before extensive oxidative rearrangement and esterification.
 
-- **Aconitum napellus** (common monkshood): Native to Europe; roots (tubers) contain 0.3–1.5% aconitine. Historically used as a poison for hunting and warfare. Cultivated as an ornamental.
+- **[[aconitum-napellus]]** (common monkshood): Native to Europe; roots (tubers) contain 0.3–1.5% aconitine. Historically used as a poison for hunting and warfare. Cultivated as an ornamental.
 - **Aconitum kusnezoffii** (Kusnezoff monkshood): Native to Siberia and East Asia; roots are the primary source of aconitine in traditional Chinese medicine ("Cao Wu").
-- **Aconitum carmichaelii** (Chinese aconite): Chinese medicinal plant ("Chuan Wu"); roots contain aconitine alongside mesaconitine and hypaconitine as the three principal alkaloids.
+- **[[aconitum-carmichaelii]]** (Chinese aconite): Chinese medicinal plant ("Chuan Wu"); roots contain aconitine alongside mesaconitine and hypaconitine as the three principal alkaloids.
 - **Aconitum sinomontanum** (Chinese monkshood): Used in Tibetan medicine; contains lappaconitine rather than aconitine as the major alkaloid.
 - **Aconitum ferrox** (Indian aconite): Important in Ayurvedic medicine ("Vishamushka"); roots contain aconitine and related alkaloids.
-- **Aconitum anthora** (yellow monkshood): Historically used as an antidote to aconite poisoning (paradoxically, given its own toxicity).
+- **[[aconitum-anthora]]** (yellow monkshood): Historically used as an antidote to aconite poisoning (paradoxically, given its own toxicity).
 
 ## Pharmacology
 
@@ -71,7 +71,7 @@ Aconitine produces initial paresthesias and numbness in the face and extremities
 
 ### Anti-inflammatory and Analgesic Activity
 
-Paradoxically, at sub-toxic doses aconitine and processed aconite preparations demonstrate significant anti-inflammatory and analgesic effects. These are attributed to inhibition of NF-κB signaling, suppression of pro-inflammatory cytokines, and modulation of TRPV1 and Nav1.7 channels involved in pain signaling. Processed aconite ("Zhi Fuzi" in Chinese medicine) is considered one of the most potent analgesic herbs in traditional Chinese pharmacopeia, used for rheumatoid arthritis, neuropathic pain, and inflammatory conditions.
+Paradoxically, at sub-toxic doses aconitine and processed aconite preparations demonstrate significant anti-inflammatory and analgesic effects. These are attributed to inhibition of NF-κB signaling, suppression of pro-inflammatory cytokines, and modulation of TRPV1 and Nav1.7 channels involved in pain signaling. Processed aconite ("Zhi Fuzi" in Chinese medicine) is considered one of the most potent analgesic herbs in traditional Chinese pharmacopeia, used [[cannabis-for-rheumatoid-arthritis]], neuropathic pain, and [[cannabis-for-inflammatory-conditions]].
 
 ## Toxicology
 
@@ -88,31 +88,3 @@ The lethal dose in adults is approximately 1–2 mg orally (0.015 mg/kg). Onset 
 ### Treatment
 
 Management of aconitine poisoning focuses on cardiovascular stabilization and arrhythmia control. Activated charcoal is administered if within 1 hour of ingestion. Intravenous amiodarone or flecainide may be used for ventricular arrhythmias, though responses are often poor. Lidocaine has shown some efficacy in experimental models due to its sodium channel blocking properties, which counteract aconitine's persistent sodium current. Mechanical ventilation, inotropic support, and extracorporeal membrane oxygenation (ECMO) have been employed in severe cases. GI decontamination and enhanced elimination are of limited benefit due to rapid absorption. No specific antidote exists for aconitine poisoning.
-
-## Historical Significance
-
-Aconitine has one of the longest documented histories of any natural poison. Ancient Greeks used aconite extracts as arrow poisons for hunting and warfare. Roman emperors reportedly used aconite for political assassinations. In Chinese traditional medicine, processed aconite has been used for over 2,000 years to treat pain, inflammation, and "cold" conditions, with elaborate processing methods (steaming, soaking in brine) developed to reduce alkaloid content while preserving therapeutic activity. In European folklore, monkshood was associated with witchcraft and was believed to ward off werewolves — hence the common name "wolfsbane." Aconitine has featured in numerous literary works and criminal cases, from Greek mythology to modern forensic investigations.
-
-## Modern Applications and Research
-
-- **Traditional medicine**: Processed aconite (Fuzi, Cao Wu, Chuan Wu) remains widely used in traditional Chinese medicine and Kampo medicine (Japanese herbal medicine) for pain, heart failure, and inflammatory conditions after detoxification processing
-- **Pharmacological research**: Aconitine serves as a research tool for studying voltage-gated sodium channel function and cardiac electrophysiology
-- **Drug development**: Analogs and derivatives of aconitine alkaloids are being investigated as potential analgesic and anti-arrhythmic agents with improved therapeutic indices
-- **Forensic science**: Aconitine detection (via LC-MS/MS) is important in forensic toxicology due to its use in suicides and homicides, particularly in regions where aconite preparations are culturally accessible
-
-## Safety and Regulatory Status
-
-Aconitine is classified as an extremely hazardous substance in most jurisdictions. In China, aconitine-containing herbal products are subject to strict quality control standards specifying maximum alkaloid content. Processing requirements (Paozhi) are legally mandated to reduce aconitine content to below 0.01% in finished products. In the European Union, aconitine-containing products are restricted or prohibited. The United States FDA has issued warnings regarding aconitine-containing dietary supplements. Accidental poisoning continues to occur due to misidentification of wild aconite species, use of inadequately processed herbal preparations, and contamination of herbal products with aconite alkaloids.
-
-## See Also
-
-- [[strychnine]] — Potent plant alkaloid convulsant with different mechanism (GlyR antagonist)
-- [[brucine]] — Strychnos alkaloid with lower potency GlyR antagonism
-- [[atropine]] — Tropane alkaloid anticholinergic used in cardiac resuscitation
-- [[scopolamine]] — Tropane alkaloid with antimuscarinic and sedative properties
-- [[hyoscyamine]] — Tropane alkaloid precursor to scopolamine
-- [[gelsemine]] — Gelsemium alkaloid neurotoxin with distinct mechanism
-- [[digoxin]] — Cardiac glycoside with different cardiotoxic mechanism
-- [[colchicine]] — Plant alkaloid antimitotic toxin from Colchicum
-- [[morphine]] — Opioid alkaloid with CNS depressant effects
-- [[nicotine]] — Alkaloid stimulant acting on nicotinic acetylcholine receptors

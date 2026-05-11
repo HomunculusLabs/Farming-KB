@@ -16,13 +16,13 @@ Cover crops are one of the most effective natural methods for improving heavy cl
 
 ### Understanding Heavy Clay Soil Challenges
 
-Heavy clay soil presents unique challenges for gardeners and farmers alike. The dense mineral particles create poor drainage, slow warming in spring, and become rock-hard when dry. [[soil-food-web]] processes are often sluggish due to limited oxygen availability. The high cation exchange capacity means nutrients bind tightly but aren't readily available to plants. 
+Heavy clay soil presents unique challenges for gardeners and farmers alike. The dense mineral particles create poor drainage, slow warming in spring, and become rock-hard when dry. [[soil-foodweb]] processes are often sluggish due to limited oxygen availability. The high cation exchange capacity means nutrients bind tightly but aren't readily available to plants. 
 
-Clay soils can be improved through several natural methods including [[compost-tea]] applications, [[biochar]] incorporation, and strategic cover cropping. Among these, cover crops offer a sustainable, cost-effective solution that addresses multiple soil health indicators simultaneously.
+Clay soils can be improved through several natural methods including [[compost-tea-guide]] applications, [[biochar]] incorporation, and strategic cover cropping. Among these, cover crops offer a sustainable, cost-effective solution that addresses multiple soil health indicators simultaneously.
 
 ### Deep-Rooted Tap Crops for Soil Aeration
 
-Tap-rooted plants are essential for breaking up compacted clay layers. [[daikon-radish]] grows rapidly and can penetrate soil to depths of 2-3 feet, creating channels for water infiltration and root growth of subsequent crops. Their deep action reduces [[soil-compaction]] naturally without mechanical intervention.
+Tap-rooted plants are essential for breaking up compacted clay layers. [[daikon-radish]] grows rapidly and can penetrate soil to depths of 2-3 feet, creating channels for water infiltration and root growth of subsequent crops. Their deep action reduces [[soil-compaction-solutions]] naturally without mechanical intervention.
 
 Other effective tap-rooted options include [[forage-turnip]] and [[oilseed-radish]]. These plants have similar soil-penetrating capabilities and decompose readily, adding organic matter to the soil profile. The decomposition process creates macropores that improve both drainage and aeration.
 
@@ -30,7 +30,7 @@ Other effective tap-rooted options include [[forage-turnip]] and [[oilseed-radis
 
 Heavy clay often has good mineral content but poor nutrient availability due to binding. [[hairy-vetch]] is particularly effective as it fixes atmospheric nitrogen while developing an extensive root system that improves soil structure. [[ crimson-clover ]] provides rapid ground coverage and nitrogen fixation, while [[field-peas]] offer quick biomass production.
 
-These legumes work synergistically with grass cover crops. The grasses provide bulk organic matter, while the legumes ensure adequate nitrogen availability for both the cover crop itself and subsequent cash crops. The combination creates a balanced [[soil-food-web]] that supports beneficial microorganisms.
+These legumes work synergistically with grass cover crops. The grasses provide bulk organic matter, while the legumes ensure adequate nitrogen availability for both the cover crop itself and subsequent cash crops. The combination creates a balanced [[soil-foodweb]] that supports beneficial microorganisms.
 
 ### Fibrous-Rooted Grasses for Organic Matter
 
@@ -44,7 +44,7 @@ When choosing cover crops for heavy clay, consider the following factors:
 
 **Drainage Impact**: Select plants known for improving water penetration. [[daikon-radix]] is excellent, but avoid plants that thrive in wet conditions as they may exacerbate drainage issues.
 
-**Climate Compatibility**: Choose varieties suited to your growing season length. [[winter-rye]] tolerates cold well, while [[sorghum-sudangrass]] prefers warmer conditions and grows rapidly during summer months.
+**Climate Compatibility**: Choose varieties suited to your growing season length. [[winter-rye]] tolerates cold well, while [[sorghum-bicolor]] prefers warmer conditions and grows rapidly during summer months.
 
 **Integration Goals**: Determine if the primary goal is nitrogen fixation, organic matter addition, compaction reduction, or weed suppression. This will guide your selection of [[legume]] vs. [[grass]] combinations.
 
@@ -54,9 +54,9 @@ When choosing cover crops for heavy clay, consider the following factors:
 
 #### Spring/Summer Planting
 
-In the growing season, use quick-growing combinations that provide immediate benefits. [[sorghum-sudangrass]] mixed with [[cowpeas]] offers rapid biomass production and nitrogen fixation. This combination can be incorporated as green manure after 6-8 weeks of growth.
+In the growing season, use quick-growing combinations that provide immediate benefits. [[sorghum-bicolor]] mixed with [[cowpeas]] offers rapid biomass production and nitrogen fixation. This combination can be incorporated as green manure after 6-8 weeks of growth.
 
-For areas with main crops already established, use living mulch approaches. [[white-clover]] can be seeded between rows of vegetables, providing ground cover and nitrogen fixation without competing significantly with the cash crops.
+For areas with main crops already established, use living mulch approaches. [[white-clover-living-mulch]] can be seeded between rows of vegetables, providing ground cover and nitrogen fixation without competing significantly with the cash crops.
 
 #### Fall/Winter Planting
 
@@ -82,7 +82,7 @@ Implementing a well-designed cover cropping program for heavy clay typically res
 
 **Water Relations**: Water infiltration rates increase significantly, reducing surface runoff and ponding. Water-holding capacity improves without waterlogging.
 
-**Biological Activity**: [[soil-food-web]] diversity increases, with greater populations of earthworms, beneficial fungi, and bacteria. Microbial activity rates improve, accelerating nutrient cycling.
+**Biological Activity**: [[soil-foodweb]] diversity increases, with greater populations of earthworms, beneficial fungi, and bacteria. Microbial activity rates improve, accelerating nutrient cycling.
 
 **Chemical Properties**: Nutrient availability increases as organic matter levels rise. Cation exchange capacity may improve slightly, but more importantly, nutrient retention becomes more dynamic rather than static.
 
@@ -94,7 +94,7 @@ Implementing a well-designed cover cropping program for heavy clay typically res
 
 **Drainage Issues**: In severely compacted areas, combine cover crops with [[swale]] or keyline design to improve overall drainage patterns. The physical modification works synergistically with biological improvement.
 
-**Nutrient Lockup**: Some cover crops may temporarily tie up nutrients as they decompose. Incorporate [[compost-tea]] or other biologically active amendments during decomposition to support microbial nutrient release.
+**Nutrient Lockup**: Some cover crops may temporarily tie up nutrients as they decompose. Incorporate [[compost-tea-guide]] or other biologically active amendments during decomposition to support microbial nutrient release.
 
 ### Rotation Planning
 
@@ -102,7 +102,7 @@ Integrate cover crops into your overall crop rotation strategy for maximum benef
 
 1. **Compaction Phase**: Use deep-rooted crops like [[daikon-radish]] and [[forage-turnip]] for one season
 2. **Organic Matter Phase**: Follow with grass-heavy mixes like [[winter-rye]] and [[oats]]
-3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[crimson-clover]]
+3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[comparison-lupin-vs-crimson-clover-green-manure]]
 4. **Cash Crop Phase**: Plant vegetables or cash crops in the improved soil
 
 This rotational approach addresses multiple soil limitations systematically rather than trying to solve everything at once.
@@ -122,7 +122,7 @@ Different climate regions may require adjustments to the standard cover crop app
 
 **Cold Climates**: Focus on winter-hardy crops like [[winter-rye]] and [[hairy-vetch]]. Plant in early fall to establish before winter. Consider frost-tolerant legumes for early spring growth.
 
-**Warm Climates**: Can utilize [[sorghum-sudangrass]] during hot summer months. Warm-season legumes like [[cowpeas]] and [[sesbania]] provide excellent nitrogen fixation.
+**Warm Climates**: Can utilize [[sorghum-bicolor]] during hot summer months. Warm-season legumes like [[cowpeas]] and [[sesbania-grandiflora]] provide excellent nitrogen fixation.
 
 **Temperate Regions**: Benefit from diverse seasonal rotations with both cool and warm-season cover crops. The extended growing season allows for multiple cover crop cycles per year.
 
@@ -130,7 +130,7 @@ Different climate regions may require adjustments to the standard cover crop app
 
 - Heavy clay soil requires specialized cover crop selection focusing on deep roots and organic matter
 - [[daikon-radish]] and [[forage-turnip]] provide essential taproots for breaking up compaction
-- [[hairy-vetch]] and [[crimson-clover]] fix nitrogen while improving soil structure
+- [[hairy-vetch]] and [[comparison-lupin-vs-crimson-clover-green-manure]] fix nitrogen while improving soil structure
 - [[winter-rye]] and [[oats]] build organic matter through extensive root systems
 - Proper timing and termination methods are crucial for maximum soil improvement
 - Monitor soil response through visual observations and testing to track improvement

@@ -43,7 +43,7 @@ Fibrous adventitious roots arise from the basal plate of the bulb. Rooting is re
 - **Origin:** Central Asia, likely in the region of modern-day Kazakhstan, Uzbekistan, and Turkmenistan
 - **Domestication:** One of the oldest cultivated plants; domestication predates written records by several millennia. Garlic cloves have been found in Egyptian tombs dating to 3,750 BCE.
 - **Cultivation:** Global; China produces approximately 75–80% of the world supply, followed by India, South Korea, Egypt, and the United States (primarily California)
-- **Habitat:** Cultivated in temperate to subtropical climates; does not occur in the wild (domesticated species)
+- **Habitat:** Cultivated in temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]; does not occur in the wild (domesticated species)
 - **Soil requirements:** Well-drained, fertile loam with pH 6.0–7.5; sensitive to waterlogging
 - **Climate:** Vernalization requirement of 1–2 months at 0–10°C for proper bulb formation; hardneck types require colder winters than softneck types
 - **Global production:** Approximately 30+ million tonnes annually; China dominates with over 20 million tonnes per year
@@ -61,10 +61,10 @@ Garlic's bioactivity centers on organosulfur compounds formed through enzymatic 
 
 ## Pharmacological Properties
 
-1. **Antimicrobial:** Allicin and its derivatives inhibit a broad spectrum of bacteria (including multidrug-resistant Staphylococcus aureus and Helicobacter pylori), fungi (Candida spp., Cryptococcus), viruses (influenza, rhinovirus), and parasites (Giardia, Entamoeba) in vitro. Minimum inhibitory concentrations (MICs) for allicin range from 5–30 µg/mL against most Gram-positive bacteria.
+1. **Antimicrobial:** Allicin and its derivatives inhibit a broad spectrum of bacteria (including multidrug-resistant [[staphylococcus-aureus]] and Helicobacter pylori), fungi (Candida spp., Cryptococcus), viruses (influenza, rhinovirus), and parasites (Giardia, Entamoeba) in vitro. Minimum inhibitory concentrations (MICs) for allicin range from 5–30 µg/mL against most Gram-positive bacteria.
 2. **Cardiovascular protection:** Clinical meta-analyses show garlic supplementation (standardized to allicin or SAC) reduces systolic blood pressure by 5–8 mmHg and total cholesterol by 10–15 mg/dL in adults with mild hypertension or hyperlipidemia. The largest meta-analysis (2012, 17 trials, n=952) confirmed modest but statistically significant reductions in both endpoints.
 3. **Antithrombotic:** Ajoene inhibits platelet aggregation via multiple pathways (ADP, thrombin, collagen); documented interactions with anticoagulant medications (warfarin, aspirin) increase bleeding risk. Clinical significance varies with garlic preparation — raw garlic has stronger effects than aged extracts.
-4. **Anticancer:** Epidemiological studies associate high dietary garlic intake with reduced risk of colorectal and gastric cancers; DATS and DADS induce apoptosis in cancer cell lines via reactive oxygen species generation. The Iowa Women's Health Study (n=41,837) found a 35% reduction in colon cancer risk with the highest garlic consumption quartile.
+4. **Anticancer:** Epidemiological studies associate high dietary garlic intake with reduced risk of colorectal and gastric cancers; DATS and DADS induce apoptosis in cancer cell lines via [[reactive-oxygen-species-and-oxidative-stress]] generation. The Iowa Women's Health Study (n=41,837) found a 35% reduction in colon cancer risk with the highest garlic consumption quartile.
 5. **Immunomodulatory:** Enhances natural killer cell activity and phagocytosis in clinical trials; aged garlic extract (AGE) shows consistent immunostimulatory effects with a 12-week trial showing increased proliferative response of peripheral blood mononuclear cells.
 6. **Hepatoprotective:** S-allyl cysteine (SAC) in AGE demonstrates protective effects against acetaminophen-induced hepatotoxicity and carbon tetrachloride liver damage in animal models; clinical data remain limited.
 
@@ -74,45 +74,16 @@ Garlic has been used medicinally since at least the time of the ancient Egyptian
 
 - **Religious and cultural taboos:** Garlic is avoided in certain Hindu, Buddhist, and Jain traditions due to its classification as a tamasic (energy-dulling) food; some Hare Krishna and Buddhist meditation practitioners exclude garlic from their diets
 - **Folk medicine traditions:** European folk medicine used garlic poultices for chest infections and insect bites; African traditional medicine employs garlic for malaria prevention; Latin American curanderismo uses garlic in cleansing rituals
-- **Symbolism:** In European folklore, garlic was believed to ward off evil spirits, vampires, and the evil eye; this association likely derives from its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] reducing disease incidence in garlic-consuming households
+- **Symbolism:** [[mandrake-mandragora-officinarum-in-european-folklore]], garlic was believed to ward off evil spirits, vampires, and the evil eye; this association likely derives from its [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] reducing disease incidence in garlic-consuming households
 
 ## Cultivation
 
 - **Planting:** Individual cloves planted 3–5 cm deep, pointed end up, in autumn (hardneck) or early spring (softneck). Cloves should be separated from the bulb no more than 48 hours before planting to prevent desiccation and premature sprouting.
 - **Spacing:** 10–15 cm within rows, 30–45 cm between rows; closer spacing produces smaller bulbs but higher total yield per area
-- **Fertilization:** Moderate nitrogen requirement; excessive nitrogen promotes foliage at the expense of bulb size. Phosphorus and potassium should be applied pre-plant based on soil test results.
+- **Fertilization:** Moderate nitrogen requirement; excessive nitrogen promotes foliage at the expense of bulb size. Phosphorus and potassium should be applied pre-plant based on [[interpreting-soil-test-results]].
 - **Irrigation:** Consistent moisture during bulb development; reduce irrigation 2–3 weeks before harvest to prevent bulb splitting and facilitate curing
 - **Harvest:** When lower leaves begin to yellow and dry (typically mid-summer for autumn-planted crops); bulbs cured by drying at 15–20°C with good ventilation for 2–4 weeks. Harvest timing is critical — over-mature bulbs split cloves apart, reducing storage quality.
 - **Yield:** 5–15 tonnes/ha depending on cultivar, density, and growing conditions
-- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Susceptible to onion maggot (Delia antiqua), thrips (Thrips tabaci), nematodes, white rot (Sclerotium cepivorum), downy mildew (Peronospora destructor), and rust (Puccinia allii); crop rotation with non-Allium species is essential for disease management
+- **[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]:** Susceptible to onion maggot (Delia antiqua), thrips (Thrips tabaci), nematodes, white rot (Sclerotium cepivorum), downy mildew (Peronospora destructor), and rust (Puccinia allii); crop rotation with non-Allium species is essential for [[clubroot-disease-management]]
 - **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Traditional companion plant for roses (repels aphids), tomatoes, and fruit trees; allium compounds deter certain insect pests through volatile sulfur release
 - **Storage:** Hardneck types store 4–6 months; softneck types 8–12 months at 0°C, 65% relative humidity; sprouting and desiccation are primary storage losses
-
-## Preparation Forms and Dosage
-
-- **Fresh raw garlic:** 2–4 g/day (approximately 1–2 cloves) for general health support
-- **Aged garlic extract (AGE):** 600–1,200 mg/day standardized to S-allyl cysteine; preferred for cardiovascular applications due to consistent dosing and reduced odor
-- **Garlic oil macerate:** 0.03–0.12 mL three times daily; antimicrobial applications
-- **Dried garlic powder:** 400–1,200 mg/day equivalent; culinary and supplement use
-## Differences Between Preparations
-
-- **Allicin is present only briefly in crushed raw garlic:** The enzyme alliinase converts alliin to allicin within seconds of cell disruption, but allicin itself degrades within minutes at room temperature
-- **AGE contains no allicin but higher SAC levels:** The aging process (up to 20 months at room temperature) converts allicin to stable, water-soluble S-allyl cysteine, which is better absorbed and lacks the pungent odor of fresh garlic
-- **Enteric-coated tablets:** Designed to dissolve in the intestine rather than the stomach, delivering alliin and alliinase to the alkaline intestinal environment where they can react to form allicin without premature gastric degradation
-- **Cooking effects:** Heating above 60°C rapidly inactivates alliinase, preventing allicin formation; cooked garlic retains some sulfur compounds (DAS, DADS) but loses most allicin-dependent bioactivity. Brief cooking (5–15 minutes) preserves more [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] than prolonged cooking.
-- **Bioavailability differences:** SAC from aged garlic extract shows superior oral bioavailability compared to allicin from fresh garlic; plasma concentrations of SAC peak at 1–3 hours post-ingestion with a half-life of approximately 5 hours
-
-## Safety and Contraindications
-
-- **Bleeding risk:** Raw garlic and garlic supplements increase bleeding risk when combined with anticoagulants (warfarin, aspirin, clopidogrel); discontinue 7 days before surgical procedures
-- **Gastrointestinal:** Raw garlic can cause dyspepsia, heartburn, and nausea in sensitive individuals; enteric-coated formulations reduce gastric irritation
-- **Drug interactions:** May potentiate the effects of antihypertensive and anticoagulant medications; modest CYP3A4 and CYP2E1 interactions documented
-- **Allergy:** Garlic allergy is uncommon (estimated <1% prevalence) but can manifest as contact dermatitis in food handlers and occupational asthma in garlic-processing workers
-- **Maximum tolerated dose:** Clinical studies have used fresh garlic up to 28 g/day without serious [[blesching-cannabis-safety-adverse-effects-evidence]]; the primary dose-limiting factor is gastrointestinal intolerance and social odor concerns
-
-## See Also
-
-- [[curcuma-longa]]
-- [[hypericum-perforatum]]
-- [[ephedra-sinica]]
-- [[allicin]]

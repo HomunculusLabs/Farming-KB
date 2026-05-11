@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 # Permaculture Climate Zones
 
-Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979). (see [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]).
+Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
 
 ## The Three Broad Climatic Regions
 
@@ -17,7 +17,7 @@ Bill Mollison identified three broad climatic regions where man lives and garden
 2. **Tropical humid areas** of summer rain
 3. **Arid lands** -- where rain is irregular, coming as flash floods or sudden downpours
 
-Additionally: cold deserts, arctic and mountain climates, and equatorial jungles are little occupied but all have useful plants. **Coastlines** are not climates as such, but share problems of wind and salt with deserts and deserve specific treatment. (see [[mollison-designers-climate-classification-and-design-zones]]).
+Additionally: cold deserts, arctic and mountain climates, and equatorial jungles are little occupied but all have useful plants. **Coastlines** are not climates as such, but share problems of wind and salt with deserts and deserve specific treatment.
 
 ## Landscape Profile Analysis
 
@@ -67,3 +67,18 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 - [[permaculture-zone-and-sector-analysis]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+- [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]

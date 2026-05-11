@@ -1,5 +1,5 @@
 ---
-title: Falconer [[falconer-mushroom-cellar-management]] bed boxing and protection Boxing and Protection
+title: Falconer Mushroom Bed Boxing And Protection
 created: 2026-04-28
 tags:
   [

@@ -1,5 +1,5 @@
 ---
-title: "guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses — The panaeolina foenisecii controversial psychoactive lawn mushroom Lawn Mushroom"
+title: Panaeolina Foenisecii Controversial Psychoactive Lawn Mushroom
 source: "Guzmán, Allen & Gartz 1998 - Worldwide [[global-distribution-of-neurotropic-fungi]] Fungi"
 source_path: raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 type: concept
@@ -24,10 +24,10 @@ The taxonomic position of P. foenisecii has been unstable over the years, contri
 Panaeolina foenisecii is considered a cosmopolitan fungus, though its true distribution is likely incompletely documented. Notable distributional gaps exist:
 
 - **Japan**: Despite being very common in Japan, it was not recorded by Imazeki and Hongo in their major Japanese mycoflora works (1983, 1987, 1988). Hongo (1986) was one of the few to document it.
-- **Central America and Caribbean**: Surprisingly, there are no reports from this region, despite its prevalence in both North and South America.
+- **[[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] and Caribbean**: Surprisingly, there are no reports from this region, despite its prevalence in both North and South America.
 - **Africa**: Records are sparse despite the continent's high [[biodiversity-fungal-biodiversity-estimation-methods]].
 
-The species is typically found in grassy fields, lawns, pastures, and prairies — often appearing after rain in mowed areas. It fruits from spring through autumn in temperate regions.
+The species is typically found in grassy fields, lawns, pastures, and prairies — often appearing after rain in mowed areas. It fruits from spring through autumn in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 ## The Chemical Controversy
 
@@ -39,7 +39,7 @@ Multiple respected researchers have failed to detect psilocybin or psilocin in P
 
 - **Mantle and Waight (1969)**: No psilocybin detected
 - **Ott and Guzmán (1976)**: No psychoactive indoles found
-- **Beug and Bigwood (1982)**: Negative results for psilocybin and psilocin
+- **Beug and Bigwood (1982)**: Negative results for [[hplc-analysis-of-psilocybin-and-psilocin]]
 - **Stijve (1987)**: No psychoactive compounds detected
 - **Stijve et al. (1984)**: Failed to find psilocybin
 - **Allen and Merlin (1992c)**: Discussed doubts on psychoactive properties
@@ -74,7 +74,7 @@ Panaeolina foenisecii is a saprotrophic fungus that decomposes grass and other p
 
 The broader Panaeoloideae group is noted for taxonomic and chemical confusion. Many species in Panaeolus, Copelandia, and Panaeolina have been reported with and without neurotropic substances. Guzmán (1998) observed that the "majority of the Panaeolodeous fungi" lack reliable chemical studies, and several species considered toxic may be confused with psychoactive members of the group.
 
-Copelandia cyanescens, for example, is sometimes confused with Panaeolus antillarum — both present white fruit bodies growing in cow dung. However, P. antillarum does not turn blue and is considered edible, whereas C. cyanescens is strongly psychoactive. This kind of field confusion can propagate into the chemical literature when incorrectly identified specimens are analyzed.
+[[copelandia-cyanescens]], for example, is sometimes confused with [[panaeolus-antillarum-misidentification-copelandia-confusion]] — both present white fruit bodies growing in cow dung. However, P. antillarum does not turn blue and is considered edible, whereas C. cyanescens is strongly psychoactive. This kind of field confusion can propagate into the chemical literature when incorrectly identified specimens are analyzed.
 
 ## Significance for the Neurotropic Fungi Checklist
 
@@ -88,9 +88,3 @@ The case of P. foenisecii illustrates a broader methodological problem in mycolo
 - Ott, J. (1993). Pharmacotheon. Natural Products Co.
 - Stijve, T. (1995). Comments on the occurrence of psilocybin and related tryptamines in fungi.
 - Allen, J.W. & Merlin, M.D. (1992c). [[cattle-dispersal-psychoactive-fungi-australia]] of New Zealand.
-- Beug, M.W. & Bigwood, J. (1982). Psilocybin and psilocin levels in twenty species from seven genera of wild mushrooms.
-
-## See Also
-- [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]
-- [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]
-- [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]

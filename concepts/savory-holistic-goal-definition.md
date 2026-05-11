@@ -88,11 +88,3 @@ life and be sustained by the landscape or it will fail.
 
 ## Goals and [[savory-society-and-culture-guideline]], which governs
 [[savory-holistic-management-overview]] in its broadest sense. Will an action really lead to the quality of
-life we seek, and what will it do to that of others? Production and landscape goals are
-tested against all the [[savory-flexibility-in-management]]
-
-The three-part goal provides the compass for all management decisions. When emergencies
-arise, whether drought, flood, or market collapse, the goal remains the reference point
-for replanning. Without a clear goal, tactical flexibility becomes mere reaction rather
-than purposeful adaptation. Every tool applied, from [[savory-fire-as-management-tool]], derives its justification from its ability to
-advance all three parts of the goal simultaneously.

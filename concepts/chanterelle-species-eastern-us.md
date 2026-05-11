@@ -11,7 +11,7 @@ type: concept
 
 Chanterelles are among the most prized edible [[edible-wild-mushrooms-by-region]] in the world,
 valued for their fruity aroma, peppery flavor, and firm texture. The eastern
-United States, from New England through the Appalachian region and into the
+United States, from New England through the [[bolete-fungi-appalachian-region]] and into the
 southeastern coastal plain, supports a diverse assemblage of chanterelle
 species that fruit from late spring through autumn.
 
@@ -56,7 +56,7 @@ Its small size and striking color make it easy to overlook in the [[dighton-fung
 A recently described species from the Appalachian region, C. appalachiensis is
 distinguished by its association with oak forests at intermediate to high
 elevations. It is part of a complex of similar species that have been
-historically lumped under C. cibarius in North American field guides,
+historically lumped under C. cibarius in [[growing-gourmet-north-american-reishi-species]] field guides,
 highlighting the ongoing taxonomic revision of the genus.
 
 ## The Trumpet Chanterelles: Craterellus
@@ -70,7 +70,7 @@ or trumpet-shaped, often with hollow stems.
 Also known as the horn of plenty, the black trumpet is one of the most
 distinctive and sought-after mushrooms in eastern North America. The fruiting
 body is dark brown to black, funnel-shaped, with thin, fragile flesh and a
-hollow stem. It blends remarkably well with dark leaf litter, making it
+hollow stem. It blends remarkably well with dark [[fungal-diversity-leaf-litter-coarse-woody-debris]], making it
 notoriously difficult to spot despite often growing in large colonies. It fruits
 from summer through fall under oaks and beech. Its rich, smoky, earthy flavor
 makes it one of the finest culinary mushrooms.
@@ -88,11 +88,3 @@ The primary dangerous look-alike is the jack-o-lantern mushroom (*Omphalotus
 olearius* and *O. illudens*), which causes severe gastrointestinal distress.
 Jack-o-lanterns grow in clusters on wood, have true gills (thin, blade-like,
 not forked), and are more orange. True chanterelles grow individually from soil,
-have blunt forked ridges, and typically have a more yellow coloration. For
-comprehensive safety guidance, see [[mushroom-foraging-safety]].
-
-## See Also
-
-- [[comparison-morel-vs-chanterelle]]
-- [[mushroom-foraging-safety]]
-- [[mycorrhizal-fungi]]

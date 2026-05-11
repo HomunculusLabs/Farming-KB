@@ -121,8 +121,3 @@
 | Compost tea inoculant | Both | Trichoderma in fungal-dominant teas; Bacillus in bacterial-dominant teas |
 | Post-chemical pesticide application | Bacillus | Greater fungicide tolerance |
 | Stored grain protection | Bacillus | Endospore stability, antifungal VOCs, long persistence |
-## See Also
-
-- [[pseudomonas]]
-- [[trichoderma]]
-- [[solomon-soil-temperature-and-nighttime-plant-growth]]

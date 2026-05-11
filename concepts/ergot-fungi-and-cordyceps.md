@@ -88,26 +88,3 @@ compounds in fungi degrade over time. This was dramatically demonstrated
 by Guzmán, who experienced colored hallucinations without consuming any
 fungi while sleeping in a small closed room filled with a large collection
 of fresh or semi-fermented neurotropic *Psilocybe* specimens. The strong
-acrid aroma of the fungi, which contain volatile psilocybin and psilocin,
-was sufficient to produce psychoactive effects through inhalation.
-
-The Mexican Indians' traditional practice of discarding dried specimens
-kept for more than one year reflects an empirical understanding of this
-degradation. The compounds are apparently volatile and lose potency
-with age, as confirmed by Ohenoja et al. (1987) in herbarium specimens.
-
-## Distinction from Psilocybin-Containing Fungi
-
-Ergot and Cordyceps fungi are classified separately from psilocybin-
-[[psilocybin-containing-mushrooms-in-us]] in the four-group system of Guzmán, Allen, and
-Gartz. Group 1 contains psilocybin and related indoles; Group 2
-contains ibotenic acid species (*[[allegro-amanita-muscaria-properties-and-pharmacology]]*, *A. pantherina*, *A.
-regalis*); Group 3 contains ergot fungi (*Claviceps* and *Cordyceps*);
-and Group 4 contains species used as sacred fungi without reliable
-chemical confirmation.
-
-The ergot alkaloids are chemically distinct from the tryptamine-based
-compounds (psilocybin, psilocin, baeocystin) found in *Psilocybe* and
-related genera. While both groups produce psychoactive effects, their
-pharmacological profiles, [[plants-of-the-gods-chemical-structures-hallucinogens]], and historical impacts
-differ significantly.

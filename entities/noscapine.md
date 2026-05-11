@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-Noscapine (narcotine) is a phthalideisoquinoline alkaloid found in the opium poppy, Papaver somniferum.
+Noscapine (narcotine) is a phthalideisoquinoline alkaloid found in the opium poppy, [[papaver-somniferum]].
 
-It constitutes approximately 2–10% of opium alkaloid content, making it one of the most abundant alkaloids in opium after morphine.
+It constitutes approximately 2–10% of opium alkaloid content, making it one of the most abundant alkaloids in opium after [[morphine]].
 
 Noscapine was first isolated in 1817 by Pierre-Jean Robiquet and has been used medically as an antitussive agent for over two centuries.
 
@@ -48,17 +48,17 @@ It is optically active with a specific rotation of [α]D²⁰ = −131° (chloro
 
 ## Pharmacology
 
-Noscapine acts as a tubulin-binding agent, binding to the colchicine site on β-tubulin and disrupting microtubule polymerization dynamics.
+Noscapine acts as a tubulin-binding agent, binding to the [[colchicine]] site on β-tubulin and disrupting microtubule polymerization dynamics.
 
 This mechanism is distinct from classical opioid receptor activity and explains the absence of analgesic, respiratory depressant, or dependence-producing effects.
 
-As a microtubule destabilizer, noscapine arrests cells in mitosis by preventing proper spindle apparatus formation, triggering apoptotic cell death in dividing cells.
+As a microtubule destabilizer, noscapine arrests cells in mitosis by preventing proper spindle apparatus formation, triggering apoptotic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] in dividing cells.
 
 Noscapine also functions as a non-competitive antagonist at glycine receptors, which may contribute to its antitussive properties.
 
 The antitussive effect occurs at doses of 15–60 mg orally, with a duration of action of approximately 4–6 hours.
 
-Noscapine is metabolized primarily in the liver through demethylation and glucuronidation, with a plasma elimination half-life of 2–5 hours.
+Noscapine is metabolized primarily in the liver through demethylation and [[glucuronidation]], with a plasma elimination half-life of 2–5 hours.
 
 Importantly, noscapine does not cross the blood-brain barrier in significant quantities, which limits central nervous system side effects.
 
@@ -86,35 +86,4 @@ Preclinical studies since 1998 have demonstrated noscapine activity against a br
 
 Noscapine and its semi-synthetic derivatives (especially 9-bromonoscapine and 9-chloronoscapine) have shown enhanced antitumor potency in animal xenograft models.
 
-Noscapine's advantage as an anticancer agent lies in its low toxicity: it does not cause bone marrow suppression, peripheral neuropathy, or significant gastrointestinal toxicity at therapeutic doses.
-
-Phase I clinical trials of noscapine for cancer treatment have been conducted, though no phase III trials have been completed as of 2025.
-
-Noscapine has also been investigated for potential applications in stroke recovery due to its anti-inflammatory and neuroprotective properties in animal models.
-
-## Legal Status
-
-Noscapine is not classified as a controlled substance under the United States Controlled Substances Act, owing to its lack of opioid receptor activity and abuse potential.
-
-It is unscheduled in most jurisdictions worldwide and available as an over-the-counter pharmacy product in many countries.
-
-The European Medicines Agency permits noscapine in approved antitussive formulations without special scheduling restrictions.
-
-Despite its uncontrolled status, commercial noscapine production remains closely tied to opium poppy cultivation, which is subject to international narcotics control through the UN Single Convention.
-
-Some countries impose quantity-based restrictions on noscapine imports and exports to prevent diversion of opium-derived materials.
-
-India is the largest producer of noscapine, extracting it as a byproduct of opium processing under licensed government-monopolized facilities.
-
-## See Also
-
-- [[morphine]]
-- [[codeine]]
-- [[papaver-somniferum]]
-- opium
-- [[thebaine]]
-- [[papaverine]]
-- [[cocaine]]
-- dopamine
-- [[atropine]]
-- [[datura-stramonium]]
+Noscapine's advantage as an anticancer agent lies in its [[fukuoka-low-toxicity-pesticide-deception]]: it does not cause bone marrow suppression, peripheral neuropathy, or significant gastrointestinal toxicity at therapeutic doses.

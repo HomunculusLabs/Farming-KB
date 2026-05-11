@@ -1,5 +1,5 @@
 ---
-title: Meshima (Phellinus linteus) — Medicinal Mushroom Guide
+title: [[medicinal-mushroom-guide]] Meshima
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom [[medicinal-mushroom-guide-oyster]].
+Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
 
 Phellinus linteus is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
 
 ## Key Compounds
 
-- **Hispidin and hispolon:** Phenolic compounds unique to Phellinus species. Potent antioxidants with significant anti-tumor and anti-inflammatory activity.
+- **Hispidin and hispolon:** [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] unique to Phellinus species. Potent antioxidants with significant anti-tumor and anti-inflammatory activity.
 - **Interferon-gamma (IFN-gamma) inducing polysaccharides:** Unique polysaccharides that specifically promote IFN-gamma production, a critical immune signaling molecule.
 - **Beta-glucans:** 1,3-beta and 1,6-beta-glucans for immune modulation.
 - **Proteoglycans:** Protein-bound polysaccharides with immunomodulatory effects.
@@ -26,7 +26,7 @@ Phellinus linteus is considered one of the most powerful anti-inflammatory and a
 
 ## Anti-Inflammatory Properties
 
-Meshima is one of the most potent anti-inflammatory medicinal [[medicinal-mushroom-guide-oyster]] mushrooms:
+Meshima is one of the most potent anti-inflammatory [[cancer-medicinal-mushrooms]]:
 
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.
@@ -39,7 +39,7 @@ Meshima is one of the most potent anti-inflammatory medicinal [[medicinal-mushro
 ### Applications
 - Arthritis and joint inflammation (animal models show significant reduction in joint swelling).
 - Allergic conditions (asthma, atopic dermatitis, allergic rhinitis).
-- Inflammatory bowel disease (Crohn's disease, ulcerative colitis models).
+- [[blesching-cannabis-inflammatory-bowel-disease]] (Crohn's disease, [[cannabis-and-ulcerative-colitis]] models).
 - Chronic systemic inflammation.
 - Dermatitis and skin inflammation.
 
@@ -64,7 +64,7 @@ Meshima has generated significant research interest for cancer applications:
 
 Meshima's immune effects are distinctive:
 
-- **IFN-gamma induction:** Unlike most medicinal mushrooms that broadly stimulate immune cells, P. linteus specifically promotes interferon-gamma production. IFN-gamma is critical for:
+- **IFN-gamma induction:** Unlike [[query-what-are-the-most-medicinal-mushrooms]] that broadly stimulate immune cells, P. linteus specifically promotes interferon-gamma production. IFN-gamma is critical for:
   - Activating macrophages to kill intracellular pathogens.
   - Enhancing NK cell and cytotoxic T-cell function.
   - Promoting Th1 immune responses.
@@ -95,7 +95,7 @@ Meshima's immune effects are distinctive:
 
 ### Hot Water Extract
 - Powdered meshima simmered 60-90 minutes.
-- Most effective method for polysaccharide extraction.
+- Most effective method for [[mushroom-polysaccharide-extraction-chemistry]].
 
 ### Dual Extraction Tincture
 1. Hot water extraction (60-90 min) for polysaccharides.
@@ -129,7 +129,7 @@ Meshima is difficult to find and identify in the wild:
 ### Habitat
 - Primarily on mulberry (Morus) trees, but also on oak, maple, and other hardwoods.
 - Found in East Asia (Japan, Korea, China) and parts of the Americas and Africa.
-- Prefers warm-temperate to subtropical climates.
+- Prefers warm-temperate to [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ### Sustainable Harvesting
 - Harvest only a portion of the conk, leaving the majority attached.
@@ -142,14 +142,8 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 - Can be cultivated on hardwood sawdust substrates, though yields are lower than most commercial species.
 - Requires extended incubation periods (3-6 months colonization).
-- Fruiting conditions are not fully optimized for commercial production.
+- [[fruiting-conditions]] are not fully optimized for commercial production.
 - Most commercial meshima is still wild-harvested in Korea and China.
-- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
+- Liquid culture and [[cancer-medicinal-mushrooms-submerged-fermentation-production]] methods are being developed for mycelium-based products.
 
 ## Safety Considerations
-
-
-
-## See Also
-- [[medicinal-mushroom-guide-turkey-tail]]
-- [[medicinal-mushroom-guide-shiitake]]

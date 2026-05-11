@@ -1,0 +1,89 @@
+# Six Vectors of Contamination in Mushroom Cultivation
+
+Contamination is the single greatest challenge in mushroom cultivation. Paul
+Stamets identifies six distinct vectors through which competitor organisms —
+molds, bacteria, yeasts, and other fungi — can invade cultures and substrates.
+Understanding and controlling each vector is essential for consistent success,
+whether operating a small home grow or a commercial facility. Each vector
+requires specific prevention strategies, and effective cultivation depends on
+addressing all six simultaneously.
+
+## Vector 1: Airborne Contaminants
+
+The air is filled with microscopic spores of competitor molds and bacteria.
+Trichoderma (green mold), Aspergillus (often green or yellow), and Penicillium
+(blue-green mold) are among the most common airborne contaminants. These molds
+produce billions of spores that drift on air currents and settle on exposed
+surfaces, substrates, and cultures. A single Trichoderma spore landing on a
+grain jar during inoculation can overrun an entire culture within days.
+
+Stamets emphasizes that HEPA (High-Efficiency Particulate Air) filtration is
+the primary defense against airborne contamination. HEPA filters remove 99.97%
+of particles 0.3 microns and larger, effectively capturing mold spores and
+many bacterial cells. A [[comparison-laminar-flow-hood-vs-fruiting-chamber]] — a workspace enclosed behind a HEPA
+filter directing sterile air across the work surface — is considered essential
+for any serious cultivation work involving open vessels.
+
+Positive pressure environments, where sterile filtered air flows outward,
+prevent unfiltered air from entering during procedures. Even brief exposure of
+sterile substrates to open room air can result in contamination. Stamets
+recommends performing all open-air inoculation work inside a still-air box at
+minimum, with a laminar flow hood strongly preferred for production-scale work.
+
+## Vector 2: Water-Borne Contaminants
+
+Water used in [[bulk-substrate-preparation]], misting, and cleaning can introduce
+contamination. The most problematic water-borne contaminants are
+endospore-forming bacteria, particularly species of Bacillus. These bacteria
+form extremely resilient endospores that survive pasteurization temperatures
+(60-80°C) and later germinate inside substrates, causing "wet spot"
+contamination characterized by slimy, foul-smelling areas within grain jars.
+
+Stamets recommends using clean water sources for all cultivation purposes.
+Well water or municipal water that has been treated is generally acceptable.
+Surface water from ponds, streams, or rainwater collection should be treated
+with chlorine or UV sterilization before use. Distilled water is preferred for
+agar [[water-activity-osmophilic-fungal-media-preparation]] to avoid introducing unknown contaminants.
+
+[[pf-tek-substrate-moisture-diagnosis-and-correction]] content itself can create conditions favorable to water-borne
+contaminants. Overly wet substrates with free-standing water provide ideal
+conditions for bacterial proliferation. Maintaining substrate moisture at 60-75%
+is a critical balance.
+
+## Vector 3: Substrate-Borne Contaminants
+
+Raw [[growing-gourmet-substrate-materials-wood-types]] — straw, sawdust, wood chips, grain, agricultural
+waste — carry their own communities of microorganisms. These native microflora
+include bacteria, yeasts, and wild fungi well-adapted to the substrate that
+will aggressively compete with cultivated [[antimicrobial-compounds-mushroom-mycelium]]. Without treatment,
+raw substrates will almost always be colonized by wild organisms before the
+cultivated species can establish itself.
+
+Two primary methods reduce substrate-borne contaminants. Pasteurization involves
+heating the substrate to 60-80°C for a sustained period (typically 1-2 hours at
+temperature, with the total cycle lasting 6-12 hours). Pasteurization kills
+most competitors while preserving heat-resistant beneficial bacteria that help
+defend against subsequent contamination. This method suits aggressive
+colonizers like oyster [[query-how-to-grow-mushrooms-on-straw]].
+
+Sterilization involves heating the substrate to 121°C under pressure
+(typically 15 psi in an autoclave or [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]) for 60-90 minutes. This
+kills virtually all organisms including heat-resistant endospores. Sterilization
+is required for supplemented substrates because added nutrients (bran, grain)
+make the substrate attractive to a wider range of competitors. Stamets notes
+that improperly sterilized supplemented substrates are among the most common
+sources of contamination failures.
+
+## Vector 4: Vector-Borne Contamination
+
+Insects and other small arthropods are active carriers of mold spores and
+bacteria. Fungus gnats (Sciaridae), phorid flies, and mites (Acari) are the
+most troublesome vectors in mushroom cultivation facilities. These insects are
+attracted to the moist, nutrient-rich environment of mushroom cultures. As they
+move between containers, they physically transport contaminant spores on their
+bodies and in their digestive tracts.
+
+A single fungus gnat can carry thousands of spores, depositing them across
+multiple cultures in a single evening. Mites are particularly insidious because
+they are barely visible and can crawl through filter patches and ventilation
+openings that block larger insects.

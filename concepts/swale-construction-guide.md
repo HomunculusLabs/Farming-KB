@@ -66,3 +66,20 @@ See also [[swale-design-construction]] for additional technical detail, permacul
 ## Related
 
 - [[permaculture-earthworks-guide]] — Permaculture Earthworks Guide covers the broader context of earthworks including swales, ponds, and terraces.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[swale-design-and-earthwork-construction]]
+- [[comparison-dam-construction-vs-swale-design]]
+- [[holzer-terrace-construction-guide]]
+- [[natural-farming-guide-swale-water-management]]
+- [[swale-design-construction]]

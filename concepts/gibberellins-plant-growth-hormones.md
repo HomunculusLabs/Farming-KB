@@ -61,7 +61,7 @@ hydrolytic enzymes — principally α-amylase, plus proteases and
 β-glucanases. α-Amylase breaks down endosperm starch into sugars,
 fueling embryo growth. The mechanism involves GA binding the GID1
 receptor, causing DELLA degradation, which derepresses GAMYB
-transcription factors that activate α-amylase genes. Abscisic acid
+transcription factors that activate α-amylase genes. [[abscisic-acid-plant-stress-hormone]]
 antagonizes this process; the GA:ABA ratio determines whether
 germination proceeds.
 
@@ -74,7 +74,7 @@ xyloglucan endotransglucosylase/hydrolases). In biennial rosette plants,
 inductive conditions trigger a GA surge causing bolting — rapid stem
 elongation preceding flowering. GA-deficient mutants (maize d1/d5, rice
 d18, Arabidopsis ga1-3) show severe dwarfism. Bamboo's extraordinary
-growth rate (up to 90 cm/day) is driven by massive GA production.
+[[soil-temperature-plant-growth-rate-doubling-rule]] (up to 90 cm/day) is driven by massive GA production.
 
 ## Flowering and Fruit Development
 
@@ -87,35 +87,3 @@ Seedless grapes through cluster elongation and berry enlargement. GA
 is also used in citrus for rind quality and in apples for thinning.
 
 ## Signaling Pathway
-
-The pathway centers on the GID1-DELLA-SCF module. The GID1 nuclear
-receptor binds bioactive GA, undergoing a conformational change that
-creates a surface for binding DELLA proteins — nuclear GRAS-family
-repressors named for their conserved Asp-Glu-Leu-Leu-Ala motif. The
-GID1-GA-DELLA ternary complex is recognized by the SCFᵂᴿᴷʸ E3
-ubiquitin ligase (F-box proteins SLY1 in Arabidopsis, GID2 in rice),
-leading to DELLA polyubiquitination and 26S proteasome degradation.
-This releases growth-promoting transcription factors (PIFs, BZR1) from
-repression, activating [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and division genes.
-
-## Deactivation and Homeostasis
-
-GA 2-oxidase (GA2ox) converts bioactive GAs to inactive forms by C-2
-hydroxylation. Multiple GA2ox genes exist (20 in rice, 7 in
-Arabidopsis). Homeostasis is maintained through negative feedback: high
-GA downregulates GA20ox/GA3ox while upregulating GA2ox. Environmental
-signals — light via phytochrome, temperature, salt, and drought stress
-— modulate GA metabolism, reducing growth under unfavorable conditions.
-
-## Hormone Crosstalk
-
-Auxin promotes GA biosynthesis by upregulating GA20ox and GA3ox via ARF
-transcription factors. GA and ABA are mutually antagonistic: ABA
-upregulates GA2ox under drought while GA degrades DELLAs to promote
-growth. GA interacts synergistically with cytokinins in shoot growth
-and with [[tompkins-magnetism-plant-growth]]
-- [[plant-hormones-and-chemical-signaling-systems]]
-
-## See Also
-
-- [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]

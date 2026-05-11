@@ -3,6 +3,7 @@ title: "ingham microscope identification soil biology of Soil Biology"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "Elaine Ingham, The Field Guide for Actively Aerated Compost Tea"
 type: concept
 tags: [soil]
@@ -87,21 +88,3 @@ Some microorganisms can assume different forms throughout their life cycles. Kil
 3. Transfer to DIC microscope for species identification
 4. Prepare soil dilutions for bacteria, fungi, and protozoa counts
 5. Apply activity stain to distinguish living from dead organisms
-6. Measure hyphal diameters for fungal community assessment
-7. Assess root samples for mycorrhizal colonization
-8. Compare against desired organism levels for the specific soil type and plant community
-
-## Root-Feeding Nematode Management
-
-If root-feeding nematodes (particularly lesion nematode) are detected, use non-host cover crops to reduce populations. With proper tea applications and non-host crop rotation, root-feeder populations can drop from approximately 100 per gram to undetectable levels in about 6 months.
-
-## See Also
-
-- [[ingham-pleomorphism-microorganism-identification]]
-
-- [[ingham-leaf-surface-biology-exudates]]
-
-- [[aact-compost-organism-levels]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[aact-compost-quality-standards-ingham]]
-- [[ingham-cover-crops-soil-biology]]

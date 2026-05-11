@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schuster, R.M. (1969). "The Hepaticae and Anthocerotae of North America, Vol. 2." Columbia University Press.
+  - Schuster, R.M. (1969). "The Hepaticae and Anthocerotae huckleberries-and-wild-berries-of-north-america, Vol. 2." Columbia University Press.
   - Paton, J.A. (1999). "The Liverwort Flora of the British Isles." Harley Books.
   - Damsholt, K. (2002). "Illustrated Flora of Nordic Liverworts and Hornworts." Nordic Bryological Society.
   - Söderström, L. et al. (2016). "World checklist of hornworts and liverworts." PhytoKeys, 59, 1–89.
@@ -57,7 +57,7 @@ Rhizoids are confined to the ventral stem surface near the underleaf insertions.
 
 Jungermannia subulata has a scattered but widespread distribution across Europe and North America. In Europe, it is recorded from the British Isles, Scandinavia, central Europe, and the Mediterranean region.
 
-In North America, the species occurs from eastern Canada and New England west through the Great Lakes region. Disjunct populations are reported from the Rocky Mountains and Pacific Northwest.
+In North America, the species occurs from eastern Canada and New England west through the Great Lakes region. Disjunct populations are reported from the Rocky Mountains and [[psilocybin-north-america-pacific-northwest]].
 
 The species is an obligate calcicole, growing exclusively on calcium-rich substrates. Typical habitats include damp limestone outcrops, base-rich mortar in old stone walls, limestone talus, and calcareous soil along stream banks.
 
@@ -77,9 +77,9 @@ Gemmae have not been documented in *J. subulata*, which limits its dispersal cap
 
 Sexual reproduction produces perianths intermittently, with sporophytes observed most frequently during moist, cool growing seasons. Capsule dehiscence occurs in late summer, releasing spores that are dispersed by wind.
 
-Spore viability declines rapidly under dry storage conditions. Fresh spores sown on calcareous agar substrates germinate within 2–4 weeks under controlled conditions.
+Spore viability declines rapidly under dry [[spawn-storage-conditions]]. Fresh spores sown on calcareous agar substrates germinate within 2–4 weeks under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]].
 
-The species supports diverse microbial communities within its thallus, including nitrogen-fixing cyanobacteria that contribute to nutrient cycling on otherwise nutrient-poor limestone surfaces.
+The species supports diverse [[cannabis-rhizosphere-microbial-communities]] within its thallus, including nitrogen-fixing cyanobacteria that contribute to [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] on otherwise nutrient-poor limestone surfaces.
 
 ## Conservation Status
 
@@ -88,34 +88,3 @@ Jungermannia subulata is not globally threatened but is considered rare or uncom
 The primary threat is habitat loss through quarrying of limestone formations and demolition of old stone walls. Both activities directly destroy the calcareous substrates the species requires.
 
 Air pollution, particularly acid deposition, threatens populations by reducing the pH of calcareous substrates over time. Acidified substrates become unsuitable for this obligate calcicole, leading to local population declines.
-
-The species' restricted dispersal ability and substrate specificity make natural recolonization of disturbed sites unlikely. Conservation efforts focus on protecting existing populations and their calcareous habitats.
-
-Climate change may affect populations through altered precipitation patterns. Increased frequency of summer drought could reduce the moisture levels required for growth and reproduction in exposed limestone habitats.
-
-## Related Species
-
-The genus *Jungermannia* in its modern sense contains approximately 60 species worldwide, though many species historically assigned to this genus have been transferred to other genera.
-
-- *Jungermannia atrovirens* — dark green, larger leaves, more widespread on acidic substrates; the most common *Jungermannia* species in Europe
-- *Jungermannia lanceolata* — lanceolate leaves, less strongly falcate, found on both calcareous and acidic substrates
-- *Jungermannia leiantha* — larger plants, translucent leaves with entire margins; predominantly a western North American species
-
-*Jungermannia subulata* is distinguished from congeners by its narrow, strongly falcate-subulate leaves, calcicolous habit, and small plant size. The combination of awl-shaped leaves and restriction to calcium-rich substrates is diagnostic.
-
-Several species formerly placed in *Jungermannia* have been transferred to *Solénostoma*, *Nardia*, and *Plectocolea* based on molecular phylogenetic evidence. The redefined genus *Jungermannia* sensu stricto is considerably smaller than its historical circumscription.
-
-Molecular clock analyses suggest the genus diverged from its closest relatives during the late Cretaceous, approximately 70–80 million years ago, coinciding with the diversification of angiosperm forests that provided new epiphytic niches.
-
-## See Also
-
-- [[ptilidium-ciliare]]
-- [[barbilophozia-barbata]]
-- [[marchantia-polymorpha]]
-- [[bryum-argenteum]]
-- [[funaria-hygrometrica]]
-- [[sphagnum-palustre]]
-- [[polytrichum-commune]]
-- [[hypnum-cupressiforme]]
-- [[pleurozium-schreberi]]
-- [[dicranum-scoparium]]

@@ -3,14 +3,14 @@ title: Xerophilic and Xerotolerant Fungi
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology], fungi]
+tags: [[mycology]], fungi]
 sources: []
 ---
 # Xerophilic and Xerotolerant Fungi
 
 ## Overview
 
-Xerotolerant and [[biodiversity-xerophilic-fungi-dry-environments]] are designated for their abilities to grow on substrata where low matrix potential, rather than osmotic stress from sugars and salts, accounts for low water activity. Pitt (1975) defined a xerophilic fungus as one that would grow at a water activity (aw) below 0.85 under at least one set of environmental conditions. These fungi are critical in food science, arid ecology, and indoor environments.
+Xerotolerant and [[biodiversity-xerophilic-fungi-dry-environments]] are designated for their abilities to grow on substrata where low matrix potential, rather than osmotic stress from sugars and salts, accounts for [[osmophilic-osmotolerant-fungi-low-water-activity]]. Pitt (1975) defined a xerophilic fungus as one that would grow at a water activity (aw) below 0.85 under at least one set of environmental conditions. These fungi are critical in food science, arid ecology, and indoor environments.
 
 ## Water Activity Concepts
 
@@ -44,7 +44,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,23 +88,3 @@ better results with each iteration of practice and experimentation.
 ## Integration and Future Development
 
 The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[water-activity-osmophilic-fungal-media-preparation]]
-- [[aspergillus-fumigatus-population-genetics]]
-- [[mycelium-running-filtering-water-with-fungi]]

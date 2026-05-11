@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-G-5
 
-PIHKAL entry #30. 3,4-Norbornyl-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #30. 3,4-Norbornyl-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -73,7 +73,7 @@ gleaned from the absolute configurations of active agonists, here is a
 compound where the subtle variations are over there at the ring
 substitution area of the structure, rather than at the well-explored
 alpha-carbon atom. Some day I might try to resolve this drug into its
-optical isomers. But I suspect that it might be quite difficult.
+[[optical-isomers-psychedelic-phenethylamines]]. But I suspect that it might be quite difficult.
 
 A number of chemical variations of 2C-G-5 are obvious. The
 dihydroxybenzonorbornane compound that was the starting point of all
@@ -89,34 +89,5 @@ one-carbon bridge of norbornane and, after hydrogenation, would
 To a stirred solution of 25 g 3,6-dihydroxybenzonorbornane
 (from Eastman Kodak Company) in 200 mL acetone there was added 200 mg
 
-decyltriethylammonium iodide, 40 g of powdered anhydrous K2CO3, and 55
-g methyl iodide. The mixture was held at reflux with a heating mantle
-overnight. After re-moval of the solvent under vacuum, the residue
-was added to 2 L of H2O, acidified with concentrated HCl, and
-extracted with 3x100 mL CH2Cl2. The pooled extracts were washed with
-2x150 mL 5% NaOH and once with dilute HCl, and the solvent was removed
-under vacuum to give 19.0 g of a black oil as a residue. This was
-distilled at 90-115 deg C at 0.3 mm/Hg to yield 15.5 g of an orange oil
-which set up as a crystalline solid. The product,
-3,6-dimethoxybenzonorbornane, had a mp of 35-37 deg C from hexane or
-40-41 deg C from MeOH. Anal. (C13H16O2) C,H.
-
-A solution of 4.6 g POCl3 and 4.6 g N-methylformanilide was heated
-briefly on the steam-bath until the color had become deep claret.
-There was then added 3.05 g of 3,6-dimethoxybenzonorbornane and the
-solution was heated on the [[scythian-cannabis-steam-bath-ritual]] for 12 h. The black, tarry
-reaction mixture was poured into H2O, and after hydrolysis, the H2O
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-g-n-entity-pihkal]] -- 2C-G-N (PIHKAL #31)
+- [[methyl-j-entity-pihkal]]

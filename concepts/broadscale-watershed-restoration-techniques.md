@@ -88,31 +88,3 @@ Swales and straw terraces work best if their ends are anchored by a
 tree or bush. Without anchoring, water is likely to erode around the
 ends of these structures, eventually undermining them. A tree or shrub
 at each end acts as a living anchor, with roots that hold the soil
-and prevent water from bypassing the structure. Plant native species
-that are adapted to local conditions, as they will establish more
-reliably and require less maintenance than introduced species.
-
-## Urban Applications of Restoration
-
-These restoration principles work in urban environments as well. In
-Tucson, Arizona, people marked the contours of a gently sloping
-parking lot, removed a three-foot wide section of asphalt along those
-contour lines, and planted native trees in the openings. The runoff
-from the rest of the parking lot watered the trees. Similar techniques
-can be applied by busting up driveways to divert street water to
-street trees, or removing pavement from low spots in asphalt-covered
-lots to plant water-harvesting trees.
-
-In urban areas, guerrilla gardeners can plant native species that
-survive on local rainfall, bringing the natural world into the heart
-of the city. The trees' roots reach deep into the soil to hold it in
-place, tapping into underground water sources and sharing nutrients
-along webs of [[tree-canopy-fungal-sampling-techniques]]
-
-- broadscale-permaculture-techniques-mollison
-
-## See Also
-
-- [[urban-broadscale-restoration-watershed-repair]]
-- [[building-soil]]
-- [[broadscale-restoration-watershed-repair]]

@@ -87,29 +87,3 @@ Its [[dighton-fungal-drought-tolerance-plant-water-relations]] and ability to co
 In Ayurvedic medicine, C. spinosa (known as *Karira* or *Kabra*) is used for treating boils, swellings, spleen enlargement, and paralysis. The root bark is considered the most potent part and is prescribed in decoctions for inflammatory conditions.
 
 In Unani (Greco-Arabic) medicine, the plant is classified as hot and dry in temperament. It is used to treat gout, rheumatism, paralysis, and sciatica. The buds are administered as a digestive stimulant and diuretic.
-
-Chinese traditional medicine uses caper root (*Mu-Gua-Pi*) for dispelling wind-dampness and relieving pain in joints and sinews. It is a common ingredient in formulas for arthritic conditions and traumatic injuries.
-
-Across the Mediterranean, folk applications include using caper root poultices for snakebites, scorpion stings, and skin ulcers. The bark extract is applied topically for hemorrhoids and anal fissures in Italian folk medicine.
-
-These diverse ethnopharmacological traditions span at least three continents and date back several millennia. The consistency of anti-inflammatory and analgesic applications across cultures supports the presence of bioactive anti-inflammatory compounds.
-
-## Related Species
-
-Several Capparis species are closely related and occasionally confused with C. spinosa. C. sicula is distinguished by its spiny fruits and smaller flowers, found in the eastern Mediterranean.
-
-C. orientalis, the oriental caper, ranges from Central Asia to northwest China. It differs in having narrower leaves, fewer stamens, and a preference for continental climates with colder winters.
-
-C. decidua (the karir or leafless caper) is a distinctive leafless or nearly leafless shrub from arid regions of India and Pakistan. It is an important browse species for livestock in the Thar Desert.
-
-C. ovata, native to South Africa, has larger ovate leaves and is used locally for food and medicine. It demonstrates the genus-wide pattern of glucosinolate-rich buds used as condiments.
-
-The taxonomic boundaries within Capparis section Capparis remain contentious. Some authorities recognize C. spinosa as a species complex encompassing several morphologically variable subspecies across its range.
-
-## See Also
-
-- [[rosmarinus-officinalis-entity]]
-- [[origanum-vulgare-entity]]
-- [[pimpinella-anisum]]
-- [[aloe-vera]]
-- [[glycyrrhiza-glabra]]

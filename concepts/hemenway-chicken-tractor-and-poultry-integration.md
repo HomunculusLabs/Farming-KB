@@ -1,5 +1,5 @@
 ---
-title: "[[comparison-chicken-tractor-vs-free-range]] and Poultry Integration"
+title: Hemenway Chicken Tractor And Poultry Integration
 created: 2026-04-28
 tags: [permaculture, poultry, chickens, animal-integration, small-livestock]
 date: 2026-04-25
@@ -10,8 +10,8 @@ type: concept
 # Chicken Tractor and Poultry Integration
 
 Integrating small livestock into the garden is one of the most productive
-strategies in ecological design. Chickens, ducks, rabbits, and other small
-animals provide fertilizer, pest control, soil tilling, weed management, and
+strategies [[pattern-understanding-in-ecological-design]]. Chickens, ducks, rabbits, and other small
+animals provide fertilizer, [[hamilton-beneficial-insects-and-biological-pest-control]], soil tilling, [[fukuoka-natural-weed-management]], and
 food while converting kitchen scraps and yard waste into useful products. The
 key tool for successful integration is the animal tractor, a mobile pen that
 concentrates animal labor exactly where the gardener needs it.
@@ -32,7 +32,7 @@ Small animals in the garden can:
 - **Till and aerate** soil through scratching and rooting behavior
 - **Clip grass and weed** by grazing on unwanted vegetation
 - **Eat kitchen scraps** and leftovers, reducing waste
-- **Hunt insects and slugs** as a natural pest control service
+- **Hunt insects and slugs** as a [[jeavons-natural-pest-control]] service
 - **Process compost and yard waste** more efficiently than composting alone
 - **Warn of intruders** (some species are excellent alarm animals)
 - **Provide food** in the form of eggs, meat, or both
@@ -57,7 +57,7 @@ small space, which is the key to successfully melding animals and gardens.
 
 ## Chicken Tractor Construction
 
-[[query-how-to-design-a-chicken-tractor-system]] is a bottomless pen on wheels that fits over a garden bed.
+[[query-how-to-design-a-chicken-tractor-system]] is a bottomless pen on wheels that fits over a [[garden-bed-designs]].
 
 ### Typical Dimensions
 
@@ -88,62 +88,3 @@ In Colorado, Jerome Osentowski attached a chicken coop to his greenhouse,
 creating a remarkably productive integrated system:
 
 - Birds' body heat warms the greenhouse in winter
-- Carbon dioxide from their breath stimulates plant growth
-- Manure provides fertilizer for greenhouse crops
-- Natural scratching behavior weeds and tills garden beds
-- Chickens eat bugs that might otherwise damage greenhouse plants
-
-This type of integration exemplifies the [[permaculture-principle-apply-self-regulation]] that each
-element should perform multiple functions and each function should be supported
-by multiple elements.
-
-## Zone Placement
-
-[[hemenway-worm-bin-rabbit-integration]] for integration strategies.
-
-### Pigeons and Quail
-
-Historically important urban livestock. Pigeons were once raised for meat and
-their guano was valued as fertilizer.
-
-### Guinea Fowl
-
-Aggressive insect hunters, particularly effective against ticks. However,
-they can be too noisy for urban settings.
-
-## Practical Considerations
-
-- **Check local ordinances:** Many towns still restrict or prohibit livestock,
-  though anti-chicken ordinances have been toppling in recent years
-- **Neighbor relations:** Supplying neighbors with occasional eggs or meat can
-  quiet concerns about noise or smell
-- **Predator protection:** Secure housing at night is essential; many predators
-  including raccoons, foxes, and owls will prey on poultry
-- **Rotation:** Move tractors regularly to prevent over-concentration of manure
-  in one spot and to give the birds fresh forage
-- **Water access:** Animals need clean water daily, which can be integrated
-  with garden design for optimal animal placement
-- [[hemenway-garden-design-process-observation-and-visioning]] for integrating
-  animals into the overall design
-- [[hemenway-greywater-design-philosophy]] for water systems that can support
-  poultry
-
-## Duck Integration in Permaculture Systems
-
-Ducks offer several advantages over chickens in certain permaculture contexts.
-Their flat bills are adapted for foraging on slugs and snails, making them
-exceptional biological pest controllers in garden systems plagued by these
-pests. Ducks are also more cold-tolerant than chickens and continue laying
-through winter months in many climates.
-
-Key differences from [[mollison-designers-chicken-tractors-egg-production]] include:
-
-- **Water requirements:** Ducks need access to water for drinking and
-  foraging. A small pond or kiddie pool in the tractor area supports natural
-  feeding behavior
-- **Soil impact:** Duck manure is wetter and more nitrogen-rich than chicken
-  manure, requiring shorter rotation intervals to prevent nitrogen burn
-- **Foraging style:** Ducks dabble in shallow water and mud, making them
-  ideal for integrating with pond edges and wetland garden zones
-- **Egg production:** Khaki Campbell ducks can lay 300+ eggs per year,
-  rivaling the most productive chicken breeds

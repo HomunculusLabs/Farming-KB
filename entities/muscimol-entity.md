@@ -8,18 +8,18 @@ tags:
   - isoxazole
   - entheogen
   - neuropharmacology
-  - amanita
+  - [[amanita]]
   - sedative
   - oneirogen
-  - ibotenic-acid
+  - [[ibotenic-acid]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Waser, P.G. (1967). "The pharmacology of allegro-amanita-muscaria-properties-and-pharmacology." In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service Publication.
-  - Chilton, W.S. et al. (1979). "amanita-muscaria-muscimol-ibotenic-acid-pharmacology and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
+  - Chilton, W.S. et al. (1979). "[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
   - https://pubchem.ncbi.nlm.nih.gov/compound/4265 (muscimol CID 4265)
   - Bowden, K. & Drysdale, A.C. (1965). "The structure of muscimol." Tetrahedron Letters.
-  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging metzner-ayahuasca-therapeutic-potential." Frontiers in Pharmacology.
+  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging [[metzner-ayahuasca-therapeutic-potential]]." Frontiers in Pharmacology.
 ---
 
 # Muscimol
@@ -28,7 +28,7 @@ sources:
 
 **Muscimol** (5-aminomethyl-3-hydroxyisoxazole) is a naturally occurring psychoactive compound and the principal pharmacologically active constituent of **[[fly-agaric]]) and related *Amanita* species. It is a **potent and selective GABA_A receptor agonist**, making it pharmacologically distinct from all classical psychedelics, which act primarily on [[psilocybin-pharmacology-and-serotonin-receptors]]. Muscimol produces sedative, hypnotic, dissociative, and oneirogenic (dream-enhancing) effects, and has recently attracted significant commercial interest as an ingredient in psychoactive edibles and wellness products.
 
-Muscimol was first isolated in 1964 by Japanese chemists and independently by Swiss researchers. It is formed biosynthetically from **[[amanita-muscaria-entity]]
+Muscimol was first isolated in 1964 by Japanese chemists and independently by Swiss researchers. It is formed biosynthetically from **[[amanita-muscaria]]
 - ibotenic-acid-entity
 ## Practical Applications
 
@@ -87,25 +87,3 @@ Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
 outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-## See Also
-- [[4-ho-dpt-entity-tihkal]]

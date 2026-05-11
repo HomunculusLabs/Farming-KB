@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - "raw/papers/holzer-desert-or-paradise.md"
 ---
 
@@ -87,36 +88,3 @@ Developed by the Jajarkot Permaculture Program in Nepal, adapted for North Ameri
 - Which species attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]?
 - Which species deter pests?
 - What is the harvest timing for each species?
-
-### Building Blocks
-- **Fast growers** (radishes, arugula, buckwheat, mustard greens) -- first harvest, soil protection
-- **Legumes** (beans, peas, favas, clover) -- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
-- **Umbellifers** (dill, fennel, coriander, cilantro) -- beneficial insect attraction
-- **Alliums** (onions, garlic, chives, leeks) -- pest deterrence
-- **Brassicas** (cabbage, broccoli, cauliflower, kale) -- long-season crops
-- **Root crops** (carrots, parsnips, beets, turnips) -- different root depths
-- **Herbs** (basil, oregano, thyme) -- culinary use, pest deterrence
-
-## Climate Considerations
-
-A polyculture that succeeds in one climate may bolt or bake in another. Consider:
-- Length of growing season
-- Summer heat intensity
-- Spring and fall frost dates
-- Rainfall patterns
-- Soil type and fertility
-
-Northern gardeners can extend productivity with spun row cover or greenhouse plastic over beds.
-
-## See Also
-
-- polyculture design principles
-- permaculture-plant-guilds
-- permaculture-companion-planting
-- [[permaculture-crop-rotation]]
-- hemenway-food-forest-design
-
-- hemenway-zone-and-sector-planning
-- [[permaculture-design]]
-- [[hemenway-apple-tree-guild-design]]
-- [[gaias-garden-meadow-polyculture-design]]

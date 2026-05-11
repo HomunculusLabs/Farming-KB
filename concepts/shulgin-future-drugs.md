@@ -9,7 +9,7 @@ sources:
 ---
 # Shulgin -- Drugs of Abuse in the Future
 
-Alexander Shulgin's "Drugs of Abuse in the Future" (Clinical Toxicology, 1975) is a prescient analysis of pharmacological families likely to produce future drugs of abuse. Written before the research chemical era, Shulgin systematically mapped the chemical space of opiates, stimulants, depressants, and hallucinogens -- predicting many developments that would unfold over subsequent decades.
+[[alexander-shulgin]]'s "Drugs of Abuse in the Future" (Clinical Toxicology, 1975) is a prescient analysis of pharmacological families likely to produce future drugs of abuse. Written before the research chemical era, Shulgin systematically mapped the chemical space of opiates, stimulants, depressants, and hallucinogens -- predicting many developments that would unfold over subsequent decades.
 
 ## Core Thesis
 
@@ -17,7 +17,7 @@ Shulgin argued that authorities wrongly assume the drug abuse situation has reac
 
 ## Opiates and Future Heroin Substitutes
 
-Shulgin documented thousands of potential morphine/heroin substitutes across multiple chemical families:
+Shulgin documented thousands of potential [[morphine]]/heroin substitutes across multiple chemical families:
 
 - **Oripavine derivatives** (from thebaine, ~1% of raw opium) -- exceed morphine potency by four orders of magnitude. Ethorphine (M-99) used for immobilizing wild animals
 - **Morphinans** -- phenethylamine analogs showed 20-40x morphine potency in primate evaluation; submilligram amounts could serve as heroin substitutes
@@ -33,7 +33,7 @@ Shulgin cataloged the amphetamine landscape and its extensions:
 - Amphetamine and methamphetamine cost approximately 2 cents per dosage unit to produce
 - Methylphenidate (Ritalin) and its reversed-ester analogs represent unexplored territory
 - **Prodrug masking** -- compounds like fenethylline (Captagon) are metabolically cleaved into amphetamine in vivo, potentially evading detection
-- Ephedrine analogs and pipradrol derivatives offer additional stimulant variants
+- [[ephedrine]] analogs and pipradrol derivatives offer additional stimulant variants
 - Cocaine synthesis from scratch is tedious but procedures exist in the literature for decades
 
 ## Depressants
@@ -50,7 +50,7 @@ Shulgin identified three chemically and experientially distinct classes:
 
 ### Indoles (DMT, Harmaline, LSD family)
 - Characterized by distortions and illusions arising from within the subject
-- Tryptamine and carboline chemistry relatively accessible through synthesis
+- [[tryptamine]] and [[beta-carboline-chemistry]] relatively accessible through synthesis
 - 5-methoxy-DMT orally active; alpha-methyl-5-methoxytryptamines largely unexplored
 - 6-methoxy dihydroharman group (synthetic carbolines) more potent than natural 7-methoxy counterparts
 - LSD structural modifications (methylation, acetylation of indolic nitrogen) produce equally potent compounds outside existing law -- yet these have never appeared on the illicit market
@@ -86,26 +86,5 @@ Shulgin critiqued the terminology itself:
 ## OTC and Prescription Drug Abuse
 
 Shulgin warned about abuse potential in legal drugs:
-- Dextromethorphan (10-20x normal dose produces dissociative intoxication)
+- [[dextromethorphan]] (10-20x normal dose produces dissociative intoxication)
 - Polypharmacy interactions are unpredictable and increasing
-- Ethnopharmacological "legal high" experimentation is continuous but rarely produces lasting drug problems
-
-## Historical Significance
-
-Written in 1975, this paper preceded:
-- The research chemical / designer drug era
-- The fentanyl crisis
-- The widespread appearance of novel synthetic cannabinoids and cathinones
-- The scheduling cat-and-mouse game of the 21st century
-
-Shulgin's systematic mapping of chemical-pharmacological space proved remarkably accurate. His framework for understanding how drug abuse evolves through chemical innovation remains relevant.
-
-## See Also
-
-- [[ayahuasca-tourism-ethics]] -- real-world implications of traditional psychoactive practices
-
-## Related
-
-- [[building-with-natural-materials]]
-- [[mckenna-heroin-cocaine-and-synthetic-drugs]]
-- [[natural-building-materials-guide]]

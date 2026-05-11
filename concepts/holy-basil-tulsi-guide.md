@@ -14,30 +14,30 @@ sources: []
 Holy basil, known as Tulsi in Hindi, is a sacred plant in Hinduism and one
 of the most important herbs in Ayurvedic medicine. Referred to as "the
 incomparable one" or "the queen of herbs," tulsi has been cultivated for
-over 3,000 years throughout the Indian subcontinent and Southeast Asia. (see [[echinacea-growing-guide]]).
+over 3,000 years throughout the Indian subcontinent and Southeast Asia.
 There are three primary varieties used medicinally: Krishna tulsi (purple
 leaves), Rama tulsi (green leaves), and Vana tulsi (wild-type, tall and
 camphor-scented). All share adaptogenic, immunomodulating, and stress-
-reducing properties. (see [[medicinal-herb-growing]]).
+reducing properties.
 
 ## Botanical Profile
 
 - Scientific name: Ocimum sanctum (syn. O. tenuiflorum)
 - Family: Lamiaceae (mint family)
 - Hardiness: USDA zones 10-11 (grown as annual in all other zones)
-- Lifecycle: Tender perennial, grown as annual in temperate climates
+- Lifecycle: Tender perennial, grown as annual [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - Height: 1-3 feet depending on variety
 - Bloom period: Summer through fall
 
 Primary varieties:
 - Krishna tulsi (O. sanctum 'Krishna'): Dark purple-green leaves, peppery
-  clove-like flavor, compact bushy habit. Highest eugenol content. (see [[hawthorn-berry-guide]]).
+  clove-like flavor, compact bushy habit. Highest eugenol content.
 - Rama tulsi (O. sanctum 'Rama'): Green leaves, milder flavor, slightly
   taller than Krishna. Most commonly available variety.
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
   camphor-like aroma. More frost-tolerant than other varieties.
 
-Note: Tulsi is distinct from culinary sweet basil (Ocimum basilicum), though
+Note: Tulsi is distinct from culinary sweet basil ([[ocimum-basilicum]]), though
 they are in the same genus. Tulsi is more medicinal, more intensely aromatic,
 and has a different flavor profile.
 
@@ -56,7 +56,7 @@ Key medicinal applications:
   Traditional use during cold and flu season; may reduce frequency and
   severity of respiratory infections.
 - Anti-inflammatory: Potent anti-inflammatory action comparable to NSAIDs
-  for mild inflammatory conditions.
+  for mild [[cannabis-for-inflammatory-conditions]].
 - Respiratory health: Traditional remedy for coughs, colds, bronchitis,
   and asthma. A warm tulsi tea is a classic home remedy for congestion.
 - Blood sugar regulation: May improve fasting blood glucose and HbA1c
@@ -71,7 +71,7 @@ Key medicinal applications:
 Traditional Ayurvedic uses include fever reduction, digestive disorders,
 headache, eye disorders, insect bites, and as a general longevity tonic.
 
-Preparation methods:
+[[amanita-muscaria-preparation-methods]]:
 - Tulsi tea: The most popular daily preparation. Steep 1-2 teaspoons dried
   leaves in hot water for 5-10 minutes. Drink 1-3 cups daily.
 - Fresh leaves: Chew 2-3 fresh leaves daily for immune support (traditional
@@ -96,7 +96,7 @@ Tulsi is a tropical plant that thrives in warm conditions:
 - Light: Full sun (6-8 hours minimum)
 - Soil: Prefers fertile, well-drained loam, pH 6.0-7.5
 - Water: Allow soil to dry slightly between waterings
-- Growing season: 90-120 days from seed to harvest
+- Growing season: 90-120 days from [[query-how-to-grow-chili-peppers-from-seed-to-harvest]]
 
 ### Starting from Seed
 

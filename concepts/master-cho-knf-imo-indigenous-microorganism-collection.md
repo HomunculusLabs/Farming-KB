@@ -1,5 +1,5 @@
 ---
-title: Master Cho's IMO Collection Guide
+title: Master Cho Knf Imo Indigenous Microorganism Collection
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,14 +14,14 @@ tags: [knf]
 
 ## Necessity of IMO
 
-Achieving the right soil conditions -- invigorating the life of the soil -- is the most important aspect of practical [[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal of natural farming is to revitalize increasingly desolate earth by reinstating these organisms to their original design.
+Achieving the right soil conditions -- invigorating the life of the soil -- is the most important aspect of practical [[comparison-natural-farming-vs-permaculture]]. The optimal living environment for microbes and small animals must be provided. The goal [[four-principles-of-natural-farming]] is to revitalize increasingly desolate earth by reinstating these organisms to their original design.
 
 ## Characteristics of IMO
 
 - **Decomposition ability**: IMO break down complex organic materials (plants, animals, excrements, [[hamilton-organic-fertilizers-and-plant-nutrition]]) into simpler compounds absorbable by plants.
 - **Catalysis of chemical processes**: Microorganisms produce numerous enzymes, antibiotics, organic acids, and complexes. Most chemical reactions in soil and plants rely on these enzyme catalysts.
 - **Ecosystem revitalization**: When soil is revitalized through IMO use, bacteria and fungi appear first, followed by nematodes, earthworms, mole crickets, and moles.
-- **[[aact-disease-suppression-mechanisms-ingham]]**: IMO convert weak soil into healthy soil by solubilizing trace minerals and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
+- **[[aact-disease-suppression-mechanisms-ingham]]**: IMO convert weak soil into healthy soil by solubilizing [[dynamic-accumulator-plants-trace-minerals]] and enhancing nutrient circulation. Recovered microbial diversity rapidly reduces disease occurrence.
 
 ## Collecting IMO (IMO #1)
 
@@ -30,7 +30,7 @@ Achieving the right soil conditions -- invigorating the life of the soil -- is t
 It is important to collect IMO in a place with characteristics most similar to the land being worked. Vegetation differs by altitude because microorganisms and their environments differ.
 
 - Prefer areas around plants whose roots contain sugar: near bamboo or broadleaf tree roots, leaf moulds near the field, or lawn grass roots.
-- Rice stumps are excellent: after harvest, sap rises to the stump top. Fungi and bacteria such as Aspergillus oryzae or Bacillus subtilis gather on the stump.
+- Rice stumps are excellent: after harvest, sap rises to the stump top. Fungi and bacteria such as [[aspergillus-oryzae]] or [[bacillus-subtilis]] gather on the stump.
 - Collect in a slightly barren area, 150-200m higher than the field altitude.
 - **South-facing slopes**: effective for summer crops (more sunshine).
 - **North-facing slopes**: effective for winter crops (less sunshine).
@@ -71,7 +71,7 @@ The empty 1/3 volume of the lunch box is fully covered by white microorganisms (
 3. Cover with paper, tie with rubber band.
 4. Maintain temperature at 23-25 deg C. Temperature rises above 40 deg C inside; consistency becomes like gruel.
 5. Process takes over 7 days. Stir in early morning during spring/fall.
-6. Storage: keep at 1-15 deg C with good air circulation. Watch for bubbles (signal of losing effectiveness).
+6. Storage: keep at 1-15 deg C with good [[stamets-growing-room-air-circulation-co2-management]]. Watch for bubbles (signal of losing effectiveness).
 
 ### IMO #3 (Pure Stock)
 
@@ -88,22 +88,3 @@ The empty 1/3 volume of the lunch box is fully covered by white microorganisms (
 1. Mix IMO #3 with soil (field soil 50%, mountain soil/loess 50%) in 1:1 ratio.
 2. Adjust moisture to 65-70% using OHN, FPJ, BRV, Mineral A, and seawater (x1/30).
 3. Same fermentation process as IMO #3. Takes 4-5 days.
-4. IMO work best when inoculated to soil.
-
-## Using IMO
-
-- **Soil foundation**: Scatter IMO #4 over field, minimum 150kg/ha. Apply 2-3 hours before sunset. For successive cropping disorder, treat 14 days before seeding.
-- **[[cho-fermented-mixed-compost-methods]] compost**: Mix with compost materials at 1:10 ratio, ferment 7-14 days.
-- **Liquid form**: Put IMO #4 in hemp cloth bag, soak at 1/500-1/1000 dilution. Prevents Fusarium wilt and damping-off.
-- **Livestock**: [[knf-agricultural-mineral-water]] water with IMO #4 enables healthy growth of pigs and chickens.
-
-## See Also
-
-- [[knf-imo-collection-methods]]
-
-- [[indigenous-microorganisms-imo]]
-- [[knf-oriental-herbal-nutrient]]
-- [[knf-mineral-liquid]]
-- [[knf-seed-treatment-and-soil-foundation]]
-- [[knf-preparations]]
-- [[monster-cropping]]

@@ -1,5 +1,5 @@
 ---
-title: "Mushroom [[fungal-spore-dispersal-mechanisms]]"
+title: Mushroom Spore Dispersal Mechanisms
 source: "[[mycelium-running-conservation-biology-and-fungi]] (Stamets)"
 tags: [mycology, spore-dispersal, fungal-ecology, mushroom-biology, mycology]
 created: 2026-05-09
@@ -88,45 +88,3 @@ germination by maintaining moisture.
 
 Raindrops hitting mushroom caps create splashes that can launch
 spores short distances. In [[fungal-roles-aquatic-environments]], specialized fungal
-spores (Ingoldian conidia) are shaped to maximize waterborne
-dispersal — tetraradiate (four-armed) or sigmoid configurations
-increase surface area and prolong suspension in flowing water.
-Rain also creates the humidity conditions necessary for spore
-release in many species.
-
-## Self-Dispersal Mechanisms
-
-Some fungi have evolved active spore release mechanisms beyond
-ballistic discharge:
-
-**Puffballs**: When mature, the slightest touch or raindrop impact
-causes puffballs to emit clouds of spores through an apical pore.
-The volume and visibility of this discharge makes puffballs among
-the most dramatic spore dispersers.
-
-**Pilobolus**: This dung fungus aims its spore-bearing sporangium
-toward light sources (typically the sky) and launches it with
-explosive force toward nearby vegetation, where passing herbivores
-will pick it up and carry it to fresh dung — perfectly targeting
-its required substrate.
-
-**Cup fungi**: Ascomycetes in cup-shaped fruiting bodies release
-spores when wind blows across the cup surface, creating miniature
-vortexes that loft spores upward. Raindrops splashing into cups
-also eject spores.
-
-## Germination Requirements
-
-Successful dispersal is only half the equation. Spores must then
-germinate under suitable conditions. Different species have different
-germination strategies. Oyster mushroom spores can germinate almost
-immediately upon landing on a suitable substrate. Shiitake spores
-often germinate more readily after a period of drying and rehydration
-— a strategy that may ensure germination coincides with favorable
-weather conditions.
-
-Germination typically begins at a specific site on the spore surface
-(the hilar appendix or germ pore). The emerging hypha grows by
-mitotic cell division, then seeks compatible hyphae from other spores
-for mating, establishing the dikaryotic mycelium that will eventually
-produce the next generation of mushrooms.

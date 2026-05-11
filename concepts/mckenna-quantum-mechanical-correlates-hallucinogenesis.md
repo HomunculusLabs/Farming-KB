@@ -1,5 +1,5 @@
 ---
-title: mckenna quantum mechanical correlates hallucinogenesis Correlates of Hallucinogenesis
+title: Mckenna Quantum Mechanical Correlates Hallucinogenesis
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -15,7 +15,7 @@ sources:
 In his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] and consciousness, Terence
 McKenna advanced a specific argument about the relationship between quantum
 mechanics and hallucinogenic activity. Drawing on the work of John Smythies,
-Alexander Shulgin, and others, McKenna pointed to the extraordinary sensitivity
+[[alexander-shulgin]], and others, McKenna pointed to the extraordinary sensitivity
 of hallucinogenic compounds to positional changes at the molecular level as
 evidence for a "dynamic linkage at the formative level between quantum
 mechanically described matter and mind." This argument positions hallucinogenesis
@@ -55,16 +55,16 @@ receive dramatically different ratings for intensity, duration, and character
 of effect.
 
 Smythies, a neuropsychiatrist who spent decades investigating the relationship
-between brain chemistry and consciousness, proposed theoretical frameworks in
+between [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]] and consciousness, proposed theoretical frameworks in
 which the quantum properties of neurotransmitter-receptor interactions might
-play a role in generating subjective experience. His work suggested that the
+play a role in generating [[dosage-unpredictability-psilocybin-subjective-experience]]. His work suggested that the
 [[tihkal-receptor-binding-serotonin]] event itself — a quantum mechanical interaction between the
 ligand molecule and the protein binding site — might be the critical juncture
 at which molecular events are transduced into phenomenological ones.
 
 ## The Tryptamine Specificity
 
-McKenna was particularly interested in why the tryptamine family — DMT,
+McKenna was particularly interested in why the [[tryptamine-family-overview]] — DMT,
 psilocybin, and their analogs — produced qualitatively different experiences
 from other hallucinogen classes such as the phenethylamines (mescaline, 2C-B)
 or the lysergamides (LSD). He noted that the tryptamines were distinguished
@@ -88,57 +88,3 @@ sensitivity argument.
 
 McKenna further argued that hallucinations and dreams should be considered
 quantum mechanical phenomena in their own right. His reasoning was that these
-states occur "when the large amounts of various sorts of radiation conveyed
-into the body by the senses are restricted." In the absence of overwhelming
-sensory input, the nervous system begins to process information at a more
-fundamental level, revealing "interior images and interior processes that are
-psycho-physical" and which "arise at the quantum mechanical level."
-
-This formulation is consistent with certain interpretations of quantum
-consciousness theories, which propose that the collapse of the quantum wave
-function — the transition from possibility to actuality — may be mediated by
-conscious observation. If the brain's normal waking state involves the
-processing of macroscopic sensory data, then the restriction of sensory input
-might allow quantum-level processes to become phenomenologically accessible.
-The hallucinogen, in this framework, does not create the experience so much
-as reveal processes that are always occurring but normally masked by sensory
-overload.
-
-## Comparison with Modern Receptor Pharmacology
-
-Modern psychopharmacology explains hallucinogen activity primarily through
-the serotonin 5-HT2A receptor partial agonism model, in which the affinity
-and efficacy of a compound at this receptor site determines its subjective
-effects. While this model has considerable predictive power, it does not fully
-explain why compounds with similar receptor binding profiles can produce such
-dramatically different experiential content, nor does it address the
-phenomenological specificity that McKenna emphasized.
-
-The quantum sensitivity argument can be seen as complementary to, rather than
-contradictory with, the receptor pharmacology model. The receptor binding
-event is itself a quantum mechanical interaction, and the precise
-conformational relationship between ligand and receptor — sensitive to
-single-atom positional changes — determines the downstream signal cascade.
-McKenna's contribution was to insist that this quantum-level specificity
-had implications not just for pharmacology but for our understanding of the
-relationship between matter and mind itself.
-
-## Implications for Consciousness Studies
-
-McKenna's quantum argument, while speculative, touches on enduring questions
-in consciousness studies. The "hard problem" of consciousness — how
-subjective experience arises from physical processes — remains unsolved, and
-the sensitivity of subjective experience to quantum-level molecular changes
-is a datum that any complete theory of consciousness must eventually account
-for. Whether one accepts McKenna's framing or not, the empirical observation
-that single-atom positional changes can switch a molecule from inert to
-profoundly psychoactive remains one of the most remarkable facts in
-psychopharmacology and deserves continued attention from researchers working
-at the intersection of physics, chemistry, and consciousness.
-
-## See Also
-
-- [[tryptamines-and-quantum-mechanics]] — broader treatment of this topic
-- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]] — modern receptor model
-- [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]] — McKenna's broader
-  consciousness theory

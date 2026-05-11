@@ -1,5 +1,5 @@
 ---
-title: "[[fungal-woronin-bodies-and-septal-pore-organization]] and Hyphal Septation"
+title: Gadd Woronin Bodies Hyphal Septation
 created: 2026-04-28
 tags: mycology, cell-biology, ascomycete, septal-pore, organelle
 date: 2026-04-25
@@ -11,14 +11,14 @@ type: concept
 
 Woronin bodies are specialized peroxisome-derived organelles unique to
 the Euascomycetes (Pezizomycotina) that maintain cellular integrity of
-filamentous fungi. They function as emergency plugs for septal pores,
+[[environmental-sensing-filamentous-fungi-read]]. They function as emergency plugs for septal pores,
 sealing off damaged hyphal compartments to prevent catastrophic loss of
 cytoplasm. Their discovery and functional analysis represent a
-fascinating chapter in fungal cell biology.
+fascinating chapter in [[chitin-chitosan-fungal-cell-wall]] biology.
 
 ## The Multicellular Fungal Hypha
 
-Fungi are one of three major clades of eukaryotic life that independently
+Fungi are one of three [[basidiomycota-classification-major-clades]] of eukaryotic life that independently
 evolved multicellular organization, radiating into terrestrial and aquatic
 niches from symbiotic to saprobic to pathogenic. Hyphae grow through
 polarized tip-extension of a tubular cell, partitioned by cross-walls
@@ -50,7 +50,7 @@ tethering mechanism.
 
 The septal pore regulates cytoplasmic continuity between adjacent
 compartments. It is surrounded by a specialized cell wall swelling
-(septal pore rim) providing the anchor for Woronin body tethering. In
+(septal pore rim) providing the anchor for [[hex1-protein-woronin-body-crystal-structure-euascomycetes]] tethering. In
 many species, the rim contains additional proteinaceous structures
 including retention apparatus and membrane-bound caps.
 
@@ -77,37 +77,14 @@ potentially regulated through alternative splicing.
 
 Woronin bodies contribute significantly to virulence. In Magnaporthe
 oryzae (rice blast), hex1 deletion mutants show reduced pathogenicity
-because damaged appressoria cannot maintain turgor pressure for host
+because damaged appressoria cannot maintain [[bloomfield-turgor-pressure-and-hyphal-invasion]] for host
 penetration. Loss of cytoplasmic integrity at the infection site directly
 compromises the mechanical force driving the penetration peg through the
 plant cuticle.
 
-In Aspergillus fumigatus (human pathogen), Woronin body function is
+In [[aspergillus-fumigatus]] (human pathogen), Woronin body function is
 linked to hyphal fragmentation and conidiophore production. The ability
 to seal damaged compartments may help the fungus survive immune attack by
 neutrophils through oxidative burst and extracellular traps. The chestnut
 blight fungus Cryphonectria parasitica also relies on Woronin bodies for
 maintaining colony integrity during hypovirus infection, which causes
-cytoplasmic dysregulation and altered Woronin body distribution.
-
-## Evolutionary Significance
-
-Woronin bodies are a synapomorphy of the Pezizomycotina, having evolved
-from peroxisomes through HEX-1 gene recruitment. The transition likely
-involved duplication and divergence of a peroxisomal matrix protein gene,
-acquisition of pore-targeting domains, and co-evolution with the septal
-pore apparatus. Basidiomycetes independently evolved dolipore septa with
-pore caps, suggesting strong selective pressure for sealing damaged
-compartments. The convergent evolution of distinct organelle-based plugging
-mechanisms in the two largest phyla underscores the fundamental importance
-of maintaining hyphal integrity.
-
-## Ecological and Applied Relevance
-
-Woronin bodies occur in all Euascomycete pathogens and may be attractive
-fungicide targets. Disrupting their function could render pathogens more
-susceptible to environmental stresses and host defenses.
-
-## See Also
-
-- [[amf-hyphal-anastomosis-self-recognition]]

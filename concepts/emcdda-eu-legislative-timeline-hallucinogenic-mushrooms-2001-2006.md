@@ -5,7 +5,7 @@
 Between 2001 and 2006, six European Union member states tightened their
 legislation specifically targeting hallucinogenic mushrooms. The EMCDDA
 (2006) documented this wave of legal responses as part of a broader
-case study on the emerging trend of recreational mushroom use in Europe.
+case study on the [[emcdda-epod-project-emerging-trend-detection-methodology]] of recreational mushroom use in Europe.
 The legislative actions reflected growing concern among governments about
 the marketing of mushrooms through smartshops, internet retailers, and
 market stalls, and they coincided with measurable increases in prevalence
@@ -21,9 +21,9 @@ and dried psilocybin-containing mushrooms through retail channels.
 
 **The Netherlands (2002)** represented the most significant legislative
 action given the country's role as the primary European hub for
-smartshop sales of hallucinogenic mushrooms. The Netherlands had long
+smartshop sales [[health-risks-of-hallucinogenic-mushrooms]]. The Netherlands had long
 been the center of the European trade, with smartshops in Amsterdam and
-other cities openly selling fresh mushrooms alongside other psychoactive
+other cities openly selling fresh [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] other psychoactive
 herbal products. The 2002 legislation imposed restrictions on mushroom
 sales while the broader smartshop industry adapted by promoting
 alternative products.
@@ -69,12 +69,12 @@ increasingly through international internet commerce.
 
 The EMCDDA identified an important unintended consequence of the
 legislative wave: increased interest in Amanita muscaria (fly agaric)
-as a legal alternative to psilocybin-containing mushrooms. As
-psilocybin mushrooms became controlled, retailers began marketing
+as a [[amanita-muscaria-legal-alternative]] to psilocybin-containing mushrooms. As
+[[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] became controlled, retailers began marketing
 A. muscaria preparations as "legal highs." This was concerning because
 A. muscaria contains ibotenic acid and muscimol — compounds with a
 different pharmacological profile, substantial toxicity risks, and
-a narrower therapeutic index than psilocybin.
+a narrower [[cannabis-therapeutic-index-overview]] than psilocybin.
 
 The risk of consumers substituting psilocybin mushrooms with A. muscaria
 without understanding the different pharmacology and toxicity profiles
@@ -88,55 +88,3 @@ serious risk.
 An important feature of the legislative landscape was the persistent
 loophole regarding mushroom spores. In most jurisdictions, the spores
 of psilocybin-containing mushrooms do not themselves contain psilocybin
-and therefore remained legal even after the mushrooms were controlled.
-This enabled the continued sale of spore syringes and spore prints for
-"microscopy purposes" or "scientific research," which in practice
-served the home cultivation market.
-
-The spore loophole complicated enforcement efforts, as possession of
-spores with [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] could indicate intent to produce
-controlled substances, but the spores alone were not illegal. Some
-jurisdictions addressed this by criminalizing possession of spores
-alongside cultivation equipment, while others focused on controlling
-the sale of ready-to-fruit grow kits.
-
-## Contextual Forces Behind Legislative Action
-
-The EMCDDA emphasized that the legislative responses cannot be understood
-in isolation from broader social and economic forces. Several
-[[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] drove the regulatory cascade:
-
-- **Market expansion** through smartshops, internet shops, and market
-  stalls made mushroom use more visible and socially normalized
-- **Media attention** increased public awareness and political pressure
-- **Economic interests** of retailers in expanding the market
-- **Lifestyle trends** favoring "natural" [[cultural-evolution-and-psychoactive-substances]] over
-  synthetic drugs
-- **Cross-border trade** created regulatory arbitrage opportunities
-- **Prevention concerns** about young people accessing mushrooms
-
-The case study highlighted the importance of understanding how lifestyle
-trends and economic interests shape both the diffusion of and responses
-to emerging drug trends. The EMCDDA concluded that future work on
-emerging drug trends must consider the crucial role that contextual
-forces play in reinforcing or legitimating forms of regulation.
-
-## Variations in National Approaches
-
-The six countries did not adopt identical legislative approaches.
-Key variations included whether legislation specifically named
-individual mushroom species or used broader language covering all
-fungi containing specified controlled substances, whether fresh
-mushrooms were treated the same as dried or prepared material,
-and whether possession for personal use was criminalized alongside
-sale and distribution. These variations reflected different legal
-traditions, enforcement priorities, and assessments of the severity
-of the public health risk.
-
-## References
-
-- EMCDDA (2006). Hallucinogenic mushrooms: an emerging trend case
-  study. Lisbon: European Monitoring Centre for Drugs and Drug
-  Addiction. ISBN 92-9168-249-7.
-- Berridge, V. & Hickman, M. (2006). UK government paper on
-  psychoactive substances.

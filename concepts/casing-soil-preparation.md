@@ -1,5 +1,5 @@
 ---
-title: Casing Soil Preparation for mushroom-cultivation
+title: Casing Soil Preparation
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -38,7 +38,7 @@ ratio by volume:
 
 ### Ingredient Notes
 
-- **Peat**: Canadian sphagnum peat moss is the standard choice. Its excellent
+- **Peat**: Canadian sphagnum [[query-what-is-the-difference-between-coco-coir-and-peat-moss]] is the standard choice. Its excellent
   water-holding capacity and slightly acidic nature (pH ~4-5) make it ideal
   when combined with the limestone buffer.
 - **Vermiculite**: Expanded mica that holds water in its plate-like structure
@@ -68,9 +68,9 @@ exact water amount must be determined empirically each time.
 ## Sterilization of Casing Soil
 
 Unlike some recommendations to only pasteurize casing soil to preserve
-beneficial microorganisms, this method calls for **full sterilization** in a
-pressure cooker. The authors report consistently better results with
-sterilized casing compared to untreated or pasteurized material.
+[[forest-and-bamboo-beneficial-microorganisms]], this method calls for **full sterilization** in a
+[[double-layer-tinfoil-jar-covering-pressure-cooker-method]]. The authors report consistently better results with
+[[sterilized-casing-soil-recipe-peat-vermiculite-limestone]] compared to untreated or pasteurized material.
 
 ### Sterilization Procedure
 
@@ -88,42 +88,3 @@ Once the [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]] is fully 
 1. Shake the colonized jar to loosen the grain and empty it into a clean
    1-liter disposable plastic tray.
 2. Break up any large lumps using the clean rim of the jar.
-3. Level the grain surface evenly.
-4. Apply casing soil in a **1.5-2.0 cm** (approximately ¾ inch) layer.
-5. Keep the casing surface **rough** — small valleys and hills promote
-  even pinning. A perfectly smooth surface can lead to uneven moisture
-  distribution and patchy pin formation.
-6. Cover the tray with aluminum foil.
-7. Place in a clean location at 20-25°C.
-
-Within a few days, mycelium will begin growing through the casing soil. Once
-a network of mycelium is visible on the surface, the tray is ready for
-fruiting conditions.
-
-## Initiating Fruiting
-
-When mycelium has colonized the casing layer, remove the foil and transfer
-the tray to a [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]]. Simple clear plastic bins covered with
-polyethylene sheeting work well. Five trays per bin, with holes melted in the
-sides for air exchange (covered with mesh to exclude flies).
-
-For harder-to-fruit strains, a **[[growing-gourmet-cold-shock-temperature-initiation-fruiting]]** (one night in the refrigerator)
-before introducing to the fruiting chamber can help initiate pinning. Easy
-strains like Ecuador cubensis do not require this treatment.
-
-## Maintenance During Fruiting
-
-- **Mist daily** to prevent the casing from drying out
-- **Never let the casing dry completely** — this aborts developing pins
-- **Increase watering after each flush** because maturing mushrooms pull
-  significant moisture from the casing
-- **Remove aborts** (dead pinheads) promptly — they can harbor mold
-- Expect **3 flushes** typically, up to 5-6 with careful watering
-
-## See Also
-
-- [[grass-seed-substrate-preparation]] — the substrate beneath the casing
-- fruiting-chamber-design — simple setups for mushroom production
-- [[pinning-triggers]] — environmental conditions that initiate [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]]
-  formation
-- [[mycelium]]

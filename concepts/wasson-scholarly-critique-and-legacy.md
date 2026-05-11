@@ -9,9 +9,9 @@ sources:
 ---
 # Wasson's Scholarly Critique and Legacy
 
-The career and reputation of [Robert Gordon Wasson
+The career and reputation of [Robert [[gordon-wasson-comparative-method-ethnomycology]]
 (1898-1986) remain deeply contested. While he is celebrated as the discoverer
-of [psychedelic mushrooms in Mesoamerica, a
+of [[archaeology-of-psychedelic-mushrooms]] in Mesoamerica, a
 balanced assessment reveals serious shortcomings in his scholarly methods,
 particularly in his ethnographic fieldwork and his tendency towards
 grand speculative theories.
@@ -40,7 +40,7 @@ objects that commanded attention. Like medieval alchemical grimoires, they came
 wrapped in an aura of authenticity.
 
 **Breadth of vision**: Wasson's ideas were panoramic and radical. He drew on an
-extraordinary range of sources from philology, mycology, ethnography, folklore
+extraordinary range of sources from philology, [[mycology]], ethnography, folklore
 and fairy tale to construct his arguments.
 
 **Force of personality**: Wasson's influence stemmed less from the clarity of
@@ -56,7 +56,7 @@ gifts, while double-edged, helped spread his ideas widely.
 Despite his strengths, Wasson's scholarship suffers from several serious flaws:
 
 **Intellectual framework**: Wasson was trapped by an intellectual tradition,
-cultural evolution, that was already out of date. His ideas about mycophobia and
+[[cultural-evolution-and-psychoactive-substances]], that was already out of date. His ideas about mycophobia and
 mycophilia as a fundamental cultural divide, and his belief in an ancient
 [[african-mushroom-cult-history]] at the origins of religion, were unfeasible and should be rejected.
 
@@ -88,42 +88,3 @@ author that much harder.
 Perhaps the most serious criticism of Wasson concerns the detrimental effect his
 work had on the people he studied. Although he published [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]]'s name in
 his popular Life article (which was read by millions) but not in his scholarly
-volume Mushrooms, Russia and History, her name and whereabouts quickly became
-public knowledge.
-
-The flood of hippies that descended on Huautla disrupted traditional practices
-and placed enormous strain on indigenous communities. The impact on [Maria Sabina was particularly severe.
-
-Wasson's single-minded focus on his theories about a mushroom survival thesis
-meant that he completely failed to engage with the complexities of Mazatec
-religion. He was too quick to dismiss other curanderos as "second rate," even
-though Sabina herself recognised them as her equals.
-
-## Hypocrisy Regarding Prohibition
-
-Wasson publicly berated the hippies for their recreational use of mushrooms,
-declaring that he had taken the [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]] "but never for a kick." Yet when
-US federal prohibition made obtaining mushrooms a criminal offence during the
-1970s, Wasson arranged for gordon-wasson to risk his job by
-posting psilocybin pills from the Sandoz factory in Switzerland to a care-of
-address in California for Wasson's personal use.
-
-## A Balanced Assessment
-
-How we judge Wasson depends on whether we regard him as a scholar or as an
-enthusiast. As a scholar, judged by the standards he so dearly wanted to meet,
-the assessment must be harsh. His ideas about ancient mushroom religion were
-unfeasible, his ethnography was poor, and his work harmed the communities he
-studied.
-
-As an enthusiast, a Wall Street banker who developed a passionate interest in
-hallucinogenic fungi, we can see his achievements in a more favourable light:
-his charm, his manners, his skills as a raconteur. Though intelligent, he was
-never an academic, and was consequently insulated from the process of
-self-correction that scholarship demands.
-
-## See Also
-
-- [[wasson-mexico-expeditions]] - The expeditions and their consequences
-- valentina pavlovna wasson - His collaborator and wife
-- [[psychedelic-1960s-counterculture]] - The culture he helped spawn

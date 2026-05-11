@@ -1,5 +1,5 @@
 ---
-title: "urban permaculture community building social design and Social Design in pdc-urban-permaculture-design-principles"
+title: Urban Permaculture Community Building Social Design
 created: 2026-04-28
 tags: [urban-permaculture, community-building, social-design, neighbourhood]
 date: 2026-04-25
@@ -24,7 +24,7 @@ one another, match somebody's needs to another person's skill and
 surplus, and connect the cycles and flows of human energy. This
 means letting everyone join in and have fun.
 
-A pattern language approach, drawing from Christopher Alexander's
+A [[holmgren-pattern-thinking-and-pattern-language]] approach, drawing from Christopher Alexander's
 work, provides frameworks for creating convivial spaces. Community
 building is a matter of good design. There are patterns that
 connect and patterns that alienate. Understanding this distinction
@@ -59,7 +59,7 @@ slightest opportunity.
 City officials, professionals, schools, churches, and neighbours
 should all be viewed as potential allies. In fifty years, coalition
 building will be a necessity. Now it is a choice. Local architects
-interested in sustainable design, teachers wanting outdoor
+interested in [[ozier-pdc-maslows-hierarchy-sustainable-design]], teachers wanting outdoor
 classrooms, and city planners seeking green alternatives all share
 common ground with permaculture practitioners.
 
@@ -88,39 +88,3 @@ conviviality of home and neighbourhood.
 The challenge of urban permaculture is to facilitate the dynamic
 intersections of the web of life and to reestablish natural
 ecosystems as the context of urban form and activity. This is the
-basis of sustainable development. Now is the time to experiment
-and construct models of possibility, inviting others to potlucks,
-workshops, and presentations so knowledge can be recycled through
-the community.
-
-A sustainable neighbourhood integrates [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], food production,
-water recycling, pedestrian pathways, mixed-use zoning, access to
-safe and restful places, and [[mollison-designers-banana-circle-waste-recycling-system]]. A team of permaculture
-designers can integrate natural cycles into restored physical and
-social systems within a single neighbourhood plan.
-
-## Complete Urban Water Cycles
-
-The water loop extends from the home through ponds and gardens. Grey
-water filtration, roof catchment, and street harvesting create a
-closed system. Similarly, nutrient cycles from kitchen scraps through
-compost to garden soil close another loop. Energy cycles from passive
-solar through thermal mass design close a third. Each cycle connects
-household to neighbourhood to watershed to ecosystem.
-
-## Practical First Steps
-
-Begin where you are, right now, on whatever scale suits you. You can
-initiate systematic or random acts of restoration and evoke the
-spirit of the place. Discovering harmonious patterns in your immediate
-surroundings leads naturally to larger interventions. The most
-significant act of urban permaculture is restoring balance between
-human society and nature, starting in the garden and expanding outward.
-
-## See Also
-
-- urban-permaculture-edge-effect-and-design-principles
-- permaculture-community-scale-design
-- [[mollison-designers-community-garden-design-urban-permaculture]]
-- [[permaculture-urban-design]]
-- [[permaculture-building-design]]

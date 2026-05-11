@@ -1,5 +1,5 @@
 ---
-title: cervantes terpenoid pharmacology therapeutic effects and Therapeutic Effects
+title: Cervantes Terpenoid Pharmacology Therapeutic Effects
 created: 2026-04-28
 tags:
   - terpenoids
@@ -10,11 +10,12 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - [[cannabis-terpene-pharmacology-and-entourage-effect]]
-  - limonene cannabis
+  - [[limonene]] cannabis
   - linalool cannabis
-  - terpineol
+  - [[terpineol]]
   - anti-inflammatory terpenoids
 type: concept
 ---
@@ -56,12 +57,12 @@ disease. Memory-enhancing terpenoids include:
 
 - **Limonene** - increases acetylcholine activity
 - **Terpinene** - supports cognitive function
-- **Carvacrol** - found in oregano and thyme, acetylcholine-enhancing
+- **[[carvacrol]]** - found in oregano and thyme, acetylcholine-enhancing
 - **Pulegone** - found in mint, also supports acetylcholine pathways
 
 ## Neurotransmitter Modulation
 
-Some terpenoids act as serotonin uptake inhibitors, the same mechanism as
+Some terpenoids act as [[serotonin]] uptake inhibitors, the same mechanism as
 the antidepressant Prozac (fluoxetine). Others augment the
 neurotransmitter GABA, the same mechanism as the anti-anxiety drug
 Valium (diazepam). This dual action on serotonin and GABA systems helps
@@ -86,48 +87,4 @@ protective effects of terpenoids.
 
 ## CB1 and CB2 Receptor Modulation
 
-Different cannabis strains produce different highs partly because
-varying [[cannabis-terpenoid-profiles-detailed]] influence how cannabinoids interact with
-receptor subtypes. Afghani plants produce cannabidiol (CBD) that
-preferentially activates Gi (inhibitory) G-proteins, causing a stony,
-narcotic-like effect. Thai plants contain THCV that may preferentially
-activate Gs (stimulatory) G-proteins, causing a speedy, buzzy high.
-
-The terpenoid profile of each strain further modulates these receptor
-interactions, contributing to the unique subjective experience of each
-variety.
-
-## THC:THCV Ratio and the "Creep"
-
-Tetrahydrocannabivarin (THCV) is the shorter three-carbon propyl that
-replaces the five-carbon pentyl chain in THC. THCV is associated with
-fragrant marijuana. Concentrations of THCV usually make the high come on
-quicker and disappear sooner. Very pungent-smelling marijuana normally
-contains higher levels of THCV.
-
-## CBN and the Stupefying High
-
-Cannabinol (CBN) is produced as THC oxidizes or degrades. Only a trace
-exists in fresh bud, but stored and cured tops or hashish have higher CBN
-levels. Marijuana with high CBN generally produces a disorienting, sleepy,
-or groggy "stupefying" high. CBN contains only about 10 percent of the
-psychoactive potency of the original THC.
-
-## Implications for Medical Cultivation
-
-Understanding terpenoid pharmacology has direct implications for medical
-[[query-how-does-no-till-cannabis-cultivation-work]]:
-
-- [[blesching-cannabis-strain-selection-receptor-targeting]] should consider terpenoid profiles, not just THC
-  content
-- Proper [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]] preserves terpenoid integrity
-- Different medical conditions may respond better to specific terpenoid
-  profiles
-- The synergistic effects of terpenoids with cannabinoids support the
-  case for whole-plant medicine over isolated compounds
-
-## See Also
-
-- [[cervantes-cannabinoids-thc-cbd-chemistry]]
-- [[cervantes-cannabis-tolerance-addiction-pharmacology]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
+Different [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] produce different highs partly because

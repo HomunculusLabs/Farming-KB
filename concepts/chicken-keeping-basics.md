@@ -1,5 +1,5 @@
 ---
-title: comparison-chicken-keeping-vs-beekeeping-basics Basics
+title: [[chicken-keeping]] Basics
 created: 2026-04-17
 updated: 2026-04-18
 type: concept
@@ -83,26 +83,8 @@ moisture control matters more than heat.
 
 ### Chicken Tractors
 Mobile floorless coops moved to fresh ground regularly. Each area gets 1-2
-weeks of activity (manure, pest control, scratching). Ideal for pre-planting
+weeks of activity (manure, [[hamilton-beneficial-insects-and-biological-pest-control]], scratching). Ideal for pre-planting
 beds. Size: 10 sq ft per bird minimum. Move daily for intensive, every 2-3
 days for lighter systems.
 
 ### Composting Integration
-Chicken manure: N-P-K ~1.8-1.5-0.8. [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] required before garden use
-(raw manure will burn plants). Compost with carbon materials at 1:2 to 1:3
-N:C ratio for 3-6 months. [[comparison-deep-litter-vs-hot-composting]] method: layer straw/shavings, composts
-in place, generates winter heat, reduces cleaning.
-
-### Garden Integration
-Free-range after harvest for insect/weed seed cleanup. Fence beds you don't
-want scratched. Foraging reduces feed costs 10-30%.
-
-## See Also
-
-- permaculture-plant-guilds — Plant guilds complementing chicken forage
-- guild-design-methodology
-- [[teaming-with-microbes-plant-control]]
-- [[permaculture-multi-purpose-plants]]
-- [[chicken-keeping]]
-- [[comparison-chicken-keeping-vs-beekeeping-basics]]
-- [[comparison-chicken-keeping-vs-quail-husbandry]]

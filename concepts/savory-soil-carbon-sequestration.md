@@ -1,7 +1,7 @@
 ---
-title: Soil Carbon Sequestration Through Holistic Grazing
+title: Savory Soil Carbon Sequestration
 created: 2026-04-26
-aliases: [soil organic matter, humus formation, soil biology, carbon farming]
+aliases: [[knf-leaf-mold-humus]], humus formation, soil biology, carbon farming]
 tags: [soil-carbon, carbon-sequestration, humus, soil-biology, microbial]
 related: [savory-holistic-management-overview, savory-livestock-grazing-planning, savory-water-cycle-management]
 type: concept
@@ -16,7 +16,7 @@ Soil is the largest carbon reservoir in the terrestrial system. The mineral cycl
 
 ## Soil as a Living System
 
-Soil is not inert mineral matter. It is a living ecosystem composed of mineral particles, organic matter in various stages of decomposition, and billions of organisms per handful—from bacteria and fungi to insects, worms, and small mammals.
+Soil is not inert mineral matter. It is a living ecosystem composed of mineral particles, [[maintaining-organic-matter-in-vegetable-gardens]] various stages of decomposition, and billions of organisms per handful—from bacteria and fungi to insects, worms, and small mammals.
 
 Organic material in soil exists in several forms:
 
@@ -32,7 +32,7 @@ Humus is the end product of biological decomposition. It is a complex, relativel
 
 - **Improves soil structure**: Binds mineral particles into crumb aggregates with good porosity
 - **Increases water-holding capacity**: Humus can hold four to five times its weight in water
-- **Buffers pH**: Moderates both acid and alkaline conditions
+- **Buffers pH**: Moderates both [[acid-and-alkaline-soil-management]] conditions
 - **Holds nutrients**: Provides [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity that makes minerals available to plants
 - **Feeds soil life**: Provides energy and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
 - **Sequesters carbon**: Locks atmospheric carbon into stable soil organic matter for long periods
@@ -56,7 +56,7 @@ The pathway of decay determines whether organic material becomes humus or is los
 
 **Biological decay** occurs through the action of soil organisms—bacteria, fungi, earthworms, beetles, and other decomposers. This process produces stable humus, builds soil structure, and cycles minerals back to plants. It requires adequate moisture, oxygen, and a living soil community.
 
-**Chemical (oxidative) decay** occurs when dead plant material is exposed to sunlight and oxidation on the soil surface. This process releases carbon as CO2, produces no humus, and breaks down complex organic molecules into simpler, less useful forms. In brittle environments, chemical decay predominates where material rests on bare soil.
+**Chemical (oxidative) decay** occurs when dead plant material is exposed to sunlight and oxidation on the soil surface. This process releases carbon as CO2, produces no humus, and breaks down complex organic molecules into simpler, less useful forms. In [[savory-brittle-environments]], chemical decay predominates where material rests on bare soil.
 
 ## The Role of Grazing Animals in Soil Building
 
@@ -87,31 +87,3 @@ The goal is a **evenly distributed litter layer** across the soil surface, maint
 ## Measuring Soil Carbon Changes
 
 Practical indicators of soil carbon change include:
-
-- **Soil color**: Darkening indicates increasing organic matter content
-- **Soil structure**: Improving crumb structure and aggregation
-- **Earthworm activity**: Increasing earthworm populations signal improving conditions
-- **Water infiltration rates**: Improving infiltration indicates better soil structure
-- **Organic matter tests**: Laboratory analysis provides quantitative tracking
-- **Plant response**: Increasing forage production and plant density over time
-
-## Carbon Sequestration as a Management Outcome
-
-Soil carbon sequestration is not the primary goal of holistic management—it is an inevitable outcome of restoring effective [[fungal-ecosystem-processes-overview]]. When the water cycle, mineral cycle, energy flow, and community dynamics are all functioning effectively, soil carbon increases naturally.
-
-This distinction matters because managing specifically for carbon—through practices that may optimize one process at the expense of others—can produce unintended consequences. The holistic framework ensures that management decisions consider all four ecosystem foundation blocks simultaneously.
-
-The potential magnitude of carbon sequestration through restored grasslands is significant. Grasslands contain more carbon than forests when root mass is included, and restoring degraded grasslands through properly managed grazing represents one of the largest practical opportunities for atmospheric carbon drawdown.
-
-## Sources
-
-- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 10, 11. Island Press, 1988.
-
-## See Also
-
-- mycorrhizal-carbon-cycling-soil-sequestration
-- [[permaculture-grazing-and-pasture]]
-- [[fukuoka-natural-livestock-integration-philosophy]]
-- [[decomposition]]
-- [[building-soil]]
-- [[cation-exchange-capacity]]

@@ -88,14 +88,3 @@ Blesching, U. (2015). *The [[blesching-cannabis-health-index-autoimmune-conditio
 ## Merged: Cannabis and Libido Enhancement
 
 **Source:** The [[cannabis-cannabinoid-receptor-pharmacology]] and [[cannabis-cannabinoid-receptor-pharmacology]] relatively equally. Sativa and sativa-heavy hybrids present higher THC:CBD ratios with similar activation patterns.
-
-## Complementary Herbs ("Let Food Be Thy Medicine")
-
-- **Anise:** Estrogen receptor modulator-like properties, bone-cell formation without cancer proliferation
-- **Cacao:** Sexual stimulation increases with chocolate scent (Dr. Alan Hirsch, Chicago)
-- **Cinnamon:** Male sexual stimulation increases with cinnamon scent; used in Chinese medicine for male sexual dysfunction
-- **Clove:** 50% alcoholic extract (100-500 mg/kg) significantly enhanced male rat sexual appetite without side effects
-- **Ginger:** Significantly increased sperm motility and content in rodent studies
-- **Maca:** Dose-dependent (3g daily) significant improvement in SSRI-induced sexual dysfunction
-- **Grains of Paradise:** 115 mg/kg water-based extract significantly increased male arousal
-- **Nutmeg:** Combined with clove, increased male rat sexual appetite

@@ -1,5 +1,5 @@
 ---
-title: "Mushroom [[gottlieb-psilocybin-cultivation-equipment-and-facilities]] and Sourcing"
+title: Mushroom Cultivation Equipment Sourcing Jarrold
 source: "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag - D.H. Jarrold"
 source_path: "raw/papers/jarrold-indoor-mushroom-growing-technique-boil-a-bag.md"
 topics: [mushroom, cultivation, equipment, tools, sterilization, sourcing]
@@ -88,62 +88,3 @@ tweezers, scissors, and syringe needle. Must be fuelled with methylated spirits.
 ## Substrate Preparation Equipment
 
 ### Containers for Straw Soaking
-Large water-tight buckets for soaking chopped straw in marmite-water solution.
-The straw must be fully submerged and weighted down during the 2-hour soak.
-
-### Measuring Jug
-For dissolving marmite in boiling water before adding to the soaking vessel.
-
-## Filter Can Components
-
-The filter can is a custom-built gas exchange filter for each bag:
-
-### Food Can (3-4 inches, Round)
-An empty, cleaned food can with the lid left connected by about an inch to serve
-as an attached lid.
-
-### Rockwool or Fiberglass Insulation
-About 1 cm lining the bottom inside as a pre-filter layer.
-
-### Vermiculite
-The main filter medium, filling the can to within 1 cm of the top. Small pieces
-of rockwool can be used as an alternative.
-
-### Hammer and Nail
-For creating breath holes all over the bottom of the filter can.
-
-### Wide Masking Tape
-Secures the filter can to the bag neck, wrapped around three times.
-
-## Humidity Chamber Equipment
-
-### Fish Tank (4 × 2 feet)
-A standard fish tank serves as the humidity chamber for fruiting. The tank must
-be clean and free of contaminants before use.
-
-### Hydro Pellets
-Soaked hydro pellets (hydroton/clay pebbles) at the bottom for evaporation-based
-humidity.
-
-### Plastic Sheeting
-Covers the tank top to retain humidity and exclude flying insects.
-
-### Air Stone and Pump
-An air stone connected via tubing to a small aquarium air pump automates humidity
-maintenance. A small hole near the top of the tank feeds the pipe through.
-
-### Angled Drip Lids
-Made from 2mm plastic sheet to direct condensation back into the chamber.
-
-## Sourcing Strategy
-
-Most equipment for the Jarrold method can be obtained from common retail sources:
-- Hardware shops for tools, tape, and construction materials
-- Pet stores for pre-cut straw
-- Kitchen supply stores for boil-a-bags and Pyrex containers
-- Model and craft shops for stainless steel tubing
-## See Also
-
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
-- [[straw-based-mushroom-cultivation-boil-bag-method]]

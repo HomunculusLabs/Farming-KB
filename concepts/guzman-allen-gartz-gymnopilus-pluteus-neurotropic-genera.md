@@ -29,12 +29,12 @@ status remains debated for several taxa.
 ## Gymnopilus: The Big Laughing Mushrooms
 
 The genus Gymnopilus, within the family Cortinariaceae, is one of
-the most important non-Psilocybe sources of neurotropic fungi. The
+the most important non-Psilocybe sources [[distribution-of-neurotropic-fungi]]. The
 worldwide analysis by Guzmán, Allen and Gartz listed 14 species:
 G. aeruginosus, G. braendlei, G. intermedius, G. lateritius,
 G. liquiritiae, G. luteofolius, G. luteoviridis, G. luteus,
 G. purpuratus, G. sapineus, G. spectabilis, G. subpurpuratus,
-G. validipes and G. viridans. Of these, Gymnopilus spectabilis
+G. validipes and G. viridans. Of these, [[gymnopilus-spectabilis-entity]]
 and G. purpuratus have been the most extensively studied for their
 neurotropic properties.
 
@@ -59,8 +59,8 @@ representing introduced populations.
 
 Gartz and Muller (1990) and Gartz (1991a, b, c) conducted detailed
 [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]] of Chilean specimens of G. purpuratus, contributing
-significantly to the understanding of psilocybin variation within the
-genus. The species demonstrates that Gymnopilus neurotropic diversity
+significantly to the understanding of [[psilocybin-variation-across-flushes]] within the
+genus. The species demonstrates that Gymnopilus [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
 is not evenly distributed globally but concentrates in specific
 regions, particularly the temperate forests of southern South America.
 
@@ -68,7 +68,7 @@ regions, particularly the temperate forests of southern South America.
 
 The neurotropic status of several Gymnopilus species has been
 controversial. Stijve and Kuyper (1988) did not find psilocybin in
-Gymnopilus fulgens or G. spectabilis in their analyses. Stijve and
+[[gymnopilus-fulgens]] or G. spectabilis in their analyses. Stijve and
 de Meijer (1993) similarly failed to find psilocybin and other
 psilocybian compounds in several Gymnopilus species. These negative
 results contrast with earlier positive reports and highlight the
@@ -84,58 +84,7 @@ problems that complicate distribution records.
 
 ## The Pacific Northwest Gymnopilus Hotspot
 
-The Pacific Northwest of North America, particularly Oregon and
+The Pacific Northwest [[berry-growing]], particularly Oregon and
 Washington, represents a remarkable concentration of Gymnopilus
 neurotropic species. In Oregon alone, G. aeruginosus, G. spectabilis,
 G. liquiritiae, G. sapineus, G. luteofolius and G. viridans have
-all been documented. Washington similarly records G. aeruginosus,
-G. braendlei, G. luteofolius, G. sapineus, G. spectabilis and
-G. viridans. This regional concentration parallels the high
-diversity of Psilocybe species in the same area.
-
-The Hesler (1969) monograph provided foundational taxonomic work on
-Gymnopilus in the southeastern [[dmt-containing-plants-united-states-halpern]], documenting G.
-aeruginosus, G. liquiritiae, G. luteofolius, G. luteus, G. sapineus,
-G. spectabilis and G. validipes from that region. These early
-records remain important references for understanding the genus
-distribution.
-
-## Pluteus: Wood-Inhabiting Neurotropic Species
-
-The genus Pluteus contributes six confirmed neurotropic species:
-P. atricapillus, P. cyanopus, P. glaucus, P. nigriviridis,
-P. salicinus and P. villosus. Unlike Gymnopilus, which grows on
-both hardwoods and conifers, Pluteus species are typically
-wood-inhabiting fungi found on stumps, logs and woody debris of
-broadleaf trees. [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]] is the most widely distributed
-of the neurotropic Pluteus species, documented from North America,
-Europe, Asia and Africa.
-
-Pluteus salicinus has been chemically confirmed to contain
-psilocybin in multiple studies across different continents.
-It is recorded from the United States including Illinois, Michigan,
-Ohio, Texas and Washington, and from European countries including
-the Czech Republic, Finland, France, Ukraine, the Netherlands and
-the former Yugoslavia. Its presence in India, Morocco and Hong Kong
-extends its range into tropical and subtropical regions.
-
-## Pluteus cyanopus and Nigriviridis
-
-Pluteus cyanopus, described by Quélet, and P. nigriviridis,
-described by Babos, represent less widely distributed but
-chemically confirmed neurotropic species. P. cyanopus has been
-documented from Morocco and Germany, while P. nigriviridis is
-known from Europe. P. glaucus occurs in South America, Europe
-and the Canary Islands. Pluteus villosus is documented from
-Europe and Morocco, extending the genus reach into North Africa.
-
-## See also
-
-[[guzman-allen-gartz-hymenogastraceae-minor-neurotropic-genera]]
-[[guzman-allen-gartz-global-psilocybe-biogeography]]
-
-## See Also
-
-- [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
-
-- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

@@ -12,13 +12,13 @@ updated: 2026-05-09
 sources:
   - Lorenzi, H. et al. (2010). "Flora Brasileira Lorenzi: Arecaceae (Palmeiras)." Instituto Plantarum de Estudos da Flora.
   - Glassman, S.F. (1987). "Revision of the Palm Genus Syagrus Mart. and Other Selected Genera." Fieldiana: Botany, New Series 17.
-  - Henderson, A., Galeano, G. & Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
-  - Meerow, A.W. (2015). "Arecaceae." In: Flora of North America North of Mexico, Vol. 22. Oxford University Press.
+  - Henderson, A., Galeano, G. & Bernal, R. (1995). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Palms of the Americas." Princeton University Press.
+  - Meerow, A.W. (2015). "Arecaceae." In: Flora [[berry-growing]] North of Mexico, Vol. 22. Oxford University Press.
 ---
 
 ## Overview
 
-Syagrus romanzoffiana, commonly known as the queen palm or Cocos palm, is a species of palm native to South America. It is one of the most widely planted ornamental palms in the world, valued for its graceful arching fronds and rapid growth rate.
+Syagrus romanzoffiana, commonly known as the queen palm or Cocos palm, is a species of palm native to [[guzman-psilocybin-mushrooms-south-america]]. It is one of the most widely planted ornamental palms in the world, valued for its graceful arching fronds and rapid [[soil-temperature-plant-growth-rate-doubling-rule]].
 
 The species ranges from southern Brazil through Uruguay, Paraguay, and northern Argentina. Its natural habitat spans subtropical and warm temperate forests, where it grows as a canopy or subcanopy element.
 
@@ -42,7 +42,7 @@ Leaves are pinnate, arching gracefully, and reach 3 to 5 meters in length. The l
 
 Inflorescences are interfoliar, producing clusters of small creamy-white flowers. The fruit is an oval to ellipsoid drupe, 2 to 3 centimeters long, ripening from green to bright orange.
 
-Flowering occurs primarily during the spring and summer months in the Southern Hemisphere. Individual trees may produce multiple inflorescences per year, with each capable of yielding several hundred fruits.
+Flowering occurs primarily during the spring and summer months in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]. Individual trees may produce multiple inflorescences per year, with each capable of yielding several hundred fruits.
 
 The orange fruits are highly visible and ornamental, contributing to the species' popularity in landscaping. However, the falling fruit can create slippery surfaces on sidewalks and driveways.
 
@@ -50,15 +50,15 @@ The orange fruits are highly visible and ornamental, contributing to the species
 
 Syagrus romanzoffiana is native to southern Brazil, Paraguay, Uruguay, and northern Argentina. In Brazil, it occurs from Minas Gerais and Rio de Janeiro southward to Rio Grande do Sul.
 
-The species grows naturally in Atlantic Forest, gallery forests along riverbanks, and open savanna areas. It is found at elevations from sea level to approximately 1200 meters in its native range.
+The species grows naturally in Atlantic Forest, [[mollison-designers-gallery-forests-and-valley-bottomland-systems]] along riverbanks, and open savanna areas. It is found at elevations from sea level to approximately 1200 meters in its native range.
 
 Atlantic Forest populations of Syagrus romanzoffiana are declining due to habitat fragmentation and deforestation. The species is listed as Least Concern globally, but regional populations in heavily deforested areas warrant monitoring.
 
 Natural populations are most abundant in areas with well-distributed annual rainfall of 1000 to 2000 millimeters. The species tolerates both seasonally dry and consistently moist conditions.
 
-In the southernmost parts of its range in Argentina and Uruguay, queen palms experience occasional frosts. These populations have developed greater cold tolerance than their tropical counterparts, making them useful genetic resources for breeding programs.
+In the southernmost parts of its range in Argentina and Uruguay, queen palms experience occasional frosts. These populations have developed greater [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] than their tropical counterparts, making them useful genetic resources for breeding programs.
 
-Syagrus romanzoffiana has been widely introduced outside its native range as an ornamental. It is now naturalized in parts of the southeastern United States, California, southern Europe, South Africa, and eastern Australia.
+Syagrus romanzoffiana has been widely introduced outside its native range as an ornamental. It is now naturalized in parts of the southeastern [[dmt-containing-plants-united-states-halpern]], California, southern Europe, South Africa, and eastern Australia.
 
 ## Cultivation
 
@@ -76,7 +76,7 @@ Propagation is from seed, which germinates readily within two to four months und
 
 The species is relatively low-maintenance compared to other ornamental palms. Regular removal of dead fronds and spent inflorescences keeps the canopy tidy and reduces pest habitat.
 
-Potassium deficiency is the most common nutritional problem in cultivated queen palms, causing frond tip necrosis and premature leaf drop. This can be corrected with regular applications of potassium sulfate or palm-specific fertilizers.
+[[knf-potassium-deficiency-and-excess]] is the most common nutritional problem in cultivated queen palms, causing frond tip necrosis and premature leaf drop. This can be corrected with regular applications of potassium sulfate or palm-specific fertilizers.
 
 In urban settings, queen palms are frequently planted along streets, in median strips, and in parking lot islands. Their narrow canopy profile and non-invasive root system make them suitable for constrained planting spaces.
 
@@ -86,36 +86,4 @@ The species is considered invasive in parts of Florida and southeastern Australi
 
 In its native range, Syagrus romanzoffiana provides food and habitat for numerous animal species. The bright orange fruits are consumed by toucans, parrots, macaws, and several species of mammals including agoutis and monkeys.
 
-The seeds pass through the digestive tracts of frugivorous animals intact, facilitating dispersal over considerable distances. This animal-mediated seed dispersal is critical for the natural regeneration of queen palm populations in fragmented forest landscapes.
-
-The flowers attract bees and other pollinators during the flowering season. The abundant nectar production makes queen palms a significant resource for honey production in some parts of southern Brazil.
-
-In the Atlantic Forest region, queen palms serve as keystone resources during the fruiting season. Their abundance and reliable fruit production support frugivore communities during periods when other food sources are scarce.
-
-In traditional South American communities, the fruits are occasionally used to make jellies and beverages. The seeds can be ground and used as animal feed, though the fruits are generally considered less palatable than those of other Syagrus species.
-
-The palm heart of young queen palms is edible, although commercial extraction is limited compared to species like Euterpe oleracea. The trunk pith contains usable starch that can be processed into flour.
-
-The mesocarp of the fruit contains a thin layer of edible flesh with a mildly sweet flavor. In rural Paraguay and southern Brazil, children commonly gather fallen fruits as a seasonal snack.
-
-In urban forestry, Syagrus romanzoffiana provides ecosystem services including shade, carbon sequestration, and stormwater interception. However, the heavy falling fruit clusters can create maintenance challenges for property owners and municipal crews.
-
-The species is susceptible to bud rot caused by Phytophthora palmivora and lethal bronzing disease caused by phytoplasmas. These diseases have become significant management concerns in Florida and parts of the Caribbean.
-
-Queen palms are also hosts for palm leaf skeletonizer moths and various scale insect species. Integrated pest management approaches combining biological control with targeted insecticide applications are recommended for large-scale plantings.
-
-## See Also
-
-- [[spiranthes-romanzoffiana]]
-- [[syagrus-coronata]]
-
-- [[cocos-nucifera]]
-- [[areca-catechu]]
-- [[butia-capitata]]
-- [[euterpe-oleracea]]
-- [[phoenix-canariensis]]
-- [[roystonea-regia]]
-- [[palm-tree-uses]]
-- [[trachycarpus-fortunei]]
-- [[washingtonia-robusta]]
-- [[borassus-flabellifer]]
+The seeds pass through the digestive tracts of frugivorous animals intact, facilitating dispersal over considerable distances. This animal-mediated [[clay-pellet-seed-dispersal]] is critical for the natural regeneration of queen palm populations in fragmented forest landscapes.

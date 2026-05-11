@@ -88,23 +88,3 @@ ingredients.
 ## Watering During Casing Run
 
 After casing application, environmental conditions should match spawn run
-parameters: 90-100% humidity, minimal fresh air. Within three days the mycelium
-should be growing into the casing. Once established, the casing is gradually
-watered up to optimum moisture through light waterings with a misting nozzle
-over two to four days. Heavy direct watering can pan the casing surface, sealing
-it and trapping the mycelium.
-
-## Evaporation and Humidity Balance
-
-Water in the casing moves by capillary action to the surface where evaporation
-draws it into the air. This constant movement slowly depletes moisture needed to
-protect pinhead development. Room humidity must be held at 95% during the casing
-run and [[growing-gourmet-primordia-formation-pinning]]. Lower humidities must be accompanied by light but
-regular waterings. The higher the ambient humidity, the less water will be lost
-to evaporation from the casing surface.
-
-## See Also
-
-- [[mushroom-casing-scratching]]
-- [[stamets-crop-watering-flushing-management]]
-- [[mushroom-crop-management-flush-harvesting]]

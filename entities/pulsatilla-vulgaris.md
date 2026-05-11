@@ -73,7 +73,7 @@ national legislation in several European countries.
 ## Traditional Uses
 
 In European herbal medicine, *P. vulgaris* was used as an emmenagogue,
-antispasmodic, and treatment for respiratory conditions including
+antispasmodic, and treatment for [[cannabis-respiratory-conditions]] including
 coughs and bronchitis. Dried aerial parts were prepared as
 infusions and tinctures.
 
@@ -87,55 +87,4 @@ symptoms, weeping disposition, and thirstlessness.
   antimicrobial; decomposes to anemonin upon drying
 - **Triterpenoid saponins:** Pulsatillosides A-E with anti-
   inflammatory activity
-- **Flavonoids:** Vitexin, isovitexin, luteolin derivatives
-  with antioxidant properties
-- **Coumarins:** Umbelliferone and scopoletin
-- **Alkaloids:** Trace ranunculine
-
-Protoanemonin is highest in fresh material and decreases upon
-drying, reducing toxicity of prepared herbal materials.
-
-## Pharmacology
-
-Extracts have demonstrated several activities in preclinical studies:
-
-- **Anti-inflammatory:** Saponin fractions inhibit COX-2 and
-  TNF-α expression in macrophage models
-- **Antimicrobial:** Protoanemonin active against Gram-positive
-  bacteria and *Candida* species
-- **Spasmolytic:** Ethanol extracts relax smooth muscle in
-  isolated ileum preparations
-- **Antitumor:** Preliminary cytotoxic effects against certain
-  [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines
-
-Clinical evidence remains limited. The EMA recognizes traditional
-use only, based on long-standing historical application.
-
-## Toxicity
-
-All fresh plant parts are toxic. Symptoms include severe
-gastrointestinal irritation, vomiting, diarrhea, dizziness, and
-in severe cases convulsions and respiratory distress. Topical
-fresh sap causes skin blistering. Drying significantly reduces
-but does not eliminate protoanemonin.
-
-## Cultivation
-
-Widely grown as an ornamental in rock gardens and alpine plantings.
-Requires excellent drainage, full sun, and alkaline soil.
-
-- **Propagation:** Seed (cold stratification required) or rootstock
-  division in autumn
-- **Hardiness:** USDA zones 4-8
-- **Growth:** Slow to establish; resents disturbance
-- **Cultivars:** 'Papageno' (semi-double, mixed), 'Rote Glocke'
-  (red), 'Alba' (white)
-
-## See Also
-
-- [[berberis-vulgaris]]
-- [[thymus-vulgaris-entity]]
-- [[herbal-medicine]]
-
-- clematis
-- ranunculus
+- **Flavonoids:** Vitexin, isovitexin, [[luteolin]] derivatives

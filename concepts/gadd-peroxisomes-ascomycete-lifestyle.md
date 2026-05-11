@@ -41,8 +41,8 @@ organelles. Hymenomycetes produce a septal pore cap (SPC) or
 parenthosome associated with the barrel-shaped dolipore septum, which
 appears to be a specialised domain of the endoplasmic reticulum.
 Urediniomycetes elaborate perforate septa with peroxisome-like
-organelles that sometimes contain electron-dense polyhedral structures
-superficially resembling Woronin bodies but with distinct core
+organelles that sometimes contain electron-dense [[cage-fungi-and-polyhedral-structures]]
+superficially resembling [[gadd-woronin-bodies-hyphal-septation]] but with distinct core
 composition showing fine striations.
 
 ## Discovery of Woronin bodies
@@ -59,17 +59,17 @@ compartments and moved within the protoplasm.
 Buller's experiments showed that when a hyphal cell was killed, septa
 became convexo-concave and pores became blocked. Collinge and Markham
 (1985) established that Woronin bodies were responsible: in
-Penicillium chrysogenum, they rapidly plugged 90% of septal pores near
+[[penicillium-chrysogenum]], they rapidly plugged 90% of septal pores near
 damage sites versus only 5% in undamaged hyphae. The Woronin body
 resists intracellular [[bloomfield-turgor-pressure-and-hyphal-invasion]] to prevent protoplasmic bleeding
 through septal pores following cellular damage.
 
 ## HEX-1: the key structural protein
 
-Woronin bodies were purified from Neurospora crassa, allowing
+Woronin bodies were purified from [[neurospora-crassa]], allowing
 identification of HEX-1, a Euascomycete-specific protein. HEX-1
 antibodies decorated the Woronin body matrix in N. crassa, Aspergillus
-nidulans, and Magnaporthe grisea. The hex-1 gene encodes a consensus
+nidulans, and [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]]. The hex-1 gene encodes a consensus
 PTS-1 peroxisome targeting signal. Expression in yeast generates
 intraperoxisomal protein assemblies morphologically similar to native
 Woronin bodies, and recombinant HEX-1 spontaneously crystallises in
@@ -84,59 +84,6 @@ lattice structure of cross-linked helical filaments. Mutations disrupting
 crystal contacts abolished self-assembly and produced aberrant Woronin
 bodies with soluble non-crystalline cores that could not complement
 loss-of-function phenotypes. The solid crystalline core is essential for
-function, providing structural integrity to resist turgor pressure.
+function, providing structural integrity to resist [[bloomfield-turgor-pressure-osmotic-mechanisms]].
 
 ## Apical programming of Woronin body biogenesis
-
-Woronin [[fungal-fruiting-body-formation-environmental-triggers]] is programmed to occur in apical hyphal
-compartments. Time-lapse confocal microscopy confirmed tip-cell
-localised formation. A fluorescent reporter from hex-1 regulatory
-sequences revealed a gradient maximal in apical cells, with endogenous
-transcripts enriched at the colony leading edge. When hex-1 was expressed
-from regulatory sequences of interior-accumulating transcripts, Woronin
-body formation was redirected to the colony interior, causing
-loss-of-function in apical compartments.
-
-## Phylogenetic distribution
-
-The hex-1 gene has been identified in 17 Euascomycetes including all
-seven with genome sequences, and in the earliest diverging Pezizomycetes.
-It is absent from nine fully sequenced fungal genomes outside the
-Euascomycetes, suggesting it arose in the ancestral Euascomycete.
-Neolecta possesses Woronin-body-like organelles but low-stringency
-Southern blotting failed to detect hex-1, suggesting independent origin.
-
-## Structural variation through alternative splicing
-
-Most Euascomycetes produce two HEX-1 forms through alternative splicing,
-differing at the amino-terminus by several kilodaltons. Co-complex of
-isoforms may determine oval versus hexagonal morphology. In N. crassa, a
-single HEX-1 version produces large hexagonal Woronin bodies, while
-species with two isoforms produce smaller oval forms.
-
-## Virulence and pathogenicity connections
-
-In Magnaporthe grisea, hex-1 mutants are defective in appressorium
-morphogenesis and [[fungal-hyphae-invasive-growth-mechanisms]]. The mutant displays hyphal death in
-response to nitrogen starvation, and nitrogen starvation regulates
-HEX-1 splice variants. This suggests Woronin bodies provide an important
-defence system for [[bloomfield-fungal-pathogens-and-parasites]], potentially making them attractive
-targets for fungicide development.
-
-## Evolutionary origins from eIF-5a
-
-HEX-1 shares sequence and structural homology with eIF-5a proteins,
-which are ancient and highly conserved from Archaea through eukaryotes.
-The hex-1 gene likely evolved via duplication of an ancestral eIF-5a
-gene followed by acquisition of new functions for organelle targeting
-and self-assembly, consistent with Ohno's hypothesis that gene
-duplication drives evolutionary innovation.
-
-## Related concepts
-
-- [[gadd-fungal-cell-structure]]
-- [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- fungal-environmental-sensing
-- [[neurospora-crassa]]
-- [[magnaporthe-grisea]]
-- [[penicillium-chrysogenum]]

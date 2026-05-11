@@ -53,11 +53,11 @@ Young foliage is bronze-tinted when emerging in spring, maturing to glossy dark 
 
 ## Distribution and Habitat
 
-*A. macrophylla* is native to the Appalachian region and adjacent areas of the eastern United States, ranging from Pennsylvania south through the mountains of West Virginia, Virginia, Tennessee, North Carolina, Georgia, and Alabama.
+*A. macrophylla* is native to the [[bolete-fungi-appalachian-region]] and adjacent areas of the eastern [[dmt-maoi-plants-united-states]], ranging from Pennsylvania south through the mountains of West Virginia, Virginia, Tennessee, [[north-carolina-mycodiversity]], Georgia, and Alabama.
 
 The species occurs in rich, moist forests, often on calcareous soils along stream banks, ravines, and north-facing slopes. It is most abundant in the Cumberland Plateau and southern Appalachian Mountains at elevations of 200–1200 m.
 
-In cultivation, the vine has naturalized sparingly beyond its native range in parts of the northeastern United States and the Pacific Northwest. It is hardy to USDA zone 5, tolerating winter temperatures to -25°C with adequate root protection.
+In cultivation, the vine has naturalized sparingly beyond its native range in parts of the northeastern United States and the [[psilocybin-north-america-pacific-northwest]]. It is hardy to USDA zone 5, tolerating winter temperatures to -25°C with adequate root protection.
 
 Naturalized populations in the northeastern U.S. are generally small and non-invasive, typically persisting only near original planting sites. The species does not appear on any state or federal invasive species lists.
 
@@ -79,7 +79,7 @@ The pipevine swallowtail (*Battus philenor*) is an oligophagous herbivore that s
 
 These sequestered toxins render both caterpillars and adult butterflies **unpalatable** to birds and other predators. The butterfly's iridescent blue-black coloration serves as aposematic (warning) signaling, and several non-toxic butterfly species mimic the pipevine swallowtail's appearance.
 
-The relationship between *Aristolochia* and *Battus* is a textbook example of **coevolutionary chemical ecology**. The vine's trap-flower mechanism also relies on fly pollination, creating a complex web of ecological interactions centered on chemical defense.
+The relationship between *Aristolochia* and *Battus* is a textbook example of **coevolutionary [[plant-volatile-communication-chemical-ecology]]**. The vine's trap-flower mechanism also relies on fly pollination, creating a complex web of ecological interactions centered on chemical defense.
 
 The specific pollinators of *A. macrophylla* are primarily flesh flies and other saprophagous Diptera attracted by the flower's dark, decaying-flesh-like interior. The flower emits a faint carrion-like odor detectable at close range, reinforcing the deception.
 
@@ -87,35 +87,4 @@ The specific pollinators of *A. macrophylla* are primarily flesh flies and other
 
 *A. macrophylla* has minimal ethnobotanical history among [[halpern-sacramental-peyote-and-native-american-church]] peoples, who generally avoided *Aristolochia* species due to their recognized toxicity. Some Cherokee accounts mention the vine being used externally for snake bites, though this use is poorly documented.
 
-The primary modern use of *A. macrophylla* is as an **ornamental vine**. It was introduced to European horticulture in the 18th century and remains a popular choice for covering walls, fences, and garden structures in temperate regions.
-
-The large, dense foliage creates effective shade screens, and the vine is fast-growing once established. It is particularly valued for covering unsightly structures, with the common name "pipevine" being used interchangeably with "Dutchman's pipe" in nursery catalogs.
-
-The unusual flowers, while not showy from a distance, are conversation pieces when examined up close. The vine's greatest horticultural asset, however, is its role as a host plant for the pipevine swallowtail, making it a staple in butterfly gardens.
-
-Several European species of *Aristolochia* (notably *A. clematitis*) have become problematic invasives and are associated with Balkan endemic nephropathy. *A. macrophylla*, by contrast, has shown no invasive tendencies in cultivation and is considered ecologically benign outside its native range.
-
-## Cultivation
-
-*A. macrophylla* is readily propagated from seed, which requires cold stratification for 60–90 days at 4°C for reliable germination. Semi-hardwood cuttings taken in late summer also root successfully under mist, though this method is less common in nursery practice.
-
-The vine prefers partial shade to full sun and deep, moist, loamy soil with a neutral to slightly acidic pH. It is tolerant of a wide range of soil conditions once established but performs best with consistent moisture during the [[savory-growing-season-and-non-growing-season-management]].
-
-A strong support structure is essential — the twining stems can become extremely heavy as the vine matures. Wooden trellises, wire cable systems, and sturdy pergolas are all suitable. The vine should not be grown on thin-barked trees, as the dense foliage and weight can damage the host.
-
-Pruning is best performed in late winter before new growth begins. The vine can be cut back aggressively to control size, as it flowers on new growth. In regions where pipevine swallowtails are present, pruning should be timed to avoid removing active caterpillar populations.
-
-The vine is relatively pest-free in cultivation, though Japanese beetles may occasionally damage foliage. [[cannabis-root-rot-prevention-and-treatment]] can develop in poorly drained soils, particularly in heavy clay. A 5–8 cm layer of organic mulch helps retain soil moisture and suppress weeds.
-
-## See Also
-
-- [[aristolochia-clematitis]]
-- [[asarum-canadense]]
-- [[asarum-europaeum]]
-- [[asarum-sieboldii]]
-- [[lindera-benzoin]]
-- [[persea-borbonia]]
-- [[houttuynia-cordata]]
-- [[saururus-cernuus]]
-- [[litsea-cubeba]]
-- [[saruma-henryi]]
+The primary modern use of *A. macrophylla* is as an **ornamental vine**. It was introduced to European horticulture in the 18th century and remains a popular choice for covering walls, fences, and garden structures in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].

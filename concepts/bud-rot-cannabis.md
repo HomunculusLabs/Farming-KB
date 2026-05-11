@@ -2,7 +2,8 @@
 title: Bud Rot (Botrytis) - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,42 +88,3 @@ Botrytis thrives in:
 - **Gliocladium roseum** and **Trichoderma** species — foliar spray application
 - **Gliocladium** and **Trichoderma** species — soil application to prevent damping-off
 - **Pichia guilliermondii** and **Candida oleophila** (yeasts) — experimental controls showing promise
-- **Pseudomonas syringae** (bacterium) — experimental control
-- **Evaporated sulfur** in the grow room or greenhouse stops Botrytis contamination
-
-## Chemical Controls
-
-- **Bordeaux mixture**: Keeps early stages of Botrytis in check as long as it remains on foliage
-- Preventive spraying advised if in a high-risk area
-- **Caution**: Do not spray buds near harvest time — chemical residues on consumable buds are undesirable
-- Seeds can be protected with a coating of Captan to prevent Botrytis transmission
-- Check with local nurseries for product recommendations
-
-## Cultural and Physical Control
-
-When Botrytis symptoms appear:
-
-1. Use alcohol-sterilized pruners to remove infected buds at least one inch (3 cm) below the infected area; some growers remove 2-4 inches (5-10 cm) below damage to ensure complete removal
-2. Do not let the bud or anything that touches it contaminate other buds and foliage
-3. Remove from the garden and destroy completely — do not compost infected material
-4. Wash hands and tools after removing
-5. Increase temperature above 80°F (26°C) and lower humidity below 50%
-6. Avoid heavy crowding of plants
-7. Keep light levels bright
-
-## Fungi Prevention Overview
-
-1. Remove anything that might attract or harbor fungi (cloth curtains, clothes, debris)
-2. Cover carpet with white plastic sheeting
-3. Spray walls with fungicide if mold surfaces; wash with 5% bleach solution
-4. Apply fungus-inhibiting paint to walls
-5. Keep humidity at 50% or less
-6. Few clean, well-ventilated grow rooms have problems with fungi
-7. In contrast, every dingy, dank, ill-kept indoor garden has fungal problems and yields a substandard harvest
-
-## See Also
-
-- [[cannabis-root-rot-prevention-and-treatment]] — another fungal disease affecting cannabis
-- [[humidity-cannabis-growing]] — [[eclss-environmental-control-life-support]]
-- [[gaias-garden-cover-crops-soil-building]]
-- [[hamilton-pest-and-disease-control-organic]]

@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/concepts/cho-natural-pest-control-methods.md
   - ~/wiki/concepts/knf-pest-control-methods.md
   - ~/wiki/concepts/cervantes-whitefly-pest-control.md

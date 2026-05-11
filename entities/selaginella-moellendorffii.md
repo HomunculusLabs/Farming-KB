@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-Selaginella moellendorffii is a species of spikemoss in the family Selaginellaceae that has achieved prominence as a model organism for evolutionary and genomic studies of vascular plants.
+Selaginella moellendorffii is a species of spikemoss in the family Selaginellaceae that has achieved prominence as a [[canary-grass-phototropism-model-organism]] for evolutionary and genomic studies of vascular plants.
 
 It was selected for whole-genome sequencing because of its key phylogenetic position as an early-diverging vascular plant lineage distinct from both ferns and seed plants.
 
@@ -59,7 +59,7 @@ The species typically grows in shaded, moist habitats including forest floors, r
 
 It is most commonly found in subtropical to warm-temperate forests at elevations ranging from near sea level to approximately 1,500 meters.
 
-The plant thrives in areas with high humidity and well-drained substrates rich in organic matter.
+The plant thrives in areas with high humidity and well-drained substrates rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 Selaginella moellendorffii can form extensive mats that carpet the forest floor, particularly in areas with consistent moisture.
 
@@ -69,7 +69,7 @@ Populations are generally stable in undisturbed forest habitats but may decline 
 
 ## Genomics and Research Significance
 
-Selaginella moellendorffii was selected for genome sequencing by the United States Department of Energy Joint Genome Institute due to its phylogenetic position as a representative of early-diverging vascular plants.
+Selaginella moellendorffii was selected for genome sequencing by the [[dmt-containing-plants-united-states-halpern]] Department of Energy Joint Genome Institute due to its phylogenetic position as a representative of early-diverging vascular plants.
 
 The sequenced genome has a compact size of approximately 106 megabases, making it one of the smallest genomes known among vascular plants.
 
@@ -85,36 +85,6 @@ Research on Selaginella moellendorffii has provided insights into the evolution 
 
 The species has become an important comparative genomics resource for understanding which plant traits are ancestral and which are derived.
 
-Its small genome, ease of cultivation, and rapid life cycle have made it increasingly popular as a laboratory model organism for plant evolutionary biology.
+Its small genome, ease of cultivation, and rapid [[agaricus-campestris-biology-and-life-cycle]] have made it increasingly popular as a laboratory model organism for plant evolutionary biology.
 
 ## Ecology
-
-In natural ecosystems, Selaginella moellendorffii contributes to the ground layer vegetation of forest communities, forming dense mats that help retain soil moisture.
-
-The mats provide microhabitat for soil invertebrates and serve as nurseries for the germination of forest floor seedlings.
-
-Spore production and dispersal are critical for the colonization of new habitats and the maintenance of genetic diversity within populations.
-
-The heterosporous condition of Selaginella moellendorffii, with separate microspores and megaspores, may confer advantages in reproductive efficiency compared to homosporous ancestors.
-
-Interactions with mycorrhizal fungi are important for nutrient acquisition, particularly in the nutrient-poor soils of forest understories.
-
-The fungal associations extend to both the roots and the subterranean gametophytes, facilitating nutrient exchange across the plant-fungus interface.
-
-The species serves as a food source for various herbivorous invertebrates, though its tough, leathery leaves provide some degree of herbivore resistance.
-
-Chemical defense compounds produced by Selaginella moellendorffii include selaginellins and other phenolic derivatives that may deter herbivory.
-
-These secondary metabolites are also of interest to pharmacologists due to their reported antioxidant and anti-inflammatory properties.
-
-## See Also
-
-- [[huperzia-serrata]]
-- [[lycopodium-clavatum]]
-- [[botrychium-lunaria]]
-- [[marsilea-quadrifolia]]
-- [[azolla-filiculoides]]
-- [[salvinia-molesta]]
-- [[equisetum-arvense]]
-- [[pteridium-aquilinum]]
-- [[polypodium-vulgare]]

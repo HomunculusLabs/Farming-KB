@@ -14,7 +14,7 @@ sources:
   - AllBud (2023). "London Pound Cake blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Wikileaf (2023). "London Pound Cake: The UK's Most Decadent Export." Wikileaf.com.
   - Cookies Fam (2022). "London Pound Cake — Strain Library." cookiesfam.com.
-  - cannabis-md (2022). "Terpene Profile Analysis of Popular Cake-Strain Varieties." Journal of Cannabis Research 4(2): 15-28.created: 2026-05-07
+  - cannabis-md (2022). "[[cannabis-terpene-profile]] Analysis of Popular Cake-Strain Varieties." Journal of Cannabis Research 4(2): 15-28.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -23,11 +23,11 @@ created: 2026-05-07
 
 London Pound Cake (often abbreviated LPC) is a highly potent indica-dominant hybrid cannabis strain bred by the Cookies Fam genetics team in California. Released in the late 2010s, it quickly became one of the most sought-after exotic strains on the West Coast due to its exceptionally high THC content, complex dessert-like aroma, and visually striking bud structure.
 
-The strain is a cross between the legendary Sunset Sherbert and an unspecified or closely held parent line often described as a heavy indica phenotype from the Cookies gene pool. Its reputation for high potency — routinely testing between 25–30% THC — has made it a favorite among experienced consumers and a frequent building block for new crosses.
+The strain is a cross between the legendary [[sunset-sherbert]] and an unspecified or closely held parent line often described as a heavy indica phenotype from the Cookies gene pool. Its reputation for high potency — routinely testing between 25–30% THC — has made it a favorite among experienced consumers and a frequent building block for new crosses.
 
 ## Lineage
 
-**Parent 1: Sunset Sherbert** (indica-dominant) — a cross of Girl Scout Cookies and Pink Panties, contributing sweet, fruity, and creamy terpene notes along with moderate-to-high THC.
+**Parent 1: Sunset Sherbert** (indica-dominant) — a cross of [[girl-scout-cookies]] and Pink Panties, contributing sweet, fruity, and creamy terpene notes along with moderate-to-high THC.
 
 **Parent 2:** An unreleased, closely held Cookies phenotype. The Cookies team has not publicly disclosed the full genetic breakdown of the second parent, though it is widely believed to carry Power Ancestry or related Afghani-indica lineage.
 
@@ -60,7 +60,7 @@ The high limonene and linalool content creates an unusual tension between cerebr
 - **THC:** 25–30% (some phenotypes reported at 32%+)
 - **CBD:** < 0.1% (negligible)
 - **THCV:** Trace amounts (< 0.05%)
-- **Minor cannabinoids:** CBC and CBG detected in trace quantities.
+- **[[cannabis-minor-cannabinoids]]:** CBC and CBG detected in trace quantities.
 
 The strain is notably THC-dominant with virtually no CBD. This high THC-to-CBD ratio contributes to the intense psychoactive experience.
 
@@ -74,7 +74,7 @@ The strain is notably THC-dominant with virtually no CBD. This high THC-to-CBD r
 
 **Duration:** 2–3 hours for the primary effects, with a lingering physical relaxation for 1–2 additional hours.
 
-Common applications include stress relief, insomnia management, mild pain, and appetite stimulation. Due to its potency, the strain is recommended for experienced consumers.
+Common applications include stress relief, insomnia management, mild pain, [[cannabis-for-cachexia-and-appetite-stimulation]]. Due to its potency, the strain is recommended for experienced consumers.
 
 ## Side Effects
 
@@ -86,33 +86,4 @@ Lightheadedness and dizziness can occur during the initial onset, especially whe
 
 **Flowering time:** 8–9 weeks indoors.
 
-**Yield:** Moderate — approximately 300–400 g/m² indoors. Outdoor yields vary widely based on climate and training methods.
-
-**Difficulty:** Moderate-to-difficult. The strain is sensitive to nutrient levels and prone to calcium and magnesium deficiencies. It requires careful pH management (5.8–6.2 in hydroponic systems).
-
-**Climate preference:** Warm, Mediterranean-style climate outdoors. The dense bud structure makes it susceptible to bud rot in humid conditions — adequate airflow and [[cervantes-humidity-control-dehumidification]] are essential.
-
-Indoor growers should maintain relative humidity below 55% during the [[green-cannabis-grow-bible-flowering-phase-and-harvest]] and ensure oscillating fans provide constant air movement through the canopy.
-
-The strain responds well to low-stress training (LST) and scrog methods. [[comparison-sea-of-green-vs-screen-of-green]] (SOG) is less effective due to the plant's naturally bushy structure. Defoliation during weeks 3–5 of flowering improves light penetration to lower bud sites.
-
-## Notable Crosses and Phenotypes
-
-London Pound Cake has become a foundational parent for numerous crosses in the Cookies ecosystem:
-
-- **London Pound Cake #75** — Selected phenotype with amplified grape notes.
-- **Ice [[ice-cream-cake-cannabis]]** (LPC × Gelato #33) — One of the most popular dessert strains.
-- **London Jelly** (LPC × Jealousy) — A 2023 release with enhanced potency.
-- **Papaya Cake** (LPC × Papaya) — Tropical fruit notes layered on the cake base.
-- **LPC Mints** (LPC × Kush Mints) — Minty-fresh profile with added sedation.
-
-## See Also
-
-- [[london-poundcake]]
-
-- [[girl-scout-cookies]]
-- [[wedding-cake]]
-- [[animal-cookies]]
-- [[sour-diesel]]
-- [[white-widow-entity]]
-- [[runtz-entity]]
+**Yield:** Moderate — approximately 300–400 g/m² indoors. Outdoor yields vary widely based on climate [[mckenna-shamanic-identification-signs-and-training-methods]].

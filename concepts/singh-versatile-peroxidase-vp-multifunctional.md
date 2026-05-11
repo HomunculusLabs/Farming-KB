@@ -19,7 +19,7 @@ type: concept
 Versatile peroxidase (VP; EC 1.11.1.16) is a unique ligninolytic
 peroxidase that combines the catalytic properties of both lignin
 peroxidase (LiP) and [[fungal-manganese-peroxidase-remediation]] (MnP) within a single
-protein. Originally described in pleurotus eryngii, VP represents
+protein. Originally described in [[pleurotus-eryngii]], VP represents
 a molecular hybrid that broadens the bioremediation potential of fungal
 peroxidase systems by enabling both direct oxidation of non-phenolic
 aromatics and Mn2+-mediated indirect oxidation in one enzyme.
@@ -38,7 +38,7 @@ in some species.
 ## Enzyme Structure and Unique Features
 
 VP is a heme-containing glycoprotein of approximately 42-45 kDa that
-retains the conserved structural features of classical peroxidases while
+retains the conserved [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] of classical peroxidases while
 incorporating unique elements from both LiP and MnP lineages:
 
 - **Mn2+ binding site**: VP possesses a functional Mn2+ oxidation site
@@ -53,7 +53,7 @@ incorporating unique elements from both LiP and MnP lineages:
 
 This dual structural architecture allows VP to oxidize Mn2+ (like MnP),
 directly oxidize high-redox-potential non-phenolic aromatics at the
-heme edge (like LiP), and also oxidize phenolic compounds and low-
+heme edge (like LiP), and also oxidize [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and low-
 redox-potential dyes through conventional peroxidase mechanisms.
 
 ## Dual Catalytic Mechanisms
@@ -62,10 +62,10 @@ VP operates through two principal oxidation pathways:
 
 ### Mn2+-Dependent (MnP-like) Pathway
 When Mn2+ is present, VP oxidizes Mn2+ to Mn3+ using H2O2. The
-resulting Mn3+, stabilized by organic acid chelators (oxalate, malate,
+resulting Mn3+, stabilized by [[fungal-organic-acid-metal-solubilization]] chelators (oxalate, malate,
 citrate), diffuses away to oxidize phenolic substrates at a distance
-from the fungal hyphae. This pathway is important for degrading soluble
-phenolic pollutants and modifying lignin in wood cell walls.
+from the [[fungal-hyphae]]. This pathway is important for degrading soluble
+phenolic pollutants and modifying lignin in wood [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
 ### Mn2+-Independent (LiP-like) Pathway
 In the absence of Mn2+ or when non-phenolic substrates are present, VP
@@ -88,40 +88,3 @@ pleurotus eryngii remains the most extensively studied VP source.
 Key features of VP production in P. eryngii include:
 
 - **Regulation by carbon source**: Glucose represses VP; lignocellulosic
-  substrates (wheat straw, grapevine sawdust) strongly induce
-  expression.
-- **Mn2+ dependence**: Low to moderate Mn2+ concentrations (10-100
-  microM) favor VP production; high Mn2+ favors MnP over VP in some
-  Pleurotus species.
-- **Nitrogen levels**: VP is produced under both nitrogen-limited and
-  nitrogen-sufficient conditions, unlike LiP from [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], pleurotus pulmonarius, bjerkandera adusta, and bjerkandera fumosa.
-
-## Bioremediation Applications
-
-VP's dual functionality makes it particularly effective for:
-
-1. **Recalcitrant pollutant degradation**: Simultaneous oxidation of
-   phenolic and non-phenolic components of industrial effluents.
-2. **[[singh-textile-dye-decolorization-fungal]]**: Efficient removal of structurally diverse
-   dyes including azo, anthraquinone, and triphenylmethane classes.
-3. **PAH oxidation**: Degradation of both low- and high-molecular-
-   weight [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons.
-4. **Pharmaceutical degradation**: Oxidation of emerging contaminants
-   including antibiotics and endocrine-disrupting compounds.
-5. **Lignin valorization**: Selective modification of lignin for
-   production of aromatic platform chemicals.
-
-## Comparison with LiP and MnP
-
-VP offers practical advantages over individual LiP or MnP systems:
-- Single enzyme replaces the need for two separate enzymes
-- Functions under less restrictive nutritional conditions than LiP
-- Broader pH tolerance (optimal pH 3.0-5.0)
-- Effective in both Mn2+-rich and Mn2+-poor environments
-- Simpler [[fukuoka-textdoc-genetic-engineering-critique-warning]] target (single gene)
-
-## See Also
-
-- [[singh-manganese-peroxidase-mnp-biodegradation]]
-- [[singh-textile-dye-decolorization-fungal]]
-- [[singh-fungal-immobilization-bioreactor-technology]]

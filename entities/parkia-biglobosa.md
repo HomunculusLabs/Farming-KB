@@ -2,11 +2,11 @@
 title: "Parkia biglobosa"
 type: species
 tags:
-  - permaculture
-  - agroforestry
+  - [[permaculture]]
+  - [[agroforestry]]
   - multi-purpose-tree
   - nitrogen-fixing
-  - food-forest
+  - [[food-forest]]
   - legume
   - african-agriculture
   - traditional-food
@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Parkia biglobosa." Royal Botanic Gardens, Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:530311-1
-  - Hopkins HC (1983). "The Taxonomy, Reproductive Biology and Economic Potential of Parkia (Leguminosae: Mimosoideae)." Advances in Legume Systematics 1: 191-220.
+  - Hopkins HC (1983). "The Taxonomy, [[clarke-marijuana-botany-sex-determination-reproductive-biology]] and Economic Potential of Parkia (Leguminosae: Mimosoideae)." Advances in Legume Systematics 1: 191-220.
   - Campbell BM (1987). "The Use of Wild Fruits in Zimbabwe." Economic Botany 41(3): 375-385.
   - Leakey RRB et al. (2005). "Agroforestry Tree Products: Targeting Poverty Reduction and Enhanced Livelihoods." International Journal of Agricultural Sustainability 3(1): 1-23.
 created: 2026-05-07
@@ -31,7 +31,7 @@ The seeds are the source of **dawadawa** (also spelled *iru*), a protein-rich fe
 
 *Parkia biglobosa* is a keystone species in traditional agroforestry systems, often retained and actively managed within farmland rather than cleared.
 
-Its ability to fix atmospheric nitrogen, provide shade, and produce marketable food products makes it an excellent candidate for permaculture and food-forest design in tropical and subtropical climates.
+Its ability to fix atmospheric nitrogen, provide shade, and produce marketable food products makes it an excellent candidate for permaculture and food-forest design in tropical [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]].
 
 ## Taxonomy and Morphology
 
@@ -63,7 +63,7 @@ Its ability to fix atmospheric nitrogen, provide shade, and produce marketable f
 
 Its natural range extends from Senegal in the west through Mali, Burkina Faso, Ghana, Nigeria, Cameroon, Chad, and Sudan.
 
-It is also found in parts of East Africa and has been introduced to other tropical regions.
+It is also found in parts of East Africa and has been introduced to other [[fukuoka-natural-farming-in-tropical-regions]].
 
 The species occurs naturally in open savanna woodland, forest margins, and fallow [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
@@ -88,59 +88,3 @@ Dawadawa is used to flavor soups, stews, and sauces, providing both umami depth 
 Fermented seeds contain approximately 35–40% protein, making them one of the most important plant-based protein sources in the region.
 
 The seeds are also roasted and used as a coffee substitute in some areas.
-
-**Traditional medicine:**
-
-Bark decoctions are used to treat wounds, toothache, and respiratory infections.
-
-Root extracts are employed against diarrhea, dysentery, and malaria-like fevers.
-
-Leaf preparations are used as eyewash and to treat ear infections.
-
-The tree's gum has applications similar to gum arabic in traditional pharmacopeias.
-
-**Wood and other products:**
-
-The wood is moderately hard and durable, used for tool handles, furniture, and construction.
-
-It serves as a good fuelwood and charcoal source.
-
-The tree provides excellent shade for crops, livestock, and human settlements.
-
-## Agroforestry and Permaculture Applications
-
-*Parkia biglobosa* is one of the most important multi-purpose agroforestry trees in West Africa.
-
-It is a **nitrogen-fixing legume**, forming symbiotic associations with rhizobial bacteria that convert atmospheric nitrogen into plant-available forms.
-
-This nitrogen fixation benefits neighboring crops, reducing the need for synthetic fertilizers in mixed farming systems.
-
-In traditional parkland agroforestry systems, *P. biglobosa* is deliberately retained at densities of 10–50 trees per hectare within cropped fields.
-
-The shade provided by its spreading canopy reduces soil temperature and evaporation, benefiting understory crops such as millet, sorghum, and groundnuts.
-
-Leaf fall contributes significant [[hamilton-composting-and-organic-matter-management]] and nutrients to the soil, supporting soil fertility in low-input farming systems.
-
-For permaculture applications, *P. biglobosa* serves multiple functions: food production, nitrogen fixation, shade, mulch production, windbreak, and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms.
-
-It is an excellent canopy-layer species for tropical food-forest designs, with the additional benefit of producing a high-value fermented food product.
-
-## Cultivation
-
-Propagation is primarily from seed, though germination can be slow and irregular due to a hard seed coat.
-
-Scarification (mechanical nicking or hot water treatment) significantly improves germination rates.
-
-Seedlings grow rapidly, reaching 2–3 meters in the first two years under favorable conditions.
-
-The tree begins flowering and fruiting at approximately 5–8 years from seed.
-
-Yields of seed pods are variable, with mature trees producing 50–200 kg of pods per year.
-
-The species responds well to coppicing and pollarding for managed harvest of foliage and branches.
-## See Also
-
-- [[azadirachta-indica]]
-- [[vetiveria-zizanoides]]
-- [[leucaena-leucocephala]]
-- gliricidia-sepium

@@ -87,29 +87,3 @@ In N. crassa, calcium signalling has been demonstrated to regulate:
 Calcium signalling does not operate in isolation but is integrated with other
 [[fungal-environmental-sensing-signal-transduction-read]] pathways in fungal cells. In N. crassa, the genome encodes
 an expanded repertoire of signalling components:
-
-- Ten heterotrimeric G proteins (compared to two in budding yeast)
-- Eleven histidine kinases for two-component signal transduction
-- Nine MAP kinases that may form more than three MAPK modules, allowing
-  extensive signalling diversity and cross-talk
-
-Mutations in N. crassa MAP kinases have multiple phenotypic effects, and the
-absence of Ste5 (the scaffold protein that conditions specificity in MAP
-kinase signalling in S. cerevisiae) in N. crassa and Magnaporthe grisea
-suggests alternative mechanisms for pathway specificity in filamentous fungi.
-
-## Comparison with Plant Pathogenic Fungi
-
-The [[bloomfield-rice-blast-appressorium-mechanics]] fungus Magnaporthe grisea shows differences from N. crassa in
-signalling machinery. M. grisea has a greatly expanded family of GPCRs
-(G-protein coupled receptors): 76 identified compared to 35 in N. crassa.
-Sixty-one of these belong to a completely new class of eukaryotic GPCRs (the
-PTH11-related proteins). This expanded receptor repertoire may give M. grisea
-greater flexibility in reacting to different extracellular signals, potentially
-related to its pathogenic rather than [[gadd-fungal-cell-structure]]
-- [[magnaporthe-grisea-functional-genomics-rice-blast]]
-- [[gadd-fungal-reproduction-spores]]
-
-## See Also
-
-- [[gadd-two-component-signalling-histidine-kinase-fungi]]

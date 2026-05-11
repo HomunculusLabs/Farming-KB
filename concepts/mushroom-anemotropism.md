@@ -1,6 +1,6 @@
      1|     1|---
      2|     2|title: Mushroom Anemotropism
-     3|     3|source: Badham (1982) Tropisms in the Mushroom [[psilocybe-cubensis]] is]]
+     3|     3|source: Badham (1982) Tropisms in the Mushroom [[psilocybe-cubensis]]
      4|     4|extracted: 2026-05-10
      5|     5|type: concept
      6|     6|tags: [mycology, tropism, anemotropism, psilocybe-cubensis, wind-response, spore-dispersal]
@@ -88,61 +88,3 @@
     88|    88|
     89|    89|The response is also observed in darkness where no phototropic enhancement occurs.
     90|    90|
-    91|    91|### Possible Role of Ethylene
-    92|    92|
-    93|    93|Russo et al. (1975) suggested ethylene may mediate the avoidance response in *Phycomyces*.
-    94|    94|
-    95|    95|Wind could redistribute ethylene or other volatile growth regulators around the stipe.
-    96|    96|
-    97|    97|Concentration gradients could then drive differential growth rates.
-    98|    98|
-    99|    99|This remains speculative for *Psilocybe cubensis*.
-   100|   100|
-   101|   101|## Interaction with Phototropism
-   102|   102|
-   103|   103|Light influences anemotropism indirectly.
-   104|   104|
-   105|   105|At least four different light responses have been described for mushrooms (Eger-Hummel, 1980).
-   106|   106|
-   107|   107|*P. cubensis* resembles *Coprinus congregatus* in its photosensitivity.
-   108|   108|
-   109|   109|Light is necessary for [[light-basidiocarp-initiation-psilocybe-cubensis-research]] in *P. cubensis*.
-   110|   110|
-   111|   111|Light is also necessary for spore formation.
-   112|   112|
-   113|   113|Light exerts some inhibitory effect on stipe elongation.
-   114|   114|
-   115|   115|Light may enhance evaporative demand through surface heating.
-   116|   116|
-   117|   117|In the wind tunnel experiments, light flux was approximately 1/10 of natural conditions.
-   118|   118|
-   119|   119|Direct phototropic effects were therefore minimized.
-   120|   120|
-   121|   121|However, if light triggers hormonal responses at very low intensities, the interaction could be more complex.
-   122|   122|
-   123|   123|## [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
-   124|   124|
-   125|   125|Anemotropism likely serves two adaptive functions.
-   126|   126|
-   127|   127|### Spore Dispersal Optimization
-   128|   128|
-   129|   129|Growing into the prevailing air flow positions the pileus in the path of moving air.
-   130|   130|
-   131|   131|When the pileus opens at Stage 3, the wind is already directed at the spore-producing surface.
-   132|   132|
-   133|   133|This maximizes distance and efficiency of spore dispersal.
-   134|   134|
-   135|   135|The effect is particularly important for species in microenvironments with limited air movement.
-   136|   136|
-   137|   137|### Cespitose Spacing
-   138|   138|
-   139|   139|For mushrooms growing in dense clusters, directed growth toward evaporative demand could increase spacing between adjacent stipes.
-   140|   140|
-   141|   141|This reduces competition for air circulation and light.
-   142|   142|
-   143|   143|Improved spacing enhances spore dispersal efficiency for the entire cluster.
-   144|   144|
-   145|   145|## Methodological Notes
-   146|   146|
-   147|   147|The wind tunnel had a working area of 43 × 30 × 20 cm.
-   148|

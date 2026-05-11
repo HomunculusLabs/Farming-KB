@@ -53,10 +53,10 @@ The surrounding protein controls when PMP releases its amino group to a keto aci
 PMP and PLP are interconverted during aminotransferase catalytic cycles.
 PLP begins many transamination reactions as an aldehyde-containing amino-group acceptor.
 An [[cho-fish-amino-acid-preparation]] substrate transfers its amino group to PLP.
-The carbon skeleton of that amino acid leaves as an alpha-keto acid.
+The carbon skeleton of that [[fish-amino-acid]] leaves as an alpha-keto acid.
 The cofactor is then present as PMP.
 PMP subsequently reacts with a second alpha-keto acid.
-It donates the amino group to that keto acid to form a new amino acid.
+It donates the amino group to that keto acid to form a new [[fish-amino-acid-faa]].
 The donation regenerates PLP and completes the catalytic cycle.
 This ping-pong logic lets aminotransferases move nitrogen without releasing free ammonia.
 The PLP-PMP pair is therefore central to reversible nitrogen exchange in metabolism.
@@ -88,52 +88,3 @@ The same cofactor scaffold can support many substrate pairs because proteins tun
 PMP's importance is therefore inseparable from the enzyme architecture that holds it.
 
 ## Biological Importance
-
-PMP is a necessary transient form in the redistribution of amino nitrogen.
-Nitrogen from dietary and cellular amino acids often passes through aminotransferase reactions.
-Those reactions help connect amino acid pools with central [[one-carbon-metabolism-vs-glutathione-redox-biology]].
-They also help produce nonessential amino acids from available keto acid precursors.
-In the liver, aminotransferase activity supports nitrogen handling before urea-cycle disposal.
-In muscle, transamination participates in alanine and glutamate cycling during exercise and fasting.
-In microbes and plants, PLP-PMP cycles support biosynthesis of many amino acids and specialized metabolites.
-Because PMP is often enzyme-bound, it is less visible as a free metabolite than PLP in many discussions.
-Its low profile should not be mistaken for low importance.
-Without PMP formation, classic aminotransferase chemistry would stop after the first half-reaction.
-
-## Distinction from Pyridoxamine
-
-Pyridoxamine is an unphosphorylated vitamin B6 vitamer.
-Pyridoxamine phosphate is the phosphorylated form relevant to enzyme-bound transamination.
-The phosphate changes solubility, charge, binding, and cellular handling.
-Free pyridoxamine has been discussed for carbonyl scavenging and anti-glycation chemistry.
-Those pyridoxamine topics should not be automatically transferred to PMP without context.
-PMP's main role in this wiki is as a coenzyme state in amino acid metabolism.
-The distinction matters because enzyme active sites recognize the phosphate-bearing cofactor.
-Many vitamin B6 salvage enzymes interconvert phosphorylated and unphosphorylated forms.
-Phosphatases, kinases, oxidases, and binding proteins shape the balance of B6 vitamers.
-The biological identity of PMP is therefore metabolic and enzymological rather than nutritional alone.
-
-## Laboratory and Reference Use
-
-PMP appears frequently in mechanistic schemes for aminotransferases.
-It is often drawn as the product of the first half-reaction and reactant of the second half-reaction.
-Enzyme assays may infer PMP formation from product keto acid formation or spectral changes.
-Structural studies can capture PLP, PMP-like states, or analog-bound intermediates.
-Because PLP and PMP have different electronic structures, they can show different spectroscopic behavior.
-Chemical databases list PMP separately from PLP because it has a distinct formula and identifiers.
-That separation is useful for annotation of metabolic pathways and enzyme mechanisms.
-In pathway diagrams, PMP helps clarify that aminotransferases are not simple one-step group transfers.
-For teaching, PMP is the easiest way to explain how amino nitrogen moves without free ammonia.
-For curation, PMP deserves its own page because it is repeatedly referenced but easily collapsed into PLP.
-
-## Connections
-
-The concept page [[pyridoxal-phosphate]] is the aldehyde partner that accepts amino groups before PMP forms.
-PMP connects vitamin B6 chemistry to aminotransferases, nitrogen exchange, and amino acid biosynthesis.
-It is an entity because it is a specific compound with a defined formula, database identifiers, and biochemical role.
-
-## See Also
-
-- [[catalytic-triad-enzyme-mechanism]]
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

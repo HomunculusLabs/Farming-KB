@@ -5,10 +5,10 @@ The most innovative aspect of the 2003 Shirota, Hakamata, and Goda synthesis
 of [[psilocybin]] is the discovery and exploitation of a zwitterionic phosphate
 intermediate (compound 8). During the phosphorylation of [[psilocin]] using
 tetrabenzylpyrophosphate and n-butyllithium, the expected O,O-dibenzyl
-phosphate derivative (compound 7) undergoes an shirota zwitterion discovery intramolecular benzyl migration phosphorylation group
+phosphate derivative (compound 7) undergoes an shirota zwitterion discovery [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]] phosphorylation group
 migration from oxygen to the quaternary ammonium nitrogen, producing a
 zwitterionic N,O-dibenzyl phosphate. This zwitterionic compound has
-dramatically different solubility properties from the starting material and
+dramatically different solubility properties from the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and
 reagent byproducts, enabling its isolation by simple filtration in over 85%
 yield. This discovery is the key that makes chromatography-free gram-scale
 synthesis of psilocybin possible.
@@ -88,59 +88,3 @@ property (zwitterionic character) rather than relying on chromatographic
 resolution.
 
 ### Gram-Scale Practicality
-The filtration procedure was demonstrated to work effectively on [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]].
-The synthesis of psilocybin from psilocin via the zwitterionic intermediate
-achieved an isolated yield of greater than 72%, even for gram-scale production.
-This represents a dramatic improvement over previous methods and makes the
-synthesis practical for the production of [[shirota-forensic-standard-compounds-magic-mushroom-identification]] for forensic and
-research applications.
-
-## Catalytic Hydrogenolysis to Psilocybin
-
-### Pd/C Hydrogenation
-The final step in the synthesis is catalytic hydrogenolysis of the
-zwitterionic intermediate (compound 8) using hydrogen gas and palladium on
-carbon (Pd/C) catalyst in methanol at room temperature. This step
-simultaneously removes both benzyl groups—the O-benzyl from the phosphate
-and the N-benzyl from the quaternary ammonium—producing psilocybin directly.
-
-### Crystalline Product Without Chromatography
-After monitoring the disappearance of compound 8 and its mono-debenzyl
-derivative by TLC, and the appearance of psilocybin, the reaction solution
-is filtered through a Celite pad and concentrated to form crystalline
-material. Psilocybin (compound 2) is collected by filtration and washed with
-ethanol to afford the product as a white needle crystalline powder in 87.5%
-yield. No anion-exchange resin or other chromatographic purification is
-needed, in contrast to the procedure of Nichols and Frescas.
-
-### Spectral Confirmation
-The psilocybin produced by this route shows physical and spectroscopic
-properties consistent with literature values: melting point 190-198 degrees C
-(literature: 185-195 and 210-212 degrees C), UV maxima at 221.0, 267.5,
-278.5, and 290.0 nm, and 1H NMR, 13C NMR, and 31P NMR spectra fully
-consistent with the expected structure. High-resolution ESI-MS confirms the
-molecular formula C12H18N2O4P.
-
-## The Intramolecular Migration Mechanism
-
-### Benzyl Group Transfer
-The conversion of the O,O-dibenzyl phosphate derivative (compound 7) into the
-zwitterionic N,O-dibenzyl phosphate derivative (compound 8) represents an
-intramolecular benzyl group transfer from one of the phosphate oxygen atoms
-to the nitrogen of the N,N-dimethylaminoethyl side chain. This migration
-converts the tertiary amine into a quaternary ammonium ion, creating the
-zwitterionic character of the product.
-
-### Driving Forces
-The migration may be driven by the thermodynamic stability of the
-zwitterionic structure, in which the positive and negative charges are
-internalized within the same molecule. Alternatively, the steric congestion
-around the phosphate in compound 7 may create a driving force for the
-rearrangement. The observation that the conversion occurs simply upon
-suspension in dichloromethane overnight suggests that the process is
-spontaneous under mild conditions.
-
-## See Also
-- [[shirota-psilocin-psilocybin-synthesis]]
-- [[shirota-catalytic-hydrogenolysis-debenzylation-to-psilocybin-crystal]]
-- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]

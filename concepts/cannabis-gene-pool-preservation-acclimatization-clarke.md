@@ -26,7 +26,7 @@ defenses, programmed into the genetic orders contained in each generation
 of seeds.
 
 Through the importation in recent times of fiber and drug Cannabis, a
-vast pool of genetic material has appeared in North America. Original
+vast pool of genetic material has appeared in [[guzman-psilocybin-mushrooms-north-america]]. Original
 fiber strains have escaped and become acclimatized (adapted to the
 environment), while domestic drug strains (from imported seeds) have,
 unfortunately, hybridized and acclimatized randomly, until many of the
@@ -88,59 +88,3 @@ action must be immediate:
    minimize natural and artificial selection of genes.
 
 4. Half of the original seed collection should be retained until the
-   viability of further generations is confirmed, and to provide
-   parental material for comparison and back-crossing. Phenotypic data
-   about these subsequent generations should be carefully recorded.
-
-## The Acclimatization Problem
-
-Much of the breeding effort of [[growing-gourmet-north-american-reishi-species]] cultivators is concerned
-with acclimatizing high-THC strains of equatorial origin to the climate
-of their growing area while preserving potency. Late-maturing, slow, and
-irregularly flowering strains like those of Thailand have difficulty
-maturing in many parts of North America.
-
-Left to the selective pressures of an introduced environment, most drug
-strains will degenerate and lose potency as they acclimatize to the new
-conditions. The acclimatized members of subsequent generations have a
-higher chance of maturing viable seeds than the parental types. Random
-pollinations will increase the numbers of acclimatized individuals,
-thereby increasing the chance that undesirable characteristics
-associated with acclimatization will be transmitted.
-
-## Acclimatization vs. Drug Quality
-
-This effect is compounded from generation to generation and finally
-results in a fully acclimatized weed strain of little drug value. The
-gene pool is tending toward early-maturing plants that are acclimatized
-to their new conditions instead of the drug-producing conditions of
-their native environment.
-
-With some care the breeder can avoid these hidden dangers of unconscious
-selection. Definite goals are vital to progress in breeding Cannabis.
-What qualities are desired in a strain that it does not already exhibit?
-What characteristics does a strain exhibit that are unfavorable and
-should be bred out?
-
-## Preserving Traits Through Cloning
-
-Even if a grower has no desire to attempt crop improvement, successful
-strains have to be protected so they do not degenerate and can be
-reproduced if lost. Asexual propagation (cloning) allows the preservation
-of genotype because only normal cell division (mitosis) occurs during
-growth and regeneration. Clones maintain the exact genetic identity of
-the parent plant, unlike seeds which involve meiotic recombination.
-
-## Future of Patenting
-
-It is possible that in the future, [[query-how-does-no-till-cannabis-cultivation-work]] may be legal but
-only for approved, patented strains. Special caution would be needed to
-preserve variety in the gene pool should the patenting of Cannabis
-strains become a reality. With the legalization of cultivation, it is a
-certainty that corporations with the time, space, and money to produce
-pure and hybrid strains will apply for patents.
-## See Also
-
-- [[cannabis-breeding-selection-principles-clarke]]
-- [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]
-- [[cannabis-polyploidy-colchicine-treatment-clarke]]

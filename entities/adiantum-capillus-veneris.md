@@ -87,36 +87,3 @@ Outdoor cultivation succeeds in USDA hardiness zones 7–10 in shaded, moist pos
 In Mediterranean-climate gardens, A. capillus-veneris is one of the few ferns that tolerates summer drought when planted in deep shade with adequate root moisture. Winter hardiness is the primary limiting factor in colder climates.
 
 Propagation is primarily by division of rhizomes in spring, though spore culture is also practiced. Division produces mature plants more quickly, while spore propagation generates greater numbers but requires patience through the gametophyte stage.
-
-Numerous cultivars have been selected for horticultural use, including varieties with variegated fronds, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] habits, and enhanced cold tolerance. The cultivar 'Banksianum' is particularly popular for its densely packed, overlapping pinnae.
-
-## Traditional and Medicinal Uses
-
-In European herbal tradition, maidenhair fern was used as an expectorant in cough remedies and as a hair wash to promote growth and shine. The species was an ingredient in *Capillaire*, a traditional French syrup for respiratory complaints.
-
-The Capillaire syrup tradition dates to at least the 16th century and persisted into the early 20th century. The preparation involved macerating fresh fronds in sugar syrup, and the resulting product was consumed as a soothing remedy for sore throats and persistent coughs.
-
-In Ayurvedic and Unani medicine, the fronds are prescribed as a diuretic, refrigerant, and treatment for menstrual disorders. Traditional Chinese medicine uses the species to clear heat and resolve toxicity, particularly in urinary and respiratory conditions.
-
-In Iranian traditional medicine, the species is known as *Parsiyavashan* and is used to treat alopecia and promote hair growth. This use reflects a widespread cultural association between the plant's hair-like fronds and human hair that appears independently across multiple herbal traditions.
-
-Modern pharmacological studies have identified triterpenoid glycosides (adiantosides), flavonoids, and phenolic acids as the primary bioactive constituents. Extracts have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities in vitro.
-
-Clinical validation of traditional uses remains limited. The European Medicines Agency has not evaluated A. capillus-veneris as a standalone herbal medicine, though it appears as a minor component in some traditional herbal preparations.
-
-No significant toxicity has been reported at typical herbal doses, though the fern contains small quantities of filicic acid derivatives. These compounds are present at far lower concentrations than in the closely related *Dryopteris filix-mas* and do not pose the same risk of hepatotoxicity.
-
-## See Also
-
-- [[adiantum-aleuticum]]
-
-- [[adiantum-pedatum]]
-- [[pteridium-aquilinum]]
-- [[pteris-vittata]]
-- [[asplenium-trichomanes]]
-- [[dryopteris-filix-mas]]
-- [[athyrium-filix-femina]]
-- [[nephrolepis-exaltata]]
-- [[polypodium-vulgare]]
-- [[botrychium-lunaria]]
-- [[osmunda-regalis]]

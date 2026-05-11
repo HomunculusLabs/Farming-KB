@@ -19,10 +19,10 @@ The analogy: athlete's foot fungi cannot establish on the foot of someone who wa
 
 ## Why Disinfection Fails
 
-- Pathogens like canker and powdery mildew bacteria are ubiquitous (everywhere in soil)
+- Pathogens like canker and [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]] bacteria are ubiquitous (everywhere in soil)
 - One spore can propagate to 1 billion in 10 hours
-- Eliminating crop residues cannot eradicate them
-- Chemical pesticides are building [[mycorrhizal-pathogen-resistance-mechanisms]]
+- Eliminating [[jadam-monoculture-disorder-crop-residues]] cannot eradicate them
+- [[comparison-parasitoid-wasps-vs-chemical-pesticides]] are building [[mycorrhizal-pathogen-resistance-mechanisms]]
 - Even the most toxic chemicals cannot control powdery mildew effectively
 
 ## Method 1: JMS Soil Application
@@ -63,10 +63,10 @@ For active disease outbreaks, JS provides strong germicidal action.
 
 ### Disease-Specific Recipes
 
-**Powdery mildew, downy mildew, fungal diseases:**
+**Powdery mildew, [[cervantes-downy-mildew-fungal-blight]], [[duggar-mushroom-insect-pests-and-fungal-diseases]]:**
 - JWA 3 L + JS 1.2 L per 500 L water
 
-**Canker, black spot, pear rust, brown blotch:**
+**Canker, black spot, pear rust, [[oyster-brown-blotch-disease]]:**
 - JWA 5 L + JS 1.5 L per 500 L water
 - For serious pepper canker: JWA 10 L + JS 2 L, every 2 days, 2-3 applications
 
@@ -87,44 +87,3 @@ Foliar application of JMS mixed with sea water eliminates powdery mildew. The co
 ## Method 4: Crop Residue Recycling
 
 JADAM rejects the common practice of destroying crop residues to prevent disease. Crop residues are viewed as nutrient sources, not disease sources. The organisms that cause canker and powdery mildew are so widespread that burning residues cannot eliminate them. Better to return nutrients to the soil and rely on microbial diversity for disease prevention.
-
-## Method 5: Environmental Management
-
-### Soil Temperature
-
-Cover crops prevent the extreme temperature fluctuations that stress plants and invite disease. Stable soil temperatures keep roots functioning properly throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-### Soil Compaction
-
-Compacted soil causes roots to coil and weaken, making plants susceptible to disease. Address through JMS application and cover crop cultivation rather than chemical intervention.
-
-### Plant Spacing
-
-Adequate spacing ensures good air circulation and sun exposure, both of which reduce disease pressure. Prune and shape branches so trees receive full sun and air.
-
-## The Prevention Hierarchy
-
-1. **Build soil health**: JMS + sea water + phyllite solution with every watering
-2. **Maintain microbial diversity**: Regular JMS application to soil and foliage
-3. **Environmental management**: Cover crops, proper spacing, temperature control
-4. **Early intervention**: Apply JNP at first sign of disease outbreak
-5. **Active treatment**: JS-based germicide for established infections (sparingly)
-
-## Application Timing
-
-- Spray pesticide when humid (early morning, sunset, cloudy days)
-- Humid conditions keep pesticide on target longer
-- Smartphone apps provide humidity and dew point data
-- For greenhouse: spray on rainy days or increase humidity artificially
-- Use nozzles that produce fine particles for better coverage
-
-## Related
-
-- [[jadam-pesticide-for-fungal-diseases]]
-- [[jadam-canker-leaf-spot-pesticide]]
-- [[jadam-jms-pesticide]]
-- [[jadam-natural-pesticide-programs]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-natural-pesticide-philosophy]]
-- [[jadam-pesticide-for-fungal-diseases]]

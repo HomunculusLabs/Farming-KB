@@ -9,7 +9,7 @@ sources: []
 
 # Wicking Bed Construction
 
-A wicking [[wicking-bed-materials-construction-variants]] bed is a self-watering garden bed that uses capillary action to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
+[[query-how-do-i-build-a-wicking-bed-for-my-garden]] is a self-watering garden bed that uses [[capillary-action-in-soils]] to draw water upward from a built-in reservoir below the soil. Plants access water from below, reducing surface evaporation and dramatically cutting water use. Wicking beds can reduce water consumption by 50-80% compared to conventional garden beds while providing more consistent soil moisture.
 
 ## How Wicking Beds Work
 
@@ -20,7 +20,7 @@ The wicking bed concept mimics a natural water table:
 3. **Soil zone:** A layer of growing soil sits above the wicking medium. Water continues to wick up into the root zone by capillary action through the soil particles
 4. **Plants:** Roots grow down into the moist soil zone, accessing water as needed
 
-The key insight is that water moves upward through soil by capillary action (the same force that lets a paper towel absorb water). The finer the soil particles, the higher water can wick — but the slower the movement. A well-designed wicking bed balances wicking height with adequate drainage. (see [[comparison-hugelkultur-vs-wicking-bed]]).
+The key insight is that water moves upward through soil by capillary action (the same force that lets a paper towel absorb water). The finer the soil particles, the higher water can wick — but the slower the movement. A well-designed wicking bed balances wicking height with adequate drainage.
 
 ## Components
 
@@ -28,7 +28,7 @@ The key insight is that water moves upward through soil by capillary action (the
 
 The outer container must be waterproof to hold the reservoir:
 
-- **Raised timber beds lined with pond liner:** Most common DIY approach. Build a box from treated or naturally rot-resistant timber (cedar, redwood, black locust), then line with EPDM pond liner (45 mil minimum). (see [[passive-irrigation-systems]]).
+- **Raised timber beds lined with pond liner:** Most common DIY approach. Build a box from treated or naturally rot-resistant timber (cedar, redwood, black locust), then line with EPDM pond liner (45 mil minimum).
 - **IBC totes (intermediate bulk containers):** Cut the top off a food-grade IBC tote. The plastic is already waterproof. Very cost-effective.
 - **Old bathtubs, stock tanks, or troughs:** Pre-made waterproof containers. Ensure they're clean and free of chemicals.
 - **Concrete blocks or masonry:** Build a masonry box and seal with waterproofing compound or liner.
@@ -131,13 +131,13 @@ The growing medium sits on top of the wicking medium:
 
 - **Vegetables:** Tomatoes, peppers, eggplant, lettuce, kale, chard, beans, peas, cucumbers, zucchini, carrots, beets, radishes
 - **Herbs:** Basil, parsley, cilantro, thyme, oregano
-- **Avoid:** Potatoes (too much moisture causes rot), Mediterranean herbs that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
+- **Avoid:** Potatoes (too much moisture causes rot), [[query-best-mediterranean-herbs-for-beginner-herb-garden]] that prefer dry conditions (rosemary, lavender, sage) — these do better in the upper zones or in separate beds
 
 ### Planting Pattern
 
 - Space plants as you would in a conventional raised bed
 - Tall plants on the north side (to avoid shading), short plants on the south
-- Consider companion planting for pest management and efficient space use
+- Consider [[cervantes-companion-planting-pest-deterrent]] [[query-what-is-biofumigation-and-how-does-it-work]] and efficient space use
 
 ## Maintenance
 

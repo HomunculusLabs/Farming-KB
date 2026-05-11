@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hu, C.Y. et al. (2016). "Pogostemon cablin: A review of phytochemistry, bioactivities, and uses." Journal of Ethnopharmacology, 194, 844–853.
   - SWHA (2017). "Patchouli oil (Pogostemon cablin)." In WHO Monographs on Medicinal Plants, Vol. 5, WHO, Geneva.
-  - Lawrence, B.M. (2003). "Patchouli: The raw material, its cannabis-resin-production-and-quality-traits-clarke." In Essential Oils, Allured Publishing, 211–238.
+  - Lawrence, B.M. (2003). "Patchouli: The raw material, its cannabis-resin-production-and-quality-traits-clarke." In [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], Allured Publishing, 211–238.
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ sources:
 
 Patchouli oil possesses a distinctive, earthy, and camphoraceous aroma that serves as a base note in countless perfumes, cosmetics, and personal care products. The oil is also valued in traditional medicine systems across Asia for its antimicrobial, anti-inflammatory, and insect-repellent properties.
 
-The plant is a bushy, upright herb reaching 60–100 cm in height. It produces small, pale pink to white flowers in terminal spikes, though commercial cultivation prioritizes leaf and stem biomass rather than flower production for oil extraction.
+The plant is a bushy, upright herb reaching 60–100 cm in height. It produces small, pale pink to white flowers in terminal spikes, though commercial cultivation prioritizes leaf and stem biomass rather than flower production for [[cannabis-oil-extraction]].
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ The plant is a bushy, upright herb reaching 60–100 cm in height. It produces s
 
 The genus *Pogostemon* contains approximately 90 species distributed across tropical and subtropical Asia. Several *Pogostemon* species produce aromatic oils, but *P. cablin* is by far the most commercially significant.
 
-Patchouli is a robust, bushy perennial herb with erect, quadrangular stems. Leaves are opposite, ovate to broadly elliptic, 5–12 cm long and 3–7 cm wide, with serrate margins and prominent venation on the lower surface. The leaf surface is covered with fine trichomes that secrete the essential oil.
+Patchouli is a robust, bushy perennial herb with erect, quadrangular stems. Leaves are opposite, ovate to broadly elliptic, 5–12 cm long and 3–7 cm wide, with serrate margins and prominent venation on the lower surface. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is covered with fine trichomes that secrete the essential oil.
 
 Flowers are arranged in dense, terminal or axillary spikes, 5–15 cm long. Individual flowers are small (approximately 5–6 mm), bilabiate, with a pale pink to white corolla. Flowering occurs primarily in the wet season.
 
@@ -59,7 +59,7 @@ Oil quality varies significantly with geographic origin, [[cannabis-harvest-timi
 
 Patchouli is cultivated extensively in Indonesia (particularly the islands of Sulawesi, Sumatra, and Java), China, India, Vietnam, the Philippines, and Brazil. Indonesia accounts for approximately 80% of global patchouli oil production.
 
-The plant thrives in warm, humid tropical climates with temperatures of 22–35°C, annual rainfall of 1,500–3,000 mm, and well-drained, fertile soils. It performs well in partial shade but also tolerates full sun exposure. Altitudes between 200 and 800 meters are considered optimal.
+The plant thrives in warm, humid [[fukuoka-natural-farming-tropical-climates]] with temperatures of 22–35°C, annual rainfall of 1,500–3,000 mm, and well-drained, fertile soils. It performs well in partial shade but also tolerates full sun exposure. Altitudes between 200 and 800 meters are considered optimal.
 
 Propagation is almost exclusively vegetative, using softwood or semi-hardwood stem cuttings. Cuttings of 10–15 cm are rooted in nursery beds and transplanted to the field after 4–6 weeks. Spacing is typically 30–50 cm between plants in rows 60–100 cm apart.
 
@@ -71,7 +71,7 @@ Post-harvest handling significantly affects oil quality. Leaves are typically wi
 
 Patchouli oil is one of the most widely used essential oils in the fragrance industry. It serves as a base note and fixative in perfumes, soaps, detergents, cosmetics, and air fresheners. Its excellent fixative properties help stabilize more volatile top and middle notes in perfume compositions.
 
-In traditional medicine, patchouli preparations have been used to treat colds, headaches, fever, nausea, and digestive complaints across Chinese, Indian, and Malay healing traditions. The oil is applied topically for skin conditions including acne, eczema, and [[blesching-cannabis-fungal-infections-candida]].
+In traditional medicine, patchouli preparations have been used to treat colds, headaches, fever, nausea, and digestive complaints across Chinese, Indian, and Malay healing traditions. The oil is applied topically [[cannabis-for-skin-conditions-detailed]] including acne, eczema, and [[blesching-cannabis-fungal-infections-candida]].
 
 Patchouli oil demonstrates broad-spectrum antimicrobial activity against Gram-positive bacteria, Gram-negative bacteria, and fungi in vitro. It has shown insect-repellent and insecticidal properties against mosquitoes, flies, and stored-product pests, supporting its traditional use as a moth repellent.
 
@@ -87,28 +87,4 @@ Today, patchouli oil is a commodity traded on international essential oil market
 
 Patchouli oil and its major constituents exhibit diverse pharmacological activities documented in preclinical studies. Patchoulol demonstrates anti-inflammatory activity by inhibiting cyclooxygenase-2 (COX-2) and nitric oxide production in macrophage cell lines.
 
-α-Bulnesene and α-guaiene show cytotoxic activity against several human cancer cell lines in vitro, including breast, lung, and colon cancer cells. These sesquiterpenes induce apoptosis through mitochondrial-dependent pathways.
-
-The oil demonstrates significant antifungal activity against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*, *Aspergillus niger*, and dermatophyte species. Topical application of diluted patchouli oil has shown efficacy in animal models of contact dermatitis and skin inflammation.
-
-In traditional Chinese medicine, patchouli (known as guang huo xiang) is classified as acrid, warm, and aromatic. It is used to resolve dampness, harmonize the middle jiao, and relieve summer-heat and dampness syndromes.
-
-## Related Species
-
-Several other *Pogostemon* species produce aromatic oils with varying compositions and uses, though none approach *P. cablin* in commercial importance.
-
-* **Pogostemon heyneanus** (Indian patchouli) — produces an essential oil similar to *P. cablin* but with a harsher, less refined aroma. Widely grown in India and sometimes used as an adulterant of true patchouli oil.
-* **Pogostemon stellatus** — an aquatic species valued in the aquarium trade for its ornamental appearance rather than oil production.
-* **Pogostemon auricularius** — a Southeast Asian species with limited aromatic properties, used traditionally as a vegetable and medicinal herb.
-
-Within the broader Lamiaceae family, patchouli shares chemical and aromatic characteristics with other essential oil-producing genera including *Mentha*, *Salvia*, *Lavandula*, and *Rosmarinus*.
-
-## See Also
-
-- [[cymbopogon-citratus]]
-- [[lavandula-angustifolia]]
-- [[mentha-piperita]]
-- [[salvia-officinalis]]
-- [[zingiber-officinale]]
-- [[alpinia-galanga]]
-- [[rosmarinus-officinalis-entity]]
+α-Bulnesene and α-guaiene show cytotoxic activity against several human cancer cell lines in vitro, including breast, lung, [[cannabis-and-colon-cancer-research]] cells. These sesquiterpenes induce apoptosis through mitochondrial-dependent pathways.

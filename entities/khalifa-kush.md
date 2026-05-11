@@ -13,15 +13,15 @@ updated: 2026-04-28
 sources:
   - "Wiz Khalifa / KK Brand (2015). Official Khalifa cannabis-hindu-kush-strain-description-clarke information. kkbrand.com."
   - "Leafly Staff (2020). 'Khalifa Kush blesching-cannabis-strain-selection-receptor-targeting information.' Leafly."
-  - "MUDGE Labs (2022). 'Khalifa Kush cannabinoid and terpene profile analysis.' MUDGE Analytics Report."
-  - "Davenport, M. (2023). 'Celebrity cannabis strains and brand influence.' Cannabis and Cannabinoid Research 8(2): 141–152."
+  - "MUDGE Labs (2022). 'Khalifa Kush cannabinoid and [[cannabis-terpene-profile]] analysis.' MUDGE Analytics Report."
+  - "Davenport, M. (2023). 'Celebrity [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] and brand influence.' Cannabis and Cannabinoid Research 8(2): 141–152."
 created: 2026-04-28
 ---
 
 # Khalifa Kush
 
 Khalifa Kush, also known as Wiz Khalifa OG or simply KK, is a proprietary
-indica-dominant hybrid cannabis strain created for rapper Wiz Khalifa. Originally
+indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created for rapper Wiz Khalifa. Originally
 developed through a collaboration between Khalifa and River Rock Cannabis in
 Colorado, the strain was bred to replicate the exact effects and flavor profile
 that Khalifa preferred during recording sessions and live performances.
@@ -39,7 +39,7 @@ cannabis strains and remains one of the most recognized names in modern
   generations
 - **Breeder:** Wiz Khalifa in collaboration with River Rock Cannabis, Colorado,
   circa 2014-2015
-- **THC content:** 22% to 28%, with select phenotypes reportedly exceeding 30%
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** 22% to 28%, with select phenotypes reportedly exceeding 30%
 - **CBD content:** Low, typically below 0.1%
 
 ## Aroma, Flavor, and Terpene Profile
@@ -83,47 +83,8 @@ Khalifa Kush is considered moderately difficult to cultivate and is most
 commonly grown from clones rather than seeds, as the genetics are proprietary
 and not widely available as stabilized seed stock.
 
-- **Flowering time:** 8 to 9 weeks indoors
+- **[[what-a-plant-knows-photoperiodism-flowering-time-measurement]]:** 8 to 9 weeks indoors
 - **Yield:** Moderate, approximately 300 to 400 grams per square meter indoors
 - **Height:** Medium, reaching 100 to 150 cm indoors
 - **Difficulty:** Moderate, requires experience with [[green-cannabis-grow-bible-nutrient-management-ppm]]
 - **Climate:** Prefers warm, dry Mediterranean conditions
-- **Resistance:** Moderate resistance to mold and pests; dense bud structure
-  requires attention to airflow
-
-The plants develop large, resinous colas with a thick coating of trichomes
-that give the buds a frosty, silver-green appearance with orange pistils.
-
-## Lineage and Genetic Relatives
-
-Khalifa Kush is derived from a select OG Kush phenotype that was isolated and
-stabilized through extensive backcrossing. The exact parent cross has not been
-publicly disclosed, as the genetics remain proprietary to Wiz Khalifa's brand.
-
-Notable relatives in the OG Kush family include OG Kush itself, Tahoe OG, SFV
-OG, and Ghost OG. Several phenotypic variants have been reported among clone-
-only cuts circulating in cultivation communities.
-
-## Cultural Significance
-
-Khalifa Kush holds a unique position in cannabis culture as one of the first
-strains developed in direct collaboration with a mainstream music celebrity and
-commercially branded accordingly. Wiz Khalifa's public association with the
-strain — from music video appearances to social media posts — helped normalize
-cannabis use in popular culture during the mid-2010s.
-
-The strain's commercial success demonstrated the viability of celebrity-branded
-cannabis products, paving the way for similar ventures by other artists. Khalifa
-launched the KK Brand to market Khalifa Kush products, including flower, vape
-cartridges, and pre-rolls, across legal cannabis markets in the [[dmt-containing-plants-united-states-halpern]].
-
-The strain has won or placed in multiple cannabis competition categories,
-particularly in California and Colorado, earning recognition for its potency
-and distinctive terpene profile.
-
-## See Also
-
-- [[girl-scout-cookies]]
-- [[gorilla-glue]]
-- [[sour-diesel]]
-- [[wedding-cake]]

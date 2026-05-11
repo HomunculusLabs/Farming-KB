@@ -9,14 +9,14 @@ sources: []
 
 # Water Gardens and Ponds
 
-Water gardens and ponds introduce aquatic ecosystems into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology|ecology]] and [[permaculture-design|design]] principles.
+Water gardens and ponds introduce [[dighton-fungal-biomass-production-aquatic-ecosystems]] into the landscape, supporting wildlife, creating tranquil focal points, and enabling the cultivation of aquatic plants and fish. They integrate [[water-management]] with [[fungal-ecology]] and [[permaculture-design]] principles.
 
 ## Pond Construction
 
 ### Planning
 - **Location**: Minimum 6 hours of sunlight for water lilies and most aquatic plants; partial shade reduces algae
-- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for ecological balance, ideally 100+ square feet
-- **Depth**: Shelves for marginal plants (6-12 inches), deeper zone for fish and overwintering (24-36 inches minimum; 48+ inches in cold climates to prevent freezing to the bottom)
+- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for [[fukuoka-bushman-world-ecological-balance]], ideally 100+ square feet
+- **Depth**: Shelves for marginal plants (6-12 inches), deeper zone for fish and overwintering (24-36 inches minimum; 48+ inches [[query-how-do-i-grow-figs-in-cold-climates]] to prevent freezing to the bottom)
 - **Utilities**: Plan for electrical access (pumps, lighting, aeration) and water supply
 - **Zoning**: Avoid placing under trees (leaf debris causes water quality issues) or in low spots that receive runoff (fertilizers, pesticides)
 
@@ -59,8 +59,8 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 ### Planting Zones
 
 **Submerged Plants (Oxygenators)**
-- Grow entirely underwater, release oxygen, absorb nutrients (reduce algae)
-- Species: Hornwort (Ceratophyllum demersum), anacharis (Egeria densa), water milfoil, cabomba
+- Grow entirely underwater, [[query-how-does-hemoglobin-know-when-to-release-oxygen]], absorb nutrients (reduce algae)
+- Species: Hornwort ([[ceratophyllum-demersum]]), anacharis (Egeria densa), water milfoil, cabomba
 - Plant in pots on the pond bottom; 1 bunch per 2 square feet of surface area
 - Often free-floating or loosely anchored
 
@@ -135,7 +135,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 
 ### Natural Filtration
 - **Plant filters**: Bog areas or separate bog filters where water flows through gravel-planted zones
-- **Constructed wetlands**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
+- **[[comparison-constructed-wetlands-vs-bioswales]]**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
 - **Beneficial bacteria**: Add bacterial starter cultures; maintain surface area for colonization
 
 ### UV Clarifiers

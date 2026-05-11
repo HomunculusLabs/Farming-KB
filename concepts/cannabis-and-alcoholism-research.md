@@ -10,7 +10,7 @@ sources:
 
 # Cannabis and Alcoholism Research
 
-**Source:** Uwe Blesching, The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
+**Source:** [[uwe-blesching]], The [[blesching-cannabis-health-index-autoimmune-conditions]] (2017)
 
 ## Condition Overview
 
@@ -42,7 +42,7 @@ Alcohol abuse: neurological and mental illness causing domestic violence, child/
 | CBD | Animal (rats) | 2005 -- Bethesda: CBD protects nerve cells from alcohol toxicity | 2 |
 | CB1 antagonist | Animal (rats) | 2005 -- Upton, NY: Blocking CB1 reduces alcohol intake | 2 |
 | Cannabis | Case study (92 alcoholics) | 2004 -- Berkeley: 49% very effective, 41% effective, 10% quit entirely | 3 |
-| | | **Total CHI Value: 9** | |
+| | | **Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 9** | |
 
 ## Strain-Specific Considerations
 
@@ -62,9 +62,9 @@ The endocannabinoid system and alcohol reward pathways are deeply interconnected
 
 - **CBD's neuroprotective role:** Chronic alcohol use causes neuronal damage through [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], excitotoxicity, and neuroinflammation. CBD protects neurons through antioxidant, anti-inflammatory, and anti-apoptotic mechanisms that are independent of CB1/CB2 receptors, making it valuable for treating alcohol-related brain damage.
 
-- **Substitution hypothesis:** Cannabis may serve as a safer substitute for alcohol, providing some of the relaxation and euphoria that alcohol-dependent individuals seek, without the severe organ toxicity, overdose risk, and withdrawal danger of alcohol.
+- **Substitution hypothesis:** Cannabis may serve as a safer substitute for alcohol, providing some of the relaxation and euphoria that alcohol-dependent individuals seek, without the severe organ toxicity, [[blesching-cannabis-safety-profile-adverse-effects-and-overdose-risk]], and withdrawal danger of alcohol.
 
-- **Anxiety and stress circuit modulation:** Alcohol withdrawal and craving are driven by dysregulated stress responses in the amygdala and hypothalamic-pituitary-adrenal (HPA) axis. CBD modulates these stress circuits through 5-HT1A receptor activation, potentially reducing the anxiety that drives relapse.
+- **Anxiety and stress circuit modulation:** Alcohol withdrawal and craving are driven by dysregulated [[fungal-stress-responses]] in the amygdala and hypothalamic-pituitary-adrenal (HPA) axis. CBD modulates these stress circuits through 5-HT1A receptor activation, potentially reducing the anxiety that drives relapse.
 
 - **GABAergic modulation:** Both alcohol and cannabinoids influence GABA, the brain's primary inhibitory neurotransmitter. Cannabis may help normalize GABAergic dysfunction that develops during chronic alcohol use and persists during withdrawal.
 
@@ -87,36 +87,3 @@ The clinical evidence for cannabis in alcoholism is modest but encouraging, with
 - **For neuroprotection during recovery:** CBD 25-50 mg twice daily provides neuroprotective and anti-anxiety benefits without psychoactive effects, supporting brain recovery during alcohol abstinence.
 
 - **For acute withdrawal support:** CBD 50-100 mg per day, divided into multiple doses, may help manage anxiety, insomnia, and craving during the acute withdrawal period (first 1-2 weeks).
-
-- **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica-dominant strains with balanced THC:CBD ratios may be optimal, providing relaxation and anxiety relief without excessive stimulation that could increase restlessness during early recovery.
-
-- **Timing:** For craving management, use cannabis at the times when alcohol cravings typically peak (evenings, social situations, stressful events). For neuroprotection, consistent daily CBD dosing is recommended regardless of craving status.
-
-- **Combination with therapy:** Cannabis should be used as an adjunct to established alcoholism treatment (counseling, support groups, medication-assisted treatment), not as a replacement.
-
-## Safety and Interactions
-
-- **Substitution risk:** Replacing one substance with another carries inherent risks. While cannabis is far less toxic than alcohol, dependence on cannabis is possible. The goal should be progressive reduction of both substances over time.
-
-- **Liver considerations:** Chronic alcoholism often causes liver damage (fatty liver, hepatitis, cirrhosis). Both THC and CBD are metabolized by the liver, and impaired liver function may lead to higher-than-expected blood levels. Start with lower doses and monitor for excessive effects.
-
-- **Wernicke-Korsakoff syndrome:** Chronic alcoholics are at risk for thiamine (B1) deficiency causing severe memory impairment. Cannabis does not address this deficiency and should never delay appropriate thiamine supplementation.
-
-- **Disulfiram and naltrexone interactions:** No known direct pharmacokinetic interactions between cannabinoids and these alcoholism medications. However, adding cannabis to medication-assisted treatment should be discussed with the prescribing physician.
-
-- **Sedation risk:** Both alcohol withdrawal and cannabis can cause sedation. During acute withdrawal, excessive sedation can be dangerous (risk of aspiration). Cannabis doses should be kept low during this period.
-
-- **Mental health screening:** Cannabis use is contraindicated in individuals with active psychosis or schizophrenia. Alcoholics with comorbid psychiatric conditions should be carefully screened.
-
-## Mind-Body Perspective
-
-Severe childhood stressors associated with increased addiction vulnerability. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]: self-pity, hopelessness, shame, guilt, judgments, hard-heartedness, blame. Replacement: self-acceptance, forgiveness, gratitude, love, intimacy, connection with something larger, finding what matters, passion, hope, trust.
-
-## Related Pages
-
-- [[cannabis-addiction-recovery]]
-
-- [[cannabis-and-anxiety-research]]
-
-- [[cannabis-and-liver-cancer-research]]
-- [[cannabis-safety-profile-and-overdose-risk]]

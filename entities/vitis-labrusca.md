@@ -12,7 +12,7 @@ sources:
   - "Galet, P. (2000). Grape Varieties: A Complete Guide to 1,360 Vine Species. Cameron & Co."
   - "Mullins, M.G., Bouquet, A. & Williams, L.E. (1992). Biology of the Grapevine. Cambridge University Press."
   - "Alleweldt, G. & Possingham, J.V. (1988). \"The Origin of Vitis labrusca.\" Vitis, 27(1), 11-20."
-  - "Reisch, B.I., Goodman, R.N. & Martens, M.H. (1993). \"Grape Genetics and Breeding.\" Horticultural Reviews, 15, 345-385."
+  - "Reisch, B.I., Goodman, R.N. & Martens, M.H. (1993). \"Grape [[cannabis-genetics-and-breeding]].\" Horticultural Reviews, 15, 345-385."
 ---
 
 # Vitis labrusca
@@ -21,7 +21,7 @@ sources:
 
 Vitis labrusca is a species of grapevine native to [[polypore-fungi-eastern-north-america]] America, commonly known as the fox grape. It is the parent species of many important American grape cultivars, most notably the Concord grape.
 
-The species is distinguished by its characteristic "foxy" aroma, a musky scent attributed to methyl anthranilate, which sets it apart from the European wine grape *Vitis vinifera*. It served as a critical genetic resource during the phylloxera crisis of the late 19th century.
+The species is distinguished by its characteristic "foxy" aroma, a musky scent attributed to methyl anthranilate, which sets it apart from the European wine grape *[[vitis-vinifera]]*. It served as a critical genetic resource during the phylloxera crisis of the late 19th century.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ Leaf margins are coarsely dentate, and the petiolar sinus is typically shallow a
 
 ## Distribution and Habitat
 
-*V. labrusca* is native to the eastern United States and parts of southeastern Canada. Its range extends from Maine and Ontario south to Georgia and west to the Mississippi River Valley.
+*V. labrusca* is native to the eastern [[dmt-containing-plants-united-states-halpern]] and parts of southeastern Canada. Its range extends from Maine and Ontario south to Georgia and west to the Mississippi River Valley.
 
 The species thrives in mixed deciduous forests, forest edges, riparian corridors, and disturbed sites. It prefers well-drained, acidic soils (pH 5.0–6.5) with good [[hamilton-composting-and-organic-matter-management]] content.
 
@@ -83,33 +83,8 @@ White-tailed deer browse the foliage, and the dense vine thickets provide cover 
 
 In permaculture and agroforestry, *V. labrusca* is planted along forest edges and fence rows for dual production and wildlife support. Its disease resistance and low maintenance requirements suit low-input growing systems.
 
-The species has been used in breeding programs worldwide to introgress phylloxera resistance, cold hardiness, and disease tolerance into elite grape cultivars. Important rootstock varieties derived from *V. labrusca* ancestry include 'Couderc 3309' and '420A'.
+The species has been used in breeding programs worldwide to introgress phylloxera resistance, [[coleman-cold-hardiness-testing-ratings]], and disease tolerance into elite grape cultivars. Important rootstock varieties derived from *V. labrusca* ancestry include 'Couderc 3309' and '420A'.
 
 Ornamental use exploits the vigorous growth habit, large glossy leaves, and spectacular autumn color. The vine is widely planted on walls, arbors, and pergolas in temperate landscapes.
 
-Traditional Indigenous American uses included consuming fresh grapes, drying them for winter food, and using the leaves for medicinal purposes. The Iroquois and other nations cultivated grapes in managed landscapes long before European contact.
-
-## Cultivars and Economic Significance
-
-The **Concord grape** ('Concord') is by far the most commercially significant *V. labrusca* cultivar. Selected by Ephraim Wales Bull in 1849 from wild seedlings in Concord, Massachusetts, it remains the standard for American grape juice and jelly production.
-
-The **Niagara grape** ('Niagara') is a green-skinned sport that produces sweet, mildly foxy fruit used primarily for white grape juice and fresh consumption. It originated in 1868 in Niagara County, New York.
-
-**Isabella** ('Isabella') is a dark-purple cultivar widely grown in Brazil, where it is the dominant wine grape. It is also popular in Japan and parts of Eastern Europe for both table use and winemaking.
-
-**Catawba** ('Catawba') is a rose-colored cultivar discovered in the early 19th century along the Catawba River in North Carolina. It was instrumental in establishing the Ohio River Valley as a significant American wine region before the Civil War.
-
-The North American grape juice industry is valued at over $1 billion annually, with *V. labrusca*-derived cultivars accounting for the vast majority of production. Concord grapes alone represent approximately 75% of the processed grape market in the United States.
-
-The species has been central to grape breeding programs since the 19th century. Over 200 named cultivars trace significant ancestry to *V. labrusca*, spanning table grapes, juice grapes, wine grapes, and rootstock varieties.
-
-Beyond juice, *V. labrusca* cultivars are processed into jams, jellies, preserves, and flavoring agents. Grape pomace from juice pressing is used for animal feed, compost, and extraction of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including resveratrol and proanthocyanidins.
-
-## See Also
-
-- [[humulus-lupulus]] — Hops, another vine crop in temperate agriculture
-- [[glycine-max]] — Soybean, another major agricultural crop with extensive breeding
-- [[trifolium-repens]] — White clover, common groundcover in vineyard interrows
-- [[musa-acuminata]] — Banana, fruit crop with distinct [[cannabis-terpene-and-aroma-chemistry-clarke]]
-- [[prunus-armeniaca]] — Apricot, stone fruit crop sharing similar temperate cultivation zones
-- [[ribes-nigrum]] — Blackcurrant, small fruit crop with important juice industry parallels
+[[traditional-indigenous-use-sacred-fungi]] American uses included consuming fresh grapes, drying them for winter food, and using the leaves for medicinal purposes. The Iroquois and other nations cultivated grapes in managed landscapes long before European contact.

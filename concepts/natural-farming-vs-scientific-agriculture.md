@@ -1,10 +1,11 @@
 ---
-title: Natural [[cho-loess-powder-in-natural-farming]] vs [[critique-of-scientific-agriculture]] Agriculture
+title: Natural Farming Vs Scientific Agriculture
 created: 2026-04-28
 tags: [natural-farming, scientific-agriculture, philosophy, masanobu-fukuoka, ecology, green-philosophy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - title: "The Natural Way of Farming"
     author: "Masanobu Fukuoka"
     pages: "Preface, 14-32, 355-465, 2585-2680"
@@ -87,11 +88,3 @@ is increasingly recognized as essential for sustainable outcomes.
 Future development in this area is likely to be driven by advances
 in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

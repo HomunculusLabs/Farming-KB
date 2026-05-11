@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,28 +88,3 @@ The permaculture principle of multiple functions applies to buildings
 and infrastructure. A home workshop can serve as a teaching space, a
 community tool library, or a repair service. A commercial kitchen can
 process produce from multiple local farms. A nursery can double as a
-plant propagation training centre. By designing spaces to serve multiple
-functions, the capital investment per enterprise is reduced and
-utilisation is maximised.
-
-## Community Economic Structures
-
-Mollison recognises that individual home businesses function best within
-supportive community economic structures. [[mollison-local-currency-systems-and-community-banking]] systems,
-barter networks, cooperative marketing arrangements, and community-owned
-processing facilities all help small enterprises overcome the
-disadvantages of scale they face in competition with large corporations.
-
-Cooperative structures allow multiple small producers to share equipment,
-marketing, distribution, and processing infrastructure. A community-owned
-mill, creamery, or commercial kitchen enables individual producers to
-access processing capacity they could not afford alone. Farmers markets,
-community-supported agriculture schemes, and direct sales networks reduce
-producer dependence on wholesale markets and connect consumers directly
-with the source of their food and goods.
-
-## Cross-References
-
-- [[mollison-designers-conifer-forestry-and-timber]]: Timber processing
-- [[mollison-designers-rainwater-harvesting-swale-systems]]: Water consulting
-- [[mollison-designers-food-forest-succession-design]]: Orchard-based products

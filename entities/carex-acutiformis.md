@@ -51,11 +51,11 @@ In the British Isles, it is common in lowland England and eastern Wales, becomin
 
 The species favours permanently wet, nutrient-rich substrates in fens, marshes, ditches, canal margins, and shallow lake edges. It tolerates seasonal water level fluctuations of up to 50 centimetres.
 
-It is a characteristic species of the Magnocaricion elatioris alliance, a community type of eutrophic tall-herb fens. It frequently grows alongside Carex riparia, Phragmites australis, and Typha latifolia.
+It is a characteristic species of the Magnocaricion elatioris alliance, a community type of eutrophic tall-herb fens. It frequently grows alongside Carex riparia, [[phragmites-australis]], and Typha latifolia.
 
-Soil preference is for moderately calcareous to neutral mineral or peaty substrates. It performs best in mesotrophic to eutrophic conditions with high available nitrogen.
+Soil preference is for moderately calcareous to neutral mineral or peaty substrates. It performs best in mesotrophic to eutrophic conditions with high [[plant-available-nitrogen-ammonium-nitrate]].
 
-The species tolerates moderate shade from tall herbs and young woody growth. In open conditions with full sunlight, biomass production is approximately 30 to 40 percent higher than under partial canopy cover.
+The species tolerates moderate shade from tall herbs and young woody growth. In open conditions with full sunlight, [[dighton-fungal-biomass-production-aquatic-ecosystems]] is approximately 30 to 40 percent higher than under partial canopy cover.
 
 ## Ecology
 
@@ -65,11 +65,11 @@ The species spreads primarily through clonal growth via rhizomes, forming extens
 
 Flowering occurs from May to July, with wind pollination. Seed viability is moderate, with germination requiring exposure to light and a period of cold stratification.
 
-The dense root and rhizome mat contributes significantly to soil stabilisation in riparian zones. The species also plays an important role in nutrient cycling, absorbing dissolved nitrogen and phosphorus from flowing water.
+The dense root and rhizome mat contributes significantly to soil stabilisation in riparian zones. The species also plays an important role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], absorbing dissolved nitrogen and phosphorus from flowing water.
 
 Invertebrate diversity associated with Carex acutiformis stands is high. Leaf-mining and stem-boring flies, sedge-specialist moths, and numerous ground beetles are regularly recorded in the species' tussocks.
 
-Amphibians including common frogs and smooth newts utilise the tussock bases as daytime refuge and breeding habitat. The species is considered beneficial in wetland habitat creation and restoration projects.
+Amphibians including common frogs and smooth newts utilise the tussock bases as daytime refuge and breeding habitat. The species is considered beneficial in wetland [[amphibian-habitat-creation]] and restoration projects.
 
 Successionally, lesser pond sedge is an intermediate species between open reed-swamp communities and mature fen woodland. It may persist for decades in managed wetlands with regular cutting or grazing.
 
@@ -77,7 +77,7 @@ Management through summer mowing or light cattle grazing maintains species diver
 
 ## Cultivation and Uses
 
-Carex acutiformis is widely used in constructed wetland systems for water treatment across northern Europe. Its combination of vigorous growth, nutrient uptake capacity, and tolerance of fluctuating water levels makes it a reliable choice.
+Carex acutiformis is widely used in [[comparison-constructed-wetland-vs-backyard-pond]] systems for water treatment across northern Europe. Its combination of vigorous growth, nutrient uptake capacity, and tolerance of fluctuating water levels makes it a reliable choice.
 
 Propagation is most commonly achieved through rhizome division in early spring. Established clumps can be divided into sections of three to five shoots for rapid establishment.
 
@@ -88,34 +88,3 @@ Traditional uses include rough thatching and temporary binding of agricultural m
 No pharmacological properties have been documented for this species. It has no known uses in modern or traditional medicine.
 
 Conservation status is secure across most of its European range. The species has actually increased in some areas due to anthropogenic creation of suitable wetland habitat in the form of drainage ditches and canals.
-
-Hybridisation with Carex riparia has been documented where the two species co-occur. The hybrid, Carex x evoluta, is sterile but can persist vegetatively in mixed populations.
-
-## Related Species
-
-Carex acutiformis is most closely related to Carex riparia, which is larger with broader leaves, longer female spikes, and non-fibrillose lower leaf sheaths. The two species frequently co-occur in fen habitats.
-
-Carex rostrata inhabits deeper water and floating vegetation mats, with distinctly beaked utricles. Carex rostrata is better adapted to permanent waterlogging than lesser pond sedge.
-
-Carex vulpina is a more slender species of damp meadows and riverbanks, with shorter, more reddish-brown female spikes and a preference for less permanently waterlogged conditions.
-
-Carex paniculata forms distinctive dome-shaped tussocks in fens and ditches, reaching heights exceeding 1.5 metres. Its inflorescence is more compact, and it favours less eutrophic conditions than Carex acutiformis.
-
-## See Also
-
-- [[carex-debilis]]
-- [[carex-globularis]]
-- [[carex-lurida]]
-- [[carex-ornithopoda]]
-- [[carex-pulicaris]]
-
-- [[carex-riparia]]
-- [[carex-rostrata]]
-- [[carex-nigra]]
-- [[carex-vulpina]]
-- [[carex-paniculata]]
-- [[carex-hirta]]
-- [[carex-stricta]]
-- [[carex-vesicaria]]
-- [[carex-flacca]]
-- [[carex-pilulifera]]

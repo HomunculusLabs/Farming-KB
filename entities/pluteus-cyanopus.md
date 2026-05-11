@@ -22,7 +22,7 @@ sources:
 
 *Pluteus cyanopus* is a psilocybin-containing mushroom in the family Pluteaceae, notable for being one of the few non-hymenogastraceous agarics known to produce indole alkaloids. It is commonly called the "blue-footed Pluteus" for the distinctive bluish staining that develops at the stipe base upon handling.
 
-The species demonstrates that psilocybin biosynthesis has evolved independently in multiple lineages within Agaricales, making it of significant phylogenetic and evolutionary interest to mycochemists.
+The species demonstrates that [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] has evolved independently in multiple lineages within Agaricales, making it of significant phylogenetic and evolutionary interest to mycochemists.
 
 *P. cyanopus* is a saprotrophic species found on decaying hardwood and occasionally conifer wood in temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
@@ -52,7 +52,7 @@ Color ranges from grayish-brown to dark brown at center, paler toward the margin
 
 Gills are free from the stipe (a key diagnostic character of Pluteaceae), close to subdistant, with lamellulae in 2–3 tiers. They are initially white, maturing to pink and finally salmon-pink as spores develop.
 
-This pink spore print is a critical distinguishing feature from psilocybian *Psilocybe* and *Gymnopilus* species, which all produce dark purplish-brown to rusty-brown spore prints.
+This pink [[boil-a-bag-spore-print-technique-jarrold]] is a critical distinguishing feature from psilocybian *Psilocybe* and *Gymnopilus* species, which all produce dark purplish-brown to rusty-brown [[macrofungal-documentation-photography-spore-prints]].
 
 ### Stipe
 
@@ -62,13 +62,13 @@ The base characteristically stains bluish-green to indigo when bruised or handle
 
 ### Spores
 
-Spore print is pinkish-salmon. Spores are broadly ellipsoid to subglobose, smooth, and thin-walled.
+[[spore-print]] is pinkish-salmon. Spores are broadly ellipsoid to subglobose, smooth, and thin-walled.
 
 Spore dimensions: 6–8 × 5–6.5 µm. Q range: 1.1–1.4. Cheilocystidia are numerous, cylindrical to ventricose with narrow necks, forming a sterile band on gill edges. Pleurocystidia are fusiform to lageniform.
 
 ## Distribution and Habitat
 
-*P. cyanopus* has been documented across temperate Europe (Germany, France, Netherlands, Scandinavia) and in the Pacific Northwest of North America. Reports also exist from parts of eastern Europe and the British Isles.
+*P. cyanopus* has been documented across temperate Europe (Germany, France, Netherlands, Scandinavia) and in the Pacific Northwest [[berry-growing]]. Reports also exist from parts of eastern Europe and the British Isles.
 
 The species is a primary wood decomposer, fruiting solitary to scattered on decaying stumps, fallen trunks, and [[fungal-diversity-leaf-litter-coarse-woody-debris]] debris of hardwoods including oak, beech, ash, and alder. Occasionally found on conifer substrates.
 
@@ -85,34 +85,6 @@ Fruiting occurs from late spring through autumn (May to October in the Northern 
 
 The psilocybin content of *P. cyanopus* is variable, with some collections approaching the potency of moderate *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* specimens.
 
-The bluing reaction at the stipe base is caused by enzymatic oxidation of psilocin to blue quinone polymers, analogous to the bluing observed in *Psilocybe* and *Gymnopilus* species.
+The [[metol-testing-bluing-reaction-mushrooms]] at the stipe base is caused by enzymatic oxidation of psilocin to blue quinone polymers, analogous to the bluing observed in *Psilocybe* and *Gymnopilus* species.
 
 ### Phylogenetic Significance
-
-The presence of psilocybin in *Pluteus* supports the hypothesis of convergent evolution or horizontal gene transfer of the psilocybin biosynthetic gene cluster across distant Agaricales lineages.
-
-## Similar Species
-
-| Feature | *P. cyanopus* | *P. salicinus* | *P. americanus* |
-|---------|---------------|-----------------|------------------|
-| Stipe bluing | Distinct blue | Bluish-green | Weak or absent |
-| Spore color | Salmon-pink | Salmon-pink | Salmon-pink |
-| Cap surface | Silvery-fibrillose | Grayish-brown | Brown, smooth |
-| Substrate | Hardwood | Willow, alder | Hardwood |
-
-*P. salicinus* is the most commonly confused species and also contains low levels of psilocybin.
-
-## Cultivation Notes
-
-No established cultivation protocols exist for *P. cyanopus*. The species has not been successfully grown indoors under controlled conditions in published literature.
-
-Its ecological role as a primary wood decomposer suggests it may respond to sterilized hardwood sawdust substrates supplemented with grain. However, the slow growth rate of many *Pluteus* species and the low psychoactivity relative to cultivated *Psilocybe* species have limited research interest.
-
-Collection from wild habitats remains the only known method of acquisition, though this is not recommended given the species' ecological rarity and similarity to non-psychoactive *Pluteus* species.
-
-## See Also
-
-- [[psilocybe-semilanceata]] — [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], Europe's most common wild psilocybian species
-- gymnopilus-luteofolius — A Gymnopilus species with notable bluing reactions
-- [[psilocin]] — The active dephosphorylated metabolite
-- [[panaeolus-cyanescens-entity]] — Tropical psilocybian species with a dark spore print

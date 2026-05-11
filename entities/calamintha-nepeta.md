@@ -13,7 +13,7 @@ sources:
   - Morris S. (1997). "A Monograph of the Genus Calamintha (Labiatae)." Botanical Journal of the Linnean Society, 125(4), 341-373.
   - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta permaculture-designers-manual-essential-oil-plants." Chemistry & Biodiversity, 9(4), 723-734.
   - Tutin T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
-  - Piccaglia R. et al. (1993). "Essential Oil Composition of Calamintha nepeta." Journal of Essential Oil Research, 5(2), 155-159.
+  - Piccaglia R. et al. (1993). "[[permaculture-designers-manual-essential-oil-plants]] Composition of Calamintha nepeta." Journal of Essential Oil Research, 5(2), 155-159.
 ---
 
 ## Overview
@@ -70,7 +70,7 @@ Plants are spaced 20–30 cm apart in garden settings. The species thrives in po
 
 Harvest for culinary use can begin in the first year from seed. Leaves are best gathered just before or during flowering, when aromatic oil content peaks. The plant regrows quickly after cutting.
 
-The species is largely [[hamilton-pest-and-disease-control-organic]] free in temperate climates. It can be short-lived in very wet or heavy clay soils. Dividing clumps every 3–4 years maintains plant vigor.
+The species is largely [[hamilton-pest-and-disease-control-organic]] free [[query-how-to-grow-and-use-oca-in-temperate-climates]]. It can be short-lived in very wet or [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] soils. Dividing clumps every 3–4 years maintains plant vigor.
 
 Several named cultivars are available, including 'White Cloud' (pure white flowers) and compact forms suitable for rock gardens and container cultivation.
 
@@ -84,30 +84,6 @@ In Italian cuisine, lesser calamint is used to flavor vegetables, particularly z
 
 The fresh or dried leaves substitute for oregano or mint in many recipes. The flavor is warm, slightly peppery, and complex, with minty top notes and a savory, herbaceous base.
 
-In French cuisine, it appears in Provençal herb blends (herbes de Provence variants) and is used to flavor goat cheese and olives. The herb pairs well with tomatoes, beans, lamb, and poultry.
+In French cuisine, it appears in Provençal herb blends (herbes de Provence variants) and is used to flavor [[goat-cheese-making]] and olives. The herb pairs well with tomatoes, beans, lamb, and poultry.
 
 ## Ecological Role
-
-*Calamintha nepeta* is an excellent pollinator plant. Its long flowering period (July–October) provides nectar and pollen for bees, butterflies, hoverflies, and small beetles during a period when many other plants have finished blooming.
-
-The species is recognized as a valuable plant for pollinator gardens, meadow plantings, and ecological landscaping. It is included in several European wildflower seed mixes for biodiversity enhancement.
-
-The aromatic foliage provides some resistance to mammalian herbivory, though deer and rabbits may browse young growth in areas of high population pressure.
-
-The plant serves as a larval host for several Lepidoptera species, including the mint moth (*Pyrausta aurata*). Its root system helps stabilize soil on slopes and rocky outcrops.
-
-In traditional European herbal medicine, lesser calamint was used as a digestive tonic, carminative, and mild expectorant. The herb was infused as a tea for indigestion, flatulence, and respiratory complaints.
-
-Modern pharmacological studies have confirmed antibacterial activity against oral pathogens and foodborne bacteria, supporting its traditional use as a food preservative and digestive aid.
-
-## See Also
-
-- [[thymus-vulgaris-entity]]
-- [[salvia-officinalis]]
-- [[lavandula-angustifolia]]
-- [[marrubium-vulgare]]
-- [[agastache-foeniculum]]
-- [[melissa-officinalis]]
-- ethnobotany
-- [[perilla-frutescens]]
-- [[glechoma-hederacea]]

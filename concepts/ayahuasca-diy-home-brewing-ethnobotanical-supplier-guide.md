@@ -1,5 +1,5 @@
 ---
-title: "Ayahuasca DIY Home-Brewing — ayahuasca diy home brewing ethnobotanical supplier guide Guide"
+title: Ayahuasca Diy Home Brewing Ethnobotanical Supplier Guide
 tags:
   - ayahuasca
   - diy
@@ -10,19 +10,19 @@ tags:
   - dmt
   - plant-medicine
 source:
-  - "Stuart, R. '[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in South America.' MAPS Bulletin, Vol XII No 2, Summer 2002."
+  - "Stuart, R. '[[stuart-r-ayahuasca-tourism-cautionary-ethnography]] in [[guzman-psilocybin-mushrooms-south-america]].' MAPS Bulletin, Vol XII No 2, Summer 2002."
 ---
 
 # Ayahuasca DIY Home-Brewing: Ethnobotanical Supplier Guide
 
 ## Overview
 
-R. Stuart's 2002 reporting on ayahuasca tourism recommends home-brewing
+R. Stuart's 2002 reporting on [[ayahuasca-tourism]] recommends home-brewing
 using ethnobotanical supplier ingredients combined with an experienced
 sitter as a practical alternative to commercial ceremony tourism. This
 recommendation emerges from a critical assessment of the industry's
 exploitation, variable quality, and cost — but raises serious questions
-about safety, legality, and cultural context.
+about safety, legality, [[ayahuasca-pharmacology-and-cultural-context]].
 
 ## The Source Recommendation
 
@@ -65,7 +65,7 @@ and medicinal plant materials. These operate in a legal gray area.
 Key sourcing considerations:
 
 - **Species identification**: Verify correct botanical species.
-  Banisteriopsis caapi has several varieties ("Red," "Yellow," "Black")
+  [[banisteriopsis-caapi]] has several varieties ("Red," "Yellow," "Black")
   with differing alkaloid profiles. Psychotria viridis must be
   correctly identified among many Psychotria species.
 - **Material quality**: Dried vine should be whole or coarsely cut,
@@ -88,62 +88,3 @@ Key variables affecting potency and experience:
 - **Plant ratio**: More vine produces a purgative, body-focused
   experience; more leaf produces a more visionary, visual experience.
 - **Brewing time and temperature**: Longer brewing extracts more
-  alkaloids but may degrade some compounds. Gentle simmering preferred.
-- **pH adjustment**: Adding acid (lemon juice, vinegar) lowers pH and
-  improves alkaloid extraction efficiency.
-
-## The Role of the Sitter
-
-Stuart's recommendation explicitly requires "an experienced sitter" — a
-sober companion present throughout the experience:
-
-- **Safety monitoring**: Watching for physical distress or medical
-  emergencies. The article documents an AIDS patient who died during a
-  ceremony in Bolivia despite appearing healthy enough to dance — a
-  reminder that medical risk is real.
-- **Emotional support**: Psychedelic experiences can include fear,
-  grief, and existential confrontation. A calm sitter provides
-  grounding.
-- **Drug interaction awareness**: Understanding contraindicated
-  medications — MAOIs, SSRIs, psychiatric medications, and AIDS
-  antiretrovirals, all producing dangerous interactions.
-- **Practical assistance**: Managing the environment, providing water,
-  assisting with nausea, ensuring the participant stays safe.
-
-## Advantages of DIY Approach
-
-- **Cost-effectiveness**: Ingredients cost a fraction of the $30+
-  ceremony fee. A single batch ($20–50) may yield multiple ceremonies.
-- **Familiar environment**: A known setting reduces anxiety that
-  compounds the ayahuasca experience in a foreign country.
-- **Dose control**: Home brewers adjust plant ratios to achieve desired
-  intensity. Commercial ceremonies often use milder doses for liability.
-- **No tourism overhead**: No international flights, remote travel,
-  negotiation with unknown practitioners, or exploitative pricing.
-
-## Counterarguments and Risks
-
-- **Loss of cultural context**: Icaros, shaman-plant spirit
-  relationships, dieta traditions — these are not replicable at home.
-  A sitter cannot replace generations of cultural knowledge.
-- **Guidance gap**: Experienced shamans interpret visionary content and
-  direct experience through icaros. A sitter provides safety, not
-  therapeutic direction.
-- **Legal risk**: Possessing and consuming DMT-containing substances
-  is illegal in many countries. Practitioners have been prosecuted.
-- **Preparation risk**: Incorrect preparation can produce a dangerously
-  potent, ineffective, or contaminated brew.
-- **Medical risk without infrastructure**: If something goes wrong
-  physically — cardiac event, hypertensive crisis, adverse drug
-  interaction — the home setting may lack emergency medical access.
-
-## See Also
-
-- [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]]
-
-- [[teaming-with-microbes-compost-tea-brewing-guide]]
-
-- [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
-
-- [[san-francisco-shipibo-ayahuasca-ceremonial-center]]
-- [[ayahuasca-ceremony-pricing-disparity-tourist-versus-local]]

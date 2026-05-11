@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Went, J.L. (1956). "The Taxonomy of Dicentra." Proceedings of the California Academy of Sciences 28(12): 361–394.
-  - Layne, D.R. (2006). "Dicentra." In: Flora of North America, Vol. 6. Oxford University Press.
+  - Layne, D.R. (2006). "Dicentra." In: Flora [[berry-growing]], Vol. 6. Oxford University Press.
   - Stermitz, F.R. et al. (1988). "Isoquinoline Alkaloids of Dicentra Species." Journal of Natural Products 51(2): 276–280.
   - Armitage, A.M. (2008). "Herbaceous Perennial Plants." 3rd ed. Timber Press.
 ---
@@ -23,7 +23,7 @@ sources:
 
 The species produces arching stems of heart-shaped, pink flowers with white-tipped inner petals from mid-spring to early summer. Each pendant flower resembles a stylized heart with a drop of blood at its base, giving the plant its common name.
 
-Bleeding heart has been cultivated in Western gardens since the 1840s, when it was introduced from Japan by the Scottish plant collector Robert Fortune. It remains one of the quintessential cottage garden perennials.
+Bleeding heart has been cultivated in Western gardens since the 1840s, when it was introduced from Japan by the Scottish plant collector Robert Fortune. It remains one of the quintessential [[hamilton-cottage-garden-design]] perennials.
 
 ## Taxonomy and Morphology
 
@@ -69,15 +69,15 @@ In its native range, *D. spectabilis* often grows beneath deciduous canopy trees
 
 Bleeding heart thrives in partial to full shade in rich, moist, well-drained soil. It performs best in woodland-type conditions with dappled morning sun and afternoon shade.
 
-Plants emerge early in spring and flower from April through June in most temperate climates. Foliage typically yellows and enters dormancy by midsummer, especially in warmer regions where the plant receives too much sun.
+Plants emerge early in spring and flower from April through June in most [[fukuoka-natural-farming-temperate-climates]]. Foliage typically yellows and enters dormancy by midsummer, especially in warmer regions where the plant receives too much sun.
 
 This summer dormancy is natural and not a sign of disease. In cooler, moister climates with adequate shade, the foliage may persist longer. Intercropping with summer-blooming perennials masks the dormant period.
 
 Rhizomes should be planted 5–8 cm deep in autumn or early spring. Established clumps can remain undisturbed for many years but may be divided in early spring to rejuvenate older plantings.
 
-The species has few serious pests or diseases. Slugs and snails can damage emerging foliage. Aphids occasionally infest flower stems but rarely cause significant damage.
+The species has few serious pests or diseases. [[jadam-pesticide-for-slugs-and-snails]] can damage emerging foliage. Aphids occasionally infest flower stems but rarely cause significant damage.
 
-Fusarium root rot can affect plants in poorly drained soils. Powdery mildew may appear on foliage in humid conditions but is generally cosmetic. Providing adequate air circulation and drainage prevents most problems.
+Fusarium root rot can affect plants in poorly drained soils. [[cervantes-powdery-mildew-prevention-treatment]] may appear on foliage in humid conditions but is generally cosmetic. Providing adequate [[stamets-growing-room-air-circulation-co2-management]] and drainage prevents most problems.
 
 The white-flowered cultivar 'Alba' has been known since the 19th century and is equally popular. A compact, repeat-blooming selection called 'Gold Heart' features golden-yellow foliage and pink flowers.
 
@@ -88,34 +88,3 @@ The white-flowered cultivar 'Alba' has been known since the 19th century and is 
 All parts of *D. spectabilis* contain isoquinoline alkaloids, including protopine, allocryptopine, and dicentrine. These compounds are structurally related to the benzylisoquinoline alkaloids found in other Papaveraceae species.
 
 Ingestion causes mild to moderate toxicity in humans and animals. Symptoms include nausea, vomiting, diarrhea, and dizziness. The foliage is particularly irritating to livestock and pets if consumed in quantity.
-
-Despite its toxicity, the plant is not typically fatal. Most cases of poisoning involve household pets ingesting foliage, and recovery is expected with supportive care. The bitter taste generally deters significant consumption.
-
-Human poisoning is rare but documented, typically involving children attracted to the colorful flowers. No fatalities have been recorded in modern medical literature. Contact with the foliage may cause minor skin irritation in sensitive individuals.
-
-The isoquinoline alkaloid profile of *D. spectabilis* has been of interest to pharmacological researchers investigating the structure-activity relationships of isoquinoline alkaloids with potential anti-inflammatory and antimicrobial properties.
-
-## Cultural Significance
-
-Bleeding heart has been a fixture of Western cottage gardens since its introduction from Japan. Its distinctive flowers have made it one of the most illustrated garden plants in horticultural literature.
-
-In the Victorian language of flowers, bleeding heart symbolized rejected love, sorrowful attachment, or the ability to express deep emotion. The flower's dramatic appearance made it a popular subject for romantic poetry and 19th-century sentimental art.
-
-The flower has also appeared in East Asian art and poetry for centuries before its introduction to the West. In Japanese culture, it is called *urebanabana* (broken-heart flower) and appears in ukiyo-e woodblock prints.
-
-Robert Fortune introduced the species to England in 1846 from a Japanese nursery. It rapidly became one of the most sought-after garden plants of the Victorian era and was widely depicted in botanical prints and garden manuals.
-
-The plant's introduction coincided with the Victorian passion for ferns and woodland plants, making bleeding heart a natural fit for the shaded, naturalistic gardens of the period. It has remained in continuous cultivation since its introduction.
-
-## See Also
-
-- [[digitalis-purpurea]]
-- [[convallaria-majalis]]
-- [[narcissus-pseudonarcissus]]
-- [[tulipa-gesneriana]]
-- [[papaver-somniferum]]
-- [[atropa-belladonna]]
-- [[colchicum-autumnale]]
-- Primula vulgaris
-- [[cyclamen-purpurascens]]
-- [[hyacinthus-orientalis]]

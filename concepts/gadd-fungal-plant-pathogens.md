@@ -88,21 +88,3 @@ Calcium signalling plays a critical role in appressorium formation and function.
 At least 11 Ca2+-responsive signalling proteins have been identified in the N. crassa genome, forming a toolkit for calcium-mediated responses.
 
 The Chk1p two-component signal transduction protein regulates quorum sensing in fungal pathogens, coordinating population-level infection behaviours.
-
-Differences in intracellular signalling between Magnaporthe and model organisms like N. crassa reveal adaptations specific to the pathogenic lifestyle.
-
-Multiple MAP kinase pathways in M. grisea control virulence-associated appressorium development, with each pathway regulating different aspects of the infection process.
-
-Ras/Ras-related GTPases serve as molecular switches connecting surface receptors to downstream effector cascades during infection.
-
-## Comparative Approaches to Understanding Pathogen Evolution
-
-Three main mechanisms drive the evolution of fungal pathogenicity.
-
-Horizontal gene transfer from bacteria has contributed [[fungal-virulence-factors-host-immune-evasion]] to some fungal pathogen lineages.
-
-Gene family expansion, particularly of P450 enzymes and proteases, provides pathogens with enhanced ability to overcome host defences.
-
-Regulatory changes that alter the expression patterns of existing genes can convert a saprophytic fungus into a pathogen without requiring new gene acquisition.
-
-Comparative genomics between pathogenic and non-pathogenic relatives reveals that pathogenicity often depends on relatively few genetic changes, making the transition between lifestyles more fluid than previously assumed.

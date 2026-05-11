@@ -1,11 +1,12 @@
 ---
-title: "No fukuoka-no-fertilizer-principle-natural-soil-fertility and Natural Soil Fertility"
+title: Fukuoka Textdoc No Fertilizer Principle Natural Soil Fertility
 created: 2026-04-28
 tags: [fukuoka, natural-farming, no-fertilizer, soil-fertility, compost,
 ecology, organic-matter]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -35,7 +36,7 @@ supplied each year to the growing trees? Plants do not need to be raised; they
 grow of their own accord. The mountain forests are living proof that trees are
 not raised with fertilizer but grow by themselves.
 
-When black wattle is planted among cedar or cypress, these latter thrive with
+When [[fukuoka-black-wattle-fertilizer-tree-method]] is planted among cedar or cypress, these latter thrive with
 the help of the microbes present on the roots of the black wattle. If the forest
 is left to itself, the action of the wind and snow over the years weathers the
 rock, a layer of humus forms and deepens with the fall of leaves each year,
@@ -55,9 +56,9 @@ physical structure of the soil. After pounding and kneading the soil again and
 again like [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]], he drives out air and the humus so essential to
 microorganisms, reducing it to a yellow mineral matter barren of life. He then
 plants fruit saplings in the now lifeless soil, adds fertilizer, and attempts to
-grow fruit trees entirely through human forces.
+grow [[comparison-grafting-vs-budding-fruit-trees]] entirely through human forces.
 
-At agricultural research centers, fertilizer is added to potted soil devoid of
+At [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] centers, fertilizer is added to potted soil devoid of
 life and nutrients. The effect is like sprinkling water on dry soil: the trees
 thrive on the fertilizer nutrients. Naturally, researchers report this as
 evidence of the remarkable effectiveness of the fertilizer. The poor farmer has
@@ -86,27 +87,3 @@ fertilization, but Fukuoka asks three fundamental questions: Is it really true
 that crops do not grow in the absence of fertilizer? Is the use of fertilizers
 economically advantageous? And have methods of farming with fertilizers made the
 lot of farmers easier?
-
-The seeds of calamity have been sown. When farmers take note of the danger, it
-will be too late to do anything about it. Although cultivation without the use
-of [[cervantes-chemical-fertilizers-guide]] is possible, crops cannot immediately be grown
-successfully without fertilizers on fields that are normally plowed and weeded.
-
-## Return to Nature
-
-It is imperative that farmers think seriously about what nature is and provide a
-[[cannabis-growing-environment-setup]] that approaches at least one step closer to nature. But to
-farm in nature, one must first make an effort to return to that natural state
-which preceded the development of the [[natural-farming-methods-comparison]] used by man. The surest
-way to solve the problem is to apply a method that adapts to the circumstances
-and follows nature.
-
-Nature is not dead. It lives and it grows. All that man has to do is direct
-these vast hidden forces to the growth of fruit trees. But rather than using
-this great power, people choose to destroy it. Weeding and plowing the fields
-each year depletes the fertility of the soil and kills off microbes, turning
-rich, living, organic material into dead, inanimate mineral matter.
-
-## See Also
-
-- [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

@@ -87,39 +87,3 @@ Genetic diversity within populations is influenced by the species' mixed mating 
 ## Conservation and Restoration
 
 Tufted hair grass is widely used in ecological restoration of wetlands, riparian areas, and subalpine meadows. Its tolerance of both wet and moderately dry conditions makes it versatile for reclamation projects across diverse environments.
-
-Seed is commercially available from native plant nurseries, and the species establishes readily from seed when adequate moisture is available during the germination period. Seeding rates for restoration typically range from 5–10 kg/ha in monoculture or 1–3 kg/ha in mixed native seedings.
-
-The species shows moderate tolerance of heavy metal contamination in mine spoil reclamation, though growth is reduced compared to uncontaminated sites. Its fibrous root system provides effective soil stabilization on steep slopes and disturbed terrain.
-
-Climate change poses both opportunities and threats to tufted hair grass populations. Warming temperatures may allow range expansion at high elevations and latitudes, while increased drought stress at lower elevations could reduce populations in the southern portions of its range.
-
-The species' early-season phenology may become decoupled from pollinator emergence patterns under warming scenarios, though wind pollination reduces this risk relative to insect-pollinated species. Phenological monitoring networks have recorded advancing flowering dates across European populations.
-
-In green roof and bioswale applications, tufted hair grass has shown promise as a component of biodiverse, low-maintenance vegetation systems. Its tolerance of shallow substrates and periodic drought makes it suitable for extensive green roof configurations in cool climates.
-
-## See Also
-
-- [[festuca-arundinacea]]
-- [[panicum-virgatum]]
-- [[arundo-donax]]
-- [[miscanthus-sinensis]]
-- [[juncus-effusus]]
-- [[spartina-alterniflora]]
-- [[phragmites-australis]]
-- [[avena-sativa]]
-- [[pennisetum-setaceum]]
-- [[cymbopogon-citratus]]
-- [[vetiveria-zizanoides]]
-- [[sorghum-bicolor]]
-- [[andropogon-gerardii]]
-- [[coix-lacryma-jobi]]
-- [[phyllostachys-edulis]]
-- [[quercus-robur]]
-- [[salix-alba]]
-- [[populus-tremuloides]]
-- [[pseudotsuga-menziesii]]
-- [[pinus-sylvestris]]
-- [[hordeum-vulgare]]
-- [[triticum-aestivum]]
-- [[zea-mays]]

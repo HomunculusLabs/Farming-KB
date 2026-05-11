@@ -12,8 +12,8 @@ Species distributed throughout tropical regions of both hemispheres. These are t
 
 **Species examples:**
 
-- ***Psilocybe cubensis* (Earle) Singer** — The quintessential pantropical species, found from Florida and the Gulf Coast of the United States through Central America, the Caribbean, South America, sub-Saharan Africa, Southeast Asia, and Australia. Its association with cattle dung has facilitated its global dispersal. *P. cubensis* is the most commonly cultivated and consumed neurotropic mushroom worldwide.
-- ***Panaeolus cyanescens* (Berk. & Broome) Sacc.** — Another dung-inhabiting pantropical species with a similarly broad distribution. Found across tropical Africa, the Americas, Asia, and Oceania. Slightly more potent than *P. cubensis* on average.
+- ***Psilocybe cubensis* (Earle) Singer** — The quintessential pantropical species, found from Florida and the Gulf Coast of the United States through [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], the Caribbean, South America, sub-Saharan Africa, Southeast Asia, and Australia. Its association with cattle dung has facilitated its global dispersal. *P. cubensis* is the most commonly cultivated and consumed neurotropic mushroom worldwide.
+- ***[[panaeolus-cyanescens-bali-omelette]]* (Berk. & Broome) Sacc.** — Another dung-inhabiting pantropical species with a similarly broad distribution. Found across tropical Africa, the Americas, Asia, and Oceania. Slightly more potent than *P. cubensis* on average.
 - ***Psilocybe subcubensis* Guzmán** — A close relative of *P. cubensis* with a pantropical distribution, though less commonly encountered. Distinguished by smaller spores and slightly different microscopic features.
 - ***Panaeolus tropicalis* Ola'h** — A tropical species found across multiple continents, associated with herbivore dung in warm, humid environments.
 
@@ -42,12 +42,12 @@ Species restricted to the tropical regions of the Western Hemisphere (Central an
 
 ### Type 4: Mediterranean
 
-Species centered on the Mediterranean Basin, extending into adjacent temperate regions.
+Species centered on the Mediterranean Basin, extending into adjacent [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 **Species examples:**
 
 - ***Psilocybe semilanceata* (Fr.) P. Kumm.** — The "liberty cap," while primarily a temperate European species, extends into the Mediterranean region. This species is actually more characteristic of oceanic and subalpine climates but its southern European populations overlap with Mediterranean biogeography.
-- ***Inocybe corydalina* Quél.** — A Mediterranean-influenced species that contains small amounts of psilocybin, found in mixed forests of southern Europe.
+- ***[[inocybe-corydalina]]* Quél.** — A Mediterranean-influenced species that contains small amounts of psilocybin, found in mixed forests of southern Europe.
 - ***Psilocybe liniformans** — Found in the Mediterranean region, associated with dung and enriched soils in temperate to subtropical conditions.
 
 ### Type 5: Paleotemperate
@@ -57,7 +57,7 @@ Species of the temperate regions of the Eastern Hemisphere (Europe, Asia, possib
 **Species examples:**
 
 - ***Psilocybe semilanceata* (Fr.) P. Kumm.** — Primarily a paleotemperate species despite its pantropical-relative abundance. Dominant in the British Isles, Scandinavia, the Baltic states, and across temperate Europe into Russia. Its distribution extends across Eurasia but is absent from truly tropical regions.
-- ***Psilocybe cyanescens* Wakefield** — While now widely distributed through human activity (woodchip gardens), *P. cyanescens* is originally a paleotemperate species of Western Europe, particularly the British Isles and the Low Countries. It has been introduced to the [[psilocybin-north-america-pacific-northwest]] of North America.
+- ***Psilocybe cyanescens* Wakefield** — While now widely distributed through human activity (woodchip gardens), *P. cyanescens* is originally a paleotemperate species of Western Europe, particularly the British Isles and the Low Countries. It has been introduced to the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]].
 - ***Psilocybe bohemica* Šebek** — A Central European species found in the Czech Republic and surrounding countries, typically associated with woody debris in riparian habitats.
 - ***Psilocybe serbica** — Found in southeastern Europe (Serbia, Bosnia), representing the Balkan component of paleotemperate neurotropic diversity.
 
@@ -78,7 +78,7 @@ Species restricted to the [[guzman-allen-gartz-africa-southern-hemisphere-undere
 
 **Species examples:**
 
-- ***Psilocybe aucklandii** — Found in New Zealand, representing the austral neurotropic mycobiota. This species grows in native forests and is part of the distinct Southern Hemisphere fungal community.
+- ***Psilocybe aucklandii** — Found in New Zealand, representing the austral neurotropic mycobiota. This species grows in native forests and is part of the distinct [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]] fungal community.
 - ***Psilocybe tasmaniana** — Documented from Tasmania and southeastern Australia, this species exemplifies the austral distribution type with its restriction to the cool-temperate regions of the Southern Hemisphere.
 - ***Psilocybe subaeruginosa** Cleland** — An Australian species that has been introduced to New Zealand, found in woody substrates in eucalypt and other native forests. While primarily Australian, its introduction to New Zealand complicates its classification as strictly austral.
 
@@ -87,51 +87,3 @@ Species restricted to the [[guzman-allen-gartz-africa-southern-hemisphere-undere
 Species with truly global distribution, found across multiple biogeographic realms and climate types.
 
 **Species examples:**
-
-- ***Psilocybe coprophila* (Bull.) P. Kumm.** — A small, dung-inhabiting species found worldwide in temperate and tropical regions. Its small size and inconspicuous appearance mean it is likely underreported, but its global distribution is well-documented.
-- ***Conocybe smithii** — A cosmopolitan species found across multiple continents, associated with dung and enriched soils. Its small size and fragile nature contribute to underreporting.
-- ***Panaeolus foenisecii* (Pers.) J. Schröt.** — The "brown mottlegill," found worldwide in lawns and grasslands. While its psilocybin content is debated (some authorities report only trace amounts), it is one of the most widely distributed fungi containing psychoactive compounds.
-
-### Type 9: Endemic
-
-Species restricted to a very limited geographic area, often a single country or region.
-
-**Species examples:**
-
-- ***Psilocybe aztecorum* Heim** — Endemic to the high mountains of central Mexico, specifically the volcanic peaks near Mexico City (Popocatépetl, Iztaccíhuatl). Known to the Aztecs as "teonanácatl" and used in traditional ceremonies. Its restriction to high-elevation pine forests above 3,000 meters makes it a classic endemic.
-- ***Psilocybe oaxacensis** — Found only in the state of Oaxaca, Mexico, this species represents the high level of endemism in [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]].
-- ***Psilocybe hispanica** — Found only in Spain, this species is endemic to the Iberian Peninsula, representing European endemism in the genus.
-- ***Psilocybe wassonorum Heim** — Restricted to specific high-elevation forests in Mexico, this species was named in honor of R. Gordon Wasson and Valentina Wasson for their contributions to ethnomycological knowledge.
-- ***Psilocybe mairei** — While sometimes classified as paleotropical, some authorities consider certain populations to be endemic to specific North African locations, illustrating the difficulty of distinguishing endemic from restricted paleotropical distributions.
-
-## Overlap Between Types
-
-Guzmán et al. note that many species do not fit neatly into a single distribution type. Several species appear in multiple categories depending on the authority and the inclusiveness of the geographic range considered:
-
-- *P. semilanceata* spans Types 1, 4, 5, and 6 depending on how broadly its distribution is interpreted
-- *P. cyanescens* spans Types 5 and 6 due to its naturalization in North America
-- *P. cubensis* is primarily Type 1 but extends into subtropical regions that border temperate zones
-- *P. coprophila* spans Types 1, 5, and 6, being found in temperate and tropical regions of both hemispheres
-
-## Biogeographic Implications
-
-The [[distribution-of-neurotropic-fungi]] fungi across Hongo's types reveals several patterns:
-
-1. **Substrate association correlates with distribution type**: Dung-inhabiting species tend toward pantropical or cosmopolitan distributions, while forest-litter species tend toward more restricted types
-2. **Human activity has blurred natural distributions**: Species associated with woodchips, gardens, and cattle have been widely dispersed beyond their natural ranges
-3. **Endemism is highest in Mexico**: The concentration of endemic species in Mexico supports its status as a center of [[mexico-center-neurotropic-fungal-diversity]]
-4. **The austral element is underrepresented**: The Southern Hemisphere has fewer documented neurotropic species, possibly reflecting both genuine paucity and undercollecting
-
-## See Also
-
-- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
-- [[guzman-allen-gartz-global-psilocybe-biogeography]]
-- [[guzman-allen-gartz-northern-southern-hemisphere-mycobiota-convergence-mexico]]
-- psilocybe semilanceata biogeography
-- [[neurotropic-fungi-endemic-species-and-restricted-ranges-guzman-1998]]
-
-## Sources
-
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). A worldwide geographical distribution of the neurotropic fungi, an analysis and discussion. *Ann. Mus. civ. Rovereto*, 14: 189-280.
-- Hongo, A. (1985). Notulae mycologicae. *Mem. Shiga Univ.*, 25: 37-46.
-- Hongo, A. (1989). Studies on the agaric flora of Japan. *Mem. Shiga Univ.*, 29: 41-57.

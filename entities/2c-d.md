@@ -21,7 +21,7 @@ created: 2026-05-07
 
 **2C-D** (2,5-dimethoxy-4-ethylphenethylamine) is a synthetic psychedelic phenethylamine and a member of the 2C family of compounds.
 
-It was first synthesized by Alexander Shulgin and is documented in entry #47 of PiHKAL (Phenethylamines I Have Known and Loved).
+It was first synthesized by [[alexander-shulgin]] and is documented in entry #47 of PiHKAL (Phenethylamines I Have Known and Loved).
 
 2C-D is often described as the lightest and most functional of the 2C series, with subtle visual effects and a clear-headed cognitive profile.
 
@@ -50,7 +50,7 @@ It is sparingly soluble in water and more soluble in ethanol and organic solvent
 
 ## Pharmacology
 
-2C-D acts primarily as a partial agonist at serotonin 5-HT₂A receptors, the primary receptor responsible for classical psychedelic effects.
+2C-D acts primarily as a partial agonist at [[serotonin]] 5-HT₂A receptors, the primary receptor responsible for classical psychedelic effects.
 
 It also shows affinity for 5-HT₂C and 5-HT₁A receptors, contributing to its anxiolytic and mood-modulating properties.
 
@@ -76,7 +76,7 @@ The elimination half-life is estimated at 3–5 hours based on subjective effect
 - **Strong:** 40–60 mg
 - **Heavy:** 60+ mg
 
-2C-D is characterized by mild visual effects including color enhancement, subtle geometric patterning, and increased visual acuity.
+2C-D is characterized by mild visual effects including color enhancement, subtle geometric patterning, and increased [[mckenna-roland-fischer-psilocybin-visual-acuity]].
 
 The cognitive effects are often described as clear-headed and analytical, with enhanced pattern recognition and creative thinking.
 
@@ -87,39 +87,3 @@ Physical effects include mild stimulation, pupil dilation, and increased tactile
 The compound is notably less likely to produce anxiety, confusion, or overwhelming experiences compared to more potent 2C compounds.
 
 At higher doses, visual effects intensify and may include open-eye patterning, while the clear-headed quality is partially diminished.
-
-## History and Culture
-
-2C-D was first synthesized by Alexander Shulgin during his systematic exploration of phenethylamine compounds in the 1970s–1980s.
-
-It is documented in [[2c-b-pihkal-entry-20]] #47, where Shulgin describes it as "pharmacologically uneventful" in its subtlety and controllability.
-
-Shulgin's recommended dose range of 40–60 mg reflected the compound's relatively gentle character at the +2 level.
-
-The compound remained obscure outside dedicated psychonaut communities until the early 2000s online research chemical market.
-
-2C-D gained a reputation as an excellent "museum dose" psychedelic, suitable for social gatherings, creative work, and nature exploration.
-
-Within the psychedelic community, it is sometimes called "2C-Delicious" for its pleasant and manageable subjective profile.
-
-The compound has not been the subject of formal [[mushroom-cancer-clinical-trials-overview]], though its pharmacological properties have been characterized in preclinical research.
-
-## Legal Status
-
-2C-D is classified as a Schedule I controlled substance in the [[dmt-containing-plants-united-states-halpern]] under the Controlled [[controlled-substances-act-and-psychedelic-research]].
-
-In the United Kingdom, it is a Class A controlled drug under the Misuse of Drugs Act 1971 and the Psychoactive Substances Act 2016.
-
-Australia classifies 2C-D as a Schedule 9 prohibited substance under the Standard for the Uniform Scheduling of Medicines and Poisons.
-
-In Canada, 2C-D is controlled under Schedule III of the Controlled Drugs and Substances Act.
-
-Many European countries have scheduled 2C-D or its parent class of 2C phenethylamines under analogue or blanket drug laws.
-
-## See Also
-
-- [[2c-e]]
-- [[mescaline]]
-- [[pihkal-2c-e]]
-- [[ann-shulgin]]
-- [[lsd]]

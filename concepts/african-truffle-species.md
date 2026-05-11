@@ -87,20 +87,3 @@ Useful indicators include changes in growth rate, seasonal timing, moisture beha
 pest or disease pressure, soil structure, and the response of nearby organisms.
 Recording these observations over several cycles helps distinguish a stable pattern from
 a one-time event caused by weather, disturbance, or management history.
-
-## Management Notes
-Management should start with low-risk interventions: improve habitat, reduce stressors,
-protect beneficial organisms, and observe outcomes before escalating to intensive
-control or redesign. When the topic involves cultivation or remediation, small trials
-are safer than whole-site changes because they reveal local constraints early.
-
-## See Also
-
-- [[asian-truffle-species]]
-
-- [[truffle-guide]]
-
-- [[ectomycorrhizal-ecology]]
-
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[microfungal-species-diversity-large-areas]]

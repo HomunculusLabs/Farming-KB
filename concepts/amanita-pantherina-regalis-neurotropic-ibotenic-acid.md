@@ -87,28 +87,3 @@ consumption significantly more unpleasant and dangerous than the muscimol-only e
 ## Ecological Distinctions
 
 The mycorrhizal ecology of these Amanita species has profound implications:
-
-- **Habitat specificity**: They require living tree roots and cannot be cultivated on
-  substrate in the way coprophilous or saprotrophic [[cattle-dispersal-psychoactive-fungi-australia]] can.
-- **Geographic constraint**: Natural distribution is tied to the range of compatible
-  host trees (*Pinus*, *Betula*, *Picea*, *Quercus*), primarily in temperate and boreal
-  forests of the Northern Hemisphere.
-- **Introduction pathways**: Spread beyond native range is almost entirely through
-  deliberate planting of host trees (e.g., pine plantations in the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]),
-  with the fungal symbiont inadvertently co-introduced on root systems.
-
-## References
-
-- Cleland, J.B. (1976). Amanita muscaria in Australia.
-- Guzmán, G., Allen, J.W. & Gartz, J. (1998). World-wide [[global-distribution-of-neurotropic-fungi]]
-  fungi. *Mycotaxon*.
-- Härkönen, M. (1995). Records of Amanita muscaria in Tanzania.
-- Hatfield, G.M. (1979). Ibotenic acid in Amanita pantherina.
-- Hongo, T. & Yokoyama, K. (1978). Amanita muscaria in New Zealand.
-- Homrich, M.H. (1965). Ocorrência de Amanita muscaria no Brasil.
-- Jenkins, D.T. (1986). Amanita regalis in Alaska.
-- Wasson, R.G. & Wasson, V.P. (1957). Mushrooms, Russia and History. Pantheon Books.
-
-## See Also
-
-- [[indigenous-use-neurotropic-fungi-mexico]]

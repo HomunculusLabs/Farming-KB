@@ -18,7 +18,7 @@ of undocumented biodiversity in the fungal kingdom.
 ## Definition and Scope
 
 The term "dark taxa" draws from the concept of "dark matter" in astrophysics —
-something detectable by its effects but invisible to direct observation. In
+something detectable by its effects but invisible to [[fukuoka-direct-observation-method]]. In
 mycology, dark taxa are the OTUs (Operational Taxonomic Units) that appear in
 metabarcoding datasets but cannot be assigned to any named species. In some
 soil surveys, 50-70% of detected sequences fall into this category.
@@ -36,9 +36,9 @@ Dark taxa are discovered through environmental sequencing of diverse substrates:
 - **Plant endosphere** — roots, stems, and leaves harbor [[endophytic-fungi]]
   that are rarely collected independently
 - **Aquatic sediments** — marine and freshwater substrates contain poorly
-  studied fungal communities
-- **Air samples** — aerobiology captures [[mycorrhiza]] l dark taxa could influence plant community composition. Understanding
-ecosystem processes requires understanding all participants, not just the
+  studied [[biodiversity-fungi-soil-fungal-communities]]
+- **Air samples** — aerobiology captures [[mycorrhiza]] l dark taxa could influence [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]. Understanding
+[[fungal-ecosystem-processes-overview]] requires understanding all participants, not just the
 named ones.
 
 ## Case Studies
@@ -55,7 +55,7 @@ kingdom.
 
 Bridging the gap between dark taxa and formal taxonomy requires coordinated
 efforts: targeted isolation campaigns guided by environmental sequence data,
-development of novel cultivation techniques (co-culture with bacterial
+development of novel [[cannabis-sativa-indoor-cultivation-techniques]] (co-culture with bacterial
 partners, media mimicking natural substrates), single-cell genomics, and
 expansion of reference databases. Some research groups have successfully
 used fluorescence-activated cell sorting to isolate individual fungal cells
@@ -65,7 +65,7 @@ The concept of "phylogenetic placement" — using tools like EPA-ng and
 pplacer to insert short environmental sequences into a pre-computed reference
 phylogeny — offers a way to at least classify dark taxa relative to known
 lineages, even when formal description is not yet possible. This provides
-a framework for organizing the vast uncharted territory of fungal diversity.
+a framework for organizing the vast uncharted territory of [[arbuscular-mycorrhizal-fungal-diversity]].
 
 ## See Also
 

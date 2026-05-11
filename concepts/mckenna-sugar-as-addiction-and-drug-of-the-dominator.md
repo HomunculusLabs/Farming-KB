@@ -1,5 +1,5 @@
 ---
-title: mckenna sugar as addiction and drug of the dominator and Drug of the Dominator
+title: Mckenna Sugar As Addiction And Drug Of The Dominator
 created: 2026-04-28
 tags: [sugar, addiction, dominator-culture, slavery, McKenna, food-of-the-gods, drugs]
 date: 2026-04-28
@@ -42,7 +42,7 @@ Their addiction is a real, harmful, and highly damaging health problem, just as 
 
 Eventually the point is reached where supplying the chemical becomes as painful as withdrawing from it. The cycle of chemical dependence becomes both entrenched and intolerable.
 
-This clinical framing undermines the conventional distinction between food and drug that protects sugar from the scrutiny applied to other substances. McKenna uses it to argue that the legal status of sugar is based on cultural bias, not pharmacological reality.
+This clinical framing undermines the conventional distinction between food and drug that protects sugar from the scrutiny applied to other substances. McKenna uses it to argue that the [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] sugar is based on cultural bias, not pharmacological reality.
 
 ## Synergy with Caffeine
 
@@ -66,7 +66,7 @@ Legend relates that Khusraw discovered a store of sugar amongst the treasures ta
 
 Sugar reached England around 1319 and was popular in Sweden by 1390. It was an expensive exotic novelty, mostly found in its traditional role in medicine.
 
-Sugar made palatable the foul-tasting mixtures of medicinal herbs, entrails, and other materials typical of the medieval pharmacopoeia. In the age before antibiotics, sugar was commonly used to pack wounds.
+Sugar made palatable the foul-tasting mixtures of [[medicinal-herbs-for-livestock]], entrails, and other materials typical of the medieval pharmacopoeia. In the age before antibiotics, sugar was commonly used to pack wounds.
 
 The Spanish planted sugarcane in their Caribbean holdings, introducing slavery into the New World for the purpose of producing sugar. By 1530 there were more than a dozen sugar plantations operating in the West Indies.
 
@@ -87,43 +87,3 @@ In 1432 Prince Henry the Navigator of Portugal established the first commercial 
 Slavery diminished with the dissolution of the Roman empire, and feudalism replaced it with serfdom. But the sugar economy reversed this progress, re-establishing mass chattel slavery on a scale not seen since antiquity.
 
 ## Sugar as Foundation of Global Trade
-
-When the thirst for variety was satisfied by massive importation of spices and flavorings, the infrastructure turned to sugar, chocolate, tea, coffee, and distilled alcohol, all of which are drugs.
-
-The present global trading system was created to cater to people's inherent need for variety and stimulation. Neither moral scruples nor physical barriers could stand in the way.
-
-Now any drug, no matter how restricted its traditional area of use, can be produced for rapid export to hungry markets anywhere on the globe. Worldwide pandemics of substance abuse became possible.
-
-The importation of tobacco into Europe in the sixteenth century was the first example, followed by the forced spread of opium use in China and distilled alcohol abuse among North [[harner-american-indian-peyote-rituals]] tribes.
-
-## The Mercantilist Drug Complex
-
-Through its use in caffeine drinks and distilled alcohol, sugar played a major indirect role in furthering the dominator culture's suppression of the underclass and of women of all classes. Slavery to drugs is a tired metaphor, but in the case of sugar the metaphor was made horribly real.
-
-When the tea market collapsed in the early nineteenth century, the distributing system capitalized by the British East India Company turned to opium. The invention of morphine in 1803 and then heroin in 1873 carried this progression to the threshold of the [[coleman-louis-savier-twentieth-century-maraicher]].
-
-Alarmed social reformers who attempted to legislate drug use only succeeded in driving it underground. There it remains, controlled today by international crime cartels often posing as intelligence agencies. It is, as William Burroughs remarked, not a pretty picture.
-
-## Sugar vs. Psychedelics in McKenna's Framework
-
-The deeper significance of sugar emerges from its contrast with psychedelic plants. Mushrooms dissolve boundaries, promote egalitarianism, and expand consciousness. Sugar does the opposite.
-
-Sugar provides a cheap energy rush that fuels labor without expanding awareness. It reinforces the status quo by keeping workers energized but compliant, making it the perfect drug for dominator hierarchy.
-
-The spice trade was not merely commerce; it was an unconscious drive to recapture the lost symbiosis with the vegetable world. But channeled through dominator culture, it produced addiction, slavery, and exploitation.
-
-The sugar-caffeine synergy that powered the Industrial Revolution replaced the mushroom-human symbiosis that catalyzed language and consciousness in prehistoric Africa.
-
-The transition from partnership to dominator culture was not merely political or religious but pharmacological, a shift in the substances that shaped human consciousness and social organization.
-
-## See also
-
-[[mckenna-sugar-spice-mercantilism]]
-[[mckenna-dominator-vs-partnership-society-model]]
-[[mckenna-addiction-disease-model-and-free-will-erosion]]
-
-- [[mckenna-mdma-and-drug-terror-of-the-1980s]]
-
-## See Also
-
-- [[mckenna-sugar-slavery-dominator-culture-commodities]]

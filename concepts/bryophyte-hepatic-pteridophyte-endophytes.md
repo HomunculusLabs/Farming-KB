@@ -88,19 +88,3 @@ groups:
    techniques difficult to apply
 2. **Slow growth**: Many endophytes from these hosts grow slowly or
    remain sterile in culture, frustrating identification efforts
-3. **Histological dependence**: Many associations have been described
-   only through histological sectioning, without successful isolation
-   of the fungal partner in pure culture
-4. **Taxonomic expertise**: Identification of both host and fungal
-   partners requires specialized knowledge of bryology, pteridology,
-   and mycology
-5. **Cryptic colonization**: Endophytic occupation is often
-   inconspicuous and may be overlooked without targeted investigation
-
-## Global Distribution
-
-Endophytic fungi are known from bryophytes, hepatics, and
-pteridophytes growing in tropical, temperate, and [[fungal-diversity-boreal-forests-taiga]]; from
-herbaceous plants in extreme arctic, alpine, and xeric environments;
-and from mesic temperate and tropical forests. The ubiquity of these
-## See Also

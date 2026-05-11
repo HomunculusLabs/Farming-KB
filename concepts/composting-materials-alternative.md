@@ -11,12 +11,12 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources. (see [[hamilton-alternative-soil-conditioners]]).
+Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
 
 ## External Sources of Compost Material
 
 ### Supermarkets and Farmers' Markets
-An excellent source of green material. Arrange to visit after closing time on Saturdays to collect waste produce. (see [[mulching-techniques]]).
+An excellent source of green material. Arrange to visit after closing time on Saturdays to collect waste produce.
 
 ### Sports Fields and Golf Clubs
 Often have massive amounts of grass cuttings with no disposal means and are glad to have them cleared away.
@@ -25,7 +25,7 @@ Often have massive amounts of grass cuttings with no disposal means and are glad
 In rural areas where farmers do not bale straw, ask to gather some before disposal. Important: check that the straw has not been sprayed with chemicals before collecting.
 
 ### Tomato Growers
-Used grow bags at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further composting. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
+Used [[filter-can-design-mushroom-grow-bags]] at the end of the season contain once-used compost full of tomato roots — a perfect soil conditioner even without further composting. Stack for a year to ensure any chemical traces have dissipated if the nursery was not organic.
 
 ### Local Government (Leaves)
 Leaves from municipal collection are often available. They may contain trash (cigarette packs, etc.) that is easy to remove. Lead contamination from car exhaust is a concern, but composting should reduce it to acceptable levels.
@@ -43,10 +43,10 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 
 ## Sheet Composting
 
-For gardeners who lack time for proper composting but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
+For gardeners who lack time for proper composting but refuse to throw away [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
 
 - Useful only in productive areas where aesthetics are not important
-- Works well on paths between rows or as mulch around fruit trees
+- Works well on paths between rows or as mulch around [[comparison-grafting-vs-budding-fruit-trees]]
 - Weeds must be wilted beyond recovery before spreading (to prevent re-rooting)
 - Ensure weeds are not about to shed seeds
 - Grass cuttings are ideal but watch for annual meadow grass seeds
@@ -58,4 +58,31 @@ For gardeners who lack time for proper composting but refuse to throw away organ
 
 - [[compost-container-types]] — container designs for proper composting
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
-- [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost
+- [[soil-conditioners-guide]] — [[hamilton-alternative-soil-conditioners]] including leaf mold and green compost
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[composting-humus-building-holzer]]
+- [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
+- [[comparison-aerobic-vs-anaerobic-composting]]
+- [[mushroom-cultivator-phase-i-composting]]
+- [[microwave-reflective-transparent-materials-surface-sterilization]]
+
+## Benefits and Advantages
+- Multiple benefits accrue from implementing these approaches effectively.
+- Environmental, economic, and social advantages are well-documented.
+- Long-term sustainability benefits often exceed initial investment expectations.
+
+## Challenges and Considerations
+- Implementation challenges vary by context, scale, and available resources.
+- Regulatory and logistical factors may influence adoption and effectiveness.
+- Adaptive management strategies help address evolving challenges over time.

@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-Thalictrum thalictroides, commonly called rue anemone, is a delicate tuberous perennial in the family Ranunculaceae. It is native to eastern North America, where it inhabits rich deciduous woodlands from Ontario and Quebec south to Florida and Texas.
+Thalictrum thalictroides, commonly called rue anemone, is a delicate tuberous perennial in the family Ranunculaceae. It is native to [[polypore-fungi-eastern-north-america]], where it inhabits rich deciduous woodlands from Ontario and Quebec south to Florida and Texas.
 
 The plant produces clusters of white to pinkish flowers 2–3 cm across on slender, wiry stems 10–25 cm tall in early to mid-spring. Its finely divided, glaucous foliage resembles that of the herb rue (Ruta), hence the common name.
 
@@ -35,7 +35,7 @@ The reclassification from Anemonella to Thalictrum in 2008 was initially controv
 
 Thalictrum thalictroides was originally described as Anemone thalictroides by Linnaeus in 1753. It was transferred to the genus Anemonella by Édouard Spach in 1839, where it remained for over 150 years.
 
-Molecular studies by Park and Simmons (2008) confirmed its placement within Thalictrum, closely allied to the eastern Asian species Thalictrum tuberiferum. The species is diploid (2n = 14) and shows no evidence of hybridization with other North American Thalictrum species.
+Molecular studies by Park and Simmons (2008) confirmed its placement within Thalictrum, closely allied to the eastern Asian species Thalictrum tuberiferum. The species is diploid (2n = 14) and shows no evidence of hybridization with other [[growing-gourmet-north-american-reishi-species]] Thalictrum species.
 
 The plant arises from a cluster of small, ovoid tubers 5–10 mm in diameter. Basal leaves are long-petioled, biternately compound with three rounded to obovate leaflets 8–20 mm wide.
 
@@ -49,9 +49,9 @@ The tubers are produced in loose clusters of 2–5 at the base of each stem. The
 
 Thalictrum thalictroides is distributed across eastern North America from southern Ontario and southwestern Quebec through New England and the Great Lakes states. Its range extends southward along the Appalachian Mountains to northern Georgia and Alabama, and westward to eastern Texas, Oklahoma, and Missouri.
 
-The species is most abundant in the central Appalachian region and the Ohio River Valley, where rich mesic forests provide optimal habitat. Populations become scattered and local at the southern and western range margins.
+The species is most abundant in the central [[bolete-fungi-appalachian-region]] and the Ohio River Valley, where rich mesic forests provide optimal habitat. Populations become scattered and local at the southern and western range margins.
 
-Primary habitats include rich, mesic deciduous woodlands, particularly those dominated by sugar maple (Acer saccharum), American beech (Fagus grandifolia), and tulip tree (Liriodendron tulipifera). It favors north-facing slopes, ravine bottoms, and shaded stream terraces.
+Primary habitats include rich, mesic deciduous woodlands, particularly those dominated by sugar maple ([[acer-saccharum]]), American beech ([[fagus-grandifolia]]), and tulip tree ([[liriodendron-tulipifera]]). It favors north-facing slopes, ravine bottoms, and shaded stream terraces.
 
 The species grows in loamy, well-drained soils with a thick humus layer, typically in sites with dappled spring sunlight. It is rarely found in areas with intensive logging disturbance or heavy deer browsing.
 
@@ -63,15 +63,15 @@ It is classified as Secure (G5) across most of its range but is listed as Threat
 
 Rue anemone is a spring ephemeral that emerges in March or April and senesces by June across most of its range. The tubers persist underground through summer and winter, storing reserves for the following spring's growth.
 
-The flowers produce both nectar and pollen, attracting small bees (Andrena, Halictus), bee flies (Bombyliidae), and early spring hoverflies. The extended bloom period of 2–3 weeks per colony provides a reliable early resource for these pollinators.
+The flowers produce both nectar and pollen, attracting small bees (Andrena, Halictus), bee flies (Bombyliidae), [[coleman-overwintered-onions-and-early-spring-crops]] hoverflies. The extended bloom period of 2–3 weeks per colony provides a reliable early resource for these pollinators.
 
-Self-compatibility allows seed set in the absence of pollinators, but cross-pollinated flowers produce significantly more viable seed. Seed dispersal is primarily by gravity and rainwash, with limited long-distance transport.
+Self-compatibility allows seed set in the absence of pollinators, but cross-pollinated flowers produce significantly more viable seed. [[clay-pellet-seed-dispersal]] is primarily by gravity and rainwash, with limited long-distance transport.
 
-Vegetative reproduction occurs slowly through tuber division, with colonies expanding by only a few centimeters per year. Genetic diversity within populations is moderate, maintained primarily by outcrossing.
+Vegetative reproduction occurs slowly through tuber division, with colonies expanding by only a few centimeters per year. [[biodiversity-fungal-genetic-diversity]] within populations is moderate, maintained primarily by outcrossing.
 
 The foliage contains thalicarpine and other isoquinoline alkaloids that deter herbivory. Deer and rabbit browsing is minimal, though heavy deer populations can eliminate the species through trampling and habitat degradation.
 
-Mycorrhizal associations are essential for nutrient uptake during the brief growing season. The tubers form vesicular-arbuscular mycorrhizal connections that persist through the dormant period.
+[[plants-without-mycorrhizal-associations]] are essential for [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] during the brief [[extending-growing-season]]. The tubers form vesicular-arbuscular mycorrhizal connections that persist through the dormant period.
 
 The species shows high sensitivity to forest fragmentation. Populations in small isolated woodlots tend to decline over time due to reduced pollinator visitation and genetic drift.
 
@@ -88,34 +88,3 @@ The species pairs beautifully with other spring ephemerals including Trillium, H
 A selected form with double flowers, sold as 'Oscar Schoaff', has extra sepals creating a fuller, longer-lasting bloom. Several pink-flowered selections are also available from specialist nurseries.
 
 Propagation by seed is possible but slow, requiring cold stratification and 12–18 months to reach transplant size. Division of tuber clusters in late summer is the most reliable vegetative method.
-
-The species is generally pest-free but can develop powdery mildew in humid conditions with poor air circulation. Good drainage and adequate spacing prevent most fungal issues.
-
-Container-grown plants may require protection from vole damage to the tubers during winter. A layer of coarse gravel or hardware cloth placed above the tubers provides effective physical barrier.
-
-## Uses
-
-Thalictrum thalictroides has no significant history of medicinal or culinary use. Some historical accounts mention its use by Cherokee healers as a mild topical wash, but documentation is fragmentary and the practice appears to have been rare.
-
-The alkaloid thalicarpine, first isolated from related Thalictrum species, has shown antitumor activity in laboratory studies. However, Thalictrum thalictroides contains only trace amounts and is not a commercial source of this compound.
-
-Its primary value is ornamental. The species is prized by shade-garden enthusiasts and native-plant collectors for its dainty, long-lasting spring flowers and fine-textured foliage.
-
-It has received the Award of Garden Merit from the Royal Horticultural Society, confirming its reliability in cultivation. The plant is increasingly available from native-plant nurseries specializing in eastern North American wildflowers.
-
-The species is sometimes used in shaded rock gardens and trough plantings where its diminutive habit can be appreciated at close range. The finely cut foliage remains attractive even after the flowers fade.
-
-In the nursery trade, Thalictrum thalictroides is sometimes still sold under the outdated name Anemonella thalictroides. Gardeners should be aware of this synonymy when sourcing plants from catalogs.
-
-## See Also
-
-- [[thalictrum-delavayi]]
-- [[thalictrum-dioicum]]
-- [[thalictrum-aquilegiifolium]]
-- [[anemone-nemorosa]]
-- [[helleborus-orientalis]]
-- [[eranthis-hyemalis]]
-- [[actaea-racemosa]]
-- [[aquilegia-vulgaris]]
-- [[ranunculus-acris]]
-- [[pulsatilla-vulgaris]]

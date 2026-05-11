@@ -15,8 +15,8 @@ updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=mitragyna+speciosa+kratom
   - https://www.drugabuse.gov/drugs-abuse/kratom
-  - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J Drug Target.
-  - Hassan, Z. et al. (2013). "Mitragyna speciosa: A review of its pharmacology." J Pharm Pharmacol.
+  - Prozialeck, W.C. et al. (2012). "Kratom: A case of misleading product categorization." J [[ergosterol-fungal-drug-target]].
+  - Hassan, Z. et al. (2013). "[[kratom-mitragyna-speciosa-pharmacology]]: A review of its pharmacology." J Pharm Pharmacol.
 ---
 
 # Mitragyna speciosa
@@ -68,7 +68,7 @@ Over 40 alkaloids have been identified in *M. speciosa* leaves. The major [[cord
 - **Paynantheine:** ~9% of total; limited pharmacological data
 
 ### Minor Alkaloids
-Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitraphylline, isorhynchophylline, and various indole derivatives. Many of these are shared with the related medicinal plant *Uncaria tomentosa* (cat's claw).
+Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitraphylline, isorhynchophylline, and various indole derivatives. Many of these are shared with the related medicinal plant *[[uncaria-tomentosa]]* (cat's claw).
 
 ## Pharmacology
 
@@ -81,57 +81,10 @@ Mitraphylline, rhynchophylline, ajmalicine (raubasine), corynantheidine, isomitr
 
 ### Dose-Dependent Effects
 - **Low dose (1–5 g leaf):** Stimulant effects — increased energy, alertness, sociability, libido, reduced fatigue. Dominated by adrenergic activity.
-- **Moderate dose (5–15 g leaf):** Mixed stimulant and analgesic effects — euphoria, pain relief, anxiety reduction, mild sedation
+- **Moderate dose (5–15 g leaf):** Mixed stimulant and analgesic effects — euphoria, [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]], anxiety reduction, mild sedation
 - **High dose (15–25+ g leaf):** Opioid-like effects — strong analgesia, sedation, cough suppression, opioid withdrawal relief. Dominated by μ-opioid receptor activity.
 
 ### Pharmacokinetics
 - **Onset:** 5–15 minutes (toss-and-wash powder); 30–45 minutes (capsules)
 - **Peak effects:** 1–2 hours
 - **Duration:** 4–8 hours depending on dose, strain, and individual metabolism
-- **Half-life:** Mitragynine ~3.5 hours; 7-hydroxymitragynine ~2.5 hours
-- **Metabolism:** Primarily hepatic via CYP3A4, CYP2D6; major metabolites include 7-hydroxymitragynine and mitragynine pseudoindoxyl
-
-## Traditional and Ethnobotanical Use
-
-- **Thailand:** Laborers chew fresh leaves (5–30 per day) for stamina and pain relief during agricultural work; tea preparations for diarrhea, cough, and fever; used by some as a substitute for opium since the 19th century
-- **Malaysia:** "Ketum" tea prepared from fresh or dried leaves; used as a traditional remedy for diabetes, hypertension, fatigue, and as a poultice for wounds
-- **Indonesia:** Widely consumed across all social classes; integral to daily life in rural communities; exported globally as dried leaf powder
-- **Myanmar:** Used traditionally for [[cannabis-chronic-pain-management]] and as an opium substitute
-
-## Kratom Strains and Vein Colors
-
-Commercial kratom is marketed by vein color and regional origin, though scientific standardization is lacking:
-- **Red vein:** Mature leaves, reportedly more sedating and analgesic; most popular globally
-- **Green vein:** Mid-maturity, balanced effects; moderate stimulation and pain relief
-- **White vein:** Young leaves, reportedly most stimulating and euphoric
-- **Yellow/gold vein:** Typically red vein dried using alternative methods; effects variable
-- **Regional varieties:** Maeng Da (Thailand), Bali, Borneo, Malay, Sumatra, Indo, Vietnam — differences attributed to soil, climate, harvesting practices, and post-harvest processing
-
-## Legal Status
-
-Legal status is highly variable and rapidly evolving:
-- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled at the federal level; banned in Alabama, Arkansas, Indiana, Rhode Island, Vermont, Wisconsin, and several municipalities. DEA has listed it as a "Drug of Concern." FDA has not approved kratom for any medical use.
-- **Thailand:** Decriminalized in 2021 after decades of prohibition under the Kratom Act of 1943 (which made planting the tree illegal); now regulated
-- **Malaysia:** Scheduled under the Poisons Act; illegal to possess, sell, or consume
-- **Indonesia:** Legal domestically; major export commodity; proposed export ban announced periodically
-- **Australia:** Scheduled as a Schedule 9 prohibited substance
-- **EU:** Status varies by member state; generally unscheduled but under monitoring
-- **Canada:** Legal but under regulatory review
-
-## Controversies and Safety Concerns
-
-### Documented Risks
-- **Dependence and withdrawal:** Regular heavy use (daily, >15 g) can produce dependence with withdrawal symptoms (anxiety, irritability, insomnia, muscle aches, diarrhea, cravings) beginning 12–48 hours after last use, lasting 3–7 days
-- **Hepatotoxicity:** Rare but documented cases of drug-induced liver injury (DILI), typically at high doses or with poly-substance use
-- **Seizures:** Rare, primarily in combination with other substances or at very high doses
-- **FDA contamination concerns:** Salmonella contamination in some commercial products (2018 recalls); heavy metals and adulterants detected in some samples
-
-### Mortality Data
-- Deaths associated with kratom typically involve poly-substance use (kratom + opioids, benzodiazepines, or alcohol). Isolated kratom-attributed deaths are extremely rare.
-- The CDC reported 91 kratom-associated deaths (2016–2017), but nearly all involved multiple drugs.
-
-## See Also
-
-- [[psilocybin]] — Another plant/fungi-derived psychoactive compound
-- [[dmt-nn-dimethyltryptamine]] — Tryptamine alkaloid from plant sources
-- [[uncaria-tomentosa]]

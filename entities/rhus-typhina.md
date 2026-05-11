@@ -35,7 +35,7 @@ sources:
 ## Morphology
 
 - **Habit:** Upright, spreading deciduous shrub; occasionally develops a short trunk; 3-6 m tall, 3-6 m spread
-- **Growth rate:** Rapid (60-90 cm/year); individual stems live 15-25 years; clonal colonies persist indefinitely via root suckers
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]:** Rapid (60-90 cm/year); individual stems live 15-25 years; clonal colonies persist indefinitely via root suckers
 - **Bark:** Smooth dark brown to gray on mature stems; young branches densely covered with velvety rust-colored hairs (the "staghorn" feature)
 - **Leaves:** Large pinnately compound, 25-55 cm long with 9-31 serrate leaflets (5-11 cm each); dark green above, paler below; brilliant orange-to-scarlet fall color
 - **Flowers:** Dense upright panicles 10-20 cm × 4-6 cm; small greenish-yellow flowers; dioecious (male and female on separate plants); blooms June–July
@@ -51,7 +51,7 @@ sources:
 - **Phenolic acids:** Gallic, protocatechuic, and caffeic acids
 - **Antioxidant capacity:** ORAC values comparable to blueberries and pomegranates
 
-⚠️ **Allergy warning:** *Rhus typhina* is in Anacardiaceae (cashew/mango family). Individuals allergic to cashews, mangoes, pistachios, or poison ivy may react. The toxic look-alike is *Toxicodendron vernix* (poison sumac), which has white fruits and grows in swamps.
+⚠️ **Allergy warning:** *Rhus typhina* is in Anacardiaceae (cashew/mango family). Individuals allergic to cashews, mangoes, pistachios, or poison ivy may react. The toxic look-alike is *[[toxicodendron-vernix]]* (poison sumac), which has white fruits and grows in swamps.
 
 ## Edible and Culinary Uses
 
@@ -73,60 +73,17 @@ sources:
 - **Pioneer species:** Among the first woody plants to colonize disturbed, degraded, or nutrient-poor soils; creates favorable conditions for later-succession species
 - **Soil stabilization:** Extensive root system and suckering habit make it excellent for [[permplant-willows-salix-erosion-control-fodder]] on slopes and mine reclamation
 - **Rhizosphere enrichment:** Supports high mycorrhizal populations and nitrogen-fixing bacteria (*Azotobacter*, *Azospirillus*), indirectly improving soil nitrogen
-- **Wildlife habitat:** Flowers attract bees and butterflies; fruit feeds 300+ bird species (robins, bluebirds, grouse, wild turkey); dense thickets shelter predatory insects
+- **[[hemenway-backyard-wildlife-habitat]]:** Flowers attract bees and butterflies; fruit feeds 300+ bird species (robins, bluebirds, grouse, wild turkey); dense thickets shelter predatory insects
 - **Food forest integration:** Functions as canopy-understory transition shrub; provides shade for understory herbs while tolerating partial shade
-- **Allelopathy:** Root exudates reported to have mild allelopathic effects on competing weeds
+- **Allelopathy:** [[mycorrhiza-root-exudates]] reported to have mild allelopathic effects on competing weeds
 
 ## Cultivation
 
 - **Hardiness:** USDA Zones 3-8; tolerates -35°C
 - **Soil:** Extremely adaptable; thrives in poor, rocky, sandy, or clay soils; pH 5.5-7.0; tolerates alkaline conditions
-- **Water:** Drought-tolerant once established; moderate needs during first 1-2 growing seasons
-- **Sun:** Full sun to partial shade; best fruit production in full sun
+- **Water:** Drought-tolerant once established; moderate needs during first 1-2 [[jeavons-climate-adaptation-growing-seasons]]
+- **Sun:** Full sun to partial shade; best [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] in full sun
 - **Propagation:** Seed (cold stratification 60-90 days at 4°C); root division; softwood cuttings; transplanting suckers (easiest)
 - **Containment:** Aggressive suckering — install root barriers (60 cm depth) or plant where spreading is acceptable
 - **Pruning:** Cut to ground every 3-5 years for vigorous, colorful regrowth
 - **Harvest:** Fruit clusters in late summer to early autumn when fully red and before heavy rain; dry whole clusters in warm, ventilated space
-
-## Indigenous and Traditional Uses
-
-[[halpern-sacramental-peyote-and-native-american-church]] peoples used staghorn sumac extensively. The fruits were
-brewed into a vitamin C-rich beverage ("Indian lemonade"), and the dried
-leaves and fruits were used as a smoking mixture. The Iroquois used a root
-decoction for bloody diarrhea, and the Cherokee used leaf preparations for
-sores and burns. The fruits and bark were used in leather tanning due to
-their high tannin content. In Middle Eastern cuisine, sumac spice has been
-used for millennia — references appear in the Talmud and in Roman writings
-by Pliny the Elder. The spice trade for sumac predates that of black pepper
-in some Levantine regions.
-
-## Propagation and Establishment Guidelines
-
-- **[[jeavons-seed-propagation-techniques]]:** Collect seed in late autumn; cold stratify at
-  4°C for 60-90 days in moist sand or vermiculite; sow in spring in
-  flats or directly into prepared beds; germination rate 40-60%;
-  seedlings establish slowly in the first year but accelerate in
-  year two
-- **Division:** Established clumps can be divided in early spring before
-  bud break or in autumn after leaf drop; each division should include
-  2-3 viable buds and a portion of the root system
-- **Sucker transplanting:** The easiest method — dig well-rooted suckers
-  (30+ cm from parent) in spring; transplant immediately; survival
-  rate exceeds 85% with adequate moisture
-- **Root cuttings:** 10-15 cm sections of horizontal roots planted
-  horizontally 3-5 cm deep in early spring; new shoots emerge in 4-6
-  weeks
-- **[[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] for restoration:** Broadcast 1-2 g/m² on disturbed
-  sites; light raking to incorporate; natural cold stratification over
-  winter; germination the following spring
-- **Establishment care:** Water 2-3 times per week for the first growing
-  season; mulch with 5 cm of [[hamilton-composting-and-organic-matter-management]] to retain moisture; no
-  fertilizer needed — sumac thrives in poor soils
-
-## See Also
-
-- [[epichloe-typhina]]
-
-- [[food-forest]] — Staghorn sumac as a functional shrub layer component
-- [[robinia-pseudoacacia]] — Black locust, complementary nitrogen-fixing pioneer tree
-- [[biochar]] — Soil amendment complementary to pioneer species plantings

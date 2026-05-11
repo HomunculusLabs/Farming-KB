@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Reynolds, T. (2004). "Aloes: The Genus Aloe." CRC Press.
   - Grace, O.M. et al. (2009). "Organoleptic and phytochemical properties of Aloe arborescens leaf gel." kanna-sceletium-south-african-narcotic Journal of Botany 75(1): 44-51.
-  - Surjushe, A. et al. (2008). "Aloe vera: A short review." Indian Journal of Dermatology 53(4): 163-166.
+  - Surjushe, A. et al. (2008). "[[aloe-vera]]: A short review." Indian Journal of Dermatology 53(4): 163-166.
   - Nebel, S. et al. (2017). "Metabolite profiling of Aloe arborescens using UHPLC-QTOF-MS." Journal of Pharmaceutical and Biomedical Analysis 138: 58-66.
 ---
 
@@ -72,7 +72,7 @@ It grows on rocky outcrops, cliff faces, and in coastal thicket vegetation at el
 
 The natural range extends into mountainous regions of Lesotho, Eswatini, and Zimbabwe.
 
-It has become naturalized in Mediterranean climates worldwide, including coastal California, southern Europe, Japan, and parts of South America.
+It has become naturalized in Mediterranean climates worldwide, including coastal California, southern Europe, Japan, and parts of [[guzman-psilocybin-mushrooms-south-america]].
 
 In Japan, it has been cultivated for centuries and is one of the most commonly grown medicinal plants in household gardens.
 
@@ -82,50 +82,8 @@ The leaf gel contains polysaccharides, predominantly acemannan (acetylated polym
 
 Anthraquinone derivatives including aloin (barbaloin), aloe-emodin, and chrysophanol are concentrated in the leaf exudate (latex) beneath the rind.
 
-Phenolic compounds include flavonoids, chromones, and coumarins.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] include flavonoids, chromones, and coumarins.
 
 Minerals present include calcium, magnesium, zinc, and selenium in biologically significant concentrations.
 
 Vitamins A, C, E, and B-complex vitamins have been detected in leaf gel preparations.
-
-The anthraquinone content of *A. arborescens* is generally lower than that of *A. vera*, making it better tolerated for internal use.
-
-## Pharmacology and Traditional Use
-
-In Japanese Kampo-influenced folk medicine, *A. arborescens* leaf gel is consumed fresh or as a juice for gastrointestinal complaints, including constipation, gastric ulcers, and general digestive support.
-
-Brazilian herbalists use the plant similarly, preparing leaf gel infusions for stomach ailments and as a general tonic.
-
-South African traditional healers apply the gel topically for burns, wounds, and skin infections.
-
-In vitro studies demonstrate antibacterial activity against *Staphylococcus aureus*, *Pseudomonas aeruginosa*, and *Escherichia coli*.
-
-Anti-inflammatory activity has been documented in carrageenan-induced edema models, attributed primarily to acemannan and C-glycosyl chromones.
-
-Immunomodulatory effects include enhanced macrophage activation and increased cytokine production in murine models.
-
-The leaf latex exhibits laxative effects due to anthraquinone-stimulated colonic peristalsis.
-
-Internal use of unprocessed latex is not recommended due to potential for abdominal cramping and electrolyte imbalance.
-
-## Cultivation
-
-*A. arborescensens* is easily propagated from stem cuttings or by removing and replanting offsets.
-
-It requires well-drained soil, full sun to partial shade, and minimal irrigation once established.
-
-The species is moderately frost-tolerant, surviving brief freezes to approximately −4°C.
-
-Pests include aloe mites (*Aceria aloinis*), scale insects, and mealybugs.
-
-In ornamental landscaping, it is valued for [[dighton-fungal-drought-tolerance-plant-water-relations]], dramatic form, and winter flower display.
-
-It is listed as an accepted species by the IUCN with no current conservation concern.
-
-## See Also
-
-- [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
-- [[passiflora-incarnata]]
-- [[silybum-marianum]]
-- [[echinacea-purpurea]]
-- [[sambucus-nigra]]

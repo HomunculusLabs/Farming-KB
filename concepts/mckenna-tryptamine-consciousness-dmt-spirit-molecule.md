@@ -87,17 +87,3 @@ McKenna suggests that the tryptamine experience may represent this secret -- som
 ## The Alien as Disguised Self
 
 McKenna proposes that the alien quality of the DMT experience may be a function of modern alienation rather than an indication of genuine otherness. "We are alienated, so alienated that the Self must disguise itself as an extraterrestrial in order not to alarm us with the truly bizarre dimensions that it encompasses." The implication is that what appears as alien intelligence in the DMT trance may be the human self in its full, unalienated dimensions -- a possibility so foreign to modern consciousness that it can only be perceived through the mask of the extraterrestrial.
-
-"When we can love the alien," McKenna writes, "then we will have begun to heal the psychic discontinuity that has plagued us since at least the sixteenth century, possibly earlier." This formulation transforms the DMT experience from a mere drug effect into a potential tool for psychological and cultural healing -- a means of recovering aspects of the self that have been lost to the alienating forces of modern civilization.
-
-## See Also
-
-- [[5-meo-dmt-reference]]
-- [[mckenna-archaic-revival]]
-- [[information-paradigm-of-consciousness]]
-
-- mckenna-tryptamine-hallucinogens-and-consciousness -- parent topic overview
-- mckenna-tryptamine-psilocybin-consciousness-evolution -- psilocybin as parallel tryptamine
-- mckenna-tryptamine-ayahuasca-and-dmt-combinations -- oral DMT via ayahuasca
-- mckenna-tryptamine-endogenous-dmt-pineal-gland-theory -- endogenous DMT hypothesis
-- mckenna-tryptamine-research-legal-status -- barriers to research

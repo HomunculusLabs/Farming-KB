@@ -88,24 +88,3 @@ adults, though larger controlled trials are needed.
 
 Cordycepin (3-deoxyadenosine) is a nucleoside analog unique to Cordyceps
 species including [[cordyceps-militaris]]. It structurally resembles adenosine
-but lacks the 3-prime hydroxyl group of the ribose ring, allowing it to
-interfere with RNA synthesis and cellular proliferation. Cordycepin exhibits
-antitumor, anti-inflammatory, immunomodulatory, and insecticidal activities.
-Its bioavailability is limited by adenosine deaminase degradation in the body,
-but modified formulations and co-administration with deaminase inhibitors are
-being actively investigated.
-
-## Lentinan and Polysaccharide-K
-
-Lentinan is a specific beta-glucan purified from shiitake mushrooms approved as
-an adjuvant cancer therapy in Japan since the 1980s. It enhances immune
-function by activating T-cells and macrophages. Polysaccharide-K (PSK,
-krestin) is a protein-bound polysaccharide from turkey tail approved in Japan
-since 1977, demonstrating immunomodulatory, antitumor, and antimetastatic
-effects through T-cell activation and dendritic cell maturation.
-
-## See Also
-
-- [[cotter-mushroom-nutrition-medicinal-compounds]]
-- [[medicinal-mushroom-compounds]]
-- [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]

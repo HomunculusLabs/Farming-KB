@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 # Ecological Garden Design
@@ -19,7 +20,7 @@ The typical garden requires constant effort: tilling, weeding, watering, fertili
 
 - Dependent on external inputs (fertilizer, pesticides, water)
 - Labor-intensive and often unsustainable
-- Low in biodiversity and ecological function
+- Low in biodiversity and [[phytochrome-ecological-function-dusk-dawn-red-far-red-light-switch]]
 - Vulnerable to pests, diseases, and weather extremes
 - Poor at building soil (tilling destroys soil structure)
 
@@ -40,7 +41,7 @@ An ecological garden works with nature rather than against it. By understanding 
 Every element in the garden should perform multiple functions. An apple tree provides fruit, shade, pollen for bees, leaf litter for mulch, and habitat for birds. Comfrey accumulates nutrients, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], provides mulch when cut, and has medicinal uses.
 
 ### 2. Multiple Elements for Each Function
-Each important function should be supported by multiple elements. Pest control, for example, comes from insectary plants, bird habitat, beneficial insect shelters, crop diversity, and healthy soil -- not a single method.
+Each important function should be supported by multiple elements. Pest control, for example, comes from insectary plants, bird habitat, [[beneficial-insect-habitat]] shelters, crop diversity, and healthy soil -- not a single method.
 
 ### 3. Recycle All Energy and Nutrients
 Nothing is wasted in an ecological garden. Plant debris becomes mulch, kitchen scraps become compost, animal manure becomes fertilizer, and "weeds" become biomass. Every output becomes an input for another element.
@@ -66,9 +67,9 @@ Before designing, observe the site for at least a full year:
 
 ### Build Soil First
 The foundation of the ecological garden is living soil. Before planting:
-- Sheet mulch to suppress weeds and build organic matter
+- Sheet mulch to [[query-how-do-cover-crops-suppress-weeds]] and build organic matter
 - Add compost and aged manure
-- Plant cover crops (clover, vetch, rye) to fix nitrogen and protect soil
+- Plant cover crops (clover, vetch, rye) [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] and protect soil
 - Avoid tilling -- it destroys soil structure and microbial networks
 
 ### Plant in Guilds and Polycultures
@@ -76,7 +77,7 @@ Instead of monoculture rows, group plants into mutually beneficial communities:
 - Fruit tree guilds (apple + comfrey + clover + dill + garlic)
 - Vegetable polycultures (Ianto Evans's 7-variety mix)
 - Herb spirals ([[holzer-medicinal-and-culinary-herbs-compendium]] arranged by moisture/sun needs)
-- Berry patches with ground covers and insectary plants
+- Berry patches with [[permaculture-plants-ground-covers-and-accumulators]] insectary plants
 
 ### Stack Functions Vertically
 Use every layer from canopy to ground:
@@ -87,50 +88,3 @@ Use every layer from canopy to ground:
 - Ground covers (clover, thyme)
 - Root crops ([[comparison-jerusalem-artichoke-vs-potato]], horseradish)
 - Climbing plants (grapes, beans, kiwi)
-
-### Integrate Animals
-Animals perform essential ecological functions:
-- Chickens for pest control, fertilizer, and tillage
-- Bees for pollination and honey
-- Birds for insect control and seed dispersal
-- Worms for soil building and composting
-
-## The Transition Process
-
-### Year 1: Observation and Foundation
-- Observe the site through all seasons
-- Start a compost pile
-- Sheet mulch a small area and plant a garden
-- Plant a few fruit trees
-- Begin water harvesting (rain barrels, small swales)
-
-### Year 2: Expansion
-- Add more guilds and polycultures
-- Install chickens or other small livestock
-- Expand [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] areas
-- Plant berry bushes and [[comparison-perennial-vegetables-vs-cover-crops]]
-- Begin food forest planting
-
-### Year 3+: Maturation
-- Guilds begin to function as self-maintaining systems
-- Fruit trees begin producing
-- Soil health improves measurably
-- Maintenance decreases as systems mature
-- Harvest diversity and quantity increase
-
-## Key Insight
-
-The ecological garden is not a wild, unkempt space. It is a carefully designed system that mimics natural patterns while producing for human needs. The design work happens upfront; the maintenance decreases over time as the system matures. The garden becomes a living ecosystem that provides food, beauty, habitat, and resilience.
-
-## See Also
-
-- ecological garden design
-- [[permaculture-farm-design-principles]]
-- [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]
-- [[soil-building-ecological-garden]]
-- [[water-catchment-urban-permaculture]]
-- mollison-mulching-and-soil-health
-
-## Source
-
-Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture*, Chapters 1-3

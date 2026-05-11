@@ -24,7 +24,7 @@ sources:
 
 The species was the principal source of commercial cudbear and orchil dyes from the 16th through the 19th centuries. These dyes colored wool, silk, and liturgical textiles across Scandinavia, Scotland, and continental Europe.
 
-Its thallus forms large, pale to medium grey crusts with distinctive rounded fruiting bodies (apothecia) that have thick, paler margins. The combination of K+ yellow to red spot test and C+ red reaction is diagnostic.
+Its thallus forms large, pale to medium grey crusts with distinctive rounded [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] (apothecia) that have thick, paler margins. The combination of K+ yellow to red spot test and C+ red reaction is diagnostic.
 
 *O. tartarea* is a characteristic species of mature, bark-phorophyte communities in oceanic temperate forests. It remains relatively common in areas with good [[cervantes-air-quality-ventilation]] but has declined significantly in polluted regions.
 
@@ -42,7 +42,7 @@ Its thallus forms large, pale to medium grey crusts with distinctive rounded fru
 - *Lichen tartareus* L. (basionym)
 - *Lecanora tartarea* (L.) Ach.
 - *Variolaria tartarea* (L.) DC.
-- *Ochrolechia androgyna* auct. sensu Th. Fr. (misapplied in part)
+- *[[ochrolechia-androgyna]]* auct. sensu Th. Fr. (misapplied in part)
 
 The thallus is crustose, broadly areolate to continuous, pale grey to grey-white, often with a pinkish or yellowish tinge in sun-exposed situations. It can form extensive patches 10–30 cm across on suitable bark.
 
@@ -58,9 +58,9 @@ Pycnidia are immersed, producing bacilliform conidia 4–6 × 1 μm. These are f
 
 *Ochrolechia tartarea* has a circumboreal [[psilocybe-semilanceata-worldwide-temperate-distribution-guzman-1998]]. In Europe, it ranges from Fennoscandia and the British Isles across Central Europe to the Mediterranean mountains and eastward through the Carpathians and Balkans.
 
-The species occurs across North America, from Alaska and the Pacific Northwest through the boreal forest to the Great Lakes region and Appalachian Mountains. It extends southward in mountainous areas.
+The species occurs across [[guzman-psilocybin-mushrooms-north-america]], from Alaska and the [[psilocybin-north-america-pacific-northwest]] through the boreal forest to the Great Lakes region and Appalachian Mountains. It extends southward in mountainous areas.
 
-It is strongly associated with the bark of mature, shade-tolerant trees. Preferred phorophytes include *Quercus* spp., *Fagus sylvatica*, *Acer* spp., *Betula* spp., *Populus tremula*, and *Salix* spp.
+It is strongly associated with the bark of mature, shade-tolerant trees. Preferred phorophytes include *Quercus* spp., *[[fagus-sylvatica]]*, *Acer* spp., *Betula* spp., *Populus tremula*, and *Salix* spp.
 
 The species shows moderate sensitivity to air pollution, declining in areas with elevated sulfur dioxide. It persists in old-growth forests and well-buffered sites even in otherwise polluted regions.
 
@@ -72,7 +72,7 @@ Elevation ranges from sea level to approximately 1,500 m in mountainous areas. I
 
 Additional compounds include gyrophoric acid, atranorin (in the cortex), and traces of zeorin. The lecanoric acid chemotype is the most widespread; some populations additionally produce erythrin.
 
-Spot test reactions: K+ yellow becoming red (lecanoric acid), C+ red, KC+ red to crimson, Pd+ yellow to orange. The C+ red reaction is a key field identification character.
+Spot test reactions: K+ yellow becoming red (lecanoric acid), C+ red, KC+ red to crimson, Pd+ yellow to orange. The C+ red reaction is a key [[palmer-mushroom-hunting-field-identification]] character.
 
 The dye chemistry of *O. tartarea* involves alkaline hydrolysis of lecanoric acid to orcinol and orsellinic acid. Traditional ammonia fermentation (urine treatment) converts these precursors to litmus and orchil dyes.
 
@@ -87,37 +87,3 @@ In Scotland, commercial cudbear production centered on the Highlands and islands
 Orchil dye was widely used in the European [[staycare-fungal-treatment-of-textile-industry-wastewater]] for dyeing wool and silk. It produced a range of reds, purples, and violets depending on the mordant, pH, and fermentation duration.
 
 The litmus derived from *Ochrolechia* species became the standard pH indicator in chemistry from the 17th century onward. Litmus paper was manufactured commercially from lichen extracts well into the 20th century.
-
-Limited medicinal use as a wound dressing and antiseptic agent has been recorded in Scandinavian folk traditions. The lecanoric acid shows mild antibacterial activity in laboratory studies.
-
-⚠️ Industrial dye lichen harvesting caused significant depletion of natural populations in parts of Europe. Collection is no longer practiced at commercial scale.
-
-## Ecology and Conservation
-
-*Ochrolechia tartarea* is a slow-growing, long-lived crustose lichen with limited vegetative dispersal. Thallus establishment requires stable bark surfaces and suitable microclimatic conditions.
-
-The species hosts several lichenicolous fungi, including *Lichenoconium pyxidatae* and *Arthonia ochrolechiae*. These [[escovopsis-parasitic-fungi-attine-ant-gardens]] can reduce reproductive output but rarely kill the host thallus.
-
-Air quality improvement in formerly polluted regions of Europe has led to partial recovery of *O. tartarea* populations since the 1980s. However, recovery rates are slow due to limited dispersal capacity.
-
-Habitat loss through removal of old-growth forests and veteran trees remains the most significant conservation threat. The species depends on bark stability and continuity over decades.
-
-## Similar Species
-
-- ***Ochrolechia androgyna*** — Very similar externally but contains gyrophoric acid rather than lecanoric acid (C− to C+ pale). Often produces soredia, which *O. tartarea* lacks. Overlaps in distribution.
-
-- ***Ochrolechia parella*** — Smaller apothecia with thinner margins, contains parellin and lecanoric acid. More strictly calcicolous, found on basic bark and rock. Wider Mediterranean range.
-
-- ***Pertusaria amara*** — Similar grey crustose thallus but warty surface and distinctly bitter taste (picrolichenic acid). K+ yellow (not turning red). Larger, muriform spores.
-
-- ***Ochrolechia subviridis*** — Greenish-grey thallus, contains thiophanic acid. Primarily boreal-subarctic, on conifer bark. Rare in temperate lowlands.
-
-## See Also
-
-- [[ochrolechia-androgyna]]
-
-- [[cetraria-islandica]] — Iceland moss, historically used in food and medicine
-- [[hypogymnia-physodes]] — Puffed shield lichen, common foliose species on similar trees
-- [[physcia-stellaris]] — Common starburst lichen of shaded bark
-- [[cladonia-rangiferina]] — Reindeer lichen, ground-dwelling but sharing boreal range
-- [[flavoparmelia-caperata]] — Common greenshield lichen of temperate forests

@@ -12,7 +12,7 @@ created: 2026-05-08
 
 On June 6, 2002, Japan became one of the first countries to specifically
 regulate fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] under its Narcotics and
-Psychotropic Control Law. This regulatory action was the explicit motivation
+Psychotropic [[japan-narcotics-control-law-psilocybin-fungi-2002]]. This regulatory action was the explicit motivation
 for Shirota, Hakamata, and Goda's 2003 paper on the concise large-scale
 synthesis of these compounds, as [[shirota-forensic-standard-compounds-magic-mushroom-identification]] were needed for the
 chromatographic identification of regulated mushrooms.
@@ -34,13 +34,13 @@ substances under Japanese narcotics law.
 The decision to regulate these fungi reflected a broader international trend.
 The Netherlands had already moved to restrict the sale of magic mushrooms
 (though not criminalize them until 2007), and the United Kingdom had classified
-psilocin and psilocybin as Class A drugs under the Misuse of Drugs Act. Japan's
+[[psilocin-and-psilocybin-chemistry]] as Class A drugs under the Misuse of Drugs Act. Japan's
 action was notable for specifically naming the fungi themselves rather than
 just the isolated compounds, creating broader enforcement scope.
 
 The Narcotics and Psychotropic Control Law under which the mushrooms were
 regulated is Japan's primary drug control statute, analogous to the Controlled
-[[controlled-substances-act-and-psychedelic-research]] in the United States. The law establishes penalties for
+[[controlled-substances-act-and-psychedelic-research]] in the [[dmt-containing-plants-united-states-halpern]]. The law establishes penalties for
 possession, cultivation, distribution, and consumption of listed substances,
 with severity generally increasing for substances deemed to have higher abuse
 potential or more serious health consequences.
@@ -57,7 +57,7 @@ is time-consuming and requires laboratory equipment.
 
 For these reasons, chromatographic methods including TLC (thin-layer
 chromatography), GC (gas chromatography), and HPLC (high-performance liquid
-chromatography) "are usually employed" for forensic identification. All of
+chromatography) "are usually employed" for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]. All of
 these methods require authentic standard compounds for comparison—known
 quantities of pure psilocin and psilocybin against which unknown samples can
 be measured.
@@ -85,52 +85,6 @@ only viable route.
 ## Forensic Identification Methods
 
 The paper references several forensic methods for identifying magic mushrooms.
-TLC is the simplest and most rapid, using silica gel plates and visualizing
+TLC is the simplest and most rapid, using [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] plates and visualizing
 spots with Ehrlich's reagent (which produces a characteristic blue-purple color
-with indole compounds) and/or UV light at 254 nm. GC methods provide better
-separation and quantification but require derivatization of the polar psilocybin
-molecule. HPLC, particularly with reversed-phase columns, offers the best
-combination of separation, sensitivity, and ease of use.
-
-Previous researchers had developed these methods using standards obtained from
-natural isolation or earlier synthetic routes. However, the limited availability
-and high cost of these standards constrained the capacity of forensic
-laboratories. The Shirota synthesis, achieved "without any chromatographic
-purification," promised to make standards available at lower cost and larger
-scale.
-
-## Broader Implications of Criminalization
-
-The Japanese experience with magic mushroom regulation illustrates several
-general principles of drug policy. Criminalization creates demand for
-analytical standards, which in turn drives synthetic chemistry research. The
-cost and complexity of forensic identification influence enforcement
-priorities—simpler tests lead to more enforcement, more complex tests to
-selective enforcement.
-
-The regulation also raises questions about proportionality. Magic mushrooms
-are generally considered to have low abuse potential, low toxicity, and low
-potential for dependence, yet in Japan they were regulated under the same
-statute as heroin and cocaine. The authors' reference to "lower awareness of
-guilt than with other drugs" among users suggests that the mushrooms occupied
-a distinct cultural niche—one that the regulation disrupted without necessarily
-addressing underlying patterns of use.
-
-## International Context
-
-Japan's 2002 regulation was part of a wave of international restrictions on
-[[psilocybin-synthesis-shirota-concise-large-scale-method]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-
-## References
-
-- Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise large-scale
-  synthesis of psilocin and psilocybin. *J. Nat. Prod.*, 66, 885-887.
-- Bogusz, M.J. (2000). Liquid chromatographic method for the determination
-  of psilocin. *J. Chromatogr. B*, 748, 3-19.
-
-## See Also
-
-- [[shirota-japan-narcotics-control-law-magic-mushroom-regulation]]
-
-- magic-mushrooms-japan
+with [[psilocybe-semilanceata-eight-indole-compounds]]) and/or UV light at 254 nm. GC methods provide better

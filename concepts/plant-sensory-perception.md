@@ -87,22 +87,3 @@ An animal cannot reshape its body plan in response to environmental conditions. 
 Both systems are elegant solutions to the universal challenge of surviving in a changing world. Chamovitz's work invites us to appreciate plants not as passive organisms but as active, perceptive participants in their environments.
 
 ## Controversies and Debates
-
-The field of plant sensory perception has generated heated scientific debate,
-particularly around the concept of "plant neurobiology" proposed by researchers
-such as Stefano Mancuso and Frantisek Baluska. Critics including Lincoln Taiz
-have argued forcefully that plants lack neurons, synapses, and any structure
-analogous to a nervous system, making the term "neurobiology" misleading when
-applied to plants. A widely cited 2007 critique warned that anthropomorphic
-language about plant "intelligence" risks undermining the credibility of
-legitimate plant signaling research. The debate centers on definitions:
-proponents argue that plants exhibit problem-solving, learning, and adaptive
-behavior that qualifies as intelligence regardless of mechanism; opponents
-counter that without a nervous system these are better described as complex
-stimulus-response programs. Most mainstream plant biologists occupy a middle
-ground, acknowledging sophisticated signaling capabilities while rejecting
-claims of plant cognition or consciousness.
-
-## See Also
-
-- [[plant-sensory-biology-smell-touch-hearing]]

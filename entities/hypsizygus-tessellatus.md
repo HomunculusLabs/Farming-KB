@@ -88,30 +88,3 @@ H. tessellatus produces several bioactive metabolites with documented health pro
 The mushroom contains notable amounts of ergothioneine (1.2 to 2.8 mg/g dry weight), a potent antioxidant amino acid. It also produces hypsin, a serine protease with antifungal properties, and several ribonucleases with reported antitumor activity in cell line studies. Extracts have shown hepatoprotective effects in rodent models of carbon tetrachloride-induced liver injury.
 
 Total phenolic content ranges from 2.5 to 4.0 mg GAE/g dry weight, with moderate DPPH radical scavenging activity. The fatty acid profile is dominated by linoleic acid (C18:2), comprising approximately 55 percent of total fatty acids.
-
-Polysaccharide extracts from H. tessellatus have demonstrated significant anti-inflammatory activity in vitro, inhibiting NF-κB signaling pathways and reducing pro-inflammatory cytokine production (TNF-α, IL-6). These findings suggest potential therapeutic applications in chronic inflammatory conditions, though clinical trials in humans have not yet been conducted.
-
-Protein content ranges from 20 to 28 percent of dry weight, with a favorable amino acid profile including all essential amino acids. The mushroom is particularly rich in glutamic acid and aspartic acid, contributing to its characteristic umami flavor. Potassium is the most abundant mineral, followed by phosphorus and magnesium.
-
-### Culinary Applications
-
-In Japanese cuisine, buna-shimeji is regarded as a premium ingredient for nabemono (hot pot dishes), stir-fries, and tempura. The mushroom maintains its firm, crunchy texture after cooking, unlike many cultivated species that become soft. It pairs well with butter, soy sauce, and sake-based preparations.
-
-The flavor is mild and subtly nutty, intensifying when the mushroom is browned. Raw consumption is not recommended due to the presence of trace levels of gastrointestinal irritants that are deactivated by thorough cooking. Commercial strains have been selectively bred to reduce these compounds.
-
-### Cultivation Strains
-
-Commercial cultivation primarily utilizes two main strain groups: the brown-capped buna-shimeji (H. tessellatus sensu stricto) and the white-capped bunapi-shimeji, a naturally occurring albino variant. Bunapi was discovered in 1995 and has become a significant commercial product in Japan.
-
-A third variety, the pink-shimeji, was developed through UV mutagenesis breeding programs in Japan. It features a distinctive pale pink cap coloration and has gained popularity as a gourmet ingredient. All three varieties share similar cultivation requirements and nutritional profiles.
-
-Research interest in H. tessellatus has increased substantially since 2010, driven by growing demand for specialty mushrooms and recognition of its functional food properties in both domestic and export markets.
-
-## See Also
-
-- [[coprinus-comatus]]
-- [[grifola-frondosa]]
-- [[lentinula-edodes]]
-- [[pleurotus-ostreatus]]
-- [[tremella-fuciformis]]
-- [[trametes-versicolor-entity]]

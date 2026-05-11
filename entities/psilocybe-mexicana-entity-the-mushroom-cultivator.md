@@ -17,7 +17,7 @@ Psilocybe derives from the Greek "psilos," meaning bald head, referring to the s
 cap surface typical of mushrooms in this genus. The species epithet "mexicana" denotes
 the country in which this mushroom grows and where it was first scientifically
 documented. P. mexicana belongs to the family Hymenogastraceae within the order
-Agaricales. It is one of the most historically significant psychoactive mushroom
+Agaricales. It is one of the most historically significant [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]]
 species, having been used in indigenous Mesoamerican ceremonies for centuries. The
 species has been the subject of extensive study by Heim and Wasson, who published
 their landmark work "Les Champignons Hallucinogenes du Mexique" in 1958.
@@ -43,24 +43,24 @@ pastures, and meadows, though notably it does not occur directly on dung. The sp
 is distributed throughout subtropical regions in Mexico and is particularly common in
 the state of Oaxaca. It is also known from Guatemala, reflecting its broader
 Mesoamerican distribution. The species thrives in warm subtropical grasslands, a
-habitat that has been utilized by indigenous peoples for millennia. The Mazatec people
+habitat that has been utilized by indigenous peoples for millennia. The [[mazatec-people]]
 of Oaxaca call this mushroom "Nize," and it is also known by the Spanish name
 "Pajaritos" (little birds). It is one of the species traditionally used by Mazatec
 curanderos in [[metzner-shamanic-healing-and-divination-paradigm]] rituals.
 
 ## Role in Mushroom Cultivation
 
-Psilocybe mexicana is discussed in The Mushroom Cultivator as a species of particular
+Psilocybe mexicana is discussed in [[coprinus-atrementarius-entity-the-mushroom-cultivator]] as a species of particular
 interest to cultivators due to its remarkable ability to form sclerotia, also known as
 truffles or "philosopher's stones." Sclerotia are dense, hardened masses of mycelium
 that serve as nutrient storage organs, allowing the fungus to survive adverse
 conditions. P. mexicana is noted for its early [[growing-gourmet-sclerotia-formation-biology-mushrooms]], with sclerotia
 appearing as early as three weeks after inoculation onto rye grass seed. Heim and
-Wasson (1958) considered sclerotia production in this species to be the most
+Wasson (1958) considered [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] in this species to be the most
 efficient method for the generation of biomass, making it a valuable species for both
 research and cultivation purposes. The Helm Strain and Pollock Strain are the two
 named cultivation strains documented in the book. Rye grass seed and wheat grass seed
-are widely used to promote sclerotia formation in this species, as noted in the grain
+are widely used to promote [[sclerotia-formation-in-psilocybe-species]] this species, as noted in the grain
 selection discussion of The Mushroom Cultivator.
 
 ## Cultivation Parameters
@@ -68,7 +68,7 @@ selection discussion of The Mushroom Cultivator.
 The following [[chen-maitake-growth-parameters-environmental-control]] are specified in The Mushroom Cultivator for P.
 mexicana:
 
-- **Spawn Media:** Annual rye grass seed or rye grain.
+- **[[liquid-inoculation-alternative-spawn-media]]:** Annual rye grass seed or rye grain.
 - **Fruiting Substrates:** Rye grass seed, and to a lesser degree rye grain and
   pasteurized wheat straw. Few fruitbodies form on enriched malt agar media.
 - **Preparation:** Rye grass seed combined with water in a 2:1 volumetric
@@ -88,37 +88,3 @@ mexicana:
   5,000 ppm or below, 2 fresh air exchanges per hour. Harvest when caps become nearly
   plane, with 12 hours of light daily.
 - **Yield Potential:** Sclerotia formation on rye grass seed after two months yields
-  50-70 grams per cup of seed. Fruitbody yields are low per square foot due to the
-  small stature of the species.
-- **Moisture Content:** 90-92% water and 8% dry matter in fruitbodies; 70% water
-  and 30% dry matter in sclerotia.
-
-## Sclerotia Production
-
-Psilocybe mexicana is most remarkable for its sclerotia forming ability, a trait that
-distinguishes it from most other cultivated mushroom species. Sclerotia are most
-effectively produced on rye grass seed incubated in total darkness. Optimum
-temperature for sclerotia production was reported by Heim and Wasson to be 70-75
-degrees F in darkness. Sclerotia production on agar media peaked at 4.5% malt
-concentration, while fruitbody production was maximized on agar media when the
-percentage of malt was balanced to 0.45%. This differential response to malt
-concentration suggests that cultivators can steer growth toward either sclerotia or
-fruitbody production by adjusting substrate composition. Sclerotia are harvested
-after approximately six weeks of incubation on rye grass seed.
-
-## Interactions
-
-Psilocybe mexicana is primarily a saprophytic species, decomposing organic matter in
-grassland soils. In cultivation, it is susceptible to the same range of contaminants
-as other Psilocybe species, including cobweb mold (Dactylium dendroides) and
-bacterial contaminants (Bacillus subtilis). The species is not known to have
-significant mycorrhizal associations. Temperature is a critical environmental factor
-for this species; studies adapted by Ames et al. (1958) charted the influence of
-temperature on [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rates in both P. cubensis and P. mexicana, providing
-valuable comparative data for cultivators managing grow room conditions.
-
-## See Also
-
-- [[psychedelic-mushroom-set-and-setting]]
-- [[dactylium-dendroides-entity-the-mushroom-cultivator]]
-- [[bacillus-subtilis]]

@@ -10,22 +10,22 @@ sources:
 
 # JADAM Herbal Pest Control (JHS)
 
-JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with JADAM wetting agent (JWA) and optionally JADAM sulfur (JS), it forms a complete pest and disease control system that costs a fraction of commercial pesticides. (see [[jadam-combined-pesticide-programs-jwa-js-jhs]]).
+JADAM herb solution (JHS) is a boiled extract of insect-repelling plants, used as a natural pesticide. Combined with [[jadam-wetting-agent-jwa]] (JWA) and optionally JADAM sulfur (JS), it forms a complete pest [[vegetable-insect-and-disease-control]] system that costs a fraction of commercial pesticides.
 
 ## Why Herbal Pest Control
 
-Trees want their fruits eaten to spread seeds -- they do not produce anti-insect substances in autumn. Farming's purpose is opposite to nature's: humans want to take all the fruits. Pesticide is therefore essential for fruit production. JADAM's natural pesticides are permitted under organic regulations, environment-friendly, not harmful to human health, effective, cheap, and easy. (see [[jadam-methods]]).
+Trees want their fruits eaten to spread seeds -- they do not produce anti-insect substances in autumn. Farming's purpose is opposite to nature's: humans want to take all the fruits. Pesticide is therefore essential for fruit production. JADAM's natural pesticides are permitted under organic regulations, environment-friendly, not harmful to human health, effective, cheap, and easy.
 
-JADAM natural pesticide costs about 1/50 of buying chemical pesticides.
+[[jadam-natural-pesticide-jnp]] costs about 1/50 of buying chemical pesticides.
 
 ## Recommended Herb Plants
 
 Common plants with strong insect-repelling effects:
 
-- **Jerusalem artichoke** (Helianthus tuberosus) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
+- **[[comparison-jerusalem-artichoke-vs-potato]]** ([[helianthus-tuberosus]]) -- Easily grown anywhere, grows tall (no weeding needed). Boil leaves, branches, and roots. Controls aphids, mites, and most moths. Assumed that inulin in the plant acts as pesticide.
 - **Gingko** -- Tree has perfect defense mechanism against pests and diseases. Use fresh leaves, fallen leaves, and fruits.
 - **Korean pasque flower** (Pulsatilla koreana) -- Root is used. Strongest pesticide effect of all. Used in oriental medicine for blood circulation.
-- **Red spider lily** (Lycoris radiata) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
+- **Red spider lily** ([[lycoris-radiata]]) -- Root is used. Used in oriental medicine for tumors. Repels moles and snakes when planted.
 - **Pokeweed, water pepper, bracken, foxglove** -- Also effective
 
 Other options: tobacco leaves (steep 15 days), hot pepper (steep 1 month), garlic (steep 1 month), gingko fruits (steep 1 month).

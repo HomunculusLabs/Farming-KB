@@ -18,7 +18,7 @@ bark, traded as a luxury spice for over 4,000 years. Unlike the more
 commonly available cassia cinnamon (C. cassia), true cinnamon contains
 only trace amounts of coumarin, making it significantly safer for
 regular consumption. The bark, leaves, and [[permaculture-designers-manual-essential-oil-plants]] contain
-[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — particularly cinnamaldehyde, eugenol, and
+[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] — particularly cinnamaldehyde, [[eugenol]], and
 proanthocyanidins — with well-documented antimicrobial, anti-
 inflammatory, antioxidant, and blood sugar-regulating properties.
 
@@ -81,69 +81,9 @@ true cinnamon supply.
 |----------|-----------|-----------------|
 | (E)-Cinnamaldehyde | 60–75% | Antimicrobial, anti-inflammatory |
 | Eugenol | 5–10% | Anesthetic, antioxidant, antifungal |
-| Linalool | 2–5% | Calming, anxiolytic, antimicrobial |
+| [[linalool]] | 2–5% | Calming, anxiolytic, antimicrobial |
 | β-Caryophyllene | 2–4% | Anti-inflammatory, CB2 agonist |
 | α-Pinene | 1–3% | Bronchodilatory, antimicrobial |
-| Limonene | 1–2% | Antioxidant, gastric protective |
+| [[limonene]] | 1–2% | Antioxidant, gastric protective |
 
 ### Non-Volatile Compounds
-
-- **Proanthocyanidins:** Type-A procyanidin oligomers with insulin-
-  sensitizing and neuroprotective properties. Unique type-A linkage
-  found only in true cinnamon among common spices.
-- **Cinnamic acid and esters:** Antioxidant precursors.
-- **Mucilage and pectin:** Water-soluble polysaccharides in bark.
-- **Minerals:** Rich in manganese, calcium, and iron.
-
-### Coumarin Safety Distinction
-
-C. verum bark contains only ~0.004% coumarin (negligible), while C.
-cassia contains 0.3–5%. The EFSA tolerable daily intake is 0.1 mg/kg
-body weight. Regular cassia consumption can exceed this, posing
-hepatotoxic risk, while true cinnamon is safe for daily use.
-
-## Ethnobotanical and Historical Significance
-
-- **Ancient trade:** Among the most valued commodities in antiquity,
-  referenced in Egyptian texts (~2000 BCE), Hebrew Bible, and Roman
-  records. Arab traders concealed the source for monopoly pricing.
-- **Traditional medicine:** In Ayurveda (Twak) for respiratory and
-  digestive disorders. In TCM (Rou Gui) to tonify Yang and improve
-  circulation.
-- **Medieval Europe:** Status symbol, preservative, and medicine for
-  colds and digestive complaints.
-- **Sri Lankan heritage:** Central to Sri Lankan identity and economy,
-  with traditional peeling techniques passed through generations.
-
-## Pharmacology and Therapeutic Applications
-
-- **Blood sugar regulation:** Type-A proanthocyanidins enhance insulin
-  signaling. Meta-analyses show fasting glucose reductions of 10–25
-  mg/dL with regular consumption.
-- **Antimicrobial:** Cinnamaldehyde disrupts bacterial membranes;
-  effective against MRSA, E. coli, S. aureus, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]].
-- **Anti-inflammatory:** Inhibits NF-κB and COX-2. β-Caryophyllene
-  acts as a selective CB2 receptor agonist.
-- **Antioxidant:** High ORAC value; proanthocyanidins scavenge free
-  radicals and reduce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
-- **Neuroprotective:** Shows protective effects in animal models of
-  Alzheimer's and Parkinson's disease.
-
-## Cultivation and Harvest
-
-- **Propagation:** Seeds (scarified) or semi-hardwood cuttings.
-- **Planting:** 2–3 m spacing; shade trees for young plants.
-- **First harvest:** 2–3 years; peak production at 10–15 years.
-- **Harvest:** Branches cut during rainy season. Inner bark stripped,
-  fermented, and rolled into quills by hand.
-- **Yield:** ~50–100 kg dried bark per hectare per year from mature
-  plantations.
-## See Also
-
-- [[actinodaphne-lancifolia]]
-- [[neolitsea-sericea]]
-- [[trachyspermum-ammi]]
-
-- [[curcuma-longa]]
-- [[hypericum-perforatum]]
-- ocimum-sanctum

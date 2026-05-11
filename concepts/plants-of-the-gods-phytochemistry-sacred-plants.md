@@ -57,7 +57,7 @@ and emotional functions, perception, and state of consciousness.
 Phytochemists have the important and fascinating task of separating
 the active principles from the rest of the plant materials and of
 producing them in pure form. The first psychoactive principle to be
-produced in pure form was morphine, isolated by the pharmacist
+produced in pure form was [[morphine]], isolated by the pharmacist
 Friedrich Serturner in 1806 from the opium poppy (*Papaver
 somniferum*). He named it for Morpheus, the Greek god of sleep.
 
@@ -83,46 +83,8 @@ The contribution of chemists to the study of sacred plant drugs is
 illustrated by the Mexican Magic Mushrooms. Ethnologists found
 Indian tribes in southern Mexico using mushrooms in religious
 ceremonies. Mycologists identified the mushrooms. [[guzman-allen-gartz-conflicting-chemical-analyses-neurotropic-fungi]]
-showed which species were psychoactive. Albert Hofmann tested one
+showed which species were psychoactive. [[albert-hofmann]] tested one
 species (*[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*) on himself, confirmed its psychoactivity,
 discovered it could be grown under laboratory conditions, and isolated
 two active compounds: psilocybine and psilocine, obtained as
 colorless crystals.
-
-By determining the presence or absence of psilocybine and psilocine,
-an objective method was available for distinguishing true hallucinogenic
-mushrooms from false ones. The chemical structure was determined and
-found to be closely related to serotonin, a substance occurring
-naturally in the brain that plays a major role in regulating psychic
-functions. With pure compounds available in exact doses, their
-pharmacological actions could be studied under reproducible conditions.
-The active content in dried mushrooms tends to vary between 0.1 and
-0.6 percent. The median effective dose for humans is 8 to 16
-milligrams of psilocybine or psilocine.
-
-Similarly, the active principle of [[plants-of-the-gods-chemical-structures-hallucinogens]] of both mescaline and the mushroom alkaloids reveal their
-close relationship to brain neurotransmitters.
-
-## Synthesis and Modern Applications
-
-The next step after isolation and structural analysis is synthesis --
-making the active principle independently of the plant. With pure
-compounds, it became possible to extend research into psychiatry, with
-useful results. They were found to be particularly useful in
-experimental psychiatry as valuable aids to psychoanalysis and
-[[plants-of-the-gods-tabernanthe-iboga]],
-[[plants-of-the-gods-plant-kingdom-classification]].
-
-## The Alkaloid Nature of Most Hallucinogens
-
-Almost all plant hallucinogens contain the element nitrogen and
-therefore belong to the large class of chemical compounds known as
-alkaloids. Among the more important psychoactive plants, only
-[[schultes-salvia-divinorum]] (salvinorin) are
-exceptions. The principal plant hallucinogens are closely related in
-their chemical structure to hormones present in the brain -- to
-physiological agents that play a role in the biochemistry of mental
-functions. This structural similarity may explain their psychotropic
-potency: having the same basic structure, these hallucinogens may act
-at the same sites in the nervous system as brain hormones, like
-similar keys fitting the same lock.

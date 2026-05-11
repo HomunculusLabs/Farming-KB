@@ -18,8 +18,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zaitsu, K. et al. (2009). "Ring-substituted cathinones." Forensic Toxicology, 27(1), 7–16.
-  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new psychoactive substances." European Monitoring Centre for Drugs and Drug Addiction.
-  - El Balkhi, S. et al. (2023). "Analytical characterization of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
+  - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new [[cultural-evolution-and-psychoactive-substances]]." European Monitoring Centre for Drugs and Drug Addiction.
+  - El Balkhi, S. et al. (2023). "[[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]] of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
   - https://pubchem.ncbi.nlm.nih.gov/compound/Pentylone
 aliases:
   - β-K-MBDB
@@ -74,9 +74,9 @@ Oral dosage ranges (approximate, based on user self-reports):
 - **Common:** 120–160 mg
 - **Strong:** 160–200 mg
 
-Doses above 200 mg significantly increase the risk of adverse effects including tachycardia, hypertension, hyperthermia, and serotonin syndrome. Individual sensitivity varies substantially.
+Doses above 200 mg significantly increase the risk of [[adverse-effects-and-harm-reduction-psilocybin]] including tachycardia, hypertension, hyperthermia, and serotonin syndrome. Individual sensitivity varies substantially.
 
-Insufflation produces faster onset but shorter duration and increased nasal irritation. Intravenous use is strongly discouraged due to high overdose risk.
+Insufflation produces faster onset but shorter duration and increased nasal irritation. Intravenous use is strongly discouraged due to high [[cannabis-safety-profile-and-overdose-risk]].
 
 ## Adverse Effects and Toxicity
 
@@ -87,31 +87,3 @@ Serious risks include serotonin syndrome (especially when combined with other se
 Multiple fatalities have been associated with pentylone use, often involving polydrug combinations or dehydration. The compound has been identified in forensic toxicology casework globally.
 
 Chronic use may lead to tolerance, dependence, and persistent mood disturbances including anxiety and anhedonia.
-
-## Legal Status
-
-Pentylone is controlled under Schedule I of the Controlled [[controlled-substances-act-and-psychedelic-research]] in the [[dmt-containing-plants-united-states-halpern]] as of 2021. It is scheduled in the EU, UK, China, Japan, Australia, and numerous other countries.
-
-Many jurisdictions control it through generic cathinone bans or analog acts. Its legal status continues to evolve as new synthetic cathinones emerge to circumvent existing controls.
-
-## History and Appearance on the Market
-
-Pentylone was first synthesized in the 1960s as part of pharmacological research on cathinone analogues. It remained obscure until appearing as a recreational drug around 2010.
-
-It has been sold online and in head shops as "bath salts," "plant food," or "research chemicals." It has also been identified as an adulterant in products sold as MDMA, methylone, or ecstasy tablets.
-
-As regulatory controls have restricted access to earlier cathinones (mephedrone, methylone), pentylone and related compounds (eutylone, N-ethylpentylone) have filled market gaps in the NPS supply chain.
-
-## Related Compounds
-
-- **Methylone (bk-MDMA):** Shorter ethyl chain — prototype β-keto empathogen
-- **Butylone (bk-MBDB):** Four-carbon chain — intermediate between methylone and pentylone
-- **Eutylone (bk-EBDB):** N-ethyl substituted analogue — appeared alongside pentylone in NPS markets
-- **N-Ethylpentylone:** N-ethyl variant with longer chain — more dopaminergic, higher stimulant profile
-- **MDMA:** Non-β-keto parent compound — significantly more potent and serotonergic
-
-## See Also
-
-- [[butylone]]
-- [[mephedrone]]
-- [[6-mapb]]

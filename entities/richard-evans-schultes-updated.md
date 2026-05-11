@@ -68,3 +68,18 @@ Key principles from his work:
 - [[r-gordon-wasson]] — collaborator in ethnomycological research
 - [[albert-hofmann]] — co-author of definitive reference
 - [[michael-harner]] — hallucinogens and shamanism
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
+- [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]]
+- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]
+- [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]]

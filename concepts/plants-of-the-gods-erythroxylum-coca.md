@@ -1,11 +1,11 @@
 ---
-title: "Erythroxylum coca: Coca — Sacred Leaf of the Andes"
+title: Plants Of The Gods [[erythroxylum-coca]]
 created: 2026-04-28
 tags:
   - ethnobotany
   - coca
   - erythroxylum
-  - cocaine
+  - [[cocaine]]
   - andes
 date: 2026-04-28
 updated: 2026-04-28
@@ -62,7 +62,7 @@ large doses to induce visions, functioning as a mild hallucinogen.
 ## Psychoactive Properties
 
 The primary active alkaloid in coca is cocaine
-(benzoylmethylecgonine), along with other tropane alkaloids
+(benzoylmethylecgonine), along with other [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]]
 including ecgonine, benzoylecgonine, and methylecgonine. The total
 alkaloid content of dried coca leaves typically ranges from 0.5%
 to 1.5%. In traditional chewing, the effects are mild stimulation,
@@ -88,47 +88,3 @@ a practice validated by modern research on the plant's effects.
 Coca is integral to nearly every aspect of Andean life. It is
 offered to the earth before planting, during construction, and at
 all significant life events. Coca leaves are exchanged as gifts,
-used to seal agreements, and employed in healing rituals. The
-plant is considered a mediator between the human and spirit worlds.
-
-Among the Warao of Venezuela, Tobacco is used to induce a
-trancelike state accompanied by visions, demonstrating that even
-plants primarily classified as stimulants can serve visionary
-functions in indigenous practice. Similarly, Coca may, in large
-doses, be employed for the induction of visions.
-
-## Historical Context in Plants of the Gods
-
-Schultes and Hofmann identify Coca as one of the major
-psychoactive plants of the New World, alongside Ayahuasca,
-Peyote, and Tobacco. They note that in addition to hallucinogens,
-a number of otherwise psychoactive plants shared the honors in
-indigenous cultures. Coca and Tobacco are highlighted as plants
-that "rose to exalted positions in the sacred native
-pharmacopoeias."
-
-The book places Coca within the broader context of New World
-drug plants, noting that South America ranks second only to Mexico
-in the number, variety, and deep magico-religious significance
-of psychoactive plants. Coca represents the Andean contribution
-to this rich ethnopharmacological heritage.
-
-## Modern Context and Controversy
-
-The isolation of cocaine as the active principle of coca in 1860
-led to its widespread use in medicine and subsequently as a
-recreational drug. The dramatic difference between traditional
-coca use and the abuse of purified cocaine has created ongoing
-tension between indigenous rights and international drug control
-policies. Indigenous peoples of the Andes continue to defend
-their traditional coca use as a cultural practice distinct from
-cocaine abuse.
-
-## Related Topics
-
-- [[plants-of-the-gods-geography-hallucinogenic-plants]] —
-  geographic distribution of psychoactive plants
-- [[plants-of-the-gods-phytochemistry-sacred-plants]] —
-  phytochemical research on sacred plants
-- [[plants-of-the-gods-anadenanthera-yopo-cebil]] — another
-  [[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuff with deep indigenous roots

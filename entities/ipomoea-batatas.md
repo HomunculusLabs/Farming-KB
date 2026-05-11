@@ -88,28 +88,3 @@ In Japan, purple-fleshed varieties such as Beni Imo are prized for their anthocy
 The sweet potato was domesticated at least 5,000 years ago in the neotropics, likely in the region spanning northern South America through Central America. Pre-Columbian dispersal to Polynesia is supported by archaeological evidence and linguistic data, predating European contact by several centuries.
 
 Spanish and Portuguese explorers introduced the crop to the Philippines, China, and Japan in the 16th century. It spread rapidly through Asia and Africa, becoming a critical famine-relief crop due to its reliability and high caloric yield under marginal conditions.
-
-[[tompkins-george-washington-carver-plant-alchemy]] Carver's agricultural research at Tuskegee Institute in the early 20th century promoted sweet potato cultivation in the American South and developed numerous value-added products from the crop.
-
-## Industrial and Non-Food Uses
-
-Sweet potato starch has industrial applications in noodle manufacturing, bioethanol production, and bioplastic synthesis. The high starch content and relatively simple extraction process make it competitive with cassava and corn starch in tropical markets.
-
-In livestock production, sweet potato vines provide high-quality forage with protein content of 12–18% on a dry matter basis. The crop is increasingly valued in integrated farming systems where vines feed livestock and manure fertilizes subsequent crops.
-
-Research into sweet potato as a bioenergy feedstock has demonstrated ethanol yields comparable to corn on a per-hectare basis in tropical environments. The crop's ability to produce on marginal land without competing with food production areas enhances its appeal as a sustainable energy source.
-
-Bioethanol production from sweet potato typically yields 80–120 liters per tonne of fresh roots, depending on cultivar starch content and processing efficiency. The residual mash after fermentation serves as nutritious livestock feed, creating a closed-loop production cycle.
-
-## See Also
-
-- [[camassia-quamash]]
-
-- [[ipomoea-violacea]]
-- [[food-forest]]
-- three-sisters
-- [[dioscorea-alata]]
-- [[colocasia-esculenta]]
-- typha-latifolia-entity
-- [[trifolium-pratense]]
-- [[hugelkultur]]

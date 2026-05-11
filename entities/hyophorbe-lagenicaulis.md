@@ -22,13 +22,13 @@ Hyophorbe lagenicaulis, commonly known as the bottle palm or champagne palm, is 
 
 It is renowned for its swollen, bottle-shaped trunk, which gives the species its common name. The trunk bulge is most pronounced in younger specimens and becomes less obvious with age.
 
-The species is critically endangered in the wild due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical and subtropical gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical conservation status in the wild.
+The species is critically endangered in the wild due to its extremely limited natural distribution. Fewer than 50 mature individuals remain on Round Island, though it is widely cultivated in tropical and subtropical gardens worldwide. The species is one of the most commonly sold ornamental palms despite its critical [[fungal-biodiversity-conservation-status]] in the wild.
 
 Bottle palms are among the most recognizable and popular ornamental palms due to their compact size and unique trunk morphology. They are commonly used in poolside plantings, courtyard gardens, and container culture.
 
 The genus Hyophorbe contains only five species, all endemic to the Mascarene Islands. Two of these species are either extinct or exist as single individuals, making the genus one of the most threatened palm genera globally. The conservation of Hyophorbe as a whole is considered a priority for Mascarene biodiversity.
 
-The dramatic contrast between the species' abundance in cultivation and its scarcity in the wild highlights the importance of habitat protection. Cultivated populations cannot substitute for the genetic diversity and ecological role of wild populations.
+The dramatic contrast between the species' abundance in cultivation and its scarcity in the wild highlights the importance of habitat protection. Cultivated populations cannot substitute for the [[biodiversity-fungal-genetic-diversity]] and ecological role of wild populations.
 
 ## Taxonomy and Morphology
 
@@ -68,7 +68,7 @@ Historical records suggest the species may have once occurred on the main island
 
 Fossil palm pollen from Mauritius dating to the Holocene suggests that Hyophorbe was once more widespread across the Mascarene archipelago. Sea-level changes and human colonization led to the progressive restriction of its range.
 
-The species has been widely planted in tropical and subtropical regions worldwide. It is common in cultivation in Florida, Hawaii, southern California, and throughout the Caribbean and Southeast Asia.
+The species has been widely planted in tropical and subtropical regions worldwide. It is common in cultivation in Florida, Hawaii, southern California, and throughout the Caribbean and [[psilocybe-southeast-asia-pacific]].
 
 In cultivation, the species has proven adaptable to a range of tropical and subtropical conditions. It is one of the most commonly available Mascarene endemic palms in the international nursery trade.
 
@@ -87,34 +87,3 @@ Irrigation needs are moderate once established, though consistent moisture promo
 Propagation is by seed, which germinates within 2 to 6 months under warm, humid conditions. Seedlings grow slowly, requiring 3 to 5 years to develop visible trunk swelling in cultivation. Plants begin flowering at approximately 10 to 15 years of age.
 
 The palm is relatively slow-growing in general, adding approximately 15 to 30 centimeters of trunk height per year under ideal conditions. Maximum lifespan in cultivation is estimated at 50 to 80 years. Older specimens often lose the pronounced bottle shape as the trunk elongates and the swelling becomes less apparent.
-
-The species is susceptible to potassium deficiency, which causes leaf tip necrosis and orange discoloration of the oldest leaves. Regular application of controlled-release palm fertilizer helps prevent nutritional deficiencies.
-
-Pests include palm leaf skeletonizer, red palm mite, and giant palm borer. The species is relatively disease-free in well-drained conditions but susceptible to lethal bronzing phytoplasma in Florida.
-
-## Conservation Status
-
-Hyophorbe lagenicaulis is listed as Critically Endangered on the IUCN Red List. The wild population on Round Island has declined to fewer than 50 mature individuals.
-
-Historical decline was driven by habitat degradation caused by introduced goats and rabbits on Round Island. These herbivores browsed seedlings and young palms, preventing natural regeneration for decades.
-
-Conservation efforts since the 1980s have included the eradication of introduced mammals from Round Island and habitat restoration programs. These measures have allowed some natural regeneration to occur. Seedling survival rates on Round Island have improved significantly since the eradication of introduced herbivores.
-
-The population on Round Island is monitored regularly by the Mauritian Wildlife Foundation and the National Parks and Conservation Service. Population trends show slow but steady recovery.
-
-Ex situ conservation is extensive, with the species maintained in botanical gardens and private collections worldwide. The genetic diversity of cultivated populations, however, may be limited due to propagation from a small number of founder individuals. Genetic studies of cultivated material have revealed low allelic diversity compared to the wild Round Island population.
-
-Round Island is now strictly protected as a nature reserve under Mauritian law. Access is restricted to conservation personnel and authorized researchers. The island's reptile community, including several endemic species, has also benefited from the removal of introduced predators.
-
-Hyophorbe lagenicaulis serves as a flagship species for Mascarene island conservation. Its popularity in cultivation has raised awareness of the threats facing endemic island palms globally.
-
-## See Also
-
-- [[roystonea-regia]]
-- [[cocos-nucifera]]
-- [[phoenix-roebelenii]]
-- [[chamaedorea-elegans]]
-- [[dypsis-lutescens]]
-- [[bismarckia-nobilis]]
-- [[wodyetia-bifurcata]]
-- [[livistona-chinensis]]

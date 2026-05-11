@@ -87,18 +87,3 @@ Because microwave sterilization operates near ambient bulk temperature, conventi
 For routine monitoring, chemical indicators that respond to microwave field exposure (rather than temperature) may be more appropriate than conventional temperature-sensitive autoclave indicators. Integration of microwave dosimetry into the system design provides process control verification.
 
 ## Limitations of the Thermally Gentle Approach
-
-Despite its advantages, microwave surface sterilization has limitations related to its gentle thermal profile:
-
-- Complex metallic geometries can create electromagnetic shielding, reflecting energy away from target surfaces
-- Standing waves and hot spots can cause localized overheating in certain configurations
-- Complete surface coverage requires careful antenna placement and system design
-- Very dry spores on completely dry surfaces may survive without water enhancement
-- Scale-up to large surface areas requires proportional increases in microwave power and careful field design
-
-## See Also
-
-- microwave-surface-sterilization
-
-- [[microwave-vs-conventional-surface-sterilization-methods]] for advantages and tradeoffs
-- [[microwave-surface-sterilization-core-concept]] for the underlying principle

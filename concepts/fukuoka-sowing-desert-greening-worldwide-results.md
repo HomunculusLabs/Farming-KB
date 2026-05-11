@@ -88,20 +88,3 @@ Traveling through Europe, Fukuoka observed that while countries were careful
 about protecting the environment and maintaining lovely vegetation, the beauty
 was superficial. There were very few varieties of trees, the soil was thin and
 hard, and unfertile just below the surface. He traced this to thousands of years
-of mismanaged pastures for meat and vineyards for wine. He observed that
-civilizations throughout history have been founded in areas with rich soil, then
-declined and disappeared after the soil was depleted by cutting too many trees,
-overgrazing, harmful irrigation, and plowed-field agriculture.
-
-## South Africa
-
-A teacher involved in the anti-apartheid movement came to Fukuoka's farm to
-learn [[fukuoka-sowing-clay-seed-ball-preparation]] had been achieved in Africa,
-the United States, India, Greece, and the Philippines. The technique proved most
-effective when combined with Fukuoka's principle of maximum species diversity —
-sowing seeds of all plant types simultaneously rather than selecting a few
-"useful" species. For more on the philosophy behind this approach, see [[fukuoka-sowing-natural-farming-philosophy]].
-
-## See Also
-
-- [[pf-tek-history-high-times-to-worldwide-internet-adoption]]

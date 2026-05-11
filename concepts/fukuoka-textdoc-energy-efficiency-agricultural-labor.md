@@ -1,5 +1,5 @@
 ---
-title: comparison-natural-farming-vs-permaculture fukuoka textdoc energy efficiency agricultural labor and Agricultural Labor
+title: Fukuoka Textdoc Energy Efficiency Agricultural Labor
 created: 2026-04-28
 tags:
   - fukuoka
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -24,7 +25,7 @@ His analysis challenged the conventional assumption that mechanization and [[fuk
 
 ## The Five-Method Energy Comparison
 
-Fukuoka compared five methods of rice production:
+Fukuoka compared five methods of [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]]:
 
 natural farming, farming with the help of animals, and lightly, moderately, and heavily mechanized agriculture.
 
@@ -34,11 +35,11 @@ The energy input needed to recover this from the land is the 2,000 kilocalories 
 
 Cultivation with horses or oxen requires an energy input five to ten times as great, and mechanized agriculture calls for an input of from ten to fifty times as much energy.
 
-Since the efficiency of rice production is inversely proportional to the energy input, "scientific agriculture requires an energy expenditure per unit of food produced up to fifty times that of natural farming."
+Since the efficiency of rice production is inversely proportional to the energy input, "[[critique-of-scientific-agriculture]] requires an energy expenditure per unit of food produced up to fifty times that [[four-principles-of-natural-farming]]."
 
 ## The Hermit's Diet: Empirical Evidence
 
-Fukuoka reported observations from young people living in the mud-walled huts of his citrus orchard.
+Fukuoka reported observations from young people living in the mud-walled huts of his [[fukuoka-citrus-orchard-establishment-bare-hillside]].
 
 Their minimum daily calorie requirement was approximately 1,000 calories on a "hermit's diet" of brown rice with sesame seeds and salt, and 1,500 calories on a diet of brown rice and vegetables.
 
@@ -62,7 +63,7 @@ The farmer who once worked directly with nature was transformed into an operator
 
 ## The Livestock Energy Trap
 
-Fukuoka extended his analysis to [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], which he described as fundamentally flawed in terms of caloric efficiency.
+Fukuoka extended his analysis to [[fukuoka-textdoc-natural-livestock-farming-open-grazing]], which he described as fundamentally flawed in terms of [[fukuoka-textdoc-natural-livestock-caloric-efficiency]].
 
 Someone must work at least twice as hard to eat eggs and milk rather than grains and vegetables.
 
@@ -87,61 +88,3 @@ Genetically-upgraded White Leghorns raised in cages require feed grain having tw
 "Such artificial methods of raising chickens are thus basically counterproductive; instead of increasing calories, they actually cut the number of calories in half."
 
 ## Mechanization as Modern Servitude
-
-Contrary to the claim that mechanization has increased the efficiency of work, Fukuoka argued that farmers must use extra hours away from their fields to earn outside income to help pay for their equipment.
-
-"All they have done is exchange their work in the fields for a job in some company; they have traded the joy of working outdoors in the open fields for dreary hours of labor shut up inside a factory."
-
-He described machinery as "the largest [[mollison-designers-domestic-animal-integration-design]] of all — a great guzzler of oil, a consumer good rather than a capital good."
-
-At first glance, mechanized agriculture appears to increase productivity per worker and thus raise income.
-
-However, a look at the efficiency of land utilization and energy consumption reveals this to be "an extremely destructive method of farming."
-
-## The Displacement of Farmers from the Land
-
-Fukuoka showed that mechanization does not magically transform a small-acreage farmer into a larger one.
-
-If the land under cultivation is limited, mechanization only lowers the number of laborers required.
-
-For every tractor operator, "how many dozens of farmers are driven off the land and forced to work in factories making agricultural implements and fertilizer — which would not be needed in the first place if natural farming were used."
-
-He cited the example of India's farmers, who raised large numbers of cows and elephants that ate up all the grass and dried and burned the droppings as fuel.
-
-Such practices depleted soil fertility and reduced the productivity of the land.
-
-The progressive inorganic character of farming operations aimed at large-volume production speeded the dislocation of farmers off the land.
-
-## Large Farms Are Not More Stable
-
-Fukuoka challenged the assumption that larger farms are more stable.
-
-Farms in Europe are ten times larger, and in the United States one hundred times larger, than the 6- to 7-acre farms common to Japan.
-
-Yet farmers in Europe and the U.S. are, if anything, even more insecure than Japanese farmers.
-
-Following the war, Japanese farms increased steadily in size going from one, to two, to four acres.
-
-Although the amount of farmland increased, more and more peasants abandoned farming.
-
-Today, full-time farm households have grown to 15 and even 25 acres, and have become increasingly unstable and in danger of collapse.
-
-## The Quarter-Acre Farming Proposal
-
-Fukuoka proposed quarter-acre farming as an alternative.
-
-A quarter-acre of land is enough to supply the food needed for supporting a family.
-
-"If anything, a full acre is too large."
-
-He pointed out that farmers of the past grew a hundred crops — rice, barley, sweet potatoes, vegetables, fruits, and kept livestock — all on small acreages.
-
-## See Also
-
-- [[fukuoka-textdoc-postwar-farm-labor-appropriated-urban-prosperity]]
-
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-japanese-bantam-leghorn-calorie-efficiency-chicken]]
-- [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
-
-- [[natural-farming]]

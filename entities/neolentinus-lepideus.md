@@ -34,7 +34,7 @@ sources:
 basidiomycete fungus in the family **Polyporaceae**. It is a brown-rot decomposer primarily
 associated with coniferous timber, notorious for colonizing railroad ties, utility poles, and
 construction lumber. The species is edible when young and has attracted interest for its
-lignocellulose-degrading enzymes and potential medicinal properties.
+lignocellulose-degrading enzymes and potential [[panax-ginseng]].
 
 ## Taxonomy
 
@@ -61,7 +61,7 @@ Key synonyms: *Agaricus lepideus* Fr. (1821, basionym), *Lentinus lepideus* (Fr.
 *N. lepideus* has a **circumboreal distribution** across temperate and boreal regions of
 [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, particularly common in the Pacific Northwest. Almost
 exclusively **lignicolous**, fruiting from dead or dying coniferous wood — especially
-Douglas-fir (*Pseudotsuga menziesii*), pine (*Pinus* spp.), spruce (*Picea* spp.), and
+Douglas-fir (*[[pseudotsuga-menziesii]]*), pine (*Pinus* spp.), spruce (*Picea* spp.), and
 larch (*Larix* spp.). Also fruits from treated timber including creosote-impregnated
 railroad ties and pressure-treated utility poles, earning the name "train wrecker."
 
@@ -70,8 +70,8 @@ railroad ties and pressure-treated utility poles, earning the name "train wrecke
 *N. lepideus* is a **brown-rot fungus**, degrading cellulose and hemicellulose while
 largely leaving lignin intact. Brown-rot fungi are among the most efficient decomposers
 of conifer wood, which has a high lignin-to-cellulose ratio. The species plays an
-important role in carbon cycling in coniferous forest ecosystems, accelerating the
-breakdown of fallen timber and contributing to soil organic matter. Its ability to
+important role [[fungal-role-in-carbon-cycling]] in coniferous forest ecosystems, accelerating the
+breakdown of fallen timber and contributing to [[knf-leaf-mold-humus]]. Its ability to
 colonize treated wood makes it significant for studying wood preservation and
 biodeterioration.
 
@@ -81,50 +81,10 @@ biodeterioration.
   antitumor activity in murine models; inhibits certain cancer cell lines and
   stimulates immune cell activity.
 - **Lentinamycin:** Peptide antibiotic from culture filtrates, active against
-  Gram-positive bacteria including *Staphylococcus aureus*.
+  Gram-positive bacteria including *[[staphylococcus-aureus]]*.
 - **Beta-glucans:** Polysaccharide fractions exhibit immunomodulatory properties.
-- **Phenolic compounds and terpenoids:** Contribute antioxidant capacity with
+- **[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] and terpenoids:** Contribute antioxidant capacity with
   radical-scavenging activity comparable to some commercial antioxidants.
 
 The lignocellulose-degrading enzyme system has been studied for biotechnological
 applications, particularly cellulases and xylanases relevant to biofuel production.
-
-## Edibility and Culinary Use
-
-Edible when young, with important caveats. Young specimens with tender flesh can be
-cooked and eaten, with mild, pleasant flavor and anise-like aroma. Flesh quickly
-becomes extremely tough, fibrous, and woody with age. Specimens growing on creosote-
-treated or chemically preserved timber may accumulate toxic compounds and should
-never be consumed. Due to these concerns and better culinary alternatives, *N.
-lepideus* is rarely collected for food.
-
-## Cultivation
-
-Not commercially cultivated but achieved experimentally on conifer sawdust substrates.
-Relatively slow [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] compared to species like *Pleurotus ostreatus* or
-*[[staycare-lentinula-edodes-in-bioremediation]]*. Optimal growth at 20–25°C with 60–70% moisture content. Fruiting
-requires a cold shock and fresh air exchange.
-
-## Permaculture Applications
-
-- **Coniferous debris decomposition:** Accelerates breakdown of brush piles and
-  coarse woody debris in temperate coniferous forest gardens.
-- **Wood preservation bioassay:** Useful organism for evaluating natural wood
-  treatments and preservatives.
-- **[[ligninolytic-enzyme-production-bioremediation]]:** Mycelial cultures on waste conifer sawdust produce
-  cellulases for compost tea or soil amendment.
-
-## Similar Species
-
-- *Neolentinus ponderosus* — larger, high-elevation species on ponderosa pine;
-  scales more fibrillose, spores larger.
-- *Lentinus tigrinus* — similar scaly cap but white-rot ecology and non-serrate gills.
-- *Lentinus crinitus* — tropical species with woolly pileus; different substrates.
-- *Pleurotus dryinus* — cap can appear scaly, but gills are decurrent; white-rot on hardwood.
-
-## See Also
-- [[piptoporus-betulinus]]
-- [[lentinula-edodes]]
-- [[decomposition]]
-- [[forest-gardens]]
-- [[fungal-decomposition]]

@@ -11,11 +11,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Zadrazil, F. (1978). "The ecology and industrial production of Pleurotus ostreatus." Mushroom Science X(1): 621-628.
-  - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other edible mushrooms." Applied Microbiology and Biotechnology 85(5): 1321-1337.
+  - Zadrazil, F. (1978). "The ecology and industrial production of cancer-medicinal-mushrooms-pleurotus-ostreatus." Mushroom Science X(1): 621-628.
+  - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other [[palmer-edible-mushrooms-north-america]]." Applied Microbiology and Biotechnology 85(5): 1321-1337.
   - Royse, D.J. et al. (2017). "Sixteen years of cultivation of Pleurotus spp. on tree leaves." Mushroom Science 15(1): 381-388.
-  - Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
-  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
+  - Stamets, P. (2000). [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
+  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for [[low-cost-mushroom-growing-house-construction-developing-countries]]. TOOL Publications.
 ---
 
 ## Overview
@@ -64,7 +64,7 @@ It fruits in spring and autumn, preferring warm, dry Mediterranean climates. Wil
 
 ## Cultivation
 
-King oyster mushrooms are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
+[[query-how-do-i-grow-king-oyster-mushrooms]] are cultivated commercially on supplemented straw, sawdust, or a mixture of both. They are among the most commercially valuable *Pleurotus* species due to shelf life and texture.
 
 **Substrate:** Wheat or rice straw, hardwood sawdust (oak, beech), supplemented with wheat bran (10–20%) or soybean meal (5–10%). Pasteurization at 65–70°C for 8–12 hours.
 
@@ -72,7 +72,7 @@ King oyster mushrooms are cultivated commercially on supplemented straw, sawdust
 
 **Colonization:** 20–25°C, 85–90% relative humidity, 14–21 days for full colonization.
 
-**Fruiting conditions:** 12–18°C, 85–95% humidity, 500–1000 lux light, fresh air exchange of 4–6 air changes per hour. CO₂ below 800 ppm promotes normal cap development; higher CO₂ produces elongated stipes (intentionally done in commercial production for premium appearance).
+**[[fruiting-conditions]]:** 12–18°C, 85–95% humidity, 500–1000 lux light, fresh air exchange of 4–6 air changes per hour. CO₂ below 800 ppm promotes normal cap development; higher CO₂ produces elongated stipes (intentionally done in commercial production for premium appearance).
 
 **Yield:** [[stamets-biological-efficiency-yield]] of 60–100% over 2–3 flushes. First flush typically accounts for 60–70% of total yield.
 
@@ -87,33 +87,3 @@ King oyster mushrooms are cultivated commercially on supplemented straw, sawdust
 - **Ergosterol:** Provitamin D₂ precursor, present at 5–8 mg/g dry weight.
 
 ## Culinary and Nutritional Use
-
-The king oyster mushroom is valued for its thick, meaty texture and mild, umami flavor. The stipe is the primary edible portion — unlike most mushrooms where the cap dominates.
-
-**Preparation methods:** Sliced and seared (resembles scallops), grilled whole, breaded and fried, shredded to mimic pulled pork, thinly sliced as a bacon substitute. The firm texture holds up to braising and stir-frying.
-
-**Nutritional profile (per 100 g fresh):**
-- Calories: 22–33 kcal
-- Protein: 2.5–3.5 g
-- Carbohydrates: 4–6 g (of which dietary fiber: 1.5–2.5 g)
-- Fat: 0.3–0.5 g
-- Potassium: 300–400 mg
-- B vitamins: Thiamine, riboflavin, niacin, pantothenic acid
-
-## Permaculture Applications
-
-King oyster mushrooms integrate well into permaculture systems as both a food crop and a decomposition pathway:
-
-- **Straw bale cultivation:** Spent straw from grain production can be directly inoculated, turning agricultural waste into food and compost.
-- **Food forest integration:** Can be grown on chipped branch prunings from forest garden trees, particularly hardwoods.
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] synergy:** The spent substrate makes excellent mulch or soil amendment with residual fungal biomass and enzymes.
-- **[[fungal-mycelial-networks-nutrient-translocation]]:** When grown in-ground on buried substrate, the mycelium connects with surrounding soil ecology, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling.
-- **Stacked functions:** Produces food while simultaneously decomposing organic matter, making it a high-value element in zone 1–2 permaculture designs.
-
-## See Also
-
-- [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
-- [[pleurotus-ostreatus]]
-- [[hericium-erinaceus]]
-- permaculture
-- [[ergothioneine]]

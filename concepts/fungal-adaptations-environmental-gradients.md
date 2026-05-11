@@ -44,7 +44,7 @@ solar-heated soils, and geothermal environments.
 
 Winter temperatures limit [[dighton-fungal-decomposition-leaf-litter-dynamics]] rates in [[fungal-diversity-boreal-forests-taiga]].
 During spruce budworm outbreaks, defoliation opens canopies and raises
-soil temperatures, accelerating decomposition rates. This demonstrates
+soil temperatures, accelerating [[dighton-litter-quality-fungal-decomposition-rates]]. This demonstrates
 how biological perturbations interact with temperature to modulate
 [[dighton-fungal-ecosystem-services-framework]] functions.
 
@@ -65,18 +65,18 @@ Some fungi can scavenge trace nutrients from air, rainwater, and
 nutrient-poor substrates. Oligotrophic species colonize exposed rock
 surfaces, bare soils, and even glass and metal surfaces in buildings.
 Their ability to grow with minimal nutrient input makes them important
-pioneer organisms in primary succession.
+pioneer organisms in [[dighton-fungi-volcanic-glacier-primary-succession]].
 
 ## pH and Salinity Adaptations
 
 Fungi exhibit remarkable pH tolerance, with species capable of growth
 from pH 1 to pH 11. Acid-tolerant species such as *Acontium
-cylindropeum* thrive in acidic mine drainage environments. Alkaline
+cylindropeum* thrive in acidic [[acid-mine-drainage-treatment]] environments. Alkaline
 environments harbor specialized species like those found in soda lakes
 and limestone soils. Adaptations include proton pumping mechanisms and
 cell wall modifications that maintain integrity across pH extremes.
 
-Halotolerant fungi colonize saline environments including coastal
+Halotolerant fungi colonize [[halotolerant-halophilic-fungi-saline-environments]] including coastal
 soils, salt marshes, and hypersaline lakes. Species of *Wallemia* and
 *Aspergillus* are common in high-salt substrates. These fungi maintain
 internal osmotic balance through intracellular accumulation of
@@ -86,35 +86,5 @@ ion transport systems that exclude excess sodium.
 ## Nutrient Limitation and Stress Responses
 
 Fungi respond to nutrient limitation through complex regulatory networks.
-Starvation triggers morphological changes including increased branching,
-sporulation, and production of extracellular enzymes. Under nitrogen
-limitation, many fungi upregulate protease production and shift
-metabolic pathways toward nitrogen scavenging.
-
-[[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] from [[duggar-mushroom-environmental-factors-temperature-moisture-light]] such as UV radiation,
-pollutants, and reactive oxygen species generated during decomposition
-is managed through antioxidant systems including superoxide dismutase,
-catalase, glutathione, and melanin pigments. Melanized cell walls in
-dematiaceous fungi provide both UV protection and metal chelation.
-
-## Morphological Plasticity
-
-Fungal morphology changes substantially along environmental gradients.
-Dimorphic fungi switch between yeast and hyphal growth forms depending
-on temperature, [[ph-and-nutrient-availability-garden-soils]], and host interactions.
-Yeast forms are favored in nutrient-rich, aerobic conditions, while
-hyphal forms dominate in nutrient-poor or host-associated environments.
-
-Fungal colony morphology varies with substrate, with dense, compact
-colonies on nutrient-rich media and sparse, exploring growth on
-nutrient-poor substrates. Cord-forming basidiomycetes develop
-rhizomorphs that forage efficiently across nutrient-poor soil to
-locate and exploit organic resources.
-
-## See Also
-
-- [[decomposition]]
-- [[fungal-communities-extreme-environments]]
-- [[gadd-saltmarsh-fungal-decomposition]]
-- [[fungal-metal-biosorption-comparative]]
-- [[fungal-contributions-soil-structure]]
+Starvation triggers [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] including increased branching,
+sporulation, and production of [[fungal-extracellular-enzymes]]. Under nitrogen

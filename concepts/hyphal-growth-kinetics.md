@@ -88,17 +88,3 @@ In soil, hyphal extension enables fungi to explore and colonize heterogeneous
 environments. Fungi grow by hyphal extension and thus can reach pollutants in
 the soil in ways that other organisms cannot. This exploratory growth habit
 is one of the key advantages of using fungi for bioremediation. The
-filamentous growth form provides a high surface area to mass ratio, ensuring
-that fungi are integral bioactive components of environmental cycling
-processes.
-
-However, soil is not the natural habitat for many fungi used in bioremediation,
-and soil conditions may need alteration to encourage their growth. Soil
-environmental conditions such as pH, nutrient levels, and oxygen availability
-may not be optimal for fungal growth or for activity of extracellular enzymes.
-
-## Mycelial Growth During Spawn Running
-
-During [[mycelial-networks-and-intelligence]]
-- [[mushroom-training-incubation-management]]
-- mushroom-environmental-parameters

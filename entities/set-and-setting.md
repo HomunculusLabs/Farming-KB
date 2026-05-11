@@ -26,7 +26,7 @@ created: 2026-05-07
 
 # Set and Setting
 
-**Set and setting** is a foundational concept in [[mckenna-suppression-psychedelic-research-lsd-therapy]], psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[richard-alpert|Richard Alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[metzner-psycholytic-psychedelic-therapy-models]], harm reduction, and clinical trial design.
+**Set and setting** is a foundational concept in [[mckenna-suppression-psychedelic-research-lsd-therapy]], psychopharmacology, and consciousness studies describing the two primary non-pharmacological factors that determine the character, intensity, and outcome of a psychoactive drug experience. "Set" refers to the psychological state, expectations, personality, mood, and preparation of the person taking the substance. "Setting" refers to the physical, social, and cultural environment in which the experience takes place. The concept was formalized by [[richard-alpert]] (Ram Dass), and Ralph Metzner at Harvard University in the early 1960s, and remains a cornerstone of modern [[metzner-psycholytic-psychedelic-therapy-models]], harm reduction, and [[psilocybin-clinical-trial-landscape-2020-2025]] design.
 
 ## Historical Development
 
@@ -41,16 +41,16 @@ Their 1964 book *The [[leary-psychedelic-experience-bardo-mapping]]*, adapted fr
 While Leary's group coined the specific term, the underlying principle was recognized much earlier:
 
 - **Albert Hofmann** (1954, *The Doors of Perception*): Noted that mescaline's effects depended on the observer's mental state
-- **Indigenous traditions**: [[psilocybe-cubensis|psilocybin]] for treatment-resistant depression, [[mazatec-people|Mazatec]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
-- **Iboga ceremonies** (Bwiti tradition): Initiation rites spanning days with complex ritual structure
+- **[[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]**: [[psilocybe-cubensis]] for treatment-resistant depression, [[mazatec-people]] mushroom rituals**: Conducted in darkness by a *curandera* with ritual prayers
+- **[[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]** (Bwiti tradition): Initiation rites spanning days with complex ritual structure
 
 ## Scientific Evidence
 
 Modern research has quantitatively validated the set and [[metzner-set-and-setting-hypothesis-origins-and-extensions]]:
 
 - A 2016 meta-analysis found therapeutic alliance and preparation quality were stronger outcome predictors than dose
-- Johns Hopkins psilocybin studies showed mystical-type experiences (strongly setting-dependent) mediate long-term therapeutic benefit
-- fMRI studies demonstrate the brain's default mode network response to psychedelics is modulated by the participant's psychological state
+- [[johns-hopkins-psychedelic-research]] psilocybin studies showed mystical-type experiences (strongly setting-dependent) mediate long-term therapeutic benefit
+- fMRI studies demonstrate the brain's [[default-mode-network-and-ego-dissolution]] response to psychedelics is modulated by the participant's psychological state
 - Imperial College London trials found "acute experience quality" predicted 6-month outcomes better than baseline severity
 
 ## Harm Reduction Framework
@@ -66,7 +66,7 @@ Set and setting is the primary harm reduction principle in non-clinical psychede
 
 ## Set and Setting in Modern Clinical Trials
 
-Contemporary psychedelic therapy research has operationalized set and setting into standardized protocols:
+Contemporary [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] research has operationalized set and setting into standardized protocols:
 - Psychiatric screening (exclude active psychosis, bipolar, dissociative disorders)
 - Medication reconciliation (MAOIs, SSRIs, lithium interactions)
 - 2–4 preparatory psychotherapy sessions; intention-setting exercises
@@ -88,13 +88,3 @@ Contemporary psychedelic therapy research has operationalized set and setting in
 - Experienced guides navigate challenging psychological material non-verbally
 
 ## Critiques and Limitations
-
-- **Determinism debate**: Critics argue set/setting is overemphasized relative to pharmacology
-- **Cultural bias**: Western clinical settings may not reproduce indigenous ceremonial therapeutic mechanisms
-- **Individual variation**: Some responses are idiosyncratic regardless of set/setting optimization
-- **Power dynamics**: Clinical therapist-participant relationships introduce authority dynamics absent in peer-led ceremonies
-## See Also
-
-- [[stanislav-grof|Stanislav Grof]] — [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] and psychedelic therapy pioneer
-- [[maria-sabina|Maria Sabina]] — Mazatec curandera who demonstrated ritual setting mastery
-- [[ketamine|Ketamine]] — clinical application of set and setting principles

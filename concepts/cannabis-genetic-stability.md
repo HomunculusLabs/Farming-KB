@@ -3,6 +3,7 @@ title: Cannabis Genetic Stability
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -13,9 +14,9 @@ tags: [cannabis]
 Genetic stability in cannabis refers to the degree to which a
 population reliably reproduces its defining traits across successive
 generations of [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. It is a central concern for
-breeders, seed companies, and growers who depend on predictable plant
+breeders, [[spanish-cannabis-seed-companies]], and growers who depend on predictable plant
 performance. Cervantes' breeding chapter provides extensive analysis of
-the factors that determine genetic stability and the breeding methods
+the factors that determine genetic stability and the [[cervantes-backcross-breeding-methods]]
 used to achieve it.
 
 ## True-Breeding and Uniformity
@@ -60,7 +61,7 @@ different alleles for the same gene. When hybrid plants are reproduced
 sexually (by inbreeding within the F1 population), alleles segregate
 and recombine, producing offspring that differ from the parents and
 from each other. F1 hybrids are uniform from seed but genetically
-unstable upon sexual reproduction.
+unstable upon [[basidiomycete-mating-systems-sexual-reproduction]].
 
 ### Inbreeding Depression
 
@@ -87,57 +88,3 @@ variability from the original population, and this variability is lost
 and unavailable to future generations.
 
 ## Achieving Genetic Stability
-
-### Filial Inbreeding with Selection
-
-The most common method for establishing a genetically stable population
-is filial inbreeding: mating siblings of each successive generation (F2,
-F3, F4, etc.) while selecting for specific traits. Each generation
-increases homozygosity by 50% for each heterozygous locus. After six
-generations of selfing without selection, 98.44% of genes are
-homozygous.
-
-### Selfing and Single Seed Descent
-
-Selfing (fertilizing a plant with its own pollen) is the fastest way
-to achieve homozygosity. Each selfed generation increases homozygosity
-by 50% for each heterozygous locus. Single seed descent involves
-growing one seed from each selfed generation forward, maintaining a
-line from a single ancestor.
-
-### Recurrent Selection
-
-Recurrent selection concentrates favorable genes scattered among many
-individuals through repeated cycles of selection and inter-mating of
-superior genotypes. This method preserves more genetic diversity than
-strict selfing while still making progress toward stability.
-
-### Maintaining Parallel Lines
-
-Experienced breeders maintain separate parallel breeding lines, each
-selected for similar traits. When individual lines show inbreeding
-depression, they are hybridized with each other to restore vigor while
-preserving the genetic stability of selected traits.
-
-## Testing for Stability
-
-To confirm genetic stability, breeders grow out multiple generations
-from seed and verify that the defining characteristics are consistently
-reproduced. True-breeding populations should show minimal variation for
-selected traits regardless of the [[cannabis-growing-environment-setup]].
-
-## Ethical Considerations
-
-Cervantes emphasizes that ethical breeding should improve populations
-while preserving genetic variability for traits not under selection,
-which may prove valuable for future breeders and growers. The species
-desperately needs breeders willing to protect genetic resources rather
-than simply making seeds for profit.
-
-## See Also
-
-- [[oner-cannabis-breeding-fundamentals]]
-- cannabis-hybridization|Hybridization
-- cannabis-backcrossing|Backcrossing
-- [[cannabis-hardy-weinberg-equilibrium]]
-- [[cannabis-seed-selection-and-strain-types]]

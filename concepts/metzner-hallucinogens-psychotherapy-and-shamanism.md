@@ -88,37 +88,3 @@ function as "allies," "guardians," or "helpers" in healing and divination.
 Metzner surveyed specific [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]]: the Native American Church
 peyote ceremony (all-night, central fire, led by a roadman); the Mazatec
 mushroom velada (dark room, healer singing incorporating Christian saints
-and nature spirits); [[harner-amazonian-ayahuasca-preparation-methods]] ceremonies (semidarkness, icaros);
-Huichol peyote pilgrimage to Wirikuta; Andean San Pedro cactus ceremonies
-with altar arrangements; and Bwiti iboga ceremonies in Gabon with ancestral
-mirrors.
-
-## Paradigm Three: Syncretic Folk Religious Ceremonies
-
-Folk religious ceremonies involving entheogens occupy a continuum with shamanic
-practices but emphasize group worship over individual healing. Groups such as
-the Brazilian hoasca churches may involve hundreds of participants with priests
-rather than shamans. These churches provide social cohesion and protection
-against alcoholism and addiction, and function as a "protective shield of
-traditional lore" against missionary pressure and consumer culture.
-
-## Paradigm Four: Hybrid Shamanic-Therapeutic Rituals
-
-The emerging hybrid paradigm blends Western psychotherapeutic and indigenous
-shamanic approaches, incorporating the three distinctive shamanic features:
-darkness, singing, and minimal talking during the experience itself. Metzner
-observed that in these hybrid ceremonies, recognition of multiple dimensions
-and the reality of spirit beings has become "quite common," despite these
-conceptions remaining "completely beyond the pale of both reason and science"
-within conventional Western paradigms.
-
-## Comparative Conclusions
-
-Both Western psychotherapy and shamanic traditions recognize the centrality of
-an experienced guide, the importance of set and setting, and the potential for
-healing and insight. The fundamental divergence lies in underlying cosmology:
-the Western paradigm operates within a single-material-reality framework where
-
-## See Also
-
-- [[shamanism-and-plant-hallucinogens]]

@@ -87,23 +87,3 @@ evaluation metric for the compound, since genuine encounters with the
 hyperdimensional space are intimidating. He distinguished the authentic
 tryptamine experience from compounds that "paralyze the ability to be
 terrified."
-
-## The Logos and Language
-
-Central to McKenna's framework is the concept that [[psilocybin]] mushrooms, which he described
-as conveying one into "the world of the tryptamine hypercontinuum." The
-psilocybin experience builds over approximately an hour and is sustained for
-several hours, presenting the same confrontation with alien intelligence and
-translinguistic information complexes as DMT but at a more gradual pace. He
-proposed that these experiences reveal a "latent ability of the human
-brain/body" that, once widely discovered, "will be so obvious that it will
-fall right into the mainstream of cultural evolution." He speculated that
-"either language is the shadow of this ability or that this ability will be a
-further extension of language," potentially enabling "a human language in
-which the intent of meaning is actually beheld in three-dimensional space."
-
-## See Also
-- [[language-self-replicating-information-noosphere-mckenna]]
-- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
-- [[tryptamine-hallucinogens]]
-- [[tryptamine-hallucinogens-and-consciousness]]

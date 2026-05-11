@@ -36,7 +36,7 @@ Cowpea was domesticated in West Africa approximately 5,000–6,000 years ago and
 * **Genus:** Vigna
 * **Species:** V. unguiculata
 
-The species includes several recognized subspecies and cultivar groups. The most commercially significant are subsp. *unguiculata* (the common cowpea group, including black-eyed pea and crowder pea varieties) and subsp. *sesquipedalis* (the yardlong bean or asparagus bean, prized in East and Southeast Asian cuisine).
+The species includes several recognized subspecies and cultivar groups. The most commercially significant are subsp. *unguiculata* (the common cowpea group, including black-eyed pea and crowder pea varieties) and subsp. *sesquipedalis* (the yardlong bean or asparagus bean, prized in East and [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] cuisine).
 
 The plant is an annual, climbing or bushy herb reaching 30–200 cm in height depending on cultivar. Leaves are trifoliate with ovate leaflets 5–15 cm long. Flowers are papilionaceous, white to pale violet with a dark purplish standard, borne in axillary racemes.
 
@@ -58,23 +58,23 @@ Cowpea seeds contain approximately 22–25% protein, 50–60% carbohydrates, and
 
 The leaves are also consumed as a nutritious vegetable in many African and Asian cuisines, providing significant amounts of beta-carotene (provitamin A), vitamin C, folate, calcium, and iron. Leaf protein content ranges from 3–5% on a fresh weight basis.
 
-Anti-nutritional factors include trypsin inhibitors, phytic acid, and tannins, though these are substantially reduced by traditional cooking methods such as boiling, fermentation, or germination. Improved cultivars with reduced anti-nutritional content have been developed through conventional breeding.
+Anti-nutritional factors include trypsin inhibitors, phytic acid, and tannins, though these are substantially reduced by traditional [[solar-cooking-methods]] such as boiling, fermentation, or germination. Improved cultivars with reduced anti-nutritional content have been developed through conventional breeding.
 
 ## Ecological Role
 
 Cowpea's primary ecological contribution is [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation. Well-nodulated plants can fix 40–200 kg N/ha per growing season, reducing or eliminating the need for synthetic nitrogen fertilizers in rotation systems.
 
-The crop provides excellent ground cover, protecting soil from erosion and reducing weed pressure. Its rapid growth and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it valuable as a cover crop and green manure in tropical agroecosystems.
+The crop provides excellent ground cover, protecting soil from erosion and reducing weed pressure. Its rapid growth and [[dighton-fungal-drought-tolerance-plant-water-relations]] make it valuable as a cover crop [[fukuoka-clover-and-green-manure-cropping]] in tropical agroecosystems.
 
-Cowpea serves as a host for various [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and predatory wasps that help control pest populations in mixed cropping systems. It is also used as fodder and hay for livestock, particularly during dry seasons when other forage is scarce.
+Cowpea serves as a host for various [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], including pollinators and predatory wasps that help [[query-how-do-parasitoid-wasps-control-pest-populations]] in mixed cropping systems. It is also used as fodder and hay for livestock, particularly during dry seasons when other forage is scarce.
 
 ## Pests and Diseases
 
 The cowpea flower thrips (*Megalurothrips sjostedti*), legume pod borer (*Maruca vitrata*), and cowpea aphid (*Aphis craccivora*) are among the most destructive insect pests across all production regions. Yield losses from insect damage alone can reach 50–80% without adequate pest management.
 
-Major fungal diseases include cowpea anthracnose (*Colletotrichum lindemuthianum*), ashy stem blight (*Macrophomina phaseolina*), and cercospora leaf spot (*Pseudocercospora cruenta*). Bacterial blight caused by *Xanthomonas axonopodis* pv. *vignicola* can cause severe defoliation under humid conditions.
+Major [[human-fungal-diseases-mycoses-overview]] include cowpea anthracnose (*Colletotrichum lindemuthianum*), ashy stem blight (*Macrophomina phaseolina*), and cercospora leaf spot (*Pseudocercospora cruenta*). Bacterial blight caused by *Xanthomonas axonopodis* pv. *vignicola* can cause severe defoliation under humid conditions.
 
-Integrated pest management strategies combining resistant varieties, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and judicious pesticide application are widely recommended. Several cowpea cultivars with moderate to high resistance to key pests and diseases have been released by IITA and national breeding programs.
+[[integrated-pest-management]] strategies combining resistant varieties, [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents, and judicious pesticide application are widely recommended. Several cowpea cultivars with moderate to high resistance to key pests and diseases have been released by IITA and national breeding programs.
 
 ## History and Domestication
 
@@ -87,31 +87,3 @@ In the Americas, cowpea became deeply embedded in Southern U.S. cuisine, Caribbe
 ## Cultivar Groups
 
 The species encompasses considerable morphological diversity organized into several recognized cultivar groups. The *Unguiculata* group (common cowpea) includes bush and semi-climbing types with short to medium pods grown primarily for dry grain harvest.
-
-The *Sesquipedalis* group (yardlong bean) produces exceptionally long pods (40–100 cm) and is the dominant form in Chinese, Southeast Asian, and Filipino cuisine. Pods are harvested immature and consumed as a fresh vegetable.
-
-The *Biflora* group (catjang) produces short, erect pods and is used both as a green vegetable and dry pulse. The *Textilis* group produces long fibers from its pods and has been used for textile production in parts of West Africa.
-
-The *Melanophthalmus* subgroup within the Unguiculata group includes the globally recognized black-eyed pea, distinguished by a prominent black hilum contrasting with white or cream seed coats. This form dominates commercial cowpea production worldwide.
-
-## Breeding and Genetics
-
-Modern cowpea breeding began in earnest during the mid-20th century, led by institutions including the International Institute of Tropical Agriculture (IITA) in Nigeria and the University of California, Riverside. Breeding objectives focus on drought tolerance, [[hamilton-pest-and-disease-control-organic]] resistance, early maturity, and improved [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
-
-The cowpea genome was sequenced in 2015, revealing a relatively compact genome of approximately 620 megabases spread across 11 chromosomes. This resource has accelerated marker-assisted breeding and identification of quantitative trait loci for key agronomic traits.
-
-Biotechnological approaches including transgenic and gene-editing methods have been explored, though regulatory frameworks for genetically modified legumes remain restrictive in many cowpea-producing countries. Conventional breeding continues to deliver the majority of improved varieties.
-
-## See Also
-
-- [[vigna-umbellata]]
-- [[vigna-subterranea]]
-
-- [[arachis-hypogaea]]
-- [[lablab-purpureus]]
-- [[tylosema-esculentum]]
-- [[pachyrhizus-erosus]]
-- [[moringa-oleifera]]
-- [[pachyrhizus-tuberosus]]
-- [[azadirachta-indica]]
-- [[carica-papaya]]

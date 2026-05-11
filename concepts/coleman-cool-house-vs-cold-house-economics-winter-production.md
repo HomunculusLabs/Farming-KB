@@ -1,5 +1,5 @@
 ---
-title: Cool House vs Cold House Economics in Winter Vegetable Production
+title: Coleman Cool House Vs Cold House Economics Winter Production
 source: Coleman, E. (2009). The Winter Harvest Handbook. Chelsea Green Publishing.
 tags: [winter-harvest, greenhouse-economics, cool-house, cold-house, coleman, season-extension, heating]
 ---
@@ -15,7 +15,7 @@ In The Winter Harvest Handbook, Eliot Coleman distinguishes between two types of
 ### Cold House
 - **Heating**: None. The structure is a standard plastic-covered gothic-style hoop house with no heating system
 - **Protection**: Single-layer UV-resistant plastic covering plus an inner layer of floating row cover over crops
-- **Temperature range**: When outdoor temperature drops to -15°F (-26°C), temperature under the inner row cover averages 15-18°F (-10°C to -8°C)
+- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: When outdoor temperature drops to -15°F (-26°C), temperature under the inner row cover averages 15-18°F (-10°C to -8°C)
 - **Crop count**: 3-4 harvests per winter season
 - **Cost**: Minimal — only the structure itself and row cover material
 
@@ -68,62 +68,22 @@ The economics of minimal heating depend on several variables:
 
 ## The Green Manure Advantage of Mobile Greenhouses
 
-Coleman's mobile greenhouse system adds another economic dimension. A greenhouse that moves between two sites provides:
+Coleman's [[coleman-mobile-greenhouse-system]] adds another economic dimension. A greenhouse that moves between two sites provides:
 
 1. **Year 1**: Greenhouse over summer crops (tomatoes, peppers, cucumbers)
 2. **Year 1 (fall)**: Greenhouse moves to cover winter crops sown outdoors in August
-3. **Year 2**: Previous greenhouse site is uncovered, allowing a deep-rooting leguminous green manure crop to grow for 10-13 months
+3. **Year 2**: Previous greenhouse site is uncovered, allowing a deep-rooting leguminous [[holzer-green-manure-crop-compendium]] to grow for 10-13 months
 4. **Year 2 (fall)**: Greenhouse moves back to the original site for winter crops again
 
 The uncovered year provides soil-restoration benefits that are economically significant:
 
-- **Soil health improvement**: Sun, rain, wind, and snow cleanse the soil of potential pest and disease buildup
+- **Soil health improvement**: Sun, rain, wind, and snow cleanse the soil of potential [[hamilton-pest-and-disease-control-organic]] buildup
 - **Green manure nitrogen**: Legume cover crops fix substantial nitrogen, reducing fertilizer costs
 - **Reduced pest pressure**: Breaking the continuous-cover cycle interrupts pest and disease life cycles
-- **Soil aeration**: Root growth and weather exposure improve soil structure
+- **Soil aeration**: Root growth and weather exposure [[query-how-do-fungi-improve-soil-structure]]
 
 This rotation is only possible with mobile greenhouses; permanent structures (both cool and cold) cannot provide this soil-restoration benefit.
 
 ## Coleman's Decision
 
 After several years of experimenting with minimal heat, Coleman ultimately decided not to pursue the cool-house option further, for these reasons:
-
-1. **Philosophical alignment**: The original inspiration was to achieve winter production without the complications and resource consumption of heating
-2. **Adequate performance**: Cold houses proved "more than adequate" for baby-leaf salads, braising mixes, spinach, leeks, Asian greens, winter carrots, and spring crops
-3. **Simplicity**: Unheated systems are easier to manage and less vulnerable to equipment failure
-4. **Scalability**: Cold houses are more accessible to small-scale growers who may not have the capital for heating infrastructure
-
-However, Coleman includes detailed cool-house information in his book for growers in warmer climates or those who find minimal heating appropriate to their operations.
-
-## Temperature Data: Cold vs Cool House Performance
-
-Coleman's records from Zone 5 coastal Maine illustrate the temperature differences:
-
-- **Outdoor**: -15°F (-26°C) on a typical cold night
-- **Cold house (under inner row cover)**: 15-18°F (-10°C to -8°C) — a 33°F (18°C) temperature gain from the double-cover system
-- **Cool house**: 34-37°F (1-3°C) — maintained just above freezing by the propane heater
-
-The 16-22°F (9-12°C) difference between cold and cool house night temperatures translates directly into faster growth rates and the ability to grow more tender crops. However, even cold house temperatures are sufficient for the hardiest winter vegetables, which can survive temperatures down to 10°F (-12°C) or lower when protected from wind and desiccation.
-
-The double-coverage system (greenhouse plastic + inner row cover) also increases relative humidity in the protected zone, offering additional freeze protection through the humid air's greater thermal mass compared to dry air.
-
-## Practical Recommendations
-
-For growers deciding between cold and cool house systems:
-
-| Factor | Choose Cold House | Choose Cool House |
-|---|---|---|
-| Climate zone | Zone 5 and warmer | Zone 4 and colder |
-| Fuel cost | High or uncertain | Cheap local wood available |
-| Crop mix | Salad greens, spinach, carrots | Baby turnips, radishes, early carrots |
-| Labor | Minimal available | Can monitor heating system |
-| Capital | Limited startup budget | Can afford heater infrastructure |
-| Market | Values simplicity and sustainability | Premium market, needs maximum production |
-
-## See Also
-
-- [[coleman-cold-house-wind-protection-microclimate]]
-- [[coleman-cool-house-minimal-supplementary-heat]]
-- [[coleman-mobile-greenhouse-system]]
-- [[coleman-winter-harvest-three-components]]
-- [[coleman-summer-fallow-green-manure-greenhouse]]

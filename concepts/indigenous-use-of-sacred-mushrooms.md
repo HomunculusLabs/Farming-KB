@@ -4,11 +4,11 @@
 
 ## Overview
 
-The ceremonial and ritual use of psychoactive fungi spans multiple continents and millennia of human history. While the most extensively documented traditions are found in Mexico and New Guinea, evidence suggests that sacred mushroom use may have been considerably more widespread than current records indicate. The rediscovery of these traditions in the mid-twentieth century fundamentally altered the modern understanding of human-fungal relationships and catalyzed the establishment of ethnomycology as a scholarly discipline.
+The ceremonial and ritual use of psychoactive fungi spans multiple continents and millennia of human history. While the most extensively documented traditions are found in Mexico and New Guinea, evidence suggests that [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]] may have been considerably more widespread than current records indicate. The rediscovery of these traditions in the mid-twentieth century fundamentally altered the modern understanding of human-fungal relationships and catalyzed the establishment of ethnomycology as a scholarly discipline.
 
 ## Rediscovery in Mexico
 
-The modern rediscovery of traditional mushroom use in Mexico is credited to the collaborative efforts of R. Gordon Wasson, Roger Heim, and Rolf Singer during the 1950s. Wasson, a vice president at J.P. Morgan, became fascinated with the cultural significance of mushrooms after learning of their ceremonial use among the Mazatec people of Oaxaca. His subsequent fieldwork, conducted with Heim (a French mycologist) and Singer (an Argentine-American mycologist), revealed that the pre-Columbian practice of consuming psychoactive mushrooms had survived centuries of Spanish colonial suppression and continued as a living tradition among several ethnic groups in central and southern Mexico.
+The modern rediscovery of traditional mushroom use in Mexico is credited to the collaborative efforts of R. Gordon Wasson, Roger Heim, and Rolf Singer during the 1950s. Wasson, a vice president at J.P. Morgan, became fascinated with the [[amanita-muscaria]] of mushrooms after learning of their ceremonial use among the Mazatec people of Oaxaca. His subsequent fieldwork, conducted with Heim (a French mycologist) and Singer (an Argentine-American mycologist), revealed that the pre-Columbian practice of consuming [[ceremonial-shamanic-use-psychoactive-mushrooms]] had survived centuries of Spanish colonial suppression and continued as a living tradition among several ethnic groups in central and southern Mexico.
 
 Their publications in *Life* magazine (1957) and in the scientific literature brought these traditions to worldwide attention and sparked intense interest in psychoactive fungi within both the scientific community and the broader public.
 
@@ -16,11 +16,11 @@ Their publications in *Life* magazine (1957) and in the scientific literature br
 
 The Nahuatl word **teonanácatl**, meaning "divine mushroom" or "flesh of the gods," holds a central place in the ethnomycological literature. It was first documented in the historical record by Bernardino de Sahagún, a Franciscan friar who conducted extensive ethnographic studies of Aztec culture between 1569 and 1582. Sahagún's *Historia General de las Cosas de Nueva España* contains detailed descriptions of the Aztec use of psychoactive mushrooms in [[entheogenic-folk-religious-ceremonies]].
 
-Richard Evans Schultes later brought the term to wider scholarly attention in his 1939 publication. Today, teonanácatl has become indiscriminately applied to virtually any Mexican hallucinogenic fungus, though its original Nahuatl usage referred specifically to the mushrooms used in Aztec and other central Mexican religious ceremonies, where they served as sacramental conduits to the divine.
+[[richard-evans-schultes]] later brought the term to wider scholarly attention in his 1939 publication. Today, teonanácatl has become indiscriminately applied to virtually any Mexican hallucinogenic fungus, though its original Nahuatl usage referred specifically to the mushrooms used in Aztec and other central Mexican religious ceremonies, where they served as sacramental conduits to the divine.
 
 ## Common Names in Mexico
 
-Mexico's extraordinary diversity of sacred mushroom traditions is reflected in the more than 200 common names documented for psychoactive fungi. Many of these names exist in indigenous languages, reflecting both the depth and the cultural specificity of these traditions:
+Mexico's extraordinary diversity of [[mexican-sacred-mushroom-traditions]] is reflected in the more than 200 common names documented for psychoactive fungi. Many of these names exist in indigenous languages, reflecting both the depth and the cultural specificity of these traditions:
 
 - **Nahuatl names:** apipiltzin (kid/child), teotlaquilnanácatl (divine fungus that paints or describes)
 - **Mazatec names:** di nizé taaya (fungus of the genius), shi thó (that eruptions thing)
@@ -65,7 +65,7 @@ In Mixtec ceremonies, at least nine species of *Lycoperdon* (puffball) fungi are
 
 ### Cordyceps Species
 
-*Cordyceps capitata* and *C. ophioglossoides*, known locally as "hombrecitos" (little men) and "mujercitas" (little women), are used in ceremonies alongside *Psilocybe muliercula* at the Nevado de Toluca, a high volcanic peak in central Mexico. The anthropomorphic names reflect the indigenous tendency to perceive personhood or spiritual agency in these fungi.
+*Cordyceps capitata* and *C. ophioglossoides*, known locally as "hombrecitos" (little men) and "mujercitas" (little women), are used in ceremonies alongside *[[psilocybe-muliercula]]* at the Nevado de Toluca, a high volcanic peak in central Mexico. The anthropomorphic names reflect the indigenous tendency to perceive personhood or spiritual agency in these fungi.
 
 ### Elaphomyces (Deer Truffles)
 
@@ -88,39 +88,3 @@ Indigenous use emphasizes healing, divination, communal bonding, and spiritual i
 The survival of sacred [[sacred-mushroom-traditions-in-mexico]] Mexico is itself remarkable given the intensity of Spanish colonial efforts to eradicate indigenous religious practices. Following the conquest, Catholic missionaries identified mushroom ceremonies as particularly threatening examples of "pagan idolatry" and targeted them for systematic suppression. The Inquisition recorded numerous cases of mushroom use among indigenous peoples and punished practitioners severely.
 
 Despite these pressures, the traditions survived in remote communities where colonial authority was weakest and where indigenous cultural practices could be maintained with relative discretion. The geographic isolation of many Mazatec, Zapotec, and Mixtec communities proved crucial to the preservation of these practices into the modern era, where they were ultimately documented by Wasson, Heim, and Singer.
-
-## Five Historical Periods of Neurotropic Fungi Study
-
-The scholarly study of neurotropic fungi can be divided into five historical periods spanning from early colonial observations through modern phytochemical and clinical research:
-
-1. **Colonial period (16th–18th centuries):** Initial documentation by Spanish chroniclers, particularly Sahagún, who described teonanácatl use among the Aztecs.
-
-2. **Early botanical period (19th century):** Specimens were collected and described taxonomically, but their psychoactive properties were not yet recognized by Western science.
-
-3. **Ethnobotanical rediscovery (1930s–1950s):** Schultes identified teonanácatl as a psychoactive mushroom; Wasson, Heim, and Singer documented living ceremonial traditions.
-
-4. **Chemical and pharmacological period (1960s–1980s):** Hofmann identified [[hplc-analysis-of-psilocybin-and-psilocin]]; clinical research explored their effects before legal restrictions intervened.
-
-5. **Modern research period (1990s–present):** Renewed scientific interest, clinical trials for depression and end-of-life anxiety, and advances in neuroimaging of psychedelic states.
-
-Each successive period brought expanding understanding of both the cultural significance and the pharmacological properties of these remarkable organisms.
-
-## Spanish Colonial Impact on Mushroom Traditions
-
-The Spanish conquest of Mexico brought devastating consequences for indigenous mushroom traditions. Catholic missionaries viewed the ceremonial use of psychoactive fungi as a direct challenge to their evangelization efforts and a manifestation of "diabolical" practices. The Inquisition actively persecuted practitioners, and mushroom ceremonies were driven underground or adapted to incorporate Catholic elements as a protective disguise.
-
-Despite this sustained suppression over nearly five centuries, the traditions demonstrated remarkable resilience. The remote geography of many indigenous communities in Oaxaca, Puebla, Michoacán, and adjacent states provided a degree of isolation that shielded ceremonial practices from complete eradication. The syncretic blending of Catholic and pre-Columbian religious elements — visible in the simultaneous invocation of saints and mushroom spirits — represents both a survival strategy and a genuine cultural synthesis that characterizes much of contemporary indigenous Mexican spirituality.
-
-## Contemporary Relevance
-
-The indigenous use of sacred mushrooms has gained renewed significance in the 21st century as clinical research into psychedelic-assisted therapy has expanded dramatically. Modern clinical trials investigating psilocybin for treatment-resistant depression, end-of-life anxiety, and substance use disorders have drawn explicit inspiration from traditional ceremonial frameworks, particularly the emphasis on set (mindset), setting (environment), and integration (post-experience processing) that are hallmarks of indigenous practice.
-
-This intersection of traditional knowledge and modern science raises important questions about intellectual property, cultural appropriation, and the ethical responsibilities of researchers working with psychoactive substances that have deep roots in [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]. Several indigenous communities and organizations have called for greater recognition of their contributions to the understanding of these fungi and for equitable participation in the benefits of commercial and therapeutic applications.
-
-## See Also
-
-- [[neurotropic-fungi-taxonomy-and-classification]]
-- [[geographic-distribution-of-psilocybe-species]]
-## See Also
-
-- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

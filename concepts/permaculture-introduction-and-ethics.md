@@ -67,3 +67,20 @@ Permaculture seeks first to stabilise and care for land, then to serve household
 - [[permaculture-patterns-in-nature]] -- Pattern understanding as a design tool
 - [[permaculture-zone-and-sector-analysis]] -- Spatial organisation of design
 - [[permaculture-currency-and-economics]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[permaculture-ethics-and-principles]]
+- [[williams-pdc-permaculture-ethics-and-principles-in-practice]]
+- [[williams-pdc-permaculture-ethics-and-holmgrens-principles]]
+- [[permaculture-currency-and-economics]]
+- [[permaculture-plants-root-crops-and-tubers]]

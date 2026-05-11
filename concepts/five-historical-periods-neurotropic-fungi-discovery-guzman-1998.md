@@ -88,33 +88,3 @@ New species of neurotropic fungi continue to be described from around the world.
 
 ### Chemical Re-evaluation
 Modern analytical techniques have allowed the re-evaluation of earlier chemical studies. Many earlier reports of psilocybin in various species have been found to be erroneous due to misidentification of specimens, analytical errors, or contamination. Stijve and Kuyper (1988) failed to find psilocybin in several species previously reported to contain it, and the controversy over [[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]] illustrates the difficulty of chemical analysis in this field.
-
-### Therapeutic Research Renaissance
-In the 21st century, there has been a renewed scientific interest in the therapeutic potential of psilocybin, particularly for treatment-resistant depression, end-of-life anxiety, and substance use disorders. Clinical trials at institutions such as Johns Hopkins, Imperial College London, and Yale have demonstrated significant therapeutic effects, leading to a re-evaluation of the legal status of psilocybin in several jurisdictions. The U.S. FDA granted "breakthrough therapy" designation to psilocybin for treatment-resistant depression in 2018 and 2019, accelerating the regulatory pathway for potential approval. As of the mid-2020s, Oregon and Colorado have legalized therapeutic use of psilocybin, and several other jurisdictions are considering similar measures. This therapeutic renaissance represents a full-circle return to the earliest understanding of these fungi — not merely as recreational substances but as tools for healing and psychological transformation.
-
-### Conservation and Ethnobotanical Documentation
-The fifth period has also seen increased efforts to document and preserve indigenous knowledge about neurotropic fungi before it is lost to cultural change, as well as growing awareness of the need for conservation of the fungal species and their habitats. Ethnobotanists working with Mazatec, Mixtec, and other indigenous communities have recorded traditional knowledge of mushroom identification, preparation, and ceremonial use that might otherwise have been lost as younger generations migrate to cities and abandon traditional practices.
-
-### Globalization and the Internet
-The internet has dramatically accelerated the spread of knowledge about neurotropic fungi in the fifth period. Online forums, identification resources, cultivation guides, and scientific papers are now widely accessible. This has led to the rapid dissemination of both accurate and inaccurate information, creating new challenges for harm reduction and public health. At the same time, citizen science initiatives have contributed to the discovery of new populations and species, expanding the known geographical range of several Psilocybe species.
-
-## Significance of the Periodization
-
-The five-period framework provides a useful lens for understanding how human relationships with neurotropic fungi have evolved over time. Several patterns emerge across these periods:
-
-1. **Independent discovery**: The use of psychoactive fungi arose independently in multiple cultures (Mesoamerica, Siberia, New Guinea, possibly Africa), suggesting a deep human affinity for these substances.
-
-2. **Scientific lag**: Scientific understanding consistently lagged behind indigenous knowledge, often by centuries. Western science has only recently begun to validate what indigenous peoples knew about these fungi for millennia.
-
-3. **Cultural disruption**: Each wave of outside interest in neurotropic fungi — from colonial suppression to counterculture tourism — has disrupted the indigenous traditions that first discovered them.
-
-4. **Cyclical reappraisal**: Attitudes toward these fungi have oscillated between reverence and prohibition, with each period of prohibition eventually giving way to renewed scientific and cultural interest.
-
-## References
-
-- Guzmán, G., Allen, J.W., & Gartz, J. (1998). A worldwide geographical distribution of the neurotropic fungi. Ann. Mus. civ. Rovereto, 14, 189-280.
-- Stamets, P. (1978, 1996). Psilocybin Mushrooms of the World.
-- Wasson, R.G. & Wasson, V.P. (1957). Seeking the Magic Mushroom. Life Magazine.
-- Heim, R. & Wasson, R.G. (1958). Les Champignons Hallucinogènes du Mexique.
-- Schultes, R.E. (1939). The identification of teonanacatl.
-- Oss, O.T. & Oeric, O.N. (1976). Psilocybin: Magic Mushroom Grower's Guide.

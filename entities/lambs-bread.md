@@ -27,18 +27,18 @@ The strain is often confused with or conflated with **Lamb's Breath**, which may
 
 ## Genetic Profile
 
-- **Type:** Pure sativa landrace (approximately 95:5 sativa:indica ratio)
-- **Lineage:** Jamaican landrace sativa, likely introduced via the Indian indentured servant trade (c. 1845–1917) or earlier African/Portuguese trade routes
+- **Type:** Pure [[cannabis-sativa-landrace-strains]] (approximately 95:5 sativa:indica ratio)
+- **Lineage:** Jamaican [[african-landrace-sativa-genetic-contributions-modern-breeding-oner]], likely introduced via the Indian indentured servant trade (c. 1845–1917) or earlier African/Portuguese trade routes
 - **Landrace status:** Indigenous to the Jamaican interior, particularly the parishes of St. Ann, St. Catherine, and the Blue Mountains
 - **CBD content:** Very low (typically <0.1%)
-- **THC content:** Moderate by modern standards (12–18%), though original landrace specimens reportedly reached 20%+
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** Moderate by modern standards (12–18%), though original landrace specimens reportedly reached 20%+
 
-The strain's equatorial sativa genetics produce characteristically long internodal spacing, vigorous vegetative growth, and a photoperiod adaptation suited to 11–13 hour day lengths typical of tropical latitudes.
+The strain's equatorial sativa genetics produce characteristically long internodal spacing, vigorous [[cannabis-vegetative-growth-stage]], and a photoperiod adaptation suited to 11–13 hour day lengths typical of tropical latitudes.
 
 ## Appearance
 
 ### Flower Structure
-Lambs Bread buds are characteristically elongated and fluffy, forming loose, airy colas typical of equatorial sativas. The calyxes are large, prominent, and often spiral-formed (foxtailing), with a high leaf-to-bud ratio compared to modern hybrids. Colors range from bright lime green to golden-green, with occasional pinkish pistils that turn amber-orange as the plant matures. The bud structure is visually distinct from modern hybrids — open, sativa-typical, and less dense.
+Lambs Bread buds are characteristically elongated and fluffy, forming loose, airy colas typical of [[durban-poison-and-equatorial-sativas]]. The calyxes are large, prominent, and often spiral-formed (foxtailing), with a high leaf-to-bud ratio compared to modern hybrids. Colors range from bright lime green to golden-green, with occasional pinkish pistils that turn amber-orange as the plant matures. The bud structure is visually distinct from modern hybrids — open, sativa-typical, and less dense.
 
 ### Trichome Coverage
 Moderate to heavy trichome production, with predominantly clear to cloudy glandular trichomes. Under magnification, the trichomes are large and bulbous, giving cured flowers a frosty, crystalline sheen despite the airy bud structure.
@@ -86,37 +86,4 @@ Effects onset within 5–15 minutes when smoked or vaporized; duration is notabl
 
 Lambs Bread holds sacred status in Rastafarian culture, where cannabis (*ganja*) is used in Nyabinghi ceremonies as a sacrament for meditation, spiritual communion, and reasoning sessions. It is considered among the most spiritually appropriate strains due to its clear, meditative, and uplifting qualities — as opposed to heavy indicas that might promote lethargy during ceremonies. The name references the Biblical "bread of life" and Lamb of God, reflecting the Rastafari integration of cannabis use with Judeo-Christian symbolism.
 
-Bob Marley was its most famous proponent, reportedly smoking it daily and attributing it as a source of his creative inspiration and spiritual insight. The strain features prominently in reggae culture and lyrics. Peter Tosh and Bunny Wailer were also known Lambs Bread enthusiasts. As one of the few remaining pure Jamaican landrace strains, Lambs Bread represents an important genetic reservoir threatened by global hybridization trends.
-
-## Growing Information
-
-Moderate to difficult indoors due to long flowering time (12–16 weeks), tall stature (150–250+ cm outdoors, can exceed 3 meters in [[fukuoka-natural-farming-tropical-climates]]), and low yield relative to modern hybrids (200–350 g/m² indoor; 400–700 g/plant outdoor). The plant exhibits significant stretch during early flowering (2–3× height increase) with long, stretchy branches and wide internodal spacing. Best suited to outdoor cultivation in tropical/subtropical climates.
-
-Requires full sun, well-drained soil, 24–30°C optimal, and light to moderate feeding — sensitive to nitrogen overload during flowering. LST (low-stress training), topping, and scrog techniques help manage height indoors. The extensive, aggressive root system requires large containers or in-ground planting.
-
-As a landrace adapted to Jamaican conditions, Lambs Bread shows above-average resistance to [[cervantes-powdery-mildew-prevention-treatment]], botrytis (bud rot), spider mites, and fungal pathogens, though it can be susceptible to thrips and whiteflies in indoor environments. Clones of authentic mother plants exist in small Jamaican collections but are rarely available commercially — authentic genetics are increasingly rare due to hybridization of Jamaican cultivation.
-
-## Genetic Relatives and Authenticity
-
-### Related Landraces
-- **Lamb's Breath:** Closely related Jamaican strain; debated whether synonymous or distinct, with some asserting they represent the same population and others maintaining they are separate accessions
-- **Jamaican Pearl:** Another Jamaican sativa landrace, sometimes grouped with Lambs Bread
-- **King's Bread:** Jamaican sativa with potentially related lineage
-
-### Notable Hybrids
-Several breeders have crossed Lambs Bread with modern genetics:
-- **Lambs Bread × Blue Dream:** Combines Jamaican energy with Blue Dream's balanced relaxation
-- **Lambs Breath F2:** Stabilized inbred line from original Jamaican stock
-- Various backcrosses aimed at preserving landrace traits while improving yield and flowering time
-
-Authentic Lambs Bread has become increasingly rare due to introduction of foreign hybrid genetics into Jamaica (particularly from [[growing-gourmet-north-american-reishi-species]] and European seed companies), government suppression of cultivation (decriminalized 2015, but large-scale cultivation remains restricted), and loss of traditional growing knowledge as younger generations adopt modern hybrids. Genuine material is best sourced from Jamaican landrace preservation breeders.
-
-## Legal Status
-
-Cannabis remains illegal in Jamaica for recreational use, though decriminalization in 2015 (C Dangerous Drugs [Amendment] Act) allows possession of up to 2 ounces and cultivation of up to five plants for personal/religious use by Rastafarians. Internationally, Lambs Bread seeds and genetics face the same legal restrictions as all cannabis — illegal in many countries, with varying medical/recreational legalization status. Landrace preservation efforts operate in a legal gray area in many jurisdictions.
-
-## See Also
-
-- [[blue-dream]]
-- [[acdc]]
-- [[african-landrace-sativa-modern-hybrids]]
+Bob Marley was its most famous proponent, reportedly smoking it daily and attributing it as a source of his creative inspiration and spiritual insight. The strain features prominently in reggae culture and lyrics. Peter Tosh and Bunny Wailer were also known Lambs Bread enthusiasts. As one of the few remaining pure Jamaican [[cannabis-landrace-strains]], Lambs Bread represents an important genetic reservoir threatened by global hybridization trends.

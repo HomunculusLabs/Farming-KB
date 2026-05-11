@@ -3,7 +3,9 @@ title: "How Do I Make Compost Tea?"
 tags: [query, compost-tea, soil-biology, organic-farming, aact]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 # How Do I Make Compost Tea?

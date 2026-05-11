@@ -1,5 +1,5 @@
 ---
-title: "Sargassum horneri"
+title: Sargassum Horneri
 type: species
 tags:
   - phaeophyceae
@@ -15,7 +15,7 @@ sources:
   - NOAA (2023). "Sargassum horneri Invasive Species Alert." NOAA National Marine Sanctuaries.
   - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
   - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
-  - Li, R. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
+  - Li, R. et al. (2020). "[[dighton-fungal-nutritional-composition-animal-diets]] of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
 ---
 
 ## Overview
@@ -60,7 +60,7 @@ The species typically grows in the subtidal zone at depths of 1–15 meters on r
 
 It tolerates a wide range of temperatures (5–25°C) and salinities (20–34 ppt), contributing to its invasive success.
 
-Introduced populations were first detected along the Pacific coast of North America in 2003, in Long Beach Harbor, California.
+Introduced populations were first detected along the Pacific coast [[berry-growing]] in 2003, in Long Beach Harbor, California.
 
 By the 2010s, it had spread along the coast from Baja California to British Columbia.
 
@@ -87,45 +87,3 @@ The phenology differs between native and introduced ranges: in California, growt
 This shifted phenology may allow the invader to exploit seasonal niches with reduced competition from native species.
 
 ## Economic and Cultural Significance
-
-In Japan and Korea, *S. horneri* is commercially harvested for human consumption as a food product known as *hijiki* or *wakame-like* seaweed.
-
-The harvested biomass is also processed for alginate extraction, used in food additives, pharmaceuticals, and industrial applications.
-
-The species is rich in fucoidan, alginate, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] with demonstrated antioxidant, antiviral, and anti-inflammatory properties.
-
-Annual harvest in East Asia exceeds 100,000 metric tons from both wild collection and aquaculture production.
-
-In Korea, aquaculture of *S. horneri* is practiced using seeded rope culture in coastal waters.
-
-Nutritional analysis shows the species contains significant levels of dietary fiber, minerals (calcium, magnesium, iron), and polyunsaturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
-
-In California and Mexico, the invasive populations create economic costs from beach cleanup operations and impacts on tourism and recreation.
-
-Management costs for invasive *S. horneri* in southern California have been estimated at millions of dollars annually.
-
-## Management
-
-Control of invasive populations focuses on early detection, manual removal, and prevention of further spread.
-
-Dive teams and volunteer networks conduct periodic removal events in heavily infested areas along the California coast.
-
-Chemical and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] methods are not currently available for marine macroalgal invasions.
-
-Prevention strategies include monitoring hull fouling on vessels and ballast water management in ports within the introduced range.
-
-In its native range, overharvesting has led to declines in some regions, prompting aquaculture development and harvest regulations.
-
-Restoration of native kelp forests in invaded areas has been attempted through kelp outplanting combined with *S. horneri* removal.
-
-The species' capacity for rapid growth and prolific reproduction makes complete eradication in introduced regions unlikely.
-
-Long-term management aims to reduce impacts to acceptable levels rather than eliminate the species entirely.
-
-## See Also
-
-- [[sargassum-fusiforme]]
-- [[chondrus-crispus]]
-- [[kappaphycus-alvarezii]]
-- [[saccharina-latissima]]
-- [[pyropia-yezoensis]]

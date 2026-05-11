@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,13 +88,3 @@ The connection between Fukuoka's [[holzer-livestock-philosophy-paddock-system]] 
 5. Soil health is the foundation — building rich, living soil through natural mulching and decomposition rather than imported fertilizers.
 6. Seed balls (tsuchi dango) allow natural dispersal and germination without tilling or transplanting.
 7. The interplay between ground cover plants, crops, and trees creates a multi-layered productive system.
-8. Success in natural farming comes from long-term patience and trust in ecological processes rather than quick technological fixes.
-9. Fukuoka demonstrated that yields comparable to or exceeding conventional methods are achievable through natural farming practices.
-10. The philosophy extends beyond agriculture to encompass a broader relationship between humans and the natural world.
-
-## Practical Applications
-
-## See Also
-
-Related topics in this wiki include: .
-- [[fukuoka-orchard-soil-building-without-fertilizers]]

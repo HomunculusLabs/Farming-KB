@@ -5,25 +5,26 @@ tags: [fukuoka, natural-farming, bamboo, wood-preserve, shelterbelt, soil-fertil
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 # Bamboo Groves and Wood Preserves for Soil Fertility
 
-Fukuoka regarded the woods and bamboo groves surrounding a natural farm as
+Fukuoka regarded the woods and bamboo groves surrounding a [[fukuoka-creating-natural-farm-site-selection-establishment]] as
 essential infrastructure for long-term, totally fertilizer-free cultivation.
 The basic strategy for achieving permanent soil fertility on a natural farm
-is to create deep, rich soil through the integrated management of forested
+is to create deep, rich soil through the [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] of forested
 areas, bamboo groves, and shelterbelts that serve as both direct and indirect
-sources of [[hamilton-composting-and-organic-matter-management]] and biological diversity.
+sources of [[hamilton-composting-and-organic-matter-management]] and [[fungi-convention-on-biological-diversity]].
 
 ## The Preserve as Fertility Source
 
 The woods surrounding a natural farm should be treated as a natural preserve
 and used as a direct or indirect source of [[complete-organic-fertilizer-cof-recipe-solomon]]. There are
 several methods for building deep, fertile soil: direct burial of coarse
-organic matter deep in the ground; gradual soil improvement by planting
+[[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] deep in the ground; gradual soil improvement by planting
 grasses and trees that send roots deep into the soil; and enrichment of the
 farm by carrying nutrients built up in the humus of upland woods downhill
 with rainwater or by other means.
@@ -38,9 +39,9 @@ this purpose.
 Although the main function of a preserve is to serve as a deeply verdant
 natural wood, it should also include companion trees that enrich the soil,
 timber trees, trees that supply food for birds and animals, and trees that
-provide habitat for the natural enemies of insect pests. This multi-function
+provide habitat for the natural enemies of [[duggar-mushroom-insect-pests-and-fungal-diseases]]. This multi-function
 design ensures that the preserve contributes to the farm in multiple ways:
-soil building, pest control, biodiversity, and microclimate regulation.
+soil building, [[hamilton-beneficial-insects-and-biological-pest-control]], biodiversity, and microclimate regulation.
 
 ## Establishing a Wood Preserve
 
@@ -87,50 +88,9 @@ an annual basis.
 Shelterbelts and windbreak trees are valuable not only for preventing wind
 damage but also for maintaining soil fertility and environmental improvement.
 Fast-growing trees commonly planted for this purpose include cedar, cypress,
-acacia, and the camphor tree. Slower-growing but equally useful species
-include camellia, the umbrella tree, wax myrtle, and Chinese anise. In some
-places, evergreen oaks, holly, and other trees are also used.
-
-Windbreaks serve multiple ecological functions: they reduce wind speed at
-ground level, decreasing soil erosion and moisture loss; they create
-microclimates that benefit both crops and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]; they provide
-habitat for birds that control insect pests; and their leaf litter contributes
-to soil organic matter.
-
-## Bamboo Grass and Ecological Cascades
-
-Fukuoka also observed the ecological role of bamboo grass (sasa) in forest
-ecosystems. When pine forests die due to pollution-related disease, thickets
-of bamboo grass rise up in their place. Mice feed on the abundant bamboo
-grass berries and multiply. The mice then attack cedar saplings, leading
-people to apply rodenticide. But as mice vanish, a decline occurs in the
-weasels and snakes that feed on them.
-
-This cascade illustrates Fukuoka's principle of non-causality: each
-intervention triggers a chain of consequences that creates new problems
-requiring further intervention. The bamboo grass itself is neither good nor
-bad; it is simply the vegetation that naturally succeeds dying pines. The
-problem arises from human attempts to manage the situation through
-fragmented, cause-and-effect thinking rather than holistic understanding.
-
-## Integration with the Complete Natural Farm
-
-The wood preserve, bamboo grove, and shelterbelt are not optional additions
-to a natural farm but integral components. Fukuoka's [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-design placed the wood preserve uphill from the orchard and garden so that
-rainwater carries nutrients and organic matter from the forest humus down to
-the cultivated areas.
-
-This gravity-fed fertility system requires no hauling, no composting, and no
-[[cervantes-fertilizer-application-strain-feeding]]. The forest builds soil, the rain moves it, and the
-crops benefit. The bamboo grove provides supplementary organic matter for
-trench composting when additional soil building is needed. The shelterbelts
-protect the entire system from wind damage while contributing their own leaf
-litter to the nutrient cycle.
 
 ## See Also
 
-- [[fukuoka-textdoc-farm-establishment-site-selection-soil-prep]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-textdoc-greening-deserts-plant-irrigation]]
-- [[fukuoka-textdoc-pine-forest-ecosystem-collapse-chain]]
+- [[fukuoka-textdoc-natural-form-fruit-trees]]
+- [[fukuoka-textdoc-natural-order-microbial-ecology]]
+- [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]

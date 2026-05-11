@@ -6,6 +6,7 @@ type: concept
 tags: [permaculture, construction, sustainability]
 sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Renewability Versus Durability in the Built Environment
 Source: [[david-holmgren]], Permaculture: Principles and Pathways Beyond
@@ -87,64 +88,3 @@ free-range system. Each season's shelter was allowed to compost, and
 next year's house was built in a fresh location.
 This was a much simpler way to minimise disease risk than maintaining
 hygiene in expensive, climate-controlled, high-tech, permanent
-buildings. See [[pig-husbandry]] and [[straw-bale-construction]] for
-related approaches.
-
-## When Renewability Beats Durability
-
-Conditions that suggest the relative merit of the renewable approach:
-
-- A low-input renewable resource (such as a forest) can grow
-  replacement materials in less time than decay or degradation of
-  function demands replacement; for instance, saplings or bamboo for
-  bean poles
-- The process of replacement can be easily done without disruption of
-  other elements of the system; for instance, replacing house cladding,
-  compared with replacing the structural frame
-- Novel design conditions and high degrees of uncertainty reduce the
-  possible value of durable solutions; for instance, urban squatter
-  settlements without land tenure
-- The solution is only required to address an ephemeral or occasional
-  need; for instance, tarpaulin covers for storage of bumper grain
-  harvests on farms
-
-## Stewart Brand's Six S's of Buildings
-
-In How Buildings Learn, Stewart Brand provides a key concept for
-working out how to combine durable and renewable approaches. The Six
-S's of buildings, from the most permanent to the most ephemeral, are:
-
-- Site
-- Structure
-- Skin
-- Services
-- Space plan
-- Stuff
-
-By not embedding the ephemeral aspects of buildings in their more
-permanent structure, we maintain flexibility for current and future
-users of the building to adapt it to their needs. This approach is well
-established in the design of modern commercial buildings, but it could
-be usefully applied to domestic architecture, and more broadly as a
-strategy for managing change in the built environment.
-The idea that buildings and their uses change over time by organic
-processes contrasts with the concept of a fixed sculptural art piece
-that informs many in the architecture profession.
-
-## Applying the Framework to Permaculture Design
-
-The renewability-versus-durability framework has direct implications
-for [[permaculture-farm-design-principles]]. When designing farm
-infrastructure, consider the lifecycle of each component separately:
-**Permanent elements** (site, structure) deserve maximum investment in
-quality materials and thoughtful design. Foundations, earthworks, and
-key structural elements should be built to last generations using
-[[building-with-natural-materials]] like stone, rammed earth, or durable timber species.
-**Intermediate elements** (skin, services) should use durable but
-replaceable materials. Roofing, plumbing, and fencing fall into this
-category. Design them for easy access and replacement so that upgrades
-or repairs do not require demolition of more permanent layers.
-**Ephemeral elements** (space plan, stuff) should embrace the
-renewable strategy entirely. Interior layouts, tool storage, seasonal
-covers, and temporary structures change frequently and should use the
-simplest, most renewable materials available. This includes bamboo

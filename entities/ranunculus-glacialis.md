@@ -20,7 +20,7 @@ sources:
 
 Ranunculus glacialis, the glacier buttercup or glacier crowfoot, is a herbaceous perennial in the family Ranunculaceae. It holds the distinction of being the highest-altitude flowering plant in Europe, recorded at 4,275 meters on the Finsteraarhorn in the Swiss Alps.
 
-The species is an arctic-alpine specialist, found in both high-arctic tundra and alpine zones of European mountain ranges. Its ability to flower and set seed in some of the harshest environments on Earth makes it a model organism for cold-climate plant physiology.
+The species is an arctic-alpine specialist, found in both high-arctic tundra and alpine zones of European mountain ranges. Its ability to flower and set seed in some of the harshest environments on Earth makes it a [[canary-grass-phototropism-model-organism]] for cold-climate plant physiology.
 
 Flowers are large relative to the plant's compact stature, with 5–8 creamy-white petals often tinged pink or purple on the reverse. The contrast between the delicate appearance of the flowers and the extreme conditions of their habitat has made this species iconic in alpine botany.
 
@@ -32,7 +32,7 @@ Ranunculus glacialis was described by Carl Linnaeus in Species Plantarum (1753).
 
 The plant forms low, cushion-like rosettes 3–10 cm tall, with leaves that are broadly ovate to reniform, deeply 3–5-lobed, and fleshy. Basal leaves are long-petiolate while stem leaves are sessile and more narrowly divided.
 
-Leaf morphology varies clinally with elevation, with higher-altitude populations producing smaller, more deeply divided leaves. This ecotypic variation reflects adaptive responses to increasing wind exposure and decreasing growing season length.
+[[cannabis-leaf-morphology-and-phyllotaxy]] varies clinally with elevation, with higher-altitude populations producing smaller, more deeply divided leaves. This ecotypic variation reflects adaptive responses to increasing wind exposure and decreasing [[extending-growing-season]] length.
 
 Flowers are solitary or in small cymes of 2–3, each 1.5–3 cm in diameter with 5–8 petals. Petals are white to cream-colored, often suffused with pink or purple, especially in populations at higher elevations.
 
@@ -56,19 +56,19 @@ The species is classified as Endangered on several national red lists, including
 
 The species' inability to migrate upslope fast enough to track climate warming is well documented. In the Alps, the mean annual isotherm has risen approximately 400 meters since 1900, while suitable scree habitat above 4,000 m is scarce.
 
-Population genetic studies reveal low genetic diversity in marginal populations, particularly in the Pyrenees and Carpathians. These isolated populations are at risk of inbreeding depression and reduced adaptive capacity.
+Population genetic studies reveal low [[biodiversity-fungal-genetic-diversity]] in marginal populations, particularly in the Pyrenees and Carpathians. These isolated populations are at risk of [[cervantes-hybrid-vigor-inbreeding-depression]] and reduced adaptive capacity.
 
 ## Ecological Role
 
-Ranunculus glacialis is a pioneer species on recently deglaciated terrain, among the first vascular plants to colonize moraines and glacial outwash. Its presence facilitates soil development by trapping fine particles and contributing organic matter.
+Ranunculus glacialis is a pioneer species on recently deglaciated terrain, among the first vascular plants to colonize moraines and glacial outwash. Its presence facilitates soil development by trapping fine particles and contributing [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 The flowers attract cold-adapted flies (Diptera: Muscidae and Anthomyiidae) and occasional bumblebees at lower elevations. Pollinator visitation rates are low compared to lowland species, resulting in high rates of self-pollination as a reproductive assurance mechanism.
 
-The species serves as a bioindicator for climate change in alpine environments. Phenological monitoring shows that R. glacialis now flowers approximately 2–3 weeks earlier than recorded in historical datasets from the 19th century.
+The species serves as a bioindicator [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]] in alpine environments. Phenological monitoring shows that R. glacialis now flowers approximately 2–3 weeks earlier than recorded in historical datasets from the 19th century.
 
 Seed dispersal is primarily by wind and gravity, with achenes capable of limited secondary dispersal across snow surfaces. The short curved beak on each achene may facilitate animal dispersal via epizoochory on the fur of mountain-dwelling mammals.
 
-Mycorrhizal associations are limited in R. glacialis compared to lowland Ranunculus species, likely due to the sparse fungal communities in alpine soils. The plant relies more heavily on direct nutrient uptake from mineral substrates and snowmelt solutions.
+[[plants-without-mycorrhizal-associations]] are limited in R. glacialis compared to lowland Ranunculus species, likely due to the sparse [[biodiversity-fungi-soil-fungal-communities]] in alpine soils. The plant relies more heavily on direct [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] from mineral substrates and snowmelt solutions.
 
 Herbivory pressure is low in the alpine zone, but rock ptarmigan (Lagopus muta) occasionally graze on the foliage. The protoanemonin content provides some chemical defense against invertebrate herbivores common at lower elevations.
 
@@ -84,37 +84,6 @@ The compact cushion growth form reduces wind exposure and creates a favorable mi
 
 UV-protective flavonoid compounds in leaf tissues shield the photosynthetic apparatus from intense alpine solar radiation. This biochemical adaptation is essential at high elevations where UV-B flux is significantly elevated.
 
-The growing season for Ranunculus glacialis is among the shortest of any perennial plant, typically 6–10 weeks. Rapid development from snowmelt to seed set requires efficient resource allocation and pre-formed flower buds that overwinter below snow cover.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] for Ranunculus glacialis is among the shortest of any perennial plant, typically 6–10 weeks. Rapid development from snowmelt to seed set requires efficient [[mycelial-foraging-resource-allocation]] and pre-formed flower buds that overwinter below snow cover.
 
 Reproductive output is highly variable between years, correlated with snowmelt timing and summer temperature. Warm years produce more flowers and higher seed set, while late snowmelt years may result in complete reproductive failure at the highest-elevation populations.
-
-## Cultivation and Conservation
-
-Ranunculus glacialis is extremely difficult to cultivate and is rarely found outside specialist alpine collections. It requires precise conditions: cool temperatures, excellent drainage, winter snow cover, and protection from winter wet.
-
-Propagation from seed requires cold stratification at -5 to 0°C for 8–12 weeks, mimicking alpine winter conditions. Germination rates are low (typically 20–30%) and seedlings develop very slowly, taking 3–5 years to reach flowering size.
-
-The species is protected by law in several European countries, including Switzerland, Austria, and Italy. Collection from wild populations is prohibited throughout most of its range.
-
-In Switzerland, R. glacialis is included in the national list of protected plants and may not be picked or uprooted. The Swiss populations are among the most intensively monitored, with long-term demographic datasets spanning over 50 years.
-
-Climate change poses the primary long-term threat, as warming temperatures compress suitable habitat upward. Alpine habitat loss models project a 40–60% reduction in suitable area for R. glacialis by 2080 under moderate emissions scenarios.
-
-Ex situ conservation efforts include seed banking at the Millennium Seed Bank (Kew) and Svalbard Global Seed Vault. Alpine botanical gardens maintain small cultivated populations as genetic reservoirs.
-
-The species is featured on the Red List of the International Union for Conservation of Nature (IUCN) as Least Concern globally but with declining population trends. The global assessment masks regional extinctions that have already occurred at lower-elevation sites.
-
-Ranunculus glacialis is a flagship species for alpine conservation advocacy. Its vulnerability to climate change makes it a frequent subject in public education campaigns about biodiversity loss in mountain ecosystems.
-
-## See Also
-
-- [[ranunculus-acris]]
-- [[ranunculus-bulbosus]]
-- [[ranunculus-repens]]
-- [[anemone-nemorosa]]
-- [[pulsatilla-alpina]]
-- [[thalictrum-delavayi]]
-- [[helleborus-niger]]
-- [[eranthis-hyemalis]]
-- [[ranunculus-aquatilis]]
-- [[aconitum-napellus]]

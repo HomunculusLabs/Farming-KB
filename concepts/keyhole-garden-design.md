@@ -9,7 +9,7 @@ sources: []
 
 # Keyhole Garden Design
 
-A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive vegetable production in a compact, accessible [[keyhole-bed-design]] design.
+A keyhole garden is a raised, circular garden bed with a central compost basket and a wedge-shaped notch (the "keyhole") that provides access to the center. Originally developed in Africa for drought-prone regions, keyhole gardens combine composting, water conservation, and intensive [[coleman-french-historical-winter-vegetable-production]] in a compact, accessible design.
 
 ## Origin and Purpose
 
@@ -20,7 +20,7 @@ Key advantages of the keyhole design:
 - **Integrated composting:** A central basket continuously feeds the garden with nutrients from kitchen scraps and yard waste
 - **Water efficiency:** The compost basket distributes moisture throughout the bed via wicking action
 - **Accessibility:** The raised bed design reduces bending; the keyhole path provides easy access to the entire bed from one spot
-- **Intensive production:** The circular design maximizes growing area per square foot
+- **[[mollison-designers-market-garden-intensive-production-design]]:** The circular design maximizes growing area per square foot
 - **Soil building:** Continuous composting builds rich, living soil over time
 
 ## Design and Dimensions
@@ -36,7 +36,7 @@ Key advantages of the keyhole design:
 ### Scaling
 
 - **Small keyhole:** 3-4 foot diameter for patios or small spaces
-- **Large keyhole:** 8-10 foot diameter for community gardens (the keyhole path must still reach the center)
+- **Large keyhole:** 8-10 foot diameter for [[gaias-garden-creating-community-gardens]] (the keyhole path must still reach the center)
 - **Multiple beds:** Arrange several keyhole gardens in a cluster with shared pathways
 
 ## Construction
@@ -78,7 +78,7 @@ The layered fill approach is essential to keyhole garden success:
 - **Organic matter layer (middle):** Spongy material that retains moisture, feeds worms and microbes, continues to break down
 - **Soil-compost layer (top):** The active growing medium. Rich, loose, and biologically active. This is where plant roots establish.
 
-As the lower layers decompose over months and years, the bed will slowly settle. Add more organic matter and compost to maintain the soil level.
+As the lower layers decompose over months and years, the bed will slowly settle. Add more [[savory-soil-organic-matter-and-decomposition-dynamics]] compost to maintain the soil level.
 
 ## Planting
 

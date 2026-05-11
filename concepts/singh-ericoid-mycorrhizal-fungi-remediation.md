@@ -88,18 +88,3 @@ sites contaminated with both organic and inorganic pollutants.
 ## Research Gaps and Future Directions
 
 The bioremediation potential of ericoid mycorrhizal fungi remains
-largely underexplored compared to arbuscular and ectomycorrhizal types.
-More research is needed on the range of pollutants degraded by these
-fungi, the optimization of inoculation protocols for remediation
-applications, and the molecular mechanisms underlying their metal
-tolerance. The identification and characterization of additional
-ericoid [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] species beyond Hymenoscyphus ericae would
-expand the toolkit available for bioremediation. Metagenomic and
-metatranscriptomic approaches could reveal the full enzymatic potential
-of ericoid mycorrhizal communities in contaminated environments.
-
-## See Also
-
-- [[ectomycorrhizal-mushroom-fruiting-ecology]]
-- mycoremediation-chemical-warfare-agents
-- [[fungal-indicators-soil-quality-ecosystem-health]]

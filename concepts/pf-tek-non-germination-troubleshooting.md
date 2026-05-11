@@ -1,7 +1,7 @@
 ---
 title: PF TEK Non-Germination Troubleshooting
 created: 2026-04-28
-tags: [pf-tek, spore-germination, troubleshooting, inoculation, mycology]
+tags: [pf-tek, spore-germination, troubleshooting, inoculation, [[mycology]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -26,7 +26,7 @@ Under proper conditions, [[growing-gourmet-spore-germination-strain-isolation]] 
 temperature is maintained around 70 degrees Fahrenheit.
 Germinating spores appear as small white fuzzy spots that quickly grow and spread with
 cottony white growth and strandy rhizomorphs. The rhizomorphs are thread-like
-structures that indicate healthy, vigorous colonization and signal that the mycelium
+structures that indicate healthy, vigorous colonization and signal that the [[mycelium]]
 is actively seeking nutrients throughout the substrate.
 If no growth is observed after 7 to 10 days, non-germination should be suspected and
 the following diagnostic factors investigated systematically.
@@ -79,7 +79,7 @@ speed colonization, but fewer jars can be inoculated per syringe.
 Inoculating jars that have not fully cooled after [[pf-tek-steam-sterilization-pot-method-common-pottery]] will kill the
 spores on contact. The jars must be cool to the touch before any inoculation is
 attempted.
-After steam sterilization for an hour, the jars should be allowed to sit with the
+After [[growing-gourmet-atmospheric-steam-sterilization]] for an hour, the jars should be allowed to sit with the
 lids tightened until they reach ambient room temperature. Rushing this step is a
 frequent beginner mistake that results in complete failure of the entire batch.
 
@@ -88,59 +88,3 @@ frequent beginner mistake that results in complete failure of the entire batch.
 After the steaming cycle is complete, the jars remain very hot internally. Even
 though the outside of the jar may feel only warm, the dense substrate inside retains
 heat much longer than the glass exterior.
-Touching the outside of the jar is the recommended test, but the cultivator should
-wait well beyond the point where the jar merely feels cool on the surface to ensure
-the interior has also cooled to a safe temperature for spores.
-
-### Prevention
-
-Always verify that jars are completely cool to the touch before proceeding with
-inoculation. If jars were recently sterilized, allow them to sit for at least several
-hours in a draft-free location.
-After cooling, tighten the lids and store them in a cool, draft-free place until
-ready to inoculate. Patience at this stage prevents total loss of the spore
-inoculation.
-
-## Cause 3: Heat Damage During Transit
-
-There is evidence that syringe boxes can be exposed to killing heat during transit,
-though this is described as a very rare occurrence.
-The possibilities include overheated airplane cargo holds during intense heat waves,
-a superheated mail truck parked all day in the sun, or a syringe package allowed to
-sit inside a broiling sun-heated mailbox.
-Any of these scenarios can raise the temperature inside the syringe packaging high
-enough to destroy spore viability completely. The spores are sensitive biological
-entities with defined thermal tolerance limits.
-
-### Prevention
-
-If receiving spore syringes by mail during summer months, consider having them held
-at the post office for pickup rather than delivered to an outdoor mailbox. Track the
-shipment and retrieve it promptly upon arrival.
-Store syringes immediately in a cool, dark place upon receipt. Consider ordering
-during cooler seasons if possible to minimize transit heat risk.
-
-## Cause 4: Extreme Cold Damage
-
-While spore syringes can survive freezing temperatures under normal circumstances,
-extreme low temperatures beyond standard freezing are probably destructive to the
-spores.
-The cellular structures of fungal spores have limits to their cold tolerance, and
-exposure to deep freezing for extended periods can compromise viability permanently.
-
-### Prevention
-
-Store spore syringes in a cool, dark place such as a refrigerator for optimal
-longevity. Avoid exposing syringes to extreme cold such as freezer temperatures or
-winter outdoor conditions during transit.
-A properly stored syringe at cool refrigerator temperatures will remain viable for
-several months to over a year.
-
-## Distinguishing Non-Germination from Halted Growth
-
-It is important to distinguish true non-germination from growth that germinated but
-## Related Concepts
-
-- [[inoculation-technique-and-alcohol-flaming]] for proper inoculation procedure
-- [[pf-tek-canning-jar-lid-configuration]] for lid preparation details
-- [[mushroom-spore-syringe-preparation]] for syringe handling and storage

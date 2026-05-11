@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China." Vol. I.
   - De Smet P.A.G.M. (1997). "The Rational Phytotherapy." Springer.
   - Shaw P.C. et al. (2008). "Molecular markers in Chinese medicinal plant research." Drug Discovery Today 13(9-10): 443-449.
@@ -86,29 +87,3 @@ Modern research has focused on TCS as a payload in immunotoxin conjugates for le
 Trichosanthin is also used in obstetric gynecology in China as a mid-trimester abortifacient. It induces placental trophoblast degeneration through its ribosome-inactivating mechanism.
 
 The fresh root juice is applied topically for mastitis and skin abscesses in folk medicine. This traditional use aligns with the protein's documented antibacterial and anti-inflammatory activities.
-
-## Nutritional Profile
-
-The fresh root contains approximately 70% carbohydrate (primarily starch and mucilage), 5% protein, and 0.5% fat. Mineral content includes potassium (340 mg/100 g), calcium (190 mg/100 g), and iron (5 mg/100 g).
-
-Young fruits are consumed as a vegetable in southern China and [[psilocybe-southeast-asia-pacific]]. The fruit pulp is rich in vitamins A and C and has a mild, sweet flavor suitable for soups and stir-fries.
-
-Seeds are pressed for oil in some regions, producing a drying oil used in traditional soap-making and as a lubricant. The residual seed meal after oil extraction serves as animal feed.
-
-## Related Species
-
-Trichosanthes rosthornii is a closely related species used interchangeably with T. kirilowii in TCM. Its root is smaller but contains comparable levels of trichosanthin.
-
-Trichosanthes dioica (pointed gourd, parwal) is cultivated across South Asia as a vegetable crop. It produces smaller fruits with a distinct flavor and has limited pharmacological study.
-
-Trichosanthes cucumerina (snake gourd) is widely grown in tropical Asia for its long, serpentine fruits. It shares the characteristic laciniate petals but has a shorter growth cycle and lower trichosanthin content.
-
-## See Also
-
-- [[cucumis-melo]]
-- [[benincasa-hispida]]
-- [[schisandra-chinensis]]
-- [[salvia-miltiorrhiza]]
-- [[glycyrrhiza-glabra]]
-- [[panax-notoginseng]]
-- [[moringa-oleifera]]

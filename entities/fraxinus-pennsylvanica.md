@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Miller, R.O. (1955). "A revision of the Ashes of polypore-fungi-eastern-north-america America." Rhodora, 57(677), 69-95.
-  - Cappert, D. et al. (2005). "Emerald ash borer in North America: a research and regulatory challenge." Journal of Forestry, 103(6), 298-304.
+  - Cappert, D. et al. (2005). "Emerald ash borer in [[guzman-psilocybin-mushrooms-north-america]]: a research and regulatory challenge." Journal of Forestry, 103(6), 298-304.
   - Kennedy, H.E. (1990). "Fraxinus pennsylvanica Marsh." In: Silvics of North America, Vol. 2, USDA Forest Service.
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Hardwoods." USDA Agriculture Handbook 654.
 ---
@@ -49,11 +49,11 @@ Fraxinus pennsylvanica occurs across a vast range in eastern and central North A
 
 The species is most abundant in bottomland hardwood forests, riparian corridors, and alluvial floodplains. It tolerates seasonal flooding and is a characteristic species of the silver maple-green ash association in midwestern floodplains.
 
-Green ash is moderately shade-intolerant, requiring canopy gaps for establishment and rapid early growth. In bottomland forests, it typically establishes after disturbance events that open the canopy.
+Green ash is moderately shade-intolerant, requiring canopy gaps for establishment and rapid [[cervantes-seedling-care-early-growth]]. In bottomland forests, it typically establishes after disturbance events that open the canopy.
 
-Growth rates are relatively fast for a hardwood species, with young trees capable of 60–90 cm of height growth per year on favorable sites. Maximum age is approximately 100–150 years, though exceptional individuals may exceed 200 years.
+[[coleman-sunlight-and-winter-crop-growth-rates]] are relatively fast for a hardwood species, with young trees capable of 60–90 cm of height growth per year on favorable sites. Maximum age is approximately 100–150 years, though exceptional individuals may exceed 200 years.
 
-The species reproduces prolifically from seed, with heavy seed crops occurring at 2–3 year intervals. Seed viability is high, and seeds can persist in the soil seed bank for 2–4 years.
+The species reproduces prolifically from seed, with heavy seed crops occurring at 2–3 year intervals. Seed viability is high, and seeds can persist in the soil [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]] for 2–4 years.
 
 Soil preferences range from silty loams to sandy alluvium, with optimal growth on moist, well-drained bottomland soils. The species tolerates a broad pH range from slightly acidic to moderately alkaline.
 
@@ -79,7 +79,7 @@ The species has been one of the most widely planted shade trees in the [[dmt-con
 
 In the Plains states, green ash was extensively planted in shelterbelts and windbreaks during the Prairie States Forestry Project of the 1930s. Millions of ash trees were established across the Great Plains for soil conservation.
 
-Green ash is also used in ecological restoration and mine reclamation projects. Its rapid growth, flood tolerance, and adaptability to disturbed sites make it valuable for stabilizing degraded riparian corridors.
+Green ash is also used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] and mine [[fukuoka-desert-reclamation-projects]]. Its rapid growth, flood tolerance, and adaptability to disturbed sites make it valuable for stabilizing degraded riparian corridors.
 
 ## Threats and Conservation
 
@@ -88,32 +88,3 @@ The emerald ash borer (EAB) has caused catastrophic mortality of F. pennsylvanic
 Biocontrol programs have released three species of [[comparison-parasitoid-wasps-vs-chemical-pesticides]] (Tetrastichus planipennisi, Oobius agrili, Spathius agrili) targeting EAB. Results have been mixed, with parasitism rates varying significantly by region and stand conditions.
 
 Some individual green ash trees have shown apparent tolerance or resistance to EAB, exhibiting reduced canopy dieback and sustained growth in heavily infested areas. These "lingering ash" are the focus of breeding programs aimed at developing EAB-resistant cultivars.
-
-The species is not currently listed as threatened or endangered due to its vast pre-EAB range and abundance. However, the near-complete elimination of mature ash from forests across the eastern United States represents one of the largest impacts of any invasive species on North American forest composition.
-
-Economic impacts of EAB on urban forests alone are estimated in the billions of dollars, considering tree removal costs, replacement planting, and lost [[biodiversity-of-fungi-ecosystem-services-agriculture]]. The species that replace ash in the canopy are typically less valuable for timber and wildlife.
-
-Research into systemic insecticides has shown promise for protecting individual high-value landscape trees. Trunk injection of emamectin benzoate can provide up to 2–3 years of protection per treatment, but this approach is not feasible at landscape or forest scales.
-
-## See Also
-
-- [[fraxinus-americana]]
-
-- [[syringa-reticulata]]
-
-- [[forsythia-viridissima]]
-
-- [[fraxinus-ornus]]
-
-- [[forsythia-suspensa]]
-- [[jasminum-officinale]]
-- [[ligustrum-vulgare]]
-- [[pinus-sylvestris]]
-- [[juniperus-communis]]
-- [[taxus-baccata]]
-- [[pseudotsuga-menziesii]]
-- [[tsuga-canadensis]]
-- [[abies-grandis]]
-- [[picea-sitchensis]]
-- [[vitis-labrusca]]
-- [[vitis-aestivalis]]

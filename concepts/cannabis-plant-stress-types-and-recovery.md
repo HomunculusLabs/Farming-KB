@@ -87,19 +87,3 @@ Green emphasizes that cannabis is a resilient plant that can recover from most f
 ### 7. pH Stress (Lockout)
 
 **Causes**: pH out of optimal range, preventing [[plant-nutrient-uptake-mechanisms]] despite adequate feeding
-
-**Symptoms**: Nutrient deficiency symptoms that do not improve with feeding. See [[training-cannabis]] and [[cannabis-pest-management-guide]].
-
-### 10. Root Stress
-
-**Causes**: Root-bound conditions, [[cannabis-root-rot-prevention-and-treatment]], over-fertilized roots, poor aeration
-
-**Symptoms**: Overall plant decline, wilting despite adequate water, nutrient deficiency symptoms. See [[cannabis-root-rot-prevention-and-treatment]].
-
-## Beneficial Stress (Intentional)
-
-Some stress techniques are used intentionally to improve yield and plant structure:
-
-- **Low-stress training (LST)**: Bending branches to create even canopy. See [[cannabis-super-cropping-technique]].
-- **Topping/FIMing**: Cutting the apical meristem to promote branching. See [[cannabis-hermaphrodite-prevention-and-management]].
-## Related Topics

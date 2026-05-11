@@ -69,3 +69,19 @@ Oei's work has been widely referenced in both academic and practical [[mushroom-
 - [[william-falconer]] — earlier mushroom cultivation author
 - [[mushroom-substrates]] — substrate preparation details
 - [[straw-cultivation-methods]] — Oei's straw-based methods
+
+## Historical Significance
+
+Peter Oei contributed significantly to the body of
+knowledge in their field, influencing subsequent
+researchers and practitioners. Their work continues
+to be referenced in contemporary studies and remains
+relevant to ongoing discussions in the community.
+
+## See Also
+
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[query-what-are-the-best-mushroom-substrates-for-different-species]]
+- [[allegro-key-of-the-kingdom-and-peter-as-mushroom]]
+- [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]

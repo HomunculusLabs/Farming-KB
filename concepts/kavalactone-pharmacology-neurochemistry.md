@@ -2,21 +2,21 @@
 
 ## Overview
 
-Kava (** (or kavapyrones), which constitute approximately 3–20% of the dry root weight. At least 18 distinct kavalactones have been identified, with six major compounds accounting for roughly 95% of the total lactone content.
+Kava (** (or kavapyrones), which constitute approximately 3–20% of the dry root weight. At least 18 distinct [[kavalactones]] have been identified, with six major compounds accounting for roughly 95% of the total lactone content.
 
 ## Major Kavalactone Compounds
 
 The six principal kavalactones, often abbreviated by a standardized numbering system, are:
 
-1. **Kavain (4-methoxy-2-styryl-α-pyrone)** — The most abundant and widely studied kavalactone. Associated with anxiolytic, analgesic, and muscle relaxant effects. kavain content typically ranges from 30–70% of total lactones in noble kava varieties.
+1. **[[kavain]] (4-methoxy-2-styryl-α-pyrone)** — The most abundant and widely studied kavalactone. Associated with anxiolytic, analgesic, and muscle relaxant effects. kavain content typically ranges from 30–70% of total lactones in noble kava varieties.
 
 2. **Dihydrokavain (DHK)** — The hydrogenated analog of kavain. Contributes to sedative effects and has demonstrated anticonvulsant properties in animal models. Less potent than kavain at GABA-A receptor modulation.
 
-3. **Methysticin** — A methylenedioxy-substituted kavalactone with notable psychotropic effects. Inhibits monoamine oxidase B (MAO-B) at micromolar concentrations, potentially contributing to mood-elevating effects. Also shows significant P450 ials and is standardized to 70% kavalactones from noble cultivar sources. The move toward chemotype-specified extracts represents an important quality control advancement over generic "kava root extract" products.
+3. **Methysticin** — A methylenedioxy-substituted kavalactone with notable psychotropic effects. Inhibits monoamine oxidase B (MAO-B) at micromolar concentrations, potentially contributing to mood-elevating effects. Also shows significant P450 ials and is standardized to 70% kavalactones from noble cultivar sources. The move toward chemotype-specified extracts represents an important [[blesching-cannabis-contaminants-testing-quality-control]] advancement over generic "kava root extract" products.
 
 ## [[ayahuasca-drug-interactions]] and Contraindications
 
-Kava's P450 enzyme inhibition profile creates clinically significant drug interactions:
+Kava's P450 [[enzyme-inhibition]] profile creates clinically significant [[ayahuasca-pharmacology-and-drug-interactions]]:
 
 - **CYP2C19 substrates**: Diazepam, omeprazole, phenytoin — increased plasma concentrations and prolonged effects
 - **CYP3A4 substrates**: Alprazolam, simvastatin, certain antiretrovirals — dose adjustment may be required
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -88,24 +88,3 @@ better results with each iteration of practice and experimentation.
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-- [[turner-multiple-combinations-specific-reports]]
-- [[ingham-aact-disease-case-studies-specific-pathogens]]
-- [[ingham-aact-disease-suppression-through-food-competition]]
-- [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
-- [[jadam-local-material-resource-cycling]]

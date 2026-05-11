@@ -29,8 +29,8 @@ expansion.
 
 In fungal systems, the analogous mechanism likely involves modification of
 chitin and beta-glucan networks in the cell wall, which are the structural
-equivalents of plant cellulose-hemicellulose matrices. The fungal cell wall
-remodeling process at the hyphal tip requires continuous synthesis and cross-
+equivalents of plant cellulose-hemicellulose matrices. The [[chitin-chitosan-fungal-cell-wall]]
+remodeling process at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]] requires continuous synthesis and cross-
 linking of chitin fibrils and beta-1,3-glucans, and brassinosteroids may
 accelerate this process.
 
@@ -49,10 +49,10 @@ wall plasticity at the growing hyphal tip.
 
 ### Vesicle Trafficking and Cytoplasmic Streaming
 
-Brassinosteroid treatment increases the rate of cytoplasmic streaming,
+[[annulus-loss-morphological-effect-brassinosteroid-treatment]] increases the rate of cytoplasmic streaming,
 facilitating delivery of cell wall precursors and [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]] to the
 growing cell surface. Enhanced vesicle trafficking ensures continuous wall
-material deposition during expansion. In fungal hyphae, the Spitzenkorper
+material deposition during expansion. In [[fungal-hyphae]], the Spitzenkorper
 (apical body) is the vesicle supply center that coordinates tip growth, and
 brassinosteroids may enhance vesicle delivery efficiency to this structure.
 
@@ -63,7 +63,7 @@ osmotic gradients needed for turgor-driven expansion through upregulation of
 aquaporin genes and ion transporters. In fungal systems, turgor pressure is a
 critical driver of hyphal tip extension, and brassinosteroid-mediated
 enhancement of osmotic regulation would directly contribute to faster mycelial
-growth rates.
+[[coleman-sunlight-and-winter-crop-growth-rates]].
 
 ## Cell Division
 
@@ -88,62 +88,3 @@ balancing proliferation with differentiation. Loss-of-function mutations in
 brassinosteroid biosynthesis or signaling genes result in reduced meristem size,
 confirming their essential role. Optimal concentrations promote proliferation,
 while excessive concentrations can inhibit growth through feedback
-downregulation.
-
-### Interaction with Other Growth Regulators
-
-Brassinosteroid cell division activity interacts synergistically with auxin
-and cytokinin. Cross-talk occurs at multiple levels, including shared
-transcriptional targets and physical interaction between signaling components,
-allowing coordinated regulation of cell division, elongation, and
-differentiation.
-
-## Evidence from Fungal Systems
-
-The observation that 22S,23S-homobrassinolide dramatically accelerates
-mycelial growth in *Psilocybe cubensis* (2-3 times faster than controls)
-suggests brassinosteroid-mediated promotion of cell elongation and/or division
-operates in fungi. While fungi lack the canonical brassinosteroid receptor
-BRI1, they possess receptor kinases and downstream signaling components that
-could respond to brassinosteroid stimulation.
-
-### Fungal Cell Wall Modification and Hyphal Branching
-
-In fungal mycelia, growth occurs primarily through tip extension, a specialized
-form of polarized cell elongation. Brassinosteroids may promote tip extension
-by enhancing cell wall-modifying enzyme activity. Increased hyphal branching,
-analogous to increased cell division in plants, may also contribute to growth
-promotion. Hyphal branching increases growing tips per unit biomass,
-exponentially accelerating substrate colonization. The combined effect of
-faster tip extension and more frequent branching would produce the 2-3x growth
-acceleration observed by Gartz et al. (1990).
-
-## Physiological Complexity
-
-The growth-promoting activity of brassinosteroids involves complex effects:
-
-- **Increased biomass accumulation**: Coordinated promotion of cell expansion
-  and proliferation, leading to greater dry mass per unit substrate
-- **Enhanced [[fungal-lichen-stress-tolerance-and-poikilohydry]]**: Resistance to drought, salinity, and
-  temperature extremes
-- **Modulation of reproductive development**: Effects on flowering, fruit/seed
-  set in plants, and fruiting body formation in fungi
-- **Altered source-sink relationships**: Redirected assimilate partitioning
-  favoring growth over storage
-
-## Agricultural Significance
-
-Brassinosteroid application increases crop yields, improves stress resistance,
-and enhances plant vigor. Extremely low effective concentrations (parts per
-billion) make them attractive as plant growth regulators. The Gartz et al.
-(1990) study demonstrated effective promotion at 10 ppb, consistent with
-ultra-low effective doses in plant systems. Cross-kingdom activity raises the
-possibility of applications in fungal biotechnology and [[accessible-mushroom-cultivation-for-disabilities]].
-
-## Key References
-
-- Gartz J, Adam G, Vorbrodt HM. Growth-Promoting Effect of a Brassinosteroid
-## See Also
-- [[brassinosteroid]]
-- [[homobrassinolide]]
-- [[brassinosteroids]]

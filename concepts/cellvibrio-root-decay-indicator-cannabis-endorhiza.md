@@ -1,5 +1,5 @@
 ---
-title: Cellvibrio as Root Decay Indicator in Cannabis Endorhiza
+title: Cellvibrio Root Decay Indicator Cannabis Endorhiza
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [microbiology, cannabis, root-decay, cellvibrio, endorhiza, cellulolytic-bacteria, microbiome, sampling-methodology]
 ---
@@ -8,7 +8,7 @@ tags: [microbiology, cannabis, root-decay, cellvibrio, endorhiza, cellulolytic-b
 
 ## Overview
 
-In the Winston et al. (2014) study of the [[cultivar-cannabis-microbiome-two-tier-selection-model]], the aerobic cellulolytic bacterium *Cellvibrio* appeared as a dominant member of the endorhiza community in the first experiment, comprising up to 16.9% of taxonomy-assigned reads. This unexpectedly high abundance was traced to post-harvest root decay rather than genuine endophytic colonization, making *Cellvibrio* a useful biomarker for distinguishing between active root endosphere communities and those undergoing senescence and decomposition.
+In the Winston et al. (2014) study of the [[cultivar-cannabis-microbiome-two-tier-selection-model]], the aerobic cellulolytic bacterium *Cellvibrio* appeared as a dominant member of the [[proteobacteria-dominance-cannabis-endorhiza-community]] in the first experiment, comprising up to 16.9% of taxonomy-assigned reads. This unexpectedly high abundance was traced to post-harvest root decay rather than genuine endophytic colonization, making *Cellvibrio* a useful biomarker for distinguishing between active root endosphere communities and those undergoing senescence and decomposition.
 
 ## Cellvibrio Biology
 
@@ -72,13 +72,13 @@ This dramatic difference established *Cellvibrio* as a reliable indicator distin
 
 ## Implications for the Two-Tier Selection Model
 
-The presence of *Cellvibrio* in the first experiment's "core" endorhiza community had the potential to confound interpretation of the two-tier selection model. Under normal conditions, the core endorhiza community of Cannabis is dominated by well-known endophytic bacteria within Gammaproteobacteria and Alphaproteobacteria, including Pseudomonas, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of *Cellvibrio*, all prevalent members of the core endorhiza community are well-documented endophytic bacteria, consistent with observations from other plant systems such as Populus deltoides.
+The presence of *Cellvibrio* in the first experiment's "core" endorhiza community had the potential to confound interpretation of the two-tier selection model. Under normal conditions, the core endorhiza community of Cannabis is dominated by well-known [[endorhiza-endophytic-bacteria]] within Gammaproteobacteria and Alphaproteobacteria, including Pseudomonas, Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. With the exception of *Cellvibrio*, all prevalent members of the core endorhiza community are well-documented endophytic bacteria, consistent with observations from other plant systems such as [[populus-deltoides]].
 
 *Cellvibrio*'s appearance as a dominant member masked this true endophytic community in the first experiment. When post-harvest root decay was accounted for, the genuine cultivar-specific endophytic signal became clearer, and the core community aligned with expectations from the broader plant microbiome literature. This finding illustrates how a single taxon with strong functional relevance to the sampling conditions can disproportionately influence community-level analyses and lead researchers to incorrect conclusions about the nature of plant-microbe interactions if sampling artifacts are not recognized.
 
 ## Methodological Implications
 
-The *Cellvibrio* finding carries important lessons for plant microbiome study design:
+The *Cellvibrio* finding carries important lessons for plant [[winston-cannabis-microbiome-study-design]]:
 
 1. **Timing is critical**: Sampling time relative to plant physiological state dramatically affects [[core-endorhiza-bacterial-community-composition-cannabis]]. Post-harvest root samples may reflect decomposition communities rather than the living endorhiza. The eight-week gap between harvest and sampling in the first experiment was sufficient to fundamentally alter the endorhiza community profile.
 
@@ -86,39 +86,4 @@ The *Cellvibrio* finding carries important lessons for plant microbiome study de
 
 3. **Interpretation caution**: Apparent "core" community members identified in post-harvest samples may be artifacts of decay rather than genuine plant-microbe symbionts. Cross-referencing with active-plant datasets is essential for validating core community assignments.
 
-4. **Growth stage as confounder**: The extensive literature demonstrating the importance of plant growth stage on the rhizosphere microbiota is reinforced by this finding. Plant-soil feedbacks identified in structuring below-ground microbial communities are themselves subject to change as plant physiology shifts.
-
-5. **Core community validation**: The presence of a known saprotroph like *Cellvibrio* in a putative "core endophyte" list should trigger reassessment of the sampling conditions that generated that list.
-
-## Broader Relevance to Root Microbiome Studies
-
-The *Cellvibrio* phenomenon is not unique to Cannabis. In many plant microbiome studies, root samples are collected at varying time points relative to harvest, and the transition from active metabolism to senescence creates a gradient of community change that can obscure genuine plant-microbe interaction signals. The Cannabis study provided an unusually clear demonstration of this effect because the two experiments sampled at diametrically opposite points in the plant lifecycle (eight weeks post-harvest versus two weeks pre-harvest), making the decay signal unambiguous.
-
-### Parallel Examples in Other Crop Systems
-
-Similar post-harvest enrichment of cellulolytic bacteria has been documented in maize, wheat, and rice root microbiome studies, though rarely interpreted as explicitly as in the Cannabis work. In maize, for instance, *Cellvibrio* and related *Cellvibrionaceae* have been reported as enriched in root endosphere samples collected at maturity, leading some researchers to erroneously classify them as late-stage symbionts rather than decay opportunists. The Cannabis study's value lies partly in having a paired comparison (two experiments, same cultivars, different sampling points) that made the decay interpretation unavoidable rather than speculative.
-
-### Implications for Metagenomic Functional Profiling
-
-The shift toward *Cellvibrio* dominance also has consequences for functional gene profiling of root microbiome datasets. Cellulolytic bacteria carry distinct genomic signatures — particularly glycoside hydrolase families involved in cellulose degradation — that can inflate functional pathway annotations related to carbohydrate metabolism in post-harvest samples. Researchers performing shotgun metagenomics on root samples should be aware that apparent enrichment of plant cell wall [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]] may reflect tissue decay rather than an active plant-microbe metabolic exchange.
-
-For researchers designing future studies, the lesson is clear: sample root endorhiza communities during active growth wherever possible, and if post-harvest sampling is necessary, account for the expected shift toward cellulolytic and saprotrophic organisms in data interpretation.
-
-## Persistence of Cultivar-Specificity Despite Decay
-
-A notable and somewhat surprising finding was that cultivar-specificity in the [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]] was still detectable in the first experiment despite the confounding effect of root decay. The rhizosphere effect may have been diminished by the loss of active root exudation, but the underlying cultivar-driven selection of endophytes persisted for weeks after harvest. This suggests that plant genotype imprints a relatively durable signature on the root microbiome that outlasts active plant metabolism.
-
-The mechanism behind this persistence may involve the physical and chemical modification of the root interior by the original endophyte community. Once established, endophytic bacteria may alter the root tissue environment — modifying pH, depositing biofilms, consuming specific substrates, or producing antimicrobial compounds — in ways that maintain community structure even after the plant stops actively regulating the niche. This "legacy effect" has implications for crop rotation and [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], as the microbial signature of a previous crop may persist in root tissue debris and influence the microbiome of subsequently planted cultivars.
-
-The observation that alpha diversity in the first experiment's endosphere was greatly reduced compared to the second experiment (chao1: 916.1 versus 1374-1413) is also consistent with root decay selectively promoting a narrow range of decay-adapted organisms while the broader endophyte community diminishes. The post-harvest endosphere thus represents a community in transition — retaining some cultivar-specific signal while being progressively overtaken by generalist decomposers.
-
-## See Also
-
-- [[cannabis-microbiome-two-tier-selection]] — The two-tier selection model that Cellvibrio abundance initially confounded
-- [[cannabis-endorhiza-microbiome]] — Overview of Cannabis endorhiza community structure
-- [[two-tier-selection-model-plant-microbiome]] — General model for root microbiome assembly
-- [[core-endorhiza-bacterial-community-composition-cannabis]] — Core community members excluding Cellvibrio
-- [[proteobacteria-dominance-cannabis-endorhiza-community]] — Proteobacterial enrichment in Cannabis roots
-- [[cannabis-microbiome-cultivar-specificity]] — Cultivar-specific endorhiza communities
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] — Diversity reduction from soil to endorhiza
-- [[cannabis-microbiome-experimental-design]] — Experimental methodology for both Cannabis microbiome experiments
+4. **Growth stage as confounder**: The extensive literature demonstrating the importance of plant growth stage on the rhizosphere microbiota is reinforced by this finding. Plant-soil feedbacks identified in structuring below-ground [[cannabis-rhizosphere-microbial-communities]] are themselves subject to change as plant physiology shifts.

@@ -1,5 +1,5 @@
 ---
-title: mollison designers earth building cob adobe rammed earth - Cob, Adobe, Rammed Earth
+title: Mollison Designers Earth Building Cob Adobe Rammed Earth
 created: 2026-04-28
 tags:
   - natural-building
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -37,7 +38,7 @@ require different ratios:
 - **Earth bags:** Wide tolerance; sandy soils work well with cement
   or lime stabilization.
 
-Mollison recommends simple field tests: the jar test for particle size
+Mollison recommends simple field tests: the [[solomon-soil-profile-assessment-fractional-analysis-jar-test]] for particle size
 distribution, the ball test for plasticity (forms a ball without
 cracking), the ribbon test for clay content, and the shrinkage test on
 dried bricks. If local soil is unsuitable, blending two soil sources
@@ -51,7 +52,7 @@ straw fiber is mixed by foot on a tarp and applied in layers (courses)
 onto a stone or concrete stem wall. Each course is allowed to partially
 dry before the next is added. Walls are typically 500-700mm thick.
 
-Cob walls are sculptural -- builders can shape niches, shelves, curved
+[[query-what-is-the-best-natural-plaster-for-earthship-or-cob-walls]] are sculptural -- builders can shape niches, shelves, curved
 walls, and built-in furniture directly into the structure. The
 addition of long straw fibers (100-300mm) creates tensile strength
 that resists cracking. Mollison notes cob's suitability for [[passive-solar-design]] for integration strategies.
@@ -62,7 +63,7 @@ Earth bag (superadobe) construction fills polypropylene or natural
 fiber bags with damp earth or sand, laying them in courses like
 overlapping bricks. Barbed wire between courses provides tensile
 bonding. The system was developed by Nader Khalili and adopted widely
-in permaculture building.
+in [[permaculture-building-design]].
 
 Earth bags excel for dome structures, retaining walls, and emergency
 shelter. They require no foundation in some cases and can use nearly
@@ -87,13 +88,3 @@ rising damp. Stabilization options include:
 
 Mollison emphasizes that earth [[natural-building-materials-guide]] come directly from
 the building site, creating zero-transport construction. Earthen walls
-decompose back to soil at [[powell-psilocybin-end-of-life-anxiety]]. The thermal mass of earth
-buildings synergizes with [[mollison-designers-straw-bale-building-techniques]] for hybrid insulated-mass walls.
-Earthen structures serve as [[food-forest-design]] boundary walls in broader
-permaculture site designs.
-
-## See Also
-
-- [[mollison-designers-straw-bale-building-techniques]]
-- [[permaculture-design]]
-- sustainable architecture

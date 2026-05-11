@@ -13,14 +13,14 @@ tags: [gardening, soil]
 Rule #18 of the soil food web approach is unequivocal: rototilling and excessive
 soil disturbance destroy or severely damage the soil food web. They are
 outmoded practices that should be abandoned in established garden beds. This
-represents a major shift even for many organic gardeners who have long advocated
+represents a major shift even for many [[soil-food-web-and-building-living-soil]] who have long advocated
 tilling and double-digging as ways to incorporate organics into soil.
 
 ## How Tilling Damages Soil
 
 Tilling causes cascading damage to the soil ecosystem:
 
-- **Destroys fungal networks:** It completely chops up the miles of fungal
+- **Destroys [[teaming-with-microbes-tilling-damage-to-fungal-networks]]:** It completely chops up the miles of fungal
   hyphae that exist even in bacterially dominated soils. Breaking up fungal
   networks reverses years of [[holmgren-ecological-succession-and-pulsing]], converting fungally
   dominated soils to bacterial ones.
@@ -35,8 +35,8 @@ Tilling causes cascading damage to the soil ecosystem:
   triggering germination and increasing weed pressure.
 - **Kills earthworms and macrofauna:** Physical disruption kills or displaces
   larger soil organisms.
-- **Releases trapped carbon:** Disturbance releases carbon dioxide from
-  soil organic matter that took years to accumulate.
+- **Releases trapped carbon:** Disturbance releases [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] from
+  [[knf-leaf-mold-humus]] that took years to accumulate.
 
 ## Historical Context
 
@@ -64,7 +64,7 @@ Soil food web gardening requires minimal soil disturbance:
   plants or seed. Lightly pull a hoe or board corner along a row and plant
   in the limited disturbed wake, backfilling with bacterially dominated
   compost.
-- **Weed suppression:** Fewer weeds result because soil is not opened up and
+- **[[hamilton-geoffhamilton-nick-organic-gardening-mulching-and-weed-suppression]]:** Fewer weeds result because soil is not opened up and
   weed seeds are not exposed to the light required for germination.
 - **Exception:** The one exception to the no-dig principle is when
   establishing a vegetable or annual garden in already fungally dominated
@@ -81,57 +81,10 @@ If you feed them, they shall come:
 - **Organic microbe food:** Use any [[complete-organic-fertilizer-cof-recipe-solomon]] with all three NPK
   numbers below 10 to ensure fragile fungi are not killed. Apply in the
   root zone when planting or side-dress before mulching.
-- **Compost tea:** Apply bacterially dominated teas as both soil drench and
+- **[[actively-aerated-compost-tea]]:** Apply bacterially dominated teas as both soil drench and
   foliar spray to prevent disease and keep microbial populations high.
 - **Autumn amendments:** Add organics in autumn so bacteria begin breaking
   them down before spring planting. Nitrogen tie-up at the soil-mulch
   interface, if it occurs, will be over by spring.
 - **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] helpers:** Apply protozoa soup as a soil drench to
   increase nutrient recycling. Wash down bacterial food applications with
-  protozoa soup immediately. Good compost and compost tea remain the most
-  economical way to increase nutrient-cycling nematode populations.
-
-## Mycorrhizal Benefits in No-Till
-
-Following soil food web practices ensures mycorrhizal fungi work in your
-gardens. The longer the season, the bigger their role. Always mix
-endomycorrhizal fungi with annual and vegetable seeds at planting or apply to
-roots at transplanting. Brassicaceae (cabbage family) and Chenopodiaceae
-(spinach, beets) do not form mycorrhizal associations.
-
-## Attracting Earthworms
-
-Once chemicals are stopped, earthworms will appear. Apply a few inches of
-bacterially dominated compost in early fall and use bacterially dominated
-compost tea as a soil drench. Failure to attract worms signals a need to
-increase bacteria and protozoa populations. Worms can be added directly to
-speed the process.
-
-## Weed Management Without Tilling
-
-Mulches are the primary weed prevention tool. At the mulch-soil interface,
-biology ties up the nitrogen, phosphate, and sulfur that weeds need to
-germinate and grow. Combined with lack of light and a physical barrier,
-weeds face a triple obstacle. A 2-3 inch layer of bacteria-supporting mulch,
-applied before weeds appear and kept away from plant stems, effectively
-suppresses weeds without chemicals or tilling. Avoid herbicides; if used,
-take remedial action using all three soil food web tools to restore biology.
-
-## Long-Term Benefits
-
-- Improved soil structure from intact fungal hyphae and worm tunnels
-- Better water retention and drainage from stable soil aggregates
-- Reduced weed pressure from undisturbed seed banks and mulch barriers
-- Higher microbial diversity including fungi needed for aggregation
-- [[dighton-mycorrhizal-networks-carbon-transfer]] preserved for better nutrient and water access
-- Less gardener labor -- no annual rototilling required
-- Proper nutrient cycling without [[cervantes-chemical-fertilizers-guide]]
-- No dangerous chemicals leaching into water tables
-
-## See Also
-
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[teaming-with-microbes-cover-crops-soil-health]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-compost-mulch-tea]]
-- [[teaming-with-microbes-mycorrhizal-associations]]

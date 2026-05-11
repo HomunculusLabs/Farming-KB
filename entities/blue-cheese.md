@@ -42,18 +42,18 @@ recognizable bouquet.
 ## Lineage
 
 - **Female parent:** UK Cheese (Skunk #1 phenotype selected for intense cheese-like
-  terpene profile, originating from underground UK clone-only circles)
+  [[cannabis-terpene-profile]], originating from underground UK clone-only circles)
 - **Male parent:** Blueberry (DJ Short breeding, indica-dominant, sweet berry flavors
   and purple coloration; 2000 Cannabis Cup winner)
 
 The cross was stabilized over several generations, with selection focused on combining
 Cheese's skunky pungency with Blueberry's sweetness while maintaining manageable
-flowering time and robust growth.
+[[what-a-plant-knows-photoperiodism-flowering-time-measurement]] and robust growth.
 
 ## Appearance
 
 Medium-to-large, dense buds with chunky, rounded structure typical of indica-dominant
-varieties. Deep forest green with occasional bluish-purple hues inherited from Blueberry,
+varieties. Deep [[trichoderma-forest-green-mold-guide]] with occasional bluish-purple hues inherited from Blueberry,
 especially with cooler nighttime temperatures during late flowering. Orange to rust-colored
 pistils, heavy trichome coverage giving a frosted, crystalline appearance. Resin
 production is abundant, making the strain suitable for hash and concentrate production.
@@ -87,46 +87,3 @@ as breeders selected for higher [[cannabis-glandular-trichome-types-resin-produc
 by contemporary standards.
 
 ## Effects
-
-Onset is rapid, beginning with mild cerebral uplift from the sativa Blueberry genetics.
-This initial head high is brief and quickly transitions into a deep, full-body stone
-with heavy physical relaxation, couch-lock, and a warm, melting sensation in the limbs.
-The body high is long-lasting (2–3 hours) and intensifies with continued use.
-
-Common effects: [[blesching-cannabis-deep-relaxation-healing]], euphoria, hunger stimulation, mild cerebral
-stimulation (early), sleepiness (late), body heaviness, pain relief.
-
-## Medical Applications
-
-- **[[cannabis-chronic-pain-management]]:** High myrcene and full-body sedation effective for musculoskeletal
-  pain, neuropathic discomfort, and tension headaches.
-- **Insomnia:** Strong sedative properties at higher doses; common nighttime strain.
-- **Anxiety and stress:** Linalool and myrcene provide anxiolytic effects, though
-  THC-dominant profile may worsen anxiety in sensitive individuals.
-- **Appetite stimulation:** Consistent munchies effect useful for cachexia and nausea.
-- **Muscle spasms:** Antispasmodic effects reported by patients with MS and fibromyalgia.
-
-## Cultivation
-
-- **Flowering time:** 8–9 weeks indoors (56–63 days)
-- **Yield:** 400–500 g/m² indoors; moderate to high outdoor yields
-- **Difficulty:** Easy to moderate — suitable for beginners
-- **Height:** 80–120 cm indoors; responds well to LST and ScrOG
-- **Climate:** Temperate to warm; finishes early October outdoors in Mediterranean zones
-- **Resistance:** Good mold and [[cannabis-disease-pest-resistance-breeding-clarke]]; dense buds need airflow attention
-  in humid conditions to prevent bud rot
-- **Nutrient needs:** Moderate feeder; benefits from calmag supplementation mid-flower
-
-Performs well in soil and hydroponics. Forgiving of minor grower errors, making it
-popular with novice cultivators. Clone propagation is straightforward.
-
-## Side Effects
-
-Common: dry mouth, dry eyes, couch-lock, drowsiness, increased appetite.
-Less common: dizziness (higher doses), mild paranoia in THC-sensitive individuals,
-headache on comedown. Contraindicated for daytime use in most contexts.
-
-## See Also
-- [[blue-dream]]
-- [[girl-scout-cookies]]
-- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -87,18 +88,3 @@ across the slope of the hill. The most basic method for improving soil is to bur
 
 Today, a rice field can easily be prepared by clearing the land with large machinery, removing
 rocks and stones, and leveling the surface of the field. Yet, although well-suited to
-increasing the size of single paddy fields and promoting mechanized [[fukuoka-energy-analysis-rice-production-natural-vs-mechanized]], such a
-process has serious drawbacks:
-
-1. Because it is crude, it leaves a thickness of topsoil that varies with the depth of the
-   bedrock, resulting in uneven areas of [[coleman-sunlight-and-winter-crop-growth-rates]].
-2. The load that heavy machinery places on the soil results in excessive settling, causing
-   ground water to stagnate. This situation can induce root rotting and at least partial
-   suppression of initial crop growth on the new field.
-3. Levees and walkways are all made of concrete, upsetting and destroying the community of
-   soil microbes. The danger here is of gradually turning the soil into a dead mineral matter.
-
-Traditional Japanese farmers of old chose to live in mountain valleys where there was far less
-cause to fear violent flooding and strong winds. They set up small fields in the valleys or
-built terraced rice fields on the hillsides, working with the natural contours of the land.
-## See Also

@@ -87,25 +87,3 @@ toxic molds in indoor environments, while *The Triumph of the Fungi*
 and their role in shaping terrestrial ecosystems. His later works
 include *Mr. Bloomfield's Orchard* sequels and additional volumes
 on fungal biology for both specialist and general readers.
-
-Money has also published extensively in peer-reviewed journals on
-topics ranging from fungal biomechanics to the physics of mushroom
-spore discharge, and he maintains an active research program at
-Miami University studying the mechanical properties of fungal cells
-and the aerodynamics of spore liberation.
-
-## See Also
-
-- [[ingold-cecil-t]]
-- [[terence-ingold-mycologist]]
-
-- Terence Ingold (Mycologist)
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-- Money, N. P. (2004). *Carpet Monsters and Killer Spores: A Natural
-  History of Toxic Mold*. Oxford University Press.
-- Money, N. P. (2007). *The Triumph of the Fungi: A Rotten History*.
-  Oxford University Press.

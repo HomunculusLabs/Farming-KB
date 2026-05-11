@@ -1,5 +1,5 @@
 ---
-title: Soil and Medium Preparation - Greg Green's green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Grow Bible Soil And Medium Preparation
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,8 +10,8 @@ tags: [cannabis, soil]
 
 # Soil and Medium Preparation
 
-Greg Green's Cannabis Grow Bible provides practical guidance on
-selecting and preparing growing media for [[query-how-does-no-till-cannabis-cultivation-work]], with
+Greg Green's [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] provides practical guidance on
+selecting and preparing [[green-cannabis-rockwool-hydroponic-growing-media]] for [[query-how-does-no-till-cannabis-cultivation-work]], with
 emphasis on the three critical soil factors: pH, nutrients, and
 structure.
 
@@ -70,7 +70,7 @@ seeds.
 - Pots with bottom perforations (drainage holes) sit on dishes to
   catch runoff; empty dishes to avoid spills
 - Advanced growers may use pots without drainage holes to prevent
-  nutrient leaching from overwatering
+  [[green-cannabis-soil-flushing-nutrient-leaching]] from overwatering
 - One pot per plant is always recommended -- isolates problems
 - Clean pots thoroughly before use
 - For higher yields, use containers 12x12 inches or larger
@@ -82,27 +82,9 @@ seeds.
 For growers moving beyond soil, Green describes several hydroponic
 systems:
 
-- **NFT (Nutrient Film Technique)**: Constant flow of nutrients to
+- **NFT ([[nutrient-film-technique]])**: Constant flow of nutrients to
   roots in a flat, long system
-- **Ebb and Flow (Flood and Drain)**: Nutrients flood the medium at
+- **[[comparison-dwc-vs-ebb-and-flow]] (Flood and Drain)**: Nutrients flood the medium at
   timed intervals then drain back to reservoir
 - **[[comparison-drip-irrigation-vs-passive-irrigation]]**: Individual feeding to each plant through
   drippers
-- **Aeroponics**: Roots misted with nutrients inside tubes; expensive,
-  used by professional growers
-- **Automatic/Manual Hydro Pots**: Stand-alone pots with pump-fed or
-  hand-fed nutrients
-
-Hydroponics can produce flowering plants in 3/4 the time of soil
-grows and generates massive root clusters, but requires careful
-maintenance. Rockwool cubes are excellent for cloning and seed
-starting in hydroponic systems.
-
-## Related
-
-- [[cannabis-indoor-soil-mix-and-preparation]]
-- [[cannabis-soilless-grow-media]]
-- [[cannabis-ph-management-and-soil-flushing]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[cannabis-soilless-grow-media]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]

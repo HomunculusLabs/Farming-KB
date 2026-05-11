@@ -1,5 +1,5 @@
 ---
-title: singh immobilized fungal bioreactors wastewater treatment Bioreactors for mollison-designers-wastewater-treatment-wetlands
+title: Singh Immobilized Fungal Bioreactors Wastewater Treatment
 created: 2026-04-26
 tags:
   - immobilization
@@ -32,7 +32,7 @@ systems:
 
 ### Surface Attachment and Biofilm Formation
 
-Fungal mycelium can attach to the surface of carrier materials or
+[[fungal-mycelium-hyphae-and-the-feeding-phase]] can attach to the surface of carrier materials or
 penetrate porous carriers, forming stable biofilms. Common carrier
 materials include Celite, ceramic honeycomb supports, jute rope, and
 plastic surfaces. An internal airlift loop reactor with a ceramic
@@ -48,14 +48,14 @@ matrix while allowing diffusion of substrates and products:
 
 - **Calcium alginate beads**: Candida pseudotropicalis entrapped in
   calcium-alginate beads has been used for phenol removal, achieving
-  60% decolorization of olive mill wastewater in 24 hours. Whole
+  60% decolorization of [[singh-olive-mill-wastewater-fungal-treatment]] in 24 hours. Whole
   Kluyveromyces lactis cells in calcium-alginate beads have been applied
   in whey fermentation. Enzymatic activity was found to be higher in
   alginate-immobilized biomass than in free-growing cells.
 
 - **Polyurethane foam**: [[staycare-phanerochaete-chrysosporium-in-bioremediation]] immobilized on
   polyurethane foam in repeated batches achieved more than 70% color
-  and COD removal from olive mill wastewater. Aspergillus niger
+  and COD removal from olive mill wastewater. [[aspergillus-niger]]
   immobilized in polyurethane sponge cubes produced the highest fungal
   biomass of 5.32 g per gram of carrier.
 
@@ -67,7 +67,7 @@ matrix while allowing diffusion of substrates and products:
 ### Covalent Binding
 
 Enzymes can be covalently coupled to solid supports for enhanced
-stability. Oxirane-immobilized Lentinula edodes laccase removed about
+stability. Oxirane-immobilized [[lentinula-edodes]] laccase removed about
 70% of total phenols and 88% of ortho-phenols from olive mill wastewater
 in 2 hours of operation. A significant regain (60%) of the immobilized
 activity was restored by washing the column with buffer, suggesting the
@@ -88,55 +88,3 @@ immobilized fungal bioreactors. Key findings include:
   restored using acetate buffer.
 - Immobilized A. niger in polyurethane sponge cubes was used to produce
   a low-toxicity material enriched with soluble rock phosphate for
-  fertilizer formulation.
-
-## Applications in PAH Removal
-
-Immobilized bioreactors are among the best established systems for PAH
-removal. Phanerochaete chrysosporium removes naphthalene, fluoranthene,
-and benzo[a]pyrene in cell-free or immobilized cultures, with 3 days
-required for acclimation. The strain ATCC 24725 was more resistant to
-PAH toxicity and removed 41% of benzo[a]pyrene within 30 days. Cell-free
-strains producing ligninolytic peroxidases exhibited higher removal
-efficiencies than non-producing strains.
-
-Immobilized P. chrysosporium has been employed in a rotating biological
-contactor (RBC) for the elimination of surfactant-solubilized PAHs. The
-reactor effectively removed all PAHs for specific loading rates, with a
-linear relationship between the inverse of PAH removal rate and the
-inverse of PAH loading rate. Phenanthrene and pyrene were removed by a
-combination of [[singh-fungal-oxidation-petroleum-enzymes]] and disk foam adsorption, while
-benzo[a]pyrene was removed by fungal oxidation alone.
-
-## Advantages and Limitations
-
-The main advantages of immobilized fungal bioreactors include:
-
-- Higher biomass retention and cell density compared to suspended systems
-- Protection of fungal cells from environmental stresses and toxic shocks
-- Easier separation of treated effluent from biomass
-- Potential for repeated use over multiple treatment cycles
-- Enhanced enzymatic activity compared to free-growing cells
-
-Limitations include:
-
-- Additional cost of immobilization materials and processing
-- Potential mass transfer limitations within the immobilization matrix
-- Clogging of packed beds due to excessive fungal growth
-- Gradual loss of activity over extended operation periods
-- Need for regeneration or replacement of immobilization supports
-
-## Future Directions
-
-The use of immobilized fungal cells or enzymes in wastewater treatment
-shows great promise. Further research is needed to develop immobilization
-materials with sufficient mechanical and chemical stability, extending
-the activity and lifetime of the biocatalysts. Novel carrier materials
-and immobilization chemistries will be important for scaling up these
-technologies from laboratory to full-scale applications.
-
-## See Also
-
-- [[fungal-treatment-of-distillery-and-brewery-wastes]]
-- [[singh-fungal-biosorption-reactors-heavy-metals]]
-- [[singh-laccase-mediated-biodegradation-pahs-dyes]]

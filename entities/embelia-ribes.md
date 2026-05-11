@@ -22,7 +22,7 @@ updated: 2026-04-28
 sources:
   - Choudhary, N. et al. (2019). "Embelia ribes: a comprehensive review." Pharmacognosy Reviews, 13(25), 47-53.
   - Bhandari, A.K. et al. (2013). "Phytochemistry and pharmacology of Embelia ribes." Asian Pacific Journal of Tropical Disease, 3(1), 68-74.
-  - Dharmendra et al. (2012). "Embelin: a review of its medicinal properties." Pharmacognosy Reviews, 6(12), 124-128.
+  - Dharmendra et al. (2012). "Embelin: a review of its [[panax-ginseng]]." Pharmacognosy Reviews, 6(12), 124-128.
   - Chopra, R.N. et al. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
 ---
 
@@ -32,7 +32,7 @@ sources:
 pepper, is a woody climbing shrub in the family Primulaceae (formerly
 Myrsinaceae). It is one of the most important anthelmintic herbs in
 Ayurveda, where it has been used for over 2,500 years to treat
-intestinal worms, digestive disorders, and skin diseases. The small, pepper-like berries are the primary medicinal part, containing
+intestinal worms, digestive disorders, and [[blesching-cannabis-skin-diseases]]. The small, pepper-like berries are the primary medicinal part, containing
 the bioactive quinone embelin as their principal constituent.
 
 The species is native to the Indian subcontinent and [[psilocybe-southeast-asia-pacific]] and
@@ -87,62 +87,3 @@ China.
 
 The pharmacological activity of vidanga centers on several classes of
 [[antifungal-secondary-metabolites-coprophilous-fungi]]:
-
-- **Embelin (2,5-dihydroxy-3-undecyl-1,4-benzoquinone):** The signature
-  compound, comprising 2.5–3.2% of dried berries. A redox-active
-  benzoquinone with broad pharmacological activity including
-  anthelmintic, anti-tumor, and anti-inflammatory effects
-- **Embelia ribyl glycoside:** Water-soluble glycoside contributing to
-  the herb's traditional digestive and carminative action
-- **Quercitol:** A cyclitol with antioxidant and hepatoprotective
-  properties
-- **Tannins:** Condensed tannins (5–8%) contribute astringent and
-  anti-diarrheal effects
-- **Volatile oil:** Trace terpenoids; contributes pepper-like aroma
-- **Flavonoids:** Kaempferol and quercetin glycosides with antioxidant
-  and anti-inflammatory activity
-
-## Pharmacology and Traditional Uses
-
-Vidanga occupies a central position in Ayurvedic anthelmintic therapy
-and is increasingly validated by modern research:
-
-- **Anthelmintic:** Embelin paralyzes tapeworms (*Taenia saginata*,
-  *Hymenolepis nana*) and roundworms (*Ascaris lumbricoides*) by
-  uncoupling oxidative phosphorylation. Effective in 70–90% of
-  clinical cases at 1–2 g doses
-- **Anti-diabetic:** Embelin inhibits α-glucosidase and α-amylase,
-  reduces fasting blood glucose, and improves insulin sensitivity in
-  streptozotocin-induced diabetic rats
-- **Anti-inflammatory:** Suppresses NF-κB and COX-2 signaling;
-  reduces TNF-α and IL-6 production
-- **Anti-cancer:** Embelin induces apoptosis via XIAP (X-linked
-  inhibitor of apoptosis protein) inhibition; active against breast,
-  prostate, and [[cannabis-and-colon-cancer-research]] cell lines
-- **Gastroprotective:** Reduces gastric acid secretion and protects
-  mucosal lining; traditional ulcer remedy validated in animal models
-- **Antimicrobial:** Active against *Bacillus subtilis*, *Candida
-  albicans*, and *Staphylococcus aureus* in disc diffusion assays
-
-In Ayurveda, vidanga is a key ingredient in *Vidangarishta* and
-*Krimikuthar Rasa*, classical anthelmintic formulations. It is classified
-as *krimighna* (anthelmintic) and *deepana* (digestive stimulant) with
-a pungent (*katu*) taste and heating (*ushna*) potency.
-
-## Cultivation
-
-- **Propagation:** Seed (slow, irregular germination) or stem cuttings;
-  cuttings preferred commercially
-- **Planting:** Transplanted at monsoon onset; support structures needed;
-  spacing 2 × 2 m
-- **Harvest:** Berries collected when fully black, 2–3 years after
-  planting; shade-dried to preserve embelin content
-- **Yield:** 500–800 kg fresh berries/ha; variable seed viability
-  complicates large-scale cultivation
-## See Also
-
-- [[ribes-grossularia]]
-
-- [[glycyrrhiza-glabra]]
-- [[withania-somnifera]]
-- [[adaptogenic-herbs-overview]]

@@ -11,13 +11,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/bigwood-beug-variation-of-psilocybin-and-
 # Norbaeocystin
 
 Norbaeocystin (4-PO-T, O-phosphoryl-4-hydroxytryptamine) is a
-naturally occurring **tryptamine alkaloid** found in psilocybin-
+naturally occurring **[[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]** found in psilocybin-
 [[psilocybin-containing-mushrooms-in-us]]. It is the **demethylated precursor** to both
 baeocystin and psilocybin in the fungal biosynthetic pathway, and
 represents the simplest phosphorylated tryptamine alkaloid in the
 series. First identified as a minor constituent of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 extracts, norbaeocystin plays a key role in understanding the
-biochemistry of psilocybin biosynthesis and the evolutionary origins of
+biochemistry of [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]] and the [[tryptamine]] of
 psychedelic compound production in fungi.
 
 ## Chemical Properties
@@ -27,7 +27,7 @@ of 256.19 g/mol. Structurally, it consists of 4-hydroxytryptamine (the
 serotonin analog) with a **phosphate ester** at the 4-hydroxy position.
 It lacks the N-methyl groups present in baeocystin (one methyl) and
 psilocybin (two methyls), making it the most polar and least
-lipophilic of the four major tryptamine alkaloids found in psilocybin
+lipophilic of the four major [[hplc-analysis-of-tryptamine-alkaloids]] found in psilocybin
 mushrooms.
 
 Like psilocybin and baeocystin, norbaeocystin is a **prodrug** that
@@ -71,7 +71,7 @@ explained why both intermediates accumulate in mushroom tissue. The
 enzyme uses S-adenosyl methionine (SAM) as the methyl donor for both
 reactions. Studies of PsiM kinetics suggest that the first methylation
 (norbaeocystin → baeocystin) proceeds more efficiently than the second,
-potentially explaining the relative accumulation patterns observed in
+potentially explaining the relative [[psilocybin-psilocin-flush-accumulation-patterns]] observed in
 natural specimens.
 
 ## Occurrence and Concentration
@@ -84,62 +84,7 @@ psilocin, baeocystin, norbaeocystin) in fruiting bodies.
 
 Its low accumulation likely reflects the efficiency of downstream
 methylation by PsiM, which rapidly converts norbaeocystin to baeocystin
-and then psilocybin. Species or developmental stages with reduced PsiM
+and then psilocybin. Species or [[psilocybe-cubensis-developmental-stages]] with reduced PsiM
 expression might be expected to accumulate more norbaeocystin, but this
 has not been systematically studied. There may also be developmental
 regulation, with norbaeocystin levels peaking earlier in [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
-development before downstream conversion to psilocybin is complete.
-
-Notable species in which norbaeocystin has been reported include:
-
-- *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* — trace levels
-- *[[gymnopilus-spectabilis-entity]]* — trace
-- *Inocybe* species — variable, often trace
-
-In most cases, reported concentrations are in the range of trace to
-0.05% dry weight.
-
-## Pharmacology
-
-The pharmacological activity of norbaeocystin and its dephosphorylated
-metabolite **4-hydroxytryptamine** is **largely unknown**. 4-
-hydroxytryptamine is a trace monoamine that occurs naturally in
-mammalian tissues, including the brain, gastrointestinal tract, and
-[[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]], and has been detected in carcinoid tumors. It has been
-shown to bind to serotonin receptors with varying affinity, but its
-psychoactive properties — if any — remain uncharacterized.
-
-In vitro studies have suggested that 4-hydroxytryptamine may act as a
-**serotonin receptor agonist or partial agonist** at certain subtypes,
-with some evidence of activity at 5-HT₁A, 5-HT₂A, and 5-HT₃ receptors.
-However, the pharmacological data is sparse and inconsistent. 4-HT
-appears to have lower affinity than serotonin at most receptor subtypes,
-which may limit its biological activity. There is also evidence that
-4-HT can be metabolized by monoamine oxidase (MAO), though the rate
-and products of this metabolism have not been well characterized.
-
-There is no evidence that norbaeocystin contributes significantly to
-the psychoactive effects of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] when consumed, though
-its role as part of the complete alkaloid profile cannot be ruled out.
-At the trace concentrations typically found in mushroom tissue, any
-individual pharmacological effect of norbaeocystin would likely be
-negligible compared to the contribution of psilocybin and psilocin.
-
-## Analytical Considerations
-
-Norbaeocystin's low concentration in mushroom tissue makes it
-**challenging to detect** reliably. Many analytical studies of psilocybin
-mushrooms report only psilocybin and psilocin content, omitting
-baeocystin and norbaeocystin entirely. Comprehensive analysis requires
-sensitive methods such as **HPLC-MS/MS** (liquid chromatography-tandem
-mass spectrometry) or **UPLC-QTOF** (ultra-performance liquid
-chromatography-quadrupole time-of-flight) to detect norbaeocystin at
-trace levels alongside the more abundant alkaloids.
-Chromatographic conditions use reversed-phase columns with acidic
-mobile phases and MRM transitions for quantitative analysis.
-Lack of commercial reference standards remains an obstacle, though
-## See Also
-
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]
-
-See also: [[psilocybin-chemistry-and-pharmacology]]

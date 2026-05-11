@@ -6,12 +6,13 @@ type: concept
 tags: [seeds, gardening]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Old Varieties vs. Modern Hybrids
 
 Holzer's experience shows that old varieties of all cultivated plants make the best crops:
 
-- **Better flavour**: Intense taste indicates high nutrient content
+- **Better flavour**: Intense taste indicates high [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]]
 - **Less demanding**: Adapted to local conditions over generations
 - **More resilient**: Better disease resistance and [[jeavons-climate-adaptation-growing-seasons]]
 - **True-to-type seed**: Can be saved and replanted year after year
@@ -21,7 +22,7 @@ Holzer's experience shows that old varieties of all cultivated plants make the b
 - Come from homozygous inbred lines, frequently sterile
 - Give good yields but are more susceptible to disease
 - Not suited to varying local conditions
-- Benefit seed companies, not farmers
+- Benefit [[spanish-cannabis-seed-companies]], not farmers
 
 ### Against Genetic Modification
 Holzer considers GM a crime against nature. The long-term consequences cannot be foreseen, and regulation is increasingly difficult.
@@ -53,7 +54,7 @@ The numerous habitats and microclimates on the Krameterhof allow spatial isolati
 - **Wind-pollinated varieties**: Plant at distance in the downwind direction; use tall [[comparison-raised-beds-vs-hugelkultur]] and hedges as barriers
 - **Insect-pollinated varieties**: Grow at sufficient distance from each other
 - **Best method**: Select varieties that flower at different times to completely rule out unwanted pollination
-- **Multi-layered habitats**: Hedges and tall raised beds between varieties provide [[cervantes-wind-protection-outdoor-cannabis]]
+- **Multi-layered habitats**: Hedges and tall [[cervantes-raised-beds-mound-planting]] between varieties provide [[cervantes-wind-protection-outdoor-cannabis]]
 
 ### The Krameterhof as Living Gene Bank
 
@@ -87,17 +88,3 @@ Holzer cultivates several ancient cereal varieties:
 - Fichtelgebirgshafer -- old local oat variety that does well at high altitudes
 
 ## Green Manure and Seed Self-Propagation
-
-By leaving green [[green-manure-crops-detailed]] standing in autumn:
-- Plants ripen, bloom, and produce seeds naturally
-- Many seeds are eaten by birds, stratified in their stomachs, and distributed
-- No need to continually reseed large areas
-- Saves enormous time and expense
-- Wildflower seeds are incredibly expensive to buy
-
-## See Also
-
-- [[holzer-farming-philosophy]]
-- [[polyculture-design-holzer]]
-- [[sepp-holzer-soil-fertility-and-green-manure]]
-- [[holzer-green-manure-crops]]

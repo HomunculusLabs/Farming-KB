@@ -62,17 +62,17 @@ The species is most abundant on north- and east-facing slopes where snow linger 
 
 Plants grow in areas with cold winters and cool, moist summers. Snow cover persists for five to seven months in its native range.
 
-The species occurs sympatrically with Gentiana pontica and Gentiana gelida in the eastern Caucasus. Hybridization events have been suggested where populations overlap.
+The species occurs sympatrically with Gentiana pontica and [[gentiana-gelida]] in the eastern Caucasus. Hybridization events have been suggested where populations overlap.
 
 ## Cultivation
 
-Gentiana septemfida thrives in rock garden settings with gritty, humus-rich soil. It requires excellent drainage and consistent moisture during the growing season.
+Gentiana septemfida thrives in rock garden settings with gritty, humus-rich soil. It requires excellent drainage and consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Full sun or light afternoon shade produces the best flower color. The species is hardy to USDA zones 4–7 and tolerates winter temperatures below −30 °C.
 
 Propagation is by seed sown fresh in autumn, or by division of established clumps in spring. Seeds require cold stratification for 6–8 weeks to germinate reliably.
 
-Cuttings taken from non-flowering shoots in early summer root readily in sand. This method preserves cultivar characteristics better than seed propagation.
+Cuttings taken from non-flowering shoots in early summer root readily in sand. This method preserves cultivar characteristics better than [[green-cannabis-grow-bible-cloning-and-seed-propagation]].
 
 Plants benefit from a neutral to slightly acidic pH (6.0–7.0). A mulch of gritty sand or fine gravel around the crown prevents crown rot in wet winters.
 
@@ -87,34 +87,3 @@ In its native Caucasus, the species contributes to alpine meadow biodiversity. I
 Gentiana septemfida is not considered threatened globally. However, overgrazing and alpine habitat degradation in the Caucasus pose localized pressures on some populations.
 
 The species serves as an indicator of healthy alpine meadow ecosystems. Its presence often correlates with intact turf and moderate grazing intensity.
-
-Slugs and snails can damage new growth in cultivation. Otherwise, the species is relatively pest-free and disease-resistant in well-drained conditions.
-
-## Uses
-
-Gentiana septemfida is primarily grown as an ornamental. It has received the RHS Award of Garden Merit for reliable garden performance.
-
-In traditional Caucasian folk medicine, the roots were used as a bitter tonic and digestive aid. The gentiopicroside content provides the characteristic bitter flavor shared with other gentian species.
-
-The roots were typically harvested in autumn after the aerial parts died back. They were dried and prepared as decoctions for treating digestive complaints and loss of appetite.
-
-The species has been used in hybridization programs to create garden cultivars. Crosses with Gentiana sino-ornata have produced popular hybrids with extended bloom periods and larger flowers.
-
-The "Gentiana septemfida Group" in horticulture encompasses a range of cultivated selections. These vary in flower color from pale sky blue to deep violet-blue.
-
-The bitter compounds in the roots include gentiopicroside, sweroside, and amarogentin. These iridoid glycosides are common across the genus Gentiana and have documented hepatoprotective activity.
-
-Despite its medicinal history, Gentiana septemfida is not commercially harvested for pharmacological purposes. Its close relative Gentiana lutea remains the primary source of gentian bitter compounds for the beverage industry.
-
-## See Also
-
-- [[gentiana-acaulis]]
-- [[gentiana-lutea]]
-- [[gentiana-verna]]
-- [[gentiana-clusii]]
-- [[gentiana-purpurea]]
-- [[gentiana-cruciata]]
-- [[gentiana-andrewsii]]
-- [[swertia-chirata]]
-- [[centaurium-erythraea]]
-- [[swertia-perennis]]

@@ -88,35 +88,3 @@ they are. I have repeated the experiments many times. I have had the
 results verified by third parties who did not know what I was about.
 There's no way out; we have to submit to the evidence: plants know
 the old secret of the alchemists. Every day under our very gaze they
-are transmuting elements." He found the mechanisms involved the time
-of germination, the type of light, and even the exact phase of the moon.
-
-## The Nuclear Lock Theory
-
-Science et Vie postulated that if plasma-type nuclear reactions occur
-in bombs, reactors, and stars, there must be a wholly different type
-of reaction utilized by life. They suggested the analogy of a
-strongbox opened by dynamite or by a combination lock. The atomic
-nucleus can prove stubborn to blind violence but pliable to skillful
-manipulation. "The secret of life is as much a secret as the
-locksmith's combination. Whereas man has to use dynamite, plants and
-other living organisms know the combination."
-
-Kervran suggests the mechanism lies not in the displacement of
-peripheral electrons but in the alteration of structural arrangements
-of atoms induced by enzyme activities in living matter, operating
-within atomic nuclei through hyperweak interactions where the
-established laws of conservation of energy may not apply. Rudolf
-Hauschka, who duplicated many of von Herzeele's experiments, found
-that plants could "etherealize" matter, noting emergence and
-disappearance of matter in rhythmic sequence, often in conjunction
-with lunar phases.
-
-## Practical Applications
-
-The implications for agriculture are enormous. Plants may be able to
-bring useful elements to soil for other plants, potentially reducing
-or eliminating the need for certain fertilizers. Understanding
-biological transmutation could revolutionize crop rotation, [[george-washington-carver-plant-work]]
-- [[plants-and-electromagnetism]]
-- [[plant-perception]]

@@ -7,13 +7,13 @@ tags:
   - parasitic-plants
   - tcm
   - traditional-medicine
-  - herbal-medicine
+  - [[herbal-medicine]]
   - desert-plants
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Chinese Pharmacopoeia Commission (2020). "Pharmacopoeia of the People's Republic of China."
-  - Ma, C. et al. (2014). "Chemical constituents of Cynomorium songaricum." Chemistry & Biodiversity, 11(1), 75-84.
+  - Ma, C. et al. (2014). "[[guzman-magic-mushrooms-chemical-constituents]] of Cynomorium songaricum." Chemistry & Biodiversity, 11(1), 75-84.
   - Wang, J. et al. (2012). "Pharmacological effects of Cynomorium songaricum." Journal of Ethnopharmacology, 142(3), 776-781.
   - Lu, Y. et al. (2009). "Antioxidant activities of Cynomorium songaricum extracts." Food Chemistry, 112(4), 908-912.
 created: 2026-04-28
@@ -87,59 +87,3 @@ and cannot tolerate waterlogged conditions.
 The primary host plants are Nitraria tangutorum and N. sibirica (desert
 buckthorn), both halophytic shrubs adapted to saline, arid soils. C.
 songaricum may also parasitize Tamarix and other desert shrubs.
-
-The plant is adapted to extreme temperature fluctuations, from summer highs
-exceeding 40°C to winter lows below -30°C.
-
-## Chemistry and Pharmacology
-
-The fleshy stems contain a diverse profile of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including
-flavonoids, lignans, triterpenoid saponins, sterols, and polysaccharides.
-
-Major flavonoids include **catechin**, **epicatechin**, **proanthocyanidins**,
-and **luteolin** derivatives. Lignans include **songarin** and **cynomorin**.
-
-Triterpenoid saponins based on ursolic and oleanolic acid scaffolds contribute
-to adaptogenic and anti-fatigue effects observed in pharmacological studies.
-
-Polysaccharide fractions demonstrate significant antioxidant activity,
-protecting against [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in liver and brain tissue in animal models.
-
-Anti-osteoporotic effects include stimulation of osteoblast proliferation and
-bone mineral density enhancement in ovariectomized rat models.
-
-The herb also shows immunomodulatory activity, enhancing both humoral and
-cellular immune responses.
-
-## Traditional Uses
-
-In TCM, C. songaricum is classified as sweet and warm, entering the kidney,
-liver, and large intestine meridians. It is used to tonify kidney yang,
-nourish essence and blood, and moisten the intestines.
-
-Primary indications include impotence, premature ejaculation, lower back and
-knee pain, female infertility, and constipation in the elderly. It is often
-combined with [[cistanche-tubulosa]], and other
-kidney-yang tonics.
-
-In Mongolian medicine, it is considered one of the three most important
-medicinal plants and is used in formulations for vitality and longevity.
-
-The dried stems are sliced and decocted, prepared as a tincture, or powdered
-and encapsulated. Typical daily doses range from 5–15 g of dried material.
-
-## Conservation Status
-
-Wild populations of C. songaricum have declined significantly due to
-overharvesting and habitat degradation. The species is listed as endangered in
-China and is subject to harvest restrictions.
-
-Cultivation efforts have been initiated in northwestern China, with
-artificial inoculation of host plants showing promise for sustainable
-production. However, the complex host-parasite relationship makes large-scale
-cultivation challenging.
-## See Also
-
-- [[astragalus-membranaceus]]
-- [[cuscuta-chinensis]]
-- [[withania-somnifera]]

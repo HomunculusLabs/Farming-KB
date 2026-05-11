@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety. (see [[dimethyltryptamine]]).
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] and has become the subject of intensive clinical research for its potential [[psilocybin-therapeutic-applications]]. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
 
 ## Chemistry
 
@@ -42,11 +42,11 @@ N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found 
 
 ### Plants
 
-- **Psychotria viridis** (chacruna): Primary DMT source in ayahuasca; 0.1-0.6% DMT
+- **[[chacruna-psychotria-viridis]]** (chacruna): Primary DMT source in ayahuasca; 0.1-0.6% DMT
 - **Diplopterys cabrerana** (chaliponga): Up to 1% DMT
 - **Mimosa tenuiflora** (M. hostilis / jurema): Root bark contains 0.57-1.0% DMT
 - **Acacia species**: A. confusa, A. obtusifolia, A. maidenii — bark contains DMT
-- **Anadenanthera peregrina** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
+- **[[anadenanthera-peregrina]]** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
 - **Virola species**: V. theiodora, V. sebifera — bark resin used as snuff
 
 ### Animals
@@ -63,7 +63,7 @@ N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found 
 
 ## Extraction Methods
 
-Note: This information is provided for educational and harm reduction purposes. DMT is a Schedule I controlled substance in many jurisdictions. Extraction of controlled substances may be illegal. (see [[dmt-extraction-guide]]).
+Note: This information is provided for educational and harm reduction purposes. DMT is a Schedule I controlled substance in many jurisdictions. Extraction of [[controlled-substances-act-and-psychedelic-research]] may be illegal.
 
 ### Plant Material Extraction (General Overview)
 

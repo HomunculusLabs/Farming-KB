@@ -36,12 +36,12 @@ fungi.
 ## Carbon Allocation to Fungal Biomass
 
 Plants allocate substantial carbon to support mycorrhizal fungal partners. In
-arbuscular mycorrhizal symbiosis, Douds et al. (1988) demonstrated 5 to 6
+[[arbuscular-mycorrhizal-symbiosis]], Douds et al. (1988) demonstrated 5 to 6
 times greater carbon translocation to mycorrhizal root systems than to
 non-mycorrhizal roots. This belowground carbon allocation represents a
 significant carbon cost to plants but is offset by improved nutrient uptake.
 Mycorrhizal fungi receive 10 to 20 percent of host net photosynthesis as
-carbon. This carbon supports fungal respiration, biomass production, hyphal
+carbon. This carbon supports fungal respiration, [[dighton-fungal-biomass-production-aquatic-ecosystems]], hyphal
 extension, and extraradical mycelial networks that explore soil for nutrients.
 
 ## Temperature Sensitivity of Fungal Respiration
@@ -64,7 +64,7 @@ carbon use efficiency, meaning more carbon is lost as CO2 relative to carbon
 incorporated into fungal biomass. Recalcitrant substrates (high C:N, high
 lignin) support slower respiration but greater carbon use efficiency.
 Respiration quotients, the ratio of CO2 produced to oxygen consumed, vary with
-substrate chemistry and can indicate the metabolic pathway being used by
+substrate chemistry and can indicate the [[gluconeogenesis-biochemistry-metabolic-pathway]] being used by
 decomposer fungi.
 
 ## Measurement Techniques
@@ -77,36 +77,14 @@ antibiotics (cycloheximide for fungi, streptomycin for bacteria) allow
 estimation of the fungal contribution to soil respiration, though
 methodological limitations exist. Isotopic labeling with carbon-13 or
 carbon-14 provides more precise quantification of fungal carbon flows.
-Molecular approaches, including quantification of fungal biomarkers such as
+[[genetic-improvement-agaricus-bisporus-molecular-approaches]], including quantification of fungal biomarkers such as
 ergosterol and phospholipid fatty acids, are combined with respiration
 measurements to estimate fungal-specific carbon flux.
 
 ## Mycorrhizal Respiration and Priming Effects
 
-Mycorrhizal fungi contribute to soil CO2 efflux through both direct
+Mycorrhizal [[query-how-do-fungi-contribute-to-carbon-sequestration]] soil CO2 efflux through both direct
 respiration of carbon received from host plants and through enhanced
-decomposition of soil organic matter (the priming effect). The priming effect
+decomposition of [[knf-leaf-mold-humus]] (the priming effect). The priming effect
 occurs when mycorrhizal hyphae stimulate decomposer activity by releasing
 labile carbon compounds or competing with saprotrophic fungi for nutrients,
-potentially accelerating decomposition of otherwise stable soil organic
-matter. The magnitude and direction of mycorrhizal priming effects remain
-debated, with some studies showing enhanced decomposition and others showing
-suppression of saprotrophic activity by mycorrhizal competition.
-
-## Seasonal and Diurnal Patterns
-
-Fungal respiration exhibits both seasonal and diurnal patterns driven by
-temperature, moisture, and plant phenology. In temperate ecosystems,
-respiration peaks during warm, moist periods and declines during cold or dry
-periods. Diurnal fluctuations follow temperature cycles, with respiration
-rates highest during warm afternoon periods. Plant phenology influences
-belowground carbon allocation, with respiration often increasing during periods
-of active growth when photosynthate supply to mycorrhizal fungi is greatest.
-
-## See Also
-
-- [[fungal-biomass-estimation-methods]]
-- [[fungal-enzymatic-diversity-decomposition]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[fungal-roles-grassland-ecosystems]]
-- [[fungal-decomposition-nutrient-cycling]]

@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam oriental herb nutrient Nutrient
+title: Jadam Oriental Herb Nutrient
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # JADAM Oriental Herb Nutrient
 
-JADAM [[jadam-herb-solution-jhs]] (JHS) serves a dual purpose: it functions both as a pesticide and as a nutrient source for crops. Unlike chemical pesticides that only kill, JHS provides measurable nutritional benefits including nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
+JADAM [[jadam-herb-solution-jhs]] (JHS) serves a dual purpose: it functions both as a pesticide and as a nutrient source for crops. Unlike [[comparison-parasitoid-wasps-vs-chemical-pesticides]] that only kill, JHS provides measurable nutritional benefits including nitrogen, phosphorus, potassium, calcium, magnesium, and trace minerals.
 
 ## Nutritional Analysis of JHS
 
@@ -46,21 +46,21 @@ Used in oriental medicine to promote blood circulation. Has the strongest pestic
 
 ### Ginkgo (Ginkgo biloba)
 
-Described as having "the perfect defense mechanism against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Use fresh leaves, fallen leaves, and fruits. Controls everything Jerusalem artichoke does, plus mulberry suckers, citrus flatid planthoppers, and leafhoppers.
+Described as having "the perfect [[fukuoka-textdoc-disease-as-natures-self-defense-mechanism]] against [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]." Use fresh leaves, fallen leaves, and fruits. Controls everything Jerusalem artichoke does, plus mulberry suckers, citrus flatid planthoppers, and leafhoppers.
 
 ### Other Medicinal Herbs
 
-- **Red spider lily (Lycoris radiata)**: Used in oriental medicine for tumors. Roots repel moles and snakes when planted.
+- **Red spider lily ([[lycoris-radiata]])**: Used in oriental medicine for tumors. Roots repel moles and snakes when planted.
 - **Sophora root**: Roots collected in autumn
 - **Monkshood (Aconitum)**: Leaves and roots collected in autumn; highly poisonous
-- **Foxglove (Digitalis purpurea)**: Leaves collected spring to autumn; highly poisonous
+- **Foxglove ([[digitalis-purpurea]])**: Leaves collected spring to autumn; highly poisonous
 - **Oleander**: Leaves collected spring to autumn
 - **Pokeweed**: Leaves and roots; strong pesticidal effect
 - **Bracken (Pteridium)**: Leaves collected spring to autumn
 
 ## JHS in the Fertilizer Program
 
-When JHS is mixed with JWA and applied as pesticide, the nutrient content is simultaneously delivered to the plant. JHS causes little concentration stress compared to chemical pesticides. The nutritional benefit means that [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and fertilization happen in a single operation, reducing labor and cost.
+When JHS is mixed with JWA and applied as pesticide, the [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] is simultaneously delivered to the plant. JHS causes little concentration stress compared to chemical pesticides. The nutritional benefit means that [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] and fertilization happen in a single operation, reducing labor and cost.
 
 ### Comparison with Chemical Pesticides
 
@@ -88,27 +88,3 @@ In traditional oriental medicine, herbs are prescribed individually based on com
 Cho initially experimented with expensive oriental medicine herbs but found common plants equally effective. This discovery aligned with JADAM's SESE principle -- the best solutions are simple, easy, and accessible to all farmers regardless of location or income.
 
 ## Cultivation Guide for Key Herbs
-
-| Herb | Propagation | Growth | Notes |
-|------|------------|--------|-------|
-| Jerusalem artichoke | Tubers | Very vigorous, tall | Needs no weeding; invasive if unmanaged |
-| Ginkgo | Seeds | Slow, long-lived tree | Use leaves and fallen fruits |
-| Korean pasque flower | Seeds (mid-May) | 10 days to sprout | Full sun required; roots used |
-| Red spider lily | Bulb division | Autumn flowering | Roots repel moles and snakes |
-| Garlic | Cloves | Annual | Use bulbs; soak 1 month |
-| Hot pepper | Seeds | Annual | Use fruits; soak 1 month |
-
-## Self-Sufficiency Principle
-
-JADAM encourages farmers to grow their own herb materials around the farm. Jerusalem artichoke, ginkgo, Korean pasque flower, and red spider lily should be cultivated on-farm for complete self-sufficiency. These perennials require minimal maintenance once established and provide year-round pesticide material.
-
-## Related
-
-- [[jadam-jhs-nutritional-analysis]]
-- [[jadam-fermented-plant-juice-preparation]]
-- [[jadam-fertilizer-program]]
-- [[jadam-natural-pest-control-methods]]
-- [[jadam-fermented-plant-juice-preparation]]
-- [[what-natural-farming-method-should-i-use]]
-- [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]
-- [[jadam-natural-vs-chemical-pesticide]]

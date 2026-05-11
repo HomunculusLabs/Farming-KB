@@ -88,37 +88,3 @@ until plants need them. Without adequate bacterial and fungal populations, solub
 nutrients leach through the root zone into groundwater or run off into surface
 waters. Protozoa and nematodes then release these immobilized nutrients in
 plant-available forms through their feeding activity, creating a natural "slow-
-release" fertilizer system that provides nutrients at rates plants can actually use.
-
-### Soil Structure Formation
-Soil aggregation — the binding of soil particles into stable crumbs — is primarily
-a biological process. Bacterial exopolymers glue microscopic particles together
-into microaggregates, while fungal hyphae bind microaggregates into larger
-macroaggregates. Earthworms and root growth create the pores and channels that
-allow water infiltration and gas exchange. Without adequate biological activity,
-soil compacts, water runs off rather than infiltrating, and root growth is
-restricted.
-
-### Toxin Decomposition
-A diverse soil foodweb can decompose many organic toxins, including pesticides,
-herbicides, and industrial contaminants. The bacteria and fungi that consume these
-materials must be present and must be fed (provided with appropriate carbon sources)
-for decomposition to occur. Restoring a degraded foodweb is often the first step
-in remediating chemically damaged soils.
-
-## Assessment and Monitoring
-Soil foodweb health is assessed through direct microscopy examination, which counts
-and identifies organisms from soil samples. This approach is preferred over plate
-counts (culturing methods) because most soil microorganisms cannot be cultured in
-the laboratory — plate counts typically detect less than 1% of the organisms present.
-Direct microscopy provides quantitative data on total and active bacteria, total and
-active fungi, protozoa (by group), and nematodes (by feeding type).
-
-## See Also
-- [[fungal-mineral-transformations-biogeochemical-cycles]]
-- [[fungal-mycelial-networks-nutrient-translocation]]
-
-## Sources
-- Ingham, E.R. (2004). The Field Guide for actively [[actively-aerated-compost-tea-aact-brewing]] tea (AACT).
-  Sustainable Studies Institute.
-- Ingham, E.R. & Rollins, C.A. Soil Foodweb Inc. publications.

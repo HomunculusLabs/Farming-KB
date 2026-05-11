@@ -29,7 +29,7 @@ The species is recognized by its star-shaped rosette growth form and the twisted
 appearance of its leaves when dry. It colonizes exposed soil, rock surfaces, walls,
 and disturbed ground across temperate and boreal regions worldwide.
 
-Tortula ruralis has served as a model organism for understanding vegetative
+Tortula ruralis has served as a [[canary-grass-phototropism-model-organism]] for understanding vegetative
 desiccation tolerance in plants. Research on this species has contributed foundational
 knowledge to plant stress biology, including the discovery of constitutive protection
 mechanisms and rehydration-induced repair processes.
@@ -42,7 +42,7 @@ approximately 200 species distributed globally.
 
 Many modern treatments place this species in the genus Syntrichia, following
 molecular phylogenetic studies that showed Tortula as traditionally circumscribed
-is polyphyletic. The accepted name Syntrichia ruralis (Hedw.) F.Weber & D.Mohr is
+is polyphyletic. The accepted name [[syntrichia-ruralis]] (Hedw.) F.Weber & D.Mohr is
 increasingly used in floristic literature.
 
 Plants form loose to dense turfs or cushions, typically 1 to 3 centimeters tall.
@@ -61,8 +61,8 @@ in diameter, papillose.
 
 ## Distribution and Habitat
 
-Tortula ruralis has a nearly global distribution across temperate and boreal zones.
-It occurs throughout Europe, North America, Asia, and parts of Africa, South America,
+Tortula ruralis has a nearly [[four-groups-neurotropic-fungi-global-distribution-guzman-1998]] across temperate and boreal zones.
+It occurs throughout Europe, [[guzman-psilocybin-mushrooms-north-america]], Asia, and parts of Africa, [[guzman-psilocybin-mushrooms-south-america]],
 and Australasia.
 
 In North America, the species ranges from Alaska southward to California and Texas.
@@ -88,61 +88,3 @@ hours.
 
 The species employs a strategy of constitutive cellular protection rather than
 induced protection. Protective sugars such as sucrose accumulate to high
-concentrations during drying, stabilizing membranes and proteins through
-vitrification and water-replacement mechanisms.
-
-Late embryogenesis abundant (LEA) proteins are constitutively expressed at high levels.
-Unlike resurrection angiosperms, these protective proteins are already present in
-hydrated tissues rather than being synthesized de novo upon drying.
-
-Rehydration triggers a massive wave of transcript and protein synthesis directed
-toward cellular repair. RNA transcripts encoding repair proteins are stored in
-partially degraded form during desiccation and are rapidly replaced upon rehydration.
-
-## Ecological Role
-
-Tortula ruralis plays an important role in soil stabilization and early succession
-on exposed substrates. Its dense turf traps fine soil particles and organic matter,
-creating favorable microsites for seed germination of vascular plants.
-
-The moss contributes to nitrogen fixation indirectly through associations with
-cyanobacteria that colonize its carpet. In arid ecosystems, Tortula ruralis cushions
-serve as moisture reservoirs, retaining water from dew and light rainfall.
-
-It provides microhabitat for numerous microarthropods, nematodes, and protozoa.
-Tardigrades are commonly found within Tortula ruralis colonies, using the moss
-cushions as refuge during unfavorable conditions.
-
-In urban environments, the species is a common colonist of concrete and brick
-surfaces. It contributes to biological weathering through organic acid production
-and physical disruption by rhizoid growth.
-
-## Conservation and Research
-
-Tortula ruralis is globally secure and not considered threatened. It is one of
-the most common moss species worldwide. Its abundance is likely increasing due to
-the proliferation of anthropogenic disturbed habitats.
-
-The species is listed as Least Concern on all regional conservation assessments.
-No specific conservation actions are needed for this taxon.
-
-Tortula ruralis remains an important model system in plant stress physiology. The
-sequencing of its transcriptome has revealed unique patterns of gene expression
-during desiccation and rehydration that differ fundamentally from desiccation-tolerant
-angiosperms.
-
-Current research focuses on the molecular mechanisms underlying its constitutive
-protection strategy, with applications in crop improvement for drought tolerance.
-The LEA proteins and sugar metabolism pathways identified in this moss are being
-explored as targets for genetic engineering in crop plants.
-
-## See Also
-
-- [[syntrichia-ruralis]]
-- [[bryum-argenteum]]
-- [[grimmia-pulvinata]]
-- [[funaria-hygrometrica]]
-- [[dicranum-scoparium]]
-- [[polytrichum-commune]]
-- [[hypnum-cupressiforme]]
-- [[sphagnum-palustre]]

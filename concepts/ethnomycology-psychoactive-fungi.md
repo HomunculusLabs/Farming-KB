@@ -25,7 +25,7 @@ plants survived in the Amazon because the cultures that valued them
 remained relatively isolated from [[partnership-vs-dominator-societies]] that sought to
 suppress ecstatic knowledge.
 
-The shared group mind generated in [[ayahuasca-vision-art-and-Shipibo-tradition]] sessions represents
+The shared group mind generated in [[ayahuasca-vision-art-and-shipibo-tradition]] sessions represents
 a form of collective consciousness accessible through plant
 intelligence. The shaman becomes privileged to a higher dimensional
 perspective on experience. This encounter with plant intelligence

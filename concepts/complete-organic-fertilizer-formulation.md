@@ -88,35 +88,3 @@ COF works best as part of an integrated soil management strategy rather than as 
 ### Compost integration
 
 COF is designed to be used alongside modest amounts of compost or manure, not as a replacement for organic matter. Compost provides humus that improves soil structure, water-holding capacity, and biological activity, while COF supplies the specific mineral nutrients that compost alone cannot provide in balanced proportions. The combination produces results superior to either input used alone.
-
-### Crop rotation
-
-Rotating vegetable families through different garden beds prevents the buildup of soil-borne diseases and pests while distributing nutrient demands more evenly across the garden. Different crop families have different nutrient profiles and root architectures, so rotation naturally creates a more balanced soil ecosystem over time.
-
-### Ley system
-
-In climates where the soil does not freeze solid for at least 18 continuous inches for several months, rotating vegetable beds with grass-clover leys every three to five years rebuilds soil organic matter and restores biological balance. During the ley period, the land rests from cultivation while grass and clover roots build soil structure and fix atmospheric nitrogen. The first two years after breaking sod typically produce noticeably better vegetables than the final years of the previous rotation.
-
-## [[foliar-feeding]] with Kelp
-
-An optional supplementation technique involves spraying liquid kelp extract directly onto plant leaves rather than incorporating dry kelpmeal into the COF blend. Foliar feeding bypasses soil-based uptake limitations and delivers micronutrients, growth hormones, and trace elements directly to plant tissues where they are most needed.
-
-Foliar kelp sprays are more expensive per unit of nutrition than dry kelpmeal mixed into COF, but may provide benefits during critical growth periods when soil [[ph-and-nutrient-availability-garden-soils]] is limited. The practice also encourages the gardener to walk among the plants regularly, facilitating early detection of pest or disease problems.
-
-## Sourcing Ingredients
-
-Securing quality ingredients at reasonable prices is essential to the COF approach. Agricultural supply and grain dealers are the proper sources for bulk ingredients, not garden centers or retail outlets. The price differential between bulk agricultural and retail garden-center quantities is typically three to five times.
-
-For urban gardeners without access to agricultural suppliers, farm supply cooperatives, feed stores, and online agricultural suppliers can provide the necessary ingredients. It is worth traveling to rural suppliers once or twice per year to stock up, as the savings on a year's supply of COF ingredients typically justify the trip.
-
-## Comparison with Commercial Fertilizers
-
-COF differs fundamentally from commercial organic and synthetic fertilizers in its design philosophy. Commercial products are typically formulated to maximize yield (measured as weight) per unit of input, while COF is formulated to maximize nutritional quality per unit of food produced.
-
-This difference has measurable consequences. Vegetables grown with COF have been shown to contain significantly higher levels of protein, vitamins, minerals, and enzymes compared to those grown with potassium-heavy commercial fertilizers. The calories-per-dollar may be similar, but the nutrition-per-dollar and nutrition-per-calorie are substantially higher with the COF approach.
-
-## See Also
-
-- [[composting]]
-- [[biointensive-close-plant-spacing]]
-- sustainable food production

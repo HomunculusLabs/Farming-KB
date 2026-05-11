@@ -16,14 +16,14 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Fusarium verticillioides is a major [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] and endophyte of
-maize (Zea mays) worldwide. It is the most common species associated
+maize ([[zea-mays]]) worldwide. It is the most common species associated
 with Fusarium ear rot and stalk rot of corn, and it produces fumonisins,
 mycotoxins that contaminate maize-based food and feed products. The
 species is synonymous with Fusarium moniliforme sensu stricto following
 taxonomic revision. F. verticillioides can exist as a symptomless
 endophyte within maize tissues or as an aggressive pathogen under
 stress conditions. The source text notes its susceptibility to
-mycoparasitic fungi including Trichoderma viride and Sphaeronaemella
+[[biodiversity-fungicolous-mycoparasitic-fungi]] including [[trichoderma-viride]] and Sphaeronaemella
 helvellae.
 
 ## Taxonomy and Classification
@@ -58,7 +58,7 @@ helvellae.
 - Ubiquitous in maize-growing regions worldwide
 - Exists as an asymptomatic endophyte in maize stalks, roots,
   leaves, and kernels
-- Soil-borne propagules persist between growing seasons
+- Soil-borne propagules persist between [[jeavons-climate-adaptation-growing-seasons]]
 - Insect damage to ears facilitates infection and fumonisin
   accumulation
 
@@ -88,36 +88,3 @@ helvellae.
 - Cochliobolus carbonum shares similar mycoparasitic pressures
   in stalk rot disease complexes
 - Clonostachys (Gliocladium) rosea parasitizes Fusarium species
-  in soil environments
-
-### Medical Significance
-- F. verticillioides is a prominent subcutaneous pathogen in
-  immunocompromised patients
-- Hypocrealean anamorphs including this species are noted as
-  significant agents of subcutaneous mycosis
-- Disseminated fusariosis is increasingly recognized in patients
-  with hematological malignancies
-
-### Research Methods
-- DNA-based identification using translation elongation factor
-  1-alpha (TEF1) and ITS rDNA gene regions
-- Selective media (Nash-Snyder medium) for isolation from soil
-  and plant tissue
-- Fumonisin quantification via HPLC and ELISA methods
-- Staining and microscopy procedures for analyzing endophytic
-  colonization (Bacon and White 1994)
-
-## Relevance
-Fusarium verticillioides is one of the most important mycotoxin-producing
-fungi affecting global food security. Its dual lifestyle as endophyte
-and pathogen makes it a fascinating system for studying [[gadd-fungal-ecology-endophytes]]
-and host-microbe interactions. The mycoparasitic fungi that antagonize
-it, documented in the source text, represent potential biological
-control agents for managing Fusarium diseases and reducing mycotoxin
-contamination in maize.
-
-## See Also
-
-- [[trichoderma-viride]]
-- [[colletotrichum-gloeosporioides]]
-- [[penicillium-chrysogenum]]

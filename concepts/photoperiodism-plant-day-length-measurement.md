@@ -1,5 +1,5 @@
 ---
-title: Photoperiodism — How Plants Measure [[coleman-persephone-months-winter-day-length]]
+title: [[photoperiodism]] Plant [[coleman-persephone-months-winter-day-length]] Measurement
 created: 2026-05-09
 tags:
   - plant-biology
@@ -27,8 +27,8 @@ photoperiodism, plants can determine the time of year and coordinate critical li
 events — especially flowering — with the appropriate season. The discovery of
 photoperiodism in the early [[coleman-louis-savier-twentieth-century-maraicher]] revealed that plants possess a far more
 sophisticated ability to measure and respond to light than anyone had previously
-imagined, and it opened the door to the discovery of phytochrome, the remarkable
-red/far-red light receptor that underlies much of plant visual biology.
+imagined, and it opened the door to the discovery of [[phytochrome]], the remarkable
+red/far-red [[phototropin-blue-light-receptor-plant-directional-sensing]] that underlies much of plant visual biology.
 
 ## The Maryland Mammoth Tobacco
 
@@ -88,58 +88,3 @@ middle of the night. These experiments proved conclusively that plants measure n
 length of the day but the length of the continuous period of darkness. A single brief
 flash of light in the middle of the night is enough to reset the plant's internal
 clock and convince it that the night is over.
-
-## Practical Applications: The Chrysanthemum Industry
-
-The discovery that plants measure darkness has had enormous practical consequences.
-Chrysanthemums are short-day plants that naturally flower in autumn. But Mother's Day
-comes in spring, creating a problem for farmers who want their crop to bloom for this
-major commercial holiday.
-
-The solution exploits the darkness-measurement mechanism. Chrysanthemums in
-greenhouses can be kept from flowering throughout autumn and winter by turning on the
-lights for just a few minutes each night. This brief flash interrupts the long
-continuous darkness that would trigger flowering, keeping the plants vegetative. Then,
-about two weeks before Mother's Day, farmers stop turning on the lights. The plants
-suddenly experience uninterrupted darkness and all begin flowering at once, ready for
-harvest and shipping in time for the holiday. This technique is now standard in
-commercial floriculture and demonstrates how basic botanical research translates into
-economic value.
-
-## The Role of Red Light and Phytochrome
-
-When scientists investigated which colour of light could interrupt the dark period,
-they found that only red light was effective. Blue or green flashes during the night
-would not influence flowering, but just a few seconds of red light would. This led
-directly to the discovery of phytochrome, the red/far-red photoreceptor acting as a
-molecular switch controlling the plant's perception of day and night.
-
-When a plant experiences a flash of red light at night, phytochrome converts to its
-active form and the plant's internal counter for continuous darkness is reset to zero.
-Far-red light can reverse this effect, returning phytochrome to its inactive form and
-allowing the darkness measurement to continue. This red/far-red reversibility gives
-plants precise control over their seasonal timing.
-
-## Connection to the Wider Plant Visual System
-
-Photoperiodism is one part of a broader visual system. Through phototropism, mediated
-by blue-light photoreceptors in the shoot tip, plants orient their bodies toward light.
-Through photoperiodism, mediated by phytochrome in the leaves, plants measure light
-duration and quality to coordinate seasonal responses. Together, these systems give
-plants a multi-dimensional awareness of their light environment that serves the same
-essential purpose as animal vision: gathering information about the external world and
-using it to guide behaviour.
-
-## Agricultural Light Manipulation
-
-The principles of photoperiodism are applied widely in agriculture beyond chrysanthemum
-production. Greenhouse growers routinely manipulate day length for poinsettias,
-strawberries, and many other crops. Breeders have developed cultivars with altered
-photoperiodic responses to extend [[jeavons-climate-adaptation-growing-seasons]] or adapt crops to different
-latitudes. The research that began with a peculiar tobacco plant in Maryland has had
-consequences reaching far beyond the original discovery.
-
-## See Also
-- [[darwin-phototropism-discovery-plant-light-perception]]
-- [[phytochrome-red-far-red-light-switch]]
-- [[phototropism-darwin-plant-light-sensing]]

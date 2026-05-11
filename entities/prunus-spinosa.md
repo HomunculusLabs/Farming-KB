@@ -8,7 +8,7 @@ tags:
   - sloe
   - edible-fruit
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - hedgerow
   - europe
   - nitrogen-fixer-associated
@@ -57,7 +57,7 @@ Its relationship to *P. domestica* (cultivated plum) is debated; blackthorn is e
 
 **Flowers:** Solitary or paired, white, 1.5–2 cm diameter, 5 petals, appearing March–April on bare branches before or with the leaves.
 
-The early flowering makes blackthorn an important early nectar source; however, late frosts frequently damage the blossoms.
+The [[equatorial-photoperiod-early-flowering]] makes blackthorn an important early nectar source; however, late frosts frequently damage the blossoms.
 
 **Fruit:** Drupes (stone fruits), 10–15 mm diameter, round to slightly oblong, blue-black with a waxy bloom, ripening September–October.
 
@@ -71,7 +71,7 @@ It also occurs in northwest Africa (Morocco, Algeria, Tunisia) and has been wide
 
 The species occupies a broad ecological range from sea level to 1,600 m, tolerating both acidic and calcareous soils.
 
-It is a characteristic component of European hedgerows, scrub communities, forest edges, and secondary succession on abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
+It is a characteristic component of European hedgerows, scrub communities, forest edges, and [[comparison-primary-vs-secondary-succession]] on abandoned [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]].
 
 Blackthorn is highly tolerant of exposure, wind, and moderate shade, though it fruits most abundantly in full sun.
 
@@ -85,42 +85,6 @@ Sloe gin, sloe jelly, sloe jam, and fruit preserves are traditional across Brita
 
 Sloes are also used in country wines, cordials, and liqueurs, and the fruit can be dried and ground as a flavoring for baked goods.
 
-Nutritional analysis reveals high levels of anthocyanins, vitamin C, and polyphenolic compounds, particularly in the dark skin.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] reveals high levels of anthocyanins, vitamin C, and polyphenolic compounds, particularly in the dark skin.
 
 ## Medicinal and Ethnobotanical Uses
-
-Flower preparations (sloe blossom tea) have been used in European folk medicine as a mild laxative, diuretic, and remedy for stomach complaints.
-
-Bark decoctions were traditionally applied externally for skin eruptions and as a mouthwash for gum inflammation.
-
-The fruits contain cyanogenic glycosides (primarily amygdalin), which are concentrated in the seeds and released upon crushing; however, fruit preparations are safe at normal culinary doses.
-
-Modern pharmacological studies demonstrate antioxidant, anti-inflammatory, and hepatoprotective effects of sloe fruit extracts in vitro.
-
-Sloe fruit extracts show antimicrobial activity against *Helicobacter pylori* and select intestinal pathogens, supporting traditional digestive remedy use.
-
-## Permaculture and Ecological Applications
-
-Blackthorn is one of the most effective barrier hedge plants available, forming dense, thorny thickets that are livestock-proof and wildlife-rich.
-
-It is widely used in native hedgerow restoration across Europe, providing windbreaks, soil stabilization, and wildlife corridors.
-
-The flowers support early-emerging pollinators (bumblebees, solitary bees, butterflies) when few other nectar sources are available.
-
-The fruit is consumed by numerous bird species (thrushes, blackbirds, waxwings) and mammals (foxes, badgers, dormice).
-
-It serves as the larval host plant for several moth species including the lackey moth (*Malacosoma neustria*) and brown-tail moth (*Euproctis chrysorrhoea*).
-
-In permaculture systems, blackthorn can be incorporated into windbreak plantings, food forest edge plantings, and wildlife corridors.
-
-Root suckering habit can be managed by periodic cutting; the plant regrows vigorously from the base, making it a renewable hedge resource.
-
-## See Also
-
-- crataegus-monogyna
-- rubus-idaeus-entity
-- rubus occidentalis
-- [[sambucus-nigra]]
-- hippophae-rhamnoides
-- [[prunus-domestica]]
-- [[capparis-spinosa]]

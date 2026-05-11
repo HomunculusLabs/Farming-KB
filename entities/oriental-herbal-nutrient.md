@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/chos-global-natural-farming.md]
 ---
 # Oriental Herbal Nutrient
-**[[herbal-medicine]] of the Cho Global Natural Farming system, OHN functions as a [[jadam-natural-pesticide-institute-and-research]], plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
+**[[herbal-medicine]] of the Cho [[chos-global-natural-farming-input-reduction-methods]] system, OHN functions as a [[jadam-natural-pesticide-institute-and-research]], plant disease preventive, growth stimulant, and immune booster for crops. The preparation draws on centuries of traditional East Asian herbal medicine, selecting five herbs with documented antimicrobial, antifungal, and plant-strengthening properties.
 ## The Five Herbs
 ### 1. Angelica gigas (Korean Angelica / Dang Gui / 당귀)
 * **Plant family:** Apiaceae
@@ -49,7 +49,7 @@ Each herb is prepared separately before combining:
 **For Garlic and Ginger (fresh herbs):**
 1. Crush or finely chop the fresh herb material
 2. Mix with brown sugar at 1:1 ratio by weight
-3. The sugar draws out the juices through osmotic extraction, and natural lactic acid bacteria initiate fermentation
+3. The sugar draws out the juices through osmotic extraction, and natural [[bionutrients-lab-lactic-acid-bacteria-serum]] initiate fermentation
 4. Cover and ferment for 5–7 days at room temperature
 5. Strain the liquid extract
 ### Stage 2: Combination
@@ -74,34 +74,17 @@ For those making their own rice wine:
 * Soak seeds in 1:500 OHN solution for 4–8 hours before planting
 * Protects seeds from soil-borne pathogens during germination
 * Stimulates early root developirrigation-systems Soil Drench
-* Dilute 1:1000 and apply to root zone for soil-borne disease prevention
+* Dilute 1:1000 and apply to root zone for soil-borne [[cervantes-damping-off-seedling-disease-prevention]]
 * Particularly effective against damping-off (*Pythium*, *Fusarium*, *Rhizoctonia*) in seedlings
-* Can be applied through drip irrigation systems
+* Can be applied through [[cervantes-drip-irrigation-systems]]
 ### Combination Treatments
 OHN is typically combined with other KNF inputs for synergistic effects:
 * **FPJ + OHN:** 1:500 FPJ + 1:1000 OHN ffish-amino-acidrition and disease protection during vegetative growth
 * **FPJ + OHN + WCA:** Adding Water-Soluble Calcium (1:1000) during fruiting stage enhances fruit quality and disease resistance
-* **OHN + FAA:** Combining with Fish Amino Acid (1:1000 each) provides both disease protection and nitrogen supplementation
+* **OHN + FAA:** Combining with Fish Amino Acid (1:1000 each) provides both disease protection and [[nitrogen-supplementation-for-mushroom-substrates]]
 ## Mechanisms of Action
 ### Direct Antimicrobial Effects
 * **Allicin** from garlic disrupts thiol-containing enzymes in microbial cells, inhibiting growth of bacteria, fungi, and viruses
 * **Cinnamaldehyde** from cinnamon damages microbial cell membranes through interaction with lipid bilayers, causing leakage of cellular contents
 * **Decursin** from Angelica gigas inhibits fungal spore germination and mycelial growth
 * **Gingerol** from ginger disrupts bacterial membrane integrity and inhibits biofilm formation
-### Plant Defense Induction
-OHN compounds trigger plant immune responses:
-* **Systemic Acquired Resistance (SAR):** Allicin and gingerol upregulate PR (pathogenesis-related) protein gene expression, including chitinases and β-1,3-glucanases that degrade fungal cell walls
-* **[[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance (ISR):** OHN-treated plants show enhanced callose deposition at infection sites, strengthened cell walls, and [[fukuoka-textdoc-increased-production-not-increased-yields]] of phytoalexins
-* **Antioxidant enzyme activation:** OHN application upregulates plant superoxide dismutase (SOD), catalase (CAT), and peroxidase (POD) activity, improving the plant's capacity to manage oxidative stress from pathogen attack
-### Insect Deterrence
-* [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (cinnamaldehyde, diallyl disulfide, gingerol) act as antifeedants and repellents
-* The spicy aromatic profile masks host plant cues that insects use for location
-* Direct contact toxicity to soft-bodied insects and mites at higher concentrations
-## Limitations and Considerations
-* **Not a replacement for sanitation:** OHN is a preventive measure and works best in conjunction with good cultural practices (crop rotation, proper spacing, adequate drainage)
-* **Variable potency:** Active compound concentrations vary with herb quality, source, harvest time, and preparation precision
-* **Regulatory status:** OHN's status under organic certification standards varies by certifying body and country; some accept it as a permitted input, others require specific documentation
-* **Potential phytotoxicity:** Over-application (exceeding 1:500 dilution) can cause leaf burn, particularly on sensitive crops and young seedlings
-## See Also
-* [[lactic-acid-bacteria]] — Microorganisms involved in OHN fermentation
-* [[indigenous-microorganisms]] — IMO preparations used in KNF systems

@@ -19,16 +19,16 @@ type: concept
 Grain spawn is the bridge between the laboratory and the [[duggar-mushroom-growing-room-design]].
 It serves the purpose of boosting mycelium to a state of vigor, serving
 as the launching pad from which the mycelium is introduced into bulk
-substrates. The concept is simple: mushroom mycelium is grown on
+substrates. The concept is simple: [[antimicrobial-compounds-mushroom-mycelium]] is grown on
 sterilized grain inside jars, bags, or bottles, and once fully
 colonized, this grain is used to inoculate a much larger mass of the
 final [[pf-tek-maximum-fruiting-substrate-formula]]. The grain provides an ideal medium because
-each kernel becomes an individual inoculation point, allowing rapid
+each kernel becomes an individual [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]], allowing rapid
 and thorough colonization of the target substrate.
 
 ## Choice of Grain
 
-Rye grain is the most popular choice for [[spawn-production]].
+[[bigwood-beug-miniculture-rye-grain-flush-variation-method]] is the most popular choice for [[spawn-production]].
 Both achieve the goal of hydrating the grain to optimal moisture levels
 while rendering it free of competitors through sterilization.
 
@@ -42,7 +42,7 @@ free water collects at the bottom of the containers. Excess water
 promotes bacterial growth and anaerobic conditions that are
 detrimental to mycelium. After draining, the grain is loaded into
 sterilization containers, typically to about 2/3 of their volume to
-allow room for shaking during the spawn run.
+allow room for shaking during the [[mushroom-spawn-run-thermogenesis-cotter]].
 
 ### Method 2: Dry Grain Plus Hot Water
 
@@ -55,7 +55,7 @@ ratio is approximately 2 parts water to 1 part dry grain by volume.
 
 ## Jar Preparation and Filtration
 
-Jars used for grain spawn must be fitted with gas exchange filters
+Jars used for grain spawn must be fitted with [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] filters
 that allow the mycelium to breathe while excluding contaminant spores.
 A common design features a 1/3 to 1/2 inch hole in the lid, covered
 with a microporous filter disc. These filter discs allow the passage
@@ -88,33 +88,3 @@ to kernel. Periodic shaking of the containers redistributes the
 colonized kernels throughout the uncolonized grain, dramatically
 accelerating the colonization process. Most cultivators shake at
 approximately 20-30% colonization and again at 70-80%. Full
-colonization is typically achieved within 10-21 days depending on the
-species, grain type, and incubation conditions. By day 14, well-
-colonized jars display grayish-white mycelium typical of Oyster,
-Shiitake, Enokitake, Reishi, and [[cotter-king-stropharia-cultivation]] species.
-
-## Thermogenesis
-
-High spawn rates can cause thermogenesis, a phenomenon where the
-[[arbuscule-isolation-metabolic-activity-assays]] of the colonizing mycelium generates significant
-heat. Bags placed too close together during incubation can experience
-internal temperatures 5-10 degrees F above ambient. This heat must be
-accounted for, especially in warm environments where the combined
-[[jadam-ambient-temperature-principle]] plus thermogenic heat could exceed the optimal
-range for the species being cultivated. Proper spacing of containers
-and adequate ventilation of the incubation area mitigate this risk.
-
-## Generations of Expansion
-
-Grain spawn can be expanded through multiple generations. From a
-single petri dish, typically 10 quart jars of grain spawn can be
-produced. Each of those jars can inoculate 10 more, yielding 100
-jars from the second generation. A third generation of expansion is
-possible but not recommended for production-quality spawn due to
-senescence concerns. Each transfer carries a small risk of
-contamination or genetic degradation, so limiting the number of
-generations preserves both purity and vigor.
-## See Also
-
-- [[mushroom-sterile-technique]] for laboratory protocols
-- [[enriched-sawdust-cultivation]] for the next stage after grain spawn

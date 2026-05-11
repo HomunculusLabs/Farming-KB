@@ -88,31 +88,3 @@ Friedrich Sertürner isolated morphine in 1804 and named it after Morpheus, the 
 The invention of the hypodermic syringe in the 1850s enabled parenteral morphine administration, dramatically increasing its therapeutic utility and abuse potential.
 
 Morphine addiction became widespread during and after the American Civil War, known as "soldier's disease."
-
-International control began with the 1912 Hague International Opium Convention and continues under the 1961 UN Single Convention on Narcotic Drugs.
-
-Morphine is listed in Schedule II of the US Controlled Substances Act and Class A under the UK Misuse of Drugs Act.
-
-The WHO lists morphine on its Model List of Essential Medicines as a core analgesic.
-
-## Related Compounds
-
-Codeine is the 3-O-methyl derivative of morphine, with approximately 1/6th the analgesic potency and weaker respiratory depressant effects.
-
-Heroin (diacetylmorphine) is the 3,6-diacetyl ester of morphine, exhibiting increased lipid solubility and brain penetration.
-
-Thebaine, another opium alkaloid, serves as the precursor for synthesis of oxycodone, hydrocodone, and buprenorphine.
-
-Morphine-6-glucuronide (M6G) is an active metabolite with 2–4 times the analgesic potency of morphine itself.
-
-Naloxone and naltrexone are competitive μ-opioid receptor antagonists used to reverse opioid overdose and treat opioid dependence.
-
-Buprenorphine is a partial MOR agonist used in medication-assisted treatment for opioid use disorder.
-
-## See Also
-
-- [[mckenna-opium-history-demeter-poppy]]
-- [[ibogaine]]
-- mitragynine
-- [[psilocybin]]
-- [[5-meo-dmt-entity]]

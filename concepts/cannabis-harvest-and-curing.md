@@ -1,5 +1,5 @@
 ---
-title: Cannabis Harvest and Curing
+title: Cannabis Harvest And Curing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Harvest and curing are the final and most patient-dependent stages of cannabis cultivation. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+Harvest and curing are the final and most patient-dependent stages of [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. Proper technique during these phases preserves the terpenes, potency, and smoothness developed during the grow. Rushing any step — harvest timing, drying speed, or cure duration — directly reduces quality.
 
 ## Harvest Timing
 
-Proper timing depends on monitoring trichome development throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
+Proper timing depends on monitoring [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] throughout the [[cannabis-flowering-stage]]. The [[cannabis-environment-control]] during final weeks also affects terpene preservation at harvest. Key summary:
 
 - **Clear trichomes**: Too early — lower potency, grassy taste
 - **Milky/cloudy trichomes**: Peak potency — energetic, cerebral effect
@@ -30,11 +30,11 @@ Also consider:
 
 ### Flushing
 
-If growing in hydroponics or with synthetic nutrients, stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers nutrient availability. (see [[comparison-fermented-vegetables-vs-canning]]).
+If growing in hydroponics or with [[organic-nutrients-vs-synthetic-nutrients]], stop feeding and run plain water for 5-14 days before harvest. Living soil grows typically do not require flushing — the soil biology naturally tapers [[ph-and-nutrient-availability-garden-soils]].
 
 ### Dark Period
 
-Some growers give plants 24-48 hours of complete darkness before harvest. The theory is that this pushes the plant to produce final trichome development and terpenes. Evidence is anecdotal but many experienced growers swear by 24-48 hours of dark. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
+Some growers give plants 24-48 hours of complete darkness before harvest. The theory is that this pushes the plant to produce final [[trichome-development-and-morphology]] terpenes. Evidence is anecdotal but many experienced growers swear by 24-48 hours of dark.
 
 ### Equipment Preparation
 

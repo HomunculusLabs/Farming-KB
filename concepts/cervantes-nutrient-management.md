@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, nutrients]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Nutrient Management and Deficiency Symptoms
@@ -87,11 +88,3 @@ Nutrients are grouped into three categories:
 
 ## Related Topics
 - [[cervantes-flowering-phase]] — [[green-cannabis-grow-bible-flowering-phase-and-harvest]] nutrient changes
-
-## See Also
-
-- [[cervantes-nutrient-solution-reservoir-management]]
-
-- [[cannabis-nutrient-toxicity]]
-- [[cannabis-nitrogen]]
-- [[cannabis-phosphorus]]

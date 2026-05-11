@@ -10,10 +10,10 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora of North America 23: 254–572.
+  - Ball, P.W. & Reznicek, A.A. (2002). "Carex." Flora huckleberries-and-wild-berries-of-north-america 23: 254–572.
   - Flora of China Editorial Committee (2010). "Carex rostrata." Flora of China 23: 312.
   - USDA NRCS (2024). "PLANTS Profile — Carex rostrata."
-  - Thormann, M.N. & Bayley, S.E. (1997). "Aboveground net primary production along a bog-fen-marsh gradient." Canadian Journal of Botany 75(1): 106–118.
+  - Thormann, M.N. & Bayley, S.E. (1997). "Aboveground net [[lichens-primary-production-soil-formation-dighton]] along a bog-fen-marsh gradient." Canadian Journal of Botany 75(1): 106–118.
 ---
 
 # Carex rostrata
@@ -24,9 +24,9 @@ Carex rostrata, commonly known as beaked sedge or blunt-broom sedge, is a perenn
 
 It is distinguished by its inflated, bottle-shaped perigynia that taper to a distinct beak.
 
-The species is widespread across boreal and temperate regions of the Northern Hemisphere, where it forms extensive sedge mats in shallow water and marshes.
+The species is widespread across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere, where it forms extensive sedge mats in shallow water and marshes.
 
-It plays a significant ecological role in nutrient cycling and carbon storage in northern peatlands.
+It plays a significant ecological role in [[soil-protozoa-nutrient-cycling-and-mineralization]] carbon storage in northern peatlands.
 
 ## Taxonomy and Morphology
 
@@ -54,7 +54,7 @@ Achenes are tightly enclosed within the inflated perigynium, approximately 2–2
 
 Carex rostrata has a circumboreal distribution across northern North America and Eurasia.
 
-In North America, it ranges from Alaska across Canada to the northern tier of the United States, including the Pacific Northwest, Great Lakes region, and New England.
+In North America, it ranges from Alaska across Canada to the northern tier of the United States, including the [[psilocybin-north-america-pacific-northwest]], Great Lakes region, and New England.
 
 Eurasian populations extend from Scandinavia and the British Isles across Russia to Siberia, Mongolia, and northern Japan.
 
@@ -84,41 +84,6 @@ The inflated perigynia float readily, enabling effective waterborne seed dispers
 
 ## Cultivation and Uses
 
-Carex rostrata is used in ecological restoration projects aimed at re-establishing native wetland vegetation.
+Carex rostrata is used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects aimed at re-establishing native wetland vegetation.
 
 Its tolerance of fluctuating water levels makes it suitable for stormwater treatment wetlands and constructed marshes.
-
-Propagation is most successful from rhizome divisions, as seed germination rates are low without cold stratification.
-
-When grown from seed, a 60–90 day cold-moist stratification period significantly improves germination.
-
-The species has limited ornamental value but is valued by native plant enthusiasts for naturalized pond edges.
-
-Indigenous peoples of the subarctic have historically used the leaves for weaving mats and baskets.
-
-It is occasionally available from wetland plant nurseries specializing in native species for restoration.
-
-## Conservation Status
-
-Carex rostrata is globally secure with an extensive circumboreal range.
-
-No major conservation concerns exist at the species level across its range.
-
-Local declines have been noted in regions of intensive wetland drainage, particularly in agricultural landscapes of the upper Midwest and Europe.
-
-The species recovers well when hydrology is restored in degraded wetlands, making it a reliable candidate for reclamation.
-
-Climate-driven changes in boreal wetland hydrology may shift the distribution northward over coming decades.
-
-It is protected incidentally through wetland conservation programs in Canada, Scandinavia, and the northern United States.
-
-## See Also
-
-- [[carex-lasiocarpa]]
-- [[carex-aquatilis]]
-- [[carex-stricta]]
-- [[typha-latifolia]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[myriophyllum-spicatum]]
-- [[phragmites-australis]]

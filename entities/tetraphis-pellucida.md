@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." Cambridge University Press.
-  - Crum, H.A. & Anderson, L.E. (1981). "Mosses of Eastern North America." Columbia University Press.
+  - Crum, H.A. & Anderson, L.E. (1981). "Mosses of [[polypore-fungi-eastern-north-america]]." Columbia University Press.
   - Glime, J.M. (2017). "Bryophyte Ecology." Michigan Technological University.
   - Nishimura, N. (1985). "Life history strategies of Tetraphis pellucida." Journal of the Hattori Botanical Laboratory, 59, 141–152.
 ---
@@ -20,7 +20,7 @@ sources:
 
 Tetraphis pellucida, commonly known as the pellucid four-tooth moss, is a small moss species in the monogeneric family Tetraphidaceae.
 
-It is widely distributed across temperate and boreal regions of the Northern Hemisphere, occurring in North America, Europe, and Asia.
+It is widely distributed across temperate and boreal regions of the Northern Hemisphere, occurring in [[guzman-psilocybin-mushrooms-north-america]], Europe, and Asia.
 
 The species is notable for its distinctive cup-shaped gemmae-bearing structures, a reproductive feature uncommon among mosses.
 
@@ -60,7 +60,7 @@ The species is also widespread across Europe, from Scandinavia and the British I
 
 In Asia, it ranges from Siberia and Japan southward through the Himalayan region.
 
-The species is most commonly found on decaying conifer logs and stumps in moist, shaded forest environments.
+The species is most commonly found on decaying conifer [[query-how-to-grow-gourmet-mushrooms-outdoors-on-logs-and-stumps]] in moist, shaded forest environments.
 
 It also colonizes shaded, damp rock surfaces, particularly sandstone and limestone in wooded ravines and gorges.
 
@@ -76,7 +76,7 @@ Tetraphis pellucida is a classic pioneer species that plays an important role in
 
 Its rapid colonization of recently exposed wood surfaces helps initiate the bryophyte community that precedes vascular plant establishment.
 
-The species contributes to moisture retention on decaying logs, facilitating decomposition by fungi and other microorganisms.
+The species contributes to moisture retention on decaying logs, facilitating [[wood-decomposition-by-fungi]] and other microorganisms.
 
 On shaded rock surfaces, Tetraphis pellucida is among the first mosses to establish, often forming small pioneer communities.
 
@@ -86,45 +86,4 @@ Gemmae are dispersed by rain splash, which ejects the small propagules several c
 
 The species frequently co-occurs with other pioneer mosses such as Lophocolea heterophylla and Nowellia curvifolia on decaying wood.
 
-In mature forest ecosystems, Tetraphis pellucida populations tend to decline as shading increases and competitor mosses become established.
-
-## Reproduction
-
-Tetraphis pellucida employs a dual reproductive strategy involving both sexual and asexual reproduction.
-
-Asexual reproduction through gemmae is the primary mode of propagation in most populations.
-
-The gemmae cups are produced at stem apices during favorable growing conditions, typically in spring and autumn.
-
-Each cup can produce dozens of gemmae, which are dispersed by rain splash to establish new colonies nearby.
-
-Sexual reproduction is less frequent and occurs when sufficient moisture is available for sperm transfer.
-
-The species is autoicous, with male and female reproductive structures borne on the same stem.
-
-The sporophyte capsule is erect and cylindrical, with a distinctive four-toothed peristome that aids in gradual spore release.
-
-Spores are small, ranging from 8 to 14 micrometers in diameter, and are wind-dispersed.
-
-## Conservation
-
-Tetraphis pellucida is widespread and not considered threatened at the global or regional level.
-
-The species benefits from forest management practices that retain decaying wood and maintain humid microclimates.
-
-However, intensive forestry practices that remove dead wood and simplify forest structure can reduce available habitat.
-
-Air pollution and acid deposition may negatively affect populations in some industrialized regions of Europe.
-
-The species is relatively tolerant of moderate habitat disturbance and can persist in secondary forests and managed woodlands.
-
-## See Also
-
-- [[bryum-argenteum]]
-- [[funaria-hygrometrica]]
-- [[dicranum-scoparium]]
-- [[hypnum-cupressiforme]]
-- [[mnium-hornum]]
-- [[aulacomnium-palustre]]
-- [[rhytidiadelphus-triquetrus]]
-- [[polytrichum-commune]]
+In mature [[dighton-fungi-acidifying-pollutants-forest-ecosystems]], Tetraphis pellucida populations tend to decline as shading increases and competitor mosses become established.

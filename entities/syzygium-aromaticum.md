@@ -9,6 +9,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Jaffee, S. et al. (2005). "The World Clove Economy." World Bank Agriculture & Rural Development Working Paper.
   - Li, X. et al. (2019). "Chemical composition and biological activities of clove essential oil." Journal of Agricultural and Food Chemistry, 67(43), 11940-11951.
   - Chaieb, K. et al. (2007). "Antimicrobial activity of essential oils." Phytotherapy Research, 21(6), 501-507.
@@ -87,27 +88,3 @@ The species is a significant nectar source for honey bees (*Apis cerana* and *A.
 ## History and Trade
 
 Cloves were among the most precious spices in ancient trade, valued in Han Dynasty China (c. 200 BCE) for breath freshening and court rituals. Archaeological evidence shows cloves in a burned-down kitchen in Syria dating to c. 1700 BCE, indicating early Indo-Pacific trade networks.
-
-The Portuguese seized control of the Maluku clove trade in the early 16th century under Afonso de Albuquerque. The Dutch East India Company (VOC) later monopolized production through the "extirpation policy," destroying trees on islands outside their control to maintain scarcity and high prices.
-
-French colonial administrator Pierre Poivre successfully smuggled clove seedlings to Mauritius and Réunion in the 1770s, breaking the Dutch monopoly. From these introductions, cultivation spread to Zanzibar, Madagascar, and eventually the East African coast, which became the world's leading producer by the mid-19th century.
-
-## Culinary and Commercial Uses
-
-Whole cloves are used in pickling, mulled beverages, baked goods, and spice blends such as garam masala, Chinese five-spice powder, and quatre-épices. Ground clove is used in baked goods, fruit pies, and meat marinades.
-
-Indonesia's kretek industry is the single largest commercial application, blending clove with tobacco to produce aromatic cigarettes that account for approximately 5% of national GDP. The industry consumes over 50,000 tonnes of cloves annually.
-
-Clove oil is used as a flavoring agent in food products, a fragrance component in perfumery, and a raw material for vanillin synthesis. Industrial applications include use as a metal corrosion inhibitor and as a biopesticide.
-
-## See Also
-
-- [[eugenia-caryophyllata]]
-- [[cinnamomum-verum]]
-- [[cymbopogon-citratus]]
-- [[curcuma-longa]]
-- [[capsicum-annuum]]
-- [[mentha-piperita]]
-- [[eugenia-bone]]
-- [[cinnamomum-cassia]]
-- [[cinnamomum-camphora]]

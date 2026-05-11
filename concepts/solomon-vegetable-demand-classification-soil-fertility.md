@@ -1,5 +1,5 @@
 ---
-title: "Vegetable Demand Classification Low Medium High and Soil Fertility Gradient"
+title: Solomon Vegetable Demand Classification Soil Fertility
 source: "gardening-when-it-counts-steve-solomon.md"
 source_author: "Steve Solomon"
 published: 2005
@@ -23,7 +23,7 @@ is designed for "hard times" gardening where resources are limited.
 ### Low-Demand Vegetables
 
 These crops produce adequately in relatively poor soil with minimal
-amendment. They include many root crops, legumes, and leafy greens
+amendment. They include many root crops, legumes, [[lettuce-and-leafy-greens]]
 that have evolved to extract nutrients efficiently. Examples include
 potatoes, Jerusalem artichokes, garlic, onions, leeks, shallots,
 many bean varieties, and certain leafy greens. Low-demand crops can
@@ -47,7 +47,7 @@ fertility investment. Solomon specifically identifies celery and
 cauliflower as examples requiring extremely high soil fertility.
 The recommendation for these crops is a full inch of finished
 compost or manure, plus chicken manure, plus lime, plus the
-Complete Organic Fertilizer (COF) blend. Without this level of
+[[complete-organic-fertilizer-cof]] (COF) blend. Without this level of
 investment, high-demand vegetables will be disappointing.
 
 ## The Complete Organic Fertilizer (COF)
@@ -62,8 +62,8 @@ The COF concept is based on the principle that if soil in an area
 contains a reasonably balanced mineral profile, plants grown in that
 soil will be nutritious. Transporting manure or compost from
 surrounding vegetation maintains that balance. However, if local
-soils lack a perfect mineral balance, adding specific rock powders
-and organic amendments can correct deficiencies.
+soils lack a perfect [[garden-soil-fertility-mineral-balance-solomon]], adding specific rock powders
+and [[cervantes-organic-amendments-chart]] can correct deficiencies.
 
 ## Soil Improving Gradient Approach
 
@@ -87,49 +87,3 @@ vegetables.
 Exceeding recommended manure/compost amounts by half or double is
 always wise, but never apply more than double the COF recommendation
 to avoid unbalancing soil minerals.
-
-## Important Warnings
-
-- **Never overapply COF** — it is potent. More is not better for
-  mineral amendments. If vegetables aren't growing well enough,
-  add more manure or compost, not more COF.
-- **Steer manure limitations** — sacked steer manure from
-  supermarkets often contains semi-decomposed sawdust and has
-  little fertilizing value. It feeds soil microbes and improves
-  structure but is not hugely overapplied.
-- **Chicken manure potency** — far better than steer manure for
-  fertilizing, typically with NPK of 4-3-2, but must not be
-  overused or it will unbalance soil nutrients.
-- **Potassium-yield tradeoff** — pushing soil potassium higher
-  with additional fertilizer increases yield but decreases the
-  nutritional content of vegetables by approximately the same
-  amount. Most commercial growers make this mistake.
-- **Lime caution** — excessive liming harms soil. Never exceed
-  recommended amounts.
-
-## Band Fertilizing (Starter Fertilization)
-
-For large-seeded plants like corn, squash, and beans, Solomon
-recommends "banding" additional fertilizer: making hills and
-putting extra strong fertilizer in each hill. As young plants
-put out roots, they immediately discover a zone of highly fertile
-soil, getting a fast start that helps them outgrow environmental
-threats. Agronomists call this practice "banding."
-
-## The Nutrition Connection
-
-Solomon references Russian researcher Krasil'nikov's concept of
-"biologically active substances" — organic chemicals produced by
-the soil ecology that plants absorb. Plants grown in soil with a
-complete, balanced mineral profile and active soil biology contain
-more vitamins, minerals, amino acids, and other nutritional
-compounds. The COF approach specifically targets this nutritional
-quality rather than merely maximizing yield.
-
-## See Also
-
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
-- [[solomon-wide-spacing-versus-intensive-gardening-debate]]
-- [[solomon-potassium-yield-versus-nutrition-tradeoff]]
-- [[solomon-seed-saving-guide]]
-- [[solomon-low-grade-compost-making-methods]]

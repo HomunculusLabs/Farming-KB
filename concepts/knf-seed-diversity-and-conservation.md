@@ -88,37 +88,3 @@ While native seeds are preferred, the source acknowledges that many
 farmers rely on commercial seeds. Natural Farming aims to maximize
 whatever seed strength is available. The cho han kyu
 provides a method for treating commercial seeds to recover their
-natural powers.
-
-Commercial seeds are described as being soaked in chemicals and
-unable to grow without human protection. The conventional practice of
-soaking seeds for long periods before broadcast causes nutrient loss.
-KNF uses a brief seed/[[cho-seed-seedling-solution-treatment]] treatment period to restore
-the seed's natural vitality without the drawbacks of prolonged
-soaking.
-
-## Conservation as a Foundation for Natural Farming
-
-The source presents seed diversity conservation as inseparable from
-the practice of Natural Farming. Dr. Cho's insistence that farmers
-are free to experiment with locally available ingredients for
-preparations lends flexibility and adaptability to the system. This
-same philosophy extends to seed selection: farmers are encouraged to
-work with native varieties that have proven themselves in local
-conditions.
-
-The conservation of seed diversity from the perspective of preventing
-lifestyle diseases is described as the need of the hour. The sage
-advice of cho han kyu and its legacy represents the living nature of
-seed and agriculture, connecting traditional wisdom with modern
-farming practice.
-
-## Key Principles
-
-- Native seed varieties have superior adaptability, pest resistance,
-  and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] compared to commercial seeds.
-
-## See Also
-- [[knf-imo-diversity-and-best-practices]]
-- [[seed-saving-techniques]]
-- [[gadd-fungal-biodiversity-conservation]]

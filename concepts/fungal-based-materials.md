@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on agricultural waste substrates to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction. (see [[query-what-are-mycelium-materials-and-how-are-they-made]]).
+Fungal-based materials use mycelium — the vegetative body of fungi — as a raw material for manufacturing sustainable alternatives to conventional products. Mycelium can be grown on [[agricultural-waste-substrates]] to produce materials with properties comparable to polystyrene foam, leather, wood, and concrete. This emerging field represents a convergence of mycology, materials science, and sustainable design, with applications in packaging, fashion, architecture, and construction.
 
 ## Mycelium as a Manufacturing Material
 
@@ -26,7 +26,7 @@ Mycelium offers several unique advantages as a material:
 - Customizable: Material properties can be tuned by varying species, substrate, density, and processing
 - Carbon-sequestering: Fungi capture carbon during growth; materials can be carbon-negative
 - Rapid growth: Full colonization of substrate typically takes 3-14 days
-- Fire resistant: Many mycelium materials are naturally fire retardant
+- Fire resistant: Many [[comparison-mycelium-materials-vs-bioplastics-pla-pha]] are naturally fire retardant
 
 ### Limitations
 
@@ -68,7 +68,7 @@ Products:
 
 - Grown.bio (Netherlands): Open-source mycelium packaging technology
 - Magical Mushroom Company (UK): Commercial mycelium packaging products
-- MycoComposite: General term for mycelium-bound substrate materials
+- MycoComposite: General term for mycelium-bound [[growing-gourmet-substrate-materials-wood-types]]
 
 ## Mycelium Leather
 
@@ -77,7 +77,7 @@ Products:
 MycoWorks developed Fine Mycelium, a premium leather alternative:
 
 Process:
-- Mycelium is grown under controlled conditions to produce a dense, uniform mat
+- Mycelium is grown under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]] to produce a dense, uniform mat
 - The material is tanned, finished, and processed using techniques adapted from traditional leather tanning
 - Result is a material with hand, drape, and durability comparable to animal leather
 
@@ -127,7 +127,7 @@ Bolt Threads developed Mylo, another mycelium leather:
 
 ## Building Materials (Mycotecture)
 
-Mycelium bricks are grown by packing substrate (straw, sawdust) into forms, inoculating with spawn, growing 5-14 days, then drying to stabilize. Properties: density 100-400 kg/m³, compressive strength up to 0.8 MPa (non-load-bearing), thermal insulation R-3 to R-4 per inch, naturally fire retardant, good sound absorption. (see [[mycelium-composites-materials]]).
+Mycelium bricks are grown by packing substrate (straw, sawdust) into forms, inoculating with spawn, growing 5-14 days, then drying to stabilize. Properties: density 100-400 kg/m³, compressive strength up to 0.8 MPa (non-load-bearing), thermal insulation R-3 to R-4 per inch, naturally fire retardant, good sound absorption.
 
 Notable project: The Living's Hy-Fi pavilion at MoMA PS1 (2014) — 12m tower of cornstalk-mycelium bricks, composted after exhibition (zero waste).
 
@@ -146,5 +146,4 @@ Carbon-negative or neutral (sequesters CO₂ during growth), uses agricultural w
 
 ## Future Directions
 
-3D printing with mycelium, genetic engineering for optimized properties, hybrid materials, smart materials responsive to stimuli, localized distributed manufacturing using local waste substrates.
-
+3D printing with mycelium, [[fukuoka-critique-genetic-engineering]] for optimized properties, hybrid materials, smart materials responsive to stimuli, localized distributed manufacturing using local waste substrates.

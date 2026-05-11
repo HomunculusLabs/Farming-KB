@@ -3,7 +3,9 @@ title: "What Is the Difference Between a High Tunnel and a Hoop House?"
 tags: [query, season-extension, greenhouse, high-tunnel, hoop-house]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
+  - "raw/papers/permaculture-designers-manual-bill-mollison.md"
 ---
 
 # What Is the Difference Between a High Tunnel and a Hoop House?
@@ -16,7 +18,7 @@ The term "high tunnel" is more commonly used in academic and USDA contexts, whil
 
 In practice, high tunnels tend to be taller and designed for standing-height growing, whereas smaller hoop houses may be low and require bending to enter.
 
-Both structures extend the growing season by trapping solar heat and protecting crops from wind, rain, and frost.
+Both structures extend the [[extending-growing-season]] by trapping solar heat and protecting crops from wind, rain, and frost.
 
 ## Are They Actually Different Structures?
 
@@ -58,7 +60,7 @@ Both use curved ribs (hoops) made from metal conduit, PVC pipe, or bent wood.
 
 Both are covered with 6-mil polyethylene plastic sheeting, typically UV-resistant.
 
-Both rely on passive solar heating with no artificial heat source.
+Both rely on [[mollison-designers-passive-solar-heating-building-design]] with no artificial heat source.
 
 Both lack permanent concrete foundations and can be moved or disassembled.
 
@@ -82,11 +84,11 @@ Neither is considered a permanent building in most zoning codes.
 
 [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel|Cold frames and low tunnels]] are much smaller and sit directly over individual beds.
 
-[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season|Frost protection]] covers like row covers and frost blankets are temporary and removed during the day.
+[[query-how-to-protect-plants-from-frost-and-extend-the-growing-season|Frost protection]] covers like [[solomon-row-covers-and-season-extension]] frost blankets are temporary and removed during the day.
 
 [[query-how-to-build-a-passive-solar-greenhouse|A passive solar greenhouse]] typically has a solid wall on one side and glazing on the other for better heat retention.
 
-[[query-how-do-i-grow-cannabis-in-a-greenhouse|Greenhouses]] for cannabis often include supplemental lighting and climate control that high tunnels lack.
+[[query-how-do-i-grow-cannabis-in-a-greenhouse|Greenhouses]] for cannabis often include supplemental lighting and [[mollison-pdc-trellis-systems-climate-control]] that high tunnels lack.
 
 [[query-how-do-i-grow-tomatoes-in-a-greenhouse|Greenhouse tomato production]] uses containers and trellising systems not typical in high tunnels.
 
@@ -138,7 +140,7 @@ A mid-size 20-by-50-foot high tunnel with steel frames costs between $2,000 and 
 
 - High tunnels and hoop houses are the same basic structure under different names.
 - High tunnels tend to be taller and used commercially, while hoop houses range from small to large.
-- Both provide passive solar heating, wind protection, and season extension without artificial climate control.
+- Both provide passive solar heating, [[cervantes-wind-protection-outdoor-cannabis]], [[cold-climate-farming-and-season-extension]] without artificial climate control.
 - Ventilation through roll-up sides and open doors is critical to prevent overheating.
 - Crops are grown directly in the ground, distinguishing them from traditional greenhouses.
 
@@ -146,4 +148,3 @@ A mid-size 20-by-50-foot high tunnel with steel frames costs between $2,000 and 
 
 - [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]]
 - [[query-how-to-build-a-passive-solar-greenhouse]]
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

@@ -1,5 +1,5 @@
 ---
-title: Tropical vs Temperate global-distribution-of-neurotropic-fungi Fungi
+title: Tropical Vs Temperate Distribution Neurotropic Fungi
 created: 2026-04-28
 tags:
   - biogeography
@@ -21,9 +21,9 @@ type: concept
 The distribution of neurotropic fungi reveals a pronounced latitudinal
 gradient in species diversity, with the greatest concentration of species
 in tropical and subtropical regions. This pattern reflects both the
-greater overall fungal diversity in tropical ecosystems and the
+greater overall fungal diversity in [[fungal-biodiversity-tropical-ecosystems]] and the
 ecological specialization of many neurotropic species on tropical
-substrates and habitats. However, temperate regions also harbor
+substrates and habitats. However, [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] also harbor
 significant and distinctive neurotropic mycofloras with several notable
 species found exclusively in cooler climates.
 
@@ -32,7 +32,7 @@ species found exclusively in cooler climates.
 Tropical regions contain the majority of the world's [[mexico-center-neurotropic-fungal-biodiversity]]
 species. The paper identifies several tropical centers of diversity:
 
-**Mexico and Central America**: Mexico alone has 76 species, many
+**Mexico and [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]**: Mexico alone has 76 species, many
 associated with tropical and subtropical forests. The states of Oaxaca,
 Veracruz, Puebla, and Chiapas are particularly rich. Central America
 (Guatemala to Panama) contributes additional species, particularly in
@@ -44,7 +44,7 @@ and Venezuela. The Amazon basin and Andean cloud forests are major
 diversity centers, though they remain undersampled.
 
 **Southeast Asia**: Thailand, Cambodia, Indonesia, the Philippines,
-and Sri Lanka host numerous tropical species. Copelandia cyanescens,
+and Sri Lanka host numerous tropical species. [[copelandia-cyanescens]],
 C. cambodginiensis, and [[psilocybe-azurescens]], P.
 baeocystis, P. cyanescens, P. pelliculosa, P. stuntzii, P.
 semilanceata, P. silvatica, and P. strictipes. The cool, wet climate
@@ -80,7 +80,7 @@ corresponding to wet seasons. Temperate species have more defined
 **Habitat specificity**: Tropical species tend to be associated with
 specific microhabitats (dung, disturbed soil, leaf litter in primary
 forest). Temperate species often have broader habitat tolerances but
-may be restricted by temperature and moisture requirements.
+may be restricted by [[mushroom-growing-temperature-and-moisture]] requirements.
 
 ## Biogeographic Patterns
 
@@ -88,39 +88,3 @@ Several important biogeographic patterns emerge from the analysis of
 tropical and temperate distributions:
 
 1. **Pantropical species**: [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] and Copelandia
-   cyanescens occur throughout the tropics on every continent,
-   distributed through the movement of domesticated herbivores.
-
-2. **Disjunct distributions**: Some species show puzzling
-   disjunctions between temperate [[psilocybin-north-america-pacific-northwest]] and Europe (P.
-   semilanceata) or between South America and Australasia,
-   suggesting ancient Gondwanan distributions or recent long-distance
-   dispersal events.
-
-3. **Endemism**: Tropical regions show higher levels of endemism,
-   with many species restricted to single countries or small
-   geographic areas. Mexico, Brazil, and New Zealand are particularly
-   notable for endemic species.
-
-4. **Introduced species**: Several neurotropic species have been
-   widely introduced outside their native ranges, particularly P.
-   cyanescens (from the Pacific Northwest to Europe and elsewhere)
-   and [[allegro-amanita-muscaria-properties-and-pharmacology]] (from the Northern Hemisphere to the Southern
-   Hemisphere).
-
-## Climate and Distribution Limits
-
-Temperature and moisture are the primary factors limiting the
-distribution of neurotropic fungi. Most tropical species cannot
-survive freezing temperatures, limiting them to latitudes below
-approximately 35 degrees. Temperate species have evolved cold
-tolerance mechanisms and may survive extreme winter temperatures
-as mycelium in soil or wood. The availability of appropriate
-substrates (dung in the tropics, wood debris in temperate forests)
-also limits distribution.
-
-## See Also
-
-- [[worldwide-distribution-psilocybin-mushrooms]]
-- [[biogeography-austral-hemisphere-fungi]]
-- [[neurotropic-fungi-classification]]

@@ -30,7 +30,7 @@ The substrate is the material on which mushroom mycelium grows and from which fr
 
 Related: [[mushroom-cultivation-basics]], [[mushroom-sterile-technique-detailed]]
 
-## [[mushroom-cultivation-grain-spawn|Grain Spawn]]
+## [[mushroom-cultivation-grain-spawn]]
 
 Grain spawn is the universal inoculum for expanding mycelium before introducing it to fruiting substrates.
 
@@ -81,19 +81,19 @@ Six non-composted media tested for Lentinus squarrosulus cultivation:
 
 The backbone of commercial indoor cultivation for shiitake, lion's mane, reishi, and others.
 
-- Preferred species: oak, alder, maple, beech. Alder is high in sugar content, low in resins, and abundant in the Pacific Northwest (Stamets).
+- Preferred species: oak, alder, maple, beech. Alder is high in sugar content, low in resins, and abundant in the [[psilocybin-north-america-pacific-northwest]] (Stamets).
 - Avoid conifer/softwood sawdust for most species — resins are inhibitory.
 - Particle size matters: sawdust alone compacts too tightly. Mix with chips (1-3 inches) for better aeration and water retention.
 
 ### Wood Chips
 
-- Ideal for outdoor beds, wine cap, and natural culture methods.
-- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for primordia formation.
+- Ideal for outdoor beds, wine cap, and [[stamets-outdoor-natural-culture-methods]].
+- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for [[growing-gourmet-primordia-formation-pinning]].
 - Fresh chips are preferable to aged; sawdust supports rapid initial growth but soon loses vitality.
 
 ### Straw
 
-- Wheat straw is the standard for oyster mushroom cultivation. Pasturized at 160F for 20-30 minutes.
+- Wheat straw is the standard for [[cotter-oyster-mushroom-cultivation]]. Pasturized at 160F for 20-30 minutes.
 - Straw can be used whole or chopped; chopped permeates more rapidly.
 - Chopped or whole straw adequate for Stropharia rugoso-annulata; compacted 6-12 inches deep.
 
@@ -112,7 +112,7 @@ Supplements boost nutritional value and accelerate colonization and yields.
 |--------|-----------|----------|----------|
 | Hot water pasteurization | 160F (71C) | 20-30 min | Straw, wood chip beds for oysters, wine cap |
 | Steam pasteurization | 160-170F | 1-2 hours | Bulk substrates in barrels or steam chambers |
-| Pressure sterilization | 15-18 psi (~250F) | 1-2 hours | Grain spawn, supplemented sawdust bags |
+| [[boil-a-bag-pressure-sterilization-technique]] | 15-18 psi (~250F) | 1-2 hours | Grain spawn, [[stamets-supplemented-sawdust-substrate-preparation]] bags |
 
 Pasteurization kills most competitors but leaves beneficial thermotolerant organisms. Sterilization kills everything — required for supplemented substrates which would otherwise be colonized by contaminants faster than mushroom mycelium.
 

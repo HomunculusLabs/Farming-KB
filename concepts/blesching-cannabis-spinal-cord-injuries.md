@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching [[cannabis-spinal-cord-injury-treatment]] injuries Injuries"
+title: Blesching Cannabis Spinal Cord Injuries
 created: 2026-04-26
 tags:
   - cannabis
@@ -88,9 +88,3 @@ THC and Dronabinol both bind with CB1 and CB2.
 - THC has demonstrated effectiveness for reducing spasms in spinal cord
   injury patients dating back to 1974
 - A minimum dose of 15-20 mg/day THC is recommended for measurable
-  therapeutic effect in spasm reduction
-- Both inhaled and oral/rectal THC routes have shown efficacy
-- Paralysis and spasms may have psychological components related to fear,
-  frozen emotional states, and contracting beliefs
-- Mind-body exploration of what affected body parts represent may
-  complement pharmacological treatment

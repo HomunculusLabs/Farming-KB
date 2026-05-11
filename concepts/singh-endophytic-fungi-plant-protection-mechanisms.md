@@ -1,5 +1,5 @@
 ---
-title: Endophytic Fungi and Plant Protection Mechanisms
+title: Singh Endophytic Fungi Plant Protection Mechanisms
 created: 2026-04-28
 tags:
   - endophytes
@@ -34,7 +34,7 @@ endophytes (Epichloe species) maintain vertical transmission.
 
 Fungal endophytes occupy intercellular spaces within leaves, stems, and roots,
 drawing carbohydrates from the host while providing protective services. This
-asymmetrical exchange represents a form of singh plant fungus co evolution  in [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] distinct from mycorrhizal associations but sharing
+asymmetrical exchange represents a form of singh plant fungus co evolution  in [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] distinct from [[plants-without-mycorrhizal-associations]] but sharing
 similar evolutionary dynamics of mutual benefit.
 
 ## Anti-Herbivore Alkaloid Production
@@ -68,7 +68,7 @@ and heavy metal stress through multiple mechanisms:
 - **Osmotic adjustment**: Endophytes accumulate compatible solutes (trehalose,
   mannitol, proline) that help maintain cellular water potential during
   drought. Some endophytes upregulate host aquaporin expression, improving
-  root hydraulic conductivity.
+  root [[water-infiltration-soil-hydraulic-conductivity]].
 - **Antioxidant enhancement**: Endophyte-colonized plants show elevated
   activities of superoxide dismutase, catalase, peroxidase, and glutathione
   reductase, reducing oxidative damage under stress conditions. See also
@@ -77,34 +77,14 @@ and heavy metal stress through multiple mechanisms:
   endophytes can trigger stomatal closure to reduce water loss during drought.
 - **Root architecture modification**: Endophyte-produced auxins stimulate
   lateral root formation and root hair elongation, expanding the effective
-  soil volume for water and nutrient acquisition.
+  soil volume for water and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]].
 
 ## Disease Resistance Mechanisms
 
-Endophytic fungi protect host plants against fungal, bacterial, and viral
+[[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]] host plants against fungal, bacterial, and viral
 pathogens through several strategies:
 
-- **Antibiotic production**: Endophytes synthesize antimicrobial compounds
+- **Antibiotic production**: Endophytes synthesize [[antimicrobial-compounds-mushroom-mycelium]]
   including [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) such as 2,4-di-tert-butylphenol,
   and non-volatile antibiotics. These compounds directly inhibit pathogen
   growth.
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: [[fungal-endophyte-colonization-patterns]] primes the
-  plant immune system, leading to faster and stronger defense responses upon
-  pathogen challenge. This involves jasmonic acid and ethylene signaling
-  pathways.
-- **Resource competition**: Endophytes occupy ecological niches within plant
-  tissues, competing with potential pathogens for space and nutrients.
-- **Mycoparasitism**: Some endophytes exhibit direct antagonism against plant
-  pathogens through hyphal coiling, penetration, and enzymatic degradation of
-  pathogen cell walls, similar to [[ingham-trichoderma-biocontrol-fungi-aact]] mechanisms described
-  in [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]] by enhancing plant growth on contaminated soils while directly
-degrading organic pollutants. Root endophytes from contaminated sites often
-show higher tolerance and degradation capacity for specific contaminants,
-suggesting adaptive selection. Endophytes can also transform heavy metals to
-less bioavailable forms within root tissues.
-
-## Related
-
-- [[singh-fungal-plant-growth-regulators-production]]
-- [[singh-phytoremediation-mycorrhizal-assisted-plant-uptake]]
-- [[singh-trichoderma-biocontrol-mechanisms-applications]]

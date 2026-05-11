@@ -2,7 +2,7 @@
 
 ## Overview
 
-Supplemented sawdust substrates form the foundation of modern indoor gourmet mushroom cultivation. By combining a base of hardwood sawdust and wood chips with nutritional additives, growers create an optimised growing medium that supports rapid mycelial colonisation and high-yield fruiting. The preparation process—involving substrate [[straw-substrate-preparation-mushroom-cultivation]] formulation, hydration, supplementation, and sterilisation—is one of the most critical phases in the cultivation cycle, as errors here propagate through the entire grow.
+Supplemented sawdust substrates form the foundation of modern indoor [[mushroom-cultivation-overview]]. By combining a base of hardwood sawdust and wood chips with nutritional additives, growers create an optimised growing medium that supports rapid [[jar-shaking-grain-redistribution-mycelial-colonisation]] and high-yield fruiting. The preparation process—involving substrate [[straw-substrate-preparation-mushroom-cultivation]] formulation, hydration, supplementation, and sterilisation—is one of the most critical phases in the cultivation cycle, as errors here propagate through the entire grow.
 
 ## The Substrate Matrix Concept
 
@@ -25,14 +25,14 @@ Fast-decomposing hardwoods with high ratios of starch-rich sapwood to heartwood 
 
 ### Woods to Avoid
 
-- **Cedar and redwood**: Contain anti-rotting compounds that actively resist fungal decomposition and stifle mycelial growth.
-- **Eucalyptus**: Aromatic oils are inhospitable to most gourmet mushroom [[straw-substrate-preparation-mushroom-cultivation]] species.
+- **Cedar and redwood**: Contain anti-rotting compounds that actively resist [[fungal-decomposition-and-biogeochemical-cycles]] stifle mycelial growth.
+- **Eucalyptus**: Aromatic oils are inhospitable to most [[gourmet-mushroom-cultivation]] [[straw-substrate-preparation-mushroom-cultivation]] species.
 - **Most pines** (ponderosa, lodgepole): Resinous compounds inhibit colonisation.
 - **Mixed/unidentified sawdust**: Lumber yards that process mixed species without sorting into identifiable piles create inconsistent substrate [[straw-substrate-preparation-mushroom-cultivation]] with unpredictable yields.
 
 ### Freshness and Contamination
 
-Freshness of the wood material is critical. Old sawdust, chips, or base materials may already harbour competitor organisms. Wood from trees along busy roadways should be avoided because automobile exhaust and asphalt leachate contaminate surrounding soil with lead, aluminium, and other heavy metals that can be concentrated by mushroom mycelium. Sawmills and pulp chip companies provide the cleanest source of wood debris.
+Freshness of the wood material is critical. Old sawdust, chips, or base materials may already harbour competitor organisms. Wood from trees along busy roadways should be avoided because automobile exhaust and asphalt leachate contaminate surrounding soil with lead, aluminium, and other heavy metals that can be concentrated by [[antimicrobial-compounds-mushroom-mycelium]]. Sawmills and pulp chip companies provide the cleanest source of wood debris.
 
 ## Nutritional Supplements
 
@@ -40,11 +40,11 @@ The base sawdust provides the primary carbon source and structural matrix, but n
 
 ### Common Supplements
 
-- **Bran**: Wheat bran, rice bran, and oat bran are the most widely used supplements. Rice bran is particularly favoured for shiitake cultivation.
+- **Bran**: Wheat bran, rice bran, and oat bran are the most widely used supplements. Rice bran is particularly favoured for [[comparison-enoki-vs-shiitake-cultivation]].
 - **Grains**: Whole wheat, rye, millet, and other whole grains provide both nutrition and structure.
 - **Legume meals**: Soybean meal and other legume flours are nitrogen-rich supplements that boost yields significantly.
 - **Agricultural waste**: Hulls of almonds, walnuts, sunflower, pecans, and peanuts; soybean meal roughage (okara); artichoke waste.
-- **Coffee grounds**: A readily available supplement with good nitrogen content, particularly useful for oyster mushroom cultivation.
+- **[[oyster-mushroom-coffee-grounds-cultivation]]**: A readily available supplement with good nitrogen content, particularly useful for [[cotter-oyster-mushroom-cultivation]].
 
 ### Supplementation Rates
 
@@ -87,41 +87,3 @@ Because supplements add readily available nutrients, supplemented substrates **m
 
 - **Autoclave/retort**: 15 PSI (121°C) for 1.5-2.5 hours, depending on bag size and density.
 - **Atmospheric steam sterilisation**: 100°C for 12-24 hours in a dedicated steam chamber. This lower-tech approach is accessible to small-scale growers without pressure vessels.
-
-The key principle is that the core temperature of the substrate mass must reach and sustain the target temperature for the full duration. Large, densely packed bags require longer sterilisation times because heat penetration is slower.
-
-## Cooling and Inoculation
-
-After sterilisation, bags must cool to below 30°C (preferably 20-25°C) before inoculation. Inoculating into hot substrate kills the spawn. The cooling phase is also a contamination-vulnerable period—the filter patch protects the substrate, but any compromise (tears, wet filters, improper sealing) allows contaminants to enter.
-
-Inoculation should be performed in as clean an environment as possible. For supplemented substrates, even small contaminant loads can proliferate rapidly due to the abundant nutrients.
-
-## Common Problems and Solutions
-
-| Problem | Likely Cause | Solution |
-|---------|-------------|----------|
-| Slow or stalled colonisation | Substrate too wet/dry; contamination | Verify moisture; inspect for off-colours/odours |
-| Green mould (Trichoderma) at inoculation points | Contaminated spawn or poor technique | Use fresh, clean spawn; improve inoculation hygiene |
-| Sour or fermented odour | Anaerobic conditions from over-packing | Reduce substrate density; improve aeration |
-| Low yields despite full colonisation | Insufficient supplementation or poor strain | Increase supplement rate; test different strains |
-| Uneven colonisation | Uneven mixing or moisture distribution | Mix more thoroughly; verify moisture uniformity |
-
-## Species-Specific Substrate Considerations
-
-Different species have evolved to decompose different wood types and have varying responses to supplementation:
-
-- **Shiitake (*Lentinula edodes*)**: Prefers hardwood sawdust (oak, alder, beech) with 10-20% bran supplementation. Lower supplementation rates can be used for log-style flavour development.
-- **Oyster mushrooms (*Pleurotus* spp.)**: Highly adaptable; will grow on a wide range of substrates including straw, paper, and agricultural waste. High supplementation rates (15-20%) maximise yields.
-- **Lion's mane (*Hericium erinaceus*)**: Prefers a finer substrate with moderate supplementation (10-15%). Too many large chips can inhibit the delicate mycelial network.
-- **Maitake (*Grifola frondosa*)**: Requires hardwood sawdust with moderate supplementation. One of the more challenging species to fruit reliably.
-- **Reishi (*Ganoderma lucidum*)**: Tolerates a wide range of substrates but produces the highest-quality conks on supplemented hardwood sawdust.
-
-## See Also
-
-- [[biological-efficiency:-yield-metrics-in-mushroom-cultivation]]
-- [[spawn-types-and-viability:-home-made-vs.-commercial]]
-- [[mushroom-life-cycle]]
-
-## Source
-
-- Stamets, P. (1993). *Growing Gourmet and Medicinal Mushrooms*. Ten Speed Press. Chapters 16-17: Substrate Materials and Supplemented Sawdust Cultivation.

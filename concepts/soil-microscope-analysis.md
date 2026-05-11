@@ -9,7 +9,7 @@ sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-c
 
 # Soil Microscope Analysis
 
-Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management. (see [[compost-tea-guide]]).
+Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil [[ingham-actinomycetes-soil-biology-and-compost-tea]] is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
 
 ## Equipment Needed
 
@@ -62,7 +62,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 
 ### Interpretation
 - Protozoa graze on bacteria, releasing plant-available nitrogen
-- 10,000-100,000 protozoa per gram of soil = good nutrient cycling
+- 10,000-100,000 protozoa per gram of soil = good [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - Low protozoa = nutrients are locked up in bacterial biomass
 
 ## Nematode Assessment
@@ -82,7 +82,7 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 ## Compost Tea Assessment
 
 ### Method
-1. Take 1 mL of actively aerated compost tea
+1. Take 1 mL of [[actively-aerated-compost-tea]] compost tea
 2. Place on slide, cover, examine at 400x
 3. Look for: active bacterial movement, fungal hyphae length, protozoa types
 
@@ -98,7 +98,22 @@ Direct microscopic examination of soil and compost tea is the primary tool for a
 - No visible fungal hyphae (inadequate fungal food sources)
 - Foul smell (anaerobic)
 
+
+## Practical Application
+Soil management practices directly impact plant health, yield,
+and ecosystem resilience. Integration of organic amendments with
+biological inoculants creates self-sustaining fertility cycles
+that reduce dependence on external inputs over time.
+
+
+## See Also
+- [[solomon-soil-testing-laboratory-analysis-low-input-gardening]]
+- [[soil-testing-and-analysis]]
+- [[ingham-field-guide-compost-tea-microscope-analysis]]
+- [[solomon-soil-profile-assessment-fractional-analysis-jar-test]]
+- [[soil-food-web-and-building-living-soil]]
 ## Related
 - [[compost-tea-recipe-guide]] — for brewing AAct
-- [[thermal-composting-vs-aact]] — for comparing compost methods
+- [[thermal-composting-vs-aact]] — for comparing [[cho-fermented-mixed-compost-methods]]
 - [[soil-food-web-structure]] — for the complete soil biology hierarchy
+

@@ -9,13 +9,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-a-designers-ma
 
 # Arbuscular Mycorrhizal Fungal Diversity — Patterns and Distribution
 
-Arbuscular mycorrhizal (AM) fungi (Glomeromycota, formerly Glomales) form the most widespread plant-fungal symbiosis on Earth. Their diversity patterns differ markedly from those of most other fungal groups, with tropical and temperate regions showing more similar richness than expected.
+Arbuscular mycorrhizal (AM) fungi (Glomeromycota, formerly Glomales) form the most widespread plant-fungal symbiosis on Earth. Their diversity patterns differ markedly from those of most other fungal groups, with tropical and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] showing more similar richness than expected.
 
 ## Taxonomic Framework
 
 ### Major Genera
 - **Glomus:** Most species described; often dominates field samples (but may reflect taxonomic effort, not ecology)
-- **Acaulospora:** Appears dominant in tropical forests (artifact of high spore production)
+- **Acaulospora:** Appears dominant in [[fungal-biodiversity-tropical-forests]] (artifact of high [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]])
 - **Gigaspora / Scutellospora:** Produce large spores; distinctive auxiliary cells
 - **Entrophospora:** Similar to Acaulospora
 - **Paraglomus / Archaeospora:** Basal lineages; fewer species
@@ -48,7 +48,7 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 - 5-10 species typical for temperate sites
 - 10-18 species in tropical sites
 - Up to 8 species in single host root system
-- Up to 23 species in 75 m^2 (North Carolina old field)
+- Up to 23 species in 75 m^2 ([[north-carolina-mycodiversity]] old field)
 - 25-50 species estimated for 50,000-ha temperate region
 
 ### Tropical vs. Temperate
@@ -68,7 +68,7 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 
 ### Shared Species Between Continents
 - 61% of Glomineae species shared between Namib Desert (Africa) and Sonoran Desert ([[psilocybin-north-america-pacific-northwest]])
-- Paraglomus occultum, Acaulospora scrobiculata, Archaeospora leptoticha, Gigaspora gigantea, Scutellospora calospora: widely distributed on most continents
+- Paraglomus occultum, Acaulospora scrobiculata, Archaeospora leptoticha, Gigaspora gigantea, [[scutellospora-calospora]]: widely distributed on most continents
 
 ### Factors Affecting Distribution
 - Stochastic dispersal events over time and space
@@ -88,62 +88,3 @@ Similar ratios of species per genus in deserts, grasslands, tropical forests, an
 1. Collect field soil and/or roots
 2. Establish pot cultures with bait plant (e.g., Sudangrass) in sand:soil mix
 3. Maintain in growth room (150 umol m^-2 s^-1, 15.5 hr day, 24-31C, 30-70% RH)
-4. After 4 months, harvest spores from soil
-5. Re-seed for additional cycles
-
-### First vs. Later Cycles
-- Arid sites: zero to one species first cycle; four to eight by third cycle
-- Each cycle can double or triple sporulating species
-
-## Spore Morphology and Identification
-
-### Key Challenges
-- 90%+ of published descriptions are vague or incomplete
-- Type specimens often degraded or parasitized
-- Species differences in some genera (e.g., Glomus) are small
-- Degraded field spores easily misidentified
-
-### Slide Preparation
-- Minimum 75 spores per sample
-- One-third mounted whole in PVLG and water
-- One-third mounted and broken in PVLG
-- One-third mounted and broken in PVLG + Melzer's reagent (1:1)
-- Broken spore slides: store 72+ hours before examining (clears contents)
-- Most wall layers <10 um thick; some <1 um
-- Differential interference contrast microscopy essential
-
-## Mycorrhizal Structures
-
-### Arbuscules
-- Pivotal communication site between host and fungus
-- Fine, dichotomously branched hyphae from trunk hypha
-- Unique interface between arbuscule wall and host plasmalemma
-- Staining intensity: Gigasporaceae > Glomaceae > Acaulosporaceae
-- Archaeosporaceae and Paraglomaceae: very faint or no staining
-
-### Intraradical Structures
-- **Glomus:** Relatively straight parallel hyphae; "H" branches; globose to ellipsoidal vesicles
-- **Acaulospora:** Irregularly branched/looped hyphae; irregularly shaped to lobed vesicles
-- **Gigaspora/Scutellospora:** Wide hyphae with inflated/constricted regions; knobs and projections; dense loops/coils
-
-### Auxiliary Cells (Gigasporineae only)
-- Thin-walled clusters on branching external hyphae
-- Spiny in Gigaspora; knobby to smooth in Scutellospora
-- Form on germination tubes before mycorrhiza formation
-
-## Key References and Repositories
-- **INVAM** (International Culture Collection of Vesicular Arbuscular [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]): West Virginia University
-- **BEG** (Banque Europeenne des Glomales): European collection
-- Oregon State University Mycological Collections
-- Farlow Herbarium, Harvard University
-- Royal Botanic Gardens Kew
-
-## See Also
-
-- [[fungal-coral-reef-diversity]]
-- [[fungal-hot-spring-diversity]]
-- [[soil-chytridiomycetes-diversity-distribution]]
-
-- [[mycorrhizal-types-diversity]]
-
-- [[arbuscular-mycorrhizal-fungal-diversity]]

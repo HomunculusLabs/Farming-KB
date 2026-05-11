@@ -3,7 +3,7 @@ title: Queen Rearing Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, animal-husbandry, beginner, pollinators, genetics]
+tags: [[homesteading]], animal-husbandry, beginner, pollinators, genetics]
 sources: []
 ---
 
@@ -12,7 +12,7 @@ sources: []
 Queen rearing is the practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase
 colony numbers, and selectively breed for desirable traits. This guide
-covers the most accessible methods for small-scale and hobbyist beekeepers. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
+covers the most accessible methods for small-scale and hobbyist beekeepers.
 
 ## Why Raise Your Own Queens
 
@@ -39,7 +39,7 @@ of royal jelly during the larval stage. Key facts:
 
 ## Method 1: Walk-Away Split
 
-The simplest queen-rearing method — no special equipment needed. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
+The simplest queen-rearing method — no special equipment needed.
 
 ### Procedure
 1. Select a strong, healthy colony with at least 8 frames of brood
@@ -52,7 +52,7 @@ The simplest queen-rearing method — no special equipment needed. (see [[grass-
 
 ### Success Rate
 Approximately 70-80% if the parent colony was strong. Drawbacks: emergency
-queens may be lower quality because they are raised from older larvae. (see [[comparison-fermented-vegetables-vs-canning]]).
+queens may be lower quality because they are raised from older larvae.
 
 ## Method 2: Grafting
 
@@ -112,7 +112,7 @@ queen develops, mates, and begins laying.
 
 ### Management
 - Place mating nucs in a sunny, well-drained location with distinctive
-  landmarks (queens use visual cues to find home)
+  landmarks (queens use [[cannabis-harvest-timing-visual-cues]] to find home)
 - Ensure adequate drone populations nearby for mating (drone comb in
   strong colonies)
 - Feed continuously — small colonies starve quickly
@@ -145,6 +145,6 @@ or kill a queen they do not accept.
 The quality of your queens depends on the genetics of the breeder colony.
 Select for:
 - Gentle temperament
-- High honey production
+- High [[faires-beekeeping-and-honey-production]]
 - Good winter survival
 - Low Varroa mite loads (VSH or hygiene traits)

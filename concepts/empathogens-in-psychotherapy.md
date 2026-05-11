@@ -11,7 +11,7 @@ sources: [raw/papers/metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 
 ## Overview
 
-A significant extension of psychedelic-assisted psychotherapy occurred with the discovery by chemist Alexander Shulgin of a variety of phenethylamine compounds, including MDA, MDMA, 2C-B, and others.
+A significant extension of psychedelic-assisted psychotherapy occurred with the discovery by chemist [[alexander-shulgin]] of a variety of phenethylamine compounds, including MDA, MDMA, 2C-B, and others.
 
 Ralph Metzner's 1998 review identifies these compounds as bringing about "an expansion and centering of awareness primarily on the emotional or heart-level, with minimal or no perceptual changes or other-worldly consciousness."
 
@@ -23,7 +23,7 @@ Alexander Shulgin, working independently with his wife Ann Shulgin, systematical
 
 Their findings were published in the books PIHKAL (Phenethylamines I Have Known and Loved) and TIHKAL (Tryptamines I Have Known and Loved).
 
-The phenethylamines Shulgin discovered and characterized expanded the known pharmacological landscape of psychoactive substances far beyond the classical hallucinogens (LSD, psilocybin, mescaline).
+The phenethylamines Shulgin discovered and characterized expanded the known pharmacological landscape of [[cultural-evolution-and-psychoactive-substances]] far beyond the classical hallucinogens (LSD, psilocybin, mescaline).
 
 Among the most therapeutically significant of these compounds was MDMA (3,4-methylenedioxymethamphetamine).
 
@@ -41,7 +41,7 @@ MDMA produces a distinctive profile of effects that differs markedly from the cl
 
 - **Memory accessibility**: Emotional memories, including traumatic ones, become more accessible without being overwhelming.
 
-These properties make MDMA particularly well-suited to therapeutic contexts where emotional processing and interpersonal communication are the primary goals.
+These properties make MDMA particularly well-suited to therapeutic contexts where [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] and interpersonal communication are the primary goals.
 
 ## MDMA in Psychotherapy
 
@@ -67,7 +67,7 @@ This application anticipated the current resurgence of interest in MDMA-assisted
 
 The proposal of the term "empathogen" represents an important conceptual distinction in psychopharmacology.
 
-Classical hallucinogens (LSD, psilocybin, mescaline) work primarily by amplifying perception and cognition, producing expanded states of consciousness that include visual, cognitive, and emotional dimensions.
+Classical hallucinogens (LSD, psilocybin, mescaline) work primarily by amplifying perception and cognition, producing expanded [[mckenna-food-gods-designer-states-of-consciousness]] that include visual, cognitive, and emotional dimensions.
 
 Empathogens (MDMA, MDA) work primarily on the emotional dimension, producing a state of heightened empathy and emotional openness without the perceptual and cognitive fireworks of the classical hallucinogens.
 
@@ -87,43 +87,3 @@ This recreational use, while sharing some features with therapeutic use (the emp
 The divergence between therapeutic and recreational use of MDMA complicated both public perception and regulatory response to the compound.
 
 ## Comparison with Classical Hallucinogens
-
-Metzner's framework highlights several key differences between empathogens and classical hallucinogens in therapeutic contexts:
-
-**Classical hallucinogens** (LSD, psilocybin, mescaline):
-- Produce expanded states of consciousness affecting all perceptual and cognitive modalities
-- The experience is often overwhelming and difficult to direct
-- The "[[lsd-set-and-setting-framework]]" model applies with full force
-- The therapist's role is primarily to provide safety and support
-- The experience may challenge fundamental assumptions about reality
-
-**Empathogens** (MDMA, MDA):
-- Produce emotional expansion with minimal perceptual distortion
-- The experience is more manageable and can be directed toward specific therapeutic goals
-- Set and setting are still important but the experience is less sensitive to them
-- The therapist can take a more active role in guiding the therapeutic process
-- The experience tends to deepen connection to existing reality rather than transcend it
-
-## The Phenethylamine Family
-
-Shulgin's work revealed the phenethylamine family to be remarkably diverse in its psychoactive properties.
-
-Compounds like 2C-B, 2C-I, 2C-E, and others each have distinct profiles combining elements of the empathogenic and hallucinogenic spectra in different proportions.
-
-This diversity suggests that the binary distinction between "hallucinogen" and "empathogen" may be overly simplistic — the pharmacological reality is more of a continuum.
-
-Nonetheless, the empathogen concept remains useful for understanding the therapeutic applications of MDMA and related compounds, which occupy a distinctive niche in the landscape of psychoactive substances.
-
-## Legacy and Modern Resurgence
-
-The therapeutic use of MDMA, interrupted by its criminalization in the mid-1980s, has experienced a significant resurgence in the twenty-first century.
-
-Modern [[mushroom-cancer-clinical-trials-overview]] have validated many of the observations made by early therapists, particularly regarding MDMA's efficacy in treating PTSD.
-
-The distinction between empathogens and classical hallucinogens that Metzner describes remains relevant to contemporary [[metzner-psycholytic-psychedelic-therapy-models]], where different compounds are increasingly matched to different therapeutic goals based on their distinct phenomenological profiles.
-
-## See Also
-
-- [[psycholytic-vs-psychedelic-therapy|Psycholytic vs Psychedelic Therapy Models]] — the classical Western therapeutic models
-- [[shamanic-vs-western-psychedelic-healing|Shamanic vs Western Paradigms]] — broader paradigmatic comparison
-- [[2c-b-compound-profile|2C-B Compound Profile]] — a Shulgin phenethylamine bridging empathogen and hallucinogen categories

@@ -6,6 +6,7 @@ type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Pine Blight and Matsutake as Portent of Desertification
@@ -87,26 +88,3 @@ dependency threaten global food security, his methods offer a viable alternative
 Natural farming requires no external inputs, builds soil fertility over time,
 and produces food with minimal environmental impact. These approaches are
 increasingly relevant as climate change accelerates the need for resilient
-agricultural systems that work with rather than against natural processes.
-
-## Connection to Permaculture
-
-Fukuoka's natural farming directly influenced the development of permaculture.
-Bill Mollison and David Holmgren drew on his principles when formulating their
-design framework. The emphasis on observation, minimal intervention, and working
-with natural patterns runs through both philosophies. Understanding Fukuoka's
-original insights provides a deeper foundation for permaculture design practice
-and helps practitioners move beyond techniques to genuine ecological literacy.
-
-## Lessons for Personal Practice
-
-Applying these ideas begins with careful observation of local conditions. Rather
-than importing solutions from elsewhere, the practitioner learns to read the
-landscape and understand its inherent patterns and potentials. This approach
-requires patience and a willingness to let go of predetermined outcomes. The
-reward is a deeper relationship with place and increasingly self-sustaining
-systems that require less effort while producing more abundance over time.
-
-## Related
-
-- [[fukuoka-pine-rot-root-cause]]

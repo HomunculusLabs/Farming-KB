@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis super cropping technique Technique
+title: Cannabis Super Cropping Technique
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, Greg Green (Ch. 8, 9)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible, [[greg-green]] (Ch. 8, 9)
 
 Super cropping is a high-stress training (HST) technique that involves intentionally damaging the stem to create a knuckle joint. This strengthens the branch, controls height, and can increase overall yield by creating a more even canopy and promoting lateral growth.
 
@@ -22,7 +22,7 @@ Super cropping is the practice of gently crushing and bending the stem of a cann
 
 1. **Stronger branches**: The knuckle joint at the bend point becomes much stronger than the original stem, better supporting heavy buds
 2. **Height control**: Bending tall branches down reduces overall plant height without removing any plant material
-3. **Better light distribution**: Horizontal branches expose more bud sites to light
+3. **Better [[cervantes-reflective-hoods-light-distribution]]**: Horizontal branches expose more bud sites to light
 4. **Increased yield**: More bud sites receive adequate light, producing more even and abundant bud development
 5. **No plant material removed**: Unlike topping, all plant matter stays on the plant
 
@@ -81,22 +81,10 @@ Green advises against super cropping during flowering, but notes:
 - Light bending is acceptable in the first 1–2 weeks of flowering
 - The plant is less flexible during flowering and more prone to snapping
 - Any damage during flowering can slow bud development and reduce yield
-- Focus on proper training during vegetative stage to minimize need for adjustment during flowering
+- Focus on proper training during [[cannabis-vegetative-stage]] to minimize need for adjustment during flowering
 
 ## Super Cropping vs Other Techniques
 
 | Technique | Type | Plant Material Removed | Difficulty |
 |-----------|------|----------------------|------------|
 | Super cropping | HST | No | Medium |
-| Topping | HST | Yes (apex) | Easy |
-| FIMing | HST | Partially | Easy |
-| LST | LST | No | Easy |
-| Defoliation | HST | Yes (leaves) | Easy |
-
-## Related Topics
-
-- [[cannabis-topping-training]] — topping and FIMing techniques
-- cannabis lst low stress training — low-stress training
-- [[cannabis-vegetative-stage]] — [[cannabis-vegetative-growth-stage]] management
-- [[teaming-with-microbes-plant-control]]
-- [[first-time-grower-common-mistakes]]

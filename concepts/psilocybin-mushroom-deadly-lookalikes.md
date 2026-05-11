@@ -14,7 +14,7 @@ The [[palmer-poisonous-mushrooms-deadly-species]] most commonly confused with ps
 
 The Stametsian rule for targeting [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] states that if a gilled mushroom has purplish brown to black spores AND the flesh bruises bluish, it is very likely a psilocybin-producing species.
 
-While there are few exceptions, the critical safety distinction is spore color: psilocybin mushrooms have dark purplish brown to black spores, while the most deadly lookalikes have rusty brown spores.
+While there are few exceptions, the critical safety distinction is spore color: [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] have dark purplish brown to black spores, while the most deadly lookalikes have rusty brown spores.
 
 The majority of psilocybin mushrooms have dark purplish brown to black spores.
 
@@ -30,7 +30,7 @@ At least 199 species of Galerinas are recognized, many of which can only be dist
 
 Galerinas often grow gregariously or in clusters on decaying logs or in moss, with short brittle stems that often darken from the base.
 
-Galerinas may or may not have a partial veil that leaves a membranous ring or fibrillose annular zone.
+Galerinas may or may not have a [[partial-veil-tropism-protection-before-spore-release]] that leaves a membranous ring or fibrillose annular zone.
 
 ### Galerina autumnalis (Deadly Galerina)
 
@@ -42,11 +42,11 @@ Gills are golden yellowish brown to rusty brown, becoming dull cinnamon at matur
 
 Stem: 20-60 mm long by 3-8 mm thick, grayish brown overall and darkening from the base upwards.
 
-Partial veil leaves a small, fragile membranous annulus.
+Partial veil leaves a small, fragile [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]].
 
 Contains the same amatoxin poisons as the destroying angels of the genus Amanita.
 
-Grows scattered to gregarious or cespitose in the fall throughout temperate regions.
+Grows scattered to gregarious or cespitose in the fall throughout [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Primarily found on decayed conifer and hardwood logs, woody debris, wood chips, bark mulch, or in newly laid lawns.
 
@@ -76,39 +76,14 @@ Confusing a Gymnopilus with a Galerina could be deadly.
 
 ## The Genus Pholiotina
 
-Pholiotina filaris (= Conocybe filaris) contains toxins similar to the most deadly Amanitas and Galerinas.
+[[pholiotina-filaris-profile]] (= Conocybe filaris) contains toxins similar to the most deadly Amanitas and Galerinas.
 
 This species is one of the primary dangers within the Conocybe genus.
 
-The partial veil is not always present, making visual identification unreliable.
+The partial veil is not always present, making [[mushroom-spore-visual-identification]] unreliable.
 
 It is not very difficult to confuse wood- or moss-inhabiting species of Conocybe with some species of Galerina.
 
 ## Other Dangerous Genera
 
 Several genera contain toxic species that could be confused with psilocybin mushrooms:
-
-Hebeloma and Inocybe: yellowish brown to clay brown to dull brown spores.
-
-Entoloma: pinkish brown spores.
-
-Amanita and Galerina: typically whitish spores.
-
-Galerina: rusty brown spores.
-
-Within the minor [[stamets-psilocybin-genera-beyond-psilocybe]] (Conocybe, Gymnopilus, Inocybe, Pluteus), there are other members that are poisonous, a feature not shared with Psilocybe and Panaeolus.
-
-## The Mythicomyces Bridge Species
-
-Psilocybe cornipes was once thought to be a Galerina.
-
-This mushroom was successively classified as Agaricus, then Geophila, then Psilocybe, then Galerina, and now has its own genus: Mythicomyces.
-
-This bridge species illustrates just how closely Psilocybes and Galerinas can resemble one another.
-
-## Inocybe aeruginascens: Special Case
-
-mushroom-poisoning-and-lookalikes, [[psilocybin-mushroom-identification]], [[conocybe-cyanopus-profile]]
-
-## Merged: Gymnopilus aeruginosus
-A large psilocybin-containing mushroom commonly known as "magic blue gym," notable for its bluish-gray-green coloration and preference for woody debris in temperate forests. Originally described as Pholiota aeruginosa Peck, the species was later reclassified into the genus Gymnopilus. See also: [[gymnopilus-purpuratus-profile]], [[psilocybin-mushroom-minor-genera]], psilocybin mushroom deadly lookalikes It is one of approximately 75 Gymnopilus species in [[psilocybin-north-america-pacific-northwest]] and one of at least 11 species worldwide confirmed to contain psilocybin.

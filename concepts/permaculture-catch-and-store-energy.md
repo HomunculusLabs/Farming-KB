@@ -1,5 +1,5 @@
 ---
-title: "[[permaculture-principle-apply-self-regulation]]: Catch and Store Energy"
+title: Permaculture Catch And Store Energy
 source: david-holmgren-permaculture-principles-pathways-beyon.md
 topics: [permaculture, energy, water-storage, soil-humus, carbon-sequestration, holmgren]
 ---
@@ -8,7 +8,7 @@ topics: [permaculture, energy, water-storage, soil-humus, carbon-sequestration, 
 
 ## Permaculture Design Principle #2 — "Make Hay While the Sun Shines"
 
-[[david-holmgren]]'s second permaculture principle addresses the fundamental challenge
+[[david-holmgren]]'s second [[permaculture-principle-catch-and-store-energy]] addresses the fundamental challenge
 of terrestrial life: energy arrives in pulses (sunlight, rainfall, seasonal growth)
 but needs to be available continuously. Natural systems have evolved sophisticated
 mechanisms for catching and storing energy; permaculture design aims to understand
@@ -27,9 +27,9 @@ is essential to designing productive, resilient landscapes.
 Water is the primary energy carrier in terrestrial ecosystems. Natural landscapes
 have evolved as efficient rainwater storages at multiple scales:
 
-- **Vegetation** holds water in tissues, humid air, and moisture trapped by forest
+- **Vegetation** holds water in tissues, [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]], and moisture trapped by forest
   canopies and understoreys
-- **Forest litter and mulch** act as an open sponge, absorbing and holding water
+- **[[aact-forest-litter-fungi-mycorrhizal-ingham]] and mulch** act as an open sponge, absorbing and holding water
 - **Soil chemistry and humus** provide stable moisture supply for plants
 - **Deep subsoils**, especially clay, provide very stable moisture storage
 - **Springs and soaks** release water slowly from subsoil storage
@@ -88,38 +88,3 @@ a source of fuel for new life.
 Holmgren identifies humus as perhaps nature's greatest invention because it
 increases soil capacity to store mineral nutrients, water, and carbon. Organic
 matter is fuel for soil micro-organisms, which are key to cycling and availability
-of plant nutrients. Some carbon is distilled into complex stable compounds (humic
-and fulvic acids) that increase soil [[pf-tek-vermiculite-type-comparison-water-holding-capacity]].
-
-Under favorable conditions, humus storages can be stable for hundreds or thousands
-of years. Wes Jackson of the Land Institute described the loss of ancient humus from
-American prairie cropping soils as "the mining of young coal." Rebuilding humus in
-the world's cropping soils should be seen as one of the great tasks for humanity,
-alongside reforestation of degraded rangelands.
-
-## Trees as Multi-Function Energy Stores
-
-Trees are central to permaculture energy strategies because they serve multiple
-storage functions simultaneously. They store carbon as wood, cycle nutrients through
-leaf drop, catch and redistribute water through root systems, moderate microclimates,
-and provide renewable fuel, timber, fodder, and food. Trees can be grown on marginal
-soils unsuitable for crops, making them the single most important element in
-[[mollison-climate-zones-permaculture-strategies]] for catching and storing energy.
-
-Timber and fuel forests, pastures, and fibre crops can all be grown on marginal soils.
-This is the single most important reason why carbon storage by perennial plants,
-especially trees, is central to permaculture strategies for catching and storing energy.
-
-## Permaculture Strategies for Energy Storage
-
-Holmgren groups strategies under four headings: water, living soil, trees, and seed.
-For water: building reservoirs, dams, swales, tanks, and cisterns in right locations
-and proportions. For soil: building humus through composting, mulching, and minimal
-tillage. For trees: establishing timber, fodder, and fuel forests. For seed: saving
-and selecting locally adapted varieties.
-
-## See Also
-
-- [[permaculture-ethical-principles-holmgren]]
-- [[permaculture-design-from-patterns-to-details]]
-- [[permaculture-integrate-rather-than-segregate]]

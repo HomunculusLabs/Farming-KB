@@ -3,7 +3,7 @@ title: Beauveria
 created: 2026-04-28
 type: genus
 tags:
-  - mycology
+  - [[mycology]]
   - entomopathogenic-fungi
   - biopesticide
   - soil-biology
@@ -19,19 +19,19 @@ sources: []
 
 **Beauveria** is a genus of [[singh-entomopathogenic-fungi-biocontrol-agents]] in the family
 Cordycipitaceae (order Hypocreales) that infect and kill insects across a
-remarkably broad host range. The genus was erected by Vuillemin in 1912 and
+remarkably broad [[powdery-mildews-erysiphaceae-diversity-host-range]]. The genus was erected by Vuillemin in 1912 and
 named in honor of the French physician and naturalist Jean Beauverie. The type
 species, *B. bassiana*, is the most commercially successful entomopathogenic
 fungus worldwide and has been documented against over 700 insect species. A
 2011 molecular phylogenetic revision by Rehner & Humber resolved the *B.
-bassiana* species complex into multiple cryptic species.
+bassiana* species complex into multiple [[cryptic-species]].
 
 ## Taxonomy and Classification
 
 | Rank | Classification |
 |------|---------------|
 | Kingdom | Fungi |
-| Phylum | Ascomycota |
+| Phylum | [[ascomycota]] |
 | Class | Sordariomycetes |
 | Order | Hypocreales |
 | Family | Cordycipitaceae |
@@ -72,7 +72,7 @@ Conidia are hyaline, unicellular, and hydrophobic — adapted for dispersal and
 cuticle adhesion. Some species form synnemata (erect bundled conidiophore
 columns) under certain conditions. The characteristic symptom of infection is
 "white muscardine" — dead insects covered in a white layer of sporulating
-mycelium.
+[[mycelium]].
 
 ## Infection Mechanism
 
@@ -88,58 +88,3 @@ in 3-7 days; (6) **Sporulation** — white mycelium erupts through the cadaver
 and produces conidia that disperse to infect new hosts.
 
 ## Host Range and Agricultural Applications
-
-*B. bassiana* infects over 700 insect species across Coleoptera (Colorado
-potato beetle, Japanese beetle, stored grain pests), Lepidoptera (diamondback
-moth, fall armyworm, codling moth), Hemiptera (aphids, whiteflies, bed bugs,
-mealybugs), Diptera (fungus gnats, mosquitoes), Thysanoptera (thrips), and
-Isoptera (termites). *B. brongniartii* specializes on scarab larvae.
-
-Major products include BotaniGard (strain GHA; BioWorks — the most widely used
-mycoinsecticide globally), Mycotrol O (OMRI-listed oil-based), Naturalis L
-(Certis USA), and Boverol (*B. brongniartii*; European scarab control).
-Applications include foliar spray, soil drench, granules, seed treatment, and
-bait stations for social insects.
-
-## Endophytic Capabilities
-
-When applied as a soil drench or seed treatment, *B. bassiana* colonizes
-plant roots and grows systemically into stems and leaves of many species
-(wheat, maize, coffee, banana, tomato). This provides "plant-mediated"
-biocontrol — insects feeding on colonized plants show higher mortality.
-Additional benefits include [[brassinosteroid-growth-promotion-psilocybe-cubensis]], improved [[dighton-fungal-drought-tolerance-plant-water-relations]], and
-suppression of plant pathogens through competition. Colonization persists for
-weeks to months, outlasting foliar spray protection.
-
-## Secondary Metabolites
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include **beauvericin** (cyclic hexadepsipeptide
-ionophore; disrupts insect ion homeostasis and shows anticancer activity),
-**bassianolide** (causes insect muscle paralysis), **oosporein** (red quinone
-pigment with antimicrobial and insecticidal activity), and **tenellin** and
-**bassianin** (pyridone alkaloid siderophores). These compounds have
-pharmaceutical interest for their anticancer, immunosuppressive, and
-[[mycelium-running-mushroom-antimicrobial-properties-species-chart]].
-
-## Safety and Regulatory Status
-
-*B. bassiana* is Risk Group 1, EPA "minimal risk," and OMRI-listed for
-organic use. It does not grow at 37C, and fewer than 50 human infections have
-been documented (all immunocompromised). Non-target effects are minimal at
-field rates. Limitations include UV sensitivity, humidity requirements, slower
-kill than chemicals (3-7 days), and shorter field persistence.
-
-## Discovery and History
-
-Agostino Bassi's 1835 demonstration that this fungus caused muscardine disease
-in silkworms was foundational to germ theory — predating Pasteur and Koch —
-earning him the title "Father of Insect Pathology." Vuillemin erected the
-genus in 1912. Modern contributors include Rehner & Humber (2011 taxonomic
-revision), Fernando Vega (endophyte research), Bruce Elliott (commercial GHA
-strain development), and Paul Stamets (mycopesticide advocacy).
-## See Also
-
-- [[fungal-biopesticides]]
-- mycopesticides-entomopathogenic-fungi
-- [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
-- [[cordyceps-and-entomopathogenic-fungi]]

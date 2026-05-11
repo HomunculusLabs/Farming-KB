@@ -7,7 +7,7 @@ tags: [permaculture, design, agriculture]
 sources: - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 ---
 # Mollison: Local Currency Systems and Community Banking
-Source: Bill Mollison, Permaculture: A Designers' Manual
+Source: [[bill-mollison]], Permaculture: A Designers' Manual
 (Chapter 14, Section 14.11)
 ## Establishing a Local Currency
 For currency to be valid and usable, preconditions are necessary:
@@ -22,7 +22,7 @@ For currency to be valid and usable, preconditions are necessary:
    cut and stacked in the woodyard at such-and-such a place"; if clean water,
    "a gallon of water bottled and redeemable at a certain place." This is the
    reserve and gives confidence.
-2. Print the currency itself, preferably in a solid local material difficult to
+2. Print the currency itself, preferably in a solid [[jadam-local-material-collection-and-use]] difficult to
    duplicate or forge elsewhere, numbered, dated, and counted. The value so
    printed should not exceed the value of the reserve by a factor of more than
    3 times. Reserve pledges need to be publicly available and assessed. Notes
@@ -52,14 +52,14 @@ distant financial centres.
 ## Reserve Assets and Backing
 The choice of reserve asset is critical to the credibility of a local currency.
 Mollison recommends locally produced, storable, and verifiable commodities:
-- Timber and forest products with measurable volume and quality
+- Timber and [[mollison-specialist-tropical-crops-forest-products]] with measurable volume and quality
 - Clean water from protected local sources
 - Grain stores held in community granaries
-- Renewable energy credits from local generation
+- [[holmgren-wind-power-and-renewable-energy-debate]] credits from local generation
 - Craft products with established local market value
 The key requirement is that the reserve must be inspectable, divisible, and
 recognisable to all community members. Complex financial instruments or
-abstract assets undermine the trust that gives local currencies their power.
+abstract assets undermine the trust that gives [[local-currencies]] their power.
 Physical reserves that community members can see and verify create a direct
 connection between the currency and real productive capacity.
 ## Demurrage and Circulation
@@ -87,19 +87,4 @@ Several historical and contemporary examples illustrate Mollison's principles:
 ## Integration with Permaculture Design
 Local currency systems function as the financial circulatory system of a
 bioregional economy, analogous to the way water circulation serves a landscape.
-Just as permaculture earthworks slow, spread, and sink water to maximise
-local benefit, local currencies slow the drain of financial resources from
-communities, spread economic opportunity, and sink value into productive local
-enterprise. Mollison places local economics within the broader permaculture
-framework of self-reliant bioregions where energy, materials, and information
-cycle locally rather than being imported and exported at great energetic and
-social cost.
-## Related Concepts
-- [[permaculture-design]]
-- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
-- [[local-currencies]]
-- [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]]
-- bioregional economics
-- [[community-land-trusts]]
-- [[appropriate-technology]]
-- [[permaculture-social-design]]
+Just as [[permaculture-earthworks]] slow, spread, and sink water to maximise

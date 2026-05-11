@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wolber, C.J. et al. (2019). "Clinical Pharmacokinetics of Dextromethorphan." Clinical Pharmacokinetics.
-  - Reissig, C.J. et al. (2012). "Dextromethorphan: A Review of Abuse." Drug and Alcohol Dependence.
+  - Reissig, C.J. et al. (2012). "Dextromethorphan: A Review of Abuse." Drug and [[cannabis-for-alcohol-dependence]].
   - Pappas, A.G. (2006). "DXM Abuse: A New Look at an Old Problem." Pediatric Emergency Care.
   - Murray, T.L. et al. (1983). "Binding of Dextromethorphan to Sigma Receptors." European Journal of Pharmacology.
   - FDA (2020). "Dextromethorphan/Bupropion (Auvelity) Approval Letter." U.S. Food and Drug Administration.
@@ -67,7 +67,7 @@ At therapeutic doses, DXM is an effective cough suppressant acting on the medull
 
 In 2022, the FDA approved a combination of dextromethorphan and bupropion (brand name Auvelity) for treatment-resistant major depressive disorder. The combination exploits DXM's NMDA antagonism and sigma-1 agonism, with bupropion inhibiting CYP2D6 to increase DXM bioavailability.
 
-DXM has been investigated for neuropathic pain, pseudobulbar affect (as a component of Nuedexta with quinidine), and as a neuroprotective agent in stroke models. The sigma-1 agonist activity is believed to mediate the antidepressant and neuroprotective effects.
+DXM has been investigated [[cannabis-for-neuropathic-pain]], pseudobulbar affect (as a component of Nuedexta with quinidine), and as a neuroprotective agent in stroke models. The sigma-1 agonist activity is believed to mediate the antidepressant and neuroprotective effects.
 
 ## Risks and Toxicity
 
@@ -85,20 +85,6 @@ The 2024 DEA review considered scheduling DXM but ultimately did not recommend i
 
 ## Recreational Use and Culture
 
-Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. Online communities developed extensive documentation of dosing protocols, [[adverse-effects-and-harm-reduction-psilocybin]] practices, and extraction methods.
+Non-medical use of DXM has been documented since the 1960s, with significant increases in prevalence during the 1990s and 2000s internet era. [[internet-mushroom-information-repositories-online-communities-emcdda-2006]] developed extensive documentation of dosing protocols, [[adverse-effects-and-harm-reduction-psilocybin]] practices, and [[arbuscular-mycorrhizal-spore-extraction-methods]].
 
 The term "robotripping" (from Robitussin) became widely recognized in popular culture. DXM gained a reputation as an accessible but unpredictable dissociative, with effects varying dramatically based on individual CYP2D6 metabolism, formulation, and dose.
-
-Harm reduction organizations emphasize the dangers of co-formulated products containing acetaminophen, chlorpheniramine, or pseudoephedrine. Pure DXM preparations (gel capsules, powder) are considered safer for those choosing to use recreationally, though the drug's inherent risks at high doses remain significant.
-
-Pharmaceutical companies have responded to abuse concerns with formulation changes including bittering agents, tamper-evident packaging, and reduced tablet counts. Extended-release polistirex formulations are sometimes preferred in the recreational context for their smoother onset and longer duration.
-
-## See Also
-- [[harmine]]
-- [[bufotenin]]
-- [[noribogaine-entity]]
-- [[muscimol-entity]]
-- [[ketamine-compound-profile]]
-- [[ergotamine]]
-- [[mescaline]]
-- [[mxe]]

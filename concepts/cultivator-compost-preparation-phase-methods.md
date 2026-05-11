@@ -1,5 +1,5 @@
 ---
-title: "cultivator [[mushroom-compost-preparation-historical]] phase methods and Phase Methods for accessible-mushroom-cultivation-for-disabilities"
+title: Cultivator Compost Preparation Phase Methods
 created: 2026-04-28
 tags: [mushroom-cultivation, composting, substrate, phase-composting, soil-science]
 date: 2026-04-25
@@ -88,33 +88,3 @@ reweighing. The difference equals percent moisture.
 ## Microbial Decomposition Process
 
 Composting is a process of microbial decomposition. Microbes are already present
-in large numbers in compost ingredients and need only water to become active.
-Nutrient supplements provide protein (nitrogen) and carbohydrates to feed
-increasing microbial populations. Because cellulose is tough, its carbohydrates
-are not initially usable and must come from other sources, making a balanced
-supplement highly desirable.
-
-## [[phase-ii-room-design]] and Procedures
-
-Phase II rooms are specially designed for pasteurization and conditioning. The
-compost must reach and maintain specific temperature zones to kill pathogens
-and competitors while preserving [[forest-and-bamboo-beneficial-microorganisms]]. Testing for ammonia
-levels is critical, as residual ammonia is toxic to mushroom mycelium. The
-finished compost should have a specific texture, moisture content, and smell
-indicating it is ready for spawning. For detailed Phase II procedures, see compost preparation and phase methods.
-
-## Alternative Composting Methods
-
-### Sugar Cane Bagasse Compost
-An alternative base material available [[fukuoka-natural-farming-in-tropical-regions]] where cereal straw
-is less common.
-
-### Five-Day Express Composting Method
-A rapid composting method that condenses the Phase I process into
-approximately five days through careful management of temperatures and
-moisture levels.
-
-## Key Principles
-
-- [[enterprise-development-mushroom-growers]] have traditionally used waste products as they are cheap
-## See Also

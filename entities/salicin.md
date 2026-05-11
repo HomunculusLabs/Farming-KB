@@ -31,7 +31,7 @@ most widely used medications in human history.
 After ingestion, salicin is metabolized to salicylic acid, which
 provides analgesic, anti-inflammatory, and antipyretic effects. The
 compound has been used in traditional medicine for millennia, with
-records of willow bark preparations for pain relief dating back to
+records of willow bark preparations for [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] dating back to
 ancient Mesopotamia, Egypt, and Greece.
 
 Salicin remains of interest as a natural alternative to synthetic
@@ -88,48 +88,6 @@ the analgesic, anti-inflammatory, and antipyretic effects.
 
 The onset of action is slower than aspirin (typically 2–3 hours versus
 30–60 minutes) due to the required metabolic conversion. Standard doses
-of willow bark extract providing 120–240 mg salicin daily are used in
-clinical studies for osteoarthritis and low back pain.
-
-## History
-
-The medicinal use of willow bark extends back at least 5,000 years.
-Ancient Egyptian papyri (Ebers Papyrus, c. 1550 BCE) document willow
-preparations for pain and inflammation. Hippocrates recommended willow
-leaf preparations for pain during childbirth around 400 BCE.
-
-In 1763, the Reverend Edward Stone of Chipping Norton, England, published
-a letter describing the successful use of dried willow bark for treating
-ague (malaria-like fevers). In 1828, Johann Andreas Buchner isolated the
-active principle in pure form from willow bark, naming it "salicin."
-
-In 1838, Raffaele Piria converted salicin to salicylic acid. In 1897,
-Felix Hoffmann at Bayer synthesized acetylsalicylic acid (aspirin),
-creating a more potent, faster-acting derivative with reduced gastric
-irritation compared to sodium salicylate, the formulation then in use.
-
-## Natural Sources
-
-Salicin is found in several plant genera, primarily within the Salicaceae
-family. Concentrations vary by species, tissue type, season, and growing
-conditions.
-
-- **White willow (*Salix alba*):** The most commercially important
-  source, bark contains 0.5–1.5% salicin by dry weight.
-- **Black willow (*[[salix-nigra]]*):** Native to [[polypore-fungi-eastern-north-america]] America,
-  bark contains moderate salicin concentrations.
-- **Purple willow (*[[salix-purpurea]]*):** European species with bark
-  salicin content comparable to white willow.
-- **Poplar species (*Populus* spp.):** Bark and leaf tissue contain
-  salicin and related phenolic glycosides, including populin.
-
-Willow bark extracts standardized to salicin content are commercially
-available as [[medicinal-mushroom-dietary-supplements]] and [[salix-alba]]
-
-- [[psilocybin]] — A bioactive fungal compound with distinct
-  pharmacological mechanisms, demonstrating the breadth of natural
-  product chemistry.
 
 ## See Also
-
-- [[herbal-medicine-making-basics]]
+- [[query-what-is-the-difference-between-vermicompost-and-traditional-compost]]

@@ -1,5 +1,5 @@
 ---
-title: green [[cannabis-nutrient-burn-and-toxicity]] schedules Schedules - [[greg-green]]'s green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible
+title: Green Cannabis Nutrient Schedules
 created: 2026-04-26
 updated: 2026-04-25
 sources:

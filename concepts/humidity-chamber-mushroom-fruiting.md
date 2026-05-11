@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-humidity-chamber-design]] for [[bacteria-and-microorganisms-in-mushroom-fruiting]]
+title: [[aquarium-humidity-chamber-mushroom-fruiting]] Fruiting
 slug: humidity-chamber-mushroom-fruiting
 tags: [mycology, mushroom-cultivation, fruiting, humidity, grow-chamber]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, spore-syringe-preparation-mushroom-cultivation]
@@ -8,13 +8,13 @@ source: [[boil-a-bag-spore-print-technique-jarrold]]
 
 # Humidity Chamber Design for Mushroom Fruiting
 
-Once mushroom mycelium has fully colonized a substrate, it must be exposed to conditions that trigger fruiting — the formation of mushroom fruiting bodies. The primary [[fungal-fruiting-body-formation-environmental-triggers]] are high humidity (85-95% relative humidity), fresh air exchange, indirect light, and a slight drop in temperature. The humidity chamber (also called a fruiting chamber or grow chamber) is the enclosure that provides these conditions.
+Once [[antimicrobial-compounds-mushroom-mycelium]] has fully colonized a substrate, it must be exposed to conditions that trigger fruiting — the formation of mushroom fruiting bodies. The primary [[fungal-fruiting-body-formation-environmental-triggers]] are high humidity (85-95% relative humidity), fresh air exchange, indirect light, and a slight drop in temperature. The humidity chamber (also called a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] or grow chamber) is the enclosure that provides these conditions.
 
 ## Why Humidity Matters
 
 Mushroom fruiting bodies are composed of approximately 90% water. During fruiting, the mycelium transfers large volumes of water from the substrate to the developing mushrooms. If the ambient humidity is too low, the mushrooms lose water faster than the mycelium can supply it, causing them to dry out, crack, or abort entirely. High humidity reduces transpiration rates and allows the mushrooms to develop properly.
 
-The optimal relative humidity for fruiting varies by species but generally falls within the 85-95% range. Oyster mushrooms tolerate lower humidity (80-85%) better than most species, while species like Shiitake may require sustained humidity above 90% for proper fruiting.
+The optimal relative humidity for fruiting varies by species but generally falls within the 85-95% range. [[cultivation-of-oyster-mushrooms]] tolerate lower humidity (80-85%) better than most species, while species like Shiitake may require sustained humidity above 90% for proper fruiting.
 
 ## Basic Humidity Chamber: Fish Tank Method
 
@@ -64,7 +64,7 @@ The air pump pushes air through the tubing and air stone, creating bubbles in th
 
 ## Warm Humid Air Delivery Chamber
 
-For growers in cold climates or those cultivating during winter, a warm humid air delivery system can be constructed:
+For growers [[query-how-do-i-grow-figs-in-cold-climates]] or those cultivating during winter, a warm humid air delivery system can be constructed:
 
 ### Design
 
@@ -78,7 +78,7 @@ For growers in cold climates or those cultivating during winter, a warm humid ai
 ### Setup Considerations
 
 - The water heater timer requires calibration — it may take several hours to find the right setting that maintains the desired [[greg-green-temperature-and-humidity-control]] without overheating
-- The warm air helps maintain the slight temperature drop (typically 3-5°C below colonization temperature) that many species need as a fruiting trigger
+- The warm air helps maintain the slight temperature drop (typically 3-5°C below colonization temperature) that many species need as a [[cold-shock-fruiting-trigger-species-specificity-psilocybe-panaeolus]]
 - Ensure all connections are sealed to prevent air leaks that would compromise humidity
 
 ## Transitioning from Colonization to Fruiting
@@ -88,39 +88,3 @@ When the substrate is fully colonized (visible as a solid white mass of mycelium
 1. Remove the filter can from the top of the bag
 2. Cut the bag down the sides, removing as much plastic as needed to expose the colonized substrate
 3. Leave at least 2 cm of the bag bottom intact so the substrate block can stand upright in the humidity chamber
-4. Place the exposed substrate block in the humidity chamber
-5. Maintain humidity, provide fresh air exchange twice daily, and provide indirect light (ambient room light is usually sufficient — direct sunlight can overheat the chamber and damage the mushrooms)
-
-## Fruiting Timeline
-
-After introducing fruiting conditions:
-
-- **Days 1-7** — primordia (pins) form on the substrate surface as small white dots; this stage is called "pinning" and requires the most careful [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
-- **Days 7-14** — pins develop into recognizable mushroom shapes, growing rapidly; oyster mushrooms can double in size daily during peak growth
-- **Days 14-21** — mushrooms reach maturity; harvest before or just as the cap fully opens for best texture and flavor
-- **After harvest** — the substrate may produce additional flushes (2-4 flushes are common), though each successive flush typically yields fewer mushrooms; a rest period of 1-2 weeks between flushes allows the mycelium to recover
-
-## Common Fruiting Problems
-
-- **No pinning** — usually caused by insufficient humidity, inadequate fresh air exchange, or temperature too high; also check that the substrate is fully colonized
-- **Leggy mushrooms** (long stems, tiny caps) — caused by excessive CO2; increase fresh air exchange frequency
-- **Dried or cracked caps** — humidity too low; add more water to the humidity base or reduce ventilation
-- **Bacterial blotch** (dark brown spots on caps) — caused by water droplets sitting on the mushroom surface; improve air circulation to promote evaporation
-- **Cobweb mold** — fine, grayish-white mold growth on the substrate or mushrooms; increase fresh air exchange and reduce humidity slightly
-- **Mushrooms growing sideways or deformed** — the mushrooms are growing toward a light source; ensure indirect light comes from above
-
-## Harvesting Best Practices
-
-Harvest mushrooms at the right stage for maximum quality. For most species, the ideal harvest window is just before the cap fully expands and the veil (thin membrane connecting cap to stem) tears. At this stage:
-
-- Caps are firm and convex
-- Spore release has not yet begun (which would create a messy spore deposit in the chamber)
-- Flavor and texture are at their peak
-- Nutritional content is highest
-
-To harvest, grasp the mushroom at the base of the stem and gently twist while pulling upward. Avoid cutting mushrooms at the stem base, as the remaining stump can become a site for bacterial infection. Harvest all mushrooms from a flush at roughly the same time to prepare the substrate for the next flush.
-
-## See Also
-
-- [[straw-substrate-mushroom-cultivation-boil-bag]] — preparing the substrate before fruiting
-- [[spore-syringe-preparation-mushroom-cultivation]] — inoculating the substrate with spores

@@ -87,32 +87,3 @@ Control of invasive populations relies on integrated approaches combining herbic
 Glyphosate-based treatments followed by native species reseeding have shown moderate success in wetland restoration.
 
 Repeated late-season mowing over multiple years can gradually reduce rhizome carbohydrate reserves.
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents are not currently available, though research on host-specific pathogens continues.
-
-Prevention of establishment is more effective than eradication of established stands.
-
-## Cultivars and Variants
-
-'Ligata' is a variegated cultivar with white-striped leaves, widely sold as an ornamental for water gardens.
-
-'Picta' (also listed as 'Feesey') features green-and-white striped foliage with pinkish tints in cool weather.
-
-'Castor' is a high-yielding forage cultivar selected for improved palatability and persistence.
-
-'Palaton' is a European forage cultivar bred for improved digestibility and rust resistance.
-
-'Red Canary' is a red-stemmed ornamental selection with green foliage and reddish culm bases.
-
-'Panacea' is a variegated ornamental form with broader white leaf margins and stronger winter hardiness.
-
-## See Also
-
-- [[arundo-donax]]
-- [[panicum-virgatum]]
-- [[spartina-alterniflora]]
-- [[glycine-max]]
-- [[medicago-sativa]]
-- [[festuca-arundinacea]]
-- [[typha-angustifolia]]
-- [[juncus-effusus]]

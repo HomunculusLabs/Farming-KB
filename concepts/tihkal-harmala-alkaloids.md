@@ -35,7 +35,7 @@ At 500 mg: "Intense and annoying visual disturbances, and complete collapse of m
 
 ### Harmaline Combined with DMT (Pharmahuasca)
 
-This is where harmaline's MAO inhibition becomes transformative:
+This is where harmaline's [[tihkal-oral-activity-mao-inhibition]] becomes transformative:
 
 | Harmaline | DMT | Result |
 |-----------|-----|--------|
@@ -71,14 +71,14 @@ Harmine is the other major alkaloid found in [[mckenna-food-gods-peganum-harmala
 - Natural isolate is the **dextrorotatory isomer** ([alpha]D +32 degrees)
 
 ### Importance in Ayahuasca
-Tetrahydroharmine may be an extremely important factor in ayahuasca pharmacology:
-- Present **along with harmaline and harmine** in Peganum harmala
+Tetrahydroharmine may be an extremely important factor in [[ayahuasca-pharmacology]]:
+- Present **along with harmaline and harmine** in [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]
 - Reported at levels **equal to those of harmine** in analyses of ayahuasca samples
 - Harmaline itself is usually present in "rather small amounts" in ayahuasca
 - Yet it remains essentially **unexplored** pharmacologically in controlled settings
 
 ### Historical Discovery
-First isolated from Banisteriopsis caapi in the 1950s during careful chromatographic analysis. Initially misidentified as 6-methoxy-N,N-dimethyltryptamine (6-MeO-DMT) before the correct structure (racemic tetrahydroharmine) was confirmed spectroscopically.
+First isolated from [[ayahuasca-and-banisteriopsis-caapi]] in the 1950s during careful chromatographic analysis. Initially misidentified as 6-methoxy-N,N-dimethyltryptamine (6-MeO-DMT) before the correct structure (racemic tetrahydroharmine) was confirmed spectroscopically.
 
 ## Peganum harmala (Syrian Rue) Seeds
 
@@ -88,27 +88,3 @@ Seeds contain a mixture of harmala alkaloids (harmine, harmaline, tetrahydroharm
 |------|---------|
 | 2 g | No effects |
 | 5 g | Tinnitus, nystagmus, nausea, intense closed-eye hallucinations, enhanced sex drive |
-| 7 g | "Very sick for 24 hours" |
-| 20 g (extract) | Disorientation, nausea, faint visuals, vomiting |
-| 28 g (extract) | Zebra-like visual stripes, auditory buzz, vivid dreaming, nausea |
-
-Shulgin warns: "This is pharmacological nonsense" to equate pure harmaline with P. harmala seeds, as the seeds contain many additional alkaloids with potential psychopharmacological roles.
-
-## Other Beta-Carbolines
-
-- **Harman**: Simplest beta-carboline, widely distributed. Inactive up to 250 mg orally. Even 250 mg + 35 mg DMT showed no effects.
-- **6-Methoxy-THH (pinoline)**: Naturally occurring in human blood and CSF. Binds to serotonin sites in human platelets. May play a role in the sleep/dream state alongside melatonin.
-- **6-Methoxyharmalan**: Immediate dehydration product of melatonin. Effective MAOI.
-
-## Sources
-
-- TIHKAL Entry #13 (Harmaline), pp. 2240-2540
-- TIHKAL Entry #14 (Harmine)
-- TIHKAL Entry #54 (Tetrahydroharmine), pp. 7940-7980
-- TIHKAL commentary on beta-carbolines, pp. 6660-6720
-
-## See Also
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]

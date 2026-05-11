@@ -30,11 +30,11 @@ created: 2026-04-28
 
 ## Overview
 
-Rainbow GTZ is a modern hybrid cannabis strain bred by Archive Seed Bank, created by crossing Zkittlez with the legendary Grape Trech (Grape Ape × OG Triple OG) and a select Triangle Kush male. The resulting cultivar is a sativa-leaning hybrid known for its vibrant, colorful appearance and intensely fruity, candy-like terpene profile.
+Rainbow GTZ is a modern [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Archive Seed Bank, created by crossing Zkittlez with the legendary Grape Trech (Grape Ape × OG Triple OG) and a select Triangle Kush male. The resulting cultivar is a sativa-leaning hybrid known for its vibrant, colorful appearance and intensely fruity, candy-like [[cannabis-terpene-profile]].
 
 Released in the early 2020s, Rainbow GTZ quickly gained traction in California's premium flower market for its exotic bag appeal and complex aroma. It represents the convergence of the "Zkittlez era" fruit-forward breeding philosophy with the classic potency of Triangle Kush and OG Triple OG genetics.
 
-The strain has become a staple among extract artists and hash makers due to its generous trichome production and favorable washability characteristics for ice water hash extraction.
+The strain has become a staple among extract artists and hash makers due to its generous trichome production and favorable washability characteristics for ice [[cervantes-15-bag-water-hash-extraction]].
 
 ## Lineage
 
@@ -74,42 +74,16 @@ Limonene drives the citrus and tropical fruit aromatics while contributing uplif
 
 **CBD content:** <1% (negligible).
 
-Minor cannabinoids present in trace amounts include CBC, CBG, and THCV. The overall cannabinoid profile is THC-dominant with minimal CBD contribution, placing effects firmly in the psychoactive category.
+[[cannabis-minor-cannabinoids]] present in trace amounts include CBC, CBG, and THCV. The overall cannabinoid profile is THC-dominant with minimal CBD contribution, placing effects firmly in the psychoactive category.
 
 ## Effects
 
 Onset is relatively rapid, with initial effects felt within 5–10 minutes of inhalation. The experience begins with a cerebral rush characterized by euphoria, enhanced sociability, and creative stimulation from the sativa-dominant genetics.
 
-As effects deepen, a pleasant body relaxation develops without heavy sedation. The balance between mental stimulation and physical ease is characteristic of well-bred modern hybrids, allowing for functional daytime or early evening use.
+As effects deepen, a pleasant body relaxation develops without heavy sedation. The balance between mental stimulation and physical ease is characteristic of well-bred [[african-landrace-sativa-modern-hybrids]], allowing for functional daytime or early evening use.
 
-Common therapeutic applications include stress relief, mild depression management, and creative enhancement. The mood-elevating properties make it suitable for social situations. Higher doses may produce more pronounced physical relaxation and introspective effects.
+Common [[psilocybin-therapeutic-applications]] include stress relief, mild depression management, and creative enhancement. The mood-elevating properties make it suitable for social situations. Higher doses may produce more pronounced physical relaxation and introspective effects.
 
 Side effects are typical of high-THC cannabis: dry mouth, dry eyes, and potential anxiety at very high doses in susceptible individuals. The linalool content may mitigate some THC-induced anxiety for moderate consumers.
 
 ## Cultivation
-
-Rainbow GTZ has moderate cultivation difficulty, suitable for experienced growers. It performs well in both indoor and outdoor environments, with a flowering time of 8–10 weeks indoors.
-
-The strain responds well to [[cannabis-training-techniques-comparison]] including LST, SCROG, and topping. Branching is moderate, with adequate node spacing for light penetration. Support may be needed during late flowering due to the density and weight of mature buds.
-
-Indoor yields range from 400–500 g/m² under optimal conditions. The plants reach medium height (100–150 cm) and exhibit vigorous [[cannabis-vegetative-growth-stage]]. Nutrient requirements are moderate to heavy during mid-flowering, particularly for phosphorus and potassium.
-
-## Notable Phenotypes and Crosses
-
-Several phenotypes of Rainbow GTZ have been identified by growers, varying in color expression, bud structure, and terpene dominance. The "purple" pheno exhibits the most vivid coloration with deep violet hues throughout, while the "green" pheno maintains brighter green tones with more pronounced citrus terpenes.
-
-Archive Seed Bank has used Rainbow GTZ in further breeding projects, crossing it with other elite cultivars to produce new lines. Its combination of visual appeal, [[cannabis-glandular-trichome-types-resin-production-clarke]], and complex terpene profile makes it an attractive parent for exotic [[vic-high-true-breeding-strain-development-stabilization]].
-
-The strain's genetics have also been incorporated into several crosses in the competitive [[oner-cannabis-breeding-fundamentals]] circuit, particularly in California and Oregon. Some breeders have paired it with Dosidos or Kush Mints lineage to increase resin gland size and add cookie-dough terpene notes.
-
-## See Also
-
-- [[grape-ape]]
-- triangle kush
-- og triple og
-- [[gelato]]
-- [[cannabis-extraction-basics]]
-- [[cannabis-genetics-and-breeding]]
-- [[cannabis-breeding-basics]]
-- [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
-- californian cannabis

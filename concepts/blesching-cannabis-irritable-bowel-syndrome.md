@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and blesching cannabis irritable bowel syndrome Syndrome (IBS)"
+title: Blesching Cannabis Irritable Bowel Syndrome
 created: 2026-04-26
 tags:
   - cannabis
@@ -17,7 +17,7 @@ type: concept
 # Cannabis and Irritable Bowel Syndrome (IBS)
 
 Irritable bowel syndrome (IBS) is a common gastrointestinal disorder that
-significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/[[blesching-cannabis-inflammatory-bowel-disease]] disease received a CHI value of 8 from 3
+significantly impacts quality of life. According to [[cannabis-health-index-scoring-system]], IBS/[[blesching-cannabis-inflammatory-bowel-disease]] disease received a [[blesching-cannabis-prostate-cancer-chi-value-3]] of 8 from 3
 studies reviewed, with additional supporting evidence from case reports and
 pre.
 
@@ -73,7 +73,7 @@ and lack of appetite.
 ### Pre-Clinical Research
 
 Boston researchers (2006) tested molecules that exert biological effects
-through the ECS and suggested therapeutic potential of cannabinoids on IBD.
+through the ECS and suggested [[metzner-ayahuasca-therapeutic-potential]] of cannabinoids on IBD.
 
 University of Calgary researchers (2008) showed that cannabinoids reduced
 colitis in test animals, concluding that drugs targeting endocannabinoid
@@ -88,34 +88,3 @@ cases of inflammatory bowel disease.
 
 - CBD: Animal study (mice), 2008, University of Naples -- CBD reduced
   hypermotility. CHI: 2
-- URB597 (FAAH blocker): Animal and laboratory study, 2008, University of
-  Calgary -- Enhanced ECS action, reduced colitis. CHI: 3
-- Cannabinoids: Laboratory and animal study, 2006, Northeastern University
-  Boston -- Potential reduction of inflammation. CHI: 3
-
-## Strain-Specific Considerations
-
-Both CB1 and CB2 receptors have been found in parts of the gastrointestinal
-tract. Patients with Crohn's disease reported that indica strains worked
-especially well for reducing pain, nausea, vomiting, depression, low energy,
-and lack of sleep. Indicas tend to have lower THC:CBD ratios, resulting in
-relatively increased CB2 activation.
-
-## Mind-Body Medicine and IBS
-
-Two international placebo-controlled studies demonstrated the significant
-therapeutic potential of belief in relieving IBS symptoms. A meta-analysis
-revealed that psychiatric disorders, especially major depression, anxiety, and
-somatoform disorders, occur in up to 94% of patients with IBS.
-
-For IBS-C (constipation), researchers observed that constipation occurs when
-an individual is grimly determined to carry on despite facing an unsolvable
-problem. For IBS-D (diarrhea), it occurs when a person wants to be done with
-a situation or [[query-how-to-get-rid-of-slugs-and-snails-organically]] of something.
-
-## Key Takeaways
-
-- IBS is a prevalent GI disorder with no orthodox cure; the ECS is widely
-## See Also
-
-- [[blesching-cannabis-tourette-syndrome]]

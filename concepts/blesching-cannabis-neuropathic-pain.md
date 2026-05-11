@@ -88,23 +88,3 @@ experienced a 30% reduction in pains compared to placebo.
 Sativex, a pharmaceutical plant derivative, contains THC and CBD in similar
 proportions as [[comparison-cannabis-sativa-vs-cannabis-indica]]. Sativa or sativa-dominant strains generally
 contain a higher THC:CBD ratio. Patients have reported benefits from various
-[[cannabis-delivery-methods-comparison]] including sublingual sprays and smoked cannabis.
-
-## Mind-Body Medicine and Neuropathies
-
-Nerves communicate and connect each cell with the brain and nervous system,
-allowing trillions of different cells to efficiently work together and in
-balance for the benefit of the whole organism. Each cell listens and speaks.
-Each receives and transmits signals perceived by the seven common senses.
-
-The disease picture of neuropathies suggests an element of communication
-about one's general experience of pain, reflecting disruption in the body's
-signaling network.
-
-## Related
-
-- [[blesching-cannabis-childbirth-pain]] Topics
-
-- [[blesching-cannabis-multiple-sclerosis]]
-- [[blesching-cannabis-diabetes]]
-- [[blesching-cannabinoid-pharmacology]]

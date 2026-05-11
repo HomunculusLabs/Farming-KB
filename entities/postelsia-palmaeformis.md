@@ -14,7 +14,7 @@ sources:
   - Abbott, I.A. & Hollenberg, G.J. (1976). "Marine Algae of California." Stanford University Press.
   - Blanchette, C.A. et al. (2002). "Long-term persistence of Postelsia." Ecology, 83, 3343-3352.
   - Dayton, P.K. (1973). "Dispersion, dispersal, and persistence of Postelsia." Ecological Monographs, 43, 417-439.
-  - Foreman, R.E. (1977). "Benthic community modification and recovery following experimental removal of Postelsia." Journal of Experimental Marine Biology and Ecology, 28, 225-241.
+  - Foreman, R.E. (1977). "Benthic community modification and recovery following experimental removal of Postelsia." Journal of Experimental Marine [[epiphyte-biology-and-ecology]], 28, 225-241.
   - Harrold, C. & Lisin, S. (1989). "Radio-tracking sea otters." Marine Mammal Science, 5, 361-375.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 **Postelsia palmaeformis**, commonly known as the sea palm, is a brown alga in the family Laminariaceae. It is one of the most distinctive seaweeds on the Pacific coast of [[psilocybin-north-america-pacific-northwest]], resembling a miniature palm tree with its thick, flexible stipe and frond-like blades.
 
-The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic model organism for intertidal ecology and succession studies.
+The species is restricted to the most wave-exposed rocky intertidal zones from central California to British Columbia. Its peculiar morphology and ecological specialization have made it a classic [[canary-grass-phototropism-model-organism]] for intertidal ecology and succession studies.
 
 ## Taxonomy and Morphology
 
@@ -60,9 +60,9 @@ Phlorotannin polyphenols provide chemical defense against grazing by herbivorous
 
 Sea palms are a foundation species of exposed intertidal communities. Their dense stands modify wave flow patterns, trap drifting organic material, and create microhabitats for small invertebrates.
 
-The classic ecological studies of Paul Dayton demonstrated that Postelsia is a fugitive species dependent on disturbance. Log strikes and wave damage create gaps in mussel beds that sea palms rapidly colonize. Without periodic disturbance, competitive exclusion by mussels eliminates local populations.
+The classic [[mycorrhiza-bioassays-ecological-studies]] of Paul Dayton demonstrated that Postelsia is a fugitive species dependent on disturbance. Log strikes and wave damage create gaps in mussel beds that sea palms rapidly colonize. Without periodic disturbance, competitive exclusion by mussels eliminates local populations.
 
-Sea otters and other predators that consume mussels indirectly benefit Postelsia by maintaining disturbance dynamics. The species is considered a keystone species for understanding community assembly processes in the intertidal zone.
+Sea otters and other predators that consume mussels indirectly benefit Postelsia by maintaining disturbance dynamics. The species is considered a keystone species for understanding [[biodiversity-fungal-community-assembly]] processes in the intertidal zone.
 
 ## Uses
 
@@ -74,7 +74,7 @@ The species has been investigated as a source of fucoidan and mannitol but has n
 
 ## Life History
 
-P. palmaeformis has a heteromorphic life cycle with alternation between macroscopic sporophytes and microscopic gametophytes. Mature sporophytes release zoospores from sori on the blade surfaces during spring and early summer.
+P. palmaeformis has a heteromorphic [[agaricus-campestris-biology-and-life-cycle]] with alternation between macroscopic sporophytes and microscopic gametophytes. Mature sporophytes release zoospores from sori on the blade surfaces during spring and early summer.
 
 Zoospores settle on bare rock surfaces within mussel bed gaps, germinate into filamentous gametophytes, and undergo [[fungal-life-cycles-sexual-reproduction-metamorphosis]]. Fertilized eggs develop into juvenile sporophytes that grow rapidly through summer and reach full size by early fall.
 
@@ -84,32 +84,6 @@ The entire sporophyte generation dies during winter storms. Gametophytes persist
 
 Postelsia is not currently listed as threatened or endangered, but local populations face pressure from coastal development, harvest, and [[dighton-fungi-climate-change-feedback]]. Sea-level rise may reduce available intertidal habitat.
 
-The species' dependence on wave-exposed mussel beds makes it vulnerable to changes in mussel bed distribution. Oil spills, ocean acidification, and warming waters could all negatively impact populations at the southern edge of its range.
+The species' dependence on wave-exposed mussel beds makes it vulnerable to changes in mussel bed distribution. [[mycoremediation-of-oil-spills]], ocean acidification, and warming waters could all negatively impact populations at the southern edge of its range.
 
 Harvesting regulations vary by jurisdiction. In California, collection is limited to personal use in some areas, while commercial harvest requires a scientific collecting permit. Conservation groups advocate for additional protections at particularly productive sites.
-
-## Related Species and Phylogeny
-
-Postelsia belongs to the Laminariaceae and is phylogenetically closest to Nereocystis, with which it shares the annual life history and laminarialean morphology. Molecular phylogenetic analyses confirm a sister-group relationship between the two monotypic genera.
-
-Among Pacific kelps, the vertical orientation and stipe flexibility of Postelsia are unique. No other laminarialean species occupies such extremely wave-exposed intertidal habitats. Egregia menziesii (feather boa kelp) shares the intertidal zone but has a fundamentally different morphology with a branching, perennial thallus.
-
-The fossil record of Postelsia is sparse, but laminarialean kelps diversified during the Miocene. The genus likely originated in the North Pacific, with its current distribution reflecting Pleistocene range dynamics.
-
-## Research Significance
-
-Postelsia palmaeformis has been a model organism for intertidal ecology since the 1970s. Paul Dayton's landmark studies on sea palm population dynamics at Mukkaw Bay, Washington, established fundamental principles of disturbance-mediated community structure.
-
-The species continues to be studied in the context of climate change impacts on intertidal organisms. Its restricted habitat requirements and sensitivity to thermal stress make it an indicator species for monitoring coastal ecosystem health.
-
-Recent research has focused on the genetic connectivity of populations along the Pacific coast. Population genetic studies reveal high gene flow facilitated by ocean currents, though significant structuring occurs at larger geographic scales.
-
-## See Also
-
-- [[macrocystis-pyrifera]]
-- [[saccharina-latissima]]
-- [[eisenia-bicyclis]]
-- [[chondrus-crispus]]
-- [[durvillaea-antarctica]]
-- [[grateloupia-turuturu]]
-- [[palmaria-palmata]]

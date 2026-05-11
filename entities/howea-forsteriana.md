@@ -56,9 +56,9 @@ On Lord Howe Island, the kentia palm grows in lowland and montane subtropical ra
 
 The species is particularly abundant on the southern slopes of the island's two main mountains, Mount Gower and Mount Lidgbird. It also grows in the island's palm forests along stream valleys.
 
-Lord Howe Island has a subtropical climate with warm, moist summers and mild, wet winters. Mean annual rainfall is approximately 1,700 millimeters, distributed fairly evenly throughout the year.
+Lord Howe Island has [[query-how-do-i-grow-bananas-in-a-subtropical-climate]] with warm, moist summers and mild, wet winters. Mean annual rainfall is approximately 1,700 millimeters, distributed fairly evenly throughout the year.
 
-Soils are derived from volcanic basalt and are rich in organic matter. The deep, well-drained forest soils provide ideal conditions for root development.
+Soils are derived from volcanic basalt and are rich in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. The deep, well-drained forest soils provide ideal conditions for root development.
 
 The palm grows both as a canopy emergent in lowland forests and as an understory component in montane forests. It frequently dominates lowland palm forest communities.
 
@@ -76,49 +76,14 @@ Optimal temperature ranges from 18 to 27 degrees Celsius. The palm is sensitive 
 
 Consistent moisture is preferred, with the soil kept evenly moist but not waterlogged. The species is more drought-tolerant than most indoor palms but develops brown leaf tips if allowed to dry completely.
 
-A well-draining potting mix containing peat, perlite, and sand supports healthy root growth. Repotting every 2 to 3 years prevents root-bound conditions.
+A well-draining [[solomon-potting-mix-and-seedling-soil-recipe]] containing peat, perlite, and sand supports healthy root growth. Repotting every 2 to 3 years prevents root-bound conditions.
 
-Kentia palms are slow growers indoors, typically producing 1 to 2 new fronds per year. Fertilization with a balanced palm fertilizer during the growing season supports steady growth.
+Kentia palms are slow growers indoors, typically producing 1 to 2 new fronds per year. Fertilization with a balanced palm fertilizer during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] supports steady growth.
 
-The species is relatively pest-resistant but may be affected by spider mites, mealybugs, and scale insects. Good air circulation and periodic hosing of foliage help prevent infestations.
+The species is relatively pest-resistant but may be affected by spider mites, mealybugs, and scale insects. Good [[stamets-growing-room-air-circulation-co2-management]] and periodic hosing of foliage help prevent infestations.
 
 ## Ecological and Economic Value
 
-On Lord Howe Island, Howea forsteriana is a dominant component of the native forest ecosystem. Its fruits and seeds are an important food source for native birds and invertebrates.
+On Lord Howe Island, Howea forsteriana is a dominant component of the native [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]. Its fruits and seeds are an important food source for native birds and invertebrates.
 
 The palm forests of Lord Howe Island provide habitat for several endemic and threatened species, including the Lord Howe woodhen (Gallirallus sylvestris) and the Lord Howe currawong (Strepera graculina crissalis).
-
-The commercial harvest of kentia palm seeds is a major economic activity on Lord Howe Island. Seed collection and seedling cultivation have been important industries since the late 19th century.
-
-The global indoor plant market for Howea forsteriana is valued at tens of millions of dollars annually. The species is among the top five most sold indoor palms worldwide.
-
-Kentia palms are extensively used in interior plantscaping for their tolerance of low light, air conditioning, and neglect. They are standard specimens in hotel lobbies, office buildings, and shopping centers.
-
-The species was one of the palms studied by NASA in the Clean Air Study for its potential to remove indoor air pollutants. It has shown effectiveness in removing formaldehyde and other volatile organic compounds.
-
-Conservation concerns include the potential impact of commercial seed harvest on natural regeneration. Management plans aim to balance economic exploitation with ecological sustainability.
-
-## Conservation Status
-
-Howea forsteriana is classified as Vulnerable on the IUCN Red List. Its extremely limited natural range, confined to a single small island, makes it inherently susceptible to catastrophic events.
-
-The species faces threats from invasive species, particularly rats and introduced plant species that compete with native vegetation. Climate change and rising sea levels also pose long-term risks to Lord Howe Island's ecosystem.
-
-Lord Howe Island has been designated a UNESCO World Heritage Site and a Permanent Park Preserve. Strict biosecurity measures, including a rodent eradication program completed in 2019, protect the island's native flora and fauna.
-
-Commercial seed harvesting is regulated by the Lord Howe Island Board to ensure sustainable collection. Only a limited percentage of seeds may be harvested from wild populations each year.
-
-Ex situ conservation through cultivation in botanical gardens and private collections worldwide provides an additional safeguard. The species is widely grown and its horticultural popularity ensures genetic material is preserved across many institutions.
-
-## See Also
-
-- [[cocos-nucifera]]
-- [[areca-catechu]]
-- [[euterpe-oleracea]]
-- [[phoenix-dactylifera]]
-- [[sabal-palmetto]]
-- [[trachycarpus-fortunei]]
-- [[serenoa-repens]]
-- [[phoenix-canariensis]]
-- [[roystonea-regia]]
-- [[chamaedorea-elegans]]

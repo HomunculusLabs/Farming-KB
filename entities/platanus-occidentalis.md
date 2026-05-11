@@ -28,7 +28,7 @@ American sycamore is a dominant riparian species, commonly found along riverbank
 
 **Platanus occidentalis** L. was described by Linnaeus in 1753. The genus *Platanus* is the sole extant genus in the family Platanaceae and is one of the oldest living lineages of flowering plants, with a fossil record extending back to the Cretaceous period.
 
-The specific epithet *occidentalis* means "western," referring to its position relative to the Old World *Platanus orientalis*. The two species hybridize naturally where their ranges overlap in cultivation, producing the London plane tree (*Platanus × acerifolia*).
+The specific epithet *occidentalis* means "western," referring to its position relative to the Old World *[[platanus-orientalis]]*. The two species hybridize naturally where their ranges overlap in cultivation, producing the London plane tree (*Platanus × acerifolia*).
 
 Mature American sycamores typically reach 30–40 meters in height, with exceptional individuals exceeding 50 meters. The trunk is characteristically massive, often divided near the base into several large spreading limbs.
 
@@ -54,9 +54,9 @@ Sycamore is a flood-tolerant species, well-adapted to periodic inundation. Seedl
 
 Optimal growth occurs on deep, moist, alluvial soils along watercourses, though the species tolerates a range of soil conditions. It is intolerant of prolonged drought and fire, limiting its upland distribution.
 
-The species has been planted beyond its native range in the western United States and parts of Europe. In the Pacific Northwest, it naturalizes along waterways but is less aggressive than in its native range.
+The species has been planted beyond its native range in the western United States and parts of Europe. In the [[psilocybin-north-america-pacific-northwest]], it naturalizes along waterways but is less aggressive than in its native range.
 
-American sycamore readily colonizes disturbed riparian sites, making it valuable for streambank restoration and mine reclamation projects. Its rapid early growth allows it to quickly establish canopy cover on degraded sites.
+American sycamore readily colonizes disturbed riparian sites, making it valuable for streambank restoration and mine [[fukuoka-desert-reclamation-projects]]. Its rapid early growth allows it to quickly establish canopy cover on degraded sites.
 
 ## Ecology and Wildlife
 
@@ -68,7 +68,7 @@ The leaves support caterpillars of the sycamore moth (*Halysidota harrisii*) and
 
 Streamside sycamore canopies shade waterways, moderating water temperature and supporting coldwater fish populations. Root systems stabilize streambanks against erosion, reducing sedimentation in aquatic habitats.
 
-The species is an important component of the eastern riparian forest community, often growing alongside eastern cottonwood (*Populus deltoides*), silver maple (*Acer saccharinum*), and green ash (*Fraxinus pennsylvanica*). These bottomland hardwood associations provide critical wildlife corridors.
+The species is an important component of the eastern riparian forest community, often growing alongside eastern cottonwood (*[[populus-deltoides]]*), silver maple (*Acer saccharinum*), and green ash (*[[fraxinus-pennsylvanica]]*). These bottomland hardwood associations provide critical [[permaculture-designers-manual-wildlife-corridors]].
 
 Sycamore leaves decompose relatively quickly compared to other hardwood species, contributing to rapid [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in floodplain ecosystems. This fast decomposition rate supports diverse aquatic invertebrate communities.
 
@@ -87,30 +87,3 @@ The wood has limited commercial value compared to other hardwoods but finds spec
 In the musical instrument industry, sycamore has been used for the backs and sides of violins and guitars, though it is less common than maple for this purpose. The wood takes stain and finish well despite its coarse texture.
 
 The species is relatively short-lived for a hardwood, typically reaching 200–300 years. Older specimens become susceptible to heart rot, canker diseases, and wind damage from their large, heavy limbs.
-
-## Notable Features
-
-American sycamore produces some of the largest-diameter trunks of any [[growing-gourmet-north-american-reishi-species]] tree. The current national champion, located in Jeromesville, Ohio, measures over 4.5 meters in diameter at breast height.
-
-The species is monoecious, with separate male and female flower clusters on the same tree. Wind pollination occurs in early spring, with the characteristic button-ball fruits maturing and persisting through winter.
-
-Sycamore anthracnose, caused by the fungus *Apiognomonia veneta*, is the most significant disease affecting the species. It causes leaf blight, twig dieback, and canker formation, though most trees survive and refoliate during the growing season.
-
-Bacterial leaf scorch, caused by *Xylella fastidiosa*, can also affect sycamore, causing marginal leaf browning and premature defoliation. Management focuses on maintaining tree vigor through proper watering and mulching.
-
-In landscaping, American sycamore is best suited to large properties with adequate space for its eventual size. The species produces copious amounts of leaves, twigs, and fruit that can create maintenance challenges near structures and paved surfaces.
-
-## See Also
-
-- [[platanus-acerifolia]]
-
-- [[populus-deltoides]]
-- [[quercus-robur]]
-- [[fagus-sylvatica]]
-- [[ulmus-americana]]
-- [[acer-rubrum]]
-- [[quercus-alba]]
-- [[populus-nigra]]
-- [[fraxinus-pennsylvanica]]
-- [[liquidambar-styraciflua]]
-- [[liriodendron-tulipifera]]

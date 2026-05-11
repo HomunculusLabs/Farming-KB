@@ -1,5 +1,5 @@
 ---
-title: [[arbuscular-mycorrhizal-network-visualization-anastomosis]] Diversity
+title: Mycorrhizal Network Diversity
 created: 2026-04-28
 tags: mycology, ecology, symbiosis, mycorrhiza]
 date: 2026-04-28

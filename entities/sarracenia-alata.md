@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Sarracenia alata**, commonly known as the pale pitcher plant or yellow trumpet, is a carnivorous perennial herb in the family Sarraceniaceae. It is native to the southeastern United States, ranging from eastern Texas across the Gulf Coastal Plain to western Florida and southern Alabama.
+**Sarracenia alata**, commonly known as the pale pitcher plant or yellow trumpet, is a carnivorous perennial herb in the family Sarraceniaceae. It is native to the southeastern [[dmt-containing-plants-united-states-halpern]], ranging from eastern Texas across the Gulf Coastal Plain to western Florida and southern Alabama.
 
 The species is distinguished by its tall, slender pitchers with a pronounced white or pale-green coloration, particularly along the upper pitcher tube. It is one of the most morphologically variable species in the genus, with populations exhibiting significant differences in pitcher size, color, and hood shape across its range.
 
@@ -37,7 +37,7 @@ The flower is borne on a separate scape rising above the pitchers, 45–70 cm ta
 
 The phyllodia (flat, non-carnivorous leaves) are produced in autumn and persist through winter. These are sword-shaped, 15–30 cm long, and contribute to photosynthesis during dormancy. The rhizome is thick, horizontal, and branched, producing new growth points annually.
 
-Root development is minimal relative to non-carnivorous perennials, as the species relies on its pitchers for supplemental nutrient acquisition rather than extensive soil foraging.
+Root development is minimal relative to non-carnivorous perennials, as the species relies on its pitchers for supplemental [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] rather than extensive soil foraging.
 
 ## Distribution and Habitat
 
@@ -77,9 +77,9 @@ Fire plays a critical ecological role in maintaining open bog conditions. Withou
 
 ## Cultivation
 
-*Sarracenia alata* is widely cultivated by carnivorous plant enthusiasts and is considered one of the easier Sarracenia species to grow. It requires full sun, mineral-free water (rainwater or distilled), and a peat-based growing medium.
+*Sarracenia alata* is widely cultivated by carnivorous plant enthusiasts and is considered one of the easier Sarracenia species to grow. It requires full sun, mineral-free water (rainwater or distilled), and a peat-based [[cervantes-green-algae-growing-medium]].
 
-Dormancy is essential for long-term health. Plants should be exposed to cool winter temperatures (2–10°C) for 3–4 months, during which phyllodia replace pitchers. Without a proper dormancy period, plants decline over successive growing seasons.
+Dormancy is essential for long-term health. Plants should be exposed to cool winter temperatures (2–10°C) for 3–4 months, during which phyllodia replace pitchers. Without a proper dormancy period, plants decline over successive [[jeavons-climate-adaptation-growing-seasons]].
 
 The species is propagated by seed, rhizome division, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. Stratification at 4°C for 4–6 weeks improves germination rates. Seed-grown plants typically produce mature traps within 3–4 years under optimal conditions.
 
@@ -88,27 +88,3 @@ The species is propagated by seed, rhizome division, and [[comparison-seed-savin
 Natural color forms range from all-green plants lacking anthocyanins (anthocyanin-free or "af" clones) to heavily veined forms with deep red-purple venation. A particularly sought-after clone from Harrison County, Mississippi, produces nearly pure white pitchers.
 
 *Sarracenia alata* hybridizes readily with other Sarracenia species in zones of sympatry. Notable natural hybrids include *S. × catesbaei* (with *S. flava*), *S. × moorei* (with *S. leucophylla*), and *S. × wrigleyana* (with *S. psittacina*).
-
-Artificial hybrids involving *S. alata* are numerous in horticulture. The species contributes height, vigor, and cold tolerance to hybrid progeny, making it a valuable parent in breeding programs.
-
-Several registered cultivars derived from *S. alata* crosses are commercially available. These include both natural selection clones and complex multi-species hybrids bred for horticultural merit.
-
-## Conservation Status
-
-*Sarracenia alata* is listed as **Vulnerable** on the IUCN Red List. Habitat destruction through urban development, agriculture, and forestry has eliminated an estimated 90% of historic Gulf Coastal Plain pitcher-plant bogs.
-
-Wetland drainage, groundwater depletion, and fire suppression are the primary ongoing threats. Illegal collection for the horticultural trade has also impacted some populations, though cultivated material is now widely available from ethical nurseries.
-
-Protected populations exist within several federal and state-managed lands, including parts of the De Soto National Forest in Mississippi and the Big Thicket National Preserve in Texas.
-
-Conservation efforts focus on prescribed burning, habitat restoration, and ex situ propagation programs. The Atlanta Botanical Garden and other institutions maintain conservation collections of *S. alata* from genetically distinct populations across its range.
-
-## See Also
-
-- [[sarracenia-flava]]
-- [[drosera-rotundifolia]]
-- [[pinguicula-vulgaris]]
-- darlingtonia californica
-- [[dionaea-muscipula]]
-- [[aldrovanda-vesiculosa]]
-- [[nepenthes-rajah]]

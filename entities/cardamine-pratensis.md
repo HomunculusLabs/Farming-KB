@@ -19,7 +19,7 @@ sources:
 
 Cardamine pratensis, known as cuckooflower or lady's smock, is a herbaceous perennial in the family Brassicaceae native to Europe and western Asia.
 
-The species is one of the earliest spring-flowering meadow plants, producing delicate clusters of pale lilac to white blossoms that coincide with the arrival of the cuckoo in European folklore.
+The species is one of the earliest spring-flowering meadow plants, producing delicate clusters of pale lilac to white blossoms that coincide with the arrival of the cuckoo [[mandrake-mandragora-officinarum-in-european-folklore]].
 
 Cuckooflower is ecologically significant as a larval food plant for the orange-tip butterfly, Anthocharis cardamines, making it a keystone species in temperate meadow and wetland habitats.
 
@@ -49,11 +49,11 @@ Roots are fibrous without a pronounced taproot, and the species frequently produ
 
 Cardamine pratensis is native to most of Europe, extending from the British Isles and Iberian Peninsula eastward through central Europe to western Siberia and the Caucasus.
 
-The species is also found in North Africa and has been introduced to eastern North America, where it occurs as a scattered naturalized plant in the northeastern United States and parts of Canada.
+The species is also found in North Africa and has been introduced to [[polypore-fungi-eastern-north-america]], where it occurs as a scattered naturalized plant in the northeastern [[dmt-containing-plants-united-states-halpern]] and parts of Canada.
 
 In its native range, cuckooflower occupies damp meadows, marsh edges, stream banks, damp woodlands, and moist pastures.
 
-It thrives in nutrient-rich, slightly acidic to neutral soils with consistent moisture, often dominating wet grassland communities in early spring.
+It thrives in nutrient-rich, slightly acidic to neutral soils with consistent moisture, often dominating wet grassland communities in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 The species is characteristic of the MG8 *Cynosurus cristatus–Caltha palustris* mesotrophic grassland community in the British National Vegetation Classification.
 
@@ -83,39 +83,8 @@ Cardamine pratensis is the primary larval food plant for the orange-tip butterfl
 
 Female orange-tip butterflies select the largest flower buds for oviposition, and the developing larvae feed on flowers and developing seed pods.
 
-The species is also a nectar source for early-season pollinators including bumblebees, solitary bees, hoverflies, and bee flies.
+The species is also a nectar source for early-season pollinators including bumblebees, [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and bee flies.
 
 In wet meadow ecosystems, cuckooflower contributes to plant diversity by coexisting with species such as [[caltha-palustris]], [[filipendula-ulmaria]], and [[lysimachia-vulgaris]].
 
-Vegetative spread through rhizomes allows the species to persist in competitive meadow communities even when seed production is reduced by herbivory.
-
-The fibrous root system helps stabilize stream banks and damp meadow soils against erosion during periods of high water flow.
-
-## Conservation Status
-
-Cardamine pratensis is listed as Least Concern on the IUCN Red List, reflecting its wide distribution and stable populations across much of its native range.
-
-However, local declines have been documented in intensively farmed agricultural landscapes where wet meadows have been drained or converted to arable production.
-
-In the United Kingdom, the species has declined significantly since the 1940s due to agricultural intensification, with losses estimated at over 30% of pre-war populations.
-
-Conservation efforts focus on maintaining and restoring damp meadow habitats through sustainable grazing regimes and reduced fertilizer application.
-
-Cuckooflower is included in several national plant atlases as a indicator species for species-rich damp grassland and riparian habitats.
-
-Its presence is often used as a benchmark for evaluating the ecological quality of lowland wet grassland sites under EU Habitat Directive assessments.
-
-The species also serves as a bioindicator of water quality, as it declines in meadows affected by agricultural runoff containing elevated nitrogen and phosphorus levels.
-
-## See Also
-
-- [[nasturtium-officinale]]
-- [[caltha-palustris]]
-- [[lysimachia-vulgaris]]
-- [[filipendula-ulmaria]]
-- [[iris-pseudacorus]]
-- [[carex-stricta]]
-- [[arabidopsis-thaliana]]
-- [[brassica-oleracea]]
-- [[capsella-bursa-pastoris]]
-- [[barbarea-vulgaris]]
+Vegetative spread through rhizomes allows the species to persist in competitive meadow communities even when [[cannabis-controlled-pollination-seed-production]] is reduced by herbivory.

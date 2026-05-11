@@ -27,7 +27,7 @@ sources:
 
 White Runtz is a highly sought-after indica-dominant hybrid cannabis strain created
 by crossing the legendary Gelato (formerly Gelato #33) with Zkittlez, two of the
-most celebrated dessert-strain lines in modern cannabis breeding. Developed by the
+most celebrated dessert-strain lines in modern [[cannabis-breeding-basics]]. Developed by the
  Cookies Fam breeding collective in Los Angeles, White Runtz gained widespread fame
 for its striking visual appearance—dense, frosty buds blanketed in white
 trichomes—and its intensely sweet, candy-like flavor profile. The strain took
@@ -56,7 +56,7 @@ that gives mature buds a nearly white, snow-dusted appearance.
   frosted due to massive [[cannabis-glandular-trichome-types-resin-production-clarke]] production
 - **Pistils:** Abundant, thin, orange to amber-colored stigmas winding
   through the calyxes
-- **Resin production:** Extremely high; sticky to the touch, leaving
+- **[[cannabis-resin-production-and-quality-traits-clarke]]:** Extremely high; sticky to the touch, leaving
   significant residue on fingers and tools
 
 ## Aroma and Flavor Profile
@@ -82,60 +82,8 @@ that gives mature buds a nearly white, snow-dusted appearance.
 - **Body effects:** Progressive physical relaxation spreading from head to
   limbs; heavy body stone develops in the second hour; couch-lock potential
   at higher doses
-- **Medical applications:** Chronic pain, stress and anxiety relief, insomnia,
-  appetite stimulation, PTSD symptom management, muscle tension
+- **[[oner-sativa-medical-applications]]:** Chronic pain, stress [[nervine-herbs-and-anxiety-relief]], insomnia,
+  [[cannabis-for-cachexia-and-appetite-stimulation]], PTSD [[cannabis-cancer-symptom-management]], muscle tension
 - **Side effects:** Dry mouth and dry eyes (common); dizziness, paranoia,
   or heightened anxiety at high doses (especially in novice consumers);
   ⚠️ strong sedation may impair motor skills
-
-## Terpene Profile
-
-| Terpene | Approximate Range | Primary Effect |
-|---------|-------------------|----------------|
-| β-Caryophyllene | 0.8–1.5% | Anti-inflammatory, stress relief |
-| Limonene | 0.6–1.2% | Mood elevation, focus |
-| Linalool | 0.5–1.0% | Relaxation, sedation |
-| Myrcene | 0.4–0.8% | Sedation, muscle relaxation |
-| Humulene | 0.2–0.5% | Appetite suppression, anti-inflammatory |
-
-## Growing Characteristics
-
-- **Flowering time:** 8–9 weeks indoors; early to mid-October outdoors
-- **Yield:** 350–450 g/m² indoors; 400–550 g/plant outdoors
-- **Height:** 80–130 cm indoors; up to 180 cm outdoors
-- **Difficulty:** Moderate to advanced; requires attention to humidity and
-  [[green-cannabis-grow-bible-nutrient-management-ppm]]
-- **Climate:** Prefers warm, Mediterranean-like climate; 20–28°C daytime
-- **Resistance:** Moderate resistance to mold and mildew; susceptible to
-  spider mites and powdery mildew in high humidity
-- **Nutrient needs:** Heavy feeder during flowering; responds well to
-  phosphorus and potassium supplementation; watch for [[query-how-to-fix-nitrogen-toxicity-in-cannabis]]
-  in vegetative stage
-- **[[cannabis-training-techniques-comparison]]:** Low-stress training (LST), SCROG, and topping
-  recommended to maximize light penetration and yield
-- **Resin production:** Peak [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]] in weeks 7–9; harvest
-  when 70–80% of trichomes are milky white
-- **Clone performance:** Clones widely available from licensed nurseries;
-  retains stable phenotype across generations
-
-## Genetic Relatives and Crosses
-
-- **Gelato #33 (parent):** Contributes indica-dominant structure, creamy
-  cookie flavor, and high resin production; descended from Sunset Sherbet
-  × Thin Mint GSC
-- **Zkittlez (parent):** Contributes tropical candy sweetness, colorful
-  purple hues, and balanced hybrid effects; descended from Grape Ape ×
-  Grapefruit
-- **Notable crosses:** Runtz Muffin (Runtz × Orange Punch), Rainbow Runtz
-  (Runtz × Rainbow Sherbet), Pink Runtz (selected phenotype), Permanent
-  Marker (Biscotti × Sherb Bx × Gelo)
-
-## Cultural Significance
-
-- White Runtz became a cultural phenomenon in cannabis culture, frequently
-  referenced in hip-hop music, social media, and cannabis influencer content
-- Part of the broader "Runtz" brand that spawned dozens of derivative strains
-  and phenotypes, creating one of the most successful cannabis lineages
-  of the 2020s
-- The strain's premium pricing (often $60–80+ per eighth in legal markets)
-  reflects its reputation, limited availability, and high demand

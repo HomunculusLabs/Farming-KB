@@ -11,19 +11,19 @@ sources: []
 
 ## Overview
 
-The legal cannabis industry represents [[chicken-of-the-woods]] the fastest-growing economic sect [[psilocybin-in-the-counter-culture]] the United States, with annual revenues exceeding $30 billion nationally as of 2026. However [[small-scale-seed-starting-and-nursery-management]] nd operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
+The legal cannabis industry represents one of the fastest-growing economic sectors in the [[dmt-containing-plants-united-states-halpern]], with annual revenues exceeding $30 billion nationally as of 2026. However, starting and operating a cannabis business involves unique challenges including federal prohibition, complex state regulations, limited access to banking, and intense competition. This guide covers the fundamentals of entering the legal cannabis market.
 
 ## Business Models
 
 ### Cultivation
 
-G [[cannabis-for-depression]] bis for wholesale distribution to processors, manufacturers, and retailers.
+[[query-how-do-i-use-mycorrhizal-inoculants-when-growing-cannabis]] for wholesale distribution to processors, manufacturers, and retailers.
 
 **Types:**
-- Indoor cultivation: Highest quality, highest costs, controlled environment
-- Greenhouse cultivation: Bala [[seed-quality-and-selection-solomon]] ity and cost, uses natural light supplemented with artificial
+- [[cannabis-sativa-indoor-cultivation-techniques]]: Highest quality, highest costs, controlled environment
+- Greenhouse cultivation: Balance of quality and cost, uses natural light supplemented with artificial
 - Outdoor cultivation: Lowest cost per pound, seasonal, weather-dependent
-- Mixed-light/greenhouse: Increasingly popular for balancing q [[mushroom-market-and-economics]] onomics
+- Mixed-light/greenhouse: Increasingly popular for balancing quality and economics
 
 **Key Considerations:**
 - High upfront capital requirements for equipment and facility buildout
@@ -57,7 +57,7 @@ Creating value-added cannabis products including concentrates, edibles, topicals
 
 **Types:**
 - Extraction: Producing oils, waxes, shatter, live resin, and other concentrates
-- Edibles: Infused foods and beverages
+- Edibles: Infused [[lacto-fermentation-recipes]]
 - Topicals: Balms, salves, lotions, transdermal patches
 - Tinctures: Sublingual liquid products
 - Pre-rolls: Pre-rolled joints
@@ -134,7 +134,7 @@ Most states require seed-to-sale tracking systems that monitor cannabis from cul
 ### Packaging and Labeling
 
 - Child-resistant packaging (ASTM certified)
-- THC content, serving size, government warnings
+- [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], serving size, government warnings
 - License number, batch number, [[cannabis-testing-and-quality]] results
 - Strain name and type (indica/sativa/hybrid)
 

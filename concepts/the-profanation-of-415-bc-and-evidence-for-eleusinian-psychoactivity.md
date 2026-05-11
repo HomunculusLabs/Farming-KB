@@ -66,15 +66,15 @@ This self-enforcing secrecy is characteristic of entheogenic experiences worldwi
 
 ### The Duration of the Cult
 
-The Eleusinian Mysteries were celebrated continuously for nearly 2,000 years (approximately 1500 BC to 392 AD, when the Christian emperor Theodosius ordered the sanctuary destroyed). No cult maintained by state enforcement alone could survive this long. The experience itself must have been sufficiently powerful to sustain devotion across generations.
+[[plutarch-and-cicero-on-the-eleusinian-mysteries]] were celebrated continuously for nearly 2,000 years (approximately 1500 BC to 392 AD, when the Christian emperor Theodosius ordered the sanctuary destroyed). No cult maintained by state enforcement alone could survive this long. The experience itself must have been sufficiently powerful to sustain devotion across generations.
 
 ### The Cross-Cultural Pattern
 
 The Wasson-Hofmann-Ruck argument draws on the comparative pattern:
 - Every known entheogenic cult features self-enforcing secrecy
 - The [[mckenna-eleusinian-mystery-and-psychedelic-sacrament]] has all the hallmarks of an entheogenic cult (fasting, taboo foods, darkness, single experience, lasting bond of fellowship)
-- The kykeon was prepared from barley grown on the Rarian plain (ergot habitat) mixed with water and mint
-- Water-soluble hallucinogenic ergot alkaloids could be extracted with ancient technology
+- The kykeon was prepared from barley grown on the [[rarian-plain-sacred-grain-eleusis]] (ergot habitat) mixed with water and mint
+- Water-soluble hallucinogenic [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] could be extracted with ancient technology
 - Hofmann proved ergonovine is hallucinogenic at accessible doses
 
 ## Skeptical Counterarguments
@@ -88,26 +88,3 @@ Some scholars argue the kykeon was merely a symbolic ritual food -- barley water
 - The 415 BC profaners specifically sought the kykeon, not just the ritual
 
 ### Ergot Availability
-
-Skeptics question whether ergot was present on Greek barley in the Bronze Age. However:
-- Ergot infects all cereal grasses including barley
-- The Rarian plain was an agricultural area near marshy ground (ergot-friendly habitat)
-- The climate of Attica is suitable for Claviceps purpurea
-- We cannot know ancient ergot chemistry but the possibility is reasonable
-
-## The Weight of Evidence
-
-While direct proof is impossible (the kykeon recipe was a closely guarded secret), the cumulative evidence strongly supports the entheogenic hypothesis:
-1. The profanation of 415 BC proves the kykeon was sought for its effects
-2. The self-enforcing secrecy matches entheogenic patterns worldwide
-3. The ritual preparation (fasting, darkness, tabu foods) matches entheogenic best practices
-4. The chemistry (water-soluble ergot alkaloids) is plausible with ancient technology
-5. Hofmann's experiment proved the key compound (ergonovine) is hallucinogenic
-6. The 2,000-year duration implies a genuinely transformative experience
-
-## Related Topics
-
-- [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] -- the chemical evidence
-- [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] -- the ritual context
-- [[the-road-to-eleusis-wasson-hofmann-ruck]]
-- [[hofmann-ergonovine-self-experiment-detail]]

@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka Mahayana and Hinayana Natural Farming"
+title: Fukuoka Mahayana And Hinayana Natural Farming
 created: 2026-04-28
 tags:
   - natural-farming
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 ---
@@ -17,7 +18,7 @@ type: concept
 # Fukuoka Mahayana and Hinayana Natural Farming
 
 Masanobu Fukuoka's [[fukuoka-natural-way-of-farming-theory-of-natural-farming]] farming classifies all agricultural
-approaches into three philosophical categories: Mahayana natural farming,
+approaches into three philosophical categories: [[mahayana-natural-farming]],
 Hinayana natural farming, and [[fukuoka-illusions-scientific-farming-centrifugal-centripetal-model]]. These categories are
 not merely practical distinctions but represent fundamentally different
 relationships between humans and nature, rooted in Buddhist philosophical
@@ -33,8 +34,8 @@ Fukuoka arranges the three approaches on a philosophical spectrum:
 - **Absolute World**: Mahayana natural farming (philosopher's way of
   farming) equals pure natural farming
 - **Relative World**: Hinayana natural farming (idealistic farming)
-  encompasses natural farming and organic farming
-- **Relative World**: Scientific farming (dialectical materialism)
+  encompasses [[korean-natural-farming]] organic farming
+- **Relative World**: [[fukuoka-illusions-of-scientific-farming]] (dialectical materialism)
   encompasses [[fukuoka-critique-scientific-agriculture-civilization]]
 
 ## Mahayana Natural Farming
@@ -59,9 +60,9 @@ with nature. Those who live such a life are hermits and wise men.
 ### Philosophical Status
 
 Mahayana natural farming and scientific farming exist on entirely
-different planes. While scientific agriculture draws from natural forces
+different planes. While [[critique-of-scientific-agriculture]] draws from natural forces
 and adds human knowledge to produce results that eclipse nature,
-proponents believe it superior to natural farming which relies entirely
+proponents believe it superior [[fukuoka-organic-to-natural-farming-transition]] which relies entirely
 on nature's forces and resources. However, scientific farming is the
 sum of knowledge and forces extracted from nature by the human intellect.
 This amounts to finite human knowledge. No matter how totalled, human
@@ -86,42 +87,3 @@ lover who yearns after his loved one and asks for her hand, but has not
 realised full union. In contrast, scientific farming's relationship is
 like a lover unable to decide whose hand to ask in marriage, who
 imprudently courts multiple partners heedless of social proprieties.
-
-### Comparison with Scientific Farming
-
-Hinayana natural farming belongs in the same relative world as
-scientific farming, so the two may be directly compared. Both are
-derived from nature verified with [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]]. But Hinayana
-farming attempts to cast off human knowledge and action and devote
-itself to the pure forces of nature, whereas scientific farming adds
-human knowledge and action to establish what it considers superior.
-
-The direction Hinayana natural farming points leads beyond the world of
-science toward a rejection of scientific thinking. Borrowing from
-swordfighting analogy: Hinayana is the one-sword school directed toward
-the centre, scientific farming is the two-sword school directed outward.
-Mahayana is the unmoving no-sword school, beyond comparison.
-
-### The Philosophical Conviction
-
-If man makes a genuine effort to approach nature, then even should he
-abandon all deeds and actions, nature will take each of these over and
-perform them for him. This is the foundational conviction of
-[[fukuoka-natural-farming-philosophy]]
-- [[four-principles-of-natural-farming]]
-- [[fukuoka-natural-vs-scientific-farming]]
-- [[fukuoka-mu-farming-epistemology]]
-- [[sepp-holzer-entity]] -- Austrian farmer who independently developed similar [[four-principles-of-natural-farming]] agriculture
-- [[natural-farming]] -- natural farming methods and practice
-- [[permaculture-design]] -- permaculture design principles and methods
-- [[clay-seed-balls-tsuchi-dango]] -- Fukuoka's seed ball technique for natural planting
-- [[backyard-food-forest-design]] -- practical food forest design informed by natural [[natural-farming-principles-fukuoka]]
-- [[agroecology]]
-[[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-
-## See Also
-
-- [[fukuoka-soil-microbiome-and-natural-balance]]
-
-- [[fukuoka-sowing-natural-culture-community-and-green-earth-vision]]
-- [[fukuoka-mahayana-vs-hinayana-natural-farming]]

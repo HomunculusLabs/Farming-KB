@@ -1,7 +1,7 @@
 ---
 title: Palmer mushroom-anatomy And Structure
 created: 2026-04-28
-tags: [mushroom-anatomy, mycology, fungal-structure, historical-myology, palmer]
+tags: [mushroom-anatomy, [[mycology]], fungal-structure, historical-myology, palmer]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -88,31 +88,3 @@ shading. The cap colors are highly variable: red, orange, green,
 yellow, and white with intermediate shades.
 
 ## Spawn and Subterranean Growth
-
-Palmer described the hidden [[mycelium]] or "spawn" as a white, vine-like
-substance running through the soil, dividing and sub-dividing like
-veins on the back of the hand. Just as a grape-vine cutting will
-grow and bear fruit, a portion of spawn transplanted will continue
-to ramify and produce mushrooms. The whole earth beneath one's feet
-is alive with this vegetation, with distinct varieties as recognizable
-as hop-vines from woodbine.
-
-## Growth Rate
-
-Contrary to popular belief, Palmer observed the common mushroom takes
-about ten days to mature from a pin-head button to a disk three or
-four inches in diameter. It forms for days below the soil; a heavy
-dew or shower straightens the stem and expands the cap, causing it
-to break the earth overnight.
-
-## Brittleness as a Diagnostic Feature
-
-Palmer drew particular attention to the brittleness of certain
-families. The milk-mushrooms and Russulae are very brittle: the gills
-do not mat down like those of the horse-mushroom or elm-tree mushroom,
-but break into small pieces while the whole fungus snaps suddenly on
-being bent. This contrasts with the pliable, flexible gills of the
-common mushroom, whose flesh can be bent without breaking.
-
-## See Also
-- [[palmer-mushroom-cooking-culinary-uses]]

@@ -8,7 +8,7 @@ sources:
   - cotter-organic-mushroom-farming-mycoremediation
 ---
 # Substrate Preparation for Mushroom Cultivation
-The growing substrate is the material on which mushroom mycelium feeds and
+The [[cervantes-rockwool-growing-substrate]] is the material on which [[antimicrobial-compounds-mushroom-mycelium]] feeds and
 eventually produces fruiting bodies. Proper preparation through
 pasteurization or sterilization is essential for successful cultivation.
 The right substrate preparation can mean the difference between abundant
@@ -38,7 +38,7 @@ preparation method for any given mushroom species.
 - Avoid coniferous wood for most species; exceptions exist for some
   specialist fungi that tolerate conifer resins
 ### Agricultural Waste Substrates
-- Wheat straw: The most common substrate for oyster mushroom cultivation
+- Wheat straw: The most common substrate for [[cotter-oyster-mushroom-cultivation]]
   worldwide; widely available and relatively inexpensive
 - Cotton hulls: Excellent nitrogen supplement; used in compost cultivation
 - Cornstalks, bean hulls, beet pulp, sugarcane bagasse: Regional
@@ -58,7 +58,7 @@ Heats substrate to 140-170°F (60-76°C) for a sustained period, typically
 while preserving beneficial thermophilic bacteria that help protect against
 subsequent contamination. Pasteurization is the standard treatment for:
 - Straw substrates for oyster mushroom cultivation
-- Compost substrates for Agaricus species
+- [[mushroom-compost-substrates]] for Agaricus species
 - Outdoor cultivation substrates where some microbial diversity is beneficial
 Methods include hot water baths, steam pasteurization chambers, and
 immersion in heated water. Hot water immersion is the simplest method for
@@ -66,10 +66,10 @@ small-scale growers: straw is submerged in 160-170°F water for 30-60
 minutes, then drained and cooled before inoculation.
 ### Sterilization
 Heats substrate to 250°F (121°C) at 15 PSI for 60-120 minutes in a
-pressure cooker or autoclave. This kills all [[savory-living-organisms-as-tools]], creating a
+[[double-layer-tinfoil-jar-covering-pressure-cooker-method]] or autoclave. This kills all [[savory-living-organisms-as-tools]], creating a
 completely sterile environment. Sterilization is required for:
 - [[oyster-mushroom-supplemented-sawdust-blocks]] blocks for shiitake and specialty mushrooms
-- Grain spawn production
+- [[cotter-grain-spawn-production]]
 - Any substrate containing nitrogen supplements, which would otherwise
   be colonized rapidly by contaminant organisms
 Sterilization demands more equipment and energy than pasteurization but is
@@ -88,15 +88,3 @@ Proper moisture content is critical for successful substrate preparation:
 Several issues frequently arise during substrate preparation:
 - **Sour smell**: Indicates anaerobic conditions during pasteurization;
   improve drainage and aeration
-- **Green mold (Trichoderma)**: Usually caused by incomplete pasteurization
-  or contamination during cooling and inoculation
-- **Slow colonization**: May indicate over-pasteurization (killing
-  beneficial microbes), incorrect moisture content, or old spawn
-- **Excessive condensation in bags**: Reduce moisture content or improve
-  gas exchange through filter patches
-## See Also
-- [[substrate-preparation]]
-- [[substrate-preparation-and-pasteurization]]
-- [[substrate-formulation]]
-- [[contamination-identification-prevention]]
-- [[pasteurization-in-mushroom-cultivation]]

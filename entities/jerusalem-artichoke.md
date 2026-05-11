@@ -2,7 +2,7 @@
 title: comparison-jerusalem-artichoke-vs-potato
 created: 2026-04-28
 type: species
-scientific_name: Helianthus tuberosus
+scientific_name: [[helianthus-tuberosus]]
 aliases:
   - sunroot
   - sunchoke
@@ -49,7 +49,7 @@ crop.
 
 ## Identification
 
-Plants are herbaceous perennials usually 1.5-3 m tall. Lower leaves are opposite, upper leaves become
+Plants are [[permaculture-plants-herbaceous-perennials]] usually 1.5-3 m tall. Lower leaves are opposite, upper leaves become
 alternate, and both are rough and hairy to the touch. The leaves are broadly ovate on the lower stem and
 narrower higher up. Flower heads resemble small sunflowers, usually 5-10 cm across. Each head has yellow
 ray florets and many central disc florets. The flowers can be lightly fragrant, sometimes described as
@@ -83,52 +83,8 @@ The edible organ is the tuber, eaten raw, roasted, boiled, steamed, fried, pickl
 Unlike potato, the storage carbohydrate is mainly inulin rather than starch. Inulin is a fructan dietary
 fiber that can feed gut microbes. Storage converts some inulin into fructose, making older tubers taste
 sweeter. The same fructans can cause gas or digestive discomfort in some people. Gradual introduction,
-long cooking, fermentation, or cold storage may reduce that problem. The tubers contain modest protein,
-minerals, and little fat. They have been used as a vegetable, livestock feed, famine food, and industrial
+long cooking, fermentation, or [[root-cellaring-guide]] may reduce that problem. The tubers contain modest protein,
+minerals, and little fat. They have been used as a vegetable, [[livestock-feed-formulation]], famine food, and industrial
 source of inulin.
 
 ## Ecological Roles
-
-The tall stems provide summer structure, edge habitat, and biomass. Flowers attract bees and other
-pollinators late in the season. Dense growth suppresses weeds and can stabilize disturbed soil. Tubers
-are attractive to pigs, poultry, rodents, and wild mammals. In animal systems the crop can function as a
-self-renewing forage bank. In food forests it fits sunny edges, alleys, or sacrificial digging zones.
-Because it can dominate neighbors, it is best paired with robust perennials or kept outside delicate
-beds.
-
-## Historical Notes
-
-Indigenous peoples of North America cultivated and moved the plant before European contact. French
-explorer Samuel de Champlain encountered cultivated roots in what is now Massachusetts in the early
-seventeenth century. Tubers were carried to Europe, where the plant spread quickly in gardens and fields.
-The name topinambur came from a French association with Tupinamba people, though the plant itself is
-North American. Commercial interest revived in the twentieth and twenty-first centuries for specialty
-vegetables, fructan fiber, bioenergy, and animal feed.
-
-## Permaculture Relevance
-
-Jerusalem artichoke is valued for perennial yield with minimal annual tillage. It can occupy marginal
-corners that are awkward for annual cropping. It produces tall chop-and-drop biomass as well as tubers.
-It can be integrated with pigs or chickens for seasonal self-harvest. It is useful in windbreaks, privacy
-screens, and temporary succession patches. Designers must account for its persistence before placing it
-near paths, nursery beds, or small annual crops. The species is best treated as a strong, semi-wild ally
-rather than a tidy row crop.
-
-## Safety and Management
-
-No special toxicity is associated with ordinary food use of the tubers. Digestive intolerance from inulin
-is the main practical caution. People new to the crop should start with small servings. In regions where
-it naturalizes aggressively, avoid dumping tubers near streams or unmanaged edges. Use clean tubers for
-planting to reduce spread of rots and viruses. Rotate harvest zones or renew stock if tuber quality
-declines.
-
-## Related
-
-- [[comparison-jerusalem-artichoke-vs-potato]] Concepts
-
-- [[food-forest-design-guide]]
-- [[permaculture-two-species-compendium]]
-- [[perennial-vegetables]]
-- root crop storage
-- inulin
-- [[aquatic-polyculture-design-mollison]]

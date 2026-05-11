@@ -1,5 +1,5 @@
 ---
-title: "NYC Diesel"
+title: Nyc Diesel
 created: 2026-05-06
 type: strain
 tags:
@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Soma (2007). "Soma: Intuitive Cultivation." Red Eye Press.
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly MA, Slade D (2005). "Chemical Constituents of Marijuana." In: Grotenhermen F, Russo E (eds). Cannabis and Cannabinoids. Haworth Press.
+  - ElSohly MA, Slade D (2005). "[[guzman-magic-mushrooms-chemical-constituents]] of Marijuana." In: Grotenhermen F, Russo E (eds). Cannabis and Cannabinoids. Haworth Press.
   - Raber JC, Elzinga S, Kaplan C (2015). "Understanding d-Limonene." Journal of Cannabis Therapeutics 15(4): 290–299.
   - Cascini F, Aiello C, Di Tanna G (2012). "Effects of Cannabis on Driving." CNS Drugs 26(1): 13–27.
 ---
@@ -30,19 +30,19 @@ sources:
 
 **NYC Diesel** is a sativa-dominant [[blesching-cannabis-strain-selection-receptor-targeting]] created by **Soma** (Soma Sacred Seeds) in the early 2000s in New York City.
 
-A cross between a **Sour Diesel** clone and an **Afghan** indica, it delivers an uplifting, cerebral high paired with a pungent diesel-citrus aroma that has become its signature.
+A cross between a **[[cannabis-sour-diesel]]** clone and an **Afghan** indica, it delivers an uplifting, cerebral high paired with a pungent diesel-citrus aroma that has become its signature.
 
 The strain won the **2004 High Times Cannabis Cup** in the Sativa category, establishing its reputation in the global cannabis community.
 
-NYC Diesel is valued both recreationally — for daytime energy and creative stimulation — and medicinally, for mood elevation, fatigue management, and mild pain relief.
+NYC Diesel is valued both recreationally — for daytime energy and creative stimulation — and medicinally, for mood elevation, fatigue management, and mild [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]].
 
 ## Lineage
 
-NYC Diesel is the result of crossing a select **Sour Diesel** female (a Chemdawg × Massachusetts Super Skunk lineage) with a male **Afghan** indica from Soma's garden.
+NYC Diesel is the result of crossing a select **Sour Diesel** female (a Chemdawg × Massachusetts [[super-skunk]] lineage) with a male **Afghan** indica from Soma's garden.
 
 The Sour Diesel mother contributes the strain's characteristic diesel fuel aroma, energetic sativa effects, and tall, stretchy growth habit.
 
-The Afghan father adds structural density to the buds, shortens flowering time, and introduces earthy undertones that complement the sharp diesel notes.
+The Afghan father adds structural density to the buds, shortens [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and introduces earthy undertones that complement the sharp diesel notes.
 
 The genetic ratio is approximately **60% sativa / 40% indica**, though phenotypic variation can skew slightly in either direction depending on the specific cut.
 
@@ -87,37 +87,3 @@ NYC Diesel is considered **moderately difficult** to cultivate, best suited for 
 Indoor flowering time is **9–11 weeks**, with outdoor harvest in mid-October (Northern Hemisphere).
 
 Plants exhibit strong sativa stretch during the first weeks of flowering, often doubling in height. Topping or LST (low-stress training) is recommended to manage canopy height.
-
-Yields are moderate: 350–450 g/m² indoors, 400–500 g/plant outdoors. The buds are not exceptionally dense, contributing to moderate rather than heavy yields.
-
-The strain responds well to SCROG ([[cannabis-screen-of-green-scrog-guide]]) training and performs best in warm, Mediterranean-like climates with [[pf-tek-low-humidity-symptoms-and-remediation]] during late flowering.
-
-Nutrient requirements are moderate; the Afghan lineage provides some hardiness, but overfeeding (especially nitrogen late in flower) can reduce terpene production and flavor quality.
-
-## Medical Applications
-
-NYC Diesel has an established reputation in medical cannabis circles, particularly for mood disorders and fatigue-related conditions.
-
-**Depression and anxiety:** The uplifting, euphoric onset makes it popular among patients with treatment-resistant depression. Limonene's anxiolytic properties may complement THC's mood-elevating effects, though THC-dominant strains can worsen anxiety in some individuals.
-
-**[[cannabis-chronic-fatigue-research]] syndrome:** The energizing cerebral effects provide functional daytime relief without the sedation that makes many cannabis strains impractical for daytime use.
-
-**[[cannabis-pain-management-protocols]]:** Mild to moderate analgesic effects, primarily through caryophyllene's CB2 agonism and general endocannabinoid system modulation. Not suitable for severe or acute pain.
-
-**ADHD:** Anecdotal reports suggest improved focus and task engagement, though clinical evidence is lacking. The strain's balanced cannabinoid-terpene profile may support the "[[cannabis-terpene-entourage-effect-profiles]]" hypothesis.
-
-**Appetite stimulation:** Moderate munchies effect, useful for patients experiencing appetite loss from chemotherapy or HIV/AIDS treatment.
-
-## Notable Phenotypes
-
-Several distinct phenotypes circulate in the cannabis community, varying in their expression of Sour Diesel vs. Afghan traits.
-
-The "Soma" cut is the original phenotype, characterized by the strongest diesel aroma and tallest growth habit. It remains the most sought-after among collectors.
-
-A shorter, denser-budding phenotype expresses more Afghan dominance, with reduced stretch during flowering and a slightly earthier flavor profile. This version is preferred by indoor growers working with limited vertical space.
-
-Crosses derived from NYC Diesel include **Sour NYC** (NYC Diesel × Sour Diesel backcross), which amplifies the diesel character, and **Carmel** (NYC Diesel × Herijuana), which adds body-focused effects.
-
-## See Also
-
-- [[sour-diesel]] · [[afghan-kush]] · [[jack-herer]] · [[amnesia-haze]] · [[cannabis-indoor-growing-basics]] · [[green-crack]]

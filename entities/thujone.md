@@ -14,7 +14,7 @@ sources:
   - "Höld, K.M. et al. (2000). \"Three major terpenoids in extracts of golden-guide-salvia-divinorum-and-diviner-sage.\" Journal of Ethnopharmacology, 73(1-2), 49-52."
   - "Leth, P.M. & Gregersen, M. (2005). \"Absinthe.\" Forensic Science International, 155(1), 1-8."
   - "Pelchat, M.L. et al. (2004). \"Thujone: Absinthe and the GABA receptor.\" Journal of Natural Products, 67(1), 54-57."
-  - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for cannabinoid receptors.\" Pharmacology Biochemistry and Behavior, 62(3), 473-478."
+  - "Meschler, J.P. & Howlett, A.C. (1999). \"Thujone exhibits low affinity for [[cannabinoid-receptors-cb1-and-cb2]].\" Pharmacology Biochemistry and Behavior, 62(3), 473-478."
 ---
 
 # Thujone
@@ -22,7 +22,7 @@ sources:
 ## Overview
 
 Thujone is a bicyclic monoterpene ketone found in several aromatic plants,
-most notably wormwood (*Artemisia absinthium*), the defining botanical of
+most notably wormwood (*[[artemisia-absinthium]]*), the defining botanical of
 absinthe. It exists as two diastereomers: alpha-thujone and beta-thujone.
 Historically blamed for absinthe's purported psychoactive toxicity ("absinthism"),
 modern research attributes thujone's primary pharmacological action to
@@ -50,13 +50,13 @@ Alpha-thujone is typically the dominant isomer in *Artemisia absinthium*
 
 - *Artemisia absinthium* (wormwood) — 0.2–1.5% volatile oil, thujone
   is the primary component
-- *Thuja occidentalis* (northern white cedar) — particularly in
+- *[[thuja-occidentalis]]* (northern white cedar) — particularly in
   the foliage and [[permaculture-designers-manual-essential-oil-plants]]
-- *Thuja plicata* (western red cedar)
+- *[[thuja-plicata]]* (western red cedar)
 - *Salvia officinalis* (common sage) — significant thujone content
   in the essential oil
-- *Tanacetum vulgare* (tansy)
-- *Cedrus atlantica* (Atlas cedar)
+- *[[tanacetum-vulgare]]* (tansy)
+- *[[cedrus-atlantica]]* (Atlas cedar)
 
 ## Pharmacology
 
@@ -88,47 +88,3 @@ Food established 0.11 mg/kg body weight/day for alpha-thujone.
 
 **Regulatory limits:**
 - EU: Maximum 35 mg/kg in food and beverages containing wormwood
-- FDA: Thujone-containing products classified as "unsafe for food"
-  in the [[dmt-containing-plants-united-states-halpern]] (with specific exemptions for absinthe at
-  <10 ppm thujone)
-- Absinthe sold in the EU: maximum 35 mg/kg thujone
-- Absinthe sold in the US: maximum 10 mg/kg thujone
-
-## Historical Significance
-
-Thujone became infamous in the late 19th and early 20th centuries as
-the alleged toxic agent in absinthe. The "absinthism" syndrome —
-hallucinations, convulsions, psychosis — was attributed to thujone
-and led to absinthe bans across Europe and the United States.
-
-Modern [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of surviving pre-ban absinthe samples has
-shown that authentic absinthe contained far less thujone than
-historically claimed (typically 5–30 mg/L, well below toxic levels).
-The "absinthism" syndrome is now attributed primarily to chronic
-alcoholism, adulterants (copper sulfate, antimony trichloride), and
-the high ethanol content (55–74% ABV) of absinthe.
-
-## Metabolism and Pharmacokinetics
-
-Thujone is rapidly absorbed after oral ingestion, with peak plasma
-concentrations reached within 10–30 minutes. It undergoes extensive
-hepatic metabolism via cytochrome P450 enzymes, primarily CYP2A6 and
-CYP3A4.
-
-Major metabolic pathways include hydroxylation at multiple positions
-and subsequent conjugation with glucuronic acid. The metabolites are
-excreted primarily in urine, with a plasma half-life of approximately
-50–120 minutes depending on dose and route of administration.
-
-Bioavailability is reduced by first-pass metabolism, though the
-lipophilic nature of thujone facilitates rapid blood-brain barrier
-penetration, which is central to its neuropharmacological effects.
-
-## See Also
-
-[[salvia-officinalis]]
-contains significant thujone alongside other neuroactive terpenes.
-Bicyclic monoterpenes like those found in [[artemisia-annua]] is a related species noted for its antimalarial
-artemisinin content.
-
-See also: [[peyote-and-psychoactive-cacti]]

@@ -88,12 +88,3 @@ losses in orchards when environmental conditions favor
 infection during bud break. Fungicidal sprays applied
 before bud break are the primary management strategy.
 In natural ecosystems, Taphrina species are widespread
-but rarely cause serious damage to their hosts, suggesting
-a long evolutionary history of coexistence.
-
-## Biodiversity and Undescribed Diversity
-
-The true diversity of Taphrinales is likely underestimated.
-Many plant species in temperate and subtropical regions
-have not been surveyed for Taphrina infections, and
-[[fungal-fruiting-body-formation-environmental-triggers]]

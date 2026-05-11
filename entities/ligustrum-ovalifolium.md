@@ -87,34 +87,3 @@ No significant pharmaceutical or commercial uses have been documented for L. ova
 In China, fruits of related Ligustrum species (particularly L. lucidum) are used in traditional medicine as a yin-tonic. L. ovalifolium has not been adopted into formal herbal practice despite its chemical similarity to medicinally used congeners.
 
 ## Ecology and Invasiveness
-
-L. ovalifolium is classified as invasive in numerous jurisdictions due to its capacity to escape cultivation and displace native vegetation. The species forms dense thickets that shade out native herbaceous plants and prevent tree regeneration in forest understories.
-
-The species is listed as a noxious weed in several US states and Australian states. Its sale and distribution are restricted or prohibited in some jurisdictions, though enforcement varies. The Invasive Plant Atlas of the United States documents established populations in at least 15 states.
-
-Bird dispersal is the primary mechanism of spread. Frugivorous birds including American robins, cedar waxwings, and European blackbirds consume the berries and deposit seeds in natural areas. Germination rates are high, and seedlings establish rapidly in disturbed sites.
-
-Seed bank persistence is moderate, with viable seeds remaining in the soil for 2–3 years. This persistence allows reinvasion of cleared sites even after mature plants have been removed, necessitating long-term monitoring of restoration areas.
-
-The berries contain saponins and other glycosides that are mildly toxic to mammals, including humans and dogs. Ingestion causes gastrointestinal distress including nausea, vomiting, and diarrhea. The toxicity is rarely life-threatening but can be serious in small children or pets consuming large quantities.
-
-All parts of the plant contain the glycoside ligustrin, which is concentrated in the berries. The leaves are also mildly toxic if consumed in quantity, though their bitterness generally deters ingestion. Veterinary poison control centers receive regular reports of canine privet berry ingestion.
-
-Control of established invasions requires persistent management over several years. Mechanical removal of mature plants is effective but must be followed by treatment of the root system, as the species resprouts vigorously from cut stumps. Herbicide application to cut stumps (glyphosate or triclopyr) provides the most reliable control.
-
-In ecological terms, L. ovalifolium thickets reduce native plant diversity and alter soil chemistry through leaf litter deposition. However, the species does provide cover and fruit resources for birds in heavily disturbed urban and suburban landscapes where native vegetation has been largely eliminated.
-
-Hybridization with native L. vulgare occurs in Europe, producing intermediate forms that complicate identification and management. These hybrids exhibit vigor intermediate between the parents and may possess expanded ecological tolerance relative to either parent species.
-
-## See Also
-
-- [[ligustrum-vulgare]]
-- [[fraxinus-pennsylvanica]]
-- [[fraxinus-ornus]]
-- [[olea-europaea]]
-- [[forsythia-suspensa]]
-- [[syringa-vulgaris]]
-- [[syringa-oblata]]
-- [[kalmia-latifolia]]
-- [[rhododendron-maximum]]
-- [[jasminum-officinale]]

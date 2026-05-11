@@ -1,5 +1,5 @@
 ---
-title: "McKenna mckenna history as eschatological shockwave Shockwave"
+title: Mckenna History As Eschatological Shockwave
 source: mckenna_t-tryptamines_consciousness.md
 type: concept
 tags: [mckenna, eschatology, time, acceleration, novelty, history, teleology, consciousness-evolution]
@@ -9,11 +9,11 @@ tags: [mckenna, eschatology, time, acceleration, novelty, history, teleology, co
 
 ## Overview
 
-In his 1983 Esalen lecture, Terence McKenna proposed a striking interpretation
-of human history: that it is "the shockwave of eschatology" — a ripple
+In his 1983 Esalen lecture, [[terence-mckenna]] proposed a striking interpretation
+of human history: that it is "the [[mckenna-history-shockwave-of-eschatology]]" — a ripple
 propagating backward through time from some culminating event at the end of
 time. This framework, which he developed more fully in later works including
-*The Invisible Landscape* and *Food of the Gods*, presents history not as
+*The [[tryptamine-hypercontinuum-and-invisible-landscape]]* and *Food of the Gods*, presents history not as
 random contingency but as a process with an inherent directional tendency
 drawing all human becoming toward a transcendental conclusion.
 
@@ -76,7 +76,7 @@ McKenna contrasted his eschatological view with the prevailing scientific
 cosmology, which describes a universe that has existed for billions of years
 and will continue for billions more. He characterized this as "a dualistic
 conception, an inductive projection that is very unsophisticated when applied
-to the nature of consciousness and language."
+to the nature of [[mckenna-catalyzing-consciousness-and-language]]."
 
 The scientific view treats time as a uniform, linear dimension — a container
 within which events occur. McKenna's view treats time as having a qualitative
@@ -87,55 +87,4 @@ experience and different densities of novelty.
 
 ## Consciousness and State Vector Collapse
 
-McKenna invoked the language of quantum mechanics to support his framework.
-"Consciousness is somehow able to collapse the state vector and thereby cause
-the stuff of being to undergo what Alfred North Whitehead called 'the
-formality of actually occurring.'" This formulation places consciousness at
-the center of ontological process — not as an epiphenomenon of material
-interactions but as a causal agent in its own right.
-
-The implication is that as consciousness evolves and expands, it plays an
-increasingly active role in determining the nature of reality. The
-eschatological culmination is not something that happens to consciousness but
-something that consciousness brings about through its own development.
-
-## The Centrality of the Perceiving Self
-
-McKenna challenged five centuries of Western decentralization — the Copernican
-revolution that displaced Earth from the center of the universe and the
-Darwinian revolution that displaced humanity from the center of nature. He
-argued that this movement has gone too far: "The most richly organized material
-in the universe is the human cerebral cortex, and the densest and richest
-experience in the universe is the experience you are having right now. Everything
-should be constellated outward from the perceiving self."
-
-This is not anthropocentric narcissism but a methodological principle: the
-perceiving self is the [[decentralizing-bender-perceiving-self-primary-datum-mckenna]], the one thing that cannot be doubted.
-Any cosmology that fails to account for the extraordinary richness of
-conscious experience is, by that very fact, incomplete.
-
-## The Psychedelic Future
-
-McKenna concluded that "the future is bound to be psychedelic, because the
-future belongs to the mind." As humanity develops more sophisticated tools for
-exploring and engineering consciousness — whether through psychoactive plants,
-neurotechnology, or means not yet conceived — the boundary between ordinary
-and extraordinary states will become increasingly permeable. The eschatological
-culmination is, in this reading, the full actualization of the mind's latent
-capacities.
-
-His vision of the "final human future" involves "exteriorizing the soul and
-internalizing the body" — the soul becoming a "superconducting lens of
-[[mckenna-translinguistic-matter-and-exteriorized-soul]]" while the body image exists as a "holographic wave
-transform." This is the ultimate expression of the acceleration principle:
-consciousness liberating itself entirely from material constraints.
-
-## Related Concepts
-
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]] — the
-  exteriorization of the soul
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]] — source lecture
-
-## See Also
-
-- [[mckenna-history-shockwave-eschatology-temporal-acceleration]]
+McKenna invoked the language of [[quantum-mechanics-fundamentals]] to support his framework.

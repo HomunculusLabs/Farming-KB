@@ -87,34 +87,3 @@ Fungi can be highly efficient bioaccumulators of soluble and particulate forms o
 ### Microfungi on Barrier Concrete
 
 An experimental study of the effect of microfungi on barrier concrete showed that fungi were able to colonize and corrode the surface of concrete, **actively avoiding areas filled with granite** — a hostile substrate. This selective colonization behavior demonstrates the ability of fungi to discriminate between substrate types and preferentially attack vulnerable concrete matrix while steering clear of resistant mineral fills. The implications are clear: fungi do not attack indiscriminately but rather target the weakest components of engineered barrier systems.
-
-### Chernobyl Evidence
-
-Studies of the walls of the Shelter over Reactor No. 4 at the Chernobyl nuclear power plant demonstrated that microfungi — especially melanized strains of *Alternaria*, *Cladosporium*, and *Aureobasidium* — were able to survive and colonize highly radioactive concrete under extreme radiation exposure, providing direct evidence of fungal resilience in nuclear environments. These melanized pigments are believed to provide radioprotection, enabling sustained metabolic activity even under intense ionizing radiation.
-
-## Nuclear Waste Storage Implications
-
-The microbial ability to corrode concrete barrier materials raises serious concern with respect to both existing and future gadd fungal concrete biodegradation nuclear waste concerns storage. The implications are particularly significant for:
-
-- **Long-term integrity of underground nuclear waste repositories**, where concrete barriers are designed to isolate radioactive materials over geological timescales
-- **Existing nuclear facilities**, where myco-corrosion may reduce the theoretically calculated service life of concrete containment structures, potentially causing risk from the release of radionuclides into the environment
-
-Myco-corrosion may therefore reduce the theoretically calculated service life of concrete, causing a potential risk from the release of radionuclides into the environment. The ability of fungi to adapt to severe radioactive contamination, as demonstrated at Chernobyl, means that radiation alone is not a sufficient safeguard against fungal colonization of nuclear waste barriers.
-
-Diverse microbial communities have been found living in rock substrates buried several kilometres below the Earth's surface, in extreme hot and cold deserts, and in the pore spaces of exposed rock from the McMurdo Dry Valleys of Antarctica, suggesting that even deep geological repositories may not be beyond the reach of fungal activity.
-
-## Fungi as Formidable Weathering Agents
-
-The ability of fungi to adopt diverse growth, metabolic, and morphological strategies makes them formidable weathering agents. Their resilience to extreme conditions — including metal toxicity, UV radiation, desiccation, and even high levels of ionizing radiation — ensures their persistence in environments where other organisms cannot survive. This adaptability, combined with their capacity for both mechanical and chemical degradation of mineral substrates, means that fungal biodeterioration must be seriously considered in the design and maintenance of any long-term concrete structure.
-
-## Implications for Chemical Remediation
-
-Assessment of long-term environmental consequences of chemical [[pcb-remediation-technologies]] should take into account the biogeochemical activity of soil fungal communities. Fungal mineral-solubilizing activity may affect in situ methods of chemical remediation — for example, phosphate-induced metal stabilization, where fungi may transform the final mineral products of such remediation treatments. The need to assess fungal biogeochemical activity when planning [[multi-kingdom-bioremediation]] and chemical remediation technologies is therefore critical. Long-term environmental consequences of chemical remediation technologies should therefore account for the potential of fungal (and bacterial) communities to transform and mobilize stabilized contaminants over time.
-
-## Summary
-
-Fungi represent a persistent and versatile threat to the integrity of concrete barriers used in nuclear waste containment. Their capacity for biomechanical penetration, acidolysis, complexolysis, and redoxolysis — combined with extreme environmental tolerance and the ability to colonize deep subsurface environments — demands that fungal activity be explicitly incorporated into safety assessments for both existing and planned nuclear waste storage facilities.
-
-The evidence from laboratory studies, field observations at Chernobyl, and the fundamental understanding of fungal mineral weathering mechanisms all point to a clear conclusion: fungal biodeterioration of concrete is not a hypothetical risk but an demonstrated phenomenon with direct relevance to nuclear safety.
-
-As repository designs continue to evolve, integrating geomycological considerations into engineering specifications and monitoring protocols will be essential for ensuring the long-term performance of waste isolation systems.

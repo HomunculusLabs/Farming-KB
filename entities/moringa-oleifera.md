@@ -1,7 +1,7 @@
 ---
-title: "comparison-moringa-oleifera-vs-moringa-stenopetala"
+title: Moringa Oleifera
 type: species
-tags: [herbal-plant, superfood, medicinal, permaculture, tropical]
+tags: [herbal-plant, superfood, medicinal, [[permaculture]], tropical]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -71,7 +71,7 @@ Dried leaf powder concentrates nutrients significantly: protein ~25–30 g, calc
 ## Bioactive Compounds
 
 - **Isothiocyanates**: Glucomoringin → enzymatically converted to **moringin** (4-(α-L-rhamnosyloxy)benzyl isothiocyanate) by myrosinase; 4-(α-L-rhamnosyloxy)benzyl glucosinolate (unique to Moringaceae)
-- **Flavonoids**: Quercetin (antioxidant, anti-inflammatory), kaempferol (cardioprotective), myricetin
+- **Flavonoids**: [[quercetin]] (antioxidant, anti-inflammatory), [[kaempferol]] (cardioprotective), myricetin
 - **Phenolic acids**: Chlorogenic acid (hepatoprotective, antihypertensive), caffeic acid, ellagic acid
 - **Other**: β-Sitosterol (cholesterol-lowering), zeatin (cytokinin, 200–400 μg/g in young leaves), pterygospermin (antimicrobial), β-carotene, lutein
 
@@ -87,51 +87,3 @@ In Ayurveda, known as *Shigru* (चिंग्रु), used for 3,000+ years fo
 - **Hepatoprotective**: Leaf extracts restore ALT/AST/ALP, enhance glutathione peroxidase in CCl₄-induced rat models (Paliwal et al., 2011; PMID: 21468488)
 - **Neuroprotective**: Attenuates Aβ plaques and tau phosphorylation in Alzheimer's mouse models (Ganguly et al., 2017; PMID: 28428318)
 - **Antimicrobial**: Seed extracts MIC 50–200 μg/mL against *S. aureus*, *E. coli*, *P. aeruginosa*, *C. albicans* (Saadabi & Abu Zaid, 2011)
-
-## Water Purification
-
-Seeds contain cationic **MO 2.1 protein** (~13 kDa lectin-like dimer) functioning as natural coagulant/flocculant at 50–200 mg/L seed dose. Mechanism: charge neutralization and bridging flocculation of colloidal turbidity.
-
-| Parameter | Moringa Seeds | Alum (Al₂(SO₄)₃) |
-|-----------|--------------|-------------------|
-| Turbidity removal | 80–99% | 90–99% |
-| Bacterial reduction | 90–99% | 90–99% |
-| pH effect | Minimal | Decreases pH |
-| Residual toxicity | None (biodegradable) | Aluminum residue |
-
-WHO-recommended for rural water treatment. Limitations: does not remove dissolved contaminants (heavy metals, fluoride).
-
-## Permaculture and Agroforestry Applications
-
-A **foundation species** in tropical permaculture: fast growth (3–5 m/year), drought tolerance (250 mm rainfall), vigorous coppicing (harvest every 35–45 days), [[comparison-alley-cropping-vs-silvopasture]] with slow-release N-P-K leaf mulch (4.0:0.3:1.5), living fence (dense hedge in 3–4 months), windbreak, and near-continuous bee forage. Deep taproot mines subsoil nutrients.
-
-## Cultivation
-
-| Parameter | Details |
-|-----------|---------|
-| Propagation | [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] (70–90% germination), stem cuttings (1–1.5 m), [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] |
-| Spacing | 2.5 × 2.5 m (leaf production); 3 × 3 m (pod production); 0.5 × 0.5 m (living fence) |
-| Water needs | 250–1,500 mm/year; minimal irrigation once established |
-| Soil | Adaptable: sandy loams, degraded soils, saline (up to EC 8 dS/m); pH 6.3–7.0 optimal |
-| Harvest (leaves) | First cut 60–75 days; subsequent cuts every 35–45 days |
-| Leaf yield | 6,000–10,000 kg/ha/year fresh; ~1,500–2,500 kg/ha/year dry |
-| Pod yield | 19,000–31,000 kg/ha/year fresh |
-
-## Industrial Uses
-
-- **Ben oil**: 38–40% seed oil, rich in behenic acid (~9%) and oleic acid (~70%). Used in cosmetics, precision lubricants, and food applications
-- **Biodiesel**: Meets ASTM D6751 and EN 14214 standards; ~1,000–1,500 L/ha competitive with [[mollison-designers-moringa-and-multipurpose-tropical-trees]]
-- [[adaptogenic-herbs-guide]]
-
-- permaculture — Sustainable design framework
-- [[homestead-water-purification]] — Methods and technologies for potable water
-- Biodiesel — Renewable diesel fuel from biological sources
-- [[jatropha-curcas-entity]] — Tropical oilseed species
-- Superfood — Nutrient-dense foods with health benefits
-
-## See Also
-
-- [[amorphophallus-konjac]]
-- [[dracaena-draco]]
-- [[faidherbia-albida]]
-- [[lantana-camara]]

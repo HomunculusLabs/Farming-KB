@@ -36,7 +36,7 @@ aliases:
 
 ## Overview
 
-**Crotalaria juncea** is an annual legume in the family Fabaceae, widely cultivated in tropical and subtropical regions as a fiber crop, green manure, and cover crop. It is one of the fastest-growing warm-season legumes, capable of producing 4–6 tonnes of dry matter per hectare in 60–90 days. Native to the Indian subcontinent, it has been naturalized and cultivated across tropical Asia, Africa, the Americas, and Australia.
+**Crotalaria juncea** is an annual legume in the family Fabaceae, widely cultivated in tropical and subtropical regions as a fiber crop, [[coleman-mobile-greenhouse-green-manure-soil-building]], and [[coleman-cover-crop-rotation-and-soil-health]]. It is one of the fastest-growing warm-season legumes, capable of producing 4–6 tonnes of dry matter per hectare in 60–90 days. Native to the Indian subcontinent, it has been naturalized and cultivated across tropical Asia, Africa, the Americas, and Australia.
 
 The species is valued for its dual utility: producing high-quality bast fiber comparable to jute, while simultaneously fixing atmospheric nitrogen (80–120 kg N/ha) and suppressing weeds through rapid canopy closure. These combined attributes make it a cornerstone species in sustainable tropical agriculture.
 
@@ -46,7 +46,7 @@ The species is valued for its dual utility: producing high-quality bast fiber co
 
 - **Authority:** L. (1753)
 - **Synonyms:** *Crotalaria tenuifolia* Roxb., *Crotalaria sericea* Retz.
-- **Key cultivar:** 'Tropic Sun' (USDA-ARS release, 1982) — non-toxic, early-maturing, widely used in conservation agriculture systems. Most other accessions contain toxic pyrrolizidine alkaloids.
+- **Key cultivar:** 'Tropic Sun' (USDA-ARS release, 1982) — non-toxic, early-maturing, widely used in [[no-till-farming-and-conservation-agriculture]] systems. Most other accessions contain toxic pyrrolizidine alkaloids.
 
 ## Morphology
 
@@ -86,28 +86,4 @@ It is moderately drought-tolerant once established, with water requirements lowe
 
 ## Cover Crop Applications and Safety
 
-**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Symbiotic nitrogen fixation contributes 80–120 kg N/ha per season, making sunn hemp one of the most efficient warm-season legume [[jeavons-green-manures-cover-crops]]. Fixed nitrogen becomes available to subsequent crops upon incorporation.
-
-**[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** Dry matter yields of 4–6 tonnes/ha in 60 days provide substantial [[hamilton-composting-and-organic-matter-management]] input for soil improvement. The C:N ratio of mature residues (approximately 25:1) allows relatively rapid decomposition and nutrient release.
-
-**Weed suppression:** Rapid early growth and dense canopy closure (within 30 days of sowing) effectively suppresses weed competition. Allelopathic compounds in sunn hemp residues may provide additional weed suppression after incorporation.
-
-**Nematode management:** Sunn hemp is a non-host for root-knot nematodes (*Meloidogyne* spp.) and has demonstrated suppressive effects on nematode populations in rotation with susceptible crops such as tomatoes and peppers.
-
-**Soil health benefits:** The deep taproot breaks compacted soil layers, improves water infiltration, and cycles nutrients from deep soil profiles to the surface. Residue incorporation improves soil organic matter, aggregation, and microbial activity.
-
-**Rotation compatibility:** Excellent as a summer cover crop before winter cereals or vegetables. Common rotations include sunn hemp → winter wheat, sunn hemp → tomato/pepper, and sunn hemp → [[glycine-max]].
-
-**Toxicity warning:** Most accessions contain hepatotoxic pyrrolizidine alkaloids (primarily monocrotaline) in leaves, stems, and seeds, causing irreversible liver damage in livestock. The USDA cultivar 'Tropic Sun' has very low PA levels but should still not be fed to animals. Sunn hemp seeds must be kept separate from food grain to prevent accidental contamination.
-
-## See Also
-
-- [[medicago-sativa]] — Alfalfa, the premier temperate forage and green manure legume
-- [[glycine-max]] — Soybean, major grain legume and nitrogen-fixing crop
-- [[trifolium-pratense]] — Red clover, temperate cover crop and green manure
-- [[canavalia-ensiformis]] — Jack bean, tropical legume cover crop
-- [[vigna-unguiculata]] — Cowpea, heat-tolerant grain legume and cover crop
-- [[cicer-arietinum]] — Chickpea, cool-season food legume
-- [[onobrychis-viciifolia]] — Sainfoin, temperate forage legume
-- [[lupinus-mutabilis]] — Andean lupin, high-protein grain legume
-- [[lotus-corniculatus]] — Bird's-foot trefoil, persistent forage legume
+**[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Symbiotic [[biological-nitrogen-fixation-agriculture]] contributes 80–120 kg N/ha per season, making sunn hemp one of the most efficient warm-season legume [[jeavons-green-manures-cover-crops]]. Fixed nitrogen becomes available to subsequent crops upon incorporation.

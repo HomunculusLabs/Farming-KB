@@ -21,7 +21,7 @@ This mixed-potential view explains why inhibitors, coatings, deaeration, cathodi
 
 ## Thermodynamic Driving Force
 
-Thermodynamics indicates whether a corrosion reaction is possible. Electrode potentials, chem [[powell-psilocybin-serotonin-pathways-environmental-chemistry]] vironmental chemistry shifts the balance. Chloride ions, sulfides, ammonia, carbon dioxide, microbial metabolites, and high temperature can destabilize films or accelerate reactions.
+Thermodynamics indicates whether a corrosion reaction is possible. Electrode potentials, chem [[powell-psilocybin-serotonin-pathways-environmental-chemistry]] vironmental chemistry shifts the balance. Chloride ions, sulfides, ammonia, [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], microbial metabolites, and high temperature can destabilize films or accelerate reactions.
 
 ## Polarization and Kinetics
 
@@ -72,7 +72,7 @@ For engineering practice, the goal is rarely to eliminate corrosion absolutely. 
 ## Electrochemical Monitoring Techniques
 
 Electrochemical monitoring provides real-time data on corrosion rate and
-mechanism without destructive sampling. It is widely deployed on pipelines,
+mechanism without [[fungal-destructive-sampling-herbarium-dna-extraction]]. It is widely deployed on pipelines,
 storage tanks, offshore platforms, and reinforced concrete structures.
 
 Potentiodynamic polarization scans sweep the electrode potential while
@@ -88,24 +88,3 @@ localized corrosion such as pitting and crevice attack.
 Electrochemical impedance spectroscopy (EIS) applies a small AC signal
 over a range of frequencies to separate resistive, capacitive, and
 diffusive contributions. Multi-frequency EIS can distinguish coating
-degradation, pore formation, and charge-transfer kinetics in a single
-measurement.
-
-Field probes using linear polarization resistance give a rapid estimate
-of general corrosion rate. When combined with zero-resistance ammetry
-for galvanic current measurement, they provide a practical toolkit for
-plant inspectors managing aging infrastructure.
-
-Wireless corrosion sensors now enable continuous monitoring at remote
-or hazardous sites, transmitting data for trend analysis and alerting
-operators to sudden rate changes that may indicate coating failure or
-process upsets.
-
-## References
-
-Research basis: Wikipedia pages on corrosion, galvanic corrosion, and passivation, consulted during this mining wave.
-
-## See Also
-
-- [[phase-diagrams-and-phase-transformations]]
-- [[maxwell-equations-electromagnetism]]

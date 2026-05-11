@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - Littlewood, Michael. Natural Swimming Pools: A Guide for Building.
     Hygia Press, 2015.
   - "Natural Swimming Pools/Ponds." BioNova Natural Pools, 2023.

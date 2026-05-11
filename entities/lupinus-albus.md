@@ -11,17 +11,17 @@ updated: 2026-05-09
 sources:
   - Gladstones, J.S. (1970). "Lupins as Crop Plants." Field Crop Abstracts, 23, 123–148.
   - Cowling, W.A., et al. (1998). "Lupin Phylogeny and the Origin of Cultivated Species." Advances in Agronomy, 60, 233–268.
-  - UAEU, E., et al. (2021). "Nutritional Composition and Bioactive Compounds of Lupinus albus Seeds." Foods, 10(9), 2122.
+  - UAEU, E., et al. (2021). "[[dighton-fungal-nutritional-composition-animal-diets]] and [[cordyceps-cancer-bioactive-compounds]] of Lupinus albus Seeds." Foods, 10(9), 2122.
   - Huyghe, C. (1998). "Classification and Genetic Diversity of Lupins." In Lupin, 1–9. European Association for Grain Legume Research.
 ---
 
 ## Overview
 
-**Lupinus albus** (white lupin) is an annual legume in the family Fabaceae, native to the Mediterranean basin and the Balkans. It is cultivated widely for its protein-rich seeds, which serve as both human food and animal feed. The species is notable for its ability to fix atmospheric nitrogen through root nodules, making it valuable in sustainable agriculture and soil improvement.
+**Lupinus albus** (white lupin) is an annual legume in the family Fabaceae, native to the Mediterranean basin and the Balkans. It is cultivated widely for its protein-rich seeds, which serve as both human food and animal feed. The species is notable for its ability to fix atmospheric nitrogen through root nodules, making it valuable in [[phosphate-accumulators-sustainable-agriculture]] and soil improvement.
 
 White lupin is one of the oldest domesticated grain legumes, with archaeological evidence of cultivation dating back over 3,000 years in the Mediterranean region. Modern cultivars have been bred to reduce alkaloid content, producing "sweet" varieties suitable for direct consumption.
 
-Modern breeding programs in Australia, Europe, and South America have produced improved cultivars with early maturity, disease resistance, and adaptability to mechanized harvesting. The International Lupin Association coordinates global research and germplasm exchange. Emerging interest in lupin as a climate-resilient protein crop has renewed breeding efforts in drought tolerance and nitrogen use efficiency.
+Modern breeding programs in Australia, Europe, and South America have produced improved cultivars with early maturity, disease resistance, and adaptability to mechanized harvesting. The International Lupin Association coordinates global research and germplasm exchange. Emerging interest in lupin as a climate-resilient protein crop has renewed breeding efforts in [[dighton-fungal-drought-tolerance-plant-water-relations]] and nitrogen use efficiency.
 
 ## Taxonomy and Morphology
 
@@ -41,7 +41,7 @@ The species is diploid (2n = 50), with a genome size of approximately 1.0 Gb. Ge
 
 ## Distribution and Habitat
 
-White lupin is native to the Balkan Peninsula, Italy, Greece, and the eastern Mediterranean coast. It has been naturalized across much of Europe, North Africa, and temperate South America. Cultivation extends to Australia, South Africa, and parts of North America.
+White lupin is native to the Balkan Peninsula, Italy, Greece, and the eastern Mediterranean coast. It has been naturalized across much of Europe, North Africa, and temperate South America. Cultivation extends to Australia, South Africa, and parts [[berry-growing]].
 
 Archaeological evidence indicates lupin consumption in the Mediterranean since at least 2000 BCE. The Romans used lupin beans as both food and green manure. Spanish and Portuguese colonists introduced white lupin to the Americas during the 16th century, where it became established as a forage and cover crop.
 
@@ -65,48 +65,26 @@ Lupin seed protein isolates show cholesterol-lowering and hypoglycemic effects i
 
 Lupin seed γ-conglutin, a unique glycoprotein, shows insulin-mimetic activity in animal models of diabetes. This compound lowers blood glucose without stimulating insulin secretion, representing a novel mechanism distinct from conventional antidiabetic drugs. Clinical trials have confirmed modest glucose-lowering effects in type 2 diabetic patients consuming lupin-enriched foods.
 
-Other bioactive compounds in lupin seeds include tocopherols (vitamin E), phytosterols, and carotenoids. Total tocopherol content ranges from 30–60 mg/kg seed oil, with γ-tocopherol as the dominant form. These antioxidants contribute to the oxidative stability of lupin oil and may provide health benefits when consumed as part of the diet.
+Other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] lupin seeds include tocopherols (vitamin E), phytosterols, and carotenoids. Total tocopherol content ranges from 30–60 mg/kg seed oil, with γ-tocopherol as the dominant form. These antioxidants contribute to the oxidative stability of lupin oil and may provide health benefits when consumed as part of the diet.
 
 ## Agriculture and Uses
 
-White lupin is grown as a grain legume for seed harvest and as a green manure or cover crop. As a grain crop, seed yields range from 1.5–4.0 t/ha under rainfed conditions, with irrigated crops reaching 5 t/ha. The crop requires minimal nitrogen fertilizer due to biological nitrogen fixation, contributing 100–200 kg N/ha to the soil.
+White lupin is grown as a grain legume for seed harvest and as a green manure or cover crop. As a grain crop, seed yields range from 1.5–4.0 t/ha under rainfed conditions, with irrigated crops reaching 5 t/ha. The crop requires minimal [[jadam-natural-nitrogen-fertilizer]] due to [[biological-nitrogen-fixation-agriculture]], contributing 100–200 kg N/ha to the soil.
 
-Sowing occurs in autumn in Mediterranean climates and in spring in cooler temperate regions. Row spacing is typically 20–40 cm with seeding rates of 80–120 kg/ha. The crop matures in 140–180 days from sowing. Harvest is by direct combining once pods are fully dry and seeds reach 12–14% moisture content.
+Sowing occurs in autumn in Mediterranean climates and in spring in cooler [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. Row spacing is typically 20–40 cm with seeding rates of 80–120 kg/ha. The crop matures in 140–180 days from sowing. Harvest is by direct combining once pods are fully dry and seeds reach 12–14% moisture content.
 
 In animal nutrition, lupin seeds partially replace soybean meal in rations for poultry, swine, and ruminants. Sweet lupin meal contains 40–45% crude protein with favorable amino acid profiles. Inclusion rates of 10–20% are typical in poultry diets without adverse effects on growth performance. In aquaculture, lupin meal has been evaluated as a fishmeal replacement with promising results in several species.
 
-Human food uses include lupin flour in baked goods, pasta, and protein supplements. Lupin-derived ingredients serve as egg and dairy replacers in vegan formulations. Lupin-based hummus and tofu analogues are commercially produced in Australia and Europe. The European Union has approved lupin-derived proteins as novel food ingredients since 2006.
+Human food uses include lupin flour in baked goods, pasta, and protein supplements. Lupin-derived ingredients serve as egg and dairy replacers in vegan formulations. Lupin-based hummus and tofu analogues are commercially produced in Australia and Europe. [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]] has approved lupin-derived proteins as novel food ingredients since 2006.
 
-As a cover crop, white lupin provides excellent biomass production (5–10 t DM/ha), weed suppression, and soil phosphorus mobilization through its cluster roots. It is increasingly used in conservation agriculture rotations across southern Europe and South America.
+As a cover crop, white lupin provides excellent biomass production (5–10 t DM/ha), weed suppression, and soil phosphorus mobilization through its cluster roots. It is increasingly used in [[no-till-farming-and-conservation-agriculture]] rotations across southern Europe and South America.
 
 Major diseases include anthracnose (*Colletotrichum lupini*), which causes severe yield losses in humid environments, and Pleiochaeta root rot. Breeding for anthracnose resistance has been a major focus since the 1990s, with resistant cultivars now widely available. Aphids (*Aphis fabae*) and bean weevils (*Sitona lineatus*) are the primary insect pests.
 
 ## Ecological Role
 
-White lupin forms symbiotic relationships with rhizobial bacteria (*Bradyrhizobium* spp.) in root nodules, converting atmospheric N₂ into plant-available ammonium. This nitrogen fixation contributes substantially to soil fertility in rotational systems, reducing dependency on synthetic nitrogen inputs.
+White lupin forms [[fungi-in-the-environment-symbiotic-relationships]] with rhizobial bacteria (*Bradyrhizobium* spp.) in root nodules, converting atmospheric N₂ into plant-available ammonium. This nitrogen fixation contributes substantially to soil fertility in rotational systems, reducing dependency on synthetic nitrogen inputs.
 
 Effective nodulation depends on inoculation with compatible *Bradyrhizobium* strains in soils lacking native lupin-nodulating rhizobia. Commercial inoculants are widely available. The symbiosis is sensitive to soil nitrate levels, with nitrogen fixation suppressed when available soil nitrogen exceeds 50 kg/ha.
 
 The proteoid root clusters exude organic acids (primarily citrate and malate) that solubilize bound phosphorus in the rhizosphere. This mechanism allows white lupin to access phosphorus from soils that are unavailable to most crop species. The phosphorus mobilization effect can benefit subsequent crops in rotation.
-
-Nitrogen fixation rates vary with rhizobial strain efficiency and soil conditions. Under optimal conditions, white lupin derives 70–90% of its nitrogen from fixation. The crop has a high phosphorus harvest index, removing significant phosphorus from the system when grain is harvested.
-
-Flowers attract pollinators including bees, bumblebees, and hoverflies. The crop provides habitat for beneficial arthropods and serves as a bridging resource in agricultural landscapes. Lupin residues decompose rapidly, contributing to soil organic matter and microbial activity.
-
-White lupin serves as a phosphorus-scavenging companion plant in intercropping systems. Its cluster roots access recalcitrant soil phosphorus pools that benefit neighboring cereals. The species is also used in phytoremediation of mildly contaminated soils, with documented tolerance to moderate levels of heavy metals including zinc and copper.
-
-## See Also
-
-- [[lupinus-luteus]]
-- [[lupinus-nootkatensis]]
-
-- [[symphoricarpos-albus]]
-
-- [[lupinus-angustifolius]]
-- [[phaseolus-vulgaris]]
-- [[pisum-sativum]]
-- [[glycine-max]]
-- [[trifolium-repens]]
-- [[medicago-sativa]]
-- [[caragana-arborescens]]
-- [[amorpha-fruticosa]]

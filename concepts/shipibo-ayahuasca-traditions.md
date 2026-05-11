@@ -1,10 +1,10 @@
 # Shipibo Ayahuasca Traditions
 
-The Shipibo-Conibo people of the Peruvian Amazon maintain one of the most
+The Shipibo-Conibo people of the [[ayahuasca-tourism-economics-peruvian-amazon]] maintain one of the most
 vital and widely recognized ayahuasca shamanic traditions in South America.
 Their practices center on the ceremonial use of ayahuasca (*ayahuasca* in
 Quechua, *oní* in Shipibo) as a tool for healing, divination, and spiritual
-exploration. The Shipibo tradition has become a significant draw for
+exploration. The [[ayahuasca-vision-art-and-shipibo-tradition]] has become a significant draw for
 [[stuart-r-ayahuasca-tourism-cautionary-ethnography]], with the town of [[shipibo-san-francisco-ceremonial-center-ucayali]] near Pucallpa proclaiming
 itself the "Centro Ceremonial del Ayahuasca."
 
@@ -30,7 +30,7 @@ dual identity reflects the deep cultural roots of ayahuasca in Shipibo life.
 
 Traditional Shipibo [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] take place at night in a
 ceremonial hut or maloca. The shaman (onanya) prepares the ayahuasca brew
-from *Banisteriopsis caapi* vine and *Psychotria viridis* leaves, often
+from *[[ayahuasca-and-banisteriopsis-caapi]]* vine and *[[chacruna-psychotria-viridis]]* leaves, often
 following specific recipes passed down through generations. The ceremony
 typically involves a small group of participants, though tourist ceremonies
 may include a dozen or more visitors.
@@ -57,9 +57,9 @@ central to their reputation.
 
 ### Mapacho and Plant Allies
 
-Shipibo shamans typically use mapacho (Nicotiana rustica, jungle tobacco)
+Shipibo shamans typically use mapacho ([[mckenna-shamanic-tobaccos-and-nicotiana-rustica]], jungle tobacco)
 during ceremonies. The tobacco smoke is blown on participants for cleansing
-and protection. Other plant allies may include toe (Brugmansia suaveolens)
+and protection. Other plant allies may include toe ([[brugmansia-suaveolens]])
 for its purgative effects and various perfumes and floral waters used in
 cleaning rituals.
 
@@ -88,54 +88,3 @@ The training typically includes:
   ceremonial protocols from a master shaman
 - **Visionary learning**: Direct instruction received during ayahuasca
   experiences about the nature of illness and healing
-
-Many Shipibo families maintain a tradition of shamanic practice spanning
-generations, with knowledge passed from parent to child or uncle to nephew.
-
-## Shipibo Ayahuasca and Tourism
-
-The intersection of Shipibo tradition and ayahuasca tourism has created
-both opportunities and tensions. On one hand, tourism provides economic
-support for Shipibo communities and helps preserve traditional practices
-that might otherwise decline. On the other hand, commercialization can
-dilute the depth and authenticity of ceremonies.
-
-In tourist-oriented ceremonies, shamans typically exercise caution with
-dosages, giving milder preparations than they would use for their own
-community members. This conservative approach reflects practical concerns
-about managing foreign participants who may not understand the cultural
-context, who may be taking contraindicated medications, or who may react
-unpredictably.
-
-## Economic Aspects
-
-The pricing differential between local and tourist ceremonies is striking.
-While Peruvians might pay approximately two dollars for a ceremony, tourists
-are typically charged ten to thirty dollars or more. For some Shipibo
-families, ayahuasca tourism has become a primary income source, with
-practitioners earning hundreds of dollars monthly—a significant sum in the
-local economy where many neighbors cannot afford basic transportation.
-
-## The Kené Design System
-
-Shipibo visual culture is intimately connected to ayahuasca practice. The
-geometric designs called kené that adorn Shipibo textiles, ceramics, and
-body paint are believed to originate from visions received during ayahuasca
-ceremonies. These designs represent the patterns of creation—the energetic
-blueprint of reality as perceived through the ayahuasca state. Shamans may
-"weave" kené patterns in the air during ceremonies as a form of energetic
-healing, projecting protective designs around participants.
-
-## See Also
-- [[icaros]]
-- [[banisteriopsis-caapi]]
-- [[shipibo-ayahuasca-shamans-practice]]
-
-## Sources
-
-- R. Stuart, "Ayahuasca Tourism: A Cautionary Tale," *MAPS* Vol. XII,
-  No. 2, Summer 2002
-
-## See Also
-
-- [[shipibo-ayahuasca-shamans-practice]]

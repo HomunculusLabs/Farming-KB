@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -86,60 +87,3 @@ used in spray preparations:
 
 These plant materials repel many insects including aphids,
 caterpillars, mites, and whiteflies.
-
-## Extraction Technique
-
-To extract active ingredients from plant materials, mince the
-plant material and soak in mineral oil for a couple of days. Add
-this oil to water including a little detergent or soap to
-emulsify the oil droplets in water. Biodegradable detergents
-and soaps are good wetting-spreading agents for these
-preparations. Soap dissolves best if a teaspoon of alcohol is
-also added to each quart of mix.
-
-## Application Method
-
-Mix spray concentrates by blending repellent substances with a
-little water in a blender. Strain the resulting slurry
-concentrate through a nylon stocking or fine cheesecloth before
-diluting with water for application. Spray foliage until it
-drips from both sides of leaves for complete coverage.
-
-## Recipe 1: All-Purpose Hot Spray
-
-Mix three tablespoons each of isopropyl alcohol, lemon juice,
-garlic juice, horseradish juice, and Ivory liquid soap. Add a
-few drops of Tabasco, mint oil, and cinnamon oil. Mix all
-ingredients in a small bowl into a slurry. Dilute the slurry
-at the rate of one teaspoon per pint of water and mix in a
-blender before spraying.
-
-## Recipe 2: Garlic-Pepper Spray
-
-Place one teaspoon of hot pepper or Tabasco sauce and four
-cloves of garlic in a blender with a pint of water and liquefy.
-Strain through a nylon stocking or cheesecloth before using
-in the sprayer. This simple spray is effective against many
-common [[green-cannabis-pests-prevention]].
-
-## Recipe 3: Hydrated Lime Spray
-
-Mix one-eighth to one-quarter cup of hydrated lime combined
-with a quart of water to make an effective insecticide and
-fungicide spray. This alkaline solution disrupts pest
-populations and creates unfavorable surface conditions for
-fungal growth.
-
-## Persistence and Timing
-
-Homemade sprays persist on foliage for a few days or until
-washed off by watering or rain. Apply at five to ten day
-intervals for ongoing pest pressure. Avoid spraying within four
-hours of lights off, as excess moisture sitting on foliage
-fosters fungal growth.
-## Related Topics
-
-- [[cervantes-pyrethrum-pyrethroid-insecticides]] - natural
-  pyrethrum sprays
-- [[cervantes-biological-pest-control-predators]] - living
-  [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] agents

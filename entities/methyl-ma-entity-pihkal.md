@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-MA
 
-PIHKAL entry #130. PMMA; DOONE; 4-MMA; 4-METHOXY-N-METHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #130. PMMA; DOONE; 4-MMA; 4-METHOXY-N-METHYLAMPHETAMINE.
 
 ## Chemical Name
 
@@ -25,7 +25,7 @@ PMMA; DOONE; 4-MMA; 4-METHOXY-N-METHYLAMPHETAMINE
 
 > (with 110 mg) One hour into it, my pulse was up
 > over 100, and I was compulsively yawning. There was some eye muscle
-> disturbance, a little like the physical side of MDMA, but there was
+> disturbance, a little like the physical side of [[mdma]], but there was
 > none of its central effects. But all the hints of the cardiovascular
 > are there. By the fourth hour, I am pretty much back to baseline, but
 > the yawning is still very much part of it. I might repeat this, at
@@ -49,7 +49,7 @@ became front-page news back in mid-1985, the cartoonist-author of
 Doonesbury, Gary Trudeau, did a two-week feature on it, playing it
 humorous, and almost (but not quite) straight, in a hilarious sequence
 of twelve strips. On August 19, 1985 he had Duke, president of Baby
-Doc College, introduce the drug design team from USC in the form of
+Doc College, introduce the [[bioisosterism-in-drug-design]] team from USC in the form of
 two brilliant twins, Drs. Albie and Bunny Gorp. They vividly
 demonstrated to the enthusiastic conference that their new drug
 "Intensity" was simply MDMA with one of the two oxygens removed.
@@ -87,53 +87,3 @@ changes to be seen with its use, are that human experimentation should
 be discouraged. I have come to the same conclusion, but in my case
 this is based on a much more succinct observation: I tried it and I
 didn't like it.
-
-A brief comment on two of the N,N-dimethylhomologues of
-methoxyamphetamine. One was 4-methoxy-N,N-dimethylamphetamine,
-4-MNNA. This material, made by the reductive amination of
-4-methoxyphenylacetone with dimethylamine, was a colorless oil, which
-distilled at 70-85 deg C at 0.3 mm/Hg. The corresponding
-2-methoxy-N,N-dimethylamphetamine was similarly made. 2-MNNA was also
-a colorless oil and had the same bp. Both of them were fluorinated
-with 18F labelled acetyl hypofluorite (3% and 6% yields respectively)
-but neither of them was pursued any further in the search for a brain
-blood flow indicator.
-
-## Synthesis
-
-A solution of 20 g methylamine hydrochloride in 150 mL hot
-MeOH was treated with 10.0 g 4-methoxyphenylacetone and stirred
-magnetically. After returning to room temperature, there was added
-5.0 g sodium cyanoborohydride, followed by cautious addition of HCl as
-required to maintain the pH at about 6. The reaction was complete
-after a few days, and the mixture was poured into 800 mL H2O. This
-was acidified with HCl (HCN evolution!) and washed with 3x75 mL
-CH2Cl2, which removed most of the yellow color. There was 25% NaOH
-added to make the reaction mixture strongly basic, and this was
-extracted with 3x75 mL CH2Cl2. The solvent was removed from the
-pooled extracts under vacuum, and the 10.3 g of residue distilled at
-0.3 mm/Hg. The 9.7 g of colorless oil that distilled at 75-90 deg C was
-dissolved in 50 mL IPA, neutralized with 4.5 mL concentrated HCl, and
-then diluted with 100 mL anhydrous Et2O. There were generated
-
-glistening crystals of 4-methoxy-N-methylamphetamine hydrochloride
-(METHYL-MA or DOONE) that weighed, after washing with Et2O and air
-drying to constant weight, 11.0 g and which had a mp of 177-178 deg C.
-The same base can be made by the action of ethyl chloroformate on 4-MA
-in the presence of triethylamine to make the carbamate, or the action
-of formic acid to make the formamide. These can then be reduced with
-LAH to this same end product.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[eme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

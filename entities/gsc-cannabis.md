@@ -1,5 +1,5 @@
 ---
-title: Girl Scout Cookies (GSC)
+title: Gsc Cannabis
 created: 2026-04-28
 type: strain
 tags:
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Girl Scout Cookies** (GSC) is an iconic hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] that originated in the San Francisco Bay Area in the early 2010s and became one of the most commercially successful strains in modern cannabis history. A cross between **OG Kush** and an early **Durban Poison** phenotype, GSC delivers a balanced yet potent experience characterized by euphoric cerebral effects and deep physical relaxation. Its distinctive sweet, earthy aroma with notes of baked goods spawned an entire family of descendant varieties and set the standard for modern boutique [[vic-high-cannabis-genetics-mendelian-inheritance]].
+**Girl Scout Cookies** (GSC) is an iconic hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] that originated in the [[san-francisco-shipibo-ayahuasca-ceremonial-center]] Bay Area in the early 2010s and became one of the most commercially successful strains in modern cannabis history. A cross between **OG Kush** and an early **Durban Poison** phenotype, GSC delivers a balanced yet potent experience characterized by euphoric cerebral effects and deep physical relaxation. Its distinctive sweet, earthy aroma with notes of baked goods spawned an entire family of descendant varieties and set the standard for modern boutique [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## Lineage and Genetics
 
@@ -39,7 +39,7 @@ The strain was bred by the "Cookie Fam" collective in the early 2010s Bay Area m
 
 ## Chemotype Profile
 
-GSC is a **Type I** cannabis chemotype (THC-dominant, low CBD):
+GSC is a **Type I** [[cannabis-chemotype-classification]] (THC-dominant, low CBD):
 
 ### Primary Cannabinoids
 
@@ -77,55 +77,14 @@ The interplay of caryophyllene, limonene, and linalool creates GSC's signature a
 
 **Physical (secondary, comedown phase):**
 - Deep body relaxation spreading from the shoulders downward
-- Muscular tension relief and appetite stimulation
+- Muscular tension relief [[cannabis-for-cachexia-and-appetite-stimulation]]
 - Progressive sedation at higher doses
 
 ### Therapeutic Applications
 
-- **Chronic pain**: Muscular pain, neuropathic pain, inflammatory conditions
+- **Chronic pain**: Muscular pain, [[blesching-cannabis-neuropathic-pain]], [[cannabis-for-inflammatory-conditions]]
 - **Stress and anxiety**: Anxiolytic effects at moderate doses (paradoxical anxiety possible at high doses)
 - **[[cannabis-for-nausea-and-appetite-stimulation]] loss**: Effective appetite stimulant for cachexia and chemotherapy side effects
 - **Insomnia**: Sedative body effects promote sleep onset at higher doses
 
 ### Side Effects
-
-- Dry mouth and dry eyes — very common
-- Anxiety or paranoia — dose-dependent, more likely in THC-sensitive individuals
-- Dizziness, lethargy, or "couch lock" at higher doses
-
-## Notable Phenotypes
-
-- **Thin Mint GSC**: Dark purple-tinged buds with sharper minty aroma; most potent phenotype
-- **Forum GSC**: Lighter green coloration, slightly sweeter aroma; circulated on cannabis forums
-- **Platinum GSC**: Dense, silvery buds with elevated trichome production
-
-## The "Cookie" Family
-
-GSC's genetics have spawned one of the most prolific cannabis lineages:
-
-- **Sunset Sherbet** (GSC × Pink Panties) — parent of the Sherbet line
-- **Gelato** (Sunset Sherbet × Thin Mint GSC) — massively popular descendant
-- **Wedding Cake** (Triangle Kush × Animal Mints, Cookie lineage) — multi-award winner
-- **Runtz** (Zkittlez × Gelato) — Cookie-family descendant
-- **MAC** (Miracle Alien Cookies × Colombian) — Cookie-family hybrid
-- **Do-Si-Dos** (GSC × Face Off OG) — heavy-bodied phenotype
-
-Cookie-family [[cannabis-terpene-profiles-sativa]] (sweet, earthy, bakery-like with gas undertones) are among the most sought-after in the modern cannabis market.
-
-## Cultivation
-
-- **Difficulty**: Moderate; requires humidity and [[green-cannabis-grow-bible-nutrient-management-ppm]]
-- **Flowering time**: 9–10 weeks
-- **Yield**: Moderate (10–14 oz/plant indoors); 12–16 oz/plant outdoors
-- **Stretch**: Moderate during early flowering
-- **Temperature**: 22–28°C day, 18–22°C night
-- **Humidity**: 50–65% vegetative, 40–50% flowering
-- **Notes**: Vibrant purple coloration in cooler nights (<18°C); dense buds require good airflow; susceptible to [[cervantes-powdery-mildew-prevention-treatment]] and botrytis; responds well to LST and ScrOG training
-
-## See Also
-
-- [[cannabis-cloning-rooting-cuttings-method-clarke]]
-- [[cannabis-hashish-guide]]
-- [[og-kush-cannabis-entity]] — legendary parent strain
-- [[gelato]] — popular GSC descendant
-- [[blue-dream]] — another benchmark hybrid strain

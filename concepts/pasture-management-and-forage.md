@@ -12,13 +12,13 @@ Updated: 2026-04-18
 
 Source: The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and [[natural-farming-sustainable-living-principles]], Nicole Faires
 
-Effective pasture management is the key to raising livestock on a permaculture homestead. A well-designed forage system can feed animals year-round, improve soil health, and dramatically reduce the farmer's labor.
+Effective [[comparison-silvopasture-systems-vs-pasture-management]] is the key to raising livestock on [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]. A well-designed forage system can feed animals year-round, improve soil health, and dramatically reduce the farmer's labor.
 
 ## The Forage System Concept
 
 ### Land Requirements
 
-In most temperate climates, 20 acres (8 hectares) is enough land to raise enough livestock to produce a small income. The quality of pasture is the determining factor — it should:
+In most [[fukuoka-natural-farming-temperate-climates]], 20 acres (8 hectares) is enough land to raise enough livestock to produce a small income. The quality of pasture is the determining factor — it should:
 
 - Feed animals through drought
 - Protect from storms and sun
@@ -39,8 +39,8 @@ Even with excellent pasture management, a food shortage in winter is inevitable 
 
 ### Timeline
 
-1. **Year 1**: Plant about 10% of the land in trees and bushes using the community planting method
-2. **Year 5**: Proportion should be 40% trees; introduce sheep for short grazing periods
+1. **Year 1**: Plant about 10% of the land in [[pruning-fruit-trees-and-bushes]] using the community planting method
+2. **Year 5**: Proportion should be 40% trees; introduce sheep for short [[savory-recovery-and-grazing-periods]]
 3. **Year 5–10**: Gradually extend grazing periods as trees mature and canopy provides adequate forage
 4. **Year 10+**: Full integration of grazing animals with tree forage system
 
@@ -60,7 +60,7 @@ Even with excellent pasture management, a food shortage in winter is inevitable 
 - Cattle are healthier and happier
 - Higher yields
 - Drought resilience (deep-rooted trees access water unavailable to grasses)
-- Soil building and erosion prevention
+- Soil building [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
 - Windbreak and shelter for livestock
 
 ## Large Pasture Development
@@ -88,40 +88,3 @@ For 50 acres or more:
 ### Concentrated Feeds
 
 In permaculture, concentrated feeds are NOT used for weight gain during normal growth, but rather for:
-
-- Fattening animals just before butchering
-- Maintaining milk and egg production
-- Sustaining animals during forage shortages
-
-### Farm-Grown Concentrates
-
-All feed should come from the land, cycling nutrients back to the soil:
-
-- **Acorns and chestnuts**
-- **Wheat, buckwheat, oats, barley**
-- **Peas and chickpeas**
-- **Pumpkins and sunflower seeds**
-- **Rye**
-
-Most of these should be **sprouted** before feeding — for both animals and humans, sprouting increases nutritional availability.
-
-## Timber in the Pasture
-
-- **Purpose**: Firewood, [[natural-building-materials-guide]], shelter, and windbreaks alongside forage trees
-- **Planting**: Follow the contours of the land
-- **Maturity**: Allow 30 years for trees to mature enough that animals will not damage them
-- **Grazing integration**: Animals can graze before grass is harvested for hay or [[gaias-garden-cover-crops-soil-building]]
-
-## Rotation Principles
-
-- **Weekly rotation**: Minimum for most pasture systems
-- **Sheep**: Rotate weekly to prevent overgrazing and parasite cycles
-- **Forage recovery**: Allow adequate rest time — at least 6 weeks for legume recovery
-- **Parasite management**: The life cycle of most stomach worms is about 3 weeks — rotation breaks this cycle
-
-## Related Topics
-
-- [[cattle-keeping-guide]] — cattle grazing management
-- [[pig-keeping-guide]] — pig forage and land clearing
-- [[woodlot-and-coppicing]] — integrating timber with pasture
-- holzer-fruit-tree-planting-method

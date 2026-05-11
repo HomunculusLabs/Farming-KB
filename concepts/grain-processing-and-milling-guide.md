@@ -88,14 +88,7 @@ If grain gets damp it may develop ergot -- hard, black, purple kernels. Never ea
 ## Home Grinding
 
 Three options for home milling:
-1. **Mortar and pestle**: most labor-intensive
-2. **Hand grinder**: crank for a long time; each pass must be sifted, then put through several more times depending on desired texture
-3. **Electric mill**: quickest and easiest; single pass
 
-### Flour Yields
-- Coarsest electric mill setting: grits (for cereal and [[query-how-do-i-start-black-soldier-fly-farming-for-composting-and-animal-feed]])
-- Finest setting: cake flour
-- Generally, 1 cup of grain makes 1.5 cups of flour
-
-See also: [[grain-harvesting-and-storage]], faires-grain-harvesting-and-processing, [[fukuoka-barley-winter-grain-method]]
-- [[home-garden-seed-saving]]
+## See Also
+- [[grain-milling-at-home]]
+- [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]

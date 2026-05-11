@@ -6,6 +6,7 @@ type: concept
 tags: [regenerative]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # India Visit: Observations on Agriculture and Spirituality
@@ -86,11 +87,3 @@ favoring cash crops, agricultural extension services promoting chemical
 methods, and the lure of higher short-term yields. Without a conscious
 effort to preserve traditional methods, India would follow the same
 destructive path.
-
-## Natural Farming Experiments in India
-
-During his visit, Fukuoka demonstrated his Africa
-- [[fukuoka-nature-perfect-imperfect-philosophical-perspective]]
-- [[fukuoka-seed-ball-technique]]
-- [[what-natural-farming-method-should-i-use]]
-- [[fukuoka-do-nothing-farming-philosophy-and-practice]]

@@ -14,7 +14,7 @@ sources:
   - Cross, J.R. (1975). "Biological flora of the British Isles: Rhododendron ponticum L." Journal of Ecology, 63(1), 345-364.
   - Milne, R.I. & Abbott, R.J. (2000). "Origin and evolution of invasive naturalized material of Rhododendron ponticum L. in the British Isles." Molecular Ecology, 9(5), 541-556.
   - Rotherham, I.D. (2005). "Invasive plants: ecology, history, and policy." In: Rotherham, I.D. (ed.), Invasive Species and the British Landscape. packard Publishing.
-  - Stout, J.C. (2007). "Linking population dynamics to pollination ecology in Rhododendron ponticum." Oikos, 116(2), 243-253.
+  - Stout, J.C. (2007). "Linking [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] to pollination ecology in Rhododendron ponticum." Oikos, 116(2), 243-253.
   - Thompson, R. et al. (1995). "The toxicity of Rhododendron ponticum nectar to honeybees." Journal of Apicultural Research, 34(3), 119-122.
   - Erfmeier, A. & Bruelheide, H. (2005). "Invasive species: Rhododendron ponticum." In: Nentwig, W. (ed.), Biological Invasions. Springer.
 ---
@@ -73,7 +73,7 @@ The species spreads both vegetatively (layering, root suckers) and by seed. Matu
 
 Seedlings establish most readily on disturbed ground, but the species also colonizes closed-canopy woodland through its shade tolerance. Once established, it forms dense monocultures that exclude virtually all other vegetation.
 
-Control methods include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research targeting the leaf-feeding weevil *Polydrusus sericeus*.
+[[cho-natural-pest-control-methods]] include mechanical cutting (requires follow-up treatment), herbicide application (glyphosate or triclopyre), and [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] research targeting the leaf-feeding weevil *Polydrusus sericeus*.
 
 The species is particularly problematic in native oak-woodland and Atlantic oak-woodland habitats, where it replaces the rich ground flora that characterizes these conservation-priority communities.
 
@@ -88,31 +88,3 @@ The primary toxins include grayanotoxin I (andromedotoxin), grayanotoxin II (rho
 Grayanotoxin poisoning in humans causes nausea, vomiting, dizziness, hypotension, bradycardia, and in severe cases cardiac arrhythmia and respiratory depression. Symptoms typically onset within 1–6 hours of ingestion.
 
 "Mad honey disease" is caused by consuming honey produced from *R. ponticum* nectar. This is a well-documented public health issue in the Black Sea region of Turkey, where deliberate production of toxic honey has been used historically.
-
-Livestock poisoning occurs when cattle, sheep, or goats browse the foliage. Symptoms include excessive salivation, abdominal pain, ataxia, and convulsions. Fatalities are uncommon in cattle but more frequent in sheep.
-
-The nectar is also toxic to honeybees (*Apis mellifera*), though bumblebees (*Bombus* spp.) appear largely unaffected. This selective toxicity may give bumblebees a competitive advantage as pollinators.
-
-## Ecology and Wildlife
-
-Despite its invasive impact, *R. ponticum* provides some ecological value in the landscapes where it has naturalized. The dense evergreen canopy offers winter shelter for birds and small mammals.
-
-The [[coleman-overwintered-onions-and-early-spring-crops]] flowers provide an important nectar source for bumblebees and other long-tongued insects at a time when few other plants are in bloom.
-
-Several Lepidoptera species have adapted to use *R. ponticum* as a larval host plant in its invasive range, including the rhododendron leafhopper (*Graphocephala fennahi*) and the chestnut-leaf miner (*Cameraria ohridella*).
-
-The species significantly reduces plant diversity beneath its canopy. Studies in British woodlands have documented 80–90% reductions in ground flora species richness under *R. ponticum* thickets compared to adjacent uninvaded areas.
-
-The dense [[dighton-fungal-decomposition-leaf-litter-dynamics]] of *R. ponticum* produces an acidic mulch that further inhibits germination of competing plant species, creating a positive feedback loop that reinforces its dominance.
-
-Soil microbial communities beneath *R. ponticum* thickets show altered mycorrhizal associations and reduced decomposition rates compared to native woodland, potentially affecting long-term soil fertility.
-
-## See Also
-
-- [[rhododendron-ferrugineum]]
-
-- [[kalmia-angustifolia]]
-- [[vaccinium-myrtillus]]
-- arctostaphylos-uva-ursi
-- [[calluna-vulgaris]]
-- [[quercus-robur]]

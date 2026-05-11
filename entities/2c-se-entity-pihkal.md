@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2C-SE
 
-PIHKAL entry #38. 4-Methylseleno-2,5-dimethoxy-PEA.
+[[2c-b-pihkal-entry-20]] #38. 4-Methylseleno-2,5-dimethoxy-PEA.
 
 ## Dosage and Duration
 
@@ -88,18 +88,6 @@ Distillation of the residue at 0.4 mm/Hg gave an early fraction
 (75-100 deg C) that solidified in the receiver and was largely unreacted
 dimethoxybenzene. A pale yellow oil distilled from 100 to 120 deg C
 which proved to be largely 2,5-dimethoxyphenyl methyl selenide.
-Microanalysis gave C = 49.86, 49.69; H = 5.32, 5.47. As C9H12SeO2
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[2c-t-entity-pihkal]] -- 2C-T (PIHKAL #39)
+- [[ethyl-j-entity-pihkal]]

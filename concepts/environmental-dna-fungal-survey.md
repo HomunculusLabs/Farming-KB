@@ -88,19 +88,3 @@ soil health assessments, plant pathogen surveillance networks, and
 restoration ecology monitoring. Soil health assessments use fungal
 community composition as a bioindicator, tracking shifts toward
 saprotrophic or pathogenic dominance that signal soil degradation.
-
-Plant pathogen surveillance networks deploy air and soil eDNA sampling
-to detect crop-threatening fungi such as Puccinia graminis (wheat stem
-rust) and Fusarium species before visible symptoms appear. In
-restoration ecology, eDNA monitoring tracks the recovery of mycorrhizal
-communities after disturbance.
-
-Metabarcoding data is also being integrated with functional gene
-profiling to move beyond species lists toward understanding what fungal
-communities are actually doing in the environment.
-
-## See Also
-
-- [[fungal-species-estimates]]
-- [[cryptic-fungal-species]]
-- [[fungal-taxonomic-impediment]]

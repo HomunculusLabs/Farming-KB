@@ -27,7 +27,7 @@ valued [[query-what-are-the-best-mushroom-substrates-for-different-species]] —
 medicinal fungus, is its closest well-known analogue in traditional
 medicine, though *A. cinnamomea* commands significantly higher market
 prices due to its extreme rarity and the cultural importance attached
-to its wild-harvested fruiting bodies.
+to its wild-harvested [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Taxonomic History
 
@@ -70,9 +70,9 @@ texture and reddish-brown, measuring 3-8 mm thick. The [[cancer-medicinal-mushro
 ## Conservation Status
 
 The conservation status of *Antrodia cinnamomea* is intimately linked to
-that of its sole host tree, *Cinnamomum kanehirai*. This camphor species
+that of its sole [[ectomycorrhizal-host-tree-partnerships]], *Cinnamomum kanehirai*. This camphor species
 is classified as endangered in Taiwan due to historical overharvesting for
-timber and essential oil production; remaining old-growth stands are
+timber and [[permaculture-designers-manual-essential-oil-plants]] production; remaining old-growth stands are
 heavily fragmented and legally protected. Wild *A. cinnamomea* is
 correspondingly rare and is listed as endangered under Taiwan's
 Wildlife Conservation Act. Collection without permit is illegal, and
@@ -86,36 +86,5 @@ As a non-psychoactive medicinal fungus, *A. cinnamomea* is not subject to
 drug scheduling. Taiwan strictly regulates harvest and trade of wild-
 collected material under the Wildlife Conservation Act; only cultivated
 specimens from licensed facilities may be sold. In the EU and US, products
-are sold as dietary supplements, though health claims are restricted under
+are sold as [[medicinal-mushroom-dietary-supplements]], though health claims are restricted under
 FDA and EFSA regulations. Japan has approved certain extracts as Foods for
-Specified Health Uses (FOSHU).
-
-## Seasonality
-
-In the wild, *Antrodia cinnamomea* fruiting bodies are most commonly
-collected during the warm, humid months from approximately June through
-September in Taiwan's lowland and montane forests. Sporulation is
-triggered by sustained warm temperatures (25-30 degrees C) combined with
-high relative humidity (above 85%), conditions typical of Taiwan's
-summer monsoon season. The fungus fruits exclusively on standing dead or
-declining *Cinnamomum kanehirai* trees, and fruiting is often associated
-with the onset of the rainy season when moisture levels in the host
-wood reach optimal levels for basidiocarp development.
-
-In cultivation, both solid-state (wood log) and submerged fermentation
-methods decouple production from natural seasonality. Wood-log cultivation
-still requires 6-12 months of incubation before fruiting can be induced,
-while submerged liquid fermentation of mycelium provides year-round
-biomass production independent of seasonal constraints. The market price
-of cultivated fruiting bodies typically shows seasonal variation, with
-higher prices commanded during winter months when natural supplies are
-absent and consumer demand for immune-support supplements peaks.
-
-## Similar Species
-- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** (*G. lucidum*) — Shares lacquered, zonate surface; distinguished by broadleaf hardwood host preference and darker pores.
-- **Ganoderma tsugae** — Hemlock-associated reishi; softer fruiting body and white pore surface when fresh.
-- **Ganoderma tropicum** — Tropical polypore occasionally confused with *A. cinnamomea* in dried product markets; larger pores, different hosts.
-
-## See Also
-- [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]
-- [[pore-fungi-polyporaceae]]

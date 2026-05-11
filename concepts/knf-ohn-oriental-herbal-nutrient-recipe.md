@@ -1,7 +1,7 @@
 ---
-title: KNF bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient Recipe
+title: Knf Ohn Oriental Herbal Nutrient Recipe
 created: 2026-04-28
-tags: [knf, ohn, herbal-nutrient, fermentation, korean-natural-farming]
+tags: [knf, ohn, herbal-nutrient, fermentation, [[korean-natural-farming]]
 date: 2026-04-27
 updated: 2026-04-27
 sources: [raw/papers/master-cho-knf-recipe-book.md]
@@ -25,7 +25,7 @@ The five ingredients for OHN are divided into dry-state and raw-state herbs:
 ### Dry-State Herbs
 - Gigantic angelica root (Angelica gigans)
 - Cinnamon bark
-- Licorice root (Glycyrrhiza glabra)
+- Licorice root ([[glycyrrhiza-glabra]])
 
 ### Additional Materials
 - Makgeolli (Korean rice wine) for initial extraction
@@ -88,41 +88,3 @@ fresh ginger after shaking off soil; do not wash either herb with water.
 ### Raw Herb Processing Steps
 
 1. Put 8 kg of garlic or ginger in the jar
-2. Add 8 kg brown sugar, cover with porous paper
-3. Ensure mixture occupies only 2/3 of jar space
-4. Leave for 4 to 6 days, then add 11 to 12 liters of Soju
-5. Cover with vinyl film, stir clockwise daily for 2 weeks
-6. Filter and store the extraction
-
-## Rebrewing the Herbs
-
-Both dry and raw herbs can be reused 4 to 5 times, dramatically increasing
-yield and reducing cost:
-
-### Dry Herb Rebrewing
-
-After filtration, put the remnant herb material back into the jar. Pour 3/4
-of the previously extracted liquid back in. Do not add rice wine (Makgeolli)
-for rebrewing. Brown sugar is optional; if used, add only 1/10 of the
-original amount (approximately 800 g), divided into 4 to 5 portions added
-separately. Leave for 1 day. Fill remaining jar space (1/3) with Soju. The
-subsequent process is identical to the first extraction.
-
-### Extraction Yields and Rebrewing
-
-From 2 kg of cinnamon bark, approximately 15 liters of OHN are extracted in
-the first brew. Subsequent extractions using 5 liters of previous extract yield
-approximately 10 liters each through the fourth brew, and 1.5 liters from the
-fifth brew. Total yield from five extractions can reach approximately 46.5
-liters. After filtration, put the remnant herb material back into the jar with
-3/4 of the extracted liquid. Do not add rice wine for rebrewing. Brown sugar is
-optional; if used, add only 1/10 of the original amount. Fill remaining space
-with Soju and repeat the process. Both dry and raw herbs can be reused 4 to 5
-times, dramatically increasing yield and reducing cost.
-
-## Application Rates
-
-Standard dilution for OHN is 1:1,000 (1 part OHN to 1,000 parts water). OHN
-is commonly combined with other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] including [[knf-imo-four-stage-cultivation]], and [[knf-fermented-seawater-preparation]]
-- [[knf-water-soluble-calcium]]
-- [[cho-natural-farming-inputs-overview]]

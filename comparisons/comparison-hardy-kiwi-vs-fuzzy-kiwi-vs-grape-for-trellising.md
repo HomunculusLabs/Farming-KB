@@ -11,6 +11,7 @@ tags:
 date: 2026-05-03
 updated: 2026-05-03
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Ferguson AR (1999). "New Zealand kiwifruit: breeding and genetics." Acta Horticulturae.
   - Keller M (2015). The Science of Grapevines. Academic Press.
   - Oregon State University Extension: Growing Kiwifruit and Grapes in the Home Garden.

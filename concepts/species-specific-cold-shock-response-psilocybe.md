@@ -88,32 +88,3 @@ fruiting chamber with its standard temperature, humidity, and light conditions.
 However, the statement that cold shock is not necessary for Ecuador cubensis should
 not be interpreted as meaning the treatment is harmful. Many cultivators apply cold
 shock universally to all their strains as a precautionary measure, and Ecuador cubensis
-will typically fruit well either with or without the treatment.
-
-The distinction is one of necessity rather than compatibility. Applying cold shock to
-Ecuador cubensis will not harm it, but omitting cold shock will not impair its
-performance either.
-
-For beginners or cultivators working with mixed species and strains, applying cold
-shock universally may be the simplest approach even if some species do not technically
-require it. The additional handling introduces minimal risk when proper sterile
-technique is maintained during the transfer.
-
-## Timing Considerations
-
-The cold shock should be applied at the right stage of the cultivation cycle. The
-casing layer should be fully colonised by the mycelium before the trays are subjected
-to cold treatment. Applying the cold shock too early, before the mycelium has
-adequately penetrated the casing layer, may stun the mycelium and delay or reduce
-fruiting.
-
-The casing is considered ready for cold shock and fruiting when the mycelium has
-visibly grown through the casing soil surface. Depending on the strain, this typically
-occurs within a few days of placing the cased trays at 20 to 25 degrees Celsius.
-
-Some strains fruit earlier and more readily than others, and these easier strains may
-begin showing primordia even before the cold shock is applied. The duration of one
-## See Also
-
-- [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
-- [[psilocybe-cubensis-cultivation]]

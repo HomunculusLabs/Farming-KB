@@ -87,36 +87,3 @@ and crop wastes from maize, Sesbania, soft ground legumes, or
 comfrey provide constant mulch under high legume cover. This
 reduces or eliminates the need for coppicing susceptible
 legumes themselves.
-
-## Designing an Evolved System
-
-In any evolved system, avenue cropping or mulch provision can
-be sustained by a carefully-planned combination of:
-
-- Mixed non-coppiced tall legumes giving a seasonal leaf drop
-  (Erythrina, Tipuana tipu)
-- A row series of non-legumes for ground mulch
-- Annual or short-term crops between the rows
-- Strategic placement to shade inter-crop adequately
-
-## Species Selection
-
-Key legume species for avenue cropping include:
-- Leucaena leucocephala (fast-growing, nitrogen-fixing)
-- Gliricidia sepium (used extensively in Africa)
-- Tagasaste (Chamaecytisus palmensis, excellent for cooler
-  climates, produces equivalent forage weight of irrigated
-  lucerne)
-- Cassia, Acacia, and Albizia species for broader adaptation
-- Erythrina for seasonal leaf drop without coppicing stress
-- Tipuana tipu for permanent shade and nitrogen fixation
-
-## Integration with Food Forests
-
-Avenue cropping serves as a transitional strategy between open
-field agriculture and mature food forests. The legume rows
-gradually create conditions suitable for establishing longer
-term tree crops between them. As the canopy closes, the system
-evolves toward a [[permaculture-multipurpose-trees]]
-- [[woodlot-and-coppicing]]
-- [[pdc-food-forest-layers-and-succession]]

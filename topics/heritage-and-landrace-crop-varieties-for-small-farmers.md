@@ -5,6 +5,7 @@ tags: [seeds, genetic-diversity, heirloom, landrace, seed-saving, food-sovereign
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - raw/papers/gardening-when-it-counts-steve-solomon.md
   - raw/papers/bill-mollison-permaculture-a-designers-manual.md
   - raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md

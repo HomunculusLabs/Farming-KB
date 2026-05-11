@@ -8,9 +8,9 @@ created: 2026-05-10
 # Compost Tea Brewing Methods
 
 Compost tea is a liquid extract of compost [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]] that contains a concentrated population of
-beneficial microorganisms and soluble nutrients. The primary distinction in compost [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]] tea
-production is between Actively Aerated Compost Tea (AACT) and Fermentative Compost Tea
-(FCT, also known as anaerobic compost tea or compost extract). The method chosen has
+[[forest-and-bamboo-beneficial-microorganisms]] and soluble nutrients. The primary distinction in compost [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]] tea
+production is between [[actively-aerated-compost-tea-aact-brewing]] Compost Tea (AACT) and Fermentative Compost Tea
+(FCT, also known as anaerobic compost tea or [[aact-compost-extract-leachate-tea-distinctions-ingham]]). The method chosen has
 profound implications for the biology of the finished product and its effectiveness as
 a soil or foliar amendment.
 
@@ -87,41 +87,4 @@ or sulfur smell indicates anaerobic conditions and the tea should be discarded.
 FCT is produced without aeration — compost is simply steeped in water for an extended
 period (typically 1-4 weeks). During this time, the organisms in the compost consume
 available oxygen and the system becomes anaerobic. FCT produces a very different
-biological profile than AACT. Anaerobic organisms dominate, including many species that
-produce organic acids, alcohols, and other metabolites. While some of these metabolites
-can have beneficial effects (certain organic acids can act as mild herbicides or soil
-conditioners), FCT can also contain organisms and compounds that are phytotoxic or
-pathogenic.
-
-FCT has a long history in traditional agriculture — many cultures have produced compost
-steeps or manure teas by simply soaking organic materials in water. However, the
-inconsistency and potential for harmful organisms in FCT make it less suitable for
-modern biological agriculture than AACT. When anaerobic metabolites are desired (for
-example, the antifungal compounds produced by some anaerobic bacteria), they can be
-produced more controllably through specific fermentation methods.
-
-## Compost Extract (Non-Brewed)
-
-A simpler approach is the compost extract, where compost is mixed with water and
-immediately applied without a brewing period. This extracts the organisms present in
-the compost but does not allow them to multiply. The advantage is simplicity and
-reduced risk of brewing problems. The disadvantage is lower organism concentrations —
-a good AACT brew may contain 10 to 100 times more organisms than a simple extract made
-from the same compost. Extracts are useful for quick applications where a large volume
-of tea is needed and brewing capacity is limited.
-
-## Common Brewing Problems
-
-Anaerobic conditions are the most common problem, usually caused by insufficient
-aeration, excessive food additions, or contaminated water. Symptoms include foul odors
-(especially rotten egg or sewage smells), low dissolved oxygen readings, and the
-presence of a thick scum on the surface. E. coli contamination is a concern with
-compost tea — it can only come from contaminated compost (typically containing manure
-from animals treated with antibiotics or fed poor-quality feed) or from unsanitary
-brewing equipment. Properly made AACT from verified compost should not contain E. coli.
-
-## See Also
-
-- [[soil-foodweb-microbiology]]
-- [[compost-tea-ingredients-and-recipes]]
-- [[compost-tea-disease-suppression]]
+biological profile than AACT. [[ingham-anaerobic-organisms-role-soil]] dominate, including many species that

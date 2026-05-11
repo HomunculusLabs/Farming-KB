@@ -1,6 +1,6 @@
 ---
-title: Coleman Cold-Hardy Winter Vegetables Selection and Characteristics
-source: Eliot Coleman, The Winter Harvest Handbook
+title: Coleman Cold Hardy Winter Vegetables Selection
+source: [[eliot-coleman]], The [[cold-house-winter-harvest-system]] Handbook
 source_path: raw/papers/eliot-coleman-winter-harvest-handbook.md
 extracted: 2026-05-10
 type: concept
@@ -34,7 +34,7 @@ From this extensive list, Coleman identifies the most promising varieties as tho
 Cold-hardy vegetables possess several physiological adaptations that allow them to thrive in cool conditions:
 
 - **Sugar accumulation**: Many cold-hardy plants convert starch to sugar as temperatures drop, acting as a natural antifreeze. This makes winter-harvested vegetables noticeably sweeter than summer-harvested ones.
-- **Lower light requirements**: Unlike warm-season crops (tomatoes, peppers), cold-hardy vegetables have significantly lower light requirements and can photosynthesize efficiently even with short winter days.
+- **Lower [[growing-gourmet-light-requirements-mushroom-fruiting]]**: Unlike warm-season crops (tomatoes, peppers), cold-hardy vegetables have significantly lower light requirements and can photosynthesize efficiently even with short winter days.
 - **Frost tolerance**: These species can survive temperatures well below freezing as long as they are protected from desiccating winter winds.
 - **Growth at low temperatures**: While growth slows, it does not stop entirely. Many cold-hardy species continue to grow at temperatures as low as 35-40°F.
 
@@ -63,7 +63,7 @@ Salad greens are the primary winter harvest crop, providing the highest value pe
 
 Root vegetables provide substantial bulk and variety to the winter harvest:
 
-- **Carrots**: Winter carrots are among the sweetest vegetables imaginable; varieties must be selected for cold tolerance and the ability to size up before winter
+- **Carrots**: [[coleman-sweet-winter-carrots-cold-sweetening]] are among the sweetest vegetables imaginable; varieties must be selected for cold tolerance and the ability to size up before winter
 - **Turnips (Hakurei)**: Small, sweet Japanese turnips that perform well in the cool house with minimal heat
 - **Radishes**: Quick-growing and reliable, especially in the cool house where they can be produced all winter
 - **Beets (Bull's Blood)**: Grown primarily for greens, though the roots also sweeten in cold conditions
@@ -76,7 +76,7 @@ Heartier greens for cooking extend the winter menu:
 - **Kale**: Extremely cold-hardy, with leaves that sweeten significantly after frost exposure
 - **Chard**: Reliable and productive, with colorful stems that add visual appeal
 - **Collards**: Among the most cold-tolerant of all brassicas
-- **Chicory family**: Endive, escarole, and radicchio provide bitter flavors that complement sweet winter greens
+- **[[coleman-chicory-family-winter-greens-endive-escarole-radicchio]]**: Endive, escarole, and radicchio provide bitter flavors that complement sweet winter greens
 
 ### The Specialty Greens
 
@@ -88,51 +88,3 @@ Lesser-known greens that distinguish a premium winter salad mix:
 - **Dandelion greens**: The cultivated varieties are far superior to wild dandelions, with large, tender leaves
 
 ## Light Requirements and Winter Growth
-
-### Lower Light Adaptation
-
-A common misconception about winter growing is that supplementary lighting is required. Coleman demonstrates that cold-hardy vegetables have far lower light requirements than warm-season crops. They can maintain themselves—and even grow slowly—on the limited light available during winter months in most of the continental United States, which receives far more winter sunshine than parts of western Europe where winter vegetable production has a long tradition.
-
-### Growth Rate Compensation
-
-While individual crops take longer from seed to harvest in winter, this is compensated by:
-- Earlier succession planting across a wider range of dates
-- Cut-and-come-again harvesting that extends the productive period of each planting
-- The overlap of multiple successions providing continuous harvest
-
-## Selection Criteria for Winter Cultivars
-
-When choosing specific varieties for winter production, Coleman recommends considering:
-
-- **Cold tolerance**: Not all varieties within a species are equally cold-hardy
-- **Growth rate**: Faster-maturing varieties are more forgiving of tight planting windows
-- **Regrowth ability**: For cut-and-come-again harvesting, choose varieties that regrow vigorously
-- **Disease resistance**: Humid greenhouse conditions favor certain fungal diseases
-- **Flavor**: Winter conditions concentrate flavors, so choose varieties that taste good when cold-sweetened
-
-## Novel vs. Familiar Winter Crops
-
-Coleman's system includes both familiar vegetables (spinach, carrots, lettuce) and novel ones (mache, claytonia, minutina). The novel crops serve an important commercial function:
-
-- **Differentiation**: Unusual greens distinguish a winter harvest from supermarket produce
-- **Reliability**: Some novel crops (like mache) are actually more reliable in winter than familiar ones
-### Flavor diversity**: Different flavor profiles create more interesting salad mixes
-- **Extended harvest**: Novel crops often fill harvest gaps when familiar crops are between successions
-- **Premium pricing**: Customers pay more for unique, high-quality winter greens they cannot find elsewhere
-
-## Regional Adaptation
-
-While Coleman's list was developed for coastal Maine (Zone 5), the principles apply broadly:
-- Growers in milder zones can expand the list to include less cold-hardy species
-- Growers in colder zones should focus on the most cold-tolerant varieties and rely more heavily on the double-layer protection system
-- Trial plantings of new varieties each season help identify the best performers for specific microclimates
-
-## Summary
-
-The selection of cold-hardy vegetables transforms the winter harvest from a theoretical possibility into a practical reality. These are not second-best substitutes for summer crops—they are vegetables that genuinely prefer cool conditions and produce their finest quality during the winter months. The combination of familiar and novel species, managed through careful succession planting, creates a diverse and continuous winter harvest that rivals summer production in both quality and variety.
-
-## See Also
-
-- [[coleman-chicory-family-winter-greens-endive-escarole-radicchio]]
-- [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
-- [[coleman-winter-harvest-cut-and-come-again-techniques]]

@@ -105,6 +105,20 @@ For tissue cloning and grain spawn production:
 - Use 70% isopropyl alcohol for surface sterilization
 - Maintain cleanliness — one contaminated jar can ruin a batch
 - Monitor for contamination: green molds (Trichoderma), bacterial slime, off-colors
+## Practical Cultivation Notes
+
+Successful cultivation depends on maintaining appropriate environmental conditions throughout the colonization and fruiting phases. Temperature, humidity, and fresh air exchange must be carefully managed to promote healthy mycelial growth and prevent contamination. Substrate selection and preparation are critical factors that directly influence yield and biological efficiency.
+
+## Safety Considerations
+
+Proper identification is essential when foraging wild specimens, as many species have toxic lookalikes. Cultivated varieties offer greater consistency and safety compared to wild-harvested material. Always follow established protocols for handling and processing, particularly when working with species that produce bioactive compounds.
+
+## See Also
+- [[antimicrobial-compounds-mushroom-mycelium]]
+- [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
+- [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
+- [[fairy-rings-mycelium-ecology-soil]]
+- [[fungal-hyphae-and-mycelium]]
 
 ## See Also
 

@@ -11,15 +11,15 @@ type: concept
 # Richard Schultes and the Harvard Ethnobotany of Psychoactive Plants
 
 At the center of a quiet revolution in botany during the mid-twentieth
-century was Richard Evans Schultes, the same Schultes who had seen his
-Mexican mushroom research interrupted by World War II. His decades of
+century was [[richard-evans-schultes]], the same Schultes who had seen his
+Mexican [[chaga-mushroom-research]] interrupted by World War II. His decades of
 fieldwork in the Amazon Basin established the modern discipline of
 ethnobotany and created the foundational data on psychoactive plants
 still in global use today.
 
 ## Early Career and World War II
 
-Schultes's early work on peyote and magic mushrooms in Mexico was
+Schultes's early work on peyote [[1960s-counterculture-and-magic-mushrooms]] in Mexico was
 interrupted by World War II, during which he filed reports with the OSS
 (Office of Strategic Services, precursor to the CIA) on the natural
 rubber crop. This wartime assignment took him to the Amazon Basin, where
@@ -70,7 +70,7 @@ core of the database currently in global use.
 
 The birth of ethnopsychopharmacology took place at Harvard under
 Schultes's watchful eye, much of it during the turbulent years when
-Timothy Leary was also at Harvard and attracting a very different sort
+[[timothy-leary]] was also at Harvard and attracting a very different sort
 of reputation through his own effort to place the [[leary-psychedelic-experience-bardo-mapping]]
 on the social agenda.
 
@@ -81,53 +81,9 @@ other. They could hardly have been more different: Schultes the reticent
 Brahmin, scholar, and botanist-scientist, Leary the shamanic trickster
 and social scientist. Schultes represented the careful, methodical
 documentation of indigenous plant knowledge, while Leary sought to
-bring psychedelic experience directly into Western culture through
+bring [[lsd-psychedelic-experience-guide]] directly into [[mycophobia-in-western-culture]] through
 clinical and experimental means. Their contrasting approaches illustrate
 the fundamental tension between preservation of traditional knowledge
 and active promotion of psychedelic experience in modern society.
 
 ## Legacy
-
-Schultes's legacy is the foundation upon which all modern ethnobotanical
-research into psychoactive plants rests. His students and their students
-continue to practice and spread the gospel of modern ethnobotany. His
-work demonstrated that the world's indigenous peoples possessed
-sophisticated pharmacological knowledge developed over millennia, and
-that this knowledge was rapidly being lost as traditional cultures were
-disrupted by modernization.
-
-## The Schultes Approach to Psychoactive Plants
-
-Schultes's methodology was distinctive in its respect for indigenous
-knowledge systems. He correctly recognized that aboriginal people who
-had painstakingly composed an armamentarium of healing and medicinal
-plants were likely to most clearly understand their mental effects. This
-was a radical departure from the prevailing anthropological attitude,
-which often dismissed indigenous plant knowledge as superstition.
-
-Schultes's approach combined rigorous botanical taxonomy with deep
-ethnographic fieldwork. He did not merely collect specimens; he learned
-the indigenous names, uses, preparation methods, and ritual contexts
-for each psychoactive plant. This holistic methodology meant that each
-plant entry in the Harvard database came with not just its botanical
-identification but its complete cultural context, making the data far
-more valuable for subsequent pharmacological and [[hofmann-lsd-clinical-research-early-studies]].
-
-## Plants and Peoples Schultes Documented
-
-Schultes's work spanned an enormous range of psychoactive species:
-peyote (Lophophora williamsii) and its ceremonial use among the Huichol
-and Tarahumara; [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the Mazatec region; the Virola
-tree resins used as DMT snuffs throughout the Amazon; morning glory
-species ([[plants-of-the-gods-turbina-corymbosa-ololiuqui]] and Ipomoea violacea) used in Oaxaca; and
-numerous other species including Banisteriopsis caapi (ayahuasca),
-Erythroxylum coca, and Tabernanthe iboga. Each documentation
-represented not just a botanical record but a cultural artifact,
-preserving knowledge that might otherwise have been lost to
-deforestation, missionary activity, and cultural assimilation.
-
-## See Also
-
-- [[mckenna-amazon-shamanism-and-ayahuasca]] - Amazonian shamanic practices
-- [[mckenna-dmt-amazonian-ecosystems]] - DMT in the Amazon
-- [[mckenna-four-families-of-indole-hallucinogens]] - Schultes's classification work

@@ -49,7 +49,7 @@ cultures. The specific plants vary by region:
   particularly by Mazatec and other Oaxacan peoples. The mushrooms are
   referred to as "the flesh of the gods" or "los niños" (the little ones).
 - **Ayahuasca** ([[banisteriopsis-caapi]] with [[psychotria-viridis]] or
-  [[diplopterys-cabrerana]]): A visionary brew used throughout the Amazon
+  [[diplopterys-cabreraeana]]): A visionary brew used throughout the Amazon
   basin. The Banisteriopsis vine provides MAO inhibitors while the admixture
   plants supply DMT (N,N-dimethyltryptamine), creating a potent oral
   psychedelic preparation.
@@ -88,33 +88,3 @@ the strength of the group. They felt relief mingled with wonder at the beauty
 of the visionary expanse. An individual felt no distance between themselves and
 the rest of the clan or between the clan and the world. Identity was dissolved
 in the higher wordless truth of ecstasy. In that world, all divisions were
-overcome. There was only the One Great Life.
-
-## The Archaic Revival
-
-McKenna argued that shamanism represents a vital connection to a way of being
-that modern humanity has lost. He proposed an "Archaic Revival" — a recovery of
-the shamanic relationship with nature and with the plant hallucinogens that
-were central to the emergence of human consciousness. The shamanic faith, he
-wrote, is that humanity is not without allies. There are forces friendly to our
-struggle to birth ourselves as an intelligent species, but they are quiet and
-shy. They are to be sought not in the arrival of alien star fleets but nearby,
-in wilderness solitude, in the ambience of waterfalls, and in the grasslands
-now too rarely beneath our feet.
-
-## Contemporary Shamanism
-
-A global subculture of "psychedelic shamans" has emerged — people who have
-come to the conclusion that psychoactive plants and the shamanic institutions
-they imply are profound tools for exploring the inner depths of the human psyche.
-Many are scientifically sophisticated. A landscape is coming into focus, a region
-still glimpsed only dimly but emerging and claiming the attention of rational
-discourse. The plant hallucinogens that are the source of the oldest human
-religions remain what McKenna called "a clear running spring, as refreshing as
-they have always been."
-
-## Source
-
-- Terence McKenna, *Food of the Gods: The Search for the Original Tree of
-  Knowledge* (1992), Bantam Books
-  (mckenna_t-food_of_the_gods.md)

@@ -24,7 +24,7 @@ Living soil represents a fundamental shift in how growers think about plant nutr
 Instead of providing nutrients in immediately available salt form (as in hydroponic or
 synthetic soil growing), living soil mimics natural terrestrial ecosystems where
 decomposers break down organic matter and parent rock material into forms that plants
-can absorb. The [[soil-food-web]] page explains this trophic cascade in detail, and the
+can absorb. The [[soil-foodweb]] page explains this trophic cascade in detail, and the
 [[arbuscular-mycorrhizal-fungi]] page covers the biology of these associations, and the
 [[cannabis-living-soil-amendment-schedule]] page provides a feeding calendar that shows
 when and how to top-dress with organic amendments throughout the grow cycle. The

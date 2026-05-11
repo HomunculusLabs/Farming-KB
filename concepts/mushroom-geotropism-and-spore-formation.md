@@ -1,5 +1,5 @@
      1|     1|---
-     2|     2|title: [[mushroom-geotropism]] sm]] and Spore Formation
+     2|     2|title: mushroom geotropism and Spore Formation
      3|     3|source: Badham (1982) Tropisms in the Mushroom [[psilocybe-cubensis]]
      4|     4|extracted: 2026-05-10
      5|     5|type: concept
@@ -88,61 +88,3 @@
     88|    88|
     89|    89|Gravity effects were equalized by rotation, confirming that the horizontal growth direction in this condition is wind-determined.
     90|    90|
-    91|    91|When rotated perpendicular to the airflow, stipes grew upright.
-    92|    92|
-    93|    93|This shows that in the absence of a consistent wind direction signal, gravity becomes the dominant orienting cue.
-    94|    94|
-    95|    95|## Hormonal Hypothesis
-    96|    96|
-    97|    97|Several researchers have postulated the existence of a mushroom hormone involved in tropic responses.
-    98|    98|
-    99|    99|Gruen (1963) and Hagimoto (1963) independently proposed hormonal control of mushroom growth direction.
-   100|   100|
-   101|   101|Decapitation experiments linked these hormones to the lamellae (gills).
-   102|   102|
-   103|   103|Agar diffusates from the gills can partially replace the influence of the pileus on stipe growth direction (Hagimoto and Konishi, 1960).
-   104|   104|
-   105|   105|Some mushrooms contain hormones of higher plants (auxins, gibberellins), but no evidence suggests these regulate mushroom growth (Konishi and Hagimoto, 1961; Jeffereys and Greulach, 1956).
-   106|   106|
-   107|   107|The geotropic response at spore formation may be mediated by a hormone produced by the developing gills.
-   108|   108|
-   109|   109|This hormone could signal the stipe to reorient upward for optimal spore release.
-   110|   110|
-   111|   111|## [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
-   112|   112|
-   113|   113|Plunkett (1961) suggested that negative geotropic response is particularly useful for lignicolous (wood-dwelling) and coprophagous (dung-dwelling) species.
-   114|   114|
-   115|   115|These species grow in habitats that may be unstable or oriented at odd angles.
-   116|   116|
-   117|   117|The ability to recurve and position the pileus upward ensures that spores are released into the air column above the substrate.
-   118|   118|
-   119|   119|This maximizes the chance that air currents will carry spores to new colonization sites.
-   120|   120|
-   121|   121|For *P. cubensis*, a coprophagous species, this adaptation is critical.
-   122|   122|
-   123|   123|Dung substrates are often in open grassland where wind patterns are variable.
-   124|   124|
-   125|   125|Growing upward regardless of wind direction at maturity ensures spore release into the dominant atmospheric [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]].
-   126|   126|
-   127|   127|## Cell Biology of Curvature
-   128|   128|
-   129|   129|Most cell division in the *P. cubensis* basidiocarp has occurred by the time primordia are a few centimeters high (Heim and Wasson, 1958).
-   130|   130|
-   131|   131|Further growth involves acropetal (tip-directed) expansion of existing cells.
-   132|   132|
-   133|   133|Some cell division may continue at the upper part of the stipe (Craig, 1977).
-   134|   134|
-   135|   135|Tropic curvature therefore results from differential cell expansion rather than differential cell division.
-   136|   136|
-   137|   137|The leeward and windward sides of the stipe (or upper and lower sides during geotropism) expand at different rates, producing the observed bending.
-   138|   138|
-   139|   139|## Comparison with Other Species
-   140|   140|
-   141|   141|*P. cubensis* shows at least four different responses to light during its life cycle (Eger-Hummel, 1980), similar to *Coprinus congregatus*.
-   142|   142|
-   143|   143|The linkage between spore production and geotropism has not been systematically tested in other mushroom species.
-   144|   144|
-   145|   145|However, the phenomenon may be widespread among agarics that produce spores on exposed gills.
-   146|   146|
-   147|   147|## See Also
-   148|

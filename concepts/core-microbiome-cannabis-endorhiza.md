@@ -12,14 +12,14 @@ updated: 2026-05-08
 sources:
   - Winston ME et al. (2014). "Understanding Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome." PLoS ONE 9(6): e99641.
   - Bulgarelli D et al. (2013). "Revealing structure and assembly cues for Arabidopsis root-inhabiting bacterial microbiota." Nature 488: 91-95.
-  - Lundberg DS et al. (2012). "Defining the core Arabidopsis thaliana root microbiome." Nature 488: 86-90.
+  - Lundberg DS et al. (2012). "Defining the core [[arabidopsis-thaliana]] root microbiome." Nature 488: 86-90.
 ---
 
 ## Overview
 
 The core microbiome of the Cannabis endorhiza refers to the conserved set of bacterial taxa that colonize root tissue across multiple cultivars and soil types. Research by Winston et al. (2014) identified a persistent core community present in the endorhiza of all five Cannabis cultivars studied, regardless of edaphic variation.
 
-This core community consists predominantly of well-known endophytic bacteria within the orders Gammaproteobacteria and Alphaproteobacteria. Understanding this core is essential for developing targeted microbial inoculants that can improve Cannabis growth and stress tolerance.
+This core community consists predominantly of well-known [[endorhiza-endophytic-bacteria]] within the orders Gammaproteobacteria and Alphaproteobacteria. Understanding this core is essential for developing targeted microbial inoculants that can improve Cannabis growth and stress tolerance.
 
 ## Defining the Core Community
 
@@ -31,7 +31,7 @@ The consistency of this core across five distinct cultivars suggests strong sele
 
 ## Pseudomonas as a Dominant Taxon
 
-Pseudomonas species were among the most abundant and consistent members of the Cannabis endorhiza core. These bacteria are prolific plant colonizers known for producing growth-promoting hormones, siderophores, and antimicrobial compounds.
+Pseudomonas species were among the most abundant and consistent members of the Cannabis endorhiza core. These bacteria are prolific plant colonizers known for producing growth-promoting hormones, siderophores, and [[antimicrobial-compounds-mushroom-mycelium]].
 
 Pseudomonas fluorescens and related species are common rhizosphere and endophytic associates of many crop plants. They contribute to plant health through direct growth stimulation, [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance, and suppression of soil-borne pathogens.
 
@@ -59,13 +59,13 @@ Actinomycetales, particularly Streptomyces and related genera, formed part of th
 
 In root environments, Actinomycetales contribute to plant defense by producing antibiotics that suppress pathogenic fungi and bacteria. Streptomyces species are among the most prolific antibiotic producers known in [[fukuoka-microbial-ecology-decomposition]].
 
-Their persistence in the Cannabis endorhiza across all cultivars suggests they provide a baseline defense function. The diverse secondary metabolite repertoire of Actinomycetales may help protect root tissue from opportunistic pathogens during colonization.
+Their persistence in the Cannabis endorhiza across all cultivars suggests they provide a baseline defense function. The diverse [[fungal-elicitors-enhanced-secondary-metabolite-production]] repertoire of Actinomycetales may help protect root tissue from opportunistic pathogens during colonization.
 
 ## Sphingobacteriales as Core Members
 
 Sphingobacteriales was identified as the sixth consistent member of the Cannabis endorhiza core. This order includes bacteria commonly found in soil and rhizosphere environments.
 
-Sphingobacteriales are known for their ability to degrade complex organic polymers. In the root environment, they may contribute to nutrient cycling and the processing of root exudates and decaying organic matter.
+Sphingobacteriales are known for their ability to degrade complex organic polymers. In the root environment, they may contribute to [[soil-protozoa-nutrient-cycling-and-mineralization]] the processing of root exudates and decaying organic matter.
 
 Their consistent presence in endorhiza tissue across cultivars is noteworthy. While less studied than Pseudomonas or Actinomycetales as endophytes, Sphingobacteriales appear to be reliable root colonizers in Cannabis.
 
@@ -75,7 +75,7 @@ While the core six groups were present in all cultivars, their relative abundanc
 
 For example, Methylophilus was highly abundant in the endorhiza of Bookoo Kush, comprising 13% of the [[edaphic-factors-microbial-community-structure]]. The same genus was nearly absent in Sour Diesel and comprised only 0.13% in Burmese.
 
-Similarly, Sphingomonas wittichii showed cultivar-specific enrichment in Maui Wowie. This species can metabolize phenazine-1-carboxylic acid, suggesting potential links between secondary metabolite production and microbiome assembly.
+Similarly, [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]] showed cultivar-specific enrichment in Maui Wowie. This species can metabolize phenazine-1-carboxylic acid, suggesting potential links between secondary metabolite production and microbiome assembly.
 
 ## Comparison to Other Plant Core Microbiomes
 
@@ -88,32 +88,3 @@ The strong representation of Actinomycetales in the Cannabis endorhiza core is a
 ## Implications for Cultivation
 
 Understanding the core Cannabis microbiome has practical implications for commercial cultivation. Microbial inoculants containing core community members could help establish beneficial root associations more reliably.
-
-Probiotic approaches using Pseudomonas or Streptomyces strains isolated from healthy Cannabis roots may improve plant vigor, nutrient uptake, and disease resistance. The cultivar-specific nature of microbiome modulation means inoculant formulations may need to be strain-specific.
-
-The core microbiome framework also provides a baseline for assessing root health. Deviations from the expected core community could indicate soil problems, disease pressure, or suboptimal growing conditions before above-ground symptoms appear.
-
-## Sampling and Detection Methods
-
-The Cannabis endorhiza core was characterized using Illumina 16S rRNA gene sequencing of the V4 region. Samples were processed following Earth Microbiome Project standard protocols with Greengenes database reference clustering.
-
-Root tissue samples were surface-sterilized with alcohol and sterile water before DNA extraction to ensure only endorhiza bacteria were captured. This distinction between endorhiza and rhizosphere communities is methodologically critical.
-
-PowerSoil DNA isolation kits were used with a modified heating step at 65°C for 10 minutes prior to vortexing. This modification improved lysis efficiency for bacteria embedded within root tissue matrices.
-
-## Edaphic Influence on Core Stability
-
-Despite the consistency of core taxa across cultivars, soil type had the strongest overall effect on [[core-endorhiza-bacterial-community-composition-cannabis]]. [[soil-edaphic-factors-microbial-communities]] including nitrogen, salinity, carbon, water content, and pH all significantly correlated with community beta-diversity.
-
-The resilience of the core community across different soil types demonstrates strong host selection. While overall community structure shifts with soil chemistry, the six core groups persist regardless of growing conditions.
-
-Nitrogen content showed the strongest correlation with community structure, followed by salinity and carbon. These findings suggest that while soil determines the available microbial pool, the host plant selectively filters and enriches specific taxa during root colonization.
-
-## See Also
-
-- [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
-
-- [[cannabis-two-tier-microbiome-selection]]
-- [[endorhiza-bacterial-communities]]
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]

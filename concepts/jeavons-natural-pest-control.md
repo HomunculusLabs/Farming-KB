@@ -87,36 +87,3 @@ The GROW BIOINTENSIVE emphasis on transplanting rather than direct seeding also 
 A study at the University of California at Berkeley in the 1950s indicated that a 2% to 4% increase in root health can increase yields 2 to 4 times. Vigorous, healthy plants are inherently more pest-resistant.
 
 ## Weeds: Specialists and Doctors
-
-Rather than viewing all weeds as enemies, the GROW BIOINTENSIVE approach recognizes that many weeds serve beneficial functions. Weeds are often specialists that take well to sick soil, drawing phosphorus, potash, calcium, trace minerals, and other nutrients out of the subsoil and concentrating them in their bodies. They can be used to concentrate nutrients for future fertilization or to withdraw noxious elements from the growing area.
-
-Some weeds, such as stinging nettle, are quite beneficial to the soil and to other plants. The goal is not total weed elimination but rather management — allowing beneficial weeds to remain while removing those that would compete excessively with crops.
-
-## Materials to Avoid in Compost
-
-Certain pest-related materials should not be added to compost piles:
-
-- Plants infected with disease or severe insect attack (eggs may survive the composting process)
-- Poisonous plants (oleander, hemlock, castor beans) that harm soil life
-- Ivy and succulents that may not be killed in the composting process
-- Pernicious weeds (wild morning glory, Bermuda grass) that can resprout
-- Cat and dog manures, which can contain pathogens harmful to humans
-
-Plants infected with disease or insects and pernicious weeds should be burned. Their ashes become good fertilizer and help control harmful soil insects such as carrot worms, which shy away from the alkalinity of ashes (use ashes in moderate amounts).
-
-## Integrated Pest Management Approach
-
-The GROW BIOINTENSIVE method uses a hierarchy of responses to pest problems:
-
-1. **Prevention first**: Build healthy soil, use crop rotation, maintain close spacing, choose resistant varieties.
-2. **Cultural controls**: Adjust watering, shading, and planting times. Remove affected plant parts.
-3. **Biological controls**: Encourage beneficial insects through [[query-what-is-companion-planting-and-how-does-it-work]] flowering plants. Maintain habitat for predators.
-4. **Physical controls**: Use shade netting, row covers, hand-picking, and barriers when needed.
-5. **Accept some damage**: A healthy garden ecosystem will always have some pest presence. Complete eradication is neither possible nor desirable — it would also eliminate the predators that keep pests in check.
-
-## See Also
-
-- [[jeavons-companion-planting]] — Detailed companion planting guide
-- [[jeavons-composting-methods]] — Compost for disease suppression
-- [[jeavons-soil-fertility]] — Nutrient balance for pest resistance
-- [[jeavons-master-planning-mini-farms]] — Planning rotations and companions

@@ -9,7 +9,7 @@ sources: []
 
 # Particle Filtration and Dilution Plating for Microfungal Isolation
 
-Particle filtration and dilution plating are fundamental techniques for isolating microfungi from complex substrata such as soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and plant tissue. These methods separate fungal propagules from bulk material and place them on culture media where they can grow and be identified.
+Particle filtration and dilution plating are fundamental techniques for isolating microfungi from complex substrata such as soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], and plant tissue. These methods separate fungal propagules from bulk material and place them on [[agar-culture-media]] where they can grow and be identified.
 
 ## Particle Filtration
 
@@ -35,7 +35,7 @@ Substratum is macerated, passed through mesh screens of decreasing size, and the
 ### Limitations
 - Labor-intensive; requires daily plate monitoring
 - Some fungi damaged by maceration
-- Cannot separate fungal hyphae from host tissue during processing
+- Cannot separate [[fungal-hyphae]] from host tissue during processing
 - Selective media still needed to suppress fast-growers
 
 ## Dilution Plating
@@ -49,7 +49,7 @@ Soil or macerated substratum is suspended in water and serially diluted. Known v
 3. **Serial dilution:** 10-fold dilutions (10^-1, 10^-2, 10^-3, etc.)
 4. **Spread plate:** 0.1-1.0 mL of each dilution on agar surface
 5. **Incubate:** 18-25C for 3-14 days (depending on target group)
-6. **Count and isolate:** Enumerate colonies; transfer to pure culture
+6. **Count and isolate:** Enumerate colonies; transfer to [[mushroom-spawn-making-and-pure-culture-methods]]
 
 ### Applications
 - Quantitative estimates of fungal propagule density (colony-forming units per gram)
@@ -88,46 +88,3 @@ Small amounts of soil are distributed on agar surface. Fungi growing from the so
 
 ### Tissue Maceration for Endophytes
 1. Surface-sterilize plant tissue
-2. Macerate in sterile blender
-3. Filter through mesh screens
-4. Dilution-plate filtrate on weak media with antibiotics
-5. Monitor for slow-growing endophytes
-
-### Particle Washing
-Polishook et al. (1996): wash particles repeatedly to remove external contaminants before plating — improves isolation of fungi actually growing within substratum particles.
-
-### Heat Treatment
-- 40-50C for 30-60 minutes: selects for thermotolerant species
-- 60-70C: selects for strongly thermophilic species
-- Useful for isolating specific ecological groups
-
-### Selective Media Combinations
-Always use multiple media with different selective agents:
-- Nonselective medium (control)
-- Medium with antibacterial agents only
-- Medium with antifungal agents to suppress fast-growers
-- Medium with both antibacterial and selective antifungal agents
-
-## Counting and Analysis
-
-### Colony-Forming Units (CFU)
-- Count colonies on plates with 20-200 colonies (most statistically reliable range)
-- Calculate CFU/g = (colonies counted x dilution factor) / volume plated
-- Report as CFU per gram dry weight of soil
-
-### Species-Isolate Curves
-- Plot cumulative species against total isolates examined
-- Nonlinear relationship means simple ratios are misleading
-- Use rarefaction for comparing unequal sample sizes
-
-### Rank-Abundance Plots
-- Rank species by number of isolates (most to least common)
-- Plot rank vs. abundance
-- Reveals dominance patterns and evenness
-
-## See Also
-
-- fungal-culture-media-formulas-applications
-- [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
-- [[microfungal-diversity-host-plant-relationship]]
-- [[microfungal-species-diversity-large-areas]]

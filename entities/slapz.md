@@ -88,29 +88,3 @@ Common side effects include dry mouth and dry eyes, typical of high-THC cannabis
 Anxiety and elevated heart rate can occur, especially with the more potent, gas-forward phenotypes. New users should approach this strain with caution due to its high THC content.
 
 The sedative body effects may interfere with productivity at higher doses. Starting with a small amount and waiting 15–20 minutes before re-dosing is recommended.
-
-## Medical Applications
-
-Slapz is used recreationally but has garnered attention for potential therapeutic applications. The high caryophyllene content may provide anti-inflammatory benefits, as this terpene selectively binds CB2 receptors.
-
-The uplifting cerebral effects may help manage symptoms of mild depression and anxiety, though high-THC strains are not universally recommended for anxiety-prone individuals. Individual response varies significantly.
-
-Some medical cannabis patients report using Slapz for [[cannabis-chronic-pain-management]] management, appetite stimulation, and nausea relief. The balanced hybrid profile allows daytime functionality while providing physical comfort.
-
-## Notable Phenotypes
-
-Several distinct phenotypes circulate in the clone market. The "Gas Slapz" phenotype emphasizes the MAC lineage with dominant fuel, earth, and chemical aromas alongside reduced sweetness.
-
-The "Candy Slapz" phenotype leans heavily into Runtz genetics, expressing sweeter tropical fruit and candy-like terpenes. This version tends to produce more euphoric, less sedating effects.
-
-Breeders have used Slapz as a parent in several crosses, including combinations with Sherb BX1, Biscotti, and other Cookie-family strains. Its resin production and vigor make it an attractive breeding stock.
-
-## See Also
-
-- [[gelato]]
-- [[kush-mints]]
-- jungle-cake
-- [[biscotti-cannabis-strain]]
-- [[lava-cake]]
-- [[zookies-cannabis]]
-- [[white-runtz]]

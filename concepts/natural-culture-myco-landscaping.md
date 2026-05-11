@@ -87,18 +87,3 @@ Understanding and supporting these mycelial networks is central to the practice 
 ## Integration with Conventional Landscaping
 
 Myco-landscaping can be integrated with conventional landscaping practices in numerous ways:
-
-- **Mulch beds inoculated with mushroom spawn** serve the dual purpose of weed suppression and mushroom production. As the mulch breaks down, it enriches the soil while the mycelium produces periodic flushes of mushrooms.
-- **Shaded pathways and borders** planted with appropriate mushroom species become productive features rather than purely decorative ones.
-- **Compost areas** can be inoculated with thermophilic mushroom species that thrive on the heat and nutrient richness of decomposing organic matter.
-- **Orchard understories** provide ideal conditions for many mushroom species, turning the space between fruit trees from a maintenance burden into a productive growing area.
-
-## Seasonal Management Calendar
-
-Natural culture follows the rhythms of the seasons. Spring is the time for inoculating new substrate materials while moisture is abundant and temperatures are moderate. Summer requires attention to moisture management, as heat and drought can stress mycelial networks. Fall brings the primary fruiting season for many species, as cooler temperatures and increased rainfall trigger the reproductive cycle. Winter is a period of dormancy in most climates, a time for planning, substrate preparation, and ordering spawn for the coming season.
-
-## See Also
-
-- [[growing-gourmet-stump-totem-cultivation]]
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-bioremediation-mycofiltration]]

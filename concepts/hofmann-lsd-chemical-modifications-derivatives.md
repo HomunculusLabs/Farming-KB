@@ -1,5 +1,5 @@
 ---
-title: hofmann [[lsd-chemical-modifications-and-analogs]] modifications derivatives of LSD and Derivative Compounds
+title: Hofmann Lsd Chemical Modifications Derivatives
 created: 2026-04-28
 tags:
   - lsd-derivatives
@@ -55,9 +55,9 @@ Dr. Hans Ott.
 
 Dr. Paul A. Stadler was largely responsible for developing this
 synthesis into a process practicable on an industrial scale. The
-synthetic production of peptide ergot alkaloids using lysergic acid from
-special cultures of the ergot fungus in tanks has great economic
-importance. This procedure produces the starting material for the
+synthetic production of peptide [[ergot-alkaloids-eleusinian-mysteries]] using lysergic acid from
+special cultures of the [[ergot-fungus]] in tanks has great economic
+importance. This procedure produces the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for the
 medicaments Hydergine and Dihydergot.
 
 ## LSD Derivatives: None More Active Than the Original
@@ -72,10 +72,10 @@ modifications diminished rather than enhanced its psychoactive potency.
 ## Spatial Isomers of LSD
 
 There are four different possibilities of spatial arrangement of atoms
-in the LSD molecule, differentiated by the prefix "iso-" and the letters
+in the [[lsd-molecule-of-perfection]], differentiated by the prefix "iso-" and the letters
 D and L. Besides D-lysergic [[lsd-d-lysergic-acid-diethylamide]] (LSD itself), Hofmann
 produced and tested the three other spatially different forms:
-D-isolysergic acid diethylamide (iso-LSD), L-lysergic acid
+D-isolysergic [[lsd-lysergic-acid-diethylamide-experience-guide]] (iso-LSD), L-lysergic acid
 diethylamide (L-LSD), and L-isolysergic acid diethylamide (L-iso-LSD).
 All three showed no psychic effects up to a dose of 0.5 mg, which
 corresponds to a 20-fold quantity of a still distinctly active LSD dose.
@@ -88,51 +88,3 @@ A substance very closely related to LSD, the monoethylamide of lysergic
 acid (LAE-23), in which one ethyl group is replaced by a hydrogen atom,
 proved some ten times less psychoactive than LSD. Its hallucinogenic
 effect was also qualitatively different, characterized by a narcotic
-component. This narcotic effect was yet more pronounced in lysergic
-acid amide (LA-111), in which both ethyl groups of LSD are displaced
-by hydrogen atoms. These effects, established in comparative
-self-experiments, were corroborated by subsequent clinical
-investigations.
-
-Fifteen years later, lysergic acid amide, originally produced
-synthetically for these investigations, was encountered as a naturally
-occurring active principle of the Mexican magic drug ololiuqui.
-
-## BOL-148: From Hallucinogen to Migraine Medicine
-
-Certain results of the chemical modification of LSD proved valuable to
-cordyceps cultivation and medicinal research. LSD derivatives were found that were only weakly or
-not at all hallucinogenic but exhibited other LSD effects to an
-increased extent. Such an effect was LSD's blocking effect on the
-neurotransmitter serotonin. Since serotonin plays a role in
-allergic-inflammatory processes and in the generation of migraine, a
-specific serotonin-blocking substance was of great significance.
-
-The first such active substance was bromo-LSD, which became known in
-medicinal-biological research under the designation BOL-148. In the
-course of investigations on serotonin antagonists, Dr. Troxler produced
-yet stronger and more specifically active compounds. The most active
-entered the medicinal market as a treatment for migraine, under the
-trademark "Deseril" or, in English-speaking countries, "Sansert."
-
-## Broader Significance
-
-The LSD modification program demonstrated a fundamental principle of
-medicinal chemistry: that modifying a biologically active molecule can
-separate its various pharmacological effects, yielding compounds useful
-for entirely different therapeutic purposes than the parent substance.
-LSD, originally investigated for its hallucinogenic properties, thus
-indirectly led to the development of important non-hallucinogenic
-medicaments. The ergot alkaloid [[sandoz-delysid-research-program]] that began with
-ergobasine synthesis and passed through LSD produced not only
-psychoactive compounds but also Methergine (obstetrics), Hydergine
-(geriatrics), and Deseril (migraine), demonstrating how a single line
-of chemical investigation can yield diverse [[psilocybin-therapeutic-applications]].
-
-## Related Topics
-
-- [[hofmann-lsd-pharmacology-serotonin-brain]] for serotonin-blocking
-  mechanisms
-- [[hofmann-lsd-sandoz-research-program]] for the research program context
-- [[hofmann-lsd-clinical-research-early-studies]] for clinical testing of
-  derivatives

@@ -6,7 +6,7 @@ tags:
   - herbal-plant
   - culinary-herb
   - medicinal
-  - permaculture
+  - [[permaculture]]
   - apiaceae
   - perennial
 date: 2026-04-28
@@ -80,40 +80,10 @@ once established.
   (30–70%) — primary aroma and bioactive constituent
 - **Phthalides:** Ligustilide, butylphthalide, butylidene-
   phthalide — antispasmodic and anti-inflammatory
-- **Coumarins:** Umbelliferone, bergapten, psoralen —
+- **Coumarins:** Umbelliferone, bergapten, [[psoralen]] —
   photosensitizing compounds in roots
 - **Furanocoumarins:** Root and seed; can cause phototoxicity
-- **Flavonoids:** Quercetin, kaempferol, luteolin glycosides
+- **Flavonoids:** [[quercetin]], [[kaempferol]], [[luteolin]] glycosides
 - **Vitamins:** High vitamin C (leaves), carotene (roots),
   B complex
 - **Minerals:** Rich in potassium, calcium, magnesium, iron
-
-## Pharmacology and Traditional Uses
-
-- **Diuretic:** Kidney and urinary tonic; increases urine
-  output; German Commission E approved for urinary tract
-  inflammation
-- **Carminative:** Reduces bloating; essential oil relaxes
-  intestinal smooth muscle via ligustilide
-- **Emmenagogue:** Historically stimulates menstruation;
-  uterine stimulant activity
-- **Antimicrobial:** Oil active against *E. coli*, *S. aureus*,
-  *C. albicans* in vitro
-- **Anti-inflammatory:** Phthalides inhibit prostaglandin and
-  leukotriene synthesis
-- **Cautions:** Furanocoumarins can cause photodermatitis;
-  topical preparations require sun avoidance
-
-## Permaculture Applications
-
-- **Dynamic accumulator:** Deep taproot mines potassium,
-  calcium, magnesium from subsoil; leaf mulch returns
-  nutrients to surface
-- **Insectary:** Flowers attract predatory wasps, hoverflies,
-  lacewings, parasitic flies
-- **Perennial vegetable:** Young stems as celery substitute;
-  leaves for soups, stocks; roots as vegetable or tea
-- **[[foeniculum-vulgare-entity]]
-- [[symphytum-officinale]]
-- achillea-millefolium
-- [[dynamic-accumulators]]

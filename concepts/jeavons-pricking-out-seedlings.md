@@ -10,11 +10,11 @@ type: concept
 
 # Pricking Out Seedlings
 
-Pricking out is the GROW BIOINTENSIVE technique of transplanting
+Pricking out is the [[jeavons-grow-biointensive-method-overview]] technique of transplanting
 seedlings from a germination flat into a second flat with fresh soil.
 This process is central to the "Breakfast-Lunch-Dinner" concept
 developed by Alan Chadwick, where seedlings receive progressively
-better nutrition as they develop, minimizing transplant shock and
+better nutrition as they develop, minimizing [[query-how-do-i-prevent-and-manage-transplant-shock-in-garden-plants]] and
 stimulating uninterrupted growth.
 
 ## The Breakfast-Lunch-Dinner Concept
@@ -33,7 +33,7 @@ fosters growth. Finally, a splendid GROW BIOINTENSIVE "dinner"
 greets the plant in the growing bed.
 
 With this kind care and stimulated healthy plant growth, there is
-less likelihood of insect and disease damage. In the GROW BIOINTENSIVE
+less likelihood of [[vegetable-insect-and-disease-control]] damage. In the GROW BIOINTENSIVE
 method, pricking out and transplanting can stimulate growth rather
 than slowing it down.
 
@@ -71,7 +71,7 @@ The most effective practitioners develop keen observation skills and
 respond flexibly to changing conditions rather than following rigid
 protocols regardless of circumstances or local variation.
 
-Resource management encompasses not only material inputs but also
+[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
 knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
@@ -88,35 +88,3 @@ Building resilience into implementations through diversity, redundancy,
 and adaptive capacity helps buffer against unpredictable events and
 conditions. This approach recognizes that some degree of uncertainty is
 inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]
-- [[plant-micronutrients-and-their-essential-functions]]
-- [[vegetable-insect-and-disease-control]]
-- [[savory-holistic-resource-management-biological-monitoring]]

@@ -1,5 +1,5 @@
 ---
-title: Freshwater freshwater [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]] sampling and Sampling Methods
+title: Freshwater Fungi Diversity And Sampling
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -7,19 +7,19 @@ tags: [mycology, fungi]
 sources: ["raw/papers/unknown-biodiversity-of-fungi.md"]
 ---
 # Freshwater Fungi Diversity and Sampling Methods
-Source: Biodiversity of Fungi (Hyde et al., Ch. 22)
+Source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Hyde et al., Ch. 22)
 Freshwater habitats harbor a remarkable diversity of fungi including
 chytrids, hyphochytrids, peronosporomycetes (formerly oomycetes),
-aquatic hyphomycetes, and other groups. Many are microscopic and
-require specialized collection techniques.
+[[aquatic-hyphomycetes-and-ingoldian-spores]], and other groups. Many are microscopic and
+require specialized [[psilocybin-mushroom-field-collection-techniques]].
 ## Chytrids and Hyphochytrids
 ### Distribution and Ecology
 - Chytrid species appear distributed worldwide, with occurrence
   determined by local conditions rather than geography
 - Endemism not known among chytrids and hyphochytrids
-- Batrachochytrium dendrobatidis, a pathogen of amphibians,
+- [[batrachochytrium-dendrobatidis]], a pathogen of amphibians,
   may have recently spread to several continents
-- In northern North America, conifers produce annual pollen
+- In northern [[guzman-psilocybin-mushrooms-north-america]], conifers produce annual pollen
   showers; chytrid zoospores attacking pollen peak during the
   2 weeks following peak pollen
 ### Collection Methods
@@ -88,17 +88,3 @@ communities through arthropod-mediated dispersal.
 Culture-independent methods have revolutionized understanding of
 freshwater fungal diversity. Metabarcoding of environmental DNA
 from water and sediment samples reveals taxa that resist
-cultivation. High-throughput sequencing of ITS and 18S rRNA gene
-regions routinely detects hundreds of operational taxonomic units
-per sample, far exceeding diversity recovered by traditional baiting.
-and water quality of streams, rivers, ponds, and wetlands upon
-which their complex life cycles depend.
-## See Also
-
-- [[freshwater-fungi-sampling]]
-- [[aquatic-hyphomycetes-and-ingoldian-spores]]
-- [[aquatic-fungi-and-ingoldian-spores]]
-- [[aquatic-fungi-spore-dispersal-ingold]]
-- [[fungal-communities-water-aquatic-ecosystems]]
-- [[biodiversity-fungi-freshwater-aquatic-habitats]]
-- [[anaerobic-zoosporic-fungi]]

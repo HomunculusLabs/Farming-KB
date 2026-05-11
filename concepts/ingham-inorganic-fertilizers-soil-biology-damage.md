@@ -5,6 +5,7 @@ tags: [soil-health, fertilizers, microbiology, ingham, soil-foodweb,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 created: 2026-04-28
@@ -12,9 +13,9 @@ created: 2026-04-28
 
 # Inorganic Fertilizers and Soil Biology Damage
 
-Dr. Elaine Ingham's soil foodweb approach identifies inorganic (synthetic)
+Dr. [[elaine-ingham]]'s soil foodweb approach identifies inorganic (synthetic)
 fertilizers as a primary driver of soil biological degradation. The
-argument is not simply that synthetic fertilizers are bad, but that their
+argument is not simply that [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]] are bad, but that their
 repeated use creates a predictable cascade of biological disruption that
 reduces soil function and ultimately increases dependence on chemical
 inputs. Understanding this cascade reveals why organic and biological
@@ -23,7 +24,7 @@ management approaches can restore soil health over time.
 ## The Nitrogen Cascade: From Bacterial Boom to Fungal Collapse
 
 The most destructive pathway involves ammonium-based nitrogen fertilizers.
-When ammonium sulfate, ammonium nitrate, urea, or anhydrous ammonia are
+When ammonium sulfate, [[plant-available-nitrogen-ammonium-nitrate]], urea, or anhydrous ammonia are
 applied, they dissolve rapidly into soil solution. Ammonium ions are
 immediately available to soil bacteria, which respond with explosive
 population growth. Ingham describes the effect as dramatically increasing
@@ -61,7 +62,7 @@ feeding nematodes and microarthropods — lose their food source and decline
 in number. The same happens to protozoa that graze on bacteria when
 bacterial populations crash after consuming all available substrate. The
 entire foodweb simplifies, losing the trophic complexity that enables
-robust nutrient cycling.
+robust [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]].
 
 ## Phosphorus Fertilizers and Mycorrhizal Disruption
 
@@ -86,60 +87,4 @@ accumulation. In acidic soils, phosphorus binds with iron and aluminum
 oxides; in alkaline soils, it precipitates with calcium. Either way, it
 becomes increasingly unavailable to plants while contributing to water
 pollution through runoff. The biological [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]] pathway —
-through mycorrhizal fungi and phosphorus-solubilizing bacteria — is
-disrupted and eventually lost.
-
-## Potassium and Micronutrient Displacement
-
-Inorganic potassium fertilizers (muriate of potash, sulfate of potash) do
-not directly damage soil biology in the way that nitrogen and phosphorus
-fertilizers do. However, high potassium levels can cause cation imbalances
-that suppress calcium and magnesium uptake. Indirect effects on soil
-biology arise through changes in plant health and exudate quality when
-nutrient imbalances affect root metabolism.
-
-## The Pesticide Synergy
-
-Ingham emphasizes that the damage from inorganic fertilizers is compounded
-by pesticide use. Broad-spectrum fungicides directly kill beneficial fungi
-including mycorrhizae and saprophytic decomposers. Herbicides damage root
-exudation patterns by stressing plants. Insecticides and nematicides kill
-non-target organisms in the soil foodweb including decomposers and nutrient
-cyclers. The combined effect of inorganic fertilizers plus pesticides is
-far more damaging than either alone.
-
-## Measuring the Damage Through the Soil Foodweb
-
-Ingham's approach to diagnosing fertilizer damage uses direct foodweb
-assessment:
-
-- **Total bacterial biomass**: Elevated above desired ranges, indicating nitrogen-driven bacterial blooms
-- **Total fungal biomass**: Reduced below desired ranges, especially in perennial systems where fungal dominance should prevail
-- **Fungal to bacterial ratio**: Shifted toward bacteria compared to the target for the crop type
-- **Protozoa**: Reduced numbers due to anaerobic conditions and bacterial population crashes
-- **Mycorrhizal colonization**: Low percentages in roots, especially when phosphorus fertilizer has been used
-- **[[ingham-beneficial-nematodes-soil-food-web]]**: Low populations due to lack of fungal prey
-
-## The Economic Trap
-
-Ingham frames inorganic fertilizer use as an economic trap. Initially,
-yields increase because the fertilizer provides nutrients that the depleted
-foodweb can no longer cycle effectively. But as soil biology further
-degrades, the soil's inherent fertility continues to decline, requiring
-ever higher fertilizer inputs to maintain yields. The biological approach
-reverses this trajectory by restoring the soil foodweb through compost,
-compost tea, cover crops, and minimal disturbance.
-
-## Recovery Timeline
-
-Recovery from inorganic fertilizer damage is not instantaneous. Ingham
-estimates that rebuilding a degraded soil foodweb typically takes one to
-five years depending on the severity of degradation, climate, soil type,
-and management consistency. The most depleted soils require the most
-intensive biological amendments initially, with input requirements
-declining as the foodweb recovers its self-regulating function.
-## See Also
-
-- [[soil-foodweb-balancing-protocol-ingham]]
-- [[ingham-aact-disease-suppression-competition-mechanisms]]
-- [[mycorrhizal-carbon-phosphorus-exchange]]
+through [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] phosphorus-solubilizing bacteria — is

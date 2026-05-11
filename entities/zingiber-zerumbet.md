@@ -88,25 +88,3 @@ Topical formulations containing Z. zerumbet extract have been studied for wound 
 Zingiber zerumbet is cultivated commercially for its rhizomes in Thailand, Indonesia, and India. The species is also widely grown as an ornamental plant in tropical and subtropical gardens for its striking inflorescence.
 
 Propagation is primarily by rhizome division. Planting is done at the start of the wet season with rhizome pieces placed 5–8 cm deep and spaced 30–50 cm apart. The crop tolerates a range of soil types but performs best in rich, well-drained loams with partial shade.
-
-Flowering occurs 4–6 months after planting, with cone harvest taking place when bracts are fully green and fluid production is maximal. Full rhizome maturity requires 8–10 months.
-
-The cone fluid is harvested by collecting the liquid that accumulates in the bract axils during the inflorescence's green stage. This fluid is used directly as a natural shampoo or processed into commercial hair care products. Several Hawaiian-made natural shampoos feature awapuhi extract as a primary ingredient.
-
-Culinary applications include using the tender young rhizomes as a substitute for common ginger in Thai and Indonesian soups and curries. The flower bracts are edible and are sometimes added to salads in Southeast Asian cuisine.
-
-In Northeast India, the rhizome is used to prepare a traditional fermented beverage. In Japan, young shoots of cultivated plants are consumed as a seasonal vegetable, particularly in Okinawa where the species has been introduced.
-
-Rhizome yields in cultivation typically range from 10–20 tonnes per hectare. Post-harvest handling involves cleaning, slicing, and either drying in shade or processing into extracts. Dried rhizome powder retains zerumbone content for 12–18 months when stored in airtight containers away from light.
-
-## See Also
-
-- [[zingiber-officinale]] — Common ginger, the most widely cultivated Zingiber species
-- [[alpinia-galanga]] — Greater galangal, used in Southeast Asian cooking and traditional medicine
-- [[boesenbergia-rotunda]] — Fingerroot, a Southeast Asian Zingiberaceae spice
-- [[alpinia-zerumbet]] — Shell ginger, a close relative with ornamental and medicinal uses
-- [[tagetes-lucida]] — Mexican tarragon, an aromatic herb with traditional medicinal applications
-- [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass with economically important essential oil
-- [[eucalyptus-globulus]] — Blue gum eucalyptus, a source of 1,8-cineole with medicinal applications
-- [[lavandula-angustifolia]] — English lavender, an aromatic herb with overlapping topical cosmetic uses
-- [[cinnamomum-verum]] — Ceylon cinnamon, a complementary aromatic spice in traditional medicine

@@ -87,37 +87,3 @@ These values are used for initial orientation only. Actual potency within any sp
 Given the typical psychoactive dose range of 45-315 µg psilocybin per kg body weight (Hasler et al, 2004), a 70 kg person requires 3.15-22.05 mg of pure psilocybin for a threshold-to-strong experience. At 1% potency, this translates to approximately 0.3-2.2g dried mushrooms — a remarkably small amount that underscores the importance of potency optimization.
 
 The standard recreational dose of 1-3.5g dried mushrooms assumes approximately 0.5-0.6% potency for cubensis. Mushrooms grown under Gartz's optimal conditions at 1% potency would be approximately twice as strong per gram, meaning a "standard" 3.5g dose would deliver approximately 35mg psilocybin — approaching the upper end of the recreational range and potentially overwhelming for inexperienced users.
-
-## Short-Term Tolerance
-
-The EMCDDA report noted that short-term tolerance develops rapidly to both physical and psychological effects of psilocybin mushrooms. This means that dosages tend to increase with repeated use within short timeframes, which can be dangerous given the already substantial variability in potency. A 48-72 hour waiting period between sessions is generally recommended to allow tolerance to reset.
-
-The tolerance mechanism involves downregulation of 5-HT2A serotonin receptors in the cerebral cortex — the primary binding site for psilocin. After a single dose, receptor density decreases by approximately 40-50% within 24 hours and takes 3-14 days to fully recover. This pharmacological reality means that redosing during the same session or on consecutive days produces progressively diminished returns, a phenomenon that has led some users to dangerous dose escalation.
-
-## Potency Testing Considerations
-
-For cultivators seeking to verify potency, several analytical methods exist but none are practical for home use:
-
-- **HPLC (High-Performance Liquid Chromatography)**: The gold standard for quantitative psilocybin/psilocin measurement. Requires laboratory equipment and trained personnel. Cost: $100-300 per sample
-- **Thin-layer chromatography (TLC)**: Semi-quantitative and more accessible, but cannot distinguish psilocybin from psilocin reliably. Useful for presence/absence testing only
-- **Bioassay**: Subjective and unreliable due to individual variation, set, and setting effects. Not recommended for any purpose other than personal experience documentation
-
-The lack of accessible potency testing means cultivators must rely on the factors described above to estimate potency. Harvesting young, growing on brown rice substrate, and desiccant drying provide the most reliable potency maximization strategy without laboratory analysis.
-
-## Interactions with Growing Conditions
-
-Beyond substrate composition, several environmental factors during fruiting influence final alkaloid content:
-
-- **Temperature**: Lower fruiting temperatures (18-22°C) are generally associated with higher potency than warmer conditions (25-28°C), though the effect is modest compared to harvest timing
-- **Light exposure**: Adequate light is necessary for normal fruiting but does not directly influence psilocybin content. However, light-stressed mushrooms that develop abnormally may have altered alkaloid profiles
-- **Fresh air exchange**: Proper gas exchange during fruiting supports healthy metabolism and may indirectly promote alkaloid synthesis by preventing the accumulation of CO2, which can cause abnormal morphology
-- **Flush number**: First flush mushrooms are typically the most potent, with subsequent flushes showing gradual decline. This may reflect nutrient depletion in the substrate over successive fruiting cycles
-
-## See Also
-
-- [[pf-tek-guide]]
-- [[psilocin-and-psilocybin-chemistry]]
-- [[psilocybe-cubensis]]
-- [[psilocybe-semilanceata]]
-- [[palmer-mushroom-drying-preservation-methods]]
-- [[field-guide-psilocybin-bluing-reaction-identification]]

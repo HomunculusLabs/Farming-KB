@@ -87,24 +87,3 @@ concentration, creating a confound between cannabinoid effects and soil
 effects on the microbiome.
 
 This confounding means three competing hypotheses remain equally plausible:
-
-1. **Cannabinoid hypothesis**: Cannabinoid production directly or
-   indirectly shapes the endorhiza community through root exudate
-   chemistry or systemic signaling.
-2. **Soil hypothesis**: Soil chemistry independently drives both THC
-   production (through nutrient availability) and microbiome composition,
-   with no causal link between cannabinoids and microbes.
-3. **Genotype hypothesis**: Plant genotype independently determines both
-   cannabinoid profile and microbiome selection, without either directly
-   causing the other.
-
-The authors explicitly acknowledge this confounding, noting that any
-association between microbiota and THC is very hard to disassociate from
-soil physicochemical variables.
-
-## Edaphic Correlation with Cannabinoid Profile
-
-The [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
-
-- [[soil-edaphic-factors-microbial-communities]] for soil chemistry effects
-- [[cannabis-microbiome-research]] for future research directions

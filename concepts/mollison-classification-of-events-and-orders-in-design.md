@@ -2,13 +2,14 @@
 title: mollison classification of events and orders in design and Orders in Design
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - design-methodology
   - pattern-understanding
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -59,7 +60,7 @@ unified system are:
 ## Orders of Magnitude in Social Systems
 
 An array of orders is observed in a wide range of phenomena such as
-human settlement size, numbers in social hierarchies, trophic levels
+human settlement size, numbers in social hierarchies, [[ingham-soil-foodweb-trophic-levels-protozoa-nematodes]]
 (food pyramids), and the size of animals in allied zoological
 families. The size of the factor itself (times 3 for river branches)
 changes with the dimensions of the system (times 10 for trophic
@@ -88,61 +89,6 @@ needed.
 We cannot get a riot of one person, and fewer than 15 rarely clap to
 applaud as an audience. The rules of order should guide us.
 
-## Function Over Status
-
-In human systems, we have confused the order of hierarchical function
-with status and power, as though a tree stem were less important than
-the leaves in total. We have made "higher" mean desirable, as though
-the fingers were less to be desired than the palm of the hand.
-
-What we should recognise is that each part needs the other, and that
-none functions without the others. When we remove a dominant animal
-from a behavioural hierarchy, another is created from lower orders.
-When we remove subordinates, others are created from within the
-dominants. So it is with streams.
-
-Thus, we can see how rivers change their whole regime if we alter one
-aspect. We should also see that water is of the whole, not to be
-thought of in terms of its parts. We refute the concept of status and
-assert that of function. It is not what you are; it is what you do
-in relation to the society you choose to live in.
-
-## Design Implications
-
-This classification framework has direct applications:
-
-- **[[mollison-climate-site-analysis-permaculture]]**: Classify existing site elements by nature, stage,
-  dimension, and location to understand what exists and what is
-  possible.
-
-- **Succession planning**: Use the stage classification (B1-B4) to
-  plan the evolution of systems from potential through maturity to
-  renewal, matching species and structures to each stage.
-
-- **[[cool-climate-settlement-design-mollison]]**: Choose settlement sizes that correspond to
-  stable orders of magnitude, and design infrastructure appropriate
-  to the chosen scale.
-
-- **Element placement**: Use dimension and location classifications
-  to place elements where they function best: linear elements along
-  boundaries, surface elements as [[permaculture-plants-food-forest-ground-covers-bamboos]], three-dimensional
-  elements as trees and structures.
-
-- **System health assessment**: Evaluate whether system components
-  are at appropriate stages of development. Decaying elements (B4)
-  need replacement; potential elements (B1) need activation.
-
-## The Interdependence of Orders
-
-We need each other, and it is a reciprocal need wherever we have a
-function in relation to each other. This principle of functional
-interdependence, drawn from the study of natural orders, is a
-foundation of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] ethics and methodology.
 ## See Also
-
-- [[mollison-fractals-branching-and-conduit-design]]
-- mollison-village-development-design
-- mollison-design-methodology
-- [[permaculture-design]]
 - [[mollison-designers-climate-classification-and-design-zones]]
-- [[mollison-course-swales-and-earthworks-design]]
+- [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]

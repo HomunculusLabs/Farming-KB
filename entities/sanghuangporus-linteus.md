@@ -87,31 +87,3 @@ The Sanghuangporus genus was erected in 2017 to accommodate the "true sanghuang"
 Sanghuangporus vaninii is the most commonly cultivated species in China, frequently misidentified as S. linteus in commercial products. It differs in having smaller pores (6–8 per mm) and a preference for Morus alba. Sanghuangporus baumii is another commercially important species found on Betula in northern China.
 
 Sanghuangporus linteus sensu stricto is distinguished by its tropical distribution, association with diverse hardwood hosts, and molecular phylogenetic placement. DNA barcoding using ITS regions is now the standard method for species identification in commercial products.
-
-## Quality Control and Adulteration
-
-The high market value of sanghuang has led to significant adulteration problems. Commercial products labeled as "Phellinus linteus" or "sanghuang" frequently contain other Sanghuangporus species, Phellinus species, or unrelated polypores.
-
-HPLC fingerprinting and DNA barcoding are the primary analytical methods used to authenticate raw materials and finished products. The concentration of hispolon and specific polysaccharide markers can serve as quality indicators. Standardized extracts with verified polysaccharide content (>30% β-glucans) are preferred for research and clinical applications.
-
-Regulatory frameworks vary by country. In China, sanghuang is classified as both a food and a medicinal substance under the dual-use regulation. In the United States, it is sold as a dietary supplement without FDA approval for therapeutic claims.
-
-## Ecological Role
-
-As a white-rot fungus, S. linteus plays a significant role in forest carbon cycling through the decomposition of lignin and cellulose in dead hardwood. Its slow-growing perennial fruiting bodies provide microhabitats for various invertebrates and microorganisms.
-
-The species contributes to forest health by facilitating nutrient turnover and creating deadwood habitat structures. Its preference for moribund trees suggests it may act as a weak pathogen on stressed hosts, though it is not considered a significant cause of tree mortality.
-
-## See Also
-
-- [[sanghuangporus-vaninii]]
-- [[inonotus-obliquus]]
-- [[ganoderma-lucidum]]
-- [[polyporus-umbellatus]]
-- [[trametes-hirsuta]]
-- [[coriolopsis-polyzona]]
-- [[ganoderma-applanatum]]
-- [[grifola-frondosa]]
-- [[hericium-erinaceus]]
-
-- [[sanghuangporus-cottoneus]]

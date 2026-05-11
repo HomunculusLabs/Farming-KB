@@ -88,33 +88,3 @@ Fallen leaves contribute to soil [[hamilton-composting-and-organic-matter-manage
 ### Challenges
 
 The species can become aggressively weedy in tropical environments, with escaped vines smothering native vegetation.
-
-In some regions, *D. alata* is classified as an invasive species. Careful management and harvest are necessary to prevent unwanted spread.
-
-Some varieties are susceptible to yam anthracnose disease (*Colletotrichum gloeosporioides*), which can cause significant yield losses.
-
-Nematode infestations, particularly by root-knot nematodes (*Meloidogyne* spp.), can also reduce tuber quality and yield.
-
-### Culinary Uses
-
-Winged yam is consumed in a wide variety of preparations across its range. In West Africa, it is boiled, fried, or pounded into fufu and amala.
-
-In Southeast Asia, grated yam is used in cakes, dumplings, and desserts. Purple varieties are prized for their color in sweet dishes and pastries.
-
-The tubers must be cooked before consumption, as raw yam contains oxalate crystals and protease inhibitors that can cause irritation.
-
-Storage of fresh tubers is challenging due to post-harvest sprouting and rot. Traditional storage methods include barns, pits, and chipping followed by sun-drying.
-
-Processed yam products include yam flour, dehydrated yam chips, and instant yam flakes, which extend [[psilocybin-shelf-life-stability]] and market reach.
-
-## See Also
-
-- [[dioscorea-bulbifera]]
-
-- [[pachyrhizus-erosus]]
-- mollison-designers-cassava-tropical-root-crops
-- [[food-forest]]
-- [[dynamic-accumulators]]
-- [[hippophae-rhamnoides-permaculture]]
-
-- [[dioscorea-trifida]]

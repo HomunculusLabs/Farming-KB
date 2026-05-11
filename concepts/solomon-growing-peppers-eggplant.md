@@ -88,10 +88,3 @@ can exclude flea beetles during the vulnerable seedling stage. See
 
 Solomon's approach to [[cannabis-pest-management-guide]] emphasizes prevention through proper
 soil fertility, adequate spacing, and variety selection rather than
-reactive treatments. Healthy plants on fertile soil with sufficient root
-room are remarkably resistant to both [[solomon-insects-and-diseases-integrated-approach]].
-
-## Related Topics
-
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-transplanting-and-hardening-off]]

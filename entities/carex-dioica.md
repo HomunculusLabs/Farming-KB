@@ -15,7 +15,7 @@ sources:
   - Jermy, A.C. et al. (2007). "The Illustrated Field Flora of Britain and Northern Europe." A&C Black.
   - Akeroyd, J.R. & Prest, R. (2011). "Carex L." In: Flora of the British Isles, 4th ed. Cambridge University Press.
   - Netmann, C. (2000). "The Genus Carex in the Nordic Countries." Nordic Journal of Botany, 20(4), 435–456.
-  - Global Biodiversity Information Facility (GBIF). "Carex dioica L." GBIF.org.
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). "Carex dioica L." GBIF.org.
   - Wheeler, B.D. (1980). "Plant Communities of Rich-Fen Systems in England." Vegetatio, 43(1-2), 41–72.
 ---
 
@@ -43,7 +43,7 @@ Stigmas are three. Achenes are small and lenticular. The root system is fibrous 
 
 The dioecious habit is relatively rare in the genus Carex, where most species are monoecious with separate male and female spikes on the same plant. Carex dioica is the type species for this reproductive strategy in the genus.
 
-Population sex ratios are often skewed toward female plants, which may reflect differential mortality or establishment success between genders. Male-only populations have been recorded in isolated sites where seed production is impossible.
+Population sex ratios are often skewed toward female plants, which may reflect differential mortality or establishment success between genders. Male-only populations have been recorded in isolated sites where [[cannabis-controlled-pollination-seed-production]] is impossible.
 
 ## Distribution and Habitat
 
@@ -53,7 +53,7 @@ In the British Isles, it is predominantly a northern and western species, found 
 
 The species is strongly associated with calcareous wetland habitats, including spring-fed fens, flushes on limestone slopes, and damp calcareous grassland. It requires permanently moist, base-rich soils.
 
-It is a characteristic species of the Caricion davallianae alliance, a community type of calcareous spring fens. It frequently grows alongside Carex flacca, Eriophorum latifolium, and Pinguicula vulgaris.
+It is a characteristic species of the Caricion davallianae alliance, a community type of calcareous spring fens. It frequently grows alongside [[carex-flacca]], Eriophorum latifolium, and [[pinguicula-vulgaris]].
 
 Soil pH preference is distinctly calcareous, with optimal growth at pH 6.5 to 8.0. The species is absent from strongly acidic peat bogs and oligotrophic wetlands.
 
@@ -67,7 +67,7 @@ Because male and female flowers occur on separate plants, successful reproductio
 
 Flowering occurs from April through June, with wind pollination. Male spikes release pollen earlier than female stigmas become receptive, promoting outcrossing between individuals.
 
-Seed production is variable between years, with some populations producing abundant seed in favourable seasons and very little in others. Seed viability in soil seed banks is estimated at two to five years.
+[[cannabis-seed-production]] is variable between years, with some populations producing abundant seed in favourable seasons and very little in others. Seed viability in soil [[cannabis-seed-banks-and-genetics]] is estimated at two to five years.
 
 The species supports a specialised invertebrate fauna. Sedge-feeding moth larvae and leaf-mining flies have been recorded on Carex dioica, though the small stature of the plant limits the invertebrate biomass it can support.
 
@@ -79,37 +79,12 @@ In the European Red List, Carex dioica is assessed as Least Concern globally but
 
 ## Cultivation and Uses
 
-Carex dioica is occasionally cultivated in specialist alpine and wetland plant collections. It is not widely available in commercial horticulture due to its diminutive size and specific habitat requirements.
+Carex dioica is occasionally cultivated in specialist alpine and wetland plant collections. It is not widely available in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] due to its diminutive size and specific habitat requirements.
 
 Propagation from seed is possible but slow. Germination rates are low without cold stratification, and seedling growth is extremely slow in the first year. Division of established plants in spring is more reliable.
 
-The species has potential value in ecological restoration of calcareous fen habitats. However, successful establishment requires carefully matched hydrological and soil chemistry conditions.
+The species has potential value in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] of calcareous fen habitats. However, successful establishment requires carefully matched hydrological and soil chemistry conditions.
 
 Traditional uses are essentially absent due to the small stature of the plant. The thin leaves are too short and fine for thatching, basketry, or any practical application.
 
-No pharmacological properties have been documented. The species has no known uses in herbal medicine or any other applied context.
-
-Conservation efforts focus on habitat protection and restoration rather than ex situ cultivation. Maintaining appropriate hydrological regimes in existing sites is the most effective conservation strategy.
-
-## Related Species
-
-Carex dioica is most closely related to Carex recta and Carex capitata within section Vesicariae. It is readily distinguished from most other European Carex species by its dioecious habit and small stature.
-
-Carex flacca frequently co-occurs in calcareous fens but is a much larger, creeping species with glaucous leaves and a non-dioecious inflorescence. Carex flacca is far more common and widespread.
-
-Carex nigra is a common species of acidic wetlands, distinguished by its dark brown-black female spikes and preference for low pH conditions. The two species rarely co-occur due to their contrasting soil requirements.
-
-Carex bigelowii is an arctic-alpine species sharing the diminutive stature of Carex dioica but is monoecious and inhabits acidic, free-draining substrates at high elevations.
-
-## See Also
-
-- [[carex-nigra]]
-- [[carex-flacca]]
-- [[carex-vulpina]]
-- [[carex-riparia]]
-- [[carex-hirta]]
-- [[carex-paniculata]]
-- [[carex-stricta]]
-- [[carex-pilulifera]]
-- [[carex-bigelowii]]
-- [[juncus-effusus]]
+No pharmacological properties have been documented. The species has no known uses in [[childrens-herbal-medicine]] or any other applied context.

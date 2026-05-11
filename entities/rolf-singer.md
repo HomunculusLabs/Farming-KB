@@ -88,34 +88,3 @@ Several genera and numerous species honor Singer's contributions to mycology:
 ## Legacy
 
 Singer's herbarium and type specimens are distributed across major institutions including the Field Museum (F), the Farlow Herbarium (FH) at Harvard, the Herbario Nacional in Buenos Aires, and various European herbaria. His author citation in mycological nomenclature is simply **"Singer"** (standard in Index Fungorum and MycoBank). He single-handedly established the foundation for mycological knowledge in South America and provided the organizational framework upon which all subsequent agaric research was built. His influence persists in every modern [[pcr-methods-fungal-identification-monitoring]] key and [[ghouled-field-guide-historical-context]].
-
-## Key Figures in Singer's Network
-
-- **Franz von Höhnel** — Singer's doctoral advisor at the University of Vienna
-- **Richard Korf** — Cornell mycologist who worked with Singer's classification
-- **Heinrich Dissing** — Danish mycologist who collaborated with Singer on European agarics
-- **Rolf Singer's students** — numerous Latin American mycologists trained during the Argentina period
-
-## Timeline
-
-| Year | Event |
-|------|-------|
-| 1906 | Born June 23, Schneidemühl, German Empire |
-| 1930 | Ph.D., University of Vienna |
-| 1933 | Flees Nazi Germany; moves to Turkey |
-| 1933–1935 | Professor, University of Istanbul |
-| 1935 | Emigrates to the United States |
-| 1935–1940 | Farlow Herbarium, Harvard University |
-| 1940–1947 | USDA, Beltsville, Maryland |
-| 1947 | Moves to Argentina |
-| 1947–1961 | Professor, National University of Tucumán |
-| 1949 | First edition of *The Agaricales in Modern Taxonomy* |
-| 1961 | Curator of Fungi, Field Museum, Chicago |
-| 1975 | Third edition (standard reference worldwide) |
-| 1986 | Fourth and final edition published |
-| 1994 | Died January 18, Chicago, Illinois |
-
-## See Also
-
-- [[amanita-muscaria-entity|Amanita muscaria]]
-- [[psychedelic-mushroom-set-and-setting|Psilocybe semilanceata]]

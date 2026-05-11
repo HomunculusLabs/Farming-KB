@@ -3,6 +3,7 @@ title: Teaming with Fungi - comparison-truffle-cultivation-basics-vs-mushroom-in
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - Teaming with Fungi (Lowenfels)
 type: concept
 tags: [cultivation, fungi]
@@ -87,15 +88,3 @@ The success of truffle cultivation also demonstrates a broader principle: unders
 ## Challenges and Limitations
 
 - **Specificity**: Truffle fungi require specific host trees and soil conditions, limiting cultivation geography
-- **Competition**: Native soil fungi may outcompete inoculated species, especially in non-ideal conditions
-- **Time**: Long production timelines require patient capital
-- **Quality control**: Maintaining the correct fungal strain through years of growth requires monitoring
-- **Climate**: Temperature and rainfall patterns affect both tree growth and fungal fruiting
-
-## See Also
-
-- [[ectomycorrhizal-host-tree-partnerships]]
-- [[ectomycorrhizal-fungal-ecology]]
-- [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
-- [[african-truffle-species]]
-- [[agricultural-chemicals-mycorrhizal-impact]]

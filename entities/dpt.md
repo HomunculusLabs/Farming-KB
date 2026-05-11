@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - tryptamine
+  - [[tryptamine]]
   - hallucinogen
   - entheogen
   - pharmacology
@@ -23,11 +23,11 @@ sources:
 
 ## Overview
 
-DPT (N,N-dipropyltryptamine) is a synthetic psychedelic tryptamine first synthesized by Alexander Shulgin and documented in TIHKAL.
+DPT (N,N-dipropyltryptamine) is a synthetic psychedelic tryptamine first synthesized by [[alexander-shulgin]] and documented in TIHKAL.
 
-It acts as a serotonin 5-HT2A receptor agonist, producing visual and cognitive hallucinogenic effects with a duration of 2–4 hours when insufflated and 4–6 hours when administered intramuscularly.
+It acts as a [[serotonin]] 5-HT2A receptor agonist, producing visual and cognitive hallucinogenic effects with a duration of 2–4 hours when insufflated and 4–6 hours when administered intramuscularly.
 
-DPT occupies a pharmacological niche between the shorter-acting DMT and the longer-acting psilocybin, distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
+DPT occupies a pharmacological niche between the shorter-acting DMT and the longer-acting [[psilocybin]], distinguished by its unique dipropyl substitution pattern on the tryptamine nitrogen.
 
 The compound has been used in [[hofmann-lsd-clinical-research-early-studies]] settings as well as in underground entheogenic and psychospiritual contexts.
 
@@ -53,7 +53,7 @@ DPT's primary mechanism of action is agonism at the 5-HT2A receptor, the princip
 
 It shows moderate affinity for 5-HT1A, 5-HT2B, 5-HT2C, and 5-HT7 receptors, with weaker activity at serotonergic transporters (SERT).
 
-The compound demonstrates full agonist activity at 5-HT2A with efficacy comparable to psilocin and DOI in in vitro assays.
+The compound demonstrates full agonist activity at 5-HT2A with efficacy comparable to [[psilocin]] and DOI in in vitro assays.
 
 [[tihkal-receptor-binding-serotonin]] studies indicate a 5-HT2A Ki in the range of 150–300 nM, placing its potency between that of DMT and psilocin.
 
@@ -87,42 +87,3 @@ Metabolism is believed to proceed via monoamine oxidase (MAO-A) deamination and 
 - **Afterglow:** 1–3 hours of residual mild effects
 
 ## Synthesis
-
-DPT is synthesized via N-alkylation of tryptamine with propyl halide (typically 1-bromopropane or propyl iodide) under basic conditions.
-
-The standard procedure involves reacting tryptamine with excess propyl bromide in the presence of sodium bicarbonate or potassium carbonate in a polar aprotic solvent.
-
-The resulting freebase oil is extracted, purified, and optionally converted to the hydrochloride salt by treatment with hydrochloric acid in anhydrous ether or ethanol.
-
-Yields from the double alkylation typically range from 40–65% after purification.
-
-Purification can be achieved via acid-base extraction followed by recrystallization of the hydrochloride salt from ethanol.
-
-The synthesis is straightforward relative to more complex substituted tryptamines, which contributed to its early exploration in academic research.
-
-## History and Research
-
-DPT was first synthesized in the 1950s during systematic investigations of tryptamine structure-activity relationships.
-
-Alexander Shulgin documented human self-experiments with DPT in TIHKAL (1997), describing it as "a centering, grounding, but somehow evanescent psychedelic."
-
-In the 1970s, psychiatrist Claudio Naranjo conducted clinical sessions using DPT in psychotherapeutic settings, reporting positive outcomes for patients with end-of-life anxiety and substance use disorders.
-
-The [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) funded a small pilot study of DPT-assisted psychotherapy in the 1990s, though results were not widely published.
-
-More recently, DPT has appeared occasionally in forensic and clinical case reports as a novel psychoactive substance, though its prevalence remains low compared to other tryptamines.
-
-## Legal Status
-
-- **[[dmt-containing-plants-united-states-halpern]]:** Unscheduled at the federal level but may be prosecuted under the Federal Analog Act as an analog of DMT
-- **United Kingdom:** Class A under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (covered as a tryptamine derivative)
-- **Germany:** Controlled under the NpSG (New Psychoactive Substances Act)
-- **International:** Not scheduled under the UN Convention on Psychotropic Substances
-
-Legal status varies significantly by jurisdiction and is subject to rapid change.
-
-## See Also
-
-- [[dipt]] — Structural analog with diisopropyl substitution, shorter-acting auditory psychedelic
-- [[bufotenin]] — Endogenous tryptamine with overlapping serotonergic pharmacology
-- [[psilocybin]] — Prodrug of psilocin; longer-acting classical psychedelic

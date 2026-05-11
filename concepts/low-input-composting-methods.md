@@ -87,37 +87,3 @@ The key to successful green manuring is timing the incorporation correctly. Legu
 Solomon addresses humanure — the composting of human excrement — as a potentially significant source of organic matter for the self-sufficient gardener. He notes that humanure has been used safely in agriculture for thousands of years, particularly in Asia, and that properly managed thermophilic composting eliminates pathogens.
 
 The basic process involves combining human waste with carbon-rich cover material (sawdust, straw, leaves) in a dedicated composting system. The compost must achieve and maintain temperatures above 120°F for an extended period to ensure pathogen destruction. Solomon recommends a minimum composting period of one year before garden application, with two years being safer.
-
-While Solomon presents humanure as a legitimate option, he acknowledges the social and regulatory barriers. Many jurisdictions prohibit the use of humanure in home gardens, and the practice requires careful management to avoid health risks.
-
-## Compost Application Rates
-
-Solomon provides practical guidance on how much compost to apply:
-
-- **Minimum maintenance rate:** 0.5 inches annually (approximately 1.5 cubic yards per 1,000 square feet)
-- **Moderate improvement rate:** 1–2 inches annually
-- **Rapid soil building rate:** 3–4 inches annually (requires significant compost production capacity)
-
-For gardeners producing their own compost, the application rate is ultimately determined by production capacity rather than soil needs. Solomon recommends applying whatever quantity can be produced and concentrating it on the most productive garden areas rather than spreading it thin across a larger area.
-
-## Troubleshooting Common Problems
-
-### Pile Won't Decompose
-
-Usually caused by insufficient moisture, excess carbon, or material that is too coarse. Solution: add water, mix in green materials, and break up or remove large woody pieces.
-
-### Foul Odors
-
-Usually caused by excess nitrogen, anaerobic conditions, or compaction. Solution: add brown materials, turn the pile to introduce air, and avoid overwatering.
-
-### Pests (Rats, Flies)
-
-Usually caused by including meat, dairy, or oily food scraps. Solution: restrict the pile to plant materials and use a covered bin or wire enclosure.
-
-## See Also
-
-- [[intensive-vegetable-spacing-systems]]
-- [[drought-resistant-gardening-techniques]]
-- [[actively-aerated-compost-tea-aact-brewing]]
-- [[steve-solomon]]
-- [[soil-foodweb-biology]]

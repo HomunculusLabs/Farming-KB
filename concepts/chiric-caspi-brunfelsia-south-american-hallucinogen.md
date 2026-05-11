@@ -1,5 +1,5 @@
 ---
-title: Chiric-Caspi - chiric caspi brunfelsia [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] hallucinogen American Hallucinogen
+title: Chiric Caspi Brunfelsia South American Hallucinogen
 created: 2026-04-28
 tags: [ethnobotany, solanaceae, colombia, ecuador, peru, brazil,
   hallucinogenic-plants, schultes, jivaro, kofan]
@@ -45,7 +45,7 @@ The application of the name "borrachero" to Brunfelsia is significant
 because this term is widely used throughout South America to designate
 plants of the nightshade family (Solanaceae) that produce intoxicating
 effects. The name derives from the Spanish "borracho" (drunk) and refers
-to the state of intoxication produced by these plants. Tree daturas
+to the state of intoxication produced by these plants. [[tree-daturas-brugmansia-south-american-ethnobotany]]
 (Brugmansia species), Iochroma, and Methysticodendron are all known by
 variants of the name borrachero in different regions.
 
@@ -72,7 +72,7 @@ tree-like growth form.
 
 The use of the bitter taste as a distinguishing characteristic in the
 indigenous name is noteworthy, as bitterness is widely associated with
-medicinal and psychoactive potency in South American indigenous
+medicinal and psychoactive potency in [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]] indigenous
 pharmacopeia. Many psychoactive plants used in the region are noted for
 their intensely bitter flavor, including ayahuasca, which is described as
 "intensely bitter and nauseating."
@@ -88,44 +88,3 @@ of many Solanaceous plants in South American traditional medicine.
 
 The medicinal applications of Brunfelsia may be related to the same
 compounds responsible for its psychoactive effects, or they may involve
-entirely different [[guzman-magic-mushrooms-chemical-constituents]]. Many plants that are psychoactive
-at higher doses have useful ginseng cultivation and medicinal properties at lower doses, a
-phenomenon that is well-documented across the ethnopharmacological
-literature.
-
-## Chemistry: Still Undetermined
-
-Chemical investigation of the active compounds in Brunfelsia species is
-still in the initial stage, and what the active principles may be has not
-yet been determined according to Schultes' account. This is a significant
-gap in knowledge given the widespread use of these plants as hallucinogens
-and medicines across multiple [[guzman-allen-gartz-sacred-puffballs-gasteromycetes-indigenous-cultures]]. The absence of
-identified psychoactive compounds means that the mechanism of action,
-toxicity profile, and pharmacological classification of Brunfelsia's
-psychoactive effects all remain unknown.
-
-## Botanical Classification
-
-The genus Brunfelsia comprises approximately 40 species of shrubs native to
-tropical South America and the West Indies. It belongs to the nightshade
-family, Solanaceae, which is well recognized for its toxic and
-hallucinogenic principles. The Solanaceae is one of the most important
-families of psychoactive plants, including Datura, Brugmansia, Atropa,
-Hyoscyamus, Mandragora, Nicotiana, and Capsicum, among many others.
-
-## Cultural Significance
-
-The special care taken in the cultivation of Brunfelsia by indigenous
-peoples suggests a former religious or magical role in tribal life that may
-have diminished but not entirely disappeared. The deliberate cultivation of
-a psychoactive plant, as opposed to simple gathering from wild populations,
-indicates a long-standing cultural relationship with the species and a
-recognition of its value that extends beyond casual or opportunistic use.
-
-## See Also
-
-- [[brunfelsia-americana]]
-
-- [[culebra-borrachera-methysticodendron-amesianum]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]
-- [[golden-guide-hallucinogenic-plants-overview]]

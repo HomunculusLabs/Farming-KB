@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates for mushroom cultivation. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality. (see [[grain-spawn-preparation]]).
+Spawn is the mycelium-rich material used to inoculate bulk substrates [[grass-seed-substrate-for-mushroom-cultivation]]. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality.
 
 ## Types of Spawn
 
@@ -76,10 +76,10 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 ## Strain Selection for Oyster Mushrooms
 
 ### Common Cultivated Species
-- **Pleurotus ostreatus** (Pearl oyster): Most common, versatile, 55-75°F
-- **Pleurotus pulmonarius** (Phoenix oyster): Similar but warmer, 65-85°F
-- **Pleurotus eryngii** (King oyster): Large, thick stems, 55-65°F
-- **Pleurotus citrinopileatus** (Golden oyster): Yellow, tropical, 70-85°F
+- **[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]** (Pearl oyster): Most common, versatile, 55-75°F
+- **[[pleurotus-pulmonarius]]** (Phoenix oyster): Similar but warmer, 65-85°F
+- **[[pleurotus-eryngii]]** (King oyster): Large, thick stems, 55-65°F
+- **[[pleurotus-citrinopileatus]]** (Golden oyster): Yellow, tropical, 70-85°F
 - **Pleurotus djamor** (Pink oyster): Tropical, 70-90°F, very fast
 
 ### Sourcing Strains
@@ -98,3 +98,27 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for mushro
 - [[oyster-mushroom-substrate-preparation]] — for substrate preparation
 - [[mushroom-cultivation-grain-spawn]] — for detailed grain spawn protocols
 - [[mushroom-cultivation-sterile-technique]] — for cleanliness requirements
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

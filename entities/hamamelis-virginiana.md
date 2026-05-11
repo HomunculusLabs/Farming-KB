@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Deters, A. et al. (2001). \"Hamamelis virginiana bark extract.\" Planta Medica, 67(8), 707-713."
   - "Rauwald, H.W. et al. (1991). \"Tannins and related polyphenols from Hamamelis bark.\" Planta Medica, 57(2), 154-158."
-  - "Foster, S. & Duke, J.A. (2014). Peterson ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin Harcourt."
   - "Erdelmeier, C.A.J. et al. (1996). \"Anti-inflammatory activity of Hamamelis distillate.\" Skin Pharmacology, 9(4), 246-250."
 ---
 
@@ -28,7 +28,7 @@ among the most widely used botanicals in commercial skincare and
 topical therapeutics, valued for its astringent, anti-inflammatory,
 and antioxidant properties. Witch hazel hydrosol (distillate) is one
 of the few botanical products that remains a standard ingredient in
-both conventional dermatology and traditional herbal medicine.
+both conventional dermatology and traditional [[childrens-herbal-medicine]].
 
 ## Taxonomy
 
@@ -68,7 +68,7 @@ several meters.
 
 ## Distribution and Habitat
 
-Native to eastern North America, from Nova Scotia west to Minnesota,
+Native to eastern [[guzman-psilocybin-mushrooms-north-america]], from Nova Scotia west to Minnesota,
 south to eastern Texas and northern Florida.
 
 Found in understory of deciduous forests, woodland margins, stream
@@ -86,48 +86,5 @@ The primary bioactive constituents are tannins (5–10% in bark):
 - **Gallotannins** — hydrolyzable tannins contributing to astringency
 - **Proanthocyanidins** — oligomeric polyphenols with antioxidant
   and anti-inflammatory activity
-- **Flavonoids** — quercetin, kaempferol, and their glycosides
+- **Flavonoids** — [[quercetin]], [[kaempferol]], and their glycosides
 - **Volatile oils** — trace amounts contributing to the characteristic
-  fragrance
-
-## Pharmacology and Uses
-
-**Astringent activity:** Tannins precipitate proteins on mucosal
-surfaces, forming a protective barrier. This underlies the
-traditional use for hemorrhoids, minor wounds, and skin irritation.
-
-**Anti-inflammatory:** In vitro studies demonstrate inhibition of
-elastase, COX-2, and 5-LOX enzymes. Topical application reduces
-erythema and edema in clinical models of UV-induced skin damage.
-
-**Antioxidant:** Hamamelitannin and proanthocyanidins show significant
-free radical scavenging activity (IC₅₀ values comparable to vitamin C
-for DPPH assay).
-
-**Common preparations:**
-- Witch hazel hydrosol (steam-distilled) — 14% alcohol in commercial
-  products, used as aftershave, skin toner, and topical anti-irritant
-- Bark decoctions and tinctures — stronger preparations for
-  hemorrhoidal and varicose vein applications
-- Leaf extracts — milder astringency, used in cosmetic formulations
-
-**Traditional use:** [[halpern-sacramental-peyote-and-native-american-church]] tribes (Ozark, Cherokee,
-Potawatomi) used poultices of bark and leaves for burns, swellings,
-infections, and tumors. Settlers adopted these uses extensively.
-
-## Cultivation
-
-Propagation by seed (requires 2–3 months cold stratification),
-softwood cuttings, or suckering divisions. Slow-growing initially
-but long-lived (50+ years).
-
-Prefers consistent moisture but tolerates drought once established.
-Minimal pruning required; remove dead wood in [[coleman-overwintered-onions-and-early-spring-crops]].
-Commercial cultivation for hydrosol production occurs primarily in
-New England and the Appalachian region.
-
-## See Also
-
-- [[urtica-dioica]] — Nettle, traditional companion for [[cannabis-for-skin-conditions-detailed]]
-- [[salvia-officinalis]] — Sage, another astringent aromatic native
-- [[hypericum-perforatum]] — St. John's wort, herbal anti-inflammatory

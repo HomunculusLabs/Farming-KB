@@ -6,6 +6,7 @@ type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Mushroom Logs, Mycorrhizae and Fungi Cultivation
@@ -87,62 +88,3 @@ All of the following grow on hardwood at the Krameterhof. Fruiting begins at 10C
 ### Substrate Preparation
 
 - Use only organic straw (conventional straw may contain herbicides, fungicides, and [[ingham-natural-growth-regulators-soil-microbes]])
-- Straw should be golden yellow, no mould spots or dark areas, no musty smell
-- Small compressed bales are easiest to handle when wet
-- Soak bales fully in water for several days -- this also begins slight fermentation, aiding mycelial colonisation
-- Drain for a day before inoculation
-
-### Inoculation and Maintenance
-
-- Make 8-10 holes per bale reaching the middle, fill with spawn
-- Or push plug/dowel spawn evenly into the bale
-- Position in shaded area
-- Optimal mycelial growth temperature: just over 20C
-- Spring/early summer inoculation yields in approximately 3 months
-- Autumn inoculation yields the following spring
-- Life span: 1-2 years, after which exhausted bales become mulch or organic fertiliser
-- Mycelium can be transferred from colonised bales to fresh ones by brief contact, eliminating need to purchase new spawn
-
-### The Sustainable Cycle
-
-Holzer describes a complete cycle: cereal crop (maize with beans/peas) produces straw, straw is used for mushroom cultivation, exhausted straw becomes mulch for garden beds where seeds germinate through the mulch layer, and the cycle begins again.
-
-## Cultivating Wild Mushrooms (Mycorrhizal Species)
-
-### Species and Symbiotic Partners
-
-- Ceps (Boletus edulis) -- symbiotic with spruce (Picea abies) and other forest trees
-- Chanterelles (Cantharellus cibarius) -- symbiotic with spruce and mixed forest trees
-- Birch boletes (Leccinum scabrum) -- symbiotic with birch (Betula sp.)
-
-### Cultivation Method
-
-Mixed forest is essential for wild mushroom cultivation because:
-- Mixed forests are more stable than monocultures
-- Humus composition is better in mixed stands
-- Pine needles alone acidify soil; mixed leaf litter creates balanced humus
-- Water balance is better in mixed forests
-
-Birch bolete cultivation procedure:
-1. Create the correct environment (e.g., plant young birch trees on a terrace)
-2. Prepare substrate mixture: forest soil and sawdust soaked in liquid manure from different symbiotic plants
-3. Spread substrate around existing birch bolete fruiting bodies during the growing season
-4. Check for fine white mycelial threads after the season
-5. Introduce colonised substrate at different depths around young birch trees or living birch stumps
-6. Fruiting bodies may appear as soon as the following year
-
-Spore distribution method:
-1. Collect ripe fruiting bodies with mature spores
-2. Place in loose-weave bag (jute or onion bag)
-3. Hang in well-ventilated area to dry
-4. Walk around the target area, striking the bag lightly with a stick to distribute spores
-5. Or hang the bag on a wide-branched spruce in an elevated location for natural distribution
-
-## Pest Protection
-
-[[query-how-to-get-rid-of-slugs-and-snails-organically]] (especially the non-indigenous Spanish slug, Arion vulgaris) are the main pest of mushroom cultures. Holzer's integrated approach:
-- Pigs, ducks, and toads naturally reduce slug populations
-- Protective ring barrier: mixture of wood ash, sawdust, and slaked lime, kept dry
-## See Also
-
-- [[pleurotoid-mushroom-morphology-gilled-fungi]]

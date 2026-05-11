@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # HOT-7
 
-PIHKAL entry #88. 2,5-DIMETHOXY-N-HYDROXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #88. 2,5-DIMETHOXY-N-HYDROXY-4-(n)-PROPYLTHIOPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -88,28 +88,7 @@ and treated with 1.5 mL of 10 M borane-dimethyl sulfide complex. This
 was followed by the addition of 0.2 g sodium borohydride, and the
 stirring was continued at room temperature for a week. The volatiles
 were removed under vacuum, and the residue was treated with 20 mL
-dilute HCl and heated on the [[scythian-cannabis-steam-bath-ritual]] for 30 min. The cooled yellow
-solution set up as solids. The addition of H2O was followed by
-sufficient K2CO3 to make the aqueous phase basic. All efforts to work
-with an acidified aqueous phase resulted in terrible emulsions. The
-basic phase was extracted with 3x75 mL CH2Cl2, and the pooled extracts
-washed with H2O, then stripped of solvent under vacuum. The residual
-yellow oil was dissolved in 20 mL IPA, neutralized with 15 drops of
-concentrated HCl, and then diluted with 50 mL anhydrous Et2O. After a
-few minutes stirring, a white crystalline solid separated. This was
-removed by filtration, washed with Et2O, and air dried to constant
-weight to provide 0.83 g of
-2,5-dimethoxy-N-hydroxy-4-(n)-propylthiophenethylamine hydrochloride
-(HOT-7).
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[pihkal-introduction-and-methodology]]
-
-- [[hot-17-entity-pihkal]]
-
-- PIHKAL (the source book)
 
 ## See Also
-
-- [[tma-5-entity-pihkal]]
+- [[methyl-j-entity-pihkal]]
+- [[5-toet-entity-pihkal]]

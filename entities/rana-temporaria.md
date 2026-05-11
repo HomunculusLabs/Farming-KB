@@ -7,7 +7,7 @@ tags:
   - anura
   - raniidae
   - europe
-  - wetland-ecology
+  - [[wetland-ecology]]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
@@ -25,7 +25,7 @@ Adults typically measure 6–9 cm in snout-vent length, with females slightly la
 
 Common frogs are semiaquatic, spending much of their active season in or near freshwater habitats. They play an important ecological role as both predators of invertebrates and prey for a variety of birds, mammals, and reptiles.
 
-The species is culturally significant across its range and serves as a model organism in developmental biology and physiology research.
+The species is culturally significant across its range and serves as a [[canary-grass-phototropism-model-organism]] in developmental biology and physiology research.
 
 Common frogs are among the first amphibians to breed in spring, often beginning while ice still partially covers breeding ponds. This early breeding strategy gives their tadpoles a head start before newt and dragonfly predators become active.
 
@@ -88,33 +88,3 @@ In captivity, common frogs have been documented living up to 12 years, though wi
 Common frogs are preyed upon by herons, owls, grass snakes, and various mammalian predators. Their primary defense is rapid leaping, supplemented by skin secretions that are mildly distasteful.
 
 Tadpoles are primarily herbivorous, feeding on algae and aquatic vegetation. As development progresses, they become increasingly omnivorous, consuming small invertebrates and detritus.
-
-Adults are largely nocturnal during summer months to avoid desiccation. During wet weather, they may be active diurnally, especially in cooler months.
-
-## Conservation Status
-
-**Rana temporaria** is classified as **Least Concern** by the IUCN Red List, reflecting its wide distribution and large global population.
-
-However, localized declines have been documented in several countries, particularly in intensively agricultural and urbanized landscapes. The species faces threats from habitat loss, pond infilling, and disease.
-
-Chytridiomycosis, caused by the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] *Batrachochytrium dendrobatidis*, has been detected in common frog populations. Infection rates vary geographically, with some populations showing significant mortality.
-
-Introduced predators, particularly game fish stocked in breeding ponds, can decimate local tadpole populations. The American bullfrog (*Lithobates catesbeianus*) competes with and preys upon common frogs where it has been introduced in continental Europe.
-
-Road mortality during spring migrations to breeding ponds is a significant conservation concern in many areas. Wildlife tunnels and drift fencing have been installed in some regions to reduce roadkill.
-
-Pond creation and restoration programs in the UK and other European countries have benefited local populations. Garden ponds provide important supplementary breeding habitat in urban and suburban landscapes.
-
-Common frogs serve as bioindicators of environmental health, reflecting the condition of both aquatic and terrestrial ecosystems. Their permeable skin makes them sensitive to pollutants, agricultural chemicals, and changes in water quality.
-
-## See Also
-
-- [[amanita-phalloides]]
-- [[bufotenin]]
-- [[claviceps-purpurea]]
-- [[fungal-conservation-endangered-species]]
-- [[fungal-ecosystem-indicator-species]]
-- [[fungal-responses-climate-change]]
-- [[gaias-garden-backyard-wetland]]
-- [[permaculture-polyculture-fish-pond]]
-- [[psilocybin]]

@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Salix caprea**, commonly known as goat willow or pussy willow, is a small deciduous tree or large shrub in the family Salicaceae native to Europe and western Asia. It is one of the most widely recognized willow species due to its distinctive fuzzy catkins that appear in early spring.
+**Salix caprea**, commonly known as goat willow or pussy willow, is a small deciduous tree or large shrub in the family Salicaceae native to Europe and western Asia. It is one of the most widely recognized willow species due to its distinctive fuzzy catkins that appear in [[coleman-overwintered-onions-and-early-spring-crops]].
 
 The species typically grows 5–12 meters tall with a broad, rounded crown and stout branches. It is among the first trees to flower in late winter and early spring, making it a critical resource for early-emerging pollinators.
 
@@ -58,7 +58,7 @@ The species occurs in a wider range of habitats than most willows, including dec
 
 Goat willow is a pioneer species that colonizes open ground, abandoned fields, and post-fire sites. It tolerates both acidic and calcareous soils and grows from sea level to subalpine elevations.
 
-The species has been widely introduced in North America, particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and eastern Canada. It has naturalized locally but is less invasive than some other introduced *Salix* species.
+The species has been widely introduced in [[guzman-psilocybin-mushrooms-north-america]], particularly in the northeastern [[dmt-containing-plants-united-states-halpern]] and eastern Canada. It has naturalized locally but is less invasive than some other introduced *Salix* species.
 
 Optimal growth occurs in USDA hardiness zones 4–8. The species is cold-hardy to −35°C and tolerates exposed, windy sites better than most willows, making it a common component of upland hedgerows.
 
@@ -68,11 +68,11 @@ Goat willow is primarily valued as an ornamental garden plant for its early spri
 
 The species is easily propagated from hardwood cuttings or seed. It establishes quickly on a range of soil types and requires minimal maintenance once established. Coppicing on a 3–5 year cycle maintains a compact, bushy form.
 
-In agroforestry and ecological restoration, goat willow is planted for pollinator habitat creation. Its early catkins provide critical food for bumblebee queens emerging from hibernation when few other floral resources are available.
+In agroforestry and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], goat willow is planted for [[pollinator-habitat]] creation. Its early catkins provide critical food for bumblebee queens emerging from hibernation when few other floral resources are available.
 
 The wood is soft and light (density ~450 kg/m³) with limited commercial value. It has been used for tool handles, crates, and charcoal, but is generally considered inferior to other willow species for basketry or timber.
 
-Traditional uses include making besoms (brooms) from bundled twigs and using the bark for tanning leather. The species was historically planted as a fodder tree for livestock in European agricultural landscapes.
+Traditional uses include making besoms (brooms) from bundled twigs and using the bark for tanning leather. The species was historically planted as a [[permplant-tagasaste-pioneer-fodder-tree]] for livestock in European agricultural landscapes.
 
 ## Bioactive Compounds
 
@@ -86,29 +86,4 @@ The silvery hairs on catkin scales contain waxy compounds that may protect devel
 
 ## Ecological Role
 
-Goat willow is one of the most ecologically important early-spring flowering trees in temperate Europe. Its catkins provide essential pollen and nectar for bumblebees, solitary bees, honeybees, and early butterflies.
-
-The species is the primary larval host for several specialist Lepidoptera including the puss moth (*Cerura vinula*), the herald moth (*Scoliopteryx libatrix*), and the sallow moth (*Xanthia citrago*). Caterpillar diversity on *S. caprea* is exceptionally high.
-
-The broad, hairy leaves support diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]], with over 100 species of leaf-associated fungi recorded. These decomposer communities contribute significantly to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in mixed woodlands.
-
-Birds use goat willow for nesting and foraging. The catkins attract insects that in turn feed insectivorous birds during the critical early breeding season. The open, branching habit provides songbird perches.
-
-The root system is less aggressive than those of riparian willows, making goat willow suitable for planting near buildings and paved areas. It is widely used in native hedgerow restoration across northern Europe.
-
-Goat willow serves as a nurse tree in natural woodland succession, providing shade and shelter for slower-growing climax species such as oak and beech. Its canopy moderates light conditions for understory establishment.
-
-Deer and rabbits browse young shoots and bark, which can limit establishment in unfenced areas. The species recovers well from browsing through vigorous basal resprouting.
-
-## See Also
-
-- [[cap-junkie]]
-
-- [[salix-babylonica]]
-- [[salix-purpurea]]
-- [[populus-tremuloides]]
-- [[betula-papyrifera]]
-- [[acer-saccharum]]
-- [[ulmus-americana]]
-- [[quercus-rubra]]
-- [[fagus-grandifolia]]
+Goat willow is one of the most ecologically important early-spring flowering trees in temperate Europe. Its catkins provide essential pollen and nectar for bumblebees, [[comparison-honey-bees-vs-native-solitary-bees]], honeybees, and early butterflies.

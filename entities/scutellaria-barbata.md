@@ -14,7 +14,7 @@ sources:
   - Wang, X. et al. (2018). "Anticancer activities of Scutellaria barbata extracts." Journal of Ethnopharmacology, 221, 17-29.
   - Zhou, L. et al. (2020). "Scutellarin from Scutellaria barbata: pharmacological effects and mechanisms." Phytomedicine, 67, 153161.
   - Chinese Pharmacopoeia Commission (2020). Pharmacopoeia of the People's Republic of China, Vol. I.
-  - Wu, W. et al. (2021). "Chemical constituents and bioactivities of Scutellaria barbata." Frontiers in Pharmacology, 12, 643821.
+  - Wu, W. et al. (2021). "[[guzman-magic-mushrooms-chemical-constituents]] and bioactivities of Scutellaria barbata." Frontiers in Pharmacology, 12, 643821.
 ---
 
 ## Overview
@@ -50,13 +50,13 @@ The species prefers moist, open habitats including stream banks, ditches, rice p
 
 It thrives in loamy to sandy soils with consistent moisture but can tolerate brief periods of inundation. Partial shade to full sun is acceptable, though flowering is most prolific in open conditions.
 
-The species exhibits moderate frost tolerance and can persist as a perennial in subtropical climates. In temperate regions it may behave as an annual, completing its lifecycle within a single growing season.
+The species exhibits moderate frost tolerance and can persist as a perennial in [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. In [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] it may behave as an annual, completing its lifecycle within a single [[extending-growing-season]].
 
 The plant is collected from the wild in most of its range.
 
 ## Bioactive Compounds
 
-The aerial parts of Scutellaria barbata contain a diverse array of secondary metabolites. The most pharmacologically significant are flavonoids, diterpenoids, and phenolic acid derivatives.
+The aerial parts of Scutellaria barbata contain a diverse array of [[antifungal-secondary-metabolites-coprophilous-fungi]]. The most pharmacologically significant are flavonoids, diterpenoids, and phenolic acid derivatives.
 
 **Major flavonoids** include scutellarin, apigenin, luteolin, baicalin, and wogonin. Scutellarin is considered the signature compound and primary bioactive marker for quality control.
 
@@ -82,39 +82,8 @@ Scutellarin has been shown to inhibit NF-κB signaling, reduce COX-2 expression,
 
 In vivo studies in mouse xenograft models demonstrate significant tumor growth inhibition with oral or intraperitoneal administration of extracts. Combination therapies with standard chemotherapy drugs show synergistic effects.
 
-Clinical observations in Chinese hospitals report improved quality of life scores in cancer patients receiving Scutellaria barbata as an adjunct to conventional treatment. Controlled trials remain limited, though several phase II studies are ongoing.
+Clinical observations in Chinese hospitals report improved quality of life scores in [[cannabis-for-cancer-patients]] receiving Scutellaria barbata as an adjunct to conventional treatment. Controlled trials remain limited, though several phase II studies are ongoing.
 
 **Anti-inflammatory activity** involves suppression of pro-inflammatory cytokines including TNF-α, IL-1β, and IL-6. Extracts inhibit COX-2 and iNOS expression in LPS-stimulated macrophages.
 
 **Hepatoprotective effects** include reduction of liver fibrosis markers, inhibition of hepatic stellate cell activation, and protection against acetaminophen-induced liver injury in animal models.
-
-Antioxidant activity is mediated primarily through flavonoid and phenolic acid content. DPPH and ABTS radical scavenging assays show significant dose-dependent activity.
-
-Neuroprotective effects of scutellarin have been documented in models of cerebral ischemia and Alzheimer's disease. The compound reduces neuronal apoptosis and improves cognitive function in rodent studies.
-
-## Traditional Medicine
-
-In Traditional Chinese Medicine, Scutellaria barbata (banzhi cao) is classified as cold in nature and bitter in taste. It enters the Lung, Liver, and Kidney meridians according to classical categorization.
-
-The primary TCM indications include clearing heat, resolving toxicity, promoting urination, and reducing swelling. It is traditionally used for sore throat, snake bites, carbuncles, and urinary tract infections.
-
-Modern TCM clinical practice emphasizes its role in cancer treatment protocols. It is a core ingredient in numerous anticancer formulas, often combined with [[salvia-miltiorrhiza]] and [[prunella-vulgaris]].
-
-Typical daily dosage in decoction ranges from 15–30 g of dried herb. It is considered relatively safe with low toxicity, though high doses may cause gastrointestinal discomfort.
-
-The herb is also used in folk medicine across Korea and Japan for similar indications. In Korean medicine (Hanyak), it is called banjicho and prescribed for edema, jaundice, and inflammatory skin conditions.
-
-The herb is included in the Chinese Pharmacopoeia as an official monograph drug.
-
-## See Also
-
-- [[scutellaria-baicalensis]] — Related medicinal Scutellaria species (Huang Qin)
-- [[scutellaria-lateriflora]] — North American skullcap with anxiolytic properties
-- [[salvia-miltiorrhiza]] — Danshen, frequently combined in TCM anticancer formulas
-- [[prunella-vulgaris]] — Self-heal, common companion herb in TCM formulations
-- [[leonurus-japonicus]] — Chinese motherwort, sharing Lamiaceae pharmacology
-- [[perilla-frutescens]] — Perilla, another Lamiaceae herb used in East Asian medicine
-- [[apigenin]] — Flavonoid present in Scutellaria barbata
-- [[luteolin]] — Bioactive flavonoid found in the species
-- [[andrographis-paniculata]] — Kalmegh, sharing anti-inflammatory and anticancer applications
-- [[glycyrrhiza-uralensis]] — Chinese licorice, harmonizing herb in TCM formulas

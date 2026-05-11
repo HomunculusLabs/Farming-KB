@@ -5,6 +5,7 @@ tags: [tropical, home-garden, polyculture, zone-one, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,9 +88,3 @@ borders or windbreaks. A thick mulch almost totally eradicates
 kikuyu grass and other persistent grasses. There is absolutely
 no excuse for burning any organic wastes in the tropics, as
 even large logs quickly rot under the onslaught of fungi,
-termites, and beetle larvae.
-
-## See Also
-
-- [[mollison-designers-coconut-palm-dominant-polyculture]]
-- [[mollison-domestic-small-animals-zone-one]]

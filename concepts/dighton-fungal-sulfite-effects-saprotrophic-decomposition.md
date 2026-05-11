@@ -19,7 +19,7 @@ type: concept
 Sulfur dioxide (SO2) and its solubility products are toxic to fungi at
 environmentally realistic concentrations. The effects of sulfur-containing
 pollutants on saprotrophic fungal activity influence litter decomposition
-rates, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and organic matter turnover in forest ecosystems.
+rates, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[hamilton-composting-and-organic-matter-management]] turnover in forest ecosystems.
 Sulfite, the primary toxic solubility product of SO2, suppresses mycelial
 growth, respiration, and spore germination, with species-specific
 differential sensitivity that can alter fungal [[core-endorhiza-bacterial-community-composition-cannabis]].
@@ -41,7 +41,7 @@ the toxicity of acidifying deposition varies with soil conditions.
 Dursun et al. (1996a) and Boddy et al. (1996) showed that sulfite at
 environmentally realistic levels of 12.5 to 100 micromolar had negative
 effects on the growth of mycelia and germination of spores of Mycena
-galopus, Phoma exigua, Cladosporium cladosporioides, and Aureobasidium
+galopus, Phoma exigua, [[cladosporium-cladosporioides]], and Aureobasidium
 pullulans. The effects of sulfite were greatest on mycelia in terms
 of both growth and respiration, but spores were found to be more
 resistant to sulfites. This differential sensitivity between mycelia
@@ -53,18 +53,18 @@ while maintaining the inoculum potential for future colonization.
 Dursun et al. (1996b) showed that 40 nanoliters per liter SO2 had
 differential effects on the respiration of different fungal species
 and this effect differed between leaf litter species. Although SO2
-reduced respiration of Mycena galopus on leaf litters, this reduction
+reduced respiration of [[mycena-galopus]] on leaf litters, this reduction
 was only statistically significant for Sitka spruce and after 10
 weeks for hazel. There was effectively little reduction in respiration
 on Scots pine and ash. The greatest effect of SO2 was on Sitka spruce
 litter decomposition, where respiration was reduced by over one-half.
 Respiration of Phoma exigua, Cladosporium cladosporioides, and
-Aureobasidium pullulans was unaffected by this concentration of SO2.
+[[aureobasidium-pullulans]] was unaffected by this concentration of SO2.
 
 ## Community Composition Shifts
 
 Newsham et al. (1992a,b) investigated SO2 fumigation at 10 to 30
-nanoliters per liter on saprotrophic fungal community structure on
+nanoliters per liter on saprotrophic fungal [[edaphic-determinants-cannabis-microbiome-community-structure]] on
 ash, birch, hazel, oak, and sycamore leaf litters. Cladosporium spp.,
 Epicoccum nigrum, Fusarium spp., and Phoma exigua were less common
 in fumigated litters, whereas Coniothyrium quercinum, Cylindrocarpon
@@ -82,40 +82,9 @@ but the resultant community resembled deciduous woodland fungi more
 than coniferous woodland fungi. Species including Amphinema byssoides,
 Hyphodontia breviseta, Hypochnicium geogenium, and Sitotrema
 octosporum increased, while Trechyspora farinacea decreased. The
-elevated pH increased nitrogen availability and stimulated
+elevated pH increased [[nitrogen-availability-in-legumes]] and stimulated
 decomposition of high C:N ratio woody material.
 
 ## Acid Mist Stimulation of Fungal Activity
 
 Shaw (1996) showed in experimental mesocosms exposed to ozone and
-acid mist (2:1 mixture of H2SO4:HNO3) that [[isolation-metabolically-active-arbuscules-intraradical-hyphae]]
-fungal hyphae in two leaf litters were significantly greater in
-acid-misted than control systems. This stimulation may be attributable
-to the addition of nitrogen, which would help decompose high C:N
-litter resources. This paradoxical stimulation contrasts with the
-negative effects of sulfite and SO2, highlighting the complexity of
-pollutant [[brassinosteroid-effects-on-fungal-morphology]] communities.
-
-## Decomposition Rate Impacts
-
-Reduction in litter decomposition has been shown to result from sulfur
-dioxide fumigation in studies by Prescott and Parkinson (1985) and
-Wookey and Ineson (1991a,b). Evidence from Wookey et al. (1991) and
-Newsham et al. (1992a,b) showed that community composition can be
-altered and decomposition potential of fungal communities in soil
-reduced in the presence of SO2 and acid precipitation. Given the
-varied responses of different fungi, differential responses on
-different leaf litters, and effects of combined pollutants, generalized
-statements about negative impacts on fungal decomposition are difficult.
-
-## See Also
-
-- [[fungal-vaccines]]
-
-- [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]]
-- [[acidophilic-alkalophilic-fungi]]
-
-## Sources
-
-- Dighton, J. (2003). Fungi in [[fungal-ecosystem-processes-overview]]. Marcel Dekker.
-  Chapter 6: Fungal Interactions with Humans.

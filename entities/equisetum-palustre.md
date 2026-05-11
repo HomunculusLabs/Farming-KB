@@ -14,12 +14,12 @@ sources:
   - Hauke, R.L. (1993). "Equisetaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
   - Page, C.N. (1972). "An assessment of inter-specific relationships in Equisetum subgenus Equisetum." New Phytologist, 71(2), 355-369.
   - Frohne, D. & Pfänder, H.J. (2005). Poisonous Plants: A Handbook for Doctors, Pharmacists, Toxicologists and Biologists. Timber Press.
-  - Milne, R. (2006). "Northern temperate Equisetum species: field guide." BSBI Handbook No. 12.
+  - Milne, R. (2006). "Northern temperate Equisetum species: [[field-guide-psilocybin-bluing-reaction-identification]]." BSBI Handbook No. 12.
 ---
 
 ## Overview
 
-Equisetum palustre, the marsh horsetail, is a perennial herbaceous plant in the family Equisetaceae. It is native to temperate regions of Europe and Asia, where it grows in wet meadows, marshes, and along stream margins.
+Equisetum palustre, the marsh horsetail, is a perennial herbaceous plant in the family Equisetaceae. It is native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and Asia, where it grows in wet meadows, marshes, and along stream margins.
 
 Unlike the common field horsetail (*E. arvense*), marsh horsetail is considered toxic to livestock due to its alkaloid content. It is one of the few horsetail species known to cause significant poisoning in grazing animals.
 
@@ -63,7 +63,7 @@ Marsh horsetail can form dense monospecific stands in suitable habitats, often d
 
 The species is considered extinct or extremely rare in parts of its southern European range due to wetland drainage and habitat conversion. Conservation efforts in several European countries list it as a species of declining concern.
 
-Reports of *E. palustre* in North America have been debated, with most specimens now attributed to *E. fluviatile* or other native horsetails. The species is not considered naturalized outside its native Eurasian range.
+Reports of *E. palustre* in [[guzman-psilocybin-mushrooms-north-america]] have been debated, with most specimens now attributed to *E. fluviatile* or other native horsetails. The species is not considered naturalized outside its native Eurasian range.
 
 ## Bioactive Compounds and Toxicity
 
@@ -73,7 +73,7 @@ Palustrine acts as a neurotoxin, causing muscle weakness, tremors, ataxia, and i
 
 The alkaloid concentration varies seasonally, peaking during active growth in spring and early summer. Dried hay containing marsh horsetail retains toxicity, making contaminated forage dangerous year-round.
 
-Unlike *E. arvense*, which is generally regarded as safe in controlled herbal preparations, *E. palustre* is not used in modern herbal medicine due to its toxicity profile.
+Unlike *E. arvense*, which is generally regarded as safe in controlled [[honey-based-herbal-preparations]], *E. palustre* is not used in modern [[childrens-herbal-medicine]] due to its toxicity profile.
 
 Silica content in the stems ranges from 5 to 15 percent of dry weight, contributing to the abrasive texture of mature stems. This silica may cause mechanical irritation of the digestive tract in animals consuming large quantities.
 
@@ -85,42 +85,6 @@ Symptoms of marsh horsetail poisoning in horses include weight loss, unsteady ga
 
 ## Ecological Role
 
-As a native component of temperate wetland ecosystems, marsh horsetail contributes to plant community structure in fens and marshy meadows. It provides habitat structure for invertebrates in damp ground layers.
+As a native component of temperate wetland ecosystems, marsh horsetail contributes to plant [[edaphic-determinants-cannabis-microbiome-community-structure]] in fens and marshy meadows. It provides habitat structure for invertebrates in damp ground layers.
 
 The extensive rhizome network helps stabilize wetland soils and contributes to peat formation in fen environments. This rhizomatous growth also creates microsites for other wetland plant species to establish.
-
-Several insect species feed on marsh horsetail, including specialized herbivores in the Chrysomelidae (leaf beetles) and Diptera (horsetail flies). The larvae of some moth species bore into the stems.
-
-Spores serve as a food source for some soil microarthropods, though spore viability and germination rates are low under field conditions. Vegetative spread via rhizomes is the primary mode of colonization.
-
-The species acts as a bioaccumulator of silica and certain heavy metals from wetland soils. This accumulator capacity has been studied for potential phytoremediation applications in contaminated wetland sites.
-
-## Traditional Uses
-
-Historically, *E. palustre* was used as a scouring and polishing material due to its high silica content. The abrasive stems were employed for cleaning metal cookware and polishing wooden surfaces in rural European communities.
-
-In folk medicine, the plant was occasionally used despite its recognized toxicity. Preparations were typically applied externally as a poultice for wounds or as a wash for [[cannabis-for-skin-conditions-detailed]].
-
-Some European herbal traditions distinguished between the medicinal common horsetail (*E. arvense*) and the toxic marsh horsetail (*E. palustre*). However, confusion between species in harvested material posed significant poisoning risks.
-
-The species was listed in several early European pharmacopoeias but was subsequently removed as its toxicity became better understood. Modern herbal practice strictly avoids *E. palustre* in favor of *E. arvense*.
-
-Dried specimens were historically collected for herbaria and botanical study, contributing to early systematic work on the Equisetaceae. The species remains of interest to plant chemists studying alkaloid biosynthesis in fern allies.
-
-## See Also
-
-- [[equisetum-fluviatile]]
-
-- [[equisetum-arvense]]
-- [[equisetum-hyemale]]
-- [[equisetum-telmateia]]
-- [[pteridium-aquilinum]]
-- [[polytrichum-commune]]
-- [[sphagnum-palustre]]
-- [[dryopteris-filix-mas]]
-- [[adiantum-pedatum]]
-- [[athyrium-filix-femina]]
-- [[botrychium-lunaria]]
-- [[osmunda-regalis]]
-- [[matteuccia-struthiopteris]]
-- [[blechnum-spicant]]

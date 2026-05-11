@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Lysimachia quadrifolia** is an erect herbaceous perennial in the family Primulaceae, native to eastern North America. It is commonly known as whorled loosestrife, whorled yellow loosestrife, or crosswort.
+**Lysimachia quadrifolia** is an erect herbaceous perennial in the family Primulaceae, native to [[polypore-fungi-eastern-north-america]]. It is commonly known as whorled loosestrife, whorled yellow loosestrife, or crosswort.
 
 The species is named for its distinctive whorled leaf arrangement, with four (occasionally five or six) leaves at each node along the stem. This regular pattern gives the plant a striking architectural quality.
 
@@ -33,7 +33,7 @@ The flowers are star-shaped and pale yellow, borne singly in the axils of the up
 
 The species belongs to **Lysimachia** subg. *Lysimachia*, a group of mostly North American species with whorled or opposite leaves and axillary flowers. Molecular phylogenetic studies confirm its placement within a clade of eastern North American species.
 
-Within this clade, **L. quadrifolia** is most closely related to **Lysimachia terrestris** (swamp candles) and **Lysimachia hybrida**, with which it shares similar floral morphology and chromosome numbers.
+Within this clade, **L. quadrifolia** is most closely related to **[[lysimachia-terrestris]]** (swamp candles) and **Lysimachia hybrida**, with which it shares similar floral morphology and chromosome numbers.
 
 Plants grow 30–90 cm tall from slender creeping rhizomes. Stems are erect, simple or sparingly branched, and typically unmarked or slightly angular.
 
@@ -57,7 +57,7 @@ The species occurs in deciduous and mixed woodlands, woodland edges, thickets, a
 
 Elevation ranges from near sea level to approximately 1,200 meters in the southern Appalachian Mountains. Plants in higher-elevation populations tend to be shorter and more compact.
 
-Associated species include *Maianthemum canadense*, *Smilacina racemosa*, *Aster divaricatus*, *Polygonatum biflorum*, and various ferns in mesic forest understory communities.
+Associated species include *Maianthemum canadense*, *Smilacina racemosa*, *Aster divaricatus*, *[[polygonatum-biflorum]]*, and various ferns in mesic forest understory communities.
 
 The species tolerates moderate disturbance and can persist in second-growth forests and along woodland trails. It is classified as secure (G5) across most of its range.
 
@@ -65,7 +65,7 @@ In the southern portion of its range, **L. quadrifolia** is restricted to higher
 
 ## Cultivation
 
-**Lysimachia quadrifolia** is an adaptable garden plant, though it is less commonly cultivated than the showier **Lysimachia punctata** or **Lysimachia ciliata**. It is cold-hardy to USDA zone 3 (−40 °C).
+**Lysimachia quadrifolia** is an adaptable garden plant, though it is less commonly cultivated than the showier **[[lysimachia-punctata]]** or **[[lysimachia-ciliata]]**. It is cold-hardy to USDA zone 3 (−40 °C).
 
 The species performs best in partial shade with consistently moist soil. It tolerates full sun in cooler climates if moisture is adequate, and deep shade where it will grow taller and lean toward light.
 
@@ -73,7 +73,7 @@ A loamy soil amended with leaf mold or compost provides ideal conditions. The pl
 
 Propagation is most successful from seed, which germinates readily after a brief cold stratification period of four weeks. Division of established clumps in early spring is also effective.
 
-The species spreads slowly by rhizomes, forming modest colonies over time. It is not aggressively invasive, unlike some other Lysimachia species such as **Lysimachia nummularia**.
+The species spreads slowly by rhizomes, forming modest colonies over time. It is not aggressively invasive, unlike some other Lysimachia species such as **[[lysimachia-nummularia]]**.
 
 The main cultivation challenge is ensuring adequate moisture during dry spells. Plants may go dormant prematurely under drought stress but typically recover with the return of rainfall.
 
@@ -88,32 +88,3 @@ No significant modern medicinal applications have been documented for this speci
 The primary modern use of **L. quadrifolia** is in native plant gardens, woodland restoration projects, and ecological landscaping. It provides a delicate vertical element in shaded plantings.
 
 Its whorled leaf arrangement and pale star-shaped flowers add textural interest to naturalistic gardens. The plant pairs well with ferns, wild geraniums, and other woodland perennials.
-
-## Ecological Role
-
-The flowers of **Lysimachia quadrifolia** are visited by small bees, syrphid flies, and other generalist pollinators. The reddish petal spots serve as nectar guides, directing insects toward the floral reward.
-
-Oil-collecting bees of the genus *Macropis* are specialized pollinators of some Lysimachia species, though they show greater affinity for yellow-flowered species with larger floral oil glands.
-
-The flowering period of **L. quadrifolia** spans four to six weeks from mid-June through July, bridging the gap between spring ephemerals and late-summer composites. This temporal positioning enhances its ecological value as a mid-season nectar source.
-
-The foliage is occasionally browsed by white-tailed deer but is not a preferred food source. The plant is generally considered resistant to significant mammalian herbivory.
-
-As a woodland understory species, **L. quadrifolia** contributes to the structural diversity of the herb layer. Its presence indicates relatively intact forest conditions with adequate soil moisture.
-
-The creeping rhizomes help stabilize loose woodland soils on gentle slopes. Dense patches contribute to the retention of leaf litter and organic matter accumulation.
-
-In prairie and savanna restorations, **L. quadrifolia** can serve as an indicator species for mesic conditions. Its presence typically signals soils with adequate moisture and organic content for diverse herb layer development.
-
-## See Also
-
-- [[lysimachia-nummularia]]
-- [[lysimachia-vulgaris]]
-- [[lysimachia-punctata]]
-- [[lysimachia-clethroides]]
-- [[primula-vulgaris]]
-- [[primula-veris]]
-- [[anagallis-arvensis]]
-- [[dodecatheon-meadia]]
-- [[primula-auricula]]
-- [[cyclamen-hederifolium]]

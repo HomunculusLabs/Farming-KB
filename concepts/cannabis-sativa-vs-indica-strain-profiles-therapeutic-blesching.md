@@ -1,7 +1,7 @@
 ---
-title: [[cannabis-sativa-vs-indica-guide]] Indica — Strain Profiles and Therapeutic Selection
+title: Cannabis Sativa Vs Indica Strain Profiles Therapeutic Blesching
 source: uwe-blesching-the-cannabis-health-index.md
-source_author: Uwe Blesching
+source_author: [[uwe-blesching]]
 tags: [cannabis, sativa, indica, strain-selection, THC, CBD, therapeutic, cannabinoids]
 ---
 
@@ -9,7 +9,7 @@ tags: [cannabis, sativa, indica, strain-selection, THC, CBD, therapeutic, cannab
 
 ## Overview
 
-Medicinal cannabis consists of two basic species: Cannabis sativa and Cannabis indica. Both
+Medicinal cannabis consists of two basic species: Cannabis sativa and [[cannabis-indica]]. Both
 are psychoactive and both contain the cannabinoids required to engage the endocannabinoid
 system for specific therapeutic purposes. These two strains differ in appearance and contain
 different ratios of the primary cannabinoids, which is critically relevant when selecting
@@ -27,11 +27,11 @@ The most therapeutically significant [[query-what-is-the-difference-between-sati
 their cannabinoid ratios. These ratios are important because they determine the degree to
 which the balancing properties of the whole plant's constituents are additive or cancel
 each other out. The interplay between THC, CBD, and CBN (cannabinol) creates fundamentally
-different experiential and therapeutic profiles.
+different experiential and [[thc-cbd-therapeutic-profiles]].
 
 ## Sativa Profile
 
-Sativa strains feature a higher THC to lower CBD/CBN ratio. This ratio produces
+[[african-landrace-sativa-strains]] feature a higher THC to lower CBD/CBN ratio. This ratio produces
 characteristic effects:
 
 - **Mental and emotional emphasis**: Sativa effects tend to be more cerebrally focused,
@@ -74,7 +74,7 @@ modulates the psychoactive effects of THC:
   experiencing anxiety, agitation, insomnia, or hyperarousal.
 
 - **Pain relief and muscle relaxation**: Indicas provide strong pain relief and deep
-  muscle relaxation, often preferred for chronic pain conditions.
+  muscle relaxation, often preferred [[cannabis-for-chronic-pain]] conditions.
 
 ## Receptor Binding Differences
 
@@ -86,50 +86,5 @@ type.
 
 ## Fresh vs. Dried Cannabis
 
-An important consideration in strain selection is the form of the plant material. Fresh
+An important consideration in [[blesching-cannabis-strain-selection-receptor-targeting]] is the form of the plant material. Fresh
 cannabis contains THC in the form of THC-carboxylic-acid (THCA), which is considered only
-minutely psychoactive. Once dried, the chemical composition of THCA changes through
-decarboxylation (driven by heat during drying or burning). Once devoid of its carboxyl
-group, THC becomes psychoactive. THCA itself may have independent [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
-that are lost during decarboxylation, suggesting that raw cannabis preparations may offer
-distinct benefits.
-
-## THC Content Variability
-
-Plant-based THC content varies by cannabis strain and depends on whether the material is
-fresh or dried (and if dried, its age), and whether it was grown indoors or outdoors.
-Some strains may be especially potent in THC while others contain only trace amounts.
-Indoor crops tend to contain markedly higher THC content than outdoor crops. THC content
-decreases over time and is affected by UV light, heat, and moisture exposure.
-
-## Hybrid Strains
-
-Most modern cannabis available through medical dispensaries represents hybrid crosses
-between sativa and indica varieties. These hybrids attempt to combine desirable traits
-from both parent strains. Hybrid classification (sativa-dominant, indica-dominant, or
-balanced) helps patients predict the therapeutic profile, though individual responses
-to any given strain remain highly variable.
-
-## Strain Selection for Specific Conditions
-
-Effective therapeutic strain selection requires consideration of the patient's specific
-symptoms, the time of day medication is needed, the desired balance of psychoactive versus
-non-psychoactive effects, and the individual's unique endocannabinoid system sensitivity.
-Patients are encouraged to maintain detailed strain journals documenting effects to
-identify the most effective varieties for their particular conditions.
-
-## Historical and Cultural Context
-
-Cannabis has been used medicinally and spiritually across cultures for millennia. Indian
-and Nepalese sadhus used cannabis as a means of spiritual exploration. Rastafarians
-consider "the herb" the key to understanding the self, the universe, and God. Ancient
-Scythians used cannabis to produce trance states, divination, and joy. The Egyptian Ebers
-papyrus (3400 BC) describes cannabis ground in honey as a remedy for vaginal illness.
-This deep [[amanita-muscaria-cultural-history]] underscores the plant's enduring therapeutic significance.
-
-## See Also
-
-- [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]
-- [[cannabis-health-index-chi-scoring-methodology-blesching]]
-- [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]
-- [[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching]]

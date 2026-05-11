@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,25 +88,3 @@ Fukuoka's preferred form of meditation: "I myself don't say that zazen is bad, n
 What he likes most of all at Dogo is just stretching out on the granite floor of the baths. In a stone bath, your back warms up and makes you feel good. The sensation when you lie down with your arms and legs stretched out is indescribable. The whole body unwinds. As the muscles relax, you become comfortable and free. The heart too loosens up and relaxes. You become free and uninhibited.
 
 This loosening of the body is, he believes, the road to oneness with the Buddha. It is a shortcut to the Buddha -- which is why he is always going over to Dogo with the excuse that, "Zazen is fine too, but one can also attain perfect serenity by stretching out at a spa."
-
-## Meditation as Brain-Washing
-
-Meditation has become quite popular lately, but where it involves mental concentration, Fukuoka considers this a form of brain-washing that is, if anything, a dangerous road. Zen, he believes, is oriented toward escape from the world of ideas. It is foolish to be tied down to things such as the soul and malevolent apparitions that do not exist at all.
-
-## The Natural Body
-
-One person that made an impression on Fukuoka was Dr. Keizo Hashimoto, a chiropractor from Sendai. What he does when a patient comes in is very simple. He has the patient lie down on a cot and just tugs on his legs and arms a bit, that is all. What he is after is simply to make the patient comfortable. "If the right arm hurts when the patient raises it, then I have him shake the left arm in the other direction. I just try to make him feel good."
-
-Dr. Hashimoto says that "people ought to live pleasantly and die pleasantly." Those are wise words.
-
-## The Body as Water
-
-A physical education professor at Nihon University said that all one needs to do during exercise is to make the body perfectly limp and let the limbs dangle. "The human body acts as if it were made of Jello. It is like a leather bag filled with water. If you shake it, it even sloshes about inside."
-
-Just let the arms and legs and everything else dangle. No one has to put himself through a hard workout. The body should be built to be as flexible and strong as a whip.
-
-## Returning to the Infant State
-
-Malady always arises from what is unnatural. Mental disharmony with nature hardens the mind, while unnatural physical care stiffens the body. By continuing to endure such conditions and failing to exercise moderation, one eventually meets up with serious illness. To recover, one must lighten the heart and live easily -- without strain.
-
-If you do nothing and simply return to the natural body of an infant, then your health will improve. If you have become neurotic from thinking too much, then returning to the state of an infant who thinks of nothing, the mind will be cured.

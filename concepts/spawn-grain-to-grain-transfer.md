@@ -88,11 +88,3 @@ amount of LC can inoculate hundreds of grain bags via syringe. LC is
 prepared by sterilizing a [[cannabis-nutrient-solution-preparation]] (malt extract, honey, or
 dextrose in water) and inoculating with agar. Once colonized, it can be
 stored refrigerated for months. LC reduces cross-contamination risk
-since each jar receives fresh inoculum, but can harbor hidden bacterial
-contamination. Agar testing before large-scale use is recommended.
-
-## See Also
-
-- [[cultivator-sterile-technique-and-agar-culture]]
-- [[mushroom-species-selection]]
-- [[contamination-identification]]

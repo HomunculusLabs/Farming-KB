@@ -88,15 +88,3 @@ Core community inoculants would provide baseline benefits across cultivars, whil
 ## Limitations of Current Knowledge
 
 The core community was defined based on 16S rRNA gene sequencing from five cultivars grown in California soils. Broader sampling across different geographic regions, soil types, and [[synthetic-log-cultivation-methods-guide]] (indoor, outdoor, greenhouse) would test whether this core is truly universal or represents a regional subset.
-
-Functional characterization of the core taxa through culture-dependent isolation and gnotobiotic experiments would move beyond correlative observations to demonstrate the specific benefits each taxon provides to cannabis plants.
-
-## See Also
-
-- [[cannabis-microbiome-soil-type-composition-strain-structure]]
-- [[cannabis-endorhiza-microbiome]]
-- proteobacteria dominance in cannabis endorhiza
-- [[methylophilus-cannabis-endorhiza-strain-specificity]]
-- [[acidobacteria-decline-rhizosphere-endorhiza-transition]]
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]

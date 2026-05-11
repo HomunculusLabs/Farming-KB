@@ -88,37 +88,3 @@ Establishment from seed is slow, with seedlings taking 2–3 growing seasons to 
 Rhizome transplants should be planted at a density of 15–25 plugs per square meter for effective erosion control within one growing season. In constructed wetland applications, plug spacing of 30–45 cm provides adequate coverage within two growing seasons while minimizing material costs.
 
 The species is widely used in constructed wetlands for [[mollison-designers-wastewater-treatment-wetlands]]. Its root zone provides substrate for microbial communities involved in nitrogen and phosphorus removal from contaminated water.
-
-Constructed wetland systems planted with E. palustris have demonstrated effective removal of total nitrogen (40–70%) and total phosphorus (30–50%) from municipal wastewater. The dense root mat creates an oxidized rhizosphere that enhances nitrification-denitrification cycling.
-
-## Ethnobotanical Uses
-
-Indigenous peoples of North America used common spikerush for weaving mats, baskets, and other items. The stems were harvested in late summer when fully mature, dried, and woven using traditional techniques.
-
-Among the Paiute and Shoshone peoples of the Great Basin, spikerush stems were woven into tightly coiled baskets used for storage and water transport. The stems were also used as thatching material for temporary shelters and as stuffing for pillows and cushions.
-
-The rhizomes were occasionally consumed as a starchy food source by some Indigenous groups. The raw rhizomes are bitter but can be cooked to improve palatability. In Europe, the young shoots were historically gathered as a minor vegetable in some regions.
-
-In traditional Chinese medicine, Eleocharis tuberosa (water chestnut) is a closely related species widely cultivated for its edible corms. E. palustris rhizomes have been used similarly in some Indigenous North American traditions, though they are smaller and less palatable than the cultivated species.
-
-## See Also
-
-- [[eleocharis-acicularis]]
-
-- [[rhodopseudomonas-palustris]]
-
-- [[typha-angustifolia]]
-- typha-latifolia-entity
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[ceratophyllum-demersum]]
-- [[potamogeton-natans]]
-- [[phragmites-australis]]
-- [[lemna-minor]]
-- [[nymphaea-alba]]
-- [[pontederia-cordata]]
-- [[eichhornia-crassipes]]
-- [[elodea-canadensis]]
-- [[myriophyllum-spicatum]]
-- [[equisetum-arvense]]
-- [[iris-entity]]

@@ -2,7 +2,7 @@
 title: Cannabis for Glaucoma
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Uwe Blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
+sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
 wikilinks: "blesching-endocannabinoid-system-overview blesching-cannabinoid-pharmacology cannabis-chronic-pain-management"
 type: concept
 tags: [cannabis]
@@ -19,7 +19,7 @@ Potential areas of investigation include:
 
 - Neuroprotective properties of cannabinoids
 - Stimulation of neural microcirculation
-- Suppression of apoptosis (cell death)
+- Suppression of apoptosis ([[blesching-cannabis-apoptosis-and-cancer-cell-death]])
 - Suppression of damaging free-radical reactions
 
 ## Key Studies
@@ -29,7 +29,7 @@ Potential areas of investigation include:
 Modern scientists showed interest in cannabis in 1971 when it was first noted
 in scientific literature that smoking marijuana lowered intraocular pressure.
 Researchers enlisted 11 healthy youths to smoke 2 gm of cannabis with a 0.9%
-THC content provided by the National Institute for Mental Health. Prior to and
+[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] provided by the National Institute for Mental Health. Prior to and
 one hour following smoking cannabis, complete ocular examinations were
 performed, and a substantial decrease in intraocular pressure was observed in
 9 of 11 subjects.
@@ -55,8 +55,8 @@ from the effects of hypotension (low blood pressure).
 ### 2000 -- Louisville, Kentucky (Animal Study)
 
 New insights emerged from an animal study in Louisville, Kentucky. Results
-indicated that the reduction of IOP is mediated by CB1 cannabinoid receptors
-in the eye itself, and that the synthetic cannabinoid WIN55,212-2 (like
+indicated that the reduction of IOP is mediated by CB1 [[cannabinoid-receptors-cb1-and-cb2]]
+in the eye itself, and that the [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]] WIN55,212-2 (like
 natural cannabinoids) can also reduce IOP.
 
 ### 2006 -- Oxford, UK (Human Crossover Study)
@@ -73,7 +73,7 @@ transient increase IOP rise."
 
 The apparent differing effects of isolated cannabinoids may point to the
 complex yet synergistic mechanisms by which these cannabinoids naturally combine
-to achieve therapeutic effects.
+to achieve [[cbd-therapeutic-effects]].
 
 ### 2007 -- Aachen, Germany
 
@@ -88,27 +88,3 @@ be beneficial in ocular circulatory disorders, including glaucoma.
 The majority of clinical studies have examined the impact on glaucoma of
 cannabinoids primarily in the form of THC. THC binds relatively equally with
 both CB1 and CB2. Both sativas and indicas contain CB1- and CB2-binding
-cannabinoids.
-
-## Safety Considerations
-
-The 1998 Department of Ophthalmology analysis from Medical College of Georgia
-noted that the benefits of smoked cannabis for glaucoma may not outweigh
-[[blesching-cannabis-safety-adverse-effects-evidence]], primarily because the IOP-lowering effect is relatively
-short-lived (3-4 hours), requiring frequent dosing throughout the day.
-However, newer [[cannabis-delivery-methods-comparison]] such as sublingual THC and sustained-release
-formulations may address this limitation.
-
-## Summary
-
-The evidence base of 9 studies yielding a CHI value of 19 suggests that
-cannabinoids, particularly THC, can effectively reduce intraocular pressure in
-glaucoma patients. The mechanism is mediated primarily through CB1 receptors in
-the eye. CBD at higher doses (40 mg) may paradoxically increase IOP,
-suggesting that whole-plant preparations with appropriate THC:CBD ratios may be
-most effective. The discovery of cannabinoid receptors in ocular tissue opens
-additional avenues for neuroprotective treatments that go beyond IOP reduction. See [[blesching-cannabis-dosing-strategies]] for therapeutic dosing guidance.
-
-## See Also
-
-- [[blesching-cannabis-copd]]

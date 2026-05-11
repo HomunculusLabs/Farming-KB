@@ -15,9 +15,9 @@ Juncao (菌草) is a Chinese term where Jun (菌) means fungi and Cao (草) mean
 
 ## Origins and Development
 
-Juncao techniques were invented in 1983 by Professor Zhanxi Lin, director of Fujian Agriculture and Forestry University and the Juncao Research Institute in China. Before Juncao technology, many species of edible and medicinal fungi, including shiitake and wood's ear, were primarily cultivated on sawdust or logs. The expansion of mushroom production led to over-exploitation of broad-leaf tree resources, causing a shortage of raw substrate materials. Major mushroom-producing countries like Japan and China encountered these problems, which restricted further large-scale production development.
+Juncao techniques were invented in 1983 by Professor Zhanxi Lin, director of Fujian Agriculture and Forestry University and the Juncao Research Institute in China. Before Juncao technology, many species of edible and medicinal fungi, including shiitake and wood's ear, were primarily cultivated on sawdust or logs. The expansion of mushroom production led to over-exploitation of broad-leaf tree resources, causing a shortage of raw [[mushworld-oyster-substrate-materials-worldwide-survey]]. Major mushroom-producing countries like Japan and China encountered these problems, which restricted further large-scale production development.
 
-The invention of Juncao techniques resolved the conflict between increasing fungi production and protecting ecological environments, enabling fast and sustainable mushroom production growth.
+The invention of Juncao techniques resolved the conflict between increasing fungi production and protecting ecological environments, enabling fast and [[sustainable-mushroom-cultivation]] production growth.
 
 ## Definitions
 
@@ -54,7 +54,7 @@ Test results from the Fujian Agriculture University Central Laboratory demonstra
 | Miscanthus floridulus | 3.56 | 55.10 | 1.44 | 0.57 | 0.08 | 0.90 | 0.30 | 0.10 |
 | Themeda gigantea | 3.85 | 51.10 | 1.38 | 0.61 | 0.05 | 0.72 | 0.19 | 0.08 |
 | Pennisetum purpureum | 5.91 | 68.88 | - | - | 0.18 | 0.78 | 0.40 | 0.24 |
-| Spartina alterniflora | 9.90 | 23.58 | 2.96 | - | - | - | - | - |
+| [[spartina-alterniflora]] | 9.90 | 23.58 | 2.96 | - | - | - | - | - |
 | Sorghum propinquum | 4.17 | 49.47 | - | - | 0.08 | 0.46 | 0.44 | 0.17 |
 
 ## Selected Juncao Species
@@ -65,12 +65,12 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 
 - Pennisetum purpureum (napier grass)
 - Pennisetum sinense
-- Pennisetum alopecuroides
+- [[pennisetum-alopecuroides]]
 - Phragmites communis (common reed)
 - Neyraudia reynaudiana
 - Miscanthus floridulus
 - Miscanthus sacchariflorus
-- Miscanthus sinensis (Chinese silver grass)
+- [[miscanthus-sinensis]] (Chinese silver grass)
 - Saccharum arundinaceum
 - Saccharum sinense
 - Saccharum robustum
@@ -80,7 +80,7 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 - Vetiveria zizanioides ([[comparison-vetiver-grass-vs-bamboo-for-erosion-control]])
 - Sorghum propinquum
 - Sorghum sudanense
-- Cymbopogon citratus (lemongrass)
+- [[cymbopogon-citratus]] (lemongrass)
 - Arundo donax (giant reed)
 - Arundinella hirta
 - Arundinella nepalensis
@@ -88,36 +88,3 @@ From 1983 to 2003, 37 Juncao species were selected as suitable for mushroom cult
 - Achnatherum splendens
 
 ### Non-Grass Species
-
-- Triticum aestivum (wheat)
-- Oryza sativa (rice)
-- Musa nana (banana)
-- Setaria anceps
-- Eichhornia crassipes (water hyacinth)
-- Gossypium hirsutum (cotton)
-- Medicago sativa (alfalfa)
-- Helianthus annuus (sunflower)
-- Ferula sinkiangensis
-- Dicranopteris dichotoma
-- Dryopteris ampla
-
-## Mushroom Species Cultivable on Juncao
-
-45 fungal species have been identified as suitable for cultivation with Juncao substrates. These span a wide taxonomic range:
-
-### Pleurotus Species
-
-Multiple Pleurotus species thrive on Juncao, including P. ostreatus, P. sapidus, P. rhodophyllus, P. sajor-caju, P. citrinopileatus, P. cystidiosus, P. abalones, P. eryngii, and P. tuber-regium.
-
-### Other Cultivated Species
-
-- [[agaricus-blazei]]
-- [[ganoderma-lucidum]] and [[hericium-erinaceus]] (lion's mane)
-- [[auricularia-auricula]] and Auricularia cornea ([[growing-gourmet-wood-ear-auricularia-cultivation]])
-- [[pholiota-nameko]] and [[coprinus-comatus]] ([[growing-gourmet-shaggy-mane-coprinus-cultivation]])
-- [[armillaria-mellea-entity]] and [[coriolus-versicolor]] ([[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]])
-- [[juncao-grass-substrate-technique]]
-
-- [[mushroom-substrates]]
-- mushroom-spawn-production
-- [[mushroom-cultivation-bulk-substrates]]

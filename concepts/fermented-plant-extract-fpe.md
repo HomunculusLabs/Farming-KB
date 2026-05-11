@@ -1,6 +1,6 @@
 ---
 
-title: Fermented Plant Extract (FPE) — FPJ & FFJ
+title: Fermented Plant Extract Fpe
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -26,21 +26,21 @@ sources:
 
 # Fermented Plant Extract (FPE)
 
-Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
 ## FPJ — Fermented Plant Juice
 
 ### Purpose
-Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
+Provides energy, nitrogen, enzymes, and [[gibberellins-plant-growth-hormones]]. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
 
 ### Plant Selection (Cho's Guidelines)
 
 **Choose plants that grow vigorously** in your local environment — these are naturally adapted and nutrient-rich:
 
 **Vegetative growth FPJ** (nitrogen-rich, for leafy growth):
-- Mugwort (Artemisia) — excellent general-purpose FPJ, high in minerals and medicinal compounds
+- Mugwort (Artemisia) — excellent general-purpose FPJ, high in minerals and [[cotter-mushroom-nutrition-medicinal-compounds]]
 - Bamboo shoots — vigorous growth, high silicon
 - Arrowroot — strong vegetative energy
 - Fast-growing wild grasses and weeds
@@ -72,7 +72,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative 
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms-bim]] on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar

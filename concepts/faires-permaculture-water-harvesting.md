@@ -1,9 +1,9 @@
 ---
-title: "Permaculture Water Harvesting Strategies"
+title: Faires Permaculture Water Harvesting
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
-  - "Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
+  - "nicole-faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and natural-farming-sustainable-living-principles"
 type: concept
 tags: [culture, harvesting, permaculture, water]
 ---
@@ -45,7 +45,7 @@ Thick [[cervantes-green-algae-growing-medium]] will grow on tank sides — this 
 
 ## Diversion Drains
 
-Unlike swales (which stop water), diversion drains carry water away. They direct flow to swales, ponds, or irrigation systems. When sending water to a dam, drains should be built of rock or concrete. Spill gates give flow control for irrigation management.
+Unlike swales (which stop water), diversion drains carry water away. They direct flow to swales, ponds, or irrigation systems. When sending water to a dam, drains should be built of rock or concrete. Spill gates give flow control for [[soil-moisture-monitoring-irrigation-management]].
 
 ## Dry Bed Management
 
@@ -62,7 +62,7 @@ For streams near buildings, dig a lagoon at the head and install swales and dry 
 
 Dam walls should never exceed 20 feet high. They function like small ponds with gentle slopes on all sides, scooped from the hillside with clay piled to form the wall. The outer slope should roughly match the inner slope angle.
 
-Sealing: Soil is unlikely to be waterproof. Use gley (fermented manure smeared in 8-inch layer over inside and walls, covered with dirt, cardboard, or plastic; ferments in about a week in temperate climates), pond liner (heavy black plastic, rubber, or geotextile), or earthbags.
+Sealing: Soil is unlikely to be waterproof. Use gley (fermented manure smeared in 8-inch layer over inside and walls, covered with dirt, cardboard, or plastic; ferments in about a week [[query-how-to-grow-and-use-oca-in-temperate-climates]]), pond liner (heavy black plastic, rubber, or geotextile), or earthbags.
 
 ## Pond Design
 
@@ -87,14 +87,3 @@ A well-developed water diversion system can make even a small property very self
 Graywater (from sinks, tubs, washing machines, showers) can be piped into marshes or container gardens to grow water-loving plants (cattails, rushes, reed grasses, horsetails). It cannot be spouted directly into food gardens.
 
 Sizing: one cubic foot of wetlands filters roughly 1 gallon of water. Marsh surface area should handle about 1/3 of daily graywater production, 2 feet deep. For a frugal household of five using ~940 gallons/week: 134 gallons/day divided by 3 equals 45 sq ft of marsh.
-
-Marsh construction: layer gravel, sand, 6-inch sticks, and finally 8+ inches of straw mulch. Use only biodegradable soaps. Water must cycle every 24 hours if using a holding tank.
-
-## See Also
-
-- faires-swales-and-water-conservation
-- faires-water-sources-and-catchment
-- [[graywater-systems]]
-- [[urban-permaculture-rainwater-harvesting-graywater]]
-- faires-water-sources-and-catchment
-- [[gaias-garden-cover-crops-soil-building]]

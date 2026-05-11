@@ -14,11 +14,11 @@ Cordyceps is a genus of [[comparison-trichoderma-vs-entomopathogenic-fungi]] tha
 
 The fungus has been used in Chinese medicine for centuries as "dong chong xia cao" (winter insect, summer grass), and researchers like Nigel Hywel-Jones have uncovered remarkable new species in tropical rainforests.
 
-Two competing hypotheses — altruistic self-removal by sterile worker ants versus direct fungal manipulation of insect brain chemistry — attempt to explain the bizarre climbing behavior that precedes death.
+Two competing hypotheses — altruistic self-removal by sterile worker ants [[overnight-soak-versus-direct-hydration-grass-seed-substrate]] fungal manipulation of insect brain chemistry — attempt to explain the bizarre climbing behavior that precedes death.
 
 ## The Infection Process and Behavioral Manipulation
 
-Cordyceps represents one of the most dramatic examples of fungal parasitism in the natural world.
+Cordyceps represents one of the most dramatic examples of [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]] in the natural world.
 
 The fungus is capable of piercing the chitinous exoskeleton of insects, and once inside the host, the symptoms of disease become unmistakable.
 
@@ -38,7 +38,7 @@ In Ohio, Nicholas P. Money describes finding Cordyceps-infected insects that had
 
 But for the pathogen, the outcome never varies.
 
-A few days after death, the fungus's hyphae burst through joints in the insect's skeleton, cloaking the animal in mycelium before sprouting the elongated fruiting body called the ascocarp (also termed a "stromatic clava" by some specialists).
+A few days after death, the fungus's hyphae burst through joints in the insect's skeleton, cloaking the animal in mycelium before sprouting the elongated [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] called the ascocarp (also termed a "stromatic clava" by some specialists).
 
 Sometimes the ascocarp erupts directly from the head of the insect.
 
@@ -82,64 +82,8 @@ Nigel Hywel-Jones, described by Money as a friend and an expert on these pathoge
 
 He has found Cordyceps on cicadas, tarantula spiders, ants, and termites, demonstrating the extraordinary adaptability of this fungal genus across multiple arthropod lineages.
 
-One of his most remarkable recent discoveries involved termites that die in pairs, harnessed to one another's jaws by a weft of fungal mycelium.
+One of his most remarkable recent discoveries involved termites that die in pairs, harnessed to one another's jaws by a weft of [[fungal-mycelium-hyphae-and-the-feeding-phase]].
 
 The hypothesis is that one termite becomes infected by the other when it attempts to groom its diseased kin.
 
 This illustrates how Cordyceps has evolved to intercept and redirect insect social behaviors for its own reproductive advantage — normal altruistic behaviors like grooming become mechanisms of disease transmission.
-
-## Chinese Medicine: Dong Chong Xia Cao
-
-Cordyceps has been used in Chinese medicine for hundreds of years and is now marketed by American health food stores as a cure for virtually every conceivable ailment.
-
-In China its fruiting bodies are called dong chong xia cao, meaning "winter insect, summer grass" — evoking the apparent conversion of caterpillars into roots from which the ascocarps extend into the air.
-
-The colonized insect is sold in a dried form that resembles a twig.
-
-Usually it is powdered and made into a tea or mixed with other ingredients and swallowed as a tablet.
-
-According to commercial claims, Cordyceps assists body building, overcomes fatigue, improves lung and kidney function, and increases male sexual potency.
-
-There is also interest in its efficacy as a performance-enhancing drug for marathon runners.
-
-Money ordered Cordyceps tea from Fungi Perfecti, a Washington State company founded by Paul Stamets, an expert on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] who markets [[medicinal-mushroom-dietary-supplements]] and medicines prepared from fungi.
-
-Money notes he could not stick with the brew for the three weeks recommended for optimum manliness — "although I have downed more frightful beverages, this one is no Earl Grey."
-
-## Spore Discharge Mechanics and Perithecial Architecture
-
-The upper portion of mature Cordyceps ascocarps is covered with pimples marking the openings of tiny flask-shaped chambers called perithecia, in which the asci develop.
-
-A single perithecium holds many asci, and each ascus contains eight ascospores.
-
-When each ascus matures, it elongates, pushes its tip through the pimple opening, perforates at its apex, and fires its clutch of thread-shaped spores one at a time before retracting.
-
-A few minutes later, the next ascus protrudes and discharges its spores in sequence.
-
-Each spore spans half a millimeter and is built from 100 or more segments that fragment in the air or on impact — a missile with numerous warheads.
-
-Because the warheads multiply through asci and perithecia, a single fruiting body can dispense millions of infectious particles.
-
-## The Ancient Arms Race Between Fungus and Insect
-
-This staggering disease-causing potential is the result of an arms race between Cordyceps and insects that has probably been waged for hundreds of millions of years.
-
-The evolution of monstrous species like Cordyceps gunii — an Australian fungus infecting root-feeding caterpillars — has involved progressive elongation of the fruiting body stalk so the pathogen can escape the deepest graves of its victims.
-
-Its ascocarp is as fat as a garden hose and longer than a stick of celery.
-
-Conflict at the biochemical level has probably been equally fierce, with the proliferation of toxic and antitoxic cocktails of ever-increasing strength within both host and pathogen.
-
-Cordyceps is an ascomycete, the largest grouping of fungi encompassing more than 32,000 species occupying every ecosystem on the planet, defined by the production of ascospores formed inside a fluid-filled purse called the ascus.
-
-Water diffuses into the ascus by osmosis until pressurized, and when the tip opens — often explosively — the spores are shot into the air like a cannon.
-
-This [[basidiospore-discharge-mechanism]] bears no relationship to the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] catapult utilized by [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
-
-## See Also
-
-- bloomfield ascomycete ascospore discharge mechanisms
-- bloomfield ergot fungus claviceps purpurea lsd salem witch trials
-- bloomfield fungal arms race insect pathogen coevolution
-- bloomfield basidiomycete ballistospore discharge bullers drop
-- [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]

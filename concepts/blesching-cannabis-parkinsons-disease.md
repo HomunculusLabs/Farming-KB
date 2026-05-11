@@ -15,7 +15,7 @@ Parkinson's disease (PD) is a progressive neurodegenerative disorder
 characterized by the loss of dopaminergic neurons in the substantia nigra,
 leading to motor symptoms including tremor, bradykinesia (slowness of
 movement), rigidity, and postural instability. In "The Cannabis Health
-Index," Uwe Blesching assigns this condition a [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI)
+Index," [[uwe-blesching]] assigns this condition a [[blesching-cannabis-health-index-autoimmune-conditions]] (CHI)
 rating of **14** based on **4 clinical studies**, indicating a moderate
 evidence base for therapeutic benefit.
 
@@ -28,7 +28,7 @@ in this region, positioning the ECS as a key modulator of motor control.
 Dysregulation of the ECS has been observed in PD patients, with changes in
 CB1 receptor density and endocannabinoid levels correlating with disease
 progression. This suggests that cannabinoid-based therapies may help
-restore balance to the disrupted signaling pathways underlying PD motor
+restore balance to the disrupted [[plant-signaling-pathways]] underlying PD motor
 symptoms.
 
 ## CBD as a Neuroprotectant
@@ -74,7 +74,7 @@ cognitive decline. Cannabinoids may address several of these:
 
 - Improved sleep quality through modulation of sleep-wake cycles
 - Anxiolytic and antidepressant effects of CBD
-- Pain relief through CB1 and CB2 receptor activation
+- [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] through CB1 and CB2 receptor activation
 - Potential neuroprotective effects that may slow cognitive decline
 
 ## Dosing Considerations
@@ -88,25 +88,3 @@ symptom relief is needed. The concept of [[blesching-cannabis-alzheimers-dementi
 [[blesching-cannabis-neurodegenerative-diseases]]
 for related research on cannabinoids and neurological health. The shared
 mechanisms of neuroinflammation, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and excitotoxicity
-suggest that cannabinoid therapies may have broad applicability across
-neurodegenerative disorders, as discussed in [[endocannabinoid-system-overview]].
-
-## Limitations and Research Gaps
-
-While the existing evidence is promising, Blesching cautions that the
-number of clinical studies (4) is relatively small. Larger, randomized
-controlled trials are needed to establish optimal dosing protocols,
-long-term safety, and the degree to which cannabinoids can modify disease
-progression versus merely managing symptoms. The heterogeneity of
-Parkinson's disease presentations also means that individual patient
-responses may vary significantly.
-
-## Key Takeaways
-
-- CHI rating of 14 (moderate evidence) based on 4 clinical studies
-- CBD demonstrates neuroprotective properties relevant to PD pathology
-- Cannabinoids may reduce tremor, bradykinesia, and levodopa-induced
-  dyskinesia
-- U.S. patent recognizes cannabinoids as antioxidants/neuroprotectants
-- Non-motor symptoms (sleep, mood, pain) may also benefit from treatment
-- Low-dose, CBD-dominant preparations are generally recommended

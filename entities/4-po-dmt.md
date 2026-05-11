@@ -2,7 +2,7 @@
 title: "4-PO-DMT"
 type: chemical
 tags:
-  - tryptamine
+  - [[tryptamine]]
   - psychedelic
   - alkaloid
   - fungal-metabolite
@@ -11,14 +11,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gartz J (1989). "Biotransformation of tryptamine derivatives in mycelial
-    cultures of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting." Journal of Basic Microbiology, 29(5): 347-352.
+    cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]." Journal of Basic Microbiology, 29(5): 347-352.
   - Shulgin A, Shulgin A (1997). "TIHKAL: The Continuation." Transform Press.
   - Speeter MM, Anthony WC (1954). "Analogs of bufotenine." Journal of the
     American Chemical Society, 76(22): 5889-5891.
   - Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A (2008).
     "The pharmacology of psilocybin." Addiction Biology, 13(3-4): 263-278.
-  - Repke DB, Leslie DT, Guzman G (1977). "Baeocystin and norbaeocystin:
-    new analogs of psilocybin from stamets-psi-psilocybe-baeocystis-knobby-tops." Journal of
+  - Repke DB, Leslie DT, Guzman G (1977). "[[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]:
+    new analogs of psilocybin from [[stamets-psi-psilocybe-baeocystis-knobby-tops]]." Journal of
     Pharmaceutical Sciences, 66(5): 743-744.created: 2026-05-07
 
 created: 2026-05-07
@@ -49,7 +49,7 @@ phosphate.
 **Molecular weight:** 284.22 g/mol.
 
 **Structure:** Indole ring substituted at the 4-position with a phosphate
-ester group; N,N-dimethylated ethylamine side chain at the indole 3-position.
+ester group; N,N-dimethylated ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] at the indole 3-position.
 The phosphate moiety renders the molecule highly polar and water-soluble.
 
 **Appearance:** White crystalline solid when synthesized. In fungal tissue,
@@ -72,7 +72,7 @@ activation in cortical layer V pyramidal neurons is the primary mechanism
 driving the characteristic [[weil-the-natural-mind-altered-states-normalcy]] of consciousness.
 
 Psilocin also binds to serotonin transporter (SERT) and trace amine-
-associated receptor 1 (TAAR1), contributing to its complex pharmacological
+[[taar1-trace-amine-associated-receptor-psychedelic-pharmacology]] 1 (TAAR1), contributing to its complex pharmacological
 profile. The drug exhibits functional selectivity (biased agonism) at
 5-HT2A, which may explain differences from other serotonergic psychedelics.
 
@@ -88,57 +88,3 @@ individual metabolism.
 
 Effects include visual and auditory hallucinations, altered perception of
 time and space, synesthesia, emotional lability, mystical-type experiences,
-and enhanced introspection. Physiological effects include mild pupillary
-dilation, increased heart rate, and transient blood pressure elevation.
-
-Acute tolerance develops rapidly, with significant attenuation of effects
-if dosed within 3–7 days of a previous session.
-
-## Synthesis and Biosynthesis
-
-Total chemical synthesis from 4-hydroxyindole or tryptophan precursors
-follows established routes phosphorylating the 4-hydroxy position of DMT
-or psilocin using phosphorus oxychloride. Semi-synthesis from extracted
-psilocin is more common for research-scale production.
-
-In fungal biosynthesis, psilocybin is produced via the PsiK/PsiM/PsiD
-enzymatic pathway. Tryptamine is hydroxylated at the 4-position by PsiH
-(cytochrome P450), then dimethylated by PsiM (SAM-dependent methyltransferase),
-and finally phosphorylated by PsiK (kinase) to yield psilocybin.
-
-The psilocybin biosynthesis gene cluster has been heterologously expressed
-in *E. coli* and *Saccharomyces cerevisiae* for biotechnological production.
-
-## Legal Status
-
-Psilocybin is classified as a Schedule I controlled substance under the
-United Nations Convention on Psychotropic Substances (1971). It is
-Schedule I in the [[dmt-containing-plants-united-states-halpern]], Class A in the UK, and prohibited in most
-nations worldwide.
-
-Regulatory reform is underway in several jurisdictions. Oregon (USA) and
-Australia's Therapeutic Goods Administration have authorized therapeutic
-use under supervised clinical settings as of 2023–2024. Canada permits
-compassionate use through special access programs.
-
-Natural-growing [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] are decriminalized in jurisdictions
-including the Netherlands (fresh, not dried), several US cities, and parts
-of Brazil.
-## Related Compounds
-
-- **Psilocin (4-HO-DMT)** — active metabolite; 10–40× more potent at 5-HT2A
-than psilocybin itself.
-- **Baeocystin (4-PO-NMT)** — N-methyl analog; minor fungal alkaloid with
-lower potency.
-- **Norbaeocystin (4-PO-T)** — desmethyl analog; trace constituent.
-- **4-AcO-DMT** — synthetic prodrug; deacetylated to psilocin in vivo.
-- **5-MeO-DMT** — potent 5-HT1A agonist; distinct pharmacological profile.
-
-## See Also
-
-- [[psilocin]]
-- [[baeocystin]]
-- [[4-acetoxy-dmt]]
-- [[tryptamine]]
-- [[dimethyltryptamine]]
-- [[serotonin]]

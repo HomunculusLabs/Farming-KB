@@ -16,7 +16,7 @@ type: concept
 
 # Banco, Sumiruna, and Muraya
 
-The three highest degrees in traditional Amazonian vegetalista medicine
+The three highest degrees in traditional [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] medicine
 are the banco, the sumiruna (sumi), and the muraya. These represent
 ascending levels of [[icaros-shamanic-power-songs]], each with distinct specialties,
 spiritual domains, and abilities. One can only reach these degrees
@@ -88,52 +88,3 @@ red waves; they may cure but usually do harm.
 The banco swallows virotes made from various palm trees -- inchahui,
 pona, inayuga, and huasai -- storing them in his mariri. He sits on
 a tortoise while performing this act. He receives bottles of
-aguardiente (cane liquor) for those attending his sessions.
-
-## Comparative Pulsations
-
-Queen Pulsarium Coya reveals the gradation of powers through
-pulsation patterns visible to the initiated:
-
-- **White and pink waves**: An apprentice's pulsations
-- **Blue waves**: A muraya who heals (not a sorcerer)
-- **Red and yellow waves**: A banco, master of all three realms
-- **Black and red waves**: Evil bancos, witches, and sorcerers
-- **Pink waves**: Sumis who enter the underwater realm
-- **Red with white waves**: Sumis who only heal
-
-## The Gradation of Powers (Vision 49)
-
-Amaringo's final vision describes a gradation of powers as luminous
-rays of ascending quality:
-
-1. **Light-green ray** (humus): Animals, plants, and basic powers
-   available to beginning vegetalistas
-2. **Greenish-yellow ray** (topaz): Plants, reptiles, and unknown
-   spectres -- one more grade of knowledge
-3. **Purple ray**: Hypnotic animals, fortune tellers, sibyls, and
-   persons with transcendental minds
-4. **Neutral grey ray** (diamond): The centre separating visible
-   from invisible; many reach this grade but cannot progress further
-5. **Turquoise-blue ray** (sapphire): Angels or messengers roaming
-   the vast universe with extrasensory wisdom
-6. **Violet ray** (amethyst): Sylphs, fairies, muses, kings, and
-   queens of great talent and wisdom
-7. **Carbon and silicon ray**: Strange beings, sphinxes, animals,
-   and witches -- the opposite of light and enlightenment
-
-## The Three Degrees in Shamanic Fights
-
-In shamanic combat, the three degrees deploy different strategies.
-The muraya sends his Rikra-huairacahallo (winged horse of the winds)
-for reconnaissance at great distances. The sumi can transform into
-wolves and other animals to evade sorcerers. The banco commands the
-Aceropunta battleship and can raise powers from the depths of the
-earth, including the alipa-tren (train of the earth), the
-## See Also
-
-- amaringo-three-shamanic-ranks-muraya-sumiruna-banco
-
-- [[shamanic-powers-ayahuasca]] -- Powers wielded at each degree
-- [[plant-teachers-ayahuasca]] -- How the degrees are achieved
-- [[curandero-healing-ayahuasca]] -- Healing practices by degree

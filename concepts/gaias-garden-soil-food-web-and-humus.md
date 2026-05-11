@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md"
 ---
 

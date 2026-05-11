@@ -3,13 +3,13 @@ title: Homestead Insurance Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, economics, regulation, law, business, safety]
+tags: [[homesteading]], economics, regulation, law, business, safety]
 sources: []
 ---
 
 # Homestead Insurance Guide
 
-Insurance protects homestead businesses from financial catastrophe.[[allegro-christianity-as-a-fertility-cult]] a farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers t [[fukuoka-four-types-of-diet]] of insurance needed, what to look for, and how to manage costs. (see [[cannabis-business-basics]]).
+Insurance protects homestead businesses from financial catastrophe. As a farm or agricultural business, standard homeowner's policies do not cover most farm activities. This guide covers the types of insurance needed, what to look for, and how to manage costs.
 
 ## Why Homestead Insurance Matters
 
@@ -23,10 +23,11 @@ Insurance protects homestead businesses from financial catastrophe.[[allegro-chr
 ## Farm Liability Insurance
 
 ### General Farm Liability
-- Covers bodily injury and [[teaming-with-microbes-tilling-damage-to-fungal-networks]] damage to third parties
+- Covers bodily injury and property damage to third parties
 - Required by most farmers markets ($1-2 million aggregate, $1 million per occurrence)
-- Slips, falls, dog bites, equipment ac [[permaculture-on-farm-alcohol-fuel-production]] on farm tours or at markets
-- Product liability: if someone claims illness from your food pro [[fukuoka-road-man-does-not-live-by-bread-alone]] Does NOT cover injuries to you or your family
+- Slips, falls, dog bites, equipment accidents on farm tours or at markets
+- Product liability: if someone claims illness from your food products
+- Does NOT cover injuries to you or your family
 
 ### Coverage Levels
 - $1 million per occurrence / $2 million aggregate: minimum for market vendors
@@ -36,7 +37,7 @@ Insurance protects homestead businesses from financial catastrophe.[[allegro-chr
 ### Product Liability
 - Included in most farm liability policies
 - Covers claims of foodborne illness, allergic reactions, contamination
-- Documentation is critical: keep r [[ingham-food-safety-compost-tea]] ood safety practices, batch tracking, and test results
+- Documentation is critical: keep records of food safety practices, batch tracking, and [[interpreting-soil-test-results]]
 - Labeling properly reduces liability (ingredient lists, allergen warnings)
 - Separate product liability policy: $300-800/year for small producers
 
@@ -55,7 +56,7 @@ Insurance protects homestead businesses from financial catastrophe.[[allegro-chr
 - Cost: $500-2,000/year depending on number and value of structures
 
 ### Equipment
-- Tractors, tools, processing equipment, irrigation systems
+- Tractors, tools, processing equipment, [[irrigation-systems]]
 - Covered for theft, fire, collision, vandalism
 - Schedule high-value items individually (list make, model, serial number)
 - Tractor: often requires separate policy or farm vehicle coverage

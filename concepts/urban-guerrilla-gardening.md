@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines permaculture design principles with direct action to reclaim concrete-dominated cityscapes for food production, ecological restoration, and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations. (see [[stametsian-permaculture-model]]).
+Urban guerrilla gardening is the practice of cultivating food, native plants, and productive ecosystems on neglected, abandoned, or unauthorized urban land. It combines [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] with direct action to reclaim concrete-dominated cityscapes for food production, [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]], and community building. The term encompasses a spectrum from seed-bombing vacant lots to systematic reclamation of abandoned properties with full garden installations.
 
 ## Philosophy and Motivation
 
@@ -39,7 +39,7 @@ Core drivers from practitioner accounts:
 
 - Build raised vegetable beds "out of sticks and blackberries" even in "really crappy soil"
 - Use salvaged materials: bathtubs, tires, milk crates, refrigerators
-- [[sheet-mulching|Sheet mulching]] with newspapers (6 pickup loads), leaf mulch, and straw
+- [[sheet-mulching]] with newspapers (6 pickup loads), leaf mulch, and straw
 - Sunk planting basins: dig into hard subsoil (caliche), fill with compost and salvaged manure
 - Grade surrounding soil to drain all rainwater into garden beds
 
@@ -53,7 +53,7 @@ Core drivers from practitioner accounts:
 
 ### Grafting Urban Fruit Trees
 
-- Graft scion wood of good fruit tree varieties onto crabapples in alleyways
+- Graft scion wood of good [[fruit-tree-varieties]] onto crabapples in alleyways
 - Graft onto non-fruiting cherries, peaches, and plums in parks
 - T-bud graft fruit trees and root semi-hardwood cuttings in tins of wet sand
 - Save diverse vegetable, flower, and herb seeds
@@ -62,7 +62,7 @@ Core drivers from practitioner accounts:
 ### Native Plant Guerrilla Gardens
 
 - Plant native species that survive on local rainfall alone
-- Native plants provide: medicinal value, food, wildlife habitat, bee forage, nitrogen fixation
+- Native plants provide: medicinal value, food, [[hemenway-backyard-wildlife-habitat]], bee forage, nitrogen fixation
 - They "bring the real world into the heart of the city"
 - Create 8-10 foot wide buffer zones of native plants for noise, pollution, light, and privacy screening
 
@@ -102,7 +102,7 @@ Core drivers from practitioner accounts:
 - "Urban permaculture is intensely social — everything you do is within sight, sound, or touch of a neighbor"
 - Start with visible, friendly activity — wave at passersby
 - Neighbors contribute: physical help, security, advice, plants, hot meals, materials
-- School gardens: permaculture gardens at middle schools build community across teachers, bus drivers, and parents
+- School gardens: [[mollison-guinea-pig-integration-in-permaculture-gardens]] at middle schools build community across teachers, bus drivers, and parents
 - Potlucks, workshops, and presentations for knowledge sharing
 - Stream rehabilitation as community project
 - "In fifty years, this coalition building will be a necessity. Now it is a choice"
@@ -126,6 +126,6 @@ Core drivers from practitioner accounts:
 
 ## Related Pages
 
-- [[water-catchment-urban-permaculture]] — Detailed water harvesting techniques
+- [[water-catchment-urban-permaculture]] — Detailed [[water-harvesting-techniques-comparison]]
 - [[permaculture-useful-plants-reference]] — Plant species catalog for urban settings
 - [[bill-mollison]] — Permaculture founder whose design principles underlie these techniques

@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Seed Junky Genetics. "Super Boof Strain Profile." seedjunky.com.
+  - Seed Junky Genetics. "Super Boof chupacabra-strain-profile-sickmeds-oner." seedjunky.com.
   - Leafly Staff (2024). "Super Boof blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
@@ -24,25 +24,25 @@ sources:
 
 ## Overview
 
-Super Boof is a modern hybrid cannabis strain bred by Seed Junky Genetics,
+Super Boof is a modern [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Seed Junky Genetics,
 a Los Angeles-based breeding collective known for producing commercially
 successful strains of the 2020s. Released in the early 2020s, Super Boof
 gained popularity for its potent effects, complex aroma, and visually
 striking buds.
 
 The strain is a cross between **Black Cherry Punch** (female) and
-**Tropicana Cookies** (male), combining indica-dominant relaxation with
+**[[tropicana-cookies]]** (male), combining indica-dominant relaxation with
 sativa-influenced cerebral stimulation. It has won or placed in multiple
 cannabis competitions, including the Emerald Cup and The Weedmaps
 Cannabis Cup.
 
 ## Lineage
 
-- **Female parent:** Black Cherry Punch — Purple Punch × Cherry AK-47.
+- **Female parent:** Black Cherry Punch — [[purple-punch]] × Cherry AK-47.
   Contributes deep purple coloration, cherry flavor, and heavy body
   effects.
-- **Male parent:** Tropicana Cookies — Alien Cookies × (Girl Scout
-  Cookies × Tangie). Contributes orange citrus terpenes, dense bud
+- **Male parent:** Tropicana Cookies — [[miracle-alien-cookies]] × (Girl Scout
+  Cookies × Tangie). Contributes [[fukuoka-mandarin-orange-citrus]] terpenes, dense bud
   structure, and uplifting mental effects.
 
 The approximate genetic ratio is roughly 60/40 indica-to-sativa,
@@ -88,59 +88,3 @@ and contributes to Super Boof's distinctive spicy-peppery finish.
 
 - **THC:** 25–32% (frequently tests above 28%)
 - **CBD:** <0.1% (negligible)
-- **Minor cannabinoids:** Trace CBG, CBC in some phenotypes
-
-This is a high-THC strain best suited for experienced consumers.
-Novice users may find it overwhelming even at moderate doses.
-
-## Effects
-
-**Onset:** Rapid, felt within 2–5 minutes of inhalation.
-
-**Cerebral effects:** Initial head rush with euphoric, uplifted mood.
-Creative and sociable energy for 30–60 minutes. Some phenotypes
-produce mild visual enhancement or sensory sharpening.
-
-**Body effects:** Progressive physical relaxation deepening over 1–2
-hours. Warm, heavy sensation spreading from the chest outward. Not
-typically couch-locking at moderate doses; higher doses lead to
-pronounced sedation.
-
-**Duration:** 2–4 hours depending on dose and tolerance.
-
-Common applications include stress relief, mild [[cannabis-pain-management-protocols]], mood
-elevation, and creative work. Versatile enough for daytime use at low
-doses but best reserved for evening at higher doses.
-
-## Cultivation
-
-**Flowering time:** 8–10 weeks indoor; early-to-mid October outdoor.
-**Yield:** Moderate-to-high; 400–500 g/m² indoor, 500–700 g/plant
-outdoor.
-**Difficulty:** Moderate. Responds well to low-stress training and
-topping. Sensitive to nitrogen excess in late flowering.
-
-**Climate preference:** Thrives in warm, Mediterranean climates.
-Temperature manipulation (cooling nights to 15–18°C in weeks 5–7 of
-flowering) maximizes purple color expression. Reduce humidity to
-40–50% in late flowering to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas.
-
-**[[cannabis-disease-pest-resistance-breeding-clarke]]:** Moderate. Dense bud structure makes it somewhat
-susceptible to botrytis in humid conditions.
-
-## Medical Applications
-
-High THC and caryophyllene content may be useful for [[cannabis-chronic-pain-management]],
-inflammation, stress-related anxiety, and insomnia. Limonene and
-linalool may offer additional anxiolytic and antidepressant effects.
-Not recommended for patients prone to THC-induced anxiety or paranoia.
-
-## Side Effects
-
-## See Also
-
-- super boof cannabis strain
-
-- [[cannabis-hindu-kush-strain-description-clarke]]
-- [[purple-punch]]
-- [[tropicana-cookies]]

@@ -1,5 +1,5 @@
 ---
-title: [[sour-diesel-cannabis]] [[oner-diesel-strain-lineage]] - Profiles and Genetics
+title: Oner Diesel Strain Lineage And Profiles
 source: cannabis-sativa-volume-3-the-essential-guide.md
 source_author: S.T. Oner, The Rev
 tags: [cannabis, sativa, diesel-strains, genetics, lineage, breeding, sour-diesel]
@@ -87,52 +87,3 @@ overwhelm other sativa lineages, a principle that has made Diesel
 one of the most commonly used parent strains in [[haze-lineage-and-legacy-in-modern-breeding]].
 
 **Key specs:** Sativa-dominant | Jack Herer × NYC Diesel
-
-## The Diesel Aroma Profile
-
-What defines the Diesel family is not a single genetic marker but a
-distinctive [[cannabis-terpene-profile]]. The characteristic "diesel fuel" aroma
-comes from specific combinations of terpenes — likely dominated by
-caryophyllene, limonene, and myrcene in particular ratios that create
-the fuel-like, pungent, and slightly bitter scent.
-
-This aroma is so distinctive that experienced consumers can identify
-Diesel genetics in a blind smell test. Breeders have sought to preserve
-this terpene profile while modifying other characteristics (plant size,
-flowering time, yield, potency), which is why Diesel has remained a
-recognizable family despite decades of crossing and backcrossing.
-
-## Diesel as a Building Block in Modern Breeding
-
-The Diesel lineage's importance extends far beyond the original strains.
-Diesel genetics have been incorporated into countless [[african-landrace-sativa-modern-hybrids]]
-because they contribute several valuable traits:
-
-- **Potent cerebral effects** that complement both stimulating and
-  relaxing profiles
-- **Distinctive aroma** that commands premium pricing
-- **Sativa-dominant growth patterns** that breeders use to add
-  head-high qualities to indica-dominant lines
-- **Relatively short flowering times** for sativa genetics (typically
-  9-10 weeks), making them practical for commercial cultivation
-
-The result is that Diesel genetics appear in an enormous percentage of
-modern [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]], often several generations removed from the
-original Chemdawg cross but still contributing their characteristic
-effects and aromas.
-
-## Cultural Significance
-
-Sour Diesel became the defining strain of East Coast [[mckenna-cannabis-culture-history]]
-in the late 1990s and 2000s. Its reputation was built entirely on
-clone-only genetics traded among growers, giving it an aura of
-exclusivity. The strain's name became so iconic that "Diesel" became
-a category of its own in dispensaries, alongside "Kush," "Haze," and
-"Blue" strains.
-
-The Diesel family's journey from an unidentified Chemdawg offspring
-at a Grateful Dead show to one of the most influential genetic
-families in cannabis history illustrates the organic, community-driven
-nature of cannabis breeding — a process that relied on grower networks,
-clone trading, and iterative selection long before the formalized
-breeding programs of the legal era.

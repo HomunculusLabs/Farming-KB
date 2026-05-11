@@ -88,36 +88,6 @@ of low awareness. Sedated by the prescripted daily television fix, they are a
 living dead, lost to all but the act of consuming.
 
 Their authenticity lies in their ability to obey and follow mass style changes
-that are conveyed through the media. McKenna calls this image, sickeningly
-Orwellian, a golem — a disensouled thing created to serve the purposes of its
-creators without consciousness or agency. Not to know one's true identity is to
-be a mad, disensouled thing — a golem.
-
-## Consciousness Expansion as the Antidote
-
-Years ago, before Humphrey Osmond coined the term "psychedelic," there was
-current a phenomenological description: they were called "consciousness-expanding
-drugs." McKenna believes this is a very good description. If the expansion of
-consciousness does not loom large in the human future, what kind of future is it
-going to be?
-
-The psychedelic experience, unlike television, dissolves the boundaries of the
-ego rather than reinforcing them. It creates not dependency but liberation, not
-habit but novelty, not consumption but direct experience of reality. This is why
-it represents the only genuine counterflow to the designer consciousness
-manufactured by consumer culture.
-
-## The Golem of Modernity
-
-McKenna extends his analysis to the broader question of authenticity in modern
-life. The failure of our civilization to come to terms with the issue of drugs
-and habitual destructive behavior is a legacy of unhappiness for all. If we
-sufficiently reconstructed our image of self and world, we could make out of
-psychopharmacology the stuff of our grandest hopes and dreams. Instead,
-pharmacology has become the demonic handmaiden of an unchecked descent into
-regimentation and erosion of civil liberties.
 
 ## See Also
-- [[mckenna-consciousness-expansion-and-drug-war]]
-- [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
 - [[mckenna-food-gods-television-dominator-drug]]

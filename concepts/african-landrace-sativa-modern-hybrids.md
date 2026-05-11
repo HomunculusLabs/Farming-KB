@@ -88,36 +88,3 @@ Despite their value, African landraces present significant challenges for breede
 The indigenous use of cannabis in Africa predates colonial contact by centuries. African communities developed unique cultivation, processing, and consumption traditions that shaped the genetics of local landrace populations. Traditional African cannabis cultivation often involved selecting plants for specific ritual, medicinal, or social purposes, which created genetic profiles that may differ significantly from those selected for recreational potency in Western markets.
 
 Understanding this cultural context is important for breeders working with African genetics. The characteristics that made a particular landrace valuable in its original context may not align with commercial market preferences, and vice versa. Preserving the full range of African cannabis genetic diversity requires maintaining not only the plants themselves but also the knowledge and traditions of the communities that developed them.
-
-## Terpene Profiles of African Landraces
-
-African landrace strains are distinguished by their unique terpene compositions, which often differ markedly from the profiles of Asian and American cannabis varieties:
-
-- **Sweet and fruity notes** — Malawi Gold and related southern African varieties often produce aromas described as sweet, fruity, and sometimes coffee-like. The combination of sweetness with earthy undertones is characteristic of many southern African sativas.
-
-- **Sharp and spicy** — Durban Poison contributes anise-like, spicy, and slightly sweet terpene profiles to its offspring. This sharp aromatic character is distinct from the more tropical fruit profiles of Southeast Asian sativas.
-
-- **Complex herbal** — Congolese and other central African landraces often exhibit complex herbal and woody aromas that reflect the diverse plant communities of their native environments.
-
-- **Resin characteristics** — African landraces are noted for producing exceptionally sticky, resinous buds. The resin itself often has a different texture and melting point compared to resin from Asian or American varieties, which may reflect differences in the specific cannabinoid and terpene ratios.
-
-These unique terpene profiles make African landraces valuable to breeders seeking to develop strains with novel flavors and aromas. As the cannabis market increasingly values terpene complexity over simple THC content, the aromatic diversity of African genetics becomes a significant breeding asset.
-
-## Conservation and Future Prospects
-
-The conservation of African landrace cannabis genetics faces mounting challenges. Urbanization, the introduction of foreign seed varieties, and changing agricultural practices all threaten the genetic purity of traditional African cannabis populations. Several organizations and individual breeders are working to address this through seed banking, field collection expeditions, and documentation of traditional cultivation knowledge.
-
-For the cannabis breeding community, African landraces represent an irreplaceable genetic resource. The unique combinations of flowering time adaptation, potency, resin production, and terpene diversity found in African genetics cannot be replicated in the laboratory. As modern [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] become more sophisticated, the value of diverse genetic raw material only increases. The African landrace sativas that have survived to the present day carry within them centuries of natural and human selection that would be impossible to reproduce.
-
-## Related
-
-- [[pure-africa-kenyan-landrace-sativa-strain]] Topics
-
-- [[cannabis-landrace-sativa-heritage-varieties]]
-- [[cannabis-colombian-gold-landrace-sativa]]
-- [[cannabis-sativa-breeding-evolution]]
-- [[cannabis-terpene-entourage-effect]]
-
-## Sources
-
-- S.T. Oner, The Rev (2014). *Cannabis Sativa Volume 3: The Essential Guide to the World's Finest Marijuana Strains*. Green Candy Press.

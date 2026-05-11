@@ -88,19 +88,3 @@ Pins mature over 3 to 14 days depending on species and conditions. Growth
 accelerates in the final 24 to 48 hours, with some oyster species doubling in
 size daily. Common abortion causes include temperature swings exceeding 5
 degrees, CO2 spikes from insufficient FAE, surface drying, physical disturbance,
-and contamination. Aborted pins appear as shriveled, brown, or fuzzy masses and
-should be removed promptly with sterile tools.
-
-## Optimizing Pin Sets
-
-A good pin set is an even distribution of healthy, similarly sized pins across
-the substrate surface. Strategies include maintaining consistent conditions
-during the 3 to 5 day primordiation window, eliminating drafts and hot spots,
-ensuring uniform light across the surface, and applying all triggers
-simultaneously to synchronize pin formation.
-
-## See Also
-
-- [[mushroom-cultivation-environmental-parameters]]
-- [[greg-green-temperature-and-humidity-control]]
-- [[mushroom-yield-optimization]]

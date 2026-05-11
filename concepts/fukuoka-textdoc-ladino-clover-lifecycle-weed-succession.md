@@ -1,5 +1,5 @@
 ---
-title: Ladino Clover Lifecycle and fukuoka-textdoc-clover-decline-and-weed-succession-orchard Dynamics
+title: Fukuoka Textdoc Ladino Clover Lifecycle Weed Succession
 created: 2026-04-28
 tags:
   - fukuoka
@@ -11,20 +11,21 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
 
 ## Overview
 
-Masanobu Fukuoka's use of ladino clover as the primary ground cover in his
+[[masanobu-fukuoka]]'s use of ladino clover as the primary [[fukuoka-citrus-orchard-ground-cover-cultivation]] in his
 citrus and deciduous fruit orchards represents one of the most carefully
 documented and practically refined elements of his [[comparison-natural-farming-vs-permaculture]] method.
 His observations of the clover lifecycle, its interactions with weed
-communities, and the long-term succession dynamics between cover crops and
+communities, and the long-term succession dynamics between [[cover-crops-and-green-manures]]
 volunteer vegetation provide a detailed case study in natural soil
 management without fertilizers or herbicides. This page explores the
-complete lifecycle of a clover cover stand, from initial seeding through
+complete lifecycle of a [[fukuoka-clover-cover-cropping-soil-ecology]] stand, from initial seeding through
 maturity and eventual decline.
 
 ## The Six-to-Seven Year Clover Cycle
@@ -49,7 +50,7 @@ soil layers and access mineral nutrients from deeper strata.
 
 ## Why Fukuoka Chose Ladino Clover
 
-When Fukuoka set out to revive his father's orchard of old citrus trees
+When Fukuoka set out to revive his father's orchard of old [[fukuoka-textdoc-search-natural-form-citrus-trees]]
 following World War II, he planted the seeds of thirty legumes, crucifers,
 and grasses throughout his orchard. From observations of these many
 species, he came to the general conclusion that he should grow a weed cover
@@ -86,29 +87,3 @@ annual weeds, which create space and mulch for the emerging clover
 seedlings. By timing the seeding to coincide with the weakening of
 competing vegetation, the clover gets a critical head start that allows
 it to establish dominance before summer weeds can germinate and compete.
-
-## Managing the Clover Stand
-
-Clover does not choke out other vegetation by direct competition but
-gradually becomes dominant by growing so thickly as to prevent the
-germination and establishment of other weeds. Moreover, when trampled and
-cut, most weeds weaken but clover grows all the more vigorously. This
-unique response to cutting and trampling is what makes clover such an
-effective ground cover for orchards that receive regular foot traffic.
-
-Failure to understand this characteristic and properly control the clover
-will lead to certain failure. At first, when the clover coexists with
-weeds, there may be no cause for concern. But if, after the clover takes
-well and flourishes, it is left alone, it becomes excessively luxuriant,
-leaving it open to attack by diseases such as leaf spot and the reemergence
-and eventual dominance of weeds again in five to six years. To maintain it
-over the years, clover requires the same meticulous care that one gives a
-lawn.
-
-Areas where perennial weeds such as sorrel and [[white-clover-ground-cover]]
-- Natural [[fukuoka-weed-management-and-green-manure]]
-
-## See Also
-
-- [[masanobu-fukuoka]]
-- [[natural-farming]]

@@ -1,5 +1,5 @@
 ---
-title: "Casing Layer Materials and Buffering Agents"
+title: Mushroom Cultivator Casing Materials Buffering Agents
 created: 2026-04-28
 tags: cotter-compost-substrate-preparation-manure-mushroom-cultivation], mushroom-cultivator,
       peat-moss, buffering-agents, pH-management]
@@ -16,14 +16,14 @@ mushroom species. It provides the microclimate necessary for
 [[growing-gourmet-primordia-formation-pinning]] and serves as a water reservoir supporting
 mushroom development through multiple flushes. The Mushroom
 Cultivator provides detailed guidance on selecting, formulating,
-and applying mushroom cultivator casing materials buffering agents.
+and applying [[mushroom-cultivator-casing-soil]] materials buffering agents.
 
 ## Functions of the Casing Layer
 
 A properly formulated casing layer must meet six requirements:
 
 1. **Water retention**: Hold high volumes of moisture while remaining
-   porous to gas exchange
+   porous to [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
 2. **Structure**: Maintain a porous, crumbly texture that resists
    compaction through repeated waterings
 3. **pH**: Remain within species-specific limits (Agaricus prefers
@@ -60,7 +60,7 @@ The development of peat moss-based casings has practically eliminated
 the use of soil in [[mazatec-mushroom-culture-and-velada]]. Peat is highly decomposed plant
 matter with a pH in the 3.5-4.5 range. This acidic condition
 precludes many contaminants from colonizing it, making peat a fairly
-"clean" starting material that rarely requires pasteurization.
+"clean" [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] that rarely requires pasteurization.
 
 Because peat is too acidic for most mushrooms, calcium buffering
 agents are essential. "Liming" also causes aggregation of peat
@@ -72,7 +72,7 @@ than fine peat.
 
 ### Chalk
 Used extensively in Europe, chalk is soft in texture and holds water
-well. Chunks ranging from one inch thick to dust improve casing
+well. Chunks ranging from one inch thick to [[query-how-does-rock-dust-improve-soil-fertility]] casing
 structure and continuously leach into the casing, providing long-
 lasting buffering action.
 
@@ -88,61 +88,3 @@ abilities. Number 9 grit is recommended.
 
 ### Dolomitic Limestone
 Rarely used due to high magnesium content. Some researchers have
-reported depressed mycelial growth in casings high in magnesium.
-
-### Marl
-Dredged from dry lake bottoms, marl is a soft lime similar to chalk
-with the consistency of clay. It is a composite of clay and calcium
-carbonate with good water holding capacity.
-
-### Oyster Shell
-Comprised of calcium carbonate, ground oyster shell is similar to
-limestone grit in buffering action and structural contribution.
-However, it should not be used as the sole buffering agent due to
-its low solubility in water.
-
-## Absorption Comparison
-
-| Material | Absorption (ml/g) | Water Holding |
-|---|---|---|
-| Vermiculite | 5.0 | 84% |
-| Peat | 2.5 | 79% |
-| Potting Soil | 0.7 | 76% |
-| Loam | 0.3 | 25% |
-| Chalk | 0.6 | 37% |
-| Limestone Grit | 0.2 | 15% |
-| Sand | 0.2 | 18% |
-
-## Casing Formulas (by Volume)
-
-### Formula 1
-- Coarse peat: 4 parts
-- Limestone flour: 1 part
-- Limestone grit: 0.5 part
-- Water: Approximately 2 to 2.25 parts
-
-### Formula 2
-- Coarse peat: 2 parts
-- Chalk or marl: 1 part
-- Water: Approximately 1 to 1.25 parts
-
-Vermiculite (0.5 to 1 part) can be added to improve water retention,
-especially when fruiting on thinly laid substrates. It must be
-presoaked to saturation before mixing.
-
-## Moisture Target
-
-Optimum [[mushroom-casing-moisture-management]] is normally 2-4% below saturation,
-typically 70-75% for peat-based casings. Saturation is determined by
-completely saturating a sample, draining for 30 minutes, then oven-
-drying a 100-gram sample at 200 degrees Fahrenheit.
-
-## Casing Depth Guidelines
-
-The general rule: the more mushrooms expected per square foot, the
-deeper the casing layer. Agaricus growers use minimum 1 inch to
-## See Also
-
-- [[mushroom-cultivation-basics]]
-- [[mushroom-cultivator-casing-soil]]
-- [[casing-soil-recipe-peat-vermiculite-limestone]]

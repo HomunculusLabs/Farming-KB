@@ -1,5 +1,5 @@
 ---
-title: Spectroscopic Characterization of Synthetic Psilocin and Psilocybin as Forensic Standards
+title: Shirota Psilocin Psilocybin Spectroscopic Characterization Forensic Standards
 source: Shirota, Hakamata & Goda (2003) - Concise Large-Scale Synthesis of Psilocin and Psilocybin
 concepts:
   - psilocybin
@@ -17,11 +17,11 @@ concepts:
 
 ## Overview
 
-The Shirota, Hakamata, and Goda (2003) synthesis of psilocin and psilocybin provides comprehensive spectroscopic data that serves as reference standards for forensic identification of these compounds in seized "magic mushroom" materials. The difficulty of isolating psilocin (due to its instability) and psilocybin (due to its high polarity) from fungal material on a gram scale makes synthetic standards essential for chromatographic methods including TLC, GC, and HPLC used in forensic laboratories worldwide.
+The Shirota, Hakamata, and Goda (2003) synthesis of psilocin and psilocybin provides comprehensive spectroscopic data that serves as reference standards for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of these compounds in seized "[[australian-magic-mushroom-common-names]]" materials. The difficulty of isolating psilocin (due to its instability) and psilocybin (due to its high polarity) from fungal material on a gram scale makes synthetic standards essential for chromatographic methods including TLC, GC, and HPLC used in forensic laboratories worldwide.
 
 ## Regulatory Context
 
-Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated under the Narcotics and Psychotropic Control Law in Japan. The morphological and microscopic identification of psychoactive mushrooms is extremely difficult without expert mycological knowledge, necessitating chromatographic confirmation. This regulatory need was the primary motivation for developing reliable gram-scale syntheses of reference standards.
+Since June 6, 2002, fungi containing psilocin and psilocybin have been regulated under the Narcotics and Psychotropic Control Law in Japan. The morphological and [[psilocybin-mushroom-microscopic-identification]] of [[ceremonial-shamanic-use-psychoactive-mushrooms]] is extremely difficult without expert mycological knowledge, necessitating chromatographic confirmation. This regulatory need was the primary motivation for developing reliable gram-scale syntheses of reference standards.
 
 ## UV-Visible Spectroscopy
 
@@ -87,62 +87,3 @@ The phosphate moiety introduces distinctive bands in the 1400-900 cm⁻¹ region
 ## Nuclear Magnetic Resonance Spectroscopy
 
 ### Psilocin ¹H NMR (CDCl₃, 400 MHz)
-
-- δ 7.90 (1H, br s, H-1, indole N-H)
-- δ 7.05 (1H, d, J = 8.0 Hz, H-6)
-- δ 6.86 (1H, dd, J = 0.8, 8.0 Hz, H-7)
-- δ 6.84 (1H, d, J = 2.4 Hz, H-2)
-- δ 6.56 (1H, dd, J = 0.8, 8.0 Hz, H-5)
-- δ 2.94 (2H, m, H₂-1')
-- δ 2.70 (2H, m, H₂-2')
-- δ 2.38 (6H, s, NMe₂)
-
-### Psilocybin ¹H NMR (D₂O, 400 MHz)
-
-- δ 7.22 (1H, d, J = 7.6 Hz, H-7)
-- δ 7.18 (1H, s, H-2)
-- δ 7.13 (1H, t, J = 7.6 Hz, H-6)
-- δ 6.98 (1H, d, J = 7.6 Hz, H-5)
-- δ 3.44 (2H, t, J = 7.2 Hz, H₂-2')
-- δ 3.28 (2H, t, J = 7.2 Hz, H₂-1')
-- δ 2.86 (6H, s, NMe₂)
-
-The downfield shift of the ethylamine chain protons in psilocybin (δ 3.44/3.28 vs δ 2.94/2.70 in psilocin) reflects the electron-withdrawing phosphate group effect transmitted through the indole ring.
-
-### Psilocybin ³¹P NMR
-
-A single resonance at δ -4.48 (referenced to phosphoric acid) confirms the O-phosphate diester. This chemical shift is characteristic of an alkyl aryl phosphate diester and serves as a definitive identifier for the phosphate group in psilocybin.
-
-## Mass Spectrometry
-
-### Psilocin ESI-MS
-
-- m/z 227.1 [M + Na]⁺
-- m/z 205.1 [M + H]⁺ (base peak)
-- m/z 160.1 [M - NMe₂]⁺ (96% relative intensity)
-- HRMS m/z 205.1303 [M + H]⁺ (calcd for C₁₂H₁₇N₂O: 205.1341)
-
-The [M - NMe₂]⁺ fragment at m/z 160.1 arises from cleavage of the C-N bond at the dimethylaminoethyl side chain, leaving the indole-4-ol core. This fragment is diagnostic for psilocin.
-
-### Psilocybin ESI-MS
-
-- m/z 307.1 [M + Na]⁺
-- m/z 285.1 [M + H]⁺ (base peak)
-- m/z 240.0 [M - NMe₂]⁺ (16%)
-- m/z 205.1 [M - H₂O₃P + H]⁺ (26%)
-- m/z 160.1 [M - H₂O₃P - NMe₂]⁺ (12%)
-- HRMS m/z 285.0991 [M + H]⁺ (calcd for C₁₂H₁₈N₂O₄P: 285.1004)
-
-The neutral loss of phosphoric acid (98 Da) yielding the psilocin fragment at m/z 205.1 provides a direct structural link between psilocybin and its active metabolite psilocin.
-
-## Forensic Significance
-
-These spectroscopic data provide multiple orthogonal identification methods. The combination of UV-Vis, IR, NMR, and MS allows unambiguous identification of psilocin and psilocybin in seized materials. The gram-scale chromatography-free synthesis makes these standards accessible to forensic laboratories requiring pure reference compounds for quantitative analysis.
-
-## See Also
-
-- [[psilocybin]]
-- [[psilocin]]
-- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
-- [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]
-- [[japan-narcotics-control-law-psilocybin-fungi-2002]]

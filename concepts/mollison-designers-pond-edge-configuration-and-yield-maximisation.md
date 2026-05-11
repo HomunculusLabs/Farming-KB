@@ -1,5 +1,5 @@
 ---
-title: mollison designers pond edge configuration and yield maximisation Configuration and Yield Maximisation
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Pond Edge Configuration And Yield Maximisation
 created: 2026-04-26
 tags:
   - aquaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 
 A pond can act as a mirror, a heat store, a run-off area, a cleanser of
 pollutants, a transport system, a fire barrier, a recreation asset, an
-energy storage, and an irrigation accessory. All this, and it is
+[[holmgren-built-environment-household-energy-storage]], and an irrigation accessory. All this, and it is
 intrinsically productive as well. To design for greatest energy
 efficiency, we need to look at the whole pond landscape and
 configuration to aid aeration, heating, nutrient flow, and the
@@ -55,7 +56,7 @@ per unit area, the greater the total yield potential.
 
 Ponds are said to have a specific "carrying capacity." If we
 overstock or crowd water, fish cease to grow (or some may die) and the
-water is then said to be fully stocked. Growth rates of fish follow
+water is then said to be fully stocked. [[coleman-sunlight-and-winter-crop-growth-rates]] of fish follow
 predictable curves in well-stocked ponds, showing the relationship
 between weight gains and reduction in numbers over time.
 
@@ -87,31 +88,3 @@ A good way to overcome the breeding problem (where ponds become
 crowded with many small fish) is to keep a few predatory fish in a
 cage or netted-off area of the pond. A good way to overcome fry loss
 is to rear these in small covered ponds, and release them as
-fingerlings or well-grown fish in order to give them a flying start.
-
-Skills in pond management, and especially in integrating species and
-yields, or in judging and regulating water quality, are hard-won.
-Planning and design, and monitoring and research, are essential to
-success at the intensive level. Those who are able to select and
-develop an extensive site (20 hectares or much larger) can accept
-lower total yields with less costs and risks.
-
-## Multiple Use Design
-
-Wild duck do not annoy catfish, and pay their way in phosphatic
-fertilisers; there is no need to deprive them of islands, shallows,
-or nest boxes. This principle of multiple use applies to all pond
-design. Aquatics provide food and wildlife shelter while serving many
-other functions. Every pond margin feature should be assessed for its
-potential to serve multiple functions simultaneously.
-
-## Related Topics
-
-- mollison-pond-systems-layouts-and-connectivity - Pond
-  arrangement in the landscape
-- mollison-aquatic-polyculture-and-pond-culture - Species mixes
-  for productive ponds
-- [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
-  - [[green-cannabis-grow-bible-nutrient-management-ppm]] in ponds
-- [[mollison-designers-wild-yield-and-foraging-systems]]
-- [[mollison-designers-aquatic-edge-planted-wetland-design]]

@@ -28,20 +28,20 @@ coppiced annually, making it an outstanding multi-purpose food crop.
 
 ## Varieties
 
-There are approximately 13 species of Moringa, but Moringa oleifera is the most
+There are approximately 13 species of Moringa, but [[moringa-oleifera]] is the most
 widely cultivated. Within this species, several cultivars have been developed
 for specific purposes. PKM-1 and PKM-2 are Indian varieties bred for early
 flowering and heavy pod production. African types tend to produce larger, more
-robust leaves. Some dwarf varieties are available for container growing and easy
-harvest. Moringa stenopetala, a related African species, is also cultivated for
-its larger, milder-tasting leaves and greater cold tolerance.
+robust leaves. Some dwarf varieties are available for [[container-growing-vegetables-herbs]] and easy
+harvest. [[moringa-stenopetala]], a related African species, is also cultivated for
+its larger, milder-tasting leaves and greater [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
 
 ## Propagation
 
 Moringa is most commonly propagated from seed. Seeds germinate readily within
 1-2 weeks when planted in warm, well-drained soil.
 [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] works well in
-tropical climates. Cuttings are also effective — take 3-6 foot hardwood cuttings
+[[fukuoka-natural-farming-tropical-climates]]. Cuttings are also effective — take 3-6 foot hardwood cuttings
 (1-2 inches diameter) and plant them directly in the ground or in deep
 containers. Cuttings establish faster and produce sooner than seed-grown trees,
 though they develop weaker root systems. For nursery production, sow seeds in
@@ -70,7 +70,7 @@ Moringa is relatively pest-resistant. Aphids may infest tender new growth,
 caterpillars can defoliate young trees, and stem borers occasionally tunnel into
 branches. Root rot can develop in waterlogged soils, so proper drainage is
 essential. The tree's rapid growth generally outpaces most pest damage. Neem
-sprays or insecticidal soap can manage severe infestations. Termites attack
+sprays or [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] can manage severe infestations. Termites attack
 moringa wood in some regions.
 
 ## Harvesting and Use
@@ -88,56 +88,3 @@ moringa wood in some regions.
 
 Moringa leaves are among the most nutrient-dense greens available, containing
 significant amounts of protein, calcium, iron, vitamin A, and vitamin C. Per
-gram, dried moringa leaf powder contains roughly twice the protein of yogurt,
-four times the calcium of milk, and seven times the vitamin C of oranges. It is
-one of the few plant sources containing all nine essential amino acids.
-
-## Medicinal Uses
-
-Moringa has a long history of use in traditional medicine across South Asia and
-Africa. The leaves have documented anti-inflammatory, antioxidant, and
-[[mycelium-running-mushroom-antimicrobial-properties-species-chart]]. Moringa
-seeds contain proteins that can clarify turbid water, acting as natural
-coagulants — a practice used in simple water purification systems in developing
-countries. Research has explored moringa's potential for managing blood sugar,
-cholesterol, and blood pressure, though more clinical studies are needed to
-confirm these effects.
-
-## Water Purification
-
-One of moringa's most practical applications is water purification. Crushed
-moringa seeds contain a cationic protein that binds to sediment particles and
-bacteria, causing them to clump together and settle out of solution. A single
-crushed seed can treat up to one liter of turbid water. This natural coagulant
-is particularly valuable in rural areas where conventional water treatment is
-unavailable. The seeds work alongside other natural filtration methods to
-provide cleaner drinking water.
-
-## Intercropping and Agroforestry Applications
-
-Moringa serves as a fast-growing nurse tree providing dappled shade for
-shade-tolerant understory crops like coffee, cacao, and turmeric. Its rapid
-leaf fall contributes organic matter to the soil surface. Alley cropping systems
-using moringa have shown significant soil improvement in tropical regions. The
-deep taproot accesses subsoil nutrients and moisture, making it compatible with
-shallow-rooted crops without excessive competition. In permaculture food
-forests, moringa occupies the mid-canopy layer and provides rapid biomass
-accumulation during system establishment.
-
-## Climate Adaptation and Drought Response
-
-Moringa exhibits exceptional drought tolerance once established. During dry
-periods, the tree sheds its leaves and enters dormancy, then rapidly refoliates
-when rains return. This allows survival in areas receiving as little as 250mm of
-annual rainfall. Moringa's root system can extend 2+ meters below the surface,
-accessing deep moisture reserves. Climate models project that moringa's suitable
-range will expand as temperatures rise, positioning it as a climate-resilient
-crop. Organizations including Trees for Life have promoted moringa cultivation
-across sub-Saharan Africa and South Asia for nutritional resilience.
-
-## See Also
-
-- [[permaculture-food-forest-design-principles]]
-
-- [[medicinal-mushroom-antioxidant-anti-inflammatory]]
-- [[moringa-oleifera]]

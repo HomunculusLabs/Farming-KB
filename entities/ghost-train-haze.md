@@ -24,7 +24,7 @@ The combination of Ghost OG's potency with Neville's Wreck's energetic sativa ef
 
 It won first place in the Sativa category at the 2014 High Times Cannabis Cup in Denver.
 
-Ghost Train Haze is considered one of the strongest sativa-dominant strains available, with THC content regularly exceeding 25%.
+Ghost Train Haze is considered one of the strongest sativa-dominant strains available, with [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] regularly exceeding 25%.
 
 The strain is popular among experienced consumers seeking a powerful, long-lasting psychoactive experience.
 
@@ -42,7 +42,7 @@ The name references the ghostly, hazy appearance of its densely trichome-covered
 
 **Bud appearance:**
 
-- Medium to large, elongated buds with a loosely packed structure typical of sativa varieties.
+- Medium to large, elongated buds with a loosely packed structure typical of [[landrace-sativa-varieties]].
 - Coloration is bright green with pale yellow-green undertones and occasional orange pistils.
 - The flowers are heavily coated in a thick layer of translucent white trichomes, giving them a frosty, spectral appearance.
 - Heavy [[cannabis-glandular-trichome-types-resin-production-clarke]] makes the buds sticky to the touch.
@@ -67,7 +67,7 @@ The name references the ghostly, hazy appearance of its densely trichome-covered
 
 - **THC:** 20–28%, with some phenotypes reportedly testing above 30%.
 - **CBD:** Less than 0.1% — virtually absent.
-- **Minor cannabinoids:** Trace levels of CBG and CBC may be present depending on phenotype and cultivation.
+- **[[cannabis-minor-cannabinoids]]:** Trace levels of CBG and CBC may be present depending on phenotype and cultivation.
 
 The extremely low CBD content means there is no significant counterbalance to the psychoactive effects of THC.
 
@@ -78,7 +78,7 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 **Onset and progression:**
 
 - Effects begin rapidly, typically within 5–10 minutes of inhalation.
-- Initial onset is characterized by an intense cerebral rush, including heightened sensory perception and racing thoughts.
+- Initial onset is characterized by an intense cerebral rush, including heightened [[plant-sensory-perception]] and racing thoughts.
 - Euphoria and creative energy follow, often described as psychedelic or trippy at higher doses.
 - Body effects are secondary and mild, consisting of a light buzzing sensation rather than heavy sedation.
 
@@ -88,36 +88,3 @@ This cannabinoid profile places Ghost Train Haze firmly in the high-THC, low-CBD
 - Intense creative focus and ideation.
 - Heightened sensory perception (visuals, music appreciation).
 - Energy and sociability in moderate doses.
-- Potential for introspection and contemplative states.
-
-**[[blesching-cannabis-safety-adverse-effects-evidence]]:**
-
-- Dry mouth and dry eyes are common.
-- Anxiety and paranoia, particularly at higher doses or in inexperienced users.
-- Dizziness, headaches, and elevated heart rate are reported by some consumers.
-- Insomnia may follow the comedown phase in sensitive individuals.
-
-## Cultivation
-
-**Growing difficulty:** Moderate to difficult. Ghost Train Haze requires attention to training and [[eclss-environmental-control-life-support]].
-
-**Flowering time:** 9–11 weeks indoors.
-
-**Yield:** Moderate, approximately 10–14 ounces per square meter indoors.
-
-**Climate preference:** Warm, Mediterranean-like conditions. The strain performs best with consistent temperatures between 70–80°F (21–27°C) and moderate humidity.
-
-**Key cultivation notes:**
-
-- Plants can stretch significantly during the vegetative and early flowering phases due to sativa dominance.
-- Topping, low-stress training (LST), and [[cannabis-screen-of-green-scrog-guide]] (ScrOG) methods are recommended to manage height.
-- The strain is sensitive to nutrient burn, particularly during flowering.
-- Heavy trichome production makes it attractive for hash and concentrate extraction.
-- Pungent aroma during flowering requires adequate [[cannabis-odor-control-and-carbon-filters]] for indoor grows.
-
-## See Also
-
-- [[trainwreck-cannabis]]
-- [[northern-lights]]
-- [[jack-herer]]
-- [[green-crack]]

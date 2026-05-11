@@ -40,7 +40,7 @@ Stem leaves are smaller, sessile, and lanceolate, reducing in size toward the ap
 
 Each flower is campanulate, 2.5–3.5 cm long, and pale cream to ivory-white. The corolla lobes are recurved at the tips, revealing a subtle greenish tinge inside.
 
-The style extends beyond the corolla and curves downward, a trait shared with other pendulous-flowered Campanula species. Anthers form a tight tube around the style, facilitating efficient pollen collection by visiting bees.
+The style extends beyond the corolla and curves downward, a trait shared with other pendulous-flowered Campanula species. Anthers form a tight tube around the style, facilitating efficient [[cannabis-pollen-collection]] by visiting bees.
 
 The fruit is a nodding, cylindrical capsule that dehisces through small basal pores. Seeds are small, light brown, and numerous, adapted to wind dispersal.
 
@@ -54,13 +54,13 @@ The species grows at elevations of 400–2200 m, preferring limestone substrates
 
 Populations are typically scattered, occurring in subalpine meadow clearings and on shaded cliff faces. The plant tolerates partial shade well but flowers most prolifically in full sun.
 
-Rainfall in its native range averages 800–1500 mm annually, with most precipitation occurring in spring and early summer. The species shows moderate drought tolerance once established, owing to its deep taproot system.
+Rainfall in its native range averages 800–1500 mm annually, with most precipitation occurring in spring and early summer. The species shows moderate [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, owing to its deep taproot system.
 
-The ivory bellflower is not considered threatened, though habitat degradation from overgrazing affects some lower-elevation populations. Conservation status has not been formally assessed by the IUCN.
+The ivory bellflower is not considered threatened, though habitat degradation from overgrazing affects some lower-elevation populations. [[fungal-biodiversity-conservation-status]] has not been formally assessed by the IUCN.
 
 ## Cultivation
 
-Ivory bellflower prefers well-drained, alkaline to neutral soils enriched with organic matter. It performs best in full sun to partial shade with consistent moisture during the growing season.
+Ivory bellflower prefers well-drained, alkaline to neutral soils enriched with [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. It performs best in full sun to partial shade with consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Hardy to USDA zones 5–8, the species tolerates winter temperatures to −25 °C. Mulching in late autumn protects the crown from frost heave in colder regions.
 
@@ -86,35 +86,4 @@ In its native range, the species contributes to the biodiversity of limestone cl
 
 The deep taproot helps stabilize loose scree and rocky substrates. Seed capsules provide food for small finches and passerines during late autumn.
 
-The species is a weak competitor against vigorous ground covers and grasses. It persists best in sites where competition is limited by shallow soil or rocky conditions.
-
-Myrmecochory has been suggested for some Campanula species, with ants dispersing seeds attracted by elaiosomes. However, C. alliariifolia lacks well-developed elaiosomes, relying primarily on wind and gravity for seed dispersal.
-
-## Uses
-
-Campanula alliariifolia is cultivated as an ornamental perennial in borders, rock gardens, and cottage garden schemes. The tall flower spikes provide vertical accent and pair well with dark-flowered companions.
-
-The species has received the RHS Award of Garden Merit, confirming its reliability in UK gardens. It is particularly effective when naturalized in woodland edge plantings.
-
-Few ethnobotanical records exist for this species. Related Caucasian Campanula species have been used in folk medicine as anti-inflammatory remedies, though C. alliariifolia itself lacks documented traditional uses.
-
-In Georgian folk taxonomy, bellflowers of the Caucasus are collectively known as "lila," though this term encompasses several Campanula species without distinguishing among them. The white-flowered form is sometimes called "lila tsiteli" (white lila) in local dialects.
-
-The cut flowers last 7–10 days in water, making them suitable for informal floral arrangements.
-
-Several cultivars have been selected, though none are widely available in commercial trade. 'Chocolate' offers deeper cream flowers with a slight bronze tinge on the calyx.
-
-The species hybridizes occasionally with Campanula lactiflora in cultivation, producing intermediate plants with larger, paler flower heads. These natural hybrids are sterile but vegetatively vigorous.
-
-## See Also
-
-- [[campanula-carpatica]]
-- [[campanula-persicifolia]]
-- [[campanula-lactiflora]]
-- [[campanula-trachelium]]
-- [[campanula-rotundifolia]]
-- [[campanula-medium]]
-- [[campanula-glomerata]]
-- [[phyteuma-spicatum]]
-- [[campanula-poscharskyana]]
-- [[campanula-rapunculoides]]
+The species is a weak competitor against vigorous [[permaculture-plants-ground-covers-and-accumulators]] grasses. It persists best in sites where competition is limited by shallow soil or rocky conditions.

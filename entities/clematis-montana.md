@@ -22,7 +22,7 @@ The specific name anemone clematis refers to the resemblance of its open flowers
 
 The species was introduced to European cultivation in the early 19th century, likely around 1830–1831. Plant collectors working in the Himalayan region sent specimens to England, where it quickly became popular for its rapid growth and abundant flowering.
 
-The species is native to the Himalayas and mountainous regions of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it scrambles through forest margins and rocky slopes at elevations of 1,000–3,500 meters. Its rapid growth rate and spectacular floral display have made it a garden staple in temperate climates worldwide.
+The species is native to the Himalayas and mountainous regions of [[neurotropic-fungi-japan-east-asia-species-cultural-context]], where it scrambles through forest margins and rocky slopes at elevations of 1,000–3,500 meters. Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] and spectacular floral display have made it a garden staple [[query-how-to-grow-and-use-oca-in-temperate-climates]] worldwide.
 
 Several botanical varieties have been recognized within the species. C. montana var. montana is the typical white-flowered form from the western Himalayas. C. montana var. grandiflora features larger flowers, sometimes reaching 7 cm in diameter.
 
@@ -58,7 +58,7 @@ It has become naturalized in parts of western Europe, New Zealand, and the Pacif
 
 The species is remarkably cold-hardy, tolerating temperatures to -20°C or lower once established. In colder regions, new growth may be damaged by late spring frosts, though established plants recover quickly from the base.
 
-In cultivation, it has adapted to a broader range of conditions than its native montane habitat would suggest. It grows successfully in lowland gardens across much of temperate Europe, North America, and Australasia.
+In cultivation, it has adapted to a broader range of conditions than its native montane habitat would suggest. It grows successfully in lowland gardens across much of temperate Europe, [[guzman-psilocybin-mushrooms-north-america]], and Australasia.
 
 The species prefers a position with its roots in shade and its foliage in sun or partial shade. This "head in the sun, feet in the shade" principle is a well-established Clematis cultivation guideline that applies particularly strongly to C. montana.
 
@@ -87,34 +87,3 @@ Its vigorous growth makes it suitable for covering unsightly structures quickly.
 The silvery seed heads provide secondary ornamental value from midsummer through autumn. Some cultivars, particularly 'Elizabeth', are notably fragrant with a scent reminiscent of vanilla or hawthorn blossom.
 
 The species is less versatile in small gardens than some Clematis cultivars due to its size. Its vigorous growth habit requires a substantial supporting structure and regular management to prevent it from overwhelming neighboring plants.
-
-In traditional English cottage gardens, C. montana is often paired with old roses, allowing the clematis to weave through the rose canopy. The combination of spring clematis flowers and early summer roses creates an extended flowering period on a single structure.
-
-The Royal Horticultural Society has awarded the species and several of its cultivars the Award of Garden Merit. C. montana itself received the AGM in 1993, confirming its gardenworthiness across a wide range of British growing conditions.
-
-In Japanese gardens, C. montana is valued for its naturalistic growth habit. It is trained over bamboo fences and stone walls where its informal flowering complements the aesthetic of controlled wildness.
-
-## Ecology and Interactions
-
-In its native range, the flowers are pollinated by a variety of insects including bees, flies, and butterflies. The open, accessible floral structure and prominent stamens make the nectar and pollen readily available to generalist pollinators.
-
-The dense foliage provides cover and nesting habitat for small birds. In temperate gardens, the vine's structure is used by spiders and other invertebrates, contributing to garden biodiversity.
-
-The species has low invasive potential in most temperate regions, though garden escapees have established locally in parts of western Europe. It is not listed as invasive by any major regulatory authority.
-
-Aphids and [[cervantes-spider-mites-identification-control]] may occasionally affect new growth, particularly in dry conditions. However, the species' vigorous growth habit typically outpaces minor pest damage without requiring intervention.
-
-Deer and rabbits generally avoid browsing C. montana, as all parts of the plant contain protoanemonin compounds. These glycosides, also found in other Ranunculaceae, cause mild irritation and are unpalatable to mammalian herbivores.
-
-## See Also
-
-- [[clematis-vitalba]]
-- [[wisteria-sinensis]]
-- [[wisteria-floribunda]]
-- [[lonicera-japonica]]
-- [[jasminum-officinale]]
-- [[trachelospermum-jasminoides]]
-- [[parthenocissus-tricuspidata]]
-- [[parthenocissus-quinquefolia]]
-- [[hedera-helix]]
-- [[actinidia-chinensis]]

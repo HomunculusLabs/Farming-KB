@@ -1,5 +1,5 @@
 ---
-title: Dead dead sea scrolls entheogenic reading and Entheogenic Readings
+title: Dead Sea Scrolls Entheogenic Reading
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -12,7 +12,7 @@ sources:
 The Dead Sea Scrolls, discovered in caves near Qumran beginning in 1947, have
 inspired various entheogenic interpretations, most notably by [[john-allegro]] in [The [[allegro-the-sacred-mushroom-amanita-identification]] and the Cross
 (1970). These readings propose that the Jewish sect responsible for the Scrolls
-used psychoactive substances, particularly the [[fly-agaric]] mushroom, in their religious practices.
+used [[cultural-evolution-and-psychoactive-substances]], particularly the [[fly-agaric]] mushroom, in their religious practices.
 
 ## Allegro's Role with the Scrolls
 
@@ -32,7 +32,7 @@ copies and further annoyed his colleagues.
 
 ## Allegro's Entheogenic Interpretation
 
-In The Sacred Mushroom and the Cross, Allegro argued that the Dead Sea Scrolls
+In [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and the Cross, Allegro argued that the Dead Sea Scrolls
 contained coded references to the sacred mushroom. He pointed to several features
 of the Scrolls that he believed supported his theory:
 
@@ -52,7 +52,7 @@ effects and side-effects of the sacred drug, not moral categories.
 **Astrological charts**: An astrological chart recovered from the Dead Sea caves
 describes the physical and spiritual characteristics of people born under
 different zodiac signs. Allegro connected this to the combined arts of medicine
-and astrology, which he argued were inseparable in the ancient world, and both
+and astrology, which he argued were inseparable in [[allegro-plants-and-drugs-in-the-ancient-world]], and both
 dependent on drug knowledge.
 
 ## The Essenes and Drug Knowledge
@@ -75,7 +75,7 @@ substances. He argued that:
   "pure, unadulterated semen of the god," which certain plants were thought to
   approximate.
 
-**The secret knowledge**: The Essenes' secret knowledge, preserved under
+**The [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]**: The Essenes' secret knowledge, preserved under
 "tremendous oaths" by initiates, was, in Allegro's reading, knowledge of the
 sacred mushroom and its preparation. The names of healing "angels" were
 invocations of the powers contained in the drugs.
@@ -88,36 +88,3 @@ rejected by mainstream scholarship. Several fatal objections apply:
 **Absence of direct evidence**: Not a single Dead Sea Scroll text explicitly
 mentions mushrooms or any identifiable psychoactive substance in a cultic
 context.
-
-**Alternative explanations**: The coded language, astrological charts, and
-Light-Darkness dualism all have well-established explanations within the context
-of Second Temple Judaism and apocalyptic literature that do not require
-entheogenic interpretations.
-
-**Geographical implausibility**: The fly-agaric and its host-tree species are
-largely absent from the flora of the Middle East, making the existence of a
-local fly-agaric cult extremely unlikely.
-
-**Allegro's compromised credibility**: By the time he published his entheogenic
-theories, Allegro's academic reputation was already severely damaged by his
-earlier conflicts with the Scrolls team. His subsequent behaviour confirmed
-scholars' suspicions that his work was driven by personal animus rather than
-scholarly evidence.
-
-## Broader Entheogenic Speculation
-
-Despite the scholarly rejection of Allegro's specific claims, the Dead Sea
-Scrolls continue to attract entheogenic speculation from outside academia.
-Various authors have proposed that the Scrolls contain references to psychoactive
-substances including ergot, cannabis, and other plant preparations.
-
-These interpretations remain speculative and are not accepted by mainstream
-Scrolls scholarship. The Scrolls are primarily understood as the library of a
-Jewish sectarian community concerned with purity, apocalyptic expectation, and
-the interpretation of Jewish law.
-
-## See Also
-
-- [[sacred-mushroom-and-the-cross]] - Allegro's full argument
-- organized religion - [[allegro-fertility-philosophy-of-the-ancient-near-east]] Eastern fertility religion
-- [[allegro-soma-mushroom-thesis]] - Allegro's broader thesis

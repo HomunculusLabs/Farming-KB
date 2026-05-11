@@ -1,10 +1,11 @@
 ---
-title: growing-gourmet-mycelial-morphology-classification-agar-media and Strain Evaluation (Stamets)
+title: Stamets Mycelial Morphology Strain Evaluation
 created: 2026-04-28
-tags: [mycelium, strain-selection, mushroom-cultivation, mycology]
+tags: [[mycelium]], strain-selection, [[mushroom-cultivation]], mycology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -56,7 +57,7 @@ that genetics, nutrition and age of the mycelium play important roles.
 
 According to Stoller (1962), the growth of fluffy sectors is encouraged by
 broken and exploded kernels which increase the availability of starch in the
-spawn media. Working with Agaricus brunnescens, Stoller noted that although
+[[liquid-inoculation-alternative-spawn-media]]. Working with [[agaricus-brunnescens]], Stoller noted that although
 mycelial growth is faster at high pH levels (7.5) than at slightly acid pH
 levels (6.5), sectoring is more frequent at the higher pH.
 
@@ -86,60 +87,3 @@ distantly resemble the original in vitality, mycelial appearance and fruiting
 potential. This is an inevitable consequence of extended subculturing.
 
 ## Measures to Promote Rhizomorphism
-
-If a culture is predominantly rhizomorphic but begins to sector, several
-measures can be undertaken to promote rhizomorphism and prevent degeneration:
-
-1. **Propagate only rhizomorphic sectors** and avoid cottony ones. This is the
-   single most important selection criterion.
-
-2. **Alter the media regularly** using different agar formulas. Growing a
-   strain on the same formula is not recommended because the nutritional
-   composition exerts a selective influence on [[ligninolytic-enzyme-production-bioremediation]]. By varying the
-   media, the strain's enzyme system remains broadly based.
-
-3. **Only grow out the amount of mycelium needed** for [[growing-gourmet-sawdust-spawn-production-use]] and
-   return the strain to storage when not in use.
-
-4. **Re-isolate new substrains** from multispore germinations if efforts to
-   preserve a vital strain fail.
-
-5. **Create hybrid strains** from the mating of dikaryotic mycelia of two
-   genetically distinct parents. Note that most hybrids yield less than both
-   contributing strains, though a minority may be more productive.
-
-## Strain Evaluation Criteria
-
-Home cultivators can selectively develop mushroom strains by rating mycelia
-according to several characteristics. These criteria form the basis for
-qualitative judgment and strain selection over time:
-
-1. Rhizomorphism: fast growing vegetative mycelium
-2. Purity of the strain: lack of cottony sectors
-3. Cleanliness of the mycelia: lack of associated competitor organisms
-4. Response time to [[growing-gourmet-primordia-formation-pinning]] conditions
-5. Number of primordia formed
-6. Proportion of primordia formed that grow to maturity
-7. Size, shape and/or color of fruitbodies
-8. Total yield
-9. Disease resistance
-10. CO2 tolerance/sensitivity
-11. Temperature limits
-12. Ease of harvesting
-
-## Species-Specific Considerations
-
-Characteristics of fruiting mycelium are often species specific and may not
-conform precisely to the categories outlined here. Cultivators should gain
-experience with their target species before making definitive judgments about
-mycelial quality. The addition of ground rye grain or grain extract to agar
-media clearly promotes the growth of strandy mycelium, the kind generally
-preferred for its fast growth.
-
-## See Also
-
-- [[stamets-slant-culture-strain-preservation]]
-- stamets-spawn-making-and-grain-culture
-- [[growing-gourmet-mycelial-morphology-classification-agar-media]]
-- [[spawn-production]]
-- [[agaricus-brunnescens]]

@@ -87,37 +87,3 @@ All three strains were analyzed from first-flush harvests, a context in which ps
 ### Caps vs Stems for Potency
 
 The finding that caps generally contain more psilocybin than stems (in two of three strains) has practical implications for mushroom consumers:
-
-- **Caps are generally more potent**: For strains that show the cap-concentration pattern, consuming caps will deliver approximately twice the psilocybin per gram compared to stems.
-- **Stems contribute to total dose**: Despite lower concentration, stems represent a significant portion of the total mushroom weight, so they still contribute meaningfully to overall dosage.
-- **Strain-specific variation matters**: The Amazon strain's equal distribution means that the cap-vs-stem distinction is less meaningful for all strains. Without knowing the specific strain, the general rule of "caps are stronger" is a reasonable but imperfect heuristic.
-
-### Psilocin's Contribution to the Experience
-
-The strain-dependent and tissue-dependent distribution of psilocin adds complexity to the dosing picture:
-
-- **M.R. and Equadorian**: The psilocin is exclusively in the stems. Consumers who discard stems (as some do for taste or texture reasons) would miss the psilocin contribution entirely.
-- **Amazon**: The trace psilocin is in the caps. Even at 0.1 mg/g, the contribution is minimal in first-flush material.
-
-Since psilocin is generally present at much lower levels than psilocybin (typically less than half, often near zero), its contribution to the overall experience is relatively minor compared to psilocybin. However, psilocin is more readily absorbed due to the absence of the phosphate group, and some researchers suggest it may contribute differently to the qualitative character of the experience.
-
-## Research Context and Significance
-
-This cap-versus-stem analysis was conducted as part of a broader investigation into alkaloid variation in Psilocybe cubensis. The strain-dependent findings reinforce the study's overall conclusion that alkaloid levels in this species are highly variable and difficult to predict based on general rules.
-
-The three strains analyzed represent a small sample of the genetic diversity within Psilocybe cubensis, which is a widely distributed species with numerous cultivated varieties. The differences observed among just three strains suggest that a broader survey would reveal even more variation in tissue-specific alkaloid distribution patterns.
-
-## Analytical Methodology Notes
-
-The cap and stem separation was performed on first-flush specimens from all three strains. Each tissue type was analyzed separately using the same reversed-phase HPLC method employed throughout the study, calibrated against National Institute on Drug Abuse standards and confirmed by TLC with butanol-acetic acid-water (12:3:5).
-
-The detection limit of approximately 0.01 μg for both psilocybin and psilocin means that reported "zero" values indicate levels below this threshold rather than absolute absence. It is possible that small amounts of psilocin exist in tissues where it was reported as zero, but at concentrations below the method's detection capability.
-
-## See Also
-
-- [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
-
-- [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
-- bigwood-beug-psilocybin-psilocin-variation-analysis
-- [[psilocybin-psilocin-variation-flushes-cubensis]]
-- [[psilocybe-cubensis-potency-variation-by-flush]]

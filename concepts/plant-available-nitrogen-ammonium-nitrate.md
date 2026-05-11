@@ -14,7 +14,7 @@ temperate and [[mollison-designers-pioneer-species-for-exhausted-tropical-soils]
 (78% of air), plants can only absorb it in two mineral forms: ammonium
 (NH4+) and nitrate (NO3-). Understanding the dynamics between these
 two forms is essential for managing soil fertility and maintaining
-healthy [[soil-food-web]] function.
+healthy [[soil-foodweb]] function.
 
 ## The Nitrogen Cycle in Soil
 Organic nitrogen enters soil through plant residues, animal manures,
@@ -87,11 +87,4 @@ nutrient release matched to plant demand, avoiding both deficiency and
 environmental losses.
 
 ## Connections
-- [[soil-food-web]]
-- nitrogen fixing
-- rhizobia
-- [[mycorrhiza]]
-- [[query-what-is-polyculture-and-how-does-it-differ-from-monoculture]]
-- cover cropping
-- compost
-- nutrient cycling
+- [[soil-foodweb]]

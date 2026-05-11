@@ -10,7 +10,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sus
 
 Pigs offer a remarkably effective biological solution for clearing
 stubborn weed infestations and preparing land for orchard planting.
-Rather than relying on heavy machinery or chemical herbicides,
+Rather than relying on [[jadam-soil-compaction-heavy-machinery]] or chemical herbicides,
 permaculture systems leverage pigs& [[mollison-designers-willow-water-and-natural-rooting-propagation]] behavior to
 transform dense weed mats into workable soil. This approach aligns with
 the broader principle of using animals as partners in land management.
@@ -62,7 +62,7 @@ The pig land-clearing system creates multiple simultaneous benefits:
 2. **Land preparation** -- the rooted-up soil is ready for orchard
    planting without additional tilling
 3. **Soil improvement** -- pig manure and aeration create favorable
-   conditions for newly planted fruit and nut trees
+   conditions for newly planted fruit [[holzer-sweet-chestnut-and-nut-trees]]
 4. **Animal welfare** -- pigs engage in natural behaviors (rooting,
    foraging, exploring) rather than being confined to concrete pens
 5. **Food production** -- the pigs themselves become a protein source
@@ -87,63 +87,4 @@ Effective pig clearing requires careful planning:
   to mud for thermoregulation and skin health
 - **Shelter** -- shade structures protect pigs from sun and rain;
   simple A-frame shelters work well and can be moved with the pigs
-- **Follow-up** -- once pigs are moved out, plant ground covers
-  immediately to prevent any surviving junkus from reestablishing
-- **Stocking density** -- too few pigs and the job takes too long; too
-  many and they compact the soil. Start with 4-6 pigs per acre and
-  adjust based on results.
-
-## Preparing for Orchard Planting
-
-After the pigs have cleared the junkus, the site is ready for orchard
-establishment. The soil is loose, aerated, and enriched with manure.
-The process from this point typically follows this sequence:
-
-1. **Assess soil** -- test pH, nutrient levels, and drainage patterns
-   across the cleared area
-2. **Plant cover crops** -- nitrogen-fixing cover crops (clover, vetch,
-   field peas) build additional soil before fruit and nut trees go in
-3. **Sheet mulch** -- where cover crops are not feasible, sheet mulch
-   with cardboard, compost, and straw to suppress any surviving weeds
-4. **Layout design** -- mark tree planting spots considering mature
-   canopy size, sun angles, and water flow
-5. **Plant fruit and nut trees** -- bare-root or container trees go
-   into the prepared, fertile soil
-6. **Establish understory** -- plant guild species around each tree for
-   pest control, [[biodiversity-of-fungi-decomposition-nutrient-cycling]], and mulch production
-
-This sequence -- pig clearing, cover cropping, then tree planting --
-mimics natural succession while dramatically speeding up the timeline.
-What might take decades of natural succession can be accomplished in a
-single [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] pig power.
-
-## Pig Breeds and Selection
-
-Different pig breeds have different rooting behaviors and suitability
-for land clearing work. Heritage breeds such as Tamworths, Berkshires,
-and Gloucester Old Spots tend to be more active rooters than modern
-commercial breeds, which have been selected for confinement rearing.
-Kunekune pigs are smaller and less destructive, making them suitable
-for more delicate clearing work in established gardens.
-
-When selecting pigs for land clearing, consider the terrain, the
-severity of the weed problem, and the climate. Larger breeds handle
-rough terrain better but require more feed. Smaller breeds are easier
-to manage and transport but may take longer to clear a given area.
-Crossbred animals often combine the hardiness of heritage breeds with
-the feed efficiency of modern lines.
-
-## Alternative Livestock for Land Preparation
-
-While pigs are the most effective animals for clearing tough
-rhizomatous weeds, other livestock can contribute to land preparation
-in complementary ways. Chickens follow pigs to control insect pests and
-further distribute manure. Goats can clear woody vegetation and brush
-that pigs leave behind. Cattle trampling can break up surface
-crusts and incorporate organic matter into the topsoil.
-
-## See Also
-
-- [[query-what-are-the-best-nitrogen-fixing-trees-for-permaculture]]
-- [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]
-- [[mollison-designers-community-garden-design-urban-permaculture]]
+- **Follow-up** -- once pigs are moved out, plant [[permaculture-plants-food-forest-ground-covers-bamboos]]

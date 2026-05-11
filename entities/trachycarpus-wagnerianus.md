@@ -21,9 +21,9 @@ sources:
 ## Overview
 
 Trachycarpus wagnerianus, the miniature Chusan palm or Waggy palm, is a cold-
-hardy solitary fan palm closely related to Trachycarpus fortunei. It is prized
+hardy solitary fan palm closely related to [[trachycarpus-fortunei]]. It is prized
 in temperate horticulture for its compact size, rigid leaf segments, and
-exceptional cold tolerance.
+exceptional [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]].
 
 The species typically reaches 5 to 7 meters in height with a slender trunk
 covered in dense brown fibrous matting. It is significantly smaller than
@@ -73,8 +73,8 @@ forests. It tolerates deep shade in juvenile stages and occupies canopy gaps as
 it matures. Native distribution is poorly documented because the species has
 been cultivated in temple gardens for centuries.
 
-Outside Japan, the species is widely planted in temperate regions including the
-British Isles, western Europe, the Pacific Northwest of North America, and New
+Outside Japan, the species is widely planted in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] including the
+British Isles, western Europe, the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and New
 Zealand.
 
 ## Cultivation
@@ -88,55 +88,3 @@ maritime climates with moderate rainfall. Performs well in warm temperate
 conditions provided roots are shaded.
 
 **Soil:** Tolerates clay, loam, and sandy soils. Prefers well-drained, humus-
-rich conditions. pH tolerance ranges from 5.5 to 8.0.
-
-**Propagation:** From seed, germinating in 2 to 4 months at 20 to 25°C.
-Germination is more uniform than in Trachycarpus fortunei.
-
-**Growth rate:** Slow, with 15 to 25 centimeters of trunk growth per year. The
-compact habit suits long-term container cultivation.
-
-**Planting:** Performs best with the trunk base shaded while the crown receives
-full sun or partial shade. Young plants benefit from winter protection in their
-first 2 to 3 years.
-
-## Ecology and Uses
-
-In its native Japanese forests, the species provides food for birds and small
-mammals. Small fruits are consumed by Japanese white-eyes (Zosterops japonicus)
-and other frugivorous birds.
-
-The fibrous leaf sheath material has been traditionally used in Japan for ropes,
-brushes, and coarse textiles. The trunk fibers are particularly durable and
-water-resistant.
-
-The primary modern use is ornamental. Many palm enthusiasts consider it superior
-to Trachycarpus fortunei due to compact proportions, neat crown, and better
-wind resistance. It is increasingly popular in rooftop gardens, courtyard
-plantings, and urban landscapes where space is limited.
-
-In Japan, the species has cultural significance in traditional temple gardens
-and private residence landscapes, with a cultivation history predating written
-records.
-
-## Distinction from Trachycarpus fortunei
-
-The most reliable distinguishing character is leaf segment rigidity. Trachycarpus
-wagnerianus has stiff, barely flexing segments in a tight crown, while
-Trachycarpus fortunei has softer, more pendulous segments.
-
-Additional differences include smaller overall size (5 to 7 meters versus 12 to
-20 meters), a more compact inflorescence, smaller fruit, and a narrower petiole
-with reduced marginal teeth. Trachycarpus wagnerianus also exhibits slower
-growth, greater wind tolerance, and a more symmetrical crown.
-
-## See Also
-
-- [[trachycarpus-fortunei]]
-- [[rhapis-excelsa]]
-- [[chamaerops-humilis]]
-- [[sabal-palmetto]]
-- [[jubaea-chilensis]]
-- [[butia-capitata]]
-- [[washingtonia-robusta]]
-- [[phoenix-canariensis]]

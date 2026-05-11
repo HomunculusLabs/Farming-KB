@@ -87,19 +87,3 @@ G. brunneus has been reported from [[psilocybin]],
 placing it among the psychoactive members of the genus. The Gymnopilus genus is
 unusual among mushroom genera in that psychoactive and non-psychoactive species coexist
 within the same group.
-
-Key psychoactive compounds detected in G. brunneus:
-
-- [[psilocin]]: The dephosphorylated, pharmacologically active form of psilocybin
-- [[gymnopilus-spectabilis-entity]]. Concentrations can
-vary significantly between collections depending on geographic origin, substrate, age,
-and environmental conditions.
-
-## Similar Species
-
-Distinguishing G. brunneus from other Gymnopilus species can be challenging:
-
-- [[gymnopilus-junonius]]: Very similar to G. spectabilis and often considered
-  conspecific. Large, orange, grows in clusters at the base of living trees.
-- [[gymnopilus-spectabilis-entity]]: The most famous psychoactive Gymnopilus species
-- [[gymnopilus-junonius]]: Large, orange, widely distributed relative

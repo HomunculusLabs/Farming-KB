@@ -68,10 +68,10 @@ The species grows in deciduous and mixed woodlands, woodland margins,
 hedgerows, and shady stream banks. It prefers moist, nutrient-rich, loamy
 soils in partial to deep shade, though it tolerates some sun.
 
-In North America, *L. galeobdolon* subsp. *argentatum* (the variegated
+In [[guzman-psilocybin-mushrooms-north-america]], *L. galeobdolon* subsp. *argentatum* (the variegated
 cultivar) has escaped cultivation and become invasive in the Pacific
 Northwest, particularly in western Washington and British Columbia. It forms
-dense mats that suppress native forest floor vegetation.
+dense mats that suppress native [[fungal-ecology-forest-floor]] vegetation.
 
 The invasive subspecies spreads primarily vegetatively through stem
 fragmentation. Even small stem segments can root and establish new colonies,
@@ -88,56 +88,3 @@ partial to full shade with moist, well-drained soil. It is hardy to USDA
 zone 4 and is tolerant of a range of soil pH levels.
 
 In the garden, yellow archangel makes an effective [[fukuoka-citrus-orchard-ground-cover-cultivation]] for large
-shaded areas. However, its vigorous spreading habit requires careful
-management to prevent it from overwhelming neighboring plants.
-
-Several regions have classified the variegated subspecies as a noxious weed
-or restricted plant. Gardeners in the Pacific Northwest are advised to choose
-native alternatives to avoid contributing to invasive populations.
-
-## Traditional Uses
-
-Yellow archangel has a limited but documented history in European folk
-medicine. The aerial parts were used as an astringent and wound-healing herb,
-similar to other *Lamium* species.
-
-In traditional European herbalism, poultices of the bruised leaves were
-applied to cuts, abrasions, and minor burns. The astringent properties were
-valued for stopping bleeding and reducing inflammation.
-
-An infusion of the flowering tops was occasionally taken as a mild diuretic
-and digestive tonic. The plant was considered less medicinally potent than
-white dead-nettle (*Lamium album*) and was used when stronger remedies were
-unavailable.
-
-The species has not been the subject of significant modern pharmacological
-research. Its phytochemical profile remains largely uncharacterized compared
-to better-studied Lamiaceae species.
-
-## Ecological Role
-
-In its native range, yellow archangel plays an important role in woodland
-ecosystems as a ground cover and early-season nectar source. Its flowers
-provide nectar and pollen for bees and other insects during the spring
-flowering period.
-
-Bumblebees (*Bombus* spp.) are the primary pollinators, relying on the
-lower lip as a landing platform. The elaiosome-bearing seeds are dispersed
-by ants (myrmecochory), which carry the seeds to their nests and consume
-the lipid-rich attachment.
-
-The dense leaf canopy provides shelter for ground-dwelling invertebrates and
-helps maintain soil moisture and humidity in woodland floor environments.
-
-In its invasive range, yellow archangel forms monocultures that displace
-native understory plants, including native spring ephemerals. The reduction
-in plant diversity cascades through the ecosystem, reducing habitat quality
-for native insects, birds, and other wildlife.
-
-## See Also
-
-- [[lamium-album]]
-- [[stachys-byzantina]]
-- [[prunella-vulgaris]]
-- [[mentha-piperita]]
-- [[agastache-foeniculum]]

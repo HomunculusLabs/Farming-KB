@@ -26,7 +26,7 @@ The species is named for its historically straight, strong shoots used by Indige
 
 Showy flat-topped white flower clusters appear in late spring, followed by dark blue-black drupes in late summer that persist through early winter. Fall foliage color ranges from yellow to reddish-purple.
 
-The genus *Viburnum* contains approximately 150–175 species distributed across temperate regions of the Northern Hemisphere. North America is home to roughly 20 native species.
+The genus *Viburnum* contains approximately 150–175 species distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. [[guzman-psilocybin-mushrooms-north-america]] is home to roughly 20 native species.
 
 ## Taxonomy and Morphology
 
@@ -56,7 +56,7 @@ Arrowwood grows in a broad range of habitats including open woodlands, forest ed
 
 It thrives on moist, well-drained loamy soils with pH 5.0–7.0 but tolerates clay, sandy soils, and periodic flooding. [[dighton-fungal-drought-tolerance-plant-water-relations]] is moderate once established.
 
-Arrowwood is frequently encountered in successional oldfields and along fence rows where bird-dispersed seeds establish readily. It is considered an indicator species of relatively intact forest-edge habitat in the northeastern United States.
+Arrowwood is frequently encountered in successional oldfields and along fence rows where bird-dispersed seeds establish readily. It is considered an indicator species of relatively intact forest-edge habitat in the northeastern [[dmt-containing-plants-united-states-halpern]].
 
 ## Ecological Role
 
@@ -86,28 +86,4 @@ Several named cultivars are widely available including 'Chicago Lustre' (glossy 
 
 Viburnum leaf beetle (*Pyrrhalta viburni*) is the primary pest concern, though some cultivars show moderate resistance. Arrowwood is more susceptible than nannyberry (*V. lentago*) but less so than European cranberrybush (*V. opulus*).
 
-Arrowwood is recommended for rain gardens, bioswales, and stormwater management plantings due to its tolerance of fluctuating soil moisture.
-
-## Related Species
-
-Arrowwood is part of a taxonomically complex group that includes several closely related [[growing-gourmet-north-american-reishi-species]] viburnums. *Viburnum recognitum* (northern arrowwood) is now generally included within *V. dentatum* by most authorities.
-
-*Viburnum bracteatum* (bracted arrowwood), native to the Ozarks and Ouachita Mountains, is sometimes treated as a separate species or variety. It differs in its larger, more pubescent leaves.
-
-Other native viburnums that occupy similar ecological niches include nannyberry (*V. lentago*), blackhaw (*V. prunifolium*), and possumhaw (*V. nudum*). Arrowwood is distinguished by its coarsely toothed leaves and straight stems.
-
-Compared to nannyberry, arrowwood has smaller fruit, more coarsely toothed leaf margins, and a more compact, multi-stemmed habit. It rarely develops a single-trunk tree form.
-
-## See Also
-
-- [[viburnum-acerifolium]]
-
-- [[viburnum-lentago]]
-- [[sambucus-canadensis]]
-- [[vaccinium-corymbosum-entity]]
-- [[juniperus-communis]]
-- [[taxus-baccata]]
-- [[picea-abies]]
-- arctostaphylos-uva-ursi
-- [[juniperus-virginiana]]
-- [[vaccinium-myrtillus]]
+Arrowwood is recommended for rain gardens, bioswales, [[mollison-designers-cloudburst-and-stormwater-management]] plantings due to its tolerance of fluctuating soil moisture.

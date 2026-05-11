@@ -12,19 +12,19 @@ sources:
 
 updated: 2026-04-18
 
-Arthritis encompasses over 100 conditions affecting joints and connective tissue. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents significant potential for cannabinoids in treating both osteoarthritis and rheumatoid arthritis, with CBD showing particular promise as an oral anti-arthritic therapeutic.
+Arthritis encompasses over 100 conditions affecting joints and connective tissue. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents significant potential for cannabinoids in treating both osteoarthritis and [[blesching-cannabis-rheumatoid-arthritis]], with CBD showing particular promise as an oral anti-arthritic therapeutic.
 
 ## Key Clinical Studies
 
 ### CBD for Collagen-Induced Arthritis
 **Malfait, Gallily, Sumariwalla, Malik, Andreakos, Mechoulam, and Feldmann (2000)**: "The nonpsychoactive cannabis constituent cannabidiol is an oral anti-arthritic therapeutic in murine collagen-induced arthritis." Proceedings of the National Academy of Sciences 97(17):9561-66.
 
-Published in PNAS, this landmark study demonstrated that oral CBD effectively suppressed the progression of arthritis in mice. CBD reduced both inflammation and joint damage without psychoactive effects.
+Published in PNAS, this [[naturwissenschaften-1990-brassinosteroid-psilocybe-landmark-study]] demonstrated that oral CBD effectively suppressed the progression of arthritis in mice. CBD reduced both inflammation and joint damage without psychoactive effects.
 
 ### Ajulemic Acid (Synthetic Cannabinoid)
 **Burstein (2005)**: "Ajulemic acid (IP-751): Synthesis, proof of principle, toxicity studies, and [[mushroom-cancer-clinical-trials-overview]]." AAPS Journal 7(1):E143-E148.
 
-Ajulemic acid is a synthetic cannabinoid derivative that showed promise in clinical trials for arthritis pain. It is a metabolite of THC that retains anti-inflammatory properties while minimizing psychoactivity.
+Ajulemic acid is a synthetic cannabinoid derivative that showed promise in [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] for arthritis pain. It is a metabolite of THC that retains anti-inflammatory properties while minimizing psychoactivity.
 
 ### Endocannabinoid Inhibition for Osteoarthritis
 **Schuelert et al. (2011)**: "Local application of the endocannabinoid hydrolysis inhibitor URB597 reduces nociception in spontaneous and chemically induced models of osteoarthritis." Pain 152(5):975-81.
@@ -34,7 +34,7 @@ This study found that inhibiting the breakdown of the body's own endocannabinoid
 ### Sativex for Rheumatoid Arthritis
 **Blake et al. (2006)**: "Preliminary assessment of the efficacy, tolerability and safety of a cannabis-based medicine (Sativex) in the treatment of pain caused by rheumatoid arthritis." Rheumatology 45(1):50-52.
 
-Sativex (a whole-plant cannabis extract with roughly equal THC:CBD) showed significant pain relief in rheumatoid arthritis patients.
+Sativex (a whole-plant cannabis extract with roughly equal THC:CBD) showed significant [[bay-11-medical-sativa-granddaddy-purp-pain-relief-oner]] in rheumatoid arthritis patients.
 
 ## Cannabis and Atherosclerosis
 
@@ -84,50 +84,6 @@ These studies document the connection between hostility, anger, and cardiovascul
 
 ## Interstitial Cystitis and Cannabinoids
 
-**Krenn et al. (2003)**: "A case of cannabinoid rotation in a young woman with chronic cystitis." Journal of Pain and Symptom Management.
+**Krenn et al. (2003)**: "A case of cannabinoid rotation in a young woman with chronic cystitis." Journal of Pain and [[cannabis-cancer-symptom-management]].
 
 A case report documenting successful cannabinoid rotation (switching between different cannabinoid medicines to maintain effectiveness) in chronic cystitis/interstitial bladder pain.
-
-## Periodontitis and CBD
-
-**Napimoga et al. (2009)**: "Cannabidiol decreases bone resorption by inhibiting RANK/RANKL expression and pro-inflammatory cytokines during experimental periodontitis in rats."
-
-CBD reduced bone resorption in periodontitis by inhibiting RANK/RANKL signaling -- the same pathway involved in rheumatoid arthritis bone erosion. This suggests CBD may protect joints from autoimmune destruction.
-
-## Mechanism of Action
-
-### CB1 Receptors
-- Present in joints and surrounding tissues
-- Modulate pain signaling
-- Anti-nociceptive effects
-
-### CB2 Receptors
-- Highly expressed in immune cells within joints
-- Suppress pro-inflammatory cytokine production
-- Reduce infiltration of inflammatory cells into joints
-- Inhibit adhesion molecule expression (relevant to atherosclerosis)
-
-### Endocannabinoid Enhancement
-Rather than introducing cannabinoids, inhibiting the enzymes that [[query-can-fungi-break-down-plastic-pollution]] anandamide (FAAH inhibitors like URB597) can enhance the body's own anti-inflammatory and pain-relieving systems.
-
-## Strain Selection
-
-### For Daytime Arthritis Relief
-CBD-dominant strains: Harlequin, Cannatonic, ACDC. These provide anti-inflammatory benefits without sedation.
-
-### For Nighttime Pain and Sleep
-Indica-dominant with myrcene: Granddaddy Purple, Afghan Kush. Pain relief plus sleep aid.
-
-### Topical Applications
-CBD-infused balms, salves, and oils applied directly to affected joints. This bypasses psychoactivity entirely while delivering localized anti-inflammatory effects. Consider adding arnica, cayenne (capsaicin), and menthol for synergistic pain relief.
-
-### For Autoimmune Arthritis (RA)
-Higher CBD ratios preferred due to stronger immunomodulatory effects. Consider 20:1 or 10:1 CBD:THC ratios.
-
-## Related Topics
-
-- Cannabis For Inflammation
-- [[cannabis-and-fibromyalgia]]
-- [[cannabis-seed-selection-and-strain-types]]
-- mushroom-cytokine-production-immune-activation
-- [[cannabis-cannabinoid-receptor-pharmacology]]

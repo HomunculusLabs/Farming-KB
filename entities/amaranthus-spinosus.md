@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Amaranthus spinosus** (spiny amaranth, prickly amaranth, thorny amaranth) is an annual herbaceous plant in the family Amaranthaceae, native to tropical and subtropical regions of the Americas. It is widely distributed as a weed and cultivated vegetable across Africa, Asia, and the Pacific Islands.
+**Amaranthus spinosus** (spiny amaranth, prickly amaranth, thorny amaranth) is an annual herbaceous plant in the family Amaranthaceae, native to tropical and subtropical regions of the Americas. It is widely distributed as a weed and cultivated vegetable across Africa, Asia, and the [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]].
 
 The species is valued as a nutritious leafy green in many tropical food systems, where the young leaves and tender stems are cooked as spinach-like vegetables. It is also used in traditional medicine for a wide range of ailments.
 
@@ -54,7 +54,7 @@ The genus *Amaranthus* comprises approximately 70 species of annual or short-liv
 
 The species thrives in disturbed habitats including cultivated fields, roadsides, waste areas, riverbanks, and fallow land. It grows from sea level to 1,500 m elevation in areas with annual rainfall of 500–2,000 mm.
 
-It prefers warm temperatures (25–35 °C) and is intolerant of frost. The plant grows on a wide range of soil types but performs best on fertile, well-drained loams with moderate to high nitrogen availability.
+It prefers warm temperatures (25–35 °C) and is intolerant of frost. The plant grows on a wide range of soil types but performs best on fertile, well-drained loams with moderate to high [[nitrogen-availability-in-legumes]].
 
 The species is a significant weed in upland rice, maize, cassava, sugarcane, and vegetable crops throughout the tropics. A single plant can produce 100,000–200,000 seeds, contributing to persistent soil seed banks.
 
@@ -62,7 +62,7 @@ The species is a significant weed in upland rice, maize, cassava, sugarcane, and
 
 The leaves of *A. spinosus* are highly nutritious, with protein content of 3.5–5.0 g per 100 g fresh weight. The leaves are rich in provitamin A (β-carotene), vitamin C, calcium, iron, and folate.
 
-Compared to common spinach (*Spinacia oleracea*), *A. spinosus* leaves contain higher levels of protein, calcium, and iron per unit fresh weight, making them a valuable nutritional resource in tropical regions with limited dietary diversity.
+Compared to common spinach (*[[spinacia-oleracea]]*), *A. spinosus* leaves contain higher levels of protein, calcium, and iron per unit fresh weight, making them a valuable nutritional resource [[fukuoka-natural-farming-in-tropical-regions]] with limited dietary diversity.
 
 Antinutritional factors include oxalates (1.2–2.5% dry weight), phytates, and saponins. Boiling the leaves in water with discarding the cooking liquid reduces oxalate content by 50–70%.
 
@@ -72,7 +72,7 @@ The seeds, though small and difficult to harvest due to the spines, are nutritio
 
 In traditional medicine across tropical Africa and Asia, *A. spinosus* preparations are used to treat fever, diarrhea, dysentery, respiratory infections, wounds, and snakebite. Leaf decoctions are administered orally or applied topically.
 
-Pharmacological studies have confirmed several bioactivities: leaf extracts demonstrate antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa*, and anti-inflammatory activity in carrageenan-induced paw edema models.
+Pharmacological studies have confirmed several bioactivities: leaf extracts demonstrate antibacterial activity against *[[staphylococcus-aureus]]*, *Escherichia coli*, and *Pseudomonas aeruginosa*, and anti-inflammatory activity in carrageenan-induced paw edema models.
 
 Aqueous leaf extracts have shown antimalarial activity in vitro against *Plasmodium falciparum* strains, supporting the traditional use of amaranth leaf tea as a fever remedy in endemic regions.
 
@@ -84,32 +84,6 @@ The roots are used in Ayurvedic medicine as a diuretic and anti-inflammatory age
 
 For home garden cultivation, seeds are broadcast or sown in rows and thinned to 10–20 cm spacing. The first harvest of young shoots occurs 30–40 days after sowing, with repeated cuttings every 2–3 weeks.
 
-The species is considered a noxious weed in several countries including Australia and parts of the United States. Integrated management strategies include manual removal, mulching, and competitive crop canopy establishment.
+The species is considered a noxious weed in several countries including Australia and parts of the United States. [[oyster-mushroom-pests-sciarid-cecid-phorid-fly-mite-integrated-management]] strategies include manual removal, mulching, and competitive crop canopy establishment.
 
 Despite its weed status, *A. spinosus* is increasingly recognized in agroecology as a beneficial component of tropical homegardens and polyculture systems, where it provides nutritious greens without requiring dedicated cultivation.
-
-## Related Species
-
-The genus *Amaranthus* includes several economically important species. *A. tricolor* (Chinese spinach) and *A. dubius* (spleen amaranth) are the most widely cultivated leaf amaranths in tropical Asia and Africa, respectively.
-
-*A. hypochondriacus* and *A. cruentus* are grain amaranths cultivated for their protein-rich seeds, which are used as pseudocereals in gluten-free products. These species lack the axillary spines that characterize *A. spinosus*.
-
-*A. retroflexus* (redroot pigweed) is a closely related weedy species native to [[psilocybin-north-america-pacific-northwest]], similarly used as a leaf vegetable and traditional medicine in its native range. It is distinguished by its lack of spines and denser, more compact inflorescences.
-
-*A. palmeri* (Palmer amaranth) is an aggressive agricultural weed in the Americas that has evolved glyphosate resistance. It is morphologically similar to *A. spinosus* but larger and without spines.
-
-## Ecological Role
-
-*A. spinosus* serves as a food plant for several Lepidoptera species, including the cotton leafworm (*Spodoptera littoralis*) and various amaranth looper caterpillars. These herbivores can cause significant defoliation but rarely kill established plants.
-
-The species contributes to soil health through its deep taproot, which can penetrate 60–100 cm, improving soil [[root-anatomy-structure-and-nutrient-uptake]] cycling. The decomposing plant residue adds [[hamilton-composting-and-organic-matter-management]] and returns nutrients to the soil surface.
-
-In tropical agroecosystems, *A. spinosus* provides ground cover that reduces soil erosion and suppresses more problematic weed species. It also serves as a trap crop for certain insect pests in [[dry-gardening-unirrigated-vegetable-production-solomon]] systems.
-
-## See Also
-
-- [[chenopodium-pallidicaule]]
-- [[spinacia-oleracea]]
-- [[portulaca-oleracea]]
-- [[agroforestry]]
-- [[capsicum-annuum]]

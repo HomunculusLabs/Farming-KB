@@ -22,7 +22,7 @@ sources:
 
 Two varieties are recognized: the coastal variety (*P. menziesii* var. *menziesii*) and the interior variety (*P. menziesii* var. *glauca*). Coastal trees are significantly larger, reaching heights over 100 m, and produce greater timber volumes.
 
-Douglas-fir occupies over 35 million hectares across its native range. It is the state tree of Oregon and a foundational species in Pacific Northwest forest ecosystems.
+Douglas-fir occupies over 35 million hectares across its native range. It is the state tree of Oregon and a foundational species in [[psilocybin-north-america-pacific-northwest]] forest ecosystems.
 
 ## Taxonomy and Morphology
 
@@ -52,19 +52,19 @@ Optimal growth occurs on deep, well-drained loamy soils with pH 5.0–6.5. Coast
 
 Douglas-fir is a shade-intolerant to moderately shade-tolerant species. It requires full sunlight for vigorous early growth but can persist as a suppressed understory tree for decades, eventually releasing into canopy gaps.
 
-Associated tree species vary by region. Coastal stands commonly include *Picea sitchensis*, *Tsuga heterophylla*, *Thuja plicata*, and *Alnus rubra*. Interior forests associate with *Pinus ponderosa*, *Abies grandis*, *Larix occidentalis*, and various *Populus* species.
+Associated tree species vary by region. Coastal stands commonly include *Picea sitchensis*, *[[tsuga-heterophylla]]*, *[[thuja-plicata]]*, and *Alnus rubra*. Interior forests associate with *Pinus ponderosa*, *Abies grandis*, *[[larix-occidentalis]]*, and various *Populus* species.
 
 ## Ecology and Silviculture
 
 Douglas-fir forms extensive climax and seral forests across its range. In the Pacific Northwest, it is a long-lived seral species that can persist for 500–1,000+ years in old-growth stands. The species is the dominant component of the "Douglas-fir zone" in British Columbia and the Pacific Northwest.
 
-The root system features a deep taproot in well-drained soils and widespread lateral roots. Douglas-fir forms **ectomycorrhizal associations** with numerous fungal genera, including *Suillus*, *Rhizopogon*, *Laccaria*, and *Pisolithus*. These associations are critical for [[plant-nutrient-uptake-mechanisms]], particularly phosphorus.
+The root system features a deep taproot in well-drained soils and widespread lateral roots. Douglas-fir forms **[[ectomycorrhizal-associations]]** with numerous fungal genera, including *Suillus*, *Rhizopogon*, *Laccaria*, and *Pisolithus*. These associations are critical for [[plant-nutrient-uptake-mechanisms]], particularly phosphorus.
 
 **Ganoderma tsugae**, the hemlock varnish shelf, commonly fruits on Douglas-fir despite its specific epithet. Heart rot fungi such as *Fomes* and *Phellinus* species create hollow cavities in old-growth trees, providing critical habitat for cavity-nesting birds and mammals.
 
 Fire plays a major ecological role in Douglas-fir forests. Low-severity surface fires historically occurred at 15–35 year intervals in dry interior forests, maintaining open stand conditions and reducing competition. Mature trees survive these fires due to thick bark and elevated crowns.
 
-Wildlife habitat values are exceptionally high in Douglas-fir forests. Old-growth stands provide nesting sites for the northern spotted owl (*Strix occidentalis caurina*), marbled murrelet (*Brachyramphus marmoratus*), and numerous bat species. Downed woody debris supports diverse fungal and invertebrate communities.
+[[hemenway-backyard-wildlife-habitat]] values are exceptionally high in Douglas-fir forests. Old-growth stands provide nesting sites for the northern spotted owl (*Strix occidentalis caurina*), marbled murrelet (*Brachyramphus marmoratus*), and numerous bat species. Downed woody debris supports diverse fungal and invertebrate communities.
 
 Silvicultural systems for Douglas-fir include clearcutting with planting, shelterwood, and selection systems. Seedling establishment requires exposed mineral soil, making site preparation essential after harvest. Trees typically reach merchantable size (40+ cm DBH) in 40–60 years on productive coastal sites.
 
@@ -87,25 +87,3 @@ Douglas-fir yields a commercially valuable [[permaculture-designers-manual-essen
 ## Cultivation and Ornamental Use
 
 Douglas-fir is widely planted for timber production outside its native range, including in Europe, New Zealand, Australia, Chile, and Argentina. It is the most commonly planted exotic conifer in New Zealand, occupying approximately 100,000 ha.
-
-In Europe, Douglas-fir was introduced in 1827 by David Douglas and is now grown commercially in France, Germany, and the United Kingdom. Growth rates on suitable sites in Europe can exceed those in the native range, with mean annual increments of 20–30 m³/ha/year.
-
-Ornamental use is less common than for other conifers, though several cultivars exist. Dwarf and weeping forms are occasionally planted in large landscapes and arboreta. The species is too large for most residential settings, reaching over 20 m in 30 years under cultivation.
-
-Propagation is primarily from seed, though vegetative methods including rooted cuttings and somatic embryogenesis are used for clonal forestry programs. Seed orchards produce improved stock with enhanced growth rates, disease resistance, and stem form.
-
-Interior Douglas-fir varieties are preferred for cold-climate plantings due to superior winter hardiness. Coastal varieties perform best in mild, humid climates with adequate summer rainfall or irrigation.
-
-Pests and pathogens include the Douglas-fir beetle (*Dendroctonus pseudotsugae*), western spruce budworm (*Choristoneura occidentalis*), and Swiss needle cast (*Phaeocryptopus gaeumannii*). [[dighton-fungi-climate-change-feedback]] has increased Swiss needle cast severity in coastal Oregon, causing significant growth reductions in affected stands.
-
-## See Also
-
-- [[picea-abies]]
-- [[sequoia-sempervirens]]
-- [[juniperus-communis]]
-- [[thuja-occidentalis]]
-- [[fomes-fomentarius]]
-- [[alnus-rubra]]
-- [[tilia-cordata]]
-- [[juncus-effusus]]
-- [[vaccinium-macrocarpon]]

@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -87,21 +88,3 @@ Individual blocks of growing medium can be irrigated via spaghetti tubes connect
 - Monitor EC and pH of the nutrient solution daily.
 - Use a filter on all emitter systems to catch debris before it reaches emitters.
 - Check the reservoir level daily and top off as needed.
-- Inspect all connections for leaks, which can reduce pressure and delivery.
-
-## Common Problems and Solutions
-
-- **Clogged emitters**: The most common drip system problem. Mineral buildup or organic debris blocks flow. Clean emitters with vinegar or replace them. Always use an inline filter.
-- **Uneven delivery**: Some plants receive more solution than others. Check for kinked tubes, inconsistent emitter flow rates, or elevation differences.
-- **[[cervantes-salt-buildup-leaching-management]]**: Visible as white crust on growing medium or containers. Flush with plain water and reduce nutrient concentration.
-- **Root intrusion**: Roots can grow into emitters and spaghetti tubes. Use root barriers or check tubes regularly.
-- **Low pressure**: Check pump output, filter condition, and for leaks in the system.
-- **Algae in tubing**: Caused by light exposure to transparent tubing. Use opaque tubing or wrap with tape.
-
-## See Also
-
-- [[ebb-and-flow]]
-- [[coco-coir-cannabis]]
-- [[cannabis-watering-schedule-and-frequency]]
-- [[cannabis-growing-mediums]]
-- [[cannabis-nutrient-deficiency-guide]]

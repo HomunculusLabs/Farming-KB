@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,10 +88,3 @@ Pigeons function within the broader animal system alongside:
 - [[mollison-rabbits-in-permaculture-design-and-soil-preparation]]
   in zone 1 [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
 - [[mollison-domestic-small-animals-zone-one]] in garden
-  [[mollison-geese-grass-control-and-integrated-poultry]]
-- Bees for pollination of forage crops
-
-Mollison emphasises that in the established tropical system, the usual
-domestic species often penned include pigeons among pigs, chickens,
-geese, guinea pigs, rabbits, milking goats, cattle, or buffalo. See also
-[[zone-1-intensive-garden]] for detailed zone 1 planning.

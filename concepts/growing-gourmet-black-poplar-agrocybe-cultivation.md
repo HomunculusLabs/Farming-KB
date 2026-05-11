@@ -87,19 +87,3 @@ with many "new" species. Primordia form readily on agar media,
 a notable feature that aids [[blesching-cannabis-strain-selection-receptor-targeting]].
 
 ## Flavor and Cooking
-
-Finely chopped and stir-fried, cooked in white sauce and poured
-onto fish or chicken, or baked in stuffing, this species imparts a
-mild but satisfying, pork-like flavor. The mushroom benefits from
-a 1/2 inch casing layer, but if a condensing fog environment with
-high turbulence is provided, an even plane of primordia can form
-absent any casing.
-
-## Related Topics
-
-- [[growing-gourmet-tree-species-guide-mushroom-cultivation]]
-- growing-gourmet-supplemented-sawdust-sterilization
-- growing-gourmet-nutrified-agar-media
-- [[spawn-production]]
-- [[malt-extract-agar]]
-- [[agaricus-brunnescens]]

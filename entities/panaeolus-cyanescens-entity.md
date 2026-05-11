@@ -14,10 +14,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon.
+  - Guzmán, G., Allen, J.W. & Gartz, J. (1998). "A worldwide psilocybe-geographical-distribution-patterns of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycotaxon.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - https://www.mycobank.org/ (taxonomic classification)
-  - La Bar, G. (1971). "Observations on the cultivation of Panaeolus cyanescens." Mushroom Science.
+  - La Bar, G. (1971). "Observations on the cultivation of [[panaeolus-cyanescens-bali-omelette]]." Mushroom Science.
   - Wurst, M. et al. (2002). "Biogenic amines in Panaeolus species." Folia Microbiologica.
 ---
 
@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-**Panaeolus cyanescens** is a small, coprophilous (dung-inhabiting) mushroom in the family *Bolbitiaceae* noted for containing **psilocybin and psilocin** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the *[[copelandia-cyanescens]]* (Berkeley & Broome) Singer — the most widely used synonym
+**Panaeolus cyanescens** is a small, coprophilous (dung-inhabiting) mushroom in the family *Bolbitiaceae* noted for containing **[[hplc-analysis-of-psilocybin-and-psilocin]]** at concentrations significantly higher than most *Psilocybe* species. Commonly called **Blue Meanies** (not to be confused with the *[[copelandia-cyanescens]]* (Berkeley & Broome) Singer — the most widely used synonym
 - *Panaeolus coprinophilus* — a separate but closely related species sometimes confused
 - The genus *Copelandia* is still commonly used by cultivators and in the mycological community, though modern taxonomy places these species in *Panaeolus*
 
@@ -41,7 +41,7 @@ Gills are adnexed to adnate, initially gray, becoming mottled black as spores ma
 |----------|------------------------------|-------|
 | **Psilocybin** | 0.5–2.95% | Primary prodrug; converted to psilocin in vivo |
 | **Psilocin** | 0.36–1.96% | Active metabolite; responsible for blue bruising |
-| **Baeocystin** | Trace – 0.5% | Minor tryptamine alkaloid |
+| **Baeocystin** | Trace – 0.5% | Minor [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]] |
 | **Norbaeocystin** | Trace | Minor tryptamine alkaloid |
 | **Serotonin** | Trace | Present in many coprophilous fungi |
 | **Urea** | Present | Common in dung-inhabiting species |
@@ -50,7 +50,7 @@ The high psilocin:psilocybin ratio (approaching 1:1 in some specimens) contribut
 
 ## Pharmacology
 
-The pharmacology is identical to that of other psilocybin-containing mushrooms. Psilocybin is dephosphorylated to psilocin by alkaline phosphatase in the gut and liver. Psilocin acts as a **partial agonist at the 5-HT₂A serotonin receptor**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
+The pharmacology is identical to that of other psilocybin-containing mushrooms. Psilocybin is dephosphorylated to psilocin by alkaline phosphatase in the gut and liver. Psilocin acts as a **partial agonist at the 5-HT₂A [[serotonin-receptor-interference-psychedelic-mechanism]]**, with additional activity at 5-HT₁A, 5-HT₂C, and 5-HT₂B receptors.
 
 Effects are dose-dependent:
 - **Low dose (0.5–1 g dried):** mild visual enhancement, mood elevation, increased sociability
@@ -63,7 +63,7 @@ Onset occurs within 15–45 minutes (faster than *Psilocybe* species due to high
 
 *Panaeolus cyanescens* is a **coprophilous species** found almost exclusively on herbivore dung — cattle, horse, and elephant dung are preferred substrates. It does not grow directly on dung piles but rather on the nitrogen-rich soil beneath decomposed dung or on well-rotted dung in pastures.
 
-Geographic distribution spans:
+[[geographic-distribution-of-psilocybe-species]] spans:
 - **Central and South America** — Mexico, Colombia, Brazil, Peru, Bolivia
 - **Caribbean** — Jamaica, Puerto Rico, Trinidad, Bahamas
 - **Africa** — Sub-Saharan Africa, Madagascar
@@ -88,22 +88,3 @@ The species requires **cellulose-rich, nitrogen-enriched substrates**. Common fo
 
 | Parameter | Range |
 |-----------|-------|
-| Colonization temperature | 26–30°C (79–86°F) |
-| Fruiting temperature | 23–28°C (73–82°F) |
-| Humidity | 90–95% RH |
-| Fresh air exchange | High — sensitive to CO₂ |
-| Light | Ambient indirect; 12-hour photoperiod beneficial |
-| pH | 6.0–7.5 |
-
-### Fruiting Characteristics
-
-- Colonization is typically rapid: 10–14 days from spawn to full colonization
-- Primordia form 5–10 days after introduction to [[biological-efficiency]]: 30–60% over 2–3 flushes
-- Contamination risk is moderate; *Coprinus* species and bacteria are common competitors
-
-## Identification and Look-alikes
-
-The most important identification features are: small size, black spore print, mottled gills, coprophilous habitat, and intense blue bruising. Potential confusion species include:
-
-- ***[[baeocystin]]
-- [[copelandia-cyanescens]]

@@ -24,10 +24,10 @@ cancer immunotherapy.
 Several studies have demonstrated synergistic or complementary immune
 effects from mixed mushroom preparations:
 
-- Ghoneum et al. (1995): Co-cultivation of Lentinus edodes, Trametes
-  versicolor and Schizophyllum commune yielded AHCC, with enhanced
+- Ghoneum et al. (1995): Co-cultivation of [[lentinus-edodes-entity-the-mushroom-cultivator]], Trametes
+  versicolor and [[schizophyllum-commune]] yielded AHCC, with enhanced
   biological activity exceeding individual species effects
-- Wedam and Haynes (1997): Demonstrated that mushroom polysaccharide
+- Wedam and Haynes (1997): Demonstrated that [[mushroom-polysaccharide-chemistry]]
   mixtures produced greater immune stimulation than single preparations
 - Sawai et al. (2002): Confirmed complementary immunological effects
   from multi-species mushroom extracts
@@ -35,7 +35,7 @@ effects from mixed mushroom preparations:
 A complementary effect of each mushroom component on enhancing
 immunological function can be expected from mixed medicinal mushroom
 extracts. This approach mirrors the traditional use of multiple
-mushroom species in Chinese herbal medicine formulations and Kampo
+mushroom species in Chinese [[childrens-herbal-medicine]] formulations and Kampo
 medicine preparations.
 
 ## Advantages of Multi-Species Formulations
@@ -80,7 +80,7 @@ side-effects.
 The overwhelming successes with mushroom polysaccharides have been
 demonstrated when they function together with proven and accepted
 chemotherapeutic agents rather than as monotherapy. The degree to
-which medicinal mushrooms have been tested for in vitro and in vivo
+which [[cancer-medicinal-mushrooms-extraction-bioavailability]] have been tested for in vitro and in vivo
 activity varies, but combination approaches consistently show the
 strongest results.
 
@@ -88,43 +88,3 @@ strongest results.
 
 Mushrooms contain dietary fibres (beta-glucans, chitin,
 heteropolysaccharides) making up as much as 10-50% of dry matter.
-Much of the active polysaccharides, water soluble or insoluble, can
-be classified as dietary fibres. These compounds can absorb possible
-carcinogenic substances and hasten their excretion from the intestine.
-This provides a general mechanism by which regular mushroom consumption
-may have important preventative action for colorectal carcinoma
-(Mizuno, 1996), and this effect is amplified when multiple mushroom
-species are consumed as part of the regular diet.
-
-## Quality of Life Benefits
-
-Mushroom polysaccharides appear to significantly reduce the
-debilitating effects of chemotherapy including nausea, pain, [[blesching-cannabis-hair-loss-alopecia]]
-and lowered immune status. PSP was effective for 82% of patients
-compared with 48% for batyl alcohol control in improving clinical
-symptoms. These quality of life improvements are consistently reported
-across multiple mushroom preparations and cancer types, supporting the
-use of mushroom extracts as adjuncts to conventional cancer therapy.
-
-## Epidemiological Support
-
-In Japan, farmers producing Flammulina velutipes as a main occupation
-showed remarkably lower cancer death rates than the general population.
-In Brazil, native populations consuming Agaricus blazei regularly
-showed very low cancer incidence. These epidemiological observations
-support the concept that regular consumption of multiple mushroom
-species provides cancer-preventive benefits.
-
-## Future Directions
-
-The use of standardised mixed mushroom extracts represents a promising
-approach that aligns with traditional practice while enabling rigorous
-clinical evaluation. Key priorities include establishing optimal
-species combinations, standardising extraction methods, and conducting
-well-designed [[mushroom-cancer-clinical-trials-overview]] with mixture preparations.
-
-## Related Topics
-
-- [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]
-- [[mushroom-immune-cell-activation-mechanisms]]
-- [[medicinal-mushroom-cancer-chemoprevention]]

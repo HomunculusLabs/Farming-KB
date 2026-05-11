@@ -11,7 +11,7 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Henderson, A., Galeano, G., & Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
+  - Henderson, A., Galeano, G., & Bernal, R. (1995). "field-guide-psilocybin-bluing-reaction-identification to the Palms of the Americas." Princeton University Press.
   - Zona, S. (1990). "A Monograph of Pseudophoenix (Palmae: Arecoideae)." Systematic Botany Monographs, 29, 1–78.
   - U.S. Fish and Wildlife Service. (1984). "Endangered and Threatened Wildlife and Plants; Determination of Endangered Status for Pseudophoenix sargentii." Federal Register, 49(216), 43970–43974.
   - Govaerts, R., & Dransfield, J. (2005). "World Checklist of Palms." Royal Botanic Gardens, Kew.
@@ -24,11 +24,11 @@ Pseudophoenix sargentii, commonly known as the buccaneer palm or Florida cherry 
 
 It is distinguished by its swollen, bottle-shaped trunk and stiff, arching, dark green fronds. The fruit is round, turning from green to bright red or orange at maturity, which accounts for the "cherry palm" common name.
 
-Pseudophoenix sargentii is classified as endangered due to habitat destruction, sea-level rise, and historical over-collection. It remains one of the rarest native palms in the United States.
+Pseudophoenix sargentii is classified as endangered due to habitat destruction, sea-level rise, and historical over-collection. It remains one of the rarest native palms in the [[dmt-containing-plants-united-states-halpern]].
 
-The specific epithet commemorates Charles Sprague Sargent's contributions to American botany and forestry during the late nineteenth century. His extensive fieldwork in the Caribbean laid the groundwork for understanding the region's palm diversity.
+The specific epithet commemorates Charles Sprague Sargent's contributions to American botany and forestry during the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. His extensive fieldwork in the Caribbean laid the groundwork for understanding the region's palm diversity.
 
-This palm was once more broadly distributed across the Florida Keys, but urbanization and land conversion since the early twentieth century have eliminated most populations. Remaining wild individuals represent relicts of a formerly more continuous Caribbean distribution.
+This palm was once more broadly distributed across the Florida Keys, but urbanization and land conversion since the early [[coleman-louis-savier-twentieth-century-maraicher]] have eliminated most populations. Remaining wild individuals represent relicts of a formerly more continuous Caribbean distribution.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ All species in the genus share the characteristic swollen trunk base and pinnate
 
 The trunk grows to 6–10 meters tall with a prominent bulge at the base, tapering upward. Diameter at breast height ranges from 25 to 40 centimeters at the swollen base. The trunk surface is smooth and light gray, marked with faint leaf scar rings.
 
-Growth rate is slow, with mature individuals typically adding only 10–15 centimeters of trunk height per year under optimal conditions. The trunk's swollen appearance is most pronounced in younger palms and gradually becomes less conspicuous with age.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is slow, with mature individuals typically adding only 10–15 centimeters of trunk height per year under optimal conditions. The trunk's swollen appearance is most pronounced in younger palms and gradually becomes less conspicuous with age.
 
 Leaves are pinnate, 2–3 meters long, with 80–120 leaflets per side. Leaflets are stiff, linear, and arranged in a single plane, giving the crown a formal, symmetrical appearance. The petiole is 30–60 centimeters long and armed with small teeth along the margins.
 
@@ -50,7 +50,7 @@ The mesocarp of the fruit is fleshy and sweet-tasting, which contributes to its 
 
 ## Distribution and Habitat
 
-Pseudophoenix sargentii is distributed across the Caribbean, including the Bahamas, Turks and Caicos Islands, Cuba, Hispaniola, Puerto Rico, the Virgin Islands, and the Florida Keys. In the United States, it is restricted to a few populations in the Florida Keys and extreme mainland Monroe County.
+Pseudophoenix sargentii is distributed across the Caribbean, including the Bahamas, Turks and Caicos Islands, Cuba, Hispaniola, Puerto Rico, the Virgin Islands, and the Florida Keys. In the [[dmt-maoi-plants-united-states]], it is restricted to a few populations in the Florida Keys and extreme mainland Monroe County.
 
 The species grows primarily on limestone outcrops, coral rock pavements, and sandy coastal soils. Elevational range is from sea level to approximately 30 meters. It is highly tolerant of salt spray and calcareous substrates.
 
@@ -68,7 +68,7 @@ Pseudophoenix sargentii is highly valued as an ornamental palm for tropical and 
 
 It performs best in full sun to partial shade on well-drained calcareous or sandy soils. The species is moderately salt-tolerant and can withstand coastal conditions, making it suitable for beachfront planting. It is hardy to approximately 28 degrees Fahrenheit, limiting outdoor cultivation to USDA zones 10B through 11.
 
-In cultivation, the palm responds well to regular applications of slow-release palm fertilizer containing magnesium, manganese, and iron. Chlorosis from micronutrient deficiency is the most commonly reported problem in landscape settings.
+In cultivation, the palm responds well to regular applications of slow-release palm fertilizer containing magnesium, manganese, and iron. Chlorosis from [[cervantes-micronutrient-deficiency-chelation]] is the most commonly reported problem in landscape settings.
 
 Propagation is primarily from seed, which germinates within 2–6 months under warm, moist conditions. Seedlings grow slowly, producing only 2–4 leaves per year in the first several years. Transplant success is moderate when young plants are moved with minimal root disturbance.
 
@@ -80,39 +80,10 @@ Pests include palm weevils (Rhynchophorus cruentatus) and scale insects, though 
 
 ## Ecological Role
 
-The fruit of Pseudophoenix sargentii is consumed by a variety of Caribbean birds and mammals, including the white-crowned pigeon, northern mockingbird, and key deer. Seed dispersal is primarily avian, with birds carrying fruit to new germination sites.
+The fruit of Pseudophoenix sargentii is consumed by a variety of Caribbean birds and mammals, including the white-crowned pigeon, northern mockingbird, and key deer. [[clay-pellet-seed-dispersal]] is primarily avian, with birds carrying fruit to new germination sites.
 
 Key deer, an endangered subspecies of white-tailed deer endemic to the Florida Keys, are known to browse on fallen fruit and seedlings. This herbivory can reduce recruitment rates in already small populations.
 
 The palm provides structural habitat in tropical hardwood hammock ecosystems. Its fronds offer shelter for invertebrates, lizards, and nesting birds. The fibrous leaf sheaths harbor epiphytic mosses, ferns, and bromeliads.
 
 As a mid-canopy to subcanopy species, Pseudophoenix sargentii contributes to the layered structure of Caribbean hammock forests. Its root system helps stabilize limestone substrates and contributes to soil development on rocky outcrops.
-
-The species is an indicator of intact tropical hardwood hammock habitat. Its presence signals relatively undisturbed limestone communities with minimal invasive plant pressure. Decline of Pseudophoenix populations often mirrors broader habitat degradation.
-
-In the Bahamas and Turks and Caicos, the palm has been historically tapped for sap, which was fermented into a sweet beverage called "palm wine." This traditional use has largely been abandoned due to conservation concerns and the species' protected status.
-
-## Conservation Status
-
-Pseudophoenix sargentii is listed as Endangered under the U.S. Endangered Species Act and as Vulnerable on the IUCN Red List. The species was federally listed in 1984 due to severe habitat loss and population decline in the Florida Keys.
-
-Primary threats include coastal development, sea-level rise, invasive plant competition, and illegal collection for the horticultural trade. Hurricane damage, while a natural disturbance, can devastate small, isolated populations with limited regeneration capacity.
-
-Invasive plants such as Brazilian pepper (Schinus terebinthifolia) and Australian pine (Casuarina equisetifolia) outcompete native hammock vegetation and alter the microhabitat conditions that Pseudophoenix requires. Sea-level rise projections for the Florida Keys suggest that remaining habitat could be substantially reduced by 2100.
-
-Total population in the Florida Keys is estimated at fewer than 50 mature individuals in the wild. Caribbean populations are more numerous but remain fragmented and declining on several islands. Conservation efforts include habitat protection, population monitoring, and ex situ cultivation in botanical gardens.
-
-Fairchild Tropical Botanic Garden in Miami maintains a significant ex situ collection and has conducted reintroduction trials in the Florida Keys. Seed banking programs at multiple institutions preserve genetic diversity from across the species' range.
-
-## See Also
-
-- [[cocos-nucifera]]
-- [[phoenix-canariensis]]
-- [[roystonea-regia]]
-- [[sabal-palmetto]]
-- thrinax radiata
-- [[serenoa-repens]]
-- [[washingtonia-robusta]]
-- [[copernicia-prunifera]]
-- [[chamaedorea-elegans]]
-- [[phoenix-dactylifera]]

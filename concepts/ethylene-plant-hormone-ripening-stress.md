@@ -1,5 +1,5 @@
 ---
-title: Ethylene - Plant Hormone for Ripening and Stress Response
+title: Ethylene Plant Hormone Ripening Stress
 category: plant-physiology
 tags: [ethylene, plant-hormone, fruit-ripening, senescence, triple-response, climacteric, flooding-stress, leaf-abscission, phytohormone, ethephon]
 created: 2026-05-10
@@ -8,7 +8,7 @@ source: general-knowledge
 
 # Ethylene: The Ripening and Stress Response Hormone
 
-Ethylene (C₂H₄) is the simplest naturally occurring plant hormone — a gaseous hydrocarbon at ambient temperature. Despite its molecular simplicity, ethylene regulates some of the most commercially important processes in agriculture, including fruit ripening, flower senescence, leaf abscission, and responses to pathogen attack and flooding stress. Its gaseous nature means it can diffuse freely between cells and tissues, and it can also affect neighboring plants.
+Ethylene (C₂H₄) is the simplest naturally occurring plant hormone — a gaseous hydrocarbon at [[jadam-ambient-temperature-principle]]. Despite its molecular simplicity, ethylene regulates some of the most commercially important processes in agriculture, including fruit ripening, flower senescence, leaf abscission, and responses to pathogen attack and flooding stress. Its gaseous nature means it can diffuse freely between cells and tissues, and it can also affect neighboring plants.
 
 ## Discovery
 
@@ -18,7 +18,7 @@ The effects of ethylene on plants were observed long before the hormone itself w
 
 Ethylene biosynthesis follows the **Yang Cycle** (methionine or Yang cycle), named after Shang Fa Yang who elucidated the pathway:
 
-1. **Methionine → S-Adenosylmethionine (SAM)**: Catalyzed by SAM synthetase
+1. **Methionine → [[s-adenosylmethionine]] (SAM)**: Catalyzed by SAM synthetase
 2. **SAM → 1-Aminocyclopropane-1-Carboxylic Acid (ACC)**: Catalyzed by ACC synthase (ACS), the rate-limiting step
 3. **ACC → Ethylene**: Catalyzed by ACC oxidase (ACO), an oxygen-dependent enzyme
 
@@ -68,11 +68,11 @@ Ethylene is the primary trigger for fruit ripening in climacteric fruits (those 
 
 In climacteric fruits, ethylene triggers a developmental switch from maturation to ripening through:
 - Autocatalytic ethylene production (System 2 ethylene synthesis replaces the basal System 1)
-- Cell wall degradation: upregulation of polygalacturonase, pectin methylesterase, cellulase
+- [[chitin-chitosan-fungal-cell-wall]] degradation: upregulation of polygalacturonase, pectin methylesterase, cellulase
 - Chlorophyll degradation and carotenoid synthesis (color change from green to ripe)
 - Starch-to-sugar conversion (sweetening)
-- Organic acid metabolism (reduction in acidity)
-- Volatile compound synthesis (flavor and aroma production)
+- [[fungal-organic-acid-metal-solubilization]] metabolism (reduction in acidity)
+- [[fungal-btex-volatile-compound-degradation]] synthesis (flavor and aroma production)
 - Conversion of ACC synthase from regulated to constitutive expression
 
 ## Commercial Applications
@@ -84,54 +84,7 @@ In climacteric fruits, ethylene triggers a developmental switch from maturation 
 - **Leaf abscission**: Used to promote leaf drop in cotton before mechanical harvesting
 
 ### Ethylene Inhibition
-- **1-Methylcyclopropene (1-MCP)**: A competitive inhibitor of ethylene receptors, widely used commercially to extend shelf life of apples, kiwifruit, cut flowers, and other perishables. Marketed as SmartFresh, EthylBloc, and similar products
+- **1-Methylcyclopropene (1-MCP)**: A competitive inhibitor of ethylene receptors, widely used commercially to extend [[ingham-aact-holding-time-shelf-life-decay]] of apples, kiwifruit, cut flowers, and other perishables. Marketed as SmartFresh, EthylBloc, and similar products
 - **Hypobaric storage**: Reduced atmospheric pressure slows ethylene accumulation
 - **Potassium permanganate scrubbers**: Remove ethylene from storage atmospheres
 - **Controlled atmosphere storage**: Low O₂ and elevated CO₂ suppress ethylene synthesis and action
-
-## Ethylene in Abiotic Stress Responses
-
-### Flooding and Waterlogging
-Ethylene accumulates rapidly in waterlogged tissues because:
-- Physical trapping of ethylene in water-saturated tissues (ethylene diffuses 10,000× slower through water than air)
-- ACC produced in roots is transported to shoots, where oxygen-dependent ACO converts it to ethylene
-- Waterlogging-induced ethylene triggers:
-  - Epinastic growth (downward curling of leaves) to reduce water contact
-  - Formation of aerenchyma (air channels) through programmed cell death (lysigenous aerenchyma)
-  - Adventitious root formation at the soil surface
-  - Stem elongation in deep-water rice varieties (via interaction with gibberellins)
-
-### Mechanical Stress
-- Touch, wind, and wounding all induce rapid ethylene production
-- Thigmomorphogenic responses (reduced elongation, thicker stems) are mediated in part by ethylene
-- Ethylene interacts with jasmonic acid in wound responses
-
-### Ozone and Oxidative Stress
-- Ozone exposure triggers ethylene production that can lead to premature senescence
-- Ethylene-jasmonate cross-talk mediates ozone-induced cell death
-
-## Leaf Abscission
-
-Ethylene promotes the separation of leaves, flowers, and fruits from the plant body:
-
-- Ethylene upregulates genes for cell wall-degrading enzymes (polygalacturonase, cellulase) in the abscission zone
-- The abscission zone is a specialized layer of cells at the base of petioles, pedicels, and fruit stalks
-- Auxin from the leaf blade suppresses abscission; declining auxin levels during senescence allow ethylene to activate the abscission process
-- The balance between auxin and ethylene determines the timing of organ separation
-
-## Pathogen Defense
-
-Ethylene participates in plant defense against pathogens:
-
-- Ethylene and jasmonic acid synergistically activate defense genes against necrotrophic pathogens (those that kill host tissue)
-- This is contrasted with salicylic acid-mediated defense against biotrophic pathogens
-- Ethylene promotes the production of defensive proteins (chitinases, glucanases, defensins) called pathogenesis-related (PR) proteins
-- Ethylene also contributes to the hypersensitive response, a form of programmed cell death that limits pathogen spread
-
-## See Also
-
-- [[abscisic-acid-plant-stress-hormone]] - Stress hormone with ethylene cross-talk
-- [[cytokinin-plant-growth-and-development]] - Cell division hormone interacting with ethylene
-- [[jasmonic-acid-plant-defense-signaling]] - Defense hormone synergistic with ethylene
-- [[gibberellins-plant-growth-hormones]] - Growth hormone with ethylene interactions in flooding
-- [[fruiting-conditions-and-pinning]] - Fruiting triggers in fungi (analogous regulation)

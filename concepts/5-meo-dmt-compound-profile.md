@@ -1,5 +1,5 @@
 ---
-title: 5-MeO-DMT — Compound Profile
+title: 5 Meo Dmt Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 
 ## 5-Methoxy-N,N-dimethyltryptamine
 
-5-MeO-DMT is a naturally occurring tryptamine found in the venom of the Colorado River Toad (Bufo alvarius), numerous Virola tree species of the Amazon, and several plant families. It is substantially more potent than [[dmt-compound-profile]] by weight when smoked, and like DMT, it is inactive orally without a monoamine oxidase inhibitor.
+5-MeO-DMT is a naturally occurring tryptamine found in the venom of the Colorado River Toad ([[5-meo-dmt-and-bufo-alvarius]]), numerous Virola tree species of the Amazon, and several plant families. It is substantially more potent than [[dmt-compound-profile]] by weight when smoked, and like DMT, it is inactive orally without a monoamine oxidase inhibitor.
 
 ### Chemical Identity
 
@@ -32,7 +32,7 @@ sources: [raw/papers/shulgin-a-tihkal.md]
 5-MeO-DMT is distinguished from DMT by its rapid onset, overwhelming intensity, and relative absence of visual imagery:
 
 - **Onset**: 8-15 seconds after smoking (slightly faster than DMT)
-- **Character**: Described as a "stoning drug" with minimal visual or intellectual content at lower doses. At higher doses, produces complete ego dissolution, a "white-out" (as opposed to DMT's more visual "black-out")
+- **Character**: Described as a "stoning drug" with minimal visual or intellectual content at lower doses. At higher doses, produces complete [[default-mode-network-and-ego-dissolution]], a "white-out" (as opposed to DMT's more visual "black-out")
 - **Body**: Heavy body load, concrete-blood sensation, trembling, weakness in knees
 - **Duration**: Acute peak is extremely brief (10-20 minutes), with aftereffects persisting up to an hour
 
@@ -40,7 +40,7 @@ Compared to DMT:
 - More potent (approximately 4-6x by weight)
 - Slightly faster onset
 - Less visual complexity, less "sensory contribution"
-- Described by some as more like "receiving grace" or "cosmic consciousness"
+- Described by some as more like "receiving grace" or "[[turner-essential-psychedelics-lsd-cosmic-consciousness]]"
 - Others report "ruthless love" and overwhelming terror
 
 ### Natural Sources
@@ -78,11 +78,11 @@ Both are naturally occurring, not orally active, and almost always smoked. Key d
 
 ### Safety Concerns
 
-A documented near-fatal reaction occurred at an unknown but very large smoked dose: the subject became cyanotic and stopped breathing twice, requiring CPR. Three days later, antipsychotic medication was required to restore normal behavior. This underscores the extremely narrow therapeutic index at high doses and the importance of precise dosing.
+A documented near-fatal reaction occurred at an unknown but very large smoked dose: the subject became cyanotic and stopped breathing twice, requiring CPR. Three days later, antipsychotic medication was required to restore normal behavior. This underscores the extremely narrow [[cannabis-therapeutic-index-overview]] at high doses and the importance of precise dosing.
 
 ### Oral Activity with MAOI
 
-Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-carboline MAO inhibitors, in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
+Like DMT, 5-MeO-DMT becomes orally active when combined with harmaline or other beta-carboline [[mao-inhibitors-and-psychedelics]], in the 10-25 mg range. This combination mimics aspects of the [[ayahuasca-pharmacology]] experience but with 5-MeO-DMT's distinctive character.
 
 ## See Also
 

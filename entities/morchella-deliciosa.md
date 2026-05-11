@@ -19,7 +19,7 @@ sources:
 
 # Morchella deliciosa
 
-*Morchella deliciosa* is a species of **morel mushroom** in the family Morchellaceae, prized by foragers for its culinary value. It is one of several species within the *Morchella elata* clade (black morels) and is found across temperate regions of Europe and [[psilocybin-north-america-pacific-northwest]]. The species epithet *deliciosa* means "delicious" in Latin, reflecting its esteemed status as a table mushroom.
+*Morchella deliciosa* is a species of **morel mushroom** in the family Morchellaceae, prized by foragers for its culinary value. It is one of several species within the *[[morchella-elata]]* clade (black morels) and is found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[psilocybin-north-america-pacific-northwest]]. The species epithet *deliciosa* means "delicious" in Latin, reflecting its esteemed status as a table mushroom.
 
 ## Taxonomy and Classification
 
@@ -56,11 +56,11 @@ The flesh is thin, whitish, and brittle. It is **hollow** in both the cap and th
 
 - **Ash** (*Fraxinus* spp.)
 - **Elm** (*Ulmus* spp.)
-- **Tulip poplar** (*Liriodendron tulipifera*)
+- **Tulip poplar** (*[[liriodendron-tulipifera]]*)
 - **Oak** (*Quercus* spp.)
 - **Apple** (*Malus* spp.) — particularly in old orchards
 
-The species is considered **facultatively saprotrophic** and may also form ectomycorrhizal associations, though the exact nature of its ecological role remains debated. It frequently appears in disturbed habitats including floodplains, burned areas, and sites of recent logging.
+The species is considered **facultatively saprotrophic** and may also form [[ectomycorrhizal-associations]], though the exact nature of its ecological role remains debated. It frequently appears in disturbed habitats including floodplains, burned areas, and sites of recent logging.
 
 ### Fruiting Season
 
@@ -69,7 +69,7 @@ Morels typically fruit in **spring** (March–May in the Northern Hemisphere), w
 ## Distribution
 
 - **Europe:** Widespread from the Iberian Peninsula to Scandinavia and eastward through Central Europe
-- **North America:** Found in eastern deciduous forests and the Pacific Northwest
+- **[[guzman-psilocybin-mushrooms-north-america]]:** Found in eastern deciduous forests and the Pacific Northwest
 - **Asia:** Reported from China, Japan, and the Himalayan region
 
 The species shows a preference for **calcareous soils** in Europe but tolerates a wider pH range in [[growing-gourmet-north-american-reishi-species]] populations.
@@ -86,38 +86,4 @@ The species shows a preference for **calcareous soils** in Europe but tolerates 
 
 ### Toxicity Warning
 
-Morels must never be consumed raw or undercooked. While *M. deliciosa* is a true morel and not toxic when properly prepared, confusion with **gyromitrin-containing species** such as *Gyromitra esculenta* (false morel) can be dangerous. *Gyromitra* species have a brain-like, wrinkled cap rather than true pits and ridges, and the cap is not attached to the stem at the top.
-
-## Cultivation
-
-Like all morels, *M. deliciosa* has proven **extremely difficult to cultivate** commercially. While some success has been reported with [[cannabis-sativa-indoor-cultivation-techniques]] systems using sterile substrate inoculation and specific environmental triggers (temperature cycling, soil flooding), reliable and economical cultivation remains elusive. Most commercial morels are still wild-harvested.
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| *Morchella elata* | Larger, darker pits; more robust stature |
-| *Morchella importuna* | Darker ridges, found in landscaping mulch |
-| *Morchella esculenta* | Yellow morel; pits more rounded, cap yellower |
-| *Morchella semilibera* | Half-free morel; cap attached only at top half of stem |
-| *Gyromitra esculenta* | False morel; brain-like cap, not pitted |
-
-## Conservation
-
-While *M. deliciosa* is not considered threatened globally, local populations can be impacted by:
-
-- Habitat destruction from urban development
-- Over-harvesting in popular foraging areas
-- [[dighton-fungi-climate-change-feedback]] affecting spring fruiting conditions
-
-Sustainable foraging practices include cutting mushrooms at the base rather than pulling (to preserve the mycelium), using mesh bags to facilitate [[aquatic-fungi-spore-dispersal-ingold]] while collecting, and avoiding harvest of very young specimens to allow spore maturation and dispersal.
-
-## See Also
-
-- [[morchella-rufobrunnea]]
-
-- [[ectomycorrhizal-associations]]
-- [[morchella-esculenta]] — Yellow Morel
-- [[gyromitra-esculenta]] — False Morel
-- Morchellaceae — Morel family taxonomy
-- [[mycorrhizae]] — Fungal-root associations
+Morels must never be consumed raw or undercooked. While *M. deliciosa* is a true morel and not toxic when properly prepared, confusion with **gyromitrin-containing species** such as *[[gyromitra-esculenta]]* (false morel) can be dangerous. *Gyromitra* species have a brain-like, wrinkled cap rather than true pits and ridges, and the cap is not attached to the stem at the top.

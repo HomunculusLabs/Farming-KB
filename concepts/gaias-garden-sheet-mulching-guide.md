@@ -1,16 +1,17 @@
 ---
-title: Gaia's Garden comparison-sheet-mulching-vs-chop-and-drop-mulching Detailed Guide
+title: Gaias Garden Sheet Mulching Guide
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [gardening, organic-gardening]
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 ---
 
 # Gaia's Garden Sheet Mulching Guide
 
-Toby Hemenway's comprehensive guide to sheet mulching — composting in place to build soil without tilling. From Gaia's Garden, Chapter 4. This is the "bomb-proof" sheet mulch method.
+[[toby-hemenway]]'s [[allen-australian-psilocybe-species-comprehensive-guide]] to sheet mulching — [[gaias-garden-sheet-mulching-composting-in-place]] to build soil without tilling. From Gaia's Garden, Chapter 4. This is the "bomb-proof" sheet mulch method.
 
 ## Why Sheet Mulch Instead of Compost Piles
 
@@ -26,7 +27,7 @@ Hemenway argues that traditional composting has drawbacks:
 For roughly 50 square feet (2 cubic yards of material):
 
 1. **Newspaper or cardboard** — 2-3 foot stack of newspaper (minus glossy sections) or ~300 sq ft of corrugated cardboard (no staples or plastic tape). Can also use cloth, old clothing, or wool carpet (natural fibers only)
-2. **Soil amendments** — lime (for acid soil), gypsum or sulfur (for alkaline), rock phosphate or bonemeal, greensand, [[comparison-kelp-meal-vs-rock-dust]], or [[basalt-rock-dust-agriculture]] for trace minerals
+2. **Soil amendments** — lime (for acid soil), gypsum or sulfur (for alkaline), rock phosphate or bonemeal, greensand, [[comparison-kelp-meal-vs-rock-dust]], or [[basalt-rock-dust-agriculture]] for [[dynamic-accumulator-plants-trace-minerals]]
 3. **Bulk [[hamilton-composting-and-organic-matter-management]]** — 4-8 cubic yards loosely piled, or 6-10 two-string bales: straw, spoiled hay, yard waste, leaves, seaweed, bark, sawdust, pine needles, grain hulls. Target C:N ratio of 100:1 to 30:1
 4. **Compost** — 1/4 to 1/2 cubic yard (6-12 cubic feet)
 5. **Manure** — 1/4 to 1 cubic yard (composted cattle manure or similar)
@@ -40,7 +41,7 @@ Unless ground is moist from rain, water thoroughly. Organisms can't work without
 
 ### Step 1: Slash Vegetation
 
-Clip, mow, scythe, or weed-whack everything down in place. **Do not pull up weeds** — leave all native organic matter including roots. It is worm food, and nitrogen-rich greens and roots are a tasty starter for decomposers. Remove stumps or big woody pieces only.
+Clip, mow, scythe, or weed-whack everything down in place. **Do not pull up weeds** — leave all native [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] including roots. It is worm food, and nitrogen-rich greens and roots are a tasty starter for decomposers. Remove stumps or big woody pieces only.
 
 ### Step 2: Add Soil Amendments
 
@@ -87,20 +88,3 @@ Hemenway converted nasty red clay soil to chocolate brown, seething with worms, 
 ## Common Problems
 
 - **Bindweed** — travels for yards beneath the paper layer
-- **Bermuda grass** — rhizomes tunnel through corrugated cardboard tubes
-- **Slugs** — attracted to moist mulch (mitigated by encouraging slug predators)
-
-## Key Principles
-
-- It is better to blanket a small area thoroughly than spread mulch too thin
-- Choose materials appropriate to your bioregion (timber country = bark/sawdust; coasts = seaweed; agricultural areas = straw/grain hulls)
-- Never till sheet mulch — just pull the few weeds that appear and add more mulch
-- Most weed seeds need light or disturbance to germinate — deep mulch prevents both
-
-## See Also
-
-- [[permaculture-sheet-mulch-detailed-guide]] — alternative sheet mulch guide
-- [[sheet-mulching-lasagna-gardening]] — lasagna gardening approach
-- [[gaias-garden-methods]] — [[mollison-course-zone-planning-and-design]], sheet mulching, composting overview
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- faires-permaculture-soil-and-sheet-mulching

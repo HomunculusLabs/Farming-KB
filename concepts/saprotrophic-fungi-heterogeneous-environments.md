@@ -88,25 +88,3 @@ matter types.
 decomposing C3 versus C4 plant material or utilizing different biochemical fractions
 of litter. Combined nitrogen and carbon isotope analysis enables reconstruction of
 fungal resource use in complex natural environments.
-
-Isotope studies have revealed that saprotrophic fungi fractionate isotopes during
-assimilation, with magnitude depending on species, substrate chemistry, and
-environmental conditions. These patterns provide evidence for understanding fungal
-niche differentiation and [[fungal-resource-partitioning-decomposition-sequences]] in decomposer communities.
-
-## Responses to Spatial Heterogeneity
-
-In spatially heterogeneous environments, saprotrophic fungi display remarkable
-plasticity in growth patterns and resource allocation. Mathematical modeling studies
-have shown that fungal foraging networks can achieve near-optimal solutions to
-connecting multiple resource patches, minimizing network length while maximizing
-capture.
-
-When encountering multiple resource patches of different quality, fungi typically
-invest more biomass in connections to higher-quality patches while maintaining
-thinner connections to lower-quality ones. This differential investment reflects an
-economic optimization analogous to the marginal value theorem in behavioral ecology.
-
-The ability to dynamically restructure [[saprotrophic-nutrition]]
-- [[gadd-stable-isotopes-saprotrophic-fungi]]
-- [[comparison-mycorrhizal-vs-saprotrophic-fungi]]

@@ -1,5 +1,5 @@
 ---
-title: Miniculture [[rye-grain-miniculture-production-parameters]] - Psilocybe cubensis Rye Grain
+title: Miniculture Production Yield Data Psilocybe Cubensis Bigwood Beug
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 source_author: Bigwood & Beug (1982)
 topics: miniculture, rye grain, production parameters, yield, flush longevity, Psilocybe cubensis
@@ -87,63 +87,3 @@ The use of sterile water via syringe demonstrates the laboratory-grade hygiene m
 ### Extended Production Period
 
 The minicultures demonstrated remarkable longevity:
-
-- **Production window:** At least 20 weeks of continued mushroom production from a single jar
-- **Flush count:** 5-6 flushes achievable before mycelium exhaustion
-- **Contamination as limiting factor:** Production continued "provided they remained uncontaminated" — contamination, not mycelial senescence, was typically the limiting factor
-
-The 20-week production window is notable. Most home cultivation guides suggest 3-5 flushes over 8-12 weeks. Bigwood and Beug's laboratory conditions (sterile water application, controlled environment, clean casing) apparently extended productive lifespan significantly.
-
-### Flush Harvesting Protocol
-
-- **Harvest timing:** "As soon as the sporocarps were mature"
-- **Post-harvest processing:** Immediately freeze-dried
-- **Storage:** Sealed in plastic bags at -5°C until analysis
-- **Voucher specimens:** Deposited at the University of Washington Herbarium (WTU)
-
-## Yield Data
-
-### Average Production
-
-- **Average dry weight:** 2.7 g dry weight per miniculture (entire production run)
-- **Per flush:** Approximately 0.45-0.54 g dry weight per flush (assuming 5-6 flushes)
-- **Yield efficiency:** 2.7 g from 10 g dry rye grain = ~27% [[biological-efficiency|biological efficiency]]
-
-The 27% biological efficiency (dry weight of mushrooms / dry weight of substrate) is modest by modern standards. Commercial cultivation systems routinely achieve 100-200% biological efficiency on bulk substrates. However, the comparison is somewhat unfair:
-
-- Rye grain is a relatively expensive substrate
-- The miniculture system prioritized experimental control over yield maximization
-- Small container volumes limit the ability to develop robust fruiting bodies
-- No supplementation or optimization for yield was attempted
-
-### Flush-by-Flush Trends
-
-The study documented consistent qualitative patterns across flushes:
-
-1. **Flush 1-2:** Robust fruiting, zero or near-zero psilocin
-2. **Flush 3-4:** Peak psilocin levels, variable psilocybin
-3. **Flush 5+:** Declining production, some psilocin reduction observed
-4. **Beyond flush 5:** Mycelium typically stops fruiting (one culture produced a 6th flush)
-
-## Comparative Substrate Considerations
-
-### Rye vs. Compost
-
-Bigwood and Beug noted a visual difference between rye-grown and compost-grown mushrooms:
-
-- **Rye-grown:** Smaller, less robust appearance (as seen in their miniculture photos)
-- **Compost-grown:** More robust in appearance with larger caps and thicker stems
-
-This visual distinction is well-documented in cultivation literature. Compost substrates provide:
-
-- Greater nutritional availability (diverse organic matter)
-- Better water retention capacity
-- More [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] for developing fruiting bodies
-- Typically higher yields per unit area
-
-However, for experimental purposes, rye grain offers superior standardization:
-
-- Precisely measurable nutrient content
-- Consistent physical properties
-- Easy sterilization
-- Minimal variability between batches

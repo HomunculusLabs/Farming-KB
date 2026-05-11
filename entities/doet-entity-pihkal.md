@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # DOET (HECATE)
 
-PIHKAL entry #66. 2,5-DIMETHOXY-4-ETHYLAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #66. 2,5-DIMETHOXY-4-ETHYLAMPHETAMINE.
 Also known as: HECATE.
 
 ## Chemical Name
@@ -87,12 +87,3 @@ To a solution of 19.7 g 2,5-dimethoxy-4-ethylbenzaldehyde (see the recipe for 2C
 A suspension of 6.5 g LAH in 500 mL well stirred anhydrous Et2O was held at reflux under an inert atmosphere, with the return of the condensed solvent passing through a Soxhlet thimble containing 6.5 g 1-(2,5-dimethoxy-4-ethylphenyl)-2-nitropropene. After the addition of the nitrostyrene was complete, the stirred suspension was maintained at reflux for an additional 18 h, then cooled to room temperature. The excess hydride was destroyed with 500 mL 8% H2SO4, added cautiously until the hydrogen evolution ceased, then at a speed that allowed the formed solids to disperse. The phases were separated, the aqueous phase washed once with Et2O, treated with 150 g potassium sodium tartrate, and finally made basic (pH >9) with 5% NaOH. This was extracted with 3x100 mL CH2Cl2, the extracts pooled, and the solvent removed under vacuum. The residue, 7.9 g of a clear oil, was dissolved in 100 mL anhydrous Et2O and saturated with anhydrous HCl gas. After standing at room temperature for 2 h, the crystalline 2,5-dimethoxy-4-ethylamphetamine hydrochloride (DOET) was removed by filtration, washed with Et2O, and air dried to constant weight. There was obtained 5.9 g of lustrous white crystal with a mp of 190-191 deg C. Recrystallization from CH3CN or EtOAc increased the mp to 194-195 deg C. Anal. (C13H22ClNO2) C,H,N.
 
 ## Safety Notes
-
-DOET is a research chemical documented in PIHKAL. Dosage data and
-safety profiles are based on limited self-experimentation. Exercise
-extreme caution. This compound is not approved for human consumption.
-
-## See Also
-- [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-- [[tma-5-entity-pihkal]]

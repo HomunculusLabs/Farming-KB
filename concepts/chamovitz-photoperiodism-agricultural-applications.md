@@ -1,6 +1,6 @@
 ---
 title: "Chamovitz Photoperiodism and Agricultural Applications"
-source: grahamholmes-what-a-plant-knowsindd.md (Daniel Chamovitz, 2012)
+source: grahamholmes-what-a-plant-knowsindd.md ([[daniel-chamovitz]], 2012)
 topics: photoperiodism, chrysanthemum farming, iris forcing, commercial flower production
 created: 2026-05-08
 ---
@@ -14,7 +14,7 @@ Allard in 1918, as recounted by Daniel Chamovitz, revolutionised
 commercial agriculture. By understanding how plants measure the length
 of continuous darkness, farmers gained the ability to manipulate
 flowering timing to meet market demands. Chamovitz illustrates these
-principles with vivid examples from commercial horticulture.
+principles with vivid examples from [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
 
 ## The Maryland Mammoth Discovery
 
@@ -50,7 +50,7 @@ to the classification of plants into categories:
   — e.g., chrysanthemums, soybeans, Maryland [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]]
 - **Long-day plants**: Flower when days are long (nights are short)
   — e.g., irises, barley
-- **Day-neutral plants**: Flowering is not regulated by day length
+- **Day-neutral plants**: Flowering is not regulated by [[coleman-persephone-months-winter-day-length]]
 
 ### Immediate Agricultural Exploitation
 
@@ -87,61 +87,3 @@ US and many European countries) — the opposite end of the
 photoperiodic spectrum.
 
 ### The Solution
-
-Commercial chrysanthemum growers exploit photoperiodism using
-controlled lighting in greenhouses:
-
-1. **Autumn and winter**: Turn on lights for a few minutes each
-   night throughout the season
-2. **Effect**: The night-break light convinces the plants that nights
-   are short, suppressing flowering
-3. **Two weeks before Mother's Day**: Stop the night-break lighting
-4. **Result**: All plants begin flowering simultaneously, ready for
-   harvest and shipping for the holiday market
-
-This technique allows growers to hold chrysanthemums in vegetative
-growth for months and then trigger a coordinated, market-timed bloom.
-
-## Iris Winter Forcing
-
-### Long-Day Plant Manipulation
-
-Irises are long-day plants that normally flower in late spring and
-summer. Using photoperiod control, growers can force winter flowering:
-
-1. During winter's naturally short days, provide supplemental light
-   to extend the photoperiod
-2. Alternatively, use night-break lighting (a brief [[phytochrome-red-far-red-light-switch]] flash
-   in the middle of the night) to shorten the perceived night length
-3. The irises respond by flowering even in the middle of winter
-
-This allows year-round production of cut iris flowers for the floral
-industry.
-
-## Red Light Specificity in Agriculture
-
-The discovery that only red light (not blue or green) affects
-photoperiodic responses has practical implications:
-
-- **Efficient lighting**: Growers can use low-energy red LED arrays
-  rather than full-spectrum lighting for photoperiod control
-- **Targeted intervention**: Night-break lighting needs only red
-  light, reducing energy costs compared to white light systems
-- **Far-red reversal**: Understanding that far-red cancels red
-  effects helps growers avoid accidental reversal — for example,
-  ensuring that incandescent lamps (which emit far-red) are not
-  used where they might counteract the intended photoperiodic
-  signal
-
-## Broader Applications
-
-The principles of photoperiodism apply to many commercial crops:
-
-- **Soybeans**: Planting date selection optimises flowering for
-  maximum yield
-- **Strawberries**: Day-neutral varieties were developed to enable
-## See Also
-
-- [[garner-allard-photoperiodism-experiment-methodology]]
-- [[chamovitz-plant-senses-overview]]
-- [[phytochrome-red-far-red-switch-and-photoperiodism]]

@@ -53,7 +53,7 @@ Curcuma longa is a rhizomatous herbaceous perennial growing to 0.6-1.0 m
 tall. It produces annual leaf shoots from the underground rhizome
 system each [[savory-growing-season-and-non-growing-season-management]]. The plant dies back to the rhizome during
 dry or cool periods. Under cultivation, the crop cycle is typically
-7-10 months from planting to harvest.
+7-10 months from [[query-how-do-i-grow-garlic-organically-from-planting-to-harvest]].
 
 ### Leaves
 Leaves are large, elliptic to lanceolate, 30-60 cm long and 8-20 cm
@@ -88,61 +88,3 @@ pungent taste. Fresh rhizomes contain 70-80% moisture.
 | Demethoxycurcumin | 15-25% | Antioxidant, anti-inflammatory |
 | Bisdemethoxycurcumin | 10-15% | Antimicrobial, antioxidant |
 | Cyclocurcumin | Trace | Formed during processing |
-
-Total curcuminoid content in dried turmeric rhizome typically ranges
-from 2-9%, with commercial turmeric powder averaging 3-5%. The
-curcuminoid content varies significantly with cultivar, growing
-conditions, [[cannabis-harvest-timing-visual-cues]], and processing methods.
-
-### Essential Oil
-The essential oil (2-7% of dry weight) contains:
-
-- **Turmerone** (ar-turmerone, alpha-turmerone, beta-turmerone):
-  30-50% of the oil, contributes to aroma and has bioactive properties
-- **Zingiberene**: 10-20%, warm spicy aroma
-- **Curcumene**: 5-15%
-- **Borneol**: 2-5%
-- **Cineole**: 1-3%
-- **Various sesquiterpenes and monoterpenes**: remainder
-
-### Other Constituents
-- Polysaccharides (ukonan A-D): immunomodulatory activity
-- Proteins (6-8% dry weight)
-- Minerals: calcium, iron, potassium, manganese, zinc
-- Vitamins: vitamin C, niacin (B3), vitamin E
-- Fiber and starch: bulk constituents
-
-## Pharmacological Activities
-
-Modern research has documented extensive pharmacological activities for
-curcumin and turmeric extracts:
-
-### Anti-inflammatory
-Curcumin inhibits NF-kB, COX-2, LOX, and TNF-alpha signaling pathways.
-It reduces prostaglandin E2 production and downregulates inflammatory
-cytokines (IL-1, IL-6, IL-8). [[mushroom-cancer-clinical-trials-overview]] demonstrate efficacy in
-osteoarthritis and rheumatoid arthritis at doses of 500-1500 mg/day,
-comparable to ibuprofen in some studies but with fewer gastrointestinal
-side effects.
-
-### Antioxidant
-Curcumin scavenges reactive oxygen species (ROS) and reactive nitrogen
-species (RNS) directly. It upregulates endogenous antioxidant enzymes
-including SOD, catalase, and glutathione peroxidase via Nrf2
-activation. The phenolic hydroxyl groups and the beta-diketone moiety
-are primarily responsible for radical-scavenging activity.
-
-### Anticancer
-Extensive preclinical data demonstrates curcumin's anticancer activity
-against multiple cell lines. Mechanisms include:
-## See Also
-
-- [[bixa-orellana]]
-- [[haematoxylum-campechianum]]
-- [[pfaffia-glomerata]]
-
-- [[curcuma-amarissima]]
-
-- [[piper-methysticum]]
-- [[panax-ginseng]]
-- [[bacopa-monnieri]]

@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,31 +87,3 @@ In his own orchard, "I never had any problem with mites in the citrus trees. Or 
 the problem solved itself." This self-correction is, for Fukuoka, the normal functioning
 of a healthy ecosystem. Problems arise only when human intervention disrupts the natural
 balance.
-
-## The Ecological Principle
-
-The unifying principle across all of Fukuoka's case studies is that pesticide use
-destroys the ecological relationships that naturally regulate pest populations. Natural
-enemies — ladybugs, parasitic wasps, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] — are typically more vulnerable to
-pesticides than the pests themselves, because the pests have evolved greater resistance
-to the specific chemicals deployed against them. The result is a paradox: spraying kills
-the pest's enemies while leaving the pest relatively unharmed, creating conditions for
-population explosion.
-
-Fukuoka frames this not as a failure of particular pesticides but as a fundamental
-misunderstanding of ecological relationships. The scientist who develops "new pesticides
-that destroy pests at minimal harm to beneficial insects" is, in Fukuoka's view,
-pursuing an impossible goal, because the complexity of ecological relationships makes it
-impossible to predict or control the cascading effects of any chemical intervention.
-
-This principle operates at every scale. Fukuoka notes that other fruit tree pests —
-aphids, tree borers, beetles that feed on grapevines, leaf rollers, springtails, and
-grubs — "become a problem in abandoned orchards in which no effort whatsoever is made
-to provide a good environment for the fruit trees or to improve their form." The
-solution, in his view, is not to spray but to maintain healthy growing conditions that
-allow natural predators to function.
-
-## Broader Implications
-
-Fukuoka's observations anticipate the principles of [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] for more detail
-on the arrowhead scale case, and [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]] for how this principle extends beyond orchards to entire forest ecosystems.

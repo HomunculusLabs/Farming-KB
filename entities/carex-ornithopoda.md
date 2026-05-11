@@ -87,35 +87,3 @@ Cultivation requires a position in partial to full shade with well-drained, neut
 Establishment from division typically takes one to two growing seasons before the plant reaches its full ornamental potential. Once established, individual tussocks can persist for many years without requiring renewal, making it a reliable long-term component of shade garden plantings.
 
 Propagation is most reliably achieved by division of established clumps in early spring or autumn. Seed germination can be erratic and may benefit from a period of cold stratification at 4 degrees Celsius for four to six weeks. The species has no significant pest or disease problems in cultivation, though waterlogged conditions during winter can cause root rot and crown deterioration.
-
-No significant economic or traditional uses have been documented for this species. It is occasionally included in ecological restoration plantings for calcareous woodland sites in central Europe, where it contributes to the re-establishment of native ground flora communities. Its primary value remains horticultural, as a refined and characterful shade garden subject.
-
-Several selected forms and variegated cultivars have appeared in the European nursery trade, though none have achieved widespread commercial availability. The typical green-leaved form remains the most commonly offered, with specialty nurseries in Germany, Austria, and the UK being the primary sources of propagation material.
-
-## Related Species
-
-Carex ornithopoda is most closely related to carex digitata, with which it shares the general habit of a loose tussock-forming woodland sedge and androgynous inflorescence structure. However, C. digitata has distinctly longer, narrower leaves and a more openly branched inflorescence, and it tends to occupy more acidic woodland habitats. The two species may occur in proximity where calcareous and acidic substrates intergrade.
-
-The species also shows morphological similarities to [[carex-sylvatica]], a widespread European woodland sedge of more acidic soils. C. sylvatica has narrower perigynia with a longer beak and typically more arching female spike peduncles. In the field, C. ornithopoda is distinguished by its darker inflorescence, shorter perigynia beak, and its strong association with calcareous substrates.
-
-Other related woodland sedges within its range include [[carex-remota]], which prefers wetter, more acidic conditions along streams, and [[carex-canescens]], a species of damp, acidic heaths and bogs. The calcareous woodland specialist [[carex-montana]] is perhaps its most frequent ecological associate, though C. montana forms a more compact, densely silvery-hairy tussock and blooms earlier in the season.
-
-Hybridization between C. ornithopoda and related species is rare but has been reported with [[carex-montana]] in areas where the two species co-occur. The resulting hybrids are typically sterile and intermediate in morphology, making field identification challenging without close examination of perigynia characters.
-
-## See Also
-
-- [[carex-montana]]
-- [[carex-sylvatica]]
-- [[carex-flacca]]
-- [[carex-pilulifera]]
-- [[carex-muricata]]
-- carex digitata
-- [[carex-remota]]
-- [[carex-canescens]]
-- [[carex-paniculata]]
-- [[carex-pendula]]
-- [[fagus-sylvatica]]
-- [[quercus-petraea]]
-- [[anemone-nemorosa]]
-- [[convallaria-majalis]]
-- [[primula-vulgaris]]

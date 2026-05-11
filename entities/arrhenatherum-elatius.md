@@ -21,7 +21,7 @@ sources:
 
 Arrhenatherum elatius, commonly known as tall oatgrass or tall meadow oatgrass, is a perennial bunchgrass native to Europe, western Asia, and North Africa.
 
-It has been widely introduced as a forage and ornamental grass in temperate regions worldwide, including North America, South America, Australia, and New Zealand.
+It has been widely introduced as a forage and ornamental grass in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 The species is recognized as invasive in several regions outside its native range, particularly in disturbed grasslands and forest margins.
 
@@ -75,53 +75,16 @@ It is more common in lowland and montane habitats, typically occurring below 1,5
 
 ## Ecology and Invasiveness
 
-Arrhenatherum elatius is classified as an invasive species in several U.S. states, including Virginia, West Virginia, and parts of the Pacific Northwest.
+Arrhenatherum elatius is classified as an invasive species in several U.S. states, including Virginia, West Virginia, and parts of the [[psilocybin-north-america-pacific-northwest]].
 
 It can form dense monospecific stands that reduce native plant diversity in grassland and forest-edge communities.
 
 The species spreads primarily by seed, with individual plants producing several hundred seeds per season under favorable conditions.
 
-Seed dispersal is facilitated by wind, animals, and human activity along roadways and trails.
+[[clay-pellet-seed-dispersal]] is facilitated by wind, animals, and human activity along roadways and trails.
 
 In North America, it poses a particular threat to native meadow and oak savanna restoration sites.
 
-The species is relatively palatable to livestock and can persist under moderate grazing pressure.
+The species is relatively palatable to livestock and can persist under moderate [[gadd-mycelial-network-resilience-grazing-pressure]].
 
 It serves as a host plant for several grass-feeding insects, including the satyr butterfly Coenonympha pamphilus in Europe.
-
-Arrhenatherum elatius is indicative of intermediate soil fertility and moderate disturbance in European phytosociological classification systems.
-
-Its phenology is typical of cool-season grasses, with peak growth in spring and early summer and reduced activity during midsummer heat.
-
-The species is a C3 photosynthetic pathway plant, which limits its productivity during hot, dry summer conditions compared to C4 species.
-
-## Cultivation and Uses
-
-Arrhenatherum elatius has been used as a forage grass in Europe for several centuries, though its nutritional quality is considered moderate.
-
-Crude protein content ranges from 8 to 12 percent during early growth, declining rapidly after heading.
-
-Digestibility is relatively high in vegetative stages but drops sharply as stems mature and lignify.
-
-It has been largely superseded by improved perennial ryegrass and tall fescue cultivars in modern agricultural systems.
-
-The species persists well in permanent pastures with moderate grazing and is tolerant of both cutting and grazing management.
-
-In ornamental horticulture, the variegated cultivar 'Variegatum' (sometimes listed as A. elatius subsp. bulbosum 'Variegatum') is widely planted.
-
-The variegated form features white-striped leaves and is used in borders, meadow plantings, and as a ground cover in partial shade.
-
-The species is used in soil stabilization projects on disturbed sites, including highway embankments and mine reclamations.
-
-In ecological research, Arrhenatherum elatius is a model species for studying grassland competition, invasion biology, and plant community dynamics.
-
-## See Also
-
-- [[dactylis-glomerata]]
-- [[festuca-arundinacea]]
-- [[phleum-pratense]]
-- [[lolium-perenne]]
-- [[bromus-inermis]]
-- [[cynodon-dactylon]]
-- [[phalaris-arundinacea]]
-- [[stipa-tenuissima]]

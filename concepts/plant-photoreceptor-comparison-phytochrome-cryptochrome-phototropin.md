@@ -1,7 +1,7 @@
 ---
 title: Comparison of Major Plant Photoreceptor Families
 slug: plant-photoreceptor-comparison-phytochrome-cryptochrome-phototropin
-source: "What a Plant Knows by Daniel Chamovitz (2012)"
+source: "What a Plant Knows by [[daniel-chamovitz]] (2012)"
 tags:
   - plant-biology
   - photoreceptors
@@ -16,7 +16,7 @@ created: 2026-05-10
 # Comparison of Major Plant Photoreceptor Families
 
 Plants possess a remarkably sophisticated array of photoreceptor systems that
-detect light across a broader spectral range than any animal visual system. As
+detect light across a broader spectral range than any [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]] system. As
 Daniel Chamovitz describes in "What a Plant Knows," plants "see" ultraviolet,
 visible, and infrared light — a far wider range than human eyes, which are
 limited to a narrow band between roughly 400 and 700 nanometers. Plant
@@ -31,7 +31,7 @@ spectral sensitivity, and set of biological functions.
 Phytochrome is arguably the most versatile plant photoreceptor, and its
 discovery in the mid-twentieth century transformed plant biology. First
 identified by Sterling Hendricks, Harry Borthwick, and colleagues at the USDA's
-Beltsville Agricultural Research Center, phytochrome exists in two
+Beltsville [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] Center, phytochrome exists in two
 interconvertible molecular forms. The inactive form, Pr, absorbs red light at
 approximately 660 nanometers; upon absorbing a red photon, it isomerizes into
 the active form, Pfr, which absorbs far-red light at approximately 730
@@ -53,7 +53,7 @@ relaxation (dark reversion). The amount of Pfr remaining at the end of the
 night tells the plant whether the night was long or short, controlling whether
 a short-day or long-day plant will flower.
 
-Additionally, phytochrome mediates shade detection: when a plant is shaded by
+Additionally, phytochrome mediates [[phytochrome-red-far-red-ratio-shade-detection-plants]]: when a plant is shaded by
 neighboring vegetation, the ratio of red to far-red light drops because
 chlorophyll in the shading leaves absorbs red light but transmits and reflects
 far-red light. Phytochrome senses this shift and triggers shade-avoidance
@@ -65,7 +65,7 @@ conformational change triggered by photon absorption propagates through the
 structure, enabling interaction with downstream signaling partners. Phytochrome
 resides primarily in the cytoplasm, but upon activation, Pfr translocates to
 the nucleus, where it directly regulates gene expression. In the context of
-flowering, phytochrome in the leaves produces a mobile signal — subsequently
+flowering, phytochrome in the leaves produces a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — subsequently
 identified as the protein FT (florigen) — that travels through the phloem to
 the shoot apex and triggers the floral transition.
 
@@ -88,63 +88,3 @@ disrupts this interaction, stabilizing these regulators and enabling the
 light-growth program to proceed.
 
 Cryptochromes are integral components of the plant circadian clock, providing
-an internal representation of the day-night cycle. They form transcriptional
-feedback loops generating approximately 24-hour rhythms in gene expression,
-leaf movement, stomatal opening, and photosynthetic capacity. Notably,
-cryptochromes share [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]] with photolyases — bacterial DNA repair
-enzymes — suggesting an evolutionary origin in light-dependent repair
-mechanisms.
-
-## Phototropin: The Blue Light Receptor for Directional Growth
-
-Phototropins are the photoreceptors specifically responsible for phototropism —
-the directional bending of plant organs toward light. As Chamovitz recounts,
-this research traces back to Charles Darwin's experiments with canary grass
-(Phalaris canariensis) in "The [[darwin-power-of-movement-in-plants]] in Plants" (1880), which
-demonstrated that the seedling tip perceives light while bending occurs in the
-stem. Julius von Sachs subsequently showed in 1864 that blue light is the
-primary color inducing phototropism.
-
-Phototropins contain two light-oxygen-voltage (LOV) domains, each binding a
-flavin mononucleotide (FMN) chromophore. Blue light absorption (~450 nm) causes
-FMN to form a covalent bond with a conserved cysteine residue, activating the
-C-terminal kinase domain. This kinase phosphorylates downstream targets that
-regulate asymmetric auxin redistribution: higher auxin on the shaded side
-causes cells there to elongate more rapidly, producing the characteristic bend.
-
-Two phototropins exist in Arabidopsis. Phot1 mediates phototropism at both low
-and high light intensities; phot2 functions at high intensities and controls
-the chloroplast avoidance response — chloroplast repositioning to minimize
-photodamage under intense light.
-
-## Comparative Overview
-
-| Feature          | Phytochrome          | Cryptochrome       | Phototropin        |
-|------------------|----------------------|--------------------|--------------------|
-| Chromophore      | Linear tetrapyrrole  | Flavin (FAD)       | Flavin (FMN)       |
-| Peak absorption  | 660/730 nm (red/far-red) | ~450 nm (blue/UV-A) | ~450 nm (blue) |
-| Key roles        | Germination, photoperiodism, shade avoidance | De-etiolation, [[plant-circadian-rhythms]] | Phototropism, chloroplast movement |
-| Activation       | Reversible red/far-red toggle | Blue-light conformational change | Blue-light LOV domain activation |
-
-## Simultaneous Photoreceptor Integration
-
-Plants do not use these systems in isolation. In natural environments, a plant
-simultaneously receives red, far-red, blue, and UV light, and must integrate
-signals from all three photoreceptor families. A seedling emerging from soil
-receives both red light (activating phytochrome) and blue light (activating
-cryptochrome and phototropin). Phytochrome promotes de-etiolation, cryptochrome
-inhibits stem elongation, and phototropin ensures directional bending. This
-integration explains why plants have a broader effective "visual" range than
-humans: for a sessile organism, maximizing information extraction from every
-photon is a matter of survival.
-
-## Related Concepts
-
-- [[phytochrome-red-far-red-light-switch]]
-- [[phytochrome-photoreception]]
-- [[julius-von-sachs-blue-light-phototropism-discovery]]
-- darwin plant movement experiments power of movement in plants
-- night break technique photoperiodism flower manipulation
-- electromagnetic spectrum and light wave properties
-- [[human-photoreception-rods-cones-and-visual-pigments]]
-- plant sensing and communication

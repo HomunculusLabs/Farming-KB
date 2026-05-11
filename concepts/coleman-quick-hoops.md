@@ -1,5 +1,5 @@
 ---
-title: "coleman-quick-hoops-construction — Low-Cost comparison-season-extension-techniques-vs-cold-frame-gardening Structures"
+title: Coleman Quick Hoops
 type: concept
 tags:
   - season-extension
@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Eliot Coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
+  - eliot-coleman (2009). "The coleman-claytonia-winter-harvest-cultivation Handbook." Chelsea Green.
 ---
 
 # Quick Hoops — Low-Cost Season Extension Structures
@@ -18,18 +18,18 @@ sources:
 Quick hoops are a minimalist season-extension system developed at Four Season
 Farm that provides many of the benefits of a full greenhouse at roughly five
 percent of the cost. Consisting of wire or plastic conduit hoops covered with
-row cover fabric and optionally with clear plastic, quick hoops allow northern
+[[coleman-row-cover-fabric-management]] and optionally with clear plastic, quick hoops allow northern
 growers to overwinter crops in the field and [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by weeks
 in both directions.
 
 ## Design and Construction
 
-A quick hoop is a low tunnel made by bending 10-foot lengths of half-inch
+A quick hoop is a [[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] made by bending 10-foot lengths of half-inch
 electrical metallic tubing (EMT) or plastic conduit into arcs over raised
 beds. The hoops are spaced 2.5 feet apart along the bed and pushed 6 inches
 into the soil on each side.
 
-The hoops are covered with a layer of lightweight spun-bonded row cover fabric
+The hoops are covered with a layer of lightweight spun-bonded [[coleman-double-layer-protection-greenhouse-row-cover]] fabric
 such as Agribon. In areas with heavy snow, a second layer of 10-foot-wide
 clear plastic is added over the fabric for extra protection beginning in late
 November.
@@ -56,7 +56,7 @@ crops later in the season. The same investment serves multiple purposes.
 ## Crops for Quick Hoops
 
 Onions, scallions, spinach, and lettuce were the first crops overwintered
-under quick hoops at Four Season Farm. Overwintering onion varieties mature
+under quick hoops at [[coleman-four-season-farm]]. Overwintering onion varieties mature
 at the end of June, providing five or more weeks of early sales before
 spring-planted onions are ready.
 
@@ -88,43 +88,3 @@ is removed and stored, leaving just the fabric layer for spring protection.
 
 As spring arrives and sunny days warm the tunnels, ventilation becomes
 critical. A few sandbags are removed along the southern edge and notched
-props are inserted to hold up the edges of the plastic and fabric.
-
-This allows excess heat to escape while maintaining [[holzer-frost-protection-techniques]] at
-night. The farmer monitors conditions and adjusts ventilation to prevent
-overheating while protecting crops from late frosts.
-
-## Potential for Exploration
-
-Coleman identified several promising areas for experimentation with quick
-hoops. The most fascinating was the possibility of sowing seeds just before
-the ground freezes — peas, carrots, beets, arugula, onions — to germinate
-extra early in spring.
-
-If seeds could sit dormant through winter and germinate in February when
-soil temperatures under the covers warmed sufficiently, crops could be
-established up to two months before conventional spring planting dates.
-
-This practice of dormant fall seeding, combined with the protection of
-quick hoops, represents a largely unexplored frontier in northern
-agriculture with significant potential for extending the productive season.
-
-## Replacing Wire Wickets
-
-Quick hoops completely replaced the curved wire wickets that Four Season
-Farm previously used to support fabric [[solomon-row-covers-and-season-extension]] over field crops. The
-hoops provided more headroom, better structural integrity, and easier
-installation and removal.
-
-The transition from wickets to hoops illustrates the evolution of Coleman's
-approach: constantly refining tools and techniques to reduce labor and
-cost while improving results.
-
-## See Also
-
-- [[coleman-quick-hoops-construction]]
-
-- coleman-mobile-greenhouse-crop-rotation-patterns
-- [[coleman-winter-harvest-philosophy]]
-- [[winter-succession-planting]]
-- [[faires-season-extension-cold-frames]]

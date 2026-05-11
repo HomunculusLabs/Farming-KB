@@ -22,7 +22,7 @@ sources:
 
 # Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract [[hamilton-beneficial-insects-and-biological-pest-control]]. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based [[cervantes-companion-planting-pest-deterrent]] strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -35,7 +35,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 | Sage | 60cm | Full sun | Well-drained | Culinary, medicinal | Replace every 4-5 years when woody |
 | Mint | 60cm | Sun/part shade | Moist, rich soil | Culinary, tea, medicinal | ALWAYS contain in pots -- extremely invasive |
 | Oregano/Marjoram | 30-45cm | Full sun | Well-drained | Culinary | Hardy once established; excellent for pizza |
-| Chives | 30cm | Sun/part shade | Any reasonable soil | Culinary, edible flowers | Divide every 3 years; flowers attract bees |
+| Chives | 30cm | Sun/part shade | Any reasonable soil | Culinary, [[comparison-scented-geraniums-vs-edible-flowers]] | Divide every 3 years; flowers attract bees |
 | Tarragon (French) | 60cm | Full sun | Well-drained, rich soil | Culinary | Must buy plants, not seed; dies back in winter |
 | Fennel | 1.5m | Full sun | Well-drained | Culinary, medicinal | Bronze fennel is ornamental; avoid near dill (cross-pollinates) |
 | Lovage | 1.5m | Sun/part shade | Moist, rich soil | Culinary (celery substitute) | Very hardy perennial; dies down in winter |
@@ -57,7 +57,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 |------|-------|
 | Bay laurel | Evergreen shrub. Bring indoors or wrap in fleece in hard winters. Slow-growing; buy a plant |
 | Lavender | Full sun, very well-drained soil. Prune after flowering to keep compact. English lavender hardiest |
-| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter in cold climates |
+| Myrtle | Tender evergreen. Excellent in pots. Bring indoors in winter [[query-how-do-i-grow-figs-in-cold-climates]] |
 
 ## Growing Herbs from Seed
 
@@ -73,7 +73,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 - **Division** -- mint, chives, lemon balm, oregano: lift in spring, divide into sections, replant
 - **Cuttings** -- rosemary, sage, thyme, lavender: take softwood cuttings in summer, hardwood in autumn. Root in free-draining compost (50/50 compost/perlite). Use rooting hormone for woody cuttings
 - **Layering** -- rosemary, thyme, sage: bend a low stem to ground, peg down, cover with soil. Separate when rooted
-- **Seed** -- see [[seed-starting-reference]] for detailed propagation methods
+- **Seed** -- see [[seed-starting-reference]] for detailed [[organic-propagation-methods]]
 
 ## Harvesting
 
@@ -102,7 +102,29 @@ Herbs are central to organic pest management. See [[companion-planting-reference
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
+- [[geoff-hamilton-organic-techniques]] -- Full [[geoff-hamilton-the-organic-gardening-companion]] system
 - [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar
+
+
+## Design Applications
+Permaculture design principles emphasize multi-functional elements,
+efficient energy cycling, and working with natural patterns rather
+than against them. Integration with existing landscape features
+maximizes productivity while minimizing external inputs.
+
+
+## Implementation Notes
+Practical implementation requires site-specific adaptation considering
+local climate, soil conditions, available resources, and the grower's
+experience level. Observation and iterative refinement over multiple
+seasons produce the most resilient and productive systems.
+
+
+## See Also
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
+- [[herb-gardening-organic-hamilton]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-herb-garden]]
+- [[herb-gardening-organic]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers]]

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe weilii Species Profile
+title: Psilocybe Weilii Species Profile
 created: 2026-04-28
 tags: [psilocybe, weilii, species-profile, identification]
 date: 2026-04-25
@@ -18,7 +18,7 @@ Discovered after Hurricane Opal swept through the region in 1995, this
 relatively rare species is notable for its strong [[field-guide-psilocybin-bluing-reaction-identification]], its
 tendency to form clusters (cespitose growth), and its moderate to high
 potency. The name honors [[psilocybe-baeocystis]], Psilocybe
-aztecorum, and Psilocybe heliconia in terms of its morphological
+aztecorum, and [[psilocybe-heliconia]] in terms of its morphological
 characteristics and ecological niche.
 
 ## Macroscopic Features
@@ -32,7 +32,7 @@ thick at center. Strongly hygrophanous, fading in drying to pallid
 brown to light brown. Surface is viscid when moist from a separable
 gelatinous pellicle, translucent-striate near the margin.
 
-**Flesh:** Whitish, bruising bluish. The bluing reaction is strong
+**Flesh:** Whitish, bruising bluish. The [[metol-testing-bluing-reaction-mushrooms]] is strong
 and characteristic, developing rapidly on handling or injury.
 
 **Gills (Lamellae):** Attachment adnate to sinuate with two tiers of
@@ -44,7 +44,7 @@ towards the base, which projects white rhizomorphs. White, becoming
 dingy brown, bruising bluish overall in age or from drying. Covered
 with a well-developed sheath of whitish fibrillose patches below and
 pruinose above. Cartilaginous, strigose, hollow, stuffed with whitish
-pith. Partial veil cortinate, leaving a fibrillose annular zone
+pith. [[partial-veil-tropism-protection-before-spore-release]] cortinate, leaving a fibrillose annular zone
 sometimes dusted with purplish violet brown spores.
 
 ## Microscopic Features
@@ -66,7 +66,7 @@ Dimensions: 20-37.5 by 5-6.5 micrometers.
 
 Psilocybe weilii grows gregarious to cespitose (sometimes scattered) in
 red-clay soil topped with a thin layer of needles from loblolly pine
-(Pinus taeda) underneath sweetgum (Liquidambar styraciflua). The first
+(Pinus taeda) underneath sweetgum ([[liquidambar-styraciflua]]). The first
 report came from southeastern Cherokee County in northern Georgia. The
 habitat represents an interface ecosystem -- just beyond the edge of an
 eight-year-old yard lined with shrubs, in red-clay soils.
@@ -83,37 +83,8 @@ temperatures between 45-80 degrees F, with an optimal range of 60-75
 degrees F. The species was first discovered following Hurricane Opal,
 suggesting that heavy rainfall and soil disturbance may trigger
 fruiting. Its autumn fruiting period aligns with many other
-Psilocybe species in the southeastern United States.
+Psilocybe species in the southeastern [[dmt-maoi-plants-united-states]].
 
 ## Potency
 
 Analysis indicates the following alkaloid profile:
-- Psilocybin: 0.85%
-- Psilocin: 0.27%
-- Baeocystin: 0.05%
-
-These levels classify it as moderately to highly potent. This
-represents the first report of a lignicolous, caerulescent Psilocybe
-from Georgia. The substantial psilocybin content combined with the
-strong bluing reaction suggests active tryptamine metabolism.
-
-## Identification Notes
-
-Key features for field identification include the dark chestnut to
-olivaceous brown cap with blackish disc zone, the strong bluing
-reaction on all parts, growth in red-clay soils under loblolly pine
-and sweetgum, and the cespitose fruiting habit. The gelatinous
-pellicle and hygrophanous nature should be checked by moistening
-the cap surface to confirm viscidity.
-
-## Related
-
-- [[psilocybe-ovoideocystidiata-species-profile]] Concepts
-
-- Psilocybe Aztecorum
-- [[psilocybe-caerulescens]]
-- bigwood-beug-psilocybin-psilocin-variation-analysis
-- lignicolous-psilocybe-species
-- southeastern us psilocybe
-- bluing reaction mechanism
-- cespitose growth pattern

@@ -20,7 +20,7 @@ created: 2026-05-07
 
 **Clitocybe dealbata** is a toxic mushroom in the family Tricholomataceae, commonly known as the **sweat mushroom** or **ivory funnel**. It is responsible for numerous cases of poisoning due to its resemblance to edible species and its habit of growing in grassy areas where foragers encounter it.
 
-The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]/muscimol toxins found in [[amanita-muscaria-entity]]
+The species contains **muscarine**, a toxic alkaloid that stimulates parasympathetic nervous system receptors. Unlike the [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]/muscimol toxins found in [[amanita-muscaria]]
 - [[coprinus-comatus]]
 - [[gyromitra-esculenta]]
 - [[psilocybe-cubensis]]
@@ -88,21 +88,3 @@ outcomes creates a valuable knowledge base that supports progressively
 better results with each iteration of practice and experimentation.
 
 ## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

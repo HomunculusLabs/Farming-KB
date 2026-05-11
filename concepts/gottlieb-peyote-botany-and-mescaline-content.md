@@ -1,5 +1,5 @@
 ---
-title: "gottlieb peyote botany and mescaline content and Mescaline Content"
+title: Gottlieb Peyote Botany And Mescaline Content
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -11,13 +11,13 @@ tags: [peyote]
 # Peyote Botany and Mescaline Content
 
 Peyote is a spineless, tufted, blue-green, button-like cactus known botanically as
-Lophophora williamsii. It grows wild from central Mexico to northern Texas across the
+[[lophophora-williamsii]]. It grows wild from [[psychoactive-cacti-of-central-mexico]] to northern Texas across the
 Chihuahuan Desert. It is the most famous of the hallucinogenic cacti, with a known
 history dating back to pre-Columbian times, possibly as early as 300 BC.
 
 ## Mescaline Content
 
-Mescaline was first extracted from peyote by Arthur Heffter in 1896 and tested on
+Mescaline was first extracted from peyote by [[arthur-heffter]] in 1896 and tested on
 himself, making it the first hallucinogenic compound isolated by man. Key facts about
 mescaline content in peyote:
 
@@ -40,7 +40,7 @@ large succulents, sometimes also in open sunlit places.
 ### Lophophora diffusa
 
 In 1967, H.H. Bravo found near Queretaro in south-central Mexico another species which
-he named Lophophora diffusa. This plant is yellow-green, soft, ribless and contains a
+he named [[lophophora-diffusa]]. This plant is yellow-green, soft, ribless and contains a
 somewhat different alkaloid mixture with far less mescaline than L. williamsii.
 
 ## Alkaloid Profile
@@ -88,39 +88,3 @@ peyote is a different species.
 ## Alkaloid Accumulation and Harvesting
 
 Alkaloid content is influenced by environmental conditions:
-
-- Plants build up alkaloids during dry seasons
-- They draw upon alkaloids for growth when rains come
-- Harvesting during or after a wet spell may see alkaloid content drop below 50 percent
-- Soil rich in nitrogen correlates with plants rich in alkaloids
-- A cactus three inches in diameter may be more than 20 years old
-
-## Mescaline Chemistry
-
-Mescaline is a nonphenolic beta-phenethylamine (3,4,5-trimethoxy-beta-phenethylamine).
-It is the main psychoactive component of peyote, [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], and several other
-Trichocereus species. It is also found in traces in Pelecyphora.
-
-## Biosynthetic Pathway
-
-Experiments conducted by Rosenberg, McLaughlin and Paul at the University of Michigan,
-Ann Arbor in 1966 demonstrated that dopamine is a precursor of mescaline in the peyote
-cactus. Tyramine and dopa were also found to be mescaline precursors, but not as
-immediate and efficient as dopamine. The pathway is:
-
-1. Tyrosine breaks down to become tyramine and dopa
-2. These recombine to form dopamine
-3. Dopamine is converted to nor-mescaline
-4. Nor-mescaline is finally converted to mescaline
-
-## Preservation
-
-Because of the presence of several phenolic alkaloids, peyote cacti do not spoil easily
-and may be kept in their fresh form for several weeks after harvesting. For longer
-storage they must be refrigerated, frozen, or dried. The enzymes which cause the
-harvested plant to eventually decompose also destroy the mescaline and other alkaloids.
-- [[mescaline-peyote-san-pedro-cactus]]
-- [[psychoactive-cacti-species-reference]]
-- [[gottlieb-peyote-legal-status-and-conservation]]
-- [[gottlieb-peyote-traditional-use-and-history]]
-- [[gottlieb-peyote-extraction-and-preparation-methods]]

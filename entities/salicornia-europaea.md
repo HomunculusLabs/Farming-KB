@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Davy, A.J. et al. (2001). "Developmental plasticity in Salicornia." In: Coastal Saltmarsh Management. Elsevier.
-  - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands Ecology and Management, 27, 1-22.
+  - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands [[nematode-management]], 27, 1-22.
   - Venturin, S. et al. (2023). "dighton-fungal-nutritional-composition-animal-diets and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
   - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for fungal-salt-tolerance-and-ion-homeostasis research." Plant Stress, 2, 100012.
 created: 2026-05-07
@@ -52,7 +52,7 @@ The flowers lack petals and sepals, enclosed by the fleshy stem tissue with only
 
 S. europaea is native to the coasts of Europe, from Scandinavia and the Baltic to the Mediterranean, and extends across temperate Asia to Japan.
 
-It also occurs along the Atlantic coast of North America and has been reported from coastal South America.
+It also occurs along the Atlantic coast [[berry-growing]] and has been reported from coastal [[guzman-psilocybin-mushrooms-south-america]].
 
 The species occupies the lower to middle zones of salt marshes, mudflats, and coastal lagoons where it is regularly inundated by tidal seawater.
 
@@ -76,7 +76,7 @@ Commercial cultivation for the gourmet vegetable market has expanded significant
 
 The nutritional profile is notable for high mineral content (sodium, potassium, magnesium, calcium) and beneficial polyunsaturated fatty acids.
 
-Analysis has identified bioactive compounds including flavonoids, phenolic acids, and betacyanins with antioxidant and anti-inflammatory properties.
+Analysis has identified [[cordyceps-cancer-bioactive-compounds]] including flavonoids, phenolic acids, and betacyanins with antioxidant and anti-inflammatory properties.
 
 ## Ecology and Applications
 
@@ -84,32 +84,6 @@ S. europaea is a primary producer in salt marsh ecosystems, contributing [[hamil
 
 Its root system helps stabilize intertidal sediments and promotes accretion, playing a role in coastal defense and marsh elevation maintenance.
 
-In phytoremediation, the species shows potential for uptake and sequestration of heavy metals from contaminated saline soils.
+In phytoremediation, the species shows potential for uptake and sequestration [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] from contaminated saline soils.
 
-The plant's salt-accumulating capacity makes it a candidate for integrated saline agriculture systems where seawater irrigation is used.
-
-Dried Salicornia biomass can serve as forage for livestock, containing crude protein levels comparable to conventional forage grasses when cultivated with moderate salinity.
-
-The historical use of Salicornia in glassmaking relied on burning the plant to produce soda ash (sodium carbonate) used as a glass flux.
-
-## Cultivation
-
-Commercial cultivation uses [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] into saline soils or hydroponic systems with seawater-based nutrient solutions.
-
-Seed germination requires light and is inhibited by burial; seeds are surface-sown on moist saline substrate.
-
-Optimal temperatures for germination are 15–25°C. Germination rates decline sharply above 30°C or below 5°C.
-
-Harvesting occurs 60–90 days after sowing when shoots reach 10–15 cm, typically by cutting 2–3 cm above the base.
-
-Multiple harvests per season are possible in warm climates; in temperate regions, a single late-summer harvest is standard.
-
-Post-harvest, shoots are rapidly cooled and kept refrigerated to maintain quality, with a shelf life of approximately 7–10 days.
-
-## See Also
-
-- hippophae-rhamnoides
-- typha-latifolia-entity
-- [[ceratonia-siliqua]]
-- [[urtica-dioica]]
-- [[hypericum-perforatum]]
+The plant's salt-accumulating capacity makes it a candidate for integrated [[halophyte-plants-and-saline-agriculture]] systems where seawater irrigation is used.

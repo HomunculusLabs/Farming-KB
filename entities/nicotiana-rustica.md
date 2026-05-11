@@ -68,7 +68,7 @@ N. rustica was known to the Aztecs and other Mesoamerican civilizations. It was 
 
 After European contact, N. rustica spread globally and was adopted into the traditional practices of many cultures. Notable examples include:
 
-- **Siberian indigenous peoples** — who use N. rustica alongside [[amanita-muscaria-entity]] — Fly [[datura-stramonium]] — another solanaceous psychoactive plant
+- **Siberian indigenous peoples** — who use N. rustica alongside [[amanita-muscaria]] — Fly [[datura-stramonium]] — another solanaceous psychoactive plant
 - [[banisteriopsis-caapi]] — Ayahuasca, ceremonies in which Mapacho plays a key role
 ## Practical Considerations
 

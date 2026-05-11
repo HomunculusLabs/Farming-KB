@@ -1,9 +1,9 @@
 ---
 title: Machine Elf Entities
 created: 2026-05-09
-source: raw/papers/mckenna_t-tryptamines_consciousness.md
+source: mckenna_t-tryptamines_consciousness.md
 tags: [dmt, entities, machine-elves, mcKenna, psychedelics, entity-encounter]
-aliases: [DMT entities, self-transforming machine elves, hyperdimensional beings, DMT elves]
+aliases: [[mckenna-dmt-entities-borges-and-archaic-secret]], self-transforming [[dmt-machine-elves]], hyperdimensional beings, DMT elves]
 ---
 
 # Machine Elf Entities
@@ -11,8 +11,8 @@ aliases: [DMT entities, self-transforming machine elves, hyperdimensional beings
 ## Overview
 
 **Machine elves** are the most widely reported and debated phenomenon in DMT
-experiences. Terence McKenna coined the term "self-transforming machine elves"
-in *The [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975, with Dennis McKenna) to describe the
+experiences. [[terence-mckenna]] coined the term "self-transforming machine elves"
+in *The [[tryptamine-hypercontinuum-and-invisible-landscape]]* (1975, with [[dennis-mckenna]]) to describe the
 autonomous, seemingly intelligent entities encountered during DMT experiences.
 The phenomenon is consistent across thousands of independent reports, making
 it one of the most replicable features of psychedelic phenomenology.
@@ -87,48 +87,4 @@ status: what are they? Several frameworks have been proposed:
 
 ## Cross-Cultural Parallels
 
-Entity encounters are not unique to DMT:
-
-- **[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]**: [[ayahuasqueros-amazonian-shamans]] report encounters with spirit
-  beings, plant teachers, and ancestor spirits during ayahuasca visions.
-- **Mushroom cults**: [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] involve communication with
-  spiritual entities through the "sacred mushrooms" (*nti-nti-si-tho*).
-- **Dzogchen and Tibetan Buddhism**: Deity yoga and visualizations produce
-  experiences of autonomous entities (yidams) with qualities overlapping
-  DMT entity encounters.
-- **Gnostic literature**: Descriptions of archons bear similarities to DMT
-  entities — autonomous, intervening beings between humanity and the divine.
-- **Folklore worldwide**: Elves, fairies, djinn, and other "little people"
-  across cultures share characteristics with DMT entities: small, mischievous,
-  Otherworldly, communicating in unusual language.
-
-## The I/Thou Approach
-
-McKenna advocated an **I/Thou relationship** with the entities, following
-Martin Buber's philosophical framework. Rather than prostrating before them or
-fleeing in terror, the user should engage them as equals: "You say you are
-omniscient, omnipresent, or you say you are from Zeta Reticuli. You're long on
-talk, but what can you show me?"
-
-This stance reflects McKenna's broader philosophical position that genuine
-engagement with the unknown requires both courage and critical thinking —
-"There is no dignity in the universe unless we meet these things on our feet."
-
-## Modern Research
-
-Contemporary research has begun to systematically study DMT entity encounters:
-
-- **Survey data**: Large-scale surveys (e.g., Johns Hopkins, 2022) confirm
-  that entity encounters are reported by the majority of DMT users.
-- **Consistency**: Entity descriptions are remarkably consistent across
-  cultures, languages, and expectation sets.
-- **Persisting beliefs**: Many users report that entity encounters
-  fundamentally changed their beliefs about consciousness and reality.
-- **[[metzner-ayahuasca-therapeutic-potential]]**: Some researchers are investigating whether entity
-  encounters have therapeutic value, particularly for end-of-life anxiety.
-
-## See Also
-
-- [[dmt-phenomenology]]
-- [[tryptamine-hallucinogens]]
-- [[glossolalia-translinguistic-objects]]
+[[dmt-entity-encounters-and-the-logos]] are not unique to DMT:

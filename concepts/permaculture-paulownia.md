@@ -88,24 +88,3 @@ spaced widely enough to allow light penetration for understory crops.
 Common combinations include paulownia with wheat, corn, or vegetables.
 The tree's large leaves (up to 30 cm across) create a mulch layer
 that suppresses weeds and adds [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]. Its deep taproot
-accesses water and nutrients from subsoil layers without competing
-with shallow-rooted crops. Research in China has shown intercropping
-with paulownia can increase total land productivity by 30-50% compared
-to monoculture systems.
-
-## Phytoremediation Applications
-
-Paulownia has demonstrated capacity for soil remediation on
-contaminated sites. The species tolerates moderately polluted soils
-and can accumulate heavy metals including cadmium, lead, and zinc in
-its tissues without significant growth reduction. Its deep root
-system stabilizes [[fungal-competition-survival-contaminated-soils]] against erosion while leaf litter
-creates organic matter that can bind heavy metals and reduce their
-bioavailability.
-
-## See Also
-
-- [[permaculture-forestry-systems]]
-- [[permaculture-tree-crop-systems]]
-- [[intercropping-systems]]
-- [[biochar-in-agriculture]]

@@ -10,7 +10,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Manual of Grasses for North America." Intermountain Herbarium.
+  - Barkworth, M.E. et al. (2007). "Manual of Grasses for guzman-psilocybin-mushrooms-north-america." Intermountain Herbarium.
   - Hitchcock, A.S. (1950). "Manual of the Grasses of the United States." USDA Misc. Publ. No. 200.
   - USDA NRCS. "Elymus canadensis." PLANTS Database.
   - Peeters, A. (2004). "Wild and sown grasses." Blackwell Publishing.
@@ -21,11 +21,11 @@ sources:
 
 ## Overview
 
-**Elymus canadensis** L., commonly known as Canada wild rye, is a perennial cool-season bunchgrass native to prairies, savannas, open woodlands, and disturbed sites across much of North America. It is one of the most recognizable native grasses due to its large, nodding, bristly seed heads.
+**Elymus canadensis** L., commonly known as Canada wild rye, is a perennial cool-season bunchgrass native to prairies, savannas, open woodlands, and disturbed sites across much [[berry-growing]]. It is one of the most recognizable native grasses due to its large, nodding, bristly seed heads.
 
 The species typically grows 90–150 cm tall and forms robust tussocks with broad, flat leaves. The distinctive inflorescence, a nodding spike 10–25 cm long with long awns, makes it one of the most visually prominent grasses of the tallgrass prairie.
 
-Canada wild rye is widely used in ecological restoration and erosion control for its rapid establishment, adaptability to disturbed sites, and extensive root system. It serves as a pioneer species in prairie reconstruction, providing quick cover while slower-establishing species mature.
+Canada wild rye is widely used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] for its rapid establishment, adaptability to disturbed sites, and extensive root system. It serves as a pioneer species in prairie reconstruction, providing quick cover while slower-establishing species mature.
 
 ## Taxonomy and Morphology
 
@@ -69,7 +69,7 @@ Canada wild rye is classified as a facultative upland species (FACU). It tolerat
 
 Canada wild rye establishes readily from seed, which germinates without stratification. Germination rates are typically 70–90% under favorable conditions, making it one of the easiest native grasses to establish from seed.
 
-Seeding rates for pure stands are 8–12 kg PLS per hectare. In prairie restoration mixtures, it constitutes 5–15% of the seed mix by weight. Spring seeding is standard, though dormant fall seeding is effective in northern regions.
+Seeding rates for pure stands are 8–12 kg PLS per hectare. In [[comparison-prairie-restoration-vs-silvopasture]] mixtures, it constitutes 5–15% of the seed mix by weight. Spring seeding is standard, though dormant fall seeding is effective in northern regions.
 
 Rapid establishment is one of the species' principal advantages. Seedlings emerge within 7–14 days and develop quickly, producing flowering culms in the first growing season. Full stand maturity is achieved within 1–2 years.
 
@@ -83,37 +83,8 @@ Controlled burning every 2–4 years can maintain stand vigor and reduce accumul
 
 Elymus canadensis is a pioneer species in prairie and savanna ecosystems, rapidly colonizing disturbed sites and providing soil stabilization during early succession. Its extensive root system reaches depths of 150–200 cm, making it highly effective at preventing erosion.
 
-The species provides excellent wildlife habitat structure. The tall, robust growth form offers nesting cover and escape cover for ground-nesting birds, small mammals, and game birds including pheasants and quail.
+The species provides excellent [[hemenway-backyard-wildlife-habitat]] structure. The tall, robust growth form offers nesting cover and escape cover for ground-nesting birds, small mammals, and game birds including pheasants and quail.
 
 Seeds are an important food source for granivorous birds, particularly during late fall and winter when other food sources are scarce. White-tailed deer and rabbits browse the foliage in spring and early summer.
 
 As a cool-season species, Canada wild rye provides early-season forage and photosynthetic activity before warm-season grasses become fully active. This phenological complementarity extends the period of active vegetation cover in restored prairies.
-
-In mixed prairie plantings, Canada wild rye serves as a nurse crop, protecting slower-establishing forbs and warm-season grasses during the critical establishment period. Its rapid early growth shades out weedy competitors.
-
-The species may become less dominant over time as slower-growing warm-season species mature and occupy available space. This natural decline is expected and desirable in prairie restoration, where long-term dominance by pioneer species is not the management objective.
-
-## Cultural and Economic Significance
-
-Canada wild rye has moderate value as a forage species for livestock. Crude protein content ranges from 8–12% during the vegetative stage, declining to 4–6% after flowering. It provides acceptable spring and early summer grazing but becomes unpalatable after maturity due to coarse stems and bristly awns.
-
-The species is one of the most widely used native grasses in ecological restoration in the Great Plains and Midwest. Its rapid establishment, broad site adaptability, and competitive ability make it a standard component of conservation seed mixes.
-
-In erosion control applications, Canada wild rye is valued for its quick emergence and robust root system. It is specified in highway, mine reclamation, and construction site seedings across the central and eastern United States.
-
-Several Native American peoples traditionally used the seeds of Elymus canadensis as a food source. The grains were gathered, parched, and ground into flour for making porridge and flatbread. The tough leaf blades were also used for weaving mats and baskets.
-
-The species has ornamental value in naturalistic landscape plantings, where its dramatic nodding seed heads provide visual interest in late summer and fall. It is particularly effective in large-scale prairie-style gardens and native meadow plantings.
-
-## See Also
-
-- [[elymus-hystrix]]
-
-- [[schizachyrium-scoparium]]
-- [[panicum-virgatum]]
-- [[andropogon-gerardii]]
-- [[festuca-arundinacea]]
-- [[deschampsia-caespitosa]]
-- [[pennisetum-alopecuroides]]
-- [[molinia-caerulea]]
-- [[stipa-tenuissima]]

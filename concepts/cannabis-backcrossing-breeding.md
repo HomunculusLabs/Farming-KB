@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, breeding, genetics, techniques]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cannabis Backcrossing Breeding
@@ -87,17 +88,3 @@ A critical practical concern in cannabis backcrossing is preventing unwanted pol
 Pollen viability testing is another important quality control step. Cannabis pollen stored under cool, dry conditions can remain viable for several weeks to months, but viability degrades rapidly at room temperature or high humidity. Breeders performing multiple backcross generations in sequence must plan their timing carefully to ensure fresh, viable pollen is available for each cross. Some breeders maintain a frozen pollen bank, storing male flowers or extracted pollen at -20°C for longer-term preservation of valuable genetic lines.
 
 ## Applications in Medical Cannabis Breeding
-
-Backcrossing has become especially important in medical cannabis breeding, where specific therapeutic profiles are the primary selection criterion. A breeder might introgress a high-CBD trait into a commercially popular THC-dominant cultivar, or add resistance to [[cervantes-powdery-mildew-prevention-treatment]] (caused by *Golovinomyces* spp.) to a strain prized for its terpene profile. The pharmaceutical cannabis industry relies heavily on backcross-derived lines because they offer the consistency and predictability required for medical applications, where patients need reliable cannabinoid and terpene profiles from batch to batch.
-
-Several commercially significant medical cannabis varieties have been developed through backcrossing. The CBD-rich strain "Charlotte's Web" was developed through extensive breeding to stabilize a high-CBD, low-THC chemotype derived from a single exceptional plant. While the exact breeding methodology was not published, the principle — introgressing and stabilizing a desirable chemotype through repeated crossing to a selected parent — exemplifies the backcross approach. Similarly, many of the 1:1 THC:CBD varieties now available in legal markets were created by backcrossing CBD-rich germplasm into established THC-dominant lines and selecting for balanced cannabinoid ratios over multiple generations.
-
-The regulatory environment in medical cannabis further incentivizes backcrossing approaches. Medical cannabis products often must meet strict potency and purity standards, and backcross-derived lines with well-characterized and stable cannabinoid profiles are more likely to pass regulatory scrutiny than novel hybrids with unpredictable chemical variability. This is particularly relevant in markets where specific cannabinoid thresholds determine whether a product can be sold as a medical or recreational item.
-
-## Backcrossing and Selfing for Line Fixation
-
-After completing the desired number of backcross generations, breeders typically self-pollinate the final backcross population for one or more generations to fix the introgressed trait in homozygous form. Selfing an F2 population derived from the last backcross (BCnF2) allows selection of individuals homozygous for both the target trait and the maximum number of recurrent parent alleles. This final fixation step is what transforms a backcross population into a stable, true-breeding line suitable for commercial release. The resulting inbred backcross line (IBL) can then be maintained through clonal propagation or by continued selfing, depending on the breeder's seed production strategy. See [[cannabis-breeding-basics]]
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-seed-banks-and-genetics]]
-- [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-- [[cannabis-controlled-pollination-seed-production]]

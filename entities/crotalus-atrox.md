@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Campbell, J.A. & Lamar, W.W. (2004). The Venomous Reptiles of the Western Hemisphere. Cornell University Press.
   - Mackessy, S.P. (2009). "Handbook of Venoms and Toxins of Reptiles." CRC Press.
-  - Ernst, C.H. & Ernst, E.M. (2003). Snakes of the United States and Canada. Smithsonian Books.
+  - Ernst, C.H. & Ernst, E.M. (2003). Snakes of the [[dmt-containing-plants-united-states-halpern]] and Canada. Smithsonian Books.
   - Glenn, J.L. & Straight, R.C. (1978). "Intergradation of two populations of the Western Diamondback Rattlesnake." Copeia, 1978(3), 448-455.
   - The Reptile Database. "Crotalus atrox (Baird & Girard, 1853)." https://reptile-database.reptarium.cz/species?genus=Crotalus&species=atrox
 ---
@@ -22,9 +22,9 @@ sources:
 
 ## Overview
 
-Crotalus atrox, the Western diamondback rattlesnake, is one of the largest and most widely distributed rattlesnake species in North America. It ranges from central Arkansas and southeastern California through much of the southwestern United States and into northern and central Mexico.
+Crotalus atrox, the Western diamondback rattlesnake, is one of the largest and most widely distributed rattlesnake species in [[guzman-psilocybin-mushrooms-north-america]]. It ranges from central Arkansas and southeastern California through much of the southwestern [[dmt-maoi-plants-united-states]] and into northern and [[psychoactive-cacti-of-central-mexico]].
 
-This species is responsible for the majority of medically significant snakebites within its range. Its large body size, potent hemotoxic venom, and willingness to defend itself make it one of the most dangerous rattlesnakes in North America.
+This species is responsible for the majority of medically significant snakebites within its range. Its large body size, potent hemotoxic venom, and willingness to defend itself make it one of the most dangerous rattlesnakes in [[berry-growing]].
 
 The Western diamondback is an iconic symbol of the American Southwest. It appears in numerous cultural contexts including western films, folklore, and state symbolism. It is the state reptile of Texas.
 
@@ -72,7 +72,7 @@ Phospholipase A2 enzymes contribute to both myotoxicity and neurotoxicity. Myoto
 
 C-type lectin proteins can disrupt platelet aggregation, contributing to bleeding disorders. The combined hemotoxic, proteolytic, and coagulopathic effects produce the characteristic severe local tissue destruction seen in Western diamondback envenomations.
 
-Individual venom composition varies geographically and ontogenetically. Juvenile Crotalus atrox venom tends to have a higher proportion of neurotoxic components compared to adults. This shift from neurotoxicity toward hemotoxicity with age is a well-documented pattern across rattlesnake species.
+Individual venom composition varies geographically and ontogenetically. Juvenile Crotalus atrox venom tends to have a higher proportion of neurotoxic components compared to adults. This shift from neurotoxicity toward hemotoxicity with age is a well-documented [[psilocin-accumulation-pattern-across-flushes]] rattlesnake species.
 
 ## Clinical Significance
 
@@ -82,39 +82,8 @@ Envenomation produces immediate and intense local pain, rapidly progressive swel
 
 Systemic manifestations include hypotension, tachycardia, nausea, vomiting, and coagulopathy. Thrombocytopenia and prolonged coagulation times are common laboratory findings. Life-threatening hemorrhage is less frequent than with some other viper species.
 
-CroFab antivenom, a Fab-based antivenom produced from the venom of four North American crotaline species including Crotalus atrox, is the primary treatment. Initial control of envenomation typically requires 4 to 6 vials, with maintenance dosing as needed.
+CroFab antivenom, a Fab-based antivenom produced from the venom of four [[growing-gourmet-north-american-reishi-species]] crotaline species including Crotalus atrox, is the primary treatment. Initial control of envenomation typically requires 4 to 6 vials, with maintenance dosing as needed.
 
-Long-term sequelae include chronic pain, tissue scarring, and functional impairment of affected limbs. Physical therapy and surgical reconstruction may be necessary in severe cases. Mortality is low with modern antivenom therapy but remains a risk without treatment.
+Long-term sequelae include [[cannabis-chronic-pain-management]], tissue scarring, and functional impairment of affected limbs. Physical therapy and surgical reconstruction may be necessary in severe cases. Mortality is low with modern antivenom therapy but remains a risk without treatment.
 
 Bite prevention strategies include wearing sturdy footwear, using a flashlight when walking at night, and exercising caution around rock piles and brush. Educational outreach programs in the southwestern United States have contributed to declining bite rates in recent decades.
-
-## Ecology and Conservation
-
-Crotalus atrox is an ambush predator that feeds primarily on small mammals. Common prey species include kangaroo rats, pocket mice, ground squirrels, rabbits, and occasionally lizards and birds.
-
-The species uses a sit-and-wait foraging strategy, coiled near rodent trails or burrow entrances. The heat-sensing loreal pits allow detection of endothermic prey in complete darkness. Prey is struck with remarkable speed and released after envenomation, then tracked by scent.
-
-Strike velocity in Crotalus atrox can approach 2.5 meters per second. The species can accurately deliver venom from a distance of up to two-thirds of its body length. Venom yield per bite ranges from 200 to 800 mg, far exceeding the amount needed to incapacitate typical prey.
-
-Reproduction occurs in the spring and fall. Males engage in ritualized combat during the breeding season, wrestling with one another to establish dominance and access to females.
-
-These combat bouts involve the males raising their anterior bodies and intertwining, each attempting to push the other to the ground. Combat does not involve biting and is not typically injurious to either participant.
-
-Females are viviparous, giving birth to 10 to 25 neonates in late summer or early fall. Neonates measure 30 to 40 cm in length and are fully capable of delivering envenomating bites from birth.
-
-Litter size correlates with maternal body size, with larger females producing larger litters. Neonates receive no parental care and must begin independent foraging within days of birth. The proportion of neonates surviving to their first year is estimated at 10 to 25 percent.
-
-Crotalus atrox is listed as Least Concern by the IUCN. The species remains common throughout most of its range despite localized population declines from habitat loss and persecution. Roundup events, in which rattlesnakes are collected from the wild for public display, continue to draw criticism from conservationists.
-
-## See Also
-
-- [[atropine]]
-- [[nicotine]]
-- [[muscarine]]
-- [[strychnine]]
-- [[aconitum-napellus]]
-- [[digitalis-purpurea]]
-- [[ricinus-communis]]
-- [[bufotenin]]
-- [[ambystoma-mexicanum]]
-- [[bufo-bufo]]

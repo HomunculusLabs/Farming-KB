@@ -88,11 +88,3 @@ direct inoculation eliminates separate production steps.
 ## Advantages Over Synthetic Surfactants
 
 1. **Biodegradability**: Readily degraded by soil microorganisms
-2. **Lower toxicity**: Non-toxic to plants, animals, and beneficial
-   microbes at effective concentrations
-3. **Extreme condition stability**: Effective across wide pH, temperature,
-   and salinity ranges
-4. **Structural diversity**: Tailorable for specific contaminants
-## See Also
-
-- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]

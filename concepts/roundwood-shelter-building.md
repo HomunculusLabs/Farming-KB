@@ -9,13 +9,13 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Roundwood Shelter Building
 
-Roundwood shelters and earth cellars are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places. (see [[building-with-natural-materials]]).
+[[holzer-roundwood-shelters-earth-cellars]] and [[sepp-holzer-earth-cellars-and-philosophy]] are practical buildings that can be constructed all over the world. They make use of the soil's balancing effect — creating a pleasant, cool retreat in hot places and a warm one in cold places.
 
 ## Construction Method
 
 ### Foundation Posts
 
-Rough timber logs are placed at least one metre deep into the ground, then cut to the same height. These serve as the vertical support posts for the structure. (see [[permaculture-built-environment-design]]).
+Rough timber logs are placed at least one metre deep into the ground, then cut to the same height. These serve as the vertical support posts for the structure.
 
 ### Notched Trunks and Roof
 
@@ -40,14 +40,35 @@ This layered approach provides insulation, waterproofing, and integrates the str
 - **Membranes**: Provide waterproofing between layers
 - **Local soil and vegetation**: Top layer for insulation and aesthetics
 
+## Practical Applications
+
+- **[[root-cellaring-guide]] food storage**: The insulated, temperature-stable
+  interior keeps [[growing-root-vegetables-guide]], preserves, and ferments at constant
+  temperatures year-round without electricity.
+- **Emergency shelter**: Can be erected quickly with minimal tools in
+  rural or off-grid settings using on-site timber.
+- **Livestock shelter**: Small roundwood structures protect animals from
+  extreme weather while blending into the pastoral landscape.
+- **Tool sheds and workshops**: A simple three-sided design provides dry,
+  shaded workspace for homestead tasks.
+
+## Regional Variations
+
+- **Alpine regions** (Holzer's Austria): Thicker soil layers (60 cm+)
+  and steeper roof pitches to shed heavy snow loads.
+- **Mediterranean**: Thinner soil caps with drought-tolerant ground
+  covers; ventilation gaps for airflow in hot summers.
+- **Tropical**: Overhanging eaves to deflect monsoon rain; bamboo can
+  substitute for roundwood where timber is scarce.
+
 ## Maintenance
 
-Roundwood shelters and storage rooms must be checked regularly like any other building [[outdoor-shelter-building]]. This is necessary to repair any damage promptly and to guarantee safety.
+Roundwood shelters and storage rooms must be checked regularly like any other building. This is necessary to repair any damage promptly and to guarantee safety.
 
 ## Advantages
 
 - Uses natural, locally available materials
-- Soil provides temperature regulation (cool in summer, warm in winter)
+- Soil provides [[blesching-cannabis-fever-temperature-regulation]] (cool in summer, warm in winter)
 - Can be built with simple tools and techniques
 - Integrates naturally into the landscape
 - Works in all climates when properly designed

@@ -11,7 +11,7 @@ created: 2026-05-10
 
 ## Overview
 
-Mycelial nutrient translocation is the process by which filamentous fungi move nutrients through their network-like body (mycelium) from areas of abundance to areas of demand. Basidiomycetes, the major agents of decomposition and nutrient cycling in forest ecosystems, have evolved sophisticated mechanisms for acquiring, concentrating, storing, and redistributing nutrients across networks that can span meters or even hectares. This capacity is fundamental to the ecological role of fungi as primary decomposers and nutrient redistributors in terrestrial ecosystems. (see [[mycelial-nutrient-translocation-networks-gadd]]).
+Mycelial nutrient translocation is the process by which filamentous fungi move nutrients through their network-like body (mycelium) from areas of abundance to areas of demand. Basidiomycetes, the major agents of decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] in forest ecosystems, have evolved sophisticated mechanisms for acquiring, concentrating, storing, and redistributing nutrients across networks that can span meters or even hectares. This capacity is fundamental to the ecological role of fungi as primary decomposers and nutrient redistributors in terrestrial ecosystems. (see [[mycelial-nutrient-translocation-networks-gadd]]).
 
 ## The Mycelial Network
 
@@ -67,7 +67,7 @@ Studies have revealed that nutrient distribution in mycelial networks is charact
 
 **Centimetre to metre scale (whole-colony level):**
 
-At the whole-colony level, fungal networks integrate multiple resource patches through their cord systems. The cords function as high-conductivity channels that can move nutrients over distances of meters. The coordination of these long-distance transport processes remains an active area of research, with key questions including whether global signaling mechanisms exist to couple local sensory perception across the network, or whether colony-level behavior emerges from local interactions of individual hyphae.
+At the whole-colony level, fungal networks integrate multiple resource patches through their cord systems. The cords function as high-conductivity channels that can move nutrients over distances of meters. The coordination of these long-distance transport processes remains an active area of research, with key questions including whether global signaling mechanisms exist to couple local [[plant-sensory-perception]] across the network, or whether colony-level behavior emerges from local interactions of individual hyphae.
 
 ## Functional Significance
 
@@ -81,45 +81,10 @@ Mycelial translocation is essential for the decomposition function of fungi. By 
 
 ### Ecosystem Engineering
 
-Beyond nutrient cycling, mycelial networks play a role in maintaining soil structure. The filamentous growth habit of fungi and their production of extracellular polymers (exopolymers) help bind soil particles together, creating and maintaining soil aggregates. This aggregation improves soil water retention, aeration, and resistance to erosion. The cord systems themselves create physical channels through soil that influence water movement and root penetration.
+Beyond nutrient cycling, mycelial networks play a role in maintaining soil structure. The filamentous growth habit of fungi and their production of [[fungal-exopolysaccharides-and-extracellular-polymers]] (exopolymers) help bind soil particles together, creating and maintaining soil aggregates. This aggregation improves soil water retention, aeration, and resistance to erosion. The cord systems themselves create physical channels through soil that influence water movement and root penetration.
 
 ### Plant-Fungal Interactions
 
 In mycorrhizal symbioses, fungal translocation directly benefits host plants by moving mineral nutrients (particularly phosphorus and nitrogen) from soil beyond the root zone into the plant root interface. The plant, in turn, supplies the fungus with carbohydrates produced through photosynthesis. This bidirectional resource exchange is mediated by the same translocation mechanisms described above, operating across the mycorrhizal network.
 
 ## Research Methods
-
-### Imaging Techniques
-
-Modern research on mycelial nutrient dynamics employs several advanced imaging techniques:
-
-- **Confocal laser scanning microscopy**: For visualization of vacuolar systems and other sub-cellular structures within individual hyphae
-- **Photon-counting scintillation imaging (PCSI)**: Non-invasive tracking of radiolabelled nutrient movement through mycelial networks on scintillation screens
-- **Autoradiography**: Visualization of final radiolabel distribution in harvested samples
-- **Time-lapse imaging**: Documentation of network growth and reconfiguration over time
-
-### Mathematical Modeling
-
-Mathematical models are increasingly used to understand mycelial form and function. These models incorporate:
-
-- Diffusion coefficients measured by FRAP for vacuolar transport
-- Monte Carlo simulations of nutrient movement through branching hyphal networks
-- Fick's first law calculations for estimating maximum transport distances
-- Network topology analysis for understanding resource distribution efficiency
-
-These modeling approaches provide testable predictions about how network architecture influences transport capacity, and how fungi might optimize their network structure for resource capture in heterogeneous environments.
-
-## Ecological Implications
-
-Understanding mycelial nutrient translocation has broad implications for ecosystem management:
-
-- **Forest management**: Fungal networks are critical for nutrient cycling in forests. Disrupting these networks through soil compaction, clear-cutting, or pollution can impair forest regeneration and productivity.
-- **Soil restoration**: Fungal inoculation and network development are increasingly recognized as important components of soil restoration in degraded ecosystems.
-- **Agricultural systems**: Mycorrhizal networks in agricultural soils influence crop nutrient availability and may reduce the need for synthetic fertilizers.
-- **Climate change**: Changes in temperature and moisture patterns may alter fungal translocation rates, with cascading effects on decomposition rates and carbon storage in soils.
-
-## See Also
-
-- [[saprotrophic-fungi-biogeochemical-cycles-gadd]]
-- [[mycorrhizal-symbiosis-and-carbon-cycling]]
-- [[fungal-roles-in-soil-ecosystems]]

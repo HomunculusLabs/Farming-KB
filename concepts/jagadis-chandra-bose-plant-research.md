@@ -1,5 +1,5 @@
 ---
-title: "Jagadis jagadis [[jagadis-chandra-bose]] plant research's Plant Research"
+title: Jagadis Chandra Bose Plant Research
 created: 2026-04-28
 tags: [plant-physiology, bioelectricity, crescograph, plant-response, bose]
 date: 2026-04-25
@@ -89,48 +89,6 @@ reviving when the narcotic vapor was blown away. Using chloroform, Bose
 tranquilized a huge pine tree and transplanted it without the usually
 fatal shock.
 
-## The Crescograph and Plant Sensitivity
-
-Since ordinary plants gave no visible sign of excitement when scraped or
-burned, unlike the mimosa whose leaf collapses visibly, Bose designed a
-special optical lever to magnify suspected contractions. This led to his
-development of the magnetic crescograph, which could magnify plant
-movements up to 100 million times. With this instrument Bose demonstrated
-that all characteristics of responses exhibited by animal tissues were
-also found in plant tissues.
-
-When Sir Michael Foster of the Royal Society visited Bose's laboratory
-and saw his recordings, he exclaimed that they were curves of muscle
-response. Bose replied firmly: "Pardon me, but it is the response of
-metallic tin!" Foster was aghast but, upon seeing all the results,
-invited Bose to present at the Royal Institution. At the Linnean Society
-in 1902, Bose achieved a decisive victory, with the president writing that
-his experiments made it "clear beyond doubt that all parts of plants are
-irritable, and manifest their irritability by an electrical response."
-
-## Opposition and Vindication
-
-Despite his triumph at the Linnean Society, the Royal Society suppressed
-publication of Bose's detailed papers due to intrigues and prejudicial
-insinuations from opponents who could not refute his work from far-off
-India. Lord Rayleigh consoled Bose by noting he too had been subjected to
-ceaseless attacks for predicting undiscovered elements. Eventually the
-Soviet Union honored Bose by publishing his selected works in two handsome
-volumes, acknowledging that plants "seeming to us so immobile and
-insensitive, came miraculously to life and appeared no less, and often
-even more, sensitive than animals and man."
-
-## Practical Applications
-
-Bose's crescograph allowed precise measurement of plant [[coleman-sunlight-and-winter-crop-growth-rates]] and
-responses to stimuli, enabling systematic study of plant sensitivity. His
-demonstration that plants share fundamental response mechanisms with
-animals has implications for agriculture, horticulture, and our
-understanding of the interconnectedness of all matter. His wireless
-telegraphy work anticipated modern radio communications.
-
-## Related
-
-- [[cleve-backster-plant-perception-experiments]]
-- [[plant-perception]]
-- [[sound-and-music-effects-on-plants]]
+## See Also
+- [[tompkins-jagadis-bose-plant-response-crescograph]]
+- [[jagadis-chandra-bose]]

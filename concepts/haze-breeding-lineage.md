@@ -88,15 +88,3 @@ that authentic Haze genetics provide.
 
 The concept of trainwreck genetics in [[oner-cannabis-breeding-fundamentals]] shares conceptual territory
 with the Haze story. As The Rev explains, outdoor breeding in the 1970s and 1980s
-involved placing male plants in remote patches and letting wind carry pollen to
-multiple female varieties. The resulting seeds were called trainwreck generation
-because you could not be certain which male pollinated which female. After growing
-out, cloning, and inbreeding these chance crosses, distinct lines emerged. This
-process parallels the Haze breeding methodology where multiple landrace varieties
-were combined in relatively uncontrolled conditions and then stabilized through
-careful selection of desirable phenotypes over many generations of breeding.
-
-## See Also
-- [[durban-poison]]
-- [[cannabis-strain-breeding-techniques]]
-- [[sativa-haze-lineage-breeding-history]]

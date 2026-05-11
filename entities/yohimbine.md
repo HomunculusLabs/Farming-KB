@@ -15,7 +15,7 @@ sources:
   - Tam, S.W. et al. (2001). "Yohimbine: A clinical review." Pharmacology & Therapeutics, 91(3), 215–243.
   - Andrianne, R. et al. (1988). "Yohimbine and erectile dysfunction." British Journal of Urology, 62(4), 362–365.
   - Fontenot, M.B. et al. (2003). "Yohimbine effects on anxiety in humans." Psychopharmacology, 170(4), 418–425.
-  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
+  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug [[soil-testing-and-analysis]], 6(6), 578–582.
   - Fraser, G.L. (2011). "Revisiting yohimbine pharmacology." CNS Drug Reviews, 17(3), 190–197.created: 2026-05-07
 
 created: 2026-05-07
@@ -23,7 +23,7 @@ created: 2026-05-07
 
 ## Overview
 
-**Yohimbine** is an indole alkaloid classified chemically as α-yohimbine or rauwolscine. It is the primary active compound found in the bark of *Pausinystalia yohimbe* (yohimbe tree), a evergreen tree native to Central and West Africa. It functions primarily as a selective alpha-2 adrenergic receptor antagonist, increasing sympathetic nervous system activity.
+**Yohimbine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] classified chemically as α-yohimbine or rauwolscine. It is the primary active compound found in the bark of *[[pausinystalia-yohimbe]]* (yohimbe tree), a evergreen tree native to Central and West Africa. It functions primarily as a selective alpha-2 adrenergic receptor antagonist, increasing sympathetic nervous system activity.
 
 The compound has a long history of use as an aphrodisiac and stimulant in West African traditional medicine, and was approved by the FDA for the treatment of male erectile dysfunction before the advent of PDE5 inhibitors. It remains available as a prescription medication and dietary supplement in various countries.
 
@@ -70,7 +70,7 @@ This disinhibition of noradrenergic transmission produces effects across multipl
 
 **[[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]:** Heightened alertness, mild euphoria, increased libido, and sensory amplification. At moderate doses, anxiogenic effects become prominent — restlessness, anxiety, and in some cases panic attacks.
 
-**Adverse effects:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow [[cannabis-therapeutic-index-overview]].
+**[[adverse-effects-and-harm-reduction-psilocybin]]:** Anxiety, agitation, tachycardia, hypertension, headache, dizziness, insomnia, and gastrointestinal distress. At doses above 30 mg, severe reactions including hypertensive crisis and psychosis have been documented. The compound has a narrow [[cannabis-therapeutic-index-overview]].
 
 ## History
 
@@ -82,34 +82,8 @@ Today, yohimbine prescription use has declined significantly due to the superior
 
 ## Legal Status
 
-- **United States:** Available as both a prescription drug (yohimbine HCl) and a dietary supplement (yohimbe bark extract). The FDA has issued warnings about adulterated yohimbe supplements.
+- **[[dmt-containing-plants-united-states-halpern]]:** Available as both a prescription drug (yohimbine HCl) and a dietary supplement (yohimbe bark extract). The FDA has issued warnings about adulterated yohimbe supplements.
 - **United Kingdom:** Prescription-only medicine; banned from over-the-counter sale.
 - **Canada:** Available by prescription; classified as a Schedule IV drug.
 - **Australia:** Prescription-only (S4).
 - **Germany:** Prescription-only; yohimbe bark is classified as a narcotic under the BtMG.
-
-## Related Compounds
-
-Yohimbine belongs to the yohimbane class of indole alkaloids, a structural family that includes several pharmacologically significant compounds found across the Rubiaceae (coffee) and Apocynaceae (dogbane) plant families.
-
-- **Rauwolscine (α-yohimbine):** A diastereomer of yohimbine with similar pharmacological activity. It is found in *Rauwolfia serpentina* bark and is sometimes sold interchangeably with yohimbine in supplement markets, though receptor binding profiles differ slightly.
-- **Ajmalicine (raubasine):** A related yohimbane alkaloid from *Catharanthus roseus* and *Rauwolfia* species, used clinically as an antihypertensive and cerebral vasodilator. Unlike yohimbine, ajmalicine is an α₁-adrenergic antagonist.
-- **Corynanthine:** Another *Rauwolfia* alkaloid with α₁-antagonist and antihistaminic properties. It lacks the α₂-antagonist activity that defines yohimbine's pharmacological profile.
-- **Reserpine:** A more complex yohimbane-derived alkaloid that depletes catecholamine stores by blocking vesicular uptake. Used historically as an antipsychotic and antihypertensive before being largely replaced by safer drugs.
-
-## Toxicology
-
-Yohimbine has a relatively narrow [[blesching-cannabis-therapeutic-window-dosing]]. Toxic doses produce excessive sympathetic activation that can manifest as severe hypertension (systolic >180 mmHg), tachycardia, palpitations, and anxiety attacks. Case reports document seizures and hallucinations at doses exceeding 40 mg in sensitive individuals.
-
-Contraindications include cardiovascular disease, hypertension, anxiety disorders, bipolar disorder, and concurrent use of MAO inhibitors or tricyclic antidepressants. The compound should not be combined with other stimulants or sympathomimetic drugs due to additive cardiovascular effects.
-
-Yohimbe bark extracts present additional risks due to variable alkaloid content and potential contamination with heavy metals or undeclared pharmaceuticals. The concentration of yohimbine in commercial bark products ranges from 0.5–2%, making dose standardization difficult.
-
-## See Also
-
-- [[rauwolfia-serpentina]]
-- [[ephedrine]]
-- [[scopolamine]]
-- [[psilocybin]]
-- [[tryptamine]]
-- [[cactus-alkaloids-reference]]

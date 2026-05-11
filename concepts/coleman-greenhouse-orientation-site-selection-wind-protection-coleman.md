@@ -88,35 +88,3 @@ Based on Coleman's principles and experience, the ideal site for a winter-harves
 ## Greenhouse Siting Relative to Existing Structures
 
 Coleman's experience at Four Season Farm offers practical lessons about the relationship between greenhouses and other farm infrastructure. The greenhouses should be positioned for convenient access from the packing shed and storage areas to minimize the distance that harvested crops must be carried in cold weather. However, they should not be placed so close to buildings or trees that they suffer from shading during the already-limited winter daylight hours.
-
-The end walls of the greenhouse should face north and south in an east-west oriented structure. The south-facing end wall receives direct low-angle sun during midday in winter, which can be beneficial for early-season [[coleman-sowing-seedling-production]]. The north-facing end wall is the least productive zone inside the house, as it receives the least light, and Coleman recommends using this area for pathways, tool storage, or cold-tolerant crops that require minimal light.
-
----
-
-## Slope and Drainage Considerations
-
-Proper drainage is essential for winter greenhouse sites. Coleman emphasizes that waterlogged soil in winter is far more damaging to crops than cold temperatures alone. Saturated soil has lower thermal mass properties because water has a high specific heat capacity but conducts heat away from root zones more readily than well-drained soil. Additionally, standing water near the base of greenhouse structures can cause premature deterioration of the metal framing and anchoring systems.
-
-A gentle south-facing slope of 2 to 5 percent provides optimal conditions: it ensures natural drainage away from the growing area while maintaining a level surface suitable for greenhouse construction and bed preparation. Sites on steeper slopes require terracing or significant earthwork, which adds cost and complexity that contradicts Coleman's low-input philosophy.
-
----
-
-## Comparison with Heated Greenhouse Siting
-
-Coleman contrasts the siting requirements of unheated winter-harvest houses with those of traditional heated greenhouses. Heated "hothouses" were historically oriented to maximize light transmission for summer crops like tomatoes and lettuce, with temperature considerations being secondary because the heating system compensated for any solar deficiency. The unheated winter house, by contrast, must be sited with solar gain as the paramount concern because there is no backup heating system.
-
-This distinction means that unheated winter houses are less forgiving of suboptimal siting than heated structures. A heated greenhouse on a poorly oriented site will simply consume more fuel. An unheated house on a poorly oriented site will fail to provide adequate crop protection during the coldest periods. Coleman considers this a feature rather than a bug—the discipline of proper siting forces the grower to work with natural systems rather than override them with purchased energy inputs.
-
----
-
-## Adaptation to Different North American Climates
-
-Coleman provides guidance for adapting his Maine-based system to other regions. In the southern United States (below the 35th parallel), the ten-hour-day period is so brief that winter production requires less intensive protection. A single layer of row cover inside an unheated tunnel may suffice, and the growing season extends later into fall and resumes earlier in spring.
-
-In the northern tier (above the 45th parallel), the challenges are greater. The ten-hour-day period extends for a full three months or more, and midwinter temperatures are more severe. However, the same principles apply: east-west orientation, double-layer protection, cold-hardy crop selection, and achieving adequate plant size before the short-day threshold. Coleman believes the system could work as far north as the 61st parallel in Anchorage, albeit with a shorter harvest window and a more limited crop selection. The fundamental principles—maximize solar gain, minimize wind exposure, use soil as thermal mass, and protect crops with a double-layer system—remain constant regardless of latitude. What changes is the specific crop selection, the timing of sowing dates relative to the local ten-hour-day calendar, and the degree of protection required during the coldest weeks.
-
-Coleman encourages growers at any latitude to experiment and adapt, using his Maine experience as a starting template rather than a rigid prescription. The winter harvest system is fundamentally about understanding and working with natural cycles—sunlight, temperature, and plant biology—rather than fighting against them with expensive technology. The rewards of proper siting compound over years as the grower gains intimate knowledge of their specific microclimate and refines their practices accordingly.
-
----
-
-*See also: coleman-mobile-greenhouse-mechanical-systems, coleman-winter-succession-planting*

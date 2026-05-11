@@ -4,7 +4,7 @@ type: species
 aliases:
   - Amethyst Laccaria
   - Amethyst Deceiver
-  - Laccaria amethystina
+  - [[laccaria-amethystina]]
 tags:
   - fungi
   - laccariaceae
@@ -27,7 +27,7 @@ created: 2026-04-28
 
 ## Overview
 
-*Laccaria amethystea* (syn. *Laccaria amethystina*) is a small, brightly colored woodland mushroom found across temperate regions of the Northern Hemisphere. It is named for its vivid amethyst-purple coloration, which fades as the mushroom ages — giving rise to its common name "Amethyst Deceiver."
+*Laccaria amethystea* (syn. *Laccaria amethystina*) is a small, brightly colored woodland mushroom found across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It is named for its vivid amethyst-purple coloration, which fades as the mushroom ages — giving rise to its common name "Amethyst Deceiver."
 
 The species is an ectomycorrhizal associate of broadleaf and coniferous trees and is one of the most commonly encountered purple fungi in temperate forests. While edible and widely consumed in some cultures, it is thin-fleshed and generally considered of limited culinary value.
 
@@ -63,9 +63,9 @@ Flesh is thin, purple when cut in fresh specimens, and has a mild, indistinct ta
 
 ## Distribution and Habitat
 
-*Laccaria amethystea* has a wide distribution across Europe, Asia, and North America. In Europe, it is one of the most common woodland mushrooms, found from Scandinavia to the Mediterranean. In North America, it occurs primarily in the East and Pacific Northwest.
+*Laccaria amethystea* has a wide distribution across Europe, Asia, and North America. In Europe, it is one of the most common woodland mushrooms, found from Scandinavia to the Mediterranean. In North America, it occurs primarily in the East and [[psilocybin-north-america-pacific-northwest]].
 
-The species forms ectomycorrhizal associations with a broad range of tree hosts, including oaks (*Quercus* spp.), beech (*Fagus* spp.), pines (*Pinus* spp.), spruces (*Picea* spp.), and birches (*Betula* spp.). This broad host range contributes to its wide geographic distribution.
+The species forms [[ectomycorrhizal-associations]] with a broad range of tree hosts, including oaks (*Quercus* spp.), beech (*Fagus* spp.), pines (*Pinus* spp.), spruces (*Picea* spp.), and birches (*Betula* spp.). This broad host range contributes to its wide [[geographic-distribution-of-psilocybe-species]].
 
 It fruits from late summer through autumn, typically August to November, often in large scattered groups or troops on forest floors with thick leaf litter. The fruiting habit is gregarious, and productive years can produce abundant flushes.
 
@@ -75,7 +75,7 @@ As an ectomycorrhizal fungus, *L. amethystea* plays an important role in forest 
 
 *Laccaria* species are among the most common ectomycorrhizal genera in disturbed and regenerating forests, making them pioneer mycorrhizal associates. They are often among the first fungi to colonize the root systems of young trees in reforestation sites.
 
-The species is being studied for potential use in forest restoration and reforestation programs, as *Laccaria* inoculants can improve seedling survival and growth rates in degraded sites. This application is particularly relevant in tropical and subtropical reforestation using *Laccaria laccata* and related species.
+The species is being studied for potential use in forest restoration and reforestation programs, as *Laccaria* inoculants can improve seedling survival and growth rates in degraded sites. This application is particularly relevant in tropical and subtropical reforestation using *[[laccaria-laccata]]* and related species.
 
 ## Edibility
 
@@ -88,27 +88,3 @@ There are no known toxic lookalikes in the *Laccaria* genus. The combination of 
 ## Similar Species
 
 - ***Laccaria laccata*** — Deceiver; similar size and shape but tan to orange-brown, not purple
-- ***Laccaria bicolor*** — Two-colored laccaria; larger, with bicolored stipe and purplish tones only at the base
-- ***Cortinarius traganus*** — Larger, has a rusty-brown spore print and cobweb-like partial veil
-- ***Inocybe geophylla*** var. *violacea* — Purple form of a toxic Inocybe; has adnexed gills and a mealy odor
-
-## Cultivation and Mycological Research
-
-*Laccaria amethystea* has not been successfully cultivated commercially, though *Laccaria* species have been grown experimentally in symbiotic culture with tree seedlings. The genus is of particular interest to forest mycology researchers studying [[symbiotic-fungi-ectomycorrhizal-networks-overview]].
-
-Genomic studies of *Laccaria* species have revealed mechanisms of [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], including gene families involved in [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] and communication with host roots. These findings have broader implications for understanding forest ecosystem function.
-
-The species has been investigated as a bioindicator of forest health and soil quality, as its presence and abundance correlate with specific soil conditions and forest maturity levels.
-
-## See Also
-
-- [[laccaria-bicolor]]
-- [[boletus-rex-veris]]
-- [[cortinarius-rubellus]]
-- [[russula-virescens]]
-- [[cantharellus-cibarius-entity]]
-- xerocomellus chrysenteron
-- [[psilocybe-semilanceata]]
-- [[suillus-luteus]]
-- [[russula-brevipes]]
-- [[leccinum-scabrum]]

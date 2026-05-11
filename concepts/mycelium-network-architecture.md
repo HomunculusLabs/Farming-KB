@@ -88,12 +88,3 @@ constraints. This cost-benefit tradeoff between building and maintaining
 network material versus ensuring connectivity produces networks that
 approximate solutions found by human engineers designing transportation
 and communication networks. The networks also demonstrate "graceful
-degradation": as connections are severed, the network reroutes resources
-through alternative pathways with minimal loss of overall function, a
-property that makes them robust models for studying fault-tolerant systems
-in computer science and engineering. The degree of network optimization
-varies with environmental predictability; in stable environments with
-permanent resource patches, networks converge toward more efficient,
-streamlined configurations, while in variable environments they maintain
-more exploratory, redundant architectures.
-- [[fungal-ecology]]

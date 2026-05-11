@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Tropical gardening encompas [[growing-food-in-hard-times]] food and ornamen [[psychedelic-plants-in-ancient-cultures]] s in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18[[hamilton-cloches-and-frost-protection]] rost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall [[potato-pest-and-disease-management]] se pressure [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]] i [[soil-nutrient-cycling]] nt depletion. These systems overlap significantly with [[food-forest-design]] design and [[permaculture-design]] principles.
+Tropical gardening encompasses growing food and ornamental plants in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18°C) and frost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall, pest and disease pressure, and rapid soil nutrient depletion. These systems overlap significantly with [[food-forest-design]] design and [[permaculture-design]] principles.
 
 ## Tropical Climate Zones
 
@@ -20,7 +20,7 @@ Tropical gardening encompas [[growing-food-in-hard-times]] food and ornamen [[ps
 - Annual rainfall often exceeds 100 inches
 - High humidity (80%+ year-round)
 - Consistent temperatures with minimal seasonal variation
-- Rapid decomposition and nutrient cycling
+- Rapid decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 
 ### Monsoon Climates (Am)
 - Short dry season (1-3 months) with heavy monsoon rains
@@ -112,9 +112,9 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - **Chaya (Cnidoscolus aconitifolius)**: Spinach substitute; must be cooked; extremely productive
 - **Moringa (Moringa oleifera)**: Nutritious leaves, pods, and flowers; fast-growing tree
 - **Katuk (Sauropus androgynus)**: Shrub with edible leaves; grows in shade
-- **Egyptian spinach (Corchorus olitorius)**: Molokhia; annual but self-seeds readily
+- **Egyptian spinach ([[corchorus-olitorius]])**: Molokhia; annual but self-seeds readily
 - **Pigeon pea (Cajanus cajan)**: Perennial legume producing edible peas; nitrogen fixer
-- **Winged bean (Psophocarpus tetragonolobus)**: Entire plant is edible; tropical climbing legume
+- **Winged bean ([[psophocarpus-tetragonolobus]])**: Entire plant is edible; tropical climbing legume
 
 ### Tropical Annual Vegetables
 - **Amaranth**: Both leaves and grain; heat-loving

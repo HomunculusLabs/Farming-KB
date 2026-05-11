@@ -43,7 +43,7 @@ created: 2026-04-28
 
 *Xanthosoma sagittifolium* (malanga, tannia, yautia) is a tropical herbaceous perennial in the family Araceae, cultivated primarily for its starchy underground cormels and edible young leaves.
 
-The species is a major staple root crop in the Caribbean, West and Central Africa, and parts of South America and [[psilocybe-southeast-asia-pacific]], where it fills a similar ecological and culinary niche to taro (*Colocasia esculenta*).
+The species is a major staple [[root-crop-harvest-and-storage]] in the Caribbean, West and Central Africa, and parts of [[guzman-psilocybin-mushrooms-south-america]] and [[psilocybe-southeast-asia-pacific]], where it fills a similar ecological and culinary niche to taro (*[[colocasia-esculenta]]*).
 
 ## Taxonomy
 
@@ -74,7 +74,7 @@ The species has been widely dispersed through human migration and the slave trad
 - **[[lichens-primary-production-soil-formation-dighton]] regions:** Cuba, Dominican Republic, Puerto Rico, Nigeria, Ghana, Cameroon, Côte d'Ivoire, Brazil, Costa Rica.
 - **Climate:** Requires warm, humid conditions; optimal temperature 25–30 °C; growth ceases below 15 °C; intolerant of frost.
 - **Rainfall:** Prefers 1,500–2,500 mm annual rainfall distributed throughout the year; tolerates seasonal dry periods of 2–3 months.
-- **Soils:** Prefers well-drained, fertile loams with high [[hamilton-composting-and-organic-matter-management]]; tolerates acidic soils (pH 4.5–6.5) and moderate waterlogging better than most root crops.
+- **Soils:** Prefers well-drained, fertile loams with high [[hamilton-composting-and-organic-matter-management]]; tolerates acidic soils (pH 4.5–6.5) and moderate waterlogging better than most [[permaculture-plants-root-crops-and-tubers]].
 - **Altitude:** Sea level to approximately 1,200 m in humid tropical zones.
 - **Shade tolerance:** Unusually shade-tolerant for a root crop — produces satisfactory yields under 30–50% shade, making it suitable for agroforestry systems.
 
@@ -85,47 +85,6 @@ Propagation is vegetative, typically using small cormels or corm pieces (setts) 
 - **Planting:** Setts planted 5–10 cm deep, 80–100 cm between plants, 100–150 cm between rows; approximately 10,000 plants per hectare.
 - **Crop cycle:** 8–12 months to maturity; cormels can remain in the ground for extended harvest without deterioration (a "field storage" advantage).
 - **Yield:** 10–30 tonnes cormels per hectare under traditional management; improved varieties with fertilizer inputs can yield 25–40 t/ha.
-- **Nutrient requirements:** Responds well to organic manure and moderate NPK application; potassium is particularly important for cormel development.
-- **Weed management:** Rapid canopy closure (2–3 months) suppresses weeds effectively; hand-weeding needed during early establishment.
+- **[[cannabis-soil-and-nutrient-requirements]]:** Responds well to organic manure and moderate NPK application; potassium is particularly important for cormel development.
+- **[[fukuoka-natural-weed-management]]:** Rapid canopy closure (2–3 months) suppresses weeds effectively; hand-weeding needed during early establishment.
 - **Pests:** The most damaging pest is the taro beetle (*Papuana uninodis*); nematodes (*Meloidogyne* spp.) and the golden apple snail (*Pomacea canaliculata*) can cause significant losses.
-- **Diseases:** Leaf blight (*Phytophthora colocasiae*), root rot (*Pythium* spp.), and dasheen mosaic virus (DsMV) are the primary disease threats.
-
-## Nutritional Profile
-
-Cormels are an energy-dense carbohydrate source with moderate protein content compared to other tropical root crops.
-
-- **Macronutrients (per 100 g raw cormel):** 98–120 kcal, 23–28 g carbohydrates (starch), 1.5–2.5 g protein, 0.1–0.3 g fat, 2–3 g dietary fiber.
-- **Vitamins:** Vitamin C (7–12 mg), thiamine (0.05 mg), riboflavin (0.03 mg), niacin (0.6 mg).
-- **Minerals:** Potassium (400–500 mg), phosphorus (50–70 mg), calcium (20–30 mg), iron (0.5–0.8 mg), zinc (0.3–0.5 mg).
-- **Leaves:** When cooked, the young leaves and petioles are rich in protein (3–5 g/100 g), vitamin A (as beta-carotene), vitamin C (30–50 mg), calcium (100–200 mg), and iron (2–4 mg).
-
-## Edibility and Culinary Use
-
-All parts of the plant contain [[fungal-calcium-oxalate-crystals]] crystals (raphides) that cause intense irritation if consumed raw; thorough cooking neutralizes the oxalates.
-
-- **Cormel preparation:** Peeled, cut into chunks, and boiled, steamed, fried, or mashed; the cooked flesh has a nutty, slightly sweet flavor with a texture denser and smoother than potato.
-- **Culinary uses:** Boiled and served with salt cod or meat (Caribbean), fried as fritters or chips, mashed with garlic and oil (Cuban-style), ground into flour for dumplings and breads.
-- **Leaf preparation:** Young leaves and petioles boiled in 1–2 changes of water; used as a leafy green similar to spinach or collard greens in Brazilian and West African cuisines.
-- **Flour production:** Dried cormels can be milled into a gluten-free flour used in breads, pancakes, and thickening agents.
-
-## Permaculture and Agroforestry Applications
-
-*X. sagittifolium* is one of the best-adapted root crops for multi-strata agroforestry systems due to its shade tolerance and versatility.
-
-- **Understory crop:** Grows productively under partial shade of coconut, cacao, banana, breadfruit, and timber trees; the only major root crop that performs well as an understory.
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:** Intercropped with cocoa (*Theobroma cacao*), coffee, and fruit trees in Caribbean and West African systems; the large leaves provide ground cover that suppresses weeds and conserves soil moisture.
-- **Soil protection:** Dense leaf canopy intercepts rainfall and reduces erosion on slopes; leaf litter adds organic matter.
-- **Multi-strata role:** Occupies the 1–2.5 m herbaceous layer in food forests, filling the gap between ground covers and canopy trees.
-- **Polyculture staple:** In traditional Caribbean and West African farming, malanga forms the carbohydrate base of multi-crop systems alongside legumes (pigeon pea, cowpea), tree crops, and small livestock.
-
-## See Also
-
-- [[blighia-sapida]]
-
-- [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]
-- mollison-designers-cassava-tropical-root-crops
-
-- [[colocasia-esculenta]] — taro, the closely related aroid root crop
-- [[dioscorea-alata]] — winged yam, tropical tuber for food forests
-- [[moringa-oleifera]] — multipurpose tree companion in tropical systems
-- [[leucaena-leucocephala]] — leguminous shade tree for tropical agroforestry

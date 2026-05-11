@@ -1,5 +1,5 @@
 ---
-title: [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] Species Guide
+title: Stamets Psi Psilocybe Mexicana Species Guide
 created: 2026-04-28
 tags: mycology, psilocybe, species-guide, mexico, ethnobotany]
 date: 2026-04-25
@@ -88,53 +88,3 @@ detected in trace quantities. The alkaloid profile of P.
 mexicana is notable for being one of the first to be
 chemically characterized. Sclerotia produced by this species
 contain comparable levels of psychoactive alkaloids, though
-the specific ratios may differ from those found in above-
-ground fruiting bodies.
-
-## Sclerotia Formation
-Psilocybe mexicana is one of the few known psilocybin-
-producing species that reliably forms sclerotia. These
-dense, truffle-like masses of hardened mycelium form
-underground as survival structures during adverse
-conditions. Sclerotia can persist in soil for extended
-periods and resume growth when environmental conditions
-improve. In cultivation, sclerotia of P. mexicana are
-commonly called "philosopher's stones" or "magic truffles."
-They form readily on enriched grain substrates such as
-rye grass seed or grass seed and vermiculite mixtures
-under dark incubation at 75-80 degrees F.
-
-## Identification Notes and Similar Species
-Psilocybe mexicana can be confused with several other
-small grassland mushrooms. [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], the
-liberty cap of temperate regions, is larger and has a
-more pronounced papilla. Psilocybe tampanensis is a
-closely related species that also produces sclerotia,
-originally collected near Tampa, Florida. Galerina
-species are dangerous look-alikes that contain deadly
-amatoxins; however, Galerina species typically have a
-brown spore print rather than the dark purplish brown
-of Psilocybe. The bluing reaction upon injury is a
-helpful field indicator, though it is not exclusive to
-psychoactive species and should not be the sole
-identification criterion.
-
-## Conservation Status
-The natural populations of Psilocybe mexicana face
-pressure from habitat destruction, agricultural
-expansion, and overcollection. Subtropical grasslands
-in Mexico are among the most threatened ecosystems in
-the country. While P. mexicana is not currently listed
-on the IUCN Red List, its restricted range and specific
-habitat requirements make it vulnerable. The species
-is listed under Schedule I of the UN Convention on
-Psychotropic Substances in many jurisdictions, which
-has complicated conservation research efforts. Legal
-restrictions on possession and cultivation have limited
-scientific study of wild populations and their ecology.
-
-## See Also
-
-- [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]
-- [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
-- [[field-guide-psilocybin-mushroom-species-identification]]

@@ -1,7 +1,7 @@
 ---
 title: "shirota-glyoxalylamide-formation-oxalyl-chloride-indole Glyoxalylamide Crystallization in acetylation-protection-psilocin-synthesis-4-hydroxyindole"
-aliases: [glyoxalylamide yellow crystal formation, oxalyl chloride
-  acylation 4-acetylindole, psilocin synthesis step two]
+aliases: [glyoxalylamide yellow crystal formation, [[shirota-glyoxalylamide-formation-oxalyl-chloride-indole]]
+  acylation 4-acetylindole, [[acetylation-protection-psilocin-synthesis-4-hydroxyindole]] step two]
 tags: [shirota, psilocin, synthesis, oxalyl-chloride, glyoxalylamide,
   crystallization, organic-chemistry, tryptamines]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda
@@ -14,7 +14,7 @@ created: 2026-05-08
 
 In the concise large-scale synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] reported
 by Shirota, Hakamata, and Goda (2003), the conversion of 4-acetylindole
-(4) to the glyoxalylamide intermediate (6) via oxalyl chloride
+(4) to the [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] (6) via oxalyl chloride
 represents a critical two-step acylation-amidation sequence. This step
 produces a distinctive yellow crystalline product and proceeds in over
 80% yield, making it highly suitable for gram-scale production without
@@ -66,7 +66,7 @@ sequentially with n-hexane, ethyl acetate, and water.
 
 ## Product Characterization: Compound 6
 
-The glyoxalylamide intermediate (6) is obtained as an ivory white
+The [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] (6) is obtained as an ivory white
 crystalline powder in 80.0% yield (22.0 g from 17.6 g starting
 material). Key spectroscopic data include:
 
@@ -88,48 +88,3 @@ material). Key spectroscopic data include:
 - δ 168.4: The second carbonyl of the oxalyl bridge
 - δ 144.2: The C-4 position bearing the acetyl group
 - δ 139.2: C-7a bridgehead carbon
-
-### Mass Spectrometry
-- ESI-MS m/z 297.1 [M + Na]⁺, 275.1 [M + H]⁺
-- Base peak at m/z 233.1 [M - Ac + H]⁺, corresponding to loss of the
-  acetyl protecting group
-
-## Significance for Large-Scale Synthesis
-
-This step is significant for the overall synthesis route for several
-reasons:
-
-1. **No chromatography required**: Both the intermediate yellow crystal
-  (5) and the final glyoxalylamide (6) are isolated by simple
-  filtration and washing, avoiding the need for column chromatography
-2. **High yield**: The 80% yield over two steps represents excellent
-  efficiency for gram-scale production
-3. **Direct use**: The product (6) is used directly in the next step
-  (LiAlH₄ reduction to psilocin) without further purification
-4. **Crystalline isolation**: The crystalline nature of both
-  intermediates ensures high purity without chromatographic steps
-
-## The Acetyl Protecting Group Strategy
-
-The choice of [[shirota-4-hydroxyindole-acetyl-protection-experimental]] at the 4-hydroxy position (rather than
-benzyl, which was also explored) was motivated by practical
-considerations. While benzyl protection could be used, it required a
-separate deprotection step. The acetyl group, by contrast, is removed
-during the LiAlH₄ reduction step that follows, integrating the
-deprotection into the reduction and avoiding an additional step.
-
-## Comparison with Other Synthetic Routes
-
-Other reported syntheses of psilocin from 4-hydroxyindole have used
-various strategies for introducing the dimethylaminomethyl side chain at
-the 3-position. The oxalyl chloride approach of Shirota et al. is
-notable for its simplicity, its avoidance of chromatographic
-purification, and its scalability to gram quantities.
-
-## See Also
-
-- [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]]
-
-- [[glyoxalylamide-intermediate-in-tryptamine-synthesis]]
-- [[lialh4-reduction-glyoxalylamide-psilocin-synthesis]]
-- [[psilocin-psilocybin-synthesis-shirota]]

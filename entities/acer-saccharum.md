@@ -87,37 +87,3 @@ Sugar maple decline, a complex condition involving drought stress, insect defoli
 ## Timber and Uses
 
 Sugar maple lumber is marketed as "hard maple" and is used extensively in flooring, furniture, cabinetry, musical instruments, and bowling alleys.
-
-Birdseye maple, a highly figured grain pattern caused by localized fiber distortions, commands premium prices for decorative veneer and fine furniture.
-
-The wood machines well, takes stain evenly, and holds sharp edges, making it the standard choice for butcher blocks, cutting boards, and workbench tops.
-
-It is also used for pulpwood, though less commonly than softer hardwood species due to its high density and slower pulping characteristics.
-
-## Cultivation
-
-Sugar maple is propagated from seed, which requires 60–90 days of cold stratification at 1–5°C for reliable germination.
-
-Container seedlings are preferred for outplanting, with bare-root stock generally performing poorly due to the species' sensitive root system.
-
-It transplants with difficulty and is considered one of the more challenging landscape trees to establish after the seedling stage.
-
-Growth in cultivation is slow to moderate, with annual height increments of 30–45 cm typical on good sites in the first two decades.
-
-The species is intolerant of compacted soils, road salt, and urban air pollution, limiting its use as a street tree despite its ornamental value.
-
-Fall foliage color varies among genotypes, and selected cultivars such as 'Apollo', 'Green Mountain', and 'Legacy' offer improved form and reliable autumn color.
-
-## See Also
-
-- [[aesculus-pavia]]
-
-- [[epipactis-helleborine]]
-
-- [[acer-saccharinum]]
-
-- [[quercus-robur]]
-- [[betula-pendula]]
-- [[tilia-cordata]]
-- [[juglans-regia]]
-- [[quercus-suber]]

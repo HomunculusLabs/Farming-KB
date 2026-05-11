@@ -87,30 +87,3 @@ They play a significant role in marine microbial food webs as decomposers of com
 The ability to accumulate large lipid reserves rapidly may serve an ecological function in fluctuating coastal environments where nutrient pulses are followed by extended periods of scarcity.
 
 ## Strain Improvement
-
-Classical strain improvement through random mutagenesis (UV, chemical) and screening has produced industrial strains with DHA titers exceeding 50% of total fatty acids. Selection pressure under high-glucose, low-temperature conditions has been particularly effective.
-
-[[fukuoka-textdoc-genetic-engineering-critique-warning]] is well developed for *S. limacinum*, with established protocols for transformation, gene knockout, and overexpression. The PKS genes responsible for DHA synthesis have been characterized and manipulated to redirect carbon flux toward DHA.
-
-Metabolic engineering strategies include overexpression of malonyl-CoA synthase, knockdown of competing fatty acid synthase pathways, and introduction of alternative carbon assimilation routes. These approaches have yielded strains with 20–40% improvements in DHA productivity.
-
-## Related Species
-
-*Aureocochrysidium limacinum* (formerly *Schizochytrium limacinum* SR21) is a closely related strain widely used in commercial production. Taxonomic revisions have reclassified several *Schizochytrium* isolates based on 18S rRNA phylogeny.
-
-*Thraustochytrium aureum* is another DHA-producing thraustochytrid with lower DHA content but faster growth rates. *Ulkenia* species produce DHA with a different fatty acid profile including significant EPA co-production.
-
-The order Thraustochytrida contains numerous genera with unexplored biotechnological potential. Environmental sequencing has revealed a vast diversity of thraustochytrids in marine habitats, most of which remain uncultured.
-
-## See Also
-
-- [[nannochloropsis-gaditana]]
-- [[saccharomyces-cerevisiae]]
-- [[permaculture]]
-- fermentation
-- nutrition
-- sustainability
-- [[dighton-fungi-climate-change-feedback]]
-- photosynthesis
-- proteomics
-- [[cannabis-anti-inflammatory-applications]]

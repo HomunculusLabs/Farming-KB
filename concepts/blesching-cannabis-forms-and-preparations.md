@@ -40,16 +40,16 @@ times and bioavailability. When cannabis is consumed orally, THC is
 metabolized in the liver to 11-hydroxy-THC, a more potent psychoactive
 metabolite. This conversion accounts for the often more intense and longer-
 lasting effects experienced with oral cannabis compared to inhaled forms.
-Topical preparations provide localized effects with minimal systemic
+[[blesching-cannabis-tinctures-infused-oils-topical-preparations]] provide localized effects with minimal systemic
 absorption, making them ideal for targeted relief.
 
 ## Key Concepts
 
 - Inhalation provides the fastest onset (minutes) but shortest duration
-  (2-4 hours) of therapeutic effects
+  (2-4 hours) of [[cbd-therapeutic-effects]]
 - Oral ingestion provides slower onset (30-120 minutes) but longer duration
   (4-8+ hours) and involves hepatic conversion of THC to 11-hydroxy-THC
-- Topical applications provide localized relief with minimal systemic
+- [[cannabis-topical-applications]] provide localized relief with minimal systemic
   absorption or psychoactive effects
 - Sublingual tinctures offer a middle ground with faster onset than oral
   ingestion but longer duration than inhalation
@@ -74,7 +74,7 @@ allowing patients with temperature-controlled vaporizers to selectively target
 specific compounds. Lower vaporization temperatures favor terpenes and more
 volatile cannabinoids, while higher temperatures extract heavier cannabinoids
 like THC and CBD. This temperature-dependent extraction provides a degree of
-control over the therapeutic profile of the inhaled medicine.
+control over the [[cannabidiol-cbd-therapeutic-profile-blesching]] of the inhaled medicine.
 
 The pulmonary bioavailability of THC through inhalation is estimated at
 10-60%, with significant inter-individual variability based on smoking
@@ -88,39 +88,3 @@ management such as breakthrough pain or nausea.
 Edible cannabis products encompass a wide range of food items infused with
 cannabis extracts or cannabutter. The bioavailability of orally ingested THC
 is estimated at only 4-20%, with the majority of the administered dose being
-lost to first-pass metabolism. However, the conversion of THC to 11-hydroxy-
-THC in the liver produces a metabolite that is significantly more
-psychoactive, often resulting in more intense subjective effects compared to
-equivalent inhaled doses.
-
-The delayed onset of oral preparations (typically 30-120 minutes) creates a
-significant risk of overconsumption, as patients may not feel effects
-immediately and may consume additional doses prematurely. This delayed onset
-combined with the more intense effects of 11-hydroxy-THC has led to a common
-recommendation for patients using edibles to start with very low doses and
-wait at least two hours before considering additional consumption.
-
-Sublingual tinctures provide an alternative oral delivery method that
-partially bypasses first-pass metabolism. When [[query-how-to-make-cannabis-tinctures-at-home]] are held
-under the tongue for 60-90 seconds before swallowing, a portion of the
-cannabinoids is absorbed directly through the mucous membranes into the
-bloodstream. This provides faster onset (15-45 minutes) than swallowed
-edibles while maintaining a longer duration than inhaled preparations.
-
-## Topical Preparations
-
-Topical cannabis preparations include salves, balms, creams, oils, and
-patches applied directly to the skin. These preparations are particularly
-valuable for localized pain, inflammation, and [[cannabis-for-skin-conditions-detailed]] because
-cannabinoids absorbed through the skin act primarily on local cannabinoid
-receptors without producing systemic psychoactive effects. This makes
-topicals an excellent option for patients who need targeted relief but
-cannot tolerate or do not desire psychoactive effects.
-
-## Related
-
-- [[blesching-cannabis-forms-preparations-and-resin-products]]
-
-- [[blesching-cannabis-administration-methods]]
-- [[blesching-cannabinoid-pharmacology]]
-- [[blesching-cannabis-safety-profile]]

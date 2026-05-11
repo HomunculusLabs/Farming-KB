@@ -11,7 +11,7 @@ sources: [raw/papers/fungi-magazine-fungi-and-sustainability.md]
 
 ## Overview
 
-Mycoremediation is the use of fungi to restore and remediate damaged environments. Fungi serve as primary healing agents for land and ecosystems, creating habitats and providing the ability for ecosystems to respond to catastrophes—both natural and man-made. This field encompasses various applications including mycofiltration, mycoforestry, and ecosystem restoration.
+Mycoremediation is the use of fungi to restore and remediate damaged environments. Fungi serve as primary healing agents for land and ecosystems, creating habitats and providing the ability for ecosystems to respond to catastrophes—both natural and man-made. This field encompasses various applications including mycofiltration, mycoforestry, and [[bioremediation-ecosystem-restoration]].
 
 ## Core Principles
 
@@ -34,16 +34,16 @@ Effective mycoremediation integrates fungi with the other four kingdoms of life 
 Mycofiltration uses fungi to filter and treat water contaminated with various pollutants. The process involves:
 
 **Water Treatment Mechanisms:**
-- Filtration of sediments and particulates through mycelial networks
+- Filtration of sediments and particulates through [[fungal-mycelial-networks-nutrient-translocation]]
 - Absorption and breakdown of organic pollutants
-- Removal of heavy metals through bioaccumulation
+- Removal [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] through bioaccumulation
 - Reduction of pathogens in wastewater systems
 
 **Practical Implementation:**
 - Filling depressions and roadside ditches with wood chips inoculated with mushroom spawn
 - Creating mycofiltration barriers for agricultural runoff
 - Treating contaminated water from industrial sites
-- Integrating with anaerobic digestion systems for comprehensive water treatment
+- Integrating with [[biogas-digesters-and-anaerobic-digestion-systems]] for comprehensive water treatment
 
 ### Mycoforestry
 
@@ -58,13 +58,13 @@ Mycoforestry applies fungal principles to forest management and restoration:
 **Stamets' Techniques:**
 - Chipping woody debris and inoculating with fungi
 - Using spore-oil mixture for chain saws and wood chippers to spread fungi during forest management operations
-- Creating "myceliated wood chips" that increase soil depth and carrying capacity for tree successions
+- Creating "myceliated wood chips" that increase soil depth and [[fukuoka-textdoc-land-requirements-per-diet-type-carrying-capacity]] for tree successions
 
-**Quote from Stamets:** "Mushroom mycelium is the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence. My goal is to make use of fungi's appetite for wood chips to increase soil depth so that the soil has a greater carrying capacity for the tree successions that spring from it."
+**Quote from Stamets:** "[[antimicrobial-compounds-mushroom-mycelium]] is the grand demolecularizer of plant fibers (lignin and cellulose), creating soil as an end consequence. My goal is to make use of fungi's appetite for wood chips to increase soil depth so that the soil has a greater [[fukuoka-textdoc-livestock-caloric-land-carrying-capacity]] for the tree successions that spring from it."
 
 ### Heavy Metal Remediation
 
-Certain fungi can absorb and concentrate heavy metals from contaminated soils:
+Certain fungi can absorb and concentrate heavy metals from [[fungal-competition-survival-contaminated-soils]]:
 
 **Mechanisms:**
 - Bioaccumulation of metals in fungal tissues
@@ -82,93 +82,9 @@ Certain fungi can absorb and concentrate heavy metals from contaminated soils:
 Fungi can break down petroleum products and hydrocarbons:
 
 **Process:**
-- Enzymatic degradation of complex hydrocarbon molecules
+- [[enzymatic-degradation-in-mycoremediation]] of complex hydrocarbon molecules
 - Creation of biofilms that concentrate degradation agents
 - Integration with other remediation techniques
 - Treatment of oil spills and contaminated soils
 
 ## Integration with Other Remediation Methods
-
-### Anaerobic Digestion Integration
-
-Mycoremediation can be integrated with anaerobic digestion systems:
-- Digesters produce methane that can be collected and burned
-- Pathogen-free effluent can be processed further in oxidation ponds
-- Algae in ponds can be harvested as food for fish
-- Remaining water can fertilize gardens and crops
-
-### Wastewater Treatment Systems
-
-Complete wastewater treatment using multiple kingdoms:
-- Fungi filter primary contaminants
-- Bacteria process remaining organic matter
-- Algae provide final polishing through photosynthesis
-- Clean water is returned to the environment
-
-## Practical Projects
-
-### Sustainable Communities/ZERI-New Mexico
-
-SCZ-NM applies mycoremediation principles in:
-- Forest restoration projects using fungi to process woody debris
-- Creation of native fungal culture banks for ecosystem restoration
-- Integration of mycofiltration in watershed management
-- Education and training in mycological applications
-
-### Brewery Waste Remediation
-
-Integrated systems that treat brewery waste using:
-- Fungi to convert spent grain into mushrooms
-- Animals to process spent mushroom substrate
-- Complete integration of all five kingdoms to eliminate waste
-
-## Environmental Benefits
-
-### Carbon Sequestration
-
-Fungi contribute significantly to carbon sequestration through:
-- Building stable soil carbon compounds
-- Creating long-lasting soil structures
-- Supporting plant growth that captures atmospheric CO2
-- Reducing need for fossil fuel-based fertilizers
-
-### Biodiversity Enhancement
-
-Mycoremediation projects enhance biodiversity by:
-- Creating diverse habitats for beneficial organisms
-- Supporting complex ecological networks
-- Providing food sources for various species
-- Improving overall ecosystem resilience
-
-### Water Quality Improvement
-
-Fungal remediation improves water quality by:
-- Filtering sediments and pollutants
-- Reducing pathogen loads
-- Improving water clarity and oxygen levels
-- Creating healthy aquatic ecosystems
-
-## Future Applications and Research
-
-### Climate Change Mitigation
-
-Fungi may play crucial roles in:
-- Adapting to changing climate conditions
-- Sequestering carbon in soils
-- Restoring degraded landscapes
-- Supporting ecosystem resilience
-
-### Space Applications
-
-The potential for fungal-based life support systems:
-- Waste recycling in space habitats
-- Oxygen production and CO2 removal
-- Food production in closed systems
-- Integration with other life support technologies
-
-## See Also
-
-- [[sustainability-concepts]] - Core sustainability frameworks
-- [[zeri-organization]] - Zero Emissions Research and Initiatives
-- [[sustainable-mushroom-cultivation]] - Mushroom cultivation techniques
-- [[agricultural-waste-recycling]] - Waste valorization methods

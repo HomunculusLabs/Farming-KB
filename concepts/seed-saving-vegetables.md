@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Seed Saving Vegetables
 
-Practical guide to saving vegetable seeds for the home gardener, distilled from Steve Solomon's "Gardening When It Counts." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species. (see [[heritage-and-landrace-crop-varieties-for-small-farmers]]).
+Practical guide to saving vegetable seeds for the home gardener, distilled from Steve Solomon's "Gardening When It Counts." Home-garden seed production is one of the most valuable self-reliance skills, but it requires understanding the biology of each crop species.
 
 ## Self-Pollinating vs. Outcrossing Species
 
@@ -24,7 +24,7 @@ These species [[natural-farming-seed-saving|natural]]ly pollinate themselves bef
 - Beans (most common varieties)
 - Tomatillos
 
-Self-pollinating species are the best starting point for beginners. A small number of plants (even 10-20) can maintain genetic diversity. (see [[saving-seeds]]).
+Self-pollinating species are the best starting point for beginners. A small number of plants (even 10-20) can maintain genetic diversity.
 
 ### Outcrossing Species (require isolation)
 These species are pollinated by insects or wind and will cross with other varieties of the same species:

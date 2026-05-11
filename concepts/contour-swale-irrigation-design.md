@@ -1,10 +1,11 @@
 ---
-title: comparison-swale-design-vs-contour-swale-irrigation-design Irrigation Design
+title: Contour Swale Irrigation Design
 created: 2026-04-28
-tags: [swales, contour, irrigation, water-harvesting, permaculture]
+tags: [swales, contour, irrigation, water-harvesting, [[permaculture]]]
 date: 2026-04-27
 updated: 2026-04-27
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -13,8 +14,8 @@ type: concept
 
 Swales are broad, shallow trenches excavated on contour across sloping land
 to capture, slow, and infiltrate surface water runoff. Developed extensively
-in Bill Mollison's [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, swales represent one of the
-most versatile and cost-effective tools for landscape water management. They
+in [[bill-mollison]]'s [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course, swales represent one of the
+most versatile and cost-effective tools for landscape [[water-management]]. They
 transform destructive runoff into productive soil moisture, charge
 groundwater, reduce erosion, and create ideal growing conditions for trees
 and water-loving plants. In urban areas, swales can absorb 100% of on-site
@@ -87,59 +88,3 @@ Plant the swale to a highly nutritious crop such as [[fukuoka-white-clover-cover
 grass strip and throw all the grass on the swale. When the swale looks rich
 and good, regrade it, bringing the rich topsoil up to the trees. Grade two
 or three times over several years. The result is a great mound of black
-earth with tree roots growing in it, a well-defined walking platform, and an
-easy watering system. Stagger tree species downslope, placing narrow-leafed
-species (peaches, apricots) at the top and broad-leafed species below.
-
-## Urban Swale Applications
-
-Swales have particular application in urban areas. In Davis, California, the
-village project demonstrated that swales can absorb increasing proportions of
-rainfall as they mature. Davis initially absorbed about 40% of water, then
-85%, and eventually 100%. The swales now collect runoff from off-site and
-release it on-site through deep soil infiltration.
-
-### Urban Design Integration
-
-In urban [[comparison-swale-design-vs-hugelkultur]], roads are run as hard-top surfaces with swales,
-little bridges, and houses placed back to back between swales. All roof
-runoff goes into the swales, and all road runoff goes into the swales. There
-is no guttering, no curbs. Swales sometimes pass under roads. The efficiency
-of absorption increases as swales age and tree roots penetrate the subsurface,
-carrying water down into deeper soil layers.
-
-### Swale Enhancements
-
-An immense variety of treatments can enhance urban swales:
-- Block stepping stones across swales for pedestrian access
-- Small rocks and gravel areas for aesthetic and filtration purposes
-- Small ponds within swales for amphibian habitat and water storage
-- Food-producing plants like blueberries planted in swale edges
-- Ginseng cultivation in moist, shaded swale environments
-
-## Swales for Forest Establishment
-
-Swales greatly decrease the risk of [[fungi-forest-fire-succession-litter-dighton]] because they collect fuel
-and rot it quickly. They also make for a far more moist forest than existed
-before. It is amazing how few trees need to be removed to run a swale
-through an existing forest. Swales should ideally be installed before
-planting a forest. Some trees can stand in the swales. The swale functions
-as a long composting system on site, with leaves accumulating and rotting
-quickly in the moist environment.
-
-## Long-Term Performance
-
-Swales do not need to be renewed. In three to four years, properly
-constructed swales develop 17 to 20 feet of fully charged soil. The forest
-above the swale will be alive with access to this water, even when
-neighboring ground water has flowed away. A well-keylined and combed
-landscape that has been soil-conditioned does not get boggy in winter and
-does not get dry in summer. The same diversion drain system that irrigates
-in summer also removes excess water in winter.
-
-## Related
-
-- faires-swales-and-water-conservation
-- [[mollison-designers-rainwater-harvesting-swale-systems]]
-- [[backyard-water-harvesting]]
-- [[mollison-designers-dam-construction-and-water-storage]]

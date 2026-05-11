@@ -75,3 +75,13 @@ Lowenfels notes that ectomycorrhizal fungi are generally acidophilic (prefer aci
 - [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-ecology]]
 - [[fungal-ecology]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

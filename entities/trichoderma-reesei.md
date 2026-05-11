@@ -40,16 +40,16 @@ jecorina.
 ## Cell Wall and Woronin Bodies
 
 T. reesei produces small, oval Woronin bodies, similar to those found
-in Aspergillus nidulans, Magnaporthe grisea, and Penicillium
+in Aspergillus nidulans, [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]], and Penicillium
 chrysogenum. This contrasts with the large hexagonal Woronin bodies
-produced by Neurospora crassa, reflecting diversity in Woronin body
+produced by [[neurospora-crassa]], reflecting diversity in [[hex1-protein-woronin-body-crystal-structure-euascomycetes]]
 morphology across the Euascomycetes.
 
 Proteomic analysis of the T. reesei cell envelope has identified
 numerous proteins associated with cell wall biosynthesis, protein
 secretion pathways, surface adhesion mechanisms, and cell envelope
 architecture, revealing the complexity of protein-carbohydrate
-interactions at the fungal cell surface.
+interactions at the [[chitin-chitosan-fungal-cell-wall]] surface.
 
 ## Industrial Significance
 
@@ -78,7 +78,7 @@ multi-billion dollar industrial enzyme market for biomass conversion.
 
 T. reesei has a fully sequenced genome of approximately 34 megabases
 encoding approximately 9,100 protein-coding genes. The genome encodes
-more glycoside hydrolase genes than most other filamentous fungi,
+more glycoside hydrolase genes than most other [[environmental-sensing-filamentous-fungi-read]],
 reflecting its specialization for plant biomass degradation and
 cellulose utilization.
 
@@ -88,36 +88,3 @@ revealed both shared and species-specific gene family expansions
 related to their different ecological strategies.
 
 ## Enzyme Regulation
-
-Cellulase production is regulated by carbon catabolite repression
-through the CRE1 repressor, induction by cellulose and sophorose, the
-XYR1 transcriptional activator regulating most cellulase and
-hemicellulase genes, and the ACE1 and ACE2 transcription factors
-modulating expression in response to environmental conditions.
-
-## Ecological Role
-
-In nature, T. reesei functions as a saprotrophic decomposer of plant
-material in tropical and subtropical forest ecosystems, contributing
-to dead wood degradation, forest [[dighton-pine-needle-litter-decomposition-fungal-succession]], and nutrient
-cycling through release of carbon and minerals from plant cell wall
-polymers.
-
-Industrial strain improvement has been achieved through classical mutagenesis (UV, NTG) and [[fukuoka-textdoc-genetic-engineering-critique-warning]], with industrial strains producing over 100 grams per liter of cellulase protein. The Rut-C30 strain, developed through multiple rounds of mutagenesis, remains the most widely used industrial strain worldwide.
-
-The proteomic characterization of the T. reesei cell envelope has been complemented by transcriptomic studies of cellulase gene expression. These studies have revealed complex regulatory networks involving multiple signaling pathways that integrate environmental cues with the metabolic state of the cell.
-
-The secretory pathway of T. reesei has been engineered to improve heterologous protein production, making the species a platform for industrial production of recombinant proteins. This application extends beyond cellulase production to include pharmaceutical proteins and industrial enzymes from other organisms.
-
-The ability of T. reesei to secrete large quantities of protein makes it attractive as a cell factory for recombinant protein production. Glycosylation patterns differ from mammalian systems, which can affect the activity of recombinant proteins but also offers opportunities for producing enzymes with novel properties.
-
-T. reesei interacts with other microorganisms in its natural environment, including mycoparasitic interactions with other fungi. The genus Trichoderma includes species with biocontrol activity against plant pathogens, though T. reesei itself is primarily valued for its enzyme production capabilities rather than biocontrol applications.
-
-The species name T. reesei honors Elwyn T. Reese, who pioneered studies of cellulolytic microorganisms and their industrial applications. Reese's work laid the foundation for the modern cellulase industry that now generates billions of dollars in annual revenue.
-
-## See Also
-Related: [[singh-enzyme-production-for-industrial-bioremediation]], [[cervantes-trichoderma-beneficial-fungi]]
-- [[ingham-trichoderma-biocontrol-fungi-aact]]
-
-- [[penicillium-chrysogenum]]
-- [[magnaporthe-grisea]]

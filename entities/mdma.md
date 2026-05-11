@@ -87,38 +87,3 @@ Safrole, a natural precursor found in sassafras oil, is itself internationally c
 In the United States, MDMA is classified as Schedule I (no accepted medical use, high abuse potential).
 
 In 2024, the FDA declined to approve MDMA-assisted therapy for PTSD, maintaining its controlled status despite Phase III [[mushroom-cancer-clinical-trials-overview]] demonstrating significant therapeutic potential.
-
-Internationally, MDMA is listed in Schedule I of the UN Convention on Psychotropic Substances (1971).
-
-Several countries, including the Netherlands and Canada, permit limited research use under special licensing frameworks.
-
-Australia reclassified MDMA as a Schedule III controlled substance for therapeutic use in 2023, becoming one of the first nations to formally recognize its medical potential.
-
-## History
-
-MDMA was first synthesized by the German pharmaceutical company Merck in 1912 as an intermediate compound in the synthesis of hygrine, a potential styptic agent.
-
-It was not pharmacologically evaluated at that time and remained largely forgotten for decades.
-
-The compound was independently rediscovered and tested in the 1950s–1960s by the US Army as part of the Edgewood Arsenal experiments investigating potential [[solomon-root-exudates-and-allelopathy]] agents.
-
-Alexander Shulgin resynthesized MDMA in 1965 and later introduced it to psychotherapists in the 1970s as an adjunct to talk therapy, estimating its therapeutic dose range at 80–150 mg.
-
-During the 1980s, MDMA transitioned from a therapeutic tool to a recreational drug, gaining widespread popularity in the dance music scene.
-
-The DEA emergency-scheduled it in 1985, and it was permanently placed in Schedule I in 1988 despite limited hearings and opposition from psychiatrists.
-
-[[hofmann-lsd-clinical-research-early-studies]] into MDMA-assisted psychotherapy resumed in the 2000s, with the [[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies (MAPS) sponsoring Phase II and III trials for PTSD treatment.
-
-These trials demonstrated significant reductions in PTSD symptom severity compared to placebo, with approximately 67% of participants no longer meeting diagnostic criteria after treatment.
-
-## See Also
-
-- [[mda]]
-- [[mdea]]
-- [[lsd]]
-- [[psilocybin]]
-- [[mescaline]]
-- [[serotonin]]
-- [[2c-b]]
-- [[blesching-cannabis-dopamine-endocannabinoid-system]]

@@ -1,5 +1,5 @@
 ---
-title: Fungal Antibiotic Production and Soil Microbial Ecology
+title: Bloomfield Fungal Antibiotics And Soil Nitrogen Ecology
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -61,8 +61,8 @@ absorb the released amino acids and nucleotides.
 The most famous fungal antibiotic is penicillin, produced by species of
 Penicillium. Discovered by Alexander Fleming in 1928 and developed into a
 practical medicine during World War II, penicillin revolutionized the
-treatment of bacterial infections. But from the fungus's perspective,
-penicillin is simply another tool for managing the bacterial community in
+treatment of [[blesching-cannabis-bacterial-infections]]. But from the fungus's perspective,
+penicillin is simply another tool for managing the [[core-endorhiza-bacterial-community-composition-cannabis]] in
 its immediate environment.
 
 Cephalosporin, another important class of antibiotics used in human
@@ -74,8 +74,8 @@ find new medicines.
 
 ## The Antibiotic Arms Race
 
-Soil is a battlefield of chemical warfare. Bacteria have evolved
-resistance mechanisms against fungal antibiotics, including enzymes that
+Soil is a battlefield of [[allelopathy-and-chemical-warfare-in-plants]]. Bacteria have evolved
+[[fungal-metal-ion-resistance-mechanisms]] against [[fungal-antibiotics]], including enzymes that
 degrade the compounds, efflux pumps that expel them from cells, and
 modified target sites that no longer bind the antibiotic. In response,
 fungi have evolved new and more potent compounds, creating an evolutionary
@@ -87,49 +87,3 @@ compounds, some fungi benefit not only by removing competition but also
 obtain an extra shot of nutrients in the form of dead bacteria. This
 dual benefit, both defensive and nutritional, may explain why antibiotic
 production is so widespread among fungi.
-
-## Nematode Trapping: Another Predatory Strategy
-
-Beyond antibacterial warfare, some fungi obtain nitrogen by trapping and
-killing nematode worms. A single gram of soil can house as many as 1,900
-microscopic nematodes and more than 1,000 meters of hyphae. At this
-density, encounters between hyphae and worms are frequent.
-
-The simplest [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
-systems involve short hyphal branches that exude a powerful adhesive.
-Passing worms become cemented to the tips of these snares, and in their
-attempts to escape become stuck on adjacent branches. Sometimes the
-branches detach from the mycelium, but the animal's fate remains the same.
-Within hours the fungus penetrates the worm's cuticle and dissolves the
-internal tissues.
-
-More elaborate traps range from adhesive cages to explosive rings whose
-interior wall inflates when disturbed by a worm. Nematodes are lured to
-these ring traps by chemical attractants, siren songs that exploit the
-worm's sensory systems. As the animal glides through an opening, the trap
-inflates and grips with a pressure of up to 18 atmospheres, far exceeding
-the pressure in a car tire.
-
-## Implications for Agriculture
-
-The predatory activities of fungi in soil have important implications for
-agriculture. Soil-borne nematodes cause billions of dollars in crop damage
-annually, and the nematode-trapping fungi represent natural biological
-control agents. Understanding how these fungi detect, trap, and digest
-nematodes could lead to new approaches for managing plant-parasitic
-nematodes without chemical pesticides.
-
-Similarly, the antibiotic-producing fungi play roles in suppressing
-soil-borne plant pathogens. The complex web of antimicrobial interactions
-in healthy soil helps maintain the balance that allows plants to thrive.
-Disrupting this balance through excessive tillage, chemical inputs, or
-monoculture can reduce the natural biological control provided by soil
-fungi.
-
-## See Also
-
-- [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]]
-- [[bloomfield-what-lies-beneath-hyphal-biology]]
-- [[bloomfield-basidiomycete-biology-overview]]
-- [[bloomfield-aspergillus-biology-and-aflatoxins]]
-- [[bloomfield-cordyceps-insect-pathogens-behavior]]

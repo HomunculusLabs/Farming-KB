@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - https://www.richsoil.com/hugelkultur/
   - https://www.permaculture.co.uk/articles/what-hugelkultur-all-about
   - https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/terra-preta

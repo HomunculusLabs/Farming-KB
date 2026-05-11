@@ -11,16 +11,16 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schulz, M.E. (1997). "Silvics of North America: Pinus elliottii." In: Silvics of North America, Vol. 1, USDA Forest Service Agriculture Handbook 654.
+  - Schulz, M.E. (1997). "Silvics [[berry-growing]]: Pinus elliottii." In: Silvics of [[guzman-psilocybin-mushrooms-north-america]], Vol. 1, USDA Forest Service Agriculture Handbook 654.
   - Barnett, J.P. & Brendemuehl, R.H. (1968). "Seed characteristics of slash pine." USDA Forest Service Research Paper SO-43.
   - Outcalt, K.W. (2000). "The longleaf pine ecosystem." In: USDA Forest Service, Southern Research Station.
-  - Lotti, T. & Della-Bianca, L. (1959). "Variety elliottii Engelm. slash pine." In: Silvics of Forest Trees of the United States, USDA Handbook 271.
-  - Dorman, K.W. (1976). "The Genetics and Breeding of Southern Pines." USDA Forest Service Agriculture Handbook 471.
+  - Lotti, T. & Della-Bianca, L. (1959). "Variety elliottii Engelm. slash pine." In: Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]], USDA Handbook 271.
+  - Dorman, K.W. (1976). "The [[cannabis-genetics-and-breeding]] of Southern Pines." USDA Forest Service Agriculture Handbook 471.
 ---
 
 ## Overview
 
-Pinus elliottii, commonly known as slash pine, is a fast-growing coniferous tree native to the southeastern United States.
+Pinus elliottii, commonly known as slash pine, is a fast-growing coniferous tree native to the southeastern [[dmt-maoi-plants-united-states]].
 
 It is one of the most commercially important timber species in the American South, widely planted for pulpwood, sawtimber, and naval stores production.
 
@@ -66,7 +66,7 @@ Pinus elliottii var. elliottii occurs naturally along the coastal plain from Sou
 
 Pinus elliottii var. densa is restricted to southern Florida, including the Everglades region and the Florida Keys.
 
-The species has been widely planted outside its native range throughout the southeastern United States and in many subtropical countries worldwide.
+The species has been widely planted outside its native range throughout the southeastern [[hallucinogenic-plants-native-to-united-states]] and in many subtropical countries worldwide.
 
 Natural stands typically occupy flatwoods, wet prairies, and poorly drained sites.
 
@@ -87,63 +87,3 @@ Slash pine is an intolerant, fast-growing species that requires full sunlight fo
 In natural stands, it is a pioneer species that colonizes disturbed sites following fire or logging.
 
 Seedling growth is rapid, with trees reaching 15 to 20 meters in 20 years on favorable sites.
-
-Fire plays a critical ecological role in slash pine ecosystems.
-
-Surface fires maintain an open understory, reduce competition from hardwoods, and stimulate cone opening and seed release.
-
-Stand-replacing fires can kill mature trees but create ideal conditions for regeneration.
-
-The species is susceptible to fusiform rust (Cronartium quercuum f. sp. fusiforme), a major disease causing stem cankers and growth reduction.
-
-Fusiform rust is the most significant pathological constraint on slash pine plantation management.
-
-Silvicultural practices include site preparation, artificial regeneration with improved genotypes, and intermediate treatments such as thinning and prescribed burning.
-
-## Timber and Products
-
-Slash pine is one of the primary sources of softwood timber in the southeastern United States.
-
-The wood is moderately heavy and hard, with a specific gravity of 0.50 to 0.58.
-
-Heartwood is orange to reddish-brown, and sapwood is yellowish-white.
-
-It is widely used for pulpwood, structural lumber, plywood, and oriented strand board.
-
-The species is a major source of naval stores, including gum rosin and gum turpentine.
-
-Oleoresin is harvested by tapping living trees, a practice historically important in the American South.
-
-Slash pine timber is also used for poles, pilings, and treated lumber.
-
-The fast growth rate and relatively short rotation make the species economically attractive for plantation forestry.
-
-Wood quality is acceptable for general construction but less desirable for high-grade applications compared to longleaf pine.
-
-## Cultivation and Management
-
-Slash pine is one of the most widely planted pines in the world outside its native range.
-
-Seed orchards produce genetically improved planting stock with superior growth, disease resistance, and stem form.
-
-Optimal planting density ranges from 1,000 to 2,000 seedlings per hectare depending on site quality and management objectives.
-
-Fertilization with phosphorus is commonly recommended on nutrient-poor sites.
-
-Weed control during the first 2 to 3 years is critical for seedling survival and growth.
-
-Prescribed burning is used for understory control and site preparation before harvest.
-
-Rotation lengths are typically 15 to 25 years for pulpwood and 25 to 35 years for sawtimber.
-
-Intensive silviculture, including fertilization, weed control, and genetically improved stock, can double or triple yields compared to unmanaged stands.
-## See Also
-
-- [[pinus-taeda]]
-- [[pinus-palustris]]
-- [[pinus-echinata]]
-- [[pinus-ponderosa]]
-- [[pinus-radiata]]
-- [[taxodium-distichum]]
-- [[pinus-contorta]]
-- [[pinus-banksiana]]

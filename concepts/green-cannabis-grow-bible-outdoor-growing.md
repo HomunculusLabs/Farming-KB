@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-05-09
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - greg-green-the-cannabis-grow-bible.md
 type: concept
 ---
@@ -87,32 +88,3 @@ See [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growi
 Strategic [[cervantes-companion-planting-pest-deterrent]] practices
 reduce pest pressure. Marigolds, basil, and alliums around the plot
 perimeter deter aphids, spider mites, and browsers. Maintaining
-diverse plantings encourages ladybugs, lacewings, and predatory mites
-that provide natural suppression. Avoid broad-spectrum insecticides;
-garlic sprays and neem oil offer lower-impact alternatives. Physical
-barriers including chicken wire and deer fencing protect against
-herbivores.
-
-## Security and Stealth Techniques
-
-Visual stealth involves selecting sites with natural canopy screening.
-Low-stress training (LST) keeps plants below the surrounding canopy.
-Interplanting with sunflowers or tomatoes disguises the silhouette.
-See [[cannabis-guerrilla-growing-guide]] and
-[[cervantes-guerrilla-growing-tactics]] for detailed guidance. Scent
-management is critical during flowering when terpene production peaks.
-Aromatic herbs planted upwind help mask odor; carbon filter exhaust
-systems on enclosed areas eliminate scent dispersal entirely.
-
-## Harvest
-
-With good sunlight and adequate water, plants progress through the
-full [[cannabis-photoperiod-flowering-cycle|flowering cycle]] and are
-ready for [[green-cannabis-grow-bible-flowering-phase-and-harvest|harvest]]
-at the end of the flowering season.
-
-## See Also
-- [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
-- [[green-cannabis-grow-bible-vegetative-phase-management]]
-- [[green-cannabis-grow-bible-nutrient-management-ppm]]

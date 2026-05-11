@@ -87,24 +87,3 @@ Leaves of *V. tenellum* contain arbutin, a hydroquinone glycoside with [[myceliu
 The early spring flowering period of vaccinium tenellum provides a critical nectar and pollen resource for native bees emerging from overwintering. Bumble bees (*Bombus* spp.), southeastern blueberry bees (*Habropoda laboriosa*), and various small solitary bees are the primary pollinators. The urceolate flower morphology requires sonication (buzz pollination) for efficient pollen release, a trait shared with other Vaccinium species. Studies of pollinator efficiency have found that *Habropoda laboriosa*, the southeastern blueberry bee, is the most effective pollinator of *V. tenellum*, achieving nearly twice the fruit set of honey bees when both are present. Native bee populations are therefore critical to reproductive success in wild populations.
 
 The dwarf blueberry provides cover and structural habitat diversity within the low-shub layer of pine-barrens and flatwoods ecosystems. The dense, woody mats protect ground-nesting birds from predators and buffer soil temperatures during extreme heat and cold events. In winter, the persistent stems and leaf litter moderate microclimate conditions for overwintering insects and amphibians.
-
-Avian frugivores that heavily utilize *V. tenellum* fruit include the eastern bluebird, gray catbird, hermit thrush, and American robin. These birds play a dual ecological role as both seed dispersers and as insectivores that help control herbivorous insect populations in Vaccinium habitats. The temporal coincidence of fruit ripening with peak bird migration in late summer maximizes long-distance seed dispersal potential.
-
-As an obligate ericoid mycorrhizal species, vaccinium tenellum depends on symbiotic associations with fungi of the order Sebacinales for nutrient uptake in its nutrient-poor native soils. These [[ericoid-mycorrhiza|ericoid mycorrhizal]] associations enable the plant to access organic nitrogen and phosphorus that would otherwise be unavailable, conferring a competitive advantage in acidic, low-fertility environments.
-
-The species is fire-adapted and resprouts vigorously from rhizomes following prescribed or wild fire. Post-fire resprouting typically occurs within 2–4 weeks, and flowering is often enhanced in the first growing season after fire due to reduced competition and increased light availability. Seed germination is also stimulated by fire through the removal of leaf litter and exposure of mineral soil seedbanks.
-
-Climate change poses potential threats to vaccinium tenellum populations through habitat loss, altered fire regimes, and sea-level rise in low-elevation coastal plain sites. The species is considered globally secure (G5) but is listed as threatened or endangered in several northern states at the edge of its range, including New Jersey and Pennsylvania. Conservation efforts focus on maintaining prescribed fire regimes and protecting coastal plain habitats from development. The species serves as an indicator of ecosystem health in fire-dependent pine-barrens communities, and its decline often signals broader habitat degradation. Several state and federal agencies have incorporated *V. tenellum* monitoring into their coastal plain ecosystem assessment protocols.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-myrtillus]]
-- [[vaccinium-vitis-idaea]]
-- [[ericoid-mycorrhiza]]
-- [[solidago-odora]]
-- [[achillea-millefolium]]
-- gaultheria-procumbens
-- [[kalmia-angustifolia]]

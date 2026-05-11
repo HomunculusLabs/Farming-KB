@@ -13,7 +13,7 @@ tags: [peyote, ayahuasca-churches, native-american-church, bwiti, iboga, syncret
 ## Overview
 
 Entheogenic folk religious ceremonies represent organized, communal uses of
-psychoactive plants within formally recognized church structures. Ralph Metzner
+psychoactive plants within formally recognized church structures. [[ralph-metzner]]
 (1998) distinguished these from both traditional [[metzner-shamanic-healing-and-divination-paradigm]] rituals (which
 emphasize healing and divination in small groups) and from [[shamanic-vs-western-psychedelic-healing]]
 psychotherapy (which operates within a clinical framework). Folk religious
@@ -37,7 +37,7 @@ rather than a sharp divide, but key distinctions include:
   vs. individual healing
 
 An important social function of these churches is reducing addiction. Native
-American Church membership correlates with reduced alcoholism, and Brazilian
+[[halpern-sacramental-peyote-and-native-american-church]] membership correlates with reduced alcoholism, and Brazilian
 ayahuasca church membership is associated with reduced addictions and
 psychopathologies.
 
@@ -46,14 +46,14 @@ psychopathologies.
 The Native American Church (NAC) is the most legally established entheogenic
 religion in [[psilocybin-north-america-pacific-northwest]]. Key features:
 
-- **Sacrament**: Peyote cactus (*Lophophora williamsii*)
+- **Sacrament**: Peyote cactus (*[[lophophora-williamsii]]*)
 - **[[ayahuasca-ceremony-structure-and-practice]]**: All-night ceremony in a tipi with central fire
 - **Leadership**: Roadman presides, assisted by drummer, firekeeper, and
   cedar-man (for purification)
 - **Music**: Staff and rattle passed around; near-constant singing of
   traditional peyote songs with rapid rhythmic beat
 - **Legal status**: Incorporated as a recognized religion; historically
-  protected for members with 25%+ Indian ancestry (legal protections eroded
+  protected for members with 25%+ Indian ancestry ([[sacramental-psychedelic-legal-protections]] eroded
   in recent court decisions)
 
 The NAC developed from the peyote traditions of multiple tribes. The Huichol
@@ -72,7 +72,7 @@ the hallucinogenic vine through mestizo or Indian ayahuasceros:
 - Ceremonies involve the entire congregation singing hymns led by women
 - Some ceremonies include dancing in simple rhythmic, swaying steps
 - Resembles African-American gospel services in structure
-- Several thousand members in Brazil; satellite centers in North America
+- Several thousand members in Brazil; satellite centers in [[guzman-psilocybin-mushrooms-north-america]]
   and Europe
 
 ### União do Vegetal (UDV)
@@ -87,57 +87,3 @@ the hallucinogenic vine through mestizo or Indian ayahuasceros:
 - Incorporates elements of Umbanda, an Afro-Brazilian religious movement
 - Involves contact with deceased ancestors and deities (*orixas*)
 - Ceremonies include both singing and dancing
-
-**Health research**: Charles Grob, Dennis McKenna, and colleagues confirmed
-that long-term ayahuasca use within church contexts is associated with no
-adverse health effects and with reduced incidence of addictions and
-psychopathologies. The churches are officially recognized and ayahuasca use
-is legal in Brazil within this framework.
-
-## Bwiti Cult (Iboga)
-
-The Bwiti cult among the Fang people of Gabon and Zaire uses the powerful
-hallucinogen iboga (from *[[plants-of-the-gods-tabernanthe-iboga-chemistry]]*), source of ibogaine:
-
-- **Origins**: Fang say they learned iboga use from Pygmies (deep forest
-  dwellers)
-- **Initiation**: Powerful death-rebirth experience described as "head
-  opening," enabling conversation with ancestor spirits
-- **Ceremony**: Temples with altars and ancestral/deity images; initiates
-  daubed with white mud; lengthy ceremonies with singing; mirrors allow
-  initiates to "see" ancestor spirits
-- **Pharmacological note**: Ibogaine may have specific action on cocaine
-  receptor sites in the brain, suggesting potential as a chemical
-  intervention for addiction
-
-## Protective Function Against Cultural Erosion
-
-Anthropologists have noted that [[metzner-syncretic-entheogenic-churches-brazil-bwiti]] serve as protective
-shields against two external pressures:
-1. **Christian missionaries**: Traditional lore provides a counterweight to
-   conversion pressures
-2. **Western consumer culture**: Organized ceremonial life offers
-   alternative community structures and values
-
-This protective function helps maintain cultural identity while providing
-genuine psychospiritual benefits to members.
-
-## Cultural Transformation Potential
-
-Metzner suggested these syncretic movements have brought entheogenic
-experiences "out of the context of shamanic healing rituals, where only a
-very limited number of people came into contact with them." By making
-profoundly spiritually transforming experiences accessible to large numbers
-of people across all walks of life, these movements may represent "the
-beginnings of a broader cultural transformation movement with significant
-impact."
-
-The legalization of ayahuasca churches in Brazil, and the legal protections
-historically afforded to the Native American Church, suggest models for how
-entheogenic religious practice might be accommodated within modern legal
-frameworks.
-
-## See Also
-- [[shamanism-and-hallucinogenic-plants]]
-- [[set-and-setting-model-psychedelic-therapy]]
-- [[metzner-syncretic-entheogenic-folk-ceremonies]]

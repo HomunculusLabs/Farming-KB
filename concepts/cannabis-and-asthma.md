@@ -15,7 +15,7 @@ updated: 2026-04-18
 Asthma is a chronic inflammatory disease of the airways affecting approximately 300 million people worldwide. Research from The [[blesching-cannabis-health-index-autoimmune-conditions]] documents a robust body of evidence from the 1970s showing that [[cannabis-anti-inflammatory-applications]] Target
 **Lu et al. (2006)**: "The cannabinergic system as a target for anti-inflammatory therapies." Current Topics in Medicinal Chemistry 6(13):1401-26.
 
-Comprehensive review establishing the cannabinoid system as a legitimate therapeutic target for inflammatory conditions including asthma.
+Comprehensive review establishing the cannabinoid system as a legitimate therapeutic target [[cannabis-for-inflammatory-conditions]] including asthma.
 
 ## Chronic Obstructive Pulmonary Disease (COPD)
 
@@ -33,12 +33,12 @@ Population-based study found that smoking marijuana (even heavy use) was not ass
 Rooibos tea showed selective bronchodilatory effects, with the flavonoid chrysoeriol identified as the active compound.
 
 ### Anise
-**Boskabady and Ramazani-Assari (2001)**: "Relaxant effect of Pimpinella anisum on isolated [[mollison-guinea-pig-integration-in-permaculture-gardens]] tracheal chains." Journal of Ethnopharmacology 74(1):83-88.
+**Boskabady and Ramazani-Assari (2001)**: "Relaxant effect of [[pimpinella-anisum]] on isolated [[mollison-guinea-pig-integration-in-permaculture-gardens]] tracheal chains." Journal of Ethnopharmacology 74(1):83-88.
 
 Anise (Pimpinella anisum) has relaxant effects on airway smooth muscle.
 
 ### Black Seed (Nigella sativa)
-**Boskabady et al. (2007)**: "The possible prophylactic effect of Nigella sativa seed extract in asthmatic patients." Fundamental and Clinical Pharmacology 21(5):559-66.
+**Boskabady et al. (2007)**: "The possible prophylactic effect of [[nigella-sativa]] seed extract in asthmatic patients." Fundamental and Clinical Pharmacology 21(5):559-66.
 
 Black seed (Nigella sativa) extract showed prophylactic effects against asthma in clinical patients.
 
@@ -62,7 +62,7 @@ Identified specific emotional patterns and personality characteristics associate
 ### Dream Patterns in Nocturnal Asthma
 **Monday, Montplaisir, and Malo (1987)**: "Dream process in asthmatic subjects with nocturnal attacks." American Journal of Psychiatry 144(5):638-40.
 
-Asthma patients with nocturnal attacks showed distinctive dream patterns, suggesting that nighttime anxiety and emotional processing affect airway function during sleep.
+Asthma patients with nocturnal attacks showed distinctive dream patterns, suggesting that nighttime anxiety and [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]] affect airway function during sleep.
 
 ### Nightmares and Lung Disease
 **Wood, Bootzin, Quan, and Klink (1993)**: "Prevalence of nightmares among patients with asthma and chronic obstructive airways disease." Dreaming 3(4):231-41.
@@ -87,21 +87,3 @@ Cannabis may address asthma on multiple levels simultaneously:
 ## Critical Safety Note
 
 **Smoking anything is contraindicated for asthma.** The bronchodilator studies from the 1970s used smoked marijuana for research purposes, but the heat, tar, and particulate matter of smoke can trigger asthma attacks. Modern approaches should use:
-
-- **Oral THC/CBD** (tinctures, capsules, edibles)
-- **Aerosolized cannabinoids** (vaporization at low temperatures, or nebulized preparations)
-- **Sublingual administration** (tinctures held under the tongue)
-
-Vaporization at controlled temperatures (below combustion, ~350-400°F) avoids the harmful byproducts of smoke while still delivering the bronchodilatory compounds.
-
-## Strain Selection
-
-- **High-CBD strains**: Anti-inflammatory without bronchial irritation from smoke
-- **Pinene-rich strains**: Alpha-pinene is a bronchodilator found in cannabis and many conifer trees
-- **Avoid**: Smoking any strain; vaporize or use oral/sublingual preparations only
-
-## Related
-
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-seed-selection-and-strain-types]]
-- [[cannabis-mind-body-medicine-integration]]

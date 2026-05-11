@@ -1,5 +1,5 @@
 ---
-title: Plant [[plant-vision-and-light-perception-mechanisms]] Perception
+title: Plant Vision Light Perception
 aliases:
   - Plant sight
   - Plant vision
@@ -10,10 +10,10 @@ tags:
   - botany
   - sensory-biology
 created: 2026-05-09
-source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
-Plants possess sophisticated light perception systems that rival animal
+Plants possess sophisticated [[chamovitz-ultraviolet-and-infrared-plant-light-perception]] systems that rival animal
 vision
 in complexity. While lacking eyes and a nervous system, they have
 evolved an
@@ -55,7 +55,7 @@ lets
 plants detect shading and adjust growth. Phytochromes also regulate seed
 germination and flowering.
 
-**Cryptochromes** are blue-light receptors involved in circadian rhythm
+**Cryptochromes** are blue-light receptors involved in [[chamovitz-circadian-rhythm-internal-clock-plants]]
 entrainment, de-etiolation, and flowering. They share structural
 similarity
 with DNA photolyase enzymes but serve signaling rather than repair
@@ -72,7 +72,7 @@ extract rich
 information from light signals. The red to far-red ratio reveals whether
 neighbors are shading a plant. [[coleman-persephone-months-winter-day-length]] provides seasonal cues that
 trigger
-flowering. Blue light intensity indicates whether the plant is above or
+flowering. [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]] intensity indicates whether the plant is above or
 below
 ground. Light direction guides growth orientation.
 
@@ -88,54 +88,3 @@ light cues alone.
 The phytochrome system is the most sophisticated light-detection
 mechanism in
 plants. Sunlight contains more red than far-red light, so plants in full
-sun
-have predominantly active Pfr phytochrome. When shaded by another plant,
-the
-shade filter absorbs red and transmits far-red light, shifting the
-balance
-toward Pr. This triggers shade-avoidance responses: stem elongation,
-leaf
-tilting toward light, and accelerated flowering.
-
-## Blue Light Responses
-
-Blue light triggers several distinct plant responses. Phototropins
-mediate
-directional bending of stems toward blue light sources. Chloroplasts
-move
-within leaf cells, accumulating at the surface under low light and
-retreating
-to cell sides under intense light. Stomatal opening is regulated by blue
-light
-through phototropin signaling.
-
-Cryptochromes synchronize the plant's circadian clock with the external
-light-dark cycle. Without cryptochromes, plants cannot maintain daily
-rhythms
-of gene expression, leaf movement, and [[arbuscule-isolation-metabolic-activity-assays]].
-
-## Memory of Light
-
-Plants exhibit a remarkable form of light memory. The phytochrome system
-retains information about previous light exposure for hours or days.
-Seeds
-buried in soil retain a memory of parental light conditions, influencing
-their
-germination requirements. This transgenerational memory ensures
-offspring
-germinate under conditions similar to those that succeeded for their
-parents.
-
-## See Also
-
-- [[phytochrome-photoreceptor]]
-- [[phototropism-darwin-plants]]
-- [[photoperiodism-plant-flowering]]
-- [[plant-sensory-biology-chamovitz]]
-
-## References
-
-- Chamovitz D (2012) What a Plant Knows. Oneworld Publications.
-- Darwin C, Darwin F (1880) The [[darwin-power-of-movement-in-plants]] in Plants.
-- Christie JM (2007) Phototropin blue-light receptors. Annu Rev Plant Biol.
-- Rizzini L, et al. (2011) Perception of UV-B by the Arabidopsis UVR8.

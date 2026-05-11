@@ -1,9 +1,10 @@
 ---
-title: aact-dissolved-oxygen-fine-bubble-aeration-ingham Critical Thresholds in comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide
+title: Ingham Dissolved Oxygen Critical Thresholds Compost Tea
 tags: [compost-tea, aact, oxygen, brewing, soil-foodweb, elaine-ingham, microbiology]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
@@ -13,17 +14,17 @@ type: concept
 
 ## Overview
 
-Dissolved oxygen (DO) concentration is the single most critical variable in [[elaine-ingham]]'s research has established clear thresholds that govern organism survival, particularly for the beneficial fungi essential to [[aact-disease-suppression-mechanisms-ingham]].
+Dissolved oxygen (DO) concentration is the single most critical variable in [[elaine-ingham]]'s research has established clear thresholds that govern organism survival, particularly for the [[cervantes-trichoderma-beneficial-fungi]] essential to [[aact-disease-suppression-mechanisms-ingham]].
 
 ## The Critical 5.5 ppm Threshold
 
-Beneficial fungi require a minimum dissolved oxygen concentration of **5.5 to 6 ppm** to survive and function. When oxygen levels drop below this threshold during brewing, composting, or in soil, the beneficial [[air-pollution-fungal-community-responses]] is rapidly lost. This finding has been replicated consistently across multiple tea brewers and compost samples tested at the Soil Foodweb laboratory.
+Beneficial fungi require a minimum dissolved oxygen concentration of **5.5 to 6 ppm** to survive and function. When oxygen levels drop below this threshold during brewing, [[composting]], or in soil, the beneficial [[air-pollution-fungal-community-responses]] is rapidly lost. This finding has been replicated consistently across multiple tea brewers and compost samples tested at the [[soil-foodweb]] laboratory.
 
 The consequences of oxygen dropping below 5.5 ppm are severe:
 
-- Beneficial [[aact-aeration-oxygen-management-ingham|AACT aeration and oxygen management]]
-- [[aact-troubleshooting-ingham|Compost tea troubleshooting]]
-- [[bacterial-vs-fungal-compost-teas|Bacterial versus fungal compost teas]]
+- Beneficial [[aact-aeration-oxygen-management-ingham]]
+- [[aact-troubleshooting-ingham]]
+- [[bacterial-vs-fungal-compost-teas]]
 ## Practical Applications
 
 Dissolved Oxygen Critical Thresholds in Compost Tea has a range of practical applications that make it relevant to
@@ -41,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -87,23 +88,3 @@ better results with each iteration of practice and experimentation.
 The greatest value from this topic often comes through integration
 with other systems and approaches. Rather than treating it in isolation,
 considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
-
-## See Also
-
-- [[ingham-clopyralid-chlordane-compost-contamination]]
-- [[ingham-paper-cardboard-fungal-foods-compost]]
-- [[ingham-yeasts-molds-compost-tea]]

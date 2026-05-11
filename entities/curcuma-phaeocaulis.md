@@ -88,26 +88,3 @@ The species favors warm, humid, shaded environments in evergreen broadleaf fores
 ## Cultivation
 
 Propagation is primarily by rhizome division. Rhizome segments with 2–3 buds are planted in spring at a spacing of 30–40 cm within rows, with 50–60 cm between rows. The crop requires partial shade (40–60% light reduction) and consistent moisture.
-
-Harvest occurs 9–12 months after planting, typically in late autumn to early winter when aerial parts senesce. Yields of fresh rhizome range from 15–25 tonnes per hectare under cultivated conditions. Post-harvest, rhizomes are washed, sliced, and dried in the sun or at low heat.
-
-Disease pressure includes rhizome rot caused by *Pythium* spp. and leaf spot from *Colletotrichum* species. Crop rotation with non-Zingiberaceae species and adequate drainage reduce disease incidence.
-
-## Quality Standards and Commerce
-
-Chinese Pharmacopoeia (2020 edition) specifies minimum quality criteria for *C. phaeocaulis* rhizome: curdione content ≥ 0.5% by HPLC, essential oil content ≥ 1.0% (mL/g), and moisture ≤ 15%. The drug is traded under the name **E Zhu** in Chinese herbal markets.
-
-Guangxi and Sichuan provinces are the [[lichens-primary-production-soil-formation-dighton]] regions, with Guangxi supplying approximately 60% of the national market. Dried rhizome wholesales at ¥40–80/kg depending on grade and curdione content.
-
-Adulteration with *C. kwangsiensis* or *C. wenyujin* rhizomes is common in commercial trade. DNA barcoding using ITS and matK regions is used for species authentication in quality control laboratories.
-
-## See Also
-
-- [[curcuma-zedoaria]]
-- [[curcuma-aromatica]]
-- [[curcumin]]
-- [[zingiber-officinale]]
-- [[amomum-subulatum]]
-- [[hedychium-coronarium]]
-- [[boesenbergia-rotunda]]
-- [[alpinia-galanga]]

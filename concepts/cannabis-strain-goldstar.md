@@ -88,24 +88,3 @@ be approached with respect by consumers with lower tolerance levels.
 
 The balanced nature of Goldstar's effects makes it potentially useful for
 medical cannabis patients seeking relief from conditions that respond to both
-mental stimulation and physical relaxation. The trippy cerebral effects may
-benefit patients dealing with treatment-resistant depression or creative blocks,
-while the body component could help with mild [[cannabis-pain-management-protocols]].
-
-## Classification
-
-Goldstar is classified as a sativa-dominant hybrid. The balance between the
-mostly-indica Sensi Star and mostly-sativa Malawi Gold creates a plant that
-expresses traits from both sides of its heritage, with growth characteristics
-leaning toward manageability while the effects lean toward the sativa
-experience.
-
-## See Also
-
-- [[cannabis-sativa]] - Overview of sativa cannabis varieties
-- terpenes - Aromatic compounds in cannabis
-- [[banana-kush]]
-- [[bruce-banner]]
-- [[chemdog]]
-- cinex
-- [[tangerine-dream]]

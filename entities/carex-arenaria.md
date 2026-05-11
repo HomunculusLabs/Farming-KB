@@ -25,7 +25,7 @@ The species is a vigorous coloniser of unstable sand, forming extensive mats thr
 
 Sand sedge is a distinctive component of strandline and foredune vegetation across its range. It can form near-monocultures spanning hundreds of square metres where conditions are favourable.
 
-The plant is highly tolerant of salt spray, wind exposure, and substrate instability. These adaptations make it one of the most successful dune-building species in temperate coastal ecosystems.
+The plant is highly tolerant of salt spray, wind exposure, and substrate instability. These adaptations make it one of the most successful dune-building species in temperate [[dighton-fungi-mangrove-coastal-ecosystems]].
 
 ## Taxonomy and Morphology
 
@@ -37,7 +37,7 @@ The inflorescence is a single terminal spike with female flowers at the top and 
 
 Rhizomes are dark brown, scaly, and can extend several metres horizontally. This extensive rhizome system is the species' most distinctive morphological feature.
 
-The root system is fibrous and relatively shallow, anchoring the plant in loose sandy substrates. New shoots emerge from rhizome nodes at regular intervals throughout the growing season.
+The root system is fibrous and relatively shallow, anchoring the plant in loose sandy substrates. New shoots emerge from rhizome nodes at regular intervals throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Flowering occurs from April to June across most of its range. Pollination is wind-mediated, and seeds are dispersed by wind and surface water flow.
 
@@ -73,47 +73,18 @@ The rhizomes form a dense mat that influences soil development by trapping organ
 
 Rabbits and hares occasionally graze the foliage, though the tough leaves make it a relatively unpalatable food source. Cattle grazing can help control excessive dominance in managed dune systems.
 
-Fungal associates include arbuscular mycorrhizal species that enhance nutrient uptake in nutrient-poor sands. Foliar fungal pathogens are rarely reported, possibly due to the harsh microclimate of dune habitats.
+Fungal associates include [[arbuscular-mycorrhizal-colonization-patterns]] species that enhance nutrient uptake in nutrient-poor sands. Foliar fungal pathogens are rarely reported, possibly due to the harsh microclimate of dune habitats.
 
 The species is a host for several gall midge species that induce deformities in the utricles. These galls are visible as swollen, discoloured structures on the inflorescence.
 
 ## Cultivation and Uses
 
-Sand sedge is occasionally cultivated for dune restoration and coastal erosion control. It is planted as a sand-binding species on reclaimed land and artificial dune systems.
+Sand sedge is occasionally cultivated for dune restoration and coastal [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]. It is planted as a sand-binding species on reclaimed land and artificial dune systems.
 
 In traditional medicine, a decoction of the rhizomes was used as a diuretic and for treating digestive complaints. These uses are largely historical and not supported by modern clinical evidence.
 
 The tough rhizomes were traditionally woven into mats and baskets in parts of northern Europe. This practice has largely disappeared with the availability of synthetic materials.
 
-In ecological landscaping, the species is valued for its low maintenance requirements and soil-binding capacity. It is unsuitable for small gardens due to its aggressive spreading habit.
+In [[growing-gourmet-mushrooms-mycelium-mycopermaculture-ecological-landscaping]], the species is valued for its low maintenance requirements and soil-binding capacity. It is unsuitable for small gardens due to its aggressive spreading habit.
 
-Propagation is primarily vegetative, using sections of rhizome planted directly into sandy substrate. Seed germination rates are relatively low, making vegetative propagation the preferred method for large-scale planting.
-
-The species performs best in USDA hardiness zones 4–8. It requires no supplemental irrigation once established and tolerates extreme exposure.
-
-In green roof and brownfield restoration projects, sand sedge has been trialled as a pioneer species on sandy substrates. Its performance on anthropogenic soils is generally good where drainage is adequate.
-
-## Conservation
-
-The species is not considered threatened globally and is classified as Least Concern by most European conservation assessments. However, coastal development and dune stabilisation management practices can reduce its habitat extent in some regions.
-
-In areas where it has been introduced outside its native range, it is monitored as a potential invasive species. Management typically involves controlled grazing or mechanical removal.
-
-Climate change poses both opportunities and threats to sand sedge populations. Rising sea levels may expand available dune habitat, while increased storm intensity could accelerate erosion of established dune systems.
-
-The species is protected under various national conservation designations within parts of its range. In the Netherlands and Germany, coastal dune habitats supporting Carex arenaria are designated under the EU Habitats Directive.
-
-Long-term monitoring of dune vegetation shows that sand sedge remains abundant across most of its European range. However, nitrogen deposition from atmospheric pollution may be altering its competitive relationships with other dune species.
-
-## See Also
-
-- [[carex-stricta]]
-- [[carex-rostrata]]
-- [[carex-aquatilis]]
-- [[carex-flava]]
-- [[carex-lupulina]]
-- [[juncus-effusus]]
-- [[schoenoplectus-lacustris]]
-- [[eleocharis-palustris]]
-- [[typha-angustifolia]]
-- [[phragmites-australis]]
+Propagation is primarily vegetative, using sections of rhizome planted directly into sandy substrate. Seed germination rates are relatively low, making [[hamilton-vegetative-propagation]] the preferred method for large-scale planting.

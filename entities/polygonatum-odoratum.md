@@ -18,11 +18,11 @@ sources:
 
 # Polygonatum odoratum
 
-**Polygonatum odoratum** (fragrant Solomon's seal, scented Solomon's seal) is a rhizomatous perennial herb in the family Asparagaceae. It is native to temperate regions of Europe and Asia, ranging from the British Isles to Japan.
+**Polygonatum odoratum** (fragrant Solomon's seal, scented Solomon's seal) is a rhizomatous perennial herb in the family Asparagaceae. It is native to [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and Asia, ranging from the British Isles to Japan.
 
 The species is valued in both traditional Chinese medicine and European herbalism for its tonifying and anti-inflammatory properties. The dried rhizome, known as "yu zhu" in Chinese pharmacopoeia, is a widely traded botanical.
 
-In horticulture, P. odoratum is appreciated for its arching stems, paired leaves, and pendulous tubular flowers. It is a classic shade garden plant with a long history of cultivation.
+In horticulture, P. odoratum is appreciated for its arching stems, paired leaves, and pendulous tubular flowers. It is a classic [[hamilton-shade-garden-plants]] plant with a long history of cultivation.
 
 ## Taxonomy and Morphology
 
@@ -54,13 +54,13 @@ The plant is cold-hardy to USDA Zone 3 and tolerates prolonged freezing. In cont
 
 P. odoratum is easily cultivated in shade to partial shade gardens. It requires moist, organic-rich soil and is intolerant of waterlogged conditions or prolonged drought.
 
-Propagation is achieved through rhizome division in early spring or autumn. Seeds require a warm-cold stratification cycle and may take 1–2 years to germinate.
+Propagation is achieved through rhizome division in [[coleman-overwintered-onions-and-early-spring-crops]] or autumn. Seeds require a warm-cold stratification cycle and may take 1–2 years to germinate.
 
 Established clumps are long-lived and can persist for 50+ years in garden settings. The rhizomes gradually increase in size, forming dense colonies that can be divided periodically for propagation.
 
 Container cultivation is possible in large pots with a well-drained, peat-based medium. Plants in containers require more frequent watering than those in garden soil.
 
-The plant is relatively pest-free, though slugs and snails may damage young shoots. Deer generally avoid browsing Polygonatum due to mild toxicity of the foliage.
+The plant is relatively pest-free, though [[jadam-pesticide-for-slugs-and-snails]] may damage young shoots. Deer generally avoid browsing Polygonatum due to mild toxicity of the foliage.
 
 In traditional Chinese medicine, the rhizome is used to nourish yin, moisten the lungs, and relieve thirst. It is prescribed for dry cough, diabetes symptoms, and fatigue.
 
@@ -84,29 +84,6 @@ Anti-diabetic effects have been documented in streptozotocin-induced diabetic ra
 
 Anti-inflammatory and antioxidant activities are attributed to flavonoid constituents including luteolin, apigenin, and their glycosides. These compounds inhibit NF-κB signaling and reduce pro-inflammatory cytokine production.
 
-The rhizome also contains convallamarin, a cardiac glycoside shared with Convallaria majalis. Concentrations are too low to produce therapeutic cardiac effects at standard medicinal doses.
+The rhizome also contains convallamarin, a cardiac glycoside shared with [[convallaria-majalis]]. Concentrations are too low to produce therapeutic cardiac effects at standard medicinal doses.
 
-Total saponin content in the dried rhizome ranges from 2–5%, depending on harvest time and geographic origin. Fall-harvested rhizomes generally yield higher saponin concentrations.
-
-Quality control standards for commercial "yu zhu" specify minimum polysaccharide content of 6% and maximum moisture content of 15%. Adulteration with related Polygonatum species is common in the herbal trade.
-
-## Ecological Role
-
-The pendulous flowers of P. odoratum are pollinated primarily by long-tongued bumblebees and solitary bees. The tubular corolla restricts access to insects with sufficiently long probosces.
-
-The blue-black berries are dispersed by birds and small mammals. Frugivorous birds, including thrushes and blackbirds, consume the fruit and excrete the seeds at some distance from the parent plant.
-
-In forest ecosystems, P. odoratum contributes to the herbaceous layer diversity. Its early-season growth captures spring sunlight before the tree canopy fully closes.
-
-The creeping rhizomes help stabilize soil on shaded slopes and stream banks. The dense root mat reduces surface erosion in woodland settings.
-
-## See Also
-
-- [[polygonatum-biflorum]]
-- [[panax-ginseng]]
-- [[panax-quinquefolius]]
-- [[withania-somnifera]]
-- [[schisandra-chinensis]]
-- [[convallaria-majalis]]
-- [[rhodiola-rosea]]
-- [[astragalus-membranaceus]]
+Total saponin content in the dried rhizome ranges from 2–5%, depending on [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]] and geographic origin. Fall-harvested rhizomes generally yield higher saponin concentrations.

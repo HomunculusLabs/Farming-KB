@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # G-3
 
-PIHKAL entry #82. 2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;.
+[[2c-b-pihkal-entry-20]] #82. 2,5-DIMETHOXY-3,4-(TRIMETHYLENE)AMPHETAMINE;.
 
 ## Chemical Name
 
@@ -88,22 +88,3 @@ through a cottage cheese stage into a loose, filterable texture. The
 solids were removed by filtration, washed with additional THF, and the
 combined filtrates and washes stripped of solvent under vacuum. There
 was obtained 2.51 g of a white oil that was distilled at 115-135 deg C at
-0.2 mm/Hg to give 1.83 g of a clear colorless oil. This was dissolved
-in 8 mL IPA, neutralized with 28 drops of concentrated HCl, and
-diluted with 140 mL anhydrous Et2O. In about 0.5 h there started a
-slow snowfall of fine fluffy white crystals which was allowed to
-continue until no additional crystals appeared. After filtering, Et2O
-washing and air drying, there was obtained 1.81 g of
-2,5-dimethoxy-3,4-(trimethylene)amphetamine hydrochloride (G-3) with a
-mp of 157-159 deg C. Anal. (C14H22ClNO2) C,H.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited shulgin [[shulgin-safety-principles-self-experimentation]] and should not be taken as established safe doses. Many PIHKAL compounds are potent and psychoactive substances that may carry unknown risks. Mckenna [[2c-g-3-entity-pihkal]]
-- [[2c-g-5-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
-- [[tma-5-entity-pihkal]]

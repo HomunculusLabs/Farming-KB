@@ -88,16 +88,3 @@ Climate change may significantly alter mycorrhizal function and distribution.
 Elevated atmospheric CO2 generally increases carbon allocation to mycorrhizal fungi, potentially enhancing nutrient uptake.
 However, warming temperatures and altered precipitation patterns can shift the composition of mycorrhizal communities, with unknown consequences for ecosystem productivity.
 Understanding these dynamics is critical for predicting how forests and grasslands will respond to ongoing environmental change.
-
-## See Also
-
-- [[ophrys-apifera]]
-
-- [[cypripedium-calceolus]]
-
-- [[leucocoprinus-birnbaumii]]
-- [[mycelium]]
-- [[ectomycorrhiza]]
-- [[ericoid-mycorrhiza]]
-- [[arbuscular-mycorrhizal-fungi]]
-- [[mycorrhizal-networks]]

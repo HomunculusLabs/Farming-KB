@@ -22,9 +22,9 @@ created: 2026-05-07
 
 ## Overview
 
-Rainbow Chips is a modern hybrid cannabis strain bred by Capulator, the renowned
+Rainbow Chips is a modern [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain bred by Capulator, the renowned
 California breeder behind Cap Junky and MAC. A cross between Cap Junky (Alien
-Cookies × Miracle 15) and Mimosa (Purple Punch × Clementine), it combines heavy
+Cookies × Miracle 15) and Mimosa ([[purple-punch]] × Clementine), it combines heavy
 [[cannabis-glandular-trichome-types-resin-production-clarke]] with vibrant terpene expression.
 
 Released in the early 2020s, Rainbow Chips quickly gained recognition in the
@@ -35,13 +35,13 @@ seed availability.
 ## Lineage
 
 The maternal side, Cap Junky, contributes massive trichome density and a pungent
-diesel-garlic funk. Cap Junky itself is a cross of Alien Cookies (Girl Scout
+diesel-garlic funk. Cap Junky itself is a cross of [[miracle-alien-cookies]] (Girl Scout
 Cookies × Alien Kush) and Miracle 15, selected by Capulator for extreme resin
 gland size and potency.
 
 The paternal side, Mimosa, adds bright citrus and tropical fruit notes alongside
 uplifting cerebral effects. Mimosa was bred by Symbiotic Genetics and has become
-a staple parent in modern exotic breeding for its orange-peel terpene profile.
+a staple parent in modern exotic breeding for its orange-peel [[cannabis-terpene-profile]].
 
 The resulting Rainbow Chips expresses approximately 50/50 indica-sativa heritage,
 though phenotype-dependent variations can lean slightly indica-dominant in
@@ -50,7 +50,7 @@ flowering structure.
 ## Appearance
 
 Rainbow Chips produces dense, chunky buds with a pronounced conical structure
-reminiscent of its Girl Scout Cookies lineage. The flowers display deep purple
+reminiscent of its [[girl-scout-cookies]] lineage. The flowers display deep purple
 and [[trichoderma-forest-green-mold-guide]] coloration with vivid orange pistils threading throughout.
 
 The trichome coverage is exceptionally heavy, giving buds a frosted, almost
@@ -84,36 +84,7 @@ funk), and myrcene (earthy sedation), with supporting contributions from
 linalool and humulene. Total terpene content typically ranges from 2.5–4%.
 
 THC levels are high, consistently testing between 25–32% in cultivated samples.
-CBD content is negligible, generally below 0.1%. Minor cannabinoids including
+CBD content is negligible, generally below 0.1%. [[cannabis-minor-cannabinoids]] including
 THCV and CBC may be present in trace amounts.
 
 The limonene-dominant profile, unusual for a Cookies-lineage strain, is
-attributed to the Mimosa parent and distinguishes Rainbow Chips from many other
-Cap Junky crosses.
-
-## Effects and Cultivation
-
-Effects onset is rapid, beginning with a cerebral rush of euphoria and creative
-energy characteristic of the Mimosa lineage. This transitions into a deeply
-relaxing body stone that reflects the indica-dominant Cap Junky influence.
-
-Common reported effects include elevated mood, increased sociability, and
-physical relaxation. At higher doses, sedative couch-lock effects become
-pronounced. The strain is popular for evening and weekend use.
-
-Cultivation difficulty is rated moderate to advanced. Flowering time averages
-8–10 weeks indoors, with yields of 400–500 g/m². The strain responds well to
-low-stress training and trellising to support heavy bud development. Outdoor
-cultivation is possible in warm, Mediterranean climates with harvest in
-mid-October.
-
-## See Also
-
-- [[rainbow-gtz]]
-
-- [[sunset-sherbet]]
-- [[girl-scout-cookies]]
-- [[zookies-cannabis]]
-- [[wedding-cake]]
-- jungle-cake
-- [[georgia-pie]]

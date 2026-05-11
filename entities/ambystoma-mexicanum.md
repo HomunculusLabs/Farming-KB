@@ -27,7 +27,7 @@ Unlike most amphibians, axolotls retain larval features throughout their lives, 
 
 Adults typically reach 15–45 cm in total length, though captive specimens often exceed 30 cm. The species exhibits a range of color morphs, including wild-type brown, leucistic (pale pink), golden albino, and melanoid (nearly black).
 
-The axolotl is critically endangered in the wild but thrives globally in laboratory and pet populations. It serves as a primary model organism for studying limb regeneration, heart repair, and [[blesching-cannabis-spinal-cord-injuries]] recovery.
+The axolotl is critically endangered in the wild but thrives globally in laboratory and pet populations. It serves as a primary [[canary-grass-phototropism-model-organism]] for studying limb regeneration, heart repair, and [[blesching-cannabis-spinal-cord-injuries]] recovery.
 
 The name "axolotl" derives from the Nahuatl language of the Aztecs, combining *atl* (water) and *xolotl* (dog), referencing the Aztec deity Xolotl. In Aztec mythology, Xolotl transformed into an axolotl to avoid being sacrificed.
 
@@ -69,11 +69,11 @@ The species is benthic, spending most of its time on the substrate. It hides amo
 
 Axolotls are opportunistic carnivores, feeding on worms, insects, small crustaceans, and small fish. In captivity, they accept a variety of prepared foods including bloodworms, earthworms, and pelleted diets.
 
-Urban expansion, water extraction, and pollution have severely degraded the Xochimilco canal system. Agricultural runoff containing pesticides and fertilizers further reduces water quality in remaining habitat.
+Urban expansion, water extraction, and pollution have severely degraded the Xochimilco canal system. [[mycofiltration-of-agricultural-runoff]] containing pesticides and fertilizers further reduces water quality in remaining habitat.
 
 ## Regeneration and Biomedical Research
 
-Axolotls can regenerate entire limbs, spinal cord segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
+Axolotls can regenerate entire limbs, [[cannabis-spinal-cord-injury-treatment]] segments, heart tissue, portions of the brain, and jaw structures without scarring. Regenerated structures are functionally and morphologically indistinguishable from originals.
 
 The regeneration process involves dedifferentiation of mature cells at the wound site, forming a mass of progenitor cells called a blastema. These cells proliferate and redifferentiate into the appropriate tissue types, guided by positional memory encoded in the blastema cells.
 
@@ -88,34 +88,3 @@ The species has been used in research since the 1860s, when French shipments fir
 Axolotls have contributed to fundamental discoveries in developmental biology, including the Spemann organizer concept. They remain the only tetrapod model in which limb regeneration can be studied at the molecular level in adult animals.
 
 Axolotls are unusual among tetrapods in being capable of regenerating large portions of their spinal cord. Severed spinal cords reconnect within weeks, with animals recovering locomotor function even after complete transection.
-
-Research on axolotl regeneration has identified key roles for macrophages in the early wound-healing phase. Removal of macrophages results in fibrotic scarring and failed regeneration, suggesting that [[mushroom-immune-cell-activation-mechanisms]] signaling is essential for proper tissue regrowth.
-
-The Ambystoma Genetic Stock Center at the University of Kentucky maintains the primary reference colony of axolotls for research. This facility distributes axolotl embryos, larvae, and adults to laboratories worldwide.
-
-## Conservation Status
-
-**Ambystoma mexicanum** is classified as **Critically Endangered** on the IUCN Red List, with wild populations declining by more than 99% since the 1990s.
-
-Field surveys in 2013–2014 estimated the wild population at fewer than 50 individuals per square kilometer in Xochimilco. The species is considered functionally extinct in the wild by some researchers, surviving only through captive breeding.
-
-Major threats include urbanization and habitat destruction, water pollution, and introduction of non-native fish species. Tilapia and carp prey on axolotl eggs and juveniles, severely limiting recruitment.
-
-Water contamination by [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and organic pollutants from Mexico City's wastewater further degrades habitat quality. The remaining canal water is often turbid and eutrophic, reducing visibility and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] levels.
-
-Conservation efforts include the construction of axolotl shelters (refugia) in Xochimilco canals, designed to exclude fish predators. A captive [[cervantes-breeding-program-design-goal-setting]] at the Universidad Nacional Autónoma de México maintains a genetically diverse colony.
-
-Chinampas (traditional Mesoamerican floating gardens) restoration in Xochimilco has been identified as a key strategy for habitat recovery. These systems filter water and provide the vegetated structure that axolotls require.
-
-Ecotourism centered on axolotl-watching in Xochimilco has generated both conservation funding and community engagement. However, unregulated tourism can disturb breeding sites if not carefully managed.
-
-## See Also
-
-- [[amanita-phalloides]]
-- [[bufotenin]]
-- [[claviceps-purpurea]]
-- [[fungal-conservation-endangered-species]]
-- [[fungal-responses-climate-change]]
-- [[gaias-garden-backyard-wetland]]
-- [[permaculture-polyculture-fish-pond]]
-- [[rana-temporaria]]

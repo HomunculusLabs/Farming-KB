@@ -29,9 +29,9 @@ sources:
 ## Overview
 
 Eucalyptol, also known as 1,8-cineole, is a monoterpene cyclic ether
-found in the essential oils of numerous aromatic plant species. It is
+found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of numerous aromatic plant species. It is
 the principal component of eucalyptus oil (comprising 60–90% of
-*Eucalyptus globulus* essential oil) and occurs significantly in
+*[[eucalyptus-globulus]]* essential oil) and occurs significantly in
 rosemary, tea tree, bay laurel, and basil.
 
 Widely used in medicine, dentistry, and food flavoring, eucalyptol
@@ -63,9 +63,9 @@ pathways:
   reducing pro-inflammatory cytokine production. Demonstrated in both
   in vitro macrophage models and clinical asthma trials.
 - **TRPM8 modulation:** Mild agonist activity at the cold-sensing
-  TRPM8 receptor, producing a cooling sensation similar to menthol
+  TRPM8 receptor, producing a cooling sensation similar to [[menthol]]
   but less intense.
-- **Antimicrobial:** Disrupts bacterial cell membrane integrity through
+- **Antimicrobial:** Disrupts bacterial [[plant-cell-membrane-transport-proteins]] integrity through
   its lipophilic properties. Active against gram-positive bacteria
   (*Streptococcus*, *Staphylococcus*), some gram-negative species,
   and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]*.
@@ -87,58 +87,3 @@ Clinical studies have demonstrated efficacy in:
   component of antiseptic mouthwash
 
 ## Natural Sources
-
-| Plant Species | Common Name | Eucalyptol Content |
-|---|---|---|
-| *Eucalyptus globulus* | Blue gum | 60–90% of essential oil |
-| *Eucalyptus radiata* | Narrow-leaved peppermint | 65–75% |
-| *Rosmarinus officinalis* | Rosemary | 10–40% |
-| *Melaleuca alternifolia* | Tea tree | 1–15% |
-| *Ocimum basilicum* | Sweet basil | 5–30% |
-| *Laurus nobilis* | Bay laurel | 30–50% |
-| *Salvia officinalis* | Sage | 15–40% |
-| *Cinnamomum camphora* | Camphor | 20–50% |
-
-## Toxicity and Safety
-
-- **LD₅₀ (oral, rat):** 2,480 mg/kg
-- **NOAEL:** 400 mg/kg/day (90-day subchronic, rat)
-- **GRAS status:** Generally recognized as safe by US FDA at intended
-  use levels in food
-- **Maximum daily intake (SCF):** 0–0.5 mg/kg body weight
-
-⚠️ Eucalyptol can cause seizures in children at high oral doses.
-Essential oils containing eucalyptol should not be ingested by
-children under 6. Topical application is generally well tolerated.
-
-## Industrial and Agricultural Uses
-
-- **Pharmaceuticals:** Cough lozenges, inhalers, chest rubs, and
-  oral hygiene products
-- **Food and beverage:** Flavoring agent for confectionery, beverages,
-  and meat products
-- **Perfumery:** Fixative and fresh top-note in fragrances and soaps
-- **Agriculture:** [[jadam-natural-pesticide-institute-and-research]] and repellent; eucalyptus oil
-  sprays deter aphids and whiteflies in [[coleman-deep-organic-farming-philosophy]]
-- **Permaculture:** Eucalyptus species planted as windbreaks yield
-  pruning material rich in eucalyptol for mulch and extraction
-
-## Related Compounds
-
-- **Camphor:** Bicyclic monoterpene ketone with similar cooling
-  and respiratory applications
-- **Menthol:** Acyclic monoterpene alcohol with stronger TRPM8
-  agonism and analgesic properties
-- **Alpha-pinene:** Primary monoterpene in many eucalyptus species;
-  precursor in eucalyptol biosynthesis
-- **1,4-Cineole:** Structural isomer with distinct pharmacological
-  activity and more limited [[brassinosteroid-natural-occurrence-plant-kingdoms]]
-
-## See Also
-
-- [[rosmarinus-officinalis-entity]] contains significant eucalyptol
-in its essential oil alongside other bioactive terpenes.
-[[salvia-officinalis]] are
-herbal sources that contribute eucalyptol to traditional medicine
-preparations. [[thujone]] shares the monoterpene class and occurs
-in several of the same plant families.

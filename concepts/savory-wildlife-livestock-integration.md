@@ -87,33 +87,3 @@ This guideline is particularly relevant when wildlife management decisions affec
 Several practical approaches to wildlife-livestock integration have proven effective:
 
 **Wildlife corridors**: Designing ranch layouts to maintain movement corridors between wildlife habitats, connecting fragmented populations.
-
-**Seasonal compatibility**: Timing livestock use to avoid critical wildlife periods—nesting seasons, migration corridors, calving periods.
-
-**Habitat enhancement**: Using livestock impact to improve wildlife habitat—breaking capped surfaces, creating wallows, stimulating new growth that benefits both livestock and wildlife.
-
-**Predator coexistence**: Where predators remain, developing nonlethal deterrents, livestock guarding practices, and compensation mechanisms rather than defaulting to predator removal.
-
-**Monitoring and adaptation**: Regular monitoring of both livestock performance and wildlife populations, adjusting management as needed.
-
-## The Energy/Wealth Source and Use Guideline
-
-Another testing guideline relevant to integration decisions concerns **Energy/Wealth Source and Use**. This requires evaluating whether management decisions:
-
-- Strengthen or weaken the community's ability to support itself
-- Draw on local energy sources (solar, biological, human) or depend on external inputs
-- Create true wealth or merely consume it
-- Leave the resource base in better or worse condition for future generations
-
-Wildlife, as a self-sustaining resource requiring no external energy inputs, scores well against this guideline. Livestock operations that integrate wildlife tend to be more energy-efficient and self-reliant than those that depend heavily on purchased inputs.
-
-## Sources
-
-- Savory, Allan. *[[savory-holistic-resource-management-animal-impact]] Management*, Chapters 12, 38, 39. Island Press, 1988.
-
-## See Also
-
-- [[livestock-fencing-guide]]
-- permaculture-designers-manual-grazing-management
-- [[glomalin-and-soil-carbon]]
-- [[permaculture-design]]

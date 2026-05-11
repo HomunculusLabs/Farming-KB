@@ -88,18 +88,3 @@ It is worth noting that the absence of direct evidence for McKenna's hypothesis 
 See also:
 - [[psychedelic-mushroom-set-and-setting]]
 - [[mckenna-ur-plant-hypothesis]]
-- [[mckenna-human-cognition-and-the-stoned-age]]
-- [[psychedelic-mushroom-history]] provides a broad context for understanding McKenna's specific claims
-
-## Significance in Psychedelic Thought
-
-McKenna's work represents one of the most ambitious attempts to construct a comprehensive theory of the role of psychoactive plants in human history and culture. While academic anthropologists have been skeptical of many specific claims, his ideas have been enormously influential in psychedelic culture and continue to inspire research into the relationship between psychoactive substances and human consciousness. The concept of an [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]] — the recovery of ancient plant-based wisdom — has resonated with the growing interest in ethnobotany, ecological consciousness, and the therapeutic potential of psychedelic substances documented in [[mckenna-food-of-the-gods-thesis]], which traces the relationship between humans and psychoactive plants from prehistory to the present. The themes explored here connect directly to his discussions of [[mckenna-archaic-revival]] as counter-movements to the suppression of plant-based ecstatic religion.
-
-## See Also
-
-- [[mckenna-prehistoric-imagination-and-consciousness-patterns]]
-
-- [[mckenna-food-of-the-gods-thesis]]
-- [[psychedelic-mushroom-history]]
-- [[psychedelic-plants-and-civilization]]
-- [[psychedelic-mushroom-set-and-setting]]

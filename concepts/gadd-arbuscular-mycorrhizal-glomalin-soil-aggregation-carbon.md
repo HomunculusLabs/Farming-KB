@@ -88,34 +88,3 @@ This functional distinction maps onto biome types:
 | AM | Glomalin-mediated macroaggregate stabilization | Grasslands, tropical forests, agricultural soils |
 
 ## AM Hyphae Resistance to Grazing
-
-An important factor in glomalin accumulation is the resistance of AM hyphae to soil fauna: "They are much less palatable to fungal-feeding collembolans than are saprotrophic fungi" (Gange, 2000). This reduced palatability means AM hyphae persist longer in soil, continuing to produce and deposit glomalin. The thickened cell walls of main arterial hyphae further protect against grazing and physical degradation.
-
-## Implications for Agriculture and Land Management
-
-### Agricultural Soils
-
-AM-dominated ecosystems (including most agricultural soils) rely on glomalin-mediated aggregation for soil structure maintenance. Practices that disrupt AM networks — intensive tillage, fallow periods, high phosphorus fertilization — reduce glomalin production and can lead to aggregate breakdown, soil compaction, and accelerated carbon loss.
-
-### Carbon Sequestration Potential
-
-The quantification of glomalin's contribution to stable SOC pools (4–15% depending on ecosystem) has significant implications for carbon accounting and climate change mitigation strategies. Management practices that promote AM fungal abundance and diversity — reduced tillage, cover cropping, diverse rotations — may enhance glomalin production and associated carbon sequestration.
-
-### Research Gaps
-
-Leake identifies several unresolved questions: the optimal timing for sampling mycorrhizal mycelium for total labelled carbon remains uncertain, the balance between carbon transfer rates, respiration rates, and carbon incorporation into hyphal storage and growth is not fully understood, and the specific factors controlling glomalin residence time variation across the 6–42 year range are still being investigated.
-
-### Pulse-Labelling Studies
-
-Carbon flow from host plants to AM fungi has been studied using isotope pulse-labelling techniques. Labelled carbon from AM hyphae is maximal 12–16 hours after pulse-labelling of plants (Johnson et al., 2002a), but the optimal time for sampling mycorrhizal mycelium for total labelled carbon remains uncertain. Many studies have used relatively long fixation periods or taken first samples many days after labelling, potentially missing rapid carbon transfers that occur within the first 24 hours.
-
-A fuller knowledge of the rates, routes, and fate of carbon fluxes through mycelium of all three major mycorrhizal types (ERM, EM, AM) is required to resolve these methodological difficulties and improve carbon budget estimates.
-
-## See Also
-
-- Mycorrhizal Fungi and Carbon Cycling
-- Arbuscular Mycorrhizal Fungi and Plant Nutrient Uptake
-- Soil Aggregate Formation and Stability
-- Soil Organic Matter Decomposition and Humus Formation
-- Ectomycorrhizal Nutrient Cycling in Boreal Forests
-- Ericoid Mycorrhiza and Litter Decomposition

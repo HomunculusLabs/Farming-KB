@@ -46,9 +46,9 @@ Rhizomes are thick, fleshy, and pale yellow internally, with a ginger-like aroma
 
 Hedychium coronarium is native to the eastern Himalayan foothills, northeast India, Nepal, Bhutan, Bangladesh, Myanmar, and southern China (Yunnan, Guangxi, Guizhou). It grows naturally in moist forests, stream banks, marshy areas, and forest margins at elevations of 100–1800 m.
 
-The species has been widely introduced as an ornamental and has naturalized in tropical and subtropical regions worldwide. Major naturalized populations exist in Hawaii, Fiji, Samoa, Brazil, Costa Rica, Jamaica, Puerto Rico, South Africa, Mauritius, and the southeastern United States (Florida, Louisiana, Texas).
+The species has been widely introduced as an ornamental and has naturalized in tropical and subtropical regions worldwide. Major naturalized populations exist in Hawaii, Fiji, Samoa, Brazil, Costa Rica, Jamaica, Puerto Rico, South Africa, Mauritius, and the southeastern [[dmt-containing-plants-united-states-halpern]] (Florida, Louisiana, Texas).
 
-In Hawaii, H. coronarium is classified as a highly invasive species that forms dense monocultures along stream banks, displacing native riparian vegetation and altering ecosystem function. The dense rhizome mats impede water flow and increase streambank erosion during floods.
+In Hawaii, H. coronarium is classified as a highly invasive species that forms dense monocultures along stream banks, displacing native riparian vegetation and altering [[dighton-mycorrhizal-diversity-ecosystem-function]]. The dense rhizome mats impede water flow and increase streambank erosion during floods.
 
 The species is listed as a noxious weed in several jurisdictions and is prohibited from sale in parts of Australia, New Zealand, and Hawaii. Despite its invasive potential, it remains widely available in the ornamental horticulture trade in regions where it has not yet become problematic.
 
@@ -69,9 +69,9 @@ In Thai traditional medicine, rhizome preparations are prescribed for asthma, br
 **Documented pharmacological activities include:**
 
 - **Anti-inflammatory:** Rhizome extracts inhibit COX-2, LOX, and TNF-α production in vitro. Coronarin D is the primary anti-inflammatory diterpene, reducing edema in carrageenan-induced inflammation models.
-- **Antimicrobial:** Essential oil demonstrates activity against Gram-positive bacteria, including methicillin-resistant *Staphylococcus aureus*, and several Candida species. Activity is primarily attributed to linalool and 1,8-cineole.
+- **Antimicrobial:** Essential oil demonstrates activity against Gram-positive bacteria, including methicillin-resistant *[[staphylococcus-aureus]]*, and several Candida species. Activity is primarily attributed to linalool and 1,8-cineole.
 - **Antioxidant:** Methanol extracts show significant free radical scavenging activity. The antioxidant capacity is attributed to flavonoid and phenolic acid constituents.
-- **Anticancer:** Coronarin D induces apoptosis in human cancer cell lines including leukemia and breast cancer. The mechanism involves mitochondrial membrane depolarization and caspase-3 activation.
+- **Anticancer:** Coronarin D induces apoptosis in human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines including leukemia and [[blesching-cannabis-breast-cancer]]. The mechanism involves mitochondrial membrane depolarization and caspase-3 activation.
 
 ⚠️ No [[mushroom-cancer-clinical-trials-overview]] have validated the traditional medicinal uses of H. coronarium. The invasive status of the species in many regions complicates commercial development of therapeutic products.
 
@@ -81,32 +81,10 @@ Hedychium coronarium is one of the most widely cultivated ornamental gingers in 
 
 In Hawaiian culture, the flowers are strung into *lei* for ceremonial occasions, weddings, and hospitality greetings. The flowers hold particular significance in Hawaiian hula traditions and are considered sacred in some cultural contexts.
 
-In India, the flowers are used in temple offerings, wedding garlands, and traditional perfumery. The fragrance is extracted for use in attar and traditional Indian fragrance preparations. In Bangladesh, the flower is the national flower and features prominently in Bengali literature and art.
+In India, the flowers are used in temple offerings, wedding garlands, and traditional perfumery. The fragrance is extracted for use in attar and traditional Indian fragrance preparations. In Bangladesh, the flower is the national flower and features prominently in Bengali [[fly-agaric-in-victorian-literature-and-art]].
 
 The species is a popular garden plant in subtropical regions of the United States, particularly Florida and the Gulf Coast. Several cultivars with variations in flower size, fragrance intensity, and plant height have been selected by horticultural breeders.
 
 In perfumery, the flower absolute of H. coronarium is used as a base note in high-end fragrances. The scent profile is described as tropical, floral, and slightly spicy, with honey-like sweetness. Production of concrete and absolute from fresh flowers is practiced on a small scale in India and the Philippines.
 
 ## Cultivation
-
-Hedychium coronarium is propagated by rhizome division in spring. Rhizome pieces with 2–3 viable buds are planted 5–10 cm deep and spaced 60–90 cm apart. The species is adaptable to a wide range of soil types but performs best in moist, humus-rich soils.
-
-Partial shade to full sun is tolerated, with flowering most prolific in partial shade. Consistent moisture is essential; the species thrives in boggy or waterside conditions that would kill most other garden plants. Hardiness ranges from USDA zones 7b–11, with the rhizome surviving winter dormancy in zone 7b with heavy mulching.
-
-[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are relatively few in cultivation. The most common pest is the ginger shoot borer (*Chilo auricilius*), while fungal leaf spot diseases caused by *Colletotrichum* species may occur in humid conditions. The invasive potential of the species means that disposal of rhizome waste requires care in frost-free climates.
-
-In regions where the species is invasive, responsible cultivation practices include growing in containers, removing flower heads before seed set, and avoiding planting near waterways or natural areas. Several sterile cultivars have been developed to reduce invasive spread risk.
-
-Commercial flower production for the cut flower trade is most developed in Hawaii and parts of Southeast Asia. Flower spikes are harvested when the lower 2–3 flowers are fully open and may last 5–7 days in floral arrangements with proper handling.
-
-## See Also
-
-- [[alpinia-zerumbet]] — Shell ginger, an ornamental Zingiberaceae with similar landscaping uses
-- [[kaempferia-galanga]] — Sand ginger, a Zingiberaceae species with aromatic rhizome
-- [[boesenbergia-rotunda]] — Fingerroot, a Zingiberaceae species with related phytochemistry
-- [[lavandula-angustifolia]] — English lavender, an ornamental aromatic herb with essential oil production
-- [[eucalyptus-globulus]] — Blue gum eucalyptus, a tree with invasive potential and essential oil production
-- [[zingiber-zerumbet]] — Shampoo ginger, a Zingiber species with ornamental inflorescences
-- [[vetiveria-zizanoides]] — Vetiver, a rhizomatous grass used for [[permplant-willows-salix-erosion-control-fodder]] and essential oil
-- [[mentha-piperita]] — Peppermint, an aromatic herb with fragrant essential oil used in perfumery
-- [[salvia-officinalis]] — Common sage, a Mediterranean ornamental herb with traditional medicinal uses

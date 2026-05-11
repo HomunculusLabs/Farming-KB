@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -86,37 +87,3 @@ of chilled drinks in cold climates before 1830 and the advent of
 mechanical or evaporative refrigerators.
 
 ## Water Storage in Freezing Climates
-
-Depth is the critical factor in cold waters, especially in still
-ponds. If ponds freeze to 15-90 cm, that depth of water is
-unavailable in winter for house use. Cold areas must calculate
-the amount "lost" by winter freezing, while arid areas calculate
-on evaporation. Freezing expands water, so that storages need to
-be left unfilled, slope-sided, or open-topped to cope with
-expanding ice.
-
-Pipes must be buried to 1 metre to prevent bursting, or allowed
-to trickle continuously. For domestic use, there is no substitute
-for placing water storage within the house cellar structure, as a
-well or cistern below floor level. The same is true of water
-stored in barns. Glasshouses and houses both can use this water
-as a heat store with great gains in efficiency.
-
-## Design Integration
-
-The interplay of snow, ice, and landscape creates multiple design
-opportunities. Ponds begin to melt in time for garden watering.
-While ponds are still frozen, bundles of brush can be placed on
-their surface to provide fish cover, or fixed anchors can be set
-out to sink later as moorings. Black, glass-covered tubes or
-tyres keep fishing holes open.
-
-Rock walls backed by birch, tyre embayments, bamboo lean-tos, and
-earth-formed reflectors all represent low-cost, high-effect
-strategies for extending the growing season and reducing energy
-inputs in cold climates. These strategies connect directly to
-mollison-designers-cool-temperate-soils-and-landform-water-conservation design. See also [[zone-and-sector-analysis]] for [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] planning in cold climates.
-
-## See Also
-
-- [[mollison-designers-avalanche-awareness-and-snow-stability]]

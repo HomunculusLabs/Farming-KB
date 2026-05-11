@@ -20,8 +20,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of Elaeagnus angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
-  - Balandari, A. et al. (2020). "Nutritional and therapeutic properties of E. angustifolia fruits." Food Science & Nutrition, 8(5), 2197-2213.
+  - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of elaeagnus-angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
+  - Balandari, A. et al. (2020). "Nutritional and [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]] of E. angustifolia fruits." Food Science & Nutrition, 8(5), 2197-2213.
   - Shabani, L. et al. (2020). "Antioxidant and anti-inflammatory activities of E. angustifolia." Pharmaceutical Biology, 48(8), 923-927.
   - Toogood, S. & Jefferson, L. (2021). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
   - Sheppard, A.W. et al. (2006). "A review of the biology and management of invasive Elaeagnus." Weed Research, 46(4), 261-273.
@@ -36,9 +36,9 @@ tree in the family Elaeagnaceae. Native to southern Europe and western and centr
 has been widely planted as an ornamental, windbreak, and soil-stabilization tree, and has
 naturalized extensively across [[psilocybin-north-america-pacific-northwest]] where it is invasive in western riparian zones.
 
-In permaculture, Russian olive is valued for **actinorhizal nitrogen fixation** (symbiosis
+In permaculture, Russian olive is valued for **actinorhizal [[biological-nitrogen-fixation-agriculture]]** (symbiosis
 with *Frankia* bacteria), [[dighton-fungal-drought-tolerance-plant-water-relations]], windbreak utility, and edible fruit. The
-silvery berries are rich in vitamins, antioxidants, and fatty acids, with a long history of
+silvery berries are rich in vitamins, antioxidants, and [[carbon-isotope-labelling-mycorrhizal-fatty-acids]], with a long history of
 use in Persian and Central Asian traditional medicine.
 
 ## Taxonomy
@@ -67,7 +67,7 @@ Angiosperms → Eudicots → Rosales → Elaeagnaceae → **Eleagnus → E. angu
 ## Distribution and Habitat
 
 **Native:** Southeastern Europe, Turkey, Iran, Central Asia, Afghanistan, Pakistan, western
-China (Xinjiang), Himalayan foothills. **Naturalized:** North America (Great Plains to Pacific
+China (Xinjiang), Himalayan foothills. **Naturalized:** [[guzman-psilocybin-mushrooms-north-america]] (Great Plains to Pacific
 Northwest, invasive in Utah, Colorado, Wyoming, Montana), southern Europe, Australia.
 
 Grows in riparian zones, floodplains, dry gullies, and saline soils. Hardy to USDA Zone 2
@@ -79,7 +79,7 @@ Does not tolerate waterlogging or deep shade.
 - **Propagation:** Seed (cold stratification 60–90 days; scarification helps) or hardwood
   cuttings. Root suckers readily.
 - **Spacing:** 2–4 m hedgerows; 5–8 m specimens.
-- **Growth rate:** Fast — 60–100 cm/year. First fruiting at 3–5 years.
+- **[[soil-temperature-plant-growth-rate-doubling-rule]]:** Fast — 60–100 cm/year. First fruiting at 3–5 years.
 - **Pruning:** Responds well to coppicing and pollarding. Manageable as dense hedge.
 - **Yield:** 10–20 kg fruit/mature tree/year. Improved cultivars from Central Asian breeding
   produce larger, sweeter fruit.
@@ -87,60 +87,3 @@ Does not tolerate waterlogging or deep shade.
   planting near sensitive riparian areas in non-native range.
 
 ## Bioactive Compounds
-
-- **Flavonoids:** Quercetin, kaempferol, isorhamnetin and glycosides — potent antioxidants,
-  anti-inflammatory, anti-allergic.
-- **Phenolic acids:** Gallic, caffeic, ferulic acid — free radical scavengers.
-- **Fatty acids:** Fruit/seeds rich in oleic, linoleic, palmitoleic acid. Seed oil: 15–25%.
-- **Vitamins:** High vitamin C (50–200 mg/100 g fresh), vitamin E, carotenoids.
-- **Tannins and proanthocyanidins:** Astringent, wound healing, anti-diarrheal.
-- **Minerals:** Rich in potassium, calcium, magnesium, iron.
-
-## Pharmacology
-
-- **Anti-inflammatory:** Flavonoid extracts inhibit COX-2, TNF-α, IL-6. Comparable to
-  ibuprofen in some animal models.
-- **Antioxidant:** Significant DPPH/ABTS radical scavenging. Protective against CCl4-induced
-  hepatotoxicity in rodent models.
-- **Wound healing:** Topical extracts accelerate closure via fibroblast proliferation and
-  collagen deposition.
-- **Analgesic:** Dose-dependent analgesia in formalin and hot-plate tests.
-- **Anti-ulcer:** Gastroprotective against ethanol and indomethacin-induced ulcers; increases
-  gastric mucus secretion.
-- **Antimicrobial:** Active against *S. aureus*, *E. coli*, *C. albicans* in vitro.
-
-## Traditional and Culinary Use
-
-- **Fruit:** Eaten fresh when ripe (mealy, sweet-tart), dried like raisins, or made into
-  jams and fruit leather. Sold in Iranian and Central Asian bazaars.
-- **Flowers:** Fragrant teas and cordials; used in Persian medicine for fever and digestive
-  complaints.
-- **Seeds:** Roasted as snack; pressed for edible oil.
-- **Bark:** Traditional Unani medicine astringent and antipyretic.
-
-## Permaculture and Agroforestry
-
-- **Nitrogen fixation:** *Frankia* symbiosis fixes 20–60 kg N/ha/year. Nodules active spring
-  through autumn, improving soil for companion plants.
-- **Windbreak:** Dense, thorny, drought-resistant barrier at 4–7 m height.
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Extensive roots stabilize slopes, gullies, and riparian banks.
-- **Food forest support:** Provides nitrogen, shelter, and pollinator resources for understory
-  trees and berries. Early spring flowers are a major nectar source.
-- **Wildlife:** Fruit consumed by birds (waxwings, robins), deer, small mammals. Thorny
-  thickets provide nesting cover.
-- **[[fungal-salt-tolerance-and-ion-homeostasis]]:** Rare N-fixing tree for saline/alkaline soils; reclamation species.
-- **Biomass:** Fast coppice regeneration for fuel in marginal lands.
-
-## Related Species
-
-- *E. umbellata* (autumn olive) — smaller, red-fruited; more invasive in eastern NA.
-- *E. multiflora* (cherry elaeagnus) — Chinese species, larger sweeter fruit; cultivated
-  commercially in China.
-- *E. commutata* (silverberry) — NA native, silver leaves, edible fruit, Zone 2 hardy.
-- *Hippophae rhamnoides* ([[comparison-sea-buckthorn-vs-aronia]]) — related Elaeagnaceae; superior fruit and oil.
-
-## See Also
-
-- [[eleagnus-umbellata-entity]] · [[black-locust-entity]] · [[honey-locust-entity]]
-
-- [[guadua-angustifolia]]

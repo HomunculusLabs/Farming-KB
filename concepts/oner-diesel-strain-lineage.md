@@ -1,9 +1,9 @@
 ---
-title: The Diesel Strain Lineage and Family Tree
+title: Oner Diesel Strain Lineage
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/s-t-oner-the-rev-cannabis-sativa-volume-3_-the-essential-gu.md
-    title: Cannabis Sativa Vol. 3 - The Essential Guide
+    title: [[blesching-cannabis-sativa-indica-classification]] Vol. 3 - The Essential Guide
     author: S.T. Oner, The Rev
 updated: 2026-05-08
 type: concept
@@ -14,7 +14,7 @@ tags: [reference]
 
 ## Origins of the Diesel Family
 
-The Diesel family of cannabis strains represents one of the most
+The Diesel family of [[cannabis-microbiome-otu-abundance-vs-presence-cannabis-strains]] represents one of the most
 influential genetic lineages in modern cannabis history. The story
 begins with a legendary encounter at a Grateful Dead concert, where
 a man known as Chemdog bought an ounce of high-quality cannabis for
@@ -28,7 +28,7 @@ entire ChemDawg family. Some speculate the original genetics
 included an unknown indica, while others have guessed at Nepalese
 and Thai parentage. The exact origins remain uncertain, but the
 impact of those 13 seeds on [[vic-high-cannabis-genetics-mendelian-inheritance]] is beyond dispute.
-The ChemDawg lineage went on to parent Sour Diesel, OG Kush, and
+The [[chemdawg-lineage-and-legacy]] went on to parent Sour Diesel, OG Kush, and
 countless other iconic strains.
 
 ## The ChemDawg Foundation
@@ -44,7 +44,7 @@ The strain is not generally recommended for novice growers, as it
 can present a range of challenges that only experienced cultivators
 know how to manage. Its tendency toward vigorous [[cannabis-vegetative-growth-stage]]
 can translate into unwanted stretch in indoor environments. At about
-day 40 of the vegetative stage, growers typically flip the plants
+day 40 of the [[cannabis-vegetative-stage]], growers typically flip the plants
 into flowering to manage height. The potency is consistently high,
 with the original line testing at impressive THC levels.
 
@@ -86,54 +86,5 @@ demonstrates the potency potential of Diesel-influenced crosses.
 ## Bruce Banner — Diesel Meets OG
 
 Bruce Banner, named after the alter ego of the Hulk, is a cross
-between Strawberry Diesel and Ghost OG genetics from Green Dream
+between [[bruce-banner-strawberry-diesel-ghost-og-hybrid]] and Ghost OG genetics from Green Dream
 Health Services. The strain produces five different phenotypes, with
-the Bruce 3 pheno considered the most perfectly balanced mix of
-Diesel and OG genetics and the most potent overall. Even when grown
-by novice cultivators, all phenotypes test very highly for THC,
-with the named strain reaching approximately 20 percent.
-
-The strain produces a hectic, energetic high lasting several hours
-that may be intense for some users. The purple hues that emerge
-during flowering create visually striking plants. Bruce Banner
-demonstrates how Diesel genetics combine effectively with the OG
-Kush family to create potent, visually appealing hybrids.
-
-## The Diesel Legacy in Modern Breeding
-
-S.T. Oner writes that when he needs inspiration for writing or
-energy for difficult tasks, it is always a Diesel strain that he
-packs into his bowl. This personal testimony reflects the broader
-[[ethnomycology-cultural-significance-sacred-fungi]] of the Diesel family. The fuel-like aroma,
-potent cerebral effects, and consistent performance have made
-Diesel genetics a cornerstone of modern [[oner-cannabis-breeding-fundamentals]], with
-the lineage continuing to branch into new and exciting varieties.
-
-## Trainwreck — The Accidental Diesel Cousin
-
-The Trainwreck name has its own place in cannabis lore, distinct
-from but related to the era of Diesel dominance. Before indoor
-breeding became widespread, all breeding was done outdoors. Cash
-croppers who wanted only a few plants pollinated would set male
-plants in remote, isolated patches, letting prevailing winds carry
-pollen downwind toward multiple female varieties. The first-
-generation seeds from these uncontrolled pollinations were called
-"Trainwreck" generations because they were a train wreck of
-genetics -- you could never be sure which male pollinated which
-female.
-
-After these seeds were grown out, cloned, and inbred, the resulting
-lines were given names. Different Trainwreck lines emerged --
-Humboldt, Purple, L.A., African, Colombian, Mexican, and Hawaiian.
-The name became attached to any line that originated from these
-chaotic outdoor multi-pollination events, and some of those lines
-carry genetic connections to the emerging Diesel family.
-
-## See Also
-
-- [[oner-diesel-strain-lineage-and-profiles]]
-
-- [[oner-cannabis-phenotypes-genetic-expression]]
-- [[oner-sativa-renaissance-rise-of-the-second-child]]
-
-See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]

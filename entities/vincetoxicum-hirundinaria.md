@@ -78,48 +78,12 @@ These compounds are characteristic of the Asclepiadoideae subfamily and contribu
 
 **Phenolic acids:** Chlorogenic acid, caffeic acid, and ferulic acid have been detected in leaf and stem extracts.
 
-Flavonoid glycosides including quercetin and kaempferol derivatives are also present.
+Flavonoid glycosides including [[quercetin]] and [[kaempferol]] derivatives are also present.
 
-**Alkaloids:** Trace amounts of indole alkaloids have been reported, though these are not the primary bioactive constituents.
+**Alkaloids:** Trace amounts of [[indole]] alkaloids have been reported, though these are not the primary bioactive constituents.
 
 The roots contain higher concentrations of glycosides compared to aerial parts.
 
-Total phenolic content varies with harvest time, peaking during flowering.
+Total phenolic content varies with [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], peaking during flowering.
 
 ## Traditional and Modern Uses
-
-In European folk medicine, white swallowwort was traditionally used as an external remedy for skin wounds, ulcers, and inflammatory conditions.
-
-The dried roots were applied as a poultice or prepared as an infusion for topical use.
-
-The species name reflects its historical use as an antidote to venomous bites, though there is no modern clinical evidence supporting this application.
-
-In Italian folk medicine, the plant was used to treat skin eruptions and as a mild diaphoretic.
-
-Modern pharmacological studies have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities in vitro for various Vincetoxicum species extracts.
-
-However, V. hirundinaria specifically remains under-researched compared to related species such as V. nigrum.
-
-The plant is considered toxic if ingested in large quantities due to its cardenolide-like glycosides, and internal use is not recommended.
-
-## Ecological Role
-
-Vincetoxicum hirundinaria serves as a larval host plant for several Lepidoptera species.
-
-The monarch butterfly (Danaus plexippus) has been recorded ovipositing on Vincetoxicum species in parts of its introduced European range, though milkweeds (Asclepias spp.) remain the primary host.
-
-The European swallowtail (Papilio machaon) and several hawkmoth species (Sphingidae) also utilize the foliage.
-
-The copious nectar production makes the flowers attractive to a range of pollinators, including bees, butterflies, and hoverflies.
-
-The seed coma enables effective wind dispersal, contributing to colonization of disturbed habitats.
-
-The creeping root system helps stabilize soils on slopes and rocky substrates.
-
-## See Also
-
-- [[arctium-lappa-entity]]
-- [[artemisia-absinthium]]
-- [[valeriana-officinalis]]
-- [[urtica-dioica]]
-- [[taraxacum-officinale]]

@@ -88,13 +88,3 @@ highest B.E. on their specific substrate and under their environmental condition
 ### Spawn Vitality
 
 Spawn has natural limits for growth. If spawn is "over-expanded" — transferred too many
-times from generation to generation — vitality falters. Spawn in this condition, although
-appearing healthy, grows slowly and often shows symptoms of genetic decline. A spawn
-producer making spawn for their own use is especially keen at using spawn at the peak of
-its vitality. Spawn typically remains in a healthy state for about two months under
-refrigeration, after which a noticeable decline in viability occurs.
-
-## Ecological Significance
-
-Considering the innate power of stamets-natural-culture-mycological-landscapes
-- [[stamets-growing-room-air-circulation-co2-management]]-room-design

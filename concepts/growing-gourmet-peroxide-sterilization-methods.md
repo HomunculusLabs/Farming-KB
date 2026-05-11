@@ -88,24 +88,3 @@ contaminants while too much can inhibit mushroom mycelium directly.
 ## Safety Precautions
 
 Wear gloves and eye protection when handling concentrated peroxide. The 35%
-food-grade concentration causes severe burns and requires careful dilution.
-Never mix peroxide with vinegar or other acids as this forms peracetic acid.
-Store peroxide in dark containers away from heat sources. The standard 3%
-pharmacy peroxide is safe for routine use with basic precautions.
-
-## Integration with Low-Tech Cultivation
-
-Peroxide methods are particularly valuable for cultivators working without
-autoclaves, flow hoods, or dedicated laboratory spaces. When combined with
-other accessible techniques like cold water pasteurization and spore mass
-inoculation, peroxide-based methods form the foundation of a complete low-tech
-cultivation system suitable for home growers, educational settings, and
-resource-limited communities worldwide. The technique has democratized access
-to [[growing-gourmet-substrate-preparation]] methods that were previously
-limited to well-equipped commercial facilities.
-
-## See Also
-
-- supplemented sawdust sterilization
-- [[stamets-slant-culture-strain-preservation|stock culture library]]
-- [[decomposition]]

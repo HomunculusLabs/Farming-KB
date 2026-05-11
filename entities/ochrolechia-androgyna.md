@@ -88,32 +88,3 @@ The soredia contain both fungal hyphae and algal cells, allowing establishment o
 The species provides microhabitat for various invertebrates, including mites and springtails, which inhabit the thallus surface and feed on associated microorganisms. It contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] through the retention and slow release of atmospheric particles and dissolved nutrients.
 
 In boreal forest ecosystems, O. androgyna is one of the more abundant crustose lichens on mature *Picea* and *Abies* bark. Its presence is often associated with forest stands that have been undisturbed for 50 years or more, making it a useful indicator of forest continuity.
-
-The species plays a role in bark pH modification through the slow leaching of organic acids into the substrate. This process can influence the suitability of bark surfaces for subsequent colonization by other lichen species, contributing to successional dynamics on tree trunks.
-
-In regions affected by historical air pollution, O. androgyna has shown patterns of decline and partial recovery similar to other pollution-sensitive crustose lichens. Monitoring of its populations provides valuable data on long-term trends in forest air quality and ecosystem health.
-
-## Similar Species
-
-**Ochrolechia tartarea** is the most commonly confused species, but it typically lacks soralia and contains different secondary chemistry (various depsides including lecanoric acid and gyrophoric acid in different ratios). O. tartarea has a more uniformly white thallus and more prominently exposed apothecia.
-
-**Ochrolechia parella** has a more extensively cracked thallus with larger apothecia and contains variolaric acid rather than gyrophoric acid. It typically grows on rock surfaces rather than bark, though corticolous forms occasionally occur.
-
-**Ochrolechia pallescens** is a smaller species with a thinner thallus and contains lecanoric acid as the primary metabolite. It typically lacks well-developed soralia and has smaller spores than O. androgyna.
-
-The sorediate *Pertusaria* species can be distinguished from O. androgyna by their immersed apothecia and different chemistry. *Pertusaria amara* has cream-colored apothecial discs and contains bitter picrolichenic acid, while O. androgyna has exposed lecanorine apothecia and gyrophoric acid.
-
-In the field, the combination of greyish thallus, brownish-green soralia, and C+ red medulla reaction provides a reliable identification suite for O. androgyna. However, chemical confirmation with TLC is recommended when distinguishing it from less common *Ochrolechia* species with overlapping morphological features.
-
-## See Also
-
-- [[ochrolechia-tartarea]]
-- [[xanthoria-parietina]]
-- [[pertusaria-amara]]
-- [[lecanora-muralis]]
-- [[hypogymnia-physodes]]
-- [[flavoparmelia-caperata]]
-- [[physcia-stellaris]]
-- [[evernia-prunastri]]
-- [[cetraria-islandica]]
-- [[cladonia-rangiferina]]

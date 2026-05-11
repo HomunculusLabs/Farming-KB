@@ -1,5 +1,5 @@
 ---
-title: Ribosomal ribosomal rna sequencing yeast identification for Yeast and pcr-methods-fungal-identification-monitoring
+title: Ribosomal Rna Sequencing Yeast Identification
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -13,7 +13,7 @@ Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become t
 
 ## Ribosomal RNA Gene Structure
 
-The fungal rDNA repeat unit contains:
+The [[fungal-rdna-primers-molecular-identification]] repeat unit contains:
 - **18S (small subunit) rRNA gene:** ~1,800 nucleotides; conserved; for broad phylogenetic placement
 - **ITS1 (internal transcribed spacer 1):** Variable; useful for species-level discrimination
 - **5.8S rRNA gene:** ~160 nucleotides; contains modified nucleotides
@@ -88,27 +88,3 @@ The most widely used region for yeast identification:
 ### Limitations
 - Some sibling species pairs show unexpectedly low divergence (e.g., Williopsis saturnus varieties: 43% nuclear DNA relatedness but 0% D2 divergence)
 - Amphidiploidy can mask divergence (hybrid species retain one parent's rDNA)
-- Phenotypic characters often poor indicators of phylogenetic relationships
-
-## Reliability of Phylogenies
-
-rRNA gene trees may not accurately reflect species trees because:
-- rDNA is multi-copy (intra-genomic variation possible)
-- Concerted evolution may homogenize paralogous copies
-- Different rRNA regions evolve at different rates
-- Long-branch attraction can group fast-evolving taxa together
-
-## Practical Guidelines
-1. Sequence D1/D2 for species-level identification of yeasts
-2. Sequence ITS for general fungal barcoding
-3. Sequence 18S for higher-level phylogenetic placement
-4. Use multiple gene regions for robust phylogenetic analysis
-5. Compare sequences against curated databases (GenBank, UNITE)
-
-## See Also
-
-- fungal-phylogeny-kingdom-classification
-- [[yeast-biodiversity-isolation-ecology]]
-- [[fungal-rdna-primers-molecular-identification]]
-- fungal-kingdom-classification
-- [[wild-yeast-bread-baking]]

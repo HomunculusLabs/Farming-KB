@@ -88,19 +88,3 @@ sickly plant specimens lacking proper nutrition."
 ## Hottes and Cloches
 
 Access paths through the gardens were only 10 inches wide, too narrow
-for wheelbarrows. Manure was delivered in [[coleman-willow-basket-hotte-manure-transport]] backpacks
-called hottes, woven with an extension that arched up and over the
-worker's head so the load could be deposited by bending forward and
-letting it tumble out.
-
-Crops not in cold frames were protected by 18-inch-diameter glass
-bell jars called cloches set in tidy rows. Each cloche had to be
-individually vented on sunny days using a small notched stick. Some
-growers had up to three thousand cloches. Additional insulation came
-from one-inch-thick rye straw mats rolled out over glass covers on
-cold nights.
-
-## Louis Savier: A Twentieth-Century Maraicher
-
-In fall 1974, [[coleman-french-intensive-bed-method]],
-[[coleman-moveable-greenhouse-system]], and

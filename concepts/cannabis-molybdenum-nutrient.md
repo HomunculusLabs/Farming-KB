@@ -24,7 +24,7 @@ Because molybdenum is required in such tiny quantities (0.01-0.05 ppm), most org
 
 ## Deficiency
 
-Molybdenum deficiency is extremely rare in [[query-how-does-no-till-cannabis-cultivation-work]]. When it does occur, deficiency promotes cannabis-nitrogen|nitrogen shortage because the plant cannot efficiently convert nitrate to ammonium. The relationship between molybdenum and nitrogen metabolism means that a molybdenum deficiency can mimic nitrogen deficiency symptoms, making it easy to misdiagnose.
+Molybdenum deficiency is extremely rare in [[query-how-does-no-till-cannabis-cultivation-work]]. When it does occur, deficiency promotes cannabis-nitrogen|nitrogen shortage because the plant cannot efficiently convert nitrate to ammonium. The relationship between molybdenum and nitrogen metabolism means that a molybdenum deficiency can mimic nitrogen [[knf-calcium-deficiency-symptoms]], making it easy to misdiagnose.
 
 ### Symptoms
 
@@ -55,7 +55,7 @@ Since deficiencies are extremely rare, treatment is seldom needed. If deficiency
 - Apply a complete micronutrient solution containing molybdenum
 - Most high-quality hydroponic fertilizers contain adequate molybdenum
 - Use a chelated micronutrient mix for best availability
-- Avoid lowering pH too much when correcting other nutrient problems
+- Avoid lowering pH too much when correcting other [[query-how-to-read-cannabis-plants-for-nutrient-problems]]
 
 ## Toxicity
 
@@ -67,7 +67,7 @@ Excess molybdenum is uncommon in cannabis gardens. However, the interaction betw
 
 ### Treatment
 
-- Flush the growing medium if excess is suspected
+- Flush the [[cervantes-green-algae-growing-medium]] if excess is suspected
 - Monitor levels carefully when using micronutrient supplements
 - The very small quantities required (0.01-0.05 ppm) make over-application unlikely with proper fertilizer use
 
@@ -88,9 +88,3 @@ Note that molybdenum is required in the smallest quantities of any essential nut
 - Not considering molybdenum when nitrogen deficiency symptoms persist despite adequate nitrogen application
 - Ignoring soil pH as a factor in molybdenum availability (it works opposite to most micronutrients)
 - Worrying about molybdenum deficiency when it is almost never the actual problem
-
-## See Also
-
-- [[cannabis-copper-nutrient]]
-- [[cannabis-nutrient-deficiency-guide]]
-- [[cannabis-nutrient-solution-preparation]]

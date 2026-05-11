@@ -1,5 +1,5 @@
 ---
-title: "KH2PO4 kh2po4 phosphate supplementation mushroom substrates in accessible-mushroom-cultivation-for-disabilities Substrates"
+title: Kh2Po4 Phosphate Supplementation Mushroom Substrates
 created: 2026-04-28
 tags:
   - phosphate
@@ -20,7 +20,7 @@ type: concept
 
 Phosphate supplementation is a critical but often overlooked factor in
 mushroom cultivation. In the Gartz, Adam and Vorbrodt (1990) study on
-brassinosteroid effects in [[psilocybe-cubensis]]. This buffering capacity helps maintain
+[[brassinosteroid-effects-on-fungal-fruiting-morphology]] in [[psilocybe-cubensis]]. This buffering capacity helps maintain
 stable pH during the [[arbuscule-isolation-metabolic-activity-assays]] of growing mycelium, which
 tends to acidify its environment through organic acid secretion and
 carbon dioxide dissolution.
@@ -29,10 +29,10 @@ carbon dioxide dissolution.
 
 Phosphorus is an essential macronutrient for all living organisms and
 plays numerous indispensable roles in fungal metabolism. It is a core
-component of adenosine triphosphate (ATP), the universal energy currency
+component of [[adenosine-triphosphate-and-cellular-energy]] (ATP), the universal energy currency
 of cells. ATP drives virtually every energy-requiring process in fungal
 cells, from hyphal extension and nutrient uptake to spore germination
-and fruiting body development.
+and [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]].
 
 Phosphorus is also a structural component of nucleic acids (DNA and RNA)
 and phospholipids in cell membranes. In fungi, phosphorus is particularly
@@ -50,7 +50,7 @@ the substrate. It activates numerous enzymes, including those involved
 in protein synthesis and glycolysis. Potassium also plays a role in
 osmotic regulation, helping cells maintain internal water balance.
 
-In fruiting body formation, potassium is involved in translocation of
+In [[fungal-fruiting-body-formation-environmental-triggers]], potassium is involved in translocation of
 nutrients from the vegetative mycelium to developing mushrooms. Adequate
 potassium supply has been correlated with improved fruiting body size
 and number across multiple cultivated mushroom species including
@@ -76,7 +76,7 @@ In the Gartz study, KH2PO4 was added to both the 6% malt agar plates
 and the horse dung and rice grain mixture used for fruiting. On agar,
 phosphate is readily available in the homogeneous gel medium. In bulk
 substrates, phosphate availability is more complex due to interactions
-with organic matter, mineral particles, and microbial communities.
+with organic matter, mineral particles, and [[cannabis-rhizosphere-microbial-communities]].
 
 The dual application ensured consistent phosphate nutrition across both
 phases of cultivation, an important methodological consideration in any
@@ -88,28 +88,3 @@ For cultivators seeking to optimize substrate mineral content, KH2PO4
 offers a convenient single-source supplement for both potassium and
 phosphorus. A general recommendation of 1 to 3 g per liter of substrate
 preparation water provides adequate supplementation for most grain-based
-and compost-based substrates. The Gartz study used 5 g/L, appropriate
-for dung-based formulations with significant phosphorus-binding capacity.
-
-KH2PO4 should be dissolved in the hydration water before sterilization
-or pasteurization. It is heat-stable and will not degrade during
-standard [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]. When used with calcium supplements,
-excess calcium can precipitate phosphate as calcium phosphate, reducing
-bioavailability. In such cases, slightly higher KH2PO4 concentrations
-may be warranted.
-
-## Related Concepts
-
-- Brassinosteroid growth promotion in [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] for the
-  full study context in which KH2PO4 supplementation was employed
-- Brassinosteroid acceleration of mycelial growth on agar media for
-  the agar-phase results of the Gartz experiment
-- Brassinosteroid enhancement of mushroom yield and dry mass for the
-  fruiting-phase results on supplemented substrates
-
-## See Also
-
-- [[monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient]]
-
-- [[brassinosteroid]]
-- [[fruiting-body-development]]

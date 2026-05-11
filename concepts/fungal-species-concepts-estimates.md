@@ -1,5 +1,5 @@
 ---
-title: [[fungal-species-concept]]s and Estimates
+title: Fungal Species Concepts Estimates
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -34,7 +34,7 @@ Species are groups of organisms sharing the same ecological niche. Particularly 
 
 - Many fungal species are specialized on particular substrata or hosts
 - Ecological differentiation may precede morphological divergence
-- Host specificity can define species boundaries in plant pathogens
+- [[fungal-endemism-host-specificity]] can define species boundaries in plant pathogens
 - Physiological differences may reflect species-level divergence
 
 ### Practical Considerations
@@ -56,7 +56,7 @@ In practice, mycologists use combinations of these concepts:
 **Extrapolation from Inventories**:
 - Species accumulation curves from well-studied sites
 - Molecular studies reveal many more OTUs than morphospecies
-- Tropical forests harbor orders of magnitude more undescribed species
+- [[fungal-biodiversity-tropical-forests]] harbor orders of magnitude more undescribed species
 
 **Current Consensus Range**: 1.5-5.1 million species, with some estimates as high as 9.9 million
 
@@ -65,7 +65,7 @@ In practice, mycologists use combinations of these concepts:
 ### Methodological Factors
 
 - Different methods applied to different geographic regions
-- Molecular methods detect cryptic species missed by morphology
+- [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] detect cryptic species missed by morphology
 - Culture-dependent vs. culture-independent methods give different results
 - Sampling effort varies enormously among studies
 
@@ -78,9 +78,9 @@ In practice, mycologists use combinations of these concepts:
 
 ### Geographic Factors
 
-- Tropical regions are vastly undersampled
-- Temperate regions are better studied but still incomplete
-- Australia, Asia, Africa, and South America have large inventory gaps
+- [[fukuoka-natural-farming-in-tropical-regions]] are vastly undersampled
+- [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] are better studied but still incomplete
+- Australia, Asia, Africa, and [[guzman-psilocybin-mushrooms-south-america]] have large inventory gaps
 - Even well-studied temperate sites continue to yield new species
 
 ## Pleomorphy and the Name Problem
@@ -88,29 +88,3 @@ In practice, mycologists use combinations of these concepts:
 Many fungi produce multiple sporing stages (anamorph and teleomorph) that historically received different scientific names. This creates several problems:
 
 - A single biological species may have two or more scientific names
-- Linking anamorph and teleomorph names requires careful experimentation
-- Some fungi never produce known sexual stages ([[mitosporic-fungi-diversity-species-estimates|mitosporic]] fungi)
-- DNA sequencing is resolving many of these connections
-- The "one fungus, one name" initiative aims to resolve this
-
-## Molecular Revolution
-
-### Impact on Species Numbers
-
-Molecular methods are fundamentally changing our understanding of fungal diversity:
-
-- Environmental DNA studies reveal vast numbers of previously unknown fungi
-- Cryptic species complexes are being resolved
-- Many "cosmopolitan" species are actually species complexes
-- Deep-branching lineages with no cultured representatives are being discovered
-
-### Operational Taxonomic Units (OTUs)
-
-In molecular studies, sequences are grouped into OTUs as proxies for species. Issues include:
-
-- Choice of similarity threshold (typically 95-99% for ITS region)
-- Different thresholds yield different species numbers
-- Intraspecific variation may exceed chosen thresholds
-- No universally agreed standard for fungal OTU delimitation
-
-See also: [[dighton-soil-fungal-biodiversity-assessment]]

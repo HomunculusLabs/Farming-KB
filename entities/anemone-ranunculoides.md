@@ -23,7 +23,7 @@ sources:
 
 Anemone ranunculoides, commonly known as the yellow wood anemone, is a low-growing rhizomatous perennial in the family Ranunculaceae. It is one of the most recognizable spring ephemerals of European deciduous woodlands, producing bright butter-yellow flowers from March to May.
 
-The species reaches 10–25 cm in height and spreads by creeping horizontal rhizomes to form extensive clonal colonies on the forest floor. It is closely related to the white-flowered Anemone nemorosa, with which it shares habitat and much of its geographic range.
+The species reaches 10–25 cm in height and spreads by creeping horizontal rhizomes to form extensive clonal colonies on the forest floor. It is closely related to the white-flowered [[anemone-nemorosa]], with which it shares habitat and much of its geographic range.
 
 Where the two species co-occur they produce the natural hybrid Anemone × lipsiensis, bearing pale sulfur-yellow flowers intermediate in color. The yellow wood anemone is widely cultivated as a shade-garden ornamental.
 
@@ -35,7 +35,7 @@ The species was first recorded in the horticultural literature by John Gerard in
 
 Anemone ranunculoides was described by Carl Linnaeus in Species Plantarum (1753). It belongs to section Anemone within the genus, which comprises approximately 150 species across temperate and subarctic regions of the Northern Hemisphere.
 
-Molecular phylogenetic studies place it in a clade with Anemone nemorosa and Anemone sylvestris, all sharing a base chromosome number of x = 8. The species is diploid (2n = 16) throughout most of its range.
+Molecular phylogenetic studies place it in a clade with Anemone nemorosa and [[anemone-sylvestris]], all sharing a base chromosome number of x = 8. The species is diploid (2n = 16) throughout most of its range.
 
 The plant produces basal leaves on long petioles (5–15 cm), each palmately divided into three deeply toothed and lobed leaflets. A whorl of three sessile bracteal leaves subtends each flowering stem.
 
@@ -55,7 +55,7 @@ Its range is more easterly and continental than that of Anemone nemorosa, which 
 
 The primary habitat is deciduous and mixed woodland on moist, humus-rich, neutral to slightly calcareous soils in partial to full shade. It is characteristic of ash-elm, oak-hornbeam, and beech forest communities.
 
-Common herb-layer associates include Allium ursinum, Mercurialis perennis, and Ficaria verna. The species also colonizes hedgerows, shaded stream banks, and damp meadows with scattered tree cover.
+Common herb-layer associates include [[allium-ursinum]], Mercurialis perennis, and [[ficaria-verna]]. The species also colonizes hedgerows, shaded stream banks, and damp meadows with scattered tree cover.
 
 It favors sites with reliable spring moisture and a thick leaf-litter layer that protects the shallow rhizomes from desiccation and frost. The species is classified as Least Concern across most of its range, though it is locally rare at the western margins in France and Belgium.
 
@@ -69,7 +69,7 @@ These reserves are stored in the rhizome and sustain the plant through the shade
 
 The below-ground rhizome remains viable year-round, surviving freezing temperatures and summer drought by entering dormancy. This strategy allows the species to persist in habitats where summer light levels drop below 5% of full sun.
 
-Pollination is performed by generalist insects active in early spring, primarily small solitary bees (Andrena spp.) and queen bumblebees (Bombus spp.). Hoverflies (Syrphidae) also visit the flowers regularly for nectar and pollen.
+Pollination is performed by generalist insects active in early spring, primarily small [[comparison-honey-bees-vs-native-solitary-bees]] (Andrena spp.) and queen bumblebees (Bombus spp.). Hoverflies (Syrphidae) also visit the flowers regularly for nectar and pollen.
 
 The flowers serve as a critical early food source for queen bumblebees emerging from hibernation. Self-pollination can occur but produces fewer viable seeds compared to cross-pollinated flowers.
 
@@ -81,41 +81,10 @@ Deer and rabbits consistently avoid browsing on Anemone ranunculoides foliage, e
 
 ## Cultivation
 
-Anemone ranunculoides is cultivated as a shade-garden ornamental across temperate regions of Europe and North America. It thrives in moist, well-drained, humus-rich soil in partial to full shade.
+Anemone ranunculoides is cultivated as a shade-garden ornamental across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of Europe and [[guzman-psilocybin-mushrooms-north-america]]. It thrives in moist, well-drained, humus-rich soil in partial to full shade.
 
-Planting is best done in early autumn using rhizome segments or potted nursery stock, spaced 10–15 cm apart. Once established, the species requires minimal maintenance and naturalizes freely under deciduous trees and shrubs.
+Planting is best done in early autumn using rhizome segments or potted [[fukuoka-natural-seedlings-versus-grafted-nursery-stock]], spaced 10–15 cm apart. Once established, the species requires minimal maintenance and naturalizes freely under deciduous [[nitrogen-fixing-trees-and-shrubs]].
 
-It combines effectively with other spring ephemerals including Galanthus, Eranthis hyemalis, and Hepatica nobilis in woodland garden schemes. The cultivar 'Pleniflora' (syn. 'Flore Pleno') has semi-double flowers and is the most commonly available named selection.
+It combines effectively with other spring ephemerals including Galanthus, [[eranthis-hyemalis]], and [[hepatica-nobilis]] in woodland garden schemes. The cultivar 'Pleniflora' (syn. 'Flore Pleno') has semi-double flowers and is the most commonly available named selection.
 
-Propagation by division of the creeping rhizomes is straightforward in late summer after the foliage has died back. Each rhizome segment with at least one bud will establish a new plant within one growing season.
-
-Seeds require cold stratification at 0–4 °C for 8–12 weeks and may take 12–18 months to germinate. Seedlings are slow to reach flowering size, typically requiring three to four years.
-
-The species is hardy to USDA zones 4–8 and suffers no serious pest or disease problems in cultivation. It holds the Royal Horticultural Society's Award of Garden Merit (AGM) for reliability and ornamental value.
-
-Overhead irrigation should be avoided during the growing season to prevent fungal spotting on the foliage. A mulch of leaf mold or compost applied in autumn helps maintain soil moisture and mimics the natural litter layer.
-
-## Uses
-
-In traditional European folk medicine, Anemone ranunculoides was occasionally used in external preparations for skin eruptions and joint pain. Internal use was avoided due to the irritant and toxic properties of protoanemonin, which can cause gastrointestinal inflammation and cardiac arrhythmia.
-
-In homeopathic practice, a tincture from the fresh flowering plant (Anemone ranunculoides 30C) appears in some materia medica for respiratory and dermatological conditions. These applications derive from traditional provings rather than controlled clinical trials.
-
-The species has no significant modern pharmacological use and is primarily valued as an ornamental. Its cheerful yellow flowers provide reliable early-season color in woodland and cottage gardens.
-
-The Royal Horticultural Society Award of Garden Merit confirms its horticultural worthiness and adaptability. It is especially useful as a spring groundcover beneath deciduous shrubs and in shaded border fronts.
-
-In naturalistic planting schemes, the species pairs well with ferns such as Dryopteris and Athyrium. The yellow blooms create a luminous effect against dark mossy stones and the fresh green of emerging spring foliage.
-
-## See Also
-
-- [[anemone-nemorosa]]
-- [[anemone-sylvestris]]
-- [[anemone-coronaria]]
-- [[helleborus-niger]]
-- [[ranunculus-acris]]
-- [[eranthis-hyemalis]]
-- [[actaea-racemosa]]
-- [[thalictrum-delavayi]]
-- [[pulsatilla-vulgaris]]
-- [[clematis-recta]]
+Propagation by division of the creeping rhizomes is straightforward in late summer after the foliage has died back. Each rhizome segment with at least one bud will establish a new plant within one [[extending-growing-season]].

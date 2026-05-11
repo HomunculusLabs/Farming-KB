@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---
@@ -87,41 +88,3 @@ to different successional stages and signal what the soil biology looks like:
 The presence of specific weeds tells a gardener or farmer what direction the
 soil food web is moving and what management adjustments might be beneficial.
 Rather than fighting indicator weeds with herbicides, understanding what they
-reveal about soil biology allows more strategic management.
-
-## Managing Soil Food Web Direction
-
-Conscious management can push the soil food web toward bacterial or fungal
-dominance depending on the desired plant community:
-
-**To favor bacterial dominance:**
-- Use tillage to set back fungal networks (though this has other costs)
-- Apply simple [[cervantes-organic-amendments-chart]] like [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] and green manures
-- Plant annual crops and bacterial-favoring [[lowenfels-compost-tea-brewing]] with bacterial-dominant recipes
-
-**To favor fungal dominance:**
-- Minimize or eliminate tillage
-- Apply woody mulches, compost with woody materials, and fungal foods
-- Plant perennials and maintain continuous living root systems
-- Use fungal-dominant compost teas and fungal inoculants
-- Allow natural succession to proceed without frequent disturbance
-
-## The Role of Disturbance
-
-Every disturbance event, whether natural or human-caused, resets succession
-to some degree. The more intense and frequent the disturbance, the more the
-soil food web remains locked in bacterial-dominated early successional
-states. Conventional agriculture, with its annual tillage, bare fallow
-periods, and chemical inputs, maintains soils in a permanently disturbed
-state. No-till and reduced-tillage systems allow succession to advance
-further, building more complex food webs with greater fungal contribution.
-
-## Connecting Succession to Management
-
-The concept of soil food web succession integrates the various components of
-the soil food web into a coherent management framework. [[lowenfels-mycorrhizal-network-nutrient-sharing]]
-develops as succession advances. [[lowenfels-nematode-food-web-roles]] provide nutrient mineralization at every
-stage. The practical insight from Lowenfels and Lewis is that matching soil
-biology to plant needs, by understanding and managing succession, is more
-effective than trying to force plants to grow in inappropriate biological
-environments.

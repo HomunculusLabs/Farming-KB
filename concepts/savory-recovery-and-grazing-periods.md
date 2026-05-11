@@ -88,9 +88,3 @@ The most common mistake is moving stock based on how a paddock looks
 rather than on a predetermined recovery period. While intuition might work
 occasionally, it more often fails because it leaves the really crucial
 time, the recovery period, to chance. Each day stock are held longer in a
-paddock adds a day of recovery to all remaining paddocks.
-
-## See Also
-
-- [[savory-animal-impact-and-herd-effect]]
-- [[savory-rest-as-management-tool]]

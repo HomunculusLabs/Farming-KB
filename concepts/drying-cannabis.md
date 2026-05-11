@@ -3,6 +3,7 @@ title: Drying Cannabis
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -13,7 +14,7 @@ tags: [cannabis]
 Drying is the essential first step after harvest that converts THC from its
 non-psychoactive acidic form (THCA) to its psychoactive neutral form (THC). Fresh green
 marijuana will not be very potent. Proper drying also converts 75 percent or more of
-the harvested plant material into water vapor. Slow, even drying preserves THC content
+the harvested plant material into water vapor. Slow, even drying preserves [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]
 and produces buds that taste sweet and smoke smooth.
 
 ## Why Slow Drying Matters
@@ -24,7 +25,7 @@ bad. Slow drying over five to seven days or longer allows moisture to evaporate 
 pigments to [[query-can-fungi-break-down-plastic-pollution]], and THC to convert properly.
 
 When dried relatively slowly, over five to seven days or longer, moisture evaporates
-evenly into the air, yielding uniformly dry buds with minimal THC decomposition. Slowly
+evenly into the air, yielding uniformly dry buds with minimal THC [[decomposition]]. Slowly
 dried buds taste sweet and smoke smooth. Taste and aroma improve when pigments break
 down.
 
@@ -87,40 +88,3 @@ unevenly.
 
 - **Bend test:** Stems should snap rather than fold when bent
 - **Squeeze test:** Buds should feel dry to the touch but not brittle
-- **Burn test:** Buds should burn well enough to smoke when dry
-- Buds that are too wet will not smoke properly and risk mold
-
-## Enemies of Drying Cannabis
-
-- **Light (UV rays):** Hastens biodegradation and THC decomposition
-- **Heat:** Speeds drying too much and degrades cannabinoids
-- **Friction:** Rough handling bruises and knocks off resin glands
-- **High humidity:** Promotes mold growth
-- **Stagnant air:** Prevents even moisture evaporation
-
-Inspect [[cervantes-drying-buds-methods]] daily for any signs of fungus, mold, and [[cervantes-spider-mites-identification-control]]. Fungus and
-spider mites can also migrate from dead plants to live ones -- do not dry plants in the
-same room where live plants grow.
-
-## Fast Drying Methods (Not Recommended)
-
-Several fast-drying methods exist (oven, microwave, food dehydrator, [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]) but all
-produce inferior results. Buds that dry quickly burn hot; the smoke is harsh, and they
-taste "green" when smoked. These methods should only be used in emergencies.
-
-## Space Requirements
-
-Small harvests can dry in a closet, cabinet, or cardboard box. Large harvests need
-dedicated drying rooms. Do not dry plants in the same room where live plants grow --
-different climates are required, and pests can migrate from dead to live plants. A
-staggered planting schedule with early and late varieties can spread out the harvest
-and drying workload.
-
-## Transition to Curing
-
-Once buds pass the snap test and feel dry externally, they still contain internal
-moisture. They are ready for [[curing-cannabis]] -- the second post-harvest stage
-- [[flushing-nutrients]] -- pre-harvest preparation for better drying
-- [[cannabis-odor-control-and-carbon-filters]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]
-- [[teaming-with-microbes-plant-control]]

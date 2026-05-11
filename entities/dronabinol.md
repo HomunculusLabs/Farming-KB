@@ -10,7 +10,7 @@ type: entity
 
 # Dronabinol
 
-**Type:** Chemical / Pharmaceutical / Synthetic Cannabinoid
+**Type:** Chemical / Pharmaceutical / [[synthetic-cannabinoid-pharmaceuticals-sativex-dronabinol-marinol]]
 **Category:** FDA-approved THC isomer
 **Also known as:** Marinol, synthetic delta-9-THC
 
@@ -18,10 +18,10 @@ type: entity
 Dronabinol is a synthetic isomer of delta-9-tetrahydrocannabinol
 (THC), approved by the FDA for medical use. Marketed under the brand
 name Marinol, it is one of three FDA-approved cannabinoid-based
-pharmaceuticals (alongside Nabilone and Sativex). Dronabinol is
+pharmaceuticals (alongside [[nabilone]] and Sativex). Dronabinol is
 chemically identical to natural THC in molecular formula but differs
 in structural arrangement (isomer). It activates both CB1 and CB2
-cannabinoid receptors.
+[[cannabinoid-receptors-cb1-and-cb2]].
 
 ## Key Details
 
@@ -88,11 +88,3 @@ effect. Clinical evidence consistently shows that whole-plant cannabis
 or broad-spectrum extracts often outperform isolated THC for many
 conditions. Dronabinol's existence also demonstrates that cannabinoid
 medicine gained mainstream medical acceptance decades before cannabis
-legalization, with FDA approval dating to the 1980s.
-
-## See Also
-- [[nabilone]]
-- [[cannabinol-cbn]]
-- rimonabant
-
-See also: [[cannabis-evidence-based-medicine-chi-methodology]]

@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Gilbertson RL, Ryvarden L. "growing-gourmet-north-american-reishi-species Polypores, Vol. 1."
     Fungiflora, Oslo, 1986.
-  - Ryvarden L, Gilbertson RL. "North American Polypores, Vol. 2."
+  - Ryvarden L, Gilbertson RL. "[[growing-gourmet-north-american-reishi-species]] Polypores, Vol. 2."
     Fungiflora, Oslo, 1987.
   - Overholts LO. "The Polyporaceae of the dmt-containing-plants-united-states-halpern, Alaska,
     and Canada." University of Michigan Press, 1953.
@@ -69,7 +69,7 @@ revision as more species are sequenced.
 
 ## Distribution and Habitat
 
-*Tyromyces chioneus* is broadly distributed across temperate regions
+*Tyromyces chioneus* is broadly distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]
 of Europe, North America, and Asia. It is among the most commonly
 encountered polypores on dead hardwood in mixed deciduous forests.
 The species fruits from summer through autumn, occasionally
@@ -77,42 +77,14 @@ persisting into winter in mild climates. It grows on dead or dying
 hardwood, especially oak, maple, beech, birch, and ash. It is most
 frequently found on fallen logs and standing dead timber, though it
 occasionally colonizes living trees with compromised heartwood.
-Fruiting bodies are often solitary but may form overlapping clusters.
+[[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are often solitary but may form overlapping clusters.
 
 ## Ecological Role
 
 *T. chioneus* is a white-rot fungus that degrades both lignin and
 cellulose in hardwood substrates. It is an important component of the
-[[decomposer-fungi-succession|decomposer fungi succession]] on fallen
+[[decomposer-fungi-succession]] on fallen
 hardwood, typically appearing during intermediate stages of [[bloomfield-wood-decay-fungi-spalted-timber]]
 after initial colonizers have begun softening the substrate. The soft,
 moist basidiocarp provides habitat and moisture for various
 invertebrates, including fungivorous beetles and mites.
-
-The species is frequently found alongside other [[white-rot-fungi|white rot]] polypores including [[trametes-versicolor-entity|Trametes versicolor]] and [[fomes-fomentarius|Fomes fomentarius]]. Its white-rot
-mechanism contributes to the release of carbon dioxide and the
-recycling of nutrients bound in [[bark-xylotropic-endophytes-woody-tissue-colonization]]. The fungal mycelium
-extends beyond the visible fruiting structure, permeating the wood
-substrate with an extensive hyphal network.
-
-## Wood Decay
-
-The white-rot decay produced by *T. chioneus* results in a bleaching
-effect on the wood, which becomes pale, soft, and eventually fibrous.
-Unlike brown-rot fungi that primarily attack cellulose, *T. chioneus*
-attacks lignin preferentially, leaving behind a cellulose-rich residue.
-The enzymatic machinery includes laccases, lignin peroxidases, and
-manganese-dependent peroxidases typical of the [[white-rot-fungi|white rot]] condition. The species contributes to the broader [[brown-rot-fungi-cellulose-degradation-wood-decay| wood decay]] ecology by competing with brown-rot species for substrate
-access. Decayed wood colonized by *T. chioneus* typically shows a
-mottled white appearance with soft, spongy texture.
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[trametes-hirsuta]]
-- [[fomes-fomentarius]]
-- [[ganoderma-applanatum]]
-- [[laetiporus-sulphureus]]
-- [[polyporus-umbellatus]]
-- [[schizophyllum-commune]]
-- [[brown-rot-fungi-cellulose-degradation-wood-decay]]

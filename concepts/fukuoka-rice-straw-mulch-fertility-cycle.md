@@ -1,7 +1,7 @@
 ---
 source: administrator-microsoft-word-fukuoka-textdoc.md
-source_author: Masanobu Fukuoka
-title: Rice Straw Mulch as the Engine of Soil Fertility
+source_author: [[masanobu-fukuoka]]
+title: Fukuoka Rice Straw Mulch Fertility Cycle
 topic: natural_farming
 created: 2026-05-08
 ---
@@ -43,7 +43,7 @@ transfer of organic matter from one place to another:
 - The act of removing organic matter from one area depletes that area.
 - The decomposition of compost releases nutrients in a burst rather than the
   slow, steady release that occurs when straw decomposes directly in the field.
-- Compost preparation assumes that nature needs human help to recycle organic
+- [[mushroom-compost-preparation-historical]] assumes that nature needs human help to recycle organic
   matter, when in fact nature has been doing this for millions of years.
 
 By contrast, straw scattered on the field decomposes in place. The nutrients
@@ -63,14 +63,14 @@ When straw is applied to the field, the following biological cascade occurs:
 
 - Fungi and bacteria begin colonizing the straw within days.
 - As they feed on the cellulose and lignin, they produce humic acids that
-  improve soil structure.
-- Earthworms are attracted to the decomposing organic matter and begin
+  [[query-how-do-fungi-improve-soil-structure]].
+- Earthworms are attracted to the decomposing [[savory-soil-organic-matter-and-decomposition-dynamics]] begin
   burrowing, aerating the soil.
 - The burrows created by earthworms allow air and water to penetrate deeper.
 - Moles follow the earthworms, further loosening subsoil layers.
 - The entire soil profile becomes more porous, fertile, and alive.
 
-This is what Fukuoka meant when he said "the soil works itself." No plow, no
+This is what Fukuoka meant when he said "the [[fukuoka-natural-soil-works-itself]]." No plow, no
 rototiller, no human labor is needed to maintain soil tilth. The straw, combined
 with the action of [[savory-living-organisms-as-tools]], does it all.
 
@@ -87,60 +87,3 @@ weeds immediately became more aggressive. The straw was performing a dual
 function: feeding the soil and suppressing unwanted competition.
 
 ## Comparison with Modern Practices
-
-Modern rice farming typically removes all straw from the field after harvest,
-often burning it. The soil is then left bare until the next planting. This
-creates several problems:
-
-- The soil surface is exposed to erosion from rain and wind.
-- Organic matter is not returned to the soil, leading to depletion over time.
-- The bare soil heats up under direct sun, killing beneficial microbes near
-  the surface.
-- Without a mulch layer, moisture evaporates rapidly, requiring more
-  irrigation.
-- Weeds colonize the bare soil aggressively, necessitating herbicides or
-  hand-weeding.
-
-Fukuoka's method reverses all of these problems simultaneously. The soil is
-always covered, always being fed, always alive.
-
-## The Philosophical Dimension
-
-For Fukuoka, [[fukuoka-scattering-straw-technique]] was not merely a technique — it was an expression
-of his entire philosophy of non-action. The farmer does not need to understand
-the chemistry of decomposition or the biology of soil organisms. He does not
-need to measure nutrient levels or calculate [[ingham-compost-tea-application-rates-and-timing]]. He simply
-returns to the earth what the earth has produced, and lets nature handle the
-rest.
-
-This is the essence of "do-nothing farming." The farmer's role is minimal:
-sow seed, spread straw, harvest. Everything in between is the work of nature.
-The straw is the bridge between one harvest and the next, the material link in
-the eternal cycle of growth, death, and renewal.
-
-## Practical Application
-
-For farmers wishing to adopt this approach, Fukuoka offered these guidelines:
-
-- Never remove straw from the field. Always scatter it back.
-- Do not cut the straw into small pieces; leave it long so it forms a loose,
-  breathable mat over the soil surface.
-- If chicken droppings or other animal manure is available, scatter a thin
-  layer over the straw to accelerate decomposition.
-- Apply straw thickly enough to cover the soil completely but not so thick
-  that emerging crop shoots cannot push through.
-- Trust the process. The first year may show modest results, but the soil
-  improves progressively with each cycle.
-
-Fukuoka's fields had not been plowed or fertilized in over thirty years, yet
-they consistently produced close to 22 bushels of rice and 22 bushels of winter
-grain per quarter-acre — yields comparable to or exceeding those of neighboring
-conventional farms. The secret was the straw.
-
-## See Also
-
-- [[fukuoka-straw-mulch-fertility-cycle]]
-
-- [[fukuoka-no-tillage-rice-barley-succession]]
-- fukuoka-five-principles-natural-farming
-- [[fukuoka-microbial-ecology-decomposition]]

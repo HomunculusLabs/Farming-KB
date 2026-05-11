@@ -15,14 +15,14 @@ Reishi mushrooms (Ganoderma spp.), known as the "mushrooms of immortality," are
 lacquered polypores revered for thousands of years in traditional Chinese
 medicine. These versatile fungi grow easily indoors and outdoors worldwide on
 many hardwood types, possess aggressive antibiotic and antifungal mycelium, and
-offer documented medicinal benefits including [[cancer-immune-modulation-mechanisms]], blood sugar
+offer documented [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]] including [[cancer-immune-modulation-mechanisms]], blood sugar
 regulation, and cardiovascular support. They rank among the top ten species for
 cultivation.
 
 ## Species Characteristics and Mycelium
 
 Reishi mycelium is white and linear, hugging the agar surface almost completely
-flat, and produces a signature yellow metabolite that darkens to orange with
+flat, and produces a signature [[yellow-metabolite-excretion-mycelial-stress-indicator-grain-spawn]] that darkens to orange with
 age. The smell can be sour and somewhat unpleasant. If left at room temperature,
 spawn transforms into solid bricks almost impossible to break up. Some growers
 have used these mycelium bricks to construct living structures demonstrating
@@ -63,7 +63,7 @@ hours, inoculated with grain or supplemented [[growing-gourmet-sawdust-spawn-pro
 almost immediately after colonization, typically in two to three weeks. The
 antlers that form inside a sealed bag keep growing for weeks as they seek an
 exit. Cut the bag open to allow mushrooms to flatten and develop caps for
-sporulation, or harvest the antlers for their concentrated medicinal properties.
+sporulation, or harvest the antlers for their concentrated [[panax-ginseng]].
 
 For antler production (believed to contain more beneficial compounds), maintain
 high carbon dioxide levels by keeping bags sealed or only partially opened. The
@@ -76,64 +76,15 @@ are good indoors with dense, prolific fruiting.
 
 Reishi are slow-growing and can be harvested at any stage depending on intended
 use. Antlers are believed to contain higher concentrations of beneficial
-medicinal compounds than naturally flattened mushrooms, though these claims are
+[[cotter-mushroom-nutrition-medicinal-compounds]] than naturally flattened mushrooms, though these claims are
 not fully substantiated. Mature specimens harvested while still having their
-growing edge, just before spore release, preserve the energy they would have
+growing edge, just [[partial-veil-tropism-protection-before-spore-release]], preserve the energy they would have
 spent on sporulation. Fresh reishi keeps for one month at 38 to 42 degrees
 Fahrenheit (3 to 6 degrees Celsius).
 
 Dried antlers and fruitbodies make excellent powders. Reishi are low-water-
-content fungi, so the best preservation methods are drying and powdering or
+content fungi, so the best [[egg-preservation-methods]] are drying and powdering or
 making medicinal extracts while fresh. For [[pf-tek-alcohol-extraction-method]], use the
 supercolonization method: allow grain spawn to fully colonize for three to four
 weeks until metabolite liquid is visible, expose to light, then steep in 95
 percent ethanol for fourteen days. Hot water extraction captures additional
-water-soluble compounds.
-
-## Medicinal Properties and Marketing
-
-Ganoderma species have one of the highest beta-glucan levels of any medicinal
-fungus. Studies demonstrate immune system modulation, blood pressure
-regulation, cholesterol reduction, cardiovascular and digestive support,
-antiviral and antibacterial activity, anti-inflammatory compounds, and
-suppression of many cancer cell lines. Blood sugar regulation makes reishi one
-of the best natural treatments for diabetes patients. Hot water and alcohol
-extracts are preferred over direct consumption.
-
-Marketing reishi requires education since the mushrooms may look unusual to
-first-time buyers. Bring fruiting kits showing beautiful antlers and describe
-tincture preparation. Carry published studies supporting medicinal efficacy.
-Sales patterns vary dramatically by venue: few medicinal species sell at organic
-growers conferences, while reishi stock typically sells out at herbal
-conferences and natural healing seminars. Know your audience and tailor your
-approach.
-
-## Mycoremediation Applications
-
-Reishi mycelium has extremely high tensile strength and an affinity for
-inhibiting and lysing bacterial cells, making it a strong candidate for
-mycofiltration of water. Its ability to bind substrate with great tenacity helps
-keep biofilters from disintegrating. Myceliated reishi substrate forms an
-almost rubber-like material that can be dried and cut into any shape to fit
-tightly into manufactured filter modules. This combination of strength and
-[[mycelium-running-mushroom-antimicrobial-properties-species-chart]] makes reishi uniquely suited for water filtration
-applications.
-
-## Key Points
-
-- Reishi is among the easiest [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] to cultivate worldwide
-- Indoor fruiting occurs 2 to 3 weeks after colonization on supplemented sawdust
-- Outdoor fruiting from buried logs takes 10 to 12 months, spring through fall
-- Maintain high CO2 for antler production; introduce fresh air for conk
-  formation
-- One of the highest beta-glucan levels of any medicinal fungus
-- Fresh reishi stores 1 month at 38 to 42 degrees F; dry for long-term storage
-- Cardboard culture works well for expansion without laboratory equipment
-- Mycelial tensile strength and antimicrobial properties suit it for
-  mycofiltration
-
-## See Also
-
-- [[cotter-mushroom-products-and-value-added-applications]]
-- [[cotter-mycoremediation-techniques]]
-- [[cotter-laboratory-setup]]

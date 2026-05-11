@@ -9,11 +9,11 @@ sources:
   - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-[[peyote-and-mescaline]] n [[psychoactive-cacti-guide]] ti
+# Peyote and Psychoactive Cacti
 
 ## Overview
 
-Peyote is the most fam [[chicken-of-the-woods]] the hallucinogenic cacti, with a known history dat [[fukuoka-road-back-to-nature-overview]] k to pre-Columbian times, possibly as early as 300 BC. Along wit [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] nd relate [[psilocybe-subyungensis-south-american-mesophytic-distribution]] an species, it represents one of the major families of psychoactive plants used ceremonially for millennia.
+Peyote is the most famous of the hallucinogenic cacti, with a known history dating back to pre-Columbian times, possibly as early as 300 BC. Along with San Pedro and related [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species, it represents one of the major families of psychoactive plants used ceremonially for millennia.
 
 ## Peyote (Lophophora williamsii)
 
@@ -23,7 +23,7 @@ Peyote is a spineless, tufted, blue-green, button-like cactus that grows wild fr
 
 ### Chemistry
 
-**Mescaline** was first isolated from peyote by Arthur Heffter in 1896 -- the first hallucinogenic compound ever isolated by man. About 350 mg of mescaline is required for a psychotropic experience, though effects can be felt from as little as 100 mg. Mescaline may comprise up to six percent of dried button weight, but is more commonly around one percent. An average dried button (quarter-sized diameter, about 2 grams) requires 6-10 buttons for the desired effect.
+**Mescaline** was first isolated from peyote by [[arthur-heffter]] in 1896 -- the first hallucinogenic compound ever isolated by man. About 350 mg of mescaline is required for a psychotropic experience, though effects can be felt from as little as 100 mg. Mescaline may comprise up to six percent of dried button weight, but is more commonly around one percent. An average dried button (quarter-sized diameter, about 2 grams) requires 6-10 buttons for the desired effect.
 
 Additional alkaloids include hordenine, N-methylmescaline, N-acetylmescaline, pellotine, anhalinine, anhalonine, anhalidnine, anhalonidine, anhalamine, O-methylanhalonidine, tyramine, and lophophorine. These modify the character of the experience, making whole-peyote effects "quantitatively somewhat different" from pure mescaline -- "more physical."
 
@@ -35,7 +35,7 @@ Additional alkaloids include hordenine, N-methylmescaline, N-acetylmescaline, pe
 
 ### The Native American Church
 
-During the past two centuries, the religious use of peyote spread northward among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean (Sophora secundiflora) as a ceremonial sacrament. The ceremony was standardised during the 1800s, and by 1920 most tribes had identical ceremonial practices. Members of the Native American Church are permitted ritual use of peyote under US law.
+During the past two centuries, the religious use of peyote spread northward among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean ([[sophora-secundiflora-entity]]) as a ceremonial sacrament. The ceremony was standardised during the 1800s, and by 1920 most tribes had identical ceremonial practices. Members of the Native American Church are permitted ritual use of peyote under US law.
 
 ### Harvesting
 
@@ -47,12 +47,12 @@ San Pedro is a fast-growing columnar cactus from the Andes, used in Peruvian hea
 
 ## Other Psychoactive Cacti
 
-- **Lophophora diffusa**: A yellow-green, soft, ribless species found near Queretaro, Mexico. Contains a somewhat different alkaloid mixture with far less mescaline than L. williamsii.
+- **[[lophophora-diffusa]]**: A yellow-green, soft, ribless species found near Queretaro, Mexico. Contains a somewhat different alkaloid mixture with far less mescaline than L. williamsii.
 - **Doñana**: From northern Mexico, a cactus used by indigenous peoples.
 - **Peyotillo** (Pelecyphora aselliformis): Contains traces of mescaline too minute to have any effect.
 - **Tsuwiri** (Ariocarpus retusus): "False Peyote" -- the Huichol believe it causes madness if consumed by the impure.
 - **Sunami** (Ariocarpus fissuratus): Believed more potent than peyote, used as an intoxicating drink.
-- **Peruvian Torch** (Trichocereus peruvianus): A mescaline-bearing columnar cactus from the Andes.
+- **[[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]** ([[trichocereus-peruvianus]]): A mescaline-bearing columnar cactus from the Andes.
 
 ## The Experience
 
@@ -61,4 +61,21 @@ About half an hour after ingestion, the first effects are felt: strange intoxica
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
-- [[amanita-preparation-methods]] -- preparation of another entheogen
+- [[amanita-muscaria-preparation-methods]] -- preparation of another entheogen
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
+- [[golden-guide-peyote-and-mescaline-cacti]]
+- [[psychoactive-tryptamines-in-nature-distribution-ecology-and-evolutionary-origins]]
+- [[mescaline-peyote-and-san-pedro-guide]]
+- [[gottlieb-peyote-extraction-and-preparation-methods]]

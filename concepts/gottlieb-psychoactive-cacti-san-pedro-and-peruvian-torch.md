@@ -1,5 +1,5 @@
 ---
-title: "gottlieb psychoactive cacti san pedro and peruvian torch: mescaline-peyote-and-san-pedro-guide and Related Species"
+title: Gottlieb Psychoactive Cacti San Pedro And Peruvian Torch
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -20,7 +20,7 @@ It is native to the Andes of Peru and Ecuador.
 
 Unlike the small peyote cactus, San Pedro is large and multi-branched. In its natural
 environment, it often grows to heights of 10 or 15 feet. It is a hardy cactus and
-endures cold climates quite well, growing at altitudes from sea level to 9000 feet
+endures [[query-best-kiwifruit-varieties-for-cold-climates]] quite well, growing at altitudes from sea level to 9000 feet
 high in the Andes, most frequently found on western slopes.
 
 ### Mescaline Content
@@ -35,7 +35,7 @@ high in the Andes, most frequently found on western slopes.
 San Pedro also contains:
 
 - Tyramine
-- Hordenine
+- [[hordenine]]
 - 3-methoxytyramine
 - Anhalaninine
 - Anhalonidine
@@ -88,48 +88,10 @@ before drying or before chewing. Care is needed with splinters from the woody co
 
 Several cacti look much like San Pedro and have even been mistaken for it by trained
 botanists. In 1960 when Turner and Heyman discovered that San Pedro contained
-mescaline, they erroneously identified the plant as Opuntia cylindrica. Other South
-American Trichocereus species that contain mescaline with related alkaloids include:
 
-- **Trichocereus bridgesii**
-- **Trichocereus macrogonus**
-- **Trichocereus terscheckii**
-- **Trichocereus werdermannianus**
-
-## Traditional Use of San Pedro
-
-There is evidence that the ritualistic use of San Pedro dates back to 1000 BC. Even
-today it is used by curanderos (medicine men) of northern Peru. They prepare a drink
-called cimora from it and take this in a ceremonial setting to diagnose the spiritual
-or subconscious basis of a patient's illness.
-
-## San Pedro in Extraction
-
-San Pedro is noted as being suitable for mescaline extraction. From one kilo of dried
-San Pedro, one can anticipate a yield of 3 to 12 grams of mescaline. A kilo of dried
-San Pedro can be legally purchased for $5 to $10.
-
-## Related Alkaloids Found in San Pedro
-
-Several alkaloids found in San Pedro have notable properties:
-
-- **Homoveratrilamine** (3,4-dimethoxy-beta-phenethylamine): A dimethoxy form of the
-  mescaline molecule. No activity by itself but may alter the mescaline experience
-  slightly when taken in combination. Also found in the urine of certain types of
-  schizophrenics.
-- **3-methoxytyramine**: A phenolic beta-phenethylamine found in the plant kingdom
-  for the first time in San Pedro cacti. Also found in the urine of persons with
-  certain types of brain disorders and cancer of the nervous system.
-
-## Legal Availability
-
-San Pedro is a common ornamental plant and is generally permissible to use for normal
-horticultural purposes. This distinguishes it from peyote, which is illegal under US
-federal law. However, attempting to use San Pedro for psychedelic purposes or
-extracting mescaline from it could result in prosecution.
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[first-time-grower-common-mistakes]]
-- faires-plant-catalog-notable-species
+## See Also
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
 - [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
-- [[trichocereus-pachanoi]]
+- [[peyote-and-psychoactive-cacti]]
+- [[psychoactive-cacti-guide]]
+- [[psychoactive-cacti-of-central-mexico]]

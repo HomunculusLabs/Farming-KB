@@ -25,7 +25,7 @@ aliases:
 sources:
   - Crane EH, Reed C (2016). "Diospyros virginiana." In: Jankovics T,
     ed., Wild Crop Relatives: Genomic and Breeding Resources. Springer.
-  - Peterson R (1977). A Field Guide to Edible Wild Plants of Eastern
+  - Peterson R (1977). A [[field-guide-psilocybin-bluing-reaction-identification]] to [[edible-wild-mushrooms-by-region]] Plants of Eastern
     and Central psilocybin-north-america-pacific-northwest. Houghton Mifflin, Boston.
   - https://www.fs.usda.gov/wildflowers/plant-of-the-week/diospyros_virginiana.shtml
   - Fulbright TP (2004). "Persimmon (Diospyros virginiana) Ecology and
@@ -70,7 +70,7 @@ diameter, orange to yellow-orange when ripe, containing 1–8 seeds.
 
 ## Distribution and Habitat
 
-D. virginiana is native to the eastern and central United States, ranging
+D. virginiana is native to the eastern and central [[dmt-maoi-plants-united-states]], ranging
 from Connecticut west to eastern Kansas, south to Texas and central
 Florida. It is most abundant in the lower Mississippi Valley and
 Appalachian regions.
@@ -88,52 +88,3 @@ mid-successional species.
 ## Fruit and Nutritional Profile
 
 Unripe persimmon fruit contains high concentrations of soluble tannins
-that cause intense astringency, creating a puckering sensation in the
-mouth. Full ripeness eliminates astringency, producing a soft, jelly-like
-pulp with a rich, honeyed sweetness (Brix 20–30+).
-
-Nutritional analysis per 100 g of ripe fruit: 82 kcal, 1.4 g protein,
-0.4 g fat, 21.4 g carbohydrates, 3.6 g fiber, significant vitamin C
-(66% DV), vitamin A (55% DV), manganese (30% DV), and potassium.
-
-Traditional uses include fresh eating, puddings, persimmon bread, beer,
-and vinegar. Dried persimmons were a staple winter food for Native
-American tribes, particularly the Creek, Cherokee, and Algonquin peoples.
-
-## Cultivation and Permaculture Applications
-
-D. virginiana is increasingly recognized as a valuable food forest and
-agroforestry species. Key permaculture functions include late-season
-fruit production (September–November), wildlife habitat and forage, soil
-stabilization on eroded sites, and nitrogen contribution through leaf
-[[dighton-pine-needle-litter-decomposition-fungal-succession]].
-
-Cultivars selected for fruit quality include 'Meader' (seedless, cold
-hardy), 'Early Golden' (early ripening), 'John Rick' (large fruit), and
-'Yates' (small, prolific). Named varieties are typically propagated by
-grafting onto seedling rootstock.
-
-The tree requires minimal maintenance once established. Female trees
-require a male pollinator within 30–50 meters for fruit set, though
-parthenocarpic cultivars exist. [[hamilton-pest-and-disease-control-organic]] pressure is very low,
-with persimmon psyllid being the primary insect concern.
-
-## Timber and Ecological Value
-
-Heartwood is extremely dense (specific gravity 0.64–0.79), hard, and
-resistant to decay. The distinctive dark brown to black heartwood with
-pale sapwood is used for golf club heads, textile shuttles, turning
-stock, and specialty woodwork.
-
-The fruit is a critical wildlife food source, consumed by white-tailed
-deer, raccoons, opossums, foxes, wild turkeys, and numerous songbirds.
-The tree serves as a host plant for larvae of the persimmon moth and
-several sphinx moth species.
-
-## See Also
-
-- [[permplant-persimmon-diospyros-kaki-fruit-tree]]
-- [[agroforestry]]
-- [[pawpaw]]
-- [[robinia-pseudoacacia]]
-- native american food plants

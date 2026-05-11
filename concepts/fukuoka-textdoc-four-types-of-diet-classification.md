@@ -5,6 +5,7 @@ tags: [natural-farming, fukuoka, diet, nutrition, food-philosophy, natural-diet,
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 ## Overview
 
-Masanobu Fukuoka classifies all human diets into four categories, arranged on a spectrum from most spiritually degraded to most enlightened. This taxonomy extends his agricultural philosophy into the realm of food and health, arguing that the way one eats reflects and reinforces one's relationship with nature. The four types represent progressive stages of spiritual development, with each successive diet drawing the individual closer to unity with the natural world.
+[[masanobu-fukuoka]] classifies all human diets into four categories, arranged on a spectrum from most spiritually degraded to most enlightened. This taxonomy extends his agricultural philosophy into the realm of food and health, arguing that the way one eats reflects and reinforces one's relationship with nature. The four types represent progressive stages of spiritual development, with each successive diet drawing the individual closer to unity with the natural world.
 
 ## The Four Types of Diet
 
@@ -37,7 +38,7 @@ The second type is the diet of most people, where nutritional food is consumed t
 
 Characteristics of the scientific diet:
 
-- Based on **nutritional science** and calculation of proteins, vitamins, minerals, and calories
+- Based on **[[fukuoka-critique-western-dietetics-nutritional-science]]** and calculation of proteins, vitamins, minerals, and calories
 - Food is selected for its **measurable nutritional content** rather than its natural qualities
 - Eating is understood as **fueling a machine**: the body is treated as a mechanical organism that requires specific inputs
 - This diet generates ever-increasing desires as the person seeks greater variety, more exotic flavors, and more precisely engineered nutrition
@@ -50,7 +51,7 @@ Fukuoka identifies several fundamental problems with this approach:
 - **Narrow temporal and spatial framework**: No matter how many ingredients the scientist assembles, this will never approach a complete diet. "The whole is greater than the parts."
 - **Ignores seasonality**: The scientific approach demands year-round availability of all food groups, requiring mass production and long-term storage of out-of-season foods that are inherently less nutritious and flavorful.
 
-Fukuoka uses the four-group scoring method of the Kagawa Nutrition College as an example. While appearing sensible, this system requires a year-round supply of high-grade meat, eggs, milk, bread, and vegetables, necessitating greenhouse production of winter vegetables and the degradation of food quality.
+Fukuoka uses the four-group scoring method of the Kagawa Nutrition College as an example. While appearing sensible, this system requires a year-round supply of high-grade meat, eggs, milk, bread, and vegetables, necessitating greenhouse production of [[coleman-cold-hardy-winter-vegetables]] and the degradation of food quality.
 
 ### Type 3: The Diet of Principle (Spiritually Guided)
 
@@ -87,38 +88,3 @@ Fukuoka describes this as the diet of "true man," someone with a truly healthy b
 ## The Progression Between Types
 
 Fukuoka describes a path of dietary development:
-
-1. Begin by **discarding the empty, self-indulgent diet** that is the root of disease
-2. Recognize the **limitations of the scientific diet** that merely sustains the organism
-3. Practice a **diet of principle** as an intermediate step, applying natural laws to eating
-4. Strive toward the **ultimate goal** of the non-discriminating diet
-
-The progression is not merely about changing what one eats but about transforming one's relationship with food itself. Each stage represents a fundamental shift in consciousness about what food is, where it comes from, and how one should relate to it.
-
-## Seasonal Eating as Natural Law
-
-Fukuoka illustrates the non-discriminating diet with detailed descriptions of seasonal Japanese eating. The farmer's diet of the seven herbs of spring, the shellfish of [[coleman-overwintered-onions-and-early-spring-crops]], the bamboo shoots and rockfish of late spring, the loquats and peaches of early summer, the cereal grains of autumn, and the pickled vegetables and wild game of winter, all represent a natural diet that arises spontaneously from living in accordance with the seasons.
-
-He emphasizes that this is not a system to be learned or a set of rules to follow. The people of farming and fishing villages naturally ate what was available locally and seasonally, without nutritional calculations or philosophical analysis, and this diet provided everything the body needed.
-
-## Flavor and the Disconnected Senses
-
-Fukuoka argues that modern man has lost his instinctive sense of taste. People chase after flavor because they have lost it. When the senses are intact, a person can judge accurately what is delicious and nourishing. Modern man bases his judgments on mistaken knowledge and searches with his five "deranged senses" for food, resulting in a chaotic diet.
-
-The locus of flavor is not in the food itself but in the relationship between the eater, the food, and the total conditions under which eating occurs. True flavor can be perceived only with the five senses, the mind, and the spirit working in harmony. Flavor must be in consonance with the spirit.
-
-## The Unity of Nutrition and Pleasure
-
-Fukuoka insists that taste and nutrition should not be separated. What is nourishing and good for the human body should stimulate the human appetite of its own accord and serve as delicious food. The idea that one must eat unpalatable food because it is "good for you" represents, in Fukuoka's view, a fundamental reversal in human thinking.
-
-Farmers of the past enjoyed simple meals of barley and rice with unrefined soy sauce and pickled vegetables. This gave them strength and long life. Rather than thinking in terms of "drawing nutrition," Fukuoka suggests it makes more sense to recognize that working hard in the fields made one hungry, which is why coarse fare tasted delicious. A strong body can draw sustenance from a simple diet.
-
-## See Also
-
-- [[fukuoka-four-types-of-diet]]
-- [[fukuoka-textdoc-four-types-diet-self-indulgence-non-discrimination]]
-
-- [[fukuoka-textdoc-getting-natural-diet]]
-- [[fukuoka-natural-diet-four-types]]
-- [[fukuoka-textdoc-decline-quality-food]]
-- [[fukuoka-five-tastes-health]]

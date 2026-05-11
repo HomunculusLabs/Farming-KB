@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value. (see [[mushroom-nutritional-composition]]).
+Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and [[cordyceps-cancer-bioactive-compounds]] found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common [[palmer-edible-mushrooms-north-america]] and compares their nutritional value.
 
 ## Macronutrient Profile
 
@@ -75,13 +75,13 @@ Mushrooms are excellent sources of several B vitamins:
 | Folate (B9) | DNA synthesis, cell division | 15-25 ug (5-8% DV) |
 | B12 (cobalamin) | Nerve function, blood formation | Trace amounts (variable, debated) |
 
-Note: B12 content in mushrooms is controversial. Some studies detect B12, but it may be from bacterial contamination of mushroom surfaces rather than intrinsic fungal production. Mushrooms should not be relied upon as a primary B12 source for vegans. (see [[medicinal-mushroom-guide-oyster]]).
+Note: B12 content in mushrooms is controversial. Some studies detect B12, but it may be from bacterial contamination of mushroom surfaces rather than intrinsic fungal production. Mushrooms should not be relied upon as a primary B12 source for vegans.
 
 ### Antioxidant Vitamins
 
 - Vitamin C: Low in most culinary mushrooms (0-5 mg/100 g)
 - Vitamin E: Small amounts (trace)
-- The primary antioxidant value comes from non-vitamin compounds: ergothioneine, selenium, glutathione, and phenolic compounds
+- The primary antioxidant value comes from non-vitamin compounds: ergothioneine, selenium, glutathione, and [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 
 ## Minerals
 
@@ -91,7 +91,7 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 | Copper | Iron metabolism, antioxidant enzymes | 0.3-0.5 mg/100 g (15-25% DV) |
 | Potassium | Fluid balance, nerve function | 300-500 mg/100 g (8-14% DV) |
 | Phosphorus | Bone health, energy metabolism | 80-120 mg/100 g (8-12% DV) |
-| Iron | Oxygen transport, energy | 0.5-1.5 mg/100 g (3-8% DV) |
+| Iron | [[hemoglobin-and-oxygen-transport]], energy | 0.5-1.5 mg/100 g (3-8% DV) |
 | Zinc | Immune function, wound healing | 0.5-1.0 mg/100 g (5-9% DV) |
 | Manganese | Bone formation, metabolism | 0.05-0.5 mg/100 g |
 

@@ -9,7 +9,7 @@ date: 2026-05-08
 
 ## Overview
 
-In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1983), Terence McKenna
+In "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (1983), [[terence-mckenna]]
 advanced the provocative thesis that language is not merely a human
 communication tool but a self-replicating information system that has
 achieved a degree of autonomy from its biological hosts. He described
@@ -88,62 +88,5 @@ own replication and evolution. The implication is that human
 culture and technology are not purely human achievements but the
 extended phenotype of a linguistic replicator.
 
-## The Tryptamine Connection
-
-McKenna connected this thesis to the tryptamine experience. The
-DMT state, with its [[mckenna-translinguistic-objects-cognitive-dissonance-tryptamine]] and alien language
-phenomena, suggests that language as we know it is a particular
-configuration of a more fundamental capacity:
-
-"Perhaps a human language is possible in which the intent of
-meaning is actually beheld in three-dimensional space. If this
-can happen on DMT, it means it is at least, under some
-circumstances, accessible to human beings."
-
-The tryptamine experience reveals language's deeper potential —
-a mode of communication where meaning is not sequentially decoded
-but simultaneously beheld as spatial, multidimensional objects.
-McKenna speculated that given sufficient cultural engagement with
-this capacity, "does anyone doubt that it could become a cultural
-convenience in the same way that mathematics or language has
-become a cultural convenience?"
-
-## History as Linguistic Acceleration
-
-McKenna viewed human history as the story of language's growing
-power:
-- **Fire**: ~2 million years ago
-- **Language**: ~35,000 years ago
-- **Measurement**: ~5,000 years ago
-- **Science (Galileo)**: ~400 years ago
-- **Molecular biology (Watson-Crick)**: ~70 years ago
-
-Each development represents a compression of the time between
-major informational innovations, suggesting an accelerating
-trajectory toward what McKenna called "the culmination" — a
-point at which language and mind achieve a qualitatively new
-mode of existence.
-
-## Critiques and Limitations
-
-McKenna's thesis faces several challenges:
-- The DNA-language analogy, while suggestive, remains metaphorical
-  without a clear mechanism for linguistic "replication" independent
-  of human agents
-- The noosphere concept risks reification — treating an abstraction
-  as a concrete entity
-- The claim that language "moves through us" may invert the
-  relationship between emergent properties and their substrates
-- The extrapolation from DMT experiences to linguistic evolution is
-  speculative without independent evidence
 ## See Also
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[mckenna-glossolalia-and-primal-language-tryptamine-states]]
-- [[mckenna-world-made-of-language]]
-
-## Source
-
-- McKenna T. Tryptamine Hallucinogens and Consciousness. Talk at the
-  Lilly/Goswami Conference on Consciousness and Quantum Physics, Esalen
+- [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]

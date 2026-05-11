@@ -88,37 +88,3 @@ philosophy with Western food culture created a unique synthesis that continues t
 influence the European organic and [[biochar-in-agriculture]] movements today.
 
 ## Natural Diet and Human Health
-
-Fukuoka made a direct connection between the modern diet and the epidemic of chronic
-diseases in developed countries. He argued that the refining of grains, the addition
-of chemical preservatives and flavor enhancers, and the industrial processing of
-food had stripped away the vital energy and nutritional completeness that natural
-foods provided. White rice and white bread, in his view, were not foods at all but
-merely empty calories that filled the stomach while starving the body and spirit.
-
-His dietary recommendations were remarkably simple: eat brown rice or other whole
-grains as the staple food, supplement with seasonal vegetables and wild greens,
-include small amounts of fermented foods such as miso and pickles, and minimize or
-eliminate meat, dairy, and refined foods. He did not present this as a rigid
-prescription but as a return to the diet that human beings had evolved to eat, a
-diet that supported both physical health and spiritual clarity. The key principle
-was to eat locally and seasonally, allowing the body to adapt naturally to the
-changing conditions of the local environment.
-
-Fukuoka observed that children raised on natural food developed stronger immune
-systems, greater resistance to illness, and more stable emotional temperaments than
-children raised on processed food. He attributed this not only to nutritional
-factors but to the spiritual connection that natural food created between the eater
-and the living world. A child who eats food grown in healthy soil by natural methods
-is, in Fukuoka view, receiving not just nutrition but a kind of education about the
-nature of reality itself.
-
-## See Also
-
-- [[fukuoka-lundberg-natural-rice-california]]
-- [[fukuoka-green-revolution-africa-desert-reclamation]]
-- [[fukuoka-revelation-god-nature-nothingness-philosophy]]
-
-## Sources
-
-- Fukuoka, M. The Road Back to Nature. Chapters on natural diet, American and European visits.

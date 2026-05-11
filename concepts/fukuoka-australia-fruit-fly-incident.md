@@ -1,10 +1,11 @@
 ---
-title: fukuoka australia fruit fly incident Fly Incident
+title: Fukuoka Australia [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]] Incident
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, troubleshooting]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -12,7 +13,7 @@ sources:
 
 updated: 2026-04-18
 
-In April 1984, Masanobu Fukuoka found himself at the center of a
+In April 1984, [[masanobu-fukuoka]] found himself at the center of a
 national agricultural emergency when Queensland fruit fly maggots were
 discovered in fruit given to him as a gift by an Australian visitor at
 his farm in Iyo, Ehime Prefecture, Shikoku.
@@ -72,7 +73,7 @@ the fruit fly spreading.
 ## Japan: A Country Without Fruit Flies
 
 The incident highlighted a remarkable fact that surprised foreigners.
-People in Europe, Africa, Australia, and South America found it almost
+People in Europe, Africa, Australia, and [[guzman-psilocybin-mushrooms-south-america]] found it almost
 a miracle that there is a country on earth without fruit flies. They
 said that it is normal to find worms in fruit, and some just cut out
 the affected part and throw it away while others eat the fruit, worm
@@ -87,25 +88,3 @@ pesticides and destroy nature?"
 ## The Weakened Defense
 
 Fukuoka noted that this incident clearly showed that Japan's
-"water-front" defense against entry of the fruit fly is inadequate.
-Although the number of inspectors had increased a hundredfold with the
-sharp rise in plant imports and exports, the number of researchers --
-vital to an effective inspection program -- was the same as it had been
-forty years earlier: ten each in the insect and pathogen sections.
-
-In 1983 alone, the Oriental fruit fly, the melon fly, and the medfly
-were detected at Japanese airports and seaports 255 times from gifts
-of fruit brought by returning travelers. The Fukuoka incident was the
-first known instance of a major fruit fly pest actually being brought
-into the country past the quarantine barrier.
-
-## See Also
-
-- [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
-
-- [[fukuoka-textdoc-loquat-incident-microbial-mutation]]
-
-- [[fukuoka-pest-ecology]]
-- [[fukuoka-ecological-balance-principles]]
-- [[fukuoka-natural-farming-transcends-time-space]]
-- [[fukuoka-learning-about-nature-distances-one-from-nature]]

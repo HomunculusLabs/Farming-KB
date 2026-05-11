@@ -5,6 +5,7 @@ tags: [irrigation, water-management, drip-irrigation, sprinklers, passive-irriga
 date: 2026-05-09
 updated: 2026-05-09
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/concepts/irrigation-systems.md
   - /Users/t3rpz/wiki/concepts/drip-irrigation-guide.md
   - /Users/t3rpz/wiki/concepts/irrigation-watering-techniques.md

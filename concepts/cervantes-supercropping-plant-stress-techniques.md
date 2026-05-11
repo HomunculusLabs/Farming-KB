@@ -1,5 +1,5 @@
 ---
-title: Supercropping and Plant Stress Techniques
+title: Cervantes [[supercropping]] Plant Stress Techniques
 created: 2026-04-28
 tags:
   - plant-training
@@ -10,11 +10,12 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - [[cannabis-super-cropping-technique]]
   - FIM technique
   - branch pinching
-  - plant stress training
+  - plant [[low-stress-training]]
   - crushing branches
 type: concept
 ---
@@ -74,7 +75,7 @@ branches.
 Results of the four-branch technique:
 - Fewer branches are stronger and bear larger quantities of dense, heavy
   flower tops
-- More even light distribution across the canopy
+- More even [[cervantes-reflective-hoods-light-distribution]] across the canopy
 - Easier management and training
 
 Implementation: Select plants with three sets of branch nodes about six
@@ -87,58 +88,3 @@ when about six to eight inches tall.
 
 The FIM (Fuck I Missed) technique was coined by an anonymous High Times
 reader from South Africa who accidentally discovered that pinching the
-growing tip in a specific manner (rather than removing it entirely like
-traditional topping) produces multiple new growing tips instead of just
-two. FIM can be incorporated into Supercropping regimens for even more
-branching.
-
-## Important Limitations
-
-### Yield Tradeoffs
-
-Pinching back plants diminishes the yield of prime, dense tops, but it
-may not affect the overall weight of dried smoke. The total harvest may
-remain similar while individual bud size decreases and quantity increases.
-
-### Over-Pruning Dangers
-
-- Pruning all branches or removing more than 20 percent of foliage in a
-  short time frame stresses plants too much and diminishes harvest
-- Pruning too much over time may alter hormonal concentrations, causing
-  spindly growth
-- This is often seen in mother plants that provide too many clones
-- The mother must rest and gain girth, because small, spindly branches
-  root poorly
-
-### Leaf Removal Debate
-
-Some supercroppers practice removing healthy leaves so that "budding
-sites get more light." However, leaves are the plant's solar panels and
-food factories. Excessive leaf removal reduces the plant's ability to
-produce energy for flower development.
-
-## Stress and Recovery
-
-Any kind of stress disrupts hormones and slows rapid growth. When using
-Supercropping or any stress technique:
-
-- Apply stress gradually, not all at once
-- Allow adequate recovery time between sessions
-- Ensure plants are otherwise healthy and well-nourished before applying
-  stress
-- Monitor plants for signs of excessive stress (wilting, slowed growth,
-  discoloration)
-
-## Combining Techniques
-
-Supercropping works well in combination with other training methods:
-
-- [[screen-of-green]] - Supercropped branches trained through a
-  screen
-- [[cervantes-plant-support-trellis-stakes-cages]] - supports the heavier
-  branches that result from Supercropping
-## See Also
-
-- [[sea-of-green]]
-- [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-- [[cervantes-vegetative-phase]]

@@ -1,9 +1,9 @@
 ---
-title: maria-sabina-mazatec-mushroom-ceremony Culture and the Velada
+title: Mazatec Mushroom Culture And Velada
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
-tags: [mycology, mushrooms]
+tags: [[mycology]], mushrooms]
 sources: [papers/unknown-mushroom-culture-patent-2761246.md]
 ---
 # Mazatec Mushroom Culture and the Velada The [[psychedelic-mushroom-decriminalization]] use in the world. Their mushroom vigils,
@@ -87,31 +87,3 @@ The [[psychedelic-1960s-counterculture]], the mushrooms
 were "psychedelic" commodities bound up with individualism, freedom, and
 rebellion. Many visitors expected to buy and consume mushrooms without
 participating in the full velada ceremony.
-
-This cultural collision created tensions that persist to this day. The
-traditional knowledge guarded by curanderos became exposed to commercial
-exploitation and cultural appropriation on an unprecedented scale.
-
-## [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] (1894-1985), whose meeting with Wasson in 1955 made her
-internationally known. Sabina began eating mushrooms intentionally as a child of
-about six or seven, growing up in a culture where the highest class of healers
-derived their powers from the sacred mushrooms.
-
-She conducted her first [[entheogen-cimora-folk-healing-ceremony]] at approximately eight years old. Her
-reputation as a "curandera de primera" (healer of the first quality) attracted
-Wasson to Huautla and eventually made her a countercultural icon.
-
-The consequences of her fame were largely negative. The constant stream of
-visitors disrupted her practice and her community. Sabina eventually expressed
-regret about her role in making the mushroom knowledge available to outsiders.
-
-## Curandero Training
-
-Becoming a curandero in the [[shroom-cultural-history-maria-sabina-and-mazatec-tradition]] involves years of training and
-initiation. The mushrooms themselves are understood to select and train their
-practitioners. A curandero's authority derives from their relationship with the
-mushroom spirits, not from any institutional credential.
-
-The training involves learning the chants, the prayers, the diagnostic
-techniques, and the proper relationship with the mushroom beings. It is a
-demanding path that requires both natural aptitude and sustained dedication.

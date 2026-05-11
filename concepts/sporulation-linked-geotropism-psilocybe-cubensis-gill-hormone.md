@@ -1,6 +1,6 @@
 ---
-title: Sporulation-Linked Geotropism in Psilocybe cubensis
-aliases: [spore geotropism connection, gill hormone geotropism, sporulation negative geotropism, sporeless mutant geotropism, pileus reorientation mechanism]
+title: Sporulation Linked Geotropism Psilocybe Cubensis Gill Hormone
+aliases: [spore geotropism connection, gill hormone geotropism, sporulation [[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]], [[sporeless-mutant-geotropism-link-psilocybe-cubensis]], pileus reorientation mechanism]
 tags: [mycology, tropism, geotropism, sporulation, psilocybe-cubensis, mushroom-physiology, hormonal-control, basidiocarp]
 sources:
   - tropisms-in-the-mushroom-psilocybe-cubensis.md
@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Badham (1982) discovered a critical link between spore production and the expression of negative geotropism in *Psilocybe cubensis*. When basidiocarps begin producing spores, the stipe undergoes a directional change — bending upward so the pileus faces horizontally with lamellae pointing downward. This tropic switch does not occur in sporeless mutants, establishing that spore production itself is necessary for the geotropic response.
+Badham (1982) discovered a critical link between spore production and the expression of [[negative-geotropism-in-mushroom-fruiting]] *Psilocybe cubensis*. When basidiocarps begin producing spores, the stipe undergoes a directional change — bending upward so the pileus faces horizontally with lamellae pointing downward. This tropic switch does not occur in sporeless mutants, establishing that spore production itself is necessary for the [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]].
 
 ## The Two-Phase Tropic Model
 
@@ -54,7 +54,7 @@ The sporeless mutant grows normally through Phase 1, curving into the wind just 
 The existence of a mushroom "growth hormone" has been postulated by several researchers:
 
 - **Gruen (1963)** — Proposed endogenous growth regulation in carpophores of *Agaricus bisporus*
-- **Hagimoto (1963)** — Linked a mushroom growth hormone to geotropic response in *Agaricus bisporus*
+- **Hagimoto (1963)** — Linked a [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]] to geotropic response in *Agaricus bisporus*
 - **Hagimoto and Konishi (1960)** — Showed that agar diffusates from the gills can partially replace the influence of the pileus
 
 ### Decapitation Experiments
@@ -88,47 +88,3 @@ The chemical identity of the gill-produced tropic hormone remains unknown. Sever
 - **Indole acetic acid (IAA)** — Found in *Agaricus bisporus* fruitbodies (Konishi and Hagimoto, 1961), but no evidence suggests it regulates mushroom tropisms
 - **Gibberellin-like substances** — Detected in basidiomycete sporophores (Pegg, 1973), but functional role unclear
 - **Ethylene** — Implicated in autochemotropism of *Phycomyces* (Russo et al., 1977), a related fungus that shows similar tropic responses
-- **Unknown fungal hormone** — A mushroom-specific compound not yet characterized
-
-The fact that higher plant hormones (auxins, gibberellins) are present in mushrooms but do not appear to regulate their growth suggests that fungi may use entirely novel signaling molecules for tropic control.
-
-## Adaptive Significance
-
-The coupling of sporulation to geotropism provides a clear adaptive advantage:
-
-1. **Optimal spore release orientation** — A horizontal pileus with downward-facing lamellae maximizes the distance spores fall before hitting the ground, allowing more time for wind dispersal
-2. **Timing coordination** — The geotropic switch ensures the cap is correctly oriented exactly when spores are ready for release
-3. **Resource efficiency** — The mushroom invests in reorientation only when reproduction is imminent
-4. **Habitat-specific advantage** — For lignicolous and coprophagous species in unstable habitats, a horizontal pileus positioned by gravity ensures effective spore dispersal regardless of the original growth direction caused by wind or light
-
-## Comparison With *Phycomyces*
-
-*Phycomyces blakesleeanus*, a zygomycete fungus, shows a related but distinct tropic system:
-
-| Feature | *P. cubensis* | *Phycomyces* |
-|---------|--------------|-------------|
-| Anemotropism | Yes (Phase 1) | Yes |
-| Avoidance response | No | Yes (bends away from objects) |
-| Geotropism linked to reproduction | Yes (spore production) | Not established |
-| Ethylene involvement | Unknown | Yes (autochemotropism) |
-| Phototropism | Present (inhibits stipe elongation) | Present (positive) |
-
-The comparison suggests that while some tropic mechanisms may be shared across fungal lineages, the specific coupling of tropism to sporulation may be unique to basidiomycetes.
-
-## Implications for Cultivation
-
-Understanding the sporulation-geotropism link has practical implications:
-
-- **Light management** — Adequate light is needed not just for fruiting initiation but for proper cap orientation during sporulation
-- **Strain selection** — Sporeless mutants may produce deformed or misoriented mushrooms if the geotropic switch fails
-- **Airflow design** — During Phase 1, airflow influences growth direction; during Phase 2, gravity dominates
-- **Harvest timing** — The geotropic reorientation is a visible indicator that spore production has begun, signaling optimal harvest window
-
-## Related Concepts
-
-- [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]]
-- [[evaporative-demand-hypothesis-mushroom-tropism]]
-- [[anemotropism-in-fungi]]
-- [[psilocybe-cubensis-development-stages]]
-- [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]]
-- [[phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms]]

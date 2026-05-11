@@ -87,25 +87,3 @@ The acorns are edible after leaching to remove tannins and have been used histor
 Bur oak is increasingly used in ecological restoration of oak savanna ecosystems that were lost to fire suppression and agricultural conversion. Restoration involves prescribed burning and selective thinning to re-establish open canopy conditions.
 
 ## Notable Features
-
-Bur oak produces the largest acorns of any North American oak species, with some specimens bearing acorns over 4 cm in diameter. These massive seeds provide significant energy reserves for wildlife.
-
-The species is one of the longest-lived eastern hardwoods, with documented ages exceeding 400 years. The national champion bur oak, located in Paris, Texas, is over 8 meters in circumference.
-
-Bur oak exhibits remarkable hybridization with other white oak species, particularly *Quercus alba* (white oak) and *Quercus bicolor* (swamp white oak). Natural hybrids are common where species ranges overlap.
-
-## See Also
-
-- [[quercus-rubra]]
-- [[quercus-palustris]]
-- [[acer-saccharum]]
-- [[betula-papyrifera]]
-- [[tilia-cordata]]
-- [[populus-tremuloides]]
-- [[nyssa-sylvatica]]
-- [[prunus-serotina]]
-- [[fagus-grandifolia]]
-- [[betula-nigra]]
-- [[salix-babylonica]]
-- [[quercus-suber]]
-- 

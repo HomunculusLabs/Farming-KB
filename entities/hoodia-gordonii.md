@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Hoodia gordonii is a succulent plant in the family Apocynaceae, subfamily Asclepiadoideae, native to the arid regions of southern Africa. It gained international attention in the early 2000s as a commercial appetite suppressant derived from the traditional hunger-suppressing practices of the San people.
+Hoodia gordonii is a succulent plant in the family Apocynaceae, subfamily Asclepiadoideae, native to the [[fukuoka-natural-farming-in-arid-regions]] of southern Africa. It gained international attention in the early 2000s as a commercial appetite suppressant derived from the traditional hunger-suppressing practices of the San people.
 
 The species forms clumps of upright, columnar stems resembling cacti, reaching sixty to one hundred centimeters in height. Its foul-smelling flowers are pollinated by flies through carrion mimicry, a convergent pollination strategy shared with other stapeliads.
 
@@ -28,7 +28,7 @@ The appetite-suppressing properties of Hoodia gordonii are attributed to a stero
 
 Intensive commercial harvesting of wild populations during the Hoodia boom of 2004 to 2007 led to significant population declines. The species is now protected under the Convention on International Trade in Endangered Species Appendix II and is listed as endangered on the IUCN Red List.
 
-The global market for Hoodia-based dietary supplements exceeded one hundred million US dollars at peak demand in 2005. By 2008, most major retailers had withdrawn Hoodia products due to supply chain integrity concerns and lack of clinical validation.
+The global market for Hoodia-based [[medicinal-mushroom-dietary-supplements]] exceeded one hundred million US dollars at peak demand in 2005. By 2008, most major retailers had withdrawn Hoodia products due to [[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] integrity concerns and lack of clinical validation.
 
 ## Taxonomy
 
@@ -68,53 +68,22 @@ The species grows in sandy or gravelly soils on plains, rocky hillsides, and dry
 
 Annual rainfall in its native range is extremely low, averaging fifty to three hundred millimeters. Precipitation is erratic and often concentrated in brief winter showers or isolated summer thunderstorms.
 
-Hoodia gordonii tolerates extreme heat with summer temperatures regularly exceeding forty degrees Celsius. It is sensitive to frost, with tissue damage occurring at temperatures below five degrees Celsius. Plants survive extended drought periods of twelve months or longer through stem succulence and reduced metabolic activity.
+Hoodia gordonii tolerates [[extreme-heat-preparedness]] with summer temperatures regularly exceeding forty degrees Celsius. It is sensitive to frost, with tissue damage occurring at temperatures below five degrees Celsius. Plants survive extended drought periods of twelve months or longer through stem succulence and reduced [[arbuscule-isolation-metabolic-activity-assays]].
 
-The species employs CAM photosynthesis, opening stomata at night to fix carbon dioxide as malic acid. This adaptation reduces daytime transpirational water loss to negligible levels and allows growth during periods of minimal moisture availability.
+The species employs [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]], opening stomata at night to fix [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] as malic acid. This adaptation reduces daytime transpirational water loss to negligible levels and allows growth during periods of minimal moisture availability.
 
 ## Cultivation
 
-Hoodia gordonii is propagated from seed and stem cuttings. Seed propagation is preferred as it produces plants with the characteristic multi-stem clumping habit, while cuttings tend to produce single-stem plants.
+Hoodia gordonii is propagated from seed and stem cuttings. [[green-cannabis-grow-bible-cloning-and-seed-propagation]] is preferred as it produces plants with the characteristic multi-stem clumping habit, while cuttings tend to produce single-stem plants.
 
 Seeds require a well-drained, sandy germination medium and temperatures of twenty to twenty-five degrees Celsius. Germination occurs within two to four weeks, with seedlings developing the distinctive four-angled stem morphology within two months.
 
-Seed viability is relatively short-lived, declining to below fifty percent within twelve months at room temperature. Cold storage at five degrees Celsius extends viability to approximately three years, though germination rates decrease progressively with storage duration.
+Seed viability is relatively short-lived, declining to below fifty percent within twelve months at room temperature. [[root-cellaring-guide]] at five degrees Celsius extends viability to approximately three years, though germination rates decrease progressively with storage duration.
 
 Stem cuttings of ten to twenty centimeters are allowed to callus for five to seven days before planting. Rooting takes three to six weeks and success rates are generally lower than with seed propagation, approximately forty to sixty percent.
 
 Container cultivation requires an extremely porous substrate with minimal organic content. A mixture of coarse river sand, pumice, and crushed granite at a ratio of two to one to one produces optimal drainage and root aeration.
 
-Plants are watered sparingly during the growing season and kept completely dry during winter dormancy. Overwatering rapidly causes fungal stem rot, the primary cause of plant loss in cultivation. Fertilization is generally unnecessary for established plants.
+Plants are watered sparingly during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and kept completely dry during winter dormancy. Overwatering rapidly causes fungal stem rot, the primary cause of plant loss in cultivation. Fertilization is generally unnecessary for established plants.
 
-Growth rates are extremely slow, with cultivated plants typically adding only five to ten centimeters of stem height per year under optimal conditions. Plants may take five to eight years to reach flowering size from seed.
-
-## Traditional Uses and Pharmacology
-
-The San people of the Kalahari have used Hoodia gordonii for millennia as an appetite and thirst suppressant during extended hunting expeditions. Hunters would chew the fresh stem tissue to reduce hunger and thirst for periods of twenty-four to forty-eight hours.
-
-Ethnographic accounts describe San hunters covering hundreds of kilometers across the Kalahari on multi-day tracking expeditions, sustaining themselves with minimal food and water by chewing Hoodia stems at regular intervals. The bitter, astringent taste was considered acceptable given the functional benefits.
-
-This traditional knowledge was documented by European anthropologists in the 1930s and brought to wider scientific attention by the Council for Scientific and Industrial Research of South Africa in the 1960s. The CSIR began systematic investigation of Hoodia biochemistry in 1983.
-
-The appetite-suppressing steroidal glycoside P57 was isolated in 1996. It acts as an ATP-sensitive potassium channel inhibitor in the lateral hypothalamus, increasing ATP levels and activating satiety neurons that normally respond to elevated blood glucose.
-
-Clinical trials conducted by Phytopharm plc demonstrated statistically significant reductions in caloric intake among obese volunteers receiving Hoodia extract compared to placebo. However, the effect size was modest and subsequent larger trials were never completed.
-
-Pfizer, which had licensed P57 for development as a prescription anti-obesity drug, returned the rights to Phytopharm in 2003 citing difficulties in synthesizing the compound and concerns about liver toxicity observed in preclinical studies. The compound has never been approved as a pharmaceutical agent.
-
-The commercial exploitation of Hoodia sparked significant controversy regarding benefit-sharing with the San people. In 2003, a landmark agreement was reached providing the San community with royalties from Hoodia product sales, becoming one of the first successful examples of the Nagoya Protocol on access and benefit-sharing.
-
-Wild harvesting during the Hoodia boom caused severe population declines, with some areas reporting eighty to ninety percent reduction in mature plants. Cultivation of Hoodia gordonii has proven difficult at commercial scale due to slow growth rates, susceptibility to root pathogens, and variable P57 content among cultivated plants.
-
-Many dietary supplements marketed as Hoodia gordonii were found through DNA barcoding analysis to contain no Hoodia material whatsoever, instead containing fillers such as Opuntia cactus, Aloe vera, and unspecified plant fiber. This widespread adulteration contributed to the collapse of consumer confidence in Hoodia products.
-
-## See Also
-
-- [[catharanthus-roseus]]
-- [[echinopsis-pachanoi]]
-- [[lophophora-williamsii]]
-- [[agave-americana]]
-- [[aloe-vera]]
-- [[asclepias-tuberosa]]
-- [[nerium-oleander]]
-- [[vinca-minor]]
+[[coleman-sunlight-and-winter-crop-growth-rates]] are extremely slow, with cultivated plants typically adding only five to ten centimeters of stem height per year under optimal conditions. Plants may take five to eight years to reach flowering size from seed.

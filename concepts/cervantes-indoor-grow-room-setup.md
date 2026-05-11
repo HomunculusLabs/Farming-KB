@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # [[green-grow-room-environment]] Setup and Ventilation
@@ -87,26 +88,3 @@ CO2 can be supplied from:
 Cannabis produces strong odors during flowering, particularly in the last weeks. An activated carbon filter connected to the exhaust system is the most common and effective odor control method. Carbon filters must be matched to the exhaust fan's CFM rating. [[cervantes-ozone-generators-negative-ion-odor]] can also neutralize odors but must be used carefully, as ozone is harmful to humans and plants at high concentrations.
 
 Air purification should be a closed system — all air exiting the grow room should pass through the carbon filter before being vented outside. Negative pressure (more air exhausting than entering) ensures that odorous air does not escape through unfiltered openings.
-
-## Temperature and Humidity Control
-
-Ideal temperature ranges for cannabis are:
-- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: 70-85°F (21-29°C) day, 60-70°F (15-21°C) night
-- **[[cannabis-flowering-stage-management]]**: 65-80°F (18-26°C) day, slightly cooler at night
-
-Temperatures above 90°F (32°C) can cause heat stress, slow growth, and reduce potency. Below 60°F (15°C), growth slows dramatically. The temperature differential between day and night should not exceed 15°F (8°C) to prevent stress.
-
-Ideal relative humidity ranges:
-- **Clones/seedlings**: 70-80%
-- **Vegetative stage**: 50-70%
-- **Flowering stage**: 40-50%
-
-High humidity during flowering promotes bud rot (botrytis) and other fungal diseases. Air conditioners and dehumidifiers help control both temperature and humidity simultaneously.
-
-## Electrical Safety
-
-Grow rooms require significant electrical power for lighting, ventilation, and pumps. All electrical connections should be grounded and protected by circuit breakers. Use timers rated for the electrical load. Keep electrical connections away from water sources. Ground fault circuit interrupters (GFCI) outlets are essential in any environment where water and electricity coexist.
-
-## Related Topics
-- [[cervantes-growing-medium]] — Growing medium and containers
-- [[cervantes-cloning]] — Clone and mother plant care

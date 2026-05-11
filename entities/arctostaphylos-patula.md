@@ -87,27 +87,3 @@ The evergreen foliage provides year-round cover for wildlife, and the dense shru
 ## Cultivation
 
 Greenleaf manzanita is valued in western native plant landscaping for its attractive bark, glossy foliage, and [[dighton-fungal-drought-tolerance-plant-water-relations]]. It is used in fire-resistant landscaping, habitat restoration, and [[permplant-willows-salix-erosion-control-fodder]] on disturbed slopes.
-
-Propagation from seed requires fire treatment (boiling water soak or charred wood leachate) followed by cold stratification for 60–90 days. Softwood cuttings under intermittent mist yield 30–50% rooting success.
-
-[[cannabis-seed-germination-methods]] without fire treatment is typically below 5%. The most effective laboratory treatment involves a 5-minute soak in 95°C water followed by 90 days at 2–4°C, which can raise germination to 40–60%.
-
-Plants require full sun, excellent drainage, and acidic to neutral soils. Irrigation should be minimal after establishment — the species is highly drought-adapted and susceptible to root rot (*Phytophthora* spp.) in poorly drained soils.
-
-Spacing for landscape plantings is 1.5–2.5 meters. Growth rate is moderate (15–30 cm per year), with plants reaching full size in 5–10 years. No serious pests or diseases in cultivation.
-
-Pruning is generally unnecessary and can damage the natural form. Selective removal of dead branches maintains a tidy appearance without compromising the characteristic branching pattern.
-
-The species is classified as fire-resistant rather than fire-retardant — while the foliage contains volatile oils, the dense woody stems and burl-based architecture enable survival of low-to-moderate intensity fires.
-
-## See Also
-
-- [[arctostaphylos-uva-ursi]]
-
-- [[vaccinium-ovatum]]
-- [[vaccinium-macrocarpon]]
-- [[kalmia-latifolia]]
-- [[vaccinium-myrtillus]]
-- [[gaylussacia-baccata]]
-- [[vaccinium-uliginosum]]
-- [[vaccinium-vitis-idaea]]

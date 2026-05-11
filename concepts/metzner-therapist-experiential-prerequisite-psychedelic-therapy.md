@@ -1,5 +1,5 @@
 ---
-title: metzner therapist experiential prerequisite psychedelic therapy Prerequisite in Psychedelic-Assisted Psychotherapy
+title: Metzner Therapist Experiential Prerequisite Psychedelic Therapy
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -12,8 +12,8 @@ sources:
 
 ## Overview
 
-Among the five fundamental principles that Ralph Metzner identified as shared
-across both psycholytic and psychedelic models of psychotherapy, one stands
+Among the five fundamental principles that [[ralph-metzner]] identified as shared
+across both [[psycholytic-and-psychedelic-therapy-models]] models of psychotherapy, one stands
 out as both the most operationally significant and the most controversial: the
 requirement that the therapist or guide possess personal experience with the
 psychedelic state before working with clients. This principle — that effective
@@ -37,7 +37,7 @@ too vast to be bridged by description alone.
 
 This principle was not the idiosyncratic position of any single researcher
 but emerged as a consensus across the entire field of psychedelic therapy,
-spanning both the European psycholytic tradition and the Anglo-American
+spanning both the [[european-psycholytic-therapy-1960s-1970s]] tradition and the Anglo-American
 psychedelic model. It was, as Metzner notes, "widely recognized" and
 "widely assumed" — so fundamental that it functioned more as an axiom
 than as a debated proposition.
@@ -72,7 +72,7 @@ practice. In conventional pharmacotherapy — whether with antidepressants,
 antipsychotics, anxiolytics, or stimulants — the prescribing physician is
 not expected to have personal experience with the medication. The physician's
 expertise is pharmacological and clinical: understanding dosages, side
-effects, drug interactions, and therapeutic indications. The subjective
+effects, [[ayahuasca-drug-interactions]], and therapeutic indications. The subjective
 experience of the medication is irrelevant to the prescriber's competence.
 
 Psychedelic therapy reverses this relationship entirely. Here the drug is
@@ -85,47 +85,6 @@ matters, but the phenomenology matters more.
 ## Implications for Training
 
 The experiential prerequisite has profound implications for the training of
-psychedelic therapists. It implies that psychedelic experience should be a
+psychedelic therapists. It implies that [[lsd-psychedelic-experience-guide]] should be a
 component of therapist education, not merely a subject of theoretical study.
 Metzner noted that "a significant role for psychedelic experience could be
-in the training of psychotherapists" — a position that was shared by many
-practitioners in the original wave of [[mckenna-suppression-psychedelic-research-lsd-therapy]].
-
-In the contemporary revival of psychedelic therapy, this principle remains
-controversial. Current [[mushroom-cancer-clinical-trials-overview]] typically do not require therapists
-to have personal psychedelic experience, partly for legal reasons and partly
-because the modern regulatory framework treats psychedelic therapy as a
-pharmacological intervention rather than as a fundamentally experiential
-modality. Critics of this approach argue that the resulting therapy, while
-safe, may be significantly less effective than it would be with experienced
-guides.
-
-## The Shamanic Parallel
-
-Metzner drew an explicit parallel between the therapist experiential
-requirement and shamanic training practices. "This is so widely assumed in
-shamanic societies that it is hardly even discussed," he noted. Shamanic
-healers working with entheogenic plants typically undergo "lengthy
-initiation and training (sometimes lasting years) under the guidance of an
-experienced elder before working with others." The parallel is striking: in
-both [[shamanic-vs-western-psychedelic-healing]] therapy and indigenous shamanism, the guide's
-personal experience with the non-ordinary state is considered essential to
-their capacity to facilitate healing in others.
-
-## Boundaries and Limits
-
-Metzner was careful to note a significant boundary: "the vast majority of
-psycholytic and psychedelic therapists would of course not sanction the
-taking of the drug by the therapist together with the client." The
-experiential prerequisite requires prior personal experience, not
-simultaneous intoxication. The therapist must be grounded, present, and
-functional during the client's session — able to provide stability and
-guidance from a position of experiential understanding rather than shared
-dissolution.
-
-## See Also
-
-- [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]] — model comparison
-- [[metzner-hallucinogens-psychotherapy-and-shamanism]] — Metzner's full review
-- [[psychedelic-psychotherapy-history]] — broader historical context
-- [[hofmann-delysid-product-psychotherapy]] — clinical LSD context

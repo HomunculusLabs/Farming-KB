@@ -1,7 +1,7 @@
 ---
 title: "anticholinergic hallucinogenic plants"
 created: 2026-04-28
-tags: [anticholinergics, deliriants, datura, atropine, scopolamine,
+tags: [anticholinergics, deliriants, datura, [[atropine]], [[scopolamine]],
        solanaceae, toxic-plants]
 date: 2026-04-28
 updated: 2026-04-28
@@ -17,7 +17,7 @@ Atropine and scopolamine are tropane alkaloid drugs found in several
 plant species, primarily within the Solanaceae (nightshade) family.
 These compounds are competitive antagonists of muscarinic cholinergic
 receptors and act as central nervous system depressants. Unlike
-classical hallucinogens such as LSD or psilocybin, anticholinergics
+classical hallucinogens such as LSD or [[psilocybin]], anticholinergics
 produce a distinct syndrome of toxic delirium often called "deliriant"
 effects. The frighteningly adverse overdose profile usually precludes
 common recreational abuse of these plants.
@@ -42,7 +42,7 @@ Despite toxicity at recreational doses, these are important medications:
   salivary secretions during surgery
 - **Organophosphate poisoning**: Atropine is a primary treatment for
   organophosphate pesticide poisoning and nerve agent exposure
-- **Motion sickness**: Scopolamine is a common treatment, available
+- **[[blesching-cannabis-motion-sickness]]**: Scopolamine is a common treatment, available
   in transdermal patches
 
 ## Key Plant Species
@@ -56,7 +56,7 @@ the US as an ornamental flower.
 
 ### Hyoscyamus niger (Henbane)
 
-Hyoscyamus niger contains scopolamine without atropine. It has a long
+[[hyoscyamus-niger]] contains scopolamine without atropine. It has a long
 history in European folk medicine and as a toxic additive to
 beverages. Introduced to the US as an ornamental.
 
@@ -88,59 +88,3 @@ Overdose can be lethal with symptoms including fever, tachycardia,
 cardiac arrhythmias, seizures, coma, and death. Reports of bizarre
 self-injury are not uncommon because intoxication lasts for hours or
 days, and the delirium induces dramatic disconnection from reality.
-Some symptoms, such as headache and pupillary dilation, may persist
-for days or weeks.
-
-## Shamanic and Historical Use
-
-Scopolamine and atropine are described as euphorogenic, and shamanic
-use has occurred among Native Americans and indigenous peoples
-worldwide. These plants have a long history in various cultural
-contexts including [[harner-european-witchcraft-hallucinogens]] and folk magic, Native American
-ceremonial practices, ancient Greek and Roman oracle rituals, and
-[[solanaceous-hallucinogens-of-medieval-european-witchcraft]] medicine.
-
-## Geographic Distribution
-
-Most anticholinergic plants were introduced to the US as ornamental
-flowers. Datura species have become widely naturalized and grow wild
-throughout most of the US (except Wyoming and Alaska). Their hardiness
-and prolific [[cervantes-seed-production-storage]] make them persistent weeds.
-
-## Risk Profile
-
-The risk profile is among the highest of all psychoactive botanicals:
-
-- **Narrow [[cannabis-therapeutic-index-overview]]**: Small difference between active and
-  lethal doses
-- **Unpredictable alkaloid content**: Varies significantly between
-  plants and plant parts
-- **True delirium**: Users may have no awareness they are intoxicated
-- **Long duration**: Effects can last many hours or days
-- **Inability to distinguish hallucinations from reality**: Risk of
-  acting on false perceptions leading to injury
-
-## Legal Status
-
-The plants are not scheduled, though atropine and scopolamine are
-regulated as prescription medications. The frightening overdose profile
-generally serves as a strong natural deterrent to recreational use.
-
-## References
-
-- Halpern, J.H. (2004). Pharmacology & Therapeutics, 102, 131-138.
-- Brown, J.H. & Taylor, P. (2001). In Goodman and Gilman's The
-  Pharmacologic Basis of Therapeutics, pp. 155-174.
-- Ardila, A. & Moreno, C. (1991). Brain Cogn, 15, 236-245.
-- Arnett, A. (1995). Clin Toxicol Rev, 18, 1-2.
-
-## See Also
-
-- [[european-hallucinogenic-mushroom-prevalence-and-trends]]
-
-- [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]]
-- [[european-prevalence-hallucinogenic-mushrooms]]
-- [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]
-- [[smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms]]
-
-- [[shamanism-and-hallucinogenic-plants]]

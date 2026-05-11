@@ -10,7 +10,7 @@ tags:
   - termite-symbiosis
   - edible-mushroom
   - tropical-fungi
-  - mycology
+  - [[mycology]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -25,7 +25,7 @@ created: 2026-04-28
 
 Termitomyces clypeatus is a basidiomycete fungus in the family Lyophyllaceae, notable for its obligate mutualistic symbiosis with fungus-growing termites of the genus Macrotermes.
 
-The species is distributed across tropical Africa and South and Southeast Asia, where it is cultivated within termite mounds as the primary food source for the colony.
+The species is distributed across tropical Africa and South and [[psilocybe-southeast-asia-pacific]], where it is cultivated within termite mounds as the primary food source for the colony.
 
 T. clypeatus is one of the most widely consumed wild [[palmer-edible-mushrooms-north-america]] in West Africa and parts of India, prized for its large size and excellent flavor.
 
@@ -55,7 +55,7 @@ Gills are free, crowded, white to cream-colored, with lamellulae of varying leng
 
 A distinctive feature is the prominent annulus (ring) on the stipe, which is membranous, white, and often persistent.
 
-A sterile, button-like structure called the "terminus" is often found at the base of the stipe, which is the primordium from which the fruiting body originated within the termite comb.
+A sterile, button-like structure called the "terminus" is often found at the base of the stipe, which is the primordium from which the [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] originated within the termite comb.
 
 Spores are smooth, ellipsoidal, 7–9 × 4.5–6 μm, hyaline, non-amyloid, with a prominent germ pore.
 
@@ -73,7 +73,7 @@ The fungus is cultivated by termites within the mound on a substrate of partiall
 
 The mutualistic relationship between Termitomyces and fungus-growing termites is one of the most refined examples of insect-fungus agriculture.
 
-Termites construct the fungus comb from predigested plant material and inoculate it with Termitomyces spores or mycelium carried from the previous comb.
+Termites construct the fungus comb from predigested plant material and inoculate it with Termitomyces spores or [[mycelium]] carried from the previous comb.
 
 The fungus decomposes the lignocellulosic substrate, producing nutrient-rich fungal nodules (mycotêtes) that termites consume as their primary food source.
 
@@ -87,33 +87,4 @@ Cultivation of T. clypeatus outside of the termite mound has been studied but re
 
 In vitro growth on potato dextrose agar and other synthetic media has been achieved, with optimal growth at 28–32°C and pH 5.5–6.5.
 
-Efforts to develop commercial [[synthetic-log-cultivation-methods-guide]] have had limited success, though the species shows potential for cultivation on lignocellulosic substrates such as sawdust and rice straw.
-
-The nutritional profile of T. clypeatus is comparable to other [[fungi-cultivated-mushrooms-pathogens-competitors]], with high protein content (25–35% dry weight) and significant levels of essential amino acids.
-
-## Edibility and Culinary Use
-
-T. clypeatus is considered an excellent edible mushroom with a mild, pleasant flavor and firm texture.
-
-In West Africa, it is one of the most commercially important wild mushrooms, sold in local markets during the rainy season at premium prices.
-
-The mushroom is typically prepared by grilling, frying, or adding to soups and stews, and is valued for both its nutritional content and [[ethnomycology-cultural-significance-sacred-fungi]].
-
-In India, T. clypeatus is collected from termite mounds in rural areas of West Bengal, Odisha, and Assam, where it is used in traditional cuisine.
-
-## Bioactive Compounds
-
-Research has identified several bioactive metabolites in T. clypeatus, including polysaccharides with immunomodulatory and antioxidant properties.
-
-The species produces termitomycamides, a class of bioactive lipids that have been investigated for potential antimicrobial and antifungal activities.
-
-β-glucans extracted from the fruiting bodies have shown immunostimulatory effects in preliminary in vitro studies, consistent with the medicinal properties attributed to many [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
-
-Preliminary research suggests potential hepatoprotective and anti-inflammatory activity of extracts, though clinical studies are lacking.
-
-## See Also
-
-- [[termitomyces-heimii]]
-- [[agaricus-bisporus]]
-- [[mycology]]
-- [[spore-print]]
+Efforts to develop commercial [[synthetic-log-cultivation-methods-guide]] have had limited success, though the species shows potential for cultivation on lignocellulosic substrates such as sawdust and [[fukuoka-rice-straw-mulch-central-technique]].

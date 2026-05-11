@@ -1,10 +1,10 @@
 ---
-title: Double Cover Microclimate Protection
+title: Coleman Double Cover Microclimate Protection
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
     title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
-    author: Eliot Coleman
+    author: [[eliot-coleman]]
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -25,9 +25,9 @@ coldest months of the year.
 The outer layer of the greenhouse provides the primary protection,
 sheltering plants from wind and precipitation while capturing solar
 energy during daylight hours. The inner layer -- typically a
-spun-bonded polyester row cover fabric such as Agribon P19 or P30 --
+spun-bonded polyester [[coleman-row-cover-fabric-management]] such as Agribon P19 or P30 --
 creates a secondary zone of thermal protection immediately above the
-crop canopy. This double layer system provides far more than the sum
+crop canopy. This [[coleman-cold-greenhouse-double-layer-protection]] system provides far more than the sum
 of its individual parts.
 
 ## Temperature Protection That Increases with Cold
@@ -69,7 +69,7 @@ allowing replanting to continue right through winter.
 ## The Diurnal Heat Cycle
 
 A key factor in making this system work is the diurnal (daytime)
-influx of solar energy. Even the wan sunlight of a cloudy winter day
+influx of [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]. Even the wan sunlight of a cloudy [[coleman-winter-day-length-and-persephone-months]]
 warms the covered beds above freezing during daylight hours. With the
 exception of one or two extremely cold winter days each year -- when
 an unusually cold night is followed by a heavily overcast day -- the
@@ -88,40 +88,3 @@ crisp, ready for harvest.
 
 The inner layer typically consists of wire hoops supporting the row
 cover fabric, creating a tunnel within the tunnel. These hoops need
-to be tall enough to clear the crop canopy without crushing the
-plants, and the fabric must be secured at the edges to prevent it
-from blowing open in wind. On sunny winter days, the inner covers
-should be pulled back to allow full light penetration and to prevent
-overheating.
-
-The row cover fabric should be managed daily -- opened on sunny
-mornings and closed before temperatures drop in late afternoon. This
-routine becomes second nature quickly and represents the primary
-daily labor involved in [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]] production. The fabric
-itself is lightweight and can be handled by one person, making it
-practical for small-scale operations.
-
-## Comparison with European Practices
-
-During visits to Provence and Tuscany, Coleman found tunnel
-greenhouses everywhere, many with smaller tunnels inside them.
-European growers added the second layer to get a slightly earlier
-start with tomato and pepper crops, and confirmed the 6 to 7 degrees
-Fahrenheit of freeze protection. However, those growers were focused
-on tender crops and warm-weather production. The innovative insight
-of the winter harvest system was to apply this same technique to
-cold-hardy crops, where the progressive increase in protection at
-lower temperatures becomes the decisive factor.
-
-European growers in those regions enjoy average January temperatures
-of 40 to 45 degrees Fahrenheit, compared with the 21 degrees
-Fahrenheit average in coastal Maine. Despite the dramatically more
-severe climate, the double-layer system makes winter vegetable
-production possible in regions where it has traditionally been
-considered impossible.
-
-## See Also
-
-- [[coleman-high-tunnel-cold-frame-design]]
-- [[coleman-cold-hardy-varieties]]
-- [[coleman-cold-greenhouse-double-layer-protection]]

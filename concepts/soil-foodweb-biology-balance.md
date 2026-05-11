@@ -1,5 +1,5 @@
 ---
-title: Soil soil foodweb biology balance and Balance
+title: Soil Foodweb Biology Balance
 source: The Field Guide for actively-aerated-compost-tea - Elaine Ingham
 source_author: Dr. Elaine R. Ingham
 tags: [soil-foodweb, soil-biology, bacteria, fungi, protozoa, nematodes, trophic-levels, nutrient-cycling]
@@ -28,14 +28,14 @@ conventional chemical management, which bypasses the biology entirely.
 
 Soil organisms occupy distinct trophic levels arranged in a hierarchy
 of energy transfer. At the base are decomposers — bacteria and fungi
-— that break down organic matter and mineral substrates. They capture
+— that break down [[savory-soil-organic-matter-and-decomposition-dynamics]] mineral substrates. They capture
 energy and nutrients from dead material and make them available to
 higher trophic levels.
 
 Above the decomposers are grazers — protozoa and bacterial-feeding
 nematodes — that consume bacteria and release plant-available nutrients
 through their waste products. This grazing activity is essential for
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] because it converts microbial biomass into forms that
+[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] because it converts [[soil-microbial-biomass-measurement-ecological-significance]] into forms that
 plant roots can absorb.
 
 At the highest trophic levels are predatory nematodes, microarthropods,
@@ -53,7 +53,7 @@ nutrients needed by these quick-maturing plants.
 Perennial plants, shrubs, and trees typically require fungal-dominated
 soils for optimal health. Fungi decompose more recalcitrant organic
 materials including lignin and cellulose, providing a slower, steadier
-nutrient release that matches the longer growth cycles of woody plants.
+[[solomon-cool-climate-compost-soil-temperature-nutrient-release]] that matches the longer growth cycles of woody plants.
 
 The fungal-to-bacterial biomass ratio is a key indicator of soil health
 for a given ecosystem type. Early successional communities such as
@@ -61,7 +61,7 @@ weedy fields show ratios of 0.1:1 or less, while old-growth forests
 may reach ratios of 100:1 or greater.
 
 Most agricultural soils have been pushed toward bacterial dominance
-through repeated tillage and synthetic fertilizer inputs. Restoring
+through repeated tillage and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] inputs. Restoring
 fungal populations is often the first priority when rebuilding degraded
 soil foodwebs for perennial or orchard systems.
 
@@ -69,7 +69,7 @@ soil foodwebs for perennial or orchard systems.
 
 Protozoa — including flagellates, amoebae, and ciliates — are the
 primary grazers of soil bacteria and essential components of the
-nutrient cycling process. As they consume bacteria, they excrete excess
+[[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]] process. As they consume bacteria, they excrete excess
 nitrogen in ammonium form, making it directly available to plants.
 
 Flagellates are the smallest protozoa and most numerous in soil. They
@@ -88,23 +88,3 @@ Nematodes occupy multiple functional roles within the soil foodweb.
 Bacterial-feeding nematodes consume bacteria and release nitrogen in
 plant-available forms, functioning similarly to protozoa but at larger
 scale and through the soil profile.
-
-Fungal-feeding nematodes regulate fungal populations and cycle nutrients
-held in fungal biomass. Predatory nematodes consume other nematodes,
-providing [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of root-feeding species. This diversity
-of feeding strategies makes nematodes valuable bioindicators.
-
-Root-feeding nematodes are generally only problematic when the soil
-foodweb is significantly out of balance. A healthy, diverse foodweb
-keeps root-feeding nematode populations in check through competition
-for root resources and active predation.
-
-## Balancing Biology and Chemistry
-
-Soil biology directly influences soil chemistry in profound ways.
-Microbial activity determines [[ph-and-nutrient-availability-garden-soils]], pH buffering
-capacity, [[compost-tea-recipe-guide]]
-## See Also
-- [[decomposition]]
-- [[compost-tea-recipe-guide]]
-- [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]]

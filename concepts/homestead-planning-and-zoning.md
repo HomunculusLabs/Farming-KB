@@ -3,19 +3,19 @@ title: Homestead Planning and Zoning
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading, law, design, sustainability, permaculture]
+tags: [[homesteading]], law, design, sustainability, [[permaculture]]
 sources: []
 ---
 
 # Homestead Planning and Zoning
 
-Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and legal battles that drain time and money. Research before you buy, not after you build. (see [[comparison-constructed-wetlands-vs-bioswales]]).
+Before breaking ground on any homestead project, understanding local zoning laws, building codes, and land-use regulations is essential. Violations can result in fines, forced removal of structures, and [[sacramental-ayahuasca-legal-battles-united-states]] that drain time and money. Research before you buy, not after you build.
 
 ## Understanding Zoning
 
 Zoning is local government regulation of land use. Every county and municipality has its own zoning code. Key zoning categories relevant to homesteading:
 
-- **Agricultural (A, AG, AG-1, AG-2)** — most permissive for homesteading. Typically allows livestock, crops, outbuildings, and home businesses with minimal restriction. Setback requirements still apply. (see [[earthworks-for-water-management]]).
+- **Agricultural (A, AG, AG-1, AG-2)** — most permissive for homesteading. Typically allows livestock, crops, outbuildings, and home businesses with minimal restriction. Setback requirements still apply.
 - **Rural Residential (RR, R-5, R-10)** — allows single-family homes with larger lot sizes. May permit some livestock (usually chickens, sometimes goats) with restrictions on number and sex. Outbuildings often require permits.
 - **Suburban Residential (R-1, R-2)** — most restrictive. Often prohibits livestock entirely or limits to a small number of hens (no roosters). Strict setback requirements and permit processes for any structure.
 - **Mixed Use or Rural Reserve** — varies widely. Read the specific code.
@@ -60,7 +60,7 @@ Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) wit
 - Greater freedom for home businesses
 
 ### Rural Challenges
-- Slower emergency response times
+- Slower [[hallucinogenic-mushroom-telephone-helplines-and-emergency-response]] times
 - Limited or no high-speed internet
 - Longer distances to supplies and markets
 - May need to maintain your own road/driveway
@@ -83,7 +83,7 @@ Some jurisdictions allow agricultural structures (barns, sheds, greenhouses) wit
 
 ## Agricultural Tax Exemptions
 
-Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for agricultural production. Requirements typically include:
+Most states offer agricultural property tax exemptions or preferential assessment rates for land actively used for [[fukuoka-agricultural-production-net-energy-deduction]]. Requirements typically include:
 
 - Minimum acreage (varies from 5 to 40 acres depending on state)
 - Minimum gross agricultural income per year (often $500-$2,500)

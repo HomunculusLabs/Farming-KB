@@ -88,30 +88,3 @@ Oyster mushrooms thrive in complex compost piles and require minimal care when g
 ### Stump and Log Cultivation
 
 Oyster mushrooms can be grown on hardwood stumps and logs, transforming a waste product of tree removal or forestry operations into a productive food system. Stump cultivation requires minimal ongoing maintenance — the cultivator drills holes, inserts spawn, and allows natural rainfall and temperature cycles to drive colonization and fruiting. Over several years, the mushroom mycelium decomposes the stump, converting woody biomass into fungal tissue and, eventually, into rich humus that benefits surrounding plants.
-
-### Soil Amendment and Nematode Control
-
-Beyond their direct value as a growing medium, spent oyster mushroom substrates have been shown to reduce populations of plant-parasitic nematodes when incorporated into garden soils. The mechanisms are not fully understood but may include direct predation by residual fungal hyphae, competition for resources, or the production of nematicidal [[antifungal-secondary-metabolites-coprophilous-fungi]]. This nematode-suppressive effect adds another layer of utility to the already versatile spent substrate, making it a dual-purpose soil amendment that provides both nutrition and pest protection.
-
-### Paper and Pulp Waste Recycling
-
-The ability of oyster mushrooms to colonize paper and pulp by-products opens an additional pathway for permaculture integration. Office waste paper, newspaper, cardboard, and other cellulosic paper products can be pasteurized and inoculated with oyster spawn, converting waste that would otherwise enter landfills into both food and useful by-products. This application is particularly attractive in urban and suburban settings where agricultural residues may be scarce but paper waste is abundant.
-
-## The Cascading By-Product Model
-
-The defining feature of oyster mushroom cultivation in a permaculture context is the cascading series of useful outputs. Raw straw enters the system and produces: (1) the mushrooms themselves as a protein-rich food; (2) soaking teas as fertilizer, insecticide, and herbicide; (3) CO2 as a greenhouse supplement; (4) spent substrate as animal fodder; and (5) fully decomposed substrate as garden mulch and soil amendment. No stage of the process produces a true waste product — every output can be directed toward a beneficial use within the broader agricultural system.
-
-### Economic Implications
-
-This cascading by-product model has significant economic implications for small-scale and homestead farmers. The primary crop (mushrooms) generates marketable produce, while the secondary and tertiary by-products offset costs that would otherwise be incurred for fertilizers, pesticides, animal feed, and soil amendments. When all of these savings are aggregated, the effective cost of oyster mushroom cultivation can be remarkably low, and in some configurations the system may be net-positive even before mushroom sales are counted.
-
-### Scaling Considerations
-
-The by-product relationships described here function at both household and commercial scales. A single home cultivator growing oyster mushrooms on straw bales can generate enough spent substrate to mulch a substantial garden bed, while a commercial facility producing tons of mushrooms annually can supply sufficient CO2 to enrich a multi-acre greenhouse range and enough spent substrate to feed a significant livestock operation. The scalability of these by-product relationships makes oyster mushroom cultivation an attractive entry point for mycological permaculture at any level of production intensity.
-
-## See Also
-
-- [[mushroom-substrate-sterilization-and-pasteurization]]
-- [[mycological-permaculture-integration]]
-- [[fungal-cellulose-degradation]]
-- [[co2-enrichment-cannabis]]

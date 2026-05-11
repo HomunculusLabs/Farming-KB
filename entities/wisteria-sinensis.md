@@ -88,25 +88,3 @@ Chinese wisteria (*W. sinensis*) and Japanese wisteria (*W. floribunda*) are the
 *W. sinensis* twines clockwise (left to right when viewed from above), while *W. floribunda* twines counterclockwise. Chinese wisteria flowers open simultaneously, whereas Japanese wisteria flowers open progressively from the base.
 
 Japanese wisteria racemes are generally longer (30–90 cm vs. 15–30 cm in Chinese wisteria) and the individual flowers are slightly larger. Chinese wisteria is considered slightly more fragrant overall.
-
-## Landscape Design and Cultural Significance
-
-Chinese wisteria has deep cultural significance in East Asia. It has been cultivated in Chinese gardens for over 1,000 years and features prominently in traditional art, poetry, and textile design.
-
-In Japan, wisteria viewing festivals (*fuji matsuri*) celebrate the spectacular floral displays in spring. The Ashikaga Flower Park in Tochigi Prefecture is famous for its massive wisteria canopy.
-
-In Western [[comparison-mandala-garden-design-vs-keyhole-garden-design]], Chinese wisteria is used as a specimen vine on strong architectural structures. Its dramatic floral display makes it a focal point in spring gardens, particularly when trained over pergolas and arbors.
-
-## See Also
-
-- [[wisteria-frutescens]]
-
-- [[parthenocissus-tricuspidata]]
-- [[morus-alba]]
-- [[prunus-spinosa]]
-- [[humulus-lupulus]]
-- rubus-idaeus-entity
-- [[ceanothus-thyrsiflorus]]
-- [[vaccinium-angustifolium]]
-- crataegus-monogyna
-- [[rubus-fruticosus]]

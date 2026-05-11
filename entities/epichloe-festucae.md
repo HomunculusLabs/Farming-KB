@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Schardl, C.L. et al. (2013). "Epichloë endophytes: clavicipitaceous symbionts." Mycologia 105(6): 1433-1457.
   - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium." Fungal Genetics and Biology 48(2): 82-90.
-  - Clay, K. & Schardl, C.L. (2002). "Evolutionary origins and ecological consequences of endophyte symbiosis." Annual Review of Ecology and Systematics 33: 451-470.
+  - Clay, K. & Schardl, C.L. (2002). "[[tryptamine]] and ecological consequences of endophyte symbiosis." Annual Review of Ecology and Systematics 33: 451-470.
   - Leuchtmann, A. et al. (2014). "Epichloë endophytes in natural grass populations." Evolutionary Applications 7(3): 375-385.
 aliases:
   - E. festucae
@@ -27,15 +27,15 @@ aliases:
 
 ## Overview
 
-**Epichloë festucae** is a systemic fungal endophyte in the family Clavicipitaceae
+**Epichloë festucae** is a systemic [[fungal-endophyte-colonization-patterns]] in the family Clavicipitaceae
 (order Hypocreales) that forms symbiotic associations with cool-season grasses of the
 genus *Festuca*. Unlike [[singh-entomopathogenic-fungi-biocontrol-agents]] that kill their hosts, *E. festucae*
 maintains a persistent mutualistic relationship within aboveground plant tissues,
 transmitted vertically through host seeds.
 
 The fungus confers significant agronomic benefits including enhanced [[dighton-fungal-drought-tolerance-plant-water-relations]],
-improved nutrient acquisition, and protection from herbivorous insects via production of
-bioactive alkaloids. Certain strains, however, produce ergot alkaloids toxic to livestock,
+improved [[dighton-ericoid-mycorrhizal-nutrient-acquisition]], and protection from herbivorous insects via production of
+bioactive alkaloids. Certain strains, however, produce [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] toxic to livestock,
 making strain selection critical for pastoral use.
 
 ## Taxonomy and Classification
@@ -45,7 +45,7 @@ Hypocreales → Family: Clavicipitaceae → Genus: *Epichloë* → Species: *E. 
 
 The genus was elevated from *Acremonium* sect. *Albo-lanosa* based on molecular systematics
 by Glenn, Bacon, Hanlin, and White (1996). *E. festucae* sensu stricto is the type species
-of the genus and the ancestral endophyte of cultivated tall fescue (*Festuca arundinacea*
+of the genus and the ancestral endophyte of cultivated tall fescue (*[[festuca-arundinacea]]*
 syn. *Schedonorus arundinaceus*).
 
 Multiple haplotypes exist, including common toxic strain (CTS) and novel endophyte
@@ -76,7 +76,7 @@ growth within the apoplast.
 
 The symbiotic interface involves direct hyphal-to-plant-cell contact through the plant
 cell wall, with [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurring across a specialized matrix. Mutations in
-signaling pathways (e.g., noxA, sakA) disrupt hyphal morphology and can convert the
+[[plant-signaling-pathways]] (e.g., noxA, sakA) disrupt hyphal morphology and can convert the
 interaction from mutualistic to pathogenic.
 
 ## Bioactive Alkaloids
@@ -88,38 +88,3 @@ including *Listronotus bonariensis* (Argentine stem weevil) without toxicity to 
 Loline alkaloids (loline, N-acetylloline, N-formylloline) are pyrrolizidines potent
 against a broad range of invertebrate herbivores including aphids and nematodes. These are
 produced by genes in the LOL gene cluster.
-
-Ergot alkaloids (ergovaline, lysergic acid amide) are produced by some strains and cause
-fescue toxicosis in grazing livestock, manifesting as reduced weight gain, heat stress
-intolerance, and reproductive problems in cattle. Saturated ergopeptines are the primary
-toxic compounds.
-
-## Distribution and Host Range
-
-*E. festucae* is distributed globally wherever its *Festuca* hosts grow, across temperate
-grasslands of Europe, [[psilocybin-north-america-pacific-northwest]], South America, New Zealand, and Australia. It has
-been deliberately introduced into pastoral systems worldwide through infected seed.
-
-Natural host species include *Festuca rubra* (red fescue), *F. ovina* (sheep fescue),
-*F. pratensis* (meadow fescue), and *F. arundinacea* (tall fescue). Infection frequencies
-in natural populations vary from 20-80% depending on geographic location and host species.
-
-## Agricultural Significance
-
-Novel endophyte strains of *E. festucae* (e.g., AR542, NEA2) have been selected for
-retention of insect-deterring peramine and lolines while lacking ergot alkaloid production.
-These strains deliver the agronomic benefits of endophyte symbiosis without livestock
-toxicity.
-
-Endophyte-infected tall fescue occupies over 14 million hectares in the southeastern
-United States. Transitioning pastures from wild-type to novel endophyte strains requires
-complete stand renovation, as the fungus is seed-transmitted and cannot be cured in
-established plants.
-
-## See Also
-
-- [[cordyceps-militaris]]
-- [[pleurotus-ostreatus]]
-- biocontrol
-- [[integrated-pest-management]]
-- [[agaricus-bisporus]]

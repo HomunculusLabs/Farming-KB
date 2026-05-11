@@ -17,7 +17,7 @@ sources:
 
 ## Overview
 
-**Celosia argentea** L. is an annual herbaceous plant in the family Amaranthaceae, widely cultivated as both an ornamental and a vegetable crop across tropical and subtropical regions. Common names include **cockscomb**, **plumed cockscomb**, **feathered amaranth**, and **silver cock's comb**.
+**Celosia argentea** L. is an annual herbaceous plant in the family Amaranthaceae, widely cultivated as both an ornamental and a [[vegetable-crop-demand-classification-fertility-matching-solomon]] across tropical and subtropical regions. Common names include **cockscomb**, **plumed cockscomb**, **feathered amaranth**, and **silver cock's comb**.
 
 The species is valued for its striking, brightly colored inflorescences that resemble feathery plumes or crested combs. In many parts of Africa and South Asia, the tender leaves and young stems are consumed as a nutritious leafy green vegetable. The plant also has a long history of use in traditional medicine systems across Asia and Africa.
 
@@ -49,7 +49,7 @@ The specific epithet *argentea* means "silvery," referring to the silvery sheen 
 
 *Celosia argentea* is native to tropical and subtropical regions of Africa and South and [[psilocybe-southeast-asia-pacific]]. Its exact center of origin is uncertain, but it has been cultivated across the [[datura-metel-old-world-ethnobotany]] tropics for centuries.
 
-The species has been introduced and naturalized in the Americas, Australia, and Pacific Islands. It grows as a weed in disturbed areas, roadsides, and cultivated fields in tropical and warm temperate regions worldwide.
+The species has been introduced and naturalized in the Americas, Australia, and [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]]. It grows as a weed in disturbed areas, roadsides, and cultivated fields in tropical and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide.
 
 The plant thrives in warm climates with mean annual temperatures of 20–30°C and annual rainfall of 500–1,500 mm. It is adapted to a wide range of soil types but performs best in well-drained, fertile loams with a pH of 5.5–7.0. It is moderately drought-tolerant once established but produces the most leaf biomass with regular moisture.
 
@@ -75,7 +75,7 @@ In traditional Chinese medicine, the seeds (known as *qing xiang zi*) are used t
 
 For leaf production, successive harvests can be made by cutting stems at 10–15 cm above ground level, allowing regrowth for 2–3 additional harvests per season. Total fresh leaf yield ranges from 10–25 tonnes per hectare depending on variety, soil fertility, and management.
 
-The plant responds well to organic manure and moderate nitrogen fertilization. It is relatively pest-free, though aphids, leaf miners, and whiteflies can affect yields in some regions. No major diseases significantly impact cultivation in most growing areas.
+The plant responds well to organic manure and moderate nitrogen fertilization. It is relatively pest-free, though aphids, [[leaf-miners-cannabis]], and whiteflies can affect yields in some regions. No major diseases significantly impact cultivation in most growing areas.
 
 As an ornamental, *C. argentea* is grown from seed or nursery transplants and is valued for its long-lasting, colorful inflorescences in garden beds and as a cut flower. The crested cristata forms are particularly popular in ornamental horticulture.
 
@@ -83,27 +83,8 @@ As an ornamental, *C. argentea* is grown from seed or nursery transplants and is
 
 Phytochemical screening of *Celosia argentea* has revealed a range of [[antifungal-secondary-metabolites-coprophilous-fungi]] with potential biological activity. The leaves and seeds contain flavonoids (including vitexin and isovitexin), saponins, tannins, alkaloids, and phenolic acids.
 
-Ethanol and aqueous leaf extracts have demonstrated moderate antibacterial activity against *Staphylococcus aureus*, *Escherichia coli*, and *Pseudomonas aeruginosa* in vitro. Antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *Aspergillus niger*.
+Ethanol and aqueous leaf extracts have demonstrated moderate antibacterial activity against *[[staphylococcus-aureus]]*, *Escherichia coli*, and *Pseudomonas aeruginosa* in vitro. Antifungal activity has been reported against *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[aspergillus-niger]]*.
 
 Anti-inflammatory and antioxidant activities have been documented in rodent models. Methanolic leaf extracts showed significant free radical scavenging activity in DPPH and ABTS assays. These activities are attributed primarily to the flavonoid and phenolic acid content.
 
 Despite promising in vitro results, clinical studies on human subjects are lacking. The traditional medicinal uses have not been validated through rigorous controlled trials, and the pharmacological properties remain preliminary.
-
-## Ecological Role
-
-*Celosia argentea* serves as a nectar and pollen source for various pollinators, including bees, butterflies, and hoverflies. The brightly colored inflorescences are particularly attractive to butterflies and make the species valuable in pollinator-friendly gardens.
-
-The plant can become weedy in agricultural fields, particularly in tropical and subtropical regions. It is classified as a weed of minor importance in several countries but is not considered invasive or ecologically damaging.
-
-Several related *Celosia* species are also cultivated, including *C. cristata* (the crested cockscomb, sometimes treated as conspecific with *C. argentea*) and *C. trigyna*, a wild African species consumed as a leaf vegetable. The taxonomic boundaries within the genus remain somewhat unresolved, with some authorities treating the crested and plumed forms as varieties of a single polymorphic species.
-
-As a fast-growing annual, *C. argentea* can provide rapid [[fukuoka-citrus-orchard-ground-cover-cultivation]] in disturbed sites. Its root system is relatively shallow but helps stabilize surface soil and reduce erosion in the early stages of [[holmgren-ecological-succession-and-pulsing]].
-
-## See Also
-
-- amaranthus-palmeri
-- [[chenopodium-album]]
-- [[spinacia-oleracea]]
-- [[talinum-paniculatum]]
-- [[amaranthus-tricolor]]
-- [[amaranthus-hypochondriacus]]

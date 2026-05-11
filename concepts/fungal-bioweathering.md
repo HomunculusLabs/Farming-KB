@@ -34,7 +34,7 @@ wider redox range more efficiently than bacteria. (see [[saprotrophic-fungi-biog
 ## Why Fungi Excel as Weathering Agents
 
 Fungi possess several attributes that make them exceptionally effective
-at mineral weathering:
+at [[ectomycorrhizal-mineral-weathering-phosphate-mobilization-gadd]]:
 
 - **Environmental resistance**: Highly resistant to metal toxicity, UV
   radiation, and desiccation
@@ -46,12 +46,12 @@ at mineral weathering:
   algae, and cyanobacteria (mycorrhizas, lichens)
 - **Filamentous exploration**: Hyphal growth increases surface area for
   mineral contact and enables translocation of nutrients within networks
-- **Nutrient translocation**: Ability to move nutrients through mycelial
-  networks across heterogeneous environments
+- **[[dighton-fungal-nutrient-translocation-element-redistribution]]**: Ability to move nutrients through mycelial
+  networks across [[fungal-mycelial-foraging-heterogeneous-environments]]
 
 ## Historical Context
 
-Fungi have been components of terrestrial microbial communities since
+Fungi have been components of terrestrial [[cannabis-rhizosphere-microbial-communities]] since
 the Ordovician period (480–460 million years ago). Fungal bioweathering
 of basaltic outcrops in sub-polar areas is believed to be chronologically
 the first weathering process, preceding cryogenic processes. Lichens were
@@ -70,7 +70,7 @@ serpentine, muscovite, feldspar, spodumene, kaolin, nepheline, natural
 glass, and even medieval and antique glass artifacts.
 
 Alkaline (basic) rocks appear more susceptible to fungal attack than
-acidic rocks. Fungi contribute to weathering of silicate-bearing rocks
+acidic rocks. [[query-how-do-fungi-contribute-to-carbon-sequestration]] weathering of silicate-bearing rocks
 (mica, orthoclase) and iron/manganese-bearing minerals (biotite, olivine,
 pyroxene).
 
@@ -83,58 +83,8 @@ Direct physical degradation through:
 - **Hyphal penetration**: Extensive penetration into decayed rocks,
   tunnelling along crystal planes, cleavage, cracks, and grain boundaries
 - **Turgor pressure**: Osmotically generated pressure within hyphae
-  exerts considerable mechanical force against mineral surfaces
+  exerts considerable mechanical force against [[fungal-community-profiling-rock-mineral-surfaces-gadd]]
 - **Thigmotropism**: Contact-guided growth towards grooves, ridges, and
   pores in solid materials, enabling exploration of weakened zones
 - **Lubrication**: Mucilaginous slime containing acidic and
   metal-chelating metabolites facilitates penetration
-
-### Biochemical Weathering
-
-Chemical dissolution through:
-
-- **Acidolysis**: Excretion of organic acids (oxalic, citric, gluconic,
-  malic, succinic) that protonate and chelate mineral cations
-- **Redox reactions**: Reduction and oxidation of metal species within
-  mineral matrices
-- **Complexation**: Metal-binding metabolites solubilize otherwise
-  insoluble mineral components
-- **Exopolymer production**: Mucilaginous sheaths create localized
-  chemical microenvironments that enhance dissolution
-
-## Ecological Rock Dwellers
-
-Rock-inhabiting microorganisms are classified by their habitat:
-
-- **Epiliths**: On rock surfaces — often microcolonial black fungi with
-  thick pigmented walls
-- **Hypoliths**: Associated with pebbles
-- **Endoliths**: In rock subsurface, forming distinct colored layers
-- **Chasmoliths**: In pre-existing cracks and fissures
-- **Cryptoendoliths**: Inside cavities among crystal grains, invisible
-  from the surface
-- **Euendoliths**: Actively boring into submerged rock
-
-## Environmental Significance
-
-Fungal bioweathering releases essential nutrients (C, N, P, K, Ca, Mg,
-Fe, Zn, Cu, Mo) from rock substrates into bioavailable forms for the
-biosphere. However, it can also mobilize toxic metals (Cd, Hg, Pb, Al)
-that may increase local environmental toxicity.
-
-## Applied Significance
-
-- **Soil formation**: Primary agent of pedogenesis from rock parent
-  material
-- **Bioremediation**: Fungal mineral-solubilizing activity can enhance
-  or undermine chemical remediation of contaminated soils
-- **Building deterioration**: Fungi degrade concrete, stone, and ceramic
-  materials, including nuclear waste storage barriers
-- **Bioleaching**: Potential for extracting valuable metals from
-  low-grade ores
-
-## See Also
-
-- [[mycorrhizal-fungi-biogeochemistry]]
-- [[mycelial-nutrient-translocation-networks]]
-- [[lichen-biogeochemistry]]

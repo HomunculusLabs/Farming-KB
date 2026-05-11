@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
   - "~/wiki/raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 ---
@@ -87,11 +88,3 @@ condition and has important implications for [[comparison-nutrient-cycling-vs-nu
   stable, and soil organic matter tends to be more humified and persistent.
 
 As described in [[lowenfels-nematode-food-web-roles]]
-and [[lowenfels-mycorrhizal-network-nutrient-sharing]] networks
-that further extend their influence. The decomposition products of fungi,
-including [[lowenfels-cover-crops-soil-biology]]. Fungi benefit
-from the habitat provided by stable soil aggregates and the continuous food
-supply from surface mulches. [[query-what-is-rock-dust-fertilizer-and-how-does-it-improve-soil]]
-
-- [[comparison-no-till-vs-living-soil-cannabis]]
-- [[comparison-amf-vs-endophytic-fungi]]

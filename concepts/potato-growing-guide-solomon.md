@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-[[steve-solomon]] considers potatoes the most calorie-efficient vegetable crop, making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
+[[steve-solomon]] considers potatoes the most calorie-efficient [[vegetable-crop-demand-classification-fertility-matching-solomon]], making them essential for any serious food garden. He provides detailed guidance on both Irish potatoes and sweet potatoes.
 
 ## Irish Potatoes
 
@@ -25,7 +25,7 @@ When growing food during lean times, maximizing calories per unit area is essent
 - Potatoes are a medium-demand vegetable. Extremely high fertility is not needed.
 - Avoid too much manure or compost, which can cause the potatoes to be diseased.
 - It's better to make the entire potato bed moderately fertile rather than concentrating amendments in rows or hills.
-- Light soils are preferred; heavy clay can restrict tuber development.
+- Light soils are preferred; [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]] can restrict tuber development.
 - Good drainage after heavy rains is essential.
 
 ### Planting
@@ -88,59 +88,3 @@ When growing food during lean times, maximizing calories per unit area is essent
 - This encourages better root development.
 - Keep well-weeded before vines run.
 - Hill up soil against stems gradually as vines grow. Extension services say hilling reduces insect problems.
-- Within two months, vines should entirely cover spaces between rows.
-
-### Pests and Disease Prevention
-
-- Most effective weapon: [[comparison-crop-rotation-vs-cover-cropping]].
-- Don't repeat sweet potatoes on same beds for at least 3-4 years.
-- During the break, don't allow bindweed or [[golden-guide-morning-glory-and-ololiuqui]] (pernicious relatives).
-- Clean up all vines, dig out all root material, and hot-compost or burn them.
-- Due to companionate effects, legumes following sweet potatoes won't grow well.
-- Best to follow with a brassica [[cover-crop]].
-
-### Harvest and Curing
-
-- Dig promptly when potatoes reach usable size. Most sizing up happens during the last few weeks.
-- Don't let them get overly large -- quality suffers in overly fertile soil.
-- Dig gently to minimize "skinning."
-- If soil is dry, light irrigation helps soften it for digging. But if soil is too wet, potatoes may crack after harvest or rot in the ground.
-- Do not allow just-harvested potatoes to sit in the sun for more than one hour -- they may scald.
-- Do not harvest after frost. Sweet potatoes in earth are badly damaged below 50 degrees F (10 degrees C).
-
-### Curing
-
-- Cure to heal scrapes on skins.
-- Ideal: stable 85-90 degrees F (29-32 degrees C), humidity around 90%, reasonable ventilation.
-- Home method: remove from sun for several hours, place in newspaper-lined boxes in dry, ventilated location.
-- After curing, store at 55-60 degrees F (13-16 degrees C). Wait a month before eating -- sweetness develops over time.
-- Don't store below 50 degrees F (10 degrees C) -- they may shrivel, become stringy, and sprout prematurely.
-
-## Related Concepts
-
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[winter-gardening-season-extension]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapters on potatoes
-
-## Merged: Solomon on Growing Melons
-
-# Solomon on Growing Melons
-
-From [[solomon-gardening-when-it-counts-index]] (2005) by Steve Solomon.
-
-## The Most Demanding Cucurbit
-
-Melons are the most heat-demanding and moisture-sensitive members of the cucurbit family. Solomon places them at the top of the cucurbit warmth sequence: squash first, then cucumbers, then melons. They are also among the fussiest about soil type -- melons do not tolerate clay soils well and are listed among the "weakly rooting species" that are intolerant of clay.
-
-## Soil Requirements
-
-Melons need well-drained, warm, sandy loam for best results. They require high fertility and consistent moisture, especially during fruit development. If the soil dries out during fruit swelling, the melons will be small and poorly flavored.
-
-## Starting Melons
-
-In short-season areas, melons should be started indoors as transplants. They need warm soil to germinate at all -- soil temperature must exceed 60 degrees Fahrenheit, and germination goes best over 75 degrees. To hold this temperature, Solomon recommends using the same germination box described for other seedlings.
-
-To chit melon seeds, fold a section of paper towelling roughly one foot square into quarters, dip it into tepid water, wring it out. Place seeds for every plant you want, spacing them. Place the moist towelling in a container or sealed plastic bag. Begin checking after a few days. Roots emerge in about three to four days.
-
-### Important Temperature Caution

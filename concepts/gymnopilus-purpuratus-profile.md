@@ -1,5 +1,5 @@
 ---
-title: gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe Profile
+title: Gymnopilus Purpuratus Profile
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -10,8 +10,8 @@ sources:
 
 # Gymnopilus purpuratus
 
-Gymnopilus purpuratus is a psychoactive mushroom species originally native to
-South America and Australia (Chile), notable for its striking purplish-red
+[[gymnopilus-purpuratus]] is a [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] species originally native to
+[[guzman-psilocybin-mushrooms-south-america]] and Australia (Chile), notable for its striking purplish-red
 coloration and its status as the first confirmed psilocybin-containing member
 of the family Cortinariaceae.
 
@@ -47,7 +47,7 @@ compost was plowed and shipped as fertilizer to surrounding fields, the
 mushrooms continued to grow on wood piles in new locations.
 
 Gartz noted that with changes in economic conditions and growing ecological
-awareness in Eastern Germany, this composting process would likely be
+awareness in Eastern Germany, this [[composting]] process would likely be
 discontinued, potentially causing the species to disappear from Europe once
 again.
 
@@ -82,41 +82,9 @@ again.
 Gymnopilus purpuratus is remarkable for containing the highest levels of psilocin
 among all European psychoactive mushroom species. Quantitative analyses revealed:
 
-| Collection | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
+| Collection | Psilocybin (%) | Psilocin (%) | [[baeocystin]] (%) |
 |---|---|---|---|
 | 1988 sample 1 | 0.29 | 0.28 | 0.05 |
 | 1988 sample 2 | 0.31 | 0.29 | 0.04 |
 | 1987 sample 1 | 0.32 | 0.03 | 0.03 |
 | 1987 sample 2 | 0.21 | 0.02 | 0.02 |
-
-The instability of the psilocin molecule was demonstrated by comparing samples
-collected one year apart. During storage, much of the psilocin had decayed,
-showing that this alkaloid is not stable over long periods in dried mushroom
-material. Alkaloid concentrations were found to be higher in smaller mushrooms.
-
-## Yurimagua Indians and Historical Context
-
-The discovery of psilocybin in a [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Gymnopilus species gave new
-significance to historical accounts from the 17th and early 18th centuries.
-Jesuits who travelled to the western Amazon (Peru) reported that the Yurimagua
-Indians habitually prepared a potently intoxicating potion from a tree-dwelling
-mushroom. The mushrooms appeared on fallen trees as a "reddish growth with a
-spicy taste." The potion was said to be so potent that nobody who swallowed
-three mouthfuls could resist its effects.
-
-The mushroom was thought to be Psilocybe yungensis, but since Gymnopilus species
-are reddish and tend to colonize dense tree trunks (while Psilocybe species grow
-almost exclusively on wood sprigs and bark debris), the "tree-dwelling" mushroom
-was most likely a Gymnopilus species closely related to G. purpuratus.
-
-## Significance
-
-The discovery of psilocybin in Gymnopilus purpuratus was the first time this
-substance had been found in a member of the family Cortinariaceae. This finding,
-combined with the later identification of psilocybin in
-[[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
-
-- [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] — Tiny European psychoactive mushroom
-- [[psilocin-and-psilocybin-chemistry]] — The active compounds
-- [[psilocybin-mushroom-microscopic-identification]]
-- gartz-magic-mushrooms-global-distribution-patterns

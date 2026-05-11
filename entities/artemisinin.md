@@ -32,7 +32,7 @@ Organization's first-line treatment for *Plasmodium falciparum* malaria.
 The compound contains a unique 1,2,4-trioxane ring system featuring an
 endoperoxide bridge, which is essential for its antimalarial mechanism
 of action. This peroxide moiety reacts with intracellular iron in the
-malaria parasite, generating reactive oxygen species that kill the
+malaria parasite, generating [[reactive-oxygen-species-and-oxidative-stress]] that kill the
 organism.
 
 Artemisinin and its derivatives (artesunate, artemether, dihydroartemisinin)
@@ -88,40 +88,3 @@ and is a major public health concern.
 ## History
 
 Artemisinin was discovered in the early 1970s through Project 523, a
-secret Chinese military research program initiated in 1967 to find new
-antimalarial drugs during the Vietnam War era. Tu Youyou identified the
-active principle from *Artemisia annua* after studying traditional
-Chinese medical texts that described the plant's use for fever.
-
-A critical breakthrough came when Tu revisited the 340 CE text
-*Zhouhou Beiji Fang* by Ge Hong, which recommended cold-water extraction
-of *qinghao* (the Chinese name for *A. annua*) for intermittent fevers.
-Low-temperature extraction preserved the heat-labile endoperoxide
-bridge that had been destroyed in earlier high-temperature attempts.
-
-The compound was first called qinghaosu (meaning "artemisia extract")
-in Chinese. Its structure was elucidated in 1979 by a collaborative
-Chinese research group. Tu Youyou received the 2015 Nobel Prize in
-Physiology or Medicine for this work.
-
-## Production
-
-Artemisinin is primarily extracted from the aerial parts of *Artemisia
-annua*, a herbaceous annual plant native to temperate Asia. The plant
-typically contains 0.1–1.0% artemisinin by dry weight, with content
-varying significantly based on genotype, growing conditions, and
-[[cannabis-harvest-timing-visual-cues]].
-
-**Extraction and synthesis:**
-
-- **Plant extraction:** Dried leaf material is extracted with organic
-  solvents (hexane, petroleum ether), followed by column chromatography
-  and crystallization to isolate pure artemisinin.
-- **Semi-synthetic production:** Dihydroartemisinin (DHA) is produced by
-  chemical reduction of artemisinin, then derivatized to artesunate or
-  artemether.
-- **Synthetic biology:** Engineered yeast (*[[psilocybin]]] — Another plant-derived bioactive compound with
-
-## See Also
-
-- [[herbal-medicine-making-basics]]

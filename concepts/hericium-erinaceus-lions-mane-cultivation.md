@@ -87,14 +87,3 @@ compounds called Herinacines, which are strong stimulators of nerve growth
 factor (NGF) synthesis (Kawagishi et al., 1994). This NGF-stimulating
 property has generated considerable scientific interest for potential
 applications in neurodegenerative conditions.
-
-## Flavor Profile
-
-Hericium erinaceus ranks as one of the Stamets family's favorite gourmet
-
-## See Also
-
-- hericium erinaceus lions mane cultivation
-- [[lions-mane-cultivation]]
-- [[hericium-erinaceus]]
-- [[lions-mane-hericium-erinaceus]]

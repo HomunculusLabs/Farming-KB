@@ -12,7 +12,7 @@ date: 2026-05-10
 updated: 2026-05-10
 sources:
   - Dransfield, J., et al. (2008). "Genera Palmarum: The Evolution and Classification of Palms." Royal Botanic Gardens, Kew.
-  - Henderson, A., Galeano, G., & Bernal, R. (1995). "Field Guide to the Palms of the Americas." Princeton University Press.
+  - Henderson, A., Galeano, G., & Bernal, R. (1995). "[[field-guide-psilocybin-bluing-reaction-identification]] to the Palms of the Americas." Princeton University Press.
   - Maunder, M., et al. (2002). "Conservation of the endemic palms of the Mascarene Islands." Oryx, 36(1), 56–65.
   - IUCN. (2023). "Latania loddigesii." The IUCN Red List of Threatened Species.
   - Govaerts, R., & Dransfield, J. (2005). "World Checklist of Palms." Royal Botanic Gardens, Kew.
@@ -36,7 +36,7 @@ The genus Latania contains three species, each endemic to a different Mascarene 
 
 The trunk is massive, reaching 10–15 meters in height with a diameter of 30–45 centimeters. It is gray and ringed with prominent leaf scars, gradually tapering from a slightly swollen base.
 
-Growth rate is moderate, with mature trees producing approximately 4–6 new leaves per year. The trunk retains old leaf bases for several years before they are shed, giving the upper trunk a characteristic bearded appearance.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, with mature trees producing approximately 4–6 new leaves per year. The trunk retains old leaf bases for several years before they are shed, giving the upper trunk a characteristic bearded appearance.
 
 Leaves are palmate (fan-shaped), costapalmate, and 2–3 meters in diameter. The leaf blade is divided into 60–80 rigid, lanceolate segments, each 60–100 centimeters long. The upper leaf surface is covered with a distinctive waxy blue-gray indumentum, while the lower surface is silvery-white.
 
@@ -62,9 +62,9 @@ The climate on Réunion is tropical maritime, influenced by the southeast trade 
 
 Latania loddigesii is highly valued in ornamental horticulture for its large, silvery-blue fan leaves and imposing stature. It serves as a dramatic specimen tree in tropical and subtropical landscapes, public gardens, and resort properties.
 
-The species thrives in full sun on well-drained soils and is tolerant of coastal conditions, including salt spray and wind. Cold tolerance extends to approximately 27 degrees Fahrenheit, making it suitable for USDA zones 10A through 11. It is somewhat more cold-tolerant than its Rodrigues relative, Latania verschaffeltii.
+The species thrives in full sun on well-drained soils and is tolerant of coastal conditions, including salt spray and wind. [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]] extends to approximately 27 degrees Fahrenheit, making it suitable for USDA zones 10A through 11. It is somewhat more cold-tolerant than its Rodrigues relative, Latania verschaffeltii.
 
-Propagation is from seed, which germinates erratically over a period of 2–12 months. Soaking seeds in warm water for several days before sowing can improve germination rates. Because the species is dioecious, both male and female plants are required for fruit production.
+Propagation is from seed, which germinates erratically over a period of 2–12 months. Soaking seeds in warm water for several days before sowing can improve germination rates. Because the species is dioecious, both male and female plants are required for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]].
 
 Seedling growth is moderately fast compared to many other palm species, particularly under warm, humid conditions. Young plants produce blue-tinted foliage from an early age, making them attractive even before trunk development begins.
 
@@ -72,7 +72,7 @@ Established plants are relatively drought-tolerant but benefit from regular irri
 
 ## Ecological Role
 
-Latania loddigesii is a keystone species of the original lowland dry forest ecosystem of Réunion. Its large fronds provide shade and structural habitat for understory plants, epiphytes, and wildlife.
+Latania loddigesii is a keystone species of the original lowland dry [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] of Réunion. Its large fronds provide shade and structural habitat for understory plants, epiphytes, and wildlife.
 
 The fruits are consumed by native fruit bats (Pteropus niger), which serve as important seed dispersers. This mutualistic relationship is ecologically significant, as the Réunion flying fox is itself classified as Endangered.
 
@@ -82,19 +82,8 @@ The palm's root system helps stabilize soils on steep slopes and coastal cliffs,
 
 Latania loddigesii is listed as Endangered on the IUCN Red List. The wild population on Réunion is estimated at fewer than 200 mature individuals, distributed across several small, fragmented subpopulations.
 
-Habitat destruction is the primary threat, with less than five percent of Réunion's original lowland dry forest remaining. Invasive plant species, including Psidium cattleianum (strawberry guava) and Rubus alceifolius, aggressively colonize disturbed areas and suppress native regeneration.
+Habitat destruction is the primary threat, with less than five percent of Réunion's original lowland dry forest remaining. Invasive plant species, including [[psidium-cattleianum]] (strawberry guava) and Rubus alceifolius, aggressively colonize disturbed areas and suppress native regeneration.
 
 Conservation efforts by the Réunion National Park and local botanical institutions include habitat protection, invasive species removal, and ex situ cultivation. The species is well-represented in botanical gardens worldwide, providing an important genetic safeguard.
 
 ## See Also
-
-- [[cocos-nucifera]]
-- [[bismarckia-nobilis]]
-- [[hyophorbe-verschaffeltii]]
-- [[hyophorbe-lagenicaulis]]
-- [[borassus-flabellifer]]
-- [[phoenix-dactylifera]]
-- [[roystonea-regia]]
-- [[washingtonia-robusta]]
-- licuala grandis
-- [[chamaerops-humilis]]

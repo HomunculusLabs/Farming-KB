@@ -5,7 +5,7 @@ tags:
   - fungi
   - agaricales
   - inocybaceae
-  - mycology
+  - [[mycology]]
   - toxic-mushrooms
   - temperate-fungi
 date: 2026-04-28
@@ -24,7 +24,7 @@ sources:
 split fibrecap, is a terrestrial agaric fungus in the family Inocybaceae.
 It is widely distributed across temperate hardwood and conifer forests of
 Europe and [[psilocybin-north-america-pacific-northwest]]. The species is inedible and suspected of containing
-muscarine, making it potentially toxic if consumed.
+[[muscarine]], making it potentially toxic if consumed.
 
 The epithet *rimosa* refers to the prominently radially fibrillose and often
 cracked or split cap surface, which is the species' most diagnostic field
@@ -87,62 +87,3 @@ to lageniform, often with a crystalline incrustation at the tip. Cheilocystidia
 are similar but more abundant.
 
 ## Distribution and Habitat
-
-I. rimosa is found across temperate regions of Europe, extending from the
-British Isles and France through central Europe to Scandinavia and western
-Russia. In North America, it occurs in eastern deciduous forests and the
-Pacific Northwest. It has also been reported from temperate Asia.
-
-The species is ectomycorrhizal, forming associations with a broad range of
-hardwood and conifer hosts including Quercus, Fagus, Betula, Picea, and
-Pinus. Fruiting occurs from late summer through autumn, typically solitary
-or scattered on forest floors among [[dighton-fungal-decomposition-leaf-litter-dynamics]] and moss.
-
-## Bioactive Compounds and Toxicity
-
-Members of the genus Inocybe are well-documented sources of muscarine, a
-parasympathomimetic alkaloid that acts as an agonist at muscarinic
-acetylcholine receptors. I. rimosa has been implicated in poisoning cases
-characterized by the SLUDGE syndrome: salivation, lacrimation, urination,
-defecation, gastrointestinal distress, and emesis.
-
-Symptoms typically onset within 30 minutes to 2 hours of ingestion and
-include profuse sweating, blurred vision, abdominal cramps, nausea,
-vomiting, diarrhea, bradycardia, and hypotension. In severe cases,
-respiratory depression and cardiac complications may occur.
-
-Treatment is supportive, with atropine as the specific pharmacological
-antidote. Unlike amatoxin-containing species, muscarine poisoning from
-Inocybe is rarely fatal but can cause significant discomfort and
-occasionally dangerous cardiovascular effects.
-
-## Ecological Role
-
-As an ectomycorrhizal species, I. rimosa forms mutualistic symbioses with
-forest trees, facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The fungal hyphae extend the
-effective root surface area of host trees, enhancing phosphorus and nitrogen
-uptake in exchange for photosynthetically derived carbon compounds.
-
-The genus Inocybe contributes significantly to ectomycorrhizal diversity in
-temperate forests, with species varying in host specificity. I. rimosa is
-considered a generalist associate, contributing to soil fungal networks
-across diverse forest types.
-## Related Species
-
-I. rimosa is part of the I. rimosa complex, which includes several
-morphologically similar species that can be difficult to distinguish in the
-field. Key comparators include:
-
-- **Inocybe fastigiata** — similar stature but with smoother spores and less
-  prominently cracked cap surface
-- **Inocybe geophylla** — smaller, silky-white to lilac cap, equally toxic
-- **Inocybe patouillardii** — darker cap, often with a more robust stature
-- **Inocybe lacera** — strongly scaly cap, associated with sandy soils
-
-Definitive identification typically requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore
-morphology, cystidia shape, and presence or absence of clamp connections.
-
-## See Also
-
-[[amanita-muscaria-entity]], [[russula-virescens]], [[armillaria-mellea-entity]],
-[[lactarius-indigo]], [[hericium-erinaceus]],

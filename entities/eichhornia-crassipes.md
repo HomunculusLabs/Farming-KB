@@ -88,28 +88,3 @@ In agricultural applications, composted water hyacinth provides nutrient-rich or
 Fiber from the plant stem has been used for papermaking, rope, and basketry. Handicraft industries using dried water hyacinth stems provide income in communities affected by infestations.
 
 In Thailand, Vietnam, and the Philippines, water hyacinth-based handicrafts have become established cottage industries. Woven products include furniture, baskets, bags, and decorative items marketed domestically and for export.
-
-The plant's rapid growth and nutrient absorption capacity make it a candidate for **constructed wetland systems** treating municipal wastewater, agricultural runoff, and industrial effluent. Integrated systems combining water hyacinth treatment with energy recovery are being developed.
-
-## Chemistry and Bioactive Compounds
-
-The plant contains **phenolic compounds** including gallic acid, catechin, and epicatechin with demonstrated antioxidant activity. Flavonoid content is highest in leaves and flowers.
-
-**Naphthoquinones** and **anthraquinones** have been isolated from roots and exhibit antimicrobial activity against gram-positive bacteria and certain fungi. These compounds may contribute to the plant's allelopathic effects on competing aquatic species.
-
-Mineral accumulation varies by tissue: roots concentrate heavy metals, while leaves accumulate more nitrogen and phosphorus. This differential partitioning allows strategic harvesting for targeted contaminant removal.
-
-Studies have shown that water hyacinth can accumulate up to 1,500 mg/kg dry weight of lead and 800 mg/kg of chromium in roots, making it effective for treating [[fungal-industrial-wastewater-treatment]] from tanneries and mining operations.
-
-Oxalate crystals are present in all tissues, particularly in leaves and stems, which limits direct forage use. Wilting or ensiling reduces oxalate content to safe levels for livestock consumption.
-
-Alkaloids have been detected in trace amounts in root tissue, though concentrations are generally too low to pose toxicity concerns. The allelopathic potential of the plant is attributed primarily to phenolic compounds released from decomposing biomass rather than direct chemical defense.
-
-## See Also
-
-- [[pistia-stratiotes]] — Water lettuce, floating tropical aquatic with similar invasive potential
-- [[nymphaea-alba]] — White water lily, native floating-leaved aquatic plant
-- [[phragmites-australis]] — Common reed, emergent aquatic grass dominating wetland margins
-- [[azolla-filiculoides]] — Water fern, nitrogen-fixing floating plant used in rice paddies
-- typha-latifolia-entity — Cattail, emergent aquatic plant used in constructed wetlands
-- [[nymphaea-ampla]] — White water lily of the Amazon basin, native to water hyacinth's home range

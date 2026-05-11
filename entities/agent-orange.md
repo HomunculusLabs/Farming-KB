@@ -11,7 +11,7 @@ tags:
 created: 2026-04-28
 updated: 2026-04-28
 sources:
-  - TGA Subcool Seeds breeding documentation and cannabis-african-indian-strain-descriptions-clarke.
+  - oner-choke-berry-jack-the-ripper-querkle-tga-subcool Seeds breeding documentation and cannabis-african-indian-strain-descriptions-clarke.
   - Leafly Strain Database. "Agent Orange." https://www.leafly.com/strains/agent-orange
   - AllBud Strain Reviews. "Agent Orange." https://www.allbud.com/
   - Mudge, E.M. et al. (2018). "Cannabis: Evolution and Ethnobotany."
@@ -22,7 +22,7 @@ sources:
 
 Agent Orange is a sativa-dominant hybrid [[blesching-cannabis-strain-selection-receptor-targeting]] bred by TGA Subcool
 Seeds (Subcool's The Green Avengers). It was created by crossing Orange Velvet
-Skunk with Jack the Ripper, two strains known for their potency and distinct
+Skunk with [[oner-jack-the-ripper-jacks-cleaner-space-queen]], two strains known for their potency and distinct
 [[cannabis-terpene-profiles-sativa]].
 
 The strain earned its name from its signature bright orange aroma and its
@@ -35,11 +35,11 @@ elevating daytime cultivar.
 
 **Parent 1:** Orange Velvet Skunk — a Skunk lineage strain noted for its
 sweet orange aroma and balanced effects. Contributes the dominant citrus
-terpene profile and moderate indica influence.
+[[cannabis-terpene-profile]] and moderate indica influence.
 
 **Parent 2:** Jack the Ripper — a potent sativa-dominant hybrid bred by
 TGA Subcool, itself a cross of Space Queen and Jack's Cleaner. Contributes
-the strain's high THC content, cerebral energy, and lemon notes.
+the strain's high [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]], cerebral energy, and lemon notes.
 
 The approximate sativa-to-indica ratio is reported at 75:25, reflecting the
 Jack the Ripper sativa dominance tempered by the Orange Velvet backbone.
@@ -88,52 +88,3 @@ and linalool (floral, anxiolytic).
 THC content typically ranges from 16–22%, with some phenotypes testing
 as high as 25% in optimal growing conditions. CBD content is generally
 low, below 0.1%.
-
-The THC-dominant profile produces a predominantly cerebral, psychoactive
-experience consistent with its sativa lineage.
-
-## Effects
-
-Onset is rapid, typically within 2–5 minutes of inhalation. The initial
-effects are strongly cerebral: a rush of euphoria, creative energy, and
-heightened sensory perception. Users report enhanced focus and sociability
-in the early phase.
-
-As effects mature (45–90 minutes), a mild body relaxation emerges without
-significant sedation, making this a functional daytime strain. Duration of
-effects is typically 2–3 hours.
-
-Common applications include creative work, social activities, outdoor
-recreation, and daytime mood elevation. The strain is generally not
-recommended for evening use by those sensitive to sativa effects.
-
-## Side Effects
-
-Common side effects include dry mouth and dry eyes, typical of high-THC
-cannabis. Some users report mild anxiety or paranoia at higher doses,
-particularly those predisposed to THC-induced anxiety.
-
-Headache and mild dizziness are uncommon but reported. The energetic
-nature of the effects may interfere with sleep if consumed late in the
-day. Beginner users should approach with moderate doses.
-
-## Cultivation
-
-Agent Orange is considered moderately difficult to cultivate, suitable
-for growers with some experience. It performs well in both indoor and
-outdoor environments, preferring a warm, Mediterranean-style climate.
-
-Flowering time is approximately 8–9 weeks indoors. Outdoor harvest occurs
-in early to mid-October in the Northern Hemisphere. Yields are moderate,
-approximately 350–450 g/m² indoors.
-
-The strain responds well to LST (low-stress training) and SCROG methods.
-It is relatively resistant to mold and pests but can be sensitive to
-[[cannabis-nutrient-burn-and-toxicity]], particularly nitrogen excess in late flowering.
-
-## See Also
-
-[[chemdawg]], tangie,
-[[green-crack]], cinex
-for comparison with other citrus-aroma and sativa-dominant strains.
-- [[jadam-nutrient-management-wetting-agent-and-calcium]]

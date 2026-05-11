@@ -3,15 +3,15 @@ title: Dried Herb Storage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [drying, food, homesteading, homestead-crafts, preservation, storage, preparation, plants]
+tags: [drying, food, [[homesteading]], homestead-crafts, preservation, storage, preparation, plants]
 sources: []
 ---
 
 ## Why Dry Herbs
 
-Drying herbs preserves their flavor, aroma, and medicinal properties for use long after the growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh. (see [[herb-growing-guide]]).
+Drying herbs preserves their flavor, aroma, [[panax-ginseng]] for use long after [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
 
-Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase. (see [[echinacea-growing-guide]]).
+Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase.
 
 ## When to Harvest
 
@@ -33,7 +33,7 @@ The simplest and most traditional method. Works well for low-moisture herbs like
 1. Gather 5-10 stems into small bundles (large bundles mold in the center)
 2. Tie stems tightly with string or rubber bands (stems shrink as they dry)
 3. Hang bundles upside down in a warm, dry, dark, well-ventilated area
-4. Upside-down drying preserves the essential oils in the leaves (they flow downward from the stem)
+4. Upside-down drying preserves the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in the leaves (they flow downward from the stem)
 5. A paper bag with holes punched in it can be placed over bundles to protect from dust and light
 6. Herbs are dry when leaves crumble easily between your fingers (typically 1-3 weeks)
 
@@ -144,7 +144,7 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 Every container should be labeled with:
 - Herb name (common and botanical if desired)
 - Date dried or packaged
-- Source (garden location, purchased, wild-harvested)
+- Source ([[garden-location-and-soil-preparation]], purchased, wild-harvested)
 - Any notes on variety or use
 
 A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.

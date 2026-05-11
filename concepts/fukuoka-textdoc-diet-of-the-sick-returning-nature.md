@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -21,7 +22,7 @@ type: concept
 
 ## Illness as Estrangement from Nature
 
-A natural diet appears irrelevant, primitive, and crude to people who practice an empty diet of self-indulgence in pursuit of flavor, and to those who think of food only as matter needed for sustaining biological life. But once they realize that they are in poor health, even they will begin to show an interest in natural diet.
+A [[disappearance-natural-diet]] appears irrelevant, primitive, and crude to people who practice an empty diet of self-indulgence in pursuit of flavor, and to those who think of food only as matter needed for sustaining biological life. But once they realize that they are in poor health, even they will begin to show an interest in natural diet.
 
 Fukuoka's fundamental insight was stark in its simplicity: illness begins when man moves away from nature, and the severity with which he is afflicted is proportional to his estrangement. If a sick person returns to nature, he is cured. As mankind distances itself from nature, the number of sick people rises rapidly and desires for a return to nature intensify.
 
@@ -31,9 +32,9 @@ This framing reverses the conventional medical understanding: disease is an inte
 
 ## The Paradox of Natural Diet in an Unnatural World
 
-Attempts to return to nature are thwarted because people do not know what nature is, nor do they know what a natural body is. Living a primitive life deep in the mountains, one may learn what non-intervention is but will not know nature. Yet taking some action is also unnatural.
+Attempts to return to nature are thwarted because people do not know what nature is, nor do they know what a [[fukuoka-natural-body-and-health]] is. Living a primitive life deep in the mountains, one may learn what non-intervention is but will not know nature. Yet taking some action is also unnatural.
 
-Many people living in cities have been trying to obtain natural food, but even if they succeed, without a natural body and spirit prepared to receive such food, merely consuming it does not constitute a natural diet. Farmers today are simply not producing natural foods.
+Many people living in cities have been trying to obtain natural food, but even if they succeed, without a natural body and spirit prepared to receive such food, merely consuming it does not constitute a natural diet. Farmers today are simply not producing [[fukuoka-natural-foods-movement-america]].
 
 It would probably take almost superhuman skills and judgment to live on a complete natural diet in a city under such conditions. Far from returning to nature, the very complexity of eating a natural diet in this way would just drive people further away from nature.
 
@@ -43,7 +44,7 @@ To push upon people living in different environments and of different races and 
 
 - **Raw food movement**: Some claim man should eat only uncooked food; others say drink broth from raw leaves.
 - **Medical caution**: Physicians warn that following a raw diet without knowing fully what one is doing is dangerous.
-- **Brown rice vs white rice**: Natural diets based on brown rice coexist with scientists proclaiming the merits of white rice.
+- **[[brown-rice-flour-substrate]] vs white rice**: Natural diets based on brown rice coexist with scientists proclaiming the merits of white rice.
 - **Cooking debate**: Some claim cooking enriches the diet; others argue it creates sick people.
 - **Water, salt, fruit controversies**: To some, fresh water is good; to others, bad. Some acclaim salt as invaluable while others attribute diseases to it.
 
@@ -86,47 +87,3 @@ Fukuoka's own dietary system drew upon yin-yang theory, but he was careful to pr
 The danger of any dietary theory, including yin-yang, is that it becomes an orthodoxy — a rigid set of rules that substitutes for the body's own wisdom. This self-critical awareness distinguishes Fukuoka from many dietary reformers.
 
 He offered his food guidelines not as universal prescriptions but as suggestions for people who had lost their way and needed a compass to find their direction again. Once a person has recovered their natural sensitivity to food, the compass can be set aside.
-
-## Seasonal and Local Eating
-
-Although Fukuoka rejected rigid dietary rules, certain principles emerge consistently from his writing. Eating seasonally — consuming foods that are naturally available at a given time and place — is one such principle. The body's needs change with the seasons, and nature provides different foods at different times precisely to meet those changing needs.
-
-Summer vegetables cool the body; winter roots and stored grains provide warmth and sustenance. Eating locally is another consistent principle. Foods that grow in one's immediate environment are better adapted to the body's needs than foods transported from distant climates.
-
-This is not merely a matter of freshness or nutritional content but of ecological resonance — the body and its food share the same soil, water, air, and seasonal rhythms.
-
-## The Role of Food Processing
-
-Modern food processing represents one of the most profound departures from natural eating. Milling removes the bran and germ from grains, leaving a product that stores longer but has lost most of its nutritional complexity. Refining strips oils and sweeteners of their associated minerals, enzymes, and cofactors.
-
-Additives, preservatives, and artificial flavors further distance processed food from anything found in nature. Fukuoka saw this processing not merely as a nutritional loss but as a spiritual one. The act of transforming whole foods into refined products reflects a worldview that values convenience, uniformity, and shelf life over wholeness, vitality, and connection to place.
-
-A person who eats only processed food is not just malnourished in body but impoverished in spirit, cut off from the direct experience of receiving nourishment from the earth.
-
-## Practical Implications for the Sick
-
-For the person already ill and seeking to restore health through dietary change, Fukuoka offered guidance:
-
-1. **Begin by discarding empty, self-indulgent diets** that are the root of a thousand diseases.
-2. **Recognize the limits of a scientific diet** that does no more than sustain biological life.
-3. **Move toward a diet of principle** — eating foods that are whole, local, seasonal, and produced by [[fukuoka-textdoc-creating-rice-paddy-natural-methods]].
-4. **Ultimate health is not achieved through diet alone** but through transformation of the whole person — body, mind, and spirit.
-5. **Do not expect quick fixes**. The restoration of a natural body and natural relationship with food takes time and patience.
-
-## The Ultimate Goal
-
-The greatest role of a natural diet is to return people to the bosom of nature. The path from sickness to health is not a path of increasing dietary sophistication but of decreasing artificiality. It is a journey of shedding — shedding false preferences, shedding [[fukuoka-microbes-soil-health-discriminating-knowledge]], shedding the belief that health can be achieved through intellectual effort.
-
-When one reaches this state, the question of what to eat resolves itself. The body, restored to its natural sensitivity, selects what it needs from what is available. The destination is not a particular diet but a particular way of being: open, receptive, and at home in the natural world.
-
-## Beyond Diet: The Recovery of Wholeness
-
-Fukuoka's dietary teachings ultimately point beyond food to a more fundamental recovery of wholeness. The person who eats naturally is also the person who farms naturally, lives naturally, and thinks naturally. Diet is not a separate domain of life but an expression of one's entire relationship with the world. To change one's diet without changing one's way of living is to treat the symptom while ignoring the disease.
-
-The return to nature that Fukuoka advocated is therefore not a dietary program but a comprehensive transformation — a letting go of the artificial, the conceptual, and the compulsive, and an opening to the intelligence that runs through all living things. It begins with food because food is the most intimate point of contact between the human body and the natural world, but it does not end there.
-
-## See Also
-
-- [[fukuoka-textdoc-natural-direct-seeding-versus-rice-transplanting]]
-- [[natural-diet]]
-- [[natural-farming]]

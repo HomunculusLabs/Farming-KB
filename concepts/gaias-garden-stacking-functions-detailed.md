@@ -3,6 +3,7 @@ title: gaias garden stacking functions detailed in Garden Design
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "Hemenway - Gaia's Garden"
 type: concept
 tags: [gardening]

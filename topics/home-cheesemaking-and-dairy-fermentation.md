@@ -141,9 +141,3 @@ small teats, and milking equipment can make management more demanding. The
 - [[dairy-and-cheesemaking]]
 - [[faires-dairy-processing-cheese-and-butter]]
 - faires-yogurt-and-sourdough-making
-- [[goat-cheese-making]]
-- [[homestead-dairy-equipment]]
-- [[homestead-dairy-guide]]
-- kefir making
-- [[mollison-designers-goat-dairy-and-cheese-production]]
-- [[small-scale-dairy-guide]]

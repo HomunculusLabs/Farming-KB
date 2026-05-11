@@ -13,6 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -86,41 +87,3 @@ This geometric progression in energy cost produced the energy-intensive agricult
 Fukuoka's conclusion was unambiguous: only natural farming lies in the future. Once the energy accounting becomes clear and the three-stage collapse progresses to the point where industrial agriculture is no longer viable, people will realize for themselves what they must do.
 
 The path back is not through new technology but through the abandonment of unnecessary complexity. Natural farming, which requires no external inputs, no machinery, and no chemical inputs, represents the highest energy efficiency achievable in food production. It is not a step backward but the recognition that the forward path has been a detour.
-
-## The Mu Economy
-
-Fukuoka extended his analysis to economics, proposing what he called "Mu economics," an economic system founded on the Buddhist concept of Mu (nothingness or cosmic emptiness). In this framework:
-
-- Agriculture has nothing fundamentally to do with profitability; the overriding concern is how to make use of the land
-- The goal of farming is to produce plentiful harvest by bringing out the full forces of nature
-- Farming is not centered on income or on man; at its core are natural fields that transcend man
-- The farmer is in the service of God (nature); immediate gain is a secondary concern
-
-Under Mu economics, crop prices would settle to the same level worldwide and would no longer be needed, because prices are a human invention that does not exist in nature. A quarter-acre of land is sufficient to supply the food needed for a family. The problem was never that land was insufficient but that oppressive social systems and economic mechanisms prevented farmers from living well on what they had.
-
-## The Farmland Law as Obstruction
-
-Fukuoka criticized Japan's Agricultural Land Law, originally established to protect tenant farmers, for having become an instrument that prevents new farmers from entering agriculture. Land prices and taxes on farmland were assessed on the same scale as housing land by local government, designed to drive farmers off their land by burdening them with taxes too high to afford. The land was being taken out of the hands of farmers by a barrage of laws that served only those in power.
-
-He argued that if things had been left in the hands of farmers, there would have been no need for any laws. The farmer would have passed the land to his children or neighbors smoothly and without trouble. When people can do without a law, it is best not to have that law. Only the barest minimum of laws is needed, laws that create a world that can get along without laws.
-
-## The Self-Sufficient Village
-
-Fukuoka described the traditional Japanese farming village as a model of self-sufficiency. Farmers grew a hundred crops: rice, barley, grains, sweet potato, and many different vegetables. Fruits ripened on trees next to the farmhouse, surrounded by a shelterbelt. A cow was kept under the same roof and chickens ran loose in the farmyard. A beehive hung from the eaves. All peasants were totally self-supporting and enjoyed the richest and safest possible diet.
-
-The poverty attributed to these small farmers was not inherent to their scale of operation but was imposed by oppressive social systems and political and economic mechanisms beyond their control. A quarter-acre of land is enough to supply the food needed for a family. If anything, a full acre is too large. Had the peasants been supported by a benevolent government, they could have lived like princes on their acre of land.
-
-## Practical Implications
-
-Fukuoka's three-stage model, while apocalyptic in tone, carries a practical message: the transition to natural farming is not optional but inevitable. The question is not whether humanity will return to natural methods but whether this return will happen voluntarily, through conscious choice, or involuntarily, through collapse and catastrophe.
-
-For the individual farmer, the implication is clear: begin the transition now. Establish soil fertility through cover crops and natural methods. Learn to produce food without external inputs. Develop the skills and knowledge needed to work with nature rather than against it. When the industrial agricultural system falters, those who have already made the transition will be prepared.
-
-## See Also
-
-- [[fukuoka-textdoc-three-stages-collapse-only-future]]
-
-- [[fukuoka-textdoc-energy-efficiency-caloric-accounting]]
-- [[fukuoka-textdoc-three-ways-farming-compared]]
-- [[fukuoka-mu-nothingness-philosophy]]
-- [[fukuoka-textdoc-quarter-acre-farming-self-sufficiency]]

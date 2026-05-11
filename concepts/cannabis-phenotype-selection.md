@@ -4,6 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]
@@ -53,7 +54,7 @@ selection priorities:
   limited vertical space.
 - Large, densely formed buds with high calyx-to-leaf ratio.
 - Discernible taste, particular flavors, and desirable aromas.
-- High THC content and quality of effect (long-lasting, soaring, or
+- High [[thc-content-factors-cultivation-freshness-storage-degradation-blesching]] and quality of effect (long-lasting, soaring, or
   sedative depending on preference).
 - Resistance to specific [[solomon-insects-and-diseases-integrated-approach]] common in indoor
   environments.
@@ -68,8 +69,8 @@ environmental conditions. Key priorities include:
 - Mold resistance, particularly botrytis (grey mold) and powdery
   mildew.
 - Adaptation to local climate, including temperature, humidity, and
-  light cycles.
-- Pest resistance to local insect and pathogen populations.
+  [[cannabis-photoperiodism-and-light-cycles]].
+- [[cannabis-disease-pest-resistance-breeding-clarke]] to local insect and pathogen populations.
 - Suitable stature for the [[cannabis-growing-environment-setup]] (not exceeding 6 feet
   if space is limited).
 
@@ -82,50 +83,8 @@ Breeders can expose potential breeding parents to specific environments
 or pathogens to reveal genetic strengths and weaknesses. For mold
 resistant varieties, grow candidates in a mold-prone environment and
 select those that resist infection. For potent varieties, select only
-the most potent plants after harvest and curing. Plants that require
+the most potent plants after [[cannabis-harvest-and-curing]]. Plants that require
 finishing under 6 feet should be sourced from parents that mature at
 less than 6 feet.
 
 ## Population Size Matters
-
-The breeder who grows the most plants has the greatest probability of
-finding the best breeding candidates. Choosing from as many plants as
-possible is always preferable. When selecting from just a few seeds,
-it is impossible to assure all plants will be vigorous or show desired
-traits, even from seeds of known quality. Growing varied seed stocks
-of different heritage, with many individuals per population, ensures
-the widest array of phenotypes and trait combinations for selection.
-
-## Post-Harvest Evaluation
-
-Post-harvest selection requires either partially seeding each plant
-(so only seeds from the most potent plants are used for successive
-generations) or keeping clone copies of every plant for future seed
-production once post-harvest evaluations are complete. Aromas and
-flavors change as flowers dry and cure, making post-harvest assessment
-essential for thorough evaluation.
-
-## Balancing Positive and Negative Traits
-
-Often a plant is nearly ideal but has one undesirable trait, such as
-excessive height for [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]]. The breeder must decide whether
-the positive traits outweigh the negative. If the plant is kept as a
-breeding candidate, the negative traits must be removed from the
-population at a later point through further breeding. The breeder must
-balance positive and negative aspects as possible genetic contributors
-to future generations.
-
-## Roguing Out Undesirable Plants
-
-In any breeding program, off-types that do not suit the goal should be
-removed (rogued out) from the breeding population. This applies to
-both males and females. Weak, slow-growing, diseased, or otherwise
-substandard plants should be eliminated to prevent their genes from
-entering future generations.
-
-## See Also
-
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]
-- [[cannabis-harvest-timing-visual-cues]]
-- [[cannabis-seed-selection-and-strain-types]]

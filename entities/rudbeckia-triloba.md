@@ -88,22 +88,3 @@ The cultivar 'Prairie Glow' is a widely available selection noted for its deeper
 *R. hirta* (black-eyed Susan) is an annual or short-lived biennial with coarser stem pubescence, fewer but larger flower heads (5–10 cm), and unlobed leaves. *R. hirta* prefers full sun and drier conditions.
 
 *R. fulgida* (orange coneflower) is a long-lived perennial with glossy, unlobed leaves and flower heads with more elongated rays. *R. fulgida* var. *sullivantii* 'Goldsturm' is one of the most widely planted native perennials worldwide.
-
-*R. laciniata* (cutleaf coneflower) is a tall perennial with deeply incised pinnatifid leaves and greenish-yellow central disks. It tolerates partial shade similarly to *R. triloba* but reaches much greater height (1.5–3 meters).
-
-Natural hybridization between *R. triloba* and *R. hirta* has been reported, producing intermediate forms with partially lobed leaves and variable ray coloration. These hybrids are uncommon in the wild but may occur in garden settings where both species are planted in proximity.
-
-## See Also
-
-- [[rudbeckia-laciniata]]
-- [[echinacea-purpurea]]
-- [[helianthus-annuus-entity]]
-- [[solidago-canadensis]]
-- [[monarda-fistulosa]]
-- [[helianthus-tuberosus]]
-- [[coreopsis-tinctoria]]
-- [[achillea-millefolium]]
-- [[asclepias-syriaca]]
-- [[echinacea-pallida]]
-- [[salvia-officinalis]]
-- [[liatris-spicata]]

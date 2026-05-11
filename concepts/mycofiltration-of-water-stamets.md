@@ -5,6 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [water, conservation]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
@@ -87,13 +88,3 @@ Mycofiltration installations provide benefits beyond water quality:
 - Cold temperatures slow mycelial activity and filtration effectiveness
 - Very high contaminant loads may overwhelm the system
 - Specific pollutant removal rates vary with species, substrate, and conditions
-- Long-term performance data is still being accumulated
-- Regulatory acceptance varies by jurisdiction
-
-***
-
-## Related Topics
-
-- [[tahuya-forest-road-reclamation]]
-- [[mycoforestry-principles-stamets]]
-- [[mycelium-running-multi-kingdom-bioremediation]]

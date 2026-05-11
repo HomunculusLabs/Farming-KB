@@ -12,9 +12,9 @@ updated: 2026-05-09
 sources:
   - Boydak, M. (2006). "Silviculture of Pinus brutia." In: Proceedings of the International Conference on Pinus brutia, Antalya, Turkey.
   - Panetsos, K.P. (1981). "Monograph of Pinus brutia." Institute of Forest Genetics, Volos, Greece.
-  - Korakis, G. (2000). "Genetic improvement of Pinus brutia in Greece." In: Forest Genetics and Silviculture, EFI Proceedings 38.
+  - Korakis, G. (2000). "[[genetic-improvement-agaricus-bisporus-molecular-approaches]] of Pinus brutia in Greece." In: Forest Genetics and Silviculture, EFI Proceedings 38.
   - Effat, B.A. (1998). "Assessment of some rangeland plants in the western Mediterranean coastal desert of Egypt." Journal of Arid Environments, 40(3), 299-308.
-  - Fady, B. & Médail, F. (2003). "Mediterranean pines: genetic diversity and conservation." In: Biodiversity in Mediterranean Ecosystems, EFI Proceedings.
+  - Fady, B. & Médail, F. (2003). "Mediterranean pines: genetic [[knf-seed-diversity-and-conservation]]." In: Biodiversity in [[fungal-diversity-mediterranean-ecosystems]], EFI Proceedings.
 ---
 
 ## Overview
@@ -25,9 +25,9 @@ It is one of the most economically and ecologically important forest trees in Tu
 
 The species is closely related to Pinus halepensis (Aleppo pine) and the two frequently hybridize in zones of sympatry.
 
-Turkish pine is a major source of timber, resin, and other forest products across its range.
+Turkish pine is a major source of timber, resin, and other [[mollison-specialist-tropical-crops-forest-products]] across its range.
 
-It also plays a critical role in watershed protection and erosion control on steep Mediterranean hillsides.
+It also plays a critical role in [[mycofiltration-watershed-protection]] [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] on steep Mediterranean hillsides.
 
 ## Taxonomy and Morphology
 
@@ -88,60 +88,3 @@ Natural regeneration is prolific following fire, logging, or other canopy distur
 The species is fire-adapted but less so than some other Mediterranean pines.
 
 Mature trees survive low to moderate severity surface fires due to thick bark.
-
-However, cones open upon maturity rather than remaining serotinous, so seed availability depends on the existing seed bank.
-
-Growth rates are moderate to fast on favorable sites, with mean annual increments of 8 to 15 cubic meters per hectare in managed plantations.
-
-Rotation lengths in Turkish forestry are typically 40 to 60 years for sawtimber.
-
-Silvicultural systems include clearcutting with artificial regeneration and shelterwood systems on steeper terrain.
-
-Plantations of Pinus brutia have been established successfully in countries outside its native range, including Australia, South Africa, and parts of South America.
-
-## Timber and Uses
-
-The wood of Pinus brutia is moderately light and soft, with a specific gravity of approximately 0.45 to 0.55.
-
-Heartwood is pale reddish-brown and distinct from the wide, yellowish sapwood.
-
-Timber is used for construction lumber, interior paneling, crates, and pallets.
-
-It is also widely used for pulp and paper production in Turkey and Greece.
-
-Turkish pine resin has been commercially collected for centuries.
-
-Colophony (rosin) and turpentine are extracted from the oleoresin through tapping.
-
-These products are used in the chemical industry, pharmaceuticals, and traditional applications such as waterproofing.
-
-## Conservation and Threats
-
-Pinus brutia is listed as Least Concern on the IUCN Red List due to its extensive distribution and large population.
-
-However, several threats affect specific populations across its range.
-
-Forest fires are the most significant disturbance agent, with increasing fire frequency and severity driven by climate change and land-use pressures.
-
-The pine processionary moth (Thaumetopoea pityocampa) is a major defoliator, causing growth reduction and occasional mortality in weakened stands.
-
-Diplodia pinea, a fungal pathogen, causes tip blight and canker, particularly in drought-stressed trees.
-
-Overgrazing by livestock suppresses natural regeneration in many parts of the range.
-
-Urban expansion and agricultural conversion continue to reduce forest area in the eastern Mediterranean.
-
-Climate change poses a long-term threat, as increasing drought stress may push the species beyond its physiological tolerances at the southern and low-elevation margins of its range.
-
-Conservation efforts focus on sustainable forest management, fire prevention, and the establishment of seed orchards and provenance trials to preserve genetic diversity.
-
-## See Also
-
-- [[pinus-sylvestris]]
-- [[pinus-pinea]]
-- [[pinus-nigra]]
-- [[cupressus-sempervirens]]
-- [[cedrus-libani]]
-- [[pinus-ponderosa]]
-- [[pinus-radiata]]
-- [[pinus-taeda]]

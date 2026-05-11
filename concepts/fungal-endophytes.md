@@ -88,23 +88,3 @@ plant establishment under extreme conditions.
 
 Endophytes contribute substantially to estimates of [[fungal-biodiversity]].
 In tropical forests, leaf tissue samples consistently reveal hundreds of
-previously undocumented fungal species. Arnold and colleagues estimated that
-each tropical tree species may harbor over 300 endophyte species. With
-approximately 60,000+ tree species globally, endophyte diversity alone could
-account for millions of undescribed fungal species.
-
-## Bioprospecting
-
-Endophytes are a major source of novel [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The anticancer drug
-taxol was famously isolated from the endophyte *Taxomyces andreanae* found in
-Pacific yew trees, providing an alternative production pathway. Endophytes
-continue to yield new antibiotics, antifungals, antivirals, immunosuppressants,
-and industrial enzymes. The vast majority of endophyte species have never been
-screened for bioactivity, suggesting enormous untapped pharmaceutical potential.
-
-## See Also
-
-- [[endophytic-fungi]]
-- [[endophyte-mediated-plant-stress-tolerance]]
-- [[bloomfield-fungal-secondary-metabolites]]
-- [[biodiversity-endolithic-fungi]]

@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 Sir Jagadis [[jagadis-chandra-bose-plant-research]]'s research, extensively documented in *The
-Secret Life of Plants*, represents one of the most ambitious attempts to
+[[plant-communication-volatile-organic-compounds]] Plants*, represents one of the most ambitious attempts to
 demonstrate that plants possess a nervous system analogous to that of
 animals. Working in Calcutta in the early 1900s, Bose developed
 innovative instruments and conducted hundreds of experiments to prove that
@@ -85,29 +85,6 @@ place in the existing corpus of knowledge."
 
 Bose demonstrated that [[mushroom-tropisms-phototropism-geotropism]] challenged
 the elaborate terminology that had grown up around plant movements. He
-was critical of terms like "negative geotropism," "diageotropism,"
+was critical of terms like "[[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]]," "diageotropism,"
 "heliotropism," and "thigmotropism," arguing that the big words obscured
 the underlying unity of plant response mechanisms.
-
-Bose showed that the tropism exhibited by tendrils was the result of two
-opposing forces, and that all tropisms were fundamentally expressions of
-the same electrical excitation and response mechanism found throughout
-the plant kingdom.
-
-## Scientific Reception and Legacy
-
-Bose's work was received with what the book describes as "veiled
-hostility" from the botanical establishment. The Royal Society initially
-accepted his papers for publication in its Philosophical Transactions
-but later reversed this decision due to "underhanded intrigues and
-prejudicial insinuations." Professor Waller, one of Bose's most adamant
-opponents, quietly inserted Bose's assertion about plant electrical
-response into his own book without attribution.
-
-Despite this resistance, Bose's instruments, particularly the
-[[tompkins-plant-electrical-signals]]
-research.
-## Related
-
-- [[tompkins-jagadis-bose-plant-response-crescograph]]
-- [[tompkins-plant-electrical-signals]]

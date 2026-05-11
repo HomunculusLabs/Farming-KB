@@ -23,13 +23,13 @@ sources:
 3. Don't use metal containers (metal inhibits microbial growth)
 4. Place the box in a location with diverse vegetation:
    - Under bamboo grove (preferred — high microbial diversity)
-   - Near a forest edge
-   - Under leaf mold
+   - Near a [[forest-edge-windbreak-rainfall-compression]]
+   - Under [[comparison-leaf-mold-composting-vs-hot-composting-method]]
    - In a field with diverse plants
 5. Cover loosely with breathable material (cheesecloth, newspaper)
 6. Place on the ground, elevated slightly (on rocks or branches)
 7. Wait 4-10 days (depending on temperature)
-8. Done when rice is covered with white fungal mycelium (cottony growth)
+8. Done when rice is covered with white [[fungal-mycelium-hyphae-and-the-feeding-phase]] (cottony growth)
 9. Discard if: black/green/blue mold appears (wrong organisms, try different location)
 
 ## IMO #2: Multiplication
@@ -51,7 +51,7 @@ sources:
 ## IMO #3: Expansion on Grain
 
 ### Purpose
-- Expand the culture onto a bulk carrier for field application
+- Expand the culture onto a bulk carrier for [[knf-imo-four-soil-foundation-and-field-application]]
 
 ### Method
 1. Mix rice bran or wheat bran to 65-70% moisture (squeeze test: ball holds shape, no water drips)
@@ -70,10 +70,10 @@ sources:
 
 ### Method
 1. Mix IMO #3 with equal parts good quality soil (1:1 ratio)
-2. Add small amounts of other KNF inputs:
+2. Add small amounts of other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]:
    - [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN): 1-2% by volume
    - [[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ): 1-2%
-   - Fish Amino Acid (FAA): 1%
+   - [[cho-fish-amino-acid-preparation]] (FAA): 1%
    - Brine Water or Sea Water: 1%
 3. Form into baseball-sized balls
 4. Place in shade, cover with breathable material
@@ -88,22 +88,3 @@ sources:
 ### Method
 1. Mix IMO #4 with finished compost at 1:10 ratio
 2. Apply to fields at 100-200 kg per 1,000 sq meters
-3. Apply 1-2 weeks before planting
-4. Can also be applied as a top-dressing during the [[savory-growing-season-and-non-growing-season-management]]
-5. Can be dissolved in water (1:500 dilution) for foliar spray or soil drench
-
-## Quality Indicators
-- **Good IMO**: Sweet, sour smell. White fungal mycelium visible. No foul odors
-- **Bad IMO**: Rotten, putrid, ammonia smell. Green/black mold. Discard and start over
-
-## Storage
-- IMO #2: Can be stored in cool, dark place for several months
-- IMO #3: Use within 2-3 weeks (active, perishable)
-- IMO #4: Use within 2-3 weeks
-- IMO #5 in compost: Stable once mixed into compost
-
-## Related
-- [[korean-natural-farming-lab-and-ohn-recipes]] — for lactic acid bacteria and herbal nutrients
-- [[compost-building-guide]] — for compost methods
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-jhs-jinap-daeng-saeng-fermented-plant-juice]]

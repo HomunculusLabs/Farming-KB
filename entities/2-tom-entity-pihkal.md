@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 2-TOM
 
-PIHKAL entry #171. 5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #171. 5-METHOXY-4-METHYL-2-METHYLTHIOAMPHETAMINE.
 
 ## Chemical Name
 
@@ -88,43 +88,7 @@ the literature had claimed, without evidence, that it was the
 bisulfate. The thermal pyrolysis of 31.0 g of dimethyl
 (4-hydroxy-3-methylphenyl)sulfonium chloride resulted first in the
 formation of a melt, followed by the vigorous evolution of methyl
-chloride. The open flame was maintained on the flask until there was
-
-no more gas evolution. This was then cooled, dissolved in 200 mL
-CH2Cl2, and extracted with 3x100 mL of 5% NaOH. The aqueous extracts
-were pooled, acidified with concentrated HCl, and extracted with 3x75
-mL CH2Cl2. The solvent was removed under vacuum, and the residue
-distilled at 100-110 deg C at 0.5 mm/Hg yielding 22.0 g of
-2-methyl-4-(methylthio)phenol as a white crystalline solid with a mp
-36-37 deg C.
-
-To a solution of 25.5 g 2-methyl-4-(methylthio)phenol in 100 mL MeOH
-there was added a solution of 12 g 85% KOH in 60 mL hot MeOH, followed
-by the addition of 12.4 mL methyl iodide. The mixture was held at
-reflux for 16 h. The solvent was removed under vacuum, and the
-residue added to 400 mL H2O. This was made basic with 25% NaOH and
-extracted with 3x100 mL CH2Cl2. The extracts were pooled, the solvent
-removed under vacuum giving 28.3 g of a light, amber oil as residue.
-This was distilled at 72-80 deg C at 0.5 mm/Hg to provide
-2-methyl-4-(methylthio)anisole as a pale yellow oil. Anal. (C9H12OS)
-C,H. The same product can be made with the sulfonyl chloride and the
-thiol as intermediates. To 36.6 g 2-methylanisole there was added,
-with continuous stirring, a total of 38 mL chlorosulfonic acid at a
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[5-tom-entity-pihkal]]
-
-- [[p-entity]]
-
-- [[mme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-j-entity-pihkal]]
+- [[5-toet-entity-pihkal]]

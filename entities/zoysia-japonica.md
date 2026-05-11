@@ -21,7 +21,7 @@ sources:
 
 Zoysia japonica, commonly known as Japanese lawngrass or Korean lawngrass, is a warm-season perennial turfgrass native to eastern Asia.
 
-It is one of the most widely used turfgrass species for lawns, golf courses, athletic fields, and erosion control across temperate and subtropical regions.
+It is one of the most widely used turfgrass species for lawns, golf courses, athletic fields, [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] across temperate and subtropical regions.
 
 The species is valued for its dense growth habit, excellent wear tolerance, and relatively low maintenance requirements compared to cool-season turf species.
 
@@ -57,9 +57,9 @@ Rhizomes are thick, scaly, and produce vigorous lateral shoots that enable rapid
 
 Zoysia japonica is native to coastal and inland regions of eastern Asia, including Japan, Korea, eastern China, and the Russian Far East.
 
-It has been introduced and widely cultivated as a turfgrass throughout the southern and transitional zones of the United States, from the Mid-Atlantic to California.
+It has been introduced and widely cultivated as a turfgrass throughout the southern and transitional zones of the [[dmt-containing-plants-united-states-halpern]], from the Mid-Atlantic to California.
 
-The species is also used as turf in Australia, South Africa, South America, and Mediterranean-climate regions worldwide.
+The species is also used as turf in Australia, South Africa, [[guzman-psilocybin-mushrooms-south-america]], and Mediterranean-climate regions worldwide.
 
 It is adapted to a broad range of soil types, from sands to heavy clays, with optimal growth on well-drained, moderately fertile loams.
 
@@ -73,7 +73,7 @@ It is winter-hardy to approximately minus 30 degrees Celsius, making it the most
 
 ## Cultivation
 
-Establishment of Zoysia japonica is typically by vegetative propagation using plugs, sprigs, or sod, though seeded cultivars have been developed.
+Establishment of Zoysia japonica is typically by [[hamilton-vegetative-propagation]] using plugs, sprigs, or sod, though seeded cultivars have been developed.
 
 Vegetative establishment requires 6 to 12 months for full coverage at standard plug spacing of 30 to 60 cm.
 
@@ -88,38 +88,3 @@ Irrigation needs are lower than cool-season turfgrasses due to its C4 photosynth
 Zoysia japonica enters winter dormancy with the first hard frost and remains brown for five to six months in the northern part of its range.
 
 This extended brown dormancy period is considered its primary disadvantage compared to cool-season species in transition-zone climates.
-
-Thatch accumulation can be significant, requiring periodic dethatching or core aerification every two to three years.
-
-Disease pressures include large patch caused by Rhizoctonia solani, rust caused by Puccinia zoysiae, and dollar spot.
-
-Major insect pests include the hunting billbug, zoysiagrass mite, and white grubs.
-
-## Uses and Benefits
-
-Zoysia japonica is the primary turfgrass species used on golf course fairways and roughs throughout Japan and Korea.
-
-In the United States, it is widely used on home lawns, commercial landscapes, sports fields, and golf courses in the transition zone.
-
-Its excellent wear tolerance makes it suitable for high-traffic areas including athletic fields and parks.
-
-The species provides effective erosion control on slopes, embankments, and roadside plantings due to its dense root and rhizome network.
-
-Zoysia japonica requires fewer pesticide and fertilizer inputs than many cool-season turf species under appropriate management.
-
-It tolerates moderate levels of shade, salt, and drought, reducing irrigation requirements in water-limited landscapes.
-
-Popular cultivars include 'Meyer' (vegetative, cold-hardy), 'Zenith' and 'Compadre' (seeded), and 'Emerald' (a Z. japonica × Z. tenuifolia hybrid).
-
-The species has moderate forage value for livestock and may be used in pasture systems in warm-climate regions.
-
-## See Also
-
-- [[cynodon-dactylon]]
-- [[festuca-arundinacea]]
-- [[lolium-perenne]]
-- [[stipa-tenuissima]]
-- [[panicum-virgatum]]
-- [[cortaderia-selloana]]
-- [[phalaris-arundinacea]]
-- [[deschampsia-caespitosa]]

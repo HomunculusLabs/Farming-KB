@@ -24,7 +24,7 @@ patients lose the ability to move arms and legs after damage to the
 spinal cord in the neck or brain itself.
 
 The management of spinal column injuries, where some sensation is still
-present, is often accompanied by chronic pain and uncontrollable muscle
+present, is often accompanied by [[cannabis-for-chronic-pain]] and uncontrollable muscle
 spasms of the back, arms, and legs.
 
 ## Cannabis Research on Spinal Cord Injuries
@@ -32,7 +32,7 @@ spasms of the back, arms, and legs.
 ### Antispasmodic Properties
 
 The time-proven antispasmodic properties of cannabis have been confirmed
-by modern science in numerous human studies. As early as 1974, VA
+by [[fukuoka-road-critique-of-modern-science]] in numerous human studies. As early as 1974, VA
 hospital-based researchers began looking at data suggesting a practical
 therapeutic antispasmodic benefit. Later studies confirmed the efficacy
 of cannabinoids, especially THC.
@@ -65,7 +65,7 @@ significant reduction in spasticity. CHI: 3
 and resulting pain and spasms received inhaled cannabis. Decreased pain
 and spasms were reported. CHI: 3
 
-**Total CHI Value: 19**
+**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 19**
 
 ## Mechanism of Action
 
@@ -87,12 +87,3 @@ strains tend to produce higher THC:CBD ratios. Since the antispasmodic
 effect is primarily attributed to THC, sativa-dominant strains may be
 preferred. However, some patients may benefit from the anti-inflammatory
 properties of CBD-rich strains to address concurrent inflammation.
-
-[[mushroom-cancer-clinical-trials-overview]] employed cannabinoids from various sources: whole-plant
-cannabis, isolated THC, and synthetic dronabinol. The use of whole-plant
-cannabis may provide additional therapeutic benefits through the
-[[cannabis-herpes-treatment]] Topics
-
-- [[cannabis-for-multiple-sclerosis]]
-- [[cannabis-endocannabinoid-system]]
-- [[cannabis-sativa-vs-indica-guide]]

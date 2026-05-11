@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-Agaricus silvaticus, commonly known as the wood mushroom, scaly wood mushroom, or pine mushroom, is an edible basidiomycete in the family Agaricaceae. It is widely distributed across coniferous and mixed forests of Europe and North America, where it fruits in autumn on forest floors rich in needle litter and organic matter.
+Agaricus silvaticus, commonly known as the wood mushroom, scaly wood mushroom, or pine mushroom, is an edible basidiomycete in the family Agaricaceae. It is widely distributed across coniferous and mixed forests of Europe and [[guzman-psilocybin-mushrooms-north-america]], where it fruits in autumn on forest floors rich in [[dighton-pine-needle-litter-decomposition-fungal-succession]] [[hamilton-composting-and-organic-matter-management]].
 
 The species is an excellent edible with a distinctive almond-like aroma when fresh, similar to its close relative A. campestris but with a more robust and complex flavor profile. It is collected commercially in some European countries, particularly in Scandinavia and Central Europe.
 
@@ -64,7 +64,7 @@ The mushroom prefers acidic to neutral soils rich in organic matter. Elevation r
 
 ## Edibility and Culinary Use
 
-A. silvaticus is a highly regarded edible mushroom with a firm texture and rich, nutty flavor enhanced by its characteristic almond aroma. It is considered one of the best wild Agaricus species for culinary use.
+A. silvaticus is a highly regarded [[bloomfield-boletus-satanus-edible-mushroom-hazards]] with a firm texture and rich, nutty flavor enhanced by its characteristic almond aroma. It is considered one of the best wild Agaricus species for culinary use.
 
 The cap flesh is dense and holds its shape well during cooking, making it suitable for sautéing, grilling, braising, and inclusion in soups and stews. The almond aroma diminishes with prolonged cooking but contributes to an appealing overall flavor.
 
@@ -78,37 +78,12 @@ A. silvaticus contains several bioactive constituents with documented pharmacolo
 
 **Ergothioneine:** High concentrations of this antioxidant amino acid have been measured, exceeding levels found in several commercially cultivated mushroom species. Ergothioneine acts as a cellular protectant against oxidative damage.
 
-**Phenolic compounds:** Total phenolic content is significant, with strong DPPH and ABTS radical scavenging activity. Specific phenolics include gallic acid, protocatechuic acid, and p-hydroxybenzoic acid derivatives.
+**[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]:** Total phenolic content is significant, with strong DPPH and ABTS radical scavenging activity. Specific phenolics include gallic acid, protocatechuic acid, and p-hydroxybenzoic acid derivatives.
 
-**Antimicrobial activity:** Methanolic extracts demonstrate inhibitory activity against Staphylococcus aureus, Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with Gram-positive bacteria showing greater sensitivity.
+**Antimicrobial activity:** Methanolic extracts demonstrate inhibitory activity against [[staphylococcus-aureus]], Escherichia coli, and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], with Gram-positive bacteria showing greater sensitivity.
 
 **Nutritional profile:** The species is rich in protein (20–25% dry weight), dietary fiber, and essential minerals including potassium, phosphorus, and selenium. It contains B vitamins (particularly riboflavin and niacin) and vitamin D2 (ergocalciferol) in amounts comparable to other Agaricus species.
 
 ## Similar Species and Confusion Risks
 
 Accurate identification of A. silvaticus requires distinguishing it from several other Agaricus species that share overlapping habitats and appearances.
-
-**Agaricus campestris** (field mushroom) is the closest edible relative. It typically fruits in grasslands and meadows rather than forests, has a smoother cap with fewer scales, and lacks the pronounced almond odor. The stipe base of A. campestris does not stain as readily when cut.
-
-**Agaricus xanthodermus** (yellow stainer) is the primary toxic lookalike. It causes an immediate bright chrome-yellow discoloration when the cap cuticle, stipe base, or flesh is bruised, and emits a strong phenolic or "library paste" odor. A. xanthodermus causes nausea, vomiting, and diarrhea in most people who consume it.
-
-**Agaricus silvicola** (woodland mushroom) grows in similar forest habitats and shares the almond scent. It is distinguished by a smoother, less scaly cap, a thinner and more fragile ring, and flesh that stains bright yellow (non-toxic variety) rather than pinkish-red.
-
-**Agaricus haemorrhoidarius** is a closely related forest species with more pronounced reddish-brown cap scales. It is edible and considered by some mycologists to be a variety or synonym of A. silvaticus.
-
-## Ecological Role
-
-A. silvaticus contributes to forest ecosystem functioning through its role in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. As a decomposer of needle litter and organic forest floor material, it mobilizes nitrogen and minerals from recalcitrant coniferous debris. This decomposition process converts complex [[fungal-volatile-organic-compounds-communication]] into forms accessible to plants and soil microorganisms.
-
-The species is frequently among the first Agaricus species to colonize recently cleared or disturbed forest areas, suggesting a role in early successional decomposition pathways.
-
-The species may also form ectomycorrhizal associations with coniferous tree roots, facilitating phosphorus and micronutrient uptake for host trees. This dual ecological role enhances soil fertility and supports tree health in managed and natural forest systems.
-
-## See Also
-
-- [[agaricus-xanthodermus]]
-- [[agaricus-subrufescens]]
-- [[lactarius-deliciosus]]
-- [[cantharellus-cibarius-entity]]
-- [[tricholoma-matsutake]]
-- [[lactarius-indigo]]

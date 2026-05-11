@@ -77,3 +77,20 @@ approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
 
 For further reading, see [[historical-mushroom-cultivation]].
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[mushroom-food-safety-heavy-metal-accumulation]]
+- [[mckenna-food-gods-reko-schultes-mexican-mushroom-discovery]]
+- [[mushroom-cultivation-for-food-sovereignty]]
+- [[mckenna-food-gods-minoan-crete-mushroom-religion]]
+- [[cotter-mushroom-products-and-value-added-applications]]

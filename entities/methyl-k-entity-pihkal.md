@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # METHYL-K
 
-PIHKAL entry #129. 2-METHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE;.
+[[2c-b-pihkal-entry-20]] #129. 2-METHYLAMINO-1-(3,4-METHYLENEDIOXYPHENYL)PENTANE;.
 
 ## Chemical Name
 
@@ -88,42 +88,7 @@ purification.
 
 A mixture of 52 g of the crude
 1-hydroxy-1-(3,4-methylenedioxyphenyl)pentane and 2 g powdered KHSO4
-was heated with a flame until there was no more apparent generation of
-H2O. The resulting dark, fluid oil was distilled at 100-110 deg C at 0.3
-mm/Hg to give 29.5 g of 1-(3,4-methylenedioxyphenyl)-1-pentene as a
-light yellow liquid. This was employed in the following oxidation
-step without further purification.
-
-To 120 mL of 90% formic acid there was added, with good stirring, 15
-mL H2O, followed by 23 mL of 35% H2O2 To this mixture, cooled with an
-external ice bath, there was added a solution of 24 g crude
-1-(3,4-methylenedioxyphenyl)-1-pentene in 120 mL acetone at a rate
-slow enough to keep the internal temperature from exceeding 35 deg C. At
-the end of the addition, the temperature was brought up to 45 deg C by
-heating briefly on the [[scythian-cannabis-steam-bath-ritual]], and then the reaction mixture was
-allowed to stand and stir at [[jadam-ambient-temperature-principle]] for several h. All
-volatiles were removed under vacuum, with a bath temperature
-maintained at 45 deg C. The residue was dissolved in 30 mL MeOH, then
-there was added 200 mL 15% H2SO4 and the mixture held on the steam
-bath for 1.5 h. There was then added an additional 300 mL H2O, and
-this was extracted with 2x250 mL of a petroleum ether/EtOAc (5:1)
-mixture. The extracts were pooled, and the solvents removed under
-
-vacuum to give a residue that was distilled at 115-120 deg C at 0.3
-mm/Hg. This light yellow liquid weighed 13.5 g and was substantially
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
-- [[p-entity]]
-
-- [[mme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-dob-entity-pihkal]]
+- [[methyl-dma-entity-pihkal]]

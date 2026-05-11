@@ -88,21 +88,3 @@ application in [[mycorrhiza-bioassays-soil-infectivity]].
 Ectomycorrhizal fungi possess ligninase activity and can transform toxic
 organic pollutants including atrazine, 2,4-dichlorophenoxyacetic acid, TNT,
 and 2,4-dichlorophenol. Molecular tools could potentially enhance these
-capabilities while leveraging the natural symbiotic relationship between
-fungi and host plants for large-scale soil treatment.
-
-Mycorrhizal fungi also support associated bacterial biofilms capable of
-pollutant transformation, suggesting that tripartite fungal-bacterial-plant
-systems could be enhanced through molecular approaches targeting multiple
-organisms simultaneously.
-
-## Integration with Other Strategies
-
-Molecular approaches are most likely to succeed when integrated with other
-strategies for improving [[staycare-fungal-in-situ-bioremediation-formulation-strategies]]
-  and delivery systems to protect engineered strains
-- [[staycare-fungal-consortia-for-enhanced-pollutant-removal]]
-  design to create complementary enzymatic capabilities
-- [[fungal-biodegradation-and-biodeterioration]]
-- [[staycare-laccase-enzymes-in-bioremediation]]
-- [[singh-genetically-engineered-fungi-bioremediation]]

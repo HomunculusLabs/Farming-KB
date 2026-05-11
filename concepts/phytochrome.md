@@ -13,9 +13,9 @@ Phytochrome is a photoreceptor pigment protein found in plants that mediates res
 to red and far-red light. Discovered through the work of Harry Borthwick, Sterling
 Hendricks, and colleagues at the US Department of Agriculture, and named by Warren
 L. Butler and colleagues in the early 1960s, phytochrome is the molecular basis for
-photoperiodism — the ability of plants to measure the length of the night and
+[[photoperiodism]] — the ability of plants to measure the length of the night and
 coordinate flowering, germination, and other developmental processes with seasonal
-changes in day length. The name "phytochrome" literally means "plant color."
+changes in [[coleman-persephone-months-winter-day-length]]. The name "phytochrome" literally means "plant color."
 
 ## The Red/Far-Red Switch
 
@@ -70,7 +70,7 @@ In nature, the red/far-red switching has clear ecological meaning:
   daylight metabolic processes.
 
 - **Under canopy shade**, leaves above absorb most red light but transmit far-red
-  light. Plants growing beneath a canopy receive a high far-red/red ratio, which
+  light. Plants growing beneath a canopy receive a high far-red/[[phytochrome-red-far-red-ratio-shade-detection-plants]], which
   signals competitive shading and triggers shade-avoidance responses (stem
   elongation, accelerated flowering).
 
@@ -81,49 +81,9 @@ pool.
 
 ## Location of Phytochrome
 
-Unlike the phototropism receptors found at the shoot tip, phytochrome receptors for
+Unlike the [[phototropism]] receptors found at the shoot tip, phytochrome receptors for
 photoperiodism are located primarily in the leaves. Darwin showed that the "eye" for
 phototropism is at the shoot tip, but for photoperiodism, any single illuminated
 leaf is sufficient to regulate flowering across the entire plant. If all leaves are
 pruned, leaving only the stem and apex, the plant becomes blind to red/far-red light
 cues — even illuminating the entire plant has no effect on flowering.
-
-When phytochrome in a single leaf absorbs red light in the middle of the night, it
-initiates a [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] (now known to involve the protein FT, "Flowering Locus T")
-that propagates throughout the plant via the phloem and induces flowering at the
-shoot apex. This was one of the first examples of a systemic signaling molecule in
-plants.
-
-## Beyond Flowering
-
-While photoperiodic control of flowering is the most famous phytochrome-mediated
-response, phytochrome regulates numerous other developmental processes:
-
-- **[[cannabis-seed-germination]]:** Many seeds require red light to break dormancy; far-red
-  light can re-induce dormancy. This prevents germination when seeds are buried
-  too deep (where light is filtered through soil and enriched in far-red).
-- **De-etiolation:** When a seedling emerges from soil into light, phytochrome
-  triggers the switch from etiolated (elongated, pale) growth to normal green
-  development with expanded leaves and chlorophyll production.
-- **[[shade-avoidance-syndrome]]:** Plants detect competitors through altered red/far-red ratios
-  and respond with stem elongation, leaf repositioning, and accelerated
-  reproduction.
-- **[[plant-circadian-rhythms]]:** Phytochrome helps entrain the plant's internal clock to
-  external light/dark cycles.
-
-## Modern Understanding
-
-Modern molecular biology has revealed that phytochrome is not a single protein but a
-small family of photoreceptors (phyA through phyE in Arabidopsis). Different family
-members have distinct roles: phyA mediates responses to continuous far-red light and
-is important for de-etiolation, while phyB is the primary mediator of red/far-red
-reversible responses including shade avoidance. The phytochrome protein consists of
-a chromophore (a light-absorbing molecule related to the phycocyanobilin found in
-algae) covalently attached to an apoprotein. Light absorption causes a conformational
-change in the protein that triggers downstream signaling cascades.
-
-## See Also
-
-- [[phototropism]]
-- [[photoperiodism]]
-- plant photoreceptors

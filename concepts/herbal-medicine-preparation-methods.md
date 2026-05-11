@@ -87,31 +87,3 @@ They are less potent than tinctures but offer an alcohol-free alternative for ex
 ## Powder and Capsule Preparations
 
 Dried herbs can be ground into fine powders using a mortar and pestle or electric grinder. Herbal powders can be added to food, smoothies, or encapsulated in gelatin or vegetarian capsules for convenient dosing.
-
-Powders offer the advantage of delivering the whole herb, including all water-insoluble constituents. However, they may have lower bioavailability than liquid preparations for some compounds. Capsule dosing is typically 1 to 2 capsules (approximately 500 to 1000 mg of herb powder) taken 2 to 3 times daily.
-
-## Honey-Based Preparations
-
-Herbal honeys are made by mixing powdered herbs into raw honey or by infusing herbs into gently warmed honey. Honey has its own antimicrobial and wound-healing properties, and acts as a preservative and pleasant carrier for herbal medicine.
-
-Herbal honeys are particularly suited to sore throats, coughs, and respiratory conditions. Thyme honey, sage honey, and ginger honey are traditional preparations. They should be stored in glass jars and can last indefinitely due to honey's natural preservative properties.
-
-## Choosing the Right Preparation
-
-The choice of preparation depends on the plant part being used, the solubility of the target compounds, the desired onset and duration of action, the patient's preferences and sensitivities (alcohol intolerance, for example), and whether internal or topical application is intended.
-
-Water-based preparations are best for daily tonics, gentle support, and when rapid absorption is not critical. Alcohol-based preparations are best for concentrated doses, rapid absorption, and long-term storage. Oil-based preparations are best for topical application and lipid-soluble compounds. Powders and capsules offer convenience and whole-herb delivery. Combining multiple preparation methods for the same herb (for example, taking both a tea and a tincture) can provide both immediate and sustained effects.
-
-## See Also
-
-- [[childrens-herbal-medicine]]
-
-- [[plectranthus-amboinicus]]
-
-- [[withania-somnifera]]
-
-- [[passiflora-incarnata]]
-- [[herbal-tinctures-guide]]
-- [[herbal-salves-and-balms]]
-- [[calendula-salve-making]]
-- [[hyssopus-officinalis]]

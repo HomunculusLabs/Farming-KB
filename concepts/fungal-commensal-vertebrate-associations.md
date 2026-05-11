@@ -2,7 +2,7 @@
 title: "Fungal Commensal Associations with Vertebrates"
 created: 2026-04-26
 tags:
-  - fungal-ecology
+  - [[fungal-ecology]]
   - commensalism
   - microbiome
   - medical-mycology
@@ -87,18 +87,3 @@ thermal dimorphism, resistance to phagocytic killing, and specific
 [[cannabis-soil-and-nutrient-requirements]] met by the host environment. The Onygenalean
 systemic pathogens (Blastomyces, Histoplasma, Paracoccidioides,
 Coccidioides) exemplify this category.
-
-### Environmental Contaminants
-
-Fungi isolated from host tissues that have no genuine association with
-the animal but are transiently present due to environmental exposure.
-
-## Detection and Enumeration
-
-Isolation of an associated fungus is often easier than the correct
-evaluation of its status. Disease agents participate in the regulation
-of animal population densities, influencing factors such as the
-## See Also
-
-- [[dighton-fungal-mycophagy-vertebrate-invertebrate-diets]]
-- [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]

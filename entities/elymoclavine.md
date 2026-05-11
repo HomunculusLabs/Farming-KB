@@ -88,19 +88,3 @@ strains optimized for elymoclavine accumulation.
 
 Elymoclavine is unscheduled in many countries but falls under
 analogue drug legislation in jurisdictions that control lysergamide
-derivatives as a class. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analogue Act
-may apply given its structural similarity to controlled lysergamides.
-
-The compound is regulated as a precursor chemical in some nations due
-to its conversion potential to lysergic acid derivatives. International
-shipping and commercial trade are subject to varying restrictions
-depending on the destination country.
-## See Also
-
-- [[morning-glory-lsa-and-ergoline-alkaloids]]
-
-- [[agroclavine|Agroclavine]]
-- [[chanoclavine|Chanoclavine]]
-- [[lysergic-acid-amide|Lysergic acid amide]]
-- [[lysergic-acid-hydroxyethylamide|Lysergic acid hydroxyethylamide]]
-- [[ergotamine|Ergotamine]]

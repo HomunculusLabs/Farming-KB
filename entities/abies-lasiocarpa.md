@@ -88,34 +88,3 @@ Subalpine fir is a climax species at treeline throughout much of the Rocky Mount
 Seeds are an important food source for several bird and mammal species, including red squirrels (*Tamiasciurus hudsonicus*), Clark's nutcrackers (*Nucifraga columbiana*), and crossbills (*Loxia* spp.). Browsing by moose, elk, and deer can significantly affect regeneration in some areas.
 
 The species forms extensive ectomycorrhizal associations, primarily with fungi in the genera *Cenococcum*, *Laccaria*, *Russula*, *Cortinarius*, and *Inocybe*. These relationships are critical for nutrient acquisition in the cold, nitrogen-poor soils of subalpine environments.
-
-Windthrow and heart rot are the primary natural disturbance agents. The species is susceptible to several heart rot fungi, including *Armillaria* spp. and *Phellinus pini*, which create canopy gaps and regeneration opportunities.
-
-Subalpine fir forests provide critical winter habitat for wildlife, including wolverines, lynx, and mountain goats. The dense, low canopy intercepts snow and creates subnivean environments used by small mammals.
-
-## Uses and Significance
-
-Subalpine fir has limited commercial timber value compared to other western conifers. Its wood is light, soft, and relatively weak, used primarily for pulpwood, framing lumber, and fuel.
-
-The tree has moderate ornamental value, particularly in cold-climate landscapes. Its narrow form, blue-green foliage, and [[coleman-cold-hardiness-testing-ratings]] make it suitable for specimen planting in USDA hardiness zones 4–7. Corkbark fir is particularly prized in horticulture for its attractive thick bark.
-
-[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] extracted from subalpine fir foliage contain primarily α-pinene, β-pinene, limonene, and bornyl acetate. These oils have demonstrated antimicrobial and anti-inflammatory properties in laboratory studies.
-
-Several Indigenous peoples of the Rocky Mountains used subalpine fir medicinally. The resin was applied to wounds and burns, and needles were brewed as tea rich in vitamin C. Branches were used as bedding and in sweat lodge construction.
-
-The species is increasingly valued for its role in subalpine ecosystem conservation and as a [[dighton-fungi-climate-change-feedback]] indicator. Treeline dynamics involving subalpine fir are monitored as early signals of warming mountain environments.
-
-[[arthur-christmas-tree-amanita-muscaria]] harvesting occurs at a modest scale in some Rocky Mountain locations, though the species is less commonly used than [[abies-nordmanniana]] or [[abies-concolor]] for this purpose due to its more brittle branch structure.
-
-## See Also
-
-- [[abies-concolor]]
-- [[abies-grandis]]
-- [[pseudotsuga-menziesii]]
-- [[tsuga-mertensiana]]
-- [[pinus-contorta]]
-- [[picea-abies]]
-- [[picea-pungens]]
-- [[abies-sibirica]]
-- [[larix-occidentalis]]
-- [[picea-sitchensis]]

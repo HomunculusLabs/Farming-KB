@@ -1,5 +1,5 @@
 ---
-title: PF TEK [[pf-tek-substrate-formula-and-jar-preparation-method]] Jar Preparation
+title: Pf Tek Substrate Preparation
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09
 tags: [mycology, cultivation, pf-tek, substrate, vermiculite, brown-rice, sterilization, psilocybe-cubensis]
@@ -88,62 +88,3 @@ Standard canning jar lids are modified for gas exchange:
 1. Place the lid rubber-sealing-edge **upwards** on a flat surface
 2. Using a sharpened **3-penny nail** held in vise-grip pliers, punch **4 holes**
    inside the periphery of the rubber sealing edge
-3. The holes allow gas exchange during colonization while the dry vermiculite
-   barrier prevents contaminant entry
-
-## Step-by-Step Jar Preparation
-
-### Step 1: Mixing
-Place 1/2 cup vermiculite in a mixing bowl. Add brown rice powder on top.
-Slowly add water directly onto the rice powder, wetting it first. Mix
-thoroughly. The mixture should feel **damp and cohesive**. Mix each jar's
-substrate individually for accurate formula rendering.
-
-### Step 2: Loading
-Fill the jar **very loosely**. Leave **1/2 to 3/4 inch** of space at the top.
-Level the substrate. Wipe the jar interior above the substrate clean with a
-tissue. Fill the top space with **plain dry vermiculite** and level it off.
-
-This dry vermiculite layer is PF's **original discovery** and critical innovation:
-- Acts as a **contaminant barrier** against airborne spores and bacteria
-- Absorbs and **regulates moisture transpiration** and condensation
-- Protects the wet nutrient substrate below
-
-### Step 3: Lidding
-Place the modified lid on with rubberized edge up (needle holes facing down).
-Screw the band on loosely at this stage. Cover needle holes with
-professional-grade masking tape (must hold during steaming).
-
-### Step 4: Steam Sterilization
-- Use a **3-piece vegetable steamer** (pot, basket insert, lid)
-- Ensure jar bottoms are elevated above direct pot bottom contact
-- Heat water to boil, add jars (loosely banded)
-- Turn heat to lowest possible boil and steam for **1 hour**
-- A **tight-fitting pot lid** is essential for successful steaming
-- **Do not overheat** — overheating dries the substrate
-
-### Overheating Diagnosis
-If jars show OK spore germination but **growth halts at a certain point** with
-no contamination, the substrate is likely too dry. The remedy is to increase
-water content in subsequent batches.
-
-## Control Jar Technique
-
-After sterilization, let jars cool and tighten lids. Store **uninoculated**
-for several days as a control:
-- Watch for colored growths or appearance changes
-- Check for rancid bacterial odor by loosening the lid
-- If contamination appears at this stage, extend sterilization time
-- If jars remain clean, they are ready for inoculation
-- If contamination occurs **after** inoculation, the syringe or technique
-  (disturbing the dry barrier) is at fault
-
-## References
-
-- Psylocybe Fanaticus (1996). *PF TEK — Complete Illustrated Instructions*.
-  2nd edition. Seattle, WA.
-## See Also
-
-- [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]]
-- [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
-- [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation]]

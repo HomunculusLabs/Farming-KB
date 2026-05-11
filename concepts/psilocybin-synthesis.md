@@ -1,7 +1,7 @@
 ---
-title: psilocin-psilocybin-synthesis-shirota via psilocybin-synthesis-zwitterionic-intermediate-filtration-method
-aliases: psilocybin-chemical-synthesis, [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate]
-tags: [chemistry, synthesis, psilocybin, tryptamines, organic chemistry]
+title: Psilocybin Synthesis
+aliases: [[psilocybin-chemical-synthesis]], [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] intermediate]
+tags: [chemistry, synthesis, psilocybin, tryptamines, [[pericyclic-reactions-organic-chemistry]]
 sources:
   - concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 created: 2026-05-08
@@ -87,43 +87,3 @@ The zwitterionic nature of compound 8 made possible its large-scale isolation
 by filtration in over 85% yield. The excess remaining dibenzyl phosphate was
 removed by washing with CH2Cl2, exploiting the differential solubility
 between the zwitterionic product and the neutral phosphate byproduct.
-
-This was the key practical innovation of the synthesis. Previous routes had
-relied on chromatographic methods or ion-exchange resins to separate the
-phosphorylated product from reaction byproducts, which are impractical at
-gram scale. The zwitterionic intermediate's insolubility in organic solvents
-provides a simple and elegant purification method.
-
-## Final Deprotection to Psilocybin
-
-[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate (compound 8) using
-palladium on carbon in methanol at room temperature led to psilocybin
-(compound 2) as a crystalline product without any chromatographic
-purification. The isolated yield from psilocin was greater than 72%, even
-for gram-scale production — a dramatic improvement over the previous best of
-47%.
-
-Spectroscopic data for psilocybin: mp 190-198 degrees C (literature values
-185-195, 210-212 degrees C). UV (MeOH) shows absorption maxima at 221.0,
-267.5, 278.5, and 290.0 nm. IR shows characteristic absorptions including
-broad OH at 3266 cm-1 and P=O stretch at 1154 cm-1. 1H NMR (D2O) shows the
-phosphoryloxy methylene protons as a triplet at delta 3.44 and the adjacent
-methylene at delta 3.28, with the N,N-dimethyl singlet at delta 2.86.
-
-The 13C NMR shows the C-4 carbon split by phosphorus coupling at delta 146.4,
-the C-3a and C-5a carbons also split. The 31P NMR shows the phosphate at
-delta -4.48. ESIMS shows the molecular ion at m/z 285.1 [M+H]+ and the
-fragment at m/z 205.1 [M-H2O3P+H]+. HRMS confirmed the molecular formula
-C12H18N2O4P.
-
-## Significance
-
-This synthesis established a practical route to gram-scale psilocybin
-production without chromatographic purification, addressing a significant
-need for analytical [[shirota-forensic-standard-compounds-magic-mushroom-identification]] in forensic and regulatory contexts.
-The discovery of the zwitterionic N,O-dibenzyl phosphate intermediate was
-an unexpected finding that was fully characterized by 2D NMR analyses.
-## See Also
-- [[psilocin]]
-- [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
-- [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]

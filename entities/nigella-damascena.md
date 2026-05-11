@@ -23,9 +23,9 @@ Nigella damascena is an annual herbaceous plant in the family Ranunculaceae, com
 
 The species is widely cultivated as an ornamental garden plant, valued for its delicate, feathery bracts that surround the flowers and form an airy "mist" effect. Flowers range from white through pale blue to deep blue and violet.
 
-Unlike its relative Nigella sativa (black cumin), Nigella damascena has limited culinary use but produces edible seeds with a mild, nutty flavor. The inflated seed capsules are popular in dried flower arrangements.
+Unlike its relative [[nigella-sativa]] (black cumin), Nigella damascena has limited culinary use but produces edible seeds with a mild, nutty flavor. The inflated seed capsules are popular in dried flower arrangements.
 
-The species has been in cultivation in European gardens since at least the 16th century. It was a favorite in Victorian cottage gardens and remains popular in wildflower meadow plantings today.
+The species has been in cultivation in European gardens since at least the 16th century. It was a favorite in Victorian cottage gardens and remains popular in [[hamilton-wildflower-meadow]] plantings today.
 
 Butterflies and bees are attracted to the nectar-rich flowers, making the species a valuable component of pollinator-friendly plantings. Self-seeding is common, allowing naturalized colonies to persist for years.
 
@@ -51,7 +51,7 @@ The genus Nigella contains approximately 20 species distributed across the Medit
 
 The common name "love-in-a-mist" describes the characteristic bract cloud surrounding each flower. An alternative common name, "devil-in-a-bush," refers to the spiky appearance of the mature seed capsules.
 
-Nigella damascena is closely related to Nigella hispanica and Nigella orientalis, both of which share the inflated capsule morphology. Hybridization between cultivated species is uncommon under garden conditions.
+Nigella damascena is closely related to Nigella hispanica and [[nigella-orientalis]], both of which share the inflated capsule morphology. Hybridization between cultivated species is uncommon under garden conditions.
 
 ## Morphology
 
@@ -69,11 +69,11 @@ The fruit is an inflated capsule composed of 5 to 7 fused carpels, forming a bal
 
 Seeds are trigonal, approximately 2 to 3 millimeters long, with a rough surface texture. They ripen within the inflated capsule, which turns from green to tan as the seeds mature.
 
-A single plant can produce several hundred seeds, contributing to prolific self-seeding in garden settings. Seeds remain viable for 2 to 3 years under cool, dry storage conditions.
+A single plant can produce several hundred seeds, contributing to prolific self-seeding in garden settings. Seeds remain viable for 2 to 3 years under cool, dry [[spawn-storage-conditions]].
 
 ## Distribution and Habitat
 
-Nigella damascena is native to the Mediterranean region, including southern Europe, North Africa, and the Levant. Naturalized populations occur across temperate Europe, North America, and parts of Australia.
+Nigella damascena is native to the Mediterranean region, including southern Europe, North Africa, and the Levant. Naturalized populations occur across temperate Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Australia.
 
 In North America, the species is widely naturalized in the northeastern United States and parts of eastern Canada. It occasionally escapes cultivation but is not considered ecologically invasive due to its annual life cycle.
 
@@ -85,37 +85,6 @@ Flowering typically occurs from late spring through midsummer, with individual f
 
 ## Cultivation
 
-Love-in-a-mist is one of the easiest annual flowers to grow from direct sowing. Seeds are sown in situ in early spring for summer bloom or in autumn for overwintering in mild climates.
+Love-in-a-mist is one of the easiest [[hamilton-annual-flowers-organic]] to grow from direct sowing. Seeds are sown in situ in early spring for summer bloom or in autumn for overwintering in mild climates.
 
 Germination typically occurs within 14 to 21 days at soil temperatures of 15 to 20 degrees Celsius. The species does not transplant well due to its sensitive taproot system.
-
-Successive sowings every 2 to 3 weeks extend the flowering season from early summer through early autumn. Deadheading is not necessary but can improve appearance in formal garden settings.
-
-Numerous cultivars are available, with the 'Miss Jekyll' series (blue, white, and mixed) being among the most popular. 'Persian Jewels' produces flowers in shades of rose, pink, and mauve.
-
-The inflated seed pods are widely used in both fresh and dried flower arrangements. Cutting stems before the capsules fully mature provides the best results for drying.
-
-The distinctive balloon-like pods retain their shape and color when dried, making them a staple in the commercial dried flower industry. They combine well with other dried annuals such as Lunaria and poppy pods.
-
-## Traditional and Culinary Uses
-
-The seeds of Nigella damascena have been used as a spice in Middle Eastern and North African cuisine, though they are less pungent than those of Nigella sativa. They add a mild, peppery flavor to breads and cheeses.
-
-In traditional European herbalism, the seeds were infused in water as a mild carminative and digestive aid. The infusion was also applied externally as a rinse for skin conditions.
-
-In English folklore, love-in-a-mist was associated with love and fidelity. The plant was sometimes included in bridal bouquets or carried as a charm to ensure a harmonious marriage.
-
-The plant has no significant toxicity, making it one of the safer members of the Ranunculaceae for home garden use. However, consumption of large quantities of seeds is not recommended.
-
-## See Also
-
-- [[nigella-sativa]]
-- [[aquilegia-canadensis]]
-- [[aconitum-napellus]]
-- [[delphinium-consolida]]
-- [[clematis-vitalba]]
-- [[pulsatilla-vulgaris]]
-- [[caltha-palustris]]
-- [[anemone-nemorosa]]
-- [[atropa-belladonna]]
-- [[hyoscyamus-niger]]

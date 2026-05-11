@@ -22,8 +22,8 @@ mechanisms.
 
 DDT [1,1,1-trichloro-2,2-bis-(4-chlorophenyl)ethane] was used
 extensively since the 1940s and banned in most industrialized nations by
-1972. Certain fungi including Mucor alternans, Fusarium oxysporum, and
-Trichoderma viride have been known to degrade DDT for decades (Anderson
+1972. Certain fungi including Mucor alternans, [[fusarium-oxysporum]], and
+[[trichoderma-viride]] have been known to degrade DDT for decades (Anderson
 and Lichtenstein, 1971; Engst and Kujawa, 1968; Matsumura and Bousch,
 1968). The pathways of DDT degradation by bacteria and fungi appear
 similar, with reductive dechlorination, oxidation, decarboxylation, and
@@ -31,7 +31,7 @@ ring cleavage as primary mechanisms.
 
 ## Phanerochaete chrysosporium and DDT
 
-The white-rot fungus Phanerochaete chrysosporium has been the primary
+The white-rot fungus [[phanerochaete-chrysosporium]] has been the primary
 focus of ligninolytic DDT degradation research. Bumpus and Aust (1987)
 and Bumpus et al. (1993a) postulated a pathway for DDT degradation by
 P. chrysosporium. The fungus produces [[fungal-lignin-peroxidase-veratryl-alcohol]] (LiP) which
@@ -47,7 +47,7 @@ DDT mineralization by P. chrysosporium depends on the carbon source
 (Fernando et al., 1989). Cellulose and starch prove better carbon
 sources supporting [14C]DDT mineralization. LiP inhibitors such as
 EDTA and TEMED inhibit DDT mineralization. DDT appears to be degraded
-through cooxidation mediated by veratryl alcohol (Khindaria et al.,
+through cooxidation mediated by [[staycare-veratryl-alcohol-as-lignin-peroxidase-mediator]] (Khindaria et al.,
 1995). LiPs may oxidize DDT metabolites other than DDT itself. P.
 chrysosporium achieved 10% DDT mineralization as 14CO2 in 30 days
 under N-deficient conditions.
@@ -65,7 +65,7 @@ et al., 1996).
 
 ## Endosulfan Degradation Pathways
 
-Trichoderma harzianum degrades the cyclodiene insecticide endosulfan
+[[trichoderma-harzianum]] degrades the cyclodiene insecticide endosulfan
 under various nutrient media throughout its growth stages (Katayama and
 Matsumura, 1993). Degradation involves oxidation of endosulfan to
 endosulfan sulfate followed by hydrolysis to endosulfan diol. Exogenous
@@ -88,38 +88,3 @@ conditions.
 ## Cytochrome P450 Involvement
 
 Piperonyl butoxide, a cytochrome P450 inhibitor, inhibits the oxidation
-of endosulfan to endosulfan sulfate while enhancing hydrolysis to
-endosulfan diol. This demonstrates the involvement of cytochrome P450
-in the oxidative pathway of endosulfan degradation. The initial
-oxidation to endosulfan sulfate is catalyzed by the major oxidative
-enzyme system (oxidase) in T. harzianum. These findings highlight the
-dual enzymatic pathways (oxidative and hydrolytic) in fungal endosulfan
-metabolism.
-
-## Lindane Biodegradation
-
-Lindane (gamma-HCH) has been used extensively despite environmental
-persistence. The subtropical white-rot fungus DSPM95 completely
-mineralizes lindane in both batch and immobilized packed-bed bioreactor
-systems (Tekere et al., 2002). MnP and laccase are produced in both
-systems. Pleurotus ostreatus degraded lindane with maximum
-biodegradation of 25.8 mg per gram of initial lindane per gram of
-biomass at optimized conditions (Rigas et al., 2005).
-
-## Soil Inoculation Methods
-
-Methods have been developed for P. chrysosporium inoculation of soils
-contaminated with organochlorines (Lestan et al., 1996). Soil
-inoculation represents a practical approach for field application of
-[[staycare-composting-as-a-fungal-bioremediation-strategy]]. Coriolus versicolor proved the best performer
-for chlorpyrifos degradation in a biobed matrix (Bending et al., 2002),
-demonstrating the applicability of fungal systems for on-farm
-pesticide containment and degradation.
-
-## See Also
-
-- [[singh-melanoidin-degradation-mechanisms]]
-
-- [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[fungal-pesticide-and-herbicide-degradation]]

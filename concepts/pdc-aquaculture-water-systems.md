@@ -3,8 +3,9 @@ title: PDC Aquaculture Water Systems
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
-tags: [permaculture, education, design]
+tags: [[permaculture]], education, design]
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # PDC Aquaculture Water Systems
@@ -23,7 +24,7 @@ several years as a pond, "it will carry dryland crops three to four years
 without further manuring." The gley layer "perpetuates itself."
 ### pH
 "The pH in ponds is between 6 and 8, that is, it is 100 to 200 times
-lower in acid than most garden soils." "Most things in the pond like lime."
+lower in acid than most [[ph-and-nutrient-availability-garden-soils]]." "Most things in the pond like lime."
 ### Manuring
 "Bales of hay around the edge, both to seal ponds and to get diatoms
 working." "Ducks will add manure to it." Figure on eight ducks to a
@@ -33,7 +34,7 @@ means the pond is over-manured; visible at five feet means it needs more.
 ### The Trophic Ladder
 "We want careful adjustment of maybe 20 species of plants and small
 animals low on the trophic ladder." Small forage ponds at different pH's
-trickle into the main pond: "What is coming down, they get, but they
+trickle into the main pond: "What is [[fukuoka-textdoc-production-costs-not-coming-down]], they get, but they
 can't get at the sources." This is polyculture "but not in the sense
 that we have it all together."
 ### Key Species
@@ -80,30 +81,10 @@ a situation in which he can raft or support oysters inland."
 1. Design productive systems at every water level
 2. Use trickling systems to connect ponds of different pH and species
 3. Include decomposers (mussels, diatoms) in every system
-4. Ponds serve multiple functions: fencing, fire control, heat storage
+4. Ponds serve multiple functions: fencing, fire control, [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
 5. "The more you play with water, the more fascinating things you'll see."
 ## Large Dams
 "Large dams such as the Aswan or any of those dams are mostly negative."
 They trap silt, reduce fertility, increase disease, change fisheries.
 "Generally speaking, they are a disaster. So we are mainly in favor of
 reasonably small impoundments."
-## Gley Pond Sealing Technique
-The gley technique is central to Mollison's [[holzer-aquaculture-pond-construction]]. Fresh
-green organic material is spread thickly over the pond floor, covered
-with soil or cardboard, and weighted down. [[jadam-anaerobic-fermentation]] produces
-a bacterial slime that seals soil pores, creating a waterproof barrier.
-This eliminates the need for expensive clay liners or plastic membranes.
-## Integration with Farm Systems
-Ponds are placed to serve multiple functions: irrigation storage, fire
-protection, duck forage, [[hemenway-backyard-wildlife-habitat]], and [[biodiversity-of-fungi-decomposition-nutrient-cycling]]. Water
-from aquaculture systems can fertilise adjacent gardens through
-controlled overflow. Duck and fish manure build pond fertility over time,
-reducing or eliminating the need for external feed inputs.
-## Source
-- Bill Mollison, Permaculture Design Course, 1981, Pamphlet XI
-## See Also
-- [[aquatic-polyculture-design-mollison]]
-- mollison-aquatic-plant-systems
-- [[fukuoka-duck-rice-fish-polyculture]]
-- permaculture-sewage-marsh-treatment
-- [[permaculture-design]]

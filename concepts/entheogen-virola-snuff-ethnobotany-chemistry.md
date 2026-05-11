@@ -1,5 +1,5 @@
 ---
-title: "entheogen [[virola-snuff]] [[kava-kava-ethnobotany-chemistry]] kava kava cultivation ethnobotany and chemistry"
+title: Entheogen Virola Snuff Ethnobotany Chemistry
 created: 2026-04-28
 tags: [ethnobotany, entheogen, myristicaceae, dmt, snuff, amazonian]
 date: 2026-04-25

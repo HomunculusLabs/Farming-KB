@@ -40,7 +40,7 @@ Florets are tubular, four-lobed, and typically deep violet-blue, though pink and
 
 Achenes are small, enclosed by the persistent calyx, which forms a characteristic cup-like structure.
 
-*Succisa pratensis* is readily distinguished from *Knautia arvensis* by its abruptly truncated rootstock and unbranched stems. *Knautia* species have normal taproots and typically branched inflorescences.
+*Succisa pratensis* is readily distinguished from *[[knautia-arvensis]]* by its abruptly truncated rootstock and unbranched stems. *Knautia* species have normal taproots and typically branched inflorescences.
 
 The chromosome number is 2n = 20. Hybridisation with *Knautia* species is known but rare, producing sterile intermediates.
 
@@ -58,7 +58,7 @@ The species has declined significantly across western Europe due to drainage of 
 
 ## Ecology
 
-The ecological significance of *S. pratensis* is disproportionately large relative to its abundance. It serves as the sole or primary larval food plant for several butterfly species of conservation concern.
+The [[lichen-biology-guide]] of *S. pratensis* is disproportionately large relative to its abundance. It serves as the sole or primary larval food plant for several butterfly species of conservation concern.
 
 The marsh fritillary (*Euphydryas aurinia*) depends almost exclusively on *S. pratensis* as a larval host plant across most of its European range. The decline of *S. pratensis* through agricultural intensification is a primary driver of marsh fritillary population losses.
 
@@ -82,34 +82,8 @@ The species is slow to establish from seed compared to many meadow perennials. C
 
 The species tolerates winter waterlogging but does not survive prolonged submersion. It is well suited to the margins of ponds, damp meadow strips, and reed bed transitions.
 
-Light grazing by cattle or ponies during the growing season helps maintain open conditions and reduces competition from coarse grasses. The species benefits from the species-rich, grazed wet meadow conditions found in traditional pastoral landscapes.
+Light grazing by cattle or ponies during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] helps maintain open conditions and reduces competition from coarse grasses. The species benefits from the species-rich, grazed wet meadow conditions found in traditional pastoral landscapes.
 
 ## Uses
 
-In traditional herbal medicine, devil's-bit scabious was used to treat [[cannabis-for-skin-conditions-detailed]] including scabies, eczema, and boils. The root was the primary part used, typically prepared as a decoction or poultice.
-
-The plant has documented use in Celtic and Anglo-Saxon folk medicine, where it was considered a cure-all for skin afflictions and was sometimes carried as a protective charm.
-
-In modern conservation, *S. pratensis* is widely planted in habitat restoration schemes targeting the marsh fritillary butterfly. It is included in agri-environment scheme seed mixes for damp grassland across the UK and Ireland.
-
-The species is protected under wildlife legislation in several European countries. In the UK, it is a component of the marsh fritillary's Species Action Plan and is used as an indicator of favourable condition in designated wet grassland sites.
-
-## See Also
-
-- [[knautia-arvensis]]
-- [[centaurea-nigra]]
-- [[centaurea-cyanus]]
-- [[plantago-lanceolata]]
-- [[achillea-millefolium]]
-- [[trifolium-pratense]]
-- [[trifolium-repens]]
-- [[lotus-corniculatus]]
-- [[filipendula-ulmaria]]
-- [[euphrasia-officinalis]]
-- [[sambucus-nigra]]
-- [[digitalis-purpurea]]
-- [[pedicularis-groenlandica]]
-- [[taraxacum-officinale]]
-- [[galium-aparine]]
-- [[juncus-effusus]]
-- [[cardamine-pratensis]]
+In traditional [[childrens-herbal-medicine]], devil's-bit scabious was used to treat [[cannabis-for-skin-conditions-detailed]] including scabies, eczema, and boils. The root was the primary part used, typically prepared as a decoction or poultice.

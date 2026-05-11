@@ -88,22 +88,3 @@ targeting only the currently "known" essential elements.
 ## JADAM Mineral Water
 Water quality directly impacts crop health. Plants are approximately 95%
 water, and over 70% of human health is determined by water. JADAM recommends
-using mineral water (spring water) rather than purified water. Most purified
-water filtered from tap water cannot sustain fish life. Water where fish
-cannot live cannot be good for plant health. JADAM mineral water (JMW) is made
-by adding rock powders to water, creating a mineral-rich solution that
-provides trace elements directly to plants through irrigation and spraying.
-## The Soil Circulation Parallel
-JADAM draws a direct parallel between human health and soil health. Just as
-humans suffer from bad food and bad blood circulation, crops suffer from bad
-fertilizer and bad soil circulation. The compacted soil layer prevents proper
-circulation of air, water and nutrients. For humans, the total length of blood
-vessels is approximately 96,000 km, cycling the body 1,000 times per day. A
-crucial factor is adequate water absorption. The same principle applies to
-plants: eliminate the compacted soil layer and provide balanced nutrition for
-healthy, vigorous growth.
-## Beyond Sea Salt: Complete Mineral Strategy
-Sea salt provides the broadest spectrum of trace minerals available in a
-single input. However, JADAM also utilizes phyllite and loess powder for
-slow-release [[jadam-natural-mineral-leaching-and-replenishment]]
-- [[ultra-low-cost-wild-grass-cover-cropping-and-symbiotic-weed-management]]

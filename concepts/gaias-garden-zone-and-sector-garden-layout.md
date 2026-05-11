@@ -1,13 +1,13 @@
 # Zone and Sector Analysis in Garden Design (Gaia's Garden)
 
-**Source:** Toby Hemenway, *Gaia's Garden: A Guide to Home-Scale Permaculture* (2001)
+**Source:** [[toby-hemenway]], *Gaia's Garden: A Guide to Home-Scale Permaculture* (2001)
 
 ## The Zone-and-Sector Method
 
 The zone-and-sector method is Permaculture's primary system for organizing the
 placement of all garden and landscape elements so they work with each other and
 for the gardener most effectively. Hemenway presents this as the foundational
-layout tool for ecological garden design, one that transforms how we think about
+layout tool for [[ecological-garden-design]], one that transforms how we think about
 our relationship to the land.
 
 ## Understanding Zones
@@ -27,8 +27,8 @@ harvest rainwater, and create beneficial microclimates for adjacent gardens.
 ### Zone 1: Intensive Care (20-40 feet from house)
 
 The most visited and intensively managed area. Contains:
-- Herbs, salad greens, and daily-harvest vegetables
-- Flowers, dwarf fruit trees, and low shrubs
+- Herbs, [[growing-lettuce-salad-greens]], and daily-harvest vegetables
+- Flowers, dwarf [[comparison-grafting-vs-budding-fruit-trees]], and low shrubs
 - Intensively weeded and mulched beds with dense planting
 - Espaliered trees, trellises, arbors, and patio spaces
 - Rain barrels, small ponds, and greywater systems
@@ -54,9 +54,9 @@ Zone 2 may begin only 15 feet from the door.
 
 ### Zone 3: Extensive Cultivation (50-200+ feet)
 
-Large, unpruned orchard and nut trees, field crops (grains), commercial gardens,
+Large, unpruned orchard [[holzer-sweet-chestnut-and-nut-trees]], field crops (grains), commercial gardens,
 and plants harvested only once or twice a year. Some trees yield firewood, wood
-products, or animal forage. Suburban Zone 3 examples include walnuts, chestnuts,
+products, or [[permaculture-designers-manual-animal-forage-systems]]. Suburban Zone 3 examples include walnuts, chestnuts,
 and bamboo—plants needing little attention.
 
 ### Zone 4: Semi-Wild (100+ feet)
@@ -88,40 +88,3 @@ water, wildlife, pollution, noise, views, and fire. Permaculture locates these
 forces in their own sectors and designs to either block, direct, or harvest them:
 
 - Cold winter winds → blocked with windbreaks
-- Cool summer breezes → encouraged through planting gaps
-- Hot summer sun → screened from house and shade-loving plants
-- Winter sun → allowed to penetrate deep into the system
-- Wildfire risk → managed with fire-resistant plantings and buffers
-- Wildlife corridors → designed to support beneficial species while protecting
-  crops
-- Noise and pollution → filtered with dense plantings
-
-## Strategic Element Placement
-
-[[williams-pdc-ecological-design-principles]] places elements in the right relationship to each other. Smart
-placements save time and energy:
-
-- Chicken coop on the path between house and vegetable garden → toss kitchen
-  scraps to birds on the way out, give weeds to birds on the return trip
-- Compost bin near the kitchen door but between house and garden → efficient
-  [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
-- Herb spiral outside the kitchen window → harvest while cooking, visual
-  enjoyment, insect habitat
-- Duck pond positioned to drain into garden beds → nutrient-rich irrigation
-
-## Zone-and-Sector in Practice
-
-Hemenway's case study demonstrates how the zone system transforms garden
-management. Before applying zones, their vegetable garden 100 feet from the house
-became a chore—boots, trudging, and constant neglect. After fencing a semicircle
-around the house and [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] heavily, the garden became part of daily life:
-coffee-time weeding, window-gazing at butterflies, effortless mulching, and
-constant harvest. "Having had it both ways, using zones is the only way I'll
-garden."
-
-## See Also
-- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
-- [[ozier-pdc-ecological-design]]
-- [[zone-and-sector-analysis]]
-- [[perennial-vegetables]]
-- [[toby-hemenway]]

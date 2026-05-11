@@ -9,6 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - Growing Gourmet and Medicinal Mushrooms, Paul Stamets, 1993, Chapter 13
 type: concept
 created: 2026-04-28
@@ -87,12 +88,3 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-## See Also
-
-- [[growing-gourmet-mycelium-color-fragrance-signatures]]
-- [[hypholoma-sublateritium]]
-- [[pleurotus-species]]
-- [[hericium-erinaceus]]
-- [[oyster-mushroom]]
-- [[pleurotus-ostreatus]]

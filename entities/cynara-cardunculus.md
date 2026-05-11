@@ -54,7 +54,7 @@ Blanching is essential for producing tender edible stalks. Plants are wrapped in
 
 Harvest of blanched stalks occurs from late autumn through winter, approximately 4–5 months after sowing. Yields of edible stalks range from 5–8 kg per plant under optimal conditions.
 
-Cardoon is relatively pest-resistant but can be affected by aphids, slugs, and [[bloomfield-fungal-pathogens-and-parasites]] including Botrytis cinerea and [[cervantes-powdery-mildew-prevention-treatment]]. Crop rotation and good drainage minimize disease pressure.
+Cardoon is relatively pest-resistant but can be affected by aphids, slugs, and [[bloomfield-fungal-pathogens-and-parasites]] including [[botrytis-cinerea]] and [[cervantes-powdery-mildew-prevention-treatment]]. [[coleman-cover-crop-rotation-and-soil-health]] good drainage minimize disease pressure.
 
 ## Culinary and Nutritional Use
 
@@ -68,9 +68,9 @@ Cardoon seeds yield 20–25% oil by weight. The oil is rich in linoleic acid (55
 
 ## Bioactive Compounds
 
-Cardoon contains significant concentrations of phenolic compounds, particularly cynarin (1,5-dicaffeoylquinic acid) and chlorogenic acid. These compounds exhibit antioxidant, hepatoprotective, and choleretic activities in vitro and in animal models.
+Cardoon contains significant concentrations of [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], particularly cynarin (1,5-dicaffeoylquinic acid) and chlorogenic acid. These compounds exhibit antioxidant, hepatoprotective, and choleretic activities in vitro and in animal models.
 
-Sesquiterpene lactones, including cynaropicrin and grosheimin, contribute to the characteristic bitter flavor and possess anti-inflammatory and anticancer properties. Cynaropicrin has demonstrated inhibitory effects on NF-κB signaling pathways.
+Sesquiterpene lactones, including cynaropicrin and grosheimin, contribute to the characteristic bitter flavor and possess anti-inflammatory and anticancer properties. Cynaropicrin has demonstrated inhibitory effects on NF-κB [[plant-signaling-pathways]].
 
 Flavonoids present include luteolin, apigenin, and their glycosides, which contribute antioxidant capacity. Inulin-type fructans in the roots and stalks function as prebiotics, promoting beneficial gut microbiota.
 
@@ -80,37 +80,10 @@ Wild Cynara cardunculus is distributed across the Mediterranean Basin, from the 
 
 The species occupies rocky slopes, dry pastures, roadsides, and disturbed ground at elevations from sea level to 1000 meters. It is well-adapted to xeric conditions and survives prolonged summer drought through its deep taproot.
 
-Naturalized populations can become invasive in temperate regions with Mediterranean-like climates. The plant is classified as a noxious weed in some jurisdictions due to its competitive ability and spiny habit.
+Naturalized populations can become invasive in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] with Mediterranean-like climates. The plant is classified as a noxious weed in some jurisdictions due to its competitive ability and spiny habit.
 
 ## Ecological Role
 
-Cardoon flowers are highly attractive to pollinators, particularly bees, butterflies, and hoverflies. The large nectar-rich florets provide an important late-season food source in Mediterranean ecosystems.
+Cardoon flowers are highly attractive to pollinators, particularly bees, butterflies, and hoverflies. The large nectar-rich florets provide an important late-season food source in [[fungal-diversity-mediterranean-ecosystems]].
 
 The deep root system improves soil structure and can help prevent erosion on slopes. As a member of the Asteraceae, cardoon contributes to plant biodiversity in semi-arid grassland communities.
-
-Cardoon residues and leaf litter add [[hamilton-composting-and-organic-matter-management]] to the soil. The plant has been investigated as a phytoremediation agent for moderately contaminated soils due to its tolerance of heavy metals.
-
-## Pharmacological Activities
-
-Extracts of Cynara cardunculus leaves have demonstrated hepatoprotective effects in animal models of chemical-induced liver injury. The mechanism involves antioxidant activity, membrane stabilization, and enhancement of bile flow.
-
-Hypolipidemic effects have been documented, with reductions in total cholesterol and LDL cholesterol observed in [[mushroom-cancer-clinical-trials-overview]] using artichoke leaf extracts. Cardoon shares many bioactive constituents with globe artichoke.
-
-Antimicrobial activity against Gram-positive bacteria and yeasts has been attributed to sesquiterpene lactones. Anti-inflammatory effects are mediated through inhibition of cyclooxygenase-2 (COX-2) and inducible nitric oxide synthase (iNOS).
-
-## Bioenergy Applications
-
-Cynara cardunculus has been extensively researched as a dedicated bioenergy crop in Mediterranean climates. Its high biomass productivity (10–30 t dry matter per hectare per year) and low input requirements make it competitive with other lignocellulosic feedstocks.
-
-The plant produces significant quantities of lignocellulosic biomass suitable for direct combustion, [[biogas-digester-basics]], and bioethanol production. Seed oil has been evaluated as a biodiesel feedstock with promising fuel properties.
-
-Life cycle assessments indicate cardoon bioenergy systems can achieve favorable energy return on investment in rainfed Mediterranean conditions. The crop requires minimal nitrogen fertilization and no irrigation once established.
-
-## See Also
-
-- [[cichorium-intybus]]
-- [[carthamus-tinctorius]]
-- [[allium-sativum-entity]]
-- [[arachis-hypogaea]]
-- helianthus annuus
-- [[piper-nigrum-entity]]

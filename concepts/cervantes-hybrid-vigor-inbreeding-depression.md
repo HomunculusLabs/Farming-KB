@@ -4,12 +4,13 @@ created: 2026-04-26
 tags:
   - cannabis
   - breeding
-  - hybrid vigor
+  - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
   - inbreeding depression
   - genetics
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -45,7 +46,7 @@ generation.
 
 F1 seed production has benefits to the breeder or seed-maker as well as
 the grower. True-breeding seed can be easily reproduced by open
-pollination. Most seed companies have no interest in selling easily
+pollination. Most [[spanish-cannabis-seed-companies]] have no interest in selling easily
 reproduced seed. By releasing only hybrids of their pure lines, seed
 banks ensure the customer comes back to buy more F1 seed each time they
 wish to do a new seed planting. They also protect their long-term
@@ -57,7 +58,7 @@ reproduce their work and sell it as their own.
 There are various types of hybrid varieties:
 
 - **F1 hybrids:** A cross of two unrelated true-breeding lines (e.g.,
-  'Northern Lights' x 'Haze')
+  '[[cannabis-strain-mango-haze-northern-lights-skunk-haze]]' x 'Haze')
 - **3-way crosses:** A cross involving three parent lines (e.g.,
   'Skunk #1' = (Mexican x Columbian) x Afghani; 'Blueberry' is a
   similar 3-way cross)
@@ -86,38 +87,3 @@ populations, and the negative attributes of these [[cervantes-dominance-recessiv
 be revealed or unmasked via continual inbreeding. Inbreeding depression
 can be apparent in populations after a single generation of self-
 fertilization.
-
-When breeding cannabis using small populations, as is often the case
-with continual 1:1 mating schemes, inbreeding depression typically
-becomes apparent within three to six generations.
-
-## The Genetic Bottleneck Problem
-
-Cannabis existed in wild breeding populations of hundreds if not
-thousands of individuals. Within these many individuals lies a wide
-range of versions of different genes. When breeders select only one or
-two plants from this vast array as their breeding population, they
-drastically reduce the genetic variability found in the original
-population -- a genetic bottleneck. This variability is lost from the
-populations and unavailable to future generations.
-
-This narrow breeding approach is the preferred scheme used today by the
-majority of commercial [[cannabis-seed-banks-and-genetics]]. Many breeders do not realize that
-cannabis is naturally an out-crossing species and fail to maintain
-sufficient genetic diversity.
-
-## Managing Inbreeding Depression
-
-To deal with inbreeding depression, breeders often maintain separate
-parallel breeding lines, each of which are selected for similar or
-identical sets of traits. After generations of inbreeding, when each of
-the inbred lines begins to show inbreeding depression, they are
-hybridized or out-crossed to each other to restore vigor and eliminate
-inbreeding depression while preserving the genetic stability of the
-traits under selection.
-
-## See Also
-
-- [[cervantes-selfing-single-seed-descent]]
-- [[cannabis-genetics-and-breeding]]
-- [[cannabis-phenotype-selection]]

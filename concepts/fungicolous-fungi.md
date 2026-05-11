@@ -28,7 +28,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 - The fungicolous fungus obtains nutrients from a living host fungus
 - Host may or may not be killed
 - Often involves specialized structures: haustoria, penetration pegs, contact cells
-- Examples: *Ampelomyces quisqualis* on powdery mildews, *Piptocephalis* on Mucorales
+- Examples: *[[ampelomyces-quisqualis]]* on powdery mildews, *Piptocephalis* on Mucorales
 
 ### Necrotrophic Mycoparasitism
 - Fungicolous fungus kills host tissue and then feeds on dead material
@@ -70,7 +70,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 - *Melanospora*: Parasites on various ascomycetes and basidiomycetes
 
 **Xylariales**:
-- *Xylaria*: Some species on fungal fruiting bodies in tropical regions
+- *Xylaria*: Some species on fungal fruiting bodies [[fukuoka-natural-farming-in-tropical-regions]]
 
 ### Basidiomycetes
 
@@ -108,7 +108,7 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ### Chemical Interactions
 - **Antibiotic production**: Many fungicolous fungi produce antifungal compounds (gliotoxin, viridin, trichodermin)
 - **Lytic enzymes**: Cellulases, chitinases, glucanases that degrade host cell walls
-- **Volatile organic compounds**: Some Trichoderma species produce VOCs inhibitory to other fungi
+- **[[chamovitz-plant-scent-communication-volatile-organic-compounds]]**: Some Trichoderma species produce VOCs inhibitory to other fungi
 - **Siderophores**: Iron-chelating compounds that starve competitors
 
 ### Signaling
@@ -129,11 +129,11 @@ The term "fungicolous" encompasses all fungi that grow on or within other fungi.
 ### Biological Control
 - *Trichoderma* species are among the most widely used biocontrol agents, applied to seeds, soil, and plant surfaces
 - *Ampelomyces quisqualis*: Commercialized for control of powdery mildews
-- *Coniothyrium minitans*: Used against Sclerotinia diseases
-- Mycoparasites are key components of integrated pest management
+- *[[coniothyrium-minitans]]*: Used against Sclerotinia diseases
+- Mycoparasites are key components of [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ### Mushroom Cultivation
-- Fungicolous fungi are major contaminants in mushroom cultivation
+- Fungicolous fungi are major contaminants [[contamination-prevention-in-mushroom-cultivation]]
 - *Hypomyces* species destroy cultivated mushroom crops
 - *Trichoderma* species cause "green mold" disease on mushroom compost
 - Understanding fungicolous interactions helps develop resistant strains

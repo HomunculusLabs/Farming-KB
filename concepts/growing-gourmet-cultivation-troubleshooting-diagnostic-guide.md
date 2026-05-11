@@ -52,14 +52,14 @@ Treat the underlying condition, not each symptom in isolation.
 - Bacterial contaminants form glossy, wet patches on agar. Switch to
   **antibiotic-supplemented media** — Stamets recommends **gentamycin sulfate**
   added after autoclaving (filter-sterilized) to avoid degrading the antibiotic.
-  This selectively inhibits bacteria while allowing fungal growth.
+  This selectively inhibits bacteria while allowing [[brassinosteroid-fungal-growth-promotion]].
 
 ### Mycelium Grows Then Dies
 
 - **Over-sterilized media** — Prolonged autoclaving creates toxic byproducts
   (Maillard reactions between sugars and amino acids) that kill mycelium after
-  initial colonization appears healthy. Reduce sterilization time.
-- **Poor strain genetics** — Senescent isolates exhaust themselves after a few
+  initial colonization appears healthy. Reduce [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate]].
+- **Poor [[dikaryon-formation-mushroom-strain-genetics]]** — Senescent isolates exhaust themselves after a few
   transfers. Return to [[growing-gourmet-spore-germination-strain-isolation]] or obtain fresh culture.
 
 ### Contaminants Along the Petri Dish Edge
@@ -74,7 +74,7 @@ Treat the underlying condition, not each symptom in isolation.
 
 ### Media Evaporates or Cracks
 
-- **Low ambient humidity** or prolonged laminar flow exposure draws moisture
+- **Low ambient humidity** or prolonged [[laminar-flow-hood-construction-hepa-filter]] exposure draws moisture
   from agar. Store poured plates in sealed bags; limit time under the hood.
   Cracked agar concentrates nutrients to toxic levels for sensitive strains.
 
@@ -84,67 +84,7 @@ Treat the underlying condition, not each symptom in isolation.
 
 ### Pre-Inoculation Contamination
 
-Grain jars contaminated before inoculation point to sterilization or cooling
+[[pressure-cooker-sterilization-of-grain-jars]] contaminated before [[inoculation-point-taping-technique-sterile-bag-inoculation-jarrold]] to sterilization or cooling
 failure:
 
 - **Bacterial endospores** — Heat-resistant structures surviving standard
-  autoclave cycles. **Soak grain overnight (12–24 hours)** before sterilization
-  to trigger endospore germination into heat-sensitive vegetative cells, which
-  are then reliably killed. This single step eliminates most grain failures.
-- **Cool-down contamination** — Unfiltered air drawn into jars during cooling
-  deposits spores on warm grain. Cover jar openings with **filtered breathing
-  patches** or polyfill plugs during the entire cool-down phase.
-
-### Mycelium Won't Grow After Inoculation
-
-- **Over-dry grain** — Excessive sterilization drives off moisture. Grains
-  should be plump and slightly split, not hard or shriveled.
-- **Bacterial contamination** — Subtle infections stall mycelial expansion
-  without obvious visual signs. A sour or fermented smell is diagnostic.
-  Discard affected jars immediately to prevent spread.
-
----
-
-## Integrated Fly Control
-
-Fungus gnats — **Sciarid** and **Phorid** flies — are among the most damaging
-pests in [[cannabis-sativa-indoor-cultivation-techniques]]. Larvae feed on mycelium and create entry wounds for
-secondary mold and [[blesching-cannabis-bacterial-infections]].
-
-### Mechanical Controls
-
-- **Bug lights with UV bulbs** attract adults into a vacuum vortex trap,
-  preventing egg-laying.
-- **Sticky pads** at cropping height capture adults and serve as a monitoring
-  tool — track counts daily to detect population spikes early.
-- **Wash growing rooms twice daily** with mild disinfectant to remove eggs,
-  larvae, and debris sustaining breeding populations.
-
-### Biological Controls
-
-- **Tree frogs** consume 20–100 flies/day as natural predators, providing
-  continuous pest pressure without [[ingham-manure-antibiotics-chemical-residues-composting]] on fruiting bodies.
-
----
-
-## Quick-Reference Decision Tree
-
-| Symptom                       | Likely Cause                  | First Action                              |
-|-------------------------------|-------------------------------|-------------------------------------------|
-| Agar won't set                | Low agar / bacteria           | Remake with correct concentration         |
-| No germination on plate       | Inviable spores / dry         | Soak spores 48 hr; try fresh stock        |
-| White mold on plate           | Trichoderma / competitor      | Transfer target mycelium to fresh plate   |
-| Slime on agar surface         | Bacteria                      | Switch to gentamycin-amended media        |
-| Contaminants at dish edge     | Airborne ingress              | Wrap plates with Parafilm                 |
-| Contaminants at inoc. point   | Dirty tool                    | Flame-sterilize between every transfer    |
-| Mycelium stalls on grain      | Dry grain / bacteria          | Check grain moisture; sniff for sourness  |
-| Wet spot in grain jar         | Bacterial endospore survivor  | Soak grain 24 hr before sterilizing       |
-| Contam. in uninoculated jar   | Airborne / filter failure     | Improve filter patch; check airflow       |
-| Flies in grow room            | Sciarid/Phorid gnats          | Deploy UV bug lights; wash room 2x/day    |
-
----
-
-## See Also
-
-- [[growing-gourmet-contamination-prevention]]
-- [[growing-gourmet-pest-management]]

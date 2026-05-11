@@ -10,9 +10,9 @@ created: 2026-05-08
 
 ## Overview
 
-Spore print collection is the process of capturing mushroom
+[[spore-print]] collection is the process of capturing mushroom
 spores for cultivation of future crops. In the boil-a-bag
-method (Jarrold), spore prints are taken from mature mushroom
+method (Jarrold), [[macrofungal-documentation-photography-spore-prints]] are taken from mature mushroom
 caps and stored in sterile glass jars for later use in preparing
 [[query-spore-syringes-vs-liquid-culture]]. This completes the cultivation cycle, making the
 method self-sustaining.
@@ -21,9 +21,9 @@ method self-sustaining.
 
 Spore prints should be taken from mature mushrooms when the
 cap has fully opened and the gills are exposed. The cap should
-be at or near the point of natural spore release. Mushrooms are
+be at or near the point of natural [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]. Mushrooms are
 ready for picking (and [[mushroom-spore-printing-and-storage]]) when the veil between
-cap and stem has torn and the cap has expanded to nearly flat.
+[[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] has torn and the cap has expanded to nearly flat.
 
 ## Jar Sterilization
 
@@ -37,7 +37,7 @@ before use:
 6. Remove tray from grill and tighten lids
 
 Tight lids are loosened just before use to allow moisture to
-evaporate during the spore printing process.
+evaporate during the [[mushroom-spore-printing-syringe-preparation-and-preservation]] process.
 
 ## Equipment Required
 
@@ -88,43 +88,3 @@ To convert stored spore prints into inoculum:
 
 1. Sterilize 80 mL of water in a Pyrex jug (15 psi, 20 min)
 2. Sterilize syringe and needle alongside the water
-3. Cool all items completely
-4. Open spore jar in a clean environment
-5. Add sterile water to the jar
-6. Use a flame-sterilized flat-ended metal scraper to loosen
-   spores from the jar bottom into suspension
-7. Draw spore solution into the syringe
-8. Flame-sterilize the needle before each inoculation
-
-## Contamination Prevention
-
-The entire spore print process is vulnerable to contamination:
-
-- **Breath contamination**: Always wear a mask. Exhaled
-  microorganisms are a major contamination vector.
-- **Equipment sterility**: Flame-sterilize tweezers, scissors,
-  and scraper before each use.
-- **Environmental contamination**: Work in a draft-free area.
-  Avoid working near open windows or fans.
-- **Jar integrity**: Ensure lids seal properly during storage
-  but remain loose during printing.
-
-## Completing the Cultivation Cycle
-
-The spore print technique closes the cultivation loop:
-spore print → spore syringe → inoculation → colonization →
-fruiting → harvest → new spore print. This self-sustaining
-cycle means the cultivator needs no external spore supply
-after the initial print.
-
-Each generation of cultivation maintains the same strain
-genetics, though genetic drift and accumulated contamination
-risk increase over many generations. Periodic refreshment
-with new genetic material is recommended.
-
-## See Also
-- [[mushroom-humidity-chamber-design]]
-- [[psilocybin-mushrooms-species-and-pharmacology]]
-- [[spore-print-collection]]
-- [[spore-syringe]]
-- [[sterilization]]

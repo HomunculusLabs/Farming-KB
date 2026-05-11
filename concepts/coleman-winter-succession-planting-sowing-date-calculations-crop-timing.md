@@ -2,17 +2,17 @@
 
 ## Overview
 
-Succession planting for winter harvest requires a fundamentally different approach than spring and summer planting schedules. In the winter harvest system developed by Eliot Coleman at Four Season Farm in coastal Maine, the key insight is that seasons are reversed from the usual spring-planting experience: day length is contracting rather than expanding, and temperatures are becoming cooler rather than warmer.
+Succession planting for [[cold-house-winter-harvest-system]] requires a fundamentally different approach than spring and summer planting schedules. In the winter harvest system developed by Eliot Coleman at Four Season Farm in coastal Maine, the key insight is that seasons are reversed from the usual spring-planting experience: day length is contracting rather than expanding, and temperatures are becoming cooler rather than warmer.
 
 Success in maintaining a continuity of crops for harvest through the winter depends on understanding how shorter day length and cooler temperatures increase the time from sowing to harvest. The choice of precise sowing dates for fall planting is much more crucial than for spring planting, and the dates are highly crop-specific. Getting the sowing date wrong by even two weeks can mean the difference between a harvestable crop and one that is too small to survive the winter.
 
-This page covers the day length factor, sowing date calculation methods, adjusted maturity rates for fall conditions, crop-specific timing windows, and succession planting strategies for continuous winter harvest.
+This page covers the day length factor, sowing date calculation methods, adjusted maturity rates for fall conditions, crop-specific timing windows, [[crop-rotation-and-succession-planting]] strategies for continuous winter harvest.
 
 ---
 
 ## The Day Length Factor
 
-Coleman identifies day length as the single most important variable governing winter crop growth rates. While temperature certainly affects growth, day length is the dominant factor because it triggers hormonal responses in plants that regulate growth, flowering, and dormancy.
+Coleman identifies day length as the single most important variable governing [[coleman-sunlight-and-winter-crop-growth-rates]] rates. While temperature certainly affects growth, day length is the dominant factor because it triggers hormonal responses in plants that regulate growth, flowering, and dormancy.
 
 ### The Ten-Hour Day Threshold
 
@@ -26,7 +26,7 @@ The Persephone months vary significantly by latitude:
 
 - **44°N (Maine, northern US)**: November 20 to January 21
 - **40°N (New York, Philadelphia)**: December 5 to January 5
-- **35°N (North Carolina, Tennessee)**: December 15 to December 28
+- **35°N ([[north-carolina-mycodiversity]], Tennessee)**: December 15 to December 28
 
 Growers at lower latitudes have shorter Persephone months and can achieve more winter growth. At higher latitudes, the winter dormancy period is longer and the sowing window is correspondingly earlier. The principles remain the same, but the specific dates must be adjusted for local latitude.
 
@@ -77,7 +77,7 @@ Sow August 15 through September 15 for harvest from October through March. Spina
 
 ### Carrots
 
-Sow early August for harvest beginning in December. Winter carrots require a long growing period to reach full size before growth slows. Coleman recommends selecting varieties bred for winter production, such as 'Bolero' and 'Merida', which maintain sweetness in cold conditions and store well in the ground.
+Sow early August for harvest beginning in December. [[coleman-sweet-winter-carrots-cold-sweetening]] require a long growing period to reach full size before growth slows. Coleman recommends selecting varieties bred for [[coleman-beet-greens-cold-house-winter-production]], such as 'Bolero' and 'Merida', which maintain sweetness in cold conditions and store well in the ground.
 
 ### Asian Greens
 
@@ -88,36 +88,3 @@ Tatsoi, mizuna, and other Asian greens: sow September 1 through October 1. These
 Sow September 15 through October 15. Mache is one of the most cold-hardy salad greens and can be harvested throughout the winter with minimal protection. It grows slowly but maintains excellent quality through the coldest months.
 
 ---
-
-## Succession Planting Strategy
-
-### Staggered Sowing Dates
-
-Coleman's system relies on multiple succession sowings of each crop at two-week intervals. Rather than making a single large sowing, three to five sowings spread across the planting window ensure that some plantings will be at peak harvest size throughout the winter, even if individual plantings are slightly early or late in their development.
-
-### The "Second Spring"
-
-After the Persephone months end, day length begins to increase and plant growth resumes. Coleman calls this period the "second spring." Crops that were in suspended animation begin to grow again, providing an increasing harvest through February and March. The succession plantings made the previous fall produce a secondary harvest during this period, often with improved sweetness and quality due to cold exposure. This second spring harvest extends the productive season without additional planting.
-
----
-
-## Planting Density Considerations
-
-Winter planting densities are typically higher than summer densities because plants grow more slowly and remain smaller throughout the season. Closer spacing also provides mutual protection and helps retain warmth within the crop canopy. Coleman recommends spacing winter crops at approximately two-thirds the distance used for summer plantings of the same crop.
-
-However, Coleman cautions that over-crowding can reduce air circulation and increase disease risk, particularly in the humid environment of a double-layer protected greenhouse. Finding the right balance between density for warmth and spacing for airflow is part of the art of winter production. He recommends erring on the side of slightly wider spacing for disease-susceptible crops like lettuce, while packing cold-tolerant crops like mache and claytonia more densely.
-
----
-
-## Record-Keeping and Continuous Improvement
-
-Coleman emphasizes careful record-keeping for refining sowing dates over successive seasons. He tracks sowing dates, germination rates, first harvest dates, total yield, and quality observations for each planting. This data allows incremental improvements to the sowing schedule year over year, adapting general principles to the specific microclimate of each growing site.
-
-## See Also
-
-- [[coleman-winter-harvest-planting-schedule]]
-- [[coleman-persephone-months-winter-day-length]]
-- [[coleman-winter-day-length-and-persephone-months]]
-- [[coleman-succession-planting]]
-- [[coleman-sunlight-and-winter-crop-growth-rates]]
-- [[coleman-second-spring-august-planting-window]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis for Alzheimer's Disease and Dementia (Blesching, [[blesching-cannabis-health-index-autoimmune-conditions]])
+title: Blesching Cannabis Alzheimers Dementia
 created: 2026-04-26
 updated: 2026-04-25
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"

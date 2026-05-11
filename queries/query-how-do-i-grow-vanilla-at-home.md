@@ -4,6 +4,7 @@ tags: [vanilla, orchid, home-growing, greenhouse, tropical-plants, indoor-garden
 created: 2026-05-03
 updated: 2026-05-03
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - https://www.rhs.org.uk/plants/102838/vanilla-planifolia/details
   - https://kruckeberg.org/grow-vanilla/
   - https://www.aos.org/asp-orchids/orchid-quiz/vanilla/

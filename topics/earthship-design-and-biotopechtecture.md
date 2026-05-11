@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Earthship: Volume I by Michael Reynolds (1979)
   - Earthship: Evolution Beyond Economics by Michael Reynolds (1990)
   - Comfort in Any Climate by Michael Reynolds (2000)

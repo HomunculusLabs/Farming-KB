@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, composting, microbiology]
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 ---
 
@@ -86,21 +87,3 @@ Woody materials contain protective compounds that resist [[dighton-fungal-decomp
 - **Strategic use**: Some terpenes may provide desirable weed suppression -- test by applying treated and untreated material in separate areas
 
 ## The Time vs Money Tradeoff
-
-Ingham frames the choice between buying commercial fungal inoculants and collecting local forest material as a matter of time versus money:
-
-- **Commercial inoculants** (Alaska humus, specific fungal products): Fast results, higher cost
-- **Local forest collection**: Free, but slower to build populations
-- **Combined approach**: Maximum diversity by using both sources simultaneously
-
-The long-term goal is always to develop locally-adapted populations. Commercial inoculants can get things started, but saving and developing your own inoculum over time produces organisms best adapted to your specific conditions.
-
-## Practical Application Summary
-
-1. Source fungal inoculum from healthy forest O horizons, old wood chip piles, or high-quality commercial compost
-2. Identify good fungi by thick white/yellow/tan strands within the compost, not fuzzy grey surface growth
-3. Ensure compost has adequate fungal biomass before brewing -- tea extracts but does not create fungi
-4. Add fungal foods (malt, soy sauce, humic acids) to tea to support fungal growth after application
-5. Avoid actinobacteria additions when mycorrhizal associations are desired
-6. Leave mulch on the soil surface rather than incorporating it -- surface placement favors fungi, incorporation favors bacteria
-7. Collect from diverse sites to maximize the genetic diversity of your fungal inoculum

@@ -6,7 +6,7 @@ type: concept
 tags: [mycology, fungi]
 sources: []
 ---
-# Fungal Succession on Decomposing Wood ## Overview The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
+# Fungal Succession on Decomposing Wood ## Overview The [[soil-foodweb]], see the [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose
 - **Lignin** (20-30%): Complex, irregular polymer of phenylpropanoid units; extremely resistant to degradation
 - **Extractives**: Resins, tannins, and other secondary compounds; vary among species and can inhibit fungal growth

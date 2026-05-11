@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH-6
 
-PIHKAL entry #6. 4-Phenylthio-2,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #6. 4-Phenylthio-2,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -88,55 +88,7 @@ was then added, as a solid and portionwise, 6.6 g diphenyldisulfide
 which resulted in an exothermic reaction and the production of a
 nearly clear solution. After stirring an additional 10 min, the
 reaction was quenched in 500 mL of dilute NaOH. The hexane phase was
-separated, and the aqueous phase extracted with 4x100 mL CH2Cl2 The
-organic extracts were combined, washed with dilute HCl and the
-solvents were removed under vacuum to provide 6.0 g of
-2,5-dimethoxyphenyl phenyl sulfide as an impure amber oil. A small
-sample was saved for microanalysis and NMR, and the re-mainder
-converted to the corresponding benzaldehyde.
-
-A mixture of 6.1 g POCl3 and 5.4 g N-methylformanilide was heated for
-3 min on the [[scythian-cannabis-steam-bath-ritual]], and then added to the remainder of the
-
-(Additional synthesis details available in source.)
 
 ## See Also
-- [[mdcpm-entity-pihkal]]
-- [[desoxy-entity-pihkal]]
-- [[pea-entity-pihkal]]
-- [[ganesha-entity-pihkal]]
-- [[im-entity-pihkal]]
-- [[e-entity-pihkal]]
-- [[2c-t-7-entity-pihkal]]
-- [[mde-entity-pihkal]]
-- [[mdph-entity-pihkal]]
-- [[f-22-entity-pihkal]]
-- [[iris-entity-pihkal]]
-- [[mdpr-entity-pihkal]]
-- [[aem-entity-pihkal]]
-- [[sb-entity-pihkal]]
-- [[2c-t-9-entity-pihkal]]
-- [[tm-entity-pihkal]]
-- [[2c-t-15-entity-pihkal]]
-- [[4-ma-entity-pihkal]]
-- [[dme-entity-pihkal]]
-- [[g-3-entity-pihkal]]
-- [[2c-t-13-entity-pihkal]]
-- [[don-entity-pihkal]]
-- [[eem-entity-pihkal]]
-- [[mp-entity-pihkal]]
-- [[emm-entity-pihkal]]
-- [[doet-entity-pihkal]]
-- [[tb-entity-pihkal]]
-- [[pihkal-aleph-2]]
-- [[3-tm-entity-pihkal]]
-- [[lophophine-entity-pihkal]]
-- [[mdmeoet-entity-pihkal]]
-- [[mdip-entity-pihkal]]
-- [[mdmc-entity-pihkal]]
-- [[mem-entity-pihkal]]
-- [[aleph-4-entity]]
-- [[2c-t-4-entity-pihkal]]
-- [[aleph-2-entity-pihkal]]
 - [[aleph-7-entity-pihkal]]
 - [[aleph-entity-pihkal]]

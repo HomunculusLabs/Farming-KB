@@ -89,38 +89,5 @@ amphetamine counterparts 3C-B, 3C-A, 3C-H, and 3C-S.
 
 ## Structural Position Among Mescaline Homologues
 
-Buscaline represents the butyl member of the 4-alkoxy-3,5-
-dimethoxyphenethylamine series. The series progresses from
-mescaline itself (4-methoxy) through escaline (4-ethoxy),
-propiescaline (4-propyloxy), to buscaline (4-butyloxy). The
-progressive loss of activity from methoxy through butoxy is
-consistent with the general observation that larger lipophilic
-substituents at the 4-position do not enhance and often diminish
-psychedelic activity in the phenethylamine class.
-
-The relationship between 2C-B and 3C-B (and by extension, B) is
-- **2C-B** is the two-carbon chain analogue of DOB (the
-  three-carbon compound)
-- **3C-B** is the three-carbon chain analogue of Buscaline (B,
-  the two-carbon compound)
-
-There is no logical connection whatsoever, either structural or
-pharmacological, between 2C-B and 3C-B despite the similar
-names. The "2C-" prefix always refers to phenethylamines
-(two-carbon chain), and "3C-" refers to amphetamines
-(three-carbon chain) that are named after their two-carbon
-parent.
-
 ## See Also
-
-- [[pihkal-mescaline-analogs]]
-- [[2c-b-pihkal-entry-20]]
-- [[inactive-probes-pharmacological-falsification-pihkal]]
-
-Buscaline's inactivity at any reasonable oral dose serves as a useful
-negative data point in structure-activity relationship studies. The
-propoxy substituent at the 4-position, while larger than the
-corresponding methoxy group found in mescaline, appears to exceed the
-receptor's tolerance for steric bulk at that position without providing
-compensatory binding interactions. This contrasts with compounds like
-escaline (3,5-dimethoxy-4-ethoxyphenethylamine) which retain activity.
+- [[bod-pihkal-entry-14]]

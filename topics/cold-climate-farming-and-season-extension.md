@@ -15,6 +15,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - ~/wiki/concepts/cold-climate-gardening.md
   - ~/wiki/concepts/cold-climate-permaculture-guide.md
   - ~/wiki/concepts/coleman-four-season-farm.md

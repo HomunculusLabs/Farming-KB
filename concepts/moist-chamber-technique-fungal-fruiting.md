@@ -1,5 +1,5 @@
 ---
-title: Moist moist chamber technique fungal fruiting — Inducing brassinosteroid-fungal-fruiting-body-morphology
+title: [[myxomycete-sampling-collection-moist-chamber-culturing]] Technique [[brassinosteroid-effects-on-fungal-fruiting-morphology]]
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Moist Chamber Technique — Inducing Fungal Fruiting
 
-The moist chamber technique is one of the most versatile and widely used methods in mycology for inducing fungi to produce fruiting bodies and spores from collected substrata. It is essential for studying microfungi, myxomycetes, and many other groups that cannot be identified in the field.
+The moist chamber technique is one of the most versatile and widely used methods in [[mycology]] for inducing fungi to produce [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] and spores from collected substrata. It is essential for studying microfungi, myxomycetes, and many other groups that cannot be identified in the field.
 
 ## Basic Setup
 
@@ -53,7 +53,7 @@ The moist chamber technique is one of the most versatile and widely used methods
 - Begin observations after ~24 hours for small species (Echinostelium may appear first day)
 - Longer incubation favors aphanoplasmodial and phaneroplasmodial species
 - Observe daily for 7-10 days
-- If filamentous fungi overgrow, allow to dry completely, then rewet
+- If [[environmental-sensing-filamentous-fungi-read]] overgrow, allow to dry completely, then rewet
 - Plasmodia can be transferred to half-strength cornmeal agar for cultivation
 
 ### Coprophilous Fungi
@@ -83,30 +83,7 @@ The moist chamber technique is one of the most versatile and widely used methods
 ## Potential Problems
 
 ### Aggressive Fungal Invaders
-- **Trichoderma species** especially problematic with coprophilous fungi
+- **[[trichoderma]] species** especially problematic with coprophilous fungi
 - Cool incubation (<=18C) helps prevent overgrowth
 - Limited water (not saturated) also helps
 - Acidification of media can help
-
-### Bacterial Contamination
-- Antibiotics can be added to media in chambers
-- Methyl benzoate, naphthalene, PDB (para-dichlorobenzene) as insecticides
-- Only under extreme infection conditions
-
-### Mites
-- Can destroy cultures; dieldrin medium supplement (20 mg/ml) as last resort
-- Extremely toxic to animals; handle as toxic waste
-- Gams et al. (1998) suggested lindane at 75 mg/ml as alternative
-
-## Succession Patterns
-A succession of fungi appears over time. The chamber should be examined frequently. As substratum becomes depleted, additional material can be moistened and placed in the chamber.
-
-## See Also
-
-- [[myxomycete-sampling-collection-moist-chamber-culturing]]
-
-- fungal-culture-media-formulas-applications
-- [[coprophilous-fungi-ecology-diversity]]
-- [[water-activity-osmophilic-fungal-media-preparation]]
-- coprophilous-fungi-ecology-succession
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

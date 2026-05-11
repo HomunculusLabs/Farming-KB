@@ -10,7 +10,7 @@ type: concept
 
 # Mushroom Cultivation Contamination Prevention
 
-Contamination is the single greatest cause of failure in mushroom cultivation.
+Contamination is the single greatest cause of failure [[contamination-prevention-in-mushroom-cultivation]].
 Fungal, bacterial, and viral competitors can overrun a culture in days. A
 systematic approach to prevention, detection, and response separates successful
 cultivators from frustrated beginners.
@@ -26,14 +26,14 @@ substrate is especially vulnerable.
 ### Cobweb Mold (Dactylium)
 
 Cobweb mold appears as fine, grayish-white webbing over the substrate surface.
-Unlike mushroom mycelium, it is easily disturbed and does not recover when
-touched. Increasing fresh air exchange usually controls mild outbreaks. A light
+Unlike [[antimicrobial-compounds-mushroom-mycelium]], it is easily disturbed and does not recover when
+touched. Increasing fresh [[growing-gourmet-growing-room-ventilation-air-exchange]] usually controls mild outbreaks. A light
 spray of 3 percent [[cervantes-hydrogen-peroxide-sterilization]] can suppress heavier infestations.
 
 ### Bacterial Contamination
 
 Bacterial contamination manifests as slimy patches, sour or rotten odors, and
-a wet, matted appearance of [[comparison-grain-spawn-vs-grain-to-grain-transfer]]. *Bacillus subtilis* ("wet spot") is
+a wet, matted appearance of [[comparison-grain-spawn-vs-grain-to-grain-transfer]]. *[[bacillus-subtilis]]* ("wet spot") is
 the most common bacterial contaminant. It usually indicates insufficient
 sterilization, over-hydrated grain, or poor jar ventilation.
 
@@ -60,14 +60,14 @@ and allow air to settle for 5 to 10 minutes before beginning work.
 
 ### Laminar Flow Hood
 
-A laminar flow hood draws air through a HEPA filter (removing 99.97 percent of
+A laminar flow hood draws air through a [[hepa-filter-selection-and-testing]] (removing 99.97 percent of
 particles 0.3 microns and larger) and directs it in a smooth, unidirectional
 flow across the work surface. Though more expensive than a SAB, an LFH
 dramatically improves success rates and enables larger-scale production.
 
 ### Filter Patches and Gas Exchange
 
-All spawn jars and substrate bags must have filtered ventilation. Polypropylene
+All spawn jars and [[oil-drum-sterilizer-mushroom-substrate-bags]] must have filtered ventilation. Polypropylene
 filter patches rated at 0.3 microns are standard. Tyvek envelopes from postal
 supplies also work as jar lids.
 
@@ -87,31 +87,3 @@ If contamination is detected before sporulation, the affected jar can sometimes
 be salvaged by transferring clean mycelium to fresh substrate. Once a
 contaminant has sporulated, discard the entire culture immediately. Seal it in
 a bag before removing from the grow area to prevent [[aquatic-fungi-spore-dispersal-ingold]].
-
-## Environmental Hygiene
-
-The grow space should be kept clean. Regular cleaning with 10 percent bleach
-solution or quaternary ammonia reduces ambient spore loads. Remove and discard
-contaminated materials immediately, ideally sealing them in a bag before
-removing from the grow area.
-
-## When to Start Over
-
-Some situations warrant abandoning a grow entirely and starting fresh. A grow
-room with visible mold colonization on walls or surfaces has a spore load that
-makes continued work impractical. A contaminated culture that has been shaking
-its spores into the workspace for days has likely contaminated every other
-culture in the area. In these cases, thorough cleaning and starting with fresh
-materials is faster and more reliable than attempting to salvage individual
-cultures.
-
-## See Also
-
-- [[contamination-identification-prevention-mushroom-cultivation]]
-- [[mushroom-cultivation-contamination-troubleshooting]]
-
-- [[contamination-mushroom-cultivation]]
-
-- [[mushroom-substrate-preparation-sterilization]]
-- [mushroom-and-inoculation]
-- mushroom-fruiting-chamber-designs-and-parameters]

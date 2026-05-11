@@ -88,39 +88,7 @@ AL is one of the most potent 3,4,5-trisubstituted
 phenethylamines yet described. The long duration (up to 12+ hours)
 and next-day residuals merit caution. Sedatives (Librium) may be
 needed to achieve sleep. No anorexia was noted at 35 mg, which
-is unusual for compounds in this class.
-
-## Significance in the Mescaline Series
-
-AL occupies an interesting position among mescaline analogues.
-Most 3,4,5-trisubstituted phenethylamines with relatively small
-4-position substituents (methoxy, ethoxy) show modest potency.
-The allyloxy group represents a larger, unsaturated substituent
-that nonetheless permits significant brain penetration and
-receptor activity. The allyl double bond offers a potential site
-for metabolic oxidation (epoxidation) that may contribute to
-the compound's pharmacological profile.
-
-AL demonstrates that allyloxy substitution at the 4-position of
-the 3,5-dimethoxyphenethylamine skeleton retains significant
-psychedelic activity. The allyl group offers potential for further
-chemical modification (oxidation to glycidyl, epoxidation, etc.).
-Shulgin hypothesized that the corresponding amphetamine analogue,
-4-allyloxy-3,5-dimethoxyamphetamine (3C-AL), would be even more
-potent. It could be made from syringaldehyde via allylation,
-nitrostyrene formation with nitroethane, and reduction with
-aluminum hydride. As of writing it remained unsynthesized and
-unexplored.
 
 ## See Also
-
-- [[pihkal-mescaline-analogs]]
-- [[dosage-ambiguity-fuzzy-numbers-pihkal]]
-- [[pihkal-qualitative-effects-themes]]
-
-The position of the allyloxy group at the 4-position of the phenyl ring is
-significant in that it creates a fairly large substituent without the
-electron-withdrawing properties of halogens or the electron-donating
-properties of methoxy groups. This makes it a useful probe for
-understanding the role of steric bulk versus electronic effects in
-serotonin [[tihkal-receptor-binding-serotonin]].
+- [[bod-pihkal-entry-14]]
+- [[2c-e-pihkal-entry-24]]

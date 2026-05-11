@@ -1,6 +1,6 @@
 ---
 title: Alpha-Diversity Gradient from Bulk Soil to Cannabis Endorhiza
-source: raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+source: understanding-cultivar-specificity-cannabis-microbiome.md
 concepts: [alpha-diversity, bulk-soil, rhizosphere, endorhiza, chao1, observed-species, microbiome-richness]
 tags: [microbiology, cannabis, alpha-diversity, microbiome, plant-microbiome]
 created: 2026-05-09
@@ -12,7 +12,7 @@ created: 2026-05-09
 
 The study by Winston et al. (2014) documented a clear gradient of decreasing microbial alpha diversity from bulk soil through the rhizosphere and into the Cannabis endorhiza.
 
-This gradient is a common pattern in plant microbiome research and reflects the increasing selectivity of the plant host as bacterial communities move from the open soil environment into root tissue.
+This gradient is a common pattern in plant microbiome research and reflects the increasing selectivity of the plant host as [[cannabis-endorhiza-bacterial-communities]] move from the open soil environment into root tissue.
 
 ## The Diversity Gradient
 
@@ -26,7 +26,7 @@ The reduction from bulk soil to rhizosphere is relatively modest (approximately 
 
 This steep drop at the soil-to-root interface mirrors the beta-diversity patterns showing that the biggest community restructuring occurs when bacteria colonize plant tissue.
 
-The two-step nature of this gradient — a gentle slope from bulk soil to rhizosphere, then a sharp cliff from rhizosphere to endorhiza — is consistent across multiple diversity metrics and experimental conditions.
+The two-step nature of this gradient — a gentle slope from bulk soil to rhizosphere, then a sharp cliff from rhizosphere to endorhiza — is consistent across multiple diversity metrics and [[darwin-five-seedling-phototropism-experimental-conditions]].
 
 ## Soil Type Effects on Alpha Diversity
 
@@ -39,7 +39,7 @@ The two soil types used in the second experiment (Mo-Bio soil and Orange County 
 
 The Mo-Bio soil consistently supported higher microbial diversity than the Orange County soil, with differences visible at both the bulk soil and rhizosphere levels.
 
-This likely reflects differences in edaphic factors between the two soils, including total organic carbon (5.00% for Mo-Bio vs. 20.0% for Orange County), nitrogen content, and other physicochemical properties.
+This likely reflects differences in [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] between the two soils, including total organic carbon (5.00% for Mo-Bio vs. 20.0% for Orange County), nitrogen content, and other [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]].
 
 Interestingly, the Orange County soil had much higher total organic carbon yet lower diversity. This counterintuitive finding may reflect the specific quality or composition of the organic matter, or other confounding soil properties that affect microbial community assembly.
 
@@ -66,7 +66,7 @@ The decreasing diversity gradient can be understood through several ecological m
 
 The rhizosphere is a more homogeneous environment than bulk soil, with root exudates creating a nutrient-rich zone that favors certain bacterial groups over others.
 
-This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, and secondary metabolites — create a chemical environment that selects for bacteria capable of utilizing these compounds.
+This represents a first level of environmental filtering. Root exudates — including sugars, amino acids, organic acids, [[plant-defense-chemistry-and-secondary-metabolites]] — create a chemical environment that selects for bacteria capable of utilizing these compounds.
 
 The endorhiza represents an even more selective environment, where only bacteria capable of colonizing root tissue, evading or tolerating plant immune responses, and competing for niche space within the root can persist.
 
@@ -76,7 +76,7 @@ Within the root, bacterial taxa compete for limited space and resources.
 
 Many soil-adapted generalists are outcompeted by specialized endophytes that have evolved mechanisms for root colonization, such as the production of cell-wall-degrading enzymes, biofilm formation, or the ability to utilize specific root compounds.
 
-The endorhiza is a spatially constrained environment. Root tissue provides limited physical niches, and successful colonizers can exclude competitors through resource depletion, production of antimicrobial compounds, or physical occupation of colonization sites.
+The endorhiza is a spatially constrained environment. Root tissue provides limited physical niches, and successful colonizers can exclude competitors through resource depletion, production of [[antimicrobial-compounds-mushroom-mycelium]], or physical occupation of colonization sites.
 
 ### Plant Immune Selection
 
@@ -87,40 +87,3 @@ Endophytic bacteria must either avoid detection or actively suppress plant defen
 Plants employ pattern-triggered immunity (PTI) that recognizes conserved microbial molecular patterns. Only bacteria that can evade, suppress, or tolerate this immune surveillance can establish stable endophytic populations.
 
 ## Relationship to the Two-Tier Model
-
-The alpha-diversity gradient is consistent with the two-tier selection model.
-
-In the first tier, soil type provides the source community (with varying diversity depending on edaphic factors). In the second tier, the plant host selectively filters this community, reducing diversity to a more uniform level in the endorhiza.
-
-The convergence of endorhiza diversity across different soil types supports the idea that host-plant selection is the dominant force shaping the endorhiza community.
-
-This does not mean that soil type is irrelevant — it determines the composition of the source pool from which the endorhiza is drawn. But the bottleneck effect of plant selection means that the endorhiza diversity is more a function of plant genotype than of soil conditions.
-
-## Implications for Cannabis Agriculture
-
-The relatively low diversity of the Cannabis endorhiza suggests that this compartment may be more amenable to targeted manipulation than the highly diverse soil and rhizosphere communities.
-
-Strategies to promote beneficial endophytes could focus on inoculation approaches that take advantage of the reduced competitive landscape within the root.
-
-The finding that endorhiza diversity converges across soil types suggests that breeding programs could potentially select for Cannabis genotypes that preferentially harbor beneficial endophyte communities, regardless of the growing environment.
-
-This is particularly relevant for Cannabis, where growing conditions vary enormously between indoor, greenhouse, and outdoor operations. If the endorhiza is buffered against soil-type variation, then beneficial endophyte associations identified in one growing environment may be transferable to others.
-
-## Comparison to Observed Species
-
-The observed species metric showed the same gradient pattern as the chao1 estimator, confirming that the diversity differences are robust and not artifacts of the estimation method.
-
-The consistency between these two metrics provides confidence in the reliability of the diversity gradient finding.
-
-Chao1 is a non-parametric estimator that accounts for unseen species, making it particularly useful for undersampled communities. The agreement between chao1 and raw observed species counts suggests that the sequencing depth was sufficient to capture the diversity patterns accurately.
-
-## See Also
-
-- [[rhizosphere-vs-bulk-soil-microbiome]]
-
-- [[two-tier-selection-model-microbiome]]
-- [[cannabis-microbiome-cultivar-specificity]]
-- [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]
-- [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]
-- [[core-endorhiza-bacterial-community-composition-cannabis]]

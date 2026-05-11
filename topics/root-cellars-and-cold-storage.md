@@ -5,6 +5,7 @@ tags: [root-cellars, cold-storage, food-preservation, homesteading, permaculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - /Users/t3rpz/wiki/concepts/root-cellar-design-and-construction.md
   - /Users/t3rpz/wiki/concepts/root-cellaring-and-no-energy-food-storage.md
   - /Users/t3rpz/wiki/concepts/root-cellaring-guide.md

@@ -65,9 +65,9 @@ Campanula pyramidalis is a polycarpic perennial, flowering repeatedly over many 
 
 Flowering occurs from July to September, with individual flowers lasting 3–5 days. The flowers are bee-pollinated, with the long corolla tube favoring longer-tongued species.
 
-Seed production is prolific, with each capsule containing 50–100 seeds. Seeds are dispersed by gravity and wind, often falling into crevices near the parent plant.
+[[cannabis-controlled-pollination-seed-production]] is prolific, with each capsule containing 50–100 seeds. Seeds are dispersed by gravity and wind, often falling into crevices near the parent plant.
 
-The species exhibits a degree of drought tolerance once established, owing to its deep root system. However, seedlings require consistent moisture during their first growing season.
+The species exhibits a degree of [[dighton-fungal-drought-tolerance-plant-water-relations]] once established, owing to its deep root system. However, seedlings require consistent moisture during their first [[extending-growing-season]].
 
 ## Cultivation
 
@@ -75,7 +75,7 @@ Chimney bellflower has a long history of cultivation in European gardens. It is 
 
 - **Soil:** Well-drained, humus-rich loam, pH 7.0–8.0
 - **Light:** Partial shade to full shade; tolerates morning sun
-- **Watering:** Regular during growing season; reduce in winter
+- **Watering:** Regular during [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]; reduce in winter
 - **Hardiness:** USDA zones 5–8
 - **Propagation:** Seed (cold stratification beneficial), basal cuttings in spring
 
@@ -85,27 +85,6 @@ Plants prefer alkaline to neutral soils and benefit from a top-dressing of limes
 
 The cultivar 'Alba' with pure white flowers is the most commonly available named selection. No other cultivars are widely distributed in the horticultural trade.
 
-Plants are relatively pest-free but may be susceptible to slug damage on young growth. Good air circulation around the rosette helps prevent fungal issues in humid conditions.
+Plants are relatively pest-free but may be susceptible to slug damage on young growth. Good [[stamets-growing-room-air-circulation-co2-management]] around the rosette helps prevent fungal issues in humid conditions.
 
 ## Uses and Conservation
-
-Campanula pyramidalis is primarily valued as an ornamental plant for shaded gardens and rockeries. Its tall flower spikes provide strong vertical interest from midsummer onward.
-
-The species has no significant medicinal or culinary uses. However, it was historically associated with various folk beliefs in the Balkans, where bellflowers were symbols of fidelity and gratitude.
-
-In cultivation, it is often used in traditional cottage garden schemes and Mediterranean-style plantings. The species pairs well with hostas, ferns, and other shade-tolerant perennials.
-
-Conservation status is assessed as Least Concern globally, though some isolated populations may be vulnerable to habitat disturbance. Collection from wild populations is discouraged in favor of nursery-propagated material.
-
-## See Also
-
-- [[campanula-persicifolia]]
-- [[campanula-lactiflora]]
-- [[campanula-carpatica]]
-- [[campanula-glomerata]]
-- [[campanula-rotundifolia]]
-- [[campanula-trachelium]]
-- [[phyteuma-spicatum]]
-- [[jasione-montana]]
-- [[primula-auricula]]
-- [[gentiana-lutea]]

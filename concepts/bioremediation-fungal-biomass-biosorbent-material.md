@@ -1,5 +1,5 @@
 ---
-title: "bioremediation fungal biomass biosorbent material as Biosorbent Material for Metal Removal"
+title: Bioremediation Fungal Biomass Biosorbent Material
 created: 2026-04-28
 tags: [bioremediation, heavy-metals, biosorption, wastewater-treatment]
 date: 2026-04-25
@@ -32,7 +32,7 @@ cell interior.
 ## Biosorption Capacity and Performance
 
 Current interest in fungal [[fungal-heavy-metal-biosorption-and-detoxification]] dates from the 1980s, when
-Rhizopus arrhizus was shown to achieve uranium and thorium uptake levels
+[[rhizopus-arrhizus]] was shown to achieve uranium and thorium uptake levels
 exceeding those of commercial ion-exchange resins. Maximum uptake levels
 for cationic metals generally fall in the range of 0.1 to 1.0 mmol
 metal per gram dry weight. The uranyl ion has consistently shown the
@@ -44,7 +44,7 @@ uptake in the 0.1 to 0.5 mmol per gram range.
 Among biomass types, members of the order Mucorales, particularly
 Rhizopus and Mucor species, consistently exhibit the highest biosorption
 levels across a range of metals. Despite their popularity in research,
-yeasts including Saccharomyces cerevisiae and Candida maltosa are not
+yeasts including [[saccharomyces-cerevisiae]] and Candida maltosa are not
 among the best-performing biosorbents.
 
 ## Binding Mechanisms
@@ -52,9 +52,9 @@ among the best-performing biosorbents.
 Fungal cell walls contain numerous potential metal-binding sites
 including chitin, amino, carboxyl, phosphate, and sulfhydryl functional
 groups, which may act individually or synergistically. While chitin and
-chitosan were identified as key binding sites in early studies, carboxyl
+chitosan were identified as key binding sites in [[hofmann-lsd-clinical-research-early-studies]], carboxyl
 and phosphate groups are now recognized as of principal importance.
-X-ray studies of lead binding to Penicillium chrysogenum cell walls
+X-ray studies of lead binding to [[penicillium-chrysogenum]] cell walls
 showed that phosphoryl groups accounted for up to 95 percent of binding,
 with carboxyl groups contributing 5 percent. At low concentrations,
 carboxyl groups were preferentially bound due to their higher affinity
@@ -88,41 +88,3 @@ marked pH dependence, with optimum conditions at low pH where cell wall
 functional groups are protonated and electrostatic attraction occurs.
 Rhizopus arrhizus biosorbed molybdate and vanadate at pH 4.5 but showed
 negligible uptake at pH 5.5. Chromate biosorption is optimal at pH 1 to
-2, and reduction of chromium(VI) to chromium(III) has been reported at
-low pH in the presence of biosorbent material.
-
-## Organic and Organometal Biosorption
-
-Recent developments include biosorption of metal complexes, biocides,
-phenol derivatives, [[fungal-treatment-of-textile-dyes-mechanisms]], and organometallic compounds.
-Triphenyltin and tributyltin compounds showed maximum loadings of 0.5
-to 0.6 mmol per gram dry weight, equivalent to typical cationic metal
-values. The organic character of organometals increases their
-liposolubility and consequently their biosorption levels.
-
-## Biomass Immobilization for Practical Application
-
-Industrial-scale processing requires biomass immobilization to address
-cell fragility and small density differences with water. Three principal
-techniques exist. First, biofilm growth on inert matrices such as coal,
-sand, and foam particles, though stability problems limit this approach.
-Second, entrapment in polymeric gels using natural polymers like
-alginate and carrageenan, which produce porous biosorbents with good
-kinetics, or synthetic polymers like polyacrylamide and polysulfone,
-which offer greater stability. Third, pre-treatment of biomass to
-enhance binding properties. Polyurethane-based protocols retained 70 to
-90 percent binding efficiency, while polyvinyl formal immobilization of
-R. arrhizus caused no loss in copper uptake capacity.
-
-Despite numerous patents and laboratory demonstrations, industrial
-adoption of fungal biosorption remains limited. Current state-of-the-art
-work is research-based rather than application-based, though the
-technology shows considerable promise for [[mollison-designers-wastewater-treatment-wetlands]].
-
-See also: [[staycare-fungal-biosorption-mechanisms-for-heavy-metal-removal]], [[metal-biotransformation-fungi]].
-## See Also
-- [[rhizopus-arrhizus]]
-- [[saccharomyces-cerevisiae]]
-- [[penicillium-chrysogenum]]
-- [[singh-cost-analysis-fungal-bioremediation]]
-- [[bioremediation-fungal-iron-reduction-chelation-metal-solubilization]]

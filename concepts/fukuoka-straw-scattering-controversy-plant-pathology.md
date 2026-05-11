@@ -1,13 +1,13 @@
 ---
-title: "Fukuoka's fukuoka straw scattering controversy plant pathology Controversy"
-aliases: [rice straw debate, [[fukuoka-straw-mulch-fertility-cycle]] pathology, composting straw Hokkaido]
+title: Fukuoka Straw Scattering Controversy Plant Pathology
+aliases: [[fukuoka-rice-straw-mulch-central-technique]] debate, [[fukuoka-straw-mulch-fertility-cycle]] pathology, composting straw Hokkaido]
 tags: [natural-farming, straw-mulch, soil-health, plant-pathology, fukuoka]
 source: masanobu-fukuoka-the-road-back-to-nature.md
 ---
 
 # The Straw Scattering Controversy
 
-One of the most telling episodes in Masanobu Fukuoka's career illustrates
+One of the most telling episodes in [[masanobu-fukuoka]]'s career illustrates
 the enormous resistance that [[comparison-natural-farming-vs-permaculture]] faces from the agricultural
 establishment. The debate over whether rice straw should be returned to
 the fields or burned consumed decades of Fukuoka's life and revealed
@@ -33,7 +33,7 @@ a pitchfork in tiny sheds, and perform what Fukuoka describes as
 ## Fukuoka's Contrary Evidence
 
 Fukuoka, who was himself a plant pathologist by training, attempted to
-isolate the agents of rice blast disease and other infectious pathogens
+isolate the agents of [[fukuoka-textdoc-non-causality-rice-blast-disease]] and other infectious pathogens
 from fallen leaves in his fields. He never succeeded. His reasoning was
 straightforward: if he, who was skilled at isolating pathogens, could
 not find them, the pathogens must be dead. If the pathogens were dead,
@@ -70,8 +70,8 @@ on the field."
 
 ## The Fragmentation Problem
 
-Fukuoka identifies the root cause of this delay as the fragmentation
-of agricultural science into specialized disciplines. There was once a
+Fukuoka identifies the [[fukuoka-pine-rot-root-cause]] of this delay as the fragmentation
+of [[fukuoka-critique-laws-agricultural-science]] into specialized disciplines. There was once a
 time when one individual considered everything — pathology, the plants,
 the soil, and fertilizers. But by Fukuoka's era, research had broken
 into narrow specialties that rarely communicated.
@@ -87,56 +87,3 @@ Government research centers and universities, Fukuoka notes
 disappointedly, do not conduct studies of this sort. They work only
 in the opposite direction — toward greater complexity, more inputs,
 and more interventions.
-
-## The Composting Paradox
-
-The straw debate reveals a deeper paradox at the heart of modern
-agricultural thinking. Farmers were required to perform enormous labor
-— collecting, hauling, turning, and managing compost piles — to
-achieve what nature does automatically when straw is simply left on
-the field surface.
-
-The composting process itself, while producing a useful product,
-represents a net energy loss for the farm. The labor and energy
-expended in [[cultivator-compost-preparation-phase-methods]] far exceeds the benefit compared to
-simply scattering fresh straw and allowing [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] to
-occur in place. Nature's method — surface application and natural
-breakdown — is both simpler and more effective.
-
-## Why the Resistance Persists
-
-Fukuoka attributes the persistence of the burn-the-straw doctrine to
-several factors. First, the agricultural extension system rewarded
-compliance with official recommendations through incentive payments
-and competitions. Second, the fear of disease was emotionally powerful
-and difficult to overcome with evidence alone. Third, the composting
-industry — including equipment manufacturers and input suppliers — had
-an economic interest in maintaining the status quo.
-
-The fundamental issue, however, is philosophical. The agricultural
-establishment cannot accept that doing nothing — simply scattering
-straw — could be superior to active intervention. This would invalidate
-the expertise, the research budgets, and the professional identity of
-an entire class of agricultural specialists.
-
-## Lessons for Natural Farming
-
-The straw controversy demonstrates several principles that recur
-throughout Fukuoka's work:
-
-1. Natural methods are simpler and require less labor but face
-   enormous institutional resistance
-2. Scientific specialization prevents holistic understanding of
-   farming systems
-3. Empirical evidence from practicing farmers is dismissed as
-   "anecdotal" by the research establishment
-4. Economic interests of input suppliers align against methods that
-   require no purchased inputs
-5. Acceptance of obvious truths can take decades when they threaten
-   established professional authority
-
-## See Also
-
-- [[fukuoka-straw-mulch-philosophy]] — Philosophical dimensions
-- [[fukuoka-critique-of-scientific-agriculture]] — Broader critique
-- [[fukuoka-no-tillage-direct-seeding-history]] — Related method

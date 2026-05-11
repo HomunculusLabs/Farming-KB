@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - "Hughes, C.E. (1998). Leucaena: A Genetic Resources Handbook. Oxford Forestry Institute, Oxford University Press."
   - "Shelton, H.M. et al. (2005). \"Leucaena leucocephala — what we know and what we don't know.\" Tropical Grasslands, 39(4), 1-14."
-  - "Brewbaker, J.L. (1987). \"Leucaena: A multipurpose tree genus for tropical agroforestry.\" In: Agroforestry: A Decade of Development, CAB International."
+  - "Brewbaker, J.L. (1987). \"Leucaena: A [[mollison-designers-chestnut-as-multipurpose-tree-crop]] genus for tropical agroforestry.\" In: Agroforestry: A Decade of Development, CAB International."
   - "Lowry, J.B. (1990). \"Toxicity of Leucaena leucocephala: The role of mimosine and its degradation products.\" Tropical Grasslands, 24(2), 95-100."
-  - "National Research Council (1984). Leucaena: Promising Forage and Tree Crop for the Tropics, 2nd ed. National Academies Press."
+  - "National Research Council (1984). Leucaena: Promising Forage and [[mollison-tree-crop-systems-permaculture]] for the Tropics, 2nd ed. National Academies Press."
 ---
 
 # Leucaena leucocephala (*Lead Tree*)
@@ -26,12 +26,12 @@ sources:
 the family Fabaceae, native to [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]] and southern Mexico.
 
 Widely recognized as one of the most versatile multipurpose agroforestry trees
-in the tropics, it provides high-protein forage, fuelwood, timber, green manure,
+in the tropics, it provides high-protein forage, fuelwood, timber, [[coleman-mobile-greenhouse-green-manure-soil-building]],
 and [[permplant-willows-salix-erosion-control-fodder]].
 
-Its rapid growth rate — up to 3 m per year under optimal conditions — and
+Its rapid [[soil-temperature-plant-growth-rate-doubling-rule]] — up to 3 m per year under optimal conditions — and
 ability to fix atmospheric nitrogen make it a cornerstone species in tropical
-permaculture and regenerative agriculture systems.
+permaculture and [[biochar]] systems.
 
 ## Taxonomy
 
@@ -86,63 +86,4 @@ of tropical conditions.
   density and rhizobial effectiveness.
 - **Yield:** Leaf yield 5–15 t DM/ha/year; wood yield 10–30 m³/ha/year.
 - **Pests:** Susceptible to psyllid (*Heteropsylla cubana*) — a major
-  pest causing defoliation since its spread from Central America in the 1980s.
-
-## Agroforestry and Permaculture Applications
-
-Leucaena is used in more agroforestry systems globally than any other single
-tree species.
-
-- ** [[comparison-alley-cropping-vs-silvopasture]]:** Rows intercropped with maize, sorghum, or vegetables
-  provide nitrogen, mulch, and windbreak. Prunings add [[hamilton-composting-and-organic-matter-management]].
-- **Fodder:** Leaves contain 20–30% crude protein; widely fed to cattle,
-  goats, and rabbits. Requires ruminal adaptation to mimosine toxin.
-- **Fuelwood:** High calorific value (4,400–4,800 kcal/kg); coppices
-  vigorously, producing multiple rotations without replanting.
-- **Soil improvement:** Deep taproot breaks compacted layers; leaf litter
-  and nitrogen fixation restore degraded soils. Green manure crops of
-  leucaena can restore fertility in 2–3 years.
-- **Erosion control:** Effective on hillsides and degraded lands due to
-  dense root network and rapid canopy closure.
-- **Living fences:** Fast-growing hedge rows that are stock-proof within
-  12–18 months of planting.
-
-## Toxicity
-
-⚠️ Leucaena contains **mimosine** (2-([amino(imino)methyl]amino)-3-(3-hydroxy-4-oxo-4H-pyridin-1-yl)propanoic acid), a toxic non-protein amino acid found in leaves, seeds, and young shoots.
-
-- **Ruminants:** Cattle and goats with adapted rumen flora (synergist
-  *Synergistes jonesii*) can detoxify mimosine to 3,4-DHP and further
-  to non-toxic metabolites. Unadapted animals suffer hair loss, goiter,
-  reproductive failure, and weight loss.
-- **Monogastrics:** Pigs, poultry, and horses are highly susceptible and
-  should not be fed leucaena without processing (ensiling reduces mimosine
-  by 50–80%).
-- **Humans:** Seeds are consumed as a vegetable in some Southeast Asian
-  cuisines after thorough boiling; raw consumption causes toxicity.
-
-## Invasive Potential
-
-Leucaena is classified as invasive in many tropical regions outside its native
-range, including Australia, parts of Africa, Pacific Islands, and Southeast
-Asia. Its prolific seed production (up to 15,000 seeds/tree/year), hard seed
-coat longevity (10+ years in soil), and rapid growth allow it to outcompete
-native vegetation. Management requires vigilant monitoring in non-native ranges.
-
-## Similar Species
-
-- ***Leucaena diversifolia*** — Higher altitude tolerance, lower mimosine,
-  used in cold-tolerant forage breeding.
-- ***Leucaena collinsii*** — Lower mimosine content, native to Mexico,
-  used in hybrid breeding programs.
-- ***Gliricidia sepium*** — Comparable agroforestry legume, non-toxic forage,
-  less invasive tendency.
-## See Also
-
-- gliricidia-sepium — Madre de cacao, complementary agroforestry legume
-- [[azadirachta-indica]] — Neem, another tropical permaculture tree
-- [[opuntia-ficus-indica]] — Prickly pear cactus, complementary arid-zone fodder
-- glycine max — Soybean, another major nitrogen-fixing crop
-- [[alley-cropping]]
-- [[green-manure-crops]]
-- [[regenerative-agriculture]]
+  pest causing defoliation since its spread from [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] in the 1980s.

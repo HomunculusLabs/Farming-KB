@@ -87,13 +87,3 @@ water every morning for three or four days before taking cuttings also helps.
 - Ignoring EC/TDS readings during the flush period
 
 ## Flushing and Dolomite Lime
-
-When planting in soil or soilless mixes, incorporating dolomite lime at planting time
-provides a pH buffer that helps prevent the salt buildup that necessitates frequent
-flushing. One cup of fine dolomite lime per cubic foot of planting medium stabilizes
-pH and provides a slow-release source of calcium and magnesium. This single amendment
-at planting time prevents many pH-related problems throughout the grow. See
-[[harvest-window-cannabis]] -- timing the pre-harvest flush
-- [[ph-management-cannabis]] -- pH correction during flushing
-- [[cannabis-cloning]] -- flushing before taking cuttings
-- [[cal-mag-supplementation]] -- dolomite lime as a pH buffer

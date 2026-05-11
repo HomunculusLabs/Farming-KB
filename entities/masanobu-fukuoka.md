@@ -71,3 +71,18 @@ Directly influenced [[bill-mollison]] and [[david-holmgren]] in the development 
 - [[cover-cropping-guide]] — Cover crops as living mulch
 - [[food-forest-design]] — Food forest systems
 - [[regenerative-agriculture-history]] — Broader regenerative movement
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[clay-pellet-seed-ball-method-for-desert-revegetation]]
+- [[fukuoka-natural-farming-philosophy-road-back-to-nature]]
+- [[query-how-do-clay-seed-balls-work-for-natural-farming]]
+- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]

@@ -21,15 +21,15 @@ sources:
 
 Cladonia squamosa, commonly known as the mealy cup lichen or the squamose cladonia, is a lichen in the family Cladoniaceae. It is characterized by a well-developed squamulose primary thallus that may or may not produce podetia.
 
-The species is widely distributed across boreal and temperate regions of the Northern Hemisphere. It grows on soil, moss, rotting wood, and tree bases in a variety of open and forested habitats.
+The species is widely distributed across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It grows on soil, moss, rotting wood, and tree bases in a variety of open and forested habitats.
 
-Cladonia squamosa is notable for its chemical polymorphism, containing either squamatic acid or usnic acid as its primary secondary metabolite. This variation has taxonomic and ecological implications.
+Cladonia squamosa is notable for its chemical polymorphism, containing either squamatic acid or usnic acid as its primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. This variation has taxonomic and ecological implications.
 
 ## Taxonomy and Morphology
 
 Cladonia squamosa was described by Franz Hoffmann in 1796. The accepted authority is Cladonia squamosa (Scop.) Hoffm., with the basionym Lichen squamosus published by Giovanni Antonio Scopoli.
 
-The species belongs to Cladonia section Cladonia, within the Cladonia chlorophaea species complex. Molecular phylogenetic analyses have revealed significant genetic diversity within populations currently assigned to this name.
+The species belongs to Cladonia section Cladonia, within the [[cladonia-chlorophaea]] species complex. Molecular phylogenetic analyses have revealed significant genetic diversity within populations currently assigned to this name.
 
 Some researchers have suggested that Cladonia squamosa may represent a species complex rather than a single taxon. Additional molecular work is needed to resolve species boundaries within this group.
 
@@ -63,13 +63,13 @@ Cladonia squamosa is an important component of terricolous lichen communities in
 
 The species is moderately shade-tolerant, occurring in both open heathlands and coniferous forests. This ecological flexibility allows it to persist across a range of light conditions.
 
-Reindeer and caribou occasionally include Cladonia squamosa in their winter diet. However, it is less palatable than the primary reindeer lichens in the Cladonia rangiferina group.
+Reindeer and caribou occasionally include Cladonia squamosa in their winter diet. However, it is less palatable than the primary reindeer lichens in the [[cladonia-rangiferina]] group.
 
-The lichen supports diverse communities of microarthropods including oribatid mites and collembola. These invertebrates contribute to decomposition and nutrient cycling within lichen mats.
+The lichen supports diverse communities of microarthropods including oribatid mites and collembola. These invertebrates contribute to decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] within lichen mats.
 
 Cladonia squamosa is moderately sensitive to air pollution, particularly nitrogen deposition. Increased nitrogen availability favors vascular plant competitors, reducing lichen cover over time.
 
-The mealy coating on the squamule surface may help deter herbivory and reduce water loss. This farinose layer consists primarily of fungal hyphae and crystalline secondary metabolites.
+The mealy coating on the squamule surface may help deter herbivory and reduce water loss. This farinose layer consists primarily of fungal hyphae and crystalline [[antifungal-secondary-metabolites-coprophilous-fungi]].
 
 Growth rates are slow, with individual thalli persisting for decades in undisturbed habitats. Vegetative reproduction through squamule fragmentation is the primary mode of local dispersal.
 
@@ -88,26 +88,3 @@ Thin-layer chromatography is required for reliable chemical identification. The 
 The squamatic acid chemotype may have different ecological tolerances than the usnic acid chemotype. Some studies suggest the squamatic acid race is more tolerant of shaded conditions.
 
 Squamatic acid has demonstrated weak antibiotic activity in laboratory bioassays. These properties may provide some protection against bacterial colonization of the thallus surface.
-
-## Similar Species
-
-Cladonia carneola is morphologically similar but has pinkish apothecia and typically contains thamnolic acid. It also prefers more calcareous substrates.
-
-Cladonia coniocraea produces well-developed podetia with powdery soredia on the surface. Its primary thallus is less conspicuous than that of Cladonia squamosa.
-
-Cladonia chlorophaea has smaller, less conspicuous squamules and typically contains fumarprotocetraric acid alongside atranorin. Its podetia are generally taller and more branched.
-
-Cladonia deformis has narrower podetia and a less mealy thallus surface. It typically grows on more exposed, sandy substrates rather than peaty soils.
-
-## See Also
-
-- [[cladonia-rangiferina]]
-- [[cladonia-stellaris]]
-- [[cladonia-arbuscula]]
-- [[cladonia-furcata]]
-- [[cladonia-chlorophaea]]
-- [[cladonia-pyxidata]]
-- [[cladonia-uncialis]]
-- [[cladonia-gracilis]]
-- [[pleurozium-schreberi]]
-- [[sphagnum-palustre]]

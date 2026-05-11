@@ -25,7 +25,7 @@ sources:
 Antirrhinum majus, commonly known as the common snapdragon, is a herbaceous
 perennial plant in the family Plantaginaceae. Native to the Mediterranean
 region, it has been cultivated for centuries as an ornamental and serves as a
-major model organism in plant developmental biology. The distinctive bilabiate
+major [[canary-grass-phototropism-model-organism]] in plant developmental biology. The distinctive bilabiate
 flowers, which open and close like jaws when squeezed, have made it one of the
 most recognizable garden flowers.
 
@@ -47,7 +47,7 @@ spire-forms for cut flower production.
 - **Species:** A. majus
 
 The genus Antirrhinum comprises approximately 20–25 species distributed across
-the Mediterranean basin and western North America. The specific epithet majus
+the Mediterranean basin and western [[guzman-psilocybin-mushrooms-north-america]]. The specific epithet majus
 means "greater," distinguishing it from smaller-flowered relatives. The common
 name derives from the Greek anti (like) and rhin (nose or snout), describing
 the flower's resemblance to an animal's mouth.
@@ -88,63 +88,5 @@ are typically magenta-pink with a yellow palate marked by darker nectar guides.
 
 ### Fruit and Seed
 
-Fruits are ovoid capsules 10–14 mm long containing numerous small, angular
-seeds 0.5–1 mm in diameter. Each capsule produces 200–500 seeds. Seeds are
-dark brown to black and germinate in 10–14 days at 18–21°C. Seed viability
-persists for 3–5 years under cool, dry storage.
-
-## Distribution and Habitat
-
-Antirrhinum majus is native to the western Mediterranean, occurring in Spain,
-Portugal, southern France, Italy, and North Africa. It grows naturally on rocky
-cliffs, old walls, rocky slopes, and in scrubland at elevations from sea level
-to approximately 1,500 meters.
-
-The species has been widely introduced and naturalized in temperate regions
-worldwide. Naturalized populations occur throughout western and central Europe,
-the British Isles, parts of eastern North America, and Australasia. It
-prefers well-drained, calcareous or neutral soils in full sun to partial shade.
-
-## Ecology
-
-Antirrhinum majus is pollinated almost exclusively by bumblebees (Bombus spp.),
-which are heavy enough to depress the lower lip and trigger the flower-opening
-mechanism. The flower morphology represents a classic example of coevolution
-with large bees. Honeybees are generally too light to open the flowers
-effectively and act as nectar robbers, piercing the corolla tube from outside.
-
-The nectar is relatively dilute (15–25% sugar concentration) and produced in
-moderate quantities. Flower color variation influences pollinator preference,
-with bumblebees showing stronger attraction to red and pink morphs than to
-white or yellow. The nectar guides on the palate enhance foraging efficiency.
-
-Major pests include aphids (Myzus persicae, Aphis fabae), spider mites
-(Tetranychus urticae), and thrips (Frankliniella spp.). The primary disease
-threat is downy mildew (Peronospora antirrhini), which can devastate
-commercial crops in humid conditions. Rust (Puccinia antirrhini) and Botrytis
-gray mold are also significant.
-
-## Cultivation and History
-
-Antirrhinum majus has been cultivated in European gardens since at least the
-15th century. Intensive breeding from the mid-19th century onward produced the
-diverse cultivar spectrum available today. It is propagated primarily from seed,
-sown indoors 8–10 weeks before the last frost, and transplanted outdoors after
-hardening off.
-
-The species prefers cool conditions (15–18°C optimal) and is often grown as a
-spring or autumn crop in warm climates. Pinching back young plants promotes
-branching and flower production. As a cut flower, snapdragons have a vase life
-of 7–14 days and rank among the top ten commercially produced cut flowers in
-several markets.
-
 ## See Also
-
-- [[digitalis-purpurea]] — Foxglove, another Lamiales ornamental with bilabiate flowers
-- [[verbascum-thapsus]] — Common mullein, related Lamiales species in former Scrophulariaceae
-- [[penstemon-digitalis]] — Foxglove beardtongue, New World Lamiales ornamental
-- [[euphrasia-officinalis]] — Eyebright, hemiparasitic Antirrhineae relative
-- [[pedicularis-groenlandica]] — Elephant's head, another Lamiales species with bilabiate flowers
-- [[buddleja-davidii]] — Butterfly bush, co-family Plantaginaceae ornamental
-- [[datura-stramonium]] — Jimsonweed, another model organism plant with zygomorphic flowers
-- [[salvia-officinalis]] — Common sage, co-family Plantaginaceae with medicinal properties
+- [[chelidonium-majus]]

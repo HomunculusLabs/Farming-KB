@@ -1,5 +1,5 @@
 ---
-title: "clarke marijuana botany cannabis taxonomy and genetics and Genetics: Clarke's Marijuana Botany"
+title: Clarke Marijuana Botany Cannabis Taxonomy And Genetics
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -10,11 +10,11 @@ tags: [cannabis]
 
 # Cannabis Taxonomy and Genetics: Clarke's Marijuana Botany
 
-Robert Connell Clarke's "Marijuana Botany: An Advanced Study" (1981) provides a comprehensive scientific framework for understanding [[vic-high-cannabis-genetics-mendelian-inheritance]], from basic Mendelian inheritance to advanced [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]. The work emphasizes the urgent need to preserve genetic diversity in the face of eradication programs, commercial hybridization, and plant patenting.
+Robert Connell Clarke's "Marijuana Botany: An Advanced Study" (1981) provides a comprehensive scientific framework for understanding [[vic-high-cannabis-genetics-mendelian-inheritance]], from basic [[cannabis-chromosomes-and-mendelian-inheritance]] to advanced [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]]. The work emphasizes the urgent need to preserve [[biodiversity-fungal-genetic-diversity]] in the face of eradication programs, commercial hybridization, and plant patenting.
 
 ## Genetic Fundamentals
 
-Cannabis has a **diploid chromosome number of 2n = 20** (haploid n = 10), with each chromosome containing hundreds of genes influencing every phase of growth and development. All genetic information transmitted between generations is contained in the pollen (staminate parent) and ovule (pistillate parent). Upon fertilization, one haploid set from each parent combines to form a diploid seed.
+Cannabis has a **diploid chromosome number of 2n = 20** (haploid n = 10), with each chromosome containing hundreds of genes influencing every phase of [[cytokinin-plant-growth-and-development]]. All genetic information transmitted between generations is contained in the pollen (staminate parent) and ovule (pistillate parent). Upon fertilization, one haploid set from each parent combines to form a diploid seed.
 
 **Key genetic concepts from Clarke:**
 
@@ -77,7 +77,7 @@ Clarke advocates immediate action: collecting and cataloguing seeds from reliabl
 
 Clarke devotes significant attention to the challenge of **acclimatizing** high-THC strains of equatorial origin to non-tropical climates:
 
-- Late-maturing, slow, and irregularly flowering strains (e.g., from Thailand) have difficulty maturing in many parts of North America
+- Late-maturing, slow, and irregularly flowering strains (e.g., from Thailand) have difficulty maturing in many parts [[berry-growing]]
 - Even in a greenhouse, it may not be possible to mature plants to their full native potential
 - A breeder may hybridize to combine early maturation with high THC content, but this risks losing unique imported genetics
 - Alternatively, a pure cross between individuals of the same strain that bloom earliest can preserve genetics while adapting to local conditions
@@ -87,32 +87,4 @@ Clarke warns that crosses made without a clear goal lead to strains that acclima
 
 ## Early Seedling Selection
 
-Clarke describes practical breeding techniques for selecting desirable traits at the earliest possible stage:
-
-- Seedling plants take up far less space than adults -- a flat of sprouts occupies the same space as sixteen 30-cm seedlings or one 60-cm juvenile
-- As many as 10,000 sprouts can be screened in the space required by each mature plant
-- Seeds of rare strains are valuable, but careful selection applied to thousands of individuals from common strains may produce better offspring than plants from a rare strain with little opportunity for selection
-- Random pollinations producing most imported marijuana seeds assure hybrid condition, creating great seedling diversity
-- Early traits like tall/thin growth may predict good fiber production parents, while short internode length and compound branching may suit flower production
-
-## Breeding Strategies Summary
-
-Clarke outlines four fundamental breeding approaches:
-
-1. **Hybridization**: Crossing two varieties with outstanding qualities
-2. **Differentiation**: Inbreeding F1 offspring (selfing or sibling crosses) to realize the full range of the original cross, allowing [[cervantes-dominance-recessive-traits-alleles]] to express
-3. **Back-crossing**: Crossing offspring with original parents to reinforce parental characteristics
-4. **Recombination**: Crossing two similar true-breeding varieties to preserve mutual traits and restore vigor lost through inbreeding
-
-The ultimate goal is producing hybrid strains that breed true for all desired characteristics while maintaining sufficient genetic diversity for long-term survival.
-
-## See Also
-
-- [[root-cellaring-guide]]
-- [[clarke-marijuana-botany-genetics-breeding]]
-- [[cannabis-backcrossing-breeding]]
-- [[cannabis-hybridization]]
-- [[cannabis-breeding-fundamentals]]
-- [[cannabis-chemotype-classification-cannabinoid-breeding]]
-- [[cannabis-seed-storage-and-viability]]
-- [[cannabis-plant-anatomy]]
+Clarke describes practical [[cannabis-strain-breeding-techniques]] for selecting desirable traits at the earliest possible stage:

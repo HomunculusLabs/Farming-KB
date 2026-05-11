@@ -88,16 +88,3 @@ This formula has been extensively studied in modern cardiology. [[mushroom-cance
 ## Related Species
 
 The genus Ophiopogon contains approximately 65 species distributed across East and [[psilocybe-southeast-asia-pacific]]. Several species are used medicinally in their respective regions.
-
-O. jaburan, a closely related species from Japan, is used interchangeably with O. japonicus in some preparations. It is more commonly cultivated as an ornamental due to its broader leaves and greater shade tolerance.
-
-O. bodinieri, native to southwestern China, produces tubers with a similar saponin profile. It is collected from the wild in Yunnan and Guizhou provinces as a substitute for *mai men dong*.
-
-## See Also
-
-- [[panax-ginseng]]
-- [[schisandra-chinensis]]
-- [[angelica-sinensis]]
-- [[codonopsis-pilosula]]
-- [[chrysanthemum-morifolium]]
-- tremella fuciformis

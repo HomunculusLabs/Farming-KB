@@ -10,13 +10,13 @@ sources:
 
 Updated: 2026-04-18
 
-Source: The Cannabis Grow Bible, Greg Green (Ch. 3, 4, 5)
+Source: The [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]], Greg Green (Ch. 3, 4, 5)
 
 The seedling stage spans from when the plant first emerges from the soil until it has 3–5 sets of true leaves (roughly weeks 2–3 of life). Seedlings are delicate and require specific conditions to thrive.
 
 ## Identifying True Leaves vs Cotyledons
 
-When a cannabis seedling first emerges, it has two small rounded leaves called **cotyledons** (or seed leaves). These are embryonic leaves that provide initial energy through photosynthesis. They will eventually yellow and fall off.
+When a [[green-cannabis-seedling-care]] first emerges, it has two small rounded leaves called **cotyledons** (or seed leaves). These are embryonic leaves that provide initial energy through photosynthesis. They will eventually yellow and fall off.
 
 **True leaves** are the pointed, serrated leaves that grow after the cotyledons. They have the characteristic cannabis shape and indicate the plant has begun proper [[cannabis-vegetative-growth-stage]].
 
@@ -41,7 +41,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 ### Humidity
 
 - **Optimal**: 60–80%
-- **Low humidity**: Seedlings lose moisture faster than their small root systems can absorb, causing wilting and slow growth
+- **[[pf-tek-low-humidity-symptoms-and-remediation]]**: Seedlings lose moisture faster than their small root systems can absorb, causing wilting and slow growth
 - **High humidity dome**: Keep seedlings under a humidity dome for the first 1–2 weeks. Gradually open vents to acclimate before removing.
 - **Misting**: Light misting of the dome and surrounding area helps maintain humidity
 
@@ -49,7 +49,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 
 - **Gentle only**: Avoid direct fans on seedlings — they are too fragile
 - **Stem strengthening**: After 2–3 weeks, introduce gentle air movement to strengthen stems
-- **Exhaust**: Ensure the grow area has some air exchange to prevent mold and stale air
+- **Exhaust**: Ensure the grow area has some [[growing-gourmet-growing-room-ventilation-air-exchange]] to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] stale air
 
 ## Watering Seedlings
 
@@ -75,7 +75,7 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 **Cause**: [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that attacks the stem at the soil line, causing the seedling to fall over and die
 
 **Prevention**:
-- Use sterile growing medium
+- Use sterile [[cervantes-green-algae-growing-medium]]
 - Do not overwater — keep moist, not soaked
 - Ensure good air circulation
 - Avoid splashing water on the stem
@@ -88,34 +88,3 @@ When a cannabis seedling first emerges, it has two small rounded leaves called *
 **Cause**: Feeding nutrients too early or in too-high concentration
 
 **Symptoms**: Leaf tips turn yellow or brown, curling, scorched appearance on new growth
-
-**Fix**:
-- Flush with plain pH-adjusted water
-- Do not feed again until the plant has 4–5 sets of true leaves
-- Start nutrients at 1/4 strength minimum
-
-### Yellowing Cotyledons
-
-This is **normal** after the first 2–3 sets of true leaves appear. The cotyledons have served their purpose and are being reabsorbed by the plant.
-
-### Purple Stems
-
-Can be caused by:
-- **Cold temperatures**: The most common cause. Not harmful if other growth is normal.
-- **Genetics**: Some strains naturally have purple stems
-- **[[query-how-to-fix-phosphorus-deficiency-in-cannabis]]**: Less common in seedlings, usually indicates pH problems
-- Generally not a concern unless accompanied by other symptoms
-
-## When to Transplant Seedlings
-
-Transplant from starter containers (rockwool cubes, small cups) when:
-- Roots are visible growing out of the bottom of the container
-- The seedling has 4–6 true leaves
-- The plant is visibly too large for its container
-- Growth rate has slowed
-
-See [[cannabis-germination-techniques]] — germination methods
-- [[cannabis-vegetative-stage]] — transitioning to vegetative growth
-- [[cannabis-indoor-soil-mix-and-preparation]] — soil mixes
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[cannabis-soil-and-nutrient-requirements]]

@@ -88,10 +88,3 @@ when bruised or damaged is associated with the oxidation of psilocin
 and related phenolic compounds. However, bluing is not a reliable
 indicator of psychoactive content, as some non-neurotropic species also
 blue and some confirmed neurotropic species do not. Psilocybe
-singeriana and P. chuxiongensis are notable examples of confirmed
-neurotropic species that do not exhibit blueing.
-
-## See Also
-
-- [[ergot-fungi-claviceps-ergot-alkaloids]]
-- [[psilocybe-genus-diversity-and-taxonomy]]

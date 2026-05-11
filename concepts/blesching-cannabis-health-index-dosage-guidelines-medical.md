@@ -1,5 +1,5 @@
 ---
-title: blesching cannabis health index dosage guidelines medical for Medical Cannabis (Blesching, blesching-cannabis-health-index-autoimmune-conditions)
+title: Blesching Cannabis Health Index Dosage Guidelines Medical
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,7 +10,7 @@ tags: [cannabis, dosage]
 
 # Dosage Guidelines for Medical Cannabis
 
-Comprehensive dosage and administration guidance from Blesching's "The Cannabis Health Index" (2015), covering the [[cannabis-subjective-therapeutic-window-dosing]] window, methods of administration, dose titration, and safety considerations.
+Comprehensive dosage and administration guidance from Blesching's "The Cannabis Health Index" (2015), covering the [[cannabis-subjective-therapeutic-window-dosing]] window, [[cannabis-health-methods-of-administration]], dose titration, [[ayahuasca-tourism-practitioners-and-safety-considerations]].
 
 ## The Subjective Therapeutic Window
 
@@ -33,7 +33,7 @@ The most important concept in Blesching's dosage framework. The vast majority of
 5. Wait another 5-10 minutes
 6. Continue until the "sweet spot" is found, then STOP
 7. The line between effective dose and adverse effect is very thin
-8. If adverse effects occur, wait a full day and restart at a lower dosage
+8. If [[adverse-effects-and-harm-reduction-psilocybin]] occur, wait a full day and restart at a lower dosage
 
 ### Ingestion (edibles, oils, tinctures)
 1. Use an exact, measured amount, preferably on an empty stomach
@@ -56,7 +56,7 @@ The most important concept in Blesching's dosage framework. The vast majority of
 - Fastest onset: minutes to seconds
 - Shortest duration of effects
 - Vaporizers heat plant material to evaporate cannabinoids below the burning point, avoiding smoke inhalation
-- Temperature control allows selective cannabinoid/terpene extraction
+- [[hamilton-greenhouse-heating-and-temperature-control]] allows selective cannabinoid/terpene extraction
 
 ### Ingestion (Oral)
 - Delayed onset: 45 minutes to 1.5 hours
@@ -87,41 +87,3 @@ The most important concept in Blesching's dosage framework. The vast majority of
 - A 70 kg person would need ~14 kg of herb to approach fatal dose
 - A 2004 study estimated 628 kg would need to be smoked in 15 minutes for lethal effect
 - "Unlike many of the drugs we prescribe every day, marijuana has never been proven to cause a fatal overdose" -- Joycelyn Elders, MD, former U.S. Surgeon General
-
-### Adverse Effects
-Common: increased appetite, reduced attention span, red sclera, dry mouth, decreased cognitive/motor skills. At higher doses: ataxia, aphasia, unusual perceptions, anxiety, slight heart rate increase, panic (first use only).
-
-### Dependency
-If dependency occurs, it is psychological rather than physical (unlike tobacco, alcohol, heroin). Risk can be reduced by infusing mindfulness into the healing process and/or using raw (non-psychoactive) preparations.
-
-### Drug Interactions
-Cannabis use leads to a decrease in use of alcohol, tobacco, and hard drugs (study of 4,000+ cannabis smokers). Between 1997-2005, zero deaths from exclusive cannabis use vs 10,008 deaths from 17 comparable FDA-approved pharmaceuticals.
-
-## Dose-Dependent Evidence
-
-A San Diego study (2009) demonstrated critical dose dependency in pain reduction using three THC concentrations (2%, 4%, 8%): the medium dose significantly decreased pain at 45 minutes, while the high dose significantly increased pain. This underscores that more is not better.
-
-## Related
-
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]
-- [[blesching-cannabis-health-index-mental-health-applications]]
-- blesching cannabis health index dosage guidelines medical
-- [[teaming-with-microbes-plant-control]]
-- [[cannabis-skin-conditions]]
-
-## See Also
-
-- [[blesching-cannabis-pain-advanced-cancer]]
-- [[blesching-cannabis-aids-related-neuropathy]]
-- [[blesching-cannabis-systemic-sclerosis]]
-- [[blesching-cannabis-appetite-regulation-ghrelin-leptin]]
-- [[blesching-cannabis-migraine]]
-- [[blesching-cannabis-stds-mind-body]]
-- [[blesching-cannabis-chronic-non-malignant-pain]]
-- [[blesching-cannabis-brain-cancer-glioblastoma]]
-- [[blesching-cannabis-encephalitis]]
-- [[blesching-cannabis-kaposi-sarcoma]]
-- [[blesching-cannabis-motion-sickness]]
-- [[blesching-cannabis-pancreatic-cancer]]
-- [[blesching-cannabis-spinal-cord-injuries]]

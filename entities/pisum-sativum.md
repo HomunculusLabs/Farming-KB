@@ -38,7 +38,7 @@ created: 2026-04-28
 
 It is one of the oldest domesticated crops, with archaeological evidence of cultivation dating to 7000–6000 BCE in the Fertile Crescent.
 
-Peas are valued in permaculture and sustainable agriculture for their nitrogen-fixing symbiosis with rhizobia, their role as a cool-season cover crop, and their high nutritional density.
+Peas are valued in permaculture and [[phosphate-accumulators-sustainable-agriculture]] for their nitrogen-fixing symbiosis with rhizobia, their role as a cool-season cover crop, and their high nutritional density.
 
 The species encompasses both garden peas (harvested for fresh seeds) and field peas (harvested dry for grain or forage), with numerous cultivars adapted to diverse climates.
 
@@ -66,15 +66,15 @@ Wild P. sativum subsp. elatius is native to the Mediterranean region, from Turke
 
 Domesticated forms are cultivated worldwide in temperate and subtropical regions between latitudes 50°N and 40°S.
 
-The species thrives in cool, moist climates with [[savory-growing-season-and-non-growing-season-management]] temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and seed quality.
+The species thrives in cool, moist climates with [[savory-growing-season-and-non-growing-season-management]] temperatures of 10–25°C; high temperatures (>30°C) severely reduce pod set and [[seed-quality-and-selection-solomon]].
 
-Optimal soil pH is 6.0–7.5, with moderate fertility; excessive nitrogen fertilizer suppresses nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+Optimal soil pH is 6.0–7.5, with moderate fertility; excessive [[jadam-natural-nitrogen-fertilizer]] suppresses nodulation and [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
 
-Annual global production exceeds 20 million tonnes, with China, Russia, India, and the United States as leading producers.
+Annual global production exceeds 20 million tonnes, with China, Russia, India, and the [[dmt-containing-plants-united-states-halpern]] as leading producers.
 
 ## Cultivation
 
-Peas are typically direct-seeded in early spring (temperate regions) or as a winter crop (Mediterranean and subtropical zones).
+Peas are typically direct-seeded in early spring ([[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]) or as a winter crop (Mediterranean and subtropical zones).
 
 Seeding rate is 80–120 kg/ha for grain peas and 150–200 kg/ha for forage peas, at depths of 3–8 cm depending on soil texture.
 
@@ -84,37 +84,6 @@ Harvest occurs 60–100 days after sowing, depending on cultivar type (garden vs
 
 In permaculture systems, peas are intercropped with cereals (pea-oat, pea-barley mixtures) to improve total land productivity by 15–30% over sole cropping.
 
-Crop rotation with cereals reduces disease pressure and maximizes the residual nitrogen benefit for subsequent crops.
+[[coleman-mobile-greenhouse-crop-rotation-design]] with cereals reduces disease pressure and maximizes the residual nitrogen benefit for subsequent crops.
 
 ## Ecological Role
-
-As a legume, P. sativum contributes [[biological-nitrogen-fixation-agriculture]] to agroecosystems through rhizobial symbiosis, reducing dependence on synthetic nitrogen fertilizers.
-
-The species serves as an effective cool-season cover crop, providing soil protection, weed suppression, and [[hamilton-composting-and-organic-matter-management]] addition when incorporated as green manure.
-
-Pea straw residue decomposes rapidly, releasing nitrogen and improving soil structure for following crops in rotation.
-
-Flowers attract pollinators including bees and syrphid flies, supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations in diversified farming systems.
-
-The species is a host for several pest species including pea aphid (Acyrthosiphon pisum) and pea weevil (Sitona lineatus), but also supports predatory insects that regulate pest populations.
-
-## Nutritional Value
-
-Dry peas contain approximately 20–25% protein, 55–65% carbohydrate, 1–2% fat, and 15–20% dietary fiber per 100 g dry weight.
-
-They are rich in B vitamins (folate, thiamine, B6), minerals (iron, zinc, magnesium, potassium), and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including lutein and polyphenols.
-
-The protein quality is enhanced by complementarity with cereal proteins, making pea-cereal combinations nutritionally complete.
-
-Pea protein isolate (80–90% protein) has become commercially significant as a plant-based alternative to soy protein in food manufacturing.
-
-## See Also
-
-- [[trifolium-pratense]]
-- [[glycine-max]]
-- Cicer arietinum
-- Lens culinaris
-- Arachis hypogaea
-- Phaseolus vulgaris
-- [[fagopyrum-esculentum]]
-- Hordeum vulgare

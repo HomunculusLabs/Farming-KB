@@ -22,7 +22,7 @@ Exposure to live steam at 140°F throughout the substrate for 2 hours. This kill
 
 ### 2. Conditioning
 
-After pasteurization, the compost is held at specific temperatures to allow beneficial microorganisms to consume residual ammonia. This is the more complex and critical phase.
+After pasteurization, the compost is held at specific temperatures to allow [[forest-and-bamboo-beneficial-microorganisms]] to consume residual ammonia. This is the more complex and critical phase.
 
 ## Microbial Temperature Ranges During Conditioning
 
@@ -32,7 +32,7 @@ After pasteurization, the compost is held at specific temperatures to allow bene
 | Actinomycetes | 115-140 | 125-132 | Primary ammonia consumers; humification |
 | Fungi | 110-130 | 118-122 | Cellulose/[[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]] |
 
-The ammonia removal process is driven primarily by actinomycetes thriving at 125-132°F. These filamentous bacteria (Firefang) are the major microorganism selected during Phase II. When finished compost is spawned, Actinomyces are consumed by the mushroom mycelium.
+The ammonia removal process is driven primarily by actinomycetes thriving at 125-132°F. These filamentous bacteria (Firefang) are the major microorganism selected during Phase II. When finished compost is spawned, Actinomyces are consumed by the [[antimicrobial-compounds-mushroom-mycelium]].
 
 ## Ammonia Testing
 
@@ -83,15 +83,7 @@ Though not a contaminant, Actinomycetes are important to understand:
 - Grayish to whitish speckled colonies on compost
 - Can cause spontaneous combustion in wet compacted straw
 - Workers should wear filter masks when spawning (allergic reactions to spores)
-- Prokaryotic, inhibited by bacterial antibiotics, unaffected by fungal antibiotics
+- Prokaryotic, inhibited by bacterial antibiotics, unaffected by [[bloomfield-fungal-antibiotics-and-soil-nitrogen-ecology]]
 - Produce actinomycin, a potent antibiotic compound
 
 ## Related
-
-- [[composting-systems]] for composting infrastructure and raw materials
-- [[mushroom-contaminant-identification-key]] for Actinomycetes details
-- stamets-phase-ii-composting — Author-specific treatment of the same topic
-- fungal-chromogens-and-color-change
-- [[decomposition]]
-- [[lignin-degradation]]
-- [[fungal-antibiotics]]

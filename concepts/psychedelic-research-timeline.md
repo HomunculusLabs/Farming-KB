@@ -4,26 +4,29 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources: []
+sources:
+  - "raw/papers/shroom-a-cultural-history-of-the-magic-mushroom.md"
 ---
 
 # Psychedelic Research Timeline
 
-## Overvi [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] y of psychedelic [[psychedelic-research-legal-history-united-states]] research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppressi [[disenchantment-and-modern-craving-for-fungal-enchantment]] dern renaissance. This timeline traces the key milestones that have shaped our understanding o [[psychedelic-substances-comparison]] e [[fungi-and-their-allies-classification]] i [[metzner-ayahuasca-therapeutic-potential]] al.
+## Overview
 
-## 1930s-194[[lsd-discovery-and-history]] and Early Exploration
+The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their [[metzner-ayahuasca-therapeutic-potential]].
+
+## 1930s-1940s: Discovery and Early Exploration
 
 ### 1938 — LSD Synthesis
 
-Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes lysergic acid diethylamide (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
+Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first synthesizes [[lsd-d-lysergic-acid-diethylamide]] (LSD-25) while researching ergot alkaloids as circulatory and respiratory stimulants. The compound is set aside as unremarkable.
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
-On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic [[psychedelic-research-legal-history-united-states]] communities.
+On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic communities.
 
 ### 1947 — LSD Introduced to Researchers
 
-Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research [[psychedelic-research-legal-history-united-states]] focuses on its use as a model psychosis and as an adjunct to psychoanalysis.
+Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research focuses on its use as a model psychosis and as an adjunct to psychoanalysis.
 
 ### 1949 — Mescaline Research Expands
 
@@ -41,7 +44,7 @@ British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyc
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
+Albert Hofmann isolates [[hplc-analysis-of-psilocybin-and-psilocin]] from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -54,7 +57,7 @@ Over 1,000 clinical papers are published, and approximately 40,000 patients rece
 
 ### 1960 — Timothy Leary Begins Harvard Psilocybin Research
 
-Timothy Leary and Richard Alpert establish the Harvard Psilocybin Project. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
+Timothy Leary and Richard Alpert establish the [[leary-harvard-psilocybin-project]]. Their research with graduate students eventually leads to their dismissal from Harvard in 1963.
 
 ### 1962 — FDA Approves Sandoz's New Drug Application for LSD
 
@@ -72,7 +75,7 @@ President Nixon signs the Controlled Substances Act. LSD, psilocybin, mescaline,
 
 ### 1970-1985 — Research Continues Underground
 
-A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops holotropic breathwork as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
+A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
 
 ### 1971 — UN Convention on Psychotropic Substances
 
@@ -80,7 +83,7 @@ International scheduling restricts psychedelic research globally. Most countries
 
 ### 1985 — MDMA Scheduled
 
-Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS (Multidisciplinary Association for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
+Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
 
 ## 1990s-2000s: The Psychedelic Renaissance Begins
 
@@ -145,4 +148,3 @@ Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DM
 | Researcher | Contribution | Era |
 |-----------|-------------|-----|
 | Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
-| Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |

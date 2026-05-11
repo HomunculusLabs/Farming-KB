@@ -14,7 +14,7 @@ sources:
   - USDA NRCS (2024). "Crataegus laevigata (Poir.) DC." PLANTS Database.
   - European Medicines Agency (2015). "Assessment report on Crataegus spp., folium cum flore." EMA/HMPC/562048/2009.
   - Chang, Q. et al. (2002). "Hawthorn." Journal of Ethnopharmacology, 79(3), 365–378.
-  - Bean, W.J. (1976). "Trees and Shrubs Hardy in the British Isles." 8th ed., John Murray.
+  - Bean, W.J. (1976). "[[nitrogen-fixing-trees-and-shrubs]] Hardy in the British Isles." 8th ed., John Murray.
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ sources:
 
 The species is one of the two principal hawthorns of western Europe, alongside *C. monogyna*. It is widely cultivated as an ornamental and harvested for its medicinal berries and flowers.
 
-Its flavonoid-rich fruits have a long history of use in European herbal medicine for cardiovascular support.
+Its flavonoid-rich fruits have a long history of use in European [[childrens-herbal-medicine]] for cardiovascular support.
 
 ## Taxonomy and Morphology
 
@@ -65,7 +65,7 @@ The primary mechanism involves inhibition of 3',5'-cyclic adenosine monophosphat
 
 Antioxidant activity contributes to endothelial protection by reducing oxidative LDL cholesterol oxidation. This dual action on both contractile function and vascular health underpins hawthorn's broad cardiovascular reputation.
 
-Triterpenic acids, including ursolic acid and oleanolic acid, contribute anti-inflammatory effects. These compounds are concentrated in the leaves and unripe fruits.
+Triterpenic acids, including [[ursolic-acid]] and oleanolic acid, contribute anti-inflammatory effects. These compounds are concentrated in the leaves and unripe fruits.
 
 Hawthorn extracts are generally well tolerated. Side effects are rare and mild, consisting primarily of gastrointestinal discomfort and dizziness at high doses.
 
@@ -77,7 +77,7 @@ Propagation is typically by seed (requiring 18-month stratification) or by semi-
 
 The species is widely planted as an ornamental hedging plant and specimen tree in European and [[growing-gourmet-north-american-reishi-species]] gardens. Several double-flowered cultivars exist, including 'Paul's Scarlet' (deep red double flowers) and 'Crimson Cloud' (red-centred single flowers).
 
-In permaculture and agroforestry systems, hawthorn serves as a component of mixed hedges that provide windbreaks, livestock barriers, and wildlife habitat simultaneously.
+In permaculture and agroforestry systems, hawthorn serves as a component of mixed hedges that provide windbreaks, livestock barriers, and [[hemenway-backyard-wildlife-habitat]] simultaneously.
 
 The dense, thorny growth makes it effective as a barrier hedge. Its value for pollinators is high, with flowers attracting bees, hoverflies, and moths.
 
@@ -88,31 +88,3 @@ Mature hawthorns can live for over 200 years and develop significant girth. Anci
 Hawthorn berries are edible when cooked and are traditionally used in jams, jellies, fruit leathers, and preserves. The raw fruit has a mealy texture and mild apple-like flavour.
 
 In Britain, hawthorn berries were historically used to make hawthorn wine and a fruit-based sauce similar to cranberry sauce. The young leaves are also edible raw and have been used as a salad green.
-
-The dried fruits are used in herbal teas, often blended with other cardiotonic herbs. Commercial hawthorn preparations include standardised extracts, tinctures, and capsule forms.
-
-Nutritionally, the berries are rich in vitamin C, flavonoids, and dietary fibre. Their antioxidant capacity is comparable to other dark-coloured berry fruits.
-
-In European folk medicine, hawthorn berry preparations were used to treat diarrhoea and dyspepsia in addition to cardiovascular complaints. The astringent tannins contribute to these gastrointestinal effects.
-
-The fruit's pectin content makes it suitable for setting jams and jellies without added commercial pectin. Traditional hawthorn jelly has a delicate pink colour and a flavour reminiscent of apple and rose.
-
-Birds, particularly thrushes and waxwings, disperse the seeds widely, contributing to natural regeneration. The fruits persist on branches well into winter, providing an important food resource.
-
-## See Also
-
-- [[celtis-laevigata]]
-
-- [[crataegus-monogyna]]
-
-- [[crataegus-oxyacantha]]
-
-- [[crataegus-pinnatifida]]
-- [[prunus-avium]]
-- [[rubus-occidentalis]]
-- aronia-melanocarpa
-- [[quercus-robur]]
-- [[betula-pendula]]
-- [[tilia-cordata]]
-- [[gaultheria-shallon]]
-- [[vaccinium-corymbosum-entity]]

@@ -1,10 +1,11 @@
 ---
-title: "[[permaculture-design-process]] and Site Analysis"
+title: Permaculture Design Process And Site Analysis
 subtitle: "The complete workflow for reading a landscape, gathering data, and creating integrated ecological designs"
 tags: [permaculture, design, site-analysis, methodology, zones, sectors, PDC]
 date: 2026-05-10
 updated: 2026-05-10
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - /Users/t3rpz/wiki/raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md
   - /Users/t3rpz/wiki/raw/papers/bill-mollison-permaculture-design-course.md
 related_concepts:

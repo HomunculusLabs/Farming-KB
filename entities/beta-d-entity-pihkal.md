@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # beta-D
 
-PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -88,31 +88,7 @@ PIHKAL entry #51. 3,4,5-TRIMETHOXY-beta,beta-DIDEUTEROPHENETHYLAMINE.
 > even though I am completely into the experience. No more that state
 > in which it is possible to seriously consider trying to rise twomescaline above the floor and skim, as I do so expertly in dreams. As a
 > matter of fact I haven't had those dreams for some time now. This
-> material doesn't allow the straddling of realities as does ordinary
-> mescaline. I know where my realities are, [[schultes-peyote-and-mescaline]], it will be necessary to synthesize each of the two optically active a-mono-deutero analogs. That will be quite a challenge.
-
-Some years ago I performed a fascinating series of experiments with another isotopically labeled mescaline derivative. This was beta-14C labeled material, which I self-administered on three occasions, at three different levels. One dosage was with 350 milligrams, a second a few weeks later was with 4 milligrams, and a third was a few weeks later yet, with about 60 micrograms. In each case, exactly the same absolute quantity of radioactivity was administered, so the metabolic distribution was equally visible. Only the weight dosage was different. Urinary analysis was run for each experiment for the presence of unchanged mescaline, and for the primary metabolite, 3,4,5-trimethoxyphenylacetic acid. The smaller the dosage, the proportionately larger amount of mescaline was oxidized to the inactive acetic acid, and the smaller amount was excreted in an unchanged state. It seemed to me that there might be a finite capacity of the body to oxidatively deaminate mescaline, and at larger and larger dosages, this capacity became increasingly depleted. Perhaps this is why mescaline requires such a large dosage to be effective in man.
-
-## Synthesis
-
-To a solution of 13.6 g homosyringonitrile (see under ESCALINE for its preparation) in 150 mL acetone containing 200 mg decyltriethylammonium iodide and 30 g of finely powdered anhydrous K2CO3, there was added 20 g methyl iodide. The mixture was held at reflux for 18 h in a heating mantle with effective stirring. This was added to 1 L H2O, acidified with concentrated HCl, and extracted with 3x75 mL CH2Cl2. The extracts were pooled, washed with 2x100 mL 5% NaOH, once with dilute HCl, once with saturated brine, and the solvent was removed under vacuum. The pale yellow residue was distilled at 130-150 deg C at 0.3 mm/Hg to yield 12.9 g of 3,4,5-trimethoxyphenylacetonitrile as an off-white solid. Upon crystallization from methylcyclohexane/CHCl3 it was white and had a mp of 77-78 deg C. Attempts to prepare this compound by the theoretically appealing route from 3,4,5-trimethoxybenzaldehyde to N,N-dimethyl-3,4,5-tri-methoxybenzylamine (reductive amination with dimethylamine), to 3,4,5-trimethoxy-N,N,N-trimethylbenzylammonium iodide (methylation with methyl iodide), and then to 3,4,5- trimethoxyphenylacetonitrile (with some source of cyanide ion) gave excellent yields in the first two steps, and no product at all in the last step.
-
-A solution of 20.6 g of 3,4,5-trimethoxphenylacetonitrile in 70 g pyridine was treated with 15 mL 99+% D2O and held at reflux for 24 h. All volatiles were stripped first under vacuum and finally with a hard vacuum at room temperature in a Kugelrohr apparatus. The dark residue was treated again with another 30 mL pyridine and another 15 mL 99+% D2O. The flask was protected with a drying tube and held at reflux for another 24 h. Again, all volatiles were stripped, and the residue distilled at 110-130 deg C at 0.25 mm/Hg to yield 16.77 g of an almost white solid. The GCMS verified this chemical to be 3,4,5-trimethoxy-beta,beta-dideuterophenylacetonitrile, with a parent peak at m/e 209 and no visible peak at m/e 207.
-
-A solution of 250 mL of 1 M LAH in THF was cooled under He to 0 deg C and treated with 6.8 mL 100% H2SO4 added very slowly with vigorous stirring. A solution of 18.23 g 3,4,5-trimethoxy-beta,beta-dideuterophenyl-acetonitrile in 200 mL anhydrous THF was added slowly, and following the addition stirring was continued for 20 min. The reaction mixture was brought to a reflux for 30 min on a [[scythian-cannabis-steam-bath-ritual]], cooled again to 0 deg C, and the excess hydride destroyed with 15 mL IPA. About 10 mL of 15% NaOH was required to convert the solids to a filterable white consistency. These were removed by filtration, the cake washed with IPA, the filtrates and washes were combined, and the solvent removed under vacuum leaving 17 g of a white oil as residue. This was dissolved in 2 L dilute H2SO4, washed with 3x75 mL CH2Cl2, made basic with aqueous NaOH, and then extracted with 3x75 mL CH2Cl2. Removal of the solvent from these extracts under vacuum yielded 10.3 g of a colorless oil
-
-which was distilled at 120-130 deg C at 0.3 mm/Hg to p...
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-beta-D is a research chemical documented in PIHKAL. Dosage data [[2c-o-4-entity-pihkal]]
-- [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamine compounds in PIHKAL
 
 ## See Also
-
 - [[beta-d-entity]]
+- [[pihkal-beta-substituted-phenethylamines]]

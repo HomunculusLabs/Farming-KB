@@ -20,7 +20,7 @@ homestead.
 - Fills nutritional gaps (dearth periods) when colonies might otherwise starve
 - Increases honey production and colony strength
 - Supports native pollinators alongside managed honey bees
-- Integrates with [[food-forest-design|polyculture design]] on the homestead
+- Integrates with [[food-forest-design]] on the homestead
 
 ## Understanding Bee Nutrition
 
@@ -60,7 +60,7 @@ The main nectar flow period. Abundant nectar produces surplus honey.
 | White clover | May-Sep | Both | Primary summer honey source in many areas |
 | Sweet clover (yellow/white) | Jun-Aug | Both | Biennial; one of the best honey plants |
 | Basswood / Linden | Jun-Jul | Nectar | Premium honey tree; short but intense flow |
-| Lavender | Jun-Aug | Both | Long bloom; drought tolerant once established |
+| Lavender | Jun-Aug | Both | Long bloom; [[drought-tolerant-planting-design]] once established |
 | Sunflower | Jul-Sep | Both | Annual; excellent late pollen |
 | Bee balm (Monarda) | Jul-Aug | Both | Native perennial; highly attractive |
 | Thyme | Jun-Aug | Both | Drought tolerant; culinary herb |
@@ -106,7 +106,7 @@ desert willow. Drought-tolerant natives are essential.
 ## Planting Strategies
 
 ### Hedgerows and Windbreaks
-Linear plantings of flowering trees and shrubs along property boundaries
+Linear plantings of flowering trees and shrubs along [[holzer-high-beds-property-boundaries]]
 provide continuous forage and habitat. See [[windbreak-and-shelterbelt-design]] principles for
 design guidance. Good species: crabapple, hawthorn, elderberry, serviceberry.
 
@@ -130,10 +130,10 @@ the nectar and pollen of acres of herbaceous plants. Key bee trees:
 
 - **Tupelo** (Nyssa ogeche) — premium honey, southeastern US
 - **Basswood** (Tilia americana) — excellent nectar, northern US
-- **Black locust** (Robinia pseudoacacia) — prolific nectar, light honey
-- **Sourwood** (Oxydendrum arboreum) — prized Appalachian honey
+- **Black locust** ([[robinia-pseudoacacia]]) — prolific nectar, light honey
+- **Sourwood** ([[oxydendrum-arboreum]]) — prized Appalachian honey
 - **Eucalyptus** — prolific in mild climates; medicinal honey
-- **Manuka** (Leptospermum scoparium) — New Zealand; see
+- **Manuka** ([[leptospermum-scoparium]]) — New Zealand; see
   [[honey-varieties-guide]]
 
 Planting trees is a long-term investment but yields the highest forage
@@ -147,4 +147,4 @@ aware of:
   death
 - Rhododendron/azalea — grayanotoxin in nectar ("mad honey")
 - Mountain laurel (Kalmia latifolia) — toxic nectar
-- Yellow jessamine (Gelsemium sempervirens) — toxic nectar and pollen
+- Yellow jessamine ([[gelsemium-sempervirens]]) — toxic nectar and pollen

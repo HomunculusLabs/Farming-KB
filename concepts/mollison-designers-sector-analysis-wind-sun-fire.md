@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] wind sun fire - Wind, Sun, Fire and Site Energies
+title: Mollison Designers Sector Analysis Wind Sun Fire
 created: 2026-04-28
 tags:
   - permaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,23 +88,3 @@ or neighboring properties. Mollison recommends:
 - Building placement to minimize noise exposure
 
 Pollution sectors map sources of [[air-pollution-fungal-community-responses]], chemical drift, dust, and
-light pollution. Windbreaks and vegetated buffers intercept airborne
-pollutants. Building orientation minimizes exposure to traffic exhaust and
-industrial emissions.
-
-## Privacy and View Sectors
-
-Mollison includes privacy and views in sector analysis. Desirable views
-are enhanced by framing with vegetation, creating focal points from key
-positions. Undesirable views are screened with layered plantings. Privacy
-from neighbors, roads, and public areas is achieved through hedgerows,
-earthworks, and strategic building placement. These considerations integrate
-with [[permaculture-wildlife-corridors]].
-
-Mollison's sector mapping process: (1) draw a base map with boundaries and
-features, (2) mark north and magnetic declination, (3) research climate data
-for sun angles and winds, (4) walk the site in different conditions, (5)
-consult locals about historical patterns, (6) overlay each sector using
-different colors, (7) identify compound sectors, and (8) prioritize by
-impact intensity. The sector map feeds into [[mollison-designers-design-methods-overview-process]] and
-all subsequent design. Sector analysis is ongoing, refined through

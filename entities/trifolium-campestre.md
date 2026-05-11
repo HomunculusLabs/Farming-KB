@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Zohary, M. & Heller, D. (1984). The Genus Trifolium. The Israel Academy of Sciences and Humanities, Jerusalem.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.
-  - Ellison, A.M. et al. (2005). "The role of Trifolium species in temperate grassland ecosystems." Ecology, 86(5), 1155-1168.
+  - Ellison, A.M. et al. (2005). "The role of Trifolium species in temperate [[biodiversity-fungi-grassland-ecosystems]]." Ecology, 86(5), 1155-1168.
   - Gillett, J.M. & Taylor, C.M. (2001). "Taxonomy of the Trifolium campestre complex (Fabaceae)." Sida, 19(3), 653-662.
 ---
 
@@ -20,7 +20,7 @@ sources:
 
 Trifolium campestre, commonly known as hop trefoil or field clover, is an annual legume in the family Fabaceae.
 
-It is native to Europe, the Mediterranean basin, and western Asia, and has been widely naturalized in North America, Australia, and other temperate regions.
+It is native to Europe, the Mediterranean basin, and western Asia, and has been widely naturalized in North America, Australia, and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 The species is a common component of dry grasslands, agricultural fields, roadsides, and other disturbed habitats throughout its range.
 
@@ -48,7 +48,7 @@ Roots form effective nitrogen-fixing nodules in association with Rhizobium trifo
 
 Trifolium campestre is native to most of Europe, the Mediterranean region, the Caucasus, and western and central Asia.
 
-It has been introduced and naturalized widely, occurring throughout much of North America, southern South America, southern Africa, and southeastern Australia.
+It has been introduced and naturalized widely, occurring throughout much [[berry-growing]], southern South America, southern Africa, and southeastern Australia.
 
 The species occupies a broad ecological range from sea level to approximately 2,000 meters elevation in its native range.
 
@@ -78,39 +78,12 @@ The species exhibits some degree of self-compatibility but produces higher seed 
 
 Trifolium campestre is included in some commercial pasture seed mixtures, particularly for dryland and low-input grazing systems.
 
-It is valued for its drought tolerance, early spring growth, and ability to persist in heavily grazed pastures where larger clover species fail.
+It is valued for its [[dighton-fungal-drought-tolerance-plant-water-relations]], early spring growth, and ability to persist in heavily grazed pastures where larger clover species fail.
 
-Nutritional quality is moderate, with crude protein content of 15 to 20 percent in leaf tissue during active growth.
+[[coleman-winter-greens-nutritional-quality-cold-sweetening]] is moderate, with crude protein content of 15 to 20 percent in leaf tissue during active growth.
 
 Digestibility is lower than that of white clover or alfalfa due to higher stem-to-leaf ratio and earlier stem lignification.
 
-The species has potential as a cover crop and green manure in dryland farming systems, where its drought tolerance provides reliable biomass production.
+The species has potential as a cover crop and green manure in dryland farming systems, where its drought tolerance provides reliable [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 Seed production is straightforward, with yields of 100 to 200 kilograms per hectare achievable under commercial management.
-
-Its primary limitation in agricultural use is relatively low productivity compared to perennial clover species, though its annual life cycle provides flexibility in rotation design.
-
-## Cultural Significance
-
-Hop trefoil has been used in traditional European herbal medicine as a mild antispasmodic and wound-healing remedy, though it lacks the extensive ethnobotanical history of white or red clover.
-
-In folk traditions of the British Isles, finding a four-leaflet form of any Trifolium species was considered a sign of good fortune, and hop trefoil occasionally produces such variants.
-
-The species serves as a bioindicator of moderately nutrient-poor, calcareous grasslands in European phytosociological classification systems.
-
-In North America, hop trefoil is sometimes regarded as a weed in lawns and turf, though its small stature and nitrogen contribution are generally beneficial in low-maintenance turf settings.
-
-Its common name reflects the visual similarity of mature flower heads to Humulus lupulus, the true hop used in brewing, though the two species are unrelated.
-
-## See Also
-
-- [[trifolium-repens]]
-- [[trifolium-pratense]]
-- [[medicago-sativa]]
-- [[medicago-lupulina]]
-- [[lespedeza-cuneata]]
-- [[vicia-sativa]]
-- [[glycine-max]]
-- [[caragana-arborescens]]
-- [[desmodium-canadense]]
-- [[cover-crop]]

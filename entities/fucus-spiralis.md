@@ -13,7 +13,7 @@ sources:
   - Lüning K (1990). "Seaweeds: Their Environment, Biogeography, and Ecophysiology." Wiley.
   - Hardy FG, Guiry MD (2006). "A Check-list and Atlas of the Seaweeds of Britain and Ireland." British Phycological Society.
   - Nielsen R, Gunnarsson K (2013). "Fucus spiralis (Phaeophyceae) — a species with two seasonal reproductive peaks in Iceland." Nordic Journal of Botany, 31(3), 351–357.
-  - Stengel DB, Dring MJ (1997). "Morphology and in situ growth rates of plants of Ascophyllum nodosum and Fucus spiralis from the Irish coast." Journal of the Marine Biological Association of the UK, 77(3), 717–729.
+  - Stengel DB, Dring MJ (1997). "Morphology and in situ [[coleman-sunlight-and-winter-crop-growth-rates]] of plants of Ascophyllum nodosum and Fucus spiralis from the Irish coast." Journal of the Marine Biological Association of the UK, 77(3), 717–729.
 ---
 
 ## Overview
@@ -40,7 +40,7 @@ Coloration ranges from olive-green to dark brown when wet, becoming nearly black
 
 Fucus spiralis is distributed throughout the Northeast Atlantic, from Norway and Iceland south to Portugal and the Canary Islands. On the western Atlantic, it occurs from Newfoundland to New Jersey, though populations become sparse south of Cape Cod.
 
-The species occupies the upper intertidal zone, typically just below the barnacle zone and above Fucus vesiculosus. It is commonly found on moderately exposed to sheltered rocky shores.
+The species occupies the upper intertidal zone, typically just below the barnacle zone and above [[fucus-vesiculosus]]. It is commonly found on moderately exposed to sheltered rocky shores.
 
 Spiral wrack tolerates prolonged emersion, surviving up to 90% of each tidal cycle out of water. It is less tolerant of wave action than Fucus vesiculosus and is generally absent from very exposed coastlines.
 
@@ -64,7 +64,7 @@ Fucus spiralis contains a range of essential minerals including iodine, potassiu
 
 The species provides dietary fiber in the form of alginates and fucoidans, which contribute to digestive health. Total fiber content ranges from 30–40% of dry weight.
 
-Protein content is moderate at 5–15% of dry weight, depending on season and growing conditions. The amino acid profile includes most essential amino acids, though it is not a complete protein source.
+Protein content is moderate at 5–15% of dry weight, depending on season and growing conditions. The [[cho-fish-amino-acid-preparation]] profile includes most essential amino acids, though it is not a complete protein source.
 
 Vitamins present include vitamin C, vitamin A precursors (carotenoids), and several B vitamins. Seasonal variation affects vitamin concentrations, with peak values during spring growth.
 
@@ -87,38 +87,3 @@ Harvesting is typically done by hand at low tide from rocky shores. Sustainable 
 Fucus spiralis is a dioecious species, with separate male and female plants. Reproductive receptacles form at branch tips during late spring and early summer, peaking from May to July depending on latitude.
 
 Gamete release is synchronized with tidal cycles, typically occurring during spring tides when plants are submerged. Eggs are released embedded in mucilage, while sperm are released in clouds that disperse in the water column.
-
-Fertilization is external, producing a diploid zygote that settles onto the substrate within hours. The zygote develops an adhesive holdfast and begins growth into a new thallus.
-
-In some populations, particularly in Iceland, a second smaller reproductive peak occurs in autumn. This bimodal pattern may reflect adaptation to local temperature and photoperiod regimes.
-
-Vegetative propagation can also occur when frond fragments reattach to substrate, though this is less common than [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
-
-## Conservation Status
-
-Fucus spiralis is not currently listed as threatened on a global scale. However, local populations have declined in areas affected by coastal development, pollution, and increased wave exposure from storm activity.
-
-The species is sensitive to oil pollution, which can smother fronds and disrupt reproductive structures. Recovery from oiling events may take several years in affected populations.
-
-[[dighton-fungi-climate-change-feedback]] poses a potential long-term threat through sea level rise, increased storm intensity, and shifts in water temperature. Range contractions at the southern edge of distribution have been documented in recent decades.
-
-Harvesting pressure, while generally sustainable at current levels, requires monitoring in areas of high commercial collection. Regulatory frameworks vary by country, with some jurisdictions imposing seasonal harvest restrictions.
-
-## Related Species
-
-Fucus spiralis is part of the genus Fucus, which contains several ecologically important intertidal species. It is most closely related to Fucus vesiculosus and Fucus serratus, with which it shares habitat zones on many shorelines.
-
-Hybridization between Fucus spiralis and Fucus vesiculosus has been documented where their distribution overlaps. Hybrids are morphologically intermediate and may exhibit reduced fertility.
-
-The species can be distinguished from Fucus vesiculosus by the absence of air bladders and the spiral twist of its fronds. Compared to Fucus serratus, Fucus spiralis has a smoother margin and lacks the saw-tooth edge characteristic of that species.
-
-Ascophyllum nodosum occupies a lower tidal position and forms much larger, more elongated thalli. Pelvetia canaliculatus is found higher on the shore and is more tolerant of desiccation than Fucus spiralis.
-
-## See Also
-
-- [[fucus-distichus]]
-
-- [[fucus-serratus]]
-- [[ulva-lactuca]]
-- [[himanthalia-elongata]]
-- [[palmaria-palmata]]

@@ -6,6 +6,7 @@ type: concept
 tags: [reference]
 sources:
   - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 # Mucormycosis (Zygomycete Infections)
 
@@ -87,42 +88,6 @@ Key [[fungal-virulence-factors-host-immune-evasion]]:
 - **[[fungal-siderophores-iron-acquisition-mycorrhiza]]:** Produces siderophores and uses host iron; iron overload is a major
   risk factor
 - **Rhizopus oryzae uses a fungal CotH protein** that binds to host GRP78 receptor on
-  endothelial cells, facilitating invasion
-
-## Risk Factors
-
-- **Diabetic ketoacidosis:** The single most important risk factor for rhinocerebral disease
-- **Neutropenia:** Prolonged low neutrophil count (cancer chemotherapy, leukemia)
-- **Iron overload:** Deferoxamine therapy, hemochromatosis
-- **Transplant recipients:** Especially hematopoietic stem cell transplants
-- **Corticosteroid therapy:** Immunosuppression
-- **Trauma and burns:** For cutaneous disease
-- **Premature birth:** Gastrointestinal and cutaneous forms
-
-## Diagnosis
-
-Diagnosis is notoriously difficult:
-- **Tissue biopsy** is essential — demonstrates broad, ribbon-like, pauciseptate hyphae
-  with right-angle branching
-- **Culture:** Requires specific media; growth is rapid (2-5 days) but contamination is common
-- **No serological tests** available (unlike aspergillosis galactomannan testing)
-- **PCR:** Not yet standardized for clinical use
-- Must distinguish from Aspergillus hyphae (narrower, septate, regular branching)
-
-## Treatment
-
-- **Control underlying risk factors:** Reverse ketoacidosis, reduce immunosuppression, discontinue
-  deferoxamine
-- **Surgical debridement:** Essential — necrotic tissue must be removed; repeat surgeries often
-  needed
-- **Liposomal amphotericin B:** Primary antifungal therapy ([[amphotericin-b-antifungal]] - Primary treatment drug
-- [[melanized-fungal-pathogens]] - Overview of human [[bloomfield-fungal-pathogens-and-parasites]]
-- [[cryptococcus-neoformans-pathogenesis]] - Another serious fungal pathogen
-- [[fungal-spore-biology]] - [[staycare-degradation-of-plant-cell-wall-polymers-by-fungi]] differences from other fungi
-
-Source: Nicholas P. Money, "Mr. Bloomfield's Orchard" (Oxford University Press, 2002), Chapter 4.
-- [[bloomfield-fungal-biology-and-hyphal-growth]]
 
 ## See Also
-
-- [[mucor-hiemalis]]
+- [[fungal-infections-human]]

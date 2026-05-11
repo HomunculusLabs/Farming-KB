@@ -1,8 +1,9 @@
 ---
-title: Holmgren holmgren-third-wave-environmentalism-model Environmentalism
+title: [[holmgren-third-wave-environmentalism-model]] Environmentalism
 created: 2026-04-26
 updated: 2026-04-23
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [reference]
@@ -31,7 +32,7 @@ characterised by:
 - Emergence of the environmental movement as a political force
 - Foundational texts including The Limits to Growth, Small Is Beautiful, and
   Permaculture One (1978)
-- Back-to-the-land movements and intentional communities
+- Back-to-the-land movements [[holmgren-community-design-and-intentional-communities]]
 - Critique of industrial civilisation and consumerism
 The counterculture of the 1960s and 1970s provided the cultural soil from which
 first-wave environmental innovations grew. Permaculture was part of this
@@ -73,7 +74,7 @@ walking for health, playing with children — becomes central rather than
 peripheral.
 ### Beyond Sustainability to Adaptation
 Where the second wave sought to "sustain" current patterns of civilisation with
-reduced environmental impact, the third wave accepts that fundamental
+reduced [[fertilizer-pollution-environmental-impact]], the third wave accepts that fundamental
 transformation is inevitable and seeks to design pathways for that
 transformation. Sustainability as a concept has been appropriated by corporate
 interests; moving "beyond sustainability" means accepting that the task is
@@ -87,24 +88,3 @@ by Holmgren's work, focuses on converting existing suburban properties into
 productive, low-energy households. Community-supported agriculture (CSA) models,
 food cooperatives, tool libraries, and time banks represent economic innovations
 that build local resilience while reducing dependence on fossil-fueled supply
-chains. These innovations share a common thread: they treat existing conditions
-as the starting point for redesign rather than seeking to escape from or sustain
-them.
-## Critique of Corporate Sustainability
-Holmgren's third wave analysis includes a sharp critique of how corporate
-interests have co-opted the language of sustainability. "Sustainable development"
-promises economic growth and environmental protection simultaneously — a promise
-that Holmgren argues is fundamentally contradictory when the economy depends on
-continuous expansion of energy and resource throughput. Corporate sustainability
-reports, carbon offset schemes, and ESG investment frameworks can delay genuine
-structural change by creating the appearance of progress while preserving
-existing power structures. The third wave demands honesty about trade-offs: a
-genuinely low-energy future will require reduced consumption, shorter supply
-chains, and more localized economies — outcomes incompatible with the growth-
-dependent logic of corporate capitalism.
-## See Also
-
-- [[holmgren-third-wave-environmentalism-model]]
-
-- [[holmgren-biological-services-working-animals]]
-[[permaculture-design]], holmgren-household-economy-and-self-reliance, [[energy-descent-action-planning]], permaculture-retrofit-suburbia,

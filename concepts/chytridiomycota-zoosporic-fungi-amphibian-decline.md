@@ -11,7 +11,7 @@ soil-dwelling ecology.
 
 While the vast majority of chytrid species are harmless saprotrophs or parasites of algae and
 invertebrates, a small number of pathogenic species have emerged as devastating agents of
-vertebrate disease. Most notably, *Batrachochytrium dendrobatidis* (Bd) and *Batrachochytrium
+vertebrate disease. Most notably, *[[batrachochytrium-dendrobatidis]]* (Bd) and *Batrachochytrium
 salamandrivorans* (Bsal) have been identified as the causative agents of **chytridiomycosis**,
 an infectious skin disease responsible for dramatic population crashes and extinctions among
 amphibians worldwide. The emergence of chytridiomycosis has been called the worst case of
@@ -32,12 +32,12 @@ Their phylogenetic position at the base of the fungal tree implies that flagella
 
 ## Ecology Beyond Pathogenesis
 
-The ecological significance of Chytridiomycota extends far beyond the two amphibian pathogens. Most chytrid species are **saprotrophic decomposers** that play essential roles in nutrient cycling within aquatic and soil ecosystems:
+The [[lichen-biology-guide]] of Chytridiomycota extends far beyond the two amphibian pathogens. Most chytrid species are **saprotrophic decomposers** that play essential roles [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]] within aquatic and soil ecosystems:
 
 - [[decomposition]] of recalcitrant plant materials such as pollen, chitin, cellulose, and keratin in freshwater and marine environments.
-- Parasitism of algae, particularly diatoms and desmids, influencing algal population dynamics and primary productivity.
+- Parasitism of algae, particularly diatoms and desmids, influencing algal [[fukuoka-textdoc-microclimate-mite-scale-population-dynamics]] and primary productivity.
 - Symbiotic associations with rumen ciliates in herbivorous mammals, where chytrids assist in cellulose digestion.
-- Contribution to the microbial loop in freshwater systems, transferring dissolved organic carbon to higher trophic levels through zoospores consumed by protozoan grazers.
+- Contribution to the microbial loop in freshwater systems, transferring [[dighton-fungal-dissolved-organic-carbon-production]] to higher trophic levels through zoospores consumed by protozoan grazers.
 
 The diversity of chytrid nutritional strategies — spanning saprotrophy, biotrophy, and commensalism — highlights the ecological versatility of this ancient lineage. Their presence has been documented in habitats ranging from Antarctic soils to tropical peat swamps, from pristine mountain streams to polluted agricultural ponds, reflecting remarkable physiological adaptability.
 
@@ -73,7 +73,7 @@ Chytridiomycosis is recognized as one of the most destructive infectious disease
 
 - Over **500 amphibian species** confirmed or suspected to be affected by Bd globally.
 - At least **90 species** driven to probable or confirmed extinction as a direct result of chytridiomycosis, with many extinctions occurring before the pathogen was even identified.
-- Dramatic population declines across Central America, South America, eastern Australia, Europe, and western North America, with some declines dating to the 1970s–1980s now attributed retrospectively to Bd.
+- Dramatic population declines across [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], South America, eastern Australia, Europe, and western North America, with some declines dating to the 1970s–1980s now attributed retrospectively to Bd.
 - Losses are particularly acute in tropical montane environments, where cool, moist conditions favor Bd growth and endemic amphibian species often have restricted ranges and limited adaptive capacity.
 
 ### Batrachochytrium salamandrivorans (Bsal)
@@ -88,36 +88,3 @@ Detecting and monitoring chytrid fungi presents substantial methodological diffi
 
 - **Baiting techniques**: Traditional surveys for free-living chytrids rely on baiting — placing substrates such as pollen, chitin, snake skin, or cellulose in water or soil samples and incubating to allow colonization and sporulation. This approach is labor-intensive, time-consuming (often requiring weeks), and biased toward fast-growing, easily cultured species.
 - **Molecular PCR detection**: Quantitative PCR (qPCR) assays have revolutionized Bd and Bsal detection, enabling rapid screening of skin swabs, water samples, and environmental DNA (eDNA). However, PCR cannot distinguish viable from non-viable organisms and may produce false negatives at low pathogen loads.
-- **Environmental DNA (eDNA)**: Metagenomic sequencing of water and soil samples is beginning to reveal hidden chytrid diversity, recovering sequences from lineages never cultured or observed microscopically. This approach holds particular promise for detecting rare or unculturable species but requires extensive reference databases for accurate taxonomic assignment.
-- **Under-detection of diversity**: The majority of chytrid species remain undescribed. Hawksworth's estimate that only 5–10% of fungal species are formally described is especially applicable to Chytridiomycota, whose microscopic size, aquatic habitat, and fastidious culture requirements make them among the most under-surveyed fungal groups. Many known chytrid taxa are represented by only a handful of specimens or sequences, and entire orders may await discovery.
-
-## Conservation Implications and Monitoring Programs
-
-The chytridiomycosis crisis has catalyzed significant investment in amphibian conservation and fungal biodiversity monitoring:
-
-- **FEMAT (Fungal Ecological Monitoring and Assessment Team)** initiatives have incorporated chytrid surveys into broader [[fungal-biodiversity]] assessments, emphasizing systematic, repeatable protocols that integrate traditional mycological methods with molecular detection.
-- The **All Taxa Biodiversity Inventory (ATBI) at Great Smoky Mountains National Park** has included chytrid fungi among its survey targets, employing baiting methods and molecular approaches to document chytrid diversity in one of North America's most biodiverse temperate regions.
-- Ex situ conservation programs, including captive breeding and biosecure assurance colonies coordinated through the Amphibian Ark network, have been established for species at imminent risk of extinction from chytridiomycosis.
-- International biosecurity measures, including screening of the amphibian pet trade for Bd and Bsal and the OIE listing of chytridiomycosis as a notifiable disease, represent critical front-line defenses against further pathogen spread.
-research into treatment strategies includes antifungal compounds (itraconazole), probiotic skin
-bacteria (*Janthinobacterium lividum*), and environmental interventions such as habitat
-modification to raise temperatures above Bd thermal tolerance thresholds. These combined
-approaches reflect the growing recognition that effective conservation requires integrating
-disease management with habitat protection and climate adaptation strategies.
-
-## Broader Significance
-
-The Chytridiomycota exemplify a recurring theme in fungal biology: a phylum whose ecological importance vastly exceeds its visibility. As the most basal fungal lineage, chytrids provide essential insights into the evolutionary origins of the fungal kingdom and the transition from aquatic to terrestrial lifestyles. As decomposers, they underpin nutrient cycling in aquatic ecosystems and contribute to the microbial foundations of food webs. And as pathogens, they have reshaped global vertebrate biodiversity patterns in ways still being fully understood.
-
-The dual nature of chytrids — as both ecologically indispensable decomposers and agents of catastrophic wildlife disease — illustrates a fundamental challenge in microbial ecology. The same adaptations that make chytrids effective aquatic decomposers (zoospore motility, enzymatic degradation of recalcitrant substrates) have, in certain lineages, been co-opted for pathogenic invasion of vertebrate hosts.
-
-The ongoing challenge of documenting chytrid diversity — and distinguishing benign environmental species from emerging threats — underscores the urgency of continued investment in [[fungal-taxonomy]], ecology, and surveillance. The gap between described and estimated species richness is widest for microfungi such as chytrids, precisely those groups most likely to harbor novel pathogens, industrially useful enzymes, and ecologically critical functional diversity. Comprehensive biodiversity inventories, as advocated by Hawksworth and others, remain our best strategy for anticipating and mitigating future fungal disease emergence.
-
----
-
-## References
-
-- Daszak, P., Berger, L., Cunningham, A.A., Hyatt, A.D., Green, D.E., & Speare, R. (1999). Emerging infectious diseases and amphibian population declines. *Emerging Infectious Diseases*, 5(6), 735–748.
-- Longcore, J.E., Pessier, A.P., & Nichols, D.K. (1999). *[[batrachochytrium-dendrobatidis]]* gen. et sp. nov., a chytrid pathogenic to amphibians. *Mycologia*, 91(2), 219–227.
-- Hawksworth, D.L. (2001). The magnitude of fungal diversity: the 1.5 million species estimate revisited. *Mycological Research*, 105(12), 1422–1432.
-- Mueller, G.M., Bills, G.F., & Foster, M.S. (Eds.). (2004). *Biodiversity of Fungi: Inventory and Monitoring Methods*. Elsevier Academic Press.

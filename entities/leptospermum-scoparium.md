@@ -10,6 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - Stephens, J.M.C. et al. (2005). "Dihydroxyacetone in Leptospermum Honey." Carbohydrate Research 340(10): 1781-1785.
   - Porter, N.G. & Wilkins, A.L. (1999). "Chemical, Physical and mycelium-running-mushroom-antimicrobial-properties-species-chart of Essential Oils of Leptospermum scoparium." Flavour and Fragrance Journal 14(6): 383-390.
   - Thompson, J. (1989). "Leptospermum." Flora of Australia 19: 44-59.
@@ -87,34 +88,3 @@ Mānuka-dominated vegetation provides habitat for native birds including fantail
 The species contributes to soil formation and stabilization on erosion-prone slopes and riverbanks. Its extensive root network binds loose substrates, reducing landslide and erosion risk in hill country catchments.
 
 Mānuka is also important in riparian zone restoration, where its tolerance of waterlogged soils and rapid growth make it effective for stream bank stabilization. Plantings reduce sediment runoff and improve water quality in agricultural watersheds.
-
-## Chemistry and Pharmacology
-
-The distinctive antibacterial activity of mānuka honey is primarily attributed to methylglyoxal (MGO), a reactive dicarbonyl compound formed from dihydroxyacetone (DHA) present in the nectar. MGO levels increase during honey storage as DHA converts non-enzymatically.
-
-MGO concentrations in premium mānuka honey range from 500 to over 1,000 mg/kg, compared to less than 10 mg/kg in most other honeys. The antibacterial mechanism involves modification of bacterial proteins and nucleic acids by MGO.
-
-The essential oil contains triketones (particularly leptospermone and flavesone) as characteristic chemotaxonomic markers. These β-triketones exhibit broad-spectrum antimicrobial activity against bacteria, fungi, and mites.
-
-Leptospermone has been identified as a natural herbicide template, with synthetic analogs (mesotrione, tembotrione) developed as commercial herbicides for broadleaf weed control. The mode of action involves inhibition of 4-hydroxyphenylpyruvate dioxygenase (HPPD).
-
-Leaf extracts demonstrate anti-inflammatory activity in vitro, mediated through inhibition of cyclooxygenase and lipoxygenase enzyme pathways. Antioxidant capacity is attributed to flavonoid and phenolic constituents including quercetin and ellagic acid derivatives.
-
-Topical formulations containing mānuka oil or honey have shown clinical efficacy in treating acne, eczema, and minor wounds. The combination of antibacterial and anti-inflammatory activities supports wound healing.
-
-Mānuka honey dressings are approved as medical devices in several countries, including the UK, Australia, and New Zealand. Randomized controlled trials have demonstrated that mānuka honey dressings are as effective as conventional treatments for venous leg ulcers.
-
-## See Also
-
-- [[melaleuca-alternifolia]]
-- [[eucalyptus-globulus]]
-- [[myrtus-communis]]
-- [[pimenta-dioica]]
-- [[syzygium-aromaticum]]
-- [[syzygium-cumini]]
-- [[psidium-guajava]]
-- [[rosmarinus-officinalis-entity]]
-- [[thymus-vulgaris-entity]]
-- [[lavandula-angustifolia]]
-- [[thymus-serpyllum]]
-- [[pinus-sylvestris]]

@@ -5,6 +5,7 @@ tags: [fukuoka, natural-farming, wu-wei, non-action, natural-order]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,9 +88,3 @@ right today will appear on the left tomorrow, and on the right the day after.
 While this wheel spins round and round, it expands and diffuses outward.
 
 Although the truth remains fixed and immobile, the heart of man is ever
-fickle and changing; his thinking shifts with the passage of time, with
-circumstances, and so he is forced to alter his means. He, and science with
-him, orbits forever about the periphery without reaching in to the truth at
-the center. Natural farming, by contrast, occupies an immutable and
-unshakable position that transcends time and space. It is always both the
-oldest and the newest form of farming.

@@ -85,9 +85,3 @@ communities, and systematic experimentation to build expertise.
 Source: [[fukuoka-white-clover-cover-crop-system]]
 - [[fukuoka-barley-winter-grain-method]]
 - [[masanobu-fukuoka-natural-farming-philosophy]] rice [[fukuoka-textdoc-barley-cultivation-three-stage-no-tillage-evolution]]
-
-## Practical Considerations
-
-Successful implementation of Permaculture [[jeavons-grain-growing-mini-farms]] requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and

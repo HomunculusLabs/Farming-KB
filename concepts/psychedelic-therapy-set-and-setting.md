@@ -1,5 +1,5 @@
 ---
-title: Psychedelic Therapy Set and Setting
+title: Psychedelic Therapy Set And Setting
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Psychedelic Therapy Set and Setting
 
-The concept of "set and setting" — first articulated by Timothy Leary, Ralph Metzner, and Richard Alpert in "The [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
+The concept of "set and setting" — first articulated by [[timothy-leary]], [[ralph-metzner]], and [[richard-alpert]] in "The [[leary-psychedelic-experience-bardo-mapping]]" (1964) — is the foundational principle for safe and productive psychedelic use. Set refers to the user's mindset; setting refers to the physical and social environment. Together, they are more important than the specific substance or dose in determining the quality of the experience.
 
 ## Set (Mindset)
 
@@ -46,7 +46,7 @@ The concept of "set and setting" — first articulated by Timothy Leary, Ralph M
 ## The Leary Model: The Psychedelic Session
 
 ### Phase 1: Preparation (Days to Weeks Before)
-- Study the psychedelic experience framework
+- Study the [[lsd-psychedelic-experience-guide]] framework
 - Practice meditation or relaxation techniques
 - Clarify intention
 - Choose guide and setting
@@ -88,61 +88,3 @@ The concept of "set and setting" — first articulated by Timothy Leary, Ralph M
 - Offers verbal reassurance during difficult moments
 - Helps with navigation using specific techniques ("breathe," "open your eyes," "trust")
 - Facilitates post-session integration discussion
-- Knows when to intervene and when to stay silent
-
-### What a Guide Does NOT Do
-- Doesn't direct the content of the experience
-- Doesn't impose their own interpretations
-- Doesn't try to "fix" or "heal" the voyager
-- Doesn't leave the voyager alone during peak
-- Doesn't use their own substances simultaneously
-
-## Modern Applications
-
-### Clinical Settings
-- Johns Hopkins, MAPS, Usona Institute: rigorous set and setting protocols
-- Therapist-guided sessions for ptsd, depression, end-of-life anxiety, addiction
-- Integration therapy as part of treatment protocol
-
-### Retreat Settings
-- Guided plant medicine ceremonies (ayahuasca, psilocybin)
-- Integration support built into program
-- Longer-term community support
-
-### Personal Growth
-- Microdosing: minimal set/setting concerns (sub-perceptual)
-- Macrodosing: full set/setting preparation essential
-- Integration circles: group processing of experiences
-## Related
-
-- [[metzner-set-and-setting-psychedelic-therapy]]
-
-- [[psychedelic-experience-stages]] — for the experiential stages
-- [[lsd-therapeutic-history]] — for clinical history
-- [[psychedelic-therapy-mechanisms]]
-
-## Merged: Hybrid Shamanic Therapeutic Rituals
-
-Hybrid shamanic therapeutic rituals represent an emerging form of entheogenic practice that blends elements of indigenous [[metzner-shamanic-ceremony-three-features-darkness-singing-silence]] with Western psychotherapeutic approaches. Also called [[metzner-neoshamanic-medicine-circles-structure-and-practice]] circles, these rituals have developed primarily in Europe and North America since the 1980s, as [[ayahuasca-tourism-western-seekers-and-integration]] have sought to integrate the profound healing potential of traditional shamanic plant medicine work with the psychological insights and safety frameworks of modern therapy.
-
-## Origins and Context
-
-The development of hybrid rituals emerged from a growing recognition that both Western [[psychedelic-therapy-mechanisms]] and traditional [[metzner-shamanic-healing-and-divination-paradigm]] offer valuable but incomplete approaches to human transformation. Western psychotherapy excels at psychological insight and emotional processing but often lacks the spiritual and cosmological dimensions central to shamanic work. Traditional shamanism offers profound access to spiritual dimensions but may lack the psychological sophistication to address complex trauma and personality patterns.
-
-Pioneers like Ralph Metzner, who studied both Western psychedelic therapy and indigenous shamanic traditions, began observing and participating in circle rituals that intentionally combined elements from both worlds. These hybrid forms arose organically as experienced practitioners recognized that the most effective healing work drew from multiple traditions.
-
-## Core Structural Elements
-
-Hybrid shamanic therapeutic rituals typically incorporate several consistent structural elements drawn from traditional shamanic ceremonies:
-
-**Circle formation**: Participants sit or lie in a circle, creating a contained ceremonial space that facilitates group cohesion and shared intention. The circle is one of the most universal ceremonial forms, found in both indigenous and modern healing contexts.
-
-**Altar or fire**: An altar in the center of the circle (or a fire if working outdoors or in a tipi) serves as a focal point for the ceremonial energy and a place for meaningful objects, symbols, and offerings.
-
-**Experienced guide**: An experienced elder or guide, sometimes with one or more assistants, facilitates the ceremony. Unlike traditional shamanic apprenticeships that may last years, hybrid circle guides often come from varied training backgrounds including psychotherapy, meditation, and multiple entheogenic traditions.
-
-**Low light or semidarkness**: A preference for reduced lighting facilitates the emergence of visions and inner experience, consistent with traditional ceremonies from the Mazatec mushroom velada to [[harner-amazonian-ayahuasca-preparation-methods]] work.
-
-**Music and sound**: Drumming, rattling, singing, or evocative recorded music provides a rhythmic framework for the journey. The rapid rhythmic pulse found in traditional icaros and peyote songs is often replicated, as it provides psychic support for moving through the flow of visions.
-
-**Directional invocation**: Dedication of ritual space through invocation of spirits of the four directions and elements creates a ceremonial container and establishes connection with the natural world.

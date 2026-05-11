@@ -17,11 +17,11 @@ sources:
 
 # LSD Pharmacology
 
-The pharmacology of lysergic acid diethylamide (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects. (see [[1v-lsd]]).
+The pharmacology of [[lsd-d-lysergic-acid-diethylamide]] (LSD): mechanism of action, receptor interactions, potency, pharmacokinetics, and effects.
 
 ## Chemical Identity
 
-**LSD** (D-lysergic acid diethylamide) is a semi-synthetic ergoline alkaloid derived from lysergic acid, a component of ergot alkaloids produced by the fungus *Claviceps purpurea*. Its molecular formula is C20H25N3O, and it has a molecular weight of 323.4 g/mol. (see [[lysergic-acid-amide]]).
+**LSD** (D-lysergic acid diethylamide) is a semi-synthetic ergoline alkaloid derived from lysergic acid, a component of ergot alkaloids produced by the fungus *[[bloomfield-ergot-claviceps-purpurea-ergotism]]*. Its molecular formula is C20H25N3O, and it has a molecular weight of 323.4 g/mol.
 
 LSD was the twenty-fifth compound in Albert Hofmann's series of lysergic acid derivatives synthesized at Sandoz, hence the original designation LSD-25.
 
@@ -29,7 +29,7 @@ LSD was the twenty-fifth compound in Albert Hofmann's series of lysergic acid de
 
 ### Primary Target: Serotonin 5-HT2A Receptor
 
-LSD acts primarily as a **serotonin receptor agonist**, with its most significant actions at the **5-HT2A receptor subtype**:
+LSD acts primarily as a **[[serotonin-receptor-interference-psychedelic-mechanism]] agonist**, with its most significant actions at the **5-HT2A receptor subtype**:
 
 - LSD binds to 5-HT2A receptors with very high affinity, acting as a partial agonist.
 - This is the same receptor that mediates the effects of psilocybin, DMT, and mescaline -- all "classical psychedelics" share this primary mechanism.
@@ -56,7 +56,7 @@ LSD is one of the most potent pharmacologically active substances known:
 - Hofmann's first deliberate dose of 250 micrograms was very high -- a typical modern full dose is 100-150 micrograms.
 - For comparison, this is approximately 1/10,000th the weight of an aspirin tablet.
 - A single gram of LSD crystal contains approximately 5,000-10,000 active doses.
-- The reasons for this extraordinary potency include LSD's very high receptor affinity and its unique molecular conformation, which fits precisely into the 5-HT2A receptor binding pocket.
+- The reasons for this extraordinary potency include LSD's very high receptor affinity and its unique molecular conformation, which fits precisely into the 5-HT2A [[beta-glucan-receptor-binding]] pocket.
 
 ## Pharmacokinetics
 
@@ -78,7 +78,7 @@ LSD is one of the most potent pharmacologically active substances known:
 - LSD is metabolized primarily in the liver.
 - Major metabolic pathways include N-dealkylation, hydroxylation, and conjugation.
 - The metabolites are largely inactive pharmacologically.
-- LSD is not detected by standard drug tests; specific detection requires specialized and relatively expensive testing methods.
+- LSD is not detected by standard drug tests; specific detection requires specialized and relatively expensive [[ingham-aact-testing-methods]].
 - The exact elimination half-life is approximately 3-5 hours.
 
 ### Tolerance
@@ -96,7 +96,7 @@ LSD is one of the most potent pharmacologically active substances known:
 - Ego dissolution: sense of boundary between self and world dissolving
 - Enhanced emotional responsiveness: emotions become more intense
 - Altered thought patterns: novel associations, philosophical insights, cosmic consciousness
-- Mystical experiences: feelings of unity, sacredness, transcendence, ineffability
+- [[psilocybin-mystical-experiences-personality-change]]: feelings of unity, sacredness, transcendence, ineffability
 
 ### Physical Effects
 

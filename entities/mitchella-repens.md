@@ -16,7 +16,7 @@ sources:
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." 2nd ed. New York Botanical Garden.
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Foster, S. & Duke, J.A. (2014). "A Field Guide to Medicinal Plants and Herbs." 2nd ed. Houghton Mifflin.
+  - Foster, S. & Duke, J.A. (2014). "A [[field-guide-psilocybin-bluing-reaction-identification]] to Medicinal Plants and Herbs." 2nd ed. Houghton Mifflin.
 ---
 
 # Mitchella repens
@@ -25,7 +25,7 @@ sources:
 
 Mitchella repens, commonly known as partridgeberry, squaw vine, or twinberry, is a low-growing evergreen perennial herb in the family Rubiaceae native to forests of [[psilocybin-north-america-pacific-northwest]]. It is one of the most recognizable woodland [[permaculture-plants-food-forest-ground-covers-bamboos]] in [[polypore-fungi-eastern-north-america]] American forests, known for its paired white flowers and distinctive bright red berries.
 
-The species is the only member of its genus found in North America and is notable for its unique floral biology: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
+The species is the only member of its genus found in [[guzman-psilocybin-mushrooms-north-america]] and is notable for its unique [[cannabis-sex-determination-floral-biology]]: each "flower" is actually a pair of fused flowers that produce a single berry, resulting in the characteristic double-blossom scar (two dimples) visible on the ripe fruit.
 
 ## Taxonomy and Morphology
 
@@ -78,37 +78,12 @@ The berries can be eaten raw or cooked, and have been used in small quantities t
 
 ### Medicinal Uses
 
-Mitchella repens has a long history of use in North American traditional medicine, particularly among Indigenous peoples and in 19th-century Eclectic medical practice.
+Mitchella repens has a long history of use in [[growing-gourmet-north-american-reishi-species]] traditional medicine, particularly among Indigenous peoples and in 19th-century Eclectic medical practice.
 - **Parturifacient:** The most well-known traditional use is as an aid during late pregnancy and childbirth. Preparations of the leaves and stems were used to ease labor pains, promote uterine contractions, and reduce postpartum hemorrhage.
 - **Menstrual disorders:** Used to regulate menstruation and relieve dysmenorrhea among the Cherokee, Iroquois, and other tribes.
 - **Diuretic:** Leaf infusions were used as a mild diuretic for urinary complaints.
-- **Topical applications:** Crushed leaves were applied to wounds, burns, and skin inflammations.
+- **[[cannabis-topical-applications]]:** Crushed leaves were applied to wounds, burns, and skin inflammations.
 
 Pharmacological studies have identified saponins, tannins, and flavonoid glycosides in the plant, which may account for some of the documented activities. However, modern clinical evidence is limited.
 
 ## Permaculture and Ecological Value
-
-Mitchella repens is an outstanding ground cover for shaded permaculture and forest garden applications. Its evergreen foliage provides year-round visual interest and soil protection in woodland settings.
-
-As a native understory plant, it requires minimal maintenance once established and integrates seamlessly into existing forest ecosystems. It spreads slowly by rooting stems and can form dense mats that suppress weeds without becoming invasive.
-
-Key permaculture functions include:
-
-- **[[permplant-willows-salix-erosion-control-fodder]]:** The dense mat of roots and stems stabilizes soil on slopes and banks.
-- **Wildlife habitat:** The berries provide food for birds and small mammals, while the evergreen foliage offers winter cover.
-- **Pollinator support:** Spring flowers provide nectar for early-season bumblebees.
-- **Aesthetic value:** The combination of glossy evergreen leaves, white flowers, and red berries makes it an attractive ornamental ground cover.
-
-## Similar Species
-
-- **Linnaea borealis (twinflower):** Also a creeping woodland plant with paired bell-shaped flowers, but in the family Caprifoliaceae. Flowers are pinkish and more nodding. Leaves are smaller and more rounded. Found in more northern, boreal habitats.
-- **Gaultheria procumbens (wintergreen):** Similar evergreen ground cover with red berries, but leaves are larger, leathery, and aromatic when crushed (wintergreen scent). Flowers are white and bell-shaped, not paired.
-- **Vaccinium vitis-idaea (lingonberry):** Evergreen shrub with similar red berries but much larger leaves and upright branching habit. Berries are tart and edible in quantity.
-
-## See Also
-
-- [[vaccinium-myrtillus]]
-- arctostaphylos-uva-ursi
-- [[sambucus-nigra]]
-- crataegus-monogyna
-- [[food-forest]]

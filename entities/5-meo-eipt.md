@@ -22,11 +22,11 @@ created: 2026-05-07
 
 ## Overview
 
-5-MeO-EiPT (5-methoxy-N-ethyl-N-isopropyltryptamine) is a synthetic substituted tryptamine and psychedelic compound. It belongs to the N-alkylated tryptamine class documented in Alexander and Ann Shulgin's TiHKAL.
+5-MeO-EiPT (5-methoxy-N-ethyl-N-isopropyltryptamine) is a synthetic substituted tryptamine and psychedelic compound. It belongs to the N-alkylated tryptamine class documented in Alexander and [[ann-shulgin]]'s TiHKAL.
 
 The compound is characterized by its [[savory-short-duration-grazing-and-cell-systems]], moderate potency, and a pharmacological profile distinct from both 5-MeO-DMT and 5-MeO-DIPT. It remains a rare research chemical with limited human pharmacological data.
 
-Its primary mechanism of action is agonism at the 5-HT2A serotonin receptor, the canonical target of classical psychedelic tryptamines.
+Its primary mechanism of action is agonism at the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]], the canonical target of classical psychedelic tryptamines.
 
 ## Chemical Properties
 
@@ -50,7 +50,7 @@ The N-ethyl-N-isopropyl substitution pattern influences [[tihkal-receptor-bindin
 
 The compound likely undergoes oxidative deamination by monoamine oxidase (MAO), similar to other unsubstituted tryptamines. This contributes to its short duration of action.
 
-Receptor binding data from formal pharmacological assays is not available in the published literature, making precise potency characterization impossible.
+[[beta-glucan-receptor-binding]] data from formal pharmacological assays is not available in the published literature, making precise potency characterization impossible.
 
 ## Effects
 
@@ -66,7 +66,7 @@ Body load is reported as moderate, with some users noting mild gastrointestinal 
 
 5-MeO-EiPT is unscheduled in most jurisdictions, though it may fall under analog acts in countries with blanket tryptamine prohibition. In the [[dmt-containing-plants-united-states-halpern]], the Federal Analog Act potentially classifies it as a Schedule I substance if intended for human consumption.
 
-The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, which prohibits all psychoactive substances not specifically exempted.
+The compound is controlled in the United Kingdom under the Psychoactive [[controlled-substances-act-and-psychedelic-research]] 2016, which prohibits all [[cultural-evolution-and-psychoactive-substances]] not specifically exempted.
 
 In many European countries, 5-MeO-EiPT exists in a legal grey area due to its absence from specific scheduling lists. It is not listed on the UN Convention on Psychotropic Substances.
 
@@ -82,31 +82,8 @@ In many European countries, 5-MeO-EiPT exists in a legal grey area due to its ab
 
 ## Synthesis
 
-The synthesis of 5-MeO-EiPT follows the general route for N,N-disubstituted tryptamines described in TiHKAL. The starting material is 5-methoxyindole, which undergoes reductive amination with N-ethyl-N-isopropylamine.
+The synthesis of 5-MeO-EiPT follows the general route for N,N-disubstituted tryptamines described in TiHKAL. The [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] is 5-methoxyindole, which undergoes reductive amination with N-ethyl-N-isopropylamine.
 
-The key intermediate, N-ethyl-N-isopropylamine, is prepared through alkylation of isopropylamine with ethyl halide under controlled conditions. The resulting secondary amine is then used in a Fischer indole-type or Leimgruber-Batcho approach.
+The key intermediate, N-ethyl-N-isopropylamine, is prepared through alkylation of isopropylamine with ethyl halide under [[psilocybe-cubensis-strain-potency-variability-controlled-conditions-bigwood-beug]]. The resulting secondary amine is then used in a Fischer indole-type or Leimgruber-Batcho approach.
 
 Purification is typically achieved through acid-base extraction followed by column chromatography or recrystallization of the hydrochloride salt. The freebase form is an oily liquid requiring careful handling.
-
-Yield and purity data are not well-documented in the primary literature due to the compound's status as a research chemical rather than a pharmaceutical candidate.
-
-## History and Cultural Context
-
-5-MeO-EiPT was first synthesized and characterized by Alexander Shulgin, with its entry appearing in TiHKAL (1997). The Shulgins assigned it a rating of "+" on their subjective scale, indicating a threshold-level experience.
-
-The compound has never achieved significant popularity in the research chemical market, likely due to its moderate effects and the availability of more potent alternatives such as 5-MeO-MIPT and 4-HO-MET.
-
-Its rarity means that recreational use data is extremely limited, with most available information deriving from the Shulgins' original accounts and a small number of self-reports on harm-reduction forums.
-
-The compound is of interest primarily to psychopharmacology researchers studying structure-activity relationships within the tryptamine class, particularly the effects of asymmetric N-alkyl substitution on 5-HT receptor affinity.
-
-## See Also
-
-- [[5-meo-mipt]]
-- [[dipt]]
-- [[dmt-nn-dimethyltryptamine]]
-- [[bufotenin]]
-- [[dmt]]
-- [[4-aco-dipt]]
-- [[tryptophan]]
-- [[4-ho-met]]

@@ -9,7 +9,7 @@ sources: []
 
 # Leaf Mold Composting
 
-Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding composting methods available, requiring minimal effort and no purchased inputs.
+Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding [[composting-methods-comparison]] available, requiring minimal effort and no purchased inputs.
 
 ## What is Leaf Mold?
 
@@ -23,7 +23,7 @@ Nutrient profile (approximate, per cubic yard of finished leaf mold):
 - Organic matter: very high (60-80%)
 - Water-holding capacity: can hold 300-500% of its weight in water
 
-The true value of leaf mold is not its nutrient content but its soil-building properties: it dramatically improves soil structure, increases water retention, supports beneficial fungal networks, and provides excellent habitat for soil organisms.
+The true value of leaf mold is not its [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]] but its soil-building properties: it dramatically improves soil structure, increases water retention, supports beneficial fungal networks, and provides excellent habitat for soil organisms.
 
 ## Leaf Collection
 
@@ -127,7 +127,7 @@ For faster leaf mold (6-9 months), you can add:
 - Mix into garden beds at 2-4 inches before planting
 - Improves clay soil drainage and structure
 - Improves sandy soil water retention
-- Increases soil organic matter and microbial activity
+- Increases [[knf-leaf-mold-humus]] and microbial activity
 
 ### Mulch
 - Apply 2-3 inches around plants (keep away from stems)
@@ -139,7 +139,7 @@ For faster leaf mold (6-9 months), you can add:
 ### Potting Mix Component
 - Mix 1 part leaf mold with 1 part compost and 1 part perlite or coarse sand
 - Creates a lightweight, moisture-retentive potting mix
-- Excellent for seed starting and container growing
+- Excellent for [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] [[container-growing-vegetables-herbs]]
 
 ### Lawn Topdressing
 - Spread a thin layer (1/4 inch) over established lawn in fall or early spring

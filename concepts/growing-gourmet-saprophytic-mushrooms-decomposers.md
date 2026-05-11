@@ -88,29 +88,3 @@ must be carefully matched. Climate, available raw materials, and
 the mushroom strains all must interplay for cultivation to
 succeed. Native species are the best choices for designing
 [[cotter-outdoor-mushroom-garden-mulch-beds]] landscapes.
-
-Temperature-tolerant varieties are more forgiving and easier to
-grow than those which thrive within finite temperature limits. In
-warmer climates, moisture is typically more rapidly lost, narrowing
-the opportunity for mushroom growth. Growing [[query-how-to-grow-mushrooms-outdoors-in-a-garden]] in
-a desert climate is more difficult than in moist environments where
-they naturally abound.
-
-Many mushrooms actually benefit from indirect sunlight, especially
-in northern latitudes. Mushrooms grow most prolifically not in the
-darkest depths of woodlands, but in environments where shade and
-dappled sunlight are combined. Sensitivity studies to light have
-established that various species differ in their optimal response
-to wave-bands of sunlight. Nevertheless, few mushrooms enjoy
-prolonged exposure to direct sunlight.
-
-## Selecting Substrates for Decomposer Species
-
-Understanding whether a mushroom is a primary, secondary, or
-tertiary decomposer is fundamental to selecting appropriate
-substrates. See
-saprophytic-mushrooms
-
-- [[growing-gourmet-mycorrhizal-gourmet-mushrooms]]
-- [[growing-gourmet-selecting-candidate-cultivation]]
-- growing-gourmet-species-sequencing-substrate-recycling

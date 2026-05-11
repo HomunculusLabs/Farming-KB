@@ -22,7 +22,7 @@ created: 2026-05-07
 
 **Hydnum umbilicatum** is an edible ectomycorrhizal fungus in the family Hydnaceae, commonly known as the umbilicate hedgehog or depressed hedgehog mushroom.
 
-It is closely related to the prized golden chanterelle (*Cantharellus cibarius*) but distinguished by its toothed hymenophore rather than forked ridges.
+It is closely related to the prized golden chanterelle (*[[cantharellus-cibarius-entity]]*) but distinguished by its toothed hymenophore rather than forked ridges.
 
 The species is appreciated by foragers for its firm texture and mild, peppery-sweet flavor.
 
@@ -50,9 +50,9 @@ Basidiospores are 7.0–8.5 × 6.0–7.5 µm, broadly ellipsoid, smooth, hyaline
 
 ## Distribution and Habitat
 
-*Hydnum umbilicatum* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of North America, Europe, and Asia.
+*Hydnum umbilicatum* is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] [[berry-growing]], Europe, and Asia.
 
-In North America it ranges from Newfoundland to the Pacific Northwest, extending southward in montane forests.
+In North America it ranges from Newfoundland to the [[psilocybin-north-america-pacific-northwest]], extending southward in montane forests.
 
 The species is obligately ectomycorrhizal, forming associations primarily with conifers (spruce, fir, pine, hemlock).
 
@@ -66,7 +66,7 @@ Multiple fruiting events can occur in the same location across successive years,
 
 ## Edibility and Culinary Use
 
-*Hydnum umbilicatum* is an excellent edible mushroom, considered by many foragers to be on par with its close relative *H. repandum*.
+*Hydnum umbilicatum* is an excellent [[bloomfield-boletus-satanus-edible-mushroom-hazards]], considered by many foragers to be on par with its close relative *H. repandum*.
 
 The firm, crunchy texture holds up well to cooking, making it ideal for sautéing, roasting, and cream-based preparations.
 
@@ -76,45 +76,14 @@ It dries well for long-term storage, reconstituting with good texture retention.
 
 No toxic lookalikes exist within the genus *Hydnum*, making it one of the safest [[palmer-edible-mushrooms-north-america]] for beginning foragers.
 
-Nutritional analysis shows high protein content (18–25% dry weight), significant potassium, and moderate levels of selenium.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] shows high protein content (18–25% dry weight), significant potassium, and moderate levels of selenium.
 
 ## Ecology and Mycorrhizal Role
 
 As an ectomycorrhizal species, *H. umbilicatum* provides mineral nutrients and water to host trees in exchange for photosynthate.
 
-The extensive extramatrical mycelium contributes to soil aggregation and organic matter decomposition.
+The extensive extramatrical mycelium contributes to soil aggregation [[hamilton-composting-and-organic-matter-management]] decomposition.
 
 It plays a role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], particularly phosphorus mobilization from organic matter.
 
 The species supports small mammal populations; flying squirrels and chipmunks are known to consume and disperse fruiting bodies.
-
-Sporocarp production is positively correlated with autumn precipitation and moderate temperatures.
-
-## Chemistry and Bioactive Compounds
-
-Preliminary phytochemical analysis reveals the presence of phenolic compounds with antioxidant activity.
-
-Total phenolic content ranges from 4–8 mg GAE/g dry weight, with DPPH radical scavenging activity comparable to other edible hedgehog mushrooms.
-
-Beta-glucan content is approximately 12–18% of dry weight, concentrated in the cell walls.
-
-The species contains notable levels of ergothioneine, a sulfur-containing amino acid with cytoprotective properties.
-
-No toxic compounds or significant heavy metal accumulation has been reported for specimens collected from uncontaminated forests.
-
-## Related Species
-
-*H. repandum* — the common hedgehog mushroom, similar but with a cap that is not centrally depressed and lacks the umbilicus.
-
-*H. rufescens* — larger species with a reddish-orange cap and longer teeth, found in conifer forests.
-
-*Cantharellus cibarius* — the golden chanterelle, ecologically similar but with ridged hymenophore and apricot aroma.
-
-*Cantharellus tubaeformis* — the yellowfoot chanterelle, smaller with a brown cap and hollow stipe.
-
-## See Also
-
-- [[cantharellus-cibarius-entity]]
-- [[boletus-edulis-entity]]
-- [[trametes-versicolor-entity]]
-- [[agaricus-bisporus]]

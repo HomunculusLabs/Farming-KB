@@ -87,27 +87,3 @@ Tropicana Cherries has a flowering time of 8–10 weeks when grown indoors. Outd
 Indoor yields average 300–400 g/m² under optimal conditions. The strain responds well to topping, low-stress training, and trellising to manage lateral branching.
 
 It is considered moderately difficult to cultivate, requiring attention to humidity levels to prevent [[query-how-do-i-prevent-and-treat-bud-rot-on-cannabis]] in dense colas. Cool nighttime temperatures (below 15°C) during weeks 6–8 of flowering enhance purple coloration.
-
-The strain is available as regular and feminized seeds from select breeders.
-
-## Medical Applications
-
-Tropicana Cherries is used recreationally and may offer therapeutic benefits for stress, mild anxiety, and tension headaches. The limonene-dominant terpene profile is associated with mood elevation and anxiolytic properties.
-
-Some medical cannabis patients report using it for appetite stimulation and mild inflammatory discomfort, though clinical evidence remains limited. The balanced hybrid effects make it versatile for managing symptoms without functional impairment.
-
-## Notable Phenotypes
-
-Phenotypic variation is common due to the complex four-parent lineage. Citrus-dominant phenotypes express stronger Tangie characteristics with more limonene and orange aroma.
-
-Cherry-dominant phenotypes lean into the Granddaddy Purple influence, showing deeper purple coloration and a sweeter, fruit-forward terpene profile. Cookie-dominant phenotypes produce denser bud structure and more resin.
-
-Some breeders have used Tropicana Cherries as a parent in further crosses, combining it with Gelato, Runtz, and other exotic lines to create new-generation fruit-forward hybrids.
-
-## See Also
-
-- [[zkittlez]]
-- [[gelato]]
-- [[lemon-haze]]
-- [[granddaddy-purple]]
-- orange

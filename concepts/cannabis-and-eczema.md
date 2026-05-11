@@ -88,10 +88,3 @@ The CBD-PEA combination showed synergistic anti-inflammatory effects, consistent
 Conventional eczema treatments include topical corticosteroids, calcineurin inhibitors (tacrolimus, pimecrolimus), and systemic immunosuppressants for severe cases.
 While effective, these treatments carry significant risks with long-term use: corticosteroids cause skin thinning, telangiectasia, and hypothalamic-pituitary-adrenal axis suppression.
 Calcineurin inhibitors carry FDA black box warnings regarding theoretical lymphoma risk.
-Cannabis-based topicals may offer a safer long-term maintenance option, particularly for patients who experience steroid withdrawal or require frequent application.
-However, head-to-head [[mushroom-cancer-clinical-trials-overview]] comparing cannabinoid preparations to standard therapies are still needed.
-See [[blesching-cannabis-skin-diseases]]
-- [[cannabis-for-dermatological-conditions]]
-- [[cannabis-autoimmune-conditions]]
-- [[mushroom-immune-cell-activation-mechanisms]]
-- [[cannabis-hash-making-from-extracted-oil]]

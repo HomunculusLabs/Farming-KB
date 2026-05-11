@@ -88,22 +88,3 @@ The grow environment itself can become a contamination vector over time:
   kitchens). A dedicated, clean room is ideal but not always practical.
 
 ## Handling Contaminated Materials
-
-When contamination is detected, immediate action is required:
-
-- Remove the contaminated jar from the grow area immediately.
-- Do not open contaminated jars indoors, as this releases spores.
-- Dispose of contaminated materials in a sealed bag in outdoor trash.
-- Clean the area where the contaminated jar was located with bleach solution.
-- If contamination appears in the fruiting chamber, remove affected cakes,
-   clean the chamber thoroughly, and consider replacing the perlite.
-
-For stubborn contamination problems, a comprehensive cleaning of the entire
-grow area may be necessary, including walls, shelves, and equipment. Some
-cultivators use UV-C sterilization lamps in their grow spaces between crops
-
-## See Also
-
-- [[mushroom-contaminant-identification-prevention]]
-
-- [[mushroom-cultivation-contamination-prevention]]

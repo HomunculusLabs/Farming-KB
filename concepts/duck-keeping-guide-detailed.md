@@ -1,10 +1,11 @@
 ---
-title: comparison-duck-keeping-vs-rabbit-husbandry Detailed Guide
+title: Duck Keeping Guide Detailed
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 
@@ -88,42 +89,9 @@ Ancona, Appleyard, Buff, Magpie, Saxony. Saxony is probably the best for foragin
 - Let out of barn after 10 AM; lure back in evening with grain
 - Keep mother duck and ducklings separate from flock until 6-8 weeks old
 
-## Outputs
-
-Eggs, meat, feathers, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] (slugs, snails, grubs), fertilizer, pond algae management.
-
-See also: [[goose-keeping-detailed]], permaculture-retrofit-suburbia, it is the non-consuming use of nature's services where we can experience a deeper harmony with nature. When we make use of the services of living nature (animals, plants, soil and self-purifying water systems) to provide for our needs, we reduce our demand for consuming both renewable and non-renewable resources.
-
-## The Chook Tractor
-
-The classic Permaculture example: the natural scratching action of the fowl is used to cultivate the soil instead of a tractor or rotary hoe. The comparison of the fowl to the tractor reveals that the functions of a tractor are better understood than those of a fowl. At the same time as it cultivates, the fowl's foraging for insects replaces the use of toxic insecticides and its manure replaces use of energy-intensive fertilisers. See duck duck keeping guide detailed detailed and [[permaculture-aquaculture-guide]] and holmgren-mineral-fertilizers-soil-building.
-
-## Pioneer Plants Building Soil
-
-Pioneer plants that build soil fertility, with or without the help of soil microbes, are a feature of almost all permaculture-inspired gardens and farms. Legumes supporting nitrogen-fixing microbes are the most common example. Symbiotic [[dynamic-accumulators]].
-
-## Melliodora Examples
-
-Examples from Holmgren's own holmgren-design-patterns-details-detailed site include:
-
-- Design to reduce chance of fowls scratching newly planted vegetables by keeping a breed (Black Australorp) that can generally be contained by standard-height fences
-
-- Hard pruning of nitrogen-fixing tagasaste and wattle shrubs in gardens and orchards (for goat fodder and tree mulch), to prevent excessive moisture competition and shading
-
-## Complementary Technology and Biology
-
-Often a combination of technological and biological elements is complementary:
-
-- A motorised slasher as a powerful tool for conversion of brambles, weeds and rough pasture to mulch and worm food, but over time grazing animals gradually replacing the slasher as converters of seasonal pasture surplus
-
-- Control of grazing of goats and foraging of poultry in the orchard with movable electric mesh fencing (actual annual electricity use less than that for a regularly used light globe)
-
-## The African Agroforestry Revolution
-
-In poorer countries there are huge opportunities to use [[holmgren-biological-services-working-animals]]. During the 1990s the International Centre for Agroforestry (ICRAF) in Nairobi researched fast-growing leguminous shrubs and trees to allow the poorest farmers to rebuild soil fertility and provide fodder for dairy cows. These biological solutions produced more manure for soil fertility and milk for protein and cash.
-
-The dramatic local success of these systems led to adoption across Kenya and beyond. These classic Permaculture solutions, using plants as substitutes for unavailable conventional fertilisers, increased yields of corn up to tenfold. Some of the legumes used come from Mexico, the original home of corn brought to Africa centuries ago.
-
-The next limiting factor is likely to be calcium, accentuated by leaching of unused nitrogen. This acidification process is perhaps the most widespread form of land degradation in southern Australia. The fact that the legumes used are woody perennials and that further research encourages longer-lived, non-leguminous trees (including Prunus africana, a local indigenous tree threatened by over-exploitation for its medicinal bark) may prevent the acidification problem emerging sooner.
-
-## Working Animals
+## See Also
+- [[cover-crop-guide-detailed]]
+- [[goat-husbandry-detailed-guide]]
+- [[goose-keeping-detailed]]
+- [[permaculture-sheet-mulch-detailed-guide]]
+- [[duck-keeping]]

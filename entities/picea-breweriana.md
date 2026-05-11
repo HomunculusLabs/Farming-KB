@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
   - Ledig, F.T. et al. (2005). "Genetic variation in Picea breweriana." Canadian Journal of Forest Research 35(6): 1407–1418.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]]: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
   - Frankis, M.P. (2024). "Picea breweriana." In: Gymnosperm Database. www.conifers.org.
 ---
 
@@ -67,7 +67,7 @@ Climate is characterized by cool, wet winters and warm, dry summers. Annual prec
 
 Fog drip from summer marine layers provides an important moisture supplement during the dry season.
 
-Brewer spruce occurs in mixed coniferous forests with Port Orford cedar (*Chamaecyparis lawsoniana*), white fir (*Abies concolor*), Shasta red fir (*Abies magnifica*), and mountain hemlock (*Tsuga mertensiana*).
+Brewer spruce occurs in mixed coniferous forests with Port Orford cedar (*[[chamaecyparis-lawsoniana]]*), white fir (*Abies concolor*), Shasta red fir (*[[abies-magnifica]]*), and mountain hemlock (*[[tsuga-mertensiana]]*).
 
 The Klamath-Siskiyou region is a recognized global biodiversity hotspot, with high rates of plant endemism. Brewer spruce is one of 30+ endemic conifers in the region.
 
@@ -79,43 +79,12 @@ Brewer spruce is occasionally cultivated as an ornamental tree in cool-temperate
 
 Cultivation requires cool summer temperatures (mean July maximum below 25°C) and abundant moisture. It is unsuitable for regions with hot, dry summers.
 
-Hardiness is rated at USDA Zone 7 (−18°C). Specimens in arboreta and botanical gardens demonstrate the species' adaptability to maritime climates in the Pacific Northwest and the British Isles.
+Hardiness is rated at USDA Zone 7 (−18°C). Specimens in arboreta and botanical gardens demonstrate the species' adaptability to maritime climates in the [[psilocybin-north-america-pacific-northwest]] and the British Isles.
 
 Several notable specimens exist at the Bedgebury National Pinetum in England and the Strybing Arboretum in San Francisco.
 
-Seed propagation requires cold stratification for 30–60 days. Germination rates from fresh seed are moderate (40–60%). Vegetative propagation has low success rates.
+Seed propagation requires cold stratification for 30–60 days. Germination rates from fresh seed are moderate (40–60%). [[hamilton-vegetative-propagation]] has low success rates.
 
 ## Timber and Uses
 
 Brewer spruce has no significant commercial timber value due to its restricted distribution, small population, and protected status. The wood is light, soft, and pale-colored with a specific gravity of approximately 0.36.
-
-Historically, small quantities of Brewer spruce were harvested locally for mine timbers and fence posts in the 19th century. Commercial logging has never been practiced on a significant scale.
-
-The species is primarily valued for its scientific importance as a Tertiary relict and for its ornamental qualities. Its rarity makes it a collector's item among conifer enthusiasts.
-
-Genetic material from Brewer spruce has been studied extensively for insights into spruce evolution and adaptation. Its basal position in the *Picea* phylogeny makes it important for understanding conifer diversification.
-
-## Ecology and Conservation
-
-Brewer spruce is listed as **Vulnerable (VU)** on the IUCN Red List. The total population is estimated at approximately 2 million mature trees, but the species' extremely restricted range makes it vulnerable to catastrophic events.
-
-The introduced fungal pathogen ***Phytophthora lateralis***, which causes Port Orford cedar root disease, is a significant threat to Brewer spruce habitats. While Brewer spruce itself is not a primary host, habitat degradation affects the entire forest community.
-
-Climate change poses a long-term threat through increased fire frequency, drought stress, and upslope habitat contraction. Modeling suggests potential range reduction of 50–80% by 2100.
-
-Fire return intervals in Brewer spruce forests are 100–300 years. The species has thin bark and limited fire resistance, relying on spatial refugia and seed dispersal from unburned areas for post-fire recovery.
-
-The species supports specialized insect communities, including several endemic species that feed exclusively on Brewer spruce foliage and bark.
-
-Populations on serpentine soils show distinct genetic and morphological differentiation from those on non-serpentine substrates, suggesting local adaptation.
-
-## See Also
-
-- [[abies-concolor]]
-- [[abies-magnifica]]
-- [[picea-sitchensis]]
-- Picea engelmannii
-- [[picea-abies]]
-- [[tsuga-heterophylla]]
-- [[pseudotsuga-menziesii]]
-- [[abies-procera]]

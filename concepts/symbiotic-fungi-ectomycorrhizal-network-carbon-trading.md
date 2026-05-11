@@ -1,5 +1,5 @@
 ---
-title: Symbiotic Fungi — symbiotic fungi ectomycorrhizal network carbon trading Carbon Trading
+title: Symbiotic Fungi Ectomycorrhizal Network Carbon Trading
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -14,7 +14,7 @@ Ectomycorrhizal (ECM) and [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-f
 
 ## Carbon Flow in Mycorrhizal Symbiosis
 
-Mycorrhizal symbioses are characterised by bi-directional movement of nutrients where carbon flows to the fungus and inorganic nutrients move to the plant. In these associations, the plant benefits from more efficient water and mineral uptake and resistance against some pathogens. The fungus benefits through carbon sources (sugars) translocated to the roots by the plants. The most common and prevalent association is with arbuscular mycorrhizal fungi, but the same carbon-for-nutrients exchange principle applies to ectomycorrhizal associations.
+Mycorrhizal symbioses are characterised by bi-directional movement of nutrients where carbon flows to the fungus and inorganic nutrients move to the plant. In these associations, the plant benefits from more efficient water and mineral uptake and resistance against some pathogens. The fungus benefits through carbon sources (sugars) translocated to the roots by the plants. The most common and prevalent association is with [[arbuscular-mycorrhizal-fungi]], but the same carbon-for-nutrients exchange principle applies to [[ectomycorrhizal-associations]].
 
 ### Magnitude of Carbon Investment
 
@@ -37,7 +37,7 @@ A bidirectional flow of particles (vacuoles, mitochondria, nuclei, fat droplets)
 
 ### Inter-Plant Connectivity
 
-Root systems of plants belonging to different species, genera, and families may become connected through anastomosis between mycorrhizal networks, creating indefinitely large numbers of fungal linkages among plants in a community. Network structure parameters include:
+Root systems of plants belonging to different species, genera, and families may become connected through anastomosis between mycorrhizal networks, creating indefinitely large numbers of fungal linkages among plants in a community. [[mycelial-network-structure]] parameters include:
 - **Hyphal density:** 2.9-6.8 mm per mm squared (varies by host plant)
 - **Branching:** 8.6-9.7 per cm of hypha
 - **Anastomosis frequency:** 75-78% of hyphal contacts
@@ -47,13 +47,13 @@ Root systems of plants belonging to different species, genera, and families may 
 
 ### Tracking Carbon with Stable Isotopes
 
-13C-labelled signature fatty acids can track carbon flux from plants to intra- and extraradical AM fungal tissues and to other rhizosphere microorganisms. Neutral lipids (storage compounds) comprise around 20% of the biomass of hyphae, vesicles, and spores of AM fungi. Since total 13C incorporation in AM fungal hyphae correlates with enrichment in neutral lipid fatty acid (NLFA) 16:1omega5, it is possible to estimate carbon uptake in AM fungi by analysing this compound.
+13C-labelled [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] can track carbon flux from plants to intra- and extraradical AM fungal tissues and to other rhizosphere microorganisms. Neutral lipids (storage compounds) comprise around 20% of the biomass of hyphae, vesicles, and spores of AM fungi. Since total 13C incorporation in AM fungal hyphae correlates with enrichment in neutral lipid fatty acid (NLFA) 16:1omega5, it is possible to estimate carbon uptake in AM fungi by analysing this compound.
 
 ### Carbon Retention and Turnover
 
 Key findings from 13C labelling studies (Olsson and Johnson 2005):
 - Most carbon assimilated by intra- and extraradical AM fungal structures remains 32 days after labelling
-- Recently assimilated carbon in *Plantago lanceolata* appeared in extraradical AM fungal hyphae within a few days and remained largely there for at least 30 days
+- Recently assimilated carbon in *[[plantago-lanceolata]]* appeared in extraradical AM fungal hyphae within a few days and remained largely there for at least 30 days
 - Higher 13C enrichment in lipids of intraradical mycelia than in plant root lipids shows that lipid metabolism is more active in the intraradical mycelia
 - 13C enrichment showed a gradual release of carbon from roots to [[lowenfels-rhizosphere-bacteria-plant-interaction]], but at a much lower rate than direct transfer to AM fungi
 
@@ -88,48 +88,3 @@ N transfer has been quantified in three ways:
 To distinguish mycorrhizal-mediated transfer from soil-pathway transfer:
 - Root systems are separated by 25-37 micron nylon or metal mesh allowing only hyphal connections
 - Polytetrafluoroethylene (PTFE) hydrophobic membranes have also been used
-- A narrow air gap between fine meshes further prevents interplant nutrient movement through soil
-- Severing hyphae within the air gap tests whether transfer is disrupted
-
-## The Mycorrhizosphere and Carbon Cycling
-
-### Mycorrhizosphere Effect
-
-The soil volume filled with mycorrhizal fungal hyphae is termed the **mycorrhizosphere** (Foster and Marks 1967). Fungal hyphae emanating from mycorrhizas release a substantial amount of acquired plant carbon to the soil. Energy-rich plant compounds promote bacterial growth and survival. The mycorrhizosphere effect leads to enrichment of microorganisms that improve plant fitness, some directly through production of plant growth regulators, others indirectly through interactions with the broader soil community.
-
-### Soil Carbon Sequestration
-
-Retention of carbon in mycorrhizal mycelium contributes significantly to soil organic carbon. AM fungi contribute to carbon cycling in all types of grassland. Disruption of the soil hyphal network through tillage directly impacts carbon and nutrient dynamics. The 13C-labelling technique has the potential to contribute to understanding a significant part of the global carbon cycle.
-
-### Effects of Soil Disturbance
-
-In agricultural systems, practices such as tillage disrupt the hyphal network. The disruption of the hyphal network is directly responsible for much of the effect of soil disturbance on mycorrhizal function. Crops such as sugar beet or canola that are non-mycorrhizal or weakly mycorrhizal reduce mycorrhizal propagules and consequently AM fungal inoculum potential in subsequent seasons.
-
-## Measuring Ion Fluxes at ECM Roots
-
-Ion-selective microelectrodes allow non-invasive measurement of net ion fluxes (H+, K+, NH4+, Ca2+, NO3-) originating from a few micrometres at the surface of ectomycorrhizal roots. This technique provides insight into real-time nutrient exchange dynamics. Applied to ectomycorrhizal roots of woody species, these measurements reveal how ion fluxes vary along the root axis and how they differ between mycorrhizal and non-mycorrhizal roots, illuminating the functional basis of the carbon-for-nutrients trading relationship.
-
-## Ecological Significance
-
-CMNs affect multiple aspects of ecosystem functioning:
-- **Plant competitive interactions** — [[mycelial-network-resource-sharing-plants]] or competition through networks
-- **Seedling establishment** — CMNs can facilitate or suppress seedling growth near mature plants
-- **Nutrient distribution** — redistribution of carbon, nitrogen, and phosphorus through communities
-- **Below-ground carbon storage** — mycorrhizal hyphae as significant carbon sinks
-- **Resistance to environmental stresses** — network-mediated resource sharing under stress
-- **Soil aggregation** — mycorrhizal fungi enhance soil physical fertility
-
-Understanding the directions and magnitude of carbon and nutrient transfer between plants through CMNs helps clarify the agricultural and ecological importance of these networks and informs management of mycorrhizal associations in both natural and managed ecosystems.
-
-## See Also
-
-- [[mycorrhizal-carbon-allocation]]
-- mycorrhizal-carbon-cycling-soil-sequestration
-- [[soil-food-web-nutrient-cycling]]
-- [[mycorrhizal-networks]]
-- [[mycorrhizal-networks-common-mycelial-network]]
-- [[nitrogen-transfer-through-common-mycorrhizal-networks]]
-- [[ectomycorrhizal-ecology]]
-- [[arbuscular-mycorrhizal-networks]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
-- [[mycorrhizal-diversity-assessment]]

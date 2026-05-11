@@ -1,5 +1,5 @@
 ---
-title: "allegro-amanita-muscaria-properties-and-pharmacology: Muscimol and Ibotenic Acid Pharmacology"
+title: Amanita Muscaria Muscimol Ibotenic Acid Pharmacology
 tags:
   - hallucinogen
   - amanita
@@ -22,7 +22,7 @@ source:
 
 ## Overview
 
-*Amanita muscaria*, commonly known as the fly agaric, is one of the most
+*[[allegro-amanita-muscaria-properties-and-pharmacology]]*, commonly known as the [[amanita-muscaria-fly-agaric-history-and-pharmacology]], is one of the most
 iconic mushrooms in the world, with its bright red cap adorned with white
 warts. Unlike psilocybin-containing mushrooms, *Amanita muscaria* produces
 fundamentally different psychoactive compounds: ibotenic acid and its
@@ -32,7 +32,7 @@ produces more potent intoxication. These mycorrhizal species associate with
 birch, pine, and spruce in temperate and [[fungal-diversity-boreal-forests-taiga]] worldwide.
 
 The pharmacology of *Amanita muscaria* is distinct from classical hallucinogens
-such as [[lsd]] or [[psilocybin-mushrooms-species-and-pharmacology|psilocybin mushrooms]]. Rather than acting on serotonin receptors, its compounds interact
+such as [[lsd]] or [[psilocybin-mushrooms-species-and-pharmacology]]. Rather than acting on [[psilocybin-pharmacology-and-serotonin-receptors]], its compounds interact
 with GABAergic and glutamatergic systems. This produces an intoxication profile
 that is more deliriant, sedative, and dissociative, with prominent somatic
 effects including nausea, ataxia, and muscle twitching.
@@ -42,7 +42,7 @@ effects including nausea, ataxia, and muscle twitching.
 ### Chemistry: Ibotenic Acid and Muscimol
 
 Ibotenic acid (α-amino-3-hydroxy-5-isoxazoleacetic acid) is a potent
-excitatory amino acid and conformational analogue of glutamate. It acts as an
+excitatory [[cho-fish-amino-acid-preparation]] and conformational analogue of glutamate. It acts as an
 agonist at ionotropic glutamate receptors, particularly NMDA and metabotropic
 Group I receptors. Muscimol (5-aminomethyl-3-hydroxyisoxazole) is the
 decarboxylation product of ibotenic acid, formed spontaneously upon drying
@@ -60,7 +60,7 @@ more central effects with fewer peripheral side effects.
 
 A persistent confusion stems from the name *Amanita muscaria*, suggesting
 it contains muscarine, a toxic alkaloid found in deadly species like
-*Amanita phalloides*. In reality, *A. muscaria* contains only trace,
+*[[amanita-phalloides]]*. In reality, *A. muscaria* contains only trace,
 pharmacologically insignificant amounts of muscarine. The name derives
 from its traditional use as an insecticide (Latin *musca* meaning "fly").
 The intoxication is not mediated by muscarinic acetylcholine receptor
@@ -88,54 +88,3 @@ sedative, anxiolytic, and ataxic effects observed during intoxication.
 
 Ibotenic acid conversely acts as a glutamate receptor agonist at NMDA and
 AMPA subtypes, producing neuronal excitation. The simultaneous presence of
-both an excitatory (ibotenic acid) and an inhibitory (muscimol) compound
-creates a complex, often unpredictable pharmacological profile varying with
-preparation method and individual biochemistry.
-
-## Safety/Risks
-
-The most significant risk is fatal misidentification. Deadly *Amanita*
-species, notably *Amanita phalloides* (death cap) and *[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]*
-(destroying angel), produce amatoxins causing fulminant hepatic failure.
-While *A. muscaria* is distinctive, inexperienced foragers may confuse young
-specimens of deadly *Amanitas* with psychoactive species. Variability in
-*A. muscaria* appearance across geographic ranges — yellow, orange, or white
-coloration — compounds this risk.
-
-*Amanita pantherina* has higher ibotenic acid content and has been responsible
-for numerous poisonings. Its brown cap with white warts can be confused with
-edible species, making [[blesching-cannabis-safety-adverse-effects-evidence]] more likely upon misidentification.
-
-## See Also
-
-- [[psilocybin-mushrooms-species-and-pharmacology]]
-- [[lsd]]
-- [[psychedelic-compounds-reference]]
-- [[mescaline-peyote-san-pedro-cactus]]
-- [[salvia-divinorum-pharmacology]]
-
-## Cultural Significance and Urine Recycling
-
-*Amanita muscaria* occupies a unique position in ethnobotanical literature.
-R. Gordon Wasson's controversial "Soma" hypothesis proposed the ancient Vedic
-ritual beverage Soma was derived from this mushroom. While debated, the theory
-brought significant scholarly attention to *A. muscaria*. The mushroom
-features prominently in circumpolar folklore, from Saami Scandinavia to
-Koryak Kamchatka.
-
-Arctic and [[halpern-sacramental-peyote-and-native-american-church]] shamanic traditions incorporated *A. muscaria* into
-spiritual practices for centuries. Siberian shamans consumed it to induce
-trance states for divination, healing, and spirit communication. The
-dissociative quality was valued for facilitating soul journeys and vision
-quests central to community spiritual life.
-
-An unusual feature is the urine recycling phenomenon documented among
-Siberian and Arctic indigenous peoples. Because muscimol is excreted largely
-unchanged in urine, consuming urine from someone who has ingested *A. muscaria*
-produces a second, more purified intoxication with fewer gastrointestinal
-side effects. This practice was documented among the Koryak and Chukchi of
-northeastern Siberia. The urine could be consumed by the original user or
-shared, and in some traditions the cycle was repeated multiple times. This
-widespread cultural significance across the Northern Hemisphere makes *A.
-muscaria* one of the most important [[cattle-dispersal-psychoactive-fungi-australia]] in human history,
-despite its reputation for unpredictable and sometimes unpleasant effects.

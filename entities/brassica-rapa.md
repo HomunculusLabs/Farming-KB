@@ -24,7 +24,7 @@ morphotype), bok choy and Chinese cabbage (leafy morphotypes), and rapeseed
 (oilseed morphotype).
 
 The species originated in the Mediterranean region and western Asia, with
-secondary diversification in East Asia where many leafy morphotypes were
+secondary diversification in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] where many leafy morphotypes were
 developed. Domestication occurred independently in Europe (turnip) and
 East Asia (leafy types).
 
@@ -34,7 +34,7 @@ to the formation of two important polyploid crop species: B. napus
 
 The species exhibits remarkable morphological diversity across its cultivated
 forms, ranging from swollen [[growing-root-vegetables-guide]] to [[solomon-leafy-greens-growing]] to oilseed crops.
-This plasticity has made it a model organism for studying plant domestication.
+This plasticity has made it a [[canary-grass-phototropism-model-organism]] for studying plant domestication.
 
 ## Taxonomy and Morphology
 
@@ -77,69 +77,14 @@ to -10°C.
 
 Turnips mature rapidly, reaching harvestable size in 35–60 days from sowing.
 This fast growth makes them valuable as catch crops and for [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
-in temperate regions.
+in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Chinese cabbage and bok choy require 50–80 days to maturity. These crops
 are sensitive to bolting triggered by temperatures below 10°C during early
-growth, which limits their production window in temperate climates.
+growth, which limits their production window [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 All morphotypes prefer fertile, well-drained loam soils with pH 6.0–7.5.
 Consistent moisture is critical for preventing root cracking in turnips and
 tipburn in leafy types.
 
 Spacing varies by morphotype: turnips at 5–10 cm in-row with 25–40 cm between
-rows, while Chinese cabbage requires 30–45 cm between plants.
-
-Major pests include flea beetles (Phyllotreta spp.), cabbage aphids (Brevicoryne
-brassicae), cabbage root fly (Delia radicum), and diamondback moth (Plutella
-xylostella).
-
-Diseases of concern include clubroot (Plasmodiophora brassicae), black rot
-(Xanthomonas campestris pv. campestris), and [[cervantes-downy-mildew-fungal-blight]] (Hyaloperonospora
-parasitica).
-
-## Nutritional Value
-
-Brassica rapa vegetables are nutrient-dense, providing vitamin C, vitamin K,
-folate, and glucosinolates. Turnip roots contain approximately 20–30 mg
-vitamin C and 150 mg potassium per 100 g.
-
-Leafy morphotypes like bok choy and Chinese cabbage are richer in nutrients
-than the root types. They provide significant amounts of vitamin A
-(carotenoids), vitamin C, calcium, and iron.
-
-Glucosinolates, the characteristic sulfur-containing compounds of Brassica
-vegetables, are present at moderate levels. These compounds hydrolyze to
-isothiocyanates and other products with documented anti-cancer properties.
-
-Turnip greens (the leafy tops of root turnips) are often discarded but are
-actually more nutritious than the roots, containing higher concentrations
-of vitamins A, C, and K along with calcium and lutein.
-
-## Culinary Use
-
-Turnips are consumed boiled, roasted, mashed, or raw in salads. Young
-turnips are sweet and crisp, while older specimens develop a stronger,
-peppery flavor and woody texture requiring longer cooking.
-
-In Japanese cuisine, turnips (kabu) are pickled, simmered in dashi, or
-served grated as a condiment. Smaller varieties like the Tokyo turnip are
-prized for their sweetness and tenderness.
-
-Chinese cabbage is the basis of kimchi, the fermented Korean national dish.
-It is also used in stir-fries, soups, and hot pot preparations throughout
-East and [[psilocybe-southeast-asia-pacific]].
-
-Bok choy is a staple in Chinese stir-fries and is also used in soups,
-steamed dishes, and braised preparations. Both stalks and leaves are eaten,
-providing contrasting textures.
-
-Rapeseed oil from B. rapa subsp. oleifera is used for cooking in many parts
-of Asia and Europe. Canola-quality cultivars produce oil suitable for
-high-temperature cooking and food processing.
-## See Also
-
-- [[sinapis-alba]]
-- [[raphanus-sativus-var-longipinnatus]]
-- [[spinacia-oleracea]]
-- [[daucus-carota]]

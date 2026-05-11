@@ -77,3 +77,20 @@ Spray [[jadam-liquid-fertilizer-nutritional-perspective]] solution on foliage. S
 - [[cannabis-nutrient-solution-preparation]]
 - [[cannabis-nutrient-toxicity]]
 - [[cannabis-foliar-feeding]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[cannabis-organic-fertilizers]]
+- [[cervantes-chemical-fertilizers-guide]]
+- [[cannabis-chemical-burn-vs-deficiency]]
+- [[lowenfels-chemical-fertilizers-damage]]
+- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]

@@ -88,35 +88,3 @@ advance, stagnate, or deteriorate.
 Savory emphasizes that a close look at the time dimension reveals how
 astoundingly complex the natural world really is. On rangelands with a
 tremendous variety of grasses, forbs, brush, and trees, all growing at
-different rates, the time calculations become extremely intricate. Wildlife
-running with stock further complicates matters by affecting time estimates
-for forage availability.
-
-The biological planning procedure that Savory developed was created
-specifically to handle this complexity. Adapted from military planning
-methods used at the Royal Military Academy at Sandhurst, it provides a
-systematic way to manage the time dimension across large areas, many
-animals, and long periods.
-
-## Common Errors in Time Management
-
-The most common error in time management is applying a fixed rotation
-schedule regardless of changing conditions. This practice, which Savory
-calls "[[comparison-rotational-grazing-vs-continuous-grazing]]," inevitably produces overgrazing because no
-single schedule accounts for varying growth rates. Another common error
-is assuming that rain automatically translates into rapid growth; soil
-aeration, soil moisture, and other factors may suppress growth rates even
-after good rainfall.
-
-Savory warns that a twenty-four-hour mistake in a small paddock at high
-[[savory-fencing-economics-and-stock-density-curve]] can mean extreme forage depletion. Time management errors are
-far more consequential at high stock densities, which is why biological
-planning and constant monitoring become increasingly important as paddock
-numbers increase.
-
-## See Also
-
-- [[savory-overgrazing-vs-overrest]]
-- [[savory-livestock-grazing-planning]]
-- [[savory-growing-season-and-non-growing-season-management]]
-- [[savory-stock-density-vs-stocking-rate]]

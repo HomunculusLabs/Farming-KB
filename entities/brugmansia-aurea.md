@@ -44,13 +44,13 @@ The large, trumpet-shaped flowers give the genus its common name of Angel's Trum
 
 ## Distribution
 
-Brugmansia aurea is native to the Andean highlands of South America, preferring cool, wet highlands above 6,000 feet (1,830 meters) in elevation. It is the most widespread species of Brugmansia in the Andes.
+Brugmansia aurea is native to the Andean highlands of [[guzman-psilocybin-mushrooms-south-america]], preferring cool, wet highlands above 6,000 feet (1,830 meters) in elevation. It is the most widespread species of Brugmansia in the Andes.
 
 The species is believed to be a cultigen — a plant that has been altered or maintained through human cultivation and is unknown in a truly wild state. All Brugmansia species are suspected to be cultigens, suggesting millennia of human selection and propagation.
 
 ## Ethnobotanical Uses
 
-All species of Brugmansia are biologically very complex and appear to have been used as hallucinogens for millennia. Their use spans numerous indigenous cultures throughout the Andes and western Amazonia.
+All species of Brugmansia are biologically very complex and appear to have been used as hallucinogens for millennia. Their use spans numerous [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] throughout the Andes and western Amazonia.
 
 ### Jivaro Use
 
@@ -64,13 +64,13 @@ In the Choco region of Colombia, Brugmansia seeds were put into magic chicha (fe
 
 ### Peruvian Use
 
-Indians in Peru still call Brugmansia sanguinea by the name **Huaca** or **Huacachaca**, meaning "plant of the tomb." This name reflects the plant's deep association with death, spirits, and the ancestral world in Andean cosmology.
+Indians in Peru still call [[brugmansia-sanguinea]] by the name **Huaca** or **Huacachaca**, meaning "plant of the tomb." This name reflects the plant's deep association with death, spirits, and the ancestral world in Andean cosmology.
 
 The term "huaca" in Quechua refers broadly to sacred objects, places, or beings of spiritual significance.
 
 ### San Pedro Additive
 
-B. aurea is frequently used as a vegetal additive to **San Pedro** (Trichocereus pachanoi) cactus preparations. Along with B. sanguinea, it is considered a potent hallucinogen in its own right that enhances the visionary qualities of the cactus brew known as **cimora**.
+B. aurea is frequently used as a vegetal additive to **San Pedro** ([[trichocereus-pachanoi]]) cactus preparations. Along with B. sanguinea, it is considered a potent hallucinogen in its own right that enhances the visionary qualities of the cactus brew known as **cimora**.
 
 The addition of Brugmansia to cimora is one of the most significant examples of psychoactive plant combination in Andean ethnopharmacology. Other plants, including Iresine (which has the reputation of curing "insanity"), may also be added to the cimora preparation.
 
@@ -87,39 +87,3 @@ The genus contains several species used similarly across South America:
 ## Chemistry
 
 Like other Brugmansia and Datura species, B. aurea contains **tropane alkaloids**, primarily:
-
-- **Scopolamine** (hyoscine) — the major alkaloid, a potent deliriant and anti-cholinergic agent
-
-- **Hyoscyamine** — another major tropane alkaloid
-
-- **Atropine** — the racemic form of hyoscyamine
-
-These powerful tropane alkaloids are responsible for the hallucinogenic, deliriant, and potentially toxic effects of the plant. The tropane alkaloids act as competitive antagonists at muscarinic acetylcholine receptors, producing a syndrome known as anticholinergic toxidrome characterized by dry mouth, dilated pupils, tachycardia, urinary retention, hyperthermia, and true hallucinations (as opposed to the pseudohallucinations of classical psychedelics).
-
-The alkaloid content varies significantly depending on the plant part, age, growing conditions, and genetic factors. Leaves and seeds tend to have the highest concentrations.
-
-## Cultural Significance
-
-The genus Brugmansia has been known by numerous indigenous names across the Andes, reflecting its deep cultural integration: Borrachero ("drunkard"), Campanula, Floripondio, Huanto, Haucacachu, Maicoa, Toe, and Tongo.
-
-These diverse names across many different indigenous linguistic and cultural groups attest to the plant's ancient and widespread importance in Andean ceremonial life.
-
-## Safety Considerations
-
-All Brugmansia species contain dangerous tropane alkaloids. The difference between a psychoactive dose and a lethal dose is narrow. Ingestion can cause tachycardia, hyperthermia, urinary retention, severe hallucinations, amnesia, and potentially death.
-
-The plant should never be consumed without expert knowledge of preparation and dosage. Modern horticultural use of Brugmansia as ornamental plants has led to numerous accidental poisonings worldwide.
-
-## See Also
-
-- [[brugmansia-arborea]]
-
-- [[genlisea-aurea]]
-
-- [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet
-
-- [[datura-innoxia]] — another Datura species used traditionally
-
-- [[atropa-belladonna]] — Deadly Nightshade, another tropane-containing plant
-
-- [[desfontainia-spinosa]] — Taique, another Andean hallucinogenic shrub

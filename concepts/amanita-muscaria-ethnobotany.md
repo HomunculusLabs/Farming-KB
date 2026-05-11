@@ -19,13 +19,13 @@ sources:
 
 # Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion. (see [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]).
+The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from [[harner-amanita-muscaria-siberian-shamanism]] to its role in psychedelic theories about [[amanita-in-ancient-religion]].
 
 ## The Mushroom
 
-*Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere. (see [[amanita-muscaria-muscimol-ibotenic-acid]]).
+*Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere.
 
-Unlike the psilocybin mushrooms, *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
+Unlike the [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], *A. muscaria* does not contain [[hplc-analysis-of-tryptamine-alkaloids]]. Its primary active compounds are:
 
 - **Ibotenic acid**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
 - **Muscimol**: The primary psychoactive compound, formed by the decarboxylation of ibotenic acid. Muscimol is a GABA-A receptor agonist, producing sedative, dissociative, and hallucinogenic effects qualitatively different from psilocybin or LSD.
@@ -55,7 +55,7 @@ Siberian users reported experiences that differed markedly from tryptamine psych
 
 - Shamans used *A. muscaria* to enter trance states for divination, healing, and spirit journeying.
 - The shaman would consume mushrooms and then "travel" to the spirit world to retrieve souls, negotiate with spirits, or foretell the future.
-- In some traditions, the reindeer (sacred to Siberian peoples) also consumed *A. muscaria* and became intoxicated. The connection between the reindeer, the mushroom, and shamanic practice may have contributed to Siberian and eventually European Christmas mythology.
+- In some traditions, the reindeer (sacred to Siberian peoples) also consumed *A. muscaria* and became intoxicated. The connection between the reindeer, the mushroom, [[dmt-black-hole-effect-and-shamanic-practice]] may have contributed to Siberian and eventually European Christmas mythology.
 
 ### Urine Recycling
 
@@ -95,6 +95,30 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 
 ## Related Topics
 
-- [[psychedelic-plants-in-ancient-cultures]] for the Soma and Eleusinian mysteries
+- [[psychedelic-plants-in-ancient-cultures]] for the Soma [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
 - [[sacred-mushroom-hypothesis]] for Allegro's theory about Christianity
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic use
+
+## Mechanisms of Action
+
+Understanding the underlying mechanisms provides insight into how these
+systems function and interact. Multiple pathways and feedback loops are
+typically involved, creating complex but comprehensible patterns that can
+be studied and replicated in appropriate contexts.
+
+## Comparative Analysis
+
+When compared with alternative approaches, this topic reveals distinct
+advantages and limitations. Context-specific evaluation is essential for
+determining the most appropriate methodology. Different situations may
+call for different strategies, and the optimal approach often combines
+elements from multiple frameworks.
+
+## Future Directions
+
+Ongoing research and practical experimentation continue to refine our
+understanding. Emerging technologies, improved analytical methods, and
+collaborative knowledge-sharing networks are accelerating progress in
+this field. Practitioners are encouraged to stay current with new
+developments and contribute their own observations to the collective
+knowledge base.

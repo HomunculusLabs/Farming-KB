@@ -82,22 +82,9 @@ phytotoxic [[antifungal-secondary-metabolites-coprophilous-fungi]]. In Dighton's
 solani is
 presented within Table 3.23, which summarizes interactions
 between
-root pathogenic fungi and [[soil-food-web]] studies, F. solani
+root pathogenic fungi and [[soil-foodweb]] studies, F. solani
 participates in fungal-fungal interactions, including competitive
 and
 antagonistic relationships with other soil microfungi.
 
 The ability of F. solani to persist in soil through durable
-chlamydospores ensures its continued presence across seasons and
-disturbance events. These survival structures contribute to the
-soil
-microbial [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]. The balance between its saprotrophic and
-pathogenic lifestyles makes F. solani a key species in
-understanding
-the continuum between decomposition and parasitism in soil fungal
-ecology.
-
-# See Also
-
-- [[cladosporium-cladosporioides]]
-- [[trichoderma-viride]]

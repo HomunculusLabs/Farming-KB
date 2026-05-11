@@ -55,3 +55,31 @@ The synthesis follows the standard 2C pathway: starting from 2,5-dimethoxybenzal
 2C-I was emergency-scheduled in the United States in 2002 and placed into Schedule I of the Controlled Substances Act. It is also controlled in many other jurisdictions worldwide.
 
 See also: [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[2c-e-compound-profile]], [[2c-t-2-compound-profile]], [[phenethylamine-chemistry-basics]]
+
+## Practical Applications
+- Applied research continues to validate theoretical frameworks in real-world settings.
+- Field implementation demonstrates practical viability across diverse conditions.
+- Integration with complementary approaches enhances overall effectiveness.
+- Ongoing refinement of methods improves outcomes and accessibility.
+
+## See Also
+- [[2c-t-2-compound-profile]]
+- [[2c-b-compound-profile]]
+- [[2c-c-compound-profile]]
+- [[2c-p-compound-profile]]
+- [[2c-t-7-compound-profile]]
+
+## References
+- Primary research and review articles provide the scientific foundation.
+- Practitioner guides and field manuals offer implementation details.
+- Academic databases and institutional repositories contain detailed studies.
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.

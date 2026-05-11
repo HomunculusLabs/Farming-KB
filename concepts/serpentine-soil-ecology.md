@@ -88,14 +88,3 @@ Major serpentine outcrops occur on every inhabited continent. The Klamath-Siskiy
 Serpentine soils present significant challenges for agriculture. The high magnesium-to-calcium ratio disrupts plant calcium uptake, leading to deficiencies even when calcium is present. Low nitrogen and [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] require fertilization for most crops, and elevated nickel and chromium can be phytotoxic to non-adapted species. Despite these challenges, some serpentine areas have been successfully used for specialized agriculture, including certain grape varieties that produce distinctive wines from serpentine-derived soils (notably in parts of California and Italy).
 
 ## Serpentine Endemism Hotspots
-
-The disproportionate endemism of serpentine ecosystems makes them conservation priorities. The "serpentine syndrome" — the combination of chemical and physical stressors — creates strong natural selection pressure that drives rapid speciation. Endemic genera (genera found only on serpentine) include several from California's Coast Ranges and New Caledonia. Many serpentine endemics are narrow-range species, sometimes restricted to a single outcrop, making them exceptionally vulnerable to habitat destruction from mining, road construction, and development.
-
-## Related Concepts
-
-- [[phytoremediation]] for using plants in environmental cleanup
-
-## See Also
-
-- [[actinomycetes-soil-biology]]
-- [[alkaline-soil-plants]]

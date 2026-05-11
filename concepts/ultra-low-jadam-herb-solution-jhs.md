@@ -87,18 +87,3 @@ shows promise with gingko, peppermint, clove, Korean mint, and
 Japanese pepper. This is described as "a very interesting and
 promising area that remains to be studied." Farmers worldwide can
 adapt JHS to their local flora.
-
-## Cost and Accessibility
-
-JHS costs almost nothing to make because the herbs can be grown on
-the farm or collected from the wild. Jerusalem artichoke is a hardy
-perennial that produces abundant biomass. Combined with self-made JWA,
-the total cost of JADAM pesticide per acre is approximately $100 per
-year. This represents a dramatic reduction compared to commercial
-organic or synthetic [[jadam-combined-pesticide-programs-jwa-js-jhs]].
-
-## See Also
-
-- [[ultra-low-jadam-sulfur-js]] - Sulfur fungicide component
-- [[ultra-low-herbal-smoker-greenhouse-pest-control]] - Smoke-based pest control
-- [[ultra-low-water-softening-for-pesticide-efficacy]] - Water quality needs

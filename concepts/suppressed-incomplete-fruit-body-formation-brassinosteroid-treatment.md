@@ -2,7 +2,7 @@
 
 ## Overview
 
-One of the most intriguing observations in the Gartz et al. (1990) study on brassinosteroid effects in Psilocybe cubensis was the near-complete suppression of incomplete (abnormal) fruit body formation in treated cultures.
+One of the most intriguing observations in the Gartz et al. (1990) study on brassinosteroid effects [[cap-and-stem-alkaloid-distribution-in-psilocybe-cubensis-strains]] was the near-complete [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]] (abnormal) fruit body formation in [[flush-count-variation-brassinosteroid-treated-cultures]].
 
 While the growth-promoting and yield-enhancing effects received more attention, this morphological normalization effect has significant implications for understanding fungal development and improving cultivation reliability.
 
@@ -16,7 +16,7 @@ They manifest as small, stunted mushroom-like structures that stop developing an
 
 In P. [[psilocybe-cubensis-cultivation-miniculture]], aborts are frequently observed, particularly under suboptimal environmental conditions or with certain strains that are prone to irregular fruiting patterns.
 
-Aborts represent wasted biological energy. The mycelium has already invested significant resources into initiating fruiting body development, forming the hyphal aggregates (primordia) that represent the earliest stage of mushroom formation.
+Aborts represent wasted biological energy. The mycelium has already invested significant resources into initiating [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]], forming the hyphal aggregates (primordia) that represent the earliest stage of mushroom formation.
 
 But the developmental program stalls before producing a harvestable mushroom. This results in several practical problems:
 
@@ -51,7 +51,7 @@ Primordia that would otherwise stall due to insufficient nutrient supply from th
 
 The transition from vegetative mycelium to reproductive fruiting body involves a complex developmental signaling cascade.
 
-Environmental triggers (light, temperature shift, CO₂ reduction) initiate the program, but its completion depends on sustained internal signaling through transcription factors, MAP kinase pathways, and cAMP signaling.
+[[fungal-fruiting-body-formation-environmental-triggers]] (light, temperature shift, CO₂ reduction) initiate the program, but its completion depends on sustained internal signaling through transcription factors, MAP kinase pathways, and cAMP signaling.
 
 Brassinosteroids may act as co-regulators of this signaling pathway, improving the fidelity of the developmental switch and reducing the incidence of program abortion.
 
@@ -69,7 +69,7 @@ If brassinosteroids provide similar stress protection in fungi, treated cultures
 
 ## Mechanism 4: Morphogenetic Regulation
 
-The Gartz study also noted that treated fruit bodies lacked the typical membranous annulus (ring) on the stem.
+The Gartz study also noted that treated fruit bodies lacked the typical [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] (ring) on the stem.
 
 This indicates that brassinosteroids alter the expression of morphogenetic genes involved in tissue differentiation during fruiting body development.
 
@@ -88,51 +88,3 @@ This reduces the variability between flushes and between cultivation runs, makin
 Aborts that decay on the casing surface create entry points for bacterial and mold contamination.
 
 By reducing the number of aborts, brassinosteroid treatment could indirectly lower contamination rates, though this was not explicitly tested.
-
-Fewer aborts means fewer sites of necrotic tissue that could harbor competitor organisms.
-
-### Labor Reduction
-
-Cultivators typically remove aborts by hand between flushes to maintain casing hygiene.
-
-Suppressing aborts at the source reduces this labor requirement and minimizes physical disturbance to the [[gadd-mycelial-network-dynamics]], which can otherwise delay subsequent flushes.
-
-### Casing Longevity
-
-Casing surfaces with fewer decaying aborts maintain their structure and water-holding capacity better over multiple flushes.
-
-This could contribute to the higher total dry mass observed in treated cultures (3.4–3.9 g vs. 2.3–2.9 g per 10 g substrate).
-
-## Relationship to Annulus Loss
-
-The suppression of incomplete fruit bodies should be considered alongside the annulus loss observed in the same study.
-
-Together, these effects suggest a trade-off between developmental efficiency and morphological fidelity — a recurring theme in plant hormone biology where growth-promoting treatments increase yield but change appearance.
-
-The observation in fungi suggests this principle may extend beyond the plant kingdom.
-
-## Unanswered Questions
-
-- Does abort suppression occur at concentrations other than 0.01 ppm?
-- Is the effect species-specific, or does it generalize to other cultivated fungi?
-- At what developmental stage does brassinosteroid action prevent aborts?
-- Does the effect persist across more than five flushes?
-- Can the effect be replicated with natural brassinosteroids?
-- Does the annulus loss correlate with abort suppression, or are they independent?
-
-## Relevance to Commercial Cultivation
-
-In commercial mushroom operations, abort rates of 10–30% are common for species like [[genetic-improvement-agaricus-bisporus-molecular-approaches]].
-
-If brassinosteroid treatment proves effective across fungal species, it could represent a novel approach to reducing abort rates without modifying environmental parameters or substrate formulations.
-
-## Source
-
-- Gartz, J., Adam, G., & Vorbrodt, H.-M. (1990). Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis. Naturwissenschaften, 77, 388–389.
-
-## See Also
-- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
-- [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
-- [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
-- [[brassinosteroid]]
-- [[agaricus-bisporus]]

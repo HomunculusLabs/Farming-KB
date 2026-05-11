@@ -78,7 +78,7 @@ range likely more extensive than literature indicates.
 
 ## The Genus Gymnopilus
 
-Gymnopilus species give rusty orange to yellow-orange spore prints, are
+Gymnopilus species give rusty orange to yellow-orange [[macrofungal-documentation-photography-spore-prints]], are
 medium to large, prefer wood, and typically have dry caps and
 well-developed veils. Ten species confirmed psilocybin-active per Allen
 and Gartz (1992): G. aeruginosus, G. braendlei, G. intermedius,
@@ -88,54 +88,3 @@ G. validipes, and G. viridans.
 ### Critical Safety Warning
 
 All readers should familiarize themselves with Galerina before
-ingesting Gymnopilus. Both produce rusty spores and can have rings.
-A mistake between the two could be deadly. Those not skilled at
-identification should avoid experimenting with Gymnopilus species.
-
-### Gymnopilus aeruginosus (Peck) Singer
-
-"Magic blue gym." Cap 2-23 cm, dull bluish gray green to variegated
-green and yellow, hygrophanous, tawny scales. Gills adnexed to adnate,
-cream buff to pale orangish. Stem 30-120 mm by 4-40 mm. Spores rusty
-brown to rusty orange, ellipsoid, 6-9 by 3.5-4.5 um.
-
-**Habitat**: Gregarious to cespitose on [[fungal-succession-woody-debris-ecology]], [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]],
-sawdust, stumps. May-September. **Distribution**: Much of the US,
-central to northern Europe, Japan. **Potency**: Moderately active.
-Bitter taste, slight oily farinaceous odor with hints of anise.
-
-### [[gymnopilus-purpuratus]] (Cooke and Mass.) Singer
-
-Cap 1-5 cm, reddish purplish brown with tinges of yellow and green.
-Gills sinuate, waxy yellow to brownish cinnamon yellow. Stem 20-40 mm
-by 2-4 mm, stout. Spores bright rusty orange, 6.5-8 by 4.5-5.2 um.
-
-**Habitat**: Rotting wood; in Europe, pig dung with wood chips. Also
-south Australia. **Potency**: Weakly to moderately active. 0.23-0.25%
-psilocybin, 0.21-0.33% psilocin, 0.03-0.05% baeocystin.
-
-### [[gymnopilus-earlei]]
-
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
-- [[allen-gymnopilus-and-other-psychoactive-genera]]
-
-## Merged: Minor Psilocybin Genera - Inocybe and Pluteus
-
-## The Genus Pluteus
-
-Pluteus features primarily wood-decomposing members with caps convex to
-plane, gills pink and free at maturity, and a ringless stem. Most
-species are small to midsized with pinkish to flesh-colored spore
-deposits. Only one active species is detailed by Stamets: Pluteus
-salicinus. Three others have shown activity: P. villosus, P. cyanopus,
-and P. glaucus (from Brazil, with up to 0.28% psilocybin and 0.12%
-psilocin).
-
-### stamets psylo minor genera conocybe gymnopilus
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
-## See Also
-
-- [[stamets-psylo-good-tips-great-trips]]
-- stamets psylo minor genera conocybe gymnopilus
-- [[hypholoma-pluteus-inocybe-conocybe-genera]]
-- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]

@@ -88,14 +88,3 @@ Guzman et al. (1998) specifically excluded several species sometimes erroneously
 hallucinogenic:
 - P. atrobrunnea, P. coprophila, P. pseudobullacea - Lack confirmed indole compounds
 - Psathyrella sepulchralis - Confused with P. zapotecorum; does not contain psilocybin
-- Panaeolus antillarum - Often confused with Copelandia spp.; does not blue and is considered edible
-
-## Related Topics
-
-- neurotropic-fungi-biogeographic-patterns - How sections correlate with geography
-- neurotropic-fungi-in-oceania - Trans-Pacific section distributions
-- [[psilocybin-north-america-pacific-northwest]]
-- [[neurotropic-fungi-in-central-america]]
-- [[brassinosteroid]]
-- [[norbaeocystin]]
-- [[psilocybe-genus-classification]]

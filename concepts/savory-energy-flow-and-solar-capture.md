@@ -1,8 +1,8 @@
 ---
 title: Energy Flow and Solar Capture
 created: 2026-04-26
-aliases: [energy flow, solar energy, energy pyramid, energy tetrahedron,
-          carbon cycle, solar capture, energy capture]
+aliases: [energy flow, [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]], energy pyramid, [[savory-energy-tetrahedron]],
+          carbon cycle, solar capture, [[fukuoka-three-dimensional-solar-energy-capture-rice-paddy]]
 tags: [energy-flow, solar-energy, photosynthesis, ecosystem-productivity,
       sustainability]
 related: [savory-ecosystem-foundation-blocks, savory-water-cycle-management,
@@ -22,7 +22,7 @@ Energy flow is the fourth [[savory-ecosystem-foundation-blocks]] block in Holist
 on [[holmgren-trees-solar-power-plants-detailed]], and management decisions can drastically affect how
 much solar energy is captured and put to productive use. Understanding
 energy flow is essential because it underpins the productivity of all
-other ecosystem processes.
+other [[fungi-in-ecosystem-processes-dighton]].
 
 ## Solar Energy as the Foundation
 
@@ -34,7 +34,7 @@ inedible. Photovoltaic, hydroelectric, wind, and tidal power convert
 energy but not directly into edible forms.
 
 America's current way of life is not sustainable because it demands an
-energy flow that cannot be sustained. Modern agriculture consumes about
+energy flow that cannot be sustained. [[fukuoka-critique-modern-agriculture]] consumes about
 9.8 calories of petrochemical energy to produce one calorie of sunlight
 energy in the form of food. While machinery and petrochemicals may push
 yields higher, they simultaneously distort successional communities,
@@ -62,7 +62,7 @@ three.
 
 ## The Energy Tetrahedron
 
-The discovery of the four missing keys enabled Savory to see that the
+The discovery of the [[savory-four-missing-keys]] enabled Savory to see that the
 old two-dimensional pyramid does not reveal the full possibilities for
 managing energy flow. He reconceived the energy pyramid as two
 tetrahedrons joined at their bases, one aboveground and one belowground.
@@ -88,55 +88,3 @@ This belowground dimension is critically important. A healthy soil
 community depends on continuous energy flow from living roots. When
 plants are managed to maintain active root systems throughout the year,
 as in well-planned grazing systems, underground energy flow sustains
-the organisms that build soil structure, cycle minerals, and maintain
-water-holding capacity.
-
-## The Energy Debt Problem
-
-Traditional approaches to broadening the energy base, such as
-increasing acreage, better crop strains, irrigation, and multiple
-crops, quickly reach the point of energy debt: broadening the base
-requires more energy than it returns in captured sunlight. This occurs
-because many methods damage natural water cycles, mineral cycles, and
-succession to the extent that only increasing outside energy input can
-compensate.
-
-As long as fossil fuel remains abundant and cheap and long-term effects
-are ignored, this fact may appear academic. However, in countries where
-inputs are costly it is already a question of life and death. It
-underlies much of the American farm crisis of the 1980s, and in the
-case of vast but minimally productive rangelands, technical solutions
-are priced far out of reach.
-
-## Managing Energy Flow Holistically
-
-The problems can only worsen until humanity understands and starts to
-manage energy flow as an integral part of succession, water, and mineral
-cycles. This means evaluating every management tool for its effects on
-energy capture, not just on production of a single commodity.
-
-Management practices that maintain year-round green growing plants,
-maximize leaf area, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season, and sustain deep active
-root systems all increase the energy base. Planned grazing that prevents
-overgrazing while maintaining [[savory-animal-impact-and-herd-effect]] can achieve these objectives
-on rangeland while simultaneously improving the other three foundation
-blocks.
-
-## Energy Flow and Community Complexity
-
-Higher successional communities with greater species diversity capture
-more solar energy than simple communities. A diverse plant community
-includes species with different rooting depths, growth forms, and
-phenological patterns that collectively capture light across more of the
-year and from more spatial positions. This is one of the fundamental
-reasons that advancing succession increases productivity and stability.
-## See Also
-
-- [[passive-solar-and-biomass-energy]]
-
-- [[savory-solar-dollars-and-wealth-classification]]
-
-- [[savory-ecosystem-foundation-blocks]] for the four-process framework
-- [[savory-water-cycle-management]] for the water-energy connection
-- [[savory-livestock-grazing-planning]] for managing growing seasons
-  through planned grazing

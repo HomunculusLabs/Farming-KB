@@ -19,7 +19,7 @@ to [[plants-of-the-gods-plant-kingdom-classification|plants]], sharing a common 
 
 ## Major Phyla
 
-The kingdom Fungi is currently divided into several major phyla. **Chytridiomycota**
+The [[kingdom-fungi-phylogeny]] is currently divided into several major phyla. **Chytridiomycota**
 (chytrids) are the most basal fungal group and the only fungi with flagellated
 [[mycorrhiza]] l fungi, ancient symbionts of
 plants. They are obligate symbionts, never found living independently of plant
@@ -27,7 +27,7 @@ roots, and reproduce only asexually.
 
 **Ascomycota** (sac fungi) is the largest phylum, containing over 64,000
 described species. They produce spores inside microscopic sacs called asci.
-This group includes yeast [[saccharomyces-cerevisiae]] visiae]]*), penicillin-producing
+This group includes yeast [[saccharomyces-cerevisiae]]*), penicillin-producing
 *molds* (*Penicillium*), morels, truffles, and plant pathogens like *Cryphonectria
 parasitica* (chestnut blight). Many lichen-forming fungi are ascomycetes.
 
@@ -46,9 +46,9 @@ cryptic species, morphologically identical but genetically distinct lineages,
 has led to a massive increase in described species.
 
 Molecular barcoding, particularly using the ITS (Internal Transcribed Spacer)
-region of ribosomal DNA, has become the standard for fungal identification. The
+region of ribosomal DNA, has become the standard for [[dna-barcoding-fungal-identification]]. The
 UNITE database provides curated reference sequences for fungal ITS barcodes.
-Estimates of total fungal diversity range from 2.2 to 3.8 million species, but
+Estimates of total [[arbuscular-mycorrhizal-fungal-diversity]] range from 2.2 to 3.8 million species, but
 only about 150,000 have been formally described, meaning the vast majority of
 fungal species remain unknown to science.
 
@@ -62,7 +62,7 @@ own kingdom, recognizing their fundamentally different mode of nutrition
 
 Modern phylogenomic analyses, using whole-genome data from hundreds of species,
 have resolved many long-standing controversies. The discovery of Rozellomycota
-(rozellids or cryptomycetes), a group of basal fungi that are primarily
+(rozellids or cryptomycetes), a group of [[chytrid-phylogeny-zoospore-diversity-basal-fungi]] that are primarily
 parasites of other fungi and water molds, has shed new light on the earliest
 branches of the fungal tree of life.
 

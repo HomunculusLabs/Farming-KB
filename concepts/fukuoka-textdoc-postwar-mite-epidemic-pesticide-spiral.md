@@ -11,6 +11,7 @@ created: 2026-04-28
   - [[orchard-management]]
 date: 2026-04-28 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 tags: []
@@ -87,44 +88,3 @@ Environmental management — through tree selection, spacing, and canopy managem
 suppression of pest populations without collateral damage to the ecosystem.
 
 ## The Recklessness of Chemical Control
-
-Given that not even the most rudimentary studies have been done on the effects of sunlight, ventilation, temperature, and humidity on mite
-infestation, Fukuoka considered it totally reckless to try to control these pests with pesticides. Scientists sprayed potent pesticides
-without knowing anything about relationships between the pesticides and natural predators and beneficial fungi that feed on these mites. The
-approach put the cart before the horse — destroying the very organisms that provided natural pest control, then scrambling to find chemical
-substitutes for free ecological services that had been eliminated.
-
-## The Predictable Outcome
-
-Fukuoka did not expect this basic problem to be solved by scientists headed in an entirely different direction, pursuing plans such as
-developing new pesticides that destroy pests at minimal harm to [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. If man had left the mite alone, it would never have
-become a major pest. In Fukuoka's [[fukuoka-natural-orchard-development]], he never had any problem with mites in the citrus trees, or if he did, the problem
-solved itself through the natural balance of predators and prey in the unsprayed environment.
-
-## Broader Implications for Natural Farming
-
-The mite epidemic illustrates several core principles:
-
-1. **Intervention begets intervention**: Each chemical intervention
-   weakens natural controls and creates new problems demanding further    intervention.
-2. **Scientific reductionism fails in ecology**: Analyzing one variable
-   at a time misses the systemic nature of the problem. 3. **Prevention through non-action**: Maintaining conditions that do
-   not favor pest outbreaks achieves what chemicals cannot. 4. **The cost of ecological ignorance**: Applying pesticides without
-   understanding their effects on the broader food web is actively    destructive.
-
-The comparison with other pesticide-created problems is instructive. The same dynamic appeared repeatedly: the cottony-cushion scale re-emerged after broad-spectrum pesticides killed the vedalia ladybug; the red wax scale exploded after fluorine pesticides eliminated parasitic wasps; rice leafhoppers developed resistance after repeated spraying campaigns. Each case followed the same script — natural controls existed, chemicals destroyed them, the pest returned worse than before, and more chemicals were applied in a futile cycle.
-
-## The Deeper Lesson: Unknowability and Non-Action
-
-The natural world is fundamentally unknowable through the methods of science. The relationships between organisms, climate, soil, and
-countless other variables form a web so complex that no amount of research can ever fully map it. Given this fundamental unknowability,
-the rational response is not to intervene more precisely but to intervene less. The farmer who refrains from spraying does not know
-exactly why the mites do not become a problem — he simply observes that they do not. His ignorance is in fact wisdom, because he has recognized
-the limits of his understanding and chosen not to act on incomplete knowledge. This is the principle of "doing nothing" at the heart of
-natural farming — not laziness but profound respect for the complexity and self-regulating capacity of natural systems.
-
-## See Also
-
-- [[fukuoka-textdoc-postwar-japanese-agricultural-mechanization-collapse]]
-- [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]]
-- [[natural-farming]]

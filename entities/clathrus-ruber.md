@@ -88,39 +88,3 @@ to new substrates. Germination in vitro takes 2-4 weeks on enriched
 media.
 
 ## Bioactive Compounds
-
-- **Volatile organics:** Dimethyl disulfide, dimethyl trisulfide, and
-  short-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] produce the carrion odor
-- **Phenolic compounds:** Flavonoid-like substances from mycelial
-  extracts show antioxidant activity in vitro
-- Antimicrobial activity documented against *S. aureus* and *E. coli*
-- Not psychoactive; no tryptamine or phenethylamine alkaloids
-
-## Ethnomycology
-
-Illustrated by Pier Antonio Micheli in *Nova Plantarum Genera* (1729),
-among the earliest formally described fungi. In European folklore the
-sudden appearance was associated with malevolent forces — hence
-"devil's fingers." Considered inedible; no verified toxicity exists.
-
-## Cultivation
-
-Deliberate cultivation is rare and of academic interest only.
-It requires pasteurized hardwood chip substrate, incubation at
-22-26°C, and high-humidity fruiting conditions. Yields are
-unpredictable and the species has no commercial applications.
-
-## Related Species
-
-| Species | Distribution | Key Features |
-|---------|-------------|-------------|
-| *C. archeri* | Australia, introduced globally | Star-shaped, pinkish-red |
-| *C. columnatus* | Tropical Africa, Asia | Columnar, less latticed |
-| *Aseroe rubra* | Australia, Pacific | Star-shaped, central disc |
-
-## See Also
-
-- [[phallus-impudicus]]
-- [[sphaerobolus-stellatus]]
-
-See also: [[dictyophora-indusiata]]

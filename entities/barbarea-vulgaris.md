@@ -9,13 +9,13 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Agerbirk, N. et al. (2003). "Cyanogenic glucosides and glucosinolates in double defense against herbivores." Journal of Chemical Ecology, 29(8), 1833-1842.
+  - Agerbirk, N. et al. (2003). "Cyanogenic glucosides and glucosinolates in double defense against herbivores." Journal of plant-volatile-communication-chemical-ecology, 29(8), 1833-1842.
   - Kuroki, G. et al. (2019). "Glucosinolate diversity in Barbarea species and their role in plant-insect interactions." Phytochemistry Reviews, 18, 389-411.
-  - Couveur, M. & van Dam, N. (2019). "How to domesticate a wild plant species: the case of Barbarea vulgaris." In: Sustainable Agriculture and New Biotechnologies, Springer.
+  - Couveur, M. & van Dam, N. (2019). "How to domesticate a wild plant species: the case of Barbarea vulgaris." In: [[phosphate-accumulators-sustainable-agriculture]] and New Biotechnologies, Springer.
   - Fernald, M.L. (1950). Gray's Manual of Botany. American Book Company, 8th edition.
 ---
 
-Barbarea vulgaris, commonly known as winter cress, yellow rocket, or herb Barbara, is a biennial or perennial herb in the family Brassicaceae. It is native to Eurasia but has become widely naturalized in North America and other temperate regions.
+Barbarea vulgaris, commonly known as winter cress, yellow rocket, or herb Barbara, is a biennial or perennial herb in the family Brassicaceae. It is native to Eurasia but has become widely naturalized in North America and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 The species is valued as both an edible wild green and an ornamental garden plant. Its bright yellow flower spikes make it conspicuous in spring landscapes across its range.
 
@@ -55,7 +55,7 @@ Winter cress is widely gathered as a spring green in both Europe and North Ameri
 
 The leaves are best harvested before flowering, as they become bitter with maturity. They can be eaten raw in salads, cooked as a potherb, or added to soups and stews.
 
-Nutritional analysis reveals high levels of vitamin C, provitamin A carotenoids, and glucosinolates. The plant compares favorably with cultivated Brassica greens in mineral content.
+[[fukuoka-textdoc-fallacy-infinite-nutritional-analysis]] reveals high levels of vitamin C, provitamin A carotenoids, and glucosinolates. The plant compares favorably with cultivated Brassica greens in mineral content.
 
 Winter cress contains significant amounts of potassium, calcium, and iron. The glucosinolate content is comparable to that of garden cress and watercress.
 
@@ -85,21 +85,6 @@ The species serves as a food plant for several specialist herbivorous insects, m
 
 In European folk medicine, winter cress was used as a spring tonic and blood cleanser. Preparations from the plant were employed to treat scurvy, skin conditions, and digestive complaints.
 
-The species was traditionally consumed as one of the first fresh greens available after winter. This seasonal role gave it cultural significance as a symbol of renewal and vitality.
+The species was traditionally consumed as one of the first fresh greens available after winter. This seasonal role gave it [[amanita-muscaria]] as a symbol of renewal and vitality.
 
-In traditional Chinese medicine, Barbarea vulgaris has been used to treat fever and sore throat. These applications may relate to the antimicrobial properties of its glucosinolate hydrolysis products.
-
-Research interest in Barbarea as a trap crop has grown significantly since the 2010s. The P-type can be planted near susceptible crops to divert flea beetles, which are then killed by saponin ingestion.
-
-## See Also
-
-- [[brassica-oleracea]]
-- [[nasturtium-officinale]]
-- [[sinapis-alba]]
-- [[arabidopsis-thaliana]]
-- [[capsella-bursa-pastoris]]
-- [[raphanus-sativus]]
-- [[brassica-rapa]]
-- [[armoracia-rusticana]]
-- [[brassica-juncea]]
-- [[camelina-sativa]]
+In traditional Chinese medicine, Barbarea vulgaris has been used to treat fever and sore throat. These applications may relate to the [[medicinal-mushroom-antimicrobial-properties]] of its glucosinolate hydrolysis products.

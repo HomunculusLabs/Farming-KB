@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Noordeloos, M.E. (2011). Strophariaceae s. lato. Fungi Europaei, Vol. 13. Candusso Alba.
   - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
-  - Gartz, J. (1994). "Distribution and habitat of psychoactive fungi in Europe." Zeitschrift für Mykologie, 60(1), 15-26.
+  - Gartz, J. (1994). "Distribution and habitat of [[allen-new-zealand-psychoactive-fungi]] in Europe." Zeitschrift für Mykologie, 60(1), 15-26.
   - Allen, J.W., et al. (1992). "A re-evaluation of the distribution of psychoactive fungi." Mycotaxon, 44, 297-318.
   - Breitenbach, J. & Kränzlin, F. (2000). Fungi of Switzerland, Vol. 4. Verlag Mykologia.
 ---
@@ -55,11 +55,11 @@ Despite its psychoactive properties, *S. hornemannii* is seldom sought for recre
 
 ## Distribution and Habitat
 
-*S. hornemannii* has a **holarctic distribution**, occurring across northern Europe, Asia, and North America.
+*S. hornemannii* has a **holarctic distribution**, occurring across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 **Europe:** Scandinavia (particularly common in Norway and Sweden), the Baltic states, northern Russia, the Alps, and the Carpathian Mountains. Recorded less frequently in the British Isles and western Europe.
 
-**North America:** Across Canada and the northern United States, particularly in the Pacific Northwest, the Rocky Mountains, and the Great Lakes region. Also found in New England and the Appalachian highlands.
+**North America:** Across Canada and the northern United States, particularly in the [[psilocybin-north-america-pacific-northwest]], the Rocky Mountains, and the Great Lakes region. Also found in New England and the Appalachian highlands.
 
 **Asia:** Reported from northern Japan, Siberia, and the Himalayan region.
 
@@ -71,7 +71,7 @@ Elevation range is typically 300–1,800 meters, favoring montane and subalpine 
 
 ## Bioactive Compounds
 
-*S. hornemannii* contains **psilocybin and psilocin**, the classic indole [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Analytical studies have confirmed the presence of these compounds, though concentrations are variable and generally lower than in dedicated psychoactive species.
+*S. hornemannii* contains **[[hplc-analysis-of-psilocybin-and-psilocin]]**, the classic indole [[mckenna-tryptamine-hallucinogens-and-consciousness]]. Analytical studies have confirmed the presence of these compounds, though concentrations are variable and generally lower than in dedicated psychoactive species.
 
 **Reported alkaloid concentrations (approximate, from limited analytical data):**
 
@@ -80,38 +80,10 @@ Elevation range is typically 300–1,800 meters, favoring montane and subalpine 
 - **Baeocystin:** Present in trace amounts
 - **Norbaeocystin:** Occasionally detected
 
-The variability in potency reflects differences in substrate, geographic origin, and age of the fruiting body. Collections from northern Europe tend to report higher alkaloid content than North American material, though sample sizes in published analyses are small.
+The variability in potency reflects differences in substrate, geographic origin, and age of the fruiting body. Collections from northern Europe tend to report higher alkaloid content than [[growing-gourmet-north-american-reishi-species]] material, though sample sizes in published analyses are small.
 
-The species also contains typical Strophariaceae [[antifungal-secondary-metabolites-coprophilous-fungi]] including various phenolic compounds. No significant concentrations of toxic compounds have been identified.
+The species also contains typical Strophariaceae [[antifungal-secondary-metabolites-coprophilous-fungi]] including various [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]. No significant concentrations of toxic compounds have been identified.
 
 ## Edibility
 
 *S. hornemannii* is generally considered **non-recommended for consumption** despite being non-toxic in the classical sense. Its psilocybin content produces psychoactive effects at sufficient doses, and the farinaceous taste and texture are considered unappealing for culinary use.
-
-No cases of poisoning by misidentification have been documented, though the genus *Stropharia* includes species of varying edibility. Confusion with toxic species is unlikely given the distinctive greenish cap tint and large size on conifer wood.
-
-## Ecological Role
-
-As a lignicolous saprotroph, *S. hornemannii* contributes to the decomposition of coarse woody debris in coniferous forests. Its preference for well-decomposed logs positions it as a secondary decomposer, breaking down wood that has already been partially colonized by white-rot fungi.
-
-The species is part of the fungal succession on fallen conifer timber, typically appearing after primary colonizers such as *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* and *Fomitopsis pinicola* have begun softening the wood matrix. It contributes to nutrient cycling by releasing bound carbon and nitrogen from recalcitrant conifer lignin.
-
-*S. hornemannii* may also form weak endophytic associations with living conifer roots, though this has not been extensively studied. Its [[king-stropharia-ecological-interactions-permaculture]] with insect fauna colonizing the same dead wood substrate are poorly documented.
-
-## Related Species
-
-*S. hornemannii* is most closely compared to other large, lignicolous Strophariaceae. Within *Stropharia*, the most morphologically similar species is *S. aeruginosa* (the verdigris agaric), which shares the greenish cap tint but grows on hardwood and has a more pronounced blue-green coloration.
-
-*S. rugosoannulata* (wine-cap) is considerably larger and more robust, with a distinctive burgundy cap and white partial veil remnants. Unlike *S. hornemannii*, it is a popular edible and is widely cultivated in garden mulch beds.
-
-The species has historically been placed in *Psilocybe* by some authorities (Noordeloos, 1995) due to its dark spore print and psilocybin content. Modern molecular phylogenetics places it firmly within *Stropharia*, in a clade with *S. coronilla* and *S. semiglobata*.
-
-*S. ambigua* is a closely related North American species found on conifer wood at similar elevations. It is distinguished by its more yellowish cap color and slightly smaller spores.
-
-## See Also
-
-- [[psilocybe-cubensis]] — The most commonly cultivated psilocybin mushroom, for [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
-- [[gymnopilus-junonius]] — The laughing gym, another lignicolous psilocybin-containing agaric
-- [[lignicolous-fungi]] — Ecological category encompassing all wood-decay fungal species
-- [[kuehneromyces-mutabilis-entity]] — Velvet foot, another lignicolous agaric fruiting on similar conifer stumps
-- [[psilocybe-serbica]] — European psychoactive wood-inhabiting Psilocybe, sharing montane distribution

@@ -6,6 +6,7 @@ type: concept
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, water-extraction, bubble-hash, grading]
 ---
 
@@ -28,7 +29,7 @@ The 15-bag system works in two distinct phases:
 
 Phase 1: Wash and separate resin glands from marijuana
 foliage using six screens. This process washes out virtually
-all foliage and contaminants from the starting material.
+all foliage and contaminants from the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]].
 
 Phase 2: The hash-laden water remaining after passing through
 six bags is separated again by running it through eight or
@@ -87,54 +88,3 @@ every bag were of fair quality and smokable, but the middle
 range consistently delivered the best balance of yield and
 purity. Bags at 45, 43, and 25 microns also produced good
 smoking hash, though with lower yields.
-
-## Critical Process Details
-
-Use fresh-frozen bud trim. Large leaves can be used, but they
-have little resin and are not worth the processing effort.
-
-Fill the bags at least halfway up and above the level of the
-screens. The screens must be covered with water before
-introducing plant matter. Pour in cold water and ice first,
-then add the plant material.
-
-Keep the ice mixed with ice-cold water to make it last longer.
-Do not add too much cold water before adding ample ice.
-Temperature should remain at approximately 41 degrees F
-(5 degrees C) throughout.
-
-If foam develops, spray and wash it away to prevent foam from
-depositing resin and debris on the bags. The water color should
-be light green, indicating thorough cleaning.
-
-## Work Bag Management
-
-The "work bag" is the one that contains the bulk of processed,
-resin-less leaf. It is usually drained and set aside so the
-debris inside can be discarded at will. However, the wet leaf
-can be saved: put it in a bag and freeze it. If the material
-is good quality, you can make another extraction from it.
-
-## Two-Run Protocol
-
-The first run processes raw plant material through the initial
-set of bags. The water that passes through the work bag still
-contains suspended resin. This hash-laden water undergoes a
-second run through the finer bags to produce cleaner, more
-refined grades. This two-stage approach is what makes the
-15-bag system superior to simpler 3 or 5-bag methods.
-
-## Purity Testing
-
-The purity of each grade can be tested by pressing it into a
-thin wafer and applying flame. High-quality hash bubbles
-vigorously (full melt), while lower-quality hash containing
-more plant matter burns without bubbling. The amount and color
-of ash after burning also indicates purity: white and clean ash
-signifies high-quality, pure hash.
-
-## See Also
-
-- [[cervantes-washing-machine-hash]]
-- [[cervantes-dry-sieve-hash-pollinator]]
-- [[cervantes-pressing-hash]]

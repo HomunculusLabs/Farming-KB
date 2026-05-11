@@ -76,7 +76,7 @@ sandy plains, and semi-arid hillsides. It is remarkably drought-tolerant,
 surviving prolonged dry seasons of 6 to 9 months.
 
 It also occurs in Caatinga-Atlantic Forest transition zones, growing in
-seasonally dry tropical forests at elevations up to 800 meters. Population
+seasonally dry [[fungal-biodiversity-tropical-forests]] at elevations up to 800 meters. Population
 density varies enormously: some Bahia sites exceed 200 individuals per hectare,
 while others are fragmented and declining due to land conversion.
 
@@ -88,59 +88,7 @@ toucans, and mammals.
 
 The Lear's macaw is heavily dependent on licuri palm nuts. Colonies of this
 Endangered species nest in sandstone cliffs adjacent to licuri stands in Bahia.
-Conservation of licuri populations is directly linked to Lear's macaw survival.
-
-The species provides habitat structure through persistent leaf bases supporting
-epiphytes and invertebrates. Dead standing trunks serve as nesting sites for
-cavity-nesting birds and bats.
-
-Syagrus coronata is listed as Near Threatened on the IUCN Red List. Major
-threats include habitat conversion for agriculture and cattle ranching, fire,
-and unsustainable palm heart harvesting.
-
-## Uses
-
-**Food:** The licuri kernel is a rich source of edible oil similar to coconut
-oil. The kernel is eaten directly or used in traditional sweets. Oil extraction
-remains commercially significant in northeastern Brazil.
-
-**Fiber:** Leaves are used for thatching, basketry, and handicrafts. Fibrous
-leaf sheaths yield cordage for rural construction and fencing.
-
-**Wax:** Leaf surface wax has been traditionally harvested for candle-making and
-polishing, though this practice has declined with synthetic alternatives.
-
-**Fodder:** Fruits and palm heart are used as livestock fodder during the dry
-season. Cattle and goats consume fallen licuri fruits.
-
-**Construction:** Trunk wood is used for fence posts and stilt foundations in
-areas where other construction materials are scarce.
-
-## Cultivation
-
-Syagrus coronata is occasionally cultivated as an ornamental, valued for its
-distinctive trunk pattern and exceptional drought tolerance.
-
-**Climate:** Adaptable to USDA Zones 9B through 11. Tolerates light frost to
-approximately −2°C. Suitable for xeriscaping in arid and semi-arid regions.
-
-**Propagation:** From seed, germinating within 2 to 6 months. Germination is
-improved by removing the hard endocarp and pre-soaking in warm water for 48
-hours.
-
-**Growth rate:** Slow to moderate, with 20 to 40 centimeters of trunk growth
-per year. Full height reached within 20 to 30 years.
-
-**Soil:** Tolerates poor, rocky, and sandy soils. Performs best in well-drained
-situations but is highly adaptable to Caatinga conditions.
 
 ## See Also
-
 - [[syagrus-romanzoffiana]]
-- [[copernicia-prunifera]]
-- [[bactris-gasipaes]]
-- [[elaeis-guineensis]]
-- [[cocos-nucifera]]
-- [[roystonea-regia]]
-- [[phoenix-dactylifera]]
-- [[butia-capitata]]
+- [[natural-fruit-tree-form-and-non-pruning]]

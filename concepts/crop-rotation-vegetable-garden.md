@@ -50,9 +50,9 @@ Single digging with blood, fish, and bone meal applied
 two to three weeks before sowing.
 
 **Suitable crops:** Peas, green beans, runner beans,
-broad beans, Lima beans, soybeans, peanuts, sweet corn,
+broad beans, Lima beans, soybeans, peanuts, [[growing-sweet-corn-organically]],
 okra, spinach, chard, Swiss chard, lettuce, chicory,
-endive, cresses, and globe artichokes.
+endive, cresses, and [[growing-globe-artichokes]].
 
 ### Plot C: Lime-Loving Crops
 Single digging with blood, fish, and bone meal plus
@@ -84,17 +84,7 @@ need more room than peas and beans. The idea that root
 vegetables fork in manured soil is a myth; well-rotted
 manure produces better results in all soils.
 
-If using the deep bed system, manure all plots every year.
+If using the [[hamilton-deep-bed-system]], manure all plots every year.
 Dig manure in during fall and lime in spring before sowing.
 When space is vacant for more than a month during the main
 season, sow a quick-maturing green-manure crop like mustard.
-
-## Filling Gaps
-
-Many modern varieties stay in the ground without
-deteriorating after maturing. Keep a diary recording sowing,
-planting, and harvest dates. After two or three years, a
-pattern emerges. Fill gaps with quick crops or green-manure
-[[green-manures-organic-gardening]]
-- [[organic-pest-disease-control]]
-- [[seasonal-vegetable-planting]]

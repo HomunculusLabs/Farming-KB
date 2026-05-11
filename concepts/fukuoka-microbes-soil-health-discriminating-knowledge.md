@@ -1,13 +1,13 @@
 ---
-title: "Fukuoka on Soil Microbes and non-discriminating-knowledge-and-critique-of-scientific-reductionism"
+title: Fukuoka Microbes Soil Health Discriminating Knowledge
 aliases: [soil [[soil-microorganisms-natural-fertility]] farming, child vs scientist soil knowledge]
-tags: [natural-farming, soil-microbiology, philosophy-of-science, fukuoka]
+tags: [[natural-farming]], soil-microbiology, philosophy-of-science, fukuoka]
 source: masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
 # Soil Microbes and the Failure of Discriminating Knowledge
 
-Masanobu Fukuoka uses the invisible world of soil microorganisms as
+[[masanobu-fukuoka]] uses the invisible world of soil microorganisms as
 a powerful metaphor for the limitations of scientific knowledge and
 the superiority of intuitive, holistic understanding. His discussion
 of soil microbes in "The Natural Way of Farming" bridges the gap
@@ -87,45 +87,3 @@ animals act as nature's tillers. No plant on the face of the earth is
 so weak as to germinate only in plowed soil. Man has no need to plow
 and turn the earth because nature already provides this service
 through its own biological systems.
-
-By killing the soil with plow and chemical fertilizer, farmers create
-the conditions that make a plow appear useful, then rejoice at the
-utility of their tool. The same circular logic applies to fertilizers:
-by depleting soil fertility through intensive cultivation, farmers
-create the conditions that make purchased inputs appear necessary.
-
-## Microbes and Desert Revegetation
-
-Fukuoka extends the soil microbe principle to his desert revegetation
-proposal. He suggests that soil containing seeds and microorganisms
-could be the spark that restores deserts. [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] containing
-seeds and soil rich with microbes, scattered over barren land, would
-allow natural biological processes to begin the work of restoration.
-
-Science rarely looks to microorganisms for an understanding of large
-causal relationships, Fukuoka notes. The perishing of vegetation may
-have triggered a drought, but the plants may have died as a result of
-the action of some microorganism. However, botanists are not bothered
-with microorganisms as these lie outside their field of interest. The
-specialists have gathered such a diverse collection that they have lost
-sight of both the starting line and the finish line.
-
-## The Biosystem Cannot Be Dissected
-
-Fukuoka's ultimate point about soil microbes is epistemological. The
-living and holistic biosystem that is nature cannot be dissected or
-resolved into its parts. Once broken down, it dies. Those who break
-off a piece of nature lay hold of something that is dead, and, unaware
-that what they are examining is no longer what they think it to be,
-claim to "know," "use," or "conquer" nature.
-
-This applies directly to soil science. The soil in a petri dish is not
-the soil in a field. The microorganism in isolation is not the
-microorganism in community. Understanding the parts tells us nothing
-about the whole — and the whole is all that matters for farming.
-
-## See Also
-
-- [[fukuoka-critique-of-scientific-agriculture]] — Broader critique
-- [[fukuoka-no-tillage-direct-seeding-history]] — Practical application
-- [[fukuoka-clay-pellet-desert-greening]] — Desert revegetation

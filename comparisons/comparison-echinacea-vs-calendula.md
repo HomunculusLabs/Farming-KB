@@ -3,7 +3,8 @@ title: "Echinacea vs Calendula"
 tags: [comparison, medicinal-herbs, echinacea, calendula, herbalism]
 date: 2026-05-09
 updated: 2026-05-09
-sources: []
+sources:
+  - "raw/papers/the-permaculture-garden-graham-burnett.md"
 ---
 
 # Echinacea vs Calendula

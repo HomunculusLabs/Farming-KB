@@ -2,7 +2,7 @@
 title: Alder as Nitrogen-Fixing Non-Legume Tree
 created: 2026-04-28
 tags:
-  - permaculture
+  - [[permaculture]]
   - nitrogen-fixing
   - timber-trees
   - erosion-control
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---
@@ -58,7 +59,7 @@ making.
 
 ### Alnus acuminata (Aliso)
 A tree reaching 15-40 metres, native to high altitudes of Central and
-South America. It tolerates temperatures briefly below 0 degrees C and
+[[guzman-psilocybin-mushrooms-south-america]]. It tolerates temperatures briefly below 0 degrees C and
 has a broad, spreading root system. Usual rainfall is 1000-3000 mm or
 more. It has been successfully established in New Zealand. The tree
 coppices well.
@@ -87,42 +88,3 @@ is used for timber.
 
 ### [[tagasaste-nurse-crop-fodder-systems]]. The tree
 coppices well and makes good charcoal.
-
-## Fodder Value
-
-The leaves of common alder are eaten by horses, goats, cows, and sheep.
-The ability of wide-spaced alder plantings to increase fodder production
-several fold through nitrogen fixation and shelter makes them valuable
-components of broadscale-permaculture-techniques-mollison designs.
-
-## Dye and Medicinal Uses
-
-The bark is used in dyeing, producing red, black (with coppers), yellow,
-cinnamon, green, and pinkish-fawn colours depending on the part used and
-mordant applied. Leaves can be used to tan leather or spread across
-floors to catch fleas on their glutinous surface.
-
-Medicinally, a decoction of the bark is used to bathe swellings and
-inflammation, especially of the throat, and has been known to cure
-burning fever. Boiling the inner bark in vinegar produces an external
-wash for lice, scabies, and scabs. The powdered bark and leaves serve
-as an internal astringent and tonic. The bark acts as an internal and
-external haemostatic against haemorrhage.
-
-## Propagation
-
-Propagation is by seed in spring or by cuttings. Suckers can also be
-used for some species. Inoculation with the appropriate Frankia bacteria
-is recommended when planting in new areas without existing alder
-populations.
-
-## Role in Erosion Control
-
-Alders are particularly valuable for riparian zone and wetland
-plantings. Their tolerance of waterlogged conditions and ability to
-stabilise banks with extensive root systems makes them ideal for stream
-bank restoration and flood-prone areas.
-
-## Permaculture Integration
-
-In [[permplant-leucaena-tropical-nitrogen-fixing-tree]]

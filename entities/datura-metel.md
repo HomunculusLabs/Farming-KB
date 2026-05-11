@@ -1,5 +1,5 @@
 ---
-title: Datura metel
+title: Datura Metel
 created: 2026-04-28
 type: species
 tags:
@@ -25,7 +25,7 @@ sources:
 Datura metel is a hallucinogenic and toxic plant belonging to the nightshade
 family Solanaceae. Native to the mountainous regions of Central and South
 Asia, it has a long and well-documented history of use in Ayurvedic medicine
-and Hindu religious ceremonies. Its flowers are sacred to the god Shiva, and
+and Hindu [[entheogenic-folk-religious-ceremonies]]. Its flowers are sacred to the god Shiva, and
 the plant remains one of the most important ethnomedicinal Datura species.
 
 ## Taxonomy
@@ -69,7 +69,7 @@ seeds.
 Datura metel is native probably to the mountainous regions of Pakistan or
 Afghanistan, extending westward through Central Asia. From its Central Asian
 center of origin, the species has been widely introduced and naturalized
-throughout tropical, subtropical, and warm temperate regions of the world.
+throughout tropical, subtropical, and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the world.
 
 The plant grows readily in disturbed habitats, cultivated fields, waste
 grounds, and along roadsides. It prefers well-drained, nutrient-rich soils
@@ -83,54 +83,8 @@ Datura metel contains tropane alkaloids, the same class of compounds found
 in other Datura species and in other members of the Solanaceae family. The
 principal active alkaloids include:
 
-- **Scopolamine (hyoscine):** A major tropane alkaloid with pronounced
+- **[[scopolamine]] (hyoscine):** A major tropane alkaloid with pronounced
   anticholinergic activity. Scopolamine is responsible for many of the
   deliriant and amnesic effects associated with Datura intoxication.
-- **Hyoscyamine:** The predominant alkaloid in many Datura species,
+- **[[hyoscyamine]]:** The predominant alkaloid in many Datura species,
   hyoscyamine is a potent anticholinergic agent that causes dilation of
-  the pupils, increased heart rate, and dryness of the mouth.
-- **Atropine:** A racemic mixture of hyoscyamine, atropine is the most
-  widely recognized tropane alkaloid and is responsible for many of the
-  characteristic physiological effects of Datura species.
-
-The tropane alkaloid profile of Datura metel is similar to that of its close
-relatives D. stramonium and D. innoxia, though the relative proportions of
-individual alkaloids may vary depending on the plant part, stage of growth,
-and environmental conditions.
-
-## Ethnobotanical Uses
-
-In India, Datura metel occupies a unique position at the intersection of
-medicine, religion, and folk practice. The flowers are brought as offerings
-to the Hindu god Shiva, one of the principal deities of the Hindu pantheon.
-Shiva is associated with asceticism, meditation, and the transformative
-powers of consciousness, and the psychoactive properties of Datura are
-believed to facilitate communion with the divine.
-
-The plant is also ritually smoked in various cultural contexts, particularly
-in connection with religious observances and shamanic practices. In
-traditional Ayurvedic medicine, Datura metel has been used for centuries in
-the treatment of various ailments, including respiratory disorders, skin
-conditions, and inflammatory diseases.
-
-Datura metel is regarded as one of the most important hallucinogenic Datura
-species from the perspective of ethnomedical use. Its applications in
-traditional medicine systems, particularly Ayurveda, are extensive and
-well-documented in classical medical texts.
-
-## History
-
-Datura metel has a long history of use in South and Central Asian cultures.
-Its incorporation into Hindu religious practice attests to the antiquity of
-its ceremonial use, and its presence in the Ayurvedic pharmacopoeia
-demonstrates its long-standing importance in traditional medicine.
-
-## See Also
-
-- [[datura-innoxia]]
-
-- [[datura-ceratocaula]]
-
-- [[atropa-belladonna]] — European nightshade with tropane alkaloids
-- [[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tryptamine-containing tree
-- [[tabernanthe-iboga]] — African shrub with ibogaine

@@ -20,10 +20,10 @@ The real value of [[nutrient-dynamic-accumulator-reference]] plants is realized 
 nutrient-rich biomass is effectively recycled back into the garden
 ecosystem. Growing accumulators is only the first step; the critical
 second step is harvesting and processing that biomass through composting,
-mulching, cover cropping, or green manuring so that the concentrated
+mulching, [[comparison-crop-rotation-vs-cover-cropping]], or green manuring so that the concentrated
 nutrients become available to other plants. This page covers the
 practical methods for capturing and redistributing the nutrients
-accumulated by dynamic accumulator plants.
+accumulated by [[dynamic-accumulator-plants-calcium-and-magnesium]].
 
 ## The Nutrient Recycling Principle
 
@@ -41,7 +41,7 @@ Composting is the most versatile and widely applicable method for
 recycling accumulator plant biomass. The composting process breaks down
 plant materials through microbial activity, converting the nutrients
 held in plant tissues into stable, plant-available forms while
-simultaneously building soil organic matter and improving soil
+simultaneously building [[knf-leaf-mold-humus]] and improving soil
 structure.
 
 ### Building a Nutrient-Dense Compost Pile
@@ -49,7 +49,7 @@ structure.
 To create compost that is rich in accumulated nutrients, incorporate a
 diverse mix of accumulator plants into your compost pile. Comfrey
 leaves provide potassium and general nutrient density. Nettles
-contribute nitrogen and iron. Oak leaves add calcium. Buckwheat and
+contribute nitrogen and iron. [[calcium-accumulators-and-oak-leaves]] add calcium. Buckwheat and
 mustard residues provide phosphorus. By combining multiple accumulator
 species, you create a compost that addresses a broad spectrum of plant
 nutrient needs.
@@ -88,37 +88,3 @@ make an excellent calcium-rich mulch.
 ## Cover Cropping with Accumulators
 
 Cover cropping is the practice of growing plants specifically to
-improve the soil rather than for harvest. [[comparison-dynamic-accumulators-vs-cover-crops]] make
-excellent cover crops because they simultaneously build soil organic
-matter, cycle nutrients from deep soil layers, and protect the soil
-surface from erosion. Legume cover crops add the additional benefit of
-[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
-
-### Winter Cover Crops
-
-Many accumulator plants serve as effective winter cover crops. Winter
-rye, [[comparison-lupin-vs-crimson-clover-green-manure]], and hairy vetch can be planted in fall, providing
-soil protection through the winter months and producing significant
-biomass for incorporation in spring. The root systems of these plants
-improve soil structure during the winter, and the above-ground biomass
-provides a substantial nutrient contribution when tilled in before
-planting the main crop.
-
-### Summer Cover Crops
-
-Buckwheat, sudan grass, and cowpeas are productive summer accumulator
-cover crops that grow rapidly during warm weather. Buckwheat is
-particularly useful for its phosphorus-accumulating properties.
-
-## Green Manuring
-
-Green manuring is the practice of growing a crop and then incorporating
-it into the soil while still green and actively growing. This technique
-captures the maximum nutrient value of accumulator plants because the
-tissues are succulent and decompose quickly. Legumes like alfalfa,
-clovers, and vetch are classic [[calcium-accumulators-and-oak-leaves]]
-- [[garden-myths-mulch-and-watering]]
-
-- [[dynamic-accumulators-overview]] covers the concept and plant selection.
-- Green manure and cover crop strategies details species selection
-  and timing for different climates and seasons.

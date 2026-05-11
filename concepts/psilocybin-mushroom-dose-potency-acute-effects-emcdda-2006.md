@@ -87,35 +87,3 @@ Effects vary greatly between individuals and between episodes. The EMCDDA emphas
 ## Acute Physiological Effects
 
 Beyond central nervous system effects, psilocybin mushrooms produce sympathomimetic (adrenergic) responses:
-
-- Pupil dilation (mydriasis)
-- Increased heart rate (tachycardia) and blood pressure
-- Elevated body temperature
-- Increased reflexes and sweating
-
-These are generally mild at recreational doses. The sympathomimetic profile distinguishes psilocybin from pure serotonergic hallucinogens.
-
-## Tolerance and Cross-Tolerance
-
-Short-term tolerance develops rapidly — within hours of initial dose. Cross-tolerance exists with LSD and other serotonergic hallucinogens. Tolerance diminishes over 3–7 days of abstinence. Dutch qualitative research (CAM, 2000) found that users consider mushrooms less pleasant than ecstasy, as mushrooms lack positive mood-altering (entactogenic) effects, naturally limiting frequent consumption.
-
-## Health Risks
-
-### Somatic
-- Nausea and vomiting (most common)
-- Accidental injury from impaired judgment
-- **Poisoning from misidentification** — the most serious risk; toxic *Galerina* species resemble *Psilocybe*
-
-### Mental Health
-- Panic reactions with potentially dangerous behavior
-- Precipitation of latent psychiatric conditions
-- HPPD (Hallucinogen Persisting Perception Disorder — rare)
-- Traumatic "bad trips" with lasting psychological impact
-
-Risk is elevated in those with personal or family history of psychotic disorders.
-
-## See Also
-
-- [[psilocybin-tolerance-cross-tolerance|Psilocybin Tolerance and Cross-Tolerance]]
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006|EU Mushroom Legislation Timeline]]
-- [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006|EU Prevalence and Polydrug Clustering]]

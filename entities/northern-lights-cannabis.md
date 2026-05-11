@@ -17,9 +17,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Sensi Seeds (1985). Northern Lights — strain history and breeding program. Amsterdam."
+  - "Sensi Seeds (1985). Northern Lights — strain history and cervantes-breeding-program-design-goal-setting. Amsterdam."
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
-  - "ElSohly, M.A., et al. (2016). Changes in cannabis potency over the last two decades. Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A., et al. (2016). Changes in [[cannabis-potency-enhanced-flowers]] over the last two decades. Biological Psychiatry, 79(7), 613-619."
   - "Mudge, E.M., et al. (2018). cannabis-sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
   - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug soil-testing-and-analysis, 4(7-8), 660-667."
   - "Lewis, M.A., et al. (2018). Parsing cannabis's complex chemotaxonomy. American Journal of Botany, 105(9), 1-10."
@@ -28,14 +28,14 @@ sources:
 
 # Northern Lights Cannabis Strain
 
-**Northern Lights** is one of the most foundational and celebrated **pure indica cannabis strains** in cultivation history. Originating from Afghani indica landrace genetics and refined in the Pacific Northwest during the late 1970s and early 1980s, Northern Lights set the standard for indica potency, resin production, and therapeutic efficacy. Its compact stature, rapid flowering, and powerful sedative effects have made it one of the most commercially successful and genetically influential strains of all time. Northern Lights has won more Cannabis Cups and cannabis competitions than virtually any other single strain.
+**Northern Lights** is one of the most foundational and celebrated **pure indica cannabis strains** in [[cuthill-mushroom-cultivation-history-19th-century]]. Originating from Afghani indica landrace genetics and refined in the [[psilocybin-north-america-pacific-northwest]] during the late 1970s and early 1980s, Northern Lights set the standard for indica potency, resin production, and therapeutic efficacy. Its compact stature, rapid flowering, and powerful sedative effects have made it one of the most commercially successful and genetically influential strains of all time. Northern Lights has won more Cannabis Cups and cannabis competitions than virtually any other single strain.
 
 ## Lineage and Breeding History
 
 | Parent | Origin | Contribution |
 |--------|--------|-------------|
 | **Afghani Indica #1** | Landrace from [[hindu-kush]] mountains, Afghanistan | Pure indica morphology, resin density, sedative effects, hashish quality |
-| **Afghani Indica #2** | Separate Afghani landrace selection | Genetic diversity, vigor, additional resin profile complexity |
+| **Afghani Indica #2** | Separate Afghani landrace selection | [[biodiversity-fungal-genetic-diversity]], vigor, additional resin profile complexity |
 
 Northern Lights was developed from **11 pure Afghani indica seeds** acquired in the late 1970s and selectively bred in the Pacific Northwest (primarily Washington state) before being brought to Amsterdam by **Nevil Schoenmakers** of **The Seed Bank** (later merged into Sensi Seeds). The breeding program involved extensive inbreeding and selection over multiple generations to stabilize desirable traits:
 
@@ -85,47 +85,6 @@ Northern Lights expresses a rich, earthy terpene profile characteristic of Afgha
 | Terpene | Typical % | Aroma Contribution |
 |---------|-----------|-------------------|
 | **Myrcene** | 0.6–1.2% | Earthy, musky, herbal; dominant terpene; strong sedative properties |
-| **Caryophyllene** | 0.15–0.35% | Peppery, spicy, woody; anti-inflammatory, CB2 receptor binding |
+| **Caryophyllene** | 0.15–0.35% | Peppery, spicy, woody; anti-inflammatory, CB2 [[beta-glucan-receptor-binding]] |
 | **Pinene (α)** | 0.1–0.25% | Pine, fresh; counteracts some myrcene sedation, bronchodilator |
 | **Limonene** | 0.08–0.2% | Citrus, sweet; mood elevation, stress relief |
-| **Humulene** | 0.05–0.15% | Earthy, woody; appetite suppressant |
-| **Linalool** | 0.05–0.15% | Floral, sweet; calming, anxiolytic synergy with myrcene |
-| **Bisabolol** | Trace | Sweet, chamomile-like; anti-inflammatory, skin-soothing |
-
-The overall aroma is **deeply earthy, sweet, and pungent** with notes of pine, wood, and a subtle sweetness reminiscent of hashish — reflecting its Afghani heritage. The flavor when consumed is smooth, earthy, and slightly sweet with a woody aftertaste. The aroma is notably less sharp or citrus-forward than sativa-dominant strains.
-
-## Effects Profile
-
-Northern Lights is the archetype of **pure indica effects**:
-
-- **Onset**: Moderate (10–15 minutes); gentle cerebral onset preceding dominant body effects
-- **Head effects**: Mild euphoria, mental calmness, and contentment; stress dissolution; dreamy, introspective quality; not particularly cerebral or creative — more "blanket" than "spotlight"
-- **Body effects**: Profound physical relaxation spreading from the head downward; heavy limbs; muscle melt; significant tension relief; sedation intensifying progressively
-- **Duration**: 2–4 hours; aftereffects of drowsiness may persist longer
-- **Medical applications**: Insomnia (primary medical use), chronic pain, muscle spasms, anxiety, PTSD-related sleep disturbances, appetite stimulation, nausea relief, fibromyalgia, multiple sclerosis spasticity
-
-Northern Lights is widely regarded as one of the **best strains for sleep** in existence. Its sedative effects are powerful and reliable. For medical cannabis patients, it is frequently recommended for evening/nighttime use. The "couch-lock" effect at moderate-to-high doses is legendary. Novice consumers should be aware that even small amounts can produce significant sedation.
-
-## Genetic Legacy
-
-Northern Lights is arguably the **single most influential strain** in modern cannabis breeding history. Its genetic contribution includes:
-
-- **Direct parent**: Super Silver Haze, Jack Herer, Shiva Skunk, NL x Haze, Northern Lights #5 x Haze, many Sensi Seeds hybrids
-- **Grandparent/contributor**: Blue Dream (through Blueberry x NL), El Niño, Medicine Man, [[white-rhino]], and hundreds more
-- **Indica reference standard**: NL#5 is frequently used as the indica benchmark in breeding programs worldwide
-- **Competition record**: Multiple High Times Cannabis Cup wins (1988, 1989, 1990); numerous additional competition victories globally
-
-## Cultivation Notes
-
-- **Indoor**: Exceptionally well-suited to indoor cultivation; SOG method ideal; 9–16 plants per m² at 12/12 from seed or 4–9 plants per m² with 2–4 weeks vegetative growth
-- **Outdoor**: Prefers temperate climates; finishes early enough for northern latitudes (up to ~50°N); greenhouse cultivation excellent
-- **Nutrients**: Light to moderate feeder; avoid over-fertilization (indica landraces are sensitive to nitrogen burn); increase P/K in weeks 3–6 of flowering
-- **Temperature**: Tolerates cooler nighttime temperatures well; ideal 20–28°C day, 15–20°C night
-- **Training**: Minimal training needed due to natural compact shape; LST and mild defoliation beneficial
-- **Harvest**: 6–7 weeks for NL#1 (faster, slightly less potent); 7–8 weeks for NL#5 (optimal); 60–70% amber trichomes for maximum sedative effect
-
-## See Also
-
-- [[jack-herer-cannabis-strain]] — Northern Lights #5 offspring, sativa-dominant legend
-- [[blue-dream]] — Blueberry × NL cross, one of the most popular modern hybrids
-- [[granddaddy-purple]] — Purple indica for contrasting color and terpene profile

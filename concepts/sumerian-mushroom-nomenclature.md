@@ -1,5 +1,5 @@
 ---
-title: Sumerian [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]] in Allegro's Theory
+title: Sumerian Mushroom Nomenclature
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -7,8 +7,8 @@ tags: [mycology, mushrooms]
 sources: - "raw/papers/allegro-j-the-sacred-mushroomcross.md"
 ---
 # Sumerian Mushroom Nomenclature in Allegro's Theory
-Central to John Allegro's argument in The Sacred Mushroom and
-the Cross was his claim that the secret names of the sacred
+Central to [[john-allegro]]'s argument in [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]] and
+the Cross was his claim that the [[allegro-word-play-and-secret-names-in-scripture]] of the sacred
 mushroom could be traced back to ancient Sumerian, the oldest
 known written language. This Sumerian nomenclature, Allegro
 argued, provided the key to decoding the hidden mushroom
@@ -35,7 +35,7 @@ saves, restores, heals." Allegro connected this to the Hebrew
 Joshua (yehoshua) through a hypothetical Sumerian root.
 **Christ**: "Christ-crucified" was interpreted as meaning
 "semen on the mushroom," a reference to the mushroom's
-preparation and consumption in cultic ritual.
+[[magic-mushroom-preparation-and-consumption-methods]] in cultic ritual.
 **John**: Allegro derived this from the Sumerian GAN-NU,
 meaning "red dye," referencing the mushroom's distinctive
 red cap.
@@ -45,7 +45,7 @@ as "mushroom" (specifically the fly-agaric).
 the mushroom's physical characteristics, particularly its role
 as a "stone" or "rock" (the word "Peter" means "rock" in Greek).
 ## The Sumerian Religious Context
-Allegro placed the mushroom cult within the broader context of
+Allegro placed [[allegro-death-and-resurrection-in-the-mushroom-cult]] within the broader context of
 Sumerian religion. Civilization, he argued, began in Sumer in
 the Land of the Two Rivers, Mesopotamia. About 4000 BCE, the
 Sumerians were already developing a culture that would affect
@@ -88,27 +88,3 @@ Sumerian, Hebrew, and biblical studies. The response from
 academic reviewers was uniformly negative, with linguists
 pointing out fundamental errors in his understanding of
 Sumerian grammar, phonology, and semantics.
-## Broader Sumerian Connections
-Beyond the specific etymologies, Allegro's general claim about
-Sumerian connections has some scholarly support, though not in
-the direction he intended. It is well established that Sumerian
-culture profoundly influenced the entire ancient Near East,
-including the Hebrews. The Sumerian flood myth, for example,
-shares striking similarities with the biblical account of Noah.
-What is not accepted is that Sumerian could serve as the kind
-of universal decoding key that Allegro proposed.
-## Enduring Influence
-Despite the scholarly failure of his specific etymologies,
-Allegro's focus on Sumerian connections has had an enduring
-influence on popular writing about the ancient Near East and
-psychoactive substances. Subsequent authors have continued to
-cite Sumerian origins for various religious and mythological
-elements, often relying on Allegro's work without acknowledging
-its scholarly rejection.
-## See Also
-- john allegro
-- [[sacred-mushroom-and-the-cross]]
-- [[canaanite-religion-and-mushroom-symbolism]]
-- [[allegro-names-of-the-gods-and-their-fertility-origins]]
-- mushroom-symbols-ancient-languages-rock-art
-- [[allegro-old-testament-figures-as-fertility-deities]]

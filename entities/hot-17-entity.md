@@ -29,11 +29,11 @@ HOT-17 is a psychedelic phenethylamine with documented human activity.
 
 The compound represents the N-hydroxylated version of the  has an ethylthio group.
 
-[[2c-t-7-entity]] has an n-propylthio group.
+[[2c-t-7]] has an n-propylthio group.
 
 [[hot-2-entity]] (from [[hot-7-entity]] (from [[2c-t-entity]]
 
-[[2c-t-7-entity]]
+[[2c-t-7]]
 
 [[hot-7-entity]]
 
@@ -88,17 +88,3 @@ complexity of day-to-day management and observation activities.
 ## Future Directions
 
 Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.

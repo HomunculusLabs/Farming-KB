@@ -14,7 +14,7 @@ topics:
 
 ## Overview
 
-Dr. Elaine Ingham addresses the practical challenges of composting manure and organic materials that contain antibiotic residues, deworming medications, herbicides, insecticides, fungicides, and heavy metals. These contaminants can inhibit the [[cannabis-rhizosphere-microbial-communities]] essential for proper composting. Understanding how to detect and remediate contaminated compost is critical for producing safe, biologically active compost and compost tea.
+Dr. Elaine Ingham addresses the practical challenges of [[hamilton-worm-composting-manure]] and organic materials that contain antibiotic residues, deworming medications, herbicides, insecticides, fungicides, and [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]. These contaminants can inhibit the [[cannabis-rhizosphere-microbial-communities]] essential for proper composting. Understanding how to detect and remediate contaminated compost is critical for producing safe, biologically active compost [[ingham-actinomycetes-soil-biology-and-compost-tea]].
 
 ## Sources of Contamination
 
@@ -36,7 +36,7 @@ Ingham ranks common contaminants by the difficulty they pose for composting:
 1. **Strongylid medicine (de-wormer)** — most difficult to overcome
 2. **Herbicide residues** — particularly persistent synthetic auxins
 3. **Insecticides** — broad-spectrum toxicity to soil foodweb organisms
-4. **Fungicides** — directly suppress the fungal community needed for decomposition
+4. **Fungicides** — directly suppress the [[air-pollution-fungal-community-responses]] needed for decomposition
 5. **Copper and sulfur** — heavy metals from hoof treatments; accumulate over time
 6. **Antibiotics** — generally easier to deal with than the above, as long as concentrations are not overwhelming
 
@@ -55,8 +55,8 @@ If temperature does not respond normally — staying low too long — it signals
 
 When contamination is suspected:
 
-- Add **fish hydrolysate** as a nitrogen source (particularly effective for de-wormer problems)
-- Add **molasses** as an energy source for the microbial community
+- Add **[[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]** as a nitrogen source (particularly effective for de-wormer problems)
+- Add **molasses** as an energy source for the [[edaphic-factors-microbial-community-structure]]
 - These provide the organisms with resources needed to decompose the inhibitory compounds
 
 The rationale: organisms need energy to produce the enzymes required to break down complex pharmaceutical molecules. Without adequate food resources, they cannot mount an effective metabolic response to the contaminants.
@@ -88,42 +88,3 @@ If remediation efforts fail:
 ### Chlordane
 
 - Some bacteria and fungi can decompose chlordane
-- They are not always present in compost starting materials
-- May require specific inoculation
-
-### Pharmaceuticals (Dewormers, Antibiotics)
-
-- Generally manageable if not present in overwhelming concentrations
-- Fish hydrolysate plus molasses is the first-line treatment
-- Commercial inoculants provide backup if initial response is insufficient
-
-### DDT, Dieldrin, Diazinon, Furans
-
-- Legacy organochlorine and organophosphate pesticides
-- Can be decomposed by soil organisms given adequate energy resources
-- Molasses provides the energy needed for microbial enzyme production
-
-## Implications for Compost Tea
-
-Contaminated compost produces contaminated compost tea:
-
-- If the compost contains antibiotic or pesticide residues, those compounds will be extracted into the tea
-- Applying contaminated tea to plants or soil can cause damage
-- The tea will also lack the full diversity of beneficial organisms, as sensitive species were killed during composting
-
-Testing [[aact-compost-quality-standards-ingham]] before brewing is essential. The soil foodweb assessment Ingham recommends includes checking for adequate [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] biomass, protozoan diversity, and the absence of human pathogens.
-
-## Prevention Over Remediation
-
-The most effective strategy is to know the history of your inputs:
-
-- Source manure from operations that minimize pharmaceutical use
-- Avoid grass clippings from lawns treated with persistent herbicides
-- Test compost starting materials when contamination history is unknown
-- Maintain diverse microbial communities that can handle low-level contamination as part of normal function
-
-## See Also
-
-- [[solomon-low-grade-compost-making-methods]]
-- [[ingham-aact-vs-anaerobic-brews-mechanisms-benefits]]
-- [[ingham-bacteria-fungi-succession-humus-formation]]

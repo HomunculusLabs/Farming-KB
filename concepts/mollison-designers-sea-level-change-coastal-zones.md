@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,11 +88,3 @@ while mangrove roots provide habitat for juvenile fish.
 
 Mollison offers several guiding principles for anyone designing in the coastal
 zone. First, observe before acting. Spend at least a full year studying seasonal
-patterns of wave action, storm frequency, and wind direction before committing
-to a design. Second, design for the worst case. A storm that occurs once per
-century will eventually arrive. Third, use living systems for protection
-wherever possible. Biological solutions are self-repairing, self-reinforcing,
-and increase in effectiveness over time.
-
-The coastal zone is an edge of enormous productivity. With careful design that
-## See Also

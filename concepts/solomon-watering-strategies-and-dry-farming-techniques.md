@@ -19,7 +19,7 @@ Rather than following a rigid schedule, Solomon advocates observing the soil and
 
 - **Soil examination:** Dig 4–6 inches with a trowel. If soil at root depth is still moist, do not water. Surface dryness is normal and even desirable as a protective layer. Crumbly, dark soil at depth indicates adequate moisture; powdery or pale soil means it's time to irrigate.
 - **Wilting indicators:** Temporary midday wilting is often normal — many plants fold their leaves to reduce transpiration during peak heat. The real signal is **wilting that persists into the evening** when temperatures drop. That indicates genuine moisture stress requiring action.
-- **Growth stage sensitivity:** Plants are most vulnerable during germination, [[solomon-fertigation-and-transplant-establishment]], flowering, and fruit/seed development. Prioritize these critical windows over routine watering during less demanding vegetative phases.
+- **[[cannabis-growth-stage-checklist]] sensitivity:** Plants are most vulnerable during germination, [[solomon-fertigation-and-transplant-establishment]], flowering, and fruit/seed development. Prioritize these critical windows over routine watering during less demanding vegetative phases.
 
 ## Solomon's Infrequent Deep Watering Approach
 
@@ -53,7 +53,7 @@ Dry farming means growing crops **without any irrigation after establishment**, 
 Choose varieties bred for [[dighton-fungal-drought-tolerance-plant-water-relations]]: Early Girl and Roma tomatoes, tepary beans and garbanzos, flour corns and dent corns for dryland conditions, Hubbard and butternut squash, and grains like amaranth and quinoa. Seed saved from dry-farmed plants improves adaptation over successive generations — a strong argument for saving your own seed.
 
 ### Wider Spacing
-Space plants **50–100% further apart** than standard irrigated-garden recommendations. Fewer plants per bed means each accesses a larger soil moisture reserve, and air circulation improves, reducing disease pressure. The trade-off is fewer plants, but each is far more likely to produce a crop without irrigation.
+Space plants **50–100% further apart** than standard irrigated-garden recommendations. Fewer plants per bed means each accesses a larger soil moisture reserve, and [[stamets-growing-room-air-circulation-co2-management]] improves, reducing disease pressure. The trade-off is fewer plants, but each is far more likely to produce a crop without irrigation.
 
 ### No Irrigation After Establishment
 1. Start transplants with normal irrigation or time seeding to catch spring rains.
@@ -63,15 +63,15 @@ Space plants **50–100% further apart** than standard irrigated-garden recommen
 
 ### Moisture-Retentive Soil Preparation
 - **Deep cultivation** before planting breaks up hardpan and lets roots access subsoil moisture.
-- **Incorporate organic matter** into the root zone to increase water-holding capacity.
+- **Incorporate [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]** into the root zone to increase water-holding capacity.
 - **Minimize tillage** during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] to avoid exposing moisture to evaporation.
 
 ## Organic Matter and Water-Holding Capacity
 
-Each 1% increase in [[humus-and-soil-organic-matter]] allows the soil to hold roughly 20,000 additional gallons of water per acre. Solomon emphasizes:
+Each 1% increase in humus and [[knf-leaf-mold-humus]] allows the soil to hold roughly 20,000 additional gallons of water per acre. Solomon emphasizes:
 
 - **Compost and aged manure** as primary organic matter sources.
-- **Cover cropping** with deep-rooted species (daikon radish, clover, winter rye) to build structure.
+- **[[comparison-crop-rotation-vs-cover-cropping]]** with deep-rooted species (daikon radish, clover, winter rye) to build structure.
 - **Avoiding excessive nitrogen** from fresh manure, which pushes lush, watery growth susceptible to drought stress.
 
 Sandy soils benefit most dramatically, gaining both retention and nutrient capacity. Clay soils gain improved infiltration and root penetration. Solomon notes that building organic matter is not a one-time task but an ongoing commitment — each season's mulch and compost additions compound over years to create soil that holds moisture through extended dry periods without irrigation.
@@ -88,32 +88,3 @@ Solomon prefers drip for established plants but notes overhead is fine for germi
 ## Water Needs by Growth Stage
 
 - **Germination:** Consistent light moisture — never let the seedbed dry out.
-- **Seedling:** Regular moisture to support developing shallow roots.
-- **Vegetative growth:** Moderate water as plants build leaf area and root mass.
-- **Flowering:** Critical window — stress causes flower drop and poor fruit set.
-- **Fruit/seed development:** Peak demand. Irregular watering causes blossom-end rot, cracking, and poor seed fill.
-- **Ripening:** Reduce water for tomatoes, melons, and grapes to concentrate flavors.
-
-## Climate-Specific Advice
-
-- **Arid/semi-arid (<15" rain):** Dry farming is most viable. Use drought varieties, wide spacing, and gravel mulch to capture dew. Plant on contour to capture every drop of rainfall.
-- **Mediterranean (wet winters, dry summers):** Time plantings to mature before summer drought. Winter grains and early spring crops are most efficient.
-- **Temperate humid (25–45" rain):** Irrigation is a backup, not a necessity. Focus resources on the midsummer gap between spring rains and fall moisture. Mulch heavily.
-- **High rainfall (>45" rain):** Shift focus to drainage [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]. Raised beds with well-draining mixes prevent waterlogging.
-
-## Key Takeaways
-
-1. **Water deeply and infrequently** to build deep, resilient root systems.
-2. **Observe soil and plants** rather than following a fixed schedule.
-3. **Mulch heavily** to conserve moisture and [[query-how-do-cover-crops-suppress-weeds]].
-4. **Build organic matter** as the long-term foundation of water retention.
-5. **Dry farm** with proper varieties, wide spacing, and moisture-retentive soil prep.
-6. **Save seed** from top performers to locally adapt varieties over time.
-
-The principles outlined in this guide all reinforce one another: deep roots need deep soil,
-deep soil needs organic matter, organic matter needs mulch, and mulch reduces the
-need for irrigation. Together they form a self-reinforcing system that becomes
-more resilient with each passing growing season. Start where you are — even
-adopting just two or three of these practices will meaningfully reduce your
-garden water dependency within a single season.
-Solomon reframes water as a resource to **manage through soil health and plant selection** rather than a dependency to maintain through constant irrigation.

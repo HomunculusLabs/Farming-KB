@@ -1,7 +1,7 @@
 # Three Types of Lime: Agricultural, Dolomitic, and Gypsum — The pH Myth
 
 **Source:** [[solomon-complete-organic-fertilizer-cof-recipe|Solomon]], S. — *[[hamilton-geoffhamilton-nick-organic-gardening-soil-types-and-management|Gardening]] When It Counts*
-**Concept:** The three lime types used in organic gardening, their distinct roles in supplying calcium and magnesium, and why liming to adjust soil pH is unnecessary in an organic garden.
+**Concept:** The three lime types used [[hamilton-kelp-and-seaweed-in-organic-gardening]], their distinct roles in supplying [[dynamic-accumulator-plants-calcium-and-magnesium]], and why liming to adjust soil pH is unnecessary in an organic garden.
 
 ---
 
@@ -43,7 +43,7 @@ Agricultural lime is the backbone of the COF ([[complete-organic-fertilizer-cof-
 
 ### 2. Dolomitic Lime (Dolomite)
 
-Dolomite is calcium magnesium carbonate (CaMg(CO₃)₂). It supplies both calcium and magnesium in roughly equal proportions.
+Dolomite is [[calcium-magnesium-secondary-nutrients]] carbonate (CaMg(CO₃)₂). It supplies both calcium and magnesium in roughly equal proportions.
 
 - **Primary function:** Supplies magnesium (and some calcium)
 - **Secondary effect:** Raises soil pH
@@ -60,7 +60,7 @@ The practical test: if your soil feels unusually tight or sticky despite adequat
 Gypsum is calcium sulfate (CaSO₄·2H₂O). Unlike the other two limes, gypsum does NOT significantly raise soil pH — it is essentially pH-neutral.
 
 - **Primary function:** Supplies calcium without raising pH
-- **Secondary function:** Can help improve soil structure in clay soils (the sulfate ions help flocculate clay particles)
+- **Secondary function:** Can help [[query-how-do-fungi-improve-soil-structure]] in clay soils (the sulfate ions help flocculate clay particles)
 - **Calcium:magnesium ratio:** Very high (no magnesium)
 - **When to use:** When you need calcium but pH is already adequate or high
 - **Special advantage:** Can be used on soils that are already alkaline, where agricultural lime or dolomite would make things worse
@@ -72,7 +72,7 @@ If you do not have access to gypsum, Solomon recommends doubling the quantity of
 
 ## The COF Lime Blend
 
-In Solomon's Complete Organic Fertilizer, all three lime types appear:
+In Solomon's [[complete-organic-fertilizer-cof]], all three lime types appear:
 
 - 1 part agricultural lime (calcium carbonate)
 - 1 part gypsum (calcium sulfate) — or double the agricultural lime if gypsum unavailable
@@ -88,34 +88,3 @@ Solomon's argument against pH-focused liming has several components:
 
 ### 1. pH Is a Symptom, Not a Cause
 Low pH usually indicates calcium deficiency relative to other cations (hydrogen, aluminum, manganese). Supply the calcium through COF and organic matter, and the pH rises naturally as a side effect.
-
-### 2. Organic Matter Buffers pH
-The humus created by decomposing organic matter acts as a pH buffer, moderating both acidity and alkalinity. As you build soil organic matter through compost and manure additions, the soil's pH naturally trends toward neutral.
-
-### 3. Direct pH Correction Can Cause Imbalances
-If you add lime purely to raise pH, you may over-supply calcium (or calcium + magnesium if using dolomite) relative to other nutrients. This creates new imbalances that can be as problematic as the original low pH.
-
-### 4. Vegetables Have Different pH Preferences
-No single pH value is optimal for all vegetables. Potatoes prefer slightly acidic soil (pH 5.0-5.5); brassicas prefer slightly alkaline (pH 6.5-7.5). Rather than trying to achieve a "perfect" pH, focus on providing balanced nutrition (calcium, magnesium, [[solomon-phosphorus-potassium-and-secondary-nutrients|phosphorus]], potassium, trace minerals) and let each crop access what it needs from a well-mineralized, biologically active soil.
-
-### 5. William Albrecht's Cation Balance Theory
-Albrecht demonstrated that plant health correlates more strongly with the balance of exchangeable cations (calcium, magnesium, potassium, sodium, hydrogen) than with pH per se. When calcium dominates the cation exchange sites, soil structure is loose and well-aerated. When magnesium dominates, soil becomes tight and compact. The lesson: manage cation balance, not pH, and plant health follows.
-
----
-
-## Practical Lime Management
-
-- **If you use COF routinely**, there will normally be no need to lime the garden separately
-- **COF is formulated** so that when used at the directed amount, it automatically distributes lime at the correct rate
-- **Do not skip dolomite entirely** — vegetables need magnesium, and most soils benefit from the small amount in the COF blend
-- **Do not use dolomite exclusively** — the Ca:Mg balance matters, and too much magnesium tightens soil
-- **If your soil is already alkaline**, use gypsum for calcium and skip agricultural lime and dolomite
-- **If you cannot find gypsum**, double the agricultural lime — less ideal but functional
-
----
-
-## Key Takeaway
-
-The three limes serve different nutritional functions: agricultural lime for calcium, dolomite for magnesium (plus calcium), and gypsum for calcium without pH change. Using all three in the COF blend provides balanced calcium and magnesium supply. The pH will take care of itself as organic matter builds and mineral balance improves.
-
-Stop worrying about pH numbers and focus on providing the minerals vegetables actually need. Test your soil not for pH but for calcium and magnesium levels — and adjust your lime blend accordingly. If calcium is low relative to magnesium, favor agricultural lime and gypsum. If magnesium is low, include some dolomite. If both are adequate, maintain the standard COF blend. This mineral-focused approach produces healthier plants, more nutritious food, and better soil structure than pH-targeted liming ever will.

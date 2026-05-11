@@ -2,7 +2,7 @@
 title: bloomfield ascospore extreme resilience electron microscope survival Resilience and Electron Microscope Survival
 created: 2026-04-28
 tags:
-  - mycology
+  - [[mycology]]
   - ascospores
   - spore-resilience
   - extremophile
@@ -59,7 +59,7 @@ human skin and hair, which absorbs ultraviolet radiation and
 provides chemical resistance. Beneath this pigmented exterior,
 additional layers of chitin and glucan polymers create a
 laminated barrier that is remarkably impermeable to water and
-resistant to enzymatic degradation.
+resistant to [[enzymatic-degradation-in-mycoremediation]].
 
 This multilayered construction is analogous to the design of
 a pressure vessel or a deep-sea submersible hull, where
@@ -88,57 +88,3 @@ The lethal effect of alcohol dehydration likely stems from the
 lipid membranes within the spore wall. While the dry vacuum of
 an electron microscope removes water without attacking the
 structural polymers themselves, alcohol actively disrupts the
-molecular architecture that holds the wall together. This
-distinction between passive desiccation and chemically active
-dehydration reveals that the spore wall, while extraordinarily
-tough, is not a passive shell but a carefully organized
-biochemical composite whose integrity depends on specific
-molecular interactions.
-
-## Implications for Survival in Extreme Environments
-
-Read's experiments lend credence to the idea that certain
-microbes, including fungal spores, might survive apocalyptic
-changes in Earth's climate resulting from events such as ozone
-thinning, global warming, or even nuclear war. The combination
-of cold tolerance, desiccation resistance, and radiation
-hardiness displayed by ascospores makes them strong candidates
-for the title of most durable biological structure on the planet.
-
-The concept of panspermia, which proposes that life can be
-transported between planets on meteorites, gains some support
-from the demonstrated resilience of fungal spores. While no
-experiment has yet tested whether ascospores can survive the
-full duration of interplanetary travel, their ability to endure
-electron microscope conditions suggests they could withstand at
-least some portions of such a journey. The vacuum of space and
-the extreme cold of deep space are conditions that these spores
-have already been shown to tolerate in laboratory settings.
-
-## Parallel Resilience in Lichens
-
-Lichens provide another remarkable example of fungal resilience.
-In their dried state, lichens are phenomenally hardy. For the
-purpose of electron microscopy, a common lichen species was
-bathed in liquid nitrogen, fractured with a steel knife, and
-coated with gold and palladium. Following these insults, the
-lichen was glued to a ceramic specimen holder and subsequently
-grew normally, extending its thin fronds into the air as if
-nothing untoward had transpired.
-
-The resilience of the lichen is a product of both the fungal
-partner's inherent toughness and the physiological adaptations
-of the symbiotic association. When desiccated, the lichen enters
-a state of suspended animation in which its metabolic rate drops
-to nearly zero. This cryptobiotic state, combined with the
-protective pigmentation and wall chemistry of the fungal hyphae,
-
-## See also
-
-- [[bloomfield-lichens-symbiosis-extreme-survival]]
-- [[bloomfield-fungal-spore-discharge-and-dispersal]]
-- bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution
-## See Also
-- [[fungal-hyphae]]
-- [[bloomfield-lichens-symbiosis-extreme-survival]]
-- [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]

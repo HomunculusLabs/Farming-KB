@@ -44,8 +44,8 @@ Fungi qualify as ecosystem engineers through multiple mechanisms.
 Their hyphal networks physically bind soil particles, creating and maintaining soil
 aggregates that are fundamental to soil structure.
 Their metabolic activities alter the chemical composition of soil solution, affecting
-nutrient availability for plants and other organisms.
-Their interactions with plant roots reshape the below-ground resource allocation
+[[ph-and-nutrient-availability-garden-soils]] for plants and other organisms.
+Their interactions with plant roots reshape the below-ground [[mycelial-foraging-resource-allocation]]
 landscape.
 Unlike many ecosystem engineers that modify their environment primarily through
 mechanical means, such as beavers building dams or earthworms burrowing, fungi often
@@ -63,17 +63,17 @@ infiltration, gas exchange, root penetration, and erosion resistance.
 Fungi play a central role in aggregate formation through several mechanisms.
 Hyphal enmeshment physically binds soil particles together, while the production of
 extracellular polymeric substances (EPS) and glomalin-related soil proteins
-(particularly from arbuscular mycorrhizal fungi) acts as a biological glue that
+(particularly from [[arbuscular-mycorrhizal-fungi]]) acts as a biological glue that
 stabilizes aggregates.
 Research has shown that fungal-mediated aggregates are more stable than those formed
 by other biological or physical processes.
 The stability arises from the combination of physical entanglement by hyphae and the
 resistant nature of fungal exudates, which degrade slowly in soil.
 This stability has practical implications for soil management, as practices that
-maintain fungal populations, such as reduced tillage and organic amendments, tend to
-improve soil structure and reduce erosion.
+maintain fungal populations, such as [[comparison-no-till-vs-reduced-tillage]] and organic amendments, tend to
+[[query-how-do-fungi-improve-soil-structure]] and reduce erosion.
 Glomalin, a glycoprotein produced by arbuscular mycorrhizal fungi, has been
-identified as a major contributor to soil organic carbon pools.
+identified as a major contributor to [[soil-organic-carbon-fractions-turnover-dynamics]] pools.
 Glomalin is highly resistant to microbial decomposition and can persist in soil for
 years to decades, providing long-term aggregate stability and contributing to soil
 carbon sequestration.
@@ -88,58 +88,3 @@ White-rot basidiomycetes possess lignin peroxidase, [[fungal-manganese-peroxidas
 [[singh-fungal-laccase-enzymes-bioremediation]] that can oxidatively depolymerize lignin, a feat matched by few
 other organisms.
 Brown-rot fungi employ a non-enzymatic Fenton chemistry mechanism to depolymerize
-cellulose, generating hydroxyl radicals through the reaction of [[cervantes-hydrogen-peroxide-sterilization]]
-with ferrous iron.
-The decomposition activity of fungi has a characteristic spatial pattern that reflects
-their foraging strategy.
-Fungal mycelia typically colonize organic matter from a pre-existing network,
-establishing nutrient conduits between the new resource and the existing mycelial
-biomass.
-This networked approach to decomposition contrasts with the more diffuse activity of
-bacteria and results in more efficient nutrient capture and retention within the
-fungal biomass, reducing leaching losses from the ecosystem.
-The enzymatic capabilities of fungi extend beyond lignin and cellulose to include
-chitin, keratin, cutin, suberin, and a wide range of aromatic compounds.
-This enzymatic versatility allows fungi to decompose virtually all natural organic
-materials and many synthetic compounds, including [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons,
-polychlorinated biphenyls, and certain pesticides.
-This decomposer versatility positions fungi as key organisms in both natural carbon
-cycling and applied bioremediation.
-
-## Mycorrhizal Symbiosis and Plant Nutrition
-
-(Section content removed for length. See source for full details.)
-
-## Common Mycorrhizal Networks
-
-A remarkable consequence of the mycorrhizal symbiosis is the formation of common
-mycorrhizal networks (CMNs), also called mycorrhizal mycelial networks or
-wood-wide webs, in which individual fungal mycelia simultaneously associate with
-multiple plants.
-These networks can connect plants of the same or different species, creating
-below-ground pathways for the transfer of carbon, nutrients, water, and signaling
-compounds between individuals.
-CMNs have been demonstrated to facilitate interplant carbon transfer, with research
-showing that carbon can move from shaded to illuminated seedlings, from adult trees
-to seedlings in the understory, and between species with different photosynthetic
-capacities.
-The ecological implications include potential facilitation of seedling establishment,
-maintenance of species diversity through differential resource sharing, and
-coordination of physiological responses to environmental stress across plant
-communities.
-
-## Weathering and Mineral Transformation
-
-Fungi contribute to rock weathering and mineral transformation through both direct
-and indirect mechanisms.
-Direct mechanisms include the production of organic acids (oxalic, citric, gluconic)
-that dissolve mineral surfaces, the secretion of siderophores that chelate iron and
-other metals, and the physical penetration of mineral matrices by hyphal tips
-## See Also
-
-- [[common-mycorrhizal-networks]]
-- [[arbuscular-mycorrhizal-fungi]] for AMF symbiosis mechanisms
-- fungal-bioremediation for heavy metal and pollutant cleanup applications
-- [[decomposition]]
-- [[mycelial-networks]]
-- [[mycorrhizal-fungi]]

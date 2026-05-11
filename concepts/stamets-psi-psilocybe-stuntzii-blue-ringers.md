@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-stuntzii]] Blue Ringers Guide
+title: Stamets Psi Psilocybe Stuntzii Blue Ringers
 created: 2026-04-28
 tags: [mycology, psilocybe, species-guide, pacific-northwest]
 date: 2026-04-25
@@ -88,63 +88,3 @@ individual potency.
 The most characteristic feature of this species is its whitish, partial veil
 that bruises bluish or is bluish tinged. The field variety, which is slender
 and paler, is recognized as P. stuntzii var. tenuis. The P. stuntzii group
-encompasses a great variety of forms growing in varied habitats, making it a
-taxonomically complex group.
-
-## The Bluing Reaction: Biochemical Basis
-
-The characteristic blue bruising of Psilocybe species is caused by the
-oxidation of psilocin, a dephosphorylated derivative of psilocybin. When
-mushroom tissue is damaged, the enzyme phosphatase converts psilocybin to
-psilocin, which is then oxidized by atmospheric oxygen to form blue-colored
-quinoid compounds.
-
-This bluing reaction is shared across the genus Psilocybe and several
-related genera. The intensity of bluing does not reliably indicate potency,
-as both psilocybin content and enzyme activity vary independently. Some
-highly active species show minimal bluing, while relatively weak species
-may bruise intensely.
-
-The [[psilocybin-mushroom-identification]] process requires careful attention
-to multiple features beyond bluing, including spore print color, gill
-attachment, habitat, and microscopic characteristics. Relying solely on
-bluing for identification is dangerous given the existence of toxic
-mushroom species that can also show blue discoloration.
-
-## Look-Alike Species and Safety
-
-Several mushroom species growing in similar habitats could be confused with
-P. stuntzii, making accurate identification critical for safety:
-
-- **Galerina species (especially G. marginata)**: Contain deadly amatoxins;
-  share similar brown caps, small size, and habitat on wood debris. Key
-  difference: Galerina has a rusty brown spore print, while Psilocybe has
-  a dark purplish brown to black spore print.
-- **Psathyrella species**: Common on wood chips and mulch; generally
-  larger and lack bluing reaction. Spore print is dark brown to black.
-- **Inocybe species**: Some contain dangerous levels of muscarine. Key
-  difference: Inocybe typically has a fibrillose cap and lacks the
-  membranous annulus.
-- **Panaeolus species**: May contain psilocybin but belong to a different
-  genus; distinguished by black spore print and mottled gills.
-
-All mushroom foragers should follow [[mushroom-foraging-safety]] protocols,
-including positive identification by multiple characteristics, spore print
-verification, and consultation with experienced identifiers before consuming
-any wild mushroom.
-
-## Taxonomic History and Varietal Forms
-
-The taxonomic history of P. stuntzii reflects the complexity of the genus:
-
-- Originally described by Guzman and Ott based on collections by Daniel
-  Stuntz in the [[psilocybin-north-america-pacific-northwest]]
-- The species epithet honors Dr. Stuntz, a mycologist at the University
-  of Washington who contributed significantly to the understanding of
-  Pacific Northwest agarics
-- The synonym "Harris" refers to an earlier taxonomic designation
-- P. stuntzii var. tenuis represents a more slender, paler field form
-
-Molecular phylogenetic studies have confirmed P. stuntzii as a distinct
-species within the section Cyanescens of the genus Psilocybe. Its closest
-relatives include [[stamets-psi-psilocybe-baeocystis-knobby-tops]] and

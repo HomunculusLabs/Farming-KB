@@ -1,6 +1,6 @@
 ---
-title: Plant Proprioception and the Statolith Mechanism of Gravitropism
-source: raw/papers/what-a-plant-knows-daniel-chamovitz.md
+title: Plant Proprioception Statolith Gravitropism Mechanism
+source: what-a-plant-knows-daniel-chamovitz.md
 tags: [plant-senses, gravitropism, proprioception, statolith, amyloplast, plant-orientation, chamovitz]
 created: 2026-05-09
 ---
@@ -62,7 +62,7 @@ the [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]], trig
 
 Another model proposes that amyloplast contact with the
 endoplasmic reticulum or other organelles initiates a
-calcium signalling cascade.
+[[fungal-calcium-signalling]] cascade.
 
 The exact molecular mechanism remains an active area of
 research, though the statolith hypothesis itself is well
@@ -88,60 +88,3 @@ side is inhibited, the root bends downward.
 
 In shoots, the opposite occurs — auxin on the lower side
 promotes elongation, causing the shoot to bend upward.
-
-## Evidence from Space Experiments
-
-Some of the most compelling evidence for the statolith
-hypothesis comes from experiments conducted in microgravity
-aboard the Space Shuttle and International Space Station.
-
-Plants grown in microgravity without normal gravitational
-cues show disoriented growth patterns.
-
-When a centrifuge was used to simulate gravity on the Space
-Shuttle, plants oriented normally relative to the artificial
-gravity vector.
-
-Mutant plants lacking functional amyloplasts are unable to
-sense gravity even under normal conditions, confirming the
-essential role of statoliths.
-
-## Proprioception Beyond Gravity
-
-Plants also exhibit proprioception — the ability to sense
-their own posture and mechanical stress.
-
-When a branch is bent or a stem is leaning, the plant can
-detect this mechanical strain and adjust its growth to
-compensate.
-
-This is known as the "righting response" and involves
-reaction wood formation in trees.
-
-On the underside of a leaning trunk, trees produce tension
-wood that pulls the stem back toward vertical.
-
-This process operates independently of gravity sensing
-and represents a separate proprioceptive capability.
-
-## Clinical and Agricultural Applications
-
-Understanding gravitropism has practical applications in
-agriculture and horticulture.
-
-Nursery trees that are grown at an angle develop stronger
-root systems and may establish better when transplanted.
-
-Controlling root orientation through gravitropic manipulation
-can improve planting efficiency in orchards and vineyards.
-
-In space agriculture, understanding gravitropic mechanisms
-is essential for growing crops in microgravity environments.
-
-## See Also
-
-- [[chamovitz-gravitropism-plant-knows-where-it-is]]
-- [[plant-gravitropism-and-spatial-awareness]]
-- [[plant-gravitropism-spatial-orientation]]
-- [[chamovitz-plant-senses-overview]]
-- [[plant-mechanoperception-thigmomorphogenesis]]

@@ -88,36 +88,3 @@ the same space. The deep tuber system also helps break compacted subsoil layers,
 improving drainage and root penetration for neighboring plants.
 
 ## Pests and Diseases
-
-Groundnut is relatively pest-resistant compared to conventional crops. However,
-several pests and diseases can affect yields. Leaf beetles (Chrysomelidae) may
-feed on foliage but rarely cause significant damage to tuber production. Root
-knot nematodes (Meloidogyne spp.) can galling on tubers in warm southern
-climates, reducing quality and yield.
-
-Fungal diseases including Fusarium wilt and various root rots may occur in
-poorly drained soils. The primary defense is proper site selection with good
-drainage. Crop rotation and avoiding replanting in the same location for 2-3
-years reduces disease pressure. No major [[cervantes-viral-diseases-cannabis]] are commonly reported
-for Apios americana.
-
-## Culinary Preparation and Varieties
-
-Groundnut tubers have a mild, nutty flavor that pairs well with soups, stews,
-and roasted vegetable dishes. [[kava-traditional-preparation-ceremonial-context]] involves long slow boiling
-(30-60 minutes) followed by peeling. Modern varieties developed by breeding
-programs at Louisiana State University and other institutions offer improved
-tuber size and yield.
-
-Several named cultivars now exist, selected for larger tubers and better
-vine vigor. These improved varieties produce tubers 2-3 times the size of wild
-types. Breeding efforts have also targeted earlier maturing types suitable for
-shorter growing seasons in northern climates. The domestication of groundnut
-remains an active area of horticultural research.
-
-## See Also
-
-- [[permaculture-plants-root-crops-and-tubers]]
-- [[permaculture-plant-selection]]
-- [[permaculture-food-forest-design-principles]]
-- [[nitrogen-fixing-trees-and-shrubs]]

@@ -1,9 +1,9 @@
 ---
-title: comparison-cannabis-ice-water-extraction-vs-hashish-guide Water Extraction
+title: Cannabis Ice Water Extraction
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Cervantes - Marijuana Horticulture"
+  - "Cervantes - [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]"
 type: concept
 tags: [cannabis, water]
 ---
@@ -12,7 +12,7 @@ tags: [cannabis, water]
 
 ## Overview
 
-Ice water extraction (also called water hash, Ice-O-Lator hash, ice hash, THC crystal, or bubble hash) separates resin glands from cannabis foliage using cold water agitation and progressively smaller mesh filters. The method was popularized by Mila of Amsterdam with her Ice-O-Lator bags, and later refined by Bubble Man who added multiple screen sizes for quality grading. When very pure, hash bubbles and releases volatile resins when exposed to a flame, hence the name "bubble hash."
+Ice water extraction (also called water hash, Ice-O-Lator hash, ice hash, THC crystal, or [[cervantes-water-hash-bubble-hash]]) separates [[greg-green-trichomes-and-resin-glands]] from cannabis foliage using cold water agitation and progressively smaller mesh filters. The method was popularized by Mila of Amsterdam with her Ice-O-Lator bags, and later refined by Bubble Man who added multiple screen sizes for quality grading. When very pure, hash bubbles and releases volatile resins when exposed to a flame, hence the name "bubble hash."
 
 ## Scientific Principle
 
@@ -88,50 +88,3 @@ For large-scale production, fill a washing machine with ice-cold water. Place fr
 ## Drying Water Hash
 
 After extraction, moisture must be removed quickly to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]:
-
-- Crumble hash and spread on a screen or hard surface
-- Use paper towels under screens to absorb moisture
-- Hand press into a ball and squeeze out water
-- Flatten ball and freeze; ice appears on surface to wipe off
-- Cover with paper towel to prevent dust contamination
-
-## Quality Testing
-
-The bubble test is the key quality indicator: if it don't bubble, it ain't worth the trouble. An inexpensive microscope can inspect resin quality and check for contamination.
-
-## Flavor Considerations
-
-Water-soluble terpenoids that contribute to fragrance and taste dissolve and wash out during extraction. The result is often hash with less flavor and aroma compared to dry-sieved hash.
-
-## Cleaning and Maintenance
-
-Proper cleaning of extraction equipment is essential for quality results:
-
-- Thoroughly rinse out all bags to remove resin and debris after each use
-- Clean screens with 96 percent pure alcohol so no oil-based resin remains
-- Hang bags to dry completely to avoid fungus growth
-- A shower head on a flexible hose helps with cleanup
-- Clean out each bag before starting; timely cleanup prevents clogged sieves
-- Make sure bags are completely dry before storing to avoid mold
-
-Do not squeeze wet hash inside bags; it is too messy and damages the product. Wait until the hash is dry to press so resin heads are not bruised or damaged.
-
-## Safety Considerations
-
-Important safety tips for water extraction:
-
-- Do not let the mixer motor or electrical wiring touch water
-- Use only paddle-style mixers, not chopping blades
-- Do not use the mixer with a small cutting blade to mix the bucket
-- A chopping blade cuts foliage and bruises resin glands
-- Keep the entire operation clean throughout the process
-- Have all supplies ready before starting; no time to look for things mid-process
-
-## See Also
-
-- [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]]
-
-- [[cannabis-kief-collection]]
-- [[cannabis-quality-testing]]
-- [[cannabis-glandular-trichome-types-resin-production-clarke]]
-- [[water-pathways-through-plants]]

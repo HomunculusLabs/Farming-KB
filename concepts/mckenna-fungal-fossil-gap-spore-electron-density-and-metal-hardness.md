@@ -1,6 +1,6 @@
 ---
 title: "mckenna fungal fossil gap spore electron density and metal hardness Gap, Spore Electron Density, and the Metal-Hardness Anomaly"
-source: "Terence McKenna — [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness (Esalen, 1983)"
+source: "[[terence-mckenna]] — [[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness (Esalen, 1983)"
 topic: "panspermia-fungi"
 tags:
   - spore-biology
@@ -54,20 +54,20 @@ to anyone."
 
 ## Spore Casing: The Metal-Hardness Anomaly
 
-The physical casing of the Stropharia cubensis spore is, McKenna reports,
+The physical casing of the [[stropharia-cubensis]] spore is, McKenna reports,
 "one of the hardest organic substances known." More remarkably, the electron
 density of the spore casing approaches that of a metal. Organic materials, as
 a class, have electron densities orders of magnitude below those of metals.
 For a biological structure to approach metallic electron density implies either
 an unprecedented degree of molecular organization or the presence of bonding
-configurations not typically found in organic chemistry.
+configurations not typically found in [[pericyclic-reactions-organic-chemistry]].
 
 The functional significance is clear in the context of panspermia: if spores
 are to survive interstellar space — exposure to cosmic radiation, temperature
 extremes, and the mechanical stresses of ejection from and entry into
 planetary atmospheres — they require a protective casing of extraordinary
 durability. The metallic hardness serves this function far better than the
-fragile cell walls of typical bacterial or botanical spores. It is a design
+fragile [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of typical bacterial or botanical spores. It is a design
 optimized for the harshest conceivable environment.
 
 ## Deep Purple: Ultraviolet Absorption
@@ -88,60 +88,3 @@ stars, where UV flux is orders of magnitude greater than at any planetary
 surface protected by atmosphere and magnetic field.
 
 ## Brownian Motion and Atmospheric Percolation
-
-The mechanism by which spores would escape Earth's atmosphere is, in
-McKenna's account, surprisingly plausible. Fungal spores are among the
-lightest biological structures known. Through Brownian motion — the random
-thermal agitation of microscopic particles — spores can percolate upward
-through the atmosphere, gradually reaching higher altitudes. Most spores
-settle back to Earth or are washed out by rain. But over geological time,
-the sheer number produced by [[brassinosteroid-fungal-fruiting-body-morphology]] bodies ensures that some will
-reach the upper edge of the atmosphere.
-
-At the boundary between atmosphere and space, interaction with energetic
-particles — solar wind, cosmic rays — could provide the final impulse needed
-for a spore to escape Earth's gravitational well. McKenna acknowledges this
-is a strategy where "only one in many billions of spores actually makes the
-transition between the stars." The inefficiency is irrelevant; over billions
-of years, even an extremely low probability becomes a statistical certainty.
-
-## Galactic Crossing on Biological Timescales
-
-McKenna's calculation is straightforward. The galaxy is roughly 100,000
-light-years across. If a spore were moving at only one one-hundredth the
-speed of light — a modest velocity by any advanced technological standard —
-it could cross the galaxy in approximately one hundred million years. Life on
-Earth is 1.8 billion years old: eighteen times longer than the time required
-for a single galactic crossing. On these timescales, the percolation of
-spores between stars becomes not merely possible but inevitable. The same
-principle by which plants migrate into deserts or across oceans — the
-dispersal of propagules by physical forces over geological time — operates
-on a galactic scale.
-
-## The Dialogue and the Dilemma
-
-McKenna positions himself not as a believer but as a participant in dialogue.
-"I don't necessarily believe what the mushroom tells me; rather we have a
-dialogue. It is a very strange person and has many bizarre opinions." He
-compares the dilemma to a child who wishes to destroy a radio to see if there
-are little people inside: he cannot determine whether the mushroom is the
-alien intelligence, or a biological receiver allowing communication with an
-intelligence light-years away, perhaps using Bell's non-locality theorem.
-
-This epistemological humility matters. McKenna is not making a falsifiable
-claim; he is reporting experience content and noting its consistency with
-physical anomalies — the fossil gap, the spore hardness, the UV absorption,
-the Brownian percolation — that lack satisfactory explanation within the
-conventional terrestrial framework. The mushroom's account should be taken
-seriously not because it is provable but because it is productive: it
-generates hypotheses and anomalies that demand investigation.
-
-## See Also
-
-- mckenna-fungi-fossil-record-gap-and-soft-body-contradiction
-
-- [[mckenna-spore-brownian-motion-and-galactic-percolation]]
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]]
-- [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]
-- [[mckenna-borges-sect-of-phoenix-and-aleph-as-tryptamine-secret-metaphor]]

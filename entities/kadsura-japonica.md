@@ -21,11 +21,11 @@ sources:
 
 **Kadsura japonica**, commonly known as kadsura vine or Japanese kadsura, is an evergreen climbing vine native to Japan, Korea, and eastern China. It belongs to the family Schisandraceae and is closely related to the economically important genus Schisandra.
 
-The species is valued in traditional East Asian medicine, where various plant parts have been used for centuries to treat respiratory ailments, digestive disorders, and inflammatory conditions. The berries, leaves, and stems all have documented medicinal applications.
+The species is valued in traditional East Asian medicine, where various plant parts have been used for centuries to treat respiratory ailments, digestive disorders, and [[cannabis-for-inflammatory-conditions]]. The berries, leaves, and stems all have documented medicinal applications.
 
 Kadsura vine is also cultivated as an ornamental evergreen climber in temperate gardens. Its glossy, leathery foliage, fragrant flowers, and bright red fruit provide year-round visual interest on walls, fences, and trellises.
 
-The plant is dioecious, meaning male and female flowers are borne on separate plants. Both sexes must be present for fruit production, which is an important consideration for garden cultivation.
+The plant is dioecious, meaning male and female flowers are borne on separate plants. Both sexes must be present for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], which is an important consideration for garden cultivation.
 
 The genus name Kadsura is derived from the Japanese common name "katsura" for the related Schisandra species. The specific epithet japonica refers to the species' native range in Japan.
 
@@ -55,7 +55,7 @@ Kadsura vine is native to warm-temperate and subtropical regions of East Asia. I
 
 The species grows as an understory vine in warm-temperate evergreen and mixed broadleaf forests. It is most commonly found in moist, shaded ravines, forest margins, and streamside thickets at elevations from 50 to 1,500 meters.
 
-Natural habitats include the understory of Castanopsis-Cyclobalanopsis laurel forests in Japan, where it climbs on tree trunks and shrubs. Common associates include [[camellia-japonica]], [[hydrangea-macrophylla]], and various evergreen oaks.
+[[mushroom-natural-habitats]] include the understory of Castanopsis-Cyclobalanopsis laurel forests in Japan, where it climbs on tree trunks and shrubs. Common associates include [[camellia-japonica]], [[hydrangea-macrophylla]], and various evergreen oaks.
 
 The species is adapted to mild, humid climates with annual precipitation of 1,200 to 2,500 millimeters. It is intolerant of prolonged freezing and is hardy only to approximately minus 10 degrees Celsius.
 
@@ -65,7 +65,7 @@ In cultivation, the vine performs best in coastal and mild inland climates. In a
 
 Kadsura japonica has a long history of use in traditional Japanese and Chinese medicine. In Japan, the dried stems and roots, known as "kadsura" or "tetsukadsura" (iron kadsura), have been used as a warming tonic and anti-inflammatory agent.
 
-Traditional applications include treatment of rheumatic pain, menstrual disorders, digestive complaints, and respiratory conditions such as chronic cough and bronchitis. The berries were used as a general tonic and to promote vitality.
+Traditional applications include treatment of rheumatic pain, menstrual disorders, digestive complaints, and [[cannabis-respiratory-conditions]] such as chronic cough and bronchitis. The berries were used as a general tonic and to promote vitality.
 
 In Kampo medicine, kadsura stem is included in formulations for promoting blood circulation and relieving pain. It is classified as a warming, acrid herb that dispels cold and moves stagnant qi and blood.
 
@@ -83,39 +83,8 @@ The dibenzocyclooctadiene lignans are the most pharmacologically significant gro
 
 Triterpenoids of the lanostane and oleanane types have been isolated from the stems and roots. Several of these, including kadsuracid A and kadsuranic acid A, exhibit anti-inflammatory activity by inhibiting nitric oxide production in macrophages.
 
-The essential oil of the leaves contains linalool, geraniol, and various sesquiterpenes. The aromatic profile of the crushed foliage is dominated by these volatile compounds, which contribute to the characteristic fragrance.
+The essential oil of the leaves contains linalool, geraniol, and various sesquiterpenes. The aromatic profile of the crushed foliage is dominated by these [[mycovolatiles-fungal-volatile-compounds]], which contribute to the characteristic fragrance.
 
-Steam distillation of the leaves yields approximately 0.3 to 0.5 percent essential oil. The oil has been investigated for potential use in perfumery and aromatherapy, though commercial production has not been developed.
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] of the leaves yields approximately 0.3 to 0.5 percent essential oil. The oil has been investigated for potential use in perfumery and aromatherapy, though commercial production has not been developed.
 
 The berries contain a complex mixture of lignans, organic acids, and sugars. The bright red color is due to carotenoid pigments, primarily lycopene and beta-carotene, which accumulate during fruit ripening.
-
-Total lignan content is highest in the stems and roots, which are the primary plant parts used in traditional medicine. The leaves contain lower concentrations but are more accessible for non-destructive harvesting.
-
-## Cultivation
-
-Kadsura vine is an attractive ornamental evergreen climber for mild-climate gardens. It is hardy in USDA zones 8 through 10 and performs best in sheltered, partially shaded positions.
-
-The plant prefers moist, well-drained, humus-rich, acidic soil with a pH of 5.0 to 6.0. It tolerates heavier clay soils if drainage is adequate but is sensitive to waterlogging and drought.
-
-Planting should include provisions for climbing support, such as a trellis, fence, or wall with wires. The vine climbs by twining and does not produce adhesive roots, so it requires a suitable framework to ascend.
-
-For fruit production, both male and female plants must be present. One male plant can pollinate several female plants. Unsexed nursery plants require several years of growth before flowering reveals their sex.
-
-Pruning is best done in late winter or early spring before new growth begins. The vine responds well to moderate pruning to control size and shape, though heavy pruning can reduce flowering.
-
-Propagation is by seed, softwood cuttings, or layering. Seeds require warm stratification followed by cold stratification and may take several months to germinate. Semi-hardwood cuttings taken in late summer root moderately well under mist.
-
-Air layering of established vines is a reliable propagation method that produces large plants relatively quickly. This technique is commonly used in Japanese nursery production.
-
-The species is relatively pest-free in cultivation. Scale insects and spider mites can occasionally be problematic in hot, dry conditions. Root rot caused by Phytophthora can develop in poorly drained soils.
-
-## See Also
-
-- [[schisandra-chinensis]] — Chinese magnolia vine, the most commercially important Schisandraceae species
-- [[schisandra-sphenanthera]] — Southern schisandra, a related medicinal vine
-- [[illicium-verum]] — Chinese star anise, a related aromatic Schisandraceae species
-- [[camellia-japonica]] — Japanese camellia, a native forest companion
-- [[hydrangea-macrophylla]] — Bigleaf hydrangea, a Japanese forest understory shrub
-- [[gardenia-jasminoides]] — Cape jasmine, a fragrant evergreen shrub
-- [[vitis-vinifera]] — Common grape vine, a comparison woody climber
-- [[liriodendron-tulipifera]] — Tulip tree, a more distant Magnoliid relative

@@ -10,9 +10,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Stamets, P. (1996). "Psilocybe Mushrooms of the World." Ten Speed Press.
+  - "raw/papers/mycelium-running-stamets.md"
+  - Stamets, P. (1996). "[[grass-seed-cultivation-of-psilocybe-mushrooms]] of the World." Ten Speed Press.
   - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions Azurescens from New Jersey." Mycotaxon 84: 1-6.
-  - Gartz, J. (1996). "Distribution and Ecological Aspects of Psilocybe azurescens." Integration Journal 1: 68-71.
+  - Gartz, J. (1996). "Distribution and Ecological Aspects of [[psilocybe-azurescens-profile]]." Integration Journal 1: 68-71.
   - Besl, H. et al. (1995). "Neue Erkenntnisse zur Verbreitung von Psilocybe azurescens." Mycologischer Bote 3: 14-16.
 created: 2026-04-28
 ---
@@ -25,7 +26,7 @@ created: 2026-04-28
 
 It was first identified in 1979 by Boy Scouts near the Columbia River in Oregon, and formally described by mycologist Paul Stamets in 1996. The species is endemic to the Pacific Northwest coast of [[psilocybin-north-america-pacific-northwest]].
 
-The mushroom is critically renowned for its exceptional psilocybin and psilocin content, which can exceed 1.8% dry weight combined. This makes it significantly more potent than the more widely known *P. cubensis*.
+The mushroom is critically renowned for its exceptional [[hplc-analysis-of-psilocybin-and-psilocin]] content, which can exceed 1.8% dry weight combined. This makes it significantly more potent than the more widely known *P. cubensis*.
 
 ## Taxonomy
 
@@ -51,7 +52,7 @@ The species belongs to *Psilocybe* section *Azurescens*, which also includes *P.
 
 ## Distribution and Habitat
 
-**P. azurescens** has a narrow natural range along the Pacific coast of North America, from roughly Tillamook, Oregon to Westport, Washington. Small populations have been reported in coastal northern California.
+**P. azurescens** has a narrow natural range along the Pacific coast [[berry-growing]], from roughly Tillamook, Oregon to Westport, Washington. Small populations have been reported in coastal northern California.
 
 The species fruits almost exclusively on coastal dune grasses, particularly *Ammophila arenaria* (European beach grass). Fruiting occurs in late October through December, triggered by the first sustained cold rains and dropping temperatures near freezing.
 
@@ -71,7 +72,7 @@ The combined psilocybin and psilocin content frequently exceeds 2% in dried spec
 
 ## Cultivation
 
-Outdoor cultivation of *P. azurescens* is achievable using alder wood chip beds in temperate coastal climates. Indoor cultivation is considered extremely difficult and rarely successful.
+Outdoor cultivation of *P. azurescens* is achievable using alder wood chip beds in temperate coastal climates. [[cannabis-sativa-indoor-cultivation-techniques]] is considered extremely difficult and rarely successful.
 
 The standard outdoor approach uses pasteurized alder chips or a mix of alder chips and wheat straw, inoculated with grain spawn. Beds are established in shaded, humid locations with temperatures between 10–18°C.
 
@@ -83,34 +84,6 @@ Yields from established outdoor beds can be substantial, with mature patches pro
 
 *P. azurescens* is a primary saprotroph on decaying hardwood debris in coastal dune ecosystems. It plays a significant role in decomposing alder wood and other organic matter deposited by tidal action and wind.
 
-Its association with dune grass root systems suggests a possible weak endophytic or rhizosphere relationship, though it does not form true mycorrhizal associations.
+Its association with dune grass root systems suggests a possible weak endophytic or rhizosphere relationship, though it does not form true [[plants-without-mycorrhizal-associations]].
 
 ## Effects and Experience
-
-Dose ranges for dried *P. azurescens* are notably lower than for other Psilocybe species due to its elevated alkaloid content. A typical threshold dose is 0.5–1.0 g dried, while a full [[leary-psychedelic-experience-bardo-mapping]] ranges from 1.5–3.0 g dried.
-
-The effects profile is characteristic of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]: visual hallucinations, altered time perception, synesthesia, and profound changes in thought patterns. However, users consistently report greater intensity, longer duration (6–8 hours), and more vivid visual effects compared to *P. cubensis* at equivalent visual weights.
-
-The onset is typically 20–40 minutes, with peak effects between 1.5–3 hours. Comedown is gradual over 2–4 hours. Nausea during onset is common.
-
-## Legal Status
-
-*P. azurescens* contains Schedule I controlled substances (psilocybin and psilocin) in the United States and is illegal to possess, cultivate, or distribute under federal law. Several jurisdictions have decriminalized psilocybin-containing mushrooms, including Oregon (where the species is native) and various municipalities.
-
-Internationally, the species is controlled under the UN Convention on Psychotropic Substances (1971). Legal status varies significantly by country, with some nations regulating only the isolated alkaloids rather than the mushroom tissue itself.
-
-## Related Species
-
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** — Wider distribution, slightly lower potency, similar habitat preferences
-- **Psilocybe bohemica** — European counterpart, comparable potency
-- **Psilocybe allenii** — Recently described Pacific Northwest species, close relative
-- **Psilocybe subaeruginosa** — Australian species, similar ecology and potency
-
-## See Also
-
-- [[psilocybin]]
-- [[baeocystin]]
-- [[mycoremediation]]
-- [[5-meo-dmt-entity]]
-- [[amanita-muscaria-entity]]
-- [[mescaline]]

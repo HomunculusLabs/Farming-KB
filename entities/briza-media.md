@@ -25,7 +25,7 @@ sources:
 
 The species is widely cultivated as an ornamental grass for its delicate, heart-shaped spikelets and graceful airy habit. It grows 30–60 cm tall and forms loose, open tufts with fine-textured foliage.
 
-Quaking grass is a characteristic component of traditional hay meadows and calcareous grasslands across much of Europe. It has become naturalized in parts of North America, New Zealand, and southeastern Australia.
+Quaking grass is a characteristic component of traditional hay meadows and calcareous grasslands across much of Europe. It has become naturalized in parts [[berry-growing]], New Zealand, and southeastern Australia.
 
 ## Taxonomy and Morphology
 
@@ -40,7 +40,7 @@ Quaking grass is a characteristic component of traditional hay meadows and calca
 - **Genus:** Briza L.
 - **Species:** B. media L.
 
-The genus Briza contains approximately 12 species distributed across Eurasia, Africa, and South America. Briza media is the type species and the only member of the genus widely distributed in temperate Europe.
+The genus Briza contains approximately 12 species distributed across Eurasia, Africa, and [[guzman-psilocybin-mushrooms-south-america]]. Briza media is the type species and the only member of the genus widely distributed in temperate Europe.
 
 ### Morphology
 
@@ -70,11 +70,11 @@ Quaking grass is easily grown from seed, which germinates readily without strati
 
 Seeds are sown on the soil surface or lightly covered, as they require some light for germination. Spring sowing is standard, though autumn sowing is possible in mild climates. Transplanting of container-grown seedlings is also common.
 
-In the garden, Briza media thrives in full sun to partial shade and well-drained soils of average to low fertility. It tolerates drought once established but performs best with consistent moisture during the growing season.
+In the garden, Briza media thrives in full sun to partial shade and well-drained soils of average to low fertility. It tolerates drought once established but performs best with consistent moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 Plants are relatively short-lived as perennials, typically persisting 3–5 years before the center of the clump dies out. Division every 2–3 years maintains vigorous growth and provides propagation material.
 
-The species is pest and disease resistant under most conditions. Powdery mildew may occur during humid summers but is rarely severe. No regular fertilization is needed; in fact, high nitrogen promotes floppy, lax growth.
+The species is [[hamilton-pest-and-disease-control-organic]] resistant under most conditions. [[cervantes-powdery-mildew-prevention-treatment]] may occur during humid summers but is rarely severe. No regular fertilization is needed; in fact, high nitrogen promotes floppy, lax growth.
 
 ## Ecological Role
 
@@ -84,31 +84,6 @@ The seeds are consumed by several species of small granivorous birds, including 
 
 As a cool-season species, it provides early-season green forage in mixed meadows before warm-season grasses become active. Its relatively low productivity makes it a minor component of modern hay production, but it contributes to species diversity in semi-natural grasslands.
 
-The pendulous spikelets facilitate seed dispersal by wind and by attachment to animal fur. Seeds remain viable in the soil seed bank for 3–5 years, allowing the species to persist through periods of unfavorable conditions.
+The pendulous spikelets facilitate [[clay-pellet-seed-dispersal]] by wind and by attachment to animal fur. Seeds remain viable in the soil seed bank for 3–5 years, allowing the species to persist through periods of unfavorable conditions.
 
 In calcareous grassland restoration, Briza media is a useful indicator species for successful management. Its presence signals that traditional low-intensity grazing or cutting regimes have been maintained.
-
-## Cultural and Economic Significance
-
-Briza media has been a familiar component of the European countryside for centuries, celebrated in folklore and rural traditions. In England, it was traditionally included in bridal bouquets and posies as a symbol of good fortune.
-
-The common name "quaking grass" refers to the constant trembling motion of the spikelets, which was poetically described in Victorian flower language as representing agitation or trembling with emotion.
-
-In the ornamental horticulture trade, Briza media is valued primarily as a cut flower and dried flower material. The heart-shaped spikelets retain their shape and subtle coloration when dried, making them popular in floral arrangements and wreaths.
-
-Several cultivars have been selected for the garden trade. The most widely available include 'Limouzi' (larger, more robust), 'Golden' (yellow-green foliage), and variegated forms with white-striped leaves.
-
-While of limited value as a forage grass due to its low productivity, Briza media contributes to the nutritional diversity of species-rich hay meadows. It has moderate palatability for livestock and is grazed preferentially in early spring.
-
-## See Also
-
-- [[agrostis-stolonifera]]
-
-- [[festuca-ovina]]
-- [[deschampsia-caespitosa]]
-- [[molinia-caerulea]]
-- [[stipa-tenuissima]]
-- [[calamagrostis-x-acutiflora]]
-- [[pennisetum-alopecuroides]]
-- [[cortaderia-selloana]]
-- [[miscanthus-sinensis]]

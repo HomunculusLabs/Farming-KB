@@ -1,5 +1,5 @@
 ---
-title: Fungal [[aquatic-fungi-spore-dispersal-ingold]] and Gravitropic Orientation
+title: [[fungal-spore-dispersal]] Gravitropic Orientation
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 extracted: 2026-05-09
 type: concept
@@ -40,8 +40,8 @@ The spacing between adjacent gills (lamellar spacing) is exquisitely tuned to th
 In P. cubensis, a dramatic switch in tropic behavior occurs at the transition from Stage 2 (spherical pileus) to Stage 3 (open hemispherical pileus):
 
 - **Before Stage 2**: Stipe growth is directed by anemotropism (toward wind) or negative gravitropism (upward growth from the substrate).
-- **At Stage 2**: A new negative geotropic response emerges in the upper stipe, causing the pileus to turn upward from any deviated position, orienting the gills downward.
-- **This recurvature is specific to fertile basidiocarps**: Sporeless mutants do NOT exhibit this gravitropic bending, establishing a direct link between spore production and gravitropic sensitivity.
+- **At Stage 2**: A new negative [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] emerges in the upper stipe, causing the pileus to turn upward from any deviated position, orienting the gills downward.
+- **This recurvature is specific to fertile basidiocarps**: Sporeless mutants do NOT exhibit this gravitropic bending, establishing a direct link between [[geotropism-and-spore-production-in-mushrooms]] and gravitropic sensitivity.
 
 ### The Role of Light
 
@@ -49,14 +49,14 @@ Light plays an essential but possibly indirect role in the gravitropic response 
 
 - The negative geotropic recurvature does not occur in complete darkness, because light is required for spore production.
 - When light is present from above or below, the recurvature occurs regardless of light direction, suggesting that gravity—not light—is the orienting stimulus.
-- The apparent light requirement is therefore likely a consequence of light being necessary for sporulation, which in turn triggers geotropic sensitivity.
+- The apparent light requirement is therefore likely a consequence of light being necessary for sporulation, which in turn triggers [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]].
 
 ### Hormonal Link to Gills
 
 Several lines of evidence connect the gravitropic response to the gill tissue:
 
 - **Decapitation experiments**: Removing the pileus eliminates tropic responses, which can be partially restored by applying agar diffusates from the gills (Hagimoto and Konishi, 1960).
-- **Mushroom hormones**: The hormones responsible for tropic regulation appear to be produced in or regulated by the lamellae (gill tissue).
+- **[[mushroom-hormones-gill-directed-tropism]]**: The hormones responsible for tropic regulation appear to be produced in or regulated by the lamellae (gill tissue).
 - **Sporulation connection**: Since both the gravitropic response and spore production occur in the gills, it is plausible that a common hormonal signal coordinates both processes.
 
 ## Adaptive Significance of Downward Gill Orientation
@@ -75,7 +75,7 @@ The combination of an elevated stipe and downward-facing gills creates an optima
 
 - Spores falling from downward-facing gills enter the air column below the cap.
 - Wind currents beneath the cap capture these falling spores and carry them horizontally.
-- The elevated position of the cap (provided by the stipe) places spores above the boundary layer of still air near the substrate surface, where wind speeds are higher.
+- The elevated position of the cap (provided by the stipe) places spores above the [[boundary-layer-redistribution-fungal-tropism]] of still air near the substrate surface, where wind speeds are higher.
 - The result is maximum horizontal dispersal distance from the parent mushroom.
 
 ### For Clustered (Cespitose) Fruiting
@@ -88,40 +88,3 @@ Many mushrooms, including P. cubensis, produce multiple fruiting bodies in clust
 - The combination of these responses optimizes spore dispersal for the entire cluster.
 
 ## Comparison Across Fungal Groups
-
-Not all fungi orient their spore-producing structures using gravity:
-
-| Fungal Group | Spore Orientation | Dispersal Mechanism | Gravity Role |
-|-------------|------------------|-------------------|--------------|
-| Agarics (gilled mushrooms) | Gills face down | Ballistospore + wind | Critical |
-| Boletes (pored mushrooms) | Pores face down | Passive spore drop | Critical |
-| Polypores (shelf fungi) | Pores face down or outward | Passive spore drop | Moderate |
-| Puffballs | Spores enclosed, released upward | Wind from disrupted sporocarp | Minimal |
-| Coprophilous ascomycetes | Ascospores shot upward | Insect attraction | Inverted |
-| Pilobolus (dung fungus) | Sporangium shot toward light | Ballistic discharge | Secondary to light |
-
-## Evolutionary Perspective
-
-The evolution of gravitropic orientation in mushroom-forming fungi represents an elegant solution to the problem of maximizing spore dispersal in terrestrial environments:
-
-- The earliest mushroom-forming fungi likely grew flat on substrates with minimal stipe development.
-- The evolution of an elevated stipe allowed mushrooms to project spores above the boundary layer into faster-moving air.
-- Gravitropic orientation of the cap ensured consistent gill orientation regardless of substrate angle.
-- The hormonal link between spore production and gravitropism may have evolved as a mechanism to ensure that gills only orient for dispersal when spores are actually mature and ready for release.
-
-## Key Research
-
-- Badham, E.R. (1982). "Tropisms in the mushroom Psilocybe cubensis." Mycologia 74(2): 275-279.
-- Plunkett, B.E. (1961). "The change of tropism in Polyporus brumalis stipes." Annals of Botany 25: 207-222.
-- Hagimoto, H. and Konishi, K. (1960). "Studies on the growth of Coprinus macrorhizus." Botanical Magazine Tokyo 73: 281-286.
-- Money, N.P. (1998). "More g's than the Space Shuttle: ballistospore discharge." Mycologia 90(4): 547-558.
-- Fischer, M.W.F. et al. (2004). "The mechanism of ballistospore discharge." Mycologia 96(5): 978-984.
-- Buller, A.H.R. (1909). Researches on Fungi. Longmans, Green and Co., London.
-- Webster, J. and Weber, R. (2007). Introduction to Fungi. Cambridge University Press, 3rd edition.
-
-## See Also
-
-- [[mushroom-cultivation-basics]]
-- [[mushroom-cultivation-contamination-troubleshooting]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]] grain spawn bulk
-- [[mushroom-fruiting-body-morphogenesis]]

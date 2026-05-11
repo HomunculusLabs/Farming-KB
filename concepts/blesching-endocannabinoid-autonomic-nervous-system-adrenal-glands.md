@@ -1,9 +1,9 @@
 ---
-title: "Endocannabinoid System, Autonomic Nervous System & Adrenal Glands"
-source: "The Cannabis Health Index (Uwe Blesching, PhD, 2015)"
+title: Blesching Endocannabinoid Autonomic Nervous System Adrenal Glands
+source: "The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, PhD, 2015)"
 source_lines: "441-640, 2290-2600"
 tags: [ecs, ans, adrenal-glands, neurochemistry, stress-response]
-related: [[endocannabinoid-system-overview]], [[anandamide-and-the-endocannabinoid-system]], [[tetrahydrocannabinol-thc]], [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching|cb1-receptor]], blesching endocannabinoid autonomic nervous system adrenal glands, blesching endocannabinoid autonomic nervous system adrenal glands, epinephrine, cortisol, neurogenesis
+related: [[endocannabinoid-system-overview]], [[anandamide-and-the-endocannabinoid-system]], [[tetrahydrocannabinol-thc]], [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]], [[blesching-endocannabinoid-emotion-molecules-neurochemistry]] autonomic nervous system adrenal glands, blesching endocannabinoid autonomic nervous system adrenal glands, epinephrine, cortisol, neurogenesis
 ---
 
 # Endocannabinoid System, Autonomic Nervous System & Adrenal Glands
@@ -11,7 +11,7 @@ related: [[endocannabinoid-system-overview]], [[anandamide-and-the-endocannabino
 ## The ECS as a Biological Regulatory Mechanism
 
 All mammals possess an [[endocannabinoid-system-overview]] (ECS), a biological regulatory
-mechanism that operates much like a lock-and-key. Cannabinoid receptors embedded
+mechanism that operates much like a lock-and-key. [[cannabinoid-receptors-cb1-and-cb2]] embedded
 in cell membranes function as the "locks," while cannabinoids — whether produced
 endogenously, extracted from plants, or synthesized — serve as the "keys" that
 activate them. The ECS is involved in balancing and strengthening our nervous
@@ -35,8 +35,8 @@ functions and has two complementary subdivisions:
 
 Cannabis simultaneously relaxes and stimulates the autonomic nervous system by
 enhancing and balancing cellular function across the whole organism — mind and
-body alike. [[anandamide-and-the-endocannabinoid-system]] (AEA), the body's "bliss molecule," binds to both
-[[cb1-receptor|CB1]] and CB2 receptors, initiating simultaneous changes in the
+body alike. [[anandamide-and-the-endocannabinoid-system]] (AEA), the body's "[[anandamide-bliss-molecule]]," binds to both
+CB1 and CB2 receptors, initiating simultaneous changes in the
 central nervous system (primarily via CB1), the immune system (primarily via
 CB2), and the ANS. [[tetrahydrocannabinol-thc]] operates identically: it binds both receptor types
 and activates changes across the CNS, immune system, and ANS at once. Notably,
@@ -48,7 +48,7 @@ physiology.
 
 The blesching endocannabinoid autonomic nervous system adrenal glands sit atop each kidney and contain CB1 receptors, placing
 them under direct endocannabinoid influence. They produce several hormones
-critical to stress response and emotional regulation:
+critical to stress response and [[anandamide-emotional-regulation-blesching]]:
 
 ### Epinephrine (Adrenalin)
 
@@ -88,37 +88,3 @@ remembering."
 ### Vasopressin
 
 Vasopressin, produced by the hypothalamus and released by the pituitary (both
-containing CB1 receptors), is associated with aggression, defensive and
-territorial behavior, and social recognition of facial expressions. The
-endocannabinoid system is involved in the production and release of vasopressin.
-
-## ECS as Bridge Between Body and Mind
-
-The endocannabinoid system serves as a bridge between body and mind. Conscious
-interventions can direct and support the ECS. Several natural activities may
-boost endocannabinoid levels: meaningful social interactions may increase
-anandamide levels naturally; high-intensity endurance exercise significantly
-increases anandamide, producing the well-known "runner's high" through
-exercise-induced endocannabinoid activation; and meditation may also raise
-anandamide.
-
-## Expanded Consciousness
-
-Cannabis constituents enhance left-brain and right-brain functioning, inducing an
-expanded state of consciousness that embraces logic and intuition, individuality
-and oneness, thought and feeling. This dual hemisphere activation may underlie
-many creative and therapeutic effects reported by patients.
-
-## Neurogenesis and Neuroplasticity
-
-The ECS initiates neurogenesis — production of new nerve cells — essential
-to recovery from brain damage and crucial for protecting nerve cells and
-enhancing memory. Through neuroplasticity, the ECS increases our ability to try
-new perspectives and experiences, literally changing brain function for the
-better. Evidence suggests the ECS generates subtle therapeutic shifts in how we
-perceive the world, relate to our internal landscape, and interact with each
-other.
-
----
-
-*Source: Blesching, U. (2015). The [[cannabis-health-index]]. Ch. I–II.*

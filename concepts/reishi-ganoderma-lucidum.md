@@ -11,7 +11,7 @@ type: concept
 
 # Reishi (Ganoderma lucidum)
 
-Ganoderma lucidum is a polypore mushroom of extraordinary cultural and
+[[ganoderma-lucidum]] is a polypore mushroom of extraordinary cultural and
 medicinal significance, known as Reishi in Japan, Ling Chi or Ling Zhi in
 China and Korea, and Mannentake ("10,000 Year Mushroom") in Japanese. Its
 name reflects a deep association with royalty, health, longevity, wisdom,
@@ -50,14 +50,14 @@ life when a specific tincture was laid upon one's chest. Modern research
 has identified numerous [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] including:
 
 - **Polysaccharides**: Beta-glucans with immune-modulating activity
-- **Triterpenes**: Ganoderic acids with anti-inflammatory and hepatoprotective
+- **Triterpenes**: [[ganoderic-acids]] with anti-inflammatory and hepatoprotective
   properties
 - **Anti-HIV effects**: Demonstrated in studies by Kim et al. (1994)
 - **Antioxidant activity**: Shown to scavenge free radicals
 
 Despite extensive medicinal claims including anti-cancer, anti-fatigue, and
 anti-aging properties, no definitive long-term double-blind human studies
-have been published in English. Studies at the Institute of Materia Medica
+have been published in English. Studies at the Institute of [[herbal-materia-medica]]
 in Beijing (1983) showed Ling Chi had no significant effect against lung
 cancer after radiation therapy. The mushroom has also been traditionally
 given by women to men to express romantic interest, as it purportedly
@@ -68,7 +68,7 @@ stimulates sexual virility.
 ### Mycelial Characteristics
 Ganoderma lucidum mycelium on agar is typically white, forming distinctive
 zonate patterns (concentric rings). Strains vary considerably in their
-growth rates and morphology. Many strains develop strong rhizomorphs and
+[[coleman-sunlight-and-winter-crop-growth-rates]] and morphology. Many strains develop strong rhizomorphs and
 produce copious extracellular metabolites that stain the medium amber.
 
 ### Growth Parameters
@@ -81,31 +81,10 @@ Ganoderma lucidum is remarkably responsive to environmental conditions.
 Stem elongation is promoted under elevated CO2 levels above 20,000 ppm,
 while cap development and hymenial formation activate when CO2 falls below
 2,000 ppm. This allows cultivators to intentionally shape the fruitbody,
-producing either conk forms (low CO2, high air exchange) or antler forms
+producing either conk forms (low CO2, high [[growing-gourmet-growing-room-ventilation-air-exchange]]) or antler forms
 (high CO2, restricted air exchange). The antler form is preferred in
 traditional Chinese medicine and has a sweeter, more soothing flavor.
 
 ## Preparation and Use
 
 Reishi is typically extracted in hot water for teas, tinctures, syrups, and
-soups. Fresh specimens are boiled for 5 minutes then steeped for 30
-minutes. A traditional daily regimen calls for 3-5 grams per person. Yellow
-strains tend to be sweeter, while red and black strains are more bitter.
-The well-developed conk forms reveal a more bitter aftertaste compared to
-antler forms with their reduced hymenial surface.
-
-## Asian Allies
-
-In Asia, Ganoderma lucidum has several notable allies including a black
-stalked form and G. tsugae. These allies complicate taxonomic delineation
-and contribute to the genetic diversity available to cultivators and
-researchers studying this important [[gourmet-medicinal-mushroom-casing-layer-techniques]] genus.
-
-## See Also
-
-- [[maitake-grifola-frondosa]]
-- [[biochemistry-of-ligninolytic-fungi-bioremediation]]
-- grain-spawn-production
-- [[ganoderma-lucidum]]
-- [[ganoderic-acids]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]

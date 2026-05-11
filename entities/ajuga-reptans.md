@@ -11,10 +11,10 @@ tags:
   - lamiaceae
   - ajuga
   - ground-cover
-  - permaculture
+  - [[permaculture]]
   - medicinal-herb
   - ornamental
-  - companion-planting
+  - [[companion-planting]]
   - pollinator-plant
   - temperate-climate
   - forest-garden
@@ -34,11 +34,11 @@ created: 2026-04-28
 
 *Ajuga reptans* is a low-growing perennial herb in the family Lamiaceae, native to Europe, North Africa, and western Asia.
 
-Commonly known as bugle or carpet bugle, it forms dense mats of foliage through creeping stolons and is widely used as an ornamental ground cover.
+Commonly known as bugle or carpet bugle, it forms dense mats of foliage through creeping stolons and is widely used as an ornamental [[fukuoka-citrus-orchard-ground-cover-cultivation]].
 
 The species produces spikes of blue to purple flowers in spring that are highly attractive to pollinators.
 
-It has a long history of use in traditional European herbal medicine, particularly as a wound herb and astringent.
+It has a long history of use in traditional European [[childrens-herbal-medicine]], particularly as a wound herb and astringent.
 
 Numerous cultivars with varied foliage coloration have been developed for garden use.
 
@@ -84,51 +84,6 @@ The plant is hardy to USDA zones 3–9 and tolerates cold winters by retreating 
 
 ## Cultivation and Uses
 
-Bugle is widely planted as an ornamental ground cover in shade gardens, woodland gardens, and borders.
+Bugle is widely planted as an ornamental [[fukuoka-ground-cover-strategy]] in shade gardens, woodland gardens, and borders.
 
 Cultivars include 'Burgundy Glow' (tricolored foliage), 'Catlin's Giant' (large leaves and flowers), and 'Atropurpurea' (dark purple foliage).
-
-Propagation is easily achieved by division of established clumps, from stolons, or by seed.
-
-The dense mat-forming habit effectively suppresses weeds once established.
-
-In the garden, bugle provides early-season nectar for bumblebees, solitary bees, and other long-tongued pollinators.
-
-## Bioactive Compounds and Pharmacology
-
-*A. reptans* contains iridoid glycosides, including ajugol and reptoside, which are characteristic [[antifungal-secondary-metabolites-coprophilous-fungi]] of the genus.
-
-Phenolic compounds include caffeic acid derivatives and flavonoids with documented antioxidant activity.
-
-Traditional uses include treatment of wounds, sore throats, and gastrointestinal complaints.
-
-The astringent tannin content supports its traditional application as a wound herb to stop bleeding.
-
-Modern pharmacological studies have confirmed anti-inflammatory and antimicrobial activities for leaf and root extracts.
-
-Topical preparations have shown wound-healing acceleration in animal models.
-
-The plant is generally regarded as safe for traditional use, though comprehensive toxicity data are limited.
-
-## Permaculture Applications
-
-Bugle functions as a dynamic ground cover in food forests and permaculture designs.
-
-Its dense root mat helps stabilize soil on slopes and prevents erosion along pathways and water features.
-
-The plant is effective in the understory layer of [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], tolerating shade from canopy trees.
-
-It serves as a living mulch around fruit trees and shrubs, retaining soil moisture and suppressing weed competition.
-
-Bugle provides [[coleman-overwintered-onions-and-early-spring-crops]] forage for pollinators, supporting [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] populations that enhance crop pollination.
-
-The plant's tolerance of foot traffic makes it suitable for planting between stepping stones in garden paths.
-
-## See Also
-
-- [[prunella-vulgaris]]
-- [[leonurus-cardiaca-entity]]
-- [[symphytum-officinale]]
-- achillea-millefolium
-- [[mentha-piperita]]
-- [[dynamic-accumulators]]

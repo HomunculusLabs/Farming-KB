@@ -9,7 +9,7 @@ sources: []
 
 # Zygomycete Phylum Guide
 
-The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. Zygomycetes include fast-growing molds like bread mold (Rhizopus), while Glomeromycota are the arbuscular mycorrhizal fungi (AMF) essential to terrestrial plant ecology. Modern classification [[fungi-and-their-allies-classification]] has split these into several phyla, but they are often discussed together due to shared historical classification.
+The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. Zygomycetes include fast-growing molds like bread mold (Rhizopus), while Glomeromycota are the [[arbuscular-mycorrhizal-fungi]] (AMF) essential to terrestrial plant ecology. Modern classification has split these into several phyla, but they are often discussed together due to shared historical classification.
 
 ## Zygomycota (sensu lato)
 
@@ -24,16 +24,16 @@ The Zygomycota and Glomeromycota represent two groups of early-diverging fungi. 
 ### Key Genera
 
 #### Rhizopus (Bread Mold)
-Rhizopus stolonifer is the common bread mold, spreading rapidly across bread surfaces with dark sporangia. Rhizopus species [[fungi-and-their-allies-classification]] are also used in food production: R. oligosporus ferments tempeh from soybeans, and R. oryzae is used in Asian fermented foods. However, some species (notably R. arrhizopus, reclassified as Lichtheimia) cause mucormycosis, a serious infection in immunocompromised individuals.
+[[rhizopus-stolonifer]] is the common bread mold, spreading rapidly across bread surfaces with dark sporangia. Rhizopus species are also used in food production: R. oligosporus ferments tempeh from soybeans, and R. oryzae is used in Asian fermented foods. However, some species (notably R. arrhizopus, reclassified as Lichtheimia) cause mucormycosis, a serious infection in immunocompromised individuals.
 
 #### Mucor
-Similar to Rhizopus but lacks rhizoids (root-like structures). Mucor species [[fungi-and-their-allies-classification]] grow rapidly on bread, fruit, and soil. Mucor circinelloides is used in food fermentation but can also cause infections. Mucor hiemalis is a common soil fungus found in cooler environments.
+Similar to Rhizopus but lacks rhizoids (root-like structures). Mucor species grow rapidly on bread, fruit, and soil. Mucor circinelloides is used in food fermentation but can also cause infections. Mucor hiemalis is a common soil fungus found in cooler environments.
 
 #### Absidia
 Found in soil and decaying plant material. Absidia corymbifera can cause mucormycosis. Some Absidia species have been investigated for production of biologically active compounds.
 
 #### Phycomyces
-Known for Phycomyces blakesleeanus, a model organism for studying phototropism (growth toward light) and sensory perception in fungi. The large sporangiophores are sensitive to light, gravity, wind, and chemical signals.
+Known for Phycomyces blakesleeanus, a model organism for studying phototropism (growth toward light) and [[plant-sensory-perception]] in fungi. The large sporangiophores are sensitive to light, gravity, wind, and chemical signals.
 
 #### Mortierella
 Soil fungi, some of which produce arachidonic acid, an omega-6 fatty acid important in infant formula. Some Mortierella species are also predatory on nematodes.
@@ -60,7 +60,7 @@ Soil fungi, some of which produce arachidonic acid, an omega-6 fatty acid import
 ### Key Genera
 
 #### Glomus
-The largest genus of AMF, with hundreds of species described. Glomus intraradices (now Rhizophagus irregularis) is the most widely studied AMF and is commercially available as inoculant. It colonizes a broad range of host plants.
+The largest genus of AMF, with hundreds of species described. Glomus intraradices (now [[rhizophagus-irregularis]]) is the most widely studied AMF and is commercially available as inoculant. It colonizes a broad range of host plants.
 
 #### Rhizophagus
 Formerly grouped within Glomus. Rhizophagus irregularis is the primary species used in commercial mycorrhizal inoculants. It is effective across many crop species and is the most common AMF in agricultural soils.
@@ -77,12 +77,12 @@ Contains F. mosseae, one of the most common AMF worldwide. It is widely used in 
 2. Hyphae enter root cells and form highly branched arbuscules, the site of nutrient exchange
 3. The fungus provides the plant with phosphorus, nitrogen, zinc, and other nutrients
 4. The plant provides the fungus with carbohydrates (sugars) produced through photosynthesis
-5. External hyphae (extraradical mycelium) can connect multiple plants, creating common mycorrhizal networks
+5. External hyphae (extraradical mycelium) can connect multiple plants, creating [[common-mycorrhizal-networks]]
 
 ### Benefits to Plants and Ecosystems
 
 - Enhanced phosphorus uptake (the primary benefit; AMF are especially efficient at P acquisition)
-- Improved drought tolerance through better water absorption
+- Improved [[dighton-fungal-drought-tolerance-plant-water-relations]] through better water absorption
 - Protection against certain soil-borne pathogens
 - Improved soil aggregation through glomalin production (a sticky glycoprotein)
 - Support for plant community diversity and stability
@@ -112,3 +112,17 @@ Mucormycosis is a rare but serious fungal infection caused by Mucorales (especia
 - [[fungal-biology-fundamentals]]
 - [[fungal-biology-fundamentals]]
 - [[mold-identification-guide]]
+## Key Considerations
+
+Understanding the fundamental principles underlying this topic enables more effective practical application. Integration with related concepts strengthens overall system function and provides multiple pathways for implementation and adaptation to specific contexts.
+
+## Common Challenges
+
+Practitioners frequently encounter challenges related to resource availability, environmental variability, and knowledge gaps. Systematic approaches to problem-solving, combined with community knowledge sharing and iterative experimentation, provide effective pathways to overcoming these obstacles.
+
+## See Also
+- [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
+- [[mucormycosis-zygomycete-infections]]
+- [[zoopagales-dimargaritales-zygomycete-mycoparasites]]
+- [[2c-b-psychedelic-empathogen-guide]]
+- [[aact-applications-guide-ingham]]

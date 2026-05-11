@@ -4,6 +4,7 @@ tags: [grapes, viticulture, fruit, permaculture, homesteading, trellising]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "USDA Natural Resources Conservation Service — Vitis Species Profiles (plants.usda.gov)"
   - "Penn State Extension — Wine and Table Grape Production (extension.psu.edu)"
   - "University of California Cooperative Extension — Grape Pest Management (anrcatalog.ucanr.edu)"
@@ -147,4 +148,3 @@ Active canopy management during the growing season dramatically improves fruit q
 ### Other Challenges
 
 - **Pierce's disease:** Bacterial disease fatal to *V. vinifera* in warm climates (transmitted by sharpshooter insects). No cure — use resistant varieties (muscadines, some hybrids) in affected areas.
-- **Birds:** Netting is the most effective deterrent. Scare devices (reflective tape, balloons) provide temporary relief.

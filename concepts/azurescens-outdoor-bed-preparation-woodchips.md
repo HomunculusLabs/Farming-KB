@@ -1,5 +1,5 @@
 ---
-title: Azurescens azurescens outdoor bed preparation woodchips Preparation with Woodchips
+title: Azurescens Outdoor Bed Preparation Woodchips
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
@@ -16,12 +16,12 @@ Outdoor bed preparation for [[stamets-psi-psilocybe-azurescens-species-guide]] c
 
 The choice of wood species directly affects colonization speed, yield, and long-term patch health:
 
-- **Hazelnut** (Corylus avellana): Recommended as excellent for P. azurescens expansion. Fresh cut twigs and chips work well
-- **Beech** (Fagus sylvatica): Widely available as animal bedding in two chip sizes (small for spawn, large for beds)
-- **Alder** (Alnus spp.): Native substrate for P. cyanescens in the Pacific Northwest, suitable for P. azurescens
+- **Hazelnut** ([[corylus-avellana]]): Recommended as excellent for P. azurescens expansion. Fresh cut twigs and chips work well
+- **Beech** ([[fagus-sylvatica]]): Widely available as animal bedding in two chip sizes (small for spawn, large for beds)
+- **Alder** (Alnus spp.): Native substrate for P. cyanescens in the [[psilocybin-north-america-pacific-northwest]], suitable for P. azurescens
 - **General hardwood**: Any fresh hardwood chips are acceptable; avoid conifers and treated lumber
 
-For [[azurescens-spawn-preparation-grain-to-wood]], smaller chip sizes are used to maximize surface area for rapid colonization. For the outdoor bed itself, coarser (larger) chips provide better drainage, air exchange, and longer-term decomposition.
+For [[azurescens-spawn-preparation-grain-to-wood]], smaller chip sizes are used to maximize surface area for rapid colonization. For the outdoor bed itself, coarser (larger) chips provide better drainage, [[growing-gourmet-growing-room-ventilation-air-exchange]], and longer-term decomposition.
 
 ## Bed Construction
 
@@ -55,7 +55,7 @@ The azurescens guide's higher ratio (1:5) reflects the species' slower colonizat
 3. Drain thoroughly before mixing with spawn
 
 ### For Spawn (Sterile)
-1. Soak chips for **48 hours maximum** (exceeding this risks unwanted fungal growth)
+1. Soak chips for **48 hours maximum** (exceeding this risks unwanted [[brassinosteroid-fungal-growth-promotion]])
 2. Drain completely — no standing water
 3. Optional supplementation: 1/2 cup oatmeal or boiled grass seed per bag
 4. Sterilize at 121C for the appropriate duration
@@ -88,21 +88,3 @@ The later the bed is established, the more spawn is required and the later the m
 ## Cardboard as Inoculum Transfer
 
 The wet cardboard used to cover the bed becomes colonized by the mycelium. This colonized cardboard can be used to start new beds:
-1. Place colonized cardboard at the bottom of a new bed
-2. Cover with a layer of wood chips
-3. The mycelium transfers from cardboard to chips
-
-This technique allows indefinite patch expansion without laboratory-grade spawn.
-
-## Perennial Bed Maintenance
-
-- When temperatures drop below 0C, work a layer of fresh wood chips into the top of the patch
-- This provides nutrition for the following year
-- Properly maintained beds can last for decades
-- Add fresh chips each spring to promote continued fruiting
-
-## See Also
-
-- [[outdoor-woodlover-bed-preparation]] — general [[outdoor-woodlover-bed-preparation]] preparation
-- [[outdoor-mushroom-bed-preparation]] — broader outdoor bed methods
-- [[psilocybe-azurescens-profile]] — species profile

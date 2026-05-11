@@ -88,28 +88,3 @@ Hybridization between biotypes has not been documented in natural populations. T
 Hydrilla has been the subject of extensive research on aquatic plant invasion biology, allelopathy, and biological control. Studies on hydrilla have contributed to understanding of turion dormancy mechanisms, clonal dispersal dynamics, and the evolution of invasive phenotypes.
 
 The species is regulated as a noxious weed in numerous countries and U.S. states. Transport, sale, and cultivation of hydrilla are prohibited in most jurisdictions. Despite regulatory restrictions, illegal introduction through the aquarium and water garden trade continues to occur.
-
-Hydrilla management programs in the U.S. represent some of the largest and longest-running aquatic weed control efforts in the world. Florida alone spends approximately $15–20 million annually on hydrilla management in public water bodies. These programs integrate herbicide applications, biological control releases, and public education campaigns.
-
-The economic burden extends beyond direct management costs to include lost revenue from tourism, recreation, and waterfront real estate. Insurance premiums for properties on infested lakes may increase, and some municipalities have been forced to abandon recreational areas due to the expense of ongoing control.
-
-## Economic and Ecological Impacts
-
-Dense hydrilla infestations reduce property values on affected lakes by an estimated 5–20% according to studies in Florida and Texas. Recreational losses include reduced boating access, impaired swimming conditions, and decreased sport fishing quality as native fish habitats are degraded.
-
-Water treatment infrastructure is impacted when hydrilla clogs intake pipes and pumping stations. Hydroelectric facilities experience reduced generating capacity when plant material obstructs turbine intakes. Municipal water systems face increased filtration costs due to elevated turbidity from decomposing plant matter.
-
-Ecological impacts include displacement of native submersed macrophyte communities, alteration of fish community structure, and disruption of migratory waterfowl feeding patterns. In some cases, dense hydrilla beds create habitat for sport fish such as largemouth bass, but these benefits are outweighed by broader ecosystem degradation.
-
-## See Also
-
-- [[ilex-verticillata]]
-
-- [[myriophyllum-spicatum]]
-- [[ceratophyllum-demersum]]
-- [[lemna-minor]]
-- [[sagittaria-latifolia]]
-- [[nymphaea-alba]]
-- [[trapa-natans]]
-- [[alisma-plantago-aquatica]]
-- [[schoenoplectus-lacustris]]

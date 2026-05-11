@@ -88,31 +88,3 @@ interfere with auxin action. Chemical quantification by HPLC-MS/MS is
 necessary to confirm IAA production and determine its concentration.
 
 ## Ectomycorrhizal Fungi
-
-[[hebeloma-crustuliniforme]], Laccaria laccata, [[suillus-bovinus]] have all been shown to produce IAA in culture
-- Production levels vary with culture conditions, media composition, and fungal species
-- Auxin production is often higher in young mycelial cultures
-
-## Additional Bioassay Methods
-
-### Filter Disc Bioassay
-
-For testing culture filtrates or extracted compounds:
-
-1. Apply [[biodiversity-fungal-culture-preservation]] filtrate or extract to filter paper discs
-2. Place discs on MSK agar seeded with Arabidopsis
-3. Compare root responses to IAA standard dose-response curves
-4. For P. indica, 135 microliters of extract per disc was effective
-
-### Culture Filtrate Testing
-
-1. Grow fungus in liquid medium (e.g., M+ medium for P. indica)
-2. Separate mycelium by filtration
-3. Apply sterile filtrate directly to filter discs, or extract with ethyl acetate at pH 3
-## See Also
-
-- mycorrhizal-symbiosis — mycorrhizal [[lichen-symbiosis-mechanisms-photobiont-selection]]
-- [[truffle-auxin-root-morphogenesis]] — truffle-specific auxin effects
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] — AMF biology and symbiosis details
-- [[endophytic-fungi]] — endophytic fungal associations with plants
-- [[mycorrhizal-fungal-diversity]] — diversity of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] communities

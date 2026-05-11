@@ -58,7 +58,7 @@ deep red to crimson, making the rosette appear as a jewel-like structure.
 
 **Gemmae:** Produced in the leaf axils during autumn, gemmae are 0.8–1.2 mm
 diameter spherical structures that detach readily. They serve as the primary
-means of vegetative propagation and are dispersed by rain splash.
+means of [[hamilton-vegetative-propagation]] and are dispersed by rain splash.
 
 **Flowers:** Flowers are solitary, 8–12 mm in diameter, with white to pale
 pink petals. Flowering occurs in spring and early summer. The scape emerges
@@ -74,7 +74,7 @@ in the south.
 
 The species grows in seasonally wet habitats including winter-wet swamps,
 sandy seepages, and the margins of ephemeral pools. Substrates are typically
-pure silica sand or sandy peat with very low nutrient content.
+pure silica sand or sandy peat with very low [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]].
 
 The Mediterranean climate of southwestern Australia provides warm, dry
 summers and cool, wet winters. D. scorpioides is adapted to this seasonal
@@ -88,62 +88,6 @@ trapping mechanism is passive but highly effective for small arthropods.
 
 The tentacles on the leaf lamina produce a viscous, transparent mucilage
 composed primarily of polysaccharides. When an insect lands on the leaf, it
-becomes stuck in the mucilage and struggles, triggering neighboring
-tentacles to bend toward the contact point.
-
-The tentacle movement is a thigmonastic response mediated by auxin
-redistribution. Within minutes, adjacent tentacles bend over the prey,
-increasing contact and adhesive surface area. Complete envelopment may
-take 20–60 minutes.
-
-Digestive glands on the leaf surface secrete proteases, chitinases, and
-phosphatases that [[query-can-fungi-break-down-plastic-pollution]] the insect's exoskeleton and soft tissues.
-Digestion typically takes 5–14 days, after which the leaf unfurls and
-the exoskeleton is shed by wind or rain.
-
-## Cultivation
-
-Drosera scorpioides is considered a moderately easy species for cultivation
-and is one of the most popular pygmy sundews in the carnivorous plant trade.
-It requires a distinct seasonal cycle mimicking its native Mediterranean
-climate.
-
-The standard substrate is a mix of peat moss and silica sand at
-approximately 1:1 to 1:2 ratio. The plant should be watered with the tray
-method during the active winter [[savory-growing-season-and-non-growing-season-management]], with 1–3 cm of water in the
-tray.
-
-During the summer dormancy period, watering should be reduced significantly.
-The substrate should be allowed to dry to barely moist but never completely
-desiccated. The plant may lose its older leaves but the stem and apex
-remain alive.
-
-[[growing-gourmet-light-requirements-mushroom-fruiting]] are high. Full sun to very bright indirect light
-produces the best coloration and [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]. Under artificial lights,
-12–14 hours of LED illumination at 150–200 µmol/m²/s is appropriate.
-
-## Conservation
-
-Drosera scorpioides has not been formally assessed by the IUCN, but its
-restricted range in southwestern Australia places it within a globally
-recognized biodiversity hotspot. The region has experienced significant
-habitat loss due to urban development.
-
-altered drainage patterns and groundwater extraction further threaten the seasonal wetlands
-the species depends upon.
-
-The species is widely propagated in cultivation from gemmae and seed,
-reducing collection pressure on wild populations. Conservation of remaining
-natural habitat through protected area designation remains the highest
-priority for in situ preservation.
 
 ## See Also
-
-- [[drosera-rotundifolia]]
-- [[drosera-capensis]]
-- [[pinguicula-esseriana]]
-- [[pinguicula-moranensis]]
-- [[utricularia-vulgaris]]
-- [[byblis-liniflora]]
-- [[dionaea-muscipula]]
-- [[cephalotus-follicularis]]
+- [[solomon-manure-nutrient-variability-and-quality]]

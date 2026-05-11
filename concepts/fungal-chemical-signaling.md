@@ -26,7 +26,7 @@ and plants, despite the evolutionary distance between these groups.
 
 ## Oomycete Sex Pheromones
 
-Oomycete water molds produce some of the best-characterized fungal
+[[bloomfield-pythium-oomycete-water-molds]] produce some of the best-characterized fungal
 pheromones. The female releases a steroid hormone called antheridiol
 that attracts male structures (antheridia) toward the source. As the
 male approaches, it releases a second pheromone called oogoniol that
@@ -54,7 +54,7 @@ across distances through diffusible chemical messengers.
 Isolating water molds requires ingenuity: sterilized seeds are
 sprinkled onto pond water samples, summoning zoospores from the
 sediment. The motile spores swim toward the water surface, attach to
-the seeds, and penetrate their shells. Cannabis seeds have high fat
+the seeds, and penetrate their shells. [[query-how-to-germinate-cannabis-seeds]] have high fat
 content and are superb baits for water molds, kept in laboratories for
 scientific purposes and shipped presterilized and incapable of
 germination.
@@ -62,13 +62,13 @@ germination.
 ## Wall Loosening and Morphogenesis
 
 When the antheridiol signal is received, male hyphae undergo dramatic
-morphological changes. Growth at the hyphal tip stops and is redirected
+[[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]]. Growth at the [[gadd-hyphal-tip-growth-and-branching-mechanisms]] stops and is redirected
 to form antheridial branches near the apex. Donovon des Thomas and John
 Mullins at the University of Florida discovered in 1967 that this
 branch formation coincided with secretion of endoglucanase enzymes that
-clip structural polymers in the cell wall, causing localized loosening.
+clip structural polymers in the [[chitin-chitosan-fungal-cell-wall]], causing localized loosening.
 
-Terry Hill at Rhodes College and Nicholas Money later confirmed this by
+Terry Hill at Rhodes College and [[nicholas-money]] later confirmed this by
 measuring both wall strength and enzyme activity from hyphae cultured
 under different conditions. Wall strength was measured by inserting a
 glass micropipet filled with oil into a hypha and increasing pressure
@@ -88,54 +88,3 @@ This distribution suggests that self-fertility is advantageous in
 unstable environments where rapid reproduction takes priority over
 genetic recombination. The primary advantage may be the production of
 thick-walled eggs that serve as survival capsules, allowing the
-organism to persist in drying mud. This environmental regulation of
-mating strategy demonstrates the sophistication of [[dighton-fungal-responses-climate-change]] to
-ecological conditions.
-
-## Nematode Traps and Siren Songs
-
-Predatory fungi use chemical signals to attract nematode prey. Nematode
-predatory fungi produce elaborate structures, including adhesive cages
-and explosive rings, that are triggered by chemical attractants. As
-worms are lured to these traps, the rings inflate and grip the animal
-with pressures up to 18 atmospheres, a biological siren song that
-leads prey to their doom.
-
-## Historical Context: The Fertilization Debate
-
-The study of fungal chemical signaling has a contentious history.
-Marcus Hartog, a student of Anton de Bary ("the founder of modern
-mycology") at Strasbourg, assaulted the work of competitors in
-published commentaries on [[bloomfield-fungal-reproduction-and-chemical-communication]]. He dismissed evidence
-that water mold eggs were fertilized by male antheridia, comparing the
-idea to the passage of spiritual mediums "through brick-walls and
-closed doors."
-
-Professor Trow at University College, Cardiff, used serial sectioning
-to reconstruct the three-dimensional structure of oogonia and trace
-the progression of events leading to egg formation. His painstaking
-microtechnique, involving fixing specimens in acidic solution, embedding
-in paraffin, cutting thin sections with a microtome, and staining with
-gentian violet and eosin, was decades ahead of its time. Within a few
-years, Trow was completely vindicated when other mycologists
-corroborated his findings.
-
-## See Also
-
-- [[plant-fungal-signaling-mycorrhiza]]
-- fungal-pheromones-and-sexual-signaling
-
-- [[insect-fungi-interactions|Insect-Fungi Interactions]]
-- [[fungal-life-cycles|Fungal Life Cycles]]
-- Mycelium Network
-- [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]] with Plants]([[fungal-symbiosis-with-plants]].md)
-
-## References
-
-- Money, N. P. (2002). *Mr. Bloomfield's Orchard: The Mysterious World
-  of Mushrooms, Molds, and Mycologists*. Oxford University Press.
-  Chapter 7: Siren Songs, pp. 129-148.
-- Raper, J. R. (1951). "Sexual hormones in *Achlya*." *American
-  Scientist* 39, 110-120.
-- Thomas, D. des S. & Mullins, J. T. (1967). "Role of enzymatic
-  cell wall softening in plant morphogenesis." *Science* 156, 84-85.

@@ -1,14 +1,14 @@
 # Composting and Soil Building (Ozier PDC)
 
-**Source:** William Ozier, *William's PDC: A [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course* (2011)
+**Source:** [[william-ozier-williams]], *William's PDC: A [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] Course* (2011)
 
 ## Composting as a Permaculture Element
 
 Composting is the technique of accelerating the [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] process to
 convert organic waste into nutrient-rich humus. In Permaculture systems, composting
-serves as the primary method for closing the nutrient loop—returning organic matter
+serves as the primary method for closing the nutrient loop—returning [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]]
 to the soil so that plants can access the nutrients they need. Ozier positions
-composting as an integral part of any Permaculture design, essential for maintaining
+composting as an integral part of any [[comparison-sepp-holzer-vs-permaculture-design]], essential for maintaining
 soil health, fertility, and biological activity.
 
 ## Why Compost Matters
@@ -66,7 +66,7 @@ so large that air cannot penetrate.
 
 Active management of C:N ratio, moisture, and aeration to produce finished compost
 in 2-6 weeks. Requires regular turning and careful material selection. Produces the
-highest quality compost and effectively kills weed seeds and pathogens.
+highest [[ingham-brix-testing-plant-quality-compost-tea-response]] and effectively kills weed seeds and pathogens.
 
 ### Cold Composting
 
@@ -77,8 +77,8 @@ survive. Suitable for situations where labor is limited.
 ### Vermicomposting
 
 Using red worms (Eisenia fetida) to process kitchen scraps and organic waste.
-Worm castings are among the finest soil amendments available, rich in plant-available
-nutrients and beneficial microorganisms. Vermicomposting can be done indoors in small
+[[ingham-vermicompost-worm-castings]] are among the finest soil amendments available, rich in plant-available
+nutrients and [[forest-and-bamboo-beneficial-microorganisms]]. Vermicomposting can be done indoors in small
 bins, making it ideal for urban settings.
 
 ### Sheet Mulching (Composting in Place)
@@ -88,56 +88,3 @@ on garden beds where decomposition occurs in situ. This method avoids the labor 
 moving materials and preserves soil structure. Sheet mulching typically consists of:
 - A weed-suppressing base layer (cardboard or newspaper)
 - A nitrogen-rich layer (manure or green materials)
-- A thick bulk mulch layer (8-12 inches of straw, leaves, or stable bedding)
-- A compost/soil layer for planting
-- A top dressing of weed-free mulch
-
-## Compost in the Permaculture Design
-
-Ozier emphasizes that composting should be integrated into the overall design rather
-than treated as an isolated activity. Key placement considerations:
-
-- **Zone 1**: Active compost bins near the kitchen for daily scraps
-- **Zone 2**: Larger composting areas for yard waste and bulk materials
-- **Sheet mulch stations**: Where organic waste is accumulated for bed preparation
-- **[[mollison-animal-integration-permaculture-design]]**: [[mollison-designers-chicken-tractors-egg-production]] and duck ponds providing manure directly
-  to garden areas
-
-## Composting as a Design Connector
-
-Composting connects multiple elements of a Permaculture system:
-- Kitchen waste → compost → garden fertility → food production → kitchen waste
-- Animal manure → compost → soil building → pasture improvement → animal feed
-- Crop residues → compost/mulch → soil protection → next crop → more residues
-
-This circular flow is the essence of closed-loop design. By composting, the designer
-ensures that nutrients harvested from the land are returned to the land rather than
-being lost as waste.
-
-## Soil Building Beyond Composting
-
-While composting is central, Ozier notes that broader soil building strategies include:
-- Cover cropping and green manures for [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and organic matter
-- Minimizing soil disturbance to protect soil structure and microbial networks
-- Mulching to protect soil surface, retain moisture, and suppress weeds
-- Incorporating animals for manure and soil aeration
-- Using biochar for long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] and soil improvement
-- Applying rock dusts and mineral amendments as needed
-
-## Troubleshooting Common Problems
-
-| Symptom | Likely Cause | Solution |
-|---|---|---|
-| Foul odor | Anaerobic, too wet, too much nitrogen | Add browns, turn pile, improve drainage |
-| Pile not heating | Insufficient nitrogen, too dry, too small | Add greens, water, enlarge pile |
-| Pests (flies, rodents) | Exposed food scraps | Bury greens under browns, cover pile |
-| Slow decomposition | Poor C:N ratio, low moisture | Adjust materials, add water, turn |
-
-## See Also
-
-- [[ozier-pdc-forest-succession-and-layers]]
-- gaias-garden-compost-worm-methods
-- [[compost-biology-soil-food-web-inoculation]]
-- [[composting-systems]]
-- [[decomposition]]
-- [[vermicomposting]]

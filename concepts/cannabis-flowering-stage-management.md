@@ -6,6 +6,7 @@ type: concept
 tags: [cannabis, cultivation]
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Cannabis Flowering Stage Management
 
@@ -87,9 +88,3 @@ Flushing involves stopping nutrient feed 1-2 weeks before harvest and watering w
 - **CO2**: If supplementing, continue through weeks 4-5 of flower, then discontinue.
 
 ## See Also
-
-- [[cannabis-terpene-profile]] for understanding terpene development
-- fungal-chromogens-and-color-change
-- [[cannabis-vegetative-stage-management]] for vegetative growth techniques, cannabis flowering stage management for flowering period care, and [[cannabis-cloning-and-mother-plants]] for mother plant maintenance. See cannabis pest management for IPM practices suitable for perpetual systems. Related: [[cannabis-photoperiodism-and-light-cycles]]
-## Merged: Cannabis Floral Morphology
-Cannabis floral morphology encompasses the structure, development, and anatomical features of male and female cannabis flowers. Understanding flower structure is essential for growers, breeders, and anyone working with cannabis, as the floral characteristics determine both reproductive biology and the quality of the final consumable product. - [[cannabis-trichome-types-and-development]] - cannabis flowering stage management - [[cannabis-genetics-and-breeding]] - cannabis-seed-morphology-and-viability - [[cannabis-environment-control]] - [[cannabis-vegetative-stage-management]] - cannabis flowering stage management - cannabis pest management - [[cannabis-photoperiodism-and-light-cycles]] - [[cannabis-lighting-guide]] Normal household temperatures are generally suitable for growing cannabis.

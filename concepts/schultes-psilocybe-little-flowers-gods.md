@@ -88,25 +88,3 @@ Psilocybe species worldwide. In 1958, gordon-wasson identified and
 synthesized psilocybine and psilocine, the active principles of these
 sacred mushrooms. The discovery connected the chemistry of the Mexican
 sacred mushrooms to the broader family of tryptamine alkaloids.
-
-[[psilocybe-azurescens]], discovered in Oregon, contains the
-highest concentration of psilocybine of any known mushroom.
-
-## Archaeological Evidence
-
-Mushroom worship seems to be rooted in centuries of native Indian
-tradition in Middle America. Highland Maya cultures in Guatemala
-apparently had, more than three thousand years ago, a sophisticated
-religion utilizing mushrooms. Stone mushroom stones from
-pre-Columbian Mesoamerica, some dating to 1000-300 BCE, testify to the
-antiquity of the mushroom cult. The Aztec statue of Xochipilli, the
-ecstatic Prince of Flowers, unearthed near the volcano Popocatepetl,
-bears stylized glyphs depicting various hallucinogenic plants including
-mushroom caps and [[golden-guide-morning-glory-and-ololiuqui]] tendrils.
-
-## See Also
-
-- [[schultes-ololiuqui-vines-serpent]] for Ololiuqui seeds used in
-  similar Mazatec divinatory contexts
-- [[schultes-salvia-diviners-sage]] for another Mazatec psychoactive
-  plant used as a substitute when mushrooms are unavailable

@@ -88,15 +88,3 @@ The work was documented as NASA Tech Brief MSC-22484 and released through the Te
 The initial motivation was the need for aseptic access to biologically sensitive spacecraft systems, particularly [[eclss-environmental-control-life-support]] and Life Support System (ECLSS) water loops and flight experiment containers. Traditional [[surface-sterilization-methods-comparison]] could not decontaminate the mating fixtures of these closed systems without either exceeding thermal limits of system components or introducing chemical contaminants into the water supply. The microwave approach was developed as a solution that avoided both problems simultaneously.
 
 ## Broad Applications
-
-### Aerospace and Spacecraft Systems
-
-The original application: aseptic access ports for spacecraft ECLSS water systems and enclosed biological experiments. The [[mushroom-cultivation]] at multiple stages:
-
-- **Substrate sterilization**: The principle of microwave water coupling explains why substrate moisture content is critical for effective [[microwave-exposure-system-architecture-surface-sterilization]]
-- [[microwave-sterilization]] for the broader topic area
-- [[microwave-vs-conventional-surface-sterilization-methods]] for comparative analysis
-
-## See Also
-
-- [[microwave-water-interaction-2-45-ghz]]

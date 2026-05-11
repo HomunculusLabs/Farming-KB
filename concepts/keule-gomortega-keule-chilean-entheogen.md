@@ -17,7 +17,7 @@ family Gomortegaceae, which is related to the nutmeg family
 (Myristicaceae). The Mapuche Indians of Chile are reported to eat the fruit
 of keule for intoxication, though whether the effects are truly
 hallucinogenic remains unconfirmed. As of the time of Schultes' writing, no
-chemical studies had been conducted on this tree, making it one of the most
+[[chemical-studies-neurotropic-fungi-reliability-and-challenges]] had been conducted on this tree, making it one of the most
 poorly understood potential psychoactive plants documented in the
 ethnobotanical literature.
 
@@ -33,7 +33,7 @@ representatives.
 
 The tree's placement in a family related to Myristicaceae is of particular
 interest to ethnobotanists, since the nutmeg family includes species known
-to produce psychoactive compounds. Myristica fragrans (true nutmeg)
+to produce psychoactive compounds. [[myristica-fragrans]] (true nutmeg)
 contains myristicin, a compound with documented hallucinogenic properties
 at sufficient doses. The phylogenetic relationship between Gomortegaceae and
 Myristicaceae raises the possibility that keule may share similar
@@ -46,8 +46,8 @@ The Mapuche Indians are the largest indigenous group in Chile and maintain
 a rich ethnobotanical tradition that includes several psychoactive plant
 species. Their territory in central and southern Chile encompasses a
 remarkable diversity of hallucinogenic plants, many of which are documented
-in the Golden Guide. In addition to keule, the Mapuche are known to use
-tree daturas (Datura candida and D. sanguinea, also called Brugmansia) for
+in the [[golden-guide-amanita-muscaria-and-soma]]. In addition to keule, the Mapuche are known to use
+[[tree-daturas-brugmansia-south-american-ethnobotany]] ([[datura-candida]] and D. sanguinea, also called Brugmansia) for
 correcting unruly children through hallucinatory experiences, and Latua
 pubiflora (arbol de [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]) as a powerful deliriant administered by
 medicine men.
@@ -57,7 +57,7 @@ healing and social control rather than communal religious ceremony. Tree
 daturas, for example, are employed to discipline children by inducing
 hallucinations in which the spirits of ancestors admonish the young. This
 practical, socially integrative use of hallucinogens is characteristic of
-southern [[chiric-caspi-brunfelsia-south-american-hallucinogen]] indigenous cultures and contrasts with the more
+southern [[chiric-caspi-brunfelsia-south-american-hallucinogen]] [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]] and contrasts with the more
 elaborately ritualized use of psychoactive plants among Amazonian and
 Mesoamerican peoples.
 
@@ -88,34 +88,3 @@ hallucinations, mild euphoria, sedation, or some other psychoactive effect
 has not been scientifically determined. The absence of any chemical
 investigation of the plant means that even the basic pharmacological profile
 of keule remains entirely unknown.
-
-The fruit is the plant part specifically mentioned as intoxicating, which is
-notable because in many psychoactive plant traditions it is the seeds,
-leaves, roots, or bark that are used rather than the fleshy fruit. This
-suggests that the active compounds, if present, may be concentrated in the
-fruit tissue rather than in other parts of the tree.
-
-## Chemical Mystery
-
-The complete absence of chemical studies on Gomortega keule represents one
-of the most significant gaps in the ethnobotanical investigation of South
-American psychoactive plants. Given the tree's reported use as an
-intoxicant, its relationship to the nutmeg family, and its endangered
-status, there is considerable scientific urgency to investigate its
-chemistry before the species or its traditional uses disappear entirely.
-
-## Conservation Status
-
-Gomortega keule is considered an endangered species due to its extremely
-limited natural range in central Chile. The combination of habitat
-destruction, small population size, and limited reproductive capacity makes
-this tree one of the most threatened species in the South American flora.
-Conservation efforts are complicated by the tree's restricted range and the
-pressure from agricultural development in central Chile's Mediterranean
-[[holzer-climate-zone-microclimate-creation]].
-
-## See Also
-
-- [[latua-pubiflora-arbol-de-los-brujos-ethnobotany]]
-- [[tupa-lobelia-tupa-devils-tobacco-ethnobotany]]
-- [[tree-daturas-brugmansia-south-american-ethnobotany]]

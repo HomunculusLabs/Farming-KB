@@ -1,8 +1,8 @@
 ---
-title: Psilocybe Weldenii — Tropical American Neurotropic Species
+title: Psilocybe Weldenii Tropical American Neurotropic Species Guzman 1998
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 author: Gastón Guzmán, J.W. Allen, J. Gartz
-topics: mycology, taxonomy, psilocybe, mexico, veracruz, neurotropic fungi, distribution
+topics: mycology, taxonomy, psilocybe, mexico, veracruz, [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], distribution
 created: 2026-05-10
 ---
 
@@ -36,13 +36,13 @@ Mexico, particularly the state of Veracruz. The species was first collected and
 described from material gathered in the Los Tuxtlas region and surrounding
 areas of Veracruz state, which represents one of the most mycologically diverse
 regions in Mexico. The type locality and subsequent collections all fall within
-the humid tropical forest zone of the Gulf Coast of Mexico.
+the humid [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] zone of the Gulf Coast of Mexico.
 
 ### Biogeographic Context
 
 Within Guzmán's biogeographic framework, P. weldenii belongs to the tropical
 and subtropical species group. This group also includes well-known species such
-as Psilocybe cubensis, P. subcubensis, and [[copelandia-cyanescens]], which
+as [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]], P. subcubensis, and [[copelandia-cyanescens]], which
 inhabit similar warm, humid environments. The Gulf Coast of Mexico represents
 a major center of diversity for neurotropic Psilocybe species, with numerous
 endemic and widely distributed taxa overlapping in this region.
@@ -60,14 +60,14 @@ species.
 
 Psilocybe weldenii grows in the humid [[fungal-biodiversity-tropical-forests]] of Veracruz. Like most
 Psilocybe species in tropical environments, it is likely a saprotrophic or
-coprophilous fungus, decomposing organic matter in soil, leaf litter, or
+coprophilous fungus, decomposing [[maintaining-organic-matter-in-vegetable-gardens]] soil, leaf litter, or
 dung-substrates. The warm, consistently humid conditions of the Veracruz
 lowlands provide ideal growing conditions for tropical Psilocybe species.
 
 ## Chemical Profile
 
 As a confirmed member of the neurotropic fungi catalog, P. weldenii contains
-psychoactive tryptamine alkaloids. The species was included in the definitive
+psychoactive [[hplc-analysis-of-tryptamine-alkaloids]]. The species was included in the definitive
 Guzmán, Allen, and Gartz monograph specifically because it was verified to
 produce psilocybin, psilocin, or related compounds. Exact alkaloid
 concentrations and profiles for this species have not been as extensively
@@ -87,35 +87,3 @@ Related species from the same region and collecting program include:
 
 These species collectively illustrate the remarkable diversity of the
 Psilocybe genus in the Gulf Coast tropical forests of Mexico.
-
-## Ethnobotanical Significance
-
-While P. weldenii has not been specifically documented in indigenous
-ethnobotanical use, it grows in a region (Veracruz) with a rich history of
-mushroom use among Nahua, Mazatec, and other indigenous groups. The broader
-[[ayahuasca-pharmacology-and-cultural-context]] of [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] use in Mesoamerica, famously
-documented by R. Gordon Wasson, provides the ethnobotanical backdrop for all
-neurotropic species in this region.
-
-## Conservation Status
-
-Psilocybe weldenii has not been formally assessed for conservation status. As
-a tropical forest-dependent species in Veracruz, it faces potential threats
-from deforestation and habitat conversion. The Los Tuxtlas region, while
-partially protected, has experienced significant forest loss. Few collections
-of this species exist in herbaria, making population assessments difficult.
-
-## Taxonomic Position Within the Genus
-
-Guzmán placed P. weldenii within the broader Psilocybe genus without assigning
-it to a specific section in the 1998 monograph's numbered catalog. The species
-was among the 178 Psilocybe species, 53 Strophariaceae species, and 13
-Cortinariaceae species included in the global inventory of neurotropic fungi.
-
-## See Also
-
-- [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]]
-- [[hypholoma-naematoliformis-endemic-mexican-neurotropic-fungi-guzman-1998]]
-- [[inocybe-aeruginascens-neurotropic-cortinariaceae-guzman-1998]]
-- [[psilocybe-zapotecorum]]
-- neurotropic fungi taxonomy and distribution

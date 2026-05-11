@@ -15,14 +15,14 @@ updated: 2026-04-28
 sources:
   - Moerman, D.E. (1998). *halpern-sacramental-peyote-and-native-american-church Ethnobotany*.
     Timber Press, Portland, OR.
-  - Foster, S., and Duke, J.A. (2014). *A Field Guide to Medicinal
+  - Foster, S., and Duke, J.A. (2014). *A [[field-guide-psilocybin-bluing-reaction-identification]] to Medicinal
     Plants and Herbs*. Houghton Mifflin Harcourt.
   - Parris, B.S., et al. (2010). "Phytochemistry of Polygonatum
     species." Pharmaceutical Biology, 48(8), 839–846.
   - USDA NRCS (2024). "Polygonatum biflorum (Walter) Elliott."
     PLANTS Database.
   - Chen, J., et al. (2016). "A review of Polygonatum species:
-    chemical constituents and pharmacology."
+    [[guzman-magic-mushrooms-chemical-constituents]] and pharmacology."
     Molecules, 21(9), 1189.
 ---
 
@@ -34,7 +34,7 @@ perennial herbaceous plant in the family Asparagaceae, native to eastern
 recognized by its arching stems, alternate leaves, and pairs of dangling
 bell-shaped flowers.
 
-The rhizome has been used extensively in Native American medicine and
+The rhizome has been used extensively in [[halpern-sacramental-peyote-and-native-american-church]] medicine and
 Appalachian folk medicine for joint pain, wounds, and gastrointestinal
 complaints. Contemporary herbalists value it as a musculoskeletal tonic.
 
@@ -88,61 +88,3 @@ The rhizome contains steroidal saponins, flavonoids, and polysaccharides:
 - **Saponins:** Diosgenin and smilagenin aglycones; steroidal saponins
   are the primary bioactive constituents responsible for anti-inflammatory
   and analgesic effects
-- **Flavonoids:** Luteolin, apigenin, and quercetin derivatives
-- **Polysaccharides:** Fructan-type polysaccharides with immunomodulatory
-  activity, similar to those in *P. sibiricum*
-- **Lectins:** Polygonatum lectins (PLAs) with hemagglutinating activity
-- **Convallamarin:** A cardenolide glycoside present in small quantities
-  (shared with *Convallaria majalis*)
-
-Rhizome is harvested in autumn after foliage dies back. Dried rhizome is
-used in decoctions, tinctures, and topical preparations.
-
-## Traditional and Medicinal Use
-
-**Native American use:** The rhizome was one of the most widely used
-medicinal plants among eastern North American tribes. Applications included:
-
-- Root tea for gastrointestinal complaints, indigestion, and dysentery
-- Poultices for wounds, burns, boils, and skin inflammations
-- Root decoction as a tonic for general debility and recovery from illness
-- Topical application for joint pain, swelling, and rheumatism
-
-**Appalachian folk medicine:** Solomon's seal root tea was used for "female
-complaints," kidney issues, and as a general tonic. The distinctive stem
-scars on the rhizome were interpreted symbolically as a "seal" of wisdom.
-
-**Contemporary herbal use:** Modern Western herbalists employ *P. biflorum*
-primarily as a musculoskeletal tonic — for tendon and ligament injuries,
-joint inflammation, and connective tissue support. Typically administered
-as a tincture (1:2, 60% ethanol) at 1–3 mL three times daily, or as a
-topical compress for acute injuries.
-
-## Ecological Role
-
-Arching stems create sheltered microhabitats for invertebrates.
-Pendant flowers are pollinated by bumblebees and long-tongued bees.
-Berries are dispersed by birds and small mammals. *P. biflorum* completes
-most growth and reproduction in the high-light period of [[coleman-overwintered-onions-and-early-spring-crops]],
-before canopy closure.
-
-## Cultivation
-
-Hardy to USDA zone 3. Propagation by division of rhizomes in early spring
-or autumn; seeds require warm-cold stratification and 1–2 years to
-germinate reliably.
-
-Prefers partial to full shade, moist organic soil, and a cool root run.
-Establishes slowly but forms long-lived, dense clumps. Excellent choice
-for shade gardens, woodland borders, and naturalistic plantings. Minimal
-## See Also
-
-- [[polygonatum-odoratum]]
-
-- [[steve-solomon]]
-- [[solomon-raised-beds]]
-
-[[convallaria-majalis]]
-polygonatum biflorum
-polygonatum biflorum
-diosgenin

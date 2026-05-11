@@ -1,5 +1,5 @@
 ---
-title: Mdma mdma [[pihkal-qualitative-effects-themes]] phenomenology Phenomenology
+title: [[mdma]] [[pihkal-qualitative-effects-themes]] Phenomenology
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -22,7 +22,7 @@ The most frequently cited qualitative observation about MDMA is paradoxical. Whe
 
 "MDMA intrigued me because everyone I asked, who had used it, answered the question, 'What's it like?' in the same way: 'I don't know.' 'What happened?' 'Nothing.' And now I understand those answers. I too think nothing happened. But something seemed changed."
 
-This "nothing happened" quality reflects MDMA's unique profile: it typically does not produce dramatic visual effects, perceptual distortions, or cognitive alterations obvious enough to describe. Instead, the effects are primarily in the realm of emotional processing, interpersonal perception, and self-awareness -- changes that are felt rather than seen.
+This "nothing happened" quality reflects MDMA's unique profile: it typically does not produce dramatic visual effects, perceptual distortions, or cognitive alterations obvious enough to describe. Instead, the effects are primarily in the realm of [[blesching-cannabis-emotional-processing-expansive-constricting-emotions]], interpersonal perception, and self-awareness -- changes that are felt rather than seen.
 
 ## The Window of Openness
 

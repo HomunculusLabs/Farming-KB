@@ -57,11 +57,11 @@ homeostasis.
 - **IC₅₀ against purified TrxR:** ~0.3–1.2 µM (species-dependent)
 - **Selectivity index:** Cancer cells show 5–15× greater sensitivity than non-malignant
   cells, attributed to elevated [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in tumor microenvironments
-- **Antibacterial MIC:** 2–8 µg/mL against *Staphylococcus aureus*, *Bacillus subtilis*;
+- **Antibacterial MIC:** 2–8 µg/mL against *[[staphylococcus-aureus]]*, *[[bacillus-subtilis]]*;
   inactive against Gram-negative organisms at concentrations up to 64 µg/mL
 
 The covalent modification of TrxR's selenocysteine residue disrupts the thioredoxin
-system, leading to accumulation of reactive oxygen species and apoptotic cell death.
+system, leading to accumulation of [[reactive-oxygen-species-and-oxidative-stress]] and apoptotic cell death.
 
 This mechanism overlaps with other TrxR inhibitors (e.g., auranofin) but pleurotin's
 fungal-derived scaffold offers a distinct chemical space for drug development.
@@ -74,8 +74,8 @@ illudinane skeleton, followed by oxidative tailoring enzymes.
 
 **Known producing organisms:**
 - *Pleurotus griseus* (original source, type strain)
-- *Pleurotus ostreatus* (oyster mushroom, low yields)
-- *Pleurotus cornucopiae*
+- *[[cancer-medicinal-mushrooms-pleurotus-ostreatus]]* (oyster mushroom, low yields)
+- *[[pleurotus-cornucopiae]]*
 - *Clitocybe* species (reported in screening programs)
 
 Fermentation studies on *P. griseus* demonstrate peak pleurotin production at 25 °C
@@ -83,48 +83,7 @@ in static liquid culture after 14–21 days, with yields of 5–15 mg/L in unopt
 conditions.
 
 Genomic mining has identified the pleurotin biosynthetic gene cluster, enabling
-heterologous expression studies in *Aspergillus oryzae* that increased titers to
+heterologous expression studies in *[[aspergillus-oryzae]]* that increased titers to
 ~50 mg/L.
 
 ## Toxicity and Safety
-
-- **Acute toxicity (mouse, i.p.):** LD₅₀ approximately 45 mg/kg
-- **Cytotoxicity against non-malignant cell lines:** CC₅₀ ~15–30 µM
-- ⚠️ **Not approved for human use** — pleurotin remains a [[fungal-research-compound-reference]]
-  with no established therapeutic dosage or [[cannabis-safety-profile-and-overdose-risk]]
-
-The reactive spiro-cyclopropane ring contributes to both its pharmacological activity
-and its potential off-target toxicity, making selectivity a key concern for
-therapeutic development.
-
-Structure-activity relationship studies indicate that modification of the quinone
-moiety or reduction of the spiro ring significantly diminishes both activity and
-toxicity.
-
-## Research Applications
-
-Pleurotin has served primarily as a **chemical probe** for studying thioredoxin
-system biology rather than as a drug candidate.
-
-- **Cancer research:** Used to validate TrxR as an anticancer target; synergistic
-  with cisplatin and doxorubicin in ovarian and breast cancer cell lines
-- **Redox biology:** Demonstrates the dependency of certain cancers on the
-  thioredoxin system for survival under oxidative stress
-- **Synthetic chemistry:** The pleurotin scaffold has inspired total synthesis
-  efforts by multiple groups, with biomimetic routes achieving gram-scale production
-- **Antibiotic adjuvant:** Shown to potentiate β-lactam antibiotics against
-  MRSA by disrupting bacterial redox defenses
-
-## Related Compounds
-
-- **Illudin S and M** — Structurally related sesquiterpene quinones from *Omphalotus
-  illudens*, sharing the spiro-cyclopropane pharmacophore with greater cytotoxicity
-- **Irofulven (6-hydroxymethylacylfulvene)** — Semi-synthetic illudin derivative
-  that reached Phase II [[mushroom-cancer-clinical-trials-overview]] for prostate and ovarian cancer
-- **Pleurotinic acid** — Oxidized metabolite with reduced TrxR inhibition but
-  retained antibacterial properties
-
-## See Also
-- [[schizophyllum-commune]]
-- [[fomes-fomentarius]]
-- [[biodiversity-fungal-secondary-metabolites]]

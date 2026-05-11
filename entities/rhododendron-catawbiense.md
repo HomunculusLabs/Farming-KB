@@ -87,34 +87,3 @@ The species prefers partial shade, acidic soils (pH 4.5–6.0), and consistent m
 Roots are shallow and fibrous, making the species susceptible to drought stress. A thick mulch of pine needles or oak leaves helps maintain soil moisture and acidity.
 
 The species forms ericoid mycorrhizal associations that enhance nutrient uptake in nutrient-poor acidic soils. This mycorrhizal dependency makes transplanting of large specimens difficult.
-
-Propagation is primarily by semi-hardwood cuttings taken in late summer. Seed propagation is possible but seedlings are slow-growing and may take 5–8 years to flower.
-
-Grafting onto compatible rootstocks is sometimes practiced in commercial nursery production to accelerate growth and improve disease resistance.
-
-The species has been extensively hybridized, with the "Catawba hybrids" representing one of the most important groups of cold-hardy garden rhododendrons. Thousands of named cultivars trace ancestry to *R. catawbiense*.
-
-## Cultural Significance
-
-Catawba rhododendron is the state flower of West Virginia, designated in 1903. It is also an iconic symbol of the Great Smoky Mountains National Park.
-
-Annual rhododendron festivals are held in Roanoke, Virginia and other Appalachian communities to celebrate the late-spring blooming season. The blooms attract thousands of tourists to mountain areas each year.
-
-The species was introduced to European cultivation in the early 19th century and became a foundation species for the rhododendron breeding programs that produced many modern garden hybrids.
-
-British nurserymen, particularly the Waterer family at Knap Hill, extensively used *R. catawbiense* in their hybridization work during the 1850s and 1860s.
-
-In Appalachian folklore, thickets of Catawba rhododendron were sometimes associated with supernatural beliefs due to their dark, labyrinthine interiors and the mysterious quality of the mountain cloud forests where they grow.
-
-Hikers historically avoided entering dense rhododendron thickets due to disorientation risks, contributing to the plant's reputation for concealing hidden spaces.
-
-## See Also
-
-- [[rhododendron-maximum]]
-- [[kalmia-latifolia]]
-- [[kalmia-angustifolia]]
-- [[gaultheria-procumbens]]
-- [[vaccinium-corymbosum-entity]]
-- [[vaccinium-angustifolium]]
-- [[oxydendrum-arboreum]]
-- [[vaccinium-membranaceum]]

@@ -87,38 +87,3 @@ and taxonomy using universal primers. Specific primers can be designed to
 amplify and analyze fungal DNA from environmental samples. Fungal-
 specific primer pairs EF4f/EF3r and EF4f/Fung5r can amplify a wide range
 of fungi from the major [[coprophilous-fungi-taxonomic-groups-distribution]].
-
-### Community Analysis Methods
-
-Profiles of fungal communities in soil have been assessed via fungal-
-specific PCR followed by denaturing gradient gel electrophoresis (DGGE).
-Fungal diversity from microbial communities can be assessed by ITS rDNA
-terminal restriction fragment (TRF) pattern analysis. Real-time PCR
-(TaqMan) conjugated with fluorescent SYBR Green I dye enables detection
-and quantification of fungal DNA from soil substrates.
-
-### Species-Specific Detection
-
-New specific primers have been developed for amplifying rDNA from all
-[[ascomycota-phylogeny-major-classes-lineages]] of fungi in soil. Detection and quantification of fungal
-DNA involve specific primers targeting fragments from the SSU rRNA gene
-region of [[fusarium-solani]] translation
-elongation factor 1 alpha gene. Primers AR1 and AR2 are used to amplify
-specific parts of the ITS region of Armillaria isolated from soil samples.
-
-### DNA Extraction from Soil
-
-A fungal DNA extraction method (FDM), modified from protocols by Nazar
-et al. and van Elsas et al., is efficient in lysing fungal spores and
-mycelia. A simple bead milling method has been developed for accurate
-estimation of fungal organisms in air and water samples using real-time
-PCR. A total of 120 fungal strains have been tested by multiplex PCR
-followed by agarose gel electrophoresis or microchip electrophoresis.
-
-### RFLP Analysis
-
-Restriction fragment length polymorphism (RFLP) analysis of PCR-amplified
-rDNA has been used to characterize tropical wood-decaying fungi and to
-distinguish isolates of [[harbhajan-singh]]
-
-- biodiversity-fungi-molecular-methods

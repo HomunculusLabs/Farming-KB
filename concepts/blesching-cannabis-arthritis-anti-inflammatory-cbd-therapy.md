@@ -1,5 +1,5 @@
 ---
-title: CBD Anti-Inflammatory Therapy for Arthritis, Atherosclerosis, and [[blesching-cannabis-inflammatory-bowel-disease]]
+title: Blesching Cannabis Arthritis Anti Inflammatory Cbd Therapy
 source: The Cannabis Health Index - Uwe Blesching, PhD (2015)
 tags: [cannabis, cbd, anti-inflammatory, arthritis, atherosclerosis, ibd, endocannabinoid]
 related: [blesching-cannabis-cardiovascular-health, anandamide-and-the-endocannabinoid-system, beta-caryophyllene-dietary-cannabinoid]
@@ -87,44 +87,3 @@ patients seeking anti-inflammatory benefits without cognitive effects.
 Atherosclerosis, the buildup of plaque in arterial walls, is increasingly
 understood as an inflammatory disease rather than purely a lipid-storage
 disorder. CBD addresses the inflammatory component through:
-
-- Reduction of oxidized LDL cholesterol-induced inflammation
-- Suppression of macrophage foam cell formation
-- Decreased adhesion molecule expression on vascular endothelium
-- General anti-inflammatory and antioxidant effects that slow plaque
-  progression
-
-CBD's ability to calm autonomic stress responses (reducing elevated heart rate
-and sympathetic nervous system activation) may also reduce the hemodynamic
-stress that accelerates arterial plaque formation.
-
-## Strain and Form Considerations
-
-Patients seeking anti-inflammatory benefits may consider:
-
-- **Indica-dominant strains**: Generally present with a lower THC:CBD ratio,
-  favoring CB2-mediated anti-inflammatory signaling
-- **Raw/fresh cannabis**: Contains CBD-acid and THC-acid forms that are
-  minimally psychoactive while retaining therapeutic properties
-- **CBD-rich tinctures and oils**: Provide controlled, measurable CBD dosing
-  without significant THC exposure
-- **Full-spectrum preparations**: Retain the entourage effect of multiple
-  cannabinoids and terpenes working synergistically
-
-## Mind-Body Considerations
-
-The Cannabis Health Index emphasizes that inflammation is not purely a
-biochemical phenomenon. Chronic emotional states of guilt, shame, fear, and
-anger can activate pro-inflammatory pathways through the HPA axis and
-sympathetic nervous system. Conversely, emotions associated with anandamide
-such as ease, acceptance, and openness may support the body's natural
-anti-inflammatory processes. Patients are encouraged to explore whether
-emotional patterns might be contributing to inflammatory states and to
-consider mind-body practices alongside cannabinoid therapy.
-
-## See Also
-
-- [[anandamide-and-the-endocannabinoid-system]]
-- [[blesching-cannabis-cardiovascular-health]]
-- [[beta-caryophyllene-dietary-cannabinoid]]
-- [[2-ag-endocannabinoid-signaling-blesching]]

@@ -25,7 +25,7 @@ It forms dense mats of intricately branched, greyish-green to brownish podetia t
 
 The species is ecologically significant as a major food source for caribou and reindeer across its circumpolar range.
 
-It is closely related to Cladonia rangiferina and C. stellaris, with which it is frequently confused in field identification.
+It is closely related to [[cladonia-rangiferina]] and C. stellaris, with which it is frequently confused in field identification.
 
 ## Taxonomy and Morphology
 
@@ -55,7 +55,7 @@ C. arbuscula is distinguished from the similar C. rangiferina by its denser bran
 
 ## Distribution and Habitat
 
-Cladonia arbuscula has a circumpolar boreal and subarctic distribution across northern Europe, Asia, and North America.
+Cladonia arbuscula has a circumpolar boreal and subarctic distribution across northern Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]].
 
 In Europe, it is widespread in Scandinavia, the British Isles, and extends south to mountainous regions of central Europe.
 
@@ -71,7 +71,7 @@ On acidic soils with low vascular plant competition, C. arbuscula can form monos
 
 ## Ecology
 
-Cladonia arbuscula is a keystone species in boreal and tundra ecosystems, forming extensive [[fukuoka-citrus-orchard-ground-cover-cultivation]] that insulates permafrost and regulates soil temperature.
+Cladonia arbuscula is a keystone species in boreal and [[dighton-fungi-boreal-tundra-ecosystems]], forming extensive [[fukuoka-citrus-orchard-ground-cover-cultivation]] that insulates permafrost and regulates soil temperature.
 
 It is a primary winter food for caribou and reindeer, which depend heavily on Cladonia mats during the snow-covered months when other forage is inaccessible.
 
@@ -83,32 +83,8 @@ The species is highly sensitive to fire, which can destroy decades of accumulate
 
 Post-fire recovery is extremely slow, often requiring 50–100 years before pre-fire biomass levels are re-established.
 
-[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution can alter the competitive balance between C. arbuscula and faster-growing vascular plants, leading to community shifts.
+[[dighton-nitrogen-deposition-mycorrhizal-community-shifts]] from atmospheric pollution can alter the competitive balance between C. arbuscula and faster-growing vascular plants, leading to [[aact-soil-succession-bacterial-fungal-plant-community-shifts-ingham]].
 
-In areas of chronic nitrogen enrichment, C. arbuscula mats are progressively replaced by nitrophilous species such as Deschampsia flexuosa and Vaccinium myrtillus.
+In areas of chronic nitrogen enrichment, C. arbuscula mats are progressively replaced by nitrophilous species such as [[deschampsia-flexuosa]] and [[vaccinium-myrtillus]].
 
 Climate warming poses an additional threat by extending the [[savory-growing-season-and-non-growing-season-management]] of vascular plants that compete with C. arbuscula for light and space.
-
-## Traditional Uses
-
-Indigenous peoples of northern Scandinavia and North America have traditionally used Cladonia arbuscula as emergency food and as a component of pemmican.
-
-In Scandinavia, reindeer herders have long recognised the species as a critical component of reindeer winter forage.
-
-The lichen has been used medicinally as a poultice for wounds and as a traditional remedy for digestive ailments in some Sami communities.
-
-Dried C. arbuscula has been used as a packing material and stuffing for pillows and cushions in rural Scandinavian communities.
-
-No significant modern commercial applications have been developed for this species.
-
-Cladonia arbuscula has been investigated as a potential biomonitor of [[dighton-fungal-biosorption-heavy-metal-remediation]] deposition in boreal ecosystems due to its efficiency at accumulating atmospheric contaminants.
-
-## See Also
-
-- [[cladonia-stellaris]]
-- [[cladonia-fimbriata]]
-- [[cetraria-islandica]]
-- [[usnea-barbata]]
-- [[evernia-prunastri]]
-- [[flavoparmelia-caperata]]
-- [[anaptychia-ciliaris]]

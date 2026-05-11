@@ -1,10 +1,11 @@
 ---
-title: [[fukuoka-wild-and-semi-wild-foods]] and Marginal Systems
+title: Holmgren Wild Foods And Marginal Systems
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [permaculture, forage, food-forest]
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Wild Foods and Marginal Systems
@@ -86,65 +87,3 @@ leaving things be to see what emerges. The balance is a fine one,
 whether we are working in the garden or planning a city.
 
 ## The City and the Hinterland
-
-The conceptual divide between the city and the rural hinterland
-provides another example. For thousands of years, the city and its
-institutions have distinguished so-called civilisation from more simple
-cultures. But over most of that time, the relationship between the
-city and its hinterland was that of the nucleus to the cell described
-in Principle 7: [[permaculture-design-from-patterns-to-details]] to Details.
-
-Today the city has become -- conceptually, if not physically -- the
-whole; rural life, farming and nature are some sort of surrounding
-membrane or fringe. These marginal systems continue to wither as every
-aspect of nature becomes controlled and managed (often from the city)
-and commodity prices for rural economies are screwed down further and
-further. After providing the wealth on which the city is built, the
-countryside and its people are increasingly seen as dispensable.
-
-On a national scale, small regional economies such as Tasmania or Nova
-Scotia suffer from being economically marginal. The environmental crisis
-is one for the whole of human civilisation, especially the cities.
-There are good reasons to believe that we will only succeed in dealing
-with the environmental crisis when we do so in the cities. However,
-the inspiration, examples and wisdom for the solutions come not from
-the centre but from the margins.
-
-## Origins of Permaculture at the Margin
-
-Permaculture emerged from Tasmania -- a place where modernity and
-nature are in close proximity. It is far enough away from the sources
-of the dominant paradigms of society, but it has had the benefits of
-modern education and relative affluence for as long as anywhere else in
-the world.
-
-Hobart, capital of Australia&s second-oldest and most
-decentralised state, clings to the foot of the wild slopes of Mount
-Wellington. From the property on the footslopes where the Permaculture
-concept was born in the mid-1970s, it was possible to drive 5
-kilometres to the city centre or the university. In the opposite
-direction, 5 kilometres on walking tracks put you on the alpine
-southwest face of the mountain. [[bill-mollison]] bridged these worlds. A
-fisher and bushman who left school at fourteen, he went on to become a
-wildlife researcher, university academic, environmental activist,
-co-originator and teacher of Permaculture [[fungi-around-the-world-species-distribution]].
-
-## Ideas at the Fringe
-
-The factors that have weakened the university&s grip on intellectual
-culture include:
-
-- devaluation of undergraduate education by its increasingly universal
-  consumption
-- failure to deal with the intellectual limitations of reductionist
-  thinking
-- replacement of the community of scholars with a corporate culture
-  selling products
-- new communications technology and media allow those at the fringes
-  more equal access to information and ideas
-
-James Lovelock, the independent atmospheric physicist who works from
-his cottage and laboratory in Cornwall, provides one model of the new
-scientist no longer tied to the bonds of the city, the university, the
-discipline, and the funding institutions. He is the co-originator of
-the Gaia hypothesis and, arguably, of the whole field of Earth System

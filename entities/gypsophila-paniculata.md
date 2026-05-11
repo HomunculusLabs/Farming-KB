@@ -13,7 +13,7 @@ sources:
   - Barkoudah, Y.I. (1962). "A revision of Gypsophila, section Heteranthema." Mededelingen van het Botanisch Museum en Herbarium, Utrecht.
   - RHS (2024). "Gypsophila paniculata." Royal Horticultural Society Plant Finder.
   - Madhani, H. et al. (2018). "Taxonomy of Gypsophila (Caryophyllaceae) in Iran." Phytotaxa, 374(1): 1–60.
-  - Anderson, N.O. (2006). "Gypsophila." In: Anderson, N.O. (ed.) Flower Breeding and Genetics. Springer.
+  - Anderson, N.O. (2006). "Gypsophila." In: Anderson, N.O. (ed.) Flower [[marijuana-horticulture-cervantes-cannabis-breeding-and-genetics]]. Springer.
 ---
 
 ## Overview
@@ -69,11 +69,11 @@ Gypsophila paniculata is native to a broad region spanning central Europe, Ukrai
 
 The species is strongly calcicole, thriving in soils with pH 7.0–8.5 and high calcium content. It is absent from acid soils and peatlands throughout its native range.
 
-It has become naturalized in North America, where it is considered invasive in parts of the Great Lakes region and the Pacific Northwest. Dense stands can displace native vegetation on sandy soils and dunes.
+It has become naturalized in [[guzman-psilocybin-mushrooms-north-america]], where it is considered invasive in parts of the Great Lakes region and the [[psilocybin-north-america-pacific-northwest]]. Dense stands can displace native vegetation on sandy soils and dunes.
 
-The species is listed as a noxious weed in California and several other western states. Control efforts focus on preventing seed dispersal from garden plantings and commercial flower operations.
+The species is listed as a noxious weed in California and several other western states. Control efforts focus on preventing [[clay-pellet-seed-dispersal]] from garden plantings and commercial flower operations.
 
-In the Great Lakes dune systems, Gypsophila paniculata can produce over 13,000 seeds per plant per season. This prolific seed production drives its invasive potential in sandy, open habitats.
+In the Great Lakes dune systems, Gypsophila paniculata can produce over 13,000 seeds per plant per season. This prolific [[cannabis-controlled-pollination-seed-production]] drives its invasive potential in sandy, open habitats.
 
 ## Cultivation
 
@@ -88,34 +88,3 @@ For cut-flower use, stems are harvested when approximately one-third of the buds
 The dried flower industry relies heavily on Gypsophila paniculata, with stems air-dried or silica-dried for permanent arrangements. Properly dried flowers maintain their white color for several years.
 
 Plants are hardy to USDA zones 3–9 and require good winter drainage to prevent crown rot. Heavy mulching is not recommended, as it can promote rot at the crown.
-
-The deep taproot can penetrate compacted subsoils and access water at depths unavailable to most garden perennials. This makes the species remarkably drought-tolerant once established.
-
-Commercial production often uses grafted plants on Gypsophila paniculata rootstock to improve disease resistance. The main pathogens are Fusarium, Rhizoctonia, and Botrytis in greenhouse production.
-
-Breeding programs have focused on developing varieties with sterile flowers to reduce invasive potential. Several triploid cultivars with reduced seed set are now available in the European market.
-
-## Ecological Role
-
-The tiny flowers are visited by small bees, hoverflies, and other generalist pollinators. Each flower produces small quantities of nectar, but the sheer number of flowers makes individual plants valuable pollen sources.
-
-In its native steppe habitat, Gypsophila paniculata contributes to the diverse forb layer of calcareous grasslands. It is adapted to grazing pressure through its deep taproot and ability to regenerate from the crown.
-
-The species shows moderate shade intolerance and does not persist in closed-canopy woodlands. It is restricted to open, sun-exposed habitats in both its native and introduced ranges.
-
-Where invasive in North America, it forms dense monocultures that exclude native sand-prairie species. Research in Michigan dune systems has documented significant reductions in native plant diversity where Gypsophila paniculata has established.
-
-Biological control research has identified several European insects that feed specifically on Gypsophila species. However, no biocontrol agents have been approved for release in North America as of 2024.
-
-## See Also
-
-- [[dianthus-barbatus]]
-- [[dianthus-caryophyllus]]
-- [[saponaria-officinalis]]
-- [[silene-vulgaris]]
-- [[stellaria-media]]
-- [[echium-vulgare]]
-- [[campanula-rotundifolia]]
-- [[lychnis-coronaria]]
-- [[dianthus-plumarius]]
-- [[myosotis-sylvatica]]

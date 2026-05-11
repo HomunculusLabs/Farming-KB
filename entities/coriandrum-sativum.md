@@ -7,7 +7,7 @@ tags:
   - culinary-herb
   - medicinal-plant
   - ethnobotany
-  - companion-planting
+  - [[companion-planting]]
 created: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -69,7 +69,7 @@ brownish-yellow. Each mericarp contains one seed.
 
 Native to regions spanning southern Europe, North Africa, and western Asia.
 The plant is now naturalized and cultivated worldwide in temperate and
-subtropical climates. Major producers include India, Russia, Morocco,
+[[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]. Major producers include India, Russia, Morocco,
 Romania, and Mexico.
 
 Cilantro prefers full sun to partial shade and well-drained, loamy soils
@@ -83,64 +83,8 @@ harvest begins 3–4 weeks after sowing; seed harvest at 90–110 days.
 
 ## Essential Oil Composition
 
-The essential oil of coriander seed is dominated by linalool (60–78%),
-followed by geranyl acetate, camphor, geraniol, limonene, and α-pinene.
+The essential oil of coriander seed is dominated by [[linalool]] (60–78%),
+followed by geranyl acetate, camphor, [[geraniol]], limonene, and α-pinene.
 Fresh leaf oil contains higher proportions of aldehydes, primarily
 (E)-2-decenal and (E)-2-undecenal, responsible for the characteristic
-fresh cilantro aroma. Composition varies with plant part and growth stage.
-
-## Bioactive Compounds and Pharmacology
-
-Coriander exhibits documented biological activities across several categories.
-
-**Antimicrobial activity:** Essential oil and aqueous extracts show significant
-activity against Gram-positive bacteria (Staphylococcus aureus, Bacillus
-subtilis), Gram-negative bacteria (Escherichia coli, Salmonella typhi),
-and fungi ([[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Aspergillus niger) via membrane disruption.
-
-**Antioxidant activity:** Methanolic extracts show strong DPPH radical
-scavenging and lipid peroxidation inhibition. Polyphenolic compounds
-including quercetin, kaempferol, and rutin contribute to this activity.
-
-**Antidiabetic effects:** Seed extract lowers blood glucose in animal models
-by enhancing insulin secretion and peripheral glucose uptake.
-
-**Anxiolytic effects:** High-dose aqueous extracts show anxiolytic-like
-activity in rodent models, possibly via GABA-A receptor modulation.
-Seeds have been used traditionally as a mild sedative in Ayurvedic and
-Persian medicine.
-
-**[[dighton-fungal-biosorption-heavy-metal-remediation]] chelation:** Coriander facilitates excretion of lead, mercury,
-and aluminum in animal studies, though human clinical data remains limited.
-
-## Culinary and Nutritional Use
-
-Fresh cilantro leaves are used extensively in Mexican (salsa, guacamole),
-Indian (chutneys, curries), Thai, Vietnamese, and Middle Eastern cuisines.
-The seeds are ground as a spice in garam masala, pickling blends, and
-baked goods throughout Europe, the Middle East, and South Asia.
-
-Per 100 g fresh leaves: 23 kcal, 2.1 g protein, 0.5 g fat, 3.7 g
-carbohydrate, 2.8 g fiber, and high levels of vitamins A, C, and K.
-Coriander leaves are one of the richest plant sources of vitamin K,
-providing 310 µg per 100 g (388% daily value).
-
-## Companion Planting and Permaculture
-
-Coriander is valued in companion planting for its ability to attract
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including parasitic wasps, hoverflies, and lady beetles.
-These insects prey on aphids, whiteflies, and other common garden pests.
-
-The plant's strong aroma is reported to deter [[cervantes-spider-mites-identification-control]], potato beetles,
-and aphids when interplanted with susceptible crops. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
-cilantro functions as a fast-cycling, self-seeding herb in the herb spiral
-or vegetable guild layer.
-
-Coriander roots are edible and used in Thai cuisine, adding an earthy,
-intense flavor to soups and curry pastes.
-
-## See Also
-
-[[anethum-graveolens]], petroselinum crispum,
-[[rosmarinus-officinalis-entity]], [[borago-officinalis]], allium tricoccum, and [[piper-nigrum-entity]] for
-comparison with other culinary herbs and companion plants.
+fresh cilantro aroma. Composition varies with plant part and [[cannabis-growth-stage-checklist]].

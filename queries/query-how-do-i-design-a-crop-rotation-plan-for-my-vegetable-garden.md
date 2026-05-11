@@ -52,7 +52,7 @@ Cover crops are a powerful tool for filling gaps in your rotation and
 adding biological benefits during fallow periods. When a bed is not
 growing a vegetable crop, planting a cover crop from a different family
 maintains soil coverage, prevents erosion, suppresses weeds, and adds
-organic matter. The [[soil-food-web]] benefits enormously from well-designed crop
+organic matter. The [[soil-foodweb]] benefits enormously from well-designed crop
 rotations. Different plant families exude different root exudates —
 sugars, amino acids, and organic acids — that feed different communities
 of soil microorganisms. By rotating through diverse plant families, you
@@ -76,7 +76,7 @@ of rotation.
 
 For gardeners interested in more advanced approaches, combining crop
 rotation with [[legume-nitrogen-fixation-mechanism]] and [[integrated-pest-management]]
-- Fill rotation gaps with [[soil-food-web]] diversity by rotating through plant families
+- Fill rotation gaps with [[soil-foodweb]] diversity by rotating through plant families
   with different root exudates and mycorrhizal associations
 
 ## Related Questions

@@ -88,12 +88,3 @@ Understanding endophytic bacterial flora opens new biotechnological opportunitie
 - Integration with [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]] for comprehensive plant health management
 
 ## Related Topics
-
-- [[pgpr-mycorrhizal-inoculants-microplant-establishment]] - PGPR and mycorrhizal combinations
-- [[endophytic-fungi-plant-interactions]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-- [[bacterial-endophytes-plant-roots]]
-
-## See Also
-
-- [[parasitic-plant-host-detection-volatile-sensing]]

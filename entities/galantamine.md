@@ -88,43 +88,6 @@ conduction abnormalities or concurrent beta-blockers.
 ## Natural Sources
 
 Galantamine occurs in several Amaryllidaceae species at varying
-concentrations:
-- *Galanthus nivalis* (common snowdrop) — original discovery source
-- *Galanthus woronowii* — commercial cultivation source
-- *[[narcissus-pseudonarcissus]]* (daffodil) — bulbs contain galantamine
-- *Leucojum aestivum* (summer snowflake) — significant source
-- *Lycoris radiata* (red spider lily) — East Asian source
-
-Traditional use dates to the 1950s in the Soviet Union, where
-Bulgarian pharmacologist D. Paskov investigated local folk use of
-snowdrop extracts for nerve pain and poliomyelitis paralysis.
-
-## History
-
-Galantamine was first isolated in 1951 by the Soviet pharmacologist
-D. Paskov from *Galanthus nivalis* growing in the mountains of Bulgaria.
-Local villagers had long used snowdrop bulbs as a folk remedy for
-nervous system ailments and poliomyelitis-induced paralysis.
-
-Systematic investigation through the 1950s–1960s established its
-AChE inhibitory mechanism. Clinical use in the Soviet Union and
-Eastern Europe preceded Western adoption by several decades.
-
-Commercial production initially relied on wild-harvested *Galanthus*
-bulbs from Turkey and Bulgaria. Overharvesting led to conservation
-concerns; modern production uses cultivated *Leucojum aestivum*
-in the Netherlands and China, supplemented by total [[psilocin-chemical-synthesis]].
-
-## Legal Status
-
-- FDA approved (2001) for mild-to-moderate Alzheimer's disease
-- WHO Essential Medicines List (included for Alzheimer's treatment)
-- Available by prescription in most countries
-- Unscheduled as a controlled substance
-- Raw plant material containing galantamine is not restricted
 
 ## See Also
-
-- [[arecoline]] — Muscarinic agonist alkaloid from [[betel-nut-arecoline-ethnobotany]]
-- [[beta-carboline]] alkaloid with MAOI activity
-- [[caffeine]] — Widely used stimulant with cholinergic interactions
+- [[query-how-do-endophytic-fungi-protect-plants-from-pests-and-disease]]

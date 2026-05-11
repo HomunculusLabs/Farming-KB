@@ -88,28 +88,3 @@ Official anti-drug propaganda since the 1960s has disparaged "psychedelics" as e
 Biochemical research efforts during the 1950s and 1960s sought to discover the [[tihkal-receptor-binding-serotonin]] sites for hallucinogenic compounds in the brain. S. Grof undertook the tedious task of analyzing 5,000 experimental LSD protocols in an effort to isolate "absolute" symptoms that are reported or occur all of the time. His results were negative.
 
 According to Grof, hallucinogenic substances are non-specific triggers causing a sequence of altered states of consciousness, which do not fit the syndrome labeled "toxic psychosis." Rather, it is the individual's personality, along with the experimental setting, that significantly shapes the nature of the [[leary-psychedelic-experience-bardo-mapping]]. This view is shared by a majority of experts with considerable experience in conducting [psychedelics-assisted psychotherapy.
-
-Even "real" somatic symptoms, such as nausea or vomiting, can often be controlled through psychological intervention techniques administered by trained professionals. The substances apparently act as catalysts that initiate new information processing mechanisms and patterns of coordination between the different interactive areas of the brain.
-
-## Grof's Spectrum of Experience
-
-Grof noted the emergence of experiences in a specific developmental sequence during hallucinogenic sessions:
-
-1. **Abstract experiences** -- Geometric patterns, sensory enhancement
-2. **Aesthetic experiences** -- Artistic appreciation, heightened beauty perception
-3. **Psychodynamic experiences** -- Surfacing of repressed memories and emotions
-4. **Perinatal experiences** -- Reliving of birth trauma and related states
-5. **Transpersonal experiences** -- Experiences beyond individual ego boundaries
-
-With repeated administrations of relatively low doses, participants typically progressed through these stages one by one, eventually attaining and lingering at the transpersonal level of analysis.
-
-## See Also
-
-- [[mckenna-psilocybin-and-language-formation]]
-
-- [[psilocin-and-psilocybin-chemistry]] -- The active compounds
-- [[psilocybin-psychotherapy-research-history]] -- Therapeutic applications
-- [Baeocystin [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] -- Debunked toxicity myths
-- [Louis Lewin and Phantastica -- Origin of the term
-- [Psilocybe cyanescens -- Potent species involved in fatality case
-- [LSD and the flashback phenomenon -- Related safety discussion

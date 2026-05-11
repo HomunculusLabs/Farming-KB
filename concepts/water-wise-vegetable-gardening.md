@@ -9,7 +9,7 @@ sources:
 ---
 # Water-Wise Vegetable Gardening
 
-Steve Solomon's approach from "Gardening When It Counts" focuses on [[container-growing-vegetables-herbs]] with minimal irrigation by using wide spacing, deep soil preparation, and drought-adapted techniques. This approach produces more nutritious food with less water and less labor than intensive raised beds.
+[[steve-solomon]]'s approach from "Gardening When It Counts" focuses on [[container-growing-vegetables-herbs]] with minimal irrigation by using [[solomon-wide-spacing-versus-intensive-gardening-debate]], deep soil preparation, and drought-adapted techniques. This approach produces more nutritious food with less water and less labor than intensive [[cervantes-raised-beds-mound-planting]].
 
 ## The Four Causes of "Drought" Damage
 
@@ -37,7 +37,7 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 | Bush beans | 6 | 12 | |
 | Pole beans | 6 (double row) | 8-12 (single) | On trellis |
 | Summer squash | 24 | 48-60 | Very greedy |
-| Winter squash | 36 | 72-96 | Needs huge area |
+| [[winter-squash-guide]] | 36 | 72-96 | Needs huge area |
 | Cucumbers | 12 | 24-36 | |
 | Corn | 8-12 | 15-18 | |
 | Lettuce | 8-10 | 12-15 | |
@@ -82,29 +82,9 @@ Solomon identifies that most "drought" damage isn't actually from lack of water 
 - **Tomatoes**: Once established, deep-rooted and drought-tolerant. Cherry tomatoes most resilient
 - **Peppers**: Deep root system, prefer slightly dry conditions
 - **Eggplant**: Heat and [[permplant-carob-drought-tolerant-food-tree]]
-- **Swiss chard**: Very drought tolerant once established
+- **Swiss chard**: Very [[drought-tolerant-planting-design]] once established
 - **Parsnips**: Deep taproot accesses deep moisture
 - **Okra**: Loves heat, needs little water
 - **Cowpeas/Black-eyed peas**: Extremely drought tolerant legume
-- **Amaranth**: Grain amaranth is highly drought resistant
+- **Amaranth**: Grain amaranth is highly [[drought-resistant-gardening-techniques]]
 - **Jerusalem artichokes**: Once established, virtually maintenance-free
-
-### Vegetables That Need Consistent Water
-- Lettuce and salad greens (bolt in drought)
-- Celery and celeriac
-- Radishes (become woody)
-- Broccoli and cauliflower (button heads in drought)
-- Cucumbers (bitter fruit in drought)
-
-## Fertigation (Fertilizer + Irrigation)
-
-- Dissolve organic liquid fertilizer in irrigation water
-- Deliver nutrients directly to root zone
-- More efficient than top-dressing fertilizer
-- Use comfrey tea, [[comparison-seaweed-extract-vs-fish-hydrolysate]], or fish emulsion
-
-## Related
-- [[permaculture-earthworks]] — for earthworks
-- [[drought-gardening]] — for drought-tolerant landscaping
-- [[solomon-gardening-when-it-counts-index]]
-- [[growing-beans-peas-legume-guide]]

@@ -11,9 +11,9 @@ tags:
 sources:
   - "gardening-when-it-counts-steve-solomon"
 synopsis: >-
-  Steve Solomon's gradient approach to soil fertility provides a tiered
+  [[steve-solomon]]'s gradient approach to soil fertility provides a tiered
   system for improving garden soil, from zero-input low-demand gardening
-  to high-fertility complete organic fertilizer (COF) systems. Each step
+  to high-fertility [[complete-organic-fertilizer-cof]] (COF) systems. Each step
   up the gradient produces better results, allowing gardeners to match
   their effort and budget to expected yields.
 ---
@@ -24,7 +24,7 @@ synopsis: >-
 
 Steve Solomon's gradient [[soil-fertility-building-gradient-solomon]] approach recognizes that gardeners have vastly
 different resources — some have little money to spend, others no access
-to manure or compost materials, while some can afford any input. Rather
+to manure or [[duggar-stable-manure-selection-compost-materials]], while some can afford any input. Rather
 than prescribing one approach, Solomon provides a sequence of gradient [[soil-fertility-building-gradient-solomon]]
 steps, each an improvement over the last, allowing gardeners to match
 their [[ingham-cover-crops-soil-biology]] investment to their situation.
@@ -87,48 +87,3 @@ separate zone with doubled inputs:
 - 2 inch layer of steer manure or finished compost
 - COF blended into the top few inches of soil
 - Additional COF placed in hills around large plants
-
-Agronomists call this practice "banding" — placing concentrated
-fertility where young roots will immediately discover it, giving plants
-a fast start that helps them outgrow environmental threats.
-
-## Vegetable Demand Classification
-
-The gradient system works with three tiers of vegetables:
-
-### Low-Demand
-Crops that produce adequately with minimal soil improvement: root
-vegetables, legumes, and many leafy greens.
-
-### Medium-Demand
-Crops needing moderate fertility: tomatoes, peppers, brassicas, onions,
-and most common garden vegetables.
-
-### High-Demand
-Crops requiring rich soil for acceptable results: celery, cauliflower,
-and certain intensive crops.
-
-## Soil Input Guidelines
-
-| Input | Low-Demand | Medium-Demand | High-Demand |
-|-------|-----------|---------------|-------------|
-| Manure/compost | 1/4" layer | 1/2" layer | 1" layer |
-| Chicken manure | 1/4" layer | 1/4" layer | 1/2" layer |
-| Lime | 50 lb/1000 ft² | 50 lb/1000 ft² | 50 lb/1000 ft² |
-| COF | 4-6 qt/100 ft² | 4-6 qt/100 ft² | 4-6 qt/100 ft² |
-
-## Important Cautions
-
-- **Never exceed double** the recommended amounts of organic matter
-- **Do not overapply chicken manure** — it is potent (4-3-2 NPK)
-- **COF is potent** — more is not better
-- **Sacked steer manure** may contain semi-decomposed sawdust with
-  little fertilizing value, though it does improve soil structure
-- **Building soil excessively** wastes money, effort, and can lower
-  nutritional quality of vegetables
-
-## See Also
-
-- [[complete-organic-fertilizer-cof]]
-- [[vegetable-demand-classification]]
-- [[clay-soil-management]]

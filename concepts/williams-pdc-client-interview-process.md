@@ -10,10 +10,10 @@ sources:
 type: concept
 ---
 # Client Interview Process in Permaculture Design
-Permaculture design will always be done for a client. Even if you are
+[[permaculture-design]] will always be done for a client. Even if you are
 doing a design for yourself, think of yourself as your own client and
 treat yourself accordingly. The client interview is one of the most
-critical steps in the design process, establishing the foundation upon
+critical steps in the [[gaias-garden-design-process]], establishing the foundation upon
 which all subsequent design decisions are built.
 
 ## Purpose of the Client Interview
@@ -75,7 +75,7 @@ want? This directly informs the food systems design.
 ### Physical or Mental Limitations
 
 Does the client possess any physical or mental limitations or issues?
-This affects everything from garden bed heights to pathway widths to
+This affects everything from [[garden-bed-designs]] heights to pathway widths to
 the complexity of systems that can be maintained.
 
 (Section truncated for length.)
@@ -88,62 +88,3 @@ Word of mouth and community involvement are the primary ways design
 opportunities arise.
 
 ## Assembling a Design Team
-
-Teams should be composed of people with expertise in various areas of
-permaculture elements: gardeners, builders, landscapers, illustrators,
-and community organizers. If they do not have specific expertise, they
-should at least have the interest and passion for necessary research.
-It is not necessary that everyone on the team have a PDC.
-
-## Organizing the Design Team
-
-The team should follow an organisational mandala structure where each
-member is a lobe representing a Design Steward. Sub-circles within each
-lobe represent steps of the design process. Every task must be assigned
-to someone. A central coordinator can track progress, or the team can
-use the organisational structure and trust.
-
-## Integration with the Design Process
-
-The client interview is one of several analytical tools used in the
-permaculture design framework. It feeds directly into site analysis,
-sector analysis, and the conceptual design phase. The information
-gathered here should be cross-referenced with physical site conditions
-to ensure the final design serves both the client's aspirations and the
-ecological realities of the land.
-
-## Site Analysis Framework
-
-After the client interview, a thorough site analysis translates the
-client's desires into actionable design parameters. Key analysis
-components include:
-
-- **Topography:** Slope, aspect, elevation changes, and drainage
-  patterns determine placement of elements
-- **Water resources:** Existing water features, rainfall data, and
-  watershed boundaries inform [[earthworks-for-water-management]]
-- **Soils:** Soil type, depth, drainage, pH, and existing fertility
-  guide plant selection and earthwork design
-- **Existing vegetation:** What is already growing provides clues about
-  microclimates and soil conditions
-- **Climate data:** Temperature extremes, frost dates, wind patterns,
-  and growing season length
-- **Access and infrastructure:** Roads, paths, utilities, and buildings
-  constrain placement options
-- **Zones:** Map the site into [[permaculture-zones]] based on frequency
-  of visitation and management intensity
-- **Sectors:** Map external energies (sun, wind, fire risk, noise,
-  views, [[permaculture-designers-manual-wildlife-corridors]]) that influence design placement
-
-## Common Interview Pitfalls
-
-Experienced [[permaculture-designers-manual-animal-forage-systems]] have identified several common
-mistakes during client interviews:
-
-- **Leading the client:** Avoid projecting your own preferences onto
-  the client through leading questions. Ask open-ended questions and
-  listen more than you speak.
-- **Skipping the site visit:** Always visit the site with the client
-  present. People remember things standing on their land that they
-  forget in a meeting room.
-- **Ignoring existing systems:** The client may already have gardens,

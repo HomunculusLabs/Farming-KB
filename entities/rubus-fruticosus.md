@@ -6,13 +6,14 @@ tags:
   - berry-fruit
   - edible-plant
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - Jennings, D.L. (1988). "Raspberries and Blackberries: Their Breeding, Diseases and Growth." Academic Press.
   - Hall, H.K. et al. (2009). "Blackberries." In: "The Encyclopedia of Fruit and Nuts." CABI.
-  - dos Santos, P.H. et al. (2021). "Chemical composition and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of blackberries (Rubus spp.)." Food Research International, 140, 109917.
+  - dos Santos, P.H. et al. (2021). "Chemical composition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of blackberries (Rubus spp.)." Food Research International, 140, 109917.
   - Sarma, A.D. & Sharma, R. (1999). "Anthocyanin-DNA Copigmentation Complexes." Journal of Biosciences, 24(1), 37-41.
 ---
 
@@ -26,7 +27,7 @@ The genus *Rubus* contains over 700 species globally, with the *R. fruticosus* a
 
 Blackberry fruits have been gathered from the wild since antiquity. Archaeological evidence from European Iron Age sites confirms their use as food, and classical Roman texts reference bramble fruit in medicinal preparations.
 
-In European folklore, blackberry brambles were associated with protective magic. The practice of not picking blackberries after Michaelmas (September 29) stems from the legend that the Devil spat on the bushes after being cast from heaven.
+[[mandrake-mandragora-officinarum-in-european-folklore]], blackberry brambles were associated with protective magic. The practice of not picking blackberries after Michaelmas (September 29) stems from the legend that the Devil spat on the bushes after being cast from heaven.
 
 ## Taxonomy and Morphology
 
@@ -87,29 +88,3 @@ The mineral profile includes notable amounts of manganese (0.646 mg/100 g), copp
 ## Bioactive Compounds
 
 Blackberries contain exceptionally high concentrations of **anthocyanins**, primarily cyanidin-3-O-glucoside, cyanidin-3-O-rutinoside, and cyanidin-3-O-xyloside. Total anthocyanin content ranges from 80 to 350 mg per 100 g fresh weight.
-
-**Ellagitannins** are the second major polyphenol class, with sanguiin H-6 as the dominant compound. These hydrolyzable tannins are metabolized by gut microbiota to urolithins, which have demonstrated anti-inflammatory activity in vitro.
-
-Additional phenolic compounds include **ellagic acid**, gallic acid, quercetin, kaempferol, and procyanidin oligomers. The total polyphenol content of blackberries consistently ranks among the highest of common berry fruits.
-
-ORAC (Oxygen Radical Absorbance Capacity) values for blackberry range from 20 to 60 µmol TE/g fresh weight, depending on cultivar, maturity, and growing conditions. Antioxidant capacity correlates strongly with anthocyanin and ellagitannin content.
-
-Emerging research suggests blackberry polyphenols may support cardiovascular health, modulate gut microbiome composition, and exhibit neuroprotective properties. Human [[mushroom-cancer-clinical-trials-overview]] remain limited, with most evidence drawn from in vitro and animal models.
-
-## Ecological Role
-
-Blackberry thickets provide critical habitat and food resources for wildlife across their native and introduced ranges. The flowers are important nectar sources for bees and butterflies during midsummer when fewer floral resources are available.
-
-Birds are the primary dispersal agents for blackberry seeds, with thrushes, blackbirds, and robins consuming ripe fruit and excreting viable seeds at considerable distances from parent plants. This zoochorous dispersal mechanism contributes to the species' rapid colonization of disturbed habitats.
-
-The dense, thorny canopy structure of mature bramble thickets offers nesting sites and protective cover for small mammals, songbirds, and invertebrates. In agricultural landscapes, blackberry hedgerows serve as biological corridors connecting fragmented habitats.
-
-## See Also
-
-- [[rubus-chamaemorus]]
-
-- [[vaccinium-myrtillus]]
-- rosa-canina
-- [[mentha-piperita]]
-- [[fagopyrum-esculentum]]
-- [[glycine-max]]

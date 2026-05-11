@@ -87,16 +87,3 @@ Animal by-product JLFs fit within the broader JADAM approach:
 - [[jadam-ultra-low-cost-agriculture]] -- the overall cost-reduction philosophy
 
 ## Practical Considerations
-
-- Odor management: add phyllite or keep containers sealed
-- Dilution is critical for young plants -- use 1000x or more for seedlings
-- Leaf mold serves as microbial inoculant for the fermentation process
-- Preparation time of 3+ months requires planning ahead
-- Heating can accelerate decomposition but is not essential
-- All animal by-product fertilizers should be applied in early-to-mid growth stages
-
-## Related Concepts
-
-- [[jadam-food-waste-liquid-fertilizer]]
-- [[jadam-soil-management-principles]]
-- [[jadam-natural-farming-philosophy]]

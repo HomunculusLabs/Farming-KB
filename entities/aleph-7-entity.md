@@ -88,11 +88,3 @@ Sleep disruption is significant and should be planned for.
 ## See Also
 
 [[aleph-2-entity]]
-
-[[2c-t-entity]]
-
-[[dom]]
-
-## References
-
-Shulgin, A. & Shulgin, A. (1991). PIHKAL: A Chemical Love Story. Entry #7: ALEPH-7.

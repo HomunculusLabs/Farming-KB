@@ -1,6 +1,6 @@
 ---
 
-title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
+title: Log Cultivation Methods
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Log Cultivation Methods
 
-From Chapter 11 of *Mycelium Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
+From Chapter 11 of *[[mycelium-running-conservation-biology-and-fungi]]* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
 
 ## Choosing the Right Wood
 
@@ -35,7 +35,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 | Rapidly decomposing (alder, birch, aspen) | 6-12 months | Until bark peels | Fastest returns |
 | Medium density (oak, maple, elm) | 1-2 years | 4-7 years | Best balance |
 | Dense hardwoods (ironwood, hickory) | 2-3 years | 5-10 years | Longest production |
-| Cedar, redwood | 20+ years (aged) | Unknown | Only Hypholoma capnoides known to work |
+| Cedar, redwood | 20+ years (aged) | Unknown | Only [[growing-gourmet-hypholoma-capnoides-cultivation]] known to work |
 
 ### Key Principles
 - Oak is the natural host for shiitake, but alder, eucalyptus, and other fast-decomposing hardwoods are readily colonized
@@ -45,7 +45,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 
 ### Tree Selection
 - Cut logs in late winter/early spring when sap runs (highest sugar content)
-- Avoid wood with decay, wounds, blight signs, or preexisting mushroom growth
+- Avoid wood with decay, wounds, blight signs, or preexisting [[evaporative-demand-hypothesis-mushroom-growth]]
 - Check cut ends: healthy logs show clean growth rings; infected logs show marbling
 - If infection is near the cut zone, cut 1 full meter away from last visible discoloration and inoculate at double rate
 - Storm debris = free substrate; some arborists now offer mycological services
@@ -132,7 +132,7 @@ Using multiple inoculation strategies simultaneously:
 - Wound the stump face with a chain saw before applying spawn (creates more surface area)
 - Place sawdust spawn over the wounds and across gaps between stacked logs
 - Cover with fresh wood chips to protect from drying
-- Stumps of recently felled trees have the highest success rate
+- Stumps of recently felled trees have the highest [[maitake-fruiting-body-success-rate-management]]
 - Long-lived species like reishi and turkey tail are excellent stump candidates
 
 ## Bunker Spawn — Scalable Habitat Restoration

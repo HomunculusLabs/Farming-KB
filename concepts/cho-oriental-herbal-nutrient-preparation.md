@@ -1,7 +1,7 @@
 ---
-title: bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient Preparation (Cho's Method)
+title: Cho [[knf-oriental-herbal-nutrient]] Preparation
 created: 2026-04-28
-tags: [knf, input-preparation, herbal-medicine]
+tags: [knf, input-preparation, [[herbal-medicine]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -9,7 +9,7 @@ sources:
 type: concept
 ---
 
-The Oriental Herbal Nutrient (OHN) is a very important input in Dr.
+The [[knf-ohn-oriental-herbal-nutrient-recipe]] (OHN) is a very important input in Dr.
 Cho's [[comparison-natural-farming-vs-permaculture]] system. It is made from herbs that are full of
 energy and function to increase plant robustness, to sterilize, and
 to keep plants warm. OHN revitalizes crops and activates their growth.
@@ -87,42 +87,3 @@ application.
    more easily.
 
 ## Combining the Three OHNs
-
-The three kinds of OHN (ginger, garlic, and cinnamon) are mixed just
-before using in the following ratio:
-
-### Dilution Ratio
-
-1:1:1:1000 (equal parts of each OHN extract diluted in 1000 parts
-water). The ratio can be changed depending on weather or the condition
-of the plant. General range is 1:500 to 1:1000.
-
-## When and How to Use OHN
-
-OHN is one of the most versatile inputs in Natural Farming and is used
-throughout the entire [[cho-indigenous-microorganisms-collection-and-cultivation]] and IMO-4
-- [[cho-seed-seedling-solution-treatment]]
-- All growth periods: nutritional growth, change-over, and
-  [[knf-reproductive-growth-stage]] periods
-
-### When Crops Are Weakened
-
-To reinvigorate weakened crops, apply a mixture of:
-- OHN at 1:1000 dilution
-- FPJ at 1:500 dilution
-- BRV at 1:500 dilution
-
-For plants with [[staycare-soft-rot-fungi-in-pollutant-degradation]] or anthracnose, add WCA at 1:1000 dilution
-to the mixture.
-
-## Key Principle
-
-OHN is always used in Natural Farming. It is considered one of the
-most important inputs because it bridges all growth stages and
-provides the robustness and sterilization that plants need throughout
-their [[bloomfield-fungal-life-cycle-spiral-versus-circle]].
-
-## See Also
-
-- [[cho-lactic-acid-bacteria-preparation]] - another essential input
-- [[cho-water-soluble-calcium-and-potassium]] - used alongside OHN

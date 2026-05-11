@@ -1,8 +1,8 @@
 ---
-title: AACT Orchard Disease Suppression — Verticillium, Brown Rot, Cedar Apple Rust, and Late Blight
+title: Ingham Aact Orchard Disease Suppression Verticillium Brown Rot Cedar Rust
 source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 source_author: Dr. Elaine R. Ingham
-topic: compost tea orchard disease management
+topic: compost tea orchard [[clubroot-disease-management]]
 type: concept
 tags: [aact, disease-suppression, verticillium, brown-rot, cedar-apple-rust, late-blight, orchard, fireblight, compost-tea, ingham]
 ---
@@ -24,13 +24,13 @@ Ingham specifies a clear target for Verticillium suppression:
 - Cover at least **70% of leaf surfaces, blossoms, bark, and dead leaves on the orchard floor** with both bacteria and fungi
 - **Fungi must comprise at least 5% of that 70% coverage** — this minimum fungal threshold is critical
 - Begin spraying **two weeks before bud break** to establish protective biology before the pathogen becomes active
-- Continue applications through the growing season
+- Continue applications through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]
 
 ### Seasonal Application Schedule
 
 1. **Fall application** — spray the orchard floor and downed leaves to decompose infected debris before overwintering
 2. **Pre-budbreak** (2 weeks before bud break) — foliar spray to establish protective biology on emerging tissue
-3. **Bloom through fruit set** — regular foliar applications every 10-14 days
+3. **Bloom through fruit set** — regular [[ingham-foliar-applications-compost-tea-disease-suppression]] every 10-14 days
 4. **Post-harvest** — soil drench to protect roots during dormancy
 
 ### Why Verticillium Requires Fungi
@@ -79,59 +79,12 @@ The fungal community suppresses cedar apple rust by occupying leaf surface sites
 
 ## Late Blight
 
-Ingham reports extensive experience with late blight (*Phytophthora infestans*), though less with early blight. Late blight is an oomycete (water mold) rather than a true fungus, but the AACT suppression approach follows similar principles.
+Ingham reports extensive experience with late blight (*[[bloomfield-potato-blight-phytophthora-infestans]]*), though less with early blight. Late blight is an oomycete (water mold) rather than a true fungus, but the AACT suppression approach follows similar principles.
 
 ### Late Blight Experience
 
 The field guide documents AACT work with compost tea makers in preventing diseases including late blight, with positive results. The approach involves:
 
 1. Regular foliar applications of fungal-dominant AACT
-2. Combined bacterial and fungal coverage of leaf surfaces
+2. Combined [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] coverage of leaf surfaces
 3. Prevention-focused timing — begin applications before disease pressure arrives
-4. Complete coverage of all above-ground plant tissue
-
-### Fireblight
-
-Ingham mentions fireblight alongside blight diseases. Fungi are needed to suppress fireblight, and anecdotal evidence from New York estates (contact: Paul Wagner and James Sottilo, soilfoodwebny@aol.com) suggests fireblight was removed through comprehensive AACT programs.
-
-## Root Grubs and Wireworms
-
-While not a disease, Ingham includes root-feeding insects in the disease and pest suppression section because AACT addresses them through the same biological mechanisms.
-
-### Beauveria — The Key Fungus
-
-AACT typically contains certain fungi that are **parasitic on insect larvae**, especially beetle larvae that consume roots:
-
-- **[[beauveria-bassiana]]** is the primary insect-pathogenic fungus to look for
-- Beauveria may be available as a commercial inoculum that can be added directly to AACT
-- Once active in the tea, Beauveria spores are ready to infect root grubs and wireworms on contact
-
-### Integration with AACT Programs
-
-1. Source Beauveria inoculum from a reputable biological supplier
-2. Add during the last 4-6 hours of the brew cycle
-3. Apply as soil drench targeting the root zone
-4. Time applications for when soil temperatures favor both Beauveria and grub activity
-5. Ensure adequate soil moisture after application for spore germination
-
-## Common Principles Across Orchard Diseases
-
-### Coverage Is Non-Negotiable
-
-All orchard disease suppression with AACT requires minimum 70% surface coverage. Below this threshold, pathogens find sufficient unprotected sites. Use proper spray equipment with fine droplet sizes and ensure complete coverage.
-
-### Timing Is Everything
-
-Preventive applications are dramatically more effective than reactive treatments. Once a pathogen has established inside plant tissue, AACT cannot reach it. The goal is having beneficial biology established before the pathogen's infection window opens.
-
-### Fungal Dominance for Woody Perennials
-
-Tree fruits and woody perennials naturally support fungal-dominated soil biology. Using fungal-dominant teas aligns with the plant's preferred microbial community and provides more durable protection than bacterial teas alone.
-
-## See Also
-
-- [[ingham-aact-disease-suppression-mechanisms|AACT Disease Suppression Mechanisms]]
-- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose|Fusarium, Rhizoctonia, Anthracnose Suppression]]
-- [[ingham-beauveria-parasitic-fungi|Beauveria as Parasitic Fungus]]
-- [[ingham-foliar-compost-tea-application|Foliar Compost Tea Application]]
-- [[ingham-trichoderma-biocontrol-fungi-aact|Trichoderma Biocontrol Fungi]]

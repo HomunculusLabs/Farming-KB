@@ -88,28 +88,3 @@ conservation statuses, ecological roles, and geographic distributions
 than their "parent" species.
 
 Cryptic species may also differ in traits of practical importance —
-pathogenicity, toxin production, drug resistance, and industrial
-properties. Misidentifying a pathogenic cryptic species as its benign
-sibling can have serious consequences for agriculture and medicine.
-
-## Taxonomic Challenges
-
-Describing cryptic species challenges the traditional taxonomic framework.
-Without morphological characters, formal description requires genetic
-diagnoses, which some taxonomists resist. The philosophical question of
-what constitutes a "species" in predominantly asexual organisms remains
-unresolved. Practical issues include the lack of physical type specimens
-for DNA-only descriptions and the difficulty of linking sexual and asexual
-morphs (teleomorph-anamorph connections).
-
-The [[molecular-methods-fungal-taxonomy-and-diversity]] community is gradually embracing molecular-based
-species concepts, with many journals now accepting DNA diagnoses as part
-of formal descriptions. However, the backlog of undescribed cryptic
-species far outpaces the rate of formal taxonomic work, leaving most
-fungal diversity in a state of taxonomic limbo.
-
-## See Also
-
-- [[fungal-taxonomy]]
-- species delimitation
-- [[gymnopus-dryophilus]]

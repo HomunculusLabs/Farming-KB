@@ -1,5 +1,5 @@
 ---
-title: "Psilocybin and psilocybin-psilocin-chemistry-and-pharmacology-emcdda: Serotonin Relationship and Pharmacological Mechanism"
+title: Psilocybin Psilocin Chemistry Serotonin 5Ht2A Mechanism Emcdda 2006
 source: "carolina-mushrooms_08qxp.md"
 tags: [pharmacology, psilocybin, psilocin, serotonin, 5-HT2A, tryptamines, chemistry]
 created: 2026-05-08
@@ -11,7 +11,7 @@ created: 2026-05-08
 
 Psilocybin and psilocin are the primary psychoactive compounds in hallucinogenic
 mushrooms. They belong to the indolealkylamine (tryptamine) class, the same chemical
-family as serotonin, LSD, and DMT. Understanding their chemistry and pharmacology is
+family as serotonin, LSD, and DMT. Understanding their [[amanita-muscaria-chemistry-and-pharmacology]] is
 essential for explaining both their effects and their relative [[cannabis-safety-profile-and-overdose-risk]] compared
 to other hallucinogenic substances.
 
@@ -41,7 +41,7 @@ pharmacological activity.
 - **Molecular formula**: C₁₂H₁₆N₂O
 - **Molecular weight**: 204.27 g/mol
 - **Properties**: Less stable than psilocybin; the pharmacologically active compound
-  that acts on serotonin receptors
+  that acts on [[psilocybin-pharmacology-and-serotonin-receptors]]
 
 ### Baeocystin and Norbaeocystin
 Two additional tryptamines may be present in [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]:
@@ -71,7 +71,7 @@ enzymatic dephosphorylation, primarily in the gut and liver.
 
 The prodrug nature of psilocybin has several practical implications:
 
-- **Oral bioavailability**: Psilocybin is readily absorbed and converted after
+- **[[first-pass-metabolism-and-oral-bioavailability]]**: Psilocybin is readily absorbed and converted after
   ingestion
 - **Onset of action**: Effects typically begin 20-60 minutes after oral ingestion,
   corresponding to the time needed for absorption, conversion, and brain penetration
@@ -88,54 +88,3 @@ pyramidal neurons. Activation of 5-HT2A receptors produces:
 - **Visual effects**: Enhanced visual processing, geometric patterns, color
   intensification, and at higher doses, true visual hallucinations
 - **Altered thought patterns**: Loosening of cognitive associations, enhanced
-  metaphoric thinking, and synesthesia
-- **Emotional effects**: Amplified emotions, feelings of connectedness, and in
-  some settings, mystical or transcendent experiences
-- **Perceptual distortions**: Altered sense of time, space, and self-boundary
-
-The 5-HT2A mechanism is shared with LSD and other classical psychedelics, which is
-why these substances produce qualitatively similar effects despite different chemical
-structures.
-
-## Psilocybin vs. Amanita Chemistry
-
-The EMCDDA (2006) emphasized that psilocybin-containing mushrooms are chemically
-distinct from [[allegro-amanita-muscaria-properties-and-pharmacology]] and related species:
-
-| Property | Psilocybin Mushrooms | Amanita Species |
-|----------|---------------------|-----------------|
-| Active compounds | Psilocybin, psilocin | Muscimol, ibotenic acid |
-| Chemical class | Indolealkylamines (tryptamines) | Ibotenic acid derivative / GABA agonist |
-| Receptor target | 5-HT2A (serotonin) | GABA_A and glutamate receptors |
-| Primary families | Strophariaceae, Bolbitiaceae, Coprinaceae, Cortinariaceae | Agaricaceae |
-| Toxicity profile | Low toxicity, high safety margin | Significant toxicity risk, narrow margin |
-| Confusion risk | Can resemble non-psychoactive species | Can resemble deadly Amanita species |
-
-This distinction is clinically important because the entirely different receptor
-mechanisms, toxicity profiles, and risk patterns mean that these two groups of
-"[[guzman-magic-mushrooms-african-species]]" should not be conflated in harm reduction messaging or policy.
-
-## Terminology: Hallucinogenic vs. Psychedelic
-
-The EMCDDA noted the terminological debate in the scientific literature:
-- **"Hallucinogens"**: Adopted by the scientific community; refers to hallucinogen-
-  producing properties, though the term is misleading since these drugs generally
-  do not cause true hallucinations (sensory perceptions without external stimuli)
-- **"Psychedelic"**: Preferred by users; from Greek roots meaning "mind-manifesting"
-  or "mind-revealing"; carries positive connotations of expanded consciousness
-- **"Psychotomimetic"**: Earlier clinical term meaning "psychosis-mimicking"; now
-  considered inaccurate and pejorative
-- **"Psychodysleptic"**: "Mind-disrupting"; used in some [[metzner-sandoz-psycholytic-therapy-european-clinical-model]] contexts
-
-The effects are more accurately described as perceptual distortions than true
-hallucinations. Changes in thought, mood, and self-awareness are equally important
-effects that extend beyond purely perceptual phenomena.
-
-## See Also
-
-- neurotropic-fungi-four-chemical-groups-classification-guzman-2000
-- [[amanita-muscaria-chemistry-and-pharmacology]]
-- emcdda-hallucinogenic-mushroom-european-species-distribution
-- [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[psilocybin-mushrooms]]
-- [[amanita-muscaria]]

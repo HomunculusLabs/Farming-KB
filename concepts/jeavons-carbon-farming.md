@@ -87,17 +87,3 @@ Ecology Action is finding that cold compost piles (built with more carbon, takin
 ## Net Carbon Considerations
 
 The net loss of carbon dioxide ("leakage") from the system is a key concern. Worldwide, the loss of carbon from soils and harvested trees is causing increasing problems. The goal is to create a system where gains equal or exceed losses.
-
-## The Closed-System Ideal
-
-The ultimate goal is a mini-farm that:
-- Produces all of its own compost material without importing straw, manure, or other carbonaceous material
-- Maintains nutrient sustainability (though some [[hamilton-organic-fertilizers-and-plant-nutrition]] may be needed until human waste can be safely returned to the soil)
-- Becomes a net source of carbon, nutrients, and fertility rather than a sink
-
-"We need to grow enough organic matter for our own needs. If we farm in a way that does not sustain soil fertility, the soil that is currently used to grow crops will soon be able to grow only fodder for sheep, later only scraggly weeds for goats, and then nothing at all."
-
-## See Also
-- [[green-manure-crops]]
-- [[jeavons-soil-fertility]]
-- [[jeavons-calorie-farming]]

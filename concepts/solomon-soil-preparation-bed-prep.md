@@ -10,11 +10,11 @@ sources:
 
 # Soil Preparation and Bed Preparation
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Fundamental Task of Gardening
 
-[[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful vegetable gardening.
+[[home-vegetable-garden-planning]], at its core, consists of: bare and loosen the soil surface so seeds can sprout; eliminate competing wild plants; space plants so they are not overly competing with each other; and make the soil more fertile and moist than nature provides. These few practices are almost all there is to successful [[dryland-vegetable-gardening]].
 
 ## Understanding Your Soil
 
@@ -29,7 +29,7 @@ The subsoil type is critical. A sandy topsoil over open, penetrable clay subsoil
 
 ## Soil Fractional Analysis Test
 
-A simple jar test determines sand, silt, and clay percentages:
+A simple [[solomon-soil-profile-assessment-fractional-analysis-jar-test]] determines sand, silt, and clay percentages:
 
 1. Fill a quart jar 1 inch from the top with crumbled soil
 2. Add water to within 1 inch of top plus 1 teaspoon dishwashing detergent
@@ -79,7 +79,7 @@ Solomon uses 4-foot-wide (1.25 m) raised beds for most of his garden. These are 
 He explicitly does NOT recommend:
 - Deep double-digging (as promoted by Jeavons) -- unnecessary effort for most soils
 - Imported raised beds filled with purchased soil mixtures -- expensive and can have mineral imbalances
-- Permanent mulching -- in mild climates it harbors pests; in all climates it risks unbalancing soil nutrients
+- [[solomon-permanent-mulching-critique-limitations]] -- in mild climates it harbors pests; in all climates it risks unbalancing soil nutrients
 
 For clay soils, the most effective long-term solution (if affordable) is to import a foot (30 cm) of loam topsoil over the clay, creating a genuine topsoil layer. This costs less over decades than annually hauling 20-25 cubic yards of compost to "build up" clay.
 
@@ -87,23 +87,4 @@ For clay soils, the most effective long-term solution (if affordable) is to impo
 
 Plants do most of their growing at night. Growth speed doubles for every 10F (5C) increase in soil temperature. At 50F nighttime temperature, plants grow one unit; at 60F, two units; at 70F, four units; at 80F, eight units. This is why corn can be heard growing on hot midwestern nights.
 
-Roots grow at the same temperature-determined rate as tops. In cold spring soil, seeds germinate slowly and roots struggle. Anything that improves soil tilth -- incorporating organic matter, loosening compaction -- helps the soil warm faster.
-
-## The Critical Role of Oxygen
-
-Roots breathe oxygen and exhale carbon dioxide. They cannot get oxygen from leaves. Soil must contain air spaces for roots to function. Compaction from walking on wet soil, rototilling when too wet or too dry, or excessive organic matter that collapses structure all reduce root-zone oxygen.
-
-## Summary of Bed Preparation
-
-1. Assess soil type with jar test and observation hole
-2. Spread amendments appropriate to [[solomon-vegetable-demand-classification-low-medium-high]] level
-3. Dig or till at the right moisture (especially critical for clay)
-4. Rake beds into 4-foot-wide raised rows
-5. Keep tools sharp for efficient work
-6. Do not walk on beds after preparation
-
-## See Also
-
-- [[sheet-mulching-lasagna-gardening]]
-- [[no-till-cannabis]]
-- [[soil-food-web-nutrient-cycling]]
+Roots grow at the same temperature-determined rate as tops. In cold spring soil, seeds germinate slowly and roots struggle. Anything that improves soil tilth -- incorporating [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]], loosening compaction -- helps the soil warm faster.

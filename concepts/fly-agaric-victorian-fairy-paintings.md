@@ -1,5 +1,5 @@
 ---
-title: Fly-Agaric in fly agaric victorian fairy paintings Paintings and Popular Culture
+title: Fly Agaric Victorian Fairy Paintings
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -58,7 +58,7 @@ references and, not least, hints that the author had a taste for magic
 mushrooms. The most famous instance of this reading must be "White Rabbit" by
 [[shipibo-san-francisco-ceremonial-center-ucayali]] band Jefferson Airplane, a song that played a part in
 broadcasting to the world the news about mushrooms. Backed by a classic
-sixties West Coast psychedelic guitar, banshee-like Grace Slick extols the
+sixties [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]] psychedelic guitar, banshee-like Grace Slick extols the
 virtues of the [[leary-psychedelic-experience-bardo-mapping]] in a thinly disguised code: "You've
 just had some kind of mushroom, and your mind is moving slow... Go ask Alice,
 I think she'll know."
@@ -76,7 +76,7 @@ it does today: Conan Doyle, for example, saw no problem with using cocaine.
 
 It appears Carroll took only literary, and not literal, inspiration from the
 Siberian mushrooming stories circulating in mycological texts of his era. The
-mushroom scene in Alice draws upon a well-established literary tradition of
+mushroom scene in Alice draws upon a well-established [[mckenna-fitz-hugh-ludlow-american-hashish-literary-tradition]] of
 size-transformation narratives rather than upon direct pharmacological
 experience.
 
@@ -88,54 +88,3 @@ artists Joseph Noel Paton, John Anster Fitzgerald, Richard Doyle, and Richard
 Dadd, who spent much of his life incarcerated in Broadmoor lunatic asylum.
 Mushrooms appeared in many of these paintings, not only to suggest the
 diminutive size of the fairies who pranced amongst them, but to act as
-signifiers for the eldritch, otherworldly realm that fairies were supposed to
-inhabit.
-
-In Fitzgerald's The Fairies' Banquet of 1859, a group of fairies dine around
-a mushroom table. In a Doyle watercolour, painted between 1870 and 1880,
-Elves Playing Leapfrog over Red Toadstools shows the characteristic fly-agaric
-shape being used for play. On the Victorian stage, fairies appeared in
-everything from pantomimes to Shakespeare: in the Princess Theatre's 1856
-production of A Midsummer Night's Dream, Puck appeared atop a mechanical
-mushroom to the delight and wonder of the audience.
-
-## Not Inspired by Direct Mushroom Experience
-
-Not one of these examples of mushroom Victoriana was inspired by a first-hand
-experience with the fly-agaric. As Letcher notes, people had yet to acquire
-the taste for it. In the case of Dadd and otherworldly paintings, the imagery
-can most definitely be attributed to imagination bolstered by that true
-Victorian staple, opium. By the end of the century, the Victorian love of
-fairies had dwindled, and with it the mushrooms with which they had become
-inextricably connected were banished to the domain of the nursery.
-
-## From Nursery to Modern Popular Culture
-
-The fly-agaric made its way into children's books, children's Christmas and
-greeting cards (especially in Germany, the Baltic countries, and Eastern
-Europe), and other ephemera and knick-knacks. Cartoon fly-agarics litter the
-forest floor in Walt Disney's Snow White and the Seven Dwarfs, and performed
-a memorable "Danse Chinois" in the Nutcracker sequence of Disney's Fantasia.
-From there they entered the sickly-sweet gardens and enchanted forests imagined
-by Enid Blyton, forever conjoined with that embodiment of suburban cuteness,
-the garden gnome.
-
-## The Trajectory of Cultural Meaning
-
-The trajectory of the fly-agaric through Western culture -- from Siberian
-travelogue curiosity, through Victorian literary inspiration and fairy
-painting, to children's illustration and greeting card kitsch -- reveals how a
-mushroom's distinctive visual form can accumulate layers of cultural meaning
-entirely independent of its pharmacological properties. Its iconic red-and-
-white appearance made it a blank canvas onto which successive generations
-projected their anxieties, fantasies, and aesthetic preferences. The mushroom
-has functioned less as a drug and more as a symbol -- of the fairy world, of
-enchantment, of the grotesque and the gnomish -- a role it continues to play
-in popular culture long after its psychoactive properties became widely known.
-
-## See Also
-
-- victorian-mycology-and-fairy-rings
-- [[fly-agaric-literary-history]]
-- [[siberian-fly-agaric-tradition]]
-- [[amanita-muscaria]]

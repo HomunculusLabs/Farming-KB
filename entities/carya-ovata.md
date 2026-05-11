@@ -87,27 +87,3 @@ Despite its outstanding wood quality, shagbark hickory is less commercially impo
 Shagbark hickory is planted infrequently in ornamental landscapes due to its large mature size, slow growth, and messy nut drop. However, its striking bark, golden fall color, and wildlife value make it an excellent specimen for large properties.
 
 Propagation from seed requires stratification at 1–4°C for 90–120 days to break dormancy. Seedlings develop a deep taproot early, making successful transplanting difficult after the first year or two.
-
-The species grows slowly, typically adding 20–30 cm in height per year during the first decade. Growth rates accelerate on fertile sites but remain slower than associated oaks and maples.
-
-Shagbark hickory begins producing nuts at approximately 40 years of age, with reliable production beginning at 60–80 years. Annual nut production is variable, with heavy mast years occurring every 1–3 years.
-
-The species is difficult to propagate vegetatively, and named cultivars for improved nut quality are rare compared to pecan (C. illinoinensis). A few selections with thinner shells and larger kernels have been made by arboretums and agricultural experiment stations.
-
-Shagbark hickory is increasingly used in ecological restoration and native plant landscaping. Its deep root system provides soil stabilization on slopes, and its value as a wildlife food plant makes it a desirable addition to conservation plantings and reforestation projects.
-
-## See Also
-
-- [[plantago-ovata]]
-
-- [[juglans-nigra]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[populus-tremuloides]]
-- [[robinia-pseudoacacia]]
-- [[betula-pendula]]
-- [[ulmus-americana]]
-- [[picea-abies]]
-- [[castanea-sativa]]
-- [[larix-decidua]]
-- [[quercus-robur]]

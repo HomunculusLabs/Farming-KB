@@ -10,9 +10,9 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Tucker, G.C. (1994). "Cyperus L." In: Flora of North America, Vol. 23. Oxford University Press.
+  - Tucker, G.C. (1994). "Cyperus L." In: Flora huckleberries-and-wild-berries-of-north-america, Vol. 23. Oxford University Press.
   - Weakley, A.S. (2023). Flora of the Southeastern United States. University of North Carolina Herbarium.
-  - Godfrey, R.K. & Wooten, J.W. (1979). Aquatic and Wetland Plants of Southeastern United States. University of Georgia Press.
+  - Godfrey, R.K. & Wooten, J.W. (1979). [[permaculture-plants-aquatic-and-wetland-species]] Plants of Southeastern United States. University of Georgia Press.
   - Bryson, C.T. & Carter, R. (2008). "The significance of Cyperaceae as weeds." Crop Protection 27(3): 554–559.
   - Hilty, J. (2024). Illinois Wildflowers. illinoiswildflowers.info.
 ---
@@ -53,7 +53,7 @@ The achene is obovate, approximately 1 mm long, brown, and three-angled.
 
 Cyperus strigosus is native to the eastern and central United States, ranging from Massachusetts to Florida and west to Texas and Minnesota.
 
-Its range extends into Mexico, Central America, and parts of South America.
+Its range extends into Mexico, [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]], and parts of South America.
 
 The species has been introduced in Hawaii and other tropical regions.
 
@@ -81,35 +81,10 @@ In agricultural contexts, it is classified as a minor weed of rice, soybeans, an
 
 Cyperus strigosus has no well-documented ethnobotanical applications among Indigenous peoples of North America.
 
-Other Cyperus species, notably Cyperus rotundus (nutgrass) and Cyperus esculentus (chufa), have extensive traditional uses.
+Other Cyperus species, notably [[cyperus-rotundus]] (nutgrass) and [[cyperus-esculentus]] (chufa), have extensive traditional uses.
 
 Cyperus strigosus has been investigated for phytoremediation potential due to its tolerance of contaminated soils.
 
-It can accumulate moderate levels of heavy metals, suggesting utility in constructed wetland treatment systems.
+It can accumulate moderate levels of heavy metals, suggesting utility in [[comparison-constructed-wetland-vs-backyard-pond]] treatment systems.
 
 No significant pharmacological activity has been reported for this species.
-
-## Cultivation
-
-Cyperus strigosus is not widely cultivated but occasionally appears in native-plant and wetland-restoration seed mixes.
-
-It germinates readily from seed on moist, exposed soil surfaces with full sun.
-
-The species requires minimal soil fertility and adapts to a wide range of moisture conditions.
-
-It can behave aggressively in garden settings due to prolific seed production.
-
-Control in managed landscapes is achieved through mulching and competitive planting with taller perennials.
-
-It is not typically available through commercial horticultural suppliers.
-
-## See Also
-
-- [[cyperus-rotundus]]
-- [[cyperus-esculentus]]
-- [[cyperus-papyrus]]
-- [[cyperus-alternifolius]]
-- [[cyperus-longus]]
-- [[eleocharis-palustris]]
-- [[schoenoplectus-lacustris]]
-- [[juncus-effusus]]

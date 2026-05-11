@@ -87,36 +87,3 @@ along the food chain. The extent to which concentration factors
 observed in vitro can be reproduced in the field remains uncertain.
 
 ## Complexation and Chelation Chemistry
-
-The chemistry of metal-organic acid complexation follows well-defined
-stoichiometric relationships. Citric acid forms stable complexes with
-many divalent and trivalent metal cations through its three carboxyl
-groups, creating five- and six-membered chelate rings. Oxalic acid,
-with two carboxyl groups, forms bidentate complexes that may
-precipitate as crystalline metal oxalate dihydrate or monohydrate
-minerals depending on conditions.
-
-Fungal production of other organic acids, including gluconic, malic,
-succinic, and fumaric acids, contributes to a complex mixture of
-metal-chelating agents in the mycosphere. The relative abundance of
-each acid depends on fungal species, growth conditions, and the
-available carbon source. This diversity of chelating agents enables
-fungi to interact with a broad spectrum of metal species across
-varying soil pH and redox conditions.
-
-## Interactions with Other Bioremediation Processes
-
-Fungal metal solubilization does not operate in isolation but interacts
-with other microbial processes in soil. Solubilized metals may become
-available for uptake by plants (assisting phytoremediation), for
-precipitation by sulfate-reducing bacteria, or for biosorption onto
-other microbial biomass. The net effect on metal mobility depends on
-the balance between solubilization and competing immobilization
-processes operating simultaneously in the soil environment.
-
-## See Also
-
-- [[staycare-fungal-organic-acid-production-metal-leaching]]
-
-- [[fungal-metal-transformations-biosorption]]
-- [[fungal-metal-biosorption-comparative]]

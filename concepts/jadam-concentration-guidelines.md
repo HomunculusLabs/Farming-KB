@@ -88,31 +88,3 @@ Homemade pesticides require more attention to concentration than commercial prod
 6. Do NOT mix undiluted JS and JWA together (clotting)
 
 ### Compatibility
-- JWA + JHS: excellent mix, good foam
-- JWA + JS: excellent mix
-- JWA + JMS: good mix (limit JMS to 20 L)
-- JHS + JS: can combine
-- Full combination JWA + JS + JHS: works well
-
-### Incompatible (poor foam, clotting)
-- Vinegar, wood vinegar: do NOT mix with JNP directly
-- Sea water, [[jadam-sea-salt-and-mineral-solutions]]: do NOT mix
-- Sugar/molasses inputs: do NOT mix
-- If necessary, dilute incompatible inputs to 1,000x
-
-### Safety Checks
-1. Always do mixture test (combine ingredients in small amount, check for clotting)
-2. Always do concentration test (spray small area, wait 24-48 hours, check for damage)
-3. For JS: wait 7 days after chemical pesticide before using JNP
-4. Do NOT mix with Delan-family fungicides
-
-## Strength Indicators
-
-The final pesticide should produce vigorous foam when shaken. Weak foam (like beer) means weak effect. Clear water with good foam after mixing = success. Murky water with little foam = problem (use different water).
-
-## See Also
-
-- [[jadam-natural-pesticide-jnp]] -- complete pesticide system
-- [[jadam-herb-solution-jhs]] -- JHS details
-- [[jadam-fruit-tree-winter-pest-control]]
-- [[jadam-natural-vs-chemical-pesticide]]

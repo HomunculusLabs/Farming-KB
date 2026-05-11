@@ -39,7 +39,7 @@ Basidiospores are cylindrical to ellipsoid, smooth, thin-walled, and measure 8�
 
 ## Distribution and Habitat
 
-G. sepiarium has a circumboreal distribution, occurring throughout temperate and boreal regions of Europe, Asia, and North America. It is particularly abundant in the northern hemisphere where coniferous forests dominate.
+G. sepiarium has a circumboreal distribution, occurring throughout temperate and boreal regions of Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. It is particularly abundant in the northern hemisphere where coniferous forests dominate.
 
 The species is a primary colonizer of dead coniferous wood including pine (Pinus), spruce (Picea), fir (Abies), larch (Larix), and hemlock (Tsuga). It commonly occurs on stumps, fallen logs, dead branches, and structural timber in outdoor settings. It is frequently found on creosote-treated utility poles and fence posts.
 
@@ -55,11 +55,11 @@ Unlike white-rot fungi, G. sepiarium does not produce lignin peroxidases or mang
 
 ## Timber Damage and Economic Impact
 
-G. sepiarium is one of the most commonly encountered decay fungi in structural timber surveys in temperate regions. It causes rapid strength loss in coniferous wood, with significant reduction in mechanical properties occurring within months of colonization.
+G. sepiarium is one of the most commonly encountered decay fungi in structural timber surveys in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. It causes rapid strength loss in coniferous wood, with significant reduction in mechanical properties occurring within months of colonization.
 
 The fungus is particularly problematic in outdoor timber structures including fences, decking, utility poles, railroad ties, and mine timbers. Its tolerance of wood preservatives and ability to colonize through surface checks and nail holes make it difficult to control in service. Creosote treatment provides incomplete protection, as the fungus can colonize treated wood through untreated cut ends and checks.
 
-In building construction, G. sepiarium primarily affects timber exposed to moisture from leaks, condensation, or inadequate ventilation. It is one of the "wet rot" fungi distinguished from true dry rot (Serpula lacrymans) by its requirement for higher moisture content and inability to spread through masonry.
+In building construction, G. sepiarium primarily affects timber exposed to moisture from leaks, condensation, or inadequate ventilation. It is one of the "wet rot" fungi distinguished from true dry rot ([[fungal-serpula-lacrymans-dry-rot-buildings]]) by its requirement for higher moisture content and inability to spread through masonry.
 
 ## Bioactive Compounds and Applications
 
@@ -81,34 +81,10 @@ Ecologically, both species colonize coniferous wood but G. trabeum shows a stron
 
 G. sepiarium exhibits several adaptations that contribute to its success as a timber decay organism. Its xerotolerance allows colonization of wood with moisture content as low as 20%, compared to 28–30% for most other brown-rot fungi. This is facilitated by the accumulation of compatible solutes including glycerol and trehalose.
 
-The fungus is thermotolerant, with optimal growth at 25–30°C but the ability to survive temperatures up to 40°C. It is also frost-tolerant, overwintering in frozen wood and resuming active growth when temperatures rise above 5°C. This broad temperature tolerance allows year-round activity in temperate climates.
+The fungus is thermotolerant, with optimal growth at 25–30°C but the ability to survive temperatures up to 40°C. It is also frost-tolerant, overwintering in frozen wood and resuming active growth when temperatures rise above 5°C. This broad [[mycorrhizal-drought-and-temperature-tolerance]] allows year-round activity [[query-how-to-grow-and-use-oca-in-temperate-climates]].
 
 G. sepiarium produces melanin in its hyphal cell walls, which provides protection against ultraviolet radiation and may enhance resistance to desiccation. Melanized hyphae are commonly observed in the transition zone between decayed and sound wood.
 
 ## Prevention and Control
 
-Control of G. sepiarium in service relies primarily on moisture management and proper wood preservation. Maintaining wood moisture content below 20% through adequate drainage, ventilation, and waterproofing is the most effective preventive measure.
-
-Chemical preservatives based on copper, borate, or organic biocides provide varying degrees of protection. Copper-based preservatives (ACQ, CuC) are moderately effective but may be degraded by the fungus through copper chelation and reduction. Borate treatments provide good protection against G. sepiarium when wood is kept dry enough to prevent leaching.
-
-In remediation of existing decay, removal of all visibly affected wood plus a 30–50 cm margin beyond the decay zone is recommended. The remaining structure should be dried rapidly and treated with preservative. [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] using antagonistic fungi such as Trichoderma species has been investigated but is not widely implemented in practice.
-
-## Ecological Significance
-
-In forest ecosystems, G. sepiarium plays an important role in the decomposition of coniferous coarse woody debris. Brown-rot decomposition creates a distinctive residue enriched in modified lignin that contributes to humus formation and soil carbon sequestration. The rapid cellulose removal accelerates wood fragmentation and incorporation into soil organic matter.
-
-The fungus creates microhabitats for invertebrate communities within decaying logs, particularly wood-boring beetles and their predators. Its fruiting bodies provide food for fungivorous insects and small mammals. The species participates in [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by releasing nitrogen and phosphorus from woody substrates, making these nutrients available for plant uptake.
-
-Despite its negative impact on timber products, G. sepiarium contributes to forest health by facilitating deadwood turnover and creating canopy gaps through the weakening of standing dead snags. This gap-phase dynamics promote regeneration of shade-intolerant conifer species.
-
-## See Also
-
-- [[serpula-lacrymans]]
-- [[trametes-versicolor-entity]]
-- [[bjerkandera-adusta]]
-- [[coriolopsis-gallica]]
-- [[schizophyllum-commune]]
-- [[trametes-trogii]]
-- [[sanghuangporus-vaninii]]
-- [[phellinus-igniarius-entity]]
-- [[polyporus-umbellatus]]
+Control of G. sepiarium in service relies primarily on [[soil-moisture-management-and-root-growth]] proper wood preservation. Maintaining wood moisture content below 20% through adequate drainage, ventilation, and waterproofing is the most effective preventive measure.

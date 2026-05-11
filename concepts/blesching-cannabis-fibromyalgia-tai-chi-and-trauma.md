@@ -16,7 +16,7 @@ type: concept
 | Metric | Value |
 |---|---|
 | Total studies reviewed | 3 |
-| Total CHI value | 14 |
+| Total [[blesching-cannabis-prostate-cancer-chi-value-3]] | 14 |
 | [[blesching-cannabis-chi-score-methodology]] (average) | **4.66** |
 
 This is one of the highest confidence ratings in the entire [[blesching-cannabis-health-index-autoimmune-conditions]], reflecting strong evidence across meta-analyses and randomized controlled trials.
@@ -64,8 +64,8 @@ reviewed studies from 2004 to 2009 and found that all classes of cannabinoids
 — including endogenous cannabinoids such as anandamide, related compounds like
 the elmiric acids, and non-cannabinoid components of cannabis — show
 anti-inflammatory action. The analysis demonstrated effectiveness in reducing
-pain from post-surgery conditions, rheumatism, rheumatoid arthritis, chronic
-neuropathic pain, and fibromyalgia.
+pain from post-surgery conditions, rheumatism, [[blesching-cannabis-rheumatoid-arthritis]], chronic
+[[blesching-cannabis-neuropathic-pain]], and fibromyalgia.
 
 ## Study Summary
 
@@ -88,58 +88,3 @@ inflammatory components, [[blesching-cannabis-strain-selection-receptor-targetin
 - **Balanced strains**: Better suited for daytime use, providing pain relief
   without excessive sedation
 - **Full-spectrum approach**: Most appropriate given the engagement of both CB1
-  (neurological) and CB2 (inflammatory) pathways
-
-## Mind-Body Medicine
-
-Functional brain-imaging, neurotransmitter, and brain anatomy studies comparing
-fibromyalgia patients with healthy individuals revealed alterations in central
-nervous system (CNS) anatomy, physiology, and chemistry. The frequent
-comorbidity with stress-related disorders — [[cannabis-chronic-fatigue-research]], PTSD, irritable
-bowel syndrome, and depression — suggests at least a partial common substrate.
-Researchers conclude that fibromyalgia may not be a primary brain disorder but
-may be a consequence of early life stress or prolonged severe stress affecting
-brain modulatory circuitry of pain and emotions in genetically susceptible
-individuals.
-
-Arizona researchers discovered that low positive affect, especially during
-stressful weeks, was a key component in the fibromyalgia syndrome — shifting
-focus from the notion that negative affect was the primary factor. Interventions
-targeting improved positive affective resources could provide a more positive
-therapeutic experience than those focused solely on reducing negative emotions.
-
-Research also revealed that fibromyalgia patients experienced improved
-psychological well-being and reduced pain and fatigue through emotional
-expression of personal traumatic experiences by writing about them for 20
-minutes, three times per week. University of Washington researchers concluded
-that fibromyalgia is associated with increased risk of victimization,
-particularly adult physical abuse, and that sexual, physical, and emotional
-trauma may be important factors in the development and maintenance of the
-disorder. [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]] include early life stress, prolonged severe
-stress, low positive emotions during stress, and increased risk of
-victimization. By expressing and releasing personal traumatic experiences,
-patients can increase positive affect — a key mechanism in fibromyalgia
-recovery.
-
-## Tai Chi as Complementary Therapy
-
-Researchers conducted a single-blind, randomized trial of classic Yang-style tai chi, comparing stretching exercises to wellness education per the American College of Rheumatology 1990 criteria. Of 66 enrolled fibromyalgia patients, the 33 in the tai chi group showed measurable clinical improvement and a general increase in quality of life. Benefits persisted at six months with no [[blesching-cannabis-safety-adverse-effects-evidence]] observed, making tai chi an accessible and safe adjunctive therapy.
-
-## Key Takeaways
-
-1. **Cannabis has strong evidence** for fibromyalgia, with a CHI score of 4.66 across three studies — one of the highest in the index.
-2. **Nabilone** is effective for both pain relief and insomnia at doses of
-   0.5–2.0 mg.
-3. **Fibromyalgia is deeply linked to trauma** — childhood and adult abuse correlate strongly with development and severity of the disorder.
-4. **Positive affect is protective** and a more effective therapeutic target
-   than suppressing negative emotions alone.
-5. **Expressive writing** about traumatic experiences reduces pain and fatigue.
-6. **Tai chi** provides lasting symptom improvement with zero adverse effects.
-7. **A multi-modal approach** combining cannabinoid therapy, emotional processing, positive affect cultivation, and gentle movement addresses fibromyalgia on multiple levels simultaneously.
-## See Also
-
-- [[blesching-cannabis-epigenetics-and-emotional-trauma]]
-
-- [[blesching-cannabis-chronic-non-malignant-pain]]
-- [[blesching-cannabis-sleep-disorders]]
-- [[blesching-cannabis-synthetic-cannabinoids]]

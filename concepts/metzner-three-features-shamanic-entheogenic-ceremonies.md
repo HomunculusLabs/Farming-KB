@@ -1,7 +1,7 @@
 ---
 title: "Three metzner-three-distinctive-features-shamanic-entheogenic-ceremonies of Traditional Shamanic metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
-author: Ralph Metzner
+author: [[ralph-metzner]]
 tags: [shamanism, ceremony, singing, darkness, silence, entheogen, ritual, icaros]
 created: 2026-05-08
 ---
@@ -13,7 +13,7 @@ created: 2026-05-08
 Ralph Metzner identified three features that consistently distinguish
 traditional shamanic entheogenic ceremonies from the typical psychedelic
 psychotherapy session: minimal verbal interaction among participants, the
-essential role of the shaman's singing, and the use of darkness or low light.
+essential role of the shaman's singing, and the use of darkness or [[darkness-low-light-facilitation-entheogenic-ceremonies]].
 These three elements—silence, song, and darkness—form the structural core of
 indigenous entheogenic practice worldwide and have been increasingly adopted
 by modern hybrid therapeutic-shamanic rituals.
@@ -74,7 +74,7 @@ cultural adaptation.
 
 The third distinctive feature is that traditional ceremonies "are almost always
 done in darkness or low light—which facilitates the emergence of visions." The
-exception is the peyote ceremony of the [[halpern-sacramental-peyote-and-native-american-church]] Church, conducted around
+exception is the [[native-american-church-peyote-ceremony-structure-roles-roadman]] of the [[halpern-sacramental-peyote-and-native-american-church]] Church, conducted around
 a central fire, where participants may see visions by staring into the flames.
 
 Darkness serves multiple functions in the entheogenic context. It eliminates
@@ -88,59 +88,3 @@ The Mazatec velada takes this principle to an extreme: participants sit or lie
 in a very dark room with only a small candle. The near-total darkness maximizes
 the intensity of the mushroom-induced visions, while the single candle provides
 a minimal anchor to ordinary reality.
-
-## The Amazonian Ayahuasca Ceremony
-
-Among the ceremonies Metzner surveyed, the Amazonian ayahuasca ceremony
-exemplifies all three features most clearly. A small group sits in a circle in
-semidarkness while initiated healers sing the *icaros* through which healing
-and/or diagnosis takes place. There is minimal verbal interaction among
-participants during the ceremony itself.
-
-The *icaros* have a fairly rapid rhythmic pulse that keeps the flow of the
-experience moving. In some traditions, shamanic "sucking" methods of extracting
-toxic psychic residues or sorcerous implants are also employed, but the singing
-remains the primary therapeutic modality.
-
-## The Peyote Ceremony of the Native American Church
-
-The peyote ceremony represents an important variation. Participants sit on the
-ground in a circle around a blazing central fire in a tipi. The ceremony lasts
-all night, conducted by a "roadman" with assistance from a drummer, firekeeper,
-and cedar-man. A staff and rattle are passed around while participants sing the
-peyote songs, which involve a rapid, rhythmic beat.
-
-Despite the presence of the fire, this ceremony retains the other two features:
-singing is continuous and central, and there is minimal verbal discussion of
-the experience during the ceremony itself. The fire serves as the visual focus
-that darkness provides in other traditions.
-
-## The Bwiti Iboga Ceremony
-
-The Bwiti ceremonies of Gabon and Zaire involving the iboga plant involve an
-altar with ancestral and deity images. Participants sit on the floor with much
-chanting and some dancing. A mirror is often placed in the assembly room, in
-which initiates may "see" their ancestral spirits. The mirror introduces a
-unique visual element—the reflected self becomes a portal to the spirit world—
-while maintaining the principles of singing, minimal verbal interaction, and
-a ritually defined visual space.
-
-## Adoption by Hybrid Therapeutic Rituals
-
-Metzner noted that modern "hybrid therapeutic-shamanic rituals" have
-incorporated all three of these features from the shamanic model. Neoshamanic
-[[metzner-neoshamanic-medicine-circles-structure-and-practice]] typically use eye-shades to create darkness, employ recorded
-or live drumming and singing, and minimize verbal interaction during the
-expanded state. The [[metzner-talking-staff-and-preparation-integration-in-hybrid-ceremonies]] or council practice further structures
-silence: only the person holding the staff speaks or sings, and there is no
-discussion, questioning, or interpretation.
-## See Also
-
-- [[metzner-shamanic-singing-icaros-rhythm-and-entrainment]]
-- [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]
-- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
-
-## References
-
-- Metzner, R. (1998). Hallucinogenic Drugs and Plants in Psychotherapy and
-  Shamanism. *Journal of Psychoactive Drugs*, 30(4), 333-341.

@@ -87,34 +87,3 @@ In mammals, NMT has been detected in human urine, blood plasma, and brain tissue
 The physiological role of endogenous NMT remains unclear, though it may function as a neuromodulator or regulatory [[glyoxalylamide-intermediate-in-tryptamine-synthesis]] metabolism.
 
 ## Effects and Dosage
-
-When consumed alone, NMT produces mild psychoactive effects that are substantially less intense than those of DMT or psilocybin.
-
-Reported effects at moderate doses include subtle visual distortion, mild euphoria, enhanced sensory perception, and a relaxed, contemplative mental state.
-
-The active oral dose range is estimated at 250–500 mg, though potency varies significantly depending on the source material and individual metabolism.
-
-When smoked or vaporized, effects are reported at lower doses (50–100 mg) but remain mild compared to DMT, with onset within 1–3 minutes and duration of 15–30 minutes.
-
-NMT is rarely consumed in isolation; it is more commonly encountered as a component of plant extracts and ayahuasca-like brews where it contributes to the synergistic pharmacological matrix alongside DMT and beta-carboline MAOIs.
-
-## Legal Status
-
-NMT is unscheduled in most jurisdictions but may be controlled under analog drug legislation in countries with comprehensive tryptamine bans.
-
-In the United States, NMT is not specifically listed on the Controlled [[controlled-substances-act-and-psychedelic-research]] but could potentially be prosecuted under the Federal Analog Act if marketed for human consumption.
-
-In the United Kingdom, the Psychoactive Substances Act 2016 potentially covers NMT as a psychoactive substance, though enforcement targeting this specific compound has been minimal.
-
-In Australia, tryptamine derivatives are broadly controlled under state and federal drug laws, and NMT likely falls under these provisions.
-
-International control status varies; the compound is not listed on any UN drug scheduling convention.
-
-## See Also
-
-- [[tryptamine]]
-- [[psilocybin]]
-- [[5-meo-dmt-entity]]
-- [[harmaline]]
-- [[mescaline]]
-- [[acacia]]

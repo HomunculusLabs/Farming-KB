@@ -88,12 +88,3 @@ the worked-up reaction mixture in dichloromethane overnight.
 The zwitterionic nature of compound 8 proved advantageous for large-scale
 isolation. The zwitterion is insoluble in dichloromethane, while excess
 dibenzyl phosphate reagent is soluble. This differential solubility enabled
-purification by simple filtration rather than chromatography. The zwitterion
-was collected in over 85% yield after washing with dichloromethane to remove
-excess reagent.
-
-## Final Deprotection
-
-[[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of the zwitterionic intermediate using palladium on
-carbon in methanol at room temperature removed both benzyl groups and yielded
-[[shirota-psilocin-instability-chromatographic-challenges]]

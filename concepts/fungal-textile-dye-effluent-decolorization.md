@@ -1,5 +1,5 @@
 ---
-title: [[singh-fungal-degradation-of-synthetic-dyes-and-textile-waste|Fungal]] Laccase and Textile Dye Decolorization
+title: Fungal Textile Dye Effluent Decolorization
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -8,12 +8,12 @@ sources: []
 ---
 # Fungal Degradation of Textile Dyes and Industrial Effluents
 
-Synthetic dyes from textile, paper, and printing industries are
+[[staycare-fungal-degradation-of-synthetic-dyes]] from textile, paper, and printing industries are
 recalcitrant environmental pollutants. White-rot fungi and their
 [[ligninolytic-enzyme-systems-white-rot-fungi]] offer a promising biological approach for
-dye decolorization and effluent treatment. This page covers the
+dye decolorization and [[pulp-paper-effluent-treatment]]. This page covers the
 enzymology, organism diversity, and practical applications of fungal
-dye bioremediation as part of the broader field of [[mycoremediation]].
+[[textile-dye-bioremediation]] as part of the broader field of [[mycoremediation]].
 
 ## The Dye Pollution Problem
 
@@ -28,7 +28,7 @@ Synthetic dyes include:
 Key facts about dye pollution:
 
 - Approximately 10-15% of dyes produced end up in industrial effluents
-- Azo dyes are recalcitrant to conventional wastewater treatment
+- Azo dyes are recalcitrant to conventional [[constructed-wetland-design]]
 - In mammals, azo dyes are reduced to carcinogenic aromatics, then
   oxidized to N-hydroxy derivatives that form DNA-damaging electrophiles
 - Dyes are used in textile dyeing, paper printing, colour photography,
@@ -52,7 +52,7 @@ Key facts about dye pollution:
 
 ## Pleurotus ostreatus Dye Decolorization
 
-- Solid-state fermentation on wheat straw produced an enzyme
+- Solid-state fermentation on [[non-sterilized-wheat-straw-oyster-cultivation]] produced an enzyme
   decolorizing Remazol Brilliant Blue R (RBBR)
 - MnP and LiP were NOT responsible for RBBR decolorization in
   *P. ostreatus*
@@ -88,63 +88,3 @@ Bleach plant effluents (BPEs) from pulp and paper industry contain
 chlorophenols, chlorolignols, and other pollutants:
 
 - **P. chrysosporium**: MnPs play the primary role in BPE
-  decolorization. Mn(III) chelated to lactate is primarily
-  responsible.
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Laccases play the primary role. Laccases
-  with phenolic substrates generate Mn(III) chelates similar to those
-  from MnP.
-- *T. versicolor* laccases dechlorinate toxic polychlorinated phenols,
-  major BPE constituents.
-
-## Resin Acid Degradation
-
-Resin acids are diterpenoid carboxylic acids from pine, spruce, and fir
-wood:
-
-- Account for up to 0.2-0.8% of wood weight
-- Implicated in effluent toxicity
-- Fungi require additional carbon source for resin acid degradation
-- *Mortierella isabellina* hydroxylates dehydroabietic, abietic, and
-  isopimaric acids
-- *Chaetomium cochliodes* transforms dehydroabietic acid
-
-## Ligninolytic Enzyme Systems
-
-The three major enzyme groups involved in fungal dye degradation each
-have distinct substrate specificities and catalytic mechanisms:
-
-- **Lignin peroxidase (LiP)**: A heme-containing peroxidase that
-  oxidizes phenolic and non-phenolic aromatic compounds via
-  veratryl alcohol-mediated long-range electron transfer. Capable of
-  cleaving the azo bond directly in some dye structures.
-- **[[fungal-manganese-peroxidase-remediation]] (MnP)**: Generates Mn(III) chelates that
-  diffuse away from the fungal hyphae and oxidize a wide range of
-  phenolic compounds. MnP is particularly effective against
-  anthraquinone and triarylmethane dyes.
-- **Laccase**: A multicopper oxidase that uses molecular oxygen as
-  electron acceptor. Laccases have broad substrate specificity and can
-  be enhanced by redox mediators such as 1-hydroxybenzotriazole (HBT)
-  or ABTS to extend their range to non-phenolic substrates.
-
-## Fungal Species for Dye Bioremediation
-
-Beyond the well-studied species, numerous other fungi show dye
-decolorization potential:
-
-- **Trametes versicolor**: One of the most efficient laccase
-  producers; widely used in bioremediation studies and [[fungal-bioreactor-types]]
-- **Coriolopsis byrsina**: A tropical white-rot fungus with strong
-  laccase activity against industrial dye mixtures
-- **Irpex lacteus**: Produces versatile peroxidase-laccase enzyme
-  systems effective on recalcitrant azo dyes
-- **[[ganoderma-lucidum]]**: Medicinal mushroom with demonstrated dye
-  decolorization ability in solid-state fermentation
-- **[[staycare-phanerochaete-sordida-in-bioremediation]]**: Closely related to *P. chrysosporium*
-  with comparable ligninolytic capabilities
-
-## Factors Affecting Decolorization Efficiency
-
-The rate and completeness of fungal dye decolorization depend on
-several interacting factors:
-
-- **Carbon and nitrogen source**: Nitrogen limitation induces

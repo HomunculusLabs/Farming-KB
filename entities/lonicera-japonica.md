@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Wang, J. et al. (2019). "Chemical constituents and bioactivities of Lonicera japonica." Chinese Herbal Medicines, 11(1), 51-60.
+  - Wang, J. et al. (2019). "guzman-magic-mushrooms-chemical-constituents and bioactivities of Lonicera japonica." Chinese Herbal Medicines, 11(1), 51-60.
   - Park, B.J. et al. (2011). "Antioxidant and anti-inflammatory activities of Lonicera japonica." Journal of Medicinal Food, 14(10), 1214-1219.
   - Lu, Y. et al. (2020). "Lonicera japonica Thunb.: ethnopharmacology, phytochemistry and pharmacology." Journal of Ethnopharmacology, 260, 113107.
   - Schierenbeck, K.A. et al. (2010). "Lonicera japonica." In: Invasive Plants of the World. CABI Publishing.
@@ -18,9 +18,9 @@ sources:
 
 ## Overview
 
-**Lonicera japonica** (Japanese honeysuckle, golden-and-silver honeysuckle) is a twining deciduous vine in the family Caprifoliaceae. Native to East Asia, it is widely cultivated for its fragrant flowers and has become an aggressive invasive species in many temperate regions.
+**Lonicera japonica** (Japanese honeysuckle, golden-and-silver honeysuckle) is a twining deciduous vine in the family Caprifoliaceae. Native to East Asia, it is widely cultivated for its fragrant flowers and has become an aggressive invasive species in many [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
-The species produces pairs of tubular, sweetly scented flowers that open white and turn yellow as they age, giving the characteristic bicolored appearance. It blooms prolifically from late spring through autumn.
+The species produces pairs of tubular, sweetly scented flowers that open white and [[query-what-causes-cannabis-leaves-to-turn-yellow]] as they age, giving the characteristic bicolored appearance. It blooms prolifically from late spring through autumn.
 
 In traditional Chinese medicine, the dried flower buds (Jin Yin Hua) are one of the most frequently prescribed herbs. L. japonica ranks among the top 50 most commercially important medicinal plants in China by market volume.
 
@@ -53,7 +53,7 @@ Fruits are small spherical berries approximately 6 to 8 mm in diameter, ripening
 
 ## Distribution and Habitat
 
-Lonicera japonica is native to eastern Asia, including Japan, Korea, and eastern China. It has been widely introduced across Europe, [[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand.
+Lonicera japonica is native to eastern Asia, including Japan, Korea, and eastern China. It has been widely introduced across Europe, [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand.
 
 In its native range, the species occurs in forest margins, thickets, and along stream banks from lowland to montane elevations. It tolerates full sun to partial shade and a wide range of soil conditions.
 
@@ -61,13 +61,13 @@ As an invasive species, L. japonica is particularly problematic in the southeast
 
 The vine colonizes disturbed habitats rapidly, including roadsides, fence lines, abandoned fields, and forest edges. It spreads both vegetatively through stem rooting and by bird-dispersed seeds.
 
-Invasive populations show higher growth rates and reproductive output compared to native populations, suggesting selection for increased vigor in introduced ranges.
+Invasive populations show higher [[coleman-sunlight-and-winter-crop-growth-rates]] and reproductive output compared to native populations, suggesting selection for increased vigor in introduced ranges.
 
 ## Bioactive Compounds and Pharmacology
 
 The flower buds of Lonicera japonica are rich in phenolic acids, flavonoids, iridoid glycosides, and saponins. Chlorogenic acid, luteolin, and luteolin-7-O-glucoside are the principal bioactive constituents.
 
-Chlorogenic acid exhibits significant antioxidant, anti-inflammatory, and hepatoprotective activities. It is one of the most abundant phenolic compounds, comprising up to 2.5% of dry flower bud weight.
+Chlorogenic acid exhibits significant antioxidant, anti-inflammatory, and hepatoprotective activities. It is one of the most abundant [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]], comprising up to 2.5% of dry flower bud weight.
 
 Luteolin and its glycosides contribute anti-allergic and immunomodulatory effects. Luteolin inhibits histamine release from mast cells and suppresses pro-inflammatory cytokine production in vitro.
 
@@ -88,30 +88,3 @@ Jin Yin Hua is a key ingredient in the classical formula Yin Qiao San (Lonicera 
 In Japanese Kampo medicine, the flower buds (Kinginka) are used in formulations such as Sho-saiko-to and Keishi-bukuryo-gan for their anti-inflammatory and immunomodulatory effects.
 
 Modern clinical applications extend to upper respiratory tract infections, pharyngitis, and as an adjunct in antibiotic therapy for [[cannabis-for-bacterial-infections-and-mrsa]] resistant to conventional treatment.
-
-## Cultivation and Management
-
-Lonicera japonica is cultivated commercially in China for the herbal medicine market, with major production areas in Shandong, Henan, and Hebei provinces. Annual production exceeds 10,000 metric tons of dried flower buds.
-
-Cultivation is typically by transplanting rooted cuttings in [[coleman-overwintered-onions-and-early-spring-crops]]. Plants are spaced 0.5 to 1 meter apart and supported on trellises or allowed to trail along the ground.
-
-Flower buds are harvested just before opening, when they retain the highest chlorogenic acid content. Harvesting occurs multiple times per season as new buds develop.
-
-Post-harvest processing involves air-drying or low-temperature oven-drying. Properly dried buds retain a greenish-white color and should be stored in dry, dark conditions.
-
-Invasive population management requires persistent effort, combining mechanical removal, herbicide application, and prescribed fire. Complete eradication is difficult due to extensive root systems and soil [[cannabis-seed-banks-and-genetics]].
-
-[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents including the honeysuckle aphid and Japanese honeysuckle leaf beetle have been investigated but are not widely deployed due to non-target risk concerns.
-
-## See Also
-
-- [[passiflora-incarnata]]
-- [[parthenocissus-tricuspidata]]
-- [[quercetin]]
-- [[berberine]]
-- ginseng
-- [[passiflora-quadrangularis]]
-- [[ursolic-acid]]
-- [[vaccinium-macrocarpon]]
-
-- [[cryptomeria-japonica]]

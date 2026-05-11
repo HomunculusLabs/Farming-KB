@@ -88,34 +88,3 @@ the ferns to build up energy reserves for the following season.
 In the fall, cut back the yellowing stems and fern-like foliage.
 Remove all top growth to reduce the risk of overwintering pests and
 diseases. The cut foliage can be composted if it appears healthy.
-After cutting back, mulch around the plants with well-rotted compost
-or manure. After about seven or eight years, start another bed and,
-when that is in full production, discontinue the first one. The
-old bed area can be incorporated into the wider
-[[hamilton-organic-pest-control]] for treatment options and
-[[hamilton-crop-rotation-and-vegetable-planning]]
-system. This succession planning ensures continuous asparagus supply
-without interruption to your spring harvest schedule.
-
-## Cutting Technique
-
-Use a sharp knife to cut spears just below the soil surface rather
-than snapping them off. Cutting prevents leaving a stub that can
-harbour disease organisms. Take care not to damage neighbouring
-emerging spears during the harvest process. Clean cuts heal faster
-and reduce the risk of fusarium infection entering the crown.
-
-## Summary
-
-Asparagus is a long-term investment that rewards the organic gardener
-with years of delicious spring spears. Success requires thorough
-initial soil preparation with good drainage and high organic matter,
-patient establishment of two to three years before full harvesting,
-annual mulching and feeding, and strict adherence to cutting limits
-in early years. Male-only modern varieties offer improved yields.
-Vigilant pest monitoring and timely bed renewal ensure sustained
-productivity from this most prized of perennial vegetables.
-
-## See Also
-
-- [[hamilton-garlic-growing-organic]]

@@ -1,16 +1,17 @@
 ---
-title: "solomon leafy greens growing: comparison-bean-growing-guide-vs-pepper-growing-guide"
+title: Solomon Leafy Greens Growing
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
   - "raw/papers/gardening-when-it-counts-steve-solomon.md"
 ---
 
 # Leafy Greens: Growing Guide
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Importance of Leafy Greens
 
@@ -18,7 +19,7 @@ Leafy greens provide essential vitamins, minerals, and protein. Dark green loose
 
 ## Cool-Season Greens: Spinach and Mustard
 
-Spinach and mustard have a demand difference depending on season: medium-demand for autumn/[[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? Spring crops must grow rapidly before bolting, requiring maximum nitrogen. Autumn crops grow through months before bolting, so high fertility is not as critical.
+Spinach and mustard have a demand difference depending on season: medium-demand for autumn/[[coleman-claytonia-winter-harvest-cultivation]], high-demand for spring harvest. Why? [[coleman-overwintered-onions-and-early-spring-crops]] must grow rapidly before bolting, requiring maximum nitrogen. Autumn crops grow through months before bolting, so high fertility is not as critical.
 
 ### Growing Details (Summer/Spring)
 
@@ -46,7 +47,7 @@ Brussels sprouts are a high-demand crop requiring rich soil. They produce small 
 
 ## Chicories: Endive, Escarole, Radicchio
 
-Remarkably cold-hardy salad greens. In cold climates, chicories survive if the soil does not freeze solid; in mild-winter climates, they are cool-season crops that grow through autumn and winter.
+Remarkably cold-hardy [[growing-lettuce-salad-greens]]. [[query-how-do-i-grow-figs-in-cold-climates]], chicories survive if the soil does not freeze solid; in mild-winter climates, they are cool-season crops that grow through autumn and winter.
 
 Chicories may be considered low-demand vegetables that grow faster and bigger with more fertility, but eating quality remains similar regardless. If growing on poorer soil, sow a bit earlier.
 
@@ -57,7 +58,7 @@ Growing details:
 - Capable of surviving drought and producing greens afterward
 - Varieties: productive, uniformly heading radicchio hybrids have appeared; some hybrid endive types are also available
 
-Harvest: chicory roots can be dug before hard frost, stored in root cellar, and replanted in damp soil beds for winter forcing ( Belgian endive method).
+Harvest: chicory roots can be dug before hard frost, stored in [[comparison-root-cellar-vs-ice-house]], and replanted in damp soil beds for winter forcing ( Belgian endive method).
 
 Seed saving: chicories are biennials that almost always self-pollinate. Isolate by 50 feet. Tendency to cross-pollinate; best to save seed from a single good plant.
 
@@ -86,41 +87,3 @@ Lettuce is a self-pollinated annual. Seeds ripen irregularly and shatter easily.
 ## Arugula
 
 A near-wild leafy annual in the cabbage family. Peppers up salads; delicious as a standalone salad when young. In hot weather, leaves go from mild to bitter in under two weeks. Sow every 3 weeks alongside lettuce. Direct seed by sprinkling thinly into a furrow; thin progressively.
-
-## Chinese Cabbage
-
-Requires three things for success: top-quality seed, highly fertile soil that is always moist, and correct planting timing.
-
-- Do not sow before the summer solstice; best to wait 1-2 months after
-- Sow for autumn harvest; the crop must head up before cold stops growth
-- Speed of growth is everything: make soil as rich as possible, keep moist, do not crowd
-- Each plant needs ~4 sq ft; put 4 seeds in a well-fertilized spot, thin to one
-- Forms a taproot; does not transplant well (avoid garden center seedlings)
-
-Pests: cabbage maggot can tunnel across leaf bases, collapsing the plant. Use spun fabric row covers.
-
-Varieties: few OP varieties retain uniformity; hybrids produce nearly perfect heads. Santoh is a non-heading variety, easier to grow, compared to Chinese cabbage as collards are to European cabbage.
-
-## Onions and Alliums
-
-All onions prefer open, well-drained loams. They will not grow fast in clay. On clay, prepare beds with sphagnum moss.
-
-Scallions (spring onions) can be harvested by thinning. Straight-shanked onions grow quite large with moderate fertility.
-
-Spacing: Solomon recommends 18 inches (45 cm) between rows for good [[stamets-growing-room-air-circulation-co2-management]] (more than most sources suggest). Thinning should be early and thorough.
-
-Pests: thrips reduce bulb size but are usually minor for home gardeners. Molds and mildews can be serious -- prevention through spacing, air circulation, cleanup of all onion debris after harvest. Leeks and garlic have far higher mold resistance than onions.
-
-Potato onions: a type of shallot with medium-demand fertility. Bulbs store well; tops are edible as scallion substitutes. More mold resistant than standard onions. Plant bulbs shallowly in spring.
-
-Leeks: grown from seed; can overwinter in the ground with soil pulled up around them. Make seed as for other alliums -- they won't cross with ordinary onions.
-
-## Parsley
-
-Not difficult to grow if you know how to start the seeds. Start earlier than you think -- mid-spring. Sow in a furrow with fine-textured mellow soil. Germination is slow (2-3 weeks). Thin to ~4 inches apart. Treat as a fragile root crop that makes edible leaves. Side-dress with nitrogen if production is lacking. Biennial; make seed as for carrots.
-
-## See Also
-
-- [[growing-tomatoes-organically]]
-- [[zone-1-intensive-garden]]
-- [[jeavons-grow-biointensive-method-overview]]

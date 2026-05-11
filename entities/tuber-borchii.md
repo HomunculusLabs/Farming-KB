@@ -88,35 +88,3 @@ Nutritionally, bianchetto truffles are low in calories but contain modest amount
 As an obligate ectomycorrhizal symbiont, *T. borchii* depends entirely on living host roots for carbohydrate supply. The mycorrhizal mantle surrounds fine root tips, facilitating bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
 
 The fungus provides the host with enhanced phosphorus uptake and protection against certain soil-borne pathogens. In return, the host supplies photosynthate (primarily glucose and fructose) to the fungal mycelium.
-
-*T. borchii* mycelium can persist in soil for years in the absence of fruiting, maintaining a cryptic vegetative network that colonizes new root growth.
-
-The species interacts with a complex soil microbiome including *Pseudomonas* and *Bacillus* bacteria that may stimulate mycelial growth and fruiting body initiation.
-
-Spore dispersal is primarily mycophagous — through consumption by small mammals (rodents, wild boar) that excavate and eat the fruiting bodies, subsequently depositing viable spores in feces at distant sites.
-
-## Commercial Significance
-
-*T. borchii* is the second most commercially important truffle species in Italy after *T. magnatum*, with annual harvests estimated at 50–100 tonnes across the Mediterranean region.
-
-Market prices vary considerably by season, quality, and origin. Fresh bianchetto typically commands €200–600/kg at wholesale, compared to €1,000–4,000/kg for *T. magnatum* and €500–1,200/kg for *T. melanosporum*.
-
-The more accessible price point, combined with reliable cultivation yields, has driven expanding plantation acreage in Italy, Spain, France, and the Southern Hemisphere.
-
-Processed products (truffle paste, truffle oil, preserved truffles) represent a significant market segment, though quality varies widely — many commercial "truffle oils" use synthetic 2,4-dithiapentane rather than natural truffle extract.
-
-In Italy, bianchetto truffles are classified and regulated under regional laws governing harvest seasons, permitted collection methods, and required foraging certifications.
-
-## Related Species and Confusion
-
-*T. borchii* is part of the *Tuber borchii* species complex, which includes several morphologically similar taxa: *T. maculatum*, *T. dryophilum*, and *T. fulgens*.
-
-Differentiation among these species requires [[fungal-microscopic-examination-mounting-media-techniques]] of spore morphology and, increasingly, molecular analysis (ITS rDNA sequencing).
-
-*T. borchii* can be distinguished from *T. magnatum* by its smaller size, thinner peridium, and distinctly garlicky aroma. From *T. melanosporum*, it is separated by the lighter-colored gleba and absence of dark, pyramid-shaped warts on the peridium.
-
-Foragers in the Mediterranean often harvest *T. borchii* and *T. maculatum* together, as they occupy similar habitats and fruit concurrently. The two command very different market prices, making accurate identification commercially important.
-
-## See Also
-
-- [[tuber-melanosporum]] · [[tuber-magnatum]] · [[boletus-edulis-entity]] · [[pisolithus-arhizus]] · [[laccaria-laccata]] · [[suillus-granulatus]]

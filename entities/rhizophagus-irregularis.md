@@ -14,14 +14,14 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisserant, E. et al. (2013). "Genome of an arbuscular mycorrhizal fungus provides
+  - Tisserant, E. et al. (2013). "Genome of an arbuscular-mycorrhizal-colonization-patterns fungus provides
     insight into the oldest plant symbiosis." PNAS, 110(50), 20117-20122.
   - Schüßler, A. & Walker, C. (2010). "The Glomeromycota: A species list with new
     families and new genera." Royal Botanic Garden Edinburgh.
-  - Smith, S.E. & Read, D.J. (2008). "Mycorrhizal Symbiosis," 3rd Ed. Academic Press.
+  - Smith, S.E. & Read, D.J. (2008). "[[arbuscular-mycorrhizal-symbiosis]]," 3rd Ed. Academic Press.
   - Berruti, A. et al. (2016). "Mycorrhizal fungal inoculation functions as a
     biostimulant in horticulture." Agronomy, 6(3), 39.
-  - Lekberg, Y. & Koide, R.T. (2014). "Arbuscular mycorrhizal fungi in temperate
+  - Lekberg, Y. & Koide, R.T. (2014). "[[arbuscular-mycorrhizal-fungi]] in temperate
     agricultural soils." In Soil Microbiology, Ecology and Biochemistry, 4th Ed.
   - Cakmak, I. et al. (2010). "Zinc fertilization strategy for wheat in Central
     Anatolia." Plant and Soil, 337(1-2), 1-13.
@@ -47,7 +47,7 @@ Originally described as *Glomus intraradices* (Schenck & Smith, 1982). Transferr
 
 ## Description
 
-Arbuscular mycorrhizal fungus (AMF); the most studied mycorrhizal species. Forms obligate symbiotic associations with ~80% of terrestrial plant species including most agricultural crops. Hyphae penetrate root cortical cells and form highly branched arbuscules — the primary site of bidirectional nutrient exchange. Produces intraradical and extraradical vesicles (lipid-rich storage organs). Coarse extraradical hyphae (5-20 μm diameter) extend from colonized roots into surrounding soil. Spores are glomerospores: hyaline to yellow-brown, 100-400 μm diameter, laminated wall (3-4 layers). No known sexual cycle; reproduces exclusively through asexual spore production.
+Arbuscular mycorrhizal fungus (AMF); the most studied mycorrhizal species. Forms obligate symbiotic associations with ~80% of terrestrial plant species including most agricultural crops. Hyphae penetrate root cortical cells and form highly branched arbuscules — the primary site of bidirectional [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. Produces intraradical and extraradical vesicles (lipid-rich storage organs). Coarse extraradical hyphae (5-20 μm diameter) extend from colonized roots into surrounding soil. Spores are glomerospores: hyaline to yellow-brown, 100-400 μm diameter, laminated wall (3-4 layers). No known sexual cycle; reproduces exclusively through asexual spore production.
 
 ## Distribution
 
@@ -65,11 +65,11 @@ Extraradical mycelium extends effective root absorptive surface area by 100-1000
 
 - Most widely used AMF species in commercial [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
 - Documented crop yield improvements of 10-30% in phosphorus-deficient soils
-- Reduces phosphate fertilizer requirements by 25-50% in responsive systems
+- Reduces [[jadam-calcium-phosphate-fertilizer]] requirements by 25-50% in responsive systems
 - Enhances tolerance to drought, salinity, and heavy metal stress
 - Suppresses soilborne pathogens (Fusarium, Rhizoctonia, Pythium) through improved nutrition, root lignification, and microbial competition
 - Improves soil aggregation via glomalin-related soil protein (GRSP) production
-- Compatible with cover crop systems, no-till agriculture, food forests, agroforestry, and ecological restoration
+- Compatible with cover crop systems, no-till agriculture, food forests, agroforestry, and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]]
 
 ## Life Cycle
 
@@ -88,36 +88,3 @@ Primary model organism for AMF research. First AMF with a published genome (Tiss
 
 - **Genome:** ~150 Mb — smallest known fungal genome at time of sequencing. Encodes reduced metabolic capacity reflecting obligate biotrophy. Lacks genes for nitrate reduction and fatty acid synthesis (relies entirely on host lipids). Expanded gene families for mycorrhiza-specific phosphate and monosaccharide transporters.
 - **Carbon metabolism and lipid biosynthesis:** Central to understanding the AMF-plant carbon exchange mechanism
-- **Common mycorrhizal network function:** Key model for studying [[mycelial-network-resource-sharing-plants]]
-- **Soil [[edaphic-factors-microbial-community-structure]]:** Used to investigate how AMF influence soil microbial community composition and nutrient cycling
-
-## Cultivation
-
-### Laboratory Culture
-Maintained in dual in-vitro culture using Ri T-DNA transformed carrot (*Daucus carota*) roots or *Medicago truncatula* hairy-root organ cultures. Grown on minimal medium (M) or modified Strullu-Romand (MSR) medium. Produces clean, contaminant-free inoculum for research.
-
-### Commercial Production
-On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in inoculated soil/compost). Pot culture with sterilized substrate and host plants. Major commercial strain: DAOM 197198 (type strain).
-
-## Related Species
-
-- **Rhizophagus clarus** — close relative; common in tropical soils
-- **Funneliformis mosseae** — formerly *Glomus mosseae*; widely distributed, used in inoculants
-- **Claroideoglomus claroideum** — formerly *Glomus claroideum*; common in European agricultural soils
-- **Gigaspora margarita** — large-spored AMF (Gigasporaceae); no vesicles, only auxiliary cells
-
-## Key Identification Features
-
-| Feature | Description |
-|---------|-------------|
-| Spore morphology | Glomerospores 100-400 μm, hyaline to yellow-brown, laminated wall (3-4 layers) |
-| Arbuscules | Highly branched, in root cortical cells |
-| Vesicles | Both intraradical and extraradical |
-| Hyphae | Coarse extraradical hyphae, 5-20 μm diameter |
-| Host range | ~80% of terrestrial plant species |
-| Ecology | Cosmopolitan, especially in agricultural soils |
-
-## See Also
-
-- [[common-mycorrhizal-networks]]
-- [[agroforestry]]

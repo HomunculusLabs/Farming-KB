@@ -4,6 +4,7 @@ tags: [leaf-curl, taphrina, compost-tea, aact, disease-control, peach, orchard, 
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 created: 2026-04-28
 type: concept
@@ -87,36 +88,3 @@ Fall applications to the orchard floor serve multiple purposes:
 
 - Accelerate decomposition of infected fallen leaves
 - Inoculate the soil surface with beneficial organisms
-- Prevent *Taphrina* from completing its life cycle on fallen debris
-- Build soil foodweb diversity that supports overall tree health
-- Create conditions where the pathogen is outcompeted for resources
-
-## Other Fungal Tea Applications for Orchards
-
-The approach used for leaf curl applies broadly to other orchard diseases:
-
-- **Apple scab**: Requires both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] coverage. Fall soil drench plus foliar applications beginning two weeks before bud break.
-- **Brown rot on cherries**: Fungal tea applied at adequate concentration has shown good results, though replicated data is limited.
-- **Cedar apple rust**: AACT with good fungal biomass stops this disease.
-- **Verticillium wilt**: Requires 70 percent coverage of leaves, blossoms, bark, and orchard floor with both bacteria and fungi. Fungi must be at least 5 percent of that coverage. Start two weeks before bud break.
-- **Fireblight**: Fungi are what would be needed for suppression. Anecdotal success reported by Paul Wagner and James Sottilo working on estates in New York.
-
-The vineyard research program demonstrated that when fungal biomass was adequate on leaf surfaces, protection was consistently achieved. When fungal biomass was limited, late-season protection failed even though bacterial biomass remained high. Chemical sprays (sulfur or others) were reduced from 10 to 14 per season down to one in successful programs.
-
-## Transitioning from Conventional Management
-
-Growers transitioning from conventional chemical programs should expect that the first year of [[ingham-compost-tea-application-rates-and-timing]] may not achieve complete disease suppression. The soil foodweb has been damaged by years of chemical inputs, and rebuilding the full complement of organisms takes time. Patience during the transition period is essential.
-
-Each season of compost tea application builds upon the previous one. As organism populations increase and soil structure improves, the need for intervention decreases. Eventually, a mature soil foodweb provides most disease suppression services autonomously.
-
-## Coverage Requirements
-
-For orchard crops, the target is to achieve at least **70 percent coverage** of leaf, blossom, bark, and orchard floor surfaces with beneficial organisms. Within that 70 percent coverage, fungi must constitute at least 5 percent. This coverage standard applies not just to leaf curl but to most orchard disease situations.
-
-Spraying the orchard floor and downed leaves in the fall is particularly important for leaf curl control, as this is where the pathogen primarily overwinters. Coverage assessment can be performed through leaf surface microscopy or by sending samples to a Soil Foodweb laboratory for analysis.
-
-## Related Concepts
-
-- [[aact-fungal-dominant-tea|Fungal dominant compost tea]]
-- [[ingham-foliar-compost-tea-application|Foliar compost tea application]]
-- [[aact-compost-organism-levels|Compost organism levels for tea]]

@@ -87,11 +87,3 @@ Indigenous peoples of northern Europe historically used *Peltigera* species as f
 - **Peltigera horizontalis** — smaller, more closely appressed to substrate, with distinctive concentric ridges on the upper surface
 
 The combination of white lower-surface veining, dark freckles on the upper surface, and the presence of cephalodia reliably distinguishes *P. leucophlebia* in the field.
-
-## See Also
-
-- [[peltigera-membranacea]] — membranous pelt lichen
-- [[nephroma-arcticum]] — Arctic kidney lichen, cyanolichen
-- [[lobaria-pulmonaria]] — lungwort lichen, old-growth associate
-- [[cladonia-rangiferina]] — reindeer lichen, boreal associate
-- [[flavoparmelia-caperata]] — common greenshield lichen

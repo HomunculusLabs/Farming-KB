@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - "Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin."
-  - "Moerman, D. (1998). Native American Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). Native [[tree-daturas-brugmansia-south-american-ethnobotany]]. Timber Press."
   - "Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants. New York Botanical Garden."
   - "USDA, NRCS. (2024). The PLANTS Database. Geranium maculatum L."
 ---
@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-Geranium maculatum is a perennial herb in the family Geraniaceae, native to deciduous woodlands of eastern North America. It is widely recognized for its showy lavender-pink flowers and deeply lobed, palmately divided leaves.
+Geranium maculatum is a perennial herb in the family Geraniaceae, native to deciduous woodlands of [[polypore-fungi-eastern-north-america]]. It is widely recognized for its showy lavender-pink flowers and deeply lobed, palmately divided leaves.
 
 The species is one of the most important native medicinal plants of eastern North America, with a long history of use among Indigenous peoples and later European settlers. The root contains significant concentrations of tannins, which account for its potent astringent properties.
 
@@ -48,7 +48,7 @@ Leaves are palmately divided into 5 to 7 deeply cleft lobes, each lobe further d
 
 Leaf surfaces are pubescent with scattered hairs, particularly along the veins on the underside. Autumn color is variable, ranging from dull yellow to attractive bronzy-red in favorable conditions.
 
-The distinctive leaf shape distinguishes Geranium maculatum from all other woodland herbs in its native range. No other eastern North American species combines this leaf form with the beaked fruit capsules.
+The distinctive leaf shape distinguishes Geranium maculatum from all other woodland herbs in its native range. No other eastern [[growing-gourmet-north-american-reishi-species]] species combines this leaf form with the beaked fruit capsules.
 
 ### Flowers and Fruit
 
@@ -56,7 +56,7 @@ Flowers are borne in loose cymes of 2 to 5, each approximately 2.5 to 4 centimet
 
 Blooming occurs from April to June, with peak flowering in mid-spring. Individual flowers persist 3 to 5 days, and the overall bloom period extends 4 to 6 weeks.
 
-The fruit is a distinctive beaked capsule, 1.5 to 2 centimeters long, that splits elastically at maturity to expel seeds. This ballistic seed dispersal mechanism is characteristic of the genus.
+The fruit is a distinctive beaked capsule, 1.5 to 2 centimeters long, that splits elastically at maturity to expel seeds. This ballistic [[clay-pellet-seed-dispersal]] mechanism is characteristic of the genus.
 
 ## Medicinal Uses
 
@@ -74,47 +74,16 @@ No significant toxicity has been reported at standard therapeutic doses. However
 
 ## Distribution and Habitat
 
-Geranium maculatum occurs naturally from southern Ontario and Quebec south to Georgia and Alabama, and west to Oklahoma and the Dakotas. It is most abundant in the Appalachian region and the Ohio River Valley.
+Geranium maculatum occurs naturally from southern Ontario and Quebec south to Georgia and Alabama, and west to Oklahoma and the Dakotas. It is most abundant in the [[bolete-fungi-appalachian-region]] and the Ohio River Valley.
 
 The species inhabits deciduous woodlands, woodland edges, thickets, and rocky slopes. It prefers partial to full shade and rich, well-drained loam soils with moderate moisture retention.
 
 Optimal conditions include dappled shade beneath mature deciduous canopies, where the plant receives morning sun and afternoon shade. It tolerates competition from tree roots better than most woodland perennials.
 
-Elevation ranges from near sea level in the northern portion of its range to approximately 1,500 meters in the southern Appalachians. It is absent from the coastal plain of the southeastern United States.
+Elevation ranges from near sea level in the northern portion of its range to approximately 1,500 meters in the southern Appalachians. It is absent from the coastal plain of the southeastern [[dmt-containing-plants-united-states-halpern]].
 
 ## Cultivation
 
 Wild geranium is easily cultivated from seed or division. Cold stratification at 4 degrees Celsius for 2 to 3 weeks improves germination, which otherwise may be slow and irregular.
 
 In the garden, the species performs well in partial shade with average to moist soil. It tolerates drought once established but maintains better appearance with consistent moisture.
-
-Plants are hardy to USDA zone 3 and require minimal maintenance. Removing spent flower stems prevents excessive self-seeding and may promote a second, smaller flush of bloom.
-
-The species combines effectively with other native woodland plants including [[trillium-grandiflorum]], [[polygonatum-biflorum]], and [[podophyllum-peltatum]]. It also pairs well with ferns and hostas in shade gardens.
-
-Wild geranium is relatively pest-free and unpalatable to deer and rabbits. The foliage contains tannins and other secondary compounds that deter herbivory, making it a reliable choice in landscapes with heavy browsing pressure.
-
-## Ecology and Interactions
-
-Wild geranium flowers are visited by a variety of native bees, including bumblebees, mining bees, and small solitary bees. The open, bowl-shaped flowers provide easy access to nectar and pollen.
-
-The ballistic seed dispersal mechanism is one of the most distinctive features of the genus. As the fruit capsule dries, tensions build in the five fruit segments until they rupture explosively, flinging seeds up to 3 meters from the parent plant.
-
-This dispersal strategy allows wild geranium to colonize suitable sites several meters from existing colonies. Seeds lack any specialized appendage for wind or animal dispersal beyond the ballistic mechanism.
-
-In woodland ecosystems, Geranium maculatum provides moderate ground cover and contributes to the herbaceous layer diversity. It is particularly important in mature deciduous forests where the canopy is relatively open in spring.
-
-The species is not a significant food source for any specialized insect herbivore. Generalist caterpillars may occasionally feed on the foliage, but damage is rarely significant.
-
-## See Also
-
-- [[pelargonium-graveolens]] — rose geranium, the African Pelargonium commonly confused with true Geranium
-- [[pelargonium-sidoides]] — South African geranium, a medicinal species used for respiratory infections
-- [[hydrastis-canadensis]] — goldenseal, another native North American woodland herb with significant astringent properties
-- [[panax-quinquefolius]] — American ginseng, a co-occurring woodland medicinal plant of the Appalachian region
-- [[sanguinaria-canadensis]] — bloodroot, a spring-blooming woodland herb sharing similar habitat preferences
-- [[podophyllum-peltatum]] — mayapple, another native woodland herb with both medicinal and toxic properties
-- [[trillium-grandiflorum]] — large-flowered trillium, a classic companion in eastern deciduous forests
-- [[polygonatum-biflorum]] — Solomon's seal, a shade-tolerant woodland perennial often found alongside wild geranium
-- [[aralia-nudicaulis]] — wild sarsaparilla, a common understory companion in northern hardwood forests
-- [[convallaria-majalis]] — lily of the valley, an introduced woodland groundcover sharing similar shade requirements

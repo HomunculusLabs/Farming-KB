@@ -10,7 +10,7 @@ sources:
 
 # Shipibo People and Their Ayahuasca Tradition
 
-The Shipibo-Conibo are an indigenous people of the Peruvian Amazon,
+The Shipibo-Conibo are an indigenous people of the [[ayahuasca-tourism-economics-peruvian-amazon]],
 primarily living along the Ucayali River and its tributaries in the
 Amazon basin of eastern Peru. They are among the most culturally
 vibrant indigenous groups in the Amazon and are particularly renowned
@@ -33,7 +33,7 @@ point for Shipibo ceremonial activity accessible to tourists.
 ### Cultural Integration
 
 Among the Shipibo, ayahuasca use is deeply integrated into daily
-life, spirituality, and community structure. Nearly every Shipibo
+life, spirituality, and [[edaphic-determinants-cannabis-microbiome-community-structure]]. Nearly every Shipibo
 family includes at least one or two ayahuasqueros (ayahuasca
 practitioners). The tradition is typically passed through family
 lineages, with knowledge transmitted from parent to child through
@@ -63,7 +63,7 @@ indicating the depth of personal devotion to the practice.
 
 ### Teacher Plants and Dietas
 
-The Shipibo tradition involves an extensive pharmacopoeia of teacher
+The [[ayahuasca-vision-art-and-shipibo-tradition]] involves an extensive pharmacopoeia of teacher
 plants beyond ayahuasca itself. Practitioners undergo dietas—extended
 periods of dietary restriction and isolation in the jungle while
 taking specific plants. Each teacher plant is believed to confer
@@ -77,7 +77,7 @@ plant spirits and building their healing capacity.
 The arrival of Christian missionaries has created a complex religious
 landscape among the Shipibo. Pentecostal, Adventist, and Catholic
 missionaries have gained many converts in indigenous communities
-throughout the Ucayali region. However, the conversion is often
+throughout the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]]. However, the conversion is often
 superficial in practice. Some Shipibo who have formally converted to
 Christianity and publicly disavow shamanism continue to privately
 consume ayahuasca and practice native religious traditions. This dual
@@ -88,54 +88,3 @@ deeply embedded to be fully displaced by external religious systems.
 ## Economic Impact of Ayahuasca Tourism
 
 The growing ayahuasca tourism industry has had a significant economic
-impact on Shipibo communities. Some Shipibo ayahuasqueros earn
-hundreds of dollars monthly from serving foreign tourists, while
-their neighbors may not be able to afford basic transportation. This
-economic disparity creates complex social dynamics within communities.
-The town of [[shipibo-san-francisco-ceremonial-center-ucayali]], with its ceremonial branding, exemplifies
-the intersection of traditional practice and [[ayahuasca-tourism-economics-commodification-peru]].
-
-## Artistic Traditions
-
-### Textiles and Kené Designs
-
-Shipibo textile art is among the most recognizable in the Amazon.
-The intricate geometric patterns (kené) that adorn Shipibo textiles
-are derived from ayahuasca visions and are believed to represent the
-fundamental designs of the universe. These patterns are hand-painted
-using natural dyes on cotton cloth, creating distinctive items
-including clothing, wall hangings, bags, and ceremonial objects. The
-same patterns appear on Shipibo ceramics and on the bodies of
-practitioners during ceremonies.
-
-### Ceramics
-
-Shipibo pottery features the same kené geometric patterns and is
-highly valued both within the community and by collectors. The
-ceramic tradition demonstrates the integration of ayahuasca-derived
-visionary experience into everyday material culture, reinforcing the
-Shipibo worldview in which the visionary and material realms are
-deeply interconnected.
-
-## Contemporary Challenges
-
-The Shipibo face numerous contemporary challenges including
-deforestation, oil extraction, cultural assimilation, and the
-pressures of globalization. The commercialization of ayahuasca
-presents both opportunities (economic income, cultural visibility)
-and threats (commodification of sacred practices, dilution of
-tradition, exploitation). The community continues to navigate these
-challenges while maintaining the vitality of their cultural and
-spiritual traditions.
-
-## See Also
-
-- [[ayahuasca-vision-art-and-Shipibo-tradition]]
-
-- [[ayahuasca]] · [[ayahuasqueros]] · [[icaros]]
-- [[ayahuasca-tourism-in-peru]] · [[garden-bed-designs]]
-
-## Sources
-
-- Stuart, R. (2002). "Ayahuasca Tourism: A Cautionary Tale."
-  *MAPS*, Vol. XII, No. 2, pp. 36–38.

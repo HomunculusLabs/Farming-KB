@@ -38,15 +38,15 @@ The tuber of Cyclamen repandum is large and often flattened or disc-shaped, reac
 
 Leaves are produced in autumn or winter, appearing before or with the flowers. Each leaf is heart-shaped with a broad sinus at the base, measuring 3 to 8 centimeters long and 4 to 10 centimeters wide.
 
-The leaf margin is conspicuously angular and coarsely toothed, with 5 to 9 prominent lobes. This sharply toothed margin is the most distinctive vegetative character separating Cyclamen repandum from related species such as Cyclamen hederifolium.
+The leaf margin is conspicuously angular and coarsely toothed, with 5 to 9 prominent lobes. This sharply toothed margin is the most distinctive vegetative character separating Cyclamen repandum from related species such as [[cyclamen-hederifolium]].
 
-The leaf surface is typically plain green or slightly marbled with a paler pattern along the midrib. The marbling is generally less pronounced than in Cyclamen hederifolium, though some populations show attractive silver patterns.
+The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is typically plain green or slightly marbled with a paler pattern along the midrib. The marbling is generally less pronounced than in Cyclamen hederifolium, though some populations show attractive silver patterns.
 
-Flowering stems emerge in early spring, each bearing a single nodding flower on a pedicel 5 to 12 centimeters long. The pedicel coils tightly after flowering, drawing the developing capsule to the ground surface.
+Flowering stems emerge in [[coleman-overwintered-onions-and-early-spring-crops]], each bearing a single nodding flower on a pedicel 5 to 12 centimeters long. The pedicel coils tightly after flowering, drawing the developing capsule to the ground surface.
 
 Flowers are relatively large, measuring 18 to 25 millimeters in diameter. The petals are strongly reflexed, twisted, and often fragrant, with colors ranging from soft pink to deep rose-pink.
 
-Each petal has a prominent dark magenta or purple blotch at the base, which functions as a nectar guide for pollinating insects. The petals are longer than those of Cyclamen coum but shorter than those of Cyclamen persicum.
+Each petal has a prominent dark magenta or purple blotch at the base, which functions as a nectar guide for pollinating insects. The petals are longer than those of [[cyclamen-coum]] but shorter than those of [[cyclamen-persicum]].
 
 The calyx consists of five free sepals that are ovate and approximately 6 to 8 millimeters long. The anthers are connivent, forming a cone around the stigma.
 
@@ -70,15 +70,15 @@ The species is generally common within its native range, though habitat loss fro
 
 Cyclamen repandum is cultivated by specialist growers and alpine plant enthusiasts, though it remains less widely available than Cyclamen hederifolium or Cyclamen coum. It is valued for its fragrant flowers and attractive, sharply-toothed foliage.
 
-The species is hardy to approximately minus 5 degrees Celsius and is best suited to sheltered gardens in mild temperate climates. In colder regions, it requires protection from severe frost and prolonged waterlogging.
+The species is hardy to approximately minus 5 degrees Celsius and is best suited to sheltered gardens in mild [[fukuoka-natural-farming-temperate-climates]]. In colder regions, it requires protection from severe frost and prolonged waterlogging.
 
 Optimal cultivation conditions include partial to deep shade, well-drained humus-rich soil, and a dry summer dormancy period. The tuber should be planted with the concave surface uppermost, approximately 5 centimeters below the soil surface.
 
 Propagation is primarily from seed, which should be sown fresh as soon as ripe in late spring. Seeds typically germinate the following autumn after a warm-then-cool stratification cycle, and flowering plants may be obtained in two to three years.
 
-In the garden, Cyclamen repandum is well-suited to planting beneath deciduous trees and shrubs, where it receives dappled shade during the growing season and protection from winter rain during dormancy.
+In the garden, Cyclamen repandum is well-suited to planting beneath deciduous [[nitrogen-fixing-trees-and-shrubs]], where it receives dappled shade during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and protection from winter rain during dormancy.
 
-The species is relatively pest-resistant, though vine weevil larvae can damage tubers in container cultivation. Gray mold caused by Botrytis may affect flowers and foliage in damp, poorly ventilated conditions.
+The species is relatively pest-resistant, though vine weevil larvae can damage tubers in container cultivation. [[cervantes-gray-mold-botrytis-prevention]] caused by Botrytis may affect flowers and foliage in damp, poorly ventilated conditions.
 
 ## Ecology
 
@@ -86,35 +86,4 @@ Cyclamen repandum is pollinated by bees and other insects attracted to the fragr
 
 The coiled pedicel that develops after flowering serves as a geocarpic dispersal mechanism, pulling the seed capsule to the ground surface. Seeds are dispersed by ants, which are attracted to a fatty elaiosome attached to each seed.
 
-Myrmecochory, or ant-mediated seed dispersal, is a common strategy among woodland geophytes. Ants carry seeds to their nests, consume the elaiosome, and discard the intact seed in favorable microsites for germination.
-
-The species provides a modest nectar resource for early-season pollinators in Mediterranean woodlands. Its spring flowering period fills a temporal niche before the main summer-flowering plant community becomes active.
-
-The tuber contains toxic saponins, primarily cyclamin, which deter herbivory by mammals and generalist insect feeders. These compounds are concentrated in the tuber and provide effective chemical defense against root-feeding organisms.
-
-Cyclamen repandum contributes to the biodiversity of Mediterranean forest floor communities. Its presence is often associated with undisturbed, long-established woodland soils with rich mycorrhizal networks.
-
-The species has been used in phytochemical studies investigating the distribution of saponins across the genus Cyclamen. Comparative analyses of cyclamin concentrations in tubers have revealed significant variation between species, with potential implications for their ecological interactions.
-
-## Related Species and Varieties
-
-Cyclamen repandum is the most widely distributed member of the repandum subgroup. The subgroup includes Cyclamen balearicum from the Balearic Islands, which has smaller, less toothed leaves and paler flowers, and Cyclamen creticum from Crete, which bears pure white flowers.
-
-Natural hybridization between Cyclamen repandum and Cyclamen hederifolium has been documented in areas of central Italy where their ranges overlap. These hybrids, known as Cyclamen × hildebrandii, show intermediate leaf and flower characteristics.
-
-A subspecies, Cyclamen repandum subsp. rhodense, has been described from the Aeolian Islands north of Sicily. This taxon differs in its slightly larger flowers and more compact growth habit.
-
-Within Cyclamen repandum sensu stricto, some geographic variation in flower color and leaf morphology has been observed. Populations from the western part of the range tend to have paler flowers than those from the Balkans and Greece.
-
-## See Also
-
-- [[cyclamen-hederifolium]]
-- [[cyclamen-coum]]
-- [[cyclamen-persicum]]
-- [[cyclamen-purpurascens]]
-- [[primula-vulgaris]]
-- [[primula-veris]]
-- [[galanthus-nivalis]]
-- [[narcissus-pseudonarcissus]]
-- [[convallaria-majalis]]
-- [[anemone-nemorosa]]
+Myrmecochory, or ant-mediated [[clay-pellet-seed-dispersal]], is a common strategy among woodland geophytes. Ants carry seeds to their nests, consume the elaiosome, and discard the intact seed in favorable microsites for germination.

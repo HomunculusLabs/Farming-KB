@@ -88,19 +88,3 @@ reflection, and the gradual incorporation of insights into one's worldview
 and behavior, a process that can take weeks, months, or years.
 
 ## Neurobiological Basis
-
-Neuroscientific research has begun to reveal the brain mechanisms underlying
-mystical experiences. Functional neuroimaging studies show that during mystical
-states induced by psychedelics, there is decreased activity in the medial
-prefrontal cortex and posterior cingulate cortex, key nodes of the default
-mode network. At the same time, global brain connectivity increases,
-suggesting that the experience of unity may arise from the breakdown of the
-neural correlates of the self-other boundary. These findings support the
-hypothesis that mystical experiences reflect a fundamental shift in the brain's
-information processing architecture rather than purely subjective phenomena.
-
-## See Also
-
-- [[shamanism]]
-- [[set-and-setting]]
-- transpersonal psychology

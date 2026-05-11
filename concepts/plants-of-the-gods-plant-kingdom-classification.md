@@ -68,7 +68,7 @@ ascomycetes ([[schultes-psilocybe-little-flowers-gods]] and
 
 Seed-bearing plants dominate the earth's land flora. Gymnosperms
 (cone-bearing plants) constitute a small group of some 675 species
-and are known primarily as the source of ephedrine and the toxic
+and are known primarily as the source of [[ephedrine]] and the toxic
 taxine. Angiosperms (flowering plants) are the principal group,
 with estimates ranging from 200,000 to 500,000 species in 300 families.
 Almost all hallucinogens used by man, as well as other narcotics,
@@ -88,16 +88,3 @@ the Plant Kingdom represents an only partially studied emporium of
 biodynamic principles.
 
 ## Key Plant Families with Hallucinogenic Species
-
-Among the angiosperms, several families are particularly rich in
-hallucinogenic species:
-
-- **Solanaceae** (Nightshade family): [[schultes-datura-holy-flower-north-star]], [[schultes-mandrake-mandragora-officinarum]], [[schultes-peyote-and-mescaline]], [[plants-of-the-gods-turbina-corymbosa-ololiuqui]],
-  [[schultes-ayahuasca-magic-drink-amazon]],
-[[entheogen-tetrapteris-methystica-alternative-caapi]] (yage)
-- **Apocynaceae** (Dogbane family): [[plants-of-the-gods-anadenanthera-yopo-cebil]],
-  [[plants-of-the-gods-virola-epena-snuff]]
-- **Cannabaceae**: [[the-aware-plant-plant-consciousness-debate]]
-
-- [[plants-of-the-gods-erythroxylum-coca]]
-- [[plants-of-the-gods-piper-methysticum-kava]]

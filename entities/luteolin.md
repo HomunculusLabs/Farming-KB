@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - López-Lázaro, M. (2009). "Distribution and Biological Activities of the Flavonoid Luteolin." Mini-Reviews in Medicinal Chemistry, 9(1), 31–59.
-  - Lin, Y. et al. (2011). "Luteolin, a Flavonoid with Potential for Cancer Prevention and Therapy." Current Drug Targets, 12(6), 918–927.
+  - Lin, Y. et al. (2011). "Luteolin, a Flavonoid with Potential for [[cancer-prevention-dietary-mushroom-intake]] and Therapy." Current Drug Targets, 12(6), 918–927.
   - Jang, S. et al. (2010). "Luteolin Reduces IL-6 Production in Microglia." Molecular Nutrition & Food Research, 54(7), 1097–1105.
   - Saeed, M. et al. (2017). "Luteolin: A Review of Its Pharmacological Activities." Phytotherapy Research, 31(10), 1464–1480.
 ---
@@ -46,7 +46,7 @@ Luteolin features a flavone backbone with hydroxyl groups at the 5, 7, 3',
 and 4' positions. The catechol group on the B-ring (3',4'-dihydroxy) is
 critical for its radical scavenging activity. The 2,3-double bond in
 conjugation with the 4-carbonyl group contributes to its ability to
-stabilize reactive oxygen species.
+stabilize [[reactive-oxygen-species-and-oxidative-stress]].
 
 The compound is yellow crystalline at room temperature, with limited water
 solubility (approximately 5.6 mg/L at 25°C). It is soluble in ethanol,
@@ -85,53 +85,6 @@ Luteolin is present in a variety of common foods, though concentrations
 vary considerably.
 
 **Rich sources (>1 mg/g dry weight):**
-- Celery (*Apium graveolens*) leaves — up to 9.7 mg/g
+- Celery (*[[apium-graveolens]]*) leaves — up to 9.7 mg/g
 - Peppermint (*Mentha × piperita*) dried leaves — 5.0–8.5 mg/g
-- Chamomile (*Matricaria chamomilla*) flowers — 3.0–5.0 mg/g
-- Rosemary (*Rosmarinus officinalis*) — 2.5–4.0 mg/g
-
-**Moderate sources (0.1–1 mg/g):**
-- Parsley, oregano, thyme, green pepper, [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]
-
-Oral bioavailability of luteolin is relatively low (approximately 30%),
-limited by extensive phase II metabolism (glucuronidation and sulfation).
-Peak plasma concentrations after dietary intake typically reach 50–200 nM.
-However, luteolin metabolites retain significant biological activity.
-
-## Therapeutic Potential
-
-Clinical and preclinical evidence supports several therapeutic applications.
-Respiratory health benefits include bronchodilation and anti-allergic effects
-demonstrated in [[mushroom-cancer-clinical-trials-overview]] using luteolin-containing formulations for
-asthma and allergic rhinitis.
-
-Cardiovascular protective effects include endothelial function improvement,
-LDL oxidation inhibition, and anti-platelet aggregation activity observed
-in both in vitro and animal models.
-
-Neurological applications are the most actively researched area. Animal
-studies show luteolin improves cognitive function in models of
-age-related cognitive decline and reduces neuroinflammation. Human pilot
-studies with luteolin-enriched extracts have reported improvements in
-behavioral symptoms in children with autism spectrum conditions.
-
-## Related Compounds
-
-- **Apigenin** — 4',5,7-trihydroxyflavone; closely related flavone lacking
-  the 3'-hydroxyl group; shares many pharmacological properties
-- **Quercetin** — 3',4',3,5,7-pentahydroxyflavonol; more widely distributed,
-  stronger antioxidant activity due to additional 3-hydroxyl
-- **Kaempferol** — 4',5,7-trihydroxyflavonol; common co-occurring flavonoid
-  in many luteolin-containing plants
-- **Baicalein** — 5,6,7-trihydroxyflavone; major bioactive component of
-  Scutellaria baicalensis, distinct pharmacological profile
-- **Luteolin-7-O-glucoside (cynaroside)** — primary glycosylated form in
-  many plants; serves as the in vivo precursor to luteolin aglycone
-
-## See Also
-
-- [[kaempferol]]
-- [[berberine]]
-- [[salvia-officinalis]]
-- [[scutellaria-baicalensis]]
-- [[piperine]]
+- Chamomile (*[[matricaria-chamomilla]]*) flowers — 3.0–5.0 mg/g

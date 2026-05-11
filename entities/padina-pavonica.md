@@ -88,30 +88,3 @@ Several Padina species occur in overlapping ranges with P. pavonica. P. minor is
 P. gymnospora is distinguished by its lack of marginal inrolling and smoother thallus surface. P. tetrastromatica from the Indo-Pacific has a distinctly four-layered medullary structure.
 
 P. boergesenii and P. australis are other warm-water congeners found in the Caribbean and southern Pacific respectively. Accurate field identification requires [[fungal-microscopic-examination-mounting-media-techniques]] of cortical [[plant-cell-structure-and-organelles]].
-
-## Environmental Sensitivity
-
-P. pavonica is considered a sentinel species for ocean acidification impacts on calcified marine organisms. Experimental exposure to reduced pH (7.4–7.6) results in measurably thinner calcification bands and reduced aragonite deposition rates.
-
-Nutrient enrichment from coastal runoff can stimulate growth but also promotes epiphytic overgrowth by filamentous algae. In eutrophic Mediterranean bays, dense turfs of ephemeral algae can smother P. pavonica fronds.
-
-Temperature stress above 28°C causes bleaching and tissue degradation, limiting the species' distribution in tropical regions experiencing prolonged heat waves. Combined stressors of warming and acidification are projected to shift its range poleward.
-
-## History
-
-The species was originally described by Linnaeus in 1758 as Ulva pavonica and later transferred to Padina by Thivy in 1960. It was one of the earliest seaweed species to receive a formal binomial classification.
-
-Throughout the 19th century, P. pavonica was frequently collected by European phycologists working in the Mediterranean, and its distinctive morphology made it a staple of marine algal herbaria.
-
-In the 20th century, interest shifted to its biochemistry as researchers identified the unusual calcification mechanism and diverse diterpene metabolites. Recent research has focused on its responses to global change and potential biotechnological applications.
-
-## See Also
-
-- [[fucus-serratus]]
-- [[dictyota-dichotoma]]
-- [[gelidium-amansii]]
-- [[mastocarpus-stellatus]]
-- [[sargassum-muticum]]
-- [[laminaria-digitata]]
-- [[palmaria-palmata]]
-- [[porphyra-umbilicalis]]

@@ -18,7 +18,7 @@ vibration, and physical obstacles, translating these mechanical stimuli into
 coordinated developmental and physiological responses. The most dramatic
 manifestation of this sensitivity is thigmomorphogenesis -- the alteration of
 [[plant-signaling-pathways]] involving calmodulin, calcium-
-dependent protein kinases (CDPKs), and reactive oxygen species.
+dependent protein kinases (CDPKs), and [[reactive-oxygen-species-and-oxidative-stress]].
 
 The calcium signature produced by mechanostimulation is remarkably specific.
 Different types of mechanical force -- gentle touch versus strong wind versus
@@ -54,12 +54,12 @@ significant changes in growth form over time, with as little as ten seconds
 of touching per day being sufficient to alter stem morphology.
 
 The hormonal basis of thigmomorphogenesis involves complex interactions
-between auxin, ethylene, gibberellins, and jasmonic acid. Mechanical
+between auxin, ethylene, gibberellins, and [[jasmonic-acid-plant-defense-signaling]]. Mechanical
 stimulation triggers a rapid increase in ethylene production, which
 inhibits [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] and promotes radial growth. Simultaneously,
 auxin redistribution patterns change, redirecting growth resources from
 vertical extension to lateral thickening. Jasmonic acid, better known
-for its role in defense signaling, also participates in the
+for its role in [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]], also participates in the
 thigmomorphogenic response, linking mechanical perception to wound-
 defense readiness.
 
@@ -71,14 +71,14 @@ These fast movements, classified as thigmonastic (touch-induced) or
 seismonastic (vibration-induced), rely on changes in [[bloomfield-turgor-pressure-and-hyphal-invasion]] within
 specialized motor cells called pulvini.
 
-The Venus flytrap (Dionaea muscipula) represents perhaps the most
+The Venus flytrap ([[dionaea-muscipula]]) represents perhaps the most
 spectacular example of rapid mechanosensing in the plant kingdom. Its
 trap leaves snap shut in approximately 100 milliseconds when trigger hairs
 on the inner surfaces are touched twice within a 20-second window. This
 dual-trigger mechanism prevents false alarms from raindrops or debris.
-The trap closure is driven by an extremely rapid loss of turgor pressure
+The trap closure is driven by an extremely rapid loss of [[bloomfield-turgor-pressure-osmotic-mechanisms]]
 in motor cells on the outer surface of the leaf, causing the hinge to
-snap shut. Calcium signaling, electrical action potentials, and changes
+snap shut. Calcium signaling, electrical [[chamovitz-plant-electrical-signaling-action-potentials]], and changes
 in cell wall elasticity all contribute to this remarkable behavior.
 
 Climbing plants such as peas and beans exhibit another form of rapid
@@ -87,27 +87,3 @@ structure, it begins to coil around it within minutes, first forming a
 curl at the contact point and then propagating the coiling response along
 the tendril's length. This differential growth response allows vines to
 secure themselves to trellises, branches, and other plants.
-
-## Wind Sensing and Acclimation
-
-Wind represents the most pervasive and continuous mechanical stimulus
-experienced by terrestrial plants. Plants detect wind through the same
-mechanosensitive channels used for touch perception, but the sustained
-nature of wind stimulation triggers distinct acclimation responses.
-Trees growing in exposed, windy locations develop shorter trunks, more
-extensive root systems, thicker branches, and smaller leaves compared to
-their sheltered counterparts -- a classic expression of thigmomorphogenesis.
-
-Wind sensing also plays a role in pathogen defense. The physical damage
-caused by wind-driven leaf abrasion creates entry points for fungal and
-bacterial pathogens, so wind-stimulated plants upregulate their defensive
-gene expression programs. The interplay between mechanosensing and
-[[organic-vegetable-growing-calendar]]
-
-- [[plant-memory-and-learning]]
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-
-## See Also
-
-- [[plant-mechanoperception-thigmomorphogenesis]]
-- [[plant-thigmomorphogenesis-and-mechanosensing]]

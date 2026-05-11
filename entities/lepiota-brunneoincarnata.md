@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bresinsky A, Besl H (1990). A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide. Wolfe Publishing.
+  - Bresinsky A, Besl H (1990). A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]. Wolfe Publishing.
   - Benjamin DR (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
   - Vesterholt J (2008). "The genus Lepiota in Denmark." Friesia 13:1–35.
   - Cattle C, Sutton B, Matheny PB (2022). "Molecular phylogeny of Lepiota sensu lato." Mycologia 114(4): 895–912.
@@ -22,7 +22,7 @@ sources:
 
 Lepiota brunneoincarnata is a dangerously toxic agaric mushroom in the family
 Agaricaceae. It contains lethal concentrations of amatoxins — the same
-peptide toxins found in *Amanita phalloides* — and is responsible for
+peptide toxins found in *[[amanita-phalloides]]* — and is responsible for
 numerous fatal poisonings worldwide.
 
 The species is one of the most commonly misidentified mushrooms, frequently
@@ -88,54 +88,3 @@ mushroom fatalities each year.
 ## Toxicology
 
 The primary toxins in *L. brunneoincarnata* are **α-amanitin** and
-**β-amanitin**, bicyclic octapeptides that inhibit RNA polymerase II. This
-inhibition halts hepatic protein synthesis, leading to progressive and often
-irreversible liver cell death.
-
-Amatoxin content has been measured at 0.8–2.5 mg/g dry weight, placing
-*L. brunneoincarnata* among the most amatoxin-rich non-*Amanita* mushrooms
-known. A single mature [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] may contain a lethal dose for an adult.
-
-The clinical course follows the classic four-phase amatoxin syndrome. An
-initial asymptomatic latent period of 6–12 hours is followed by severe
-gastrointestinal distress (vomiting, diarrhea, abdominal pain).
-
-A temporary remission phase at 24–48 hours can be falsely reassuring, as
-hepatic necrosis progresses silently. The terminal hepatorenal phase at
-days 3–7 manifests as jaundice, hepatic encephalopathy, coagulopathy, and
-multi-organ failure.
-
-Mortality rates without treatment range from 20–60%, improving to 5–12% with
-aggressive supportive care including intravenous silibinin, N-acetylcysteine,
-and, in severe cases, emergency liver transplantation.
-
-## Similar Species
-
-*L. brunneoincarnata* is most commonly confused with edible species in the
-same genus and with other small, scaly agarics.
-
-**Lepiota procera** (the parasol mushroom) is considerably larger, with a
-cap diameter exceeding 100 mm, and lacks the concentrated amatoxin toxicity.
-However, small specimens of *L. procera* can resemble *L. brunneoincarnata*.
-
-**Lepiota cristata** (the stinking dapperling) is similar in size but has a
-distinctive pungent odor and pink-tinged gills. It is not known to contain
-amatoxins.
-
-**Lepiota aspera** has larger, more prominent scales and a stronger odor.
-Its toxicity status is uncertain but it is generally considered inedible.
-
-Several other small *Lepiota* species contain amatoxins, including *L.
-helveola* and *L. josserandii*, making the entire genus unreliable for
-foraging. Expert mycologists recommend avoiding all *Lepiota* species
-without definitive identification.
-
-## See Also
-
-- [[lepiota-rachodes]]
-
-- [[amanita-pantherina]] — panther cap, another commonly misidentified toxic agaric
-- [[agaricus-xanthodermus]] — yellow-staining mushroom, toxic agaric
-- [[gyromitra-esculenta]] — [[bloomfield-false-morel-gyromitrin-volatile-toxin-cooking-risk]], contains gyromitrin toxin
-- [[amanita-vaginata]] — grisette, an edible Amanita for comparison
-- [[lepista-nuda]] — wood blewit, edible agaric for morphological comparison

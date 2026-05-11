@@ -1,5 +1,5 @@
 ---
-title: Mushroom Stipe Development Stages in [[brassinosteroid-growth-promotion-psilocybe-cubensis]]
+title: Mushroom Stipe Development Stages
 category: mycology
 tags: [stipe-development, basidiocarp, fruiting-body, mushroom-biology, psilocybe-cubensis]
 created: 2026-05-09
@@ -41,9 +41,9 @@ stipe-like.
 
 ### Tropic Behavior
 - The stipe is highly responsive to wind (anemotropism dominates)
-- Growth direction is primarily influenced by [[evaporative-demand-hypothesis-mushroom-growth]] gradients
+- [[gadd-spitzenkorper-vesicle-supply-centre-hyphal-tip-growth-direction]] is primarily influenced by [[evaporative-demand-hypothesis-mushroom-growth]] gradients
 - The mushroom has not yet developed significant spore-producing tissue
-- No geotropic response is observed at this stage
+- No [[spore-formation-geotropic-response-psilocybe-cubensis-badham-1982]] is observed at this stage
 
 ### Duration
 Stage 1 represents approximately the first 24 hours of the 72-hour
@@ -71,14 +71,14 @@ This is the **transitional stage** where tropic behavior begins to shift:
 ### Significance
 Stage 2 represents the critical point at which the mushroom switches from
 environment-driven growth (responding to wind and humidity) to
-reproduction-driven growth (positioning the cap for spore release). This
+reproduction-driven growth (positioning the cap for [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]). This
 switch is mediated by substances produced in the developing gill tissue.
 
 ## Stage 3: Maturity and Sporulation
 
 ### Morphology
 The pileus opens into a hemispherical shape, exposing the gills. Spore
-production begins. The partial veil may still be intact or rupturing. The
+production begins. The [[partial-veil-tropism-protection-before-spore-release]] may still be intact or rupturing. The
 stipe has reached its maximum length.
 
 ### Tropic Behavior
@@ -86,64 +86,4 @@ stipe has reached its maximum length.
 - The pileus turns upward and the gills face downward
 - Anemotropic bending is largely masked by the geotropic response
 - Light is necessary for full expression of the geotropic response,
-  likely because it is necessary for spore production
-
-### Duration
-Stage 3 occupies approximately 24–48 hours in the wind tunnel timeline.
-
-### Morphology
-The pileus becomes more or less plane (flat). The gills are fully exposed
-and spore release is at its peak. The cap margin may begin to uplift as
-the mushroom enters senescence. The partial veil, if present, has fully
-ruptured.
-
-### Tropic Behavior
-- The mushroom maintains its geotropically-corrected orientation
-- No further significant tropic adjustments occur
-- The mushroom is focused on spore release rather than growth
-
-### Duration
-Stage 4 represents approximately 48–72 hours in the wind tunnel timeline.
-In cultivation, this is the stage at which mushrooms are typically
-harvested.
-
-## Factors Affecting Stage Progression
-
-### Temperature
-Higher temperatures accelerate development through all stages. Badham's
-experiments were conducted at 24.5 ± 1.5°C. Significantly higher
-temperatures can cause abnormal development and heat stress.
-
-### Light Intensity
-Light influences the rate of progression and the tropic behavior at each
-stage:
-- Light is required for [[light-basidiocarp-initiation-psilocybe-cubensis-research]] (Badham, 1980)
-- Light inhibits stipe elongation to some degree
-- Light is necessary for spore formation and geotropic sensitivity
-- Four different responses to light have been described for mushrooms
-  (Eger-Hummel, 1980)
-
-### Strain Genetics
-Different strains progress through stages at different rates. Some strains
-fruit earlier and more readily than others. The Ecuador strain of *P.
-cubensis*, for example, is noted as an easy fruiter that does not require
-cold shocking, while other strains may be reluctant to fruit without
-environmental manipulation.
-
-### Inoculation Method
-The method used to inoculate the substrate (spore syringe, mycelium
-syringe, agar wedge) affects the time to [[pf-tek-primordia-formation-and-pinning-process]] thus the
-onset of the four-stage developmental sequence. Agar wedge inoculation
-typically produces the fastest and most reliable colonization.
-
-## Relevance to Cultivation
-
-Understanding these stages has practical implications:
-
-- [[chen-maitake-growth-parameters-environmental-control]] is most critical during Stages 1–2 when the
-  mushroom establishes its growth direction
-- Air currents during early fruiting can cause bent or crooked mushrooms
-- Light positioning matters primarily during the Stage 2 transition
-- Harvest timing should target Stage 3–4 for maximum yield
-- Cold shocking should be applied before Stage 1 to avoid disrupting
-  the natural tropic sequence
+  likely because it is necessary for [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]

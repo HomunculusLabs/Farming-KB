@@ -56,7 +56,7 @@ that are detected by mechanosensitive proteins. This would mean that the
 plant's water transport system doubles as a vibration-detection system,
 an elegant example of biological multifunctionality.
 
-This hypothesis has some experimental support. Plants under cervantes wilting plant,
+This hypothesis has some experimental support. Plants under [[cervantes-wilting-plant-water-stress]],
 where the water column is less continuous, show altered responses to
 vibrational stimuli. Additionally, the frequency range to which plants appear
 most sensitive overlaps with frequencies that would most effectively couple
@@ -88,44 +88,3 @@ potentially act as frequency-selective mechanical resonators.
 In corn plants, the stigma (silk) has been proposed as a possible sound-
 collecting structure due to its fine, hair-like morphology. While direct
 evidence is lacking, the physical properties of these structures are
-consistent with a role in detecting airborne vibrations. Research in this
-area remains active and contentious.
-
-## Ecological Significance of Vibration Detection
-
-The most well-supported ecological role for vibration sensing in plants is
-herbivore detection. Leaf-chewing insects produce characteristic vibrations
-as they feed, and plants that can detect and respond to these vibrations gain
-a defensive advantage. This is particularly relevant because visual and
-chemical detection of herbivores often lags behind the actual damage,
-whereas vibration signals are produced in real time during feeding.
-
-Vibration sensing may also play a role in plant-pollinator interactions. The
-buzz pollination employed by bumblebees on certain flowers (such as tomatoes
-and blueberries) involves the bee vibrating its body at a specific frequency
-to release pollen. While this has primarily been studied from the insect's
-perspective, it is possible that the flower's morphology has evolved to
-optimise the mechanical coupling between bee vibration and pollen release.
-
-## Distinguishing Sound from Vibration
-
-A key theme in Chamovitz's discussion is the importance of precise language.
-Using the word "hear" to describe plant responses to vibration can be
-misleading, as it implies cognitive processes and sensory experiences that
-plants almost certainly do not possess. Plants detect and respond to
-mechanical vibrations through well-characterised biophysical mechanisms, but
-this is fundamentally different from auditory perception in animals.
-
-The appropriate scientific framework is one of mechanosensation, not audition.
-Plants are remarkably sensitive to their mechanical environment, and
-vibrational stimuli are a component of that environment. Recognising this
-sensitivity is scientifically valuable without requiring anthropomorphic
-interpretations.
-
-## See Also
-
-- [[plant-olfaction-what-a-plant-smells]]
-- [[plant-gravitropism-and-spatial-awareness]]
-- mechanosensitive ion channels
-- buzz pollination
-- plant defence responses

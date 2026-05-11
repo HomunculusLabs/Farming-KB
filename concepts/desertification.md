@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Desertification
@@ -87,19 +88,3 @@ through integrated watershed
 management.
 ## Allan Savory and Holistic Planned Grazing
 Allan Savory has argued that properly managed livestock can reverse
-desertification in grassland ecosystems. His holistic planned grazing approach
-mimics the behavior of wild herd animals: large herds graze an area
-intensively for a short period, then move on, allowing plants extended
-recovery time. The trampling action of hooves breaks soil crusts, incorporates
-plant litter into the soil surface, and creates micro-depressions that capture
-rainfall. The dung and urine from concentrated grazing deposit concentrated
-organic matter and nutrients. Savory contends that it is not livestock per se
-that causes desertification, but continuous year-round grazing that prevents
-plant recovery. When grazing is planned to match the natural patterns of
-herbivore movement, grasslands can regenerate remarkably quickly. While
-Savory's claims have been debated in the scientific literature, particularly
-regarding the climate impact of methane from ruminants, his approach has
-produced documented improvements in vegetation cover and soil health on
-ranches across Africa, Australia, and the
-Americas.
-## See Also

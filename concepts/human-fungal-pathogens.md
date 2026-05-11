@@ -88,39 +88,3 @@ candidiasis in immunocompromised patients. In severe cases, Candidia can
 colonize the throat, nasal passages, and internal organs.
 
 ## Diagnostic Challenges
-
-Fungal infections are frequently misdiagnosed or diagnosed late because their
-symptoms mimic those of [[cannabis-for-bacterial-infections-and-mrsa]], tuberculosis, or cancer. Standard
-bacterial cultures do not detect fungi, and many physicians receive limited
-training in medical mycology. The development of molecular [[fukuoka-textdoc-weeds-as-soil-diagnostic-tools-orchard-restoration]]
-(PCR-based detection, antigen tests for cryptococcal and histoplasma antigens)
-has improved diagnosis, but awareness remains low in many clinical settings.
-
-## Treatment Limitations
-
-Treating fungal infections is complicated by the evolutionary relationship
-between fungi and humans — both are eukaryotes, meaning drugs that target
-fungal cells often affect human cells as well. Most antifungal drugs target
-ergosterol (a fungal [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] component not found in human cells) or
-its synthesis. However, organisms like Pythium that lack ergosterol are
-resistant to these drugs. The limited arsenal of effective antifungals, combined
-with rising drug resistance, makes fungal diseases an increasingly serious
-public health concern.
-
-## The Fungal Threat
-
-The medical community has increasingly recognized fungal pathogens as a major
-threat to human health, particularly as the population of immunocompromised
-individuals grows due to HIV/AIDS, organ transplantation, cancer chemotherapy,
-and immunosuppressive drugs. Every surface we touch and every breath we take
-exposes us to fungi that are, under the right circumstances, capable of
-turning our bodies into food.
-
-## Source
-
-- Nicholas P. Money, *Mr. Bloomfield's Orchard: The Mysterious World of
-  Mushrooms, Molds, and Mycologists* (2002), Oxford University Press
-  (mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md)
-
-## See Also
-- [[pythium-insidiosum-oomycete-human-infection-pythiosis]]

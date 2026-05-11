@@ -12,9 +12,9 @@ updated: 2026-05-08
 sources:
   - Mägdefrau K. (1975). "Dracaena draco — a relict of the Tertiary." Flora 164: 553-564.
   - Marrero Á. et al. (1998). "A new species of the wild dragon tree from Gran Canaria." Botanical Journal of the Linnean Society 128: 297-310.
-  - González-Pérez M.A. et al. (2004). "Genetic diversity in Dracaena draco." Botanical Journal of the Linnean Society 146(1): 81-87.
+  - González-Pérez M.A. et al. (2004). "[[biodiversity-fungal-genetic-diversity]] in Dracaena draco." Botanical Journal of the Linnean Society 146(1): 81-87.
   - Gupta D. et al. (2008). "Dragon's blood: botany, chemistry and therapeutic uses." Journal of Ethnopharmacology 115(3): 361-380.
-  - Fernández-Palacios J.M. et al. (2004). "Canary Islands biodiversity." In: "Biodiversity Hotspots." Springer.
+  - Fernández-Palacios J.M. et al. (2004). "Canary Islands biodiversity." In: "[[psilocybe-global-biodiversity-hotspots]]." Springer.
 ---
 
 ## Overview
@@ -55,13 +55,13 @@ The Moroccan population, centered on the Anti-Atlas mountains near the town of T
 
 ## Cultivation
 
-Propagation is by seed, which germinates readily in 2–4 weeks at 20–25 °C. Seedlings grow slowly, approximately 15–30 cm per year under optimal conditions. Vegetative propagation from stem cuttings is possible but unreliable.
+Propagation is by seed, which germinates readily in 2–4 weeks at 20–25 °C. Seedlings grow slowly, approximately 15–30 cm per year under optimal conditions. [[hamilton-vegetative-propagation]] from stem cuttings is possible but unreliable.
 
 Young trees require excellent drainage and full sun. Established plants are extremely drought-tolerant and require minimal irrigation. The species is sensitive to overwatering and poorly drained soils.
 
 In cultivation, D. draco is hardy to approximately −2 to −4 °C. In frost-prone climates, it is grown as a container plant and moved indoors during winter. The species is widely planted as an ornamental in Mediterranean, subtropical, and warm-temperate regions.
 
-Growth rate is slow but steady. Container-grown specimens typically reach 2–3 m in 15–20 years. In-ground cultivation in suitable climates produces faster growth, with trees branching after 8–12 years.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is slow but steady. Container-grown specimens typically reach 2–3 m in 15–20 years. In-ground cultivation in suitable climates produces faster growth, with trees branching after 8–12 years.
 
 Pests are minimal; scale insects (Coccus hesperidum) and mealybugs may infest the crown in humid conditions. [[cannabis-root-rot-prevention-and-treatment]] from Phytophthora is the primary disease concern in over-irrigated plantings.
 
@@ -71,7 +71,7 @@ Dragon's blood resin is a complex mixture of benzoic and benzoic acid derivative
 
 Historically, the resin was valued as a pigment, varnish, and incense across Mediterranean cultures. The ancient Romans and Greeks used it medicinally for gastrointestinal complaints, wound healing, and as an astringent.
 
-In traditional Canary Island folk medicine, dragon's blood was applied topically for skin ailments, ulcers, and bone fractures. Internal use included treatment for dysentery and respiratory conditions.
+In traditional Canary Island folk medicine, dragon's blood was applied topically for skin ailments, ulcers, and bone fractures. Internal use included treatment for dysentery and [[cannabis-respiratory-conditions]].
 
 Modern research has identified anti-inflammatory, antioxidant, and antimicrobial activities in dragon's blood extracts. Dracorhodin shows cytotoxic activity against several human [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
@@ -88,21 +88,3 @@ The species is protected under regional legislation in the Canary Islands. Conse
 The El Drago de Icod, the most famous living specimen, is fenced and protected as a natural monument. However, its advanced age and the species' slow regeneration rate raise concerns about long-term population viability without active management.
 
 ## Ecological Role
-
-In its native Macaronesian habitat, D. draco functions as a keystone structure in xerophytic plant communities. The massive trunk and crown provide perching sites and nesting habitat for birds, particularly Columba livia and Corvus corax.
-
-The flowers are a significant nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]] and the Canary Islands endemic butterfly Gonepteryx cleobulus. Flowering occurs in summer, filling a temporal niche when few other native plants are in bloom.
-
-[[dighton-fungal-decomposition-leaf-litter-dynamics]] from D. draco decomposes slowly due to high fiber content, contributing to a humus layer that supports understory herbs and ferns. The shade beneath mature canopies creates microhabitat diversity.
-
-The fruits are consumed by frugivorous birds including the endemic laurel pigeon (Columba junoniae). Seed passage through avian digestive tracts enhances germination rates, suggesting a coevolved dispersal mutualism.
-
-## See Also
-
-- [[daemonorops-draco]]
-
-- [[yucca-filamentosa]]
-- [[corylus-avellana]]
-- [[quercus-suber]]
-- [[tilia-cordata]]
-- [[moringa-oleifera]]

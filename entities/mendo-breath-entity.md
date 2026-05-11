@@ -24,7 +24,7 @@ sources:
 
 ## Overview
 
-Mendo Breath is a potent indica-dominant hybrid cannabis strain created by crossing **OGKB** (OG Kush Breath, a select Girl Scout Cookies phenotype) with **Mendo Montage**.
+Mendo Breath is a potent indica-dominant [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain created by crossing **OGKB** (OG Kush Breath, a select [[girl-scout-cookies]] phenotype) with **Mendo Montage**.
 
 Bred in Mendocino County, California, it has earned a reputation as one of the most sedative and relaxing strains available, frequently recommended for evening and nighttime use.
 
@@ -37,7 +37,7 @@ The strain consistently tests between 19–25% THC, with negligible CBD content,
 | OGKB (OG Kush Breath) | Indica-dominant hybrid | Female seed parent; GSC phenotype |
 | Mendo Montage | Indica-dominant hybrid | Pollen parent; Mendo County landrace cross |
 
-OGKB is itself a select phenotype of Girl Scout Cookies, tracing back to OG Kush × Durban Poison.
+OGKB is itself a select phenotype of Girl Scout Cookies, tracing back to OG Kush × [[durban-poison]].
 
 Mendo Montage brings additional indica depth from Mendocino County breeding stock, contributing to the strain's heavy sedative profile.
 
@@ -87,53 +87,3 @@ The high myrcene and linalool content synergizes with THC to produce the strain'
 - **CBD:** <0.1% (negligible)
 - **CBN:** 0.1–0.3%
 - **THCV:** <0.1%
-
-The high THC content combined with low CBD produces a strongly psychoactive, predominantly physical experience.
-
-## Effects
-
-**Onset:** Effects begin within 5–10 minutes of inhalation, starting with a gentle cerebral euphoria and warming sensation in the face and eyes.
-
-**Progression:** The initial head high is short-lived, transitioning rapidly into a deep, full-body relaxation that intensifies over 30–45 minutes.
-
-Users commonly report a "couch-lock" sensation, heaviness in the limbs, and a strong desire to recline or sleep.
-
-**Duration:** 2–3 hours, with residual sedation lasting an additional 1–2 hours.
-
-**Common effects:** [[blesching-cannabis-deep-relaxation-healing]], euphoria, sleepiness, increased appetite, body tingling, pain relief.
-
-**Medical applications:** Mendo Breath is frequently used for insomnia, [[cannabis-chronic-pain-management]], muscle spasms, anxiety, and stress-related disorders.
-
-Its strong sedative properties make it particularly effective for sleep onset and maintenance.
-
-## Side Effects
-
-**Common:** Dry mouth, dry eyes, drowsiness, lethargy.
-
-**Less common:** Dizziness, mild anxiety (in high doses), paranoia (rare), headache.
-
-**Contraindications:** Not recommended for daytime use, driving, or operating machinery.
-
-Novice consumers should approach with caution due to the high THC content and heavy sedative effects.
-
-## Cultivation
-
-**Flowering time:** 8–9 weeks indoors; late September to mid-October outdoors.
-
-**Yield:** Moderate, approximately 300–400 g/m² indoors.
-
-**Difficulty:** Moderate. Plants are relatively compact and bushy, suitable for indoor grows with adequate ventilation.
-
-**Climate preference:** Mendo Breath performs best in a Mediterranean climate similar to its native Mendocino County.
-
-It tolerates cooler nighttime temperatures well, which can enhance purple coloration.
-
-The strain responds well to LST (low-stress training) and SCROG ([[cannabis-screen-of-green-scrog-guide]]) techniques to maximize light penetration and yield.
-
-Pest and mold resistance is average; dense buds require good airflow to prevent bud rot in humid conditions.
-
-## See Also
-
-- `[[girl-scout-cookies]]` — Girl Scout Cookies, the grandparent strain via OGKB
-- `[[northern-lights]]` — Classic indica with similar relaxing and sedative effects
-- `[[sfv-og]]` — Related OG Kush descendant from Southern California

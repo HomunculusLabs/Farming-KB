@@ -88,25 +88,3 @@ biology and function.
   Acidic soils favor [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]; alkaline soils support
   greater saprotrophic diversity.
 - **Land use**: Agricultural intensification reduces fungal diversity,
-  particularly of AMF and wood-decay fungi.
-- **Plant community**: Aboveground vegetation strongly influences
-  belowground fungal communities through root exudates and litter.
-- **Climate**: Temperature and precipitation drive large-scale
-  biogeographic patterns.
-- **Soil texture**: Clay content affects water retention, pore size,
-  and organic matter stabilization.
-
-## Sampling Challenges
-
-DNA extraction efficiency varies by fungal group, primer choice
-introduces taxonomic bias, and comprehensive reference databases
-remain incomplete. Metatranscriptomic approaches capture actively
-expressed genes but are technically challenging. See
-[[bloomfield-fungal-secondary-metabolites]] and [[bioluminescent-fungi]]
-for related fungal diversity topics.
-
-## See Also
-
-- [[mycorrhizal-symbiosis-mechanisms]]
-- [[bloomfield-fungal-secondary-metabolites]]
-- [[bioluminescent-fungi]]

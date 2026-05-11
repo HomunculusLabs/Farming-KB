@@ -88,34 +88,3 @@ Propagation from cuttings has shown limited success, with rooting rates below 30
 The wood is lightweight and moderately durable, used locally for small construction projects and tool handles. It is not commercially harvested at significant scale.
 
 Traditional medicine in parts of Yunnan and northern Vietnam uses leaf decoctions for treating digestive complaints and respiratory ailments. The essential oil has demonstrated mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] in laboratory assays.
-
-In some communities, crushed leaves are applied topically as a poultice for minor wounds and skin infections. The wood ash is occasionally used in traditional soap-making due to its alkaline properties.
-
-The species has potential as a source of aromatic essential oils for the perfumery and cosmetics industries. However, commercial extraction has not been developed at scale due to limited distribution and relatively low oil yields compared to *Litsea cubeba*.
-
-## Conservation Status
-
-*Litsea glauca* has not been formally assessed for the IUCN Red List as a standalone species. However, habitat loss through deforestation and agricultural expansion threatens populations across its range, particularly in lowland areas.
-
-Forest conversion to rubber plantations and tea cultivation has reduced available habitat in southern Yunnan and northern Laos. Fragmentation of remaining forest patches may limit gene flow between populations.
-
-Selective logging of Lauraceae species for timber has also impacted *L. glauca* populations in accessible forest areas. The species regenerates poorly in heavily logged stands where seed trees have been removed.
-
-Ex situ conservation collections exist in several Chinese and Vietnamese botanical institutions. Additional field surveys are needed to clarify population trends and assess whether formal threatened status is warranted.
-
-Climate modeling suggests that suitable habitat may contract significantly under warming scenarios. Shifts in monsoon timing could disrupt the phenological cues that coordinate flowering and fruiting with seed disperser activity.
-
-Protected area networks in Yunnan, northern Thailand, and northern Vietnam provide some refuge for remaining populations. However, many occurrences fall outside formal reserves and remain vulnerable to land-use change.
-
-## See Also
-
-- [[litsea-cubeba]]
-- [[lindera-benzoin]]
-- [[lindera-obtusiloba]]
-- [[cinnamomum-camphora]]
-- [[cinnamomum-verum]]
-- [[persea-borbonia]]
-- [[laurus-nobilis]]
-- [[sassafras-albidum]]
-- [[persea-americana]]
-- [[cinnamomum-cassia]]

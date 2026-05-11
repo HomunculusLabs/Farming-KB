@@ -88,20 +88,3 @@ birds and butterflies. See [[hamilton-deep-bed-system]] for intensive planting p
 
 Harvest periods vary by crop type. Brussels sprouts are picked from
 early fall through [[coleman-overwintered-onions-and-early-spring-crops]]. Kale provides [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. Cabbages
-can be harvested through much of the year with successional sowing.
-After harvesting, pull up remaining brassica plants and dispose of
-them to prevent disease carry-over. Firm, healthy late cabbages can
-be stored for winter use in cool, frost-free conditions.
-
-## Summary
-
-Brassicas are the backbone of the winter [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]], providing
-greens through the coldest months. Success depends on proper soil
-preparation with liming to pH 6.5 to 7.0, strict crop rotation to
-prevent clubroot, firm planting at appropriate spacing, and protection
-from birds and insect pests. Following legumes in rotation provides
-[[jadam-natural-nitrogen-fertilizer]]. Regular removal of yellowing leaves and careful
-harvesting ensure healthy, productive plants throughout the season.
-
-For cauliflower, protect developing curds by folding inner leaves over
-the head. This blanching keeps the curd white and tender for harvest.

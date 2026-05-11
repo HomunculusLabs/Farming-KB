@@ -14,7 +14,7 @@ The fundamental division in the beer world is between ales and lagers. This dist
 
 ### Ale Yeast (Saccharomyces cerevisiae)
 
-Ale yeast is a top-fermenting yeast, meaning it tends to rise to the surface of the fermenting beer during active fermentation. This is the same species used in bread baking and winemaking. Ale yeast works best at warmer temperatures, typically 60-75 degrees F (15-24 degrees C), though some Belgian strains can ferment even warmer.
+Ale yeast is a top-fermenting yeast, meaning it tends to rise to the surface of the fermenting beer during active fermentation. This is the same species used in [[wild-yeast-bread-baking]] and winemaking. Ale yeast works best at warmer temperatures, typically 60-75 degrees F (15-24 degrees C), though some Belgian strains can ferment even warmer.
 
 Key characteristics of ale fermentation include:
 
@@ -58,7 +58,7 @@ Temperature is the single most important variable in determining the flavor char
 
 ## Hybrid and Specialty Fermentations
 
-Some beer styles do not fit neatly into the ale/lager dichotomy:
+Some [[beer-styles-overview]] do not fit neatly into the ale/lager dichotomy:
 
 ### Kölsch
 
@@ -80,24 +80,10 @@ Fermented with specialized Belgian ale yeast at temperatures that can exceed 75 
 
 Beyond the ale/lager divide, several traditions use wild or mixed fermentation:
 
-- Lambic: Spontaneously fermented by wild yeast and bacteria in the Senne Valley near Brussels. Uses no added yeast; fermentation is driven by microorganisms present in the environment and in the cooling wort
-- Berliner weisse: Fermented with a combination of ale yeast and Lactobacillus bacteria, producing a sour, tart beer
+- Lambic: Spontaneously fermented by [[comparison-sourdough-vs-wild-yeast]] and bacteria in the Senne Valley near Brussels. Uses no added yeast; fermentation is driven by microorganisms present in the environment and in the cooling wort
+- Berliner weisse: Fermented with a combination of ale yeast and [[lactobacillus]] bacteria, producing a sour, tart beer
 - Flanders red ales: Long-aged in oak barrels with a complex mix of yeast and bacteria including Brettanomyces, Lactobacillus, and Acetobacter
 
 ## Practical Considerations for Homebrewers
 
 For homebrewers choosing between ale and lager:
-
-- Ale fermentation is generally easier and requires less temperature control
-- Ale yeast works at room temperature in most homes
-- Lager fermentation requires a cool environment, often requiring a dedicated refrigerator or fermentation chamber
-- Most beginner brewers should start with ales before attempting lagers
-- A good thermometer is essential for both ale and lager brewing
-- Temperature control during fermentation is more important than any other single variable
-
-## See Also
-
-- [[yeast-biology]] for the science of brewing yeast
-- [[malt-and-malting-process]] for the grain side of brewing
-- [[wild-yeast-bread-baking]]
-- [[strain-isolation-from-wild-specimens]]

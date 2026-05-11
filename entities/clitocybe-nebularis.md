@@ -38,8 +38,8 @@ is a large saprotrophic and weakly ectomycorrhizal basidiomycete in the
 family Tricholomataceae. It is among the most abundant and recognizable
 late-autumn mushrooms in temperate forests of Europe and [[psilocybin-north-america-pacific-northwest]].
 
-The species produces massive fruiting bodies, with caps reaching 15–25 cm
-in diameter, forming extensive troops and fairy rings on forest floors. Its
+The species produces massive [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], with caps reaching 15–25 cm
+in diameter, forming extensive troops and [[bloomfield-fairy-rings-armillaria-giant-fungi]] on forest floors. Its
 distinctive grey cloud-like cap and penetrating farinaceous odor make it
 easy to identify in the field.
 
@@ -71,16 +71,16 @@ are ellipsoid, 5.5–7.5 × 3.5–5 µm, smooth, white in deposit.
 ## Distribution and Habitat
 
 C. nebularis is widely distributed across temperate and [[fungal-diversity-boreal-forests-taiga]] of
-Europe, North America, and parts of Asia. It is particularly abundant in
+Europe, [[guzman-psilocybin-mushrooms-north-america]], and parts of Asia. It is particularly abundant in
 Central and Northern Europe, where it is one of the dominant late-season
 forest fungi.
 
 The species fruits from September through December, often persisting through
 early frosts. It grows in coniferous and mixed forests, especially under
-spruce (Picea abies), pine (Pinus sylvestris), and beech (Fagus sylvatica).
+spruce (Picea abies), pine ([[pinus-sylvestris]]), and beech ([[fagus-sylvatica]]).
 
 While primarily saprotrophic on forest litter and woody debris, isotopic
-studies suggest C. nebularis can form weak ectomycorrhizal associations
+studies suggest C. nebularis can form weak [[ectomycorrhizal-associations]]
 with tree roots. It frequently forms large fairy rings or dense clusters
 of 20–100+ fruiting bodies, sometimes covering several square meters.
 
@@ -88,52 +88,3 @@ of 20–100+ fruiting bodies, sometimes covering several square meters.
 
 The most notable bioactive compound is nebularin, a purine nucleoside
 (9-β-D-ribofuranosylpurine) isolated from C. nebularis fruiting bodies.
-Nebularin exhibits antibacterial activity against Gram-positive bacteria
-and has demonstrated cytotoxic effects against several cancer cell lines
-in vitro.
-
-Additional bioactive constituents include clitocybin (a volatile
-hemolytic compound), sterols, and immunomodulatory β-glucans. Water-soluble
-polysaccharide fractions from C. nebularis mycelium have shown
-stimulatory effects on macrophage activity and cytokine production in
-murine models.
-
-Clitocybin is thermolabile and destroyed by cooking, which accounts for
-the species' edibility despite the presence of this raw toxin. The compound
-causes hemolysis in vitro but is not considered dangerous when mushrooms
-are thoroughly cooked.
-
-## Culinary and Nutritional Value
-
-C. nebularis is widely consumed as an [[bloomfield-boletus-satanus-edible-mushroom-hazards]] across Central and
-Eastern Europe, particularly in Poland, Russia, and the Czech Republic.
-The flesh is firm and holds its texture well in cooking, making it suitable
-for soups, stews, and preserves.
-
-The strong farinaceous odor is polarizing; some foragers consider it an
-acquired taste, while others prize it for adding depth to mushroom dishes.
-Thorough cooking is essential to denature clitocybin and improve
-digestibility.
-
-Young specimens are preferred, as older caps can develop a bitter or
-astringent aftertaste. The species has good keeping qualities and is
-commonly pickled or dried for winter use in Eastern European cuisines.
-
-## Ecological Role
-
-C. nebularis is a significant decomposer of coniferous forest litter,
-contributing to the breakdown of needle duff and woody debris. Its ability
-to form fairy rings indicates a long-lived, territorial mycelium that
-progressively decomposes [[hamilton-composting-and-organic-matter-management]] in expanding zones.
-
-The species may play a role in forest soil health through its
-immunomodulatory polysaccharides, which influence soil [[edaphic-factors-microbial-community-structure]]
-composition. Its late-season fruiting strategy allows it to access
-nutrients released by autumn leaf and needle fall.
-
-## See Also
-
-- [[trametes-versicolor-entity]]
-- [[boletus-edulis-entity]]
-- [[armillaria-mellea-entity]]
-- [[mycorrhizal-fungi]]

@@ -22,7 +22,7 @@ structures. Another term used for these organisms is [[bloomfield-slime-molds-my
 The categories to which mycetozoans can be assigned are the
 Eumycetozoa and the acrasids. The taxon Eumycetozoa appears to be
 a monophyletic group that includes the Myxogastria (myxomycetes
-or plasmodial slime molds), the Dictyostelia (dictyostelid
+or plasmodial [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]), the Dictyostelia (dictyostelid
 cellular slime molds), and the Protostelia (protostelids). The
 eumycetozoans may be a sister group to the Fungi and Animal
 clade of the crown eukaryotes.
@@ -30,7 +30,7 @@ clade of the crown eukaryotes.
 ## Distinguishing Features
 
 The ability of mycetozoans to fruit is what distinguishes them
-from other amoeboid protists. Their fruiting bodies are detected
+from other amoeboid protists. Their [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]] are detected
 most commonly on a substratum and are used to identify these
 organisms. Fruiting bodies range in size from that of some
 myxomycete aethalia, which may approach 1 m in maximum extent,
@@ -40,9 +40,9 @@ smallest of which may be less than 10 micrometers tall.
 In all mycetozoans, the trophic state consists of one or more
 types of amoeboid cells that feed phagotrophically on other
 microorganisms. They feed on bacteria, yeasts, spores, hyphae of
-filamentous fungi, algae, and other protists. Under harsh
+[[environmental-sensing-filamentous-fungi-read]], algae, and other protists. Under harsh
 conditions, the amoebae of most mycetozoans can round up, produce
-cell walls, and become dormant microcysts.
+[[alpha-1-3-glucan-fungal-pathogen-cell-walls]], and become dormant microcysts.
 
 ## Major Groups
 
@@ -53,7 +53,7 @@ produce microscopic fruiting bodies characterized by a delicate,
 acellular stalk that supports one or a few spores. Their trophic
 cells are quite diverse. They are probably ubiquitous, having been
 collected from subarctic [[psilocybin-north-america-pacific-northwest]], temperate and desert areas
-of North America, the Caribbean, Brazil, Melanesia, Micronesia,
+[[berry-growing]], the Caribbean, Brazil, Melanesia, Micronesia,
 Polynesia, Japan, portions of southeastern Asia, England, and
 northern and central Africa.
 
@@ -84,35 +84,7 @@ Copromyxa and Copromyxella and the unusual genus Fonticula.
 ## Habitat and Distribution
 
 Mycetozoans are found in various terrestrial habitats worldwide.
-They are present in temperate, boreal, and tropical forests as
+They are present in temperate, boreal, and [[fungal-biodiversity-tropical-forests]] as
 well as in grasslands, deserts, and tundra. Mycetozoans are found
 in soil, [[dighton-fungal-decomposition-leaf-litter-dynamics]], herbivore dung, rotting logs, the bark
 surface of living and dead trees, and dead aerial parts of plants
-such as grass culms, old infructescences and inflorescences, and
-leaves. They usually are located on the outer surface of a
-substratum when their fruiting bodies are observed.
-
-Moist chambers are essential for studying mycetozoans.
-Substrata are placed onto an appropriate source of moisture,
-either moistened paper or agar, in Petri dishes or fingerbowls.
-Most species can be identified on the basis of [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]]
-morphology alone, but culturing often confirms identification.
-
-## Ecological Roles
-
-Mycetozoans are [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]] and play important roles in
-regulating bacterial populations in soil and leaf litter
-ecosystems. Their phagotrophic feeding on bacteria and other
-microorganisms positions them as significant components of
-microbial food webs. By consuming bacteria, they influence
-[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] processes in biodiversity-fungi-leaf-litter-decomposition systems.
-
-In biodiversity-fungi-soil-ecosystems
-- biodiversity-fungi-leaf-litter-decomposition
-- [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]]
-## See Also
-- [[decomposition]]
-- [[biodiversity-glomeromycota-diversity]]
-- [[biodiversity-smut-fungi-diversity]]
-- [[biodiversity-fungal-genetic-diversity]]
-- [[biodiversity-fungi-tropical-fungal-diversity]]

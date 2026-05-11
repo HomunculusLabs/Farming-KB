@@ -1,6 +1,6 @@
 # Chamovitz: Gravitropism — How a Plant Knows Where It Is
 
-> From *What a Plant Knows* by Daniel Chamovitz (2012), Chapter 5
+> From *What a Plant Knows* by [[daniel-chamovitz]] (2012), Chapter 5
 
 **Gravitropism** is the growth response of a plant to gravity — the mechanism by which a
 plant determines its orientation in space and directs its organs accordingly. Chapter 5 of
@@ -33,7 +33,7 @@ This displacement is detected by the cell — likely through pressure on the end
 reticulum, plasma membrane, or cytoskeletal elements — and triggers a biochemical cascade
 causing differential growth on opposite sides of the organ. The statolith hypothesis remains
 the leading model, supported by experiments showing that starch-deficient mutants display
-impaired gravitropic responses. Notably, such mutants retain partial sensitivity, suggesting
+impaired [[fungal-tropisms-and-gravitropic-responses]]. Notably, such mutants retain partial sensitivity, suggesting
 that the mass of the amyloplasts rather than the starch itself may be critical.
 
 ## Positive and Negative Gravitropism
@@ -78,7 +78,7 @@ gravistimulation, PIN proteins rapidly relocalize within cells, redirecting auxi
 one side of the organ and creating the asymmetric distribution that drives differential
 growth. Different PIN family members show distinct localization patterns, and their
 coordinated redistribution within minutes of gravistimulation demonstrates the speed and
-precision of the plant's directional sensing system.
+precision of the plant's [[phototropin-blue-light-receptor-plant-directional-sensing]] system.
 
 ## Gravitropism and Phototropism Integration
 
@@ -88,61 +88,3 @@ Phototropic cues typically dominate in shoots when light is available, ensuring 
 toward light even at an angle to gravity. In darkness or diffuse light, gravitropism becomes
 the primary guide. The two systems share overlapping components — both involve auxin
 redistribution via PIN proteins — facilitating their integration. This demonstrates that
-plants are sophisticated information processors weighing multiple environmental inputs.
-
-## Space Biology and Microgravity
-
-Research aboard the International Space Station has provided compelling evidence for gravity
-sensing mechanisms. **Plants grown in microgravity** show disrupted growth — roots fail to
-orient reliably and shoots grow erratically. Without consistent gravitational pull,
-statoliths do not settle and no asymmetric signal is generated. Some plants partially adapt
-over time, suggesting secondary positional cues (touch, moisture gradients, light), but
-growth remains significantly impaired. Space biology has been instrumental in validating the
-statolith hypothesis and revealing how deeply gravity is woven into fundamental development.
-
-## Auxin Herbicides: Exploiting Gravity Response Pathways
-
-The gravitropism pathway has direct agricultural significance through **auxin herbicides**
-such as **2,4-D** and **dicamba**. These synthetic auxin analogs mimic IAA but resist
-metabolic breakdown, persisting at toxic concentrations. They overwhelm auxin signaling,
-causing uncontrolled growth — stems twist, leaves curl, tissue proliferates abnormally, and
-the plant dies. Because broadleaf dicots are more auxin-sensitive than grasses, these
-herbicides selectively kill weeds in cereal crops and lawns. Their effectiveness underscores
-how deeply auxin-mediated pathways, including those central to gravitropism, are essential
-to plant survival.
-
-## Plant Proprioception and Knowing Body Position
-
-Chamovitz draws a provocative parallel between gravitropism and **proprioception** — the
-sense of body position and orientation in animals. While plants lack a nervous system, they
-achieve functionally equivalent awareness through statoliths and auxin redistribution. A
-plant "knows" whether its roots are oriented downward and its stem is upright. This
-positional awareness is continuously monitored and corrected, maintaining architecture even
-when disturbed by wind, herbivory, or terrain. Recent research into mechanosensory ion
-channels and proprioception-like genes in plants further blurs the line between plant and
-animal sensing, suggesting convergent molecular solutions to maintaining body orientation
-across kingdoms.
-
-## Relevance to Cultivation
-
-Understanding gravitropism has practical implications for horticulture and agriculture:
-
-- **Transplanting**: Minimizing root disturbance preserves the root cap and its statocytes,
-  maintaining gravitropic competence during establishment.
-- **Trellising**: Supporting structures guide negative gravitropism, reducing corrective
-  growth energy and redirecting it to fruit production.
-- **Pruning**: Removing apical dominance can temporarily disrupt gravitropic signaling as
-  the plant re-establishes its architectural reference frame.
-- **Pot-bound plants**: Roots encountering barriers redirect growth, and prolonged constraint
-  can desensitize gravitropic responses, causing circling patterns that compromise
-  transplant success.
-- **Grafted plants**: Scion and rootstock orientation must be maintained during grafting
-  to avoid confusing each partner's gravitropic signaling systems.
-## See Also
-
-- tropisms-psilocybe-cubensis-gravitropism — gravitropism in fungal systems
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] — Chamovitz on how plants perceive light
-- [[stomata-transpiration-and-plant-water-regulation]] — plant [[fungal-environmental-sensing-signal-transduction-read]] mechanisms
-- [[daniel-chamovitz]]
-- [[plant-gravitropism-and-spatial-awareness]]
-- [[chamovitz-plant-senses-overview]]

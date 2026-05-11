@@ -87,24 +87,3 @@ Resistance to phylloxera (Daktulosphaira vitifoliae) is particularly significant
 The species also demonstrates moderate resistance to black rot (Guignardia bidwellii) and anthracnose (Elsinoe ampelina). These traits have made it a priority parent in breeding programs targeting disease-resistant wine grapes.
 
 Several important hybrid cultivars derive their disease resistance from V. aestivalis germplasm. The 'Chambourcin' hybrid, widely planted in the eastern United States and France, carries V. aestivalis in its pedigree.
-
-## Cultural and Historical Significance
-
-V. aestivalis has been used by Indigenous peoples of eastern North America for centuries. The fruit was harvested for fresh consumption and dried for winter food storage.
-
-European settlers in the southeastern United States adopted summer grape for wine and juice production in the 18th and 19th centuries. The Norton cultivar, discovered in Virginia around 1820, became one of the most celebrated American wine grapes before Prohibition.
-
-Norton wine won a gold medal at the Vienna World's Fair of 1873, demonstrating that North American grape species could produce wines of international quality. This recognition helped establish the Missouri wine industry.
-
-## See Also
-
-- [[vitis-labrusca]]
-- [[vitis-rotundifolia]]
-- [[campsis-radicans]]
-- [[clematis-vitalba]]
-- [[lonicera-japonica]]
-- [[trachelospermum-jasminoides]]
-- [[jasminum-officinale]]
-- [[wisteria-floribunda]]
-- [[passiflora-caerulea]]
-- [[pinus-sylvestris]]

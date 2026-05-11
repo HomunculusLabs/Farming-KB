@@ -8,13 +8,13 @@ tags:
   - bufonidae
   - europe
   - bufotoxin
-  - wetland-ecology
+  - [[wetland-ecology]]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Reading, C.J. et al. (1991). "The Common Toad." Slough: The Herpetological Conservation Trust.
   - Gasc, J.P. et al. (1997). "Atlas of Amphibians and Reptiles in Europe." Societas Europaea Herpetologica.
-  - Banks, B. et al. (2000). "The effects of agricultural practices on amphibians." In: Amphibians, Reptiles and the British Countryside. JNCC.
+  - Banks, B. et al. (2000). "The effects of [[mycorrhizal-agricultural-practices]] on amphibians." In: Amphibians, Reptiles and the British Countryside. JNCC.
   - IUCN Red List (2009). "Bufo bufo." https://www.iucnredlist.org/species/54588/16942364
 ---
 
@@ -54,7 +54,7 @@ Hind limbs are shorter than those of frogs, reflecting the toad's walking and sh
 
 Males are generally smaller than females and develop dark nuptial pads on the inner fingers during the breeding season. Males also produce a characteristic release call when grasped by other males.
 
-The skin is relatively dry and thick compared to that of frogs, an adaptation for water conservation in terrestrial habitats. Warts on the skin are accumulations of keratin and glandular tissue, not true growths.
+The skin is relatively dry and thick compared to that of frogs, an adaptation for [[water-conservation]] in terrestrial habitats. Warts on the skin are accumulations of keratin and glandular tissue, not true growths.
 
 ## Distribution and Habitat
 
@@ -87,34 +87,3 @@ Females lay 3,000–6,000 eggs in two gelatinous strings that may stretch 3–5 
 Tadpoles develop over 8–12 weeks, reaching metamorphosis at approximately 10–12 mm in length. Newly metamorphosed toadlets are small, dark, and highly active.
 
 Common toads hibernate from October to March, typically in frost-free locations underground, in compost heaps, or among tree roots. They may hibernate communally in large aggregations.
-
-Road mortality during spring migration is a significant threat, as toads travel in large numbers to traditional breeding sites. Volunteer "toad patrols" operate across Europe to assist migrating toads across busy roads.
-
-## Toxicology and Defense
-
-The parotoid glands and skin glands of *Bufo bufo* produce a complex mixture of bufadienolides, biogenic amines, and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. The primary toxic components are bufadienolide cardiac glycosides.
-
-Bufotoxin, the principal bufadienolide, acts by inhibiting Na⁺/K⁺-ATPase, disrupting cardiac function in predators. Exposure can cause nausea, vomiting, cardiac arrhythmias, and in severe cases, death in susceptible animals.
-
-The related compound **bufotenin** (5-hydroxy-N,N-dimethyltryptamine, 5-HO-DMT) is present in the skin secretions in trace amounts. Bufotenin is a tryptamine alkaloid with serotonergic activity.
-
-Common predators such as grass snakes (*Natrix natrix*) have developed behavioral adaptations to handle toad toxins. Snakes may swallow toads head-first to avoid the concentrated parotoid glands.
-
-Hedgehogs and some bird species are resistant to bufotoxins and include common toads in their diet. The toad's primary defense against these predators is immobility and cryptic coloration.
-
-Human poisoning from common toad secretions is rare but has been documented, typically resulting from handling toads and subsequently touching the eyes or mouth. Symptoms include irritation, nausea, and in rare cases, cardiac effects.
-
-Despite their toxicity, common toads have historically been used in traditional medicine across Eurasia. Dried toad preparations (Chansu in Chinese medicine) have been used for centuries as anti-inflammatory and cardiotonic agents.
-
-## See Also
-
-- [[ambystoma-mexicanum]]
-- [[amanita-phalloides]]
-- [[bufotenin]]
-- [[bufotenine]]
-- [[fungal-conservation-endangered-species]]
-- [[fungal-ecosystem-indicator-species]]
-- [[fungal-responses-climate-change]]
-- [[gaias-garden-backyard-wetland]]
-- [[permaculture-polyculture-fish-pond]]
-- [[rana-temporaria]]

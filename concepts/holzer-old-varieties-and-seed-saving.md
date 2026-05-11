@@ -1,10 +1,11 @@
 ---
-title: Holzer holzer old varieties and seed saving and Seed Saving
+title: Holzer Old Varieties And Seed Saving
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -35,7 +36,7 @@ In earlier times, every country and region had their own cereal varieties, veget
 - Not suited to varying local conditions
 - Give good yields but are more susceptible to disease
 - Combined with monoculture, lead to pesticide dependence
-- Much to the satisfaction of seed companies
+- Much to the satisfaction of [[spanish-cannabis-seed-companies]]
 
 ### Genetically Modified Seeds
 
@@ -87,24 +88,3 @@ The numerous habitats and microclimates at the Krameterhof are useful for produc
 - Especially effective for wind-pollinated varieties
 
 ### Distance
-
-- Insect-pollinated varieties should be grown a fair distance from each other
-- Wind-pollinated varieties need greater separation in the downwind direction
-
-### Temporal Isolation
-
-The simplest method: select varieties that flower at different times to completely rule out unwanted pollination.
-
-## Accidental Varieties
-
-Many varieties have arisen by chance cross-pollination on the Krameterhof. From these, Holzer has propagated the best and tastiest, inventing names for several new varieties of potato, salad, and pumpkin.
-
-## See Also
-
-- [[holzer-seed-autonomy-preserving-old-varieties]]
-
-- mollison-seed-resources-and-sovereignty — Mollison on seed resources
-- [[holzer-green-manure-crops]] — [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and [[gaias-garden-cover-crops-soil-building]]
-- [[holzer-green-manure-crop-compendium]]
-- [[holzer-green-manure-and-soil-building-plants]]
-- [[sepp-holzer-water-gardens-and-aquatic-plants]]

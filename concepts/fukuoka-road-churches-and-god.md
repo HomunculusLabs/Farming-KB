@@ -5,6 +5,7 @@ tags: [religion, europe, churches, civilization, philosophy]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka-road-one-straw-revolution-continuation|fukuoka.md"
 type: concept
 ---
@@ -86,19 +87,3 @@ tried to enclose God within religion itself. By building
 grand cathedrals and protecting the dignity of God through
 institutional structures, they have paradoxically distanced
 themselves from the very divinity they seek to serve.
-
-The simple priest at the Padre Church, who told Fukuoka
-that "God is not here," paradoxically understood something
-that the builders of grand cathedrals did not: that God
-cannot be contained within walls, however beautiful. The
-forty monks who settled there, farmed the land, and built
-with their own hands lived closer to the spirit of Christ
-than those who later embellished Christianity with stained
-glass and institutional power.
-
-For Fukuoka, this distinction mirrors the larger pattern he
-observes throughout Western civilization: the replacement
-of living, direct experience of nature and God with
-institutionalized, mediated, and artificial substitutes. The
-church became a monument to human achievement rather than a
-gateway to divine presence.

@@ -1,5 +1,5 @@
 ---
-title: 5 [[2-tom-entity-pihkal]]
+title: 5 Tom Entity
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -57,7 +57,7 @@ The two TOM compounds (2-TOM and 5-TOM) demonstrate the critical importance of s
 
 [[tomso-entity]]
 
-[[2c-t-7-entity]]
+[[2c-t-7]]
 
 ## References
 

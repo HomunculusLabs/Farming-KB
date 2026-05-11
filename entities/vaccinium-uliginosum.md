@@ -87,29 +87,3 @@ The species contributes to peatland ecosystem function by stabilizing sphagnum m
 Bog blueberry serves as an indicator species for intact wetland ecosystems. Its presence generally indicates undisturbed, acidic peatland conditions with low [[ph-and-nutrient-availability-garden-soils]] and minimal human impact.
 
 ## Related Species
-
-*Vaccinium uliginosum* is most closely related to *V. myrtillus* (bilberry) within the section *Myrtillus*. The two species frequently co-occur in boreal and subalpine habitats but are ecologically separated by moisture requirements: bilberry prefers drier, well-drained forest soils while bog blueberry occupies wetter, waterlogged sites.
-
-The species hybridizes naturally with *V. myrtillus*, producing *V. ×intermedium* Rohloff (not to be confused with the *V. angustifolium* × *V. myrtilloides* hybrid that shares the same nothospecific epithet). These hybrids exhibit intermediate morphology and are found in ecotonal zones between bog and forest habitats.
-
-Other related species include *V. cespitosum* (dwarf blueberry) of western North America and *V. scoparium* (grouseberry). These western taxa occupy similar ecological niches in mountainous regions and share the dwarf growth habit and preference for cold climates.
-
-## Ethnobotanical Use
-
-Indigenous peoples across the circumboreal region have harvested bog blueberries for food and medicine. Inuit and Dene communities of northern Canada gather the berries for fresh consumption, drying, and preservation in seal oil.
-
-Scandinavian and Russian communities have traditionally used bog blueberries in jams, preserves, and fermented beverages. In Siberia, the fruit is sometimes mixed with milk or cream as a traditional dessert. The berries are considered superior to bilberry by some harvesters for their larger size and milder flavor.
-
-Traditional medicine applications include the use of leaf infusions as a mild astringent for gastrointestinal complaints. The berries were consumed to prevent scurvy during long Arctic winters, owing to their vitamin C content.
-
-In Mongolia and northern China, bog blueberry is used in traditional medicine as a treatment for eye disorders and digestive ailments. Commercial harvesting for the natural products industry has increased in recent years, with berries collected for anthocyanin extraction and dietary supplement production.
-
-## See Also
-
-- [[vaccinium-angustifolium]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-ovatum]]
-- rubus-idaeus-entity
-- hippophae-rhamnoides
-- rosa-canina
-- [[rubus-fruticosus]]

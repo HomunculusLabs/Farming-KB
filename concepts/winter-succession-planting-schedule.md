@@ -7,12 +7,12 @@ created: 2026-05-10
 
 # Winter Succession Planting Schedule
 
-Succession planting for winter harvest is fundamentally different from spring and
+Succession planting for [[cold-house-winter-harvest-system]] is fundamentally different from spring and
 summer succession [[coleman-succession-planting-winter-harvest]] planting. In spring, conditions are improving — day length is
 increasing, temperatures are rising, and growth accelerates. In fall, conditions
 are deteriorating. Day length is decreasing, temperatures are falling, and plant
 growth progressively slows. Understanding and accounting for this reversal is the
-key to successful winter production. (see [[coleman-greenhouse-summer-crops]]).
+key to successful [[coleman-beet-greens-cold-house-winter-production]]. (see [[coleman-greenhouse-summer-crops]]).
 
 ## The Day Length Factor
 
@@ -52,8 +52,8 @@ transplanted.
 
 ### September: Peak Planting Month
 
-September is the most intensive planting month for winter production. Mid-September
-is the ideal time for sowing overwintered spinach — this crop will become the
+September is the most [[intensive-planting-spacing]] month for winter production. Mid-September
+is the ideal time for sowing [[coleman-overwintered-spinach-cold-house-production]] — this crop will become the
 backbone of the winter harvest, providing four or more cuttings at approximately
 monthly intervals from late November through late March. The September-sown spinach
 is hardy enough to grow outdoors without protection until the greenhouse is moved
@@ -85,42 +85,6 @@ lettuces, and carrots are all harvested. These months typically generate the hig
 winter sales, particularly around the pre-Christmas holiday period.
 
 As crops are harvested, beds are cleared and replanted with crops intended for the
-late winter and early spring harvest. These winter sowings will germinate slowly in
+late winter [[coleman-overwintered-onions-and-early-spring-crops]] harvest. These winter sowings will germinate slowly in
 the cold greenhouse and reach harvestable size in February and March as day length
 increases.
-
-### January-February: The Quiet Period
-
-The period around the winter solstice is the most challenging for cold house
-production. Plant growth is minimal, and most crops are simply being maintained
-rather than actively producing. The strategy is to plan for this gap — heavy
-harvesting through December depletes most crops, and the grower may take a vacation
-of several weeks, leaving only the most cold-tolerant crops (spinach, leeks,
-storage carrots) for occasional harvest.
-
-Beginning in early February, day length increases past ten hours and growth resumes.
-Overwintered spinach begins producing new leaves, and the crops sown in November and
-December begin to reach harvestable size.
-
-### March-May: The Spring Transition
-
-March through May is a period of accelerating production. Overwintered crops
-produce vigorous regrowth, and successions sown in late winter come to harvest.
-Spinach may begin bolting in late March, signaling the transition to warm-season
-crops. By May, the cold houses are fully productive and the transition to summer
-crops begins.
-
-## Crop-Specific Timing Notes
-
-Spinach is the most reliable and productive overwintered crop, with mid-September
-sowing being the optimal date for coastal Maine. Carrots sown in early August
-produce "candy carrots" of exceptional sweetness through the winter. Mache is
-extremely cold-hardy and can be sown as late as early October. Claytonia and
-tatsoi are among the most cold-tolerant greens and reliably survive temperatures
-well below 10°F (-12°C) under the double-layer system.
-
-## See Also
-
-- [[cold-house-winter-harvest-system]]
-- [[mobile-greenhouses]]
-- [[parisian-maraichage-history]]

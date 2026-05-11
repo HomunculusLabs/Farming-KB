@@ -88,24 +88,3 @@ risks include:
 
 - **Misidentification**: Ingestion of toxic mushroom species
   mistaken for Psilocybe mushrooms.
-- **Psychological distress**: Anxiety, paranoia, or panic during
-  intense experiences, particularly in unprepared users or
-  inappropriate settings.
-- **Accidental injury**: Impaired judgment during intoxication.
-
-## Legal Status
-
-Psilocybin and psilocin are Schedule I controlled substances under
-federal law in the United States. Possession, cultivation, and
-distribution of psilocybin-containing mushrooms are illegal. Spore
-prints, which do not contain psychoactive compounds, are legal in
-most states.
-
-## References
-
-- Halpern, J.H. (2004). Pharmacology & Therapeutics, 102, 131-138.
-- Stamets, P. (1996). Psilocybin Mushrooms of the World. Ten Speed
-  Press.
-- Musshoff, F. et al. (2000). Forensic Sci Int, 113, 389-395.
-- Lindenblatt, H. et al. (1998). J Chromatogr B, 709, 255-263.
-- Isbell, H. et al. (1961). Psychopharmacologia, 2, 147-159.

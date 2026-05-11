@@ -88,23 +88,3 @@ These investigations are largely preclinical, and no new clinical trials of lobe
 The compound's complex pharmacology — involving partial agonism at multiple nAChR subtypes, inhibition of dopamine reuptake via VMAT2, and effects on serotonin and norepinephrine transporters — continues to make it a molecule of interest in neuropharmacological research.
 
 ## Toxicity and Safety
-
-The [[blesching-cannabis-therapeutic-window-dosing]] of *Lobelia inflata* is narrow, and the plant has been responsible for numerous cases of poisoning throughout its history of use.
-Symptoms of lobeline poisoning include nausea, profuse vomiting (the plant's most characteristic toxic effect), abdominal pain, diarrhea, diaphoresis, tachycardia, hypotension, tremor, seizures, and in severe cases, respiratory depression, coma, and death.
-The estimated lethal dose of lobeline in adults is approximately 1–2 grams, though individual susceptibility varies considerably.
-
-The plant is contraindicated during pregnancy, lactation, and in individuals with cardiovascular disease, hypertension, seizure disorders, or peptic ulcer disease.
-Lobelia preparations may interact with a wide range of medications, including antihypertensives, CNS depressants, and nicotine replacement products.
-The plant's milky latex can cause contact dermatitis in sensitive individuals.
-
-## See Also
-
-- [[lobelia-cardinalis]]
-
-- [[lobelia-tupa]]
-
-- lobeline
-- nicotinic acetylcholine receptors
-- smoking cessation pharmacology
-- thomsonian medicine
-- indigenous plant medicine north america

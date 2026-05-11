@@ -88,24 +88,3 @@ In rotational grazing systems, chicory provides mid-summer forage when cool-seas
 The flowers attract a wide range of pollinators, including bees, butterflies, and hoverflies. Chicory serves as a nectar source in wildflower meadow mixes and conservation plantings. Its extended flowering period (June–October) provides sustained foraging resources.
 
 ## Notable Cultivars
-
-**Witloof** (Belgian endive): The standard forcing type, producing tight, pale chicons. Developed near Brussels, Belgium, circa 1830. 'Zoom' and 'Flash' are widely grown commercial hybrids with improved uniformity and disease resistance.
-
-**Radicchio types:** Red-leaved Italian cultivars including 'Chioggia' (round head) and 'Treviso' (elongated). These form dense heads through vernalization and are used raw in salads or grilled as a vegetable.
-
-**Forage types:** 'Puna' (New Zealand, released 1985), 'Grasslands Choice', and 'Lacerta' are selected for persistence, disease resistance, and high leaf production under grazing. These varieties tolerate frequent defoliation and maintain productivity for 4–7 years.
-
-**Catalogna and Sugarloaf types:** Italian heirloom varieties grown for their dandelion-like leaves or loose, self-blanching heads. 'Catalogna di Chioggia' produces asparagus-like shoots (puntarelle) prized in Roman cuisine.
-
-## See Also
-
-- [[rumex-acetosa]]
-- [[plantago-major]]
-- [[trifolium-pratense]]
-- [[borago-officinalis]]
-- achillea-millefolium
-- [[valeriana-officinalis]]
-- [[dandelion]]
-- [[nasturtium-officinale]]
-- [[anethum-graveolens]]
-- [[petroselinum-crispum]]

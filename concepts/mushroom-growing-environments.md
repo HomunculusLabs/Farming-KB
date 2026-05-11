@@ -16,7 +16,7 @@ The SGFC is the most common beginner [[gottlieb-psilocybin-cultivation-fruiting-
 clear plastic tote with holes drilled on all six sides (1/4 inch holes
 spaced 2 inches apart in a grid pattern). The bottom is filled with 3
 to 5 inches of moist perlite. Moisture evaporating from the perlite
-maintains humidity, while the holes provide natural passive air exchange
+maintains humidity, while the holes provide natural passive [[growing-gourmet-growing-room-ventilation-air-exchange]]
 driven by convection currents.
 
 The SGFC works best in rooms with moderate ambient humidity (40 to 60
@@ -29,7 +29,7 @@ cause stagnation.
 A monotub is a large plastic storage tote modified with holes near the
 substrate surface (for fresh air intake) and near the top (for CO2
 exhaust). Polyfill or micropore tape covers the holes to filter air
-while allowing gas exchange. Monotubs are popular for bulk grows because
+while allowing [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]. Monotubs are popular for bulk grows because
 they are simple, inexpensive, and can hold large substrate masses.
 
 The monotub is self-contained: the colonizing substrate itself generates
@@ -55,8 +55,8 @@ uneven fruiting between shelves.
 
 ### Modular Fruiting Wall
 
-Commercial operations often use modular fruiting rooms with automated
-climate control. These systems include dedicated humidification,
+Commercial operations often use modular [[cotter-growing-space-design-fruiting-rooms]] with automated
+[[mollison-pdc-trellis-systems-climate-control]]. These systems include dedicated humidification,
 dehumidification, fresh air intake, and exhaust systems all controlled
 by environmental controllers. Walls are lined with food-safe surfaces
 like FRP panels, and floors are epoxy-coated for easy cleaning.
@@ -69,7 +69,7 @@ mini-split air conditioners or water-based cooling systems.
 ### Automated Pod Systems
 
 Small-scale automated fruiting pods integrate humidity, air exchange,
-lighting, and temperature control into a compact unit. These systems
+lighting, [[hamilton-greenhouse-heating-and-temperature-control]] into a compact unit. These systems
 use microcontrollers (Arduino, ESP32) to maintain setpoints
 automatically. Sensors monitor temperature, humidity, and CO2 levels,
 and actuators adjust conditions in real time.
@@ -88,24 +88,3 @@ produce a fine mist that is easily absorbed into the air. Evaporative
 pad humidifiers work but are less precise. The ideal controller uses a
 humidistat to trigger fogging when humidity drops below a setpoint and
 stops when the target is reached. A band between the on and off
-setpoints (hysteresis) prevents rapid cycling.
-
-### Air Exchange
-
-Active air exchange systems use an inline fan to exhaust stale air and
-create negative pressure that draws in fresh air through intake vents.
-This approach is more reliable than passive exchange for larger
-environments. The exchange rate should achieve 4 to 6 air changes per
-hour for most species.
-
-### Temperature Control
-
-Mini-split air conditioners provide the most precise temperature
-control for [[cannabis-indoor-grow-lighting-systems]] spaces. For smaller setups, portable air
-conditioners or aquarium heaters in water baths can work. The key is
-to avoid rapid temperature fluctuations, which stress the [[cotter-substrate-preparation]]
-- [[cotter-substrate-preparation]]
-## See Also
-- [[shotgun-fruiting-chamber]]
-- [[cotter-substrate-preparation]]
-- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]

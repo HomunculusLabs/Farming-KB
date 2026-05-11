@@ -11,7 +11,7 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 Updated: 2026-04-18
 
-Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on Amanita identification, poisoning cases, and antidote discovery.
+Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on [[allegro-the-sacred-mushroom-amanita-identification]], [[palmer-toadstool-poisoning-cases]], and antidote discovery.
 
 ## The Amanita Family — The Only Deadly Mushroom Group
 
@@ -23,7 +23,7 @@ Palmer identified three consistent features that distinguish the Amanita from al
 
 1. **The Volva** — A white wrapper or cup at the base of the stem, often partially or wholly buried in soil. This is the remnant of the universal veil that enclosed the young mushroom. It may appear as a loose sac, a scaly ring around the stem base, or concentric rings of tissue.
 
-2. **The Ring (Annulus)** — A membranous ring or skirt around the stem, typically located about two-thirds up from the base. This is the remnant of the partial veil that protected the gills during development.
+2. **The Ring (Annulus)** — A membranous ring or skirt around the stem, typically located about two-thirds up from the base. This is the remnant of the [[partial-veil-tropism-protection-before-spore-release]] that protected the gills during development.
 
 3. **The Cap (Pileus)** — Scurfy, warty, or friable surface texture. The cap of the deadly Amanita is NOT smooth and shiny like many edible species.
 
@@ -37,7 +37,7 @@ Palmer emphatically rejected the popular distinction between "mushrooms" and "to
 
 "Every mushroom is a toadstool and every toadstool is a mushroom, exactly as every plant is a vegetable and every vegetable growth is a plant."
 
-The only reason one cultivated variety (*Agaricus campestris*) is called a "mushroom" while all others are called "toadstools" is that this single variety has a world-wide reputation and commercial value. There is no reliable folk test to distinguish edible from poisonous species.
+The only reason one cultivated variety (*[[agaricus-campestris]]*) is called a "mushroom" while all others are called "toadstools" is that this single variety has a world-wide reputation and commercial value. There is no reliable folk test to distinguish edible from poisonous species.
 
 ### Worthless Folk Tests
 Palmer debunked all common folk tests for edibility:
@@ -82,44 +82,9 @@ Dr. Ott's frog experiments demonstrated that muscarine stops the heart in diasto
 
 ### Solanaceous Plant Connection
 Palmer recognized that all effective antidotes come from the Solanaceae (nightshade) family:
-- **Atropine** — from *[[belladonna-atropa-belladonna-ethnobotany]]* (deadly nightshade)
-- **Daturine** — from *Datura stramonium* (jimsonweed)
+- **Atropine** — from *[[belladonna-atropa-belladonna-ethnobotany]]* ([[plants-of-the-gods-atropa-belladonna-deadly-nightshade]])
+- **Daturine** — from *[[datura-stramonium]]* (jimsonweed)
 - **Hyoscyamine** — from *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane)
 - **Stramonium** — from *Datura stramonium*
 
 ### The Farris Family Case (Shenandoah, Pennsylvania, 1885)
-Dr. S. E. Shadle's report of five Amanita poisoning cases provided the first documented human use of atropine as an antidote:
-
-**Circumstances**: On Sunday, August 30, 1885, Mr. F. and Thomas R. gathered clusters of "very beautiful toadstools" growing abundantly under trees (chestnut predominating) in nearby woods. Mrs. F. cooked three pints of them in milk with butter, pepper, and salt for the Sunday evening meal. All five persons ate heartily.
-
-**Onset**: Symptoms began towards daybreak — approximately 8-9 hours after ingestion. By the time Dr. Shadle arrived at 10 AM Monday, all five were suffering intensely.
-
-**Treatment**: After initial symptomatic treatment failed to prevent deterioration, Dr. Shadle began subcutaneous injections of sulfate of atropia in doses of 1/60 to 1/50 of a grain, frequently repeated. "The injections invariably were followed by a perceptible improvement in the patient; the heart's action became stronger, the pulse returned at the wrist, and the respiration increased in depth and fulness."
-
-**Outcome**: Three of five patients (60%) recovered. Thomas R. died in 56 hours and Mrs. F. in 63 hours after ingestion. Atropine was administered in all cases — the fatalities likely resulted from the delay before treatment began.
-
-### Dr. Shadle's Lessons
-1. Amanita poisoning is slow in manifesting its effects
-2. It destroys life by a process of asthenia (progressive weakness)
-3. Atropine is an antidote and should be "pushed heroically from the earliest inception of the action of the poison"
-
-### Diagnostic Implication
-The length of time between eating and symptom onset informs the physician whether amanitine is at work and whether atropine must be used, versus a less virulent poison requiring milder remedies.
-
-## Significance
-
-Palmer's work was foundational in establishing:
-- That Amanita is the primary dangerous mushroom genus
-- That three diagnostic marks reliably [[query-how-to-identify-amanita-muscaria]] species
-- That folk tests for edibility are worthless
-- That atropine from the Solanaceae is the specific antidote
-- That prompt aggressive atropine treatment saves lives
-
-## Related
-
-- [[amanita-genus-morphology]]
-- [[amanita-muscaria-chemistry-and-pharmacology]]
-- [[mushroom-poisoning-guide]]
-- [[mushroom-foraging-safety]]
-- [[european-mushroom-poisoning-history]]
-- [[mushroom-toxicology-palmer-theory]]

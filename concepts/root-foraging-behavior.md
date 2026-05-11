@@ -88,24 +88,3 @@ rhizosphere, they attract beneficial microorganisms, and they repel or
 poison competing organisms and pathogens.
 
 The composition of root exudates changes dynamically in response to
-environmental conditions and [[ph-and-nutrient-availability-garden-soils]], demonstrating that roots
-actively engineer their soil environment rather than passively accepting the
-conditions they encounter. This chemical engineering capacity adds another
-dimension to root foraging behavior, complementing the architectural
-responses of root [[gadd-hyphal-tip-growth-and-branching-mechanisms]].
-
-## Architectural Plasticity
-
-Root system architecture exhibits remarkable plasticity in response to
-environmental conditions. The same genotype can produce dramatically different
-root architectures depending on water availability, nutrient distribution,
-soil compaction, and the presence of competitors. This plasticity is
-regulated by hormonal signaling networks that integrate multiple
-environmental inputs and translate them into spatially patterned growth
-decisions.
-
-Key hormones involved in root architectural plasticity include auxin, which
-regulates lateral root formation; ethylene, which modulates root growth in
-response to soil compaction and flooding; cytokinin, which influences the
-balance between root and shoot growth; and abscisic acid, which coordinates
-root growth with water availability.

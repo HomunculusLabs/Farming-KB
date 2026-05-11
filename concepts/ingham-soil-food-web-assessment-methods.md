@@ -3,6 +3,7 @@ title: "Soil Food Web Assessment Methods"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "Elaine Ingham, The Field Guide for Actively Aerated Compost Tea"
 type: concept
 tags: [soil]
@@ -87,38 +88,3 @@ For vermicompost: worm count per unit volume, temperature, and oxygen data. At l
 
 - Bacteria: above 300 micrograms per ml for good leaf surface coverage
 - Fungi: minimum 2 micrograms for reliable [[cervantes-pest-disease-prevention-overview]]
-- Fungi at 800 micrograms: can dilute to 2 gallons per acre
-- Baseline troubleshooting: run tea with just molasses and kelp to test machine performance
-
-## Assessment Strategy
-
-1. Send soil samples to SFI or a qualified lab for comprehensive food web analysis
-2. Test compost before using it for tea production
-3. Test finished tea to verify organism extraction and growth
-4. Take an occasional soil sample to track changes through the season
-5. In spring, do a total and active biological assessment before the growing season
-6. Check the food web before harvest; apply tea to plant residues afterward
-7. Assess soil in spring to determine whether to apply bacterial or fungal tea
-
-## Practical Field Assessment
-
-Smell is a useful field indicator: pleasant earthy smell indicates aerobic conditions. Bad smells (rotten egg, sulfur, ammonia, vinegar, sour milk, vomit) indicate anaerobic conditions and potentially toxic materials. Such compost or tea should not be used.
-
-Tea goes anaerobic between 14-20 hours of brewing. Monitor temperature: use a tank heater in winter, ice in summer. Start with cold water in summer, warm in winter.
-
-## Root-Feeding Nematode Assessment
-
-If root-feeding nematodes are detected, use non-host cover crops (species the nematodes don't feed on) to reduce populations. [[ingham-beneficial-nematodes-soil-food-web]] can drop root-feeder populations from ~100/g to undetectable in 6 months with proper tea applications and non-host crop rotation.
-
-## See Also
-
-- [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]]
-
-- [[ingham-field-guide-soil-food-web-assessment]]
-
-- [[ingham-aact-testing-methods]]
-- [[aact-compost-organism-levels]]
-- [[ingham-nutrient-cycling-soil-food-web]]
-- [[nutrient-movement-through-soil-to-plant-roots]]
-- [[ingham-microscope-identification-soil-biology]]
-- [[ingham-anaerobic-organisms-role-soil]]

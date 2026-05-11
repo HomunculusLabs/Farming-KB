@@ -26,9 +26,9 @@ The species produces the longest leaves of any known plant, with fronds reaching
 
 ## Taxonomy and Morphology
 
-Raphia farinifera was described by (Gaertn.) Hyl. in 1952, with the basionym Palma farinifera published by Gaertner in 1788. The genus Raphia contains approximately 20 species distributed across tropical Africa, Madagascar, and one species in South America.
+Raphia farinifera was described by (Gaertn.) Hyl. in 1952, with the basionym Palma farinifera published by Gaertner in 1788. The genus Raphia contains approximately 20 species distributed across tropical Africa, Madagascar, and one species in [[guzman-psilocybin-mushrooms-south-america]].
 
-The species is closely related to [[raphia-taedigera]], the American species of the genus. The two were long treated as conspecific but are now recognized as distinct based on inflorescence morphology and geographic distribution.
+The species is closely related to [[raphia-taedigera]], the American species of the genus. The two were long treated as conspecific but are now recognized as distinct based on inflorescence morphology and [[geographic-distribution-of-psilocybe-species]].
 
 Raphia farinifera is monocarpic, meaning each stem flowers once and then dies. Individual stems take 5–20 years to reach flowering size, depending on growing conditions.
 
@@ -66,7 +66,7 @@ Pollination is primarily by beetles and other insects attracted to the large, fr
 
 The monocarpic life cycle creates distinctive gap-phase dynamics in palm swamp communities. When a mature stem flowers and dies, the resulting canopy opening allows light to reach the forest floor and triggers mass germination of accumulated seed banks.
 
-In West Africa, raphia swamps serve as natural water filtration systems, removing sediments and nutrients from floodwaters before they reach downstream aquatic ecosystems. This ecosystem service has been recognized in regional wetland conservation planning.
+In West Africa, raphia swamps serve as natural water filtration systems, removing sediments and nutrients from floodwaters before they reach downstream [[dighton-fungal-biomass-production-aquatic-ecosystems]]. This ecosystem service has been recognized in regional wetland conservation planning.
 
 ## Cultivation and Uses
 
@@ -80,31 +80,10 @@ Raffia is widely used in the fashion industry for woven hats, bags, and accessor
 
 The palm sap is tapped and fermented to produce palm wine, an important alcoholic beverage across tropical Africa. A single flowering stem can produce substantial quantities of sap over its 2–4 month flowering period.
 
-The fleshy mesocarp of the fruit is edible when roasted, and is consumed as a famine food in several African countries. The terminal bud (palm heart) is also edible but harvesting it kills the stem.
+The fleshy mesocarp of the fruit is edible when roasted, and is consumed as a famine food in several [[mushroom-industry-african-countries]]. The terminal bud (palm heart) is also edible but harvesting it kills the stem.
 
-Leaf midribs are used as building material, fencing, and thatching in rural communities across Africa. The rigid midrib provides structural support superior to many other thatching materials.
+Leaf midribs are used [[bamboo-as-building-material]], fencing, and thatching in rural communities across Africa. The rigid midrib provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] superior to many other thatching materials.
 
 In traditional African medicine, various parts of the palm are used to treat ailments including coughs, fevers, and skin conditions. The root sap is applied topically as an antiseptic wound treatment.
 
 The large, sculptural leaves make Raphia farinifera a striking ornamental palm for tropical and subtropical gardens. However, its massive size and monocarpic habit limit its use in residential landscapes to very large properties.
-
-## Raffia Fiber Processing
-
-Fiber extraction begins by cutting a mature leaf and separating the leaflets. Each leaflet midrib is split lengthwise, and the epidermal fiber layer is peeled away in long strips.
-
-Freshly extracted fiber is pale yellow to white and extremely supple. It is typically dried in the sun, during which it stiffens slightly and develops its characteristic pale golden color.
-
-The fiber is graded by length, color, and flexibility before sale. Premium grades are used for high-end millinery and fine weaving, while lower grades serve as garden twine, horticultural ties, and packaging material.
-
-Sustainable management of wild raphia stands has become increasingly important as demand for natural fibers grows. In Madagascar, community-based management programs have been established to balance fiber harvesting with palm conservation.
-
-## See Also
-
-- [[raphia-taedigera]]
-- [[borassus-flabellifer]]
-- [[cocos-nucifera]]
-- [[elaeis-guineensis]]
-- [[arenga-pinnata]]
-- [[bactris-gasipaes]]
-- [[nypa-fruticans]]
-- [[metroxylon-sagu]]

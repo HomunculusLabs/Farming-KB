@@ -87,11 +87,3 @@ Adequate ventilation is critical for normal mushroom development:
 - Chlorine gas treatment: After washing with bleach, close the room for 24 hours with fans off. The residual chlorine becomes a disinfecting gas. Ventilate before use
 
 ## Sizing Considerations
-
-When planning growing house capacity:
-- One ton of wet substrate occupies approximately 125 cubic feet
-- Growing rooms should not be filled to more than 1/4-1/8 of total air volume
-
-## See Also
-
-See also: [[natural-building]]

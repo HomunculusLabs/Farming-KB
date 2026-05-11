@@ -40,14 +40,14 @@ fulvic acid-like compounds.
 
 Several fungal species have demonstrated the ability to modify coal
 properties. Of more than 750 strains screened, only six have been shown
-to modify the physicochemical properties of hard coal (Hofrichter, 1998):
+to modify the [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]] of hard coal (Hofrichter, 1998):
 
 - **Coprinus sclerotigenis C-142-1**: Attacks powdered hard coal,
   releasing 2-hydroxybiphenyl, alkylated benzenes, and polycyclic
-  aromatic hydrocarbons during the degradation process
-- **Fusarium oxysporum**: Solubilizes low-rank coal through production
+  [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] during the degradation process
+- **[[fusarium-oxysporum]]**: Solubilizes low-rank coal through production
   of alkaline substances and hydrolytic enzymes
-- **Trichoderma atroviride**: Secretes a partly inducible heat-sensitive
+- **[[trichoderma-atroviride]]**: Secretes a partly inducible heat-sensitive
   agent with hydrolytic properties; produces an unusual esterase for
   cleavage of ester bonds in lignite; generates alkaline substances and
   chelators that assist in dissolution of coal humic materials
@@ -73,7 +73,7 @@ in coal macromolecules:
 - **Clitocybula dusenii**: MnP catalyzes and optimizes depolymerization
   of coal humic substances
 - **Nematoloma frowardii b19**: Depolymerizes low-rank coal-derived
-  humic acids, releasing fulvic acid-like compounds; produces high
+  [[humic-acids-soil-biology-ingham]], releasing fulvic acid-like compounds; produces high
   levels of laccase mRNA in the presence of coal humic substances
 
 ## Coal Desulfurization
@@ -86,45 +86,5 @@ meeting environmental regulations for coal-fired power plants.
 
 ## Environmental Significance
 
-Fungal coal biodegradation has applications in:
+[[fungal-coal-biodegradation-and-bioconversion]] has applications in:
 - **Desulfurization** of high-sulfur coals before combustion
-- **Production of humic substances** from low-rank coal for agricultural
-  use as soil conditioners
-- **Bioremediation** of coal pile runoff and coal-contaminated water
-- **Conversion** of coal waste materials into useful products
-
-## Optimizing Conditions for Coal Bioconversion
-
-Several factors influence the efficiency of fungal coal biodegradation.
-Nitrogen-limited culture conditions enhance the production of ligninolytic
-enzymes by white-rot fungi, promoting greater coal depolymerization.
-Hyperbaric oxygen supplementation has been shown to improve the
-transformation of alkali-soluble coal macromolecules by Phanerochaete
-chrysosporium. Temperature, pH, and the presence of cosubstrates also
-affect solubilization rates, with different fungal species showing
-distinct optimal conditions for coal modification.
-
-Wood-rotting fungi and their oxidases solubilize, polymerize,
-depolymerize, and decolorize macromolecules derived from low-rank coal.
-This versatility means that treatment conditions must be carefully
-controlled to favor depolymerization over polymerization, depending on
-the desired product outcome.
-
-## Limitations and Future Directions
-
-Cell-free enzymes from several species cannot independently promote water
-solubility of low-rank coals, suggesting that live fungal metabolism is
-required for complete coal transformation. The precise role of individual
-ligninolytic enzymes in coal depolymerization remains unclear, and more
-research is needed to optimize conditions for practical applications.
-Scale-up from laboratory to industrial settings presents challenges in
-maintaining fungal activity and [[ligninolytic-enzyme-production-bioremediation]] over extended periods.
-
-## See Also
-
-- [[singh-white-rot-fungi-lignin-modifying-enzymes]]
-- rock-eating-fungi-and-mineral-weathering
-- [[singh-fungal-biodegradation-biodeterioration-materials]]
-- [[fungal-coal-biodegradation]]
-- [[trichoderma-atroviride]]
-- [[ligninolytic-enzymes]]

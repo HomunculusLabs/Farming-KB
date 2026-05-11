@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,48 +88,3 @@ The global permaculture network operates through multiple channels:
   create practitioners who form local networks and guilds
 - **Journals and newsletters:** Permaculture publications share
   research, case studies, and practical techniques
-- **Convergences and gatherings:** Regional and international
-  permaculture convergences facilitate face-to-face knowledge exchange
-- **Demonstration sites:** Established permaculture centers serve as
-  living libraries where practitioners can observe working systems
-  and exchange plants and genetic material
-- **Plant registries:** Organizations maintaining collections of
-  useful plants for distribution to members
-
-Mollison emphasizes that information sharing must flow in multiple
-directions -- not top-down from experts to beginners, but laterally
-between practitioners working in diverse conditions. Every permaculture
-site generates unique knowledge about what works in its specific
-context.
-
-## Ethical Considerations in Plant Information Sharing
-
-Mollison addresses ethical dimensions of plant information exchange:
-
-- **Intellectual property:** Plant genetic resources and traditional
-  knowledge should not be privatized or patented. The permaculture
-  ethic of sharing information freely opposes enclosure of plant
-  genetic commons
-- **Invasive species awareness:** Plant exchange networks must include
-  information about invasive potential to prevent ecological harm from
-  introduced species in new regions
-- **Benefit sharing:** When commercial products are developed from
-  community-sourced plant knowledge, benefits should flow back to
-  the originating communities
-- **Accuracy and verification:** Plant information should be verified
-  through multiple sources before widespread distribution to prevent
-  the spread of misinformation
-
-## [[plant-guild]] Information Exchange
-
-A particularly valuable form of plant information sharing involves
-documenting plant guilds -- associations of species that support each
-other's growth and productivity. Mollison encourages practitioners to:
-
-- Record successful guild combinations observed in their systems
-- Share yield data and performance observations
-- Experiment with novel guild compositions and report results
-- Document pest and disease interactions within guild systems
-
-This collective guild-building knowledge accelerates the development
-of productive, low-maintenance polycultural systems.

@@ -10,7 +10,7 @@ tags:
   - hallucinogenic
   - agaricales
 sources:
-  - Guzmán G, Allen JW, Gartz J. (1998). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research 102(4): 405–410.
+  - Guzmán G, Allen JW, Gartz J. (1998). "A worldwide psilocybe-geographical-distribution-patterns of the neurotropic fungi." Mycological Research 102(4): 405–410.
   - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Gartz J. (1994). "Der Pilz als Droge." Naturwissenschaftliche Rundschau 47(8): 317–320.
   - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The grass-seed-cultivation-of-psilocybe-mushrooms semilanceata." Journal of the Natural History Society 11: 63–65.
@@ -55,9 +55,9 @@ The species epithet *semilanceata* refers to the distinctive lance-shaped (semi-
 
 ## Distribution and Habitat
 
-P. semilanceata has a circumpolar distribution across temperate and subarctic regions of the Northern Hemisphere. It is found throughout Europe (from the Mediterranean to Scandinavia), the Pacific Northwest of North America, and has been reported from parts of South America, New Zealand, and Australia as an introduced species.
+P. semilanceata has a circumpolar distribution across temperate and subarctic regions of the Northern Hemisphere. It is found throughout Europe (from the Mediterranean to Scandinavia), the [[psilocybin-north-america-pacific-northwest]] [[berry-growing]], and has been reported from parts of South America, New Zealand, and Australia as an introduced species.
 
-The species is strongly associated with grassland ecosystems. It fruits in pastures, meadows, lawns, parkland, and along paths in upland areas. Unlike many psilocybin mushrooms, it does NOT grow directly on dung — it is a saprotroph on decaying grass roots and accumulated organic matter in soil.
+The species is strongly associated with [[biodiversity-fungi-grassland-ecosystems]]. It fruits in pastures, meadows, lawns, parkland, and along paths in upland areas. Unlike many psilocybin mushrooms, it does NOT grow directly on dung — it is a saprotroph on decaying grass roots and accumulated organic matter in soil.
 
 Optimal habitat includes nutrient-poor to moderately fertile grasslands with acidic to neutral soils. It is particularly abundant in sheep pastures and upland moorland. Fruiting occurs from late summer through early winter, with peak season in September–November in the Northern Hemisphere.
 
@@ -79,38 +79,12 @@ P. semilanceata is among the most potent psilocybin-containing mushrooms, with c
 
 ## Pharmacology
 
-Psilocybin is a serotonergic psychedelic acting primarily as a partial agonist at the 5-HT2A receptor. It also binds to 5-HT2C, 5-HT1A, and other serotonin receptor subtypes with lower affinity.
+Psilocybin is a serotonergic psychedelic acting primarily as a partial agonist at the 5-HT2A receptor. It also binds to 5-HT2C, 5-HT1A, and other [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes with lower affinity.
 
 The [[leary-psychedelic-experience-bardo-mapping]] from P. semilanceata is characterized by altered perception, synesthesia, enhanced introspection, and mystical-type experiences. Effects typically begin 20–60 minutes after ingestion and last 4–6 hours.
 
-**Clinical research:** Psilocybin has demonstrated efficacy in clinical trials for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and alcohol dependence. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
+**Clinical research:** Psilocybin has demonstrated efficacy in clinical trials for treatment-resistant depression, end-of-life anxiety, nicotine addiction, and [[cannabis-for-alcohol-dependence]]. The psilocybin from P. semilanceata is chemically identical to that used in clinical formulations.
 
 **Toxicity:** The species has very low physiological toxicity. LD50 of psilocybin in mice is 280 mg/kg (oral). There are no confirmed human deaths from psilocybin mushroom toxicity alone.
 
 ## Cultivation
-
-Cultivation of P. semilanceata is notoriously difficult, which contributes to its status as primarily a wild-harvested species. Unlike P. cubensis, it does not readily colonize standard grain or sawdust substrates indoors.
-
-The species has a obligate or near-obligate relationship with grassland ecosystems and appears to require root-associated microorganisms or specific soil conditions for successful fruiting. Early attempts at indoor cultivation (Weeks et al., 1979) produced primordia but rarely mature fruiting bodies.
-
-**Outdoor cultivation:** The most promising approach involves inoculating enriched grassland areas with spore slurry or mycelial spawn. Creating a suitable substrate of mixed grass roots, soil, and organic matter in outdoor beds may support colonization. However, reliable fruiting from inoculated beds remains inconsistent.
-
-**Mycelial characteristics:** Mycelium grows slowly on standard agar media (MEA, PDA) at 18–22°C. It is relatively thin and wispy compared to other Psilocybe species, with a cottony to appressed morphology. Optimal growth temperature is lower than P. cubensis, reflecting its adaptation to cool temperate climates.
-
-## Legal Status
-
-P. semilanceata and its active alkaloids are controlled substances in most jurisdictions worldwide. Psilocybin and psilocin are listed under Schedule I of the UN Convention on Psychotropic Substances (1971).
-
-**United States:** Psilocybin and psilocin are Schedule I under the Controlled Substances Act. However, several jurisdictions have decriminalized or deprioritized enforcement, including Oregon, Colorado, and numerous municipalities.
-
-**Europe:** Controlled in most EU member states. The Netherlands uniquely permits sale of fresh psilocybin mushrooms (though dried are prohibited).
-
-**Global trends:** Several countries and regions are moving toward decriminalization or regulated medical access as clinical evidence for psilocybin therapy accumulates. In 2023, Australia became the first country to approve psilocybin as a prescribed medicine for treatment-resistant depression.
-
-## See Also
-
-- [[psilocybe-azurescens]]
-- [[norbaeocystin]]
-- [[pluteus-cyanopus]]
-- [[gymnopilus-earlei]]
-- [[lsd-entity-tihkal]]

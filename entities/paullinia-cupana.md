@@ -88,14 +88,5 @@ that of coffee beans, making it the most potent natural caffeine source.
 
 ### Comparison to Other Caffeine Sources
 
-| Source | Caffeine (% dry weight) | Character |
-|--------|------------------------|-----------|
-| Guaraná seed | 2.5–7.0 | Sustained release, tannin-modulated |
-| Coffee bean | 1.0–2.0 | Rapid onset, shorter duration |
-| Tea leaf | 1.5–4.0 | Moderate, [[hypericum-perforatum]]
-- [[hypericum-perforatum]]
-
-See also: [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
-
 ## See Also
-- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
+- [[neurotropic-fungi-colombia-species-diversity-and-ecology]]

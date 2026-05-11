@@ -4,6 +4,7 @@ tags: [pest-management, compost-tea, foliar, insects, ingham, biological-control
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
 type: concept
 created: 2026-04-28
@@ -86,35 +87,3 @@ For more direct insect control, Ingham suggests that parasitic fungi like *[[bea
 AACT typically contains certain fungi that are parasitic on insect larvae, especially beetle larvae that consume roots. *Beauveria* species may be available as commercial inoculum and can be added to AACT to be active and ready to parasitize root grubs and wireworms on contact. This is a direct [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] mechanism rather than an indirect plant-health effect.
 
 ### Bulb Mites
-
-Many insects that are assumed to eat plants actually feed on fungi. When their fungal food source is depleted, they switch to attacking seedlings and roots. When plants get bigger, this is not a problem, but at germination it can be devastating. Restoring healthy fungal communities through AACT may provide alternative food sources for these insects, reducing pressure on vulnerable crop plants.
-
-This insight challenges the assumption that all crop-feeding insects are primarily herbivorous. Many may be fungivores that turn to herbivory only when their preferred fungal food is unavailable. Understanding this dietary flexibility opens new strategies for pest management that focus on restoring fungal communities rather than targeting the insects directly.
-
-## Mites and Biocontrol Relationships
-
-Ingham emphasizes that just as people can be taken out by bacteria, mites can too. Many biocontrol relationships involve parasitic fungi and diseases of mites caused by their specific pathogens.
-
-Critically, she recommends using local, indigenous parasites and diseases of mites rather than introduced biocontrol agents. Local organisms are adapted to local environmental conditions and are more likely to establish and persist. Introduced biocontrol agents may establish temporarily but often fail to maintain populations through seasonal fluctuations.
-
-SFI works in field situations with real-world agriculture and horticulture. Ingham notes that ten-foot by ten-foot "research" plots are typically not meaningful for assessing biological control of insect pests — field-scale trials are required. Small plot research cannot capture the movement patterns of mobile insects, the spatial dynamics of predator-prey relationships, or the landscape-level effects of habitat management.
-
-## AACT Is Not a Pesticide
-
-Throughout her discussion of insect pest deterrence, Ingham consistently reinforces the principle that AACT is not a pesticide. The mechanisms described — competition, altered plant chemistry, restored plant health — are biological processes, not toxic chemical interactions.
-
-The EPA has stated that cat-and-mouse interactions are "mechanical control methods." Compost tea falls in the same category: it enhances natural biological processes that suppress pests through competition and system health rather than through toxicity.
-
-This distinction has regulatory significance. If AACT were classified as a pesticide, it would require extensive registration, testing, and labeling that would make it impractical for small-scale growers. By operating through biological competition and plant health enhancement rather than toxic action, compost tea remains outside pesticide regulatory frameworks.
-
-## The Importance of the Whole Foodweb
-
-The foliar pest deterrence effects of AACT cannot be reduced to a single mechanism or organism group. It is likely that all four mechanisms operate simultaneously. This underscores Ingham's broader principle that the whole foodweb is needed for reliable results.
-
-Bacteria alone cannot provide the full spectrum of benefits. AACT with the complete set of organisms (bacteria, fungi, protozoa, and nematodes) consistently outperforms bacterial-only teas across all documented applications. The pest deterrence effect, like the [[aact-disease-suppression-mechanisms-ingham]] effect and the [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] effect, depends on the interactions between trophic levels that only a complete foodweb can provide.
-
-## See Also
-
-- [[ingham-pest-management-aact]]
-- [[ingham-leaf-surface-biology-exudates]]
-- [[beneficial-insects-guide]]

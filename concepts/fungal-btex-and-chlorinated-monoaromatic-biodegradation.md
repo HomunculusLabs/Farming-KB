@@ -1,5 +1,5 @@
 ---
-title: [[fungal-btex-biodegradation]] and fungal btex and chlorinated monoaromatic biodegradation Biodegradation
+title: Fungal Btex And Chlorinated Monoaromatic Biodegradation
 created: 2026-04-19
 updated: 2026-04-20
 type: concept
@@ -10,7 +10,7 @@ sources: []
 
 Fungi degrade monoaromatic compounds including BTEX (benzene, toluene,
 ethylbenzene, and m-, o-, p-xylenes) and chlorinated monoaromatics through both
-intracellular and extracellular enzyme systems. Understanding these pathways is
+intracellular and [[dighton-fungal-extracellular-enzyme-systems-decomposition]]. Understanding these pathways is
 critical for bioremediation of contaminated groundwater and soil, as these
 compounds are among the most prevalent environmental pollutants worldwide.
 
@@ -39,7 +39,7 @@ systems.
 ## Fungal Transformation Pathways
 
 ### Ligninolytic Enzyme Systems
-White-rot fungi employ extracellular ligninolytic enzymes for nonspecific
+White-rot fungi employ extracellular [[ligninolytic-enzymes]] for nonspecific
 oxidation of aromatic compounds. These systems generate highly reactive radicals
 that attack aromatic rings without requiring prior modification. The broad
 substrate specificity of ligninolytic systems is a major advantage for treating
@@ -73,58 +73,17 @@ NMR metabolic profiles revealed phthalate formation as end products of ortho-
 and meta-xylenes, illustrating the complexity of fungal aromatic metabolism.
 
 ### White-Rot Fungi
-Phanerochaete chrysosporium, Pleurotus ostreatus, and Coriolus versicolor
+[[phanerochaete-chrysosporium]], [[cancer-medicinal-mushrooms-pleurotus-ostreatus]], and [[coriolus-versicolor]]
 demonstrated ability to degrade oil in contaminated soil. Total petroleum
 hydrocarbons were reduced considerably after four months under nitrogen-rich
 conditions. P. chrysosporium degraded all BTEX components both individually and
 in composite mixture, demonstrating the versatility of ligninolytic systems.
 
 ### Additional Notable Organisms
-Cunninghamella elegans is extensively studied for aromatic ring hydroxylation.
+[[staycare-cunninghamella-elegans-in-bioremediation]] is extensively studied for aromatic ring hydroxylation.
 Exophiala jeanselmei degrades toluene, Cladosporium sphaerospermum degrades
 toluene and ethylbenzene, and Trichosporon veenhuisii assimilates aromatic
 compounds. Various Bjerkandera, Trametes, and Pleurotus species degrade
 chlorinated phenols and related compounds.
 
 ## Non-Ligninolytic Degradation
-
-P. chrysosporium degrades BTEX under non-ligninolytic conditions where
-extracellular peroxidases are not produced. This confirms that cytochrome P450
-or other intracellular enzyme systems drive BTEX degradation in this species.
-Compared to natural soil microflora, pure fungal cultures reduced hydrocarbon
-residues by twenty-six to thirty-five percent in ninety days.
-
-## Fungal Advantages in Hydrocarbon Degradation
-
-Filamentous fungi do not exhibit preferential degradation for particular chain
-lengths, unlike bacteria. Hyphal structures allow better penetration of
-hydrocarbon-impregnated soil aggregates. Many fungal species are xero- and
-osmotolerant, enabling function in low-moisture environments where bacterial
-activity is limited. Mycelial networks provide significant advantages in
-accessing sorbed contaminants within soil matrices inaccessible to individual
-bacterial cells.
-
-## Biosensor Applications
-
-Laccase-based biosensors from Trametes versicolor and other white-rot fungi
-offer sensitive detection of phenolic compounds at micromolar concentrations.
-These biosensors provide real-time monitoring for contaminated site assessment
-and treatment process control, complementing traditional analytical chemistry
-methods with rapid, field-deployable detection capability.
-
-## Practical Considerations
-
-Fungal mycelial networks provide advantages in accessing sorbed contaminants.
-BTEX degradation typically requires co-metabolism with other carbon sources.
-The broad substrate specificity of ligninolytic systems suits mixed-contaminant
-sites. Bioavailability limits degradation in aged contaminated soils. Fungi
-tolerate lower pH conditions than bacteria, expanding the treatment range for
-acidic contaminated sites.
-
-## See Also
-
-- [[singh-petroleum-hydrocarbon-fungal-remediation-technologies]]
-- [[enzymatic-degradation-in-mycoremediation]]
-- [[query-how-does-lignin-degradation-by-fungi-work]]
-- [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- [[mycoremediation]]

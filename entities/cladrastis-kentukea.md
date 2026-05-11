@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Isely, D. (1990). "Vascular Flora of the Southeastern United States, Vol. 3, Leguminosae." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern, Vol. 3, Leguminosae." University of north-carolina-mycodiversity Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - USDA NRCS (2023). Plant Profile: Cladrastis kentukea. https://plants.usda.gov/home/plantProfile?symbol=CLKE2
@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Cladrastis kentukea** (Dum.-Cours.) Rudd, commonly known as Kentucky yellowwood, is a medium-sized deciduous tree in the legume family (Fabaceae) native to the interior southeastern United States. It is the only member of its genus native to North America.
+**Cladrastis kentukea** (Dum.-Cours.) Rudd, commonly known as Kentucky yellowwood, is a medium-sized deciduous tree in the legume family (Fabaceae) native to the interior southeastern United States. It is the only member of its genus native to [[guzman-psilocybin-mushrooms-north-america]].
 
 Kentucky yellowwood is celebrated for its pendulous clusters of fragrant white flowers, which appear in alternate years or at irregular intervals. Mature specimens typically reach 9–15 meters in height with a broad, rounded crown.
 
@@ -43,7 +43,7 @@ New foliage in spring is silvery-pink and downy, creating a striking display bef
 
 **Flowers** are produced in pendulous panicles 20–30 cm long, bearing numerous fragrant white pea-like blossoms. Flowering occurs in late spring (May–June), often in alternate years or at multi-year intervals.
 
-The fragrant flowers attract numerous pollinators including bees, butterflies, and hummingbirds. Heavy bloom years produce a dramatic floral display that is among the most striking of any native North American tree.
+The fragrant flowers attract numerous pollinators including bees, butterflies, and hummingbirds. Heavy bloom years produce a dramatic floral display that is among the most striking of any native [[growing-gourmet-north-american-reishi-species]] tree.
 
 **Fruit** is a thin-walled legume pod, 5–8 cm long, containing 2–6 flattened seeds. Pods mature in autumn and may persist into winter.
 
@@ -59,23 +59,23 @@ Kentucky yellowwood is shade-intolerant as a seedling but develops moderate shad
 
 The species is considered rare throughout much of its range and is listed as threatened or endangered in several states, including Indiana and Illinois. Habitat loss and forest fragmentation are the primary conservation concerns.
 
-Several botanical gardens and arboreta maintain living collections of Kentucky yellowwood. Conservation seed banks have also preserved germplasm from genetically distinct populations across the species' range.
+Several botanical gardens and arboreta maintain living collections of Kentucky yellowwood. Conservation [[cannabis-seed-banks-and-genetics]] have also preserved germplasm from genetically distinct populations across the species' range.
 
 ## Ecology and Uses
 
-Kentucky yellowwood is capable of nitrogen fixation through symbiotic root-nodule bacteria (rhizobia), improving soil fertility in the surrounding area. This capacity enhances its ecological role in nutrient-poor limestone habitats.
+Kentucky yellowwood is capable of [[biological-nitrogen-fixation-agriculture]] through symbiotic root-nodule bacteria (rhizobia), improving soil fertility in the surrounding area. This capacity enhances its ecological role in nutrient-poor limestone habitats.
 
-The fragrant flowers are an important nectar source for native bees and other pollinators. The seeds are consumed by small mammals and birds, though seed predation rates can be high.
+The fragrant flowers are an important nectar source for [[query-how-to-attract-native-bees-and-beneficial-insects]] other pollinators. The seeds are consumed by small mammals and birds, though seed predation rates can be high.
 
 The heartwood is bright yellow, lending the species its common name. Historically, the wood was used by pioneers for gunstocks, tool handles, and as a source of yellow dye.
 
 The wood is hard, close-grained, and moderately heavy, with specific gravity around 0.60. It works well and takes a fine finish, but the small size of commercially available timber limits widespread use.
 
-In Native American ethnobotany, the Cherokee used the roots for dye and the wood for various implements. The yellow dye extracted from the heartwood was used to color textiles and baskets.
+In Native [[tree-daturas-brugmansia-south-american-ethnobotany]], the Cherokee used the roots for dye and the wood for various implements. The yellow dye extracted from the heartwood was used to color textiles and baskets.
 
-The dye was prepared by boiling heartwood chips, producing a range of yellow to yellow-green hues depending on the mordant used. This practice has been revived by some contemporary natural dye practitioners.
+The dye was prepared by boiling heartwood chips, producing a range of yellow to yellow-green hues depending on the mordant used. This practice has been revived by some contemporary [[natural-dye-plants]] practitioners.
 
-The nitrogen-fixing capability makes Kentucky yellowwood a valuable species for agroforestry and ecological restoration projects on marginal or degraded sites. Its deep taproot also contributes to soil stabilization on steep slopes.
+The nitrogen-fixing capability makes Kentucky yellowwood a valuable species for agroforestry and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects on marginal or degraded sites. Its deep taproot also contributes to soil stabilization on steep slopes.
 
 ## Cultivation
 
@@ -83,38 +83,8 @@ Kentucky yellowwood is an outstanding ornamental tree for parks, large gardens, 
 
 The species is hardy in USDA zones 4–8. It performs best in full sun on deep, well-drained, slightly acidic to neutral soils. It is somewhat adaptable to clay but struggles in poorly drained sites.
 
-Growth rate is moderate, typically 30–45 cm per year. The species is relatively free of serious pests, though borers and scale can occasionally affect stressed trees.
+[[soil-temperature-plant-growth-rate-doubling-rule]] is moderate, typically 30–45 cm per year. The species is relatively free of serious pests, though borers and scale can occasionally affect stressed trees.
 
 Propagation is from seed, which benefits from acid scarification followed by cold stratification. Softwood cuttings under intermittent mist are also effective but can be difficult to root.
 
 Seed viability can be maintained for several years under cool, dry storage. Germination rates improve significantly with mechanical scarification of the hard seed coat.
-
-Young trees have a tendency to develop weak, narrow branch crotches. Structural pruning during the first 10–15 years is important to develop strong scaffold branching and prevent splitting.
-
-The species is notably free of serious disease problems. Root rot can develop on poorly drained sites, emphasizing the importance of proper site selection and soil preparation.
-
-The irregular flowering habit — often blooming only every other year or at longer intervals — can disappoint gardeners expecting annual floral displays. However, heavy bloom years more than compensate for the off years.
-
-Kentucky yellowwood is an excellent choice for native plant gardens and is increasingly available from specialty nurseries. It is best planted as a specimen tree where its architectural form can be appreciated.
-
-The genus *Cladrastis* contains approximately eight species distributed across eastern Asia and eastern North America. The disjunct distribution pattern reflects ancient boreotropical flora connections.
-
-## Related Species
-
-Chinese yellowwood (*C. sinensis*) is the Asian counterpart, native to central and western China. It is similar in habit but produces slightly smaller flower panicles.
-
-The American yellowwood (*C. kentukea*) and its Asian congeners form a classic eastern Asian-eastern North American disjunct distribution pattern, also seen in genera such as *Liriodendron*, *Gymnocladus*, and *Maclura*.
-
-Kentucky yellowwood has no close North American relatives within its genus. The nearest native leguminous trees with similar ornamental characteristics are black locust (*Robinia pseudoacacia*) and Kentucky coffeetree (*Gymnocladus dioicus*).
-
-## See Also
-
-- [[gleditsia-triacanthos]]
-- [[gymnocladus-dioicus]]
-- [[robinia-pseudoacacia]]
-- [[cercis-canadensis]]
-- [[fagus-grandifolia]]
-- [[quercus-alba]]
-- [[liriodendron-tulipifera]]
-- [[prunus-serotina]]
-- [[maclura-pomifera]]

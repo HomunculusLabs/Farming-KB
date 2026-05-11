@@ -19,8 +19,8 @@ type: concept
 
 The concept of evolutionary ghosts offers a powerful lens for
 understanding biological traits that seem to serve no current
-purpose. Nicholas Money introduces this idea in the context of
-mushroom toxins, using the Osage orange (Maclura pomifera) as a
+purpose. [[nicholas-money]] introduces this idea in the context of
+[[mushroom-toxins-and-poisoning]], using the Osage orange ([[maclura-pomifera]]) as a
 compelling example of an organism shaped by a relationship that
 no longer exists.
 
@@ -69,7 +69,7 @@ strategies evolved for completely different ecological contexts.
 ## The Ghost Hypothesis in Broader Biology
 
 The ghost of evolution concept extends well beyond the Osage
-orange. The Kentucky coffee tree, the honey locust, and the
+orange. The Kentucky coffee tree, the [[comparison-black-locust-vs-honey-locust]], and the
 avocado are all thought to be evolutionary anachronisms whose
 fruits were adapted for dispersal by extinct megafauna. Connie
 Barlow explored this theme extensively in her book "The Ghosts
@@ -88,54 +88,3 @@ they are not sufficiently costly to be eliminated by natural
 selection.
 
 ## The Antagonistic Coevolution Alternative
-
-Not all seemingly purposeless traits are ghosts of extinct
-partnerships. Some mushroom toxins may reflect an active
-antagonistic coevolution between fungi and their predators. Insect
-larvae that hatch within the flesh of poisonous Amanita species
-are highly vulnerable to amatoxins because their rapid cell
-division makes them sensitive to compounds that block gene
-expression. Fungi and insects have interacted for over 400
-million years, providing ample time for the evolution of
-sophisticated chemical defense and counter-defense mechanisms.
-
-Phallotoxins, a second class of harmful peptides found in
-Amanita species, reinforce this interpretation. While
-phallotoxins cannot be absorbed from the mammalian gut and thus
-cannot cause human death, they bind to structural proteins inside
-cells and inhibit growth. This suggests they may serve as an
-additional weapon against insect larvae feeding within the
-fruiting body. The coexistence of multiple toxin classes in the
-same mushroom points to a multi-layered chemical defense system
-rather than a random accumulation of metabolic waste.
-
-## Why This Framework Matters
-
-The ghost of evolution framework matters for mycology because it
-disciplines our tendency toward anthropocentric interpretation.
-When humans encounter a mushroom toxin, the instinct is to ask
-what it does to us. The more productive question is what it does
-for the fungus within its ecological context. This shift in
-perspective is essential for understanding [[biodiversity-fungal-secondary-metabolites]]
-metabolites, which represent an enormous and largely unexplored
-chemical diversity.
-
-The framework also illuminates the broader relationship between
-fungi and the organisms around them. Fungi have been shaping and
-being shaped by their ecological partners for hundreds of millions
-of years, far longer than humans have existed. The traits we
-observe today, whether we find them beautiful, repulsive, or
-deadly, are the accumulated products of these ancient
-interactions. Understanding them requires looking past our own
-experience to the deeper evolutionary currents that produced them.
-
-## See also
-
-- bloomfield-mushroom-poisons-and-toxidromes
-- [[bloomfield-fungal-parasites-of-insects]]
-- [[bloomfield-amatoxin-poisoning-mechanism]]
-## See Also
-- [[maclura-pomifera]]
-- [[nicholas-money]]
-- [[bloomfield-truffle-evolution-cup-fungi-hypogeous]]
-- [[bloomfield-chytrid-fungi-early-fungal-evolution]]

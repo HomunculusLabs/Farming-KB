@@ -12,9 +12,9 @@ updated: 2026-05-09
 sources:
   - Jermy, A.C. & Tutin, T.G. (1968). "Carex L." in Flora Europaea, Vol. 5. Cambridge University Press.
   - Ackerfield, J. (2015). Flora of Colorado. BRIT Press.
-  - Reznicek, A.A. (2002). "Carex in North America." in Flora of North America, Vol. 23. Oxford University Press.
+  - Reznicek, A.A. (2002). "Carex in [[guzman-psilocybin-mushrooms-north-america]]." in Flora [[berry-growing]], Vol. 23. Oxford University Press.
   - Stace, C.A. (2019). New Flora of the British Isles, 4th ed. C&M Floristics.
-  - Global Biodiversity Information Facility (GBIF). "Carex sylvatica Huds." https://www.gbif.org/species/2724028
+  - [[psilocybe-genus-global-biodiversity]] Information Facility (GBIF). "Carex sylvatica Huds." https://www.gbif.org/species/2724028
 ---
 
 ## Overview
@@ -69,7 +69,7 @@ Several moth larvae feed on Carex sylvatica, including the endangered marsh dagg
 
 The species contributes to soil stabilization on forest slopes and stream banks. Its rhizomatous growth helps bind loose soil in riparian zones.
 
-It plays a modest role in nutrient cycling, drawing nutrients from deeper soil layers and returning them through leaf litter decomposition.
+It plays a modest role [[comparison-soil-protozoa-vs-nematodes-in-nutrient-cycling]], drawing nutrients from deeper soil layers and returning them through leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
 
 Carex sylvatica is sensitive to changes in canopy cover. Heavy thinning or clear-cutting can cause local population declines as increased light favors more competitive, light-demanding species.
 
@@ -79,7 +79,7 @@ In Britain, the species is used as a woodland ancient-plant indicator. Its prese
 
 Carex sylvatica is available from specialty nurseries as a shade garden plant. It is propagated by seed sown in autumn or by division of established clumps in spring.
 
-It prefers partial to full shade with consistent moisture. Drought tolerance is low compared to many other Carex species.
+It prefers partial to full shade with consistent moisture. [[dighton-fungal-drought-tolerance-plant-water-relations]] is low compared to many other Carex species.
 
 The species is hardy to USDA Zone 5 and tolerates cold winters without protection. It performs best in regions with cool, moist summers.
 
@@ -88,26 +88,3 @@ No significant pest or disease problems affect cultivated plants. Root rot can o
 Garden uses include naturalistic woodland plantings, shade borders, and ground cover beneath deciduous trees. It combines well with ferns, hostas, and other shade perennials.
 
 Maintenance requirements are minimal once established. Cutting back old foliage in late winter before new growth emerges keeps plantings tidy.
-
-## Ethnobotanical and Traditional Uses
-
-Carex sylvatica has limited recorded ethnobotanical use compared to other Carex species. Traditional uses are poorly documented in the ethnographic literature.
-
-Historically, some Carex species were used for thatching, basket weaving, and mattress stuffing. It is likely that C. sylvatica was used similarly where locally abundant.
-
-The leaves contain silica, which historically made some Carex species useful for polishing wood and metal. There are no records of medicinal applications for this species.
-
-Modern uses are primarily ornamental. Its value as a native woodland restoration species is increasingly recognized in European ecological landscaping.
-
-## See Also
-
-- [[carex-pensylvanica]]
-- [[carex-laxiflora]]
-- [[deschampsia-caespitosa]]
-- [[festuca-ovina]]
-- [[juncus-effusus]]
-- [[molinia-caerulea]]
-- [[bromus-inermis]]
-- [[schoenoplectus-lacustris]]
-- [[typha-latifolia]]
-- [[elymus-canadensis]]

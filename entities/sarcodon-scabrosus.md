@@ -88,22 +88,3 @@ Despite being inedible, *Sarcodon scabrosus* has been investigated for [[query-w
 - **Polyphenols and tannins**: Contributing to the extreme bitterness and astringency
 
 The intense and persistent bitter taste is the primary reason this species is considered inedible. Boiling does not sufficiently remove the bitterness, unlike some related species (*S. imbricatus* sensu stricto) that have historically been used as seasoning mushrooms in Scandinavia after extensive parboiling.
-
-## Toxicity
-
-While not considered dangerously poisonous, *S. scabrosus* can cause:
-
-- Severe gastrointestinal distress (nausea, vomiting, abdominal cramps) if consumed in quantity due to bitter principles and irritant compounds
-- Prolonged bitter aftertaste lasting hours after even small tastings
-- There are no confirmed fatalities, but consumption is strongly discouraged
-
-## Similar Species
-
-| Species | Distinguishing Features |
-|---------|------------------------|
-| [[hydnellum-peckii]] | "Bleeding tooth fungus" — exudes red fluid droplets; teeth are on the underside of a more irregular cap |
-| *Bankera fuligineoalba* | Smaller, paler species in the same family; very rare |
-| [[sarcodon-imbricatus]] — Related hedgehog mushroom with slightly less bitter flesh
-- [[hydnum-repandum]] — Edible hedgehog mushroom, the most commonly foraged tooth fungus
-- [[soil-food-web-nutrient-cycling]] — Forest floor [[gadd-fungal-ecology-endophytes]] and decomposition cycles
-- [[boletus-edulis-entity]] — Fellow ectomycorrhizal associate of coniferous forests

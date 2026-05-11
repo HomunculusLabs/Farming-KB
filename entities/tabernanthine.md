@@ -13,19 +13,19 @@ updated: 2026-04-28
 sources:
   - Taylor, W.I. (1957). "The alkaloids of plants-of-the-gods-tabernanthe-iboga-chemistry. Part III. The isolation of tabernanthine, ibogamine, ibogaïne, and voacangine." Journal of the Chemical Society, 1957, 1624-1632.
   - Popik, P. & Glick, S.D. (1996). "Ibogaine and its analogs as anti-addictive agents." In Luisada, P.V. (ed.), The Ibogaine Story. ISBN 0-9656874-0-4.
-  - Glick, S.D. et al. (2001). "Ibogaine: Anti-addictive effects and therapeutic potential." CNS Drug Reviews, 7(2), 153-162.
+  - Glick, S.D. et al. (2001). "Ibogaine: Anti-addictive effects and [[metzner-ayahuasca-therapeutic-potential]]." CNS Drug Reviews, 7(2), 153-162.
   - Alper, K.R. et al. (2001). "Ibogaine: A review." The Alkaloids: Chemistry and Biology, 56, 1-38.
 ---
 
 ## Overview
 
-**Tabernanthine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of *Tabernanthe iboga* (Apocynaceae) and related species including *Voacanga africana* and *Tabernaemontana* spp. It is a close structural relative of **ibogaine** and **ibogamine**, belonging to the iboga class of monoterpene indole alkaloids.
+**Tabernanthine** is an [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] found in the root bark of *Tabernanthe iboga* (Apocynaceae) and related species including *[[voacanga-africana]]* and *Tabernaemontana* spp. It is a close structural relative of **ibogaine** and **ibogamine**, belonging to the iboga class of monoterpene indole alkaloids.
 
 The compound was first isolated from *T. iboga* root bark by Raymond-Hamet in 1939 and subsequently characterized by Taylor and colleagues in 1957. While less studied than ibogaine, tabernanthine shares the characteristic iboga skeleton and exhibits pharmacological activity at multiple receptor systems.
 
 Tabernanthine is of interest primarily as a biosynthetic intermediate in the iboga alkaloid pathway and as a minor constituent of iboga preparations used in traditional Bwiti ceremony. Its pharmacological profile suggests potential anti-addictive properties, though it has received far less research attention than ibogaine.
 
-The Bwiti religion of Gabon and surrounding Central African countries uses *T. iboga* root bark in initiation ceremonies and healing rituals. While ibogaine is the primary psychoactive alkaloid responsible for the visionary experience, tabernanthine and other minor alkaloids may contribute to the overall pharmacological effects of the crude preparation.
+The Bwiti religion of Gabon and surrounding Central [[mushroom-industry-african-countries]] uses *T. iboga* root bark in initiation ceremonies and [[shamanic-entheogenic-healing-rituals]]. While ibogaine is the primary psychoactive alkaloid responsible for the visionary experience, tabernanthine and other minor alkaloids may contribute to the overall pharmacological effects of the crude preparation.
 
 ## Chemical Properties
 
@@ -46,7 +46,7 @@ Tabernanthine occupies an intermediate position in the iboga alkaloid biosynthet
 
 The pharmacology of tabernanthine has been less extensively characterized than that of ibogaine, but available data indicate activity at several receptor systems:
 
-- **Serotonin receptors:** Weak binding affinity at 5-HT₂A and 5-HT₂C receptors; contributes to the mild psychedelic effects observed at higher doses
+- **[[psilocybin-pharmacology-and-serotonin-receptors]]:** Weak binding affinity at 5-HT₂A and 5-HT₂C receptors; contributes to the mild psychedelic effects observed at higher doses
 - **NMDA receptors:** Non-competitive antagonism similar to ibogaine but with lower potency; may contribute to anti-addictive and dissociative effects
 - **Opioid receptors:** Weak affinity for mu and kappa opioid receptors; insufficient to produce analgesia or dependence
 - **Sigma receptors:** Moderate binding affinity; role in the anti-addictive mechanism remains speculative
@@ -63,7 +63,7 @@ Tabernanthine is found in the root bark of *Tabernanthe iboga* at concentrations
 The compound has also been identified in:
 
 - **Voacanga africana** bark and seeds — alongside voacangine and voacamine, as a minor alkaloid constituent
-- **Tabernaemontana divaricata** (crape jasmine) — leaves and bark contain trace amounts
+- **[[tabernaemontana-divaricata]]** (crape jasmine) — leaves and bark contain trace amounts
 - **Tabernaemontana penduliflora** — root bark alkaloid fraction
 
 The distribution pattern suggests that tabernanthine is a common intermediate in iboga-type alkaloid biosynthesis across the Apocynaceae family, present wherever the iboga pathway is active but typically in low concentrations relative to the pathway end-products.
@@ -87,31 +87,3 @@ The compound is not commercially available as a research chemical or pharmaceuti
 In animal studies, tabernanthine has shown preliminary evidence of reducing morphine and cocaine self-administration in rodent models, consistent with the broader iboga alkaloid class. However, these studies used crude plant extracts rather than isolated tabernanthine, making it difficult to attribute effects to this specific compound.
 
 ## Legal Status
-
-Tabernanthine is not individually scheduled under international drug control conventions. However, as a naturally occurring constituent of *Tabernanthe iboga*, it is indirectly regulated wherever iboga and ibogaine are controlled.
-
-In the [[dmt-containing-plants-united-states-halpern]], ibogaine is listed as a Schedule I controlled substance. Tabernanthine itself is not explicitly scheduled but may fall under the Federal Analog Act due to its structural similarity to ibogaine. In Belgium, ibogaine and iboga are banned, while other countries vary in their approach to regulating iboga alkaloids individually versus the whole plant.
-
-## Related Compounds
-
-The iboga alkaloid family includes several structurally related compounds of pharmacological interest:
-
-- **Ibogaine** (C₂₀H₂₆N₂O, MW 310.43): the major iboga alkaloid, potent anti-addictive agent
-- **Ibogamine** (C₁₉H₂₄N₂O, MW 296.40): desmethyl-tabernanthine, lower molecular weight analogue
-- **Noribogaine** (C₁₉H₂₄N₂O, MW 296.40): the primary active metabolite of ibogaine, long-acting
-- **Voacangine** (C₂₁H₂₆N₂O₃, MW 354.44): methoxy precursor, found in Voacanga species
-- **Coronaridine** (C₂₁H₂₆N₂O₂, MW 338.44): iboga alkaloid from *Voacanga* and *Pandaca*, GABA modulator
-- **Voacamine** (C₄₃H₅₀N₄O₅, MW 706.86): a dimeric iboga-vobasine alkaloid from *Voacanga africana*, studied for anti-malarial and cardioprotective properties
-
-The structural similarity between these compounds arises from shared biosynthetic precursors in the strictosidine pathway. Small modifications to the methoxylation pattern and nitrogen substitution pattern produce significant differences in [[tihkal-receptor-binding-serotonin]] affinity and pharmacological profiles.
-
-## See Also
-
-- [[ibogamine]]
-- [[voacangine-entity]]
-- [[coronaridine]]
-- ibotenic-acid-entity
-- [[harmaline]]
-- [[tetrahydroharmine]]
-- [[5-meo-dmt-entity]]
-- [[mescaline]]

@@ -1,5 +1,5 @@
 ---
-title: Plant savory plant succession and community dynamics Dynamics
+title: Savory Plant Succession And Community Dynamics
 created: 2026-04-26
 aliases: [plant succession, successional process, community dynamics,
           [[holmgren-ecological-succession-and-pulsing]], successional advance, stability]
@@ -29,7 +29,7 @@ essential for effective land management.
 All living communities, together with their microenvironment, undergo
 continuous change as they advance from simplicity to complexity. The
 concept entered science through plant ecologists who observed that
-disturbed areas revegetated in successional stages, from bare ground
+disturbed areas revegetated in successional stages, from [[savory-bare-ground-and-soil-exposure]]
 through algae and lichen communities to grasslands, brushlands, and
 forests.
 
@@ -67,7 +67,7 @@ Understanding population dynamics at various successional levels
 determines when certain species thrive, in what numbers, and why. A
 particular population begins to appear as its requirements for
 establishment are met. It increases as conditions improve through the
-growth of the whole community. Each population has specific requirements
+growth of the [[ingham-single-species-vs-whole-community]]. Each population has specific requirements
 for survival and specific contributions to the community.
 
 ### Complexity and Stability
@@ -88,59 +88,3 @@ warm soil.
 
 Some species actively try to maintain their own ideal environment
 against succession's tendency to advance. Prairie dogs create open
-country around their towns for predator visibility. Some harvester
-termites maintain open ground around their mounds. Some grasses exude
-chemicals from their roots to prevent woody establishment. Humans, who
-modify environments to maintain higher populations, provide one of the
-best but least successful examples.
-
-## Succession in Brittle Versus Nonbrittle Environments
-
-In very brittle environments, the microenvironment on exposed soil
-surfaces is subject to such extremes that succession starts with the
-greatest difficulty. On smooth, steeply sloped surfaces, the process
-might never get beyond frail algal communities easily lost to rain,
-hail, wind, or animal action.
-
-Algae, lichen, and moss communities in certain brittle environments can
-retard the advance of the whole community for thousands of years once
-they encrust soil surfaces. Breaking the crust allows other communities
-to establish and succession to resume. The crust does inhibit erosion
-somewhat on flat ground, but this short-term benefit must be weighed
-against the unrealized possibility of higher succession.
-
-## The Aboveground-Belowground Connection
-
-It is critical to remember that altering the community by any action
-aboveground will inevitably be followed by changes underground. Likewise,
-altering the underground community through compaction, capping,
-fertilization, or any other action will inevitably change the aboveground
-community. The two are inseparable parts of the same whole.
-
-## Microenvironments and Dynamic Change
-
-The fundamental importance of dynamic change is easily overlooked. In
-[[mollison-pdc-range-management-wildlife]], areas were once considered good if they contained the
-right high successional plants. Many such areas, however, belonged at
-the other end of the scale. The microenvironment at the soil surface
-had deteriorated to the extent that higher species could only reproduce
-asexually. The community had become static and was slowly losing
-complexity.
-
-## Managing Toward Desired Succession
-
-Management tools should be chosen and applied to push the successional
-process toward greater complexity and stability when that is the goal.
-In brittle environments, this generally means providing periodic
-disturbance through animal impact while preventing both overgrazing and
-overrest. In nonbrittle environments, succession advances more readily
-and rest may be an appropriate tool for allowing advance toward forest.
-
-## See Also
-
-- [[savory-seed-establishment-and-plant-recruitment]]
-
-- [[savory-brittle-environments]] for how environment type affects
-  succession speed
-- [[savory-soil-surface-and-capping]] for surface conditions that
-  enable or retard succession

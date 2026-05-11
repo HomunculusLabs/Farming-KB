@@ -2,12 +2,12 @@
 
 ## Overview
 
-QIIME (Quantitative Insights Into Microbial Ecology) version 1.7.0 is an open-source
-bioinformatics pipeline designed for analyzing high-throughput microbial community
-sequencing data. The cannabis microbiome study by Winston et al. (2014) employed this
+QIIME (Quantitative Insights Into [[fukuoka-microbial-ecology-decomposition]]) version 1.7.0 is an open-source
+bioinformatics pipeline designed for analyzing high-throughput [[cannabis-cultivar-microbial-community-effects]]
+sequencing data. The [[winston-cannabis-microbiome-study-design]] by Winston et al. (2014) employed this
 pipeline to process 16S rRNA gene amplicon sequences from the V4 hypervariable region,
-characterizing bacterial communities across bulk soil, rhizosphere, and endorhiza
-compartments of multiple Cannabis sativa cultivars.
+characterizing [[cannabis-endorhiza-bacterial-communities]] across bulk soil, rhizosphere, and endorhiza
+compartments of multiple [[blesching-cannabis-sativa-indica-classification]] cultivars.
 
 This page describes each major stage of the pipeline as applied to that study.
 
@@ -15,7 +15,7 @@ This page describes each major stage of the pipeline as applied to that study.
 
 The pipeline begins with quality filtering of raw Illumina reads to remove low-quality
 sequences that could introduce spurious operational taxonomic units (OTUs) or distort
-diversity estimates. In QIIME 1.7.0, this step typically employs several filters:
+[[fungal-diversity-estimates]]. In QIIME 1.7.0, this step typically employs several filters:
 
 - **Phred quality score thresholds:** Sequences with average quality scores below a
   cutoff (commonly Q20 or Q30) are discarded. Sequences failing to meet the
@@ -87,63 +87,3 @@ metrics such as UniFrac, which measure community dissimilarity based on shared b
 lengths between taxa in different samples.
 
 ## RDP Classifier for Taxonomic Assignment
-
-The RDP Naive Bayes classifier assigns taxonomic labels to each OTU's representative
-sequence. Trained on reference sequences with known taxonomy, it uses k-mer word
-frequencies to calculate posterior probabilities at each rank. Assignments below a
-confidence threshold (typically 0.80) are flagged as unreliable. This handles the
-variable sequence quality and incomplete reference coverage of environmental amplicon
-data better than simple BLAST-based methods.
-
-## Alpha and Beta Diversity Metrics
-
-**Alpha diversity** (within-sample) metrics computed in QIIME include:
-
-- Observed OTU richness (simple count of unique OTUs)
-- Chao1 richness estimator (accounts for undetected rare taxa)
-- Shannon diversity index (combines richness and evenness)
-- Faith's phylogenetic diversity (sum of branch lengths spanned by community taxa)
-
-**Beta diversity** (between-sample) metrics leverage the phylogenetic tree through
-UniFrac distances, which weight community differences by evolutionary relatedness:
-
-- **Unweighted UniFrac** considers only the presence or absence of lineages, making
-  it sensitive to rare taxa and community composition.
-- **Weighted UniFrac** incorporates relative abundance, emphasizing dominant taxa.
-
-Principal Coordinates Analysis (PCoA) ordinates samples based on pairwise UniFrac
-distances, visualizing community-level patterns in reduced-dimensional space.
-
-## Rarefaction and Statistical Testing
-
-**Rarefaction** standardizes samples by subsampling to equal sequencing depth, ensuring
-diversity comparisons are not confounded by unequal sampling effort. Multiple
-rarefactions reveal whether diversity estimates have stabilized (reached an asymptote).
-
-**ADONIS (Permutational MANOVA)** tests whether sample groups differ significantly in
-community composition. It partitions variation by factor (cultivar, soil type,
-compartment) and assesses significance through permutation, providing an R-squared
-effect size and p-value.
-
-**ANOSIM (Analysis of Similarities)** provides a rank-based alternative test, with
-an R statistic from 0 (no difference) to 1 (complete separation).
-
-**BEST (Bio-Env Stepwise) analysis** identifies which environmental variables best
-explain community variation by testing combinations of parameters (soil pH, nutrients,
-cultivar identity) against community distance matrices.
-
-## References
-
-- Winston, M.E., et al. (2014). Understanding Cultivar-Specificity and Soil
-  Determinants of the Cannabis Microbiome. PLoS ONE, 9(6), e99641.
-  https://doi.org/10.1371/journal.pone.0099641
-- Caporaso, J.G., et al. (2010). QIIME allows analysis of high-throughput community
-  sequencing data. Nature Methods, 7(5), 335–336.
-
-## See Also
-
-- [[cellvibrio-and-root-decay-microbiome]]
-- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
-- [[rhizosphere-fungal-community-analysis-rrna-rdna]]
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]
-- [[cannabis-microbiome-agricultural-implications-and-future-directions]]

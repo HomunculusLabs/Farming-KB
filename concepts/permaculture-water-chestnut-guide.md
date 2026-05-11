@@ -88,17 +88,3 @@ brings peak growth — the grass-like foliage reaches 2-3 feet tall.
 By late summer, plants begin senescing and foliage yellows from
 the tips downward. Harvest begins when approximately 70% of
 foliage has died back. In cooler zones where the growing season
-is shorter, starting corms indoors 4-6 weeks before last frost
-extends the productive period. After harvest, select the largest,
-firmest corms for next year's planting stock. Store them in damp
-peat moss or wrapped in newspaper in a cool (40-50 degrees F),
-dark location. Check monthly for mold or desiccation.
-
-## See Also
-
-- [[permaculture-water-plants-guide]]
-
-- [[permaculture-plants-aquatic-and-wetland-species]]
-
-- [[permaculture-taro-guide]]
-- permaculture-designers-manual-pond-edge-planting

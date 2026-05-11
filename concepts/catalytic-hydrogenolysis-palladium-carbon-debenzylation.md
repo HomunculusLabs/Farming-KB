@@ -1,5 +1,5 @@
 ---
-title: shirota-catalytic-hydrogenolysis-debenzylation-psilocybin for Psilocybin Debenzylation
+title: Catalytic Hydrogenolysis Palladium Carbon Debenzylation
 created: 2026-04-28
 tags:
   - synthesis
@@ -25,7 +25,7 @@ The [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] (compou
 must be removed to reveal the final psilocybin structure:
 
 1. **N-benzyl removal**: Cleavage of the benzyl group from the quaternary
-   ammonium nitrogen (N-1 of the indole) restores the indole NH and
+   ammonium nitrogen (N-1 of the [[indole]]) restores the indole NH and
    converts the quaternary ammonium to the tertiary N,N-dimethylamine.
 2. **O-benzyl removal**: Cleavage of the benzyl group from the phosphate
    monoester reveals the free [[cho-water-soluble-phosphoric-acid-preparation]] group (-OPO3H2), giving
@@ -40,7 +40,7 @@ The hydrogenolysis is performed under the following conditions:
 
 - **Substrate**: Compound 8 (10.5 g, 22.5 mmol)
 - **Solvent**: Methanol (225 mL), chosen for its ability to dissolve
-  the zwitterionic intermediate and its compatibility with Pd/C
+  the [[psilocybin-phosphorylation-via-zwitterionic-intermediate]] and its compatibility with Pd/C
   catalysis
 - **Catalyst**: 10% palladium on activated carbon (approximately 1 g,
   roughly 10% by weight of substrate)
@@ -60,7 +60,7 @@ psilocybin.
 The O-benzyl phosphate ester undergoes standard hydrogenolytic cleavage.
 Molecular hydrogen is adsorbed and activated on the palladium surface,
 generating reactive Pd-H species. The benzyl-oxygen bond is cleaved
-through oxidative addition to Pd(0) or through a surface-mediated
+through [[oxidative-addition-organometallic-chemistry]] to Pd(0) or through a surface-mediated
 process, yielding toluene and the free phosphate acid. This is the same
 mechanism by which benzyl esters are routinely deprotected in organic
 synthesis.
@@ -88,42 +88,3 @@ The workup procedure is straightforward:
    deposit as a crystalline solid.
 2. Stirring continues for one additional hour under hydrogen to ensure
    complete reaction.
-3. The reaction mixture is filtered through a Celite pad by suction to
-   remove the Pd/C catalyst.
-4. The filtrate volume is reduced by evaporation, causing psilocybin to
-   crystallize.
-5. The crystalline product is collected by filtration and washed with
-   ethanol.
-
-This procedure yields psilocybin (5.6 g, 87.5% from compound 8) as a
-white needle crystalline powder. No chromatographic purification such as
-the anion-exchange resin used by Nichols and Frescas is required.
-
-## Comparison with Alternative Deprotection Methods
-
-### Hydrogenolysis vs. Anion-Exchange Resin
-
-Nichols and Frescas (1999) used anion-exchange resin chromatography to
-isolate psilocybin after hydrogenolysis. The Shirota method avoids this
-by exploiting the crystallinity of psilocybin itself, which precipitates
-directly from the reaction mixture. The elimination of the ion-exchange
-step significantly simplifies the workup and improves the yield.
-
-### Acidic or Basic Hydrolysis
-
-Strong acid or base would cleave the phosphate ester bond of psilocybin,
-destroying the product. Milder conditions like catalytic hydrogenolysis
-are therefore essential for preserving the sensitive phosphate group while
-removing the benzyl protecting groups.
-
-### Other Hydrogenolysis Catalysts
-
-Pd/C is the standard catalyst for benzyl deprotections. Other catalysts
-such as Pearlman's catalyst (Pd(OH)2/C) or Raney nickel could
-potentially be used, but Pd/C offers the best combination of activity,
-selectivity, and ease of removal by filtration.
-
-## Yield Considerations
-
-The overall yield from [[shirota-catalytic-hydrogenolysis-debenzylation-to-psilocybin-crystal]]
-- [[oyster-substrate-carbon-nitrogen-ratio]]

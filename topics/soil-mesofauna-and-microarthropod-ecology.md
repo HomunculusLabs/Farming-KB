@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - Coleman, D.C., Crossley, D.A. & Hendrix, P.F. (2004). Fundamentals of Soil Ecology, 2nd ed. Academic Press.
   - Wallwork, J.A. (1976). The Distribution and Diversity of Soil Fauna. Academic Press.
   - Brussaard, L. et al. (1997). "Biodiversity and ecosystem functioning in soil." Ambio, 26(8), 563–570.

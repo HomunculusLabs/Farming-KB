@@ -69,7 +69,7 @@ Africa. It occurs in the Albany Thicket and Pondoland Centre of Endemism
 vegetation types at elevations of 200–1,200 m.
 
 The species grows in damp, mossy sites along stream banks, seepage areas on
-rocky outcrops, and saturated grassland soils. It is frequently found in the
+rocky outcrops, and saturated [[dighton-fungal-communities-grassland-soils]]. It is frequently found in the
 spray zones of waterfalls and on wet cliff faces.
 
 Habitats are characterized by seasonal rainfall patterns with wet summers
@@ -88,58 +88,6 @@ trapdoor, the door buckles inward within 10–15 milliseconds. The resulting
 pressure differential drives a rapid inflow of water, sweeping the prey into
 the bladder chamber.
 
-Digestion follows the standard Utricularia pattern. Glands on the interior
-bladder walls secrete hydrolytic enzymes that dissolve the prey over 30
-minutes to several hours. The resulting [[cannabis-nutrient-solution-preparation]] is then absorbed.
-
-Prey consists primarily of soil-dwelling microorganisms including protozoa,
-nematodes, and rotifers. The traps operate continuously and can fire and
-reset multiple times, making them highly efficient nutrient-capture systems
-for their size.
-
-## Cultivation
-
-Utricularia sandersonii is widely regarded as one of the easiest carnivorous
-plants to grow, making it an excellent choice for beginners. It is typically
-cultivated in a peat-and-sand or peat-and-perlite mix.
-
-The plant should be kept consistently moist with distilled or rain water.
-A shallow tray method, where the pot sits in 1–2 cm of water, works well
-for maintaining appropriate moisture levels throughout the [[savory-growing-season-and-non-growing-season-management]].
-
-[[growing-gourmet-light-requirements-mushroom-fruiting]] are moderate. Bright indirect light or artificial
-lighting at 80–120 µmol/m²/s for 12–14 hours daily produces robust growth
-and abundant flowering. Direct afternoon sun should be avoided.
-
-Temperatures between 15–25 °C are ideal. The species is not frost-tolerant
-but can tolerate brief cool periods down to 5 °C if kept relatively dry.
-
-Propagation is straightforward from stolon division or leaf cuttings. The
-plant readily colonizes new substrate by extending its stolon network,
-making it easy to multiply from a single established colony.
-
-## Conservation
-
-Utricularia sandersonii has not been formally assessed by the IUCN Red List.
-However, its restricted endemic range in the Eastern Cape makes it
-potentially vulnerable to habitat degradation.
-
-Urban expansion, agricultural development, and invasive plant species pose
-ongoing threats to the riparian and seepage habitats this species depends
-upon. Water extraction for irrigation may also reduce the moisture levels
-in critical microhabitats.
-
-The species is well-established in cultivation, with numerous commercial
-nurseries propagating it from [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. This horticultural
-availability reduces pressure on wild populations from collectors.
-
 ## See Also
-
-- [[utricularia-vulgaris]]
-- [[utricularia-reniformis]]
-- [[pinguicula-moranensis]]
-- [[pinguicula-esseriana]]
-- [[drosera-rotundifolia]]
-- [[cephalotus-follicularis]]
-- [[genlisea-aurea]]
-- [[dionaea-muscipula]]
+- [[utricularia-australis]]
+- [[utricularia-longifolia]]

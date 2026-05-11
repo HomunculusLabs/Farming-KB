@@ -87,37 +87,3 @@ the moving image and into eternity, the nunc stans of Thomas Aquinas."
 Acceleration is visible: fire discovered millions of years ago, language
 35,000 years ago, measurement 5,000 years ago, Galileo 400 years ago.
 "What is obviously happening is that everything is being drawn together."
-
-### The Exteriorization of the Soul
-McKenna envisioned "an effort to exteriorize the soul and internalize the
-body, so that the exterior soul will exist as a superconducting lens of
-[[mckenna-translinguistic-matter-and-exteriorized-soul]]." This represents the maturation of language from
-its embryonic form into fully realized three-dimensional meaning-making.
-
-## Art and Cultural Transmission
-
-McKenna raised the puzzle of why "human art history is so devoid of what
-psychedelic voyagers have experienced so totally." The UFO motif might be
-"the central motif to be understood" — the Self disguised as extraterrestrial
-"because we are so alienated" that genuine dimensions of the self appear
-as alien. "When we can love the alien, then we will have begun to heal the
-psychic discontinuity that has plagued us since at least the sixteenth
-century."
-
-## Quantum Mechanical Foundations
-
-McKenna argued that dreams and hallucinations "arise at the quantum
-mechanical level." The sensitivity of hallucinogenic activity to single-
-atom substitutions on molecular rings demonstrates "the dynamic linkage
-at the formative level between quantum mechanically described matter and
-mind." DMT's structural similarity to serotonin (5-hydroxytryptamine)
-and psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is significant.
-
-## See Also
-
-- [[tryptamine-logos-concept]]
-- [[shamanic-entheogenic-healing]]
-- [[tryptamine-hallucinogens-and-consciousness]].
-  *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*. HarperSanFrancisco.
-- McKenna, T. & McKenna, D. (1975). *The Invisible Landscape*. Seabury Press.
-- Graves, R. (1948). *The White Goddess*. Faber & Faber.

@@ -1,5 +1,5 @@
 ---
-title: "Composting in the Organic Garden"
+title: Composting Organic Garden
 created: 2026-04-28
 tags: [composting, soil-health, organic-gardening, waste-recycling]
 date: 2026-04-25
@@ -14,7 +14,7 @@ Every garden must have a compost heap. Composting is the ideal
 way to return as much [[hamilton-composting-and-organic-matter-management]] as possible to the soil,
 following nature's example. Decomposing vegetation provides a
 home for millions of soil organisms, opens up the soil,
-improves drainage, and eases the way for root growth. It also
+improves drainage, and eases the way for [[soil-moisture-management-and-root-growth]]. It also
 helps over-drained soils hold water and nutrients.
 
 ## Why Composting Matters
@@ -47,7 +47,7 @@ or straw to create natural air spaces.
 ### Nitrogen
 Bacteria in the heap need nitrogen as fuel. [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
 is ideal. If unavailable, use organic compost activators,
-dried sewage sludge, kelp meal, or dried blood. A fine
+dried sewage sludge, [[comparison-fish-aminos-vs-kelp-meal]], or dried blood. A fine
 dusting every 12in (30cm) of compost is sufficient.
 
 ### Lime
@@ -88,48 +88,3 @@ unnecessary and makes compost less concentrated.
 
 Woody prunings should be composted separately because bark
 contains lignin, which is difficult for bacteria to break
-down. The rotting of lignin is primarily carried out by
-fungi, which are slower than bacteria and need more light
-and less air. Chipping prunings into smaller pieces
-dramatically speeds decomposition. Domestic chipping machines
-take time but are worth the investment for gardeners with
-significant woody waste. The resulting [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] can also
-serve as an effective mulch in ornamental borders.
-
-## Compost Containers
-
-Containers are not essential but help retain heat and
-moisture. Ensure good air circulation through the container.
-Position in a semi-shaded spot to prevent excessive drying
-in summer. A well-managed compost heap produces dark, crumbly
-material that is the cornerstone of organic soil fertility.
-
-## Practical Tips
-
-- Never throw material onto the heap; mix different
-  materials together to ensure air circulation
-- Store dry material beside the pile until you have wet
-  material to add to it
-- Grass cuttings placed in thick layers will form an
-  airless, slimy mass; always mix them with coarser
-  material
-- A normal-sized garden will not produce enough compost
-  alone; supplement with purchased soil conditioners
-- Weeds pulled before seeding or flowering can safely be
-  added to the heap
-- Cover the heap in winter with black plastic or old
-  carpet to retain warmth and prevent waterlogging
-
-## Using Finished Compost
-
-When the compost is dark and crumbly with no recognizable
-plant remains, it is ready for use. Dig it into the top
-layers of soil during the fall or spread it as a mulch
-during the [[savory-growing-season-and-non-growing-season-management]]. You will need at least two
-2-gallon buckets of well-rotted compost per square yard
-or meter per year for most garden areas.
-
-## See Also
-- [[green-manures-organic-gardening]]
-- [[organic-pest-disease-control]]
-- [[comparison-vermicomposting-vs-composting-organic-garden]]

@@ -34,7 +34,7 @@ based on molecular phylogenetic evidence.
 
 The species is the original "Sanghuang" (桑黄) of traditional Chinese
 medicine, referenced for over 2,000 years. Its name translates as
-"mulberry yellow," reflecting its growth on mulberry trees and the
+"mulberry yellow," reflecting its growth on [[query-how-do-i-grow-mulberry-trees]] and the
 yellow-orange pore surface.
 
 Modern pharmacology has validated several traditional applications,
@@ -58,7 +58,7 @@ bioactive constituents.
 The genus *Sanghuangporus* was erected in 2016 when multi-gene
 phylogenetic analyses revealed the Sanghuang clade was distinct from
 *Phellinus* sensu stricto. The type specimen was collected from
-mulberry (*morus alba*) in Taiwan.
+mulberry (*[[morus-alba]]*) in Taiwan.
 
 Basidiocarps are perennial, hoof-shaped to effused-reflexed, 5–20 cm
 in diameter and 2–6 cm thick. The upper surface is dark brown to black
@@ -88,55 +88,3 @@ several Chinese provinces, driving interest in [[fukuoka-matsutake-artificial-cu
 
 Water-soluble polysaccharides are the most studied constituents. The
 primary fraction consists of β-glucans with (1→3) and (1→6) linkages,
-exhibiting immunomodulatory and anti-tumor activity. Molecular weights
-range from 10–500 kDa depending on extraction method.
-
-Over 50 triterpenoid compounds have been isolated, including inotodiol,
-trametenolic acid, and sanghuang-specific sanghuangic acids A and B.
-These demonstrate anti-inflammatory activity through NF-κB inhibition
-and cytotoxicity against HepG2, MCF-7, and A549 [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines.
-
-Additional constituents include hispidin derivatives (antioxidant,
-anti-diabetic), styrylpyrones (antimicrobial), and phenolic acids.
-Fungal melanins in the crust contribute radical-scavenging activity.
-
-## Pharmacology and Traditional Medicine
-
-Polysaccharide fractions show potent anti-tumor effects in vitro and
-in vivo. Mechanisms include direct cytotoxicity and indirect
-immune-mediated suppression through NK cell, macrophage, and cytotoxic
-T lymphocyte activation.
-
-In murine models, Sanghuang polysaccharides inhibit Sarcoma 180 tumor
-growth by 40–65%. Combination therapy with chemotherapy agents shows
-synergistic effects, enhancing efficacy while reducing side effects.
-
-Immunomodulatory effects include macrophage activation via TLR4
-signaling, increased TNF-α, IL-2, and IFN-γ production, and
-splenocyte proliferation. Ethanol extracts show significant anti-
-inflammatory activity through suppression of NF-κB, MAPK, and JAK/STAT
-pathways.
-
-In traditional Chinese medicine, Sanghuang treats hemorrhage,
-diarrhea, and menstrual disorders. The *Shennong Ben Cao Jing*
-classifies it as a superior herb. Modern applications focus on
-adjunctive cancer therapy, liver protection, and immune support.
-
-## Cultivation
-
-Wild harvest remains the primary source, but artificial cultivation
-is being developed. [[cancer-medicinal-mushrooms-submerged-fermentation-production]] produces polysaccharide-rich
-mycelial biomass suitable for supplements.
-
-Solid-state cultivation on mulberry sawdust with bran or soy meal
-supplementation can produce basidiocarps, though fruiting rates and
-bioactive profiles differ from wild material. Optimal fruiting requires
-## See Also
-
-- [[sanghuangporus-lonicerinus]]
-
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[sanghuangporus-vaninii]](sanghuangporus-vaninii.md)
-- [[sanghuangporus-baumii]]](sanghuangporus-baumii.md)
-- phellinus linteus](phellinus-linteus.md)
-- [[phellinus-igniarius-entity|Phellinus igniarius]]

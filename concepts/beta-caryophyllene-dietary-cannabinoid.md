@@ -1,120 +1,90 @@
 ---
-title: Beta-Caryophyllene as a Dietary Cannabinoid
-aliases: [beta-caryophyllene, BCP cannabinoid, dietary cannabinoid, caryophyllene CB2, food-based cannabinoid]
-tags: [cannabinoid, terpene, dietary-cannabinoid, cb2-agonist, spice-chemistry, anti-inflammatory]
-created: 2026-05-09
-source: ["uwe-blesching-the-cannabis-health-index.md"]
+title: Beta Caryophyllene Dietary Cannabinoid
+source: "The Cannabis Health Index (Blesching, 2015)"
+tags: [beta-caryophyllene, caryophyllene, dietary-cannabinoid, terpene, spices, CB2, anti-inflammatory]
 ---
 
-# Beta-Caryophyllene as a Dietary Cannabinoid
+# Beta-Caryophyllene: A Dietary Cannabinoid
 
-(E)-β-Caryophyllene ((E)-BCP) is a naturally occurring sesquiterpene found in many common spices and food plants that functions as a selective CB2 receptor agonist. Discovered as a [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] ligand in 2008 by an international team of researchers from Switzerland, Germany, Italy, and the United States, β-caryophyllene is considered by some researchers to be a "food-based cannabinoid" — a dietary compound capable of activating the [[endocannabinoid-system-overview|endocannabinoid system]] without any psychoactive effects. Unlike THC, β-caryophyllene selectively targets CB2 receptors, producing anti-inflammatory and protective effects without intoxication.
+## Discovery and Significance
 
-## Chemical Identity
+An international group of researchers from Switzerland, Germany, Italy, and the U.S. reported in 2008 and 2012 that certain plants, most notably spice-producing plants, contain a functional non-psychoactive CB2 agonist called (E)-beta-caryophyllene ((E)-BCP). This molecule is considered by some researchers to be a food-based cannabinoid. While some chemists may be more inclined to use traditional nomenclature and classify it as a terpene or terpenoid, this distinction has little practical value to patients who may benefit from its therapeutic use.
 
-(E)-β-Caryophyllene is a bicyclic sesquiterpene with the molecular formula C₁₅H₂₄. It is one of the most common terpenes found in nature and is a major constituent of the essential oils of numerous spice plants. While chemists may classify it as a terpene or terpenoid, its functional activity as a CB2 receptor agonist makes the cannabinoid classification clinically relevant to patients who benefit from its use.
+Scientists suggest that activation of CB2 receptors via this dietary plant-based cannabinoid might present a new and additional therapeutic strategy in the treatment of a multitude of diseases associated with inflammation and oxidative stress, both of which are underlying factors in many different pathologies. Additional research has shown that (E)-beta-caryophyllene may also protect against microbes, pain, and cancer.
 
-Key chemical properties:
-- **Molecular weight**: 204.35 g/mol
-- **Classification**: Bicyclic sesquiterpene
-- **Receptor selectivity**: CB2 selective (minimal CB1 affinity)
-- **Psychoactivity**: None (does not activate CB1 receptors)
-- **FDA status**: Generally Recognized As Safe (GRAS) as a food component
+This food-based cannabinoid is fully accepted by the U.S. government with the FDA's seal of approval, and key (E)-beta-caryophyllene-containing organic spices are relatively easy to obtain.
 
 ## Mechanism of Action
 
-β-Caryophyllene selectively activates **CB2 receptors**, which are primarily found in immune cells and peripheral tissues. This selectivity is therapeutically significant because:
+(E)-beta-caryophyllene selectively activates CB2 receptors without binding significantly to CB1 receptors. This selectivity is therapeutically important because:
 
-- CB2 activation produces **anti-inflammatory effects** without psychoactivity
-- CB2 receptors modulate immune cell function, reducing excessive inflammatory responses
-- CB2 activation may protect against oxidative stress, a contributing factor in numerous chronic diseases
-- The lack of CB1 activation means no cognitive impairment, euphoria, or other psychoactive effects
+- CB2 activation provides anti-inflammatory and immunomodulatory effects
+- CB1 receptors are responsible for the psychoactive effects of THC
+- Selective CB2 activation avoids intoxication while delivering therapeutic benefits
+- CB2 receptors are concentrated in immune cells, making (E)-BCP ideal [[cannabis-for-inflammatory-conditions]]
 
-The 2008 discovery by Gertsch et al. demonstrated that β-caryophyllene is a functional CB2 agonist with significant anti-inflammatory activity in animal models. Follow-up research in 2012 expanded understanding of its tissue-protective and anti-cancer potential.
+The CB2-selective nature of beta-caryophyllene means it can be consumed as part of a normal diet through common spices, providing a gentle, continuous CB2 receptor activation that supports the body's endocannabinoid system without any psychoactive effects whatsoever.
 
-## Therapeutic Properties
+## Spices Containing Beta-Caryophyllene
 
-Research has associated β-caryophyllene with several therapeutic actions:
+### Black and White Ashanti Peppers (Piper guineense)
 
-- **Anti-inflammatory**: CB2-mediated suppression of inflammatory cytokines and immune cell activation
-- **Antioxidant**: Protection against oxidative stress, a factor in aging and chronic disease
-- **Antimicrobial**: Activity against bacteria and fungi, including drug-resistant strains
-- **Analgesic**: Pain reduction, particularly inflammatory and neuropathic pain
-- **Anti-cancer**: Protective effects against certain cancer types
-- **Gastroprotective**: Support for gastrointestinal health and mucosal protection
+The (E)-beta-caryophyllene content in test samples of Black Ashanti pepper was 58% and in White Ashanti pepper 52%. For comparison, the (E)-beta-caryophyllene content in Cannabis sativa ranges from only 12 to 35%. These West African peppers also have antibacterial properties against E. coli and Staphylococcus aureus.
 
-## Dietary Sources and Concentrations
+### Indian Bay-Leaf (Cinnamomum tamala)
 
-β-Caryophyllene content varies significantly across plant species. The following concentrations were measured in research samples:
+The (E)-beta-caryophyllene content of a tested sample was 25%. Indian Bay-Leaf is a prominent herb in Ayurvedic traditions and exhibits proven antioxidant and antidiabetic properties.
 
-### High-Content Sources (>20%)
+### Grains of Paradise (Aframomum melegueta)
 
-| Spice | β-Caryophyllene Content | Additional Properties |
-|-------|------------------------|----------------------|
-| Black Ashanti pepper (*Piper guineense*) | 58% | Antibacterial (E. coli, S. aureus) |
-| White Ashanti pepper (*Piper guineense*) | 52% | Antibacterial (E. coli, S. aureus) |
-| Grains of Paradise (*[[aframomum-melegueta]]*) | 22% | Antioxidant, analgesic, wound healing, antimicrobial, antidiarrheal, molluscicidal, potential aphrodisiac |
+The (E)-beta-caryophyllene content measured in this spice was 22%. Additional medicinal uses supported by scientific studies include promotion of wound healing through cell membrane support. It is also an antioxidant, anti-inflammatory, analgesic, molluscicidal, anti-diarrheal agent, antimicrobial agent, and may enhance sexual interest and function.
 
-### Moderate-Content Sources (5–25%)
+### Black Pepper (Piper nigrum)
 
-| Spice | β-Caryophyllene Content | Additional Properties |
-|-------|------------------------|----------------------|
-| Indian Bay-Leaf (*Cinnamomum tamala*) | 25% | Antioxidant, antidiabetic (Ayurvedic herb) |
-| African Basil (*Ocimum micranthum*) | 14% | Antimicrobial (giardia), antiviral (herpes, hepatitis, adenovirus), antibacterial |
-| Black Pepper (*Piper nigrum*) | 7–19% | Antibacterial, colon cancer protective, antioxidant |
-| Black Caraway (*Carum nigrum*) | 8% | Antioxidant, antibacterial, antifungal |
+Samples of black pepper yielded an (E)-beta-caryophyllene content ranging between 7% and 19%. Scientific studies have documented additional medicinal benefits including antibacterial properties, protective effects against colon cancer, and antioxidant activity.
 
-For comparison, [[cannabis-sativa]] typically contains 12–35% β-caryophyllene in its essential oil profile.
+### African Basil (Ocimum micranthum)
 
-### Lower-Content Sources (1–7%)
+This type of basil typically contains an (E)-beta-caryophyllene content of 14%. Medicinal uses include [[medicinal-mushroom-antimicrobial-properties]] (giardia), assistance with dyspepsia and high blood pressure, potential effectiveness against cholera-induced diarrhea, antiviral activity against herpes virus I and II, adenoviruses, hepatitis B virus, and RNA viruses, antibacterial action for middle-ear infections, and anti-inflammatory properties.
 
-| Spice | β-Caryophyllene Content | Additional Properties |
-|-------|------------------------|----------------------|
-| Sri Lanka Cinnamon (*Cinnamomum zeylanicum*) | 7–11% | Improved fat/sugar metabolism, antihypertensive, broad-spectrum antibiotic |
-| Basil (*Ocimum gratissimum*) | 5% | Gastroprotective, antibacterial (E. coli, S. aureus) |
-| Mexican Oregano (*Lippia graveolens*) | 5% | Inhibits acyclovir-resistant herpes virus |
-| Rosemary (*[[rosmarinus-officinalis-entity]]*) | 1–8% | Antimicrobial, improves circulation, radioprotective, anti-tumor, anti-inflammatory, neuroprotective |
-| Clove (*[[syzygium-aromaticum]]*) | ~4% | Analgesic, anti-inflammatory, antioxidant, antimicrobial, antifungal, antiviral (herpes, hepatitis C), antibacterial (drug-resistant strains), anticancer, antidiabetic, aphrodisiac, treats anal fissures |
+### Sri Lanka Cinnamon (Cinnamomum zeylanicum)
+
+A tested sample contained 7-11% (E)-beta-caryophyllene. Other medicinal properties include improved fat and sugar metabolism, potential treatment for high blood pressure, antioxidant properties, broad-spectrum antibiotic properties, and the ability to cure mite infestation in animals.
+
+### Rosemary (Rosmarinus officinalis)
+
+Approximately 1-8% (E)-beta-caryophyllene was contained in different samples. Medicinal uses include antimicrobial activity against bacteria and fungi, treatment of dyspepsia, promotion of circulation, radioprotective effects, possible prevention of skin cancer tumors, anti-inflammatory action, and [[cannabis-root-rot-prevention-and-treatment]] of diabetic, cardiovascular, and other [[blesching-cannabis-neurodegenerative-diseases]].
+
+### Caraway, Black (Carum nigrum)
+
+Levels of (E)-beta-caryophyllene in a sample of black caraway were measured at 8%. The essential oil of Carum nigrum has traditional uses in digestive health and respiratory conditions.
+
+### Clove (Syzygium aromaticum)
+
+Clove is one of the richest natural sources of (E)-beta-caryophyllene, with content often exceeding 50% of its essential oil composition. Beyond its CB2-activating properties, clove is renowned for its powerful antimicrobial, analgesic (particularly dental pain), and antioxidant properties.
+
+### Mexican Oregano (Lippia graveolens)
+
+Contains significant levels of (E)-beta-caryophyllene along with other terpenes. Used traditionally for respiratory complaints, digestive issues, and as an antimicrobial agent.
+
+## Therapeutic Applications
+
+The [[metzner-ayahuasca-therapeutic-potential]] of (E)-beta-caryophyllene through dietary consumption extends across multiple body systems:
+
+1. **Anti-inflammatory**: CB2 receptor activation modulates cytokine production and reduces inflammatory cascade activation
+2. **Analgesic**: Pain reduction through CB2-mediated pathways, particularly effective for inflammatory pain
+3. **Antimicrobial**: Direct antimicrobial activity against bacteria, fungi, and other pathogens
+4. **Antioxidant**: Scavenging of free radicals and reduction of oxidative stress
+5. **Gastroprotective**: Protection of gastric mucosa and support of digestive function
+6. **Neuroprotective**: CB2-mediated neuroprotection against neurodegenerative processes
+
+## Dietary Integration
+
+Unlike cannabis-derived cannabinoids, beta-caryophyllene can be easily incorporated into daily cooking. A diet rich in the spices listed above provides continuous, gentle CB2 receptor activation that supports the endocannabinoid system. This represents a form of dietary endocannabinoid enhancement that requires no special preparation, legal considerations, or medical supervision.
+
+The concept of "food-based cannabinoids" challenges the traditional separation between diet and cannabinoid therapeutics, suggesting that many cultures have been engaging in a form of endocannabinoid support through traditional spice use for thousands of years. Ayurvedic medicine, Traditional Chinese Medicine, and Mediterranean dietary traditions all feature prominent use of beta-caryophyllene-rich spices, which may partially explain the health benefits associated with these traditional diets.
 
 ## Comparison with Cannabis-Derived Cannabinoids
 
-| Property | β-Caryophyllene | THC | CBD |
-|----------|-----------------|-----|-----|
-| Source | Spice plants (food) | Cannabis | Cannabis |
-| CB1 activity | Minimal | Strong | Weak |
-| CB2 activity | Strong | Moderate | Moderate |
-| Psychoactive | No | Yes | No |
-| Legal status | FDA-approved food | Federally restricted | Varies by jurisdiction |
-| Cost | Inexpensive (spices) | Variable | Variable |
-| Availability | Grocery stores | Dispensaries | Dispensaries |
-| Drug interactions | Minimal | Moderate | Moderate (CYP450) |
-
-## Practical Applications
-
-### Anti-Inflammatory Diet
-Incorporating β-caryophyllene-rich spices into the diet provides a mild, continuous CB2 activation that may help manage chronic inflammation without the need for supplements or pharmaceuticals. Black pepper, cinnamon, and rosemary are particularly accessible and versatile culinary additions.
-
-### Complementary Approach
-β-Caryophyllene from food sources can complement other cannabinoid-based therapies:
-- Combined with CBD for enhanced anti-inflammatory effect
-- May reduce the required dose of pharmaceutical anti-inflammatories
-- Provides CB2 activation without the complexity of cannabis-based medicine
-
-### Topical Applications
-Essential oils rich in β-caryophyllene (clove, black pepper) can be incorporated into [[cannabis-topical-preparations]] for localized anti-inflammatory and analgesic effects.
-
-## Safety Considerations
-
-- β-Caryophyllene from food sources is generally regarded as safe (GRAS)
-- Essential oil concentrations are much higher than dietary levels and should be used with caution
-- No known significant drug interactions at dietary doses
-- Pregnant women should consult healthcare providers before concentrated use
-- Allergic reactions to specific spice plants are possible but uncommon
-
-## Related Topics
-
-- cb2 receptor immune function — CB2 receptor biology and therapeutic targeting
-- cannabis terpenes — terpenoid compounds in cannabis and their effects
-- entourage effect — synergistic interactions between cannabinoids and terpenes
-- anti inflammatory spices — dietary spices with inflammation-modulating properties
-- caryophyllene research — current research on β-caryophyllene [[psilocybin-therapeutic-applications]]
+| Property | Beta-Caryophyllene | THC | CBD |
+|----------|-------------------|-----|-----|

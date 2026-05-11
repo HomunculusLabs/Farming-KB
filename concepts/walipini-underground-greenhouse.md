@@ -10,13 +10,13 @@ tags: [greenhouse, passive-solar, earth-sheltered, season-extension, passive-hea
 
 A walipini (from the Aymara word for "place of warmth") is an underground or earth-bermed greenhouse that uses the earth's thermal mass to maintain stable temperatures year-round. By digging the growing space 1.5–3 meters below grade, the greenhouse benefits from the earth's constant subsurface temperature (approximately 10–15°C at 2 m depth in [[fukuoka-natural-farming-temperate-climates]]), dramatically reducing heating requirements compared to above-ground structures. The Benson Institute in Utah developed and popularized the walipini design in the 1990s based on traditional pit greenhouse techniques used in Eastern Europe and China.
 
-Walipinis enable year-round vegetable production in climates where conventional greenhouses would require expensive heating through winter months. They are particularly effective in high-altitude tropical and subtropical regions (Bolivia, Peru, Nepal) where diurnal temperature swings are large but ground temperatures remain moderate.
+Walipinis enable year-round [[coleman-french-historical-winter-vegetable-production]] in climates where conventional greenhouses would require expensive heating through winter months. They are particularly effective in high-altitude tropical and subtropical regions (Bolivia, Peru, Nepal) where diurnal temperature swings are large but ground temperatures remain moderate.
 
 ## Thermal Principles
 
 ### Earth Thermal Mass
 
-Below the frost line (typically 0.6–1.2 m deep in temperate climates), soil temperature remains remarkably stable, fluctuating only 2–4°C annually around the local mean annual ground temperature. In a walipini, the growing space sits within this thermally stable zone, buffered from surface temperature extremes. During hot days, the earth absorbs excess heat; during cold nights, the earth releases stored warmth.
+Below the frost line (typically 0.6–1.2 m deep in [[query-how-to-grow-and-use-oca-in-temperate-climates]]), soil temperature remains remarkably stable, fluctuating only 2–4°C annually around the local mean annual ground temperature. In a walipini, the growing space sits within this thermally stable zone, buffered from surface temperature extremes. During hot days, the earth absorbs excess heat; during cold nights, the earth releases stored warmth.
 
 ### Passive Solar Gain
 
@@ -68,7 +68,7 @@ The long axis runs east-west, with the glazed wall facing due south (Northern He
 
 ### Cold Climates (USDA Zones 3–6)
 
-Increase glazing angle to latitude + 20° for maximum winter gain. Use double or triple glazing. Add supplementary insulation: 5–10 cm rigid foam on the north wall beneath the earth berm. Install deep thermal mass (500+ liters of water in barrels) to extend heat release into long winter nights. Consider a rocket mass heater backup for extreme cold events.
+Increase glazing angle to latitude + 20° for maximum winter gain. Use double or triple glazing. Add supplementary insulation: 5–10 cm rigid foam on the north wall beneath the earth berm. Install deep thermal mass (500+ liters of water in barrels) to extend heat release into long winter nights. Consider a [[rocket-mass-heater-design]] backup for extreme cold events.
 
 ### Temperate Climates (USDA Zones 7–9)
 
@@ -80,37 +80,10 @@ Desert walipinis benefit from [[bloomfield-mushroom-evaporative-cooling-fungal-f
 
 ### Tropical Highlands
 
-The original walipini context — high altitude (2000–4000 m) with large diurnal swings but moderate ground temperatures. Standard design with emphasis on nighttime heat retention and frost protection for sensitive crops.
+The original walipini context — high altitude (2000–4000 m) with large diurnal swings but moderate ground temperatures. Standard design with emphasis on nighttime heat retention [[coleman-season-extension-timeline-and-frost-protection]] for sensitive crops.
 
 ## Planting Strategies
 
 ### Year-Round Production
 
-In a well-functioning walipini, the growing season extends through all twelve months in most climates. Cool-season crops (lettuce, spinach, kale, radishes, peas, carrots) grow throughout winter with minimal supplementary heat. Warm-season crops (tomatoes, peppers, cucumbers, basil) benefit from the extended season and can be started 4–6 weeks earlier than outside.
-
-### Thermal Zoning
-
-The north wall receives less direct light but more stable temperatures — ideal for seedling propagation, [[mushroom-cultivation]], and storage crops. The south side near the glazing receives the most light and warmth — best for fruiting crops. Use shelving to create vertical thermal zones. Place heat-loving crops on raised beds closer to the glazing and cool-tolerant crops at floor level near the north wall.
-
-### Succession Planting
-
-Plan continuous harvests by starting new seedlings every 2–3 weeks. The stable walipini environment supports uninterrupted growth cycles that would be disrupted by outdoor temperature fluctuations. Use the north wall zone as a dedicated propagation area with heat mats and humidity domes for germination.
-
-### Common Problems
-
-**Excess humidity**: Condensation on glazing reduces light transmission by 20–40%. Ensure adequate ventilation and air circulation. A small fan running on low speed prevents stagnant air pockets.
-
-**Water infiltration**: The most common walipini failure mode. Invest heavily in drainage — a flooded walipini becomes useless. Test soil percolation before building; if drainage is poor, add a sump pump.
-
-**Soil-borne diseases**: The enclosed environment and constant moisture favor pathogen buildup. Rotate crops, practice strict sanitation, and maintain biological diversity with [[companion-planting]].
-
-## Cost and Materials
-
-A basic walipini (6 × 3 m) costs $800–3,000 in materials depending on glazing choice and wall construction. Labor-intensive excavation is the main cost for larger installations — renting a small excavator for a day ($200–400) dramatically reduces labor compared to hand-digging. Polyethylene film glazing is cheapest ($200–400) but lasts only 3–5 years. Polycarbonate panels ($400–800) last 10–15 years and provide better insulation. Tempered glass is most durable but most expensive ($1,000–2,000+). The underground nature eliminates foundation costs associated with above-ground greenhouses. A well-built walipini can produce 30–50 kg of vegetables per square meter annually, with winter production of 5–15 kg/m² depending on climate zone.
-
-## See Also
-
-- [[cold-frame-construction]] — simpler season extension technique
-- mollison-thermal-mass-passive-building — thermal mass design principles
-- [[root-cellar-design-and-construction]] — underground food storage techniques
-- [[hugelkultur-bed-construction-detailed]] — earth-bermed growing beds
+In a well-functioning walipini, [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] extends through all twelve months in most climates. Cool-season crops (lettuce, spinach, kale, radishes, peas, carrots) grow throughout winter with [[coleman-cool-house-minimal-supplementary-heat]]. Warm-season crops (tomatoes, peppers, cucumbers, basil) benefit from the extended season and can be started 4–6 weeks earlier than outside.

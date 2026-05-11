@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # PROPYNYL
 
-PIHKAL entry #143. 3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #143. 3,5-DIMETHOXY-4-(2-PROPYNYLOXY)PHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -88,16 +88,5 @@ spontaneously crystallized. The product was removed by filtration,
 washed first with an IPA/Et2O mixture, and finally with Et2O. The
 yield was 3.0 g of white needles.
 
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
 ## See Also
-
-- [[pe-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)
+- [[methyl-j-entity-pihkal]]

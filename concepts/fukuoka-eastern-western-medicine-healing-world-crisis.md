@@ -2,7 +2,7 @@
 title: "Fukuoka's Eastern vs. fukuoka eastern western medicine healing world crisis — Healing the World in Crisis"
 source: "Sowing Seeds in the Desert (2012), Chapter 3: 'Healing a World In Crisis'"
 tags:
-  - natural-farming
+  - [[natural-farming]]
   - philosophy
   - medicine
   - ecology

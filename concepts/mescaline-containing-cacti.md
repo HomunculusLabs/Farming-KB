@@ -12,10 +12,10 @@ tags: [ethnobotany, mescaline, cacti, peyote, hallucinogens, psychopharmacology,
 
 Mescaline (3,4,5-trimethoxyphenethylamine) is a naturally occurring
 phenethylamine hallucinogen found in several cactus species. The most
-famous source is the peyote cactus (Lophophora williamsii), which has
+famous source is the peyote cactus ([[lophophora-williamsii]]), which has
 been used sacramentally by [[halpern-sacramental-peyote-and-native-american-church]] peoples for thousands of years.
-Other mescaline-containing cacti, including Trichocereus pachanoi (San
-Pedro) and Trichocereus peruvianus ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), are widely available
+Other mescaline-containing cacti, including [[trichocereus-pachanoi]] (San
+Pedro) and [[trichocereus-peruvianus]] ([[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]), are widely available
 as ornamental plants throughout the [[dmt-containing-plants-united-states-halpern]] despite their psychoactive
 properties.
 
@@ -54,10 +54,10 @@ teaspoons to considerably more.
 
 Peyote is most commonly consumed as a sacrament in the all-night ceremonies
 of the Native American Church (NAC), which has approximately 300,000 members
-in the United States and Canada. The NAC is pan-tribal and the largest faith
+in the [[dmt-maoi-plants-united-states]] and Canada. The NAC is pan-tribal and the largest faith
 of Native Americans. Members are prohibited from using all drugs and alcohol
 except peyote. Ceremonies are typically held on Saturdays and holidays in a
-tipi or traditional structure, led by a priest ("Road Man") with prayer
+tipi or traditional structure, led by a priest ("[[fukuoka-road-man-does-not-live-by-bread-alone]]") with prayer
 throughout the night. Morning prayers are followed by blessed food and a
 communal feast. Attendance averages monthly, ranging from weekly to annually.
 
@@ -74,7 +74,7 @@ volume of plant material consumed.
 
 ### Trichocereus peruvianus (Peruvian Torch)
 
-Also widely available as an ornamental, with reported mescaline content
+Also widely available as an ornamental, with reported [[gottlieb-peyote-botany-and-mescaline-content]]
 ranging from 0% to 0.82% by dry weight. Like San Pedro, it is prepared by
 boiling into a soup. The extreme variability in mescaline content makes
 dose prediction unreliable.
@@ -88,48 +88,3 @@ regarding peyote possession and distribution, provided it is for traditional
 NAC ceremonial use. Non-Native Americans do not have federal exemption for
 peyote use. The ornamental Trichocereus cacti are not specifically scheduled,
 though their extraction for mescaline would constitute manufacture of a
-controlled substance.
-
-## Mescaline vs Other Classical Hallucinogens
-
-Mescaline differs from other classical hallucinogens in several important
-ways:
-
-- **Chemical class**: Mescaline is a phenethylamine, unlike psilocybin and
-  DMT (tryptamines) and LSD (an ergoline). This different chemical scaffold
-  produces distinct [[tihkal-receptor-binding-serotonin]] profiles and subjective effects.
-- **Dose range**: Mescaline requires a substantially higher dose than other
-  classical hallucinogens — hundreds of milligrams compared to micrograms for
-  LSD or tens of milligrams for psilocybin. This is because mescaline has
-  lower affinity for the 5-HT2A receptor.
-- **Duration**: The mescaline experience (8–12 hours total) is longer than
-  psilocybin (4–6 hours) but shorter than LSD (10–12 hours).
-- **Cross-tolerance**: Cross-tolerance between LSD and mescaline occurs but
-  is less robust than LSD-psilocybin cross-tolerance.
-
-## Ethnobotanical History
-
-Mescaline-containing cacti have the longest documented history of ceremonial
-use among the classical hallucinogens. Archaeological evidence from cave
-paintings and stone carvings suggests peyote use dates back at least 5,700
-years in the Rio Grande region. [[chiric-caspi-brunfelsia-south-american-hallucinogen]] cacti such as San Pedro have
-been used in Andean traditional medicine for over 3,000 years, particularly
-in Peru and Ecuador. The Huichol people of Mexico continue peyote
-pilgrimage traditions to this day.
-
-## Health Considerations
-
-Peyote has a several-thousand-year history of safe ceremonial use. Research
-on NAC members has found no evidence of neuropsychological deficits
-attributable to peyote use. The primary acute risks are nausea, vomiting,
-and the psychological challenges of the hallucinogenic experience itself.
-No deaths have been attributed to peyote intoxication. The broader mescaline-
-containing cacti carry similar risk profiles when properly identified.
-
-## See Also
-
-- [[psilocybin-containing-mushrooms-united-states]] — Another naturally
-  occurring hallucinogen class
-- [[dmt-maoi-plants-united-states]] — DMT and ayahuasca [[dmt-botanical-sources-pharmacology]]
-- [[salvia-divinorum-profile]] — Salvinorin-A and its unique mechanism
-- [[sacramental-religious-use-hallucinogenic-plants-united-states]] — Legal framework

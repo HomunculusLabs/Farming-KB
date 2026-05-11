@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli and [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]] Susceptibility in Surface Sterilization
+title: E Coli Pseudomonas Cepacia Microwave Susceptibility Surface Sterilization
 tags: [mycology, sterilization, microwave, NASA, E-coli, pseudomonas, bacterial-decontamination, surface-sterilization, gram-negative]
 created: 2026-05-09
 source: sterilizing-surfaces-by-irradiation-with-microwaves.md
@@ -88,50 +88,3 @@ through:
   disrupting membrane integrity.
 
 - **Membrane disruption**: The outer membrane of Gram-negative bacteria
-  is particularly vulnerable to thermal stress. Lipopolysaccharide
-  layers become disordered at elevated temperatures, compromising the
-  permeability barrier.
-
-- **Pressure effects**: Localized steam generation creates transient
-  pressure differentials across cell walls that can cause mechanical
-  rupture.
-
-## Why Chemical Resistance Does Not Predict Microwave Resistance
-
-An important finding implicit in the NASA data is that an organism's
-resistance to chemical disinfectants does not predict its resistance to
-microwave sterilization. *P. cepacia*, which is notably resistant to
-quaternary amines, [[cervantes-hydrogen-peroxide-sterilization]], and other chemical disinfectants,
-was readily killed by microwave exposure.
-
-This decoupling occurs because the two sterilization methods operate
-through fundamentally different mechanisms:
-
-- **Chemical disinfectants** penetrate cell envelopes and disrupt
-  specific biochemical targets (enzymes, DNA, membrane lipids). Organisms
-  with efflux pumps, biofilm matrices, or enzymatic detoxification
-  systems can resist these specific chemical attacks.
-
-- **Microwave sterilization** kills through bulk thermal effects. The
-  steam generated at the cell surface delivers thermal energy that
-  overwhelms all biochemical defenses simultaneously. No specific
-  resistance mechanism can protect against protein denaturation at
-  temperatures exceeding 100°C.
-
-## Implications for Sterilization Protocol Design
-
-The inclusion of *E. coli* and *P. cepacia* alongside *B. pumilus* in
-the NASA challenge panel ensures that the sterilization protocol is
-validated against a representative range of organism types. For
-protocol designers:
-
-- **Vegetative bacteria** like *E. coli* and *P. cepacia* are killed
-  early in the exposure cycle and do not determine the required dose.
-- **Bacterial spores** are always the rate-limiting organisms and
-  define the minimum sterilization dose.
-- **A mixed-contaminant challenge** provides more realistic validation
-  than single-organism testing, as real-world contamination is always
-  mixed.
-
-## See Also
-- [[mixed-microbial-challenge-organisms-surface-sterilization-testing]]

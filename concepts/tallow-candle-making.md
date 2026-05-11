@@ -81,42 +81,10 @@ The simplest method, suitable for small candles and emergency lighting:
 
 ## Scenting and Coloring Tallow Candles
 
-- **Essential oils**: Add 10-30 drops of essential oil per 500g of melted tallow, stirring gently. Lavender, cedar, cinnamon, clove, and pine are traditional choices. Add the oil just before pouring, as heat degrades some essential oils
-- **Natural colorants**: Add small amounts of natural materials for color. Turmeric for yellow, paprika for orange, beetroot powder for pink/red, spirulina for green, cocoa powder for brown. Use sparingly — too much colorant affects burning quality
+- **[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]**: Add 10-30 drops of essential oil per 500g of melted tallow, stirring gently. Lavender, cedar, cinnamon, clove, and pine are traditional choices. Add the oil just before pouring, as heat degrades some essential oils
+- **Natural colorants**: Add small amounts of [[building-with-natural-materials]] for color. Turmeric for yellow, paprika for orange, beetroot powder for pink/red, spirulina for green, cocoa powder for brown. Use sparingly — too much colorant affects burning quality
 - **Beeswax blend**: Adding 10-30% beeswax to tallow hardens the candle, raises the melting point, improves drip resistance, and adds a natural honey scent. This blend was historically common and produces a superior candle
 
 ## Historical Context
 
 Tallow candles were the primary source of artificial light in European households from Roman times through the 18th century. The word "candle" itself derives from the Latin "candela," and tallow chandlers (candle makers) were essential tradespeople in every town and city. In medieval Europe, tallow candles were the standard lighting for common households, while beeswax candles were reserved for churches and the wealthy due to their higher cost and cleaner burn. The advent of whale oil lamps in the 18th century and the development of paraffin wax from petroleum in the 1850s gradually displaced tallow from the lighting market. The transition from tallow to kerosene and then electric lighting represented one of the most significant quality-of-life improvements in human history, as tallow candles produced relatively dim light, considerable smoke, and a characteristic odor that today would be considered unpleasant by most people. Modern homesteaders and traditional skills practitioners have revived tallow candle making primarily for its self-sufficiency value rather than as a primary light source.
-
-## Tallow vs. Other Candle Waxes
-
-| Property | Tallow | Beeswax | Paraffin | Soy |
-|----------|--------|----------|----------|-----|
-| Source | Animal fat | Bee honeycomb | Petroleum | Soybeans |
-| Cost | Very low (free) | High | Low | Moderate |
-| Burn time | Long | Very long | Moderate | Moderate |
-| Scent | Neutral to mild | Natural honey | None | Mild |
-| Smoke | Low (proper wick) | Very low | Moderate | Low |
-| Melting point | 40-50°C | 62-65°C | 46-68°C | 46-52°C |
-| Drip resistance | Moderate | High | Low-Moderate | Low |
-| Environmental | Zero-waste | Sustainable | Petroleum | Sustainable |
-| Scent throw | Poor | Good | Excellent | Good |
-
-## Storage and Care of Tallow Candles
-
-Tallow candles require proper storage to maintain quality:
-
-- **Temperature**: Store in a cool, dry place (below 21°C / 70°F). Tallow softens at relatively low temperatures, and candles stored in warm areas may warp, bend, or develop surface bloom (a whitish crystalline layer that does not affect burning quality)
-- **Light protection**: Store away from direct sunlight, which can cause color fading and tallow oxidation. Wrap in cloth or store in opaque containers for long-term storage
-- **Pest prevention**: Tallow candles can attract rodents and insects. Store in sealed containers or hang in a cool pantry. In historical settings, candles were stored in tin candle boxes specifically designed for this purpose
-- **Wick maintenance**: Keep wicks trimmed to 6-10 mm before each use. Long wicks produce large, smoky flames that consume tallow faster and create soot deposits
-- **Burning surface**: Place tallow candles on a heat-resistant, non-flammable surface. Use a candle holder or plate to catch any drips. In drafty conditions, use a candle lantern or glass hurricane to protect the flame
-
-## Related Topics
-
-- tallow candle making
-- tallow candle making
-- [[homestead-winter-preparations]]
-- [[soap-making-guide]]
-- [[mollison-designers-cold-caves-root-cellar-storage]]

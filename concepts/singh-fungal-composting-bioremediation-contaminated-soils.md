@@ -88,38 +88,3 @@ culture. The compost environment provides favorable conditions for
 [[ligninolytic-enzyme-production-bioremediation]] by white-rot and other fungi, including adequate
 moisture, aeration, [[ph-and-nutrient-availability-garden-soils]], and the presence of lignocellulosic
 substrates that induce ligninolytic enzyme systems. These enzymes
-contribute to the degradation of diverse organic pollutants during the
-composting process.
-
-## Composting of Olive Mill Waste
-
-Aerobic bioremediation of olive mill wastewater (OMW) can produce
-high-quality compost containing a good supply of nutrients (Tomati et
-al., 1996). Biomethanation was inhibited during the [[biogas-digester-basics]]
-of OMW prefermented with P. chrysosporium at a low hydraulic loading
-rate. Biogas produced by thermally processed OMW with Pleurotus
-ostreatus was higher than that produced by raw and thermally processed
-OMW. OMW was also used as a growth medium for the production of laccase
-and [[fungal-manganese-peroxidase-remediation]] from Panus tigrinus. Solid-state fermentation
-was more suitable than [[cancer-medicinal-mushrooms-submerged-fermentation-production]] for enzyme production,
-with the highest laccase levels achieved in a stirred-tank reactor.
-
-## Advantages and Limitations
-
-Despite certain limitations, composting has proven advantages for soil
-bioremediation. The thermophilic conditions accelerate microbial
-activity, the compost matrix provides nutrients and favorable moisture
-conditions, and the process can handle large volumes of contaminated
-soil. Limitations include the need for large space requirements, the
-formation of bound residues rather than complete mineralization for some
-pollutants, and the difficulty of maintaining uniform conditions
-throughout large compost piles. The composting approach is most
-effective when combined with bioaugmentation using specific fungal
-strains and when bulking agents are optimized for the target pollutants.
-
-## See Also
-
-- [[singh-fungal-bioaugmentation-contaminated-soils]]
-- singh fungal degradation pahs
-- [[composting-science-solomon]]
-- spent mushroom compost remediation

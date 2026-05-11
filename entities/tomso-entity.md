@@ -18,7 +18,7 @@ The name TOMSO follows the pattern: TOM for the parent compound (2-methoxy-4-met
 
 TOMSO contains a sulfoxide group (S=O) at the 5-position, representing a potential oxidative metabolite of 5-TOM.
 
-The compound has two chiral centers: the alpha-carbon of the amphetamine side chain and the sulfoxide group.
+The compound has two chiral centers: the alpha-carbon of the amphetamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]] and the sulfoxide group.
 
 This means the product is a mixture of diastereoisomeric racemic compounds.
 
@@ -87,28 +87,3 @@ The ketone is oxidized with [[cervantes-hydrogen-peroxide-sterilization]] in met
 Reductive amination with ammonium acetate and sodium cyanoborohydride yields TOMSO as the free base.
 
 Caution is required during acidification of the reductive amination mixture, as highly poisonous hydrogen cyanide is evolved.
-
-## Pharmacological Context
-
-TOMSO provides evidence that sulfur oxidation may be a relevant metabolic pathway for thio-substituted psychedelic amphetamines.
-
-The sulfoxide group is a common metabolite of thioether-containing drugs, produced by cytochrome P450 enzymes.
-
-The dramatic interaction with alcohol suggests that ethanol may competitively inhibit or redirect the metabolism of TOMSO, allowing accumulation of the active species.
-
-The individual sensitivity to 5-TOM that prompted this research remains unexplained, as TOMSO itself is largely inactive without alcohol.
-
-## Harm Reduction
-
-The alcohol interaction is the primary safety concern with TOMSO.
-
-Users should be aware that combining TOMSO with alcohol can produce unexpectedly strong psychedelic effects from an otherwise inactive dose.
-
-The 10-16 hour duration, once activated by alcohol, requires planning for a full day of altered consciousness.
-
-The compound should not be combined with other substances that affect cytochrome P450 metabolism. For general harm reduction guidance, see [[phenethylamine-pharmacology]]: general pharmacology
-- dom-entity|DOM: the classic psychedelic amphetamine for comparison
-
-## See Also
-
-- [[tomso-entity-pihkal]]

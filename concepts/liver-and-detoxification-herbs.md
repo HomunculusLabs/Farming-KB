@@ -88,15 +88,3 @@ Goldenseal (Hydrastis canadensis) and Oregon grape (Mahonia aquifolium) contain 
 Kidney stones (renal calculi) are hard deposits of minerals and salts that form in the kidneys. Several herbs help prevent stone formation by modifying urine chemistry, increasing urine flow, or relaxing ureteral spasm.
 
 Chanca piedra (Phyllanthus niruri), also called "stone breaker," is the primary herb for kidney stones. Research has demonstrated its ability to inhibit [[fungal-calcium-oxalate-crystals]] crystal formation (the most common type of kidney stone), relax ureteral smooth muscle to facilitate stone passage, and reduce stone size. Chanca piedra is prepared as a tea or tincture and taken daily for stone prevention.
-
-Gravel root (Eupatorium purpureum) is a traditional kidney and urinary tract tonic whose name reflects its traditional use for gravel (small kidney stones). It contains euparin, a compound with antilithic (stone-preventing) properties. Gravel root is prepared as a decoction or tincture for long-term kidney support.
-
-Hydrangea root (Hydrangea arborescens) is used in traditional Western herbalism for kidney stones and urinary gravel. It is believed to help dissolve stones and ease their passage, though clinical evidence is limited. Hydrangea root is prepared as a decoction or tincture.
-
-Adequate hydration is the most important factor in kidney stone prevention. Herbal diuretics should be used to increase urine volume, but they must be accompanied by sufficient water intake. Two to three liters of water daily is the standard recommendation for kidney stone prevention.
-
-## Urinary Tonic and Soothing Herbs
-
-Soothing herbs reduce inflammation and irritation in the urinary tract. They are used for interstitial cystitis, chronic urethritis, and post-infection recovery.
-
-Marshmallow root (Althaea officinalis) provides soothing mucilage that coats and protects the urinary tract lining. A cold infusion of marshmallow root is the most effective preparation, as hot water makes the mucilage too gelatinous to drink comfortably. Marshmallow root reduces urinary frequency and urgency caused by bladder irritation.

@@ -11,7 +11,7 @@ updated: 2026-05-09
 sources:
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Smith, C.W. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of North America." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens [[berry-growing]]." Yale University Press.
   - Nash III, T.H. et al. (2002). "Lichen Flora of the Greater Sonoran Desert Region." Vol. 1. ASU.
 ---
 
@@ -43,11 +43,11 @@ The ascus structure is Lecanora-type, with a well-developed amyloid ring at the 
 
 Pycnidia are common, immersed in the thallus, producing bacillar conidia approximately 4 to 6 micrometers in length.
 
-Conidial production occurs throughout the growing season and provides a secondary means of vegetative propagation alongside ascospore dispersal.
+Conidial production occurs throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] and provides a secondary means of [[hamilton-vegetative-propagation]] alongside ascospore dispersal.
 
 ## Distribution and Habitat
 
-Lecanora chlarotera is widely distributed across temperate Europe and eastern North America. It extends from the British Isles and Scandinavia southward to the Mediterranean region and occurs across the Appalachian Mountains and eastern deciduous forests of North America.
+Lecanora chlarotera is widely distributed across temperate Europe and [[polypore-fungi-eastern-north-america]]. It extends from the British Isles and Scandinavia southward to the Mediterranean region and occurs across the Appalachian Mountains and eastern deciduous forests of North America.
 
 Scattered populations have been reported from the Pacific Northwest of North America, but the species is far less common west of the continental divide.
 
@@ -69,7 +69,7 @@ Lecanora chlarotera contains atranorin and zeorin as its primary cortical and me
 
 The presence of atranorin in both cortex and medulla is typical of the Lecanora subfusca group. Thin-layer chromatography profiles are used to separate Lecanora chlarotera from morphologically overlapping taxa that produce additional secondary metabolites.
 
-Chemical analysis has become increasingly important for species delimitation within Lecanora, as many species are morphologically cryptic and separable only by their metabolite profiles.
+[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] has become increasingly important for species delimitation within Lecanora, as many species are morphologically cryptic and separable only by their metabolite profiles.
 
 Usnic acid is absent, which helps differentiate Lecanora chlarotera from yellow-green Lecanora species in the L. subaurifera group.
 
@@ -88,34 +88,3 @@ As an early colonizer, Lecanora chlarotera modifies bark pH and moisture retenti
 The species provides microhabitat for bark-dwelling invertebrates and can serve as a substrate for the establishment of other crustose lichens. Its persistent thallus modifies bark surface chemistry over time.
 
 The crustose growth strategy of Lecanora chlarotera allows it to persist on bark that experiences periodic shedding, as it can regenerate from surviving thallus fragments.
-
-Lecanora chlarotera often co-occurs with Lecanora conizaeoides on pollution-tolerant bark communities and with Physcia and Xanthoria species on nutrient-enriched substrates.
-
-In old-growth forests, Lecanora chlarotera is typically found on the lower trunks of canopy trees, while more shade-tolerant crustose species dominate the upper canopy and shaded understory boles.
-
-## Similar Species
-
-Lecanora carpinea is the most similar species, but it has a smoother, non-mealy thalline margin and produces usnic acid, giving it a yellow-green tinge. The mealy margin of Lecanora chlarotera is a reliable field character.
-
-The two species frequently co-occur on the same tree trunks, making the margin texture an essential character for accurate field identification.
-
-Lecanora chlarotera also resembles Lecanora albescens, which has a more thickly developed thallus and different spore dimensions. Lecanora symmicta overlaps in range but produces additional depsidones detectable by chromatography.
-
-Molecular phylogenetic studies have confirmed that Lecanora chlarotera belongs to a well-supported clade within the Lecanora subfusca group, distinct from the clades containing Lecanora albescens and Lecanora symmicta.
-
-Lecanora conizaeoides lacks a well-developed thalline margin entirely and has a more reduced thallus. The two species frequently grow together on the same tree trunks.
-
-Despite their ecological overlap, Lecanora conizaeoides is more pollution-tolerant and has declined less dramatically than Lecanora chlarotera in areas experiencing reduced sulfur dioxide emissions.
-
-## See Also
-
-- [[lecanora-conizaeoides]]
-- [[lecanora-muralis]]
-- [[physcia-stellaris]]
-- [[physcia-aipolia]]
-- [[xanthoria-parietina]]
-- [[hypogymnia-physodes]]
-- [[evernia-prunastri]]
-- [[flavoparmelia-caperata]]
-- [[ramalina-fraxinea]]
-- [[xanthoria-polycarpa]]

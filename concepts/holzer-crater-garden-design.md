@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md
 type: concept
 ---
@@ -87,10 +88,3 @@ above sea level, such microclimate-enhancing designs are critical for
 successful crop production.
 
 ## Practical Considerations
-
-When planning a crater garden, it is important to consider the direction of
-the prevailing wind and the course of the sun. The [[permaculture-farm-design-principles]]
-by transforming flat, featureless land into a diverse growing environment. It
-uses [[permaculture-farm-design-principles]] by working
-with natural patterns of water flow and microclimate rather than fighting
-against them.

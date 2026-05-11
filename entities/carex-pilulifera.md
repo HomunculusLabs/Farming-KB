@@ -23,7 +23,7 @@ sources:
 
 Carex pilulifera, commonly known as the pill sedge, is a perennial herbaceous sedge in the family Cyperaceae. It is native to Europe and western Asia, where it occurs in acidic heathlands, dry grasslands, and open woodland margins.
 
-The species epithet pilulifera means "bearing pills" and refers to the distinctive globose female flower clusters. Pill sedge is a characteristic species of Nardus stricta grasslands and Calluna vulgaris heathland communities across its range.
+The species epithet pilulifera means "bearing pills" and refers to the distinctive globose female flower clusters. Pill sedge is a characteristic species of Nardus stricta grasslands and [[calluna-vulgaris]] heathland communities across its range.
 
 ## Taxonomy and Morphology
 
@@ -53,7 +53,7 @@ It is a characteristic component of Nardus stricta grasslands, a priority habita
 
 In Scandinavia, the species extends north to approximately 65 degrees north latitude, becoming restricted to coastal and lowland sites in its northern range. In the Mediterranean region, it is confined to mountainous areas with sufficient moisture.
 
-Altitudinal range spans from sea level to approximately 1,200 metres in the Alps and Carpathians. At higher elevations, it is often associated with alpine meadow communities containing Nardus stricta and Festuca ovina.
+Altitudinal range spans from sea level to approximately 1,200 metres in the Alps and Carpathians. At higher elevations, it is often associated with alpine meadow communities containing Nardus stricta and [[festuca-ovina]].
 
 The species tolerates moderate grazing and benefits from periodic disturbance that prevents competitive dominance by coarser grasses. It declines under heavy fertilisation or cultivation.
 
@@ -65,11 +65,11 @@ Pill sedge provides a modest forage resource for grazing mammals, though its pal
 
 The seeds are dispersed locally by wind and rain splash. The globose female spikes aid in short-distance seed distribution, though long-range dispersal is limited.
 
-Carex pilulifera is a mycorrhizal associate, forming relationships with arbuscular mycorrhizal fungi that enhance nutrient uptake in its typically nutrient-poor habitats.
+Carex pilulifera is a mycorrhizal associate, forming relationships with [[arbuscular-mycorrhizal-fungi]] that enhance nutrient uptake in its typically nutrient-poor habitats.
 
-It serves as a larval food plant for several moth species, including the Dingy Shears and possibly the Fox Moth. The tussock structure provides overwintering shelter for ground beetles and spiders.
+It serves as a larval food plant for several moth species, including the Dingy Shears and possibly the Fox Moth. The tussock structure provides overwintering shelter for [[ground-beetles-carabidae-and-biological-pest-control]] and spiders.
 
-The species is an indicator of relatively undisturbed acidic grassland and heathland ecosystems. Its presence often signals low soil fertility and limited agricultural improvement.
+The species is an indicator of relatively undisturbed acidic grassland and [[ericoid-mycorrhiza-heathland-ecosystems]]. Its presence often signals low soil fertility and limited agricultural improvement.
 
 Phenologically, pill sedge flowers from April through June across most of its range. Male anthesis precedes female receptivity by a few days, promoting outcrossing.
 
@@ -79,7 +79,7 @@ The root system is fibrous and shallow, concentrated in the upper 10 centimetres
 
 ## Cultivation and Uses
 
-Carex pilulifera is occasionally cultivated in specialist wildflower meadows and ecological restoration projects. It is not widely available in the commercial horticultural trade.
+Carex pilulifera is occasionally cultivated in specialist wildflower meadows and [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]] projects. It is not widely available in the commercial horticultural trade.
 
 Propagation is primarily by seed, which requires a period of cold stratification to break dormancy. Seed germination rates are moderate under optimal conditions.
 
@@ -88,32 +88,3 @@ The species is valued in habitat restoration for its role in recreating species-
 Traditional uses are limited. Some sources note that sedges were historically used for thatching and basket-making, though Carex pilulifera is too small-statured to have been a significant resource for these purposes.
 
 It has no known pharmacological properties and is not used in herbal medicine. The plant is generally considered of negligible economic importance.
-
-In some regions, pill sedge is used as a minor component of wildflower turf mixes for green roofing projects. Its low stature and drought tolerance make it suitable for shallow substrate depths.
-
-## Related Species
-
-Carex pilulifera is most closely related to Carex echinata and Carex demissa within section Acutae. It can be distinguished from Carex echinata by its more globose female spikes and darker glumes.
-
-It is frequently found growing alongside Carex nigra, Carex pilulifera, and Carex binervis in acidic grassland communities. The combination of these species is characteristic of upland Nardetalia associations.
-
-Compared to Carex flacca, pill sedge occupies wetter and more acidic sites. Carex flacca prefers calcareous or neutral soils and has a creeping rhizome rather than a tussock-forming habit.
-
-Carex paniculata is a much larger species found in wetlands and fens, with elongated paniculate inflorescences that readily distinguish it from the compact pill sedge.
-
-Carex bigelowii is an arctic-alpine species with a creeping rhizome, found on mountain ledges and tundra. It differs from pill sedge in its prostrate growth form and single terminal female spike.
-
-In the field, pill sedge is most reliably identified by the combination of globose female spikes on short erect peduncles, dark brown glumes, and its preference for acidic soils. Hybridisation with closely related Carex species is known but uncommon.
-
-## See Also
-
-- [[carex-hirta]]
-- [[carex-flacca]]
-- [[carex-nigra]]
-- [[carex-paniculata]]
-- [[carex-arenaria]]
-- [[carex-sylvatica]]
-- [[carex-montana]]
-- [[carex-stricta]]
-- [[carex-bigelowii]]
-- [[juncus-effusus]]

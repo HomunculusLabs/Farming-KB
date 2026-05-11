@@ -88,10 +88,3 @@ Cordyceps and other [[singh-entomopathogenic-fungi-biocontrol-agents]] play impo
 In tropical forests, they are among the most significant natural controls on ant and other arthropod populations.
 
 Some species are so effective at killing specific pest insects that they have been investigated as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents for agriculture.
-
-The fungus [[fungal-melanin-and-pathogenicity]] — Other fungal pathogenicity mechanisms
-- [[stinkhorn-reproduction-and-spore-dispersal]] — Contrast with non-parasitic dispersal strategies
-
-## See Also
-
-- [[onygenales-keratinophilic-systemic-pathogenic-fungi]]

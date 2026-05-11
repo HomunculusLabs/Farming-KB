@@ -1,10 +1,11 @@
 ---
-title: Azurescens azurescens spawn preparation grain to wood — Grain to Wood Transfer
+title: Azurescens Spawn Preparation Grain To Wood
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cultivation, mycology, spawn]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - growing-psilocybe-azurescens
   - growing-the-woodlovers-outdoors
 ---
@@ -14,10 +15,10 @@ Producing reliable spawn for [[stamets-psi-psilocybe-azurescens-species-guide]] 
 
 ## Why Wood Chip Spawn Over Direct Grain
 
-Using colonized grain to directly inoculate outdoor beds is possible but not recommended:
+Using colonized grain to directly inoculate [[holzer-mushroom-cultivation-outdoor-beds]] is possible but not recommended:
 
 - **Pest attraction**: Grain attracts bugs and rodents, which consume the nutritious kernels
-- **Contamination risk**: Grain is more susceptible to contamination in outdoor environments than properly prepared wood chip spawn
+- **[[fungicide-treated-seed-contamination-risk-mushroom-substrate]]**: Grain is more susceptible to contamination in outdoor environments than properly prepared wood chip spawn
 - **Substrate mismatch**: Wood chip spawn provides a more natural transition to the [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip bed
 - **Colonization advantage**: Mycelium already adapted to wood substrate colonizes outdoor beds faster
 
@@ -44,7 +45,7 @@ Using colonized grain to directly inoculate outdoor beds is possible but not rec
 6. Spores germinate within a few days; visible cottony white mycelium in about three weeks
 
 ### Strain Isolation
-1. Transfer small pieces of white mycelium to fresh agar plates
+1. Transfer small pieces of white mycelium to fresh [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
 2. Prefer thick, filamentous **rhizomorphic** growth over cottony growth
 3. May need several successive transfers to obtain a truly clean culture
 4. Allow one day for recovery on new agar before assessing growth
@@ -70,7 +71,7 @@ Two container options:
 - Soak chips in water for **48 hours**, then drain
 - Optional supplement: 1/2 cup oatmeal or boiled grass seed per bag
 - Fill autoclavable bags
-- Place rack in pressure cooker to prevent bags from blocking vent
+- Place rack in [[double-layer-tinfoil-jar-covering-pressure-cooker-method]] to prevent bags from blocking vent
 - Sterilize at 121C for **3 full hours** — do not cut corners
 - Cool in [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet
 
@@ -79,7 +80,7 @@ Two container options:
 **From agar wedges (jar method)**:
 1. Inoculate cooled jars with several pieces of agar culture or existing wood spawn
 2. Shake jars to distribute agar pieces throughout the chips
-3. Unscrew caps slightly for gas exchange; cover with tin foil
+3. Unscrew caps slightly for [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]; cover with tin foil
 4. Incubate — growth visible within a few days
 5. Shake again after a few days to accelerate expansion
 
@@ -87,36 +88,3 @@ Two container options:
 1. Open cooled bags in flow cabinet (touch only the outside)
 2. Pour colonized grain spawn into each bag
 3. Seal with impulse sealer; test seal for leaks
-4. Label with strain and date
-5. Shake to distribute spawn evenly
-6. Incubate at **20C for 3-4 weeks**
-
-### Assessing Readiness
-
-Spawn is ready when:
-- Completely colonized with white mycelium
-- Wood and mycelium form a **compact white mass**
-- Breaking it up releases a **characteristic mushroom odor**
-- No visible contamination (discoloration, unusual textures, off-smells)
-
-## Contamination Management
-
-- **Never use contaminated cultures to inoculate new substrate**
-- A jar or bag with light contamination can be salvaged: place outdoors in a half-shaded location and check in autumn for mushrooms
-- Even discarded contaminated spawn (as little as 0.3 liters) near a [[mushroom-cultivator-compost-pile-management]] has produced mushrooms
-- Bags carry higher contamination risk than jars; jars are preferred when possible
-
-## Spawn Expansion Math
-
-The system allows exponential expansion:
-- Agar plate → 1 jar/bag of wood chip spawn
-- 1 colonized jar → multiple new jars
-- Each generation multiplies the spawn volume
-- Final spawn volume of 1+ liters is sufficient for a small outdoor bed
-
-## See Also
-
-- [[chen-maitake-strain-selection-spawn-preparation]]
-
-- [[azurescens-outdoor-bed-preparation-woodchips]] — using spawn to build outdoor beds
-- [[laminar-flow-hood-guide]] — [[cultivator-sterile-technique-and-agar-culture]] equipment

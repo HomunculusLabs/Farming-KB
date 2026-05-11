@@ -88,38 +88,3 @@ In group ceremonies, the shaman manages the [[set-and-setting]] for all particip
 The shaman's songs—known as icaros in the Amazonian tradition—are believed to have power in themselves, structuring the experience and communicating with the spirits.
 
 The role of the shaman as guide parallels the role of the therapist in modern psychedelic therapy, where the clinician provides preparation, support, and integration for the patient.
-
-Metzner argues that the modern psychedelic therapist can learn from the shamanic model, particularly in the areas of ceremonial structure, the management of non-ordinary states, and the integration of the experience into everyday life.
-
-## Parallels with Modern Psychotherapy
-
-Metzner identifies deep structural parallels between the shamanic journey and modern psychotherapeutic approaches to altered states of consciousness.
-
-Both the shamanic journey and psychedelic therapy involve a deliberate induction of non-ordinary consciousness, a structured encounter with the contents of the altered state, and a guided return to ordinary awareness.
-
-Both traditions recognize the importance of preparation, the management of set and setting, and the integration of the experience into the framework of everyday life.
-
-Both traditions view the altered state not as an end in itself but as a means of accessing information and producing transformation that benefits the individual and the community.
-
-The primary difference is that the shamanic tradition operates within a cosmological framework that includes spirits, non-ordinary worlds, and divine beings, while modern psychotherapy typically operates within a psychological framework that attributes the experience to unconscious processes.
-
-Metzner suggests that these frameworks are not mutually exclusive and that the most effective approach to the therapeutic use of altered states may incorporate elements of both.
-
-## Cross-Cultural Consistency
-
-One of the most striking features of the shamanic journey is its consistency across cultures that have had no contact with one another.
-
-The three-world cosmology, the departure-encounter-return structure, the role of the guide, and the use of psychoactive plants are found in shamanic traditions from Siberia to the Amazon to Southern Africa.
-
-This consistency is difficult to explain as a result of cultural diffusion, given the geographical isolation of many of these traditions.
-
-Metzner suggests that the consistency reflects a universal feature of human consciousness: the capacity to access non-ordinary states of consciousness through specific techniques, and the tendency of those states to exhibit certain consistent phenomenological features.
-
-The cross-cultural consistency of the shamanic journey is one of the strongest arguments for the reality of the non-ordinary worlds described by shamans, as it suggests that these worlds are not cultural inventions but genuine dimensions of experience accessible to all human beings.
-
-The universality of the shamanic journey also supports the therapeutic potential of psychedelic-assisted psychotherapy, as it suggests that the states accessed by these substances are not pathological but are part of the natural range of human consciousness.
-
-## See Also
-- [[set-and-setting-psychedelic-therapy-framework]]
-- [[psychedelic-integration-practices]]
-- [[metzner-neoshamanic-medicine-circles-structure-and-practice]]

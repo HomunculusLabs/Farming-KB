@@ -11,19 +11,21 @@ sources: []
 
 ## Overview
 
-The growing global interest in psychede [[gaian-psychotherapy-and-entheogenic-plants]] enic plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga, San Ped [[jadam-i-and-others-are-one]] hers — raises profound ethical questions about cultural [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] appropriation, ecological sustainability, indigenous rights, intellectual proper [[psilocybin-and-the-logos]] the responsibilities [[ayahuasca-tourism-practitioners-and-safety-considerations]] and participants. This page examines these issues and proposes frameworks for ethical engagement.
+The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]], peyote, iboga, San Pedro, and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
 
 ## Cultural Appropriation vs. Cultural Appreciation
 
-### The Problem [[psychedelic-plant-sources]] c plant medicines are sacred [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] to indigenous communities who have used them for centuries or millennia:
+### The Problem
 
-- Ayahuasca: Indigenous [[yakuruna-water-spirits-of-the-amazon]] e Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
-- Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
+Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
+
+- Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
+- Peyote: [[halpern-sacramental-peyote-and-native-american-church]] members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
 - Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
-- San Pedro (Echinopsis pachanoi): Andean indigenous traditions
+- San Pedro ([[echinopsis-pachanoi]]): Andean [[sacred-mushroom-use-mexico-teonanacatl-indigenous-traditions]]
 
-When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of cultural [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] context, several harms occur:
+When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of [[ayahuasca-pharmacology-and-cultural-context]], several harms occur:
 
 - Erasure of indigenous contributions and intellectual traditions
 - Economic exploitation — practitioners profit from knowledge that originated with indigenous peoples
@@ -45,9 +47,9 @@ Distinguish appropriation from appreciation:
 
 ### Peyote Crisis
 
-Lophophora williamsii (peyote) is experiencing severe population decline:
+[[lophophora-williamsii]] (peyote) is experiencing severe population decline:
 
-- Overharvesting driven by both Native American Church use and recreational/neo-shamanic demand
+- Overharvesting driven by both [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]] use and recreational/neo-shamanic demand
 - Slow growth rate: peyote takes 10-30 years to reach maturity in the wild
 - Habitat destruction from agriculture and development in South Texas and northern Mexico
 - Illegal harvesting (poaching) from protected lands
@@ -55,7 +57,7 @@ Lophophora williamsii (peyote) is experiencing severe population decline:
 
 ### Ayahuasca Supply Chain
 
-- Chacruna (Psychotria viridis) and ayahuasca vine (Banisteriopsis caapi) are increasingly harvested from wild populations
+- Chacruna ([[chacruna-psychotria-viridis]]) and ayahuasca vine (Banisteriopsis caapi) are increasingly harvested from wild populations
 - Commercial cultivation exists but wild harvesting continues due to demand
 - Deforestation in the Amazon threatens the long-term viability of wild sources
 - Some retreat centers harvest unsustainably to meet tourist demand
@@ -90,7 +92,7 @@ Indigenous communities have the right to:
 
 Historical and ongoing issues:
 
-- Pharmaceutical companies have patented compounds derived from indigenous knowledge without compensation
+- Pharmaceutical companies have patented compounds derived from [[psilocybin-chemistry-stability-indigenous-knowledge]] without compensation
 - Ayahuasca-related patents have been filed (some successfully challenged)
 - Traditional knowledge is treated as "public domain" while corporate innovations are protected
 
@@ -136,7 +138,7 @@ Practical approaches to economic justice:
 
 The facilitator-participant relationship involves inherent power asymmetry:
 
-- Facilitators hold authority during altered states of consciousness
+- Facilitators hold authority during altered [[mckenna-food-gods-designer-states-of-consciousness]]
 - Participants are in vulnerable, suggestible states
 - This dynamic has been exploited in cases of sexual abuse, financial exploitation, and spiritual manipulation
 

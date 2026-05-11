@@ -9,7 +9,7 @@ sources: []
 
 # Winter Gardening Techniques
 
-Winter gardening extends the growing season into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
+Winter gardening extends [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
 
 ## Cold Frames
 
@@ -38,7 +38,7 @@ A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, o
 
 ## Row Covers
 
-Row covers are lightweight, spun-bonded polyester or polypropylene fabrics draped directly over plants or supported by hoops. They provide 2-8°F of frost protection depending on weight.
+Row covers are lightweight, spun-bonded polyester or polypropylene fabrics draped directly over plants or supported by hoops. They provide 2-8°F of [[cervantes-microclimate-frost-protection]] depending on weight.
 
 ### Row Cover Weights
 
@@ -63,17 +63,17 @@ Row covers are lightweight, spun-bonded polyester or polypropylene fabrics drape
 - Row covers are most effective for low-growing crops (greens, root vegetables, strawberries)
 - Combined with mulch, row covers can provide significant winter protection
 - Row covers also exclude insect pests — useful for flea beetles on brassicas and cabbage maggots on root crops
-- See [[insectary-plantings]] and [[trap-cropping]] for integrated pest management
+- See [[insectary-plantings]] and [[trap-cropping]] for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
 
 ## Low Tunnels
 
-Low tunnels are small hoop houses — metal or PVC hoops covered with polyethylene plastic or row cover fabric. They provide more protection than row covers alone and can be used for extended winter production.
+Low tunnels are small hoop houses — metal or PVC hoops covered with polyethylene plastic or row cover fabric. They provide more protection than row covers alone and can be used for extended [[coleman-beet-greens-cold-house-winter-production]].
 
 ### Construction
 
 - **Hoop spacing**: 4-5 feet apart
 - **Hoop height**: 2-3 feet at center
-- **Covering**: 4-6 mil greenhouse plastic for winter, row cover fabric for spring/fall
+- **Covering**: 4-6 mil [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]] for winter, row cover fabric for spring/fall
 - **End walls**: Close ends with plastic sheeting or row cover fabric, secured with sandbags or stakes
 - **Ventilation**: Roll up sides on warm days, or use automatic vent openers
 
@@ -147,4 +147,3 @@ Mulch is the simplest winter protection. A deep layer of organic mulch insulates
 | March | Begin removing protection; direct seed spring crops |
 
 ### Zone-Specific Strategies
-

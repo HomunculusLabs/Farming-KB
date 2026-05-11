@@ -1,5 +1,5 @@
 ---
-title: singh fungal transformation metals metalloids of Metals and Metalloids
+title: Singh Fungal Transformation Metals Metalloids
 created: 2026-04-26
 tags: [fungal-transformation, metals, metalloids, reduction, methylation, bioremediation]
 date: 2026-04-25
@@ -24,13 +24,13 @@ methylation, and dealkylation of metals. Certain species of Penicillium
 are known to remove iron from alloys (Siegel et al., 1990). Fungi can
 solubilize at least one toxic metal compound including ZnO, Co3(PO4)2,
 and Zn3(PO4)2, with approximately 10% of soil fungi solubilizing all
-three (Sayer et al., 1995). In Penicillium simplicissimum, zinc
+three (Sayer et al., 1995). In [[penicillium-simplicissimum]], zinc
 adsorption is accompanied by citric [[staycare-fungal-organic-acid-production-metal-leaching]] (Franz et al., 1991).
 
 ## Reduction Reactions
 
-Aureobasidium pullulans reduces Ag(I) to Ag(0) (Kierans et al., 1991).
-Saccharomyces cerevisiae mediates the reduction of Fe(III) to Fe(II)
+[[aureobasidium-pullulans]] reduces Ag(I) to Ag(0) (Kierans et al., 1991).
+[[saccharomyces-cerevisiae]] mediates the reduction of Fe(III) to Fe(II)
 through both reductive and nonreductive pathways (Lesuisse and Labbe,
 1989). Fusarium species reduce Se(IV) or Se(VI) to Se(0) (Gharieb et
 al., 1995) and Te(II) to Te(0) (Gharieb et al., 1999). [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]
@@ -39,7 +39,7 @@ Schizosaccharomyces pombe reduce Te(IV) or Te(VI) to Te(0) (Smith, 1974).
 
 ## Silver Nanoparticle Biosynthesis
 
-Fusarium oxysporum reduces silver ions in solution, forming stable silver
+[[fusarium-oxysporum]] reduces silver ions in solution, forming stable silver
 hydrosol (Ahmad et al., 2003). Silver nanoparticles of 5 to 15 nm are
 stabilized by fungal proteins. The reduction of silver ions appears to
 occur through an enzymatic process, demonstrating the potential of fungi
@@ -51,7 +51,7 @@ accumulation (Pighi et al., 1989).
 ## Methylation of Metalloids
 
 Methylation represents a critical detoxification pathway for certain
-metalloids. Alternaria alternata causes volatilization of substantial
+metalloids. [[alternaria-alternata]] causes volatilization of substantial
 amounts of selenium to the dimethylselenide form (Thompson-Eagle et al.,
 1991). Several fungal species (Candida humicola, Gliocladium roseum,
 and Penicillium sp.) methylate arsenic compounds including arsenate
@@ -88,22 +88,3 @@ organomercury compounds, which are among the most toxic environmental
 contaminants. The ability to convert organically bound mercury to
 elemental mercury, which can then volatilize, provides a complete
 detoxification route.
-
-## Metal Solubilization and Leaching
-
-The cultural filtrate of Aspergillus niger can render soluble 18% Cu,
-7% Ni, and 4% Co from metal-bearing substrates, with these amounts
-enhanced by HCl addition (Sukla et al., 1992). Fe(III) can be
-solubilized by the low-molecular-weight chelating compound ferrichrome.
-Penicillium janthinellum F-13 reduces Al toxicity, though tolerance of
-high external Al concentrations appears to involve different mechanisms
-(Zhang et al., 2002).
-
-## See Also
-
-- [[singh-fungal-biosorbents-mycosorption-mechanisms]]
-- [[singh-chromium-bioremediation-fungi]]
-- fungal-biosorption-desorption-regeneration
-- [[alternaria-alternata]]
-- [[penicillium-simplicissimum]]
-- [[gliocladium-roseum]]

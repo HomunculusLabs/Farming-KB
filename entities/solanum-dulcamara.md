@@ -14,7 +14,7 @@ sources:
   - Schilling, E.E. (1981). "Systematics of Solanum section Dulcamara." Systematic Botany Monographs, 3, 1-156.
   - Cipollini, D.F. & Levey, D.J. (1997). "Why are some fruits toxic?" Ecology, 78(6), 1802-1812.
   - Milne, S. (2009). "Bittersweet: The Story of Sugar." Penguin.
-  - Wink, M. (2010). "Chemistry and pharmacology of Solanaceae alkaloids." In: "Annual Plant Reviews Volume 43: Biology and Chemistry." Wiley-Blackwell.
+  - Wink, M. (2010). "[[amanita-muscaria-chemistry-and-pharmacology]] of Solanaceae alkaloids." In: "Annual Plant Reviews Volume 43: Biology and Chemistry." Wiley-Blackwell.
   - Dauncey, E.A. & Shufflebottom, J. (2018). "Solanaceae poisoning in livestock." Veterinary Record, 182(12), 361.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 ## Overview
 
-**Solanum dulcamara** is a perennial, woody-climbing vine in the family Solanaceae, commonly known as bittersweet nightshade, woody nightshade, or climbing nightshade. It is native to Europe and Asia and has become widely naturalized across North America.
+**Solanum dulcamara** is a perennial, woody-climbing vine in the family Solanaceae, commonly known as bittersweet nightshade, woody nightshade, or climbing nightshade. It is native to Europe and Asia and has become widely naturalized across [[guzman-psilocybin-mushrooms-north-america]].
 
 The species is recognized by its purple flowers with reflexed petals and bright red, ovoid berries that are toxic to humans and livestock. The common name "bittersweet" refers to the distinctive taste of the stem, which is bitter at first but becomes sweet when chewed.
 
@@ -42,11 +42,11 @@ Flowers are produced in pendant cymes of 3–20 flowers. Individual flowers are 
 
 The fruit is an ovoid to ellipsoid berry, 8–12 mm long, ripening from green to bright glossy red. Each berry contains 20–60 flat, disc-shaped seeds approximately 2–3 mm in diameter. The berries remain on the plant through winter in mild climates.
 
-Flowering occurs from June through September in temperate regions. The flowers are protandrous, with anthers dehiscing before the stigma becomes receptive, promoting cross-pollination. Bumblebees are the primary pollinators, attracted by the nectar produced at the base of the ovary.
+Flowering occurs from June through September in [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]]. The flowers are protandrous, with anthers dehiscing before the stigma becomes receptive, promoting cross-pollination. Bumblebees are the primary pollinators, attracted by the nectar produced at the base of the ovary.
 
 ## Distribution and Habitat
 
-Solanum dulcamara is native to Europe, North Africa, and temperate Asia, ranging from the British Isles eastward to Japan. It has been widely introduced in North America, where it is now established across much of the United States and southern Canada.
+Solanum dulcamara is native to Europe, North Africa, and temperate Asia, ranging from the British Isles eastward to Japan. It has been widely introduced in [[berry-growing]], where it is now established across much of the [[dmt-containing-plants-united-states-halpern]] and southern Canada.
 
 The species is highly adaptable and occupies a broad range of moist habitats. It is common along stream banks, lake shores, wetland margins, forest edges, hedgerows, and disturbed areas. It tolerates both full sun and moderate shade.
 
@@ -54,17 +54,17 @@ In North America, Solanum dulcamara is considered invasive in several states and
 
 The plant is cold-hardy and survives winter temperatures to approximately minus 30 degrees Celsius. It regrows vigorously from the woody rootstock each spring, and stem fragments can root where they contact moist soil, contributing to vegetative spread.
 
-Seed germination is stimulated by stratification and passage through avian digestive tracts. Seeds remain viable in soil for 2–5 years, forming a persistent seed bank that allows the species to re-establish after disturbance events such as flooding or vegetation clearance.
+[[cannabis-seed-germination]] is stimulated by stratification and passage through avian digestive tracts. Seeds remain viable in soil for 2–5 years, forming a persistent seed bank that allows the species to re-establish after disturbance events such as flooding or vegetation clearance.
 
 ## Cultivation and Uses
 
-Solanum dulcamara has a long history of use in European traditional medicine dating back to Dioscorides and Pliny the Elder. Preparations from the aerial parts were used to treat skin conditions, rheumatism, respiratory ailments, and digestive complaints.
+Solanum dulcamara has a long history of use in European traditional medicine dating back to Dioscorides and Pliny the Elder. Preparations from the aerial parts were used to treat [[cannabis-for-skin-conditions-detailed]], rheumatism, respiratory ailments, and digestive complaints.
 
 The dried stems and leaves were historically prepared as decoctions, tinctures, and poultices. The plant was a component of the medieval "theriac" complex remedies and was included in many early pharmacopoeias across Europe. Use has declined in modern herbal practice due to toxicity concerns.
 
 The homeopathic preparation "Dulcamara" is still produced from the fresh green stems and leaves. It is traditionally indicated for conditions aggravated by cold, damp weather, including respiratory infections, rheumatic complaints, and skin eruptions. Clinical evidence supporting these indications is limited.
 
-Modern phytochemical research has investigated the glycoalkaloid fraction for potential pharmaceutical applications. Solasodine, a steroidal alkaloid found in Solanum dulcamara, serves as a precursor for synthetic corticosteroid production and has shown cytotoxic activity against certain cancer cell lines in vitro.
+Modern phytochemical research has investigated the glycoalkaloid fraction for potential pharmaceutical applications. Solasodine, a steroidal alkaloid found in Solanum dulcamara, serves as a precursor for synthetic corticosteroid production and has shown cytotoxic activity against certain [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines in vitro.
 
 The species is occasionally grown as an ornamental vine for its attractive flowers and berries. However, the bright red fruit poses a poisoning risk to children, and the plant is generally discouraged in gardens frequented by young children or pets.
 
@@ -78,7 +78,7 @@ Glycoalkaloids exert their toxicity by disrupting cell membranes. They intercala
 
 Symptoms of poisoning include gastrointestinal distress (nausea, vomiting, abdominal pain), headache, dizziness, and in severe cases, neurological symptoms including hallucinations and paralysis. Fatalities are rare in adults but have been reported in children who consumed the attractive red berries.
 
-Antimicrobial studies have demonstrated activity against various bacteria and fungi, including Staphylococcus aureus and Candida albicans. Anti-inflammatory effects have been observed in animal models, though these have not translated to validated clinical applications.
+Antimicrobial studies have demonstrated activity against various bacteria and fungi, including [[staphylococcus-aureus]] and [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]. Anti-inflammatory effects have been observed in animal models, though these have not translated to validated clinical applications.
 
 ## Ecological Role
 
@@ -86,23 +86,4 @@ Solanum dulcamara serves as a food source for several insect herbivores that hav
 
 The berries are consumed by some bird species, particularly thrushes and blackbirds, which disperse the seeds through their droppings. Mammalian herbivores generally avoid the plant due to its bitter taste, though livestock poisoning has been documented when other forage is scarce.
 
-The species plays a notable ecological role as a reservoir host for the potato late blight pathogen Phytophthora infestans. Research has demonstrated that Solanum dulcamara can harbor P. infestans in riparian habitats, contributing to the epidemiology of this devastating crop disease.
-
-This reservoir host capacity has significant agricultural implications. P. infestans can overwinter in Solanum dulcamara growing along waterways near potato fields, then spread to potato crops during the growing season. Management strategies include removing Solanum dulcamara from field margins in potato-producing regions.
-
-Research conducted in the Netherlands demonstrated that P. infestans populations in Solanum dulcamara along irrigation ditches were genetically diverse and included both old and new genotypes of the pathogen. This finding has implications for disease forecasting and resistance management in commercial potato production.
-
-The species also contributes to riparian ecosystem stability by providing cover and food for wildlife along waterways. Its dense growth habit helps stabilize stream banks, though this same characteristic enables it to outcompete native riparian vegetation in invaded areas.
-
-## See Also
-
-- [[solanum-nigrum]]
-- [[solanum-lycopersicum]]
-- [[atropa-belladonna]]
-- [[datura-stramonium]]
-- [[solanum-tuberosum]]
-- [[hyoscyamus-niger]]
-- [[capsicum-annuum]]
-- [[withania-somnifera]]
-- [[lycium-barbarum]]
-- [[nicotiana-tabacum]]
+The species plays a notable ecological role as a reservoir host for the potato late blight pathogen [[bloomfield-potato-blight-phytophthora-infestans]]. Research has demonstrated that Solanum dulcamara can harbor P. infestans in riparian habitats, contributing to the epidemiology of this devastating [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]].

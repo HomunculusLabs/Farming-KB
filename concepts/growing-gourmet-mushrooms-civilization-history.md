@@ -88,37 +88,3 @@ intense study.
 One of Wasson's most provocative findings appears in Soma:
 Divine Mushroom of Immortality (1976), where he postulated
 that the mysterious SOMA in Vedic literature, a red fruit
-leading to spontaneous enlightenment, was actually a
-mushroom: [[allegro-amanita-muscaria-properties-and-pharmacology]], the hallucinogenic Fly Agaric.
-Many cultures portray Amanita muscaria as the archetypal
-mushroom. Although some Vedic scholars disagree, Wasson's
-exhaustive research still stands as a compelling theory.
-
-## Mycophobia and Mycophilia
-
-Fear of [[european-mushroom-poisoning-history]] pervades every culture, sometimes
-reaching phobic extremes. The term mycophobic describes those
-individuals and cultures where fungi are looked upon with
-fear and loathing. Mycophobic cultures are epitomized by the
-English and Irish.
-
-In contrast, mycophilic societies can be found throughout
-Asia and eastern Europe, especially amongst Polish, Russian,
-and Italian peoples. These societies have enjoyed a long
-history of mushroom use, with as many as a hundred common
-names to describe the mushroom varieties they loved.
-
-## Mesoamerican Mushroom Stones
-
-Archaeological evidence of sacred mushroom use in
-Mesoamerica includes mushroom stones dating to circa
-300-500 years B.C. from the Pacific slope of Guatemala.
-These artifacts, along with the Tassili cave paintings,
-represent some of humanity's earliest known artistic
-depictions of fungi, suggesting a deep, ancient
-relationship between humans and mushrooms that spans
-continents and millennia.
-## See Also
-
-- [[holzer-mushroom-cultivation-methods]]
-- [[munn-mazatec-mushroom-oracular-cure]]

@@ -1,8 +1,9 @@
 ---
-title: "teaming with microbes fungi and mycorrhizal relationships Relationships"
+title: Teaming With Microbes Fungi And Mycorrhizal Relationships
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - "raw/papers/lowenfels-teaming-with-microbes.md"
 type: concept
 tags: [fungi, mycology, mycorrhizal]
@@ -40,7 +41,7 @@ foods. Fungi produce phenol oxidase, a strong enzyme that dissolves lignin --
 the woody compound that binds and protects cellulose. Most bacteria reach
 their limit with lignin, leaving this material for fungi to decay. This
 specialization makes fungi essential for breaking down woody debris, bark, and
-brown compost materials. Fungi are generally slower decomposers than bacteria
+brown [[duggar-stable-manure-selection-compost-materials]]. Fungi are generally slower decomposers than bacteria
 but can handle more recalcitrant materials.
 
 ## Soil Structure
@@ -56,7 +57,7 @@ architecture of healthy soil.
 Mycorrhizae (Greek for "fungus-root") are symbiotic associations between plant
 roots and fungi. At least 90% (probably 95%+) of all plants form mycorrhizae.
 These relationships began approximately 450 million years ago, co-evolving
-with the earliest terrestrial plants. Without mycorrhizal fungi, plants do not
+with the earliest terrestrial plants. Without [[arbuscular-mycorrhizal-fungi]], plants do not
 obtain the quantities and kinds of nutrients needed to perform at their best.
 
 In return for exudates from plant roots, mycorrhizal fungi seek out water and
@@ -68,16 +69,16 @@ than those in sterilized soil.
 
 Two types exist:
 
-- **Ectomycorrhizal fungi** grow close to the surface of roots and can form
+- **[[ectomycorrhizal-fungi]]** grow close to the surface of roots and can form
   dense webs around them. They associate with hardwoods and conifers.
-- **Endomycorrhizal fungi** penetrate and grow inside roots as well as
+- **[[endomycorrhizal-fungi-sampling]]** penetrate and grow inside roots as well as
   extending outward into the soil. They are preferred by most vegetables,
   annuals, grasses, shrubs, perennials, and softwood trees. A common type is
   vesicular-arbuscular mycorrhizae (VAM), associated with grass plants.
 
 ## Nutrient Mining and Transport
 
-Both types of mycorrhizal fungi can extend the reach and surface area of plant
+Both types [[query-what-are-the-different-types-of-mycorrhizal-fungi]] can extend the reach and surface area of plant
 roots by 700 to 1000 times. They mine phosphorus, copper, calcium, magnesium,
 zinc, and iron using acids they produce to unlock chemically bound nutrients.
 Phosphorus retrieval appears to be a major function. They form intricate webs
@@ -87,40 +88,3 @@ compounds not delivered to roots are locked up in fungal tissue and released
 when fungi die and decay.
 
 ## Vulnerability and Protection
-
-Soil fungi are very fragile. Compaction crushes fungal tubes. Fungicides,
-pesticides, [[ingham-inorganic-fertilizers-soil-biology-damage]], and physical soil disturbance (rototilling,
-double digging) destroy fungal hyphae -- chemicals by sucking out cytoplasm,
-tillage by physically breaking them apart. Air pollution, particularly
-nitrogenous substances, also decreases mycorrhizal fruiting bodies.
-
-Beneficial fungi compete with pathogenic fungi for nutrients and form
-protective webs around roots in conjunction with bacteria, preventing
-invasions by disease organisms. Fungi also produce antibiotics -- penicillin
-being the most famous example -- that kill pathogens in both soil and the
-human body.
-
-## Plant Preferences and Succession
-
-The path from [[ingham-bacterial-to-fungal-succession-soil-food-web]] domination follows the general course of
-plant succession. Early successional plants (annuals, weeds, grasses) prefer
-bacterially dominated soils with nitrogen in nitrate form. Later successional
-plants (perennials, shrubs, trees) prefer fungally dominated soils with
-nitrogen in ammonium form. [[cervantes-chemical-fertilizers-guide]] providing nitrates will not
-support plants that prefer fungally dominated soils.
-
-## See Also
-
-- [[oomycete-phylogeny-straminipile-relationships]]
-
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]]
-
-- [[teaming-with-microbes-no-till-gardening-soil-health]]
-
-- [[teaming-with-microbes-bacteria-and-archaea-in-soil]]
-
-- [[teaming-with-microbes-fungi-the-underground-network]]
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-decomposition-pathways]]
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[teaming-with-microbes-old-growth-forest]]

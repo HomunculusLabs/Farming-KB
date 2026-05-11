@@ -1,5 +1,5 @@
 ---
-title: Colchicine, Polyploidy, and Mutagenesis in Cannabis
+title: Cervantes Colchicine Polyploidy Mutagenesis
 created: 2026-04-26
 tags:
   - cannabis
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -25,7 +26,7 @@ cannabis and carry significant health risks.
 ## Colchicine
 
 Colchicine is an alkaloid prepared from the dried corns and seeds of
-Colchicum autumnale, the autumn crocus that also produces saffron. The
+[[colchicum-autumnale]], the autumn crocus that also produces saffron. The
 pale, yellow powder is water soluble. Colchicine is a very dangerous,
 poisonous compound that can be used to induce polyploid mutations in
 cannabis.
@@ -87,39 +88,9 @@ that produce no THC. These mutagens can destroy genes along a
 chromosome, and when copies of this chromosome are inherited by future
 generations, a new or "novel" phenotype can appear.
 
-### Practical Reality
-
-These mutations occur at random and are extremely unreliable. The
-probability of finding plants which have a desired mutation in the gene
-of interest is very low. A breeder may treat many thousands of seeds,
-grow 100,000 plants, and still not see the desired altered phenotypes.
-
-This technique is costly in both time and space. It is often used in
-the breeding of legal plants when growing out thousands of individuals
-is not problematic. Performing such population screens in cannabis is
-not practical, especially for clandestine breeders.
-
-### Debunking the Colchicine Potency Myth
-
-It is a common myth that treating seeds with colchicine and growing the
-plants results in more potent cannabis plants. This is completely
-untrue. While the possibility does exist on a theoretical level, no
-valid experiments have ever shown this to be true. Potential breeders
-would be better off using their time and space for selecting better
-plants than trying this technique as a method for improving plant stock.
-
-The potentially hazardous nature of these mutagenic agents is another
-very good reason to choose other breeding options. Inducing variability
-is likely not the best option, at least for the hobby breeder.
-
-## Safer Alternatives
-
-Rather than attempting mutagenesis, breeders should:
-
-- Search for natural variation in existing seed populations
-- Use conventional breeding methods like [[cervantes-selfing-single-seed-descent]]
-- Source diverse genetics from [[cannabis-landrace-and-heirloom-varieties]] populations
-- Practice careful [[cannabis-genetics-and-breeding]]
-- [[cervantes-selfing-single-seed-descent]]
-- [[cervantes-tissue-culture-micropropagation]]
+## See Also
+- [[cannabis-polyploidy-colchicine-treatment-clarke]]
 - [[colchicine]]
+- [[cervantes-nutrient-mobility-deficiency-diagnosis]]
+- [[cervantes-dominance-recessive-traits-alleles]]
+- [[cervantes-ventilation-fan-carbon-filter-setup]]

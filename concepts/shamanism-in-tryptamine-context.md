@@ -10,10 +10,10 @@ created: 2026-05-08
 
 ## Overview
 
-Terence McKenna's analysis of shamanism in relation to [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-centers on the observation that modern Western culture has lost its shamanic
+[[terence-mckenna]]'s analysis of shamanism in relation to [[mckenna-tryptamine-hallucinogens-and-consciousness]]
+centers on the observation that modern [[mycophobia-in-western-culture]] has lost its shamanic
 tradition entirely, leaving individuals without established frameworks for
-navigating the extraordinary states of consciousness that tryptamine compounds
+navigating the extraordinary [[mckenna-food-gods-designer-states-of-consciousness]] that tryptamine compounds
 can produce. McKenna's firsthand experience with indigenous shamanic practices,
 particularly in the Amazon, informed his understanding of shamanism as a
 practical technology for exploring non-ordinary states of consciousness.
@@ -49,7 +49,7 @@ with shamanic potential are identified through specific signs:
 McKenna's fieldwork among shamans [[fungi-around-the-world-species-distribution]] led him to identify several
 distinguishing characteristics:
 
-- **Extraordinary centeredness**: "In traveling around the world and dealing
+- **Extraordinary centeredness**: "In traveling [[mushrooms-fungi-from-around-the-world-guide]] and dealing
   with shamans, I find the distinguishing characteristic is an extraordinary
   centeredness." This quality enables the shaman to navigate extreme states
   of consciousness without being overwhelmed.
@@ -88,56 +88,3 @@ relationships with psychoactive plants over millennia through careful
 empirical observation. "Indigenous people are known to have a profound
 knowledge of plants and herbs and their effects on the body and mind."
 This accumulated pharmacological wisdom means that plants with a history
-of shamanic usage are "much more likely to be safe" than newly synthesized
-compounds with unknown long-term risks.
-
-## Biological Basis of Shamanic Ability
-
-McKenna proposed that shamanic ability may have a biological basis in the
-density of serotonin receptor sites in the brain. "Shamanic ability is to
-some degree determined by how many active receptor sites occur in the brain,
-thus facilitating these experiences." This could explain the observation
-that shamanic ability sometimes runs in families, producing what appear to
-be "shamanic family lines, at least in the case of hallucinogen-using
-shamans."
-
-## The Absence of Shamanic Tradition in the West
-
-McKenna identified the absence of a living shamanic tradition as the
-central tragedy of modern Western culture's relationship to altered states
-of consciousness. Without established frameworks for understanding and
-integrating these experiences, individuals are left to navigate
-extraordinarily powerful states without guidance. The result is what
-McKenna called a cultural situation of extreme alienation, where "the most
-alien thing in the cosmos is the human soul."
-
-## Shamanism and Knowledge Verification
-
-McKenna insisted on the importance of verification in shamanic practice:
-"It is no great accomplishment to hear a voice in the head. The
-accomplishment is to make sure it is telling the truth." He advocated an
-"I/Thou" relationship with the entities encountered in altered states —
-an encounter between equals that demands both openness and critical
-discernment. "Magicians, people who invoke these things, have always
-understood that one must go into such encounters with one's wits about
-oneself."
-
-## The Sect of the Phoenix
-
-McKenna drew on Jorge Luis Borges' story "The Sect of the Phoenix" to
-illustrate the hidden, universal nature of the shamanic-visionary
-experience. Borges described a secret sect present in every human culture,
-whose central rite is "trivial, momentary, and requires no description"
-yet is transmitted from generation to generation. McKenna identified this
-secret with the [[mckenna-tryptamine-ecstasy-and-platonic-eternity]], suggesting that an underground
-tradition of this experience has persisted across all cultures for
-millennia, surfacing in different forms but always carrying the same
-essential content.
-
-## See Also
-
-- [[dmt-as-hallucinogen]]
-- [[self-transforming-machine-elves]]
-- [[tryptamine-logos]]
-- [[ayahuasca]]
-- [[mexican-sacred-mushrooms-indigenous-use-and-ethnobotany]]

@@ -82,55 +82,8 @@ The dark fruits are occasionally used in traditional crafts and as a source of
 dark pigment for [[query-how-do-i-start-natural-dyeing-with-plants]]. However, this practice appears to be localized
 and uncommon compared to the use of other plant dyes in the region.
 
-Knowledge of the species' medicinal properties is primarily maintained by
+Knowledge of the species' [[panax-ginseng]] is primarily maintained by
 elder community members. Younger generations are increasingly disconnected from
 traditional plant knowledge as urbanization accelerates across Borneo.
 
 ## Bioactive Compounds
-
-Chemical investigation of A. melanocarpa has been limited, as with many
-Bornean Zingiberaceae species. Preliminary phytochemical screening of rhizome
-extracts has revealed the presence of flavonoids, tannins, and terpenoids.
-
-[[permaculture-designers-manual-essential-oil-plants]] analysis of related Alpinia species suggests that A. melanocarpa
-likely contains sesquiterpenes and monoterpenes typical of the genus. Common
-Alpinia [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] include 1,8-cineole, α-pinene, and β-pinene.
-
-Laboratory screening of crude rhizome extracts has shown moderate antibacterial
-activity against selected Gram-positive bacteria. Antioxidant activity has been
-detected in DPPH radical scavenging assays at moderate concentrations.
-
-The dark pigmentation of the fruits is attributed to anthocyanin compounds.
-These water-soluble flavonoid pigments are concentrated in the fruit pericarp
-and may have nutraceutical potential, though this has not been formally
-investigated.
-
-## Conservation Status
-
-A. melanocarpa has not been formally assessed for the IUCN Red List. However,
-the ongoing loss of lowland dipterocarp forest across Borneo represents a
-significant threat to the species' long-term survival.
-
-Oil palm plantation expansion in Sabah, Sarawak, and Kalimantan has reduced
-and fragmented the species' forest habitat. Protected areas such as Kinabalu
-National Park provide important refugia for wild populations.
-
-Field botanists have noted that A. melanocarpa is becoming less frequently
-encountered in forest areas subject to repeated disturbance. The species'
-relatively narrow ecological requirements limit its ability to colonize
-degraded or secondary habitats.
-
-Ex situ conservation through botanical garden collections and seed banking
-has been recommended for Bornean Zingiberaceae species with restricted ranges.
-Several Malaysian and Indonesian botanical institutions maintain living
-collections of Alpinia species from Borneo.
-
-## See Also
-
-- [[alpinia-kuhlii]]
-
-- [[alpinia-officinarum]]
-- [[alpinia-calcarata]]
-- [[hedychium-coronarium]]
-- [[kaempferia-galanga]]
-- [[boesenbergia-rotunda]]

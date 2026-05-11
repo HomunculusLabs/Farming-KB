@@ -1,15 +1,16 @@
 ---
-title: cervantes open pollinated heirloom seeds Varieties and Heirloom Seeds
+title: Cervantes Open Pollinated Heirloom Seeds
 created: 2026-04-26
 tags:
   - cannabis
   - open pollination
   - heirloom
-  - seed saving
+  - [[biointensive-seed-saving]]
   - landrace
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -18,7 +19,7 @@ type: concept
 
 Open pollinated varieties (OPVs) and heirloom seeds represent the
 traditional foundation of [[vic-high-cannabis-genetics-mendelian-inheritance]], predating modern hybrid
-[[cervantes-seed-production-storage]]. These populations maintain genetic diversity and allow
+[[cervantes-seed-production-storage]]. These populations maintain [[biodiversity-fungal-genetic-diversity]] and allow
 growers to save their own seed, preserving valuable traits across
 generations.
 
@@ -37,7 +38,7 @@ population together in a given plot isolated from other pollen sources
 and left to the will of the wind. To maintain varietal purity, hemp
 breeders ensure there is no non-varietal pollen source within four
 miles upwind and one mile downwind -- which demonstrates just how far
-cannabis pollen can travel on the wind.
+[[cannabis-pollen-collection]] can travel on the wind.
 
 ### Low-Effort Seed Production
 
@@ -60,7 +61,7 @@ called a seed-increase.
 ## Heirloom Varieties
 
 Heirloom varieties and heirloom seeds are the product of many years of
-selective planting and seed saving. The original seeds bore a plant or
+selective planting [[holzer-old-varieties-and-seed-saving]]. The original seeds bore a plant or
 flower that had particular traits the grower liked -- typically flavor,
 color, or psychoactive effect. The grower then saved the seeds from the
 desirable plant and repeated the process the next season selecting for
@@ -87,40 +88,3 @@ populations from specific geographic regions. For example, [[cannabis-hindu-kush
 is a landrace with particular characteristics adapted to its
 mountainous Afghan origin. These landrace populations represent
 centuries of natural and human selection.
-
-Sam the Skunkman, a noted cannabis breeder, says we all stand on the
-shoulders of those who have come before us. We can build upon the
-improvements our ancestors have made to landraces and wild populations,
-but we can only work with what they have left us.
-
-## Importance for Genetic Preservation
-
-Years of persecution from governments and greedy seed-making practices
-without improvement or preservation have led to a [[cervantes-genetic-bottleneck-and-diversity-loss]], a
-narrowing of the potentially available breeding stock. Now more than
-ever, ethical breeding should be of utmost concern to cannabis
-enthusiasts. The species desperately needs breeders who are willing to
-improve populations in their possession, all the while preserving
-valuable genetic resources for future generations of breeders.
-
-Selections and advancements come at a cost to genetic variability.
-Breeders often reduce variability by narrowing the gene pool of a
-particular population as a consequence of fixing traits. The best
-breeders strive to advance and improve a given variety or population
-while preserving the variation present for the traits not under
-selection, which may prove valuable for future breeders and growers.
-
-## Roguing Out Off-Types
-
-Maintaining the purity of open pollinated and heirloom populations
-requires vigilance. Off-types that do not represent the defining
-characteristics of the variety must be rogued (removed) from the
-breeding population. This prevents unwanted pollen from contaminating
-future generations and maintains the integrity of the variety's defining
-traits.
-
-## See Also
-
-- [[cannabis-genetics-and-breeding]]
-- [[cervantes-seed-germination]]
-- [[cervantes-strain-selection]]

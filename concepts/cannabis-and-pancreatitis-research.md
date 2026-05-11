@@ -87,28 +87,3 @@ The clinical evidence for cannabis in pancreatitis is limited but growing, with 
 - **[[blesching-cannabis-strain-selection-receptor-targeting]]:** Indica and indica-dominant strains may be preferred for chronic pancreatitis due to their anti-inflammatory profile and pain-relieving properties. CBD-rich strains provide anti-inflammatory benefits without significant psychoactive effects.
 
 ## Safety and Interactions
-
-- **Acute pancreatitis warning:** The phase-dependent study results suggest that cannabinoids administered during the onset of acute pancreatitis may worsen outcomes. Patients with a history of acute flares should use cannabis only during stable periods between episodes.
-
-- **Pancreatic enzyme interactions:** Patients taking pancreatic enzyme replacement therapy (Creon, Zenpep) should separate cannabinoid doses from enzyme doses by at least 2 hours, as cannabinoids may alter GI motility and affect enzyme absorption.
-
-- **Opioid substitution considerations:** Many chronic pancreatitis patients are on long-term opioid therapy for pain management. Transitioning to or combining with cannabis requires careful dose adjustment of both substances to avoid excessive sedation.
-
-- **Blood sugar effects:** Cannabinoids can affect glucose metabolism and insulin sensitivity. Pancreatitis patients who have developed diabetes (a common sequela) should monitor blood sugar more closely when initiating cannabinoid therapy.
-
-- **Alcohol interaction:** Alcohol is a primary cause of pancreatitis, and combining alcohol with cannabis may increase gastrointestinal irritation. Patients should be strongly counseled to avoid alcohol entirely.
-
-- **Liver metabolism:** Both THC and CBD are metabolized by CYP3A4 and CYP2C9 in the liver. Patients with pancreatitis-related liver involvement may have altered cannabinoid metabolism, requiring dose adjustments.
-
-## Mind-Body Perspective
-
-The pancreas "represents the space where we gather, collect, and store" emotions. Difficulty may arise from refusing to integrate emotional experiences or being inflamed by the idea of giving dimensions to emotional reality. Aggravating factors: devaluing emotions, ignoring importance of emotional experience.
-
-## Related Pages
-
-- [[cannabis-and-ibs-research]]
-
-- [[cannabis-and-diabetes]]
-
-- mushroom-cytokine-production-immune-activation
-- [[beta-caryophyllene-dietary-cannabinoid]]

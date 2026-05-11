@@ -140,6 +140,6 @@ pregnancy without professional supervision.
 
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
-- [[adaptogenic-herbs-in-permaculture-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[herbal-medicine-preparation-methods]]
-- [[traditional-medicine-vs-modern-herbalism]]
+- [[cannabis-root-medicine-historical-modern-perspectives]]

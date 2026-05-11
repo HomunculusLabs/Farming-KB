@@ -1,5 +1,5 @@
 ---
-title: McKenna's Critique of SETI — Radio Signals as Cultural Presumption
+title: Mckenna Seti Critique Radio Signals Cultural Presumption
 created: 2026-05-09
 tags: [mckenna, seti, extraterrestrial, consciousness, epistemology, tryptamine,
   cultural-bias, psychedelic-philosophy]
@@ -10,7 +10,7 @@ aliases: [SETI Critique, Radio Signal Extraterrestrial Search, Cultural Bias in
 
 # McKenna's Critique of SETI — Radio Signals as Cultural Presumption
 
-Terence McKenna, in his 1983 Esalen lecture on tryptamine hallucinogens and
+[[terence-mckenna]], in his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]]
 consciousness, launched a pointed critique of the Search for Extraterrestrial
 Intelligence (SETI) program. His argument was not that extraterrestrial
 intelligence does not exist, but that the *method* by which we search for it
@@ -60,13 +60,13 @@ information-saturated environment.
 
 McKenna suggested that if extraterrestrial or transhuman intelligence wished to
 communicate, it would not necessarily use radio waves. He proposed that
-tryptamine hallucinogens — particularly [[dmt-nn-dimethyltryptamine|DMT]] and
-[[psilocybin-and-tryptamine-hallucinogens|psilocybin]] — might function as
+tryptamine hallucinogens — particularly [[dmt-nn-dimethyltryptamine]] and
+[[psilocybin-and-tryptamine-hallucinogens]] — might function as
 biological transceivers, allowing direct confrontation with what he
-experienced as an alien intelligence operating through the visual cortex and
+experienced as an alien intelligence operating through the [[mckenna-dmt-visual-cortex-intensity-fourth-dimensional-light-deployment]] and
 language centers of the brain.
 
-The [[mckenna-translinguistic-matter-and-exteriorized-soul|translinguistic matter]] encountered in these states carries what McKenna interpreted as
+The [[mckenna-translinguistic-matter-and-exteriorized-soul]] encountered in these states carries what McKenna interpreted as
 deliberately structured information — alien meaning that "cannot be Englished"
 but that nonetheless conveys genuine content about the nature of reality,
 consciousness, and the organization of intelligence in the galaxy.
@@ -74,7 +74,7 @@ consciousness, and the organization of intelligence in the galaxy.
 This connects to McKenna's broader argument that the human cerebral cortex is
 "the most richly organized material in the universe" and that the densest
 experience occurring anywhere is the experience being had right now by the
-perceiving self. From this perspective, consciousness itself — rather than
+[[decentralizing-bender-perceiving-self-primary-datum-mckenna]]. From this perspective, consciousness itself — rather than
 radio telescopes — may be the primary instrument for detecting
 extraintelligent phenomena.
 
@@ -82,64 +82,9 @@ extraintelligent phenomena.
 
 A deeper challenge McKenna identified was not the technological medium of
 communication but the very question of *recognition*. Even if contact were
-occurring, how would we know? His experience with [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal|Stropharia cubensis]]
+occurring, how would we know? His experience with [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
 suggested that the mushroom itself might be an extraterrestrial organism — or
 at least a technological artifact enabling contact with one — yet this
 possibility remains invisible to standard scientific methodology:
 
 > The main problem with searching for extraterrestrials is to recognize them.
-> Time is so vast and evolutionary strategies and environments so varied that
-> the trick is to know that contact is being made at all.
-
-This recognition problem extends beyond biology. If [[mckenna-dmt-black-hole-effect-epistemic-isolation|the DMT experience]]
-is in some sense a form of contact with transhuman intelligence, the
-[[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience|black hole effect]] — the inability to communicate the experience to others — means that
-contact, even if genuine, is epistemically isolated.
-
-## Relationship to Tryptamine Research
-
-McKenna's SETI critique is not a standalone argument but emerges directly from
-his phenomenological research with tryptamine compounds. The
-[[tryptamine-hallucinogens-and-consciousness|tryptamine hallucinogens]]
-produce experiences that are, by any reasonable definition, encounters with
-intelligence operating outside ordinary parameters — what he called
-[[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy|the Logos]]:
-
-> Psilocybin and DMT invoke the Logos, although DMT is more intense and more
-> brief in its action. This means that they work directly on the language
-> centers, so that an important aspect of the experience is the interior
-> dialogue.
-
-If these compounds genuinely facilitate contact with organized intelligence,
-then the failure of SETI to detect anything is less surprising — it may be
-searching on the wrong channel entirely.
-
-## Epistemological Implications
-
-McKenna's critique extends beyond SETI to challenge broader scientific
-epistemology. He noted that "the structure of the Western intellectual
-enterprise is so flimsy at the center that apparently no one knows anything
-with certitude." This is not anti-science per se, but an argument that the
-boundaries of admissible evidence are drawn too narrowly:
-
-> What good is a theory of how the universe works if it's a series of tensor
-> equations that, even when understood, come nowhere tangential to experience?
-> The only intellectual or noetic or spiritual path worth following is one that
-> builds on personal experience.
-
-The SETI critique thus serves as a metonym for a larger argument: that
-institutional science, by restricting admissible evidence to what can be
-measured by specific instruments, systematically excludes the most interesting
-data about consciousness and its relationship to the cosmos.
-
-## See Also
-
-- [[tryptamine-hallucinogens-and-consciousness]] — Full source lecture
-- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] —
-  McKenna's hypothesis on fungal spore dispersal across the galaxy
-- [[mckenna-dmt-black-hole-effect-epistemic-isolation]] — The communicative
-  impossibility of the DMT experience
-- [[mckenna-eschatology-history-as-shockwave]] — McKenna's broader cosmological
-  narrative
-- [[mckenna-translinguistic-matter-and-exteriorized-soul]] — Translinguistic
-  matter as information from hyperspace

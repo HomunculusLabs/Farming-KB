@@ -1,10 +1,11 @@
 ---
 title: "comparison-composting-toilets-vs-greywater-systems-detailed"
 created: 2026-04-28
-tags: [permaculture, waste management, sanitation, soil fertility]
+tags: [permaculture, [[off-grid-waste-management]], sanitation, soil fertility]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -13,7 +14,7 @@ type: concept
 
 Composting toilets treat human waste through aerobic decomposition,
 converting it into safe, nutrient-rich compost rather than flushing it
-into water-based waste systems. Bill Mollison strongly advocated for
+into water-based waste systems. [[bill-mollison]] strongly advocated for
 composting toilets as a fundamental permaculture technology.
 
 ## The Problem with Flush Toilets
@@ -59,12 +60,12 @@ The covered material is deposited in an outdoor composting bin where it
 decomposes for 6 to 12 months along with yard waste and other organic
 materials. Mollison described similar systems in his work on village
 scale sanitation, noting that properly managed dry composting produces
-pathogen-free compost suitable for fruit tree planting.
+pathogen-free compost suitable for fruit [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]].
 
 The compost should feel like a wrung-out sponge: moist but not dripping
 wet. Too dry and decomposition stalls; too wet and the system goes
 anaerobic, producing foul odors. Urine diversion systems significantly
-reduce moisture management challenges.
+reduce [[mushroom-casing-moisture-management]] challenges.
 
 ## Pathogen Destruction
 
@@ -82,27 +83,8 @@ rather than sustained heat for pathogen reduction.
 
 The carbon-rich cover material is critical to success. Sawdust is the
 gold standard for dry toilet systems, providing excellent moisture
-[[cannabis-odor-control-and-carbon-filters]] addition. Other options include peat moss, straw,
-rice hulls, shredded leaves, and coco coir.
+[[cannabis-odor-control-and-carbon-filters]] addition. Other options include [[query-what-is-the-difference-between-coco-coir-and-peat-moss]], straw,
+rice hulls, shredded leaves, and [[coco-coir-cannabis]].
 
 The cover material must be added in sufficient quantity to completely
 cover fresh deposits and control odors. A ratio of roughly equal volumes
-of waste and cover material works well in most systems.
-
-## Legal Considerations
-
-Regulations governing composting toilets vary widely by jurisdiction.
-Many areas require permits for installation, and some prohibit composting
-toilets altogether. Best practices include applying finished compost
-primarily to [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and ornamental plants rather than root
-vegetables or [[solomon-leafy-greens-growing]] consumed raw.
-
-Composting toilets can serve community buildings, eco-villages, and
-rural settlements. Combined with greywater systems, they eliminate the
-need for conventional sewage infrastructure entirely.
-
-## See Also
-
-- [[graywater-systems]]
-- [[soil-fertility-management]]
-- [[zone-1-intensive-garden]]

@@ -49,7 +49,7 @@ Southeast Asia is a major center of tropical neurotropic fungal diversity, parti
 
 - **Indonesia (Java, Sumatra)** — Psilocybe subaeruginascens var. subaeruginascens was documented from Java by Singer and Smith (1958). Copelandia cyanescens is widespread, reported by Wasson (1959a), Heim (1960), and Allen and Gartz (1997). Boletus flammeus, B. nigerrimus, and B. nigroviolaceus were documented from Singapore by Corner (1972), though Ott (1993) questioned whether these boletes are truly neurotropic.
 - **Thailand** — Psilocybe samuiensis was described from Ko Samui by Guzmán, Bandala, and Allen (Gartz et al., 1994). [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Copelandia cyanescens, and Dictyophora indusiata are also documented.
-- **Cambodia** — [[amanita-muscaria-entity]]
+- **Cambodia** — [[amanita-muscaria]]
 - [[copelandia-cambodginiensis]]
 ## Practical Considerations
 
@@ -88,28 +88,3 @@ than assuming perfect predictability or control over outcomes.
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
-
-## See Also
-
-- [[neurotropic-fungi-japan-east-asia-species-cultural-context]]

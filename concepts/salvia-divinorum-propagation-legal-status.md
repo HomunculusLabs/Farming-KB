@@ -87,27 +87,3 @@ The patchwork of state-level and international regulations has created an uneven
 ## Risk Profile and Harm Reduction
 
 Salvinorin-A has no reinforcing properties and is not considered addictive. The primary risks associated with Salvia divinorum use stem from the intense dissociative effects occurring in unsafe settings rather than from pharmacological toxicity.
-
-Halpern noted that harm from Salvia divinorum most likely occurs from inadequate preparation or from settings in which it is dangerous to be intoxicated with any drug, such as while driving. The loss of physical coordination and spatial awareness during the experience creates a significant injury risk if the user is not in a safe, supervised environment.
-
-The brief duration of effects when smoked is both a risk factor and a protective factor. The rapid onset can be overwhelming and frightening to unprepared users, but the short duration means that any adverse experience resolves quickly without medical intervention in the vast majority of cases.
-
-Mental health professionals have raised concerns about the potential for Salvia divinorum to trigger psychotic episodes in vulnerable individuals. The kappa-opioid system has been linked to psychosis-like states in preclinical models, though clinical data on Salvia-specific psychiatric outcomes remain limited. Users with personal or family histories of schizophrenia or other psychotic disorders are generally advised to avoid the substance.
-
-## Coleus and Related Lamiaceae
-
-The possibility that other Lamiaceae species may contain psychoactive compounds is noted in the Halpern review. Coleus blumei and [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]], popular ornamental plants prized for their colorful foliage, have been chewed by Mazatec Indians as alternatives to Salvia divinorum, though salvinorin-A has not been detected in Coleus species to date.
-
-If a Salvia divinorum substitute were discovered among common ornamental Lamiaceae, the legal implications would be significant. These plants are ubiquitous in gardens and homes worldwide, and scheduling a common houseplant would create enforcement challenges similar to those posed by Phalaris grasses and Datura species.
-
-## See Also
-
-- [[salvinorin-a-pharmacology-non-nitrogenous-opioid-agonist]]
-- mazatec [[shamanism]]
-- psychoactive lamiaceae
-- [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]]
-- [[coleus-blumei]]
-- clonal propagation genetic diversity
-- cloud forest ethnobotany
-- sierra mazateca flora
-- psychoactive plant regulation

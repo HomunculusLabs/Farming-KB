@@ -13,8 +13,8 @@ topics: [mycology, fungal-physiology, plant-hormones, mushroom-tropism, basidiom
 
 The concept of a mushroom-specific growth hormone has been investigated
 since the 1960s through decapitation experiments and gill diffusate studies.
-Badham's 1982 tropism study on *Psilocybe cubensis* references this body of
-work, noting that the second phase of directed growth (negative geotropism)
+Badham's 1982 tropism study on *[[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]* references this body of
+work, noting that the second phase of directed growth ([[coprophilous-habitat-negative-geotropism-spore-dispersal-adaptation]])
 appears to involve a substance produced in the gills that modifies tropic
 behavior. This page reviews the historical evidence for mushroom growth
 hormones and their proposed role in tropic regulation.
@@ -24,7 +24,7 @@ hormones and their proposed role in tropic regulation.
 ### Gruen (1963) — Endogenous Growth Regulation
 
 H.E. Gruen demonstrated endogenous growth regulation in carpophores of
-*Agaricus bisporus*, showing that fruiting body development is controlled
+*[[agaricus-bisporus]]*, showing that [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] is controlled
 by internally produced growth factors. This work established that mushroom
 growth is not simply a response to external stimuli but is modulated by
 hormone-like substances produced within the fruiting body itself.
@@ -54,7 +54,7 @@ responses; negative geotropism produces upright growth and horizontal
 pileus orientation at maturity.
 
 **Decapitated basidiocarp**: Stipe continues elongating but loses
-directional control; geotropic sensitivity reduced or eliminated; growth
+directional control; [[light-role-spore-formation-geotropic-sensitivity-psilocybe-cubensis]] reduced or eliminated; growth
 becomes disorganized without proper orientation.
 
 **Decapitated + gill diffusate application**:
@@ -79,7 +79,7 @@ incidental rather than regulatory.
 ### Gibberellin-like Substances
 
 Pegg (1973) found gibberellin-like substances in basidiomycete
-sporophores, but no evidence suggests they regulate mushroom tropisms.
+sporophores, but no evidence suggests they regulate [[adaptive-significance-mushroom-tropisms-spore-dispersal]].
 As with IAA, these compounds appear to be present without functional
 role in tropic regulation.
 
@@ -88,62 +88,3 @@ role in tropic regulation.
 Mushrooms contain several higher plant hormones (IAA, gibberellins) but no
 evidence shows these regulate mushroom growth. The tropic regulator appears
 to be a mushroom-specific substance produced in the gills, distinct from
-known plant hormones.
-
-## Badham's Evidence from *P. cubensis*
-
-Badham's 1982 study provides additional evidence:
-
-### Sporeless Mutant Comparison
-
-Sporeless mutants did not exhibit the negative geotropic recurvature
-seen in fertile basidiocarps at Stage 2. Since spores are produced in
-the gills and the mutant lacks functional gill tissue, the absence of
-geotropism supports a gill-produced tropic regulator co-produced with
-spores in the lamellae.
-
-### Light Dependency
-
-Negative geotropic response required some light, but Badham noted this
-might be because light is necessary for spore production. If the tropic
-substance is co-produced with spores, then light dependency is indirect:
-light → spore production → tropic substance → geotropic sensitivity.
-
-### Two-Phase Growth Model
-
-Badham proposed two phases of directed growth in *P. cubensis*:
-
-1. **Phase 1** (Stages 1-2): Individual stipe cells respond to
-   evaporative demand gradient, producing anemotropic curvature
-2. **Phase 2** (Stage 2 onward): A substance from the gills modifies
-   the response, causing the mushroom to respond primarily to gravity
-
-The Phase 2 switch correlates with spore production and requires intact
-gill tissue, consistent with the mushroom growth hormone hypothesis.
-
-## Proposed Mechanism of Action
-
-Based on accumulated evidence, the mushroom growth hormone:
-
-1. Is produced in the lamellae (gills) of fertile basidiocarps
-2. Diffuses through stipe tissue, establishing a concentration gradient
-3. Modifies stipe cell response to environmental stimuli, particularly
-   gravity
-4. Is co-produced with or activated during spore formation
-5. Is distinct from known higher plant hormones
-6. Is absent or non-functional in sporeless mutants
-
-## Unresolved Questions
-
-- Chemical identity of the substance remains unknown
-- Mechanism of action (cell wall extensibility vs. turgor vs. other)
-unclear
-- Relationship to other reported mushroom growth factors needs study
-- Whether single compound or mixture is not established
-## See Also
-
-- [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]]
-- [[sporeless-mutant-geotropism-link-psilocybe-cubensis]]
-- [[spore-production-geotropic-sensitivity-coupling-basidiomycete-badham-1982]]
-- [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]]
-- [[basidiocarp-four-stage-development-classification-psilocybe-cubensis-badham-1982]]

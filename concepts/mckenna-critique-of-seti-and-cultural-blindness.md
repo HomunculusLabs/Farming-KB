@@ -9,7 +9,7 @@ type: concept
   - mckenna
   - cultural-bias
   - epistemology
-  - shamanism
+  - [[shamanism]]
   - transhumanism
 date: 2026-04-28
 updated: 2026-04-28
@@ -19,7 +19,7 @@ sources:
 
 # McKenna Critique of SETI and Cultural Blindness to Alien Intelligence
 
-Terence McKenna launched a pointed critique of the Search for Extraterrestrial
+[[terence-mckenna]] launched a pointed critique of the Search for Extraterrestrial
 Intelligence (SETI) program, arguing that its methodological assumptions reflect
 profound cultural biases that virtually guarantee failure. His critique extends beyond
 SETI to encompass what he saw as a broader Western scientific refusal to acknowledge
@@ -27,11 +27,11 @@ forms of intelligence and information that do not conform to sanctioned instrume
 
 ## The Italian Restaurant Fallacy
 
-McKenna characterized the search for radio signals from extraterrestrial sources as
+McKenna characterized the search for [[mckenna-seti-critique-radio-signals-cultural-presumption]] from extraterrestrial sources as
 "probably as culture bound a presumption as to search the galaxy for a good Italian
 restaurant." The analogy cuts to the core of his argument: SETI assumes that an alien
 intelligence would communicate using radio waves, a technology that represents a vanishingly
-thin slice of the electromagnetic spectrum and a specific product of one species' industrial
+thin slice of the [[electromagnetic-spectrum-plant-light-perception]] and a specific product of one species' industrial
 history. The expectation that extraterrestrials would use radio is, for McKenna, no more
 rational than expecting them to share human culinary preferences.
 
@@ -88,44 +88,3 @@ itself with human society since antiquity, carrying information across generatio
 ## The Self as the Most Alien Thing
 
 McKenna offered a provocative inversion of the [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]: "It may
-instead be what I've recently come to suspect — that the human soul is so alienated from
-us in our present culture that we treat it as an extraterrestrial. To us the most alien
-thing in the cosmos is the human soul." Under this reading, the entities and dimensions
-encountered in the tryptamine state are not visitors from another star system but aspects
-of the self that have been rendered unrecognizable by cultural alienation.
-
-McKenna claimed that "aliens Hollywood-style could arrive on earth tomorrow and the DMT
-trance would remain more weird and continue to hold more promise for useful information
-for the human future." This comparison positions the inner dimension accessed by
-tryptamines as more genuinely alien — more genuinely other — than any physical
-extraterrestrial visitor could be, because it reveals dimensions of consciousness that
-cultural conditioning has entirely suppressed.
-
-## Implications for Epistemology
-
-McKenna's critique raises fundamental questions about the relationship between
-methodological rigor and epistemological blindness. If the [[fukuoka-limits-scientific-method-agriculture]] requires
-a priori exclusions that rule out entire classes of potentially relevant data, then
-its claims to comprehensiveness are undermined. The history of science contains
-numerous examples of phenomena that were dismissed as superstitious or pathological
-before being incorporated into accepted knowledge. Continental drift, meteorites, and
-ball lightning were all dismissed by the scientific establishment before their reality
-was acknowledged. McKenna's challenge was to consider whether consciousness itself,
-in its [[weil-the-natural-mind-altered-states-normalcy]], might constitute such a domain.
-
-The question remains open whether the information accessed through shamanic and
-[[leary-psychedelic-experience-bardo-mapping]] represents genuine contact with external realities or is
-entirely endogenous to the nervous system. McKenna's point is that the question
-cannot be responsibly addressed as long as the epistemological framework of
-orthodox science refuses to examine the data on its own terms.
-
-## See Also
-
-- [[mckenna-seti-critique-radio-signals-cultural-presumption]]
-
-- [[mckenna-extraterrestrial-communication-cultural-conceit]]
-- [[mckenna-habit-creode-waddington-cultural-evolution]]
-
-- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]
-- [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]]
-- [[dmt-black-hole-effect-and-shamanic-practice]]

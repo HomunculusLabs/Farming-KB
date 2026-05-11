@@ -19,11 +19,11 @@ sources:
 
 ## Overview
 
-**Acer negundo**, commonly known as box elder, boxelder maple, or Manitoba maple, is a fast-growing deciduous tree native to North America. It is the most widely distributed [[growing-gourmet-north-american-reishi-species]] maple, ranging from southern Canada to Guatemala.
+**Acer negundo**, commonly known as box elder, boxelder maple, or Manitoba maple, is a fast-growing deciduous tree native to [[guzman-psilocybin-mushrooms-north-america]]. It is the most widely distributed [[growing-gourmet-north-american-reishi-species]] maple, ranging from southern Canada to Guatemala.
 
 Box elder is distinctive among maples for its compound leaves, which resemble those of ash or poison ivy. It is highly adaptable, colonizing disturbed sites, riparian corridors, and urban environments with equal vigor.
 
-The species is considered invasive in parts of Europe, Asia, and Australia. In its native range, it serves important ecological functions in floodplain and riparian ecosystems despite its reputation as a weedy tree.
+The species is considered invasive in parts of Europe, Asia, and Australia. In its native range, it serves important [[fungal-melanin-biosynthesis-ecological-functions]] in floodplain and riparian ecosystems despite its reputation as a weedy tree.
 
 ## Taxonomy and Morphology
 
@@ -35,7 +35,7 @@ The species is considered invasive in parts of Europe, Asia, and Australia. In i
 - Genus: *Acer*
 - Species: *A. negundo* L.
 
-Several varieties are recognized. *A. negundo* var. *negundo* is the typical North American form. *A. negundo* var. *violaceum* (Kirchn.) Jaeger has glaucous, violet-tinted shoots. *A. negundo* var. *californicum* (Torr. & Gray) Sarg. is restricted to California.
+Several varieties are recognized. *A. negundo* var. *negundo* is the typical [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] form. *A. negundo* var. *violaceum* (Kirchn.) Jaeger has glaucous, violet-tinted shoots. *A. negundo* var. *californicum* (Torr. & Gray) Sarg. is restricted to California.
 
 **Morphology:**
 
@@ -49,7 +49,7 @@ Box elder is dioecious, with separate male and female trees. Male flowers are bo
 
 ## Distribution and Habitat
 
-Box elder is native to most of the contiguous United States and southern Canada, extending south through Mexico to Guatemala. It has been widely planted and naturalized in Europe, Asia, South America, and Australia.
+Box elder is native to most of the contiguous United States and southern Canada, extending south through Mexico to Guatemala. It has been widely planted and naturalized in Europe, Asia, [[guzman-psilocybin-mushrooms-south-america]], and Australia.
 
 The species is most abundant in riparian and floodplain habitats, where it is often a pioneer species on alluvial deposits. It tolerates seasonal flooding and poorly drained soils better than most other maples.
 
@@ -69,7 +69,7 @@ The species has limited ornamental value. Several cultivars exist, including 'Va
 
 ## Bioactive Compounds and Pharmacology
 
-Box elder contains typical maple phenolic compounds including tannins, flavonoids, and phenolic acids. The sap contains sucrose, glucose, and fructose, though sugar concentrations are too low for economical syrup production.
+Box elder contains typical maple [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] including tannins, flavonoids, and phenolic acids. The sap contains sucrose, glucose, and fructose, though sugar concentrations are too low for economical syrup production.
 
 Indigenous peoples used box elder sap as a mildly sweet beverage and the inner bark for food and medicine. The Cheyenne used a bark tea for stomach ailments, and the Dakota used boiled sap as a cough remedy.
 
@@ -85,36 +85,6 @@ In Australia, box elder is a declared environmental weed in Victoria and New Sou
 
 The species' prolific seeding, with female trees producing 100,000+ seeds annually, enables rapid colonization. Seeds are wind-dispersed and remain viable for 1–2 years in the soil seed bank.
 
-Control methods include mechanical removal, herbicide application to cut stumps, and prescribed burning. Complete eradication is difficult once established due to the persistent soil seed bank and resprouting from root crowns.
+[[cho-natural-pest-control-methods]] include mechanical removal, herbicide application to cut stumps, and prescribed burning. Complete eradication is difficult once established due to the persistent soil seed bank and resprouting from root crowns.
 
 Despite its invasiveness outside its native range, box elder provides [[biodiversity-of-fungi-ecosystem-services-agriculture]] including rapid soil stabilization on degraded sites, shade in urban heat islands, and nectar for early-season pollinators. Its value must be weighed against its displacement of native species.
-
-## Ecological Role
-
-In its native range, box elder provides important habitat and food for wildlife. The seeds are consumed by birds including grosbeaks, finches, and quail, as well as small mammals.
-
-Boxelder bugs (*Boisea trivittata*) feed almost exclusively on box elder seeds and are named for their host tree. The bright red-and-black insects form large aggregations on and around female trees in autumn.
-
-The species contributes to riparian zone stabilization along waterways. Its dense, fibrous root system helps prevent streambank erosion, particularly during flood events.
-
-Box elder serves as a host for several wood-boring insects and [[bloomfield-fungal-pathogens-and-parasites]]. Verticillium wilt and heartwood rot are common in older trees, contributing to their relatively short lifespans.
-
-The species is occasionally used in phytoremediation projects due to its tolerance of heavy metals and contaminated soils. Its rapid growth and deep root system make it suitable for stabilizing mine tailings and brownfield sites.
-
-## See Also
-
-- [[acer-saccharum]]
-- [[acer-rubrum]]
-- [[acer-platanoides]]
-- [[populus-tremuloides]]
-- [[populus-deltoides]]
-- [[salix-alba]]
-- [[salix-babylonica]]
-- [[ulmus-americana]]
-- [[betula-nigra]]
-- [[quercus-alba]]
-- [[betula-pendula]]
-- [[juglans-nigra]]
-- [[fagus-sylvatica]]
-- [[tilia-americana]]
-- [[platanus-occidentalis]]

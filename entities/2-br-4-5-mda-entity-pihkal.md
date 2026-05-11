@@ -68,10 +68,10 @@ on scarce inputs when a simpler ecological substitute is available.
 ## See Also
 
 - [[2c-c-entity-pihkal]]
-- [[2c-e-entity-pihkal]]
+- [[2c-e]]
 
 - PIHKAL (the source book)
-- [[2c-b-entity-pihkal]] -- 2C-B (PIHKAL #20)
+- [[2c-b]] -- 2C-B (PIHKAL #20)
 ## Practical Considerations
 
 Successful implementation of 2-Br-4,5-MDA (2-Bromo-4,5-methylenedioxy-A) -- PIHKAL Entry #19 requires attention to

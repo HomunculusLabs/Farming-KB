@@ -1,5 +1,5 @@
 ---
-title: Master Cho's OHN (jadam-oriental-herb-nutrient Nutrient) Recipe
+title: Master Cho Knf Ohn Oriental Herb Nutrient Recipe
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -17,7 +17,7 @@ The [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient (OHN) is made fr
 - **Optimum season**: Spring or fall
 - **Fermentation temperature**: 23-25 deg C
 - **Storage temperature**: 1-15 deg C
-- **Ingredients**: Gigantic angelica root (Angelica gigas), cinnamon bark, licorice root (Glycyrrhiza glabra), garlic, ginger, Makgeolli (Korean rice wine), brown sugar, Soju (Korean distilled liquor, 30-35% alcohol)
+- **Ingredients**: Gigantic angelica root (Angelica gigas), cinnamon bark, licorice root ([[glycyrrhiza-glabra]]), garlic, ginger, Makgeolli (Korean rice wine), brown sugar, Soju (Korean distilled liquor, 30-35% alcohol)
 - **Tools**: 20L jars (one per herb), porous paper, vinyl film, wooden sticks, rubber bands
 
 ## Five Herbs
@@ -87,18 +87,4 @@ Example: Dilute OHNs 1000x with 18L of water, then add 6cc Angelica, 3cc licoric
 ### Applications
 
 - **IMO #2 and IMO #4 preparation**: OHN (x1/1000) used as nutrient liquid.
-- **Soil treatment solution**: Combined with other inputs.
-- **[[jadam-seed-treatment-and-nursery-management]] solution**: Applied to seeds before planting.
-- **All [[coleman-sunlight-and-winter-crop-growth-rates]] stages**: Vegetative, cross-over, and reproductive periods.
-- **[[bahay-kubo-imo-collection-and-preparation]]**: Spray OHN (x1/1000) mixed with FPJ and BRV around collection site in dry weather.
-- OHN is always used in natural farming -- it is considered a universal input.
-
-## See Also
-
-- [[knf-ohn-oriental-herbal-nutrient-recipe]]
-
-- [[indigenous-microorganisms-imo]]
-- [[brown-rice-vinegar-brv]]
-- [[knf-seed-treatment-and-soil-foundation]]
-- [[knf-preparations]]
-- [[monster-cropping]]
+- **[[knf-soil-treatment-solution]]**: Combined with other inputs.

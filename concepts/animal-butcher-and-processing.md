@@ -3,7 +3,7 @@ title: Animal Butcher and Processing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [animal-husbandry, homesteading, livestock, byproducts, processing, preservation]
+tags: [animal-husbandry, [[homesteading]], livestock, byproducts, processing, preservation]
 sources: []
 ---
 # Animal Butcher and Processing
@@ -143,14 +143,7 @@ sheep, goats, pigs, and cattle).
   Shoulder, rack, loin, leg, shank (lamb/goat). Shoulder, loin, belly,
   leg, ham (pork).
 - **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
-  and ground meat.
-- **Cutting order:** Remove legs first, then separate chuck/shoulder from
-  rib/loin, then break individual cuts.
-- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
-  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
-
-
 ## See Also
 - [[animal-harvest-and-processing]]
-- [[tea-cultivation-and-camellia-sinensis-processing]]
-- [[savory-animal-impact-and-herd-effect]]
+- [[grain-processing-and-milling-guide]]
+- [[live-resin-processing]]

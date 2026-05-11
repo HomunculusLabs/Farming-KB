@@ -10,6 +10,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Altieri, M.A. (1995). *Agroecology: The Science of Sustainable Agriculture*. Westview Press.
   - Mollison, B. (1988). *Permaculture: A Designers' Manual*. Tagari Publications.
   - Holmgren, D. (2002). *Permaculture: Principles and Pathways Beyond Sustainability*. Holmgren Design Services.

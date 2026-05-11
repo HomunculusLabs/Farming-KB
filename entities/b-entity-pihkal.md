@@ -26,7 +26,7 @@ sources: ["Shulgin - PIHKAL"]
 >
 > (with 150 mg) Throughout the experiment it was my impression that
 > whatever effects were being felt, they were more in body than mind.
-> The body load never mellowed out, as it would have with mescaline,
+> The body load never mellowed out, as it would have with [[mescaline]],
 > after the first hour or two. Mental effects didn't develop in any
 > interesting way. I was aware of brief heart arrhythmia. Tummy was
 > uncomfortable, off and on, and there was light diarrhea. Even as late
@@ -44,7 +44,7 @@ measure this is true with the 4-position homologues of mescaline.
 This butyl compound, B or Buscaline, had originally been patented in
 England in 1930 without any physical or pharmacological description,
 and the few physical studies that had involved it (lipophilic this and
-serotonin that) suggested that it was less active than mescaline.
+[[serotonin]] that) suggested that it was less active than mescaline.
 
 In principle, the 5-, the 6-, the 7- and the on-up homologues might be
 called amylescaline (possibly pentescaline?), hexescaline,
@@ -87,21 +87,3 @@ distilled at 132-145 deg C at 0.2 mm/Hg to yield 5.0 g of
 
 which set up to crystals spontaneously. The mp was 42-43 deg C. Anal.
 (C14H19NO3) C H N.
-
-A solution of AH was prepared by the cautious addition of 0.67 mL of
-100% H2SO4 to 25 mL of 1.0 M LAH in THF, which was being vigorously
-stirred under He at ice bath temperature. A total of 4.9 g of
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[2c-b-entity-pihkal]]
-- [[2c-d-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[beatrice-entity-pihkal]] -- BEATRICE (PIHKAL #11)

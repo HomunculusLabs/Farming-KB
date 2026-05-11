@@ -1,5 +1,5 @@
 ---
-title: [[singh-fungal-degradation-endocrine-disrupting-compounds]] of Pesticides
+title: Fungal Degradation Of Pesticides
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
@@ -11,14 +11,14 @@ sources: []
 Pesticides and herbicides constitute a major class of environmental pollutants.
 Fungi degrade these compounds through enzymatic transformation, mineralization,
 and co-metabolism. White-rot fungi are particularly effective due to their non-
-specific ligninolytic enzyme systems.
+specific [[ligninolytic-enzyme-systems-white-rot-fungi]].
 
 ## Insecticide Degradation
 
 **Chlorinated insecticides:** DDT, DDD, DDE, lindane (BHC), and dieldrin
 are degraded by various fungi. White-rot fungi attack these compounds through
 LiP and MnP, generating hydroxylated and dechlorinated metabolites.
-*Phanerochaete chrysosporium* degrades DDT and lindane, though complete
+*[[phanerochaete-chrysosporium]]* degrades DDT and lindane, though complete
 mineralization is limited.
 
 **Organophosphorus insecticides:** Malathion, parathion, chlorpyrifos, and
@@ -57,10 +57,10 @@ oxidation of sulfur-containing metabolites.
 
 ## Key Enzymatic Systems
 
-Fungal enzymes in pesticide degradation include **cytochrome P450
+[[fungal-enzymes-in-decomposition]] pesticide degradation include **cytochrome P450
 monooxygenases** (N-dealkylation, hydroxylation, epoxidation), **esterases and
 amidases** (hydrolytic cleavage), **lignin peroxidase** (non-specific aromatic
-oxidation), **manganese peroxidase** (Mn(III)-mediated oxidation), **laccase**
+oxidation), **[[fungal-manganese-peroxidase-remediation]]** (Mn(III)-mediated oxidation), **laccase**
 (phenolic oxidation), **glutathione S-transferases** (conjugation), and
 **phosphatases** (organophosphate hydrolysis).
 
@@ -68,14 +68,14 @@ oxidation), **manganese peroxidase** (Mn(III)-mediated oxidation), **laccase**
 
 White-rot basidiomycetes, particularly *Phanerochaete chrysosporium*, *Trametes
 versicolor*, and *Bjerkandera adusta*, have received the most attention. Their
-ligninolytic enzymes generate highly reactive radical intermediates that attack
+[[ligninolytic-enzymes]] generate highly reactive radical intermediates that attack
 organic substrates non-specifically. *P. chrysosporium* degrades up to 90% of
 DDT in liquid culture within 30 days. *T. versicolor* mineralizes 40-60% of
 applied 2,4-D within 14 days.
 
 ## Soil Bioremediation Strategies
 
-Field application involves: **solid substrate fermentation** (fungal inoculum on
+Field application involves: **solid [[oyster-substrate-fermentation]]** (fungal inoculum on
 lignocellulosic substrates mixed into contaminated soil), **bioaugmentation**
 (concentrated inoculum introduced into soil), **biopile systems** (soil in piles
 with nutrient amendments, aeration, moisture control), and **constructed
@@ -88,26 +88,3 @@ and managing intermediate metabolites.
 Pesticide degradation is rarely accomplished by fungi alone. Fungal-bacterial
 consortia show synergistic degradation where fungal enzymes perform initial
 transformation and bacteria mineralize intermediates. This is particularly
-important for ring cleavage products and dechlorinated metabolites. Engineered
-consortia achieve faster and more complete degradation than either organism
-alone.
-
-## Neonicotinoids and Emerging Contaminants
-
-Neonicotinoid insecticides (imidacloprid, clothianidin, thiamethoxam) represent
-a newer class of systemic pesticides. *Trametes versicolor* and *Phanerochaete
-chrysosporium* can transform imidacloprid through hydroxylation and nitro-
-reduction. Laccase-mediated oxidation with redox mediators significantly
-enhances degradation rates. The emergence of novel pesticides creates ongoing
-need for understanding fungal degradation pathways; preliminary studies suggest
-ligninolytic systems can attack many newer compounds.
-
-## See Also
-
-- [[enzymatic-degradation-in-mycoremediation]]
-- [[mycoremediation-pcbs-and-dioxins]]
-- [[soil-food-web-structure]]
-
-## Related
-
-- [[fungal-degradation-of-pcbs-by-white-rot-fungi]]

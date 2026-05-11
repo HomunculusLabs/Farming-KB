@@ -88,13 +88,3 @@ applied, continuously building soil quality.
 
 The approximate area needed to feed one person depends on growing
 season length and skill level. About 4,000 sq ft of growing beds
-(including paths, about 5,000 sq ft total) can provide complete
-dietary needs when the 60/30/10 model is followed with good
-[[jeavons-crop-rotation-detail]].
-With shorter growing seasons, more area may be needed; with
-longer seasons and greater skill, less may suffice.
-
-## Planning for Sustainability
-
-When making your [[jeavons-water-management-irrigation]], and reduced need
-for imported [[jeavons-calorie-farming]], [[jeavons-sustainability-philosophy-gbiointensive]], [[jeavons-grain-growing-mini-farms]]

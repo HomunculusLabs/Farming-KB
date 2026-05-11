@@ -88,26 +88,3 @@ In permaculture design, yarrow is valued as a [[nutrient-dynamic-accumulator-ref
 ## Ecological Role
 
 Yarrow provides nectar and pollen for a broad spectrum of pollinators, including bees, butterflies, hoverflies, and beetles. Its prolonged flowering period from early summer to late autumn makes it a valuable resource for late-season foragers.
-
-The flat-topped flower heads provide an ideal landing platform for butterflies and short-tongued bees that cannot access tubular flowers. Yarrow is ranked among the top 20 nectar-producing plants for honeybees in temperate European meadows.
-
-The foliage is rarely browsed by mammals due to its bitter, aromatic essential oils. Deer and rabbit resistance is high, making yarrow a useful component of wildlife gardens and unfenced landscapes.
-
-Yarrow serves as a host plant for several moth species, including the yarrow pug (*Eupithecia millefoliata*) and the lesser belle (*Epiblema graphana*). The flowers are visited by over 80 insect species in European surveys.
-
-The dried aerial parts of yarrow are used to make herbal teas, tinctures, and topical salves. The essential oil is steam-distilled from flowering tops and used in aromatherapy and natural cosmetics formulations.
-
-The rhizomatous root system helps stabilize soil and prevent erosion on slopes and banks. Yarrow is sometimes included in erosion control seed mixes for roadside and riparian plantings.
-
-Yarrow has been used in companion planting systems for centuries. It is believed to enhance the essential oil production of neighboring aromatic herbs and to attract predatory insects that reduce pest populations in vegetable gardens.
-
-## See Also
-
-- [[taraxacum-officinale]]
-- [[valeriana-officinalis]]
-- [[plantago-major]]
-- [[panax-ginseng]]
-- [[eleutherococcus-senticosus]]
-- [[panax-notoginseng]]
-- [[rosmarinus-officinalis-entity]]
-- [[lavandula-angustifolia]]

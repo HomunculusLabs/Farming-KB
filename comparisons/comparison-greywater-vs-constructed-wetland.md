@@ -6,6 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "raw/papers/gaias-garden-toby-hemenway.md"
+  - "raw/papers/gaias-garden-toby-hemenway.md"
 type: comparison
 ---
 # Greywater Systems vs Constructed Wetlands

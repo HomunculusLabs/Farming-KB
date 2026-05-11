@@ -32,7 +32,7 @@ Total alkaloid content in dried aerial parts typically ranges from 0.1-0.5%, wit
 
 *Leonurus japonicus* was first described by Martinus Houttuyn in 1782 as *Leonurus artemisia* and later reclassified. The genus *Leonurus* contains approximately 10 species distributed across Europe, Asia, and Africa.
 
-The plant is an erect, branching annual or biennial herb growing 30-120 cm tall. Stems are quadrangular, characteristic of the mint family, and are typically purplish-green with sparse pubescence.
+The plant is an erect, branching annual or biennial [[herb-growing-guide]] 30-120 cm tall. Stems are quadrangular, characteristic of the mint family, and are typically purplish-green with sparse pubescence.
 
 Leaves are opposite, ovate to broadly cordate, 4-10 cm long and 3-7 cm wide, with serrate margins. The upper leaves are smaller and often deeply 3-lobed, while lower leaves are more entire.
 
@@ -50,13 +50,13 @@ Fruits are small nutlets (schizocarps), approximately 2-3 mm long, dark brown to
 
 In China, the species is distributed across most provinces, with wild populations found in fields, roadsides, wastelands, and riverbanks from sea level to 2,000 meters elevation. It is particularly abundant in the Yangtze River basin.
 
-The plant has been introduced to Europe, [[psilocybin-north-america-pacific-northwest]], and other temperate regions where it often naturalizes as a weed.
+The plant has been introduced to Europe, [[psilocybin-north-america-pacific-northwest]], and other [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] where it often naturalizes as a weed.
 
 In traditional Chinese medicine, the herb is classified as acrid, bitter, and slightly cold in nature. It is said to enter the heart, liver, and bladder meridians, reflecting its effects on blood circulation and fluid metabolism. In parts of eastern Europe and the United States, it is considered an invasive species in disturbed habitats.
 
 *L. japonicus* prefers full sun to partial shade and grows on a wide range of soil types. It is commonly found in nitrogen-rich disturbed soils, reflecting its ruderal life history strategy.
 
-The species is relatively tolerant of air pollution and heavy metal contamination, which has led to investigation of its phytoremediation potential for contaminated urban sites.
+The species is relatively tolerant of [[air-pollution-fungal-community-responses]] and heavy [[gadd-fungal-biosorption-metal-contamination-remediation]], which has led to investigation of its phytoremediation potential for contaminated urban sites.
 
 ## Bioactive Compounds
 
@@ -76,39 +76,14 @@ Organic acid constituents include caffeic acid, chlorogenic acid, and rosmarinic
 
 Uterotonic activity is the most clinically relevant pharmacological effect, consistent with the traditional use for postpartum hemorrhage and menstrual disorders. Leonurine and stachydrine have been shown to stimulate uterine smooth muscle contraction in vitro and in vivo.
 
-Cardiovascular effects include hypotensive, antiarrhythmic, and cardioprotective activities. Leonurine protects against ischemia-reperfusion injury in animal models through antioxidant and anti-apoptotic mechanisms.
+[[blesching-cannabis-hypertension-cardiovascular-effects]] include hypotensive, antiarrhythmic, and cardioprotective activities. Leonurine protects against ischemia-reperfusion injury in animal models through antioxidant and anti-apoptotic mechanisms.
 
 Antiplatelet and anticoagulant effects have been documented for both the crude herb extract and isolated compounds. These activities support the traditional use of motherwort in promoting blood circulation and resolving blood stasis.
 
 Clinical studies in China have evaluated motherwort injections for postpartum hemorrhage, reporting significant reductions in blood loss compared to placebo or standard oxytocin treatment.
 
-Neuroprotective effects of leonurine have been demonstrated in models of stroke, Alzheimer disease, and Parkinson disease. The compound crosses the blood-brain barrier and modulates multiple signaling pathways involved in neuronal survival.
+Neuroprotective effects of leonurine have been demonstrated in models of stroke, Alzheimer disease, and Parkinson disease. The compound crosses the blood-brain barrier and modulates multiple [[plant-signaling-pathways]] involved in neuronal survival.
 
 Anti-inflammatory effects of leonurine include inhibition of NF-kB signaling and reduction of pro-inflammatory cytokine production. These mechanisms underpin the neuroprotective and cardioprotective properties.
 
 Antioxidant activity is attributed to both the alkaloid and flavonoid constituents. Motherwort extracts show significant free radical scavenging capacity in DPPH and ABTS assays, with activity correlating with total phenolic content.
-
-## Cultivation
-
-*L. japonicus* is propagated from seed, with sowing in early spring for annual production or autumn for biennial growth. Germination rates are typically 60-80% when seeds are sown shallowly on moist, well-prepared seedbeds.
-
-The crop adapts to a wide range of soil types but performs best on fertile, well-drained loams. Optimal pH is 6.0-7.5. Nitrogen fertilization increases biomass yield but may reduce alkaloid content in the aerial parts.
-
-[[cannabis-harvest-timing-visual-cues]] significantly affects phytochemical composition. The aerial parts are typically harvested at the [[cannabis-flowering-stage-management]], when alkaloid and flavonoid content is at its peak. Drying is performed at temperatures below 40 degrees Celsius to preserve thermolabile compounds.
-
-Commercial cultivation in China follows standardized good agricultural practice guidelines. Major production areas include Anhui, Sichuan, and Zhejiang provinces, with both wild-harvested and cultivated supplies entering the market.
-
-Quality control standards in the Chinese Pharmacopoeia specify minimum stachydrine content and limit heavy metal and pesticide residue levels. Compliance with these standards is mandatory for commercial batches.
-
-## See Also
-
-- [[ophiopogon-japonicus]]
-
-- [[vitex-agnus-castus]]
-- [[scutellaria-baicalensis]]
-- [[astragalus-membranaceus]]
-- [[panax-ginseng]]
-- [[withania-somnifera]]
-- [[bacopa-monnieri]]
-- [[rosmarinus-officinalis-entity]]
-- [[origanum-vulgare-entity]]

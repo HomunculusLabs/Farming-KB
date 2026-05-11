@@ -87,35 +87,3 @@ The act of thanking each element reinforces the practitioner's dependence on and
 ## Visualization and Intention Setting
 
 A central component of the ritual is active visualization.
-
-After the elemental invocations, the practitioner returns to the chalice and speaks: "Praise to the earth and all of its wonders, give me the strength to heal and improve."
-
-At this point, the practitioner visualizes themselves improving — whether in health, mental clarity, moral character, or any other dimension they choose.
-
-The cannabis is understood to aid in "opening the gateways of the body and the chakras," allowing this self-improvement work to proceed more effectively than through yoga or meditation alone.
-
-This is a significant theological claim: that plant medicines can complement and accelerate traditional spiritual practices rather than replace them.
-
-The ritual concludes with a closing chant of "Ha, ne, ha, ne, ya, no, ya, no" for several minutes, followed by closing the circle.
-
-The closing represents a return to ordinary consciousness while carrying the benefits of the ritual forward into daily life.
-
-Unlike the opening, which creates separation between sacred and mundane space, the closing intentionally dissolves this boundary, suggesting that the healing and insight gained should permeate all aspects of the practitioner's life.
-
-## Context Within Broader Cannabis Ritual Traditions
-
-The anointing oil ritual described here belongs to a broader body of cannabis-inclusive magical practice.
-
-Other rituals in the same tradition include the Blessing of the Ground (attuning land to a higher level and thanking the earth for its bounty), the Harnessing of Earth's Energy (a healing ritual for physical illness), and the Feeding of the Flame (celebrating the element of fire).
-
-Each follows a similar structural pattern: creating sacred space, incorporating cannabis as a sacrament, making invocations to natural forces, engaging in visualization, and closing the circle.
-
-The consistent emphasis on the four elements and cardinal directions places this tradition within the broader Western esoteric and neopagan framework.
-
-The distinctive contribution is the integration of cannabis as a specific sacramental aid within each ritual, used to enhance focus, open perception, and deepen the connection between the practitioner and the natural world.
-
-The tradition explicitly acknowledges that while substance abuse can be detrimental, intentional and reverent use of plant medicines is a legitimate and ancient path to spiritual growth.
-
-## Sources
-
-- Magus Sativus. Marijuana Magick: A Practitioner's Guide.

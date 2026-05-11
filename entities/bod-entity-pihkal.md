@@ -63,7 +63,7 @@ sources: ["Shulgin - PIHKAL"]
 ## Extensions and Commentary
 
 This compound, BOD, was the first
-exploratory member of a new family of phenethylamines. This family is
+exploratory member of a new [[shulgin-a-pihkal-the-2c-family-of-phenethylamines]]. This family is
 called the BOX series because an oxygen atom has been put on the
 
 benzylic carbon (the "benzyl-oxy" or "BO") of each of several well

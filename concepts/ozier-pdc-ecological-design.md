@@ -1,6 +1,6 @@
 # Ecological Design in Permaculture (Ozier PDC)
 
-**Source:** William Ozier, *William's PDC: A Permaculture Design Course* (2011)
+**Source:** [[william-ozier-williams]], *William's PDC: A [[mollison-permaculture-design-course-curriculum]]* (2011)
 
 ## Definition and Philosophy
 
@@ -14,7 +14,7 @@ and social space.
 The core insight is that ecological design is not about designing individual elements
 in isolation—a garden here, a building there—but about creating comprehensive local
 ecological systems. Just as a beehive or bird's nest is a natural habitat, ecodesign
-creates natural habitats for humans. The goal is to wrap all of a human's needs within
+creates [[mushroom-natural-habitats]] for humans. The goal is to wrap all of a human's needs within
 one integrated design site.
 
 ## The Anthropocentric-Nature Balance
@@ -26,7 +26,7 @@ must:
 
 - Allow Nature's systems to flow through it (deer corridors, seasonal watercourses)
 - Support Nature's cycles (migration patterns, seasonal flooding)
-- Maintain wildlife corridors and habitat connectivity
+- Maintain [[permaculture-designers-manual-wildlife-corridors]] and habitat connectivity
 - Preserve [[biodiversity-of-fungi-ecosystem-services-agriculture]] within the designed landscape
 
 ## Resource Loops in Ecological Design
@@ -40,14 +40,14 @@ the landscape itself, and back into structures. Key loops include:
 3. **Atmospheric cycle** — managing airflow, temperature, and gas exchange
 4. **Materials loop** — recycling, reusing, and selecting materials that can return
    to the earth (bamboo, sustainably harvested timber, earth) or be maintained in an
-   industrial recycling loop
+   [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]] loop
 
 [[natural-building-materials-guide]] should be chosen in order of preference:
 - On-site resources first
 - Locally produced resources
 - Reused materials
 - Recycled materials
-- Rapidly renewable resources
+- Rapidly [[permaculture-principle-use-and-value-renewable-resources]]
 - Green/certified products
 
 ## Ecological Design Checklist
@@ -88,40 +88,3 @@ The ideal ecodesign functions as a closed-loop system where outputs from one ele
 become inputs for another. Examples include:
 
 - Duck pond water flushing into gardens as nutrient-rich irrigation
-- Chicken manure fertilizing garden beds while chickens control pests
-- Kitchen scraps feeding compost which feeds soil which grows food
-- Greywater from sinks watering fruit trees and ornamental plants
-- Rainwater collected from roofs filling ponds and irrigating gardens
-
-## The Human Role in Ecological Design
-
-Ozier identifies humans as integral animal systems in any Permaculture design. Rather
-than viewing humans as the problem, the ecological designer sees humans as the
-solution—the shepherds of their system's ecology. This means designing to maximize the
-ecological potential of human activity: observation, maintenance, harvesting, and
-stewardship become productive ecological functions rather than burdens.
-
-## Key Design Principles Applied
-
-Permaculture principles directly inform ecological design decisions:
-- **[[holmgren-observe-and-interact-detailed]]** — thorough site analysis before design
-- **Catch and store energy** — maximizing on-site energy generation and storage
-- **Obtain a yield** — ensuring all elements produce useful outputs
-- **Apply self-regulation and accept feedback** — adaptive management
-- **Use and value renewable resources** — prioritizing sustainable material flows
-- **[[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]** — closing all material and energy loops
-- **[[permaculture-principle-design-from-patterns-to-details]] to details** — working from landscape-scale to specifics
-- **[[permaculture-principle-integrate-rather-than-segregate]] than segregate** — combining functions in every element
-- **Use small and slow solutions** — appropriate scale technology
-- **Use and value diversity** — polycultural, multi-species systems
-- **Use edges and value the marginal** — maximizing productive interfaces
-- **Creatively use and respond to change** — adaptive, resilient design
-
-## See Also
-
-- faires-permaculture-ethics-and-design-principles
-- [[ozier-pdc-forest-succession-and-layers]]
-- [[ozier-pdc-composting-and-soil-building]]
-- [[permaculture-design]]
-- [[permaculture-principles]]
-- [[ozier-pdc-plant-guilds-and-polyculture-design]]

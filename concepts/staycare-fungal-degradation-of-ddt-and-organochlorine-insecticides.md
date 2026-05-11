@@ -88,24 +88,3 @@ compounds.
 A critical concern in fungal bioremediation of organochlorine
 insecticides is the potential formation of toxic intermediates. In
 some cases, [[singh-fungal-transformation-metals-metalloids]] of organochlorine compounds may
-produce metabolites that are as toxic as or more toxic than the parent
-compound. For example, PCP remediation by P. chrysosporium has been
-shown to produce intermediates toxic to Bacillus megaterium at certain
-stages of the degradation process. Comprehensive toxicity monitoring
-throughout the treatment period is therefore essential for ensuring
-that fungal bioremediation achieves genuine detoxification rather than
-merely transforming one toxic compound into another.
-
-## Challenges for Field Application
-
-Field deployment of fungal organochlorine bioremediation faces
-significant challenges including the extremely low bioavailability of
-these highly hydrophobic compounds in soil, competition with indigenous
-soil microorganisms, and the extended treatment times required due to
-the persistence of the target compounds.
-
-See also: Fungal Pesticide POP Degradation,
-[[fungal-bioremediation-mechanisms]]
-
-- [[staycare-fungal-degradation-of-explosives-and-nitroaromatics]]
-- fungal-degradation-of-dioxins-and-polychlorinated-biphenyls

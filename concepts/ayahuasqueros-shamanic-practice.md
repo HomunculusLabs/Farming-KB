@@ -1,5 +1,5 @@
 ---
-title: Ayahuasqueros and Shamanic Practice
+title: Ayahuasqueros Shamanic Practice
 created: 2026-05-08
 updated: 2026-05-08
 type: concept
@@ -15,12 +15,12 @@ An ayahuasquero is a practitioner who prepares and serves ayahuasca in
 ceremonial contexts. The role encompasses a wide spectrum of individuals,
 from deeply respected community elders to enterprising commercial operators.
 Understanding the diversity of ayahuasqueros is essential for anyone
-considering participating in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in South America.
+considering participating in [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] in [[guzman-psilocybin-mushrooms-south-america]].
 
 ## The Spectrum of Practice
 
 Ayahuasqueros range widely in character, motivation, and skill. Field
-observations in the Ucayali region of Peru revealed practitioners who
+observations in the [[ayahuasquero-practitioner-profiles-ethics-ucayali-region]] of Peru revealed practitioners who
 were frequent liars and shoplifters alongside those widely regarded as
 honorable men dedicated to their community's spiritual wellbeing. The
 variation makes it extremely difficult for foreign visitors to identify
@@ -35,7 +35,7 @@ conduct that tourists may encounter.
 
 In contrast, another practitioner in the Shipibo town of [[shipibo-san-francisco-ceremonial-center-ucayali]],
 known as "E," was widely regarded as an honorable man. At night, icaros
-(sacred healing songs) could be heard in the darkness of his home while
+(sacred [[shipibo-icaros-healing-songs]]) could be heard in the darkness of his home while
 he held private services for his family. He charged about ten dollars to
 give ayahuasca to a tourist—a modest rate compared to the thirty dollars
 charged by more commercially oriented practitioners.
@@ -46,12 +46,12 @@ charged by more commercially oriented practitioners.
 who becomes an ayahuasquero and how they practice. One nephew of a Yarina-
 area shaman earned a couple hundred dollars per month catering to tourists
 while his neighbors could not afford a thirty-cent taxi ride. He charged
-thirty dollars per tourist ceremony versus the going rate of approximately
+thirty dollars per tourist [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] the going rate of approximately
 two dollars for Peruvians.
 
 This economic reality means that some practitioners enter the field primarily
 for financial gain rather than spiritual calling. While many shamans
-undoubtedly come to their profession to help others, ayahuasca tourism is
+undoubtedly come to their profession to help others, [[ayahuasca-tourism]] is
 a thriving business in Peru, and tourists will likely be treated as paying
 customers rather than spiritual seekers.
 
@@ -88,30 +88,3 @@ and cultural resonance.
 Shamanic practice often runs in families. In one observed case, a shaman's
 son served as the director of the family's religious practice and was
 giving workshops in the [[dmt-containing-plants-united-states-halpern]] while the father conducted ceremonies
-in Peru. This transnational dimension of shamanic practice illustrates how
-traditional knowledge is adapting to global demand.
-
-Pentecostal, Adventist, and Catholic missionaries have gained many converts
-in indigenous communities. While these Christians publicly disavow shamanism,
-some still privately consume ayahuasca and continue native religious practices,
-suggesting the deep cultural roots of ayahuasca use persist even through
-religious conversion.
-
-## Challenges for Visitors
-
-Navigating the landscape of ayahuasqueros presents several challenges:
-Character assessment is extremely difficult with language and cultural
-barriers. Pricing varies enormously with no clear correlation to quality
-or authenticity. Commercial motivations may compromise ceremonial depth.
-Even well-regarded practitioners may have significant personal flaws
-that are not immediately apparent to outsiders.
-
-Visitors are advised to seek recommendations from trusted sources, spend
-time getting to know practitioners before committing to ceremonies, and
-maintain realistic expectations about the depth of experience possible
-in a commercial tourism context.
-
-## See Also
-- [[ayahuasca-tourism-in-peru]]
-- [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-- [[metzner-neoshamanic-medicine-circles-structure-and-practice]]

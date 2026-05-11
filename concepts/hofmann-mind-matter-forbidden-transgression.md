@@ -61,7 +61,7 @@ transgression of forbidden limits.
 A further disquieting thought followed from the possibility of influencing
 the highest intellectual functions by traces of a substance: the question
 of free will. The highly active psychotropic substances like LSD and
-psilocybin possess in their chemical structure a very close relationship
+[[psilocybin]] possess in their chemical structure a very close relationship
 with substances inherent in the body, found in the central nervous system
 and playing an important role in the regulation of its functions.
 
@@ -87,47 +87,3 @@ whether the chicken came before the egg." This recognition of the
 fundamental reciprocity between mind and body stands as one of
 Hofmann's most important philosophical contributions to the
 understanding of psychedelic substances.
-
-## Ernst Junger's Response
-
-Junger responded to Hofmann's letter from Wilflingen on December 17,
-1961. He reflected that both in physics and biology, procedures were being
-developed that "no longer advance in the established sense, but that
-rather intervene in evolution and lead forth in the development of the
-species." Junger suggested that science is not the cause but rather one
-of the consequences of evolution.
-
-Regarding the risk Hofmann indicated, Junger observed: "However, it
-exists in every aspect of our existence. The common denominator appears
-now here, now there." On the word "crack," Junger noted that "cracks are
-not merely points of discovery, but also points of destruction. Compared
-to the effects of radiation, those of the magical drugs are more genuine
-and much less rough. In classical manner they lead us beyond the humane."
-
-Junger disagreed with Huxley's view that transcendence possibilities
-could be given to the masses: "I cannot agree with the thoughts of
-Huxley, that possibilities for transcendence could here be given to the
-masses. Indeed, this does not involve comforting fictions, but rather
-realities, if we take the matter earnestly. And few contacts will
-suffice here for the setting of courses and guidance."
-
-## The Morning Glory as Dual Symbol
-
-Hofmann concluded this reflection with the image of the morning glory,
-which shows both possible ways of influencing the mind-body-essence of
-man: in Mexico it exerts its effects in a chemical way as a magic drug,
-while in Japan it acts from the spiritual side, through the beauty of
-its flower cups. Every plant possesses specific powers; the key to most
-remains unknown. There must be a central viewpoint from which not only
-the chemistry, the structure, the color, but rather all attributes become
-significant.
-
-## Continuing Investigations Despite Uncertainty
-
-Despite his uncertainty with regard to the fundamental dangers that could
-lie in the use of hallucinogenic substances, Hofmann continued
-investigations on the active principles of the Mexican magic morning
-glories. In their seeds, those called ololiuhqui by the ancient Aztecs,
-he found as active principles [[hofmann-lsd-consciousness-and-philosophy]]
-- [[ololiuhqui-morning-glory-ergot-alkaloid-connection]]
-- [[hofmann-lsd-discovery-bicycle-day]]

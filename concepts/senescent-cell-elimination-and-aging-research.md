@@ -87,35 +87,3 @@ Clinical trials in humans have reported improvements in cognitive function and p
 Research on synthetic cannabinoid WIN55,212-2 in aged rat models has demonstrated anti-inflammatory and cognitive-enhancing properties. This CB1/CB2 receptor agonist reduced neuroinflammation, improved spatial learning and memory, and decreased markers of oxidative stress in aged animals. The findings suggest that [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] activation may help counteract age-related neuroinflammation and cognitive decline. These results are consistent with broader evidence that the endocannabinoid system plays a neuroprotective role, and that age-related decline in endocannabinoid tone may contribute to cognitive deterioration.
 
 ### CBD and the CB2 Pathway
-
-Cannabidiol (CBD) has garnered interest for its anti-inflammatory and neuroprotective properties mediated in part through CB2 receptor signaling. The CB2 receptor is primarily expressed on immune cells, and its activation suppresses excessive inflammatory responses. Research suggests that the CBD/CB2 pathway may modulate inflammaging by reducing the production of pro-inflammatory cytokines and promoting immune homeostasis.
-
-Preclinical evidence also indicates that CBD may enhance neurogenesis and synaptic plasticity in the hippocampus, regions particularly vulnerable to age-related decline. The endocannabinoid system undergoes changes with aging, including altered receptor expression and reduced endogenous ligand levels. Cannabinoid-based interventions may help restore homeostatic balance within this system. As outlined in [[uwe-blesching]]'s *Cannabis Health Index*, cannabinoid-based interventions represent an emerging modality for addressing the inflammatory component of aging.
-
----
-
-## Psychosomatic Research and Longevity
-
-### Positive Affect and Mortality
-
-A growing body of psychosomatic research has linked positive affect to reduced mortality and extended lifespan. Prospective epidemiological studies have found that individuals reporting higher levels of positive emotion, optimism, and life satisfaction exhibit lower levels of circulating C-reactive protein and interleukin-6, both markers of systemic inflammation. These associations persist after controlling for traditional risk factors, suggesting a direct psychobiological pathway.
-
-A meta-analysis of prospective cohort studies found that positive psychological well-being was associated with a significant reduction in all-cause mortality. The biological pathways implicated include reduced hypothalamic-pituitary-adrenal (HPA) axis dysregulation, enhanced parasympathetic nervous system activity (as measured by heart rate variability), and healthier immune cell profiles. These findings suggest that psychological interventions targeting emotional well-being may have measurable downstream effects on cellular aging processes.
-
-### Meditation and Telomerase Activity
-
-A landmark 2011 study conducted at UC Davis by researchers including Nobel laureate Elizabeth Blackburn found that participation in a meditation retreat (Shamatha meditation) significantly increased telomerase activity in peripheral blood mononuclear cells. Participants who showed the greatest increases in psychological well-being and perceived purpose in life demonstrated the largest telomerase increases. This study provided some of the first experimental evidence linking contemplative practice to a molecular marker of cellular aging.
-
-Follow-up research has replicated and extended these findings, showing that mindfulness-based stress reduction (MBSR) and loving-kindness meditation (metta) programs can also produce favorable changes in telomere length and telomerase activity over periods as short as eight to twelve weeks. The dose-response relationship between meditation practice and telomere biology remains an active area of investigation.
-
-### Mind-Body Medicine and Aging Beliefs
-
-Mind-body medicine research has demonstrated that beliefs about aging can measurably influence health outcomes. Negative age stereotypes have been associated with worse cardiovascular recovery, higher inflammatory markers, and reduced walking speed. Conversely, positive aging self-perceptions correlate with better functional health and longevity. Interventions targeting implicit aging attitudes — including mindfulness-based stress reduction and cognitive reframing — have shown promise in improving both psychological and physiological biomarkers of aging.
-
-Longitudinal research by Becca Levy at Yale University has demonstrated that individuals with more positive self-perceptions of aging at baseline lived an average of 7.5 years longer than those with negative perceptions — an effect that exceeded the longevity benefit attributable to low blood pressure, low cholesterol, non-smoking status, and regular exercise in the same cohorts. This remarkable finding underscores the potency of psychological factors in shaping biological aging trajectories.
-
----
-
-## Summary
-
-The science of aging has converged on several key themes: cellular senescence and inflammaging as central drivers, telomere biology as both mechanism and biomarker, mitochondrial function as a metabolic linchpin, and the psychosomatic dimension as a modifiable factor. Targeted senolytic therapies, nutritional optimization, cannabinoid-based anti-inflammatory strategies, and mind-body practices each offer complementary pathways toward extending healthspan — the period of life spent in good health. As clinical research progresses, an integrative approach combining these modalities may yield the most meaningful impact on healthy longevity. The convergence of senolytic pharmacology, nutritional science, cannabinoid therapeutics, and psychosomatic medicine suggests that the future of aging research lies not in any single intervention, but in the thoughtful combination of strategies targeting the multiple biological and psychological pathways that drive age-related decline.

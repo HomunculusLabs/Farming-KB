@@ -4,7 +4,7 @@ created: 2026-04-28
 type: chemical
 tags:
   - psychedelic
-  - tryptamine
+  - [[tryptamine]]
   - research-chemical
   - hallucinogen
   - 5-ht2a-agonist
@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
-  - Dean, R.A. et al. (2013). "Metabolic fate of 4-acetoxy-N,N-diisopropyltryptamine." Drug Metabolism and Disposition 41(1): 215–223.
-  - Brandt, S.D. et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis 8(9): 931–940.
-  - Halberstadt, A.L. et al. (2020). "Pharmacology of psychoactive tryptamines." Pharmacology & Therapeutics 208: 107485.
+  - Dean, R.A. et al. (2013). "Metabolic fate of 4-acetoxy-N,N-diisopropyltryptamine." [[cytochrome-p450-enzymes-drug-metabolism]] and Disposition 41(1): 215–223.
+  - Brandt, S.D. et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 8(9): 931–940.
+  - Halberstadt, A.L. et al. (2020). "Pharmacology of [[tryptamine]]." Pharmacology & Therapeutics 208: 107485.
 ---
 
 ## Overview
@@ -25,7 +25,7 @@ to psilocin (4-HO-DMT) and DiPT (N,N-diisopropyltryptamine).
 It acts primarily as a serotonin 5-HT2A receptor agonist and is
 classified as a research chemical with limited documented human use.
 
-The compound was first described by Alexander Shulgin in TIHKAL
+The compound was first described by [[alexander-shulgin]] in TIHKAL
 (1997), where it received a subjective evaluation at low doses.
 Reports describe predominantly auditory distortions alongside mild
 visual and cognitive effects, distinguishing it from more visually
@@ -47,7 +47,7 @@ countries but controlled under analogue acts in others.
 - **Solubility:** Soluble in ethanol, DMSO, and slightly in water
 
 The acetoxy group at the 4-position of the indole ring serves as
-a prodrug moiety, analogous to the relationship between psilocybin
+a prodrug moiety, analogous to the relationship between [[psilocybin]]
 (4-PO-DMT) and psilocin (4-HO-DMT). The diisopropyl substitution
 on the terminal amine is the distinguishing feature from the more
 common dimethylamino tryptamines.
@@ -88,47 +88,3 @@ Shulgin's TIHKAL entry):
   patterns, occasional word-finding difficulty
 - **Somatic effects** — mild body load, nausea at higher doses,
   slight pupil dilation
-
-**Dose range (oral):**
-
-- Threshold: 5–8 mg
-- Light: 8–15 mg
-- Common: 15–25 mg
-- Strong: 25–35 mg
-
-**Duration:** 3–6 hours, with onset at 20–40 minutes, peak at
-1.5–2.5 hours, and gradual comedown over 2–3 hours.
-
-## Legal Status
-
-4-AcO-DiPT is unscheduled in most countries, but its legal status
-is often governed by analogue drug legislation:
-
-- **[[dmt-containing-plants-united-states-halpern]]** — potentially covered under the Federal Analogue
-  Act as an analogue of a Schedule I controlled substance
-- **United Kingdom** — Class A under the Psychoactive Substances
-  Act 2016 and/or generic tryptamine controls
-- **EU** — varies by member state; several countries have scheduled
-  it explicitly or through analogue provisions
-- **Japan** — scheduled as a designated substance
-
-## Related Compounds
-
-- **4-HO-DiPT** — active deacetylated metabolite; hydroxy analog
-- **DiPT** — N,N-diisopropyltryptamine; non-acetylated parent compound;
-  known for pronounced auditory pitch-shifting effects
-- **4-AcO-DMT** — psilacetin; dimethyl analog; widely used and
-  better-characterized psychedelic
-- **4-HO-MiPT** — moxy; methylisopropyl analog; popular research
-  chemical with more balanced visual/auditory effects
-- **4-AcO-MiPT** — acetylated form of 4-HO-MiPT; prodrug
-
-## See Also
-
-- [[dipt]]
-- [[4-ho-dipt-entity-tihkal]]
-- [[tryptamine]]
-- [[psilocin]]
-- [[4-acetoxy-dmt]]
-- Psychedelic-Compounds
-- Research-Chemicals

@@ -87,22 +87,3 @@ Participants experience access to metaphysical realms or worlds, variously calle
 ### 4. Perception of Spirit Beings
 
 The experience may involve perception of nonmaterial, normally invisible spirit beings or entities. These spirits are associated with:
-
-- Particular animals (serpent, jaguar)
-- Certain plants, trees, or fungi
-- Particular places (river, rainforest)
-- Deceased ancestors
-- Other nonordinary entities (extraterrestrials, elves)
-
-The experience may include identification with a spirit, such as becoming a jaguar or a serpent. Healing and divination are experienced as being done by or with the assistance of such spirits, also referred to as "allies," "power animals," "guardians," or "helpers."
-## Related
-
-- [[metzner-four-paradigms-psychedelic-healing]]
-- [[metzner-hybrid-shamanic-therapeutic-rituals]]
-- [[plant-teachers-ayahuasca]]
-
-## See Also
-
-- [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
-- [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]
-- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]

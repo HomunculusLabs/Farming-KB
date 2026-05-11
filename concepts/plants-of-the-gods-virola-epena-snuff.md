@@ -14,7 +14,7 @@ type: concept
 ## Overview
 
 Virola is a genus of approximately sixty species of trees in the
-Myristicaceae (Nutmeg Family) distributed throughout tropical forests
+Myristicaceae (Nutmeg Family) distributed throughout [[fungal-biodiversity-tropical-forests]]
 of the New World. While psychoactive principles have been found in at
 least a dozen species, it is only in the western Amazon and adjacent
 parts of the Orinoco basin that Virola has been used as the source of a
@@ -25,7 +25,7 @@ preparation, ceremonial use, and [[ethnomycology-cultural-significance-sacred-fu
 ## Mythological Origins
 
 The Tukano people possess a creation myth explaining the origin of
-Virola snuff: at the beginning of time, Father Sun practiced incest
+[[virola-snuff]]: at the beginning of time, Father Sun practiced incest
 with his daughter, who acquired Viho by scratching her father's penis.
 Thus the Tukano received this sacred snuff from the sun's semen, and
 since it is still hallowed, it is kept in containers called
@@ -60,7 +60,7 @@ The cambial layer of bark and trunk is rasped and gently dried over a
 fire for storage. When needed, the shavings are wetted and boiled for
 half an hour, the liquid reduced to a syrup, dried, and ground to a
 fine powder. This dust is mixed with equal amounts of powdered dried
-aromatic leaves of Justicia pectoralis var. stenophylla. A third
+aromatic leaves of [[justicia-pectoralis]] var. stenophylla. A third
 ingredient is added: ashes of the bark of Elizabetha princeps.
 
 ### Brazilian Forest Method
@@ -88,35 +88,3 @@ Unlike Colombian Indians, among whom snuff use is usually restricted to
 shamans, the Waika tribes often take the drug in daily life. All male
 members above age thirteen or fourteen may participate. The snuff is
 consumed in frighteningly excessive amounts — three to six teaspoonfuls
-per inhalation through large snuffing tubes made of amaranthaceous
-plant stems. Once a year, Waika Indians gather for an endocannibalistic
-ceremony commemorating the dead, during which huge quantities of Virola
-snuff are consumed.
-
-## Historical Discovery
-
-The drug was not known until the early [[coleman-louis-savier-twentieth-century-maraicher]], when a German
-ethnologist reported on the Yekwana of the upper Orinoco. In 1938-39,
-the Brazilian botanist Ducke first associated Virola with the snuff,
-though incorrectly identifying leaves (never used) as the source. The
-first detailed botanical identification was published in 1954, when
-preparation and use among Colombian Indians was described by
-later work established the primacy of V. theiodora.
-
-## Effects and Experience
-
-After inhalation, users experience an initial stage of hyperactivity and
-stimulation during which participants engage the hekuta spirits. This is
-followed by a period of disturbed somnolescence during which nightmarish
-visual hallucinations continue. The relationship between magico-religious
-and "medicinal" practices is so intricate that the Indian does not
-distinguish between supernatural and pragmatic domains. Ettore Biocca
-recorded: "Sometimes when they travel or go hunting, they say: 'I must
-carry my Epena against those spirits, so that they do not persecute us.'"
-
-## Related Topics
-
-- [[virola-snuff]] - general Virola reference
-- [[golden-guide-hallucinogenic-plants-dmt-containing-species]] - DMT
-- [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] - shamans
-- [[hallucinogenic-plants-history-ethnobotany]] - general survey

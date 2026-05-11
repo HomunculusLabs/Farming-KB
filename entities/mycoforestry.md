@@ -14,6 +14,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md
   - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
@@ -23,7 +24,7 @@ sources:
 Mycoforestry is the use of fungi to sustain forest communities. Coined and
 popularized by **Paul Stamets** in *[[woodlovers-mycelium-running-pathway-technique]]* (2005), it is a newly
 emerging science — an offshoot of ecoforestry practices emphasizing the role of
-beneficial fungi in forest health, regeneration, and sustainability. The
+[[cervantes-trichoderma-beneficial-fungi]] in forest health, regeneration, and sustainability. The
 foundational principle is simple: **without fungi, there are no forests.**
 
 ## Core Philosophy
@@ -56,18 +57,18 @@ Bears actively spread mushroom spores while foraging. Migrating fish carry
 marine minerals (trace phosphorus, nitrogen) into upland forests; scavenging
 animals redistribute these nutrients far from streams. In the 1940s–1960s,
 timber companies killed bears to protect lumber, not understanding that bears
-were essential to the fungal and nutrient cycles sustaining forest health.
+were essential to the fungal [[ozier-pdc-composting-and-nutrient-cycles]] sustaining forest health.
 
 ### Decomposition and Soil Building
 Wood chips are quickly consumed by fungal mycelium, whereas whole logs
 decompose much more slowly. Stamets recommends creating a matrix by chipping
 wood into variably sized fragments, allowing mycelium to rapidly colonize
-material. Saprophytic fungi lead habitat renewal after catastrophes,
+material. [[saprophytic-fungi]] lead habitat renewal after catastrophes,
 supporting construction of complex life-supporting soils.
 
 ### Mycorrhizal Partnerships
 Reforestation is greatly enhanced when mycorrhizae are introduced to seeds or
-young tree roots at planting time. Mycorrhizal fungi extend effective root
+young tree roots at planting time. [[arbuscular-mycorrhizal-fungi]] extend effective root
 systems, improving water and mineral access in exchange for host
 carbohydrates. Nursery seedlings grown in pasteurized soils typically lack
 mycorrhizae — a deficiency addressable through inoculation.
@@ -81,42 +82,9 @@ mycorrhizae — a deficiency addressable through inoculation.
    fish and birds, supporting broader food webs
 5. **Select fungal species** according to interactions with bacteria and plants
 6. **Choose species that compete with disease rot fungi** (*Armillaria*,
-   *Heterobasidion annosum*) using mycorestorative saprophytes
+   *[[heterobasidion-annosum]]*) using mycorestorative saprophytes
 7. **Use spored oils** in chain saws and chippers so wood debris immediately
    contacts fungal spores, jump-starting decomposition
 8. **Retain wood debris on-site** around newly planted trees and roads
 9. **Only burn wood debris** as a last-ditch measure for [[hamilton-pest-and-disease-control-organic]]
-10. **Use mycorrhizal spore inoculum** when replanting forestlands
-
-## Practical Applications
-
-### Stump Recycling
-Aggressive saprophytic species (oyster mushrooms, turkey tails, wood lovers)
-are introduced to logged stumps. Parasitic fungi are confronted in mycelial
-combat, lessening their resurgence and accelerating nutrient recycling.
-
-### Post-Fire Restoration
-After wildfires, mycoforestry practices can amplify natural fungal recovery,
-reducing fuel loads and promoting reforestation. Stamets conducted a long-term
-experiment on Cortes Island, BC, demonstrating mycoforestry strategies with
-second-growth Douglas fir, hemlock, and western red cedar.
-
-### Spored Oils
-Chain saw oil infused with fungal spores ensures that every cut surface is
-immediately inoculated, accelerating decomposition of logging debris and
-confronting parasitic fungi with competitive saprophytes.
-
-## Economic Considerations
-
-Secondary products from woodland ecosystems — edible and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]],
-pharmaceutical compounds, [[biodiversity-of-fungi-ecosystem-services-agriculture]] like water filtration — provide
-strong economic incentives to leave forests intact. Forests affect climate and
-prevent desertification. The challenge lies in valuing assets that conventional
-models cannot quantify: biodiversity, unspoiled landscapes, and undiscovered
-mycomedicines.
-
-## See Also
-
-- [[mycoremediation]] — fungi to degrade environmental pollutants
-- [[laccaria-laccata]] — mycorrhizal species used in forestry
-- [[pisolithus-tinctorius]] — ectomycorrhizal fungus for reforestation
+10. **Use [[arbuscular-mycorrhizal-spore-extraction-methods]] inoculum** when replanting forestlands

@@ -23,11 +23,11 @@ sources:
 
 The genus Phyteuma, known as rampions, is distinguished from Campanula by its distinctive spike-like inflorescences. In Phyteuma spicatum, the cream-white to pale yellow flowers are densely packed into an elongated, cylindrical head that gives the species its common name.
 
-The species has a long history of use as a root vegetable in continental Europe. The fleshy, carrot-like taproot was historically cultivated as a food crop and is still occasionally gathered from the wild in parts of France and Germany.
+The species has a long history of use as a [[fukuoka-western-root-vegetable-deficiency]] in continental Europe. The fleshy, carrot-like taproot was historically cultivated as a food crop and is still occasionally gathered from the wild in parts of France and Germany.
 
 Phyteuma spicatum is less commonly grown in gardens than Campanula species but is valued for its unusual inflorescence form and shade tolerance. It naturalizes well in woodland gardens and wildflower meadows.
 
-The genus name Phyteuma derives from the Greek phyteuma meaning "a planting" or "growth," reflecting the ancient cultivation of several species as root vegetables. The common name "rampion" comes from the Latin rapum (turnip), also referring to the edible root.
+The genus name Phyteuma derives from the Greek phyteuma meaning "a planting" or "growth," reflecting the ancient cultivation of several species as [[growing-root-vegetables-guide]]. The common name "rampion" comes from the Latin rapum (turnip), also referring to the edible root.
 
 ## Taxonomy and Morphology
 
@@ -55,9 +55,9 @@ In the British Isles, the species is rare and declining, restricted to a few sit
 
 The species grows in deciduous woodlands, woodland margins, hedgerows, and damp meadows on neutral to calcareous soils. It prefers partial shade and moist, humus-rich conditions but tolerates full shade in summer.
 
-Typical habitats include beech (Fagus sylvatica) and oak (Quercus robur) woodlands on clay and limestone. Associated species include [[convallaria-majalis]], [[anemone-nemorosa]], and [[symphytum-officinale]].
+Typical habitats include beech ([[fagus-sylvatica]]) and oak ([[quercus-robur]]) woodlands on clay and limestone. Associated species include [[convallaria-majalis]], [[anemone-nemorosa]], and [[symphytum-officinale]].
 
-Populations occur from sea level to 1,600 m in the Alps, with montane populations typically found on north-facing slopes where moisture is retained through the growing season.
+Populations occur from sea level to 1,600 m in the Alps, with montane populations typically found on north-facing slopes where moisture is retained through [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
 
 The species shows a strong affinity for ancient woodland sites with continuous canopy cover for at least 400 years. This association with historically stable habitats makes it a valuable bioindicator for woodland antiquity in conservation assessments.
 
@@ -71,7 +71,7 @@ Seed viability is moderate, with germination rates of 40–60% from fresh seed d
 
 The fleshy taproot is edible when cooked, with a flavor described as similar to parsnip or salsify. Historical cultivation in continental Europe focused on this root crop, though it has been largely superseded by more productive vegetables.
 
-The roots are richest in carbohydrates and contain moderate amounts of vitamin C and minerals. Traditional preparation involves scrubbing, boiling for 15–20 minutes, and serving with butter or in soups. The flavor is mild and slightly sweet.
+The roots are richest in carbohydrates and contain moderate amounts of vitamin C and minerals. [[kava-traditional-preparation-ceremonial-context]] involves scrubbing, boiling for 15–20 minutes, and serving with butter or in soups. The flavor is mild and slightly sweet.
 
 Young leaves are also edible as a cooked green, though they are somewhat bitter. The root was traditionally boiled, roasted, or added to stews in rural French and German cookery.
 
@@ -88,34 +88,3 @@ The species is a component of ancient woodland ground flora in continental Europ
 In Germany and Austria, Phyteuma spicatum is used as one of 30–40 "ancient forest indicator" species by ecologists assessing woodland continuity. Its presence strongly suggests the site has been wooded for several centuries without significant disturbance.
 
 In the UK, Phyteuma spicatum is one of the rarest Campanulaceae species, with fewer than 10 extant populations. Habitat loss through woodland clearance and agricultural improvement has been the primary driver of decline.
-
-The deep taproot helps stabilize soil on woodland slopes and contributes to the soil structure of mature woodland ecosystems. Roots penetrate 20–30 cm into the soil profile, accessing nutrients from deeper layers.
-
-The species is mycorrhizal, forming associations with arbuscular mycorrhizal fungi (AMF) that enhance phosphorus uptake in the nutrient-poor soils typical of shaded woodland floors. This symbiotic relationship is common among shade-adapted woodland perennials.
-
-No serious pests or diseases are reported in cultivation. Slugs may damage young foliage in damp conditions, and root rot can occur in waterlogged soils, but the species is generally trouble-free.
-
-## Conservation
-
-Phyteuma spicatum is not globally threatened and is classified as Least Concern by IUCN. However, regional declines in the British Isles and parts of northwestern Europe have prompted conservation concern.
-
-In Great Britain, the species is protected under Schedule 8 of the Wildlife and Countryside Act 1981, making it an offense to pick, uproot, or destroy wild plants. Conservation efforts focus on protecting remaining woodland habitats and maintaining appropriate management regimes.
-
-The species has disappeared from more than 75% of its recorded British sites over the past century. Remaining populations are small, isolated, and vulnerable to stochastic extinction events, genetic bottlenecks, and habitat deterioration.
-
-Reintroduction trials in southern England have shown some success, particularly in sites with appropriate canopy cover (40–60%), moist but not waterlogged soils, and protection from grazing deer. Seedling establishment requires bare soil patches in the woodland floor.
-
-In continental Europe, Phyteuma spicatum remains locally common in the Alps and foothills, where traditional woodland management practices create suitable conditions. The species benefits from coppicing and selective felling that maintain partial canopy openings.
-
-## See Also
-
-- [[campanula-trachelium]]
-- [[campanula-lactiflora]]
-- [[lobelia-siphilitica]]
-- [[convallaria-majalis]]
-- [[anemone-nemorosa]]
-- [[symphytum-officinale]]
-- [[primula-vulgaris]]
-- [[pulmonaria-officinalis]]
-- [[caltha-palustris]]
-- [[solidago-virgaurea]]

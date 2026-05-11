@@ -1,7 +1,7 @@
 ---
 title: "Humus - The Foundation of Soil Health"
 created: 2026-04-26
-tags: [soil-science, humus, organic-matter, soil-food-web, permaculture]
+tags: [soil-science, humus, organic-matter, soil-food-web, [[permaculture]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
@@ -11,15 +11,15 @@ type: concept
 
 # Humus - The Foundation of Soil Health
 
-Humus is the end product of decomposition, a stable, incredibly
+Humus is the end product of [[decomposition]], a stable, incredibly
 complex group of molecules that only slowly undergoes further
 breakdown. [[teaming-with-microbes-soil-food-web-overview]] is essential context for understanding humus:
 the journey from leaf to humus follows a precise ecological
 sequence. As a leaf is shredded, chewed, and chemically
 dissolved by soil organisms, some parts decompose more quickly
 than others. The first tissues to go are those made of sugars
-and starches, which soil life quickly converts to energy,
-carbon dioxide, or more organisms.
+and starches, which [[soil-life]] quickly converts to energy,
+[[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], or more organisms.
 
 A little harder to digest are celluloses and some types of
 proteins. Not all soil organisms have the special enzymes needed
@@ -40,9 +40,9 @@ difficult for soil organisms to attack.
 
 ## The Slow Accumulation of Humus
 
-Since organisms cannot easily break down humus, it accumulates
+Since organisms cannot easily [[query-how-do-white-rot-fungi-break-down-lignin]] humus, it accumulates
 in the soil. It will eventually decompose, but in healthy soil,
-freshly composting debris arrives at least as fast as the old
+freshly [[composting]] debris arrives at least as fast as the old
 humus is broken down, resulting in a slow turnover and constant
 buildup of humus.
 
@@ -87,42 +87,3 @@ humus can pick up and store enormous quantities of these
 nutrients.
 
 ## How Plants Access Humus Nutrients
-
-Plant roots secrete very mild acids, which break the bonds that
-hold nutrients onto the humus. The nutrients are washed into
-the soil moisture, creating a rich soup. Bathed in this
-nutritious broth, plants can absorb as much calcium, ammonium,
-or other nutrient as they need. There is evidence that when
-plants have supped long enough, they stop the flow of acid to
-avoid depleting the humus.
-
-Just as common in healthy soil is an indirect route where
-microbes are the middlemen. Roots release sugars and vitamins
-that feed beneficial bacteria and fungi. These microbes thrive
-in huge numbers close to roots. In return, the microbes produce
-acids and enzymes that release the humus-bound nutrients and
-share this food with the plants.
-
-## The Microbial Contribution to Soil Structure
-
-As they feed, certain soil bacteria secrete gums, waxes, and
-gels that hold tiny particles of earth together. Dividing
-fungal cells lengthen into long fingers of hyphae that surround
-crumbs of soil and bind them to each other. These mini-clumps
-give microbially rich soil its good tilth, the loose, crumbly
-structure that gardeners and farmers strive for.
-
-These gooey microbial byproducts protect soil from drying and
-allow it to hold huge volumes of water. Without soil life,
-earth just dries up and blows away, or clumps together after a
-rain and forms clay-bound, root-thwarting clods.
-
-## Humus and Fungal Networks
-
-[[composting-science-solomon]] and gaias-garden-sheet-mulching to add constant
-  organic matter
-- Use gaias-garden-mulch-plants-ecological-garden to
-  protect soil surfaces
-- Compost all available organic waste and return it to the soil
-- See [[gaias-garden-soil-food-web-and-humus]] for the complete
-  picture

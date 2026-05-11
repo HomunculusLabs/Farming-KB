@@ -32,7 +32,7 @@ The species is a valuable nectar source for pollinators in subalpine and alpine 
 
 **Trollius europaeus** was described by Carl Linnaeus in 1753.
 
-The genus Trollius contains approximately 30 species distributed across the Northern Hemisphere, with the greatest diversity in East Asia.
+The genus Trollius contains approximately 30 species distributed across the Northern Hemisphere, with the greatest diversity in [[neurotropic-fungi-japan-east-asia-species-cultural-context]].
 
 Plants grow 30 to 60 cm tall from a thick, fibrous rootstock, forming loose clumps.
 
@@ -62,7 +62,7 @@ It inhabits damp meadows, marshy pastures, stream banks, alpine grasslands, and 
 
 The species requires consistent soil moisture and is intolerant of prolonged drought.
 
-Soils are typically rich, acidic to neutral, and high in organic matter.
+Soils are typically rich, acidic to neutral, and high in [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]].
 
 In lowland areas, it is often an indicator of unimproved, species-rich grassland habitats.
 
@@ -80,49 +80,10 @@ This fly-pollination syndrome is relatively uncommon among temperate herbs and r
 
 The species also reproduces vegetatively through its creeping rootstock, forming slowly expanding clumps.
 
-Seed germination is often slow and irregular, requiring a period of cold stratification for optimal results.
+[[cannabis-seed-germination]] is often slow and irregular, requiring a period of cold stratification for optimal results.
 
 Flowering occurs from May to August depending on elevation and latitude.
 
 ## Traditional Uses
 
 **Trollius europaeus** has a limited history of use in traditional European medicine.
-
-The dried flowers were occasionally used as a mild antispasmodic and diuretic in folk herbal practice.
-
-In Scandinavian folk medicine, infusions of the plant were used to treat scurvy, possibly due to mild vitamin C content in the foliage.
-
-The plant contains ranunculin, a glucoside that hydrolyzes to the irritant protoanemonin, making internal use potentially hazardous.
-
-Some sources mention the use of dried flowers as a snuff to treat headaches, though this practice carried obvious risks.
-
-In horticulture, the species has been cultivated since at least the 16th century for its attractive globular flowers.
-
-Several named cultivars and hybrids (particularly with Asian Trollius species) are available in the nursery trade.
-
-## Ecology and Conservation
-
-**Trollius europaeus** is a characteristic species of species-rich damp meadows and alpine grassland communities.
-
-It serves as a larval food plant for several moth species, including the calendula pug (Eupithecia calendulata).
-
-The species is generally common and not considered threatened across most of its range.
-
-However, populations have declined in lowland Europe due to agricultural intensification, drainage of wet meadows, and conversion of species-rich grasslands to improved pasture.
-
-In the United Kingdom, the species has experienced significant range contraction and is considered a species of conservation concern in several counties.
-
-It is protected by law in some European countries and is listed in various national Red Data Books.
-
-Conservation efforts focus on maintaining traditional hay meadow management practices that preserve the damp, open conditions the species requires.
-
-## See Also
-
-- [[pulsatilla-vulgaris]]
-- [[aconitum-napellus]]
-- [[ranunculus-aquatilis]]
-- [[clematis-vitalba]]
-- [[plantago-major]]
-- [[veratrum-viride]]
-- [[veratrum-album]]
-- [[colchicum-autumnale]]

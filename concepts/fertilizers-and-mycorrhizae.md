@@ -88,15 +88,3 @@ Nutrient content: Nitrogen 12 to 14 percent, small amount of phosphorus.
 ## Fish Meal
 
 Fish meal is a useful fertilizer containing nitrogen and phosphate (phosphorus). Some manufacturers add potash inorganically, in which case it can be sold as semi-organic. Carefully check the label to ensure you are buying a fully organic product.
-
-Nutrient content: Nitrogen 9 percent, Phosphorus 2.5 percent.
-
-Fish meal provides a balanced combination of nitrogen and phosphorus, making it useful for general garden feeding, particularly where [[hamilton-composting-and-organic-matter-management]] supplies are limited.
-
-## Fish Emulsion and Liquid Fish Products
-
-While Hamilton does not describe fish emulsion specifically, liquid fish-based fertilizers would fall into the same category as liquid animal manures. These contain all the major nutrients in small quantities but are rich in trace elements and are very useful for treating trace element deficiencies.
-
-Liquid fish products share many properties with liquid kelp and can be used as [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for rapid nutrient delivery.
-
-## Hoof and Horn Meal

@@ -1,6 +1,6 @@
 ---
-title: Produce No Waste - holmgren produce no waste waste hierarchy refuse reduce reuse repair recycle and the Permaculture Principle
-source: Permaculture: Principles and Pathways Beyond Sustainability (Holmgren, 2002)
+title: Holmgren Produce No Waste Waste Hierarchy Refuse Reduce Reuse Repair Recycle
+source: Permaculture: Principles and Pathways [[holmgren-beyond-sustainability]] (Holmgren, 2002)
 tags: [permaculture, waste, recycling, reuse, sustainability, zero-waste]
 ---
 
@@ -77,9 +77,9 @@ Holmgren describes how food waste at Melliodora flows through multiple
 productive cascades. Leftovers from human meals are first offered for human
 consumption on subsequent days. What remains is fed to poultry (fowls), who
 convert it into eggs and meat. Poultry manure is then directed to compost
-systems or directly applied to garden beds, building soil fertility. Water
+systems or directly applied to garden beds, [[building-soil-fertility-long-term]]. Water
 similarly cascades through multiple uses: clean water for drinking and
-cooking flows to greywater for garden irrigation; rainwater is caught from
+cooking flows to greywater [[query-how-do-i-build-and-manage-a-greywater-system-for-garden-irrigation]]; rainwater is caught from
 roofs for domestic and garden use. Each cascade extracts maximum value from
 the resource before it exits the system.
 
@@ -88,45 +88,3 @@ the resource before it exits the system.
 Holmgren is candid about the limitations of reuse practices. Collecting too
 many reusable materials can itself become a form of waste accumulation,
 consuming space and attention without productive use. Dependency on free or
-discarded materials can create fragility, making systems vulnerable to changes
-in waste streams from the broader economy. The permaculture designer must
-exercise judgement about when reuse adds genuine value and when it becomes a
-hoarding behaviour that undermines the efficiency and aesthetics of the system.
-
-## Repair as a Fundamental Biological Process
-
-Repair is not merely a human economic strategy but a fundamental process in
-all living systems. Wound healing in animals, tissue regeneration in plants,
-and soil repair after disturbance are all biological expressions of the
-repair principle. Holmgren argues that modern industrial culture has
-systematically devalued repair in favour of replacement, creating enormous
-waste and eroding practical skills. Recovering a culture of repair is
-essential for [[holmgren-energy-descent-permaculture-flower]], when new manufactured goods will be less
-available and more expensive.
-
-## Recycling Compared to Reuse
-
-Recycling, while better than disposal, requires significant energy inputs to
-transform waste materials into new products. It is fundamentally a
-downcycling process --- recycled materials are typically of lower quality
-than the originals. Reuse, by contrast, maintains the embodied energy and
-material integrity of the original product with minimal additional energy
-input. Holmgren emphasises that recycling should be the last resort, not
-the first strategy, in any waste elimination programme.
-
-## Upstream Redesign and the Next Best Use
-
-The most powerful application of the waste principle is upstream redesign ---
-changing systems so that waste is not produced in the first place. Holmgren
-compares this to the difference between mopping up a leak and fixing the pipe.
-For energy descent scenarios, he introduces the concept of "next best use":
-when a material or technology can no longer serve its original purpose, what
-is its next most valuable application? This concept guides practical decision-
-making in resource-constrained environments and represents the waste hierarchy
-in action at the systems level.
-
-## See Also
-  - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
-  - [[row-gardening-vs-intensive-methods-solomon]]
-
-- [[holmgren-melliodora-permaculture-demonstration-site-hepburn-springs]]

@@ -1,5 +1,5 @@
 ---
-title: "Fungal fungal resource partitioning decomposition sequences and Decomposition Sequences"
+title: Fungal Resource Partitioning Decomposition Sequences
 created: 2026-04-26
 tags:
   - mycology
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/unknown-biodiversity-of-fungi.md
 type: concept
 ---
@@ -55,21 +56,21 @@ Polyporales and Agaricales are characteristic tertiary decomposers.
 ### Enzymatic Specialization
 
 Different fungal species produce different complements of
-extracellular enzymes, allowing them to exploit different chemical
+[[fungal-extracellular-enzymes]], allowing them to exploit different chemical
 components of [[hamilton-composting-and-organic-matter-management]]:
 - **Cellulases**: Hydrolyze cellulose to glucose
 - **Hemicellulases**: Degrade hemicellulose polymers
 - **Lignin peroxidases and manganese peroxidases**: Oxidatively
   degrade lignin
-- **Laccases**: Oxidize phenolic compounds
+- **Laccases**: Oxidize [[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]]
 - **Pectinases**: [[query-can-fungi-break-down-plastic-pollution]] pectin in middle lamellae
 - **Cutinases**: Degrade cutin in leaf surfaces
-- **Chitinases**: Break down chitin in fungal cell walls and insect
+- **Chitinases**: [[query-how-do-white-rot-fungi-break-down-lignin]] chitin in fungal cell walls and insect
   exoskeletons
 
 ### Substrate Specificity
 
-Studies of litter fungi have revealed patterns of host specificity.
+Studies of [[aact-forest-litter-fungi-mycorrhizal-ingham]] have revealed patterns of [[fungal-endemism-host-specificity]].
 Bills and Polishook (1996) investigated the complementarity of fungal
 species isolated from litter of two plant species growing together in
 a forest in Puerto Rico, addressing the question of specificity and
@@ -86,40 +87,3 @@ found in less than 9% of the samples, strongly suggesting that many
 species of microfungi are rare.
 
 ### Non-Host-Directed Diversity
-
-A small number of surveys have focused on the diversity of microfungi
-associated with litter in general, without reference to specific host
-plants. Rambelli and colleagues (1983) studied leaf litter samples from
-four [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] plots in the Ivory Coast, comparing undisturbed
-vegetation with sites cleared using traditional agricultural practices.
-They identified between 129 and 165 species from undisturbed and
-disturbed plots, respectively. The disturbed sites showed greater
-diversity, presumably because native species persisted in competition
-with taxa introduced by the agricultural process.
-
-## Competition and Antagonism
-
-### Hyphal Interference
-
-A phenomenon termed hyphal interference occurs when the [[trichoderma]] species exhibit
-various modes of interspecific interaction mediated by volatile and
-nonvolatile metabolites. Members of the Chaetomiaceae and
-Sporormiaceae produce a number of diffusible compounds that may act as
-defense mechanisms in competitive situations.
-
-### Competition for Resources
-
-Stress imposed by poor access to nutrients tends to limit interspecific
-[[dighton-fungal-competition-resource-partitioning]] and favors long term exploitation of scarce resources.
-Under such conditions, S-selected (stress-tolerant) fungi that exhibit
-slow increase in biomass, specialized physiological adaptations, and
-high enzymatic competence for resource exploitation are favored.
-Abundance of soluble carbohydrate-rich resources favors R-selected fungi
-with fast growth rates, high reproductive capacity, and short life
-spans.
-## See Also
-- [[decomposition]]
-- [[dighton-fungal-competition-resource-partitioning]]
-- [[fungal-decomposition-succession-resource-quality]]
-- [[fungal-decomposition-resource-quality-determinants]]
-- [[dighton-fungal-succession-resource-decomposition]]

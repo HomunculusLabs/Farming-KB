@@ -1,5 +1,5 @@
 ---
-title: Hothouse and fukuoka textdoc hothouse hydroponic agriculture decline Decline
+title: Fukuoka Textdoc Hothouse Hydroponic Agriculture Decline
 created: 2026-04-28
 tags:
   - fukuoka
@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -20,7 +21,7 @@ type: concept
 
 Fukuoka documented the progressive degradation of agriculture from open-field cultivation to artificial growing systems as a primary symptom of humanity's alienation from nature.
 
-He traced a clear trajectory: from growing crops under open skies, to hothouse horticulture, to soilless hydroponics, and ultimately to the complete chemical synthesis of food.
+He traced a clear trajectory: from growing crops under open skies, to hothouse horticulture, to soilless hydroponics, and ultimately to the complete [[psilocin-chemical-synthesis]] of food.
 
 Each step, he argued, represented a further departure from the [[fukuoka-textdoc-natural-order-food-chain-unity]] and a decline in the quality of food produced.
 
@@ -36,11 +37,11 @@ This was accompanied by a fundamental change in thinking — replacing the notio
 
 Since the root absorption of nutrients dissolved in water is inefficient, the nutrient solution was sprayed on a regular basis over the entire plant.
 
-Nutrients were taken in not only through the roots, but also through leaf surfaces, making them more immediately available and resulting in a higher growth rate.
+Nutrients were taken in not only through the roots, but also through leaf surfaces, making them more immediately available and resulting in a higher [[soil-temperature-plant-growth-rate-doubling-rule]].
 
 ## The Sealed Sterile Chamber
 
-Temperature was increased, light exposure raised with artificial lighting, and carbon dioxide was sprayed and oxygen pumped in, making plant growth several times faster than in field cultivation.
+Temperature was increased, light exposure raised with artificial lighting, and [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] was sprayed and oxygen pumped in, making plant growth several times faster than in field cultivation.
 
 The only function of the sand and gravel was to support the plant, so a simpler, more readily available material was sought.
 
@@ -80,68 +81,10 @@ He argued that such a plant "cannot possibly grow produce more cheaply than crop
 
 Nature "produces without calling for supplies or remuneration, but human effort always demands payment in return."
 
-The more sophisticated the equipment and facilities, the higher the costs, and "man never knows when to stop."
+The more sophisticated the [[gottlieb-psilocybin-cultivation-equipment-and-facilities]], the higher the costs, and "man never knows when to stop."
 
 When a highly efficient robot is developed, people applaud, saying that efficient production has arrived.
 
 But their joy is short-lived, for soon they are dissatisfied again and demanding even more advanced and efficient technology.
 
 "Everyone seems intent on lowering [[fukuoka-textdoc-production-costs-not-coming-down]], yet these costs have skyrocketed nevertheless."
-
-The same fallacy applies to microorganisms such as chlorella and yeast.
-
-"Science cannot produce something from nothing. Invariably, the result is a decrease in production rather than an increase, giving a high-cost product."
-
-## Agriculture Reduced to Manufacturing
-
-Fukuoka saw the transformation of agriculture into a form of manufacturing as the root cause of quality decline.
-
-"Farming under the open skies has disappeared. Agriculture today has been degraded to the manufacture of petroleum-derived foods, and the farmer has become a seller of false goods called 'nutritional food.'"
-
-The use of oil-based energy in agriculture has gotten to the point where one could almost talk of "growing rice in the 'oil patch' rather than in the 'paddy.'"
-
-The farmer who once worked hand in hand with nature "capitulated to the pressures of society and became a subcontractor to the oil industry."
-
-Control over the farmer's livelihood passed into the hands of the industrialist and businessman.
-
-"Today it is the merchant who has the last say over the farmer's right to loss or gain, life or death."
-
-## The Path to Total Chemical Synthesis
-
-Fukuoka traced the trajectory beyond hydroponics to total chemical synthesis.
-
-The synthesis of urea enabled man to produce any organic material he wished.
-
-Protein synthesis enabled man-made meat to be fabricated from various materials.
-
-Butter and cheese could be made from petroleum.
-
-Further progress in photosynthesis research would enable the synthesis of starch, possibly even through the saccharification of wood and oil.
-
-He noted that man had learned to synthesize nucleic acid and cellular proteins and nuclei, and was beginning to synthesize and recombine genes and chromosomes.
-
-"He has even begun thinking that he can [[eclss-environmental-control-life-support]] itself."
-
-Yet all that science performs and creates is "a mere imitation of nature and propels him further along the path to suicidal self-destruction."
-
-## The Human Cost of Artificial Food
-
-Fukuoka warned that "people brought up eating unnatural food develop into artificial, anti-natural human beings with an unnatural body prone to disease and an unnatural way of thinking."
-
-The perversion of agriculture through artificial means would result in "the perversion of far more than just agriculture."
-
-The relationship between food quality and human character was, in his view, direct and inescapable.
-
-The destruction of agriculture is visible in the transition from open cultivation of vegetables to hothouse horticulture.
-
-Each stage removed the crop further from the conditions in which it evolved to thrive, and each stage required additional artificial inputs to compensate for the deficiencies created by the previous stage.
-
-## The Vicious Cycle of Artificial Growing
-
-## See Also
-
-- [[fukuoka-textdoc-trajectory-hothouse-agriculture-to-total-food-synthesis]]
-
-- [[fukuoka-textdoc-critique-mechanization-agriculture]]
-- [[fukuoka-textdoc-basic-agriculture-law-japan-food-self-sufficiency-crisis]]
-- [[natural-farming]]

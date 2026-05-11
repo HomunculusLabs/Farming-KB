@@ -1,5 +1,5 @@
 ---
-title: "gottlieb peyote extraction and preparation methods and Preparation Methods"
+title: [[gottlieb-peyote-botany-and-mescaline-content]] Extraction And [[amanita-muscaria-preparation-methods]]
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -30,7 +30,7 @@ buttons. The acids in the juice somewhat neutralize some of the bitter bases.
 
 Grind the dried buttons in a pepper grinder and pack the pulverized material into OOO
 capsules washed down with warm water. This is effective but can take 20 capsules or
-more to get a 350 mg dose of mescaline.
+more to get a 350 mg dose of [[mescaline]].
 
 ### Tea Preparation
 
@@ -85,62 +85,6 @@ and their purchase arouses no suspicion. The equipment is not expensive or compl
 
 ### Extraction Process (Boiling and Benzene Method)
 
-1. **Boiling**: Grind 1 kilo dried cactus, place in a large pressure cooker, cover
+1. **Boiling**: Grind 1 kilo dried cactus, place in a large [[double-layer-tinfoil-jar-covering-pressure-cooker-method]], cover
    with distilled water, boil 30 minutes. Strain liquids and save. Return pulp to
    pot, add more water, boil again. Repeat about five times until pulp has no bitter
-   taste.
-
-2. **Concentration**: Reduce combined strainings by boiling in an open pot (not
-   aluminum) until the thickness of cream (about one quart).
-
-3. **Basification**: Stir in 400 grams sodium hydroxide (lye). This makes mescaline
-   more soluble in benzene and less in water.
-
-4. **Solvent extraction**: Add 1600 ml benzene. Shake well for five minutes, let
-   stand for two hours. The water layer settles to the bottom, benzene layer floats
-   to the top. Drain off water and emulsion layers. Salvage benzene layer containing
-   mescaline.
-
-5. **Acidification**: Prepare 2 parts sulfuric acid to 1 part water. Add 25 drops to
-   benzene extracts, shake well one minute, let stand five minutes. White streaks of
-   mescaline sulfates should appear. Continue adding acid in decreasing amounts
-   (25 drops, then 15 drops, then 10 drops) with shaking between additions.
-
-6. **pH testing**: Test with wide range pH paper; should register pH 7.5-8.
-
-7. **Crystal recovery**: Allow mescaline sulfate crystals to completely precipitate.
-   Siphon off benzene without disturbing crystals.
-
-8. **Purification**: Dissolve dry crystals in 200 ml near-boiling distilled water.
-   Add pinch of activated charcoal (Norite), filter while hot through number 2 filter
-   paper. Add 10% ammonia solution until pH 6.5-7. Reduce volume to 75 ml by boiling.
-   Cool to near freezing. White needle-like crystals form. Filter while cold, rinse
-   with ice water, dry at 250 degrees F.
-
-9. **Salvage**: More mescaline can be recovered from the filtrate water by repeating
-   the purification process, obtaining at least two more grams.
-
-## Mixed Alkaloid Extraction
-
-For extracting a mixture of alkaloids from cacti like Donana, a simpler method using
-common household materials:
-
-1. Pulverize the dried cactus (tufts and spines need not be removed)
-2. Prepare a mixture of two parts isopropyl rubbing alcohol and one part clear,
-   non-sudsing, unscented ammonia
-3. Make the material soggy with this mixture and allow it to stand covered overnight
-4. Do not use aluminum or iron wares during any steps
-5. Cover the mash with isopropyl alcohol and boil in a heat bath for six hours
-6. Strain liquids through muslin and press as much liquid as possible from pulp
-7. With fresh alcohol, repeat the boiling and straining three more times
-8. Combine all strained liquids
-9. Evaporate in a heat bath until only a tar remains
-10. Further dry the tar in an oven at lowest possible heat
-
-This procedure extracts all alcohol and water-soluble alkaloids and non-alkaloidal
-materials. It is safer than methods using toxic solvents like petroleum ether or
-chloroform, and avoids excessive purification that might remove some active substances
-whose principles may be non-alkaloidal.
-- [[strain-isolation-from-wild-specimens]]
-- [[mescaline-peyote-and-san-pedro-guide]]
-- [[knf-water-soluble-phosphoric-acid-wspa]]

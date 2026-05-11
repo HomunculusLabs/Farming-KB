@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -87,50 +88,3 @@ whose hand to ask in marriage and, agonizing over indecision, imprudently
 courts multiple suitors heedless of social proprieties.
 
 ### When Scientific Farming Excels
-
-Scientific methods have the upper hand only when growing produce in unnatural
-environments: accelerated growth, cramped plots, hothouses, and hotbeds.
-Through adroit management, yields increase and out-of-season produce satisfies
-consumer cravings using high technology, [[cervantes-chemical-fertilizers-guide]], and pest
-control agents. Yet this is only because natural farming cannot be practiced
-under such conditions. Even under ideal conditions, scientific farming does
-not produce more at lower cost than natural farming.
-
-### When Both Ways Are Equally Effective
-
-Under nearly natural conditions such as field cropping or summer grazing,
-natural farming will never produce results inferior to scientific agriculture
-because it takes full advantage of nature's forces. Man imitates nature but
-cannot produce anything from scratch. He is a student of nature; nature is
-the teacher. Were the teacher to use its full powers, the student would lose.
-
-### The Distortion of Scientific Results
-
-The achievements of scientific farming may excel in a restricted sense but are
-invariably inferior in all other ways. When scientific methods grow a fruit
-tree for large fruit, all efforts concentrate on that end. Yet what is
-produced is deformed fruit: always large, even unnaturally so, but with grave
-flaws. The unnaturalness of scientific farming leads directly to
-incompleteness; its results are always distorted and of only local utility.
-
-The irregular shape of scientific farming represents distortions and
-imperfections arising from narrow research findings. This contrasts with the
-perfect circle of nature toward which Hinayana natural farming aspires.
-
-## Yield Comparisons
-
-Fukuoka summarizes the yield relationships:
-
-1. Scientific farming excels only under unnatural, man-made conditions where
-   natural farming cannot be practiced
-2. Under conditions approaching nature, Hinayana natural farming yields
-   results at least as good as or better than scientific farming
-3. In holistic terms, Mahayana natural farming is always superior to
-   scientific farming
-
-## Related Concepts
-
-- [[fukuoka-theory-discriminating-vs-nondiscriminating-knowledge]] for the
-  epistemological framework underlying these distinctions
-- [[fukuoka-orchard-cover-crop-black-wattle-system]] for practical
-  application of natural [[natural-farming-principles-fukuoka]]

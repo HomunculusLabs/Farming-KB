@@ -88,18 +88,3 @@ relief, and reduction of secretions.
 
 The spectacular, fragrant flowers of *D. candida* have made it a popular
 ornamental plant in tropical and subtropical gardens worldwide. It is
-widely cultivated for its showy blooms, often without awareness of its
-extreme toxicity. The plant is commonly planted near patios and walkways
-where its evening fragrance can be appreciated.
-
-## Toxicology
-
-*Datura candida* is extremely toxic and every part of the plant is
-poisonous. Ingestion of even small quantities of leaves, flowers, or
-especially seeds can cause severe anticholinergic poisoning. The onset of
-
-## See Also
-
-- [[zephyranthes-candida]]
-
-- [[brugmansia-candida]]

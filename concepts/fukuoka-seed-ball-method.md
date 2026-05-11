@@ -6,6 +6,7 @@ date: 2026-04-27
 updated: 2026-04-27
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
 
@@ -86,52 +87,3 @@ rice heads before harvest, taking advantage of high soil moisture for
 germination. Winter weeds have not yet appeared at this point, which aids in
 weed control. Broadcasting directly over maturing rice requires less work and
 is beneficial for germination, seedling growth, and weed suppression.
-
-## Desert and Savanna Revegetation
-
-Fukuoka proposed a grand vision for revegetating the world's deserts using
-seed balls. His method involves preparing pellets containing seeds of green
-manure trees, grain crops, and vegetables, layered with compost and topped with
-a layer of clay, to form microbe-containing clay pellets. These finished
-pellets would be scattered by hand or from aircraft over deserts and savannahs.
-
-Once scattered, the seeds within the hard clay pellets remain dormant and will
-not sprout until sufficient rain falls to soften the clay. The seeds within
-the hard pellets are protected from predation by mice and birds, and do not
-germinate prematurely during light showers. Only sustained rainfall triggers
-germination, giving the seedlings the best chance of survival.
-
-## Seed Ball Composition for Revegetation
-
-Fukuoka's revegetation seed ball formula includes several layers:
-- Inner core: seeds of pioneer trees, legumes, and food crops
-- Middle layer: organic compost or humus to provide initial nutrition
-- Outer layer: hard clay for protection and moisture regulation
-
-The diversity of seeds in each ball ensures that different species germinate
-under varying conditions, creating a self-sustaining polyculture. Green manure
-trees fix nitrogen and build soil, grain crops provide quick ground cover, and
-vegetable seeds add food production potential.
-
-## Practical Tips and Considerations
-
-When making seed balls, several practical considerations affect success:
-- Clay pellets must be thoroughly dried before storage to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
-- Seed viability decreases with long storage; use fresh seed when possible
-- Pellet size affects broadcasting distance and accuracy
-- Large-scale production requires mechanical mixing and screening equipment
-- Different crops require different pellet sizes and clay compositions
-- Broadcasting timing must align with expected rainfall patterns
-- Field conditions (slope, existing vegetation, soil type) affect placement
-
-The seed ball method represents one of the most elegant expressions of natural
-farming philosophy: working with nature rather than against it. By allowing
-seeds to germinate when and where natural conditions are favorable, the farmer
-saves enormous labor while achieving results that often surpass conventional
-methods. The technique has been adopted by permaculture-grain-crops designers, and [[clay-seed-balls-tsuchi-dango]]
-- [[fukuoka-straw-mulch-system]]
-- [[no-till-grain-strategy]]
-
-## See Also
-
-- [[fukuoka-desert-greening-seed-ball-method]]

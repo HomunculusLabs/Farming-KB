@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-Campanula rapunculoides, commonly known as creeping bellflower, is a rhizomatous perennial herb in the family Campanulaceae. Native to Europe and western Asia, it has become a significant invasive weed across North America and parts of southern South America.
+Campanula rapunculoides, commonly known as creeping bellflower, is a rhizomatous perennial herb in the family Campanulaceae. Native to Europe and western Asia, it has become a significant invasive weed across [[guzman-psilocybin-mushrooms-north-america]] and parts of southern [[guzman-psilocybin-mushrooms-south-america]].
 
 The plant is notable for its deep, creeping root system that makes eradication extremely difficult once established. It produces showy nodding purple-blue bell-shaped flowers on tall stems during midsummer.
 
@@ -47,13 +47,13 @@ Creeping bellflower is native to temperate Europe, from the British Isles eastwa
 
 In its native range, the species inhabits woodland edges, meadows, hedgerows, and rocky slopes. It prefers partially shaded to open sites with well-drained, calcareous soils.
 
-The species has been widely introduced beyond its native range through horticultural trade. In North America, it is naturalized across most of southern Canada and the northern United States, with scattered populations in the Pacific Northwest and mountain West.
+The species has been widely introduced beyond its native range through horticultural trade. In [[berry-growing]], it is naturalized across most of southern Canada and the northern [[dmt-containing-plants-united-states-halpern]], with scattered populations in the [[psilocybin-north-america-pacific-northwest]] and mountain West.
 
 It aggressively colonizes gardens, lawns, roadsides, waste areas, and disturbed habitats. The plant tolerates a wide range of soil conditions from sandy loam to heavy clay.
 
 Invasive populations are particularly problematic in urban and suburban landscapes where rhizome fragments are spread through garden soil movement, compost sharing, and roadside mowing equipment. Several Canadian provinces and U.S. states list creeping bellflower as a noxious weed or invasive species of concern.
 
-Climate change may expand the potential range of this species northward into boreal regions, as warming temperatures create suitable conditions at higher latitudes where it currently cannot establish.
+[[dighton-fungal-responses-climate-change]] may expand the potential range of this species northward into boreal regions, as warming temperatures create suitable conditions at higher latitudes where it currently cannot establish.
 
 ## Cultivation
 
@@ -61,21 +61,21 @@ Creeping bellflower is rarely sold commercially due to its invasive habit, but h
 
 It is remarkably drought-tolerant once established, owing to its deep taproot system. The plant self-seeds prolifically and spreads vegetatively through rhizome fragments, making containment difficult.
 
-Control measures include repeated digging of the entire root system over multiple seasons. Glyphosate application can be effective but requires careful targeting to avoid non-target damage. Smothering with heavy landscape fabric for an entire growing season can suppress regrowth.
+Control measures include repeated digging of the entire root system over multiple seasons. Glyphosate application can be effective but requires careful targeting to avoid non-target damage. Smothering with heavy [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] for an entire [[extending-growing-season]] can suppress regrowth.
 
 No commercial cultivars are available. Gardeners are strongly advised against planting this species.
 
 ## Ecological Role
 
-In its native European range, Campanula rapunculoides serves as a nectar source for various bee species, including bumblebees (Bombus spp.) and solitary bees. The flowers are also visited by hoverflies and small butterflies.
+In its native European range, Campanula rapunculoides serves as a nectar source for various bee species, including bumblebees (Bombus spp.) and [[comparison-honey-bees-vs-native-solitary-bees]]. The flowers are also visited by hoverflies and small butterflies.
 
-In North America, the plant competes aggressively with native understory species, forming dense monocultures that reduce local plant diversity. Its deep rhizome network can suppress neighboring plants through root competition and allelopathic effects.
+In North America, the plant competes aggressively with native understory species, forming dense monocultures that reduce local plant diversity. Its deep rhizome network can suppress neighboring plants through [[root-competition-plant-spacing-solomon]] and allelopathic effects.
 
 The species produces abundant seeds (up to 15,000 per plant per season), which can remain viable in the soil seed bank for several years. This reproductive strategy enables rapid colonization of disturbed habitats.
 
 Deer and rabbits generally avoid grazing on creeping bellflower, which gives it a competitive advantage over native forbs in areas with high herbivore pressure. The plant's bitter-tasting foliage and tough, fibrous stems likely contribute to this herbivore resistance.
 
-Mycorrhizal associations have been documented in creeping bellflower populations, which may contribute to its ability to access phosphorus in nutrient-poor soils. These fungal partnerships likely aid establishment in marginal habitats.
+[[plants-without-mycorrhizal-associations]] have been documented in creeping bellflower populations, which may contribute to its ability to access phosphorus in nutrient-poor soils. These fungal partnerships likely aid establishment in marginal habitats.
 
 ## Uses
 
@@ -85,16 +85,6 @@ The fleshy taproot is also edible when roasted or boiled, historically used as a
 
 In folk medicine, preparations of the root were used as a mild diuretic and anti-inflammatory agent in traditional European herbalism. These uses are not well-documented in modern pharmacological literature.
 
-Ornamental value lies in the attractive flower spikes, which are sometimes used in informal cottage garden borders and wildflower arrangements.
+Ornamental value lies in the attractive flower spikes, which are sometimes used in informal [[hamilton-cottage-garden-design]] borders and wildflower arrangements.
 
 ## See Also
-
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-trachelium]]
-- [[campanula-rapunculus]]
-- [[campanula-glomerata]]
-- [[campanula-lactiflora]]
-- [[campanula-punctata]]
-- [[campanula-cochlearifolia]]
-- [[jasione-montana]]

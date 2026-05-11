@@ -3,6 +3,7 @@ title: "Filtering Water with Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [fungi, mycelium, water]

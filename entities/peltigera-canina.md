@@ -21,7 +21,7 @@ P. canina has been an important subject for studying how lichen fungi manage wat
 
 ## Taxonomy and Classification
 
-P. canina belongs to the class Lecanoromycetes within the Ascomycota.
+P. canina belongs to the class Lecanoromycetes within the [[ascomycota]].
 
 Key taxonomic details include:
 
@@ -36,7 +36,7 @@ The specific epithet *canina* (dog) refers to the resemblance of the thallus und
 
 ## Water Relations and Hydrophobins
 
-P. canina was among the first [[water-management]] in lichens.
+P. canina was among the first [[water-management]] in [[lichens]].
 
 ## Symbiotic Interface
 
@@ -87,36 +87,3 @@ They are particularly characteristic of nutrient-enriched sites.
 They are often found in association with nitrogen-fixing cyanobacteria.
 
 The genus is widely distributed in temperate and boreal regions.
-
-## Morphology
-
-P. canina forms large, broad thalli with prominent veins on the lower surface.
-
-The upper surface is grey to brown when dry, becoming darker when wet.
-
-The lobes are 1 to 3 cm wide with upturned margins bearing rhizines.
-
-Apothecia are common, reddish-brown, and located on the upper surface near the lobe margins.
-
-## Water Relations and Gas Exchange
-
-The gas-filled cortical cells of P. canina create a system of internal air spaces.
-
-These spaces facilitate gas exchange between the lichen thallus and the external atmosphere.
-
-The combination of hydrophobin-coated hyphal surfaces and gas-filled spaces creates a complex internal microenvironment.
-
-This microenvironment is critical for maintaining the balance between CO2 supply for photosynthesis and water retention.
-
-## Conservation Status
-
-Like many lichen species, P. canina has declined in areas affected by air pollution and habitat destruction.
-
-The genus Peltigera is sensitive to changes in [[cervantes-air-quality-ventilation]] and [[mollison-pdc-forest-management-products]] practices.
-
-Conservation of Peltigera species requires maintaining suitable habitat with adequate moisture, light, and substrate availability.
-
-## See Also
-
-- [[xanthoria-parietina]] for another hydrophobin-producing lichen
-- [[hymenoscyphus-ericae]] for a fungal symbiont studied for [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]

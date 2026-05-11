@@ -11,8 +11,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agriculture Handbook 541.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America, Vol. 2." USDA Forest Service Agriculture Handbook 654.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agriculture Handbook 541.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]], Vol. 2." USDA Forest Service Agriculture Handbook 654.
   - Godfrey, R.K. (1988). "Trees, Shrubs, and Woody Vines of Northern Florida." University of Georgia Press.
   - Correll, D.S. & Johnston, M.C. (1979). "Manual of the Vascular Plants of Texas." University of Texas Press.
   - Sternberg, G. & Wilson, J. (2004). "Landscaping with Native Trees." Houghton Mifflin.
@@ -22,13 +22,13 @@ sources:
 
 *Celtis laevigata*, commonly known as sugarberry or southern hackberry, is a medium to large deciduous tree in the family Cannabaceae. It is native to the southeastern and south-central United States, extending from Virginia to Texas and south into northeastern Mexico.
 
-The species is closely related to the northern hackberry (*Celtis occidentalis*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
+The species is closely related to the northern hackberry (*[[celtis-occidentalis]]*) and is sometimes considered conspecific by some authorities. Sugarberry is distinguished by its smoother bark, narrower leaves, and sweeter fruit.
 
 Sugarberry typically reaches 15–25 meters in height with a trunk diameter of 40–80 cm. It develops a broad, rounded to vase-shaped crown with arching branches. In open positions, the crown spreads wider than it is tall.
 
-Champion specimens have exceeded 30 meters in height with trunk diameters over 1 meter. The tree is relatively fast-growing, especially when young, with growth rates of 60–100 cm per year on favorable sites.
+Champion specimens have exceeded 30 meters in height with trunk diameters over 1 meter. The tree is relatively fast-growing, especially when young, with [[coleman-sunlight-and-winter-crop-growth-rates]] of 60–100 cm per year on favorable sites.
 
-The root system is extensive and spreading, with a deep taproot that contributes to the species' drought tolerance and wind resistance. This deep root system also makes established trees difficult to transplant successfully.
+The root system is extensive and spreading, with a deep taproot that contributes to the species' [[dighton-fungal-drought-tolerance-plant-water-relations]] and wind resistance. This deep root system also makes established trees difficult to transplant successfully.
 
 The common name "sugarberry" refers to the sweet, date-like fruits that ripen in autumn and are consumed by numerous bird and mammal species. These fruits were historically eaten by Native Americans and early settlers.
 
@@ -38,17 +38,17 @@ The common name "sugarberry" refers to the sweet, date-like fruits that ripen in
 
 The species was described by Carl Ludwig Willdenow in 1806. It was previously placed in the family Ulmaceae but has since been moved to Cannabaceae based on molecular phylogenetic evidence. The genus *Celtis* contains approximately 60–70 species worldwide.
 
-The genus has a cosmopolitan distribution, with species in North America, South America, Africa, Asia, and Europe. The disjunct distribution pattern suggests an ancient origin, with fossil *Celtis* leaves and fruits known from the Eocene epoch.
+The genus has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]], with species in [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Africa, Asia, and Europe. The disjunct distribution pattern suggests an ancient origin, with fossil *Celtis* leaves and fruits known from the Eocene epoch.
 
 The bark is relatively smooth and grey on young trees, developing a distinctive corky, warty texture with age. Unlike northern hackberry, the bark of sugarberry remains relatively smooth even on mature trunks, with less pronounced corky ridges.
 
 Leaves are alternate, simple, lanceolate to narrowly ovate, 5–12 cm long and 2–5 cm wide, with finely serrate margins. The upper surface is dark green and glossy, while the lower surface is paler with pubescence along the veins. Leaf bases are typically asymmetrical.
 
-Flowers are small, greenish, and inconspicuous, appearing in early spring before or with the leaves. The species is monoecious, with male and female flowers on the same tree. Pollination is by wind.
+Flowers are small, greenish, and inconspicuous, appearing in [[coleman-overwintered-onions-and-early-spring-crops]] before or with the leaves. The species is monoecious, with male and female flowers on the same tree. Pollination is by wind.
 
 The fruit is a small, round drupe, 6–10 mm in diameter, ripening from orange to dark purple or black in late summer to autumn. Each fruit contains a single hard seed. The flesh is thin but sweet, with a flavor reminiscent of dates.
 
-Fruit production typically begins at 5–10 years of age. Individual trees can produce large quantities of fruit, with heavy crops occurring in most years rather than the alternating pattern seen in some other fruit-bearing trees. The fruits persist on the tree for several weeks after ripening.
+[[query-how-do-i-prune-brambles-for-maximum-fruit-production]] typically begins at 5–10 years of age. Individual trees can produce large quantities of fruit, with heavy crops occurring in most years rather than the alternating pattern seen in some other fruit-bearing trees. The fruits persist on the tree for several weeks after ripening.
 
 The seeds are dispersed primarily by birds, which consume the fruits and excrete the seeds at some distance from the parent tree. Mammalian dispersers include raccoons, foxes, and other frugivorous mammals that carry fruits to feeding sites.
 
@@ -87,36 +87,3 @@ Sugarberry is a valuable wildlife food source throughout its range. The sweet fr
 Mammals that consume the fruit include foxes, raccoons, opossums, squirrels, and deer. The fruit persists into winter, providing a critical food resource during periods of scarcity. The tree's abundant and reliable fruit production makes it a keystone species in bottomland ecosystems.
 
 The dense canopy provides nesting habitat for songbirds and roosting sites for raptors. The bark texture provides substrate for lichens and mosses. Cavities in mature trees serve as den sites for squirrels, bats, and cavity-nesting birds.
-
-Sugarberry serves as a larval host for several butterfly species, including the American snout butterfly (*Libytheana carinenta*) and the hackberry emperor (*Asterocampa clyton*). These specialist herbivores depend on *Celtis* species for reproduction.
-
-In riparian forest succession, sugarberry is a mid- to late-successional species that persists in mature bottomland hardwood forests. It associates with overcup oak, water tupelo, green ash, and sweetgum in typical bottomland forest assemblages.
-
-The leaf litter contributes to nutrient cycling in bottomland ecosystems. Hackberry leaves decompose relatively quickly, releasing nutrients that support the diverse understory vegetation characteristic of southern bottomland hardwood forests.
-
-## Cultural Significance and Conservation
-
-The Comanche people of Texas used sugarberry wood for making bows, as the wood is tough, flexible, and resilient. The fruits were an important seasonal food source, gathered in quantity and sometimes dried for winter use.
-
-Early European settlers in the southeastern United States used the sweet fruits for making preserves, syrup, and fermented beverages. The tree was sometimes called "sugar hackberry" to distinguish it from the less palatable northern hackberry.
-
-Sugarberry has no major conservation concerns across most of its range. It is common and abundant in bottomland forests throughout the southeastern United States. However, bottomland hardwood forest loss through agricultural conversion and urban development has reduced available habitat.
-
-The species is increasingly planted in ecological restoration projects, particularly in stream buffer plantings and bottomland reforestation efforts. Its rapid growth, wildlife value, and tolerance of site conditions make it an effective restoration species.
-
-In urban forestry, sugarberry is recommended as a climate-resilient street tree for cities in the southeastern United States. Its tolerance of heat, drought, and urban stresses positions it well for warming urban environments.
-
-## See Also
-
-- [[grimmia-laevigata]]
-
-- [[celtis-occidentalis]]
-- [[ulmus-americana]]
-- [[quercus-alba]]
-- [[acer-saccharum]]
-- [[morus-rubra]]
-- [[gleditsia-triacanthos]]
-- [[platanus-occidentalis]]
-- [[liquidambar-styraciflua]]
-- [[fagus-grandifolia]]
-- [[populus-deltoides]]

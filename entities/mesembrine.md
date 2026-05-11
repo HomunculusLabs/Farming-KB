@@ -87,33 +87,3 @@ Modern commercial interest in mesembrine accelerated in the **2000s**, driven by
 ## Natural Sources
 
 Mesembrine is found almost exclusively in the genus **Sceletium** (family Aizoaceae), with *Sceletium tortuosum* being the primary commercial source. The plant is a small, succulent perennial native to the semi-arid regions of **South Africa's Western and Northern Cape provinces**.
-
-Several Sceletium species produce mesembrine-related alkaloids:
-
-- ***S. tortuosum*** — the primary source; highest mesembrine content in fermented material
-- ***S. expansum*** — produces a similar but distinct alkaloid profile
-- ***S. strictum*** — lower overall alkaloid content
-- ***S. crassicaule*** — regional variant with variable alkaloid composition
-
-Alkaloid concentration varies significantly based on **plant age, harvest time, and preparation method**. Fresh plant material contains lower mesembrine and higher levels of the precursor mesembranol. Traditional fermentation (crushing and fermenting in closed containers for 5–8 days) converts mesembranol to mesembrine while reducing potentially irritating oxalate salts.
-
-Commercial cultivation of *S. tortuosum* has expanded in South Africa, with several companies producing standardized extracts for the international nutraceutical market. Wild harvesting still occurs but is increasingly regulated to protect natural populations.
-
-## Legal Status
-
-Mesembrine is **unscheduled in most countries**, owing to its relatively recent emergence in commercial markets and low abuse potential. Its legal status varies by jurisdiction:
-
-- **South Africa** — legal; regulated under traditional medicine frameworks
-- **[[dmt-containing-plants-united-states-halpern]]** — not scheduled by the DEA; sold as a dietary supplement under FDA guidelines
-- **European Union** — legal as a novel food ingredient in some member states; pending classification in others
-- **Australia** — not specifically scheduled; may be regulated under therapeutic goods legislation
-- **Canada** — not scheduled; available through natural health product channels
-
-Kanna and mesembrine extracts are widely available through online vendors and specialty supplement retailers. Quality control varies significantly, with some products containing adulterants or mislabeled alkaloid content. Third-party analytical testing is recommended for research-grade material.
-
-## See Also
-
-- [[kanna-sceletium-south-african-narcotic]] — traditional Khoisan use of Sceletium preparations
-- [[psilocybin]] — classical psychedelic with serotonergic mechanism
-- [[piper-methysticum]] — kava, another natural anxiolytic plant preparation
-- [[hypericum-perforatum]] — St. John's wort, natural SRI plant medicine

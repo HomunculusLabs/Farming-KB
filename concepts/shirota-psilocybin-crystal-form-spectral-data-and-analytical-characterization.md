@@ -12,7 +12,7 @@ In their 2003 paper in the *Journal of Natural Products*, Osamu Shirota, Wataru 
 
 The final product was obtained by [[shirota-catalytic-hydrogenolysis-debenzylation-psilocybin]] of a novel zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]], and its physical and spectroscopic properties were thoroughly characterized.
 
-This page documents the complete analytical fingerprint of the synthesized psilocybin, providing reference data useful for forensic identification and quality control purposes.
+This page documents the complete analytical fingerprint of the synthesized psilocybin, providing reference data useful for [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and quality control purposes.
 
 ## Physical Properties
 
@@ -48,7 +48,7 @@ The IR spectrum was recorded as a KBr pellet.
 
 Key absorptions (cm⁻¹): 3266, 3034, 2731, 2369, 1620, 1580, 1505, 1439, 1352, 1298, 1244, 1154, 1103, 1061, 926, 858, 804.
 
-The broad absorption at 3266 cm⁻¹ corresponds to O-H stretching from the phosphate group, consistent with the phosphoric acid diester moiety.
+The broad absorption at 3266 cm⁻¹ corresponds to O-H stretching from the phosphate group, consistent with the [[cho-water-soluble-phosphoric-acid-preparation]] diester moiety.
 
 The absorption at 3034 cm⁻¹ represents aromatic C-H stretching from the indole ring.
 
@@ -70,7 +70,7 @@ The aromatic proton signals show the characteristic pattern of a 1,2,4-trisubsti
 
 The singlet at 7.18 ppm (H-2) is characteristic of the indole 2-position proton.
 
-The two triplets at 3.44 and 3.28 ppm (J = 7.2 Hz) represent the methylene protons of the ethylamine side chain.
+The two triplets at 3.44 and 3.28 ppm (J = 7.2 Hz) represent the methylene protons of the ethylamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]].
 
 The singlet at 2.86 ppm represents the N,N-dimethyl protons.
 
@@ -87,53 +87,3 @@ The carbon at 146.4 ppm (C-4) shows phosphorus coupling (split), consistent with
 The carbons at 119.1 and 109.5 ppm also show splitting due to coupling with the phosphorus nucleus.
 
 The side chain carbons at 59.7, 43.4, and 22.4 ppm are consistent with the 2-(dimethylamino)ethyl group.
-
-## ³¹P NMR Spectroscopy
-
-The ³¹P NMR spectrum was recorded in CD₃OD at 162 MHz.
-
-Chemical shift: δ -4.48 ppm (OPO₃H₂).
-
-The phosphorus chemical shift is consistent with a monoester of phosphoric acid (phosphodiester with one free OH group).
-
-The single sharp resonance confirms the purity of the phosphate moiety in the synthesized product.
-
-## Mass Spectrometry
-
-ESI mass spectrometric data: m/z 307.1 [M + Na]⁺ (53), 285.1 [M + H]⁺ (100), 240.0 [M - NMe₂]⁺ (16), 205.1 [M - H₂O₃P + H]⁺ (26), 160.1 [M - H₂O₃P - NMe₂]⁺ (12).
-
-High-resolution ESI-MS: m/z 285.0991 [M + H]⁺ (calcd for C₁₂H₁₈N₂O₄P, 285.1004).
-
-The molecular ion [M + H]⁺ at m/z 285.1 is the base peak, confirming the molecular formula C₁₂H₁₈N₂O₄P.
-
-The sodium adduct [M + Na]⁺ at m/z 307.1 provides additional confirmation.
-
-The fragment at m/z 205.1 corresponds to the loss of the phosphate group, yielding the psilocin ion.
-
-The fragment at m/z 160.1 corresponds to the indole ring system after loss of both the phosphate and dimethylamine groups.
-
-This mass spectral fingerprint is definitive for psilocybin identification in forensic contexts.
-
-## Significance for Forensic Standards
-
-The Shirota synthesis provides gram-scale quantities of psilocybin without chromatographic purification, making it practical for the preparation of forensic [[shirota-forensic-standard-compounds-magic-mushroom-identification]].
-
-Since June 6, 2002, fungi containing [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]] have been regulated by the Narcotics and Psychotropic Control Law in Japan.
-
-The identification of "magic mushrooms" using morphologic and microscopic analyses is quite difficult without experts, so chromatographic methods including TLC, GC, and HPLC are usually employed.
-
-For these analyses, standard compounds are always needed. The shirota psilocybin crystal form spectral data and analytical characterization reported by Shirota et al. provides a complete analytical fingerprint for psilocybin that can serve as a reference for forensic laboratories.
-
-## See Also
-
-- [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
-- [[shirota-psilocin-instability-chromatographic-challenges]]
-- [[psilocybin-synthesis-shirota-concise-large-scale-method]]
-- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
-
-## References
-
-- Shirota, O., Hakamata, W. & Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. *J. Nat. Prod.*, 66, 885-887.
-- Hofmann, A., Heim, R., Brack, A., Kobel, H., Frey, A., Ott, H., Petrzilka, T. & Troxler, F. (1959). *Helv. Chim. Acta*, 42, 1557-1572.
-- Hofmann, A., Heim, R. & Kobel, H. (1958). Experientia, 14, 107-109.
-- Nichols, D.E. & Frescas, S. (1999). Synthesis, 935-938.

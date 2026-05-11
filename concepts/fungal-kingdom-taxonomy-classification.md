@@ -88,12 +88,3 @@ artificial group Deuteromycota (fungi known only from asexual states) as
 molecular methods linked these to their sexual counterparts.
 
 Multi-gene phylogenies and whole-genome sequencing continue to refine fungal
-systematics and reveal new relationships among major lineages. The concept of
-[[fungal-species-estimates]] continues to evolve as molecular tools uncover
-previously hidden diversity.
-
-## See Also
-
-- [[fungal-kingdom-overview]]
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]]
-- [[cryptic-fungal-species]]

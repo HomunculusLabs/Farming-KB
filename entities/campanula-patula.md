@@ -23,7 +23,7 @@ Campanula patula, the spreading bellflower, is a slender herbaceous perennial or
 
 The species is characterized by its delicate, star-shaped, violet-blue flowers that open widely rather than forming the typical bell shape. It is a familiar component of traditional hay meadows and woodland edges.
 
-Unlike the closely related Campanula rapunculoides, C. patula is not aggressive and does not produce creeping rootstock. It behaves as a well-mannered meadow plant that self-seeds modestly.
+Unlike the closely related [[campanula-rapunculoides]], C. patula is not aggressive and does not produce creeping rootstock. It behaves as a well-mannered meadow plant that self-seeds modestly.
 
 The species is in decline across much of western Europe due to agricultural intensification and loss of traditionally managed grasslands. It is classified as a Priority Species in the UK Biodiversity Action Plan.
 
@@ -81,41 +81,10 @@ No serious pests or diseases affect this species in cultivation. Aphids may occa
 
 Deer and rabbits tend to avoid Campanula patula, likely due to the milky latex in its stems. This makes it a useful component of gardens with heavy browsing pressure.
 
-The spreading bellflower integrates well into wildflower meadow plantings, cottage gardens, and naturalized borders. Its slender habit makes it useful for interplanting among grasses and taller perennials.
+The spreading bellflower integrates well into [[hamilton-wildflower-meadow]] plantings, cottage gardens, and naturalized borders. Its slender habit makes it useful for interplanting among grasses and taller perennials.
 
 ## Ecological Role
 
-The open, star-shaped flowers are accessible to a wide range of pollinators, including solitary bees, hoverflies, and small butterflies. This generalist pollination strategy contrasts with the narrow-tube specialists of many Campanula species.
+The open, star-shaped flowers are accessible to a wide range of pollinators, including [[comparison-honey-bees-vs-native-solitary-bees]], hoverflies, and small butterflies. This generalist pollination strategy contrasts with the narrow-tube specialists of many Campanula species.
 
 Seed capsules open in dry weather and close in rain, protecting developing seeds from premature dispersal during unfavorable conditions. This hygroscopic mechanism ensures seeds are released during optimal wind dispersal periods.
-
-The species supports larvae of several micromoth species, including the bellflower pug (Eupithecia denotata), which feeds on developing seeds. Such specialist herbivores depend on Campanula-rich grasslands.
-
-In traditional hay meadows, C. patula contributes to the characteristic summer flora that supports high invertebrate diversity. Its loss from these habitats reduces overall meadow biodiversity.
-
-## Uses
-
-Campanula patula is occasionally cultivated as a meadow wildflower or cottage garden plant. It is available from specialist wildflower seed suppliers in the UK and continental Europe.
-
-The species has limited ornamental trade value due to its slender, somewhat weedy appearance. However, its airy flower heads are attractive in naturalistic plantings and wildlife gardens.
-
-Young leaves and roots of related Campanula species have been used as salad vegetables. C. patula may have been similarly consumed historically, though specific records are scarce.
-
-In traditional European folk medicine, bellflower species were associated with honesty and gratitude. The spreading bellflower features in several German and Polish folk songs about summer meadows.
-
-The species has been used in ecological research as a bioindicator of traditionally managed grasslands. Its presence or absence reliably indicates meadow management history and nitrogen deposition levels.
-
-Recent genetic studies using microsatellite markers have revealed strong population structure across Europe. Western populations show reduced genetic diversity compared to eastern populations, consistent with post-glacial recolonization patterns.
-
-## See Also
-
-- [[campanula-rapunculoides]]
-- [[campanula-rapunculus]]
-- [[campanula-rotundifolia]]
-- [[campanula-persicifolia]]
-- [[campanula-trachelium]]
-- [[campanula-carpatica]]
-- [[campanula-glomerata]]
-- [[campanula-medium]]
-- [[jasione-montana]]
-- [[adenophora-triphylla]]

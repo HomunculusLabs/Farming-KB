@@ -1,5 +1,5 @@
 ---
-title: Gottlieb Psilocybin mushroom-cultivation-contamination-control Prevention
+title: Gottlieb Psilocybin Cultivation Contamination Prevention
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -12,7 +12,7 @@ tags: [contamination, cultivation, psilocybin]
 
 Gottlieb describes contamination prevention as "the most difficult part of
 psilocybin [[accessible-mushroom-cultivation-for-disabilities]]" in his 1976 guide. He presents a
-comprehensive sanitary protocol organized into pure culture technique,
+comprehensive sanitary protocol organized into pure [[agar-culture-technique]],
 sterilization procedures, and [[mushroom-contaminant-identification-key]]. The approach is
 built around the reality that bacteria and fungal spores are pervasive in
 the environment -- floating in air, clinging to skin and clothing, and
@@ -20,7 +20,7 @@ issuing from the mouth with every exhalation.
 
 ## Pure Culture Technique
 
-The "sanitary code" of mushroom cultivation. Gottlieb stresses that
+The "sanitary code" [[history-of-mushroom-cultivation]]. Gottlieb stresses that
 extreme measures must be taken to keep contaminants out of mycelial
 cultures, which they would rapidly overrun.
 
@@ -66,7 +66,7 @@ cultures, which they would rapidly overrun.
 
 1. Fill containers no more than half full with medium.
 2. Leave lids loose enough to allow pressure escape (prevents cracking).
-3. Place in canning-type pressure cooker; seal lid.
+3. Place in canning-type [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]; seal lid.
 4. Keep stopcock open; heat on high until thick steam vents.
 5. Close stopcock; bring to 15-20 psi (250 degrees F) for 30 minutes.
 6. Do not exceed this time/temperature (sugar caramelization inhibits
@@ -88,48 +88,3 @@ cultures, which they would rapidly overrun.
 
 - Pure white fibrous mats, sometimes with a light bluish tinge.
 - Mycelia are distinctive in appearance and readily distinguishable from
-  most common contaminants.
-
-### Contaminant Appearances
-
-- Rapid-growing, tiny white circular spots with blue-green centers.
-- Surface scums on the medium.
-- Fuzzy clusters in gray, black, yellow, green, or blue colors.
-- Any growth in broth jars during the three-day sterilization test period.
-
-### Response to Contamination
-
-- Discard any contaminated [[mushroom-cultivator-stock-culture-preservation]] dishes entirely -- do not attempt
-  to cut away or salvage portions.
-- Discard any broth jars showing growth during the three-day pre-inoculation
-  hold period.
-- Thoroughly clean and resterilize any containers that held contaminated
-  material before reuse.
-
-## Facility-Level Contamination Controls (Large Scale)
-
-- White glossy enamel on all surfaces (walls, ceiling, shelving) for easy
-  cleaning and sanitization.
-- No cloth or carpeting in the cultivation room.
-- Vinyl or sealed hard-surface flooring (vinyl, asphalt tile, or painted
-  and polyurethane-coated).
-- Vinyl shower curtain as draft shield around work table.
-- Second vinyl curtain at entrance as a dust trap.
-- Wide-spectrum fluorescent lights (wiped clean periodically to remove
-  dust buildup).
-- Extraction conducted separately or under fume hood to avoid methanol
-  vapor and heat exposure to growing cultures.
-
-## Species Resistance Notes
-
-- [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]: very resistant to contaminants. This is one of the
-  primary reasons Gottlieb recommends it above all other species.
-- Psilocybe caerulescens: resistant to white mold but prone to other diseases
-  due to its extremely long 55-85 day incubation period, which provides
-  extended opportunity for contamination.
-
-## See Also
-
-- [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
-- [[gottlieb-psilocybin-cultivation-grain-spawn-production]]
-- [[pure-culture-spawn-method-duggar-usda-1902]]

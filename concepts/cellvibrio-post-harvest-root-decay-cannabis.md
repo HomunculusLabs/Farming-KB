@@ -87,10 +87,3 @@ For Cannabis cultivators, the post-harvest root decay process has practical impl
 - **Greenhouse vs. field**: In greenhouse operations where root material is typically removed between crops, this decay dynamic is avoided, but the organic matter disposal and potential pathogen carryover remain considerations.
 
 ## See Also
-
-- [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]]
-
-- [[cannabis-endorhiza-microbiome]]
-- [[cultivar-endorhiza-bacterial-communities-cannabis]]
-- [[endorhiza-bacterial-communities]]
-- [[proteobacteria-dominance-cannabis-endorhiza]]

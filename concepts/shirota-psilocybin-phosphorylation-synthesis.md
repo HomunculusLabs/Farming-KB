@@ -1,5 +1,5 @@
 ---
-title: "[[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] and Synthesis"
+title: Shirota Psilocybin Phosphorylation Synthesis
 aliases: [psilocybin synthesis, [[phosphorylation-methods-psilocybin-production-comparison]], tetrabenzylpyrophosphate]
 tags: [chemistry, synthesis, psilocybin, phosphorylation, organic-chemistry, tryptamines]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
@@ -88,38 +88,3 @@ NMe2). 13C NMR (D2O + MeOH, 100 MHz): delta 146.4 (C-4, split), 139.4
 108.6 (C-3), 108.4 (C-7), 59.7 (C-2'), 43.4 (NMe2), 22.4 (C-1').
 
 ## 31P NMR and Mass Spectrometry
-
-31P NMR (CD3OD, 162 MHz) shows a single phosphate signal at delta -4.48
-(OPO3H2), confirming the presence of the phosphate monoester. ESI-MS shows the
-protonated molecular ion at m/z 285.1 [M+H]+, with additional ions at 307.1
-[M+Na]+, 240.0 [M-H2O3P+H]+, and 160.1 [M-H2O3P-NMe2]+. High-resolution ESI-
-MS confirmed the molecular formula C12H18N2O4P (calculated 285.1004, found
-285.0991).
-
-## Significance for Forensic Standards
-
-The ability to produce psilocybin in gram quantities without chromatographic
-purification addresses a critical need for forensic and analytical laboratories.
-The compound serves as a reference standard for the identification of magic
-mushrooms using TLC, GC, and HPLC methods. Previous difficulty in isolating
-psilocybin from natural sources (due to psilocin's easy decomposition and
-psilocybin's high polarity) made synthetic production essential for standards.
-
-The Japanese Narcotics and Psychotropic Control Law, which since June 2002 has
-regulated fungi containing [[psilocin-and-psilocybin-chemistry]], relies on chromatographic
-methods for identification. These methods always require reference standard
-compounds, and the Shirota synthesis provides a practical route to obtain them.
-
-The spectroscopic data reported for both psilocin and psilocybin—including UV,
-IR, 1H NMR, 13C NMR, 31P NMR, and high-resolution mass spectrometry—constitute
-a comprehensive analytical reference that can be used by forensic laboratories
-worldwide for the identification and quantification of these controlled
-substances in seized mushroom samples.
-
-## See Also
-
-- [[shirota-psilocin-synthesis-4-hydroxyindole-pathway]]
-- [[shirota-zwitterionic-phosphate-intermediate-discovery]]
-- shirota psilocybin spectroscopic reference data
-- psilocybin pharmacology and mechanism of action
-- magic mushroom regulation forensic identification

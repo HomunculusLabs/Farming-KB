@@ -11,7 +11,7 @@ type: concept
 
 ## Botanical Details
 
-**Scientific name:** Olea europaea
+**Scientific name:** [[olea-europaea]]
 **Family:** OLACEAE
 
 A hardy, evergreen tree, growing to a height of 25-30 m, the olive is widely distributed throughout the world especially in Mediterranean regions.
@@ -22,7 +22,7 @@ Per 100 grams of pickled green olive (edible portion): Water - 86%, Energy - 116
 
 ## Climate Requirements
 
-The olive needs full sun and a long, comparatively dry season, with some winter chilling for good fruit production. The tree is frost hardy to about -9.5 degrees C, although the fruit is damaged below -2 degrees C.
+The olive needs full sun and a long, comparatively dry season, with some winter chilling for good [[query-how-do-i-prune-brambles-for-maximum-fruit-production]]. The tree is frost hardy to about -9.5 degrees C, although the fruit is damaged below -2 degrees C.
 
 ## Soil Requirements
 
@@ -30,7 +30,7 @@ The olive prefers deep, rich, well-drained soil, but can tolerate poorer, shallo
 
 ## Production and Longevity
 
-The olive tree is self-pollinating and will bear fruit after about 5 years and can continue for more than 2000 years. As with many trees, a heavy crop one year will often be followed by a light crop the next, although this tendency can be overcome by thinning the fruit. Average yield is about 4.8 tonnes/ha, the fruit having an oil content of between 18-25%. Between 225-270 litres of oil of all grades is usually obtained from pressing 1 tonne of olives. The fruits are green at first, but ripen to black during the winter months. They can be picked either green or black for both pickling and oil production.
+The olive tree is self-pollinating and will bear fruit after about 5 years and can continue for more than 2000 years. As with many trees, a heavy crop one year will often be followed by a light crop the next, although this tendency can be overcome by thinning the fruit. Average yield is about 4.8 tonnes/ha, the fruit having an oil content of between 18-25%. Between 225-270 litres of oil of all grades is usually obtained from pressing 1 tonne of olives. The fruits are green at first, but ripen to black during the winter months. They can be picked either green or black for both pickling and [[cannabis-honey-oil-production]].
 
 ## Propagation
 
@@ -81,46 +81,10 @@ old trees, as olives readily sprout from dormant buds on old wood.
 
 Olives are harvested at different stages depending on the intended product.
 Green olives for pickling are picked when they have reached full size but
-before any colour change begins, typically in early autumn. Turning olives
+before any [[leaf-senescence-autumn-colour-change-active-plant-process]] begins, typically in early autumn. Turning olives
 (partially black) offer a balance of flavour and texture. Fully black, ripe
 olives produce the highest oil yield but lower-grade eating olives.
 
 Hand harvesting produces the highest quality fruit but is labour-intensive.
 Raking or beating branches with sticks causes fruit to fall onto nets spread
 beneath the tree, a common method for oil olives. Mechanical harvesters use
-vibrating clamps that grip the trunk or large branches, shaking fruit loose
-onto catching frames. For small-scale permaculture systems, hand picking is
-usually the most appropriate method given the typically modest number of trees.
-
-## Pest and Disease Management
-
-Olive trees are relatively pest-free compared to many fruit trees, but several
-issues require attention. Olive fruit fly (Bactrocera oleae) is the most
-significant pest worldwide, with larvae tunnelling through fruit and causing
-early drop and oil quality degradation. Monitoring with pheromone traps and
-bait sprays provides effective control in organic systems.
-
-Olive knot (Pseudomonas savastanoi) causes rough galls on branches and
-sometimes the trunk, entering through wounds from pruning or frost damage.
-Pruning during dry weather and applying copper-based sprays to pruning cuts
-helps prevent infection. Peacock spot (Cycloconium oleaginum) is a fungal leaf
-disease favoured by wet winters, causing circular dark spots on leaves and
-premature leaf drop. Adequate canopy airflow through proper pruning is the
-primary prevention strategy.
-
-Verticillium wilt is a serious soil-borne [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that can kill olive
-trees, especially on former tomato or potato ground. Prevention through site
-selection and resistant rootstock is more effective than treatment once
-established. See [[permaculture-food-forest-design-principles]] adapted to Mediterranean
-climates.
-
-## Oil Grades and Quality Classification
-
-Olive oil quality is classified into several grades based on extraction method
-and chemical composition. Extra virgin olive oil is the highest grade, obtained
-## Related
-
-- holzer-fruit-tree-planting-method
-- [[olea-europaea]]
-- [[permaculture-almond-guide]]
-- [[permaculture-beginners-guide-soil-building-basics]]

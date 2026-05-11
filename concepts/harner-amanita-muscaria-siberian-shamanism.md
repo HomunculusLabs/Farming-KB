@@ -1,5 +1,5 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology in [[siberian-shamanism-and-amanita]]
+title: Harner [[allegro-amanita-muscaria-properties-and-pharmacology]] [[siberian-shamanism-and-amanita]]
 created: 2026-04-26
 sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Introduction (Harner)
 related:
@@ -88,9 +88,3 @@ Yet by patient library research one can find overwhelming evidence of such subst
 ## The Soma Question
 
 While Harner does not address it directly in this work, the use of *Amanita muscaria* in Siberian shamanism has long been connected to the debate over the identity of **Soma**, the divine hallucinogenic plant of the ancient Vedic rituals of India. R. [[gordon-wasson-comparative-method-ethnomycology]]'s argument that Soma was *Amanita muscaria* rests in part on the Siberian parallels, particularly the urine-recycling practice, which Wasson connected to Vedic passages about filtering and purifying Soma.
-## See Also
-
-- [[harner-cross-cultural-patterns-shamanic-plant-use]]
-- ethnomycology
-- [[psychedelic-safety-and-harm-reduction]]
-- [[psychedelic-spirituality-and-religion]]

@@ -5,7 +5,7 @@ tags:
   - lamiaceae
   - herbal-plant
   - medicinal-plant
-  - permaculture
+  - [[permaculture]]
   - edible
   - temperate
   - bee-forage
@@ -14,9 +14,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bown, D. (2001). "Encyclopedia of Herbs and Their Uses." DK Publishing.
-  - Chevallier, A. (2016). "Encyclopedia of Herbal Medicine." 3rd ed. DK.
+  - Chevallier, A. (2016). "Encyclopedia of [[childrens-herbal-medicine]]." 3rd ed. DK.
   - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. MedPharm Scientific Publishers.
-  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
 created: 2026-04-28
 ---
 
@@ -65,7 +65,7 @@ Flowering occurs from June to September, with individual flowers producing four 
 
 * M. vulgare* is native to Europe, North Africa, and temperate Asia, with a natural range extending from the British Isles eastward to western China.
 
-The species has been widely naturalized in [[psilocybin-north-america-pacific-northwest]], South America, Australia, and New Zealand, often establishing in disturbed sites, roadsides, and abandoned fields.
+The species has been widely naturalized in [[psilocybin-north-america-pacific-northwest]], [[guzman-psilocybin-mushrooms-south-america]], Australia, and New Zealand, often establishing in disturbed sites, roadsides, and abandoned fields.
 
 It prefers dry, well-drained, calcareous or alkaline soils in full sun to partial shade, and is commonly found in rocky, sandy, or stony habitats.
 
@@ -73,7 +73,7 @@ The plant tolerates a wide range of soil pH (6.0–8.5) and is notably salt-tole
 
 Elevation range extends from sea level to over 2,000 meters in its native Mediterranean and montane habitats.
 
-It is considered an invasive weed in some regions, particularly in Australia and parts of the American West, due to its prolific seed production and allelopathic properties.
+It is considered an invasive weed in some regions, particularly in Australia and parts of the American West, due to its prolific [[cannabis-controlled-pollination-seed-production]] and allelopathic properties.
 
 ## Bioactive Compounds
 
@@ -81,53 +81,9 @@ The principal bioactive compounds are found in the aerial parts, particularly th
 
 - **Marrubiin:** A bitter diterpene lactone and the signature compound of *M. vulgare*, responsible for its characteristic bitter taste and much of its pharmacological activity.
 - **Marrubinic acid:** A hydrolysis product of marrubiin with demonstrated anti-inflammatory properties.
-- **Flavonoids:** Including luteolin-7-O-glucoside, apigenin, and quercetin derivatives, contributing antioxidant activity.
+- **Flavonoids:** Including luteolin-7-O-glucoside, apigenin, and [[quercetin]] derivatives, contributing antioxidant activity.
 - **Phenolic acids:** Caffeic, chlorogenic, and rosmarinic acids with antioxidant and anti-inflammatory effects.
 - **Volatile oils:** Containing pulegone, piperitone, and menthone at low concentrations (0.03–0.3%).
 - **Mucilage:** Water-soluble polysaccharides providing soothing, demulcent properties.
 
 Total marrubiin content typically ranges from 0.3–1.0% dry weight in flowering aerial parts.
-
-## Medicinal and Traditional Uses
-
-Horehound has a long and continuous history of use in Western herbal medicine, particularly for respiratory and digestive complaints.
-
-As an **expectorant and bronchodilator**, horehound preparations (infusions, tinctures, syrups) have been used to treat coughs, bronchitis, asthma, and sore throats.
-
-The bitter principles stimulate appetite and digestive function, and the herb has been used as a digestive bitter (*amara*) to relieve dyspepsia, bloating, and loss of appetite.
-
-Traditional applications also include treatment of jaundice, liver disorders, and as a diaphoretic for fever management.
-
-The German Commission E and European Medicines Agency have approved horehound for treating catarrhal complaints of the respiratory tract and as a digestive aid.
-
-Clinical studies, while limited, have demonstrated expectorant activity and moderate bronchodilatory effects in human subjects.
-
-Contraindications include pregnancy (uterine stimulant activity has been reported) and peptic ulcers due to its bitter irritant properties.
-
-## Cultivation and Permaculture Applications
-
-Horehound is exceptionally easy to cultivate, requiring minimal inputs and tolerating poor, dry, rocky soils where many other herbs struggle.
-
-Propagation is by seed (stratification improves germination), division of mature clumps in spring, or semi-hardwood cuttings.
-
-Plants should be spaced 30–45 cm apart; no fertilization is required and may actually reduce [[permaculture-designers-manual-essential-oil-plants]] and bitter principle concentrations.
-
-Overwatering and waterlogged soils are the primary causes of failure; the species is genuinely drought-tolerant once established.
-
-In **[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]**, horehound serves multiple functions: as a bee forage plant (flowers are attractive to honeybees and native pollinators), as a [[nutrient-dynamic-accumulator-reference]] of minerals, and as a companion plant.
-
-Its allelopathic properties can suppress certain weed species, though care should be taken near desirable plants.
-
-Horehound is useful in **food forests** and **herb spirals** as a low-maintenance, drought-resistant ground cover in the drier, upper zones.
-
-The species also has value as a **trap crop** for certain insect pests, drawing aphids away from neighboring crops.
-
-## See Also
-
-- [[tanacetum-vulgare]]
-- [[auriscalpium-vulgare]]
-- [[mentha-spicata]]
-- [[origanum-vulgare-entity]]
-- [[glycyrrhiza-glabra]]
-- [[tussilago-farfara]]
-- [[borago-officinalis]]

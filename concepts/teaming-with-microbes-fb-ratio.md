@@ -5,6 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [soil-biology, microbiology, composting]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
@@ -86,41 +87,3 @@ healthier soils and more resilient plants. Conversely, practices that disrupt
 soil biology, such as excessive tillage and chemical inputs, can take years
 to recover from. The key insight is to feed the soil organisms and let them
 feed the plants.
-
-## Common Misconceptions
-
-A widespread misunderstanding is that soil fertility is primarily a question of
-NPK chemistry. While mineral nutrients are important, their availability to
-plants is largely mediated by soil biology. Another misconception is that
-adding more organic matter is always beneficial. In reality, the quality and
-decomposition state of organic matter matters as much as the quantity. The
-goal is to support a balanced and diverse soil food web that cycles nutrients
-efficiently and suppresses pathogens naturally.
-
-## Merged: Nematode Types and Functions - Teaming with Microbes
-
-# Nematode Types and Functions
-
-Nematodes are nonsegmented, blind roundworms -- the second most dominant form of animal life next to the arthropods. Over 20,000 species have been identified, and scientists suggest there may be as many as 1 million species in total. A teaspoon of good soil averages about 20 bacteria-eating nematodes, 20 fungal feeders, and a few predatory and plant-eating nematodes -- a total of 40 to 50 nematodes.
-
-## Classification by Feeding Habits
-
-For the gardener, the best way to classify nematodes is by their eating habits. Various nematodes develop specialized mouthparts to allow them to attack and get at their own particular brand of prey.
-
-### Plant Parasites (Herbivores)
-
-Plant-parasitic nematodes have needle-like stylets that enable them to puncture plant cell walls with ease. Some are ectoparasitic (feeding on the root surface), while others are endoparasitic (entering into the root to feed). They can create lesions in the root as well as cysts and large bulges that gardeners refer to as root knots. Obviously, nematodes that eat roots do not help the crop.
-
-See also: [[teaming-with-microbes-bacteria]]. Their specialized mouthpart is usually a hollow tube. A bacteria-eating nematode can consume multitudes of tiny bacteria in an hour.
-
-### Fungivores
-
-Fungivores eat [[teaming-with-microbes-fungi]]. This type of nematode also has stylets, for puncturing the chitin cell walls of fungal hyphae.
-
-### Predatory Nematodes
-
-Predatory nematodes eat other nematodes, protozoa, and small arthropods. They have specialized mouthparts to grab and consume their prey. These are beneficial in the garden because they help control plant-parasitic nematode populations.
-
-### Omnivores
-
-Some nematodes eat a varied diet that may include bacteria, fungi, protozoa, and small arthropods.

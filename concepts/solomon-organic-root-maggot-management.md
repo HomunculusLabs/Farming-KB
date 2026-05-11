@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - gardening-when-it-counts-steve-solomon.md
 type: concept
 created: 2026-05-07
@@ -87,41 +88,3 @@ Parasitic nematodes also control numerous other soil-dwelling pests including:
 The main limitation is that nematodes are not always simple to transport or store alive once removed from their [[fukuoka-matsutake-culture-medium-appendix]]. Gardeners buying them should verify freshness and viability.
 
 ## Remedies That Fail
-
-Blair Adams tested several traditional organic remedies and found them wanting:
-
-- **Wood ashes**: Actually attract cabbage flies rather than repelling them. They may help in Cascadia's acidic, calcium-deficient soils because the calcium in wood ashes boosts brassica growth enough to compensate for the increased predation the ash causes. The benefit is indirect, not a repellent effect.
-- **Lime dustings**: Similarly attract cabbage flies rather than deterring them.
-- **Hilling**: Careful and persistent hilling of soil around plant stems increases seedling survival somewhat by burying the root system deeper, making it harder for maggots to reach critical root tissue. This is a marginally helpful technique but not a reliable control.
-
-## Varietal Resistance
-
-For cabbage maggot, varietal choice provides some relief for cabbage but none for Chinese cabbage. Certain cabbage varieties with stronger root systems tolerate moderate maggot damage without wilting. Brussels sprouts are naturally resistant due to their vigorous root systems. However, no brassica variety is fully immune, and for root crops like radishes and turnips, varietal choice offers no meaningful protection.
-
-## Crop Rotation Considerations
-
-Crop rotation is often recommended for root maggot management, and it does have some value. The cabbage fly overwinters in the soil near where it fed the previous season. If brassicas are planted in a different part of the garden the following year, emerging flies must travel further to find hosts. However, the flies are mobile enough that rotation alone will not provide reliable control. It is a supplementary measure, not a standalone solution.
-
-For carrot rust flies, which have multiple generations per season, rotation is even less effective. The later generations will find the carrot bed regardless of where it was the previous year.
-
-## The Role of Wild Host Plants
-
-The presence or absence of wild host plants in the surrounding landscape significantly influences root maggot pressure. Where wild carrot (Queen Anne's lace), wild cabbage, and wild radish grow abundantly, they support large stable populations of both the pest flies and their predators. This [[fukuoka-ecological-balance-principles]] keeps pest numbers manageable.
-
-In settled agricultural areas and urban environments where wild hosts have been eliminated, the remaining garden brassicas and carrots become the sole food source. Pest populations can then build to plague levels unchecked by predation. This is a fundamental reason why urban gardeners face more severe pest pressure than rural gardeners in less intensively farmed landscapes.
-
-## Key Points Summary
-
-- Root maggots are a major problem only in Cascadia and the UK; most regions experience minor pressure
-- Sow brassicas from mid-May through July to avoid peak spring maggot populations
-- Fresh fine sawdust barriers are the most effective simple organic control
-- Floating row covers provide complete exclusion when properly anchored
-- Parasitic nematodes offer broad soil-dwelling pest control beyond just maggots
-- Wood ash and lime dustings attract flies rather than repelling them
-- Regional awareness prevents overreaction in low-pressure areas
-
-## Related Concepts
-
-- [[solomon-row-covers-and-season-extension]]
-- [[solomon-weed-management-without-chemicals]]
-- [[soil-fertility-management]]

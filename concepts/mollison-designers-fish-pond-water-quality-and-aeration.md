@@ -1,5 +1,5 @@
 ---
-title: "knf-fish-pond-integration Water Quality and Aeration Management"
+title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] [[knf-fish-pond-integration]] Water Quality And Aeration
 created: 2026-04-26
 tags:
   - aquaculture
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/bill-mollison-permaculture-a-designers-manual.md"
 type: concept
 ---
@@ -87,40 +88,7 @@ for most fish are pH 3.7 (acid) and 10.5 (alkaline).
 ### Problematic Acidic Sites
 Ponds in areas of peats, mangroves, cordgrass flats,
 samphires, and with water derived from heaths and
-granites or siliceous soils can be very acid (pH 4.0 or
-less). The acids include [[humic-acids-soil-biology-ingham]], tannins, and minor
-organic acids. Hydrogen sulphide may also be released by
-ponded peats or swamps to create sulphuric acid.
 
-### Remediation Strategies
-Peat stripping, mounding, fresh-water or rain leaching,
-and liming are all used to bring acidic ponds into
-production. Most culture ponds are routinely limed when
-constructed, with burnt lime for initial dressing and
-unburnt lime for subsequent adjustments.
-
-### pH Mosaic Design
-In practice, designers can aim for a pH mosaic in ponds
-and pond series. Many valuable food organisms prefer soft
-(acid) water, while fish, molluscs, and freshwater
-lobsters and prawns prefer hard (alkaline) waters.
-Crushed dolomite, marble chips, hard limestone gravels,
-and oyster or mussel shells give a slow release of calcium
-in tanks, small ponds, intake filter systems, and the
-upper sections of canal systems.
-
-## Site Selection for pH Advantage
-It is of great advantage to site ponds where run-off from
-limestone areas can be ponded, or where natural pH levels
-are already high. This simple siting decision can save
-years of liming and management effort.
-
-## Temperature Considerations
-
-Temperatures in rice pond water may reach 34 degrees C,
 ## See Also
-
-- mckenna-ambience-of-intoxication-and-fish-in-water
 - [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
-- [[mollison-designers-rice-paddy-integrated-duck-fish]]
-- [[mollison-designers-soil-water-storage-in-forest-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]

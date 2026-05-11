@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Contamination is the introduction and growth of unwanted organisms in mushroom cultures. It is the most common cause of cultivation failure and a constant challenge at every stage of the process. Contaminants compete with mushroom mycelium for nutrients and can render entire grows unusable. Early identification and decisive response are critical skills. This page covers the most common contaminants, their identification, causes, and appropriate responses.
+Contamination is the introduction and growth of unwanted organisms in mushroom cultures. It is the most common cause of cultivation failure and a constant challenge at every stage of the process. Contaminants compete with [[antimicrobial-compounds-mushroom-mycelium]] for nutrients and can render entire grows unusable. Early identification and decisive response are critical skills. This page covers the most common contaminants, their identification, causes, and appropriate responses.
 
 ## Types of Contamination
 
@@ -19,7 +19,7 @@ Contaminants fall into three main categories: molds, bacteria, and yeasts. Each 
 
 ### Trichoderma (Green Mold)
 
-The most feared and common contaminant in mushroom cultivation. Trichoderma is an aggressive mold that rapidly colonizes substrates, turning them a distinctive green color as it sporulates.
+The most feared and common contaminant [[contamination-prevention-in-mushroom-cultivation]]. Trichoderma is an aggressive mold that rapidly colonizes substrates, turning them a distinctive green color as it sporulates.
 
 **Identification**:
 - Early stage: white, fluffy growth that can be mistaken for mushroom mycelium.
@@ -29,7 +29,7 @@ The most feared and common contaminant in mushroom cultivation. Trichoderma is a
 - On bulk substrate: green patches on the surface or within the substrate.
 - Distinctive sweet, earthy smell.
 
-**Cause**: Airborne spores, contaminated grain, insufficient sterilization, or poor sterile technique.
+**Cause**: Airborne spores, contaminated grain, insufficient sterilization, or poor [[cultivator-sterile-technique-and-agar-culture]].
 
 **Response**:
 - On grain jars: discard immediately. Seal jar before removing from the grow area.
@@ -66,7 +66,7 @@ A common genus of mold with several species that appear in mushroom cultures.
 - Grows much faster than mushroom mycelium — can cover a tub surface in 24-48 hours.
 - Unlike Trichoderma, does not turn green. Stays gray/white.
 - More common during fruiting than colonization.
-- Responds to hydrogen peroxide (3% H2O2 sprayed directly will kill cobweb but not damage mushroom mycelium significantly).
+- Responds to [[cervantes-hydrogen-peroxide-sterilization]] (3% H2O2 sprayed directly will kill cobweb but not damage mushroom mycelium significantly).
 
 **Response**: Spray with 3% hydrogen peroxide (straight from the bottle). Increase FAE to reduce humidity and make conditions less favorable for cobweb. If the mold returns after treatment, discard the tub.
 
@@ -120,7 +120,7 @@ A common genus of mold with several species that appear in mushroom cultures.
 **Identification**:
 - Creamy, white, raised colonies on agar.
 - May appear bubbly or frothy.
-- In liquid culture, produces a creamy layer on the surface.
+- In [[comparison-agar-vs-liquid-culture]], produces a creamy layer on the surface.
 - In grain jars, kernels may appear excessively wet with a yeasty or beer-like smell.
 
 **Response**: Discard contaminated cultures. Yeast is less aggressive than mold but still renders cultures unusable.

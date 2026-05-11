@@ -1,7 +1,7 @@
 ---
-title: Seed seed saving and variety selection Selection
+title: Seed Saving And Variety Selection
 source: Gardening When It Counts - steve-solomon
-source_author: Steve Solomon
+source_author: [[steve-solomon]]
 tags: [gardening, seeds, seed-saving, variety-selection, plant-breeding]
 created: 2026-05-08
 ---
@@ -21,7 +21,7 @@ production.
 ## Problems with the Commercial Seed Industry
 
 Solomon is blunt about problems in the seed trade. Mass-market seed
-companies and garden center seedling producers are not always ethical in
+companies and [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] producers are not always ethical in
 their product offerings. Picture-packet seeds sold in big-box stores may
 be old stock with declining germination rates. Seedling trays may
 contain varieties chosen for shipping durability rather than garden
@@ -36,8 +36,8 @@ but because they started with poor genetic material.
 
 ## Selecting Reliable Seed Suppliers
 
-Solomon recommends purchasing from specialized mail-order seed companies
-that conduct their own variety trials. These companies offer detailed
+Solomon recommends purchasing from specialized mail-order [[spanish-cannabis-seed-companies]]
+that conduct their own [[coleman-seed-selection-and-variety-trials]]. These companies offer detailed
 variety descriptions based on actual performance data, not marketing
 copy. They typically offer fewer varieties but each one has been tested
 and selected for specific qualities.
@@ -56,7 +56,7 @@ adaptation — rather than being merely adequate at everything.
 
 For gardeners interested in seed saving, open-pollinated (OP) varieties
 are essential. OP varieties breed true from saved seed, meaning the
-next generation will closely resemble the parent. This allows the
+[[next-generation-sequencing-hidden-fungal-diversity]] will closely resemble the parent. This allows the
 gardener to develop locally adapted strains over successive seasons.
 
 Hybrid varieties (F1) do not breed true. Seed saved from hybrid plants
@@ -88,62 +88,3 @@ good germination for three to five years or more.
 ## Selecting Plants for Seed Saving
 
 Not every plant in the garden should be used for [[cervantes-seed-production-storage]]. The
-gardener should select the best individuals — those with the most
-desirable traits for flavor, vigor, disease resistance, or other
-qualities important to the gardener's goals.
-
-By consistently selecting the best performers for seed saving over
-multiple generations, the gardener develops strains that are
-increasingly well-adapted to local conditions. This is essentially
-the same process that created traditional landrace varieties over
-centuries of farmer selection.
-
-Solomon emphasizes that this local adaptation is one of the most
-valuable aspects of seed saving. Commercial varieties, even good ones,
-are bred for broad regional performance. A locally adapted strain
-will often outperform commercial seed in the specific conditions of
-the gardener's own plot.
-
-## Seed Storage
-
-Proper storage is critical for maintaining seed viability. Seeds
-should be thoroughly dry before storage — moisture is the primary
-enemy of seed longevity. Cool temperatures further extend storage
-life. Solomon recommends storing seeds in airtight containers in a
-cool, dark location.
-
-For long-term storage, seeds can be kept in the refrigerator or
-freezer in moisture-proof containers with desiccant packets. Many
-vegetable seeds stored this way will remain viable for a decade or
-more, providing a valuable hedge against future seed shortages.
-
-## Saving Money on Seed Purchases
-
-Gardeners who do not save seed can still reduce costs through smart
-purchasing. Buying in bulk, sharing orders with other gardeners, and
-choosing abundantly producing varieties over novel ones all help.
-Solomon notes that most gardeners purchase far more seed than they use
-— a single tomato packet often contains enough for dozens of plants.
-
-## Regional Adaptation
-
-One of the most important factors in variety selection is regional
-adaptation. A variety that performs brilliantly in one climate may
-fail completely in another. [[coleman-winter-day-length-and-persephone-months]] sensitivity, heat tolerance,
-[[coleman-cold-hardiness-testing-ratings]], and disease resistance profiles all vary by variety
-and must be matched to local growing conditions.
-
-Solomon recommends that gardeners focus on varieties with proven
-performance in their specific region rather than being seduced by
-catalog descriptions of exotic or novel varieties. Local
-agricultural extension services, experienced neighboring gardeners,
-and regional seed companies are all valuable sources of information
-about what grows well in a particular area.
-
-## See Also
-
-- [[hepa-filter-selection-and-testing]]
-
-- [[dryland-vegetable-gardening]]
-- [[complete-organic-fertilizer-cof]]
-- [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]]

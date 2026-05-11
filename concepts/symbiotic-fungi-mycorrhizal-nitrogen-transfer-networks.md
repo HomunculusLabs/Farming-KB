@@ -45,7 +45,7 @@ Anastomosis dynamics:
 
 ## Mechanisms of Nitrogen Transfer
 
-Nitrogen transfer through CMNs is not restricted to mass flow and diffusion through
+[[nitrogen-transfer-through-common-mycorrhizal-networks]] CMNs is not restricted to mass flow and diffusion through
 soil pathways. It can occur directly through mycorrhizal hyphae connecting plants.
 
 Transfer patterns documented:
@@ -88,50 +88,3 @@ Nitrogen has two [[gadd-stable-isotopes-saprotrophic-fungi]]:
 ## Experimental Design for Two-Way Transfer
 
 Four reciprocal pairings test two-way N transfer and distinguish soil vs. mycorrhizal
-pathways:
-
-| Pair type | N-donor | N-receiver | Mycorrhizal | Nodulated |
-|-----------|---------|------------|-------------|-----------|
-| Control | N2-fixing or non-N2-fixing | Reciprocal | No | No |
-| Nodulated/non-M | N2-fixing or non-N2-fixing | Reciprocal | No | Yes |
-| Non-nodulated/M | N2-fixing or non-N2-fixing | Reciprocal | Yes | No |
-| Nodulated/M | N2-fixing or non-N2-fixing | Reciprocal | Yes | Yes |
-
-Physical separation:
-
-- Two perforated Perspex plates (2.5 mm thick) create a 5-mm air gap
-- 25-37 micrometer nylon mesh allows only hyphal penetration
-- High water-holding capacity crystals minimize water movement
-- External 15N added directly to N-donor side
-
-## Nitrogen Transfer Quantification
-
-Three metrics quantify nitrogen transfer:
-
-1. **%Ntransfer**: percentage of N transferred between donor and receiver
-2. **Ntransfer**: absolute amount of N transferred (mg per plant)
-3. **%NDFT**: percentage of receiver N derived from transfer
-
-Two-way (bidirectional) or net N transfer is calculated as the difference between
-N transfer from plant 1 to plant 2 and the reverse. Net transfer benefits the plant
-that receives more N than it donates.
-
-Limitations of the 15N enrichment method:
-
-- In fertile soils, transferred N may be much less than soil N taken up
-- Root depth and N uptake patterns may differ in mixed vs. single species
-- Based on separate reciprocal experiments (not concurrent)
-- Dual isotope approach would be more accurate but 13N (10 min half-life) is
-  unsuitable for long-term processes
-
-## Demonstrated Nitrogen Transfer
-
-### Ectomycorrhizal Systems
-
-Reciprocal N transfer demonstrated between:
-
-- Non-N2-fixing Eucalyptus maculata and N2-fixing Casuarina cunninghamiana
-
-## See Also
-
-- [[symbiotic-fungi-ectomycorrhizal-networks-overview]]

@@ -1,5 +1,5 @@
 ---
-title: "Gelidium amansii"
+title: Gelidium Amansii
 type: species
 tags:
   - seaweed
@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Armisen, R. & Galatas, F. (1987). "Production, properties and uses of agar." FAO Fisheries Technical Paper, 288, 1-57.
-  - Santelices, B. & Doty, M.S. (1989). "A review of Gracilaria farming." Aquaculture, 78(1-4), 95-133.
+  - Santelices, B. & Doty, M.S. (1989). "A review of [[gracilaria]] farming." Aquaculture, 78(1-4), 95-133.
   - McHugh, D.J. (2003). "A guide to the seaweed industry." FAO Fisheries Technical Paper, 441, 1-105.
   - Lee, R.E. (2008). Phycology, 4th Edition. Cambridge University Press.
 ---
@@ -48,7 +48,7 @@ Historically, *G. amansii* was collected by hand from wild populations by divers
 
 Commercial harvesting peaked in the mid-20th century, with Japan alone producing over 30,000 tonnes annually. Wild stocks have since declined due to overharvesting and habitat degradation.
 
-Cultivation efforts have had limited success compared to other agarophytes. Experimental methods include spore settlement on artificial substrates and vegetative propagation using fragment techniques.
+Cultivation efforts have had limited success compared to other agarophytes. Experimental methods include spore settlement on artificial substrates and [[hamilton-vegetative-propagation]] using fragment techniques.
 
 Current supply relies primarily on managed wild harvests with seasonal restrictions and size limits to promote population recovery.
 
@@ -64,7 +64,7 @@ Gelidium agar has lower sulfate content and higher 3,6-anhydrogalactose than Gra
 
 ## Economic Importance
 
-Agar from *G. amansii* is used in microbiological culture media, electrophoresis, food gelling agents, and pharmaceutical applications including capsule shells and dental impressions.
+Agar from *G. amansii* is used in microbiological [[agar-culture-media]], electrophoresis, food gelling agents, and pharmaceutical applications including capsule shells and dental impressions.
 
 The species is also consumed directly as food in Japan, where it is known as "tengusa" (天草). It is prepared as traditional jellies and desserts.
 
@@ -87,30 +87,3 @@ Grazing by sea urchins and herbivorous gastropods can significantly impact natur
 *Gelidium corneum* is a closely related European species also harvested for agar production, found along Atlantic coasts from Portugal to Norway.
 
 *Gelidium elegans* occurs sympatrically with *G. amansii* in Japan but produces lower-quality agar with reduced gel strength.
-
-*Pterocladiella capillacea*, formerly classified in *Gelidium*, is a common agarophyte in warm-temperate waters and is increasingly cultivated as an alternative to *Gelidium* species.
-
-The genus *Gelidium* contains approximately 124 species worldwide, with centers of diversity in the Pacific and Atlantic temperate zones.
-
-## Life History
-
-The species has a complex triphasic [[bloomfield-fungal-life-cycle-spiral-versus-circle]] typical of the Gelidiales, alternating between haploid gametophytes, diploid carposporophytes, and diploid tetrasporophytes.
-
-Male gametophytes produce spermatangia in superficial cortical cells, while female gametophytes bear carpogonia that receive non-motile spermatia.
-
-After fertilization, the diploid carposporophyte develops within the cystocarp and produces carpospores. These settle and germinate into tetrasporophytes, which in turn release tetraspores.
-
-Tetraspores develop into new gametophytes, completing the cycle. All three phases are morphologically similar, making field identification of life stage difficult without [[fungal-microscopic-examination-mounting-media-techniques]].
-
-## See Also
-
-- [[gelidium]]
-
-- [[chondrus-crispus]]
-- [[kappaphycus-alvarezii]]
-- [[pyropia-yezoensis]]
-- [[ulva-lactuca]]
-- [[undaria-pinnatifida]]
-- [[laminaria-digitata]]
-- [[ingham-seaweed-sea-minerals-compost-tea]]
-- agar

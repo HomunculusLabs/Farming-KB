@@ -1,5 +1,5 @@
 ---
-title: Green Roof and Living Walls
+title: Green Roof And Living Walls
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Green Roofs and Living Walls
 
-Green roofs and living walls integrate vegetation into building envelopes, providing insulation, stormwater management, biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and ecological design techniques that connect buildings to natural systems.
+Green roofs and living walls integrate vegetation into building envelopes, providing insulation, [[mollison-designers-cloudburst-and-stormwater-management]], biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and ecological design techniques that connect buildings to natural systems.
 
 ## Green Roof Types
 
@@ -76,7 +76,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Native grasses (little bluestem, prairie dropseed in deeper substrates)
 
 **Intensive roofs** (deeper soil, irrigation available):
-- Ornamental grasses, perennials, culinary herbs
+- [[ornamental-grasses-guide]], perennials, [[culinary-herbs-cultivation-and-kitchen-garden-guide]]
 - Dwarf fruit trees in large planters
 - Vegetables in raised beds set on the roof surface
 - Native wildflower meadows
@@ -113,7 +113,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Plants grow without soil in nutrient-infused water
 - Recirculating water system with pump and reservoir
 - Clean, no soil mess (good for indoor walls)
-- Requires electricity, monitoring, and nutrient management
+- Requires electricity, monitoring, and [[cannabis-nutrient-management]]
 - Higher maintenance than soil-based systems
 
 ## Living Wall Plant Selection
@@ -123,7 +123,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Spider plant (Chlorophytum comosum): Easy, adaptable, produces offsets
 - Peace lily (Spathiphyllum): Shade tolerant, removes air pollutants
 - Ferns (Boston fern, bird's nest fern): Require humidity
-- Philodendron: Multiple species, various light requirements
+- Philodendron: Multiple species, various [[growing-gourmet-light-requirements-mushroom-fruiting]]
 - Fittonia: Colorful foliage, compact, needs humidity
 
 ### Outdoor Living Walls

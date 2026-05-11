@@ -88,50 +88,6 @@ addition to tilling fields, while men work at a distant mine. The children herd 
 mainly to keep them out of fields, but the village would rather see children in school.
 Within these limits, fencing could cut the need for herders, allowing children to
 attend school, and radial fencing from the village would eliminate long walks to
-distant paddocks for milking after weary days of hoeing sorghum.
 
-## National Policy Implications
-
-The lack of attention to the quality of life factor in our national goals has resulted
-in numerous tragedies. The American government undertook to increase production solely
-in terms of quantity. The message was get big or get out. Production boomed, but at the
-cost of a polluted environment, massive soil erosion, and enormous social dislocation.
-Thousands of [[fukuoka-lundberg-family-farms-natural-rice-transition]] vanished, dissipating generations of practical knowledge. The
-churches, small businesses, and cultural centers in the small towns that served those
-people withered away.
-
-What if we had used this guideline before turning agriculture into a mechanized,
-capital-intensive industry? America still would most likely have become the world's
-greatest agricultural producer, while maintaining its healthy rural populations and
-diversified markets. Some people, such as the Amish, did not ignore the quality of life
-factor in establishing their goals. It remains paramount, and while more so-called
-progressive farmers flounder, they continue to flourish.
-
-## Summary
-
-The society and culture guideline holds a prime place in [[savory-holistic-resource-management-animal-impact]] at all
-levels. If you can foresee that any tool or action could affect your quality of life
-adversely, or that of your community or society as a whole, seek alternatives. If money
-you consider putting to work in one direction could yield a higher marginal reaction
-toward the quality of life you seek, then take heed and act accordingly.
-
-## Cultural Sensitivity in Private Operations
-
-Private operators, more often than most like to believe, must exercise similar
-sensitivity to the society around them. Even in America where private rights have long
-standing, the rancher who ignores local opinion does so at his peril. So do those who
-lease [[halpern-sacramental-peyote-and-native-american-church]] land or move on a grand scale into any long-established local
-culture. Under such circumstances, pleasing everybody may seem impossible, but one goes
-a long way by vigorously embracing the holistic principle that the health of your
-particular interest is not distinct from the health of the whole. Even where resentments
-lie impacted in centuries of abuse, more people than not respond to good will and an
-open mind.
-
-## Nomadic Societies and Cultural Preservation
-
-This thinking applies equally to nomadic societies. Many governments now forcibly
-settle them in villages in the hope that they will turn to farming rather than graze
-livestock in an ever deteriorating environment. And yet plans could be devised that
-would allow them to graze their animals in an ever improving environment while
-safeguarding their cultural heritage. The [[savory-land-planning-and-grazing-cell-design]]
-process can accommodate nomadic patterns as effectively as fenced ranch layouts.
+## See Also
+- [[savory-cause-and-effect-guideline]]

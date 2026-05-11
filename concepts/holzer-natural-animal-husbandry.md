@@ -1,5 +1,5 @@
 ---
-title: Holzer holzer natural animal husbandry Husbandry
+title: Holzer Natural Animal Husbandry
 created: 2026-04-26
 tags:
   - animal-husbandry
@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/sepp-holzer-practical-guide.md"
   - ~/wiki/raw/papers/holzer-desert-or-paradise.md
 type: concept
 ---
@@ -88,30 +89,9 @@ Important: feeding toxic plants in a bucket makes animals sick. The animal
 must self-select. Biodiversity in the landscape is essential for natural
 self-medication.
 
-### Avoiding Overuse
-
-Overgrazing creates stress: too many animals on too little ground for too
-long hardens the earth, decimates plant life, makes soil acidic through
-manure, and increases diseases. Sending different animals through paddocks
-at different times prevents germ build-up specific to any one species.
-
-## Humane Slaughter
-
-Holzer advocates for slaughter that respects the animal:
-- The animal should not feel stress or fear
-- Death itself does not hurt; only the fear of death does
-- Local slaughter at the place where the animal lived
-- The animal should be killed by the person it feels closest to
-- Mobile slaughterhouses make this possible
-- The animal should be called, stroked, and talked to until fully relaxed
-  before a swift, painless death
-
-### Full Utilisation
-
-Out of respect, everything an animal offers should be utilised: meat,
-
-See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
-See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
-
 ## See Also
 - [[natural-farming-animal-husbandry]]
+- [[holzer-bee-collapse-natural-beekeeping]]
+- [[sepp-holzer-animal-integration]]
+- [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]]
+- [[holzer-ring-water-feeder-living-water-supply]]

@@ -88,11 +88,3 @@ fungus produces compounds that interact with the insect's neuromuscular junction
 triggering the climbing behavior and death grip without needing to enter the
 central nervous system. This peripheral takeover is arguably more sophisticated
 than direct brain control.
-
-The summit behavior (climbing upward before death) serves the fungus by placing
-the dead insect in an elevated position where spore release is maximized.
-Spores of Cordyceps and Ophiocordyceps are often large and heavy, settling
-quickly under gravity. An insect killed on the forest floor would release spores
-into stagnant air where few potential hosts would encounter them. An insect
-killed on an elevated leaf, however, releases spores into moving air currents
-that can carry them to passing insects below.

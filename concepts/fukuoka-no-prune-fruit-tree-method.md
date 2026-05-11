@@ -24,7 +24,7 @@ sources:
 
 # Fukuoka No-Prune Fruit Tree Method
 
-Masanobu Fukuoka's most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
+[[masanobu-fukuoka]]'s most radical orchard claim: **fruit trees do not need pruning if grown in their natural form from the start**. This runs counter to virtually all commercial fruit growing, which considers pruning the most essential orchard skill. Fukuoka argues that pruning creates the very problems it claims to solve — tangled branches, poor ventilation, alternate bearing — because it forces trees into unnatural shapes that then require constant maintenance.
 
 ## The Natural Form of a Tree
 
@@ -70,7 +70,7 @@ Variation by type:
 The tree must be:
 1. **Started from seed or unpruned nursery stock** — most nursery trees are already pruned or root-damaged, which makes pruning necessary from the start
 2. **Grown with no-till, no-fertilizer, no-spray methods** — these methods create the conditions where natural form can express itself
-3. **Supported by biodiversity** — ground cover, beneficial insect habitat, windbreaks
+3. **Supported by biodiversity** — ground cover, [[beneficial-insect-habitat]], windbreaks
 4. **Given proper spacing** — no competition from neighboring trees
 
 ### Correcting Previously Pruned Trees
@@ -98,7 +98,7 @@ Fukuoka acknowledges that pruning developed for legitimate reasons — but only 
 Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 **Benefits**:
-- Nitrogen fixation via rhizobium bacteria (deep soil strata)
+- [[biological-nitrogen-fixation-agriculture]] via rhizobium bacteria (deep soil strata)
 - Windbreak and shade
 - Flowers attract bees
 - Leaves provide fodder
@@ -113,7 +113,7 @@ Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 Effective against mites and scales by:
 - Modifying microclimate (sunlight, breeze, humidity)
-- Providing year-round habitat for beneficial insects
+- Providing year-round [[query-how-do-i-design-habitat-for-beneficial-insects]] insects
 - Preventing the pest population explosions triggered by uniform monoculture
 
 ## Disease and Insect Control Without Chemicals
@@ -131,7 +131,7 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 ### Specific Pest Management
 
 **Arrowhead Scale**:
-- Natural predators: parasitic wasps, 4-5 types of ladybugs
+- Natural predators: [[parasitic-wasps-biological-pest-control]], 4-5 types of ladybugs
 - Worst damage in congested, unventilated branches
 - If unconcerned about appearance: no spraying needed at all
 - Minimal intervention: machine oil emulsion (winter) or lime-sulfur (summer, larval stage)
@@ -144,7 +144,6 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 
 **Cottony-Cushion Scale**:
 - Was one of three major citrus pests before vedalia ladybug release (~40 years prior)
-- Disappeared naturally with biological control
+- Disappeared naturally with [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
 - Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
 - In Fukuoka's unsprayed orchard: "almost no damage"
-

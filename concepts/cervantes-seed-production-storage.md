@@ -77,3 +77,20 @@ intermediate moisture content.
 is adequate for most breeding purposes. Medium-term storage (several months)
 requires refrigeration at approximately 4°C (39°F) in an airtight container with
 desiccant packets. For long-term preservation (one year or more), freezing at
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[cervantes-feminized-seed-production]]
+- [[cervantes-cannabis-seed-purchasing-storage]]
+- [[oner-cannabis-seed-production-storage]]
+- [[cervantes-seed-population-types-ibl-hybrid]]
+- [[jadam-seed-treatment-and-storage]]

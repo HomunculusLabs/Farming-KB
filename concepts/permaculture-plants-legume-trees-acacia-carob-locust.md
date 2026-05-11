@@ -88,15 +88,3 @@ A genus of 10 species native to southern North America and [[guzman-allen-gartz-
 - **Peru type**: Medium tree to 10 m, branches close to ground, abundant foliage and seed
 
 ### Uses
-- **Nurse tree**: Classic shade tree for cacao and other tropical crops
-- **[[comparison-alley-cropping-vs-silvopasture]]**: Between rows of leucaena for corn, tobacco, yams, rice
-- **Human food**: Young leaves, pods, flower buds eaten raw, steamed, in soups (mimosine content must be explored for staple use)
-- **Stock feed**: High protein; some of the highest weight gains recorded. Recovers from browsing in just two weeks. Should form only ~30% of long-term diet due to mimosine toxicity.
-- **Timber**: Similar density and strength to oak, ash, birch, sugar maple. Used for fence posts, furniture, chipboard, paper pulp, rayon.
-- **Fuel**: 4,600 kcal/kg (wood), 7,000 kcal/kg (charcoal)
-- **Fire**: Stands of 10 m+ width can suppress fire spread; plants regenerate after fire.
-
-### Other Species
-- **L. esculenta (guaje)**: Cold-tolerant highland Mexico species (1000-2200 m), low mimosine, garlic-flavoured edible beans
-- **L. diversifolia**: Central American highlands to 2000 m, low mimosine, acid-soil tolerant
-- **L. retusa**: Southern USA/northern Mexico, endures snowy winters to 2000 m

@@ -5,6 +5,7 @@ tags: [soil-biology, compost-tea, microbial-inoculants, regenerative-agriculture
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - /Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
   - /Users/t3rpz/wiki/raw/papers/lowenfels-teaming-with-microbes.md
   - /Users/t3rpz/wiki/raw/papers/lowenfels-jeff-teaming-with-nutrients_-the-organic-garden.md

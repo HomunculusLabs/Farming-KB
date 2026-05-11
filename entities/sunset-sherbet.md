@@ -21,7 +21,7 @@ sources:
 ## Overview
 
 **Sunset Sherbet** (often shortened to **Sherbet** or **SSH**) is an indica-dominant
-hybrid cannabis strain descended from the legendary **Girl Scout Cookies** (GSC)
+[[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]] strain descended from the legendary **[[girl-scout-cookies]]** (GSC)
 lineage. Bred in the [[shipibo-san-francisco-ceremonial-center-ucayali]] Bay Area during the early 2010s, it was
 stabilized and popularized by the Cookie Family collective.
 
@@ -33,12 +33,12 @@ including the entire **Gelato** family.
 
 ## Lineage
 
-- **Female parent:** Girl Scout Cookies (Thin Mint phenotype)
+- **Female parent:** Girl Scout Cookies ([[thin-mint]] phenotype)
 - **Male parent:** Pink Panties
 - **Genetic ratio:** Approximately 85% indica / 15% sativa
 - **Breeder:** Cookie Family (Bay Area, California)
 
-Girl Scout Cookies itself is a cross of OG Kush × Durban Poison, giving Sunset
+Girl Scout Cookies itself is a cross of OG Kush × [[durban-poison]], giving Sunset
 Sherbet a rich genetic background spanning Afghani, [[kanna-sceletium-south-african-narcotic]], and
 Californian landrace genetics.
 
@@ -88,47 +88,3 @@ relaxing physical effects.
 Potency is moderately high, with modern cut-grown specimens consistently
 testing above 20% THC. The lack of significant CBD means psychoactive effects
 are pronounced and not buffered by cannabinoid antagonism.
-
-## Effects
-
-**Onset:** 5–10 minutes after inhalation; effects build gradually.
-
-**Progression:**
-1. Initial cerebral uplift — euphoric, mildly creative, mood-enhancing
-2. Transitioning within 30–45 minutes to deep body relaxation
-3. Settling into a comfortable, couch-lock-inducing physical sedation
-   in the later phase
-
-**Common applications:**
-- Stress and anxiety management
-- Mild to moderate pain relief
-- Insomnia (particularly in the later sedative phase)
-- Appetite stimulation
-- Evening and nighttime use preferred
-
-## Side Effects
-
-- **Common:** Dry mouth, dry eyes, mild dizziness at higher doses
-- **Less common:** Anxiety or paranoia in sensitive individuals (though the
-  strain's indica dominance makes this relatively uncommon)
-- **Contraindication:** Daytime use for tasks requiring alertness; the
-  sedative body effects can impair coordination and motivation
-
-## Notable Phenotypes and Derivatives
-
-Sunset Sherbet has become one of the most prolific parent strains in modern
-commercial breeding. Its most significant offspring include:
-
-- **Gelato** (Sunset Sherbet × Thin Mint GSC) — spawned the entire Gelato
-  franchise (Gelato #33, #41, #45)
-- **Sherbet Cake** (Sunset Sherbet × Wedding Cake)
-- **Sunset Sherbet Auto** — autoflowering version for fast-cycle cultivation
-- **Sherbanger** (Sunset Sherbet × Orange Juice) — flavor-focused cross
-
-## See Also
-
-- [[sunset-sherbert]]
-
-- [[girl-scout-cookies]] — Direct parent strain of Sunset Sherbet
-- [[gelato]] — Most commercially successful Sunset Sherbet offspring
-- [[wedding-cake]] — Related dessert-strain descendant

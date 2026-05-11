@@ -3,7 +3,9 @@ title: "What Is Glomalin and Why Is It Important for Soil Health?"
 tags: [query, soil-science, mycorrhizal-fungi, glomalin, soil-health]
 date: 2026-05-08
 updated: 2026-05-08
-sources: []
+sources:
+  - "raw/papers/teaming-with-microbes-lowenfels.md"
+  - "raw/papers/teaming-with-microbes-jeff-lowenfels.md"
 ---
 
 # What Is Glomalin and Why Is It Important for Soil Health?

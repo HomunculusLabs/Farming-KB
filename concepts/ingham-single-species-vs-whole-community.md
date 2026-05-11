@@ -48,7 +48,7 @@ The point of compost tea is to have the bacteria, fungi, and protozoa
 active when you add them to soil or plant surfaces. When organisms
 are in a product that has to sit on the shelf for days, weeks, or
 months, those organisms must be dormant, or the product would spoil.
-See [[soil-food-web]]. A single
+See [[soil-foodweb]]. A single
 bacterial species may perform one function well, such as nitrogen
 fixation or phosphate solubilization, but it cannot provide the
 full range of [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[aact-disease-suppression-mechanisms-ingham]], and soil

@@ -9,11 +9,11 @@ sources: []
 
 # Wild Yeast Bread Baking
 
-Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven bread, producing superior flavor, texture, and keeping quality compared to commercial [[comparison-sourdough-vs-wild-yeast-bread]] yeast. The sourdough tradition connects modern bakers to thousands of years of bread-making.
+Wild yeast bread baking uses naturally occurring yeast and bacteria to leaven bread, producing superior flavor, texture, and keeping quality compared to commercial yeast. The sourdough tradition connects modern bakers to thousands of years of bread-making.
 
 ## Wild Yeast Capture
 
-Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and in the air. Combined with Lactobacillus bacteria, these organisms form a stable symbiotic culture -- a sourdough [[comparison-sourdough-vs-wild-yeast-bread]] starter.
+Wild yeast (primarily Saccharomyces exiguus and Candida milleri) lives on grains, fruits, and in the air. Combined with Lactobacillus bacteria, these organisms form a stable symbiotic culture -- a sourdough starter.
 
 ### Creating a Starter from Scratch
 
@@ -35,9 +35,9 @@ Days 6-14:
 
 ### Alternative Capture Methods
 
-- Organic fruit method: add a few organic grapes or unwashed berries to the initial mix
+- [[hamilton-organic-fruit-growing]] method: add a few organic grapes or unwashed berries to the initial mix
 - Rye flour method: rye ferments faster due to higher enzyme and mineral content
-- Whole grain method: whole wheat or whole rye has more wild organisms than white flour
+- Whole [[fukuoka-barley-winter-grain-method]]: whole wheat or whole rye has more wild organisms than white flour
 
 ## Sourdough Maintenance
 
@@ -57,7 +57,7 @@ Days 6-14:
 - Bread flour (12-14% protein) gives best oven spring
 - Whole wheat adds flavor and microbial diversity
 - A mix of 50% bread flour / 50% whole wheat works well for most bakers
-- Avoid all-purpose flour for feedings (lower nutrient content)
+- Avoid all-purpose flour for feedings (lower [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken]])
 
 ## Basic Sourdough Bread Recipe
 
@@ -68,7 +68,7 @@ Days 6-14:
 - 18g salt (2.5% of flour weight)
 
 ### Method
-1. Autolyse: mix flour and water [[comparison-sourdough-vs-wild-yeast-bread]], rest 30-60 minutes (develops gluten without kneading)
+1. Autolyse: mix flour and water, rest 30-60 minutes (develops gluten without kneading)
 2. Add starter and salt, mix until incorporated
 3. Bulk fermentation: 4-6 hours at room temperature (75-80F ideal)
    - Perform stretch-and-folds every 30 minutes for first 2 hours (4 sets)
@@ -89,7 +89,7 @@ Using locally grown grains connects bread to terroir and supports regional grain
 - Red Fife: Canadian heritage wheat, nutty and complex flavor, moderate protein (12-13%)
 - Turkey Red: hard red winter wheat brought to Kansas in 1870s, excellent for bread
 - Sonora: soft white wheat, low protein (9-10%), best for tortillas and flatbreads
-- Emmer: ancient grain, 14-16% protein, nutty, requires adjustment to hydration
+- Emmer: [[quinoa-and-ancient-grain-cultivation]], 14-16% protein, nutty, requires adjustment to hydration
 - Einkorn: oldest cultivated wheat, lower gluten, requires gentle handling
 - Spelt: related to wheat but distinct species, nutty flavor, some gluten-sensitive people tolerate it
 
@@ -101,7 +101,7 @@ Using locally grown grains connects bread to terroir and supports regional grain
 ### Growing Grain on the Homestead
 - Wheat: 50-80 bushels/acre, plant fall (winter wheat) or spring
 - Rye: most cold-tolerant grain, excellent for marginal soils, 40-70 bushels/acre
-- Oats: good for crop rotation, 60-100 bushels/acre
+- Oats: good for [[coleman-cover-crop-rotation-and-soil-health]], 60-100 bushels/acre
 - Requires: small-scale thresher or hand methods (flail, winnowing)
 - Storage: whole grains store for years in cool, dry conditions
 

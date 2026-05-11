@@ -5,6 +5,7 @@ tags: [query, natural-farming, seed-balls, restoration]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---

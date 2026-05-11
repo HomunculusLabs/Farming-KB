@@ -1,15 +1,16 @@
 ---
-title: Square Foot Gardening Guide
+title: [[comparison-biointensive-vs-square-foot-gardening]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, gardening, vegetables, permaculture, beginner, plant-systems]
-sources: []
+sources:
+  - "raw/papers/eliot-coleman-four-season-harvest.md"
 ---
 
 # Square Foot Gardening Guide
 
-Square foot gardening [[biointensive-carbon-farming]] (SFG) is an intensive planting method developed by Mel Bartholomew that divides raised beds into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
+Square foot gardening (SFG) is an [[intensive-planting-spacing]] method developed by Mel Bartholomew that divides [[cervantes-raised-beds-mound-planting]] into 1x1 foot squares, each planted with a specific number of crops based on plant size. The system maximizes yield per square foot while reducing wasted space, seeds, water, and weeding.
 
 ## Core Principles
 
@@ -101,7 +102,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 ### Succession Timing Rules
 - Know your days to maturity (DTM) for each crop.
-- Start next crop's seeds indoors or in a nursery flat while current crop finishes.
+- Start next crop's [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]] or in a nursery flat while current crop finishes.
 - Pull spent plants, add 1-2 inches of compost, replant immediately.
 - Cool-season crops (spinach, lettuce, peas, radishes) can be double- or triple-cropped.
 - Warm-season crops (tomatoes, peppers) occupy a square all summer — plant garlic in fall after cleanup.
@@ -110,10 +111,10 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 
 ### Spring Planting
 - Cool-tolerant crops first: peas, lettuce, spinach, radishes, carrots, beets, onions.
-- Protect with row cover or cold frame for early starts.
+- Protect with [[coleman-double-layer-protection-greenhouse-row-cover]] or [[cold-frame-construction]] for early starts.
 
 ### Summer Planting
-- Replace spring crops with warm-season crops: tomatoes, peppers, beans, cucumbers, squash, basil.
+- Replace [[coleman-overwintered-onions-and-early-spring-crops]] with warm-season crops: tomatoes, peppers, beans, cucumbers, squash, basil.
 - Use shade cloth for heat-sensitive crops (lettuce, spinach) in midsummer.
 
 ### Fall Planting
@@ -121,8 +122,8 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 - Use row cover to extend the season into November in most zones.
 
 ### Winter (Mild Climates)
-- Garlic, onions, and cover crops can occupy beds through winter.
-- Cold frames or hoop tunnels allow year-round growing in zones 6-8.
+- Garlic, onions, and [[biofumigation-and-brassica-cover-crops-for-pest-management]] can occupy beds through winter.
+- [[faires-season-extension-cold-frames]] or hoop tunnels allow year-round growing in zones 6-8.
 
 ## Square Foot Gardening vs. Row Gardening
 
@@ -132,7 +133,7 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 | Soil needed | Little (Mel's mix) | Large volume |
 | Weeding | Minimal | Significant |
 | Yield per sq ft | High | Low to moderate |
-| Crop rotation | Easy (swap squares) | More planning needed |
+| [[coleman-cover-crop-rotation-and-soil-health]] | Easy (swap squares) | More planning needed |
 | Seed use | Precise, minimal | Often over-planted |
 | Setup cost | Moderate (beds + mix) | Low |
 | Best for | Small spaces, beginners | Large-scale, mechanized |
@@ -146,5 +147,3 @@ The key to maximizing SFG productivity is replanting each square as soon as it's
 - Planting too early — raised beds warm up fast, but frost still kills tender crops.
 
 ## Related Concepts
-
-- [[raised-bed-gardening]] for bed construction and soil preparation

@@ -5,6 +5,7 @@ updated: 2026-05-02
 type: query
 tags: [fungal-ecology, mycology]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---
@@ -13,6 +14,7 @@ tags: [query, mycology, fungal-biology, mycelium, ecology]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/mycelium-running-stamets.md"
 ---
 

@@ -1,15 +1,15 @@
 ---
-title: Hurricane Preparedness Guide
+title: Hurricane [[earthquake-preparedness-guide]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [safety, homesteading, climate, environment, water]
+tags: [safety, [[homesteading]], climate, environment, water]
 sources: []
 ---
 
 # Hurricane Preparedness Guide
 
-Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide [[wildfire-preparedness-guide]] covers storm preparation, protection, evacuation, and recovery.
+Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide covers storm preparation, protection, evacuation, and recovery.
 
 ## Understanding Hurricane Categories
 
@@ -76,7 +76,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 - Water: 1 gallon per person per day (drinking, cooking, hygiene) — 7 gallons minimum per person
 - Non-perishable food that requires no cooking: canned goods, granola bars, dried fruit, nuts, crackers
 - Manual can opener
-- Camp stove with fuel (for outdoor cooking only — never indoors)
+- Camp stove with fuel ([[query-how-to-build-a-cob-oven-for-outdoor-cooking]] only — never indoors)
 - Water purification: bleach (unscented, 8 drops per gallon), purification tablets, or filter
 - Cooler and ice for perishables
 
@@ -98,7 +98,7 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 
 ### First Aid and Health
 - Complete first aid kit (see [[homestead-first-aid-guide]])
-- Prescription medications (30-day supply minimum)
+- [[ayahuasca-interactions-with-prescription-medications]] (30-day supply minimum)
 - Mosquito repellent
 - Sunscreen
 - Hand sanitizer

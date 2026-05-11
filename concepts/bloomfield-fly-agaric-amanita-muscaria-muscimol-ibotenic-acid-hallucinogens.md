@@ -23,14 +23,14 @@ type: concept
 
 ## Overview
 
-The fly agaric, Amanita muscaria, is the best known of all mushrooms,
+The fly agaric, [[amanita-muscaria]], is the best known of all mushrooms,
 instantly recognizable by its bright red cap dotted with white warts.
-Associated with a rich history of ritual use and abuse, it has played
+Associated with a [[plant-science-exploring-rich-history]] of ritual use and abuse, it has played
 center stage in numerous fiction and nonfiction books. The frequently
 disoriented world described in Lewis Carroll's Alice in Wonderland
 (1865) probably owes much of its detail to contemporary accounts of
 fly agaric inebriation by the mycologist Mordecai Cubitt Cooke. The
-mushroom produces muscimol and ibotenic acid, compounds which
+mushroom produces muscimol and [[amanita-muscaria-and-ibotenic-acid-containing-fungi]], compounds which
 respectively excite and sedate the nervous system by binding to
 certain brain receptors. Unlike the deadly amatoxins of its
 relatives, the fly agaric is rarely fatal to healthy adults, though
@@ -82,59 +82,9 @@ distortions and agitation. As ibotenic acid is decarboxylated to
 muscimol, GABAergic effects become dominant, producing sedation and
 dream-like states with vivid hallucinations.
 
-This biphasic profile is unusual among psychoactive substances and
+This biphasic profile is unusual among [[cultural-evolution-and-psychoactive-substances]] and
 accounts for highly variable reports of fly agaric experiences. The
-ratio of muscimol to ibotenic acid depends on preparation method and
+ratio of muscimol to ibotenic acid depends on [[pf-tek-substrate-formula-and-jar-preparation-method]] and
 individual specimen.
 
 ## Alice in Wonderland Connection
-
-The disoriented world of Alice in Wonderland (1865) probably owes
-much to contemporary accounts of fly agaric inebriation by Cooke, a
-prominent Victorian mycologist whose accounts circulated in the same
-circles as Carroll. Parallels include size distortions (the "Eat me"
-cake and "Drink me" bottle), talking animals, disorientation
-regarding time and place, and rapid mental state shifts. Whether
-these were deliberate references or coincidental remains debated.
-
-## Ecological Function
-
-Several hypotheses have been advanced for the ecological function of
-these compounds:
-
-- **Deterrence:** Make the mushroom unpalatable to herbivores
-- **Insecticidal:** The common name suggests toxicity to insects
-- **Metabolic byproduct:** Incidental products with no adaptive
-  function
-
-The fly agaric is consumed by several animal species apparently
-without ill effect, weakening the deterrence argument. The ecological
-function remains speculative.
-
-## Distinction from Deadly Amanita Toxins
-
-The psychoactive compounds of Amanita muscaria must be distinguished
-from the lethal amatoxins of Amanita phalloides ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]) and
-[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (destroying angel). Amatoxins are cyclic octapeptides
-that inhibit RNA polymerase II, causing fatal hepatic necrosis.
-Muscimol and ibotenic acid act on neurotransmitter receptors and do
-not cause organ damage. Fatalities are extremely rare; the primary
-danger is misidentification. Caesar's mushroom, Amanita caesaria,
-looks similar to the death cap but is toxin-free and has been a
-prized edible for centuries.
-
-## Broader Context
-
-The fly agaric is one of several psychoactive mushroom species.
-Psilocybe produces psilocybin and psilocin, indole alkaloids acting
-as serotonin 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] with fundamentally different
-chemistry from Amanita muscaria. Conocybe species are listed as both
-poisonous and hallucinogenic, a profoundly dangerous combination.
-The diversity of fungal neuroactive compounds underscores the
-importance of fungi as a pharmacological resource.
-
-## See Also
-
-- [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]
-- [[psilocybin-mushrooms-overview]]
-- [[bloomfield-ergot-claviceps-purpurea-ergotism]]

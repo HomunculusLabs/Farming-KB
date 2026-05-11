@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Hayden H.S. et al. (2003). "Cryptic Species of Ulva (Ulvales, Ulvophyceae) in the British Isles." Journal of Phycology, 39(2), 369-377.
-  - Steentoft M. et al. (1995). "A Checklist of Marine Benthic Green Algae (Chlorophyta) in the British Isles." Seaweeds of the British Isles, Vol. 1. HMSO.
+  - Steentoft M. et al. (1995). "A Checklist of Marine Benthic [[cervantes-green-algae-growing-medium]] (Chlorophyta) in the British Isles." Seaweeds of the British Isles, Vol. 1. HMSO.
   - Løvstad Holdt S. & Kraan S. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Seaweed: Functional Food Applications." Journal of Applied Phycology, 23(3), 543-597.
   - Fletcher R.L. (1996). "The Occurrence of 'Green Tides' — A Review." Marine Benthic Vegetation, Springer, 7-43.
 ---
@@ -44,7 +44,7 @@ The species was originally described by Linnaeus in 1753 as *Conferva intestinal
 
 Fronds are tubular, unbranched (occasionally sparingly branched), and hollow. The tubes are 1–6 mm in diameter, bright green, translucent, and typically inflated with gas when submerged.
 
-The thallus is two cell layers thick, with each layer being a single cell thick. This simple sheet rolls into a tube during development, creating the characteristic hollow structure.
+The thallus is two cell layers thick, with each layer being a [[fungal-single-cell-protein-production]] thick. This simple sheet rolls into a tube during development, creating the characteristic hollow structure.
 
 Cells are approximately 10–15 μm in diameter, arranged in a regular pattern. Each cell contains a single parietal chloroplast with one or more pyrenoids.
 
@@ -52,7 +52,7 @@ When growing in still water, fronds are long, inflated, and freely floating. In 
 
 ## Distribution and Habitat
 
-*Ulva intestinalis* has a cosmopolitan distribution in temperate and cold waters. It occurs throughout the North Atlantic, North Pacific, Mediterranean, Baltic Sea, and around Antarctica.
+*Ulva intestinalis* has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] in temperate and cold waters. It occurs throughout the North Atlantic, North Pacific, Mediterranean, Baltic Sea, and around Antarctica.
 
 The species is found from the upper intertidal zone to depths of approximately 10 m. It is particularly abundant in estuaries, tidal pools, salt marsh creeks, and harbors where nutrient levels are elevated.
 
@@ -76,7 +76,7 @@ The alga serves as a substrate for epiphytic diatoms, bacteria, and smaller alga
 
 ## Culinary and Nutritional Value
 
-*Ulva intestinalis* is edible and has been consumed in Scotland, Ireland, Japan, Korea, and parts of Southeast Asia. In Scotland, it was traditionally used in soups and as a boiled vegetable.
+*Ulva intestinalis* is edible and has been consumed in Scotland, Ireland, Japan, Korea, and parts of [[psilocybe-southeast-asia-pacific]]. In Scotland, it was traditionally used in soups and as a boiled vegetable.
 
 The nutritional profile is comparable to other green seaweeds. On a dry weight basis, it contains approximately 15–25% protein, 30–50% carbohydrates (mainly ulvan polysaccharides), and 1–3% lipids.
 
@@ -87,29 +87,3 @@ Ulvan, the major sulfated polysaccharide in *Ulva* species, has demonstrated ant
 Culinary applications include salads (when young and tender), soups, and as a garnish. The flavor is mild and slightly bitter, with a fresh oceanic character. Excessive boiling leaches both flavor and nutritional value.
 
 In Japan, gutweed is collected from clean coastal areas and used in miso soup and sunomono salads. Korean cuisine incorporates it as a side dish (banchan), often blanched and seasoned with sesame oil and garlic.
-
-Commercial cultivation of *Ulva* species is expanding in Europe and Asia, driven by demand for sustainable food ingredients and nutraceuticals. Land-based tank cultivation systems allow controlled, year-round production independent of seasonal wild harvests.
-
-## Bioremediation Potential
-
-The rapid growth rate of *Ulva intestinalis* (up to 10% per day under optimal conditions) and its nutrient uptake efficiency make it a candidate for bioremediation in integrated multi-trophic aquaculture (IMTA) systems.
-
-In IMTA setups, *U. intestinalis* is cultivated adjacent to finfish or shrimp farms. The seaweed absorbs dissolved nitrogen and phosphorus from farm effluent, converting waste nutrients into harvestable algal biomass.
-
-Harvested biomass can be processed into animal feed, [[complete-organic-fertilizer-cof-recipe-solomon]], or biogas through [[biogas-digester-basics]]. Research has demonstrated effective nutrient removal rates of 60–90% in pilot-scale systems.
-
-The species has also been investigated for heavy metal accumulation, though this limits its use as food in contaminated environments. Clean-cultivated biomass from monitored sites remains suitable for human consumption.
-
-Field trials in Scandinavian waters have demonstrated that *U. intestinalis* cultivation ropes installed near salmon cages can reduce dissolved inorganic nitrogen by up to 80%. The harvested seaweed is subsequently processed into salmon feed additives, closing the nutrient loop.
-
-Lifecycle analysis of *Ulva*-based bioremediation systems indicates a favorable environmental footprint compared to conventional wastewater treatment for coastal aquaculture operations.
-
-## See Also
-
-- [[porphyra-umbilicalis]]
-- [[sargassum-fusiforme]]
-- [[laminaria-digitata]]
-- [[palmaria-palmata]]
-- [[fucus-vesiculosus]]
-- [[caulerpa-racemosa]]
-- ethnobotany

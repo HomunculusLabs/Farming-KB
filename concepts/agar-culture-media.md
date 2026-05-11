@@ -87,32 +87,3 @@ mushroom species. Inverted incubation prevents condensation from dripping
 onto the culture surface.
 
 ## Storage and Long-Term Maintenance
-
-Short-term storage of agar cultures is typically at 4C in sealed bags
-to prevent desiccation. Most mushroom cultures remain viable for 6-12
-months under refrigeration. For long-term preservation, several methods
-are available. Slant cultures in screw-cap tubes with parafilm seals last
-1-2 years. Distilled water storage, where small agar plugs are placed in
-sterile distilled water, can preserve cultures for 5+ years. Cryopreservation
-in liquid nitrogen at -196C provides the longest-term storage and is the
-gold standard for culture collections. Lyophilization (freeze-drying) works
-for sporulating species but is less reliable for vegetative mycelium.
-
-## Practical Considerations
-
-Successful implementation of agar culture media requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

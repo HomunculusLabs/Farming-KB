@@ -6,7 +6,7 @@ assumptions about what it means to be a sentient organism. Plants lack brains,
 neurons, and nervous systems, yet they demonstrate both the ability to
 remember past experiences and to maintain an internal representation of their
 body's orientation in space. These capabilities, documented extensively in
-Daniel Chamovitz's *What a Plant Knows*, operate through biochemical and
+[[daniel-chamovitz]]'s *What a Plant Knows*, operate through biochemical and
 [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] that are fundamentally different from animal
 cognition but achieve functionally similar outcomes in terms of adaptive
 behavior.
@@ -24,8 +24,8 @@ seasonal flowering responses.
 
 A more dramatic example of plant memory is vernalization — the requirement for
 prolonged exposure to cold temperatures before certain plants will flower.
-Many temperate species, including winter wheat (*Triticum aestivum*), sugar
-beet (*Beta vulgaris*), and biennial vegetables like cabbage and carrots, will
+Many temperate species, including winter wheat (*[[triticum-aestivum]]*), sugar
+beet (*Beta vulgaris*), and [[query-how-do-i-save-seeds-from-biennial-vegetables]] like cabbage and carrots, will
 not flower unless they experience several weeks of cold (typically 0-10°C)
 during winter months. The plant "counts" the duration of cold exposure through
 a remarkable epigenetic mechanism: the progressive removal of repressive
@@ -39,9 +39,9 @@ PHD-THD protein complex and VIN3 (VERNALIZATION INSENSITIVE 3). After
 sufficient cold exposure, FLC is stably silenced, and the plant becomes
 competent to flower when days lengthen in spring.
 
-This epigenetic memory persists through cell divisions for the entire
+This [[plant-epigenetic-memory-gene-based-remembering]] persists through cell divisions for the entire
 remaining lifespan of the plant, representing one of the longest-lasting forms
-of biological memory outside of the adaptive immune system. Crucially,
+of [[biological-memory-non-neural]] outside of the adaptive immune system. Crucially,
 vernalization memory is reset in the next generation — seeds produced by a
 vernalized plant are again responsive to cold, ensuring that each generation
 independently measures the passage of winter before committing to flowering.
@@ -57,7 +57,7 @@ lower cost to growth than constitutive defense activation would impose. In
 some cases, stress memory can be transmitted to offspring through seed
 provisioning (accumulation of defensive proteins, RNAs, or metabolites in
 seeds) or transgenerational epigenetic inheritance, though the extent and
-ecological significance of transgenerational memory in plants remains actively
+[[lichen-biology-guide]] of transgenerational memory in plants remains actively
 debated.
 
 ## Gravitropism: How a Plant Knows Where It Is
@@ -87,35 +87,3 @@ the lower side stimulates cell elongation, causing the shoot to bend upward.
 The opposing responses of roots and shoots to the same auxin gradient —
 inhibition in roots, promotion in shoots — ensure that the entire plant body
 correctly reorients after a disturbance.
-
-Charles Darwin and his son Francis also studied gravitropism extensively in
-*The [[darwin-power-of-movement-in-plants]] in Plants* (1880), demonstrating that the root cap
-(which contains the gravity-sensing columella cells) is necessary for roots to
-respond to gravity. Removing the root cap abolishes gravitropic sensitivity,
-just as removing the shoot tip abolishes phototropic sensitivity. The parallel
-experiments on light and gravity sensing represent some of the earliest
-systematic studies of plant [[plant-sensory-biology-smell-touch-hearing]] and established the experimental
-paradigm still used today.
-
-## The Aware Plant: Integration of Sensory Information
-
-The accumulated evidence from decades of research paints a picture of plants
-as remarkably aware organisms — not conscious in the human sense, but capable
-of sophisticated perception, information processing, and adaptive response.
-Plants simultaneously monitor light (color, direction, duration, and
-intensity), [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] from other organisms, mechanical forces, gravity,
-temperature, moisture gradients, and numerous other environmental parameters.
-They integrate this information through complex signaling networks involving
-hormones (auxin, gibberellins, cytokinins, abscisic acid, ethylene,
-brassinosteroids, and others), electrical signals (action potentials and slow
-wave potentials), calcium waves, reactive oxygen species, and gene regulatory
-circuits. They maintain memories of past experiences through stable protein
-states, epigenetic chromatin modifications, and metabolic priming. And they
-use all of this integrated information to make decisions about growth
-direction, developmental timing, defense allocation, and reproductive strategy
-that are exquisitely tuned to their environmental context.
-
-## See Also
-- [[phytochrome-signaling-plant-light-perception]]
-- [[chelation-and-metal-binding-in-plants]]
-- [[plant-gravitropism-and-spatial-awareness]]

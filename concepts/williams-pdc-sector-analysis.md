@@ -88,38 +88,3 @@ that force access, or catch and harness that force.
 
 For example, placing a windbreak along the winter wind sector protects
 structures from cold winds. Positioning a greenhouse to capture the winter
-sun sector maximizes [[comparison-passive-solar-vs-earth-sheltered]] gain. Locating [[permaculture-designers-manual-animal-housing-detailed]] away from
-the noise sector keeps livestock calm. The sector analysis becomes a guide
-for intelligent element placement and is a key input to
-[[williams-pdc-structures]] design decisions.
-
-## Sectors Combined with Zones
-
-The sector analysis is always used in combination with the zone analysis.
-Zones tell you where to place things based on human use frequency; sectors
-tell you how to orient and position things based on natural forces. Together
-they provide a comprehensive framework for element placement that accounts
-for both human needs and natural energies.
-
-This dual analysis is a cornerstone of the
-[[permaculture-beginners-guide-zones-and-sectors]] methodology. Neither
-analysis alone provides complete guidance; together they create a powerful
-design framework that has been refined through decades of permaculture
-practice worldwide.
-
-## Observation Before Analysis
-
-As with all permaculture analysis, the sector analysis begins with
-observation. Spend time on the site at different times of day and different
-seasons. Feel where the wind comes from, notice where the sun hits and where
-shade falls. Listen for noise sources. Look at what is visible from different
-vantage points. The more time you spend observing the actual forces on your
-site, the more accurate and useful your sector diagram will be. Observation
-is the foundation upon which all analytical tools are built.
-
-## See Also
-
-- [[passive-solar-design]]
-- [[permaculture-design]]
-- [[williams-pdc-zone-analysis]]
-- [[williams-pdc-structures]]

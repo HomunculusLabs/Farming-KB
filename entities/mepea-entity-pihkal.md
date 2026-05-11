@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # MEPEA
 
-PIHKAL entry #123. 3-METHOXY-4-ETHOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #123. 3-METHOXY-4-ETHOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -60,7 +60,7 @@ would be 3-methoxy-4-ethoxy- (and 3-methoxy-4-allyloxy)-amphetamine.
 And equally interesting would be the 4-hydroxy analogue. This would
 be an easily made compound from vanillin, one of our most enjoyable
 spices in the kitchen cabinet, and it would be directly related to the
-[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], eugenol and isoeugenol. This amphetamine compound has
+[[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], [[eugenol]] and isoeugenol. This amphetamine compound has
 already been synthesized, but it is still unexplored in man.
 
 Some years ago a report appeared in the forensic literature of Italy,
@@ -74,7 +74,7 @@ milligrams. The compound can apparently be quite dysphoric, and long
 lived.
 
 In the Czechoslovakian publication that presented MEPEA and MAPEA.
-there were descriptions of escaline (E), proscaline (P), and the
+there were descriptions of escaline (E), [[proscaline]] (P), and the
 allyloxy analogue (AL). These are all active in man, and have been
 entered elsewhere. This is the only published material dealing with
 psychedelic drugs I have ever been able to find, from the laboratory
@@ -87,57 +87,3 @@ had discovered, and never published? Was young Wistupkin a student of
 his? Are there unrecognized notes of Otakar Leminger sitting in some
 farm house attic in Northern Czechoslovakia? I extend my heartfelt
 salute to an almost unknown explorer in the psychedelic drug area.
-
-## Synthesis
-
-A solution of 10.0 g 3-methoxy-4-ethoxybenzaldehyde in 150
-mL nitromethane was treated with 1.7 g anhydrous ammonium acetate, and
-heated on the [[scythian-cannabis-steam-bath-ritual]] for 1 h. The excess nitromethane was removed
-under vacuum, yielding a loose, yellow crystalline mass that was
-filtered and modestly washed with cold MeOH. The 8.0 g of damp yellow
-crystals thus obtained were dissolved in 50 mL of vigorously boiling
-CH3CN, decanted from a small amount of insolubles (probably ammonium
-acetate residues) and cooled in an ice bath. The crystals so obtained
-were removed by filtration, washed with 2x5 mL cold CH3CN, and air
-dried to constant weight. The yield of
-4-ethoxy-3-methoxy-beta-nitrostyrene was 6.3 g of beautiful yellow
-crystals.
-
-A solution of 2.3 g LAH in 70 mL anhydrous THF was cooled, under He to
-0 deg C with an external ice bath. With good stirring there was added
-2.3 mL 100% H2SO4 dropwise, to minimize charring. This was followed
-by the addition of 6.2 g 3-ethoxy-4-methoxy-beta-nitrostyrene in
-anhydrous THF. After a few min further stirring, the temperature was
-brought up to a gentle reflux on the steam bath, and then all was
-cooled again to 0 deg C. The excess hydride was destroyed by the
-
-cautious addition of IPA followed by sufficent 10% NaOH to give a
-white granular character to the oxides, and to assure that the
-reaction mixture was basic. The reaction mixture was filtered and the
-filter cake well washed with THF. The filtrate and washes were
-combined and stripped of solvent under vacuum. The residue was
-dissolved in dilute H2SO4. This was washed with 2x75 mL CH2Cl2, which
-removed the residual yellow color. The remaining aqueous phase was
-made basic with NaOH, and extracted with 3x75 mL CH2Cl2. These
-extracts were combined and the solvent removed under vacuum. The
-residue was distilled at 108-115 deg C at 0.4 mm/Hg to give 4.2 g of a
-mobile, colorless liquid. This was dissolved in 12 mL IPA,
-neutralized with 60 drops concentrated HCl, and diluted with 100 mL
-anhydrous Et2O. There was deposited a fine white crystalline product
-which, after removal by filtration, ether washing, and air drying,
-yielded 3.8 g of 3-methoxy-4-ethoxyphenethylamine hydrochloride
-(MEPEA).
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[p-entity]]
-
-- [[eme-entity-pihkal]]
-
-- [[mee-entity]]
-
-- [[pihkal-introduction-and-methodology]]

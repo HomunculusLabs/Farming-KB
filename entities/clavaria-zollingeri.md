@@ -88,27 +88,3 @@ fruiting bodies characteristic of the group.
 - **Ecology:** Primarily saprotrophic on forest floor litter; some evidence
   suggests weakly [[decomposition]]:** Contributes to breakdown of coniferous [[dighton-pine-needle-litter-decomposition-fungal-succession]]
   and leaf duff on the forest floor
-- **Mycorrhizal associations:** Some evidence of weak ectomycorrhizal
-  capability, potentially facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] with host trees
-- **Bioindicator value:** Sensitive to nitrogen deposition, soil compaction,
-  and forest floor disturbance; presence indicates relatively undisturbed
-  forest conditions with low atmospheric nitrogen input
-- **Conservation status:** Declining in parts of Europe due to atmospheric
-  pollution and habitat modification; listed on several regional red lists
-- **Microhabitat specialist:** Requires specific moisture and litter depth
-  conditions, making it vulnerable to changes in [[mollison-pdc-forest-management-products]] practices
-
-## Similar Species
-
-| Species | Key Differences |
-|---------|----------------|
-| [[clavulina-cristata]] (white form) | Branched, antler-like; white to cream |
-| Clavulina amethystinoides | More extensively branched; found in tropics |
-| Ramaria spp. | Coralloid, extensively branched; many are orange/yellow |
-| Typhula spp. | Much smaller (1–3 cm), on decaying herbaceous stems |
-## See Also
-
-- [[clavaria-vermicularis]]
-
-- [[clitocybe-nuda]] — Another Clavariaceae member with potent bioactives
-- clavulina — Related clavarioid genus with branching fruiting bodies

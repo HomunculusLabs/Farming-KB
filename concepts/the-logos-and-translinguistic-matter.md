@@ -1,5 +1,5 @@
 ---
-title: "The the logos and translinguistic matter Matter"
+title: The Logos And Translinguistic Matter
 created: 2026-04-28
 tags: [logos, translinguistic-matter, tryptamines, language,
       consciousness, mckenna]
@@ -11,7 +11,7 @@ type: concept
 
 # The Logos and Translinguistic Matter
 
-Central to Terence McKenna's 1983 Esalen lecture is the concept of the
+Central to [[terence-mckenna]]'s 1983 Esalen lecture is the concept of the
 Logos, a transcendental linguistic intelligence encountered through
 tryptamine experiences. McKenna argued that psilocybin and DMT "invoke the
 Logos," working directly on the language centers of the brain so that an
@@ -43,7 +43,7 @@ through a language that cannot be translated into ordinary speech.
 
 This translinguistic matter operates at a level prior to and more
 fundamental than ordinary language. McKenna described it as "the assembly
-language that lies behind language," comparable to Robert Graves's concept
+language that lies behind language," comparable to [[robert-graves-british-mushroom-connection]]'s concept
 of the [[mckenna-glossolalia-and-primal-language-tryptamine-states]] in The [[mckenna-primal-ursprache-kabbalistic-zohar-and-white-goddess-glossolalia]] or the Kabbalistic language
 described in the Zohar. It is a "Ursprache" that emerges from within the
 self yet seems to originate from elsewhere.
@@ -88,42 +88,3 @@ in dream and in the psilocybin trance, at the quantum foundation of being,
 in the human future, and after death." All of these domains, normally
 considered separate, are revealed in the tryptamine state to be part of a
 single continuum unified by the Logos.
-
-Philip K. Dick's Valis provided a parallel framework: a creature of pure
-information, buried as static text at Nag Hammadi, that came alive when
-the texts were translated and read. Like the mushroom consciousness, Dick's
-Logos was a thing of pure information that became active in human minds.
-
-## Eschatology and the Logos
-
-For McKenna, the Logos is not merely a phenomenon of individual experience
-but a force shaping human history. "History is the shockwave of
-eschatology," he wrote. Something is at the end of time, casting an
-enormous shadow over all of human becoming. The acceleration visible in
-technological and cultural development is evidence of humanity being drawn
-toward a culminating encounter with the Logos.
-
-## The Exteriorization of the Soul
-
-McKenna's ultimate vision involved what he called "the exteriorization of
-the soul and internalization of the body." He imagined a future in which
-the exterior soul exists as a "superconducting lens of translinguistic
-matter generated out of the body of each of us at a critical juncture."
-From that point, one's body image would exist as a holographic wave
-transform while living in what he called "the fields of the Lord."
-
-## Significance and Assessment
-
-McKenna's concept of the Logos represents one of the most ambitious
-attempts to articulate the phenomenology of the tryptamine experience in
-philosophical terms. Whether understood as a literal intelligence, a
-metaphor for the self-organizing dynamics of consciousness, or a
-transcendental reality accessed through psychedelic states, the Logos
-remains a central and compelling feature of the [[mckenna-dmt-experience-and-hyperspace]] that
-demands further investigation.
-
-## Related Concepts
-
-- [[mckenna-tryptamine-hallucinogens-and-consciousness]]
-- [[tryptamine-consciousness-theory]]
-- [[extraterrestrial-contact-and-dmt-experience]]

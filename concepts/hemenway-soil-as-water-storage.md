@@ -5,6 +5,7 @@ tags: [water, soil, organic-matter, swales, conservation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/gaias-garden-toby-hemenway.md"
   - ~/wiki/raw/papers/gaias-garden-toby-hemenway.md
 type: concept
 ---
@@ -61,7 +62,7 @@ techniques work together:
 - Use hemenway-cover-crops-guide and [[mulch-types-and-effects]] to reduce evaporation
 - Avoid compacting soil by minimizing foot traffic
 
-[[soil-food-web]] organisms, including fungi and bacteria,
+[[soil-foodweb]] organisms, including fungi and bacteria,
 create glomalin and other substances that improve soil
 structure and water-holding capacity.
 

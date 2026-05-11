@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - ~/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 type: concept
 ---
@@ -86,24 +87,3 @@ grains. Liquid inoculation from petri dish cultures works well.
 The Psilocybe species readily adapt to grain colonization. Spawn
 can be expanded through grain-to-grain transfers for up to three
 generations before strain senescence becomes a concern.
-
-### Outdoor Bed Establishment
-For P. cyanescens, alder chips are an excellent primary substrate.
-Chips are pasteurized or soaked, then mixed with grain spawn.
-Beds should be kept moist and shaded. Fruiting typically occurs
-in the fall when temperatures drop below 55 degrees F (13 degrees
-C) and after the first heavy rains.
-
-### Indoor Cultivation
-P. cubensis is the primary species for indoor cultivation, using
-grain spawn and cased substrates. This species is not native to
-the Pacific Northwest but thrives in tropical and subtropical
-climates. See growing-gourmet-mushroom-life-cycle
-- [[growing-gourmet-contamination-prevention]]
-- [[growing-gourmet-strain-selection]]
-## See Also
-- [[psilocybe-baeocystis]]
-- [[psilocybe-stuntzii]]
-- [[psilocybe-mexicana]]
-- [[psilocybe-cyanescens]]
-- [[psilocybe-azurescens]]

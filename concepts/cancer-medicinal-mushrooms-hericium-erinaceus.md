@@ -88,27 +88,3 @@ conditions. These neuroprotective compounds may also have relevance
 to cancer treatment, particularly in managing chemotherapy-induced
 peripheral neuropathy, though this specific application requires
 further investigation.
-
-## Research Gaps and Future Directions
-
-While H. erinaceus shows clear promise based on its polysaccharide
-profile and bioactive compound content, several research gaps remain:
-
-- Limited clinical cancer trial data compared to PSK, PSP or Lentinan
-- Most studies focus on neuroprotective rather than anticancer
-  properties
-- Need for standardised extraction protocols for antitumour compounds
-- Potential for erinacines and hericenones in cancer applications
-  largely unexplored
-- Submerged fermentation production of mycelial biomass could provide
-  scalable source of bioactive compounds
-- Investigating neuroprotective compounds for chemo-induced
-  neuropathy management
-
-## Related
-
-- [[hericium-coralloides]] Topics
-
-- [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
-- [[medicinal-mushroom-cancer-chemoprevention]]
-- [[cancer-medicinal-mushrooms-extraction-bioavailability]]

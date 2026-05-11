@@ -1,5 +1,5 @@
 ---
-title: Seed seed saving methods home garden for Home Gardeners
+title: [[biointensive-seed-saving]] Methods [[cool-climate-home-garden-mollison]]
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 Updated: 2026-04-18
 
-Steve Solomon provides detailed guidance on seed saving that balances practical home-garden economics with the genetic requirements of maintaining vigorous open-pollinated (OP) varieties. This page covers the practical methods for both dry-seed and wet-seed crops.
+[[steve-solomon]] provides detailed guidance on seed saving that balances practical home-garden economics with the genetic requirements of maintaining vigorous open-pollinated (OP) varieties. This page covers the practical methods for both dry-seed and wet-seed crops.
 
 ## Dry Seed vs. Wet Seed
 
@@ -88,36 +88,3 @@ To prevent unwanted crossing between varieties of the same species:
 ### Lettuce
 
 - Lettuce is self-pollinated; sow seed crop in mid-autumn and overwinter.
-- Seeds ripen irregularly and tend to shatter.
-- As soon as you see mature seeds on a branch, cut it off and let it finish drying.
-- Winnow to clean.
-
-### Parsnips
-
-- Short-lived parsnip seed (usually only two years after harvest) makes growing your own seed especially worthwhile.
-- Save seed from carefully hand-selected roots showing exactly the traits you want.
-- Use at least 25 roots to avoid inbreeding depression.
-
-### Chicories
-
-- Biennials that overwinter and produce tall stalks covered with flowers that almost always self-pollinate.
-- Isolate varieties by 50 feet.
-- Best to save seed from a single good plant.
-- Seed capsules are quite hard and shatter easily.
-- Clean by treading dried stalks on a tarp and winnowing.
-
-## Storage
-
-- All seed must be thoroughly dry before storage.
-- Store in cool, dry, dark conditions.
-- Moisture is the primary enemy -- seed at high moisture and temperature ages rapidly.
-- Properly dried and stored, many vegetable seeds remain viable for 3-5 years; some for much longer.
-
-## Related Concepts
-
-- [[seed-saving-techniques]]
-- [[weed-management-strategies]]
-
-Sources: Steve Solomon, *Gardening When It Counts*, Chapter 5 (Seeds)
-- [[solomon-gardening-when-it-counts-index]]
-- permaculture-designers-manual-seed-saving-varieties

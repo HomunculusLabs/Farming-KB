@@ -31,8 +31,8 @@ Drought is one of the most common and challenging climate stresses. Permaculture
 
 ### Soil Strategies
 - Increase organic matter content (each 1% increase holds approximately 20,000 gallons more water per acre)
-- Biochar amendment increases water retention and nutrient availability
-- Minimize tillage to preserve soil structure and mycorrhizal networks
+- Biochar amendment increases water retention [[ph-and-nutrient-availability-garden-soils]]
+- Minimize tillage to preserve soil structure and [[arbuscular-mycorrhizal-networks]]
 - Cover crops to protect soil from drying winds and sun
 - Rock mulches can reduce evaporation while slowly releasing minerals
 
@@ -72,7 +72,7 @@ Rising temperatures and more frequent heat waves stress plants, animals, and peo
 ### Shading and Cooling
 - Deciduous shade trees to the south and west of buildings (shade in summer, sun in winter)
 - Pergolas, arbors, and vine-covered structures for outdoor shade
-- Water features for evaporative cooling
+- Water features for [[bloomfield-mushroom-evaporative-cooling-and-thermal-regulation]]
 - Light-colored surfaces to reflect heat
 - Shade cloth for vulnerable crops during peak heat
 
@@ -90,7 +90,7 @@ Rising temperatures and more frequent heat waves stress plants, animals, and peo
 - Feed during cooler parts of the day
 
 ### Building Design
-- Passive solar design — orient buildings to minimize heat gain in summer
+- [[passive-solar-design]] — orient buildings to minimize heat gain in summer
 - Thermal mass for temperature stabilization
 - Natural ventilation (cross-ventilation, stack effect)
 - Green roofs and living walls for insulation
@@ -112,7 +112,7 @@ Cold snaps, late frosts, and extended freezes damage plants and stress animals a
 - Plant frost-tender species in the warmest microclimates on the property
 - Use windbreaks to protect from cold winter winds
 - Mulch heavily in fall to insulate roots
-- Allow dead plant material to stand over winter for insulation and wildlife habitat
+- Allow dead plant material to stand over winter for insulation and [[hemenway-backyard-wildlife-habitat]]
 
 ### Animal Management
 - Draft-free, insulated shelter for livestock

@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Food Preservation and Storage
 
-Source: Steve Solomon, "Gardening When It Counts" (2005)
+Source: [[steve-solomon]], "Gardening When It Counts" (2005)
 
 ## The Goal: Fresh Food Year-Round
 
@@ -22,7 +22,7 @@ Root cellaring is the most important and underutilized food preservation method.
 ### Requirements
 
 - Temperature: 32-40F (0-4C), stable
-- Humidity: high for root vegetables (damp packing)
+- Humidity: high for [[hamilton-root-vegetables-growing]] (damp packing)
 - Ventilation: some [[stamets-growing-room-air-circulation-co2-management]] to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]]
 - Darkness: prevents sprouting and greening
 
@@ -32,7 +32,7 @@ Many homes have basements suitable for cellaring. If not, options include:
 - Wall off and insulate a section of an existing basement
 - Dig an outdoor cellar (difficult during heavy snow periods)
 - Defunct chest freezers can serve as small root-storage compartments
-- No permits generally required for simple cellar construction
+- No permits generally required for simple [[earth-cellar-construction]]
 
 Mike and Nancy Bubel's book "Root Cellaring" is Solomon's recommended reference.
 
@@ -42,7 +42,7 @@ Mike and Nancy Bubel's book "Root Cellaring" is Solomon's recommended reference.
 - Put in slatted crates or bins
 - If the vegetable tends to dry out (carrots, beets), pack in damp material (sand, sawdust, moss)
 - Can also be stored in barrels or large trash bins with damp packing material
-- Rutabagas are possibly the most cellarable of all root crops
+- Rutabagas are possibly the most cellarable of all [[permaculture-plants-root-crops-and-tubers]]
 - Do not wash before storing; brush off loose soil only
 
 **Cabbage and leafy crops**:
@@ -71,7 +71,7 @@ Mike and Nancy Bubel's book "Root Cellaring" is Solomon's recommended reference.
 - Need lower humidity than root vegetables
 - Inspect regularly; remove any developing mold
 
-**Winter squash**:
+**[[winter-squash-guide]]**:
 - Cure in warm, dry conditions for 1-2 weeks
 - Store at 50-55F (10-13C), dry conditions
 - Acorn squash: shorter storage (1-2 months)
@@ -87,61 +87,3 @@ Many crops can overwinter in the garden itself where the ground does not freeze 
 - **Parsnips**: flavor improves after frost; can be dug through winter
 - **Rutabagas**: stand in the garden through winter in mild climates
 - **Chicories**: survive if soil does not freeze solid
-
-In mild climates (where soil freezes shallowly or not at all), many crops remain in their growing beds with only minimal protection. Greens continue producing, and roots stay in the ground for months.
-
-## Biennial Seed Crops and Winter Storage
-
-The only way people in snow country can make seed for most biennial crops (carrots, beets, cabbage, onions, etc.) is to cellar the best roots through winter and replant them outside in spring. This was done extensively before the commercial seed industry developed. The cellar thus serves a dual purpose: food preservation and seed stock maintenance.
-
-## Freezing
-
-Solomon mentions freezing but considers it inferior to cellaring for most vegetables because:
-- Nutritional quality is reduced by blanching
-- Texture changes significantly
-- Dependent on continuous electricity
-- Freezer space is expensive compared to cellar space
-
-However, freezing is useful for:
-- Surplus garden produce that won't store well otherwise
-- Vegetables like green beans, sweet corn, and peppers
-- Meal-sized portions for convenience
-
-## Drying
-
-Drying is an ancient and effective method, particularly for:
-- **Dry beans**: thresh, fully dry, store in breathable containers
-- **Herbs**: hang in bundles or spread on screens in warm, dry, dark location
-- **Tomatoes**: can be sun-dried or dehydrated; store in oil or in airtight containers
-- **Winter squash seeds**: can be roasted and eaten or stored
-
-Beans should be fully dry before storing -- test by biting; if hard enough to not dent, they are ready. Store in cloth bags or feed sacks that allow some air circulation (large seeds respire significantly).
-
-## Fermentation
-
-Solomon briefly references fermentation but does not cover it extensively. Traditional methods include:
-- **Sauerkraut**: fermented cabbage, excellent for preservation of autumn cabbage surplus
-- **Pickles**: lacto-fermented cucumbers, beans, and other vegetables
-- These methods preserve nutrients better than canning
-
-## Canning
-
-Not emphasized by Solomon, who considers root cellaring superior for most vegetables. Canning involves high heat that destroys heat-sensitive vitamins and enzymes. It requires equipment, energy, and time. Useful as a supplementary method when cellaring capacity is exceeded.
-
-## Planning for Year-Round Food
-
-Solomon's approach to food self-sufficiency involves:
-1. Growing calorie staples (potatoes, winter squash, dry beans) in quantity
-2. Growing a wide variety of [[solomon-leafy-greens-growing]] and root vegetables
-3. Using root cellaring to maintain fresh food supply through winter
-4. Saving seed from biennial crops stored through winter
-5. Planning succession plantings so something is always ready to harvest
-6. Growing asparagus, artichokes, and other perennials for early spring production
-
-The garden can supply the kitchen for several more months than most people expect -- if the gardener gives it the same attention that other enthusiasts give to their hobbies.
-
-## See Also
-
-- [[vegetable-harvest-and-storage-guide]]
-- [[lacto-fermentation-and-food-preservation-methods]]
-- [[homesteading-food-preservation]]

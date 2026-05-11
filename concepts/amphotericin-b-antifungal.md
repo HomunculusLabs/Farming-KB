@@ -15,7 +15,7 @@ mycoses including [[mucormycosis-zygomycete-infections]], and invasive aspergill
 
 ## Discovery
 
-- Discovered in 1955 from a soil bacterium, Streptomyces nodosus, isolated in the Orinoco
+- Discovered in 1955 from a soil bacterium, [[streptomyces]] nodosus, isolated in the Orinoco
   River region of Venezuela by Gold et al.
 - Named "amphotericin" (from Greek amphoteros, "both") because it has both acidic and basic
   properties
@@ -61,7 +61,7 @@ Notable for being effective against Mucorales, which are resistant to most other
 
 - True clinical resistance is rare but increasing
 - Some Candida species show reduced susceptibility (C. lusitaniae, C. guilliermondii)
-- Mechanisms include reduced ergosterol content and altered membrane composition
+- Mechanisms include reduced [[ergosterol]] content and altered membrane composition
 - Resistance in Aspergillus is unusual but reported
 
 ## Dosing and Administration
@@ -88,19 +88,3 @@ Notable for being effective against Mucorales, which are resistant to most other
 ### Visceral Leishmaniasis
 - Liposomal amphotericin B is the drug of choice
 - Particularly for Indian visceral leishmaniasis (kala-azar)
-
-### Empiric Therapy
-- Used in febrile neutropenic patients with suspected fungal infection
-
-## Historical and Cultural Notes
-
-- Amphotericin B has been called "amphoterrible" by clinicians due to its toxicity
-- The drug's discovery came from a deliberate search for antifungal compounds from soil
-  microorganisms, inspired by the success of penicillin
-- Despite being over 60 years old, no new antifungal has surpassed its combination of
-  broad spectrum and fungicidal activity
-
-## Related Topics
-
-- [[cryptococcus-neoformans-pathogenesis]] - Major clinical indication
-- [[fungal-spore-biology]] - Other drug targets

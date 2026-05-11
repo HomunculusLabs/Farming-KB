@@ -3,6 +3,7 @@ title: Selfing and Regular Seed Production
 created: 2026-04-26
 updated: 2026-04-24
 sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - raw/papers/vic-high-creating-true-breeding-strains.md
 type: concept
 tags: [plant-growth]
@@ -87,40 +88,3 @@ This limitation forces breeders into half-sib breeding where males contribute ge
 - **[[fukuoka-direct-observation-method]]**: Selecting males for traits visible in both sexes (growth habit, leaf morphology, pest resistance).
 - **[[cervantes-progeny-testing-combining-ability]]**: Growing out test crosses from candidate males to determine which males pass on the most desirable genes. Vic High describes this as the most reliable method but notes it requires additional time and resources.
 - **Large male numbers**: Using many males per cross to increase the probability that the pollen pool includes the desired alleles.
-
-## The Value of Progeny Testing
-
-Vic High references progeny testing as an important tool for evaluating male contributions when direct phenotyping is impossible. Progeny testing involves:
-
-1. Creating small test crosses from each candidate male with a known female.
-2. Growing out the offspring and evaluating them for the traits of interest.
-3. Determining which males pass on the highest proportion of desirable genes.
-4. Using only the best-performing males for the main breeding cross.
-
-This approach effectively converts the half-sib problem into something closer to full-sib efficiency, though at the cost of additional time, space, and resources. For serious breeding programmes targeting complex polygenic traits, progeny testing may be the difference between success and failure.
-
-## Selfing vs Backcrossing vs Generational Inbreeding
-
-| Feature | Selfing | Backcrossing | Generational Inbreeding |
-|---------|---------|-------------|------------------------|
-| Starting material | Single individual | Individual + male | Two parents |
-| Speed of homozygosity | Fast (one generation) | Moderate (3+ backcrosses) | Moderate (3-5 generations) |
-| Genetic diversity retained | Minimal | Moderate | Higher |
-| Best use case | Exposing recessive traits | Preserving clone characteristics | Creating stable populations |
-| True breeding achievable | Yes (from homozygous offspring) | No (if source heterozygous) | Yes (with sufficient generations) |
-
-## Key Takeaways
-
-- Selfing is a valid starting point for inbreeding projects when a special individual is identified.
-- Selfing rapidly exposes recessive genetic information by producing homozygous combinations in a single generation.
-- A single selfing of a heterozygous individual produces 25% homozygous dominant and 25% homozygous recessive offspring.
-- Selfing fits within Vic High's broader framework of inbreeding strategies alongside backcrossing and generational inbreeding.
-- Regular seed production provides the genetic diversity necessary for selection-based breeding programmes.
-- The inability to phenotype male plants for many traits remains a central constraint across all breeding strategies.
-- Selfing is most efficient for quickly identifying true breeding individuals from a heterozygous parent.
-- Progeny testing is the recommended method for evaluating male genetic contributions when direct phenotyping is impossible.
-- Inbreeding strategies can be combined -- selfing or backcrossing can be followed by generational inbreeding for a complete programme.
-- The breeder's choice of strategy should be guided by whether the starting individual is heterozygous or homozygous for the target traits.
-- [[cannabis-controlled-pollination-seed-production]]
-- [[cannabis-true-breeding-ibl-strains]]
-- [[cannabis-phenotype-and-genotype-guide]]

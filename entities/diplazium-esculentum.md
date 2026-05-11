@@ -12,7 +12,7 @@ sources:
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
   - Farnsworth, E. et al. (2007). "Wild edible ferns of Asia." Economic Botany, 61(1), 1-15.
-  - Cheng, H.H. et al. (2016). "dighton-fungal-nutritional-composition-animal-diets of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
+  - Cheng, H.H. et al. (2016). "[[dighton-fungal-nutritional-composition-animal-diets]] of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
 ---
 
 ## Overview
@@ -21,7 +21,7 @@ Diplazium esculentum (Retz.) Sw., commonly known as the vegetable fern, is an ed
 
 It is widely consumed as a vegetable across South and [[psilocybe-southeast-asia-pacific]], where it is known by numerous local names including pako (Philippines), ningro (India), and pucuk pakis (Indonesia).
 
-The young fronds are harvested as a seasonal vegetable prized for their crisp texture and mild, slightly astringent flavor.
+The young fronds are harvested as a [[seasonal-vegetable-planting]] prized for their crisp texture and mild, slightly astringent flavor.
 
 It is one of the most economically important edible ferns in tropical and subtropical Asia.
 
@@ -83,54 +83,8 @@ Protein content ranges from 3–5 g per 100 g fresh weight, which is relatively 
 
 The fronds contain moderate amounts of dietary fiber and are low in fat.
 
-Phenolic compounds with antioxidant activity have been identified in the leaves.
+[[aact-tannins-terpenes-phenolic-compounds-wood-composting-ingham]] with antioxidant activity have been identified in the leaves.
 
 Raw ferns contain small quantities of thiaminase and trace amounts of fern-specific toxins (pteridotoxins), though these are destroyed by cooking.
 
 Boiling or blanching is recommended before consumption to neutralize any potentially harmful constituents.
-
-## Culinary and Traditional Uses
-
-Vegetable fern is a popular ingredient in the cuisines of northeastern India, particularly among the Naga, Khasi, and Assamese communities.
-
-In the Philippines, pako is served as a fresh salad with tomatoes, onions, and a vinegar-based dressing.
-
-Indonesian and Malaysian cooking uses pucuk pakis in stir-fries, curries, and coconut-milk-based preparations.
-
-In northern Thailand and Laos, the fern is cooked in soups and eaten with chili dips.
-
-The fiddleheads are typically blanched briefly before cooking to remove bitterness and potential toxins.
-
-Traditional medicinal use includes application of crushed fronds as a poultice for skin ailments in some tribal communities.
-
-In Ayurvedic traditions of northeastern India, the fern is considered cooling and is used to alleviate fever and digestive complaints.
-
-The fern is sold in local markets during the monsoon season when young fronds are most abundant.
-
-## Cultivation and Harvesting
-
-Most D. esculentum consumed commercially is still wild-harvested rather than cultivated.
-
-Wild populations are under increasing pressure from over-harvesting and habitat destruction in some regions.
-
-Cultivation trials have shown the fern can be grown successfully in shaded nursery beds under tropical conditions.
-
-Propagation is primarily from spores, which germinate readily on moist, sterile compost.
-
-Division of established rhizomes provides a faster vegetative propagation method.
-
-Optimal growth occurs at 25–30°C with high humidity and 50–70% shade.
-
-Harvesting of fiddleheads should leave at least one-third of the fronds intact to sustain the plant.
-
-Sustainable harvesting practices are important to prevent depletion of wild populations.
-
-The harvested fronds are perishable and should be consumed or processed within 1–2 days.
-
-## See Also
-
-- [[salvinia-molesta]]
-- [[colocasia-esculenta]]
-- [[manihot-esculenta]]
-- [[basella-alba]]
-- [[talinum-fruticosum]]

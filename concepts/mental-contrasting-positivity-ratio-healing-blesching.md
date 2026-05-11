@@ -1,5 +1,5 @@
 ---
-title: Mental Contrasting and Positivity Ratio in Healing
+title: Mental Contrasting Positivity Ratio Healing Blesching
 created: 2026-05-10
 tags: [psychology, mind-body-medicine, goal-achievement, positive-emotions, self-healing]
 source: "uwe-blesching-the-cannabis-health-index"
@@ -44,11 +44,11 @@ after researcher Marcial Losada.
 
 ### The Science Behind Positivity
 
-Words themselves carry measurable physiological effects. Researchers
+Words themselves carry measurable [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]]. Researchers
 at the University of Regensburg, Germany, discovered that simply
 viewing single words such as "happy" or "brutal" reduced or increased
 anxiety, respectively. Thoughtfully selected compassionate words alone
-can contribute to conflict resolution, stress reduction, and enhanced
+can contribute to conflict resolution, [[vipassana-mindfulness-and-stress-reduction-healing]], and enhanced
 coping mechanisms.
 
 ### Practical Application
@@ -88,63 +88,9 @@ success.
 
 ### Critical Caveat
 
-The success of mental contrasting depends on the expectation of the
-person using it. If you believe it will work, it will. If you do not
-believe, the technique may significantly reduce chances of achieving
-goals. This is described as a technique "for believers only."
-
-### The Four-Step Mental Contrasting Technique
-
-1. Think about your goal. Invoke details using as many senses as you
-   can. Let your mind wander and explore. Some people use a journal
-   to write it out.
-2. Focus on one big or numerous smaller positive aspects of your goal
-   and flesh them out. Involve as many senses as possible to make it
-   as real as possible.
-3. Now, in the same fashion, look at what stands in your way of
-   achieving your goal. Be specific and honest about obstacles.
-4. Focus on one big or numerous smaller positive aspects of the
-   solution and flesh them out. Involve as many senses as you can.
-
-## Connection to the Endocannabinoid System
-
-Both techniques intersect with cannabinoid-related physiology:
-
-- Positive emotions (gratitude, compassion) are associated with
-  anandamide and endogenous opioids
-- Negative emotions (fear, stress) are associated with cortisol and
-  epinephrine
-- The positivity ratio effectively describes the balance between
-  expansive and constricting neurochemical states
-- Cannabis within the therapeutic window may facilitate the relaxed,
-  non-judgmental awareness needed for both techniques
-
-## Health Outcomes and Evidence
-
-The practical health implications of maintaining a positivity ratio
-extend beyond subjective well-being:
-
-- Reduced cortisol levels during positive emotional states
-- Lower cardiovascular risk in patients with positive outlook
-- Improved immune function associated with optimistic attitudes
-- Better sleep quality correlated with gratitude practices
-- Enhanced vagal tone (parasympathetic activation) from compassion
-
-## Integration with Habit Transformation
-
-Mental contrasting and positivity monitoring can be integrated into
-the trigger-reaction-reward framework of habit transformation. When
-an unhealthy emotional habit is triggered, the positivity ratio
-provides immediate feedback on the emotional direction, while mental
-contrasting helps envision the desired alternative state alongside the
-obstacles that must be overcome.
-
-## Summary
-
-The positivity ratio (3:1 for flourishing, 5:1 for conflict) and
-mental contrasting technique represent two complementary,
-evidence-based approaches to emotional self-regulation. Unlike
-untempered positive affirmation, mental contrasting grounds optimism
-in realistic assessment of obstacles. Together, they provide a
-practical framework for turning constricting emotional patterns into
-
+## See Also
+- [[mental-contrasting-technique-for-goal-achievement]]
+- [[blesching-cannabis-emotional-intelligence-healing-framework]]
+- [[blesching-cannabis-deep-relaxation-healing]]
+- [[blesching-cannabis-bone-fracture-healing]]
+- [[forgiveness-gratitude-healing-practices-blesching]]

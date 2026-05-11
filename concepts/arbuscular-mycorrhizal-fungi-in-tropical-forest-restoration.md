@@ -1,5 +1,5 @@
 ---
-title: [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] Fungi in [[dighton-fungi-tropical-forest-ecosystems]] Restoration
+title: Arbuscular Mycorrhizal Fungi In Tropical Forest Restoration
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
@@ -15,9 +15,9 @@ communities, creating barriers to natural regeneration.
 ## Impact of Deforestation on AMF Communities
 Tropical rain forests are losing coverage at approximately 2%
 annually. Deforestation causes reduced AMF spore density and
-species diversity in disturbed soils, altered community composition
+species diversity in disturbed soils, altered [[core-endorhiza-bacterial-community-composition-cannabis]]
 (Gigasporineae less affected than Glomineae), disruption of common
-mycorrhizal networks that connect plants, reduced pollinator and
+[[arbuscular-mycorrhizal-networks]] that connect plants, reduced pollinator and
 seed disperser populations, and changes in soil microbiota including
 nitrogen-fixing bacteria.
 ## Successional Stages and AMF Responses
@@ -31,7 +31,7 @@ nitrogen-fixing bacteria.
 - Low light requirements, slow growth rates
 - Late reproduction with fewer larger fruits
 - Facultative or obligate mycorrhizal, depend on AMF
-  for nutrient acquisition
+  for [[dighton-ericoid-mycorrhizal-nutrient-acquisition]]
 - Develop seedling banks (not seed banks)
 - Form extensive defensive compounds against herbivores
 ## AMF in Habitat Recovery
@@ -54,7 +54,7 @@ communities, use AMF inoculation as standard practice, recognize
 that Gigasporineae are more resilient to soil disturbance, consider
 AMF functional groups when selecting plant species, and facilitate
 soil microbiotic community recovery. AMF contribute to soil retention
-through aggregate formation, organic material retention, improved
+through [[singh-fungal-roles-in-soil-aggregate-formation]], organic material retention, improved
 soil structure, and reduced water and wind erosion.
 ## AMF Inoculation Techniques
 AMF inoculation for restoration can be accomplished through several
@@ -71,11 +71,11 @@ remains the most effective method for restoring complete AMF
 communities.
 ## Soil Microbiome Interactions
 AMF do not function in isolation but participate in complex
-interactions with the broader soil microbiome. Bacterial associates
+interactions with the broader soil microbiome. [[bacterial-associates-amf-structures-biocontrol]]
 within AMF hyphal compartments influence nutrient exchange and plant
 growth promotion. Nitrogen-fixing bacteria often co-occur with AMF
 colonized roots, creating synergistic relationships that enhance
-both nitrogen and phosphorus availability to host plants.
+both nitrogen and [[phosphorus-availability]] to host plants.
 ## Climate Change Impacts on AMF Function
 Rising temperatures and altered precipitation patterns pose
 significant threats to AMF-mediated restoration outcomes. Experimental
@@ -88,18 +88,3 @@ remarkable resilience to climate extremes, suggesting that inoculum
 selection for climate-adapted AMF strains could improve restoration
 success under future conditions.
 ## Monitoring AMF Community Recovery
-Effective restoration requires monitoring AMF community recovery
-using both traditional and molecular approaches. Spore counting and
-root colonization assessments provide baseline data, while molecular
-methods such as metabarcoding of soil DNA reveal the full diversity
-of AMF taxa present. Long-term monitoring plots allow practitioners
-to track whether communities are converging toward reference forest
-conditions or remain degraded.
-## See Also
-
-- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
-- [[common-mycorrhizal-networks]]
-- [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
-- [[arbuscular-mycorrhizal-fungal-diversity]]
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[biodiversity-fungi-soil-fungal-communities]]

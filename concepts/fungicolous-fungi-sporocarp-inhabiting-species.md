@@ -9,7 +9,7 @@ sources: - "raw/papers/unknown-biodiversity-of-fungi.md"
 # Fungicolous Fungi: Sporocarp-Inhabiting Species and Host Relationships
 Updated: 2026-04-18
 Fungicolous fungi are species of fungi consistently associated with other
-fungi, including lichenicolous fungi that grow on lichens. The term
+fungi, including [[lichenicolous-fungi]] that grow on lichens. The term
 "sporocarp-inhabiting fungi" (SCIF) refers specifically to those growing on
 fruiting bodies of other fungi or slime molds. Approximately 1700
 nonlichenicolous fungicolous species have been counted (Rudakov 1978), with
@@ -30,7 +30,7 @@ Relationships range across the full symbiotic spectrum:
 
 Many species exhibit mixed strategies. Hypomyces chrysospermus (anamorph
 Sepedonium chrysospernum) always causes necrosis of mushroom hosts but can
-grow biotrophically inside Botrytis cinerea and Trichothecium roseum. Some
+grow biotrophically inside [[botrytis-cinerea]] and [[trichothecium-roseum]]. Some
 species behave as biotrophs on certain hosts but necrotrophs on others.
 
 ## Mycoparasite-Host Interfaces
@@ -38,11 +38,11 @@ species behave as biotrophs on certain hosts but necrotrophs on others.
 ### Necrotrophic Interfaces
 1. **Contact necrotrophic:** No penetration; host damaged by hyphal
    interference. Examples: Arthrobotrys superba, A. oligospora
-   (nematophagous fungi also functioning as contact mycoparasites);
-   Tilletiopsis species (kill Sphaerotheca fuliginea cells on contact).
+   ([[nematophagous-fungi]] also functioning as contact mycoparasites);
+   Tilletiopsis species (kill [[sphaerotheca-fuliginea]] cells on contact).
 2. **Invasive necrotrophic:** Parasite hyphae penetrate host cell wall,
    show considerable growth within host hyphae. Examples: Talaromyces
-   flavus, Schizophyllum commune, Trichoderma species.
+   flavus, [[schizophyllum-commune]], Trichoderma species.
 
 ### Biotrophic Interfaces
 1. **Intercellular biotrophs:** Grow between host cells without
@@ -88,29 +88,3 @@ reveals fungicolous fungi that were not visible at the time of collection.
 ## Notable Genera of Sporocarp-Inhabiting Fungi
 Several genera are particularly well-represented among fungicolous
 species. Hypomyces (Hypocreales) includes many species that transform
-the appearance of their hosts dramatically. Clonostachys species are
-common on decaying agarics in temperate forests. Nectria and
-Tolypocladium species colonize polypores and other persistent fungal
-structures. Sepedonium species produce distinctive aleurioconidia on
-bolete hosts. Gliocladium and Verticillium species are frequent on
-mushroom sporocarps and can cause significant damage in cultivation.
-
-## Conservation and Research Needs
-Fungicolous fungi face dual conservation threats: habitat loss affecting
-their host [[mycelium-running-stamets-fungi-and-climate-change]] change disrupting the timing of host
-fruiting. Many species have been collected only a handful of times and
-their distribution and abundance remain poorly known. The relationship
-between fungicolous diversity and overall [[air-pollution-fungal-community-responses]] health is an
-emerging area of research. Citizen science initiatives that encourage
-close photography of [[edible-wild-mushrooms-by-region]] may help document fungicolous
-species that would otherwise go unrecorded.
-
-- [[fungal-mycoparasitism-and-biocontrol-interactions]]
-- [[mycetozoans]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
-## See Also
-- [[fungicolous-fungi-parasites-associates]]
-- [[biodiversity-fungicolous-mycoparasitic-fungi]]
-- [[lichenicolous-fungi]]
-- [[slime-molds]]
-- [[fungal-microscopic-examination-mounting-media-techniques]]

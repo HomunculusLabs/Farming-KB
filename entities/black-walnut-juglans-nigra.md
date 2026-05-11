@@ -13,8 +13,8 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Jose, S. (2009). "Black Walnut (Juglans nigra L.): Ecological and Agroforestry Perspectives." Agroforestry Systems.
-  - Rietveld, W.J. & Schreiber, J.D. (2011). "Juglone toxicity and its role in black walnut allelopathy." Journal of Chemical Ecology.
+  - Jose, S. (2009). "Black Walnut (juglans-nigra L.): Ecological and Agroforestry Perspectives." Agroforestry Systems.
+  - Rietveld, W.J. & Schreiber, J.D. (2011). "Juglone toxicity and its role in black walnut allelopathy." Journal of [[plant-volatile-communication-chemical-ecology]].
   - Toensmeier, E. (2016). The Carbon Farming Solution. Chelsea Green.
   - Jacke, D. & Toensmeier, E. (2005). Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests. Chelsea Green.
   - Cappiello, P. & Dirr, M.A. (1998). "Juglans nigra." The Manual of Woody Landscape Plants.
@@ -39,8 +39,8 @@ Black walnut is a large deciduous tree native to [[polypore-fungi-eastern-north-
 
 ### Related Species
 
-- **Butternut (*Juglans cinerea*):** Similar but smaller; softer, lighter wood; oblong nuts with deeply ridged shells
-- **English walnut (*Juglans regia*):** Native to Central Asia; the primary commercial walnut species; produces little to no juglone
+- **Butternut (*[[juglans-cinerea]]*):** Similar but smaller; softer, lighter wood; oblong nuts with deeply ridged shells
+- **English walnut (*[[juglans-regia]]*):** Native to Central Asia; the primary commercial walnut species; produces little to no juglone
 - **Japanese walnut (*Juglans ailantifolia*):** Heartnut variety; cold-hardy; low juglone production
 - **Little walnut (*Juglans microcarpa*):** Small southwestern species; drought-tolerant
 - **Manchurian walnut (*Juglans mandshurica*):** Cold-hardy Asian species; used as rootstock
@@ -50,7 +50,7 @@ Black walnut is a large deciduous tree native to [[polypore-fungi-eastern-north-
 - **Height:** 20–40 m (70–130 feet) at maturity
 - **Spread:** 15–25 m (50–80 feet); develops a massive, open crown
 - **Trunk diameter:** 60–120 cm (2–4 feet); straight, clear bole in forest conditions
-- **Bark:** Dark gray-brown to nearly black; deeply furrowed into thick, diamond-shaped ridges with age. One of the most distinctive bark patterns among North American trees.
+- **Bark:** Dark gray-brown to nearly black; deeply furrowed into thick, diamond-shaped ridges with age. One of the most distinctive bark patterns among [[north-american-dmt-containing-plants-phalaris-desmanthus-peganum]] trees.
 - **Leaves:** Pinnately compound, 30–60 cm long, with 15–23 leaflets. Leaflets are lanceolate, 6–12 cm long, yellow-green above, paler below with scattered hairs. Margins are finely serrate. Foliage has a distinctive, slightly spicy odor when crushed.
 - **Twigs:** Stout, brown to gray-brown, with chambered pith (a key diagnostic feature — cross-sections show dark chambers separated by lighter septa)
 - **Flowers:** Monoecious. Male catkins: pendulous, green-yellow, 5–10 cm long, appearing with or before leaves in spring. Female flowers: small, in clusters of 2–5 at twig tips, with bright red stigmas.
@@ -76,7 +76,7 @@ Juglone (5-hydroxy-1,4-naphthoquinone) is a phytotoxic compound produced by blac
 Juglone acts as an **oxidation-reduction (redox) cycling agent** that interferes with cellular respiration:
 1. Juglone enters plant cells and inhibits mitochondrial electron [[electron-transport-chain-mitochondrial-respiration]] activity
 2. Specifically disrupts **NADH dehydrogenase** (Complex I) and **NADH-cytochrome c reductase** (Complex III)
-3. This inhibits ATP production and generates damaging reactive oxygen species (ROS)
+3. This inhibits ATP production and generates damaging [[reactive-oxygen-species-and-oxidative-stress]] (ROS)
 4. Sensitive plants develop chlorosis, wilting, stunted growth, and eventually die
 
 ### Soil Persistence
@@ -88,52 +88,3 @@ Juglone acts as an **oxidation-reduction (redox) cycling agent** that interferes
 - Juglone can persist in soil for **1–2 years after tree removal**, as root decomposition releases stored compounds
 
 ### Juglone-Sensitive Plants (Do NOT plant near black walnut)
-
-Many common garden plants are highly sensitive to juglone:
-**Vegetables:** Tomato, potato, pepper, eggplant (all *Solanaceae*), cabbage, broccoli, cauliflower (all *Brassicaceae*), asparagus, rhubarb
-**Fruits:** Apple, peach, pear, plum, cherry, blueberry, blackberry, raspberry
-**Ornamentals:** Lilac, hydrangea, peony, rhododendron, azalea, lily, columbine, birch, pine, silver maple
-
-### Juglone-Tolerant Plants (CAN grow near black walnut)
-
-Species that tolerate juglone are the key to successful black walnut [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]:
-**Vegetables:** Corn, beans (lima, snap), onions, garlic, beets, carrots, parsnips, melons, squash, soybeans
-**Fruits:** Black raspberry, elderberry, pawpaw, persimmon, currants, gooseberries, quince, mulberry, serviceberry
-**Herbs:** Mint, lemon balm, chives, oregano, thyme, bee balm, yarrow
-
-**Ornamentals and Natives:** Hosta, daylily, zinnia, marigold, Virginia creeper, black locust, redbud, hackberry, Kentucky bluegrass, tall fescue, ferns, mayapple, jack-in-the-pulpit, trillium, Solomon's seal, wild ginger
-
-**Cover crops:** Clover, vetch, rye, buckwheat
-
-## Timber Value
-
-Black walnut is among the most valuable North American hardwoods:
-- **Heartwood color:** Rich chocolate brown to purplish-black, developing a deep patina with age
-- **Sapwood:** Creamy white to pale yellow (narrow band)
-- **Grain:** Straight to slightly wavy; fine, even texture
-- **Workability:** Excellent; works easily with hand and power tools; good steam-bending characteristics
-- **Durability:** Moderate decay resistance; not suitable for ground contact
-- **Uses:** Fine furniture, gunstocks, cabinetry, veneer, flooring, musical instruments, turned objects, carving
-- **Price:** Premium grade logs command $3,000–$10,000+ per thousand board feet (MBF); veneer-quality trees can be worth tens of thousands of dollars
-
-### Growth Rate
-
-- **Seedling to merchantable size (40 cm DBH):** 40–60 years in optimal conditions
-- **Annual height growth:** 30–60 cm in youth, slowing with age
-- **Best growth:** Deep, fertile, well-drained loam soils in full sun
-- **Rotation age:** 50–80 years for timber; nut production begins at 10–15 years
-
-## Nut Production
-
-### Nut Characteristics
-
-- **Shell:** Thick, extremely hard, deeply corrugated
-- **Kernel:** Rich, distinctive, pungent flavor; higher in oil and protein than English walnut
-- **Oil content:** 60–70% (one of the highest oil contents among tree nuts)
-- **Nutritional value:** High in omega-3 fatty acids (α-linolenic acid), protein, magnesium, phosphorus, and antioxidants
-
-## See Also
-- [[juglans-cinerea]]
-- [[vietnam-black]]
-- [[juglans-nigra]]
-- [[silvopasture]]

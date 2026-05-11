@@ -23,7 +23,7 @@ Europe, were the subterranean fungi known to be so highly prized by the early
 Greeks and Romans. The European truffles came into use in the courts of France
 and Italy sometime prior to the 14th century.
 
-*Tuber melanosporum*, the Perigord truffle now of world-wide fame, seems to
+*[[tuber-melanosporum]]*, the Perigord truffle now of world-wide fame, seems to
 have made its entrance into Parisian culinary proceedings towards the close of
 the 18th century. Its superior merits were first discovered by Bruyerin-
 Champin, medical adviser to Francis the First and Henry the Second.
@@ -32,11 +32,11 @@ Champin, medical adviser to Francis the First and Henry the Second.
 
 France is practically the only country in which truffles constitute an article
 of commerce. About one-third the French product is exported. They are found in
-the temperate and warm temperate regions of western southern Europe, from Italy
+the temperate and warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of western southern Europe, from Italy
 westward, and from the 40th to the 48th parallel.
 
 Truffles are found in close association with the roots of certain trees,
-especially the evergreen oaks *Quercus ilex* and *Q. coccifera*, and the
+especially the evergreen oaks *[[quercus-ilex]]* and *Q. coccifera*, and the
 velvety deciduous oak *Q. sessiliflora*. The natural home of truffles is under
 the shade of the oak, and no professional truffle hunter would waste time
 looking elsewhere.
@@ -64,7 +64,7 @@ specimens exceeding one pound. The tissue is solid, showing a brown ground
 marbled with lighter veins. It is the most highly prized species and the chief
 commercial truffle of France.
 
-*Tuber magnatum* has a yellow fruit body resembling a spherical yam, smooth
+*[[tuber-magnatum]]* has a yellow [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] resembling a spherical yam, smooth
 but irregular, with lighter internal tissue. The flavor is somewhat onion-like.
 It is highly esteemed in Italy as *fiorini* or *tartufo bianco*, particularly
 abundant in Lombardy.
@@ -88,63 +88,3 @@ it, known as *rabassiers*.
 ## Truffle Culture
 
 Many fine truffle areas of France were at one time barren. Trees known to
-shelter truffles were planted, drainage provided, and predatory animals shut
-out. Soil from truffle regions was scattered upon the land.
-
-The old adage "plant acorns if you would have truffles" has been handed down
-for generations. The growth of the truffle industry has encouraged government
-reforesting of large barren areas, with handsome returns through the
-spontaneous appearance of truffles.
-
-## Absence from North America
-
-None of the economically important truffle species have been found in North
-America. Some small species occur on the Pacific coast, and one form has been
-discovered in Minnesota and New York.
-
-Conditions in California, Texas, southern Arkansas, Georgia, and South Carolina
-might be suitable, but no extensive introduction experiments have been
-attempted. The mycelium of *T. melanosporum* has been grown to a limited extent
-on sterilized roots of *Quercus ilex*.
-
-## Mycorrhizal Biology of Truffles
-
-Truffles are obligate ectomycorrhizal fungi, forming symbiotic associations
-with the fine roots of their host trees. The fungal hyphae envelop the root
-tips, creating a Hartig net that facilitates nutrient exchange between the
-fungus and the host plant. The tree provides carbohydrates from photosynthesis,
-while the truffle supplies minerals and water absorbed from the soil.
-
-This mycorrhizal dependency explains why [[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] requires planting
-appropriate host trees. The [[tuber-melanosporum]] life cycle is intimately
-tied to the seasonal rhythms of its host, with [[fungal-fruiting-body-formation-environmental-triggers]]
-triggered by specific soil [[mushroom-growing-temperature-and-moisture]] conditions in late autumn
-through winter.
-
-Research into truffle mycorrhizae has revealed complex [[fungal-chemical-signaling]]
-between fungus and host. Volatile organic compounds produced by the truffle
-mycelium may influence root architecture and host physiology, ensuring the
-partnership is maintained throughout [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]].
-
-## Truffle Aroma and Chemistry
-
-The distinctive aroma of truffles is produced by a complex mixture of volatile
-organic compounds, including dimethyl sulfide, 2-methylbutanal, and numerous
-thiophene derivatives. These aromatics are responsible for the intense,
-earthy fragrance that makes truffles so prized in [[edible-wild-mushrooms-by-region]]
-gastronomy.
-
-The concentration of aromatic compounds varies significantly between species
-and is influenced by the host tree, soil conditions, and maturity at harvest.
-*Tuber magnatum* (the Italian white truffle) produces the most intense and
-complex aroma profile, contributing to its higher market price compared to
-black truffle species.
-
-Modern analytical chemistry has identified over 200 [[mycovolatiles-fungal-volatile-compounds]] in
-truffle aroma, though the human perception of truffle fragrance involves
-synergistic interactions between these compounds that are not yet fully
-understood.
-
-## Economic Importance and Market
-
-The global truffle market is valued at several hundred million euros annually,

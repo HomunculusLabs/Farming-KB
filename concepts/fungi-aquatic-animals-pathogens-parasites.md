@@ -1,5 +1,5 @@
 ---
-title: Fungi Associated with fungi aquatic animals pathogens parasites — Pathogens and Parasites
+title: Fungi Aquatic Animals Pathogens Parasites
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -41,7 +41,7 @@ Oomycetes and Chytridiomycota. At least 12 genera are notoriously destructive:
 - **Ichthyophonus hoferi:** Well-known pathogen of marine and freshwater
   fish; exhibits secular (18-30 year) periodicity in Atlantic herring and
   yellowtail flounder; phylogenetic position currently disputed
-- **Batrachochytrium dendrobatidis:** Associated with global amphibian
+- **[[batrachochytrium-dendrobatidis]]:** Associated with global amphibian
   decline — possibly the most consequential aquatic animal pathogen
   discovered in recent decades
 
@@ -49,12 +49,12 @@ Oomycetes and Chytridiomycota. At least 12 genera are notoriously destructive:
 Significant opportunistic pathogens include:
 - **Aspergillus species:** Cause aspergillosis in fish, corals, and other
   marine animals
-- **Fusarium species:** Important pathogens in marine aquaculture
+- **Fusarium species:** Important pathogens in [[seaweed-farming-and-marine-aquaculture]]
 - **Exophiala species:** Black yeast pathogens of fish and crustaceans
 - **Branchiomyces species:** Cause gill disease in freshwater fish
 
 ## Transmission and Epidemiology
-Aquatic fungal pathogens spread through multiple routes. Waterborne
+Aquatic [[bloomfield-yeast-saccharomyces-fungal-pathogens]] spread through multiple routes. Waterborne
 transmission via motile zoospores is the primary mechanism for oomycetes
 and chytrids. These spores can travel considerable distances in currents
 and persist in sediment until encountering a susceptible host. Direct
@@ -80,40 +80,11 @@ quality management are the primary interventions available.
 Clinical diagnosis of aquatic [[blesching-cannabis-fungal-infections-candida]] typically relies on visual
 examination of characteristic lesions followed by microscopic confirmation.
 Wet mounts of infected tissue reveal hyphal morphology and sporulating
-structures. Molecular methods including PCR and qPCR have become
+structures. [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] including PCR and qPCR have become
 increasingly important for early detection, particularly for
 Batrachochytrium dendrobatidis in amphibian populations. Histopathological
-examination of tissue sections can reveal internal hyphal invasion that
+examination of tissue sections can reveal internal [[bloomfield-turgor-pressure-and-hyphal-invasion]] that
 is not visible externally. Culture on selective media remains the gold
 standard for species-level identification of many aquatic fungi.
 
 ## Ecological Consequences
-Beyond aquaculture, aquatic fungal pathogens have reshaped natural
-ecosystems. The chytrid fungus B. dendrobatidis has caused population
-crashes or extinctions of hundreds of amphibian species worldwide,
-representing the greatest loss of vertebrate biodiversity attributed to
-a single pathogen. Aphanomyces astaci has fundamentally altered European
-freshwater crayfish communities, replacing native species with resistant
-but less ecologically valuable [[growing-gourmet-north-american-reishi-species]] crayfish. These examples
-illustrate how fungal pathogens can act as keystone species whose
-presence or absence cascades through entire aquatic food webs.
-
-## Research Frontiers
-Current research on aquatic animal fungi focuses on several areas.
-Genomic sequencing of pathogenic oomycetes and chytrids is revealing
-virulence mechanisms at the molecular level. Probiotic approaches using
-antagonistic bacteria show promise for preventing Saprolegnia infections.
-Environmental DNA monitoring enables early detection in natural waterways.
-Understanding [[dighton-fungi-climate-change-feedback]] impacts on disease dynamics is increasingly
-urgent as warming waters may expand the range of many aquatic fungal
-pathogens.
-
-- [[insect-arthropod-associated-fungi]]
-- fungi-associated-aquatic-animals
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-## See Also
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
-- [[zoosporic-fungi]]
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]
-- [[fungal-zoospore-biology-and-flagellate-motility]]
-- [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]

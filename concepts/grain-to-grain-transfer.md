@@ -72,8 +72,17 @@ Some species do not grow well on grain and are better suited to alternative spaw
 
 - [[contamination-identification-prevention]]
 
----
+## Practical Applications
 
-Source: The Mushroom Cultivator (Stamets & Chilton, 1983), Chapter III: Grain Culture
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
 
-Updated: 2026-04-19
+## See Also
+
+- [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]
+- [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]
+- [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
+- [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]]
+- [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]

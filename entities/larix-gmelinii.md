@@ -12,9 +12,9 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
-  - Abaimov, A.P. (2010). "Geographic distribution and genetics of Siberian larch species." In: Permafrost Ecosystems: Siberian Larch Forests. Springer.
+  - Abaimov, A.P. (2010). "[[geographic-distribution-of-psilocybe-species]] and genetics of Siberian larch species." In: Permafrost Ecosystems: Siberian Larch Forests. Springer.
   - Kajimoto, T. et al. (2010). "Performance of Larix gmelinii at the northeastern range limit." Tree Physiology 30(3): 356–367.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of North America: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics [[berry-growing]]: Volume 1, Conifers." USDA Forest Service Agriculture Handbook 654.
 ---
 
 ## Overview
@@ -23,7 +23,7 @@ sources:
 
 Dahurian larch is notable for forming the world's **northernmost forest ecosystem**, reaching 72°N latitude in the Taymyr Peninsula. It is the dominant tree species across millions of hectares of central and eastern Siberia.
 
-The species is a critical component of the boreal forest biome and plays an outsized role in the global carbon cycle due to the vast carbon stores in its permafrost-underlain forests.
+The species is a critical component of the boreal forest biome and plays an outsized role in [[fungal-decomposition-and-the-global-carbon-cycle]] cycle due to the vast carbon stores in its permafrost-underlain forests.
 
 Dahurian larch is estimated to cover approximately 2.6 million km² of forest area in Russia alone, making it one of the most extensive single-species forests on Earth.
 
@@ -69,7 +69,7 @@ Annual precipitation ranges from 200–500 mm in interior Siberia to 600–800 m
 
 Soils are typically shallow, acidic podzols or gleysols developed over permafrost. Active layer depth (seasonally thawed soil) is 30–150 cm, constraining root development.
 
-Dahurian larch forms extensive monospecific forests (larch taiga) across central Siberia. In the southern range, it occurs with Siberian pine (*Pinus sibirica*), Scots pine (*Pinus sylvestris*), and birch (*Betula platyphylla*).
+Dahurian larch forms extensive monospecific forests (larch taiga) across central Siberia. In the southern range, it occurs with Siberian pine (*Pinus sibirica*), Scots pine (*[[pinus-sylvestris]]*), and birch (*Betula platyphylla*).
 
 ## Cultivation
 
@@ -81,41 +81,10 @@ The species is rarely cultivated as an ornamental outside its native range, thou
 
 Hardiness is extreme, rated at USDA Zone 1 (below −50°C). Dahurian larch is among the most cold-tolerant of all tree species.
 
-Seed germination is epigeal and requires no stratification. Seeds remain viable for 2–3 years under dry, cold storage conditions.
+Seed germination is epigeal and requires no stratification. Seeds remain viable for 2–3 years under dry, cold [[spawn-storage-conditions]].
 
-Vegetative propagation is possible from cuttings taken from juvenile material, but rooting success is low (10–20%) compared to other larch species.
+[[hamilton-vegetative-propagation]] is possible from cuttings taken from juvenile material, but rooting success is low (10–20%) compared to other larch species.
 
 ## Timber and Uses
 
 Dahurian larch produces a dense, hard, and durable timber with a specific gravity of 0.55–0.65, among the heaviest of all softwoods. Heartwood is reddish-brown and highly resistant to decay.
-
-The wood is used for heavy construction, railroad ties, mine timbers, poles, and flooring. Its combination of strength, density, and natural durability makes it a preferred structural timber in Siberia.
-
-Larch wood is an important source of **turpentine** and **rosin** extracted from the resin. The resin has antimicrobial properties and has been used in traditional medicine.
-
-In the Russian Far East, Dahurian larch is the primary timber species, with annual harvests exceeding 10 million m³. The species is critical to the regional forest economy.
-
-## Ecology and Conservation
-
-Dahurian larch forests store enormous quantities of carbon in both biomass and underlying permafrost soils. These forests are estimated to contain 25–30% of all boreal forest carbon stocks.
-
-Climate change is the primary threat to Dahurian larch ecosystems. Permafrost thaw is altering hydrology, increasing wildfire frequency, and triggering forest dieback at the southern range margin.
-
-Wildfire is a major natural disturbance agent, with fire return intervals of 50–150 years in the larch taiga. The species is adapted to surface fire through thick bark and the ability to resprout from basal burls.
-
-The species is not globally threatened due to its vast range and large population. However, regional declines have been documented in southern Siberia due to warming-induced drought stress and increased insect activity.
-
-Dahurian larch stands provide habitat for Siberian tiger (*Panthera tigris altaica*) in the Russian Far East and numerous boreal bird species.
-
-The species is an important **mycorrhizal host**, forming ectomycorrhizal associations with *Suillus* and *Lactarius* species that are critical for nutrient uptake in permafrost soils.
-
-## See Also
-
-- [[larix-decidua]]
-- [[larix-laricina]]
-- [[larix-kaempferi]]
-- [[larix-occidentalis]]
-- [[picea-abies]]
-- [[picea-glauca]]
-- [[pinus-sylvestris]]
-- [[abies-sibirica]]

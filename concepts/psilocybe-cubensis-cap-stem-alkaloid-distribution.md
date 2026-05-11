@@ -1,7 +1,7 @@
 ---
 title: brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting Cap and cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms Distribution
 created: 2026-05-08
-source: "Bigwood & Beug (1982). Variation of psilocybin and psilocin levels. Journal of Ethnopharmacology, 5(3), 287–291."
+source: "Bigwood & Beug (1982). Variation of [[hplc-analysis-of-psilocybin-and-psilocin]] levels. Journal of Ethnopharmacology, 5(3), 287–291."
 tags:
   - psilocybe-cubensis
   - alkaloid-distribution
@@ -16,7 +16,7 @@ tags:
 # Psilocybe cubensis Cap and Stem Alkaloid Distribution
 
 The distribution of psychoactive alkaloids between the **cap (pileus)** and
-**stem (stipe)** of *Psilocybe cubensis* is not uniform. [[psilocybin]]
+**stem (stipe)** of *[[psilocybe-cubensis]]* is not uniform. [[psilocybin]]
 than stems, while the distribution of [[spore]]-bearing tissue.
 
 The practical consequence is that cap-heavy preparations will tend to have
@@ -35,7 +35,7 @@ different psilocin [[guzman-global-distribution-patterns-neurotropic-fungi]]:
 Both the M.R. and Equadorian strains showed **psilocin exclusively in stem
 tissue** at approximately 0.35 to 0.40 mg/g. Caps showed no detectable psilocin
 in either strain. This exclusive stem localization contrasts sharply with the
-psilocybin pattern (which favors caps) and suggests that psilocin accumulation
+psilocybin pattern (which favors caps) and suggests that [[psilocin-accumulation-flushes]]
 is governed by different compartmentalization mechanisms.
 
 ### Amazon Strain
@@ -47,7 +47,7 @@ alkaloid biosynthesis or transport between tissues.
 
 ## Implications of Differential Distribution
 
-The contrasting distribution patterns of psilocybin and psilocin have several
+The contrasting [[fungal-biogeography-distribution-patterns]] of psilocybin and psilocin have several
 important implications:
 
 - **Total potency is not simply additive**: Because psilocybin concentrates in
@@ -61,7 +61,7 @@ important implications:
   conversion required for psilocybin), then the cap-to-stem ratio of consumed
   material could subtly influence the character of the experience.
 - **Strain identity affects distribution**: The three strains studied showed
-  measurably different psilocin distribution patterns, indicating that
+  measurably different [[psilocybin-vs-psilocin-distribution-cap-stem]] patterns, indicating that
   generalizations about alkaloid distribution should be made cautiously and
   with reference to specific strain data.
 
@@ -88,33 +88,3 @@ samples may have been partially degraded or adulterated.
 - Psilocin was **consistently low** across all street samples tested.
 
 The low psilocin levels in street samples are consistent with the known
-instability of psilocin during [[psilocybin-mushroom-drying-and-storage-methods]]. By the time mushrooms reach
-the consumer through informal distribution channels, psilocin has likely
-degraded significantly from its original levels. This means that street
-mushrooms may provide a primarily psilocybin-driven experience, with minimal
-direct psilocin contribution.
-
-## Analytical Methodology
-
-The cap-stem distribution study and street sample analysis used the same
-**HPLC with UV detection** methodology described for the [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] study.
-Key specifications included a detection limit of approximately 0.01 µg and
-identity confirmation by TLC with a butanol–acetic acid–water (12:3:5) solvent
-system. Caps and stems were separated by hand and analyzed independently.
-
-## Summary of Key Findings
-
-| Feature | Observation |
-|---------|-------------|
-| Psilocybin cap:stem ratio | Approximately 2:1 (caps higher) |
-| Psilocin distribution | Strain-dependent; often stem-localized |
-| M.R. strain psilocin | Stems only (0.35–0.40 mg/g) |
-| Equadorian strain psilocin | Stems only (0.35–0.40 mg/g) |
-| Amazon strain psilocin | Stems + trace in caps (0.1 mg/g) |
-| Street psilocybin range | 0.7–6.2 mg/g (highly variable) |
-| Street psilocin range | 0–0.3 mg/g (consistently low) |
-
-## See Also
-
-- [[psilocybin-psilocin-chemistry]] — Chemical structure and pharmacology
-- [[psilocybe-cubensis-cultivation-miniculture]] — Miniculture method details

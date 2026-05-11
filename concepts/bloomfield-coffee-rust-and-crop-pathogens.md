@@ -88,21 +88,3 @@ rust thrives, pushing it into previously unaffected highland growing
 areas.
 
 ## Disease Resistance and Integrated Management
-
-Developing resistant crop varieties remains a primary strategy, though
-resistance often proves ephemeral as pathogens evolve to overcome host
-resistance genes. In coffee, over 50 major resistance genes (SH genes)
-have been identified, but new rust races continue to emerge. Modern
-integrated [[clubroot-disease-management]] combines multiple strategies:
-- **Cultural practices** -- crop rotation, sanitation, pruning
-- **Chemical control** -- targeted fungicide application
-- **[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]** -- deploying antagonistic microorganisms
-- **Host resistance** -- breeding and planting resistant varieties
-- **Surveillance** -- early detection networks using remote sensing
-
-## See Also
-
-- [[fungal-plant-diseases]]
-- [[fungal-appressorium-and-infection-structures]]
-- [[magnaporthe-grisea-functional-genomics-rice-blast]]
-- [[bloomfield-fungal-pathogens-and-parasites]]

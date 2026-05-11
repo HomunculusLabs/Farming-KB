@@ -1,5 +1,5 @@
 ---
-title: "fungal serpula lacrymans dry rot buildings and the Ecology of Dry Rot in Buildings"
+title: Fungal Serpula Lacrymans Dry Rot Buildings
 created: 2026-04-28
 tags: [fungal-ecology, wood-decay, built-environment, brown-rot, basidiomycetes]
 date: 2026-04-25
@@ -10,10 +10,10 @@ type: concept
 
 # Serpula lacrymans and the Ecology of Dry Rot in Buildings
 
-Dry rot is one of the most destructive fungal diseases of timber in
+Dry rot is one of the most destructive [[duggar-mushroom-insect-pests-and-fungal-diseases]] of timber in
 buildings. The basidiomycete Serpula lacrymans is the principal agent
 of dry rot in Europe, Australia, Japan, and other parts of the world,
-while Meruliporia incrassata causes equivalent destruction in North
+while [[meruliporia-incrassata]] causes equivalent destruction in North
 America. These fungi can reduce [[singh-wood-rot-fungi-structural-timber-decay]] to crumbling brown
 cubes, causing catastrophic building damage. Their biology connects
 to fungal-wood-decay-types-white-rot-brown-rot.
@@ -24,7 +24,7 @@ Serpula lacrymans was formerly known as Merulius lacrymans. The genus
 name Serpula means serpent or worm, evoking the serpentine strands the
 fungus produces to slither through buildings. The specific epithet
 lacrymans is Latin for weeping, referring to the droplets of fluid that
-appear on the fungal surface. Mordecai Cooke wrote in 1871 that the
+appear on the fungal surface. [[mordecai-cooke]] wrote in 1871 that the
 fungus "is often dripping with moisture, as if weeping in regret for
 the havoc it has made." The former genus name Merulius referred to the
 yellow colour of the mycelium, comparable to the beak of a blackbird.
@@ -41,11 +41,11 @@ piling soil against foundations invites problems from both fungi and
 termites.
 
 Once established, dry rot can colonize an entire building without
-producing a single spore. The fungus spreads through its root-like
+producing a [[single-spore-isolation-and-monokaryon-culture]]. The fungus spreads through its root-like
 strand systems, bridging gaps between timber elements across concrete,
 masonry, and other non-nutritive materials. Advanced infestations
 produce white [[singh-mycelial-mats-and-biological-soil-crusts]] on beam surfaces, strands dangling between
-areas of decay, and distinctive fruiting bodies.
+areas of decay, and distinctive [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]].
 
 ## Strands and Rhizomorphs
 
@@ -88,11 +88,3 @@ Dry [[brown-rot-fungi-cellulose-degradation-wood-decay]] are brown rot organisms
 while leaving lignin behind, producing the characteristic brown cubical
 fracture pattern. The progressive concentration of dark lignin gives
 decayed wood its brown colour. This contrasts with [[comparison-brown-rot-vs-white-rot-bioremediation]] fungi that
-extract lignin, leaving white cellulose behind. The brown rot mechanism
-involves non-enzymatic depolymerization of cellulose via the Fenton
-reaction, as described in fungal-wood-decay-types-white-rot-brown-rot, [[fungal-organic-acid-metal-solubilization]], [[fungal-mycelial-foraging-heterogeneous-environments]].
-## See Also
-- [[serpula-lacrymans]]
-- [[meruliporia-incrassata]]
-- [[white-rot-fungi]]
-- [[mordecai-cooke]]

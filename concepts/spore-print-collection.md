@@ -88,25 +88,3 @@ Mushrooms orient into the wind (aerotropism), creating a pressure drop under the
 2. Spores collect en masse in plastic ductwork and coarse air filters
 3. Take down ductwork, shake spores into an airtight gallon jar
 4. Up to 1 liter of spores can be gathered from a 1,000 sq ft growing room every few months
-5. Store in a cool, dark place; use desiccant to prevent premature germination
-
-## Spore Germination Methods
-
-### On Cardboard
-1. Tear apart a box, soak a 1x2-foot piece of cardboard in hot water for 1 hour
-2. Place a mushroom on moistened cardboard overnight for spore release
-3. Remove mushroom, incubate in a sealed container in a cool, dark place
-4. Inspect weekly; after 1-3 weeks, island colonies of germinating spores appear
-5. Transfer to larger sheets of soaked cardboard for expansion
-6. Can be repeated every 2-3 months until enough cardboard spawn for outdoor patches
-
-### On Straw (Cold Incubation)
-1. Immerse 1g of spores in 1 liter of water
-2. Spread over 10 pounds of moist, untreated straw
-3. Place in a perforated bag, burlap sack, or wooden crate
-4. Store at 35-50°F; mushrooms begin fruiting in 2-3 months (e.g., March from January inoculation)
-5. Works with aggressive species like *Pleurotus* ([[spore-print-collection-spore-mass-inoculation]]
-
-## See Also
-
-- [[sterile-spore-print-collection-glass-jar-technique]]

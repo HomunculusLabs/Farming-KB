@@ -40,7 +40,7 @@ Pods are oblong, curved, 5–15 cm long and 1.5–3 cm wide, containing 2–6 la
 
 ## Distribution and Habitat
 
-The wild progenitor of P. lunatus is native to the tropical lowlands of Central and South America, from Mexico to Peru and Bolivia. Wild populations extend from northern Argentina through the Andes to western Mexico.
+The wild progenitor of P. lunatus is native to the tropical lowlands of Central and [[guzman-psilocybin-mushrooms-south-america]], from Mexico to Peru and Bolivia. Wild populations extend from northern Argentina through the Andes to western Mexico.
 
 Andean landraces are adapted to high-elevation conditions (800–2,500 m) with cool temperatures and moderate rainfall. Mesoamerican landraces thrive in lowland tropical conditions (0–1,200 m) with warm temperatures and higher humidity.
 
@@ -52,7 +52,7 @@ Optimal growth occurs at 20–30°C with 600–1,200 mm annual rainfall. The cro
 
 Dry lima beans contain approximately 21% protein, 63% carbohydrates, and 1% fat per 100 g. They are rich in dietary fiber (19 g per 100 g), potassium (1,724 mg), iron (7.5 mg), and magnesium (224 mg).
 
-The protein quality is comparable to other common beans, with lysine as the limiting [[cho-fish-amino-acid-preparation]]. Complementary amino acid profiles are achieved when consumed with cereals.
+The protein quality is comparable to other common beans, with lysine as the limiting [[cho-fish-amino-acid-preparation]]. Complementary [[fish-amino-acid]] profiles are achieved when consumed with cereals.
 
 Raw lima beans contain linamarin, a cyanogenic glucoside that can release hydrogen cyanide upon hydrolysis. Boiling for 10+ minutes in uncovered pots effectively removes cyanide to safe levels. This toxicity is the primary reason lima beans must be cooked before consumption.
 
@@ -68,7 +68,7 @@ Average yields range from 0.5–2.0 tonnes per hectare under smallholder conditi
 
 ## Ecological Role
 
-As a nitrogen-fixing legume, P. lunatus plays an important role in sustainable agriculture. The species contributes 40–100 kg of nitrogen per hectare through biological fixation, reducing dependence on synthetic fertilizers.
+As a nitrogen-fixing legume, P. lunatus plays an important role in [[phosphate-accumulators-sustainable-agriculture]]. The species contributes 40–100 kg of nitrogen per hectare through biological fixation, reducing dependence on [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
 
 The crop provides [[fukuoka-citrus-orchard-ground-cover-cultivation]] that suppresses weeds and reduces soil erosion. Residue incorporation after harvest improves soil [[hamilton-composting-and-organic-matter-management]] and microbial activity.
 
@@ -80,35 +80,10 @@ Archaeological evidence indicates lima bean cultivation began approximately 8,00
 
 A second, independent domestication occurred in Mesoamerica around 2,000–3,000 years ago. The Mesoamerican gene pool is characterized by smaller seeds and greater heat tolerance compared to Andean types.
 
-The species was spread to the Caribbean and coastal South America by pre-Columbian trade networks. European colonists subsequently introduced lima beans to Africa and Asia, where they became important pulse crops.
+The species was spread to the Caribbean and coastal South America by pre-Columbian trade networks. European colonists subsequently introduced lima beans to Africa and Asia, where they became important [[grain-legumes-and-pulse-crops]].
 
 The common name "lima bean" derives from Lima, Peru, where the large-seeded Andean varieties were first encountered by European naturalists. The alternative name "butter bean" refers to the creamy texture of cooked seeds.
 
 ## Traditional and Culinary Use
 
 In Latin America, lima beans are used in soups, stews, and side dishes. In Brazil, *feijão-de-lima* is a traditional ingredient in northeastern cuisine, often cooked with cassava and salted meat.
-
-In the American South, butter beans are a staple of soul food, typically simmered with smoked pork, onions, and aromatics. Frozen lima beans are widely available in US supermarkets.
-
-In South and [[psilocybe-southeast-asia-pacific]], dried lima beans are used in curries and dal preparations. In Myanmar, lima beans (*pè-baw*) are a common ingredient in curries and salads.
-
-Fresh green lima beans, harvested before maturity, have a milder flavor and shorter cooking time than dried beans. Both forms are nutritionally valuable, though the dried form is more concentrated in protein and minerals.
-
-## Pests, Diseases, and Toxicology
-
-Lima beans are susceptible to several fungal diseases including anthracnose (*Colletotrichum lindemuthianum*), angular leaf spot (*Phaeoisariopsis griseola*), and web blight (*Thanatephorus cucumeris*). These are managed through resistant varieties, [[comparison-crop-rotation-vs-cover-cropping]], and fungicide application.
-
-Bacterial blight (*Xanthomonas axonopodis*) causes water-soaked lesions on leaves and pods. The disease spreads rapidly in warm, humid conditions and is managed through clean seed and field sanitation.
-
-The cyanogenic glucoside linamarin is concentrated in the seed coat and embryo. Wild lima beans can contain 200–3,000 mg HCN per kg dry weight, while domesticated varieties typically contain less than 200 mg/kg. Cooking in boiling water for 10 minutes reduces cyanide content by 90–95%.
-
-Selecting low-cyanide cultivars and proper cooking methods have virtually eliminated cyanide poisoning from lima bean consumption in modern times. However, inadequate preparation of high-cyanide wild or landrace varieties remains a concern in some regions.
-
-## See Also
-
-- [[vigna-unguiculata]]
-- [[glycine-max]]
-- [[arachis-hypogaea]]
-- [[lablab-purpureus]]
-- [[canavalia-ensiformis]]
-- [[apios-americana]]

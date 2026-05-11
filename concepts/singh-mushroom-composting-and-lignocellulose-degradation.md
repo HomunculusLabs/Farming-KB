@@ -1,5 +1,5 @@
 ---
-title: singh mushroom composting and lignocellulose degradation and Lignocellulose Degradation
+title: Singh Mushroom Composting And Lignocellulose Degradation
 created: 2026-04-26
 tags:
   - mushroom-composting
@@ -25,7 +25,7 @@ ecosystems and are central to composting processes used in mushroom
 cultivation and organic waste management. The Singh source provides a
 detailed account of the enzymatic mechanisms and composting stages
 involved in fungal lignocellulose decomposition, with implications for
-bioremediation and sustainable agriculture.
+bioremediation and [[phosphate-accumulators-sustainable-agriculture]].
 
 ## Lignocellulose Composition
 
@@ -33,7 +33,7 @@ Plant lignocellulose consists of three major polymers:
 
 - Cellulose: Linear chains of beta-1,4-linked glucose units forming
   crystalline microfibrils. Accounts for 35-50% of lignocellulosic
-  biomass. Degraded by cellulase enzyme systems (endoglucanases,
+  biomass. Degraded by [[cellulase-enzyme-systems-wood-rotting-fungi]] (endoglucanases,
   exoglucanases, beta-glucosidases).
 
 - Hemicellulose: Branched heteropolymers of pentoses (xylose, arabinose)
@@ -81,60 +81,10 @@ as lignin is metabolized.
 
 A non-nutritive casing layer (peat, limestone) is applied to induce
 fruiting. The microclimate at the casing-compost interface triggers
-morphogenesis, leading to mushroom formation and harvest over
+morphogenesis, leading to [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] and harvest over
 multiple flushes.
 
 ## Enzyme Kinetics in Lignocellulose Degradation
 
 Fungal lignocellulose degradation involves a coordinated suite of
-extracellular enzymes with specific kinetic properties:
-
-- Cellulases operate synergistically: endoglucanases create free chain
-  ends, exoglucanases (cellobiohydrolases) release cellobiose from
-  ends, and beta-glucosidases hydrolyze cellobiose to glucose. Product
-  inhibition of cellobiohydrolases by cellobiose is a key kinetic
-  limitation.
-
-- Laccase kinetics are influenced by mediator concentration, oxygen
-  availability, and pH. The Singh source discusses laccase half-lives
-  and stability under composting conditions.
-
-- Peroxidase activity depends on H2O2 supply, which is rate-limiting
-  under many composting conditions. [[fungal-manganese-peroxidase-remediation]] requires
-  Mn(II) and suitable chelators for optimal activity.
-
-- Enzyme induction follows substrate availability: cellulase
-  production is induced by cellulose and repressed by glucose;
-  [[singh-ligninolytic-enzymes-fungal-bioremediation]] are induced under nitrogen or carbon
-  limitation.
-
-## Fungal Species in Composting
-
-- Agaricus bisporus: The cultivated button mushroom; produces
-  cellulases, hemicellulases, and laccase but not lignin peroxidase.
-
-- Pleurotus spp.: Oyster mushrooms with strong ligninolytic activity,
-  capable of growing on diverse agricultural wastes.
-
-- Lentinula edodes: Shiitake mushroom; degrades lignin extensively
-  during log cultivation.
-
-- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]: Paddy straw mushroom; efficient degradation
-  of rice straw and similar substrates.
-
-## Bioremediation Implications
-
-Composting processes can be harnessed for bioremediation of organic
-contaminants mixed with lignocellulosic waste. Fungal enzymes that
-degrade lignin also attack PAHs, phenols, and other aromatic
-pollutants. The thermophilic phase of composting can accelerate
-degradation rates while destroying pathogens.
-
-## See Also
-
-- [[singh-chlorpyrifos-organophosphate-fungal-degradation]]
-- singh-fungal-degradation-pcbs-dioxins
-- [[singh-white-rot-fungi-lignin-modifying-enzymes-bioremediation]]
-- fungal enzyme systems environmental applications
-- [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]]
-- mushroom cultivation waste substrates
+[[fungal-extracellular-enzymes]] with specific kinetic properties:

@@ -87,27 +87,3 @@ The species was historically used in traditional European herbal medicine, thoug
 The Latin name *Butomus* derives from Greek roots meaning "ox" and "cut," possibly referring to the sharp-edged leaves. The specific epithet *umbellatus* refers to the umbel-like arrangement of the inflorescence.
 
 ## Research and Monitoring
-
-Population genetic studies using microsatellite and AFLP markers have confirmed that most North American populations are descended from a small number of introduction events, with extensive clonal reproduction since establishment. The triploid clone dominates in the Great Lakes region.
-
-Remote sensing techniques including aerial photography and multispectral satellite imagery have been used to map flowering rush infestations along shorelines. Flowering rush can be distinguished from co-occurring vegetation by its distinctive spectral signature during peak flowering.
-
-Environmental DNA [[singh-detection-methods-degrading-fungi-environment]] are being developed for early identification of *B. umbellatus* in water bodies. These molecular tools can detect the species at low densities before visible colonization occurs, enabling more effective rapid response management.
-
-## Impacts on Aquatic Ecosystems
-
-Dense flowering rush stands alter the physical structure of shoreline habitats, converting diverse mixed-vegetation communities into monospecific stands. This homogenization reduces habitat complexity and the diversity of microhabitats available to fish, invertebrates, and amphibians.
-
-The plant can impede water flow in irrigation ditches and drainage channels, increasing flood risk and reducing the efficiency of water conveyance infrastructure. In recreational areas, dense stands interfere with swimming, boating access, and shoreline angling.
-
-Submersed flowering rush beds may provide some habitat value for juvenile fish and invertebrates, but this benefit is generally outweighed by the loss of native vegetation diversity. The net ecological impact in North America is assessed as strongly negative across most invaded water bodies.
-
-## See Also
-
-- [[juncus-effusus]]
-- [[sagittaria-latifolia]]
-- [[nuphar-lutea]]
-- [[eichhornia-crassipes]]
-- [[azolla-filiculoides]]
-- [[trapa-natans]]
-- [[ceratophyllum-demersum]]

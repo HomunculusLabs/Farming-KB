@@ -24,7 +24,7 @@ aliases:
   - Glycine max subsp. max
   - Soja max
 sources:
-  - Hymowitz, T. (2004). "Soybeans: the success story." In: "Encyclopedia of Grain Science." Elsevier.
+  - Hymowitz, T. (2004). "Soybeans: the ingham-vineyard-success-story." In: "Encyclopedia of Grain Science." Elsevier.
   - Singh, G. (2010). "The Soybean: Botany, Production and Uses." CABI.
   - Liu, K. (1997). "Soybeans: Chemistry, Technology, and Utilization." Chapman & Hall.
   - Messina, M.J. (1999). "Legumes and soybeans: overview of their nutritional profiles and health effects." American Journal of Clinical Nutrition 70(3).
@@ -48,7 +48,7 @@ Soybean fixes atmospheric nitrogen through symbiosis with *Bradyrhizobium japoni
 
 **Growth habit:** Erect to semi-erect annual herb, 20–180 cm tall depending on cultivar and growing conditions. Determinate types cease [[cannabis-vegetative-growth-stage]] at flowering, while indeterminate types continue vegetative and [[knf-reproductive-growth-stage]] simultaneously.
 
-**Leaves:** Trifoliate, with ovate to lanceolate leaflets 6–15 cm long. Petioles are long and slender. Leaves are pubescent with both simple and hooked trichomes, a trait influencing insect resistance.
+**Leaves:** Trifoliate, with ovate to lanceolate leaflets 6–15 cm long. Petioles are long and slender. Leaves are pubescent with both simple and hooked trichomes, a trait influencing [[fukuoka-vegetable-disease-insect-resistance]].
 
 **Flowers:** Small, papilionaceous, 5–7 mm long, white to purple, borne in short axillary racemes. Flowers open in the morning and close by afternoon. Soybean is predominantly self-pollinating, with natural outcrossing rates below 1%.
 
@@ -80,37 +80,10 @@ Soybean seeds contain approximately 35–40% protein and 18–22% oil on a dry w
 
 In permaculture systems, soybeans serve as a warm-season nitrogen-fixing cover crop that produces a harvestable food crop while improving soil. Their relatively short growing season (90–150 days) allows integration into diverse rotation schemes.
 
-Soybeans are effective as a green manure crop when incorporated at flowering, contributing both fixed nitrogen and organic matter. The high C:N ratio of mature soybean residues requires careful management to avoid temporary nitrogen immobilization during decomposition.
+Soybeans are effective as a [[holzer-green-manure-crop-compendium]] when incorporated at flowering, contributing both fixed nitrogen [[mollison-humus-and-organic-matter-in-soils]]. The high C:N ratio of mature soybean residues requires careful management to avoid temporary nitrogen immobilization during decomposition.
 
-As a companion plant, soybeans benefit neighboring crops through root exudation of fixed nitrogen. They are commonly intercropped with maize in tropical systems, where the maize provides structural support and the soybeans fix nitrogen for both crops.
+As a companion plant, soybeans benefit neighboring crops through root exudation of fixed nitrogen. They are commonly intercropped with maize in tropical systems, where the maize provides [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and the soybeans fix nitrogen for both crops.
 
-Soybean straw and hulls provide mulch material for garden beds and food forest understories. The residue decomposes readily and contributes to soil organic matter accumulation in no-till systems.
+Soybean straw and hulls provide mulch material for garden beds and food forest understories. The residue decomposes readily and contributes to [[humus-formation-and-soil-organic-matter]] accumulation in no-till systems.
 
 ## Cultivation
-
-Seeding rate is 200–400 seeds/m² for [[fukuoka-no-till-grain-production-method]], with row spacing of 18–76 cm depending on cultivar and environment. Inoculation with *Bradyrhizobium japonicum* is recommended on sites without recent soybean history.
-
-Planting depth is 2.5–5 cm in firm, moist seedbeds. Planting date is determined by soil temperature (minimum 10°C at 5 cm depth) and frost-free period. Most production regions target late spring planting for autumn harvest.
-
-Grain yields range from 2–5 t/ha under rainfed conditions and up to 6–8 t/ha under irrigation. Harvest occurs when seed moisture reaches 13–15%, typically 90–150 days after planting depending on maturity group.
-
-## Industrial and Economic Significance
-
-Soybean meal, the protein-rich residue remaining after oil extraction, accounts for approximately 75% of global soybean utilization and is the dominant protein source in compound animal feeds for poultry, swine, cattle, and aquaculture.
-
-Soybean oil is the second most produced vegetable oil globally, used for cooking, margarine, mayonnaise, salad dressings, and industrial applications. It is also a major feedstock for biodiesel production, with the fuel-grade designation B100 representing pure soy methyl ester.
-
-Industrial applications include soy-based adhesives, plastics, inks, solvents, and foams. Soy lecithin, extracted from the oil, serves as an emulsifier in food processing, pharmaceuticals, and cosmetics.
-
-Soy-based [[natural-building-materials-guide]] including particleboard, insulation foam, and wood finishes have been developed as renewable alternatives to petroleum-derived products. These applications are growing as sustainability concerns drive demand for bio-based industrial inputs.
-
-## See Also
-
-- [[medicago-sativa]]
-- [[trifolium-pratense]]
-- phaseolus vulgaris
-- glycine max
-- [[azadirachta-indica]]
-- [[vicia-villosa]]
-- [[melilotus-officinalis]]
-- lupinus-albus

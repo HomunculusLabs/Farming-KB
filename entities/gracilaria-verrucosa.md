@@ -23,7 +23,7 @@ sources:
 
 The species forms erect, bushy thalli reaching 20–40 cm in length. It attaches to substrates via a discoid holdfast and branches dichotomously to form dense, three-dimensional frond structures.
 
-G. verrucosa has a cosmopolitan distribution spanning temperate and tropical coastal waters.
+G. verrucosa has a [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] spanning temperate and tropical coastal waters.
 It has been harvested from wild populations for centuries and is now one of the most widely cultivated seaweeds globally.
 
 ## Taxonomy and Morphology
@@ -55,7 +55,7 @@ The agarose fraction is used in molecular biology for electrophoresis.
 
 Dried Gracilaria contains approximately 20–30% protein, 1–3% lipids, 40–55% carbohydrates, and 15–30% minerals.
 It provides dietary fiber, iodine, calcium, magnesium, and iron.
-Gracilaria biomass also contains measurable amounts of taurine, a conditionally essential amino acid not commonly found in land plants.
+Gracilaria biomass also contains measurable amounts of taurine, a conditionally essential [[cho-fish-amino-acid-preparation]] not commonly found in land plants.
 
 R-phycoerythrin from Gracilaria has commercial value as a fluorescent marker in flow cytometry and immunological assays. Other pigments include phycocyanin, chlorophyll a, and carotenoids.
 
@@ -64,9 +64,9 @@ R-phycoerythrin from Gracilaria has commercial value as a fluorescent marker in 
 G. verrucosa is one of the most widely cultivated seaweeds globally. Major production occurs in China, Vietnam, Indonesia, Chile, and Brazil, with annual output exceeding several hundred thousand tonnes.
 
 Primary [[synthetic-log-cultivation-methods-guide]] include fixed-bottom rope techniques, floating raft culture, and pond cultivation in brackish water impoundments.
-Vegetative propagation using 5–10 cm fragment cuttings is the standard approach.
+[[hamilton-vegetative-propagation]] using 5–10 cm fragment cuttings is the standard approach.
 
-Growth rates of 3–8% per day are typical under optimal conditions.
+[[coleman-sunlight-and-winter-crop-growth-rates]] of 3–8% per day are typical under optimal conditions.
 Harvest cycles range from 30–60 days depending on temperature and [[ph-and-nutrient-availability-garden-soils]].
 
 Pond systems in China and Vietnam integrate Gracilaria cultivation with shrimp and finfish aquaculture.
@@ -79,7 +79,7 @@ Management includes periodic air-drying, freshwater rinsing, and stocking densit
 
 Agar extracted from G. verrucosa is used across multiple industries. In food production, it serves as a gelling, thickening, and stabilizing agent in confectionery, dairy products, canned meats, and Asian desserts.
 
-In microbiology, agar provides the solid substrate for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] culture media. Its high melting point (85–95°C) and low gelling point (32–40°C) make it ideal for incubating thermophilic organisms.
+In microbiology, agar provides the solid substrate for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] [[agar-culture-media]]. Its high melting point (85–95°C) and low gelling point (32–40°C) make it ideal for incubating thermophilic organisms.
 
 The species is consumed directly as a vegetable in several Asian cuisines, sold dried or salted in markets. It is added to soups, salads, and stir-fried dishes for its texture and mineral content.
 
@@ -87,30 +87,4 @@ In traditional medicine, G. verrucosa preparations have been used as mild laxati
 
 ## Ecological Role
 
-G. verrucosa provides habitat and nursery structure for small invertebrates and juvenile fish within coastal ecosystems. Its dense thalli create refuges from predation in intertidal and shallow subtidal zones.
-
-The species contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] by absorbing dissolved nitrogen and phosphorus from the water column. This biofiltration capacity has led to its use in integrated multi-trophic aquaculture systems.
-
-In some regions, dense Gracilaria mats can alter benthic community structure. Excessive biomass accumulation may lead to localized hypoxia beneath the algal canopy.
-
-The species is susceptible to grazing by herbivorous mollusks and echinoderms. Epiphytic growth of diatoms and filamentous algae can reduce growth rates in dense cultivation systems.
-
-## Related Species
-
-The genus Gracilaria contains over 180 described species, many morphologically similar and difficult to distinguish in the field.
-G. verrucosa is part of a species complex including *G. gracilis* and *G. dura*.
-
-*Gracilaria chilensis*, native to Pacific South America, is extensively cultivated in Chile for agar production. It was formerly considered synonymous with G. verrucosa but is now recognized as distinct based on molecular data.
-
-*G. tikvahiae* from the western Atlantic is another important agarophyte cultivated in the [[dmt-containing-plants-united-states-halpern]] and Caribbean. It differs in its broader, flattened branches and preference for warmer waters.
-
-## See Also
-
-- [[gracilaria-tikvahiae]]
-
-- [[kappaphycus-alvarezii]]
-- [[porphyra-umbilicalis]]
-- [[palmaria-palmata]]
-- [[saccharina-latissima]]
-- [[monostroma-nitidum]]
-- [[taurine]]
+G. verrucosa provides habitat and nursery structure for small invertebrates and juvenile fish within [[dighton-fungi-mangrove-coastal-ecosystems]]. Its dense thalli create refuges from predation in intertidal and shallow subtidal zones.

@@ -12,6 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 type: concept
 ---
@@ -20,7 +21,7 @@ type: concept
 
 ## Overview
 
-Fukuoka presents natural farming, natural diet, and natural healing as three
+Fukuoka presents natural farming, [[disappearance-natural-diet]], and natural healing as three
 aspects of a single, inseparable whole. None can exist independently of the
 others, and all three depend on the existence of natural people to be realized.
 This trinity constitutes Fukuoka's complete vision for human life in harmony with
@@ -35,7 +36,7 @@ grow the right crops? Conversely, in the absence of an established method of
 natural farming, a true natural diet will never take hold and spread, because the
 ingredients of such a diet simply will not be available.
 
-Both natural diet and natural farming can be achieved only by natural people.
+Both natural diet [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]] can be achieved only by natural people.
 This trinity begins and is realized at once — you cannot have one without the
 others. The goal of all three elements is the creation of ideal man. The
 interdependence is circular and simultaneous: natural people practice natural
@@ -52,8 +53,8 @@ same. They are all on the same level and amount to no more than just one field o
 [[fukuoka-critique-scientific-agriculture-civilization]].
 
 Each new approach merely substitutes one set of intellectual frameworks for
-another. Whether it is macrobiotics, organic certification, permaculture design,
-or nutritional science, these are all products of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] that
+another. Whether it is macrobiotics, [[fukuoka-critique-organic-certification]], [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]],
+or [[fukuoka-critique-western-dietetics-nutritional-science]], these are all products of [[non-discriminating-knowledge-and-critique-of-scientific-reductionism]] that
 miss the essential point: [[fukuoka-nature-transcends-human-knowledge]] human understanding and cannot be
 captured by any system.
 
@@ -87,45 +88,3 @@ The earth is not merely soil, and the blue sky is more than just empty space. Th
 earth is the garden of God, and the sky is where He sits. The farmer who, chewing
 well the grain harvested from the Lord's garden, raises his face to the heavens
 in gratitude, lives the best and most perfect life possible.
-
-## Illness as Estrangement from Nature
-
-Illness begins when man moves away from nature, and the severity with which he
-is afflicted is proportional to his estrangement. This is why a sick person who
-returns to nature is cured. As mankind distances itself from nature, the number
-of sick people rises rapidly and desires for a [[emcdda-return-to-nature-megatrend-mushroom-appeal]] intensify.
-
-But attempts to return are thwarted because people do not know what nature is,
-nor do they know what a natural body is. Living a primitive life deep in the
-mountains, one may learn what non-intervention is but will not know nature. Yet
-taking some action is also unnatural.
-
-Even if urban people succeed in obtaining natural food, without a natural body
-and spirit prepared to receive such food, merely consuming it does not constitute
-a natural diet. The first priority should be to return to nature and to a healthy
-natural man. Those very people normally thought of as healthy, Fukuoka would call
-the seriously ill; saving them is of the greatest importance.
-
-## The Vision of Farming for All
-
-Fukuoka's program for realizing the trinity is what he calls Farming for All.
-The objective of his do-nothing philosophy is the revival of villages of true man
-where people can return to the original form of nature and enjoy genuine
-happiness.
-
-His vision of a world of farmers is founded on the responsibility of all people
-to return to the garden of God to farm and their right to look up at the blue
-skies and be blessed with joy. This would be more than just a return to primitive
-society — it would be a way of life in which one constantly reaffirms the source
-of life.
-
-Man must also turn away from a world of expansion and extinction, and place his
-faith instead in contraction and revival. The youth living primitively in the
-orchard huts on the mountain, eating a natural diet and practicing natural
-farming, stand closest to the ultimate goal of mankind.
-
-## See Also
-
-- [[fukuoka-textdoc-creating-true-people-do-nothing-road]]
-- [[fukuoka-textdoc-road-back-to-farming-obstacles]]
-- [[fukuoka-textdoc-three-stages-of-human-collapse-and-natural-farming-future]]

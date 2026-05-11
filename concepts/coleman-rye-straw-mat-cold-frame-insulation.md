@@ -1,7 +1,7 @@
 ---
 title: Rye Straw Mats for Cold Frame Insulation in French Maraichage
 source: eliot-coleman-winter-harvest-handbook.md
-author: Eliot Coleman
+author: [[eliot-coleman]]
 tags: [coleman, french-maraichage, cold-frame, straw-mats, insulation, winter-protection, parisian-market-gardens, historical-farming]
 ---
 
@@ -9,7 +9,7 @@ tags: [coleman, french-maraichage, cold-frame, straw-mats, insulation, winter-pr
 
 ## Overview
 
-The nineteenth-century Parisian maraichers (intensive market gardeners) employed an ingenious
+The nineteenth-century Parisian maraichers ([[coleman-french-maraicher-parisian-intensive-market-gardening]] gardeners) employed an ingenious
 system of overnight cold protection using one-inch-thick mats made from rye straw. These
 straw mats could be rolled out over the glass covers of cold frames to provide extra
 insulation on cold nights, then rolled up and stored during the day to allow full light
@@ -24,8 +24,8 @@ productive vegetable-growing system ever devised. Working on small plots of two 
 within the city limits, they produced astonishing quantities of fresh vegetables year-round,
 including through the winter months.
 
-Their system combined several elements: glass-covered cold frames and hotbeds heated by
-decomposing horse manure, glass bell jars called cloches for protecting individual plants,
+Their system combined several elements: glass-covered [[hamilton-cold-frames-and-hardening-off]] hotbeds heated by
+decomposing [[coleman-french-maraicher-horse-manure-hotbed-system]], glass bell jars called cloches for protecting individual plants,
 and the straw mats that provided overnight insulation for all of these structures.
 
 The scale of the operation was remarkable. Some growers managed up to three thousand
@@ -50,7 +50,7 @@ even during the coldest months.
 ## The Climate of Paris
 
 The central part of France has a climate equivalent to USDA Zone 8, with a winter minimum
-temperature range of roughly 10°F to 20°F. The heat island effect of Paris itself may have
+[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] of roughly 10°F to 20°F. The heat island effect of Paris itself may have
 made conditions slightly warmer.
 
 In this climate, the combination of glass-covered frames and straw mat insulation was
@@ -70,7 +70,7 @@ The straw mats complemented this bottom heat by insulating the top of the frames
 heat loss through the glass at night. Together, the hotbed below and the straw mat above
 created a remarkably stable [[cannabis-growing-environment-setup]].
 
-When the hotbed manure had lost its heat and broken down into crumbly compost, it was
+When the [[coleman-hotbed-manure-heat-system]] had lost its heat and broken down into crumbly compost, it was
 shoveled out and used as a soil amendment. Composted horse manure mixed with straw was
 considered by many growers of the time to be the only suitable manure for [[fukuoka-semi-wild-vegetable-growing-natural-method]].
 
@@ -88,36 +88,3 @@ This level of hand labor and attention to detail was one of the reasons the Fren
 was never fully replicated in other countries. As Kropotkin's British translator noted, many
 commentators claimed the system would never succeed in England because British growers would
 never work as hard as French peasants.
-
-## Connection to Modern Winter Harvest
-
-The rye straw mat principle — adding a removable insulating layer over cold protection — is
-the direct historical ancestor of Coleman's double-layer winter harvest system.
-
-Just as the French maraichers placed straw mats over glass cold frames, Coleman places
-floating row cover material over crops inside unheated greenhouses. The inner layer of row
-cover serves the same function as the straw mat: it adds a second layer of insulation that
-significantly raises the minimum temperature around the plants.
-
-The key difference is that modern row covers are self-venting, lightweight, and much less
-labor-intensive than straw mats. They do not need to be removed each morning, which makes
-them practical for commercial-scale production in a way that the French straw mats never
-were for large-scale operations.
-
-## Legacy
-
-The French maraichage system eventually disappeared as the [[coleman-louis-savier-twentieth-century-maraicher]] progressed.
-Automobiles replaced horses, eliminating the supply of fresh manure. Urban expansion consumed
-the land. [[cervantes-chemical-fertilizers-guide]] and large-scale production displaced intensive artisanal
-growing.
-
-But the techniques and inspiration were not totally lost. They remained alive in old books
-and in the hands of a few dedicated growers. The principle of the straw mat — simple,
-passive, removable insulation — lives on in every modern cold frame and row cover system
-used for winter vegetable production.
-
-## See Also
-
-- [[coleman-french-intensive-bed-method]]
-- [[coleman-parisian-maraicher-system]]
-- [[coleman-louis-savier-twentieth-century-maraicher]]

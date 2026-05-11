@@ -88,22 +88,3 @@ While LSD could also have been used, researchers preferred psilocybin because do
 ### Fischer's Letter Resynthesis Experiments
 
 R. Fischer conducted a series of controlled experiments involving the presentation of words and sentences composed of incomplete letters, with increasingly larger portions of the letters covered in several stages. Under the influence of psilocybin, the ability to "re-synthesize" these characters was observed quite frequently:
-
-- Participants were able to read a significantly larger number of words
-- Some reportedly able to see the partial letters complete and uncut in a display that showed little more than a white background
-
-These observations provided powerful evidence confirming that the effects of mushroom ingredients are certainly not just "psychotic" in nature. Psilocybin and its relatives apparently act as catalysts that initiate new information processing mechanisms and patterns of coordination between the different interactive areas of the brain.
-
-### Remarkable Case: Brain Tumor Visualization
-
-In one exceptionally remarkable case, a participant under the influence of psilocybin clearly saw a brain tumor inside her skull -- a tumor that was not discovered until a medical examination that followed the session.
-
-## Political Suppression
-
-The unbiased scientific evaluation of hallucinogenic substances remains an all but impossible task due to restrictive legislative measures. As a consequence of the political upheaval of the 1960s and the reaction against [[psilocybin-clinical-research-history]]
-- [[early-paris-psilocybin-research-1960s]]
-
-- [Psilocybin [[psilocybin-toxicity-and-safety-profile]] profile -- Safety data supporting therapeutic use
-- MDMA-assisted psychotherapy -- Modern successor to psycholytic therapy
-- LSD research history -- Related research program
-- [[psilocybin-isolation-and-early-scientific-research]]

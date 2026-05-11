@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # 3-T-TRIS
 
-PIHKAL entry #178. 3-THIOTRESCALINE; 3-THIOTRISESCALINE;.
+[[2c-b-pihkal-entry-20]] #178. 3-THIOTRESCALINE; 3-THIOTRISESCALINE;.
 
 ## Chemical Name
 
@@ -27,7 +27,7 @@ PIHKAL entry #178. 3-THIOTRESCALINE; 3-THIOTRISESCALINE;.
 > 9th or 10th hour after having taken the material I was aware of some
 > neurological irritability. I will not try this at any higher dosage,
 > and let me stretch things a bit by a few percent in good conscience
-> and say that this is less active than mescaline. This would allow it
+> and say that this is less active than [[mescaline]]. This would allow it
 > to be reported as < 1 M.U.
 
 ## Extensions and Commentary
@@ -88,34 +88,3 @@ that increased to 57-58 deg C upon recrystallization from EtOH. Anal.
 
 A solution of 14.9 g methyltriphenylphosphonium bromide in 200 mL
 anhydrous THF was placed under a He atmosphere, well stirred, and
-cooled to 0 deg C with an external ice water bath. There was then added
-27.6 mL of 1.6 N butyllithium in hexane which resulted in the
-generation of a yellow color which was at first transient, and then
-stable. The reaction mixture was brought up to room temperature, and
-6.8 g 3,4-diethoxy-5-(ethylthio)benzaldehyde in 50 mL THF was added
-dropwise dispelling the color, and the mixture was held at reflux on
-the steam bath for 1 h. The reaction was quenched in 800 mL H2O, the
-top layer separated, and the aqueous phase extracted with 2x75 mL of
-petroleum ether. The organic fractions were combined and the solvents
-removed under vacuum to give 12.0 g of the crude
-3,4-diethoxy-5-ethylthiostyrene as a deep yellow oil.
-
-A solution of 5.6 g of borane-methyl sulfide complex (10 M BH3 in
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[4-t-tris-entity-pihkal]]
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

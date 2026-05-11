@@ -14,9 +14,9 @@ sources:
 
 updated: 2026-04-24
 
-The legal status of [[guzman-magic-mushrooms-african-species]] has shifted dramatically from
+The [[smartshop-markets-and-legal-status-of-hallucinogenic-mushrooms]] [[guzman-magic-mushrooms-african-species]] has shifted dramatically from
 relative obscurity to strict prohibition over the past half century.
-The scheduling of psilocybin and psilocin as controlled substances was
+The scheduling of [[hplc-analysis-of-psilocybin-and-psilocin]] as [[controlled-substances-act-and-psychedelic-research]] was
 driven not by any evidence of widespread harm but by their structural
 similarity to LSD during a period of moral panic. The resulting legal
 framework created contradictions and loopholes that persisted for
@@ -27,7 +27,7 @@ decades, particularly in Europe.
 In 1971, the United Nations, under considerable American pressure,
 introduced its Convention on Psychotropic Substances as an adjunct to
 its earlier Single Convention on Narcotic Drugs (1961). Though at the
-time illicit use of magic mushrooms in Europe and America was minimal
+time illicit use of [[1960s-counterculture-and-magic-mushrooms]] in Europe and America was minimal
 and probably little known to policy makers, psilocybin and psilocin were
 included in the Convention because of their structural similarity to
 the great drugs menace of the time, LSD.
@@ -36,7 +36,7 @@ Signatories agreed to prohibit these synthetics but, following appeals
 by the Mexican government, not the plants that contained them. The
 Mexicans were understandably worried by the prospect of having to
 prevent indigenous mushroom use. This distinction -- between the
-chemical compounds and the fungi that contain them -- opened the legal
+[[neurotropic-fungi-chemical-compounds]] and the fungi that contain them -- opened the legal
 loophole that existed in Holland and Britain, allowing the sale of
 fresh mushrooms.
 
@@ -88,27 +88,3 @@ psilocybin and psilocin, and not the mushrooms themselves. Smart shops
 selling fresh mushrooms proliferated throughout Amsterdam.
 
 ## The Failure of Prohibition
-
-Given that, by any measure, prohibition has been an abject failure at
-preventing the escalation of drug use -- the illegal drugs market alone
-is worth billions annually -- perhaps the time has come for a more sober
-and rational debate. Prohibition may prove to be a retrograde step for
-[[adverse-effects-and-harm-reduction-psilocybin]]. The likelihood of novices picking the wrong mushrooms,
-or of spurious mushrooms finding their way onto the market, will
-undoubtedly be increased, while a whole section of society faces legal
-consequences that far outstrip any health risks.
-
-## Related
-
-- [[shroom-mazatec-tradition]] -- Indigenous use context
-
-## Source
-
-Letcher, Andy. Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom.
-HarperCollins, 2006. Lines 1250-1270, 9800-10000, 12100-12350.
-
-## See Also
-
-- [[shroom-scientific-study]]
-
-- [[shroom-european-folklore]]

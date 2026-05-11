@@ -9,6 +9,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,14 +88,3 @@ nitrogen-fixing understory plants supply balanced nutrition. Mollison
 emphasises the importance of trace elements, particularly zinc,
 manganese, iron, and boron, which are often deficient in the sandy or
 calcareous soils where citrus is commonly grown. Foliar sprays of seaweed
-extract and fish emulsion provide rapid correction of micronutrient
-deficiencies during periods of active growth.
-
-## Cross-References
-
-- [[mollison-designers-mixed-orchard-design-species-selection]]: Broader orchard planning
-- [[mollison-designers-poultry-forage-design-pastured-systems]]: Poultry integration
-- mollison-designers-integrated-pest-management-design: Pest management
-- mollison designers [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]: Fertiliser strategies
-## See Also
-- [[hedgerow-planting]]

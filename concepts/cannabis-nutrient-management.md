@@ -31,7 +31,7 @@ The three major nutrients found in soil are Nitrogen (N), Phosphorus (P),
 and Potassium (K), collectively known as NPK. These are expressed as a
 ratio on fertilizer packaging, such as 20:20:20 (meaning 20% N, 20% P, 20%
 K). The remaining percentage consists of other elements and filler material.
-In liquid fertilizers, the remainder is typically water.
+In [[solomon-liquid-fertilizers-and-foliar-feeding]], the remainder is typically water.
 
 Cannabis plants have different NPK requirements during vegetative growth
 versus flowering. During vegetative growth, plants like good levels of
@@ -43,8 +43,8 @@ flowering plants.
 
 During flowering, phosphorus needs increase significantly. Rather than
 transplanting to new soil, most growers use liquid bloom feeds to raise P
-levels during the flowering phase. This approach gives precise control over
-nutrient delivery without the stress of transplanting a flowering plant.
+levels during the [[cervantes-flowering-phase]]. This approach gives precise control over
+[[solomon-fertigation-bucket-drip-water-nutrient-delivery]] without the stress of transplanting a flowering plant.
 
 ## Soil pH Management
 
@@ -70,7 +70,7 @@ roots need air to breathe, while overly dry soil requires excessive watering.
 The soil should feel loose and fine but slightly heavy in the hands. Avoid
 soil that is hard and bulky (too clay-heavy) or too soft and weightless (too
 sandy). Medium soft and heavy is the target. Good soil structure ensures
-proper root respiration, nutrient cycling, and microbial activity.
+proper root respiration, [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]], and microbial activity.
 
 ## Common Soil Types
 
@@ -81,55 +81,10 @@ other soil types.
 
 **Clay**: A stiff, fine-grained earth that becomes flexible when wet.
 Marijuana roots do not like clay, which is rarely used alone. It can be
-amended with sand and organic matter for improvement.
+amended with sand [[hamilton-composting-and-organic-matter-management]] for improvement.
 
 **Loam**: A mix of sand, silt, and clay, often with added organic matter.
-Loams are very fertile and highly recommended for cannabis cultivation. Most
+Loams are very fertile and highly recommended for [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]. Most
 commercial potting soils are loam-based. Always buy bagged soil from
 gardening shops rather than using outdoor soil, which may contain pests and
 pathogens.
-
-**Humus**: The organic constituent of soil formed by decomposition of plant
-materials. Most commercial humus products attempt to eliminate pests. Humus
-is distinct from compost, which is a final mixture of manure, loam, and
-other organic matter. Adding humus improves soil structure, water retention,
-and microbial life.
-
-## Perlite and Vermiculite
-
-Perlite and vermiculite are artificial soil amendments that improve
-structure. Perlite improves drainage and aeration but contains no nutrients.
-Vermiculite retains water and nutrients but can compact over time. Both
-should be mixed with soil rather than used alone. For first-time users, a
-mix of approximately 70% soil to 30% perlite or vermiculite is recommended.
-With experience, the ratios can be fine-tuned to specific plant needs.
-
-## Nutrient Deficiency and Toxicity
-
-Nutrient problems manifest visually on the leaves. Nitrogen deficiency
-causes yellowing of lower leaves (chlorosis) that progresses upward.
-[[query-how-to-fix-phosphorus-deficiency-in-cannabis]] shows as dark green or purplish leaves with slow
-growth. [[knf-potassium-deficiency-and-excess]] causes brown leaf edges and weak stems.
-
-Nutrient toxicity (nutrient burn) typically results from over-fertilization.
-Leaves develop burned, curled tips that feel dry and crispy. If nutrient
-burn occurs, flush the soil with large volumes of plain water to leach out
-excess salts, then allow the soil to dry before resuming feeding at reduced
-concentrations. Always mix fertilizers with water before applying; never pour
-concentrated nutrients directly onto soil.
-
-## Micronutrients
-
-Beyond NPK, cannabis requires micronutrients including calcium, magnesium,
-sulfur, iron, manganese, zinc, copper, and boron. These are usually present
-in sufficient quantities in quality potting soil but can become deficient in
-hydroponic systems or heavily used soil. Calcium-magnesium supplements
-(calmag) are commonly needed, especially in coco coir or purified water
-systems.
-
-## Related Concepts
-
-- [[soil-ph-management]]
-- [[vermiculite-cannabis]]
-- cannabis pest and [[plant-disease-management-solomon]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]

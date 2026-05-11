@@ -52,7 +52,7 @@ fundamental need is not met, the psyche's instinctive response is anger and
 violence. The challenge is that the target of anger isn't always obvious:
 
 - If someone takes your food, the target is clear
-- If food simply never arrives (supply chain failure), the target is
+- If food simply never arrives ([[european-smartshop-economics-mushroom-supply-chain-emcdda-2006]] failure), the target is
   abstract — leading to scapegoating and misdirected violence
 - The subconscious performs a risk-benefit analysis: you might not attack a
   grizzly bear, but you might redirect that anger toward a safer target
@@ -87,26 +87,3 @@ that determines whether physical infrastructure achieves its potential.
 A permaculture designer creates the *conditions* for sustainability; the
 people living within those designs must *live* sustainably through conscious
 daily choices.
-
-## The Role of Perception
-
-A key nuance in Ozier's framework is the role of **perception**. Security,
-in particular, is largely perceptual. A perfectly safe house in a
-neighborhood that *feels* dangerous fails to meet the security need. Design
-must address both objective conditions and human psychology — how spaces
-*feel* matters as much as how they perform.
-
-## Relevance to Permaculture Practice
-
-This framework elevates permaculture design from purely technical (swales,
-zones, sectors) to genuinely holistic. A design that produces abundant food
-but creates social isolation, or one that is ecologically sound but makes
-occupants feel economically insecure, is incomplete. The Maslow integration
-ensures that human psychological needs are treated as legitimate design
-criteria alongside soil, water, and yield.
-
-## See Also
-
-- [[ozier-pdc-ecological-design]]
-- [[permaculture-design]]
-- [[ozier-pdc-plant-guilds-and-polyculture-design]]

@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # PE
 
-PIHKAL entry #141. PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE.
+[[2c-b-pihkal-entry-20]] #141. PHENESCALINE; 3,5-DIMETHOXY-4-PHENETHYLOXYPHENETHYLAMINE.
 
 ## Chemical Name
 
@@ -60,7 +60,7 @@ described synthetically, having been made in exactly the procedure
 given for escaline, except that the reduction of the nitrile was not
 done by catalytic hydrogenation but rather by sodium borohydride in
 the presence of cobalt chloride. It has been shown to be a effective
-serotonin agonist, and may warrant human experimentation. The
+[[serotonin]] agonist, and may warrant human experimentation. The
 serotonin activity suggests that it might be active at the same levels
 found for proscaline.
 
@@ -88,34 +88,3 @@ oil weighing 8.1 g. Anal. (C18H19NO3) C,H.
 A solution of 7.9 g of distilled
 3,5-dimethoxy-4-phenethyloxyphenylacetonitrile in 15 mL dry THF was
 added to a 0 deg C solution of AH prepared from a vigorously stirred
-solution of 4.6 g LAH in 160 ml THF which had been treated, at 0 deg C
-with 3.6 mL 100% H2SO4 under an atmosphere of He. The gelatinaceous
-reaction mixture was brought to a brief reflux on the [[scythian-cannabis-steam-bath-ritual]], then
-cooled again. It was treated with 5 mL IPA which destroyed the
-unreacted hydride, followed by sufficient 15% NaOH to give loose,
-white filterable solids. These were removed by filtration and washed
-with THF. The filtrate and the washes were combined and, after
-removal of the solvent under vacuum, there remained 7.8 g of the
-product as a crude base which crystallized spontaneously.
-Distillation of this product at 170-180 deg C at 0.35 mm/Hg gave 5.1 g
-white solids, with a mp of 85-86 deg C from hexane. This base was
-dissolved in 20 mL warm IPA and treated with 1.6 mL concentrated HCl.
-To the resulting clear solution, there was added 75 mL anhydrous Et2O
-which gave, after a few moments of stirring, a spontaneous
-crystallization of 3,5-di-methoxy-4-phenethyloxyphenethylamine
-hydrochloride (PE) as beautiful white crystals. The weight was 5.4 g
-after air drying, and the mp was 151-152 deg C. Anal. (C18H24ClNO3) C,H.
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[mme-entity-pihkal]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

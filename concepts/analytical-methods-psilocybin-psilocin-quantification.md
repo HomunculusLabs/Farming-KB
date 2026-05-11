@@ -88,37 +88,3 @@ Standard reporting requires: dry-weight basis (mg/g or % dry weight), species id
 ## Applications by Context
 
 ### Clinical and Pharmacological Research
-
-In clinical trials of psilocybin-assisted therapy, LC-MS/MS is the standard for pharmacokinetic studies. Blood plasma samples require protein precipitation (typically with acetonitrile) prior to analysis. Psilocybin has a short half-life (~2–3 hours), being rapidly dephosphorylated to psilocin, which has a longer half-life (~4–6 hours). Both parent compound and metabolite must be quantified to characterize the full pharmacokinetic profile.
-
-### Forensic Analysis
-
-Forensic laboratories primarily use GC-MS for seized mushroom samples, leveraging extensive spectral libraries for identification and legal proceedings. LC-MS/MS is increasingly adopted for toxicological screening of biological samples in DUI and death investigation cases. Immunoassay screening followed by confirmatory LC-MS/MS is the recommended two-tier approach.
-
-### Cultivation Quality Control
-
-Cultivators use HPLC-UV for routine potency testing due to lower cost and wider availability. Results are typically reported as total psilocybin equivalent (sum of psilocybin and psilocin × 0.718 molecular weight correction factor). Batch-to-batch consistency monitoring helps optimize cultivation conditions for target alkaloid levels.
-
-### Mycelium and Biomass Testing
-
-Testing of mycelium grown in liquid culture (biomass) is increasingly relevant as commercial production scales for nutraceutical and therapeutic applications. Alkaloid levels in mycelium are typically 10–100× lower than in fruiting bodies, requiring the sensitivity of LC-MS/MS for reliable detection. The mycelial alkaloid profile may also differ from fruiting body profiles, with relatively higher proportions of baeocystin and norbaeocystin in some strains.
-
-## Emerging Techniques
-
-### DART-MS and Ambient Ionization
-
-**Direct Analysis in Real Time mass spectrometry** (DART-MS) enables rapid screening of mushroom tissue with minimal sample preparation — a small piece of dried cap is placed in the DART gas stream and spectra are acquired within seconds. While less precise than chromatographic methods, DART-MS can detect psilocybin at ng/g levels and distinguish *Psilocybe* species from non-active lookalikes. This technique is being explored for field-portable screening by law enforcement and customs agencies.
-
-### Electrochemical Sensors
-
-Electrochemical biosensors using screen-printed carbon electrodes modified with molecularly imprinted polymers (MIPs) offer a promising low-cost alternative for point-of-use detection. These devices measure the oxidation current of psilocin at the electrode surface and can achieve LODs of 0.1–1.0 μg/mL. Integration with smartphone-based potentiostats could enable decentralized potency testing by consumers and harm reduction organizations.
-
-## See Also
-
-- [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
-- [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]
-
-- [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
-- [[street-sample-potency-variability-in-psilocybe-cubensis]]
-- [[tihkal-psilocin-psilocybin-chemistry]]
-- [[baeocystin-and-norbaeocystin-in-psilocybin-biosynthesis]]

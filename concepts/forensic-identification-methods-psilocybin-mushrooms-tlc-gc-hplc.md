@@ -1,5 +1,5 @@
 ---
-title: Forensic forensic identification methods psilocybin mushrooms tlc gc hplc for Psilocybin Mushrooms
+title: Forensic Identification Methods Psilocybin Mushrooms Tlc Gc Hplc
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [forensic-identification, psilocybin, magic-mushrooms, TLC, GC, HPLC, chromatography, Ehrlich-reagent, drug-regulation, analytical-chemistry]
 created: 2026-05-08
@@ -17,7 +17,7 @@ The identification of "magic mushrooms" (fungi containing [[tryptamine-chemistry
 
 Psilocybin-containing mushrooms belong primarily to the genus *Psilocybe*, but also include species in *Gymnopilus*, *Panaeolus*, *Copelandia*, *Inocybe*, and *Pluteus*. Identification based on morphology alone is problematic for several reasons:
 
-1. **Close resemblance to toxic species** — Many *Psilocybe* species look nearly identical to deadly poisonous mushrooms such as *Galerina marginata*, which contains the same amatoxins as the death cap (*Amanita phalloides*)
+1. **Close resemblance to toxic species** — Many *Psilocybe* species look nearly identical to deadly [[palmer-poisonous-mushrooms-deadly-species]] such as *[[galerina-marginata]]*, which contains the same amatoxins as the death cap (*[[amanita-phalloides]]*)
 2. **Intraspecific variation** — Individual specimens of the same species can vary significantly in size, color, and shape depending on growing conditions
 3. **Lack of expert availability** — Accurate morphological identification requires specialized mycological training that most law enforcement and health personnel do not possess
 4. **Dried specimens** — Drying alters morphology significantly, making identification even more difficult
@@ -26,7 +26,7 @@ Shirota et al. state the problem directly: "The identification of the 'magic mus
 
 ### Regulatory Context
 
-The forensic identification challenge became urgent in Japan when, on June 6, 2002, fungi containing psilocin and psilocybin were regulated by the Narcotics and Psychotropic Control Law. This regulatory change created an immediate need for reliable, standardized analytical methods that could be applied in forensic laboratories.
+The forensic identification challenge became urgent in Japan when, on June 6, 2002, fungi containing [[psilocin-and-psilocybin-chemistry]] were regulated by the Narcotics and Psychotropic Control Law. This regulatory change created an immediate need for reliable, standardized analytical methods that could be applied in forensic laboratories.
 
 ## Chromatographic Methods
 
@@ -72,7 +72,7 @@ GC provides higher resolution than TLC and can quantify psilocin and psilocybin 
 
 ### High-Performance Liquid Chromatography (HPLC)
 
-HPLC is considered the gold standard for psilocybin and psilocin analysis, as it avoids the thermal degradation issues associated with GC.
+HPLC is considered the gold standard for [[hplc-analysis-of-psilocybin-and-psilocin]] analysis, as it avoids the thermal degradation issues associated with GC.
 
 **Shirota et al. used HPLC extensively** in their synthesis work:
 - Preparative reversed-phase HPLC was used to isolate and purify the [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]] compound (8)
@@ -88,54 +88,3 @@ HPLC is considered the gold standard for psilocybin and psilocin analysis, as it
 
 **Limitations:**
 - Higher equipment cost than TLC or GC
-- Requires trained operators
-- Longer analysis time per sample than TLC
-
-## Standard Compounds
-
-### The Need for Standards
-
-For any chromatographic method to provide definitive identification, authentic reference standards are required. Shirota et al. explain the problem:
-
-> "For these chromatographic analyses, standard compounds are always needed. It is difficult to isolate 1 and 2 from the mushroom on a gram scale for use as pure standard compounds because 1 easily decomposes and 2 has a high polarity."
-
-### Challenges in Obtaining Standards
-
-1. **[[shirota-psilocin-instability-chromatographic-challenges]]** — Psilocin (compound 1) decomposes readily, particularly when exposed to air, light, or heat. This makes storage and handling of reference standards challenging
-2. **Psilocybin polarity** — Psilocybin (compound 2) is highly polar due to its phosphate ester group, making it difficult to isolate from mushroom matrix material using standard extraction techniques
-3. **Legal restrictions** — The regulated status of these compounds complicates their procurement and storage in forensic laboratories
-4. **Low natural abundance** — Even in potent mushroom species, psilocin and psilocybin typically constitute only 0.1–1.5% of dry weight
-
-### Synthetic Standards
-
-The Shirota synthesis was motivated in part by the need for reliable standard compounds:
-
-> "Several reports on the synthesis of 1 have been published, while reports on the synthesis of 2 are few."
-
-The Shirota method achieved gram-scale synthesis of both compounds without chromatographic purification, making it a practical route for producing analytical standards. The key innovation was the isolation of the zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] by simple filtration, avoiding the need for column chromatography.
-
-## Other Detection Methods
-
-### UV-Vis Spectroscopy
-
-Both psilocin and psilocybin have characteristic UV absorption spectra:
-
-- **Psilocin** (in methanol): λmax 222.5, 268.0, 284.5, 294.0 nm
-- **Psilocybin** (in methanol): λmax 221.0, 267.5, 278.5, 290.0 nm
-
-These spectra are characteristic of the indole chromophore and can be used for preliminary identification.
-
-### Mass Spectrometry (MS)
-
-ESI-MS provides molecular weight confirmation:
-
-- **Psilocin**: m/z 205.1 [M+H]⁺
-- **Psilocybin**: m/z 285.1 [M+H]⁺
-
-## See Also
-- [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
-- [[4-hydroxyindole-tryptamine-synthesis-building-block]]
-- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
-- [[psilocybin-mushrooms]]
-- [[amanita-phalloides]]
-- [[psilocybin-pharmacology]]

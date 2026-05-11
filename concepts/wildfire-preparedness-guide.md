@@ -9,7 +9,7 @@ sources: []
 
 # Wildfire Preparedness Guide
 
-Wildfires are an escalating threat across North America, driven by decades of fire suppression, climate change, and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
+Wildfires are an escalating threat across [[guzman-psilocybin-mushrooms-north-america]], driven by decades of fire suppression, [[dighton-fungal-responses-climate-change]], and expanding wildland-urban interface. Homesteads in fire-prone regions face catastrophic risk, but advance preparation dramatically improves survival odds and property protection. This guide covers defensible space, structure hardening, evacuation planning, and recovery.
 
 ## Understanding Wildfire Risk
 
@@ -26,7 +26,7 @@ Assess your risk using:
 - Vegetation type and density on and around your property
 - Slope — fire moves faster uphill (steeper = faster)
 - Prevailing wind patterns during fire season
-- Building materials and construction of your home and outbuildings
+- [[gadd-fungal-biodegradation-concrete-building-materials]] and construction of your home and outbuildings
 
 ## Defensible Space
 
@@ -54,7 +54,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 - Mow grass to 4 inches maximum
 - Remove all dead plants, leaves, and pine needles
 - Space shrubs at least 2 times their mature height apart
-- Replace highly flammable plants (juniper, arborvitae, ornamental grasses) with fire-resistant species
+- Replace highly flammable plants (juniper, arborvitae, [[ornamental-grasses-guide]]) with fire-resistant species
 - Keep woodpiles and propane tanks in this zone minimum (better at 30+ feet)
 
 ### Zone 3: Extended Zone (30-100 feet)
@@ -64,7 +64,7 @@ This is the most critical zone. Embers accumulate here and directly threaten the
 - Thin trees to create spacing that prevents continuous canopy fire
 - Mow grass to 6 inches maximum
 - Remove ladder fuels
-- Create fire breaks (roads, driveways, bare ground) if possible
+- Create fire breaks (roads, driveways, [[savory-bare-ground-and-soil-exposure]]) if possible
 - Consider grazing animals for vegetation management
 
 ## Structure Hardening
@@ -147,4 +147,3 @@ Keep a packed bag for each family member and pet at all times during fire season
 - Understand your policy's coverage for: structure, contents, additional living expenses, debris removal, and livestock
 - Keep insurance agent contact information readily available
 - Inventory all major purchases and improvements as they are made
-

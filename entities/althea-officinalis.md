@@ -88,29 +88,3 @@ The plant requires minimal maintenance once established. Adequate moisture is th
 The leaves of *A. officinalis* are edible and have been consumed as a vegetable in traditional diets across Europe and the Middle East. Young leaves can be eaten raw in salads or cooked as a pot herb, with a mild, slightly sweet flavor.
 
 The root, while primarily valued for mucilage, contains modest amounts of vitamins and minerals including vitamin C, calcium, magnesium, and iron. However, the primary nutritional contribution of marshmallow preparations is dietary fiber in the form of soluble polysaccharides.
-
-Historically, boiled marshmallow root was consumed as a nutritious food during periods of scarcity. The mucilaginous texture was valued for its soothing effect on the digestive tract and its ability to provide a sense of satiety despite low caloric density.
-
-## Related Species
-
-The genus *Althaea* includes several species with overlapping medicinal properties. *Althaea cannabina* (hemp-leaved marshmallow) shares similar mucilage content and has been used interchangeably with *A. officinalis* in European folk medicine.
-
-*Althea rosea* (hollyhock), while often placed in the separate genus *Alcea*, produces comparable mucilage in its roots and flowers. Hollyhock flower preparations have been used traditionally for respiratory and urinary tract inflammation.
-
-The closely related *Malva sylvestris* (common mallow) is another widespread European malvaceous herb with demulcent properties. Its leaves and flowers are used similarly to marshmallow root in folk medicine across the Mediterranean region.
-
-Within Malvaceae, *Abelmoschus esculentus* (okra) shares the characteristic mucilage that defines the family's therapeutic profile. While okra is primarily a food crop, its mucilage has been investigated for similar gastroprotective effects.
-
-## See Also
-
-- [[rosmarinus-officinalis-entity]]
-
-- [[glycyrrhiza-glabra]]
-- [[aloe-vera]]
-- [[verbascum-thapsus]]
-- [[taraxacum-officinale]]
-- [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
-- [[glycyrrhiza-uralensis]]
-- [[withania-somnifera]]
-- ocimum-sanctum

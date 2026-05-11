@@ -87,18 +87,3 @@ bags. See [[bean-growing-guide]].
 
 Okra pods should be harvested at two to three inches. Over-mature pods are
 woody. Store about one week. Freeze surplus.
-
-## Fruit Vegetables
-
-Tomatoes at peak ripeness keep for about one week in the refrigerator.
-Green mature tomatoes can be stored at 55 to 70 degrees Fahrenheit for three
-to five weeks by wrapping each in newspaper. A cellar at 55 to 58 degrees
-is ideal for holding green tomatoes. See [[tomato-pepper-eggplant-growing-guide]].
-
-Eggplant is harvested when fruits are nearly full-grown but color is still
-bright. Eggplants are not adapted to long storage. Keep about one week in
-the refrigerator.
-
-Cucumbers should be harvested before seeds become half-size. Slicing
-cucumbers are typically one and a half to two and a half inches in diameter.
-Store in the warmest part of the refrigerator for about one week.

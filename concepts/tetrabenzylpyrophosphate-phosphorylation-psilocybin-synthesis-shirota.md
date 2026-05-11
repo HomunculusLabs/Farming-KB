@@ -2,8 +2,8 @@
 
 ## Overview
 
-The synthesis of psilocybin from psilocin requires the introduction of a
-phosphate ester group at the 4-hydroxy position of the indole ring. This
+The synthesis of psilocybin from [[psilocin]] requires the introduction of a
+phosphate ester group at the 4-hydroxy position of the [[indole]] ring. This
 phosphorylation step has historically been the most challenging aspect of
 psilocybin synthesis due to difficulties in regioselectivity, purification,
 and yield. Shirota, Hakamata, and Goda (2003) identified the tetrabenzyl-
@@ -15,7 +15,7 @@ that dramatically simplified the purification process.
 
 Converting psilocin to psilocybin requires phosphorylation of the 4-hydroxy
 group while preserving the sensitive indole ring and the N,N-dimethylamine
-side chain. Several phosphorylation methodologies were evaluated by the
+[[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]. Several phosphorylation methodologies were evaluated by the
 researchers:
 
 ### Methods That Failed
@@ -88,62 +88,3 @@ the phosphate oxygen to the dimethylamine nitrogen.
 The researchers discovered that the conversion from the O,O-dibenzyl
 phosphate (7) to the zwitterionic N,O-dibenzyl derivative (8) could be
 achieved simply by suspending the worked-up reaction mixture in CH2Cl2
-overnight. No additional reagents or conditions were required.
-
-## Purification Advantage
-
-The zwitterionic nature of compound 8 is the key to the practicality of this
-synthesis route. Because compound 8 is charged (zwitterionic), it is insoluble
-in CH2Cl2 while the excess dibenzyl phosphate byproduct is soluble. This means:
-
-1. The zwitterionic intermediate precipitates directly from the reaction mixture
-2. It can be isolated by simple filtration (no chromatography needed)
-3. Excess reagents are removed by washing with CH2Cl2
-4. The isolated yield exceeds 85%
-
-This eliminates the most expensive and time-consuming step in previous
-psilocybin syntheses — chromatographic purification.
-
-## Final Deprotection
-
-The conversion of compound 8 to psilocybin (compound 2) is achieved by
-[[catalytic-hydrogenolysis-palladium-carbon-debenzylation]]:
-
-- **Reagent**: Hydrogen gas (H2) with palladium on carbon (Pd/C) catalyst
-- **Solvent**: Methanol (MeOH)
-- **Conditions**: Room temperature
-- **Product**: Psilocybin as white needle crystals
-- **Yield**: Greater than 72% from psilocin, even at [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
-- **Purification**: No chromatography required — crystalline product obtained
-directly
-
-## Comparison with Previous Methods
-
-The Shirota route achieves psilocybin yields significantly higher than
-previously reported syntheses:
-
-- **Troxler, Seemann & Hofmann (1959)**: ~20% yield from psilocin
-- **Replicated by others**: ~47% yield
-- **Shirota, Hakamata & Goda (2003)**: >72% yield from psilocin
-
-The improvement is attributable to the elimination of chromatographic losses
-through the zwitterionic intermediate isolation strategy.
-
-## Significance for Standard Compound Production
-
-The practical significance of this synthesis route lies in the production of
-analytical [[shirota-forensic-standard-compounds-magic-mushroom-identification]]. [[psilocin-and-psilocybin-chemistry]] are needed as reference
-standards for forensic and regulatory identification of psilocybin-containing
-mushrooms using chromatographic methods (TLC, GC, HPLC). Previous syntheses
-were impractical at gram scale due to low yields and purification difficulties.
-The Shirota route makes reliable gram-scale production feasible without
-chromatographic purification at any step.
-## See Also
-
-- [[four-hydroxyindole-psilocin-synthesis-route-shirota]]
-- [[acetyl-protection-route-psilocin-psilocybin-synthesis]]
-- [[lialh4-reduction-glyoxalylamide-psilocin-synthesis]]
-
-## Sources
-
-- Shirota, O., Hakamata, W. & Goda, Y. "Concise Large-Scale Synthesis of

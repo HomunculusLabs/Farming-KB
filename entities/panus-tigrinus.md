@@ -88,32 +88,3 @@ P. tigrinus contributes to nutrient cycling in riparian ecosystems where it comm
 ## Bioactive Compounds
 
 P. tigrinus produces several bioactive metabolites during its growth cycle. Extracts have demonstrated antioxidant, antimicrobial, and anti-inflammatory properties in vitro.
-
-**Polysaccharides:** Beta-glucans isolated from fruiting bodies and mycelial culture show immunomodulatory activity, stimulating macrophage phagocytosis and increasing production of nitric oxide and tumor necrosis factor-alpha in murine models.
-
-**Laccase:** The species is a prolific producer of laccase (EC 1.10.3.2), a multicopper oxidase with applications in biotechnology.
-
-Laccase from P. tigrinus has optimal activity at pH 4.0–5.0 and temperatures of 40–50°C. It is stable across a wide pH range, making it suitable for industrial dye decolorization processes.
-
-**Triterpenoids:** Ergosterol and its peroxide derivatives have been isolated from the fruiting bodies. These compounds exhibit moderate cytotoxic activity against certain cancer cell lines in laboratory studies.
-
-Antimicrobial activity has been observed against Gram-positive bacteria including *Staphylococcus aureus* and *Bacillus subtilis*, with weaker activity against Gram-negative species.
-
-## Related Species
-
-*Panus conchatus* is a close relative with a smoother cap surface and similar habitat preferences. It is less commonly collected for food due to its tougher consistency.
-
-*Panus strigosellus* is a tropical species found on dead bamboo and palm wood, distinguished by its more densely hairy cap surface and smaller spores (4–5 µm length).
-
-The genus *Panus* was historically merged with *Lentinus* but molecular phylogenetic analyses using ITS and LSU rDNA regions support them as distinct genera within Polyporaceae.
-
-## See Also
-
-- [[lentinus-tigrinus]]
-- [[panus-conchatus]]
-
-- [[pleurotus-ostreatus]]
-- [[trametes-versicolor-entity]]
-- [[neolentinus-lepideus]]
-- [[coriolopsis-capitata]]
-- [[mycoremediation]]

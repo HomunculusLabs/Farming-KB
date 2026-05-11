@@ -30,14 +30,14 @@ with concentrations often exceeding those found in vegetables:
   calorie than bananas. Adequate potassium intake supports
   cardiovascular health, blood pressure regulation, and
   proper muscle and nerve function throughout the body.
-- **Copper and zinc** — essential trace minerals involved
-  in immune function, antioxidant defense, and enzyme
+- **Copper and zinc** — essential [[dynamic-accumulator-plants-trace-minerals]] involved
+  in immune function, [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]], and enzyme
   systems. Mushroom copper content contributes to iron
   metabolism and connective tissue formation pathways.
 - **Ergothioneine** — a unique antioxidant found almost
   exclusively in mushrooms. This amino acid derivative
   accumulates in human tissues and provides cellular
-  protection against oxidative stress and inflammation,
+  protection against [[reactive-oxygen-species-and-oxidative-stress]] and inflammation,
   with potential implications for longevity research.
 
 ## Species-Specific Nutritional Profiles
@@ -51,7 +51,7 @@ cultivated and wild mushroom species:
 - **Oyster mushrooms** — high in beta-glucans, protein
   relative to other cultivated species, and several
   statin-like compounds. Among the easiest species to
-  cultivate at home on diverse substrate materials.
+  cultivate at home on diverse [[growing-gourmet-substrate-materials-wood-types]].
 - **Maitake** — notable for its D-fraction beta-glucan
   content and relatively high protein concentration.
   Contains compounds that may support healthy blood
@@ -74,7 +74,7 @@ health-promoting biological activity:
   compounds protect cellular components from oxidative
   damage and decline with age, making regular mushroom
   consumption relevant to healthy aging strategies.
-- **Triterpenoids** — found primarily in polypore mushrooms
+- **Triterpenoids** — found primarily in [[growing-gourmet-polypore-mushrooms-cultivation-overview]]
   like reishi and turkey tail. These compounds exhibit
   anti-inflammatory, hepatoprotective, and potential anti-
   tumor activities through multiple molecular pathways.
@@ -88,16 +88,3 @@ availability and the concentration of bioactive compounds:
   beta-glucans that would otherwise pass through the
   digestive system unavailable to the human body.
 - **UV exposure for vitamin D** — placing fresh mushrooms
-  gill-side-up in direct sunlight for 15-120 minutes
-  converts ergosterol to vitamin D2. This simple
-  treatment can transform mushrooms into one of the
-  richest plant-source vitamin D foods available.
-- **Drying concentrates nutrients** — dried mushrooms have
-  much higher nutrient density per gram than fresh. One
-  ounce of dried shiitake contains approximately ten
-  times the B vitamins and minerals of one ounce fresh.
-- **Fat-soluble compound extraction** — triterpenoids and
-  some sterols require alcohol or oil-based extraction
-  for optimal bioavailability. Water-only cooking may
-  not fully release these lipid-soluble bioactive
-  compounds from the fungal tissue matrix.

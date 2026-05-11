@@ -5,6 +5,7 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka European Travels and Natural Farming Spread
@@ -87,11 +88,3 @@ Fukuoka's visit to a traditional windmill where Thomas's wheat was milled provid
 ### Hope in the Young
 - Young people across Europe were drawn to natural farming
 - Communal living experiments integrating natural agriculture
-- Willingness to adopt simple lifestyles and vegetarian diets
-
-## [[fukuoka-european-natural-farming]]
-
-- [[fukuoka-western-vs-japanese-attitudes]]
-- [[fukuoka-natural-orchard-management]]
-- [[fukuoka-road-back-clover-barley-rice-method]]
-- [[fukuoka-natural-diet-food-philosophy]]

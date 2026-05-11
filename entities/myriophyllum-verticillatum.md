@@ -20,7 +20,7 @@ sources:
 
 Myriophyllum verticillatum, commonly known as the whorled water milfoil, is a submerged aquatic plant in the family Haloragaceae.
 
-It is native to a broad range across Europe, Asia, and North America, where it grows in lakes, ponds, and slow-moving waterways.
+It is native to a broad range across Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]], where it grows in lakes, ponds, and slow-moving waterways.
 
 The species is characterized by its whorled, finely dissected leaves and emergent flower spikes that extend above the water surface.
 
@@ -28,9 +28,9 @@ Myriophyllum verticillatum is ecologically important as habitat structure for aq
 
 ## Taxonomy and Morphology
 
-Myriophyllum verticillatum was described by Linnaeus in 1753. The genus Myriophyllum contains approximately 60 species worldwide, with most occurring in aquatic habitats.
+Myriophyllum verticillatum was described by Linnaeus in 1753. The genus Myriophyllum contains approximately 60 species worldwide, with most occurring in [[biodiversity-fungi-freshwater-aquatic-habitats]].
 
-The species is distinguished from the invasive Myriophyllum spicatum by its floral bracts, which are shorter than the flowers, and by the presence of turions (overwintering buds).
+The species is distinguished from the invasive [[myriophyllum-spicatum]] by its floral bracts, which are shorter than the flowers, and by the presence of turions (overwintering buds).
 
 Stems are slender and branched, reaching lengths of 1 to 3 meters in favorable conditions.
 
@@ -54,7 +54,7 @@ In Europe, it occurs from Scandinavia to the Mediterranean, though it has declin
 
 In Asia, it ranges from Siberia through China to Japan.
 
-In North America, it is found across Canada and the northern United States, with scattered populations further south in mountainous areas.
+In North America, it is found across Canada and the northern [[dmt-containing-plants-united-states-halpern]], with scattered populations further south in mountainous areas.
 
 The species grows in standing or slow-moving freshwater, including lakes, ponds, marshes, canals, and backwaters of rivers.
 
@@ -68,7 +68,7 @@ Myriophyllum verticillatum is tolerant of a range of substrate types, from sand 
 
 Myriophyllum verticillatum reproduces both sexually and vegetatively.
 
-Sexual reproduction produces seeds that germinate in spring when water temperatures reach approximately 15 degrees Celsius.
+[[basidiomycete-mating-systems-sexual-reproduction]] produces seeds that germinate in spring when water temperatures reach approximately 15 degrees Celsius.
 
 Vegetative reproduction through stem fragmentation and turion formation is the primary means of spread within and between water bodies.
 
@@ -87,38 +87,3 @@ The plant is considered a moderate nutrient indicator, typically occurring in wa
 ## Invasive Potential and Management
 
 Myriophyllum verticillatum is less aggressively invasive than its relative Myriophyllum spicatum, but can form dense beds that interfere with recreation and water flow.
-
-Dense growth can reduce dissolved oxygen levels in stagnant water bodies, particularly during nighttime respiration.
-
-Management of nuisance populations typically involves mechanical harvesting, which provides temporary control but can promote fragmentation and spread.
-
-Herbicide treatments targeting milfoil species have been used with variable success.
-
-Biological control using herbivorous insects has been effective for Myriophyllum spicatum but has not been widely applied to M. verticillatum.
-
-Prevention of spread through cleaning of boating equipment and aquatic plant nursery stock is the most effective long-term management strategy.
-
-## Traditional and Ecological Uses
-
-Myriophyllum verticillatum has limited direct economic use but plays several important ecological roles.
-
-The species is used in constructed wetlands and stormwater treatment systems for its nutrient uptake capacity.
-
-It accumulates nitrogen and phosphorus from the water column, contributing to water quality improvement.
-
-In ecological assessment, the presence and abundance of Myriophyllum verticillatum is used as an indicator of moderate trophic status.
-
-Some traditional uses of related Myriophyllum species in herbal medicine exist, but M. verticillatum itself is not widely documented in ethnobotanical literature.
-
-The plant is cultivated in aquaria for its attractive feathery foliage, though it is less common in the ornamental aquatic plant trade than tropical Myriophyllum species.
-
-## See Also
-
-- [[myriophyllum-spicatum]]
-- [[ceratophyllum-demersum]]
-- [[elodea-canadensis]]
-- [[elodea-nuttallii]]
-- [[hydrilla-verticillata]]
-- [[potamogeton-crispus]]
-- [[nymphaea-alba]]
-- [[lemna-minor]]

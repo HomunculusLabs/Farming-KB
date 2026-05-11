@@ -1,5 +1,5 @@
 ---
-title: Solomon solomon garden hoe and cultivation techniques and Cultivation Techniques
+title: [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Hoe And [[cannabis-sativa-indoor-cultivation-techniques]]
 created: 2026-04-26
 updated: 2026-04-23
 sources:
@@ -87,21 +87,3 @@ Spring requires the most frequent attention -- weeds grow rapidly and
 wet weather may keep you out of action, allowing weeds to reach the
 size demanding exhausting chopping rather than easy scraping. As summer
 wanes, weeding frequency decreases.
-
-## Weeding Compacted Soil
-
-For compacted earth (including paths), hold the handle slightly below
-horizontal, one hand halfway down, the other pulling the blade toward
-you. The sharp blade still cuts small weeds, working like a scraper.
-
-## Additional Hoe Uses
-
-- **Chopping resistant weeds**: Use the corner of the blade swung like
-  a mattock. Only works when the corner is a proper right angle and
-  sharp.
-- **Making furrows**: Pull the blade through soil for seeding furrows.
-  With practice, depth is quite uniform -- critical for even
-  [[garden-hand-tools-solomon]]
-- [[solomon-raised-beds-and-bed-preparation]]
-- [[deep-bed-cultivation]]
-- [[intensive-gardening-critique-solomon]]

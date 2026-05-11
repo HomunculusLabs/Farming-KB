@@ -8,9 +8,9 @@ title: DOC
 
 DOC (2,5-dimethoxy-4-chloroamphetamine) is a potent psychedelic amphetamine belonging to the DOx family of substituted amphetamines. It is one of the most well-known and widely encountered members of this class, which also includes DOI, DOB, and DOM. The compound is distinguished by its combination of a chloro substituent at the four-position of the phenyl ring with methoxy groups at the two and five positions.
 
-DOC was first synthesized by Alexander Shulgin and described in his book "PiHKAL: A Chemical Love Story" (Phenethylamines I Have Known and Loved). Shulgin reported a full active dose range of 1.5 to 3.0 milligrams and noted its characteristically long duration of action, with effects lasting 12 to 24 hours. The compound quickly gained recognition in the psychedelic community as one of the most potent orally active phenethylamine derivatives.
+DOC was first synthesized by [[alexander-shulgin]] and described in his book "PiHKAL: A Chemical Love Story" (Phenethylamines I Have Known and Loved). Shulgin reported a full active dose range of 1.5 to 3.0 milligrams and noted its characteristically long duration of action, with effects lasting 12 to 24 hours. The compound quickly gained recognition in the psychedelic community as one of the most potent orally active phenethylamine derivatives.
 
-The pharmacological activity of DOC is primarily mediated through agonism at the 5-HT2A serotonin receptor, the same receptor responsible for the psychedelic effects of LSD and psilocybin. DOC exhibits high binding affinity for this receptor, which accounts for its potency at very low doses. The compound also shows activity at other serotonin receptor subtypes, contributing to its complex pharmacological and subjective effect profile.
+The pharmacological activity of DOC is primarily mediated through agonism at the 5-HT2A [[serotonin-receptor-interference-psychedelic-mechanism]], the same receptor responsible for the psychedelic effects of LSD and psilocybin. DOC exhibits high binding affinity for this receptor, which accounts for its potency at very low doses. The compound also shows activity at other serotonin receptor subtypes, contributing to its complex pharmacological and subjective effect profile.
 
 The extremely long duration of DOC effects represents both its most distinctive characteristic and its greatest practical liability. Users frequently underestimate the duration, leading to difficult experiences when effects persist well beyond the expected timeframe. The extended duration also means that adverse effects, once they begin, may continue for many hours without the possibility of early termination. This characteristic has made DOC one of the more challenging psychedelics to use responsibly.
 
@@ -28,9 +28,9 @@ The molecule is built on an amphetamine core with three substituents on the phen
 
 The hydrochloride salt of DOC is a white crystalline solid with moderate water solubility. The freebase form is an oily liquid. The compound has a calculated log P of approximately 3.0 for the freebase, indicating substantial lipophilicity that supports efficient blood-brain barrier penetration. The methoxy and chloro substituents both contribute to the compound's overall lipophilicity and metabolic stability.
 
-The SMILES notation for DOC is CC(N)CC1=C(OC)C=C(C=C1OC)Cl, encoding the complete substitution pattern on the aromatic ring. The electron-donating methoxy groups and the electron-withdrawing chlorine create a push-pull electronic system across the aromatic ring, which influences both receptor binding affinity and the compound's susceptibility to metabolic degradation by cytochrome P450 enzymes.
+The SMILES notation for DOC is CC(N)CC1=C(OC)C=C(C=C1OC)Cl, encoding the complete substitution pattern on the aromatic ring. The electron-donating methoxy groups and the electron-withdrawing chlorine create a push-pull electronic system across the aromatic ring, which influences both [[beta-glucan-receptor-binding]] affinity and the compound's susceptibility to metabolic degradation by cytochrome P450 enzymes.
 
-DOC is stable under normal storage conditions when protected from light and moisture. The compound is not volatile and does not decompose at room temperature. Forensic identification is accomplished using gas chromatography-mass spectrometry, with characteristic fragment ions at m/z 214 (molecular ion minus methyl), 199, 182, and 167. Liquid chromatography methods provide improved sensitivity for biological sample analysis.
+DOC is stable under normal [[spawn-storage-conditions]] when protected from light and moisture. The compound is not volatile and does not decompose at room temperature. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is accomplished using gas chromatography-mass spectrometry, with characteristic fragment ions at m/z 214 (molecular ion minus methyl), 199, 182, and 167. Liquid chromatography methods provide improved sensitivity for biological sample analysis.
 
 Synthesis of DOC follows the general route for DOx compounds, involving reductive amination of the appropriately substituted propiophenone precursor. The synthesis requires 4-chloro-2,5-dimethoxyphenyl-2-propanone, which is prepared through a multi-step sequence starting from commercially available 2,5-dimethoxybenzaldehyde. The synthetic pathway requires moderate organic chemistry expertise but is accessible to clandestine laboratories.
 
@@ -38,17 +38,17 @@ The key intermediate, 4-chloro-2,5-dimethoxybenzaldehyde, can be prepared by chl
 
 ## Pharmacology
 
-DOC acts primarily as a potent agonist at the 5-HT2A serotonin receptor, with additional activity at 5-HT2B and 5-HT2C receptor subtypes. The 5-HT2A agonism is responsible for the compound's psychedelic effects, including visual hallucinations, altered perception, and changes in thought patterns. The binding affinity of DOC at 5-HT2A is among the highest of the classical psychedelic phenethylamines.
+DOC acts primarily as a potent agonist at the 5-HT2A serotonin receptor, with additional activity at 5-HT2B and 5-HT2C receptor subtypes. The 5-HT2A agonism is responsible for the compound's psychedelic effects, including visual hallucinations, altered perception, and changes in thought patterns. The binding affinity of DOC at 5-HT2A is among the highest of the classical [[optical-isomers-psychedelic-phenethylamines]].
 
 Radioligand binding studies have demonstrated that DOC has a Ki value in the low nanomolar range at the 5-HT2A receptor, comparable to or exceeding that of LSD. The compound shows approximately 10-fold selectivity for 5-HT2A over 5-HT2C and variable affinity for 5-HT2B. The 5-HT2B activity is of concern because chronic agonism at this receptor has been associated with valvular heart disease, though the acute use pattern of DOC makes this a theoretical rather than practical risk.
 
 The methoxy groups at positions 2 and 5 of the phenyl ring are critical for high-affinity 5-HT2A binding, as established by extensive structure-activity relationship studies across the phenethylamine class. The 4-substituent modulates both potency and duration, with larger halogens (iodine in DOI, bromine in DOB) generally producing longer durations but similar potencies. The chlorine in DOC occupies a middle position in this series, providing high potency with a somewhat shorter duration than DOI or DOB.
 
-DOC also exhibits weak releasing activity at serotonin and dopamine transporters, though this effect is minimal at psychedelic doses and contributes little to the overall subjective experience. The compound does not function as a reuptake inhibitor at clinically relevant concentrations. Its pharmacology is overwhelmingly dominated by direct serotonin receptor agonism rather than the indirect transporter-mediated mechanisms characteristic of classical amphetamines.
+DOC also exhibits weak releasing activity at serotonin and dopamine transporters, though this effect is minimal at psychedelic doses and contributes little to the overall [[dosage-unpredictability-psilocybin-subjective-experience]]. The compound does not function as a reuptake inhibitor at clinically relevant concentrations. Its pharmacology is overwhelmingly dominated by direct serotonin receptor agonism rather than the indirect transporter-mediated mechanisms characteristic of classical amphetamines.
 
 The onset of DOC's psychedelic effects correlates with the time required for the drug to cross the blood-brain barrier and reach sufficient receptor occupancy at 5-HT2A sites. The slow elimination and high receptor affinity contribute to the characteristically long duration. The slow dissociation rate of DOC from the 5-HT2A receptor may be a significant factor in the extended duration of action compared to shorter-acting psychedelics such as psilocybin.
 
-Functional assays measuring calcium mobilization and inositol phosphate accumulation have confirmed that DOC acts as a full agonist at 5-HT2A, producing maximal receptor activation comparable to that of serotonin itself. The efficacy of DOC at 5-HT2A is higher than that of many other psychedelic phenethylamines, which may contribute to the intensity of the subjective experience at relatively low doses. This high intrinsic activity distinguishes DOC from partial agonists that produce milder effects even at saturating receptor occupancy.
+Functional assays measuring calcium mobilization and inositol phosphate accumulation have confirmed that DOC acts as a full agonist at 5-HT2A, producing maximal receptor activation comparable to that of serotonin itself. The efficacy of DOC at 5-HT2A is higher than that of many other [[psychedelic-phenethylamines-and-pihkal]], which may contribute to the intensity of the subjective experience at relatively low doses. This high intrinsic activity distinguishes DOC from partial agonists that produce milder effects even at saturating receptor occupancy.
 
 ## Effects
 
@@ -60,7 +60,7 @@ Cognitive effects include profound alterations in thought patterns, ego dissolut
 
 Physical effects include mydriasis, increased heart rate, elevated blood pressure, mild hyperthermia, increased perspiration, and reduced appetite. Pupil dilation is typically pronounced and may persist for the entire duration of the experience. Nausea is sometimes reported during the onset phase but usually subsides as peak effects are reached. Vasoconstriction may produce cold extremities in some users.
 
-The active dose range for DOC is exceptionally narrow by psychedelic standards. Threshold effects begin at approximately 0.5 mg, with a light dose at 1.0 to 1.5 mg, a common dose at 1.5 to 2.5 mg, and a strong dose at 2.5 to 4.0 mg. Doses above 4.0 mg are considered high and carry significant risk of overwhelming psychological effects. The difference between a comfortable experience and an overwhelmingly intense one may be as little as 1 milligram.
+The active dose range for DOC is exceptionally narrow by psychedelic standards. Threshold effects begin at approximately 0.5 mg, with a light dose at 1.0 to 1.5 mg, a common dose at 1.5 to 2.5 mg, and a strong dose at 2.5 to 4.0 mg. Doses above 4.0 mg are considered high and carry significant risk of overwhelming [[hallucinogenic-mushroom-acute-psychological-effects-and-bad-trips]]. The difference between a comfortable experience and an overwhelmingly intense one may be as little as 1 milligram.
 
 Adverse effects include anxiety, paranoia, confusion, and in severe cases, prolonged psychotic episodes. The risk of a difficult experience is elevated by the long duration, as users cannot simply "wait out" the effects in the same way they might with shorter-acting psychedelics. HPPD (hallucinogen persisting perception disorder) has been anecdotally associated with DOx compounds, though the incidence is not well quantified.
 
@@ -68,7 +68,7 @@ Set and setting are particularly important determinants of the DOC experience du
 
 ## Toxicology
 
-The acute toxicity of DOC is primarily mediated through excessive 5-HT2A stimulation, though serotonergic effects are generally considered less physiologically dangerous than the cardiovascular toxicity associated with stimulant amphetamines. The most significant acute risk is psychological, including severe anxiety, panic reactions, and prolonged psychosis. Cardiovascular effects including tachycardia and hypertension are generally manageable in healthy individuals but may pose risks to those with pre-existing cardiac conditions.
+The acute toxicity of DOC is primarily mediated through excessive 5-HT2A stimulation, though serotonergic effects are generally considered less physiologically dangerous than the cardiovascular toxicity associated with stimulant amphetamines. The most significant acute risk is psychological, including severe anxiety, panic reactions, and prolonged psychosis. [[blesching-cannabis-hypertension-cardiovascular-effects]] including tachycardia and hypertension are generally manageable in healthy individuals but may pose risks to those with pre-existing cardiac conditions.
 
 Hyperthermia has been reported with DOC use, particularly in settings involving physical activity and warm environments. While the hyperthermic potential of DOC is substantially less than that of stimulant drugs such as MDMA, the combination of 5-HT2A agonism and mild sympathomimetic activity can produce significant temperature elevation. Severe hyperthermia is rare but has been documented in case reports involving high doses or polydrug use.
 
@@ -84,25 +84,6 @@ Drug interactions of particular concern include serotonergic agents, which may i
 
 ## History and Related Compounds
 
-DOC was first synthesized by Alexander Shulgin and introduced to the public through PiHKAL, published in 1991. Shulgin assigned the compound the number 34 in his phenethylamine numbering system. In his entry, Shulgin described the synthesis, dosage range, and qualitative effects of DOC, noting its high potency and long duration as distinguishing characteristics.
+DOC was first synthesized by Alexander Shulgin and introduced to the public through PiHKAL, published in 1991. Shulgin assigned the compound the number 34 in his phenethylamine numbering system. In his entry, Shulgin described the synthesis, dosage range, and [[mdma-qualitative-effects-phenomenology]] of DOC, noting its high potency and long duration as distinguishing characteristics.
 
-The compound remained relatively obscure until the early 2000s, when it began appearing in recreational drug markets alongside other DOx compounds. DOC was frequently encountered on blotter paper sold as LSD, a misrepresentation that created significant risk due to the very different dose requirements and duration of the two substances. Several incidents of DOC being sold as LSD at music festivals and events were documented by harm-reduction organizations.
-
-The DOx family to which DOC belongs is a well-characterized class of psychedelic amphetamines. DOM (2,5-dimethoxy-4-methylamphetamine, also known as "STP") was the first member to gain widespread recognition as a recreational drug in the 1960s. DOI (2,5-dimethoxy-4-iodoamphetamine) and DOB (2,5-dimethoxy-4-bromoamphetamine) are close structural analogues with similar psychedelic effects but different potencies and durations.
-
-The structure-activity relationships of the DOx class have been extensively studied. The 2,5-dimethoxy substitution pattern is essential for psychedelic activity, while the 4-position substituent modulates potency, duration, and character of the experience. The halogen series (DOC, DOB, DOI) shows a trend toward increasing molecular weight and lipophilicity with halogen size, which correlates with increasing duration of action. Non-halogen substituents such as the methyl group in DOM produce shorter-acting compounds.
-
-DOC occupies a middle position in the DOx halogen series in terms of both potency and duration. It is slightly less potent than DOI on a milligram basis but has a somewhat shorter duration. This pharmacological profile has made DOC one of the more commonly encountered DOx compounds in recreational markets, as its duration, while still very long, is somewhat more manageable than that of DOI. The compound continues to appear sporadically in drug monitoring programs worldwide.
-
-## See Also
-
-- [[dom]]
-- [[lsd]]
-- [[2c-b]]
-- [[2c-e]]
-- [[2c-i]]
-- [[mescaline]]
-- [[mdma]]
-- [[psilocybin]]
-- [[dmt]]
-- [[cocaine]]
+The compound remained relatively obscure until the early 2000s, when it began appearing in recreational drug markets alongside other DOx compounds. DOC was frequently encountered on blotter paper sold as LSD, a misrepresentation that created significant risk due to the very different dose requirements and duration of the two substances. Several incidents of DOC being sold as LSD at music [[mushroom-festivals-and-events]] were documented by harm-reduction organizations.

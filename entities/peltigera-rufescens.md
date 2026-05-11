@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Vitikainen, O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of North America. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens [[berry-growing]]. Yale University Press.
   - Goward, T., McCune, B., Meidinger, D. (1994). The Lichens of British Columbia. Ministry of Forests.
   - Miadlikowska, J. et al. (2003). "Phylogenetic relationships of Peltigerales." Mycologia 95(2): 275-288.
 ---
@@ -21,9 +21,9 @@ sources:
 
 Peltigera rufescens, commonly known as the field dog lichen or the scaly pelt, is a large foliose lichen in the family Peltigeraceae. It is a cyanolichen, associating with Nostoc cyanobacteria as its primary photobiont.
 
-The species is widely distributed across boreal and temperate regions of the Northern Hemisphere. It grows predominantly on soil, moss, and occasionally on rock in open, well-lit habitats.
+The species is widely distributed across boreal and [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of the Northern Hemisphere. It grows predominantly on soil, moss, and occasionally on rock in open, well-lit habitats.
 
-Peltigera rufescens is ecologically significant as a biological nitrogen fixer. Its cyanobacterial partner converts atmospheric nitrogen into forms available to surrounding organisms, enriching nutrient-poor soils.
+Peltigera rufescens is ecologically significant as a [[biological-nitrogen-fixation-agriculture]] fixer. Its cyanobacterial partner converts atmospheric nitrogen into forms available to surrounding organisms, enriching nutrient-poor soils.
 
 ## Taxonomy and Morphology
 
@@ -39,7 +39,7 @@ The upper surface is grayish-brown to dark brown when dry, becoming greenish whe
 
 The lower surface is densely tomentose with pale tan to dark brown rhizines. A network of raised veins is visible on the lower surface, particularly in well-hydrated specimens.
 
-These veins function as structural support and water transport channels within the thallus. The rhizines anchor the thallus to the substrate and assist in water absorption from the soil surface.
+These veins function as [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and water transport channels within the thallus. The rhizines anchor the thallus to the substrate and assist in water absorption from the soil surface.
 
 Apothecia are common, developing along the lobe margins. They are saddle-shaped, reddish-brown, and measure 2 to 8 millimeters in diameter with slightly raised margins.
 
@@ -71,7 +71,7 @@ As a cyanolichen, Peltigera rufescens fixes atmospheric nitrogen through its Nos
 
 This nitrogen input benefits surrounding plant communities, particularly in nutrient-poor heathland and moorland ecosystems. The lichen effectively serves as a slow-release fertilizer for associated vegetation.
 
-The species provides habitat and shelter for various soil invertebrates, including mites, springtails, and nematodes. These organisms contribute to decomposition and nutrient cycling within the lichen mat.
+The species provides habitat and shelter for various soil invertebrates, including mites, springtails, and nematodes. These organisms contribute to decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]] within the lichen mat.
 
 Peltigera rufescens is moderately sensitive to air pollution and habitat disturbance. It has declined in parts of central Europe due to atmospheric nitrogen deposition and land-use changes.
 
@@ -85,37 +85,6 @@ The species serves as a bioindicator of habitat quality in heathland and moorlan
 
 ## Chemistry
 
-Peltigera rufescens contains tenuiorin as its primary secondary metabolite. It also produces methyl tenuiorin and smaller quantities of gyrophoric acid in some populations.
+Peltigera rufescens contains tenuiorin as its primary [[fungal-elicitors-enhanced-secondary-metabolite-production]]. It also produces methyl tenuiorin and smaller quantities of gyrophoric acid in some populations.
 
 Spot tests show the medulla KC+ yellow to orange, confirming the presence of tenuiorin. The cortex is typically C-negative and K-negative.
-
-The species does not contain atranorin, distinguishing it from some other Peltigera species. Chemical analysis by thin-layer chromatography is useful for confirming identification.
-
-Extracts of Peltigera rufescens have shown weak antimicrobial and antioxidant activity in laboratory studies. These properties are attributed to the depsidone compounds present in the medulla.
-
-Traditional use of Peltigera species in folk medicine has been documented in several cultures. Peltigera rufescens was occasionally used as a wound dressing and for treating lung ailments.
-
-## Similar Species
-
-Peltigera canina is the most similar species, but has narrower, more elongated lobes with a distinctive warted upper surface. Peltigera canina also prefers more calcareous substrates.
-
-Peltigera membranacea has a smoother upper surface and wider lobes with less prominent marginal phyllidia. It typically grows on moss over rock rather than soil.
-
-Peltigera leucophlebia has a white to cream lower surface and contains lecanoric acid rather than tenuiorin. It is generally found in more shaded, humid forest habitats.
-
-Peltigera horizontalis forms smaller thalli with distinctly horizontal growth habits. It contains methyl gyrophorate and typically grows on damp soil and mossy rocks.
-
-Peltigera praetextata is distinguished by its tomentose upper surface and preference for more shaded, forested habitats. It also contains different secondary metabolites including praetextatin.
-
-## See Also
-
-- [[peltigera-canina]]
-- [[peltigera-leucophlebia]]
-- [[peltigera-membranacea]]
-- [[peltigera-horizontalis]]
-- [[lobaria-pulmonaria]]
-- [[nostoc-commune]]
-- [[nephroma-arcticum]]
-- [[cladonia-rangiferina]]
-- [[pleurozium-schreberi]]
-- [[sphagnum-palustre]]

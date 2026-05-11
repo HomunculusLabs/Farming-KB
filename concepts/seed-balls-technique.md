@@ -6,6 +6,7 @@ type: concept
 tags: [seeds, gardening]
 sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Seed Balls (Tsuchi Dango)
@@ -87,14 +88,3 @@ Do not scatter during prolonged dry periods -- seeds will sit dormant and may be
 ### Food Production (see [[guerilla-gardening-tactics-methods]] because:
 
 - No tools required -- carry in pockets and toss into vacant lots
-- No visible soil disturbance -- looks natural
-- Multiple species create self-sustaining plant communities
-- Low cost per area covered
-
-Scatter at a rate of approximately 10-20 balls per square meter for revegetation. For food gardens, increase density to 20-50 per square meter.
-
-## Related
-
-- [[fukuoka-rice-barley-no-till-method]]
-- [[fukuoka-white-clover-ground-cover]]
-- [[comparison-tissue-culture-vs-seed-saving]]

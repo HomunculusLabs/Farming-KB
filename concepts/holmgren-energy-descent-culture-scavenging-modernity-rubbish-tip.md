@@ -1,7 +1,7 @@
 ---
-title: Energy Descent Culture — Scavenging, Modernity, and the Rubbish Tip of History
+title: Holmgren Energy Descent Culture Scavenging Modernity Rubbish Tip
 source: david-holmgren-permaculture-principles-pathways-beyon.md
-author: David Holmgren
+author: [[david-holmgren]]
 topics: [permaculture, energy-descent, culture, scavenging, modernity, industrial-civilization, peak-oil]
 ---
 
@@ -18,7 +18,7 @@ deriving sustenance from what that civilization discards.
 
 Holmgren locates the current crisis within what he terms the "second industrial
 revolution" — the fossil-fuel-powered transformation that began in earnest in
-the late nineteenth century. This revolution did not merely augment human
+the late [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]]. This revolution did not merely augment human
 productive capacity; it fundamentally reorganized the relationship between
 human societies and the natural world.
 
@@ -51,7 +51,7 @@ Examples of design cul-de-sacs include:
   energy in the form of fertilizers, pesticides, and mechanization
 - **Globalized supply chains**: Efficient only when transport energy is cheap
   and reliable
-- **Air conditioning**: Transforms architecture from passive climate control to
+- **Air conditioning**: Transforms architecture from passive [[mollison-pdc-trellis-systems-climate-control]] to
   active energy consumption, creating dependency
 - **Digital infrastructure**: Increasingly energy-intensive, creating new
   dependencies even as it enables efficiency gains elsewhere
@@ -65,7 +65,7 @@ in configurations that cannot adapt.
 Perhaps the most counterintuitive element of Holmgren's energy descent vision
 is his embrace of scavenging — the systematic recovery and reuse of materials,
 infrastructure, and knowledge from the declining industrial system. This is
-not merely a survival strategy but a design principle: the detritus of
+not merely a survival strategy but a [[design-principle-integration]]: the detritus of
 industrial civilization represents an enormous stock of embodied energy and
 resources that can be redirected toward low-energy futures.
 
@@ -88,54 +88,3 @@ Holmgren's concept of scavenging encompasses several levels:
 Holmgren's metaphor of modernity as a "rubbish tip of history" captures the
 paradox of industrial civilization: its extraordinary productivity has created
 material abundance that is simultaneously its most valuable legacy and its
-most problematic inheritance. The question is not whether this abundance will
-be available to future generations but how they will use it.
-
-The rubbish tip contains not just waste but also:
-
-- High-quality materials that required enormous energy to produce
-- Built infrastructure that can be adapted to lower-energy uses
-- Technical knowledge encoded in books, tools, and machines
-- Biological resources — seeds, livestock breeds, soil microbiomes — that
-  represent centuries of selection and adaptation
-
-The energy descent designer's task is to see the rubbish tip not as a problem
-to be cleaned up but as a resource to be mined.
-
-## Cultural Dimensions of Descent
-
-Holmgren insists that energy descent is fundamentally a cultural phenomenon,
-not merely a technical one. The values, expectations, and identities formed
-during the era of energy ascent must be transformed to fit the conditions of
-descent. This involves:
-
-- **Revaluing manual labor**: Moving from the industrial-era association of
-  manual work with low status to a recognition of its essential role in
-  sustainable production
-- **Redefining prosperity**: Shifting from quantitative measures (GDP, material
-  throughput) to qualitative measures (health, community, ecological
-  integrity)
-- **Rebuilding local economies**: Creating economic systems that function at
-  human scale without dependence on global supply chains
-- **Cultivating new aesthetics**: Developing standards of beauty that reflect
-  low-energy living rather than energy-intensive consumption
-
-## Permaculture as Descent Culture
-
-Holmgren ultimately argues that permaculture is not merely a set of
-agricultural techniques but the cultural foundation for energy descent. Its
-principles — observation, integration, small-scale solutions, biological
-resources — are precisely the principles needed to navigate the transition
-from energy ascent to energy descent.
-
-The permaculture designer working in the context of energy descent is not a
-survivalist retreating from civilization but a cultural pioneer, building the
-new patterns that will replace those of the fossil-fuel era.
-
-## See Also
-
-- [[holmgren-energy-descent-planning]]
-- [[holmgren-energy-descent-action-plan]]
-- [[holmgren-design-cul-de-sacs]]
-- [[holmgren-use-small-and-slow-solutions]]
-- [[holmgren-creatively-use-and-respond-to-change]]

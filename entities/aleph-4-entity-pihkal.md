@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # ALEPH-4
 
-PIHKAL entry #5. 4-Isopropylthio-2,5-dimethoxy-A.
+[[2c-b-pihkal-entry-20]] #5. 4-Isopropylthio-2,5-dimethoxy-A.
 
 ## Dosage and Duration
 
@@ -88,21 +88,3 @@ boiling 95% EtOH, filtering and air drying to constant weight, there
 was obtained 1.6 g of orange crystals with a mp of 99-100 deg C.
 
 A suspension of 1.0 g LAH in 100 mL warm THF was stirred under a N2
-atmosphere and heated to a gentle reflux. To this there was added,
-dropwise, a solution of 1.2 g
-1-(2,5-dimethoxy-4-(i)-propylthiophenyl)-2-nitropropene in 20 mL
-anhydrous THF. This mixture was held at reflux for 1 day, then
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[aleph-2-entity-pihkal]]
-- [[aleph-7-entity-pihkal]]
-
-- PIHKAL (the source book)
-- [[aleph-6-entity-pihkal]] -- ALEPH-6 (PIHKAL #6)

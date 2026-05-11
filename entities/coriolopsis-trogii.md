@@ -87,28 +87,3 @@ C. trogii is not considered edible. The tough, corky consistency of the basidioc
 ## Ecological Role
 
 As a white-rot decomposer, C. trogii plays a significant role in carbon cycling in forest ecosystems. It preferentially degrades lignin over cellulose, leaving behind bleached, cellulose-rich wood residues. This process facilitates subsequent colonization by cellulolytic organisms.
-
-The fungus contributes to nutrient turnover in tropical and subtropical forests where hardwood decomposition rates are a key driver of ecosystem productivity. Its enzymatic system can break down complex phenolic polymers that resist degradation by most other organisms.
-
-C. trogii interacts with other wood-inhabiting microorganisms through competitive and facilitative relationships. It frequently co-occurs with [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] and other white-rot species on the same substrate, forming successional communities.
-
-Sporocarp formation is influenced by seasonal humidity and temperature fluctuations. In subtropical regions, fruiting occurs primarily during warm, wet months, with basidiocarps persisting for several months in favorable conditions.
-
-## Related Species
-
-- **Trametes versicolor** — Close relative with similar bioremediation applications; more widely studied and commercially cultivated for medicinal use.
-- **Coriolopsis gallica** — European counterpart, similar morphology but with smaller pores and more restricted distribution.
-- **Fomes fomentarius** — Tinder conk, another polyporaceae white-rot fungus with medicinal and utility applications.
-- **Lenzites betulina** — Gilled polypore that occupies similar ecological niches on hardwood; distinct gill-like hymenophore.
-- **Daedaleopsis confragosa** — Thin-maze polypore commonly found on the same hardwood substrates; differentiated by the daedaleoid (maze-like) pore surface and darker coloration.
-
-## See Also
-
-- [[fomes-fomentarius]]
-- [[poria-cocos]]
-- [[laetiporus-sulphureus]]
-- [[ergothioneine]]
-- [[wolfiporia-extensa]]
-- [[suillus-luteus]]
-- [[boletus-edulis-entity]]
-- [[grifola-frondosa]]

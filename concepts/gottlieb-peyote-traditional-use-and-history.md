@@ -1,5 +1,5 @@
 ---
-title: "[[gottlieb-peyote-cultivation-from-seed]] traditional use and history Use and History"
+title: Gottlieb Peyote Traditional Use And History
 created: 2026-04-26
 updated: "2026-04-24"
 sources:
@@ -33,7 +33,7 @@ practices:
 
 For ages the Huichol Indians have rubbed the juices of fresh peyote into wounds to
 prevent infection and to promote healing. This practice is supported by the finding
-that hordenine and tyramine (alkaloids present in peyote) possess antibacterial
+that [[hordenine]] and tyramine (alkaloids present in peyote) possess antibacterial
 activity due to their phenolic function.
 
 ### Two Sacred Forms
@@ -80,7 +80,7 @@ substitutes for peyote:
 ### Peyotillo (Pelecyphora aselliformis)
 
 Also known as the hatchet cactus because of its oddly flattened tubercles. Found in
-San Luis Potosi. Contains traces of mescaline too minute to have any effect, plus
+San Luis Potosi. Contains traces of [[mescaline]] too minute to have any effect, plus
 small amounts of several other alkaloids.
 
 ### Tsuwiri / False Peyote (Ariocarpus retusus)
@@ -88,30 +88,3 @@ small amounts of several other alkaloids.
 Known as Chautle or Chaute among some tribes. Contains hordenine, N-methyltryamine,
 and traces of other alkaloids. The amounts appear insufficient for psychopharmacological
 response.
-
-### Sunami (Ariocarpus fissuratus)
-
-Used in folkloric medicine of Mexico and southwestern USA. Believed to be more potent
-than peyote. Known as Chaute, living rock, or dry whiskey. Contains mostly hordenine
-with lesser amounts of other alkaloids.
-
-### Donana (Coryphantha macromeris)
-
-Contains macromerine, a phenethylamine drug with about 1/5 the potency of mescaline.
-Also contains normacromerine, tyramine, hordenine, and other alkaloids. Given the low
-macromerine content (about 0.1%), one would need to consume more than a kilo of dried
-cactus for an effect, making extraction necessary.
-
-### Dolichothele Species
-
-Several tribes use Dolichothele species (D. baumii, D. longimamma, D. melalenca,
-D. sphaerica, D. surculosa, D. uberiforma) as peyote-like sacraments. These contain
-small amounts of N-methylphenethylamine, synephrine, hordenine, and dolichotheline.
-
-### Other Substitutes
-
-The Tarahumares also use:
-
-## See Also
-
-- [[gottlieb-peyote-botany-and-mescaline-content]]

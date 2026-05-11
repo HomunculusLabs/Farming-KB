@@ -20,7 +20,7 @@ type: query
 Mycorrhizal inoculants are products containing beneficial fungi that form a symbiotic relationship with cannabis roots. The fungi extend hyphal networks into the soil, dramatically increasing the root system's effective surface area for nutrient and water uptake. In return, the plant feeds the fungus carmycorrhizal-fungied through photosynthesis. This mutualism can improve vigor, [[dighton-fungal-drought-tolerance-plant-water-relations]], and nutrient efficiency — especially phosphorus uptake, which mycorrhizae excel at solubilizing.
 [[arbuscular-mycorrhizal-fungi]] (AMF)** are the primary group used with cannabis. Endomycorrhizal species such as *Rhizophagus irregularis* (formerly *Glomus intraradices*), *Funneliformis mosseae*, and *Glomus aggregatum* colonize root cells internaectomycorrhizal-fungies — tree-like structures inside root cortical cells where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. Cannabis is a broadleaf annual that readily forms associations with AMF under the right conditions.
 
-[[soil-food-web]] that cycles nutrients to the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]].
+[[soil-foodweb]] that cycles nutrients to the [[mycelium-running-mycelium-natures-internet-fungal-network-theory]].
 
 Avoid combining mycorrhizal inoculants with products containing high concentrations of soluble nutrients or harsh biological controls in the same application.
 

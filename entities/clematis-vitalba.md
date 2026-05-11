@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - "Walters, S.M. (1993). Clematis vitalba. In: Flora Europaea, Vol. 1. Cambridge University Press."
   - "RHS (2023). Clematis vitalba. Royal Horticultural Society."
-  - "Sheppard, A. et al. (2006). \"Biology and host range of the European clematis.\" Biocontrol, 51, 1–18."
+  - "Sheppard, A. et al. (2006). \"Biology and [[powdery-mildews-erysiphaceae-diversity-host-range]] of the European clematis.\" Biocontrol, 51, 1–18."
 ---
 
 # Clematis vitalba (Old Man's Beard)
@@ -21,7 +21,7 @@ Clematis vitalba is a deciduous, perennial climbing vine in the family Ranuncula
 
 It is commonly known as old man's beard for the distinctive silky, feathery seed heads that persist through winter.
 
-The species is a vigorous scrambler capable of smothering trees and shrubs in its native and introduced ranges.
+The species is a vigorous scrambler capable of smothering [[nitrogen-fixing-trees-and-shrubs]] in its native and introduced ranges.
 
 C. vitalba is considered an invasive weed in New Zealand and parts of [[psilocybin-north-america-pacific-northwest]].
 
@@ -33,7 +33,7 @@ C. vitalba is considered an invasive weed in New Zealand and parts of [[psilocyb
 - **Genus:** Clematis
 - **Species:** C. vitalba
 - **Authority:** L. (1753)
-- **Synonyms:** Clematis integrifolia var. integrifolia
+- **Synonyms:** [[clematis-integrifolia]] var. integrifolia
 
 Stems are slender, ribbed, and climb by means of twisting leaf petioles around supports.
 
@@ -65,11 +65,11 @@ It prefers partial shade but grows aggressively in full sun at forest margins.
 
 In the [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]], it has become naturalized and invasive in New Zealand since the early 1900s.
 
-It is also naturalized in parts of the Pacific Northwest of North America.
+It is also naturalized in parts of the Pacific Northwest [[berry-growing]].
 
 ## Cultivation
 
-Old man's beard is hardy to USDA zones 5–9 and is adaptable to most garden soils.
+Old man's beard is hardy to USDA zones 5–9 and is adaptable to most [[ph-and-nutrient-availability-garden-soils]].
 
 Propagation is typically by seed (stratification required) or semi-hardwood cuttings in late summer.
 
@@ -88,35 +88,3 @@ The ornamental value is primarily in the fluffy seed heads rather than the modes
 In its native range, C. vitalba provides late-season nectar for bees, hoverflies, and butterflies.
 
 The dense foliage offers nesting habitat and cover for small birds.
-
-Several moth larvae feed on the leaves, including the UK Biodiversity Action Plan species Hypena obsitalis.
-
-In New Zealand, the vine forms dense mats that smother canopy trees and suppress regeneration.
-
-Its weight can break branches and bring down entire trees in infested forests.
-
-Seed dispersal is by wind, with the feathery achenes traveling considerable distances.
-
-## Cultural Significance
-
-C. vitalba was historically used in basket weaving and rope making in rural Europe.
-
-The flexible, woody stems were split and woven into bindings and simple furniture.
-
-In European folk medicine, a poultice of the leaves was applied to skin inflammations and rheumatic joints.
-
-All parts of the plant contain protoanemonin, an irritant compound that can cause blistering on contact.
-
-The plant appears in several European folk traditions as a symbol of endurance and old age.
-
-It was included in medieval herbals as a treatment for varicose veins and ulcers, though efficacy is unverified.
-
-## See Also
-
-- [[clematis-montana]]
-
-- [[paeonia-lactiflora]] — herbaceous peony, a fellow Ranunculaceae member with ornamental flowers
-- [[lonicera-japonica]] — Japanese honeysuckle, another vigorous climbing vine with invasive potential
-- [[campsis-radicans]] — trumpet vine, a woody climber used for large-scale garden structures
-- rosa-canina — dog rose, a scrambling shrub of European hedgerows and woodland edges
-- [[rubus-fruticosus]] — blackberry, a thorny scrambling plant of similar disturbed habitats

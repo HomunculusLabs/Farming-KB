@@ -8,7 +8,7 @@ sources: ["Shulgin - PIHKAL"]
 ---
 # TMA-5
 
-PIHKAL entry #161. 2,3,6-TRIMETHOXYAMPHETAMINE.
+[[2c-b-pihkal-entry-20]] #161. 2,3,6-TRIMETHOXYAMPHETAMINE.
 
 ## Chemical Name
 
@@ -70,7 +70,7 @@ inputs can only come from human trials. What is the validity of these
 assumptions with TMA-5? Not very good. The statement that it is
 psychedelic has actually been published in reviews solely on the basis
 of the above two studies; the potency has been put at some ten times
-that of mescaline. Mescaline is certainly an effective psychedelic
+that of [[mescaline]]. Mescaline is certainly an effective psychedelic
 drug in the 300-500 milligram range, and this factor of ten implies
 that TMA-5 is also a psychedelic drug and is active in the 30-50
 milligram range. And indeed, both statements may be true, but
@@ -88,59 +88,3 @@ know, no one has nibbled it, so its human activity is unknown.
 A solution of 100 g 1,2,4-trimethoxybenzene in 1 L hexane
 was cooled to 15 deg C and treated with 400 mL of a 15% solution of
 n-butyllithium in hexane. A white precipitate formed immediately, and
-stirring was continued for an additional 2 h while the reaction
-returned to room temperature. There was then added a solution of 40 g
-freshly distilled propionaldehyde in 100 mL hexane. The reaction was
-exothermic and, as the stirring was continued, the precipitate
-gradually dissolved. Stirring was continued overnight at room
-temperature. There was then added 1 L H2O, and the reaction was
-acidified with HCl. The hexane phase was separated, and the remaining
-aqueous phase was extracted with hexane, then with Et2O. The pooled
-organic extracts were stripped of solvent under vacuum, and the
-residue distilled to give 60 g ethyl 2,3,6-trimethoxyphenyl carbinol,
-with an index of refraction nD20 = 1.5192. Anal. (C12H18O4) C,H.
-From the Et2O extracts above, additional carbinol was obtained,
-containing a small amount of the starting 1,2,4-trimethoxybenzene.
-The two materials were readily separated by vacuum distillation,
-providing an additional 21 g of carbinol.
-
-The above alcohol, 60 g of ethyl 2,3,6-trimethoxyphenyl carbinol, was
-stirred without solvent and cooled to 0 deg C with an external ice bath.
-There was then added 80 g PBr3 at a rate that maintained the
-temperature below 60 deg C. At the end of the addition, there were added
-quantities of chipped ice, followed by H2O. The reaction mixture was
-extracted with 3x100 mL Et2O, and removal of the solvent provided 60 g
-of 1-bromo-1-(2,3,6-trimethoxyphenyl)propane which was used in the
-following dehydrobromination step without further purification.
-
-A solution of the above 60 g of
-1-bromo-1-(2,3,6-trimethoxyphenyl)propane in an equal weight of EtOH
-was treated with 120 g of flaked KOH. The exothermic reaction was
-allowed to run its course with stirring continued overnight. The
-mixture was then quenched in H2O and extracted with 3x200 mL CH2Cl2.
-Removal of the solvent from the pooled extracts gave a crude product
-which contained no starting bromo material, but which was contaminated
-with an appreciable quantity of the ethoxy analogue,
-1-ethoxy-1-(2,3,6-trimethoxyphenyl)propane. This impure product was
-heated briefly to 80 deg C with 50% H2SO4. Cooling, dilution with water,
-and re-extraction with 3x100 mL CH2Cl2 gave, after removal of the
-volatiles under vacuum, 1-(2,3,6-trimethoxyphenyl)propene. This was
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
-
-## See Also
-
-- [[tma-entity-pihkal]]
-- [[tma-3-entity-pihkal]]
-
-- [[tma-entity]]
-
-- [[j-entity-pihkal]]
-
-- [[pihkal-introduction-and-methodology]]
-
-- PIHKAL (the source book)

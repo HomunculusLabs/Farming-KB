@@ -1,5 +1,5 @@
 ---
-title: [[dual-chambered-terrarium-design]]
+title: Dual Chambered Terrarium
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: mycology, mushroom-cultivation, pf-tek]
 created: 2026-05-09
@@ -88,54 +88,3 @@ with even one good daily spray in a properly set-up terrarium.
 The spray shield is a 1/8-inch thick clear acrylic (Plexiglas) piece cut
 to roughly 15 by 18 inches for a 10-gallon aquarium, with a tight fit.
 It divides the terrarium into a primary chamber (receiving spray) and a
-secondary chamber (holding the fungus cakes).
-
-When spray strikes the shield, it breaks into finer mist flowing around
-the shield sides into the secondary chamber, safely bathing the fungus.
-The slanted shield also acts as a drip shield and roof — condensation
-runs down the sides, and more condensation is better for humidification.
-
-Each spraying session should include ventilation: remove the lid, hold
-the shield vertically, fan with cardboard, then spray. Standing water at
-the bottom must be siphoned out using a rubber bulb battery filler or
-enema bottle to prevent bacteria buildup.
-
-## Heating Considerations
-
-The main rule: do not heat the terrarium. Any direct heating works
-against humidification and adds drying influence. No heating cables, heat
-pads, or blankets. [[cmh-grow-lights]] should be kept at a safe distance.
-
-These fungi grow well at 60°F and have been seen growing perfectly at
-even cooler temperatures. They grow slowly when cool but fast at warm
-room temperatures. The target range is 65 to the upper 80s°F. A too-hot
-terrarium produces spreading [[mycelium]] but no fruiting — heat suppresses
-the pinning trigger.
-
-## Symptoms of Low Humidity
-
-When humidity drops slightly below optimal but fruiting continues,
-mushrooms may develop fuzzy white mycelium on their caps, resembling a
-white crown of hair. This is not contamination — the mycelium is good
-and does not detract from quality. It is simply the fungus responding to
-insufficient atmospheric moisture.
-
-More severe low humidity produces deformed, convoluted, and withering
-mushrooms and primordia. These symptoms demand immediate attention: more
-frequent spraying, lid seal verification, and confirmation that the
-perlite layer has adequate water.
-
-## Creating the Pinning Microclimate
-
-The terrarium creates the pinning microclimate through sustained high
-humidity from perlite evaporation, regular molecularized misting from the
-spray procedure, and gentle air exchange during ventilation. The airtight
-seal traps humidity while the spray shield ensures it reaches the fungus
-as safe fine mist. Indirect room light or a small low-wattage fluorescent
-plant light provides the phototropic stimulus for upward growth. Together
-these elements replicate the natural conditions that trigger Psilocybe
-Cubensis to fruit.
-
-## See Also
-
-- [[dual-chambered-terrarium-fungus-fruiting]]

@@ -64,19 +64,19 @@ Compressed internodes near the base are a diagnostic feature — these shortened
 
 ## Distribution and Habitat
 
-Native to the Fujian and Zhejiang provinces of southern China, at low to moderate elevations. Introduced to Japan, Korea, Europe, North America, South America, Australia, New Zealand, and parts of Africa.
+Native to the Fujian and Zhejiang provinces of southern China, at low to moderate elevations. Introduced to Japan, Korea, Europe, [[guzman-psilocybin-mushrooms-north-america]], [[guzman-psilocybin-mushrooms-south-america]], Australia, New Zealand, and parts of Africa.
 
 The species thrives in USDA hardiness zones 6–10, tolerating minimum temperatures to approximately −18°C (0°F) when established.
 
 It prefers moist, well-drained loamy soils with a pH range of 5.5–7.0 but is highly adaptable to clay, sandy, and rocky substrates.
 
-Natural habitats include forest margins, stream banks, ravines, and disturbed areas where it can spread aggressively via rhizome extension.
+[[mushroom-natural-habitats]] include forest margins, stream banks, ravines, and disturbed areas where it can spread aggressively via rhizome extension.
 
 ## Cultivation and Uses
 
 **Ornamental planting:** Widely used in residential and commercial landscapes for privacy screens, hedges, and specimen plantings. The golden culm coloration provides year-round visual interest.
 
-**Garden and farm uses:** Culms are harvested for garden stakes, bean poles, tomato supports, and small trellises. The naturally rounded, sturdy poles are ideal for lightweight structural applications.
+**[[microclimate-design-for-garden-and-farm]] uses:** Culms are harvested for garden stakes, bean poles, tomato supports, and small trellises. The naturally rounded, sturdy poles are ideal for lightweight structural applications.
 
 **Craft and construction:** Used for bamboo furniture, fencing, wind chimes, and decorative craft items. Wall thickness makes it more durable than many other small-diameter bamboos.
 
@@ -87,31 +87,3 @@ Natural habitats include forest margins, stream banks, ravines, and disturbed ar
 **Invasiveness management:** Rhizome barriers (high-density polyethylene, 60–80 cm deep) are recommended in residential settings to prevent unwanted spread. Regular maintenance cutting of escaped rhizomes is essential.
 
 ## Ecological Role and Agroforestry Applications
-
-**Invasive behavior:** Listed as invasive in the southeastern United States (Florida, Georgia, Alabama, South Carolina), California, and parts of the southeastern Australian coast. It displaces native vegetation through shading and competitive rhizome occupation.
-
-**Wildlife habitat:** Dense bamboo thickets provide cover for birds and small mammals, though the low floral diversity within monoculture stands limits foraging value.
-
-**Soil ecology:** Bamboo leaf litter contributes to soil organic matter. The rhizome system can improve soil structure on degraded sites but may alter native mycorrhizal communities.
-
-**Bamboo guilds:** Can serve as the canopy or sub-canopy layer in food forest designs, providing shade, windbreak, and structural material for companion plants.
-
-**Companion plants:** Underplanting with shade-tolerant perennials such as hostas, ferns, and [[glycine-max]] (soybean) in partial-shade configurations can increase overall system productivity.
-
-**[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]:** Fast growth rates (up to 1 m per day during peak shooting season) make this species an effective carbon sink in temperate-zone agroforestry systems.
-
-**Water management:** Bamboo stands can intercept significant rainfall, reducing surface runoff. However, water consumption during rapid growth phases is substantial.
-
-**Fiber production:** Culms yield cellulose-rich fiber suitable for paper pulp, bamboo fiber textiles, and composite board manufacturing.
-
-## See Also
-
-- [[phyllostachys-edulis]] — Moso bamboo, the most commercially important bamboo species
-- [[arundinaria-gigantea]] — [[growing-gourmet-north-american-reishi-species]] native giant cane bamboo
-- [[miscanthus-giganteus]] — Giant miscanthus, another tall bioenergy grass
-- [[pseudotsuga-menziesii]] — Douglas-fir, common associate in Pacific Northwest landscapes
-- [[quercus-robur]] — English oak, a shade-tolerant hardwood companion
-- [[pinus-sylvestris]] — Scots pine, evergreen windbreak partner
-- [[salix-alba]] — White willow, riparian companion and erosion-control ally
-- [[fagus-sylvatica]] — European beech, shade tree for bamboo-edge plantings
-- [[pleurotus-ostreatus]] — [[cotter-oyster-mushroom-cultivation]], cultivable on bamboo substrate

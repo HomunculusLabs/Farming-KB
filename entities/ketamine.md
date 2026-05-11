@@ -45,7 +45,7 @@ dissociative anesthesia. Additional pharmacological targets include:
   rapid antidepressant effects via BDNF release
 - **Sigma receptors**: Low-affinity binding contributes to psychotomimetic
   effects at higher doses
-- **Monoamine transporters**: Inhibition of dopamine and serotonin reuptake
+- **Monoamine transporters**: Inhibition of dopamine and [[serotonin]] reuptake
 - **Muscarinic receptors**: Weak anticholinergic activity
 - **Sodium channels**: Local anesthetic properties via voltage-gated sodium
   channel blockade
@@ -84,64 +84,7 @@ certified healthcare settings under REMS protocol.
 ### Chronic Pain Management
 Ketamine infusions at sub-anesthetic doses (0.1–0.5 mg/kg/hr) are used for
 refractory chronic pain conditions including complex regional pain syndrome
-(CRPS), neuropathic pain, and fibromyalgia. NMDA receptor antagonism is
+(CRPS), [[blesching-cannabis-neuropathic-pain]], and fibromyalgia. NMDA receptor antagonism is
 thought to reverse central sensitization and opioid tolerance.
 ### Psychedelic Therapy
 In the emerging field of psychedelic-assisted psychotherapy, ketamine is
-used at sub-anesthetic doses to facilitate dissociative experiences that
-can catalyze therapeutic breakthroughs. Clinics offering ketamine-assisted
-therapy (KAT) have proliferated since the mid-2010s, treating depression,
-PTSD, anxiety, and substance use disorders. The dissociative state is
-described as producing [[psilocybin-ego-dissolution-mechanisms]], altered perception of time and
-space, and emotional catharsis.
-## Pharmacokinetics
-| Parameter | Value |
-|-----------|-------|
-| Onset (IV) | 30–60 seconds |
-| Onset (IM) | 3–5 minutes |
-| Onset (oral) | 5–30 minutes |
-| Onset (intranasal) | 5–15 minutes |
-| Duration (IV) | 5–15 minutes (clinical effect) |
-| Duration (oral) | 45–90 minutes |
-| Half-life | 2.5–3 hours |
-| Metabolism | Hepatic (CYP2B6, CYP3A4) |
-| Excretion | Renal (~90%) |
-| Protein binding | 12–47% (alpha-1-acid glycoprotein) |
-## Legal Status
-- **[[dmt-containing-plants-united-states-halpern]]**: Schedule III controlled substance (rescheduled 2023);
-  esketamine nasal spray is Schedule III under REMS
-- **United Kingdom**: Class B (upclassed from Class C, 2014)
-- **Canada**: Schedule I
-- **Australia**: Schedule 4 (prescription) / Schedule 8 (controlled)
-- **UN Convention**: Schedule I of the Convention on Psychotropic Substances
-- **Research**: Legal for approved [[mushroom-cancer-clinical-trials-overview]] and medical use worldwide
-## History and Discovery
-- **1962**: Synthesized by Calvin Stevens at Parke-Davis Laboratories
-- **1964**: First human trials by Edward Domino and Guenter Corssen,
-  who coined the term "dissociative anesthesia"
-- **1970**: FDA approval for human use; widely deployed in Vietnam War
-- **1970s–1990s**: Emergence as a recreational drug ("Special K")
-- **2000**: Classified as Schedule III in the US (anesthetic exception)
-- **2006**: Zarate et al. NIMH study demonstrates rapid antidepressant action
-- **2019**: FDA approval of esketamine (Spravato) nasal spray
-- **2020s**: Widespread adoption in ketamine-assisted psychotherapy clinics
-## Safety and Adverse Effects
-Common acute effects include hypertension, tachycardia, nausea, dizziness,
-and perceptual disturbances. At higher doses, emergence phenomena (vivid
-dreams, hallucinations, confusion upon waking) are common and can be
-mitigated with benzodiazepine premedication. Chronic recreational use
-can cause ulcerative cystitis. The drug has a wide [[cannabis-therapeutic-index-overview]]
-(LD50 in mice: 360 mg/kg IM) and does not suppress respiratory drive
-at clinical doses, making it one of the safest anesthetics available.
-## Cultural Significance
-Ketamine occupies a unique position between conventional pharmaceutical
-medicine and the psychedelic renaissance. Unlike classical psychedelics
-(psilocybin, LSD, mescaline), ketamine produces dissociative rather than
-primarily hallucinatory effects, yet its therapeutic applications overlap
-significantly with psychedelic-assisted therapy. Its legal status as a
-prescription anesthetic has created a parallel pathway for therapeutic use
-that predates the rescheduling of classical psychedelics, making it the
-## See Also
-- [[lsd]]
-- [[maps]]
-- [[rick-strassman]]

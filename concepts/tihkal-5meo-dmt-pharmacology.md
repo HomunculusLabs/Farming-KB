@@ -28,7 +28,7 @@ The intravenous route shows dramatically enhanced potency: effects at 0.25 mg, w
 
 ### Similarities
 - Both are naturally occurring alkaloids
-- Both are inactive orally without MAO inhibition
+- Both are inactive orally without [[tihkal-oral-activity-mao-inhibition]]
 - Both are typically smoked or injected
 - Both have extremely short durations (approximately 20 minutes when smoked)
 - Both show rapid onset (seconds)
@@ -39,7 +39,7 @@ The intravenous route shows dramatically enhanced potency: effects at 0.25 mg, w
 |----------|-----|-----------|
 | IV potency | 4-30 mg | 0.25-3 mg |
 | Visual character | Rich visual hallucinations, colors, patterns | Often described as "white-out," [[psilocybin-ego-dissolution-mechanisms]], less visual |
-| Emotional tone | Can be terrifying, complex imagery | "Cosmic consciousness," "ruthless love," unconditional |
+| Emotional tone | Can be terrifying, complex imagery | "[[turner-essential-psychedelics-lsd-cosmic-consciousness]]," "ruthless love," unconditional |
 | Somatic effects | Distinct "plastic taste" when smoked | Mild taste when smoked |
 | Subjective quality | Complex, narrative visual experiences | Overwhelming singularity, inability to judge, total implosion |
 | Duration (smoked) | ~20 min | ~20 min |
@@ -69,10 +69,10 @@ At excessive smoked doses, 5-MeO-DMT has produced:
 
 ## Natural Sources
 
-- **Virola theiodora**: Bark can contain up to 95% 5-MeO-DMT as alkaloid content
+- **[[virola-theiodora]]**: Bark can contain up to 95% 5-MeO-DMT as alkaloid content
 - **Virola rufuta**: Root and bark contain ~95% 5-MeO-DMT
 - **Dictyoloma incanescens**: First botanical identification (Rutaceae family)
-- **Sonora Desert Toad** (Bufo alvarius): Venom contains up to 15% 5-MeO-DMT, along with 5-MeO-NMT and bufotenine
+- **Sonora Desert Toad** ([[5-meo-dmt-and-bufo-alvarius]]): Venom contains up to 15% 5-MeO-DMT, along with 5-MeO-NMT and bufotenine
 - **[[chiric-caspi-brunfelsia-south-american-hallucinogen]] snuffs**: Yakee, yato, parica, epena, nyakwana
 
 ## Ayahuasca and Oral Activity
@@ -87,11 +87,3 @@ When combined with harmaline (an MAO inhibitor), oral 5-MeO-DMT becomes active a
 
 - TIHKAL Entry #38 (5-MeO-DMT), pp. 5770-6030+
 - TIHKAL commentary on Hoasca vs. Ayahuasca
-
-## See Also
-
-- [[dmt-botanical-sources-pharmacology]]
-
-- [[pihkal-introduction-and-methodology]]
-- [[tryptamine-consciousness-theory]]
-- [[mao-inhibitors-and-psychedelics]]

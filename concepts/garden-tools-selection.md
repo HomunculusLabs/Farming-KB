@@ -62,3 +62,20 @@ The low-input philosophy extends to tools:
 - [[direct-seeding-techniques]] — Techniques that minimize the need for specialized equipment
 - [[soil-conditioners-guide]] — Understanding soil helps you use tools more effectively
 - [[irrigation-watering-techniques]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[solomon-garden-tools-selection-and-maintenance]]
+- [[garden-tool-selection-sharpening-solomon]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
+- [[home-garden-tool-selection-and-care]]
+- [[garden-hand-tools-solomon]]

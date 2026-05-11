@@ -10,6 +10,7 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,30 +88,3 @@ design or clearing occurs. The survey should identify:
 - Weedy or invasive species and their distribution
 - Areas of remnant native vegetation and their ecological quality
 - Productive trees (fruit, nut, timber) already on site
-- Indicator species that reveal soil conditions or past land use
-- Vegetation corridors and connectivity across the site
-
-Existing vegetation is an asset to be incorporated into the design wherever
-possible. Mollison is strongly opposed to clearing existing vegetation before
-understanding its value and function. See vegetation survey.
-
-## Water Assessment
-
-A complete water assessment includes:
-- Mapping all surface water features: streams, springs, seeps, wetlands,
-  seasonal watercourses, and flood zones
-- Estimating annual water yield from catchment areas
-- Assessing groundwater availability and quality
-- Testing water quality (pH, turbidity, contaminants, biological activity)
-- Identifying existing water infrastructure (tanks, dams, pipes, bores)
-- Calculating water requirements for proposed uses
-- Designing water storage and distribution systems using [[backyard-water-harvesting]] principles
-
-## Access, Infrastructure and Base Map
-
-Map all existing access features -- roads, tracks, pathways, buildings,
-utility connections, fencing, and gates. Access design follows the principle
-of minimizing energy expenditure. See [[mollison-designers-design-methods-overview-process]] work. Mollison emphasizes systematic documentation: photographs,
-field notes with dates and conditions, factor overlays, climate and soil
-records, and historical information to support ongoing management and future
-design refinements.

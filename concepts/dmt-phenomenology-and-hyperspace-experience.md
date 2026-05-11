@@ -1,5 +1,5 @@
 ---
-title: DMT Phenomenology and the [[dmt-hyperspace-experience]]
+title: Dmt Phenomenology And Hyperspace Experience
 created: 2026-05-09
 tags: [psychedelics, dmt, tryptamine, consciousness, phenomenology]
 date: 2026-05-09
@@ -87,60 +87,3 @@ describes as:
   we are doing"
 
 ### The Language Phenomenon
-
-DMT entities produce sounds that are:
-
-- Like music and language simultaneously
-- Lacking "any quantized moment of distinction" — flowing from things
-  heard to things beheld (echoing Philo Judaeus's description of the
-  Logos)
-- "A language of alien meaning that is conveying alien information that
-  cannot be Englished"
-
-This translinguistic phenomenon sets DMT apart from other hallucinogens.
-McKenna emphasizes that DMT and psilocybin "work directly on the language
-centers," making interior dialogue a central feature of the experience.
-
-## The Black Hole Effect
-
-McKenna describes what he calls "the black hole effect" surrounding DMT:
-
-- Once one knows about DMT, it is very hard to communicate the
-  experience to others
-- "The more one is able to articulate what it is, the less others are
-  able to understand"
-- This communicative impossibility is why enlightened beings are
-  traditionally described as silent
-- The phenomenon shares characteristics with a gravitational black hole:
-  no signal can escape to inform the outside
-
-## Ontological Significance
-
-McKenna's central claim is that DMT reveals "a universe of
-active intelligence that is transhuman, hyperdimensional, and extremely
-alien" existing "right here and now, one quanta away." He calls this
-the **Logos** — an intelligence that may be extraterrestrial, divine,
-the alienated human soul, or an organism of pure information
-(cf. Philip K. Dick's *Valis*).
-
-## Quantum Mechanical Correlates
-
-McKenna notes that quantum mechanical correlates to hallucinogenesis have
-been identified by John Smythies, [[alexander-shulgin]], and others. The
-observation that "if one atom on the molecular ring of an inactive
-compound is moved, the compound becomes highly active" demonstrates "a
-perfect proof of the dynamic linkage at the formative level between
-quantum mechanically described matter and mind."
-
-## Cautionary Perspective
-
-McKenna cautions that these are "bizarre dimensions of extraordinary
-power and beauty" and that one must "build up to the experience." A touch
-of terror, he argues, gives the stamp of authenticity — "if one is not
-terrified then one must be somewhat out of contact with the full dynamics."
-
-## See Also
-
-- [[psilocybin-and-the-logos]]
-- [[tryptamine-hallucinogens-and-language]]
-- [[ayahuasca-pharmacology-and-cultural-context]]

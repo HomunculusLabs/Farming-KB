@@ -1,5 +1,5 @@
 ---
-title: "Cannabis and Non-Melanoma blesching cannabis skin cancer non melanoma"
+title: Blesching Cannabis Skin Cancer Non Melanoma
 created: 2026-04-26
 tags:
   - cannabis
@@ -19,7 +19,7 @@ type: concept
 ## Overview
 
 The skin is the largest organ of the body. It transmits sensations to the
-brain, provides temperature regulation, and protects from environmental
+brain, provides [[blesching-cannabis-fever-temperature-regulation]], and protects from environmental
 toxins and pathogens. Our skin has three basic layers: the outer epidermis,
 the middle dermis, and lower subcutaneous tissue. There are two types of
 non-melanoma skin cancer:
@@ -50,7 +50,7 @@ a microscope to determine if cancerous cells remain.
 ## Cannabis and Non-Melanoma Skin Cancer
 
 Most Materia Medicas of both Eastern and Western healing traditions
-reference historical applications of whole-plant cannabis topicals for the
+reference historical applications of whole-plant [[cannabis-topicals-guide]] for the
 treatment of skin cancer. In 2003, a team from Madrid, Spain, and Clemons,
 South Carolina, investigated cannabinoids' effectiveness as a non-melanoma
 skin cancer therapy. The team showed that CB1 and CB2 receptors exist in
@@ -81,41 +81,10 @@ cancerous growths, angiogenesis, metastasis, and even induce apoptosis.
 | ECS and cannabinoids | Meta-analysis | 2009, Multi-center (Germany, Hungary, UK, USA): Targeted manipulation of ECS beneficial in multitude of human skin diseases | 4 |
 | JWH-133 (CB2 agonist), WIN55,212-2 (CB1/CB2), antagonists | Lab, mice, human | 2003, Spain/USA: CB1 and CB2 present in normal skin and tumors; [[cannabis-cannabinoid-receptor-pharmacology]] activation induces skin tumor cell apoptosis | 4 |
 
-**Total CHI Value: 8**
+**Total [[blesching-cannabis-prostate-cancer-chi-value-3]]: 8**
 
 ### Strain-Specific Considerations
 
 JWH-133 (CB2 agonist) and WIN55,212-2 (CB1/CB2 agonist) were tested
 successfully against non-melanoma skin cancer cells both in vitro and in
 vivo.
-
-- Both sativa and indica strains contain cannabinoids activating CB1 and
-  CB2 receptors
-- THC binds with both CB1 and CB2 receptors relatively equally
-- CBD has a greater affinity for CB2
-- Topical applications of whole-plant cannabis may be particularly
-  relevant given the skin's ECS presence
-
-### Mind-Body Medicine
-
-The skin is a boundary that lets us know precisely where we end and the
-outside world begins. It is also the image we present to the world. The
-majority of skin cancers are diagnosed on the face, neck, back of hands,
-upper arms, and upper torso. The face communicates emotional states through
-obvious and subtle micro-expressions. Aggravating factors may include a
-negative self-image and/or belief in visible punishment, while supporting
-factors may include releasing negative self-image, building positive
-self-image, and belief in self-forgiveness.
-
-### Supporting Foods
-
-- **Bush Tea (Rooibos):** Contains DNA-protective and antimutagenic
-  properties; topical application inhibits skin tumor formation
-- **Clove:** Aqueous solution may have protective properties against skin
-  papillomas (skin tumors); also produces apoptosis of [[psk-breast-lung-cancer-clinical-trials]] cells
-
-### Related Topics
-
-- [[blesching-cannabis-dermatological-conditions]]
-- [[blesching-cannabis-immune-system-modulation]]
-- [[endocannabinoid-system-overview]]

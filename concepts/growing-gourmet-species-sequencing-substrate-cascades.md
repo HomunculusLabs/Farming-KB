@@ -1,5 +1,5 @@
 ---
-title: Species Sequencing — Cascading Substrate Utilization [[contamination-prevention-in-mushroom-cultivation]]
+title: Growing Gourmet Species Sequencing Substrate Cascades
 source: Growing Gourmet and Medicinal Mushrooms (Stamets, 1993)
 concepts: [species-sequencing, substrate-recycling, nitrogen-enrichment, permaculture, zero-waste]
 ---
@@ -85,37 +85,6 @@ Cutting corners here invites contamination that can collapse the entire cascade.
 
 Species sequencing mirrors the decomposition cascades that occur naturally in
 forest ecosystems. A fallen log is first colonized by primary decomposers, then
-secondary and tertiary species follow in [[ecological-succession]], each unlocking
+secondary and tertiary species follow in [[query-what-is-ecological-succession-and-how-can-farmers-use-it]], each unlocking
 nutrients the previous wave left behind. Stamets positions species sequencing as
 a cultivated expression of this natural process — a bridge between mycology and
-permaculture design that converts linear resource flows into closed-loop cycles.
-In practice, the cascade integrates seamlessly with vegetable gardens, orchards,
-and compost systems, turning mushroom cultivation into a regenerative practice
-rather than a consumptive one.
-
-## A Vision for Space Exploration
-
-Stamets proposed species sequencing as a model for food production in space
-habitats. In resource-constrained environments where every gram of organic matter
-must be conserved, the ability to extract multiple food yields from a single
-substrate input is not merely efficient — it is essential. A compact mushroom
-cascading system could recycle inedible plant fibers, food waste, and crop
-residues into protein-rich food while generating CO₂ for plant growth and
-humus for hydroponic media.
-
-## Key Principles
-
-- **Sequential, not simultaneous**: Each species occupies the substrate in turn.
-- **Declining mass, rising nitrogen**: Substrate shrinks while nutritional
-  density increases.
-- **pH management is critical**: Gypsum and chalk between stages prevent acid
-  accumulation.
-- **Outdoor final stages leverage natural conditions**: Burying exhausted blocks
-expired blocks taps into ambient microbial ecologies, mycorrhizal networks, and
-weather-driven fruiting triggers that no indoor environment can fully replicate.
-- **Zero waste is achievable**: The endpoint is garden-ready humus, not refuse.
-
-## See Also
-
-- [[growing-gourmet-saprophytic-mushrooms-decomposers]]
-- [[growing-gourmet-stametsian-permaculture-model]]

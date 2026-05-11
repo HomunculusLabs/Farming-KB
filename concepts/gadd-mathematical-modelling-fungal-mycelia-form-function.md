@@ -1,5 +1,5 @@
 ---
-title: [[gadd-mathematical-modelling-fungal-mycelia]] of Fungal Mycelia Form and Function
+title: Gadd Mathematical Modelling Fungal Mycelia Form Function
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
 author: Fordyce A. Davidson
 topics:
@@ -87,63 +87,3 @@ Network (graph-theoretic) models represent the mycelium as a set of nodes (branc
 - Growth occurs at tip nodes, governed by local nutrient gradients
 
 Network models preserve connectivity information crucial for understanding nutrient redistribution but are computationally demanding for large systems.
-
-### Individual-Based Models
-
-The most detailed approach simulates individual hyphae:
-
-- Each hyphal tip extends at a rate determined by local conditions
-- Branching angles and frequencies follow species-specific rules
-- Septal pores regulate inter-compartment flow
-- Vacuolar dynamics within individual hyphae can be modelled
-
-These models capture the most biological detail but are computationally expensive, limiting simulation time and system size.
-
-## Key Modelling Insights
-
-A central finding from modelling work is that complex mycelial patterns emerge from simple local rules:
-
-- No global coordination mechanism is needed to produce efficient foraging networks
-- Local sensing of nutrients and neighbors, combined with growth and branching responses, is sufficient
-- The observed "intelligence" of mycelial networks is an emergent property
-
-### Trade-offs in Foraging Strategies
-
-Models reveal fundamental trade-offs:
-
-- **Exploration vs. exploitation**: Resources invested in extending search fronts are not available for exploiting found resources
-- **Persistence vs. flexibility**: Maintaining connections to old resources constrains reallocation to new ones
-- **Speed vs. thoroughness**: Rapid extension covers more ground but samples each location less intensively
-
-### The Role of Cord Formation
-
-Cord formation (hyphal aggregation into high-conductivity channels) is modelled as a response to nutrient gradients:
-
-- Cords form along paths of net nutrient flow, reinforcing successful transport routes
-- This positive feedback creates preferred pathways that become self-reinforcing
-- Models show cord formation dramatically increases the efficiency of long-distance translocation
-- The threshold conditions for cord initiation are a key parameter determining network architecture
-
-## Challenges and Limitations
-
-### Parameter Estimation
-
-The major modelling challenge is obtaining accurate parameter values:
-
-- Hyphal extension rates vary with temperature, nutrients, and species
-- Branching probabilities are context-dependent
-- Transport coefficients within hyphae are difficult to measure in vivo
-- Most models require simplifying assumptions
-
-### Validation
-
-Comparing model predictions to experiments is difficult:
-
-- 2D models cannot fully capture 3D soil environments
-- Laboratory microcosms differ from natural field conditions
-- Some model outputs (internal nutrient distributions) are not directly measurable
-## See Also
-
-- [[mycelial-network-nutrient-dynamics]]
-- [[gadd-mycelial-network-dynamics]]
-- [[fungal-mycelial-foraging-heterogeneous-environments]]

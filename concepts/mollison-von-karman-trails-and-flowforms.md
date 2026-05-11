@@ -2,13 +2,14 @@
 title: Flow Over Landscapes: mollison von karman trails and flowforms Trails and Flowforms
 created: 2026-04-26
 tags:
-  - permaculture
+  - [[permaculture]]
   - pattern-understanding
   - water
   - mollison-designers-manual
 date: 2026-04-25
 updated: 2026-04-25
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - ~/wiki/raw/papers/bill-mollison-permaculture-a-designers-manual.md
 type: concept
 ---
@@ -87,45 +88,3 @@ Understanding Von Karman trails is essential for [[comparison-windbreak-design-v
   structures placed too close behind the barrier.
 
 - The zone of turbulence extends to a height 20-40 times the height
-  of the barrier, and 4-5 vortex repetitions downstream before
-  flow re-establishes itself.
-
-- Multiple rows of windbreaks at appropriate spacing can progressively
-  dampen the vortices, creating calm zones for gardens and settlement.
-
-- The 15-degree wind direction change past obstacles means that
-  windbreaks can be angled to deflect cold winds away from sensitive
-  areas, or channel desirable breezes toward buildings.
-
-## Applications to Water Design
-
-In water systems, Von Karman principles inform:
-
-- **Fish [[comparison-pond-design-vs-dam-construction]]**: Placement of islands, posts, or submerged
-  structures to create oxygenating turbulence without damaging
-  erosion. Intentional weirs in salmon streams induce turbulence
-  needed for fish spawning habitats.
-
-- **Stream restoration**: Understanding that posts or rocks placed in
-  flow create predictable scouring and deposition patterns that can
-  be used to form pools and riffles.
-
-- **Flowform technology**: The work of the Virbela Institute on
-  flowforms applies these natural vortex patterns to water treatment
-  and aeration, using shaped surfaces to create rhythmic vortex
-  sequences that oxygenate and purify water.
-
-## The Overbeck Jet in Landscape
-
-The mushroom-like Overbeck jet form appears commonly in nature:
-mushrooms, rivers flooding into the sea, and jellyfish all display
-this pattern. In landscape design, recognising where such jet forms
-naturally occur helps designers work with existing flow patterns
-rather than against them.
-
-## See Also
-
-- [[mollison-fractals-branching-and-conduit-design]]
-- [[mollison-stream-orders-and-branching-magnitudes]]
-- mollison-pond-design-freshwater-aquaculture
-- [[permaculture-design]]

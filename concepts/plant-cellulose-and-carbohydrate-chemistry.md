@@ -9,7 +9,7 @@ sources: []
 
 # Plant Cellulose and Carbohydrate Chemistry
 
-Carbohydrates are the most abundant organic molecules on Earth. In plants, they serve as structural materials (cellulose), energy storage (starch), transport fuel (sucrose), and the primary product of photosynthesis. Understanding carbohydrate chemistry is fundamental to understanding plant biology.
+Carbohydrates are the most abundant organic molecules on Earth. In plants, they serve as structural materials (cellulose), [[holmgren-built-environment-household-energy-storage]] (starch), transport fuel (sucrose), and the primary product of photosynthesis. Understanding carbohydrate chemistry is fundamental to understanding plant biology.
 
 ## Photosynthesis and Carbohydrate Production
 
@@ -41,7 +41,7 @@ The linking of two monomers requires removing one water molecule (condensation r
 
 **Starch ([C6H10O5]n)**: The primary energy storage carbohydrate in plants. Long chains of glucose units stored in roots, tubers, and seeds. Potatoes, grains, and cassava are starch-rich foods.
 
-**Cellulose ([C6H10O5]n)**: The most abundant organic polymer on Earth. Contains half of all [[dighton-fungal-dissolved-organic-carbon-production]] in the biosphere. The primary structural component of all plant cell walls.
+**Cellulose ([C6H10O5]n)**: The most abundant organic polymer on Earth. Contains half of all [[dighton-fungal-dissolved-organic-carbon-production]] in the biosphere. The primary structural component of all plant [[alpha-1-3-glucan-fungal-pathogen-cell-walls]].
 
 Starch and cellulose have the same basic subunit formula but different bond linkages. This difference is crucial:
 - Starch bonds: easily broken by plant and animal enzymes (digestible)
@@ -60,9 +60,9 @@ Cellulose chains are held together by thousands of hydrogen bonds between adjace
 ### Role in Cell Walls
 
 Cellulose microfibrils are embedded in a matrix of hemicellulose and pectin to form the plant cell wall. The wall provides:
-- Structural support and rigidity
+- [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]] and rigidity
 - Protection against pathogens
-- Resistance to osmotic pressure (preventing cells from bursting)
+- Resistance to [[fungal-fruiting-body-mechanics-osmotic-pressure]] (preventing cells from bursting)
 - A scaffold for other wall components
 
 ### Cellulose and the Carbon Cycle
@@ -87,31 +87,3 @@ Most plant starch is 20-30% amylose and 70-80% amylopectin.
 - **Stems**: Sugarcane stores sugar (not starch) in stems
 
 ### Starch as Universal Energy
-
-Starch is vital for energy in both plants and animals. Plants capture sunlight energy and store it as starch. Animals eat plants (or other animals that ate plants) and break down starch to release the stored energy. Every calorie of food energy ultimately traces back to photosynthesis.
-
-## Sucrose: The Transport Sugar
-
-Sucrose is the form in which most plants transport carbon. It is:
-- Produced in photosynthesizing leaves
-- Loaded into the phloem for transport to sinks
-- Readily soluble in water
-- Chemically stable during transport
-- Easily converted to starch for storage or broken down for energy
-
-Interestingly, glucose (the direct photosynthetic product) is found in very low concentrations in phloem sap. Plants convert it to sucrose for transport efficiency.
-
-## The Numbers: Plant Molecular Diversity
-
-With 17 essential nutrients plus carbon, hydrogen, and oxygen, a plant can theoretically produce 35,568,742,896,000 different molecular combinations. While electron bonding restrictions, molecular shape, and other constraints reduce this number, a single plant cell contains 100-200 trillion atoms. A DNA strand alone can have hundreds of thousands to millions of nucleotide pairs.
-
-## Carbohydrates and Hydrogen Bonds
-
-Carbohydrates have lots of hydrogen bonds, which is one reason they are such good energy and storage molecules. The energy captured from sunlight is stored in these bonds. When bonds are broken (during respiration), the stored energy is released.
-
-## Related Topics
-
-- [[molecules-of-life-in-plants]] -- carbohydrates among the four molecular groups
-- [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]] -- where cellulose walls are formed
-- [[mushroom-biology-structure-life-cycle]]
-- [[teaming-with-nutrients-essential-plant-nutrients]]

@@ -1,5 +1,5 @@
 ---
-title: gadd penicillium marneffei population genetics Population Genetics
+title: Gadd Penicillium Marneffei Population Genetics
 created: 2026-04-28
 tags:
   - population-genetics
@@ -33,11 +33,11 @@ rates correlating with human disease incidence across Southeast Asia.
 
 ## Discovery of environmental populations
 
-Early studies characterised clinical isolates using a variety of
+[[hofmann-lsd-clinical-research-early-studies]] characterised clinical isolates using a variety of
 molecular techniques including RAPD, microsatellite typing, and
 [[fungi-multilocus-sequence-typing-molecular-epidemiology]] typing. A key breakthrough came with the development
 of a multilocus microsatellite typing system (MLMT) specifically for
-P. marneffei, revealing substantial genetic diversity among clinical
+P. marneffei, revealing substantial [[biodiversity-fungal-genetic-diversity]] among clinical
 isolates that reflected broader environmental population structure.
 
 ## Multilocus microsatellite typing system
@@ -54,7 +54,7 @@ populations, providing resolution at the level of individual isolates.
 MLMT analysis revealed that P. marneffei populations are spatially
 structured, meaning that isolates from different geographic locations
 show genetic differentiation. Populations from Thailand, Vietnam,
-China, and other Southeast Asian countries each contain distinct
+China, and other [[oner-southeast-asian-sativa-heritage-thai-vietnamese-cambodian]] countries each contain distinct
 genetic clusters. This spatial structure is consistent with limited
 long-distance dispersal and adaptation to local environmental
 conditions.
@@ -88,41 +88,3 @@ mode of reproduction. However, the presence of both mating-type genes
 in populations suggests potential for [[fungal-life-cycles-sexual-reproduction-metamorphosis]].
 
 ## Demographic history and population expansion
-
-Molecular data suggest that P. marneffei populations may have undergone
-recent expansions, potentially associated with environmental changes or
-anthropogenic activities. The genetic diversity observed in current
-populations is consistent with historical population bottlenecks
-followed by rapid expansion into suitable ecological niches.
-
-## Environmental niche and climate associations
-
-The distribution of P. marneffei correlates with specific climatic
-conditions, including warm temperatures and high rainfall. The fungus
-appears to be restricted to tropical and subtropical regions of
-Southeast Asia, which constrains both its environmental distribution
-and the geographic range of penicilliosis. Environmental sampling has
-demonstrated seasonal variation in isolation rates.
-
-## Implications for disease control
-
-Understanding the environmental population genetics of P. marneffei
-has practical implications for [[cervantes-pest-disease-prevention-overview]]. Since clinical
-infections arise from environmental exposure, mapping the genetic
-structure of environmental populations can identify high-risk areas.
-The spatial structure of populations means that local environmental
-interventions could potentially reduce disease incidence.
-
-## Broader significance for fungal molecular ecology
-
-The P. marneffei case study demonstrates the power of combining
-microsatellite typing with environmental sampling to understand fungal
-population dynamics. This approach is applicable to other environmental
-fungi and provides a framework for studying the emergence of fungal
-pathogens from environmental reservoirs.
-
-## Related concepts
-
-- [[gadd-fungal-species-recognition]]
-- [[gadd-aspergillus-fumigatus-glucan-virulence]]
-- [[gadd-fungal-ecology-pathogens]]

@@ -1,5 +1,5 @@
 ---
-title: "Oss & Oeric: oss oeric growing parameters cubensis for brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting"
+title: Oss Oeric Growing Parameters Cubensis
 created: 2026-04-28
 tags: [mycology, cultivation-parameters, temperature, humidity, oss-oeric]
 date: 2026-04-28
@@ -11,7 +11,7 @@ type: concept
 # Oss & Oeric: Growing Parameters for Psilocybe Cubensis
 
 Successful indoor [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis requires careful
-management of several environmental parameters. The 1976 guide provides
+management of several [[mushroom-cultivation-environmental-parameters]]. The 1976 guide provides
 specific recommendations for temperature, humidity, lighting, and
 aeration at each stage of the cultivation cycle. These parameters were
 refined through the authors direct experience and represent some of the
@@ -19,8 +19,8 @@ earliest documented environmental requirements for indoor fruiting.
 
 ## Temperature Requirements
 
-**Mycelial Colonization (Agar and Rye Stages):** The optimal temperature
-range for mycelial growth is 70-80 degrees F. The authors emphasize
+**[[mycelial-colonization]] (Agar and Rye Stages):** The optimal temperature
+range for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] is 70-80 degrees F. The authors emphasize
 maintaining roughly constant temperature within this range to promote
 rapid and complete colonization. Temperature variability is suspected
 as a factor in slowed growth, particularly in high-altitude, low-humidity
@@ -74,12 +74,12 @@ for fruitbody initiation. See
 ## Aeration and Gas Exchange
 
 **During Colonization:** Jar lids must be left loose enough to permit
-diffusion of oxygen. The mushroom mycelium is described as quite aerobic
+diffusion of oxygen. The [[antimicrobial-compounds-mushroom-mycelium]] is described as quite aerobic
 and proper aeration is essential for growth. Tight lids prevent gas
 exchange and stall colonization.
 
 **During Fruiting:** The styrofoam cooler with polyethylene lid covering
-provides passive air exchange. The semi-permeable covering allows CO2
+provides passive [[growing-gourmet-growing-room-ventilation-air-exchange]]. The semi-permeable covering allows CO2
 to escape while maintaining humidity. Modern understanding emphasizes
 that during colonization, elevated CO2 (above 10,000 ppm) promotes
 mycelial growth, while during fruiting, lower CO2 levels (400-1000 ppm)
@@ -88,30 +88,3 @@ are needed for normal fruitbody development.
 ## Substrate Composition
 
 **Rye Grain Medium:** 112g whole rye grains, 2.0g calcium carbonate
-(CaCO3), optionally 0.2g potassium phosphate (K2HPO4), and 180ml tap
-or distilled water per quart mason jar. Powdered oyster shell, limestone,
-or chalk are all suitable calcium carbonate sources.
-
-**Casing Soil:** 2.5 liters peat moss, 3.5 liters fine vermiculite,
-4 liters washed fine sand, 2 liters calcium carbonate. Alternative
-[[mushroom-cultivator-casing-materials-buffering-agents]] include horse or cow dung, wheat straw, or leaf mold.
-See [[casing-soil-mushroom-cultivation]] for casing methods.
-
-## Regional Adaptation and Modern Refinement
-
-The authors observed that mycelial growth is more vigorous in warmer,
-humid coastal climates than in high-altitude, arid regions. They
-recommend using enriched malt extract agar to compensate for environmental
-stress. Modern cultivators recommend 75-81 F during colonization and
-note temperatures above 83 F promote bacterial contamination.
-
-The concept of cold shock to initiate pinning has gained popularity
-since the guide publication. Reducing temperature by 5-10 degrees F
-for 24 hours after full colonization stimulates more uniform pin
-formation. See [[cold-shock-fruiting-selectivity-psilocybe-species]].
-
-## Related Topics
-
-- [[oss-oeric-rice-cake-tek-methodology]] for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
-- [[oss-oeric-equipment-and-materials-list]] for supplies
-- [[psilocybe-cubensis-cultivation]] for modern techniques

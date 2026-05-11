@@ -87,34 +87,3 @@ While spore syringes can survive freezing, extreme low temperatures below freezi
 ### Spore Age and Viability
 
 [[psilocybe-cubensis]] spores begin to degrade a few months after collection. After approximately 1.5 years, germination will be greatly reduced or will not occur at all. Fresh spores germinate massively and quickly, making spore age an important factor in non germination cases.
-
-## The Halted Growth Diagnosis
-
-A distinctive pattern in PF TEK troubleshooting is growth that begins normally but then halts without any visible contamination. This is almost always caused by substrate that has dried out during the steam sterilization process. The diagnostic signs include:
-
-- Successful [[growing-gourmet-spore-germination-strain-isolation]] (white growth appears)
-- Mycelium spreads for a period then stops
-- No colored contaminant growths appear
-- The halt point correlates with [[pf-tek-substrate-moisture-diagnosis-and-correction]] level
-
-The remedy is to increase the water content of the [[pf-tek-measurement-calibration-and-substrate-formula-precision]]. Different brands and grades of vermiculite hold different amounts of water, so the formula may need adjustment for the specific vermiculite being used.
-
-## Sterilization Time and Pot Lid Quality
-
-The steam sterilization process depends critically on a tightly fitting pot lid. A good tight fitting pot lid is described as essential for successful steaming. Gas stoves are noted as the easiest to control for maintaining the lowest possible gentle boil. The jars should be gently steamed at the lowest possible boil for a full hour in a tightly covered pot.
-
-## Systematic Troubleshooting Approach
-
-When contamination or failure occurs, follow this diagnostic sequence:
-
-1. Did the control jars remain clean? If no, fix sterilization technique
-2. Did the jars cool before inoculation? If no, wait for cooling
-3. Was the syringe needle flame sterilized? If no, sterilize between jars
-4. Was the dry vermiculite layer disturbed during inoculation? Check technique
-5. Did growth start then halt? Check for substrate drying, increase water
-6. Did no germination occur at all? Check spore viability, syringe age, heat exposure
-
-By systematically working through each variable, the cultivator can identify and correct the specific cause of failure, improving success rates with each subsequent batch.
-
-## See Also
-- [[mushroom-cultivator-contaminants-identification]]

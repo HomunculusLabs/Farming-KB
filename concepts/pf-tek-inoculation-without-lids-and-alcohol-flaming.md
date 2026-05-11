@@ -1,5 +1,5 @@
 ---
-title: PF pf-tek-inoculation-technique-and-syringe-management Without Lids and pf-tek-alcohol-flaming-sterilization-method Technique
+title: Pf Tek Inoculation Without Lids And Alcohol Flaming
 created: 2026-04-28
 tags:
   - pf-tek
@@ -7,8 +7,8 @@ tags:
   - sterilization
   - alcohol-flame
   - sterile-technique
-  - mushroom-cultivation
-  - psilocybe-cubensis
+  - [[mushroom-cultivation]]
+  - [[psilocybe-cubensis]]
   - spore-syringe
 date: 2026-04-28
 updated: 2026-04-28
@@ -21,13 +21,13 @@ type: concept
 
 ## Overview
 
-Two important yet often overlooked aspects of the PF Tek are the inoculation-without-lids technique (for use with drinking glasses) and the alcohol flaming sterilization method. Both were developed by Psylocybe Fanaticus as practical solutions to common [[mushroom-home-cultivation-history]] challenges, reducing the need for specialized equipment while maintaining sterility.
+Two important yet often overlooked aspects of the PF Tek are the inoculation-without-lids technique (for use with drinking glasses) and the [[pf-tek-alcohol-flaming-sterilization-method]] method. Both were developed by [[psylocybe-fanaticus]] as practical solutions to common [[mushroom-home-cultivation-history]] challenges, reducing the need for specialized equipment while maintaining sterility.
 
 ## Inoculation Without Lids
 
 ### Purpose
 
-The standard PF Tek uses half-pint canning jars with modified lids (four holes punched through the rubberized sealing edge). However, suitable jars may not always be available, and standard 8-ounce (250 ml) tapered-sided drinking glasses work as substitutes. Since drinking glasses have no lids, an alternative inoculation method is needed.
+The standard PF Tek uses half-pint canning jars with modified lids (four holes punched through the rubberized sealing edge). However, suitable jars may not always be available, and standard 8-ounce (250 ml) tapered-sided drinking glasses work as substitutes. Since drinking glasses have no lids, an alternative [[boil-a-bag-long-needle-inoculation-method-jarrold]] is needed.
 
 The [[pf-tek-dry-vermiculite-contaminant-barrier]] contaminant barrier at the top of the substrate is the key innovation that makes lidless inoculation possible.
 
@@ -87,10 +87,3 @@ A practical concern is whether flaming the needle kills spores inside the syring
 ### Storage After Use
 
 "If there is some left over spore solution, replace the needle guard and store the syringe for later use." The syringe should be stored "in a dark, cool place" and the needle "resterilized immediately before re-use."
-
-## Broader Sterile Technique Principles
-
-These two techniques embody several key principles of home [[pf-tek-steam-sterilization-technique]]
-- [[pf-tek-contaminant-source-identification]]
-- [[pf-tek-non-germination-troubleshooting]]
-- [[pf-tek-guide]]

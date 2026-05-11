@@ -1,5 +1,5 @@
 ---
-title: Soil soil edaphic factors microbial communities and edaphic-factors-microbial-community-structure Structure
+title: Soil Edaphic Factors Microbial Communities
 slug: soil-edaphic-factors-microbial-communities
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 tags: [soil-science, edaphic-factors, microbiome, cannabis, agriculture]
@@ -12,7 +12,7 @@ created: 2026-05-08
 
 Edaphic factors are the physical, chemical, and biological
 properties of soil that influence microbial [[core-endorhiza-bacterial-community-composition-cannabis]].
-In the Cannabis microbiome (Winston et al., 2014), edaphic factors
+In the [[cannabis-microbiome-agricultural-implications-and-future-directions]] (Winston et al., 2014), edaphic factors
 were the dominant determinant of microbial community structure
 across all root-associated compartments, outweighing both sample
 type and plant [[cannabis-cultivar-effects-soil-microbiome]].
@@ -24,17 +24,17 @@ revealed a consistent hierarchy. For weighted analysis:
 
 1. **Nitrogen** (r-stat: 0.465, p = 0.001)
 2. **Salinity** (r-stat: 0.437, p = 0.001)
-3. **Total Organic Carbon** (r-stat: 0.330, p = 0.001)
+3. **Total [[dighton-fungal-dissolved-organic-carbon-production]]** (r-stat: 0.330, p = 0.001)
 4. **Water Content** (r-stat: 0.281, p = 0.001)
 5. **pH** (r-stat: 0.221, p = 0.001)
 
-Unweighted analysis showed the same ranking but higher
+[[unifrac-weighted-unweighted-analysis-cannabis-microbiome]] showed the same ranking but higher
 correlations, particularly for nitrogen (r-stat: 0.630)
 and salinity (r-stat: 0.620).
 
 ## Nitrogen
 
-Nitrogen availability is the most powerful edaphic predictor,
+[[nitrogen-availability-in-legumes]] is the most powerful edaphic predictor,
 reflecting its importance as a limiting nutrient. Different
 taxa employ varying nitrogen strategies:
 
@@ -42,7 +42,7 @@ taxa employ varying nitrogen strategies:
   N2 to bioavailable forms, advantaged in low-N soils.
 - **Decomposers** access organic nitrogen from soil organic
   matter, thriving in high-carbon environments.
-- **Nitrifiers/denitrifiers** participate in nitrogen cycling
+- **Nitrifiers/denitrifiers** participate [[fungal-role-in-nitrogen-cycling]]
   transformations shaping available N forms.
 
 Cannabis study values ranged from 0.26% to 1.51% total nitrogen.
@@ -87,45 +87,3 @@ Values ranged from 0.101 to 0.371, with Orange County soil
 retaining substantially more moisture.
 
 ## pH
-
-Soil pH is a master variable controlling microbial composition
-globally. It affects nutrient solubility, metal toxicity
-(aluminum, manganese at low pH), enzyme activity, and
-competitive dynamics between acidophilic and neutrophilic
-taxa.
-
-Despite a narrow range (pH 6.63-6.94), pH remained
-significantly correlated with community structure, confirming
-its importance even within modest variation.
-
-## Soil Texture
-
-All experimental soils were sandy loam (sand 62-66%, silt
-16-18%, clay 18-21%). Texture determines pore size
-distribution, water holding capacity, and root-soil contact.
-The consistent classification suggests texture effects were
-controlled, allowing other factors to drive observed
-differences.
-
-## BEST Analysis
-
-A Best Subset of Environmental Variables analysis confirmed
-all five factors contribute significantly and independently
-to community structure. The combined model performed better
-than any single factor alone.
-
-## Practical Implications for Cultivation
-
-- **Nitrogen**: Balanced fertilization avoids excessive N that
-  shifts communities unpredictably.
-- **Salinity**: Regular EC testing prevents salt accumulation.
-- **Organic matter**: Compost additions build carbon reserves
-  and support diverse microbial populations.
-- **Moisture**: Consistent watering prevents fluctuations that
-  destabilize communities.
-- **pH**: Target 6.3-6.9 for optimal microbial diversity.
-
-## See Also
-- [[cannabis-rhizosphere-microbiome]]
-- [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]

@@ -88,27 +88,3 @@ nematode mineralization:
 ## Why Chemical Fertilizers Disrupt This System
 
 Chemical fertilizers deliver nutrients in immediately available forms,
-bypassing the biological mineralization cycle. While this provides a
-quick nutrient boost, it has several negative consequences:
-
-1. Most applied fertilizer leaches past the root zone before plants
-   can absorb it
-2. Salt-based fertilizers dehydrate and kill soil microorganisms
-3. Without microbial populations, the immobilization-mineralization
-   cycle collapses
-4. Plants become dependent on repeated fertilizer applications
-5. The soil food web loses its capacity for self-sustaining nutrient
-   supply
-
-## Management Implications
-
-Gardeners can support the mineralization-immobilization cycle by:
-
-- Maintaining soil [[hamilton-composting-and-organic-matter-management]] to feed bacteria and fungi
-- Avoiding tillage that destroys fungal hyphae and disrupts microbial
-  habitats
-- Using [[teaming-with-microbes-compost-tea-and-microbial-inoculants]] to introduce diverse microbial populations
-- Supporting [[teaming-with-microbes-bacterial-vs-fungal-dominance]]
-- [[teaming-with-microbes-bacteria]]
-- [[root-exudates]]
-- [[fungal-nitrogen-mineralization-pathways]]

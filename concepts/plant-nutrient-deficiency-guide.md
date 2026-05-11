@@ -9,7 +9,7 @@ sources: []
 
 # Plant Nutrient Deficiency Guide
 
-Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies. (see [[cannabis-nutrient-deficiency-and-toxicity-guide]]).
+[[hamilton-nutrient-deficiencies-and-treatment]] manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid [[pf-tek-substrate-moisture-diagnosis-and-correction]] before yield is significantly impacted. This guide covers the primary macronutrients, [[calcium-magnesium-secondary-nutrients]], and key micronutrients with their characteristic deficiency signs [[solomon-disease-identification-and-organic-remedies]].
 
 ## Before Diagnosing
 
@@ -34,7 +34,7 @@ Visual symptoms:
 - Overall stunted growth, small new leaves
 - In cannabis: rapid yellowing of fan leaves during early flowering is normal; during veg it indicates deficiency
 
-Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth. (see [[cervantes-troubleshooting-guide]]).
+Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
 
 Organic fixes:
 - Composted manure (chicken manure is highest in N)
@@ -63,7 +63,7 @@ Organic fixes:
 - Bat guano (high-P varieties)
 - Composted poultry manure
 - Worm castings
-- Mycorrhizal inoculation — mycorrhizae dramatically increase P availability to roots
+- [[mycorrhizal-inoculation]] — mycorrhizae dramatically increase P availability to roots
 
 ### Potassium (K) Deficiency
 

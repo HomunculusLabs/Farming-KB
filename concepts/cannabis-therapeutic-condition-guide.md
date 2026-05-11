@@ -96,6 +96,27 @@ Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendat
 - **Dosing**: Sativex: start 1 spray/day, titrate to effect (max 12 sprays/day). THC: 2.5-10 mg divided doses. 1:1 THC:CBD ratio generally optimal.
 - **Notes**: Benefits often plateau -- patients may not need to continuously escalate.
 
+
+## Cultivation Considerations
+Successful cultivation requires attention to environmental factors
+including light cycles, temperature ranges, humidity control, and
+nutrient management. Both indoor and outdoor approaches have
+distinct advantages depending on climate and regulatory context.
+
+
+## Safety and Regulation
+Regulatory frameworks vary significantly by jurisdiction. Growers
+should consult local laws regarding cultivation, possession, and use.
+Proper identification and quality control remain essential for
+consumer safety across all production methods.
+
+
+## See Also
+- [[raw-cannabis-thca-non-psychoactive-therapeutic-properties]]
+- [[cannabis-sativa-vs-indica-therapeutic-differences-blesching]]
+- [[cannabis-sativa-vs-indica-therapeutic-differences]]
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
+- [[cannabis-thc-therapeutic-profile]]
 ## See Also
 
 - [[cannabis-health-therapeutics]] — ECS overview, cannabinoid/terpene profiles, dosing principles
@@ -103,3 +124,4 @@ Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendat
 - [[herbal-medicine]] — Integration with other botanical medicines
 - [[cannabis-extraction-basics]] — Making therapeutic preparations
 - [[uwe-blesching]] — evidence-based cannabis therapeutics research
+

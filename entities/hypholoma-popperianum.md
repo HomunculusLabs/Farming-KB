@@ -88,11 +88,3 @@ Some species in the genus Hypholoma and related genera may also contain [[norbae
 ## Ecological Role
 
 *H. popperianum* is a saprotrophic (saprobes) fungus that decomposes lignocellulose in
-decaying wood, contributing to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] ecosystems by breaking
-down the complex structural polymers of wood and converting them into simpler organic
-compounds available to other organisms in the forest food web.
-## See Also
-
-- [[psilocybin]] — the primary psychoactive [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] produced by this species
-- [[psilocin]] — the pharmacologically active metabolite of psilocybin
-- stropharia — a closely related genus including species formerly placed in Hypholoma

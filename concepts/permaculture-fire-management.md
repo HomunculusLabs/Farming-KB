@@ -70,3 +70,18 @@ Downslope forests should be slow-burning deciduous trees with low leaf oils, sap
 - [[permaculture-zone-0-house-design]] -- protecting the home
 - [[permaculture-pond-construction]] -- dams designed for firefighting
 - [[permaculture-tree-crop-systems]] -- fire-resistant tree crop selection
+
+## Practical Applications
+
+The principles discussed here have broad applications
+across diverse climate zones and growing conditions.
+Practitioners should adapt techniques to local context,
+soil types, and seasonal patterns for optimal results.
+
+## See Also
+
+- [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]]
+- [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]]
+- [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
+- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
+- [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]

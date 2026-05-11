@@ -10,8 +10,8 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Barkworth, M.E. et al. (2007). "Flora of North America Vol. 24: Poaceae." Oxford University Press.
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern United States." New York Botanical Garden.
+  - Barkworth, M.E. et al. (2007). "Flora huckleberries-and-wild-berries-of-north-america Vol. 24: Poaceae." Oxford University Press.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]]." New York Botanical Garden.
   - Hightshoe, G.L. (1988). "Native Trees, Shrubs, and Vines for Urban and Rural America." Wiley.
   - Darke, R. (2007). "The Encyclopedia of Grasses for Livable Landscapes." Timber Press.
   - Hitchcock, A.S. (1951). "Manual of the Grasses of the United States." USDA Miscellaneous Publication No. 200.
@@ -21,7 +21,7 @@ sources:
 
 **Elymus hystrix** is a perennial bunchgrass in the family Poaceae, commonly known as bottlebrush grass or eastern bottlebrush grass.
 
-It is native to eastern North America, ranging from Ontario and Quebec south through the Appalachian Mountains to northern Georgia and Alabama.
+It is native to [[polypore-fungi-eastern-north-america]], ranging from Ontario and Quebec south through the Appalachian Mountains to northern Georgia and Alabama.
 
 The species is named for its distinctive inflorescence, which resembles a bottlebrush or bristly caterpillar with long, straight awns extending outward from a dense spike.
 
@@ -57,7 +57,7 @@ Glumes are broad and keeled, and the lemma is firm and leathery with several pro
 
 Elymus hystrix is widely distributed in eastern North America.
 
-Its range extends from southern Ontario and southwestern Quebec west to Minnesota and Iowa, and south through the Appalachian region to northern Alabama and Georgia.
+Its range extends from southern Ontario and southwestern Quebec west to Minnesota and Iowa, and south through the [[bolete-fungi-appalachian-region]] to northern Alabama and Georgia.
 
 Disjunct populations occur in the Ozark Mountains of Arkansas and Missouri.
 
@@ -77,57 +77,14 @@ The species is absent from open prairies, wetlands, and severely disturbed habit
 
 Bottlebrush grass is a popular subject for shade gardens and native woodland plantings.
 
-Its tolerance of full to partial shade makes it one of the relatively few ornamental grasses suited to shaded conditions beneath deciduous trees.
+Its tolerance of full to partial shade makes it one of the relatively few [[ornamental-grasses-guide]] suited to shaded conditions beneath deciduous trees.
 
 The distinctive bottlebrush inflorescences provide textural interest from late spring through midsummer and can be used in dried arrangements.
 
-The species combines effectively with other shade-tolerant natives including *Maianthemum racemosum*, *Polygonatum biflorum*, *Trillium* species, and woodland ferns.
+The species combines effectively with other shade-tolerant natives including *Maianthemum racemosum*, *[[polygonatum-biflorum]]*, *Trillium* species, and woodland ferns.
 
 Propagation is primarily by seed, which should be stratified for 60 days or sown directly in fall.
 
 Seeds germinate readily under cool, moist conditions in spring.
 
 Germination rates are typically high, and seedlings establish quickly when competition is minimal.
-
-Division of mature clumps is possible but can be difficult due to the tough, fibrous root system.
-
-The species is relatively short-lived, with individual plants persisting three to five years before declining.
-
-Self-seeding in garden settings is common and helps maintain populations without deliberate replanting.
-
-As a forage species, Elymus hystrix provides moderate palatability for wildlife.
-
-White-tailed deer browse the foliage, and the seeds are consumed by songbirds and small mammals.
-
-Livestock forage value is limited due to the plant's woodland habitat preference.
-
-## Ecology
-
-Bottlebrush grass contributes to the herbaceous layer diversity of eastern deciduous forests.
-
-It is one of the earlier-flowering native grasses in woodland communities, providing a bridge between spring ephemeral forbs and later-season grasses.
-
-The dense root system helps stabilize soils on wooded slopes and stream banks.
-
-Seeds are dispersed locally by gravity and wind, with the stiff awns aiding in short-distance movement.
-
-Birds and small mammals likely contribute to longer-distance dispersal through seed caching and endozoochory.
-
-Several species of leaf-feeding insects and grasshoppers utilize Elymus hystrix as a host plant.
-
-The species serves as a larval host for skipper butterflies including the Indian skipper (*Hesperia sassacus*) in parts of its range.
-
-Bottlebrush grass is considered an indicator species of high-quality woodland habitat in many parts of the eastern United States.
-
-Its presence generally reflects relatively intact forest communities with minimal soil disturbance.
-
-## See Also
-
-- [[elymus-canadensis]]
-- [[bromus-inermis]]
-- [[deschampsia-caespitosa]]
-- [[panicum-virgatum]]
-- [[festuca-ovina]]
-- [[andropogon-gerardii]]
-- [[schizachyrium-scoparium]]
-- [[stipa-tenuissima]]

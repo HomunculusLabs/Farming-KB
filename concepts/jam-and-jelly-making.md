@@ -9,13 +9,13 @@ sources: []
 
 ## What Is Jam and Jelly
 
-Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from fruit juice (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter). (see [[granola-making]]).
+Jam and jelly are sweet fruit preserves made by cooking fruit with sugar and pectin until it sets into a spreadable consistency. The difference: jam contains crushed or chopped fruit (with pieces), while jelly is made from [[bionutrients-lab-fermented-fruit-juice-ffj]] (smooth and clear). Related products include marmalade (citrus preserves with peel), preserves (large fruit pieces), and fruit butter (fruit cooked with sugar until very smooth, like apple butter).
 
-Homemade jam captures peak-season fruit flavor and avoids the high-fructose corn syrup and artificial preservatives found in many commercial products. (see [[comparison-fermented-vegetables-vs-canning]]).
+Homemade jam captures peak-season fruit flavor and avoids the high-fructose corn syrup and artificial preservatives found in many commercial products.
 
 ## Pectin
 
-Pectin is a natural carbohydrate found in the cell walls of fruits. It acts as a gelling agent when combined with sugar and acid at the right concentration and temperature.
+Pectin is a natural carbohydrate found in the [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] of fruits. It acts as a gelling agent when combined with sugar and acid at the right concentration and temperature.
 
 ### Natural Pectin Levels in Fruit
 
@@ -59,7 +59,7 @@ If any element is out of balance, the jam will not set properly.
 
 ## Fruit Selection
 
-- Use fruit at peak ripeness for the best flavor
+- Use fruit at peak ripeness for the [[query-how-to-harvest-and-cure-cannabis-for-best-flavor]]
 - Slightly underripe fruit contributes more natural pectin (include a few underripe pieces in each batch)
 - Overripe fruit has less pectin and may produce softer set
 - Frozen fruit works well — thaw and drain excess liquid before cooking
@@ -136,9 +136,9 @@ If any element is out of balance, the jam will not set properly.
 
 - Reduced-sugar pectin or Pomona's Universal Pectin allows jam making with less sugar
 - Honey can replace up to half the sugar; use slightly less than the sugar amount
-- Maple syrup adds distinctive flavor; replace up to half the sugar
-- Stevia and monk fruit do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
-- Sugar-free jam has shorter shelf life and softer set; always refrigerate
+- [[maple-syrup-production]] adds distinctive flavor; replace up to half the sugar
+- Stevia and [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]] do not provide the preservative and textural benefits of sugar; use with calcium-activated pectin
+- Sugar-free jam has shorter [[ingham-aact-holding-time-shelf-life-decay]] and softer set; always refrigerate
 
 ## Common Problems
 

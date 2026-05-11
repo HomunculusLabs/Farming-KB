@@ -4,6 +4,7 @@ tags: [mycorrhiza, pine-blight, desertification, soil-microbes, ecosystem-collap
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-road-back-to-nature.md
 type: concept
 created: 2026-04-28
@@ -11,14 +12,14 @@ created: 2026-04-28
 
 # Mycorrhiza Collapse and Cascade Ecosystem Failure
 
-Fukuoka's three-year investigation into pine rot, conducted in a
+Fukuoka's three-year investigation into [[fukuoka-pine-rot-root-cause]], conducted in a
 makeshift orchard laboratory, revealed a chain of [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
 beginning with the destruction of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]. He identifies
 this as an early warning sign of widespread desertification affecting
 not only Japan but also California.
 
 His findings connect soil microbe disruption to the death of entire
-forest ecosystems and predict a cascading failure that could spread
+[[dighton-fungi-acidifying-pollutants-forest-ecosystems]] and predict a cascading failure that could spread
 progressively to all plant life in Japan.
 
 ## The Orchard Hut Investigation
@@ -38,9 +39,9 @@ Sekai e. Youngsters at the farm complained they had come to learn
 
 ## The Black Bristle Mold
 
-Fukuoka's research revealed that pine root decay precedes visible
+Fukuoka's research revealed that pine [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]] precedes visible
 symptoms of pine rot by two to three years. The conventional view
-attributed pine rot to pine weevil infestation, later updated to
+attributed pine rot to [[fukuoka-pine-weevil-blight-non-causality]] infestation, later updated to
 blame pine wood nematodes.
 
 But Fukuoka found the real damage begins underground, far earlier
@@ -51,7 +52,7 @@ bristle mold), which he had not yet formally identified.
 ## The Destruction Sequence
 
 The black bristle mold operates in a devastating sequence: it first
-destroys matsutake mycorrhizal fungi normally symbiotic with the red
+destroys matsutake [[arbuscular-mycorrhizal-fungi]] normally symbiotic with the red
 pine; the tree rootlets turn black and decay; a black mold then
 enters and damages the larger roots; and the pine is greatly weakened,
 reducing resin excretion.
@@ -87,61 +88,3 @@ The mycorrhizal fungus was the logical first target of global
 microbial disruption because it forms "a highly advanced biological
 community in which many microorganisms are concentrated and
 organically interconnected." The red pine became the strongest plant
-only because it was strongly protected by the matsutake fungus.
-Without this symbiotic protection, the pine is "weak and delicate."
-
-## Accelerating Factors
-
-Multiple factors accelerated the collapse: very acidic soil pH
-(3.2 to 4.8) in affected areas; air pollution and pesticides that
-kill beneficial soil organisms while pathogens resist them; imported
-lumber carrying non-native wood-decaying molds; and the high
-sensitivity of mycorrhiza to environmental changes. "Some radical
-and far-reaching measures to control these influences must be
-considered."
-
-## The Cascade Prediction
-
-Fukuoka warns of a terrifying chain: exogenous mycorrhizal plants
-(red and black pines) perish first; endogenous mycorrhizal plants
-(Japanese cypress and cedar) follow; then broadleaf trees (zelkova);
-then fruit trees; and potentially even rice. In Tokyo Prefecture,
-not a single red pine or Japanese cedar remains standing. In Kyoto,
-Fukuoka believed it might be the last chance for controlling the
-disease among pines at shrines and temples. "The question of
-whether we can protect the pine or not really boils down to whether
-we are able to protect Japan's natural environment."
-
-## Proposed Remediation Steps
-
-Fukuoka outlined three specific steps: raise soil pH from 3.2-4.8 to
-about 5 with lime or wood ash; apply large quantities of soil fungicide
-such as Orthicide powder in water, spraying in red pine stands before
-heavy rains; and after the fungicide has disappeared, inoculate large
-amounts of matsutake spores from pure cultures into the roots to
-stimulate new mycorrhiza growth. Without these measures, Japan's pines
-west of Tokyo would be almost entirely wiped out within five years.
-
-## The Matsutake Discovery and Choice
-
-During his research, Fukuoka discovered a method for artificially
-cultivating the [[pine-disease-and-matsutake-mushroom-decline]]. He found that chawan-mushi
-(steamed egg custard) was the ideal [[fukuoka-matsutake-culture-medium-appendix]]. When a matsutake
-cap is placed on top and spores fall into the custard, white mycelia
-fill the container within half a year. At about 61 degrees Fahrenheit,
-little matsutake pop up one after another.
-
-However, he ultimately chose not to pursue commercial cultivation.
-The moment he realized this could lead to locking up the matsutake
-"in a bottle," his enthusiasm cooled. "My true desire is to leave
-the secrets of the mountains as secrets. We must not create a
-spurious nature." He viewed the matsutake as "a forest sprite
-that protects Japan's mountains and forests." His microscope went
-back into the closet.
-
-See also: [[fukuoka-pine-rot-root-cause]],
-[[fukuoka-matsutake-culture-medium-appendix]]
-
-## See Also
-
-- [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]

@@ -4,6 +4,7 @@ tags: [fukuoka, agriculture, soil-degradation, desertification, monoculture, ene
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
   - masanobu-fukuoka-the-road-back-to-nature.md
 created: 2026-04-28
 type: concept

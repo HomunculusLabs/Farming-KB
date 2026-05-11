@@ -1,11 +1,11 @@
 ---
 title: Phytochrome Photoreceptor
-aliases: [phytochrome, plant photoreceptor, red far-red light sensing,
+aliases: [phytochrome, plant photoreceptor, red far-red [[darwin-phototropism-experiments-plant-light-sensing]],
 Pr Pfr]
 tags: [botany, plant-physiology, photoreceptors, phytochrome, light-
 signaling]
 created: 2026-05-09
-source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+source: grahamholmes-what-a-plant-knowsindd.md
 ---
 
 # Phytochrome Photoreceptor
@@ -14,8 +14,8 @@ Phytochrome is a photoreceptor pigment protein found in plants that
 enables them to detect red and far-red light. Discovered through the
 photoperiodism research of the 1940s and 1950s, phytochrome acts as a
 molecular switch that controls numerous developmental processes
-including seed germination, [[shade-avoidance-syndrome]], flowering time, and
-circadian rhythm entrainment. It is one of the most important sensory
+including [[cannabis-seed-germination]], [[shade-avoidance-syndrome]], [[what-a-plant-knows-photoperiodism-flowering-time-measurement]], and
+[[chamovitz-circadian-rhythm-internal-clock-plants]] entrainment. It is one of the most important sensory
 molecules in plant biology and plays a direct role in [[cannabis-flowering-cycles]]
 regulation.
 
@@ -87,49 +87,4 @@ phytochrome in light-grown plants, mediating red/far-red reversible
 responses including flowering time, shade avoidance, and seed
 germination. PhyB is relatively light-stable and is the critical
 phytochrome for photoperiodic flowering. **Phytochromes C, D, and E**
-have specialized roles in fine-tuning light responses, with phyE working
-alongside phyB in shade avoidance.
-
-## Downstream Signaling Mechanisms
-
-Upon conversion to active Pfr, phytochrome initiates complex signaling
-cascades that alter gene expression. Pfr translocates from cytoplasm to
-nucleus where it interacts with transcription factors and signaling
-proteins. **PIF proteins** (Phytochrome Interacting Factors) are bHLH
-transcription factors that promote dark-growth development. Pfr binds
-PIF proteins and promotes their degradation, removing repression on
-photomorphogenic genes. **COP1/SPA complex** is an E3 ubiquitin ligase
-that targets positive regulators of photomorphogenesis for degradation
-in darkness. Light-activated phytochrome inhibits COP1, stabilizing
-these regulators and promoting light-adapted development.
-
-## Role in Cannabis Flowering
-
-For [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], phytochrome B is the most relevant family
-member. During vegetative growth under 18/6, long daily light periods
-maintain phytochrome predominantly in the active Pfr form, suppressing
-flowering genes such as FLOWERING LOCUS T (FT). Switching to 12/12
-allows extended dark periods with more complete Pfr-to-Pr reversion.
-Reduced Pfr levels relieve FT suppression, allowing the flowering
-program to initiate.
-
-This has practical implications: even low-intensity red light during the
-dark period — from indicator LEDs, light leaks, or streetlights — can
-convert enough Pr to Pfr to disrupt the flowering signal. Far-red light
-alone during darkness is less disruptive, leading some researchers to
-explore far-red treatments to enhance flowering without disrupting
-photoperiodic measurement.
-
-## See Also
-
-- [[photoperiodism-plant-flowering]]
-- [[phototropism-darwin-plants]]
-- [[plant-vision-light-perception]]
-- [[plant-sensory-biology-chamovitz]]
-
-## References
-
-- Chamovitz D (2012) What a Plant Knows: A Field Guide to the Senses. Oneworld Publications.
-- Butler WL, Norris KH, Siegelman HW, Hendricks SB (1959) Detection and preliminary purification of the pigment controlling photoresponsive development of plants. PNAS, 45(12).
-- Smith H (2000) Phytochromes and shade-avoidance responses in plants. Ann Bot, 85(1): 3-12.
-- Rockwell NC, Martin SS, Lagarias JC (2006) Diverse mechanisms of phytochrome [[fungal-environmental-sensing-signal-transduction]]. Nat Chem Biol, 2(4).
+have specialized roles in fine-tuning [[phototropism-and-plant-light-responses]], with phyE working

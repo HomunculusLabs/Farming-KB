@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal dark taxa environmental dna sequencing and Environmental environmental-dna-sequencing-fungi
+title: [[fungal-dark-taxa]] [[environmental-dna-sequencing-fungi]]
 created: 2026-04-28
 updated: 2026-04-28
 type: concept
@@ -27,7 +27,7 @@ study methods.
 
 ## Scale of the Problem
 
-Estimates of total fungal diversity range from 2.2 to
+Estimates of total [[arbuscular-mycorrhizal-fungal-diversity]] range from 2.2 to
 3.8 million species, yet fewer than 150,000 have been
 formally described. High-throughput sequencing of
 environmental samples consistently reveals that 70 to 90
@@ -48,7 +48,7 @@ described diversity grows wider with each new survey.
 The ITS2 region of ribosomal DNA serves as the primary
 fungal barcode for environmental surveys. Primers such as
 ITS3 and ITS4, along with fungal-specific variants like
-fITS7, amplify broad swaths of fungal diversity from
+fITS7, amplify broad swaths of [[biodiversity-fungi-tropical-fungal-diversity]] from
 mixed environmental samples.
 
 Next-generation sequencing platforms (Illumina MiSeq, Ion
@@ -71,7 +71,7 @@ Metatranscriptomics adds functional information by
 capturing actively expressed genes, revealing what dark
 taxa are doing in situ rather than merely that they are
 present. This functional perspective is essential for
-understanding ecological roles of unknown fungi.
+understanding [[ecological-roles-fungi-ecosystems]] of unknown fungi.
 
 ## Major Groups of Dark Taxa
 
@@ -87,63 +87,4 @@ aquatic and soil samples worldwide.
 
 Many of these are obligate parasites or endoparasites of
 other microorganisms, making them extremely difficult to
-culture using standard methods. Their ecological roles as
-regulators of microbial populations are only beginning
-to be appreciated.
-
-### Soil-Associated Ascomycota and Basidiomycota
-
-Even within well-studied phyla, environmental surveys
-reveal vast undescribed diversity. The classes
-Eurotiomycetes, Dothideomycetes, and Agaricomycetes each
-contain hundreds of dark lineages. Many are likely
-saprotrophs with narrow ecological niches, root
-endophytes, or yeast-form species that evade traditional
-isolation methods.
-
-## Challenges in Characterization
-
-### The Cultivation Gap
-
-Most dark taxa resist standard cultivation. Fungi that
-depend on specific host organisms, complex nutritional
-requirements, or microaerophilic conditions are
-particularly recalcitrant. Novel approaches including
-diffusion chambers, in situ cultivation, and co-culture
-with bacterial partners have improved recovery rates but
-remain low-throughput.
-
-The time and resources required for cultivation mean that
-the vast majority of dark taxa will likely be described
-through molecular methods rather than traditional
-morphological characterization. This shift raises
-fundamental questions about how species should be
-defined and described in modern mycology.
-
-### Reference Database Limitations
-
-Taxonomic assignment of environmental sequences depends on
-curated reference databases such as UNITE, SILVA, and
-GenBank. When the closest match to an environmental
-sequence is itself an undescribed environmental sequence,
-classification stalls. This recursive problem means that
-even well-populated databases contain large clusters of
-sequences connected only to each other with no anchor to
-a described species.
-
-### Sequence-Based vs. Species-Based Concepts
-
-MOTUs cluster sequences by similarity thresholds
-(typically 97 to 99 percent for ITS), but these arbitrary
-cut-offs may over- or under-split biological species.
-Intragenomic ITS variation in some fungi produces multiple
-distinct sequences from a single individual, inflating
-diversity estimates. Conversely, conserved ITS regions
-in recently diverged species may lump distinct lineages
-## See Also
-
-- [[fungal-dark-taxa]]
-- [[fungal-metagenomics]]
-- [[fungal-environmental-dna]]
-- [[fungal-biodiversity-measurement-methods]]
-- [[dna-barcoding-fungal-identification]]
+culture using standard methods. Their [[growing-gourmet-mushrooms-ecological-roles-saprophyte-parasite-mycorrhiza]] as

@@ -87,27 +87,3 @@ The most important farming task in JADAM:
 3. This establishes strong root settlement, which leads to high quality and high yield
 
 ## Equipment Guidance
-
-- Stop using heavy tractors; use light vehicles instead
-- If tractors must be used, ensure wheels never travel over crop-growing areas
-- GPS-guided tractors that stay on permanent tracks are acceptable
-- No plowing or deep incorporation of fertilizer needed
-
-## Expected Results
-
-- Roots extend wide and deep (root area = yield potential)
-- Four-fold yield increases are reported after applying JADAM method
-- Soil becomes soft, dark, and rich in humus
-- Mineral deficiency problems resolve naturally
-- Farming becomes easier with age and experience (not harder as in conventional farming)
-
-## Related
-
-- [[jadam-soil-foundation-work]]
-- [[jadam-leaf-mold-soil-method]]
-- [[jadam-coexisting-with-wild-grass]]
-- [[jadam-cover-crop-soil-temperature-management]]
-- [[jadam-cover-crop-wild-grass-symbiosis]]
-- [[jadam-leaf-mold-as-ideal-soil]]
-- [[growing-vegetables-with-less-fertilizer]]
-- [[fungal-indicators-soil-quality-ecosystem-health]]

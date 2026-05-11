@@ -1,5 +1,5 @@
 ---
-title: belladonna-atropa-belladonna-ethnobotany
+title: Atropa Belladonna
 created: 2026-04-28
 type: species
 tags:
@@ -16,7 +16,7 @@ sources:
 
 # Atropa belladonna L.
 
-**Common names:** Deadly Nightshade, Belladonna, Dwale, Devil's Cherries
+**Common names:** [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]], Belladonna, Dwale, Devil's Cherries
 
 **Family:** Solanaceae (Nightshade Family)
 
@@ -26,8 +26,8 @@ Atropa belladonna, commonly known as Deadly Nightshade, is one of the most
 notorious toxic plants in the European pharmacopoeia and a central figure in
 the history of [[harner-european-witchcraft-hallucinogens]], folk medicine, and classical toxicology.
 Native to Europe, North Africa, and parts of Asia, this perennial herbaceous
-plant contains potent tropane alkaloids, principally atropine, hyoscyamine,
-and scopolamine. Its name, derived from Italian for "beautiful lady," recalls
+plant contains potent tropane alkaloids, principally [[atropine]], [[hyoscyamine]],
+and [[scopolamine]]. Its name, derived from Italian for "beautiful lady," recalls
 its historical use in ophthalmology to dilate pupils as a cosmetic practice.
 
 ## Taxonomy
@@ -53,7 +53,7 @@ arising from a thick, fleshy rootstock.
 
 The leaves are large, oval to lanceolate, and entire, measuring up to 8
 inches (20 centimeters) in length. They are arranged alternately along the
-stem, with one leaf at each node. The leaf surface is dark green above and
+stem, with one leaf at each node. The [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]] is dark green above and
 paler beneath, with a slightly unpleasant odor when crushed.
 
 The flowers are one of the most [[metzner-three-distinctive-features-shamanic-entheogenic-ceremonies]] of the plant. They are
@@ -87,60 +87,3 @@ beyond its native range.
 
 Atropa belladonna contains tropane alkaloids as its principal bioactive
 compounds. The three major alkaloids are:
-
-- **Atropine:** The namesake alkaloid of the species, atropine is a
-  racemic mixture of D- and L-hyoscyamine. It is a potent anticholinergic
-  agent that blocks the action of acetylcholine at muscarinic receptors,
-  causing pupil dilation, increased heart rate, dryness of mucous membranes,
-  and at higher doses, hallucinations and delirium.
-- **Hyoscyamine:** The predominant active form found in the living plant,
-  hyoscyamine is the L-isomer that is racemized to atropine during
-  extraction and processing. It shares the anticholinergic pharmacology
-  of atropine.
-- **Scopolamine (hyoscine):** An additional tropane alkaloid present in
-  smaller quantities, scopolamine has stronger sedative and amnesic
-  properties than atropine and is particularly associated with the
-  deliriant effects of Solanaceous plant intoxication.
-
-## Ethnobotanical and Historical Uses
-
-Atropa belladonna figured prominently as an important ingredient in many of
-the witches' brews of the Middle Ages. Along with Henbane (Hyoscyamus albus
-and H. niger) and Mandrake ([[mandrake-mandragora-officinarum-in-european-folklore]]), Belladonna constitutes
-one of the three main inebriating plants of European witchcraft. These plants
-were believed to enable witches to fly, transform into animals, and commune
-with spirits and demons.
-
-A rare variety, Atropa belladonna var. lutea, produces yellow blossoms
-instead of the typical purplish flowers. This yellow-flowered form is
-regarded as particularly potent for magic and witchcraft in European
-folklore, and it is sometimes distinguished in traditional herbal texts
-as having especially powerful properties.
-
-Atropa played a prominent role in the mythology of most European peoples.
-The plant's association with death, poison, and the supernatural is
-reflected in its many folk names and its pervasive presence in medieval
-herbals, pharmacopoeias, and grimoires.
-
-The Italian name "belladonna" (beautiful lady) derives from the historical
-practice of using extracts of the plant to dilate the pupils, producing a
-wide-eyed, doe-like appearance that was considered fashionable among
-Renaissance women. This cosmetic application represents one of the earliest
-recorded uses of atropine in ophthalmology.
-
-## Toxicology
-
-Both medicinal and extremely toxic, Atropa belladonna has a narrow
-[[cannabis-therapeutic-index-overview]]. Ingestion of even small quantities of the leaves or
-berries can cause serious anticholinergic poisoning, characterized by dry
-mouth, blurred vision, tachycardia, urinary retention, agitation, and
-hallucinations. Severe poisoning can progress to coma, respiratory failure,
-and death.
-
-## See Also
-
-- [[nerium-oleander]]
-
-- [[datura-metel]] — Asian Datura species with tropane alkaloids
-- [[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] [[tabernanthe-iboga]] — African iboga shrub with ibogaine
-- [[atropine]]

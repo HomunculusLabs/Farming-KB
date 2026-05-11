@@ -1,5 +1,5 @@
 ---
-title: Molasses as Fungal Food and Sticker-Spreader in Compost Tea
+title: Molasses Fungal Food Sticker Spreader Ingham
 created: 2026-04-28
 tags:
   - compost-tea
@@ -11,19 +11,20 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Elaine Ingham Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
+  - "[[elaine-ingham]] Ph.D., The Field Guide I for Actively actively-aerated-compost-tea Tea (AACT), 2004"
 type: concept
 ---
 
 # Molasses as Fungal Food and Sticker-Spreader in Compost Tea
 
-Blackstrap unsulfured molasses is one of the most versatile and widely used amendments in actively aerated compost tea (AACT) production. It serves dual roles as both a microbial food source and a sticker-spreader that helps organisms adhere to leaf surfaces. However, its effects are concentration-dependent, and understanding the relationship between molasses concentration, microbial selection, and osmotic effects is essential for producing effective compost teas.
+Blackstrap unsulfured molasses is one of the most versatile and widely used amendments in actively aerated compost tea (AACT) production. It serves dual roles as both a microbial food source and a sticker-spreader that helps organisms adhere to leaf surfaces. However, its effects are concentration-dependent, and understanding the relationship between molasses concentration, microbial selection, and [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]] is essential for producing effective [[bacterial-vs-fungal-compost-teas]].
 
 ## Types of Molasses
 
 Not all molasses products are equivalent. Key distinctions include:
 
-- **Blackstrap molasses**: Contains many different sugars including complex sugars that feed beneficial fungi. The residue left after standard analysis is typically humic acid material, which contributes to its value. This is the preferred form for compost tea.
+- **Blackstrap molasses**: Contains many different sugars including complex sugars that feed [[cervantes-trichoderma-beneficial-fungi]]. The residue left after standard analysis is typically humic acid material, which contributes to its value. This is the preferred form for compost tea.
 - **Unsulfured molasses**: Sulfur is a potent fungicide, so molasses treated with sulfur will inhibit the very fungi it is intended to support. Always use unsulfured products.
 - **Dried cane sugar and dried molasses**: These products lose the humic acid residue during the drying process, which is nearly impossible to dry down. Testing shows dried cane products grow mostly bacteria, whereas blackstrap molasses supports both bacteria and beneficial fungi.
 - **Beet molasses**: An alternative to cane molasses that works similarly, available in regions where beet sugar is produced.
@@ -62,7 +63,7 @@ The biological basis for the concentration-dependent selection is osmotic shock.
 2. Free water available to microorganisms decreases
 3. Rapidly growing bacteria, which require abundant free water, are progressively inhibited
 4. Beneficial fungi, which have mechanisms for accessing water in thin films on particle surfaces, continue to function
-5. Actinomycetes (actinobacteria) also tolerate these conditions, as they have evolved mechanisms for hot and dry environments
+5. Actinomycetes (actinobacteria) also tolerate these conditions, as they have evolved mechanisms for hot and [[biodiversity-xerophilic-fungi-dry-environments]]
 
 This explains why beneficial fungi gain a competitive edge as concentration increases. The osmotic effect acts as a selective pressure against the fastest-growing bacteria while allowing slower-growing beneficial organisms to thrive.
 
@@ -87,45 +88,3 @@ An additional benefit of high molasses concentrations is the suppression of anae
 A common substitution error is using dried cane sugar products in place of blackstrap molasses. Comparative testing shows that at usual tea concentrations:
 
 - Dried cane products grow mostly bacteria
-- Blackstrap molasses consistently supports both beneficial bacteria and beneficial fungi (provided fungi were present in the compost and extracted into the tea)
-- The humic acid residue in blackstrap molasses, which is lost during drying, appears to be a key factor in supporting fungal growth
-
-If using dried products, additional fungal foods (humic acid, fish hydrolysate) must be added to compensate for the missing fungal growth resources.
-
-## Cautions
-
-- Always verify the molasses is unsulfured; sulfur compounds will kill the fungi you are trying to grow
-- Monitor oxygen levels when using any concentration, as conditions vary with [[aact-compost-quality-standards-ingham]], temperature, and aeration capacity
-- At high concentrations, test the tea to confirm that beneficial organisms have not been lost to osmotic shock
-- The worst concentrations for maintaining aerobic conditions are in the 0.5% to 3% range, not the highest concentrations as might be assumed
-- Ensure sprayer equipment can handle syrup at high concentrations without clogging nozzles or damaging pumps
-
-## Molasses in Compost Piles
-
-Beyond compost tea, molasses plays a role in thermophilic composting. Adding approximately 500 ml per 4 kg (2 pints per 10 pounds dry waste) of compost material favors fungi over bacteria and can speed up the decomposition process dramatically. This works because:
-
-- The sugar provides energy for fungi to produce lignin and cellulose-degrading enzymes
-- Fungi can break down ligno-cellulosic waste without requiring high temperatures
-- The molasses also contributes trace minerals
-- Both cane and beet molasses are suitable for this purpose
-
-Adding simple sugars to a wood-heavy compost pile alone does not improve fungal growth as effectively as molasses, because the complex sugars in blackstrap molasses provide the specific substrates that fungi prefer.
-
-## Interactions with Other Tea Ingredients
-
-Molasses is often combined with other amendments in compost tea recipes. Understanding interactions is important:
-
-- **Kelp**: Provides micronutrients and [[ingham-natural-growth-regulators-soil-microbes]]; works synergistically with molasses as bacteria and fungi utilize kelp nutrients
-- **Fish hydrolysate**: Provides protein and nitrogen; combined with molasses, supports both [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] growth
-- **Humic acid**: Both are fungal foods; combining them can accelerate [[bioremediation-fungal-biomass-biosorbent-material]] development
-- **Alfalfa meal**: Contains proteins and growth factors; complements the sugar energy from molasses
-
-When combining ingredients, the total food load must stay within limits that the aeration system can handle. A typical upper limit for total amendments in a 5-gallon brew is approximately one pound, split among the different components.
-
-## See Also
-
-- [[ingham-fungal-inoculum-sourcing]]
-
-- [[aact-fungal-dominant-tea]]
-- [[humic-acids-soil-biology-ingham]]
-- [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]

@@ -9,13 +9,13 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Calendula Salve and Herbal Remedies
 
-These traditional herbal remedies were once found in almost every "home pharmacy." Because the potency of medicinal plants can vary from place to place, the recipes should be adapted. With a little experience the correct strength can easily be determined. (see [[herbal-plant-remedies]]).
+These traditional herbal remedies were once found in almost every "home pharmacy." Because the potency of medicinal plants can vary from place to place, the recipes should be adapted. With a little experience the correct strength can easily be determined.
 
 ## Calendula Salve
 
 ### Ingredients
-- Two heaped double handfuls of calendula (Calendula officinalis) — whole plant including stem, leaves and flowers
-- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. olive oil)
+- Two heaped double handfuls of calendula ([[calendula-officinalis]]) — whole plant including stem, leaves and flowers
+- Roughly half a litre of lard (available from a butcher), or vegetable oil (e.g. [[olive-cultivation-and-olive-oil-production]])
 - If using vegetable oil: 200-250g beeswax per litre of oil as thickening agent
 
 ### Method
@@ -30,7 +30,7 @@ These traditional herbal remedies were once found in almost every "home pharmacy
 3. Mix the melted wax into the filtered calendula oil well
 4. Leave to cool
 
-The more wax you use, the stiffer the salve will be. If you prefer a very creamy salve, use less wax. (see [[medicinal-herb-growing]]).
+The more wax you use, the stiffer the salve will be. If you prefer a very creamy salve, use less wax.
 
 ### Uses
 Calendula salve can be used to treat all kinds of injuries because it encourages wounds to heal and keeps inflammation down.
@@ -55,7 +55,7 @@ Calendula salve can be used to treat all kinds of injuries because it encourages
 ## Chicory Tea for Diabetics
 
 ### Ingredients
-- Equal amounts of: chicory root (Cichorium intybus), dandelion root, stinging nettles, French lilac, bilberry leaves
+- Equal amounts of: chicory root ([[cichorium-intybus]]), dandelion root, stinging nettles, French lilac, bilberry leaves
 - Three tablespoons of the plant mixture per litre of water
 
 ### Method
@@ -77,7 +77,7 @@ Applied directly to heavily bleeding wounds. Its ability to stop bleeding means 
 
 ## Drawing Salve (Traditional)
 
-Made from tree resin (liquid larch pitch) mixed with different medicinal herbs and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
+Made from tree resin (liquid larch pitch) mixed with different [[medicinal-herbs-for-livestock]] and applied as a poultice. The effect was so powerful it could treat inflammation and festering wounds in a very short time.
 
 ## Onion, Garlic and Horseradish Poultice
 

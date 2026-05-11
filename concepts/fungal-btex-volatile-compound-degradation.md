@@ -1,5 +1,5 @@
 ---
-title: Fungal BTEX and fungal-volatile-organic-compounds-communication Compound Degradation
+title: Fungal Btex Volatile Compound Degradation
 created: 2026-04-28
 tags: [BTEX, VOC, bioremediation, petroleum, mycoremediation]
 date: 2026-04-25
@@ -12,9 +12,9 @@ type: concept
 
 ## Overview
 
-BTEX compounds (benzene, toluene, ethylbenzene, and o-, m-, and
+[[staycare-fungal-bioremediation-btex-compounds]] (benzene, toluene, ethylbenzene, and o-, m-, and
 p-xylenes) are a family of priority environmental pollutants listed
-by the US Environmental Protection Agency. As components of gasoline
+by the US [[fungal-melanin-environmental-protection-stress-resistance-gadd]] Agency. As components of gasoline
 and aviation fuels, BTEX compounds enter soil, sediments, and
 groundwater from leaking underground storage tanks, accidental spills,
 and inadequate waste disposal practices. Trichloroethylene (TCE) and
@@ -23,11 +23,11 @@ organic compound (VOC) classes degradable by fungi. [[phanerochaete-chrysosporiu
 
 P. chrysosporium efficiently degrades BTEX components both
 individually and as mixtures. Remarkably, substantially greater
-BTEX degradation occurred in malt extract medium and defined
+BTEX degradation occurred in [[malt-extract-agar]] medium and defined
 high-nitrogen medium (where ligninolytic peroxidase expression is
 blocked) than in defined low-nitrogen medium. This indicates that
 BTEX degradation by P. chrysosporium does not depend on the
-ligninolytic enzyme system but rather on alternative pathways active
+[[ligninolytic-enzyme-production-bioremediation]] system but rather on alternative pathways active
 under nutrient-rich conditions. The fungus achieved substantial
 degradation of radiolabelled ring benzene and toluene to carbon
 dioxide, demonstrating true mineralization rather than mere
@@ -55,7 +55,7 @@ in the [[dmt-containing-plants-united-states-halpern]]. P. chrysosporium degrade
 rich conditions through an alternative enzyme system independent of
 LiP or MnP production, probably upregulated under nutrient-rich
 conditions. Total TCE removal of 46.2% was achieved, with 38.5%
-converted to carbon dioxide, indicating that most TCE is
+converted to [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]], indicating that most TCE is
 mineralized. This represents an important finding because TCE
 [[query-how-does-lignin-degradation-by-fungi-work]] had been relatively unexplored.
 
@@ -87,12 +87,3 @@ chlorine-substituted aromatic rings that resist biological attack.
 treating mixed halogenated and non-halogenated VOC plumes.
 
 ## Ligninolytic versus Non-Ligninolytic Pathways
-
-A notable finding in fungal VOC degradation is that many compounds
-are degraded more effectively under nutrient-rich conditions where
-[[fungal-explosive-compound-degradation]]
-
-- mycoremediation-of-petroleum-hydrocarbons
-- mycoremediation-oil-spills
-## See Also
-- [[mycoremediation]]

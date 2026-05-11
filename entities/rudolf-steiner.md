@@ -11,6 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
   - Steiner, R. (1924). "Spiritual Foundations for the Renewal of Agriculture." Bio-Dynamic Farming and Gardening Association.
   - Lachman, G. (2007). "Rudolf Steiner: An Introduction to His Life and Work." Tarcher/Penguin.
   - Barnes, H. (2018). "Rudolf Steiner: A Biography." Rudolf Steiner Press, 2nd ed.
@@ -86,27 +87,3 @@ Steiner's architectural philosophy, termed "organic architecture" or "organic bu
 The first Goetheanum was destroyed by fire on New Year's Eve 1922-1923. Steiner immediately designed a second Goetheanum, constructed of reinforced concrete between 1924 and 1928 (completed posthumously). The building remains the headquarters of the Anthroposophical Society.
 
 Steiner's [[holmgren-permaculture-twelve-design-principles-framework]] influenced expressionist architecture and the organic architecture movement. His emphasis on sculptural form, flowing spaces, and the relationship between building and landscape prefigured later developments in organic and ecological design.
-
-In the visual arts, Steiner developed the theory of "anthroposophical art" and founded the art of eurythmy in 1912. Eurythmy is a movement art that makes visible speech and music through choreographed gestures, and it remains a core component of Waldorf education.
-
-## Anthroposophical Medicine
-
-Steiner extended anthroposophical principles to medicine through collaboration with physician Ita Wegman, co-authoring *Fundamentals of Therapy* (1925). Anthroposophical medicine integrates conventional medical knowledge with spiritual-scientific understanding of the human being.
-
-The medical approach uses homeopathic preparations, herbal remedies, and artistic therapies (painting, sculpture, music therapy, eurythmy therapy) alongside conventional treatments. Anthroposophical hospitals and clinics operate in over 20 countries, primarily in Europe.
-
-Key concepts include the four-fold model of the human organism (physical, etheric, astral, and ego bodies) and the correspondence between physiological processes and natural substances. Remedies are prepared using specific pharmaceutical processes that enhance their therapeutic properties.
-
-Anthroposophical medicine has been recognized as a distinct medical system by the Swiss government and is practiced by certified physicians in several European countries. Research includes clinical studies on mistletoe therapy (*Viscum album*) in cancer treatment.
-
-## See Also
-
-- permaculture
-- [[david-holmgren]]
-- [[hugelkultur]]
-- comfrey
-- [[swale]]
-- [[guild-planting]]
-- [[withania-somnifera]]
-- [[glycyrrhiza-glabra]]
-- [[taraxacum-officinale]]

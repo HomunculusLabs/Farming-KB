@@ -33,7 +33,7 @@ sources:
 *Miscanthus sinensis*, the Chinese silver grass or eulalia grass, is a
 tall, rhizomatous [[savory-perennial-grass-and-desertification]] in the family Poaceae. Native to
 eastern Asia, it has become one of the most significant bioenergy crops
-worldwide due to its exceptional biomass productivity, low input
+worldwide due to its exceptional biomass productivity, [[low-input-composting-methods]]
 requirements, and ability to grow on marginal land. The sterile hybrid
 *Miscanthus × giganteus*, derived from *M. sinensis* and *M. giganteus*,
 is the primary commercial bioenergy variety, but the parent species
@@ -43,7 +43,7 @@ applications.
 *M. sinensis* typically grows 1.5–3.5 meters tall and forms dense clumps
 of arching foliage that turns golden-bronze in autumn. Its feathery
 silver-white plumes emerge in late summer and persist through winter,
-making it one of the most widely planted ornamental grasses in temperate
+making it one of the most widely planted [[ornamental-grasses-guide]] in temperate
 landscapes.
 
 ## Taxonomy and Morphology
@@ -74,11 +74,11 @@ slopes at elevations from sea level to 2,000 meters.
 
 The species has been widely introduced in [[psilocybin-north-america-pacific-northwest]], Europe, and
 New Zealand as an ornamental and bioenergy crop. In parts of the eastern
-United States and western Europe, it has naturalized and is considered
+[[dmt-containing-plants-united-states-halpern]] and western Europe, it has naturalized and is considered
 an invasive species in some areas, forming dense monocultures that
 displace native vegetation along roadsides and disturbed habitats.
 
-It is adapted to temperate and subtropical climates with annual rainfall
+It is adapted to temperate [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]] with annual rainfall
 of 500–1,500 mm. It tolerates a wide range of soil types, from sandy
 loams to heavy clays, and tolerates moderate soil salinity and pH ranges
 from 5.0 to 7.5.
@@ -88,47 +88,3 @@ from 5.0 to 7.5.
 *M. sinensis* is propagated by division in spring or by seed (for
 fertile diploid types). Established plantings are long-lived, persisting
 15–20+ years without replanting. The crop requires minimal inputs:
-fertilizer needs are modest (50–100 kg N/ha/yr for bioenergy
-production), and it requires no pesticides once established.
-
-Bioenergy plantings use sterile triploid or tetraploid cultivars at
-densities of 10,000–20,000 plants per hectare. Harvest occurs in late
-winter or early spring when above-ground biomass has senesced and moisture
-content has dropped below 15%. Yields range from 10–25 tonnes of dry
-matter per hectare per year, depending on climate, soil, and cultivar.
-
-The crop is C4, giving it high photosynthetic efficiency and water-use
-efficiency compared to C3 grasses. It allocates approximately 50–60% of
-above-ground biomass below ground during senescence, building soil
-organic matter and contributing to [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
-
-## Permaculture and Ecological Applications
-
-*M. sinensis* serves multiple functions in permaculture and ecological
-design systems:
-
-- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]:** High-yielding mulch and compost feedstock,
-  generating large volumes of organic matter annually.
-- **[[permplant-willows-salix-erosion-control-fodder]]:** Dense rhizomatous root systems stabilize soil on
-  slopes, riparian zones, and degraded land.
-- **Windbreaks and shelterbelts:** Tall, dense stands provide effective
-  wind protection for crops, livestock, and buildings.
-- **Wildlife habitat:** Standing dead canes provide overwintering habitat
-  for birds and insects; seeds feed songbirds in winter.
-- **Phytoremediation:** Tolerates heavy metals and degraded soils, making
-  it suitable for brownfield restoration.
-- **Water management:** Deep root systems (2+ meters) improve soil
-  infiltration and reduce surface runoff.
-
-The sterile hybrid *M. × giganteus* is preferred for large-scale
-bioenergy applications to prevent escape, while ornamental *M. sinensis*
-cultivars are used in landscape design, riparian buffer plantings, and
-habitat restoration projects.
-
-## See Also
-
-- [[angelica-sinensis]]
-
-- [[moringa-oleifera]] — multipurpose permaculture tree for tropical systems
-- [[robinia-pseudoacacia]] — black locust, nitrogen-fixing permaculture tree
-- [[caragana-arborescens]] — Siberian peashrub, cold-hardy nitrogen fixer

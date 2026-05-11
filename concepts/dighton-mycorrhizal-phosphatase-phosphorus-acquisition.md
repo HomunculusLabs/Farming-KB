@@ -1,5 +1,5 @@
 ---
-title: dighton mycorrhizal phosphatase phosphorus acquisition Enzyme Activity and Phosphorus Acquisition
+title: Dighton Mycorrhizal Phosphatase Phosphorus Acquisition
 created: 2026-04-26
 tags:
   - mycology
@@ -36,7 +36,7 @@ In low-pH soils characteristic of these ecosystems, heavy metals such as iron
 and aluminum are more available. Concentrations exceeding 100 mg per liter were
 shown to be inhibitory to phosphatase production by the ericoid mycorrhizal
 fungus Hymenoscyphus ericae (Shaw and Read, 1989). Despite this constraint,
-ericoid mycorrhizal associations function to "detoxify" the ecosystem by
+ericoid [[plants-without-mycorrhizal-associations]] function to "detoxify" the ecosystem by
 assimilating phenolic and aliphatic acids and complexing toxic metal ions
 (Leake and Read, 1991; Bradley et al., 1982).
 
@@ -76,10 +76,10 @@ inorganic sources.
 
 There is considerable variability among fungal species in their ability to
 produce phosphatase and other enzymes (Dighton, 1983, 1991; Lapeyrie et al.,
-1991). Read (1991b) suggested that species such as Laccaria laccata and
-Pisolithus tinctorius are poor enzyme producers, relying on enhancing nutrient
-uptake of mineral nutrients derived from saprotrophic decomposition. In
-contrast, species such as Paxillus involutus, Lactarius spp., Amanita spp., and
+1991). Read (1991b) suggested that species such as [[laccaria-laccata]] and
+[[pisolithus-tinctorius]] are poor enzyme producers, relying on enhancing nutrient
+uptake of mineral nutrients derived from [[dighton-fungal-sulfite-effects-saprotrophic-decomposition]]. In
+contrast, species such as [[paxillus-involutus]], Lactarius spp., Amanita spp., and
 Suillus spp. exhibit greater enzyme competency.
 
 ## Phosphatase and Forest Succession
@@ -88,34 +88,3 @@ Differences in ectomycorrhizal [[ligninolytic-enzyme-production-bioremediation]]
 during forest ecosystem development. During later stages of forest development
 or in more mature forests, litter inputs consist of more recalcitrant
 materials, favoring mycorrhizal fungi with greater enzyme competency (Read,
-1991a). Conn and Dighton (2000) demonstrated that mycorrhizal communities
-developing on oak-containing leaf litters had a higher proportion of
-phosphatase-producing mycorrhizae than those on pine litter, reflecting the
-lack of available phosphorus in oak litter where phosphorus is immobilized
-during initial decomposition stages.
-
-## Phosphatase and Environmental Controls
-
-The availability of inorganic phosphorus in soil solution controls the rate of
-phosphatase production through negative feedback mechanisms. Kroehler et al.
-(1988) showed that substrate hydrolysis yielded more inorganic phosphate than
-was taken up by mycorrhizal fungi, indicating that mycorrhizal phosphatase
-activity may contribute to net nutrient mineralization in soil. Liming has been
-shown to reduce acid phosphatase activity by increasing both N and P
-availability, thus reducing the plant's demand for phosphatase-mediated
-phosphorus acquisition.
-
-## Phosphorus Solubilization from Complex Inorganic Sources
-
-Beyond organic phosphorus, some ectomycorrhizal fungi can solubilize complex
-inorganic forms of phosphate. Paxillus involutus was shown to solubilize
-[[bionutrients-lab-calcium-phosphate-calamansi]], but only in the presence of available ammonium or nitrate
-nitrogen (Lapeyrie et al., 1991). In all fungal species examined, dissolution
-of complex phosphate was enhanced in the absence of orthophosphate, suggesting
-product suppression of the enzyme system.
-
-## See Also
-
-- [[dighton-fungal-extracellular-enzyme-systems-decomposition]]
-- [[dighton-ectomycorrhizal-ecosystem-impact]]
-- [[fungal-role-in-phosphorus-cycling]]

@@ -88,15 +88,5 @@ Mollison frames seed exchange as part of a broader strategy:
   patents entirely
 ## Key Principles
 1. **Save seed annually:** Make seed saving routine in every garden cycle
-2. **Share freely:** Participate in local and regional seed exchanges
-3. **Preserve heirlooms:** Maintain locally adapted traditional varieties
-4. **Choose open-pollinated:** Avoid patented hybrids that cannot be saved
-5. **Network regionally:** Build bioregional seed networks for resilience
-6. **Document:** Record variety names, sources, adaptations, performance
-7. **Grow perennials:** Tree crops and perennials bypass seed patents
-## Related Topics
-- [[permaculture-designers-manual-plant-nursery]] - Propagation
-- permaculture-designers-manual-designer-checklist - Self-reliance
-- [[permaculture-designers-manual-strategic-planning]]
-- mollison-permaculture-two-community-self-reliance
-- [[bill-mollison]]
+
+See also [[permaculture-designers-manual-plant-nursery]] for related information from the Permaculture Designer's Manual.

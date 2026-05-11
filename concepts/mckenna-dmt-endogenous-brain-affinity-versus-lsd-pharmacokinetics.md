@@ -1,13 +1,13 @@
 ---
 title: DMT as Endogenous Hallucinogen and Brain Affinity Compared to LSD
-source: McKenna (1983/1992) - Tryptamine Hallucinogens and Consciousness
+source: McKenna (1983/1992) - Tryptamine [[tryptamine-hallucinogens-and-consciousness]]
 concepts:
   - DMT
   - endogenous psychedelics
   - serotonin
   - psilocybin
   - LSD
-  - brain chemistry
+  - [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]]
   - pharmacokinetics
   - tryptamine
 ---
@@ -16,11 +16,11 @@ concepts:
 
 ## Overview
 
-Terence McKenna, in his 1983 Esalen lecture on tryptamine hallucinogens and consciousness, drew attention to a crucial pharmacological distinction between DMT and classical hallucinogens like LSD: DMT is an endogenous compound present in the human brain, and its pharmacokinetic profile—extremely rapid onset and short duration—indicates that the brain is fundamentally adapted to process this molecule. This observation carries profound implications for understanding the relationship between consciousness, neurochemistry, and the tryptamine family.
+[[terence-mckenna]], in his 1983 Esalen lecture on [[mckenna-tryptamine-hallucinogens-and-consciousness]] consciousness, drew attention to a crucial pharmacological distinction between DMT and classical hallucinogens like LSD: DMT is an endogenous compound present in the human brain, and its pharmacokinetic profile—extremely rapid onset and [[savory-short-duration-grazing-and-cell-systems]]—indicates that the brain is fundamentally adapted to process this molecule. This observation carries profound implications for understanding the relationship between consciousness, neurochemistry, and the [[tryptamine-family-overview]].
 
 ## Endogenous Presence of DMT
 
-McKenna noted that DMT is present in small amounts in the human brain, making it an endogenous hallucinogen. This fact distinguishes it fundamentally from synthetic compounds like LSD. The presence of DMT within human neurochemistry suggests that the brain has evolved receptor systems and metabolic pathways specifically responsive to this molecule, raising questions about the natural function of endogenous DMT and its role in ordinary and extraordinary states of consciousness.
+McKenna noted that DMT is present in small amounts in the human brain, making it an endogenous hallucinogen. This fact distinguishes it fundamentally from synthetic compounds like LSD. The presence of DMT within human neurochemistry suggests that the brain has evolved receptor systems and metabolic pathways specifically responsive to this molecule, raising questions about the natural function of endogenous DMT and its role in ordinary and extraordinary [[mckenna-food-gods-designer-states-of-consciousness]].
 
 Research subsequent to McKenna's lecture has confirmed the presence of DMT in mammalian brain tissue, and the discovery of trace amine-associated receptors (TAARs) and the enzyme indolethylamine N-methyltransferase (INMT) in the human brain has provided mechanistic support for McKenna's assertion. The functional significance of endogenous DMT remains debated, but theories include roles in near-death experiences, dreaming, and naturally occurring mystical states. McKenna's prescient observation that DMT is "present in small amounts in the human brain" anticipated by decades the formal confirmation of this fact through modern analytical chemistry.
 
@@ -34,7 +34,7 @@ McKenna emphasized the close structural relationship between psilocybin, DMT, an
 
 The tryptamine core shared by all three compounds means that psychedelic tryptamines act as structural analogs of serotonin, interfacing with serotonergic receptor systems. The fact that the human brain's most abundant neurotransmitter shares its fundamental molecular architecture with the most potent known hallucinogens is an observation McKenna considered deeply significant for understanding consciousness itself.
 
-McKenna further noted that the quantum mechanical correlates of hallucinogenesis demonstrate a "dynamic linkage at the formative level between quantum mechanically described matter and mind." He cited the work of John Smythies and Alexander Shulgin showing that moving a single atom on the molecular ring of an inactive compound can make it highly active—a demonstration of the precision with which brain chemistry interfaces with conscious experience.
+McKenna further noted that the [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] of hallucinogenesis demonstrate a "dynamic linkage at the formative level between quantum mechanically described matter and mind." He cited the work of John Smythies and [[alexander-shulgin]] showing that moving a single atom on the molecular ring of an inactive compound can make it highly active—a demonstration of the precision with which brain chemistry interfaces with conscious experience.
 
 ## Pharmacokinetic Profile: Speed as Evidence of Brain Affinity
 
@@ -58,8 +58,8 @@ Unlike LSD, which requires metabolic activation and whose effects build graduall
 
 McKenna provided a detailed phenomenological account of the DMT onset that has become widely cited in psychedelic literature:
 
-- An auditory sensation described as "ripping cellophane" or crumpling plastic film
-- A friend suggested this sound represents "our radio entelechy ripping out of the organic matrix"
+- An auditory sensation described as "[[mckenna-dmt-onset-phenomenology-ripping-cellophane]]" or crumpling plastic film
+- A friend suggested this sound represents "our [[mckenna-radio-entelechy-dmt-onset-acoustic-phenomena]] ripping out of the organic matrix"
 - An ascending tone accompanies the visual phenomena
 - Shifting geometric surfaces of migrating colored forms appear
 - A mode shift occurs over approximately thirty seconds as all available bond sites become occupied
@@ -87,40 +87,4 @@ McKenna noted that psilocybin is "lumped together with LSD and mescaline" in pub
 
 McKenna noted that one of the interesting characteristics of DMT is that it sometimes inspires fear—"this marks the experience as existentially authentic." He argued that a "touch of terror gives the stamp of validity to the experience because it means 'This is real.'" The natural reaction of amazement persists because "one's ego is intact" and "one's fear reflexes are intact"—the experiencer is not "fuzzed out" but fully present and overwhelmed.
 
-This criterion of existential authenticity distinguishes the DMT experience from purely hedonic intoxication. For McKenna, the experience "must move one's heart, and it will not move the heart unless it deals with the issues of life and death."
-
-## Implications for Consciousness Studies
-
-The endogenous presence of DMT and the brain's evident affinity for processing it led McKenna to several speculative conclusions:
-
-- The tryptamine state may reveal latent abilities of the human brain that have yet to be formally discovered
-- Once characterized, these abilities may prove so fundamental they enter mainstream cultural evolution
-- Language itself may be "the shadow of this ability" or a preliminary form of more direct translinguistic communication
-- A human language in which "the intent of meaning is actually beheld in three-dimensional space" may be accessible under certain circumstances
-- Given sufficient cultural engagement, such abilities could become cultural conveniences comparable to mathematics or ordinary language
-
-These implications extend the significance of DMT far beyond its pharmacological profile, suggesting that the tryptamine state is not merely a drug experience but a window into latent human capacities that may be culturally dormant but neurologically present.
-
-## DMT as Translinguistic Modulator
-
-McKenna observed that both psilocybin and DMT share a distinctive quality: they work "directly on the language centers" of the brain. This is what McKenna meant by saying these compounds "invoke the Logos." The experience is not merely visual or emotional but fundamentally linguistic—the hallucinogenic state generates interior dialogue, verbal phenomena, and what McKenna called "the voice of the Logos." This translinguistic quality distinguishes tryptamines from other classes of hallucinogens that produce primarily visual or somatic effects without the same degree of verbal-linguistic activation.
-
-The Logos, in McKenna's usage, draws on both the Greek philosophical tradition and the Johannine Christian concept of the Word as the creative principle of reality. In the tryptamine state, the Logos manifests not as abstract concept but as an immediate phenomenological reality—a voice, a presence, or a communicative intelligence that the experiencer encounters directly. This encounter with a seemingly autonomous communicative entity is one of the most distinctive and consistent features of the DMT experience.
-
-## McKenna's Baconian Method
-
-McKenna explicitly situated his approach within the empirical tradition of Francis Bacon. He described himself as a "Baconian" who collects data from direct experience and then seeks to understand it. This stance positioned his work against both the scientistic rejection of subjective experience and the credulous acceptance of all visionary content as literal truth. His method was to record and compare experiences, identify consistent patterns, and then formulate hypotheses that could account for the data—including the hypothesis that some of the entities encountered might be genuine realities existing in dimensions beyond ordinary perception.
-
-This methodological self-awareness distinguished McKenna from both skeptics and true believers. He was willing to entertain extraordinary claims (extraterrestrial mushrooms, galactic societies) while maintaining a critical distance from them, treating them as data points requiring further investigation rather than settled conclusions.
-
-## See Also
-
-- [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]]
-
-- [[mckenna-dmt-psilocybin-lsd-pharmacokinetic-comparison]]
-
-- [[dmt-self-transforming-machine-elves-mckenna]]
-- [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
-- [[mckenna-tryptamine-glossolalia-and-primal-language]]
-- [[consciousness-and-psychedelics]]
-- [[mckenna-quantum-mechanical-correlates-hallucinogenesis]]
+This criterion of [[mckenna-psychedelic-terror-and-existential-authenticity]] distinguishes the DMT experience from purely hedonic intoxication. For McKenna, the experience "must move one's heart, and it will not move the heart unless it deals with the issues of life and death."

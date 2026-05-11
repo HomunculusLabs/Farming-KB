@@ -1,149 +1,90 @@
 ---
-title: archaic-revival-partnership-vs-dominator-cultures Culture
-created: 2026-05-09
-tags: [culture, history, gender, patriarchy, ecology, riane-eisler, terence-mckenna]
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Food of the Gods (Terence McKenna, 1992)
-  - The Chalice and the Blade (Riane Eisler, 1987)
-type: concept
+title: Partnership Vs Dominator Culture
+aliases:
+  - [[mckenna-archaic-sexuality-and-partnership-society]]
+  - dominator society
+  - dominator culture
+  - partnership model
+  - dominator model
+  - Chalice and the Blade
+tags:
+  - anthropology
+  - consciousness
+  - culture
+  - history
+  - psychedelics
+  - shamanism
+source: McKenna, T. (1992). *Food of the Gods: The Search for the Original Tree of Knowledge*. Bantam Books.
 ---
 
 # Partnership vs Dominator Culture
 
-The **partnership/dominator model** is a framework for understanding human cultural
-evolution developed by Riane Eisler in *The Chalice and the Blade* (1987) and adopted
-by Terence McKenna in *Food of the Gods* as a central explanatory structure for the
-history of humanity's relationship with psychoactive substances. The model proposes that
-human societies can be classified along a spectrum between two fundamental social
-orientations: **partnership societies**, which are egalitarian, ecologically embedded,
-and oriented toward balance and reciprocity; and **dominator societies**, which are
-hierarchical, paternalistic, and oriented toward control, domination, and the
-suppression of alternative forms of consciousness.
+## Overview
 
-## Partnership Societies
+In *Food of the Gods*, Terence McKenna adopts the framework of **partnership** and **dominator** cultural models, terms borrowed from Riane Eisler's *The Chalice and the Blade* (1987). These two opposing modes of social organization serve as the central analytical lens through which McKenna interprets the arc of human history, from the Archaic reverence for nature and psychoactive plants to the modern dominator culture's suppression of ecstatic experience and shamanic gnosis.
 
-In the partnership model, social organization is based on linking rather than ranking.
-McKenna and Eisler characterize partnership societies by several key features:
-- **Egalitarianism**: Power and authority are distributed rather than concentrated.
-Gender relations are relatively balanced, and social status derives from contribution
-rather than inheritance or coercion.
+## Eisler's Framework
 
-- **Goddess worship**: Partnership societies tend to venerate female deities or a
-supreme goddess figure, reflecting the centrality of women in reproduction, agriculture,
-and community life. The Earth itself is understood as a living, nurturing mother — a
-worldview that naturally encourages ecological sensitivity and sustainable resource use.
+Eisler advanced the notion that partnership models of society preceded and later competed with, and were ultimately oppressed by, dominator forms of social organization. Her archaeological synthesis argues that over vast areas and for many centuries, the partnership societies of the ancient Middle East were without warfare and upheaval. Warfare and patriarchy arrived with the appearance of dominator values. The analysis raised the level of debate beyond those who had shrilly hailed and decried ancient "matriarchy" or "patriarchy" by introducing the more nuanced distinction between [[partnership-and-dominator-cultures-in-human-history]] organization.
 
-- **Shamanic spirituality**: Religious practice in partnership societies is
-experiential, individual, and nature-based. Access to the sacred is direct, through
-[[shamanism-and-techniques-of-ecstasy|techniques of ecstasy]] including the use of
-[[psychoactive-plants-united-states]]. There is no priestly monopoly on spiritual experience.
+McKenna describes Eisler's work as a brilliant synthesis of the emergence of human culture in the ancient Near East and the unfolding political debate concerning the feminizing of culture and the need to overcome patterns of male dominance in creating a viable future. Her contribution was to move the discussion from the crude binary of matriarchy versus patriarchy to a more sophisticated understanding of how partnership and dominator tendencies coexist and compete within and between societies.
 
-- **Nomadic pastoralism and early agriculture**: Partnership societies are associated
-with the Neolithic period and the early development of agriculture, when human
-communities lived in relative harmony with their environments.
+## Characteristics of Partnership Culture
 
-- **Ecological awareness**: The partnership worldview sees humans as part of nature,
-not separate from or above it. This perspective encourages sustainable practices and a
-sense of responsibility toward the natural world.
+Partnership societies are defined by several interrelated features that form a coherent cultural orientation toward life, community, and the natural world:
 
-## Dominator Societies
+**Egalitarianism**: Social structures that distribute power broadly rather than concentrating it in rigid hierarchies, with decision-making tending toward consensus and communal participation rather than top-down command.
 
-In the dominator model, social organization is based on ranking rather than linking.
-McKenna and Eisler characterize dominator societies by several contrasting features:
-- **Hierarchy**: Power and authority are concentrated in the hands of a ruling elite,
-typically male. Social organization is pyramidal, with clear chains of command and rigid
-class distinctions.
+**Maternalistic values**: A cultural orientation toward nurturing, life-affirming principles that honor the feminine as a source of social cohesion and spiritual authority.
 
-- **Paternalism and male domination**: Dominator societies privilege masculine values
-and institutions. Male gods replace or subordinate female deities, and the patriarchal
-[[md-family-structure-activity]] becomes the template for social organization at every level.
+**Nature reverence**: A worldview that sees the natural world as alive, intelligent, and worthy of respect — what McKenna calls the "feminine mind of the planet." Nature is not a resource to be exploited but a living presence to be partnered with and learned from.
 
-- **Materialism and conquest**: [[partnership-and-dominator-cultures-in-human-history]] are oriented toward the accumulation
-of material wealth and the territorial and ideological conquest of other peoples. War,
-imperialism, and the exploitation of natural resources are normalized and celebrated.
+**Shamanic practice**: Open-ended experimental investigation of nature carried on by shamans who serve as intermediaries between the human community and the more-than-human world. Shamanic gnosis relies on the ecstatic dissolution of the ego as its primary method of acquiring knowledge and healing.
 
-- **Organized religion**: Religious practice in dominator societies is dogmatic,
-institutional, and mediated by a priestly class. Direct personal experience of the
-sacred — especially through psychoactive substances — is suppressed, demonized, or
-co-opted by the religious establishment.
+**Goddess worship**: Veneration of the feminine divine, exemplified by the Paleolithic cult of the Great Horned Goddess, whose cult McKenna associates with the use of psychoactive mushrooms such as Stropharia cubensis.
 
-- **Ecological exploitation**: The dominator worldview sees nature as a resource to be
-exploited, not a living system to be respected. This perspective underlies the
-environmental destruction that characterizes much of recorded history.
+**Cattle-raising and pastoralism**: Nomadic pastoralism as an economic base that kept human populations in close contact with both the land and the psychoactive mushrooms growing in cattle dung.
 
-## The Great Transition: 5000–3000 BC
+## The Archaic Period
 
-McKenna and Eisler identify a critical historical transition — roughly between 5000 and
-3000 BC — when partnership societies across Eurasia were overrun, suppressed, or
-assimilated by patriarchal, dominator-oriented cultures. This transition is associated
-with the arrival of nomadic pastoralists from the Eurasian steppes, whom Marija Gimbutas
-and others have identified as the Kurgan or Proto-Indo-European peoples. These invaders
-brought with them a sky-god religion, a warrior ethos, and a hierarchical social
-structure that fundamentally reshaped the societies they encountered.
+The Archaic refers to the Upper Paleolithic, a period seven to ten thousand years in the past, immediately preceding the invention and dissemination of agriculture. The Archaic was a time of nomadic pastoralism and partnership, a culture based on cattle-raising, shamanism, and Goddess worship. This period represented a dynamic equilibrium with nature, with each other, and within ourselves, sustained by what McKenna calls the near-symbiotic relationship with psychoactive plants.
 
-The archaeological record, as interpreted by Eisler and Gimbutas, reveals a dramatic
-shift during this period: the disappearance of Goddess figurines, the appearance of
-fortifications and weapons, and the replacement of peaceful, egalitarian settlements by
-hierarchical city-states. McKenna argues that this transition was not merely a political
-or military event but a fundamental shift in human consciousness — from a worldview
-oriented toward partnership and reciprocity to one oriented toward domination and
-control.
+The Archaic attitude toward community, substance use, and nature served our nomadic prehistoric ancestors long and well, before the rise of the current cultural style we call "Western." It was an attitude McKenna believes we have the opportunity to recover and revitalize in the face of planetary crisis.
 
-## Shamanic Investigation vs. Dogma and Priestcraft
+## Characteristics of Dominator Culture
 
-One of McKenna's central arguments in *Food of the Gods* is that the dominator
-revolution entailed the systematic suppression of shamanic investigation and its
-replacement with dogma and priestcraft. In partnership societies, knowledge of the sacred
-was available to anyone willing to undertake the rigorous physical and psychological
-preparation required for shamanic practice. The use of psychoactive plants was a
-sacramental right, not a criminal offense.
+[[mckenna-alcohol-vs-psychedelics-dominator-cultures]] stand in stark contrast to the partnership model across every dimension of social organization:
 
-With the rise of dominator culture, this direct access to the sacred was progressively
-restricted. Priests and religious authorities claimed exclusive jurisdiction over
-transcendent experience, and the psychoactive plants that had served as gateways to the
-sacred for millennia were redefined as dangerous, demonic, or subversive. The
-Inquisition's persecution of witches — many of whom were herbalists and midwives — was,
-in McKenna's view, the culmination of this centuries-long campaign to sever humanity's
-connection with the plant teachers.
+**Hierarchical organization**: Power concentrated at the top, flowing downward through rigid social structures that privilege a small elite and subordinate the many.
 
-## Suppression of Altered States
+**Paternalistic values**: Male-dominated cultural norms that privilege masculine authority and control while systematically suppressing the feminine, the foreign, and the exotic.
 
-The dominator suppression of altered states of consciousness is, for McKenna, the
-defining characteristic of dominator culture's relationship to psychoactive substances.
-He argues that the prohibition of psychoactive plants is not based on genuine concern
-for public health but on the dominator system's need to maintain control over the
-population's access to non-ordinary states of consciousness. Altered states threaten the
-dominator order because they provide direct, unmediated experience of realities that
-contradict the official worldview — realities in which hierarchy, domination, and
-materialism appear as arbitrary constructs rather than natural or divinely ordained
-principles.
+**Materialism**: A worldview that values material accumulation and exploitation of natural resources over spiritual depth or [[fukuoka-bushman-world-ecological-balance]].
 
-## Partnership Values and Ecological Awareness
+**Warfare orientation**: The normalization of violence as a means of social organization, territorial expansion, and enforcement of hierarchical power.
 
-McKenna draws a direct connection between partnership values and ecological awareness.
-The partnership worldview, with its emphasis on reciprocity, balance, and the sacredness
-of the natural world, naturally encourages sustainable relationships with the
-environment. The dominator worldview, by contrast, treats nature as an object to be
-exploited and controlled. McKenna argues that the ecological crisis of the modern era
-is a direct consequence of dominator values, and that a return to partnership values —
-including the respectful use of psychoactive plants as teachers and allies — is
-essential for the survival of both human civilization and the biosphere.
+**Dogma and priestcraft**: Replacement of direct shamanic experience with institutionalized religious authority and fixed belief systems that serve the interests of established hierarchy.
 
-## Relevance to Modern Drug Policy
+**Egocentric ideology**: A cultural orientation organized around the defense and aggrandizement of the individual ego rather than the dissolution of ego boundaries through ecstatic experience.
 
-McKenna applies the partnership/dominator framework directly to contemporary debates
-about drug policy. He argues that the "[[cervantes-war-on-drugs-statistics]]" is a paradigmatic expression of
-dominator culture — an authoritarian, top-down system of control that criminalizes
-personal exploration of consciousness and privileges institutional authority over
-individual experience. The partnership alternative, in McKenna's view, would treat
-psychoactive substances as sacred tools worthy of respect and careful use, not as
-contraband to be suppressed by state violence.
+## The Transition: Suppression of Partnership
 
-## See Also
+In the prehistoric but post-Archaic times of about 5000 to 3000 B.C., suppression [[mckenna-fall-of-partnership-society]] by patriarchal invaders set the stage for suppression of the open-ended experimental investigation of nature carried on by shamans. In highly organized societies that Archaic tradition was replaced by one of dogma, priestcraft, patriarchy, warfare, and eventually "rational and scientific" or dominator values.
 
-- [[shamanism-and-techniques-of-ecstasy]]
-- [[stoned-ape-hypothesis]]
-- [[eleusinian-mysteries-and-ergot-theory]]
-- [[psychoactive-plants-united-states]]
+The terror the ego feels in contemplating the dissolution of boundaries between self and world not only lies behind the suppression of altered states of consciousness but, more generally, explains the suppression of the feminine, the foreign and exotic, and transcendental experiences. When the knowledge of the mystery was finally lost after long centuries of slow forgetting, migration, and climatic change, humanity traded partnership for dominance, traded harmony with nature for rape of nature, and traded poetry for the sophistry of science. In McKenna's vivid phrase, humanity traded its birthright as partners in the drama of the living mind of the planet for the broken pot shards of history, warfare, and neurosis.
+
+## The Dominator Inheritance
+
+McKenna characterizes modern Western culture as "self-toxified by the poisonous by-products of technology and egocentric ideology," the unhappy inheritor of the dominator attitude that alteration of consciousness by the use of plants or substances is somehow wrong, onanistic, and perversely antisocial.
+
+The suppression of shamanic gnosis, with its reliance and insistence on ecstatic dissolution of the ego, has, in McKenna's view, "robbed us of life's meaning and made us enemies of the planet, of ourselves, and our grandchildren." The dominator inheritance is the premise that we are killing the planet in order to keep intact the wrongheaded assumptions of the ego-dominator cultural style. It is time for change.
+
+## Alienation as Consequence
+
+Eisler believes that the tension between the partnership and dominator organizations and the overexpression of the dominator model are responsible for our alienation from nature, from ourselves, and from each other. This alienation manifests in three interlocking dimensions:
+
+1. **Alienation from nature**: The dominator view of nature as a dead resource to be exploited rather than a living intelligence to be partnered with and learned from.
+2. **Alienation from ourselves**: The repression of ecstatic experience and the insistence on rigid ego boundaries that cut us off from deeper dimensions of consciousness and meaning.
+3. **Alienation from each other**: Hierarchical social structures that replace communal reciprocity and mutual care with domination, competition, and chronic social anxiety.
+
+## Psychoactive Plants and the Cultural Divide

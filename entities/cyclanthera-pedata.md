@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Cyclanthera pedata**, commonly known as caigua, achocha, or stuffing cucumber, is an herbaceous climbing vine in the family Cucurbitaceae. It is native to the Andes Mountains of South America, where it has been cultivated for food and medicine for thousands of years.
+**Cyclanthera pedata**, commonly known as caigua, achocha, or stuffing cucumber, is an herbaceous climbing vine in the family Cucurbitaceae. It is native to the Andes Mountains of [[guzman-psilocybin-mushrooms-south-america]], where it has been cultivated for food and medicine for thousands of years.
 
 The plant produces distinctive hollow, teardrop-shaped fruits 10–20 cm long that are eaten raw or cooked. When harvested young, the fruits are crisp and mild with a flavor reminiscent of cucumber crossed with green bell pepper.
 
@@ -54,13 +54,13 @@ The vine requires support for optimal production; trellises, fences, or string t
 
 Fruiting begins 60–80 days after sowing. Fruits should be harvested at the immature stage when still pale green and tender, approximately 2–3 weeks after fruit set. Over-mature fruits become fibrous and develop bitter compounds.
 
-The crop is relatively pest-resistant compared to other cucurbits, though aphids, whiteflies, and [[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid conditions. Crop rotation and adequate spacing help minimize disease incidence.
+The crop is relatively pest-resistant compared to other cucurbits, though aphids, whiteflies, and [[cervantes-powdery-mildew-prevention-treatment]] can affect plants in humid conditions. [[coleman-cover-crop-rotation-and-soil-health]] adequate spacing help minimize disease incidence.
 
 ## Culinary and Nutritional Use
 
 Caigua fruits are eaten raw in salads, stuffed with cheese or meat, pickled, or cooked in soups and stews. The hollow interior makes them ideal for stuffing, similar to bell peppers. In Peruvian cuisine, they are a key ingredient in traditional dishes such as "caigua rellena."
 
-The fruit is low in calories and composed of approximately 94% water. It provides vitamin C, potassium, calcium, and phosphorus in moderate amounts. The seeds are edible and contain protein and unsaturated fatty acids.
+The fruit is low in calories and composed of approximately 94% water. It provides vitamin C, potassium, calcium, and phosphorus in moderate amounts. The seeds are edible and contain protein and unsaturated [[carbon-isotope-labelling-mycorrhizal-fatty-acids]].
 
 Young shoots and leaves are also consumed as a green vegetable in some Andean communities. The mild flavor and high water content make caigua refreshing in hot climates, and it is sometimes blended into juices.
 
@@ -78,37 +78,12 @@ As a climbing vine, C. pedata provides structural habitat and foraging opportuni
 
 The cucurbitacin compounds present in foliage and immature fruit serve as chemical defenses against herbivorous insects. These bitter triterpenoids deter feeding by generalist herbivores while being tolerated by specialized cucurbit-feeding insects.
 
-In traditional Andean farming systems, caigua is intercropped with maize, beans, and quinoa. The vertical growth habit allows it to occupy the canopy layer above shorter crops, maximizing productive use of space in smallholder fields.
+In traditional Andean farming systems, caigua is intercropped with maize, beans, and quinoa. The vertical growth habit allows it to occupy the [[canopy-layer-design-food-forests]] above shorter crops, maximizing productive use of space in smallholder fields.
 
 ## Genetic Diversity and Conservation
 
 Andean farmers maintain significant genetic diversity in caigua through traditional seed-saving practices. Local landraces differ in fruit size, shape, spine development, and maturity period. This diversity is an important resource for crop improvement programs.
 
-The species is not considered threatened in its native range, but landrace diversity is declining as commercial monoculture varieties replace traditional cultivars. Ex situ conservation collections are maintained at several agricultural research stations in Peru and Ecuador.
+The species is not considered threatened in its native range, but landrace diversity is declining as commercial monoculture varieties replace traditional cultivars. Ex situ conservation collections are maintained at several [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]] stations in Peru and Ecuador.
 
 Research institutions including the International Potato Center (CIP) in Lima have evaluated caigua germplasm for agronomic traits and [[dighton-fungal-nutritional-composition-animal-diets]]. Breeding efforts have focused on uniformity of fruit shape, earliness, and disease resistance for commercial production.
-
-## Economic Importance
-
-Caigua has significant economic value in Andean highland communities, where it is sold in local markets throughout the [[savory-growing-season-and-non-growing-season-management]]. Prices are competitive with other fresh vegetables, and the long harvest window provides income stability for smallholder farmers.
-
-International interest in caigua has grown due to its novelty appeal in specialty markets and its documented health benefits. Export-quality caigua is produced commercially in Peru and Ecuador for sale to ethnic markets in the United States and Europe.
-
-The processed product market includes pickled caigua and caigua-based dietary supplements marketed for cholesterol management. Value-added processing provides additional income opportunities beyond fresh produce sales.
-
-## Agronomic Challenges
-
-The crop's reliance on insect pollination can limit fruit set in areas with declining pollinator populations. In greenhouse production, manual pollination may be required to achieve adequate yields.
-
-Post-harvest losses are significant due to the fruit's high water content and thin skin. Cold chain infrastructure is limited in many producing regions, reducing market access for fresh caigua beyond local markets.
-
-Limited formal breeding programs mean that most cultivated caigua consists of unimproved landraces with variable performance. Development of standardized varieties with consistent [[cannabis-resin-production-and-quality-traits-clarke]] would support expansion into commercial markets.
-
-## See Also
-
-- [[cucurbita-pepo]]
-- [[basella-alba]]
-- [[amaranthus-hypochondriacus]]
-- [[tropaeolum-majus]]
-- [[fagopyrum-esculentum]]
-- [[arracacia-xanthorrhiza]]

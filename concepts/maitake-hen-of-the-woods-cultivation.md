@@ -5,6 +5,7 @@ updated: 2026-04-15
 type: concept
 tags: [cultivation, mycology]
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Maitake (Hen of the Woods) Cultivation
@@ -86,27 +87,3 @@ The mycelium is white and forms triangular zones of collected rhizomorphs radiat
 ## Spawn Generation
 
 Agar to cereal grain (rye, wheat, sorghum, milo) for Spawn Masters, expanded by a factor of 10 for 2nd generation grain spawn. This can inoculate sawdust for either outdoor stump inoculation or indoor cultivation. Most fruiting strains begin producing 6-8 weeks from inoculation onto sterilized, supplemented sawdust. Chung and Joo (1989) found that a 15:5:2 mixture of oak sawdust:poplar sawdust:corn waste generated the greatest yields. The Mon Mushroom Institute of Japan has successfully used larch sawdust supplemented with rice bran. Increasing substrate mass from 5 lbs to 7 lbs generates larger clusters (>1 lb), though through-spawning becomes more difficult.
-
-## Outdoor Stump Cultivation
-
-Given the size of wild fruitbodies (up to 100 lbs), Maitake may become a premier species for recycling hardwood stumps in forests. Inoculation of recently made hardwood stumps or buried logs is recommended. Allow 1-3 years before fruitings can be expected — high inoculation rates are essential. Stumps do not need to be "virgin" — Maitake is well known for attacking trees already parasitized by other fungi, though it is not yet known under what conditions it will dominate. Stamets envisions "Sacred Medicinal Mushroom Forests" using permaculture models, with hardwood stumps inoculated amongst multi-canopied shade trees.
-
-## Detailed Medicinal Properties
-
-The National Cancer Institute found that sulfated fractions of powdered Maitake fruitbodies showed significant activity against HIV (AIDS) in vitro — the first mushroom confirmed to have anti-HIV activity by both US and Japanese researchers. Extracts compared favorably with AZT but with no negative side effects. The active polysaccharide fraction is a three-branched beta-1,6 glucan called **grifolan** (first characterized by Ohno et al., 1985). Grifolan showed strong anti-tumor activity against Sarcoma-180 in mice, causing complete tumor regression in 1/3 to 1/2 of trials at only 35 days. Alkali extracts were more effective than hot or cold water infusions. The D-fraction (protein-bound polysaccharide) is particularly effective via oral administration, activating helper T-cells. Other medicinal claims include reduction of blood pressure, diabetes, cholesterol, [[cannabis-chronic-fatigue-research]] syndrome, and various cancers. Vitamin C should be taken with Maitake to increase bio-availability of polysaccharides.
-
-## Nutritional Content
-
-Approximately 27% protein (dry weight). Vitamin content: B1 (1.5 mg%), B2 (1.6 mg%), Niacin (54 mg%), Vitamin C (63 mg%), Vitamin D (410 IU). Saccharide content is nearly 50%. Minerals: Magnesium (67 mg%), Iron (0.5 mg%), Calcium (11.0 mg%), Phosphorus (425 mg%). Moisture content approximately 80% — lower than most fleshy mushrooms (typically 90%), contributing to its dense, meaty texture.
-
-## Yield and Market
-
-Yield: 1/2 to 2 lbs mushroom per 5-7 lbs of sterilized, enriched hardwood sawdust. Harvest when leaflets fully extend and flesh at the base is still firm. Over-watering quickly causes fruitbodies to abort. Mushrooms wrapped in rice paper and refrigerated have extended shelf life up to two weeks at 35 F. In 1992 Japan, dried Maitake fetched $600-1,200 per dry pound on the medicinal mushroom market. The flesh is thick and dense at the stem base (better sliced), while upper petal-like caps are better chopped. Can be baked and stuffed with shrimp, sliced almonds, and cheese.
-
-## Related
-
-- [[mushroom-substrates]] for sawdust formulations
-- [[mushroom-cultivation-fruiting-chambers]] for environmental triggers
-- [[gourmet-mushroom-enriched-sawdust-cultivation]]
-- [[oyster-mushroom-species-fruiting-parameters]]
-- mushroom-sawdust-bran-spawn-preparation

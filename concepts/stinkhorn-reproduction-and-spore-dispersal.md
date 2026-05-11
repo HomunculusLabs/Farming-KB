@@ -1,5 +1,5 @@
 ---
-title: Stinkhorn stinkhorn reproduction and spore dispersal Dispersal Mechanisms
+title: Stinkhorn Reproduction And Spore Dispersal
 slug: stinkhorn-reproduction-and-spore-dispersal
 source: Nicholas P. Money, Mr. Bloomfield's Orchard (2002)
 tags: [stinkhorn, phallus-impudicus, spore-dispersal, phallales, basidiomycota, insect-dispersal, gasteromycetes]
@@ -87,47 +87,4 @@ In common with humans, stinkhorns are here because they are very good at making 
 
 The stinkhorn employs a strategy fundamentally different from that of gilled mushrooms.
 
-Rather than relying on passive spore release into air currents, stinkhorns actively recruit insects as dispersal agents.
-
-The fetid odor functions as an olfactory beacon, attracting flies and other carrion-feeding insects from considerable distances.
-
-When insects land on the gleba, they become coated with spore-laden slime.
-
-As they fly to other locations — perhaps another stinkhorn, perhaps a piece of rotting meat — they carry the spores with them.
-
-Spores deposited on suitable substrate can germinate and establish new mycelial colonies.
-
-This dispersal strategy is remarkably effective, as evidenced by the wide distribution and ecological success of stinkhorn species.
-
-Biologists already recognize the significance of analogous scent-based pollination systems in flowering plants.
-
-The stinkhorn's chemical bouquet targets the same sensory systems in flies that guide them to dead animals.
-
-## Cage Fungi and Related Forms
-
-The related cage fungi produce other kinds of flamboyant fruiting bodies that share the seductive power of phallic mushrooms over insects.
-
-Again, a preformed receptacle is packaged into an egg, and as this structure absorbs water and expands, it carries a stinking spore mass into the air.
-
-Clathrus forms a spherical cage with spores spread on the inside of its bars.
-
-The receptacle of Anthurus separates into four or more arms that curl back over the egg to create a star.
-
-The arms are bright orange and their inner surface is smeared with the spores.
-
-A time-lapse video showing the hatching of an Anthurus egg is quite shocking.
-
-There is nothing comparable in nature.
-
-The livid arms simulate the agonized contortions of a horribly injured lobster.
-
-Other cage fungi form stalks with chambered heads or claws at their summit.
-
-Laternea elaborates long arms but fuses them at their tips and dangles a reeking lantern inside the resulting vault.
-
-Flies are the usual vectors for spore dispersal, but ants and stingless bees have also been seen feeding on some cages.
-
-## The Gasteromycetes
-
-Along with the [[agaricus-campestris-morphology-and-life-cycle]] — The more conventional gilled [[cordyceps-insect-pathogenic-fungi]] — Another remarkable fungal-insect interaction
-- [[fungal-melanin-and-pathogenicity]] — Fungal adaptations for survival
+Rather than relying on passive [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] into air currents, stinkhorns actively recruit insects as dispersal agents.

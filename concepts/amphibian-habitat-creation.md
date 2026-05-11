@@ -1,5 +1,5 @@
 ---
-title: Amphibian Habitat Creation
+title: Amphibian [[bird-habitat-creation]]
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Amphibians—frogs, toads, salamanders, and newts—are among the most imperiled groups of animals on Earth. Approximately 40% of amphibian species are threatened with extinction, making them the most endangered vertebrate class. Amphibians require both aquatic breeding habitat and terrestrial foraging habitat, making them especially sensitive to habitat loss and fragmentation. Creating amphibian habitat on the homestead provides critical breeding sites for declining populations while contributing natural pest control—adult frogs consume thousands of insects per season. This connects to [[wetland-ecology]], [[pollinator-conservation|conservation]], and [[pollinator-conservation]] efforts.
+Amphibians—frogs, toads, salamanders, and newts—are among the most imperiled groups of animals on Earth. Approximately 40% of amphibian species are threatened with extinction, making them the most endangered vertebrate class. Amphibians require both aquatic breeding habitat and terrestrial foraging habitat, making them especially sensitive to habitat loss and fragmentation. Creating amphibian habitat on the homestead provides critical breeding sites for declining populations while contributing [[jeavons-natural-pest-control]]—adult frogs consume thousands of insects per season. This connects to [[wetland-ecology]], [[pollinator-conservation]], and [[pollinator-conservation]] efforts.
 
 ## Amphibian Biology Basics
 
@@ -86,7 +86,7 @@ The transformation from aquatic tadpole to terrestrial adult:
 #### Red-Backed Salamander (Plethodon cinereus)
 - Small (3-4 inches); two color phases: red-backed and lead-backed
 - Fully terrestrial; no aquatic larval stage
-- Most abundant salamander in eastern North American forests
+- Most abundant salamander in [[polypore-fungi-eastern-north-america]] American forests
 
 #### Eastern Newt (Notophthalmus viridescens)
 - Complex life cycle: aquatic larva → terrestrial red eft (juvenile) → aquatic adult
@@ -113,7 +113,7 @@ A successful amphibian pond has multiple depth zones:
 
 - **Shelf zone (0-6 inches)**: Shallow edges for egg-laying and tadpole development; gradually sloping
 - **Shallow zone (6-18 inches)**: Warm water speeds tadpole development; abundant vegetation
-- **Deep zone (18-36 inches)**: Overwintering habitat; prevents complete freezing in cold climates
+- **Deep zone (18-36 inches)**: Overwintering habitat; prevents complete freezing [[query-how-do-i-grow-figs-in-cold-climates]]
 - **Maximum depth**: 24-48 inches is sufficient for most species; bullfrogs prefer deeper water
 
 #### Habitat Features
@@ -143,8 +143,8 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 ### Plants for Amphibian Ponds
 | Plant | Type | Function |
 |-------|------|----------|
-| Blue flag iris (Iris versicolor) | Emergent | Egg-laying; cover; aesthetic |
-| Pickerelweed (Pontederia cordata) | Emergent | Cover; nectar for pollinators |
-| Soft rush (Juncus effusus) | Emergent | Egg attachment; cover |
-| Cattail (Typha latifolia) | Emergent | Cover; but can be aggressive—contain with barriers |
+| Blue flag iris ([[iris-versicolor]]) | Emergent | Egg-laying; cover; aesthetic |
+| Pickerelweed ([[pontederia-cordata]]) | Emergent | Cover; nectar for pollinators |
+| Soft rush ([[juncus-effusus]]) | Emergent | Egg attachment; cover |
+| Cattail ([[typha-latifolia]]) | Emergent | Cover; but can be aggressive—contain with barriers |
 | Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |

@@ -1,5 +1,5 @@
 ---
-title: Cannabis and cannabis-and-liver-cancer-research (Hepatocellular Carcinoma)
+title: Blesching Cannabis Liver Cancer
 created: 2026-04-26
 tags:
   - cannabis
@@ -56,7 +56,7 @@ pure alcohol into tumor sites.
 ## Cannabis Health Index (CHI) Score
 
 - Total Studies Reviewed: 2
-- CHI Value: 4
+- [[blesching-cannabis-prostate-cancer-chi-value-3]]: 4
 
 ## Research Evidence
 
@@ -88,33 +88,10 @@ animal models.
 The two experiments used THC and the [[blesching-cannabis-synthetic-cannabinoids]] WIN55,212-2 and
 JWH-015. Each displayed the ability to inhibit liver cancer cell lines or
 induce apoptosis. THC binds with both CB1 and CB2. WIN55,212-2 binds with
-higher affinity to CB2 than CB1. JWH-015 also has higher affinity for CB2
-than CB1. Sativa and indica strains bind to both CB1 and CB2, but indicas tend
-to have a lower THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]], which may favor CB2 activation.
 
-## Key Mechanism: CB2 Receptor Pathway
-
-The predominance of CB2-binding cannabinoids showing anti-liver-cancer effects
-suggests that CB2 receptor activation is a key pathway for inhibiting
-hepatocellular carcinoma growth. This is therapeutically significant because
-CB2-targeted therapies could potentially treat liver cancer without the
-psychoactive effects associated with CB1 activation.
-
-## Mind-Body Medicine
-
-The liver is the body's major filter, processing emotions and feelings alongside
-toxins. Consider the questions: "What feeling(s) am I unable to let go of?
-What feeling(s) am I unable to filter through?" The liver's role in both
-physical detoxification and emotional processing makes the mind-body connection
-particularly relevant. Suggested blessings: "May you release all feelings with
-ease." Suggested affirmations: "I release all feelings in fullness. I release
-and let go of my anger."
-
-## Connection to Hepatitis
-
-Chronic hepatitis B and C are major risk factors [[cannabis-for-liver-cancer]]. The
-endocannabinoid system's anti-inflammatory and hepatoprotective properties
-suggest that cannabinoids may play a role in interrupting the
-hepatitis-cirrhosis-cancer progression. See [[blesching-cannabis-hepatitis]]
-- [[blesching-cannabis-pancreatitis]]
-- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]]
+## See Also
+- [[blesching-cannabis-cancer-night-sweats]]
+- [[blesching-cannabis-cancer-symptoms]]
+- [[blesching-cannabis-infectious-agents-cancer]]
+- [[blesching-cannabis-thyroid-cancer]]
+- [[blesching-cannabis-prostate-cancer]]

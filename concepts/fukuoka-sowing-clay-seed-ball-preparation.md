@@ -1,8 +1,8 @@
 ---
-title: "Clay Seed Ball Preparation Techniques — Fukuoka Method"
+title: Fukuoka Sowing Clay Seed Ball Preparation
 created: 2026-04-26
 updated: 2026-04-24
-sources: "Masanobu Fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
+sources: "masanobu-fukuoka, Sowing Seeds in the Desert (Chelsea Green, 2012)"
 wikilinks: "fukuoka-sowing-seed-ball-desert-revegetation fukuoka-sowing-natural-farming-philosophy fukuoka-sowing-desert-greening-worldwide-results fukuoka-sowing-natural-farming-climate-change fukuoka-sowing-green-philosophy-one-grain-revolution fukuoka-road-seed-ball-experiments fukuoka-clay-pellet-desert-greening"
 type: concept
 tags: [fukuoka, plant-growth]
@@ -10,7 +10,7 @@ tags: [fukuoka, plant-growth]
 
 # Clay Seed Ball Preparation Techniques — Fukuoka Method
 
-*Complete technical instructions for making clay seed pellets for revegetation,
+*Complete technical instructions for making [[clay-seed-pellets]] for revegetation,
 as detailed in Appendix B of "Sowing Seeds in the Desert."*
 
 ## Purpose
@@ -37,7 +37,7 @@ with seaweed paste for binding making up 5 percent of combined weight.
 4. Slaked lime — 10 percent of combined weight.
 
 5. [[permaculture-plants-medicinal-herbs-healing]]: derris root, powdered fruits and leaves of Japanese star
-anise (*Illicium anisatum*), Japanese andromeda (*Pieris* spp.), Japanese
+anise (*[[illicium-anisatum]]*), Japanese andromeda (*Pieris* spp.), Japanese
 lacquer tree (*Rhus verniciflua*), Japanese bead tree (Chinaberry, *Melia
 azedarach*). 10 percent of combined weight.
 
@@ -68,7 +68,7 @@ the inner layer.
 
 **2. Structural stability.** By kneading the clay together with the bittern and
 seaweed paste, its molecules are rearranged, so the pellets become stable,
-light, and hard. They will withstand the fall to earth following aerial seeding,
+light, and hard. They will withstand the fall to earth following [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]],
 and can adjust to changes in dampness and dryness related to rainfall, becoming
 shrunken and solid. They seldom crumble or break, and the seeds are protected
 from damage by birds or animals until they germinate.
@@ -88,48 +88,3 @@ variety of plants.
 **5. Specific pest protection.** Derris root protects against beetles; Japanese
 star anise deters goats; Japanese andromeda deters cows; Japanese bead tree
 repels small insects; sumac provides additional protection. These protect seeds
-before and after germination.
-
-## Modifications for Extreme Desert Conditions
-
-In a region that is completely desert, it is a good idea to mix fertile jungle
-or forest soil with the clay. This soil is a rich source of soil microorganisms,
-seeds, and spores, and is of great value when added to the pellets.
-
-If the pellets will be broadcast from airplanes, the pellets may break on
-contact with the ground, so it is good to coat them with an additional layer of
-seaweed paste, if available.
-
-## Natural Culture Medium for Clay Pellets
-
-The all-around natural culture medium (matsutake fungus culture medium) for use
-with clay pellets is comprised of [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] microorganisms,
-especially [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] (matsutake), eumycetes (fungi), actinomycetes
-(fungi), and bacilli (bacteria).
-
-This medium is made by combining leaf mold and rice bran, and adding an infusion
-derived from boiling three plant groups:
-
-- Tubers and stems from the Convolvulaceae family (sweet potatoes) and
-Dioscoreaceae family (yams) — 10 to 20 percent of weight - Crucifers such as
-daikon and mustard — 10 to 20 percent of weight - Members of the Liliaceae
-family such as onions, wild onions, and wild garlic — 10 to 20 percent of weight
-
-The medium produces a dense, vigorous growth of hyphae approximately ten times
-faster than the Hamada medium. It is suitable not only for cultivating matsutake
-fungi but for cultivating microorganisms in general. Sterilize with steam,
-inoculate with spores, and maintain at 16 to 23 degrees Celsius. After about one
-month the hyphae will have spread. Moving to 19 degrees Celsius or colder,
-fruiting bodies develop after about four months.
-
-## Simplified Version
-
-Even without using all of the additives recommended for broad-scale desert
-sowing, simply encasing seeds with clay to form pellets will greatly aid
-germination in most places. This simplified approach has been adopted by
-guerrilla gardeners to seed dry, compacted urban sites.
-
-## See Also
-- [[fukuoka-sowing-desert-greening-worldwide-results]]
-- [[fukuoka-clay-pellet-desert-greening]]
-- [[fukuoka-clay-seed-ball-technique]]

@@ -1,5 +1,5 @@
 ---
-title: Wasson's mckenna wasson amanita theory and objections to fly agaric and Objections to Fly Agaric as Soma
+title: Mckenna Wasson Amanita Theory And Objections To Fly Agaric
 created: 2026-04-28
 tags: [ethnobotany, soma, amanita, wasson, mckenna, vedic, fly-agaric, psychedelics]
 date: 2026-04-28
@@ -10,7 +10,7 @@ type: concept
 
 # Wasson's Amanita Theory and Objections to Fly Agaric as Soma
 
-Gordon and Valentina Wasson, the founders of the science of
+Gordon and [[shroom-cultural-history-western-discovery-valentina-wasson]], the founders of the science of
 ethnomycology (the study of human uses of and lore concerning
 mushrooms and other fungi), first suggested that the mysterious Vedic
 Soma might be a mushroom, specifically the scarlet-capped,
@@ -28,9 +28,9 @@ Theirs was the first botanically sophisticated, pharmacologically
 informed inquiry into the identity of Soma.
 
 In other research, the Wassons discovered the existence of still-active
-shamanic mushroom cults in the mountains of the Sierra Mazateca of
+shamanic [[eleusinian-mysteries-minoan-mushroom-cults]] in the mountains of the Sierra Mazateca of
 Oaxacan Mexico. Gordon Wasson brought samples of Mexican mushrooms to
-Swiss pharmaceutical chemist and LSD discoverer Albert Hofmann, and
+Swiss pharmaceutical chemist and LSD discoverer [[albert-hofmann]], and
 thus set the stage for the characterization and isolation of psilocybin
 in 1957.
 
@@ -46,7 +46,7 @@ mystery was the fly agaric. He, like all those before him who had
 attempted an identification of Soma, had forgotten that whatever Soma
 was, it was a visionary intoxicant of tremendous power and an
 unparalleled hallucinogen. In contrast, he was well aware that European
-scholarship had settled upon Siberian shamanism as "exemplary" of all
+scholarship had settled upon [[harner-amanita-muscaria-siberian-shamanism]] as "exemplary" of all
 Archaic shamanism and that fly agaric had long been used in Siberia to
 induce shamanic journeys and initiate neophyte shamans into the
 fullness of their heritage.
@@ -56,7 +56,7 @@ mushrooms other than fly agaric could contain visionary intoxicants,
 but [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] were thought to be a strictly New World
 phenomenon, since no other intoxicating mushrooms were known. Wasson
 assumed that if a mushroom were Soma, then that mushroom must be a fly
-agaric. This overemphasis of Amanita muscaria has haunted efforts to
+agaric. This overemphasis of [[allegro-colour-and-consistency-of-the-amanita-muscaria]] has haunted efforts to
 understand Soma ever since.
 
 ## Pharmacological Objections
@@ -88,37 +88,3 @@ Amanita into visionary journeying to a magical paradise.
 Wasson himself knew of only one inexplicable and unreplicated
 exception. In 1965 and again in 1966, Wasson and colleagues tried out
 fly-agarics repeatedly on themselves, eating them raw, drinking the
-juice, mixing it with milk, all on empty stomachs. They felt nauseated
-and some threw up. They felt disposed to sleep and fell into deep
-slumber. Only on one occasion, when mycologist Rokuya Imazeki took his
-mushrooms with mizo shiru (soup) and toasted the caps on a fork before
-an open fire, did he rise from the sleep in full elation, speaking
-compulsively for three hours, declaring it infinitely better than the
-alcoholic state.
-
-The chemical compounds active in Amanita muscaria are muscarine and
-muscimol. Muscarine is highly toxic and, like most cholinergic poisons,
-its activity is reversed by injection of atropine sulfate. Muscimol,
-the likely candidate for the psychoactivity of the mushroom, has been
-described as merely an emetic and a sedative. Human exposure to
-muscimol is not described in the literature; the obvious step of giving
-muscimol to human beings to determine its psychedelic potential has not
-been undertaken.
-
-## The Verdict
-
-In short, Amanita muscaria is doubtless an effective shamanic vehicle
-in the floristically limited Arctic environment in which it has been
-traditionally utilized as a psychoactive agent. But the rapturous
-visionary ecstasy that inspired the Vedas and was the central mystery
-of the Indo-European peoples as they moved across the Iranian plateau
-could not possibly have been caused by Amanita muscaria.
-
-## See Also
-
-- [[fly-agaric-in-victorian-literature-and-art]]
-- [[fly-agaric-isoxazole-chemistry-and-variability]]
-
-- [[mckenna-vedic-soma-indo-european-mysteries]] - Indo-European context
-- [[amanita-muscaria-chemistry-and-pharmacology]] - chemistry of fly agaric
-- [[amanita-muscaria-cultural-history]] - [[shroom-cultural-history-hippie-revolution-and-counterculture]] of Amanita use

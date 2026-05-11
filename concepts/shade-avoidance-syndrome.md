@@ -1,11 +1,11 @@
 ---
 title: Shade Avoidance Syndrome
 created: 2026-04-28
-tags: [botany, photobiology, shade-avoidance, phytochrome, plant-competition, far-red-light, photomorphogenesis]
+tags: [botany, photobiology, shade-avoidance, [[phytochrome]], plant-competition, far-red-light, photomorphogenesis]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "What a Plant Knows by Daniel Chamovitz (2012), Chapter 1: What a Plant Sees"
+  - "What a Plant Knows by daniel-chamovitz (2012), Chapter 1: What a Plant Sees"
 type: concept
 ---
 
@@ -18,7 +18,7 @@ responses that plants deploy when they detect the presence of neighbouring
 vegetation competing for light. Rather than passively tolerating reduced light
 availability, plants actively remodel their architecture to escape shade by
 elongating stems, reorienting leaves, suppressing branching, and accelerating
-flowering. These responses are triggered by the phytochrome photoreceptor
+flowering. These responses are triggered by the [[phytochrome-photoreceptor]]
 system detecting changes in the ratio of red to far-red light that occur when
 sunlight is filtered through or reflected from neighbouring plant canopies.
 
@@ -48,7 +48,7 @@ interception.
 
 ## Phytochrome-Mediated Detection Mechanism
 
-The shade avoidance response is mediated through the phytochrome photoreceptor
+The shade avoidance response is mediated through the [[phytochrome-photoreceptor-plant-vision]]
 system operating as a molecular switch. In its active Pfr form, phytochrome
 signals open growing conditions with abundant red light. Under canopy shade,
 the enriched far-red light drives phytochrome toward the inactive Pr form,
@@ -87,56 +87,3 @@ expand more rapidly, causing the petiole to bend upward. This response is
 regulated by ethylene and auxin signalling in the petiole.
 
 ## Leaf Morphology Changes
-
-Shaded plants often produce smaller, thinner leaves with a higher specific leaf
-area (leaf area per unit dry mass). Leaves may also become more elliptical
-rather than round, a morphological adaptation that reduces mutual shading
-within the canopy.
-
-These changes reduce the metabolic cost of leaf construction and redirect
-resources toward stem elongation. The trade-off between leaf investment and
-stem elongation is a fundamental aspect of shade avoidance economics.
-
-## Accelerated Flowering
-
-Perhaps the most dramatic shade avoidance response is the acceleration of
-reproductive development. When a plant perceives sustained low R:FR ratios,
-it initiates flowering earlier than it would under non-competitive conditions.
-
-This represents a fundamental shift in life history strategy. If the plant
-cannot outgrow its competitors for light, it abandons [[cannabis-vegetative-growth-stage]] and
-redirects all resources to producing seeds before conditions deteriorate
-further. The shift to early flowering is mediated by upregulation of FLOWERING
-LOCUS T (FT) expression in leaves in response to altered phytochrome signalling.
-
-## Reduced Branching
-
-Axillary bud outgrowth is suppressed in response to shade, redirecting growth
-resources to the main stem. This produces a taller, less bushy architecture
-better suited for competing for vertical light access.
-
-The suppression of branching is mediated by increased auxin levels in the stem
-and changes in the sensitivity of axillary buds to the branching hormone
-strigolactone. Higher auxin concentrations in the main stem inhibit strigolactone
-signalling to the buds, maintaining apical dominance.
-
-## Hormonal Integration
-
-The shade avoidance response integrates multiple hormonal pathways that act
-synergistically to remodel plant architecture:
-
-- **Auxin**: Rapidly upregulated through the TAA1 pathway, promoting cell elongation in stems and inhibiting branching.
-- **Gibberellins**: GA levels increase, promoting DELLA degradation and synergising with auxin to drive internode elongation.
-- **Ethylene**: Production increases, contributing to stem elongation and leaf senescence.
-- **Brassinos food-forest-understory-plants and gibberellins.
-
-## Ecological Significance
-
-Shade avoidance drives competitive hierarchies and influences species composition. Shade-tolerant understory species have reduced SAS responses and invest in leaf efficiency, while shade-intolerant species exhibit strong SAS and grow rapidly to escape shade. Weeds and invasive species often display vigorous shade avoidance.
-heritage and [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] varieties for small farmers al Applications
-
-Modern crop varieties bred for high planting densities have been selected for reduced SAS responses to minimise yield penalties from excessive elongation. In controlled environments, maintaining high R:FR ratios suppresses elongation, while far-red supplementation can control height without chemical [[ingham-natural-growth-regulators-soil-microbes]].
-
-## See Also
-
-- [[julius-von-sachs-blue-light-phototropism-discovery]][[cryptochrome-and-blue-light-photoreception]] for the complementary [[chamovitz-julius-von-sachs-blue-light-phototropism]] system

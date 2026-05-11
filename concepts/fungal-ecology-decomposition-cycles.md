@@ -147,4 +147,3 @@ Stamets emphasizes that fungi are primary soil builders:
 ## Fungal Bacterial Partnerships
 
 Stamets emphasizes the interdependence of fungi and bacteria:
-

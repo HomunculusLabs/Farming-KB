@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Autoflowering cannabis strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from Cannabis ruderalis, a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
+[[autoflowering-cannabis]] strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from [[cannabis-ruderalis]], a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa]] and [[marijuana-strain-guide-indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
 
 ## Ruderalis Genetics
 
@@ -30,7 +30,7 @@ Ruderalis was largely ignored by cannabis breeders until the early 2000s, when i
 
 ### The Joint Doctor and Lowryder
 
-The modern autoflower movement began with "The Joint Doctor," a Canadian breeder who created Lowryder in the early 2000s. Lowryder crossed ruderalis with Northern Lights #2 and William's Wonder to create the first commercially viable autoflowering strain. While Lowryder's potency was modest, it proved the concept and launched extensive [[cannabis-breeding-basics|breeding programs]] focused on autoflowers.
+The modern autoflower movement began with "The Joint Doctor," a Canadian breeder who created Lowryder in the early 2000s. Lowryder crossed ruderalis with Northern Lights #2 and William's Wonder to create the first commercially viable autoflowering strain. While Lowryder's potency was modest, it proved the concept and launched extensive [[cannabis-breeding-basics]] focused on autoflowers.
 
 ## How Autoflowering Works
 
@@ -56,7 +56,7 @@ Total grow time from seed to harvest: 8-12 weeks for most modern autoflowers, co
 
 ### Speed
 
-The most significant advantage is the compressed timeline. From seed to harvest in 8-10 weeks means more harvests per year. In [[cannabis-indoor-growing-basics|indoor setups]], growers can achieve 4-6 harvests annually.
+The most significant advantage is the compressed timeline. From seed to harvest in 8-10 weeks means more harvests per year. In [[cannabis-indoor-growing-basics]], growers can achieve 4-6 harvests annually.
 
 ### Light Schedule Flexibility
 
@@ -67,7 +67,7 @@ Autoflowers can be grown on any light schedule, including:
 - 24/0 (continuous light — some debate about plant health)
 - 12/12 (compatible with photoperiod plants in the same space)
 
-This flexibility allows autoflowers and photoperiod plants to share the same [[cannabis-indoor-growing-basics|grow space]].
+This flexibility allows autoflowers and photoperiod plants to share the same [[cannabis-indoor-growing-basics]].
 
 ### Compact Size
 
@@ -89,7 +89,7 @@ Ruderalis genetics contribute exceptional resilience:
 
 ### Multiple Harvests
 
-In [[cannabis-outdoor-growing|outdoor environments]], autoflowers can produce 2-3 harvests per growing season in most climates. Stagger planting every 2-3 weeks for continuous harvests.
+In [[cannabis-outdoor-growing]], autoflowers can produce 2-3 harvests per growing season in most climates. Stagger planting every 2-3 weeks for continuous harvests.
 
 ## Cons of Autoflowering Strains
 
@@ -99,7 +99,7 @@ Autoflowers typically produce 1-4 ounces per plant, compared to 4-16+ ounces for
 
 ### Reduced Training Options
 
-Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like topping and fimming can stall growth and reduce yield. Recommended training methods include:
+Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] can stall growth and reduce yield. Recommended [[mckenna-shamanic-identification-signs-and-training-methods]] include:
 
 - Low-stress training (LST) — gentle bending and tying
 - Defoliation (light, conservative)
@@ -124,7 +124,7 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 
 - **Gorilla Glue Auto:** 20-25% THC, resin-heavy indica-dominant
 - **Amnesia Haze Auto:** 20-22% THC, sativa-dominant with cerebral effects
-- **Girl Scout Cookies Auto:** 21-25% THC, balanced hybrid effects
+- **[[girl-scout-cookies]] Auto:** 21-25% THC, balanced hybrid effects
 - **Bruce Banner Auto:** 22-26% THC, potent and fast-finishing
 
 ### High-CBD Autoflowers
@@ -147,4 +147,3 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 Direct sowing is preferred over starting in small pots. Autoflowers do not handle transplanting well due to their short life cycle. Plant seeds directly in their final container (3-5 gallon fabric pots are common).
 
 ### Light Schedule
-

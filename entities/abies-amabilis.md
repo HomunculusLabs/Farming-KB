@@ -19,7 +19,7 @@ sources:
 
 ## Overview
 
-**Abies amabilis**, commonly known as Pacific silver fir, is a large evergreen conifer native to the Pacific Northwest region of North America. It ranges from southeastern Alaska through western British Columbia, Washington, and Oregon to northwestern California. The species is a dominant component of mid-elevation coniferous forests in the Cascade Range and Coast Mountains.
+**Abies amabilis**, commonly known as Pacific silver fir, is a large evergreen conifer native to the [[psilocybin-north-america-pacific-northwest]] region [[berry-growing]]. It ranges from southeastern Alaska through western British Columbia, Washington, and Oregon to northwestern California. The species is a dominant component of mid-elevation coniferous forests in the Cascade Range and Coast Mountains.
 
 Pacific silver fir typically reaches 30–60 meters in height with a trunk diameter of 0.6–1.5 meters. Exceptional specimens can exceed 75 m in height and 2 m in diameter on productive lowland sites. The crown is narrowly conical in youth, becoming more rounded and irregular with age. The species can live for over 400 years, making it one of the longest-lived firs in North America.
 
@@ -35,7 +35,7 @@ The species is notably tolerant of shade, capable of surviving for decades under
 
 No infraspecific taxa are widely recognized, though some authorities have described varieties based on minor differences in cone scale morphology and needle characteristics. Molecular phylogenetic studies confirm that *A. amabilis* is monophyletic and genetically distinct from other North American firs. The species diverged from its closest relatives approximately 8–12 million years ago during the late Miocene.
 
-Karyotype analysis shows *A. amabilis* is diploid with 2n = 24 chromosomes, consistent with other members of the genus. Genetic diversity is highest in populations from the Olympic Peninsula and western Cascade Range, suggesting these areas served as glacial refugia during Pleistocene ice ages. Populations from the northern Coast Mountains show lower diversity, consistent with post-glacial colonization from southern refugia.
+Karyotype analysis shows *A. amabilis* is diploid with 2n = 24 chromosomes, consistent with other members of the genus. [[biodiversity-fungal-genetic-diversity]] is highest in populations from the Olympic Peninsula and western Cascade Range, suggesting these areas served as glacial refugia during Pleistocene ice ages. Populations from the northern Coast Mountains show lower diversity, consistent with post-glacial colonization from southern refugia.
 
 Needles are flattened, 1.5–3 cm long and 2 mm wide, arranged in two dense ranks on the branchlets. The upper surface is dark green and grooved, while the lower surface bears two broad, conspicuous white stomatal bands that give the foliage its characteristic silvery appearance. Needles are rounded or notched at the apex and persist for 7–10 years, longer than most other North American firs.
 
@@ -53,7 +53,7 @@ Pacific silver fir thrives in the cool, wet maritime climate of the Pacific Nort
 
 Soils are typically deep, well-drained, acidic loams and sandy loams developed from volcanic ash, glacial till, or colluvium. The species is most productive on deep, fertile soils with ample moisture, though it also grows on thinner, less fertile sites. Soil pH ranges from 4.5 to 6.0 across its range. On the volcanic slopes of the Cascades, Andisols derived from pumice and ash deposits support some of the most productive Pacific silver fir forests.
 
-Common understory associates include vine maple (*Acer circinatum*), Oregon grape (*Mahonia nervosa*), salal (*Gaultheria shallon*), and various species of *Vaccinium*, *Rhododendron*, and *Tsuga* (western hemlock). The deep shade beneath mature Pacific silver fir canopies supports a rich bryophyte community, with mosses and liverworts forming thick carpets on the forest floor and tree bases.
+Common understory associates include vine maple (*Acer circinatum*), Oregon grape (*Mahonia nervosa*), salal (*[[gaultheria-shallon]]*), and various species of *Vaccinium*, *Rhododendron*, and *Tsuga* (western hemlock). The deep shade beneath mature Pacific silver fir canopies supports a rich bryophyte community, with mosses and liverworts forming thick carpets on the forest floor and tree bases.
 
 ## Cultivation and Uses
 
@@ -65,7 +65,7 @@ The species is cultivated as an ornamental tree in cool, moist climates, particu
 
 In the British Isles, Pacific silver fir has been grown successfully since the late 19th century and can reach heights of 20 m or more in favorable locations. It performs best in western Scotland, Wales, and western Ireland, where the oceanic climate most closely resembles its native habitat. In continental Europe, it is more challenging to cultivate due to hotter, drier summer conditions.
 
-Propagation is by seed, which requires 30–60 days of cold stratification at 1–5°C for optimal germination. Germination rates of 60–80% are typical. Container seedling production is the standard nursery method for reforestation stock. Vegetative propagation by grafting or rooted cuttings is used for ornamental cultivar production.
+Propagation is by seed, which requires 30–60 days of cold stratification at 1–5°C for optimal germination. Germination rates of 60–80% are typical. Container [[coleman-sowing-seedling-production]] is the standard nursery method for reforestation stock. [[hamilton-vegetative-propagation]] by grafting or rooted cuttings is used for ornamental cultivar production.
 
 ## Ecology
 
@@ -73,13 +73,13 @@ Pacific silver fir is a shade-tolerant, late-successional species that regenerat
 
 Growth rates are slow in dense shade (less than 10 cm per year) but accelerate dramatically when canopy gaps form. Released saplings can achieve 50–80 cm of annual height growth. Maximum annual ring widths of 4–6 mm have been recorded in dominant trees on productive sites, though average rates are closer to 1–2 mm. Height growth typically continues for 100–150 years before declining.
 
-The species commonly associates with western hemlock (*Tsuga heterophylla*), Douglas-fir (*Pseudotsuga menziesii*), western redcedar (*Thuja plicata*), and mountain hemlock (*Tsuga mertensiana*). In the southern Cascades, it grows alongside noble fir (*Abies procera*) and California red fir (*Abies magnifica*). Understory species include *Vaccinium* spp., *Rubus* spp., and various ferns and mosses.
+The species commonly associates with western hemlock (*[[tsuga-heterophylla]]*), Douglas-fir (*[[pseudotsuga-menziesii]]*), western redcedar (*Thuja plicata*), and mountain hemlock (*[[tsuga-mertensiana]]*). In the southern Cascades, it grows alongside noble fir (*Abies procera*) and California red fir (*Abies magnifica*). Understory species include *Vaccinium* spp., *Rubus* spp., and various ferns and mosses.
 
 Pacific silver fir provides critical habitat for the northern spotted owl (*Strix occidentalis caurina*), a federally threatened species. Old-growth stands containing Pacific silver fir are among the most important nesting and foraging habitats for this owl. The species also supports populations of flying squirrels, red tree voles, and numerous cavity-nesting birds.
 
-Mycorrhizal associations are essential for Pacific silver fir on the nutrient-poor volcanic soils of the Cascade Range. Ectomycorrhizal partners include species of *Suillus*, *Russula*, *Lactarius*, *Cortinarius*, and *Tricholoma*. These associations enhance nutrient uptake and may protect against root pathogens. The thick forest floor beneath Pacific silver fir stands supports diverse communities of saprophytic fungi, including commercially valuable chanterelles and matsutake mushrooms.
+[[plants-without-mycorrhizal-associations]] are essential for Pacific silver fir on the nutrient-poor volcanic soils of the Cascade Range. Ectomycorrhizal partners include species of *Suillus*, *Russula*, *Lactarius*, *Cortinarius*, and *Tricholoma*. These associations enhance nutrient uptake and may protect against root pathogens. The thick forest floor beneath Pacific silver fir stands supports diverse communities of saprophytic fungi, including commercially valuable chanterelles and matsutake mushrooms.
 
-Snow interception by the dense canopy of Pacific silver fir creates a characteristic microclimate beneath the trees. Snow depth is typically greater in silver fir stands than in adjacent open areas, and snowmelt occurs more slowly, providing a prolonged supply of soil moisture during the growing season. This snow-shading effect is ecologically important for maintaining the cool, moist conditions that favor seedling establishment and understory plant communities.
+Snow interception by the dense canopy of Pacific silver fir creates a characteristic microclimate beneath the trees. Snow depth is typically greater in silver fir stands than in adjacent open areas, and snowmelt occurs more slowly, providing a prolonged supply of soil moisture during [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]]. This snow-shading effect is ecologically important for maintaining the cool, moist conditions that favor seedling establishment and understory plant communities.
 
 ## Conservation Status
 
@@ -87,19 +87,4 @@ Pacific silver fir is listed as Least Concern by the IUCN. The species has an ex
 
 Timber harvesting has reduced old-growth Pacific silver fir stands significantly over the past century, particularly at lower elevations in the western Cascades. The Northwest Forest Plan (1994) established reserves on federal lands that protect remaining old-growth habitat and restrict harvesting of late-successional forests. Second-growth stands are increasing in area as previously harvested forests mature.
 
-Climate change poses a significant long-term threat to Pacific silver fir at the southern and lower-elevation margins of its range. Warming temperatures and reduced snowpack may shift suitable habitat upward in elevation, reducing the species' total distribution area. Increased frequency and severity of drought stress, wildfire, and insect outbreaks could further impact vulnerable populations.
-
-The balsam woolly adelgid (*Adelges piceae*), an invasive insect, has caused significant mortality in Pacific silver fir forests since its introduction to the Pacific Northwest in the 1930s. Infested trees develop swollen branch galls and reduced growth, and heavy infestations can kill trees within 5–10 years. The insect continues to spread within the species' range, particularly affecting high-elevation stands where cold temperatures previously limited its distribution.
-
-## See Also
-
-- [[abies-grandis]]
-- [[abies-lasiocarpa]]
-- [[abies-magnifica]]
-- [[tsuga-mertensiana]]
-- [[tsuga-heterophylla]]
-- [[picea-sitchensis]]
-- [[thuja-plicata]]
-- [[pseudotsuga-menziesii]]
-- [[abies-nobilis]]
-- [[chamaecyparis-lawsoniana]]
+Climate change poses a significant long-term threat to Pacific silver fir at the southern and lower-elevation margins of its range. Warming temperatures and reduced snowpack may shift suitable habitat upward in elevation, reducing the species' total distribution area. Increased frequency and severity of drought stress, wildfire, [[savory-grasshopper-and-insect-outbreaks]] could further impact vulnerable populations.

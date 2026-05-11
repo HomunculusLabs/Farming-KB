@@ -1,15 +1,16 @@
 ---
-title: Wild wild fermentation vs cultured yeast Yeast
+title: Wild Fermentation Vs Cultured Yeast
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [preservation, food]
 sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
 ---
 # Wild Fermentation vs Cultured Yeast
 
-The choice between wild fermentation and cultured yeast represents one of the most fundamental decisions in any fermentation project, whether brewing beer, making bread, producing wine, or creating other fermented foods. Each approach has distinct advantages, challenges, and traditions. Understanding the difference empowers fermenters to make informed choices and potentially combine both approaches.
+The choice between wild fermentation and cultured yeast represents one of the most fundamental decisions in any fermentation project, whether brewing beer, making bread, producing wine, or creating other [[lacto-fermentation-recipes]]. Each approach has distinct advantages, challenges, and traditions. Understanding the difference empowers fermenters to make informed choices and potentially combine both approaches.
 
 ## What Is Wild Fermentation?
 
@@ -36,7 +37,7 @@ Wild fermentation is the oldest form of fermentation. Every traditional fermente
 
 ## What Is Cultured Yeast Fermentation?
 
-Cultured yeast fermentation uses specific strains of microorganisms that have been isolated, characterized, and propagated in a laboratory. These strains are selected for specific properties: predictable fermentation performance, consistent flavor production, alcohol tolerance, temperature range, and flocculation characteristics.
+Cultured yeast fermentation uses specific strains of microorganisms that have been isolated, characterized, and propagated in a laboratory. These strains are selected for specific properties: predictable fermentation performance, consistent flavor production, alcohol tolerance, [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]], and flocculation characteristics.
 
 ### Characteristics of Cultured Yeast
 
@@ -53,7 +54,7 @@ Cultured yeast fermentation uses specific strains of microorganisms that have be
 - Most modern commercial beer brewing
 - Commercial bread baking with baker's yeast (S. cerevisiae)
 - Winemaking with selected wine yeast strains
-- Commercial yogurt and cheese production with defined starter cultures
+- Commercial yogurt [[mollison-designers-goat-dairy-and-cheese-production]] with defined starter cultures
 - [[query-how-does-kombucha-brewing-work]] with SCOBY cultures
 
 ## Advantages of Wild Fermentation
@@ -62,7 +63,7 @@ Wild fermentation offers several unique benefits:
 
 - Complexity: The mixture of organisms in a wild fermentation creates layered, evolving flavors that are often more interesting than single-strain fermentations. Brettanomyces alone can produce over 100 different flavor compounds.
 
-- Terroir: Wild fermentation captures the microbial signature of a specific place and time. A sourdough starter from San Francisco will produce different flavors than one from Paris, even with identical flour.
+- Terroir: Wild fermentation captures the microbial signature of a specific place and time. A sourdough starter from [[san-francisco-shipibo-ayahuasca-ceremonial-center]] will produce different flavors than one from Paris, even with identical flour.
 
 - Resilience: Wild fermentations often involve multiple species that create a self-regulating ecosystem. If one organism produces too much acid, others may be inhibited, [[fukuoka-creating-natural-farm-site-selection-establishment]] balance.
 
@@ -87,30 +88,3 @@ Wild fermentation also presents real challenges:
 ## Combining Wild and Cultured Approaches
 
 Many modern fermenters combine elements of both approaches:
-
-- Using a cultured yeast for primary fermentation, then aging with wild organisms
-- Creating a sourdough starter from wild organisms but maintaining it with regular feeding for consistency
-- Using a pure culture for the first batch, then harvesting and repitching the yeast for subsequent batches
-- Inoculating with a mixed culture that includes both Saccharomyces and wild organisms
-
-## Practical Recommendations
-
-For beginners, cultured fermentation is generally recommended because it is more forgiving and produces more predictable results. As experience grows, wild fermentation becomes an exciting frontier for exploration.
-
-Key principles for wild fermentation:
-
-- Start with the cleanest possible ingredients and equipment
-- Create conditions that favor desirable organisms (proper temperature, salt concentration for vegetables, sugar content for beverages)
-- Be patient -- wild fermentations often need more time
-- Keep detailed notes to learn from each batch
-- Trust your senses -- smell and taste are your best tools for monitoring fermentation
-- Have a backup plan -- if a wild fermentation goes wrong, be prepared to discard it
-
-## See Also
-
-- [[yeast-biology]] for the science of fermentation microorganisms
-- [[knf-yeast-preparation-detailed]] for cultivating wild yeast using Korean [[comparison-natural-farming-vs-permaculture]] methods
-- [[sourdough-bread-guide]] for maintaining a sourdough culture
-- [[food-fermentation-guide]] for lacto-fermentation with wild bacteria
-- kombucha brewing for a mixed-culture fermentation
-- [[fermentation-microbiology-for-brewers]] for the microbial science behind brewing fermentation

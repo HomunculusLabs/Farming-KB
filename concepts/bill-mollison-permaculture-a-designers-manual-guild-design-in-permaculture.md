@@ -88,28 +88,3 @@ occupied by weeds.
 Mollison provided a methodology for designing guilds for any central element.
 The designer first identifies the needs of the central plant: nutrients
 required, pests that attack it, pollinators it depends on, and microclimate
-conditions it prefers. Then the designer selects species that fill each
-identified need. The resulting guild is tested through observation and refined
-over time. Local knowledge and traditional [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] wisdom inform
-guild design, but the functional analysis framework ensures that every member
-has a clearly defined role.
-
-## Spatial Arrangement of Guild Members
-
-The physical arrangement of guild members matters. Tall or climbing plants are
-placed to avoid shading the central element. Nitrogen fixers are positioned
-where their root exudates will benefit the target crop. Pest repellent plants
-are concentrated near the most vulnerable parts of the central plant. Mulch
-producers are placed where their cut material will naturally fall or can be
-easily distributed. The principles of [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]. Chickens in a
-forage guild with fruit trees, comfrey, and insects create a system where
-the chickens control pests, fertilize the soil, and process fallen fruit while
-the trees provide shade and forage. Ducks in a rice paddy guild control pests
-and weeds while fertilizing the rice crop. Aquatic guilds in
-[[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]] applies guild principles to pasture and
-cropping systems through companion planting, cover crop mixes, and integrated
-livestock rotations. At every scale, the guild concept of functional
-relationships between elements creates systems that are more productive,
-## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-tropical-grassland-rehabilitation]]

@@ -19,7 +19,7 @@ sources:
 
 **Vaccinium fuscatum** is a deciduous shrub in the family Ericaceae, commonly known as the black highbush blueberry or southern black blueberry. It is native to the southeastern United States, occurring primarily in wetland habitats from New Jersey to Texas.
 
-The species is closely related to and has often been treated as a variety of the highbush blueberry (*Vaccinium corymbosum*), but molecular and morphological evidence supports its recognition as a distinct species. It produces dark berries that are nearly black at full ripeness, distinguishing it from the typically blue-fruited *V. corymbosum*.
+The species is closely related to and has often been treated as a variety of the highbush blueberry (*[[vaccinium-corymbosum-entity]]*), but molecular and morphological evidence supports its recognition as a distinct species. It produces dark berries that are nearly black at full ripeness, distinguishing it from the typically blue-fruited *V. corymbosum*.
 
 ## Taxonomy and Morphology
 
@@ -49,7 +49,7 @@ Unlike the more upland *V. corymbosum*, *V. fuscatum* is strongly associated wit
 
 The species is tolerant of periodic flooding and root inundation, surviving water levels up to 30 cm above the root crown for extended periods. This flood tolerance is a key ecological differentiator from *V. corymbosum*.
 
-Soil preferences include highly organic acidic substrates (pH 3.5–5.0) in mucky or peaty wetland soils. It is commonly found in association with sweetbay magnolia (*Magnolia virginiana*), red maple (*Acer rubrum*), and Atlantic white cedar (*Chamaecyparis thyoides*).
+Soil preferences include highly organic acidic substrates (pH 3.5–5.0) in mucky or peaty wetland soils. It is commonly found in association with sweetbay magnolia (*[[magnolia-virginiana]]*), red maple (*Acer rubrum*), and Atlantic white cedar (*[[chamaecyparis-thyoides]]*).
 
 In the mid-Atlantic states, *V. fuscatum* often occupies the transition zone between Coastal Plain pocosins and Piedmont uplands. These ecotonal populations show intermediate morphological characteristics, reflecting gene flow with *V. corymbosum* in some contact zones.
 
@@ -67,7 +67,7 @@ The species provides important cover and nesting structure for wildlife in wetla
 
 In fire-prone pocosin habitats, *V. fuscatum* resprouts from the root crown following prescribed burns. Fire return intervals of 3–10 years maintain open canopy conditions favorable for fruit production.
 
-[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations enable nutrient acquisition from nutrient-poor wetland soils. These [[mycelium-running-symbiotic-fungi-relationships]] are essential for nitrogen and phosphorus uptake in the acidic, often waterlogged substrates where *V. fuscatum* grows.
+[[dighton-ericoid-mycorrhizal-nutrient-acquisition]] associations enable [[mycorrhizal-mineral-weathering-nutrient-acquisition]] from nutrient-poor wetland soils. These [[mycelium-running-symbiotic-fungi-relationships]] are essential for nitrogen and phosphorus uptake in the acidic, often waterlogged substrates where *V. fuscatum* grows.
 
 ## Edibility and Uses
 
@@ -79,33 +79,12 @@ The dark fruit coloration indicates high anthocyanin content, primarily cyanidin
 
 Commercial cultivation is limited, but the species has value as a breeding parent. Its flood tolerance, disease resistance, and adaptation to warm southern climates are traits of interest for blueberry improvement programs.
 
-Researchers at North Carolina State University have incorporated *V. fuscatum* germplasm into breeding populations targeting the southeastern United States. Progeny from these crosses show improved performance on poorly drained sites.
+Researchers at [[north-carolina-mycodiversity]] State University have incorporated *V. fuscatum* germplasm into breeding populations targeting the southeastern United States. Progeny from these crosses show improved performance on poorly drained sites.
 
-In native plant landscaping, *V. fuscatum* is used for rain gardens, bioswales, and wetland restoration projects. Its tolerance of saturated soils makes it suitable for stormwater management plantings where other Vaccinium species would fail.
+In native plant landscaping, *V. fuscatum* is used for rain gardens, bioswales, and wetland restoration projects. Its tolerance of saturated soils makes it suitable for [[mollison-designers-cloudburst-and-stormwater-management]] plantings where other Vaccinium species would fail.
 
 ## Cultivation
 
 Propagation is achievable through softwood cuttings under mist (70–85% rooting success) or from seed following 90-day cold stratification. [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]] protocols have been developed for germplasm conservation.
 
 Plants require consistently moist to wet acidic soils and perform poorly in well-drained upland sites. Full sun to partial shade is acceptable, with best fruit production in full sun.
-
-Spacing recommendations for hedgerow plantings are 1.2–1.8 meters within rows. Mulching with pine needles or pine bark maintains soil acidity and moisture retention.
-
-Chilling requirement is moderate, estimated at 500–700 hours below 7°C. This places it between the low-chill *V. elliottii* and the higher-chill northern highbush blueberry in terms of cold adaptation.
-
-Yield data from wild stands and experimental plantings suggest 1.5–3 kg per mature plant under optimal conditions. Berry size is smaller than cultivated highbush but larger than many lowbush species.
-
-Pruning requirements are minimal, consisting primarily of removal of dead, damaged, or excessively dense canes. The species responds well to renewal pruning, producing vigorous new shoots from the crown.
-
-[[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] are similar to those affecting cultivated blueberries, though *V. fuscatum* shows above-average resistance to root rot pathogens. Bird predation of fruit can be significant in unnetted plantings and is the primary challenge for small-scale cultivation.
-
-## See Also
-
-- [[vaccinium-elliottii]]
-- [[vaccinium-macrocarpon]]
-- [[vaccinium-arboreum]]
-- [[vaccinium-uliginosum]]
-- [[gaylussacia-baccata]]
-- gaultheria-procumbens
-- [[oxydendrum-arboreum]]
-- [[vaccinium-vitis-idaea]]

@@ -1,5 +1,5 @@
 ---
-title: Deep-Organic [[cho-natural-farming-philosophy]] - [[eliot-coleman]]
+title: Coleman Deep Organic Farming Philosophy
 source: eliot-coleman-winter-harvest-handbook.md
 source_author: Eliot Coleman
 source_chapter: "Chapter 20 - Deep-Organic Farming and the Small Farm"
@@ -88,42 +88,3 @@ who climb, and those who stand at the bottom selling climbing gear.
 Biological farming ideas are not new. Books Coleman read in 1965 were
 already decades old — Hainsworth's *Agriculture: A New Approach* (1954),
 Wickenden's *Make Friends with Your Land* (1949), Waksman's *The Soil
-and the Microbe* (1931). K.D. White's *Roman Farming* reveals compost,
-[[cover-crops-green-manures]], and legume rotations were basic knowledge two thousand
-years ago. F.H. King's *Farmers of Forty Centuries* shows they were
-common knowledge four thousand years ago.
-
-The USDA's own 1938 Yearbook, *Soils and Men*, reads like an organic
-textbook: "While the continuous use of [[cannabis-chemical-fertilizers]] tends to
-deplete the essential elements not supplied to the soil, the use of
-stable manure, leaf mold, wood ashes and peat tends to conserve them."
-The 1957 Yearbook stated: "Well fed plants usually are less susceptible
-to soil borne organisms than are poorly nourished plants."
-
-## Key Principles
-
-1. **Feed the soil biology, not plants directly.** [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] feeds
-   soil organisms; their metabolism makes nutrients biologically available.
-2. **Maintain living soil.** Bare soil is anathema. biofumigation and brassica cover crops for pest management, mulches,
-   and living roots protect structure and feed organisms year-round.
-3. **Maximize biodiversity.** Rotations, polycultures, and beneficial
-   habitat create resilient, self-regulating systems.
-4. **Minimize external inputs.** Every purchased input is a dependency
-   weakening biological and economic resilience.
-5. **Observe and respond.** Sustained attention is the farmer's most
-   important tool; biological systems provide constant feedback.
-6. **Quality over quantity.** Deep-organic produce reaches higher
-   perfection without chemical forcing — superior flavor and nutrition.
-
-## The Small Farm Advantage
-
-Small farms can manage biological complexity that large monocultures
-cannot. The attention to detail — monitoring soil health, observing plant
-responses, adjusting in real time — is precisely what deep-organic farming
-requires. This is not nostalgia but recognition that biological systems
-operate at human scale.
-
-The economic argument follows: by eliminating purchased inputs and
-relying on farm-produced fertility, small farms achieve superior quality
-at lower cost. The deep-organic farmer grows soil fertility rather than
-buying it, creating a self-reinforcing cycle that compounds over decades.

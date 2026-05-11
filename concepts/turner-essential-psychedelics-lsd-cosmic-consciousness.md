@@ -1,5 +1,5 @@
 ---
-title: turner essential psychedelics lsd cosmic consciousness Consciousness - Turner's turner-essential-psychedelics-5-meo-dmt-void-experience Guide
+title: Turner Essential Psychedelics Lsd Cosmic Consciousness
 created: 2026-04-26
 updated: 2026-04-24
 sources:
@@ -10,19 +10,19 @@ tags: [lsd, psychedelics]
 
 # LSD Cosmic Consciousness
 
-Turner's chapter on LSD, subtitled "Molecule of Perfection," covers intensity
+Turner's chapter on LSD, subtitled "[[lsd-molecule-of-perfection]]," covers intensity
 levels from 3 to 7 for most experiences, with a typical full dose producing
 profound alterations of consciousness lasting 8-10 hours. He describes LSD as
 the most transparent of all psychedelics, having the least "signature" to it.
 
 ## Historical Context
 
-LSD was first synthesized in 1938 by Albert Hofmann of Sandoz Pharmaceutical
+LSD was first synthesized in 1938 by [[albert-hofmann]] of Sandoz Pharmaceutical
 Company. Hofmann was the first human to experience it in 1943. During the
 following 20 years it was promoted as a psychiatric aid and used in clinical
-experiments. In the early 1960s, Timothy Leary and colleagues began spreading
+experiments. In the early 1960s, [[timothy-leary]] and colleagues began spreading
 word of LSD's spiritual potential, sparking a revolution that had major impact
-on Western culture, music, art, and the acceptance of diverse philosophies and
+on [[mycophobia-in-western-culture]], music, art, and the acceptance of diverse philosophies and
 lifestyles.
 
 ## Dosage Range
@@ -82,41 +82,9 @@ psychedelics, one encounters the "Clear Light" or "White Light" -- a
 supernaturally brilliant and blazing pure light radiating from within. The
 feeling accompanying it is almost always divine bliss. The Clear Light can
 only be attained through a full ego death, a process described in detail in
-The Psychedelic Experience (Leary, Alpert, Metzner).
+The [[lsd-psychedelic-experience-guide]] (Leary, Alpert, Metzner).
 
 ## Combinations
 
 - **[[turner-harmala-alkaloids-preparation-and-dosage]]**: Infuse the trip with a mystical, ancient quality;
   feels like contact with the invisible world of Spirits rather than interfacing
-  with one's own mind.
-- **N,N-DMT**: The [[mckenna-dmt-experience-and-hyperspace]] overwhelms the acid during its short
-  duration, but the acid puts one on a higher platform for launching into DMT.
-- **Nitrous oxide**: Works well with every psychedelic; can put an additional
-  peak in the peak or break up a state of mind for a focus shift.
-- **Ludiomil**: Nearly doubles acid strength while producing a "thin invisible
-  membrane" between self and perception, plus vivid dreams for several nights
-  afterward.
-
-## Cognitive Enhancement
-
-Turner references experiments from the 1960s finding an average increase of ten
-points in IQ test results for those administered LSD. He describes LSD's
-ability to give the mind a focusing and resolving ability comparable to a
-microscope, allowing one to distinguish many more distinct instruments and
-individual notes in music, and to perceive lyrics previously indistinguishable
-in a sober state.
-
-## Related Concepts
-
-- clear light
-- ego death
-- cosmic consciousness
-- lsd transparency
-- sensory enhancement
-- [[turner-lsd-nitrous-ludiomil-combinations]]
-- [[turner-harmala-alkaloids-preparation-and-dosage]]
-- [[turner-brief-history-psychedelics-ancient-to-modern]]
-- [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]
-- [[pluteus-americanus]]
-
-- [[conocybe-smithii]]

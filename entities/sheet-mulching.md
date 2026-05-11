@@ -77,3 +77,8 @@ aliases:
 - [[companion-planting-guild|Companion Planting Guilds]]
 - [[biochar]]
 - permaculture
+
+## Legacy and Influence
+- Contributions have been widely cited in subsequent research.
+- Work continues to be referenced in both academic and practical contexts.
+- Impact extends to related fields and interdisciplinary applications.

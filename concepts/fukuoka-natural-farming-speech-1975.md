@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -87,20 +88,3 @@ worthless. In a word, all is unnecessary.
 
 He connected this to the Buddha's Heart Sutra: "Form is emptiness and
 emptiness is form. All is nothing." He did not take up rice farming to
-speak to people about his ideas. Farming was not what he did at all. He
-tried to establish whether rice can be grown without doing anything.
-
-## The Search for What Is Unnecessary
-
-While at the agriculture testing station, he also tried the approach of
-"What about doing this? What about doing that?" But this only makes
-people busier and makes things harder. When he became a farmer, he
-searched for things that do not have to be done. He asked whether the
-fields really need to be plowed, whether seedlings really must be
-transplanted, whether fertilizer is necessary.
-
-## See Also
-
-- [[fukuoka-natural-rice-barley-cultivation]]
-- [[fukuoka-natural-farming-philosophy]]
-- [[fukuoka-mandarin-orange-citrus]]

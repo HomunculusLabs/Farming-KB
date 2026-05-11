@@ -5,6 +5,7 @@ tags: [soil-biology, soil-food-web, microbiology, composting, organic-gardening,
 date: 2026-05-10
 updated: 2026-05-10
 sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
   - /Users/t3rpz/wiki/raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md
 related_concepts:
   - teaming-with-microbes-overview

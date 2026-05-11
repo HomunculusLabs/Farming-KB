@@ -24,7 +24,7 @@ Davallia fejeensis, commonly known as the rabbit's foot fern, is a species of ep
 
 The species is named for its prominently scaly, creeping rhizomes that are covered in dense, pale brown hairs, resembling a rabbit's foot. These furry rhizomes are the most distinctive feature of the plant.
 
-Rabbit's foot fern typically produces arching fronds 15-45 cm long from a central crown. It is widely cultivated as a houseplant, often grown in hanging baskets where the rhizomes can drape over the container edges.
+Rabbit's foot fern typically produces arching fronds 15-45 cm long from a central crown. It is widely cultivated as a houseplant, often grown in [[hamilton-hanging-baskets-organic]] where the rhizomes can drape over the container edges.
 
 The species is valued for its ease of cultivation, tolerance of indoor conditions, and the ornamental appeal of its furry rhizomes. It is among the most commonly sold ferns in the houseplant trade.
 
@@ -60,21 +60,21 @@ The species has been widely introduced outside its native range through cultivat
 
 In cultivation, the rhizomes may trail over pot edges or climb down the sides of hanging baskets. This trailing habit is natural and reflects the species' epiphytic growth strategy of anchoring to surfaces and extending outward.
 
-The species prefers positions with good air movement but protection from strong winds. In the wild, the forest canopy provides both shade and gentle air circulation that benefits the fern.
+The species prefers positions with good air movement but protection from strong winds. In the wild, the forest canopy provides both shade and gentle [[stamets-growing-room-air-circulation-co2-management]] that benefits the fern.
 
 ## Cultivation
 
-Davallia fejeensis is one of the most popular ferns for indoor cultivation, prized for its distinctive rhizomes and graceful, finely divided fronds. It is widely available in the horticultural trade.
+Davallia fejeensis is one of the most popular ferns for [[cannabis-sativa-indoor-cultivation-techniques]], prized for its distinctive rhizomes and graceful, finely divided fronds. It is widely available in the horticultural trade.
 
 The species prefers bright, indirect light and consistently moist growing conditions. Direct sunlight scorches the fronds, while deep shade produces weak, leggy growth with few fronds.
 
-A well-draining epiphytic potting mix is essential. A combination of orchid bark, perlite, and peat in roughly equal proportions mimics the species' natural epiphytic habitat.
+A well-draining epiphytic [[solomon-potting-mix-and-seedling-soil-recipe]] is essential. A combination of orchid bark, perlite, and peat in roughly equal proportions mimics the species' natural epiphytic habitat.
 
 Optimal temperatures range from 16-24°C (60-75°F). The plant is sensitive to cold and should not be exposed to temperatures below 10°C (50°F) for extended periods.
 
 High humidity (50-70%) supports healthy frond production and prevents pinnae tip browning. Regular misting, pebble trays, or placement in humid rooms such as bathrooms helps maintain adequate moisture.
 
-Watering should keep the growing medium evenly moist but not saturated. The furry rhizomes should not be buried; they require exposure to air and should be allowed to trail over the pot surface.
+Watering should keep the [[cervantes-green-algae-growing-medium]] evenly moist but not saturated. The furry rhizomes should not be buried; they require exposure to air and should be allowed to trail over the pot surface.
 
 Propagation is straightforward by division of rhizome sections, each bearing at least one growing point. Rhizome cuttings root readily in moist sphagnum moss or a similar medium under humid conditions.
 
@@ -82,39 +82,8 @@ New fronds unfurl gradually over 2-3 weeks, producing tightly coiled croziers th
 
 ## Uses and Ecology
 
-Davallia fejeensis has no significant recorded uses in traditional medicine or cuisine. Its value is almost entirely ornamental, and it is not known to be toxic to humans or domestic animals.
+Davallia fejeensis has no significant recorded uses in traditional medicine or cuisine. Its value is almost entirely ornamental, and it is not known to be toxic to humans or [[permaculture-domestic-animals]].
 
 In its native forest habitats, the species contributes to the epiphyte community diversity of tropical Pacific island forests. It provides microhabitat for small invertebrates on tree trunks and branches.
 
 The furry rhizome scales serve a protective function, insulating the rhizome from desiccation and physical damage. In cultivation, these scales also protect the rhizome from minor mechanical injury during handling.
-
-The species is occasionally used in terrarium and vivarium design, where its epiphytic growth habit and moderate size make it suitable for enclosed tropical plant displays.
-
-In the houseplant trade, D. fejeensis is often grouped with other Davallia species sold as "rabbit's foot ferns." The related Davallia canariensis (hare's foot fern) has darker rhizome scales and is less commonly available.
-
-## Related Species
-
-The genus Davallia contains approximately 40 species distributed across tropical Africa, Asia, and the Pacific. Several species share the characteristic scaly rhizomes:
-
-- **Davallia canariensis** (Hare's foot fern) is from the Canary Islands and Madeira, with darker, more sharply pointed rhizome scales. It is hardier than D. fejeensis and tolerates cooler conditions.
-
-- **Davallia mariesii** (Squirrel's foot fern) is a Japanese species with smaller fronds and more delicate rhizome covering. It is popular in bonsai companion planting.
-
-- **Davallia trichomanoides** (Black rabbit's foot fern) is a larger species with darker rhizomes and more robust fronds, native to Japan, Korea, and China.
-
-- **Nephrolepis exaltata** (Boston fern) is a commonly cultivated fern with very different morphology but similar indoor cultivation requirements as a hanging basket specimen.
-
-- **Humata tyermannii** (White rabbit's foot fern) is a closely related species formerly placed in Davallia, distinguished by silvery-white rhizome scales and smaller frond size.
-
-## See Also
-
-- [[nephrolepis-exaltata]]
-- [[adiantum-raddianum]]
-- [[adiantum-capillus-veneris]]
-- [[asplenium-nidus]]
-- [[adiantum-pedatum]]
-- [[polypodium-vulgare]]
-- [[dryopteris-filix-mas]]
-- [[pteris-vittata]]
-- [[pteridium-aquilinum]]
-- [[cyrtomium-falcatum]]

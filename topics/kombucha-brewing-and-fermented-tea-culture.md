@@ -84,7 +84,7 @@ Semi-oxidized teas create a middle ground with complex, layered flavors. Tieguan
 
 ### Herbal and Decaffeinated Options
 
-Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true [[camellia-sinensis-entity]] tea works well. Popular additions include:
+Pure herbal teas lack the nitrogen compounds (caffeine, theanine) that support SCOBY health and should not be used as the sole tea. However, blending 25–50% herbal tea with true [[camellia-sinensis]] tea works well. Popular additions include:
 - **Hibiscus** — Vibrant red color and tart cranberry-like flavor
 - **Rooibos** — Naturally sweet, caffeine-free base when blended
 - **Chamomile** — Calming floral notes

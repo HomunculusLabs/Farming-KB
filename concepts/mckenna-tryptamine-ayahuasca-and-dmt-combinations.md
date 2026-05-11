@@ -87,17 +87,3 @@ McKenna advocates for a particular epistemological stance toward the experiences
 ## Magic in Hyperspace
 
 McKenna concludes his discussion with a direct statement: "My testimony is that magic is alive in hyperspace. It is not necessary to believe me, only to form a relationship with these hallucinogenic plants." The ayahuasca vine, like the psilocybin mushroom, is presented not as a drug to be studied in a laboratory but as a partner in an ongoing dialogue -- a relationship that yields knowledge unavailable through any other means. "The fact is that the gnosis comes from plants."
-
-## See Also
-
-- [[barquinha-church-umbanda-orixas-ayahuasca-syncretism]]
-
-- [[ayahuasca-brewing-guide]]
-- [[mckenna-food-of-the-gods-thesis]]
-- [[mckenna-archaic-revival]]
-
-- mckenna-tryptamine-hallucinogens-and-consciousness -- parent topic overview
-- mckenna-tryptamine-consciousness-dmt-spirit-molecule -- DMT phenomenology
-- mckenna-tryptamine-psilocybin-consciousness-evolution -- psilocybin parallel
-- mckenna-tryptamine-endogenous-dmt-pineal-gland-theory -- endogenous DMT hypothesis
-- mckenna-tryptamine-research-legal-status -- barriers to research

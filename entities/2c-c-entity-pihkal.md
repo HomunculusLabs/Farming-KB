@@ -88,17 +88,7 @@ min, then quenched with 400 mL H2O. This was washed with 3x100 mL
 CH2Cl2 (which removed some of the color) then brought to neutrality
 with dilute aqueous NaOH and treated with a small amount of sodium
 dithionite which discharged most of the color (from deep brown to pale
-yellow). The reaction was made strongly basic with aqueous KOH, and
-extracted with 3x75 mL CH2Cl2. The pooled extracts were washed once
-with H2O and the solvent was removed under vacuum leaving about 10 mL
-
-(Additional synthesis details available in source.)
-
-## Safety Notes
-
-This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-- [[2c-d-entity-pihkal]]
-- [[2c-f-entity-pihkal]]
-- [[tma-5-entity-pihkal]]
+- [[aleph-entity-pihkal]]
+- [[meda-entity-pihkal]]

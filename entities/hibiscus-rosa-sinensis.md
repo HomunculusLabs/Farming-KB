@@ -12,11 +12,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Ross, I.A. (2001). Medicinal Plants of the World: Chemical Constituents, Traditional and Modern Medicinal Uses. Humana Press.
+  - Ross, I.A. (2001). Medicinal Plants of the World: guzman-magic-mushrooms-chemical-constituents, Traditional and Modern Medicinal Uses. Humana Press.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
-  - Morton, J.F. (1987). "Roselle (Hibiscus sabdariffa)." Fruits of Warm Climates, 281-286.
+  - Morton, J.F. (1987). "Roselle ([[hibiscus-sabdariffa]])." Fruits of Warm Climates, 281-286.
   - Adetuyi, A.O. & Adegoke, A.A. (2008). "The effect of processing on the nutrients and anti-nutrients of roselle seed." International Journal of Food Science & Technology, 43(2), 372-375.
-  - Ali, B.H. et al. (2005). "Some phytochemical, pharmacological and toxicological properties of ginger (Zingiber officinale Roscoe)." Phytotherapy Research, 19(11), 1-6.
+  - Ali, B.H. et al. (2005). "Some phytochemical, pharmacological and toxicological properties of ginger ([[zingiber-officinale]] Roscoe)." Phytotherapy Research, 19(11), 1-6.
 ---
 
 ## Overview
@@ -62,8 +62,8 @@ cultivation, but it is generally accepted to originate from tropical and
 subtropical regions of East and [[psilocybe-southeast-asia-pacific]], possibly Vanuatu or China.
 
 It has been introduced pantropically and is now naturalized in many tropical and
-warm temperate regions worldwide, including the Caribbean, Pacific Islands,
-sub-Saharan Africa, and South America. The species is frost-sensitive and does
+warm [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] worldwide, including the Caribbean, [[guzman-allen-gartz-neurotropic-fungi-hawaii-pacific-islands]],
+sub-Saharan Africa, and [[guzman-psilocybin-mushrooms-south-america]]. The species is frost-sensitive and does
 not survive temperatures below 5°C without protection.
 
 It thrives in full sun to partial shade in well-drained, fertile soils with a
@@ -87,42 +87,3 @@ Hawaiian culture, the flower (known as pua aloalo) is used in lei making and
 has ceremonial significance.
 
 ## Phytochemistry and Pharmacology
-
-Key [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] include anthocyanins (cyanidin-3-glucoside,
-cyanidin-3-sambubioside), flavonoids (quercetin, kaempferol), organic acids
-(hibiscus acid, protocatechuic acid), and polysaccharides.
-
-Anthocyanins are responsible for the red pigmentation of many cultivars and
-contribute significant antioxidant activity. In vitro studies demonstrate
-scavenging of reactive oxygen species and inhibition of lipid peroxidation.
-
-Extracts have shown antihypertensive activity in animal models, with ACE
-inhibitory properties comparable to low-dose captopril. Anti-inflammatory
-effects have been documented through inhibition of COX-2 and NF-κB pathways.
-
-Antimicrobial activity has been demonstrated against Gram-positive bacteria
-including *Staphylococcus aureus* and *Bacillus subtilis*, with weaker activity
-against Gram-negative species.
-
-## Ornamental and Landscape Use
-
-*H. rosa-sinensis* is one of the most widely cultivated ornamental flowering
-shrubs in tropical and subtropical horticulture. Thousands of cultivars have
-been developed, varying in flower size, color, form (single, semi-double,
-double), and growth habit.
-
-It is used extensively in foundation plantings, hedges, containers, and as a
-specimen plant. In cooler climates, it is grown as a houseplant or patio plant
-and brought indoors during winter months.
-
-The species responds well to pruning and can be trained into standards,
-espaliers, and topiary forms. Bloom is continuous in warm conditions, with
-individual flowers lasting only one to two days but new buds produced
-prolifically.
-
-## See Also
-
-- [[althea-officinalis]]
-- [[moringa-oleifera]]
-- typha-latifolia-entity
-- [[vetiveria-zizanoides]]

@@ -2,7 +2,7 @@
 title: "What a Plant Knows — Chamovitz Book Overview of Plant Senses"
 slug: "chamovitz-what-a-plant-knows-overview"
 tags: [plant-biology, plant-senses, photoreception, phototropism, photoperiodism, chamovitz]
-source: [[grahamholmes-what-a-plant-knowsindd]]
+source: grahamholmes what a plant knowsindd
 created: 2026-05-10
 ---
 
@@ -10,17 +10,17 @@ created: 2026-05-10
 
 ## Overview
 
-*What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond* by Daniel Chamovitz (Oneworld Publications, 2012; ISBN 978-1-85168-910-1) is a popular science book that explores plant sensory biology through the framework of human senses. Rather than anthropomorphizing plants, Chamovitz uses each "sense" chapter to reveal the sophisticated molecular mechanisms by which plants perceive and respond to their environment. The book was published in arrangement with Scientific American Books.
+*What a Plant Knows: A Field Guide to the Senses of Your Garden — and Beyond* by Daniel Chamovitz (Oneworld Publications, 2012; ISBN 978-1-85168-910-1) is a popular science book that explores [[plant-sensory-biology]] through the framework of human senses. Rather than anthropomorphizing plants, Chamovitz uses each "sense" chapter to reveal the sophisticated molecular mechanisms by which plants perceive and respond to their environment. The book was published in arrangement with Scientific American Books.
 
 ## Book Structure — Six Senses
 
 The book is organized into six chapters, each addressing a different sensory capability:
 
 1. **What a Plant Sees** (p. 9) — Light perception, phototropism, photoperiodism
-2. **What a Plant Smells** (p. 33) — Volatile chemical detection, plant-plant communication
+2. **What a Plant Smells** (p. 33) — [[plant-olfaction-volatile-chemical-detection]], plant-plant communication
 3. **What a Plant Feels** (p. 61) — Mechanoperception, thigmomorphogenesis, touch responses
 4. **What a Plant Hears** (p. 87) — Vibration and sound perception in plants
-5. **How a Plant Knows Where It Is** (p. 111) — Gravitropism, proprioception, spatial awareness
+5. **How a Plant Knows Where It Is** (p. 111) — Gravitropism, proprioception, [[plant-gravitropism-and-spatial-awareness]]
 6. **What a Plant Remembers** (p. 141) — Plant memory, vernalization, priming responses
 
 An epilogue titled "The Aware Plant" (p. 167) synthesizes the implications of plant sensory biology.
@@ -31,7 +31,7 @@ This is the most detailed chapter and covers the foundational discoveries in pla
 
 ### Phototropism and Darwin's Experiments
 
-Chamovitz opens with the provocative claim that "plants see you" — that plants continuously monitor their light environment. He traces the discovery of phototropism to Charles Darwin's lesser-known botanical career. After publishing *On the Origin of Species* in 1859, Darwin spent twenty years studying plant movement, culminating in his 1880 book *The Power of Movement in Plants*.
+Chamovitz opens with the provocative claim that "plants see you" — that plants continuously monitor their light environment. He traces the discovery of phototropism to Charles Darwin's lesser-known botanical career. After publishing *On the Origin of Species* in 1859, Darwin spent twenty years studying plant movement, culminating in his 1880 book *The [[darwin-power-of-movement-in-plants]] in Plants*.
 
 The Darwins' five-condition experiment with canary grass (*Phalaris canariensis*) demonstrated that:
 
@@ -45,7 +45,7 @@ Julius von Sachs (1864) had previously established that blue light is the primar
 
 ### Photoperiodism and Maryland Mammoth
 
-The chapter then follows the story of the Maryland Mammoth tobacco strain, which grew continuously without flowering. Wightman W. Garner and Harry A. Allard at the USDA (1918) discovered that limiting day length caused the plant to flower, establishing the concept of photoperiodism. This led to the classification of short-day plants (chrysanthemums, soybeans) and long-day plants (irises, barley).
+The chapter then follows the story of the [[garner-allard-maryland-mammoth-tobacco-experiment]] strain, which grew continuously without flowering. Wightman W. Garner and Harry A. Allard at the USDA (1918) discovered that limiting day length caused the plant to flower, establishing the concept of photoperiodism. This led to the classification of short-day plants (chrysanthemums, soybeans) and long-day plants (irises, barley).
 
 ### Night-Break Experiments
 
@@ -70,7 +70,7 @@ Chamovitz contrasts plant vision with human vision:
 
 ## Chapter 2: What a Plant Smells
 
-Explores how plants detect volatile organic compounds (VOCs):
+Explores how plants detect [[chamovitz-plant-scent-communication-volatile-organic-compounds]] (VOCs):
 
 - Plants detect ethylene as a ripening and stress hormone
 - Fruit ripening signals spread through ethylene detection
@@ -88,59 +88,3 @@ Covers mechanoperception in plants:
 - Root growth responses to soil obstacles
 - Touch-induced gene expression changes (demonstrated with Arabidopsis)
 - Wind-induced stem thickening and reduced elongation
-
-## Chapter 4: What a Plant Hears
-
-Addresses the controversial question of whether plants perceive sound:
-
-- Vibration detection mechanisms in plant cells
-- The debunking of the "plants like classical music" myth
-- Root growth toward water sound (recent research on hydrotropism)
-- Cochlea-like structures in some plant cells (debatable)
-- The distinction between vibration detection and true hearing
-
-## Chapter 5: How a Plant Knows Where It Is
-
-Covers spatial awareness in plants:
-
-- Gravitropism — stem-up, root-down growth patterns
-- Statoliths (amyloplasts) as gravity sensors in root cap cells
-- Proprioception — plants sense their own orientation
-- Vine climbing and tendril coiling
-- The interaction between light sensing and gravity response
-
-## Chapter 6: What a Plant Remembers
-
-Explores plant memory mechanisms:
-
-- Vernalization — cold-temperature memory for flowering timing
-- The FLC gene as a molecular "memory" of winter
-- Stress priming — previous stress exposure enhances future responses
-- Epigenetic mechanisms in plant memory
-- Circadian rhythms as biological clocks
-- Phytochrome's red/far-red switching as a form of short-term memory
-
-## The Epilogue: The Aware Plant
-
-Chamovitz carefully navigates the philosophical implications, arguing that plants have sophisticated sensory capabilities without anthropomorphizing them into conscious beings. He distinguishes between sensory response and awareness, noting that plants process environmental information through complex signaling networks that parallel — but are fundamentally different from — animal nervous systems.
-
-## Scientific Context and Impact
-
-The book was published during renewed interest in plant sensory biology, coinciding with advances in photoreceptor discovery (cryptochromes, phototropins, UVR8), plant volatile signaling, and the growing recognition of plant behavioral ecology. Chamovitz uses the familiar framework of human senses to introduce rigorous molecular plant biology, maintaining scientific accuracy without anthropomorphizing plants into conscious beings.
-
-## Relevance to Cultivation
-
-For growers, the book's chapters on light perception are particularly valuable:
-
-- Understanding photoperiodism explains why light cycle manipulation controls flowering in Cannabis and other crops
-- The red/far-red phytochrome switch has direct applications for greenhouse lighting design
-- Knowledge of blue-light phototropism informs canopy management and light distribution strategies
-- Plant mechanoperception research supports training techniques like low-stress training and super-cropping
-
-## See Also
-
-- [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]] — phytochrome and flowering
-- [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]] — red/far-red switching
-- [[chamovitz-maryland-mammoth-photoperiodism-discovery]] — photoperiodism discovery
-- [[photoperiodism-plants-measure-night-length]] — night length measurement
-- [[phytochrome-photoreceptor]] — phytochrome overview

@@ -14,7 +14,7 @@ The 1973 Oxford University Press anthology edited by Michael J. Harner, which br
 
 - [[amazonian-plant-teachers-doctores]] is central to Amazonian vegetalismo traditions, where different plants are understood to teach different things: some teach healing, others teach singing, and still others teach about the [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]] or the spirit world. The [[psychedelic-therapy-mechanisms]] and shamanic [[shamanic-entheogenic-healing-rituals]] share the use of psychoactive substances and the centrality of an experienced guide, the underlying paradigms differ profoundly. Related: [[psychedelic-therapy-shamanism-comparison]], [[psychedelic-terminology-hallucinogenic-entheogenic]]
 ## Merged: Jivaro Shamanism and Natem Ayahuasca
-The shamanic system of the Jivaro (Shuar, Achuar, Huambisa, and Aguaruna) peoples of the Ecuadorian and Peruvian Amazon, centering on the use of natem — their name for the [[shamanic-use-of-psychedelics]], [[ayahuasca-vision-art-and-Shipibo-tradition]] [[ayahuasca-preparation-and-ceremony]] [[campa-ayahuasca-ceremony]] hallucinogens and shamanism harner anthology hallucinogens and shamanism harner anthology [[beta-carboline-chemistry]] [[beta-carboline-chemistry]] [[mckenna-food-of-the-gods-thesis]] The tobacco of the Classical Maya and Amazonian peoples was Nicotiana rustica, which is still in use among aboriginal populations in South America today.
+The shamanic system of the Jivaro (Shuar, Achuar, Huambisa, and Aguaruna) peoples of the Ecuadorian and Peruvian Amazon, centering on the use of natem — their name for the [[shamanic-use-of-psychedelics]], [[ayahuasca-vision-art-and-shipibo-tradition]] [[ayahuasca-preparation-and-ceremony]] [[campa-ayahuasca-ceremony]] hallucinogens and shamanism harner anthology hallucinogens and shamanism harner anthology [[beta-carboline-chemistry]] [[beta-carboline-chemistry]] [[mckenna-food-of-the-gods-thesis]] The tobacco of the Classical Maya and Amazonian peoples was Nicotiana rustica, which is still in use among aboriginal populations in South America today.
 ## Merged: Amazonian Medicinal Plant Pharmacology
 The pharmacology of Amazonian medicinal plants represents one of the most complex and sophisticated areas of ethnopharmacology. The Amazon Basin's extraordinary biodiversity has given rise to a vast pharmacopoeia developed by indigenous peoples over thousands of years, much of which is only now being investigated by modern science. [[beta-carboline-chemistry]] [[5-meo-dmt-compound-profile]] [[cashinahua-banisteriopsis-use]] hallucinogens and shamanism harner anthology hallucinogens and shamanism harner anthology [[mao-inhibitors-and-psychedelics]] - hallucinogens and shamanism harner anthology The active compounds range from well-characterized alkaloids to complex mixtures whose synergistic effects remain poorly understood.
 ## Merged: Amazonian Ethnobotany
@@ -88,25 +88,3 @@ uncertainty and improve the resilience of implementations over time.
 
 Learning from both successes and failures is essential for continuous
 improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
-
-## Integration and Future Development
-
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
-
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
-
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.

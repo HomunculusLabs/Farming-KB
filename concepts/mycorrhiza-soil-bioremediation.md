@@ -1,5 +1,5 @@
 ---
-title: Mycorrhizal Associations in Soil Bioremediation
+title: Mycorrhiza Soil Bioremediation
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -59,7 +59,7 @@ selection for degradative ability.
 
 Many of these enzymes are excreted extracellularly, allowing them to diffuse
 from root surfaces and overcome bioavailability limitations that constrain
-other bioremediation approaches. Extracellular TNT degradation by EcM fungi
+other bioremediation approaches. Extracellular [[mycorrhizal-pah-tnt-degradation]] by EcM fungi
 has been demonstrated. EcM fungi in symbiosis degrade pollutants more
 effectively than free-living mycelium (shown for 2,4-dichlorophenol).
 
@@ -69,8 +69,8 @@ Tree species (birch, willow, loblolly pine, Scots pine) and their EcM
 fungi exhibit both constitutive and adaptive resistances to metals and
 organic pollutants. EcM fungal mats proliferate on extremely contaminated
 sites including pesticide factories, munitions storage, mine tailings, oil
-spills, coal gas sites, and oil shales. The *Pinus sylvestris*–*Suillus
-bovinus* association tolerates 2% (w/v) toluene. The taxonomic diversity of
+spills, coal gas sites, and oil shales. The *[[pinus-sylvestris]]*–*Suillus
+bovinus* association tolerates 2% (w/v) toluene. The [[endophytic-fungi-biology-ecology-taxonomic-diversity]] of
 EcM fungi is considerable — when some taxa are sensitive to particular
 pollutant suites, other taxa fill vacated ecological niches.
 
@@ -88,44 +88,3 @@ negating the need for bacterial co-substrates.
 ### Field Considerations
 
 Ectomycorrhizosphere remediation is untested at field scale. Using trees
-requires years to decades, making it suitable only for sites where long-term
-remediation is acceptable. It is not suitable where metal contaminant
-removal is required. However, forestry offers economic returns (timber, willow
-coppicing) and aesthetic benefits (revegetation of derelict land). Management
-strategies include traditional forestry and incorporation of industrial
-effluents or sewage sludge into established forest surface horizons.
-
-## Ericoid Mycorrhizal Associations
-
-The dominant ericoid mycorrhizal fungus *Hymenoscyphus ericae* shares many
-enzymatic characteristics with EcM fungi and degrades a wide range of POPs.
-*Calluna vulgaris*/*H. ericae* associations are often the dominant vegetation
-on highly metal-contaminated sites and are ideally suited to colonising such
-habitats. *H. ericae* growth is unaffected by organophosphorus pesticides at
-maximum water solubility. However, ericoid associations tend to be slow
-growing with limited hyphal extension compared to EcM fungi, which may
-constrain their bioremediation utility.
-
-## Arbuscular Mycorrhizal Associations
-
-AM fungi have not been cultured independently of their hosts, and their
-extracellular hyphal network is less extensive than EcM associations. Their
-POP-degrading activities remain largely unexplored. However, AM fungi play a
-crucial role in enabling plant establishment on contaminated soils. They
-colonise roots on crude oil-contaminated soils, oil shale wastes, coal wastes,
-and metal(loid)-contaminated mine spoils.
-
-Evidence suggests AM fungi evolve resistances to metal contaminants. AM
-fungi from arsenic mine spoils further enhanced arsenate resistance in the
-already-resistant grass *Holcus lanatus*. AM fungi from the metal violet
-(*Viola calaminaria*) significantly enhanced growth of maize, barley, lupin,
-and medic on contaminated soil compared to standard AMF inocula. By
-stimulating host plant growth on contaminated sites, AM [[query-how-do-fungi-improve-soil-structure]] the
-conditions necessary for rhizosphere remediation.
-
-## See Also
-
-- [[staycare-cyanide-biodegradation-by-fungi]]
-- [[mycorrhizal-pah-tnt-degradation]]
-- fungal-petroleum-hydrocarbon-degradation-mechanisms
-- [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]

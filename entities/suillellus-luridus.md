@@ -7,13 +7,13 @@ tags:
   - bolete
   - suillellus
   - boletaceae
-  - mycology
+  - [[mycology]]
   - edible-cooked
   - toxic-raw
   - ectomycorrhizal
   - europe
   - north-america
-  - mushroom-identification
+  - [[mushroom-identification]]
   - foraging
   - temperate
   - blueing-reaction
@@ -31,7 +31,7 @@ sources:
 
 Suillellus luridus (formerly Boletus luridus), commonly known as the lurid
 bolete, is a basidiomycete fungus in the family Boletaceae. It is a widely
-distributed ectomycorrhizal mushroom found across Europe, [[psilocybin-north-america-pacific-northwest]], and
+distributed [[ectomycorrhizal-mushroom-fruiting-ecology]] found across Europe, [[psilocybin-north-america-pacific-northwest]], and
 parts of Asia. The species is notable for its striking red-to-orange pore
 surface and reticulate stipe, but requires careful preparation — it is mildly
 toxic when raw and can cause gastrointestinal distress if consumed undercooked
@@ -88,52 +88,3 @@ is a valued culinary mushroom.
   forests.
 
 ## Edibility and Toxicity
-
-- **Edible when thoroughly cooked** — the lurid bolete must be boiled or
-  fried for an extended period (15+ minutes) to denature heat-labile toxins.
-- **Toxic raw or undercooked:** Causes nausea, vomiting, abdominal cramps,
-  and diarrhea due to the presence of bolevenine (a glycoprotein) and other
-  unidentified compounds.
-- **Alcohol interaction:** Consumption with alcohol can provoke a
-  disulfiram-like reaction (flushing, palpitations, nausea, headache),
-  though this effect is variable and less severe than with
-  *Coprinopsis atramentaria*.
-- The blueing reaction is caused by oxidation of variegatic acid and xerocomic
-  acid to blue quinone derivatives.
-- Recommended preparation: parboil in salted water for 10 minutes, discard
-  the water, then fry or stew for an additional 10–15 minutes.
-- In Poland, Russia, and the Czech Republic, *S. luridus* is commercially
-  collected and sold in markets after appropriate preparation.
-
-## Similar Species
-
-- **Suillellus queletii:** Similar reticulate stipe but darker cap and less
-  vivid pore coloration; generally considered less common.
-- **Neoboletus erythropus:** Deeply reticulate stipe, intense blueing, but
-  pores are yellow-orange rather than red; considered edible when cooked.
-- **Rubroboletus satanas:** Cap is pale grey to whitish, pores are red-orange,
-  stipe has a red reticulum — *R. satanas* is more toxic and has an
-  unpleasant odor.
-- **Boletus erythropus:** Yellow pores, stronger blueing, and a more coarsely
-  reticulate stipe; edible when cooked.
-- The combination of red pores, red reticulate stipe, and strong immediate
-  blueing is a reliable diagnostic feature for *S. luridus*.
-
-## Ecological Role
-
-- As an ectomycorrhizal species, *S. luridus* facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
-  between trees and soil, improving phosphorus and nitrogen uptake for host
-  trees.
-- Fruit bodies are consumed by slugs, insects, and small mammals; deer have
-  been observed browsing young fruit bodies.
-- The species is sensitive to air pollution and soil acidification, declining
-  in areas with high [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]].
-- [[fungal-mycelial-networks-nutrient-translocation]] may contribute to soil aggregation and carbon cycling in
-  forest ecosystems.
-
-## See Also
-- [[rubroboletus-satanas]]
-- [[amanita-muscaria-entity]]
-- [[ectomycorrhiza]]
-- [[neoboletus-erythropus]]
-- [[mycelial-networks]]

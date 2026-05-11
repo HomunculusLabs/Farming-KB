@@ -1,6 +1,6 @@
 ---
 title: "King Congo: Congo Pointe Noire × Ciskei African Pure Sativa"
-source: "S.T. Oner - Cannabis Sativa Vol. 3"
+source: "S.T. Oner - [[blesching-cannabis-sativa-indica-classification]] Vol. 3"
 source_id: "oner-cannabis-sativa-vol3"
 topics: [cannabis, sativa, strain-profile, african-landrace, congo, tropical-seeds, cannabis-genetics]
 ---
@@ -31,7 +31,7 @@ and energetic effects.
 **Ciskei P4 F1**: A South [[comparison-cavendish-vs-east-african-highland-bananas]] sativa, the Ciskei
 genetics come from the eastern Cape region of South Africa. This is
 one of the legendary "Durban-type" areas known for producing early-
-finishing, potent sativa strains. The P4 F1 designation indicates this
+finishing, potent [[african-landrace-sativa-strains]]. The P4 F1 designation indicates this
 is a stabilized filial generation, offering more consistency than
 raw landrace material.
 
@@ -42,7 +42,7 @@ cultivation vigor and for breeding potential.
 ## Growth Characteristics
 
 One of King Congo's most notable features is its suitability for
-indoor cultivation — a rare quality among pure sativa strains.
+[[cannabis-sativa-indoor-cultivation-techniques]] — a rare quality among pure sativa strains.
 Most landrace-derived pure sativas are impractical for indoor grows
 due to extreme height and flowering time, but King Congo manages to
 remain a medium-sized plant that is manageable in grow rooms.
@@ -61,14 +61,14 @@ progressively through the flowering period.
 ## Flowering Time
 
 The flowering period of 65 to 75 days is remarkably short for a pure
-African sativa. Many landrace-derived strains require 12 weeks or
+[[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]. Many landrace-derived strains require 12 weeks or
 more, making King Congo's 10–12 week window comparatively fast. This
-reduced flowering time is likely inherited from the South African
+reduced flowering time is likely inherited from the [[kanna-sceletium-south-african-narcotic]]
 Ciskei parent, which has been selected for earlier maturation.
 
 Growers should note that while the flowering window is shorter than
 typical landrace sativas, the buds benefit from a full cure. Rushing
-the drying and curing process will diminish the flavor and smoothness
+the [[cannabis-drying-and-curing]] process will diminish the flavor and smoothness
 of the final product.
 
 ## Aroma and Flavor
@@ -88,47 +88,3 @@ bright flavor experience.
 King Congo delivers a fun, creative, and active high that is
 characteristic of pure African sativa genetics. The effects are
 cerebral and energizing, making this an excellent wake-and-bake
-strain. The mental stimulation is productive rather than racy — users
-report feeling creative and motivated rather than anxious or
-overwhelmed.
-
-The duration of effects is long, consistent with pure sativa genetics.
-Users should expect several hours of elevated mood and mental energy,
-making King Congo suitable for daytime use throughout the workday.
-The effects may persist into the evening, potentially interfering
-with sleep for sensitive individuals.
-
-## Cultivation Notes
-
-- Rare pure sativa suitable for indoor cultivation
-- Medium height indoors; larger outdoors
-- Average to heavy yield in both environments
-- Flowering: 65–75 days
-- Deep green buds with white pistil coverage
-- Proper drying and curing essential for best flavor
-- Excellent for outdoor cultivation in warm climates
-- Responds well to [[cannabis-sativa-indoor-training-techniques]]
-
-## Breeder Information
-
-King Congo was bred by Tropical Seeds Company of Spain. This breeder
-specializes in tropical and landrace-derived genetics, with a focus on
-preserving and refining pure sativa lines. Their catalog includes
-numerous African and Central American genetics, making them a go-to
-source for growers seeking authentic landrace experiences.
-
-## Medical Applications
-
-The creative, uplifting effects may benefit patients with depression,
-ADHD, and fatigue. The energetic quality can help combat daytime
-lethargy associated with various medical conditions. The pure sativa
-profile makes this strain less suitable for patients seeking strong
-body effects or sedation.
-
-## See Also
-
-- Oner [[african-landrace-sativa-modern-hybrids]] strain profiles
-- Oner Tropical Seeds Company breeder catalog
-- Cannabis Congo Pointe Noire landrace genetics
-- Oner South African Durban type sativa strains
-- [[cannabis-sativa]] indoor [[pasteurized-straw-cultivation-techniques]]

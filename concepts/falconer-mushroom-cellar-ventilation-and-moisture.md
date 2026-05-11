@@ -1,9 +1,8 @@
 ---
-title: Falconer [[falconer-mushroom-cellar-management]] Ventilation and Moisture
+title: [[falconer-mushroom-bed-boxing-and-protection]] Cellar Ventilation And Moisture
 created: 2026-04-28
-tags:
-  [
-    [[mushroom-cultivation]],
+tags: [
+    [[mushroom-cultivation],
     cellar-growing,
     ventilation,
     moisture-management,
@@ -89,31 +88,7 @@ condensation is a problem.
 
 A little artificial warmth has the effect of dispelling that
 cold, raw, damp air peculiar to a pent-up cellar in winter,
-and purifies the atmosphere by assisting ventilation. In a snug,
-warm cellar, artificial heat is not absolutely necessary. We can
-grow capital crops of mushrooms without any furnace heat,
-simply by using a larger body of material in making the beds,
-enough to maintain a steady warmth for a long time.
 
-But this is a waste of material, for no more mushrooms can
-be grown in a bed two feet thick than in one a foot thick. In an
-unheated cellar the mushrooms grow large and solid, but they
-do not come so quickly nor in such large numbers as in a
-heated one.
-
-## Moisture from Fermenting Manure
-
-Mr. Gardner firmly believes that the mushrooms derive much
-nourishment from the "steam" of fermenting fresh horse
-manure, and by using this "steam" in our mushroom houses we
-can maintain an atmosphere almost moist enough to be able to
-dispense with the use of the syringe, and the mushrooms are
-fatter and heavier for it.
-
-He practices this by keeping a large, deep, open box in one
-end of his cellar, half filled with steaming fresh horse
-droppings, and once or twice a day tossing these over with a
-dung-fork, in order to raise a "steam." It is also for this
-purpose that he introduces the [[falconer-mushroom-spawn-types-and-merits]]
-- [[falconer-mushroom-cooking-selection-and-preparation]]
+## See Also
+- [[falconer-mushroom-cellar-management]]
 - [[falconer-dosoris-mushroom-cellar]]

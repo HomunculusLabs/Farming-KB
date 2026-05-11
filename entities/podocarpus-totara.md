@@ -42,7 +42,7 @@ Reproductive structures are typical of the Podocarpaceae. Male pollen cones are 
 
 The aril is sweet and mucilaginous, ripening from March to May. Seeds germinate readily on moist substrates but remain viable for only a few months at ambient temperatures.
 
-Growth rates are slow by plantation forestry standards, with annual height increments of 30–60 cm under favorable conditions. However, the species compensates through exceptional longevity and wood quality.
+[[coleman-sunlight-and-winter-crop-growth-rates]] are slow by plantation forestry standards, with annual height increments of 30–60 cm under favorable conditions. However, the species compensates through exceptional longevity and wood quality.
 
 ## Distribution and Habitat
 
@@ -52,7 +52,7 @@ The species grows on a wide range of soil types but is most abundant on fertile,
 
 Tōtara is relatively drought-tolerant compared to other New Zealand conifers, allowing it to persist on drier ridges and leeward slopes. Seedlings establish best in partial shade with moderate soil moisture.
 
-Montane populations (var. waihoensis) occupy subalpine scrub and tussock grassland margins on the South Island's eastern ranges. These high-elevation forms display more compact growth and shorter leaves.
+Montane populations (var. waihoensis) occupy subalpine scrub and tussock grassland margins on the South Island's eastern ranges. These high-elevation forms display more [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] and shorter leaves.
 
 The species was once a dominant canopy tree across millions of hectares of lowland forest. Extensive clearance for agriculture reduced its range to fragmented populations, mostly within conservation estates.
 
@@ -66,11 +66,11 @@ Podocarpus totara is a long-lived canopy emergent that structures forest communi
 
 The fleshy aril surrounding the seed is eaten by native birds including the kererū (Hemiphaga novaeseelandiae), tūī (Prosthemadera novaeseelandiae), and kākā (Nestor meridionalis). These birds are the primary seed dispersers.
 
-Kererū are particularly important for long-distance seed dispersal, carrying seeds between forest fragments. Declines in kererū populations due to habitat loss and introduced predators threaten natural tōtara regeneration.
+Kererū are particularly important for long-distance [[clay-pellet-seed-dispersal]], carrying seeds between forest fragments. Declines in kererū populations due to habitat loss and introduced predators threaten natural tōtara regeneration.
 
 Fallen tōtara logs create long-lasting nurse logs that support seedling establishment, epiphytic growth, and invertebrate communities. Decomposition of the durable heartwood can take several decades.
 
-Tōtara roots form arbuscular mycorrhizal associations that enhance phosphorus uptake on phosphorus-deficient New Zealand soils. These associations are shared with many native understory species.
+Tōtara roots form arbuscular [[plants-without-mycorrhizal-associations]] that enhance phosphorus uptake on phosphorus-deficient New Zealand soils. These associations are shared with many native understory species.
 
 Introduced mammalian browsers including possums (Trichosurus vulpecula) and deer significantly impact regeneration by browsing seedlings and saplings. Possums also damage mature trees through bark feeding.
 
@@ -82,35 +82,8 @@ The timber is straight-grained, easily worked, and dimensionally stable. Its nat
 
 Māori regarded tōtara as a taonga (treasure) and carved it extensively for ceremonial and practical purposes. War canoes carved from single tōtara trunks reached lengths of 25–40 meters.
 
-The bark was used medicinally for treating wounds, skin conditions, and respiratory complaints. Inner bark strips served as binding material and were woven into containers and roofing panels.
+The bark was used medicinally for treating wounds, [[cannabis-for-skin-conditions-detailed]], and respiratory complaints. Inner bark strips served as binding material and were woven into containers and roofing panels.
 
 Tōtara was central to the spiritual beliefs of many iwi (tribes), with individual trees serving as wāhi tapu (sacred sites). The felling of significant trees required ritual permission and ceremonial protocols.
 
 Modern applications include high-end furniture, woodturning, and architectural joinery. The timber's workability and rich golden-brown coloration make it highly sought after by craftspeople.
-
-Tōtara timber was widely used for carving by early European settlers, producing decorative mantelpieces, church pulpits, and civic ornamentation. Many heritage buildings across New Zealand feature tōtara interior woodwork.
-
-The species responds well to plantation silviculture when seedlings are protected from browsing. Plantation-grown tōtara develops heartwood more rapidly than naturally regenerated trees, reaching harvestable size in 60–80 years.
-
-Oil extracted from tōtara heartwood contains podototarin and other totarol compounds with demonstrated antimicrobial activity. Research interest in these phytochemicals has increased for potential pharmaceutical and cosmetic applications.
-
-## Conservation Status
-
-Podocarpus totara is classified as Not Threatened under the New Zealand Threat Classification System. However, large, ancient specimens are now rare outside protected areas due to historical logging.
-
-Predation of seeds by introduced rodents (ship rats and Norway rats) significantly reduces natural regeneration rates. Rat control programs have been shown to increase tōtara seedling establishment by 5–10 fold.
-
-Community-led restoration projects across New Zealand are actively planting tōtara in riparian zones, urban reserves, and farmland margins. These initiatives aim to restore the species to its former lowland forest habitats.
-
-Genetic studies have revealed distinct regional provenances that may warrant recognition as conservation units. Seed sourcing for restoration increasingly considers local adaptation to ensure long-term population viability.
-
-## See Also
-
-- [[araucaria-araucana]]
-- [[agathis-australis]]
-- [[metasequoia-glyptostroboides]]
-- [[sequoia-sempervirens]]
-- [[pinus-radiata]]
-- [[cryptomeria-japonica]]
-- [[taxodium-distichum]]
-- [[cedrus-libani]]

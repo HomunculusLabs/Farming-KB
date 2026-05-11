@@ -62,7 +62,7 @@ Others are bold, branching, and almost cartographic.
 The aesthetic power lies in the tension between fragility and renewed usefulness.
 
 ## History 
-Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur [[query-how-does-kombucha-brewing-work]] and [[kombucha-and-fermented-teas-guide]] culture e rise of tea culture.
+Kintsugi is commonly associated with the Mukombucha-brewing-and-fermented-tea-cultur [[query-how-does-kombucha-brewing-work]] and [[kombucha-and-fermented-teas-guide]] culture e rise of [[kombucha-brewing-and-fermented-tea-culture]].
 One often repeated story concerns shogun Ashikaga Yoshimasa and a damaged Chinese tea bowl.
 According to the story, unsatisfactory metal staple repairs encouraged Japanese artisans to develop a more refined method.
 The historical details are difficult to verify, but the tale captures a real cultural shift.
@@ -88,42 +88,3 @@ Museums must balance appearance, authenticity, stability, and reversibility.
 Urushi repair is durable but not always compatible with modern conservation ethics.
 Epoxy repairs may yellow or become difficult to remove.
 Objects intended for display have different requirements than objects used in tea ceremony.
-Documentation is essential whenever a repaired ceramic enters a collection.
-The repair history becomes part of the artifact history.
-
-## Contemporary applications
-Artists use kintsugi methods to explore memory, loss, migration, and ecological repair.
-Designers use visible repair to criticize disposable consumer culture.
-Workshops teach simplified versions as mindful craft practice.
-Ceramicists may intentionally break and repair work to create new compositions.
-Sustainability advocates cite kintsugi as a model of maintenance rather than replacement.
-Therapists and educators sometimes use it as a narrative device for recovery.
-Luxury brands have also commercialized the aesthetic, sometimes superficially.
-The broad appeal shows the concept's flexibility.
-It also raises questions about cultural appropriation and historical accuracy.
-
-## Misconceptions
-Kintsugi is not simply gluing pottery with gold paint.
-query-how-to-process-acorns-for-foodnal work depends on urushi chemistry and staged curing.
-It is not always safe for food use unless materials and curing are appropriate.
-It is not a universal ancient Japanese response to all broken objects.
-It belongs to specific craft, tea, and aesthetic histories.
-The most expensive-looking repair is not necessarily the best repair.
-Not every broken object should be repaired visibly.
-Some artifacts require conservation methods that minimize intervention.
-Respect for kintsugi includes respect for technique, context, and labor.
-
-## Significance
-Kintsugi occupies a rare place between craft technique and philosophical symbol.
-It turns repair into a visible act of interpretation.
-It challenges modern assumptions that perfection equals value.
-It connects material science, lacquer ecology, ceramics, tea culture, and aesthetics.
-It offers a model of care that accepts history rather than erasing it.
-Its global popularity shows a hunger for practices that honor endurance and maintenance.
-At the same time, serious study keeps the concept grounded in Japanese craft knowledge.
-Kintsugi matters because it makes continuity visible.
-The golden seam is evidence that fragility and beauty can coexist.
-
-## See Also
-- [[broadscale-restoration-watershed-repair]]
-- [[building-with-natural-materials]]

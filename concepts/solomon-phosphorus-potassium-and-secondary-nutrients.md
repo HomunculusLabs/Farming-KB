@@ -1,5 +1,5 @@
 ---
-title: "Phosphorus, Potassium, and Secondary Nutrients"
+title: Solomon Phosphorus Potassium And Secondary Nutrients
 created: 2026-04-28
 tags: [soil-nutrients, phosphorus, potassium, micronutrients, fertilizers]
 date: 2026-04-28
@@ -20,17 +20,17 @@ entirely incomplete because they lack these secondary and micronutrients.
 
 ## Why NPK Alone Is Insufficient
 
-All inexpensive chemical fertilizers are incomplete. They provide
+All inexpensive [[cannabis-chemical-fertilizers]] are incomplete. They provide
 nitrogen, phosphorus, and potassium. Depending on how the fertilizer
 was manufactured, they may contain plenty of sulfur but usually lack
-calcium, magnesium, and the trace minerals that plants need for proper
+calcium, magnesium, and the [[dynamic-accumulator-plants-trace-minerals]] that plants need for proper
 nutrition. Vegetables grown with incomplete fertilizers are more easily
 attacked by insects and disease, and often do not grow as large or as
 nutritious as they should.
 
 Solomon's Complete [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) recipe addresses this by
 combining seedmeal (for nitrogen), a phosphorus source, and agricultural
-lime (for calcium and magnesium), plus optional kelp meal for trace
+lime (for [[dynamic-accumulator-plants-calcium-and-magnesium]]), plus optional kelp meal for trace
 minerals. The COF provides a far more balanced nutrient profile than any
 synthetic NPK fertilizer alone.
 
@@ -40,7 +40,7 @@ Phosphorus is essential for root development, flowering, and fruit
 production. In Solomon's COF recipe, one part by volume of a
 phosphorus source is included. Suitable sources include finely ground
 rock phosphate (either "hard" or "soft" rock phosphate), or bone meal.
-All three of these boost phosphorus and are rich in trace elements.
+All three of these boost phosphorus and are rich in [[teaming-with-nutrients-micronutrients-and-trace-elements]].
 
 Rock phosphate is a naturally slow-release phosphorus source. It
 becomes available to plants gradually through the action of soil
@@ -52,7 +52,7 @@ quickly you need phosphorus available to your crops.
 
 Potassium is critical for overall plant vigor, disease resistance, and
 fruit quality. Solomon notes an interesting interaction: if you are
-growing potatoes with lots of moisture and fertilizing your soil so
+[[growing-potatoes-organically]] with lots of moisture and fertilizing your soil so
 that it offers the plant excesses of potassium, you will end up with a
 much bulkier harvest of low-protein spuds. This is because excess
 potassium, combined with abundant water, produces large but dilute
@@ -88,40 +88,3 @@ sulfur can be used to lower pH while also supplying this nutrient.
 
 Solomon is particularly concerned about the decline of trace minerals in
 modern vegetables. Soils that have been farmed intensively for decades
-often lack important micronutrients like boron, iron, manganese, zinc,
-copper, and molybdenum. These are needed in tiny amounts but are
-essential for plant health and for the [[coleman-winter-greens-nutritional-quality-cold-sweetening]] of the
-harvest.
-
-Kelp meal is Solomon's recommended trace mineral supplement. It
-contains a broad spectrum of micronutrients in naturally chelated
-forms that are readily available to plants. Even a small amount of kelp
-meal in the COF recipe helps ensure that trace mineral deficiencies do
-not limit crop quality.
-
-## The Nutrient Release Pattern
-
-Unlike chemical fertilizers, which dissolve rapidly in soil water and
-create a quick boost followed by a big sag, organic nutrient sources
-release their content only as they decompose. This decomposition is
-driven by the complex ecology of living creatures in the soil. The rate
-is determined by soil temperature, roughly doubling for each 10 degrees
-F (5 degrees C) increase. Complete decomposition of COF takes around
-two months in warm soil, with nutrients being steadily released
-throughout.
-
-## Nutrient Availability and Soil Chemistry
-
-Soil microbes need all the usual plant nutrients: phosphorus,
-potassium, calcium, magnesium, and trace minerals. When undecomposed
-[[hamilton-composting-and-organic-matter-management]] is mixed into soil, even though that organic matter
-contains many plant nutrients, those nutrients are temporarily locked up
-by the microbial population until decomposition is well advanced. This
-is why [[solomon-sheet-composting-mulch-gardening]] must be done far enough in advance of planting
-for decomposition to be largely complete.
-
-## Related
-
-- [[solomon-complete-organic-fertilizer-guide]]
-- [[solomon-lime-calcium-ph-management]]
-- [[solomon-vegetable-nutritional-decline-trace-minerals]]

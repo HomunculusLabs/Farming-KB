@@ -75,7 +75,7 @@ Russula delica is found across southern and central Europe, with particular abun
 
 It extends into North Africa (Morocco, Algeria, Tunisia) and has been reported from parts of western Asia and the Caucasus.
 
-The species is ectomycorrhizal, forming associations primarily with pines, especially Pinus sylvestris, P. pinaster, and P. halepensis.
+The species is ectomycorrhizal, forming associations primarily with pines, especially [[pinus-sylvestris]], P. pinaster, and P. halepensis.
 
 Fruiting occurs from late summer through late autumn, typically August to November, in coniferous forests on acidic to neutral soils.
 
@@ -88,37 +88,3 @@ Russula delica is generally classified as an [[bloomfield-boletus-satanus-edible
 Specimens with mild flavor can be eaten after thorough cooking, and are used in some regional Italian and Spanish cuisines.
 
 The flesh does not have the crisp texture prized in better Russula species like R. vesca or R. cyanoxantha, tending to be somewhat granular.
-
-Due to [[neurotropic-fungi-taxonomic-confusion-and-identification]] within the R. delica complex, some authorities recommend avoiding the species altogether for culinary purposes.
-
-Cases of mild gastrointestinal distress have been reported, possibly attributable to misidentified specimens of toxic white Russula species.
-
-## Ecology
-
-As an ectomycorrhizal fungus, R. delica facilitates [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] between its host trees and the soil environment.
-
-The species is particularly adapted to dry Mediterranean forest conditions, where it can fruit during periods of moderate soil moisture.
-
-Its thick, fleshy basidiocarp and deeply depressed mature cap may represent adaptations to water conservation in arid environments.
-
-White Russula species in general are important food sources for wild mammals including deer, squirrels, and various rodents.
-
-## Similar Species
-
-Several white to pale Russula species can be confused with R. delica, making accurate identification essential for foragers.
-
-- **R. chloroides** — very similar, but with gills that stain blue-green when cut, a key differentiating character
-- **R. pseudodelica** — Mediterranean species with a more depressed cap and creamier spore print
-- **R. nauseosa** — smaller, associated with broadleaf trees, with a distinctly unpleasant odor
-- **R. cremicolor** — smaller cap, more fragile stature, yellowish-cream spore print
-- **R. betularum** — found under birch, with a pinkish tint to the gills at maturity
-
-The most important confusion is with toxic white species, though R. emetica (the sickener) has a bright red cap and is readily distinguished.
-
-## See Also
-
-- [[russula-cyanoxantha]]
-- [[russula-vesca]]
-- [[lactarius-quietus]]
-- [[boletus-edulis-entity]]
-- [[amanita-muscaria-entity]]

@@ -16,13 +16,13 @@ sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
 
 ## Overview
 Ganoderma applanatum is a large, perennial polypore basidiomycete
-that causes white rot of dead and living hardwood trees. It is one of
+that causes [[brown-rot-and-white-rot-fungi-in-mycoremediation]] of dead and living hardwood trees. It is one of
 the most widely distributed and recognizable wood-decay fungi in
 temperate forests worldwide. The species is renowned for its hard,
 zonate basidiocarps with a white pore surface that bruises brown when
 scratched, a property that historically made it a medium for artistic
 engravings. In the context of the source text, G. applanatum is
-notable as a host for numerous fungicolous fungi, including
+notable as a host for numerous [[fungicolous-fungi]], including
 Sporophagomyces chrysostomus, and serves as a substrate for a diverse
 community of mycoparasites and successor fungi.
 
@@ -60,7 +60,7 @@ community of mycoparasites and successor fungi.
   lignin over cellulose
 - Fruit bodies persist for multiple years, adding new tube layers
   each [[savory-growing-season-and-non-growing-season-management]]
-- Widely distributed across temperate regions of [[psilocybin-north-america-pacific-northwest]],
+- Widely distributed across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]] of [[psilocybin-north-america-pacific-northwest]],
   Europe, and Asia
 
 ### Role as Fungicolous Host
@@ -72,10 +72,10 @@ community of mycoparasites and successor fungi.
   species
 - Melanospora lagenaria grows on the hymenophore of Ganoderma
   species
-- Gonatobotryum fuscum can grow on Ganoderma among other
+- [[gonatobotryum-fuscum]] can grow on Ganoderma among other
   poroid fungi
 - A yeast isolated from a G. applanatum sporocarp was identified
-  as Ustilago maydis using molecular methods (Prillinger et al.
+  as [[ustilago-maydis]] using [[biodiversity-of-fungi-pcr-molecular-methods-fungal-diversity]] (Prillinger et al.
   1989)
 
 ### Succession Dynamics
@@ -87,36 +87,3 @@ community of mycoparasites and successor fungi.
   selective parasitism (Niemela et al. 1995)
 - The species complex of Ganodermataceae hosts is particularly
   targeted by Sporophagomyces chrysostomus
-
-### Economic Significance
-- Major cause of wood decay in forest trees and timber,
-  contributing to tree mortality and lumber degradation
-- Heart rot caused by G. applanatum significantly reduces the
-  commercial value of affected timber
-- Used medicinally in traditional Asian medicine, though less
-  commonly than G. lucidum (reishi)
-- The artist's conk tradition of scratching images onto pore
-  surfaces has [[ethnomycology-cultural-significance-sacred-fungi]]
-
-### Research Methods
-- Fruiting body surveys and herbarium collections for
-  distributional studies
-- Wood decay assays to characterize white rot mechanisms
-- [[biodiversity-fungal-molecular-identification-dna-barcoding]] via ITS rDNA sequencing
-- Isozyme analysis for population genetics studies (Smith and
-  Sivasithamparam 2000)
-
-## Relevance
-Ganoderma applanatum occupies a central position in [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]
-dynamics as both a primary wood decomposer and a substrate for diverse
-fungicolous communities. The rich mycoparasitic assemblage documented
-on this species in the source text illustrates the complex web of
-fungal-fungal interactions that structure decomposer communities. Its
-study provides insights into wood decay ecology, [[dighton-fungal-succession-disturbance]],
-and the biology of fungicolous fungi.
-
-## See Also
-
-- [[botrytis-cinerea]]
-- [[suillus-bovinus]]
-- [[claviceps-purpurea]]

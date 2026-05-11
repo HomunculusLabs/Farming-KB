@@ -1,6 +1,6 @@
 ---
-title: Molecules of Emotion — Expansive vs Constricting Neurotransmitters and the ECS Bridge
-source: The Cannabis Health Index (Blesching, 2015)
+title: Blesching Molecules Emotions Expansive Constricting Neurotransmitters
+source: The [[blesching-cannabis-health-index-autoimmune-conditions]] (Blesching, 2015)
 source_path: /Users/t3rpz/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md
 tags: [neurotransmitters, emotions, endocannabinoid-system, mind-body-medicine, psychoneuroimmunology, acetylcholine, serotonin, dopamine, cortisol, blesching]
 ---
@@ -23,7 +23,7 @@ trigger neurochemical cascades; neurochemical levels shape emotional
 experience. The ECS sits at this intersection because CB1 receptors in
 the brain govern emotion, memory, and perception, while CB2 receptors in
 immune tissues link emotional states directly to immune function. The
-autonomic nervous system's sympathetic (fight/flight) and parasympathetic
+[[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]]'s sympathetic (fight/flight) and parasympathetic
 (rest/digest) branches are both modulated by cannabinoids. Anandamide
 activates CB1 and CB2 simultaneously, producing coordinated changes
 across neural and immune systems — meaning emotional experiences produce
@@ -54,12 +54,12 @@ management.
 The brain's primary inhibitory neurotransmitter, reducing neuronal
 excitability. Represents the dissolution of tension — the neurochemical
 experience of letting go. GABA's calming effect complements anandamide's
-bliss, creating deep relaxation necessary for therapeutic exploration.
+bliss, creating [[blesching-cannabis-deep-relaxation-healing]] necessary for therapeutic exploration.
 
 ### Oxytocin — "I Feel for You"
 The "bonding hormone" facilitates trust, empathy, and emotional
 connection. Its expansive role extends to self-compassion and forgiveness
-— key elements of the CHI healing protocol.
+— key elements of the CHI [[cannabis-mindful-healing-protocol-setting-intention-exploration-blesching]].
 
 ### Serotonin — "I Am Happy"
 Regulates mood, sleep, appetite, and cognition. CBD engages serotonin
@@ -69,7 +69,7 @@ the ECS and serotonergic mood regulation.
 ## Molecules of Constricting Emotions
 
 ### Epinephrine — "I Am Scared"
-Drives the acute stress response. Chronic elevation keeps the sympathetic
+Drives the acute [[epinephrine-stress-response-endocannabinoid-modulation-blesching]]. Chronic elevation keeps the sympathetic
 nervous system in overdrive, suppressing immune function and impairing
 repair and healing capacity.
 
@@ -88,34 +88,3 @@ The most clinically significant constricting molecule. Chronic elevation
 suppresses immune function, impairs hippocampal neurogenesis, promotes
 abdominal fat storage, and disrupts sleep. The ECS directly modulates
 cortisol release, providing a mechanism for cannabis to interrupt the
-chronic stress cycle.
-
-### Glutamate — "I Am Excited"
-The brain's primary excitatory neurotransmitter. Excessive activity
-(excitotoxicity) damages neurons and is implicated in neurodegeneration,
-anxiety, and PTSD. CBD reduces excessive glutamate signaling.
-
-### Vasopressin — "I Am Aggressive"
-Regulates social behavior including aggression and territoriality.
-Represents defensiveness, hostility, and social withdrawal — states
-that isolate patients and impede the connection supporting healing.
-
-## Clinical Applications
-
-- **Frame of mind assessment**: Patients identify dominant constricting
-  molecules based on emotional patterns
-- **Strain selection**: CB1-dominant (higher THC) for neurological/
-  emotional conditions; CB2-dominant (higher CBD) for immune/
-  inflammatory conditions
-- **Therapeutic monitoring**: Track shifts from constricting to expansive
-  emotional states as treatment progress
-- **Mind-body integration**: Emotional work during cannabis sessions
-  produces real neurochemical changes, not merely subjective experiences
-
-## See Also
-
-- [[endocannabinoid-system-overview]]
-- [[blesching-cannabis-healing-practices-setting-intention-affirmations]]
-- [[endocannabinoid-neurogenesis-neuroplasticity]]
-- [[blesching-cannabis-safety-profile]]
-- [[cannabis-cbd-therapeutic-profile]]

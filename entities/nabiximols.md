@@ -11,8 +11,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - GW Pharmaceuticals. "Sativex Prescribing Information." Revised 2023.
-  - Pertwee R.G. (2012). "Targeting the endocannabinoid system with cannabis-cannabinoid-receptor-pharmacology agonists." British Journal of Pharmacology, 166(5), 1447-1463.
-  - Barnes M.P. (2006). "Sativex: clinical efficacy and tolerability in the treatment of symptoms of multiple sclerosis." Expert Opinion on Pharmacotherapy, 7(5), 607-615.
+  - Pertwee R.G. (2012). "Targeting the [[endocannabinoid-system]] with [[cannabis-cannabinoid-receptor-pharmacology]] agonists." British Journal of Pharmacology, 166(5), 1447-1463.
+  - Barnes M.P. (2006). "Sativex: clinical efficacy and tolerability in the treatment of symptoms of [[blesching-cannabis-multiple-sclerosis]]." Expert Opinion on Pharmacotherapy, 7(5), 607-615.
   - Wikipedia contributors. "Nabiximols." Wikipedia, The Free Encyclopedia.
 ---
 
@@ -27,7 +27,7 @@ sources:
 Nabiximols is a standardized whole-plant cannabis extract developed by GW
 Pharmaceuticals (now Jazz Pharmaceuticals). Marketed under the brand name
 Sativex, it is one of only three FDA-approved cannabinoid-based
-pharmaceuticals alongside dronabinol and nabilone. Unlike those synthetic
+pharmaceuticals alongside [[dronabinol]] and [[nabilone]]. Unlike those synthetic
 compounds, nabiximols contains a full spectrum of cannabis-derived
 cannabinoids and terpenes.
 
@@ -88,62 +88,3 @@ frequency, severity, and patient-reported spasticity scores.
 ### Cancer Pain
 
 Approved in several countries (Canada, EU) as an adjunctive treatment for
-moderate-to-severe cancer pain unresponsive to opioid monotherapy. Studies
-show modest but clinically meaningful pain reduction, often allowing opioid
-dose reduction.
-
-### Investigational Indications
-
-- Neuropathic pain (diabetic, HIV-associated)
-- Rheumatoid arthritis pain
-- Chemotherapy-induced nausea
-- Post-traumatic stress disorder
-
-## Administration and Dosage
-
-### Dosing Protocol
-
-- Starting dose: 1 spray (100 µL delivering 2.7 mg THC + 2.5 mg CBD)
-- Titration: 1 additional spray every 1-2 hours as needed
-- Maximum: 12 sprays per day (32.4 mg THC + 30 mg CBD)
-- Administration: Spray onto buccal mucosa; do not swallow for 1-2 minutes
-
-Patients are titrated over 1-2 weeks to identify the optimal dose
-balancing symptom relief with tolerability. Most patients achieve
-sufficient relief at 4-8 sprays per day.
-
-## Safety and Side Effects
-
-### Common Adverse Effects
-
-- Dry mouth (most frequent, reported in 30-40% of patients)
-- Dizziness and fatigue
-- Nausea and dysgeusia (taste disturbance)
-- Application site discomfort (oral mucosa irritation)
-
-### Psychoactive Effects
-
-The THC component produces dose-dependent psychoactive effects including
-euphoria, drowsiness, and mild cognitive impairment. The CBD component
-partially mitigates these effects, but some patients experience
-intoxication at higher doses. Driving should be avoided during dose
-titration.
-
-### Contraindications
-
-Nabiximols is contraindicated in patients with known hypersensitivity to
-cannabinoids, severe cardiovascular disease, schizophrenia or psychotic
-disorders, and pregnancy. Caution with concurrent CNS depressants.
-
-## See Also
-
-- [[cannabis-sativa]]
-- [[cannabis-indica]]
-- [[dronabinol]]
-- [[nabilone]]
-- [[serotonin]]
-- [[l-theanine]]
-- [[valeriana-officinalis]]
-- [[passiflora-incarnata]]
-- [[piper-methysticum]]
-- [[mitragyna-speciosa]]

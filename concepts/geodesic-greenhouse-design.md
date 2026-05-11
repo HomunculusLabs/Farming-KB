@@ -27,7 +27,7 @@ The triangulated framework distributes loads across the entire structure. Geodes
 - **30-40% less surface area** than a rectangular building of the same floor area, meaning less heat loss through the envelope
 - **Improved air circulation:** No corners where hot or cold air stagnates. Warm air rises to the peak and circulates evenly.
 - **Superior light capture:** The curved surface receives sunlight from a wider range of angles throughout the day. Interior light levels are more even — no dark corners.
-- **Passive solar advantage:** A south-facing portion of the dome absorbs and stores heat. The thermal mass of the soil and any water storage moderates temperature swings.
+- **[[comparison-passive-solar-vs-earth-sheltered]] advantage:** A south-facing portion of the dome absorbs and stores heat. The thermal mass of the soil and any water storage moderates temperature swings.
 
 ### Space Efficiency
 
@@ -91,7 +91,7 @@ In a 3V dome, there are three different strut lengths (A, B, C), each appearing 
 - **Type:** Twin-wall or triple-wall polycarbonate (4-16 mm thickness)
 - **Pros:** Good insulation (R-1.5 to R-3), shatterproof, lightweight, UV-stabilized, 10+ year lifespan, diffuses light well
 - **Cons:** More expensive than poly film, panels must be cut to fit each triangle (labor-intensive), can yellow over time
-- **Best for:** Permanent, year-round greenhouses in cold climates
+- **Best for:** Permanent, year-round greenhouses [[query-how-do-i-grow-figs-in-cold-climates]]
 
 ### Polyethylene Film
 
@@ -115,7 +115,7 @@ A proper foundation is essential for the dome's structural integrity:
 - **Wooden base ring:** A pressure-treated 2x6 or 2x8 ring bolted to the bottom tier of the dome, set on gravel or a concrete pad
 - **Concrete ring footing:** A continuous concrete footing poured around the base perimeter, with anchor bolts for the dome frame
 - **Earth bags:** Fill bags with gravel or earth and stack in a ring — provides both foundation and thermal mass
-- **Insulated slab:** For year-round growing, pour an insulated concrete slab with radiant floor heating
+- **Insulated slab:** For year-round growing, pour an insulated concrete slab with [[radiant-floor-heating]]
 
 ## Ventilation
 
@@ -125,11 +125,11 @@ Dome greenhouses can overheat rapidly due to the efficient solar capture. Ventil
 - **Lower intake vents:** Openings near the base allow cool air to enter. Use louvered or screened vents.
 - **Cross-ventilation:** Open vents on opposite sides for airflow across the growing area.
 - **Automatic vent openers:** Wax-cylinder openers that automatically open vents at a set temperature (65-75°F).
-- **Fan ventilation:** In larger domes, an exhaust fan with a thermostat provides reliable temperature control.
+- **Fan ventilation:** In larger domes, an exhaust fan with a thermostat provides reliable [[hamilton-greenhouse-heating-and-temperature-control]].
 
 ## Passive Solar Features
 
-Enhance the dome's energy efficiency with passive solar design:
+Enhance the dome's energy efficiency with [[passive-solar-design]]:
 
 - **Water storage:** 55-gallon drums painted black and filled with water absorb heat during the day and release it at night. Place along the north wall.
 - **Thermal mass floor:** A stone, brick, or concrete floor absorbs and stores solar heat.
@@ -139,7 +139,7 @@ Enhance the dome's energy efficiency with passive solar design:
 
 ## Sizing
 
-- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, and season extension.
+- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, [[cold-climate-farming-and-season-extension]].
 - **Medium (18-25 foot diameter):** 250-490 sq ft. Suitable for serious home food production.
 - **Large (30-50 foot diameter):** 700-1,960 sq ft. Community-scale or small commercial production.
 - **Height:** A 3V 5/8 sphere dome has a height of approximately 0.85 x diameter. A 20-foot dome is about 17 feet tall.

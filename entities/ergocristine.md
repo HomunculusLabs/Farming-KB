@@ -12,10 +12,10 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Berde, B. & Schild, H.O. (1978). Ergot Alkaloids and Related Compounds. Springer-Verlag."
+  - "Berde, B. & Schild, H.O. (1978). claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids and Related Compounds. Springer-Verlag."
   - "Hofmann, A. (1978). \"Ergot Alkaloids.\" In: The Chemistry of Psychoactive Alkaloids. Springer."
   - "Schardl, C.L. et al. (2006). \"Ergot Alkaloids—Biology and Molecular Biology.\" Alkaloids: Chemistry and Biology, 63, 45–86."
-  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for Serotonin Receptors.\" CNS Drug Reviews, 5(3), 213–234."
+  - "Pertz, H.H. & Eich, E. (1999). \"Ergot Alkaloids and Their Derivatives as Ligands for [[psilocybin-pharmacology-and-serotonin-receptors]].\" CNS Drug Reviews, 5(3), 213–234."
   - "Gröger, D. & Floss, H.G. (1998). \"Biochemistry of Ergot Alkaloids.\" In: Biochemistry of Microbial Degradation, 317–347."
 ---
 
@@ -24,7 +24,7 @@ sources:
 ## Overview
 
 Ergocristine is a peptide ergoline alkaloid of the ergotamine group, produced
-naturally by the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* (ergot fungus).
+naturally by the sclerotium of *[[bloomfield-ergot-claviceps-purpurea-ergotism]]* ([[ergot-fungus]]).
 It is one of four major ergopeptine alkaloids found in ergot, alongside
 ergotamine, ergocryptine, and ergocornine.
 
@@ -50,7 +50,7 @@ composed of alanine, phenylalanine, and proline.
 
 ## Biosynthesis and Occurrence
 
-Ergocristine is biosynthesized in *Claviceps purpurea* through the
+Ergocristine is biosynthesized in *[[claviceps-purpurea]]* through the
 ergot alkaloid pathway:
 
 1. **Prenylation of L-tryptophan** by dimethylallyltryptophan synthase
@@ -58,7 +58,7 @@ ergot alkaloid pathway:
 2. **Oxidative ring closure** to produce chanoclavine-I, then
    agroclavine via the enzyme cloA (cytochrome P450).
 3. **Hydroxylation** of agroclavine at C-17 to yield [[ergot-and-lysergic-acid-history]].
-4. **Activation** of lysergic acid as lysergyl-adenylate by the
+4. **Activation** of [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] as lysergyl-adenylate by the
    non-ribosomal peptide synthetase (NRPS) complex, followed by
    sequential incorporation of alanine, phenylalanine, and proline
    into the tripeptide chain.
@@ -88,47 +88,3 @@ receptors and adrenergic receptors:
 **⚠️ Toxicity:** Like all ergopeptines, ergocristine causes ergotism
 (St. Anthony's Fire) at excessive doses — symptoms include severe
 vasoconstriction, gangrene, hallucinations, and convulsions.
-
-## Medical and Therapeutic Applications
-
-Ergocristine itself has limited direct clinical use, but it serves as
-an important pharmaceutical precursor:
-
-- **Bromocriptine precursor:** Bromination of ergocristine at the
-  C-2' position of the indole ring yields bromocriptine (Parlodel),
-  a D2 dopamine agonist used for Parkinson's disease,
-  hyperprolactinemia, and type 2 diabetes.
-- **Structural template:** The ergocristine pharmacophore informed the
-  design of cabergoline, pergolide, and lisuride.
-- **Ergotism treatment awareness:** Understanding ergocristine
-  pharmacology contributed to modern knowledge of serotonin
-  receptor subtypes and their physiological roles.
-
-In traditional medicine, ergot sclerotia (containing ergocristine
-and related alkaloids) were used as abortifacients and to control
-postpartum hemorrhage, though dosing was imprecise and dangerous.
-
-## Legal Status and Safety
-
-- **DEA scheduling:** Ergocristine is a Schedule III substance under
-  the US Controlled [[controlled-substances-act-and-psychedelic-research]], classified as a "depressant"
-  alongside other ergot alkaloids.
-- **UN Convention:** Not individually scheduled under the 1971
-  Convention on Psychotropic Substances, but falls under national
-  controls in many jurisdictions.
-- **Occupational exposure:** Workers handling *Claviceps*-infected
-  cereals may develop ergotism symptoms; modern grain cleaning
-  has largely eliminated this hazard.
-- **LD50 (oral, rat):** ~890 mg/kg, though the effective dose for
-  pharmacological activity is orders of magnitude lower.
-
-## Related Compounds
-
-| Compound | Key Difference | Primary Use |
-|----------|---------------|-------------|
-| [[ergometrine]] | No cyclol tripeptide (simple amide of lysergic acid) | Postpartum hemorrhage |
-| [[lysergic-acid-amide]] | Simple amide of lysergic acid | Natural lysergamide |
-| [[ergotamine]] — Most pharmacologically significant ergopeptine
-- [[lsd]] — Semisynthetic psychedelic derived from lysergic acid
-- [[psilocybin]] — Contrasting tryptamine-class fungal alkaloid
-- [[aeruginascin]] — Related bioactive fungal alkaloid

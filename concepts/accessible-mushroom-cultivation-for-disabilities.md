@@ -1,5 +1,5 @@
 ---
-title: Accessible accessible mushroom cultivation for disabilities for People with Disabilities
+title: Accessible Mushroom Cultivation For Disabilities
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources:
 ---
 # Accessible Mushroom Cultivation for People with Disabilities
 
-The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushroom cultivation by people with disabilities demonstrates that mushroom farming can be adapted for virtually any physical limitation. With proper facility design and adaptive tools, people with disabilities can successfully run commercial mushroom operations.
+The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] [[grass-seed-substrate-for-mushroom-cultivation]] by people with disabilities demonstrates that mushroom farming can be adapted for virtually any physical limitation. With proper [[cultivation-facility-design]] and adaptive tools, people with disabilities can successfully run [[history-of-commercial-mushroom-cultivation]] operations.
 
 ## Facility Adaptations
 
@@ -23,7 +23,7 @@ The FAO [[mushroom-cultivation-disabilities-training-manual-overview]] for mushr
 ### Pasteurisation Systems
 - Chambers built lower than standard for easy access from wheelchair
 - Can be made from used drums with appropriate modifications
-- Essential for entrepreneurs making their own substrate bags for higher income
+- Essential for entrepreneurs making their own [[oil-drum-sterilizer-mushroom-substrate-bags]] for higher income
 
 ### Mushroom House Ratio
 - One incubation house for every three [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] houses
@@ -63,7 +63,7 @@ The manual emphasises rigorous selection to ensure programme sustainability:
 ## Training Programme Structure
 
 - **Theory classes**: Using video, pictures, overhead projector, white board
-- **Visual demonstrations**: Show how other disabled people have adapted
+- **Visual demonstrations**: Show how other [[holzer-lebenshilfe-permaculture-project-for-disabled-people]] have adapted
 - **Multiple production systems**: Expose trainees to options so they can select what suits their needs
 - **Hands-on practice**: Essential — all aspects of cultivation must be experienced directly
 
@@ -88,38 +88,3 @@ Mushroom cultivation is particularly well-suited for people with disabilities be
 - High value crop with reliable market demand
 
 ## See Also
-
-- [[mushroom-substrates]] — substrate options
-- [[mushroom-grow-equipment]] — equipment guide
-
-## Related
-
-- index-mushroom-cultivation
-- [[oyster-mushroom-species-fruiting-parameters]]
-- oyster-mushroom-short-log-cultivation
-
-## Practical Context
-Accessible Mushroom Cultivation For People With Disabilities is relevant to farming knowledge because it connects observation,
-site conditions, and management choices. Treat it as a working topic rather
-than a standalone label: the useful questions are where it appears, what
-conditions make it stronger or weaker, and how it changes decisions in the
-field.
-
-## Field Indicators
-Look for repeated patterns across seasons instead of relying on a single
-observation. Useful indicators include substrate or soil condition, moisture
-availability, disturbance history, plant or fungal associates, and the timing
-of visible changes. Recording these factors makes the page easier to connect
-to local trials and future notes.
-
-## Management Relevance
-In a production or homestead setting, the topic matters when it affects yield,
-resilience, ecological function, safety, or maintenance labor. Decisions should
-be scaled to the site: small trials, careful monitoring, and comparison against
-an untreated area are usually more reliable than immediate whole-system
-changes.
-
-## Related Topics
-- mushroom-training-oyster-straw-cultivation
-- mollison-pioneer-crop-systems-and-tropical-land-rehabilitation
-- [[mushroom-crop-rotation-and-substrate-reuse]]

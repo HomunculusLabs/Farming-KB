@@ -11,6 +11,7 @@ date: 2026-04-25
 updated: 2026-04-25
 sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 
@@ -87,42 +88,3 @@ Collect ash soon after burning. Apply at one-quarter cup per 3-gallon pot.
 Avoid using in soil with pH above 6.5.
 
 ### Greensand (Glauconite)
-Iron-potassium silicate from ancient seabed deposits. Rich in iron,
-phosphorus, potash (5 to 7%), and micronutrients. Releases over about
-four years. Too slow-acting for indoor gardens.
-
-## Soil-Building Amendments
-
-### Worm Castings
-Excreted, digested humus containing varying amounts of nitrogen and many
-other elements. An excellent source of non-burning soluble nitrogen and a
-soil amendment that promotes fertility and structure. Mix with potting
-soil to form a rich, fertile blend. Pure worm castings look like coarse
-graphite powder. Do not add more than 20 percent worm castings to any
-mix; they are so heavy that root growth can be impaired.
-
-### Chicken Manure
-Rich in available nitrogen, phosphorus, potassium, and trace elements.
-Wet chicken manure averages N-1.5%, P-1.5%, K-0.5%; dry chicken manure
-N-4%, P-4%, K-1.5%. Both have a full range of trace elements.
-
-### Cow Manure
-Most valuable as mulch and a soil amendment. Holds water well and
-maintains fertility for a long time. Nutrient content is low (N-0.6%,
-P-0.3%, K-0.3%). Apply at 25 to 30 pounds per square yard.
-
-### Bat Guano
-Consists of bat droppings and remains. Rich in soluble nitrogen,
-phosphorus, and trace elements. Known as the soluble organic super bloom.
-Newer deposits contain high levels of nitrogen; older deposits are high in
-phosphorus and make an excellent flowering fertilizer. Usually powdery,
-used as top dressing or diluted in tea. Do not breathe the dust.
-
-### Molasses
-Combined with fructose, molasses, or sugar and applied to organic soil,
-molasses feeds beneficial microbial life in the root zone. Honey and other
-sugars are said to have similar effects.
-
-## Related
-
-- [[comparison-organic-vs-chemical-amendments]]

@@ -1,10 +1,10 @@
 ---
-title: Reishi (stamets-reishi-ganoderma-lucidum-cultivation) Cancer Research
+title: Cancer Reishi Cancer Research
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
-  - Gao, Y.H. and Zhou, S. (2001). The immuno-modulating effects of Ganoderma lucidum. International Journal of Medicinal Mushrooms 3, 223-241.
+  - Smith, Rowan and Sullivan (2002). comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive: Their raw-cannabis-thca-non-psychoactive-therapeutic-properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
+  - Gao, Y.H. and Zhou, S. (2001). The immuno-modulating effects of [[ganoderma-lucidum]]. International Journal of [[cancer-medicinal-mushrooms-extraction-bioavailability]] 3, 223-241.
   - Zhou, S. et al. (2001). A phase I/II study of a Ganoderma lucidum extract in patients with advanced cancers.
   - Kim, H.W. and Kim, B.K. (1999). Biomedicinal triterpenoids of Ganoderma lucidum.
 type: concept
@@ -84,26 +84,6 @@ The most rigorous clinical study to date was an open, non-randomised trial of Ga
 
 ### PC-SPES Prostate Cancer Trial (Small et al., 2000)
 
-A Phase II trial of PC-SPES (containing G. lucidum extract among other components) in 33 androgen-dependent prostate cancer patients showed significant reduction in serum PSA levels with duration exceeding 57 weeks.
+A Phase II trial of PC-SPES (containing G. lucidum extract among other components) in 33 androgen-dependent prostate [[cannabis-for-cancer-patients]] showed significant reduction in serum PSA levels with duration exceeding 57 weeks.
 
 ## Pharmacological Properties
-
-Beyond cancer, Reishi extracts demonstrate:
-- Blood pressure reduction
-- Cholesterol and blood sugar lowering
-- Platelet aggregation inhibition
-- Adaptogenic and antihypertensive effects (from triterpenoids)
-- Anti-allergic properties
-- Hepatoprotective effects
-- Efficacy in treating altitude sickness and myotonia dystrophica
-
-## Research Gaps
-
-Relatively few clinical studies have been published in Chinese, and no clinical trials with G. lucidum extracts against human cancers have been published in English peer-reviewed journals outside the Ganopoly study. The Ganopoly trial was non-randomised and lacked a placebo control. No pure beta-glucan product derived from G. lucidum has been commercially available to date.
-
-## See Also
-
-- [[cancer-immune-modulation-mechanisms]]
-- cancer integration conventional treatment
-- [[cancer-medicinal-mushrooms-shiitake-lentinan-clinical-trials]]
-- [[ganoderma-lucidum-reishi-comprehensive-profile]]

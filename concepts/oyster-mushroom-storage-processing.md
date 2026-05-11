@@ -13,14 +13,14 @@ type: concept
 Mushrooms continue to respire after harvest at a rate three times greater than
 most fruits, making post-harvest management critical for maintaining quality.
 Fresh mushrooms have a short [[psilocybin-shelf-life-stability]] and require either rapid marketing or
-special preservation methods. This page covers short-term storage, long-term
-preservation through drying, canning, bottling, and pickling methods suitable
+special [[egg-preservation-methods]]. This page covers short-term storage, long-term
+preservation through drying, canning, bottling, and [[mushroom-drying-canning-pickling-methods]] suitable
 for [[query-how-to-grow-oyster-mushrooms-at-home]] and related species.
 
 ## Post-Harvest Physiology
 
 After harvesting, mushrooms undergo several deteriorative processes. Bacteria
-and enzymes continue to increase during cold storage, causing texture changes
+and enzymes continue to increase during [[root-cellaring-guide]], causing texture changes
 as mushrooms lose firmness and flesh darkens. Enzymatic browning occurs when
 mushroom enzymes react with oxygen to form brown pigments. Mushrooms are
 85-95% water with no barriers to water loss from their surface. When mushrooms
@@ -35,14 +35,14 @@ cooled to 0-2C within five hours of picking to halt these metabolic processes.
 
 Short-term preservation relies on refrigeration at 1-4C, which retards
 microorganism growth, reduces [[arbuscule-isolation-metabolic-activity-assays]], and minimizes moisture loss.
-Shelf life under refrigeration ranges from 1 day to 2 weeks depending on
+[[ingham-aact-holding-time-shelf-life-decay]] under refrigeration ranges from 1 day to 2 weeks depending on
 handling and packaging.
 
 ### PVC Film Storage
 
-The best method for fresh oyster mushroom storage is keeping them at 8-10C in
+The best method for fresh [[cotter-oyster-mushroom-cultivation]] storage is keeping them at 8-10C in
 containers wrapped with microporous or perforated plastic film. This technique
-reduces moisture loss and preserves quality. Carbon dioxide levels increase
+reduces moisture loss and preserves quality. [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] levels increase
 and oxygen levels decrease inside wrapped containers due to mushroom
 respiration, creating a modified atmosphere that further extends shelf life.
 The gas composition can be adjusted by selecting appropriate film
@@ -88,36 +88,3 @@ shelves (10-12 shelves with 15cm clearance). The chamber should be preheated
 to 40-50C before loading to prevent self-digestion. Mushrooms should be
 sorted by size before drying for uniform results. Dried mushrooms must be
 stored in polyethylene bags in a dry, cool, dark place. For prolonged storage,
-pack in cartons at 2-5C.
-
-## Canning
-
-Canning is the most common industrial preservation method, involving seven
-operations: cleaning, blanching, canning, sterilization, cooling, labeling,
-and packing. Sodium metabisulphite or ascorbate is added for color retention.
-Mushrooms are blanched for two minutes to reduce enzyme activity, placed in
-cans with 2.5% sodium chloride and 0.24-0.5% citric acid, sealed, and
-sterilized at 120-130C for one hour in an autoclave.
-
-## Bottling
-
-Bottling requires less equipment than canning and suits small-scale growers.
-Mushrooms are sorted, boiled in water with 0.1% succinic acid and 1% salt
-for 4-6 minutes (35-40% weight loss expected), then packed in brine-filled
-bottles. Bottles are boiled for 30+ minutes with caps loosely closed, then
-tightened and cooled. A stainless steel knife minimizes browning during
-processing.
-
-## Pickling
-
-Mushrooms are sorted, washed, optionally sliced, and blanched in 3% salt
-water for 3-4 minutes. After cooling, they are transferred to jars with 22%
-salt brine plus vinegar, sugar, and spices (vitamin C or citric acid for
-color). Jars are loosely closed, steamed for one hour, sealed when cooled,
-and chilled before consumption. Pickled mushrooms produce favorable products
-when proper formulas are chosen.
-
-## See Also
-- [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
-- [[biological-efficiency]]
-- [[mushroom-storage-and-processing-methods]]

@@ -62,8 +62,8 @@ form broader, more plate-like structures.
 ## Distribution and Habitat
 
 The species occurs throughout the Caribbean basin, from southern Florida
-and the Bahamas through the Antilles to northern South America. It also
-ranges along Central America from Belize to Panama and into the Gulf of
+and the Bahamas through the Antilles to northern [[guzman-psilocybin-mushrooms-south-america]]. It also
+ranges along [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]] from Belize to Panama and into the Gulf of
 Mexico. Elkhorn coral occupies shallow reef environments from 0.5 to 5
 meters depth, with optimal growth at 1–3 meters.
 
@@ -88,33 +88,6 @@ relatively high thermal tolerance. This symbiosis drives calcification and
 supplies the majority of fixed carbon to the host.
 
 Elkhorn coral is a broadcast spawner, releasing gametes during synchronized
-annual events 3–5 days after the August full moon. Fertilization occurs in
-the water column, and planktonic larvae settle within 48–72 hours. It also reproduces
-asexually through branch fragmentation, the dominant mode of local colony
-expansion producing genetically identical clones.
-
-## Conservation
-
-*Acropora palmata* is listed as Critically Endangered on the IUCN Red List
-and protected under the U.S. Endangered Species Act since 2006. White-band
-disease caused the most devastating losses in the 1970s–1980s. Additional
-threats include ocean warming and mass bleaching, ocean acidification,
-corallivorous snails (*Coralliophila* spp.), hurricane damage, and nutrient
-pollution promoting algal overgrowth.
-
-Coral gardening involves collecting wild fragments, growing them in
-midwater nurseries for 6–12 months, then outplanting to degraded sites.
-Micro-fragmentation techniques accelerate growth by cutting colonies into
-small pieces that fuse and rapidly expand. Assisted sexual reproduction
-through controlled spawning and larval settlement maintains genetic
-diversity in restored populations.
 
 ## See Also
-
-- [[anemone-nemorosa]] — Fellow cnidarian in the class Anthozoa
-- [[corallina-officinalis]] — Marine calcareous alga of reef-associated habitats
-- [[chlorella-vulgaris]] — Photosynthetic alga illustrating symbiotic partnerships
-- [[nostoc-commune]] — Cyanobacterium relevant to coral reef nitrogen cycling
-- [[polypodium-vulgare]] — Contrasts terrestrial plant morphology with colonial growth
-- [[polyporus-umbellatus]] — Fungal organism demonstrating substrate colonization strategies
-- [[echinacea-purpurea]] — Terrestrial organism contrast for conservation biology
+- [[guzman-psilocybin-mushrooms-mexico-central-america]]

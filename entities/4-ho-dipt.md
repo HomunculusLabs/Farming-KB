@@ -2,7 +2,7 @@
 title: "4-HO-DiPT"
 type: chemical
 tags:
-  - tryptamine
+  - [[tryptamine]]
   - psychedelic
   - research-chemical
   - substituted-tryptamine
@@ -12,8 +12,8 @@ updated: 2026-04-28
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Shulgin, A.T., Carter, M.F. & Shulgin, A. (1980). "Central Stimulant Properties of 4-Alkoxy Substituted Amphetamines." Journal of Medicinal Chemistry 23: 380–383.
-  - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." psychedelic-drug-testing-and-adulterant-screening and Analysis 5(9-10): 754–761.
-  - EMCDDA (2016). "New Psychoactive Substances: Tryptamines." EMCDDA-Europol Joint Publications.
+  - Dean, B.J. et al. (2013). "Analytical Profiles of Tryptamine Substitutes." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(9-10): 754–761.
+  - EMCDDA (2016). "New [[cultural-evolution-and-psychoactive-substances]]: Tryptamines." EMCDDA-Europol Joint Publications.
 created: 2026-04-28
 ---
 
@@ -41,7 +41,7 @@ history of traditional or ceremonial use.
 
 **SMILES:** CC(C)N(C)CCc1c[nH]c2ccc(O)cc12.
 
-4-HO-DiPT is a member of the 4-hydroxy tryptamine family, sharing the
+4-HO-DiPT is a member of the 4-hydroxy [[tryptamine-family-overview]], sharing the
 indole-4-ol core with psilocin (4-HO-DMT). The distinguishing structural
 feature is the diisopropyl substitution on the terminal amine nitrogen, which
 significantly alters the pharmacological profile relative to simpler alkyl
@@ -65,8 +65,8 @@ hypothesized based on structural analogy to related tryptamines.
 
 Metabolism is presumed to occur via hepatic monoamine oxidase (MAO-A)
 oxidative deamination, consistent with other primary tryptamines. The
-4-hydroxy group may also undergo glucuronidation, analogous to psilocin's
-metabolic pathway.
+4-hydroxy group may also undergo [[glucuronidation]], analogous to psilocin's
+[[gluconeogenesis-biochemistry-metabolic-pathway]].
 
 ## Effects
 
@@ -88,57 +88,3 @@ shifting. Open-eye visuals are subtle at common doses.
 - **Threshold:** 5–10 mg
 - **Light:** 10–20 mg
 - **Common:** 15–30 mg
-- **Strong:** 25–40 mg
-
-**Duration:** 4–6 hours, with onset at 20–45 minutes and peak effects at
-1.5–2.5 hours.
-
-## Synthesis
-
-The synthesis of 4-HO-DiPT, as described in TIHKAL, follows the general route
-for 4-substituted tryptamines. The key step involves the reaction of
-4-hydroxyindole with a diisopropylaminoethyl halide or sulfonate under basic
-conditions.
-
-Alternative routes include reductive amination of 4-hydroxytryptaldehyde with
-diisopropylamine, or via a Leimgruber-Batcho indole synthesis starting from
-appropriately substituted precursors.
-
-The compound is not commercially manufactured at scale. It is typically
-produced in small quantities by clandestine or research laboratories, and
-availability on the research chemical market has been intermittent.
-
-## Legal Status
-
-4-HO-DiPT is unscheduled in most jurisdictions but may fall under analogue
-acts or generic designer drug legislation. In the [[dmt-containing-plants-united-states-halpern]], the Federal
-Analogue Act potentially classifies it as a controlled substance analogue of
-a Schedule I drug.
-
-As of 2026, 4-HO-DiPT is explicitly controlled in the United Kingdom under
-the Psychoactive [[controlled-substances-act-and-psychedelic-research]] (2016). It is also controlled in several
-European countries, including Germany (NpSG) and Austria (SMG).
-
-The compound has been detected in forensic drug samples across Europe and
-[[psilocybin-north-america-pacific-northwest]] since the mid-2000s, though it remains less prevalent than
-4-HO-MET, 4-AcO-DMT, or 5-MeO-DMT in analytical seizure data.
-## Related Compounds
-
-4-HO-DiPT is part of the 4-hydroxy tryptamine series:
-
-- **4-HO-DMT** (psilocin): The natural prototype, with dimethylamine substitution.
-- **4-HO-MET** (methylpropin): Ethyl-thio variant, more visual and euphoric.
-- **4-HO-MiPT** (mocin): Methyl-isopropyl variant, closer to psilocin in effects.
-- **4-HO-DET** (cypin): Diethyl variant, longer duration and increased body load.
-- **4-AcO-DMT** (psilacetin): The acetylated prodrug of psilocin.
-
-The parent compound **DiPT** (N,N-diisopropyltryptamine) is unique for its
-auditory effects without significant visual activity. 4-HO-DiPT retains some
-of this auditory character while gaining the psychedelic visual component.
-
-## See Also
-
-- [[4-ho-dipt-entity-tihkal]]
-- [[4-ho-met]]
-- [[psilocin]]
-- [[5-meo-dmt-entity]]

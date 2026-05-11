@@ -10,13 +10,13 @@ type: concept
 
 # Biodynamic Agriculture and Steiner
 
-Biodynamic agriculture, developed by Rudolf Steiner in the 1920s and
+Biodynamic agriculture, developed by [[rudolf-steiner]] in the 1920s and
 advanced by his follower Dr. Ehrenfried Pfeiffer, represents a holistic
 approach to farming that recognizes living forces in soil and plants
 beyond what conventional chemistry can detect. Through unique compost
 preparations, sensitivity crystallization testing, and chromatographic
 analysis, biodynamic methods have demonstrated remarkable results in
-soil restoration, crop yield improvement, and plant quality enhancement
+soil restoration, [[fukuoka-hotel-analogy-crop-yield-model]] improvement, and plant quality enhancement
 that conventional [[knf-vs-chemical-farming-comparison]] cannot explain.
 
 ## Overview
@@ -52,7 +52,7 @@ for lumber.
 - Biodynamic compost uses homeopathic preparations buried in cow horns,
   deer bladders, and other natural containers to concentrate specific
   forces
-- Weeds serve ecological functions; dandelions transport calcium from
+- Weeds serve [[fungal-melanin-biosynthesis-ecological-functions]]; dandelions transport calcium from
   deep soil layers, while sorrels and docks indicate excess acidity
 
 ## Pfeiffer's Testing Methods
@@ -62,7 +62,7 @@ paper discs with silver nitrate solution. From the brilliant-colored
 concentric patterns he disclosed new secrets of life. Testing natural
 vitamin C from rose hips, he established the pattern of vitality was far
 stronger than from artificial ascorbic acid. Rudolf Hauschka suggested
-vitamins are not chemical compounds but "primary cosmic formative forces."
+vitamins are not [[neurotropic-fungi-chemical-compounds]] but "primary cosmic formative forces."
 
 Pfeiffer's chromatograms revealed the quality of soils and the stages of
 fermentation. A cranberry bog with 18 percent [[hamilton-composting-and-organic-matter-management]] was shown to
@@ -88,46 +88,3 @@ the presence of homeopathic quantities of vital elements, enzymes, and
 growth substances working at dilutions up to one billion to one.
 
 Texas cattleman Malcolm Sims applied the Pfeiffer starter to what may
-have been the first commercial compost operation. Raw manure from
-feedlots was treated so microorganisms disassembled waste compounds into
-beneficial ones, destroying disease organisms, weed seeds, and harmful
-chemicals at 140 degrees Fahrenheit. Within one month the compost became
-fine, dark brown, and friable, wholly devoid of manure odor.
-
-Results were startling. John Wieck harvested 1,722 bushels per acre of
-corn with only half a ton of Biodynamic compost per acre and no other
-fertilizer or insecticides, more than double the maximum achieved on
-artificially nitrogenized Illinois lands. Don Hart found his soil felt
-like a plush, moisture-laden carpet. A reporter noted that driving past
-Hart's field, one side showed beautiful healthy corn while the
-neighboring field planted two weeks earlier showed sickly plants in
-hard-packed, cracked ground.
-
-## The Philosophy of Wholeness
-
-Pfeiffer pointed out that Goethe had stated a truth 150 years ago: "The
-whole is more than the sum of its parts." A seed analyzed for protein,
-carbohydrates, fats, minerals, and vitamins reveals nothing of its
-genetic background or biological value. In modern processed foods,
-vitamins, trace elements, and enzymes are removed for durability.
-As Dr. Nichols puts it: "They remove the life, in effect, killing it,
-so that it will not live and die later."
-
-Steiner's anthroposophy, or Spiritual Science, throws light on plant
-life and agriculture that makes scientists pause. The secret behind
-Pfeiffer's compost is a homeopathic wonder based on Steiner's organic
-brews: cow horns filled with cow dung, deer bladders with nettles and
-camomile, buried at specific times and seasons to concentrate cosmic
-forces.
-
-## Practical Applications
-
-Biodynamic compost starters containing concentrated microorganism
-populations can transform raw manure into high-quality compost within
-one month. Pfeiffer's crystallization and chromatographic methods enable
-quality assessment of soils, seeds, and produce. Crop yields can be
-doubled using biodynamic methods without [[cervantes-chemical-fertilizers-guide]] or
-pesticides. Plant symbiosis research guides [[rudolf-steiner]] Concepts
-
-- [[george-washington-carver-plant-work]]
-- [[plants-and-electromagnetism]]

@@ -35,9 +35,9 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 ### Testing Methods
 
-- **Reagent testing**: Chemical reagent kits (Ehrlich, Marquis, Hofmann, Hofmann Freebase) can provide preliminary identification of compounds. Ehrlich reagent turns purple in the presence of indoles (psilocybin, LSD, DMT) but cannot distinguish between them or detect adulterants.
+- **Reagent testing**: Chemical reagent kits (Ehrlich, Marquis, Hofmann, Hofmann Freebase) can provide preliminary identification of compounds. [[ehrlich-reagent-tryptamine-detection-tlc-mycology]] turns purple in the presence of indoles (psilocybin, LSD, DMT) but cannot distinguish between them or detect adulterants.
 - **Laboratory testing**: GC/MS or HPLC analysis provides definitive identification of compounds and their concentrations. This is the gold standard but requires sending samples to a lab.
-- **Spore identification**: For mushrooms, microscopic examination of spores can confirm genus and species.
+- **Spore identification**: For mushrooms, [[fungal-microscopic-examination-mounting-media-techniques]] of spores can confirm genus and species.
 
 ## Dosage Guidelines
 
@@ -82,7 +82,7 @@ Doses vary enormously depending on species, age, preparation, and individual sen
 ### Psychological Contraindications
 
 - **Personal or family history of schizophrenia or psychotic disorders**: Psychedelics can trigger psychotic episodes in vulnerable individuals.
-- **Bipolar disorder (especially Type I)**: Psychedelics may trigger manic episodes.
+- **[[blesching-cannabis-bipolar-disorder]] (especially Type I)**: Psychedelics may trigger manic episodes.
 - **Borderline personality disorder**: While not an absolute contraindication, individuals with BPD may be more susceptible to difficult experiences and should work with experienced guides.
 - **Active suicidal ideation**: A psychedelic experience is not appropriate during acute mental health crises.
 - **Recent trauma**: Processing fresh trauma in a psychedelic context without professional support can be re-traumatizing.
@@ -132,7 +132,7 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 ## Related Topics
 
-- [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
+- [[psychedelic-mushroom-set-and-setting]] for the set [[lsd-set-and-setting-framework]]
 - [[psychedelic-integration-practices]] for post-experience care
-- [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
+- [[psilocybin-mushroom-identification-guide]] for [[mushroom-identification]] safety
 - [[psychedelic-integration-guide]] for detailed integration guidance

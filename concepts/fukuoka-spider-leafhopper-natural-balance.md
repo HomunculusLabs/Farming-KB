@@ -5,6 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [fukuoka, natural-farming]
 sources:
+  - "raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md"
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - raw/papers/masanobu-fukuoka-the-one-straw-revolution.md
 ---

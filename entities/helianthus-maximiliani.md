@@ -88,22 +88,3 @@ The achenes are edible and similar in flavor and nutritional content to cultivat
 Seeds were traditionally collected in autumn, dried, and ground into meal for use in porridges and flatbreads. The seeds were also eaten raw or roasted. Oil extracted from the seeds was used for cooking and as a hair dressing.
 
 The Lakota used a decoction of the root as a remedy for chest pain and respiratory ailments. The Omaha applied poultices of crushed flower heads to burns and wounds. The Pawnee used the stems as a source of fiber for cordage and basket weaving.
-
-The plant has limited modern culinary use due to the small seed size and labor-intensive harvest. However, the species is occasionally planted in permaculture food forests as a perennial sunflower that provides edible seeds without annual replanting.
-
-Nutritional analysis of the seeds reveals approximately 25–30% oil content by weight, with a fatty acid profile dominated by linoleic acid (C18:2). The seeds also contain 15–20% protein and significant amounts of vitamin E and minerals including magnesium, phosphorus, and selenium.
-
-## See Also
-
-- [[helianthus-tuberosus]]
-- [[rudbeckia-laciniata]]
-- solidago-virgaurea
-- [[echinacea-angustifolia]]
-- [[coreopsis-lanceolata]]
-- [[solidago-odora]]
-- [[achillea-millefolium]]
-- [[asclepias-syriaca]]
-- [[ginkgo-biloba]]
-- [[berberis-vulgaris]]
-- [[liatris-spicata]]
-- [[silphium-laciniatum]]

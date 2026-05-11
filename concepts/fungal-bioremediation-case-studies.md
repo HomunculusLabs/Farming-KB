@@ -88,33 +88,3 @@ military site cleanup regulatory requirements.
 ## Dye and Textile Wastewater Treatment
 Fungal treatment of dye-contaminated wastewater has achieved relatively
 successful translation from laboratory to field because bioreactor
-systems allow better control of environmental conditions than open soil.
-- Phanerochaete chrysosporium and Trametes versicolor deployed in
-  bioreactors successfully decolorized textile effluents containing
-  azo dyes, anthraquinone dyes, and triphenylmethane dyes.
-- Laccase and [[fungal-manganese-peroxidase-remediation]] catalyze oxidation and
-  polymerization of dye molecules, converting soluble colored
-  compounds into insoluble precipitates removable by filtration.
-- Sequential bioreactor designs with fungal and bacterial stages
-  have proven effective, with fungal stages at acidic pH for
-  optimal ligninolytic enzyme production followed by bacterial
-  stages operating at neutral pH.
-- See [[mycoremediation-techniques]] for details on bioreactor
-  configurations, operating parameters, and performance metrics
-  used in fungal dye degradation systems.
-## Factors Affecting Field Outcomes
-Site-specific and operational variables both influence field trial
-success. Understanding these factors is essential for designing
-effective treatment strategies and setting realistic expectations.
-- Contaminant concentration and distribution heterogeneity require
-  adapted approaches, as fungi colonize unevenly through
-  contaminated matrices and may not reach all contamination zones.
-- Soil type and properties including texture, organic matter content,
-  pH buffering capacity, and moisture retention all affect fungal
-  growth rates and enzyme production.
-- Climate factors including temperature and rainfall patterns
-  determine active treatment seasons and overall project duration
-  in uncovered field applications.
-- Inoculum preparation methods critically affect establishment,
-  with pre-grown inocula on lignocellulosic carriers consistently
-  outperforming spore or liquid culture applications in the field.

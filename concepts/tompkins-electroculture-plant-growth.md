@@ -43,7 +43,7 @@ currents, or impulses which, as Jagadis [[jagadis-chandra-bose-plant-research]] 
 serve as "nervous systems."
 
 Lund made a revolutionary finding: plant growth is triggered by these
-electrical nervous systems rather than by growth hormones, or auxins,
+electrical nervous systems rather than by [[gibberellins-plant-growth-hormones]], or auxins,
 as was previously believed. The auxins are summoned and even transported
 by the cell-generated electric fields to the place where growth is
 known to occur. In his important but little-known book Bioelectric
@@ -88,31 +88,3 @@ without breaking it during the first day of incubation.
 ## Modern Applications
 
 In the mid-twentieth century, several researchers attempted to nourish
-plants electrically as an alternative to [[cervantes-chemical-fertilizers-guide]]. With
-nitrate pollution from these fertilizers becoming a serious concern,
-the possibility of stimulating plant growth through electrical means
-gained renewed interest.
-
-Reports from [[fungi-around-the-world-species-distribution]] suggested that electrically stimulated
-plants showed increased growth rates, higher yields, and improved
-nutritional content. Sir Oliver Lodge noted that bread made from
-electrically treated wheat was superior in quality. These observations
-supported the broader thesis that electrical and magnetic forces play
-a far more important role in plant biology than conventional science
-has acknowledged.
-
-## The Theoretical Framework
-
-The accumulating evidence from electroculture experiments, combined
-with Lakhovsky's cellular oscillation theory, Gurwitsch's mitogenetic
-radiation, and Burr's life-field measurements, suggests that plants
-exist within and respond to complex electromagnetic environments.
-The electrical and magnetic properties of soil, atmosphere, and the
-plants themselves form an interconnected system that conventional
-agricultural science, focused on chemistry alone, has largely ignored.
-
-## See Also
-
-- [[tompkins-plant-electrical-signals]] for plant bioelectricity
-- [[tompkins-lakhovsky-multi-wave-oscillator]] for oscillation theory
-- [[tompkins-plant-growth-regulators]] for growth hormones and auxins

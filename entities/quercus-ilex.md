@@ -88,36 +88,3 @@ The wood is prized for fuelwood and [[mollison-designers-charcoal-production-bio
 ### Dehesa and Agroforestry
 
 The dehesa system in Spain and Portugal manages holm oaks at low densities (20–50 trees/ha) for multiple outputs: acorn production for free-range Ibérico pigs, pasture for cattle and sheep, cork (though [[quercus-suber]] is the primary cork oak), and firewood.
-
-### Ornamental Use
-
-Quercus ilex is widely planted as an ornamental and street tree in Mediterranean-climate regions. Its evergreen foliage, dense shade, and tolerance of urban conditions (drought, pollution, wind) make it a popular landscape choice.
-
-Cultivars selected for ornamental use include columnar and compact forms. It is also extensively used for hedging and topiary, particularly in formal European gardens.
-
-### Acorn Production
-
-Acorns of subsp. *rotundifolia* are especially valued for the montanera (free-range acorn-feeding) phase of Ibérico ham production. The acorn diet imparts characteristic flavor and high oleic acid content to the pork fat.
-
-## Conservation Status
-
-Quercus ilex is assessed as **Least Concern** by the IUCN Red List, owing to its extensive native range and large population. However, several threats are recognized at regional scales.
-
-**Decline syndrome** (la seca in Spanish) is a widespread phenomenon affecting holm oak and cork oak across the western Mediterranean. It involves progressive canopy dieback, often linked to drought stress, Phytophthora root rot pathogens, and insect damage.
-
-**Land-use change** poses the most significant long-term threat. Conversion of dehesa systems to intensive agriculture or afforestation with fast-growing species (eucalyptus, pine) reduces holm oak habitat. Regeneration failure due to excessive grazing pressure is also documented.
-
-[[dighton-fungi-climate-change-feedback]] projections suggest range contractions in the southern and low-elevation portions of the species' distribution, with potential northward expansion.
-
-## See Also
-
-- [[quercus-robur]]
-- [[quercus-suber]]
-- [[quercus-alba]]
-- [[quercus-rubra]]
-- [[fagus-sylvatica]]
-- [[castanea-sativa]]
-- [[olea-europaea]]
-- [[pinus-pinea]]
-- [[arbutus-unedo]]
-- [[ceratonia-siliqua]]

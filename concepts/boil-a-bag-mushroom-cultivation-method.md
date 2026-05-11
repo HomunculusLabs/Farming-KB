@@ -23,7 +23,7 @@ steam without melting, deforming, or leaching harmful chemicals into the
 substrate. The bags must be large enough to hold an adequate volume of
 substrate while leaving room for gas exchange and mycelial expansion. Other
 essential materials include a large cooking pot for boiling, straw or straw-
-based substrate, yeast extract for nutritional supplementation, a heat
+based substrate, [[marmite-yeast-extract-straw-substrate]] for nutritional supplementation, a heat
 sealer or iron for sealing the bags, and the filter can apparatus that
 serves as the breathing device for the colonizing substrate. Spore syringes
 or agar cultures are needed for inoculation.
@@ -36,9 +36,9 @@ is prepared by cutting it into short lengths (approximately 2-5 centimeters)
 to increase the surface area available for colonization and to facilitate
 even packing within the bag. Before sterilization, the straw is supplemented
 with yeast extract, which provides additional nitrogen, B vitamins, and
-minerals that accelerate mycelial growth. The straw is soaked in water
+minerals that accelerate [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. The straw is soaked in water
 containing dissolved yeast extract, then drained to achieve an appropriate
-moisture content — typically around 60-70% field capacity, where the straw
+moisture content — typically around 60-70% [[bulk-substrate-field-capacity]], where the straw
 feels thoroughly wet but no water drips freely when a handful is squeezed.
 Achieving the correct moisture level is critical, as substrate that is too
 dry will not support vigorous colonization, while substrate that is too wet
@@ -47,7 +47,7 @@ promotes bacterial contamination and anaerobic conditions.
 ## Boiling Sterilization Procedure
 
 The defining step of the method is the sterilization of the sealed bag in
-boiling water rather than in a pressure cooker. Once the substrate is loaded
+boiling water rather than in a [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]. Once the substrate is loaded
 into the polypropylene bag and the filter can is positioned at the top, the
 bag is heat-sealed to create a closed but breathable system. The sealed bag
 is then fully submerged in a large pot of boiling water and maintained at a
@@ -56,8 +56,8 @@ boiling water reaches only 100 degrees Celsius at standard atmospheric
 pressure, compared to the 121 degrees Celsius achieved in a pressure
 sterilizer, the prolonged exposure at 100 degrees is sufficient to kill the
 majority of contaminant organisms, particularly when combined with the
-initial cleanliness of the straw substrate and the competitive advantage
-given to the introduced mushroom mycelium through rapid colonization.
+initial cleanliness of the [[brown-rice-flour-supplementation-straw-substrate-mushroom]] and the competitive advantage
+given to the introduced [[antimicrobial-compounds-mushroom-mycelium]] through rapid colonization.
 
 ## Filter Can and Gas Exchange
 
@@ -87,46 +87,3 @@ sterile environment. After inoculation, the bag is placed in a warm, dark
 location for the incubation phase, during which the mycelium colonizes the
 substrate over a period of several weeks depending on temperature, species,
 and the vigor of the spore inoculant.
-
-## Incubation and Colonization
-
-During incubation, the mycelium spreads through the straw substrate,
-digesting the cellulose and hemicellulose and converting the raw substrate
-into a consolidated white mass of fungal tissue. Optimal incubation
-temperatures vary by species but generally fall in the range of 24-28
-degrees Celsius for Psilocybe cubensis. The filter can allows carbon dioxide
-to escape, which is essential because high CO2 levels can slow or stall
-mycelial growth. As the mycelium colonizes the substrate, it generates heat
-through [[arbuscule-isolation-metabolic-activity-assays]], so the incubation container should not be
-insulated too heavily or temperatures may rise to levels that inhibit
-growth. Full colonization is indicated by the substrate being completely
-encased in white mycelium, at which point the bag is ready for the fruiting
-phase.
-
-## Fruiting and Harvest
-
-Once colonization is complete, the bag is transferred to a fruiting chamber
-— often an aquarium-based [[aquarium-humidity-chamber-mushroom-fruiting]] as described in Jarrold's method
-— where conditions of high humidity (90-95%), fresh air exchange, and
-indirect light trigger the formation of mushroom primordia (pins). The bag
-may be opened or slit to expose the colonized substrate to fruiting
-conditions. Mushrooms develop over the course of several days to weeks, and
-are harvested by gently twisting and pulling the mature fruiting bodies from
-the substrate. After the first flush, the substrate can often be soaked in
-cold water to rehydrate it, prompting additional flushes of mushroom
-production until the substrate is exhausted.
-
-## Related Topics
-
-- [[filter-can-spawn-breathing-jarrold]]
-- [[spore-syringe-preparation-jarrold-method]]
-- [[humidity-chamber-aquarium-mushroom-fruiting]]
-- [[warm-humid-air-delivery-chamber-cold-climate-mushroom]]
-
-## Sources
-
-- Jarrold, D. "Methods for indoor mushroom cultivation." Amateur
-  mycology publications.
-- Stamets, P. "The Mushroom Cultivator." Agarikon Press (1983).
-- Stamets, P., and Chilton, J.S. "Mushroom Cultivation: A Practical
-  Approach." And/or Press (1978).

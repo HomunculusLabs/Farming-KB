@@ -12,9 +12,9 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995–2014)." Drug and Alcohol Dependence, 171, 107–111.
-  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar II." Drug Testing and Analysis, 4(7–8), 660–667.
-  - Mudge, E.M. et al. (2019). "A unified approach to Cannabis cultivar attribution." Scientific Reports, 9, 20523.
+  - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995–2014)." Drug and cannabis-for-alcohol-dependence, 171, 107–111.
+  - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar II." Drug [[soil-testing-and-analysis]], 4(7–8), 660–667.
+  - Mudge, E.M. et al. (2019). "A unified approach to [[cannabis-cultivar-effects-soil-microbiome]] attribution." Scientific Reports, 9, 20523.
   - Smart, R. et al. (2017). "cervantes-medical-marijuana-pharmacology policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
   - UK Drug Policy Commission (2012). "Classification and the Misuse of Drugs Act: An Overview." London: UKDPC.
 created: 2026-04-28
@@ -28,7 +28,7 @@ The strain derives from a unique phenotype of **Skunk #1** that exhibited an int
 
 The Exodus Crew cultivated the Cheese phenotype extensively at the Exodus underground coffee shop in Luton, Bedfordshire, during the late 1990s. This venue became a legendary hub for British cannabis culture and was instrumental in distributing Cheese clones throughout the UK and eventually to European and North American markets.
 
-Cheese quickly became the most popular strain in the UK market and has since achieved global recognition. It is valued both as a recreational cultivar for its relaxing body effects and as a medicinal strain for pain management, insomnia, and appetite stimulation.
+Cheese quickly became the most popular strain in the UK market and has since achieved global recognition. It is valued both as a recreational cultivar for its relaxing body effects and as a medicinal strain for pain management, insomnia, [[cannabis-for-cachexia-and-appetite-stimulation]].
 
 The strain's genetic lineage has spawned numerous offspring crosses, including Blue Cheese, Cheesequake, and Cheddar. Big Buddha Cheese won the 2006 High Times Cannabis Cup, cementing the line's international reputation.
 
@@ -81,39 +81,10 @@ This increase reflects the broader upward trend in cannabis potency documented a
 
 **Duration:** 2–3 hours, with residual relaxation persisting for an additional 1–2 hours.
 
-**Medical applications:** Cheese has been widely adopted by medical cannabis patients for chronic pain management, particularly musculoskeletal pain, neuropathic discomfort, and inflammatory conditions. Its sedative properties make it effective for insomnia, with many patients reporting improved sleep onset and duration.
+**Medical applications:** Cheese has been widely adopted by medical cannabis patients for chronic pain management, particularly musculoskeletal pain, neuropathic discomfort, and [[cannabis-for-inflammatory-conditions]]. Its sedative properties make it effective for insomnia, with many patients reporting improved sleep onset and duration.
 
-Additional therapeutic applications include appetite stimulation in cachexia and eating disorders, anxiety reduction (at moderate doses), and muscle spasm relief. The high myrcene content is believed to contribute to the strain's analgesic and sedative efficacy through synergistic [[beta-caryophyllene-entourage-effects-cannabis]] with THC.
+Additional [[psilocybin-therapeutic-applications]] include appetite stimulation in cachexia and eating disorders, anxiety reduction (at moderate doses), and muscle spasm relief. The high myrcene content is believed to contribute to the strain's analgesic and sedative efficacy through synergistic [[beta-caryophyllene-entourage-effects-cannabis]] with THC.
 
 **Side effects:** Common [[blesching-cannabis-safety-adverse-effects-evidence]] include dry mouth, dry eyes, and moderate to heavy couch-lock at higher doses. Some users report mild paranoia or anxiety, particularly with overconsumption. The strain is not recommended for activities requiring sustained attention or physical coordination due to its pronounced sedative properties.
 
 ## Cultivation
-
-**Flowering time:** 7–9 weeks indoors (56–63 days).
-
-**Yield:** Moderate to high, producing 350–450 g/m² under optimal indoor conditions. Outdoor yields can reach 500–700 g per plant in Mediterranean climates.
-
-**Difficulty:** Moderate. Cheese is relatively forgiving for intermediate growers but requires attention to odor control due to its extremely pungent smell during flowering. Carbon filtration is considered mandatory for indoor cultivation in most jurisdictions.
-
-The strain responds well to both soil and hydroponic [[synthetic-log-cultivation-methods-guide]], with Sea of Green (SOG) and Screen of Green (ScrOG) techniques producing the best canopy management results.
-
-It prefers moderate nutrient levels and is susceptible to over-fertilization, particularly with nitrogen during the vegetative stage. Flushing for 10–14 days before harvest is recommended to enhance the terpene expression and reduce harshness of the final product.
-
-Cheese exhibits moderate resistance to powdery mildew and botrytis but can be susceptible to spider mites in dry conditions. The dense bud structure requires careful [[stamets-cultivator-humidity-management-fogging-systems]] during the final weeks of flowering to prevent bud rot.
-
-## Notable Crosses
-
-The Cheese genetic line has been extensively used in breeding programs, producing numerous commercially successful hybrids:
-
-- **Blue Cheese:** Cheese × Blueberry. Combines the pungent cheese aroma with sweet blueberry notes. Indica-dominant with enhanced purple coloration potential.
-- **Cheesequake:** Cheese × Querkle (Purple Urkle × Space Queen). Developed by TGA Subcool Seeds. Exhibits a complex sweet-and-funky aroma with vibrant purple hues.
-- **Cheddar:** A stabilized Cheese phenotype selected for intensified cheese-like terpene expression and higher THC content.
-- **Big Buddha Cheese:** A backcrossed Cheese variety developed by Big Buddha Seeds, winning the High Times Cannabis Cup in 2006. Widely credited with popularizing Cheese genetics globally.
-- **Dinafem Cheese:** A feminized version developed by Dinafem Seeds that became a standard offering in European seed banks throughout the 2010s.
-
-## See Also
-
-[[skunk-1]] [[chemdawg]]
-[[white-widow-entity]] [[myrcene]] [[limonene]]
-[[cannabidiol-cbd]]
-[[purple-haze-cannabis]] [[gelato]] [[sfv-og]]

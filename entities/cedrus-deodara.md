@@ -24,7 +24,7 @@ sources:
 
 Cedrus deodara, the deodar cedar, is a large evergreen coniferous tree in the family Pinaceae native to the western Himalayas. It is the national tree of Pakistan and holds deep cultural and religious significance across the Indian subcontinent.
 
-The species is one of four true cedars in the genus Cedrus, alongside Cedrus libani (cedar of Lebanon), Cedrus atlantica (Atlas cedar), and Cedrus brevifolia (Cypriot cedar). Deodar cedar is distinguished by its gracefully drooping leading shoots and softer, more flexible foliage.
+The species is one of four true cedars in the genus Cedrus, alongside [[cedrus-libani]] (cedar of Lebanon), [[cedrus-atlantica]] (Atlas cedar), and Cedrus brevifolia (Cypriot cedar). Deodar cedar is distinguished by its gracefully drooping leading shoots and softer, more flexible foliage.
 
 Deodar cedar is generally considered the most cold-hardy of the true cedars, though Atlas cedar can tolerate slightly lower temperatures in some provenances. Among the four species, deodar cedar has the longest needles and the most pronounced pendulous habit.
 
@@ -32,7 +32,7 @@ Deodar cedar typically reaches 40–60 meters in height with a trunk diameter of
 
 The species is the tallest of the true cedars, regularly exceeding 50 meters on optimal sites. The largest recorded specimen, measured in the Kangra Valley of Himachal Pradesh, had a girth exceeding 12 meters and an estimated age of over 700 years.
 
-The species is long-lived, often reaching 500–1,000 years in its native range. Ancient trees are revered in Hindu and Buddhist traditions, where they are associated with temples, sacred groves, and meditation sites.
+The species is long-lived, often reaching 500–1,000 years in its native range. [[holzer-saving-ancient-trees]] are revered in Hindu and Buddhist traditions, where they are associated with temples, [[permaculture-designers-manual-sacred-groves]], and meditation sites.
 
 In Hindu mythology, the deodar cedar is considered the tree of Lord Shiva and is planted around temples dedicated to him throughout the Himalayan region. The wood is traditionally used to carve religious icons and ceremonial objects.
 
@@ -60,9 +60,9 @@ Pollination occurs in autumn (September–November), with pollen dispersed by wi
 
 Cones are barrel-shaped, glossy green when young, becoming brown at maturity in the second year. Each cone bears 50–80 spirally arranged seed scales, each with two seeds. Seeds are 10–14 mm long with a resinous wing 15–25 mm long.
 
-Seed dispersal is primarily by wind, with the resinous wings facilitating longer-distance transport. Germination is epigeal, occurring in spring after a period of cold stratification. Seed viability in storage is limited to approximately 2–3 years under standard conditions.
+[[clay-pellet-seed-dispersal]] is primarily by wind, with the resinous wings facilitating longer-distance transport. Germination is epigeal, occurring in spring after a period of cold stratification. Seed viability in storage is limited to approximately 2–3 years under standard conditions.
 
-The root system of young deodar cedars develops a strong taproot that gradually transitions to a widespread lateral root system with age. Mature trees produce extensive mycorrhizal associations, particularly with ectomycorrhizal fungi that enhance nutrient uptake on montane soils.
+The root system of young deodar cedars develops a strong taproot that gradually transitions to a widespread lateral root system with age. Mature trees produce extensive [[plants-without-mycorrhizal-associations]], particularly with [[ectomycorrhizal-fungi]] that enhance [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]] on montane soils.
 
 ## Distribution and Habitat
 
@@ -76,9 +76,9 @@ Soils in the native range are typically acidic, well-drained loams to sandy loam
 
 Annual precipitation in the native range varies from 750 to 2,000 mm, with a significant proportion falling as winter snow. Mean annual temperatures range from 5°C to 15°C, with winter minima of -10°C to -15°C.
 
-Deodar cedar has been widely planted as an ornamental and forestry tree well beyond its native range. It has naturalized in parts of western Europe, the southeastern United States, Australia, and New Zealand.
+Deodar cedar has been widely planted as an ornamental and forestry tree well beyond its native range. It has naturalized in parts of western Europe, the southeastern [[dmt-containing-plants-united-states-halpern]], Australia, and New Zealand.
 
-The species performs best in regions with mild, moist winters and warm, dry summers. It is widely grown in California, the southeastern US, the Mediterranean basin, and parts of Australia and New Zealand. Cold hardiness is approximately -18°C, limiting its use in continental climates.
+The species performs best in regions with mild, moist winters and warm, dry summers. It is widely grown in California, the southeastern US, the Mediterranean basin, and parts of Australia and New Zealand. [[coleman-cold-hardiness-testing-ratings]] is approximately -18°C, limiting its use in continental climates.
 
 ## Ecology and Applications
 
@@ -87,34 +87,3 @@ Deodar cedar provides important habitat and food for Himalayan wildlife includin
 In its native forests, deodar cedar occurs with Himalayan spruce (Picea smithiana), blue pine (Pinus wallichiana), west Himalayan fir (Abies pindrow), and various broadleaf species. Mixed conifer-deciduous forests with deodar cedar support high levels of biodiversity.
 
 The species has been heavily exploited for timber throughout its native range for centuries. Deodar wood is highly valued for its durability, workability, and resistance to decay and insect attack.
-
-Historically, deodar cedar timber was the primary construction material for temples, palaces, and important civic buildings throughout northern India and Pakistan. The wood's natural resistance to termites and decay made it ideal for structural applications in warm, humid climates.
-
-Heartwood is strongly aromatic, yellow-brown to reddish-brown, with a fine, even texture and straight to slightly wavy grain. Specific gravity is approximately 0.47, making it moderately light but surprisingly strong for its weight.
-
-The wood has a Janka hardness of approximately 410 lbf and seasons well with minimal warping. It is used for construction timber, railroad sleepers, bridge beams, furniture, cabinetry, and decorative woodwork.
-
-Deodar cedar oil, extracted from the heartwood, has documented antimicrobial and anti-inflammatory properties. In Ayurvedic medicine, the wood, bark, and oil have been used to treat respiratory ailments, skin conditions, and joint pain for millennia.
-
-Chemical constituents of the essential oil include α-pinene, β-pinene, limonene, and various sesquiterpenes. Modern pharmacological studies have confirmed antibacterial activity against Gram-positive bacteria and antifungal effects against Candida species.
-
-The species is listed as Least Concern on the IUCN Red List, though overexploitation and habitat fragmentation have reduced populations in some areas. Protected reserves and community forestry programs in India, Pakistan, and Nepal support conservation efforts.
-
-Natural regeneration in native forests is often limited by heavy grazing pressure from livestock and competition from successional shrub species. Reforestation programs using nursery-grown seedlings have been implemented across the western Himalayas since the 1980s.
-
-In landscaping, deodar cedar is valued for its graceful form, blue-green foliage, and tolerance of urban conditions. It grows rapidly (60–100 cm per year) and adapts to a wide range of soil types, though it requires good drainage and cannot tolerate waterlogged soils.
-
-The species is relatively pest-free when grown outside its native range, though cypress aphid (Cinara cupressivora) can occasionally cause foliage damage. In the southeastern United States, deodar cedar has shown good resistance to most conifer diseases that affect native species.
-
-## See Also
-
-- [[cedrus-libani]]
-- [[cedrus-atlantica]]
-- [[picea-abies]]
-- [[pinus-sylvestris]]
-- [[larix-decidua]]
-- [[abies-grandis]]
-- [[pinus-nigra]]
-- [[pseudotsuga-menziesii]]
-- [[quercus-suber]]
-- [[quercus-robur]]

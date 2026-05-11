@@ -73,3 +73,20 @@ Industrial nitrogen fixation (Haber-Bosch process) now produces over 100 billion
 - [[protozoa-in-soil]]
 - [[root-exudates]]
 - [[compost-tea-recipe-guide]]
+
+## Historical Context
+- These approaches have evolved through decades of research and practical application.
+- Traditional knowledge systems have contributed significantly to modern understanding.
+- Scientific inquiry has progressively validated and refined historical practices.
+
+## Mechanisms and Processes
+- Underlying biological and ecological mechanisms drive observed outcomes.
+- Multiple interacting factors contribute to system-level effects.
+- Understanding these processes enables more targeted and effective interventions.
+
+## See Also
+- [[query-what-is-the-nitrogen-cycle-in-gardens-and-soil]]
+- [[nitrogen-cycle-in-agriculture-and-ecosystems]]
+- [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]
+- [[morishima-acacia-nitrogen-fixing-soil-building-tree]]
+- [[teaming-with-microbes-bacteria-and-archaea-in-soil]]

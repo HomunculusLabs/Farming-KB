@@ -88,22 +88,3 @@ A small, hardy, drought-resistant native to the higher rocky foothills from Idah
 ### Araucaria araucana (Monkey Puzzle Tree)
 
 Native evergreen of Chile and Argentina growing from 15-35 m. Prefers cool, moist, loamy soils and sheltered positions. Hot, dry conditions will often cause the tree to die. The nuts, called pinones, are twice the size of an almond and rich in starch. They are roasted, boiled, eaten fresh and also made into an alcoholic drink. Eighteen good sized trees are reported to be able to yield enough to sustain an adult for a year. Propagation is by seed and trees require [[holzer-frost-protection-techniques]] for the first couple of years.
-
-### Araucaria bidwillii (Bunya Bunya)
-
-Native, evergreen of south eastern Queensland in Australia, reaching 30-45 m with a spread of 10 m. Trunk to 1.5 m diameter. Frost tolerant, prefers [[mollison-designers-cool-humid-climate-design-overview]] with 900-2000 mm rainfall. The nut can grow as large as a walnut and is rich in starch. The nuts can be used as a flour or boiled in their shells for about 20 mins and eaten hot. Nuts are likely to explode when being roasted. The nuts are produced in large cones (up to 30 cm diameter, weighing up to 7 kg) in late summer and autumn.
-
-## Permaculture Integration
-
-- Pine nuts provide high-calorie, high-protein food from perennial trees
-- Many species are extremely drought and cold tolerant -- suited to [[permaculture-food-forest-design-principles]]
-- Digger pine (P. sabiniana) allows intercropping due to open canopy
-- Pair with permaculture-cold-climate-strategies
-- [[permaculture-frost-protection-strategies]]
-- permaculture-designers-manual-plant-propagation
-## See Also
-- [[juglans-regia]]
-- [[araucaria-araucana]]
-- [[permaculture-almond-guide]]
-- [[permaculture-beginners-guide-soil-building-basics]]
-- [[permaculture-plant-propagation-guide]]

@@ -1,6 +1,6 @@
 ---
-title: "shirota catalytic hydrogenolysis debenzylation psilocybin in psilocin-psilocybin-synthesis-shirota: Debenzylation of psilocybin-synthesis-zwitterionic-intermediate-filtration-method"
-aliases: ["hydrogenolysis psilocybin synthesis", "palladium catalyzed debenzylation", "Shirota catalytic hydrogen psilocybin"]
+title: Shirota Catalytic Hydrogenolysis Debenzylation Psilocybin
+aliases: ["hydrogenolysis [[acetyl-protection-route-psilocin-psilocybin-synthesis]]", "palladium catalyzed debenzylation", "Shirota catalytic hydrogen psilocybin"]
 tags: [synthesis, psilocybin, catalysis, hydrogenolysis, palladium, shirota]
 ---
 
@@ -10,7 +10,7 @@ tags: [synthesis, psilocybin, catalysis, hydrogenolysis, palladium, shirota]
 
 The final step in the Shirota, Hakamata, and Goda (2003) synthesis of psilocybin is catalytic hydrogenolysis — the removal of benzyl protecting groups from the zwitterionic N,O-dibenzyl [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] using hydrogen gas and a palladium catalyst.
 
-This step converts the protected phosphate intermediate into psilocybin as a crystalline product, completing the synthesis without any need for chromatographic purification such as the anion-exchange resin methods used in previous syntheses.
+This step converts the protected [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] into psilocybin as a crystalline product, completing the synthesis without any need for chromatographic purification such as the anion-exchange resin methods used in previous syntheses.
 
 ## The Zwitterionic Intermediate
 
@@ -34,7 +34,7 @@ In the Shirota procedure, the zwitterionic intermediate is dissolved in methanol
 
 Hydrogen gas is introduced, and the reaction is allowed to proceed at room temperature.
 
-The reaction is monitored by thin-layer chromatography (TLC) to observe the disappearance of the starting material and its mono-debenzylated derivative and the appearance of the psilocybin product.
+The reaction is monitored by thin-layer chromatography (TLC) to observe the disappearance of the [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] and its mono-debenzylated derivative and the appearance of the psilocybin product.
 
 The reaction conditions are mild enough that no side reactions or decomposition products are typically observed.
 
@@ -54,7 +54,7 @@ TLC is rapid, inexpensive, and provides sufficient information for reaction moni
 
 Once the reaction was complete, the reaction solution was filtered through a Celite pad by suction to remove the palladium catalyst.
 
-Celite is a diatomaceous earth material commonly used to filter fine catalyst particles from reaction mixtures.
+Celite is a [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] material commonly used to filter fine catalyst particles from reaction mixtures.
 
 The volume of the filtrate was reduced by evaporation, causing psilocybin to crystallize from solution.
 
@@ -87,34 +87,3 @@ The proton NMR spectrum in D2O showed the characteristic indole ring protons and
 The phosphorus-31 NMR spectrum confirmed the presence of the phosphate moiety with a signal at -4.48 ppm.
 
 The high-resolution ESI mass spectrum confirmed the molecular formula C12H18N2O4P with [M + H]+ observed at m/z 285.0991 (calculated 285.1004).
-
-## Advantages Over Previous Methods
-
-Previous syntheses of psilocybin had used anion-exchange resin chromatography to purify the final product, adding complexity and cost to the procedure.
-
-The Shirota hydrogenolysis approach avoids this requirement entirely.
-
-The crystallization of psilocybin directly from the reaction mixture after catalyst removal represents a significant simplification of the purification process.
-
-This simplification is particularly important for large-scale production, where chromatographic purification becomes increasingly impractical and expensive as the scale increases.
-
-## Safety Considerations
-
-Catalytic hydrogenolysis involves the use of hydrogen gas, which is flammable and explosive when mixed with air at concentrations between 4% and 75%.
-
-Standard laboratory safety precautions for hydrogenation reactions must be followed, including the use of appropriate ventilation, the exclusion of ignition sources, and the use of pressure-rated equipment if the reaction is conducted under pressure.
-
-Palladium on carbon catalyst is also a fire hazard when dry, as it can ignite flammable solvents in the presence of air.
-
-Wet catalyst should be handled and disposed of properly to minimize fire risk.
-
-## See Also
-
-- [[shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis]]
-- [[psilocybin-synthesis-shirota-concise-large-scale-method]]
-- [[shirota-gram-scale-chromatography-free-psilocybin-synthesis]]
-
-## Sources
-
-- Shirota, O., Hakamata, W., & Goda, Y. (2003). Concise Large-Scale Synthesis of [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]. *J. Nat. Prod.*, 66, 885-887.
-- Hofmann, A. et al. (1959). Psilocybin, ein psychotroper Wirkstoff aus dem mexikanischen Zauberpilz. *Helv. Chim. Acta*, 42, 1557-1572.

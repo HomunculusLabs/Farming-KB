@@ -6,6 +6,7 @@ tags: [fungi, copelandia, panaeolus, psychedelic, tropical, pantropical, coproph
 date: 2026-04-28
 updated: 2026-04-28
 sources:
+  - "raw/papers/mycelium-running-stamets.md"
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-&-gartz.md"
 ---

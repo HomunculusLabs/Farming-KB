@@ -21,7 +21,7 @@ sources:
 
 *Triticum aestivum* L., commonly known as bread wheat or common wheat, is an annual grass in the family Poaceae.
 
-It is the most widely cultivated cereal crop on Earth, grown on approximately 220 million hectares across temperate regions.
+It is the most widely cultivated cereal crop on Earth, grown on approximately 220 million hectares across [[oyster-mushroom-log-cultivation-temperate-regions-short-log-method]].
 
 Wheat provides roughly 20% of global caloric intake and 20% of per-capita protein, making it a cornerstone of human food security.
 
@@ -53,9 +53,9 @@ Hexaploid bread wheat emerged roughly 8,000 years ago through natural hybridizat
 
 This polyploidization event conferred broad adaptability, enabling bread wheat to spread across diverse climates from Scandinavia to Argentina.
 
-The Green Revolution of the 1960s introduced semi-dwarf wheat varieties developed by Norman Borlaug, which doubled global yields and prevented famine in South Asia.
+The [[fukuoka-critique-green-revolution]] of the 1960s introduced semi-dwarf wheat varieties developed by Norman Borlaug, which doubled global yields and prevented famine in South Asia.
 
-Modern breeding continues to focus on yield improvement, disease resistance, heat and [[dighton-fungal-drought-tolerance-plant-water-relations]], and grain [[cannabis-resin-production-and-quality-traits-clarke]] for specific end uses.
+[[african-landrace-sativa-genetic-contributions-modern-breeding-oner]] continues to focus on yield improvement, disease resistance, heat and [[dighton-fungal-drought-tolerance-plant-water-relations]], and grain [[cannabis-resin-production-and-quality-traits-clarke]] for specific end uses.
 
 ## Cultivation
 
@@ -67,13 +67,13 @@ Spring wheat is sown in spring and harvested in late summer, typically in region
 
 Optimal growth temperatures range from 12–25°C, with annual rainfall requirements of 400–900 mm depending on cultivar and environment.
 
-Major producers include China, India, Russia, the United States, France, Canada, and Australia, collectively accounting for over 60% of global output.
+Major producers include China, India, Russia, the [[dmt-containing-plants-united-states-halpern]], France, Canada, and Australia, collectively accounting for over 60% of global output.
 
 Global production exceeds 780 million tonnes annually, with an average yield of approximately 3.5 tonnes per hectare.
 
 Nitrogen [[cervantes-fertilizer-application-strain-feeding]] typically ranges from 100–250 kg N/ha, with timing split between basal and top-dressing applications.
 
-Key diseases include stripe rust (*Puccinia striiformis*), leaf rust (*P. triticina*), Fusarium head blight (*Fusarium graminearum*), and Septoria tritici blotch (*Zymoseptoria tritici*).
+Key diseases include stripe rust (*Puccinia striiformis*), leaf rust (*P. triticina*), Fusarium head blight (*[[fusarium-graminearum]]*), and Septoria tritici blotch (*Zymoseptoria tritici*).
 
 ## Nutritional Value
 
@@ -88,30 +88,3 @@ Whole-grain wheat retains the bran and germ, providing higher fiber, vitamin E, 
 Wheat starch has a gelatinization temperature of 58–64°C and is used industrially for adhesives, bioplastics, and ethanol production.
 
 Phytic acid in bran can reduce mineral bioavailability, though fermentation and milling processes partially mitigate this effect.
-
-## Ecology and Applications
-
-Wheat straw is widely used as animal bedding, [[gourmet-medicinal-mushroom-substrate-preparation]], biofuel feedstock, and mulch in agricultural systems.
-
-The crop serves as a break crop in cereal rotations, disrupting [[hamilton-pest-and-disease-control-organic]] cycles that build up in continuous monocultures.
-
-Wheat provides [[biodiversity-of-fungi-ecosystem-services-agriculture]] including soil stabilization, carbon sequestration in root systems, and wildlife habitat in low-intensity farming landscapes.
-
-No-till and conservation tillage practices associated with wheat production reduce soil erosion and improve soil organic matter.
-
-Wheat bran and milling byproducts are valuable livestock feed, contributing to the economic viability of wheat processing.
-
-The species has been used in phytoremediation studies for soils contaminated with heavy metals, though accumulation rates are moderate compared to dedicated hyperaccumulator species.
-
-Hybrid wheat varieties, produced using cytoplasmic male sterility systems, show yield advantages of 5–10% over line varieties in some environments.
-
-Dwarfing genes (Rht-B1b and Rht-D1b) from Japanese cultivar Norin 10 underpin the semi-dwarf architecture of Green Revolution wheat.
-
-Genomic selection and marker-assisted breeding are accelerating the development of climate-resilient wheat varieties.
-
-## See Also
-
-- [[oryza-sativa]]
-- [[allium-cepa]]
-- [[solanum-tuberosum]]
-- [[sorghum-bicolor]]

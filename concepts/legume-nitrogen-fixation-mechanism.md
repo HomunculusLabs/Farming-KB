@@ -47,11 +47,11 @@ Many legumes are "pioneer" plants, meaning they are among the first
 species to colonize disturbed, damaged, or infertile soils. Their
 ability to fix atmospheric nitrogen gives them a significant advantage
 in nitrogen-poor environments where other plants struggle. This pioneer
-characteristic makes legumes invaluable for ecological restoration,
+characteristic makes legumes invaluable for [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
 soil building, and establishing vegetation on degraded land.
 
 When you observe legumes thriving in a natural setting, it is often an
-indicator that the soil is low in available nitrogen. The legumes are
+indicator that the soil is low in [[plant-available-nitrogen-ammonium-nitrate]]. The legumes are
 performing their ecological role of building nitrogen capital in the
 soil. However, this indicator value applies primarily to natural,
 undisturbed conditions. Legumes will also grow readily in nitrogen-rich
@@ -70,14 +70,14 @@ nitrogen comes from the root nodules and bacterial fixation; the other
 half is drawn from the soil itself through normal root uptake.
 
 This means that legumes actually deplete soil nitrogen during their
-early growth phase before the nitrogen fixation process catches up.
+[[cervantes-seedling-care-early-growth]] phase before the nitrogen fixation process catches up.
 The net benefit to soil nitrogen occurs only after the plant has fixed
 more nitrogen than it has absorbed from the soil.
 
 ## Seasonal Nitrogen Dynamics
 
 The distribution of nitrogen within a legume plant shifts dramatically
-over the course of a growing season. During [[cannabis-vegetative-growth-stage]], nitrogen
+over the course of a [[extending-growing-season]]. During [[cannabis-vegetative-growth-stage]], nitrogen
 concentrates in the foliage. When the plant begins to flower, the
 demand for nitrogen surges as the plant redirects its resources toward
 reproduction. The plant draws heavily on its nitrogen savings account
@@ -88,57 +88,3 @@ nitrogen remains in the leaves. Approximately 70 percent has been
 translocated to the seeds. The roots and remaining nodules, after the
 seeds have matured, contain even less nitrogen than the leaves, as
 little as 3 to 6 percent of the total accumulated by the plant.
-
-## Implications for Gardeners
-
-The seasonal nitrogen dynamics of legumes have important practical
-implications. A legume offers the most nitrogen to the soil when it is
-tilled in before flowering, while the foliage is still green and
-nitrogen-rich. After the plant has gone to seed, the nitrogen remaining
-in the leaves and roots is minimal. In essence, legumes hoard nitrogen
-for the next generation, and relatively little is left over for other
-plants unless the gardener intervenes at the right time.
-
-The nitrogen-fixing nodules must separate from the roots for their
-nitrogen to become available to other plants. Stress conditions such as
-drought, shading, and defoliation can cause root nodules to shed, but
-these same conditions would also stress any companion crops. This is a
-key reason why the idea of legumes feeding companion plants in the same
-season is largely a misconception.
-
-## Nodule Shedding and Nitrogen Release
-
-For nitrogen fixed by legume nodules to become available to other
-plants, the nodules must physically separate from the legume's roots
-and decompose. This happens naturally when the legume plant dies at
-the end of the season, but by that point it is too late to benefit any
-current-season companion crops. Stress conditions that cause nodule
-shedding include drought, shading, and defoliation. Grazing animals can
-also stimulate nodule shedding when they feed on legume foliage. Each
-of these mechanisms releases nodule-bound nitrogen into the soil, but
-timing and practicality limit their usefulness in most garden settings.
-
-## The Rotation Advantage
-
-While intercropping legumes with heavy nitrogen feeders like corn in
-the same season shows little benefit, rotational planting is a
-different story. Numerous studies substantiate the traditional practice
-of planting legumes in rotation with grains and cereals. In a rotation
-system, the legume crop is terminated and incorporated into the soil
-before the following nitrogen-demanding crop is planted, allowing the
-decomposing legume biomass and nodules to release their nitrogen in
-time for the next crop to use it.
-
-## See Also
-
-- [[trifolium-repens]]
-
-- [[legume-nitrogen-dynamics]]
-- [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]]
-
-- Nitrogen availability in legume plants is governed by [[cho-plant-growth-stage-treatment-protocols]] and
-  whether the plant has flowered or set seed.
-- Legume [[legume-nitrogen-yields-by-species]] vary widely by species, from 40 to 250 pounds
-  per acre annually.
-- [[comparison-green-manure-guide-vs-mulch-types-and-effects]] and cover crop strategies provide the framework for
-  capturing legume-fixed nitrogen effectively.

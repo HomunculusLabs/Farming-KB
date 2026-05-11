@@ -1,5 +1,5 @@
 ---
-title: Nine-Week Mushroom Cultivation Training Program Structure
+title: Mushroom Cultivation Disabilities Nine Week Training Program
 created: 2026-05-10
 updated: 2026-05-10
 type: concept
@@ -17,8 +17,8 @@ sources:
 
 The FAO training program for disabled mushroom [[mushroom-cultivation-disabilities-pasteurization-methods]] farmers in Ubon Ratchathani,
 Thailand, follows a structured nine-week curriculum that combines hands-on
-cultivation practice with theoretical instruction, motivational sessions,
-and enterprise development guidance. The program design reflects the
+cultivation practice with theoretical instruction, [[motivational-sessions-trainees]],
+and [[enterprise-development-mushroom-growers]] guidance. The program design reflects the
 principle that effective training for people with disabilities must address
 not only technical skills but also confidence building, social integration,
 and business acumen.
@@ -59,7 +59,7 @@ main sectors of activity that rotate among the groups:
    of materials for inoculation, waste management, composting, recycling,
    and cultivation operations.
 
-2. Pasteurization and inoculation, including materials preparation, cleaning,
+2. Pasteurization and inoculation, including [[oyster-mushroom-substrate-materials-preparation]], cleaning,
    recording, and labeling of bags.
 
 3. Incubation and fruiting body management, including carrying bags from
@@ -82,66 +82,9 @@ a tone of empowerment and determination.
 Week two includes the official opening ceremony and a general overview of
 the mushroom world: how mushrooms grow in nature, the humidity, ventilation,
 and light they need, and the threats from diseases and insects. Guest
-speakers discuss nutritional and medicinal properties of mushrooms, as well
+speakers discuss nutritional [[panax-ginseng]] of mushrooms, as well
 as poisonous species to avoid.
 
 Week three introduces the concept of manageable scale, where each person
 determines how much production they can realistically handle. A session on
-general microbiology and mushroom culture explains how microbes grow in
-nature and how they are cultivated scientifically in aseptic conditions.
-
-Week four covers mushroom cultivation in plastic bags and management of the
-mushroom house environment, including temperature, humidity, and
-ventilation control. A session on diseases and pests teaches identification
-and control methods, both chemical and natural.
-
-Week five returns to motivational sessions on personal development toward
-better quality of life, interspersed with continued hands-on practice.
-
-Week six addresses mushroom spawn development in agar and seed media,
-including how to identify clean and healthy spawn. A packaging and marketing
-session covers strategies for remote community sales.
-
-Week seven introduces alternative cultivation methods including log
-cultivation and straw mushroom techniques. Waste management and processing
-are covered, including transformation of mushrooms into traditional Thai
-snacks.
-
-Week eight focuses on enterprise development, covering the fundamentals of
-running a feasible small-scale mushroom production business.
-
-Week nine includes field trips to small and medium mushroom farms in the
-region, a formal evaluation of each trainee's acquired skills, and a
-closing ceremony with certificate distribution.
-
-## Monitoring and Evaluation
-
-The monitoring system requires trainers to check acquired knowledge through
-practical assessment, visit trainees' home mushroom houses, ensure trainees
-received necessary raw materials, and verify long-term sustainability. Visits
-should be frequent enough to provide ongoing support while encouraging
-independence.
-
-The manual emphasizes that trainers have been selected for a very specific
-task and will play a major role in the future of their trainees. The
-responsibility is to enable people with disabilities to achieve a better and
-happier life by making them self-reliant.
-
-## Success Outcomes
-
-The training program has produced remarkable results. Several trainees
-married following training. Others became physically stronger through the
-physical activity of cultivation work. Trainees have become trainers
-themselves, both at the training center and within their families and
-communities. Schools have requested trainees to teach adolescents and
-women's groups about mushroom cultivation. All trainees have transferred
-knowledge to family members, and mushroom cultivation has become a major
-source of household income for participating families.
-
-## See Also
-
-- [[mushroom-cultivation-disabilities-training-manual-overview]]
-- [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
-- [[mushroom-cultivation-for-disabilities-training-program]]
-- [[mushroom-cultivation-disabilities-training-program-design]]
-- [[holzer-lebenshilfe-permaculture-project-for-disabled-people]]
+general microbiology [[mycophiles-and-mushroom-culture]] explains how microbes grow in

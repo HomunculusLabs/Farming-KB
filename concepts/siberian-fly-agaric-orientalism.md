@@ -1,9 +1,9 @@
 ---
-title: Siberian Fly-Agaric Orientalism
+title: Siberian Fly Agaric Orientalism
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  - "Letcher - Shroom: A shroom-cultural-history-hippie-revolution-and-counterculture of the australian-magic-mushroom-common-names"
+  - "Letcher - Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the [[australian-magic-mushroom-common-names]]"
 type: concept
 tags: [agar]
 ---
@@ -46,7 +46,7 @@ falling down as if dead," while the community waits for "our god" to tell them
 But while it is true that most animistic tribal communities in Siberia supported
 people in the role of what we now call shamans, it would be quite wrong to think
 that they belonged to a static, monolithic, uniformly adhered-to religion, or to
-a pristine ur-religion. There never was a singular "shamanism" in Siberia. The
+a pristine ur-religion. There never was a singular "[[shamanism]]" in Siberia. The
 term itself was particular to Tungusic-speaking societies, and outside Siberia
 the name stuck while the actual terms used locally — kam, buri, oyun — varied
 widely.
@@ -88,21 +88,3 @@ primitives, in part because of the urine-drinking stories. But the shaman,
 elevated as a Rousseau-esque noble savage, became a template for the Romantic
 genius — a figure who, through altered consciousness, could access truths denied
 to ordinary perception.
-
-## Modern Perpetuation
-
-This orientalist tradition continues into the present. Contemporary writers such
-as Angela Carter (Nights at the Circus) and Alan Garner (Thursbitch) have drawn
-upon the fly-agaric shaman mythos, presenting characters with shaman-like
-qualities. While their fiction is sophisticated and self-aware, it nevertheless
-draws upon and perpetuates a Western fantasy about [[gottlieb-peyote-extraction-and-preparation-methods]], the [[emcdda-hallucinogenic-mushroom-polydrug-use-social-context]] of consumption, and the economic
-role [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]. Yet even Jochelson was not free from bias. He shared the
-evolutionist assumptions common to early twentieth-century anthropology, viewing
-indigenous Siberian cultures as survivals of an earlier stage of human
-development. His account of fly-agaric use was shaped by a desire to document
-"authentic" pre-contact practices, leading him to privilege certain accounts
-over others and to present a somewhat static picture of a tradition that was, in
-reality, actively responding to Russian colonial pressure and Christian
-missionary activity.
-
-The cumulative effect of these ethnographic sources was the creation of a
